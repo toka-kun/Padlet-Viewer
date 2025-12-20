@@ -245,7 +245,7 @@
             プロキシのリンクやYouTubeの閲覧方法を共有する会
             <img src="https://count.getloli.com/@toka_kun_?name=toka_kun_&theme=original-new&padding=7&offset=0&align=top&scale=0.4&pixelated=1&darkmode=1&_=0.48102400290076575" alt="count">
         </h1>
-        <div class="status" id="last-update">initializing...</div>
+        <div class="status" id="last-update">読み込み中...</div>
     </header>
 
     <main id="board-canvas">
@@ -362,16 +362,16 @@
             const title = lines[0].trim();
             
             // メタデータ抽出
-            const authorMatch = text.match(/\*\*作成者:\*\* (.*)/);
-            const colorMatch = text.match(/\*\*投稿のカラー:\*\* (.*)/);
-            const starsMatch = text.match(/星評価平均:\*\* ([\d\.]+)/);
-            const starsCountMatch = text.match(/評価件数:\*\* (\d+)/);
-            const createdMatch = text.match(/作成日\(UTC\):\*\* ([\d\/\s:]+)/);
+            const authorMatch = text.match(/\*\*Author:\*\* (.*)/);
+            const colorMatch = text.match(/\*\*Post color:\*\* (.*)/);
+            const starsMatch = text.match(/Average star rating:\*\* ([\d\.]+)/);
+            const starsCountMatch = text.match(/Number of ratings:\*\* (\d+)/);
+            const createdMatch = text.match(/Created At\(UTC\):\*\* ([\d\/\s:]+)/);
             const updatedMatch = text.match(/最終更新日:\*\* (.*)/);
 
             // コメント抽出
             let comments = [];
-            const commentBlockRegex = /#### コメント[^\n]*\n([\s\S]*?)(?=####|$)/;
+            const commentBlockRegex = /#### Comments[^\n]*\n([\s\S]*?)(?=####|$)/;
             const commentMatch = text.match(commentBlockRegex);
             if (commentMatch) {
                 const commentLines = commentMatch[1].trim().split('\n');
@@ -385,9 +385,9 @@
             let content = text.split('\n').slice(1).join('\n');
             const patternsToRemove = [
                 /\*\*作成者:.*[\r\n]+/,
-                /#### コメント[\s\S]*?(?=####|$)/, 
-                /#### リアクション[\s\S]*?(?=####|$)/, 
-                /#### その他の情報[\s\S]*?(?=####|$)/, 
+                /#### Comments[\s\S]*?(?=####|$)/, 
+                /#### Reactions[\s\S]*?(?=####|$)/, 
+                /#### Additional Information[\s\S]*?(?=####|$)/, 
                 /\*\*最終更新日:.*[\r\n]+/,
                 /^---[\r\n]+/gm 
             ];
@@ -396,7 +396,7 @@
             // ---------------------------------------------------------
             // 🌟 【変更点】 添付ファイルの画像化 ＋ リンクボタン追加処理
             // ---------------------------------------------------------
-            content = content.replace(/!?\[添付ファイル\]\((.*?)\)/g, (match, url) => {
+            content = content.replace(/!?\[Attachment\]\((.*?)\)/g, (match, url) => {
                 // 画像タグの後に、新しい行でリンクボタンHTMLを追加
                 return `![](${url})\n<a href="${url}" target="_blank" class="attachment-link">📎 リンクを開く</a>`;
             });
