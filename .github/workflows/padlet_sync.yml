@@ -1,13 +1,10 @@
 name: Padlet定期取得
 
 on:
-  # 1時間おきに自動実行
   schedule:
     - cron: '0 * * * *'
-  # 手動で「今すぐ実行」ボタンを押せるようにする設定
   workflow_dispatch:
 
-# ロボットに「ファイルを書き込む権限」を与える
 permissions:
   contents: write
 
@@ -15,24 +12,22 @@ jobs:
   get-padlet-data:
     runs-on: ubuntu-latest
     steps:
-      # 1. 自分のリポジトリのデータを読み込む
       - name: リポジトリをチェックアウト
         uses: actions/checkout@v4
 
-      # 2. PadletからMarkdownをダウンロードして上書き保存
       - name: Padletからデータを取得
+        # ▼【変更点1】保存名を .txt に変更
         run: |
-          curl -L -o padlet_export.md "https://padlet.com/padlets/a8v7cjbbfni702kg/exports/markdown.md"
+          curl -L -o padlet_export.txt "https://padlet.com/padlets/a8v7cjbbfni702kg/exports/markdown.md"
 
-      # 3. 変更があったらGitHubに保存（コミット＆プッシュ）
       - name: 変更を保存
         run: |
-          # ロボットの名前を設定
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           
-          # 変更があるか確認
-          git add padlet_export.md
+          # ▼【変更点2】Gitに追加するファイル名も .txt に変更
+          git add padlet_export.txt
+          
           if git diff --staged --quiet; then
             echo "変更がなかったので何もしません"
           else
