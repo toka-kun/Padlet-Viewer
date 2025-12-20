@@ -2,7 +2,7 @@ name: Padlet定期取得
 
 on:
   schedule:
-    - cron: '/15 * * * *'
+    - cron: '0/15 * * * *'
   workflow_dispatch:
 
 permissions:
