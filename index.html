@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Viewer</title>
+    <title>Padlet Viewer</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
     
@@ -12,7 +12,7 @@
         body {
             margin: 0;
             padding: 0;
-            background-color: #0d1117; /* GitHub Dark風の背景色 */
+            background-color: #0d1117;
             color: #e6edf3;
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
             height: 100vh;
@@ -38,7 +38,6 @@
             font-weight: 600; 
             color: #e6edf3; 
             display: flex; align-items: center; gap: 8px; margin: 0;
-            /* 長いタイトルを省略表示 */
             white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
             max-width: 80%; 
         }
@@ -52,7 +51,7 @@
         /* --- メインボードエリア --- */
         #board-canvas {
             flex-grow: 1;
-            overflow-x: auto; /* 横スクロール有効 */
+            overflow-x: auto;
             overflow-y: hidden;
             display: flex;
             padding: 24px;
@@ -90,7 +89,6 @@
             padding: 12px;
             overflow-y: auto;
             display: flex; flex-direction: column; gap: 12px;
-            /* スクロールバーのデザイン */
             scrollbar-width: thin;
             scrollbar-color: #30363d #161b22;
         }
@@ -116,7 +114,7 @@
             z-index: 5;
         }
 
-        /* カードの色設定 (左側のボーダーと背景) */
+        /* 色設定 */
         .card.color-white  { border-left: 3px solid #8b949e; }
         .card.color-red    { border-left: 3px solid #ff7b72; background: linear-gradient(180deg, rgba(255,123,114,0.1) 0%, rgba(13,17,23,0) 50%); }
         .card.color-yellow { border-left: 3px solid #d29922; background: linear-gradient(180deg, rgba(210,153,34,0.1) 0%, rgba(13,17,23,0) 50%); }
@@ -124,32 +122,31 @@
         .card.color-blue   { border-left: 3px solid #58a6ff; background: linear-gradient(180deg, rgba(88,166,255,0.1) 0%, rgba(13,17,23,0) 50%); }
         .card.color-purple { border-left: 3px solid #bc8cff; background: linear-gradient(180deg, rgba(188,140,255,0.1) 0%, rgba(13,17,23,0) 50%); }
 
-        /* カード内コンテンツ */
+        /* タイトル・ヘッダー（作成者・日付） */
         .card-title {
-            font-size: 1rem; font-weight: 600; margin-bottom: 6px;
+            font-size: 1rem; font-weight: 600; margin-bottom: 4px;
             color: #58a6ff; line-height: 1.4;
         }
-        .card-author {
+        .card-meta-header {
             font-size: 0.75rem; color: #7d8590; margin-bottom: 12px;
-            display: flex; align-items: center; gap: 6px;
+            display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
         }
-        .card-content {
-            font-size: 0.85rem; line-height: 1.6; color: #c9d1d9;
-            margin-bottom: 10px; overflow-wrap: break-word;
+        .card-meta-header .author { display: flex; align-items: center; gap: 4px; color: #e6edf3; font-weight: 500; }
+        .card-meta-header .date { color: #8b949e; }
+
+        /* 添付ファイルエリア (新規追加) */
+        .attachment-area {
+            margin-bottom: 12px;
         }
-        /* 画像のレスポンシブ対応 */
-        .card-content img { 
-            max-width: 100%; height: auto; 
-            border-radius: 4px; border: 1px solid #30363d; 
-            margin-top: 8px; margin-bottom: 6px; display: block;
+        .attachment-area img {
+            max-width: 100%; height: auto;
+            border-radius: 4px; border: 1px solid #30363d;
+            margin-bottom: 8px; display: block;
         }
-        .card-content a { color: #58a6ff; text-decoration: none; }
-        .card-content a:hover { text-decoration: underline; }
 
         /* 添付ファイルボタン */
         .attachment-link {
             display: inline-block;
-            margin-top: 4px; margin-bottom: 12px;
             padding: 6px 12px;
             background-color: #21262d;
             border: 1px solid #30363d;
@@ -166,7 +163,49 @@
             border-color: #8b949e;
         }
 
-        /* コメントエリア */
+        /* 本文 */
+        .card-content {
+            font-size: 0.85rem; line-height: 1.6; color: #c9d1d9;
+            margin-bottom: 12px; overflow-wrap: break-word;
+        }
+        .card-content img { 
+            max-width: 100%; height: auto; 
+            border-radius: 4px; border: 1px solid #30363d; 
+            margin-top: 8px; margin-bottom: 6px; display: block;
+        }
+        .card-content a { color: #58a6ff; text-decoration: none; }
+        .card-content a:hover { text-decoration: underline; }
+
+        /* カスタムフィールド表示エリア */
+        .custom-fields-area {
+            background-color: rgba(110, 118, 129, 0.1);
+            border-radius: 4px;
+            padding: 8px;
+            margin-bottom: 12px;
+            font-size: 0.8rem;
+            color: #c9d1d9;
+            border: 1px solid rgba(48, 54, 61, 0.5);
+        }
+        .custom-field-row {
+            display: flex; gap: 6px; margin-bottom: 2px;
+        }
+        .custom-field-row:last-child { margin-bottom: 0; }
+        .custom-field-label { color: #8b949e; font-weight: 600; min-width: 80px; }
+
+        /* リアクション（スター）エリア */
+        .reactions-section {
+            display: flex; align-items: center; justify-content: space-between;
+            padding: 8px 0;
+            border-top: 1px solid rgba(48, 54, 61, 0.5);
+            margin-top: auto; /* コンテンツの下に配置 */
+        }
+        .stars {
+            background: rgba(227, 179, 65, 0.1); color: #e3b341;
+            padding: 2px 8px; border-radius: 10px; font-size: 0.8rem; font-weight: 600;
+        }
+        .stars-count { color: #8b949e; font-weight: normal; font-size: 0.75rem; margin-left: 4px; }
+
+        /* コメントエリア（一番下） */
         .comments-section {
             background-color: #161b22;
             border-radius: 6px;
@@ -192,19 +231,7 @@
         .comment-date { color: #7d8590; }
         .comment-msg { color: #c9d1d9; word-break: break-all; }
 
-        /* カードフッター（スター評価・日付） */
-        .card-footer {
-            margin-top: auto; padding-top: 12px;
-            border-top: 1px solid rgba(48, 54, 61, 0.5);
-            display: flex; justify-content: space-between; align-items: center;
-        }
-        .stars {
-            background: rgba(227, 179, 65, 0.1); color: #e3b341;
-            padding: 2px 8px; border-radius: 10px; font-size: 0.8rem; font-weight: 600;
-        }
-        .date-info { font-size: 0.7rem; color: #7d8590; }
-
-        /* ロード画面・エラー画面 */
+        /* ロード・エラー */
         #loading { width: 100%; height: 100%; display: flex; padding: 20px; gap: 20px; }
         .skeleton-column {
             min-width: 350px; height: 80%; background: #161b22;
@@ -262,15 +289,12 @@
     <script>
         const markdownUrl = '/padlet_export.txt';
 
-        // --- Marked(Markdownパーサー)の設定 ---
         const renderer = new marked.Renderer();
         renderer.link = function(href, title, text) {
-            // リンクを新しいタブで開くように強制
             return `<a href="${href}" target="_blank" rel="noopener noreferrer">${text}</a>`;
         };
         marked.setOptions({ renderer: renderer, breaks: true });
 
-        // --- データ取得と初期化 ---
         async function fetchAndRender() {
             const loadingDiv = document.getElementById('loading');
             const errorDiv = document.getElementById('error-message');
@@ -278,7 +302,6 @@
             const canvas = document.getElementById('board-canvas');
 
             try {
-                // キャッシュ回避のためにタイムスタンプを付与
                 const response = await fetch(`${markdownUrl}?t=${new Date().getTime()}`);
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 const text = await response.text();
@@ -301,9 +324,7 @@
             }
         }
 
-        // --- ボードの描画処理 ---
         function renderBoard(markdownText, canvas) {
-            // "## " でセクション（列）ごとに分割
             const columns = markdownText.split(/^## /gm);
             
             columns.forEach((colText, index) => {
@@ -313,12 +334,10 @@
                 let colTitle = (firstLineBreak === -1) ? colText.trim() : colText.substring(0, firstLineBreak).trim();
                 let colContent = (firstLineBreak === -1) ? '' : colText.substring(firstLineBreak + 1);
 
-                // Summary対応：H1直下の説明文などを表示するための処理
                 if (index === 0 && colTitle.startsWith('# ')) {
                      if (!colContent.trim()) return;
                 }
 
-                // カラムのHTML生成
                 const colDiv = document.createElement('div');
                 colDiv.className = 'column';
                 colDiv.innerHTML = `
@@ -327,14 +346,11 @@
                 `;
                 const colBody = colDiv.querySelector('.column-body');
 
-                // カード分割 (###)
                 let cardsData = colContent.split(/^### /gm);
 
-                // Summaryや冒頭説明など、"###" がないセクションの処理
                 if (cardsData.length === 1 && !colContent.includes('### ')) {
                     const content = cardsData[0].trim();
                     if (content) {
-                        // タイトルとして「概要」などを付与してカード化
                         cardsData = [`${colTitle} 概要\n${content}`];
                     } else {
                         cardsData = [];
@@ -358,32 +374,30 @@
             });
         }
 
-        // --- テキスト解析（英語・日本語メタデータ対応） ---
         function parseCard(text) {
             const lines = text.trim().split('\n');
             const title = lines[0].trim(); 
             
-            // メタデータ抽出関数（正規表現, 大文字小文字無視）
             const getMeta = (regex) => {
                 const match = text.match(regex);
                 return match ? match[1].trim() : null;
             };
 
-            // Author, Builder, 作成者に対応
             const author = getMeta(/\*\*(?:Author|作成者|Builder):\*\* (.*)/i) || '不明';
-            
-            // Post color, Color, 投稿のカラーに対応
             const color = getMeta(/\*\*(?:Post color|Color|投稿のカラー):\*\* (.*)/i) || 'White';
             
-            // 日付 (Created At, Updated At)
-            let dateStr = getMeta(/\*\*(?:Created At \(UTC\)|Created At|作成日\(UTC\)|作成日):\*\* (.*)/i);
-            if (!dateStr) dateStr = getMeta(/\*\*(?:Updated At \(UTC\)|Updated At|最終更新日):\*\* (.*)/i);
+            // --- カスタムフィールド抽出 ---
+            const postType = getMeta(/\*\*(?:投稿の種類|Post Type):\*\* (.*)/i);
+            const customLastUpdate = getMeta(/\*\*(?:最終更新日|Last Updated):\*\* (.*)/i);
 
-            // 評価 (Stars)
+            // --- システム日付（作成日 UTCのみ使用・変換なし） ---
+            let createdAtUtc = getMeta(/\*\*(?:Created At \(UTC\)|Created At|作成日\(UTC\)|作成日):\*\* (.*)/i);
+
+            // 評価
             const rating = parseFloat(getMeta(/\*\*(?:Average star rating|星評価平均):\*\* ([\d\.]+)/i) || 0);
             const ratingCount = getMeta(/\*\*(?:Number of ratings|評価件数|Votes):\*\* (\d+)/i) || 0;
 
-            // コメント抽出
+            // コメント
             let comments = [];
             const commentBlockRegex = /#### (?:Comments|コメント)[^\n]*\n([\s\S]*?)(?=####|$)/i;
             const commentMatch = text.match(commentBlockRegex);
@@ -395,19 +409,20 @@
                 });
             }
 
-            // 本文の整形（タイトル行の削除）
+            // 本文整形
             let content = text;
             if (lines.length > 0) content = lines.slice(1).join('\n'); 
 
-            // 本文から削除するメタデータ行（箇条書きハイフン有無両対応）
+            // 削除するメタデータ
             const patternsToRemove = [
                 /(?:- )?\*\*(?:Author|作成者|Builder):.*[\r\n]+/gi,
                 /(?:- )?\*\*(?:Post color|Color|投稿のカラー):.*[\r\n]+/gi,
                 /(?:- )?\*\*(?:Created At|作成日).*?:.*[\r\n]+/gi,
-                /(?:- )?\*\*(?:Updated At|最終更新日).*?:.*[\r\n]+/gi,
+                /(?:- )?\*\*(?:Updated At|更新日|最終更新日).*?:.*[\r\n]+/gi,
+                /(?:- )?\*\*(?:Post Type|投稿の種類):.*[\r\n]+/gi,
                 /(?:- )?\*\*(?:Average star rating|星評価平均):.*[\r\n]+/gi,
                 /(?:- )?\*\*(?:Number of ratings|評価件数):.*[\r\n]+/gi,
-                /(?:- )?\*\*(?:Link|Posts):.*[\r\n]+/gi, // Summary用
+                /(?:- )?\*\*(?:Link|Posts):.*[\r\n]+/gi,
                 /#### (?:Comments|コメント)[\s\S]*?(?=####|$)/i, 
                 /#### (?:Reactions|リアクション)[\s\S]*?(?=####|$)/i, 
                 /#### (?:Additional Information|その他の情報)[\s\S]*?(?=####|$)/i, 
@@ -415,9 +430,11 @@
             ];
             patternsToRemove.forEach(regex => content = content.replace(regex, ''));
             
-            // 添付ファイル処理： [Attachment](url) を 画像表示 + 日本語ボタン に変換
+            // 添付ファイルの抽出と本文からの削除
+            let attachmentUrl = null;
             content = content.replace(/!?\[(?:Attachment|添付ファイル)\]\((.*?)\)/gi, (match, url) => {
-                return `![](${url})\n<a href="${url}" target="_blank" class="attachment-link">📎 添付ファイルを開く</a>`;
+                attachmentUrl = url;
+                return ''; // 本文からは削除
             });
 
             return {
@@ -428,15 +445,16 @@
                 comments: comments,
                 rating: rating,
                 ratingCount: ratingCount,
-                date: dateStr || ''
+                createdDate: createdAtUtc, // 変換せずUTCのまま
+                postType: postType,
+                customLastUpdate: customLastUpdate,
+                attachmentUrl: attachmentUrl // 抽出したURL
             };
         }
 
-        // --- カードDOM生成 ---
         function createCardElement(data) {
             const el = document.createElement('div');
             
-            // 色判定 (英語・日本語・小文字 対応)
             let colorClass = 'color-white';
             if (data.color) {
                 const c = data.color.toLowerCase();
@@ -448,11 +466,34 @@
             }
             el.className = `card ${colorClass}`;
 
-            // スター表示
-            const starsStr = data.rating > 0 ? '⭐'.repeat(Math.round(data.rating)) : '';
+            const starsStr = data.rating > 0 ? '⭐'.repeat(Math.round(data.rating)) : '☆';
             const ratingText = data.ratingCount > 0 ? `(${data.ratingCount})` : '';
 
-            // コメント欄生成
+            // 添付ファイルエリアのHTML
+            let attachmentHtml = '';
+            if (data.attachmentUrl) {
+                attachmentHtml = `
+                    <div class="attachment-area">
+                        <img src="${escapeHtml(data.attachmentUrl)}" alt="Attachment">
+                        <a href="${escapeHtml(data.attachmentUrl)}" target="_blank" class="attachment-link">📎 添付ファイルを開く</a>
+                    </div>
+                `;
+            }
+
+            // カスタムフィールド
+            let customFieldsHtml = '';
+            if (data.postType || data.customLastUpdate) {
+                customFieldsHtml += '<div class="custom-fields-area">';
+                if (data.postType) {
+                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">投稿の種類:</span><span>${escapeHtml(data.postType)}</span></div>`;
+                }
+                if (data.customLastUpdate) {
+                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">最終更新日:</span><span>${escapeHtml(data.customLastUpdate)}</span></div>`;
+                }
+                customFieldsHtml += '</div>';
+            }
+
+            // コメント
             let commentsHtml = '';
             if (data.comments.length > 0) {
                 const list = data.comments.map(c => `
@@ -475,32 +516,40 @@
                 `;
             }
 
-            // HTML変換（Markdown -> HTML） & サニタイズ
             const rawHtml = marked.parse(data.content);
             const cleanHtml = DOMPurify.sanitize(rawHtml, { ADD_ATTR: ['target', 'class'] });
 
+            // レイアウト組み立て: タイトル -> ヘッダー -> 添付ファイル -> 本文 -> カスタムフィールド -> リアクション -> コメント
             el.innerHTML = `
                 <div class="card-title">${escapeHtml(data.title)}</div>
-                <div class="card-author">👤 ${escapeHtml(data.author)}</div>
+                
+                <div class="card-meta-header">
+                    <span class="author">👤 ${escapeHtml(data.author)}</span>
+                    ${data.createdDate ? `<span class="date"> • ${escapeHtml(data.createdDate)}</span>` : ''}
+                </div>
+
+                ${attachmentHtml}
+
                 <div class="card-content markdown-body" style="background:transparent; color:#c9d1d9;">
                     ${cleanHtml}
                 </div>
-                ${commentsHtml}
-                <div class="card-footer">
-                    <span class="stars">${starsStr} <span style="color:#8b949e;font-weight:normal;font-size:0.75rem;">${ratingText}</span></span>
-                    <span class="date-info">${escapeHtml(data.date)}</span>
+
+                ${customFieldsHtml}
+
+                <div class="reactions-section">
+                    <span class="stars">${starsStr} <span class="stars-count">${ratingText}</span></span>
                 </div>
+
+                ${commentsHtml}
             `;
             return el;
         }
 
-        // HTMLエスケープ処理（XSS対策）
         function escapeHtml(text) {
             if (!text) return '';
             return text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
         }
 
-        // 実行開始
         fetchAndRender();
     </script>
 </body>
