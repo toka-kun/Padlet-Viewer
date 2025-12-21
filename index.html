@@ -134,19 +134,20 @@
         .card-meta-header .author { display: flex; align-items: center; gap: 4px; color: #e6edf3; font-weight: 500; }
         .card-meta-header .date { color: #8b949e; }
 
-        /* 添付ファイルエリア (新規追加) */
+        /* 添付ファイル・リンクエリア */
         .attachment-area {
             margin-bottom: 12px;
+            display: flex; flex-direction: column; gap: 8px;
         }
         .attachment-area img {
             max-width: 100%; height: auto;
             border-radius: 4px; border: 1px solid #30363d;
-            margin-bottom: 8px; display: block;
+            display: block;
         }
 
-        /* 添付ファイルボタン */
-        .attachment-link {
-            display: inline-block;
+        /* 共通ボタンスタイル */
+        .action-link {
+            display: inline-flex; align-items: center; gap: 6px;
             padding: 6px 12px;
             background-color: #21262d;
             border: 1px solid #30363d;
@@ -156,8 +157,9 @@
             text-decoration: none !important;
             transition: background 0.2s;
             font-weight: 600;
+            width: fit-content;
         }
-        .attachment-link:hover {
+        .action-link:hover {
             background-color: #30363d;
             color: #79c0ff !important;
             border-color: #8b949e;
@@ -374,6 +376,31 @@
             });
         }
 
+        // --- 賢い日付フォーマット関数 ---
+        // 年(4桁の数字)が含まれている場合のみ変換を行う。
+        // 年が含まれていない(日本語版 08/25 など)場合は原文のまま返す。
+        function smartDateFormat(rawStr) {
+            if (!rawStr) return null;
+            
+            // 4桁の数字（西暦）が含まれているかチェック
+            const hasYear = /\d{4}/.test(rawStr);
+
+            if (hasYear) {
+                const ts = Date.parse(rawStr);
+                if (!isNaN(ts)) {
+                    return new Date(ts).toLocaleString('ja-JP', { 
+                        year: 'numeric', 
+                        month: '2-digit', 
+                        day: '2-digit', 
+                        hour: '2-digit', 
+                        minute: '2-digit' 
+                    });
+                }
+            }
+            // 年がない場合（例: 08/25 10:00）は、勝手に2001年にせず、そのまま返す
+            return rawStr;
+        }
+
         function parseCard(text) {
             const lines = text.trim().split('\n');
             const title = lines[0].trim(); 
@@ -383,19 +410,26 @@
                 return match ? match[1].trim() : null;
             };
 
-            const author = getMeta(/\*\*(?:Author|作成者|Builder):\*\* (.*)/i) || '不明';
-            const color = getMeta(/\*\*(?:Post color|Color|投稿のカラー):\*\* (.*)/i) || 'White';
+            const author = getMeta(/(?:- )?\*\*(?:Author|作成者|Builder):\*\* (.*)/i) || '不明';
+            const color = getMeta(/(?:- )?\*\*(?:Post color|Color|投稿のカラー):\*\* (.*)/i) || 'White';
             
             // --- カスタムフィールド抽出 ---
-            const postType = getMeta(/\*\*(?:投稿の種類|Post Type):\*\* (.*)/i);
-            const customLastUpdate = getMeta(/\*\*(?:最終更新日|Last Updated):\*\* (.*)/i);
+            const postType = getMeta(/(?:- )?\*\*(?:投稿の種類|Post Type):\*\* (.*)/i);
+            const customLastUpdate = getMeta(/(?:- )?\*\*(?:最終更新日|Last Updated|Updated At|更新日|更新日\(UTC\)):\*\* (.*)/i);
+            
+            // リンクURLの抽出 (PadletはURL投稿の場合、Linkというメタデータを持つことがある)
+            const linkUrl = getMeta(/(?:- )?\*\*(?:Link|リンク):\*\* (.*)/i);
 
-            // --- システム日付（作成日 UTCのみ使用・変換なし） ---
-            let createdAtUtc = getMeta(/\*\*(?:Created At \(UTC\)|Created At|作成日\(UTC\)|作成日):\*\* (.*)/i);
+            // --- システム日付 ---
+            let rawCreatedDate = getMeta(/(?:- )?\*\*(?:Created At(?: \(UTC\))?|Created At|Date Created|Creation Date|作成日（UTC）|作成日\(UTC\)|作成日):\*\* (.*)/i);
+            
+            // 日付を整形
+            const displayCreatedDate = smartDateFormat(rawCreatedDate);
+            const displayUpdatedDate = smartDateFormat(customLastUpdate);
 
             // 評価
-            const rating = parseFloat(getMeta(/\*\*(?:Average star rating|星評価平均):\*\* ([\d\.]+)/i) || 0);
-            const ratingCount = getMeta(/\*\*(?:Number of ratings|評価件数|Votes):\*\* (\d+)/i) || 0;
+            const rating = parseFloat(getMeta(/(?:- )?\*\*(?:Average star rating|星評価平均):\*\* ([\d\.]+)/i) || 0);
+            const ratingCount = getMeta(/(?:- )?\*\*(?:Number of ratings|評価件数|Votes):\*\* (\d+)/i) || 0;
 
             // コメント
             let comments = [];
@@ -413,16 +447,16 @@
             let content = text;
             if (lines.length > 0) content = lines.slice(1).join('\n'); 
 
-            // 削除するメタデータ
+            // 削除するメタデータ (正規表現で確実に消す)
             const patternsToRemove = [
-                /(?:- )?\*\*(?:Author|作成者|Builder):.*[\r\n]+/gi,
-                /(?:- )?\*\*(?:Post color|Color|投稿のカラー):.*[\r\n]+/gi,
-                /(?:- )?\*\*(?:Created At|作成日).*?:.*[\r\n]+/gi,
-                /(?:- )?\*\*(?:Updated At|更新日|最終更新日).*?:.*[\r\n]+/gi,
-                /(?:- )?\*\*(?:Post Type|投稿の種類):.*[\r\n]+/gi,
-                /(?:- )?\*\*(?:Average star rating|星評価平均):.*[\r\n]+/gi,
-                /(?:- )?\*\*(?:Number of ratings|評価件数):.*[\r\n]+/gi,
-                /(?:- )?\*\*(?:Link|Posts):.*[\r\n]+/gi,
+                /(?:- )?\*\*(?:Author|作成者|Builder):.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:Post color|Color|投稿のカラー):.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:Created At|Date Created|作成日).*?:.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:Updated At|Last Updated|更新日|最終更新日).*?:.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:Post Type|投稿の種類):.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:Average star rating|星評価平均):.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:Number of ratings|評価件数):.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:Link|Posts|リンク):.*[\r\n]*/gi,
                 /#### (?:Comments|コメント)[\s\S]*?(?=####|$)/i, 
                 /#### (?:Reactions|リアクション)[\s\S]*?(?=####|$)/i, 
                 /#### (?:Additional Information|その他の情報)[\s\S]*?(?=####|$)/i, 
@@ -445,10 +479,11 @@
                 comments: comments,
                 rating: rating,
                 ratingCount: ratingCount,
-                createdDate: createdAtUtc, // 変換せずUTCのまま
+                createdDate: displayCreatedDate, // 整形済み or 原文
                 postType: postType,
-                customLastUpdate: customLastUpdate,
-                attachmentUrl: attachmentUrl // 抽出したURL
+                customLastUpdate: displayUpdatedDate,
+                attachmentUrl: attachmentUrl,
+                linkUrl: linkUrl
             };
         }
 
@@ -469,15 +504,23 @@
             const starsStr = data.rating > 0 ? '⭐'.repeat(Math.round(data.rating)) : '☆';
             const ratingText = data.ratingCount > 0 ? `(${data.ratingCount})` : '';
 
-            // 添付ファイルエリアのHTML
-            let attachmentHtml = '';
-            if (data.attachmentUrl) {
-                attachmentHtml = `
-                    <div class="attachment-area">
-                        <img src="${escapeHtml(data.attachmentUrl)}" alt="Attachment">
-                        <a href="${escapeHtml(data.attachmentUrl)}" target="_blank" class="attachment-link">📎 添付ファイルを開く</a>
-                    </div>
-                `;
+            // アタッチメント・リンクエリアの構築
+            let mediaHtml = '';
+            if (data.attachmentUrl || data.linkUrl) {
+                mediaHtml += '<div class="attachment-area">';
+                
+                // 画像表示 (attachmentUrlがある場合)
+                if (data.attachmentUrl) {
+                    mediaHtml += `<img src="${escapeHtml(data.attachmentUrl)}" alt="Attachment">`;
+                    mediaHtml += `<a href="${escapeHtml(data.attachmentUrl)}" target="_blank" class="action-link">📎 添付ファイル</a>`;
+                }
+
+                // リンクボタン (Linkメタデータがある場合、またはAttachmentが無いがLinkがある場合)
+                if (data.linkUrl && data.linkUrl !== data.attachmentUrl) {
+                     mediaHtml += `<a href="${escapeHtml(data.linkUrl)}" target="_blank" class="action-link">🔗 リンクを開く</a>`;
+                }
+                
+                mediaHtml += '</div>';
             }
 
             // カスタムフィールド
@@ -519,7 +562,6 @@
             const rawHtml = marked.parse(data.content);
             const cleanHtml = DOMPurify.sanitize(rawHtml, { ADD_ATTR: ['target', 'class'] });
 
-            // レイアウト組み立て: タイトル -> ヘッダー -> 添付ファイル -> 本文 -> カスタムフィールド -> リアクション -> コメント
             el.innerHTML = `
                 <div class="card-title">${escapeHtml(data.title)}</div>
                 
@@ -528,7 +570,7 @@
                     ${data.createdDate ? `<span class="date"> • ${escapeHtml(data.createdDate)}</span>` : ''}
                 </div>
 
-                ${attachmentHtml}
+                ${mediaHtml}
 
                 <div class="card-content markdown-body" style="background:transparent; color:#c9d1d9;">
                     ${cleanHtml}
