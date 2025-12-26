@@ -7,4 +7,4 @@
 
 ## Pad部屋のプレビュー
 
-[![pprokyo](https://padlet.com/padlets/a8v7cjbbfni702kg/embeds/preview_embed)]
+[![pprokyo](https://padlet.com/padlets/a8v7cjbbfni702kg/embeds/preview_embed)](https://padlet.com/padlets/a8v7cjbbfni702kg/embeds/preview_embed)
