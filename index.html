@@ -289,13 +289,25 @@
     </main>
 
     <script>
-        const markdownUrl = '/padlet_export.txt';
+        const markdownUrl = 'https://raw.githubusercontent.com/toka-kun/Padlet-Viewer/refs/heads/main/padlet_export.txt';
 
+        // 1. Marked (Markdownパーサー)の設定: リンクを検出したら target="_blank" を付与
         const renderer = new marked.Renderer();
         renderer.link = function(href, title, text) {
             return `<a href="${href}" target="_blank" rel="noopener noreferrer">${text}</a>`;
         };
         marked.setOptions({ renderer: renderer, breaks: true });
+
+        // 2. DOMPurify (HTMLサニタイザー)の設定: 
+        // Markdown内に直接書かれたHTMLタグや、他の経路で生成されたリンクに対しても
+        // 強制的に target="_blank" を追加するフックを設定
+        DOMPurify.addHook('afterSanitizeAttributes', function (node) {
+            // ノードがリンク(Aタグ)であり、target属性を持てる場合
+            if ('target' in node) {
+                node.setAttribute('target', '_blank');
+                node.setAttribute('rel', 'noopener noreferrer');
+            }
+        });
 
         async function fetchAndRender() {
             const loadingDiv = document.getElementById('loading');
@@ -385,7 +397,6 @@
             if (!yearMatch) return rawStr;
 
             // 2. 英語形式の解析 (例: Aug 20, 2024 10:59pm)
-            // 正規表現で各パーツを抽出: 月(英字), 日(数字), 年(数字), 時(数字):分(数字)am/pm
             const enRegex = /([a-zA-Z]+)\s+(\d{1,2}),\s+(\d{4})(?:\s+(\d{1,2}):(\d{2})([ap]m))?/i;
             const enMatch = rawStr.match(enRegex);
 
@@ -397,7 +408,6 @@
                 const minute = enMatch[5] ? parseInt(enMatch[5], 10) : 0;
                 const ampm = enMatch[6] ? enMatch[6].toLowerCase() : null;
 
-                // 月名の変換
                 const months = {
                     jan:0, january:0, feb:1, february:1, mar:2, march:2, apr:3, april:3, may:4, 
                     jun:5, june:5, jul:6, july:6, aug:7, august:7, sep:8, september:8, oct:9, october:9, 
@@ -406,21 +416,17 @@
                 const month = months[monthStr.toLowerCase()];
 
                 if (month !== undefined) {
-                    // AM/PMの処理
                     if (ampm === 'pm' && hour < 12) hour += 12;
                     if (ampm === 'am' && hour === 12) hour = 0;
 
-                    // UTCとしてDateオブジェクトを作成
                     const utcDate = new Date(Date.UTC(year, month, day, hour, minute));
                     
-                    // 時間が含まれていない場合（00:00）は日付のみ
                     if (!enMatch[4]) {
                          return utcDate.toLocaleDateString('ja-JP', {
                             year: 'numeric', month: '2-digit', day: '2-digit'
                         });
                     }
                     
-                    // JST形式で返す
                     return utcDate.toLocaleString('ja-JP', {
                         year: 'numeric', month: '2-digit', day: '2-digit',
                         hour: '2-digit', minute: '2-digit'
@@ -428,11 +434,10 @@
                 }
             }
 
-            // 3. 日本語形式やその他の標準形式 (例: 2025/12/26)
+            // 3. 標準的な解析
             const ts = Date.parse(rawStr);
             if (!isNaN(ts)) {
                 const d = new Date(ts);
-                // 0時0分の場合は日付のみ
                 if (d.getHours() === 0 && d.getMinutes() === 0) {
                     return d.toLocaleDateString('ja-JP', {
                         year: 'numeric', month: '2-digit', day: '2-digit'
@@ -475,7 +480,7 @@
             const rating = parseFloat(getMeta(/(?:- )?\*\*(?:Average star rating|星評価平均):\*\* ([\d\.]+)/i) || 0);
             const ratingCount = getMeta(/(?:- )?\*\*(?:Number of ratings|評価件数|Votes):\*\* (\d+)/i) || 0;
 
-            // コメントの抽出と整形（ここを修正！）
+            // コメント
             let comments = [];
             const commentBlockRegex = /#### (?:Comments|コメント)[^\n]*\n([\s\S]*?)(?=####|$)/i;
             const commentMatch = text.match(commentBlockRegex);
@@ -484,7 +489,6 @@
                 commentLines.forEach(line => {
                     const m = line.match(/- \*\*(.*?)\*\* \((.*?)\): (.*)/);
                     if (m) {
-                        // コメントの日付にも smartDateFormat を適用
                         const formattedDate = smartDateFormat(m[2]);
                         comments.push({ user: m[1], date: formattedDate, msg: m[3] });
                     }
@@ -558,9 +562,11 @@
                 mediaHtml += '<div class="attachment-area">';
                 if (data.attachmentUrl) {
                     mediaHtml += `<img src="${escapeHtml(data.attachmentUrl)}" alt="Attachment">`;
+                    // 添付ファイルボタン（強制target="_blank"）
                     mediaHtml += `<a href="${escapeHtml(data.attachmentUrl)}" target="_blank" class="action-link">📎 添付ファイル</a>`;
                 }
                 if (data.linkUrl && data.linkUrl !== data.attachmentUrl) {
+                    // 外部リンクボタン（強制target="_blank"）
                      mediaHtml += `<a href="${escapeHtml(data.linkUrl)}" target="_blank" class="action-link">🔗 リンクを開く</a>`;
                 }
                 mediaHtml += '</div>';
@@ -602,6 +608,7 @@
                 `;
             }
 
+            // 本文のHTML生成（ここでtarget="_blank"がフックにより適用される）
             const rawHtml = marked.parse(data.content);
             const cleanHtml = DOMPurify.sanitize(rawHtml, { ADD_ATTR: ['target', 'class'] });
 
