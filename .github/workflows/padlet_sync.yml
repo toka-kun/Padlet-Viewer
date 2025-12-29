@@ -2,7 +2,6 @@ name: Padlet定期取得
 
 on:
   schedule:
-    # 15分ごとに実行
     - cron: '0/15 * * * *'
   workflow_dispatch:
 
@@ -16,38 +15,22 @@ jobs:
       - name: リポジトリをチェックアウト
         uses: actions/checkout@v4
 
-      - name: ランダムなブラウザとしてデータを取得
+      - name: Padletからデータを取得
+        # ▼【変更点1】保存名を .txt に変更
         run: |
-          # 1. 変装用リスト（主要なブラウザのリストを定義）
-          USER_AGENTS=(
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0"
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0"
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15"
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0"
-          )
-
-          # 2. リストからランダムに1つ選ぶ
-          RANDOM_UA=${USER_AGENTS[$RANDOM % ${#USER_AGENTS[@]}]}
-          
-          echo "今回の変装: $RANDOM_UA"
-
-          # 3. 選んだブラウザになりすましてダウンロード
-          curl -L -o padlet_export.txt \
-            -H "User-Agent: $RANDOM_UA" \
-            "https://padlet.com/padlets/a8v7cjbbfni702kg/exports/markdown.md"
+          curl -L -o padlet_export.txt "https://padlet.com/padlets/a8v7cjbbfni702kg/exports/markdown.md"
 
       - name: 変更を保存
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           
+          # ▼【変更点2】Gitに追加するファイル名も .txt に変更
           git add padlet_export.txt
           
           if git diff --staged --quiet; then
             echo "変更がなかったので何もしません"
           else
-            git commit -m "Updated Padlet data"
+            git commit -m "Padletの最新データを取得しました"
             git push
           fi
