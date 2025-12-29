@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Viewer</title>
+    <title>Padlet Viewer</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
     
@@ -376,38 +376,74 @@
             });
         }
 
-        // --- 賢い日付フォーマット関数 (修正版) ---
-        // 1. 年(4桁)があるかチェック
-        // 2. 00:00 なら時間非表示
+        // --- 強力な日時解析・フォーマット関数 ---
         function smartDateFormat(rawStr) {
             if (!rawStr) return null;
             
-            // 4桁の数字（西暦）が含まれているかチェック
-            const hasYear = /\d{4}/.test(rawStr);
+            // 1. まず年(4桁)があるかチェック。なければそのまま返す（日本語の年なしデータ対策）
+            const yearMatch = rawStr.match(/\d{4}/);
+            if (!yearMatch) return rawStr;
 
-            if (hasYear) {
-                const ts = Date.parse(rawStr);
-                if (!isNaN(ts)) {
-                    const d = new Date(ts);
-                    // 時間が0時0分の場合は、日付だけ返す
-                    if (d.getHours() === 0 && d.getMinutes() === 0) {
-                        return d.toLocaleDateString('ja-JP', {
-                            year: 'numeric', 
-                            month: '2-digit', 
-                            day: '2-digit'
+            // 2. 英語形式の解析 (例: Aug 20, 2024 10:59pm)
+            // 正規表現で各パーツを抽出: 月(英字), 日(数字), 年(数字), 時(数字):分(数字)am/pm
+            const enRegex = /([a-zA-Z]+)\s+(\d{1,2}),\s+(\d{4})(?:\s+(\d{1,2}):(\d{2})([ap]m))?/i;
+            const enMatch = rawStr.match(enRegex);
+
+            if (enMatch) {
+                const monthStr = enMatch[1];
+                const day = parseInt(enMatch[2], 10);
+                const year = parseInt(enMatch[3], 10);
+                let hour = enMatch[4] ? parseInt(enMatch[4], 10) : 0;
+                const minute = enMatch[5] ? parseInt(enMatch[5], 10) : 0;
+                const ampm = enMatch[6] ? enMatch[6].toLowerCase() : null;
+
+                // 月名の変換
+                const months = {
+                    jan:0, january:0, feb:1, february:1, mar:2, march:2, apr:3, april:3, may:4, 
+                    jun:5, june:5, jul:6, july:6, aug:7, august:7, sep:8, september:8, oct:9, october:9, 
+                    nov:10, november:10, dec:11, december:11
+                };
+                const month = months[monthStr.toLowerCase()];
+
+                if (month !== undefined) {
+                    // AM/PMの処理
+                    if (ampm === 'pm' && hour < 12) hour += 12;
+                    if (ampm === 'am' && hour === 12) hour = 0;
+
+                    // UTCとしてDateオブジェクトを作成
+                    const utcDate = new Date(Date.UTC(year, month, day, hour, minute));
+                    
+                    // 時間が含まれていない場合（00:00）は日付のみ
+                    if (!enMatch[4]) {
+                         return utcDate.toLocaleDateString('ja-JP', {
+                            year: 'numeric', month: '2-digit', day: '2-digit'
                         });
                     }
-                    // 時間がある場合は、時間まで返す
-                    return d.toLocaleString('ja-JP', { 
-                        year: 'numeric', 
-                        month: '2-digit', 
-                        day: '2-digit', 
-                        hour: '2-digit', 
-                        minute: '2-digit' 
+                    
+                    // JST形式で返す
+                    return utcDate.toLocaleString('ja-JP', {
+                        year: 'numeric', month: '2-digit', day: '2-digit',
+                        hour: '2-digit', minute: '2-digit'
                     });
                 }
             }
-            // 年がない場合（例: 08/25 10:00）は、勝手に2001年にせず、そのまま返す
+
+            // 3. 日本語形式やその他の標準形式 (例: 2025/12/26)
+            const ts = Date.parse(rawStr);
+            if (!isNaN(ts)) {
+                const d = new Date(ts);
+                // 0時0分の場合は日付のみ
+                if (d.getHours() === 0 && d.getMinutes() === 0) {
+                    return d.toLocaleDateString('ja-JP', {
+                        year: 'numeric', month: '2-digit', day: '2-digit'
+                    });
+                }
+                return d.toLocaleString('ja-JP', { 
+                    year: 'numeric', month: '2-digit', day: '2-digit', 
+                    hour: '2-digit', minute: '2-digit' 
+                });
+            }
+
             return rawStr;
         }
 
@@ -426,8 +462,6 @@
             // --- カスタムフィールド抽出 ---
             const postType = getMeta(/(?:- )?\*\*(?:投稿の種類|Post Type):\*\* (.*)/i);
             const customLastUpdate = getMeta(/(?:- )?\*\*(?:最終更新日|Last Updated|Updated At|更新日|更新日\(UTC\)):\*\* (.*)/i);
-            
-            // リンクURLの抽出 (PadletはURL投稿の場合、Linkというメタデータを持つことがある)
             const linkUrl = getMeta(/(?:- )?\*\*(?:Link|リンク):\*\* (.*)/i);
 
             // --- システム日付 ---
@@ -441,7 +475,7 @@
             const rating = parseFloat(getMeta(/(?:- )?\*\*(?:Average star rating|星評価平均):\*\* ([\d\.]+)/i) || 0);
             const ratingCount = getMeta(/(?:- )?\*\*(?:Number of ratings|評価件数|Votes):\*\* (\d+)/i) || 0;
 
-            // コメント
+            // コメントの抽出と整形（ここを修正！）
             let comments = [];
             const commentBlockRegex = /#### (?:Comments|コメント)[^\n]*\n([\s\S]*?)(?=####|$)/i;
             const commentMatch = text.match(commentBlockRegex);
@@ -449,7 +483,11 @@
                 const commentLines = commentMatch[1].trim().split('\n');
                 commentLines.forEach(line => {
                     const m = line.match(/- \*\*(.*?)\*\* \((.*?)\): (.*)/);
-                    if (m) comments.push({ user: m[1], date: m[2], msg: m[3] });
+                    if (m) {
+                        // コメントの日付にも smartDateFormat を適用
+                        const formattedDate = smartDateFormat(m[2]);
+                        comments.push({ user: m[1], date: formattedDate, msg: m[3] });
+                    }
                 });
             }
 
@@ -457,7 +495,7 @@
             let content = text;
             if (lines.length > 0) content = lines.slice(1).join('\n'); 
 
-            // 削除するメタデータ (正規表現で確実に消す)
+            // 削除するメタデータ
             const patternsToRemove = [
                 /(?:- )?\*\*(?:Author|作成者|Builder):.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Post color|Color|投稿のカラー):.*[\r\n]*/gi,
@@ -489,7 +527,7 @@
                 comments: comments,
                 rating: rating,
                 ratingCount: ratingCount,
-                createdDate: displayCreatedDate, // 整形済み or 原文
+                createdDate: displayCreatedDate, 
                 postType: postType,
                 customLastUpdate: displayUpdatedDate,
                 attachmentUrl: attachmentUrl,
@@ -518,18 +556,13 @@
             let mediaHtml = '';
             if (data.attachmentUrl || data.linkUrl) {
                 mediaHtml += '<div class="attachment-area">';
-                
-                // 画像表示 (attachmentUrlがある場合)
                 if (data.attachmentUrl) {
                     mediaHtml += `<img src="${escapeHtml(data.attachmentUrl)}" alt="Attachment">`;
                     mediaHtml += `<a href="${escapeHtml(data.attachmentUrl)}" target="_blank" class="action-link">📎 添付ファイル</a>`;
                 }
-
-                // リンクボタン (Linkメタデータがある場合、またはAttachmentが無いがLinkがある場合)
                 if (data.linkUrl && data.linkUrl !== data.attachmentUrl) {
                      mediaHtml += `<a href="${escapeHtml(data.linkUrl)}" target="_blank" class="action-link">🔗 リンクを開く</a>`;
                 }
-                
                 mediaHtml += '</div>';
             }
 
