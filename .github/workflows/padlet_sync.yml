@@ -1,4 +1,4 @@
-name: Padlet定期取得
+name: Padlet データ取得
 
 on:
   schedule:
@@ -29,6 +29,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "変更がなかったので何もしません"
           else
-            git commit -m "Padletの最新データを取得しました"
+            git commit -m "Padletの最新データを取得"
             git push
           fi
