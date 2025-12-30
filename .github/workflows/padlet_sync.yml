@@ -16,17 +16,15 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Padletからデータを取得
-        # ▼【変更点1】保存名を .txt に変更
         run: |
-          curl -L -o padlet_export.txt "https://padlet.com/padlets/a8v7cjbbfni702kg/exports/markdown.md"
+          curl -L -o padlet_export.md "https://padlet.com/padlets/a8v7cjbbfni702kg/exports/markdown.md"
 
       - name: 変更を保存
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           
-          # ▼【変更点2】Gitに追加するファイル名も .txt に変更
-          git add padlet_export.txt
+          git add padlet_export.md
           
           if git diff --staged --quiet; then
             echo "変更がなかったので何もしません"
