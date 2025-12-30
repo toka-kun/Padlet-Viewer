@@ -2,7 +2,7 @@
 
 [![Padlet-Viewer](https://count.getloli.com/@toka_kun_?name=toka_kun_&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/toka-kun/Padlet-Viewer)
 
-## 上からしあtube、YuZuTube、Wool-Tube、Choco-Tubeの閲覧数
+## （おまけ）上からしあtube、YuZuTube、Wool-Tube、Choco-Tubeの閲覧数
 
 [![sia](https://count.getloli.com/@:siatube?name=%3Asiatube&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/siawaseoktest/youtube)<br>
 [![yuzu](https://count.getloli.com/@yuzuzuzu?name=yuzuzuzu&theme=original-new&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/yuzubb/yuzutube1)<br>
