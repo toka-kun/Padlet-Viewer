@@ -1,4 +1,4 @@
-## 代替ビュアーの閲覧数
+# 代替ビュアーの閲覧数
 
 [![Padlet-Viewer](https://count.getloli.com/@toka_kun_?name=toka_kun_&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/toka-kun/Padlet-Viewer)
 
