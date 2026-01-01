@@ -2,7 +2,7 @@ name: Padletアーカイブ一括取得
 
 on:
   schedule:
-    # 毎時0分に実行（1時間に1回）
+    # 毎時0分に実行
     - cron: '0 * * * *'
   workflow_dispatch:
 
@@ -25,18 +25,23 @@ jobs:
 
           # 1. kabotya
           curl -L --compressed -o archive/kabotya.md "https://padlet.com/padlets/34b6kq9lghbe3rtm/exports/markdown.md"
+          sleep 10  # 10秒休憩
 
           # 2. obungu
           curl -L --compressed -o archive/obungu.md "https://padlet.com/padlets/5ggicyna1yjvquxr/exports/markdown.md"
+          sleep 10
 
           # 3. beruri
           curl -L --compressed -o archive/beruri.md "https://padlet.com/padlets/zsdegt1d6scuq9qa/exports/markdown.md"
+          sleep 10
 
           # 4. hikari
           curl -L --compressed -o archive/hikari.md "https://padlet.com/padlets/afg5jcs1w4yyk2h1/exports/markdown.md"
+          sleep 10
 
           # 5. magurock/lobby
           curl -L --compressed -o archive/magurock/lobby.md "https://padlet.com/padlets/e9n4zhdx6ucfbaa4/exports/markdown.md"
+          sleep 10
 
           # 6. magurock/main
           curl -L --compressed -o archive/magurock/main.md "https://padlet.com/padlets/v7eblregk0t2eq0k/exports/markdown.md"
@@ -46,19 +51,13 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           
-          # archiveフォルダ全体を追加
           git add archive/
           
-          # 変更があるかチェック
           if git diff --staged --quiet; then
             echo "変更がなかったので保存しません"
           else
-            # 先にコミットしてしまう
+            # コミットしてからPullする（エラー回避）
             git commit -m "アーカイブデータを一括更新"
-            
-            # コミットした後に、最新の状態を取り込む
             git pull origin main --rebase
-            
-            # 最後にプッシュ
             git push
           fi
