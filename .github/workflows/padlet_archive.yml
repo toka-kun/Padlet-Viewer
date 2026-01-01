@@ -1,4 +1,4 @@
-name: Padletアーカイブ一括取得
+name: Padlet Archive
 
 on:
   schedule:
