@@ -3,7 +3,7 @@ name: Padletアーカイブ一括取得
 on:
   schedule:
     # 15分ごとに実行
-    - cron: '*/15 * * * *'
+    - cron: '*0 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -18,31 +18,30 @@ jobs:
 
       - name: フォルダ作成とデータ取得
         run: |
-          # 保存先のフォルダを作成（magurockなど深い階層も一緒に作る）
+          # 保存先のフォルダを作成
           mkdir -p archive/magurock
-
-          # User-Agent（ブラウザのフリをする設定）を変数に入れて使い回す
-          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
           echo "データを取得中..."
 
+          # ブラウザのフリ（User-Agent）は削除しました
+          
           # 1. kabotya
-          curl -L --compressed -H "User-Agent: $UA" -o archive/kabotya.md "https://padlet.com/padlets/34b6kq9lghbe3rtm/exports/markdown.md"
+          curl -L --compressed -o archive/kabotya.md "https://padlet.com/padlets/34b6kq9lghbe3rtm/exports/markdown.md"
 
           # 2. obungu
-          curl -L --compressed -H "User-Agent: $UA" -o archive/obungu.md "https://padlet.com/padlets/5ggicyna1yjvquxr/exports/markdown.md"
+          curl -L --compressed -o archive/obungu.md "https://padlet.com/padlets/5ggicyna1yjvquxr/exports/markdown.md"
 
           # 3. beruri
-          curl -L --compressed -H "User-Agent: $UA" -o archive/beruri.md "https://padlet.com/padlets/zsdegt1d6scuq9qa/exports/markdown.md"
+          curl -L --compressed -o archive/beruri.md "https://padlet.com/padlets/zsdegt1d6scuq9qa/exports/markdown.md"
 
           # 4. hikari
-          curl -L --compressed -H "User-Agent: $UA" -o archive/hikari.md "https://padlet.com/padlets/afg5jcs1w4yyk2h1/exports/markdown.md"
+          curl -L --compressed -o archive/hikari.md "https://padlet.com/padlets/afg5jcs1w4yyk2h1/exports/markdown.md"
 
           # 5. magurock/lobby
-          curl -L --compressed -H "User-Agent: $UA" -o archive/magurock/lobby.md "https://padlet.com/padlets/e9n4zhdx6ucfbaa4/exports/markdown.md"
+          curl -L --compressed -o archive/magurock/lobby.md "https://padlet.com/padlets/e9n4zhdx6ucfbaa4/exports/markdown.md"
 
           # 6. magurock/main
-          curl -L --compressed -H "User-Agent: $UA" -o archive/magurock/main.md "https://padlet.com/padlets/v7eblregk0t2eq0k/exports/markdown.md"
+          curl -L --compressed -o archive/magurock/main.md "https://padlet.com/padlets/v7eblregk0t2eq0k/exports/markdown.md"
 
       - name: まとめて保存
         run: |
@@ -52,12 +51,16 @@ jobs:
           # archiveフォルダ全体を追加
           git add archive/
           
-          # 念のため最新状態を取り込む（競合エラー防止）
-          git pull origin main --rebase
-          
+          # 変更があるかチェック
           if git diff --staged --quiet; then
             echo "変更がなかったので保存しません"
           else
+            # 先にコミットしてしまう（これでエラー回避）
             git commit -m "アーカイブデータを一括更新"
+            
+            # コミットした後に、最新の状態を取り込む
+            git pull origin main --rebase
+            
+            # 最後にプッシュ
             git push
           fi
