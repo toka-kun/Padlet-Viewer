@@ -5,9 +5,9 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ## Summary
 - **Link:** https://padlet.com/shibainu_ouji/itrsa-kulz2hpe9vtrxep4
 - **Builder:** ♔柴犬の王子様♔@行政 (shibainu_ouji)
-- **Posts:** 43
+- **Posts:** 44
 - **Created At (UTC):** Nov 25, 2025 09:01am
-- **Updated At (UTC):** Jan 01, 2026 12:57pm
+- **Updated At (UTC):** Jan 01, 2026 04:02pm
 
 ## お知らせ
 
@@ -333,7 +333,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 21. 顧問さん
 **Author:** ゆな (ziku57)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4811037100/10c34a1c192341ca0a7385eeeb9174f9/Screenshot_2025_12_05_21_48_41.png?Expires=1767885904&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=s9rWs0hV8oRMbMHmb6hjcYnsLTaov4q5Sns4N6oTV5zgbdGOWTMwzpT8Yrp3Tvi40r%2F%2FxPSsxBCXh5KDkuqx4ZFtN%2BdAaNIMeZ7mJoEd%2BiA3rVODWN54rlMTkXKTX4SfF7Q8f4ZFF1aHbhKm9k001k9xjiisDJqJ34TmmnV1p%2Fk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4811037100%2F10c34a1c192341ca0a7385eeeb9174f9%2FScreenshot_2025_12_05_21_48_41.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4811037100/10c34a1c192341ca0a7385eeeb9174f9/Screenshot_2025_12_05_21_48_41.png?Expires=1767889837&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tGZnYYf6MhreHnzwJjH0uqWhchpnvzm4xSQZTliLiVdzfTj7J9yKG7ejpaAMQrFUS0v0JziEpiwlSZhYNZWIoGgvjUHCorrAiGSUMnIY5%2B%2BnODVh%2BLhwKLTID0rsR4UghUduy%2FgrLuRBLwpC3Q4Pxy%2FCaDklnyE%2FsT2Qwhl%2BySs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4811037100%2F10c34a1c192341ca0a7385eeeb9174f9%2FScreenshot_2025_12_05_21_48_41.png)
 
 #### Comments (22)
 - **一期一会 （顧問）** (Dec 07, 2025 12:16am): パスワードが違っていますね．．．
@@ -463,7 +463,22 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ## 雑談
 
-### 1. 最後のときには
+### 1. DOTCH？でコメントできん（泣）
+**Author:** 氷牙月世華 (sekachan33)
+
+<p>OMG（泣）</p>
+
+#### Comments (1)
+- **氷牙月世華** (Jan 01, 2026 04:02pm): あと親のスマホだとチャンネルトーク入れん（泣）
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 01, 2026 04:02pm
+- **Updated At (UTC):** Jan 01, 2026 04:02pm
+
+---
+
+### 2. 最後のときには
 **Author:** ワッシュ
 
 #### Additional Information
@@ -473,7 +488,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 2. すき焼きって美味しいよね
+### 3. すき焼きって美味しいよね
 **Author:** アイズ (sippuraizin)
 
 #### Additional Information
