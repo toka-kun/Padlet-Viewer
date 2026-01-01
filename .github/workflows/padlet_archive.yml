@@ -18,49 +18,79 @@ jobs:
 
       - name: フォルダ作成とデータ取得
         run: |
-          # 保存先のフォルダを作成
-          mkdir -p archive/magurock
+          # 保存先のフォルダをまとめて作成
+          mkdir -p archive/magurock archive/nyg archive/kiseikaijoiinkai
 
           echo "データを取得中..."
 
-          # 1. kabotya
-          curl -L --compressed -o archive/kabotya.md "https://padlet.com/padlets/34b6kq9lghbe3rtm/exports/markdown.md"
-          sleep 10  # 10秒休憩
+          # --- ここから新規追加（最初）: nygシリーズ ---
+          
+          # 1. nyg/ssjc
+          curl -L --compressed -o archive/nyg/ssjc.md "https://padlet.com/padlets/ybtryru0lgzpxp34/exports/markdown.md"
+          sleep 10
 
-          # 2. obungu
+          # 2. nyg/portalworld
+          curl -L --compressed -o archive/nyg/portalworld.md "https://padlet.com/padlets/lpiw7xio9gwnmxrd/exports/markdown.md"
+          sleep 10
+
+          # 3. nyg/arashitaisaku
+          curl -L --compressed -o archive/nyg/arashitaisaku.md "https://padlet.com/padlets/i0fd897smvjo0tvj/exports/markdown.md"
+          sleep 10
+
+          # 4. nyg/games
+          curl -L --compressed -o archive/nyg/games.md "https://padlet.com/padlets/4b9092979b4e6dlm/exports/markdown.md"
+          sleep 10
+
+          # --- ここから既存のファイル ---
+
+          # 5. kabotya
+          curl -L --compressed -o archive/kabotya.md "https://padlet.com/padlets/34b6kq9lghbe3rtm/exports/markdown.md"
+          sleep 10
+
+          # 6. obungu
           curl -L --compressed -o archive/obungu.md "https://padlet.com/padlets/5ggicyna1yjvquxr/exports/markdown.md"
           sleep 10
 
-          # 3. beruri
+          # 7. beruri
           curl -L --compressed -o archive/beruri.md "https://padlet.com/padlets/zsdegt1d6scuq9qa/exports/markdown.md"
           sleep 10
 
-          # 4. hikari
+          # 8. hikari
           curl -L --compressed -o archive/hikari.md "https://padlet.com/padlets/afg5jcs1w4yyk2h1/exports/markdown.md"
           sleep 10
 
-          # 5. magurock/lobby
+          # 9. magurock/lobby
           curl -L --compressed -o archive/magurock/lobby.md "https://padlet.com/padlets/e9n4zhdx6ucfbaa4/exports/markdown.md"
           sleep 10
 
-          # 6. magurock/main
+          # 10. magurock/main
           curl -L --compressed -o archive/magurock/main.md "https://padlet.com/padlets/v7eblregk0t2eq0k/exports/markdown.md"
           sleep 10
 
-          # 7. bonjour (追加しました)
+          # 11. bonjour
           curl -L --compressed -o archive/bonjour.md "https://padlet.com/padlets/fj7pwrjfd44519fq/exports/markdown.md"
+          sleep 10
+
+          # --- ここから新規追加（最後） ---
+
+          # 12. itrsa
+          curl -L --compressed -o archive/itrsa.md "https://padlet.com/padlets/kulz2hpe9vtrxep4/exports/markdown.md"
+          sleep 10
+
+          # 13. kiseikaijoiinkai/lobby
+          curl -L --compressed -o archive/kiseikaijoiinkai/lobby.md "https://padlet.com/padlets/5db70e80bto7rnxl/exports/markdown.md"
 
       - name: まとめて保存
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           
+          # archiveフォルダ全体を追加（新しいフォルダも自動で含まれます）
           git add archive/
           
           if git diff --staged --quiet; then
             echo "変更がなかったので保存しません"
           else
-            # コミットしてからPullする（エラー回避）
             git commit -m "アーカイブデータを一括更新"
             git pull origin main --rebase
             git push
