@@ -17,6 +17,10 @@ jobs:
 
       - name: Padletからデータを取得
         run: |
+          # フォルダがないとエラーになるので、先に archive フォルダを作成
+          mkdir -p archive
+
+          # archiveフォルダの中に kabotya.md として保存
           curl -L -o archive/kabotya.md "https://padlet.com/padlets/34b6kq9lghbe3rtm/exports/markdown.md"
 
       - name: 変更を保存
@@ -24,6 +28,7 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           
+          # archiveフォルダの中のファイルをGitに追加
           git add archive/kabotya.md
           
           if git diff --staged --quiet; then
