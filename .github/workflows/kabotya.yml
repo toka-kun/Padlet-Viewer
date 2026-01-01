@@ -17,14 +17,14 @@ jobs:
 
       - name: Padletからデータを取得
         run: |
-          curl -L -o kabotya.md "https://padlet.com/padlets/34b6kq9lghbe3rtm/exports/markdown.md"
+          curl -L -o archive/kabotya.md "https://padlet.com/padlets/34b6kq9lghbe3rtm/exports/markdown.md"
 
       - name: 変更を保存
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           
-          git add kabotya.md
+          git add archive/kabotya.md
           
           if git diff --staged --quiet; then
             echo "変更がなかったので何もしません"
