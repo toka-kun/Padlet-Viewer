@@ -1,9 +1,9 @@
-name: Padlet Archive
+name: Padletアーカイブ一括取得
 
 on:
   schedule:
-    # 15分ごとに実行
-    - cron: '*0 * * * *'
+    # 毎時0分に実行（1時間に1回）
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -23,8 +23,6 @@ jobs:
 
           echo "データを取得中..."
 
-          # ブラウザのフリ（User-Agent）は削除しました
-          
           # 1. kabotya
           curl -L --compressed -o archive/kabotya.md "https://padlet.com/padlets/34b6kq9lghbe3rtm/exports/markdown.md"
 
@@ -55,7 +53,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "変更がなかったので保存しません"
           else
-            # 先にコミットしてしまう（これでエラー回避）
+            # 先にコミットしてしまう
             git commit -m "アーカイブデータを一括更新"
             
             # コミットした後に、最新の状態を取り込む
