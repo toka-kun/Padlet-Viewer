@@ -5,9 +5,9 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ## Summary
 - **Link:** https://padlet.com/shibainu_ouji/itrsa-kulz2hpe9vtrxep4
 - **Builder:** ♔柴犬の王子様♔@行政 (shibainu_ouji)
-- **Posts:** 40
+- **Posts:** 43
 - **Created At (UTC):** Nov 25, 2025 09:01am
-- **Updated At (UTC):** Jan 01, 2026 11:21am
+- **Updated At (UTC):** Jan 01, 2026 12:09pm
 
 ## お知らせ
 
@@ -25,7 +25,19 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 2. 荒らししください
+### 2. あんのぉパドレットサイトとしてはバカ使いにくいぜ
+**Author:** Mocha
+
+<p>by Mocha</p>
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 01, 2026 11:25am
+- **Updated At (UTC):** Jan 01, 2026 11:25am
+
+---
+
+### 3. 荒らししください
 **Author:** Thoughtful Hummingbird
 
 #### Comments (1)
@@ -38,7 +50,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 3. 今おる人
+### 4. 今おる人
 **Author:** Thoughtful Hummingbird
 
 #### Additional Information
@@ -48,7 +60,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 4. ゲームリンクください
+### 5. ゲームリンクください
 **Author:** Thoughtful Hummingbird
 
 #### Additional Information
@@ -63,8 +75,9 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 1. まじでチャネルごと乗っ取りきつい
 **Author:** アイズ (sippuraizin)
 
-#### Comments (1)
+#### Comments (2)
 - **岸辺露伴** (Jan 01, 2026 11:21am): それは悲しい
+- **佐藤ねね** (Jan 01, 2026 11:27am): えぐ
 
 #### Additional Information
 - **Post color:** White
@@ -320,7 +333,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 21. 顧問さん
 **Author:** ゆな (ziku57)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4811037100/10c34a1c192341ca0a7385eeeb9174f9/Screenshot_2025_12_05_21_48_41.png?Expires=1767871282&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EnSMq%2FYv25%2BtbqLfYGafGsCJh1h0L50pw8VxriOWW6Ed0%2FmUJxSFR%2FeBjpJ9gSqklXh2Uk7y95NkmRf3CjSa1N2FPdFm7l%2Fvqd0lgZ7cjTxByoE0Z8t0MYpSB9IppQS28j7Oha9Hl%2BbX8cZO5fT81dQYb3xawX%2Bf0%2Bl5kPwmzKY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4811037100%2F10c34a1c192341ca0a7385eeeb9174f9%2FScreenshot_2025_12_05_21_48_41.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4811037100/10c34a1c192341ca0a7385eeeb9174f9/Screenshot_2025_12_05_21_48_41.png?Expires=1767876431&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QcxgrkKwuRPv7CkWHETHRzzDhykd%2FZ4%2FcHqpN2C%2FGTzKZqxfUzxSWVRuEZ6kdbdehwV2Mgbf%2B3Q0rxAeYRrE8fm52vjar%2FGWAPCedYvrdls4NEteqS8xdmw1H%2FEMFVXdZfwwpmqZbVo5C4C7Dpw63y7paQ7qXs%2BESi0dqLRmgRE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4811037100%2F10c34a1c192341ca0a7385eeeb9174f9%2FScreenshot_2025_12_05_21_48_41.png)
 
 #### Comments (22)
 - **一期一会 （顧問）** (Dec 07, 2025 12:16am): パスワードが違っていますね．．．
@@ -450,7 +463,25 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ## 雑談
 
-No post
+### 1. 最後のときには
+**Author:** ワッシュ
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 01, 2026 12:09pm
+- **Updated At (UTC):** Jan 01, 2026 12:09pm
+
+---
+
+### 2. すき焼きって美味しいよね
+**Author:** アイズ (sippuraizin)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 01, 2026 12:06pm
+- **Updated At (UTC):** Jan 01, 2026 12:06pm
+
+---
 
 ## サイト
 
