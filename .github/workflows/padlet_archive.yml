@@ -45,6 +45,10 @@ jobs:
 
           # 6. magurock/main
           curl -L --compressed -o archive/magurock/main.md "https://padlet.com/padlets/v7eblregk0t2eq0k/exports/markdown.md"
+          sleep 10
+
+          # 7. bonjour (追加しました)
+          curl -L --compressed -o archive/bonjour.md "https://padlet.com/padlets/fj7pwrjfd44519fq/exports/markdown.md"
 
       - name: まとめて保存
         run: |
