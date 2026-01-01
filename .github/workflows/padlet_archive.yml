@@ -21,61 +21,70 @@ jobs:
           # 保存先のフォルダをまとめて作成
           mkdir -p archive/magurock archive/nyg archive/kiseikaijoiinkai
 
-          echo "データを取得中..."
+          # 待機時間を決定
+          # 手動実行なら3秒、自動実行なら10秒
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            SLEEP_TIME=3
+          else
+            SLEEP_TIME=10
+          fi
+          
+          echo "現在のモード: ${{ github.event_name }}"
+          echo "待機時間を ${SLEEP_TIME}秒 に設定して取得を開始します..."
 
           # --- ここから新規追加（最初）: nygシリーズ ---
           
           # 1. nyg/ssjc
           curl -L --compressed -o archive/nyg/ssjc.md "https://padlet.com/padlets/ybtryru0lgzpxp34/exports/markdown.md"
-          sleep 10
+          sleep $SLEEP_TIME
 
           # 2. nyg/portalworld
           curl -L --compressed -o archive/nyg/portalworld.md "https://padlet.com/padlets/lpiw7xio9gwnmxrd/exports/markdown.md"
-          sleep 10
+          sleep $SLEEP_TIME
 
           # 3. nyg/arashitaisaku
           curl -L --compressed -o archive/nyg/arashitaisaku.md "https://padlet.com/padlets/i0fd897smvjo0tvj/exports/markdown.md"
-          sleep 10
+          sleep $SLEEP_TIME
 
           # 4. nyg/games
           curl -L --compressed -o archive/nyg/games.md "https://padlet.com/padlets/4b9092979b4e6dlm/exports/markdown.md"
-          sleep 10
+          sleep $SLEEP_TIME
 
           # --- ここから既存のファイル ---
 
           # 5. kabotya
           curl -L --compressed -o archive/kabotya.md "https://padlet.com/padlets/34b6kq9lghbe3rtm/exports/markdown.md"
-          sleep 10
+          sleep $SLEEP_TIME
 
           # 6. obungu
           curl -L --compressed -o archive/obungu.md "https://padlet.com/padlets/5ggicyna1yjvquxr/exports/markdown.md"
-          sleep 10
+          sleep $SLEEP_TIME
 
           # 7. beruri
           curl -L --compressed -o archive/beruri.md "https://padlet.com/padlets/zsdegt1d6scuq9qa/exports/markdown.md"
-          sleep 10
+          sleep $SLEEP_TIME
 
           # 8. hikari
           curl -L --compressed -o archive/hikari.md "https://padlet.com/padlets/afg5jcs1w4yyk2h1/exports/markdown.md"
-          sleep 10
+          sleep $SLEEP_TIME
 
           # 9. magurock/lobby
           curl -L --compressed -o archive/magurock/lobby.md "https://padlet.com/padlets/e9n4zhdx6ucfbaa4/exports/markdown.md"
-          sleep 10
+          sleep $SLEEP_TIME
 
           # 10. magurock/main
           curl -L --compressed -o archive/magurock/main.md "https://padlet.com/padlets/v7eblregk0t2eq0k/exports/markdown.md"
-          sleep 10
+          sleep $SLEEP_TIME
 
           # 11. bonjour
           curl -L --compressed -o archive/bonjour.md "https://padlet.com/padlets/fj7pwrjfd44519fq/exports/markdown.md"
-          sleep 10
+          sleep $SLEEP_TIME
 
           # --- ここから新規追加（最後） ---
 
           # 12. itrsa
           curl -L --compressed -o archive/itrsa.md "https://padlet.com/padlets/kulz2hpe9vtrxep4/exports/markdown.md"
-          sleep 10
+          sleep $SLEEP_TIME
 
           # 13. kiseikaijoiinkai/lobby
           curl -L --compressed -o archive/kiseikaijoiinkai/lobby.md "https://padlet.com/padlets/5db70e80bto7rnxl/exports/markdown.md"
@@ -85,7 +94,7 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           
-          # archiveフォルダ全体を追加（新しいフォルダも自動で含まれます）
+          # archiveフォルダ全体を追加
           git add archive/
           
           if git diff --staged --quiet; then
