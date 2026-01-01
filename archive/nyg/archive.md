@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1767879218&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Mt9sNlE5RgBKLQK3uaFKH9EGRSc2JD8EaRbHQDlxA1nmORsDcTg%2FfcfosrIA3fFXBKhS8QFBiqcvUv6%2FOcmccof0SMLdztZz2tCAyzZR8F3NbyAK0XdSkiDkltlqKULIzdzcrbMHcr6YajRqFjMHnZKS2ZuytohvIc8OCJF1CXs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1767882045&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=H97i2yAnK7ubXdq%2BPTMWuCSt5iO3qTLTYXxy8CYeyq%2Bs8jTUDsdNAPgSZaEuR3DoPK9HmTnQPXSBloh%2BujOfKSPfLo4EFeU5ggz5A7oJY0BKpA1d2KN9XhGUsg2Fzd1pbnHVaWi5qFq4Dyq%2BbwN%2BkufG%2FQGAWhCJE%2FJN%2F721CQE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1618,7 +1618,7 @@
 - **Airi** (Aug 30, 2025 07:46am): ちなみに私は失恋💔しました、、、
 - **Airi** (Sep 02, 2025 11:38am): 彼氏が欲しい🥺
 - **ポップコーン** (Sep 02, 2025 10:54am): 彼氏欲しい
-- **饅頭　#2025サ終★#2026あけましておめでとう** (Aug 30, 2025 11:37am): いる
+- **饅頭　#2026あけましておめでとう** (Aug 30, 2025 11:37am): いる
 - **莉葉** (Aug 31, 2025 07:04am): ありがとうございます！
 - **しゅうまい** (Aug 31, 2025 05:28pm): 彼女いる
 - **Airi** (Sep 02, 2025 11:38am): 私も早く運命の人欲しいなぁー
@@ -1626,7 +1626,7 @@
 - **37564** (Sep 30, 2025 01:44pm): いる
 - **莉葉** (Sep 05, 2025 04:30am): いいよ〜全然のるよ〜！
 - **莉葉** (Aug 30, 2025 09:53am): 悩み聞くよ〜私は現在進行で好きな人いる〜！
-- **饅頭　#2025サ終★#2026あけましておめでとう** (Aug 30, 2025 11:37am): けど告る気なし
+- **饅頭　#2026あけましておめでとう** (Aug 30, 2025 11:37am): けど告る気なし
 - **莉葉** (Aug 31, 2025 12:39am): ↑同じく
 - **Airi** (Sep 02, 2025 11:39am): 莉葉さん相談乗って欲しい
 
