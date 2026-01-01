@@ -444,7 +444,7 @@
 ---
 
 ### 18. 宣伝部屋
-**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃超低浮上 (I_like_apple)
+**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃超低浮上？　＃あけおめ〜🎍 (I_like_apple)
 
 <p>宣伝しに来よう</p>
 
@@ -1450,7 +1450,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1767910903&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=G2COgaPTILmQmfH8aekQehiF69wnVIP%2FVDlYUFolN67tGM50V%2BhZJjFJHQ%2FhoWPXK%2B1hKTgG9VLs%2Fn%2F1CbNTNc29L8Ro8Hw%2FgeV82riYuwfSzfCrek9R6x9CfsA2UqNBr1bQihrTew49SDzMMCD6b3GcM1%2BHo2JVQw%2BR4qbkVeM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1767914508&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OhTW1muDIaeH7QhOhnwxdm%2Bcdrtw8Sod0AXDYoMQ3MmvbBNYNoKvGazRGOyxeR%2F59ZkeuJjzqsKr%2BKgj75k59XVK0KVhKZYfzCndpfMUt6Y9XvB3rNAn%2FfxBP%2BHnsK%2BQS0m47Az%2FIMvJpgeQ3bBVA3KnbkABPFt5nUs%2F8yKt7xI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
