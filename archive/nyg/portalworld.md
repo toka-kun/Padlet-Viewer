@@ -25,7 +25,7 @@
 
 #### Comments (2)
 - **草** (Oct 29, 2025 07:18am): ？」
-- **ライム** (Nov 29, 2025 07:24am): ↑のpadletポータルワールドをタップしたら投稿できると思う
+- **かぼす** (Nov 29, 2025 07:24am): ↑のpadletポータルワールドをタップしたら投稿できると思う
 
 #### Reactions
 - **Number of likes:** 1
@@ -1427,7 +1427,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1767931639&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IygXXUb8pX%2B%2Bo4NpPJho1SXzCE4bQlC8OOaFvH6dtgkOpO%2BwzfDJqwoad35%2BM7B9ndOJIogAMIIQp06CYZltEbWhq9a5b3Ok%2FNXCQTA5qlW9SS9Uh8gytak7guOhTgumaP6LkhXAuiIAfgx6OCq7zmrpj8QKnEVgi91LbX%2F%2BpZg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1767933738&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fOsoXwZMrn%2B%2FXiLF8%2B2Wud5h7OiZ%2BqV0yEPOZRD21dvY7%2FBViPdf6%2FjjwBwmWdAJZxtF08uO9qkzBxsxEpEwXxGSj9VQDkBsE5r5rOzyjRfv3OMaN0VHcWpg0KtA6DxnaC32Ye%2FP8Yl9kN9QOgApvkboRZtSaVPHSWrZBGpHr%2Fw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
