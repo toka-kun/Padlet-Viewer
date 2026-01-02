@@ -128,7 +128,7 @@
 ---
 
 ### 3. キット
-**Author:** らみぃ (ramyramy)
+**Author:** エドガー (edoga125)
 
 #### Additional Information
 - **Post color:** White
