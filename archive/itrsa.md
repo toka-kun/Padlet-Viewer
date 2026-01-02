@@ -5,9 +5,9 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ## Summary
 - **Link:** https://padlet.com/shibainu_ouji/itrsa-kulz2hpe9vtrxep4
 - **Builder:** ♔柴犬の王子様♔@行政 (shibainu_ouji)
-- **Posts:** 47
+- **Posts:** 48
 - **Created At (UTC):** Nov 25, 2025 09:01am
-- **Updated At (UTC):** Jan 02, 2026 10:00am
+- **Updated At (UTC):** Jan 02, 2026 10:56am
 
 ## お知らせ
 
@@ -358,7 +358,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 23. 顧問さん
 **Author:** ゆな (ziku57)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4811037100/10c34a1c192341ca0a7385eeeb9174f9/Screenshot_2025_12_05_21_48_41.png?Expires=1767954360&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=u01NtEltoiaZvAVEdluycolXJQxRuvA2D6nrmJVBAkwIiGoZMyONATEZ94QsEqx%2Fgkf4ctFPLxX%2BO8N820NcOAhbTav79%2BlaWkRkWY28%2FJfzC5lRUroMpe%2BetUuhLeuPQ7acyQDVH3XOcWsHONq5awBPcNTjgCSuZje1LG3VtAA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4811037100%2F10c34a1c192341ca0a7385eeeb9174f9%2FScreenshot_2025_12_05_21_48_41.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4811037100/10c34a1c192341ca0a7385eeeb9174f9/Screenshot_2025_12_05_21_48_41.png?Expires=1767957746&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aUIBMhtKv%2BqqaWd6p124frqR3HxhnEauZvHLXiuW%2F19icvRMbZzhVYLYx1WRt%2FMztZ9hhEfvTbmgfkNbJc%2F8aoxbhHGxmYotqt5UdShpYy2dgIRUz7UcGYZVGZme2G0B6ggvS7wNmyGDp5DGe4raXHv9P7uJITDaMrC9jXyosfE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4811037100%2F10c34a1c192341ca0a7385eeeb9174f9%2FScreenshot_2025_12_05_21_48_41.png)
 
 #### Comments (22)
 - **一期一会 （顧問）** (Dec 07, 2025 12:16am): パスワードが違っていますね．．．
@@ -488,7 +488,19 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ## 雑談
 
-### 1. なにこれ
+### 1. ゆなさん。
+**Author:** 一期一会 （顧問） (user_japan)
+
+<p>089027</p>
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 02, 2026 10:56am
+- **Updated At (UTC):** Jan 02, 2026 10:56am
+
+---
+
+### 2. なにこれ
 **Author:** ニンゲン
 
 #### Additional Information
@@ -498,7 +510,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 2. DOTCH？でコメントできん（泣）
+### 3. DOTCH？でコメントできん（泣）
 **Author:** 氷牙月世華 (sekachan33)
 
 <p>OMG（泣）</p>
@@ -513,7 +525,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 3. 最後のときには
+### 4. 最後のときには
 **Author:** ワッシュ
 
 #### Additional Information
@@ -523,7 +535,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 4. すき焼きって美味しいよね
+### 5. すき焼きって美味しいよね
 **Author:** アイズ (sippuraizin)
 
 #### Additional Information
