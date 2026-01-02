@@ -358,7 +358,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 23. 顧問さん
 **Author:** ゆな (ziku57)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4811037100/10c34a1c192341ca0a7385eeeb9174f9/Screenshot_2025_12_05_21_48_41.png?Expires=1767968689&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6R6w8xDa%2B5R1rPUkxAkxHBVlumDEFStdVr%2BDMdy8cS0JHXsOo1xWhEdjtIjzSMi7uHcwt5fJZo1%2F9IBVqialQ6wQaTivs1HJJoJOFDePhX%2BfmVrLAgDDJrk5n%2Fb2Vo4tm7W2w%2B5vmOmx8L0zWCB22DNcwQSH7tasQjTgDY2jiX4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4811037100%2F10c34a1c192341ca0a7385eeeb9174f9%2FScreenshot_2025_12_05_21_48_41.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4811037100/10c34a1c192341ca0a7385eeeb9174f9/Screenshot_2025_12_05_21_48_41.png?Expires=1767972348&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CM%2FOzKSK%2BuTWT%2FeUcPxKUUly6HNEMAdv1QeZH%2B4SvYssw5FvmuN5%2FGVo97SECtf%2F35LgAHKiFx982Bv2bP41T3J%2FBzi7SxkHXoQ4dAXfX1oUf86q%2BvCHBiuEYdLp6c%2F9bGZrNf1Uoyz1iXJfCGCdWlclVTe7F0q58tHo%2FGpKb%2BQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4811037100%2F10c34a1c192341ca0a7385eeeb9174f9%2FScreenshot_2025_12_05_21_48_41.png)
 
 #### Comments (22)
 - **一期一会 （顧問）** (Dec 07, 2025 12:16am): パスワードが違っていますね．．．
