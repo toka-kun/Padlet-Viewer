@@ -274,7 +274,7 @@
 
 <p>gn-mathが死にました...(DMCA削除通知によりリポジトリが利用不可です。</p><p>このリポジトリは現在、DMCA削除通知により無効化されています。リポジトリへの公開アクセスを停止しました。通知は公開されています。</p><p>リポジトリの所有者であり、誤りや誤認によりリポジトリが無効化されたとお考えの場合は、反論通知を提出しリポジトリを復元する権利があります。当社のヘルプ記事では、DMCA 削除ポリシーの詳細と反論通知の提出方法について説明しています。このプロセスや反論通知提出に伴うリスクについてご質問がある場合は、弁護士に相談されることをお勧めします。)Deepl翻訳です</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/e820002dc52dc34bb27e1d2425d31ef0/image.png?Expires=1767957669&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fSuflAUvzYXVWB9uU5Wt2tEfnvE8%2FPRXBJyLCZUTHsMpJN1tR7F6X9oic2SRYIysRfoUeTgnPXk%2FEmEDcT%2BeEQ4FTWKmaZj4Q%2FU8g1lK3sMms1cbGnL9hcE6uI3Zz3UN%2F7uFhPQOD1pGpItsf1XegaIxZlh6SpW7vtgRAiNOMN4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fe820002dc52dc34bb27e1d2425d31ef0%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/e820002dc52dc34bb27e1d2425d31ef0/image.png?Expires=1767962683&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Wp9Ppy0eq9l%2B9VumhpiVOLo1uZqJRg8KrZFpQUWdgH4s22Tyqlo5yburJjH2U5teCFyXKtYzL%2FPJ9%2BykXmJg1AOQlIcBOgkZnu9wVoghcrE4hzsinNDInIP0dkZap%2Fn2m2Co7Y7VwDVpanfK6aRwqxyw49TqfbSUkSJNPJ10Mbw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fe820002dc52dc34bb27e1d2425d31ef0%2Fimage.png)
 
 #### Comments (4)
 - **Natsu** (Dec 18, 2025 02:23am): よくわかんない♡
@@ -978,7 +978,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbxFaUaw-Lm7lqa2QwOVkDDy7qz_nzW8vTCHsWbP6Qvl1xRAbnfLpwDovEjIRZmP1kvX/exec">defwooltube</a> / note gas用のコードを使わせていただきました。ちょっといじりました。動くかどうかは調べてないけど大丈夫でしょう。(適当)</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/10e8db9d17c0eb6d4950b803c964d42b/image.png?Expires=1767957669&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=231uVljNuq54cCieIZ3qFlmecul%2Bmt0kSArrY%2BZhwhaE%2BA5rN1Py%2FY8WNenUhs00iTH%2BuMzaLN5WBT%2BmQzaJS0EQO4Qhllm%2FxLNpTm7fQAfC7ZWxR2KkoXmNW1WASvgTsVf5tMhyLmJ9w8M1FRxNroegK77E6zhCgzKtAhPvSaM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2F10e8db9d17c0eb6d4950b803c964d42b%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/10e8db9d17c0eb6d4950b803c964d42b/image.png?Expires=1767962684&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=f3a%2FsP5Z73PKSy3%2BHcqZcWa1Yr%2Fa25%2F8doSXVjAPTCDFeWa5ZMV3v4ly%2BJVOBflzSGi%2BzvdSEaJfP0rnidBH78omyIZQWu%2FKCYiApQWzSlzeAoquWITVedLTLr3tct6ZtmgUFS%2BcsVyvjhw3kIKU%2B7hWZTDt0mgWUuyNdo9im3w%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2F10e8db9d17c0eb6d4950b803c964d42b%2Fimage.png)
 
 #### Additional Information
 - **Post color:** White
@@ -992,7 +992,7 @@
 
 <p>ちょっとだけ休みます()ハズレが出た分未来の自分に借金します。</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/47d311630903ac6ae0d724e02f650b6a/image.png?Expires=1767957670&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pNsfOsBaD88wLT01ix11N2HHyzVAdYc98TZ0fI8fQuXG8ro7VrI7qenPIbhFgyymSCkJU0UBHPFwESz6ploFeZSUUUuM5D3MLRVlO1%2Bgg6B6hDfDFgjPZPpVkxXcj6%2BGvQb%2B3pKWT6Q%2B0RyYzXeMtAUwbsmsH%2BhRzt4eGlxCk7k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2F47d311630903ac6ae0d724e02f650b6a%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/47d311630903ac6ae0d724e02f650b6a/image.png?Expires=1767962684&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=l7pPSR1i%2BnUdQYExw5gOZh%2BPVCox5V5N2B8nf7pFK3kHNmFFnVTScdXNRY6uOd1I9horDDa0%2Bsz%2FxWAdvcTdHx9oLfakLfA8KrQqmu6nR%2Bucpub%2FIvIOZxew4foQF9w3l7gx7YlMpj1VRBCYoLOlU7Bp3OGAk4xdsiBQc5mIOmk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2F47d311630903ac6ae0d724e02f650b6a%2Fimage.png)
 
 #### Additional Information
 - **Post color:** White
@@ -1026,7 +1026,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbwR6UgMi8RPmjZ1aSd5jZmFhqHNXXPPz7ZXMvKFt4hM52QRboaqKTZfeJTY352Apk_2/exec">defwooltube</a> <a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbzr6TU6FsjDXkm_GSviSGDjlQ6bIQi-dFnyDZjtCtIzJwLgbW3n0E5U4NlK5KFr5Kgn/exec">eduwooltube</a></p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/998263cdec652fd98e5815c9e97273e2/image.png?Expires=1767957670&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=p1caqcSVuX6WPxDjldlnYOQ4xTn2RbTsszTMnzesZ%2FjwH0fKF4jPPEUEExF257y9ekfb%2FDkxj7BV9XF%2FcujVKnydeHr4W6BZ7lm42yMUdK0EEBwDjlFpdYNZ4fCQwH9UBYhZnsT%2FhVUtKRZTHi%2FAur96URBl7wlx69Fw6CH%2F8Mg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2F998263cdec652fd98e5815c9e97273e2%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/998263cdec652fd98e5815c9e97273e2/image.png?Expires=1767962684&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Td4jJUwlAbbnKowziziebn9ftveViMmW42n8lbk9WU8kAdcCeDaG9ymHe0dsZxNaOQ4oGWGtlLXG26dVDex1eh88MNW9etLZaxsVNz1BB%2ByqS8165ahiwChXVxmhN%2FGi%2BZiob2t3d%2FJRDzaY1ILw7KxIVqGBtJKzHkdZySPLINc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2F998263cdec652fd98e5815c9e97273e2%2Fimage.png)
 
 #### Additional Information
 - **Post color:** White
@@ -1040,7 +1040,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://wooltube-a4zz.onrender.com/">defwooltube</a> <a rel="noopener noreferrer nofollow" href="https://wooltube-education-88ts.onrender.com/">eduwooltube</a></p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/d2cda20e5ed4f6ee2f8c1a636611e40e/image.png?Expires=1767957670&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mK%2FBhoSoylJSOqY1e%2B1EHozvsTKElUSUtAolaZ6PIozpBmp5sUj6U2%2BCBSfxTv1GnVSTNlMzQaoU3MVs%2FIlhwWd65%2BTxZcEBaslymGdPmWyQ2ER8TUPfdteg7AdN8B2B%2BGvdUIkCybSE2Sg4wXu3hRYx6Cg4ASAklrIoJfFmCoY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fd2cda20e5ed4f6ee2f8c1a636611e40e%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/d2cda20e5ed4f6ee2f8c1a636611e40e/image.png?Expires=1767962684&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=n1DEI1ChzyZfLKwi%2F75d2OYoQjx5SqBgpaAGB%2FtP3NgA%2BZQhNItw0glqzZWamFJg2A08OfeYpZiYwmvGLg7FwJqc3gtzklWjemYDEoGvecbOZ%2Bt7sPezQhkAAb87Nw08SEPSU2K8Vntz1NnyVVlkzIFa2WIxcyuTSTtcv0mAjbg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fd2cda20e5ed4f6ee2f8c1a636611e40e%2Fimage.png)
 
 #### Additional Information
 - **Post color:** White
@@ -1054,7 +1054,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://math-a8u.pages.dev/">defwooltube</a> <a rel="noopener noreferrer nofollow" href="https://education-a0u.pages.dev/">eduwooltube</a></p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/2a3efbbf0c746e787e0f181f3e9c5881/image.png?Expires=1767957670&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WZo8xmlZ4835nYJAFFIxMsewZ%2FMKqGlIq5v7vaSwHqSVXeuLjZx1t6hV8W8TDTSH%2F62Z5bqtsoRV33vVhzpArqp9RCXHsvgg%2BRK0DuNaeuIWVliwQrEgsSl6jFNUZpQzcZet%2BRPWJ%2BeYeoh269AUlfCfJ%2FNCACX48TIjScKS1Dg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2F2a3efbbf0c746e787e0f181f3e9c5881%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/2a3efbbf0c746e787e0f181f3e9c5881/image.png?Expires=1767962684&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eEtV0MozAgaEugwjEwm3dKlk9MBVgmmeJHIlqmmZHse5%2BkHTu0mlZo%2FYPblZTBBBJJDu1XrqRoMNythttjNIwSZEVO1h75N8FuuE9zjvUqywCeNk3K7sM3mCu4dVK%2FDsniEwiqOs%2F9q4%2FQmM3r%2F%2FBMzNv6S%2BTfd2TJXO1LBMhUE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2F2a3efbbf0c746e787e0f181f3e9c5881%2Fimage.png)
 
 #### Comments (2)
 - **削除済みユーザー** (Dec 14, 2025 08:33pm): dead :wave:
@@ -1075,7 +1075,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://wojix-test.github.io/WOOLtube/">defwooltube</a> <a rel="noopener noreferrer nofollow" href="https://wojix-test.github.io/wooltube-education/">eduwooltube</a></p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/7ce547c7c51d68f2372e7701d16bb5b6/image.png?Expires=1767957670&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RP7h2pWLHXDoG6Sk3pVgG7iZZDYWRBbJxpUcSH4ML3s34jT%2FUCXbzsgRrE4JA4Ny6sismbt26dZ6nHVjkvPjCcCX%2BLJFdpTr6GgHVKebb%2FvNQjHxVy4pOjSISdDO1FoiOcI%2FloTF9lBSdAEAbjRG8JHufMgw7P5ps0O2mG2dLo0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2F7ce547c7c51d68f2372e7701d16bb5b6%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/7ce547c7c51d68f2372e7701d16bb5b6/image.png?Expires=1767962684&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=T40Cef1q0Af87q6sw7ERO4sBKjtLRFHltyuwtpyoBS0J4y7KX8hBtsD3LGeL31a2TLADyOzr8m9zbqSxMgBpRazSY%2Fg019j7ioTfz4vclb0gF8R6F5iVq0u%2FjHQIHdq6d3wS0KEvvw1DynSpgvtyZZJNpcmOtyNTDqEXDDMDeBU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2F7ce547c7c51d68f2372e7701d16bb5b6%2Fimage.png)
 
 #### Additional Information
 - **Post color:** White
