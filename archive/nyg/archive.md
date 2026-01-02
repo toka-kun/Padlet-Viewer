@@ -5,9 +5,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 100
+- **Posts:** 101
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Dec 27, 2025 08:26am
+- **Updated At (UTC):** Jan 02, 2026 03:36am
 
 ## セクション一覧
 
@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1767923371&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3BYLdWo2OY23fOzVQKpg5T7M1tWH00rru2ZxqkvbH9chOFUGtpTcoxxAYLSIYfTTcNHJTbBxq7nGlg2ekX%2FFQeWs7rDQnIqgvqqVCo4Ga6XBye4zesfra3RHwdTqGZylQAB%2BppwBK3P%2BT%2FOOkOeLlXBQpGGc%2BPNu1C0EtPwJjP4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1767930075&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VwB%2Bqh0Xbf0TSY3%2Ftw%2BPph%2FbGr%2B6NAKsUStzopcgZdIK%2F9gBV%2Fx8TKXlSkFkCSerWC9p50fj5O513p%2F1jYKUkYQu%2BBDhKmpzcWQrW6JKumusXqT8ka7b%2Ff95BmRjAuMtg7fH10X8HU4EtUP1naVrJqIrqR09IgTfjMViI7vJWL4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -63,7 +63,51 @@
 
 ---
 
-### 2. 12月5日に一気に更新します。
+### 2. YouTubeは更新済み
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+<p><strong>あとはプロキシを少し</strong></p><p><br></p><p><strong>2025/12/09追記: 僕の改造版わかめでトレンドを復活させました。</strong></p><p><br></p><p><strong>2025/12/14追記: YouTubeを更新</strong></p><p><br></p><p><strong>2025/12/20追記: YouTubeを更新</strong></p>
+
+#### Comments (26)
+- **woolisbest** (Dec 09, 2025 04:37am): あー
+- **nonnon** (Dec 17, 2025 04:32am): すぐ治るから
+- **ᏁγᎶ » Tøka_Kuŋ_** (Dec 09, 2025 03:10am): ずっと安定して使えるYouTubeサイトなんて存在しない
+- **盲目衛門** (Dec 09, 2025 08:49am): ありがとうございます😭
+- **Courageous Bat** (Dec 09, 2025 04:14pm): 😭
+- **woolisbest** (Dec 20, 2025 11:38am): こっちで作るか...
+- **woolisbest** (Dec 20, 2025 11:38am): ww
+- **ᏁγᎶ » Tøka_Kuŋ_** (Dec 09, 2025 08:11am): いや多分一時的なやつ
+- **Anonymous** (Dec 21, 2025 05:00am): 新しいのお願いします！！！！
+- **盲目衛門** (Dec 09, 2025 03:10am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/x5m7aoggzO5yakAV) どうしたらいいですかね？有識者の方がいらっしゃいましたらお返事お願いしますちなみに通常の再生方法では再生できません
+- **woolisbest** (Dec 20, 2025 11:38am): 新しいの.....
+- **ネオンch** (Dec 12, 2025 11:08am): ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
+- **Studious Tilapia** (Dec 06, 2025 02:30am): ナイス
+- **いちごみるく🍓** (Dec 06, 2025 08:36am): わーい
+- **woolisbest** (Dec 10, 2025 12:56am): w
+- **Affectionate Toad** (Dec 09, 2025 02:18am): しあチューブが使えなくなりました検索できなくなり動画も見れなくなりました
+- **盲目衛門** (Dec 09, 2025 02:41am): 質問なんですけどしあtubeが今日の朝から動画が見れなくなってしまいました↓のようになります
+- **ᏁγᎶ » Tøka_Kuŋ_** (Dec 09, 2025 03:10am): 他のを使いな
+- **woolisbest** (Dec 09, 2025 04:38am): 同じことになったからわかる（sppedのやつ）
+- **woolisbest** (Dec 09, 2025 04:37am): それはしあtubeの使ってるAPIが使えなくなったんだよ
+- **Respectful Flamingo** (Dec 09, 2025 08:19am): 少ししたらなおるよ
+- **Fancy Snail** (Dec 09, 2025 09:50am): 行ける
+- **nonnon** (Dec 17, 2025 04:33am): とはいえこういうときって一週間くらいかかるんだよね
+- **nonnon** (Dec 17, 2025 04:32am): もうちょいまってみ
+- **盲目衛門** (Dec 09, 2025 07:38am): 詳しくないのでよく分からないんですがつまりしあtubeは使えなくなったってことですかね？
+- **Courageous Bat** (Dec 09, 2025 01:37pm): まだ無理だ😭いつ治るか教えてぇぇ
+
+#### Reactions
+- **Average star rating:** 4.4285714285714286
+- **Number of ratings:** 7
+
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** Dec 06, 2025 01:46am
+- **Updated At (UTC):** Jan 02, 2026 03:36am
+
+---
+
+### 3. 12月5日に一気に更新します。
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>それまでは雑談のとこでYuki+とかあげるから待ってくれ</p><p><br></p><p>あと伸びが悪くなってモチベーションが下がってきたからできればこの部屋を宣伝して欲しい</p>
@@ -116,7 +160,7 @@
 
 ---
 
-### 3. Yuki YouTube+がEdu再生に対応しました。
+### 4. Yuki YouTube+がEdu再生に対応しました。
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [Attachment](https://padlet.com/Toka_Kun_/breakout-room/961rqR90AwOd2nND-oAdpz24dgkRJv10R)
