@@ -75,7 +75,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 1. 悲報　ニンニン、嘘をついて韓国の年越しライブに出演していた！？
 **Author:** 一期一会 （顧問） (user_japan)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/a5f38fd90ca6c71a9670687027f3817a/IMG_1472.jpeg?Expires=1768049068&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=R50jwKHzS28BV7J6dz34e9VvjCb3KDJ7BdlzS1rZfMVKuHcfgGW5DFJ%2FxwFnqyW71kSfG9RGUubx9ZpsehR1sA2ikB5o9TI5LzVoGH4CaZJweqrU4fpDnJCFOyDFiHTun7jKnBGqRMajL0us3SlCrhyfU5AbzNqHANI%2F%2FZOWOk0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2Fa5f38fd90ca6c71a9670687027f3817a%2FIMG_1472.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/a5f38fd90ca6c71a9670687027f3817a/IMG_1472.jpeg?Expires=1768051944&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Xx5BkL%2FEIbwTtYPvK4KfRxzLiFPutWE13D9%2FChhtqX8Jvc4uVllLpK7y8CImtdU9bN1wWKOiOMFROrVo3vdrxldZyRLJSolfyGHkF%2Bng3MPqZ0CwowD3uxUGIcZJhvj0B5%2FBgM4UN%2BT2znZ2SaThgZywjvUSzk8I6oJekbAVnew%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2Fa5f38fd90ca6c71a9670687027f3817a%2FIMG_1472.jpeg)
 
 #### Additional Information
 - **Post color:** White
@@ -373,7 +373,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 24. 顧問さん
 **Author:** ゆな (ziku57)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4811037100/10c34a1c192341ca0a7385eeeb9174f9/Screenshot_2025_12_05_21_48_41.png?Expires=1768049068&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Ya%2F0zG1pEHC%2Byjm4x9VPLASpa7dvYnQuk%2FXbkIsymUw7Zy3zQxBNuxGvEbG0%2BEzXLbzo8Ye1EV84aRIMxuB8yFW0SYBe0RRAvGL1SwgMF5lw3u%2BHbrypq%2Fnsk5CNDM28yCog1K2OnS7TzOsOVZSvMB5aL9wnoezTOvQOdCkr%2BV4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4811037100%2F10c34a1c192341ca0a7385eeeb9174f9%2FScreenshot_2025_12_05_21_48_41.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4811037100/10c34a1c192341ca0a7385eeeb9174f9/Screenshot_2025_12_05_21_48_41.png?Expires=1768051944&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kKpQ28qEOkJDpG2u2vdEk8XujMXKTS9RrrrYyTdr1kRdJv%2Btwh%2Fz3Cnl3ujy7V5TAqApyJbK%2B%2BtobPCJ1e6LG%2BferIU1GCNR7fvI5%2BgqRykyNZFQTu1DG82hcDmR%2B1alH1pKoPgF1EsPuEkxylzCdvNSAJ9A218B9RGqQDrTgdc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4811037100%2F10c34a1c192341ca0a7385eeeb9174f9%2FScreenshot_2025_12_05_21_48_41.png)
 
 #### Comments (22)
 - **一期一会 （顧問）** (Dec 07, 2025 12:16am): パスワードが違っていますね．．．
@@ -506,7 +506,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 1. 思想全部入ってるのえぐい
 **Author:** 一期一会 （顧問） (user_japan)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/13d0b8c26276727aea86ee0b84529e6f/IMG_1445.jpeg?Expires=1768049068&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Onl0uq%2Fa%2FGL2NE8MyF5u%2FljyI%2FMboOA8bzfQKkPBhhoDogw7Iv9zFaKeCRMMgYqqV5Hn7Jox90HGVapSmbaAO9TZdWk2bHjg8MRGZRPmdtjETJlATkQ5sZQIvhtHgjJNk4DSNMTHznPd49J5FC%2BME9eE797bz6yPNaw6m8vKCAg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2F13d0b8c26276727aea86ee0b84529e6f%2FIMG_1445.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/13d0b8c26276727aea86ee0b84529e6f/IMG_1445.jpeg?Expires=1768051944&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KpZUFQGsLVwIw1lI5UbTiOMiBHCgSSdMfPEBDcZvPIGfmk7%2BA2sZajerzeuZl%2Bhu0o9DkrOu%2BpClt3l3uhmlHaF0vZRj2c1VNSjUstOC%2BOLWv22XmCIXrUk00EZwlbnGBEhCjY4sbnVh8FtHu5QsX9EguEgUuolQSGiwnyqHI2o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2F13d0b8c26276727aea86ee0b84529e6f%2FIMG_1445.jpeg)
 
 #### Additional Information
 - **Post color:** White

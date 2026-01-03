@@ -128,7 +128,7 @@
 ---
 
 ### 3. キット
-**Author:** 中堅エドガー (edoga125)
+**Author:** エドガー (edoga125)
 
 #### Additional Information
 - **Post color:** White
