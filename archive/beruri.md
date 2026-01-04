@@ -7,7 +7,7 @@
 - **Builder:** べるり(名前戻した) (BERURI1214)
 - **Posts:** 70
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Jan 03, 2026 07:49am
+- **Updated At (UTC):** Jan 04, 2026 07:09am
 
 ## ルール
 
@@ -28,7 +28,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768113352&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Jdk5sWMzTOHUQ7XaS4yIR3tEbYegna3Jxpwzgy8jpcBCGXKeEIU5qlJOsyta4riIjhaCIphuFs4O80nS1XMQVu%2FkfM%2BSaHAmX7UoSW%2BBiAmDzH8A2QHLjS9B7bYlmdcyYqy%2FUdlHBU9iZ4V2o9odQHJzNQeEhoeGKruadSJgj5A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768116266&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jom2y7MW9xhKptIz0wOchWp0WrYkEk2k3zMcWE8UR5u9ULt6zhzBVz2xP50jNd5rimIPGTgN7aFOPeTK5atvTJDB9TkocRHCyEQq0lo6RTJQHLBwwQ4WS8vWj2MEonN6CuojLHwQFXO1%2FqEzVOGcszzDnEaKarmIpy8eQRMc4no%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -216,6 +216,9 @@
 
 ### 4. ダッシュボードから見るとうさんくせぇ
 **Author:** ENDLESS∞１年間ありがとう！ (tipitarou)
+
+#### Comments (1)
+- **兵長** (Jan 04, 2026 07:09am): 確かに
 
 #### Additional Information
 - **Post color:** White
