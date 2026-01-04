@@ -7,7 +7,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 61
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jan 04, 2026 03:16am
+- **Updated At (UTC):** Jan 04, 2026 10:53am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -91,7 +91,54 @@
 
 ## Padletポータルワールド
 
-### 1. chat oasis
+### 1. Demenigiceのゆったり深海
+**Author:** Demenigice-hell (Demenigice_hell)
+
+<ul><li><p>一度荒らされたので招待制になりました！</p></li><li><p>もとはかなり賑わっていましたが荒らされたので過疎ってます。</p></li><li><p>受付に来てください↓</p></li></ul>
+
+**受付部屋のリンク（あれば）:** https://padlet.com/Demenigice_hell/padlet-zjdu6cb6q8x2bcyl
+
+**部屋の作成日:** November 17, 2025
+
+**閲覧数:** 500~999
+
+**管理者数:** 5~9
+
+**モデレーター数:** 非公開
+
+[Attachment](https://padlet.com/padlets/jqstna81hmb93vaq)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 04, 2026 10:25am
+- **Updated At (UTC):** Jan 04, 2026 10:30am
+
+---
+
+### 2. ブラックリスト~追加希望~
+**Author:** S&A (202500040)
+
+<p>皆さんの「危険人物」を教えて下さい！僕は雑談部屋を作りたいのですが荒らしを入れないためには荒らしを知ることが必要です！なのでお願いします</p>
+
+
+**部屋の作成日:** December 25, 2025
+
+**閲覧数:** ~499
+
+**管理者数:** 部屋主のみ
+
+**モデレーター数:** 0
+
+[Attachment](https://padlet.com/padlets/8e234i6b6m8l4xrb)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 04, 2026 03:16am
+- **Updated At (UTC):** Jan 04, 2026 10:30am
+
+---
+
+### 3. chat oasis
 **Author:** コカ・コーラファンクラブ (cocacolafanclub)
 
 <p>YouTubeが見れるサイトなどもあります。荒らし対策もしています</p>
@@ -114,7 +161,7 @@
 
 ---
 
-### 2. 脈脈部屋の受付
+### 4. 脈脈部屋の受付
 **Author:** 万博逃亡の脈脈　＃最近低浮上だねﾊﾊﾊ (Daisannoitidaibeyaninaru)
 
 <p>受付だお　雑談多分タノスィーから来てねぇ</p>
@@ -137,7 +184,7 @@
 
 ---
 
-### 3. 匿名掲示板
+### 5. 匿名掲示板
 **Author:** 匿名 (4444444_5)
 
 <p>匿名！</p>
@@ -161,7 +208,7 @@
 
 ---
 
-### 4. Shell専用部屋
+### 6. Shell専用部屋
 **Author:** あいうえお (gtr35aiueo)
 
 <p>shellshockersやってる人の集まりです</p><p>最近過疎ってるので誰でもいいから入ってください(荒らし目的のやつ除く)</p>
@@ -184,7 +231,7 @@
 
 ---
 
-### 5. 曇り空
+### 7. 曇り空
 **Author:** proxy (proxy0link)
 
 <p>色々プロキシ</p><p><br/></p>
@@ -207,7 +254,7 @@
 
 ---
 
-### 6. きてーーーーーーーーーー🤣
+### 8. きてーーーーーーーーーー🤣
 **Author:** run (11324130)
 
 <p>あらしだめ❌️</p><p><br></p>
@@ -226,7 +273,7 @@
 
 ---
 
-### 7. 来てね
+### 9. 来てね
 **Author:** 削除済みユーザー
 
 
@@ -243,7 +290,7 @@
 
 ---
 
-### 8. 来てくれよ〜〜〜〜〜
+### 10. 来てくれよ〜〜〜〜〜
 **Author:** 𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ (Helter_Skelter)
 
 
@@ -267,7 +314,7 @@
 
 ---
 
-### 9. Post 9
+### 11. Post 11
 **Author:** SUIKA#オムライス界隈（オムライス第1代目弟子） (20183977)
 
 
@@ -284,7 +331,7 @@
 
 ---
 
-### 10. きてね
+### 12. きてね
 **Author:** 赤い猫 𝕒𝕜𝕒𝕚𝕟𝕖𝕜𝕠 (akaineko)
 
 
@@ -301,7 +348,7 @@
 
 ---
 
-### 11. ここ来てね！
+### 13. ここ来てね！
 **Author:** えいかつ (sem_ekatu)
 
 
@@ -318,7 +365,7 @@
 
 ---
 
-### 12. 来てな
+### 14. 来てな
 **Author:** アキラ (8660664)
 
 
@@ -335,7 +382,7 @@
 
 ---
 
-### 13. 来て
+### 15. 来て
 **Author:** まさおくん (6pq2bkf1pk)
 
 
@@ -352,7 +399,7 @@
 
 ---
 
-### 14. woolisbestのプロキシ部屋
+### 16. woolisbestのプロキシ部屋
 **Author:** woolisbest (woolisbest)
 
 <p>プロキシとゲームしかありません。</p><p>ご注意ください。</p>
@@ -375,30 +422,7 @@
 
 ---
 
-### 15. Demenigiceのゆったり深海
-**Author:** Demenigice-hell (Demenigice_hell)
-
-<p>入った時点からみんなライター！</p><p>雑談や部屋宣伝など！</p><p>複数のモデレーターが荒らしに迅速に対応！</p><p>みんな来て！</p>
-
-
-**部屋の作成日:** November 18, 2025
-
-**閲覧数:** ~499
-
-**管理者数:** 1~4
-
-**モデレーター数:** 5~9
-
-[Attachment](https://padlet.com/padlets/zjdu6cb6q8x2bcyl)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 17, 2025 05:52am
-- **Updated At (UTC):** Dec 17, 2025 05:52am
-
----
-
-### 16. 宣伝部屋
+### 17. 宣伝部屋
 **Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃超低浮上？　＃あけおめ〜🎍 (I_like_apple)
 
 <p>宣伝しに来よう</p>
@@ -421,7 +445,7 @@
 
 ---
 
-### 17. Natsu部屋
+### 18. Natsu部屋
 **Author:** Natsu (masayukii0814)
 
 <p>嵐以外来てください</p><p><br/></p>
@@ -444,7 +468,7 @@
 
 ---
 
-### 18. woolisbest部屋（旧煮物部屋）
+### 19. woolisbest部屋（旧煮物部屋）
 **Author:** woolisbest (woolisbest)
 
 <ul><li><p>雑談部屋です。</p></li><li><p>旧煮物部屋です。（10/22に受け継ぎました）</p></li><li><p>プロキもシ一応あります（頼んでもらえればいくらでも...）</p></li><li><p>開発者が多いです（お気に入りのサイトを見つけられるかもしれません）</p></li><li><p>毎月一回ほど大きなイベントがあります（プロキシなどの景品あり）</p></li><li><p>最近過疎ってます</p></li><li><p>プロキシ・YouTubeサイトなどが欲しい人も来てください</p></li><li><p>規制解除にも力をいれてます</p></li><li><p>Chat・Meetに常に１人はいるので暇な方はどうぞ</p></li><li><p>Discord版の部屋もあります</p></li><li><p>マイクラ(Eaglercraftファイル版）などをやっているときもあります（Meet）</p></li><li><p>管理者はもう増やしません</p></li><li><p>モデレーターは増やすかもしれません</p></li><li><p>古参（６人）はもう増やさないつもりです（減ったら募集）</p></li><li><p>準古参（７人）はもう少し増やすつもりです</p></li><li><p>やばいやつが多いです（面白いとも言う）</p></li><li><p>wooltube・割引odeos（製作中）・woolsite・nomo-chat・(chocotube）などがあります</p></li><li><p>宣伝禁止です（vip宣伝はあり）</p></li><li><p>YouTube Plus+の開発者もいるので要望があれば何でもどうぞ（なんとかします）</p></li><li><p>プロキシがほしい方はこの部屋かプロキシ部屋で言ってください</p></li><li><p>Render・Cloudflare・Render custom domein・Vercel・Railway・Google Site・GASなどでサイトを作っているので使えるものを言っていただければそれを使います</p></li></ul>
@@ -468,7 +492,7 @@
 
 ---
 
-### 19. クリスマス・年末年始雑談部屋in2025→2026
+### 20. クリスマス・年末年始雑談部屋in2025→2026
 **Author:** ぐるぐるまっきー (guruma_cancelESTA)
 
 <p>年末年始・クリスマス専用の雑談部屋！</p><p>エド部屋に基づいた雑談、ピン留め、ミートに加えてイラスト、年末padジャンボ（宝くじ的な何か）、デジタル年賀状などなど年末年始らしいセクションを完備！</p><p><br/></p><p>ちなみにクリスマス雑談部屋も兼ねるのでプレゼント交換も可能！</p><p>これであなたもクリボッチ回避！</p><p>参加者求ム！</p>
@@ -494,7 +518,7 @@
 
 ---
 
-### 20. 雑談の森
+### 21. 雑談の森
 **Author:** いちごみるく🍓 (r0203068_1)
 
 <p>自分の部屋です。まだ人が少ないのでぜひ来てください。(ただし荒らし、脅し、脅迫、下ネタこれらは厳禁です🙏)</p>
@@ -517,7 +541,7 @@
 
 ---
 
-### 21. 無法地帯
+### 22. 無法地帯
 **Author:** Natsu (masayukii0814)
 
 <p>　拡散希望！！タメ口で来てねー！まだまだ頑張るぞー!最強雑談ゲームいっぱい部屋ー</p>
@@ -541,7 +565,7 @@
 
 ---
 
-### 22. なんか部屋
+### 23. なんか部屋
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 <p>雑談でもなんでもやっていって proxy募集中</p>
@@ -564,7 +588,7 @@
 
 ---
 
-### 23. Dougaの部屋
+### 24. Dougaの部屋
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 <p>みんなで好きな動画をテキトーに貼り付けてゆっくりしていってね。</p>
@@ -587,7 +611,7 @@
 
 ---
 
-### 24. 荒らし以外の何でもしていい部屋
+### 25. 荒らし以外の何でもしていい部屋
 **Author:** こやつやりよるなー (1935111_1)
 
 <p>いろんなこと載せてって</p>
@@ -610,7 +634,7 @@
 
 ---
 
-### 25. GAKUタブ部屋
+### 26. GAKUタブ部屋
 **Author:** GAKU　Cookie Clicker楽し〜 (h29c03086_1)
 
 <p>受付部屋を新しくしたので投稿させてもらいました。</p><p><br/></p><p>過疎ってるんで来て下さい(泣)</p><p>AIRMASHで仲良くしてたらいつの間にかできていた部屋です</p><p>マイクラ、AIRMASHなどでみんなで遊ぶときがあります</p><p>特にAIRMASHのプレイヤー絶対に来てね</p><p>みんな仲良しだよ</p>
@@ -634,7 +658,7 @@
 
 ---
 
-### 26. ICFSの集い
+### 27. ICFSの集い
 **Author:** ぐるぐるまっきー (guruma_cancelESTA)
 
 <p>Interclass Fittingservice、通称ICFSに特化したプロキシ、規制突破専門padlet。</p><p>念入りに調査しICFSで規制されないサイト、安定して使えるサイトを抜粋！</p><p>ICFSに関する相談、プロキシに関する相談も受付中！</p><p><br></p><p>※当padletは、Toka_Kun_氏の<strong>「プロキシのリンクやYouTubeの閲覧方法を共有する会」</strong>をもとに作成しております。</p><p>なお、使えるサイトのみをピックアップしているためICFSの方にはこちらがおすすめです。</p>
@@ -660,7 +684,7 @@
 
 ---
 
-### 27. ざっつだ ~ ん！
+### 28. ざっつだ ~ ん！
 **Author:** すず (suzu_)
 
 <p>自分の雑談部屋です！</p><p>まだ､そこまで人は多くないから､初期からいてくれた人は管理職あげられるかもです‼︎</p><p>人が増えたらプロ棋士とかも増やしてこうと思ってます！</p><p>エロも増やすかも？</p><p>勉強も少しは教えられます？</p><p>まぁ､私が教えられなくても､他のやっさし−人たちがきっと教えてくれる！(((</p><p><br></p><p>暇な人は来てくださいね？？</p><p>暇じゃなくても来てね？？</p>
@@ -683,7 +707,7 @@
 
 ---
 
-### 28. ゲーム プロキシ共有部屋   勉強も高校生ぐらいまでなら教えられるよ！
+### 29. ゲーム プロキシ共有部屋   勉強も高校生ぐらいまでなら教えられるよ！
 **Author:** ライオット (sn121248)
 
 <p>遊びも勉強も両方な部屋です 巨大部屋になりたい！</p>
@@ -706,7 +730,7 @@
 
 ---
 
-### 29. waniの部屋
+### 30. waniの部屋
 **Author:** わに太郎の龍之介11 (waniwaniwain)
 
 <p>俺の雑談部屋</p><p>いつかはどこよりも人が多い部屋にする</p><p>なんでもしよ</p>
@@ -730,7 +754,7 @@
 
 ---
 
-### 30. マイクラコード公開部屋
+### 31. マイクラコード公開部屋
 **Author:** GAKU　Cookie Clicker楽し〜 (h29c03086_1)
 
 <p>ただのマイクラ専門部屋じゃない！</p><p>みんなでマイクラをするための部屋！</p>
@@ -751,35 +775,6 @@
 - **Post color:** White
 - **Created At (UTC):** Dec 01, 2025 08:18am
 - **Updated At (UTC):** Dec 01, 2025 10:51am
-
----
-
-### 31. 規制解除proxy広場
-**Author:** タピオカパン！！ (r0136496)
-
-<p>まず誰でもライター権限がありChromebookの学生さんはブックマークのところから名前を消せば完全に見えくなります。そして気軽に発言オッケー最近できたばかりなので相談さえすれば管理者にすることも可能です注意点※下ネタ・悪口・荒らしこれらはしないでください</p>
-
-
-**部屋の作成日:** November 19, 2025
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 0
-
-[Attachment](https://padlet.com/r0136496/proxy-v68ixgkim5w7cxoc)
-
-#### Comments (1)
-- **タピオカパン！！** (Nov 24, 2025 11:26pm): すみません訂正失礼します。モデレーターと管理者は相談したら変更可能です
-
-#### Reactions
-- **Number of likes:** 1
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Nov 24, 2025 02:08pm
-- **Updated At (UTC):** Nov 24, 2025 10:17pm
 
 ---
 
@@ -1405,7 +1400,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768126946&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nXnPphaTEjnr9NkgaSa19lRHUcWWA0OpCxiTC5vVNYVipYDez1tjVtrDNh5a%2Fn01O3tFGGEz02y28SCbDZjYkt1byu7llT1OCJ4XcXyvwA7A91F%2F9sDqJLK4nvKnzridkEpTHl%2BmJo4iPtBCp1VlcvLovLzkZhhoyJWPDggA0%2BE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768130293&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VVNlKS6M5HKwMaMdqWv9ncJQQ6Ob2Po5fiB2HXdCckJtvE7VWgTvNMjn4cWf99xCg2cr0VtKIJ5PX6yxNIz3H%2BKN2rzBuV1Bl6IvnVPcH1wudedjgyZ8xSHN71rcpDdH%2BsuzGregDTLugLAcSXS1yAyEucPE4b%2FBkUkc%2FdoJB8Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・

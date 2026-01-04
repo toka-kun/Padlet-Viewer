@@ -7,7 +7,7 @@
 - **Builder:** べるり(名前戻した) (BERURI1214)
 - **Posts:** 70
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Jan 04, 2026 07:09am
+- **Updated At (UTC):** Jan 04, 2026 10:27am
 
 ## ルール
 
@@ -28,7 +28,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768127057&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Lxmo3hZpb6IL8KbbtLq%2F%2B8xdPg52MHgV%2Fbaf84IR%2By3LAQJ5czUUeUGnlJdrwRDwNOV3G41R7RgsunJMownoc3b%2F6rSuyx7G4tmwVOI%2FoqIBZJy2Lmie72umf1CfAFvbb5JxfkKeWpScDK%2Fqnc0Gmg8vkITUD%2Ba436zLgGy5mS8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768130402&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2GGQzxGxJhf7N1XIFwetWAzuBUNi8lJ52SfrWZZikahbZVtOm3i75o6Yf1G69wIyR38rReo%2FvBN7TrkhN8s3Ub8C2y1YXZHm1l4CfXo6AejG989So5U0NhDnlypMUjZbgJQr9vaOFtcMYdhQ0SI0fM%2BJkZWTtkAZcyaZvqJMW68%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -83,6 +83,9 @@
 **Author:** 共有広場協力委員会 (sagyousyasan)
 
 <p>3日後ライターになれます。</p><p>申請した方はこの投稿に名前を書いときます。</p>
+
+#### Comments (1)
+- **꧁𝖓𝖔𝖗𝖒𝖆𝖑 𝕶🗽꧂ #𝕶族1代目 #neko族？代目** (Jan 04, 2026 10:27am):  
 
 #### Reactions
 - **Number of likes:** 1
