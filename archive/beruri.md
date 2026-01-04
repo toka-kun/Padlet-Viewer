@@ -7,7 +7,7 @@
 - **Builder:** べるり(名前戻した) (BERURI1214)
 - **Posts:** 70
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Jan 04, 2026 10:27am
+- **Updated At (UTC):** Jan 04, 2026 11:17pm
 
 ## ルール
 
@@ -28,7 +28,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768170168&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EYDIFh4mhZ5EqJKztLUOj5hJPAhYmyr0kmV86znx2HEtvLg6jd0kGFadsU%2F%2FLmJdsWcgtmjz6nTz4%2F%2FSYPITgttdKUyPxtQuxZXVFYW2Apwug2gnwymoN%2FEGKpfTybzxuBT61JTkjuSl%2FZ50oLWpSXeaT5eOkYZoL1nBjJGxsFo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768173772&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=L5zjBVdpe78XZPEtRX4aQ9AiSsCNu71X6VWYYBuUJaQt7SuFZAc%2FWNoI8CoZQBuUco6%2FJk5pxbrXDNvIFdbumYDvL0Z%2FIddQw06VPveSjik%2BEAgRa00QpshEJJ8Y%2Bll2LpvBNqqCeYW9MpjpSZ2IcCJLF59HpsSvj%2FpCJ6rr9B8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -57,6 +57,9 @@
 **Author:** 共有広場協力委員会 (sagyousyasan)
 
 <p>新年を迎えると共に素晴らしい事が起きました、なんとこの部屋の閲覧数が2万突破しました！</p>
+
+#### Comments (1)
+- **ハッピーくん** (Jan 04, 2026 11:15pm): 今年もよろしくお願いします
 
 #### Additional Information
 - **Post color:** Yellow
@@ -197,6 +200,9 @@
 **Author:** べるり(名前戻した) (BERURI1214)
 
 [Attachment](https://solocentral.lol/)
+
+#### Comments (1)
+- **ハッピーくん** (Jan 04, 2026 11:17pm): 見つかりませんってなる
 
 #### Additional Information
 - **Post color:** White
