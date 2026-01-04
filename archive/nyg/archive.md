@@ -5,9 +5,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 102
+- **Posts:** 103
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Jan 03, 2026 02:59am
+- **Updated At (UTC):** Jan 04, 2026 11:27am
 
 ## セクション一覧
 
@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768130266&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=oYUKozpupEENoBLB6BlMGTamghIrHJpR4aJmoFq1Uv1Wg9XB5p%2BKV2%2FdwsvEnz2bV6kBKuGT6HFhLi2fDgziJeHHqJLN%2FZCjRmRv49fIU6KdUKz5HMaeBxRefZwSz9XVrwHvUKWtzYPjoChAvco7pPjRVRAvbm1L6zJT6BlIngY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768135342&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=spM%2FD3le1odT3gwqZ6i8Z%2FdSOsuSyAM4PqKq9KK71a9jdkxVyAm25jYBP%2BqmjRi6yd3I8lt4RYgfVYOoC3zrbe8%2Fb07vIP2HnIr13xRsj6zOllfHIYXnfZDej98lq8MHYTvxAkAXkNou3WsnYEpu4DxAGLrV0npN4JTJBHcLC4k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -63,7 +63,40 @@
 
 ---
 
-### 2. YouTubeは更新済み
+### 2. i-FILTER民のために代替ビュアーを作成しました。
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+<ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/x871d592e">https://html.cafe/x871d592e</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet-viewer.pages.dev/">https://padlet-viewer.pages.dev/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet-viewer.smooth.ytalt.f5.si/">https://padlet-viewer.smooth.ytalt.f5.si/</a></p></li></ul>
+
+#### Comments (15)
+- **woolisbest** (Dec 22, 2025 02:08am): ww
+- **Adorable Deer** (Dec 22, 2025 12:11am): 全風呂
+- **ᏁγᎶ » Tøka_Kuŋ_** (Dec 21, 2025 01:11pm): >:D
+- **Anonymous** (Dec 23, 2025 01:03am): ｗｗ
+- **ニッピー（パーリナイ）** (Dec 22, 2025 12:41am): やばい、1時間前には全部アクセスできてたのに、もう全ブロ（I-Filter）
+- **ᏁγᎶ » Tøka_Kuŋ_** (Dec 20, 2025 11:24am): 今ちょっとUIが崩れてるけど明日には直します。
+- **ᏁγᎶ » Tøka_Kuŋ_** (Dec 25, 2025 03:15am): セクションを追加できるのモデレーター以上やで。それにこの代替ビュアーはただのビュアーだから見る専用
+- **＃G党　＃活動休止中** (Dec 20, 2025 11:30pm): ブロ
+- **ᏁγᎶ » Tøka_Kuŋ_** (Dec 21, 2025 12:32am): 修正した
+- **ゆず** (Dec 21, 2025 08:04am): すご
+- **kitkat33112** (Dec 25, 2025 02:43am): セクション追加できないです
+- **woolisbest** (Dec 20, 2025 11:33am): ww
+- **Studious Quokka** (Dec 30, 2025 06:04am): これ仕組みが気になる
+- **Playful Fly** (Dec 23, 2025 01:56am): HTML.cafeで作られてるやつは全ブロ
+- **Charismatic Lion** (Dec 23, 2025 08:18am): プロキシがだんだんブロックされてきましたhttps://www.startpage.com/これとかも入れるけど、サイトに行けないとかhttps://www.intagent.com/remoteview/index.phpこれはなんかできんくなった。新しいやつたくさんください 
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 3
+
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** Dec 20, 2025 09:40am
+- **Updated At (UTC):** Jan 04, 2026 11:27am
+
+---
+
+### 3. YouTubeは更新済み
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>あとはプロキシを少し</strong></p><p><br></p><p><strong>2025/12/09追記: 僕の改造版わかめでトレンドを復活させました。</strong></p><p><br></p><p><strong>2025/12/14追記: YouTubeを更新</strong></p><p><br></p><p><strong>2025/12/20追記: YouTubeを更新</strong></p>
@@ -107,7 +140,7 @@
 
 ---
 
-### 3. 12月5日に一気に更新します。
+### 4. 12月5日に一気に更新します。
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>それまでは雑談のとこでYuki+とかあげるから待ってくれ</p><p><br></p><p>あと伸びが悪くなってモチベーションが下がってきたからできればこの部屋を宣伝して欲しい</p>
@@ -160,7 +193,7 @@
 
 ---
 
-### 4. Yuki YouTube+がEdu再生に対応しました。
+### 5. Yuki YouTube+がEdu再生に対応しました。
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [Attachment](https://padlet.com/Toka_Kun_/breakout-room/961rqR90AwOd2nND-oAdpz24dgkRJv10R)
