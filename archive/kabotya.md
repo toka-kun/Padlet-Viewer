@@ -5,7 +5,7 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 135
 - **Created At (UTC):** Aug 20, 2024 06:37am
-- **Updated At (UTC):** Jan 04, 2026 07:41am
+- **Updated At (UTC):** Jan 05, 2026 03:44am
 
 ## ライター
 
@@ -103,13 +103,13 @@
 ---
 
 ### 3. Post 3
-**Author:** WestExpress 銀河 (kontikuwa)
+**Author:** WestExpress 銀河 京都行 (kontikuwa)
 
 <p>鉄道好きの方　どなたかこの部屋に入って欲しいです　雑談というセクションで皆さん楽しみましょう</p>
 
 #### Comments (2)
 - **猫耳** (Dec 24, 2025 02:08am): パスワード
-- **WestExpress 銀河** (Dec 20, 2025 01:07pm): コメントして頂いた方に招待します
+- **WestExpress 銀河 京都行** (Dec 20, 2025 01:07pm): コメントして頂いた方に招待します
 
 #### Additional Information
 - **Post color:** White
@@ -167,12 +167,12 @@
 
 <p>俺は買ったよ</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/94018134aa72b906730df049d217f6d1/image.jpg?Expires=1768120326&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cmmSPrEArBkcGglOAiShAanDYcWCp8%2By9%2F%2B3ERgLaLFdKRYqyMmnvO3BwEy%2BvambhnTzgN7tRnES3C6WOooTKhqW745i18ESWomoHUYeoZAeAh5tDf4XxxOzG4IOc3n8nFUvAm4ueqvBBUdVBVCbb6%2BXTuZ71CfImRtlpI5q%2FLQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F94018134aa72b906730df049d217f6d1%2Fimage.jpg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/94018134aa72b906730df049d217f6d1/image.jpg?Expires=1768190646&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UCwiv6zbIw6sloUJjxkSw7H5bUvebS5e6wAQzWld1Cu2hR2ipTRQwAmEWhJYrFKhoVuW4VTMzcIFJdjemYgsF1otCwSGI%2F34eJs0jVBJOVaQU4h9SMqR6HjbRQ08CHcCWAINQ9fCOgaEQ2bzZ8hecVrpLEL%2FMIomBLWi8S1Xdtw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F94018134aa72b906730df049d217f6d1%2Fimage.jpg)
 
 #### Comments (11)
 - **Blushing Aardvark** (Oct 31, 2025 05:10am): はい
 - **寺本莉緒可愛い** (Oct 26, 2025 06:24am): あとニンニクの風味 効いてて美味しいよ
-- **ミライドン　ゆっくりk弟子1番目　元naritati** (Oct 25, 2025 10:18am): いいな〜
+- **NARITATI　あけおめ** (Oct 25, 2025 10:18am): いいな〜
 - **あ** (Oct 27, 2025 02:21am): ずる
 - **ｸﾎﾞ ｲｯﾀ** (Oct 25, 2025 11:33am): いいでしょ
 - **Adventurous Cockatoo** (Oct 26, 2025 03:52am): 🥲
@@ -194,7 +194,7 @@
 ---
 
 ### 8. あーーーーーーずべんじゃーーーずーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
-**Author:** ミライドン　ゆっくりk弟子1番目　元naritati (5977065hfa)
+**Author:** NARITATI　あけおめ (66745647pokemon)
 
 #### Additional Information
 - **Post color:** White
@@ -226,7 +226,7 @@
 ### 10. 最後の5秒編集した。
 **Author:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/7ef07e48e063a7b182f6cf00b43fe1d2/_____________YouTube_________.mp4?Expires=1768120326&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qLRH%2BwZ7wn4p2IMtMF1d29k08JRrzJ1OdsxTVN8%2FvouYJHihvGiNn%2BC0%2BEcI%2BKEsubnIHIH4WKGgwW1wga9uuvUxcqOdmxxgs3ZxMhGS2rxavvazq5SlKBaBENMTGhqM2CDcL%2Fs8JxEKDbiZH%2F2Ik0%2FZ%2B8KBKFoyx7uVeFxhtYQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F7ef07e48e063a7b182f6cf00b43fe1d2%2F_____________YouTube_________.mp4)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/7ef07e48e063a7b182f6cf00b43fe1d2/_____________YouTube_________.mp4?Expires=1768190646&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=HsB13A%2FJ73%2FucSw1rBb5UEnZ0%2BKnmbJun0vWcGw%2FvZuvgzVOu0pO3YwGDPBHfT9bFuH4rFZ4IveXngvbk5GRWHvS1bRWq1qIIH7KU1K2TyFsp36iJUMWoBTddaCJ7vlUuuB5qY%2FrJ2xI8Ix%2BxRisJWiCi0Xcqw0kylOFZTd6X4M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F7ef07e48e063a7b182f6cf00b43fe1d2%2F_____________YouTube_________.mp4)
 
 #### Reactions
 - **Upvotes:** 1
@@ -378,7 +378,7 @@
 
 <p>規制で入れんけど、どこなん?</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/206d31ff0a6c2dd8684275e52bc03ec2/IMG_0993.jpeg?Expires=1768120327&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Z1MCbeup0VVYhSjSXa70uqyRSUF%2F4nXgf5bnqgiX%2FO%2BbLbutvLhDwOYrLhO%2FiCjuTTppW7iQYu3swpwSG8fdxcvbrExp8V04hp6GVReFwpUmisRtw%2FOatF7zQ4cUComywYpcUFalYVj%2F68Tppofs6UcZ%2FQ3OYV5VYtli81ysrsI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F206d31ff0a6c2dd8684275e52bc03ec2%2FIMG_0993.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/206d31ff0a6c2dd8684275e52bc03ec2/IMG_0993.jpeg?Expires=1768190646&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=piZrnu59t2BjYNvsUuh1766Po%2F0DKutzGHotjw%2BnhC0a3mh%2BAl1BvlnCfs68Upc9Pi87OIRkCoKEJKN3TAzKxJpseJ3rdaSRY%2BQ%2FqMJ79IkZrZEo9pMk7qHTNEX%2F37sgb%2FsLPGD%2F5SZl8UZngO4Fpwb1nS9UI0z%2Bq7Q%2BZ1Sl%2Bgo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F206d31ff0a6c2dd8684275e52bc03ec2%2FIMG_0993.jpeg)
 
 #### Comments (131)
 - **ｸﾎﾞ ｲｯﾀ** (Oct 13, 2025 11:27am): そうなんだ
@@ -1010,7 +1010,7 @@
 ---
 
 ### 18. どうやって部屋4つ以上つくるの
-**Author:** 🌇 白光の黄昏 ✨️　#活動休止中 (tasogarefirewhite)
+**Author:** ✨️ 白光の黄昏 🍓 (tqs0grr_xc0)
 
 #### Comments (65)
 - **ロリコンが** (Oct 14, 2025 02:39am):  
@@ -1022,7 +1022,7 @@
 - **ロリコンが** (Oct 14, 2025 02:39am):  
 - **チンされたチキン‼（チンチキって呼んでね）** (Sep 27, 2025 11:06am): もうできなくなった
 - **ロリコンが** (Oct 14, 2025 02:39am):  
-- **🌇 白光の黄昏 ✨️　#活動休止中** (Sep 27, 2025 10:08am): フォローして
+- **✨️ 白光の黄昏 🍓** (Sep 27, 2025 10:08am): フォローして
 - **ロリコンが** (Oct 14, 2025 02:39am):  
 - **ロリコンが** (Oct 14, 2025 02:39am):  
 - **ロリコンが** (Oct 14, 2025 02:39am):  
@@ -1297,7 +1297,7 @@
 ### 23. いける人教えてください
 **Author:** ゲロ (gero45)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4126681113/3e057e5fd6fefd3bd697d802c6bbc633/image.png?Expires=1768120328&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SInPTfOIKMdKYs%2FgRxC6BCou4k68lGTX4jlkYy43ysH7NDQborkr8nTkl5oKqMNTu%2Bzah9uJoA1t%2BEWzoropxeNqHSuIzZHuuKJ2AAGy6oAOuihY2BMmKWeqwT3BQfIUOU8KFM8kXTHCg5mMplIyfdgGFouQKZr7VeZG2tvi2a4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4126681113%2F3e057e5fd6fefd3bd697d802c6bbc633%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4126681113/3e057e5fd6fefd3bd697d802c6bbc633/image.png?Expires=1768190648&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kRmlxQiA6MmI2Hgh%2BtYM%2FNAnGU30FWFmnb2NdrfPLNEI0D7OJvElmunQUAuhYxwJSF4j0DZ5fYrNCLRBqt5m5RcSYurgXX85S18LEagyNA8E0NDUuZqsxZXLRTLlEfjMS4yv8Rux2tktg7mUXcErga%2Br8s6XVs%2F2hYJjEtg6zgE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4126681113%2F3e057e5fd6fefd3bd697d802c6bbc633%2Fimage.png)
 
 #### Comments (18)
 - **ロリコンが** (Oct 14, 2025 02:41am):  
@@ -1531,7 +1531,7 @@
 - **ユウトー** (Jul 16, 2025 07:30am): おつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwww
 - **ユウトー** (Jul 16, 2025 07:30am): おつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwwwおつかれさまです～～～Wwwwwwwwwwwwwwwwwwwwwwww
 - **ゲロ** (Aug 13, 2025 10:44am): googleありがとー
-- **WestExpress 銀河** (Oct 15, 2025 01:02pm): もう人手足りましたよ
+- **WestExpress 銀河 京都行** (Oct 15, 2025 01:02pm): もう人手足りましたよ
 - **削除済みユーザー** (Aug 16, 2025 09:40am): ｗｗ
 - **削除済みユーザー** (Aug 16, 2025 09:41am): あとスペル間違えてて草ｗ
 - **釈迦ポテ** (Sep 06, 2025 12:33am): 削除した！
@@ -1716,8 +1716,9 @@
 ### 2. 荒らし撲滅隊でアカウント持ってる人、荒らし対策本部団員ってところにいれてあげようか？
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-#### Comments (14)
+#### Comments (15)
 - **特急サンダーバード12号敦賀行き** (Aug 19, 2025 03:49am): ｗ
+- **Raid Hawk** (Jan 05, 2026 03:44am): い０て
 - **ぐるぐるまっきー** (Oct 08, 2025 07:33am): 荒らしていいよhttps://bbs1.sekkaku.net/bbs/Spherenet/
 - **削除済みユーザー** (Aug 19, 2025 12:58pm): ナリスー（なりすまし）
 - **とりもものリア友** (Nov 09, 2025 09:44am): いれーて
@@ -2091,7 +2092,7 @@
 
 <p>笑ったら👍️押して</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads/3649489253/5f6661282b178b6ae59c5a2cf86322bf/Screen_recording_2025_04_08_12_50_54.webm?Expires=1768120329&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=T2XLEzeoVRaFoRW0hFukQnoBILrdWz%2FGyx5J3fcaPby1aJNOEP5EHr8fXN7iy8QNwwSEABsexN82ABv9TBlIjoljnPMS%2FdKRt6d19e7YgfY0Nlg1lI4mvaDZPIzotwA04TtvbJ%2FXclNeDFgQInGrkM2tmzCYeJcZ2wGi4ophcHk%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F5f6661282b178b6ae59c5a2cf86322bf%2FScreen_recording_2025_04_08_12_50_54.webm)
+[Attachment](https://storage.googleapis.com/padlet-uploads/3649489253/5f6661282b178b6ae59c5a2cf86322bf/Screen_recording_2025_04_08_12_50_54.webm?Expires=1768190649&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lObFjJiXLVJTjRr3Dltw88lnH6CQuQygyGJZh45Z5APNTwpXuvQ2Xwh2f37nuUMn%2FVJ%2FWo7IknshuXVOQSWGMQHkXs8ufe%2F9TgJy4ra2jRGI2B2R8Y%2Bz3JFVPb4Z8ZHCXb0vAOb%2FTtFmINNVJG84VL5lIgeDXMYbQNLZwQACD5k%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F5f6661282b178b6ae59c5a2cf86322bf%2FScreen_recording_2025_04_08_12_50_54.webm)
 
 #### Comments (3)
 - **なべさん** (Apr 08, 2025 03:53am): w
@@ -2136,7 +2137,7 @@
 ### 22. 待ってｗ普通にブロックｗｗ
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads/3649489253/c35cdf6225db884a79bfbe70fe842184/image.png?Expires=1768120329&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ctQZIm2%2FLBPRVTM1wBIHutXGxlaTbYggyCHWYTI4zZFAuoK7L6r01zeEasRQO%2FV1tuY9Ct6qhelQ1pBfLltaZb%2BuWoFeltgcB22LmmVRHLdJxsov4t5%2FKOFeDX1QwkkxD8FwsOrHUq8mb9OSPJ6O%2BH%2FXxzxgtI7aUhPl6pikHyo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fc35cdf6225db884a79bfbe70fe842184%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads/3649489253/c35cdf6225db884a79bfbe70fe842184/image.png?Expires=1768190649&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sMGzZwVR7hq6DuSEeCMdQ4UE4uubFV%2BX6IUyyZF3TIAmbP7lnFxKzLhtlgW%2BbxSLbw1vgps6CBYf0yFqEkwTxfRYU4sfiz4O9gQvj5BfEpXehQWhMEsEuh94ZIRSIsaTpvrsH1eg5V8wJtL0hTQ3rHxs8x2gPG6XcuJjZfXQ8ng%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fc35cdf6225db884a79bfbe70fe842184%2Fimage.png)
 
 #### Comments (5)
 - **柚子塩** (Apr 08, 2025 03:28am): ブロック祭りすげぇ腹立つなぁ……()
@@ -2155,7 +2156,7 @@
 ### 23. なべさん、柚子塩さん
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads/3649489253/b8396ea7fd827a740bfb9ee98017847a/image.png?Expires=1768120329&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6QZ3G9kdlPwsDgcJjhwNeHYDlOI9upImqKsYvEHD4yT7BLaqIWq7oyjkSj5XUdgT57RvLJIqgO95s%2Fy7t3%2BpdTWiXPcEbRy42FIV0UgdS42SL4%2Be1%2BkLxOjVgGL3AGHYxrewZltoUVomeAYvRbfHyGSTM9aUJ4y9qcVHJFIseSc%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fb8396ea7fd827a740bfb9ee98017847a%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads/3649489253/b8396ea7fd827a740bfb9ee98017847a/image.png?Expires=1768190649&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=l8j4jA6TDXE0WzyTJFbJYW78fhx85uLGRIDSB%2B3SQT%2FJqNlDAEzNxKVf6E79f8vqaHcKhEiBZUbYQz8D5PSd0uB9wop8n4%2FIODNhlQR8Gwo6SS0YlV6RNY7Nx%2BXHyVjATZdYKcMjiSJEsZrem82HoMz1oRyhuxYsyLtYNUahMso%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fb8396ea7fd827a740bfb9ee98017847a%2Fimage.png)
 
 #### Comments (3)
 - **【超低浮上】Mr.k廃人** (Apr 08, 2025 03:26am): セーフらしいです
@@ -2411,7 +2412,7 @@
 ### 35. まぁこれが現在の状況です
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads/3649489253/d3730900b839f44b20861220e91685cf/image.png?Expires=1768120330&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KGsh0XfdAVQfudGwQcvp5fe%2F3NvjE7E849wzEBzHT1ZZes%2BMWhaCWCzJQwQzvS8YDYWefik890icL1EG1diWAYyQgVmF4e8D%2FHmSPjwD0MFWSNtpZaZwBu%2FBk5vGr0wKo7as4yJABV5JHdcKrV1qjCtuJzeolgaCJAxNJ%2F0A5nU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fd3730900b839f44b20861220e91685cf%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads/3649489253/d3730900b839f44b20861220e91685cf/image.png?Expires=1768190650&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eNZAsXiFz1DnriXH9R9XPLoB2X21XUIDeSdg5AnX5NVYiUMRVqOdxfMF4Akn4cx5iSTEO%2Bigs4Nk%2Fxo9UH%2FZ97lbO2Ay8QAIdG6C5%2BL2OSthw4WnhQ1T2c8Z6UC9gws3Q7BBkBIvgzEjBlTp3g7J9Ln83havyvBZ0TduIfi2jfo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fd3730900b839f44b20861220e91685cf%2Fimage.png)
 
 #### Comments (29)
 - **【超低浮上】Mr.k廃人** (Apr 07, 2025 10:31pm): そしたら本部のほう開いて
@@ -2454,7 +2455,7 @@
 ### 36. やりかた
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-[Attachment](https://storage.googleapis.com/padlet-uploads/3649489253/36d92899197a03dc53aeabb98c2edd79/Screen_recording_2025_04_07_20_43_59.webm?Expires=1768120330&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=L0M90zLv%2FDfQmn4hcCC8P%2Bnuvf0eLYWHyY5QkhnyUdWeyejBO9RKFTyMF1VpWda4NROMd%2BJ%2B0FXW8mntj%2BrHNfmXOK2dnSrmovRpUNqLuwhK5DWMP7b3AIN6XSqfVKSzOgmW%2FfdranOJKQSjyy4IMkgcKlOYqOqTttbI4QKtp%2BE%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F36d92899197a03dc53aeabb98c2edd79%2FScreen_recording_2025_04_07_20_43_59.webm)
+[Attachment](https://storage.googleapis.com/padlet-uploads/3649489253/36d92899197a03dc53aeabb98c2edd79/Screen_recording_2025_04_07_20_43_59.webm?Expires=1768190650&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dzhi4Ht%2FK%2BBklbw2Bcp%2BUAjvw8kWp35Wb13gEDX8qlG3ZVyMfysslEYqKsFcQz0ntGApicrjVYBeoyMdEwWTgUS6P%2F%2BPouFQLDxOPLrEkazVY7QgB%2FVgmoQrJDnEwZmcZLJan3ivs54%2Bjc82ZEsxfOnvFZOi9YWSAVKDAEPWaJo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F36d92899197a03dc53aeabb98c2edd79%2FScreen_recording_2025_04_07_20_43_59.webm)
 
 #### Comments (5)
 - **【超低浮上】Mr.k廃人** (Apr 07, 2025 10:16pm): あの部屋って何？
@@ -2742,7 +2743,7 @@
 
 <p>Mr.暇人さんの荒らし対策本部のとこ荒らされてるしコメントすらできなくなってる？？</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads/3655617445/8c143567029544738b654760a56cb885/IMG_0291.png?Expires=1768120330&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zuOasabqxxltgECeSFHsE4yd99RobYhqQ97btrDxzlrT%2BY46ArSn5X0KeOBJFw7WcnnFSTv1kDM5MKrtz2VefzdLsIN2bIqePAPsKRR5i9KZKPv%2FVRL8QXS0nfA8fiqcQ0l2DXZS6SaoZBhMOUcTVSSv%2B0s59T0zMSfMvkF%2F6Qc%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3655617445%2F8c143567029544738b654760a56cb885%2FIMG_0291.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads/3655617445/8c143567029544738b654760a56cb885/IMG_0291.png?Expires=1768190650&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=475UFb0xt0aGTs%2FB5tRsRBie%2F6efil366Sf0O6N7wciVF8lKsOhGgigzt4HhO615P9PoQd4Mo902NyprY9fwSyejg%2BbPjCCR8QkouOEBmfddAwZoovmll%2FbhXbSBx7W4%2FSAqgObcdkf8RtpjuLp8NJQoh5eCcJ46eVFMyI7ZN%2FE%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3655617445%2F8c143567029544738b654760a56cb885%2FIMG_0291.png)
 
 #### Comments (3)
 - **なべさん** (Apr 08, 2025 11:17pm): なんかそれとうちセクションとか増やせたりピン留めできるような管理人みたいな奴もたぶん消えてる
@@ -3462,7 +3463,7 @@
 ### 2. Post 2
 **Author:** 削除済みユーザー
 
-[Attachment](https://storage.googleapis.com/padlet-uploads/3579365566/47f01ce750f81b239d9033aefa3307d4/videoplayback__5_.mp4?Expires=1768120332&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wW3QkT5gy%2BA7JrFd60KmHw8dBqT6i1CXtojFrRIYT4Pl7Bucr5tw4hFBf%2FG4cNE4w%2BTzPp4L5VoqpmZLSc%2BN7kQScWlbGwlfE%2BAIL0JxQt1kwKOHNv%2BUkZL2IAfcAceAW2VQeEVc%2FRk14e%2FzVY71sqiBIfzBi7vg%2FPxu%2Ba%2F5wIM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3579365566%2F47f01ce750f81b239d9033aefa3307d4%2Fvideoplayback__5_.mp4)
+[Attachment](https://storage.googleapis.com/padlet-uploads/3579365566/47f01ce750f81b239d9033aefa3307d4/videoplayback__5_.mp4?Expires=1768190652&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hGnLBZE1M9ElFsiqIj%2BtSddEGbS%2FqTZFuqeLnIqFbrl8eSCg1CmlnIkL1Zr2uMLpZ5%2BCOReukebsc4ldnFjGT8ircDldamUpODgUAcL1%2B6Ex%2FhDePPSysddh8LMxu8nyv0CFP2hMqD4H9ofl2OQT3bWkT4Q50dtdaaoXzxncKtU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3579365566%2F47f01ce750f81b239d9033aefa3307d4%2Fvideoplayback__5_.mp4)
 
 #### Comments (147)
 - **Sleepy Koi** (Jun 03, 2025 10:44pm): k=岡田　岡田は恋愛調査隊（吉谷氏、山本玲氏、ぺんた氏）によると、岡田はかなりA氏を愛しているという方思いな結論です
@@ -3890,7 +3891,7 @@
 
 #### Comments (2)
 - **Anonymous** (Dec 17, 2025 05:39am): 何してんねんばばあ
-- **悪プロ引退しようかな〜　虚神　（ゆうま）** (Dec 28, 2025 09:33am): ｗｗ
+- **KYOSIN「」「」** (Dec 28, 2025 09:33am): ｗｗ
 
 #### Reactions
 - **Upvotes:** 1
@@ -4157,7 +4158,7 @@
 [Attachment](https://padlet.com/ayasann/padlet-zcc1oh0s3b3g1p9s)
 
 #### Comments (17)
-- **🌇 白光の黄昏 ✨️　#活動休止中** (Sep 09, 2025 01:51pm): https://padlet.com/TenshiB/proxy-rank-u7m0ks8x7acr7sk5来て
+- **✨️ 白光の黄昏 🍓** (Sep 09, 2025 01:51pm): https://padlet.com/TenshiB/proxy-rank-u7m0ks8x7acr7sk5来て
 - **削除済みユーザー** (Oct 12, 2025 11:17am): 誰か来てhttps://padlet.com/adolescentanalysis101/padlet-xg3xjyiy0bk5ew9i
 - **ぐるぐるまっきー** (Oct 08, 2025 07:34am): 荒らしていいよhttps://bbs1.sekkaku.net/bbs/Spherenet/
 - **ぶったん麺™** (Oct 05, 2025 10:10am): 宣伝しに来ました
@@ -4252,7 +4253,7 @@
 ---
 
 ### 8. 来てにゃ
-**Author:** ミライドン　ゆっくりk弟子1番目　元naritati (5977065hfa)
+**Author:** NARITATI　あけおめ (66745647pokemon)
 
 [Attachment](https://padlet.com/padlets/g985gladr9idst24)
 
@@ -4890,7 +4891,7 @@
 ### 1. 約40000
 **Author:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/1bbcbb1b15f56af284531d92160b695a/IMG_1029.jpeg?Expires=1768120335&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tOGQtrJMcCDzKauzBEiysZeIzfxvgxqwpO2QdZh%2Fs2SPtigL4%2BVHG2JLLotZ2ngtFxiOTF%2FOcOMWcqi%2Fbc%2FkBHSF%2F86c2bhy9pWFq9YcWKZXp%2B8I355b3LUlta890myn9tvZ5ettENbGqHxdOO2kyjgo9SUQJELelNCEqkJ0jDU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F1bbcbb1b15f56af284531d92160b695a%2FIMG_1029.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/1bbcbb1b15f56af284531d92160b695a/IMG_1029.jpeg?Expires=1768190655&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fQBOMcrK4MKkW%2BxmM1oPYBF4w27lpSX0%2FFpA%2BVWf6o88vLGeoCMGVp0sBW66qgPf6cov7nWfKYLkl%2BVyOk6Y9ZkHkdbFsWeDCByXlynus4bOpCzbDzKq0ZXqkP%2BM%2B7s6F%2BH4siWusiewpEem9y8SG%2FH8H1Lm%2FYNoPd0kj%2BouQjM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F1bbcbb1b15f56af284531d92160b695a%2FIMG_1029.jpeg)
 
 #### Comments (1)
 - **L** (Nov 30, 2025 11:54am): 「ｋ→ｓ💕」へ　雪論
@@ -4907,10 +4908,10 @@
 
 <p>かってに作って良かったかな？</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/b0aa46b1db5b56d7f3d97fe52192f4ce/IMG_1006.jpeg?Expires=1768120335&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SPJM3fePrHYF3jHjr76VKJ0YmRuTY%2FRGcbiSMFscyqlvYv9qgBGtdmnmcs%2BUS6RiwYx4g2cbNnEHBITilKpP3RAnExWRfPH4i7T%2BBHcm2g7Qd3VNsyHLb5E82Ns%2BNm%2B8jTjOrbWqxFGADMV54RrA%2BXEnBXjI9QM6pEi%2FPywuq5o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2Fb0aa46b1db5b56d7f3d97fe52192f4ce%2FIMG_1006.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/b0aa46b1db5b56d7f3d97fe52192f4ce/IMG_1006.jpeg?Expires=1768190655&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YjOwoVn0ojgJkJoFiDRfvML7sPBSRHAYrWVqNT6ILGygs2AIDHa2Bw0AqVYpo9nPKvv5gbt3%2F9rtHYtll4N7%2Big%2BXYekUR9ATfvfaZCrsCuoZU0Ap6DLT1J99VEJaGzbx%2Fyev4E10XyenZctEXNrNGPlUzEyV6hKd4SLRQc1rC4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2Fb0aa46b1db5b56d7f3d97fe52192f4ce%2FIMG_1006.jpeg)
 
 #### Comments (8)
-- **WestExpress 銀河** (Oct 15, 2025 01:04pm): なにが？
+- **WestExpress 銀河 京都行** (Oct 15, 2025 01:04pm): なにが？
 - **ｸﾎﾞ ｲｯﾀ** (Oct 16, 2025 03:09am): たまにバグる
 - **猫耳** (Dec 25, 2025 01:35am): ゲームもしたい
 - **猫耳** (Dec 25, 2025 01:35am): YouTubeみたい
