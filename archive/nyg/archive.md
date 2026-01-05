@@ -5,9 +5,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 105
+- **Posts:** 126
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Jan 05, 2026 07:18am
+- **Updated At (UTC):** Jan 05, 2026 11:37am
 
 ## セクション一覧
 
@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768216840&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uMFsLSQRfyzB8Ge%2BJYUfFmLVr6Mt5Ol5KhsdL5X9SLvWtWTusQRlN91c1twbm52pcwVM6ea%2B83X%2FNpyJHlc81hZLdggg1JepCVGAvMIQ73DJWvLpMlO2I7a0%2BD7lfvu7%2F95HKmCor4N9AYm0TB8dezwl56QKIi9P8Dhsvff6sFQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768222207&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QH66L8rvqy%2BmrpxOudnc6EnYLWqVA529IlbCdesJVWHP%2Ba02mBFspORewd8Vv6QXxwpi%2FDj4wsz46rYzCvjHbDASv428ECQlylodNAs09O9Fe8s0yusFWQ%2BoJRdDMPj0nxE3dnQwBZEXsDaYYGZnnbAPHLPTKwniQv0eMvXe%2FtI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1987,9 +1987,9 @@
 
 ---
 
-## サイト
+## リンクのアーカイブ
 
-### 1. サイトはまだ存在するが、古いが故にブロックされている確率が高いであろうものをこっちに移動させます。
+### 1. リンクはまだ存在するが、古いが故にブロックされている確率が高いであろうものをこっちに移動させます。
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 #### Reactions
@@ -1999,11 +1999,434 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Dec 06, 2025 06:46am
-- **Updated At (UTC):** Dec 06, 2025 06:46am
+- **Updated At (UTC):** Jan 05, 2026 11:27am
 
 ---
 
-### 2. ランマーヘッド
+## ゲーム
+
+### 1. 立花孝志RPG
+**Author:** Charismatic Shrimp
+
+<p>サイコーにおもろい！</p>
+
+[Attachment](https://binjooni.sakura.ne.jp/game/game0003/index.html)
+
+#### Comments (3)
+- **ᏁγᎶ » Tøka_Kuŋ_** (Aug 03, 2025 02:35pm): w
+- **Observant Albatross** (Jul 29, 2025 03:23am): メチャおもろい！
+- **コロッケ** (Sep 10, 2025 07:40am): ブロ
+
+#### Reactions
+- **Average star rating:** 4.3333333333333333
+- **Number of ratings:** 6
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 22, 2025 09:05am
+- **Updated At (UTC):** Jan 05, 2026 11:38am
+
+---
+
+### 2. Post 2
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+[Attachment](https://ubyis.top/)
+
+#### Comments (2)
+- **Wise Spider** (Aug 09, 2025 03:27am): ブロックされました
+- **コロッケ** (Sep 10, 2025 07:40am): ブロ
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 1
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 13, 2025 08:11am
+- **Updated At (UTC):** Jan 05, 2026 11:38am
+
+---
+
+### 3. 多分規制されてないUnblocked系のゲームかき集めてきた
+**Author:** 眞田悠希 (j250509g)
+
+<ol><li><p><a rel="noopener noreferrer nofollow" href="https://unblocked-games.s3.amazonaws.com/index.html">https://unblocked-games.s3.amazonaws.com/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/unblockedwtf/">https://sites.google.com/site/unblockedwtf/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/drive-u-7-home/home">https://sites.google.com/view/drive-u-7-home/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/funblockedgames88/">https://sites.google.com/site/funblockedgames88/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/classroom6x/">https://sites.google.com/view/classroom6x/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/thegamecompilation/home">https://sites.google.com/site/thegamecompilation/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/unblockedgames24h/">https://sites.google.com/site/unblockedgames24h/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/funblockedgames66/">https://sites.google.com/site/funblockedgames66/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/bestfununblockedgames/">https://sites.google.com/site/bestfununblockedgames/</a> </p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/unblocked-games100/">https://sites.google.com/view/unblocked-games100/</a></p></li></ol>
+
+#### Comments (6)
+- **コロッケ** (Sep 10, 2025 07:41am): 全ブロ🥺
+- **いもに** (Jul 05, 2025 03:01pm): 全ブロ
+- **眞田悠希** (Jul 09, 2025 10:33am): すみません
+- **Mysterious Beetle** (Jul 07, 2025 05:38am): よっしゃーーーーーーー
+- **Mysterious Beetle** (Jul 07, 2025 05:39am): ぜんぶろおおおおおおお
+- **伝説の男　目高功塁** (Jul 07, 2025 12:51am): ↑と同じ
+
+#### Reactions
+- **Average star rating:** 3.0
+- **Number of ratings:** 2
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 05, 2025 01:07pm
+- **Updated At (UTC):** Jan 05, 2026 11:37am
+
+---
+
+### 4. Post 4
+**Author:** Playful Ferret
+
+[Attachment](https://typingerz.com/colosseum)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 05, 2025 05:38am
+- **Updated At (UTC):** Jan 05, 2026 11:37am
+
+---
+
+### 5. Post 5
+**Author:** ob
+
+[Attachment](https://ryanjetplane1.codeberg.page/Openbeta/)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 05, 2025 03:22am
+- **Updated At (UTC):** Jan 05, 2026 11:37am
+
+---
+
+### 6. 数字を食べてでかくなるゲーム
+**Author:** 伝説の男　目高功塁 (s181191_5)
+
+[Attachment](https://www.dailytoolz.com/cubes-2048/iframe.html)
+
+#### Comments (2)
+- **伝説の男　目高功塁** (Jun 25, 2025 11:28am): 押したら絶対できると思うから、できたかできてないかコメントしてください
+- **匿名希望ニキ** (Jun 26, 2025 12:28am): ナイス
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 2
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 23, 2025 02:27am
+- **Updated At (UTC):** Jan 05, 2026 11:32am
+
+---
+
+### 7. 一本の線を描いて男を助けるゲーム
+**Author:** 伝説の男　目高功塁 (s181191_5)
+
+[Attachment](https://games.greatergood.com/games/one-line)
+
+#### Comments (13)
+- **Anonymous Magpie** (Sep 06, 2025 12:23pm): むずい
+- **ブロック反対** (Oct 02, 2025 04:36am): Playabulfactoryと出ました 
+- **現ゼナ2分半の男** (Jun 22, 2025 10:47am): ブロック
+- **伝説の男　目高功塁** (Jun 21, 2025 07:55am): 絶対にブロックされないと思うよ！下に青い文字で「See more Games」って書いてあるからそこを押したら、他のたくさんのゲームができるよ！ぶろくされてたらメンゴ！
+- **ゾン** (Jun 22, 2025 12:42pm): おめでとう
+- **削除済みユーザー** (Jun 25, 2025 02:09pm): アイフィルターいけたよ
+- **伝説の男　目高功塁** (Oct 03, 2025 12:42am): これはもう完全にブロックされました。
+- **学校のパソコンでよく遊ぶ受験生** (Jun 22, 2025 07:00am): できない(´；ω；｀)
+- **伝説の男　目高功塁** (Jun 25, 2025 11:27am): なぜだ
+- **伝説の男　目高功塁** (Jun 23, 2025 02:13am): アイフィルターなら出来るかもかも
+- **秋葉** (Jun 24, 2025 05:52am): できん
+- **伝説の男　目高功塁** (Jun 26, 2025 01:03am): 沖縄？行きたいな〜。おめでとう！
+- **コロッケ** (Sep 10, 2025 07:44am): ブロ
+
+#### Reactions
+- **Average star rating:** 2.0
+- **Number of ratings:** 1
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 21, 2025 07:50am
+- **Updated At (UTC):** Jan 05, 2026 11:32am
+
+---
+
+### 8. パソコンで弾けるピアノサイト
+**Author:** ホワドラガール
+
+<p>たまに人が引いてる時があります</p>
+
+[Attachment](https://epiano.jp/sp/#main)
+
+#### Comments (1)
+- **Unique Lion** (Jun 17, 2025 11:40am): このサイトで夜に駆ける弾いてる人いてがちですごかった
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 2
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 15, 2025 10:34pm
+- **Updated At (UTC):** Jan 05, 2026 11:32am
+
+---
+
+### 9. 5つのゲームで遊べるサイト
+**Author:** ホワドラガール
+
+[Attachment](https://tcweb.aichi-u.ac.jp/cc/cchokuto/game.html)
+
+#### Comments (2)
+- **伝説の男　目高功塁** (Jun 17, 2025 05:33am): ブロック崩しは意味わからんし、豊橋夜ご飯スロットはなんかブロックされる。だけど、オセロはガチでおもろい
+- **Whimsical Earthworm** (Jun 17, 2025 12:53pm): htmlの埋め込みコード使ってるだろ
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 2
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 15, 2025 10:32pm
+- **Updated At (UTC):** Jan 05, 2026 11:32am
+
+---
+
+### 10. 1万4000枚のところに紙を挟む謎のゲーム
+**Author:** ホワドラガール
+
+[Attachment](https://nishio.co.jp/games/aisispaaan2/)
+
+#### Comments (8)
+- **匿名** (Jul 27, 2025 01:30am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/do3MQJkobxz1Z15w) やったぜ
+- **ツバラ** (Oct 01, 2025 01:03am): すご！
+- **電車好き** (Jun 21, 2025 01:50am): いけた
+- **アイス** (Jun 22, 2025 09:26am): 14000枚目いけたwww
+- **Quirky Cricket** (Dec 16, 2025 08:24am): １４０００いった
+- **伝説の男　目高功塁** (Jun 23, 2025 02:28am): 俺もでけた
+- **伝説の男　目高功塁** (Jun 21, 2025 07:56am): 面白い
+- **計画通り** (Sep 07, 2025 05:49am): 14002
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 2
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 15, 2025 10:20pm
+- **Updated At (UTC):** Jan 05, 2026 11:32am
+
+---
+
+### 11. 白にするパズルゲーム
+**Author:** ホワドラガール
+
+[Attachment](https://www.daiichi-g.co.jp/osusume/forfun/05_white/05.html)
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 1
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 15, 2025 10:15pm
+- **Updated At (UTC):** Jan 05, 2026 11:31am
+
+---
+
+### 12. スライムをジャンプさせて上にどんどん進むゲーム
+**Author:** 15歳
+
+[Attachment](https://sp.ten-sura.com/jump/game/index.html)
+
+#### Comments (1)
+- **なめ** (Oct 07, 2025 11:49am): 規制 
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 13, 2025 11:18am
+- **Updated At (UTC):** Jan 05, 2026 11:32am
+
+---
+
+### 13. 敵を倒し肉を集めて味方を増やすゲーム
+**Author:** 15歳
+
+[Attachment](https://www.topheroes.com/en/landing.html?page_id=26&media=Google&campaign_id=22290980105&adgroup_id=6558112384&creative_id=&inventory=x&sub_inventory=&callback=Cj0KCQjwiLLABhCEARIsAJYS6unc6T5XhHBihX6ybDCuL2lz0nbvtLHpWtPDu5Wp2aEi0BeuwTa3pcEaAkbPEALw_wcB&device_type=c&device_model=&ad_sub1=&ad_sub2=&gad_source=2&gclid=Cj0KCQjwiLLABhCEARIsAJYS6unc6T5XhHBihX6ybDCuL2lz0nbvtLHpWtPDu5Wp2aEi0BeuwTa3pcEaAkbPEALw_wcB)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 13, 2025 11:15am
+- **Updated At (UTC):** Jan 05, 2026 11:31am
+
+---
+
+### 14. Post 14
+**Author:** 匿名 (a5r1t8t)
+
+[Attachment](https://www.supremacy1914.com/play.php?L=19&bust=1&uid=94540127)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 13, 2025 10:57am
+- **Updated At (UTC):** Jan 05, 2026 11:31am
+
+---
+
+### 15. これ最強やで
+**Author:** 匿名
+
+[Attachment](https://m2.9bob.net)
+
+#### Comments (1)
+- **なめ** (Oct 07, 2025 11:49am): 規制
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 10, 2025 12:49pm
+- **Updated At (UTC):** Jan 05, 2026 11:31am
+
+---
+
+### 16. Post 16
+**Author:** Enthusiastic Oyster
+
+[Attachment](https://pgsisthebest.bitbucket.io/index.html)
+
+#### Comments (9)
+- **野獣先輩** (May 29, 2025 12:22am): bokumo
+- **Honest Beluga** (Jun 21, 2025 12:45am): ないす～～～～～～～～～～～
+- **電車好き** (Jun 21, 2025 01:52am): ブリでした（無理でした）
+- **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (May 28, 2025 10:50pm): Iketa
+- **Wholesome Bat** (May 29, 2025 01:16am): iketa
+- **Thoughtful Owl** (May 29, 2025 11:56pm): ？
+- **どー“ぶーじょー”じょー** (May 30, 2025 11:12pm): ぶり
+- **伝説の男　目高功塁** (Jun 22, 2025 02:41am): 最高
+- **なめ** (Oct 07, 2025 11:50am): ぶりでした
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 28, 2025 12:42pm
+- **Updated At (UTC):** Jan 05, 2026 11:30am
+
+---
+
+### 17. Post 17
+**Author:** ᴎeoᴎӝ ❤️‍🔥✘_ ✘ (P1urqm)
+
+[Attachment](https://wondermerge.gcdn.co/publish/html5/)
+
+#### Comments (8)
+- **眞田悠希** (Jul 05, 2025 01:13pm): 序盤おもろいけどデータ保存できないかrやり直し天国
+- **Kranakusi  X** (Jun 03, 2025 10:01pm): これ面白い
+- **伝説の男　目高功塁** (Jun 23, 2025 02:30am): 出来るけどなんかすぐバグる
+- **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (May 27, 2025 10:26am): Omoroi
+- **Calm Magpie** (May 27, 2025 11:16am): dekitakedoragui
+- **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (May 27, 2025 11:35am): Orenobaaikarui
+- **ᴎeoᴎӝ ❤️‍🔥✘_ ✘** (May 28, 2025 01:58am): yatta-
+- **ᴎeoᴎӝ ❤️‍🔥✘_ ✘** (Jun 24, 2025 03:17am): どういうふうにバグる
+
+#### Reactions
+- **Average star rating:** 4.0
+- **Number of ratings:** 1
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 27, 2025 02:52am
+- **Updated At (UTC):** Jan 05, 2026 11:30am
+
+---
+
+### 18. Post 18
+**Author:** Sleepy Zebra
+
+<p>このサイトいいよ！</p>
+
+[Attachment](https://sites.google.com/site/unblockedgames77/)
+
+#### Comments (5)
+- **伝説の男　目高功塁** (Jun 23, 2025 02:30am): できん
+- **はちみつ** (May 28, 2025 10:30am): できた‐
+- **どんまいです** (May 26, 2025 09:58am): できん
+- **なめ** (Oct 07, 2025 11:51am): 規制 
+- **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (May 27, 2025 11:35am): Dekin
+
+#### Reactions
+- **Average star rating:** 1.0
+- **Number of ratings:** 2
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 25, 2025 07:21am
+- **Updated At (UTC):** Jan 05, 2026 11:31am
+
+---
+
+### 19. Post 19
+**Author:** 62億光年の孤独
+
+<p>ゲームできる</p>
+
+[Attachment](https://unblocked-games.s3.amazonaws.com/index.html)
+
+#### Comments (4)
+- **Defiant Beetle** (May 26, 2025 03:55am): dekinaiii
+- **62億光年の孤独** (May 27, 2025 05:50am): majika
+- **伝説の男　目高功塁** (Jun 23, 2025 02:30am): できないんかい
+- **なめ** (Oct 07, 2025 11:51am): 規制
+
+#### Reactions
+- **Average star rating:** 3.0
+- **Number of ratings:** 2
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 25, 2025 04:17am
+- **Updated At (UTC):** Jan 05, 2026 11:30am
+
+---
+
+### 20. Poki
+**Author:** べるり(名前戻した) (BERURI1214)
+
+[Attachment](https://poki.ac/)
+
+#### Comments (2)
+- **ポチャッコ推し💚(｡>﹏<｡)** (Jul 13, 2025 06:31am): できへん
+- **ブロックなくせ** (Nov 14, 2025 02:08am): 無理
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 11, 2025 05:42am
+- **Updated At (UTC):** Jan 05, 2026 11:31am
+
+---
+
+### 21. Rider.io
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+[Attachment](https://html5.gamedistribution.com/571357d055374f078e471057d4fcdbea/)
+
+#### Comments (8)
+- **しより** (Jul 20, 2025 02:33am): ありがとう。ありがと。
+- **いより** (Jul 20, 2025 02:35am): しよりものかきおくるねhttps://catincat.jp/javascript/thing/index.html
+- **スバル自動車** (Oct 06, 2025 09:25am): https://catincat.jp/javascript/pigment.html
+- **いりな** (Aug 11, 2025 02:19pm): https://catincat.jp/javascript/pigment.html
+- **いりな** (Jul 21, 2025 03:29am): いろみず
+- **いより** (Jul 20, 2025 02:32am): しよりゲームサイトどうぞhttps://ryanjetplane1.codeberg.page/Openbeta/
+- **いより** (Jul 20, 2025 02:37am): https://catincat.jp/javascript/shiritori.html
+- **Optimistic Flamingo** (Dec 17, 2025 08:31am): https://sites.google.com/site/unblockedwtf/これできる 
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 2
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 01, 2025 06:58am
+- **Updated At (UTC):** Jan 05, 2026 11:30am
+
+---
+
+## プロキシ
+
+### 1. ランマーヘッド
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>➥ 大量配布所にて大量配布が可能です。リクエストは</strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26lMaNBDvojL-oAdpz24dgkRJv10R"><strong><mark>こちら</mark></strong></a><strong>。下の投稿も見てね。</strong></p><p><br></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://browser.rammerhead.org/">https://browser.rammerhead.org/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://eeeeeee.work.gd/">https://eeeeeee.work.gd/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://historyaboutthe.us.to/">https://historyaboutthe.us.to/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://icespicelovers.run.place/">https://icespicelovers.run.place/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://duckduckgo.com.guillaumevanstrydonck.be/">https://duckduckgo.com.guillaumevanstrydonck.be/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://rannmaa.easterndns.com/">https://rannmaa.easterndns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://matata.lan64.de/">https://matata.lan64.de/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://marjooj.home.kg/">https://marjooj.home.kg/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://kareka.ddo.jp/">https://kareka.ddo.jp/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://superidoltheje.ftp.sh/">https://superidoltheje.ftp.sh/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://ramfacts.unitgrapigs.com/">https://ramfacts.unitgrapigs.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://schooltechreadong.mywire.org">https://schooltechreadong.mywire.org</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://dualpower.duia.eu/">https://dualpower.duia.eu/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://3.rammershark.ipv64.net/">https://3.rammershark.ipv64.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://mkmds.opsto.ipv64.de/">https://mkmds.opsto.ipv64.de/</a></p></li></ul>
@@ -2015,11 +2438,13 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Sep 02, 2025 01:26pm
-- **Updated At (UTC):** Dec 06, 2025 06:52am
+- **Updated At (UTC):** Jan 05, 2026 11:25am
 
 ---
 
-### 3. Shadow
+## プロキシ&ゲーム
+
+### 1. Shadow
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>➥ 大量配布所にて大量配布が可能です。リクエストは</strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26lMaNBDvojL-oAdpz24dgkRJv10R"><strong><mark>こちら</mark></strong></a><strong>。下の投稿も見てね。</strong></p><p><br></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://gooogle-setmodel.laviewddns.com/">https://gooogle-setmodel.laviewddns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gooogle-custom.laviewddns.com/">https://gooogle-custom.laviewddns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gooogle-resetmode.laviewddns.com/">https://gooogle-resetmode.laviewddns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gooogle-reserved.laviewddns.com/">https://gooogle-reserved.laviewddns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gooogle-yahoo.laviewddns.com/">https://gooogle-yahoo.laviewddns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://shadowshark.ipv64.net/">https://shadowshark.ipv64.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yuzutyan-2.ipv64.net/">https://yuzutyan-2.ipv64.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://matcha-a1.any64.de/">https://matcha-a1.any64.de/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://karaseee.f5.si/">https://karaseee.f5.si/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://shawa.f5.si/">https://shawa.f5.si/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://shadow-haihu-bynyanko.easterndns.com/">https://shadow-haihu-bynyanko.easterndns.com/</a></p></li></ul>
@@ -2035,7 +2460,7 @@
 
 ---
 
-### 4. Utopia
+### 2. Utopia
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>➥ 大量配布所にて大量配布が可能です。リクエストは</strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26lMaNBDvojL-oAdpz24dgkRJv10R"><strong><mark>こちら</mark></strong></a><strong>。下の投稿も見てね。</strong></p><p><br></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://think.sage.infovizija.com/">https://think.sage.infovizija.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://basic.login.pimentas.org/">https://basic.login.pimentas.org/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://know.read.randydorian.com/">https://know.read.randydorian.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://history.think.marinagore.com/">https://history.think.marinagore.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://data.solve.prxch.com/">https://data.solve.prxch.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://topic.know.ticpu.net/">https://topic.know.ticpu.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://notes.sci.kkleung.net/">https://notes.sci.kkleung.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://music.minds.alletrades.com/">https://music.minds.alletrades.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://write.arts.leadseminars.com/">https://write.arts.leadseminars.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://church.paper.singasoft.com/">https://church.paper.singasoft.com/</a></p></li></ul>
@@ -2051,7 +2476,7 @@
 
 ---
 
-### 5. Interstellar
+### 3. Interstellar
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>➥ 大量配布所にて大量配布が可能です。リクエストは</strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26lMaNBDvojL-oAdpz24dgkRJv10R"><strong><mark>こちら</mark></strong></a><strong>。下の投稿も見てね。</strong></p><p><br></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://toike.easterndns.com/">https://toike.easterndns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://church.macgregoremc.com/">https://church.macgregoremc.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://dipakarmani.blinklab.com/">https://dipakarmani.blinklab.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://reshamvip.blinklab.com/">https://reshamvip.blinklab.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://alumulakakro.unibutton.com/">https://alumulakakro.unibutton.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://arraypush.unibutton.com/">https://arraypush.unibutton.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://hamburgerxtreme.unibutton.com/">https://hamburgerxtreme.unibutton.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cloudbarfbagisback.saugatnepal.com.np/">https://cloudbarfbagisback.saugatnepal.com.np/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu.bizis.si/">https://edu.bizis.si/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://bak2skewl.konpan.ch/">https://bak2skewl.konpan.ch/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://my-learning-hall.jemix.sg/">https://my-learning-hall.jemix.sg/</a></p></li></ul>
@@ -2066,6 +2491,10 @@
 - **Updated At (UTC):** Dec 06, 2025 06:52am
 
 ---
+
+## YouTube
+
+No post
 
 ## 最新のイベントはこちら！
 
