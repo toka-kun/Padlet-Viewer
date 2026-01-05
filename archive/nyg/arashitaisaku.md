@@ -7,14 +7,14 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 6
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Dec 31, 2025 08:13am
+- **Updated At (UTC):** Jan 05, 2026 06:02am
 
 ## リンク集
 
 ### 1. リンク集
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<p><strong>➥ このリンクを拡散してね</strong></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/ArashiTaisaku">https://padlet.com/Toka_Kun_/ArashiTaisaku</a></p><p><br/></p><p><strong>➥ 姉妹部屋にも来てね</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/Unblocked">プロキシのリンクやYouTubeの閲覧方法を共有する会</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/SSJC">Shell Shockers 集会所</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/PortalWorld">Padletポータルワールド</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Nanachiki/recommendation_games">おすすめゲーム紹介、ゲームの募集所</a></p></li></ul>
+<p><strong>➥ このリンクを拡散してね</strong></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/ArashiTaisaku">https://padlet.com/Toka_Kun_/ArashiTaisaku</a></p><p><br/></p><p><strong>➥ 姉妹部屋にも来てね</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/Unblocked">プロキシのリンクやYouTubeの閲覧方法を共有する会</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/SSJC">Shell Shockers 集会所</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/PortalWorld">Padletポータルワールド</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Nanachiki/recommendation_games">おすすめゲーム紹介、ゲームの募集所</a></p></li></ul><p><br/></p><p><strong>➥ 他の荒らし対策部屋</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/kcorugaM/magurock-7ue3f76h99omvmbl">Magurockの資料と会議室</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/ESTAcancel/SAVTF">S.A.V.T.F</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/ikiyagare/padlet-ie776w9g4je8nc8a">生きやがれの荒らし記録</a></p></li></ul>
 
 #### Comments (2)
 - **さくとなんだ今も無差別荒らし** (Sep 12, 2025 10:11pm): 俺ああああああああああ
@@ -22,12 +22,12 @@
 
 #### Reactions
 - **Upvotes:** 5
-- **Downvotes:** 2
+- **Downvotes:** 3
 
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** May 31, 2025 12:06pm
-- **Updated At (UTC):** Oct 11, 2025 02:37pm
+- **Updated At (UTC):** Jan 05, 2026 06:02am
 
 ---
 
@@ -65,7 +65,7 @@
 
 #### Reactions
 - **Upvotes:** 5
-- **Downvotes:** 2
+- **Downvotes:** 3
 
 #### Additional Information
 - **Post color:** Red
@@ -96,7 +96,7 @@
 
 #### Reactions
 - **Upvotes:** 4
-- **Downvotes:** 2
+- **Downvotes:** 3
 
 #### Additional Information
 - **Post color:** Red
@@ -110,6 +110,10 @@
 ### 1. レイ
 **Author:** レイ　#ていふじょ (rei_ryu)
 
+#### Reactions
+- **Upvotes:** 0
+- **Downvotes:** 1
+
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Nov 24, 2025 03:48am
@@ -120,6 +124,10 @@
 ### 2. たたたんこ
 **Author:** たたたんこ (Tatatanko)
 
+#### Reactions
+- **Upvotes:** 0
+- **Downvotes:** 1
+
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Nov 22, 2025 08:18am
@@ -129,6 +137,10 @@
 
 ### 3. キット
 **Author:** エドガー (edoga125)
+
+#### Reactions
+- **Upvotes:** 0
+- **Downvotes:** 1
 
 #### Additional Information
 - **Post color:** White
