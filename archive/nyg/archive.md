@@ -5,9 +5,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 103
+- **Posts:** 105
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Jan 04, 2026 11:27am
+- **Updated At (UTC):** Jan 05, 2026 07:18am
 
 ## セクション一覧
 
@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768200041&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EPaTwENj%2BiTX3UtYlgKXo53UqbuOY%2FZXy0o8nHfMBGThr9J9FWAA9DwuDS84kRcH%2BoQQxdH3Tm5%2FBXOxuMlKm0w8GuDIYxPfn4kK4ACOtw487WBWLqaU%2F%2FSXi%2FgI22LZwIypaseEL1oU%2FWuKYOwpu7bPGik37tFqYTatRstCEnQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768202989&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KyyhQXxmTbm%2BdIflWDmFGsKhiuzA0mNqMfYN3oueqHuRXuOVBfL%2B6cfC%2BPxIPTYx5IUAu0%2FaBsOv630pX5zWcDQS9C1sqoev9jtrfdss2QPej0WDs8p03L3nC8vC8T0U7d8AKaPWnLyZ4O1WtQGBsvLNUsxtyCQkflF%2BN111NZA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -476,7 +476,38 @@
 
 ---
 
-### 2. おすすめのユーチューバー教えて！！
+### 2. 入試まであと13日だがネットサーフィン
+**Author:** Massa_games216 (Massa_games216)
+
+<p>狂気</p>
+
+#### Comments (5)
+- **sanae1212** (Dec 27, 2025 09:04pm): www
+- **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃超低浮上？　＃あけおめ〜🎍** (Dec 30, 2025 09:43pm): 1/10？
+- **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃超低浮上？　＃あけおめ〜🎍** (Dec 30, 2025 09:43pm): ｗｗｗｗｗｗ
+- **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃超低浮上？　＃あけおめ〜🎍** (Dec 30, 2025 09:43pm): 埼玉かな？
+- **Natsu** (Jan 02, 2026 12:31pm): 特定すな
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 27, 2025 02:12pm
+- **Updated At (UTC):** Jan 05, 2026 07:11am
+
+---
+
+### 3. Toka_Kun_さんいますか?
+**Author:** Magurock  (偽物や偽投稿など注意) (Magurock)
+
+<p>イベント公開したのでこの部屋に貼って欲しいです</p>
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 25, 2025 10:58am
+- **Updated At (UTC):** Jan 05, 2026 07:05am
+
+---
+
+### 4. おすすめのユーチューバー教えて！！
 **Author:** 菜奈 (aaa0302sutegonotuna)
 
 #### Comments (9)
@@ -497,7 +528,7 @@
 
 ---
 
-### 3. ニコ動はなぜそんなにセキュ硬い
+### 5. ニコ動はなぜそんなにセキュ硬い
 **Author:** Massa_games216 (Massa_games216)
 
 <p>API探してもパチモンか壊れてるやつしかねえんだが</p><p>マジで何で？</p>
@@ -515,7 +546,7 @@
 
 ---
 
-### 4. about-youtubeのやつ更新されてるよw
+### 6. about-youtubeのやつ更新されてるよw
 **Author:** woolisbest (woolisbest)
 
 #### Comments (3)
@@ -530,7 +561,7 @@
 
 ---
 
-### 5. 桃鉄教育版のパスワードを攻略しよう！
+### 7. 桃鉄教育版のパスワードを攻略しよう！
 **Author:** ニッピー（パーリナイ） (nippii)
 
 <p>ダイナミックな作戦をやります。それは8桁の数字をテキトーに入力して行こうというものです。専用のパドレット部屋を作りますので、どうか皆様、ご協力いただけると幸いです！プロキシのリンクやyoutubeの閲覧方法を共有する会の宣伝もやりまくりました。</p>
@@ -552,7 +583,7 @@
 
 ---
 
-### 6. 誰か〜
+### 8. 誰か〜
 **Author:** 削除済みユーザー
 
 <p>Padletで「この人だけ読者にしたい！」みたいな設定ってどうやるの？</p>
@@ -572,7 +603,7 @@
 
 ---
 
-### 7. やばいGemini Proが賢すぎる
+### 9. やばいGemini Proが賢すぎる
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>ChatGPTから乗り換えるわ</p>
@@ -594,7 +625,7 @@
 
 ---
 
-### 8. なんかしあtubeが進化してた！
+### 10. なんかしあtubeが進化してた！
 **Author:** Natsu (masayukii0814)
 
 <p>やったーーーー！</p><p>個人的にはここにダウンロードなしのショートがあったら最高だと思う。</p>
@@ -613,7 +644,7 @@
 
 ---
 
-### 9. Toka_Kun_さんいますか?
+### 11. Toka_Kun_さんいますか?
 **Author:** Magurock  (偽物や偽投稿など注意) (Magurock)
 
 <p>イベントの件で受付部屋に来て欲しいです</p>
@@ -625,7 +656,7 @@
 
 ---
 
-### 10. Toka_kun_さんいますか?
+### 12. Toka_kun_さんいますか?
 **Author:** Magurock  (偽物や偽投稿など注意) (Magurock)
 
 <p>イベント部屋のの受付に貼ってくれた案が実現可能ならお願いたくて</p>
@@ -637,7 +668,7 @@
 
 ---
 
-### 11. Toka_kun_さん
+### 13. Toka_kun_さん
 **Author:** Magurock  (偽物や偽投稿など注意) (Magurock)
 
 <p>↓の部屋に貼った部屋の整備お願いしたいです</p>
@@ -649,7 +680,7 @@
 
 ---
 
-### 12. イベントの件
+### 14. イベントの件
 **Author:** Magurock  (偽物や偽投稿など注意) (Magurock)
 
 <p>ここでお願いします</p>
@@ -663,7 +694,7 @@
 
 ---
 
-### 13. Tøka_Kuŋ_さんいますか?
+### 15. Tøka_Kuŋ_さんいますか?
 **Author:** Magurock  (偽物や偽投稿など注意) (Magurock)
 
 <p>エドガー部屋と共有する会で協力する形でイベントしたくて</p><p>詳細は長くなるので省きますが両方の部屋に宣伝の効果的な物ができるはずです</p>
@@ -681,7 +712,7 @@
 
 ---
 
-### 14. ポータルワールドにあるやつみたいのどうやってやるのか教えてぇ
+### 16. ポータルワールドにあるやつみたいのどうやってやるのか教えてぇ
 **Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃超低浮上？　＃あけおめ〜🎍 (I_like_apple)
 
 <p>開いた瞬間に投稿画面になるやつ</p>
@@ -698,7 +729,7 @@
 
 ---
 
-### 15. マジで関係ないこと話すわ
+### 17. マジで関係ないこと話すわ
 **Author:** 029大好き！(会長910)#ウルトラ第三番弟子 (029daisuki_910)
 
 <p>ボウリングでスコア161という久しぶりに150点以上出したんだけど、自己ベストが216で、今ハウスボールでやっている。これはマイボールに変えても良さそう？(中学3久、中学2自)</p><p>(あと、1週間後にもう消してええよw)</p>
@@ -714,7 +745,7 @@
 
 ---
 
-### 16. Post 16
+### 18. Post 18
 **Author:** 029大好き！(会長910)#ウルトラ第三番弟子 (029daisuki_910)
 
 <p>時間かかるかもしれんけど、わかめなど改造して下旬でも使えるサイト作ろうとおもってましゅー</p>
@@ -735,7 +766,7 @@
 
 ---
 
-### 17. toka_kunさんいます？
+### 19. toka_kunさんいます？
 **Author:** ネオンch (r0305544)
 
 <p>ラグすぎて学校から、3GB超えたから学校から怒られた！</p><p><br></p>
@@ -757,7 +788,7 @@
 
 ---
 
-### 18. toka_kun氏おる？
+### 20. toka_kun氏おる？
 **Author:** ぐるぐるまっきー (guruma_cancelESTA)
 
 <p>質問</p><p>転載元（ここのリンク）を明記して転載するのはおｋ？</p>
@@ -772,7 +803,7 @@
 
 ---
 
-### 19. ᏁγᎶ » Tøka_Kuŋ_さんいますか？
+### 21. ᏁγᎶ » Tøka_Kuŋ_さんいますか？
 **Author:** ✨️🎧️*~白玉もちぃ~*🎧️✨️ (s14200050)
 
 #### Comments (27)
@@ -815,7 +846,7 @@
 
 ---
 
-### 20. フォークできたけどうまくインスタンス展開できない
+### 22. フォークできたけどうまくインスタンス展開できない
 **Author:** Massa_games216 (Massa_games216)
 
 <p>UtopiaとInterstellar量産したいのにうまく使えねえ初心者</p><p>renderが重すぎて発狂</p>
@@ -837,7 +868,7 @@
 
 ---
 
-### 21. Youtube unblockerでyoutubeを超える!?
+### 23. Youtube unblockerでyoutubeを超える!?
 **Author:** woolisbest (woolisbest)
 
 <p>??????????????????????????</p>
@@ -855,7 +886,7 @@
 
 ---
 
-### 22. 重大かも
+### 24. 重大かも
 **Author:** 029大好き！(会長910)#ウルトラ第三番弟子 (029daisuki_910)
 
 <p>どもども</p><p>色々受験勉強であれから作っていなくて久しぶりに戻った029(K会長)っす</p><p>最近できていない分、ここから作ろうとは思ってますー</p><p>ちなみになんかRailwayの作り方がわかんない人が多いらしいので、近日公開として、報告しときます</p><p>2025/12/6日　Railway作り方公開(YouTube&amp;ニコニコ&amp;TikTok)※TikTokに関しては公開という動画を投稿です)</p><p>同日　投票分&amp;新しいデプロイ配布(アニメが欲しいなら、公開しない限り私の部屋で一部の許可得る上で公開します)※拡散❌</p><p>12/7 TikTokライブ配信(ロブロックスorテトリス)</p>
@@ -876,7 +907,7 @@
 
 ---
 
-### 23. crosproxyいる？
+### 25. crosproxyいる？
 **Author:** woolisbest (woolisbest)
 
 <p>開発者向けのプロキシw</p><p>コード内で使うやつ</p>
@@ -900,7 +931,7 @@
 
 ---
 
-### 24. 地震大丈夫か~
+### 26. 地震大丈夫か~
 **Author:** 削除済みユーザー
 
 <p>わしんところ揺れた</p><p>こんなに揺れたのは東日本大震災以来だっておとんが言ってた</p>
@@ -934,7 +965,7 @@
 
 ---
 
-### 25. 悲報　start pegeがkisei☆💢
+### 27. 悲報　start pegeがkisei☆💢
 **Author:** ニッピー（パーリナイ） (nippii)
 
 <p>お・わ・た☆</p>
@@ -952,7 +983,7 @@
 
 ---
 
-### 26. 荒らしくんへ
+### 28. 荒らしくんへ
 **Author:** Massa_games216 (Massa_games216)
 
 <p>おめでとう！君のメアドはしっかり記録しといたよ！</p><p><br></p><p>コイツの本拠地（多分）↓</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/wan511/padlet-8v7kjs8cz6sewr5v">https://padlet.com/wan511/padlet-8v7kjs8cz6sewr5v</a></p>
@@ -972,7 +1003,7 @@
 
 ---
 
-### 27. チャット荒らされてる
+### 29. チャット荒らされてる
 **Author:** woolisbest (woolisbest)
 
 #### Comments (5)
@@ -989,7 +1020,7 @@
 
 ---
 
-### 28. 大歓喜
+### 30. 大歓喜
 **Author:** 削除済みユーザー
 
 <p>俺の市、今まで学タブのログインQRコードでやってたんだけど、来年くらいからパスワード制になるらしい</p>
@@ -1006,7 +1037,7 @@
 
 ---
 
-### 29. 自分のパド部屋を作る
+### 31. 自分のパド部屋を作る
 **Author:** Massa_games216 (Massa_games216)
 
 <p>全然設定がわからなくて発狂</p>
@@ -1022,7 +1053,7 @@
 
 ---
 
-### 30. Toka_Kun  WOOLTUBEのとこ　確認よろしく
+### 32. Toka_Kun  WOOLTUBEのとこ　確認よろしく
 **Author:** woolisbest (woolisbest)
 
 #### Reactions
@@ -1036,7 +1067,7 @@
 
 ---
 
-### 31. おひさ
+### 33. おひさ
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <p>まじで1、2ヶ月ぶりの浮上</p>
@@ -1055,7 +1086,7 @@
 
 ---
 
-### 32. サイト開発したくてもなぁ、
+### 34. サイト開発したくてもなぁ、
 **Author:** ゾン (zon1212134)
 
 #### Comments (6)
@@ -1073,7 +1104,7 @@
 
 ---
 
-### 33. WOOLTUBE部屋　ログインしなくても入れるようにした
+### 35. WOOLTUBE部屋　ログインしなくても入れるようにした
 **Author:** woolisbest (woolisbest)
 
 <p>変わってたから戻した</p>
@@ -1089,7 +1120,7 @@
 
 ---
 
-### 34. プロキシサイトの開発スタート
+### 36. プロキシサイトの開発スタート
 **Author:** woolisbest (woolisbest)
 
 #### Comments (10)
