@@ -19,7 +19,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/59ba29448765e5423cda79bb02b04e83/1.png?Expires=1768256635&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=G4msbuYWsztAVKbq1wQqBZj7u4mo5vLR%2FcoZIAlaaGnTykbUtjeoe4IzdcNXfUD6SqMkgrK14f4snEvqxQFMjfmBanrGlP%2FBOMBwpq0cUT1fONjFjaEa47hiSD8ZyrgakKtb5yHUsHn1Z5HUbV7tJG%2BSxeqWQLTR5DAz1s7Ckrw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F59ba29448765e5423cda79bb02b04e83%2F1.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/59ba29448765e5423cda79bb02b04e83/1.png?Expires=1768260197&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Dg%2Boj8NDFLNDsD%2BHgJifMtzE1aopWH4eKwILUEX0VAp%2FN%2FU%2FYD9DgXf0plQgHQJgJ%2FlDNtLxLRk38qBOiBMHhG0W6lZ76QRhvyZtrVy%2F%2FV14ktLBLbjWeplph3ZKRHA40oi7SfEBhZ1KVLGBckpynfMf2ZXyryIdYoI0g7zKwaw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F59ba29448765e5423cda79bb02b04e83%2F1.png)
 
 #### Additional Information
 - **Post color:** White
@@ -70,7 +70,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/a13cb2bde0641ea839310d7b9f758d08/2.png?Expires=1768256635&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SzBPtTwhAEth3yomdRSyu3lpRqS%2BHGxuxzOYOD0Ojh9mNrjE%2FZxhOhQ1bQilPrdboGK4HrNmT0Qnpm%2B1G5WI51VdF00rko7rUpXc9bSdH%2BVEddSZKzJfHpAjCSTPJV3UgEkzQsVNy8J1ObDVopphmowWRYKbm7qXk5ARkqp34lk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2Fa13cb2bde0641ea839310d7b9f758d08%2F2.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/a13cb2bde0641ea839310d7b9f758d08/2.png?Expires=1768260197&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IWIvMp64H465Nh943XOGuUxsxC%2Be3OHu6bddudx%2BJS6arPyEhvgtUSeXbyf1Xm%2BtdkGm29JS7KtgZNbL356RiEUoWJkhMt9kh0uUp1X8yO9ZR6ai4TOv6%2BROpdVcAYnCFzFcNVDUxLtN2uYGCAO6fi3K0Mz7g2XuMZrkwc4pdwE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2Fa13cb2bde0641ea839310d7b9f758d08%2F2.png)
 
 #### Additional Information
 - **Post color:** White
@@ -539,7 +539,7 @@
 #### Comments (3)
 - **0b1001** (Nov 21, 2025 09:45am): ok
 - **垢移行したいっつぽー** (Dec 10, 2025 11:38am): おう…
-- **ちー** (Dec 10, 2025 11:26am): n
+- **taishi:/** (Dec 10, 2025 11:26am): n
 
 #### Reactions
 - **Number of likes:** 1
@@ -1639,7 +1639,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/4af4356f92c17cae531ba5eb1b214e87/Screenshot_2025_10_20_2_05_51_PM.png?Expires=1768256636&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SIUMECmHxpt16RvzFuWo0C%2BLICLLN0uvGh%2Fw1%2Bnex4TeAW1gzoDOhyHv8l9BzmL5%2F36IEZBPXHTDsjcaGoeX1tBkrbcIMofbfAxmxL1%2F4cRv%2BhUBPLCtRZLIUPzut3e43HcdR7KyvWD56fKF2jKVRC1oUS5WPgF2hYGItdCitcY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F4af4356f92c17cae531ba5eb1b214e87%2FScreenshot_2025_10_20_2_05_51_PM.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/4af4356f92c17cae531ba5eb1b214e87/Screenshot_2025_10_20_2_05_51_PM.png?Expires=1768260198&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UxIYQatT9qQazA4YW83faotIgmNeKQm4kYeqcNAuFyz9GYKFMe5Asrp%2BJZYbuqb22Pcek7z%2Bu9HvsyxS9sSJXq7PCwYRMBtx3XX%2BDyAU8%2Buwb11MYT04hHaz48xTECoy0PUNjnoH43V8lUnC4%2Bgv75yk8xttaLKjoQah0YppiPI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F4af4356f92c17cae531ba5eb1b214e87%2FScreenshot_2025_10_20_2_05_51_PM.png)
 
 #### Additional Information
 - **Post color:** White
@@ -1832,7 +1832,7 @@
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
 #### Comments (1)
-- **ちー** (Oct 18, 2025 01:43am): -
+- **taishi:/** (Oct 18, 2025 01:43am): -
 
 #### Additional Information
 - **Post color:** White
@@ -1961,7 +1961,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/a03a8c15749cc6bfe4a8bd77d040a5e2/image.png?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6ENpQWG%2BEy2KTx72lw5Y3KZEXwTqOvFdY0fgkVU9nGPvT724uI8%2FPUIzm1voexygNU%2BpwftS1St3rIShyGxum3aq6uuSeVWikJyd%2FMsYQQIJqqOumJMZu54%2FmWm211cDAICsfr9FN%2BzoD3cSMXdT0knYHKGI8A6iMfmcZaRrs4o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fa03a8c15749cc6bfe4a8bd77d040a5e2%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/a03a8c15749cc6bfe4a8bd77d040a5e2/image.png?Expires=1768260199&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AgA930V95j7Tpvpu9MEflbtkg4IJlVy0YYLMZWR%2BWmAt3FXeA%2F43WpO0Vt4xkJGDMjKn%2BgYsQ4ak4Dy%2ByK4xyX7W5j4UYCi%2Bfu%2FMd%2FSIGq1dzdHgRP4FtVXhRUKGtAT2RC9sML%2BnYPWJ2Pim7rK5HMZr0W%2BgkhBuYavsw1uXCjc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fa03a8c15749cc6bfe4a8bd77d040a5e2%2Fimage.png)
 
 #### Comments (3)
 - **0b1001** (Dec 05, 2025 01:14pm): おひさ
@@ -2000,7 +2000,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/6ea3b8094b1e1afa7cb2a2986382e57c/image.png?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Fwz7YPHzojvGEf%2FuebNBUfPuJIA8jXQyIO%2BXh%2BPMhl8wpbN%2BtaY8VnEHaMSoobq%2FqI%2FnH8vMAphhQkk1%2BCD8DdQuvldNTCHpNERq0fpqRLVWdHTfqoFBV9L0PtEe3qI4DtqM99lGl2aMWsqcRyRYsnH3tnlxlPdT0A96TshtjW0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F6ea3b8094b1e1afa7cb2a2986382e57c%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/6ea3b8094b1e1afa7cb2a2986382e57c/image.png?Expires=1768260199&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Wen5NGMIQcu%2FQwNqcjG%2FcPRmr3%2B79ygJYwQkY0UqCL7b62Tz%2B1kk5s6Zba36qBbv39mNcuX1snY7%2BtJTmK9Px0MvGE48Oxq79BUzZBJBVKS701XMa08NmHBj3ei4gjHVpbw7%2FSNeigELbZUtS8Oo2MBQ33SOlaFhO226Jpn9wvs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F6ea3b8094b1e1afa7cb2a2986382e57c%2Fimage.png)
 
 #### Additional Information
 - **Post color:** White
@@ -2148,7 +2148,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/19b566a68f0712a6afd1fa4f5b09d5b3/image.png?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ff4P5K4yQTUFLt4HlmTYEEOL6ifVZbnLz1HS80RGoIyMUmCfMAsJsaUDTRW29Ipm%2Fr5PXYPnGOCcgwweX3AaMxLKjDf7foNkbRxof0xYw6wdc0J1qPqhFKSl2BjYLdkEsH1JaMKyvAaUbHxspWIxCaV8ulTILsUnc2pBZa3SFdM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F19b566a68f0712a6afd1fa4f5b09d5b3%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/19b566a68f0712a6afd1fa4f5b09d5b3/image.png?Expires=1768260199&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pWLyrTFS4kc6MsYgkjbU8oAkDI68LGc1brihOgvb8LfDsHBoWizQrJx7EYLCSq%2BVs5cEY9l9KkKlo1G%2FyMEWH88dCojysA230qUAdb52KtUOVV%2F0VHHKmr5kFdE35jpAxxcTY3It2F3d0gh5q84XTgj9FfVpUqyKsiIBOoyg42s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F19b566a68f0712a6afd1fa4f5b09d5b3%2Fimage.png)
 
 #### Comments (1)
 - **ピカマン#究極のさくらもちの従僕#煮物貢献者#煮物様の3番弟子#かしわもちうまっ#無法地帯最高！** (Nov 16, 2025 02:35am): 有名なあそこやん
@@ -2286,7 +2286,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/89e81932ebdc85a7e1bad8f61e51f290/images.webp?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cwnFSh0j38yvnJkEqb6P6rNJLj4bziM8FWYTttJUaAaRMkpQNfCDOFvkrTyCNatGgFDlMaTze67lh2oPxjVldiz76i8KdfcqPA93xZ6WrmIuxKvlLQXS0KBmMWMaKO7szZnoW1oGhJG7PTLjw7787LZu5TahT1xGo2jam1Did0Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F89e81932ebdc85a7e1bad8f61e51f290%2Fimages.webp)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/89e81932ebdc85a7e1bad8f61e51f290/images.webp?Expires=1768260199&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UxxOr4K3t%2BmW6i%2BZ2MXdqNXiEICsKDuZT%2F8XClogkWRYS%2B1%2BjLEMg1dxpt1y8chPLvoOJc37cS50qdbOiKe2%2FW4uz3Cmn1e%2BkMdDhTyLzpCls95mUBxdoziGOsNidr0yK%2BT5OyOOuMXf5%2BWuRwI1zyxKghlHYRaJsh%2BiAGQ41F0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F89e81932ebdc85a7e1bad8f61e51f290%2Fimages.webp)
 
 #### Comments (1)
 - **adepen1210 #hikakin_mania** (Oct 28, 2025 01:20am): yeah know that mess
@@ -2479,7 +2479,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3029749762/5a5b3e8be75c8fddb29bfdc3fa128a37/photo.jpeg?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aazlFMYKvJGJ5WamIosxatk5ueaYCjhoXp88%2B9ZYwQubT7T3XB0u2W4XIcCvcQYriDW8hkEdTjdPJh987ix67oFnjpdqRsiew8C0%2FctHqQI0XhsydMn%2B9yx9c%2BT48BVxLJw9EycCeQGkNxNiSdt3Q0Qq2TAGh95z30Ma9lH1E9Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3029749762%2F5a5b3e8be75c8fddb29bfdc3fa128a37%2Fphoto.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3029749762/5a5b3e8be75c8fddb29bfdc3fa128a37/photo.jpeg?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yoU%2BYYr9luEl%2BsaDzD4sO8Z5%2Fad8eoXzokoqle2OnmstcLIAtuzHavkJEDU7kMqXqAfq%2FhWaC1IMEFN81TSuYjJpusRJPu%2F4EegTS4%2BqeDxSZ8haXBlzPqiVT1xdFqHdGUzP0RF2voyOjNHsE44zGA5BcCAU5NFs9hhjsumIkmU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3029749762%2F5a5b3e8be75c8fddb29bfdc3fa128a37%2Fphoto.jpeg)
 
 #### Additional Information
 - **Post color:** White
@@ -2496,7 +2496,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4054405841/e9ddd1eeb99e865ed022e60d3a354258/canvas__2_.png?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uKmT00XY%2BpvP%2FzublLYBNKvNfjPc%2F4FKwzRgn7Mpo8iPEZc6AmSe2oKMqZjCxEkk182qjNIgIj8vcpUoaCe05RllsKQVKrnx66dYI3UFPslU9T0MbtnMYaqC08b8s2NE3VkGLN0MzZx%2FaOGzrqFC6zflvoQxIJ5Rl352zcChZBA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4054405841%2Fe9ddd1eeb99e865ed022e60d3a354258%2Fcanvas__2_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4054405841/e9ddd1eeb99e865ed022e60d3a354258/canvas__2_.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yRgdp6epjgaCVUCnmC0nHX1vRAOM3ZUq5vlR7hmEpPsgBgGJWZ%2Bvwu6uyMSKYw6VSbRLdjQQR0le9Atw58gOswOixa8RhTRwSYy7MG3vMPBo0BU14zaUT7O%2Bsyk6RN3j96c%2BnPKxbHF4b%2BhtPH6msvMiVLlzd7l7XWyvur%2F1wnw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4054405841%2Fe9ddd1eeb99e865ed022e60d3a354258%2Fcanvas__2_.png)
 
 #### Additional Information
 - **Post color:** White
@@ -2511,7 +2511,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4441216775/b0571e7c3880df6c038a25a4453a9eb8/IMG_7884.png?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DoWOKDfpzw6D4GQdNckUv0uWev1HzRiUcVVsEEmPgVdnquLoH3QxGMZ8Pzisq84Gqj%2BzmuhuGu33L5mzKVhACeo9g9pJIxTolFmJeFnbrqfrAzupopgK%2BwxXhDXnxeKlbGJa57tdlu379scWcTqGbWf3wlaWfrVSHDkpDJjncps%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4441216775%2Fb0571e7c3880df6c038a25a4453a9eb8%2FIMG_7884.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4441216775/b0571e7c3880df6c038a25a4453a9eb8/IMG_7884.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1K0vcbz2WzFA3H29yi2BFZs%2B8UYUXEDSqnm7rv4WWYSIJMwydrDPvOfgOyO97FXqFWBXW2HX8oHcxA6LXaBEcqSCwbPxWGHUxCU0F0DV63mKQNSvK5%2FQRFITOBHKZ53TYLeRv6%2BtWk%2BtPEBFLp6%2F0pIi%2Bp0ZOqyzOeNuadkfY7M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4441216775%2Fb0571e7c3880df6c038a25a4453a9eb8%2FIMG_7884.png)
 
 #### Comments (1)
 - **0b1001** (Nov 24, 2025 04:52am): w
@@ -2529,7 +2529,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3474895474/773dcd558ee2ee5e6289e6b06e7dea21/IMG_4258.jpeg?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3s17gygMS4fKIIXSEL9fwX%2BKuscvWQoQAbYo0agSkCiO7LnRC0YBvzRJ5sIxfxAz5uZmMUsYII1oRXc68IJATpjkP4jQSiLTsQP7lUcYcqLefNPDWd%2BxWDSOt1HASBmiuDhwgrvitVP3LnD02LGA1h3d0S4p48oLQCVju0xffco%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3474895474%2F773dcd558ee2ee5e6289e6b06e7dea21%2FIMG_4258.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3474895474/773dcd558ee2ee5e6289e6b06e7dea21/IMG_4258.jpeg?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GWtdVtzPkc2yCbvbYOO3%2FwRRSbx3b9mwOgR1PeqnyyQfabzgD%2B421FaUmVo4OSwxCwAlGquAkUq2nICQ7sOP03Taec2wrw62fUOvYiLsf%2FFgrrePk1PupRLAusJ5iVX89zPk4NhH12PT8N3aUqSLZNbzLdwmuJXDmHKsErQnM1k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3474895474%2F773dcd558ee2ee5e6289e6b06e7dea21%2FIMG_4258.jpeg)
 
 #### Comments (3)
 - **こう　なりすまし発見!!!!注意（やばいｗ）** (Dec 06, 2025 12:57am): うま
@@ -2551,7 +2551,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/5a361d7d9c9c7cea49ea2b921fb25dfc/_________Clipchamp___.mp4?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zy24bxwuMnbnuf9N9mmfoeN9tr6U34STPBwjMwPQEdbQUK6SAHuiwmdRWGCnfjlpiCds%2FXD3eHGlEKGy9g3imFUGUaOjPMumQq5qnPNPnzA8U6W7tyhWV1YTWdcn%2Fxj0EIjQ7sFuINJd66cFbVRu%2FaYo96Yoeq8d8OTdfMHklw0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F5a361d7d9c9c7cea49ea2b921fb25dfc%2F_________Clipchamp___.mp4)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/5a361d7d9c9c7cea49ea2b921fb25dfc/_________Clipchamp___.mp4?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RBrwBte0PLQcK4%2BpiC3tDAFDWT963gU3IDNLaydAZYfI1q4mU2C0lgFSl5aBoL14NgkVsbkdAjzd6uHLJFZAME2okGthGWtpoPKxouiEZEpEiZqkP3s4VNDdVRsmSJ73B%2FciRMx9ET02QHoUkgMDZJcq4teJSKJWXd0F0FoUwT8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F5a361d7d9c9c7cea49ea2b921fb25dfc%2F_________Clipchamp___.mp4)
 
 #### Comments (2)
 - **ちょこ#りおと族999代目#bw** (Nov 04, 2025 02:48am): 僕もできるようになっちゃった（）
@@ -2570,7 +2570,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/97f3d9d85f44d080c8cdb70a16145274/image.png?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=y46ISuPlkrkmim6yTX%2FcJlPY%2BDZJQmogScWd4Hf%2B8Cn94cfkKA%2Fx7GSZEiw2Y8BmxvETRGbXIhTfm52hMPyBMJXB9ZQdOtqEn9E%2BvJytDv%2FidGfKmSoSTctYODhh7zPz5Tf8K%2BqU%2B8B2M2OGNHja9%2BuvtpsFvYEfEDJXsg1RK7s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F97f3d9d85f44d080c8cdb70a16145274%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/97f3d9d85f44d080c8cdb70a16145274/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6TspnIA1AhknafLLYejCxM3mI0RF%2FBGWchIGFbRdNuVkrcTFSxroosRVbu6GiZXnn34hUPmQHY2e%2Bq2mOEuY%2Fv705h8JqoZGU7M4L6YVzmY5ee3pK92JArVzxqeIPwRQQKtLGUV8sioRwi3OMA1b7hyfSvKfcqYLTl0VHXoBRq4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F97f3d9d85f44d080c8cdb70a16145274%2Fimage.png)
 
 #### Comments (5)
 - **Rein_#woolisbestの弟子_#煮物貢献者#21番弟子#OFA３番弟子** (Oct 07, 2025 08:18am): ドラッグクリック？？
@@ -2592,7 +2592,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3226921357/819a0432af60278a33ac58c58294e529/IMG_20251005_150646.jpg?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bJCt945els20%2FnHgo2P9SgxKqGq7PM%2BeCZpYxmUF8QtCeUyTt3%2BpHFmAoyYzp4%2FjYi%2BrgBY50XICHpu0%2FGfGPhj%2BRrq1MmmNS62P%2Bpx0q1aiUasO1tiOfEPiyHPJRY%2BIwJ%2Fx5wbnoIBi8kGIflg7uAY01f8slxeDqIMCbIX7324%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3226921357%2F819a0432af60278a33ac58c58294e529%2FIMG_20251005_150646.jpg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3226921357/819a0432af60278a33ac58c58294e529/IMG_20251005_150646.jpg?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nCV9Ye5DLpxYeGAWAZJuOU3TBqDKJ%2F8YKja3sO0ySlIJZ5mXK3LQahaT1jTTfy6JNfehmhU4wJoDFJXOd5mibXFXKvVB6p%2BadDm%2BgrPo1IcQHw1WlXCrQpap%2F2QdvqpqPNsbmmTAuBLbjn0ewEtHcZZAR5MeRGzbNa205zlxYv8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3226921357%2F819a0432af60278a33ac58c58294e529%2FIMG_20251005_150646.jpg)
 
 #### Comments (3)
 - **しんとあるなすびの3.14** (Oct 05, 2025 10:54am): かっけえー！
@@ -2612,7 +2612,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3474895474/a8c2795754c7126b76bad86040d75882/IMG_4167.jpeg?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rjc0n14uncwlNvJiYCmelkjxNcbSXNyI2MAguZg0AyaxjUBTc5y1gIvDajToxT%2F3eKqmBgtBzX4qMDm06citLK8EMIGZR63pOiVgF8jM1zK1l9QDHsRcQOZ9AqCrfYjPoRJ7wSXyEl361cabVN6TPQw7e4dXD5iu6LpRSmf1bZw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3474895474%2Fa8c2795754c7126b76bad86040d75882%2FIMG_4167.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3474895474/a8c2795754c7126b76bad86040d75882/IMG_4167.jpeg?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0YwZF%2FY8NFJaFYjRpEUH05aDXT6RrT%2F3FfGOsuQ7OFDeJBpLcpjZLIhAEGBKSPt4QoSv9yE8bPhr6wzzu%2B12SlodTguUGZrVYs6pTxb7LFuBsS6OD6ErP9ukNrLhIXnunn7jNCiCDK3AX3k%2FfRb4GQk7tRBvgBZg5pkTXX4ZLpE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3474895474%2Fa8c2795754c7126b76bad86040d75882%2FIMG_4167.jpeg)
 
 #### Comments (3)
 - **しんとあるなすびの3.14** (Oct 05, 2025 10:58am): ありがとう
@@ -2634,7 +2634,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/e31a576a484313ba0609cc0e87343a75/image.png?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ndRHP0%2Fw9wWicp34oGd8IHAHCS8G9ByucMSKUYrtAklSxjQbgxEKAd96sHfSmY1zBWZ9xMFX%2BrLmGGfyYClmFVuUo2KHHwcwwTQTGIuUsTowcMRswdYq4HADf3EWdtaE936rZcDvWWxIt%2FTauILAkNtm6%2B2fsVMOFgkBN5kWx48%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fe31a576a484313ba0609cc0e87343a75%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/e31a576a484313ba0609cc0e87343a75/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JhTJMxsscldNHUGWOf%2Fp2GEx6x5n5EIGJxitbNoDrtlzVJ9G3uCbMJAm%2FLL9bHTFP54wFkN%2FdpJXGz0lKCVOXURP2Xa95YfTLlKEBpbRLVbscHNJ1vopJrG%2FJCKrAq%2Fp8jITECm24Htsrr4YQJuV2mWrss5vQBZuRHlh5K4ZhfY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fe31a576a484313ba0609cc0e87343a75%2Fimage.png)
 
 #### Comments (1)
 - **꧁happy ^-^ smile꧂** (Sep 30, 2025 10:23am): wow
@@ -2652,7 +2652,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2748131995/162a620d295a4a4247cbd11d34c8dba2/Screen_recording_2025_09_28_2_44_24_PM.webm?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LC8kR%2BVLGRigIK%2FYsOwXaLvUge51k0sUFlYF9KINorAvko4e%2BD%2FjwcR55VOsJP5JiO8UoEoEywaA2bp5dapFuqceCC1tsWNB5sM8Th9lHTQOiSWLLbKjU%2FDCvTAhhyZSqU7wjz1gKhorIs098si8GXE8TciN9n9OYwfoLIKQ%2FRs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2748131995%2F162a620d295a4a4247cbd11d34c8dba2%2FScreen_recording_2025_09_28_2_44_24_PM.webm)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2748131995/162a620d295a4a4247cbd11d34c8dba2/Screen_recording_2025_09_28_2_44_24_PM.webm?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Hq0vQl6NkMuBDUjLlCYcc%2F0h0w6qmzr9JYnsAFoDgJ6MrULq9a16kWTIRiva90L0nQ%2FTQL74in17zRI9o4CYIOaKkNz6e4QkcFma7WhLYj1GGeAkRYJbGZeJYClvCxb8y5dBlZbZrL1lFKwr1Zxk6S1l8R%2BERM84xlTwvsngaJM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2748131995%2F162a620d295a4a4247cbd11d34c8dba2%2FScreen_recording_2025_09_28_2_44_24_PM.webm)
 
 #### Comments (9)
 - **ちょこ#りおと族999代目#bw** (Oct 27, 2025 11:43pm): うん、報告をするならさっさとipを載せましょうね（やりたいだけ）
@@ -2680,7 +2680,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2431552291/6ae3383abc00e799971c9dca86b1711f/image.png?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gSawEqaLkY2PP9NTmOIex5ROhLDkgUnPCEvgSru41ElKohsdt06UdD4aLK8IIKnlKK%2FcixkjkIfDg8ptae7w7ftwoS2OG7%2FXYTc1t7o%2F44Gx5z4PXjv2ZN5du3UN3SFI6Uc2zoCt1OQNTC54yGk6baHv3THdHk350Ba4RzXJ%2Beg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2431552291%2F6ae3383abc00e799971c9dca86b1711f%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2431552291/6ae3383abc00e799971c9dca86b1711f/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=C%2BMe%2FqnkAL7wsYsTaBiMTaJIH%2FUmr29KQyafDsry6uopt%2F8YBKbW%2BZmxJ1BuOuEB8Fn4O4h7%2F9oVXaOADh65zIOk1puyJV8m%2BmXJtuAXKzWlpvdRRbCYibCFAFweqGM%2BtjRybOrTr25Bl2ebE34pdqDSvLlgZMRxx3uJQhBW124%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2431552291%2F6ae3383abc00e799971c9dca86b1711f%2Fimage.png)
 
 #### Comments (18)
 - **削除済みユーザー** (Sep 29, 2025 01:37am): 行けるんだなー
@@ -2717,7 +2717,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/998f6e7667631ee3724ff396567972fb/image.png?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=N%2FmYGgu8K4Pnya9C7SABmw7E4UqbAdFjeI7L4xbs70Oh4x0qOEm9I3VVCGK04twdAo1B%2B81b3%2BFb6CIe4EZU%2FqlFWF%2B%2B9q4nuxrHoytPdtZ62D108KCPuTUlJwlfOIO7FnEe5mlI0i0OoqBPsgdU95SaARKUNVxARaW36OOHCcA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2F998f6e7667631ee3724ff396567972fb%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/998f6e7667631ee3724ff396567972fb/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sBpUXY4S%2FISWY%2B2hxWq5BhmN0adfwDKaVjArt1ILHxcpkAcjb52NrJqRCrlPOHG0QMxvM%2B0xY%2B1%2BRodBds%2BjKbRjsZ7uQ4gDUg4OnIdsja0RzNyWLuT5g6qD%2BsSqtpf3BUJdL5NiZimDqtA9kOGIUN2hVJapLcYyITgKvmlcKts%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2F998f6e7667631ee3724ff396567972fb%2Fimage.png)
 
 #### Comments (8)
 - **削除済みユーザー** (Sep 27, 2025 11:39am): とりあえず極めましょうww
@@ -2742,7 +2742,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2685745262/f1f79b1d238f329f486e977326314668/drawing.png?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Bvv2aRfMfz31eFffriLVUmXB2EEvBrO8%2BwI4QpYriIND4GmwY3fYjuxbVRcafdVR5GJXL6kyYLH4D1fvfoj8n1EsNF%2Bpd%2BKjmc1C0CSVfcx4dqz6cMToPPZauUPIKH29rJKedexa%2F%2B4NNxDjkxNpdw4CeTyricpAXRRWhOc%2BfWg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2685745262%2Ff1f79b1d238f329f486e977326314668%2Fdrawing.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2685745262/f1f79b1d238f329f486e977326314668/drawing.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=O51D%2Btdv3mY3Z3G9sTV4HAXVDcI0PHBV9n9PJho35WMlegE53mr1ACeGNSnVMcWX9vmGvWkLmQ5brVmgvOI1MexPcVsrjVLJzRjYM0c8t05RjBXxzDCTG6GlUqPEV0x84D16trQA5tHrnkhgwu%2FdvZZm1Sv5H5mdHKDvueQ8seE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2685745262%2Ff1f79b1d238f329f486e977326314668%2Fdrawing.png)
 
 #### Additional Information
 - **Post color:** White
@@ -2781,7 +2781,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/aa2325f5aec19d7938330859b63d46d5/image.png?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6rx%2Bt25ri%2F1eMtR%2B0CBmISg84ZanncJiPYpds4VPxdjlB4ERoGxXHB9b2%2FKzetDZwrQE7F4tJE%2F%2Fvq%2FLUslnhrCT7L4HyYJEf6tL92eS2Aws%2BZfqNr%2FptU7hdUCsVNU2eOeusrCkCVY0LXPTKQpKg69LZBzHW7TY0p2HvEUVJTo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2Faa2325f5aec19d7938330859b63d46d5%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/aa2325f5aec19d7938330859b63d46d5/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vBrTVxObvFxiSgbBfvOmHPVIF%2B3vKSUJfcJL3%2FVD7w%2BXAOyHRU4H4sj4nYeDIXosq75VmFniYHcqQESWtpEV08S7T5CI0Qq4hbF4ezbuwsJaTNULfq3GZpm5iNSVa6biOHKG0tA0MVp4aLJ7Pg1rnb5uba6Z6tx%2Byw82P84yUIY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2Faa2325f5aec19d7938330859b63d46d5%2Fimage.png)
 
 #### Comments (2)
 - **Magurock  (偽物や偽投稿など注意)** (Sep 26, 2025 04:17am): なっつかしぃそういえばそうだったなぁ
@@ -2802,7 +2802,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4248430913/1b421cb27d5ab5d9504c285d2cd8d2ad/Screenshot_2025_09_23_11_28_02_985_com_mojang_minecraftpe.jpg?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gzb77xOqwtsndfniseV7wpj3FQ3ryLtRaU0vDSY%2FbNKc3PHbli%2FxuF2P0bdAJhsIKvQYnFX30EUWfP015HqBTzAqgFY3mYPBtBlc6QbPcadtBwBlWcirSeiyXNDeIsVIYVtot5Iyeb%2F4elcW46y3C6QpsD5NfyWZnZmBuQt9UqY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4248430913%2F1b421cb27d5ab5d9504c285d2cd8d2ad%2FScreenshot_2025_09_23_11_28_02_985_com_mojang_minecraftpe.jpg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4248430913/1b421cb27d5ab5d9504c285d2cd8d2ad/Screenshot_2025_09_23_11_28_02_985_com_mojang_minecraftpe.jpg?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KXlHLU1t9Q5CohNBnx67VHaKCg466b%2F3DAXxr4bZdhsu1VdckMKVN%2BJIFmTX6m4ZyYdmhZnrcHIH8N1yiaev5lS8rzxlJ30m31q0g%2BLxLAXWDYTAN5Pl6q1Ynh9QzDtdNzzg8sE%2F2%2FHkmKUkOsxj35yE6YWeaTJNg%2FUgnos%2FtwY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4248430913%2F1b421cb27d5ab5d9504c285d2cd8d2ad%2FScreenshot_2025_09_23_11_28_02_985_com_mojang_minecraftpe.jpg)
 
 #### Comments (3)
 - **0b1001** (Sep 23, 2025 09:07am): おお
@@ -2824,7 +2824,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/9f0ce85f0f58eb323fda458891a86993/image.png?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=paTsSoX%2FwoMQns77CSGzJ6gM4tygs3KKnAnRAtWJ3fZprodEK24lzxRd0%2FobAVicRGIHK%2FHMwSDrJ%2F7uLOP5%2F7ib22PKDo5meCsE4TMOk%2BSx0ZiKdOTHd3E9soxkngn9uAjVIUdlVU57ply00Cj9CG6QuKZcL4LoAG4lp3ryRTw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2F9f0ce85f0f58eb323fda458891a86993%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/9f0ce85f0f58eb323fda458891a86993/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ndv2arek%2FdUB9z8e2oujB8IFf9BLaaUj1I7NiMj9laAZOoTfxGUdQxMz7rLgmtzXHz5PYcUZGR82qyuaO%2Bs1MMhftP2L8FiTiO4F1qQ93d7Az3gh4pN%2BueBYtHnFOf1z%2BhUsRurwW9POSzsKXwPYVJsM2jM4HIYq1IhGg7biNfc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2F9f0ce85f0f58eb323fda458891a86993%2Fimage.png)
 
 #### Comments (1)
 - **tail(テール)@2n2s** (Sep 22, 2025 02:33pm): こんなアイコンにしてたときがあったらしいぞ
@@ -2842,7 +2842,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/6f724d8981befe12874ccb249ff63273/image.png?Expires=1768256637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IW6IHBYX75RNg%2FK4NKzvF7ddOwxten7Q6l0T3TontmMPeH%2FQ62oD7BnfG%2Bwh4%2FEUpNOV0daLzLyGZLEts5nXCWoctFDCQ72dV8QHR6eR%2BTsk7x4Yq0izQzm8sHQ7%2BdFiwV0tTF1h77%2FBC56nJBqewU%2FFrJSFTQEMjMywIjkAGew%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2F6f724d8981befe12874ccb249ff63273%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/6f724d8981befe12874ccb249ff63273/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Z9rvuUGaSVUd1YPcJdeTdGlWVgqiZ2PHTKuK2Ty7x84TczT3iXh3VaTM%2BGQsH0sq7gz1zCyht6JFa61VCcO6DQGaEtU2xqY7pkvO6Yw902Swoj%2BXEZMU1YRQ5uD53c5%2BAM7ZwVlEsA8Cx0YQWOzCOtylruqoH7OPbDSKzOgJjAk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2F6f724d8981befe12874ccb249ff63273%2Fimage.png)
 
 #### Comments (19)
 - **tail(テール)@2n2s** (Sep 22, 2025 07:01am): したっすね
@@ -2878,7 +2878,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/c51e4455018e8e6c2649c7f76d0df9b5/image.png?Expires=1768256638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CgLjdmeKG1qrQZ0unmnI7Gqzp4%2FLvRhIMC%2F6RI%2B66wbxlJ7A7xmEh6mtoL8TddTHRRsNDdXL4OYBi9e6hoel%2BLoARH9NfZBWJ%2Fiv2xN0gHol32%2Fdv1bd%2BFTR7Er9%2FG1QLyUTesfZboXFygDh2eruKvxGims429EY2aUZ6Wm%2FwWg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2Fc51e4455018e8e6c2649c7f76d0df9b5%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/c51e4455018e8e6c2649c7f76d0df9b5/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=y9SD%2BZbbwLkaVixaOmYsMnftlT%2F%2FkX4KSq08JRt7%2FCMuJnl8OjeZw5bEdYnMvlzlG%2Fqb52QPKpPfyEsXmJoBMSuM08%2BNU7lZB9SEiuvNGdSORH8zj8MWnStkER6bT5RSjT9xYJ9Fjx6%2FYonEXlGK4wgNaRI%2BGp%2FEO%2BDR5HqI584%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2Fc51e4455018e8e6c2649c7f76d0df9b5%2Fimage.png)
 
 #### Additional Information
 - **Post color:** White
@@ -2893,7 +2893,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2804505754/d4a670c34129d8a184c9d40c4d1c5a50/image.png?Expires=1768256638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mtKOwmzIXBjCt1G0GHVjK0hQUWN16KSMt%2BCGanU8PoP84%2F%2F8sMgqZgZohxdi%2BycmAVdxMGVa40FVLzB%2Bd8dAnOu%2FP%2FETKt4tuofRwXs3FAHW%2BC3rSAjJmUI7YuDxiiFYJnXmTA7p6JV9oIMkmjOmq2%2BB1oFXxWyHGy4k9U734Po%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2804505754%2Fd4a670c34129d8a184c9d40c4d1c5a50%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2804505754/d4a670c34129d8a184c9d40c4d1c5a50/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rLprbseomgG9QNjMA65WaK9HRga1ueTjru5gYj8tVGbXZLmofer2vf1vnWqesQ1h7hLMKcpd4wmeI2hVyE88szhHB6x%2FqRMT490jvjJG2d9SHU8s%2FmbLGIveM9O8XRGtGJkjju8rRBlAedNXBRP%2FJvTPCgeEUEFvD%2BiDJAlcMD4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2804505754%2Fd4a670c34129d8a184c9d40c4d1c5a50%2Fimage.png)
 
 #### Additional Information
 - **Post color:** White
@@ -2910,7 +2910,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2804505754/f0f570028209bdf44d03d6a3b2bf5d4e/image.png?Expires=1768256638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2LGHhuNVHINJBaqaGp0dKaRIqHqyyVtSMenni2SmP2VJyYcGwW69AkayFbpVqOT69j4dImliatMXPF8668hsRvrF7qyz5%2FpucXoTq5Ipiwh80XgbUcYHm73jsE18Y88JwUtigUzgor5ylR%2BoXOLHbjwUljCg0fIvU1Q%2BGcXLxsY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2804505754%2Ff0f570028209bdf44d03d6a3b2bf5d4e%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2804505754/f0f570028209bdf44d03d6a3b2bf5d4e/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OdE1QA3Km0Iowr2N%2FZIHBBBLogwT3tHvUfMPnRllSJ0MT8n6yOi8e%2BGaWNb58iluT%2F6sR6ks7xaf8bv2NDoo6cdkAoADfAp%2BMI7M80OWNTEF1D9%2B62PdL2xwVLsQs2mrnUVo6RrDWXUmsG%2FOlM%2F2dqR%2BYM4XJJYF0OFBiu4i6vA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2804505754%2Ff0f570028209bdf44d03d6a3b2bf5d4e%2Fimage.png)
 
 #### Comments (3)
 - **zakopanda@2n2s** (Sep 22, 2025 02:17am): えぇ？(困惑)
@@ -2930,7 +2930,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2804505754/b3bef9bb8e071eb2ffa6a9dc043ed9b9/image.png?Expires=1768256638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SkDjNKSdFfUh2AFP7Isa2dpSOS0xLieZvuZGNErgwUwTQXw9TslP7K4v4FMbo8ujGbMom77NtL2yeumtlrjqrjgq2vJZk5u5zSccD3BEoWDoSHata3XOdzsVoK0UIf5U3vpLoH2aTVZtmp8dyU7IMpcmQ0%2F92BwOoCbQrBLUTok%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2804505754%2Fb3bef9bb8e071eb2ffa6a9dc043ed9b9%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2804505754/b3bef9bb8e071eb2ffa6a9dc043ed9b9/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EolohbVgEPJX4IPUsr0h572tswp2WVdLl%2BEVp01VJQb8bVEm3%2BnM6FGmYci2tozmSubEGlANWpAhqXqn0DX5Zfyn627I8%2BtxskT4pX%2F1admKo60lskEwNb83P1fQFVNRETotqlkeNSc3N2nCDRxXIDxSJGKtyyL5xm1TOC6e6HA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2804505754%2Fb3bef9bb8e071eb2ffa6a9dc043ed9b9%2Fimage.png)
 
 #### Comments (2)
 - **zakopanda@2n2s** (Sep 22, 2025 12:57am): うん狂ったサイズ
@@ -2967,7 +2967,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/db63b18b67bbc9e27a0fdf2a208953c8/image.png?Expires=1768256638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PL%2FPa%2BMblv7WMq4xxd5eaRtk9YL9Y%2BCpaO2bt9YFJFT5paJPgxf9407kINeNjBlkGhsPpNh7yz09q07A20dmxfe%2Fqyhxy1DHi9E4ttNm5dg5NzD5E01J8FwRttXDMIqJInN493tIdjIimbyPSGYfS%2F9LJvJNr0dKw%2BbcN%2BOwMdA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fdb63b18b67bbc9e27a0fdf2a208953c8%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/db63b18b67bbc9e27a0fdf2a208953c8/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=p2irJpIJgMm%2BrMwuziwu0LuNO3MGkbwBug5EcxyEMqkjGBQV0shR6pnFneA3x%2FnCbiyalNlfHRAsR%2FWxZyr%2FL0bsRX4auMMWQFvUq489IuFfYzprEB0OEDWaG8b%2B6O2xuoVooewN4%2BLd13Z0kwZpQM8hdm3kYrzyn0UQ9dRBDQ8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fdb63b18b67bbc9e27a0fdf2a208953c8%2Fimage.png)
 
 #### Reactions
 - **Number of likes:** 1
@@ -2985,7 +2985,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/ac7ab9c2df50407cd4fcfafed0565e20/image.png?Expires=1768256638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=S5fxtqefGZZerFTrVAAuPwrHc7y5wKXBh%2Fd7fL%2B93SZEQDewO1O%2FPi3eOvVPq6%2FAu%2BRpQRauf4sn9%2BbLZjWxKeqpYSkR1YvGiQjOfn9s69OdYGlahSQxJBZ%2BaYS%2BSjjGRf9DHUHbudZv2BptVt0GbjHWcWfnL7LmzDfUMZ6nzC8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fac7ab9c2df50407cd4fcfafed0565e20%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/ac7ab9c2df50407cd4fcfafed0565e20/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fbqUnrwl%2Bw7ydUdmo2cctGfaX%2F%2BQoL%2BaTW2daFWaaULXPeS6xjfVdMkJuKecvfy5ST4CUc6oTx8kNYzxaofv9BY2vatnK24o%2B9Z9SSdWn1uYclkeSA6Y5XE9JkqOh3Ff9sWihKzvX1oof6OrgG%2F2v4x4FrU%2B0Y9Sm2Z%2BLOP4fXk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fac7ab9c2df50407cd4fcfafed0565e20%2Fimage.png)
 
 #### Reactions
 - **Number of likes:** 1
@@ -3003,7 +3003,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/3ed589334603b89ab45a728a0a062611/image.png?Expires=1768256638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=A5FARgJ3jNxoij7hK3fA9PGv6wlkl9AstAvlj81kCmSymvx2%2Fp3do%2FmJ3ikJARgVICn6CLdvJ0D4TUWur7K2ZIkT1lMAWiBwCOWnhUenPkZNzB%2FeS9SFqeV7ASrE7iI0CJriFkT4hO77LhUIOYtuamdEr3MYYzayu4%2FJSMDcUkw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F3ed589334603b89ab45a728a0a062611%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/3ed589334603b89ab45a728a0a062611/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KGZFIdIE8Pr2%2BozipNDHW8zfdcvEBfFTETxXWina3ru9Q5f8EUVCfAqfwDwmHoAxWn29EI3DVHwviEtK%2BNTg5qayaH3jnK5KETkThsYETsBmOdaSdHYKZnwQc86gzWFmc%2BoVV0U1DRisqMSdx2%2FY%2FxJuQiknbZUNAKPVlga5dBU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F3ed589334603b89ab45a728a0a062611%2Fimage.png)
 
 #### Reactions
 - **Number of likes:** 1
@@ -3021,7 +3021,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/42a6166f11556c73a40261bf98a51d51/image.png?Expires=1768256638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kjhyIB4KcyglmEHeih5VL%2BnLKA5L3ArntDKhYJwtP4cdGB%2FiTzEsfUx8ejxaBsn4J0JFdU0ZIhtfwBAHmzwWI4LcWyKggQxi%2FxJP74yWIWznnaKqx69JVYxISO8dzL5Jnvk1cNCFK4uqlnRfcL1kziCWIcHVUytI3TUQy4HSQ8U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F42a6166f11556c73a40261bf98a51d51%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/42a6166f11556c73a40261bf98a51d51/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VZX7dtmj22yNegOIWu1DY2YpnfXRLzx5f%2FKbYecrvUUFZ0ejClhH8u3ynd9EtoMVzqBQXWtCxhf1jCsn6%2FV2OGXEl3J0xP5LdGPu2SQptlOA2ZFvu6uAWOWmBlyy0j%2BX7woyvGf61%2BTf7PLbsKd8FYuej%2FbiSoLTtK3wv03yiDU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F42a6166f11556c73a40261bf98a51d51%2Fimage.png)
 
 #### Comments (2)
 - **tail(テール)@2n2s** (Sep 21, 2025 10:58am): ？
@@ -3043,7 +3043,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/f32536fe8039198f1db90bdcc020c768/image.png?Expires=1768256638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tNosSWS5sHA36x7YcKQzUX2rNJvFAoK4h7GrXuyqinJvK3nPK31tZe2cI%2BJPIFJfe2dpbxwhtxkfKqf2%2BVldFCM9SPcBspT1EZ1rK2KpjaNzs3IcupTyqFOaO4Zm2wKush3p9YKvfYCy1qoMHoOFYVWS3sfEK0aObjARHMQ53nA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Ff32536fe8039198f1db90bdcc020c768%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/f32536fe8039198f1db90bdcc020c768/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Vk8XB0BG%2FXVt2C4UMocSeLAOprnvJ7zD2RW27D%2FwqXdXbgHOzJnARUHAHu2GohslYhlURJlrCEhCUb00GrexdyBXwPcGl1PhCDAJjHEC3TgkRa65mcc8WQeyn3UtrohVdxcv25FtAjgCDhHdTXGbwR0%2BZ2ux8rQgNR%2Bb%2B5tcLiY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Ff32536fe8039198f1db90bdcc020c768%2Fimage.png)
 
 #### Reactions
 - **Number of likes:** 1
@@ -3061,7 +3061,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/9aae74ce596671ad266ba34e9216d2f0/image.png?Expires=1768256638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=h6bo4x754%2FdrkWza9iDAXqALFUajfVpptol8%2B1KstWp%2FRj37dl4R8gNBcOojcdNMj%2FWqZgLeFMjCjkU5c4te%2FLuvskNFXezXFS8y76yyOp5K9wh4yiyLeeYOPLskOitey1305OTPUnyjueWPkpTvtuaY79XwzAANoLfCL7aNoIY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F9aae74ce596671ad266ba34e9216d2f0%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/9aae74ce596671ad266ba34e9216d2f0/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XajcxjNGcjLhTTtKUX0on3Kr%2BsmPE2GvX6dVefPBbe0CJne5lLrfPTnnvLy%2FB20%2BaBRb8t4jrWxXaSkrw4Y7JjyHi3Dl0zHMZ6S7fCJrSWuQ5c1Ckkswhnty%2F6d2OvD0kppSg4C4xvnr2sEE%2F72MfjeEeeXgDW62%2FTBfvptfPsc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F9aae74ce596671ad266ba34e9216d2f0%2Fimage.png)
 
 #### Additional Information
 - **Post color:** White
@@ -3078,7 +3078,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/d5a236370688869c880320a8739025a6/Screenshot_2025_09_21_15_04_08.png?Expires=1768256638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eGcGJB9J0eyp%2BJRZfEW8GpHZig3E1Q5gJ%2BgJU9dhUErFvy0fqokvGasqM%2FQRpXyQFdIl8jy5aJ6%2FIyFofQyVqXYXjO6Bw8c99IXOgp4QD4ml5PDbrM6%2BPiuWsgZAUafv%2F%2BIwbuCj1ZZrxgvnMFzx%2BA6dnxMvaAqUd5SziDAVWmE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2Fd5a236370688869c880320a8739025a6%2FScreenshot_2025_09_21_15_04_08.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/d5a236370688869c880320a8739025a6/Screenshot_2025_09_21_15_04_08.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FY0D7NeBH2hxBxINj8Kr3tHkCJUSqr3E80GFfJTWF0esc1WB%2B7veoVPR5ooCIJYOqd4dNd6vPqnwYdcJ0eyNjQyAtjb7a%2FKrPqDWlOjrkQ4EDZPNHFLkaxQrtNOIFnYLIqdEQGlj13eD9bHQJBFFPTnTmDfsu8H6ohUgVV8XU2Y%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2Fd5a236370688869c880320a8739025a6%2FScreenshot_2025_09_21_15_04_08.png)
 
 #### Comments (2)
 - **✨️ 白光の黄昏 🍓** (Sep 21, 2025 10:45am): だからなんやねん
@@ -3097,7 +3097,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/658f8b9eb595aeee5e1672c27275613a/image.png?Expires=1768256638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NmMCmB19jZgUCTlsaXr7v22FT2bFhc5blPYyl%2F%2F5vedvl2UsFhAJ%2BirOVC1D5dW2wqESnSoOQkf6BeEQNpC3Lq55p9tkiqoO0tmTd%2BS%2Bfw0Jb1t5zBjOkbxGj6HJ%2FyHM23HBaueG6pv6obuyMUCVITCltuXpinBksHZYZlwqiRw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F658f8b9eb595aeee5e1672c27275613a%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/658f8b9eb595aeee5e1672c27275613a/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=J4XWmbFySEEk%2FxRhziBp4SRaaXJ5NJKVEnwZ9sHbo%2FcqmHJRgmEoccgXCnPe0aFJ9aMND9QLbIzA3t9b9lO3FROdSCQWMYCg%2BCc9kHOe2iQ5PCW2tdWEjpXE3Gg6tLSISGmh9U4XgV9apILkeJr89sHVg6zK%2F2Y%2B7lyg9%2B58P%2B8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F658f8b9eb595aeee5e1672c27275613a%2Fimage.png)
 
 #### Comments (2)
 - **0b1001** (Sep 21, 2025 03:04am): ⇑u3について
@@ -3119,7 +3119,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4248430913/d82358c90a2db4b858d91f7c10098176/image.png?Expires=1768256638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FurZAHcpTGrqHlKhvY52FAFhK7cE1Puzz0F1m8c3Mh3sUiNb993Zii7iBrXvjQVGteSF09dP3jiJBCaR7GvQW77Y27EXk1pLPRDOPRachHRXtVaXYYDPg1sx4OFwK6nmsuJi9QZ3PJhWJ0kGAv7pVmgMtTRWL0%2BOvw4nzrB%2Bsno%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4248430913%2Fd82358c90a2db4b858d91f7c10098176%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4248430913/d82358c90a2db4b858d91f7c10098176/image.png?Expires=1768260200&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NqV%2BKz8LoI37dKPirfhmoht68ToKygMWoUY%2BKxxWbE2KIuIkKjrv9L%2FwbYT8uz5zT0b0jb5tyTH1Xla4x9lekdvaZqM%2FFWEFRxsPKOSFLm%2FPkendQ49UuoF%2F9Ezb8Q4bP5Lfnbf8bLsB6vH2QqLKYYr%2FOtQ1xKG%2FqGaFnJ1L30c%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4248430913%2Fd82358c90a2db4b858d91f7c10098176%2Fimage.png)
 
 #### Comments (2)
 - **レオ。　-K.A.R ch-** (Sep 21, 2025 03:02am): ｗｗｗ
@@ -3562,7 +3562,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/7f78f306f052cad8e4987d649da63fb4/___SS___________2___1_.pdf?Expires=1768256638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=leVuuX7GZXMYQsyD1XC8CicRIqRDdH0Oqr3yrLEMLNWfhVbV5LMcy0D5SkXgA6WvtGaqXvVS4GtPz8ti8VZ569cYguhDLHwQbuq9pcyihuU4eHunSkWv9oV1nNRuJU3NpYFQjCcORpGXgVesIJRLtL3DclC8habA9tc8%2FGukVe0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2F7f78f306f052cad8e4987d649da63fb4%2F___SS___________2___1_.pdf)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/7f78f306f052cad8e4987d649da63fb4/___SS___________2___1_.pdf?Expires=1768260201&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0usvlbobrf4Df17AsnQDPytXLqDigP5k4zs8GIr69KRJW7CY%2FvXK27VDWS%2BUkN9PTU%2BRVJsgbmfo7xOFjsZDUhf0vS3FNtbHEOZuZ1yW6j1GBBi4nXcfGXtAj6v%2BQ4RefhQo4uHolOrrSlOk9y4me90lFQkyFWz1JDZiWEmlc4E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2F7f78f306f052cad8e4987d649da63fb4%2F___SS___________2___1_.pdf)
 
 #### Additional Information
 - **Post color:** Blue
@@ -3675,7 +3675,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/1b26ed6a3c288c70d4670f15b784712c/1_.pdf?Expires=1768256638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=I%2B6L4K%2F%2Fbh6A6801Bvh1xQMIzanocUuZKbAkqh65h2YNe6fPK6GD%2FcXRqFnmLoxb8XP7A4hvOVKh33Rwr8o%2Fi4Na6fUDR5mU%2Fn2X65IyamN8Z7Utz4%2FlY67spyjKdjptteErWeAFiTRuSD5n7fxK7PMKHPhVYdfnXcP2IihokJk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2F1b26ed6a3c288c70d4670f15b784712c%2F1_.pdf)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/1b26ed6a3c288c70d4670f15b784712c/1_.pdf?Expires=1768260201&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=K0Ly3ornG8lpFySWu4%2F3E90ao0AlgyQ4hyL7NngLpc%2F4QheXB2kRTSb8aoNr8ngJ1D0VuI%2F6Fd1DIBWimjukrftBY0QOXvHxw%2Bg9Qcf%2Fw7RWrnklikkGO5QQwW72LDr1J9mrU4ORKEeEQqKvF5zc39zEWAujPeQhgK%2FOHhhmpo8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2F1b26ed6a3c288c70d4670f15b784712c%2F1_.pdf)
 
 #### Comments (1)
 - **꧁happy ^-^ smile꧂** (Oct 03, 2025 11:26am): よろ
