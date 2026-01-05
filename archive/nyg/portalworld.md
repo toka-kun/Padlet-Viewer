@@ -7,7 +7,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 61
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jan 04, 2026 10:53am
+- **Updated At (UTC):** Jan 05, 2026 08:09am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -91,7 +91,31 @@
 
 ## Padletポータルワールド
 
-### 1. Demenigiceのゆったり深海
+### 1. woolisbest部屋
+**Author:** woolisbest (woolisbest)
+
+<p>・雑談部屋です。</p><p>・旧煮物部屋です。（10/22に受け継ぎました）</p><p>・プロキもシ一応あります（頼んでもらえればいくらでも...）</p><p>・開発者が多いです（お気に入りのサイトを見つけられるかもしれません）</p><p>・毎月一回ほど大きなイベントがあります（プロキシなどの景品あり）</p><p>・最近過疎ってます</p><p>・プロキシ・youtubeサイトなどが欲しい人も来てください</p><p>・規制解除にも力をいれてます</p><p>・chat・meetに常に１人はいるので暇な方はどうぞ</p><p>・Discord版の部屋もあります</p><p>・マイクラ(eaglercraftファイル版）などをやっているときもあります（meet）</p><p>・管理者はもう増やしません</p><p>・モデレーターは増やすかもしれません</p><p>・古参（６人）はもう増やさないつもりです（減ったら募集）</p><p>・準古参（７人）はもう少し増やすつもりです</p><p>・やばいやつが多いです（面白いとも言う）</p><p>・宣伝禁止です（vip宣伝はあり）</p><p>・youtube plusの開発者もいるので要望があれば何でもどうぞ（なんとかします）</p><p>・プロキシがほしい方はこの部屋かプロキシ部屋で言ってください</p><p>・render・cloudflare・render custom domein・vercel・railway・googlesite・GASなどでサイトを作っているので使えるものを言っていただければそれを使います</p>
+
+**受付部屋のリンク（あれば）:** https://padlet.com/woolisbest/woolisbest-nj4cza44bnb13xr
+
+**部屋の作成日:** October 26, 2025
+
+**閲覧数:** 5,000~9,999
+
+**管理者数:** 1~4
+
+**モデレーター数:** 5~9
+
+[Attachment](https://padlet.com/padlets/27h5aidjxevsqd38)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 05, 2026 07:49am
+- **Updated At (UTC):** Jan 05, 2026 08:09am
+
+---
+
+### 2. Demenigiceのゆったり深海
 **Author:** Demenigice-hell (Demenigice_hell)
 
 <ul><li><p>一度荒らされたので招待制になりました！</p></li><li><p>もとはかなり賑わっていましたが荒らされたので過疎ってます。</p></li><li><p>受付に来てください↓</p></li></ul>
@@ -115,7 +139,7 @@
 
 ---
 
-### 2. ブラックリスト~追加希望~
+### 3. ブラックリスト~追加希望~
 **Author:** S&A (202500040)
 
 <p>皆さんの「危険人物」を教えて下さい！僕は雑談部屋を作りたいのですが荒らしを入れないためには荒らしを知ることが必要です！なのでお願いします</p>
@@ -138,7 +162,7 @@
 
 ---
 
-### 3. chat oasis
+### 4. chat oasis
 **Author:** Dr.マリオ使い#01 (DoctorMariosharpzeroiti)
 
 <p>YouTubeが見れるサイトなどもあります。荒らし対策もしています</p>
@@ -161,7 +185,7 @@
 
 ---
 
-### 4. 脈脈部屋の受付
+### 5. 脈脈部屋の受付
 **Author:** 万博逃亡の脈脈　＃最近低浮上だねﾊﾊﾊ (Daisannoitidaibeyaninaru)
 
 <p>受付だお　雑談多分タノスィーから来てねぇ</p>
@@ -184,7 +208,7 @@
 
 ---
 
-### 5. 匿名掲示板
+### 6. 匿名掲示板
 **Author:** 匿名 (4444444_5)
 
 <p>匿名！</p>
@@ -208,7 +232,7 @@
 
 ---
 
-### 6. Shell専用部屋
+### 7. Shell専用部屋
 **Author:** あいうえお (gtr35aiueo)
 
 <p>shellshockersやってる人の集まりです</p><p>最近過疎ってるので誰でもいいから入ってください(荒らし目的のやつ除く)</p>
@@ -231,7 +255,7 @@
 
 ---
 
-### 7. 曇り空
+### 8. 曇り空
 **Author:** proxy (proxy0link)
 
 <p>色々プロキシ</p><p><br/></p>
@@ -254,7 +278,7 @@
 
 ---
 
-### 8. きてーーーーーーーーーー🤣
+### 9. きてーーーーーーーーーー🤣
 **Author:** run (11324130)
 
 <p>あらしだめ❌️</p><p><br></p>
@@ -273,7 +297,7 @@
 
 ---
 
-### 9. 来てね
+### 10. 来てね
 **Author:** 削除済みユーザー
 
 
@@ -290,7 +314,7 @@
 
 ---
 
-### 10. 来てくれよ〜〜〜〜〜
+### 11. 来てくれよ〜〜〜〜〜
 **Author:** 𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ (Helter_Skelter)
 
 
@@ -314,7 +338,7 @@
 
 ---
 
-### 11. Post 11
+### 12. Post 12
 **Author:** SUIKA#オムライス界隈（オムライス第1代目弟子） (20183977)
 
 
@@ -331,7 +355,7 @@
 
 ---
 
-### 12. きてね
+### 13. きてね
 **Author:** 赤い猫 𝕒𝕜𝕒𝕚𝕟𝕖𝕜𝕠 (akaineko)
 
 
@@ -348,7 +372,7 @@
 
 ---
 
-### 13. ここ来てね！
+### 14. ここ来てね！
 **Author:** えいかつ (sem_ekatu)
 
 
@@ -365,7 +389,7 @@
 
 ---
 
-### 14. 来てな
+### 15. 来てな
 **Author:** アキラ (8660664)
 
 
@@ -382,7 +406,7 @@
 
 ---
 
-### 15. 来て
+### 16. 来て
 **Author:** まさおくん (6pq2bkf1pk)
 
 
@@ -399,7 +423,7 @@
 
 ---
 
-### 16. woolisbestのプロキシ部屋
+### 17. woolisbestのプロキシ部屋
 **Author:** woolisbest (woolisbest)
 
 <p>プロキシとゲームしかありません。</p><p>ご注意ください。</p>
@@ -422,7 +446,7 @@
 
 ---
 
-### 17. 宣伝部屋
+### 18. 宣伝部屋
 **Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃超低浮上？　＃あけおめ〜🎍 (I_like_apple)
 
 <p>宣伝しに来よう</p>
@@ -445,7 +469,7 @@
 
 ---
 
-### 18. Natsu部屋
+### 19. Natsu部屋
 **Author:** Natsu (masayukii0814)
 
 <p>嵐以外来てください</p><p><br/></p>
@@ -465,30 +489,6 @@
 - **Post color:** White
 - **Created At (UTC):** Dec 16, 2025 05:57am
 - **Updated At (UTC):** Dec 16, 2025 05:57am
-
----
-
-### 19. woolisbest部屋（旧煮物部屋）
-**Author:** woolisbest (woolisbest)
-
-<ul><li><p>雑談部屋です。</p></li><li><p>旧煮物部屋です。（10/22に受け継ぎました）</p></li><li><p>プロキもシ一応あります（頼んでもらえればいくらでも...）</p></li><li><p>開発者が多いです（お気に入りのサイトを見つけられるかもしれません）</p></li><li><p>毎月一回ほど大きなイベントがあります（プロキシなどの景品あり）</p></li><li><p>最近過疎ってます</p></li><li><p>プロキシ・YouTubeサイトなどが欲しい人も来てください</p></li><li><p>規制解除にも力をいれてます</p></li><li><p>Chat・Meetに常に１人はいるので暇な方はどうぞ</p></li><li><p>Discord版の部屋もあります</p></li><li><p>マイクラ(Eaglercraftファイル版）などをやっているときもあります（Meet）</p></li><li><p>管理者はもう増やしません</p></li><li><p>モデレーターは増やすかもしれません</p></li><li><p>古参（６人）はもう増やさないつもりです（減ったら募集）</p></li><li><p>準古参（７人）はもう少し増やすつもりです</p></li><li><p>やばいやつが多いです（面白いとも言う）</p></li><li><p>wooltube・割引odeos（製作中）・woolsite・nomo-chat・(chocotube）などがあります</p></li><li><p>宣伝禁止です（vip宣伝はあり）</p></li><li><p>YouTube Plus+の開発者もいるので要望があれば何でもどうぞ（なんとかします）</p></li><li><p>プロキシがほしい方はこの部屋かプロキシ部屋で言ってください</p></li><li><p>Render・Cloudflare・Render custom domein・Vercel・Railway・Google Site・GASなどでサイトを作っているので使えるものを言っていただければそれを使います</p></li></ul>
-
-**受付部屋のリンク（あれば）:** https://padlet.com/woolisbest/open
-
-**部屋の作成日:** August 25, 2025
-
-**閲覧数:** 2,500~4,999
-
-**管理者数:** 1~4
-
-**モデレーター数:** 5~9
-
-[Attachment](https://padlet.com/padlets/27h5aidjxevsqd38)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 15, 2025 01:38pm
-- **Updated At (UTC):** Dec 31, 2025 08:17am
 
 ---
 
@@ -1400,7 +1400,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768203018&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FBWASdIqxyCoK8yZxrYpQJy9E2f7eAM08T94yOW5gqW9FISr%2Bp860VndpcJYOV7EabeIqr77ClAgIJQTo5HGHtnpftHvToSq%2BS1%2B4YBiQp%2Fzpjc80rBpqZcWsqhGyryAZfcg6ac%2B61adCWDWWUt6tkoNTIprOCB%2FiMvsyzU7FuU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768206938&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mQfaNUxT3ow%2Bcw5kk0mgQ6QEATA1v9BsdN9ukiqxoSCtjizRBKwSqX9ozkVAV4041UgQAGV5H7ToSuOfVXg%2F%2Bj6tr3KNqmsUHT33bxq55MZb6fCkMa8l3V9KlfRW1Uf8%2BobWsQk%2FDYbEyE%2BjFK9Mc9fdB43m1V2FCj1psnHudTM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
