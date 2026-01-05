@@ -139,7 +139,7 @@
 ---
 
 ### 3. chat oasis
-**Author:** コカ・コーラファンクラブ (cocacolafanclub)
+**Author:** Dr.マリオ使い#01 (DoctorMariosharpzeroiti)
 
 <p>YouTubeが見れるサイトなどもあります。荒らし対策もしています</p>
 
@@ -1400,7 +1400,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768190492&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CXEdCgfJOUfaLS8RWM3%2FFg%2FqUIyPYphcP5e2C%2FpnWl9UqEk4MwqjwhD6EW%2FnBfnYxRyiJXu5fF2POiZb22cN6Rt9C9krS3YTQakkrkUcL0hacV9cIO3mwTYNe0xcoiONjnLM2rsmaF10IRC8gDRjFHpMS0c4rkS1C5pi8OIKvkQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768196173&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tHUGs8BnBLtGNFdRCaK0tmSpQe9aFkz0zx%2Fw0gf8D4%2FKz4R0Yx0IfIWbXo4e4vLVx7W8CiQpN2hMt3LvgF%2FJmynTQ4eC7lsX6VBITTYmsa%2BmHOU%2F2afJ413webMmS5W9G3V%2FCBiVTAJWVaV53K3M%2FM98R2GSFDofjPUOQ96mQzk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
