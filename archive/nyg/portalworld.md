@@ -7,7 +7,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 61
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jan 05, 2026 11:00am
+- **Updated At (UTC):** Jan 06, 2026 07:50am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -1400,7 +1400,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768289235&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SSkUjJ0vGusSw26ROOV2YnJ7yzfJ3ojH3qpnE9bK%2FiIs1akyauuChtvtHCthpMNP7gkD1YfaKOxkxezOQbf9bAeSgPPv8Omc0b9fA1aoIhnq%2FI0tOUHKZSFR1KSV3UeVtUFwt%2FFVqTRxiU8pGwt8nq4LnEpl3CEAWxiZaWf1zVk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768293213&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1TI1Wg10Gro0ftAyr7a19BV%2FXm%2FDi5pYF8Xt41NqlM9f3w3%2FukCrzmMIdCxKeve1lubhsr8JXwZMETePHDMU%2BvXjxn1EEJMnz5qZ9eDu2UFD4hiK9qG8hzam8l%2BIGTP%2Fz2BpbQvLN65NhYUNg7iYieTKXnSGj0n4rOugzKh1IZc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
