@@ -1228,7 +1228,7 @@
 ---
 
 ### 51. みんなの雑談コーナー
-**Author:** キムソンイ (Myuuuu)
+**Author:** Gogogo (Opppppppppp)
 
 <p>雑談だけじゃなく他もゲームとか色々あります今きたら古参です！</p><p>楽しいのできてください！</p>
 
@@ -1400,7 +1400,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768279250&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IzIH4bzK6lj8hXYlPwlkRxwl35OQIk5m3QX6x2QgMvmuNWDzOl0RDatmSpVfK9f%2BZmHdsAXiAIWKFiV0nV3LCsO%2Fm8kEk5CJmtgOKB3moL4ujafSW7usm3PH22uHVKUzEqQZQO3qFCV0BkfdYRrb33YqYTjMblEk9ss6mkB%2B5Vg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768281990&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qf4bQT9ha%2B%2BrsSJFcP0xFfwFMm12S6j4nyw5hAYijVz3Z8vt53FkmjcvypIuz5Io3i7iZTn21Rj%2Fq4Z1z2gpI64nDxPVRG5G0%2FKtj4KSsmQ68wCtJMYTOhAGtIFA99By725Rxk0mZC1aVmEMkBmComdhJLfjJL5JXeaz9HY6uxk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
