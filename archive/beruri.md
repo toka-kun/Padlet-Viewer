@@ -7,7 +7,7 @@
 - **Builder:** べるり(名前戻した) (BERURI1214)
 - **Posts:** 70
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Jan 04, 2026 11:17pm
+- **Updated At (UTC):** Jan 06, 2026 01:09am
 
 ## ルール
 
@@ -28,7 +28,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768260223&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=T7Mcx25XqOA5rPp9B8ZIcCUkstCClIYQMi3IXCyxLoO4hUly%2Bl%2FCB4FPocuvK3VgX9SXNWaAqikiy6%2BDe1ylCmznFehcaYIAjXnQQOnhuyPfF4FKAdYNz9Ny07Y40v4c3Kq3jy%2FQCdjZfzaN6%2FQfmeAwWTzoekTfaanpU%2B1X16s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768269109&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=prfsmMA8fp8hzYdgAvvSUtP95U1YtKBFMO4W%2FDVdU2FqNLsuwe%2B0r45JJSn6ZbXTfk9PGNKoEJawvO9bT1zh75cH7oUZKdxMJo6KiCQXHzDPt96Ln2QV7FJIiYEWVYIRhf7K5yN1gpcdE9AQwLtaFgJ%2BzODi0yDf5qqF7fwCIqs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -87,7 +87,9 @@
 
 <p>3日後ライターになれます。</p><p>申請した方はこの投稿に名前を書いときます。</p>
 
-#### Comments (1)
+#### Comments (3)
+- **꧁𝓩༽宮瀬愛葵༼𝓩꧂** (Jan 06, 2026 01:09am): ください
+- **꧁𝓩༽宮瀬愛葵༼𝓩꧂** (Jan 06, 2026 01:09am): https://padlet.com/gs185900/miya-2x3907izvqkv5266
 - **꧁𝖓𝖔𝖗𝖒𝖆𝖑 𝕶🗽꧂ #𝕶族1代目 #neko族？代目** (Jan 04, 2026 10:27am):  
 
 #### Reactions
