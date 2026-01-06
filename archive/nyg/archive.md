@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768303195&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5J%2FxEfJqY%2Fneex92Ii%2Fmp27sIrrcvq3cW1dZ4tT6kxNyF8poYWdK3Il8PuAPiTfngcHPiHDDTqQF%2BJKF9doR%2F9gqJTjFxAXqNvLGgd%2FqCibT4PmOaQEN0BGIvEC4eKxiJbj4YMz5sx%2By%2Fg6gNTZoykOJ3u6iFDkMjs2Vx4M%2Bj84%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768308449&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=208DDGutK9w%2BIs2NynAB%2Fh%2FbTLwQJjrEyxdJUy37bwG0HStTXAy4XP9gnQlldEUe44cXTIJ6OU5x6oRPnNk2WVaZi8tQkyZkV4CYZslwP6bHbzlwkOjbCATokCLRblWxUgHCc8CNdmpSyiLF5ttI%2FNulsKIHrv0cDOcfkStj6J4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1782,7 +1782,7 @@
 - **イトヨリ** (Sep 04, 2025 08:34am): オーイシマサヨシMrsなら、 Carrying HappinessとかOn My MiND
 - **Ice Box🧊** (Sep 06, 2025 08:41am): ミセスグリーンアップルさんのライラックと点描の唄とインフェルノが好きです！
 - **あめぇ↑!りかんどっく　＠くるみ教** (Sep 02, 2025 10:59pm): 髭男
-- **あ** (Sep 04, 2025 11:46am): 浜崎あゆみ
+- **夢見る少女じゃいられない** (Sep 04, 2025 11:46am): 浜崎あゆみ
 - **Enthusiastic Goldfish** (Sep 25, 2025 01:41am): yellow backsだね
 - **ポップコーン** (Sep 08, 2025 02:53am): 点描の唄いいよね！！
 - **ポップコーン** (Sep 01, 2025 12:14pm): クスシキもまじいい👍
