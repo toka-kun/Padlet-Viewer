@@ -28,7 +28,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768365755&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qCP%2BhQq3FrPjnjhI4b%2BUOqNnynRtTKf3312SabLqiggmP364u648YhKqG%2FTfwexrTpumZUkZVqbmebhxHgvsyxfw2XSh1WH%2BFh8Jiwsjzl%2Fyo2FsIvSgrTErt9%2B9kfcU7BeITZMjgOjUcLcUExgv7AnIzZyWdzz1%2BWqtlZ7KKX4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768368446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=unTVtn7J4l7D1InFLqF%2B5K2Ix3tEMNLdcMsmtPT%2BdDD9JKeigSjog5lL2E2lhTfF4z75rW3ORIDTQEWD0WG75J3T%2BRG68sH0DcY4Kvm00i0%2Fl38k3U%2FFwhEFUD1yJtY80hKAi%2FVJ962BbFYgEz%2Bd8lDDz9XLXWjZxJQO8vNTJwY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -374,7 +374,7 @@
 #### Comments (3)
 - **オムライス** (Sep 16, 2025 11:53pm): 再読み込み
 - **Charismatic Tiger** (Sep 10, 2025 12:14pm): どうやってつかうんですか
-- **soutander** (Sep 26, 2025 01:37pm): 前まで使えましたが、最近はエラーが出て使えないです
+- **ちむ** (Sep 26, 2025 01:37pm): 前まで使えましたが、最近はエラーが出て使えないです
 
 #### Additional Information
 - **Post color:** White
