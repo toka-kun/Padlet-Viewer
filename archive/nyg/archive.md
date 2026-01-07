@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768382956&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BD9ChkmeMHX96V9BxhK0bn1uiGpFiBMZuEAK8lZHB9C08g4Zpw9PI%2BB4BbzWtRskq66G%2BGbHI2Rb2l4YhHa%2F3WWS10nf5E%2Ba9AjXCk%2BK5VlHxUd8Ldt0oRI6KVcQ8yczvk1IhlKezzCl34QLhQPWjE4vKYZTDgPGAzM8PjKoofg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768386377&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=THlBAM804bujWsoaOMn5WSujqFiUX8tV4JnZhNL1zGEVdQpZ09eeh3Njf80cCdVjNPxX9KfS%2BaV3Q5%2FhVwZwFTDnSqMqFVTXUgoNMrHeTIy1iHpXGj35p9cN%2BP%2FEIXB7Xu0N3RmUjbPa%2Fd%2Bs8FBBEHMC1WBj1GKEERlJ5099gns%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1225,7 +1225,7 @@
 - **woolisbest** (Nov 27, 2025 09:12am): w
 - **woolisbest** (Dec 01, 2025 07:57am): それもそう
 - **プロキシ初心者学校のiPadの制限解除したい** (Nov 27, 2025 02:15am): 全部やってほしいです
-- **大日本軍事型自由主義人民共和帝国連邦 元総書記 現FBI及びCIA総部長 射撃部部長 対策委員会委員長 銃器対策委員会委員長 銃器対策部隊隊長 SAT部隊隊長 2√3番目のれいなの弟子** (Nov 29, 2025 12:49pm): 自作じゃないとブロック定期
+- **高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長       2√3番目のれいなの弟子** (Nov 29, 2025 12:49pm): 自作じゃないとブロック定期
 - **プロキシ初心者** (Dec 02, 2025 01:08am): Woolisbestさんプロキシ作るってどういうことですか？wwwすごすぎません？ 
 - **削除済みユーザー** (Dec 02, 2025 07:27am): コードとかはあんま組まなくても作れるけど労力かかることは変わらないわなすげぇ
 - **削除してないずみユーザー** (Dec 03, 2025 01:32am): やり方教えてくれませんか？
