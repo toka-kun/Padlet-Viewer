@@ -1423,7 +1423,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768398034&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CKX3hkZhbqHkocCDBYCPG9YkIFNOuhmHCsjqHBr7%2Fi9rAXsSv5dCEhgHtZAzjpjQOOOuLJUMYJvXIiahqKH4c1u9rOBN8DGObmYXX0q983p2UsjIujH95l24620lmT%2F60y15GY%2BMVq6olAjWVSL73QaigP%2FRmT4VkXJdJeXHLig%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768400752&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lWxPcYjJ1iS7SoO6LxEfTtcsV2Krwc9Up9v83NlBDktxCiZOLCMhyW8LlvHq9vMPUjyRnfxqcFJvtpi3t8FCz9FCqQTC26Pa9XgqiLFvq36sZd%2Fuhw%2Bdois%2F515zpPXgeDdAjHYN4L3vGXfoYzHakTmGs9t0nwIb7BUxJ8kSBJ8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
