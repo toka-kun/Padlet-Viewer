@@ -5,9 +5,9 @@
 ## Summary
 - **Link:** https://padlet.com/woolisbest/woolisbest-wo6pj5yfmqsue2rh
 - **Builder:** woolisbest (woolisbest)
-- **Posts:** 70
+- **Posts:** 61
 - **Created At (UTC):** Nov 30, 2025 01:57am
-- **Updated At (UTC):** Jan 06, 2026 10:18pm
+- **Updated At (UTC):** Jan 07, 2026 12:25am
 
 ## ルール
 
@@ -100,87 +100,16 @@
 
 <p>つくるかも...</p>
 
-#### Comments (80)
+#### Comments (9)
 - **あまつき** (Dec 19, 2025 01:45pm): れんtubeがほしいです
-- **woolisbest** (Dec 18, 2025 06:28am): ww
-- **woolisbest** (Dec 16, 2025 08:56am): ww
-- **woolisbest** (Dec 19, 2025 05:36am): ....
-- **woolisbest** (Jan 05, 2026 12:10pm): でもサイトに10000個載せちゃってるから新しいやつを探すのがむずい
-- **woolisbest** (Dec 12, 2025 11:52pm): 久ぶりに全種類投稿してもいいな
-- **あまつき** (Dec 17, 2025 09:05am): ｗｗ
-- **さなだまひろ** (Dec 24, 2025 12:13am): プロキシじゃないんですけど、えそらんぐ作ってください！ｗ
-- **さなだまひろ** (Dec 24, 2025 12:14am): BrainFみたいなやつだよ
-- **さなだまひろ** (Dec 24, 2025 12:27am): stickmanhookあげるからお願いします
-- **あまつき** (Dec 19, 2025 06:51am): ？
-- **woolisbest** (Dec 11, 2025 11:04am): おk
-- **woolisbest** (Jan 05, 2026 07:32am): 遅れてごめん
-- **woolisbest** (Jan 05, 2026 07:32am): 2026個配布したいw
-- **Dapper Piranha** (Dec 24, 2025 03:50am): ディスコードってプロキシですか？
-- **Dapper Piranha** (Dec 24, 2025 03:50am): ディスコードってプロキシですか？
-- **woolisbest** (Jan 06, 2026 12:24pm): プロキシねぇ...
-- **Secretive Platypus** (Dec 24, 2025 06:23am): なわけないだろ
+- **woolisbest** (Jan 07, 2026 12:14am): ww
 - **Yusho** (Dec 14, 2025 03:18am): wktk
-- **Yusho** (Dec 17, 2025 11:52am): 笑いの連鎖はまだまだ続く↓
-- **削除済みユーザー** (Dec 24, 2025 08:40am): ディスコードはアプリな笑
-- **Unique Robin** (Dec 24, 2025 10:22am): ならプロキシ部屋におくなよ
-- **Unique Robin** (Dec 24, 2025 10:22am): は？
-- **Unique Robin** (Dec 24, 2025 10:22am): ならプロキシ部屋におくなよ
-- **Unique Robin** (Dec 24, 2025 10:22am): は？
-- **Clever Llama** (Dec 24, 2025 12:33pm): Discordプロキシなわけないw
-- **Clever Llama** (Dec 24, 2025 12:33pm): 草
-- **Clever Llama** (Dec 24, 2025 12:34pm): ゲームできるけどw
-- **woolisbest** (Dec 17, 2025 12:24pm): 草
-- **woolisbest** (Dec 16, 2025 03:10pm): w
-- **Yusho** (Jan 05, 2026 10:41am): ｗｗｗ
-- **あまつき** (Dec 13, 2025 02:18pm): しあtubeをください
-- **woolisbest** (Jan 06, 2026 12:25pm): 久しぶりに作るかぁ...
-- **woolisbest** (Dec 20, 2025 03:17am): ok
-- **Yusho** (Jan 05, 2026 10:41am): そこまで配ってくれるなら願ってもないことだ
-- **あまつき** (Dec 20, 2025 05:40am): ありがとうございます
-- **sanadamahiro** (Dec 24, 2025 09:04pm): お前アホか？セクション名見ろや
-- **Yusho** (Dec 31, 2025 11:53pm): 謹賀新年
 - **Yusho** (Dec 31, 2025 11:53pm): Utopiaほしい〜（便乗）
-- **Yusho** (Dec 31, 2025 11:53pm): 今年もよろしくお願いします
-- **woolisbest** (Jan 06, 2026 12:25pm): ちゃんと探せば10000でも20000でもあるんだけどねぇ...
-- **あまつき** (Jan 01, 2026 09:30am): あけおめことよろ❗️
-- **Yusho** (Dec 16, 2025 12:48pm): ｗ
-- **Yusho** (Dec 12, 2025 01:21am): あざす！
-- **あまつき** (Dec 25, 2025 06:20am): [Attachment](https://padlet.com/woolisbest/woolisbest-wo6pj5yfmqsue2rh/wish/lkROZPAplLgMWjMg) ↑の画像何？変なアプデいらなぁ〜
-- **スパイス** (Dec 25, 2025 07:42am): ｗｗ
-- **Hopeful Eel** (Dec 25, 2025 10:28am): 変なアプデいらないんだったらほかの使えよ
-- **Hopeful Eel** (Dec 25, 2025 10:27am): 変なアプデ？これさ、努力の結晶なんだよ？コード一つ終わらせるのにどれぐらい時間かかると思ってるの？
-- **Yusho** (Jan 06, 2026 02:21am): Oh....
-- **woolisbest** (Dec 25, 2025 12:01pm): 変なアプデは草...
-- **woolisbest** (Dec 25, 2025 12:02pm): 確かにイメージとは違うけど
-- **woolisbest** (Dec 25, 2025 12:02pm): Solo Centralを馬鹿にするのは許さんぞー
-- **あまつき** (Dec 25, 2025 01:10pm): 悪い意味ではなくて別にしてほしいです
-- **woolisbest** (Jan 06, 2026 03:51am): w
 - **🔥javascript:prompt 'Extension IDs🔥** (Jan 06, 2026 05:30am): I-FILTER突破できるやつ欲しいー（なんでもいい）
 - **Yusho** (Dec 11, 2025 09:37am): Utopiaです！
-- **削除済みユーザー** (Dec 13, 2025 09:19am): ktkr
-- **あまつき** (Dec 16, 2025 01:07pm): なにかおもしろいことつぶやきました？？
-- **あまつき** (Dec 17, 2025 11:42pm): ｗｗ
-- **Yusho** (Dec 16, 2025 11:38pm): 草
-- **Yusho** (Dec 18, 2025 08:29am): (゜∀。)ﾜﾋｬﾋｬﾋｬﾋｬﾋｬﾋｬ
-- **Adorable Chipmunk** (Dec 18, 2025 10:00am): うひゃひゃひゃひゃ
-- **あまつき** (Dec 18, 2025 10:21am): いつまで続けるんですか？？
-- **woolisbest** (Dec 18, 2025 10:20am): ww
-- **Yusho** (Dec 18, 2025 10:46am): いつまでも、、、、（遠い目）
-- **あまつき** (Dec 18, 2025 11:58pm): あぁ〜
-- **Compassionate Macaw** (Dec 25, 2025 10:26pm): あと虹色のduck押せばもとのやつできるよ
-- **Compassionate Macaw** (Dec 25, 2025 10:00pm): ガチでさあ...solosentralはUIも奇麗だし、ｺｰﾄﾞにもリスペクトするところあるんだよ
-- **woolisbest** (Dec 25, 2025 11:15pm): 使えないから意味ない
-- **woolisbest** (Dec 25, 2025 11:17pm): Soloのリンクの作り方知りたい
-- **Kind Chipmunk** (Dec 26, 2025 02:16am): 作り方？
-- **Kind Chipmunk** (Dec 26, 2025 02:16am): デプロイってこと？
 - **絵が好きなももちゃ** (Dec 29, 2025 09:48am): ダンウローダほしい～
-- **Yusho** (Jan 06, 2026 08:15am): ワイもー（便乗²）
 - **sakuzyo** (Jan 06, 2026 09:19am): youtubemp4ダウンローダー
-- **woolisbest** (Jan 06, 2026 09:22am): w
-- **woolisbest** (Jan 06, 2026 08:40am): 学タブ5種類くらい欲しいw
-- **woolisbest** (Jan 06, 2026 08:40am): Ifil分からんな...
 - **ウルトラソウル＃先生にバレただるい** (Jan 06, 2026 09:51am): i-フィルター&ISGC勢に救済を,,,woolisbest様ぁぁお願いしますぅ
-- **Yusho** (Jan 06, 2026 10:28am): ワイもI-filter
 
 #### Additional Information
 - **Post color:** Blue
@@ -191,64 +120,15 @@
 
 ## 要望があったもの
 
-### 1. gaming escape
+### 1. しあtube
 **Author:** woolisbest (woolisbest)
 
-#### Comments (4)
-- **woolisbest** (Dec 10, 2025 12:35am): https://gr4ys0n.github.io/index.html
-- **woolisbest** (Dec 10, 2025 12:34am): https://www.gaming-escape.com/index.html
-- **woolisbest** (Dec 10, 2025 12:34am): https://gaming-escape.freetls.fastly.net/index.html
-- **woolisbest** (Dec 10, 2025 12:34am): https://www.gaming-escape.com/index.html
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Dec 10, 2025 12:19am
-- **Updated At (UTC):** Dec 10, 2025 12:47am
-
----
-
-### 2. Buildnow gg
-**Author:** woolisbest (woolisbest)
-
-#### Comments (13)
-- **woolisbest** (Dec 10, 2025 12:21am): https://phexus.bitbucket.io/gxmes/buildnow.gg/
-- **woolisbest** (Dec 10, 2025 12:21am): https://buildnow-gg.io/
-- **woolisbest** (Dec 10, 2025 12:20am): https://classroom-6x.io/game/buildnow-gg/
-- **woolisbest** (Dec 10, 2025 12:20am): https://buildnowgg.io/buildnow-gg-unblocked
-- **woolisbest** (Dec 10, 2025 12:21am): https://gnhustgames.github.io/buildnowgg-online/
-- **woolisbest** (Dec 10, 2025 12:21am): https://gamepluto.com/game/buildnow-gg/
-- **woolisbest** (Dec 10, 2025 12:21am): https://brainide.com/game/build-now-gg/#google_vignette
-- **woolisbest** (Dec 10, 2025 12:21am): https://gnhustgames.github.io/buildnowgg/
-- **woolisbest** (Dec 10, 2025 12:21am): https://frivez.com/buildnow-gg
-- **woolisbest** (Dec 10, 2025 12:21am): https://webcatalog.io/en/games/buildnow-gg
-- **woolisbest** (Dec 10, 2025 12:22am): https://drfone.wondershare.com/unlock/build-now-gg-unblocked.html
-- **woolisbest** (Dec 10, 2025 12:22am): https://www.crazygames.com/game/buildnow-gg
-- **woolisbest** (Dec 10, 2025 12:22am): https://gaming.clickdo.co.uk/build-now-gg-unblocked/
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Dec 10, 2025 12:19am
-- **Updated At (UTC):** Dec 10, 2025 12:22am
-
----
-
-### 3. わかめtube
-**Author:** woolisbest (woolisbest)
+<p><a rel="noopener noreferrer nofollow" href="https://html.cafe/xd4870ee3">https://html.cafe/xd4870ee3</a></p><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/xcd423936">https://html.cafe/xcd423936</a></p><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/xe3cb808a">https://html.cafe/xe3cb808a</a></p><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbzA0pSEaCuLy0I7sZnZdvLKHCgcGbSCPbVLNVLxkj8aWWKMrHpsEDBGcx-cOhk4jwP2/exec">https://script.google.com/macros/s/AKfycbzA0pSEaCuLy0I7sZnZdvLKHCgcGbSCPbVLNVLxkj8aWWKMrHpsEDBGcx-cOhk4jwP2/exec</a></p>
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 10, 2025 12:20am
-- **Updated At (UTC):** Dec 10, 2025 12:20am
-
----
-
-### 4. croxyproxy
-**Author:** woolisbest (woolisbest)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 10, 2025 12:20am
-- **Updated At (UTC):** Dec 10, 2025 12:20am
+- **Created At (UTC):** Jan 06, 2026 11:36pm
+- **Updated At (UTC):** Jan 06, 2026 11:37pm
 
 ---
 
@@ -326,7 +206,7 @@
 
 <p>gn-mathが死にました...(DMCA削除通知によりリポジトリが利用不可です。</p><p>このリポジトリは現在、DMCA削除通知により無効化されています。リポジトリへの公開アクセスを停止しました。通知は公開されています。</p><p>リポジトリの所有者であり、誤りや誤認によりリポジトリが無効化されたとお考えの場合は、反論通知を提出しリポジトリを復元する権利があります。当社のヘルプ記事では、DMCA 削除ポリシーの詳細と反論通知の提出方法について説明しています。このプロセスや反論通知提出に伴うリスクについてご質問がある場合は、弁護士に相談されることをお勧めします。)Deepl翻訳です</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/e820002dc52dc34bb27e1d2425d31ef0/image.png?Expires=1768346537&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=z4QVPiGpdgpn97pXzIjiZg0xX6YaPFyLw%2BupINWl1ru%2BQKslCsvzMy6YdKJrg67vMbT78mMjOLLh7dn2fqak4gi3oH40kS0bqisQvFdi1oZDrpqRNP9DNC49fHGd01rcnLKXR3dfmeengl%2B1vIWFdsIAxLnLVDCxS%2Bf7zZOQSxE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fe820002dc52dc34bb27e1d2425d31ef0%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/e820002dc52dc34bb27e1d2425d31ef0/image.png?Expires=1768355393&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DnLAwd8YiP4Rj5CRdnccMPgq3YWKflTCNH0v4EpZpjvjRuqIvrjeYXkGC%2BJlgpHZDDYJGXrVatJpWmgMtrov3VZRAKppSixgRRACnZjGRZa7Cf6xCiWpv0TvGGltpc6Pg7nHYEyzIWwaNo8fOddCOwNZa7B0O%2FWkqUc%2BeEu7jiQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fe820002dc52dc34bb27e1d2425d31ef0%2Fimage.png)
 
 #### Comments (4)
 - **Natsu** (Dec 18, 2025 02:23am): よくわかんない♡
@@ -844,31 +724,7 @@
 
 ---
 
-### 2. WOOLtube
-**Author:** woolisbest (woolisbest)
-
-[Attachment](https://wool-tube.onrender.com/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Nov 30, 2025 01:57am
-- **Updated At (UTC):** Nov 30, 2025 01:57am
-
----
-
-### 3. わかめ
-**Author:** 削除済みユーザー
-
-<p><a rel="noopener noreferrer nofollow" href="https://jsyamato.onrender.com/login">https://jsyamato.onrender.com/login</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://c148-339-re.onrender.com/login">https://c148-339-re.onrender.com/login</a></p>
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Nov 30, 2025 01:57am
-- **Updated At (UTC):** Nov 30, 2025 01:57am
-
----
-
-### 4. ダウンローダー
+### 2. ダウンローダー
 **Author:** 削除済みユーザー
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.kapwing.com/ja/tools/convert">https://www.kapwing.com/ja/tools/convert</a></p><p><a rel="noopener noreferrer nofollow" href="https://at.ggtyler.dev/">https://at.ggtyler.dev/</a></p>
@@ -918,6 +774,73 @@
 
 ---
 
+## GAME
+
+### 1. GAME
+**Author:** woolisbest (woolisbest)
+
+[Attachment](https://prismlite.codehs.me/)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 10, 2025 12:55am
+- **Updated At (UTC):** Jan 06, 2026 11:38pm
+
+---
+
+### 2. Buildnow gg
+**Author:** woolisbest (woolisbest)
+
+#### Comments (13)
+- **woolisbest** (Dec 10, 2025 12:21am): https://phexus.bitbucket.io/gxmes/buildnow.gg/
+- **woolisbest** (Dec 10, 2025 12:21am): https://buildnow-gg.io/
+- **woolisbest** (Dec 10, 2025 12:20am): https://classroom-6x.io/game/buildnow-gg/
+- **woolisbest** (Dec 10, 2025 12:20am): https://buildnowgg.io/buildnow-gg-unblocked
+- **woolisbest** (Dec 10, 2025 12:21am): https://gnhustgames.github.io/buildnowgg-online/
+- **woolisbest** (Dec 10, 2025 12:21am): https://gamepluto.com/game/buildnow-gg/
+- **woolisbest** (Dec 10, 2025 12:21am): https://brainide.com/game/build-now-gg/#google_vignette
+- **woolisbest** (Dec 10, 2025 12:21am): https://gnhustgames.github.io/buildnowgg/
+- **woolisbest** (Dec 10, 2025 12:21am): https://frivez.com/buildnow-gg
+- **woolisbest** (Dec 10, 2025 12:21am): https://webcatalog.io/en/games/buildnow-gg
+- **woolisbest** (Dec 10, 2025 12:22am): https://drfone.wondershare.com/unlock/build-now-gg-unblocked.html
+- **woolisbest** (Dec 10, 2025 12:22am): https://www.crazygames.com/game/buildnow-gg
+- **woolisbest** (Dec 10, 2025 12:22am): https://gaming.clickdo.co.uk/build-now-gg-unblocked/
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 10, 2025 12:19am
+- **Updated At (UTC):** Jan 06, 2026 11:38pm
+
+---
+
+### 3. gaming escape
+**Author:** woolisbest (woolisbest)
+
+#### Comments (4)
+- **woolisbest** (Dec 10, 2025 12:35am): https://gr4ys0n.github.io/index.html
+- **woolisbest** (Dec 10, 2025 12:34am): https://www.gaming-escape.com/index.html
+- **woolisbest** (Dec 10, 2025 12:34am): https://gaming-escape.freetls.fastly.net/index.html
+- **woolisbest** (Dec 10, 2025 12:34am): https://www.gaming-escape.com/index.html
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 10, 2025 12:19am
+- **Updated At (UTC):** Jan 06, 2026 11:38pm
+
+---
+
+### 4. 一回やるとできなくなるかもだからそうなったらロードし直して
+**Author:** mimikkyu (ft111711)
+
+[Attachment](https://rawcdn.githack.com/lioxryt/lioxryt-assets/0cf7d107ddb99c99ea20387522aa29b8ee382049/other/funnyshooter2/index.html)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Nov 30, 2025 01:57am
+- **Updated At (UTC):** Jan 06, 2026 11:39pm
+
+---
+
 ## その他
 
 ### 1. その他
@@ -945,19 +868,7 @@
 
 ---
 
-### 2. GAME
-**Author:** woolisbest (woolisbest)
-
-[Attachment](https://prismlite.codehs.me/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 10, 2025 12:55am
-- **Updated At (UTC):** Dec 10, 2025 12:55am
-
----
-
-### 3. space
+### 2. space
 **Author:** woolisbest (woolisbest)
 
 <p><a rel="noopener noreferrer nofollow" href="http://freedns.afraid.org/subdomain/edit.php?data_id=24851181"><br></a><a rel="noopener noreferrer nofollow" href="http://space-aoba.mooo.com">space-aoba.mooo.com</a></p>
@@ -969,30 +880,18 @@
 
 ---
 
-### 4. bordom
+### 3. bordom
 **Author:** woolisbest (woolisbest)
 
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Nov 30, 2025 01:57am
-- **Updated At (UTC):** Nov 30, 2025 01:57am
+- **Updated At (UTC):** Jan 06, 2026 11:38pm
 
 ---
 
-### 5. space
+### 4. space
 **Author:** woolisbest (woolisbest)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Nov 30, 2025 01:57am
-- **Updated At (UTC):** Nov 30, 2025 01:57am
-
----
-
-### 6. 一回やるとできなくなるかもだからそうなったらロードし直して
-**Author:** mimikkyu (ft111711)
-
-[Attachment](https://rawcdn.githack.com/lioxryt/lioxryt-assets/0cf7d107ddb99c99ea20387522aa29b8ee382049/other/funnyshooter2/index.html)
 
 #### Additional Information
 - **Post color:** White
@@ -1003,19 +902,7 @@
 
 ## WOOLtube
 
-### 1. Render
-**Author:** 削除済みユーザー
-
-<p><a rel="noopener noreferrer nofollow" href="https://github.com/">github</a>に新規登録orログイン</p><p>公式リポジトリ（右）をFork</p><p><a rel="noopener noreferrer nofollow" href="https://render.com/">Render</a>に<a rel="noopener noreferrer nofollow" href="https://github.com/">github</a>アカウントで新規登録orログイン</p><p>New→(static site)を選択</p><p>Nameは好きに選ぶ（変更しなくてもOK)</p><p>Root Directoryには[.]、Publish Directoryには[./]を入力</p><p>一番下の[Deploy static site]のボタンを押す</p><p>30秒ほど待つと完成です。</p>
-
-#### Additional Information
-- **Post color:** Green
-- **Created At (UTC):** Oct 26, 2025 06:43am
-- **Updated At (UTC):** Nov 30, 2025 01:59am
-
----
-
-### 2. 公式リンク
+### 1. 公式リンク
 **Author:** woolisbest (woolisbest)
 
 <p><strong>通常のリンク</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wooltube.onrender.com/">https://wooltube.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wooltube-public.onrender.com/">https://wooltube-public.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/xf2e88030">https://html.cafe/xf2e88030</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wool-tube.onrender.com/">https://wool-tube.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://woolisbest.f5.si/">http://woolisbest.f5.si/</a></p></li></ul><p><strong>プロキシ強化版</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wooltube.onrender.com/proxy">https://wooltube.onrender.com/proxy</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wooltube-public.onrender.com/proxy">https://wooltube-public.onrender.com/proxy</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wool-tube.onrender.com/proxy">https://wool-tube.onrender.com/proxy</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://woolisbest.f5.si/proxy">http://woolisbest.f5.si/proxy</a></p></li></ul><p><strong>検索強化版</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wooltube-search.onrender.com/">https://wooltube-search.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wooltube-donotshare.onrender.com/">https://wooltube-donotshare.onrender.com/</a></p></li></ul>
@@ -1027,128 +914,92 @@
 
 ---
 
-### 3. [7/101日]一日一wooltubeデプロイ gas 
-**Author:** 削除済みユーザー
+### 2. wooltube
+**Author:** woolisbest (woolisbest)
 
-<p><a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbxFaUaw-Lm7lqa2QwOVkDDy7qz_nzW8vTCHsWbP6Qvl1xRAbnfLpwDovEjIRZmP1kvX/exec">defwooltube</a> / note gas用のコードを使わせていただきました。ちょっといじりました。動くかどうかは調べてないけど大丈夫でしょう。(適当)</p>
-
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/10e8db9d17c0eb6d4950b803c964d42b/image.png?Expires=1768346538&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mnllzvspW5nR%2BqcCCA3SayDKE%2BfXcLK6THoUYcVlcuhzpzGmS0ZK59jYKI1YncFgwUJt1SpzD6SvbkgFbYFr0wNziP2tUgcUSt4I1kN7CGD3WPmPKqqrFZfeZA4xH5nzTdXPLiXvLxLg%2BpNqXQNeUSr5Kw2S6dix%2FDHJoC83nEc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2F10e8db9d17c0eb6d4950b803c964d42b%2Fimage.png)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 14, 2025 09:39am
-- **Updated At (UTC):** Dec 15, 2025 09:15am
-
----
-
-### 4. [6/101日]一日一wooltube デプロイ ハズレ
-**Author:** 削除済みユーザー
-
-<p>ちょっとだけ休みます()ハズレが出た分未来の自分に借金します。</p>
-
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/47d311630903ac6ae0d724e02f650b6a/image.png?Expires=1768346538&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=L1YownqK1%2FyQFq6ci60NUbZltdN%2FGs1MeX8t%2FXhULGRgKJIzjwjdegVEPrrLmhbdmHSI2JksTSX26gV1tnO5A8deLpCBIb2LkgU33McL5w12loXgxNZPNBT4iBmWTqyns825rt1uDLQiGTsFi4SIRMG4H5IukOYBwx9U2Cxu7wc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2F47d311630903ac6ae0d724e02f650b6a%2Fimage.png)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 12, 2025 08:29pm
-- **Updated At (UTC):** Dec 12, 2025 08:30pm
-
----
-
-### 5. [5/100日]一日一wooltube デプロイ5日目記念！render小祭り！！
-**Author:** 削除済みユーザー
-
-<p><a rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Wojix/assets/refs/heads/main/txt/WOOLtube-render">https://raw.githubusercontent.com/Wojix/assets/refs/heads/main/txt/WOOLtube-render </a>リンクオープナーとかで開いてください！！5日記念なので5x10で50です！あとコメントで次大量デプロイしてほしいサービス(renderとかrenderとかrender)を言ってください！10日記念にやります！！あとまだ終わってないです！！</p>
-
-[Attachment](https://raw.githubusercontent.com/Wojix/assets/refs/heads/main/txt/WOOLtube-render)
-
-#### Comments (4)
-- **削除済みユーザー** (Dec 12, 2025 11:08pm): okk
-- **削除済みユーザー** (Dec 12, 2025 11:14pm): railwayって7日しか使えないやつやん...
-- **woolisbest** (Dec 12, 2025 12:50pm): railway
-- **woolisbest** (Dec 12, 2025 11:51pm): www
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 11, 2025 07:50pm
-- **Updated At (UTC):** Dec 12, 2025 11:11pm
-
----
-
-### 6. [4/100日] 一日一wooltube デプロイ gas (google apps script)
-**Author:** 削除済みユーザー
-
-<p><a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbwR6UgMi8RPmjZ1aSd5jZmFhqHNXXPPz7ZXMvKFt4hM52QRboaqKTZfeJTY352Apk_2/exec">defwooltube</a> <a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbzr6TU6FsjDXkm_GSviSGDjlQ6bIQi-dFnyDZjtCtIzJwLgbW3n0E5U4NlK5KFr5Kgn/exec">eduwooltube</a></p>
-
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/998263cdec652fd98e5815c9e97273e2/image.png?Expires=1768346538&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ejzMR5FK35jFPuyOJe3X17V%2BT4hwLp0iB2VYLF87yQnZW73Yw0Pa2szMtwF5tyCTA3aP0CPv%2FjUCU%2FMKhOm%2F9hScYRQmqnmDwBzAu13XcKxnjQ1RqjwokXjPVSWmRUSlciatH2jWHC5rWgH8D1tr0IjMLkscuugtCYFnSKL5hEo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2F998263cdec652fd98e5815c9e97273e2%2Fimage.png)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 10, 2025 09:24pm
-- **Updated At (UTC):** Dec 10, 2025 09:24pm
-
----
-
-### 7. [3/100日目] 一日一wooltubeデプロイ render
-**Author:** 削除済みユーザー
-
-<p><a rel="noopener noreferrer nofollow" href="https://wooltube-a4zz.onrender.com/">defwooltube</a> <a rel="noopener noreferrer nofollow" href="https://wooltube-education-88ts.onrender.com/">eduwooltube</a></p>
-
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/d2cda20e5ed4f6ee2f8c1a636611e40e/image.png?Expires=1768346538&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yeSIhjvzNInlZQUfmufuu6%2F01qBZpDrjhDQf%2BikGxf4SjegjK%2BVQcKu7NvP6XWL8w2bopMfVmyIOmTg0Dr21KjNFasbSNS%2BEDqMHrerZZdM6rwBdanN5%2FvDXsARgXnx%2F4LAPzVwUPRBw9xM%2BbQcHEoXo3aVltXsC659iEHiwfEI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fd2cda20e5ed4f6ee2f8c1a636611e40e%2Fimage.png)
+<pre><code>https://education-347547653324.onrender.com
+https://sixt6trhdmurdgy.onrender.com
+https://threey47edxyhdick.onrender.com
+https://two34edrtfvgb.onrender.com
+https://zero98hybhfv.onrender.com
+https://nine8yumf1q2swed4crfv.onrender.com
+https://otyufre555hgvj.onrender.com
+https://irdybjduhrdguyf.onrender.com
+https://fiveer7gyfdnjicnirsuyux.onrender.com
+https://five46ergtydbhc.onrender.com
+https://ghfggdgf.onrender.com
+https://rdtgfdhgfxr6t.onrender.com
+https://fscvhgftrdefghugyftxy.onrender.com
+https://gfsdfyghvhgcfrdtrftyghvhgft.onrender.com
+https://ghdfghjhhuyjgfxcvb.onrender.com
+https://rtvgybhnj.onrender.com
+https://djjriuhtbrnfisdgtytfg.onrender.com
+https://ftuxkhjhxcjhjxh.onrender.com
+https://tgbnbvcxd.onrender.com
+https://ohgcx.onrender.com
+https://qwfgbnoihvc.onrender.com
+https://asdfghjklqwfgn.onrender.com
+https://wooltube-ggwg.onrender.com
+https://ikuikuiuikukiiukiukikuikuikuikuikuikuiki.onrender.com
+https://bnjdrtg.onrender.com
+https://one234567753234567.onrender.com
+https://qdertyg76yuu.onrender.com
+https://zerooktghpdtyfj.onrender.com
+https://o0o0000oo0o00o0o0o0o0o.onrender.com
+https://o0o00o0o0o0o0oo0o00o0o0o0o0oo0o0o.onrender.com
+https://zerooo0o00oo0o00o0o0o0o.onrender.com
+https://illilililililililililiilililillilililili.onrender.com
+https://ygtrnjduyrd.onrender.com
+https://gtyrjnduty.onrender.com
+https://rgydfujx.onrender.com
+https://five6gd7rfyuhxdcn.onrender.com
+https://qa3wsertvgybhnj.onrender.com
+https://five4regdshdrygtgdh.onrender.com
+https://drfgvbhbfrr.onrender.com
+https://trbgfhcndgyrbhfjnrgytuf.onrender.com
+https://sedrfybuhnjnt.onrender.com
+https://r6eydhsjixmfruy.onrender.com
+https://vgbhnjnuhgrtegbhe.onrender.com
+https://yrbhndjsirhydhyf.onrender.com
+https://gnvmifutshgnfjcnhgnj.onrender.com
+https://hnji5ygbrfhdnhbfgtf.onrender.com
+https://avftghjhnbgvftrcefvgb.onrender.com
+https://erftgybhnhgyvtfcxs.onrender.com
+https://rfgybhnjnhbgvfce.onrender.com
+https://tyjmjnhbgvfcd.onrender.com
+https://degbhnjmkmjnhbgvfcd.onrender.com
+https://qwergbhnjnh.onrender.com</code></pre>
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 09, 2025 08:01pm
-- **Updated At (UTC):** Dec 09, 2025 08:01pm
+- **Created At (UTC):** Jan 06, 2026 11:40pm
+- **Updated At (UTC):** Jan 06, 2026 11:40pm
 
 ---
 
-### 8. [1/100日目] 一日一wooltubeデプロイ cloudflare pages
+### 3. Render
 **Author:** 削除済みユーザー
 
-<p><a rel="noopener noreferrer nofollow" href="https://math-a8u.pages.dev/">defwooltube</a> <a rel="noopener noreferrer nofollow" href="https://education-a0u.pages.dev/">eduwooltube</a></p>
-
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/2a3efbbf0c746e787e0f181f3e9c5881/image.png?Expires=1768346538&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EYX96eKnkUan1ak44ZVQE39DjlmShlZhA0GH6pe9jeFxeKv0W5NYPheaAYNyvkAfMiRSMqEv6ZecgN9iUcIH4g8s1ZP90cJ7ENpd1FMkUqELBFyCHeZ3GqFmGGs3yDHCeExYt53CFJEOFV21sJmusyEr1S7v4JXV32EuvdG3HY4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2F2a3efbbf0c746e787e0f181f3e9c5881%2Fimage.png)
-
-#### Comments (2)
-- **削除済みユーザー** (Dec 14, 2025 08:33pm): dead :wave:
-- **削除済みユーザー** (Dec 14, 2025 08:33pm): its dont works
-
-#### Reactions
-- **Number of likes:** 1
+<p><a rel="noopener noreferrer nofollow" href="https://github.com/">github</a>に新規登録orログイン</p><p>公式リポジトリ（右）をFork</p><p><a rel="noopener noreferrer nofollow" href="https://render.com/">Render</a>に<a rel="noopener noreferrer nofollow" href="https://github.com/">github</a>アカウントで新規登録orログイン</p><p>New→(static site)を選択</p><p>Nameは好きに選ぶ（変更しなくてもOK)</p><p>Root Directoryには[.]、Publish Directoryには[./]を入力</p><p>一番下の[Deploy static site]のボタンを押す</p><p>30秒ほど待つと完成です。</p>
 
 #### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 07, 2025 09:17pm
-- **Updated At (UTC):** Dec 09, 2025 05:08am
+- **Post color:** Green
+- **Created At (UTC):** Oct 26, 2025 06:43am
+- **Updated At (UTC):** Jan 06, 2026 11:40pm
 
 ---
 
-### 9. [2/100日目] 一日一wooltubeデプロイ github pages
+### 4. 非公式リンク　作成者に感謝します。
 **Author:** 削除済みユーザー
 
-<p><a rel="noopener noreferrer nofollow" href="https://wojix-test.github.io/WOOLtube/">defwooltube</a> <a rel="noopener noreferrer nofollow" href="https://wojix-test.github.io/wooltube-education/">eduwooltube</a></p>
-
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/7ce547c7c51d68f2372e7701d16bb5b6/image.png?Expires=1768346538&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pCAdL1SOmZ3GpHjHvFJTmY2rELw1D%2FyMEpkx1msqobULzZWMEaNB%2F0Te%2Fl4RfEQBWDoxSE4DfPtx0yZRd5eE0qqiRu0tmEliu08eVq6tjrJyAPa4%2Bi7wRfBjrmkUgpuxyMLM2ggS6eupR%2B2XNwPnOZLwffTzoHPmPG3thdQbC24%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2F7ce547c7c51d68f2372e7701d16bb5b6%2Fimage.png)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 08, 2025 09:59pm
-- **Updated At (UTC):** Dec 09, 2025 05:08am
-
----
-
-### 10. 非公式リンク　作成者に感謝します。
-**Author:** 削除済みユーザー
-
-<p>コメントでお願いします。</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/chinchiki">チンチキ</a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/xf9e13c99">https://html.cafe/xf9e13c99</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/xc3e15cb5">https://html.cafe/xc3e15cb5</a></p></li></ul><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/nippon_banzai">ゆー</a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/xe4721b23">https://html.cafe/xe4721b23</a></p></li></ul><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/CHICKEN_MAN">チキンさん</a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wool-01.onrender.com/">https://edu-wool-01.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wool-02.onrender.com/">https://edu-wool-02.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wool-03.onrender.com/">https://edu-wool-03.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wool-04.onrender.com/">https://edu-wool-04.onrender.com/</a></p></li></ul><p>その他</p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://mathisfun-calcurator.onrender.com/">https://mathisfun-calcurator.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://calucurator-math.onrender.com/">https://calucurator-math.onrender.com/</a>(edu)</p></li></ul>
+<p>コメントでお願いします。</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/chinchiki">チンチキ</a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/xf9e13c99">https://html.cafe/xf9e13c99</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/xc3e15cb5">https://html.cafe/xc3e15cb5</a></p></li></ul><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/nippon_banzai">ゆー</a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/xe4721b23">https://html.cafe/xe4721b23</a></p></li></ul><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/CHICKEN_MAN">チキンさん</a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wool-01.onrender.com/">https://edu-wool-01.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wool-02.onrender.com/">https://edu-wool-02.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wool-03.onrender.com/">https://edu-wool-03.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wool-04.onrender.com/">https://edu-wool-04.onrender.com/</a></p></li></ul><p>その他</p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://mathisfun-calcurator.onrender.com/">https://mathisfun-calcurator.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://calucurator-math.onrender.com/">https://calucurator-math.onrender.com/</a>(edu)</p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wooltube-a4zz.onrender.com/">https://wooltube-a4zz.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wooltube-education-88ts.onrender.com/">https://wooltube-education-88ts.onrender.com/</a></p></li></ul>
 
 #### Comments (1)
 - **woolisbest** (Dec 10, 2025 02:21am): https://woo-ltube.vercel.app/
 
 #### Additional Information
-- **Post color:** Yellow
+- **Post color:** White
 - **Created At (UTC):** Oct 26, 2025 07:07am
-- **Updated At (UTC):** Nov 30, 2025 01:58am
+- **Updated At (UTC):** Jan 06, 2026 11:41pm
 
 ---
