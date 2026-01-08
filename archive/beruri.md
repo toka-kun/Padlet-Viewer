@@ -7,7 +7,7 @@
 - **Builder:** べるり(名前戻した) (BERURI1214)
 - **Posts:** 70
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Jan 07, 2026 02:13am
+- **Updated At (UTC):** Jan 08, 2026 12:05am
 
 ## ルール
 
@@ -28,7 +28,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768432972&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2ObymYLjXfL6G9thLQl8rkigDFHXd8L%2FzcctWeMVG%2FucR6x%2F4QH3rG0f33%2B51PLZs8QeCRPfexLTloQFyR0tcwzEAY2eGpnAbn2UrqJmAveuvVUphHYj1uChX2TxaQQJifUNSzrgectVUSOX1NlMayhpvvNbdffz8bVscfdIN5Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768441830&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5M67ebl8pg%2BGJnO5hVANhP04uIZW%2BH5J3Udk0KKRwW1G85hyZtQH5p%2Fd9399OXaSWrTNmxJQkKl6RnMQ9yIk%2BB6R3qWqwAyXYmqRavzONdwNXXyPN3E7TcSd9h64wQNArfbO0v%2BwkEHYQTKXpLYcaG10r%2FHRpmL93dPiB9WsH2g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -198,8 +198,11 @@
 
 [Attachment](https://solocentral.lol/)
 
-#### Comments (1)
+#### Comments (4)
 - **ハッピーくん** (Jan 04, 2026 11:17pm): 見つかりませんってなる
+- **ああああああああ** (Jan 08, 2026 12:05am): 悲しいからどうにかしてください
+- **ああああああああ** (Jan 08, 2026 12:05am): ゲームできん
+- **ああああああああ** (Jan 08, 2026 12:05am): それな　誰か助けて
 
 #### Additional Information
 - **Post color:** White
