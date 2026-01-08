@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768487201&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PRjBAw8s%2BJQTp4wRkgqtuVqD6oOoQJPZLCFG9DqIWr5s1OdoYu4nf5fcDZwD5ubzoMm5YGpzKQd8wLx2KXCyN1VtGBwH4csAWT6DFMg6jgAKXyknlsfclwJ7C4jPKyqQ74NWUI6LE%2B7wkZmNg3O43LUSV3372v%2BOb9FshOyL%2BLk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768490844&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=teZ5ShIW5BgHQNbh5C4IEu5NGVjeZyR7kbutqnCFIjsdKZarj8%2FOML9XcI8JCHxK14C0wE%2FS5wKNGKf0wrbZ4Z0mIvBDrm2c8Y4jy%2FxyC25W6S82oGnHuBr1UigsaFY86vgSyNcMCubSnJHM3%2BNXJ9R9Tfs0Qi%2Bwzz7Tljf4n6M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1921,7 +1921,7 @@
 
 #### Comments (3)
 - **削除済みユーザー** (Dec 19, 2025 02:19pm): ちょっと前まではらんまーで行けたんだけどねぇ⋯
-- **レイ　#ていふじょ** (Dec 12, 2025 12:13pm): ない
+- **レイ　#最近ていふ** (Dec 12, 2025 12:13pm): ない
 - **Ji** (Dec 14, 2025 04:54am): Googleアカウントを作るときにブロックされないプロキシってありますか？
 
 #### Additional Information
