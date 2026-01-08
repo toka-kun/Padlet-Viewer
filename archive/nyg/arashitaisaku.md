@@ -108,7 +108,7 @@
 ## 保管倉庫①
 
 ### 1. レイ
-**Author:** レイ　#ていふじょ (rei_ryu)
+**Author:** レイ　#最近ていふ (rei_ryu)
 
 #### Reactions
 - **Upvotes:** 0
