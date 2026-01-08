@@ -7,7 +7,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 62
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jan 08, 2026 08:35am
+- **Updated At (UTC):** Jan 08, 2026 09:33am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -23,11 +23,9 @@
 
 [Attachment](https://padlet.com/Toka_Kun_/submission-request/k2qlv3RKMKOnX5Rx?section=317262857)
 
-#### Comments (4)
+#### Comments (2)
 - **草** (Oct 29, 2025 07:18am): ？」
 - **𐨥ʅ ਰਿੈ゛ਕ** (Nov 29, 2025 07:24am): ↑のpadletポータルワールドをタップしたら投稿できると思う
-- **神論@お正月** (Jan 08, 2026 08:35am): https://padlet.com/gohannoisii/padlet-wel7ftb24rx8cdn1
-- **神論@お正月** (Jan 08, 2026 08:35am): 来てね
 
 #### Reactions
 - **Number of likes:** 1
@@ -1425,7 +1423,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768469393&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GQIa96W8ZiqPwrTB%2Ba5IxA5YPJd%2BAV%2Fa99WAxViEDbNc%2FY%2BbkmKeOHZnWcY5a9v0Htw0DGJaQ8RHxZu9FXNje7N72Oag%2FuIDmflLNicoTUsEhcPcE0Wr92DUSiTJ0onJ34dY4kvP8%2Bp0bvHDEc1V7cRL5nihcwOCHxffRv5t4e4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768472792&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uIyMHEt5yjyufTz4oN9Yt%2BOztVnXuiYGANQakaCdFf1Q5FxV0%2F75ZKWh1gtkV84%2BWJM%2F3ctB8fXH5i2E%2Bd0u9d3HO%2FlwbJoZDcMne5n65L1hLjWLC0k5KXpkKoNUFUoIfg%2BfPuLpJ200xRHI0ltg2a2oYI9divuDV3%2BHUMoJ45M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
