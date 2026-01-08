@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768452010&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kADvFEK1MyZnAkSMnZW56c1ce3HJOU4CGVyWT1IYu174kg1UzSDpz%2B%2BjhV4TDqpcvoD0PHhJ2nd27TxUWhWR%2BO0uu9cNB01RFU%2B7uyp2mfjljfr2xu8q%2F3NPJoq54a9w%2Bs0ePQ9AJLq6YVBPkb8KFmCPoSaopz8m2I%2BKZTPuyWw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768454756&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sRecpGmwvkZVi72jRDsqApFzsGsJ9hvP5RbpG1oGjI1C6gohC%2FcxMRFJ%2FpF4cp1oEAZblA8npodRbbezuRqZ5C%2FFosCfbmFo5MoNpogBsBhetcnwqMFovTGf3FvrYQfQx9QB5ZXV62dkcQ4G%2BC8o5yjAqk2MevUK2oO2ZBOBaEw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -76,7 +76,7 @@
 - **ニッピー（パーリナイ）** (Dec 22, 2025 12:41am): やばい、1時間前には全部アクセスできてたのに、もう全ブロ（I-Filter）
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 20, 2025 11:24am): 今ちょっとUIが崩れてるけど明日には直します。
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 25, 2025 03:15am): セクションを追加できるのモデレーター以上やで。それにこの代替ビュアーはただのビュアーだから見る専用
-- **＃G党　＃活動休止中** (Dec 20, 2025 11:30pm): ブロ
+- **＃G党　＃超低浮上** (Dec 20, 2025 11:30pm): ブロ
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 21, 2025 12:32am): 修正した
 - **ゆず** (Dec 21, 2025 08:04am): すご
 - **kitkat33112** (Dec 25, 2025 02:43am): セクション追加できないです
