@@ -5,9 +5,9 @@
 ## Summary
 - **Link:** https://padlet.com/woolisbest/woolisbest-wo6pj5yfmqsue2rh
 - **Builder:** woolisbest (woolisbest)
-- **Posts:** 61
+- **Posts:** 62
 - **Created At (UTC):** Nov 30, 2025 01:57am
-- **Updated At (UTC):** Jan 08, 2026 06:21am
+- **Updated At (UTC):** Jan 08, 2026 04:40pm
 
 ## ルール
 
@@ -98,9 +98,9 @@
 ### 1. ほしいプロキシ教えてね
 **Author:** woolisbest (woolisbest)
 
-<p>つくるかも...</p>
+<p>つくるかも...</p><p>一か月以内w</p>
 
-#### Comments (11)
+#### Comments (10)
 - **あまつき** (Dec 19, 2025 01:45pm): れんtubeがほしいです
 - **夢見る少女じゃいられない** (Jan 07, 2026 12:03pm): ティックトックの動画ダウンロードできるみたいなやつが欲しいです
 - **woolisbest** (Jan 07, 2026 12:14am): ww
@@ -111,12 +111,11 @@
 - **絵が好きなももちゃ** (Dec 29, 2025 09:48am): ダンウローダほしい～
 - **sakuzyo** (Jan 06, 2026 09:19am): youtubemp4ダウンローダー
 - **ウルトラソウル＃先生にバレただるい** (Jan 06, 2026 09:51am): i-フィルター&ISGC勢に救済を,,,woolisbest様ぁぁお願いしますぅ
-- **woolisbest** (Jan 08, 2026 06:21am): おお
 
 #### Additional Information
 - **Post color:** Blue
 - **Created At (UTC):** Dec 10, 2025 12:20am
-- **Updated At (UTC):** Dec 10, 2025 12:55am
+- **Updated At (UTC):** Jan 08, 2026 04:40pm
 
 ---
 
@@ -140,7 +139,19 @@
 
 ## 雑談
 
-### 1. プロキシ数千個はあるかなー　ここ
+### 1. なんかあったらここ連絡ヨロ
+**Author:** woolisbest (woolisbest)
+
+[Attachment](https://padlet.com/woolisbest/submission-request/o4ZnXBQwZ38xzNda?section=343100389)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 08, 2026 04:34pm
+- **Updated At (UTC):** Jan 08, 2026 04:34pm
+
+---
+
+### 2. プロキシ数千個はあるかなー　ここ
 **Author:** woolisbest (woolisbest)
 
 <p>サイトと違って文字数制限ウザいんだよね</p>
@@ -155,7 +166,7 @@
 
 ---
 
-### 2. 匿名多いなー(棒)
+### 3. 匿名多いなー(棒)
 **Author:** woolisbest (woolisbest)
 
 <p>もっともっと増えてほしいなー(棒)</p>
@@ -170,7 +181,7 @@
 
 ---
 
-### 3. 過疎w
+### 4. 過疎w
 **Author:** woolisbest (woolisbest)
 
 #### Comments (12)
@@ -194,7 +205,7 @@
 
 ---
 
-### 4. 観覧数が増えないね
+### 5. 観覧数が増えないね
 **Author:** woolisbest (woolisbest)
 
 #### Comments (4)
@@ -210,12 +221,12 @@
 
 ---
 
-### 5. gn-math is dead...
+### 6. gn-math is dead...
 **Author:** 削除済みユーザー
 
 <p>gn-mathが死にました...(DMCA削除通知によりリポジトリが利用不可です。</p><p>このリポジトリは現在、DMCA削除通知により無効化されています。リポジトリへの公開アクセスを停止しました。通知は公開されています。</p><p>リポジトリの所有者であり、誤りや誤認によりリポジトリが無効化されたとお考えの場合は、反論通知を提出しリポジトリを復元する権利があります。当社のヘルプ記事では、DMCA 削除ポリシーの詳細と反論通知の提出方法について説明しています。このプロセスや反論通知提出に伴うリスクについてご質問がある場合は、弁護士に相談されることをお勧めします。)Deepl翻訳です</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/e820002dc52dc34bb27e1d2425d31ef0/image.png?Expires=1768494760&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Yd52%2Fols42TVW9ejgObJmo9gFPwImXuJAsSjvhU9oh%2F8G1X4VpshN%2BGDbSyfeM8a4UYMh4%2F%2BJaoqwcfgqjbwJoieaztfDgY26L2IgS%2FXzhMLAHFzAoGBkuGPyI76CSJmlos0MLwgjhFZrBFIMqWv%2FM5e5n4DUYdjW4zaymNkDmU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fe820002dc52dc34bb27e1d2425d31ef0%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/e820002dc52dc34bb27e1d2425d31ef0/image.png?Expires=1768498091&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2i4rtKUkIux%2BMQwvFXl7FytGoCqYMGZ4GUyOhPgLVpmReMBkKY0qa2WGXIUZQ2M9whQCyvd5nYVbHolfT8WGEMnxzvzSFxbwZcItXxCOYvM6EIGSfutPKDNz2guQTLrnCYHEYWEIh3tYfiTlqolARnMKqyBPUrKcGnt0TiaHilw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fe820002dc52dc34bb27e1d2425d31ef0%2Fimage.png)
 
 #### Comments (4)
 - **Natsu** (Dec 18, 2025 02:23am): よくわかんない♡
@@ -230,7 +241,7 @@
 
 ---
 
-### 6. マイクラ 1.21.4 1.12.2 1.8.8 1.5.2 beta1.7.3 beta1.3 alpha1.2.6 indevが入ってるリポジトリ
+### 7. マイクラ 1.21.4 1.12.2 1.8.8 1.5.2 beta1.7.3 beta1.3 alpha1.2.6 indevが入ってるリポジトリ
 **Author:** 削除済みユーザー
 
 [Attachment](https://github.com/cryptora1/craftmine)
@@ -248,7 +259,7 @@
 
 ---
 
-### 7. オーストラリアで16歳未満に禁止されているSNS...可哀そう...;-;
+### 8. オーストラリアで16歳未満に禁止されているSNS...可哀そう...;-;
 **Author:** 削除済みユーザー
 
 <p>facebook instagram snapchat threads X tiktok youtube twich kick reddit</p>
@@ -263,7 +274,7 @@
 
 ---
 
-### 8. 使える(多分)meetのリンクです。91個あります。
+### 9. 使える(多分)meetのリンクです。91個あります。
 **Author:** 削除済みユーザー
 
 <p>被ってるのあるかも</p>
@@ -282,7 +293,7 @@
 
 ---
 
-### 9. すごいの見つけた～html実行できるやつ～多分プロキシ経由だからyoutube埋めれるかな
+### 10. すごいの見つけた～html実行できるやつ～多分プロキシ経由だからyoutube埋めれるかな
 **Author:** 削除済みユーザー
 
 <p><strong>*試してない</strong>*</p>
@@ -304,7 +315,7 @@
 
 ---
 
-### 10. 雑談
+### 11. 雑談
 **Author:** woolisbest (woolisbest)
 
 #### Comments (3)
