@@ -5,9 +5,9 @@
 ## Summary
 - **Link:** https://padlet.com/woolisbest/woolisbest-wo6pj5yfmqsue2rh
 - **Builder:** woolisbest (woolisbest)
-- **Posts:** 62
+- **Posts:** 63
 - **Created At (UTC):** Nov 30, 2025 01:57am
-- **Updated At (UTC):** Jan 08, 2026 04:40pm
+- **Updated At (UTC):** Jan 08, 2026 10:41pm
 
 ## ルール
 
@@ -226,7 +226,7 @@
 
 <p>gn-mathが死にました...(DMCA削除通知によりリポジトリが利用不可です。</p><p>このリポジトリは現在、DMCA削除通知により無効化されています。リポジトリへの公開アクセスを停止しました。通知は公開されています。</p><p>リポジトリの所有者であり、誤りや誤認によりリポジトリが無効化されたとお考えの場合は、反論通知を提出しリポジトリを復元する権利があります。当社のヘルプ記事では、DMCA 削除ポリシーの詳細と反論通知の提出方法について説明しています。このプロセスや反論通知提出に伴うリスクについてご質問がある場合は、弁護士に相談されることをお勧めします。)Deepl翻訳です</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/e820002dc52dc34bb27e1d2425d31ef0/image.png?Expires=1768515780&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ptvYtu2gxC871Tm6nbSz3Z3tlkzujG5fy%2FptTifgKMqiBMR4oU5CpMm3RZtItpYXcITkRuWoKNbrI0fVVA5xSSOwmQm%2BJXbxKM%2FFFG9NQF2%2BzX62zQJevDmfYf7aYhMOj%2BgtG2c8wT6kOZ%2FkXlTMnLKo04R9B9CkaWQo%2BDET1ME%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fe820002dc52dc34bb27e1d2425d31ef0%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/e820002dc52dc34bb27e1d2425d31ef0/image.png?Expires=1768519184&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=52Ac2sj7ebtQji%2Ft32dBzYFlzmxwUWdGeu5zDADJhM6d9ZM3MnyB9Q65%2BI3yVtp1Oqd4oZJvwCkPGQ7%2FHrzBrI8fyIjl9EiHQduFX6UoKPVKUERSo0QSRq76jDRGKJt06swazks6LNBO42ZgWw6fGUgm3nxKy95U%2FKTHROVmPc0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fe820002dc52dc34bb27e1d2425d31ef0%2Fimage.png)
 
 #### Comments (4)
 - **Natsu** (Dec 18, 2025 02:23am): よくわかんない♡
@@ -934,7 +934,21 @@
 
 ---
 
-### 2. wooltube
+### 2. duckdns
+**Author:** woolisbest (woolisbest)
+
+<p><a rel="noopener noreferrer nofollow" href="http://wooltube.duckdns.org/">http://wooltube.duckdns.org/</a></p><p><a rel="noopener noreferrer nofollow" href="http://wool-tube.duckdns.org/">http://wool-tube.duckdns.org/</a></p>
+
+[Attachment](http://wooltube.duckdns.org/)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 08, 2026 10:41pm
+- **Updated At (UTC):** Jan 08, 2026 10:41pm
+
+---
+
+### 3. wooltube
 **Author:** woolisbest (woolisbest)
 
 <pre><code>https://education-347547653324.onrender.com
@@ -997,7 +1011,7 @@ https://qwergbhnjnh.onrender.com</code></pre>
 
 ---
 
-### 3. Render
+### 4. Render
 **Author:** 削除済みユーザー
 
 <p><a rel="noopener noreferrer nofollow" href="https://github.com/">github</a>に新規登録orログイン</p><p>公式リポジトリ（右）をFork</p><p><a rel="noopener noreferrer nofollow" href="https://render.com/">Render</a>に<a rel="noopener noreferrer nofollow" href="https://github.com/">github</a>アカウントで新規登録orログイン</p><p>New→(static site)を選択</p><p>Nameは好きに選ぶ（変更しなくてもOK)</p><p>Root Directoryには[.]、Publish Directoryには[./]を入力</p><p>一番下の[Deploy static site]のボタンを押す</p><p>30秒ほど待つと完成です。</p>
@@ -1009,7 +1023,7 @@ https://qwergbhnjnh.onrender.com</code></pre>
 
 ---
 
-### 4. 非公式リンク　作成者に感謝します。
+### 5. 非公式リンク　作成者に感謝します。
 **Author:** 削除済みユーザー
 
 <p>コメントでお願いします。</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/chinchiki">チンチキ</a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/xf9e13c99">https://html.cafe/xf9e13c99</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/xc3e15cb5">https://html.cafe/xc3e15cb5</a></p></li></ul><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/nippon_banzai">ゆー</a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/xe4721b23">https://html.cafe/xe4721b23</a></p></li></ul><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/CHICKEN_MAN">チキンさん</a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wool-01.onrender.com/">https://edu-wool-01.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wool-02.onrender.com/">https://edu-wool-02.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wool-03.onrender.com/">https://edu-wool-03.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wool-04.onrender.com/">https://edu-wool-04.onrender.com/</a></p></li></ul><p>その他</p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://mathisfun-calcurator.onrender.com/">https://mathisfun-calcurator.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://calucurator-math.onrender.com/">https://calucurator-math.onrender.com/</a>(edu)</p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wooltube-a4zz.onrender.com/">https://wooltube-a4zz.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wooltube-education-88ts.onrender.com/">https://wooltube-education-88ts.onrender.com/</a></p></li></ul>
