@@ -7,7 +7,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 65
 - **Created At (UTC):** Nov 30, 2025 01:57am
-- **Updated At (UTC):** Jan 09, 2026 08:17am
+- **Updated At (UTC):** Jan 09, 2026 12:07pm
 
 ## ルール
 
@@ -28,57 +28,12 @@
 ### 1. Discord
 **Author:** woolisbest (woolisbest)
 
-[Attachment](https://discord.gg/Ub2ynxNGYu)
-
-#### Comments (43)
-- **あまつき** (Dec 30, 2025 09:06am): ｗｗ
-- **かリけー** (Jan 04, 2026 12:43pm): ｗｗ
-- **あまつき** (Dec 29, 2025 11:38am): ｗｗ
-- **Rein_#woolisbestの弟子_#煮物貢献者#21番弟子#OFA３番弟子** (Jan 04, 2026 02:43am): 独り言みたいになってて草
-- **F5b2mjrkm3f8** (Dec 30, 2025 09:34pm): 1人で会話してる？
-- **woolisbest** (Jan 06, 2026 12:24pm): w
-- **woolisbest** (Jan 05, 2026 07:32am): ww
-- **Supportive Crane** (Dec 29, 2025 04:03am): 必至だね笑
-- **Supportive Crane** (Dec 29, 2025 04:03am): ん？
-- **Supportive Crane** (Dec 29, 2025 04:04am): 投稿するのやめなよ。空気読めないクソガイジ
-- **Supportive Crane** (Dec 29, 2025 04:07am): キチガイジまだいるのか...で、何？論破もできないレスバ雑魚
-- **Supportive Crane** (Dec 29, 2025 04:10am): タイピング遅
-- **Supportive Crane** (Dec 29, 2025 04:04am): そもそも君はクソおもんない動画しか投稿してないただのクソ中二病なんだからさ
-- **F5b2mjrkm3f8** (Dec 29, 2025 06:34pm): ?
-- **Supportive Crane** (Dec 29, 2025 04:12am): そんなのは論破とは言わないし、別に長文でもない。
-- **Supportive Crane** (Dec 29, 2025 04:09am): どうぞご自由に。笑うことしか出来ない人に論破はできないと思います
-- **Supportive Crane** (Dec 29, 2025 04:08am): 逆に削除してもらえると思ってるんですか？
-- **Supportive Crane** (Dec 29, 2025 04:13am): 自分で文章も書けないんですね笑
-- **Supportive Crane** (Dec 29, 2025 04:14am): へえ。そんなあなたは笑わないと死んでしまうのですか？
-- **Supportive Crane** (Dec 29, 2025 04:04am): 君は場違いなんだよ
-- **Supportive Crane** (Dec 29, 2025 04:06am): ん？
-- **Supportive Crane** (Dec 29, 2025 04:07am): あ、そうですか
-- **Supportive Crane** (Dec 29, 2025 04:00am): バカやん学タブでdisc行けるわけないやろ
-- **Supportive Crane** (Dec 29, 2025 04:03am): ガチアホ過ぎて草
-- **Supportive Crane** (Dec 29, 2025 04:03am): そんなに焦ってるの？
-- **Supportive Crane** (Dec 29, 2025 04:03am): 笑
-- **Supportive Crane** (Dec 29, 2025 04:17am): まあ自分には関係ないですけどね笑
-- **Supportive Crane** (Dec 29, 2025 04:17am): 私には関係ないと言ったはずですが
-- **Supportive Crane** (Dec 29, 2025 04:11am): 必死すぎるのが目に見えてるよ。
-- **Supportive Crane** (Dec 29, 2025 04:11am): あれ？テンション違うね。AI使った？AIでしか論破できない語彙力の持ち主なんですね笑
-- **Supportive Crane** (Dec 29, 2025 04:16am): そういえば、あなたのゴミみたいに過疎の部屋荒らされてますよ
-- **Supportive Crane** (Dec 29, 2025 04:15am): なんですか？
-- **Supportive Crane** (Dec 29, 2025 04:08am): え、無理です
-- **Supportive Crane** (Dec 29, 2025 04:13am): そうなんですね笑すごいですね笑
-- **Supportive Crane** (Dec 29, 2025 04:19am): 乙です～
-- **Whimsical Ferret** (Jan 04, 2026 08:54am): あまつきは投稿を消して逃げちゃったんだよ
-- **かリけー** (Dec 27, 2025 02:30am): ぶろ
-- **Sanesane** (Jan 09, 2026 08:17am): もう一回招待リンクよろ
-- **Creative Duck** (Jan 01, 2026 11:43pm): ちなみにこれリアタイで見てた人なんですけどあまつきと変な奴で喧嘩してました。明らかにあまつきが悪いと思います。
-- **Adventurous Leopard** (Dec 19, 2025 11:18am): a
-- **Supportive Crane** (Dec 29, 2025 04:09am): ほらけていましたけど～とか言ってたけど...それで思ってるなんて...障害者？
-- **ウルトラソウル＃先生にバレただるい** (Jan 06, 2026 09:52am): ぶっしょうもね
-- **ウルトラソウル＃先生にバレただるい** (Jan 06, 2026 09:52am): 独り言にしか見えねぇw
+[Attachment](https://discord.gg/JcPfQtsffX)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 03, 2025 11:25am
-- **Updated At (UTC):** Dec 03, 2025 11:25am
+- **Created At (UTC):** Jan 09, 2026 11:51am
+- **Updated At (UTC):** Jan 09, 2026 11:51am
 
 ---
 
@@ -123,6 +78,9 @@
 **Author:** woolisbest (woolisbest)
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.subeasy.ai/ja-JP/tiktok-to-mp4">https://www.subeasy.ai/ja-JP/tiktok-to-mp4</a></p>
+
+#### Comments (1)
+- **夢見る少女じゃいられない** (Jan 09, 2026 12:07pm): 👍
 
 #### Additional Information
 - **Post color:** White
@@ -236,7 +194,7 @@
 
 <p>gn-mathが死にました...(DMCA削除通知によりリポジトリが利用不可です。</p><p>このリポジトリは現在、DMCA削除通知により無効化されています。リポジトリへの公開アクセスを停止しました。通知は公開されています。</p><p>リポジトリの所有者であり、誤りや誤認によりリポジトリが無効化されたとお考えの場合は、反論通知を提出しリポジトリを復元する権利があります。当社のヘルプ記事では、DMCA 削除ポリシーの詳細と反論通知の提出方法について説明しています。このプロセスや反論通知提出に伴うリスクについてご質問がある場合は、弁護士に相談されることをお勧めします。)Deepl翻訳です</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/e820002dc52dc34bb27e1d2425d31ef0/image.png?Expires=1768562462&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EXecw3tAIp9bPEAsJJOaeb23rbqZQNqeXvkW4UP8XuWkv25rAVUzGj8xNmli%2FPigw5JOcn2JqJtjZ8ZWa32lIucnyx5H1hKrlWGIXe6VnP9IkVAvIpfn4BjIP0SPGtSWUQm04V36D%2BqlrbyRIoPlh5FYbBl6Z8luPO8QLL7Ca7A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fe820002dc52dc34bb27e1d2425d31ef0%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/e820002dc52dc34bb27e1d2425d31ef0/image.png?Expires=1768567727&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=n%2BjpCg2lkovuOukQkAoaMzVfVwCJ69UjhSzhbxHgKFQWIl%2BkRWvhV7wwuWuO%2F%2BJgVmrYQJu02tmvbLrnsXF6R%2F5n91X8qxJlS63giJofw9mjEydGDA%2FazcRadcX%2FXurb84Nm%2BgmTNxjR8AGbsb9L4qiQoVtkiPoH36H1FyVH7eY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fe820002dc52dc34bb27e1d2425d31ef0%2Fimage.png)
 
 #### Comments (4)
 - **Natsu** (Dec 18, 2025 02:23am): よくわかんない♡
