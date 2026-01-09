@@ -5,9 +5,9 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ## Summary
 - **Link:** https://padlet.com/shibainu_ouji/itrsa-kulz2hpe9vtrxep4
 - **Builder:** ♔柴犬の王子様♔@行政 (shibainu_ouji)
-- **Posts:** 56
+- **Posts:** 43
 - **Created At (UTC):** Nov 25, 2025 09:01am
-- **Updated At (UTC):** Jan 09, 2026 08:22am
+- **Updated At (UTC):** Jan 09, 2026 02:46pm
 
 ## お知らせ
 
@@ -28,57 +28,12 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 2. あんのぉパドレットサイトとしてはバカ使いにくいぜ
-**Author:** Mocha
-
-<p>by Mocha</p>
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jan 01, 2026 11:25am
-- **Updated At (UTC):** Jan 01, 2026 11:25am
-
----
-
-### 3. 荒らししください
-**Author:** Thoughtful Hummingbird
-
-#### Comments (1)
-- **Thoughtful Hummingbird** (Dec 30, 2025 08:59am): こんなかだけ 
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 30, 2025 08:59am
-- **Updated At (UTC):** Dec 30, 2025 08:59am
-
----
-
-### 4. 今おる人
-**Author:** Thoughtful Hummingbird
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 30, 2025 08:59am
-- **Updated At (UTC):** Dec 30, 2025 08:59am
-
----
-
-### 5. ゲームリンクください
-**Author:** Thoughtful Hummingbird
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 30, 2025 08:53am
-- **Updated At (UTC):** Dec 30, 2025 08:53am
-
----
-
 ## 雑談
 
 ### 1. アルゼンチンでハビエル・ミレイ大統領の経済政策が成功し、支持率が60%に到達。トランプダンスを披露。
 **Author:** 一期一会 （顧問） (user_japan)
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/74dc629887040fe24ad7867d10a3a2bf/ScreenRecording_01_09_2026_17_14_05_1.mov?Expires=1768573644&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0Yr%2FoEtZBd5WKWUQbZ3sseKHhs8iavGjbpZE3Qd3nZ1vy26NgqKWVua3ICKLdH%2FtG%2FS0m19kXaSQ8Ktpr0%2FrggmbJAdHaIMmGYSOhPyUbrucU6M1%2BQvr38OKL859McqbnD908XoSXrO%2Bafwbpvc%2F7Ad89EjB7IroUtw0N2xRYsM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2F74dc629887040fe24ad7867d10a3a2bf%2FScreenRecording_01_09_2026_17_14_05_1.mov)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/74dc629887040fe24ad7867d10a3a2bf/ScreenRecording_01_09_2026_17_14_05_1.mov?Expires=1768577205&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=v4Hc9B0s9%2F8aktoC5ssCnkKgVR9jR6TfZJ7suLZAljVen%2Bn3tZxRAQv8ewfMQWVJ08MYI8M7NIjX2ia9C8ly5KUmK18NaaNNMHNKkp0QH%2BAZNQu7qoZ0MTFbh3FAf8wBYh5k%2BIUUT7TpRNi60iW2oM2goZ6zg0Ku%2FhAmLaAy7KU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2F74dc629887040fe24ad7867d10a3a2bf%2FScreenRecording_01_09_2026_17_14_05_1.mov)
 
 #### Additional Information
 - **Post color:** White
@@ -120,7 +75,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 4. ﾌｧｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱ
 **Author:** 琥珀 (Kohaku_0301)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4115673915/df754a29d09b317a06b6af444ccd2865/___________.webp?Expires=1768573644&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uoqoVkXnWGzVIyvsuh92BnRJ23yhsHq1ZR7vq8mRvJ%2BraFf6opLr8knS4GruhpWhqRo%2F%2FftnfTVAUAS5fdJCLaDMIqQazXrN6qCjAJ35IWTpPW7IoAWpGTHqVpqic3qCEpoVjnDFY3glvrb4MpDjTQuGW8OHl7TBpI6D5catBm4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4115673915%2Fdf754a29d09b317a06b6af444ccd2865%2F___________.webp)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4115673915/df754a29d09b317a06b6af444ccd2865/___________.webp?Expires=1768577205&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZXjV%2BvRxFBL8mTJt3pewxnErRv6jBED5wTjSaCWz9obcH1dzkeUTYuMjUiSbyfMi6LfIDom4JGINqOmBRG4e%2FSCOtctk2QTV8oezyBsc3WnDStU2Ce%2Bigvu%2Fjhj9F59LhG%2BzqP3kfFs%2FtI9cbcH4m16oeq8przooSawqIZd%2FMts%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4115673915%2Fdf754a29d09b317a06b6af444ccd2865%2F___________.webp)
 
 #### Comments (1)
 - **氷空🌌🧹🌠⚝神⚝‎⋆☾·̩͙꙳** (Jan 06, 2026 12:04am): やめぃ
@@ -166,7 +121,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 7. 尊死確定
 **Author:** 琥珀 (Kohaku_0301)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4115673915/9b39c0e0f77162d057882752e3a491a3/__________.jfif?Expires=1768573644&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QyxLIaPWhbWBs6CqjikNHuRjCnETcbHqdjW%2BphUQKGoYIufA1Gft5wAEHFRBRYbfy%2F8etyn4Kmeirybq6YdzOaI0tsGLuPKJGdpGqtIvXav3T21O8H5RRS5XYMVuSsW4A1%2FmczFY4jtXbsd9W0B1yD5elfYeIvmVzu9GWw%2BNueo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4115673915%2F9b39c0e0f77162d057882752e3a491a3%2F__________.jfif)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4115673915/9b39c0e0f77162d057882752e3a491a3/__________.jfif?Expires=1768577205&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0GFXYkhaajYyhZcGRAr6vs2DPXWxm%2BRiIZya7jYGXnc3o27VfzLumY4SxcF6eEF4kRVK20JV1R0VEjbxBkICX6EUXi4yt1wu21D1PgTtBFBg%2FqeBT1klTq%2BRuXFlfeIcT3taGveeQPoAwPzoWNX2SgCyda%2FSJgZBd3wqaRvjjqE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4115673915%2F9b39c0e0f77162d057882752e3a491a3%2F__________.jfif)
 
 #### Additional Information
 - **Post color:** White
@@ -188,7 +143,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 9. 悲報　ニンニン、嘘をついて韓国の年越しライブに出演していた！？
 **Author:** 一期一会 （顧問） (user_japan)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/a5f38fd90ca6c71a9670687027f3817a/IMG_1472.jpeg?Expires=1768573644&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tfe7Ihhe5ezNiVB5W4Qr0TkXbKoWk1FZD8X8EnMAc%2FC8ZdzzxJLFs0XvbS7MQ7smFEbXxzyTBoA0rllL50nrcTHSMb%2BBde6Km4PNu11q86%2F8ayxVtEKEUFI%2FALP%2F8lkEM92PEKReXCjPRnZmLjsWnJEmXVbCPz%2Fgws1ljyb4dUg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2Fa5f38fd90ca6c71a9670687027f3817a%2FIMG_1472.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/a5f38fd90ca6c71a9670687027f3817a/IMG_1472.jpeg?Expires=1768577205&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=B87VJ0Q%2FbhtvFOO7CfzCFIROIdZc5w3Uq5EvAJjbz2yJYRSqaYME4c8DIfa1okVfhc3LZqjx%2FpNW1aVZOcXhUfrt%2FQBnCsvZmovD5yP1vl5rQTIr05K16WDxW4GGIi0jTqb%2FM9TNf%2Fx6HGxumfynUM0HcUjgKSwa6slSILPvOlQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2Fa5f38fd90ca6c71a9670687027f3817a%2FIMG_1472.jpeg)
 
 #### Additional Information
 - **Post color:** White
@@ -341,138 +296,21 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 22. こんちは
-**Author:** ☺️
-
-#### Comments (1)
-- **Compassionate Dory** (Dec 30, 2025 03:21am): こんにちわ
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 29, 2025 10:19am
-- **Updated At (UTC):** Dec 29, 2025 10:19am
-
----
-
-### 23. こんにちは　syoku80デス
-**Author:** syoku80
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 27, 2025 05:00pm
-- **Updated At (UTC):** Dec 27, 2025 05:00pm
-
----
-
-### 24. これからはパドレットも浮上頻度を増やします
-**Author:** 一期一会 （顧問） (user_japan)
-
-<p>＼＼\\٩( 'ω' )و //／／</p>
-
-#### Comments (1)
-- **♔柴犬の王子様♔@行政** (Dec 27, 2025 09:07am): おおー
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 27, 2025 05:20am
-- **Updated At (UTC):** Dec 27, 2025 05:20am
-
----
-
-### 25. こんにちは😃
-**Author:** 一期一会 （顧問） (user_japan)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 27, 2025 05:19am
-- **Updated At (UTC):** Dec 27, 2025 05:19am
-
----
-
-### 26. 初めまして
-**Author:** 犬好きのナウ (nauken)
-
-<p>ナウと言いますよろしくお願いいたします</p><p>このサイト2つが出来ませんでした</p><p><a rel="noopener noreferrer nofollow" href="https://desk.channel.io/x942l/join/984339fc-d065-495e-b490-ff5dee772ae7">https://desk.channel.io/x942l/join/984339fc-d065-495e-b490-ff5dee772ae7</a></p><p><a rel="noopener noreferrer nofollow" href="https://txtbase.net/invite/fjccspiosrk">２</a></p><p><a rel="noopener noreferrer nofollow" href="https://txtbase.net/invite/fjccspiosrk">https://txtbase.net/invite/fjccspiosrk</a></p><p>後</p><p>このサイト<a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1240517203/">会員大募集中！ スクラッチ規制研究委員会(SCRSA) on Scratch</a></p><p>の社内チャットのやり方ってありますでしょうか？ビデオで教えてくれると助かりますではよろしくお願いいたします！！！</p>
-
-[Attachment](https://desk.channel.io/x942l/join/984339fc-d065-495e-b490-ff5dee772ae7)
-
-#### Comments (4)
-- **犬好きのナウ** (Dec 22, 2025 11:17pm): チャネルトークが出来ません....i-filterのせいで....出来るものがあれば教えてください
-- **一期一会 （顧問）** (Dec 27, 2025 05:10am): ここも本部に準ずる場にしたいと思うので、
-- **一期一会 （顧問）** (Dec 27, 2025 05:08am): 規制されたんですね．．．
-- **一期一会 （顧問）** (Dec 27, 2025 05:10am): よろしくお願いします。
-
-#### Reactions
-- **Emojis:** 👍 (1) 😆 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 22, 2025 11:09pm
-- **Updated At (UTC):** Dec 22, 2025 11:10pm
-
----
-
-### 27. やべぇっす...
-**Author:** ♔柴犬の王子様♔@行政 (shibainu_ouji)
-
-<p>本部チャネルオーナー権なくなってるっす...</p>
-
-#### Comments (2)
-- **ithiga** (Dec 21, 2025 11:57pm): 終わっとる
-- **Blushing Robin** (Dec 21, 2025 11:04pm): マジか
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 21, 2025 10:13pm
-- **Updated At (UTC):** Dec 21, 2025 10:13pm
-
----
-
-### 28. こんにちは
-**Author:** Unique Iguana
-
-#### Comments (1)
-- **一期一会 （顧問）** (Dec 18, 2025 02:54pm): こんにちは〜
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 18, 2025 03:55am
-- **Updated At (UTC):** Dec 18, 2025 03:55am
-
----
-
-### 29. よろしくお願いします！！
-**Author:** のゔぁ (0n0va0)
-
-#### Comments (1)
-- **一期一会 （顧問）** (Dec 17, 2025 07:38am): よろしく！
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 17, 2025 05:14am
-- **Updated At (UTC):** Dec 17, 2025 05:14am
-
----
-
-### 30. このぱどれ全然変えてもらって結構ですよ！w
-**Author:** ♔柴犬の王子様♔@行政 (shibainu_ouji)
-
-#### Comments (1)
-- **一期一会 （顧問）** (Dec 16, 2025 01:53pm): ありがとう🫡
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 16, 2025 01:50pm
-- **Updated At (UTC):** Dec 16, 2025 01:50pm
-
----
-
 ## 雑談
 
-### 1. やってくれたな
+### 1. いやこれきた。自民党勝ちそうすっね。
+**Author:** 一期一会 （顧問） (user_japan)
+
+[Attachment](https://www.yomiuri.co.jp/politics/20260109-GYT1T00321/)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 09, 2026 02:39pm
+- **Updated At (UTC):** Jan 09, 2026 02:39pm
+
+---
+
+### 2. やってくれたな
 **Author:** 一期一会 （顧問） (user_japan)
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.sankei.com/article/20260107-XQW3QO6Y5VOM5IUPNLSMJMP5EU/">https://www.sankei.com/article/20260107-XQW3QO6Y5VOM5IUPNLSMJMP5EU/</a></p>
@@ -486,7 +324,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 2. 誰かチャンネルトークのURLくれ
+### 3. 誰かチャンネルトークのURLくれ
 **Author:** ワッシュ
 
 #### Comments (4)
@@ -502,7 +340,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 3. haituta
+### 4. haituta
 **Author:** atamawoka (atamawoka)
 
 #### Additional Information
@@ -512,10 +350,10 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 4. ﾌｧｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱ
+### 5. ﾌｧｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱ
 **Author:** 琥珀 (Kohaku_0301)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4115673915/33ab715d392b93a2f0b332d888321a40/_____________.jfif?Expires=1768573644&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sdC%2Bf%2B%2FBjq2Kdgvs79iUQXMamnMdTb2kXFPIgwC3UUNWC6d0G1JMeQ1DQhMmcl5BelQKZ%2Fnq2npWG22sFU7DI0H3Q%2Fm%2BkRTjh4%2FHbfC72JMkh2VyZYEVzro2zp9tMI6%2FxwiiRz64e0F054bhNVxTy5k%2FP%2Fzp7w2LXZKegBNlP0s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4115673915%2F33ab715d392b93a2f0b332d888321a40%2F_____________.jfif)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4115673915/33ab715d392b93a2f0b332d888321a40/_____________.jfif?Expires=1768577205&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EX741b1kArZJGANBDog9GKhUlAWx1Q%2B4WvQhbGZnA4jn3d6%2BxmfdjJvi%2BS527Vx0aG98si4lyzi7UeePhtc4DjQqB2DiBUt3Tm9NGQ7diNXEcvOE8Grfgnj5C6rVViERK%2FREiXE9S8b86%2FvUSXbq1rdukc%2BTnjiSBr96zDs9cEo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4115673915%2F33ab715d392b93a2f0b332d888321a40%2F_____________.jfif)
 
 #### Additional Information
 - **Post color:** White
@@ -524,10 +362,10 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 5. 思想全部入ってるのえぐい
+### 6. 思想全部入ってるのえぐい
 **Author:** 一期一会 （顧問） (user_japan)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/13d0b8c26276727aea86ee0b84529e6f/IMG_1445.jpeg?Expires=1768573644&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ra9SRhJKTRNOm0r%2B%2BiMhjX4AvILtUHfyKGIsRhUrpbElKkcPFRIRgozMtNT8nMtuiKv6%2BLPd8AMMmR8YGfR7hwrvW1iZCRRrF0Y%2Fz1XjEqbSAFvbfpNeIurM3r0NhIHDMFVNJfEeb0aYK%2BVXyKcwQQeDbGLRyoGOczjjL4NBbns%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2F13d0b8c26276727aea86ee0b84529e6f%2FIMG_1445.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/13d0b8c26276727aea86ee0b84529e6f/IMG_1445.jpeg?Expires=1768577205&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Kw3DnVN%2FseutTgOTXIQG782lyFrSJsRX0PDQKV9%2FujIs3RgWZArrsMzBejM89xGQc4p2tHRfcptJV%2FQmEdbJyUOT75h9rkwJYsf1EpFUyG0vlDSOkiw0CiqXkQvYmaPdUCB8Hbrdwtzkpm7Q9rokm8NXpZSUcWud3%2BhZ%2BJpWDrY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2F13d0b8c26276727aea86ee0b84529e6f%2FIMG_1445.jpeg)
 
 #### Additional Information
 - **Post color:** White
@@ -536,7 +374,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 6. よぉよぉ本名晒し界隈です
+### 7. よぉよぉ本名晒し界隈です
 **Author:** MYNAME is 古瀬 (gs203671)
 
 <p>おおくにやで</p>
@@ -548,7 +386,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 7. ひまああああああ
+### 8. ひまああああああ
 **Author:** hina 0727 (j47hinahina)
 
 #### Additional Information
@@ -558,7 +396,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 8. ゆなさん。
+### 9. ゆなさん。
 **Author:** 一期一会 （顧問） (user_japan)
 
 <p>089027</p>
@@ -570,7 +408,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 9. なにこれ
+### 10. なにこれ
 **Author:** ニンゲン
 
 #### Additional Information
@@ -580,7 +418,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 10. DOTCH？でコメントできん（泣）
+### 11. DOTCH？でコメントできん（泣）
 **Author:** 氷牙月世華 (sekachan33)
 
 <p>OMG（泣）</p>
@@ -592,16 +430,6 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 - **Post color:** White
 - **Created At (UTC):** Jan 01, 2026 04:02pm
 - **Updated At (UTC):** Jan 01, 2026 04:02pm
-
----
-
-### 11. 最後のときには
-**Author:** ワッシュ
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jan 01, 2026 12:09pm
-- **Updated At (UTC):** Jan 01, 2026 12:09pm
 
 ---
 
