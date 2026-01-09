@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768519147&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rf5sHbRZrCVQ%2BWYuh2oxVBVmrLCFiNaNIPXskOyysfj6ZSQDjEwwjWvtakw4zE71zTEGr4yO%2F8QwlSSc3qx6ymgq0EVl7cAvbk3XjztaGI40gZTUMj3ahQhf9gH72%2FH4GGQOqa3F742r%2Bn4nq9POdT%2FOwvPtmJW85uW%2BxG%2FnhPo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768528201&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IQ69ZIJADvFwVsqvwgL5Gv3iKvrb2GUjXYo6%2FEQddgZy6s7s4ZX02ngn8WsUesWPxh5A8469CafG7kyBEqJ6JncXCy4g81jW%2BU7YOIa%2BLro%2FILtixscHMvgoQAZr8tCC431y997vkmW%2BHdk2Dqd2P7d93Hel%2BzJUaB0Z3TKkZa4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -260,7 +260,7 @@
 - **SUBAR** (Oct 18, 2025 09:33am): ↑大谷参戦！
 - **おすし =D** (Oct 04, 2025 07:58am): すご
 - **削除済みユーザー** (Sep 16, 2025 12:19pm): 頑張ってください
-- **ツバラ** (Sep 30, 2025 12:21am): すご〜い！
+- **セイラ** (Sep 30, 2025 12:21am): すご〜い！
 - **んだ** (Oct 03, 2025 02:30am): 頑張ってください。
 - **野獣先輩** (Dec 02, 2025 06:03am): 私は裏サイトを活用してゲームをしています
 
@@ -2195,7 +2195,7 @@
 
 #### Comments (8)
 - **匿名** (Jul 27, 2025 01:30am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/do3MQJkobxz1Z15w) やったぜ
-- **ツバラ** (Oct 01, 2025 01:03am): すご！
+- **セイラ** (Oct 01, 2025 01:03am): すご！
 - **電車好き** (Jun 21, 2025 01:50am): いけた
 - **アイス** (Jun 22, 2025 09:26am): 14000枚目いけたwww
 - **Quirky Cricket** (Dec 16, 2025 08:24am): １４０００いった
