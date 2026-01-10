@@ -28,7 +28,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768641754&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4v0Gnejzqh5v%2FDUdu%2FdEtWw8CVj5%2FVv1AJC46l6lI9itJvnUgp%2FWatN5pU%2FmbqYFpKdsPWKusCgvyXu9E448PMkFIhS16WPkHt%2FHid8lp6oma17CyCE9E6u20fe4MU9puI4%2FBcIZbydyC9yZgsB%2FCIa7%2Bw30GuQ2SoAlzC%2F1YEk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768645362&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lQC70Yy832spmCdYcxdd9uDCnVVvYkyK%2B1iqr4QsfyUhiEnbE4kMJqHycB1Y%2B85kMRaOthGoTTiR2COrkJVcAN88Jd8yTdUROl0QEeAoau5BUZFm77H2p1nbADyzk7TeJhQP9qkoYCDQuWf7QbB3LKvSIuBD4HARlwTpGcI3UUA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
