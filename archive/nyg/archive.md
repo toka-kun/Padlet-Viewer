@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768659605&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wNKPvR6wJ87ZCzKi%2BorO8a5CPFt9IeAi96fBYNHXczsADlaq%2F5aov3mmF4%2BOVoSIdLIfkz84inGXlUapzPBQdsleLLszuKecxuY7KtOMJVqzTxzSfNXZKXc6HMLHbrAM4vXelzCYGKTvP3iSScO7c%2BHcJIJq3aixlvcopcJCoFo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768663246&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4%2BxD3Ur9gjT92aRGMBlo2JBDN2b6n9Pc0PV3mpUfD167cKwsJfwtGKtJzVBV1LYkwaUqtpeVakR8oWquVxTMXIZ0tYO5RGxfK7Dz%2FM8uo5ZsKh%2BpT8%2BF7k8p1n8ssRMcuitF4XgNGqhMA%2BMkHWnzDEDwlglTkmzw7gQTogiMoG8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1194,7 +1194,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Dec 23, 2025 10:55am
-- **Updated At (UTC):** Jan 09, 2026 08:11am
+- **Updated At (UTC):** Jan 10, 2026 02:31pm
 
 ---
 
