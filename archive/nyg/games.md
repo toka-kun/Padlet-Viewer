@@ -7,7 +7,7 @@
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
 - **Posts:** 16
 - **Created At (UTC):** Aug 27, 2024 11:14am
-- **Updated At (UTC):** Jan 01, 2026 08:20am
+- **Updated At (UTC):** Jan 11, 2026 03:49am
 
 ## 概要
 
@@ -273,7 +273,7 @@
 
 ---
 
-## Among Us Scratch
+## アモアス＆マイクラサーバー
 
 ### 1. Among Us Scratch
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
