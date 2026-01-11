@@ -194,7 +194,7 @@
 
 <p>gn-mathが死にました...(DMCA削除通知によりリポジトリが利用不可です。</p><p>このリポジトリは現在、DMCA削除通知により無効化されています。リポジトリへの公開アクセスを停止しました。通知は公開されています。</p><p>リポジトリの所有者であり、誤りや誤認によりリポジトリが無効化されたとお考えの場合は、反論通知を提出しリポジトリを復元する権利があります。当社のヘルプ記事では、DMCA 削除ポリシーの詳細と反論通知の提出方法について説明しています。このプロセスや反論通知提出に伴うリスクについてご質問がある場合は、弁護士に相談されることをお勧めします。)Deepl翻訳です</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/e820002dc52dc34bb27e1d2425d31ef0/image.png?Expires=1768756743&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fbd2SUp4z1twdcxr2r0GoJmmDC1RaAmxoWmxzfR6S8y%2BrCCNwJzvZCdj9eJnF8%2F42wk9MBBpf4lW1HI0egblnAKDK68Iu3bqHx0YNcaV6alNLUvs%2FYtzZuOIWmwDSNTHLVHdNDiMgb%2FxgZBZf8rMQdLTfzCK9zFc2RxAbXtZ3tc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fe820002dc52dc34bb27e1d2425d31ef0%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/e820002dc52dc34bb27e1d2425d31ef0/image.png?Expires=1768761094&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nryBHREhGRKmQEKV8PV6BYx5b%2B56HTdYRz6BLg3bj9teadF2vsmNfUAwYAVlRVl4EXDDNF2G%2Fd6JrXllqjFCvY8yw%2BK%2FwkPCgEapeuj83XE5yAVg7CK8U867r9436omFqfKU7sDdECBzYq0qz2fKZdfMG0gpHFrAhecn%2B3c7H38%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fe820002dc52dc34bb27e1d2425d31ef0%2Fimage.png)
 
 #### Comments (4)
 - **Natsu** (Dec 18, 2025 02:23am): よくわかんない♡
