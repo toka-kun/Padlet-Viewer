@@ -5,9 +5,9 @@
 ## Summary
 - **Link:** https://padlet.com/BERURI1214/padlet-zsdegt1d6scuq9qa
 - **Builder:** べるり(名前戻した) (BERURI1214)
-- **Posts:** 70
+- **Posts:** 71
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Jan 08, 2026 12:05am
+- **Updated At (UTC):** Jan 11, 2026 08:37am
 
 ## ルール
 
@@ -28,7 +28,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768724973&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SeXcVybpbMJCHDtm7aewIv%2Fi2Ch8ON7MvkjhruV0YaBdaSMQkorUXP8AAXjqyv1dKLKpa3jAmfkETJ9kXenpQjgYBjWcxaMGQwQYkNI%2FmuJa2GfA863GPh00M%2FBmbPV0eC7IldiODiWfqgS4A72PBFHVXzacc2m7tL8fMffnz9Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1768728189&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=F0cfnXGa%2F3PcYIX8ICMntA897rHWYlfrVmg%2FOYJH%2B1G6WXlBcMQsmOkg3lO5W%2FAI8KUBQGZPgMoLHZRbfzATBRITfwjysQj8fkOGFrZ%2FXu2k3xuUDO1z0RqjNiryYtUwPPSWGyQw7vWDXGp1jcrxrnvueHYV15dN%2BxiWraj5ohI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -183,7 +183,22 @@
 
 ## 雑談
 
-### 1. スマホでも使える動画ダウンローダーを教えて欲しいです
+### 1. Post 1
+**Author:** べるり(名前戻した) (BERURI1214)
+
+[Attachment](https://qm2xzh.csb.app/)
+
+#### Comments (1)
+- **べるり(名前戻した)** (Jan 11, 2026 08:37am): これならどうだっ
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 11, 2026 08:37am
+- **Updated At (UTC):** Jan 11, 2026 08:37am
+
+---
+
+### 2. スマホでも使える動画ダウンローダーを教えて欲しいです
 **Author:** TAYATORU! (tayatoru)
 
 #### Additional Information
@@ -193,16 +208,17 @@
 
 ---
 
-### 2. プロキシ見つけた
+### 3. プロキシ見つけた
 **Author:** べるり(名前戻した) (BERURI1214)
 
 [Attachment](https://solocentral.lol/)
 
-#### Comments (4)
+#### Comments (5)
 - **ハッピーくん** (Jan 04, 2026 11:17pm): 見つかりませんってなる
 - **ああああああああ** (Jan 08, 2026 12:05am): 悲しいからどうにかしてください
 - **ああああああああ** (Jan 08, 2026 12:05am): ゲームできん
 - **ああああああああ** (Jan 08, 2026 12:05am): それな　誰か助けて
+- **べるり(名前戻した)** (Jan 11, 2026 08:34am): 規制されたか〜
 
 #### Additional Information
 - **Post color:** White
@@ -211,7 +227,7 @@
 
 ---
 
-### 3. Fabulous Flyさんのリクエスト
+### 4. Fabulous Flyさんのリクエスト
 **Author:** べるり(名前戻した) (BERURI1214)
 
 <p>アニメサイト、今探しています...ごめんなさい😥</p>
@@ -223,7 +239,7 @@
 
 ---
 
-### 4. ダッシュボードから見るとうさんくせぇ
+### 5. ダッシュボードから見るとうさんくせぇ
 **Author:** ENDLESS今年卒業！ (tipitarou)
 
 #### Comments (1)
@@ -236,7 +252,7 @@
 
 ---
 
-### 5. 超久しぶりに戻ってきました
+### 6. 超久しぶりに戻ってきました
 **Author:** 削除済みユーザー
 
 <p>これから来ること多くなるかも</p>
@@ -260,7 +276,7 @@
 
 ---
 
-### 6. ブロックないグーグルくれ
+### 7. ブロックないグーグルくれ
 **Author:** ENDLESS今年卒業！ (tipitarou)
 
 #### Comments (4)
@@ -276,7 +292,7 @@
 
 ---
 
-### 7. 4日前くらいにマジやばい荒らされ具合だったけど
+### 8. 4日前くらいにマジやばい荒らされ具合だったけど
 **Author:** ahosanjp8951
 
 <p>治ってから前より進化した気がする、セクションの区切りはありがたい、ここ重いからさ</p>
@@ -288,7 +304,7 @@
 
 ---
 
-### 8. ごめんなさい😔
+### 9. ごめんなさい😔
 **Author:** べるり(名前戻した) (BERURI1214)
 
 <p>習い事のせいで最近あんまり活動できてないです🥺今後も多分この状態が続くと思います😥</p><p>誠に申し訳ございません&gt;_&lt;</p>
@@ -305,7 +321,7 @@
 
 ---
 
-### 9. Utopiaほしい
+### 10. Utopiaほしい
 **Author:** さくらもち (sakuramoti)
 
 #### Additional Information
@@ -315,7 +331,7 @@
 
 ---
 
-### 10. 入ってきてね
+### 11. 入ってきてね
 **Author:** Agile Raccoon
 
 [Attachment](https://padlet.com/23tyr5164/padlet-urds9bcokm6n5nye)
@@ -327,7 +343,7 @@
 
 ---
 
-### 11. こんにちは！
+### 12. こんにちは！
 **Author:** 削除済みユーザー
 
 #### Comments (5)
