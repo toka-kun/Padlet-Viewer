@@ -1297,7 +1297,7 @@
 ---
 
 ### 54. 誠意大将軍の雑談部屋
-**Author:** 墓守のウェザエモン (masakik)
+**Author:** 27年2月末迄活動休止のウェザエモン (masakik)
 
 <p>僕の部屋ではみんなが雑談している部屋にしたいです。</p><p>只今無料開放中です！ライター権限の申請は必要ありません！</p><p>※部屋で投稿やコメントした時点でコラボレーター入りさせていただきます。</p><p>また、今なら高頻度の浮上ができる人のみ希望者はモデ・管理者権限を付与できます！</p><p>ぜひ来てね～</p>
 
@@ -1423,7 +1423,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768787704&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pj0m0cLVAlA23z1YDq8QLDYLLRvLUvnQ43v58TemieOUoESXYKRk1hTbBsJ31914ZkOTcXuw2En8EvXgTSRiIvfBSLKHT1xfJIGyoLGodhgL5lZy4zoiSB05DVlzIqyx9JfJlc%2FvkSXaM%2FDZnmDMNN5ZganEzNUJ%2FfI%2FX9qb00A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768794652&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tsq9nE3l2mBysOc4%2F5UH5srr07gA2IpHjxbEQCWJnc2aB4RMvhwA1vY3kJhs3IkEXvMGNM5IgplfCS4CTN1T1bKGEIdmvNU6HAlb9tokGG45cumFcJICHb8SmCnIYnHrVkkjU8N0ZzUfQezDfaTVcKEsm4UkGxgHZUXb0DwH0XY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
@@ -1450,7 +1450,7 @@
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): まぐろくどうやった？
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:30pm): ちょ....ライターください....。
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:30pm): せっかく誘ってもらえたのに...。
-- **墓守のウェザエモン** (Sep 17, 2025 07:47am): 僕の部屋が承認されてません
+- **27年2月末迄活動休止のウェザエモン** (Sep 17, 2025 07:47am): 僕の部屋が承認されてません
 - **るい** (Oct 07, 2025 10:13am): 投稿できません
 - **るい** (Oct 13, 2025 07:16am): ?
 - **ᏁγᎶ » Tøka_Kuŋ_** (Oct 15, 2025 09:45pm): 投稿フォーム載せてるやん
