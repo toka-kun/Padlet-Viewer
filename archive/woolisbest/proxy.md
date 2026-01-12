@@ -7,7 +7,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 65
 - **Created At (UTC):** Nov 30, 2025 01:57am
-- **Updated At (UTC):** Jan 12, 2026 08:14am
+- **Updated At (UTC):** Jan 12, 2026 09:14am
 
 ## ルール
 
@@ -56,9 +56,10 @@
 
 <p>つくるかも...</p><p>一か月以内w</p>
 
-#### Comments (7)
+#### Comments (8)
 - **あまつき** (Dec 19, 2025 01:45pm): れんtubeがほしいです
 - **Yusho** (Dec 14, 2025 03:18am): wktk
+- **メガリザードンX ＃いやっほい族10代目** (Jan 12, 2026 09:14am): ステメアド欲しい
 - **Yusho** (Dec 31, 2025 11:53pm): Utopiaほしい〜（便乗）
 - **🧊** (Jan 06, 2026 05:30am): I-FILTER突破できるやつ欲しいー（なんでもいい）
 - **Yusho** (Dec 11, 2025 09:37am): Utopiaです！
@@ -197,7 +198,7 @@
 
 <p>gn-mathが死にました...(DMCA削除通知によりリポジトリが利用不可です。</p><p>このリポジトリは現在、DMCA削除通知により無効化されています。リポジトリへの公開アクセスを停止しました。通知は公開されています。</p><p>リポジトリの所有者であり、誤りや誤認によりリポジトリが無効化されたとお考えの場合は、反論通知を提出しリポジトリを復元する権利があります。当社のヘルプ記事では、DMCA 削除ポリシーの詳細と反論通知の提出方法について説明しています。このプロセスや反論通知提出に伴うリスクについてご質問がある場合は、弁護士に相談されることをお勧めします。)Deepl翻訳です</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/e820002dc52dc34bb27e1d2425d31ef0/image.png?Expires=1768811720&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=07jRXyylCFR9ZWwlyml0MhrF7AAVqkeCKjhjPuEdD7l2YN8iazkpSni5lI5mEf%2FY8dzCkldcQt%2F6GPh4GZvqbDlAUOhC7x8M5JXjhJQE1ZP7BGQy3b5PAisEZ9GKFFX%2F%2Bc7p6xUKpN3lfXDKTjBaI3OMbUESKn0fqfuyppX6q6Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fe820002dc52dc34bb27e1d2425d31ef0%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4584240340/e820002dc52dc34bb27e1d2425d31ef0/image.png?Expires=1768815274&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OsWAqSNj0LtoPSbfi32Ma62pGD5%2Fc3PIWUM%2FoPVhgHry1Ga3lsjgVsdUbGc6jAMEuOoP0%2BLWAUYb78JVCV8H5zAFVs%2FApNhD9nEh%2F1yFrTK3VZWLE%2FID4SPBmVWNjW8iOiY8gI%2BGvlrkvZRcBEqwz7v0ehYJAJCR0Bp4NqcgZEA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4584240340%2Fe820002dc52dc34bb27e1d2425d31ef0%2Fimage.png)
 
 #### Comments (4)
 - **Natsu** (Dec 18, 2025 02:23am): よくわかんない♡
