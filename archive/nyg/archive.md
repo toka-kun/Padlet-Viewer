@@ -5,9 +5,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 147
+- **Posts:** 148
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Jan 11, 2026 03:58am
+- **Updated At (UTC):** Jan 12, 2026 04:31am
 
 ## セクション一覧
 
@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768794636&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cIZEZY%2BXuJWKhU1fNe8D3Lmtd5hQO%2FabrP9uPotBik6eDIsEK6AyJ%2BjYamVKFHNJC37JQcvP9Gh38A1sDVT3l2ww3R9irynPCxrSC08wEgkMKC8R4Mfp8u5s2Qgpvl7kjm0LhPISVb9EF93dOqP%2FilYV89yg29Hul67%2Bi98wXBc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768798313&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CpUFWeiBTwiSxZjLDugX1v%2FXk32jhr2sct2xs8RXNqHYQ9x1JWHkEOmOb3ocG7erEVRJHwyw9jhsPuGvTGhJvweyx0LrDA9hEpkz8Xvh3L2Qi31w0qTesFP8mak%2BFfZLTRBeoZ8bjORe5%2BoAHCSMLIzlnF%2FvSb3cXuDoOeeBE48%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1844,12 +1844,12 @@
 
 ---
 
-## リクエスト・相談・質問・フィルター関連
+## リクエストや相談、質問
 
 ### 1. 2025/11/23からのアーカイブ
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/7PY5qNyEWk8x2Ba8-oAdpz24dgkRJv10R"><strong>リクエストや相談、質問</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/YQjo4KGQnkOd4DwL-oAdpz24dgkRJv10R"><strong>i-FILTER専用</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/J7z0qjKOd7XevmWQ-oAdpz24dgkRJv10R"><strong>ISGC専用</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/nRxeqrnONllwq56P-oAdpz24dgkRJv10R"><strong>Cisco umbrella専用</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/8G57v19RaAL0vdVX-oAdpz24dgkRJv10R"><strong>ICFS専用</strong></a></p></li></ul></li></ul>
+<ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/7PY5qNyEWk8x2Ba8-oAdpz24dgkRJv10R"><strong>リクエストや相談、質問</strong></a></p></li></ul>
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1858,7 +1858,243 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Dec 20, 2025 09:18am
-- **Updated At (UTC):** Dec 20, 2025 09:21am
+- **Updated At (UTC):** Jan 12, 2026 04:31am
+
+---
+
+### 2. スタートページの代わりかディスコードが使える方法orサイトが欲しい
+**Author:** Cheerful Piranha
+
+<p>スタートページ自体はブロックされてないんだけど匿名でビューするとus2？がブロックされてしまいます</p>
+
+#### Comments (2)
+- **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Jan 05, 2026 04:19pm): ランマーにURLぶちこめばいけるよ
+- **woolisbest** (Jan 05, 2026 11:25pm): ww
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 05, 2026 02:46pm
+- **Updated At (UTC):** Jan 11, 2026 12:24am
+
+---
+
+### 3. 自由に検索できる、Proxy検索エンジン無料サイトがほしいです
+**Author:** Proxyないと生きていけない
+
+#### Comments (4)
+- **Proxy無いと生きていけない** (Jan 05, 2026 07:22pm): そうです匿名表示から規制が、、、
+- **ᏁγᎶ » Tøka_Kuŋ_** (Jan 05, 2026 01:07am): https://www.startpage.com/ が無理になったってこと？
+- **ᴎeoᴎӝ ❤️‍🔥✘_ ✘ ﷺ** (Jan 06, 2026 12:54pm): copp.gg
+- **woolisbest** (Jan 05, 2026 11:25pm):  . . .
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 04, 2026 10:26am
+- **Updated At (UTC):** Jan 11, 2026 12:24am
+
+---
+
+### 4. daydreamX くれー
+**Author:** あ
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 08, 2026 09:33am
+- **Updated At (UTC):** Jan 11, 2026 12:22am
+
+---
+
+### 5. ファイルなうを使いたいのですがおすすめのプロ棋士とかありますか？
+**Author:** siitakeeeee
+
+#### Comments (1)
+- **削除済みユーザー** (Jan 09, 2026 09:52am): らんまー
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 07, 2026 12:48pm
+- **Updated At (UTC):** Jan 11, 2026 12:22am
+
+---
+
+### 6. 輪トレっていうアプリ入れられるよって人いますか？
+**Author:** せなたろう (SENATAROu)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 07, 2026 12:47pm
+- **Updated At (UTC):** Jan 11, 2026 12:22am
+
+---
+
+### 7. 恋愛したい
+**Author:** Fabulous Magpie
+
+<p>誰か恋愛チャット持ってる方がいればお願いします。</p>
+
+#### Comments (2)
+- **woolisbest** (Jan 05, 2026 07:59am): 草
+- **いちごみるく🍓** (Jan 06, 2026 12:20am): マチアプ(マッチングアプリ)とかいいんじゃない..？
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 04, 2026 04:38pm
+- **Updated At (UTC):** Jan 11, 2026 12:22am
+
+---
+
+### 8. DayDreamXとか
+**Author:** Hopeful Cheetah
+
+<p>Twitter入れるプロキシある？誰か持ってない〜？</p>
+
+#### Comments (4)
+- **woolisbest** (Jan 05, 2026 07:59am): w
+- **woolisbest** (Jan 05, 2026 08:00am): これでいい？
+- **woolisbest** (Jan 05, 2026 08:00am): 1000以上はあるはず...
+- **woolisbest** (Jan 05, 2026 08:00am): https://woolisbest.lema.cl/proxy/proxe/ddx.txt
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 04, 2026 02:25pm
+- **Updated At (UTC):** Jan 11, 2026 12:22am
+
+---
+
+### 9. Steam垢プロキシ通すと使えなくて草
+**Author:** 削除済みユーザー (Giveapple)
+
+<p>Steam垢だれかくれ</p><p>報酬は持ってるサイトあげる</p>
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 02, 2026 01:06pm
+- **Updated At (UTC):** Jan 10, 2026 10:31pm
+
+---
+
+### 10. 誰か普通の画面でようつべ見れるサイト持ってない？shortだけでも構わん
+**Author:** 削除済みユーザー (Giveapple)
+
+<p>らんまーはshort45本くらいで見れなくなるからなぁ　Bot確認される</p><p>時間おいたら解決できるけどだるい</p>
+
+#### Comments (7)
+- **あ** (Dec 23, 2025 08:59am): 誰かフォトナできるサイトない？
+- **Charismatic Lion** (Dec 23, 2025 10:50pm): YouTubeじゃなくてさ、サイト
+- **Enthusiastic Gecko** (Dec 22, 2025 12:20pm): そんなことよりURL打ち込むやつができんくなった
+- **菜奈** (Dec 23, 2025 10:58am): ？？https://nana.a.drciocan.ro/　これにyoutubeのリンク打ち込めばいけるよ！　URL打ち込むやつが出来ないというのはダウンローダーのこと？それなら→https://postsyncer.com/tools/youtube-video-downloader　で。
+- **AU_ 3821632** (Dec 25, 2025 05:00am): 横と縦両方見れるよ
+- **AU_ 3821632** (Dec 25, 2025 04:59am): https://www-proxy.ladifsoftware.com/こういうの？
+- **削除済みユーザー** (Dec 22, 2025 01:12pm): どゆこと
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 22, 2025 12:18pm
+- **Updated At (UTC):** Dec 27, 2025 08:26am
+
+---
+
+### 11. 誰かアニメ見れるサイトないですか
+
+**Author:** Natsu (masayukii0814)
+
+<p>お願いしますｳｳｳ</p>
+
+#### Comments (4)
+- **ルッキー** (Dec 12, 2025 05:07am): abema!
+- **Reliable Robin** (Dec 13, 2025 12:17pm): startpageでfree animeって検索して一番上に出てきたのを匿名ビューで閲覧する
+- **Natsu** (Dec 14, 2025 05:43am): そのサイトをプロキシで開けばいけました!!ありがとうございます
+- **Natsu** (Dec 14, 2025 05:43am): 🙇
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 12, 2025 04:06am
+- **Updated At (UTC):** Dec 21, 2025 07:31am
+
+---
+
+### 12. Xログインできるプロキシありませんか？
+**Author:** 結菜？ (Yuinaday001008)
+
+#### Comments (3)
+- **削除済みユーザー** (Dec 19, 2025 02:19pm): ちょっと前まではらんまーで行けたんだけどねぇ⋯
+- **レイ　#最近ていふ** (Dec 12, 2025 12:13pm): ない
+- **Ji** (Dec 14, 2025 04:54am): Googleアカウントを作るときにブロックされないプロキシってありますか？
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 10, 2025 11:23am
+- **Updated At (UTC):** Dec 21, 2025 07:31am
+
+---
+
+### 13. 太鼓ウェブについて
+**Author:** ꧁日本国民ゆ〜꧂  #煮物810番弟子 (nippon_banzai)
+
+<p>太鼓ウェブってRenderでデプロイできるなら<a rel="noopener noreferrer nofollow" href="http://ydns.eu">ydns.eu</a>とかでもできるん？　できるんだったら作ってほしい（またはrailway）</p>
+
+#### Comments (1)
+- **Reliable Robin** (Dec 13, 2025 12:17pm): Renderデプロイできなかったはず
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 06, 2025 11:39am
+- **Updated At (UTC):** Dec 21, 2025 07:31am
+
+---
+
+### 14. クロムでできるロブロックスください
+**Author:** あ (s02200071)
+
+<p>よろしくお願いします</p>
+
+#### Comments (5)
+- **Massa_games216** (Nov 30, 2025 11:50pm): 規制の種類は？
+- **学校のパソコンでプロキシ探して規制して遊ぶ受験生** (Dec 02, 2025 09:25am): ↑ブレインゴットを盗む
+- **S&A** (Dec 13, 2025 05:13am): 僕は弾かれた
+- **S&A** (Dec 13, 2025 05:14am): 新しいのないですか？
+- **学校のパソコンでプロキシ探して規制して遊ぶ受験生** (Dec 02, 2025 09:25am): https://www.msn.com/en-my/play/games/steal-brainrot-online/cg-9pltx207s22g?ocid=cgpwa
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Nov 29, 2025 10:16am
+- **Updated At (UTC):** Dec 21, 2025 07:31am
+
+---
+
+### 15. わかめについて
+**Author:** ꧁日本国民ゆ〜꧂  #煮物810番弟子 (nippon_banzai)
+
+<p>railwayでわかめの作り方教えてほしい</p>
+
+#### Comments (8)
+- **ᏁγᎶ » Tøka_Kuŋ_** (Nov 13, 2025 02:02pm): お願い
+- **ᏁγᎶ » Tøka_Kuŋ_** (Nov 09, 2025 12:45am): Renderみたいにやれば良いよ
+- **ᏁγᎶ » Tøka_Kuŋ_** (Dec 10, 2025 11:39am): YouTubeで
+- **ネオンch** (Nov 09, 2025 03:42am): https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/4590150531/dbd99899e867135c783b4f76a7a2ed76/_________1__copy1.gif?token=8T1OLdr_uhZODHisc7N3BIYiU0G9wo1BWi5Zf4sJnyp0jcF00rVie9wH7peG8pWm60sIqDp7zpZFigbzrdIbKFyi4wcUAs2pSW7TRwWva4w_zWMs76WJCY0pvJXRjLab2s-4PJJHkrLvpogBrn7qPwghmOZOAUoQ9tPgv5Sdj2_6FKYUv7Z2lnT3bmS_eL77ZM5j-2jvQv_vtSHwvpyr-ZWgioaWRLnbotvPoiJMMiIzRlRhnI-hgZFBeB-9ivLN
+- **029大好き！(会長910)#ウルトラ第三番弟子** (Dec 01, 2025 01:23am): じゃあニコニコかYouTubeどっちがええ？
+- **029大好き！(会長910)#ウルトラ第三番弟子** (Nov 12, 2025 11:57pm): 主さんこれ私動画作った方がええ感じ？
+- **꧁日本国民ゆ〜꧂  #煮物810番弟子** (Nov 09, 2025 10:14pm): ？
+- **ᏁγᎶ » Tøka_Kuŋ_** (Nov 15, 2025 08:50am): リンクを変えるときにプロジェクトを削除する必要が無いことも書いといて欲しい
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Nov 09, 2025 12:04am
+- **Updated At (UTC):** Dec 21, 2025 07:30am
+
+---
+
+## フィルター関連
+
+### 1. 2025/11/23からのアーカイブ
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+<ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/YQjo4KGQnkOd4DwL-oAdpz24dgkRJv10R"><strong>i-FILTER専用</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/J7z0qjKOd7XevmWQ-oAdpz24dgkRJv10R"><strong>ISGC専用</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/nRxeqrnONllwq56P-oAdpz24dgkRJv10R"><strong>Cisco umbrella専用</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/8G57v19RaAL0vdVX-oAdpz24dgkRJv10R"><strong>ICFS専用</strong></a></p></li></ul>
+
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** Jan 12, 2026 04:32am
+- **Updated At (UTC):** Jan 12, 2026 04:32am
 
 ---
 
@@ -1875,7 +2111,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jan 05, 2026 05:27am
-- **Updated At (UTC):** Jan 11, 2026 12:25am
+- **Updated At (UTC):** Jan 12, 2026 04:32am
 
 ---
 
@@ -1897,7 +2133,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jan 07, 2026 07:51am
-- **Updated At (UTC):** Jan 11, 2026 12:25am
+- **Updated At (UTC):** Jan 12, 2026 04:32am
 
 ---
 
@@ -1916,7 +2152,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jan 06, 2026 04:51am
-- **Updated At (UTC):** Jan 11, 2026 12:25am
+- **Updated At (UTC):** Jan 12, 2026 04:32am
 
 ---
 
@@ -1935,43 +2171,11 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jan 06, 2026 03:31am
-- **Updated At (UTC):** Jan 11, 2026 12:25am
+- **Updated At (UTC):** Jan 12, 2026 04:32am
 
 ---
 
-### 6. スタートページの代わりかディスコードが使える方法orサイトが欲しい
-**Author:** Cheerful Piranha
-
-<p>スタートページ自体はブロックされてないんだけど匿名でビューするとus2？がブロックされてしまいます</p>
-
-#### Comments (2)
-- **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Jan 05, 2026 04:19pm): ランマーにURLぶちこめばいけるよ
-- **woolisbest** (Jan 05, 2026 11:25pm): ww
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jan 05, 2026 02:46pm
-- **Updated At (UTC):** Jan 11, 2026 12:24am
-
----
-
-### 7. 自由に検索できる、Proxy検索エンジン無料サイトがほしいです
-**Author:** Proxyないと生きていけない
-
-#### Comments (4)
-- **Proxy無いと生きていけない** (Jan 05, 2026 07:22pm): そうです匿名表示から規制が、、、
-- **ᏁγᎶ » Tøka_Kuŋ_** (Jan 05, 2026 01:07am): https://www.startpage.com/ が無理になったってこと？
-- **ᴎeoᴎӝ ❤️‍🔥✘_ ✘ ﷺ** (Jan 06, 2026 12:54pm): copp.gg
-- **woolisbest** (Jan 05, 2026 11:25pm):  . . .
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jan 04, 2026 10:26am
-- **Updated At (UTC):** Jan 11, 2026 12:24am
-
----
-
-### 8. ISGCをぶっ壊す
+### 6. ISGCをぶっ壊す
 **Author:** πr²(パイアール2) (naganaga)
 
 #### Comments (19)
@@ -1998,111 +2202,11 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Dec 10, 2025 12:19am
-- **Updated At (UTC):** Jan 11, 2026 12:24am
+- **Updated At (UTC):** Jan 12, 2026 04:32am
 
 ---
 
-### 9. daydreamX くれー
-**Author:** あ
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jan 08, 2026 09:33am
-- **Updated At (UTC):** Jan 11, 2026 12:22am
-
----
-
-### 10. ファイルなうを使いたいのですがおすすめのプロ棋士とかありますか？
-**Author:** siitakeeeee
-
-#### Comments (1)
-- **削除済みユーザー** (Jan 09, 2026 09:52am): らんまー
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jan 07, 2026 12:48pm
-- **Updated At (UTC):** Jan 11, 2026 12:22am
-
----
-
-### 11. 輪トレっていうアプリ入れられるよって人いますか？
-**Author:** せなたろう (SENATAROu)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jan 07, 2026 12:47pm
-- **Updated At (UTC):** Jan 11, 2026 12:22am
-
----
-
-### 12. 恋愛したい
-**Author:** Fabulous Magpie
-
-<p>誰か恋愛チャット持ってる方がいればお願いします。</p>
-
-#### Comments (2)
-- **woolisbest** (Jan 05, 2026 07:59am): 草
-- **いちごみるく🍓** (Jan 06, 2026 12:20am): マチアプ(マッチングアプリ)とかいいんじゃない..？
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jan 04, 2026 04:38pm
-- **Updated At (UTC):** Jan 11, 2026 12:22am
-
----
-
-### 13. DayDreamXとか
-**Author:** Hopeful Cheetah
-
-<p>Twitter入れるプロキシある？誰か持ってない〜？</p>
-
-#### Comments (4)
-- **woolisbest** (Jan 05, 2026 07:59am): w
-- **woolisbest** (Jan 05, 2026 08:00am): これでいい？
-- **woolisbest** (Jan 05, 2026 08:00am): 1000以上はあるはず...
-- **woolisbest** (Jan 05, 2026 08:00am): https://woolisbest.lema.cl/proxy/proxe/ddx.txt
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jan 04, 2026 02:25pm
-- **Updated At (UTC):** Jan 11, 2026 12:22am
-
----
-
-### 14. Steam垢プロキシ通すと使えなくて草
-**Author:** 削除済みユーザー (Giveapple)
-
-<p>Steam垢だれかくれ</p><p>報酬は持ってるサイトあげる</p>
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jan 02, 2026 01:06pm
-- **Updated At (UTC):** Jan 10, 2026 10:31pm
-
----
-
-### 15. 誰か普通の画面でようつべ見れるサイト持ってない？shortだけでも構わん
-**Author:** 削除済みユーザー (Giveapple)
-
-<p>らんまーはshort45本くらいで見れなくなるからなぁ　Bot確認される</p><p>時間おいたら解決できるけどだるい</p>
-
-#### Comments (7)
-- **あ** (Dec 23, 2025 08:59am): 誰かフォトナできるサイトない？
-- **Charismatic Lion** (Dec 23, 2025 10:50pm): YouTubeじゃなくてさ、サイト
-- **Enthusiastic Gecko** (Dec 22, 2025 12:20pm): そんなことよりURL打ち込むやつができんくなった
-- **菜奈** (Dec 23, 2025 10:58am): ？？https://nana.a.drciocan.ro/　これにyoutubeのリンク打ち込めばいけるよ！　URL打ち込むやつが出来ないというのはダウンローダーのこと？それなら→https://postsyncer.com/tools/youtube-video-downloader　で。
-- **AU_ 3821632** (Dec 25, 2025 05:00am): 横と縦両方見れるよ
-- **AU_ 3821632** (Dec 25, 2025 04:59am): https://www-proxy.ladifsoftware.com/こういうの？
-- **削除済みユーザー** (Dec 22, 2025 01:12pm): どゆこと
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 22, 2025 12:18pm
-- **Updated At (UTC):** Dec 27, 2025 08:26am
-
----
-
-### 16. 仮説だけど話します。是非見て
+### 7. 仮説だけど話します。是非見て
 **Author:** k&K (gs185779)
 
 <p>＊これから書くことは全て仮説や自分の独断　　とか偏見です</p><p><br></p><p><br></p><p>自分の住んでいる地域では2ヶ月一回位の</p><p>ペースでタブレットの更新が入っるんだけど</p><p>その更新されるときに多分履歴とかも見られるんだけどその時多分見られるのが一週間以内の履歴だと思うのよ。なんでそう思うかというと、今日更新日だったんだけど昨日閲覧したれんれんとかMSNとかが規制されてて一週間前に閲覧したわかめがまだ生きてたのよ</p><p><br></p><p>この意見どう思うか聞きたいから</p><p>コメントに書いて！！</p>
@@ -2122,97 +2226,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Dec 18, 2025 10:20am
-- **Updated At (UTC):** Dec 27, 2025 08:25am
-
----
-
-### 17. 誰かアニメ見れるサイトないですか
-
-**Author:** Natsu (masayukii0814)
-
-<p>お願いしますｳｳｳ</p>
-
-#### Comments (4)
-- **ルッキー** (Dec 12, 2025 05:07am): abema!
-- **Reliable Robin** (Dec 13, 2025 12:17pm): startpageでfree animeって検索して一番上に出てきたのを匿名ビューで閲覧する
-- **Natsu** (Dec 14, 2025 05:43am): そのサイトをプロキシで開けばいけました!!ありがとうございます
-- **Natsu** (Dec 14, 2025 05:43am): 🙇
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 12, 2025 04:06am
-- **Updated At (UTC):** Dec 21, 2025 07:31am
-
----
-
-### 18. Xログインできるプロキシありませんか？
-**Author:** 結菜？ (Yuinaday001008)
-
-#### Comments (3)
-- **削除済みユーザー** (Dec 19, 2025 02:19pm): ちょっと前まではらんまーで行けたんだけどねぇ⋯
-- **レイ　#最近ていふ** (Dec 12, 2025 12:13pm): ない
-- **Ji** (Dec 14, 2025 04:54am): Googleアカウントを作るときにブロックされないプロキシってありますか？
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 10, 2025 11:23am
-- **Updated At (UTC):** Dec 21, 2025 07:31am
-
----
-
-### 19. 太鼓ウェブについて
-**Author:** ꧁日本国民ゆ〜꧂  #煮物810番弟子 (nippon_banzai)
-
-<p>太鼓ウェブってRenderでデプロイできるなら<a rel="noopener noreferrer nofollow" href="http://ydns.eu">ydns.eu</a>とかでもできるん？　できるんだったら作ってほしい（またはrailway）</p>
-
-#### Comments (1)
-- **Reliable Robin** (Dec 13, 2025 12:17pm): Renderデプロイできなかったはず
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 06, 2025 11:39am
-- **Updated At (UTC):** Dec 21, 2025 07:31am
-
----
-
-### 20. クロムでできるロブロックスください
-**Author:** あ (s02200071)
-
-<p>よろしくお願いします</p>
-
-#### Comments (5)
-- **Massa_games216** (Nov 30, 2025 11:50pm): 規制の種類は？
-- **学校のパソコンでプロキシ探して規制して遊ぶ受験生** (Dec 02, 2025 09:25am): ↑ブレインゴットを盗む
-- **S&A** (Dec 13, 2025 05:13am): 僕は弾かれた
-- **S&A** (Dec 13, 2025 05:14am): 新しいのないですか？
-- **学校のパソコンでプロキシ探して規制して遊ぶ受験生** (Dec 02, 2025 09:25am): https://www.msn.com/en-my/play/games/steal-brainrot-online/cg-9pltx207s22g?ocid=cgpwa
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Nov 29, 2025 10:16am
-- **Updated At (UTC):** Dec 21, 2025 07:31am
-
----
-
-### 21. わかめについて
-**Author:** ꧁日本国民ゆ〜꧂  #煮物810番弟子 (nippon_banzai)
-
-<p>railwayでわかめの作り方教えてほしい</p>
-
-#### Comments (8)
-- **ᏁγᎶ » Tøka_Kuŋ_** (Nov 13, 2025 02:02pm): お願い
-- **ᏁγᎶ » Tøka_Kuŋ_** (Nov 09, 2025 12:45am): Renderみたいにやれば良いよ
-- **ᏁγᎶ » Tøka_Kuŋ_** (Dec 10, 2025 11:39am): YouTubeで
-- **ネオンch** (Nov 09, 2025 03:42am): https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/4590150531/dbd99899e867135c783b4f76a7a2ed76/_________1__copy1.gif?token=8T1OLdr_uhZODHisc7N3BIYiU0G9wo1BWi5Zf4sJnyp0jcF00rVie9wH7peG8pWm60sIqDp7zpZFigbzrdIbKFyi4wcUAs2pSW7TRwWva4w_zWMs76WJCY0pvJXRjLab2s-4PJJHkrLvpogBrn7qPwghmOZOAUoQ9tPgv5Sdj2_6FKYUv7Z2lnT3bmS_eL77ZM5j-2jvQv_vtSHwvpyr-ZWgioaWRLnbotvPoiJMMiIzRlRhnI-hgZFBeB-9ivLN
-- **029大好き！(会長910)#ウルトラ第三番弟子** (Dec 01, 2025 01:23am): じゃあニコニコかYouTubeどっちがええ？
-- **029大好き！(会長910)#ウルトラ第三番弟子** (Nov 12, 2025 11:57pm): 主さんこれ私動画作った方がええ感じ？
-- **꧁日本国民ゆ〜꧂  #煮物810番弟子** (Nov 09, 2025 10:14pm): ？
-- **ᏁγᎶ » Tøka_Kuŋ_** (Nov 15, 2025 08:50am): リンクを変えるときにプロジェクトを削除する必要が無いことも書いといて欲しい
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Nov 09, 2025 12:04am
-- **Updated At (UTC):** Dec 21, 2025 07:30am
+- **Updated At (UTC):** Jan 12, 2026 04:32am
 
 ---
 
