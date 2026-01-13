@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768897980&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XJ%2BeKSN93PGrBiqdbMcXXz1ASwOb5wzO88ORpWiqhFoLlS16T9fdOl8SCaCcro42li%2BU6sw79y%2B%2FEh%2BfWyC5UbAU2FoNMXU%2FsUjQeSG%2FTqvktVT7Q0kdrCvt%2FAf%2BrGLFmVBuBb0Zb62ln46w2kgpS5VP7g3en1AGq0Sc882rOCY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768901364&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ROE%2FhV8mYyVofaZx9VIPTMjp7wPlyd%2Bltzd1YZx5TuAwAgnaWDXJgvmX0wGo8M05BQkKg%2B9ODT7rn%2FiuWc5ptkJ9KuwWmJ8L3bL8eCQjc1o66Gb2ECSGzm0p2NZVjjXavq31HfzLBAk3UTJCv0izHGLJKTzt7oqW3k2Vu4TlUYw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -653,7 +653,7 @@
 ---
 
 ### 12. どうも
-**Author:** かいと (HALVES_LOVEx_x)
+**Author:** かいと (HALVES_LOVE)
 
 #### Comments (1)
 - **菜奈** (Jan 10, 2026 07:01am): どーもー！

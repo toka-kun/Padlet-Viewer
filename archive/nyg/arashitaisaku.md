@@ -108,7 +108,7 @@
 ## 保管倉庫①
 
 ### 1. かいと
-**Author:** かいと (HALVES_LOVEx_x)
+**Author:** かいと (HALVES_LOVE)
 
 #### Additional Information
 - **Post color:** White
