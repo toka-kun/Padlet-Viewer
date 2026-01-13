@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768886803&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vKJl2QbenJMriTHeklqYz2zxJZWanaeVSZ3yLFW5xL3N9Nrv7J%2FEqx%2FWkDgrMb3yaQPzGLbY2V7FtUYRREkOqC1TqaIO86y7xIiXgwX%2B3Yl9F5Tm4jUL2qHEz6y7cJvalQX1ThlG3u9Rl4%2BOQSydEdi01yYFxqXKwtczJfY2GOQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768890974&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=v3y4zinfwCFn%2BZwbiiMoiZn2kLcl0aSuc2PFHRvMWaa%2B0ta0DrRJiFGOhFnyKOX%2BfG3xoacRjRQeMlXxLMotcZNuvtQEZkaHhexgfaI85ZDsnH9IfqwUasynHhLyx5uuZltVXWEbPz85v4sjz0T7IEVaP3SNJok3QHYqhAX9LjA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -113,7 +113,7 @@
 - **Anonymous** (Dec 21, 2025 05:00am): 新しいのお願いします！！！！
 - **盲目衛門** (Dec 09, 2025 03:10am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/x5m7aoggzO5yakAV) どうしたらいいですかね？有識者の方がいらっしゃいましたらお返事お願いしますちなみに通常の再生方法では再生できません
 - **woolisbest** (Dec 20, 2025 11:38am): 新しいの.....
-- **ネオンch** (Dec 12, 2025 11:08am): ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
+- **ラミン・ヤマル** (Dec 12, 2025 11:08am): ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
 - **Studious Tilapia** (Dec 06, 2025 02:30am): ナイス
 - **いちごみるく🍓** (Dec 06, 2025 08:36am): わーい
 - **woolisbest** (Dec 10, 2025 12:56am): w
@@ -177,8 +177,8 @@
 - **削除済みユーザー** (Dec 16, 2025 04:25am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/Xb8YaLXBx8OEayn1) 
 - **メガネ** (Nov 29, 2025 08:39am): ありがとうございます
 - **aotan　人生キャンセル界隈　失踪界隈　自殺界隈** (Nov 29, 2025 09:51am): わーい
-- **ネオンch** (Nov 29, 2025 11:19am): yuki見れんけど
-- **ネオンch** (Nov 29, 2025 11:19am): やった
+- **ラミン・ヤマル** (Nov 29, 2025 11:19am): yuki見れんけど
+- **ラミン・ヤマル** (Nov 29, 2025 11:19am): やった
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 02, 2025 06:44am): まじ？
 - **Anonymous** (Dec 19, 2025 07:04am): 拡散します！！
 
@@ -855,8 +855,8 @@
 - **woolisbest** (Dec 16, 2025 05:47am): 下旬？
 - **Massa_games216** (Dec 16, 2025 01:35pm): ないす
 - **woolisbest** (Dec 17, 2025 08:23am): 草
-- **ネオンch** (Dec 16, 2025 03:08am): 間近
-- **ネオンch** (Dec 16, 2025 03:09am): まじか
+- **ラミン・ヤマル** (Dec 16, 2025 03:08am): 間近
+- **ラミン・ヤマル** (Dec 16, 2025 03:09am): まじか
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Dec 17, 2025 12:21am): まあいつできるかわからないけど(こっちはこっちで受験がある)
 
 #### Additional Information
@@ -867,18 +867,18 @@
 ---
 
 ### 26. toka_kunさんいます？
-**Author:** ネオンch (r0305544)
+**Author:** ラミン・ヤマル (r0305544)
 
 <p>ラグすぎて学校から、3GB超えたから学校から怒られた！</p><p><br></p>
 
 #### Comments (8)
 - **Natsu** (Dec 16, 2025 04:20am): なぜ怒られる？
 - **πr²(パイアール2)** (Dec 18, 2025 02:31am): カタカナ入力にする時が来るとは・・・
-- **ネオンch** (Dec 16, 2025 03:15am): ロードしてる時がラグい
-- **ネオンch** (Dec 16, 2025 05:16am): 東京都はそうゆう制限かかかってるっぽい
+- **ラミン・ヤマル** (Dec 16, 2025 03:15am): ロードしてる時がラグい
+- **ラミン・ヤマル** (Dec 16, 2025 05:16am): 東京都はそうゆう制限かかかってるっぽい
 - **πr²(パイアール2)** (Dec 17, 2025 12:29am): ワタシTOKYOトミンデスガソンなノアリマセン（地域によって違う）
 - **Natsu** (Dec 17, 2025 11:11pm): (・∀・)ｲｲﾈ!!
-- **ネオンch** (Dec 16, 2025 05:15am): わからん
+- **ラミン・ヤマル** (Dec 16, 2025 05:15am): わからん
 - **πr²(パイアール2)** (Dec 17, 2025 08:01am): ちなみに23区内に住んでます
 
 #### Additional Information
@@ -976,7 +976,7 @@
 #### Comments (4)
 - **えみとー** (Dec 18, 2025 01:15am): ｗｗ
 - **垢移行したいっつぽー** (Dec 10, 2025 06:17am): www
-- **ネオンch** (Dec 11, 2025 05:54am): ｗ
+- **ラミン・ヤマル** (Dec 11, 2025 05:54am): ｗ
 - **Massa_games216** (Dec 10, 2025 08:56am): w
 
 #### Additional Information
@@ -992,7 +992,7 @@
 <p>どもども</p><p>色々受験勉強であれから作っていなくて久しぶりに戻った029(K会長)っす</p><p>最近できていない分、ここから作ろうとは思ってますー</p><p>ちなみになんかRailwayの作り方がわかんない人が多いらしいので、近日公開として、報告しときます</p><p>2025/12/6日　Railway作り方公開(YouTube&amp;ニコニコ&amp;TikTok)※TikTokに関しては公開という動画を投稿です)</p><p>同日　投票分&amp;新しいデプロイ配布(アニメが欲しいなら、公開しない限り私の部屋で一部の許可得る上で公開します)※拡散❌</p><p>12/7 TikTokライブ配信(ロブロックスorテトリス)</p>
 
 #### Comments (3)
-- **ネオンch** (Dec 16, 2025 05:23am): ナイス
+- **ラミン・ヤマル** (Dec 16, 2025 05:23am): ナイス
 - **Natsu** (Dec 06, 2025 07:42am): いえい
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Dec 09, 2025 04:51am): あああああああああああああああああああああじかんんんんがあああああああたりないいいいいいいいい
 
@@ -1050,7 +1050,7 @@
 - **長路大河** (Dec 07, 2025 02:19pm): どんまい
 - **菜奈** (Dec 07, 2025 10:39pm): されてない！☆（（（殴
 - **RX034** (Dec 11, 2025 08:48am): 俺もだあああああああああ
-- **ネオンch** (Dec 11, 2025 08:57am): 俺もー
+- **ラミン・ヤマル** (Dec 11, 2025 08:57am): 俺もー
 
 #### Additional Information
 - **Post color:** White
@@ -2145,7 +2145,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 13, 2025 02:02pm): お願い
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 09, 2025 12:45am): Renderみたいにやれば良いよ
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 10, 2025 11:39am): YouTubeで
-- **ネオンch** (Nov 09, 2025 03:42am): https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/4590150531/dbd99899e867135c783b4f76a7a2ed76/_________1__copy1.gif?token=8T1OLdr_uhZODHisc7N3BIYiU0G9wo1BWi5Zf4sJnyp0jcF00rVie9wH7peG8pWm60sIqDp7zpZFigbzrdIbKFyi4wcUAs2pSW7TRwWva4w_zWMs76WJCY0pvJXRjLab2s-4PJJHkrLvpogBrn7qPwghmOZOAUoQ9tPgv5Sdj2_6FKYUv7Z2lnT3bmS_eL77ZM5j-2jvQv_vtSHwvpyr-ZWgioaWRLnbotvPoiJMMiIzRlRhnI-hgZFBeB-9ivLN
+- **ラミン・ヤマル** (Nov 09, 2025 03:42am): https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/4590150531/dbd99899e867135c783b4f76a7a2ed76/_________1__copy1.gif?token=8T1OLdr_uhZODHisc7N3BIYiU0G9wo1BWi5Zf4sJnyp0jcF00rVie9wH7peG8pWm60sIqDp7zpZFigbzrdIbKFyi4wcUAs2pSW7TRwWva4w_zWMs76WJCY0pvJXRjLab2s-4PJJHkrLvpogBrn7qPwghmOZOAUoQ9tPgv5Sdj2_6FKYUv7Z2lnT3bmS_eL77ZM5j-2jvQv_vtSHwvpyr-ZWgioaWRLnbotvPoiJMMiIzRlRhnI-hgZFBeB-9ivLN
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Dec 01, 2025 01:23am): じゃあニコニコかYouTubeどっちがええ？
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Nov 12, 2025 11:57pm): 主さんこれ私動画作った方がええ感じ？
 - **꧁日本国民ゆ〜꧂  #煮物810番弟子** (Nov 09, 2025 10:14pm): ？
@@ -2255,12 +2255,12 @@
 #### Comments (19)
 - **Natsu** (Dec 14, 2025 05:37am): らしいです
 - **Massa_games216** (Dec 12, 2025 10:34am): >>ラグのやり方教えてください
-- **ネオンch** (Dec 12, 2025 11:09am): これhttps://padlet-artifacts.storage.googleapis.com/8c01cf9d56f0f88af06e5eb71fdba2173fadd860/17797487722a91a2792a3cec549fb426-h-e53a2b3b60a3202ea9e1a58d031395e1.gif
+- **ラミン・ヤマル** (Dec 12, 2025 11:09am): これhttps://padlet-artifacts.storage.googleapis.com/8c01cf9d56f0f88af06e5eb71fdba2173fadd860/17797487722a91a2792a3cec549fb426-h-e53a2b3b60a3202ea9e1a58d031395e1.gif
 - **woolisbest** (Dec 10, 2025 12:57am): ISGCのアプリ消せるんなら消してリセットしたらできたはず...
 - **花草海吏** (Dec 10, 2025 01:39am): モバイルデータ通信切ればできたはず
 - **Natsu** (Dec 10, 2025 06:14am): ラグくしまくったら？
 - **πr²(パイアール2)** (Dec 12, 2025 05:25am): ラグのやり方教えてください
-- **ネオンch** (Dec 12, 2025 11:10am): GBは余裕で行く
+- **ラミン・ヤマル** (Dec 12, 2025 11:10am): GBは余裕で行く
 - **Natsu** (Dec 14, 2025 05:37am): ①デスクとウィンドウは1つだけ残してすべて閉じる②規制の拡張機能をピン留めする②.5わざと規制されるサイトを一つだけ出す③10個のサイトを登録してあるブックマークを作る(規制されないサイトで)④ctrl＋rを連打しながら作ったブックマークを㉞回連打する⑤重くなってしばらく操作できなくなるから、10分〜20分、タブがすべて読み込まれるまで待つ⑥ピン留めした規制が消えたら成功。 読み込み終わってピン留めした拡張機能が消えてなかったら連打する回数を2回ずつ増やす。読み込む途中でPCが落ちたら減らす。
 - **πr²(パイアール2)** (Dec 14, 2025 11:51pm): あざす
 - **woolisbest** (Dec 10, 2025 06:21am): ｗ
@@ -2269,7 +2269,7 @@
 - **πr²(パイアール2)** (Dec 10, 2025 12:19am): できる方いたらコメントお願いします
 - **花草海吏** (Dec 10, 2025 01:39am): できんかったらごめ
 - **カービィ** (Dec 12, 2025 06:20am): パワーウォッシュ!!!
-- **ネオンch** (Dec 12, 2025 11:10am): リンクコピーシてこれをいっぱいやれば部屋作ってやばいほど貼りまくれば良い
+- **ラミン・ヤマル** (Dec 12, 2025 11:10am): リンクコピーシてこれをいっぱいやれば部屋作ってやばいほど貼りまくれば良い
 - **内臓** (Dec 16, 2025 02:03am): あざす
 - **こん** (Dec 19, 2025 05:08am): まずはありがとう
 
@@ -2352,7 +2352,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 23, 2025 11:58am): いる
 - **woolisbest** (Nov 23, 2025 12:28pm): https://raw.githubusercontent.com/woolisbest/crosproxy-list/refs/heads/main/main.txt
 - **woolisbest** (Nov 23, 2025 12:23pm): どこに載せたらいいんだ？
-- **ネオンch** (Nov 16, 2025 09:31pm): うん
+- **ラミン・ヤマル** (Nov 16, 2025 09:31pm): うん
 - **woolisbest** (Nov 17, 2025 09:07am): ww
 - **woolisbest** (Nov 23, 2025 11:26am): うん
 - **woolisbest** (Nov 23, 2025 12:22pm): おｋ
@@ -3009,7 +3009,7 @@
 <p>閲覧数100,000を達成するときに、質問コーナーを行うつもりなので、今のうちに質問をここに投稿しておいて下さい！</p>
 
 #### Comments (2)
-- **ネオンch** (Oct 22, 2025 11:46am): どうやって見る？
+- **ラミン・ヤマル** (Oct 22, 2025 11:46am): どうやって見る？
 - **おすし** (Sep 14, 2025 08:36am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/YBl3Z2xRGJ03av16) もういってるう
 
 #### Reactions
