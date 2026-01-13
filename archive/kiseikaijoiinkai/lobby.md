@@ -5,9 +5,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 40
+- **Posts:** 41
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Jan 13, 2026 12:33am
+- **Updated At (UTC):** Jan 13, 2026 06:56am
 
 ## ルール
 
@@ -69,7 +69,7 @@
 
 <p>とるっぷいが何者かによってBANされた！！！だから、とるっぷいが維持してた規制解除委員会本部部屋やVIP部屋が消えました！！なので、とるっぷい復帰まではここが臨時本部になるんやで。ってことでとるっぷい復帰までは何かあったらいときち(俺)or中居正広に行ってクレメンス。</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1768891025&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gCpGFYwjF5ABoAlcgJD4Us%2FIWxqXi9f0%2FnPt6h9tbCWSEzQKvFOcU7Ry%2BdaVZ2TTbLmx8zJm0Lfa5kv3PJBSW6jTPT50eMAQ57jXK5CgkWwPmVq%2Fop%2BXKnhECLBgmhoUNBDQxBJCc4iOH1cA%2BJN44DnUsAsZt%2FjXL3Zsyvde1wA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1768894008&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=o7QpTTy1VtPJgXgQmt9%2BEp0zyNXCEmyAOP1XIrZda9wHEOaNwYoRRVreEITcVBocB%2BLGwNG9Z6Keg0b5mgT%2BM%2F5XxpLTB95Lhq1rd%2Bqt1Ag73ED%2FKNa9f3kyOntF4578Lsc%2BC4dZF1EMgr%2FljOuK2Zv5ZR5XuVMNt3imxqLcJHA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
 
 #### Comments (1)
 - **中居** (Jan 09, 2026 11:54am): かなちい
@@ -88,7 +88,7 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1768891025&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CooPkBmBRNiDSeQqt95nVENWrLMbOg10yIoRFOyjbtBoKjuECl8DCUogHB9hsTTTJdFP6eVAjD%2F67L6nvrTBaP42eyZFNOd%2B864aYIOtDoVFxA5VDh%2B0S4SBcp%2BzNv235%2FFvqV303F7EOF2am7OTsTS6Ta37%2FIqjxDLN6vOH2pU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1768894008&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VEjlzrCnIoA%2BkDSMcTh6n%2FmM43c4J%2F5GnFkrz9HAUyVXO%2ByEgGdkMmqYRcxdNclWZSotWr9MIhOSpnBfG0658znxSV0yYxONiVqNLFfQgqpwHwh%2FPjBU7%2BSqBunOOgYasY38EmDS1qNV3faj1KJogIYqgVTCxdsbV73tu1KTH%2FQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Post color:** White
@@ -102,7 +102,7 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1768891025&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=oO1D7ORQHku%2FAgfW%2BDqHIrSQ7ONiNADYi8wX2%2FwplFWBvuUGDepp1%2BUAKs2GAwzdsKJSMh5AOM8i2ydkHNmOLh4U12LrTJYThYpMAmCZUliRPZKW7WvZjaTKF8S1FRRmmiC3%2Fvg7LxMstR3CH5UY%2BrZfHl7GECaK1Hyu85twoRs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1768894008&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OyoPsJfBkDx4S3o01xMtV2uQxzAWdgDCm%2FhdOYyCx4Ni8cZz3k4K5wvRIVqkr8UwhBxHOs0xC6JgthbbhEaY5dsaHwsu5Cys7079arRLdxyiNtodRNmmbNFFt5iyhp5%2BkhZ6NrRF2AxlphqUzZdfauAnjIK1mOvWIBt4ae2r4rE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Post color:** White
@@ -278,7 +278,19 @@
 
 ## エロ倉庫
 
-### 1. エロ倉庫
+### 1. いい感じ
+**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
+[Attachment](https://padlet.com/gs230887/padlet-735w621h13mq6fbb)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 13, 2026 06:56am
+- **Updated At (UTC):** Jan 13, 2026 06:56am
+
+---
+
+### 2. エロ倉庫
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 [Attachment](https://padlet.com/tori_tori/padlet-l0rtarjp1pmhbc9r)
@@ -511,7 +523,7 @@
 
 <p>えぐいてえええええええ</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1768891026&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KOsJVFUAYIYcK%2FGZBCK9sLMZQW3KUeGyxP%2FmVvnEC5Dm5eRVK81%2BeB1PqY65TyUfigoA12taijrY8GdKqnfKqcAaA%2BjnSZO7tGPDJskM6CX7vnyDIXMXXL24wgSrTwCsXwsXts8ZewxphSXSqHV8UJVaFSKi2AHMS1aSLu5OLPI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1768894008&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PyadEiguz7jEnxBXAUXnYcJrKTCqdgnDBLwkrlo9Et8KMXfNLPd12%2BKcy8jVMXdXDPS3oPqQbNtyRK34Xyb05v0sq6cVF%2BkQaKrx1r5al83bsjCg%2FKJ8btM8tzOQqnw%2FzqAURKplN4F4BU4rgYL%2B9x0W8%2BbabvmdC%2FwWnK3IBMY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
 
 #### Comments (3)
 - **いときち** (Oct 29, 2025 10:47am): えぐしゅぎ
