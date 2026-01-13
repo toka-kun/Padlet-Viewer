@@ -139,7 +139,7 @@
 ---
 
 ### 3. woolisbest部屋
-**Author:** woolisbest (woolisbest)
+**Author:** 削除済みユーザー
 
 <p>・雑談部屋です。</p><p>・旧煮物部屋です。（10/22に受け継ぎました）</p><p>・プロキもシ一応あります（頼んでもらえればいくらでも...）</p><p>・開発者が多いです（お気に入りのサイトを見つけられるかもしれません）</p><p>・毎月一回ほど大きなイベントがあります（プロキシなどの景品あり）</p><p>・最近過疎ってます</p><p>・プロキシ・youtubeサイトなどが欲しい人も来てください</p><p>・規制解除にも力をいれてます</p><p>・chat・meetに常に１人はいるので暇な方はどうぞ</p><p>・Discord版の部屋もあります</p><p>・マイクラ(eaglercraftファイル版）などをやっているときもあります（meet）</p><p>・管理者はもう増やしません</p><p>・モデレーターは増やすかもしれません</p><p>・古参（６人）はもう増やさないつもりです（減ったら募集）</p><p>・準古参（７人）はもう少し増やすつもりです</p><p>・やばいやつが多いです（面白いとも言う）</p><p>・宣伝禁止です（vip宣伝はあり）</p><p>・youtube plusの開発者もいるので要望があれば何でもどうぞ（なんとかします）</p><p>・プロキシがほしい方はこの部屋かプロキシ部屋で言ってください</p><p>・render・cloudflare・render custom domein・vercel・railway・googlesite・GASなどでサイトを作っているので使えるものを言っていただければそれを使います</p>
 
@@ -471,7 +471,7 @@
 ---
 
 ### 19. woolisbestのプロキシ部屋
-**Author:** woolisbest (woolisbest)
+**Author:** 削除済みユーザー
 
 <p>プロキシとゲームしかありません。</p><p>ご注意ください。</p>
 
@@ -1447,7 +1447,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768908102&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=a6yoaq6unCl23ZsQsP6X0pDo6t6ZoVIYEk70Dk5mGvXJCo5mVHuDN%2BgunhOeXRctZEqwhmN3Uzzjr1lvyzZkB5ts2%2BNWw0BxDESvfEL0SLTYy4D2aXVLF9Ri1%2FlevWWKLpS9HrKx9RdUsP3fDzU7Q64O3eDVK395dHPS6F28iLY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768913469&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TuUPLwhXSpJJYXVfmPgJHv00NN7KxrYs%2Bvv6iVgr1u8JqvQKq%2BBcJugGgf%2FIvM%2BkT9h6XoH5%2BhjNkCOBhMzMmIq33oaMx38SuASTS2pv01pO6%2FQ0XN0g9K5J873SVum2DuA95lyVjUnDVA91Vnc%2BRlMfoJaMsyXuQWr364l6xVU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・

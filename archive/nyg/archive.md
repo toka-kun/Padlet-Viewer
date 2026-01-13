@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768908080&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FqO0ddE5GFN%2FC3vE%2B4rGk6VHFWSwM5saBHtvy74r3h5IScgww3%2B%2Fl1RpRhxW3jltlkuEFGYc9gwbi2hW7qrdtZ97aftMsmKhQSxmUHr8uotcZwt2LP2lt1VjfoE46DcRgsw20GbOhAgFzmdHAc0FK7icuzsbC0uTljMnO9QIiNM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768913452&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=N1Fxdj5EQW2RBDqBMj2a0lRwnzuD8roPpMQMN7W5a1TnDaSNDXse1qTQgtUNpMa%2BDmbQhKLEIFyI1PlZ0o%2BwStSyTsavUfZLE%2Fjt9yyFXr3jagLJPPvgQk1EGMFC%2F7%2FPLGuQzr2Kzx%2B%2FjvsmQ7%2FzQAL41rvujgjsT1tlbRecttk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -69,7 +69,7 @@
 <ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/x871d592e">https://html.cafe/x871d592e</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet-viewer.pages.dev/">https://padlet-viewer.pages.dev/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet-viewer.smooth.ytalt.f5.si/">https://padlet-viewer.smooth.ytalt.f5.si/</a></p></li></ul>
 
 #### Comments (15)
-- **woolisbest** (Dec 22, 2025 02:08am): ww
+- **削除済みユーザー** (Dec 22, 2025 02:08am): ww
 - **Adorable Deer** (Dec 22, 2025 12:11am): 全風呂
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 21, 2025 01:11pm): >:D
 - **Anonymous** (Dec 23, 2025 01:03am): ｗｗ
@@ -80,7 +80,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 21, 2025 12:32am): 修正した
 - **ゆず** (Dec 21, 2025 08:04am): すご
 - **kitkat33112** (Dec 25, 2025 02:43am): セクション追加できないです
-- **woolisbest** (Dec 20, 2025 11:33am): ww
+- **削除済みユーザー** (Dec 20, 2025 11:33am): ww
 - **Studious Quokka** (Dec 30, 2025 06:04am): これ仕組みが気になる
 - **Playful Fly** (Dec 23, 2025 01:56am): HTML.cafeで作られてるやつは全ブロ
 - **Charismatic Lion** (Dec 23, 2025 08:18am): プロキシがだんだんブロックされてきましたhttps://www.startpage.com/これとかも入れるけど、サイトに行けないとかhttps://www.intagent.com/remoteview/index.phpこれはなんかできんくなった。新しいやつたくさんください 
@@ -102,26 +102,26 @@
 <p><strong>あとはプロキシを少し</strong></p><p><br></p><p><strong>2025/12/09追記: 僕の改造版わかめでトレンドを復活させました。</strong></p><p><br></p><p><strong>2025/12/14追記: YouTubeを更新</strong></p><p><br></p><p><strong>2025/12/20追記: YouTubeを更新</strong></p>
 
 #### Comments (26)
-- **woolisbest** (Dec 09, 2025 04:37am): あー
+- **削除済みユーザー** (Dec 09, 2025 04:37am): あー
 - **nonnon** (Dec 17, 2025 04:32am): すぐ治るから
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 09, 2025 03:10am): ずっと安定して使えるYouTubeサイトなんて存在しない
 - **盲目衛門** (Dec 09, 2025 08:49am): ありがとうございます😭
 - **Courageous Bat** (Dec 09, 2025 04:14pm): 😭
-- **woolisbest** (Dec 20, 2025 11:38am): こっちで作るか...
-- **woolisbest** (Dec 20, 2025 11:38am): ww
+- **削除済みユーザー** (Dec 20, 2025 11:38am): こっちで作るか...
+- **削除済みユーザー** (Dec 20, 2025 11:38am): ww
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 09, 2025 08:11am): いや多分一時的なやつ
 - **Anonymous** (Dec 21, 2025 05:00am): 新しいのお願いします！！！！
 - **盲目衛門** (Dec 09, 2025 03:10am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/x5m7aoggzO5yakAV) どうしたらいいですかね？有識者の方がいらっしゃいましたらお返事お願いしますちなみに通常の再生方法では再生できません
-- **woolisbest** (Dec 20, 2025 11:38am): 新しいの.....
+- **削除済みユーザー** (Dec 20, 2025 11:38am): 新しいの.....
 - **ラミン・ヤマル** (Dec 12, 2025 11:08am): ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
 - **Studious Tilapia** (Dec 06, 2025 02:30am): ナイス
 - **いちごみるく🍓** (Dec 06, 2025 08:36am): わーい
-- **woolisbest** (Dec 10, 2025 12:56am): w
+- **削除済みユーザー** (Dec 10, 2025 12:56am): w
 - **Affectionate Toad** (Dec 09, 2025 02:18am): しあチューブが使えなくなりました検索できなくなり動画も見れなくなりました
 - **盲目衛門** (Dec 09, 2025 02:41am): 質問なんですけどしあtubeが今日の朝から動画が見れなくなってしまいました↓のようになります
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 09, 2025 03:10am): 他のを使いな
-- **woolisbest** (Dec 09, 2025 04:38am): 同じことになったからわかる（sppedのやつ）
-- **woolisbest** (Dec 09, 2025 04:37am): それはしあtubeの使ってるAPIが使えなくなったんだよ
+- **削除済みユーザー** (Dec 09, 2025 04:38am): 同じことになったからわかる（sppedのやつ）
+- **削除済みユーザー** (Dec 09, 2025 04:37am): それはしあtubeの使ってるAPIが使えなくなったんだよ
 - **Respectful Flamingo** (Dec 09, 2025 08:19am): 少ししたらなおるよ
 - **Fancy Snail** (Dec 09, 2025 09:50am): 行ける
 - **nonnon** (Dec 17, 2025 04:33am): とはいえこういうときって一週間くらいかかるんだよね
@@ -150,7 +150,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 29, 2025 11:48am): 観れるよ？
 - **削除済みユーザー** (Dec 16, 2025 04:26am): ５
 - **．．．** (Nov 27, 2025 12:49am): ありがとう
-- **woolisbest** (Nov 25, 2025 11:05am): あざっす
+- **削除済みユーザー** (Nov 25, 2025 11:05am): あざっす
 - **Anonymous** (Dec 19, 2025 07:04am): はい
 - **nonnon** (Dec 17, 2025 04:33am): わかった
 - **Honest Llama** (Dec 01, 2025 11:29pm): 12月4にPC全員回収やねんけど涙
@@ -260,7 +260,7 @@
 - **SUBAR** (Oct 18, 2025 09:33am): ↑大谷参戦！
 - **おすし =D** (Oct 04, 2025 07:58am): すご
 - **削除済みユーザー** (Sep 16, 2025 12:19pm): 頑張ってください
-- **セイラ** (Sep 30, 2025 12:21am): すご〜い！
+- **粲** (Sep 30, 2025 12:21am): すご〜い！
 - **んだ** (Oct 03, 2025 02:30am): 頑張ってください。
 - **野獣先輩** (Dec 02, 2025 06:03am): 私は裏サイトを活用してゲームをしています
 
@@ -560,17 +560,17 @@
 ---
 
 ### 7. プロキシ500個遅れる
-**Author:** woolisbest (woolisbest)
+**Author:** 削除済みユーザー
 
 <p>代わりにこれ　一応10000くらいは載せてるよ</p><p><a rel="noopener noreferrer nofollow" href="https://woolisbest.lema.cl/proxy/home">https://woolisbest.lema.cl/proxy/home</a></p><p>規制だったら言ってくれ</p><p>ゲームも少しだけ搭載してるから見てねー</p><p><a rel="noopener noreferrer nofollow" href="https://woolisbest.lema.cl/wool">https://woolisbest.lema.cl/wool</a></p><p><br></p>
 
 [Attachment](https://woolisbest.lema.cl/proxy/home)
 
 #### Comments (4)
-- **woolisbest** (Jan 05, 2026 12:36pm): 拡散よろ観覧数50000超えたらプロキシ5000個追加する
+- **削除済みユーザー** (Jan 05, 2026 12:36pm): 拡散よろ観覧数50000超えたらプロキシ5000個追加する
 - **Sanesane** (Jan 05, 2026 04:56pm): 結構使えるのあるね
 - **MAGU** (Jan 09, 2026 05:49am): 規制やで
-- **woolisbest** (Jan 05, 2026 11:24pm): ww
+- **削除済みユーザー** (Jan 05, 2026 11:24pm): ww
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -587,7 +587,7 @@
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 #### Comments (2)
-- **woolisbest** (Jan 11, 2026 09:37am): ｗｗ
+- **削除済みユーザー** (Jan 11, 2026 09:37am): ｗｗ
 - **スシロー** (Jan 11, 2026 07:54am): ガチすいません
 
 #### Reactions
@@ -608,10 +608,10 @@
 
 #### Comments (5)
 - **削除済みユーザー** (Jan 11, 2026 10:34pm): すまん死んでるかも
-- **woolisbest** (Jan 11, 2026 04:40am): ww
+- **削除済みユーザー** (Jan 11, 2026 04:40am): ww
 - **削除済みユーザー** (Jan 11, 2026 09:34am): 定期的にある　時間おいたら解決できるけど
 - **兎夢＿.꒰ঌ12/12໒꒱** (Jan 11, 2026 06:17am): みれまする
-- **woolisbest** (Jan 11, 2026 04:40am): そう？
+- **削除済みユーザー** (Jan 11, 2026 04:40am): そう？
 
 #### Additional Information
 - **Post color:** White
@@ -713,7 +713,7 @@
 ---
 
 ### 16. ...
-**Author:** woolisbest (woolisbest)
+**Author:** 削除済みユーザー
 
 #### Additional Information
 - **Post color:** White
@@ -796,7 +796,7 @@
 - **Natsu** (Dec 21, 2025 11:43pm): 思った
 - **菜奈** (Dec 22, 2025 12:24am): 同意
 - **Anonymous** (Dec 21, 2025 01:10pm): それな
-- **woolisbest** (Dec 22, 2025 02:09am): 草
+- **削除済みユーザー** (Dec 22, 2025 02:09am): 草
 
 #### Additional Information
 - **Post color:** White
@@ -833,8 +833,8 @@
 <p>Padletで「この人だけ読者にしたい！」みたいな設定ってどうやるの？</p>
 
 #### Comments (2)
-- **woolisbest** (Dec 20, 2025 11:34am): 無理
-- **woolisbest** (Dec 20, 2025 11:34am): 基本を読者にしないと...
+- **削除済みユーザー** (Dec 20, 2025 11:34am): 無理
+- **削除済みユーザー** (Dec 20, 2025 11:34am): 基本を読者にしないと...
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -854,9 +854,9 @@
 
 #### Comments (4)
 - **Natsu** (Dec 20, 2025 07:26am): やはりgoogle一強なのかな
-- **woolisbest** (Dec 20, 2025 09:02am): ww
+- **削除済みユーザー** (Dec 20, 2025 09:02am): ww
 - **Massa_games216** (Dec 20, 2025 11:32am): Replitの存在を知ったときめっちゃ感動したなぁ　AI最強すぎる
-- **woolisbest** (Dec 20, 2025 11:34am): ww
+- **削除済みユーザー** (Dec 20, 2025 11:34am): ww
 
 #### Reactions
 - **Average star rating:** 4.5
@@ -876,7 +876,7 @@
 
 #### Comments (5)
 - **sanae1212** (Dec 20, 2025 03:46am): https://skkskskks.onrender.com/使えるかも
-- **woolisbest** (Dec 20, 2025 06:12am): ｗ
+- **削除済みユーザー** (Dec 20, 2025 06:12am): ｗ
 - **sanae1212** (Dec 20, 2025 02:25am): https://yukitube-ex-latest-wmgi.onrender.com/の使い方教えてください
 - **削除済みユーザー** (Dec 19, 2025 10:25am): それな！でも前のほうが良かった気もする
 - **Massa_games216** (Dec 19, 2025 12:45pm): マジ最高だな
@@ -996,9 +996,9 @@
 
 #### Comments (7)
 - **えみとー** (Dec 18, 2025 01:14am): ありがとう
-- **woolisbest** (Dec 16, 2025 05:47am): 下旬？
+- **削除済みユーザー** (Dec 16, 2025 05:47am): 下旬？
 - **Massa_games216** (Dec 16, 2025 01:35pm): ないす
-- **woolisbest** (Dec 17, 2025 08:23am): 草
+- **削除済みユーザー** (Dec 17, 2025 08:23am): 草
 - **ラミン・ヤマル** (Dec 16, 2025 03:08am): 間近
 - **ラミン・ヤマル** (Dec 16, 2025 03:09am): まじか
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Dec 17, 2025 12:21am): まあいつできるかわからないけど(こっちはこっちで受験がある)
@@ -1076,7 +1076,7 @@
 - **✨️🎧️*~白玉もちぃ~*🎧️✨️** (Dec 01, 2025 08:00am): 変なこと聞いてすみません
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 01, 2025 10:57am): まあ利用規約は法律じゃないから()
 - **はるとねこ** (Dec 01, 2025 10:50am): 😆
-- **woolisbest** (Dec 01, 2025 10:55am): あ　しあtubeのダウンロード機能は違法かは知らんけど利用規約違反だからね
+- **削除済みユーザー** (Dec 01, 2025 10:55am): あ　しあtubeのダウンロード機能は違法かは知らんけど利用規約違反だからね
 - **✨️🎧️*~白玉もちぃ~*🎧️✨️** (Dec 06, 2025 04:04am): そして、前はしつこく聞いてごめんなさい
 
 #### Reactions
@@ -1096,12 +1096,12 @@
 <p>UtopiaとInterstellar量産したいのにうまく使えねえ初心者</p><p>renderが重すぎて発狂</p>
 
 #### Comments (8)
-- **woolisbest** (Dec 13, 2025 12:08am): w
+- **削除済みユーザー** (Dec 13, 2025 12:08am): w
 - **菜奈** (Dec 13, 2025 06:47am): ｗ
 - **Massa_games216** (Dec 12, 2025 10:30am): ビルドコマンドはあってるはずなのに
-- **woolisbest** (Dec 12, 2025 08:33am): ww
-- **woolisbest** (Dec 12, 2025 08:33am): 修正したらいけるはず
-- **woolisbest** (Dec 12, 2025 08:34am): あと　npm　インストールしたらいけるかもw
+- **削除済みユーザー** (Dec 12, 2025 08:33am): ww
+- **削除済みユーザー** (Dec 12, 2025 08:33am): 修正したらいけるはず
+- **削除済みユーザー** (Dec 12, 2025 08:34am): あと　npm　インストールしたらいけるかもw
 - **Massa_games216** (Dec 12, 2025 10:32am): 外付けSSD頼み
 - **Massa_games216** (Dec 12, 2025 10:32am): ちなみに自分のPC、Windows7を無理やり11にしたやつなのでHDDとかRAMとか終わってます（）
 
@@ -1113,7 +1113,7 @@
 ---
 
 ### 38. Youtube unblockerでyoutubeを超える!?
-**Author:** woolisbest (woolisbest)
+**Author:** 削除済みユーザー
 
 <p>??????????????????????????</p>
 
@@ -1159,15 +1159,15 @@
 #### Comments (20)
 - **Anonymous** (Dec 11, 2025 10:29am): 2階が死にました
 - **陸上大好き** (Dec 10, 2025 08:55am): 俺んとこは揺れてないです
-- **woolisbest** (Dec 09, 2025 09:42am): 特定しよ
+- **削除済みユーザー** (Dec 09, 2025 09:42am): 特定しよ
 - **Anonymous** (Dec 12, 2025 12:54am): 大丈夫でしたか？
 - **削除済みユーザー** (Dec 10, 2025 05:56am): 同心円状に震度が変わる(理科で丁度今やってる単元)
 - **あおまさもも** (Dec 10, 2025 01:19am): わいも震度2や
-- **woolisbest** (Dec 10, 2025 12:56am): ww
+- **削除済みユーザー** (Dec 10, 2025 12:56am): ww
 - **いちごみるく🍓** (Dec 09, 2025 10:18am): 地震こわかったです...。なんかけっこうゆれててこわかった。(ちなみに震度6..)
 - **いちごみるく🍓** (Dec 09, 2025 10:17am): 今思ったんだけど震度6じゃなかったわw
 - **いちごみるく🍓** (Dec 09, 2025 10:40am): 震度２でした！
-- **woolisbest** (Dec 10, 2025 02:20am): そうなんだ
+- **削除済みユーザー** (Dec 10, 2025 02:20am): そうなんだ
 - **Natsu** (Dec 10, 2025 06:14am): 😇
 - **Anonymous** (Dec 11, 2025 10:28am): 6強でした
 - **Anonymous** (Dec 11, 2025 10:28am): 震度
@@ -1175,7 +1175,7 @@
 - **ルッキー** (Dec 10, 2025 09:54pm): どこ？関東？
 - **Natsu** (Dec 13, 2025 02:45am): じゃなかったらここにコメできないはず
 - **削除済みユーザー** (Dec 09, 2025 09:28am): 震度はガチで書かないほうが良いよ住所が特定されちまう
-- **woolisbest** (Dec 09, 2025 09:43am): 何地方かまでならできそうw
+- **削除済みユーザー** (Dec 09, 2025 09:43am): 何地方かまでならできそうw
 - **πr²(パイアール2)** (Dec 09, 2025 10:08am): こっちは震度2でした。
 
 #### Additional Information
@@ -1224,7 +1224,7 @@
 ---
 
 ### 43. チャット荒らされてる
-**Author:** woolisbest (woolisbest)
+**Author:** 削除済みユーザー
 
 #### Comments (5)
 - **Massa_games216** (Dec 05, 2025 12:28pm): 要はブロック機能
@@ -1274,7 +1274,7 @@
 ---
 
 ### 46. Toka_Kun  WOOLTUBEのとこ　確認よろしく
-**Author:** woolisbest (woolisbest)
+**Author:** 削除済みユーザー
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1293,7 +1293,7 @@
 <p>まじで1、2ヶ月ぶりの浮上</p>
 
 #### Comments (1)
-- **woolisbest** (Nov 30, 2025 10:51am): ww
+- **削除済みユーザー** (Nov 30, 2025 10:51am): ww
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1310,11 +1310,11 @@
 **Author:** ゾン (zon1212134)
 
 #### Comments (6)
-- **woolisbest** (Nov 28, 2025 12:32pm): w
-- **woolisbest** (Nov 27, 2025 11:18pm): ww
-- **woolisbest** (Nov 27, 2025 01:15pm): 同じく⇐作ってる人
+- **削除済みユーザー** (Nov 28, 2025 12:32pm): w
+- **削除済みユーザー** (Nov 27, 2025 11:18pm): ww
+- **削除済みユーザー** (Nov 27, 2025 01:15pm): 同じく⇐作ってる人
 - **ゾン** (Nov 27, 2025 01:22pm): コピーの編集ぐらいならできる（）
-- **woolisbest** (Nov 27, 2025 11:48pm): 僕の部屋　開発者多いぞw
+- **削除済みユーザー** (Nov 27, 2025 11:48pm): 僕の部屋　開発者多いぞw
 - **ぜんた** (Nov 28, 2025 08:27am): (デプロイイキリです)
 
 #### Additional Information
@@ -1325,7 +1325,7 @@
 ---
 
 ### 49. WOOLTUBE部屋　ログインしなくても入れるようにした
-**Author:** woolisbest (woolisbest)
+**Author:** 削除済みユーザー
 
 <p>変わってたから戻した</p>
 
@@ -1434,37 +1434,37 @@
 ---
 
 ### 4. 何がいい？
-**Author:** woolisbest (woolisbest)
+**Author:** 削除済みユーザー
 
 <p>12月中にやる</p>
 
 [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/wKmOZ56JykDVWzMA)
 
 #### Comments (24)
-- **woolisbest** (Nov 29, 2025 12:47am): やっぱり500かな
-- **woolisbest** (Nov 29, 2025 12:48am): いや　やらないわけじゃないんよ
-- **woolisbest** (Nov 29, 2025 12:48am): 最初にやるの決めてるの
+- **削除済みユーザー** (Nov 29, 2025 12:47am): やっぱり500かな
+- **削除済みユーザー** (Nov 29, 2025 12:48am): いや　やらないわけじゃないんよ
+- **削除済みユーザー** (Nov 29, 2025 12:48am): 最初にやるの決めてるの
 - **アスパラガス** (Dec 03, 2025 11:33pm): わかりました頑張ってください
-- **woolisbest** (Nov 26, 2025 07:18am): 自作プロキシ増えてきたな
-- **woolisbest** (Dec 05, 2025 08:42am): １５０件行ったら終了
+- **削除済みユーザー** (Nov 26, 2025 07:18am): 自作プロキシ増えてきたな
+- **削除済みユーザー** (Dec 05, 2025 08:42am): １５０件行ったら終了
 - **学校のパソコンでプロキシ探して規制して遊ぶ受験生** (Nov 30, 2025 09:55am): いつ作ったかわからないプロキシ500配布されるより新たに10個作ったほうが使える可能性が高いと思う｡
-- **woolisbest** (Nov 25, 2025 11:05am): 500になりそう
+- **削除済みユーザー** (Nov 25, 2025 11:05am): 500になりそう
 - **いちごみるく🍓** (Nov 24, 2025 12:37pm): 投票1票目の者です(^O^)
-- **woolisbest** (Nov 27, 2025 09:12am): w
-- **woolisbest** (Dec 01, 2025 07:57am): それもそう
+- **削除済みユーザー** (Nov 27, 2025 09:12am): w
+- **削除済みユーザー** (Dec 01, 2025 07:57am): それもそう
 - **プロキシ初心者学校のiPadの制限解除したい** (Nov 27, 2025 02:15am): 全部やってほしいです
 - **高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長       2√3番目のれいなの弟子** (Nov 29, 2025 12:49pm): 自作じゃないとブロック定期
 - **プロキシ初心者** (Dec 02, 2025 01:08am): Woolisbestさんプロキシ作るってどういうことですか？wwwすごすぎません？ 
 - **削除済みユーザー** (Dec 02, 2025 07:27am): コードとかはあんま組まなくても作れるけど労力かかることは変わらないわなすげぇ
 - **削除してないずみユーザー** (Dec 03, 2025 01:32am): やり方教えてくれませんか？
-- **woolisbest** (Dec 03, 2025 01:11pm): やだ
-- **woolisbest** (Dec 03, 2025 01:11pm): 3人にしか教えてないし
-- **woolisbest** (Dec 06, 2025 07:22am): 500配布に決定
+- **削除済みユーザー** (Dec 03, 2025 01:11pm): やだ
+- **削除済みユーザー** (Dec 03, 2025 01:11pm): 3人にしか教えてないし
+- **削除済みユーザー** (Dec 06, 2025 07:22am): 500配布に決定
 - **SSS** (Nov 25, 2025 03:50am): 500ｗ
 - **Massa_games216** (Nov 25, 2025 12:44am): 自作も気になるな
-- **woolisbest** (Dec 03, 2025 01:12pm): 拡散したら作っても秒で規制されるようになる
-- **woolisbest** (Nov 29, 2025 12:48am): 全部やるのがきついから
-- **woolisbest** (Nov 29, 2025 11:27pm): ww
+- **削除済みユーザー** (Dec 03, 2025 01:12pm): 拡散したら作っても秒で規制されるようになる
+- **削除済みユーザー** (Nov 29, 2025 12:48am): 全部やるのがきついから
+- **削除済みユーザー** (Nov 29, 2025 11:27pm): ww
 
 #### Additional Information
 - **Post color:** White
@@ -1483,15 +1483,15 @@
 #### Comments (12)
 - **Un** (Nov 14, 2025 11:24am): 今日やん
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Dec 01, 2025 01:55am): しんだーーーー
-- **woolisbest** (Nov 26, 2025 11:39pm): ww
+- **削除済みユーザー** (Nov 26, 2025 11:39pm): ww
 - **tasogaretanuki** (Dec 06, 2025 05:16am): しんだ？
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Dec 16, 2025 02:19am): そうしんだ
-- **woolisbest** (Nov 05, 2025 08:12am): プロキシはいらんから
+- **削除済みユーザー** (Nov 05, 2025 08:12am): プロキシはいらんから
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Nov 18, 2025 12:15am): あのねー色々とねー忙しい…送ることは守るけど、いつ送れるかわからんくなった。頑張って11月中には送る
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 05, 2025 08:33am): Railwayアカウントを紹介リンクから作ったらクレジットめっちゃ貰えるよ
-- **woolisbest** (Nov 05, 2025 10:20am): ww
+- **削除済みユーザー** (Nov 05, 2025 10:20am): ww
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Nov 12, 2025 01:00am): 25ねー
-- **woolisbest** (Nov 05, 2025 08:12am): わかめをrailwayでデプロイしてほしい
+- **削除済みユーザー** (Nov 05, 2025 08:12am): わかめをrailwayでデプロイしてほしい
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 05, 2025 08:33am): 知ってるとは思うけど
 
 #### Additional Information
@@ -1536,10 +1536,10 @@
 
 #### Comments (5)
 - **aotan　人生キャンセル界隈　失踪界隈　自殺界隈** (Nov 28, 2025 02:26am): ちゃう
-- **woolisbest** (Nov 27, 2025 11:18pm): 使えないって規制ってこと？
+- **削除済みユーザー** (Nov 27, 2025 11:18pm): 使えないって規制ってこと？
 - **aotan　人生キャンセル界隈　失踪界隈　自殺界隈** (Nov 28, 2025 02:26am): 検索できんやつ
-- **woolisbest** (Nov 28, 2025 12:32pm): ww
-- **woolisbest** (Nov 28, 2025 12:32pm): それならいるんじゃない？
+- **削除済みユーザー** (Nov 28, 2025 12:32pm): ww
+- **削除済みユーザー** (Nov 28, 2025 12:32pm): それならいるんじゃない？
 
 #### Additional Information
 - **Post color:** White
@@ -1554,7 +1554,7 @@
 [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/PR3NWxGBByxNZb0O)
 
 #### Comments (2)
-- **woolisbest** (Nov 10, 2025 08:49am): プロキシで入れば良い
+- **削除済みユーザー** (Nov 10, 2025 08:49am): プロキシで入れば良い
 - **Massa_games216** (Nov 10, 2025 11:39am): まあ持っていてもいいけどはっきり言って使わねえっていうか…
 
 #### Additional Information
@@ -1565,7 +1565,7 @@
 ---
 
 ### 9. 勝手に追加してごめん
-**Author:** woolisbest (woolisbest)
+**Author:** 削除済みユーザー
 
 <p>結果次第でWOOLtubeを更新する。</p><p>使えるのが２つ以上ある場合はよく使う方に投票して</p>
 
@@ -1574,8 +1574,8 @@
 #### Comments (8)
 - **tomoki_s2011** (Oct 29, 2025 10:21am): 使い方わかんないんだげど教えて
 - **Massa_games216** (Oct 28, 2025 02:15pm): ストリーム再生がほとんどだけどたまにバグるからそんときはedu使ってる
-- **woolisbest** (Oct 29, 2025 11:02am): ?
-- **woolisbest** (Oct 29, 2025 10:29pm): おぉ
+- **削除済みユーザー** (Oct 29, 2025 11:02am): ?
+- **削除済みユーザー** (Oct 29, 2025 10:29pm): おぉ
 - **るい** (Oct 29, 2025 04:58am): そうだね
 - **tomoki_s2011** (Oct 29, 2025 11:47am): wooltubeの使い方わからん
 - **ランマー最高** (Oct 29, 2025 03:35pm): たまにストリームが使える
@@ -1614,7 +1614,7 @@
 #### Comments (8)
 - **Massa_games216** (Oct 19, 2025 11:34am): 赤持ってるぜ
 - **꧁日本国民ゆ〜꧂  #煮物810番弟子** (Oct 18, 2025 11:33am): アカウントも、持ってるで
-- **woolisbest** (Oct 18, 2025 02:37pm): アカウント　作った
+- **削除済みユーザー** (Oct 18, 2025 02:37pm): アカウント　作った
 - **白玉桜もちの奈津** (Oct 21, 2025 04:11am): アカウント何故か作れないんだよね〜（苦笑）
 - **陸上市内最強(市内だけよ)** (Oct 27, 2025 01:06am): アカウント作ったのにスクラッチブロックされたからなあ
 - **rrrrrrrrrrhhhhht** (Oct 19, 2025 07:16am): アカウント持ってる　@rrrrrrrrrrhhhhht
@@ -1659,10 +1659,10 @@
 [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/4b3zaM1bkGw1a2j7)
 
 #### Comments (4)
-- **woolisbest** (Sep 29, 2025 07:06am): railwayは無料期間とかでだるい
-- **woolisbest** (Sep 29, 2025 07:06am): railwayとcodesanboxで作った奴は規制じゃない
-- **woolisbest** (Sep 29, 2025 07:07am): vercelも簡単
-- **woolisbest** (Sep 29, 2025 07:07am): renderが一番簡単
+- **削除済みユーザー** (Sep 29, 2025 07:06am): railwayは無料期間とかでだるい
+- **削除済みユーザー** (Sep 29, 2025 07:06am): railwayとcodesanboxで作った奴は規制じゃない
+- **削除済みユーザー** (Sep 29, 2025 07:07am): vercelも簡単
+- **削除済みユーザー** (Sep 29, 2025 07:07am): renderが一番簡単
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1776,7 +1776,7 @@
 - **コロッケ** (Sep 11, 2025 07:01am): 貰ったチョコそのまま返すは、やばいやろ😅
 - **takamatsuminato** (Sep 15, 2025 07:08am): 変えて返すやつサイコパスかな
 - **削除済みユーザー** (Sep 23, 2025 04:40am): えっじゃあ俺もサイコパスか（・Д・）
-- **woolisbest** (Oct 18, 2025 09:18am): ww
+- **削除済みユーザー** (Oct 18, 2025 09:18am): ww
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -2087,7 +2087,7 @@
 
 #### Comments (2)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Jan 05, 2026 04:19pm): ランマーにURLぶちこめばいけるよ
-- **woolisbest** (Jan 05, 2026 11:25pm): ww
+- **削除済みユーザー** (Jan 05, 2026 11:25pm): ww
 
 #### Additional Information
 - **Post color:** White
@@ -2103,7 +2103,7 @@
 - **Proxy無いと生きていけない** (Jan 05, 2026 07:22pm): そうです匿名表示から規制が、、、
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 05, 2026 01:07am): https://www.startpage.com/ が無理になったってこと？
 - **ᴎeoᴎӝ ❤️‍🔥✘_ ✘ ﷺ** (Jan 06, 2026 12:54pm): copp.gg
-- **woolisbest** (Jan 05, 2026 11:25pm):  . . .
+- **削除済みユーザー** (Jan 05, 2026 11:25pm):  . . .
 
 #### Additional Information
 - **Post color:** White
@@ -2151,7 +2151,7 @@
 <p>誰か恋愛チャット持ってる方がいればお願いします。</p>
 
 #### Comments (2)
-- **woolisbest** (Jan 05, 2026 07:59am): 草
+- **削除済みユーザー** (Jan 05, 2026 07:59am): 草
 - **いちごみるく🍓** (Jan 06, 2026 12:20am): マチアプ(マッチングアプリ)とかいいんじゃない..？
 
 #### Additional Information
@@ -2167,10 +2167,10 @@
 <p>Twitter入れるプロキシある？誰か持ってない〜？</p>
 
 #### Comments (4)
-- **woolisbest** (Jan 05, 2026 07:59am): w
-- **woolisbest** (Jan 05, 2026 08:00am): これでいい？
-- **woolisbest** (Jan 05, 2026 08:00am): 1000以上はあるはず...
-- **woolisbest** (Jan 05, 2026 08:00am): https://woolisbest.lema.cl/proxy/proxe/ddx.txt
+- **削除済みユーザー** (Jan 05, 2026 07:59am): w
+- **削除済みユーザー** (Jan 05, 2026 08:00am): これでいい？
+- **削除済みユーザー** (Jan 05, 2026 08:00am): 1000以上はあるはず...
+- **削除済みユーザー** (Jan 05, 2026 08:00am): https://woolisbest.lema.cl/proxy/proxe/ddx.txt
 
 #### Additional Information
 - **Post color:** White
@@ -2320,7 +2320,7 @@
 **Author:** 夢見る少女じゃいられない (hamasakiayumi)
 
 #### Comments (5)
-- **woolisbest** (Jan 05, 2026 07:49am): www
+- **削除済みユーザー** (Jan 05, 2026 07:49am): www
 - **バッタ　#煮物貢献者　#煮物14番弟子　#そろそろ引退かも** (Jan 05, 2026 09:40pm): おなじく
 - **🧊** (Jan 06, 2026 02:18am): おれはciscoからI-FILTERになった
 - **πr²(パイアール2)** (Jan 06, 2026 03:32am): i-フィルター切りたい
@@ -2400,14 +2400,14 @@
 - **Natsu** (Dec 14, 2025 05:37am): らしいです
 - **Massa_games216** (Dec 12, 2025 10:34am): >>ラグのやり方教えてください
 - **ラミン・ヤマル** (Dec 12, 2025 11:09am): これhttps://padlet-artifacts.storage.googleapis.com/8c01cf9d56f0f88af06e5eb71fdba2173fadd860/17797487722a91a2792a3cec549fb426-h-e53a2b3b60a3202ea9e1a58d031395e1.gif
-- **woolisbest** (Dec 10, 2025 12:57am): ISGCのアプリ消せるんなら消してリセットしたらできたはず...
+- **削除済みユーザー** (Dec 10, 2025 12:57am): ISGCのアプリ消せるんなら消してリセットしたらできたはず...
 - **花草海吏** (Dec 10, 2025 01:39am): モバイルデータ通信切ればできたはず
 - **Natsu** (Dec 10, 2025 06:14am): ラグくしまくったら？
 - **πr²(パイアール2)** (Dec 12, 2025 05:25am): ラグのやり方教えてください
 - **ラミン・ヤマル** (Dec 12, 2025 11:10am): GBは余裕で行く
 - **Natsu** (Dec 14, 2025 05:37am): ①デスクとウィンドウは1つだけ残してすべて閉じる②規制の拡張機能をピン留めする②.5わざと規制されるサイトを一つだけ出す③10個のサイトを登録してあるブックマークを作る(規制されないサイトで)④ctrl＋rを連打しながら作ったブックマークを㉞回連打する⑤重くなってしばらく操作できなくなるから、10分〜20分、タブがすべて読み込まれるまで待つ⑥ピン留めした規制が消えたら成功。 読み込み終わってピン留めした拡張機能が消えてなかったら連打する回数を2回ずつ増やす。読み込む途中でPCが落ちたら減らす。
 - **πr²(パイアール2)** (Dec 14, 2025 11:51pm): あざす
-- **woolisbest** (Dec 10, 2025 06:21am): ｗ
+- **削除済みユーザー** (Dec 10, 2025 06:21am): ｗ
 - **Massa_games216** (Dec 12, 2025 10:35am): プロキシしか成功例がない
 - **Massa_games216** (Dec 12, 2025 10:34am): 自分試したけど無効だった
 - **πr²(パイアール2)** (Dec 10, 2025 12:19am): できる方いたらコメントお願いします
@@ -2431,8 +2431,8 @@
 
 #### Comments (6)
 - **Natsu** (Dec 18, 2025 11:48pm): たしかにそれはあるかも
-- **woolisbest** (Dec 19, 2025 08:30am): renderとかなら...
-- **woolisbest** (Dec 19, 2025 08:30am): 規制されても新しいの作ればよくね...?
+- **削除済みユーザー** (Dec 19, 2025 08:30am): renderとかなら...
+- **削除済みユーザー** (Dec 19, 2025 08:30am): 規制されても新しいの作ればよくね...?
 - **Natsu** (Dec 19, 2025 09:00am): それはそう
 - **Natsu** (Dec 18, 2025 11:48pm): (・∀・)ｲｲﾈ!
 - **aotan　人生キャンセル界隈　失踪界隈　自殺界隈** (Dec 19, 2025 06:59am): (・∀・)ｲｲﾈ!!
@@ -2472,10 +2472,10 @@
 ---
 
 ### 2. about-youtubeのやつ更新されてるよw
-**Author:** woolisbest (woolisbest)
+**Author:** 削除済みユーザー
 
 #### Comments (3)
-- **woolisbest** (Dec 21, 2025 12:22pm): まじかw
+- **削除済みユーザー** (Dec 21, 2025 12:22pm): まじかw
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 21, 2025 07:29am): siawaseokさんと同じ形式のやつ
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 21, 2025 07:29am): パラメーター片方Something went wrongってなるで
 
@@ -2487,20 +2487,20 @@
 ---
 
 ### 3. crosproxyいる？
-**Author:** woolisbest (woolisbest)
+**Author:** 削除済みユーザー
 
 <p>開発者向けのプロキシw</p><p>コード内で使うやつ</p>
 
 #### Comments (10)
 - **はるとねこ** (Nov 18, 2025 11:01am): 🤝
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 23, 2025 11:58am): いる
-- **woolisbest** (Nov 23, 2025 12:28pm): https://raw.githubusercontent.com/woolisbest/crosproxy-list/refs/heads/main/main.txt
-- **woolisbest** (Nov 23, 2025 12:23pm): どこに載せたらいいんだ？
+- **削除済みユーザー** (Nov 23, 2025 12:28pm): https://raw.githubusercontent.com/woolisbest/crosproxy-list/refs/heads/main/main.txt
+- **削除済みユーザー** (Nov 23, 2025 12:23pm): どこに載せたらいいんだ？
 - **ラミン・ヤマル** (Nov 16, 2025 09:31pm): うん
-- **woolisbest** (Nov 17, 2025 09:07am): ww
-- **woolisbest** (Nov 23, 2025 11:26am): うん
-- **woolisbest** (Nov 23, 2025 12:22pm): おｋ
-- **woolisbest** (Nov 23, 2025 12:28pm): とりま　ここ載せる
+- **削除済みユーザー** (Nov 17, 2025 09:07am): ww
+- **削除済みユーザー** (Nov 23, 2025 11:26am): うん
+- **削除済みユーザー** (Nov 23, 2025 12:22pm): おｋ
+- **削除済みユーザー** (Nov 23, 2025 12:28pm): とりま　ここ載せる
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 20, 2025 11:05pm): URLってこと？
 
 #### Additional Information
@@ -2511,13 +2511,13 @@
 ---
 
 ### 4. プロキシサイトの開発スタート
-**Author:** woolisbest (woolisbest)
+**Author:** 削除済みユーザー
 
 #### Comments (10)
 - **はるとねこ** (Nov 24, 2025 06:08am): 頑張れー頑張れー
-- **woolisbest** (Nov 24, 2025 11:38am): ｗ
+- **削除済みユーザー** (Nov 24, 2025 11:38am): ｗ
 - **Natsu** (Nov 23, 2025 11:38am): がんばれ
-- **woolisbest** (Nov 23, 2025 12:09pm): crosproxyまでは作った
+- **削除済みユーザー** (Nov 23, 2025 12:09pm): crosproxyまでは作った
 - **いちごみるく🍓** (Nov 24, 2025 01:06am): がんば!
 - **菜奈** (Dec 04, 2025 10:26am): 頑張って！
 - **メンマ** (Nov 24, 2025 11:17pm): ガンバ～
@@ -2740,7 +2740,7 @@
 
 #### Comments (8)
 - **匿名** (Jul 27, 2025 01:30am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/do3MQJkobxz1Z15w) やったぜ
-- **セイラ** (Oct 01, 2025 01:03am): すご！
+- **粲** (Oct 01, 2025 01:03am): すご！
 - **電車好き** (Jun 21, 2025 01:50am): いけた
 - **アイス** (Jun 22, 2025 09:26am): 14000枚目いけたwww
 - **Quirky Cricket** (Dec 16, 2025 08:24am): １４０００いった
