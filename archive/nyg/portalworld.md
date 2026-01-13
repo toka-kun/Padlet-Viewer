@@ -210,7 +210,7 @@
 ---
 
 ### 6. chat oasis
-**Author:** Dr.マリオ使い#01  生まれ変わったらF47になりたい89式5.56mm小型小銃 (DoctorMariosharpzeroiti)
+**Author:** Dr.マリオ使い#01 (DoctorMariosharpzeroiti)
 
 <p>YouTubeが見れるサイトなどもあります。荒らし対策もしています</p>
 
@@ -1447,7 +1447,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768864698&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qNfoVrjHfaFmZTsgyXFE3km5zKQM9bTer9LlvkQhk0FJ%2FQsbDAIDmXB%2BNfuBnaiIF36JE8uCBnuvm%2BYVwhYm%2B7hhwMBerVHXilS%2BI1j%2B2FiZdZMobF8UJBRgT9hpbMGI2fDE7A8J4CfcmtDjs2qsDVvShpuGcJQ7QJzWYACuDPo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1768873632&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FT6vuxqLdjtIYvKtrhGi%2FELy%2BKh42o8vbfOLVJsR1RJfTmQJlGIhmNAyf0Uko641ctLznroRLOWkcjzw8fnCsyU%2BltRtBckCOWRwjepf1frVCLgKZHU8YEhvpZyCZzWMwQn%2Fr2JQPexLRvpWwizu%2FIhjCgf3qb7i1xGgCaoScmc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・

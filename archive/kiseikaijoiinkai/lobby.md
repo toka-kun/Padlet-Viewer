@@ -5,9 +5,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 38
+- **Posts:** 40
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Jan 12, 2026 10:59am
+- **Updated At (UTC):** Jan 13, 2026 12:33am
 
 ## ルール
 
@@ -69,7 +69,7 @@
 
 <p>とるっぷいが何者かによってBANされた！！！だから、とるっぷいが維持してた規制解除委員会本部部屋やVIP部屋が消えました！！なので、とるっぷい復帰まではここが臨時本部になるんやで。ってことでとるっぷい復帰までは何かあったらいときち(俺)or中居正広に行ってクレメンス。</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1768864734&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KYmEOVhiEEXARN%2Fwr6rtyrGn9VxNMzhoWx1prKQFu2tHijAytWlZkRUsvfH8vHmMVUpvRNqA0AAdPlwlpnODANL%2F1g5Fpa%2FaLdO%2Bq0wCIcch3NH%2BxUYO53GjBEjJaeGtvxtJE4dZFetRsduvBRiaWwmJM2LGc7tMctCILzt8IUU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1768873669&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NFb9FMx5O6DjbUNYJJcYQzrPXC1LHy12Ns%2FP8nPupVrOBWvKCP9J3GISxR5wyKu2wHKX%2Bvf452eenP1cDBvoEC0cWhkKKiaNX3DfXEvuc6cOwedFZ5qT5MHA7h%2FcXouG%2BXikwlsRJdZodXCYgtf%2F8SKJlFi6UQNu8iHPjfVVr6E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
 
 #### Comments (1)
 - **中居** (Jan 09, 2026 11:54am): かなちい
@@ -88,7 +88,7 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1768864734&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RP4vOfmqePyZwDO%2Fvo%2FCyat5t7zVdJl%2FyXIpP0u0%2BBxIASPPUTBKQQTrUAYncLjzU4iCtKxu%2FSVzElxlAjxiUE37xQvW1mDiA9Mgps%2BdyaWxKCzsA3BiXbaOrhTb0FB3ZLDOa0pKg%2FxrUx5kjz2Ra06HpOH9gdEUDEQDB6%2BBnts%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1768873669&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fvF%2FKJLICraAOacZxL704K4y10q8hpc0b261dvnP%2B5YOCWcmNXjWZJKxNsjdmGP3G5MuBgxevNHX4lFJtWNaHmAZq6Yy5HKnKP73FfntMT9RdpsCZdkQ57ZZM81kByA8eVK1tpIMpoOhSI4%2F3IBZmePLWQdzxIuwurc5dDVilH4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Post color:** White
@@ -102,7 +102,7 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1768864734&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4GPZsxG5PCXdcxNAmN1QQ0Hc%2F2VGMeJQidGD5mMUFLZvYFYWCt64Y4XXsFL6h8GiAjomECJs3HFsHBNA4oygnn0MRx7c9O%2B1aIRC4enlVJ%2B%2F%2BmUFcG%2Bve4XpfYCWgIoG7ld088puArTFB1tQA2oWS2dAMn49vSKC6oxrTxdRuFk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1768873669&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QxKrmTn63FWVcFGt%2FskuKh%2Bb3Kc2LqiEqSjXMOE8sJlz7b69lhi4Pik9tdsDojEIxvSNP5B8wDAePFruPq3bXXGX5N01NUG4FdsiyGJGjN94pn%2FZsYpZ%2BJCEgWTol538tx0mAk5pygjQ2vua8rERLOYfYhe%2BTonPeUHA2bxvLqE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Post color:** White
@@ -511,7 +511,7 @@
 
 <p>えぐいてえええええええ</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1768864735&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0BwhqnIFxCLFV5ELMnvwP2dmsgnWW68tJCmzUzJgk%2BOv1rpndECjU9TEky6B53Gk3u1FxlFljB7dxJCZbQ%2Fm%2BY862pooAfM%2F9nKvuWx6qrpd%2FYbsA73WBW4DtXGL6TJw9wudIzG73spszCfVeTabZks1E%2BuZ0XgwP9ha169SjCk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1768873669&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fgixoBwoEmh0aheuhCcyZoDB%2BqSm1PWENyNVvH8vKs8KBHZtT%2BDEQgG6gQnwgS8%2BGCnyCcnTFzae1nyd3EDKd75FyjDZcHN8D0IEAYHbmrE0d8uDTTy%2BH1mQfkXiCldSdKt2wtDnfUYbkOpTQqqyE5JL6vUo%2B484zEMEkJEGl0k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
 
 #### Comments (3)
 - **いときち** (Oct 29, 2025 10:47am): えぐしゅぎ
@@ -601,6 +601,30 @@
 ### 1. Post 1
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
+[Attachment](https://mihumihu.ak90.kozow.com/wkt)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 13, 2026 12:33am
+- **Updated At (UTC):** Jan 13, 2026 12:33am
+
+---
+
+### 2. Post 2
+**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
+[Attachment](https://nana-wkt-05.onrender.com/wkt)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 13, 2026 12:33am
+- **Updated At (UTC):** Jan 13, 2026 12:33am
+
+---
+
+### 3. Post 3
+**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
 [Attachment](https://wkt-105.onrender.com/wkt)
 
 #### Additional Information
@@ -610,7 +634,7 @@
 
 ---
 
-### 2. Post 2
+### 4. Post 4
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 [Attachment](https://yyya-nico.com/viewer/ytnvviewer?q=%E3%83%89%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E7%AC%91%E3%81%A3%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84#gsc.tab=0&gsc.q=%E3%83%89%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E7%AC%91%E3%81%A3%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84&gsc.page=1)
@@ -622,7 +646,7 @@
 
 ---
 
-### 3. Post 3
+### 5. Post 5
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 [Attachment](https://notebooklm.google.com/notebook/6039ec1a-e9f9-4672-bfd7-5bb7225553ae?pli=1)
