@@ -7,7 +7,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 9
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Jan 14, 2026 11:49am
+- **Updated At (UTC):** Jan 14, 2026 02:05pm
 
 ## リンク集
 
@@ -167,9 +167,9 @@
 <p>これは移動だよつまり別のアカウントがあるってこと。</p><p>いずれ復活します</p>
 
 #### Additional Information
-- **Post color:** Purple
+- **Post color:** White
 - **Created At (UTC):** Sep 29, 2025 12:06pm
-- **Updated At (UTC):** Jan 14, 2026 11:49am
+- **Updated At (UTC):** Jan 14, 2026 02:05pm
 
 ---
 
