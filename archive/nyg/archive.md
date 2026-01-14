@@ -5,9 +5,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 161
+- **Posts:** 162
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Jan 13, 2026 08:30am
+- **Updated At (UTC):** Jan 13, 2026 11:36pm
 
 ## セクション一覧
 
@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768951239&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sl%2FdL6YL8DU8JgOefvKD9l4vzfevkvVsV32OaOfa2gHSWaz%2F6Xu%2FVn9cJciXAoxWt3IiFmrYULFyh7HqJg36Z9QjPsXhPnAHTzCpE9ElUmbZalYr2Xt1RDfvfQZ3eiZFb6NN3WYmUzuZticSVoyf7yGOGkkaJfkbXP5rZ82QXZk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768960436&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Q86iV8Jm5XeUqS60%2BGJqQ%2FCMdpIhTh725OWLTnhBzKVBs16zqJNcUVvzlTcu4aXf1e5HCT9hLhVtvBl2UxJCQkHx8G2GZmkdadGMcIGwWenfhJ6IN7ksPc86gjS4yJeEmaEOJ2KjLQfybNjjOYzJKXh0viHBKencDawyHpHIVJg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -2316,7 +2316,39 @@
 
 ---
 
-### 2. 元々ISGCだけだったのがi-FILTERも追加された。。。。。。。。
+### 2. iPadアイフィルター解除
+**Author:** おすし (h4218049)
+
+<p>設定→アクセシビリティ→タッチ→AssistiveTouch→AssistiveTouchをオン</p><p>シングルタップ→再起動</p><p>iF@Agentを起動→左上の歯車メニュー→再アクティベート→「実行してもよろしいですか？」で「実行」を長押し</p><p>長押ししている間にassistivetouchを押す→「再起動しますか？」で「再起動」を長押し→「実行」を押している手と「再起動」を押している手を同時にはなす</p><p>これを何回か繰り返すとifilterが起動しなくなります。</p><p>もう一度if@agentで再アクティベートをすると直ります。</p>
+
+#### Comments (18)
+- **Polite Hornet** (Jan 03, 2026 03:21am): 学タブはそもそもアイフィルターが起動してないと検索できんようになってるよ。アイフィルターのアプリ消したら分かる
+- **Cheerful Hornet** (Nov 11, 2025 07:57am): できんがな。ちゃんと教えて。あとどうやったらせいこうなのかも。Googleひらけんし
+- **高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長       2√3番目のれいなの弟子** (Nov 28, 2025 10:28am): クロムの方も教えてクレメンス
+- **トロンボーン吹きの吹奏楽部員** (Jan 12, 2026 04:29am): この方法はアプリのアップデートによって対策されました。
+- **Nervous Snail** (Nov 27, 2025 11:04pm): もうできないというかI-filterってもともとサーバーと繋がってないとプロキシ通せないからサイト表示できんで
+- **おすし** (Nov 11, 2025 12:38am): 何回かやったらいける
+- **おすし** (Nov 11, 2025 11:52am): 私はGoogleいけるからそれはあんまわからん
+- **Courageous Crocodile** (Nov 10, 2025 08:05am): できませんでした 
+- **枯れ葉🍂** (Nov 11, 2025 06:10am): 成功してもGoogleが開けん
+- **おすし** (Nov 11, 2025 11:49am): 「実行」を押した指と「再起動」を押した指を同時に離したら大体いけるブロックされそうなサイトに飛んでブロックされなかったら成功
+- **Graceful Hornet** (Nov 15, 2025 03:18am): そもそもiPadの設定にはよるけどI-filterがつながっていないと接続すらさせてもらえない
+- **Watson1111** (Dec 17, 2025 03:02am): ほかないっすか？
+- **Whimsical Crane** (Dec 19, 2025 08:33am): 因みにその方法を使って「インターネットに接続できません」と出たらおそらく成功です。その場合、「Safari(検索エンジンはGoogle)の検索バーから、リンクではなく検索ワードを直接入力してサイトを開く」という作業を何回もやってると開けます。10回やっても無理だったらあきらめましょう。
+- **おすし** (Nov 09, 2025 11:36pm): おそらく再アクティベートで一瞬だけifilterがシャットダウンした隙にipadごとシャットダウンすることで実現してます
+- **．．．** (Nov 27, 2025 01:26am): もうできない可能性大
+- **Guchi Hedera** (Dec 09, 2025 02:43pm): もう使えんくなってる
+- **Michael Myers** (Dec 15, 2025 05:05am): 俺の学校できんくなってるけど学校によって変わるんかな？
+- **あいうえお** (Dec 18, 2025 07:12am): chromebookの方法も教えて
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Nov 09, 2025 11:35pm
+- **Updated At (UTC):** Jan 13, 2026 11:36pm
+
+---
+
+### 3. 元々ISGCだけだったのがi-FILTERも追加された。。。。。。。。
 **Author:** 夢見る少女じゃいられない (hamasakiayumi)
 
 #### Comments (5)
@@ -2333,7 +2365,7 @@
 
 ---
 
-### 3. 報告
+### 4. 報告
 **Author:** ꧁日本国民ゆ〜꧂  #煮物810番弟子 (nippon_banzai)
 
 <p>自分の学校が今i-フィルターとisgc２つの規制機能が追加されていました。これは昨日からと思われます。同じ状況の人は下にコメントしてください（固定希望）</p>
@@ -2355,7 +2387,7 @@
 
 ---
 
-### 4. I-FILTERどれもブロックされてて泣きそう！
+### 5. I-FILTERどれもブロックされてて泣きそう！
 **Author:** 🧊 (mk0352)
 
 <p>だれかI-FILTER解除する方法教えて（プロキシも）</p><p><br></p>
@@ -2374,7 +2406,7 @@
 
 ---
 
-### 5. 速報!!
+### 6. 速報!!
 **Author:** πr²(パイアール2) (naganaga)
 
 <p>練馬区にisgcとi-filter入れられた（最悪・・・）片方でいいので削除の方法教えてくれたら幸いです</p>
@@ -2393,7 +2425,7 @@
 
 ---
 
-### 6. ISGCをぶっ壊す
+### 7. ISGCをぶっ壊す
 **Author:** πr²(パイアール2) (naganaga)
 
 #### Comments (19)
@@ -2424,7 +2456,7 @@
 
 ---
 
-### 7. 仮説だけど話します。是非見て
+### 8. 仮説だけど話します。是非見て
 **Author:** k&K (gs185779)
 
 <p>＊これから書くことは全て仮説や自分の独断　　とか偏見です</p><p><br></p><p><br></p><p>自分の住んでいる地域では2ヶ月一回位の</p><p>ペースでタブレットの更新が入っるんだけど</p><p>その更新されるときに多分履歴とかも見られるんだけどその時多分見られるのが一週間以内の履歴だと思うのよ。なんでそう思うかというと、今日更新日だったんだけど昨日閲覧したれんれんとかMSNとかが規制されてて一週間前に閲覧したわかめがまだ生きてたのよ</p><p><br></p><p>この意見どう思うか聞きたいから</p><p>コメントに書いて！！</p>
