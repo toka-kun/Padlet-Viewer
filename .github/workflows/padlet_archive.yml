@@ -67,11 +67,11 @@ jobs:
           # ==========================================
 
           # woolisbest/lobby
-          curl -L --compressed -o archive/woolisbest/lobby.md "https://padlet.com/padlets/nj4cza44bnb13xr/exports/markdown.md"
+          curl -L --compressed -o archive/woolisbest/lobby.md "https://padlet.com/padlets/99xq7bb7zjzcfzw0/exports/markdown.md"
           sleep $SLEEP_TIME
 
           # woolisbest/main
-          curl -L --compressed -o archive/woolisbest/main.md "https://padlet.com/padlets/27h5aidjxevsqd38/exports/markdown.md"
+          curl -L --compressed -o archive/woolisbest/main.md "https://padlet.com/padlets/f46agi7nbsmz8boy/exports/markdown.md"
           sleep $SLEEP_TIME
 
           # woolisbest/proxy
