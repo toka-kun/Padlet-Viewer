@@ -5,9 +5,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-i0fd897smvjo0tvj
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 7
+- **Posts:** 9
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Jan 13, 2026 08:32am
+- **Updated At (UTC):** Jan 14, 2026 11:49am
 
 ## リンク集
 
@@ -161,4 +161,24 @@
 
 ## 保管倉庫② - R.I.P.
 
-No post
+### 1. なんで垢バンされてるのおおおおお
+**Author:** 軽くなれw (KARUKUNAREw)
+
+<p>これは移動だよつまり別のアカウントがあるってこと。</p><p>いずれ復活します</p>
+
+#### Additional Information
+- **Post color:** Purple
+- **Created At (UTC):** Sep 29, 2025 12:06pm
+- **Updated At (UTC):** Jan 14, 2026 11:49am
+
+---
+
+### 2. あ
+**Author:** ぜんた　りおとの一番弟子！ (zenta_nanda)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Nov 23, 2025 01:22am
+- **Updated At (UTC):** Jan 14, 2026 11:36am
+
+---
