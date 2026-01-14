@@ -5,9 +5,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 162
+- **Posts:** 163
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Jan 13, 2026 11:36pm
+- **Updated At (UTC):** Jan 14, 2026 11:15am
 
 ## セクション一覧
 
@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768991226&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OS0yluhP6%2FelgacJBM%2BlWBDl4pguUP54ER5kp1mJSSdijqgo0Mw%2FQHcwMpleiO0ixTw2Fr6AkizmeNBWcUb52h%2BLblUqqsAWej5Rgt4n9mUhu400vjWFAuX0El3p3nhK%2B0SKPReek3ywNe3OMv8bmcPeOS%2Bf%2Betg%2BtPlN62ge8A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1768994557&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SFVvhs1MHVff4Ixu3BGvfPN9vxKTOMvmu9pagPTTor1dU0tzHRtevH2g9o3KLz%2Be%2FhKZ6LWF543efegtekuW9%2BXjcdE4qyGz%2F6nci21BRP4kILDkpRz75aa%2B7vsep2YMXfQy22BOLYHIOER4%2BvQATc3lee6tcRKTl6dpwqC0Xvc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -63,7 +63,29 @@
 
 ---
 
-### 2. i-FILTER民のために代替ビュアーを作成しました。
+### 2. エドガー部屋と年越しイベントを共同開催中！詳細はこちらへ↓
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+<p><strong>気になる方は今すぐ参加しましょう！</strong></p><ul><li><p><strong><mark>マイクラ鯖＆ミート</mark></strong>あり</p></li><li><p><strong><mark>景品付きの謎解き</mark></strong>に参加できる</p></li><li><p>イベント限定で<strong><mark>プロキシとYouTube配布</mark></strong>あり</p></li><li><p>誰でもイベントを出展可能</p></li></ul>
+
+[Attachment](https://padlet.com/EDOGA_desu/2025-26-dxmactg86ht02ec5)
+
+#### Comments (2)
+- **おじゃる** (Dec 30, 2025 08:47am): (・∀・)ｲｲﾈ!!
+- **Magurock  (偽物や偽投稿など注意)** (Dec 25, 2025 12:42pm): ありがとうございます
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 4
+
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** Dec 25, 2025 12:42pm
+- **Updated At (UTC):** Jan 14, 2026 11:15am
+
+---
+
+### 3. i-FILTER民のために代替ビュアーを作成しました。
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/x871d592e">https://html.cafe/x871d592e</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet-viewer.pages.dev/">https://padlet-viewer.pages.dev/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet-viewer.smooth.ytalt.f5.si/">https://padlet-viewer.smooth.ytalt.f5.si/</a></p></li></ul>
@@ -96,7 +118,7 @@
 
 ---
 
-### 3. YouTubeは更新済み
+### 4. YouTubeは更新済み
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>あとはプロキシを少し</strong></p><p><br></p><p><strong>2025/12/09追記: 僕の改造版わかめでトレンドを復活させました。</strong></p><p><br></p><p><strong>2025/12/14追記: YouTubeを更新</strong></p><p><br></p><p><strong>2025/12/20追記: YouTubeを更新</strong></p>
@@ -140,7 +162,7 @@
 
 ---
 
-### 4. 12月5日に一気に更新します。
+### 5. 12月5日に一気に更新します。
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>それまでは雑談のとこでYuki+とかあげるから待ってくれ</p><p><br></p><p>あと伸びが悪くなってモチベーションが下がってきたからできればこの部屋を宣伝して欲しい</p>
@@ -193,7 +215,7 @@
 
 ---
 
-### 5. Yuki YouTube+がEdu再生に対応しました。
+### 6. Yuki YouTube+がEdu再生に対応しました。
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [Attachment](https://padlet.com/Toka_Kun_/breakout-room/961rqR90AwOd2nND-oAdpz24dgkRJv10R)
