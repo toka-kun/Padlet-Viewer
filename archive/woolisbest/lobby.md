@@ -7,7 +7,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 15, 2026 02:18am
+- **Updated At (UTC):** Jan 15, 2026 06:53am
 
 ## 受付
 
@@ -16,13 +16,14 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (11)
+#### Comments (12)
 - **woolisbest** (Jan 14, 2026 10:02am): ok
 - **やあ　#応援歌でブチかませ** (Jan 14, 2026 02:28am):  
 - **ᴎeoᴎӝ ❤️‍🔥✘_ ✘ ﷺ sqvirr3l** (Jan 14, 2026 12:27am): やっとこれた
 - **わき** (Jan 13, 2026 03:14pm): 入れて
 - **WiiUのサブ** (Jan 14, 2026 12:48pm): ???「何度でも蘇るさ！」
 - **ホゲタァ** (Jan 14, 2026 01:02pm): NANIGAOKITA?
+- **woolisbest** (Jan 15, 2026 06:53am): ok
 - **マダタスカル** (Jan 13, 2026 10:31pm): いれて
 - **ウルトラソウル＃先生にバレただるい** (Jan 14, 2026 05:52am): うい
 - **しょくぱん** (Jan 14, 2026 06:56am): いれて
