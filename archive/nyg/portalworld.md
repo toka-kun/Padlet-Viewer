@@ -7,7 +7,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 63
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jan 14, 2026 10:50pm
+- **Updated At (UTC):** Jan 15, 2026 11:41am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -47,10 +47,11 @@
 
 
 
-#### Comments (3)
+#### Comments (4)
 - **うみねこ** (Jan 03, 2026 12:40pm): はい
 - **だいまたハムスター（偽物注意）#りおとの35番弟子#わかめGOＤ教#煮物貢献者#イケメン様様信者　ここみたってことは復讐ってこと！こわいよーたすけてフォローってなんのいみあんの？とりあえずしてーーKUNがすき　はむかす** (Sep 03, 2025 07:16am): とうこうするねごめん
 - **Magurock  (偽物や偽投稿など注意)** (Sep 06, 2025 08:58am): かなり人気になってきた
+- **キムソンイ　　　#はるかちゃん** (Jan 15, 2026 11:41am): https://padlet.com/magnificentsoftwareliteracy/student/RvdtPVB6lu0dwlQj
 
 #### Reactions
 - **Number of likes:** 2
@@ -78,6 +79,9 @@
 **モデレーター数:** 非公開
 
 [Attachment](https://padlet.com/padlets/a8v7cjbbfni702kg)
+
+#### Comments (1)
+- **キムソンイ　　　#はるかちゃん** (Jan 15, 2026 11:41am): https://padlet.com/magnificentsoftwareliteracy/student/RvdtPVB6lu0dwlQj
 
 #### Reactions
 - **Number of likes:** 1
@@ -108,6 +112,9 @@
 
 [Attachment](https://padlet.com/padlets/safrn3ir9j13ahrk)
 
+#### Comments (1)
+- **キムソンイ　　　#はるかちゃん** (Jan 15, 2026 11:41am): https://padlet.com/magnificentsoftwareliteracy/student/RvdtPVB6lu0dwlQj
+
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jan 13, 2026 10:43pm
@@ -132,6 +139,9 @@
 
 [Attachment](https://padlet.com/padlets/euh4t7tb9apza8ov)
 
+#### Comments (1)
+- **キムソンイ　　　#はるかちゃん** (Jan 15, 2026 11:41am): https://padlet.com/magnificentsoftwareliteracy/student/RvdtPVB6lu0dwlQj
+
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jan 12, 2026 05:13am
@@ -154,6 +164,9 @@
 **モデレーター数:** 非公開
 
 [Attachment](https://padlet.com/padlets/nt07gf8bkrp0leqb)
+
+#### Comments (1)
+- **キムソンイ　　　#はるかちゃん** (Jan 15, 2026 11:41am): https://padlet.com/magnificentsoftwareliteracy/student/RvdtPVB6lu0dwlQj
 
 #### Additional Information
 - **Post color:** White
@@ -1448,9 +1461,9 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769080867&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Uyuwdl%2FyER5OX2%2BAVX7056yUPm%2B1dtK8lZFU9lotRbJfjH4MrzErgMwQQxMtvlQfcpuWZcPDFlOwpap6u%2BvRNF9WwXxkSocEufbFtWj%2B0TrUU14PMY%2FNVOLYsAk5l7jhlPZTBxMUv4xKA7aajbdLS8LP6ZrT4ymTBohoYAumHWI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769086191&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=o0GhvCPdMLh%2BKOGzMWHEpxNQ2H9s28%2F%2BCtRBqWYElCPnfx49fWpet0SMuczz0kKEw32wdK1Q2J8%2FpZOoH6%2BP2O1idPzq2TLonCSrAhxeIgEf1T0v1OPz5va%2BvFFcdV81AMJysxEp3AbQBbXi8nidsOi1gDzefCbEAO3NuVzYIuk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
-#### Comments (28)
+#### Comments (29)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
 - **✿ 🐬𝒮𝒶𝓉𝒶𝓃🐬 ✿** (Sep 04, 2025 11:50pm): こんにちは！よろしくお願いします！
 - **るい** (Oct 07, 2025 10:13am): こんにちは
@@ -1479,6 +1492,7 @@
 - **るい** (Oct 07, 2025 10:13am): 投稿できません
 - **るい** (Oct 13, 2025 07:16am): ?
 - **ᏁγᎶ » Tøka_Kuŋ_** (Oct 15, 2025 09:45pm): 投稿フォーム載せてるやん
+- **キムソンイ　　　#はるかちゃん** (Jan 15, 2026 11:42am): https://padlet.com/magnificentsoftwareliteracy/student/RvdtPVB6lu0dwlQj
 
 #### Reactions
 - **Number of likes:** 2

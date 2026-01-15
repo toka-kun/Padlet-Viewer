@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769080850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XPfUOoYOqqdmQ6M5aFwtqcr1TIBszO8R58T%2B8Y6gz4F%2F8odCkArcQkWPqYOSRO4alqAISjbgy12erO5rf5%2BRphMaYdr1qP00bwmcTtSBe7bAZBHqUb25dov6IiCUnIRmoGstD1uwp3t%2FGQIiWE%2BvvSN2fZZHkW4R94ciA%2BX3Fyc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769086175&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kXwoCvtKaRkUjEqVwAi524LjGUiWovqo%2FYGKqTXdE3swGdgSYNjc2mMKk8rX7ajAGZl09xSYKzrKU0Pes8BeTThuCf77xf1grSebqhxb%2FYydH9xeaHUEo3afXk9guyNVwsVvK%2FzpaLPGrx0KZbAj%2B43YDgQe3d0XLtCH8V1hqzQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -514,13 +514,13 @@
 ---
 
 ### 3. やあ
-**Author:** あきと (Akito1031)
+**Author:** 削除済みユーザー
 
 #### Comments (6)
 - **わに太郎の龍之介11** (Jan 12, 2026 05:16am): nice to meetv 
 - **わに太郎の龍之介11** (Jan 12, 2026 05:16am): あ
-- **あきと** (Jan 12, 2026 05:16am): はじめまして
-- **あきと** (Jan 12, 2026 05:16am): ある部屋での宣伝で来た
+- **削除済みユーザー** (Jan 12, 2026 05:16am): はじめまして
+- **削除済みユーザー** (Jan 12, 2026 05:16am): ある部屋での宣伝で来た
 - **わに太郎の龍之介11** (Jan 12, 2026 05:19am): huhu
 - **わに太郎の龍之介11** (Jan 12, 2026 05:16am): you
 
