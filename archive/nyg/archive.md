@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769046560&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AKX%2FEgNCXmSecV0MCaMjviINhD43zsdG7l3F2kgilkowYtiuB6W61t6oF7C%2B20HsCQA%2Bvga2X4%2FrKjc2QrpzfYVXgcLj%2FEJJ6cKTzY%2Bx1ja%2Fk1HNAdHzVoBQoB9hMcnfxeFBJQsLKE2G1bvlK%2B%2FHZ%2F35qO996h8w82eSJeO9S8I%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769053315&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=k5S%2FvZ%2FoR33VDMG%2FcqZMprYfBBBIp3P%2BW%2BJ4c32Ci9PHDTs0xhvBOSOj4ZIPNQe1zhl8104%2Bs90KnQRu0p%2BtkS6DRMTRFUH83%2FxnXNQOA%2F7w1QRMJalVn8EjLEj1NBAnE1Qf7x4PpcjT2UuBpoJeFmpIA7igL4maBmRS84Dd54I%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
