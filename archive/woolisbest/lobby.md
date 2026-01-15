@@ -7,7 +7,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 15, 2026 12:49pm
+- **Updated At (UTC):** Jan 15, 2026 01:10pm
 
 ## 受付
 
@@ -16,7 +16,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (14)
+#### Comments (15)
 - **woolisbest** (Jan 14, 2026 10:02am): ok
 - **やあ　#応援歌でブチかませ** (Jan 14, 2026 02:28am):  
 - **ᴎeoᴎӝ ❤️‍🔥 -_xylo_-** (Jan 14, 2026 12:27am): やっとこれた
@@ -30,6 +30,7 @@
 - **しょくぱん** (Jan 14, 2026 06:56am): いれて
 - **Massa_games216** (Jan 15, 2026 12:49pm): PLZ
 - **ホゲタァ** (Jan 14, 2026 01:02pm): いーれーって！
+- **バケ川　モン児** (Jan 15, 2026 01:10pm): いれて
 - **Natsu** (Jan 15, 2026 01:44am): うい
 
 #### Additional Information
