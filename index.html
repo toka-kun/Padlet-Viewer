@@ -267,7 +267,7 @@
 
     <header>
         <h1>
-            プロキシのリンクやYouTubeの閲覧方法を共有する会
+            <span id="board-title">読み込み中...</span>
             <img src="https://count.getloli.com/@toka_kun_?name=toka_kun_&theme=original-new&padding=7&offset=0&align=top&scale=0.4&pixelated=1&darkmode=auto" alt="count" style="margin-left:8px; vertical-align:middle;">
         </h1>
         <div class="status" id="last-update">読み込み中...</div>
@@ -298,11 +298,8 @@
         };
         marked.setOptions({ renderer: renderer, breaks: true });
 
-        // 2. DOMPurify (HTMLサニタイザー)の設定: 
-        // Markdown内に直接書かれたHTMLタグや、他の経路で生成されたリンクに対しても
-        // 強制的に target="_blank" を追加するフックを設定
+        // 2. DOMPurify (HTMLサニタイザー)の設定
         DOMPurify.addHook('afterSanitizeAttributes', function (node) {
-            // ノードがリンク(Aタグ)であり、target属性を持てる場合
             if ('target' in node) {
                 node.setAttribute('target', '_blank');
                 node.setAttribute('rel', 'noopener noreferrer');
@@ -339,6 +336,18 @@
         }
 
         function renderBoard(markdownText, canvas) {
+            // --- ここでMarkdownの最初の行(# タイトル)を取得してヘッダーに反映 ---
+            const titleMatch = markdownText.match(/^# (.*)/);
+            if (titleMatch) {
+                const boardTitle = titleMatch[1].trim();
+                const titleEl = document.getElementById('board-title');
+                if (titleEl) titleEl.textContent = boardTitle;
+            } else {
+                // タイトルが見つからない場合のデフォルト
+                document.getElementById('board-title').textContent = "Padlet Viewer";
+            }
+            // -------------------------------------------------------------
+
             const columns = markdownText.split(/^## /gm);
             
             columns.forEach((colText, index) => {
@@ -392,11 +401,9 @@
         function smartDateFormat(rawStr) {
             if (!rawStr) return null;
             
-            // 1. まず年(4桁)があるかチェック。なければそのまま返す（日本語の年なしデータ対策）
             const yearMatch = rawStr.match(/\d{4}/);
             if (!yearMatch) return rawStr;
 
-            // 2. 英語形式の解析 (例: Aug 20, 2024 10:59pm)
             const enRegex = /([a-zA-Z]+)\s+(\d{1,2}),\s+(\d{4})(?:\s+(\d{1,2}):(\d{2})([ap]m))?/i;
             const enMatch = rawStr.match(enRegex);
 
@@ -434,7 +441,6 @@
                 }
             }
 
-            // 3. 標準的な解析
             const ts = Date.parse(rawStr);
             if (!isNaN(ts)) {
                 const d = new Date(ts);
@@ -464,23 +470,18 @@
             const author = getMeta(/(?:- )?\*\*(?:Author|作成者|Builder):\*\* (.*)/i) || '不明';
             const color = getMeta(/(?:- )?\*\*(?:Post color|Color|投稿のカラー):\*\* (.*)/i) || 'White';
             
-            // --- カスタムフィールド抽出 ---
             const postType = getMeta(/(?:- )?\*\*(?:投稿の種類|Post Type):\*\* (.*)/i);
             const customLastUpdate = getMeta(/(?:- )?\*\*(?:最終更新日|Last Updated|Updated At|更新日|更新日\(UTC\)):\*\* (.*)/i);
             const linkUrl = getMeta(/(?:- )?\*\*(?:Link|リンク):\*\* (.*)/i);
 
-            // --- システム日付 ---
             let rawCreatedDate = getMeta(/(?:- )?\*\*(?:Created At(?: \(UTC\))?|Created At|Date Created|Creation Date|作成日（UTC）|作成日\(UTC\)|作成日):\*\* (.*)/i);
             
-            // 日付を整形
             const displayCreatedDate = smartDateFormat(rawCreatedDate);
             const displayUpdatedDate = smartDateFormat(customLastUpdate);
 
-            // 評価
             const rating = parseFloat(getMeta(/(?:- )?\*\*(?:Average star rating|星評価平均):\*\* ([\d\.]+)/i) || 0);
             const ratingCount = getMeta(/(?:- )?\*\*(?:Number of ratings|評価件数|Votes):\*\* (\d+)/i) || 0;
 
-            // コメント
             let comments = [];
             const commentBlockRegex = /#### (?:Comments|コメント)[^\n]*\n([\s\S]*?)(?=####|$)/i;
             const commentMatch = text.match(commentBlockRegex);
@@ -495,11 +496,9 @@
                 });
             }
 
-            // 本文整形
             let content = text;
             if (lines.length > 0) content = lines.slice(1).join('\n'); 
 
-            // 削除するメタデータ
             const patternsToRemove = [
                 /(?:- )?\*\*(?:Author|作成者|Builder):.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Post color|Color|投稿のカラー):.*[\r\n]*/gi,
@@ -516,11 +515,10 @@
             ];
             patternsToRemove.forEach(regex => content = content.replace(regex, ''));
             
-            // 添付ファイルの抽出と本文からの削除
             let attachmentUrl = null;
             content = content.replace(/!?\[(?:Attachment|添付ファイル)\]\((.*?)\)/gi, (match, url) => {
                 attachmentUrl = url;
-                return ''; // 本文からは削除
+                return ''; 
             });
 
             return {
@@ -556,23 +554,19 @@
             const starsStr = data.rating > 0 ? '⭐'.repeat(Math.round(data.rating)) : '☆';
             const ratingText = data.ratingCount > 0 ? `(${data.ratingCount})` : '';
 
-            // アタッチメント・リンクエリアの構築
             let mediaHtml = '';
             if (data.attachmentUrl || data.linkUrl) {
                 mediaHtml += '<div class="attachment-area">';
                 if (data.attachmentUrl) {
                     mediaHtml += `<img src="${escapeHtml(data.attachmentUrl)}" alt="Attachment">`;
-                    // 添付ファイルボタン（強制target="_blank"）
                     mediaHtml += `<a href="${escapeHtml(data.attachmentUrl)}" target="_blank" class="action-link">📎 添付ファイル</a>`;
                 }
                 if (data.linkUrl && data.linkUrl !== data.attachmentUrl) {
-                    // 外部リンクボタン（強制target="_blank"）
                      mediaHtml += `<a href="${escapeHtml(data.linkUrl)}" target="_blank" class="action-link">🔗 リンクを開く</a>`;
                 }
                 mediaHtml += '</div>';
             }
 
-            // カスタムフィールド
             let customFieldsHtml = '';
             if (data.postType || data.customLastUpdate) {
                 customFieldsHtml += '<div class="custom-fields-area">';
@@ -585,7 +579,6 @@
                 customFieldsHtml += '</div>';
             }
 
-            // コメント
             let commentsHtml = '';
             if (data.comments.length > 0) {
                 const list = data.comments.map(c => `
@@ -608,7 +601,6 @@
                 `;
             }
 
-            // 本文のHTML生成（ここでtarget="_blank"がフックにより適用される）
             const rawHtml = marked.parse(data.content);
             const cleanHtml = DOMPurify.sanitize(rawHtml, { ADD_ATTR: ['target', 'class'] });
 
