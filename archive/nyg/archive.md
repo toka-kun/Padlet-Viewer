@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769074147&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RwYe8MMf4ONihTZeK%2B9ehyKt5lg440TunqVUzUy70lT4IJfUTSFSqOHPIOzehCwRchqj3QaE2IGlP2ReO6VbGVfskmghkQorVXJIAgdcTHBX6Y7HrafFQ3uK7cStQt%2BvzNB1yvsE2Z7xJtwxG%2FSRhUki0RB70%2B%2BKQboIm1ImQFY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769077624&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zjGNXUZq3QvPHDJKQn4l9pIwjx7q0yQLplQ8SXL%2FcADuivSqSeHQC4Jt3ozn67ZrXlZL6n3H6B0cea6aEKMTSX5qFWSVmk3gDvFYz%2FZhgskFqIOVnBDLUnYj5en9%2BCptF1OIK0ACzasuiNfkpLb2do%2FgMbB9IX1V9pRJJGO76mk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -2124,7 +2124,7 @@
 #### Comments (4)
 - **Proxy無いと生きていけない** (Jan 05, 2026 07:22pm): そうです匿名表示から規制が、、、
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 05, 2026 01:07am): https://www.startpage.com/ が無理になったってこと？
-- **ᴎeoᴎӝ ❤️‍🔥✘_ ✘ ﷺ sqvirr3l** (Jan 06, 2026 12:54pm): copp.gg
+- **ᴎeoᴎӝ ❤️‍🔥 -_xylo_-** (Jan 06, 2026 12:54pm): copp.gg
 - **削除済みユーザー** (Jan 05, 2026 11:25pm):  . . .
 
 #### Additional Information
@@ -2907,7 +2907,7 @@
 ---
 
 ### 17. Post 17
-**Author:** ᴎeoᴎӝ ❤️‍🔥✘_ ✘ ﷺ sqvirr3l (P1urqm)
+**Author:** ᴎeoᴎӝ ❤️‍🔥 -_xylo_- (P1urqm)
 
 [Attachment](https://wondermerge.gcdn.co/publish/html5/)
 
@@ -2918,8 +2918,8 @@
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (May 27, 2025 10:26am): Omoroi
 - **Calm Magpie** (May 27, 2025 11:16am): dekitakedoragui
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (May 27, 2025 11:35am): Orenobaaikarui
-- **ᴎeoᴎӝ ❤️‍🔥✘_ ✘ ﷺ sqvirr3l** (May 28, 2025 01:58am): yatta-
-- **ᴎeoᴎӝ ❤️‍🔥✘_ ✘ ﷺ sqvirr3l** (Jun 24, 2025 03:17am): どういうふうにバグる
+- **ᴎeoᴎӝ ❤️‍🔥 -_xylo_-** (May 28, 2025 01:58am): yatta-
+- **ᴎeoᴎӝ ❤️‍🔥 -_xylo_-** (Jun 24, 2025 03:17am): どういうふうにバグる
 
 #### Reactions
 - **Average star rating:** 4.0
