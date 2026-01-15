@@ -7,7 +7,7 @@
 - **Builder:** べるり(名前戻した) (BERURI1214)
 - **Posts:** 71
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Jan 14, 2026 03:03am
+- **Updated At (UTC):** Jan 15, 2026 01:34am
 
 ## ルール
 
@@ -28,7 +28,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1769037595&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bmH9cG%2B1wZ%2Fnj7Gt9vwEqpBKjXuAmBjW9IYiyNSCMCLX%2F3zj4dtaSyDzEfr09ydemKJBVSxlXUb3ZRbfb9bTSxB8tPsu6RFs9204i4sM3K5JNeL1bzgamcrMOlcBSQz5dvynbSAW7jDu8ieN53q%2Fsn0OduCMT1KsdYTjoUHbPQo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1769046614&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gx5sengNbReLlVEU76Y3XEg4ghurj1IXNau9mf%2B8fAVnJqekI7s3qObldmYLdE7vkqmBx8pgrIajzjsH8xmQ3CKDMDM%2FvhXnqLA1Z%2FzVH1I6sDKIzp8TTe3DwQiNjSHr6%2B5km6ruUNy5SWXzlLlF%2Bn%2BguYGcxeOXdBuTOxo9fQo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -173,6 +173,10 @@
 **Author:** べるり(名前戻した) (BERURI1214)
 
 <p>荒らし対策などがあれば何でもどうぞ</p>
+
+#### Comments (2)
+- **Valiant Urchin** (Jan 15, 2026 01:34am): 雑談のところにあるぺるりさんの投稿のProxy風呂です
+- **Valiant Urchin** (Jan 15, 2026 01:35am): 新しいのお願いします
 
 #### Additional Information
 - **Post color:** Green
