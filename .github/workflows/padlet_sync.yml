@@ -27,24 +27,40 @@ jobs:
           if head -n 1 temp_download.md | grep -q "<!DOCTYPE html>"; then
             echo "⚠️ エラー: 取得したデータがHTML（エラーページ）でした。更新をスキップします。"
             rm temp_download.md
-            # 処理をここで中断（成功扱いにして終了することで、下のコミット処理に進んでも変更なしとなる）
             exit 0
           fi
 
-          # 3. 正常なデータの場合、現在時刻を取得
+          # 3. 変更チェック（ここが重要）
+          # すでにファイルが存在する場合、中身（3行目以降）を比較する
+          if [ -f padlet_export.md ]; then
+            # 既存ファイルの1,2行目（日付ヘッダー）を除外したものを一時作成
+            tail -n +3 padlet_export.md > current_body.tmp
+            
+            # ダウンロードしたものと比較
+            if cmp -s temp_download.md current_body.tmp; then
+               echo "✅ 変更なし: データの中身は同じです。更新日時も更新しません。"
+               rm temp_download.md current_body.tmp
+               exit 0
+            fi
+            
+            # 一時ファイルを削除して、更新処理へ進む
+            rm current_body.tmp
+          fi
+
+          # 4. 変更があった（または初回）場合、現在時刻を取得して保存
           NOW=$(date "+%Y/%m/%d %H:%M:%S")
           
-          # 4. ヘッダー（日時と空行）を padlet_export.md に書き込み（ここで上書きされる）
+          # ヘッダー（日時と空行）を padlet_export.md に書き込み（上書き）
           echo "最終更新: $NOW" > padlet_export.md
           echo "" >> padlet_export.md
           
-          # 5. ダウンロードした中身を追記
+          # ダウンロードした中身を追記
           cat temp_download.md >> padlet_export.md
           
-          # 6. 一時ファイルを削除
+          # 一時ファイルを削除
           rm temp_download.md
           
-          echo "取得完了: $NOW"
+          echo "🔄 更新完了: データが変更されたため保存しました ($NOW)"
 
       - name: 変更を保存
         run: |
