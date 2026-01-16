@@ -17,7 +17,26 @@ jobs:
 
       - name: Padletからデータを取得
         run: |
-          curl -L -o padlet_export.md "https://padlet.com/padlets/a8v7cjbbfni702kg/exports/markdown.md"
+          # タイムゾーンを日本時間に設定
+          export TZ='Asia/Tokyo'
+          
+          # 1. 一時ファイルにデータをダウンロード
+          curl -L -s -o temp_download.md "https://padlet.com/padlets/a8v7cjbbfni702kg/exports/markdown.md"
+          
+          # 2. 現在時刻を取得
+          NOW=$(date "+%Y/%m/%d %H:%M:%S")
+          
+          # 3. ヘッダー（日時と空行）を padlet_export.md に書き込み
+          echo "最終更新: $NOW" > padlet_export.md
+          echo "" >> padlet_export.md
+          
+          # 4. ダウンロードした中身を追記
+          cat temp_download.md >> padlet_export.md
+          
+          # 5. 一時ファイルを削除
+          rm temp_download.md
+          
+          echo "取得完了: $NOW"
 
       - name: 変更を保存
         run: |
@@ -30,5 +49,7 @@ jobs:
             echo "変更がなかったので何もしません"
           else
             git commit -m "Padletの最新データを取得"
+            # エラー回避のため pull を追加
+            git pull origin main --rebase
             git push
           fi
