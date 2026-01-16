@@ -30,7 +30,7 @@ jobs:
           if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
             SLEEP_TIME=3
           else
-            SLEEP_TIME=10
+            SLEEP_TIME=5
           fi
           
           echo "現在のモード: ${{ github.event_name }}"
