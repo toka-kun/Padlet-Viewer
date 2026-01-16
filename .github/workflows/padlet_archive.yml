@@ -30,32 +30,40 @@ jobs:
           if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
             SLEEP_TIME=3
           else
-            SLEEP_TIME=5
+            SLEEP_TIME=10
           fi
           
           echo "現在のモード: ${{ github.event_name }}"
           echo "待機時間: ${SLEEP_TIME}秒"
 
-          # --- 関数定義（日付をつけて保存する処理） ---
+          # --- 関数定義（エラー判定＋日付をつけて保存する処理） ---
           function save_padlet {
             local URL=$1
             local OUT_FILE=$2
             
             # 1. 一旦データを一時ファイルにダウンロード
             if curl -L --compressed -s -o temp_download.md "$URL"; then
-                # 2. 現在時刻を取得
-                NOW=$(date "+%Y/%m/%d %H:%M:%S")
                 
-                # 3. ヘッダー（日時と空行）を書き込み（上書き）
-                echo "最終更新: $NOW" > "$OUT_FILE"
-                echo "" >> "$OUT_FILE"
-                
-                # 4. ダウンロードした中身を追記
-                cat temp_download.md >> "$OUT_FILE"
-                
-                # 5. 一時ファイルを削除
-                rm temp_download.md
-                echo "保存完了: $OUT_FILE ($NOW)"
+                # 2. 中身のチェック：先頭が "<!DOCTYPE html>" だったらスキップ
+                if head -n 1 temp_download.md | grep -q "<!DOCTYPE html>"; then
+                    echo "⚠️ スキップ: $OUT_FILE はエラーページ(HTML)でした。更新しません。"
+                    rm temp_download.md
+                    # ここで何もしないので、古いファイルがそのまま残ります
+                else
+                    # 3. 正常なデータの場合、保存処理を実行
+                    NOW=$(date "+%Y/%m/%d %H:%M:%S")
+                    
+                    # ヘッダー（日時と空行）を書き込み（上書き）
+                    echo "最終更新: $NOW" > "$OUT_FILE"
+                    echo "" >> "$OUT_FILE"
+                    
+                    # ダウンロードした中身を追記
+                    cat temp_download.md >> "$OUT_FILE"
+                    
+                    # 一時ファイルを削除
+                    rm temp_download.md
+                    echo "保存完了: $OUT_FILE ($NOW)"
+                fi
             else
                 echo "エラー: ダウンロード失敗 $OUT_FILE"
             fi
