@@ -30,7 +30,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769124131&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sE1ns8P5yAsUb2%2FLrj%2Bo%2BA5SX9B7tlmTrAhjzVZlgMU4C7cVTNYEyJHM8i9p1URTIhxLioN4uRnIu62f16cZxmYc%2BI1nzn3nuCy4wNq2GRi4jTt8jokORpKYzT3sf1jCfu%2BwmwMrFskBdKeDULxxzW5zJVHqNL6qatgMbFCnh7Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769133062&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SzYX%2BK3ZfXU759u587MqEWnt8wKsGUfErZloIVaXtMjS60gP7eOvGx0kBA0ElU4S5ol9mLo0mOnYCyTja3Eux%2B31VNFj6KisILtM8CFb5y4D7BHKP67hIoECPoRITrztEMgwb8Wm9wgmEYmkPEXsTzEg53sREkU11Pehtf00FTA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -2907,7 +2907,7 @@
 ---
 
 ### 17. Post 17
-**Author:** ᴎeoᴎӝ ❤️‍🔥 -_xylo_- (P1urqm)
+**Author:** ᴎeoᴎӝ ❤️‍🔥 -_xylo_- (neon_ix)
 
 [Attachment](https://wondermerge.gcdn.co/publish/html5/)
 
