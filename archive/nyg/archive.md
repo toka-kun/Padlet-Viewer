@@ -1,4 +1,4 @@
-最終更新: 2026/01/16 18:28:07
+最終更新: 2026/01/16 19:25:57
 
 # アーカイブ
 
@@ -32,7 +32,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769160483&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=krdVS5bOPTRi4RYvFGFJZwAs2ZYxoSADE07Rb3XuiBfTo2kzqrHEGebAikV4ejOA%2BYy7hGC1FaQodz5yvrSOP0EOo%2BvgAwPyH%2FuFvUV2qXvgNq70%2F137RlJX7mqS2qLLbwArLLmMGor%2BXpLNkmdClstuwmdYMtO2aU7HXgs18XU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769163953&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nyxYF5GOQWAYjj7czO60T%2Bio0YkxZwZl1jDGpU26nPyC44r4mg8UvvM8iUOWTiMfJsgf7oZDQr4%2BB6mwFFkDFK6ZS5wRwjRqgp73gMLhk8gVuQywZbWOH4byrRGs%2B3YP2dyb2%2FTcJzTeEfCU3j3gat3rdDdEmxGD1z%2BdfNJQHBw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
