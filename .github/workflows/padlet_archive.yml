@@ -18,116 +18,83 @@ jobs:
 
       - name: フォルダ作成とデータ取得
         run: |
+          # --- 設定エリア ---
+          
+          # 日本時間に設定（これをしないと9時間ずれます）
+          export TZ='Asia/Tokyo'
+          
           # 保存先のフォルダをまとめて作成
           mkdir -p archive/nyg archive/woolisbest archive/magurock archive/kiseikaijoiinkai
 
           # 待機時間を決定
-          # 手動実行なら3秒、自動実行なら10秒
           if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
             SLEEP_TIME=3
           else
-            SLEEP_TIME=3
+            SLEEP_TIME=10
           fi
           
           echo "現在のモード: ${{ github.event_name }}"
-          echo "待機時間を ${SLEEP_TIME}秒 に設定して取得を開始します..."
+          echo "待機時間: ${SLEEP_TIME}秒"
 
-
-          # ==========================================
-          # 1. nyg シリーズ
-          # ==========================================
-          
-          # nyg/archive
-          curl -L --compressed -o archive/nyg/archive.md "https://padlet.com/padlets/scvs0iw7tdatft21/exports/markdown.md"
-          sleep $SLEEP_TIME
-          
-          # nyg/ssjc
-          curl -L --compressed -o archive/nyg/ssjc.md "https://padlet.com/padlets/ybtryru0lgzpxp34/exports/markdown.md"
-          sleep $SLEEP_TIME
-
-          # nyg/portalworld
-          curl -L --compressed -o archive/nyg/portalworld.md "https://padlet.com/padlets/lpiw7xio9gwnmxrd/exports/markdown.md"
-          sleep $SLEEP_TIME
-
-          # nyg/arashitaisaku
-          curl -L --compressed -o archive/nyg/arashitaisaku.md "https://padlet.com/padlets/i0fd897smvjo0tvj/exports/markdown.md"
-          sleep $SLEEP_TIME
-
-          # nyg/games
-          curl -L --compressed -o archive/nyg/games.md "https://padlet.com/padlets/4b9092979b4e6dlm/exports/markdown.md"
-          sleep $SLEEP_TIME
-
-          # nyg/ssjt2025
-          curl -L --compressed -o archive/nyg/ssjt2025.md "https://padlet.com/padlets/hqm4zg0lw3smlc23/exports/markdown.md"
-          sleep $SLEEP_TIME
-
+          # --- 関数定義（日付をつけて保存する処理） ---
+          function save_padlet {
+            local URL=$1
+            local OUT_FILE=$2
+            
+            # 1. 一旦データを一時ファイルにダウンロード
+            if curl -L --compressed -s -o temp_download.md "$URL"; then
+                # 2. 現在時刻を取得
+                NOW=$(date "+%Y/%m/%d %H:%M:%S")
+                
+                # 3. ヘッダー（日時と空行）を書き込み（上書き）
+                echo "最終更新: $NOW" > "$OUT_FILE"
+                echo "" >> "$OUT_FILE"
+                
+                # 4. ダウンロードした中身を追記
+                cat temp_download.md >> "$OUT_FILE"
+                
+                # 5. 一時ファイルを削除
+                rm temp_download.md
+                echo "保存完了: $OUT_FILE ($NOW)"
+            else
+                echo "エラー: ダウンロード失敗 $OUT_FILE"
+            fi
+            
+            # 休憩
+            sleep $SLEEP_TIME
+          }
 
           # ==========================================
-          # 2. woolisbest シリーズ
+          # 実行エリア (関数を呼び出して実行)
           # ==========================================
 
-          # woolisbest/lobby
-          curl -L --compressed -o archive/woolisbest/lobby.md "https://padlet.com/padlets/99xq7bb7zjzcfzw0/exports/markdown.md"
-          sleep $SLEEP_TIME
+          # --- 1. nyg シリーズ ---
+          save_padlet "https://padlet.com/padlets/scvs0iw7tdatft21/exports/markdown.md" "archive/nyg/archive.md"
+          save_padlet "https://padlet.com/padlets/ybtryru0lgzpxp34/exports/markdown.md" "archive/nyg/ssjc.md"
+          save_padlet "https://padlet.com/padlets/lpiw7xio9gwnmxrd/exports/markdown.md" "archive/nyg/portalworld.md"
+          save_padlet "https://padlet.com/padlets/i0fd897smvjo0tvj/exports/markdown.md" "archive/nyg/arashitaisaku.md"
+          save_padlet "https://padlet.com/padlets/4b9092979b4e6dlm/exports/markdown.md" "archive/nyg/games.md"
+          save_padlet "https://padlet.com/padlets/hqm4zg0lw3smlc23/exports/markdown.md" "archive/nyg/ssjt2025.md"
 
-          # woolisbest/main
-          curl -L --compressed -o archive/woolisbest/main.md "https://padlet.com/padlets/f46agi7nbsmz8boy/exports/markdown.md"
-          sleep $SLEEP_TIME
+          # --- 2. woolisbest シリーズ ---
+          save_padlet "https://padlet.com/padlets/99xq7bb7zjzcfzw0/exports/markdown.md" "archive/woolisbest/lobby.md"
+          save_padlet "https://padlet.com/padlets/f46agi7nbsmz8boy/exports/markdown.md" "archive/woolisbest/main.md"
+          save_padlet "https://padlet.com/padlets/wo6pj5yfmqsue2rh/exports/markdown.md" "archive/woolisbest/proxy.md"
 
-          # woolisbest/proxy
-          curl -L --compressed -o archive/woolisbest/proxy.md "https://padlet.com/padlets/wo6pj5yfmqsue2rh/exports/markdown.md"
-          sleep $SLEEP_TIME
+          # --- 3. magurock シリーズ ---
+          save_padlet "https://padlet.com/padlets/e9n4zhdx6ucfbaa4/exports/markdown.md" "archive/magurock/lobby.md"
+          save_padlet "https://padlet.com/padlets/v7eblregk0t2eq0k/exports/markdown.md" "archive/magurock/main.md"
 
+          # --- 4. kiseikaijoiinkai シリーズ ---
+          save_padlet "https://padlet.com/padlets/5db70e80bto7rnxl/exports/markdown.md" "archive/kiseikaijoiinkai/lobby.md"
 
-          # ==========================================
-          # 3. magurock シリーズ
-          # ==========================================
-
-          # magurock/lobby
-          curl -L --compressed -o archive/magurock/lobby.md "https://padlet.com/padlets/e9n4zhdx6ucfbaa4/exports/markdown.md"
-          sleep $SLEEP_TIME
-
-          # magurock/main
-          curl -L --compressed -o archive/magurock/main.md "https://padlet.com/padlets/v7eblregk0t2eq0k/exports/markdown.md"
-          sleep $SLEEP_TIME
-
-
-          # ==========================================
-          # 4. kiseikaijoiinkai シリーズ
-          # ==========================================
-
-          # kiseikaijoiinkai/lobby
-          curl -L --compressed -o archive/kiseikaijoiinkai/lobby.md "https://padlet.com/padlets/5db70e80bto7rnxl/exports/markdown.md"
-          sleep $SLEEP_TIME
-
-
-          # ==========================================
-          # 5. その他の単独ファイル（アルファベット順）
-          # ==========================================
-
-          # beruri
-          curl -L --compressed -o archive/beruri.md "https://padlet.com/padlets/zsdegt1d6scuq9qa/exports/markdown.md"
-          sleep $SLEEP_TIME
-
-          # bonjour
-          curl -L --compressed -o archive/bonjour.md "https://padlet.com/padlets/fj7pwrjfd44519fq/exports/markdown.md"
-          sleep $SLEEP_TIME
-
-          # hikari
-          curl -L --compressed -o archive/hikari.md "https://padlet.com/padlets/afg5jcs1w4yyk2h1/exports/markdown.md"
-          sleep $SLEEP_TIME
-          
-          # itrsa
-          curl -L --compressed -o archive/itrsa.md "https://padlet.com/padlets/kulz2hpe9vtrxep4/exports/markdown.md"
-          sleep $SLEEP_TIME
-
-          # kabotya
-          curl -L --compressed -o archive/kabotya.md "https://padlet.com/padlets/34b6kq9lghbe3rtm/exports/markdown.md"
-          sleep $SLEEP_TIME
-
-          # obungu
-          curl -L --compressed -o archive/obungu.md "https://padlet.com/padlets/5ggicyna1yjvquxr/exports/markdown.md"
-
+          # --- 5. その他の単独ファイル ---
+          save_padlet "https://padlet.com/padlets/zsdegt1d6scuq9qa/exports/markdown.md" "archive/beruri.md"
+          save_padlet "https://padlet.com/padlets/fj7pwrjfd44519fq/exports/markdown.md" "archive/bonjour.md"
+          save_padlet "https://padlet.com/padlets/afg5jcs1w4yyk2h1/exports/markdown.md" "archive/hikari.md"
+          save_padlet "https://padlet.com/padlets/kulz2hpe9vtrxep4/exports/markdown.md" "archive/itrsa.md"
+          save_padlet "https://padlet.com/padlets/34b6kq9lghbe3rtm/exports/markdown.md" "archive/kabotya.md"
+          save_padlet "https://padlet.com/padlets/5ggicyna1yjvquxr/exports/markdown.md" "archive/obungu.md"
 
       - name: まとめて保存
         run: |
