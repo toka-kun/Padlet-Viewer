@@ -7,7 +7,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 16, 2026 01:42am
+- **Updated At (UTC):** Jan 16, 2026 04:44am
 
 ## 受付
 
@@ -16,8 +16,9 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (16)
+#### Comments (17)
 - **woolisbest** (Jan 14, 2026 10:02am): ok
+- **あああ** (Jan 16, 2026 04:44am): いれて
 - **やあ　#応援歌でブチかませ** (Jan 14, 2026 02:28am):  
 - **ᴎeoᴎӝ ❤️‍🔥 -_xylo_-** (Jan 14, 2026 12:27am): やっとこれた
 - **わき** (Jan 13, 2026 03:14pm): 入れて
