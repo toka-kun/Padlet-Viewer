@@ -7,7 +7,7 @@
 - **Builder:** べるり(名前戻した) (BERURI1214)
 - **Posts:** 71
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Jan 15, 2026 01:34am
+- **Updated At (UTC):** Jan 16, 2026 01:28am
 
 ## ルール
 
@@ -28,7 +28,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1769124188&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vHvCcS1z9K6zaC%2Bb7Y73WT6wynCcwkDPJdqbMzRAHBNmDkKKlMLD449Lul2YO8ic3duqGRJgjXevArg9BviGKQF6WFm16LLWQfd2%2FZWtqJ4eKNJ0WEYLfaJBRUp4nallxbVh2jJ8LVWDAll4oan1iKiavxWAv1edPuxbMer%2B3kk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1769133121&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vrFk2m%2FkBYsENDN%2FisfEzejcM3BiBQAWB2ZFgrc6kkGVWrLN2SWAoPrcDzOmX8qX%2FltRlgQGp%2BXXo4tbtzT7XGuh7kNgxHbxr98bDV%2B%2BJzjU8uoXarw8xvsGRlWy5RRvZ5JPh2HvUeDvzOwUUGWOC5cKXl5t6LEKnOve%2Fttpshc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -841,6 +841,9 @@
 - **K-** (Sep 24, 2025 02:38am): URL押してみ
 - **あか** (Aug 06, 2025 12:21am): ずっと真っ暗です使い方ってありますか？
 - **オムライス** (Nov 12, 2025 02:40am): https://astral-games.onrender.com/
+
+#### Reactions
+- **Number of likes:** 1
 
 #### Additional Information
 - **Post color:** White
