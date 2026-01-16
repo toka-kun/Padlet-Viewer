@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Viewer</title>
+    <title>Padlet Viewer</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
     
@@ -298,7 +298,7 @@
         };
         marked.setOptions({ renderer: renderer, breaks: true });
 
-        // 2. DOMPurify (HTMLサニタイザー)の設定
+        // 2. DOMPurify (HTMLサニタイザー)の設定: 強制的に target="_blank" を追加
         DOMPurify.addHook('afterSanitizeAttributes', function (node) {
             if ('target' in node) {
                 node.setAttribute('target', '_blank');
@@ -315,13 +315,35 @@
             try {
                 const response = await fetch(`${markdownUrl}?t=${new Date().getTime()}`);
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-                const text = await response.text();
+                const fullText = await response.text();
+                
+                // --- データの分割処理 ---
+                // フォーマット: "更新日時\n\nMarkdown本文..."
+                // 最初の空行(\n\n)を見つけて分割します
+                const splitIndex = fullText.indexOf('\n\n');
+                let updateTimeStr = '最終更新: 不明';
+                let markdownContent = fullText;
+
+                if (splitIndex !== -1) {
+                    // 1行目の更新日時を取得
+                    updateTimeStr = fullText.substring(0, splitIndex).trim();
+                    // 本文を取得 (空行の次から)
+                    markdownContent = fullText.substring(splitIndex + 2);
+                } else {
+                    // 空行が見つからない場合のフォールバック（最初の改行で区切る）
+                    const firstLineBreak = fullText.indexOf('\n');
+                    if (firstLineBreak !== -1) {
+                         updateTimeStr = fullText.substring(0, firstLineBreak).trim();
+                         markdownContent = fullText.substring(firstLineBreak + 1).trim();
+                    }
+                }
                 
                 loadingDiv.remove();
-                const now = new Date();
-                updateDiv.textContent = '最終更新: ' + now.toLocaleTimeString('ja-JP');
+                
+                // ファイルから取得した更新日時を表示
+                updateDiv.textContent = updateTimeStr;
 
-                renderBoard(text, canvas);
+                renderBoard(markdownContent, canvas);
 
             } catch (error) {
                 console.error('Fetch error:', error);
@@ -336,17 +358,16 @@
         }
 
         function renderBoard(markdownText, canvas) {
-            // --- ここでMarkdownの最初の行(# タイトル)を取得してヘッダーに反映 ---
+            // --- Markdownのタイトル行(# ...)を取得してヘッダーに反映 ---
             const titleMatch = markdownText.match(/^# (.*)/);
             if (titleMatch) {
                 const boardTitle = titleMatch[1].trim();
                 const titleEl = document.getElementById('board-title');
                 if (titleEl) titleEl.textContent = boardTitle;
             } else {
-                // タイトルが見つからない場合のデフォルト
                 document.getElementById('board-title').textContent = "Padlet Viewer";
             }
-            // -------------------------------------------------------------
+            // --------------------------------------------------------
 
             const columns = markdownText.split(/^## /gm);
             
@@ -397,7 +418,7 @@
             });
         }
 
-        // --- 強力な日時解析・フォーマット関数 ---
+        // --- 日時解析関数 ---
         function smartDateFormat(rawStr) {
             if (!rawStr) return null;
             
