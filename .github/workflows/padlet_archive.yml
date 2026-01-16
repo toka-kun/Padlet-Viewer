@@ -20,7 +20,7 @@ jobs:
         run: |
           # --- 設定エリア ---
           
-          # 日本時間に設定（これをしないと9時間ずれます）
+          # 日本時間に設定
           export TZ='Asia/Tokyo'
           
           # 保存先のフォルダをまとめて作成
@@ -36,7 +36,7 @@ jobs:
           echo "現在のモード: ${{ github.event_name }}"
           echo "待機時間: ${SLEEP_TIME}秒"
 
-          # --- 関数定義（エラー判定＋日付をつけて保存する処理） ---
+          # --- 関数定義（変更検知＋日付をつけて保存する処理） ---
           function save_padlet {
             local URL=$1
             local OUT_FILE=$2
@@ -48,24 +48,41 @@ jobs:
                 if head -n 1 temp_download.md | grep -q "<!DOCTYPE html>"; then
                     echo "⚠️ スキップ: $OUT_FILE はエラーページ(HTML)でした。更新しません。"
                     rm temp_download.md
-                    # ここで何もしないので、古いファイルがそのまま残ります
-                else
-                    # 3. 正常なデータの場合、保存処理を実行
-                    NOW=$(date "+%Y/%m/%d %H:%M:%S")
-                    
-                    # ヘッダー（日時と空行）を書き込み（上書き）
-                    echo "最終更新: $NOW" > "$OUT_FILE"
-                    echo "" >> "$OUT_FILE"
-                    
-                    # ダウンロードした中身を追記
-                    cat temp_download.md >> "$OUT_FILE"
-                    
-                    # 一時ファイルを削除
-                    rm temp_download.md
-                    echo "保存完了: $OUT_FILE ($NOW)"
+                    return 0 # このファイルの処理を終了
                 fi
+
+                # 3. 変更チェック
+                # すでにファイルが存在する場合、中身（3行目以降）を比較する
+                if [ -f "$OUT_FILE" ]; then
+                    # 既存ファイルのヘッダー（1,2行目）を除外したものを一時作成
+                    tail -n +3 "$OUT_FILE" > current_body.tmp
+                    
+                    # ダウンロードしたものと比較
+                    if cmp -s temp_download.md current_body.tmp; then
+                        echo "✅ 変更なし: $OUT_FILE (更新日時も維持します)"
+                        rm temp_download.md current_body.tmp
+                        return 0 # 変更がないので、このファイルの処理を終了
+                    fi
+                    
+                    rm current_body.tmp
+                fi
+
+                # 4. 変更があった（または初回）場合、保存処理を実行
+                NOW=$(date "+%Y/%m/%d %H:%M:%S")
+                
+                # ヘッダー（日時と空行）を書き込み（上書き）
+                echo "最終更新: $NOW" > "$OUT_FILE"
+                echo "" >> "$OUT_FILE"
+                
+                # ダウンロードした中身を追記
+                cat temp_download.md >> "$OUT_FILE"
+                
+                # 一時ファイルを削除
+                rm temp_download.md
+                echo "🔄 更新完了: $OUT_FILE ($NOW)"
+
             else
-                echo "エラー: ダウンロード失敗 $OUT_FILE"
+                echo "❌ エラー: ダウンロード失敗 $OUT_FILE"
             fi
             
             # 休憩
