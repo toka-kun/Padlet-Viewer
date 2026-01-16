@@ -1,3 +1,5 @@
+最終更新: 2026/01/16 16:59:18
+
 # ゲームサイトやプロキシなどの共有広場
 
 今急発展しているので早めに来たほうが良いですよ！！ベル🔔マークを押してフォローすると最新の情報やプロキシなどが通知として来るのでぜひ押してください見てください！#Proxy #プロキシ #game #ゲーム #youtube #ゆうちゅうぶ #学生必見 #ブロック解除 #規制解除 #拡散希望 #学タブで自由 #最新 #2025年最新 
@@ -28,7 +30,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1769153184&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1En7Cq9l5wwhxJdGRftO4AxE6bVtwPQdcMeFEt6I1Sb4TmoI6bQdu5ywzgCO6fdDEg%2BkJvk7IiwGMH5VwvXj7aDoXl79k1LHJSyNzJR49IJYkWXtAqMxeAYBh1rbk29K50m3E0fvJ7mcZQ7yXS7y7vRXilnIw3bvwlvRbqI1LaI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1769155157&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kGbqRYVdOMRB1HTFy3cOQ5P%2Be5gOHEvOhV0IgXUB4kPsoDSnnQv86vkChXtMaLb9xhxPkn07NkDZfrfXbRSD65u08oIE0T%2FP9KcL9h9cJJ268WM2rX28G9d0AtWlWxHnnUClBYtTFM8Kn%2BZFV%2FGX2akm67LCuOdaViP6ds6gnDg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White

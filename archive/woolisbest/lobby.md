@@ -1,3 +1,5 @@
+最終更新: 2026/01/16 16:58:52
+
 # 受付と匿名用
 
 復活！！
@@ -7,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 16, 2026 07:09am
+- **Updated At (UTC):** Jan 16, 2026 07:44am
 
 ## 受付
 
@@ -16,7 +18,8 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (18)
+#### Comments (19)
+- **sanae1212** (Jan 16, 2026 07:44am): 入れて！
 - **woolisbest** (Jan 14, 2026 10:02am): ok
 - **あああ** (Jan 16, 2026 04:44am): いれて
 - **やあ　#応援歌でブチかませ** (Jan 14, 2026 02:28am):  

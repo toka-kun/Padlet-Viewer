@@ -1,3 +1,5 @@
+最終更新: 2026/01/16 16:58:25
+
 # アーカイブ
 
 プロキシのリンクやYouTubeの閲覧方法を共有する会のアーカイブです。投票には2ヶ月が経つまで参加できます。ベル🔔ボタンからこの部屋をフォローするとアーカイブされた投稿の通知が来るようになります。
@@ -30,7 +32,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769153130&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4F0VHOxwuHmKMZ%2BX2n8JPrH%2FSgOGQg%2Ft92YtL5TUaiXluBy%2B%2BEMQGZdKONiLbxN43nHEdaz1tJa2q%2FoOiFoar17wZ2%2BqHNDla3rL9YMqXPwRqQS0Jz1kCnS3RIyD%2BMSkpCggh%2F%2B4pPxA0Ojz7LoEgQNUH29MsIExXYy5441CijU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769155100&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qJcqwSl0BTtOIzI%2BKZ%2FJsBd8dv49w9nRvATlhDSDqaAWrWjYavrrOkt%2BxHpRSKZK0F77cZkd5SBlrLKSv6eJWktHSg3XvpAHrB6a6aJNL1Go%2FB%2BAYoPlm4Fqy5Cl4drFhGmMsAE0GuoKBVJHeoxyKvikA4dUYgJIEtR%2BlNeOXtk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0

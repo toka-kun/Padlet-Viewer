@@ -1,3 +1,5 @@
+最終更新: 2026/01/16 16:58:37
+
 # Padletポータルワールド
 
 お気に入りの部屋を見つけよう！ベル🔔ボタンからこの部屋をフォローすると新しい部屋に関する通知が来るようになります。
@@ -1448,7 +1450,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769153146&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=t6LeSJ04ibYcgpauKNMBhR%2Bh8myhyQogP7ZlVrc7WEbD1F4%2FQAkv3nrd9VPj9oI5rDjHFzrLJS0DNf2a%2FgqytmAyXzquf4n98CAW%2F1IHr9aNiW5ri4bpwm0xvwqXJq2CU7WSaaUYT1P0r9X4tsqX4YNmxCwN1L4zTPCAp4gHNvo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769155117&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gKqygoWBHUEYT%2FOHFAviB8ki2PICQXjl7Dea3gqGsTJMG2xmftbn%2BTDfY2Ec9U1mDzxshShEd50Hx4BoyCfJWd78Vx7pRe0lUSK3rNEHNYx8NRYW8U%2FhDjeB319j6UICaN9fJ8O0UcUB%2BZLm%2BPvAh4YYHH3LiKZkGQimmm8ZycQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
