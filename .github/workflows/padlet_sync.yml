@@ -23,17 +23,25 @@ jobs:
           # 1. 一時ファイルにデータをダウンロード
           curl -L -s -o temp_download.md "https://padlet.com/padlets/a8v7cjbbfni702kg/exports/markdown.md"
           
-          # 2. 現在時刻を取得
+          # 2. 中身のチェック：先頭が "<!DOCTYPE html>" だったらエラーとみなす
+          if head -n 1 temp_download.md | grep -q "<!DOCTYPE html>"; then
+            echo "⚠️ エラー: 取得したデータがHTML（エラーページ）でした。更新をスキップします。"
+            rm temp_download.md
+            # 処理をここで中断（成功扱いにして終了することで、下のコミット処理に進んでも変更なしとなる）
+            exit 0
+          fi
+
+          # 3. 正常なデータの場合、現在時刻を取得
           NOW=$(date "+%Y/%m/%d %H:%M:%S")
           
-          # 3. ヘッダー（日時と空行）を padlet_export.md に書き込み
+          # 4. ヘッダー（日時と空行）を padlet_export.md に書き込み（ここで上書きされる）
           echo "最終更新: $NOW" > padlet_export.md
           echo "" >> padlet_export.md
           
-          # 4. ダウンロードした中身を追記
+          # 5. ダウンロードした中身を追記
           cat temp_download.md >> padlet_export.md
           
-          # 5. 一時ファイルを削除
+          # 6. 一時ファイルを削除
           rm temp_download.md
           
           echo "取得完了: $NOW"
