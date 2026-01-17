@@ -1,4 +1,4 @@
-最終更新: 2026/01/17 16:20:33
+最終更新: 2026/01/17 17:28:28
 
 # Padletポータルワールド
 
@@ -1324,7 +1324,7 @@
 ---
 
 ### 55. 誠意大将軍の雑談部屋
-**Author:** 27年2月末迄活動休止のウェザエモン (masakik)
+**Author:** 27年2月末迄低浮上のウェザエモン (masakik)
 
 <p>僕の部屋ではみんなが雑談している部屋にしたいです。</p><p>只今無料開放中です！ライター権限の申請は必要ありません！</p><p>※部屋で投稿やコメントした時点でコラボレーター入りさせていただきます。</p><p>また、今なら高頻度の浮上ができる人のみ希望者はモデ・管理者権限を付与できます！</p><p>ぜひ来てね～</p>
 
@@ -1450,7 +1450,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769239233&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ktBmZ5%2BCqi9YVZw1twFvtkIuadFt47aoSiO%2BMsTZgvfzO3yCxP5zo2DhxmPmhnWN8sigpMfAQVuOW4avy%2B8Bmce8eWyfb92ECeEjLVgAxNxtMlvsyCwG3kDFhKWoG%2BHqUB%2B7u1HnjqvzePMoUQsxKYoqRK4xKQLviG%2FtAMeLYPs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769243308&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lxL0pmBAmcit%2Fc%2BPQkGF3nVLD%2FZWPoA7VIplBFYWE4A6vhpOT7e%2F%2BOQfwkdo55PbrbW45d5nURL23s5zHw0Mc0ho4ehtvkk9YFjFgc8R7hMZtvGIM97G5ixCjtlWlHdmaf1WAOlftoxNg4UUqxnOVdgEJIcXMbQedfwvL0qzqFU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
@@ -1477,7 +1477,7 @@
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): まぐろくどうやった？
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:30pm): ちょ....ライターください....。
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:30pm): せっかく誘ってもらえたのに...。
-- **27年2月末迄活動休止のウェザエモン** (Sep 17, 2025 07:47am): 僕の部屋が承認されてません
+- **27年2月末迄低浮上のウェザエモン** (Sep 17, 2025 07:47am): 僕の部屋が承認されてません
 - **るい** (Oct 07, 2025 10:13am): 投稿できません
 - **るい** (Oct 13, 2025 07:16am): ?
 - **ᏁγᎶ » Tøka_Kuŋ_** (Oct 15, 2025 09:45pm): 投稿フォーム載せてるやん
