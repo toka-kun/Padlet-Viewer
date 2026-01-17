@@ -1,4 +1,4 @@
-最終更新: 2026/01/17 14:22:11
+最終更新: 2026/01/17 16:20:56
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 17, 2026 04:36am
+- **Updated At (UTC):** Jan 17, 2026 07:14am
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (29)
+#### Comments (31)
 - **神之〆 #タイピングニキ #悪魔の使手・百式 #顔文字と言葉をくっつける人** (Jan 16, 2026 02:42pm):  
 - **sanae1212** (Jan 16, 2026 07:44am): 入れて！
 - **woolisbest** (Jan 17, 2026 02:33am): おｋ
@@ -48,6 +48,8 @@
 - **阿部詠介** (Jan 16, 2026 10:41am): 入れてください 
 - **まくまくごう#ミッフィーの真の姿#さくらもちの弟子#叫ぶビーバー#OFA6番弟子#無法地帯最高** (Jan 16, 2026 10:42am): いれて
 - **よく失踪するかめ（復活？）** (Jan 17, 2026 02:22am): 入れてフォローはしてるよ
+- **sakuzyo** (Jan 17, 2026 06:38am): 入れてくださぁぁぁい
+- **カルビー（SHINRAI)** (Jan 17, 2026 07:14am): いれてくださいいいいいいいいいいいいっす
 
 #### Additional Information
 - **Post color:** Red
