@@ -1,4 +1,4 @@
-最終更新: 2026/01/18 20:18:17
+最終更新: 2026/01/18 21:42:18
 
 # Padletポータルワールド
 
@@ -569,7 +569,7 @@
 ---
 
 ### 23. 雑談の森
-**Author:** いちごみるく🍓 (r0203068_1)
+**Author:** いちごみるく˖ . ݁𝜗𝜚. ݁₊ (r0203068_1)
 
 <p>自分の部屋です。まだ人が少ないのでぜひ来てください。(ただし荒らし、脅し、脅迫、下ネタこれらは厳禁です🙏)</p>
 
@@ -1450,7 +1450,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769339897&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NPDoPIvfPD3W9l%2FAMoWx5%2FaeHdbGPy55iRg0a3FcQEzmoxnDpdqXIlT%2F4RlrvGgy9UJBZFql7EXAXznWkrbj5Nx5hkIeWzYG2mpDRw%2FbqPIC2RxPAQ1w7abReL2HZc2HXu6biEpQe3wz539R0cJLeGgg73YlPHkXPRKzbut4NdA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769344938&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iedDbrbCIT67R1qE%2BuikwNMwcRRipetsa0cr6qtB9l8p%2FIClAmswc5I1vNhhicXM7FIs3Z6xPhRPycf9SS%2BosDC7U0OMUMpGTrTZ2qxhewvWOUOgoWcKKi3aXYeVmKd7hbVN0kDxrJHs1VWFwQGbltnQBruMe8C%2BsITYrbtBmbA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・

@@ -1,4 +1,4 @@
-最終更新: 2026/01/18 20:17:52
+最終更新: 2026/01/18 21:41:52
 
 # アーカイブ
 
@@ -36,7 +36,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769339868&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wxyswzomvA4tjY9NKP9rGrCyeAxotODGT6VEV62FVG2XuD1BHgUujFspSMgSPcxL2eETRuT1aH46QfdBkCDYXtWlg8xGI4XC1a%2BPQa5sDpbPg8Q6syFKNFouUS2ei3jAttYgTIaf4wXlpI53GxPmVQoAvCXcfAW4KvZfsIhf0Ns%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769344906&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nInMmSdqzoEput%2Fe6bsY1seBn5a470wDd4UHTRoNsu5fdogoXQKzF21uj2VFFNP9k0DSiu%2FaRpna%2BBBV%2BPsPAMRwzvpxRlLe8F42r3oZqypksqUyOHjNedGMYt%2Fn5ZxHjetvlh37MIPOPGYEbtvdZBf5D3DU0fwTnHRzET1Zykc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -151,7 +151,7 @@
 - **削除済みユーザー** (Dec 20, 2025 11:38am): 新しいの.....
 - **ラミン・ヤマル** (Dec 12, 2025 11:08am): ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
 - **Studious Tilapia** (Dec 06, 2025 02:30am): ナイス
-- **いちごみるく🍓** (Dec 06, 2025 08:36am): わーい
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 06, 2025 08:36am): わーい
 - **削除済みユーザー** (Dec 10, 2025 12:56am): w
 - **Affectionate Toad** (Dec 09, 2025 02:18am): しあチューブが使えなくなりました検索できなくなり動画も見れなくなりました
 - **盲目衛門** (Dec 09, 2025 02:41am): 質問なんですけどしあtubeが今日の朝から動画が見れなくなってしまいました↓のようになります
@@ -209,7 +209,7 @@
 - **削除済みユーザー** (Nov 25, 2025 09:42am): ありがたい
 - **メンマ** (Nov 24, 2025 11:13pm): テンキュウ
 - **亜空カン_JANLINE** (Nov 25, 2025 12:15pm): やったね ありがたい
-- **いちごみるく🍓** (Nov 26, 2025 07:10am):  把握です。ありがとうございます^^
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Nov 26, 2025 07:10am):  把握です。ありがとうございます^^
 - **Dapper Gecko** (Nov 26, 2025 12:34pm): yatta
 - **はるとねこ** (Dec 01, 2025 10:48am): アリがトゥース
 - **削除済みユーザー** (Dec 16, 2025 04:25am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/Xb8YaLXBx8OEayn1) 
@@ -548,7 +548,7 @@
 #### Comments (4)
 - **削除済みユーザー** (Jan 14, 2026 06:07am): 明日から学校なのに宿題やってねぇ⋯(現在進行型でわかめ見てる人)
 - **削除済みユーザー** (Jan 13, 2026 09:08am): え、まってまだ学校じゃないん()
-- **いちごみるく🍓** (Jan 13, 2026 10:56am): 学校がんばぁ
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Jan 13, 2026 10:56am): 学校がんばぁ
 - **削除済みユーザー** (Jan 14, 2026 10:36pm): 行ってきます
 
 #### Additional Information
@@ -726,7 +726,7 @@
 
 
 #### Comments (3)
-- **いちごみるく🍓** (Jan 12, 2026 04:53am): それな
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Jan 12, 2026 04:53am): それな
 - **削除済みユーザー** (Jan 10, 2026 10:04pm): わかる
 - **メアド忘れた状態** (Jan 10, 2026 05:05pm): それな
 
@@ -840,7 +840,7 @@
 
 
 #### Comments (1)
-- **いちごみるく🍓** (Jan 04, 2026 11:22pm): 覚てるたぶんあの人..萌黄くんかな？
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Jan 04, 2026 11:22pm): 覚てるたぶんあの人..萌黄くんかな？
 
 #### Additional Information
 - **Post color:** White
@@ -1324,9 +1324,9 @@
 - **削除済みユーザー** (Dec 10, 2025 05:56am): 同心円状に震度が変わる(理科で丁度今やってる単元)
 - **あおまさもも** (Dec 10, 2025 01:19am): わいも震度2や
 - **削除済みユーザー** (Dec 10, 2025 12:56am): ww
-- **いちごみるく🍓** (Dec 09, 2025 10:18am): 地震こわかったです...。なんかけっこうゆれててこわかった。(ちなみに震度6..)
-- **いちごみるく🍓** (Dec 09, 2025 10:17am): 今思ったんだけど震度6じゃなかったわw
-- **いちごみるく🍓** (Dec 09, 2025 10:40am): 震度２でした！
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 09, 2025 10:18am): 地震こわかったです...。なんかけっこうゆれててこわかった。(ちなみに震度6..)
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 09, 2025 10:17am): 今思ったんだけど震度6じゃなかったわw
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 09, 2025 10:40am): 震度２でした！
 - **削除済みユーザー** (Dec 10, 2025 02:20am): そうなんだ
 - **Natsu** (Dec 10, 2025 06:14am): 😇
 - **Anonymous** (Dec 11, 2025 10:28am): 6強でした
@@ -1415,7 +1415,7 @@
 
 #### Comments (3)
 - **Natsu** (Dec 06, 2025 07:42am): QRとは？
-- **いちごみるく🍓** (Dec 04, 2025 08:52am): そうなんですね！私の市は学夕ブのログインQRコード今のところそのままですね
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 04, 2025 08:52am): そうなんですね！私の市は学夕ブのログインQRコード今のところそのままですね
 - **菜奈** (Dec 04, 2025 08:49am): うちはもうﾊﾟｽﾜｰﾄﾞﾀﾞﾅｧ...
 
 #### Additional Information
@@ -1556,15 +1556,15 @@
 [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/x5m7aog9LJYLakAV)
 
 #### Comments (10)
-- **いちごみるく🍓** (Dec 23, 2025 11:48am): ほしいです！
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 23, 2025 11:48am): ほしいです！
 - **菜奈** (Dec 31, 2025 07:08am): これです↓
 - **菜奈** (Jan 08, 2026 12:12pm): やったー！
 - **菜奈** (Dec 24, 2025 06:26am): まぁまぁ焦るなって（（（殴
 - **菜奈** (Dec 31, 2025 07:08am): あげーる（（
 - **絵が好きなももちゃ** (Dec 29, 2025 09:44am): ほしーい
 - **菜奈** (Dec 31, 2025 07:08am): https://aiseo.ai/ja/tools/youtube-video-downloaderhttps://aiseo.ai/ja/tools/youtube-shorts-downloaderhttps://aiseo.ai/ja/tools/youtube-to-mp3https://aiseo.ai/ja/tools/youtube-to-mp4https://aiseo.ai/ja/tools/instagram-reels-downloader
-- **いちごみるく🍓** (Dec 25, 2025 12:47am): あーい(′▽`〃)
-- **いちごみるく🍓** (Jan 01, 2026 09:45am): ありがと！！全て使えるよ〜
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 25, 2025 12:47am): あーい(′▽`〃)
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Jan 01, 2026 09:45am): ありがと！！全て使えるよ〜
 - **菜奈** (Dec 25, 2025 06:00am): ｗｗ
 
 #### Reactions
@@ -1635,7 +1635,7 @@
 - **削除済みユーザー** (Dec 05, 2025 08:42am): １５０件行ったら終了
 - **学校のパソコンでプロキシ探して規制して遊ぶ受験生** (Nov 30, 2025 09:55am): いつ作ったかわからないプロキシ500配布されるより新たに10個作ったほうが使える可能性が高いと思う｡
 - **削除済みユーザー** (Nov 25, 2025 11:05am): 500になりそう
-- **いちごみるく🍓** (Nov 24, 2025 12:37pm): 投票1票目の者です(^O^)
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Nov 24, 2025 12:37pm): 投票1票目の者です(^O^)
 - **削除済みユーザー** (Nov 27, 2025 09:12am): w
 - **削除済みユーザー** (Dec 01, 2025 07:57am): それもそう
 - **プロキシ初心者学校のiPadの制限解除したい** (Nov 27, 2025 02:15am): 全部やってほしいです
@@ -1701,12 +1701,12 @@
 - **菜奈** (Dec 04, 2025 08:57am): 一応ここに、➥youtubeの私が投稿したものを載せておきます！https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/do3MQJPk5J26W15w
 - **菜奈** (Dec 07, 2025 06:48am): やったね！
 - **菜奈** (Dec 04, 2025 08:54am): 今、いるﾇと早くよこしやがれ集まってるんで➥youtubeのところに貼ります！
-- **いちごみるく🍓** (Dec 06, 2025 01:53am): 神っ！ありがとう〜！
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 06, 2025 01:53am): 神っ！ありがとう〜！
 - **Massa_games216** (Dec 06, 2025 01:10pm): ナイス
 - **菜奈** (Dec 05, 2025 12:51pm): 新しいのです！　https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/x5A7arGgvygeQwr6
 - **菜奈** (Dec 04, 2025 08:30am): いるﾇ、または早くよこしやがれ、またはサカバンバスピスを選んだ方は！➥youtubeのところに貼りますのでそこでもらって行きやがれください（（殴
-- **いちごみるく🍓** (Dec 04, 2025 08:53am): はい
-- **いちごみるく🍓** (Dec 04, 2025 08:56am): はい。ありがとうございます。
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 04, 2025 08:53am): はい
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 04, 2025 08:56am): はい。ありがとうございます。
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -2484,7 +2484,7 @@
 
 #### Comments (2)
 - **削除済みユーザー** (Jan 05, 2026 07:59am): 草
-- **いちごみるく🍓** (Jan 06, 2026 12:20am): マチアプ(マッチングアプリ)とかいいんじゃない..？
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Jan 06, 2026 12:20am): マチアプ(マッチングアプリ)とかいいんじゃない..？
 
 #### Additional Information
 - **Post color:** White
@@ -2572,7 +2572,7 @@
 ---
 
 ### 16. Xログインできるプロキシありませんか？
-**Author:** 結菜？ (Yuinaday001008)
+**Author:** 結菜？ (Yuina9)
 
 
 
@@ -2672,7 +2672,7 @@
 **投稿の種類:** フィルターに関する相談や質問
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1769339870&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rt241DEovJdcx4dJ3rzttJ5iq9ufmjxfM44fLN6hrRHOmUm%2BIObLbmBXh2pNJMVKMSn%2BnmJ3HkE2B5gaat5%2F4kYAPlRNrzwHreGjxKgpF3sNoFB7t6dQXrO%2BDlLKG5Rd%2BcBlpPd3ctHTvO%2Fy3NaWsHe9KmlQwWGRJE6DUxhopac%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1769344911&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Mnn%2BYLLMAMH8PvXJZx38rPCRYmjW%2BmeT0X2r2BWx%2B53oQm7wc6dDOHyk7gWvKhvE9peB8r3gBKqIJzKM9dMGxp2SGsrE0rKCKYsowxTuFa8pT954rXCkhMLh%2FZ2087M46%2BqRq26vZURb92ZqmyLRA0c1rqts5M6rVZe098dNU%2B0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -2940,7 +2940,7 @@
 - **削除済みユーザー** (Nov 24, 2025 11:38am): ｗ
 - **Natsu** (Nov 23, 2025 11:38am): がんばれ
 - **削除済みユーザー** (Nov 23, 2025 12:09pm): crosproxyまでは作った
-- **いちごみるく🍓** (Nov 24, 2025 01:06am): がんば!
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Nov 24, 2025 01:06am): がんば!
 - **菜奈** (Dec 04, 2025 10:26am): 頑張って！
 - **メンマ** (Nov 24, 2025 11:17pm): ガンバ～
 - **n** (Nov 23, 2025 01:18pm): ガンバ
