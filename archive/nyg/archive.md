@@ -1,4 +1,4 @@
-最終更新: 2026/01/18 17:28:35
+最終更新: 2026/01/18 18:22:16
 
 # アーカイブ
 
@@ -36,7 +36,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769329710&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=By37Y8ZlrbVHbnpyHvg0lTKBMqrXkvaKDqVQEMa7W5sMAHGE59r9gCY7%2FZehBBtQD5eSYVAY3dEv4EwrR2qKqiBPfH0gEQPNZokMtp3MtrUmoEqMxEdZZzKF3O87b1FehMDNljoSqgwfetv3%2FBoCIaCgOTLWVOJoxFFOq3dKKn8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769332930&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=C7vo6RmlLywwVIrCb632MU2DOgrhpp0XpW8lJMKG%2BYo8fuVOFEMluKdOkS%2FYIwMmz2JR8FKGFMh83exwepcXtcABwCq%2Fm%2B7Y0Npu49yK5Qqo%2B8rT8QPYSbJ0B%2F84O1Z4LNWCKIhaViZfoWoUCXVa9cItDW9GjQ%2FKpBTG6AqKufw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -547,7 +547,7 @@
 
 #### Comments (4)
 - **削除済みユーザー** (Jan 14, 2026 06:07am): 明日から学校なのに宿題やってねぇ⋯(現在進行型でわかめ見てる人)
-- **兎夢＿.꒰ঌ12/12໒꒱** (Jan 13, 2026 09:08am): え、まってまだ学校じゃないん()
+- **削除済みユーザー** (Jan 13, 2026 09:08am): え、まってまだ学校じゃないん()
 - **いちごみるく🍓** (Jan 13, 2026 10:56am): 学校がんばぁ
 - **削除済みユーザー** (Jan 14, 2026 10:36pm): 行ってきます
 
@@ -559,12 +559,12 @@
 ---
 
 ### 3. しあtubeしんでんの復活してんのどっち
-**Author:** 兎夢＿.꒰ঌ12/12໒꒱ (0719_0126)
+**Author:** 削除済みユーザー
 
 
 
 #### Comments (3)
-- **兎夢＿.꒰ঌ12/12໒꒱** (Jan 12, 2026 10:34am): どうやって((
+- **削除済みユーザー** (Jan 12, 2026 10:34am): どうやって((
 - **Massa_games216** (Jan 12, 2026 09:58am): 自分専用作るといいよ
 - **Natsu** (Jan 12, 2026 09:43am): ラグい　以上
 
@@ -604,7 +604,7 @@
 - **メアド忘れた状態** (Jan 12, 2026 03:55am): でも、画質が、、、
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 12, 2026 03:56am): 48分前に通常再生復活した
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 12, 2026 04:04am): m3u8でも画質1080までいけるで
-- **兎夢＿.꒰ঌ12/12໒꒱** (Jan 12, 2026 03:23am): ダウンロードから見れるときもあるよい
+- **削除済みユーザー** (Jan 12, 2026 03:23am): ダウンロードから見れるときもあるよい
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 12, 2026 04:39am): エラーが出なくなった
 - **メアド忘れた状態** (Jan 12, 2026 04:33am): 再読み込みが行われないように、改善したんですか？
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 12, 2026 04:39am): いいや
@@ -617,13 +617,13 @@
 ---
 
 ### 6. しあtubeみんな正常に動いてる？
-**Author:** 兎夢＿.꒰ঌ12/12໒꒱ (0719_0126)
+**Author:** 削除済みユーザー
 
 
 
 #### Comments (4)
 - **メアド忘れた状態** (Jan 12, 2026 03:52am): それだけ直してくれれば神サイトなのに
-- **兎夢＿.꒰ঌ12/12໒꒱** (Jan 12, 2026 03:21am): だぉね
+- **削除済みユーザー** (Jan 12, 2026 03:21am): だぉね
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 12, 2026 03:53am): こういうのって開発者側がどんな感じで再生できなくなってるのかを把握できないからどうしようもないよ
 - **メアド忘れた状態** (Jan 12, 2026 02:50am): 開けるは開けるのですが、再生しようとした瞬時に再読み込みになって再生できません
 
@@ -708,7 +708,7 @@
 - **削除済みユーザー** (Jan 11, 2026 10:34pm): すまん死んでるかも
 - **削除済みユーザー** (Jan 11, 2026 04:40am): ww
 - **削除済みユーザー** (Jan 11, 2026 09:34am): 定期的にある　時間おいたら解決できるけど
-- **兎夢＿.꒰ঌ12/12໒꒱** (Jan 11, 2026 06:17am): みれまする
+- **削除済みユーザー** (Jan 11, 2026 06:17am): みれまする
 - **削除済みユーザー** (Jan 11, 2026 04:40am): そう？
 
 #### Additional Information
@@ -2672,7 +2672,7 @@
 **投稿の種類:** フィルターに関する相談や質問
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1769329713&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2J%2FSZQ5emNR3R9sruzXTxWzc%2BCf%2BsrIx9KiG2YZMljk%2FkA6ZAIp3iUSJq4MmtT1TRA2mIWPcGZYwuNO2Z1nFkmFUyf6lgDYmZUkbn1lmu2wUvw5ZbZjyBVjI%2Fh%2F1lDrSO2%2F2uGNPYliKMqs%2F6OzcTD62SA0c0h5014F7MN8fgCM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1769332935&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QOsfKFQG4rsc8r20DsRmgdcUSiM2WinIPHrBHF4md2BIr5FIqgzaxCYne8AdaX%2FnHDJ8%2Fh8ys6yERbnioKk%2BncjgW9Cn1in8wF%2FUbKyScjZwenX9cSEoty0o5ibB2SeHDMNkuOY8LZBjEkJN%2FMZhmjt67FneJWF8IpyS6VDM5ig%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -2747,8 +2747,8 @@
 #### Comments (4)
 - **夢見る少女じゃいられない** (Jan 07, 2026 12:19pm): 自分もです（品川区）
 - **Massa_games216** (Jan 08, 2026 11:28pm): なんだそれ　厳しいって
-- **兎夢＿.꒰ঌ12/12໒꒱** (Jan 09, 2026 09:23am): 新年から敵が攻撃してきたよ(１月からi-フィルター導入された民)
-- **兎夢＿.꒰ঌ12/12໒꒱** (Jan 09, 2026 09:22am): ツイキャスもみれてたサイトi-フィルターかかってしぬ()
+- **削除済みユーザー** (Jan 09, 2026 09:23am): 新年から敵が攻撃してきたよ(１月からi-フィルター導入された民)
+- **削除済みユーザー** (Jan 09, 2026 09:22am): ツイキャスもみれてたサイトi-フィルターかかってしぬ()
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -2792,7 +2792,7 @@
 #### Comments (5)
 - **夢見る少女じゃいられない** (Jan 07, 2026 12:22pm): 管理者によりインストールされてるし設定開けないから無理そう
 - **aaabbbccc** (Jan 09, 2026 10:51am): 俺も練馬区在住でダブルで困ってる
-- **兎夢＿.꒰ঌ12/12໒꒱** (Jan 09, 2026 11:15am): そーれーなーーーーーーーーー
+- **削除済みユーザー** (Jan 09, 2026 11:15am): そーれーなーーーーーーーーー
 - **バッタ　#煮物貢献者　#煮物14番弟子　#そろそろ引退かも** (Jan 06, 2026 08:16am): 俺も何だぜ
 - **さんぷんクオリティー** (Jan 08, 2026 05:11am): 俺も
 

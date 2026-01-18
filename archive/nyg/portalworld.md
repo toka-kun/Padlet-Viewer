@@ -1,4 +1,4 @@
-最終更新: 2026/01/18 17:29:00
+最終更新: 2026/01/18 18:22:42
 
 # Padletポータルワールド
 
@@ -27,7 +27,7 @@
 
 #### Comments (2)
 - **草** (Oct 29, 2025 07:18am): ？」
-- **猫に飼われてる猫（一生）** (Nov 29, 2025 07:24am): ↑のpadletポータルワールドをタップしたら投稿できると思う
+- **削除済みユーザー** (Nov 29, 2025 07:24am): ↑のpadletポータルワールドをタップしたら投稿できると思う
 
 #### Reactions
 - **Number of likes:** 1
@@ -1450,7 +1450,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769329740&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LbkZF%2FfOBvLvCt6XAT08JT1kjwoeBSZFhVhCdn%2BX5v0%2F3f8Vcm4t237jjlHnfyoBmqmVYvLY3lvDwgJglF6caYgeRwUCx4cGkC0C4cm6B%2Ba5qHek5d7BlykS3DaHYqemzgXBdggFYu1SBE28BueFH6bmyaWrd3F%2BatLDVmQ4ujg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769332962&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fg6lxzWhMQmihSB3%2B91UDE0sLt8VGXbK7iFUNajIX30OjJ6A9fLt2ldV6QGixaNfylnBnoxdfmIPwoBfMGgv1appRpckXLNA1WJyG%2FUD5UMQ2K43IpIK4WKXCyEBIDoBWFfOqeKLTuQmvwEacSlxwAIfXe3FJ0cbzptZHFNOxj4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
