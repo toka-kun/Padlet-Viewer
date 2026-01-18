@@ -1,4 +1,4 @@
-最終更新: 2026/01/18 18:23:14
+最終更新: 2026/01/18 22:30:01
 
 # 受付と匿名用
 
@@ -19,7 +19,7 @@
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
 #### Comments (47)
-- **神之〆 #タイピングニキ #悪魔の使手・百式 #顔文字と言葉をくっつける人** (Jan 16, 2026 02:42pm):  
+- **削除済みユーザー** (Jan 16, 2026 02:42pm):  
 - **sanae1212** (Jan 16, 2026 07:44am): 入れて！
 - **woolisbest** (Jan 17, 2026 12:12pm): おい
 - **woolisbest** (Jan 17, 2026 02:33am): おｋ
