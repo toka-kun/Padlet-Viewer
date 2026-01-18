@@ -1,4 +1,4 @@
-最終更新: 2026/01/17 21:42:23
+最終更新: 2026/01/18 10:58:11
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 17, 2026 12:12pm
+- **Updated At (UTC):** Jan 18, 2026 01:44am
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (41)
+#### Comments (43)
 - **神之〆 #タイピングニキ #悪魔の使手・百式 #顔文字と言葉をくっつける人** (Jan 16, 2026 02:42pm):  
 - **sanae1212** (Jan 16, 2026 07:44am): 入れて！
 - **woolisbest** (Jan 17, 2026 12:12pm): おい
@@ -60,6 +60,8 @@
 - **woolisbest** (Jan 17, 2026 08:11am): Thank you
 - **woolisbest** (Jan 17, 2026 09:21am): I don't know you.
 - **woolisbest** (Jan 17, 2026 09:21am): Oh...who are you?
+- **ぴーす** (Jan 18, 2026 12:52am): 　
+- **ルフレ** (Jan 18, 2026 01:44am): chcochatのるふれだよ
 
 #### Additional Information
 - **Post color:** Red
