@@ -1,4 +1,4 @@
-最終更新: 2026/01/18 10:57:49
+最終更新: 2026/01/18 16:21:12
 
 # 荒らし対策室
 
@@ -120,7 +120,7 @@
 ---
 
 ### 2. かいと
-**Author:** かいと (HALVES_LOVE)
+**Author:** かいとぢゃん (HALVES_LOVE)
 
 #### Additional Information
 - **Post color:** White
