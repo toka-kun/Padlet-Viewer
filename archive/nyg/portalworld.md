@@ -1,4 +1,4 @@
-最終更新: 2026/01/19 10:55:58
+最終更新: 2026/01/19 12:52:57
 
 # Padletポータルワールド
 
@@ -259,7 +259,7 @@
 ---
 
 ### 8. 匿名掲示板
-**Author:** 匿名 (4444444_5)
+**Author:** 削除済みユーザー
 
 <p>匿名！</p>
 
@@ -1450,7 +1450,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769392558&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Jr%2FjYXZSL3x0206eTUCVmtZ3cr%2BjM7TcDcJAeUBEPN1IMWewjXArIDKNmj6cCqosxiAGNamxOsTiFnNSiL71dOBiOkaRKiO%2FR3eJYeNJthM%2FRklAKka4PR%2B13Qfnv5l6AMOuUXX%2FyvnSreX7TiD6bZjAmFTEiUsS69xoJNTEJnk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769399577&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=l1n7OhZXe%2BR%2BFzf%2FQH9sVJn38DIpitXu6pqsYb4w7Mqbw2npu3vAWzAaJ8mvFNT%2FTo2n4D9eJis6aOjcW2EK2c7KJ0l51tZ8aCvlhikEifTq0GXy6pHtuZqT2VZkFGliaPgzrMvi2w8B7v93meGBaVL8RV%2Fg75j4svXe29zJhwY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
