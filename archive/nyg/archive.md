@@ -1,4 +1,4 @@
-最終更新: 2026/01/19 16:29:29
+最終更新: 2026/01/19 17:35:14
 
 # アーカイブ
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 169
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Jan 16, 2026 11:53pm
+- **Updated At (UTC):** Jan 19, 2026 08:26am
 
 ## セクション一覧
 
@@ -36,7 +36,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769412564&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XzAg42%2FfwAIpCHI9JzlZjoqWZb3NUY%2BW5Kbe%2B6u%2BbjBuhKd0HUsIILlagIJrVjqMPqYySFxk7p7xtbQcPH1CyoSSRrCmGqhgPOiTjo3MbG87BhaLK3HgRARo%2B2%2FZF1luJuaZWnzQGehQ8IHD2ymR0KbMgKgqid8KE8t0hSr3nV0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769416509&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=N8t3Vcd23YiOwREPsZiaBiHdG01ERbRSwVsibVeXRI4yZyj64KU0S2e5QMMS5pTaTFqsLwjKsCHOuJIi4Ickvpf0xYfN2LowmU9i7yBcAruDDdTdDo0y8zPtHeisIMwwIsRMfSyXeU91xbvZlsc%2Bv4F%2BFckSZVY8rcDxs5DLfEk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -2672,7 +2672,7 @@
 **投稿の種類:** フィルターに関する相談や質問
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1769412568&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NTKpCdbH8SXGzJTyartYuMEg2iXtHb2uKgAmHJLRtrGRMJupk2qBZD5%2FqPIzVAKlkRK%2FBnaQGgXUSSWmWUnSLgxmXalj3axtxBM4hhF%2Bv7ojnFWgpgoSKQFkxFuCNQi7hG7hNmS5RQt8wuYO9PPYlN%2FWsIeLQGv1RZhwBIRUofU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1769416512&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NVyWGl6jLihYolGEuyTKhomlyQBJj8%2BvQFZ54cu3YDHo6NQmf0AGh2%2FnOv56f9fH7AvP6euZbC3vdPctDt8qfnHCwyaZJ6XnuO76ufjngAwX0jvm6JyWql7HL7IZevGkb4xfknK52ie%2FL8y8yJ511841tuIZ%2FWpw%2F1wVcquOwgI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -2808,7 +2808,7 @@
 
 
 
-#### Comments (19)
+#### Comments (20)
 - **Natsu** (Dec 14, 2025 05:37am): らしいです
 - **Massa_games216** (Dec 12, 2025 10:34am): >>ラグのやり方教えてください
 - **ラミン・ヤマル** (Dec 12, 2025 11:09am): これhttps://padlet-artifacts.storage.googleapis.com/8c01cf9d56f0f88af06e5eb71fdba2173fadd860/17797487722a91a2792a3cec549fb426-h-e53a2b3b60a3202ea9e1a58d031395e1.gif
@@ -2819,6 +2819,7 @@
 - **ラミン・ヤマル** (Dec 12, 2025 11:10am): GBは余裕で行く
 - **Natsu** (Dec 14, 2025 05:37am): ①デスクとウィンドウは1つだけ残してすべて閉じる②規制の拡張機能をピン留めする②.5わざと規制されるサイトを一つだけ出す③10個のサイトを登録してあるブックマークを作る(規制されないサイトで)④ctrl＋rを連打しながら作ったブックマークを㉞回連打する⑤重くなってしばらく操作できなくなるから、10分〜20分、タブがすべて読み込まれるまで待つ⑥ピン留めした規制が消えたら成功。 読み込み終わってピン留めした拡張機能が消えてなかったら連打する回数を2回ずつ増やす。読み込む途中でPCが落ちたら減らす。
 - **πr²(パイアール2)** (Dec 14, 2025 11:51pm): あざす
+- **NyrikX(GDplayer)** (Jan 19, 2026 07:53am): できた？
 - **削除済みユーザー** (Dec 10, 2025 06:21am): ｗ
 - **Massa_games216** (Dec 12, 2025 10:35am): プロキシしか成功例がない
 - **Massa_games216** (Dec 12, 2025 10:34am): 自分試したけど無効だった
@@ -2843,11 +2844,12 @@
 
 
 
-#### Comments (6)
+#### Comments (7)
 - **Natsu** (Dec 18, 2025 11:48pm): たしかにそれはあるかも
 - **削除済みユーザー** (Dec 19, 2025 08:30am): renderとかなら...
 - **削除済みユーザー** (Dec 19, 2025 08:30am): 規制されても新しいの作ればよくね...?
 - **Natsu** (Dec 19, 2025 09:00am): それはそう
+- **NyrikX(GDplayer)** (Jan 19, 2026 08:26am): 自分は、クロームブックを何回か初期化したことありますが、そもそも学校用のアカウントしか入れないし、プロキシ使っても入れません。初期化し学校用アカウントに入るのを数回に渡ってやったら、毎回どれかのプロキシに何かしらのエラーやブロックがされます。合計で被害を受けたのはutopia2つとランマーヘッド2つがブロックされ、inbox(index)がブロックではなくアクセスできないえらーのようになっていました。最悪です。みんなもこうならないように、電源や初期化はもうやめよう。
 - **Natsu** (Dec 18, 2025 11:48pm): (・∀・)ｲｲﾈ!
 - **aotan　人生キャンセル界隈　失踪界隈　自殺界隈** (Dec 19, 2025 06:59am): (・∀・)ｲｲﾈ!!
 
