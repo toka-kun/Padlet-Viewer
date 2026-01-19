@@ -1,4 +1,4 @@
-最終更新: 2026/01/19 08:21:52
+最終更新: 2026/01/19 10:56:59
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -9,7 +9,7 @@
 - **Builder:** べるり(名前戻した) (BERURI1214)
 - **Posts:** 71
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Jan 16, 2026 01:28am
+- **Updated At (UTC):** Jan 19, 2026 12:19am
 
 ## ルール
 
@@ -30,7 +30,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1769383310&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FSm%2BS%2B8b50lsdk7VWt9neQY8us%2BQgJUQMArLdIh%2B5zjnCLyPb%2BFbcIMfWCjNiThOTtQ6Fuy1g0xS%2FWxBy%2FKv0GwJoy423jYeynO3gj5ZI7LjdFStP7q98QGEecRWTyZv5zy%2FfeKc87zk%2B8giHsIh2nKe0h%2FRjQdttKKWyA2bQjo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1769392617&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sW%2B%2BLLmja3NWvVMEQ3yRDgazaVz2syqcgQoFLt1zKfZJSYOvhIEhovAtoB4Xwg8wUtSzSoHH%2BOeyyA%2F1sxtwYHFuZuXr%2F2MjY7iXkkTkuURksxv2S9pnBt3OMsO0omlbFe%2BTQOS1f1QYtwEfEItiQvlxnbaREc4fG1zXjOXto5U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -176,7 +176,9 @@
 
 <p>荒らし対策などがあれば何でもどうぞ</p>
 
-#### Comments (2)
+#### Comments (4)
+- **Enthusiastic Chipmunk** (Jan 19, 2026 12:19am): 新しいの出してください
+- **Enthusiastic Chipmunk** (Jan 19, 2026 12:19am): 気づいてーーーーーー
 - **Valiant Urchin** (Jan 15, 2026 01:34am): 雑談のところにあるぺるりさんの投稿のProxy風呂です
 - **Valiant Urchin** (Jan 15, 2026 01:35am): 新しいのお願いします
 
