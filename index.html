@@ -401,8 +401,8 @@
             columns.forEach((colText, index) => {
                 if (colText.trim().length === 0) return;
 
-                // --- ここで概要セクション（index 0）をスキップします ---
-                if (index === 0) return;
+                // --- 0:タイトルブロック、1:最初のカラム を両方スキップ ---
+                if (index <= 1) return;
                 // ----------------------------------------------------
 
                 const firstLineBreak = colText.indexOf('\n');
