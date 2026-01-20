@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Padlet Viewer</title>
+    <title>Viewer</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
     
@@ -39,13 +39,19 @@
             color: #e6edf3; 
             display: flex; align-items: center; gap: 8px; margin: 0;
             white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
-            max-width: 80%; 
+            max-width: 60%; 
         }
         header h1::before { content: '📋'; font-size: 1.2rem; flex-shrink: 0; }
-        header .status { 
-            font-size: 0.8rem; color: #8b949e; 
+        
+        /* メタ情報（投稿数・更新日）エリア */
+        header .meta-info { 
+            font-size: 0.85rem; color: #8b949e; 
             font-family: ui-monospace, SFMono-Regular, monospace; 
-            white-space: nowrap; margin-left: 10px;
+            white-space: nowrap; margin-left: auto;
+            display: flex; gap: 16px; align-items: center;
+        }
+        header .meta-info span {
+            display: flex; align-items: center; gap: 6px;
         }
 
         /* --- メインボードエリア --- */
@@ -259,7 +265,9 @@
         @media (max-width: 768px) {
             .column { min-width: 85vw; scroll-snap-align: center; }
             #board-canvas { scroll-snap-type: x mandatory; padding: 16px; gap: 16px; }
-            header h1 { font-size: 0.9rem; }
+            header { flex-wrap: wrap; height: auto; padding: 10px 16px; gap: 8px; }
+            header h1 { font-size: 0.9rem; max-width: 100%; width: 100%; }
+            header .meta-info { margin-left: 0; width: 100%; justify-content: flex-start; font-size: 0.75rem; }
         }
     </style>
 </head>
@@ -270,7 +278,9 @@
             <span id="board-title">読み込み中...</span>
             <img src="https://count.getloli.com/@toka_kun_?name=toka_kun_&theme=original-new&padding=7&offset=0&align=top&scale=0.4&pixelated=1&darkmode=auto" alt="count" style="margin-left:8px; vertical-align:middle;">
         </h1>
-        <div class="status" id="last-update">読み込み中...</div>
+        <div class="meta-info" id="meta-info">
+            <span>読み込み中...</span>
+        </div>
     </header>
 
     <main id="board-canvas">
@@ -309,7 +319,7 @@
         async function fetchAndRender() {
             const loadingDiv = document.getElementById('loading');
             const errorDiv = document.getElementById('error-message');
-            const updateDiv = document.getElementById('last-update');
+            const metaInfoDiv = document.getElementById('meta-info'); // ID変更
             const canvas = document.getElementById('board-canvas');
 
             try {
@@ -317,9 +327,15 @@
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 const fullText = await response.text();
                 
+                // --- 投稿数の抽出（新規追加） ---
+                // 概要エリアなどにある "**Posts:** 123" を探す
+                // ファイル冒頭4000文字程度を確認すれば十分
+                const headerChunk = fullText.substring(0, 4000); 
+                const postsMatch = headerChunk.match(/(?:- )?\*\*(?:Posts|投稿):\*\* (\d+)/i);
+                const postCount = postsMatch ? postsMatch[1] : '-';
+
                 // --- データの分割処理 ---
                 // フォーマット: "更新日時\n\nMarkdown本文..."
-                // 最初の空行(\n\n)を見つけて分割します
                 const splitIndex = fullText.indexOf('\n\n');
                 let updateTimeStr = '最終更新: 不明';
                 let markdownContent = fullText;
@@ -327,10 +343,9 @@
                 if (splitIndex !== -1) {
                     // 1行目の更新日時を取得
                     updateTimeStr = fullText.substring(0, splitIndex).trim();
-                    // 本文を取得 (空行の次から)
+                    // 本文を取得
                     markdownContent = fullText.substring(splitIndex + 2);
                 } else {
-                    // 空行が見つからない場合のフォールバック（最初の改行で区切る）
                     const firstLineBreak = fullText.indexOf('\n');
                     if (firstLineBreak !== -1) {
                          updateTimeStr = fullText.substring(0, firstLineBreak).trim();
@@ -340,8 +355,11 @@
                 
                 loadingDiv.remove();
                 
-                // ファイルから取得した更新日時を表示
-                updateDiv.textContent = updateTimeStr;
+                // ヘッダーに情報を表示 (投稿数 + 更新日)
+                metaInfoDiv.innerHTML = `
+                    <span>📊 投稿数: ${postCount}</span>
+                    <span>${escapeHtml(updateTimeStr)}</span>
+                `;
 
                 renderBoard(markdownContent, canvas);
 
@@ -353,7 +371,7 @@
                     <h3>読み込みに失敗しました</h3><p>${escapeHtml(error.message)}</p>
                     <button onclick="location.reload()" style="margin-top:10px; padding:6px 12px; cursor:pointer; background:#21262d; color:#e6edf3; border:1px solid #30363d; border-radius:4px;">再読み込み</button>
                 `;
-                updateDiv.textContent = 'エラー';
+                metaInfoDiv.textContent = 'エラー';
             }
         }
 
