@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Viewer</title>
+    <title>Padlet Viewer</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
     
@@ -62,6 +62,8 @@
         /* --- カラム（列） --- */
         .column {
             background-color: #161b22;
+            /* 横幅を完全に固定 */
+            width: 350px;
             min-width: 350px;
             max-width: 350px;
             border-radius: 6px;
@@ -106,6 +108,9 @@
             position: relative;
             box-shadow: 0 1px 2px rgba(0,0,0,0.1);
             transition: all 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+            /* 幅固定のための設定 */
+            width: 100%; 
+            box-sizing: border-box;
         }
         .card:hover {
             border-color: #8b949e;
@@ -126,6 +131,7 @@
         .card-title {
             font-size: 1rem; font-weight: 600; margin-bottom: 4px;
             color: #58a6ff; line-height: 1.4;
+            word-break: break-word; /* 長いタイトル対策 */
         }
         .card-meta-header {
             font-size: 0.75rem; color: #7d8590; margin-bottom: 12px;
@@ -133,6 +139,17 @@
         }
         .card-meta-header .author { display: flex; align-items: center; gap: 4px; color: #e6edf3; font-weight: 500; }
         .card-meta-header .date { color: #8b949e; }
+        
+        /* 作成者リンクのスタイル */
+        .author-link {
+            color: #e6edf3;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .author-link:hover {
+            color: #58a6ff;
+            text-decoration: underline;
+        }
 
         /* 添付ファイル・リンクエリア */
         .attachment-area {
@@ -168,7 +185,9 @@
         /* 本文 */
         .card-content {
             font-size: 0.85rem; line-height: 1.6; color: #c9d1d9;
-            margin-bottom: 12px; overflow-wrap: break-word;
+            margin-bottom: 12px; 
+            overflow-wrap: break-word; /* 長い単語の折り返し */
+            word-break: break-word;
         }
         .card-content img { 
             max-width: 100%; height: auto; 
@@ -214,6 +233,8 @@
             padding: 8px 12px;
             margin-top: 8px;
             border: 1px solid #30363d;
+            width: 100%; /* 親要素に合わせる */
+            box-sizing: border-box;
         }
         .comments-header {
             font-size: 0.75rem; font-weight: 600; color: #7d8590;
@@ -226,6 +247,7 @@
         }
         .comment-item {
             font-size: 0.8rem; padding: 8px 0; border-bottom: 1px solid #21262d;
+            word-break: break-all; /* コメントのはみ出し防止 */
         }
         .comment-item:last-child { border-bottom: none; }
         .comment-top { display: flex; justify-content: space-between; margin-bottom: 2px; font-size: 0.75rem; }
@@ -257,7 +279,9 @@
 
         /* スマホ対応 */
         @media (max-width: 768px) {
-            .column { min-width: 85vw; scroll-snap-align: center; }
+            /* スマホでも幅をある程度固定するか、画面幅に合わせるか */
+            /* 今回は「固定」指示なので350pxを維持しつつ、画面からはみ出る場合はスクロール */
+            .column { width: 85vw; min-width: 85vw; max-width: 85vw; scroll-snap-align: center; }
             #board-canvas { scroll-snap-type: x mandatory; padding: 16px; gap: 16px; }
             header h1 { font-size: 0.9rem; }
         }
@@ -369,8 +393,6 @@
                 let colTitle = (firstLineBreak === -1) ? colText.trim() : colText.substring(0, firstLineBreak).trim();
                 let colContent = (firstLineBreak === -1) ? '' : colText.substring(firstLineBreak + 1);
 
-                // 最初のカラムが全体概要の場合は無視（または表示）するが、
-                // 今回のデータでは概要(Summary)もカラムとして扱われているため、そのまま表示する
                 if (index === 0 && colTitle.startsWith('# ')) {
                      if (!colContent.trim()) return;
                 }
@@ -383,11 +405,9 @@
                 `;
                 const colBody = colDiv.querySelector('.column-body');
 
-                // カード分割: "### " または "### 1. " 等
                 let cardsData = colContent.split(/^### /gm);
 
                 if (cardsData.length === 1 && !colContent.includes('### ')) {
-                    // カラム直下にテキストがある場合（Summaryなど）
                     const content = cardsData[0].trim();
                     if (content) {
                         cardsData = [`${colTitle} 概要\n${content}`];
@@ -412,22 +432,20 @@
             });
         }
 
-        // --- 日時解析関数 (日本語「12月 26, 2025」や英語「Aug 20, 2024」対応) ---
+        // --- 日時解析関数 ---
         function smartDateFormat(rawStr) {
             if (!rawStr) return null;
             rawStr = rawStr.trim();
 
-            // パターン1: 日本語交じり "12月 26, 2025"
             const jpMonthMatch = rawStr.match(/(\d+)月\s+(\d+),\s+(\d{4})/);
             if (jpMonthMatch) {
-                const month = parseInt(jpMonthMatch[1], 10) - 1; // 0-indexed
+                const month = parseInt(jpMonthMatch[1], 10) - 1;
                 const day = parseInt(jpMonthMatch[2], 10);
                 const year = parseInt(jpMonthMatch[3], 10);
                 const d = new Date(year, month, day);
                 return d.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' });
             }
 
-            // パターン2: 英語形式 "Aug 20, 2024 10:59pm" や "December 26, 2025"
             const enMatch = rawStr.match(/([a-zA-Z]+)\s+(\d{1,2}),\s+(\d{4})(?:\s+(\d{1,2}):(\d{2})([ap]m))?/i);
             if (enMatch) {
                 const monthStr = enMatch[1];
@@ -442,7 +460,7 @@
                 const month = months[monthStr.toLowerCase()];
                 
                 if (month !== undefined) {
-                    if (enMatch[4]) { // 時刻あり
+                    if (enMatch[4]) {
                         let hour = parseInt(enMatch[4], 10);
                         const minute = parseInt(enMatch[5], 10);
                         const ampm = enMatch[6].toLowerCase();
@@ -453,22 +471,16 @@
                             year: 'numeric', month: '2-digit', day: '2-digit',
                             hour: '2-digit', minute: '2-digit'
                         });
-                    } else { // 日付のみ
+                    } else {
                         const d = new Date(year, month, day);
                         return d.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' });
                     }
                 }
             }
-
-            // パターン3: スラッシュ区切り "08/20 22:59" (年がない場合など)
-            // ただし年がないと正しくパースできないため、現在年を補完するか、そのまま返す
+            
             const slashMatch = rawStr.match(/(\d{1,2})\/(\d{1,2})\s+(\d{1,2}):(\d{2})/);
-            if (slashMatch) {
-                // そのまま返すか、簡易整形
-                return rawStr; 
-            }
+            if (slashMatch) return rawStr; 
 
-            // 最終手段: Date.parse
             const ts = Date.parse(rawStr);
             if (!isNaN(ts)) {
                 return new Date(ts).toLocaleDateString('ja-JP');
@@ -477,48 +489,56 @@
             return rawStr;
         }
 
+        // --- 作成者解析関数 ---
+        // "表示名 (ユーザーID)" の形式を分解する
+        function parseAuthorInfo(rawAuthor) {
+            if (!rawAuthor) return { name: '不明', url: null };
+            
+            // "Display Name (Username)" のパターンにマッチ
+            // ユーザー名は括弧内、表示名はそれより前
+            const match = rawAuthor.match(/^(.*?)\s+\(([^()]+)\)$/);
+            if (match) {
+                const displayName = match[1].trim();
+                const userId = match[2].trim();
+                return { 
+                    name: displayName, 
+                    url: `https://padlet.com/${userId}` 
+                };
+            }
+
+            // マッチしない場合はそのまま表示、リンクなし
+            return { name: rawAuthor, url: null };
+        }
+
         function parseCard(text) {
-            // テキストを行で分割
             const lines = text.trim().split('\n');
             const title = lines[0].trim(); 
 
-            // ヘルパー: 正規表現で値を抽出
             const getMeta = (regex) => {
                 const match = text.match(regex);
                 return match ? match[1].trim() : null;
             };
 
-            // --- メタデータ抽出 (日本語・英語 対応) ---
-            // 作成者: "**作成者:**" または "**Author:**" または "**Builder:**"
-            const author = getMeta(/(?:- )?\*\*(?:Author|作成者|Builder|所有者):\*\* (.*)/i) || '不明';
+            const rawAuthor = getMeta(/(?:- )?\*\*(?:Author|作成者|Builder|所有者):\*\* (.*)/i) || '不明';
+            // 作成者情報を解析してオブジェクト化 {name, url}
+            const authorData = parseAuthorInfo(rawAuthor);
             
-            // 投稿の種類 (日本語優先)
             const postType = getMeta(/(?:- )?\*\*(?:投稿の種類|Post Type):\*\* (.*)/i);
-            
-            // 最終更新日 (ユーザー定義/本文中): "**最終更新日:**" (日本語のみ、または英語データでも日本語で入る想定)
             const customLastUpdate = getMeta(/(?:- )?\*\*(?:最終更新日|Last Updated):\*\* (.*)/i);
-
-            // リンク
             const linkUrl = getMeta(/(?:- )?\*\*(?:Link|リンク):\*\* (.*)/i);
-
-            // システム作成日/更新日 (Additional Info内にあることが多い)
             let rawCreatedDate = getMeta(/(?:- )?\*\*(?:Created At(?: \(UTC\))?|Created At|Date Created|Creation Date|作成日（UTC）|作成日\(UTC\)|作成日):\*\* (.*)/i);
             
-            // セクション分割 (コメント、リアクション、その他の情報)
-            // "#### " で始まる行を探し、そこから後ろを切り出す
             let mainContent = text;
             let commentsText = "";
             let reactionsText = "";
             let additionalInfoText = "";
 
-            // ブロックの開始位置を探す
             const blocks = [
                 { name: 'comments', regex: /#### (?:Comments|コメント) \(\d+\)/i },
                 { name: 'reactions', regex: /#### (?:Reactions|リアクション)/i },
                 { name: 'info', regex: /#### (?:Additional Information|その他の情報)/i }
             ];
 
-            // 最も早い出現位置を見つけて本文をカット
             let earliestIndex = -1;
             blocks.forEach(b => {
                 const match = text.match(b.regex);
@@ -532,8 +552,6 @@
             if (earliestIndex !== -1) {
                 mainContent = text.substring(0, earliestIndex);
                 const afterContent = text.substring(earliestIndex);
-                
-                // 各セクションの中身を抽出
                 const splitSections = afterContent.split(/^#### /gm);
                 splitSections.forEach(sec => {
                     if (sec.match(/^(?:Comments|コメント)/i)) commentsText = sec;
@@ -542,15 +560,12 @@
                 });
             }
 
-            // 日付整形
             const displayCreatedDate = smartDateFormat(rawCreatedDate);
-            // AdditionalInfo内の作成日/更新日も再取得を試みる(mainContent外にあるため)
             if (!rawCreatedDate && additionalInfoText) {
                 const m = additionalInfoText.match(/\*\*(?:Created At|作成日（UTC）|作成日\(UTC\)):\*\* (.*)/i);
                 if(m) rawCreatedDate = m[1];
             }
             
-            // リアクション情報 (Reactionsセクションから取得)
             let rating = 0;
             let ratingCount = 0;
             if (reactionsText) {
@@ -561,7 +576,6 @@
                 if (cMatch) ratingCount = parseInt(cMatch[1]);
             }
 
-            // その他の情報 (Additional Infoセクションから取得)
             let color = 'White';
             let systemUpdatedDate = null;
             if (additionalInfoText) {
@@ -571,18 +585,15 @@
                 const upMatch = additionalInfoText.match(/\*\*(?:Updated At|更新日（UTC）|更新日\(UTC\)):\*\* (.*)/i);
                 if (upMatch) systemUpdatedDate = smartDateFormat(upMatch[1]);
             }
-            // colorフォールバック (本文にある場合)
             if (color === 'White') {
                 const colMatch2 = mainContent.match(/\*\*(?:Post color|Color|投稿のカラー):\*\* (.*)/i);
                 if (colMatch2) color = colMatch2[1];
             }
 
-            // コメント解析
             let comments = [];
             if (commentsText) {
                 const commentLines = commentsText.split('\n');
                 commentLines.forEach(line => {
-                    // - **User** (Date): Msg
                     const m = line.match(/- \*\*(.*?)\*\* \((.*?)\): (.*)/);
                     if (m) {
                         const formattedDate = smartDateFormat(m[2]);
@@ -591,14 +602,10 @@
                 });
             }
 
-            // --- 本文のクリーンアップ ---
-            // 最初の行はタイトルなので削除（parseCardの最初で取得済み）
-            // メタデータ行を削除
             let contentLines = mainContent.split('\n');
             if (contentLines.length > 0 && contentLines[0].includes(title)) {
                 contentLines.shift();
             }
-            
             let cleanContent = contentLines.join('\n');
             const patternsToRemove = [
                 /(?:- )?\*\*(?:Author|作成者|Builder|所有者):.*[\r\n]*/gi,
@@ -607,23 +614,21 @@
                 /(?:- )?\*\*(?:Updated At|Last Updated|更新日|最終更新日).*?:.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Post Type|投稿の種類):.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Link|Posts|リンク):.*[\r\n]*/gi,
-                /^---[\r\n]+/gm // 区切り線
+                /^---[\r\n]+/gm
             ];
             patternsToRemove.forEach(regex => cleanContent = cleanContent.replace(regex, ''));
 
-            // 添付ファイルURL抽出
             let attachmentUrl = null;
             cleanContent = cleanContent.replace(/!?\[(?:Attachment|添付ファイル)\]\((.*?)\)/gi, (match, url) => {
                 attachmentUrl = url;
-                return ''; // 本文からは削除
+                return '';
             });
 
-            // 最終的な更新日（カスタムがあればそれ、なければシステム更新日）
             const finalDisplayUpdate = smartDateFormat(customLastUpdate) || systemUpdatedDate;
 
             return {
                 title: title,
-                author: author,
+                authorData: authorData, // 解析済みオブジェクトを使用
                 color: color,
                 content: cleanContent.trim(),
                 comments: comments,
@@ -704,11 +709,17 @@
             const rawHtml = marked.parse(data.content);
             const cleanHtml = DOMPurify.sanitize(rawHtml, { ADD_ATTR: ['target', 'class'] });
 
+            // 作成者名のHTML生成（リンクの有無）
+            let authorHtml = escapeHtml(data.authorData.name);
+            if (data.authorData.url) {
+                authorHtml = `<a href="${escapeHtml(data.authorData.url)}" target="_blank" class="author-link">${authorHtml}</a>`;
+            }
+
             el.innerHTML = `
                 <div class="card-title">${escapeHtml(data.title)}</div>
                 
                 <div class="card-meta-header">
-                    <span class="author">👤 ${escapeHtml(data.author)}</span>
+                    <span class="author">👤 ${authorHtml}</span>
                     ${data.createdDate ? `<span class="date"> • ${escapeHtml(data.createdDate)}</span>` : ''}
                 </div>
 
