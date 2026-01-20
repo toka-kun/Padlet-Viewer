@@ -68,7 +68,6 @@
         /* --- カラム（列） --- */
         .column {
             background-color: #161b22;
-            width: 350px;
             min-width: 350px;
             max-width: 350px;
             border-radius: 6px;
@@ -90,11 +89,6 @@
             border-radius: 6px 6px 0 0;
             flex-shrink: 0;
             position: sticky; top: 0; z-index: 10;
-            
-            /* 長いタイトル対策 */
-            white-space: normal;
-            word-break: break-word;
-            overflow-wrap: anywhere;
         }
 
         .column-body {
@@ -118,12 +112,6 @@
             position: relative;
             box-shadow: 0 1px 2px rgba(0,0,0,0.1);
             transition: all 0.2s cubic-bezier(0.3, 0, 0.5, 1);
-            width: 100%; 
-            box-sizing: border-box;
-            
-            /* はみ出し防止の重要設定 */
-            overflow: hidden; 
-            word-wrap: break-word;
         }
         .card:hover {
             border-color: #8b949e;
@@ -144,45 +132,23 @@
         .card-title {
             font-size: 1rem; font-weight: 600; margin-bottom: 4px;
             color: #58a6ff; line-height: 1.4;
-            
-            /* 長い単語を強制的に折り返す */
-            overflow-wrap: anywhere;
-            word-break: break-word;
         }
         .card-meta-header {
             font-size: 0.75rem; color: #7d8590; margin-bottom: 12px;
             display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
-            line-height: 1.4;
         }
-        .card-meta-header .author { 
-            display: inline-flex; align-items: center; gap: 4px; 
-            color: #e6edf3; font-weight: 500;
-            max-width: 100%;
-        }
-        .card-meta-header .date { color: #8b949e; white-space: nowrap; }
-        
-        /* 作成者リンクのスタイル */
-        .author-link {
-            color: #e6edf3; text-decoration: none; cursor: pointer;
-            /* 長いユーザー名対策 */
-            overflow-wrap: anywhere;
-            word-break: break-all; 
-        }
-        .author-link:hover {
-            color: #58a6ff; text-decoration: underline;
-        }
+        .card-meta-header .author { display: flex; align-items: center; gap: 4px; color: #e6edf3; font-weight: 500; }
+        .card-meta-header .date { color: #8b949e; }
 
         /* 添付ファイル・リンクエリア */
         .attachment-area {
             margin-bottom: 12px;
             display: flex; flex-direction: column; gap: 8px;
-            width: 100%;
         }
         .attachment-area img {
             max-width: 100%; height: auto;
             border-radius: 4px; border: 1px solid #30363d;
             display: block;
-            object-fit: contain;
         }
 
         /* 共通ボタンスタイル */
@@ -198,11 +164,6 @@
             transition: background 0.2s;
             font-weight: 600;
             width: fit-content;
-            max-width: 100%;
-            box-sizing: border-box;
-            white-space: nowrap; 
-            overflow: hidden; 
-            text-overflow: ellipsis; 
         }
         .action-link:hover {
             background-color: #30363d;
@@ -213,30 +174,14 @@
         /* 本文 */
         .card-content {
             font-size: 0.85rem; line-height: 1.6; color: #c9d1d9;
-            margin-bottom: 12px; 
-            /* コンテンツはみ出し防止 */
-            overflow-wrap: anywhere; 
-            word-break: break-word;
-            /* テーブルやコードブロックが広い場合のスクロール */
-            overflow-x: auto; 
+            margin-bottom: 12px; overflow-wrap: break-word;
         }
-        .card-content img, .card-content video, .card-content iframe { 
+        .card-content img { 
             max-width: 100%; height: auto; 
             border-radius: 4px; border: 1px solid #30363d; 
             margin-top: 8px; margin-bottom: 6px; display: block;
         }
-        .card-content pre {
-            background: #161b22; padding: 8px; border-radius: 4px;
-            overflow-x: auto; white-space: pre-wrap; word-break: break-all;
-        }
-        .card-content table {
-            display: block; width: 100%; overflow-x: auto;
-            border-collapse: collapse;
-        }
-        .card-content a { 
-            color: #58a6ff; text-decoration: none; 
-            word-break: break-all;
-        }
+        .card-content a { color: #58a6ff; text-decoration: none; }
         .card-content a:hover { text-decoration: underline; }
 
         /* カスタムフィールド表示エリア */
@@ -249,30 +194,32 @@
             color: #c9d1d9;
             border: 1px solid rgba(48, 54, 61, 0.5);
         }
-        .custom-field-row { display: flex; gap: 6px; margin-bottom: 2px; flex-wrap: wrap; }
+        .custom-field-row {
+            display: flex; gap: 6px; margin-bottom: 2px;
+        }
         .custom-field-row:last-child { margin-bottom: 0; }
-        .custom-field-label { color: #8b949e; font-weight: 600; min-width: 80px; flex-shrink: 0; }
-        .custom-field-row span:last-child { overflow-wrap: anywhere; word-break: break-word; }
+        .custom-field-label { color: #8b949e; font-weight: 600; min-width: 80px; }
 
-        /* リアクション */
+        /* リアクション（スター）エリア */
         .reactions-section {
             display: flex; align-items: center; justify-content: space-between;
-            padding: 8px 0; border-top: 1px solid rgba(48, 54, 61, 0.5);
-            margin-top: auto;
+            padding: 8px 0;
+            border-top: 1px solid rgba(48, 54, 61, 0.5);
+            margin-top: auto; /* コンテンツの下に配置 */
         }
         .stars {
             background: rgba(227, 179, 65, 0.1); color: #e3b341;
             padding: 2px 8px; border-radius: 10px; font-size: 0.8rem; font-weight: 600;
         }
+        .stars-count { color: #8b949e; font-weight: normal; font-size: 0.75rem; margin-left: 4px; }
 
-        /* コメントエリア */
+        /* コメントエリア（一番下） */
         .comments-section {
             background-color: #161b22;
             border-radius: 6px;
             padding: 8px 12px;
             margin-top: 8px;
             border: 1px solid #30363d;
-            width: 100%; box-sizing: border-box;
         }
         .comments-header {
             font-size: 0.75rem; font-weight: 600; color: #7d8590;
@@ -285,19 +232,12 @@
         }
         .comment-item {
             font-size: 0.8rem; padding: 8px 0; border-bottom: 1px solid #21262d;
-            word-break: break-word; overflow-wrap: anywhere;
         }
         .comment-item:last-child { border-bottom: none; }
-        .comment-top { 
-            display: flex; justify-content: space-between; margin-bottom: 4px; 
-            font-size: 0.75rem; gap: 8px; 
-        }
-        .comment-user { 
-            color: #e6edf3; font-weight: bold; 
-            overflow-wrap: anywhere; word-break: break-all; min-width: 0; 
-        }
-        .comment-date { color: #7d8590; flex-shrink: 0; }
-        .comment-msg { color: #c9d1d9; overflow-wrap: anywhere; }
+        .comment-top { display: flex; justify-content: space-between; margin-bottom: 2px; font-size: 0.75rem; }
+        .comment-user { color: #e6edf3; font-weight: bold; }
+        .comment-date { color: #7d8590; }
+        .comment-msg { color: #c9d1d9; word-break: break-all; }
 
         /* ロード・エラー */
         #loading { width: 100%; height: 100%; display: flex; padding: 20px; gap: 20px; }
@@ -323,11 +263,11 @@
 
         /* スマホ対応 */
         @media (max-width: 768px) {
-            .column { width: 85vw; min-width: 85vw; max-width: 85vw; scroll-snap-align: center; }
+            .column { min-width: 85vw; scroll-snap-align: center; }
             #board-canvas { scroll-snap-type: x mandatory; padding: 16px; gap: 16px; }
             header { flex-wrap: wrap; height: auto; padding: 10px 16px; gap: 8px; }
             header h1 { font-size: 0.9rem; max-width: 100%; width: 100%; }
-            header .meta-info { margin-left: 0; width: 100%; justify-content: flex-start; font-size: 0.75rem; flex-wrap: wrap;}
+            header .meta-info { margin-left: 0; width: 100%; justify-content: flex-start; font-size: 0.75rem; }
         }
     </style>
 </head>
@@ -361,19 +301,14 @@
     <script>
         const markdownUrl = '/padlet_export.md';
 
+        // 1. Marked (Markdownパーサー)の設定: リンクを検出したら target="_blank" を付与
         const renderer = new marked.Renderer();
         renderer.link = function(href, title, text) {
             return `<a href="${href}" target="_blank" rel="noopener noreferrer">${text}</a>`;
         };
-        // テーブルのスタイル
-        renderer.table = function(header, body) {
-            return `<table style="border-collapse: collapse; width:100%; margin: 8px 0; font-size:0.8rem;">
-                <thead>${header}</thead>
-                <tbody>${body}</tbody>
-            </table>`;
-        };
         marked.setOptions({ renderer: renderer, breaks: true });
 
+        // 2. DOMPurify (HTMLサニタイザー)の設定: 強制的に target="_blank" を追加
         DOMPurify.addHook('afterSanitizeAttributes', function (node) {
             if ('target' in node) {
                 node.setAttribute('target', '_blank');
@@ -384,70 +319,48 @@
         async function fetchAndRender() {
             const loadingDiv = document.getElementById('loading');
             const errorDiv = document.getElementById('error-message');
-            const metaInfoDiv = document.getElementById('meta-info');
+            const metaInfoDiv = document.getElementById('meta-info'); // ID変更
             const canvas = document.getElementById('board-canvas');
-
-            // タブ名は固定でViewer
-            document.title = "Viewer";
 
             try {
                 const response = await fetch(`${markdownUrl}?t=${new Date().getTime()}`);
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 const fullText = await response.text();
                 
-                // --- 1. タイトル取得 ---
-                const titleMatch = fullText.match(/^# (.*)/m);
-                if (titleMatch) {
-                    const boardTitle = titleMatch[1].trim();
-                    const titleEl = document.getElementById('board-title');
-                    if (titleEl) titleEl.textContent = boardTitle;
-                } else {
-                    document.getElementById('board-title').textContent = "Padlet Viewer";
-                }
-
-                // --- 2. 投稿数の解析 ---
+                // --- 投稿数の抽出（新規追加） ---
+                // 概要エリアなどにある "**Posts:** 123" を探す
+                // ファイル冒頭4000文字程度を確認すれば十分
                 const headerChunk = fullText.substring(0, 4000); 
                 const postsMatch = headerChunk.match(/(?:- )?\*\*(?:Posts|投稿):\*\* (\d+)/i);
                 const postCount = postsMatch ? postsMatch[1] : '-';
 
-                // --- 3. 最終更新日の解析 ---
-                let updateTimeStr = '不明';
-                const datePattern = /(?:最終更新|Last Updated)[:：]\s*(\d{4}\/\d{1,2}\/\d{1,2}\s+\d{1,2}:\d{1,2}:\d{1,2})/;
-                
-                const lines = fullText.split('\n');
-                const firstLineMatch = lines.length > 0 ? lines[0].match(datePattern) : null;
-
-                if (firstLineMatch) {
-                    updateTimeStr = firstLineMatch[1];
-                } else {
-                    const headerMatch = headerChunk.match(datePattern);
-                    if (headerMatch) {
-                        updateTimeStr = headerMatch[1];
-                    } else {
-                        const fallbackMatch = headerChunk.match(/(?:- )?\*\*(?:Updated At(?: \(UTC\))?|更新日(?:（UTC）)?):\*\* (.*)/i);
-                        if (fallbackMatch) updateTimeStr = smartDateFormat(fallbackMatch[1]);
-                    }
-                }
-
-                metaInfoDiv.innerHTML = `
-                    <span>📊 投稿数: ${postCount}</span>
-                    <span>🕒 更新: ${updateTimeStr}</span>
-                `;
-
-                // --- 4. データの分割処理 ---
-                const firstColumnIndex = fullText.indexOf('\n## ');
+                // --- データの分割処理 ---
+                // フォーマット: "更新日時\n\nMarkdown本文..."
+                const splitIndex = fullText.indexOf('\n\n');
+                let updateTimeStr = '最終更新: 不明';
                 let markdownContent = fullText;
 
-                if (firstColumnIndex !== -1) {
-                    markdownContent = fullText.substring(firstColumnIndex + 1);
+                if (splitIndex !== -1) {
+                    // 1行目の更新日時を取得
+                    updateTimeStr = fullText.substring(0, splitIndex).trim();
+                    // 本文を取得
+                    markdownContent = fullText.substring(splitIndex + 2);
                 } else {
-                    const splitIndex = fullText.indexOf('\n\n');
-                    if (splitIndex !== -1) {
-                         markdownContent = fullText.substring(splitIndex + 2);
+                    const firstLineBreak = fullText.indexOf('\n');
+                    if (firstLineBreak !== -1) {
+                         updateTimeStr = fullText.substring(0, firstLineBreak).trim();
+                         markdownContent = fullText.substring(firstLineBreak + 1).trim();
                     }
                 }
                 
                 loadingDiv.remove();
+                
+                // ヘッダーに情報を表示 (投稿数 + 更新日)
+                metaInfoDiv.innerHTML = `
+                    <span>📊 投稿数: ${postCount}</span>
+                    <span>${escapeHtml(updateTimeStr)}</span>
+                `;
+
                 renderBoard(markdownContent, canvas);
 
             } catch (error) {
@@ -462,8 +375,19 @@
             }
         }
 
-        function renderBoard(content, canvas) {
-            const columns = content.split(/^## /gm);
+        function renderBoard(markdownText, canvas) {
+            // --- Markdownのタイトル行(# ...)を取得してヘッダーに反映 ---
+            const titleMatch = markdownText.match(/^# (.*)/);
+            if (titleMatch) {
+                const boardTitle = titleMatch[1].trim();
+                const titleEl = document.getElementById('board-title');
+                if (titleEl) titleEl.textContent = boardTitle;
+            } else {
+                document.getElementById('board-title').textContent = "Padlet Viewer";
+            }
+            // --------------------------------------------------------
+
+            const columns = markdownText.split(/^## /gm);
             
             columns.forEach((colText, index) => {
                 if (colText.trim().length === 0) return;
@@ -471,8 +395,10 @@
                 const firstLineBreak = colText.indexOf('\n');
                 let colTitle = (firstLineBreak === -1) ? colText.trim() : colText.substring(0, firstLineBreak).trim();
                 let colContent = (firstLineBreak === -1) ? '' : colText.substring(firstLineBreak + 1);
-                
-                if (colTitle.toLowerCase() === 'summary' || colTitle === '要約') return;
+
+                if (index === 0 && colTitle.startsWith('# ')) {
+                     if (!colContent.trim()) return;
+                }
 
                 const colDiv = document.createElement('div');
                 colDiv.className = 'column';
@@ -485,9 +411,9 @@
                 let cardsData = colContent.split(/^### /gm);
 
                 if (cardsData.length === 1 && !colContent.includes('### ')) {
-                    const contentStr = cardsData[0].trim();
-                    if (contentStr) {
-                         cardsData = [`${colTitle} 概要\n${contentStr}`];
+                    const content = cardsData[0].trim();
+                    if (content) {
+                        cardsData = [`${colTitle} 概要\n${content}`];
                     } else {
                         cardsData = [];
                     }
@@ -495,6 +421,7 @@
 
                 cardsData.forEach((cardText, cIndex) => {
                     if (!cardText.trim()) return;
+
                     try {
                         const card = parseCard(cardText);
                         colBody.appendChild(createCardElement(card));
@@ -509,195 +436,141 @@
             });
         }
 
+        // --- 日時解析関数 ---
         function smartDateFormat(rawStr) {
             if (!rawStr) return null;
-            rawStr = rawStr.trim();
-            if (rawStr.match(/^\d{4}\/\d{1,2}\/\d{1,2}\s+\d{1,2}:\d{1,2}:\d{1,2}$/)) {
-                return rawStr;
-            }
+            
+            const yearMatch = rawStr.match(/\d{4}/);
+            if (!yearMatch) return rawStr;
 
-            const jpMonthMatch = rawStr.match(/(\d+)月\s+(\d+),\s+(\d{4})/);
-            if (jpMonthMatch) {
-                const month = parseInt(jpMonthMatch[1], 10) - 1;
-                const day = parseInt(jpMonthMatch[2], 10);
-                const year = parseInt(jpMonthMatch[3], 10);
-                const d = new Date(year, month, day);
-                return d.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' });
-            }
+            const enRegex = /([a-zA-Z]+)\s+(\d{1,2}),\s+(\d{4})(?:\s+(\d{1,2}):(\d{2})([ap]m))?/i;
+            const enMatch = rawStr.match(enRegex);
 
-            const enMatch = rawStr.match(/([a-zA-Z]+)\s+(\d{1,2}),\s+(\d{4})(?:\s+(\d{1,2}):(\d{2})([ap]m))?/i);
             if (enMatch) {
                 const monthStr = enMatch[1];
                 const day = parseInt(enMatch[2], 10);
                 const year = parseInt(enMatch[3], 10);
+                let hour = enMatch[4] ? parseInt(enMatch[4], 10) : 0;
+                const minute = enMatch[5] ? parseInt(enMatch[5], 10) : 0;
+                const ampm = enMatch[6] ? enMatch[6].toLowerCase() : null;
+
                 const months = {
                     jan:0, january:0, feb:1, february:1, mar:2, march:2, apr:3, april:3, may:4, 
                     jun:5, june:5, jul:6, july:6, aug:7, august:7, sep:8, september:8, oct:9, october:9, 
                     nov:10, november:10, dec:11, december:11
                 };
                 const month = months[monthStr.toLowerCase()];
+
                 if (month !== undefined) {
-                    if (enMatch[4]) {
-                        let hour = parseInt(enMatch[4], 10);
-                        const minute = parseInt(enMatch[5], 10);
-                        const ampm = enMatch[6].toLowerCase();
-                        if (ampm === 'pm' && hour < 12) hour += 12;
-                        if (ampm === 'am' && hour === 12) hour = 0;
-                        const utcDate = new Date(Date.UTC(year, month, day, hour, minute));
-                        return utcDate.toLocaleString('ja-JP', {
-                            year: 'numeric', month: '2-digit', day: '2-digit',
-                            hour: '2-digit', minute: '2-digit'
+                    if (ampm === 'pm' && hour < 12) hour += 12;
+                    if (ampm === 'am' && hour === 12) hour = 0;
+
+                    const utcDate = new Date(Date.UTC(year, month, day, hour, minute));
+                    
+                    if (!enMatch[4]) {
+                         return utcDate.toLocaleDateString('ja-JP', {
+                            year: 'numeric', month: '2-digit', day: '2-digit'
                         });
-                    } else {
-                        const d = new Date(year, month, day);
-                        return d.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' });
                     }
+                    
+                    return utcDate.toLocaleString('ja-JP', {
+                        year: 'numeric', month: '2-digit', day: '2-digit',
+                        hour: '2-digit', minute: '2-digit'
+                    });
                 }
             }
-            const slashMatch = rawStr.match(/(\d{1,2})\/(\d{1,2})\s+(\d{1,2}):(\d{2})/);
-            if (slashMatch) return rawStr; 
+
             const ts = Date.parse(rawStr);
             if (!isNaN(ts)) {
-                return new Date(ts).toLocaleDateString('ja-JP');
+                const d = new Date(ts);
+                if (d.getHours() === 0 && d.getMinutes() === 0) {
+                    return d.toLocaleDateString('ja-JP', {
+                        year: 'numeric', month: '2-digit', day: '2-digit'
+                    });
+                }
+                return d.toLocaleString('ja-JP', { 
+                    year: 'numeric', month: '2-digit', day: '2-digit', 
+                    hour: '2-digit', minute: '2-digit' 
+                });
             }
-            return rawStr;
-        }
 
-        function parseAuthorInfo(rawAuthor) {
-            if (!rawAuthor) return { name: '不明', url: null };
-            const match = rawAuthor.match(/^(.*?)\s+\(([^()]+)\)$/);
-            if (match) {
-                return { name: match[1].trim(), url: `https://padlet.com/${match[2].trim()}` };
-            }
-            return { name: rawAuthor, url: null };
+            return rawStr;
         }
 
         function parseCard(text) {
             const lines = text.trim().split('\n');
             const title = lines[0].trim(); 
-
-            // メタデータ取得ヘルパー
+            
             const getMeta = (regex) => {
                 const match = text.match(regex);
                 return match ? match[1].trim() : null;
             };
 
-            const rawAuthor = getMeta(/(?:- )?\*\*(?:Author|作成者|Builder|所有者):\*\* (.*)/i) || '不明';
-            const authorData = parseAuthorInfo(rawAuthor);
+            const author = getMeta(/(?:- )?\*\*(?:Author|作成者|Builder):\*\* (.*)/i) || '不明';
+            const color = getMeta(/(?:- )?\*\*(?:Post color|Color|投稿のカラー):\*\* (.*)/i) || 'White';
+            
             const postType = getMeta(/(?:- )?\*\*(?:投稿の種類|Post Type):\*\* (.*)/i);
-            const customLastUpdate = getMeta(/(?:- )?\*\*(?:最終更新日|Last Updated):\*\* (.*)/i);
+            const customLastUpdate = getMeta(/(?:- )?\*\*(?:最終更新日|Last Updated|Updated At|更新日|更新日\(UTC\)):\*\* (.*)/i);
             const linkUrl = getMeta(/(?:- )?\*\*(?:Link|リンク):\*\* (.*)/i);
+
             let rawCreatedDate = getMeta(/(?:- )?\*\*(?:Created At(?: \(UTC\))?|Created At|Date Created|Creation Date|作成日（UTC）|作成日\(UTC\)|作成日):\*\* (.*)/i);
             
-            // --- コンテンツとセクション（コメント等）の分割を改善 ---
-            // "#### " を区切り文字として、テキスト全体を分割する
-            // 最初のブロックが本文、それ以降は見出しをチェックして判定する
-            
-            const rawSections = text.split(/\n#### /gm);
-            let mainContent = rawSections[0];
-            let commentsText = "";
-            let reactionsText = "";
-            let additionalInfoText = "";
-
-            // 2番目以降のブロックをループして、何の情報か判定する
-            for (let i = 1; i < rawSections.length; i++) {
-                const sectionBlock = rawSections[i];
-                // 最初の改行までが見出し
-                const firstBreak = sectionBlock.indexOf('\n');
-                const headerLine = (firstBreak === -1 ? sectionBlock : sectionBlock.substring(0, firstBreak)).trim();
-                
-                if (headerLine.match(/^(?:Comments|コメント)/i)) {
-                    commentsText = sectionBlock;
-                } else if (headerLine.match(/^(?:Reactions|リアクション)/i)) {
-                    reactionsText = sectionBlock;
-                } else if (headerLine.match(/^(?:Additional Information|その他の情報)/i)) {
-                    additionalInfoText = sectionBlock;
-                } else {
-                    // もし認識できない見出しの場合は、本文の一部として戻す（念の為）
-                    mainContent += `\n#### ${sectionBlock}`;
-                }
-            }
-
-            // --- 解析ロジック ---
-
             const displayCreatedDate = smartDateFormat(rawCreatedDate);
-            if (!rawCreatedDate && additionalInfoText) {
-                const m = additionalInfoText.match(/\*\*(?:Created At|作成日（UTC）|作成日\(UTC\)):\*\* (.*)/i);
-                if(m) rawCreatedDate = m[1];
-            }
-            
-            let rating = 0;
-            let ratingCount = 0;
-            if (reactionsText) {
-                const rMatch = reactionsText.match(/\*\*(?:Average star rating|星評価平均):\*\* ([\d\.]+)/i);
-                if (rMatch) rating = parseFloat(rMatch[1]);
-                const cMatch = reactionsText.match(/\*\*(?:Number of ratings|評価件数|Votes):\*\* (\d+)/i);
-                if (cMatch) ratingCount = parseInt(cMatch[1]);
-            }
+            const displayUpdatedDate = smartDateFormat(customLastUpdate);
 
-            let color = 'White';
-            let systemUpdatedDate = null;
-            if (additionalInfoText) {
-                const colMatch = additionalInfoText.match(/\*\*(?:Post color|Color|投稿のカラー):\*\* (.*)/i);
-                if (colMatch) color = colMatch[1];
-                const upMatch = additionalInfoText.match(/\*\*(?:Updated At|更新日（UTC）|更新日\(UTC\)):\*\* (.*)/i);
-                if (upMatch) systemUpdatedDate = smartDateFormat(upMatch[1]);
-            }
-            if (color === 'White') {
-                const colMatch2 = mainContent.match(/\*\*(?:Post color|Color|投稿のカラー):\*\* (.*)/i);
-                if (colMatch2) color = colMatch2[1];
-            }
+            const rating = parseFloat(getMeta(/(?:- )?\*\*(?:Average star rating|星評価平均):\*\* ([\d\.]+)/i) || 0);
+            const ratingCount = getMeta(/(?:- )?\*\*(?:Number of ratings|評価件数|Votes):\*\* (\d+)/i) || 0;
 
             let comments = [];
-            if (commentsText) {
-                const commentLines = commentsText.split('\n');
+            const commentBlockRegex = /#### (?:Comments|コメント)[^\n]*\n([\s\S]*?)(?=####|$)/i;
+            const commentMatch = text.match(commentBlockRegex);
+            if (commentMatch) {
+                const commentLines = commentMatch[1].trim().split('\n');
                 commentLines.forEach(line => {
-                    // 見出し行（Comments (2)など）はスキップ
-                    if (line.match(/^(?:Comments|コメント)/i)) return; 
-                    
                     const m = line.match(/- \*\*(.*?)\*\* \((.*?)\): (.*)/);
                     if (m) {
-                        comments.push({ user: m[1], date: smartDateFormat(m[2]), msg: m[3] });
+                        const formattedDate = smartDateFormat(m[2]);
+                        comments.push({ user: m[1], date: formattedDate, msg: m[3] });
                     }
                 });
             }
 
-            // 本文の整形
-            let contentLines = mainContent.split('\n');
-            if (contentLines.length > 0 && contentLines[0].includes(title)) {
-                contentLines.shift(); // タイトル行を削除
-            }
-            let cleanContent = contentLines.join('\n');
+            let content = text;
+            if (lines.length > 0) content = lines.slice(1).join('\n'); 
+
             const patternsToRemove = [
-                /(?:- )?\*\*(?:Author|作成者|Builder|所有者):.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:Author|作成者|Builder):.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Post color|Color|投稿のカラー):.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Created At|Date Created|作成日).*?:.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Updated At|Last Updated|更新日|最終更新日).*?:.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Post Type|投稿の種類):.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:Average star rating|星評価平均):.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:Number of ratings|評価件数):.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Link|Posts|リンク):.*[\r\n]*/gi,
-                /^---[\r\n]+/gm
+                /#### (?:Comments|コメント)[\s\S]*?(?=####|$)/i, 
+                /#### (?:Reactions|リアクション)[\s\S]*?(?=####|$)/i, 
+                /#### (?:Additional Information|その他の情報)[\s\S]*?(?=####|$)/i, 
+                /^---[\r\n]+/gm 
             ];
-            patternsToRemove.forEach(regex => cleanContent = cleanContent.replace(regex, ''));
-
+            patternsToRemove.forEach(regex => content = content.replace(regex, ''));
+            
             let attachmentUrl = null;
-            cleanContent = cleanContent.replace(/!?\[(?:Attachment|添付ファイル)\]\((.*?)\)/gi, (match, url) => {
+            content = content.replace(/!?\[(?:Attachment|添付ファイル)\]\((.*?)\)/gi, (match, url) => {
                 attachmentUrl = url;
-                return '';
+                return ''; 
             });
-
-            const finalDisplayUpdate = smartDateFormat(customLastUpdate) || systemUpdatedDate;
 
             return {
                 title: title,
-                authorData: authorData,
+                author: author,
                 color: color,
-                content: cleanContent.trim(),
+                content: content.trim(),
                 comments: comments,
                 rating: rating,
                 ratingCount: ratingCount,
-                createdDate: smartDateFormat(rawCreatedDate), 
+                createdDate: displayCreatedDate, 
                 postType: postType,
-                customLastUpdate: finalDisplayUpdate,
+                customLastUpdate: displayUpdatedDate,
                 attachmentUrl: attachmentUrl,
                 linkUrl: linkUrl
             };
@@ -770,25 +643,26 @@
             const rawHtml = marked.parse(data.content);
             const cleanHtml = DOMPurify.sanitize(rawHtml, { ADD_ATTR: ['target', 'class'] });
 
-            let authorHtml = escapeHtml(data.authorData.name);
-            if (data.authorData.url) {
-                authorHtml = `<a href="${escapeHtml(data.authorData.url)}" target="_blank" class="author-link">${authorHtml}</a>`;
-            }
-
             el.innerHTML = `
                 <div class="card-title">${escapeHtml(data.title)}</div>
+                
                 <div class="card-meta-header">
-                    <span class="author">👤 ${authorHtml}</span>
+                    <span class="author">👤 ${escapeHtml(data.author)}</span>
                     ${data.createdDate ? `<span class="date"> • ${escapeHtml(data.createdDate)}</span>` : ''}
                 </div>
+
                 ${mediaHtml}
+
                 <div class="card-content markdown-body" style="background:transparent; color:#c9d1d9;">
                     ${cleanHtml}
                 </div>
+
                 ${customFieldsHtml}
+
                 <div class="reactions-section">
                     <span class="stars">${starsStr} <span class="stars-count">${ratingText}</span></span>
                 </div>
+
                 ${commentsHtml}
             `;
             return el;
