@@ -1,4 +1,4 @@
-最終更新: 2026/01/20 17:35:45
+最終更新: 2026/01/20 18:35:47
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -6,7 +6,7 @@
 
 ## Summary
 - **Link:** https://padlet.com/BERURI1214/padlet-zsdegt1d6scuq9qa
-- **Builder:** べるり(名前戻した) (BERURI1214)
+- **Builder:** 太古の太鼓~1853 ゴリら (BERURI1214)
 - **Posts:** 71
 - **Created At (UTC):** Apr 22, 2025 09:34am
 - **Updated At (UTC):** Jan 19, 2026 04:21am
@@ -14,7 +14,7 @@
 ## ルール
 
 ### 1. Post 1
-**Author:** べるり(名前戻した) (BERURI1214)
+**Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
 
 <p>内容はできる限り削減したつもりです、ルールをよく見ず投稿やコメントをしてしまう利用者が多いです。</p><p>ルールを無視していると判断された場合は権限を下げます</p><p><br></p><ul><li><p>荒らし、連投</p></li><li><p>暴言、悪ロ</p></li><li><p>proxyなどを配る投稿にコメントなど</p></li><li><p>一線を越えた挑発</p></li><li><p>個人情報</p></li></ul><p><br></p><p>ライター以上に権限を持っている人のみルール</p><p><strong>ライター用のルール</strong></p><ul><li><p>1週間に1個プロキシを配ってほしい</p></li><li><p>固定バグ荒らしをしない</p></li><li><p>他の部屋に荒らしがいた場合、写真とURLを送ってほしい</p></li></ul><p><br></p><p><strong><mark>モデレーター用ルール</mark></strong></p><ul><li><p>荒らしがいた場合、投稿を消すのと荒らしの名前を貼って欲しいです</p></li><li><p>投票や連絡、詳細のやつなどの管理者限定のセクションは基本的になんかしていいです。ですが他の人が不快にならないように</p></li><li><p>セクションの削除や追加は管理者に相談してから行ってください</p></li></ul><p><br></p><p><strong><mark>管理者用ルール</mark></strong></p><ul><li><p>基本的に何してもいいですが、評判が下がることなどは避けください</p></li><li><p>ライターの権限をあげるかなどはINFINITYがやりますので大丈夫です。</p></li><li><p>INFINITYが設定したコラボレーターなどは極力動かさないで欲しいです</p></li><li><p>リア友だからって言って自由勝手しないでください</p></li></ul><p><br></p><p>以上です</p><p>追加して欲しいルールや</p><p>この辺がイマイチな部分はINFINITYに</p>
 
@@ -30,7 +30,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1769502944&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FEpR0i1xnzmLn3%2BWI%2Ffkijt%2Fnw5oU%2BDI1MMjA20MWPdHFGVoiTdxuRjJ8tMEXRmfEjj87Em4KgjKxFeMAZFUB2wnvdXlhlJ9FZmWY4yBt9tqlzuKYGGikMxDgxRih%2BeqMsRMtnU4Yq129LbF4mXHIAOj7EgS871%2FdLEYdmG9hxc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1769506546&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fZqGOr%2BjKj6GrnbZMoO5ne5v7jfvRSxY%2FZ%2FKg13TFvm%2BCg55flL6QbAZH%2FAX2g6wJkPpLyw7%2BpH4w88tca1Ai50oH7Ch99DEXqvC6GmfN4NAqJqr9M%2FyP3VyLQP26YTHXQ69myGTE72oLDCn2HmT2gO9SIyWPs7dmut1D5xO8Xc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -71,7 +71,7 @@
 ---
 
 ### 2. ライター受付の改善お知らせ
-**Author:** べるり(名前戻した) (BERURI1214)
+**Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
 
 <p>申請する事で3日後ライターです。</p><p>この投稿に対しコメントをしても意味がないです</p><p>10月20日以前から申請してた方はもう一度お願いします。</p><p>○○の弟子、○○貢献者などはブラックリストに全員入れる予定です</p><p><br></p><p>このセクションはお知らせだと思っていいです。</p><p>ちなみに大事な投票が終わって投稿が削除された後は誰でも投票をしても構いません。</p><p><br></p>
 
@@ -152,13 +152,13 @@
 ## リクエストBOX
 
 ### 1. Post 1
-**Author:** べるり(名前戻した) (BERURI1214)
+**Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
 
 <p>リクエストや質問等は必ずここにしてください</p><p>部屋改良や欲しいサイトなど</p><p>ここは荒らしが通りやすいのでその対策にもお願いします</p><p><br></p><p>皆様が書いてくれた意見はすべてメモに書いてあり、コメントが消されていても認知されたと思ってください</p>
 
 #### Comments (4)
 - **凛籘：RYOURA** (Nov 20, 2025 01:14am): シャドー欲しいです！
-- **べるり(名前戻した)** (Nov 26, 2025 12:46pm): Shadowって書いてあるところにあります
+- **太古の太鼓~1853 ゴリら** (Nov 26, 2025 12:46pm): Shadowって書いてあるところにあります
 - **Fabulous Fly** (Dec 02, 2025 11:26am): アニメ見れるサイトが欲しい
 - **凛籘：RYOURA** (Dec 03, 2025 05:33am): 全部ブロックされるんで新しいのないですか？
 
@@ -172,7 +172,7 @@
 ## 報告場
 
 ### 1. 報告場
-**Author:** べるり(名前戻した) (BERURI1214)
+**Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
 
 <p>荒らし対策などがあれば何でもどうぞ</p>
 
@@ -192,7 +192,7 @@
 ## 雑談
 
 ### 1. Post 1
-**Author:** べるり(名前戻した) (BERURI1214)
+**Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
 
 [Attachment](https://qm2xzh.csb.app/)
 
@@ -202,8 +202,8 @@
 - **ああああああ** (Jan 13, 2026 11:53pm): 新しいの出してくださいませんか
 - **ああああああ** (Jan 13, 2026 11:53pm): 新しいの出してくださいませんか
 - **凛籘：RYOURA** (Jan 13, 2026 08:10am): 風呂
-- **べるり(名前戻した)** (Jan 11, 2026 08:37am): これならどうだっ
-- **べるり(名前戻した)** (Jan 13, 2026 08:52am): まじか
+- **太古の太鼓~1853 ゴリら** (Jan 11, 2026 08:37am): これならどうだっ
+- **太古の太鼓~1853 ゴリら** (Jan 13, 2026 08:52am): まじか
 - **ああああああ** (Jan 13, 2026 11:53pm): お願いします
 
 #### Additional Information
@@ -224,7 +224,7 @@
 ---
 
 ### 3. プロキシ見つけた
-**Author:** べるり(名前戻した) (BERURI1214)
+**Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
 
 [Attachment](https://solocentral.lol/)
 
@@ -233,7 +233,7 @@
 - **ああああああああ** (Jan 08, 2026 12:05am): 悲しいからどうにかしてください
 - **ああああああああ** (Jan 08, 2026 12:05am): ゲームできん
 - **ああああああああ** (Jan 08, 2026 12:05am): それな　誰か助けて
-- **べるり(名前戻した)** (Jan 11, 2026 08:34am): 規制されたか〜
+- **太古の太鼓~1853 ゴリら** (Jan 11, 2026 08:34am): 規制されたか〜
 
 #### Additional Information
 - **Post color:** White
@@ -243,7 +243,7 @@
 ---
 
 ### 4. Fabulous Flyさんのリクエスト
-**Author:** べるり(名前戻した) (BERURI1214)
+**Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
 
 <p>アニメサイト、今探しています...ごめんなさい😥</p>
 
@@ -282,7 +282,7 @@
 - **Enthusiastic Meerkat** (Oct 20, 2025 02:27am): 教えて欲しいです
 - **削除済みユーザー** (Oct 18, 2025 09:25pm): あいこんとなまえかえた
 - **削除済みユーザー** (Oct 20, 2025 07:15am): それなら多分無理だよ
-- **べるり(名前戻した)** (Oct 20, 2025 12:02pm): とけねこさん久しぶりいいいイィ
+- **太古の太鼓~1853 ゴリら** (Oct 20, 2025 12:02pm): とけねこさん久しぶりいいいイィ
 
 #### Additional Information
 - **Post color:** White
@@ -320,13 +320,13 @@
 ---
 
 ### 9. ごめんなさい😔
-**Author:** べるり(名前戻した) (BERURI1214)
+**Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
 
 <p>習い事のせいで最近あんまり活動できてないです🥺今後も多分この状態が続くと思います😥</p><p>誠に申し訳ございません&gt;_&lt;</p>
 
 #### Comments (3)
-- **べるり(名前戻した)** (Oct 20, 2025 12:26pm): これどぞhttps://momo-edu.konami.net/
-- **べるり(名前戻した)** (Oct 20, 2025 12:26pm): パスワード  9672 1470
+- **太古の太鼓~1853 ゴリら** (Oct 20, 2025 12:26pm): これどぞhttps://momo-edu.konami.net/
+- **太古の太鼓~1853 ゴリら** (Oct 20, 2025 12:26pm): パスワード  9672 1470
 - **Blushing Cricket** (Oct 23, 2025 12:34pm): 授業パスワードが違いますって言われたまじこれやりたいから助けて
 
 #### Additional Information
@@ -508,7 +508,7 @@
 ---
 
 ### 4. Post 4
-**Author:** べるり(名前戻した) (BERURI1214)
+**Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
 
 [Attachment](https://shadow-haihu-bynyanko.easterndns.com/)
 
@@ -779,21 +779,21 @@
 ## space
 
 ### 1. Post 1
-**Author:** べるり(名前戻した) (BERURI1214)
+**Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
 
 [Attachment](https://use.bsfa.info/)
 
 #### Comments (10)
-- **べるり(名前戻した)** (May 06, 2025 05:37am): https://data.focus.abonament.net/
-- **べるり(名前戻した)** (May 06, 2025 05:31am): https://use.moldeo.org/
-- **べるり(名前戻した)** (May 06, 2025 05:31am): https://study.moldeo.org/
-- **べるり(名前戻した)** (May 06, 2025 05:32am): https://visit.sistemasplenario.com.ar/
-- **べるり(名前戻した)** (May 06, 2025 05:32am): https://data.focus.abonament.net/
-- **べるり(名前戻した)** (May 06, 2025 05:34am): https://terms.words.virtualin-houseit.com/
-- **べるり(名前戻した)** (May 06, 2025 05:30am): https://use.gurdit.com/
-- **べるり(名前戻した)** (May 06, 2025 05:34am): https://pupil.gov.xxxtream.net/
-- **べるり(名前戻した)** (May 06, 2025 05:33am): https://read.atom.stickyricecakes.com/
-- **べるり(名前戻した)** (May 06, 2025 05:33am): https://teach.essay.porcineplacenta.com/
+- **太古の太鼓~1853 ゴリら** (May 06, 2025 05:37am): https://data.focus.abonament.net/
+- **太古の太鼓~1853 ゴリら** (May 06, 2025 05:31am): https://use.moldeo.org/
+- **太古の太鼓~1853 ゴリら** (May 06, 2025 05:31am): https://study.moldeo.org/
+- **太古の太鼓~1853 ゴリら** (May 06, 2025 05:32am): https://visit.sistemasplenario.com.ar/
+- **太古の太鼓~1853 ゴリら** (May 06, 2025 05:32am): https://data.focus.abonament.net/
+- **太古の太鼓~1853 ゴリら** (May 06, 2025 05:34am): https://terms.words.virtualin-houseit.com/
+- **太古の太鼓~1853 ゴリら** (May 06, 2025 05:30am): https://use.gurdit.com/
+- **太古の太鼓~1853 ゴリら** (May 06, 2025 05:34am): https://pupil.gov.xxxtream.net/
+- **太古の太鼓~1853 ゴリら** (May 06, 2025 05:33am): https://read.atom.stickyricecakes.com/
+- **太古の太鼓~1853 ゴリら** (May 06, 2025 05:33am): https://teach.essay.porcineplacenta.com/
 
 #### Additional Information
 - **Post color:** White
@@ -1011,7 +1011,7 @@
 ---
 
 ### 3. Post 3
-**Author:** べるり(名前戻した) (BERURI1214)
+**Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
 
 [Attachment](https://www.acethinker.jp/online-downloader)
 
