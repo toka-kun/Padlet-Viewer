@@ -1,4 +1,4 @@
-最終更新: 2026/01/20 15:39:33
+最終更新: 2026/01/20 19:30:03
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 20, 2026 05:38am
+- **Updated At (UTC):** Jan 20, 2026 09:53am
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (56)
+#### Comments (57)
 - **削除済みユーザー** (Jan 16, 2026 02:42pm):  
 - **sanae1212** (Jan 16, 2026 07:44am): 入れて！
 - **woolisbest** (Jan 17, 2026 12:12pm): おい
@@ -46,13 +46,14 @@
 - **aro-!!あろー！！** (Jan 17, 2026 08:10am): 入れてくださ
 - **Rufure** (Jan 17, 2026 08:13am): マイネームイズルフレ
 - **突然の死(Yu-i)** (Jan 20, 2026 05:38am): prz
-- **わきぢゃん** (Jan 13, 2026 03:14pm): 入れて
 - **WiiUのサブ** (Jan 14, 2026 12:48pm): ???「何度でも蘇るさ！」
 - **ホゲタァ** (Jan 14, 2026 01:02pm): NANIGAOKITA?
 - **橘花 | Kiκκα　#青葉のサブ** (Jan 16, 2026 01:42am): 6☆^4☆@//
 - **woolisbest** (Jan 15, 2026 06:53am): ok
 - **woolisbest** (Jan 16, 2026 07:09am): ok
 - **マダタスカル** (Jan 13, 2026 10:31pm): いれて
+- **Yusho** (Jan 20, 2026 09:47am): 入れてくだせぇ
+- **わきぢゃん** (Jan 20, 2026 09:49am): 入れて
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Jan 15, 2026 11:34am): いれて⭐︎
 - **ウルトラソウル＃先生にバレただるい** (Jan 14, 2026 05:52am): うい
 - **しょくぱん** (Jan 14, 2026 06:56am): いれて
@@ -90,6 +91,9 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
+#### Comments (1)
+- **Yusho** (Jan 20, 2026 09:53am): フォローしやした
+
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Jan 13, 2026 12:05pm
@@ -118,12 +122,13 @@
 
 <p>反煮物派</p><p>・ｳﾞｧﾙｻﾞ</p><p><br></p><p>荒らし</p><p>・匿名おるふぇ</p><p>・</p><p><br></p><p>変態</p><p>・煮物</p><p>・やた</p><p><br></p>
 
-#### Comments (7)
+#### Comments (8)
 - **よく失踪するかめ（復活？）** (Jan 17, 2026 01:47am): ｗ
 - **青葉  @らーめん #BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ** (Jan 13, 2026 12:10pm): これ以上思い出せない
 - **青葉  @らーめん #BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ** (Jan 13, 2026 12:10pm): 少ないかも
 - **woolisbest** (Jan 13, 2026 12:10pm): w
 - **まくまくごう#ミッフィーの真の姿#さくらもちの弟子#叫ぶビーバー#OFA6番弟子#無法地帯最高** (Jan 15, 2026 11:18pm): 反煮物派閥作ってるくせに変態枠に煮物入れんのやめてあげてw
+- **Yusho** (Jan 20, 2026 09:48am): あれ？かめさん？
 - **WiiUのサブ** (Jan 14, 2026 10:23pm): 変態枠草
 - **woolisbest** (Jan 16, 2026 07:10am): ww
 
