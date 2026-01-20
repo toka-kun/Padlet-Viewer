@@ -39,13 +39,19 @@
             color: #e6edf3; 
             display: flex; align-items: center; gap: 8px; margin: 0;
             white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
-            max-width: 80%; 
+            max-width: 60%; 
         }
         header h1::before { content: '📋'; font-size: 1.2rem; flex-shrink: 0; }
-        header .status { 
-            font-size: 0.8rem; color: #8b949e; 
+        
+        /* メタ情報（投稿数・更新日）エリア */
+        header .meta-info { 
+            font-size: 0.85rem; color: #8b949e; 
             font-family: ui-monospace, SFMono-Regular, monospace; 
-            white-space: nowrap; margin-left: 10px;
+            white-space: nowrap; margin-left: auto;
+            display: flex; gap: 16px; align-items: center;
+        }
+        header .meta-info span {
+            display: flex; align-items: center; gap: 6px;
         }
 
         /* --- メインボードエリア --- */
@@ -62,7 +68,7 @@
         /* --- カラム（列） --- */
         .column {
             background-color: #161b22;
-            /* 横幅を完全に固定 */
+            /* 横幅を固定 */
             width: 350px;
             min-width: 350px;
             max-width: 350px;
@@ -108,7 +114,6 @@
             position: relative;
             box-shadow: 0 1px 2px rgba(0,0,0,0.1);
             transition: all 0.2s cubic-bezier(0.3, 0, 0.5, 1);
-            /* 幅固定のための設定 */
             width: 100%; 
             box-sizing: border-box;
         }
@@ -131,7 +136,7 @@
         .card-title {
             font-size: 1rem; font-weight: 600; margin-bottom: 4px;
             color: #58a6ff; line-height: 1.4;
-            word-break: break-word; /* 長いタイトル対策 */
+            word-break: break-word;
         }
         .card-meta-header {
             font-size: 0.75rem; color: #7d8590; margin-bottom: 12px;
@@ -142,13 +147,10 @@
         
         /* 作成者リンクのスタイル */
         .author-link {
-            color: #e6edf3;
-            text-decoration: none;
-            cursor: pointer;
+            color: #e6edf3; text-decoration: none; cursor: pointer;
         }
         .author-link:hover {
-            color: #58a6ff;
-            text-decoration: underline;
+            color: #58a6ff; text-decoration: underline;
         }
 
         /* 添付ファイル・リンクエリア */
@@ -186,8 +188,7 @@
         .card-content {
             font-size: 0.85rem; line-height: 1.6; color: #c9d1d9;
             margin-bottom: 12px; 
-            overflow-wrap: break-word; /* 長い単語の折り返し */
-            word-break: break-word;
+            overflow-wrap: break-word; word-break: break-word;
         }
         .card-content img { 
             max-width: 100%; height: auto; 
@@ -207,34 +208,29 @@
             color: #c9d1d9;
             border: 1px solid rgba(48, 54, 61, 0.5);
         }
-        .custom-field-row {
-            display: flex; gap: 6px; margin-bottom: 2px;
-        }
+        .custom-field-row { display: flex; gap: 6px; margin-bottom: 2px; }
         .custom-field-row:last-child { margin-bottom: 0; }
         .custom-field-label { color: #8b949e; font-weight: 600; min-width: 80px; }
 
-        /* リアクション（スター）エリア */
+        /* リアクション */
         .reactions-section {
             display: flex; align-items: center; justify-content: space-between;
-            padding: 8px 0;
-            border-top: 1px solid rgba(48, 54, 61, 0.5);
-            margin-top: auto; /* コンテンツの下に配置 */
+            padding: 8px 0; border-top: 1px solid rgba(48, 54, 61, 0.5);
+            margin-top: auto;
         }
         .stars {
             background: rgba(227, 179, 65, 0.1); color: #e3b341;
             padding: 2px 8px; border-radius: 10px; font-size: 0.8rem; font-weight: 600;
         }
-        .stars-count { color: #8b949e; font-weight: normal; font-size: 0.75rem; margin-left: 4px; }
 
-        /* コメントエリア（一番下） */
+        /* コメントエリア */
         .comments-section {
             background-color: #161b22;
             border-radius: 6px;
             padding: 8px 12px;
             margin-top: 8px;
             border: 1px solid #30363d;
-            width: 100%; /* 親要素に合わせる */
-            box-sizing: border-box;
+            width: 100%; box-sizing: border-box;
         }
         .comments-header {
             font-size: 0.75rem; font-weight: 600; color: #7d8590;
@@ -247,7 +243,7 @@
         }
         .comment-item {
             font-size: 0.8rem; padding: 8px 0; border-bottom: 1px solid #21262d;
-            word-break: break-all; /* コメントのはみ出し防止 */
+            word-break: break-all;
         }
         .comment-item:last-child { border-bottom: none; }
         .comment-top { display: flex; justify-content: space-between; margin-bottom: 2px; font-size: 0.75rem; }
@@ -279,11 +275,11 @@
 
         /* スマホ対応 */
         @media (max-width: 768px) {
-            /* スマホでも幅をある程度固定するか、画面幅に合わせるか */
-            /* 今回は「固定」指示なので350pxを維持しつつ、画面からはみ出る場合はスクロール */
             .column { width: 85vw; min-width: 85vw; max-width: 85vw; scroll-snap-align: center; }
             #board-canvas { scroll-snap-type: x mandatory; padding: 16px; gap: 16px; }
-            header h1 { font-size: 0.9rem; }
+            header { flex-wrap: wrap; height: auto; padding: 10px 16px; gap: 8px; }
+            header h1 { font-size: 0.9rem; max-width: 100%; width: 100%; }
+            header .meta-info { margin-left: 0; width: 100%; justify-content: flex-start; font-size: 0.75rem; }
         }
     </style>
 </head>
@@ -294,7 +290,9 @@
             <span id="board-title">読み込み中...</span>
             <img src="https://count.getloli.com/@toka_kun_?name=toka_kun_&theme=original-new&padding=7&offset=0&align=top&scale=0.4&pixelated=1&darkmode=auto" alt="count" style="margin-left:8px; vertical-align:middle;">
         </h1>
-        <div class="status" id="last-update">読み込み中...</div>
+        <div class="meta-info" id="meta-info">
+            <span>読み込み中...</span>
+        </div>
     </header>
 
     <main id="board-canvas">
@@ -315,14 +313,12 @@
     <script>
         const markdownUrl = '/padlet_export.md';
 
-        // 1. Marked (Markdownパーサー)の設定: リンクを検出したら target="_blank" を付与
         const renderer = new marked.Renderer();
         renderer.link = function(href, title, text) {
             return `<a href="${href}" target="_blank" rel="noopener noreferrer">${text}</a>`;
         };
         marked.setOptions({ renderer: renderer, breaks: true });
 
-        // 2. DOMPurify (HTMLサニタイズ)の設定: 強制的に target="_blank" を追加
         DOMPurify.addHook('afterSanitizeAttributes', function (node) {
             if ('target' in node) {
                 node.setAttribute('target', '_blank');
@@ -333,7 +329,7 @@
         async function fetchAndRender() {
             const loadingDiv = document.getElementById('loading');
             const errorDiv = document.getElementById('error-message');
-            const updateDiv = document.getElementById('last-update');
+            const metaInfoDiv = document.getElementById('meta-info');
             const canvas = document.getElementById('board-canvas');
 
             try {
@@ -341,25 +337,44 @@
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 const fullText = await response.text();
                 
+                // --- ヘッダー情報の解析 (最初の4000文字程度を確認) ---
+                const headerChunk = fullText.substring(0, 4000);
+
+                // 1. 投稿数 (Posts) を抽出
+                // 英語: "**Posts:** 398", 日本語: "**投稿:** 398" に対応
+                const postsMatch = headerChunk.match(/(?:- )?\*\*(?:Posts|投稿):\*\* (\d+)/i);
+                const postCount = postsMatch ? postsMatch[1] : '-';
+
+                // 2. 更新日 (Updated At) を抽出
+                const updateMatch = headerChunk.match(/(?:- )?\*\*(?:Updated At(?: \(UTC\))?|更新日(?:（UTC）)?):\*\* (.*)/i);
+                let updateTimeStr = updateMatch ? updateMatch[1].trim() : '不明';
+                updateTimeStr = smartDateFormat(updateTimeStr) || updateTimeStr;
+
+                // ヘッダーDOM更新
+                metaInfoDiv.innerHTML = `
+                    <span>📊 投稿数: ${postCount}</span>
+                    <span>🕒 更新: ${updateTimeStr}</span>
+                `;
+
                 // --- データの分割処理 ---
-                const splitIndex = fullText.indexOf('\n\n');
-                let updateTimeStr = '最終更新: 不明';
+                // Summaryセクションと本文セクションを切り分ける
+                // "## " (カラムの開始) が出てくるまでをSummaryとみなす
+                const firstColumnIndex = fullText.indexOf('\n## ');
                 let markdownContent = fullText;
 
-                if (splitIndex !== -1) {
-                    updateTimeStr = fullText.substring(0, splitIndex).trim();
-                    markdownContent = fullText.substring(splitIndex + 2);
+                if (firstColumnIndex !== -1) {
+                    // 最初のカラム以降を本文として扱う
+                    markdownContent = fullText.substring(firstColumnIndex + 1);
                 } else {
-                    const firstLineBreak = fullText.indexOf('\n');
-                    if (firstLineBreak !== -1) {
-                         updateTimeStr = fullText.substring(0, firstLineBreak).trim();
-                         markdownContent = fullText.substring(firstLineBreak + 1).trim();
+                    // カラムが見つからない場合は、Summaryの直後を探す（簡易的なフォールバック）
+                    const splitIndex = fullText.indexOf('\n\n');
+                    if (splitIndex !== -1) {
+                         markdownContent = fullText.substring(splitIndex + 2);
                     }
                 }
                 
                 loadingDiv.remove();
-                updateDiv.textContent = updateTimeStr;
-                renderBoard(markdownContent, canvas);
+                renderBoard(markdownContent, fullText, canvas); // fullTextも渡してタイトル解析に使う
 
             } catch (error) {
                 console.error('Fetch error:', error);
@@ -369,13 +384,13 @@
                     <h3>読み込みに失敗しました</h3><p>${escapeHtml(error.message)}</p>
                     <button onclick="location.reload()" style="margin-top:10px; padding:6px 12px; cursor:pointer; background:#21262d; color:#e6edf3; border:1px solid #30363d; border-radius:4px;">再読み込み</button>
                 `;
-                updateDiv.textContent = 'エラー';
+                metaInfoDiv.textContent = 'エラー';
             }
         }
 
-        function renderBoard(markdownText, canvas) {
-            // タイトル行(# ...)
-            const titleMatch = markdownText.match(/^# (.*)/);
+        function renderBoard(content, fullText, canvas) {
+            // タイトル行(# ...) を fullText から探す
+            const titleMatch = fullText.match(/^# (.*)/);
             if (titleMatch) {
                 const boardTitle = titleMatch[1].trim();
                 const titleEl = document.getElementById('board-title');
@@ -384,7 +399,7 @@
                 document.getElementById('board-title').textContent = "Padlet Viewer";
             }
 
-            const columns = markdownText.split(/^## /gm);
+            const columns = content.split(/^## /gm);
             
             columns.forEach((colText, index) => {
                 if (colText.trim().length === 0) return;
@@ -392,10 +407,9 @@
                 const firstLineBreak = colText.indexOf('\n');
                 let colTitle = (firstLineBreak === -1) ? colText.trim() : colText.substring(0, firstLineBreak).trim();
                 let colContent = (firstLineBreak === -1) ? '' : colText.substring(firstLineBreak + 1);
-
-                if (index === 0 && colTitle.startsWith('# ')) {
-                     if (!colContent.trim()) return;
-                }
+                
+                // Summaryセクションそのものがカラムとして混ざらないように除外（通常は上でカットしているが念のため）
+                if (colTitle.toLowerCase() === 'summary' || colTitle === '要約') return;
 
                 const colDiv = document.createElement('div');
                 colDiv.className = 'column';
@@ -408,9 +422,10 @@
                 let cardsData = colContent.split(/^### /gm);
 
                 if (cardsData.length === 1 && !colContent.includes('### ')) {
-                    const content = cardsData[0].trim();
-                    if (content) {
-                        cardsData = [`${colTitle} 概要\n${content}`];
+                    const contentStr = cardsData[0].trim();
+                    if (contentStr) {
+                         // カード構造がないテキストだけのカラムの場合の処理
+                         cardsData = [`${colTitle} 概要\n${contentStr}`];
                     } else {
                         cardsData = [];
                     }
@@ -490,23 +505,12 @@
         }
 
         // --- 作成者解析関数 ---
-        // "表示名 (ユーザーID)" の形式を分解する
         function parseAuthorInfo(rawAuthor) {
             if (!rawAuthor) return { name: '不明', url: null };
-            
-            // "Display Name (Username)" のパターンにマッチ
-            // ユーザー名は括弧内、表示名はそれより前
             const match = rawAuthor.match(/^(.*?)\s+\(([^()]+)\)$/);
             if (match) {
-                const displayName = match[1].trim();
-                const userId = match[2].trim();
-                return { 
-                    name: displayName, 
-                    url: `https://padlet.com/${userId}` 
-                };
+                return { name: match[1].trim(), url: `https://padlet.com/${match[2].trim()}` };
             }
-
-            // マッチしない場合はそのまま表示、リンクなし
             return { name: rawAuthor, url: null };
         }
 
@@ -520,7 +524,6 @@
             };
 
             const rawAuthor = getMeta(/(?:- )?\*\*(?:Author|作成者|Builder|所有者):\*\* (.*)/i) || '不明';
-            // 作成者情報を解析してオブジェクト化 {name, url}
             const authorData = parseAuthorInfo(rawAuthor);
             
             const postType = getMeta(/(?:- )?\*\*(?:投稿の種類|Post Type):\*\* (.*)/i);
@@ -543,9 +546,7 @@
             blocks.forEach(b => {
                 const match = text.match(b.regex);
                 if (match) {
-                    if (earliestIndex === -1 || match.index < earliestIndex) {
-                        earliestIndex = match.index;
-                    }
+                    if (earliestIndex === -1 || match.index < earliestIndex) earliestIndex = match.index;
                 }
             });
 
@@ -571,7 +572,6 @@
             if (reactionsText) {
                 const rMatch = reactionsText.match(/\*\*(?:Average star rating|星評価平均):\*\* ([\d\.]+)/i);
                 if (rMatch) rating = parseFloat(rMatch[1]);
-                
                 const cMatch = reactionsText.match(/\*\*(?:Number of ratings|評価件数|Votes):\*\* (\d+)/i);
                 if (cMatch) ratingCount = parseInt(cMatch[1]);
             }
@@ -581,7 +581,6 @@
             if (additionalInfoText) {
                 const colMatch = additionalInfoText.match(/\*\*(?:Post color|Color|投稿のカラー):\*\* (.*)/i);
                 if (colMatch) color = colMatch[1];
-
                 const upMatch = additionalInfoText.match(/\*\*(?:Updated At|更新日（UTC）|更新日\(UTC\)):\*\* (.*)/i);
                 if (upMatch) systemUpdatedDate = smartDateFormat(upMatch[1]);
             }
@@ -596,8 +595,7 @@
                 commentLines.forEach(line => {
                     const m = line.match(/- \*\*(.*?)\*\* \((.*?)\): (.*)/);
                     if (m) {
-                        const formattedDate = smartDateFormat(m[2]);
-                        comments.push({ user: m[1], date: formattedDate, msg: m[3] });
+                        comments.push({ user: m[1], date: smartDateFormat(m[2]), msg: m[3] });
                     }
                 });
             }
@@ -628,7 +626,7 @@
 
             return {
                 title: title,
-                authorData: authorData, // 解析済みオブジェクトを使用
+                authorData: authorData,
                 color: color,
                 content: cleanContent.trim(),
                 comments: comments,
@@ -709,7 +707,6 @@
             const rawHtml = marked.parse(data.content);
             const cleanHtml = DOMPurify.sanitize(rawHtml, { ADD_ATTR: ['target', 'class'] });
 
-            // 作成者名のHTML生成（リンクの有無）
             let authorHtml = escapeHtml(data.authorData.name);
             if (data.authorData.url) {
                 authorHtml = `<a href="${escapeHtml(data.authorData.url)}" target="_blank" class="author-link">${authorHtml}</a>`;
@@ -717,24 +714,18 @@
 
             el.innerHTML = `
                 <div class="card-title">${escapeHtml(data.title)}</div>
-                
                 <div class="card-meta-header">
                     <span class="author">👤 ${authorHtml}</span>
                     ${data.createdDate ? `<span class="date"> • ${escapeHtml(data.createdDate)}</span>` : ''}
                 </div>
-
                 ${mediaHtml}
-
                 <div class="card-content markdown-body" style="background:transparent; color:#c9d1d9;">
                     ${cleanHtml}
                 </div>
-
                 ${customFieldsHtml}
-
                 <div class="reactions-section">
                     <span class="stars">${starsStr} <span class="stars-count">${ratingText}</span></span>
                 </div>
-
                 ${commentsHtml}
             `;
             return el;
