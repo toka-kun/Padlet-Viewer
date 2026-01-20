@@ -1,4 +1,4 @@
-最終更新: 2026/01/19 22:48:13
+最終更新: 2026/01/20 15:39:33
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 19, 2026 12:58pm
+- **Updated At (UTC):** Jan 20, 2026 05:38am
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (55)
+#### Comments (56)
 - **削除済みユーザー** (Jan 16, 2026 02:42pm):  
 - **sanae1212** (Jan 16, 2026 07:44am): 入れて！
 - **woolisbest** (Jan 17, 2026 12:12pm): おい
@@ -45,6 +45,7 @@
 - **WiiUのサブ** (Jan 16, 2026 09:46pm): いれて〜
 - **aro-!!あろー！！** (Jan 17, 2026 08:10am): 入れてくださ
 - **Rufure** (Jan 17, 2026 08:13am): マイネームイズルフレ
+- **突然の死(Yu-i)** (Jan 20, 2026 05:38am): prz
 - **わきぢゃん** (Jan 13, 2026 03:14pm): 入れて
 - **WiiUのサブ** (Jan 14, 2026 12:48pm): ???「何度でも蘇るさ！」
 - **ホゲタァ** (Jan 14, 2026 01:02pm): NANIGAOKITA?
