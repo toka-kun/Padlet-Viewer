@@ -36,7 +36,7 @@ jobs:
           echo "現在のモード: ${{ github.event_name }}"
           echo "待機時間: ${SLEEP_TIME}秒"
 
-          # --- 関数定義（変更検知＋日付をつけて保存する処理） ---
+          # --- 関数定義（賢い比較＋日付をつけて保存する処理） ---
           function save_padlet {
             local URL=$1
             local OUT_FILE=$2
@@ -48,20 +48,19 @@ jobs:
                 if head -n 1 temp_download.md | grep -q "<!DOCTYPE html>"; then
                     echo "⚠️ スキップ: $OUT_FILE はエラーページ(HTML)でした。更新しません。"
                     rm temp_download.md
-                    return 0 # このファイルの処理を終了
+                    return 0
                 fi
 
-                # 3. 変更チェック
-                # すでにファイルが存在する場合、中身（3行目以降）を比較する
+                # 3. 変更チェック（ここを修正：diffコマンドで比較）
                 if [ -f "$OUT_FILE" ]; then
                     # 既存ファイルのヘッダー（1,2行目）を除外したものを一時作成
                     tail -n +3 "$OUT_FILE" > current_body.tmp
                     
-                    # ダウンロードしたものと比較
-                    if cmp -s temp_download.md current_body.tmp; then
+                    # diff -q で比較（--strip-trailing-cr で改行コードの違いを無視して比較）
+                    if diff -q --strip-trailing-cr temp_download.md current_body.tmp > /dev/null; then
                         echo "✅ 変更なし: $OUT_FILE (更新日時も維持します)"
                         rm temp_download.md current_body.tmp
-                        return 0 # 変更がないので、このファイルの処理を終了
+                        return 0 # 変更がないので終了
                     fi
                     
                     rm current_body.tmp
@@ -90,7 +89,7 @@ jobs:
           }
 
           # ==========================================
-          # 実行エリア (関数を呼び出して実行)
+          # 実行エリア
           # ==========================================
 
           # --- 1. nyg シリーズ ---
