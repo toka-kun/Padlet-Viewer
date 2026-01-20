@@ -396,14 +396,14 @@
                 document.getElementById('board-title').textContent = "Padlet Viewer";
             }
 
-            // '## ' で分割すると、index:0 はボードのタイトルや概要部分（Summary）になります
             const columns = markdownText.split(/^## /gm);
             
             columns.forEach((colText, index) => {
-                // 1. 概要（index:0）はカラムとして表示しない
-                if (index === 0) return;
-
                 if (colText.trim().length === 0) return;
+
+                // --- 0:タイトルブロック、1:最初のカラム を両方スキップ ---
+                if (index <= 1) return;
+                // ----------------------------------------------------
 
                 const firstLineBreak = colText.indexOf('\n');
                 let colTitle = (firstLineBreak === -1) ? colText.trim() : colText.substring(0, firstLineBreak).trim();
