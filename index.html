@@ -395,8 +395,7 @@
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 const fullText = await response.text();
                 
-                // --- 1. タイトル取得 (Markdownの1行目 # タイトル を解析) ---
-                // ※タブ名はViewer固定だが、ページ内のタイトル表示は維持
+                // --- 1. タイトル取得 ---
                 const titleMatch = fullText.match(/^# (.*)/m);
                 if (titleMatch) {
                     const boardTitle = titleMatch[1].trim();
@@ -406,29 +405,25 @@
                     document.getElementById('board-title').textContent = "Padlet Viewer";
                 }
 
-                // --- 2. 投稿数の解析（従来どおり） ---
+                // --- 2. 投稿数の解析 ---
                 const headerChunk = fullText.substring(0, 4000); 
                 const postsMatch = headerChunk.match(/(?:- )?\*\*(?:Posts|投稿):\*\* (\d+)/i);
                 const postCount = postsMatch ? postsMatch[1] : '-';
 
-                // --- 3. 最終更新日の解析（1行目の 最終更新: yyyy/mm/dd hh:mm:ss を優先） ---
+                // --- 3. 最終更新日の解析 ---
                 let updateTimeStr = '不明';
-                // 正規表現: "最終更新" または "Last Updated" + ":" + "yyyy/mm/dd hh:mm:ss"
                 const datePattern = /(?:最終更新|Last Updated)[:：]\s*(\d{4}\/\d{1,2}\/\d{1,2}\s+\d{1,2}:\d{1,2}:\d{1,2})/;
                 
-                // データの1行目を確認
                 const lines = fullText.split('\n');
                 const firstLineMatch = lines.length > 0 ? lines[0].match(datePattern) : null;
 
                 if (firstLineMatch) {
                     updateTimeStr = firstLineMatch[1];
                 } else {
-                    // 1行目にない場合、冒頭部分から検索（念の為）
                     const headerMatch = headerChunk.match(datePattern);
                     if (headerMatch) {
                         updateTimeStr = headerMatch[1];
                     } else {
-                        // フォーマットが見つからない場合のフォールバック（従来の太字検索）
                         const fallbackMatch = headerChunk.match(/(?:- )?\*\*(?:Updated At(?: \(UTC\))?|更新日(?:（UTC）)?):\*\* (.*)/i);
                         if (fallbackMatch) updateTimeStr = smartDateFormat(fallbackMatch[1]);
                     }
@@ -517,7 +512,6 @@
         function smartDateFormat(rawStr) {
             if (!rawStr) return null;
             rawStr = rawStr.trim();
-            // すでに "yyyy/mm/dd hh:mm:ss" の形式ならそのまま返す
             if (rawStr.match(/^\d{4}\/\d{1,2}\/\d{1,2}\s+\d{1,2}:\d{1,2}:\d{1,2}$/)) {
                 return rawStr;
             }
@@ -536,14 +530,12 @@
                 const monthStr = enMatch[1];
                 const day = parseInt(enMatch[2], 10);
                 const year = parseInt(enMatch[3], 10);
-                
                 const months = {
                     jan:0, january:0, feb:1, february:1, mar:2, march:2, apr:3, april:3, may:4, 
                     jun:5, june:5, jul:6, july:6, aug:7, august:7, sep:8, september:8, oct:9, october:9, 
                     nov:10, november:10, dec:11, december:11
                 };
                 const month = months[monthStr.toLowerCase()];
-                
                 if (month !== undefined) {
                     if (enMatch[4]) {
                         let hour = parseInt(enMatch[4], 10);
@@ -562,15 +554,12 @@
                     }
                 }
             }
-            
             const slashMatch = rawStr.match(/(\d{1,2})\/(\d{1,2})\s+(\d{1,2}):(\d{2})/);
             if (slashMatch) return rawStr; 
-
             const ts = Date.parse(rawStr);
             if (!isNaN(ts)) {
                 return new Date(ts).toLocaleDateString('ja-JP');
             }
-
             return rawStr;
         }
 
@@ -587,6 +576,7 @@
             const lines = text.trim().split('\n');
             const title = lines[0].trim(); 
 
+            // メタデータ取得ヘルパー
             const getMeta = (regex) => {
                 const match = text.match(regex);
                 return match ? match[1].trim() : null;
@@ -594,41 +584,41 @@
 
             const rawAuthor = getMeta(/(?:- )?\*\*(?:Author|作成者|Builder|所有者):\*\* (.*)/i) || '不明';
             const authorData = parseAuthorInfo(rawAuthor);
-            
             const postType = getMeta(/(?:- )?\*\*(?:投稿の種類|Post Type):\*\* (.*)/i);
             const customLastUpdate = getMeta(/(?:- )?\*\*(?:最終更新日|Last Updated):\*\* (.*)/i);
             const linkUrl = getMeta(/(?:- )?\*\*(?:Link|リンク):\*\* (.*)/i);
             let rawCreatedDate = getMeta(/(?:- )?\*\*(?:Created At(?: \(UTC\))?|Created At|Date Created|Creation Date|作成日（UTC）|作成日\(UTC\)|作成日):\*\* (.*)/i);
             
-            let mainContent = text;
+            // --- コンテンツとセクション（コメント等）の分割を改善 ---
+            // "#### " を区切り文字として、テキスト全体を分割する
+            // 最初のブロックが本文、それ以降は見出しをチェックして判定する
+            
+            const rawSections = text.split(/\n#### /gm);
+            let mainContent = rawSections[0];
             let commentsText = "";
             let reactionsText = "";
             let additionalInfoText = "";
 
-            const blocks = [
-                { name: 'comments', regex: /#### (?:Comments|コメント) \(\d+\)/i },
-                { name: 'reactions', regex: /#### (?:Reactions|リアクション)/i },
-                { name: 'info', regex: /#### (?:Additional Information|その他の情報)/i }
-            ];
-
-            let earliestIndex = -1;
-            blocks.forEach(b => {
-                const match = text.match(b.regex);
-                if (match) {
-                    if (earliestIndex === -1 || match.index < earliestIndex) earliestIndex = match.index;
+            // 2番目以降のブロックをループして、何の情報か判定する
+            for (let i = 1; i < rawSections.length; i++) {
+                const sectionBlock = rawSections[i];
+                // 最初の改行までが見出し
+                const firstBreak = sectionBlock.indexOf('\n');
+                const headerLine = (firstBreak === -1 ? sectionBlock : sectionBlock.substring(0, firstBreak)).trim();
+                
+                if (headerLine.match(/^(?:Comments|コメント)/i)) {
+                    commentsText = sectionBlock;
+                } else if (headerLine.match(/^(?:Reactions|リアクション)/i)) {
+                    reactionsText = sectionBlock;
+                } else if (headerLine.match(/^(?:Additional Information|その他の情報)/i)) {
+                    additionalInfoText = sectionBlock;
+                } else {
+                    // もし認識できない見出しの場合は、本文の一部として戻す（念の為）
+                    mainContent += `\n#### ${sectionBlock}`;
                 }
-            });
-
-            if (earliestIndex !== -1) {
-                mainContent = text.substring(0, earliestIndex);
-                const afterContent = text.substring(earliestIndex);
-                const splitSections = afterContent.split(/^#### /gm);
-                splitSections.forEach(sec => {
-                    if (sec.match(/^(?:Comments|コメント)/i)) commentsText = sec;
-                    else if (sec.match(/^(?:Reactions|リアクション)/i)) reactionsText = sec;
-                    else if (sec.match(/^(?:Additional Information|その他の情報)/i)) additionalInfoText = sec;
-                });
             }
+
+            // --- 解析ロジック ---
 
             const displayCreatedDate = smartDateFormat(rawCreatedDate);
             if (!rawCreatedDate && additionalInfoText) {
@@ -662,6 +652,9 @@
             if (commentsText) {
                 const commentLines = commentsText.split('\n');
                 commentLines.forEach(line => {
+                    // 見出し行（Comments (2)など）はスキップ
+                    if (line.match(/^(?:Comments|コメント)/i)) return; 
+                    
                     const m = line.match(/- \*\*(.*?)\*\* \((.*?)\): (.*)/);
                     if (m) {
                         comments.push({ user: m[1], date: smartDateFormat(m[2]), msg: m[3] });
@@ -669,9 +662,10 @@
                 });
             }
 
+            // 本文の整形
             let contentLines = mainContent.split('\n');
             if (contentLines.length > 0 && contentLines[0].includes(title)) {
-                contentLines.shift();
+                contentLines.shift(); // タイトル行を削除
             }
             let cleanContent = contentLines.join('\n');
             const patternsToRemove = [
