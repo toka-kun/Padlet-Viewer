@@ -137,7 +137,24 @@
             font-size: 0.75rem; color: #7d8590; margin-bottom: 12px;
             display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
         }
-        .card-meta-header .author { display: flex; align-items: center; gap: 4px; color: #e6edf3; font-weight: 500; }
+        
+        /* 作成者表示スタイル（通常・リンク） */
+        .card-meta-header .author, 
+        .card-meta-header .author-link { 
+            display: flex; align-items: center; gap: 4px; 
+            color: #e6edf3; font-weight: 500; 
+        }
+        /* リンクになっている場合のスタイル */
+        .author-link {
+            text-decoration: none;
+            cursor: pointer;
+            transition: color 0.2s;
+        }
+        .author-link:hover {
+            color: #58a6ff; /* Padletの青っぽい色 */
+            text-decoration: underline;
+        }
+
         .card-meta-header .date { color: #8b949e; }
 
         /* 添付ファイル・リンクエリア */
@@ -319,7 +336,7 @@
         async function fetchAndRender() {
             const loadingDiv = document.getElementById('loading');
             const errorDiv = document.getElementById('error-message');
-            const metaInfoDiv = document.getElementById('meta-info'); // ID変更
+            const metaInfoDiv = document.getElementById('meta-info');
             const canvas = document.getElementById('board-canvas');
 
             try {
@@ -327,23 +344,18 @@
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 const fullText = await response.text();
                 
-                // --- 投稿数の抽出（新規追加） ---
-                // 概要エリアなどにある "**Posts:** 123" を探す
-                // ファイル冒頭4000文字程度を確認すれば十分
+                // --- 投稿数の抽出 ---
                 const headerChunk = fullText.substring(0, 4000); 
                 const postsMatch = headerChunk.match(/(?:- )?\*\*(?:Posts|投稿):\*\* (\d+)/i);
                 const postCount = postsMatch ? postsMatch[1] : '-';
 
                 // --- データの分割処理 ---
-                // フォーマット: "更新日時\n\nMarkdown本文..."
                 const splitIndex = fullText.indexOf('\n\n');
                 let updateTimeStr = '最終更新: 不明';
                 let markdownContent = fullText;
 
                 if (splitIndex !== -1) {
-                    // 1行目の更新日時を取得
                     updateTimeStr = fullText.substring(0, splitIndex).trim();
-                    // 本文を取得
                     markdownContent = fullText.substring(splitIndex + 2);
                 } else {
                     const firstLineBreak = fullText.indexOf('\n');
@@ -355,7 +367,6 @@
                 
                 loadingDiv.remove();
                 
-                // ヘッダーに情報を表示 (投稿数 + 更新日)
                 metaInfoDiv.innerHTML = `
                     <span>📊 投稿数: ${postCount}</span>
                     <span>${escapeHtml(updateTimeStr)}</span>
@@ -376,7 +387,6 @@
         }
 
         function renderBoard(markdownText, canvas) {
-            // --- Markdownのタイトル行(# ...)を取得してヘッダーに反映 ---
             const titleMatch = markdownText.match(/^# (.*)/);
             if (titleMatch) {
                 const boardTitle = titleMatch[1].trim();
@@ -385,7 +395,6 @@
             } else {
                 document.getElementById('board-title').textContent = "Padlet Viewer";
             }
-            // --------------------------------------------------------
 
             const columns = markdownText.split(/^## /gm);
             
@@ -436,7 +445,6 @@
             });
         }
 
-        // --- 日時解析関数 ---
         function smartDateFormat(rawStr) {
             if (!rawStr) return null;
             
@@ -506,9 +514,21 @@
                 return match ? match[1].trim() : null;
             };
 
-            const author = getMeta(/(?:- )?\*\*(?:Author|作成者|Builder):\*\* (.*)/i) || '不明';
+            // 作成者の取得
+            let authorRaw = getMeta(/(?:- )?\*\*(?:Author|作成者|Builder):\*\* (.*)/i) || '不明';
+            let authorName = authorRaw;
+            let authorUrl = null;
+
+            // "Display Name (Username)" 形式の解析
+            // 例: ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_) -> Display: ᏁγᎶ » Tøka_Kuŋ_, Link: Toka_Kun_
+            const authorMatch = authorRaw.match(/^(.*)\s\((.*)\)$/);
+            if (authorMatch) {
+                authorName = authorMatch[1].trim(); // 表示名
+                const username = authorMatch[2].trim(); // ユーザーID
+                authorUrl = `https://padlet.com/${username}`;
+            }
+
             const color = getMeta(/(?:- )?\*\*(?:Post color|Color|投稿のカラー):\*\* (.*)/i) || 'White';
-            
             const postType = getMeta(/(?:- )?\*\*(?:投稿の種類|Post Type):\*\* (.*)/i);
             const customLastUpdate = getMeta(/(?:- )?\*\*(?:最終更新日|Last Updated|Updated At|更新日|更新日\(UTC\)):\*\* (.*)/i);
             const linkUrl = getMeta(/(?:- )?\*\*(?:Link|リンク):\*\* (.*)/i);
@@ -562,7 +582,8 @@
 
             return {
                 title: title,
-                author: author,
+                author: authorName,   // 加工後の名前
+                authorUrl: authorUrl, // 生成したURL（なければnull）
                 color: color,
                 content: content.trim(),
                 comments: comments,
@@ -643,11 +664,19 @@
             const rawHtml = marked.parse(data.content);
             const cleanHtml = DOMPurify.sanitize(rawHtml, { ADD_ATTR: ['target', 'class'] });
 
+            // 作成者表示の分岐（URLがある場合はリンクにする）
+            let authorHtml = '';
+            if (data.authorUrl) {
+                authorHtml = `<a href="${escapeHtml(data.authorUrl)}" target="_blank" class="author-link">👤 ${escapeHtml(data.author)}</a>`;
+            } else {
+                authorHtml = `<span class="author">👤 ${escapeHtml(data.author)}</span>`;
+            }
+
             el.innerHTML = `
                 <div class="card-title">${escapeHtml(data.title)}</div>
                 
                 <div class="card-meta-header">
-                    <span class="author">👤 ${escapeHtml(data.author)}</span>
+                    ${authorHtml}
                     ${data.createdDate ? `<span class="date"> • ${escapeHtml(data.createdDate)}</span>` : ''}
                 </div>
 
