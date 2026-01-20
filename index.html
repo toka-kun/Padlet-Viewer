@@ -1,3 +1,17 @@
+申し訳ありません。コードを統合する際に、過去のご要望（ページタイトルの取得ロジックなど）が一部漏れてしまっていました。
+
+ご指摘の通り、これまでの全てのご要望を反映させた「完全版」のコードを作成しました。
+
+**このコードに含まれる機能:**
+
+1. **タイトル自動取得:** マークダウン内の `# 見出し` を解析し、画面左上のタイトルとブラウザのタブ名に反映させます。
+2. **ヘッダー情報:** 「投稿数」と「更新日」を要約セクションから取得してヘッダー右側に表示します。
+3. **レイアウト崩れ防止:** 長いURL、長い英単語、長いユーザー名があっても、強制的に折り返して表示を崩しません（前回の修正内容）。
+4. **基本機能:** マークダウン変換、カード色分け、画像表示、コメント・リアクション表示など。
+
+以下のコードですべて上書きしてください。
+
+```html
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -91,6 +105,11 @@
             border-radius: 6px 6px 0 0;
             flex-shrink: 0;
             position: sticky; top: 0; z-index: 10;
+            
+            /* 長いタイトル対策 */
+            white-space: normal;
+            word-break: break-word;
+            overflow-wrap: anywhere;
         }
 
         .column-body {
@@ -116,6 +135,10 @@
             transition: all 0.2s cubic-bezier(0.3, 0, 0.5, 1);
             width: 100%; 
             box-sizing: border-box;
+            
+            /* はみ出し防止の重要設定 */
+            overflow: hidden; 
+            word-wrap: break-word;
         }
         .card:hover {
             border-color: #8b949e;
@@ -136,18 +159,29 @@
         .card-title {
             font-size: 1rem; font-weight: 600; margin-bottom: 4px;
             color: #58a6ff; line-height: 1.4;
+            
+            /* 長い単語を強制的に折り返す */
+            overflow-wrap: anywhere;
             word-break: break-word;
         }
         .card-meta-header {
             font-size: 0.75rem; color: #7d8590; margin-bottom: 12px;
             display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
+            line-height: 1.4;
         }
-        .card-meta-header .author { display: flex; align-items: center; gap: 4px; color: #e6edf3; font-weight: 500; }
-        .card-meta-header .date { color: #8b949e; }
+        .card-meta-header .author { 
+            display: inline-flex; align-items: center; gap: 4px; 
+            color: #e6edf3; font-weight: 500;
+            max-width: 100%;
+        }
+        .card-meta-header .date { color: #8b949e; white-space: nowrap; }
         
         /* 作成者リンクのスタイル */
         .author-link {
             color: #e6edf3; text-decoration: none; cursor: pointer;
+            /* 長いユーザー名対策 */
+            overflow-wrap: anywhere;
+            word-break: break-all; 
         }
         .author-link:hover {
             color: #58a6ff; text-decoration: underline;
@@ -157,11 +191,13 @@
         .attachment-area {
             margin-bottom: 12px;
             display: flex; flex-direction: column; gap: 8px;
+            width: 100%; /* 親要素に合わせる */
         }
         .attachment-area img {
             max-width: 100%; height: auto;
             border-radius: 4px; border: 1px solid #30363d;
             display: block;
+            object-fit: contain; /* アスペクト比維持 */
         }
 
         /* 共通ボタンスタイル */
@@ -177,6 +213,13 @@
             transition: background 0.2s;
             font-weight: 600;
             width: fit-content;
+            max-width: 100%; /* はみ出し防止 */
+            box-sizing: border-box;
+            
+            /* テキストが長い場合 */
+            white-space: nowrap; 
+            overflow: hidden; 
+            text-overflow: ellipsis; 
         }
         .action-link:hover {
             background-color: #30363d;
@@ -188,14 +231,33 @@
         .card-content {
             font-size: 0.85rem; line-height: 1.6; color: #c9d1d9;
             margin-bottom: 12px; 
-            overflow-wrap: break-word; word-break: break-word;
+            
+            /* コンテンツはみ出し防止の最強設定 */
+            overflow-wrap: anywhere; 
+            word-break: break-word;
+            
+            /* テーブルやコードブロックが広い場合のスクロール */
+            overflow-x: auto; 
         }
-        .card-content img { 
+        .card-content img, .card-content video, .card-content iframe { 
             max-width: 100%; height: auto; 
             border-radius: 4px; border: 1px solid #30363d; 
             margin-top: 8px; margin-bottom: 6px; display: block;
         }
-        .card-content a { color: #58a6ff; text-decoration: none; }
+        .card-content pre {
+            background: #161b22; padding: 8px; border-radius: 4px;
+            overflow-x: auto; /* コードブロックのスクロール */
+            white-space: pre-wrap; /* 必要に応じて折り返す */
+            word-break: break-all;
+        }
+        .card-content table {
+            display: block; width: 100%; overflow-x: auto; /* テーブルスクロール */
+            border-collapse: collapse;
+        }
+        .card-content a { 
+            color: #58a6ff; text-decoration: none; 
+            word-break: break-all; /* 長いURLの折り返し */
+        }
         .card-content a:hover { text-decoration: underline; }
 
         /* カスタムフィールド表示エリア */
@@ -208,9 +270,12 @@
             color: #c9d1d9;
             border: 1px solid rgba(48, 54, 61, 0.5);
         }
-        .custom-field-row { display: flex; gap: 6px; margin-bottom: 2px; }
+        .custom-field-row { display: flex; gap: 6px; margin-bottom: 2px; flex-wrap: wrap; }
         .custom-field-row:last-child { margin-bottom: 0; }
-        .custom-field-label { color: #8b949e; font-weight: 600; min-width: 80px; }
+        .custom-field-label { color: #8b949e; font-weight: 600; min-width: 80px; flex-shrink: 0; }
+        .custom-field-row span:last-child { 
+            overflow-wrap: anywhere; word-break: break-word; 
+        }
 
         /* リアクション */
         .reactions-section {
@@ -243,13 +308,29 @@
         }
         .comment-item {
             font-size: 0.8rem; padding: 8px 0; border-bottom: 1px solid #21262d;
-            word-break: break-all;
+            /* コメントのはみ出し防止 */
+            word-break: break-word;
+            overflow-wrap: anywhere;
         }
         .comment-item:last-child { border-bottom: none; }
-        .comment-top { display: flex; justify-content: space-between; margin-bottom: 2px; font-size: 0.75rem; }
-        .comment-user { color: #e6edf3; font-weight: bold; }
-        .comment-date { color: #7d8590; }
-        .comment-msg { color: #c9d1d9; word-break: break-all; }
+        .comment-top { 
+            display: flex; justify-content: space-between; margin-bottom: 4px; 
+            font-size: 0.75rem; gap: 8px; 
+        }
+        .comment-user { 
+            color: #e6edf3; font-weight: bold; 
+            /* ユーザー名が長い場合 */
+            overflow-wrap: anywhere;
+            word-break: break-all;
+            min-width: 0; /* Flexbox内での縮小許可 */
+        }
+        .comment-date { 
+            color: #7d8590; flex-shrink: 0; 
+        }
+        .comment-msg { 
+            color: #c9d1d9; 
+            overflow-wrap: anywhere; /* どんな長い単語も折り返す */
+        }
 
         /* ロード・エラー */
         #loading { width: 100%; height: 100%; display: flex; padding: 20px; gap: 20px; }
@@ -279,7 +360,7 @@
             #board-canvas { scroll-snap-type: x mandatory; padding: 16px; gap: 16px; }
             header { flex-wrap: wrap; height: auto; padding: 10px 16px; gap: 8px; }
             header h1 { font-size: 0.9rem; max-width: 100%; width: 100%; }
-            header .meta-info { margin-left: 0; width: 100%; justify-content: flex-start; font-size: 0.75rem; }
+            header .meta-info { margin-left: 0; width: 100%; justify-content: flex-start; font-size: 0.75rem; flex-wrap: wrap;}
         }
     </style>
 </head>
@@ -317,6 +398,13 @@
         renderer.link = function(href, title, text) {
             return `<a href="${href}" target="_blank" rel="noopener noreferrer">${text}</a>`;
         };
+        // テーブルのスタイルをあてる
+        renderer.table = function(header, body) {
+            return `<table style="border-collapse: collapse; width:100%; margin: 8px 0; font-size:0.8rem;">
+                <thead>${header}</thead>
+                <tbody>${body}</tbody>
+            </table>`;
+        };
         marked.setOptions({ renderer: renderer, breaks: true });
 
         DOMPurify.addHook('afterSanitizeAttributes', function (node) {
@@ -330,6 +418,7 @@
             const loadingDiv = document.getElementById('loading');
             const errorDiv = document.getElementById('error-message');
             const metaInfoDiv = document.getElementById('meta-info');
+            const titleEl = document.getElementById('board-title');
             const canvas = document.getElementById('board-canvas');
 
             try {
@@ -337,36 +426,40 @@
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 const fullText = await response.text();
                 
-                // --- ヘッダー情報の解析 (最初の4000文字程度を確認) ---
+                // --- 1. タイトル取得 (マークダウンの最初の # 見出しを取得) ---
+                // ここで以前のご要望を反映: 静的なタイトルではなくマークダウンの中身から取得
+                const titleMatch = fullText.match(/^# (.*)/m); 
+                if (titleMatch) {
+                    const extractedTitle = titleMatch[1].trim();
+                    titleEl.textContent = extractedTitle;
+                    document.title = extractedTitle; // ブラウザのタブ名も更新
+                } else {
+                    titleEl.textContent = "Padlet Viewer";
+                }
+
+                // --- 2. ヘッダー情報の解析 (要約セクションから) ---
                 const headerChunk = fullText.substring(0, 4000);
 
-                // 1. 投稿数 (Posts) を抽出
-                // 英語: "**Posts:** 398", 日本語: "**投稿:** 398" に対応
                 const postsMatch = headerChunk.match(/(?:- )?\*\*(?:Posts|投稿):\*\* (\d+)/i);
                 const postCount = postsMatch ? postsMatch[1] : '-';
 
-                // 2. 更新日 (Updated At) を抽出
                 const updateMatch = headerChunk.match(/(?:- )?\*\*(?:Updated At(?: \(UTC\))?|更新日(?:（UTC）)?):\*\* (.*)/i);
                 let updateTimeStr = updateMatch ? updateMatch[1].trim() : '不明';
                 updateTimeStr = smartDateFormat(updateTimeStr) || updateTimeStr;
 
-                // ヘッダーDOM更新
                 metaInfoDiv.innerHTML = `
                     <span>📊 投稿数: ${postCount}</span>
                     <span>🕒 更新: ${updateTimeStr}</span>
                 `;
 
-                // --- データの分割処理 ---
-                // Summaryセクションと本文セクションを切り分ける
-                // "## " (カラムの開始) が出てくるまでをSummaryとみなす
+                // --- 3. コンテンツの分割処理 ---
                 const firstColumnIndex = fullText.indexOf('\n## ');
                 let markdownContent = fullText;
 
                 if (firstColumnIndex !== -1) {
-                    // 最初のカラム以降を本文として扱う
+                    // 最初の ## (カラム) 以降を本文とする
                     markdownContent = fullText.substring(firstColumnIndex + 1);
                 } else {
-                    // カラムが見つからない場合は、Summaryの直後を探す（簡易的なフォールバック）
                     const splitIndex = fullText.indexOf('\n\n');
                     if (splitIndex !== -1) {
                          markdownContent = fullText.substring(splitIndex + 2);
@@ -374,7 +467,7 @@
                 }
                 
                 loadingDiv.remove();
-                renderBoard(markdownContent, fullText, canvas); // fullTextも渡してタイトル解析に使う
+                renderBoard(markdownContent, canvas);
 
             } catch (error) {
                 console.error('Fetch error:', error);
@@ -388,17 +481,7 @@
             }
         }
 
-        function renderBoard(content, fullText, canvas) {
-            // タイトル行(# ...) を fullText から探す
-            const titleMatch = fullText.match(/^# (.*)/);
-            if (titleMatch) {
-                const boardTitle = titleMatch[1].trim();
-                const titleEl = document.getElementById('board-title');
-                if (titleEl) titleEl.textContent = boardTitle;
-            } else {
-                document.getElementById('board-title').textContent = "Padlet Viewer";
-            }
-
+        function renderBoard(content, canvas) {
             const columns = content.split(/^## /gm);
             
             columns.forEach((colText, index) => {
@@ -408,7 +491,7 @@
                 let colTitle = (firstLineBreak === -1) ? colText.trim() : colText.substring(0, firstLineBreak).trim();
                 let colContent = (firstLineBreak === -1) ? '' : colText.substring(firstLineBreak + 1);
                 
-                // Summaryセクションそのものがカラムとして混ざらないように除外（通常は上でカットしているが念のため）
+                // 要約セクションなどはカラムとして表示しない
                 if (colTitle.toLowerCase() === 'summary' || colTitle === '要約') return;
 
                 const colDiv = document.createElement('div');
@@ -421,10 +504,11 @@
 
                 let cardsData = colContent.split(/^### /gm);
 
+                // もしカード構造(###)がなく、テキストだけのカラムの場合
                 if (cardsData.length === 1 && !colContent.includes('### ')) {
                     const contentStr = cardsData[0].trim();
                     if (contentStr) {
-                         // カード構造がないテキストだけのカラムの場合の処理
+                         // ダミーカードとして表示
                          cardsData = [`${colTitle} 概要\n${contentStr}`];
                     } else {
                         cardsData = [];
@@ -504,7 +588,6 @@
             return rawStr;
         }
 
-        // --- 作成者解析関数 ---
         function parseAuthorInfo(rawAuthor) {
             if (!rawAuthor) return { name: '不明', url: null };
             const match = rawAuthor.match(/^(.*?)\s+\(([^()]+)\)$/);
@@ -536,6 +619,7 @@
             let reactionsText = "";
             let additionalInfoText = "";
 
+            // セクション分割（コメント、リアクションなど）
             const blocks = [
                 { name: 'comments', regex: /#### (?:Comments|コメント) \(\d+\)/i },
                 { name: 'reactions', regex: /#### (?:Reactions|リアクション)/i },
@@ -740,3 +824,5 @@
     </script>
 </body>
 </html>
+
+```
