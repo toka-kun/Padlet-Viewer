@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Padlet Viewer</title>
+    <title>Viewer</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
     
@@ -68,7 +68,6 @@
         /* --- カラム（列） --- */
         .column {
             background-color: #161b22;
-            /* 横幅を固定 */
             width: 350px;
             min-width: 350px;
             max-width: 350px;
@@ -177,13 +176,13 @@
         .attachment-area {
             margin-bottom: 12px;
             display: flex; flex-direction: column; gap: 8px;
-            width: 100%; /* 親要素に合わせる */
+            width: 100%;
         }
         .attachment-area img {
             max-width: 100%; height: auto;
             border-radius: 4px; border: 1px solid #30363d;
             display: block;
-            object-fit: contain; /* アスペクト比維持 */
+            object-fit: contain;
         }
 
         /* 共通ボタンスタイル */
@@ -199,10 +198,8 @@
             transition: background 0.2s;
             font-weight: 600;
             width: fit-content;
-            max-width: 100%; /* はみ出し防止 */
+            max-width: 100%;
             box-sizing: border-box;
-            
-            /* テキストが長い場合 */
             white-space: nowrap; 
             overflow: hidden; 
             text-overflow: ellipsis; 
@@ -217,11 +214,9 @@
         .card-content {
             font-size: 0.85rem; line-height: 1.6; color: #c9d1d9;
             margin-bottom: 12px; 
-            
-            /* コンテンツはみ出し防止の最強設定 */
+            /* コンテンツはみ出し防止 */
             overflow-wrap: anywhere; 
             word-break: break-word;
-            
             /* テーブルやコードブロックが広い場合のスクロール */
             overflow-x: auto; 
         }
@@ -232,17 +227,15 @@
         }
         .card-content pre {
             background: #161b22; padding: 8px; border-radius: 4px;
-            overflow-x: auto; /* コードブロックのスクロール */
-            white-space: pre-wrap; /* 必要に応じて折り返す */
-            word-break: break-all;
+            overflow-x: auto; white-space: pre-wrap; word-break: break-all;
         }
         .card-content table {
-            display: block; width: 100%; overflow-x: auto; /* テーブルスクロール */
+            display: block; width: 100%; overflow-x: auto;
             border-collapse: collapse;
         }
         .card-content a { 
             color: #58a6ff; text-decoration: none; 
-            word-break: break-all; /* 長いURLの折り返し */
+            word-break: break-all;
         }
         .card-content a:hover { text-decoration: underline; }
 
@@ -259,9 +252,7 @@
         .custom-field-row { display: flex; gap: 6px; margin-bottom: 2px; flex-wrap: wrap; }
         .custom-field-row:last-child { margin-bottom: 0; }
         .custom-field-label { color: #8b949e; font-weight: 600; min-width: 80px; flex-shrink: 0; }
-        .custom-field-row span:last-child { 
-            overflow-wrap: anywhere; word-break: break-word; 
-        }
+        .custom-field-row span:last-child { overflow-wrap: anywhere; word-break: break-word; }
 
         /* リアクション */
         .reactions-section {
@@ -294,9 +285,7 @@
         }
         .comment-item {
             font-size: 0.8rem; padding: 8px 0; border-bottom: 1px solid #21262d;
-            /* コメントのはみ出し防止 */
-            word-break: break-word;
-            overflow-wrap: anywhere;
+            word-break: break-word; overflow-wrap: anywhere;
         }
         .comment-item:last-child { border-bottom: none; }
         .comment-top { 
@@ -305,18 +294,10 @@
         }
         .comment-user { 
             color: #e6edf3; font-weight: bold; 
-            /* ユーザー名が長い場合 */
-            overflow-wrap: anywhere;
-            word-break: break-all;
-            min-width: 0; /* Flexbox内での縮小許可 */
+            overflow-wrap: anywhere; word-break: break-all; min-width: 0; 
         }
-        .comment-date { 
-            color: #7d8590; flex-shrink: 0; 
-        }
-        .comment-msg { 
-            color: #c9d1d9; 
-            overflow-wrap: anywhere; /* どんな長い単語も折り返す */
-        }
+        .comment-date { color: #7d8590; flex-shrink: 0; }
+        .comment-msg { color: #c9d1d9; overflow-wrap: anywhere; }
 
         /* ロード・エラー */
         #loading { width: 100%; height: 100%; display: flex; padding: 20px; gap: 20px; }
@@ -384,7 +365,7 @@
         renderer.link = function(href, title, text) {
             return `<a href="${href}" target="_blank" rel="noopener noreferrer">${text}</a>`;
         };
-        // テーブルのスタイルをあてる
+        // テーブルのスタイル
         renderer.table = function(header, body) {
             return `<table style="border-collapse: collapse; width:100%; margin: 8px 0; font-size:0.8rem;">
                 <thead>${header}</thead>
@@ -404,46 +385,65 @@
             const loadingDiv = document.getElementById('loading');
             const errorDiv = document.getElementById('error-message');
             const metaInfoDiv = document.getElementById('meta-info');
-            const titleEl = document.getElementById('board-title');
             const canvas = document.getElementById('board-canvas');
+
+            // タブ名は固定でViewer
+            document.title = "Viewer";
 
             try {
                 const response = await fetch(`${markdownUrl}?t=${new Date().getTime()}`);
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 const fullText = await response.text();
                 
-                // --- 1. タイトル取得 (マークダウンの最初の # 見出しを取得) ---
-                // ここで以前のご要望を反映: 静的なタイトルではなくマークダウンの中身から取得
-                const titleMatch = fullText.match(/^# (.*)/m); 
+                // --- 1. タイトル取得 (Markdownの1行目 # タイトル を解析) ---
+                // ※タブ名はViewer固定だが、ページ内のタイトル表示は維持
+                const titleMatch = fullText.match(/^# (.*)/m);
                 if (titleMatch) {
-                    const extractedTitle = titleMatch[1].trim();
-                    titleEl.textContent = extractedTitle;
-                    document.title = extractedTitle; // ブラウザのタブ名も更新
+                    const boardTitle = titleMatch[1].trim();
+                    const titleEl = document.getElementById('board-title');
+                    if (titleEl) titleEl.textContent = boardTitle;
                 } else {
-                    titleEl.textContent = "Padlet Viewer";
+                    document.getElementById('board-title').textContent = "Padlet Viewer";
                 }
 
-                // --- 2. ヘッダー情報の解析 (要約セクションから) ---
-                const headerChunk = fullText.substring(0, 4000);
-
+                // --- 2. 投稿数の解析（従来どおり） ---
+                const headerChunk = fullText.substring(0, 4000); 
                 const postsMatch = headerChunk.match(/(?:- )?\*\*(?:Posts|投稿):\*\* (\d+)/i);
                 const postCount = postsMatch ? postsMatch[1] : '-';
 
-                const updateMatch = headerChunk.match(/(?:- )?\*\*(?:Updated At(?: \(UTC\))?|更新日(?:（UTC）)?):\*\* (.*)/i);
-                let updateTimeStr = updateMatch ? updateMatch[1].trim() : '不明';
-                updateTimeStr = smartDateFormat(updateTimeStr) || updateTimeStr;
+                // --- 3. 最終更新日の解析（1行目の 最終更新: yyyy/mm/dd hh:mm:ss を優先） ---
+                let updateTimeStr = '不明';
+                // 正規表現: "最終更新" または "Last Updated" + ":" + "yyyy/mm/dd hh:mm:ss"
+                const datePattern = /(?:最終更新|Last Updated)[:：]\s*(\d{4}\/\d{1,2}\/\d{1,2}\s+\d{1,2}:\d{1,2}:\d{1,2})/;
+                
+                // データの1行目を確認
+                const lines = fullText.split('\n');
+                const firstLineMatch = lines.length > 0 ? lines[0].match(datePattern) : null;
+
+                if (firstLineMatch) {
+                    updateTimeStr = firstLineMatch[1];
+                } else {
+                    // 1行目にない場合、冒頭部分から検索（念の為）
+                    const headerMatch = headerChunk.match(datePattern);
+                    if (headerMatch) {
+                        updateTimeStr = headerMatch[1];
+                    } else {
+                        // フォーマットが見つからない場合のフォールバック（従来の太字検索）
+                        const fallbackMatch = headerChunk.match(/(?:- )?\*\*(?:Updated At(?: \(UTC\))?|更新日(?:（UTC）)?):\*\* (.*)/i);
+                        if (fallbackMatch) updateTimeStr = smartDateFormat(fallbackMatch[1]);
+                    }
+                }
 
                 metaInfoDiv.innerHTML = `
                     <span>📊 投稿数: ${postCount}</span>
                     <span>🕒 更新: ${updateTimeStr}</span>
                 `;
 
-                // --- 3. コンテンツの分割処理 ---
+                // --- 4. データの分割処理 ---
                 const firstColumnIndex = fullText.indexOf('\n## ');
                 let markdownContent = fullText;
 
                 if (firstColumnIndex !== -1) {
-                    // 最初の ## (カラム) 以降を本文とする
                     markdownContent = fullText.substring(firstColumnIndex + 1);
                 } else {
                     const splitIndex = fullText.indexOf('\n\n');
@@ -477,7 +477,6 @@
                 let colTitle = (firstLineBreak === -1) ? colText.trim() : colText.substring(0, firstLineBreak).trim();
                 let colContent = (firstLineBreak === -1) ? '' : colText.substring(firstLineBreak + 1);
                 
-                // 要約セクションなどはカラムとして表示しない
                 if (colTitle.toLowerCase() === 'summary' || colTitle === '要約') return;
 
                 const colDiv = document.createElement('div');
@@ -490,11 +489,9 @@
 
                 let cardsData = colContent.split(/^### /gm);
 
-                // もしカード構造(###)がなく、テキストだけのカラムの場合
                 if (cardsData.length === 1 && !colContent.includes('### ')) {
                     const contentStr = cardsData[0].trim();
                     if (contentStr) {
-                         // ダミーカードとして表示
                          cardsData = [`${colTitle} 概要\n${contentStr}`];
                     } else {
                         cardsData = [];
@@ -517,10 +514,13 @@
             });
         }
 
-        // --- 日時解析関数 ---
         function smartDateFormat(rawStr) {
             if (!rawStr) return null;
             rawStr = rawStr.trim();
+            // すでに "yyyy/mm/dd hh:mm:ss" の形式ならそのまま返す
+            if (rawStr.match(/^\d{4}\/\d{1,2}\/\d{1,2}\s+\d{1,2}:\d{1,2}:\d{1,2}$/)) {
+                return rawStr;
+            }
 
             const jpMonthMatch = rawStr.match(/(\d+)月\s+(\d+),\s+(\d{4})/);
             if (jpMonthMatch) {
@@ -605,7 +605,6 @@
             let reactionsText = "";
             let additionalInfoText = "";
 
-            // セクション分割（コメント、リアクションなど）
             const blocks = [
                 { name: 'comments', regex: /#### (?:Comments|コメント) \(\d+\)/i },
                 { name: 'reactions', regex: /#### (?:Reactions|リアクション)/i },
