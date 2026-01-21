@@ -1,4 +1,4 @@
-最終更新: 2026/01/20 21:54:17
+最終更新: 2026/01/21 10:54:23
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 20, 2026 12:11pm
+- **Updated At (UTC):** Jan 20, 2026 11:33pm
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (58)
+#### Comments (59)
 - **削除済みユーザー** (Jan 16, 2026 02:42pm):  
 - **sanae1212** (Jan 16, 2026 07:44am): 入れて！
 - **woolisbest** (Jan 17, 2026 12:12pm): おい
@@ -52,6 +52,7 @@
 - **woolisbest** (Jan 15, 2026 06:53am): ok
 - **woolisbest** (Jan 16, 2026 07:09am): ok
 - **マダタスカル** (Jan 13, 2026 10:31pm): いれて
+- **無名の光** (Jan 20, 2026 11:33pm): 入りたいです
 - **Yusho** (Jan 20, 2026 09:47am): 入れてくだせぇ
 - **わきぢゃん** (Jan 20, 2026 09:49am): 入れて
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Jan 15, 2026 11:34am): いれて⭐︎
