@@ -1,4 +1,4 @@
-最終更新: 2026/01/21 17:34:40
+最終更新: 2026/01/21 18:34:32
 
 # Padletポータルワールド
 
@@ -1193,7 +1193,7 @@
 ---
 
 ### 49. 俺と話したいやつきて
-**Author:** ℐ𝒮𝒜ℳℐ (Isami0314)
+**Author:** ℐ𝒮𝒜ℳℐ#参代目かわうそ族 (Isami0314)
 
 <p>とくにない</p>
 
@@ -1554,7 +1554,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769589279&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mNiayJxgQrH%2BVVUodliBpiei9ww5CEe%2FJAE%2Fuy%2Fg2FjhwWPVsmMSGqGEGef5OFUk2%2BiDLvIYQtMZKFHFit1EHJB%2B1cvkq4JZlWk5zSJ5o2qTEh5vQnxPe9vvzkFMzmL%2Bu27J06MI8BJtpOaSw7m2UEehtYwUnhnELtrDgfOw05o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769592872&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QiFZX1QLsYgqR48QgNB14fbfqfP7hAwQc4xhhhmS10b3LnKl9g0atYMsjqHk%2FqrE%2ByN3G%2F4Sb6INOq51wQR0Yz2VgfTP5YcFwN8vIYcAf7ff0r%2F%2FvcxEhEXoTUDN8xPT6X0sWr3quDRDekSShUAFSoBPtj9E3zkHiAhU53PMecY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
