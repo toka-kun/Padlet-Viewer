@@ -1,4 +1,4 @@
-最終更新: 2026/01/18 16:21:12
+最終更新: 2026/01/21 22:48:14
 
 # 荒らし対策室
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-i0fd897smvjo0tvj
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 10
+- **Posts:** 11
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Jan 17, 2026 11:35pm
+- **Updated At (UTC):** Jan 21, 2026 01:39pm
 
 ## リンク集
 
@@ -109,7 +109,17 @@
 
 ## 保管倉庫①
 
-### 1. げろろん
+### 1. あ
+**Author:** かいとぢゃん (HALVES_LOVE)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Nov 27, 2025 05:26pm
+- **Updated At (UTC):** Jan 21, 2026 01:39pm
+
+---
+
+### 2. げろろん
 **Author:** げろろん (keron)
 
 #### Additional Information
@@ -119,7 +129,7 @@
 
 ---
 
-### 2. かいと
+### 3. かいと
 **Author:** かいとぢゃん (HALVES_LOVE)
 
 #### Additional Information
@@ -129,7 +139,7 @@
 
 ---
 
-### 3. レイ
+### 4. レイ
 **Author:** レイ　#最近ていふ (rei_ryu)
 
 #### Reactions
@@ -143,7 +153,7 @@
 
 ---
 
-### 4. たたたんこ
+### 5. たたたんこ
 **Author:** たたたんこ (Tatatanko)
 
 #### Reactions
@@ -157,7 +167,7 @@
 
 ---
 
-### 5. キット（偽エドガー）
+### 6. キット（偽エドガー）
 **Author:** エドガー (edoga125)
 
 #### Reactions
