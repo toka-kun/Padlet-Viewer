@@ -1,4 +1,4 @@
-最終更新: 2026/01/21 20:25:39
+最終更新: 2026/01/21 21:53:37
 
 # Padletポータルワールド
 
@@ -94,7 +94,7 @@
 ## Padletポータルワールド
 
 ### 1. パップル
-**Author:** ハハハ屋は　りおとの部下　受験合格 (fawefwt123451234)
+**Author:** ハハハ屋は　クロツキ側についた (fawefwt123451234)
 
 <p>恋愛ができる</p><p><br/></p>
 
@@ -111,7 +111,7 @@
 [Attachment](https://padlet.com/padlets/avu9w4vz37yzwkp4)
 
 #### Comments (1)
-- **ハハハ屋は　りおとの部下　受験合格** (Jan 20, 2026 01:01am): いいよこいよ
+- **ハハハ屋は　クロツキ側についた** (Jan 20, 2026 01:01am): いいよこいよ
 
 #### Additional Information
 - **Post color:** White
@@ -1554,7 +1554,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769599539&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QwG8eD%2B26jcC9q%2FWD8vWrwdR%2Fxz3iee9Y2NgQkxN5BdZPs9BwR5T2Q9G3XrqKIsDt%2FyuyKoEwj%2B4B4I9BSlnyw%2FdF7n50%2Fdw7YFL9ZjFymebDzDg7z49foqVa7%2FLAXPaA626H%2FqPNBOz2qwWPqb1Hz2T6tkpiyqtAlC6fiRmaBs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769604817&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ELXe0%2BIVtiLVNLHrb7sYeG3OJ6ZOcb7sBHCE8IPOyr9dk5Z%2F56%2B5CILfHg%2BV2vX4wnbc07U4XPfz6iQBJ8LlxS1rNNrZFKYzYLK4cYlW95zp0Qt1EY3MtmQBa7doA2DQI%2FSQdsZf11MPeggvfToBl3LO4r1J9oL6lJqfHr1AENE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
