@@ -617,7 +617,19 @@
             if (data.attachmentUrl || data.linkUrl) {
                 mediaHtml += '<div class="attachment-area">';
                 if (data.attachmentUrl) {
-                    mediaHtml += `<img src="${escapeHtml(data.attachmentUrl)}" alt="Attachment">`;
+                    // URLが Padlet の padlets/ ディレクトリを含むかチェック
+                    if (data.attachmentUrl.includes('padlet.com/padlets/')) {
+                        // 末尾のスラッシュを削除し、プレビュー用のパスを結合
+                        const embedUrl = data.attachmentUrl.replace(/\/$/, '') + '/embeds/preview_embed';
+
+                        // iframeで埋め込み表示 (高さなどは適宜調整してください)
+                        mediaHtml += `<iframe src="${escapeHtml(embedUrl)}" style="width:100%; height:250px; border:1px solid #30363d; border-radius:4px; margin-bottom:8px;" allow="camera;microphone;geolocation"></iframe>`;
+                    } else {
+                        // それ以外は通常の画像として表示
+                        mediaHtml += `<img src="${escapeHtml(data.attachmentUrl)}" alt="Attachment">`;
+                    }
+
+                    // 添付ファイルボタンは共通で表示
                     mediaHtml += `<a href="${escapeHtml(data.attachmentUrl)}" target="_blank" class="action-link">📎 添付ファイル</a>`;
                 }
                 if (data.linkUrl && data.linkUrl !== data.attachmentUrl) {
