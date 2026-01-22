@@ -1,4 +1,4 @@
-最終更新: 2026/01/23 05:29:32
+最終更新: 2026/01/23 06:25:19
 
 # アーカイブ
 
@@ -36,7 +36,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769718566&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YAClVbmZjfUwZARwXyO%2FSnWkLNHlSGhW9XIhYt3fDZw2TtCTiLPYP4qIFgTo0llaUfnAmjAajWhLmYHQrYuVnXorgSr0G%2Brae%2BcrQqm%2F32JaWsVPcB%2BOGEsuSYIPQPzihB%2BrugldVnZ4lBhEBVIXNSgfDQM7kcqvArwiTsZlUbY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769721913&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CwZMFXEisX2SiQCrCbgSEQR0DFpm0IVKwsVFoAy54kVJoxRcwYzAVgm6SBmnj8tk9QXeJW8%2BZgwE94sbK5fstQMJRE0Q3Wze7nUace6AgCepknptiUeogg8y4wjbYL2%2BOtgSXdBchu5ksMcnX8HNd66uGyVIHn6ZXedqAWsnI8k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -193,7 +193,7 @@
 - **nonnon** (Dec 17, 2025 04:33am): わかった
 - **Honest Llama** (Dec 01, 2025 11:29pm): 12月4にPC全員回収やねんけど涙
 - **Hopeful Albatross** (Dec 03, 2025 06:02pm): 俺もう帰ってきてるで
-- **aotan　人生キャンセル界隈　失踪界隈　自殺界隈** (Dec 05, 2025 07:19am): あれ、更新された？
+- **❄️aotan❄️** (Dec 05, 2025 07:19am): あれ、更新された？
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 02, 2025 06:44am): 僕のせい？
 - **GOD NIBONIBO** (Nov 26, 2025 02:17am): 神
 - **方向転換　強盗せんか？** (Dec 08, 2025 12:15am): 何が更新されたのかkwsk
@@ -214,7 +214,7 @@
 - **はるとねこ** (Dec 01, 2025 10:48am): アリがトゥース
 - **削除済みユーザー** (Dec 16, 2025 04:25am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/Xb8YaLXBx8OEayn1) 
 - **メガネ** (Nov 29, 2025 08:39am): ありがとうございます
-- **aotan　人生キャンセル界隈　失踪界隈　自殺界隈** (Nov 29, 2025 09:51am): わーい
+- **❄️aotan❄️** (Nov 29, 2025 09:51am): わーい
 - **高井が好きなやつ** (Nov 29, 2025 11:19am): yuki見れんけど
 - **高井が好きなやつ** (Nov 29, 2025 11:19am): やった
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 02, 2025 06:44am): まじ？
@@ -243,7 +243,7 @@
 - **Artistic Jaguar** (Nov 22, 2025 10:31pm): すげえ
 - **nonnon** (Dec 17, 2025 04:34am): すごすぎやろがい
 - **はるとねこ** (Nov 20, 2025 05:52am): おお
-- **aotan　人生キャンセル界隈　失踪界隈　自殺界隈** (Nov 19, 2025 12:58pm): まじか
+- **❄️aotan❄️** (Nov 19, 2025 12:58pm): まじか
 - **꧁日本国民ゆ〜꧂  #煮物810番弟子** (Nov 20, 2025 06:55am): すごお
 - **Anonymous** (Dec 19, 2025 07:05am): まじか
 
@@ -1720,16 +1720,16 @@
 ---
 
 ### 7. わいのパソコンで使えないプロキシほしい？
-**Author:** aotan　人生キャンセル界隈　失踪界隈　自殺界隈 (aotan)
+**Author:** ❄️aotan❄️ (aotan)
 
 
 
 [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/MbejW1blKo5qaNkG)
 
 #### Comments (5)
-- **aotan　人生キャンセル界隈　失踪界隈　自殺界隈** (Nov 28, 2025 02:26am): ちゃう
+- **❄️aotan❄️** (Nov 28, 2025 02:26am): ちゃう
 - **削除済みユーザー** (Nov 27, 2025 11:18pm): 使えないって規制ってこと？
-- **aotan　人生キャンセル界隈　失踪界隈　自殺界隈** (Nov 28, 2025 02:26am): 検索できんやつ
+- **❄️aotan❄️** (Nov 28, 2025 02:26am): 検索できんやつ
 - **削除済みユーザー** (Nov 28, 2025 12:32pm): ww
 - **削除済みユーザー** (Nov 28, 2025 12:32pm): それならいるんじゃない？
 
@@ -2672,7 +2672,7 @@
 **投稿の種類:** フィルターに関する相談や質問
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1769718570&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BXeuaSAIRsQkc6ZDbbEXjyGHtg9lWb7uzsz5OXv9MBXOOVhvX54vkjgm%2FkfJqh38wzrv%2F%2FakE8Tt2uQ7j7L4gMBZZMIDzZJcPwvclfbDQ4Y%2FJi9H5BmO4pJe1l5rM%2Fws44%2FzVGtxnnqEAKQFfOJ%2Frp2tM%2FUp6e%2BP8LWgyR7a93w%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1769721917&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CMI9StGkskmbdC5MUDCpIc4KfrT5jndlZUOVf1GfcTsqbTyxLanTJIhHsfnveInukvLKum9geaouOtJMH7PqqDuXAmuydEpHYFz7MzB7uV3vsQp%2BaZ%2FK%2FCU0IfpBt0tFlwSMquQOopk4H0ZCNKqmP5mtWsuQkxrSCQ%2BBlwH1F6g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -2851,7 +2851,7 @@
 - **Natsu** (Dec 19, 2025 09:00am): それはそう
 - **NyrikX(GDplayer)** (Jan 19, 2026 08:26am): 自分は、クロームブックを何回か初期化したことありますが、そもそも学校用のアカウントしか入れないし、プロキシ使っても入れません。初期化し学校用アカウントに入るのを数回に渡ってやったら、毎回どれかのプロキシに何かしらのエラーやブロックがされます。合計で被害を受けたのはutopia2つとランマーヘッド2つがブロックされ、inbox(index)がブロックではなくアクセスできないえらーのようになっていました。最悪です。みんなもこうならないように、電源や初期化はもうやめよう。
 - **Natsu** (Dec 18, 2025 11:48pm): (・∀・)ｲｲﾈ!
-- **aotan　人生キャンセル界隈　失踪界隈　自殺界隈** (Dec 19, 2025 06:59am): (・∀・)ｲｲﾈ!!
+- **❄️aotan❄️** (Dec 19, 2025 06:59am): (・∀・)ｲｲﾈ!!
 
 #### Reactions
 - **Average star rating:** 5.0
