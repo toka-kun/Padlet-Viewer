@@ -1,4 +1,4 @@
-最終更新: 2026/01/22 13:50:33
+最終更新: 2026/01/22 15:37:59
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 22, 2026 04:11am
+- **Updated At (UTC):** Jan 22, 2026 06:25am
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (62)
+#### Comments (63)
 - **削除済みユーザー** (Jan 16, 2026 02:42pm):  
 - **sanae1212** (Jan 16, 2026 07:44am): 入れて！
 - **woolisbest** (Jan 17, 2026 12:12pm): おい
@@ -51,6 +51,7 @@
 - **突然の死(Yu-i)** (Jan 20, 2026 05:38am): prz
 - **WiiUのサブ** (Jan 14, 2026 12:48pm): ???「何度でも蘇るさ！」
 - **ホゲタァ** (Jan 14, 2026 01:02pm): NANIGAOKITA?
+- **いつものだろうな** (Jan 22, 2026 06:25am): はいりたーい
 - **橘花 | Kiκκα　#青葉のサブ** (Jan 16, 2026 01:42am): 6☆^4☆@//
 - **woolisbest** (Jan 15, 2026 06:53am): ok
 - **woolisbest** (Jan 16, 2026 07:09am): ok
