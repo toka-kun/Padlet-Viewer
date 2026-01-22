@@ -1,4 +1,4 @@
-最終更新: 2026/01/23 07:24:27
+最終更新: 2026/01/23 08:22:39
 
 # アーカイブ
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 174
+- **Posts:** 177
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Jan 22, 2026 10:20pm
+- **Updated At (UTC):** Jan 22, 2026 10:28pm
 
 ## セクション一覧
 
@@ -36,7 +36,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769725462&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BVIuVQ0eqCkucQPdtPmFF7P%2FrUk1EwfytDApBCLYfXr9qGmj3zCYXRehHQLNa2N90rkOekevEDa7o0JP71%2Bk00ASY%2Fkot%2FHyMVMQqcCBtH1EYV6wHdKfH6J0w1F7mIIwXWfVMrUr%2FGSusIowFnTgDTXLMGcdQk6eBUnBiEr0%2Bi0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769728953&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sl0CYXMgfafVNPDGf%2FnWLBpSXBDyVi5gwjUVMCeREdMybwcYAszVeyQaYwb%2FW7Gl%2Bcqc%2FdhHQRBFVLlU7kl4XzW8OJEJmgZHXB50ZxUcAUbx8H1AhdfHW6QuB%2B3SPRVdiAIe8wc5NXKoxuQhXSyf0lCj6K8jhZ6X4tyQm73RUbc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -563,7 +563,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1769725463&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=HTN5HfXnNSaiFh4QfqOUYP9DSc%2Bny698TvW9luqscesIdPcDqQiy4NT8xHB%2FljTn9NZyeLYliUjFlgdeCOmgqRiBGnPb3x1Uw0Cy4mhM3FZJia%2Fvs32%2FEnI8vOEETEfOF%2FpE%2F19JsuXfJJ8DtUOPIf4oPwYDrE4JmAA%2BTJS4Ecw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1769728954&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=f0GNT9c50jHmJ%2F1SpRcKDgpgOGeJJFTsZwfkNnoi0h9c8wmOWTgrkWawYxxgj%2FQjLn0zBz1SgAwfZaffpkOr%2Bo6z3LK7xzbiaN7abkux%2FyZRZbOA3%2Bafy4XWf44YbCVHmuyS7GfBWU16Xc6z%2FTaMzEdm%2FkOr6BP3MXkKyCJPbjg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 15, 2026 10:41pm): 権限をぽんぽん渡しすぎや
@@ -2422,7 +2422,52 @@
 
 ---
 
-### 2. プロキシ欲しいと思った
+### 2. amazonサイト教えて！緊急
+**Author:** sanae1212 (cuzrij)
+
+
+
+#### Comments (1)
+- **Sanesane** (Jan 16, 2026 12:14pm): 前にAmazonだけ見れるサイトを持ってましたが、学タブの規制で使えなくなったのでメモから消しちゃいました
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 16, 2026 09:38am
+- **Updated At (UTC):** Jan 22, 2026 10:28pm
+
+---
+
+### 3. インターステラー追加で持ってる人いませんか？
+**Author:** 味の煮付けの汁 (13110271)
+
+
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 13, 2026 02:19am
+- **Updated At (UTC):** Jan 22, 2026 10:28pm
+
+---
+
+### 4. PCシュミレーターみたいなやつ持ってる方いたら教えてください！よろしくお願いします！
+**Author:** スシロー (h3026194)
+
+
+
+#### Comments (4)
+- **スシロー** (Jan 18, 2026 12:18am): サイトの中にサイトがある「仮想デスクトップ」みたいなやつです、これみたいなhttps://app.apponfly.com/trial
+- **スシロー** (Jan 19, 2026 08:42am): ありそうすか？
+- **菜奈** (Jan 17, 2026 02:53am): 具体的にどんなものかがわかれば渡せるかも...
+- **菜奈** (Jan 18, 2026 03:50am): なる　ほど
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 11, 2026 10:41am
+- **Updated At (UTC):** Jan 22, 2026 10:27pm
+
+---
+
+### 5. プロキシ欲しいと思った
 **Author:** たけし
 
 
@@ -2442,7 +2487,7 @@
 
 ---
 
-### 3. サイトの中にサイトがあるやつってあるじゃないですかぁ　それがほしいです
+### 6. サイトの中にサイトがあるやつってあるじゃないですかぁ　それがほしいです
 **Author:** なまけもの。 (gyabagya199)
 
 
@@ -2463,7 +2508,7 @@
 
 ---
 
-### 4. だれかよろしければプロキシをください...！
+### 7. だれかよろしければプロキシをください...！
 **Author:** 菜奈 (aaa0302sutegonotuna)
 
 
@@ -2482,7 +2527,7 @@
 
 ---
 
-### 5. 探して〜
+### 8. 探して〜
 **Author:** 029大好き！(会長910)#ウルトラ第三番弟子 (029daisuki_910)
 
 <p>チョコtubeってある？あるんだったら参考したい</p>
@@ -2502,7 +2547,7 @@
 
 ---
 
-### 6. スタートページの代わりかディスコードが使える方法orサイトが欲しい
+### 9. スタートページの代わりかディスコードが使える方法orサイトが欲しい
 **Author:** Cheerful Piranha
 
 <p>スタートページ自体はブロックされてないんだけど匿名でビューするとus2？がブロックされてしまいます</p>
@@ -2520,7 +2565,7 @@
 
 ---
 
-### 7. 自由に検索できる、Proxy検索エンジン無料サイトがほしいです
+### 10. 自由に検索できる、Proxy検索エンジン無料サイトがほしいです
 **Author:** Proxyないと生きていけない
 
 
@@ -2538,7 +2583,7 @@
 
 ---
 
-### 8. daydreamX くれー
+### 11. daydreamX くれー
 **Author:** あ
 
 
@@ -2550,7 +2595,7 @@
 
 ---
 
-### 9. ファイルなうを使いたいのですがおすすめのプロ棋士とかありますか？
+### 12. ファイルなうを使いたいのですがおすすめのプロ棋士とかありますか？
 **Author:** siitakeeeee
 
 
@@ -2565,7 +2610,7 @@
 
 ---
 
-### 10. 輪トレっていうアプリ入れられるよって人いますか？
+### 13. 輪トレっていうアプリ入れられるよって人いますか？
 **Author:** せなたろう (SENATAROu)
 
 
@@ -2577,7 +2622,7 @@
 
 ---
 
-### 11. 恋愛したい
+### 14. 恋愛したい
 **Author:** Fabulous Magpie
 
 <p>誰か恋愛チャット持ってる方がいればお願いします。</p>
@@ -2595,7 +2640,7 @@
 
 ---
 
-### 12. DayDreamXとか
+### 15. DayDreamXとか
 **Author:** Hopeful Cheetah
 
 <p>Twitter入れるプロキシある？誰か持ってない〜？</p>
@@ -2615,7 +2660,7 @@
 
 ---
 
-### 13. Steam垢プロキシ通すと使えなくて草
+### 16. Steam垢プロキシ通すと使えなくて草
 **Author:** 削除済みユーザー (Giveapple)
 
 <p>Steam垢だれかくれ</p><p>報酬は持ってるサイトあげる</p>
@@ -2629,7 +2674,7 @@
 
 ---
 
-### 14. 誰か普通の画面でようつべ見れるサイト持ってない？shortだけでも構わん
+### 17. 誰か普通の画面でようつべ見れるサイト持ってない？shortだけでも構わん
 **Author:** 削除済みユーザー (Giveapple)
 
 <p>らんまーはshort45本くらいで見れなくなるからなぁ　Bot確認される</p><p>時間おいたら解決できるけどだるい</p>
@@ -2652,7 +2697,7 @@
 
 ---
 
-### 15. 誰かアニメ見れるサイトないですか
+### 18. 誰かアニメ見れるサイトないですか
 
 **Author:** Natsu (masayukii0814)
 
@@ -2673,7 +2718,7 @@
 
 ---
 
-### 16. Xログインできるプロキシありませんか？
+### 19. Xログインできるプロキシありませんか？
 **Author:** 削除済みユーザー
 
 
@@ -2690,7 +2735,7 @@
 
 ---
 
-### 17. 太鼓ウェブについて
+### 20. 太鼓ウェブについて
 **Author:** ꧁日本国民ゆ〜꧂  #煮物810番弟子 (nippon_banzai)
 
 <p>太鼓ウェブってRenderでデプロイできるなら<a rel="noopener noreferrer nofollow" href="http://ydns.eu">ydns.eu</a>とかでもできるん？　できるんだったら作ってほしい（またはrailway）</p>
@@ -2707,7 +2752,7 @@
 
 ---
 
-### 18. クロムでできるロブロックスください
+### 21. クロムでできるロブロックスください
 **Author:** あ (s02200071)
 
 <p>よろしくお願いします</p>
@@ -2728,7 +2773,7 @@
 
 ---
 
-### 19. わかめについて
+### 22. わかめについて
 **Author:** ꧁日本国民ゆ〜꧂  #煮物810番弟子 (nippon_banzai)
 
 <p>railwayでわかめの作り方教えてほしい</p>
@@ -2774,7 +2819,7 @@
 **投稿の種類:** フィルターに関する相談や質問
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1769725466&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0mmc%2BHVIfCFHecQ12m%2B4RZzZb24oASQF7jdYbDIOq%2BTL6woGCQYDhm9kv%2B%2B5i2AxyXL1Wdr%2BCTPdJer%2BA0Eev3rwpZyL1TjIVENLcHC8V6%2BfSmr%2Fc9OgNjuOzxqTIrg%2FwNiBqmSGskz52iZ95tP8QeDn2IVqjMjGDBAuqTZlAFM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1769728957&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cb%2BSlfO4G%2Bd3k%2FAdqikapW7cf40D9DAeklf4qVWsYvST%2Fy2vzzJPzfOyh8Q8Z7NqKKdmASb8Yf%2F7099GXFDyeH4YD2nzyafHKn%2FH4U72g%2BkS5vy3iaym%2FW2Yycm4NIz5ZfFfNcJoddAv4OPCM18hSZ9ZfCD9VTB5sIYK1C%2BDJKY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
