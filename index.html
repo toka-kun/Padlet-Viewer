@@ -617,15 +617,16 @@
             if (data.attachmentUrl || data.linkUrl) {
                 mediaHtml += '<div class="attachment-area">';
                 if (data.attachmentUrl) {
-                    // URLが Padlet の padlets/ ディレクトリを含むかチェック
-                    if (data.attachmentUrl.includes('padlet.com/padlets/')) {
-                        // 末尾のスラッシュを削除し、プレビュー用のパスを結合
-                        const embedUrl = data.attachmentUrl.replace(/\/$/, '') + '/embeds/preview_embed';
+                    // 特定のPadlet URL形式かどうかを判定する正規表現
+                    // "https://padlet.com/padlets/" で始まり、その後にスラッシュを含まない文字列で終わるもの
+                    const padletRegex = /^https:\/\/padlet\.com\/padlets\/[^/]+$/;
 
-                        // iframeで埋め込み表示 (高さなどは適宜調整してください)
-                        mediaHtml += `<iframe src="${escapeHtml(embedUrl)}" style="width:100%; height:250px; border:1px solid #30363d; border-radius:4px; margin-bottom:8px;" allow="camera;microphone;geolocation"></iframe>`;
+                    if (padletRegex.test(data.attachmentUrl)) {
+                        // 対象の場合は iframe で埋め込み表示
+                        const embedUrl = data.attachmentUrl + '/embeds/preview_embed';
+                        mediaHtml += `<iframe src="${escapeHtml(embedUrl)}" style="width:100%; height:350px; border:none; border-radius:4px; background:#000;"></iframe>`;
                     } else {
-                        // それ以外は通常の画像として表示
+                        // それ以外（長いURLや画像ファイルなど）は通常通り画像として表示
                         mediaHtml += `<img src="${escapeHtml(data.attachmentUrl)}" alt="Attachment">`;
                     }
 
