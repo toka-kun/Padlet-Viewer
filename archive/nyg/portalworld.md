@@ -1,4 +1,4 @@
-最終更新: 2026/01/23 05:29:57
+最終更新: 2026/01/23 06:25:45
 
 # Padletポータルワールド
 
@@ -902,7 +902,7 @@
 ---
 
 ### 37. ゴミ捨て場
-**Author:** aotan　人生キャンセル界隈　失踪界隈　自殺界隈 (aotan)
+**Author:** ❄️aotan❄️ (aotan)
 
 <p>この部屋は名前の通り「無法地帯」（荒らしと宣伝はアウト）です</p><p>えｒでも雑談でもなんでもおｋ</p><p><br/></p>
 
@@ -1500,7 +1500,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769718597&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=M7eb1n%2B43hCDei6IGTShceTGwQLd7EA5zEomcXXW0FguVtKW8kDpmmv4nv%2Bbp4WBe58bXaPS9fil5tpmFp8e%2B9xT4IlWvXugB9mFbFuPnAQy1Q3zzB66mxz%2BU5EviXFFG9xXK%2BwD2CMcgr1jytJf64Xf2F1OEmCtyblmJBNWScM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769721945&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=llIAZtbs%2Bpd0lIzCGSxYvEYBXAGMEfiWLXPVis0FOWjqM%2B%2BunhudT7kP9mS3yhlNO9%2B9KX8Q4UZlF35D%2Fl%2FODJpvNXjReIKUHiexE9gjJFEQr1bVVxNiqT%2FSD3CGm4Vj7tfQVItvlwT3hpdKzInIi%2B91tSWpRLB331q%2Faw5JXbU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
