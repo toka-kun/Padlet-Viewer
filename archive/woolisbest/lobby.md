@@ -1,4 +1,4 @@
-最終更新: 2026/01/23 17:33:14
+最終更新: 2026/01/23 21:51:35
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 23, 2026 08:15am
+- **Updated At (UTC):** Jan 23, 2026 12:38pm
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (71)
+#### Comments (72)
 - **削除済みユーザー** (Jan 16, 2026 02:42pm):  
 - **sanae1212** (Jan 16, 2026 07:44am): 入れて！
 - **woolisbest** (Jan 17, 2026 12:12pm): おい
@@ -37,6 +37,7 @@
 - **woolisbest** (Jan 16, 2026 03:26pm): ok
 - **woolisbest** (Jan 19, 2026 08:22am): 匿名さんはアカウント作ってきて～
 - **woolisbest** (Jan 19, 2026 08:22am): ok
+- **たわし** (Jan 23, 2026 12:38pm): いれて
 - **あああ** (Jan 16, 2026 04:44am): いれて
 - **やあ　#応援歌でブチかませ** (Jan 14, 2026 02:28am):  
 - **woolisbest** (Jan 19, 2026 12:58pm): おｋ
@@ -105,8 +106,9 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (3)
+#### Comments (4)
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
+- **たわし** (Jan 23, 2026 12:38pm): した
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 
