@@ -1,4 +1,4 @@
-最終更新: 2026/01/23 08:23:06
+最終更新: 2026/01/23 10:51:00
 
 # Padletポータルワールド
 
@@ -141,7 +141,7 @@
 ---
 
 ### 3. やっぱ誰でもOK部屋
-**Author:** きのこ#りおとの奴隷！ (kinokoyongzhe80)
+**Author:** きのこ#りおとの奴隷！最近低浮上 (kinokoyongzhe80)
 
 <p>みんなフレンドリーで受付とかログイン必要にしてるのでセキュリティは十分です。</p>
 
@@ -158,7 +158,7 @@
 [Attachment](https://padlet.com/padlets/bulzpsofhi8e6phj)
 
 #### Comments (1)
-- **きのこ#りおとの奴隷！** (Jan 19, 2026 06:30am): みんな来てねー！
+- **きのこ#りおとの奴隷！最近低浮上** (Jan 19, 2026 06:30am): みんな来てねー！
 
 #### Reactions
 - **Number of likes:** 1
@@ -1500,7 +1500,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769728986&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=r7t4DAQJG0wWt4sJrnYAcZdnQYa0WGwvvHn%2F4SbW1SiAKSa%2Bsc7G8LMSLwZ2wdZrZujQSLmnZkEQmCD%2BNUzy94EgDZ7kq21K4w44E5U7DDvL0etSJa5qMW0LZEEQ888blDOze09GQmNuyzTcmvVkAwrqi9fZFIo0uEI2HjIEaf0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769737860&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6D%2FIsX01Ky6cT8AlGZHaok0%2BV1tGH1EGCXcurk6Pa85Nz5obt%2BQTN18Ms3sQzk8tsUPYQ4DQOcR5Hxu%2Fvu47PakP0fl%2B1nfm7SqkG1%2BvPqxnXth7enoCNfc3R6AzZ7r4c7rCg3q77huxygbJ3Yl4nUY6rd%2Fqszjobp85UJylDr8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
