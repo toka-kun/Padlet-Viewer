@@ -1,4 +1,4 @@
-最終更新: 2026/01/23 12:43:35
+最終更新: 2026/01/23 13:38:50
 
 # アーカイブ
 
@@ -36,7 +36,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769744610&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZslZjjmDkamazi%2FJL7e5iGszjbHLIhCEKZWeWbRLdAti3JM4Fci3Qxgk4wEHvk8PYsFNTto%2FsqGA30AipGk2Pfr9zYsJs4jgcy9GUo6dzzpNfZDmmDZ4o31wHyJjGNH%2F4p03ztooaxQgTx%2FxLzzvps63gnSdBLXS4ky4LN0YYO0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769747925&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ymgDTYA%2FIk%2Bfho%2BWGg0EzSP7LBiQaaIW0HMXqk9yAzNvwZyswhGaJ%2F8nXyJqyepvfJVGgqz5AM6CphCYjLIvKBacTyazt9teQB1AYS2m8q9J4M0Umu3XDE6qWl%2FEV3PKYDQI76wIkD6yRnW5bmpQHr%2FWo0wYIwKunziRHVQ6CUQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -149,7 +149,7 @@
 - **Anonymous** (Dec 21, 2025 05:00am): 新しいのお願いします！！！！
 - **盲目衛門** (Dec 09, 2025 03:10am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/x5m7aoggzO5yakAV) どうしたらいいですかね？有識者の方がいらっしゃいましたらお返事お願いしますちなみに通常の再生方法では再生できません
 - **削除済みユーザー** (Dec 20, 2025 11:38am): 新しいの.....
-- **高井が好きなやつ** (Dec 12, 2025 11:08am): ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
+- **稲田りく** (Dec 12, 2025 11:08am): ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
 - **Studious Tilapia** (Dec 06, 2025 02:30am): ナイス
 - **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 06, 2025 08:36am): わーい
 - **削除済みユーザー** (Dec 10, 2025 12:56am): w
@@ -215,8 +215,8 @@
 - **削除済みユーザー** (Dec 16, 2025 04:25am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/Xb8YaLXBx8OEayn1) 
 - **メガネ** (Nov 29, 2025 08:39am): ありがとうございます
 - **❄️aotan❄️** (Nov 29, 2025 09:51am): わーい
-- **高井が好きなやつ** (Nov 29, 2025 11:19am): yuki見れんけど
-- **高井が好きなやつ** (Nov 29, 2025 11:19am): やった
+- **稲田りく** (Nov 29, 2025 11:19am): yuki見れんけど
+- **稲田りく** (Nov 29, 2025 11:19am): やった
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 02, 2025 06:44am): まじ？
 - **Anonymous** (Dec 19, 2025 07:04am): 拡散します！！
 
@@ -563,7 +563,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1769744611&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=y%2FI2FGCRBgOheaJXVmjLHaoxsuZA%2BFgUEE8Jo2tl%2BFSRxNcyzUDctKUzmOQDTx6%2BJtHhLaCxIbR7kZRkeAFqtsHBL4Ef1D00t7n%2BipQhmUWSndjPKDoX33QQEztVIb114ORSwaIVi3XahtBTXBkpsya0GbEUZXOS%2F3SuI0P%2BDmo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1769747926&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CSjBEg6WnDKc4VkWyZyo0EK5v3V%2Bol5bu94fkxzGDQDQdabUo9oJNYI1Sbre5P%2BVI5bt4PBsrpCwiBdv6Iven75%2Fj%2FZLsukSeV0Z2OpOcQdGlynU89WRt06Mkpdv7%2BY4yVVwUnCBSbY5JQ9ig7a8JxitlS%2FbTtLAHQuaxZ16u4A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 15, 2026 10:41pm): 権限をぽんぽん渡しすぎや
@@ -1247,8 +1247,8 @@
 - **削除済みユーザー** (Dec 16, 2025 05:47am): 下旬？
 - **Massa_games216** (Dec 16, 2025 01:35pm): ないす
 - **削除済みユーザー** (Dec 17, 2025 08:23am): 草
-- **高井が好きなやつ** (Dec 16, 2025 03:08am): 間近
-- **高井が好きなやつ** (Dec 16, 2025 03:09am): まじか
+- **稲田りく** (Dec 16, 2025 03:08am): 間近
+- **稲田りく** (Dec 16, 2025 03:09am): まじか
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Dec 17, 2025 12:21am): まあいつできるかわからないけど(こっちはこっちで受験がある)
 
 #### Additional Information
@@ -1259,7 +1259,7 @@
 ---
 
 ### 40. toka_kunさんいます？
-**Author:** 高井が好きなやつ (r0305544)
+**Author:** 稲田りく (r0305544)
 
 <p>ラグすぎて学校から、3GB超えたから学校から怒られた！</p><p><br></p>
 
@@ -1268,11 +1268,11 @@
 #### Comments (8)
 - **Natsu** (Dec 16, 2025 04:20am): なぜ怒られる？
 - **πr²(パイアール2)** (Dec 18, 2025 02:31am): カタカナ入力にする時が来るとは・・・
-- **高井が好きなやつ** (Dec 16, 2025 03:15am): ロードしてる時がラグい
-- **高井が好きなやつ** (Dec 16, 2025 05:16am): 東京都はそうゆう制限かかかってるっぽい
+- **稲田りく** (Dec 16, 2025 03:15am): ロードしてる時がラグい
+- **稲田りく** (Dec 16, 2025 05:16am): 東京都はそうゆう制限かかかってるっぽい
 - **πr²(パイアール2)** (Dec 17, 2025 12:29am): ワタシTOKYOトミンデスガソンなノアリマセン（地域によって違う）
 - **Natsu** (Dec 17, 2025 11:11pm): (・∀・)ｲｲﾈ!!
-- **高井が好きなやつ** (Dec 16, 2025 05:15am): わからん
+- **稲田りく** (Dec 16, 2025 05:15am): わからん
 - **πr²(パイアール2)** (Dec 17, 2025 08:01am): ちなみに23区内に住んでます
 
 #### Additional Information
@@ -1378,7 +1378,7 @@
 #### Comments (4)
 - **えみとー** (Dec 18, 2025 01:15am): ｗｗ
 - **垢移行したいっつぽー** (Dec 10, 2025 06:17am): www
-- **高井が好きなやつ** (Dec 11, 2025 05:54am): ｗ
+- **稲田りく** (Dec 11, 2025 05:54am): ｗ
 - **Massa_games216** (Dec 10, 2025 08:56am): w
 
 #### Additional Information
@@ -1396,7 +1396,7 @@
 
 
 #### Comments (3)
-- **高井が好きなやつ** (Dec 16, 2025 05:23am): ナイス
+- **稲田りく** (Dec 16, 2025 05:23am): ナイス
 - **Natsu** (Dec 06, 2025 07:42am): いえい
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Dec 09, 2025 04:51am): あああああああああああああああああああああじかんんんんがあああああああたりないいいいいいいいい
 
@@ -1458,7 +1458,7 @@
 - **長路大河** (Dec 07, 2025 02:19pm): どんまい
 - **菜奈** (Dec 07, 2025 10:39pm): されてない！☆（（（殴
 - **RX034** (Dec 11, 2025 08:48am): 俺もだあああああああああ
-- **高井が好きなやつ** (Dec 11, 2025 08:57am): 俺もー
+- **稲田りく** (Dec 11, 2025 08:57am): 俺もー
 
 #### Additional Information
 - **Post color:** White
@@ -2784,7 +2784,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 13, 2025 02:02pm): お願い
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 09, 2025 12:45am): Renderみたいにやれば良いよ
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 10, 2025 11:39am): YouTubeで
-- **高井が好きなやつ** (Nov 09, 2025 03:42am): https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/4590150531/dbd99899e867135c783b4f76a7a2ed76/_________1__copy1.gif?token=8T1OLdr_uhZODHisc7N3BIYiU0G9wo1BWi5Zf4sJnyp0jcF00rVie9wH7peG8pWm60sIqDp7zpZFigbzrdIbKFyi4wcUAs2pSW7TRwWva4w_zWMs76WJCY0pvJXRjLab2s-4PJJHkrLvpogBrn7qPwghmOZOAUoQ9tPgv5Sdj2_6FKYUv7Z2lnT3bmS_eL77ZM5j-2jvQv_vtSHwvpyr-ZWgioaWRLnbotvPoiJMMiIzRlRhnI-hgZFBeB-9ivLN
+- **稲田りく** (Nov 09, 2025 03:42am): https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/4590150531/dbd99899e867135c783b4f76a7a2ed76/_________1__copy1.gif?token=8T1OLdr_uhZODHisc7N3BIYiU0G9wo1BWi5Zf4sJnyp0jcF00rVie9wH7peG8pWm60sIqDp7zpZFigbzrdIbKFyi4wcUAs2pSW7TRwWva4w_zWMs76WJCY0pvJXRjLab2s-4PJJHkrLvpogBrn7qPwghmOZOAUoQ9tPgv5Sdj2_6FKYUv7Z2lnT3bmS_eL77ZM5j-2jvQv_vtSHwvpyr-ZWgioaWRLnbotvPoiJMMiIzRlRhnI-hgZFBeB-9ivLN
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Dec 01, 2025 01:23am): じゃあニコニコかYouTubeどっちがええ？
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Nov 12, 2025 11:57pm): 主さんこれ私動画作った方がええ感じ？
 - **꧁日本国民ゆ〜꧂  #煮物810番弟子** (Nov 09, 2025 10:14pm): ？
@@ -2819,7 +2819,7 @@
 **投稿の種類:** フィルターに関する相談や質問
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1769744614&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=c6HGbQ%2FbDSEPeRYKXW5Uzvh3SIOV6XpRab6%2BopySYYUpgNYMqXEJaW2IJYYjoyfQTg1dLf192X84izJig1hrOK47fR4PQYo0302cKydi6A1Fi9nUM%2B5q3OIapDDzXVE2h29%2Bmp24UWAGG7LIXCIblsRkhdpMoUagw3nyxUzzAt8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1769747929&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bxnlAPOqd8u7MCUNwEkdYI0B6PVKjB6F4qjImPH5o4Rxwg0csyroyIy3rKKWP3AZd4yEXYFazQB4pqSXVgiZWNWk9qGdgUqh4dal7Y5UULO6eaSG6lPHB30jsNxD%2FNWe5DIg5T2%2FhUS3%2FRt%2FaidXF5nd2EV%2BUX8DL%2FGRKxHcVfM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -2958,12 +2958,12 @@
 #### Comments (20)
 - **Natsu** (Dec 14, 2025 05:37am): らしいです
 - **Massa_games216** (Dec 12, 2025 10:34am): >>ラグのやり方教えてください
-- **高井が好きなやつ** (Dec 12, 2025 11:09am): これhttps://padlet-artifacts.storage.googleapis.com/8c01cf9d56f0f88af06e5eb71fdba2173fadd860/17797487722a91a2792a3cec549fb426-h-e53a2b3b60a3202ea9e1a58d031395e1.gif
+- **稲田りく** (Dec 12, 2025 11:09am): これhttps://padlet-artifacts.storage.googleapis.com/8c01cf9d56f0f88af06e5eb71fdba2173fadd860/17797487722a91a2792a3cec549fb426-h-e53a2b3b60a3202ea9e1a58d031395e1.gif
 - **削除済みユーザー** (Dec 10, 2025 12:57am): ISGCのアプリ消せるんなら消してリセットしたらできたはず...
 - **花草海吏** (Dec 10, 2025 01:39am): モバイルデータ通信切ればできたはず
 - **Natsu** (Dec 10, 2025 06:14am): ラグくしまくったら？
 - **πr²(パイアール2)** (Dec 12, 2025 05:25am): ラグのやり方教えてください
-- **高井が好きなやつ** (Dec 12, 2025 11:10am): GBは余裕で行く
+- **稲田りく** (Dec 12, 2025 11:10am): GBは余裕で行く
 - **Natsu** (Dec 14, 2025 05:37am): ①デスクとウィンドウは1つだけ残してすべて閉じる②規制の拡張機能をピン留めする②.5わざと規制されるサイトを一つだけ出す③10個のサイトを登録してあるブックマークを作る(規制されないサイトで)④ctrl＋rを連打しながら作ったブックマークを㉞回連打する⑤重くなってしばらく操作できなくなるから、10分〜20分、タブがすべて読み込まれるまで待つ⑥ピン留めした規制が消えたら成功。 読み込み終わってピン留めした拡張機能が消えてなかったら連打する回数を2回ずつ増やす。読み込む途中でPCが落ちたら減らす。
 - **πr²(パイアール2)** (Dec 14, 2025 11:51pm): あざす
 - **NyrikX(GDplayer)** (Jan 19, 2026 07:53am): できた？
@@ -2973,7 +2973,7 @@
 - **πr²(パイアール2)** (Dec 10, 2025 12:19am): できる方いたらコメントお願いします
 - **花草海吏** (Dec 10, 2025 01:39am): できんかったらごめ
 - **カービィ** (Dec 12, 2025 06:20am): パワーウォッシュ!!!
-- **高井が好きなやつ** (Dec 12, 2025 11:10am): リンクコピーシてこれをいっぱいやれば部屋作ってやばいほど貼りまくれば良い
+- **稲田りく** (Dec 12, 2025 11:10am): リンクコピーシてこれをいっぱいやれば部屋作ってやばいほど貼りまくれば良い
 - **内臓** (Dec 16, 2025 02:03am): あざす
 - **こん** (Dec 19, 2025 05:08am): まずはありがとう
 
@@ -3065,7 +3065,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 23, 2025 11:58am): いる
 - **削除済みユーザー** (Nov 23, 2025 12:28pm): https://raw.githubusercontent.com/woolisbest/crosproxy-list/refs/heads/main/main.txt
 - **削除済みユーザー** (Nov 23, 2025 12:23pm): どこに載せたらいいんだ？
-- **高井が好きなやつ** (Nov 16, 2025 09:31pm): うん
+- **稲田りく** (Nov 16, 2025 09:31pm): うん
 - **削除済みユーザー** (Nov 17, 2025 09:07am): ww
 - **削除済みユーザー** (Nov 23, 2025 11:26am): うん
 - **削除済みユーザー** (Nov 23, 2025 12:22pm): おｋ
@@ -3786,7 +3786,7 @@
 
 
 #### Comments (2)
-- **高井が好きなやつ** (Oct 22, 2025 11:46am): どうやって見る？
+- **稲田りく** (Oct 22, 2025 11:46am): どうやって見る？
 - **おすし** (Sep 14, 2025 08:36am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/YBl3Z2xRGJ03av16) もういってるう
 
 #### Reactions
