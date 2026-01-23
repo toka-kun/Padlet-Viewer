@@ -1,4 +1,4 @@
-最終更新: 2026/01/23 20:22:08
+最終更新: 2026/01/23 21:50:46
 
 # アーカイブ
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 177
+- **Posts:** 179
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Jan 22, 2026 10:28pm
+- **Updated At (UTC):** Jan 23, 2026 11:41am
 
 ## セクション一覧
 
@@ -36,7 +36,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769772123&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3l2N%2BkW8v4%2FwLWBr0bJjBVNIB2WxZHmK4QxYpQmiJGsAmpS0eZ%2BE%2F2Xgq1%2FYfseqDFJVqhpT8LhUsmbcbyjSOBj9UzeUNA%2Fx5HMtgP636Z%2FDr%2FPjkmE9ZFJn7Ilu57Xec0S3%2FQ9ekIbedn7unDj52ZHCgfX3eG1zWc7uwfiw1E0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1769777440&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=I5g5%2FYOz6r%2Bb6E4BCPaTE9MKOv%2BLN1rVC%2FaA8s4CYK4TKupduOTUuampqMMeCr6ti1eDAMCm7JpMwtwOdy1XVvyjEwW%2Bd78lqXn5a4uFKXnEWgOQ9Re7Iwno1ry5SIuNzHuNYCr14OSV1vQTr4SdYojGgIgYXnc29m8u%2BpNI6kI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -563,7 +563,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1769772124&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fW5uZqK5zjljVII3U0QTQhAgugM%2FyVrzLzJRQDphQ5AmIY7bqkm9IYPu7eMRDxI6Bvn1woKgqTo5NpqwfXaEM9bqCvPW9XwM%2Fck7p09sPqIb%2BDet4GjleFP0yeRQsSgtzGXtehPU5%2BdElqwkBtUBeTIvTEvufNcWjYJo%2FBbrFUE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1769777441&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Msl7gXnOCkXrZk9Ha9PhZTXogDyVIw3G80kwzuo89aRb6HNSSMZPWmaoRfkJ9cV%2FGMhVJGa2v0mv5d8ewXmHYBgYCDkw4UbaDFwVQuRIuIWZ84P6o%2BRY6neWWPyX9RNyv0%2Fs76Ld5WSX1tlwUAGwVCngP917JmltMgl2ZbatBe8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 15, 2026 10:41pm): 権限をぽんぽん渡しすぎや
@@ -2819,7 +2819,7 @@
 **投稿の種類:** フィルターに関する相談や質問
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1769772126&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DPjOTL%2FfO9cHijjfuv%2FreGEeeXoWLq8UAO0fk5c6%2FUx%2B7kaB25yaAfR%2BcIpaLxk%2BPd6aZKQ9AnMbNH3QVsKFpCSHMnpSMhICurK8Dt0oQSF7Hb35Klvs3K82X5pgMMcZu4y8PEePwPt9UMpLndLwr5Zi3kp0h6sYcWT9K0y6gxY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1769777444&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jjXDgovEY9vlsBFBlHGvWXVTzhiehT9%2FhMPDyi8nCfxaIBlobUApJzkT5FP5FtMPeLwo2M3dpKmjpIjoK3NFxtpPzfuA28Q1IUL4BNTynmgSlcoMGqm08ucPxlOJDPhjAkNr0gmnfrFfiL09wac4vbCPp8G84jnXRrizbiWcbT4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -2831,7 +2831,37 @@
 
 ---
 
-### 3. iPadアイフィルター解除
+### 3. 仮説だけど話します。是非見て
+**Author:** k&K (gs185779)
+
+<p>＊これから書くことは全て仮説や自分の独断　　とか偏見です</p><p><br></p><p><br></p><p>自分の住んでいる地域では2ヶ月一回位の</p><p>ペースでタブレットの更新が入っるんだけど</p><p>その更新されるときに多分履歴とかも見られるんだけどその時多分見られるのが一週間以内の履歴だと思うのよ。なんでそう思うかというと、今日更新日だったんだけど昨日閲覧したれんれんとかMSNとかが規制されてて一週間前に閲覧したわかめがまだ生きてたのよ</p><p><br></p><p>この意見どう思うか聞きたいから</p><p>コメントに書いて！！</p>
+
+**投稿の種類:** フィルターに関する相談や質問
+
+
+#### Comments (7)
+- **Natsu** (Dec 18, 2025 11:48pm): たしかにそれはあるかも
+- **削除済みユーザー** (Dec 19, 2025 08:30am): renderとかなら...
+- **削除済みユーザー** (Dec 19, 2025 08:30am): 規制されても新しいの作ればよくね...?
+- **Natsu** (Dec 19, 2025 09:00am): それはそう
+- **NyrikX(GDplayer)** (Jan 19, 2026 08:26am): 自分は、クロームブックを何回か初期化したことありますが、そもそも学校用のアカウントしか入れないし、プロキシ使っても入れません。初期化し学校用アカウントに入るのを数回に渡ってやったら、毎回どれかのプロキシに何かしらのエラーやブロックがされます。合計で被害を受けたのはutopia2つとランマーヘッド2つがブロックされ、inbox(index)がブロックではなくアクセスできないえらーのようになっていました。最悪です。みんなもこうならないように、電源や初期化はもうやめよう。
+- **Natsu** (Dec 18, 2025 11:48pm): (・∀・)ｲｲﾈ!
+- **❄️aotan❄️** (Dec 19, 2025 06:59am): (・∀・)ｲｲﾈ!!
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 2
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 18, 2025 10:20am
+- **Updated At (UTC):** Jan 23, 2026 11:40am
+
+---
+
+## i-FILTER専用
+
+### 1. iPadアイフィルター解除
 **Author:** おすし (h4218049)
 
 <p>設定→アクセシビリティ→タッチ→AssistiveTouch→AssistiveTouchをオン</p><p>シングルタップ→再起動</p><p>iF@Agentを起動→左上の歯車メニュー→再アクティベート→「実行してもよろしいですか？」で「実行」を長押し</p><p>長押ししている間にassistivetouchを押す→「再起動しますか？」で「再起動」を長押し→「実行」を押している手と「再起動」を押している手を同時にはなす</p><p>これを何回か繰り返すとifilterが起動しなくなります。</p><p>もう一度if@agentで再アクティベートをすると直ります。</p>
@@ -2861,11 +2891,11 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Nov 09, 2025 11:35pm
-- **Updated At (UTC):** Jan 13, 2026 11:36pm
+- **Updated At (UTC):** Jan 23, 2026 11:39am
 
 ---
 
-### 4. 元々ISGCだけだったのがi-FILTERも追加された。。。。。。。。
+### 2. 元々ISGCだけだったのがi-FILTERも追加された。。。。。。。。
 **Author:** 夢見る少女じゃいられない (hamasakiayumi)
 
 
@@ -2880,11 +2910,11 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jan 05, 2026 05:27am
-- **Updated At (UTC):** Jan 12, 2026 04:32am
+- **Updated At (UTC):** Jan 23, 2026 11:39am
 
 ---
 
-### 5. 報告
+### 3. 報告
 **Author:** ꧁日本国民ゆ〜꧂  #煮物810番弟子 (nippon_banzai)
 
 <p>自分の学校が今i-フィルターとisgc２つの規制機能が追加されていました。これは昨日からと思われます。同じ状況の人は下にコメントしてください（固定希望）</p>
@@ -2904,11 +2934,11 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jan 07, 2026 07:51am
-- **Updated At (UTC):** Jan 12, 2026 04:32am
+- **Updated At (UTC):** Jan 23, 2026 11:39am
 
 ---
 
-### 6. I-FILTERどれもブロックされてて泣きそう！
+### 4. I-FILTERどれもブロックされてて泣きそう！
 **Author:** 🧊 (mk0352)
 
 <p>だれかI-FILTER解除する方法教えて（プロキシも）</p><p><br></p>
@@ -2925,11 +2955,11 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jan 06, 2026 04:51am
-- **Updated At (UTC):** Jan 12, 2026 04:32am
+- **Updated At (UTC):** Jan 23, 2026 11:39am
 
 ---
 
-### 7. 速報!!
+### 5. 速報!!
 **Author:** πr²(パイアール2) (naganaga)
 
 <p>練馬区にisgcとi-filter入れられた（最悪・・・）片方でいいので削除の方法教えてくれたら幸いです</p>
@@ -2946,11 +2976,63 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jan 06, 2026 03:31am
-- **Updated At (UTC):** Jan 12, 2026 04:32am
+- **Updated At (UTC):** Jan 23, 2026 11:39am
 
 ---
 
-### 8. ISGCをぶっ壊す
+## ISGC専用
+
+### 1. 緊急!!見にくいかもしれませんがISGCが更新されました
+**Author:** πr²(パイアール2) (naganaga)
+
+<p>先ほどゲームをしてるとフリーズしてしまって、再起動するとフィルタリングが更新されており、さっきまで使えていたサイトが使えなくなってしまいました。</p>
+
+
+
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1769777444&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=HBFJNa5oRz2550odkFGOKGNHBMZUD1fTc05AtnIMWOpbHvPUEQ%2BGH8IBUxE5AQ8OsKRYG%2FuGEJv1T4N8ahMqKCISYYHCJ5TPLbQDEibCef3%2FFMmKoWLxbEVCQTrEli5kqrowkGffcAuUS63EVoYgLShfccF%2BpmI65Tbh61y4Qh4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+
+#### Comments (8)
+- **Supportive Hummingbird** (Dec 30, 2025 08:28am): すみません...フィルタリングがISGCなんですけど、家のWi-Fiで使った場合って、学校側からもURLとか見れますか？しあtubeやpixivFEで大人の単語とか色々と調べていたのでちょっと不安になってきました。
+- **Natsu** (Dec 21, 2025 07:21am): おれずっと更新してないから規制なかなかされないw
+- **学校のパソコンでプロキシ探しる受験生** (Dec 22, 2025 04:27am): だからかぁ...好きなゲームのサイトが規制かかるようになっちゃったんだよね
+- **ーかきくけこー　#ISGC** (Dec 23, 2025 02:27am): 同じく好きなゲームできんくなった...
+- **πr²(パイアール2)** (Dec 24, 2025 12:12pm): むやみに再起動とかしないほうががええな
+- **バッタ　#煮物貢献者　#煮物14番弟子　#そろそろ引退かも** (Dec 26, 2025 09:45pm): ww
+- **あ** (Dec 21, 2025 05:06am): 俺も金曜日そんな感じになった
+- **πr²(パイアール2)** (Jan 06, 2026 05:27am): 見れるかもだけどそもそもisgc自体のシステムもわからないし先生が言ってこないなら大丈夫だと思うよ
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 21, 2025 02:54am
+- **Updated At (UTC):** Jan 23, 2026 11:41am
+
+---
+
+### 2. こんなの発見した
+**Author:** πr²(パイアール2) (naganaga)
+
+<p>ユーザー名は黒塗りにしてるよ</p>
+
+**投稿の種類:** フィルターに関する情報提供
+
+
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1769777444&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QdXRmVYpQaq3Jvh2yZu0bC4WtGTZCGBr9dmoASIWk35WOXab3mOVhigw6G71Qqw13dpdfCvG842LYyedXdZA3%2Bsbz7M4n4p3swoO9EZBK61AgHEtOx7E4F5xZnghghIdByYeofWIBE9SvezRB7b8Zobg5KWgKsis8f31KYkT8CY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+
+#### Comments (5)
+- **πr²(パイアール2)** (Nov 16, 2025 12:08pm): もうネット上に無数にあるし
+- **πr²(パイアール2)** (Nov 16, 2025 12:08pm): まあダイジョブでしょ
+- **πr²(パイアール2)** (Nov 09, 2025 08:31am): フィルタリングルールの更新日時とか書いてあった
+- **稲田りく** (Nov 10, 2025 05:00am): どうやって行った？
+- **Honest Dolphin** (Nov 11, 2025 05:06am): 住んでる区出てるよ
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Nov 09, 2025 08:30am
+- **Updated At (UTC):** Jan 23, 2026 11:41am
+
+---
+
+### 3. ISGCをぶっ壊す
 **Author:** πr²(パイアール2) (naganaga)
 
 
@@ -2980,34 +3062,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Dec 10, 2025 12:19am
-- **Updated At (UTC):** Jan 12, 2026 04:32am
-
----
-
-### 9. 仮説だけど話します。是非見て
-**Author:** k&K (gs185779)
-
-<p>＊これから書くことは全て仮説や自分の独断　　とか偏見です</p><p><br></p><p><br></p><p>自分の住んでいる地域では2ヶ月一回位の</p><p>ペースでタブレットの更新が入っるんだけど</p><p>その更新されるときに多分履歴とかも見られるんだけどその時多分見られるのが一週間以内の履歴だと思うのよ。なんでそう思うかというと、今日更新日だったんだけど昨日閲覧したれんれんとかMSNとかが規制されてて一週間前に閲覧したわかめがまだ生きてたのよ</p><p><br></p><p>この意見どう思うか聞きたいから</p><p>コメントに書いて！！</p>
-
-
-
-#### Comments (7)
-- **Natsu** (Dec 18, 2025 11:48pm): たしかにそれはあるかも
-- **削除済みユーザー** (Dec 19, 2025 08:30am): renderとかなら...
-- **削除済みユーザー** (Dec 19, 2025 08:30am): 規制されても新しいの作ればよくね...?
-- **Natsu** (Dec 19, 2025 09:00am): それはそう
-- **NyrikX(GDplayer)** (Jan 19, 2026 08:26am): 自分は、クロームブックを何回か初期化したことありますが、そもそも学校用のアカウントしか入れないし、プロキシ使っても入れません。初期化し学校用アカウントに入るのを数回に渡ってやったら、毎回どれかのプロキシに何かしらのエラーやブロックがされます。合計で被害を受けたのはutopia2つとランマーヘッド2つがブロックされ、inbox(index)がブロックではなくアクセスできないえらーのようになっていました。最悪です。みんなもこうならないように、電源や初期化はもうやめよう。
-- **Natsu** (Dec 18, 2025 11:48pm): (・∀・)ｲｲﾈ!
-- **❄️aotan❄️** (Dec 19, 2025 06:59am): (・∀・)ｲｲﾈ!!
-
-#### Reactions
-- **Average star rating:** 5.0
-- **Number of ratings:** 2
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 18, 2025 10:20am
-- **Updated At (UTC):** Jan 12, 2026 04:32am
+- **Updated At (UTC):** Jan 23, 2026 11:40am
 
 ---
 
