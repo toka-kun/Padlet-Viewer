@@ -111,6 +111,7 @@ jobs:
 
           # --- 4. kiseikaijoiinkai シリーズ ---
           save_padlet "https://padlet.com/padlets/5db70e80bto7rnxl/exports/markdown.md" "archive/kiseikaijoiinkai/lobby.md"
+          save_padlet "https://padlet.com/padlets/li9b305l0l9h3kx5/exports/markdown.md" "archive/kiseikaijoiinkai/main.md"
 
           # --- 5. その他の単独ファイル ---
           save_padlet "https://padlet.com/padlets/zsdegt1d6scuq9qa/exports/markdown.md" "archive/beruri.md"
