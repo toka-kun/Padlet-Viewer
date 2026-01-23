@@ -23,8 +23,8 @@ jobs:
           # 日本時間に設定
           export TZ='Asia/Tokyo'
           
-          # 保存先のフォルダをまとめて作成
-          mkdir -p archive/nyg archive/woolisbest archive/magurock archive/kiseikaijoiinkai
+          # 保存先のフォルダをまとめて作成（egaoを追加）
+          mkdir -p archive/nyg archive/woolisbest archive/magurock archive/kiseikaijoiinkai archive/egao
 
           # 待機時間を決定
           if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
@@ -51,7 +51,7 @@ jobs:
                     return 0
                 fi
 
-                # 3. 変更チェック（ここを修正：diffコマンドで比較）
+                # 3. 変更チェック（diffコマンドで比較）
                 if [ -f "$OUT_FILE" ]; then
                     # 既存ファイルのヘッダー（1,2行目）を除外したものを一時作成
                     tail -n +3 "$OUT_FILE" > current_body.tmp
@@ -113,7 +113,11 @@ jobs:
           save_padlet "https://padlet.com/padlets/5db70e80bto7rnxl/exports/markdown.md" "archive/kiseikaijoiinkai/lobby.md"
           save_padlet "https://padlet.com/padlets/li9b305l0l9h3kx5/exports/markdown.md" "archive/kiseikaijoiinkai/main.md"
 
-          # --- 5. その他の単独ファイル ---
+          # --- 5. egao シリーズ ---
+          save_padlet "https://padlet.com/padlets/8fca4hvtg8cxbx18/exports/markdown.md" "archive/egao/lobby.md"
+          save_padlet "https://padlet.com/padlets/528n877zusll9iby/exports/markdown.md" "archive/egao/main.md"
+
+          # --- 6. その他の単独ファイル ---
           save_padlet "https://padlet.com/padlets/zsdegt1d6scuq9qa/exports/markdown.md" "archive/beruri.md"
           save_padlet "https://padlet.com/padlets/fj7pwrjfd44519fq/exports/markdown.md" "archive/bonjour.md"
           save_padlet "https://padlet.com/padlets/afg5jcs1w4yyk2h1/exports/markdown.md" "archive/hikari.md"
