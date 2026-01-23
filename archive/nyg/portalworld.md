@@ -1,4 +1,4 @@
-最終更新: 2026/01/23 13:39:02
+最終更新: 2026/01/23 13:44:26
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 65
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jan 22, 2026 11:06am
+- **Updated At (UTC):** Jan 23, 2026 04:40am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -1500,7 +1500,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769747942&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=scvZjPVq3qApWdBAw9senf0LKDXg65CULal8s6AEXEebg7u1aq%2Bm%2BntFVNyDopLINTCDukOiV81%2BfDJp5GOa0%2FqkuuuI85ClZcedAWWsvPF4klGuPs99kZDLcZkrMDHp0iTDvo%2FfEnygSHF8bEJBQR2QqiyJ%2BsK7Oup7THYHXmg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769748266&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aTd2uSYQMjdbM2o0xzLK8RnjO8xg7ksnDLznKzspsHUfVi%2FmOQZJ0V%2FBsRJKteQiqhVrc6unqXdpSCqbdsidTTWlQ0WGHwjp3HKPjdh5x6pRu%2FRO%2B2S4osYuzisFK2mJJsr6LGkIgBnhYVJ6OpzvBXL%2FemLaUpKWDsyVRBjRdLk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
