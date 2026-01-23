@@ -1,4 +1,4 @@
-最終更新: 2026/01/23 21:51:35
+最終更新: 2026/01/24 06:23:35
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 23, 2026 12:38pm
+- **Updated At (UTC):** Jan 23, 2026 09:02pm
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (72)
+#### Comments (73)
 - **削除済みユーザー** (Jan 16, 2026 02:42pm):  
 - **sanae1212** (Jan 16, 2026 07:44am): 入れて！
 - **woolisbest** (Jan 17, 2026 12:12pm): おい
@@ -64,6 +64,7 @@
 - **マダタスカル** (Jan 13, 2026 10:31pm): いれて
 - **woolisbest** (Jan 23, 2026 08:16am): ライマン以外の君のアカウントは入れてあるよ......
 - **woolisbest** (Jan 23, 2026 08:15am): 乗っ取りで潰されて垢作り直したの
+- **スシロー** (Jan 23, 2026 09:02pm): うーりすさんお願いします
 - **光の忍者** (Jan 22, 2026 09:42am): 入れてください
 - **無名の光** (Jan 20, 2026 11:33pm): 入りたいです
 - **Yusho** (Jan 20, 2026 09:47am): 入れてくだせぇ
