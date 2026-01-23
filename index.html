@@ -8,11 +8,6 @@
     <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
     
     <style>
-        /* --- 全体設定 --- */
-        * {
-            box-sizing: border-box; /* パディングが横幅を広げないように設定 */
-        }
-
         /* --- 全体レイアウト --- */
         body {
             margin: 0;
@@ -73,8 +68,6 @@
         /* --- カラム（列） --- */
         .column {
             background-color: #161b22;
-            /* 横幅を350pxで厳密に固定 */
-            width: 350px;
             min-width: 350px;
             max-width: 350px;
             border-radius: 6px;
@@ -84,7 +77,6 @@
             max-height: 100%;
             flex-shrink: 0;
             box-shadow: 0 8px 24px rgba(0,0,0,0.4);
-            overflow: hidden; /* カラム自体のはみ出し防止 */
         }
 
         .column-header {
@@ -97,10 +89,6 @@
             border-radius: 6px 6px 0 0;
             flex-shrink: 0;
             position: sticky; top: 0; z-index: 10;
-            /* 長いタイトル対策 */
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
         }
 
         .column-body {
@@ -124,9 +112,6 @@
             position: relative;
             box-shadow: 0 1px 2px rgba(0,0,0,0.1);
             transition: all 0.2s cubic-bezier(0.3, 0, 0.5, 1);
-            /* カード内部のはみ出し防止 */
-            width: 100%;
-            overflow: hidden;
         }
         .card:hover {
             border-color: #8b949e;
@@ -147,9 +132,6 @@
         .card-title {
             font-size: 1rem; font-weight: 600; margin-bottom: 4px;
             color: #e6edf3; line-height: 1.4;
-            /* 長いタイトルの改行制御 */
-            overflow-wrap: break-word;
-            word-break: break-word;
         }
         .card-meta-header {
             font-size: 0.75rem; color: #7d8590; margin-bottom: 12px;
@@ -169,7 +151,7 @@
             transition: color 0.2s;
         }
         .author-link:hover {
-            color: #58a6ff; 
+            color: #58a6ff; /* Padletの青っぽい色 */
             text-decoration: underline;
         }
 
@@ -209,10 +191,7 @@
         /* 本文 */
         .card-content {
             font-size: 0.85rem; line-height: 1.6; color: #c9d1d9;
-            margin-bottom: 12px; 
-            /* 強制折り返し設定 */
-            overflow-wrap: break-word;
-            word-break: break-word;
+            margin-bottom: 12px; overflow-wrap: break-word;
         }
         .card-content img { 
             max-width: 100%; height: auto; 
@@ -221,15 +200,6 @@
         }
         .card-content a { color: #58a6ff; text-decoration: none; }
         .card-content a:hover { text-decoration: underline; }
-
-        /* Markdown内のコード・テーブル等の溢れ対策 */
-        .card-content pre, 
-        .card-content code, 
-        .card-content table {
-            max-width: 100%;
-            overflow-x: auto;
-            display: block;
-        }
 
         /* カスタムフィールド表示エリア */
         .custom-fields-area {
@@ -240,22 +210,19 @@
             font-size: 0.8rem;
             color: #c9d1d9;
             border: 1px solid rgba(48, 54, 61, 0.5);
-            /* 長い値の対策 */
-            overflow-wrap: break-word;
-            word-break: break-word;
         }
         .custom-field-row {
             display: flex; gap: 6px; margin-bottom: 2px;
         }
         .custom-field-row:last-child { margin-bottom: 0; }
-        .custom-field-label { color: #8b949e; font-weight: 600; min-width: 80px; flex-shrink: 0; }
+        .custom-field-label { color: #8b949e; font-weight: 600; min-width: 80px; }
 
         /* リアクション（スター）エリア */
         .reactions-section {
             display: flex; align-items: center; justify-content: space-between;
             padding: 8px 0;
             border-top: 1px solid rgba(48, 54, 61, 0.5);
-            margin-top: auto; 
+            margin-top: auto; /* コンテンツの下に配置 */
         }
         .stars {
             background: rgba(227, 179, 65, 0.1); color: #e3b341;
@@ -287,7 +254,7 @@
         .comment-top { display: flex; justify-content: space-between; margin-bottom: 2px; font-size: 0.75rem; }
         .comment-user { color: #e6edf3; font-weight: bold; }
         .comment-date { color: #7d8590; }
-        .comment-msg { color: #c9d1d9; overflow-wrap: break-word; word-break: break-word; }
+        .comment-msg { color: #c9d1d9; word-break: break-all; }
 
         /* ロード・エラー */
         #loading { width: 100%; height: 100%; display: flex; padding: 20px; gap: 20px; }
@@ -313,7 +280,7 @@
 
         /* スマホ対応 */
         @media (max-width: 768px) {
-            .column { min-width: 85vw; max-width: 85vw; width: 85vw; scroll-snap-align: center; }
+            .column { min-width: 85vw; scroll-snap-align: center; }
             #board-canvas { scroll-snap-type: x mandatory; padding: 16px; gap: 16px; }
             header { flex-wrap: wrap; height: auto; padding: 10px 16px; gap: 8px; }
             header h1 { font-size: 0.9rem; max-width: 100%; width: 100%; }
