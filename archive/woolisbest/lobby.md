@@ -1,4 +1,4 @@
-最終更新: 2026/01/22 21:53:54
+最終更新: 2026/01/23 10:51:24
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 22, 2026 11:58am
+- **Updated At (UTC):** Jan 23, 2026 01:23am
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (65)
+#### Comments (66)
 - **削除済みユーザー** (Jan 16, 2026 02:42pm):  
 - **sanae1212** (Jan 16, 2026 07:44am): 入れて！
 - **woolisbest** (Jan 17, 2026 12:12pm): おい
@@ -29,6 +29,7 @@
 - **おはようって伝えなくてもいつでも心は繋がっていると思いますよね** (Jan 19, 2026 01:48am): いれーーて
 - **おいお前らー** (Jan 19, 2026 01:59am): フォローしたよ
 - **おいお前らー** (Jan 19, 2026 01:56am): 入れて 
+- **ざれつか** (Jan 23, 2026 01:23am): 入れてください
 - **げろろん** (Jan 17, 2026 09:36am): はい
 - **チンされたチキン‼（チンチキって呼んでね）** (Jan 17, 2026 04:36am): いれて
 - **woolisbest** (Jan 16, 2026 03:26pm): ok
