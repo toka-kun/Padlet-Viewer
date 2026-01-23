@@ -63,7 +63,6 @@
             padding: 24px;
             gap: 24px;
             align-items: flex-start;
-            scroll-behavior: smooth; /* スムーズスクロール有効化 */
         }
 
         /* --- カラム（列） --- */
@@ -102,66 +101,6 @@
         .column-body::-webkit-scrollbar { width: 8px; }
         .column-body::-webkit-scrollbar-track { background: #161b22; }
         .column-body::-webkit-scrollbar-thumb { background-color: #30363d; border-radius: 4px; }
-
-        /* --- ナビゲーションカラム用スタイル --- */
-        .nav-column {
-            background-color: #0d1117; /* 少し色を変えて区別 */
-            border: 1px dashed #30363d;
-        }
-        .nav-list {
-            display: flex;
-            flex-direction: column;
-            gap: 4px;
-        }
-        .nav-item {
-            padding: 10px 14px;
-            background-color: #161b22;
-            border: 1px solid #30363d;
-            border-radius: 6px;
-            color: #58a6ff;
-            text-decoration: none;
-            font-size: 0.85rem;
-            font-weight: 500;
-            cursor: pointer;
-            transition: all 0.2s;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-        .nav-item:hover {
-            background-color: #21262d;
-            border-color: #8b949e;
-            transform: translateX(4px);
-        }
-        .nav-item::before {
-            content: '📌';
-            font-size: 0.8rem;
-        }
-
-        /* --- 最初に戻るボタン --- */
-        #back-to-start {
-            position: fixed;
-            bottom: 24px;
-            left: 24px;
-            z-index: 1000;
-            background-color: #238636;
-            color: white;
-            border: none;
-            border-radius: 20px;
-            padding: 10px 18px;
-            font-size: 0.85rem;
-            font-weight: 600;
-            cursor: pointer;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.5);
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            transition: transform 0.2s, opacity 0.2s;
-        }
-        #back-to-start:hover {
-            background-color: #2ea043;
-            transform: scale(1.05);
-        }
 
         /* --- カード --- */
         .card {
@@ -376,8 +315,6 @@
         <div id="error-message"></div>
     </main>
 
-    <button id="back-to-start" style="display:none;" onclick="scrollToStart()">⬅ 最初に戻る</button>
-
     <script>
         const markdownUrl = '/padlet_export.md';
 
@@ -395,11 +332,6 @@
                 node.setAttribute('rel', 'noopener noreferrer');
             }
         });
-
-        // スクロール制御用関数
-        function scrollToStart() {
-            document.getElementById('board-canvas').scrollTo({ left: 0, behavior: 'smooth' });
-        }
 
         async function fetchAndRender() {
             const loadingDiv = document.getElementById('loading');
@@ -442,16 +374,6 @@
 
                 renderBoard(markdownContent, canvas);
 
-                // スクロールボタンの表示制御
-                const backBtn = document.getElementById('back-to-start');
-                canvas.addEventListener('scroll', () => {
-                    if (canvas.scrollLeft > 300) {
-                        backBtn.style.display = 'flex';
-                    } else {
-                        backBtn.style.display = 'none';
-                    }
-                });
-
             } catch (error) {
                 console.error('Fetch error:', error);
                 loadingDiv.style.display = 'none';
@@ -476,14 +398,12 @@
 
             const columns = markdownText.split(/^## /gm);
             
-            // ナビゲーション用の配列
-            const navItems = [];
-
             columns.forEach((colText, index) => {
                 if (colText.trim().length === 0) return;
 
                 // --- 0:タイトルブロック、1:最初のカラム を両方スキップ ---
                 if (index <= 1) return;
+                // ----------------------------------------------------
 
                 const firstLineBreak = colText.indexOf('\n');
                 let colTitle = (firstLineBreak === -1) ? colText.trim() : colText.substring(0, firstLineBreak).trim();
@@ -491,9 +411,6 @@
 
                 const colDiv = document.createElement('div');
                 colDiv.className = 'column';
-                const colId = `col-${index}`;
-                colDiv.id = colId; // スクロール先としてIDを付与
-                
                 colDiv.innerHTML = `
                     <div class="column-header">${escapeHtml(colTitle)}</div>
                     <div class="column-body"></div>
@@ -513,6 +430,7 @@
 
                 cardsData.forEach((cardText, cIndex) => {
                     if (!cardText.trim()) return;
+
                     try {
                         const card = parseCard(cardText);
                         colBody.appendChild(createCardElement(card));
@@ -523,37 +441,8 @@
 
                 if (colBody.children.length > 0) {
                     canvas.appendChild(colDiv);
-                    // ナビゲーション用データに追加
-                    navItems.push({ title: colTitle, id: colId });
                 }
             });
-
-            // --- ナビゲーションカラムを作成して先頭に挿入 ---
-            if (navItems.length > 0) {
-                const navCol = document.createElement('div');
-                navCol.className = 'column nav-column';
-                navCol.innerHTML = `
-                    <div class="column-header">🗺️ 目次・セクション一覧</div>
-                    <div class="column-body nav-list"></div>
-                `;
-                const navBody = navCol.querySelector('.nav-list');
-                
-                navItems.forEach(item => {
-                    const link = document.createElement('a');
-                    link.className = 'nav-item';
-                    link.textContent = item.title;
-                    link.onclick = (e) => {
-                        e.preventDefault();
-                        const target = document.getElementById(item.id);
-                        if (target) {
-                            target.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'start' });
-                        }
-                    };
-                    navBody.appendChild(link);
-                });
-                
-                canvas.insertBefore(navCol, canvas.firstChild);
-            }
         }
 
         function smartDateFormat(rawStr) {
