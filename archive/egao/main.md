@@ -1,4 +1,4 @@
-最終更新: 2026/01/24 20:20:36
+最終更新: 2026/01/24 21:44:25
 
 # 最強プロキシ研究会(極秘)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/sh30008/padlet-528n877zusll9iby
 - **Builder:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
-- **Posts:** 101
+- **Posts:** 103
 - **Created At (UTC):** Oct 04, 2025 01:16pm
-- **Updated At (UTC):** Jan 24, 2026 05:33am
+- **Updated At (UTC):** Jan 24, 2026 11:45am
 
 ## ルール
 
@@ -54,7 +54,17 @@
 
 ---
 
-### 2. かみぽてやでん
+### 2. やぁクシャクシャインだお
+**Author:** クシャクシャイン×万年平社員 (WRYYYYYYYYYYYYYY)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 24, 2026 11:42am
+- **Updated At (UTC):** Jan 24, 2026 11:42am
+
+---
+
+### 3. かみぽてやでん
 **Author:** かみぽて🌙 猫化中 (stella_meit)
 
 #### Comments (3)
@@ -69,7 +79,7 @@
 
 ---
 
-### 3. 俺のproxy貼らないでー
+### 4. 俺のproxy貼らないでー
 **Author:** 削除済みユーザー
 
 <p>nimonoが入ってるproxyのリンク</p><p>元煮物だお</p>
@@ -84,12 +94,12 @@
 
 ---
 
-### 4. 【自己紹介するでぇ！】
+### 5. 【自己紹介するでぇ！】
 **Author:** ꧁𝖓𝖔𝖗𝖒𝖆𝖑 𝕶🗽꧂ #𝕶族1代目 #neko族？代目 (normalK_216)
 
 <p>どうも！normal Kです！</p><p>ノーマルって呼んでほしいねん</p><p>小説？みたいのを書き始めて</p><p>1ヶ月が経ち24話まで進んでます</p><p><strong><mark>ここに貼ってるのは1話のpdfです</mark></strong></p><p><strong><mark>続きが気になる方は</mark></strong></p><p><strong><mark>俺の小説部屋に全話載ってるよぉ！</mark></strong></p><p><strong><mark>pdfが読めない方専用の部屋も</mark></strong></p><p><strong><mark>あるから来てね</mark></strong></p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/ebaf7df0af9df2e38c4255dd6dc6b6a5/1_.pdf?Expires=1769858435&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=48dl2%2Bp9RH6zkDiZ0AQr3jOqj8GvbkZxfKLq5Oo1%2B7cSH0q5HjpEat0BKrDv8sw%2Fa2YXJ%2F%2FDi8HiM4NXKn4U6f%2BKqw%2BTHr8b4iIUArbK0G9MGdsAH%2BQFWfCLu95l41AzWkvvKx3ZJBIywTVU9Hp4nKToJ5LMlf6UQT8ncWu29Zs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2Febaf7df0af9df2e38c4255dd6dc6b6a5%2F1_.pdf)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/ebaf7df0af9df2e38c4255dd6dc6b6a5/1_.pdf?Expires=1769863464&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uHyKMua00wpDh0NfkGWhhn0rEpff714nX7ozKRhtAdxE6UBKx2xytWPFTrWMDoKMevPdbFFevKUPDA%2BfdPfuOL1UujJKnUMxaJJBXEd3dxVM0yzS54ovtsbkPTQwLdQWaQVMNtRlkPphtFo7MsrLQYEMR2OoOnLWaOOTgQ7iOnc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2Febaf7df0af9df2e38c4255dd6dc6b6a5%2F1_.pdf)
 
 #### Comments (1)
 - **tsusora 0209　＃OFA11番弟子　＃笑顔さん１番弟子　-_-z** (Nov 15, 2025 03:38pm): 🤣👏👏👍
@@ -106,7 +116,8 @@
 ### 1. 弟子になりたい人コメントして
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
-#### Comments (2)
+#### Comments (3)
+- **クシャクシャイン×万年平社員** (Jan 24, 2026 11:43am): なりたいンゴ
 - **凡人人間の俺** (Oct 22, 2025 12:39pm): なりたいでーす
 - **tsusora 0209　＃OFA11番弟子　＃笑顔さん１番弟子　-_-z** (Oct 22, 2025 07:12am): なりたいー
 
@@ -158,7 +169,7 @@
 
 <p>コメントで部屋宣伝しないで</p><p>もうするなよ</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/4c854c418bca972c4b5dee58ec162f66/image.png?Expires=1769858436&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=093vuCFmIwV58EGwIdMMdoAZt8ostY0uq%2FD9uSRBKABDN5%2FRgfEbP6rjWw7Uvm0y1q4Wau8rAR3jbwc4zd%2FmJsr%2BKf4uyfQCelROS5%2BYCBX8qJPjjlXrhRaRawQ8IxTb%2Fqgy%2B9dQNF7HFhFvBfHmdeT6e%2Fv%2BpnZ4kGovUXpYMvw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2F4c854c418bca972c4b5dee58ec162f66%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/4c854c418bca972c4b5dee58ec162f66/image.png?Expires=1769863464&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rR6er0e7OwUaZwIdgrXdeuTTrCbepqmEfgQjIARU%2FKNKA4NUq1B6p5OfO7TdGGQjyKOltlJ%2BsoQW03O5VQWwnpQjlaU7hL3xHRbpnEm902PKd29PYnFDg2oTu5pZ3bJjdCvsDgsRtO7NJAVW1jLsIJN6M8NNs7gPmmhvFSvFREA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2F4c854c418bca972c4b5dee58ec162f66%2Fimage.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Dec 17, 2025 09:29am): 草
@@ -173,7 +184,7 @@
 ### 4. 俺と、プロキシ世界を高め合おう！
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4198344350/f2cf82d3ddcfa1cda5fd2e876b9be080/Screenshot_2025_10_06_13_57_19.png?Expires=1769858436&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EIk4AupW44goqBpsthxt1Nb17DN71FBl3Kl0YQh90MLZuqzNUcIadvgKCGetlRUP4olIIulSPwS%2FklEu3nxl%2FE3%2FbFNZqTpnBqZaERH2a4wQ8hlW%2F7ZOW7HJmsCBaBt8lFYcOIRAWoMELgsyUpPXG%2BIMIzM84uXEgliktvzd%2BBk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4198344350%2Ff2cf82d3ddcfa1cda5fd2e876b9be080%2FScreenshot_2025_10_06_13_57_19.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4198344350/f2cf82d3ddcfa1cda5fd2e876b9be080/Screenshot_2025_10_06_13_57_19.png?Expires=1769863464&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kEYzkY%2FJVAaPVfHcj%2FZ91ks5hW30kM0SW919Os5HbqYBWOXW3A2Fx%2FQJqpv3zLydQzL4%2FHC0cbrOVp3isNAhlaZ5REFSKJgUhulnMSK4g03jlR35ln8Wjq7HSctyXoyMh5NgauMmALpR%2FxNWFska4gw0I8hbxFuWDzolm8bHCPg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4198344350%2Ff2cf82d3ddcfa1cda5fd2e876b9be080%2FScreenshot_2025_10_06_13_57_19.png)
 
 #### Comments (3)
 - **TOMO_2011　#OFAの12番弟子　#煮物の32番弟子** (Oct 09, 2025 03:12am): そういう言葉は、謹んでください。
@@ -1225,7 +1236,19 @@
 
 ## 神ゲー
 
-### 1. Post 1
+### 1. マイクラぁぁぁ
+**Author:** クシャクシャイン×万年平社員 (WRYYYYYYYYYYYYYY)
+
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4851851357/d1d19cf0bc61c546dbae4f66fd7a7fad/____1_20__1_.html?Expires=1769863465&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wlnHyn0B%2FormD5FUyYgvQI5S9MrTXI%2BwBA81xAzE%2F5zJx25RdvGc1bPRcJbtfGr7gfVmoBk2wRkZX21IPy9IrLGl%2B3ScNEcEzWvlrx6h21TYd4tT3lyBDMIP0xmj9e2kkuV90V5Pbv3uAQmbHpaJN5NAbCn5Lxd5k8q8NCbwzXM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4851851357%2Fd1d19cf0bc61c546dbae4f66fd7a7fad%2F____1_20__1_.html)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 24, 2026 11:45am
+- **Updated At (UTC):** Jan 24, 2026 11:45am
+
+---
+
+### 2. Post 2
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
 [Attachment](https://unblockedgames1024.gitlab.io/game/amazing-strange-rope-police.html)
@@ -1237,7 +1260,7 @@
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
 [Attachment](https://scratch.mit.edu/projects/802731501/)
@@ -1249,7 +1272,7 @@
 
 ---
 
-### 3. 神ゲー
+### 4. 神ゲー
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
 [Attachment](https://rawcdn.githack.com/lioxryt/lioxryt-assets/0cf7d107ddb99c99ea20387522aa29b8ee382049/other/funnyshooter2/index.html)
@@ -1261,7 +1284,7 @@
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
 [Attachment](https://www.dailytoolz.com/gameindex.php)
@@ -1273,7 +1296,7 @@
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
 [Attachment](https://yandhi.herokuapp.com/service/hvtrs8%2F-wuw%2Ccpaxyeaoeq.aoo%2Fhp-gcmg%2Fnuobgr%2Fhcrteqt%2Ftpeg-auvtkne-eaoe)
@@ -1285,7 +1308,7 @@
 
 ---
 
-### 6. https://yandhi.herokuapp.com/service/hvtrs8%2F-wuw%2Ccpaxyeaoeq.aoo%2Fhp-
+### 7. https://yandhi.herokuapp.com/service/hvtrs8%2F-wuw%2Ccpaxyeaoeq.aoo%2Fhp-
 
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
@@ -1298,7 +1321,7 @@
 
 ---
 
-### 7. 煮物さんのテトリス
+### 8. 煮物さんのテトリス
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
 [Attachment](https://html.cafe/xb5596eec)
@@ -1310,7 +1333,7 @@
 
 ---
 
-### 8. 採掘ゲー
+### 9. 採掘ゲー
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
 [Attachment](https://html.cafe/x4d456b1b)
