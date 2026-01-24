@@ -1,4 +1,4 @@
-最終更新: 2026/01/25 07:22:13
+最終更新: 2026/01/25 08:22:09
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/BERURI1214/padlet-zsdegt1d6scuq9qa
 - **Builder:** 太古の太鼓~1853 ゴリら (BERURI1214)
-- **Posts:** 71
+- **Posts:** 72
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Jan 19, 2026 04:21am
+- **Updated At (UTC):** Jan 24, 2026 11:17pm
 
 ## ルール
 
@@ -30,7 +30,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1769898131&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BrHvaAYCXHY0jO%2BOUfFnQgX8yMCRkNPyLgkcvLUheiHQ%2B3s93RTAmgzafbfRkiaKVaU%2BDEmdGMZRCNOA%2FvXeef2rUl2AVsgoBnmKtjsYVTzvzWj%2BMxIWQtErlsdHnHEwL3y91mluraalIFAdse9tqOc8%2BfT0yGq0rrDxNN5ToVw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1769901727&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RIxpeAEH4YcBJElkOwJ%2B8qq71NSlmFDSGIIfw%2F3V6BaCqGjkbuM5icWVwHSs6VZoXqQsB0lYzsI0QLp56HiptcxGrzpFJISKZcLm0GTlCTf2efjzDDIwo%2BQNQtBR4UXkj%2BHizSA15iUmh1%2B4n8Nneb0cFdvgJTW5nB15cczvoKU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -70,7 +70,19 @@
 
 ---
 
-### 2. ライター受付の改善お知らせ
+### 2. ちなみに訪問者の数が7500辺りになりました、
+**Author:** 共有広場協力委員会 (sagyousyasan)
+
+<p>このまま1万突破してから活動休止にしたいと思います、</p><p>今もリアルで忙しいのでキツイですが、働いて働いて働いて参ります</p>
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 24, 2026 11:17pm
+- **Updated At (UTC):** Jan 24, 2026 11:17pm
+
+---
+
+### 3. ライター受付の改善お知らせ
 **Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
 
 <p>申請する事で3日後ライターです。</p><p>この投稿に対しコメントをしても意味がないです</p><p>10月20日以前から申請してた方はもう一度お願いします。</p><p>○○の弟子、○○貢献者などはブラックリストに全員入れる予定です</p><p><br></p><p>このセクションはお知らせだと思っていいです。</p><p>ちなみに大事な投票が終わって投稿が削除された後は誰でも投票をしても構いません。</p><p><br></p>
