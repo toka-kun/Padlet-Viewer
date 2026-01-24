@@ -1,4 +1,4 @@
-最終更新: 2026/01/23 17:46:53
+最終更新: 2026/01/24 15:35:01
 
 # 最強プロキシ研究会ライター受付所
 
@@ -113,7 +113,7 @@
 - **TOMO_2011　#OFAの12番弟子　#煮物の32番弟子** (Dec 09, 2025 10:16pm): 遅くなってすまん
 - **TOMO_2011　#OFAの12番弟子　#煮物の32番弟子** (Dec 14, 2025 02:13pm): した
 - **削除済みユーザー** (Jan 06, 2026 11:13am): した
-- **あきと** (Jan 18, 2026 03:20am): [Attachment](https://padlet.com/sh30008/padlet-8fca4hvtg8cxbx18/wish/NvylWErAky3qa0OX) したのでライターにして
+- **蓮** (Jan 18, 2026 03:20am): [Attachment](https://padlet.com/sh30008/padlet-8fca4hvtg8cxbx18/wish/NvylWErAky3qa0OX) したのでライターにして
 
 #### Additional Information
 - **Post color:** White
