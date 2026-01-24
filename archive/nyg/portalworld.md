@@ -1,4 +1,4 @@
-最終更新: 2026/01/25 00:21:46
+最終更新: 2026/01/25 01:27:06
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 65
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jan 23, 2026 11:10am
+- **Updated At (UTC):** Jan 24, 2026 04:10pm
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -49,8 +49,7 @@
 
 
 
-#### Comments (3)
-- **うみねこ** (Jan 03, 2026 12:40pm): はい
+#### Comments (2)
 - **だいまたハムスター（偽物注意）#りおとの35番弟子#わかめGOＤ教#煮物貢献者#イケメン様様信者　ここみたってことは復讐ってこと！こわいよーたすけてフォローってなんのいみあんの？とりあえずしてーーKUNがすき　はむかす** (Sep 03, 2025 07:16am): とうこうするねごめん
 - **Magurock  (偽物や偽投稿など注意)** (Sep 06, 2025 08:58am): かなり人気になってきた
 
@@ -1500,7 +1499,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769872906&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=HFjjZ79hk2BYBfzMv8yzt%2FA0vHTQn6vqk9oqGLZ1zkm7TQ0xV47%2Ff93vGwxBy0gnFKZzEtvT4prZFHFmrRx3vkUDC8dFiUX1HOuk7yKhZvguwT45onEfd6NWjWONtfqRMlsd0ldYUd8eBGwH6Q5mc0g6n%2B6drJ0p%2BwHxSJtJ288%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1769876826&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Znf36PqbC2wTOjDeGQbolydUdogSg3Zjjy4L8hzPEF6H0ySE6Y4Y2rBiJpGuSnjj%2BNNPo8fCjIIyEhC4F8OvE7omfPq0BBxQR%2BT96KDBoUvlKJyo9GGGYQKrF%2BFkQoIArKEMh%2BciS43gmcCfL3KGEAppUEr9hwT8os%2FgbPZPt78%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
