@@ -1,4 +1,4 @@
-最終更新: 2026/01/24 18:23:05
+最終更新: 2026/01/24 20:19:59
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 23, 2026 09:02pm
+- **Updated At (UTC):** Jan 24, 2026 10:52am
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (73)
+#### Comments (74)
 - **削除済みユーザー** (Jan 16, 2026 02:42pm):  
 - **sanae1212** (Jan 16, 2026 07:44am): 入れて！
 - **woolisbest** (Jan 17, 2026 12:12pm): おい
@@ -34,6 +34,7 @@
 - **チンされたチキン‼（チンチキって呼んでね）** (Jan 17, 2026 04:36am): いれて
 - **影の覇者ライマン#ピカマンエロ専門垢** (Jan 23, 2026 07:33am): お前なんで追い出した？
 - **影の覇者ライマン#ピカマンエロ専門垢** (Jan 23, 2026 07:33am): ひでぇよぉ〜
+- **woolisbest** (Jan 24, 2026 10:52am): ok
 - **woolisbest** (Jan 16, 2026 03:26pm): ok
 - **woolisbest** (Jan 19, 2026 08:22am): 匿名さんはアカウント作ってきて～
 - **woolisbest** (Jan 19, 2026 08:22am): ok
