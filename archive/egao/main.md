@@ -1,4 +1,4 @@
-最終更新: 2026/01/24 17:29:59
+最終更新: 2026/01/24 18:23:52
 
 # 最強プロキシ研究会(極秘)
 
@@ -89,7 +89,7 @@
 
 <p>どうも！normal Kです！</p><p>ノーマルって呼んでほしいねん</p><p>小説？みたいのを書き始めて</p><p>1ヶ月が経ち24話まで進んでます</p><p><strong><mark>ここに貼ってるのは1話のpdfです</mark></strong></p><p><strong><mark>続きが気になる方は</mark></strong></p><p><strong><mark>俺の小説部屋に全話載ってるよぉ！</mark></strong></p><p><strong><mark>pdfが読めない方専用の部屋も</mark></strong></p><p><strong><mark>あるから来てね</mark></strong></p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/ebaf7df0af9df2e38c4255dd6dc6b6a5/1_.pdf?Expires=1769848198&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yfuFPWLKp5ePyf38sXA5ek30fWoVMoRrXG3QvqssfKnX%2BxWoOGwXcxVRu65rglONTac0WbRGH1Q%2F8vb1oaVaCIsRsb5GNls1hKaVZyAVljDH3%2BqJVf8N%2Ba0FL5rDAheAnqW6U%2BLTQLFxqWYPOZFU%2FvlovriKP13wbgM9jfHpUUg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2Febaf7df0af9df2e38c4255dd6dc6b6a5%2F1_.pdf)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/ebaf7df0af9df2e38c4255dd6dc6b6a5/1_.pdf?Expires=1769851431&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Ecj1tE4xK9n6dJQLnWtdWl1JMJX8nb5TGmYViKO96mT6eZrW14RozaNJXygfXGcq4Ll1iLrXONWJ6K8dU2kMVgxzvIhwvx5pjeXa0KbtAuE1GNEoihLmtQ8jWA8iRmkw3q3PpAQwkgM70Uqvckow4WFbQy5AterWsuyQZJbrqRs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2Febaf7df0af9df2e38c4255dd6dc6b6a5%2F1_.pdf)
 
 #### Comments (1)
 - **tsusora 0209　＃OFA11番弟子　＃笑顔さん１番弟子　-_-z** (Nov 15, 2025 03:38pm): 🤣👏👏👍
@@ -158,7 +158,7 @@
 
 <p>コメントで部屋宣伝しないで</p><p>もうするなよ</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/4c854c418bca972c4b5dee58ec162f66/image.png?Expires=1769848198&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QvFA46pGyb%2FdrPoJyJhlGhhG%2BIdN1XpwwoEA91643fDuP7uvM8CtoP43NtOUzbwAq0Mi4ZuwNNgg6sGbiYRoEKa9aZYOy8F3U%2Brx%2BfPo0kukNml97nKmHfy4ZTER%2B5kXVxwTd%2Fg8qTlw33F83cIsZdM5A%2FuBv4Vte91zCwFNYN4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2F4c854c418bca972c4b5dee58ec162f66%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/4c854c418bca972c4b5dee58ec162f66/image.png?Expires=1769851432&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hHfPYnGNkWZu5LV5l1HhaNYh4Thm9Bgln2xuUaLaq2njD02brA39saN9MWjSMwbWyR2Vx8MCROhfkxEc%2BO%2BTxfOwmwI7h4pNwIt98KdpdJRfo5vQCXfy8X2ZHTNDSd0jjsHoIuYvSlMrwSAfJvIdktM4qtErlJKZm%2BVyUbnNGrg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2F4c854c418bca972c4b5dee58ec162f66%2Fimage.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Dec 17, 2025 09:29am): 草
@@ -173,7 +173,7 @@
 ### 4. 俺と、プロキシ世界を高め合おう！
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4198344350/f2cf82d3ddcfa1cda5fd2e876b9be080/Screenshot_2025_10_06_13_57_19.png?Expires=1769848198&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eVGtQzFO%2BMu%2B0%2BNrB28%2FiwWQaftGzPX9TCgd9uFuH0sHI%2BfRoy68C7364wQ1JJGb7abnKopcrzjp%2FBZ9cuCifYzoDbVg85NsEViGWq%2FH3GdN%2Fu8fs%2Fq4G661UunbT0DLAoZYm1vwe%2B8hk0b1tK6Y2jCYADJQ9mmVh18TDqn6MMQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4198344350%2Ff2cf82d3ddcfa1cda5fd2e876b9be080%2FScreenshot_2025_10_06_13_57_19.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4198344350/f2cf82d3ddcfa1cda5fd2e876b9be080/Screenshot_2025_10_06_13_57_19.png?Expires=1769851432&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JXYdspmwCEMoxORs9kPBPhS6PrQ38gs4Rzd83DTxyvuCPdZD%2BlVjJHrZ1GBmIpdoifdvHhh0NyBjLQi6cC6%2F9UmAWLDEZPbRZ9MK48nzdE7QNBRN%2F0KfnF5xzSZooN6jFgtPM70%2BjmHnj2gw2EugyFY6U4DJUruymev87quqL3Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4198344350%2Ff2cf82d3ddcfa1cda5fd2e876b9be080%2FScreenshot_2025_10_06_13_57_19.png)
 
 #### Comments (3)
 - **TOMO_2011　#OFAの12番弟子　#煮物の32番弟子** (Oct 09, 2025 03:12am): そういう言葉は、謹んでください。
@@ -1030,7 +1030,7 @@
 ---
 
 ### 3. 客募集
-**Author:** 蓮 (ren419)
+**Author:** あきと (akito1031)
 
 [Attachment](https://padlet.com/fawefwt123451234/padlet-ealc43a2ybi8vh48)
 
