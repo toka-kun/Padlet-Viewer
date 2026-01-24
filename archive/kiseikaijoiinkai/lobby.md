@@ -1,4 +1,4 @@
-最終更新: 2026/01/24 23:21:33
+最終更新: 2026/01/25 00:22:25
 
 # 規制解除委員会(臨時本部)
 
@@ -81,7 +81,7 @@
 
 <p>とるっぷいが何者かによってBANされた！！！だから、とるっぷいが維持してた規制解除委員会本部部屋やVIP部屋が消えました！！なので、とるっぷい復帰まではここが臨時本部になるんやで。ってことでとるっぷい復帰までは何かあったらいときち(俺)or中居正広に行ってクレメンス。</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1769869293&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=O%2FPdcOjkDBK%2BbMGWM3%2F%2FR6T9gfGkpPr0fAio93iDG46T8XgeoXsTcRGPsqYtqKflYsx7n704j3DMeo7zcQLhZz9Ndoy4yxXEHe%2FFTKWWbgeuYtb8%2Bs3QQNA4LZczo2EreqlbcgNweZ%2FQmydFI%2FRWfQd13tHV66OJNu%2FPFStrBm8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1769872944&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KrE1B6c%2BXJELTLiBNPxueVMFIJhhA3U%2FLJhhYjw8raUOITUWa2jbBOoVWUmZaNBRlXEZ6RkU1LcmlKMlqHqSWoZHNJUEMXw1GmZeJuYoCdKHvFrSqhSXtQxm003R0EiV0RqFHsjMYvAt6dX2vqcXeXmuhc1vPefZMmmggDUGXUo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
 
 #### Comments (1)
 - **中居** (Jan 09, 2026 11:54am): かなちい
@@ -100,7 +100,7 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1769869293&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CXpQA3jzbyinJzAyhS%2F0V2YYlrmrqEr6jXqDRz5Oo82ENng6dw7yWoZL%2BifN53%2FtbbxFAxSPnyNIHORndwCZdRg1vrMPX5uIQMKAY5QbWc0WuJhTFOsF5vWo7nXMaHNu%2BTVV6BgwK%2B%2FePASLCAXrnViA5xws55If2rBN6p9Gpko%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1769872944&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KRDdykHqhOCbEbgqtUuRIUtGi37fHWYYE0lfLZLWMnc35EyOMbGOllZ8gN7BVi60nADTEK%2Fhcl5LIPZLSOTp8iWgxFpKa4Jz1vq%2FGyWIVSfoiIe%2BAft5W4VPFWpVIpcR65bNorgI1dx5dkrQjSc0TSfz19ojFG9lzaQiWIXtqyc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Post color:** White
@@ -114,7 +114,7 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1769869293&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ciMY4hux82BjcF7eAhc46YDnozVKT%2FD46I5gzmmF8JolBSHxiImxBTIznuiLKJ889vhgHK%2FEdao9ytqbhnCI%2FTyw6yACe4TKRHXIs5UxlFN2Ipxj1De3KPQFW%2BJC8Zt7VrVEnNKC9zxpYvAHRJ3FtyGW%2BTkw%2F53TcmhrnQJjYQk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1769872944&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=d8EBEzA67RSCU8QG6ZIGCnTN6ROVgjNYTpWNp43tOkXHX2zO2q2NDVgSWkX%2FJPNnKMFnj4VyIrQOKKq55kpieENiNMIITXMhzP6xT0YWyNH71x2wKGoAyfFKYmrLiBJbzxvM%2FGiEUH7UWuYKyuRMQ%2FMtpFTsNGFjHHABZ0i2NjA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Post color:** White
@@ -575,7 +575,7 @@
 
 <p>えぐいてえええええええ</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1769869293&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DVyi5jyTNu%2FBWBlL2uVTcl8dF%2FOXtwUXdad5l5L9D%2FRziIQFW0F2j9tVsDd%2FA58GqklXGDpToiQSbhgOz52T0Jvj%2BmR3HWB0YHoR%2FOEfbcDS1QHXCaWBkQ2Ks6d1ktXr0L8ddfl8QXbU4lSrDi5mhDSjd5tiXdLZabXzYbIKhLw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1769872945&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=w9kqNNXWhXM109kuzcRQUslLpHatnQruuzpoHwJHYSXLFA%2BesgmpvBk2xUBJ8oMO8MBj15X%2F13jzHsyviMCikRoIReu5Qxo2bOQPkG4aDEJFeg5rL0mFDs3zBouRWBAXeUMDPFsu7zz4i4CxILzxfhun2ygiayCbOdhQVuBsaMQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
 
 #### Comments (3)
 - **いときち** (Oct 29, 2025 10:47am): えぐしゅぎ
