@@ -1,4 +1,4 @@
-最終更新: 2026/01/25 11:02:11
+最終更新: 2026/01/25 13:14:57
 
 # 最強プロキシ研究会(極秘)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/sh30008/padlet-528n877zusll9iby
 - **Builder:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
-- **Posts:** 103
+- **Posts:** 104
 - **Created At (UTC):** Oct 04, 2025 01:16pm
-- **Updated At (UTC):** Jan 24, 2026 11:45am
+- **Updated At (UTC):** Jan 25, 2026 03:18am
 
 ## ルール
 
@@ -99,7 +99,7 @@
 
 <p>どうも！normal Kです！</p><p>ノーマルって呼んでほしいねん</p><p>小説？みたいのを書き始めて</p><p>1ヶ月が経ち24話まで進んでます</p><p><strong><mark>ここに貼ってるのは1話のpdfです</mark></strong></p><p><strong><mark>続きが気になる方は</mark></strong></p><p><strong><mark>俺の小説部屋に全話載ってるよぉ！</mark></strong></p><p><strong><mark>pdfが読めない方専用の部屋も</mark></strong></p><p><strong><mark>あるから来てね</mark></strong></p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/ebaf7df0af9df2e38c4255dd6dc6b6a5/1_.pdf?Expires=1769911329&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=i4S%2BVCDGN%2F5QEQh4XIA2EUpYufYaMwt7WgJHrExrpQMsHkYQj9q6j2VYHjWcchavxHb1c%2FLmwumvb8FMBx80CPMeKlfhLoALKPrwPJLIBkzMdq%2BcmmqOgGns2F9efUecoZhB682vR0dCwxEpcqEj6%2BCrevUrxo0IKnfm%2FCE3pjk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2Febaf7df0af9df2e38c4255dd6dc6b6a5%2F1_.pdf)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/ebaf7df0af9df2e38c4255dd6dc6b6a5/1_.pdf?Expires=1769919296&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aZINvOG7QrsFsC9NscETH1tj6D%2FlKLlKF0Cj3zW8qNIShR6vGwLi%2BEp7Iip4vij%2FqfKyLCdFs0IfMQbrcICLMdqLfCXKdksNAc66ZeFdtjNBEpIS9BTg%2FdHxpbS0UwOWikVcPxIHvMaUOwlE75v1L%2FlHSaijJL%2BYuyxtTgjS3OU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2Febaf7df0af9df2e38c4255dd6dc6b6a5%2F1_.pdf)
 
 #### Comments (1)
 - **tsusora 0209　＃OFA11番弟子　＃笑顔さん１番弟子　-_-z** (Nov 15, 2025 03:38pm): 🤣👏👏👍
@@ -169,7 +169,7 @@
 
 <p>コメントで部屋宣伝しないで</p><p>もうするなよ</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/4c854c418bca972c4b5dee58ec162f66/image.png?Expires=1769911329&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zN0BOpJrqgJr1h04u%2BnwCO0m782n2ilR8lHlOuH8TA4RqMgys9qx1FowaIW5gBCgNQKeQnpyPZ1VkP6eVqehMdRYuHGeSC9Kd4cPJY%2Fkr7tnmsCSdMod6%2F19Py1Mv%2FAXhfIAEmQO3u3RXjiCq3CM%2ByPKiiBLsw1JCXcA0LUgPn0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2F4c854c418bca972c4b5dee58ec162f66%2Fimage.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/4c854c418bca972c4b5dee58ec162f66/image.png?Expires=1769919296&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ds4pXtzatrMDDmwQzrEw%2FBmk6yKFrZ2zHFXTA9ac1cR%2BjraQboHK%2FQMWAhkXDi4RYKc%2BZgPCuX04nQteReyopTnAga9NUMMPTjdq2v68LWEXAaAKZ6iigVesOO7NznVHc0g5Yq7bSu%2F1e%2F2o1JDn9a355ioDMpqN7SEqJwY7HiQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2F4c854c418bca972c4b5dee58ec162f66%2Fimage.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Dec 17, 2025 09:29am): 草
@@ -184,7 +184,7 @@
 ### 4. 俺と、プロキシ世界を高め合おう！
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4198344350/f2cf82d3ddcfa1cda5fd2e876b9be080/Screenshot_2025_10_06_13_57_19.png?Expires=1769911329&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rFUMt5GhoP4luFnwFKwJ%2FRhhRk6wLOzVFbwKHwWVVblfPPWANSCPcxZkEOB3gnSkgw3zA6XkqT41EIbcbT5ju3%2BeRIFONkFvGXymM4b3%2Fu61Ciy%2BSk6IuhcmQ906psHlU4xBbd5UpIDCThGBeaw8iKMQsfmE%2FPVnABuF0dGWPDg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4198344350%2Ff2cf82d3ddcfa1cda5fd2e876b9be080%2FScreenshot_2025_10_06_13_57_19.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4198344350/f2cf82d3ddcfa1cda5fd2e876b9be080/Screenshot_2025_10_06_13_57_19.png?Expires=1769919296&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rfHK9eOvdXRMnqocJyRs1GPviIOn5ytQWWflNaUhCiP9lGtRBGWzxazJVRo4vdUtW5A%2FU8voLaD6AnUACTW%2FWmQ8SjOqzli%2BuyU1XkPTZ0s80Uik%2BRAgGNPwC3RnbhlaHEJ1ljHSE9kxLKHJ1seMRrxpAcVv%2BlSZtRfGTIDoB2c%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4198344350%2Ff2cf82d3ddcfa1cda5fd2e876b9be080%2FScreenshot_2025_10_06_13_57_19.png)
 
 #### Comments (3)
 - **TOMO_2011　#OFAの12番弟子　#煮物の32番弟子** (Oct 09, 2025 03:12am): そういう言葉は、謹んでください。
@@ -1040,7 +1040,19 @@
 
 ---
 
-### 3. 客募集
+### 3. 来てね
+**Author:** あきと (akito1031)
+
+[Attachment](https://padlet.com/Piece_HeyMin/piece-s-room-9ckwez3k7vfe9s08)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 25, 2026 03:18am
+- **Updated At (UTC):** Jan 25, 2026 03:18am
+
+---
+
+### 4. 客募集
 **Author:** あきと (akito1031)
 
 [Attachment](https://padlet.com/fawefwt123451234/padlet-ealc43a2ybi8vh48)
@@ -1052,7 +1064,7 @@
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
 [Attachment](https://padlet.com/1711084_20/i-know-reason-iknow-reason-8x6lwn2d6m0kbkcn)
@@ -1064,7 +1076,7 @@
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
 [Attachment](https://padlet.com/s22y164/padlet-yy2k3c5ijiflpmpw)
@@ -1076,7 +1088,7 @@
 
 ---
 
-### 6. 入ってくれ
+### 7. 入ってくれ
 **Author:** Mr・マッチョ (hattyunn)
 
 [Attachment](https://padlet.com/s02210030/padlet-34lxjzq5xvaq7v9)
@@ -1088,7 +1100,7 @@
 
 ---
 
-### 7. 入ってぇぇっぇぇ
+### 8. 入ってぇぇっぇぇ
 **Author:** おこめ (s2108797)
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-nj4cza44bnb13xr)
@@ -1100,7 +1112,7 @@
 
 ---
 
-### 8. 拡散希望
+### 9. 拡散希望
 **Author:** Mr・マッチョ (hattyunn)
 
 [Attachment](https://padlet.com/s02210030/padlet-rqb8lpgt1zqeumxl)
@@ -1112,7 +1124,7 @@
 
 ---
 
-### 9. 【宣伝失礼しまーす！】
+### 10. 【宣伝失礼しまーす！】
 **Author:** ꧁𝖓𝖔𝖗𝖒𝖆𝖑 𝕶🗽꧂ #𝕶族1代目 #neko族？代目 (normalK_216)
 
 <p>↑に貼ってある部屋は俺の部屋！</p><p>でも〜、本当に来てほしい部屋は⤵️</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/normalK_216/ss-2ulnpzfsm2evz1v6"><strong><mark>俺が書いてる小説の部屋だよ！</mark></strong></a></p><p>部屋に入って感想書いてくれたら</p><p>フォローするよぉ！</p>
@@ -1126,7 +1138,7 @@
 
 ---
 
-### 10. 入って
+### 11. 入って
 **Author:** おこめ (s2108797)
 
 [Attachment](https://padlet.com/s2108797/padlet-qxsf9uas0bfpmop4)
@@ -1141,7 +1153,7 @@
 
 ---
 
-### 11. Post 11
+### 12. Post 12
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
 [Attachment](https://padlet.com/nimonokariakadayo/padlet-5dj2fmlxpcvlxrw)
@@ -1153,7 +1165,7 @@
 
 ---
 
-### 12. 入って
+### 13. 入って
 **Author:** Mr・マッチョ (hattyunn)
 
 <p>拡散希望</p>
@@ -1167,7 +1179,7 @@
 
 ---
 
-### 13. Post 13
+### 14. Post 14
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
 [Attachment](https://padlet.com/nimonodayoo/2-9g53uj7lr27t9nit?lang=ja)
@@ -1179,7 +1191,7 @@
 
 ---
 
-### 14. Post 14
+### 15. Post 15
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
 [Attachment](https://padlet.com/wwwwwwwwwwwwwwwwwwwwwwww/padlet-s0dczdj88yp9ftfk)
@@ -1195,7 +1207,7 @@
 
 ---
 
-### 15. Post 15
+### 16. Post 16
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
 [Attachment](https://padlet.com/sh30014/padlet-xkf243hnau991j0o)
@@ -1207,7 +1219,7 @@
 
 ---
 
-### 16. おね
+### 17. おね
 **Author:** 削除済みユーザー
 
 [Attachment](https://padlet.com/s2011764_1/padlet-367pr9ve7aj71c1y)
@@ -1222,7 +1234,7 @@
 
 ---
 
-### 17. 適当に"ドン,,
+### 18. 適当に"ドン,,
 **Author:** チキバナ (tikinnbanana)
 
 [Attachment](https://padlet.com/padlets/yrhfv3qtvlmknb5n)
@@ -1239,7 +1251,7 @@
 ### 1. マイクラぁぁぁ
 **Author:** クシャクシャイン×万年平社員 (WRYYYYYYYYYYYYYY)
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4851851357/d1d19cf0bc61c546dbae4f66fd7a7fad/____1_20__1_.html?Expires=1769911330&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gJ%2Fp7CIvQLPOfPCsCrIFTw3Fel3Y95UPVQfeIx1vCY4G11DMKnwTJyO4%2FpKzqSAU629a3R9fcz85k723MoZ2oSjEoVT%2FU8y97a0GD59R83CrEXuxsvYa1gv0Blwo8O0rzZb4Ik6HGCMezSChNDBNmlSevEo5inZqV8ryTK8BIMg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4851851357%2Fd1d19cf0bc61c546dbae4f66fd7a7fad%2F____1_20__1_.html)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4851851357/d1d19cf0bc61c546dbae4f66fd7a7fad/____1_20__1_.html?Expires=1769919297&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=z9KZoRyd8DkboHOHZj9fhU5%2B%2Bo7yhnli9AntTnyMqaVdROchrHzZzpEwcs3DO%2BDORmzouViKHNM8i9wNG24%2BgSfECJBCs01NLNrvfbQyLvA1QQRUh1HzxORkEllqvYiux5MtjEWvuwE07IBP6SSv5DdMl9V6UHKK%2B8GW%2FTtF6FA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4851851357%2Fd1d19cf0bc61c546dbae4f66fd7a7fad%2F____1_20__1_.html)
 
 #### Additional Information
 - **Post color:** White
