@@ -286,6 +286,44 @@
             header h1 { font-size: 0.9rem; max-width: 100%; width: 100%; }
             header .meta-info { margin-left: 0; width: 100%; justify-content: flex-start; font-size: 0.75rem; }
         }
+
+        /* --- 目次（TOC）用スタイル --- */
+        .toc-link {
+            color: #e6edf3;
+            text-decoration: none;
+            font-size: 0.9rem;
+            padding: 8px 12px;
+            border-radius: 4px;
+            display: block;
+            transition: background 0.2s;
+        }
+        .toc-link:hover {
+            background-color: #21262d;
+            color: #58a6ff;
+        }
+
+        /* --- ホームへ戻るボタン（右下固定） --- */
+        #back-to-home {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            z-index: 1000;
+            background-color: #21262d;
+            color: #e6edf3;
+            border: 1px solid #30363d;
+            padding: 10px 16px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-weight: 600;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        #back-to-home:hover {
+            background-color: #30363d;
+            border-color: #8b949e;
+        }
     </style>
 </head>
 <body>
@@ -314,6 +352,10 @@
         </div>
         <div id="error-message"></div>
     </main>
+
+    <button id="back-to-home" onclick="document.getElementById('board-canvas').scrollTo({left: 0, behavior: 'smooth'})">
+        🏠 最初のカラムへ
+    </button>
 
     <script>
         const markdownUrl = '/padlet_export.md';
