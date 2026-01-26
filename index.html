@@ -531,6 +531,11 @@
             const postType = getMeta(/(?:- )?\*\*(?:投稿の種類|Post Type):\*\* (.*)/i);
             const customLastUpdate = getMeta(/(?:- )?\*\*(?:最終更新日|Last Updated|Updated At|更新日|更新日\(UTC\)):\*\* (.*)/i);
             const linkUrl = getMeta(/(?:- )?\*\*(?:Link|リンク):\*\* (.*)/i);
+            const roomLink = getMeta(/(?:- )?\*\*(?:受付部屋のリンク（あれば）):\*\* (.*)/i);
+            const roomCreatedRaw = getMeta(/(?:- )?\*\*(?:部屋の作成日):\*\* (.*)/i);
+            const viewsCount = getMeta(/(?:- )?\*\*(?:閲覧数):\*\* (.*)/i);
+            const adminCount = getMeta(/(?:- )?\*\*(?:管理者数):\*\* (.*)/i);
+            const modCount = getMeta(/(?:- )?\*\*(?:モデレーター数):\*\* (.*)/i);
 
             let rawCreatedDate = getMeta(/(?:- )?\*\*(?:Created At(?: \(UTC\))?|Created At|Date Created|Creation Date|作成日（UTC）|作成日\(UTC\)|作成日):\*\* (.*)/i);
             
@@ -566,6 +571,11 @@
                 /(?:- )?\*\*(?:Average star rating|星評価平均):.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Number of ratings|評価件数):.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Link|Posts|リンク):.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:受付部屋のリンク（あれば）):.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:部屋の作成日):.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:閲覧数):.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:管理者数):.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:モデレーター数):.*[\r\n]*/gi,
                 /#### (?:Comments|コメント)[\s\S]*?(?=####|$)/i, 
                 /#### (?:Reactions|リアクション)[\s\S]*?(?=####|$)/i, 
                 /#### (?:Additional Information|その他の情報)[\s\S]*?(?=####|$)/i, 
@@ -593,6 +603,11 @@
                 customLastUpdate: displayUpdatedDate,
                 attachmentUrl: attachmentUrl,
                 linkUrl: linkUrl
+                roomLink: roomLink,
+                roomCreatedDate: displayRoomCreatedDate,
+                viewsCount: viewsCount,
+                adminCount: adminCount,
+                modCount: modCount
             };
         }
 
