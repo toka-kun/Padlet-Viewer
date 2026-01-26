@@ -647,6 +647,21 @@
                 if (data.postType) {
                     customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">投稿の種類:</span><span>${escapeHtml(data.postType)}</span></div>`;
                 }
+                if (data.roomLink) {
+                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">受付部屋のリンク（あれば）:</span><span><a href="${escapeHtml(data.roomLink)}" target="_blank" style="color:#58a6ff; text-decoration:none;">リンクを開く</a></span></div>`;
+                }
+                if (data.roomCreatedDate) {
+                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">部屋の作成日:</span><span>${escapeHtml(data.roomCreatedDate)}</span></div>`;
+                }
+                if (data.viewsCount) {
+                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">閲覧数:</span><span>${escapeHtml(data.viewsCount)}</span></div>`;
+                }
+                if (data.adminCount) {
+                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">管理者数:</span><span>${escapeHtml(data.adminCount)}</span></div>`;
+                }
+                if (data.modCount) {
+                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">モデレーター数:</span><span>${escapeHtml(data.modCount)}</span></div>`;
+                }
                 if (data.customLastUpdate) {
                     customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">最終更新日:</span><span>${escapeHtml(data.customLastUpdate)}</span></div>`;
                 }
