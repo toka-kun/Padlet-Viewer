@@ -1,4 +1,4 @@
-最終更新: 2026/01/26 14:35:06
+最終更新: 2026/01/26 15:40:50
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -9,7 +9,7 @@
 - **Builder:** 太古の太鼓~1853 ゴリら (BERURI1214)
 - **Posts:** 72
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Jan 26, 2026 04:12am
+- **Updated At (UTC):** Jan 26, 2026 06:10am
 
 ## ルール
 
@@ -30,7 +30,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1770010504&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nxDvV39MDeJxsYEiwv4cNe0d9E%2Fs1wvZAP8jJkyC%2FApwrVQInXN9yVh1MFg4OB8OU8Fl0x1Q6NAcJ3iaAsJWOJlktk0hv6yHj97ZYOiouyKpBUQVpoJTK1W7ZT1QUZxhmER1TUHm8FRbV4WLxSXTxpXy7MOobvR7hVHAjauEnHI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1770014448&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IwRng7GQuTYoUBk1MTCcVvJk1fXN4KZGwKtZa5S0X7ln3ZgRMQeUtqdFnOvuD1Z6ZDf5WLp1%2FZ9AlDZyujEHpzRxMRlz0qUXGmaWQs9tNNlhgNQ%2FKirBPNltBjc3i%2BuYfmx6yXw68oDFvffNZ00pT07WufEcF%2FoCJq1LD1gcBEs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -55,7 +55,19 @@
 
 ## 管理者&モデの連絡
 
-### 1. 新年明けましておめでとうございます！
+### 1. 新しい方向で目指す
+**Author:** INFINITY (nanasisan)
+
+<p>皆様、大変申し訳ございません。</p><p>プロキシについてです。</p><p>自分が使っている自作サイトがブロックされました。</p><p>例え作れたとしても、1日で使えなくなったり、まず僕が使ってるデバイスはほとんど低スペなので開くのにも時間がかかります。僕以外の管理者はプロキシが自作できないので終了仕掛けです。</p><p>だから、別の方向で維持していきたいなと、例えば好きなゲームについての部屋とか、、</p><p><br/></p>
+
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** Jan 26, 2026 05:52am
+- **Updated At (UTC):** Jan 26, 2026 06:10am
+
+---
+
+### 2. 新年明けましておめでとうございます！
 **Author:** 共有広場協力委員会 (sagyousyasan)
 
 <p>新年を迎えると共に素晴らしい事が起きました、なんとこの部屋の閲覧数が2万突破しました！</p>
@@ -70,7 +82,7 @@
 
 ---
 
-### 2. ちなみに訪問者の数が7500辺りになりました、
+### 3. ちなみに訪問者の数が7500辺りになりました、
 **Author:** 共有広場協力委員会 (sagyousyasan)
 
 <p>このまま1万突破してから活動休止にしたいと思います、</p><p>今もリアルで忙しいのでキツイですが、働いて働いて働いて参ります</p>
@@ -86,7 +98,7 @@
 
 ---
 
-### 3. ライター受付の改善お知らせ
+### 4. ライター受付の改善お知らせ
 **Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
 
 <p>申請する事で3日後ライターです。</p><p>この投稿に対しコメントをしても意味がないです</p><p>10月20日以前から申請してた方はもう一度お願いします。</p><p>○○の弟子、○○貢献者などはブラックリストに全員入れる予定です</p><p><br></p><p>このセクションはお知らせだと思っていいです。</p><p>ちなみに大事な投票が終わって投稿が削除された後は誰でも投票をしても構いません。</p><p><br></p>
@@ -145,38 +157,12 @@
 
 ---
 
-## 管理者＆モデ専用宣伝
-
-### 1. ロブロしてる人来てね！
-**Author:** 削除済みユーザー
-
-<p>何で消えてるんや</p>
-
-[Attachment](https://padlet.com/padlets/dyzwe0l9aexzsp0h)
-
-#### Comments (2)
-- **iPhone** (Nov 03, 2025 08:39am): 宣伝用の部屋を作ろうと思ってるらしいから多分そっちに移動する予定なんじゃない？
-- **削除済みユーザー** (Nov 05, 2025 10:29pm): あーね
-
-#### Additional Information
-- **Post color:** Purple
-- **Created At (UTC):** Oct 31, 2025 12:09pm
-- **Updated At (UTC):** Nov 01, 2025 11:01am
-
----
-
 ## リクエストBOX
 
 ### 1. Post 1
 **Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
 
 <p>リクエストや質問等は必ずここにしてください</p><p>部屋改良や欲しいサイトなど</p><p>ここは荒らしが通りやすいのでその対策にもお願いします</p><p><br></p><p>皆様が書いてくれた意見はすべてメモに書いてあり、コメントが消されていても認知されたと思ってください</p>
-
-#### Comments (4)
-- **凛籘：RYOURA** (Nov 20, 2025 01:14am): シャドー欲しいです！
-- **太古の太鼓~1853 ゴリら** (Nov 26, 2025 12:46pm): Shadowって書いてあるところにあります
-- **Fabulous Fly** (Dec 02, 2025 11:26am): アニメ見れるサイトが欲しい
-- **凛籘：RYOURA** (Dec 03, 2025 05:33am): 全部ブロックされるんで新しいのないですか？
 
 #### Additional Information
 - **Post color:** Green
@@ -191,12 +177,6 @@
 **Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
 
 <p>荒らし対策などがあれば何でもどうぞ</p>
-
-#### Comments (4)
-- **Enthusiastic Chipmunk** (Jan 19, 2026 12:19am): 新しいの出してください
-- **Enthusiastic Chipmunk** (Jan 19, 2026 12:19am): 気づいてーーーーーー
-- **Valiant Urchin** (Jan 15, 2026 01:34am): 雑談のところにあるぺるりさんの投稿のProxy風呂です
-- **Valiant Urchin** (Jan 15, 2026 01:35am): 新しいのお願いします
 
 #### Additional Information
 - **Post color:** Green
