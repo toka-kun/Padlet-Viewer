@@ -1,4 +1,4 @@
-最終更新: 2026/01/26 17:35:24
+最終更新: 2026/01/26 18:36:05
 
 # Padletポータルワールド
 
@@ -925,7 +925,7 @@
 ---
 
 ### 38. ゴミ捨て場
-**Author:** ❄️aotan❄️荒らし楽しい (aotanzisatsu)
+**Author:** ❄️aotan❄️荒らし楽しい　タブレット移行でNO浮上 (aotanzisatsu)
 
 <p>この部屋は名前の通り「無法地帯」（荒らしと宣伝はアウト）です</p><p>えｒでも雑談でもなんでもおｋ</p><p><br/></p>
 
@@ -1523,7 +1523,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770021324&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PcFheAjNrGyFmN9BX%2BkZsF8MrUiQ5G2rzTFqu4lE0uKUCpJOzABBj4Rx%2Bw%2B9pNkmxPJZzccursRd27UA1A1kxXs9G7WI42WZ6u%2FfV1o3CCto7VlO7u0IaVRHxWCEBB9Z7OO0sgEVSYRrfikbrGAQiUP8CdMixW6YLzKVrcprsmE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770024965&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EGicsUt1FZaSGGkOnfKtLD%2B43QL1WCAVAd6UVko0kBcqDLLpGHOn37pA0GdB80FGq1kr%2B%2BeFkz%2BGLliLplQj7rgkw9Uzt7%2BcuuntwyPTk7MO4tZmP1qcy8IRV1AYJL4vz%2FznV9ZBUOKikolSXAk5DfCHJtGDvcPz0RUa4tuLIgo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
