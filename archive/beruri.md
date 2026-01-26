@@ -1,4 +1,4 @@
-最終更新: 2026/01/27 06:27:30
+最終更新: 2026/01/27 07:25:45
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -30,7 +30,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1770067648&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Kp7vc97ju6PJzD1STU1yXcYe31Ox9LlNH%2BKb1YZYrK%2BMCn%2FWMmDiMO22hE8Sr98eFL6S1Cp2swHbJGwuhDqcvcRhk88GnRi7pk%2FSnd9qe5CFt5S%2F1vvVOumOGHKJClDURsQyBoPe39XnbTJMuaMEhqHPKtrUx6zj6BlItZwjZVE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1770071143&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=d65Yhx4rLOEezrWLWpsaqRGxsVFE9naYHxupSmLWMFw5AoNlEMZZTHDzvZwcfns7tqjyeeS04KE12CstcB3xdkE119gnXJuDmfkwFqUzLsBOpap9eLai4RfaBAUFko9uFzhd%2FdqJN5TSFHp6SbAYak2dSO01pbNgnOZGBoAZlug%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -1206,7 +1206,7 @@
 - **高2やでえええええええ** (Nov 23, 2025 02:07am): メジャーノクソやんwwクソゴミとセックス同一人物やろうなあ
 - **高2やでえええええええ** (Nov 30, 2025 10:54pm): 無理でぇーすwwwあああああああああああああああああああああああああああああ！！！！！！！！！！！（ﾌﾞﾘﾌﾞﾘﾌﾞﾘﾌﾞﾘｭﾘｭﾘｭﾘｭﾘｭﾘｭ！！！！！！ﾌﾞﾂﾁﾁﾌﾞﾌﾞﾌﾞﾁﾁﾁﾁﾌﾞﾘﾘｲﾘﾌﾞﾌﾞﾌﾞﾌﾞｩｩｩｩｯｯｯ！！！！！！！ ).
 - **東京都民** (Nov 04, 2025 10:12pm): 上タップ
-- **マダタスカル** (Nov 04, 2025 10:19pm): ありがと~~~~
+- **マダタスカル(名前変えるかも)** (Nov 04, 2025 10:19pm): ありがと~~~~
 - **プーチンクソ** (Nov 06, 2025 12:41am): ほかのゲームおしえて!!
 - **なんjの成れの果て** (Nov 10, 2025 08:34am): 神林ww
 - **dead** (Nov 11, 2025 02:06pm): https://archive.org/details/super-mario-world-super-nintendo
