@@ -531,11 +531,6 @@
             const postType = getMeta(/(?:- )?\*\*(?:投稿の種類|Post Type):\*\* (.*)/i);
             const customLastUpdate = getMeta(/(?:- )?\*\*(?:最終更新日|Last Updated|Updated At|更新日|更新日\(UTC\)):\*\* (.*)/i);
             const linkUrl = getMeta(/(?:- )?\*\*(?:Link|リンク):\*\* (.*)/i);
-            const roomLink = getMeta(/(?:- )?\*\*(?:受付部屋のリンク（あれば）):\*\* (.*)/i);
-            const roomCreatedRaw = getMeta(/(?:- )?\*\*(?:部屋の作成日):\*\* (.*)/i);
-            const viewsCount = getMeta(/(?:- )?\*\*(?:閲覧数):\*\* (.*)/i);
-            const adminCount = getMeta(/(?:- )?\*\*(?:管理者数):\*\* (.*)/i);
-            const modCount = getMeta(/(?:- )?\*\*(?:モデレーター数):\*\* (.*)/i);
 
             let rawCreatedDate = getMeta(/(?:- )?\*\*(?:Created At(?: \(UTC\))?|Created At|Date Created|Creation Date|作成日（UTC）|作成日\(UTC\)|作成日):\*\* (.*)/i);
             
@@ -571,11 +566,6 @@
                 /(?:- )?\*\*(?:Average star rating|星評価平均):.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Number of ratings|評価件数):.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Link|Posts|リンク):.*[\r\n]*/gi,
-                /(?:- )?\*\*(?:受付部屋のリンク（あれば）):.*[\r\n]*/gi,
-                /(?:- )?\*\*(?:部屋の作成日):.*[\r\n]*/gi,
-                /(?:- )?\*\*(?:閲覧数):.*[\r\n]*/gi,
-                /(?:- )?\*\*(?:管理者数):.*[\r\n]*/gi,
-                /(?:- )?\*\*(?:モデレーター数):.*[\r\n]*/gi,
                 /#### (?:Comments|コメント)[\s\S]*?(?=####|$)/i, 
                 /#### (?:Reactions|リアクション)[\s\S]*?(?=####|$)/i, 
                 /#### (?:Additional Information|その他の情報)[\s\S]*?(?=####|$)/i, 
@@ -603,11 +593,6 @@
                 customLastUpdate: displayUpdatedDate,
                 attachmentUrl: attachmentUrl,
                 linkUrl: linkUrl
-                roomLink: roomLink,
-                roomCreatedDate: displayRoomCreatedDate,
-                viewsCount: viewsCount,
-                adminCount: adminCount,
-                modCount: modCount
             };
         }
 
@@ -646,21 +631,6 @@
                 customFieldsHtml += '<div class="custom-fields-area">';
                 if (data.postType) {
                     customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">投稿の種類:</span><span>${escapeHtml(data.postType)}</span></div>`;
-                }
-                if (data.roomLink) {
-                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">受付部屋のリンク（あれば）:</span><span><a href="${escapeHtml(data.roomLink)}" target="_blank" style="color:#58a6ff; text-decoration:none;">リンクを開く</a></span></div>`;
-                }
-                if (data.roomCreatedDate) {
-                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">部屋の作成日:</span><span>${escapeHtml(data.roomCreatedDate)}</span></div>`;
-                }
-                if (data.viewsCount) {
-                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">閲覧数:</span><span>${escapeHtml(data.viewsCount)}</span></div>`;
-                }
-                if (data.adminCount) {
-                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">管理者数:</span><span>${escapeHtml(data.adminCount)}</span></div>`;
-                }
-                if (data.modCount) {
-                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">モデレーター数:</span><span>${escapeHtml(data.modCount)}</span></div>`;
                 }
                 if (data.customLastUpdate) {
                     customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">最終更新日:</span><span>${escapeHtml(data.customLastUpdate)}</span></div>`;
