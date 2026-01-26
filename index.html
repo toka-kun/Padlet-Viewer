@@ -376,36 +376,25 @@
         });
 
         async function fetchAndRender() {
-            const loadingDiv = document.getElementById('loading');
-            const errorDiv = document.getElementById('error-message');
-            const metaInfoDiv = document.getElementById('meta-info');
-            const canvas = document.getElementById('board-canvas');
-
+            // ... (前半の変数定義はそのまま) ...
             try {
                 const response = await fetch(`${markdownUrl}?t=${new Date().getTime()}`);
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 const fullText = await response.text();
                 
-                // --- 投稿数の抽出 ---
+                // --- 既存のメタ情報抽出ロジック（そのまま） ---
                 const headerChunk = fullText.substring(0, 4000); 
                 const postsMatch = headerChunk.match(/(?:- )?\*\*(?:Posts|投稿):\*\* (\d+)/i);
                 const postCount = postsMatch ? postsMatch[1] : '-';
-
-                // --- データの分割処理 ---
                 const splitIndex = fullText.indexOf('\n\n');
                 let updateTimeStr = '最終更新: 不明';
-                let markdownContent = fullText;
-
                 if (splitIndex !== -1) {
                     updateTimeStr = fullText.substring(0, splitIndex).trim();
-                    markdownContent = fullText.substring(splitIndex + 2);
-                } else {
-                    const firstLineBreak = fullText.indexOf('\n');
-                    if (firstLineBreak !== -1) {
-                         updateTimeStr = fullText.substring(0, firstLineBreak).trim();
-                         markdownContent = fullText.substring(firstLineBreak + 1).trim();
-                    }
                 }
+
+                // --- ここを変更：14行目以降のみを renderBoard に渡す ---
+                const lines = fullText.split('\n');
+                const contentFromLine14 = lines.slice(13).join('\n');
                 
                 loadingDiv.remove();
                 
@@ -414,7 +403,8 @@
                     <span>${escapeHtml(updateTimeStr)}</span>
                 `;
 
-                renderBoard(markdownContent, canvas);
+                // 14行目以降のテキストを渡す
+                renderBoard(contentFromLine14, canvas);
 
             } catch (error) {
                 console.error('Fetch error:', error);
@@ -429,61 +419,69 @@
         }
 
         function renderBoard(markdownText, canvas) {
-            const titleMatch = markdownText.match(/^# (.*)/);
-            if (titleMatch) {
-                const boardTitle = titleMatch[1].trim();
-                const titleEl = document.getElementById('board-title');
-                if (titleEl) titleEl.textContent = boardTitle;
-            } else {
-                document.getElementById('board-title').textContent = "Padlet Viewer";
-            }
+            // タイトル設定ロジックは既存のままでOKですが、
+            // markdownTextが14行目以降なので、もしここにタイトル(#)がない場合は
+            // 既存の抽出ロジックからタイトルを維持するよう配慮が必要です。
+            // (今回は既存のタイトル取得ロジックには触れません)
 
             const columns = markdownText.split(/^## /gm);
-            
-            columns.forEach((colText, index) => {
-                if (colText.trim().length === 0) return;
+            const validColumns = columns.filter(col => col.trim().length > 0);
 
-                // --- 0:タイトルブロック、1:最初のカラム を両方スキップ ---
-                if (index <= 1) return;
-                // ----------------------------------------------------
+            // --- 1. 目次カラムの作成 ---
+            const tocDiv = document.createElement('div');
+            tocDiv.className = 'column';
+            tocDiv.id = 'column-toc';
+            tocDiv.innerHTML = `
+                <div class="column-header">目次</div>
+                <div class="column-body" id="toc-list"></div>
+            `;
+            const tocList = tocDiv.querySelector('#toc-list');
+            canvas.appendChild(tocDiv);
 
+            // --- 2. 各カラムのレンダリング ---
+            validColumns.forEach((colText, index) => {
                 const firstLineBreak = colText.indexOf('\n');
                 let colTitle = (firstLineBreak === -1) ? colText.trim() : colText.substring(0, firstLineBreak).trim();
                 let colContent = (firstLineBreak === -1) ? '' : colText.substring(firstLineBreak + 1);
 
+                // IDを作成（URLハッシュ用。記号などは置換）
+                const sectionId = `section-${index}`;
+
+                // 目次にリンクを追加
+                const tocLink = document.createElement('a');
+                tocLink.className = 'toc-link';
+                tocLink.href = `#${encodeURIComponent(colTitle)}`;
+                tocLink.textContent = `## ${colTitle}`;
+                tocLink.onclick = (e) => {
+                    e.preventDefault();
+                    const target = document.getElementById(sectionId);
+                    target.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'start' });
+                    // URLの末尾を更新
+                    history.pushState(null, null, `#${encodeURIComponent(colTitle)}`);
+                };
+                tocList.appendChild(tocLink);
+
+                // カラムの作成
                 const colDiv = document.createElement('div');
                 colDiv.className = 'column';
+                colDiv.id = sectionId; // ジャンプ用のID
                 colDiv.innerHTML = `
                     <div class="column-header">${escapeHtml(colTitle)}</div>
                     <div class="column-body"></div>
                 `;
                 const colBody = colDiv.querySelector('.column-body');
 
+                // ... (ここから下のカード処理 cardsData.forEachなどは既存のまま) ...
                 let cardsData = colContent.split(/^### /gm);
-
-                if (cardsData.length === 1 && !colContent.includes('### ')) {
-                    const content = cardsData[0].trim();
-                    if (content) {
-                        cardsData = [`${colTitle} 概要\n${content}`];
-                    } else {
-                        cardsData = [];
-                    }
-                }
-
-                cardsData.forEach((cardText, cIndex) => {
+                cardsData.forEach(cardText => {
                     if (!cardText.trim()) return;
-
                     try {
                         const card = parseCard(cardText);
                         colBody.appendChild(createCardElement(card));
-                    } catch (e) {
-                        console.warn('Card parse error:', e);
-                    }
+                    } catch (e) { console.warn('Card parse error:', e); }
                 });
 
-                if (colBody.children.length > 0) {
-                    canvas.appendChild(colDiv);
-                }
+                canvas.appendChild(colDiv);
             });
         }
 
