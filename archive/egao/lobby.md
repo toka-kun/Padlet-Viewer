@@ -1,4 +1,4 @@
-最終更新: 2026/01/26 11:01:43
+最終更新: 2026/01/26 13:17:24
 
 # 最強プロキシ研究会ライター受付所
 
@@ -7,7 +7,7 @@
 - **Builder:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 - **Posts:** 5
 - **Created At (UTC):** Oct 07, 2025 12:27am
-- **Updated At (UTC):** Jan 26, 2026 02:00am
+- **Updated At (UTC):** Jan 26, 2026 03:39am
 
 ## ルール
 
@@ -65,7 +65,8 @@
 ### 1. フォローしたらライターにするよ
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
-#### Comments (53)
+#### Comments (57)
+- **わたなべこたろう** (Jan 26, 2026 02:21am): した
 - **Magurock  (偽物や偽投稿など注意)** (Dec 17, 2025 08:56am): お願いします
 - **TOMO_2011　#OFAの12番弟子　#煮物の32番弟子** (Oct 10, 2025 12:25pm): さんきゅ
 - **tsusora 0209　＃OFA11番弟子　＃笑顔さん１番弟子　-_-z** (Oct 08, 2025 08:48am): とっくにフォローしたんだけど？
@@ -73,6 +74,8 @@
 - **πr²(パイアール2)** (Jan 24, 2026 07:37am): [Attachment](https://padlet.com/sh30008/padlet-8fca4hvtg8cxbx18/wish/NvylWErAky3qa0OX) したお
 - **削除済みユーザー** (Oct 08, 2025 05:12am): おね
 - **卵** (Jan 10, 2026 12:20pm): フォローしました
+- **わたなべこたろう** (Jan 26, 2026 02:21am): wwwwww
+- **ナチス・ドイツ** (Jan 26, 2026 03:05am): した
 - **ポップコーン** (Oct 08, 2025 07:10am): フォローしました。
 - **稲田りく** (Dec 12, 2025 10:02pm): したヨー
 - **TOMO_2011　#OFAの12番弟子　#煮物の32番弟子** (Jan 08, 2026 12:25pm): したよ
@@ -119,6 +122,7 @@
 - **TOMO_2011　#OFAの12番弟子　#煮物の32番弟子** (Dec 14, 2025 02:13pm): した
 - **削除済みユーザー** (Jan 06, 2026 11:13am): した
 - **あきと** (Jan 18, 2026 03:20am): [Attachment](https://padlet.com/sh30008/padlet-8fca4hvtg8cxbx18/wish/NvylWErAky3qa0OX) したのでライターにして
+- **霧夜　Mistgentle 🌫️💫　https://turboscribe.ai/ja/downloader/2025-01-01/youtube/video** (Jan 26, 2026 03:39am): フォローしました！
 
 #### Additional Information
 - **Post color:** White
