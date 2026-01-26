@@ -1,4 +1,4 @@
-最終更新: 2026/01/26 14:34:43
+最終更新: 2026/01/26 15:40:26
 
 # 最強プロキシ研究会ライター受付所
 
@@ -7,7 +7,7 @@
 - **Builder:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 - **Posts:** 5
 - **Created At (UTC):** Oct 07, 2025 12:27am
-- **Updated At (UTC):** Jan 26, 2026 03:39am
+- **Updated At (UTC):** Jan 26, 2026 06:13am
 
 ## ルール
 
@@ -16,7 +16,7 @@
 
 <p>・荒らしだめ</p><p>・悪口だめ</p><p>・フォローしたらライターにする</p><p><br></p>
 
-#### Comments (19)
+#### Comments (20)
 - **TOMO_2011　#OFAの12番弟子　#煮物の32番弟子** (Oct 09, 2025 01:59am): 部屋にフォローするんじゃなくて俺のアカウントにフォローして
 - **エドガー** (Oct 30, 2025 01:05am): 　
 - **エドガー** (Oct 30, 2025 01:05am): 　
@@ -36,6 +36,7 @@
 - **エドガー** (Oct 30, 2025 01:05am): 　
 - **エドガー** (Oct 30, 2025 01:05am): 　
 - **エドガー** (Oct 30, 2025 01:05am): 　
+- **右キンたまのたかあき⭐️** (Jan 26, 2026 05:47am): たかあ
 
 #### Additional Information
 - **Post color:** White
@@ -49,8 +50,9 @@
 ### 1. 雑談
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
-#### Comments (2)
+#### Comments (3)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 25, 2026 10:26pm): 無視か…
+- **右キンたまのたかあき⭐️** (Jan 26, 2026 05:47am): むっしっしってっゴッめん
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 23, 2026 08:40am): 消さなくていいの？
 
 #### Additional Information
@@ -65,7 +67,7 @@
 ### 1. フォローしたらライターにするよ
 **Author:** TOMO_2011　#OFAの12番弟子　#煮物の32番弟子 (sh30008)
 
-#### Comments (57)
+#### Comments (58)
 - **わたなべこたろう** (Jan 26, 2026 02:21am): した
 - **Magurock  (偽物や偽投稿など注意)** (Dec 17, 2025 08:56am): お願いします
 - **TOMO_2011　#OFAの12番弟子　#煮物の32番弟子** (Oct 10, 2025 12:25pm): さんきゅ
@@ -123,6 +125,7 @@
 - **削除済みユーザー** (Jan 06, 2026 11:13am): した
 - **あきと** (Jan 18, 2026 03:20am): [Attachment](https://padlet.com/sh30008/padlet-8fca4hvtg8cxbx18/wish/NvylWErAky3qa0OX) したのでライターにして
 - **霧夜　Mistgentle 🌫️💫　https://turboscribe.ai/ja/downloader/2025-01-01/youtube/video** (Jan 26, 2026 03:39am): フォローしました！
+- **NyrikX(GDplayer)** (Jan 26, 2026 06:13am): したよー
 
 #### Additional Information
 - **Post color:** White
