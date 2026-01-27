@@ -1,4 +1,4 @@
-最終更新: 2026/01/27 15:39:17
+最終更新: 2026/01/27 16:30:24
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -9,61 +9,19 @@
 - **Builder:** 太古の太鼓~1853 ゴリら (BERURI1214)
 - **Posts:** 72
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Jan 26, 2026 06:10am
-
-## ルール
-
-### 1. Post 1
-**Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
-
-<p>内容はできる限り削減したつもりです、ルールをよく見ず投稿やコメントをしてしまう利用者が多いです。</p><p>ルールを無視していると判断された場合は権限を下げます</p><p><br></p><ul><li><p>荒らし、連投</p></li><li><p>暴言、悪ロ</p></li><li><p>proxyなどを配る投稿にコメントなど</p></li><li><p>一線を越えた挑発</p></li><li><p>個人情報</p></li></ul><p><br></p><p>ライター以上に権限を持っている人のみルール</p><p><strong>ライター用のルール</strong></p><ul><li><p>1週間に1個プロキシを配ってほしい</p></li><li><p>固定バグ荒らしをしない</p></li><li><p>他の部屋に荒らしがいた場合、写真とURLを送ってほしい</p></li></ul><p><br></p><p><strong><mark>モデレーター用ルール</mark></strong></p><ul><li><p>荒らしがいた場合、投稿を消すのと荒らしの名前を貼って欲しいです</p></li><li><p>投票や連絡、詳細のやつなどの管理者限定のセクションは基本的になんかしていいです。ですが他の人が不快にならないように</p></li><li><p>セクションの削除や追加は管理者に相談してから行ってください</p></li></ul><p><br></p><p><strong><mark>管理者用ルール</mark></strong></p><ul><li><p>基本的に何してもいいですが、評判が下がることなどは避けください</p></li><li><p>ライターの権限をあげるかなどはINFINITYがやりますので大丈夫です。</p></li><li><p>INFINITYが設定したコラボレーターなどは極力動かさないで欲しいです</p></li><li><p>リア友だからって言って自由勝手しないでください</p></li></ul><p><br></p><p>以上です</p><p>追加して欲しいルールや</p><p>この辺がイマイチな部分はINFINITYに</p>
-
-#### Additional Information
-- **Post color:** Purple
-- **Created At (UTC):** Nov 06, 2025 04:36am
-- **Updated At (UTC):** Nov 24, 2025 06:55am
-
----
-
-### 2. 閲覧数17000記念カーテン
-**Author:** 共有広場協力委員会 (sagyousyasan)
-
-<p>GAPG_TIBASA</p>
-
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1770100755&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jeoKOQawqfg9LJIKbohnVF6OuO%2FnjHfxO2RWeh0K8Zh3Y3Rr8RjXH7PQCy7LGC6a1jGxJC8E9wwn14Xv8WSjE3Os075DaCZd3xmMkE%2FiWZINYCHd48lY5a4PqfOkLgevIJ6qrfEID1ZyIfBi7Hr1JQ0E7Pgu0fMSNvVh23YpGHo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Nov 05, 2025 07:38am
-- **Updated At (UTC):** Nov 23, 2025 08:08am
-
----
-
-## 家構成(URL)
-
-### 1. ゲームサイトやプロキシなどの共有広場には関連部屋を追加して家にするつもりです()
-**Author:** 共有広場協力委員会 (sagyousyasan)
-
-<p>宣伝部屋↓</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/beruriwwww7823/padlet-psxwe1xx2ofvci2q">https://padlet.com/beruriwwww7823/padlet-psxwe1xx2ofvci2q</a></p><p><br></p><p>GAPG_TIBASA方針↓</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/sagyousyasan/gapg_tibasa-bv59z0g9z4f0td2g">https://padlet.com/sagyousyasan/gapg_tibasa-bv59z0g9z4f0td2g</a></p><p><br></p><p><br></p>
-
-#### Additional Information
-- **Post color:** Purple
-- **Created At (UTC):** Nov 23, 2025 01:10pm
-- **Updated At (UTC):** Nov 24, 2025 06:55am
-
----
+- **Updated At (UTC):** Jan 27, 2026 06:47am
 
 ## 管理者&モデの連絡
 
 ### 1. 新しい方向で目指す
 **Author:** INFINITY (nanasisan)
 
-<p>皆様、大変申し訳ございません。</p><p>プロキシについてです。</p><p>自分が使っている自作サイトがブロックされました。</p><p>例え作れたとしても、1日で使えなくなったり、まず僕が使ってるデバイスはほとんど低スペなので開くのにも時間がかかります。僕以外の管理者はプロキシが自作できないので終了仕掛けです。</p><p>だから、別の方向で維持していきたいなと、例えば好きなゲームについての部屋とか、、</p><p><br/></p>
+<p>皆様、大変申し訳ございません。</p><p>プロキシについてです。</p><p>自分が使っている自作サイトがブロックされました。</p><p>例え作れたとしても、1日で使えなくなったり、まず僕が使ってるデバイスはほとんど低スペなので開くのにも時間がかかります。僕以外の管理者はプロキシが自作できないので終了仕掛けです。</p><p>だから別の方向でここを盛り上げる事にします。</p>
 
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Jan 26, 2026 05:52am
-- **Updated At (UTC):** Jan 26, 2026 06:10am
+- **Updated At (UTC):** Jan 27, 2026 06:45am
 
 ---
 
@@ -106,6 +64,48 @@
 #### Additional Information
 - **Post color:** Purple
 - **Created At (UTC):** Nov 06, 2025 04:36am
+- **Updated At (UTC):** Nov 24, 2025 06:55am
+
+---
+
+## ルール
+
+### 1. Post 1
+**Author:** 太古の太鼓~1853 ゴリら (BERURI1214)
+
+<p>内容はできる限り削減したつもりです、ルールをよく見ず投稿やコメントをしてしまう利用者が多いです。</p><p>ルールを無視していると判断された場合は権限を下げます</p><p><br/></p><ul><li><p>荒らし、連投</p></li><li><p>暴言、悪ロ</p></li><li><p>proxyなどを配る投稿にコメントなど</p></li><li><p>挑発</p></li><li><p>個人情報</p></li></ul><p><br/></p><p>ライター以上に権限を持っている人のみルール</p><p><strong>ライター用のルール</strong></p><ul><li><p>1週間に1個プロキシを配ってほしい</p></li><li><p>固定バグ荒らしをしない</p></li><li><p>他の部屋に荒らしがいた場合、写真とURLを送ってほしい</p></li></ul><p><br/></p><p><strong><mark>モデレーター用ルール</mark></strong></p><ul><li><p>荒らしがいた場合、投稿を消すのと荒らしの名前を貼って欲しいです</p></li><li><p>投票や連絡、詳細のやつなどの管理者限定のセクションは基本的になんかしていいです。ですが他の人が不快にならないように</p></li><li><p>セクションの削除や追加は管理者に相談してから行ってください</p></li></ul><p><br/></p><p><strong><mark>管理者用ルール</mark></strong></p><ul><li><p>基本的に何してもいいですが、評判が下がることなどは避けください</p></li><li><p>ライターの権限をあげるかなどはINFINITYがやりますので大丈夫です。</p></li><li><p>INFINITYが設定したコラボレーターなどは極力動かさないで欲しいです</p></li><li><p>リア友だからって言って自由勝手しないでください</p></li></ul><p><br/></p><p>以上です</p><p>追加して欲しいルールや</p><p>この辺がイマイチな部分はINFINITYに</p>
+
+#### Additional Information
+- **Post color:** Purple
+- **Created At (UTC):** Nov 06, 2025 04:36am
+- **Updated At (UTC):** Jan 27, 2026 06:46am
+
+---
+
+### 2. 閲覧数17000記念カーテン
+**Author:** 共有広場協力委員会 (sagyousyasan)
+
+<p>GAPG_TIBASA</p>
+
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1770103822&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2aurvsPCOYMANZoJdnbMbZyJYHNpn5dSEaYvv3iJlFNWXH9afpquqtS2sCsKaHPUk68JQ3NXgmJ1ksvWhj%2Bfyh786MgukhdnrH8bNMaQ63xi8scB%2BBuKPfq%2BKpG1m8kQ69LAFVmh63Fu5RqFfZjcW1yeyKdsqeh%2FOB2%2BdJ1Y6Co%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Nov 05, 2025 07:38am
+- **Updated At (UTC):** Nov 23, 2025 08:08am
+
+---
+
+## 家構成(URL)
+
+### 1. ゲームサイトやプロキシなどの共有広場には関連部屋を追加して家にするつもりです()
+**Author:** 共有広場協力委員会 (sagyousyasan)
+
+<p>宣伝部屋↓</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/beruriwwww7823/padlet-psxwe1xx2ofvci2q">https://padlet.com/beruriwwww7823/padlet-psxwe1xx2ofvci2q</a></p><p><br></p><p>GAPG_TIBASA方針↓</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/sagyousyasan/gapg_tibasa-bv59z0g9z4f0td2g">https://padlet.com/sagyousyasan/gapg_tibasa-bv59z0g9z4f0td2g</a></p><p><br></p><p><br></p>
+
+#### Additional Information
+- **Post color:** Purple
+- **Created At (UTC):** Nov 23, 2025 01:10pm
 - **Updated At (UTC):** Nov 24, 2025 06:55am
 
 ---
