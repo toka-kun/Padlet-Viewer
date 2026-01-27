@@ -1,4 +1,4 @@
-最終更新: 2026/01/28 06:19:14
+最終更新: 2026/01/28 07:24:52
 
 # Padletポータルワールド
 
@@ -1547,7 +1547,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770153554&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=44bkzZatO9UuGnh7GWUTQEXYUs0mO5NNgrwiYzE4mVJm8qKgH%2BPAcHpeWaIj3neYSGSpn1FDwbZPu9DBI8ArJ3J4PZ4m8RUHVEk84vm3Bva4Bkl5Z1fUf06V%2BGka8czaJcGmwo9D%2Fx9RgD7IyI8lnJaWVYDBNd85ybH4Fqg1l4g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770157492&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Gl1FFP%2F0YfjeuUrFX2SPN0KwS2PBa9YO1M%2BTdZJZHKO2TOw2esdVlKGjhywNdPn8kJw8SK%2F26cL65OATyDEw9FFX2baxMmsWLcEMIj5XGDCs6vbffe%2F6zPkz8BhudNeVJTVMwrB7xQTXBQnt7Sfb0o5Fz%2FindExJURagadcaKOs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
