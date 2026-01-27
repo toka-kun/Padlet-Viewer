@@ -1,4 +1,4 @@
-最終更新: 2026/01/27 20:24:18
+最終更新: 2026/01/27 21:53:41
 
 # アーカイブ
 
@@ -36,7 +36,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770117854&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2HtAxFsg8UAdBcRW5KwpxNclcChlXVsPBzcLMmJETKdJxRH3p00J8wUVGHE3zTIMGdf3V2j4C49vTFpXQodj3Cfw8Rj1XZKWHVIypNvzlWosRW%2BM64vg4%2FjLUuHggwcKXGMe0FNGykMcolI8wSnIOtAqZFPgsYkKWTslq4DtwUE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770123215&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gkW9tzXx1Mo937LCdmcMrQzRFw%2BGhM44FjXsRcz3wKt1d2QD0ONzmReGZTOktloWkCXOn8f1uMFIOrWw1d0V9W3xGYh5S3bGEdBMaBL5Nlwxw8JEulw70Ggsh%2FGK0hZ%2FWMDezubfizVFYT9sSv21Lcye4ywtTiuw3kDMREhWM6o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -193,7 +193,7 @@
 - **nonnon** (Dec 17, 2025 04:33am): わかった
 - **Honest Llama** (Dec 01, 2025 11:29pm): 12月4にPC全員回収やねんけど涙
 - **Hopeful Albatross** (Dec 03, 2025 06:02pm): 俺もう帰ってきてるで
-- **❄️aotan❄️荒らし楽しい　タブレット移行でNO浮上** (Dec 05, 2025 07:19am): あれ、更新された？
+- **🌼aotan🌼荒らし楽しい　タブレット移行でNO浮上** (Dec 05, 2025 07:19am): あれ、更新された？
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 02, 2025 06:44am): 僕のせい？
 - **GOD NIBONIBO** (Nov 26, 2025 02:17am): 神
 - **方向転換　強盗せんか？** (Dec 08, 2025 12:15am): 何が更新されたのかkwsk
@@ -214,7 +214,7 @@
 - **はるとねこ** (Dec 01, 2025 10:48am): アリがトゥース
 - **削除済みユーザー** (Dec 16, 2025 04:25am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/Xb8YaLXBx8OEayn1) 
 - **メガネ** (Nov 29, 2025 08:39am): ありがとうございます
-- **❄️aotan❄️荒らし楽しい　タブレット移行でNO浮上** (Nov 29, 2025 09:51am): わーい
+- **🌼aotan🌼荒らし楽しい　タブレット移行でNO浮上** (Nov 29, 2025 09:51am): わーい
 - **ちゃんなぎ** (Nov 29, 2025 11:19am): yuki見れんけど
 - **ちゃんなぎ** (Nov 29, 2025 11:19am): やった
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 02, 2025 06:44am): まじ？
@@ -243,7 +243,7 @@
 - **Artistic Jaguar** (Nov 22, 2025 10:31pm): すげえ
 - **nonnon** (Dec 17, 2025 04:34am): すごすぎやろがい
 - **はるとねこ** (Nov 20, 2025 05:52am): おお
-- **❄️aotan❄️荒らし楽しい　タブレット移行でNO浮上** (Nov 19, 2025 12:58pm): まじか
+- **🌼aotan🌼荒らし楽しい　タブレット移行でNO浮上** (Nov 19, 2025 12:58pm): まじか
 - **꧁日本国民ゆ〜꧂  #煮物810番弟子** (Nov 20, 2025 06:55am): すごお
 - **Anonymous** (Dec 19, 2025 07:05am): まじか
 
@@ -563,7 +563,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770117854&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sSI7K1n2n3YUS7fcfdgDtJvmDqPcokFEa0Ixr2AnoLisIK0TLZ5HukEW3lpzx4D2gGHwGxlvclSemX3e%2BSrezX%2FIsZygg63A226xw4U0W4QlN%2BWg2RoijsKiYz8JDN3h0l73ly99koOtZtD1FAAXfvv2Xhx3dGUyXiYp4L4V%2FFY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770123216&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Yq8jS6bUbemdq64TJvbKePk9EJblR7UNR2UuQZyQ418SEaupAvxOGb8PcXj6VFi65YsQQyxc%2BRSvHLOFW9pFsT2Q6rg6sqSbGMRXmHGkzthi8bOUm0GA3vlUhne7Wo3pAQyrsuixTWAe%2BvqV4yvwkXYysGLrryF69S0nxJ1se4M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 15, 2026 10:41pm): 権限をぽんぽん渡しすぎや
@@ -1822,16 +1822,16 @@
 ---
 
 ### 7. わいのパソコンで使えないプロキシほしい？
-**Author:** ❄️aotan❄️荒らし楽しい　タブレット移行でNO浮上 (aotanzisatsu)
+**Author:** 🌼aotan🌼荒らし楽しい　タブレット移行でNO浮上 (aotan)
 
 
 
 [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/MbejW1blKo5qaNkG)
 
 #### Comments (5)
-- **❄️aotan❄️荒らし楽しい　タブレット移行でNO浮上** (Nov 28, 2025 02:26am): ちゃう
+- **🌼aotan🌼荒らし楽しい　タブレット移行でNO浮上** (Nov 28, 2025 02:26am): ちゃう
 - **削除済みユーザー** (Nov 27, 2025 11:18pm): 使えないって規制ってこと？
-- **❄️aotan❄️荒らし楽しい　タブレット移行でNO浮上** (Nov 28, 2025 02:26am): 検索できんやつ
+- **🌼aotan🌼荒らし楽しい　タブレット移行でNO浮上** (Nov 28, 2025 02:26am): 検索できんやつ
 - **削除済みユーザー** (Nov 28, 2025 12:32pm): ww
 - **削除済みユーザー** (Nov 28, 2025 12:32pm): それならいるんじゃない？
 
@@ -2819,7 +2819,7 @@
 **投稿の種類:** フィルターに関する相談や質問
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770117857&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=f3kAkhPa9cIsTuO45hwcHM3l7xKt%2Byyug7aR%2FQnPh%2F7RMgS4Hgj06dCUVGyQ66XrJxZjRk5eBvSM1h6mqzrReJiRJCsLgUhxhg3bNgcGw2yl1XGLMV4FZBwwzfmOF5xD76LGSfKAP%2FldvAwWsU4KjQXdnh%2BeoHGqTAuVYM9EitM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770123219&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jxfZ3SLtvVotk8tuuQNqdQ38NMSQDpXpd4vXERZX0zPDh%2B0wQbjaYJ1xAg%2Br6W%2FxmHCaK00bBr5KTtXUIn2dHonbM4cDcSBBEtc55mj3MqERL5NUZsu2b5zOLa015k%2FjCGQPwShHwHC13MottWx1tzI8AWQorDAXn7xHyAsdv%2Fg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -2846,7 +2846,7 @@
 - **Natsu** (Dec 19, 2025 09:00am): それはそう
 - **NyrikX(GDplayer)** (Jan 19, 2026 08:26am): 自分は、クロームブックを何回か初期化したことありますが、そもそも学校用のアカウントしか入れないし、プロキシ使っても入れません。初期化し学校用アカウントに入るのを数回に渡ってやったら、毎回どれかのプロキシに何かしらのエラーやブロックがされます。合計で被害を受けたのはutopia2つとランマーヘッド2つがブロックされ、inbox(index)がブロックではなくアクセスできないえらーのようになっていました。最悪です。みんなもこうならないように、電源や初期化はもうやめよう。
 - **Natsu** (Dec 18, 2025 11:48pm): (・∀・)ｲｲﾈ!
-- **❄️aotan❄️荒らし楽しい　タブレット移行でNO浮上** (Dec 19, 2025 06:59am): (・∀・)ｲｲﾈ!!
+- **🌼aotan🌼荒らし楽しい　タブレット移行でNO浮上** (Dec 19, 2025 06:59am): (・∀・)ｲｲﾈ!!
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -2989,7 +2989,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770117857&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nhZAVPSgERv%2Byt%2FLvkUwNt53Mm6lLscw2i2BQyfVxqxRnMvSGVRxnLpGDQuvinIH86htR4oPDlMVsHJpMhNCUee5l0F9KSy4SpdYi8QXh5KKTOyGI8nfm4vXISrvdengfbcVBpmHl8qGc34rdCBRf4T8qhQyGvpXQLHp15sYFdQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770123219&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0p2puKzzjVzSZGwK%2B7qOtpW01RmoKZj1ZmATj%2FYEWnIl9T%2FCAnQClIc5auj%2FHfhpASAU%2B89OmdepDW5DPocJ8ZkEGmN6MnAoMw%2Bf1DWAO%2FDuiabx6aTAEyWFDXQft76BseczvV65v6Ax382PFC8ckZSpNR2VYE1nNN%2FS2jftdEg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **Supportive Hummingbird** (Dec 30, 2025 08:28am): すみません...フィルタリングがISGCなんですけど、家のWi-Fiで使った場合って、学校側からもURLとか見れますか？しあtubeやpixivFEで大人の単語とか色々と調べていたのでちょっと不安になってきました。
@@ -3016,7 +3016,7 @@
 **投稿の種類:** フィルターに関する情報提供
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770117857&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Kdooj0lnb9J84gtVX7KOVgi9WU1OwY8lIbQJLcS9TnuA1BZBAnZmP%2BE8Ues1UNouNZoIBdS3kTkYFzP84W0wkJH2Pqtm95Srfd1aiGdqy1WBxIaAf3uT0SAwAnCljGdX9fn50SP2j1CcOcWeO%2FMjlM5WyYdkxs2R7Xup5vCP7s0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770123219&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hoeHhMk%2BMswgph1PwnWXWSJNb7bcFtyiWLi1q9V1XQNWFInEM%2B9GzEEPiZY0ojCagvoj6Xs93Fy4ASn2J5NYsu8zZj1DK%2FVHW89a7ruXG29SwV3we3bs8xsL1Cz53bRAN1nWSFIvU82JUtSXfClBZ6bC0wjYtPGG4as0K9jQfCE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **πr²(パイアール2)** (Nov 16, 2025 12:08pm): もうネット上に無数にあるし
