@@ -1,4 +1,4 @@
-最終更新: 2026/01/28 13:45:15
+最終更新: 2026/01/28 14:29:03
 
 # アーカイブ
 
@@ -36,7 +36,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770180310&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6T8yaSjZHHfLmf%2FgOSjfnyL4rKG4MG4DoNzQEJqw93%2F5oVWmj8DRy3qFAQx1s7I4plwm%2BTobEJuhRvqYC%2BSwk2VxT0N5N9gI8r3hxLChToYXhrqQo54ZyEwiZP2OP2MnnCUQ1yqyOO3JR2gF%2BOU%2FHAB25Y%2F%2BKzcze%2Bs%2Bu0FKcFI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770182938&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Lszjq409fbroFwZTIjjN4gDZpV23vDMkMovHwhg6xnlXFkTpIrY67o1tMH61ymBrYyw%2BKPTJ2jfAt0I76D078FlF8q8EIEat3ipJfvcln%2FUtk%2FrXk7jR7rWnB1aYE9OviE%2Bv6rAcIfVtdFExHMUZnz0bL%2B0U%2FLWfHbM4h3M8HbE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -107,7 +107,7 @@
 - **Adorable Deer** (Dec 22, 2025 12:11am): 全風呂
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 21, 2025 01:11pm): >:D
 - **Anonymous** (Dec 23, 2025 01:03am): ｗｗ
-- **ニッピー（パーリナイ）** (Dec 22, 2025 12:41am): やばい、1時間前には全部アクセスできてたのに、もう全ブロ（I-Filter）
+- **映画　チン長5cm** (Dec 22, 2025 12:41am): やばい、1時間前には全部アクセスできてたのに、もう全ブロ（I-Filter）
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 20, 2025 11:24am): 今ちょっとUIが崩れてるけど明日には直します。
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 25, 2025 03:15am): セクションを追加できるのモデレーター以上やで。それにこの代替ビュアーはただのビュアーだから見る専用
 - **＃G党　＃超低浮上** (Dec 20, 2025 11:30pm): ブロ
@@ -299,7 +299,7 @@
 - **はるとねこ** (Sep 26, 2025 01:09am): あとこんにちは
 - **はるとねこ** (Sep 26, 2025 01:08am): おお
 - **終わった人** (Oct 02, 2025 10:58am): すごい
-- **ニッピー（パーリナイ）** (Oct 13, 2025 12:16am): omedetougozaimasu!
+- **映画　チン長5cm** (Oct 13, 2025 12:16am): omedetougozaimasu!
 - **落合博満ファン** (Oct 13, 2025 07:58am): おめでとう　ドジャース今年も優勝するぞー
 - **SUBAR** (Oct 18, 2025 09:33am): ↑大谷参戦！
 - **おすし =D** (Oct 04, 2025 07:58am): すご
@@ -563,7 +563,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770180311&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WIrgq32TfXo5YgmS6YT9jvP7AuLMNAanaYqBMlBYF5Y%2F%2FbvynDktWpqx7iG3nHpMyVLOxAV8hNQqlSfI%2FQfJabIkZndEGQM8G3mxBo%2Fsxh%2Bp8UZc5%2FavFoWToOmu%2F9I9On3reeNTokCiPlpbsEnl2TAame0eS0XLM9ia%2FzsRWeQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770182939&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=U4kbBOuQI1S%2FjqOKWCf%2BXB9GpamIwZnoOyXazwhuO34SZBl4yUPqfVZG5vYzDcMj3wLiDezA5G5LZviGkvNZ7jGeMnk3pPFmCzsz6IUJ1Lk0ezcSVmc5szWBcFlXTZou5PUH8TaTS%2B%2FbqunhvIF3IXDthpiDKcHrhqBAhvXVD0Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 15, 2026 10:41pm): 権限をぽんぽん渡しすぎや
@@ -847,7 +847,7 @@
 
 
 #### Comments (1)
-- **菜奈** (Jan 10, 2026 07:02am): ﾜｶﾘﾐ
+- **とりあえず。** (Jan 10, 2026 07:02am): ﾜｶﾘﾐ
 
 #### Additional Information
 - **Post color:** White
@@ -862,7 +862,7 @@
 
 
 #### Comments (1)
-- **菜奈** (Jan 10, 2026 07:01am): どーもー！
+- **とりあえず。** (Jan 10, 2026 07:01am): どーもー！
 
 #### Additional Information
 - **Post color:** White
@@ -987,7 +987,7 @@
 ---
 
 ### 26. おすすめのユーチューバー教えて！！
-**Author:** 菜奈 (aaa0302sutegonotuna)
+**Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 
 
@@ -997,7 +997,7 @@
 - **亜空カン_JANLINE** (Dec 24, 2025 07:23am): 佐倉あましん
 - **Massa_games216** (Dec 24, 2025 01:08pm): speedsilver,牛沢
 - **Massa_games216** (Dec 24, 2025 01:09pm): grox
-- **菜奈** (Dec 25, 2025 05:54am): わ〜...！皆さんありがとうございます...！！
+- **とりあえず。** (Dec 25, 2025 05:54am): わ〜...！皆さんありがとうございます...！！
 - **Adorable Butterfly** (Dec 23, 2025 02:46pm): ゲコ動画のサイレントヒル実況
 - **ルッキー** (Dec 23, 2025 10:37pm): ホモサピ、forestちゃんねる
 - **亜空カン_JANLINE** (Dec 24, 2025 07:24am): 音楽系ならよみぃ
@@ -1018,7 +1018,7 @@
 
 #### Comments (4)
 - **Natsu** (Dec 21, 2025 11:43pm): 思った
-- **菜奈** (Dec 22, 2025 12:24am): 同意
+- **とりあえず。** (Dec 22, 2025 12:24am): 同意
 - **Anonymous** (Dec 21, 2025 01:10pm): それな
 - **削除済みユーザー** (Dec 22, 2025 02:09am): 草
 
@@ -1030,7 +1030,7 @@
 ---
 
 ### 28. 桃鉄教育版のパスワードを攻略しよう！
-**Author:** ニッピー（パーリナイ） (nippii)
+**Author:** 映画　チン長5cm (nippii)
 
 <p>ダイナミックな作戦をやります。それは8桁の数字をテキトーに入力して行こうというものです。専用のパドレット部屋を作りますので、どうか皆様、ご協力いただけると幸いです！プロキシのリンクやyoutubeの閲覧方法を共有する会の宣伝もやりまくりました。</p>
 
@@ -1039,7 +1039,7 @@
 [Attachment](https://padlet.com/nippii/youtube-bp3pjb93byrq48xu)
 
 #### Comments (2)
-- **ニッピー（パーリナイ）** (Dec 20, 2025 10:46am): 相当な努力が必要だろうから
+- **映画　チン長5cm** (Dec 20, 2025 10:46am): 相当な努力が必要だろうから
 - **削除済みユーザー** (Dec 20, 2025 10:27am): 強いな
 
 #### Reactions
@@ -1353,7 +1353,7 @@
 
 #### Comments (8)
 - **削除済みユーザー** (Dec 13, 2025 12:08am): w
-- **菜奈** (Dec 13, 2025 06:47am): ｗ
+- **とりあえず。** (Dec 13, 2025 06:47am): ｗ
 - **Massa_games216** (Dec 12, 2025 10:30am): ビルドコマンドはあってるはずなのに
 - **削除済みユーザー** (Dec 12, 2025 08:33am): ww
 - **削除済みユーザー** (Dec 12, 2025 08:33am): 修正したらいけるはず
@@ -1448,7 +1448,7 @@
 ---
 
 ### 47. 悲報　start pegeがkisei☆💢
-**Author:** ニッピー（パーリナイ） (nippii)
+**Author:** 映画　チン長5cm (nippii)
 
 <p>お・わ・た☆</p>
 
@@ -1456,7 +1456,7 @@
 
 #### Comments (4)
 - **長路大河** (Dec 07, 2025 02:19pm): どんまい
-- **菜奈** (Dec 07, 2025 10:39pm): されてない！☆（（（殴
+- **とりあえず。** (Dec 07, 2025 10:39pm): されてない！☆（（（殴
 - **RX034** (Dec 11, 2025 08:48am): 俺もだあああああああああ
 - **ちゃんなぎ** (Dec 11, 2025 08:57am): 俺もー
 
@@ -1518,7 +1518,7 @@
 #### Comments (3)
 - **Natsu** (Dec 06, 2025 07:42am): QRとは？
 - **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 04, 2025 08:52am): そうなんですね！私の市は学夕ブのログインQRコード今のところそのままですね
-- **菜奈** (Dec 04, 2025 08:49am): うちはもうﾊﾟｽﾜｰﾄﾞﾀﾞﾅｧ...
+- **とりあえず。** (Dec 04, 2025 08:49am): うちはもうﾊﾟｽﾜｰﾄﾞﾀﾞﾅｧ...
 
 #### Additional Information
 - **Post color:** White
@@ -1649,7 +1649,7 @@
 ---
 
 ### 2. youtubeダウンローダーﾎｼｲ?（2回目）
-**Author:** 菜奈 (aaa0302sutegonotuna)
+**Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 <p>魔貫光殺砲ﾇはいるﾇ分類です</p><p>一応投稿期限は一週間予定。あまりにも来なかったら早めたり、遅めたりします。</p>
 
@@ -1659,15 +1659,15 @@
 
 #### Comments (10)
 - **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 23, 2025 11:48am): ほしいです！
-- **菜奈** (Dec 31, 2025 07:08am): これです↓
-- **菜奈** (Jan 08, 2026 12:12pm): やったー！
-- **菜奈** (Dec 24, 2025 06:26am): まぁまぁ焦るなって（（（殴
-- **菜奈** (Dec 31, 2025 07:08am): あげーる（（
+- **とりあえず。** (Dec 31, 2025 07:08am): これです↓
+- **とりあえず。** (Jan 08, 2026 12:12pm): やったー！
+- **とりあえず。** (Dec 24, 2025 06:26am): まぁまぁ焦るなって（（（殴
+- **とりあえず。** (Dec 31, 2025 07:08am): あげーる（（
 - **絵が好きなももちゃ** (Dec 29, 2025 09:44am): ほしーい
-- **菜奈** (Dec 31, 2025 07:08am): https://aiseo.ai/ja/tools/youtube-video-downloaderhttps://aiseo.ai/ja/tools/youtube-shorts-downloaderhttps://aiseo.ai/ja/tools/youtube-to-mp3https://aiseo.ai/ja/tools/youtube-to-mp4https://aiseo.ai/ja/tools/instagram-reels-downloader
+- **とりあえず。** (Dec 31, 2025 07:08am): https://aiseo.ai/ja/tools/youtube-video-downloaderhttps://aiseo.ai/ja/tools/youtube-shorts-downloaderhttps://aiseo.ai/ja/tools/youtube-to-mp3https://aiseo.ai/ja/tools/youtube-to-mp4https://aiseo.ai/ja/tools/instagram-reels-downloader
 - **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 25, 2025 12:47am): あーい(′▽`〃)
 - **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Jan 01, 2026 09:45am): ありがと！！全て使えるよ〜
-- **菜奈** (Dec 25, 2025 06:00am): ｗｗ
+- **とりあえず。** (Dec 25, 2025 06:00am): ｗｗ
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1792,21 +1792,21 @@
 ---
 
 ### 6. ようつべダウンローダー欲しい人挙手！
-**Author:** 菜奈 (aaa0302sutegonotuna)
+**Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 
 
 [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/goElQyGgYjpwW3yY)
 
 #### Comments (10)
-- **菜奈** (Dec 06, 2025 08:29am): どういたしまして！
-- **菜奈** (Dec 04, 2025 08:57am): 一応ここに、➥youtubeの私が投稿したものを載せておきます！https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/do3MQJPk5J26W15w
-- **菜奈** (Dec 07, 2025 06:48am): やったね！
-- **菜奈** (Dec 04, 2025 08:54am): 今、いるﾇと早くよこしやがれ集まってるんで➥youtubeのところに貼ります！
+- **とりあえず。** (Dec 06, 2025 08:29am): どういたしまして！
+- **とりあえず。** (Dec 04, 2025 08:57am): 一応ここに、➥youtubeの私が投稿したものを載せておきます！https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/do3MQJPk5J26W15w
+- **とりあえず。** (Dec 07, 2025 06:48am): やったね！
+- **とりあえず。** (Dec 04, 2025 08:54am): 今、いるﾇと早くよこしやがれ集まってるんで➥youtubeのところに貼ります！
 - **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 06, 2025 01:53am): 神っ！ありがとう〜！
 - **Massa_games216** (Dec 06, 2025 01:10pm): ナイス
-- **菜奈** (Dec 05, 2025 12:51pm): 新しいのです！　https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/x5A7arGgvygeQwr6
-- **菜奈** (Dec 04, 2025 08:30am): いるﾇ、または早くよこしやがれ、またはサカバンバスピスを選んだ方は！➥youtubeのところに貼りますのでそこでもらって行きやがれください（（殴
+- **とりあえず。** (Dec 05, 2025 12:51pm): 新しいのです！　https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/x5A7arGgvygeQwr6
+- **とりあえず。** (Dec 04, 2025 08:30am): いるﾇ、または早くよこしやがれ、またはサカバンバスピスを選んだ方は！➥youtubeのところに貼りますのでそこでもらって行きやがれください（（殴
 - **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 04, 2025 08:53am): はい
 - **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 04, 2025 08:56am): はい。ありがとうございます。
 
@@ -1943,7 +1943,7 @@
 
 #### Comments (3)
 - **アノニマス** (Oct 14, 2025 10:38pm): 結局わかめだなー
-- **ニッピー（パーリナイ）** (Oct 13, 2025 06:42am): がんばれ〜
+- **映画　チン長5cm** (Oct 13, 2025 06:42am): がんばれ〜
 - **ゾン** (Oct 05, 2025 08:27am): 変なサイト作るか
 
 #### Reactions
@@ -2457,8 +2457,8 @@
 #### Comments (4)
 - **スシロー** (Jan 18, 2026 12:18am): サイトの中にサイトがある「仮想デスクトップ」みたいなやつです、これみたいなhttps://app.apponfly.com/trial
 - **スシロー** (Jan 19, 2026 08:42am): ありそうすか？
-- **菜奈** (Jan 17, 2026 02:53am): 具体的にどんなものかがわかれば渡せるかも...
-- **菜奈** (Jan 18, 2026 03:50am): なる　ほど
+- **とりあえず。** (Jan 17, 2026 02:53am): 具体的にどんなものかがわかれば渡せるかも...
+- **とりあえず。** (Jan 18, 2026 03:50am): なる　ほど
 
 #### Additional Information
 - **Post color:** White
@@ -2474,7 +2474,7 @@
 
 #### Comments (2)
 - **プロキシほしい** (Jan 10, 2026 02:02pm): ほしい
-- **菜奈** (Jan 11, 2026 11:35am): いる？
+- **とりあえず。** (Jan 11, 2026 11:35am): いる？
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -2509,7 +2509,7 @@
 ---
 
 ### 7. だれかよろしければプロキシをください...！
-**Author:** 菜奈 (aaa0302sutegonotuna)
+**Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 
 
@@ -2685,7 +2685,7 @@
 - **あ** (Dec 23, 2025 08:59am): 誰かフォトナできるサイトない？
 - **Charismatic Lion** (Dec 23, 2025 10:50pm): YouTubeじゃなくてさ、サイト
 - **Enthusiastic Gecko** (Dec 22, 2025 12:20pm): そんなことよりURL打ち込むやつができんくなった
-- **菜奈** (Dec 23, 2025 10:58am): ？？https://nana.a.drciocan.ro/　これにyoutubeのリンク打ち込めばいけるよ！　URL打ち込むやつが出来ないというのはダウンローダーのこと？それなら→https://postsyncer.com/tools/youtube-video-downloader　で。
+- **とりあえず。** (Dec 23, 2025 10:58am): ？？https://nana.a.drciocan.ro/　これにyoutubeのリンク打ち込めばいけるよ！　URL打ち込むやつが出来ないというのはダウンローダーのこと？それなら→https://postsyncer.com/tools/youtube-video-downloader　で。
 - **AU_ 3821632** (Dec 25, 2025 05:00am): 横と縦両方見れるよ
 - **AU_ 3821632** (Dec 25, 2025 04:59am): https://www-proxy.ladifsoftware.com/こういうの？
 - **削除済みユーザー** (Dec 22, 2025 01:12pm): どゆこと
@@ -2819,7 +2819,7 @@
 **投稿の種類:** フィルターに関する相談や質問
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770180313&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lPUR%2F21q%2BO%2BmMgpfoBJfzUUlIW8YiFHpHzxPlOyOvl5ggrfKa95JmA75zxHwmqLRHwOPHtsov7CYcIum22VAkVNWquK5Kbr%2Brjwe5DiGrflILO3rHhS2JT2kG6P7oQTT6a%2BWTw5mOBcRsNxXYAv%2BHrI1lvDwU%2Fm6CiqekZSgNOI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770182942&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QaSDR1%2BOfl9YYKnUHcIzV7URZ%2Fnx3YmKfBH%2FXp7Ipd8aoKkVy4ujiKQlX1bTT0L0adrwe3XfoLFXwXt2yVfrFW3h1MKQWdhqwcG07BeSuyYCjZv0JjGyoa3Lko%2B2mYOismrum1eCIR4Xos5q7ycfUxhvfbzcrMNJkebigTZ7EB8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -2989,7 +2989,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770180313&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gECSRyLV9lTMVwk18FTMtwcmjyLc1E%2BvP2%2BTLrVyGtyjoGuaSF7oBrQLiVPtmvaaqEgAFqO1fSL94dUE7wbOf7uSECBNiLhn4a7i9Q1ujPRAGG%2BDU0RmhRsx8HqV58iQTpfw76y%2B8HmAwsOFCR4mFjDt%2BTfnZaPDC0LM3oSfWwU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770182942&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=K%2FemAWQUBe6POIBe5eIMD6OzdmzKjc6rbJTHUMIDmdtvk23ymQG2ynNahOnF6mm2y%2BtbNHuzNwbVQmE85ru%2FUN%2BLWGU4BY2y4KWqNJEhiEov2Zk0ADEv3vW2zIaZDfJf1BONFNO0gvSG8PTlGUmu62HtBWUorDUh4LY1wMb9KOc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **Supportive Hummingbird** (Dec 30, 2025 08:28am): すみません...フィルタリングがISGCなんですけど、家のWi-Fiで使った場合って、学校側からもURLとか見れますか？しあtubeやpixivFEで大人の単語とか色々と調べていたのでちょっと不安になってきました。
@@ -3016,7 +3016,7 @@
 **投稿の種類:** フィルターに関する情報提供
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770180314&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wOqvUlXnjcIlFEJSnc8sxlRhReksCdd7j26ies2iTPjwpwWga4DSEhNqF7Cd1V5hR%2Bi6vgXDvLx%2BaAozyjjg2kM67yffGSFsQr41eWAxFwsEgqMPouvC1YheI3iitP3MkHx0gxuIF8yszDoZm%2FS%2BnM1PW%2F2fKFQf8S%2Bzynj3BRw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770182942&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GbSITG7%2FEt7Goiaqe3Zoow0CN3hVV8Qb2ESJXaXeukJkG8gVHpkVhYc8aFqVrGo%2FM5UlyX9tN56clvjE83QVDJfwjSrJOxCsHIFc0hyvyDQ408L%2Bop22g%2B9AqcFJBDH0gmVNWtO67ombUmr2tkLcpm3ecsN2%2BXreHfvoNKwVDjY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **πr²(パイアール2)** (Nov 16, 2025 12:08pm): もうネット上に無数にあるし
@@ -3145,7 +3145,7 @@
 - **Natsu** (Nov 23, 2025 11:38am): がんばれ
 - **削除済みユーザー** (Nov 23, 2025 12:09pm): crosproxyまでは作った
 - **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Nov 24, 2025 01:06am): がんば!
-- **菜奈** (Dec 04, 2025 10:26am): 頑張って！
+- **とりあえず。** (Dec 04, 2025 10:26am): 頑張って！
 - **メンマ** (Nov 24, 2025 11:17pm): ガンバ～
 - **n** (Nov 23, 2025 01:18pm): ガンバ
 - **あおまさもも** (Nov 24, 2025 11:09pm): ガンバ〜
@@ -3727,7 +3727,7 @@
 [Attachment](https://c148-339-re.onrender.com/)
 
 #### Comments (5)
-- **ニッピー（パーリナイ）** (Dec 08, 2025 12:50pm): 規制　ifilter
+- **映画　チン長5cm** (Dec 08, 2025 12:50pm): 規制　ifilter
 - **白玉桜もちの奈津** (Sep 23, 2025 08:06am): 規制☆
 - **俺だよ俺** (Jul 03, 2025 04:47am): [Attachment](https://media4.giphy.com/media/v1.Y2lkPWNhYmM5OTE4bXgwbXNubjF1cDdmZHpjMGI5aGxkZGI1aTg1MmYwcWNsOGtxbHQweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oFeUVZfiuim9G/giphy.gif) ありがとう
 - **わかめtube愛好家** (Jul 04, 2025 05:00am): ありがとーサイコーたぜー😭
