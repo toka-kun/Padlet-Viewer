@@ -1,4 +1,4 @@
-最終更新: 2026/01/28 10:53:24
+最終更新: 2026/01/28 12:46:46
 
 # Padletポータルワールド
 
@@ -93,7 +93,7 @@
 ## Padletポータルワールド
 
 ### 1. くるくるの雑談部屋の受付と部屋
-**Author:** くるくる (okasidainidaime)
+**Author:** kurkur (okasidainidaime)
 
 <p>いい部屋にしたい</p>
 
@@ -1547,7 +1547,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770170004&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kfGhZlkP9dPLQRYP09dpWZpLW7Pg3Rbkmne%2Ft08d8XL9lt3ghkvxyKZxm85HQlK%2FXmf6%2BKK7UfgQV6UxRxeXbw2HdquMCQFZSLzavYRr1cA46bLwRrYdavodKRKRZ8naU%2BEzoy3szJSdhuUEabG%2B0%2B%2BvcB8KUJ5dvcsS3L%2Btq44%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770176806&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WJQfnOTWo9qoitgULjsl50sCbXKME9IBkoPcqkD5QPAhrhGbz38mW66nb0xXApRkN6rvV2fps9P6f0WWSXGn4mDK9AhATYjnxQ1%2FQU26L%2BjLJjOGW0pDYNXWwrWKFGNjAU048TNFOGrA%2FbULylTqBgedEtqtPbTqFaVzGz5OTrc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
