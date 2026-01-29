@@ -2,7 +2,7 @@ name: Padlet データ取得 - Unblocked
 
 on:
   schedule:
-    - cron: '15/30 * * * *'
+    - cron: '7/15 * * * *'
   workflow_dispatch:
 
 permissions:
