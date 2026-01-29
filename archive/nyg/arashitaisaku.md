@@ -1,4 +1,4 @@
-最終更新: 2026/01/24 22:31:52
+最終更新: 2026/01/29 20:33:03
 
 # 荒らし対策室
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 10
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Jan 24, 2026 10:54am
+- **Updated At (UTC):** Jan 29, 2026 11:06am
 
 ## リンク集
 
@@ -121,6 +121,10 @@
 
 ### 2. かいと
 **Author:** かいとぢゃん (HALVES_LOVE)
+
+#### Reactions
+- **Upvotes:** 1
+- **Downvotes:** 0
 
 #### Additional Information
 - **Post color:** White
