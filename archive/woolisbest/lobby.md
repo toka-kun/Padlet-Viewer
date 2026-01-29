@@ -1,4 +1,4 @@
-最終更新: 2026/01/29 13:28:25
+最終更新: 2026/01/29 18:45:13
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 29, 2026 04:10am
+- **Updated At (UTC):** Jan 29, 2026 08:48am
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (83)
+#### Comments (85)
 - **削除済みユーザー** (Jan 16, 2026 02:42pm):  
 - **sanae1212** (Jan 16, 2026 07:44am): 入れて！
 - **woolisbest** (Jan 17, 2026 12:12pm): おい
@@ -102,6 +102,8 @@
 - **あきと** (Jan 18, 2026 02:41am): フォローしといたから
 - **woolisbest** (Jan 18, 2026 03:05am): ok
 - **盲目衛門** (Jan 29, 2026 04:10am): 入れてください
+- **woolisbest** (Jan 29, 2026 08:48am): え、追加できない...
+- **woolisbest** (Jan 29, 2026 08:45am): ok
 
 #### Additional Information
 - **Post color:** Red
