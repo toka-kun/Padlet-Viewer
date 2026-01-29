@@ -1,4 +1,4 @@
-最終更新: 2026/01/29 15:51:31
+最終更新: 2026/01/29 16:40:44
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 68
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jan 29, 2026 12:34am
+- **Updated At (UTC):** Jan 29, 2026 07:02am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -25,7 +25,8 @@
 
 [Attachment](https://padlet.com/Toka_Kun_/submission-request/k2qlv3RKMKOnX5Rx?section=317262857)
 
-#### Comments (2)
+#### Comments (3)
+- **ぴわを　’復活’** (Jan 29, 2026 07:02am): ライターください
 - **草** (Oct 29, 2025 07:18am): ？」
 - **削除済みユーザー** (Nov 29, 2025 07:24am): ↑のpadletポータルワールドをタップしたら投稿できると思う
 
@@ -1570,9 +1571,10 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770274291&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QLSvb6PkHg7Dyvtc2xqRvx7MSt0VZJEuWFSdex3P6M5c4Jh%2FYNguCQGEc8FD2uf3MRwaTUimmK%2FUFdH%2Ftm6C9eE65ByN8QsPsPlFIpF0feOd6mzuWvecYFVbk2kQOMuji0tbu04naUOxanavP1Z9NX1PpULVUM4cxckZF1DCCoQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770277244&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WFBzCamjjueQhdt7rJQzTcbsbPCXsIEgdR1bWxp9NBZhCKKwqxSQVYx7tMj9tWimQHB71J2HwIh2lquwZuOWNp0Ticfk19jYDOaxPyMbg%2FZtqRHsj4GcsbQv1EFqjOeIpjo%2Bw8rxdbc%2BDvlJzeyj1wCqCoYdldColXyAvThC6nk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
-#### Comments (28)
+#### Comments (29)
+- **ぴわを　’復活’** (Jan 29, 2026 07:02am): ライターください
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
 - **✿ 🐬𝒮𝒶𝓉𝒶𝓃🐬 ✿** (Sep 04, 2025 11:50pm): こんにちは！よろしくお願いします！
 - **るい** (Oct 07, 2025 10:13am): こんにちは
