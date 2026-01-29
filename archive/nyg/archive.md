@@ -1,4 +1,4 @@
-最終更新: 2026/01/29 14:44:35
+最終更新: 2026/01/29 15:51:03
 
 # アーカイブ
 
@@ -36,7 +36,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770270271&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dW70k9zcCUDWbE0caBOJJJTH6A8%2BE%2By%2F8Gc0xgk2PvGdJHSBUGBTV0C07%2FTzlcv84Wh86CPo4XLR6uka7I%2Buz%2FNvNE%2FBF68PMxtlkRLNEymKY5hOf%2BvEFkK42QSDgt0t4bE5j0p%2BXMBnijwlOiXq2KT%2FLsTJLdMKlnwigM4bRgk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770274255&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GdczPo5tHJJ8qshmz5KcPaxZ2ZNmo9oUAU5HcwhKsryvBcb61QWEysclMuYCeNx%2BqhndG0UQI%2FynS3cOUDD0uD0HYdYPp6N6TPexLdet40rVZfUR%2F5YF%2B1RpBDEIsoPArmoGsZoo%2FYop4gc20WjQpPNo0IwJRuEv5Ix%2Fbv87stc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -107,7 +107,7 @@
 - **Adorable Deer** (Dec 22, 2025 12:11am): 全風呂
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 21, 2025 01:11pm): >:D
 - **Anonymous** (Dec 23, 2025 01:03am): ｗｗ
-- **映画　チン長5cm** (Dec 22, 2025 12:41am): やばい、1時間前には全部アクセスできてたのに、もう全ブロ（I-Filter）
+- **All Japan Unblocking Association　(全日本ブロック解除協会)** (Dec 22, 2025 12:41am): やばい、1時間前には全部アクセスできてたのに、もう全ブロ（I-Filter）
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 20, 2025 11:24am): 今ちょっとUIが崩れてるけど明日には直します。
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 25, 2025 03:15am): セクションを追加できるのモデレーター以上やで。それにこの代替ビュアーはただのビュアーだから見る専用
 - **＃G党　＃超低浮上** (Dec 20, 2025 11:30pm): ブロ
@@ -299,7 +299,7 @@
 - **はるとねこ** (Sep 26, 2025 01:09am): あとこんにちは
 - **はるとねこ** (Sep 26, 2025 01:08am): おお
 - **終わった人** (Oct 02, 2025 10:58am): すごい
-- **映画　チン長5cm** (Oct 13, 2025 12:16am): omedetougozaimasu!
+- **All Japan Unblocking Association　(全日本ブロック解除協会)** (Oct 13, 2025 12:16am): omedetougozaimasu!
 - **落合博満ファン** (Oct 13, 2025 07:58am): おめでとう　ドジャース今年も優勝するぞー
 - **SUBAR** (Oct 18, 2025 09:33am): ↑大谷参戦！
 - **おすし =D** (Oct 04, 2025 07:58am): すご
@@ -563,7 +563,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770270271&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JWiblYLM%2B8kOrGcwrzTBtAufCwtU7cn65l0WbyOrTwaDoLpblkaxLFfjXN%2FZhcOaa%2FsU57Hy%2BKGUZRQJ6L39sYJ2FzZpmiryABtcKS8pwL3ofoRWUypj0eLfMEXsqTy3zokWXLo3rOoLbWCDpdajYuPcEiv6dNuxxpFdr%2B9QvVg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770274256&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KtOVnY%2BuRKWiy%2F2%2FwMPG0zTezKZx5Opr6krPKbvSR6r1S6tcFrlG1EE8AcjU3j8Ogeyhw5BIZMBQeE2LUk74sBiF6lCHk8hxxtukE%2FaOnkR2h9HMoaFcKUmQPLPoeOkHbxRhOwJUb%2BzB%2BR8GfmxnpxCV0Ux%2B%2F4lIMMx3ZVv%2FndA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 15, 2026 10:41pm): 権限をぽんぽん渡しすぎや
@@ -1030,7 +1030,7 @@
 ---
 
 ### 28. 桃鉄教育版のパスワードを攻略しよう！
-**Author:** 映画　チン長5cm (nippii)
+**Author:** All Japan Unblocking Association　(全日本ブロック解除協会) (nippii)
 
 <p>ダイナミックな作戦をやります。それは8桁の数字をテキトーに入力して行こうというものです。専用のパドレット部屋を作りますので、どうか皆様、ご協力いただけると幸いです！プロキシのリンクやyoutubeの閲覧方法を共有する会の宣伝もやりまくりました。</p>
 
@@ -1039,7 +1039,7 @@
 [Attachment](https://padlet.com/nippii/youtube-bp3pjb93byrq48xu)
 
 #### Comments (2)
-- **映画　チン長5cm** (Dec 20, 2025 10:46am): 相当な努力が必要だろうから
+- **All Japan Unblocking Association　(全日本ブロック解除協会)** (Dec 20, 2025 10:46am): 相当な努力が必要だろうから
 - **削除済みユーザー** (Dec 20, 2025 10:27am): 強いな
 
 #### Reactions
@@ -1448,7 +1448,7 @@
 ---
 
 ### 47. 悲報　start pegeがkisei☆💢
-**Author:** 映画　チン長5cm (nippii)
+**Author:** All Japan Unblocking Association　(全日本ブロック解除協会) (nippii)
 
 <p>お・わ・た☆</p>
 
@@ -1943,7 +1943,7 @@
 
 #### Comments (3)
 - **アノニマス** (Oct 14, 2025 10:38pm): 結局わかめだなー
-- **映画　チン長5cm** (Oct 13, 2025 06:42am): がんばれ〜
+- **All Japan Unblocking Association　(全日本ブロック解除協会)** (Oct 13, 2025 06:42am): がんばれ〜
 - **ゾン** (Oct 05, 2025 08:27am): 変なサイト作るか
 
 #### Reactions
@@ -2819,7 +2819,7 @@
 **投稿の種類:** フィルターに関する相談や質問
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770270274&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=o1LgkcMZP9cGyMhKNm5FUdWVbIB9g5dam4fqghKnzDtto%2F9fE4uP%2F%2FVckx6VPq1567F%2FYH9EAm%2FG7AvRVd%2F98X8QzK4YtCQ5tZwEV7tXFUO%2F8dhnaJgAQOgiPbMkCpwA4TlHRQQFIdP3l5AfAy%2B285Bx5tswusV535iXPuJyBcA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770274260&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4b1dRx8sT5pSulJ%2BrYuzfSUXIDjaTt0nHVR6V%2Bbf1DBJwmkwsB4zE9Qk25plpxxlXMFz3bAHO8RarmeXKPtTy%2BrPIcDNZX2DIdzLPjYchcOR2%2FM5jopyeBB6JIjbmhqxQzIuntp%2BQJHfFaN6m3azIq29KHkgJV2L%2FQ4TWG3dyYE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -2989,7 +2989,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770270274&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PK48V8adFfZy5xrhrm3AJRlEKVRo81eFsuRyqCpA11LGyEeciWP%2BfbKaCQQ0EUjWN2jOwPxJZ2QX5UICYoJicNTMQ8cUtDxK4%2BKnZvj5MMwyNMDwR3waARlc9fMPLbbYPEoF83rTUfocofLQun%2FuAbS8rerMvNFmxgoQm3uSkSg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770274261&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bsCpBh02eBoMaIxqZs4TXr8HLg5qylDzhEayrUFxNg8%2B%2BAhUvnazFj0rkw87GG%2FwmjFCRkLU%2BQpcG1E1vUOKlr9k7FGhofLG8oFVPcq1aPeY%2BZQLu4yfpsSlcVbRPy281SsrO9BsV2IPvhLGdFWou5hbiDWH1dnS0b25Jl14I9I%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **Supportive Hummingbird** (Dec 30, 2025 08:28am): すみません...フィルタリングがISGCなんですけど、家のWi-Fiで使った場合って、学校側からもURLとか見れますか？しあtubeやpixivFEで大人の単語とか色々と調べていたのでちょっと不安になってきました。
@@ -3016,7 +3016,7 @@
 **投稿の種類:** フィルターに関する情報提供
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770270274&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=N%2BGosnJ6P7Sf9E1F8OTzvY8nHDGja9wGfzUK9kwi35ikNu3Tq8k2vSUOopSX%2BR9L1kv0e3PDB6y3Kly2DxJjlXE0nnU0CDk58nTjk5XD9lx4QoKiJowJs6PUmsnqxVzU5qLUXlto3mVcHlyXVY4uYGNgT7AsctJy0yoSYwvvpPE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770274261&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UekqTBd4pp%2FqQYa4ec%2BLCKF9f4dJ4yL9OpX7zPFNBL9IKK6jMexrCegyk7VWAypQeER7fBvE1YLdPv25HyE7mOc5b1E0a1j2qFZ7cv3e8GuLR%2FNdoE1rXQrfvccoUUai5a94tXUZitdwTyeIldwP%2Fo3GaRKJzWvhDNKyRx%2FbV5Y%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **πr²(パイアール2)** (Nov 16, 2025 12:08pm): もうネット上に無数にあるし
@@ -3727,7 +3727,7 @@
 [Attachment](https://c148-339-re.onrender.com/)
 
 #### Comments (5)
-- **映画　チン長5cm** (Dec 08, 2025 12:50pm): 規制　ifilter
+- **All Japan Unblocking Association　(全日本ブロック解除協会)** (Dec 08, 2025 12:50pm): 規制　ifilter
 - **白玉桜もちの奈津** (Sep 23, 2025 08:06am): 規制☆
 - **俺だよ俺** (Jul 03, 2025 04:47am): [Attachment](https://media4.giphy.com/media/v1.Y2lkPWNhYmM5OTE4bXgwbXNubjF1cDdmZHpjMGI5aGxkZGI1aTg1MmYwcWNsOGtxbHQweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oFeUVZfiuim9G/giphy.gif) ありがとう
 - **わかめtube愛好家** (Jul 04, 2025 05:00am): ありがとーサイコーたぜー😭
