@@ -1,4 +1,4 @@
-最終更新: 2026/01/30 18:40:05
+最終更新: 2026/01/30 19:36:54
 
 # 受付と匿名用
 
@@ -7,13 +7,31 @@
 ## Summary
 - **Link:** https://padlet.com/woolisbest/padlet-99xq7bb7zjzcfzw0
 - **Builder:** woolisbest (woolisbest)
-- **Posts:** 4
+- **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 30, 2026 08:53am
+- **Updated At (UTC):** Jan 30, 2026 10:10am
 
 ## 受付
 
 ### 1. 入りたい人はここにコメント
+**Author:** woolisbest (woolisbest)
+
+<p>メアドよろしく</p><p>見たら消す</p>
+
+[Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
+
+#### Comments (2)
+- **꧁日本国民ゆ〜꧂  #煮物810番弟子** (Jan 30, 2026 10:02am): 入れてください
+- **꧁༽𝓷𝓮𝓱𝓸𝓼𝓪𝓽𝓪༼꧂** (Jan 30, 2026 10:10am): ｂ
+
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** Jan 30, 2026 09:51am
+- **Updated At (UTC):** Jan 30, 2026 09:51am
+
+---
+
+### 2. 入りたい人はここにコメント
 **Author:** 青葉  @らーめん #BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ (Aoba108)
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
@@ -110,7 +128,7 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Jan 13, 2026 12:03pm
-- **Updated At (UTC):** Jan 30, 2026 08:53am
+- **Updated At (UTC):** Jan 30, 2026 09:51am
 
 ---
 
@@ -121,10 +139,11 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (4)
+#### Comments (5)
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
 - **削除済みユーザー** (Jan 23, 2026 12:38pm): した
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
+- **꧁日本国民ゆ〜꧂  #煮物810番弟子** (Jan 30, 2026 10:02am): しました
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 
 #### Additional Information
