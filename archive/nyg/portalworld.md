@@ -1,4 +1,4 @@
-最終更新: 2026/01/30 21:59:07
+最終更新: 2026/01/30 23:00:19
 
 # Padletポータルワールド
 
@@ -288,7 +288,7 @@
 ---
 
 ### 9. waniの部屋
-**Author:** わに太郎の龍之介11 (waniwaniwain)
+**Author:** わに太郎の龍之介 (waniwaniwain)
 
 <p>みんなで雑談やサイトなどを楽しめる場所だぜぇ</p><p>気軽に浮上してねー</p>
 
@@ -901,7 +901,7 @@
 ---
 
 ### 37. waniの部屋
-**Author:** わに太郎の龍之介11 (waniwaniwain)
+**Author:** わに太郎の龍之介 (waniwaniwain)
 
 <p>俺の雑談部屋</p><p>いつかはどこよりも人が多い部屋にする</p><p>なんでもしよ</p>
 
@@ -1019,7 +1019,7 @@
 ---
 
 ### 42. waniの部屋
-**Author:** わに太郎の龍之介11 (waniwaniwain)
+**Author:** わに太郎の龍之介 (waniwaniwain)
 
 <p>みんなで楽しくワイワイ雑談やゲームをしましょう！！</p><p>過度な暴言やグロはやめましょう！</p>
 
@@ -1570,7 +1570,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770382747&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pH7LmyWrfPtZ19%2FN8xI1ElPT1IFyBj9qGa%2BQ67HsBrO7%2FWiPEheUj5lpzTBgvDaqcwwmOxqj%2B9llxuM3CWw5HyO%2Fuqt1ES70di2yhpviXLGUQSsKdVSDlwAIERDVm3jfg6TS4EmTjIuywU8QLbXhjzkFaM2tqSVNAVGD0cER2bw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770386419&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4PyYH6ZOjWXAnnUxiS6V9dM84Cffnd1DBy32IzPnUXnLc5cRf95WinLEj4HEblCpVl%2Fh52mO6wfwWHO02yzwQ2o2fV0511PLXilKHQhKonYlUSOQgL9USukjXdDspQqLJEsx%2FEUbpQ63sB6jGTUS94m%2FVGCAVogQzmxLdd6fang%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
