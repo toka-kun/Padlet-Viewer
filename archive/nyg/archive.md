@@ -1,4 +1,4 @@
-最終更新: 2026/01/30 16:40:57
+最終更新: 2026/01/30 17:40:40
 
 # アーカイブ
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 181
+- **Posts:** 184
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Jan 29, 2026 11:57am
+- **Updated At (UTC):** Jan 30, 2026 08:01am
 
 ## セクション一覧
 
@@ -36,7 +36,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770363651&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KmuKC0w%2FzptOknDvobGGFYYiYHR%2BMb0AHLg%2FhEhKKze8xLIhdd9Jt9TEIx6qWDtsZUtIoE9xG8wlJb9ABuFX9GYpFzOSd7msNdB6IHmvx99vH7ZbO6BVBeFooC005Uz52Hg0jXyPrKUo1csa4cMNx%2FespXptiHiQhM3j%2FeX4MKE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770367235&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=540F%2FdLYi6%2FiAoeCe%2BkECAkl113rBf37AQDilQRzToHlwt3%2B37dckXWLrDYR%2B0HwHUJZF8t7DGbs16R%2Bq4js%2Fv1NxYmvLhKoSQTbbnFwAqnw%2BZvdz5vY957yEBRLDKt3qqjwzQVJwhDKpDkbksfBYscOStrg6hj9SzexLuyJO9g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -563,7 +563,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770363652&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GZ6pBDJVQs10GMcPsi1WZwKRLBxFvFHgZGWPOCjL27emTGam%2BpTJLH0i26UmpALlsy8O9i50tmRU90NoYooQncrWuRcJ9Tryf3A4CYHsGSuWhsn2QOYu8KYNFDnGQESdS8odfs86Z1Cnfr1UwTdv4BxU%2FKkagYJR5uQwV1NG1zQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770367236&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AocEN8rW1KUBz4BDAWajDj0Rihvo0k%2FSCofVeII8ZRvoMhl9iEMSmxF4BKd%2BwCLRLKsTs7Sj2pMW3fi0XRtrOjo%2Fk9C%2Ff7ucn04wyVr9v6VpGycfkeWICm4jFFWxucZtbj%2F2DqXOm1tMHQRIdT1T32oE5VQubZtOTaFiQ6dPIaQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 15, 2026 10:41pm): 権限をぽんぽん渡しすぎや
@@ -2861,7 +2861,7 @@
 **投稿の種類:** フィルターに関する相談や質問
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770363655&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lILHPrJwSQJ59cer0NBVwcuUnRCx%2B8QgHj3nOM%2BOfCIrfEWdCqftcBSnxoBSVkTdF50VTufS1ZL2m5JTqkld4PZfs4Y8PizaFLwLOXNrAMxFpMFMHQP7AXKCWITFaGPI2qjfj9ZnN3dMUimdDB1blhodXJ0611TR4UYWeJ31VzA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770367238&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KVhAYRx4ltO8YpMoLCwKyxpfyPraLj%2BfFFeSLZGo%2F3ZGuAZZKQy8SgXgCIkKlo1%2FVAc8XygbKUx2q2KxaFkE9yI%2FEho9pabtU7GVstf0SrU9%2FCDmBp%2BXZaXopTM5jOM%2BffWJ7g%2FCPjkPqV0ZBdKOSeyOkFHQmdoAUQtU24Ul5lc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -2903,7 +2903,59 @@
 
 ## i-FILTER専用
 
-### 1. iPadアイフィルター解除
+### 1. help
+**Author:** aaabbbccc (mazamaza)
+
+<p>プロキシ関係のスクラッチのサイトに入れません</p>
+
+
+
+#### Comments (2)
+- **🧊** (Jan 10, 2026 02:34am): おなじく
+- **もち** (Jan 29, 2026 11:20pm): 名前を変えてもらうしかないです
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 09, 2026 11:03am
+- **Updated At (UTC):** Jan 30, 2026 08:02am
+
+---
+
+### 2. 助けて
+**Author:** aaabbbccc (mazamaza)
+
+<p>i-フィルターがISGCとさらに追加されてから自分がキュレーしているスクラッチのスタジオに入れません</p>
+
+
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 09, 2026 11:01am
+- **Updated At (UTC):** Jan 30, 2026 08:01am
+
+---
+
+### 3. 助けて
+**Author:** aaabbbccc (mazamaza)
+
+<p>学校のタブレットがISGCとI-filter両方入っている詰み状況なのだがどうすれば良い</p><p>今まで使ってたproxyとか動画サイトが全滅したんだが</p>
+
+
+
+#### Comments (4)
+- **Serious Newt** (Jan 10, 2026 04:16pm): まじそう
+- **aaabbbccc** (Jan 09, 2026 10:46am): しかも授業支援 クライアントっていう管理用アプリも入ってる
+- **削除済みユーザー** (Jan 10, 2026 04:03am): おーなーじく
+- **yaju** (Jan 17, 2026 09:42am): なぞにISGCがブロックされましたっていう通知来たのだが
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 09, 2026 10:40am
+- **Updated At (UTC):** Jan 30, 2026 08:01am
+
+---
+
+### 4. iPadアイフィルター解除
 **Author:** おすし (h4218049)
 
 <p>設定→アクセシビリティ→タッチ→AssistiveTouch→AssistiveTouchをオン</p><p>シングルタップ→再起動</p><p>iF@Agentを起動→左上の歯車メニュー→再アクティベート→「実行してもよろしいですか？」で「実行」を長押し</p><p>長押ししている間にassistivetouchを押す→「再起動しますか？」で「再起動」を長押し→「実行」を押している手と「再起動」を押している手を同時にはなす</p><p>これを何回か繰り返すとifilterが起動しなくなります。</p><p>もう一度if@agentで再アクティベートをすると直ります。</p>
@@ -2937,7 +2989,7 @@
 
 ---
 
-### 2. 元々ISGCだけだったのがi-FILTERも追加された。。。。。。。。
+### 5. 元々ISGCだけだったのがi-FILTERも追加された。。。。。。。。
 **Author:** 夢見る少女じゃいられない (hamasakiayumi)
 
 
@@ -2956,7 +3008,7 @@
 
 ---
 
-### 3. 報告
+### 6. 報告
 **Author:** ꧁日本国民ゆ〜꧂  #煮物810番弟子 (nippon_banzai)
 
 <p>自分の学校が今i-フィルターとisgc２つの規制機能が追加されていました。これは昨日からと思われます。同じ状況の人は下にコメントしてください（固定希望）</p>
@@ -2980,7 +3032,7 @@
 
 ---
 
-### 4. I-FILTERどれもブロックされてて泣きそう！
+### 7. I-FILTERどれもブロックされてて泣きそう！
 **Author:** 🧊 (mk0352)
 
 <p>だれかI-FILTER解除する方法教えて（プロキシも）</p><p><br></p>
@@ -3001,7 +3053,7 @@
 
 ---
 
-### 5. 速報!!
+### 8. 速報!!
 **Author:** πr²(パイアール2) (naganaga)
 
 <p>練馬区にisgcとi-filter入れられた（最悪・・・）片方でいいので削除の方法教えてくれたら幸いです</p>
@@ -3031,7 +3083,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770363656&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Io7GFpkKgKvg%2F1LdPcaATzUz796aDkUbgMBasG4HcUT%2FDgF7B0VCSDQi8vt9f9JjzEofVVXEJ9ZIagEzQjRcl8L93VwRwWsYblA9h5GQjqbKU6KEWeMOBqFNFWxezsSaHX9hsakXY920bPujwg8E%2BvGSW4qUceJ8LcLQMqN%2BytQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770367239&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2nq37aHx6Z%2FGn94t1dslCcXsMYKzwHH3Fe0arDvQbRglNdxu39glTXcC7ajib68DVneedAKNxpBWko5qaFtHqcOKd3oaAHLZd241xki1JQe%2BB7A%2Br46JUArKzhScOp%2FYVUNn80AJ%2Fu1k%2BmYfG2Dm4gF81IoAeYm5ybaNQpB1L1E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **Supportive Hummingbird** (Dec 30, 2025 08:28am): すみません...フィルタリングがISGCなんですけど、家のWi-Fiで使った場合って、学校側からもURLとか見れますか？しあtubeやpixivFEで大人の単語とか色々と調べていたのでちょっと不安になってきました。
@@ -3058,7 +3110,7 @@
 **投稿の種類:** フィルターに関する情報提供
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770363656&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ApLKTCmLlskiFUTVI5oQq9TKSwy6Nzo63ne4yQUHk2M79yKgUKXXOUTHTB4dZ6IiWDSul3tXdnl%2BJ7j%2F4jmjvhRZS5Z14uVlk3gWL2ZX1shQE6Z3AjjTI7OqiCRnSUxJWJkFhwzmdDMpq5J%2BA%2B3OR2Bak4s6sFOSI3nlLBHJzUw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770367239&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=C0PgFtps998vOO6Sh6PCJ2mZsWT7LlQGnJUkyJVJn%2FqSv8JgPfO0t6g8L2PYTVReDLksoaEM%2BmKAvcdzRKY543T1HprJ5zTyI8cRDslAGVbV7laXnL702XH%2F6fczxZXmc6JTtaScR6Zd5NAMWN%2FsZJsXDNjr9y9ANFrGSDoQZmI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **πr²(パイアール2)** (Nov 16, 2025 12:08pm): もうネット上に無数にあるし
