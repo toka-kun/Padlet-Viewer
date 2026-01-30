@@ -1,4 +1,4 @@
-最終更新: 2026/01/30 08:27:50
+最終更新: 2026/01/30 11:07:39
 
 # Padletポータルワールド
 
@@ -242,7 +242,7 @@
 ---
 
 ### 7. 隠れてなぼーの秘密のバー
-**Author:** 隠れてなぼー (Kakuretenabo)
+**Author:** 隠れてなぼー #ダンガンロンパファン (Kakuretenabo)
 
 <p>雑談部屋です。</p><p>ちょっとした裏部屋があるかも？</p>
 
@@ -1571,7 +1571,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770334069&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=HUwnhmVeL2kvsD%2Bcjlu5BtOKJytjEta9C3xQSAEGA8qsMiGlIQHncfYxjRrZKPGYsXwJf9CZFZAUtlfJSvXbeCR7ZkPrHcR6nuFHvtvYbdiJz9zRhKlZDmbBHLzS7CB%2Bk3%2FWRdOqbnwxm%2BubaKF3Ki5Tp6R2UsacznTqmAuMAOo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770343659&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IHtzcBK5s10%2BfwoJlGd0Z7gK5SuypDRDJ8LfMWiFR0TLlC22ttv1jeZUxDA2EzbvsXCD4a%2Bq5ow3UrLZrlq0IJwgMw0nZzStY70pznsWYtsd6GatqPj807Lhk6bvifaxuB3A13lNpcoA6AFktkTUFMWeEjjeXLtmIl0frZH88uU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (29)
 - **ぴわを　’復活’** (Jan 29, 2026 07:02am): ライターください
