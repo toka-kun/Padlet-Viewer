@@ -1,4 +1,4 @@
-最終更新: 2026/01/30 16:41:47
+最終更新: 2026/01/30 18:40:05
 
 # 受付と匿名用
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/woolisbest/padlet-99xq7bb7zjzcfzw0
 - **Builder:** woolisbest (woolisbest)
-- **Posts:** 5
+- **Posts:** 4
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jan 30, 2026 02:00am
+- **Updated At (UTC):** Jan 30, 2026 08:53am
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (86)
+#### Comments (87)
 - **削除済みユーザー** (Jan 16, 2026 02:42pm):  
 - **sanae1212** (Jan 16, 2026 07:44am): 入れて！
 - **woolisbest** (Jan 17, 2026 12:12pm): おい
@@ -105,11 +105,12 @@
 - **盲目衛門** (Jan 29, 2026 04:10am): 入れてください
 - **woolisbest** (Jan 29, 2026 08:48am): え、追加できない...
 - **woolisbest** (Jan 29, 2026 08:45am): ok
+- **woolisbest** (Jan 30, 2026 08:54am): un
 
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Jan 13, 2026 12:03pm
-- **Updated At (UTC):** Jan 13, 2026 12:20pm
+- **Updated At (UTC):** Jan 30, 2026 08:53am
 
 ---
 
@@ -129,26 +130,6 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Jan 13, 2026 12:05pm
-- **Updated At (UTC):** Jan 13, 2026 12:14pm
-
----
-
-## 匿名用
-
-### 1. 匿名用
-**Author:** 青葉  @らーめん #BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ (Aoba108)
-
-<p>https://padlet.com/woolisbest4520/woolisbest-ljb022dzw1o5xeho</p>
-
-#### Comments (1)
-- **かリけー** (Jan 28, 2026 03:37pm): きえとる
-
-#### Reactions
-- **Emojis:** 😕 (1)
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Jan 13, 2026 12:07pm
 - **Updated At (UTC):** Jan 13, 2026 12:14pm
 
 ---
