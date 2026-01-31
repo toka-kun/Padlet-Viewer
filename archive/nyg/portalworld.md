@@ -1,4 +1,4 @@
-最終更新: 2026/01/31 13:25:31
+最終更新: 2026/01/31 14:39:43
 
 # Padletポータルワールド
 
@@ -287,7 +287,7 @@
 ---
 
 ### 9. ブラックリスト
-**Author:** S&A (SandABestpartnars)
+**Author:** S&A (SandA_Best_partnars)
 
 <p>ここは僕が荒らしについてまとめたところです。</p><p>でも始まったばかりで情報が少ないので下のリンクに荒らしとかの情報を送ってくれたら嬉しいです</p>
 
@@ -1593,7 +1593,7 @@
 
 
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770438331&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WTQ3LcIlwADv%2F3vCVGUmViqHpjCtzbBCu6GiZMes%2F%2F9wMZdbARgHest9sYwM1Eiyxk2s58QuVclWjIZI2J6rsppA8Jh5%2Bon9qMNFlbn7NSyLhdWr2H%2B4QVZLPCe4cyIZDftWJtF7EYZIEA7F1kcTMfTh2T7oY11HPJ70R1qDb2s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770442783&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=X834TmZhxqIWAgNwK8xqBQVGTk%2BWE58nYf5pPTzySTrYK5LX2G8JVDPfkM2TskcpkV9f77xZmtrux7%2Bl33HhSeFicJgeE4DEPhEgpk8RgHxXhNZD%2FSoh5zbtuJs%2BmXafMJVHJzQoKRBa0wykZUFqK2ee%2Fj9jpld3CLSVBnP%2BOOI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
