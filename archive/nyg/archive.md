@@ -1,4 +1,4 @@
-最終更新: 2026/01/31 20:21:34
+最終更新: 2026/01/31 21:50:52
 
 # アーカイブ
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 184
+- **Posts:** 185
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Jan 30, 2026 08:01am
+- **Updated At (UTC):** Jan 31, 2026 11:41am
 
 ## セクション一覧
 
@@ -32,7 +32,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770463290&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Y6AOWbcVJLU%2FPkWBFxaSEtu3ebDhvMJ6wPu%2Fd7aYKwLaFSoPL2kbh9Ki2%2FHutNPo53LgelJUJZExV69ncGtsrED1mlwBFXtbtmR5KgTPkCP%2BatxJU1T%2BwFk9ERYvRQKYi6zhS2HnlJpB3wfIscWA8kzRqY4kmT8%2FAvLkAdW0utc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770468646&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6KKFtEoleOo%2F2CQ5OvA5goDRNB59HAVglH3Tt%2BoBqX4KltXIApsO%2Bloj1VAe8rsIZcFa75V%2Bo5o%2FLJ4Ohs0r82c1VsXYB2yR%2BPvBcOZhbP42SCe7xWW45L%2B9R%2BkNXkrJ4CkpEmzOZmx3Qz9qxP8gBMgQ17B7SwCxsET%2Bp3RyIRM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -244,7 +244,43 @@
 
 ## 閲覧数カウンター
 
-### 1. 最新の閲覧数はこちら！
+### 1. 閲覧数200,000達成まで
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+<ul><li><p><strong>200,000達成 - 2025/12/03</strong></p></li><li><p><strong>訪問者60,000達成 - 2025/12/03</strong></p></li><li><p><strong>190,000達成 - 2025/11/22</strong></p></li><li><p><strong>操作時間3,000時間達成 - 2025/11/21</strong></p></li><li><p><strong>180,000達成 - 2025/11/12</strong></p></li><li><p><strong>訪問者55,000達成 - 2025/11/12</strong></p></li><li><p><strong>170,000達成 - 2025/11/04</strong></p></li><li><p><strong>160,000達成 - 2025/10/27</strong></p></li><li><p><strong>訪問者50,000達成 - 2025/10/26</strong></p></li><li><p><strong>操作時間2,500時間達成 - 2025/10/26</strong></p></li></ul>
+
+#### Comments (18)
+- **All Japan Unblocking Association　(全日本ブロック解除協会)** (Dec 08, 2025 12:42pm): 有名すぎやろ(尊敬）
+- **髙取旺右** (Dec 22, 2025 03:12am): すご
+- **ᏁγᎶ » Nanachiki** (Nov 30, 2025 06:12am): もう20万いきそうやんけ
+- **Hopeful Anchovy** (Nov 14, 2025 10:50pm): いいズラ買ったて言いづらかった
+- **ᏁγᎶ » Tøka_Kuŋ_** (Nov 30, 2025 08:37am): せやろ？
+- **ちゃんなぎ** (Oct 24, 2025 09:37am): 恐怖症できょう負傷
+- **Valiant Kangaroo** (Nov 17, 2025 08:15am): とうさんの会社が倒産した
+- **Clever Urchin** (Oct 26, 2025 11:58pm): サボテンって仕事サボってん？
+- **夢見る少女じゃいられない** (Oct 20, 2025 12:57pm): エグ！
+- **はるとねこ** (Oct 21, 2025 10:38pm): egg
+- **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 15, 2025 12:10pm): なんでダジャレ大会開催されてんだよｗ
+- **ᏁγᎶ » Tøka_Kuŋ_** (Nov 19, 2025 11:13am): 小学生は生姜臭え
+- **Natsu** (Dec 04, 2025 01:07am): 😇
+- **亜空カン_JANLINE** (Nov 20, 2025 01:18pm): 洋館で出された羊羹はよう噛んで食べよう
+- **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Jan 06, 2026 04:01am): 閲覧数ってどうやって見るん？
+- **はるとねこ** (Dec 01, 2025 10:49am): すご
+- **削除済みユーザー** (Dec 08, 2025 12:34pm): 頑張ってください
+- **ᏁγᎶ » Tøka_Kuŋ_** (Jan 06, 2026 05:26am): …を押して詳細に飛ぶ
+
+#### Reactions
+- **Average star rating:** 4.8
+- **Number of ratings:** 10
+
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** Oct 20, 2025 11:13am
+- **Updated At (UTC):** Jan 31, 2026 11:41am
+
+---
+
+### 2. 最新の閲覧数はこちら！
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [Attachment](https://padlet.com/Toka_Kun_/breakout-room/jzJX4EOVaLmbqbnO-oAdpz24dgkRJv10R)
@@ -260,7 +296,7 @@
 
 ---
 
-### 2. 閲覧数150,000達成まで
+### 3. 閲覧数150,000達成まで
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><strong>150,000達成 - 2025/10/20</strong></p></li><li><p><strong>140,000達成 - 2025/10/11</strong></p></li><li><p><strong>訪問者数45,000達成 - 2025/10/08</strong></p></li><li><p><strong>130,000達成 - 2025/10/03</strong></p></li><li><p><strong>操作時間2,000時間達成 - 2025/10/02</strong></p></li><li><p><strong>120,000達成 - 2025/09/29</strong></p></li><li><p><strong>訪問者40,000達成 - 2025/09/26</strong></p></li><li><p><strong>110,000達成 - 2025/09/22</strong></p></li><li><p><strong>訪問者35,000達成 - 2025/09/14</strong></p></li></ul>
@@ -299,7 +335,7 @@
 
 ---
 
-### 3. ㊗️ 閲覧数100,000達成！(2025/09/14)
+### 4. ㊗️ 閲覧数100,000達成！(2025/09/14)
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>おかげさまで、このPadletは閲覧数100,000を達成しました！これまでに訪れてくださった34,863人の皆様、一人ひとりのご訪問に深く感謝しています。</p><p><br/></p><p>皆様の応援や関心があったからこそ、この場所は成長を続け、ここまで来ることができました。これからも、もっと多くの方々と役立つ情報やプロキシを共有できるよう努力していきますので、引き続きよろしくお願いします。</p><p><br/></p><p>本当にありがとうございます！</p><p><br/></p><p>※5月に10,000を達成してから4か月で100,000まで伸びました</p>
@@ -321,7 +357,7 @@
 
 ---
 
-### 4. 閲覧数100,000達成まで
+### 5. 閲覧数100,000達成まで
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><strong>90,000達成 - 2025/09/05</strong></p></li><li><p><strong>操作時間1,500時間達成 - 2025/09/04</strong></p></li><li><p><strong>訪問者30,000達成 - 2025/09/03</strong></p></li><li><p><strong>80,000達成 - 2025/08/28</strong></p></li></ul>
@@ -343,7 +379,7 @@
 
 ---
 
-### 5. 一周年！
+### 6. 一周年！
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <p>ちょっとだけ遅れたのですが、ここのボードは2025年8月21日に一周年を迎えました！</p><p>この１年沢山の方に使っていただいてとても感謝しております。２年目もどうぞよろしくお願いします。</p>
@@ -365,7 +401,7 @@
 
 ---
 
-### 6. 閲覧数80,000達成まで
+### 7. 閲覧数80,000達成まで
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><strong>訪問者25,000達成 - 2025/08/12</strong></p></li><li><p><strong>70,000達成 - 2025/08/09</strong></p></li><li><p><strong>60,000達成 - 2025/07/20</strong></p></li><li><p><strong>訪問者20,000達成 - 2025/07/16</strong></p></li><li><p><strong>50,000達成 - 2025/07/07</strong></p></li></ul>
@@ -388,7 +424,7 @@
 
 ---
 
-### 7. ㊗️ 閲覧数40,000達成！(2025/6/24)
+### 8. ㊗️ 閲覧数40,000達成！(2025/6/24)
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 #### Comments (4)
@@ -408,7 +444,7 @@
 
 ---
 
-### 8. ㊗️ 閲覧数30,000達成！ (2025/6/13)
+### 9. ㊗️ 閲覧数30,000達成！ (2025/6/13)
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <p>なんと、閲覧数20,000を達成してから15日で30,000達成してしまいました！！</p><p>10,000達成してからのペースがハンパないことになってます。</p><p>これからも管理者一同頑張っていくのでよろしくお願いします！</p>
@@ -434,7 +470,7 @@
 
 ---
 
-### 9. ㊗️ 閲覧数20,000達成！(2025/5/29)
+### 10. ㊗️ 閲覧数20,000達成！(2025/5/29)
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <p>閲覧数10,000を達成してからたった24日で20,000を達成しました！！！まじでびっくりしてます...</p><p>この調子でこれからもボードの改善やプロキシの追加等管理者一同頑張ってまいりますのでよろしくお願いします！！！</p>
@@ -455,7 +491,7 @@
 
 ---
 
-### 10. ㊗️ 閲覧数10,000達成🎉 (2025/05/05)
+### 11. ㊗️ 閲覧数10,000達成🎉 (2025/05/05)
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <p>この部屋が作られてからまだ1年も経っていないのに、閲覧数が10,000を超えました！！みなさんありがとうございます！これからも、みなさまの学校PC生活を豊かにするべく、プロキシをどんどんあげていきますのでこれからの利用もお願いいたします！</p><p><br></p><p>管理者より</p>
@@ -521,7 +557,7 @@
 ### 3. 俺が全然浮上しなかったのも悪いんだけど俺の部屋の管理者がこいつらだけになってました
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770463290&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Q%2BvlCVXuiKTfdGxDwcbkq9n6EHAB8ILEkJqx9O3aLPxAz6YR%2FgZCJE%2FtVGxsaxgH4NCFYmCUx2WLpcCq6GGRjE6dQDTsBej%2FVyXWxlXlZssK%2BNN8wKn1CZbgGU%2BbRzEVhF4B65Oobk3rUCh8m5cXSOYqnIGp64KHJWwzOKYtwaY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770468647&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wNZDY2DXbDIQhxKyTPM0M8608BO4GOj1NRjhXEgbeyN6ORC%2Fo22Q%2FqOH6oO27iFgj0GyMq%2FRpyaLSfZKqHY3dnoVyJ1iKlA6TwVM%2FyAyByXG%2BFtjjom6DhAfFLK61S1W16gNn6M62cW6Iofws8cZeR4eyzLnuXdF7WxRxqDtegI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 15, 2026 10:41pm): 権限をぽんぽん渡しすぎや
@@ -2605,7 +2641,7 @@
 
 **投稿の種類:** フィルターに関する相談や質問
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770463293&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SHyo3Qt2kLyuMiFldGTqMeD5SvLFD%2BENvfSG8iuHc27j0rzTXS%2Fh9YaTrfO6R%2Fq7wxbk8lEKoGWE0sSK84bTvA6C%2FyRAoEbIQTUEyAAn7W%2B0E7iDlSaTccFKLTNlhKkls2oxLU1A055pKRU0GLghm4725T%2FeJfFK2qYWjdeFC6o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770468650&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LXJ1kMdTUr1YRGRvfeX%2FGbkJ%2F82gKgEoWxi2KrBW3jFgAbriFpavKSQOKQh1aHy9FoOBC0NiKC8KBFRo0KBIttVZN3AI3lG71WO2qE3Irc16wq7dLQ3ZGwFrXJDAfuB0HCSwT9XnXd97WVuNg2AJLdYx79BxcA4f9KLCeFBpERQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -2808,7 +2844,7 @@
 
 <p>先ほどゲームをしてるとフリーズしてしまって、再起動するとフィルタリングが更新されており、さっきまで使えていたサイトが使えなくなってしまいました。</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770463293&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hJrwYHs0eH9sJLmjLbDlWC1m6fCkriW417wt%2FT6WZ3Nw40kK1tXVLf3n%2BEN5bqNrSM12ar6pk%2BPVpqSZVlGgmbS0O1eEesO0Ykfxx13TfrwMPWN1fVu4gcB%2BxoxTMWgIEO612gSLgBkyeocs2fgch2LsxcgHF8w6EA2A90BTdSE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770468651&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GGyKCDqsUqPUizCa5C%2BrcGGYsQVOIWiCXbmpba51%2FtO5hnneZu4t3%2FFg%2BY5a8f4nEW5oWjrNqCBMHzRXtLAKISdBTDzsESQazaO2dz0gTClIAQAzbgnCkVlOObyGa0W5SfYSEAHY557WfZJWBJUZCt0a1%2BITOyaGNwjYdhe%2Biho%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **Supportive Hummingbird** (Dec 30, 2025 08:28am): すみません...フィルタリングがISGCなんですけど、家のWi-Fiで使った場合って、学校側からもURLとか見れますか？しあtubeやpixivFEで大人の単語とか色々と調べていたのでちょっと不安になってきました。
@@ -2834,7 +2870,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770463293&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gY9X6tYTKntLwqJNZPq%2BmLpnoeFSUYPYUzaAU%2BngViTBD3ofdlYOyafQe8LXZG1wGzvSEzlOBDyv0brWGqOFEDR0I0QTXRl7wcygyayxv9visl9ke7CbHnEzdeMVXIo5jW9tjXpJ%2BOmqCJZHtmmemJAwVD5P4CBCbjGe2oW%2FRuM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770468651&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=E0R9ADuqBYNeSRnR78WoTyK31gn4pqstjOFkUOYm%2B3WwdSjGt5Z6Z%2FEUKAHTpD9P7WAjldC5T0gMun49qdqnu17nEQ6LNRE21VscWIDT5QDLX2gHm8O14U%2FcacoAsdx6%2BacS6662XgHgT%2FP0VltLwP4iQmjJ2dOStc0ulhBrfxk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **πr²(パイアール2)** (Nov 16, 2025 12:08pm): もうネット上に無数にあるし
