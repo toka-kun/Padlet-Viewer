@@ -137,17 +137,6 @@
             font-size: 0.75rem; color: #7d8590; margin-bottom: 12px;
             display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
         }
-
-        /* 既存の .card-title の下あたりに追加 */
-        .card-title a {
-            color: inherit;
-            text-decoration: none;
-            transition: color 0.2s;
-        }
-        .card-title a:hover {
-            color: #58a6ff;
-            text-decoration: underline;
-        }
         
         /* 作成者表示スタイル（通常・リンク） */
         .card-meta-header .author, 
@@ -679,12 +668,6 @@
                 authorHtml = `<a href="${escapeHtml(data.authorUrl)}" target="_blank" class="author-link">👤 ${escapeHtml(data.author)}</a>`;
             } else {
                 authorHtml = `<span class="author">👤 ${escapeHtml(data.author)}</span>`;
-            }
-
-            let titleHtml = escapeHtml(data.title);
-            if (data.linkUrl) {
-                // リンクがある場合はaタグで囲む
-                titleHtml = `<a href="${escapeHtml(data.linkUrl)}" target="_blank" rel="noopener noreferrer">${titleHtml}</a>`;
             }
 
             el.innerHTML = `
