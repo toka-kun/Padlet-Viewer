@@ -1,4 +1,4 @@
-最終更新: 2026/02/01 15:52:12
+最終更新: 2026/02/01 16:38:14
 
 # Padletポータルワールド
 
@@ -243,7 +243,7 @@
 ---
 
 ### 8. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
-**Author:** [●ONLINE]🍙𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🍙(・∀・)ﾖﾛｼｸ! (OkakaOnigiri)
+**Author:** [●OFFLINE]🍙𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🍙(・∀・)ﾖﾛｼｸ! (OkakaOnigiri)
 
 <p><strong>ルールを守れば違反しなければ何をしても良い部屋。</strong></p><p><br/></p><p><strong>人がぜんぜんいないので来てね</strong></p><p><strong>雑談しようぜ！</strong></p>
 
@@ -1549,7 +1549,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770533532&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1t2t0oidj6lI57kebf%2F7ScI15bdL%2BnJ5cmaRvrKuUVdOaA7x1bF6kW68Pp8xVpR90dZsSWlGkzjbtq5S29avfHAs80Er4T%2BqC8OJezsdyIJAwPDhPMNuNowW%2FQitOP05Ic3%2FTLp%2BSZMmfE%2FGn4fBVD4ZyJHCGGEU%2FZCGQe6apJ0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770536294&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=R2RxQIYtVEWyR2dJVvtzRDwe0HQhcv1yspFk%2FaQJQvfUN0ba7reEkN2MhZ0OkJZvZCRkzIdolMic8ORkS%2Fv7OGdMq1mv%2BT%2BzvqjdNRkymzeJt%2BHe674r9LhalIAQgD6Xd1JvIqH%2FSuflcIH5T7q5RbvheT1dnhhwgFnjmV5pNAQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
