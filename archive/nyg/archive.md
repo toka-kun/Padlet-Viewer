@@ -1,4 +1,4 @@
-最終更新: 2026/02/02 07:26:34
+最終更新: 2026/02/02 08:26:36
 
 # アーカイブ
 
@@ -32,7 +32,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770589588&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hQyQukT4A8Z3VzJzP1hC8m09L4PWxKEcbXRKBPqulQthUNm1oHguiE%2FmcQmVQ8DCdDpSmfOSYViU2fHXX2oTyACuWD0DVQSsf4tYPhRtmJsWG%2FkA2Rc%2FxNNAMqN2JSU71gFzl2E%2FXvT0fN6O5Qoq0N%2BpkNGYnnasSA0yqhZycWU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770593191&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4hQGipdflshmtxEZwUi%2F11Dcjua30Gl5G1tOW%2FTC8tYH49BloVmcOio2qWWHf0l9xBQviBsIokMk%2BBZR5Qzzk7tylqEguVPsO9VEoNpLpvQNTRp%2F%2BiFvV2Sgo7Npw0afJH2818tYchesOk6B0vUwKis8OArSi8Ohmk9AirRfhso%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -454,9 +454,9 @@
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (Jun 15, 2025 09:48pm): この部屋はマジでいっぱい伸びて有名になってほしい
 - **✨️🎧️*~白玉もちぃ~*🎧️✨️** (Jun 19, 2025 04:26pm): ᏁγᎶ » Nanachikiさん頑張れ〜
 - **✨️🎧️*~白玉もちぃ~*🎧️✨️** (Jun 19, 2025 04:25pm): 頑張れ〜！応援してるよ！わたし　　フォローしてるよ〜！　　　　　　　このまま100000目指してください
-- **クレヨンしんちゃんの前髪** (Jun 23, 2025 10:51am): セクションとかがぐちゃぐちゃだから一旦整理してほしいな！
+- **M.R** (Jun 23, 2025 10:51am): セクションとかがぐちゃぐちゃだから一旦整理してほしいな！
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jun 23, 2025 02:21pm): ➥ この矢印でまとめてる
-- **クレヨンしんちゃんの前髪** (Jun 23, 2025 10:51am): ちょっと結構なんていうか
+- **M.R** (Jun 23, 2025 10:51am): ちょっと結構なんていうか
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jun 23, 2025 02:18pm): これで整理済やで
 
 #### Reactions
@@ -477,8 +477,8 @@
 
 #### Comments (3)
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (May 29, 2025 08:54am): えぐいて
-- **クレヨンしんちゃんの前髪** (Jun 02, 2025 10:24am): このパドレッド何人入ってるんだよｗｗ
-- **クレヨンしんちゃんの前髪** (Jun 02, 2025 11:20am): やばｗｗ
+- **M.R** (Jun 02, 2025 10:24am): このパドレッド何人入ってるんだよｗｗ
+- **M.R** (Jun 02, 2025 11:20am): やばｗｗ
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -557,7 +557,7 @@
 ### 3. 俺が全然浮上しなかったのも悪いんだけど俺の部屋の管理者がこいつらだけになってました
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770589589&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mbZYk1SpnNnz3MUPxwSGvcjPVnnYGS0DrwnN3JkFusLapa2z72qxrC9aJcIGgX55Tsofe3rbo%2FNIngyJXpZJLokaFNYhFxXl6rsPTibSzpC6m8dTaP3AZhU%2B%2BscVlrQiyQYBEe3tcnbHK0qJkwaq0PFHfFY%2FHYHpY2rJJ5oAuRo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770593192&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xAVXi3qe0K%2FeXIOE%2Fvldk%2F%2Bh%2BNvIxNWOr4d3%2Bs7bHWN8Tj0TO1le0vVeIk6AjGjJWfcOO8OF1lTs9mLMsiejMfVtbxocHnhVwc2%2BeqE4oEx864QFy6VIB8MCtUePeLF07rMIgRUynPlhel4tBMpYQcHVo7CeLHM0%2F3CGvA4p%2F3o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 15, 2026 10:41pm): 権限をぽんぽん渡しすぎや
@@ -2517,7 +2517,7 @@
 <p>らんまーはshort45本くらいで見れなくなるからなぁ　Bot確認される</p><p>時間おいたら解決できるけどだるい</p>
 
 #### Comments (7)
-- **クレヨンしんちゃんの前髪** (Dec 23, 2025 08:59am): 誰かフォトナできるサイトない？
+- **M.R** (Dec 23, 2025 08:59am): 誰かフォトナできるサイトない？
 - **Charismatic Lion** (Dec 23, 2025 10:50pm): YouTubeじゃなくてさ、サイト
 - **Enthusiastic Gecko** (Dec 22, 2025 12:20pm): そんなことよりURL打ち込むやつができんくなった
 - **とりあえず。** (Dec 23, 2025 10:58am): ？？https://nana.a.drciocan.ro/　これにyoutubeのリンク打ち込めばいけるよ！　URL打ち込むやつが出来ないというのはダウンローダーのこと？それなら→https://postsyncer.com/tools/youtube-video-downloader　で。
@@ -2582,7 +2582,7 @@
 ---
 
 ### 23. クロムでできるロブロックスください
-**Author:** クレヨンしんちゃんの前髪 (s02200071)
+**Author:** M.R (s02200071)
 
 <p>よろしくお願いします</p>
 
@@ -2641,7 +2641,7 @@
 
 **投稿の種類:** フィルターに関する相談や質問
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770589593&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=c%2B84BVeAJANPxYRUxLLPileB2H%2BqajJ4nRdM%2B8y5YV87SH%2B7wgmXUGjoPXXUV3A4m3kbI8RonDFSF0XWl6v4EnypHU3qMKYkrfTvLfSNoc12L1B0rwEwEGwib4X8hMTEwZYouy40QrVWc8zf1FeTopu5h%2BCV6s5HZf3zLcI%2BIto%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770593194&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1IXkmR0uSwyOdk%2BImDEWD0%2Fx7sAKphjxInSl3Yuzc1TNnZrLZH4H0wnlOOBWDjRFDjaepGwYNO0s5PiiHBD7aS6yLQMD9zre5Rqm0zmmKMokzJTdacSV%2FPT%2FxPZglcBndp2T1T77cRs3VtPzHFNzYsk37KNafcid9XM4V5rhA%2BY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -2844,7 +2844,7 @@
 
 <p>先ほどゲームをしてるとフリーズしてしまって、再起動するとフィルタリングが更新されており、さっきまで使えていたサイトが使えなくなってしまいました。</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770589593&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZwDFFaGzs1Mxp%2FPNY87IOzaVDCcB6MNwXsynnFO6QKrfreWxkejY5I5Ptzq4d8QjOrkcx8jTvv5T%2B9LNTNivzm6bROQCK%2BwwOvm%2FOP%2BzMDxcZVeEuFDFmbxY7qnp3EBEWMFc1NrQttWEKa5rWNThqcpXhHYXhkNzSGYGpxu8ME0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770593195&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Sd9syGgy7ip9QZNUiKjzO4kTvBls6K%2FRavk%2BPSozLxUw3Zxmog4bxcea0uvak3HQIGY2IaGYGcDyPlFvs07GAdxPi9b9172lgnnGlNwIyqEsKhA%2B2svk9%2BCM4ctZP8AwtPU%2F1crKu1lOeig9msbcynL38sThY9FvzUhPO4cJfNY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **Supportive Hummingbird** (Dec 30, 2025 08:28am): すみません...フィルタリングがISGCなんですけど、家のWi-Fiで使った場合って、学校側からもURLとか見れますか？しあtubeやpixivFEで大人の単語とか色々と調べていたのでちょっと不安になってきました。
@@ -2853,7 +2853,7 @@
 - **-かきくけこ- ISGC** (Dec 23, 2025 02:27am): 同じく好きなゲームできんくなった...
 - **πr²(パイアール2)** (Dec 24, 2025 12:12pm): むやみに再起動とかしないほうががええな
 - **バッタ　#煮物貢献者　#煮物14番弟子　#そろそろ引退かも** (Dec 26, 2025 09:45pm): ww
-- **クレヨンしんちゃんの前髪** (Dec 21, 2025 05:06am): 俺も金曜日そんな感じになった
+- **M.R** (Dec 21, 2025 05:06am): 俺も金曜日そんな感じになった
 - **πr²(パイアール2)** (Jan 06, 2026 05:27am): 見れるかもだけどそもそもisgc自体のシステムもわからないし先生が言ってこないなら大丈夫だと思うよ
 
 #### Additional Information
@@ -2870,7 +2870,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770589593&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mggEXCF7VIj4EXe5DLsueXSS0WqOhLaG93HawkI7FaeUMSXkZM%2FJNSAWNvHgm4yFO8U5ugOAf6%2BiNHZOvF7QfYEKQp5eMzy5IxVKk71W06hPi1PXJSynqCVknx%2Bj2IYq4D93QHSoPC3xspdVZp4FGwmaPoHRKGnHBlEEAM48vPI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770593195&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=24XYs%2Fkg%2F5XBGM54sk5cbMBmPEoBEISOKySiBfNU3HHjY41xSCBdz956Le5K%2Fg19x%2BZxE2X26DSC1nsGtDjKFgRYXpbjKj7Onci%2FqXjmo84aGaDnRVKotzEVKWvczj5SQe7eytBKY3Iot5%2BSB4hFmWchqdRLBOZCdgDbX5BZm7I%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **πr²(パイアール2)** (Nov 16, 2025 12:08pm): もうネット上に無数にあるし
