@@ -1,4 +1,4 @@
-最終更新: 2026/02/02 11:22:46
+最終更新: 2026/02/02 13:58:03
 
 # アーカイブ
 
@@ -32,7 +32,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770603761&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=06WFmIg3Ko0lEf%2Fr60ZsM6ohbO%2B9cInDeGiJNAAXxHCQA7ba1oxTk9paBEwoJ0NQtfVyVmAow%2Fw4tfA0yTAQt7veS5IeHux6ivLnOy18h%2FTgeVBvvEXSKFN9ffOb2ABoBZlGdgsytWrNK0H0safjMaTBu2JKy%2FKaV6JtRpddkPY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770613078&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XD9dsP0rRCytv7ol7R2mqqjZzs6quXirmyLrK7AbJY3%2BLJUbyprphHyQcCSF9Xe%2FnsqBTSn1Z8VGc5Lv5UFe8RWGd4wXmEzRp%2BK200IHG0%2F5%2BEgQxznULBczxdCsW1svOMZyBju5llP8i3TtMwZoWAC7qPBEFOxXgy%2BmvtNmRbA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -228,7 +228,7 @@
 - **nonnon** (Dec 17, 2025 04:34am): すごすぎやろがい
 - **はるとねこ** (Nov 20, 2025 05:52am): おお
 - **🌼aotan🌼荒らし楽しい　タブレット移行でNO浮上** (Nov 19, 2025 12:58pm): まじか
-- **꧁日本国民ゆ〜꧂  #煮物810番弟子** (Nov 20, 2025 06:55am): すごお
+- **活動一生停止** (Nov 20, 2025 06:55am): すごお
 - **Anonymous** (Dec 19, 2025 07:05am): まじか
 
 #### Reactions
@@ -557,7 +557,7 @@
 ### 3. 俺が全然浮上しなかったのも悪いんだけど俺の部屋の管理者がこいつらだけになってました
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770603762&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4S8yOvvyjLtHCxTCcuqpQGXoEL4jY7Kiq3JGCiYKo6wLi%2BQOHOwziOQqH0neph7RZ1D1j6YsR%2BtCIXEUNx07XqWLesh5Y2ZKyjYHLbF%2FIiEkk7VN%2BYgCYHfNG%2Fr1FozUn2bY%2BUOVOK9xzeKc4a9UGnSsDpi6HUlw2GB%2BtrSZ9nk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770613078&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Hj0pu33Z1XW%2F9IEy3J%2FbgA5dmrhc%2Fn5aeWXiDC8erYiLskz2I2RKXGRLYnSBJMps%2BaWcbBUYRwdXTOnPW4AhyKra6M1GncFJ%2FbhUXI5ZR7vZbJ7G133iOjnWkCxX6Nk8vR9gc3AqRJmGVLL4tRxgpPLSnB0nvzzY9FTVLPKjVyg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 15, 2026 10:41pm): 権限をぽんぽん渡しすぎや
@@ -1783,7 +1783,7 @@
 
 #### Comments (8)
 - **Massa_games216** (Oct 19, 2025 11:34am): 赤持ってるぜ
-- **꧁日本国民ゆ〜꧂  #煮物810番弟子** (Oct 18, 2025 11:33am): アカウントも、持ってるで
+- **活動一生停止** (Oct 18, 2025 11:33am): アカウントも、持ってるで
 - **削除済みユーザー** (Oct 18, 2025 02:37pm): アカウント　作った
 - **白玉桜もちの奈津** (Oct 21, 2025 04:11am): アカウント何故か作れないんだよね〜（苦笑）
 - **陸上市内最強(市内だけよ)** (Oct 27, 2025 01:06am): アカウント作ったのにスクラッチブロックされたからなあ
@@ -2567,7 +2567,7 @@
 ---
 
 ### 22. 太鼓ウェブについて
-**Author:** ꧁日本国民ゆ〜꧂  #煮物810番弟子 (nippon_banzai)
+**Author:** 活動一生停止 (nippon_banzai)
 
 <p>太鼓ウェブってRenderでデプロイできるなら<a rel="noopener noreferrer nofollow" href="http://ydns.eu">ydns.eu</a>とかでもできるん？　できるんだったら作ってほしい（またはrailway）</p>
 
@@ -2601,7 +2601,7 @@
 ---
 
 ### 24. わかめについて
-**Author:** ꧁日本国民ゆ〜꧂  #煮物810番弟子 (nippon_banzai)
+**Author:** 活動一生停止 (nippon_banzai)
 
 <p>railwayでわかめの作り方教えてほしい</p>
 
@@ -2612,7 +2612,7 @@
 - **ちゃんなぎ** (Nov 09, 2025 03:42am): https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/4590150531/dbd99899e867135c783b4f76a7a2ed76/_________1__copy1.gif?token=8T1OLdr_uhZODHisc7N3BIYiU0G9wo1BWi5Zf4sJnyp0jcF00rVie9wH7peG8pWm60sIqDp7zpZFigbzrdIbKFyi4wcUAs2pSW7TRwWva4w_zWMs76WJCY0pvJXRjLab2s-4PJJHkrLvpogBrn7qPwghmOZOAUoQ9tPgv5Sdj2_6FKYUv7Z2lnT3bmS_eL77ZM5j-2jvQv_vtSHwvpyr-ZWgioaWRLnbotvPoiJMMiIzRlRhnI-hgZFBeB-9ivLN
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Dec 01, 2025 01:23am): じゃあニコニコかYouTubeどっちがええ？
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Nov 12, 2025 11:57pm): 主さんこれ私動画作った方がええ感じ？
-- **꧁日本国民ゆ〜꧂  #煮物810番弟子** (Nov 09, 2025 10:14pm): ？
+- **活動一生停止** (Nov 09, 2025 10:14pm): ？
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 15, 2025 08:50am): リンクを変えるときにプロジェクトを削除する必要が無いことも書いといて欲しい
 
 #### Additional Information
@@ -2641,7 +2641,7 @@
 
 **投稿の種類:** フィルターに関する相談や質問
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770603765&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CmbreE3LRdnWMMMDLcI7OBZlIzOrYHDpzcHfDNntDk7OnJ5tJBOsTyj5XR2%2BljoNdr9%2Ffe6B5mjR126VlkgD3%2BUNcSdshC8LBtiXVzUPuqQ9%2FdPLX0m%2Bk2BX8CUUYvMNoojLGPMwWextm%2Buoggm7MnrfLYApyP5IaxSRtIPbDrU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770613081&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EX8nogjYhubOigYXju4fVpvxcT%2FbXbq12TGSVLmGUcqjp9x6V56hE3%2BjvS2Un%2B4jT8DGNcnqvlDqKimJuaRNzFBRhw980tCxzq0vb8fBFNnAB3V2XadPGUseknF3OlwapTsayuSBSq1k3nPv20b8ruNWwYAATJVx6%2FhHPF5gfoY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -2778,7 +2778,7 @@
 ---
 
 ### 6. 報告
-**Author:** ꧁日本国民ゆ〜꧂  #煮物810番弟子 (nippon_banzai)
+**Author:** 活動一生停止 (nippon_banzai)
 
 <p>自分の学校が今i-フィルターとisgc２つの規制機能が追加されていました。これは昨日からと思われます。同じ状況の人は下にコメントしてください（固定希望）</p>
 
@@ -2844,7 +2844,7 @@
 
 <p>先ほどゲームをしてるとフリーズしてしまって、再起動するとフィルタリングが更新されており、さっきまで使えていたサイトが使えなくなってしまいました。</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770603765&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uC94noxLICNld9V%2BkrPqBRLMAlqAs%2FBBVPx9ArrKWo%2BnuIT7luG0bzPJdBlHOH1lW20b%2F1Sqip%2Bv6blbDMWgRkprn7ziOTPHa6tI8g%2Bg9bF7awG3HZotLkH08jMqTZvK%2FTT1dE3qufMcuEc2vw%2FXxPnTHrkk0DHdW%2BC%2ByTuevbk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770613081&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BPJwE66ElsiDXEZjelhCoKXl4Bc2t6q4UF0Ks7sWY0r%2Bu6dnVWbyUlzmIipo26gmwgy00F1Zrttt97MXjBY4ikFPkxb6x%2FOo7%2BCF4Vs9Oagt1XoGmWDd0M8zMYB9%2BD8SLEhpzDwZn%2FQoWEo2Rut0keDpCoO3Es64uPgytJspHGw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **Supportive Hummingbird** (Dec 30, 2025 08:28am): すみません...フィルタリングがISGCなんですけど、家のWi-Fiで使った場合って、学校側からもURLとか見れますか？しあtubeやpixivFEで大人の単語とか色々と調べていたのでちょっと不安になってきました。
@@ -2870,7 +2870,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770603765&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eKk%2BOw2HuroxmiPQrasMlkiYd%2BPuqi33qowZ6MquZJmzl3gptra2b6gO8v8%2B8PBsL8mrXwi8Oa6aqgfjy4741Ghc%2Fd%2FKQwscQDjlhup0fnDQ0nKhN8jD1bup3xT%2BhoPRLa%2Fx58BHI8zDG1g5YYhi%2BLZ3m7Hhv4pA3W%2F8vZGCmCU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770613081&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VNRTOggJNbctjzgllvqPNtopiIFEnkVZNVYfGsvePqhMbe9ndujjGatl37Rqoz609wRgTMinbR2Fcu9dcA5Wnv%2FdwMeQFE0eeRx%2B7WKi79jtcuR822bDdiskblRjdaerGY2G7KotyTa%2BjuUZShSfEnYchHUv2IlxuWm%2Bd2xpC2w%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **πr²(パイアール2)** (Nov 16, 2025 12:08pm): もうネット上に無数にあるし
