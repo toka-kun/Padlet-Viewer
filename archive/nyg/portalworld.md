@@ -1,4 +1,4 @@
-最終更新: 2026/02/03 20:35:41
+最終更新: 2026/02/03 22:03:53
 
 # Padletポータルワールド
 
@@ -1219,7 +1219,7 @@
 ---
 
 ### 54. 俺と話したいやつきて
-**Author:** いさみ（がいじ） (gaiji1919)
+**Author:** いさみ (gaiji1919)
 
 <p>とくにない</p>
 
@@ -1567,7 +1567,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770723341&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DSTY8s%2B8sivC3x%2F6T%2BerreoIMMKqoJY%2BEccxIA7oaEK7lGkjayDppWf569OCNhHFj7mpG2G5RzcJpPmpeZ8M7hMf3Y3UMZbr08F74b1LmVxvtjXOWSsx8Bi2xZ%2F4qSh7zIKUmfVy39sWbA42wjY2W1Mjni%2Br1QV%2BsPgLmpS4x%2F4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770728633&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4NS1RldPpqXcpnWaCjYBQ3yGhtQbzbgk%2BVcbZ1Do3yeDiyowI44rT7qRlbMsRkPNkaihmlM8z1ypN0Z5Hq1T1RC5lPcOKMp%2B7S54L0NuSyUFPavTu7wgL05KX1BWyb5g5qXshlS3miO0jtUJfemcKrmQ881PE5y0TRBdPPOGVWQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
