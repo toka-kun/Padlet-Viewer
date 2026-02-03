@@ -1,4 +1,4 @@
-最終更新: 2026/02/03 14:52:23
+最終更新: 2026/02/03 15:54:25
 
 # Padletポータルワールド
 
@@ -171,7 +171,7 @@
 ---
 
 ### 5. 雑談部屋
-**Author:** Dr.マリオ使い#01 (DoctorMariosharpzeroiti)
+**Author:** Dr.マリオ使い#01 (DoctorMario)
 
 <p>最近コラボレーターが追加できなくなったのでやめたのですがやり方を教えてもらい復帰しました</p>
 
@@ -435,7 +435,7 @@
 ---
 
 ### 16. chat oasis
-**Author:** Dr.マリオ使い#01 (DoctorMariosharpzeroiti)
+**Author:** Dr.マリオ使い#01 (DoctorMario)
 
 <p>YouTubeが見れるサイトなどもあります。荒らし対策もしています</p>
 
@@ -1013,7 +1013,7 @@
 ---
 
 ### 45. がら空きの部屋
-**Author:** hrk9373 (hrk9373)
+**Author:** 削除済みユーザー
 
 <p>人がいないので増やしたい</p><p>（荒らしとグOとエO禁止）</p>
 
@@ -1523,7 +1523,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770702743&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XNtOPTU3Pu8CpNz%2FBOqQRoqYhT3G7zxRZqs0AXA%2BoWEDHUKi4IlOODMr6KJI4eSm8t%2FaaxY45doZ%2FUSvOaDDJll1w7WVpv%2FEWmIDcSQ%2BIkbxpg%2BcnBvfjUGp8ZrtYSz1dELJHk5ZMHY8B93HlYytC%2B3HNNR3082Xr4weqvMKjQI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770706465&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JlG3O24Q%2Bn30dV7gRBuGdS4c6AqmFGy4gLwKy5elTFyXdDqSP8JwM4uvSZ%2FjtYOyVMBMj%2BMi9t5cSz8%2BAB%2FBmr7%2BQ7TBh9BXE7XnocB72HcDwRwtOYzzdIgnqvQrE28TNNN9rQOaDb4VAV9hi%2BFDgV9OXAgkBDO06TzLp5HdHWs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
