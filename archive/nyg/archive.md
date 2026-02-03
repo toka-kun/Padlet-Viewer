@@ -1,4 +1,4 @@
-最終更新: 2026/02/03 18:42:50
+最終更新: 2026/02/03 19:41:16
 
 # アーカイブ
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 185
+- **Posts:** 186
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Jan 31, 2026 11:41am
+- **Updated At (UTC):** Feb 03, 2026 10:37am
 
 ## セクション一覧
 
@@ -32,7 +32,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770716564&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3g8cINHlvc7eQfMkjPOe4VMEtb4PZ85USf04Ck%2FZXhAJGGNLIgQmGwdJo6IfomPfhbUT%2BO1sf5ZW833yxqfKFR1GUQ9zohu%2FGs5sBJdypsPIVI4s3kLe1j5mpuvPCTz58Kbqm15pzzxRvxa5Q6XKaSALP%2B%2FzayGePbXhgTIad3s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1770720069&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pZYsEskvpmC5teAC3HPoau%2BEI%2BlEPLGfP6gCsCgBbqqxZZSz4%2FEH67Fp%2Fbj%2Bk7wQHrDvj8HdZLeF%2BJ2svpo5xMThmHnCf2%2FQB%2FMzuIff0hwc4gm2uNtHkeRP1f6f%2BayCjNd4%2BC8s4cLoi9LjtJl3hKrp2%2BmEKHrPhbhPj0rDMH4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -65,7 +65,45 @@
 
 ---
 
-### 2. エドガー部屋と年越しイベントを共同開催中！詳細はこちらへ↓
+### 2. あけましておめでとうございます！
+**Author:** ᏁγᎶ » Nanachiki (Nanachiki)
+
+<p>遅くなりましたが、あけましておめでとうございます。2026年もどうぞよろしくお願いいたします。</p><p><br></p><p><strong>2026/01/04追記: 結構いろいろ更新してるよ</strong></p>
+
+#### Comments (20)
+- **Anonymous** (Jan 03, 2026 04:35am): あけおめーーーことよろーー 
+- **Sanesane** (Jan 05, 2026 04:32pm): あけおめです！
+- **aavkgagtgt** (Jan 10, 2026 01:42am): あけおめ～
+- **Magurock  (偽物や偽投稿など注意)** (Jan 01, 2026 01:45pm): よろしく
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Jan 04, 2026 04:02am): よろしくおねがいします
+- **匿名** (Jan 03, 2026 10:40am): あけおめです！
+- **爆裂破坏流 我是天才之神** (Feb 02, 2026 11:44pm): あけおめ〜〜〜〜〜
+- **oribekedesu** (Jan 14, 2026 04:15am): 🎴ことよろ 
+- **029大好き！(会長910)#ウルトラ第三番弟子** (Jan 26, 2026 04:50am): あけおめ⭐️
+- **hana** (Jan 20, 2026 01:49am): あけおめことよろです
+- **残クレアルファード** (Jan 20, 2026 04:53am): あけみ
+- **亜空カン_JANLINE** (Jan 03, 2026 01:40pm): よろしくねがいます
+- **はらぺこんぐ** (Jan 10, 2026 02:23am): お願いします
+- **メガネ** (Jan 04, 2026 12:01am): よろしくお願いします！
+- **千の時代の敗北者** (Jan 09, 2026 09:14am): こちらこそことよろー
+- **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Jan 02, 2026 03:48am): よろしくお願いします
+- **活動一生停止** (Jan 02, 2026 11:31am): よろしくお願いします！
+- **Natsu** (Jan 02, 2026 12:30pm): 🙇
+- **削除済みユーザー** (Jan 02, 2026 12:54pm): あけおめことよろです！
+- **RX034** (Jan 24, 2026 12:26am): kotoyoro
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 3
+
+#### Additional Information
+- **Post color:** Yellow
+- **Created At (UTC):** Jan 01, 2026 12:14pm
+- **Updated At (UTC):** Feb 03, 2026 10:37am
+
+---
+
+### 3. エドガー部屋と年越しイベントを共同開催中！詳細はこちらへ↓
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>気になる方は今すぐ参加しましょう！</strong></p><ul><li><p><strong><mark>マイクラ鯖＆ミート</mark></strong>あり</p></li><li><p><strong><mark>景品付きの謎解き</mark></strong>に参加できる</p></li><li><p>イベント限定で<strong><mark>プロキシとYouTube配布</mark></strong>あり</p></li><li><p>誰でもイベントを出展可能</p></li></ul>
@@ -87,7 +125,7 @@
 
 ---
 
-### 3. i-FILTER民のために代替ビュアーを作成しました。
+### 4. i-FILTER民のために代替ビュアーを作成しました。
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/x871d592e">https://html.cafe/x871d592e</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet-viewer.pages.dev/">https://padlet-viewer.pages.dev/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet-viewer.smooth.ytalt.f5.si/">https://padlet-viewer.smooth.ytalt.f5.si/</a></p></li></ul>
@@ -120,7 +158,7 @@
 
 ---
 
-### 4. YouTubeは更新済み
+### 5. YouTubeは更新済み
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>あとはプロキシを少し</strong></p><p><br></p><p><strong>2025/12/09追記: 僕の改造版わかめでトレンドを復活させました。</strong></p><p><br></p><p><strong>2025/12/14追記: YouTubeを更新</strong></p><p><br></p><p><strong>2025/12/20追記: YouTubeを更新</strong></p>
@@ -164,7 +202,7 @@
 
 ---
 
-### 5. 12月5日に一気に更新します。
+### 6. 12月5日に一気に更新します。
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>それまでは雑談のとこでYuki+とかあげるから待ってくれ</p><p><br></p><p>あと伸びが悪くなってモチベーションが下がってきたからできればこの部屋を宣伝して欲しい</p>
@@ -217,7 +255,7 @@
 
 ---
 
-### 6. Yuki YouTube+がEdu再生に対応しました。
+### 7. Yuki YouTube+がEdu再生に対応しました。
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [Attachment](https://padlet.com/Toka_Kun_/breakout-room/961rqR90AwOd2nND-oAdpz24dgkRJv10R)
@@ -244,7 +282,23 @@
 
 ## 閲覧数カウンター
 
-### 1. 閲覧数200,000達成まで
+### 1. 最新の閲覧数はこちら！
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+[Attachment](https://padlet.com/Toka_Kun_/breakout-room/jzJX4EOVaLmbqbnO-oAdpz24dgkRJv10R)
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 1
+
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** Nov 22, 2025 05:27am
+- **Updated At (UTC):** Dec 19, 2025 09:50am
+
+---
+
+### 2. 閲覧数200,000達成まで
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><strong>200,000達成 - 2025/12/03</strong></p></li><li><p><strong>訪問者60,000達成 - 2025/12/03</strong></p></li><li><p><strong>190,000達成 - 2025/11/22</strong></p></li><li><p><strong>操作時間3,000時間達成 - 2025/11/21</strong></p></li><li><p><strong>180,000達成 - 2025/11/12</strong></p></li><li><p><strong>訪問者55,000達成 - 2025/11/12</strong></p></li><li><p><strong>170,000達成 - 2025/11/04</strong></p></li><li><p><strong>160,000達成 - 2025/10/27</strong></p></li><li><p><strong>訪問者50,000達成 - 2025/10/26</strong></p></li><li><p><strong>操作時間2,500時間達成 - 2025/10/26</strong></p></li></ul>
@@ -276,23 +330,7 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Oct 20, 2025 11:13am
-- **Updated At (UTC):** Jan 31, 2026 11:41am
-
----
-
-### 2. 最新の閲覧数はこちら！
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-
-[Attachment](https://padlet.com/Toka_Kun_/breakout-room/jzJX4EOVaLmbqbnO-oAdpz24dgkRJv10R)
-
-#### Reactions
-- **Average star rating:** 5.0
-- **Number of ratings:** 1
-
-#### Additional Information
-- **Post color:** Red
-- **Created At (UTC):** Nov 22, 2025 05:27am
-- **Updated At (UTC):** Dec 19, 2025 09:50am
+- **Updated At (UTC):** Feb 03, 2026 10:37am
 
 ---
 
@@ -557,7 +595,7 @@
 ### 3. 俺が全然浮上しなかったのも悪いんだけど俺の部屋の管理者がこいつらだけになってました
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770716565&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Y%2F3O2Ps3EPyyDhbXynifqMs%2FwpSyMOYIboI1VOSmvSQCajD%2BqORIIPGNJEUZuQL2ULcaE0SMciZab7nSLN2UYlFFvBCHir1n%2F3vl19ja2r91RmHUDOQMsTJCw4CcYivt3xp1meSfbX4Xe55KgTQmS0QPUeejQNcj9W32SoogA9E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1770720070&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OFOrXlyF5%2FHjOKkO6aLCgo6XSf5%2Bel5E63yCwIV36%2BB%2BUIpkdR6FRs1Nei5%2FmfmUg6hcU0SGQS4Vb8L5mdBbTeohO3E41W3s8w9dScILKkMFqI8nh%2FP8mRcndmvWlbJLAxIYaQLH5PFWQ8XIMb9iMPYCPczVbcebPV%2BD3Zc4Xyg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 15, 2026 10:41pm): 権限をぽんぽん渡しすぎや
@@ -2641,7 +2679,7 @@
 
 **投稿の種類:** フィルターに関する相談や質問
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770716568&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iznXI1X9pl2RM2hNzs60IXslYdwtmFhC79Hw%2B2AzAbO%2FsESZYeSNL4U0FrWKc4imLXlxtOCmwq%2BLge9KsdkbRQpL%2BBpHQGdczrxEsCsKlzmXFBto%2FT%2BIObhIFcZUS2zAqO9IEs8oQbofR4%2BBR7xeKZ%2BFNLPNxyJtEHYzBZmyPzY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1770720074&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RUQLewsJgHrsC%2B%2FBlbeymQclj4Nr87kU%2FBFneaBrKapXD%2BYqb5OgNjlyqm7acOob0yX9a2V5avLHlzCsk909S906bCg77qCaQDNXqfgdkqlxlPd65jRhnasqsbDVYTzaViLb9trNFeIi0sTXZPWGaFHxqJW%2B4xFxHgMC9NAbftc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -2844,7 +2882,7 @@
 
 <p>先ほどゲームをしてるとフリーズしてしまって、再起動するとフィルタリングが更新されており、さっきまで使えていたサイトが使えなくなってしまいました。</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770716568&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nKvEQdg15%2FnNGdc4XMPV3rMVct2Tb1CzUM8xz%2FvhpuCFJ4uqaRZe5G5lnhxqdhOPpx4TU4k4XP1gAzvwUzRVgrOPQRpISYfueNcCZvSoI0BsIOWN5FtZR%2FYM8rvd2%2BIi%2BPYEd%2FsO6NCwEhEVBCv%2Fb92j9AbAIYLGpxCo23C1elc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1770720074&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dBTmRchdnT85Mzrt%2F2xtqphEp5E7N3cC54YNUxHVmhMunR1Y%2F7ikX5QHc2NSCoOHEpr8nYbGOI67EuSurNAtZcNHdpv4Z%2B7m7YnBXl39bmGWZyNHL1AYwGMztneoCDysXxzIXOhx%2FmMLLTRAYkr27AMHBr%2BSt3cyPcZSrQ1Lue8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **Supportive Hummingbird** (Dec 30, 2025 08:28am): すみません...フィルタリングがISGCなんですけど、家のWi-Fiで使った場合って、学校側からもURLとか見れますか？しあtubeやpixivFEで大人の単語とか色々と調べていたのでちょっと不安になってきました。
@@ -2870,7 +2908,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770716568&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UxFap8dITUUel6Loon4lhG6JyrZxDzrrKeztXSa%2FoVJNJL8%2FvRKvnp1xb4iAesvb9mzmAj7JP1kd2%2FX4cK1sGoiPJehj4o8JNgM%2FQV9Cnm4RMkL87maQVUW9sI6CuJfeIy7ABZWdon%2BEtxtVIjPHu1clgyjwG7l8NPF68hSlYLY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1770720074&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EiSp5iDZ4PrUqnu7rVpkrToyi3%2FHotlVPrptVprLthP4i2PhfNcCAmZAc7i3Z7QFgLnZ4Bz0cnjgpBanVEEl8XJ6JvZHzt2PXA63zeJt9sfR9MOR%2BediNt3ON96Q390S%2BzpQwnwkz28yoolq20H5JOJTC16LlQ3Ju5NyfdCND%2BE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **πr²(パイアール2)** (Nov 16, 2025 12:08pm): もうネット上に無数にあるし
