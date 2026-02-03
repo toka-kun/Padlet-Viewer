@@ -1,4 +1,4 @@
-最終更新: 2026/02/03 22:04:45
+最終更新: 2026/02/03 23:45:06
 
 # 規制解除委員会(臨時本部)
 
@@ -84,7 +84,7 @@
 
 <p>とるっぷいが何者かによってBANされた！！！だから、とるっぷいが維持してた規制解除委員会本部部屋やVIP部屋が消えました！！なので、とるっぷい復帰まではここが臨時本部になるんやで。ってことでとるっぷい復帰までは何かあったらいときち(俺)or中居正広に行ってクレメンス。</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1770728684&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IO2yMuruRgT72t2K1jI3CagJnCL%2FK96SbyRAeUnIfvN1o7e3fpKQyJYTeNxdAwT2JAuLHvp9XBc%2FJg4iAMrQ%2BbZQvbnMAy6dWwePxcawTIQKC8n%2FCTCwN4vqEosrd%2F9GLKdAFwW01Ff8Q%2FLiPvcsF6E9NRzSTX09mm1ZkyIla18%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1770734705&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vZ3ehVqHTChEvKMhkFWu5H5iTScM497A6l6yJdt9GKmflZ7JEEOTWYGJSwDdgXqqSmdXnlzkM5IpSWU9H9OVkY6dOfXARtqysjCZdU2MKhQ4C11Fng8gzvQN35xFzB2iJ%2FRGySA7YbS%2FrZPEqjZwPxeYqHgY1379FKQbp9vDT2o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
 
 #### Comments (1)
 - **中居** (Jan 09, 2026 11:54am): かなちい
@@ -103,7 +103,7 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1770728684&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=I2c4n1XvD8nKH78CuTV%2BFzuADGs6ovStNxEA%2FnmY3Uv0UZKpI%2Fxn2RgJ8FVENHBywit6%2BSOrOB4%2BbHI6S7dfdntN17Z3L0FDAcuQgekRKxAoMvezaebKFHrzsOEFMgLP3bcNr3O86nCzoKZJqynt6lp%2BA36wFEdp%2FiwPYd%2Fq3lc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1770734705&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=or4NQsKkiJWfB%2B1eu5r4hQKH6C0lTWFJMkzJurx6YSxUAW33w6K%2FmlRBI2tvLl%2FUW3bNBfTsh1ilexw88P0rxSAdN4qlihAviUm57%2FzaetH9UalVlm05lNGRTCcxncOIAm9cyHscpSUoJgzxz2glCeXVR1wuHEM%2FWBo6Y4nLAU4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Post color:** White
@@ -117,7 +117,7 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1770728685&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IE5aMyITV3ajiDXnLUv3NquiYAJMS7ENE7nJNCrXNTPPPFoTlLMnE0BV7jnZhQ8K8fB1%2BeaF%2FONtGDfvK%2BhROW61H5xjCo2yID0744BFrRyUjSTUOr8O67qouZ9Nguq0hPt2VLsRG6Jtndl3nX8FGSjb3vwPIgnO9ge2barCSGg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1770734705&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vDM%2Far08%2BgYpYMsoRmWg%2FpSP4Jp7dyFHazhFcAgdCb1Igi%2BewGs5GeZnji3h%2F6t9UALwIueXInMWG0GvdQEY9nncAyhr3rPGAZ8WFIExwlcLbaSW3RtQtI%2BHFDaTIx1h9CAm3Us25CmUF8uU0ZcqaHbCjrf5NMEysAldTYx40Zs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Post color:** White
@@ -442,8 +442,8 @@
 - **Jack** (Jan 13, 2026 10:54am): ABEMAみたいですご協力お願いします
 - **きう** (Jan 19, 2026 12:37pm): ｱﾍﾞﾏﾐﾀｲ!
 - **Respectful Kiwi** (Nov 21, 2025 01:20am): 見方教えてください
-- **プーチンと習近平はゲイ！！　　中学卒業まで２３日（泣）** (Jan 14, 2026 12:41pm): 見れるだけでも感謝
-- **プーチンと習近平はゲイ！！　　中学卒業まで２３日（泣）** (Jan 14, 2026 12:41pm): しあtube回線が、、、
+- **プーチンと習近平はゲイ！！　　中学卒業まで２２日（泣）** (Jan 14, 2026 12:41pm): 見れるだけでも感謝
+- **プーチンと習近平はゲイ！！　　中学卒業まで２２日（泣）** (Jan 14, 2026 12:41pm): しあtube回線が、、、
 - **粉雪** (Dec 10, 2025 03:20am): これ上げる
 - **あ** (Dec 25, 2025 08:25am): ありがとうございます！
 - **粉雪** (Dec 10, 2025 03:20am): https://script.google.com/a/macros/cen.ama-net.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
@@ -611,7 +611,7 @@
 
 <p>えぐいてえええええええ</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1770728685&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NXnjGsBnLI9w4DfJG0CNWbNZ1PboQJLXHh41Rv6XpHohidff%2BhauzxGvBJooYnmdWYbTUYIFQq9xeKgRxvV%2FA2vx89BZYBr4h7YDZ5gxpz3x2Ild3yKCbbLaJAhpLcR4FCblhlY%2F3a4HCP6I0nWOCtLhHmSR25iZG9HX2BUkV04%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1770734706&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cMIbwM3PZX5KeCUg6NRHvtnynzZl83U42yC8ctFxsFLunZn1BK5gRlcYuvn62q7cxQDbB31g6%2B5KHSWWE29NEGDqUWXZ84JrfF5SKDLw2X7TLTnehtgxdx2CmgxA8S7mnyrpbpolxcotwJ7g9LWeH3raK2IdrJ6aRfhIMeqTbEo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
 
 #### Comments (3)
 - **いときち** (Oct 29, 2025 10:47am): えぐしゅぎ
