@@ -1,4 +1,4 @@
-最終更新: 2026/02/03 14:53:27
+最終更新: 2026/02/03 15:55:29
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -87,7 +87,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1770702806&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OxwI0MElHKgosN5y51axp2rHPBWy7XtwZEdTLiRn5ArrJDEZZw9L8woNtfSYMSM1RbFSXLluTwUIvFnlEs4Y0B2RblOvp%2BpjzK3unQy4%2BftcE3NnyTiL4%2B2kHCiYtHrE9cwnC0N2vvt%2BdPVeG5C5cyKOuPWDTwxpMmyqj5VMOrg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1770706528&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zqF4YEGQF25q6mHh3j%2BJnLeh0YomRw1mSwgZL7WZyRAqxcmq1TZKFjTqr4Nzi8M2jG57v8nVF0KQJFjSedmplR1jJYfcKgBtI6oF46YaGJb0JL70TjPh6Xbj8dz%2FKb7jQQIduPZ2%2FalnvBqIFRNrRIIBVPRo2oiLXPceu1LJE9Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -904,7 +904,7 @@
 #### Comments (3)
 - **Sleepy Lobster** (Oct 11, 2025 09:19am): 使えるかも？https://wkt8.vercel.app/login
 - **わっかーめー** (Oct 27, 2025 11:49pm): えワカメ入ったらThis deployment is temporarily pausedって出るの俺だけ？
-- **hrk9373** (Nov 19, 2025 10:23am): 全部使えん
+- **削除済みユーザー** (Nov 19, 2025 10:23am): 全部使えん
 
 #### Additional Information
 - **Post color:** White
