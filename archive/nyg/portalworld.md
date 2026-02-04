@@ -1,4 +1,4 @@
-最終更新: 2026/02/05 06:34:40
+最終更新: 2026/02/05 07:30:04
 
 # Padletポータルワールド
 
@@ -285,7 +285,7 @@
 ---
 
 ### 10. きてね
-**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃超低浮上？　＃あけおめ〜🎍 (I_like_apple)
+**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
 <p>雑談部屋</p><p>過密目指してる</p>
 
@@ -694,7 +694,7 @@
 ---
 
 ### 31. 宣伝部屋
-**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃超低浮上？　＃あけおめ〜🎍 (I_like_apple)
+**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
 <p>宣伝しに来よう</p>
 
@@ -1567,7 +1567,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770845680&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=g1r7UHL5Yj%2Fr0awQJfvig%2B7pn8VOYuXuGjuQWIg5l5Kwqn7s0pqWe%2FNcT0RvOkZwSIUpTdWHS7kNRlU%2BXEkKz5xtgaI6J9fpKTVD37nZ1ihtZdN1AVYurPzLREdd6LUYFtfny2MJeOLZP9DnPe1MI8tRH4bJ%2FuwdwjBYumOHNQg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770849004&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cZNhsf6MfQW4%2FnP48iwtsaADhzUQPPoUDHoHhggAkk7tmQNTU9SZNd0z1hgJ6yVtD%2BICIP80vCWunlleUWpxjw5sIwFiZ3x5SzjRgcbag0ASTcCqaes8cXADL2Wms4SkL0X8CvUsbOerB0d5FGrV65MPwONEAkbYF6HInpidTJA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
