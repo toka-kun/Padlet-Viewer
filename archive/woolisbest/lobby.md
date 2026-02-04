@@ -1,4 +1,4 @@
-最終更新: 2026/02/04 20:35:00
+最終更新: 2026/02/05 00:44:07
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 04, 2026 11:04am
+- **Updated At (UTC):** Feb 04, 2026 03:30pm
 
 ## 受付
 
@@ -54,7 +54,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (91)
+#### Comments (92)
 - **削除済みユーザー** (Jan 16, 2026 02:42pm):  
 - **sanae1212** (Jan 16, 2026 07:44am): 入れて！
 - **woolisbest** (Jan 17, 2026 12:12pm): おい
@@ -89,6 +89,7 @@
 - **あ あ** (Jan 19, 2026 12:49pm): 俺も〜
 - **1** (Jan 31, 2026 01:22pm): 入れてほしです
 - **ᴎeoᴎӝ ❤️‍🔥 neo_n-.-** (Jan 14, 2026 12:27am): やっとこれた
+- **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 04, 2026 03:31pm): いれてくれぇ
 - **カルビー（SHINRAI)** (Jan 17, 2026 07:25am): あ　フォローしてるぞ！
 - **woolisbest** (Jan 22, 2026 10:25am): ok
 - **woolisbest** (Jan 17, 2026 08:10am): うっす
@@ -161,10 +162,11 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (8)
+#### Comments (9)
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
 - **削除済みユーザー** (Jan 23, 2026 12:38pm): した
 - **1** (Jan 31, 2026 01:22pm): しました
+- **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 04, 2026 03:30pm): したぁ
 - **プロキシ大好き** (Jan 30, 2026 11:23am): した
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **活動一生停止** (Jan 30, 2026 10:02am): しました
