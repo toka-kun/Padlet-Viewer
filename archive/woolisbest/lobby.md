@@ -1,4 +1,4 @@
-最終更新: 2026/02/05 04:39:52
+最終更新: 2026/02/05 18:48:19
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 04, 2026 07:15pm
+- **Updated At (UTC):** Feb 05, 2026 09:47am
 
 ## 受付
 
@@ -217,7 +217,8 @@
 
 [Attachment](https://padlet.com/sakuramoti_modori/home)
 
-#### Comments (1)
+#### Comments (2)
+- **橘花 | Kiκκα　#青葉のサブ　#48καrU** (Feb 05, 2026 09:47am): 荒らされてる？
 - **さくらもち** (Feb 02, 2026 12:01pm): わー
 
 #### Additional Information

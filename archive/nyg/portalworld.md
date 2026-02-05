@@ -1,4 +1,4 @@
-最終更新: 2026/02/05 17:45:16
+最終更新: 2026/02/05 18:47:55
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 73
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Feb 05, 2026 05:57am
+- **Updated At (UTC):** Feb 05, 2026 09:17am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -39,9 +39,10 @@
 
 <ul><li><p><strong><mark>自分の部屋のみ</mark>投稿して下さい。</strong></p></li><li><p><strong>自分の部屋であれば<mark>いくら投稿してもOK</mark>です。</strong></p></li><li><p><strong>時間が経って自分の投稿が埋もれてしまっても、<mark>一週間経てば再投稿可能</mark>です。また、その場合は管理者が過去の同じ投稿を消しておきます。</strong></p></li><li><p><strong>Padletの規約に反する部屋や、こちらで不適切だと判断した投稿は見つけ次第削除します。</strong></p></li><li><p><strong>多少の誤字などであればこちらで修正します。</strong></p></li><li><p><strong>AIに引っ掛かって承認待ちになっても人の目でもう一度確認するので安心して下さい。</strong></p></li><li><p><strong>「過疎ってるから来て」などと言うのではなく、<mark>その部屋の良さを誠実に書いた方が人は来てくれます</mark>。</strong></p></li><li><p><strong>何を書けば良いのか分からない場合は、サンプルを参考にして下さい。</strong></p></li></ul>
 
-#### Comments (2)
+#### Comments (3)
 - **だいまたハムスター（偽物注意）#りおとの35番弟子#わかめGOＤ教#煮物貢献者#イケメン様様信者　ここみたってことは復讐ってこと！こわいよーたすけてフォローってなんのいみあんの？とりあえずしてーーKUNがすき　はむかす** (Sep 03, 2025 07:16am): とうこうするねごめん
 - **Magurock  (偽物や偽投稿など注意)** (Sep 06, 2025 08:58am): かなり人気になってきた
+- **全ての部屋にコメントする** (Feb 05, 2026 09:17am):  
 
 #### Reactions
 - **Number of likes:** 2
@@ -1591,7 +1592,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770885916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5W0AGfsFtSifNHqkeatZE2pF%2Bg35RkvsBJdY%2B%2FC9z28cSsUgBxliqW6SrSH39VGarqvj3nqhqt%2Bwb3PUs5mavL4%2FaByvFHVg5d%2BtQw33PXQ8xsB986f%2Fz4fz0kf0aSt4vebe5QNJL8a7DhaGKEKJNXu9I9CvKuGjgxJcvcIWZb0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1770889675&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=V6C%2BHvgZbQLhweNGM6OgJf86554niXD3PyitTME14Vh5UuHQC8mMHPc66Z9AlZSCxoKSXpRuvhxtxqGqemK24x9rijChmpwKXMd1Or5QSAiZ3oysDaJxYKjI2pkVmbOZWCbdHnh5cjuGd0qktcInVaO6YYGc8m4v2fYsoU%2FY4EA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
