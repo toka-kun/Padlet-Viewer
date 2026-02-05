@@ -1,4 +1,4 @@
-最終更新: 2026/02/05 11:10:25
+最終更新: 2026/02/05 13:49:42
 
 # 規制解除委員会(臨時本部)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 42
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Feb 05, 2026 02:04am
+- **Updated At (UTC):** Feb 05, 2026 04:36am
 
 ## ルール
 
@@ -18,7 +18,7 @@
 
 <p>中居正広の社会復帰を望む者</p><p><br></p><p>僕(とるっぷい)</p><p><br></p><p>いときち</p>
 
-#### Comments (19)
+#### Comments (21)
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Jan 13, 2026 11:28pm): 誰に？
 - **高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長       2√3番目のれいなの弟子** (Jan 12, 2026 10:59am): 荒らされるっていう話があった
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 04, 2026 11:26am): オケ
@@ -38,6 +38,8 @@
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Jan 14, 2026 12:41pm): ごめんちょいまち
 - **あるふぁ** (Jan 14, 2026 12:40pm): ブラウザゲームって解除で遊べたりしませんか？bloxd.ioっていうやりたいゲームがあるんすけど
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Jan 14, 2026 12:42pm): できるお
+- **う〇こガンミ委員会** (Feb 05, 2026 04:36am): ぽきってできませんか？
+- **う〇こガンミ委員会** (Feb 05, 2026 04:36am): 教えてほしいです
 
 #### Reactions
 - **Upvotes:** 1
@@ -85,7 +87,7 @@
 
 <p>とるっぷいが何者かによってBANされた！！！だから、とるっぷいが維持してた規制解除委員会本部部屋やVIP部屋が消えました！！なので、とるっぷい復帰まではここが臨時本部になるんやで。ってことでとるっぷい復帰までは何かあったらいときち(俺)or中居正広に行ってクレメンス。</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1770862224&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mvTfT869CZhtqWOkcdxQHwfENeXYLQQlSZhMwE%2BVPJZLwBGLf4nQY%2FBBL%2Fe%2FdMxOsweFWraUYOTuj885Or9TFfFY0hCrw9uHoK2Ql9KKB2PfTNuZhTZoadj6JfpZQ4dvgLw29CV1oMH9MpZVjbOSb8ZKOfYW%2BRX1cH%2BXBpfyRh8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1770871782&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=li9iBT6f76wXli6Mgf%2FT0Ewa2u7ahkPot0P3zMOsWWaJAoodAHWT7JjpVcWgCOc5wdJEUE6GpKxAWzcqa3nf3%2FVn%2FVUafOQf%2FvN3Sm6%2FplS7Q4MVfhzSyUyxpH2gUnaqnFmY38MTptJzj%2BN0eeXU3JFn6YUl0hNA7Jz6TJC27Ac%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
 
 #### Comments (1)
 - **中居** (Jan 09, 2026 11:54am): かなちい
@@ -104,7 +106,7 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1770862224&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eSFLddzDEMQC3yd7cCcMstdjzdGDsbCMQhuSYScBc3IIX9jUY8ZcVFgxbsK8q%2FuJ7GnB8SSCazq%2B0dPPrQHxOlvrjBRGlUa3cHrXrJa8QYx%2B9Orvg8w08bUiv0a1id1qfdESLPhJiq5HnNy%2F3zFjzjpALk%2BS6g6ON658WvToblY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1770871782&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cHVrB3nsJXHWq1%2FclC88zE5OIVLyMDDCFDHwhs62b8Tz3L5%2BGz4KRYcSBVN368yuICpj%2BjhIQBxcFI6gemLVRFpnl53sqDVjlXaDItkDQVLOidUoSwACCz8%2B6IFYMnNP0V%2FDNjpsXWtkCDW0zOQvnCmKS5bXYkyeV42rTWaRrwE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Post color:** White
@@ -118,7 +120,7 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1770862224&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TwzKVpWHYEy3u2xCbtsQ2ApN7pFejYB18wmDQN%2FE8tjl77bx%2FwwvTJJ0QWPrSA40%2BMdsIUJEiCT0MBQWSCgKQheU9TOrunAce515D15hECbESnQBcHh59Se1qHZz7cVzmlsC9HCBAkifTPKqsxFg2w8ZRZXn%2FigRW3fbBEKnBHg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1770871782&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cV%2BNouD2I1ZeMtVvZQpGWQqyfIR35mELDxiuciEuPOPSLT2mfriN%2BQsixMm6rPd1ZWG%2F2cAb99OHmt8ljc2ws%2Bmz2FFOxaPhr84cFLjEaSXAaH%2FnJuUR1eXoal%2Bk1lIKofazO0eS3lI%2BO7f9TYLahDC%2B1Ibz5K0X%2FEzppNMXykA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Post color:** White
@@ -373,7 +375,7 @@
 
 [Attachment](https://padlet.com/tori_tori/vip-l3097tpfdsmflii7)
 
-#### Comments (32)
+#### Comments (52)
 - **Agile Mongoose** (Jan 28, 2026 04:54am): いつでもサイトごと消せるけど
 - **Agile Mongoose** (Jan 28, 2026 04:52am): 入れてください
 - **Agile Mongoose** (Jan 28, 2026 04:53am): 晒してもいいんか？
@@ -403,7 +405,27 @@
 - **西村** (Feb 05, 2026 02:03am): 死ねくたばれクソども
 - **Blushing Salmon** (Feb 01, 2026 11:08am): 死ね
 - **Blushing Salmon** (Feb 01, 2026 11:08am): さもなくば殺すぞ
+- **Helpful Tiger** (Feb 05, 2026 02:11am): やってみろやどうせできひんやろ
+- **Helpful Tiger** (Feb 05, 2026 02:12am): こうゆうとこでしかできひんカスが
+- **Helpful Tiger** (Feb 05, 2026 02:13am): 口だけやろ
+- **西村** (Feb 05, 2026 02:49am): 藤山死ね
+- **西村** (Feb 05, 2026 03:01am): 3−4組　西村匡志郎や
+- **あかさタナはマラヤは** (Feb 05, 2026 03:11am): Hello
+- **1234567890** (Feb 05, 2026 03:09am): 漢字間違ってるけど
 - **ASDFGHJ** (Feb 03, 2026 01:25am): 本当に晒していいの？
+- **1234567890** (Feb 05, 2026 03:11am): ほんまきしょいで
+- **1234567890** (Feb 05, 2026 03:10am): 本人やったら間違わんよな
+- **1234567890** (Feb 05, 2026 03:11am): 嘘つくな
+- **1234567890** (Feb 05, 2026 03:12am): Hello
+- **1234567890** (Feb 05, 2026 03:16am): 消したら許したる
+- **あかさタナはマラヤは** (Feb 05, 2026 03:17am): There's no point in fighting here
+- **1234567890** (Feb 05, 2026 03:17am): 他の奴らも送ったんやったら消したら許したる
+- **1234567890** (Feb 05, 2026 03:16am): はよ消せ
+- **1234567890** (Feb 05, 2026 03:20am): 消すなら今のうちや
+- **あかさタナはマラヤは** (Feb 05, 2026 03:22am): 警察にちくったらええやん
+- **1234567890** (Feb 05, 2026 03:28am): しんかったらもう警察やな
+- **1234567890** (Feb 05, 2026 03:26am): それか学校で謝罪したら許したる
+- **1234567890** (Feb 05, 2026 03:28am): 消すのは今日までやぞ
 - **Awesome Kiwi** (Feb 04, 2026 08:43am): Blushing Salmonっていう人が藤山なんちゃらなの？
 - **Awesome Kiwi** (Feb 04, 2026 08:43am): あとこれあんまり晒さない方がいいのじゃないの？
 
@@ -623,7 +645,7 @@
 
 <p>えぐいてえええええええ</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1770862224&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qdx%2BukLkU2IpbMflPyjNUXXhZNvta34S%2FUiwcDACUwSSnbW%2Fbwj%2BXuolCvy2Bekb3bXgpYl6LFP%2Fa7HsUu%2BnizMrKVukEUNj8fQocTbjd5T17oPUoF1js0vkZlVgG4oCC2rGeUbig4duvAjiJcwT6zSp%2F%2B3L2reAgSZNNUusbSQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1770871782&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MU4yvcnUZVRbMOiyGIFZhMGsHclFsHd244G0%2FPqkK7jXlSq9NsnzNUNwcCWP3rTMb7owyKDw%2FrorEZByvX3KIUFnTrk%2BjkjeXc0Dr1VCqej5zFThdRm6EtnKXsKUP4XPgvSfA4%2FP25FtVExRnQ61Nu4mEsSPixUGtxDFu%2FV7hNw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
 
 #### Comments (3)
 - **いときち** (Oct 29, 2025 10:47am): えぐしゅぎ
