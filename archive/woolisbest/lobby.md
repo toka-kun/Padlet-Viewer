@@ -1,4 +1,4 @@
-最終更新: 2026/02/05 19:42:34
+最終更新: 2026/02/05 22:06:05
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 05, 2026 09:47am
+- **Updated At (UTC):** Feb 05, 2026 12:56pm
 
 ## 受付
 
@@ -20,13 +20,14 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (21)
+#### Comments (22)
 - **メガリザX** (Jan 31, 2026 02:30am): いれて
 - **活動一生停止** (Jan 30, 2026 10:02am): 入れてください
 - **woolisbest** (Feb 01, 2026 08:20am): メアド必須.....
 - **1** (Jan 31, 2026 01:21pm): 入れてほしいです
 - **メガリザX** (Jan 31, 2026 09:46pm): だって
 - **メガリザX** (Jan 31, 2026 09:46pm): 本物
+- **オムライス** (Feb 05, 2026 12:56pm): 入れてください
 - **かリけー** (Jan 31, 2026 01:31pm): 本物日？
 - **メガリザX** (Jan 31, 2026 09:47pm): 垢を消した
 - **かリけー** (Jan 31, 2026 01:31pm): まてい
