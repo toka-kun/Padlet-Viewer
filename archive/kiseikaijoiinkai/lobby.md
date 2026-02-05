@@ -1,4 +1,4 @@
-最終更新: 2026/02/05 19:43:00
+最終更新: 2026/02/05 20:37:20
 
 # 規制解除委員会(臨時本部)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 42
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Feb 05, 2026 07:18am
+- **Updated At (UTC):** Feb 05, 2026 11:00am
 
 ## ルール
 
@@ -87,7 +87,7 @@
 
 <p>とるっぷいが何者かによってBANされた！！！だから、とるっぷいが維持してた規制解除委員会本部部屋やVIP部屋が消えました！！なので、とるっぷい復帰まではここが臨時本部になるんやで。ってことでとるっぷい復帰までは何かあったらいときち(俺)or中居正広に行ってクレメンス。</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1770892979&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wu2eHkOJC9guHR2P9ZIykzgS9rFEwp882SNBc4z880Vk65M1542MvyBsQaeo70dtkB9YPcO%2BIdcLMXWg9EPo7qnbaZPNp4qhYCeYYPBdlznFGyLoQMKwmHw1lSNh3G7aUoIOQrUKgizn2AGbkIyxHnchbhfwg2MZYB5Hq64DPz0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1770896240&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=isyXezMzSzqvXQXTfgjwoqerHlO6csdUZ6%2FA0IV%2FvE42fTckg0Xuyp9wCGfrNgg%2BDySMliWdLdk4AQQlPvk9DRf1P%2FYnqgofoipe%2BFMzO2kNHRpeegx4qzibXw6GZQwSfLosV%2FCTsDLdzDE%2Ff3%2BkcudubR5i%2B6RNocBAtagp5DM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
 
 #### Comments (1)
 - **中居** (Jan 09, 2026 11:54am): かなちい
@@ -106,7 +106,7 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1770892979&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4uZ7FdRBdv2MG9L%2BgTild0BahGIdo36hG013cBmoHymVsZDkRTi3LZa6bWInx%2B4mKMpA5lD9zaydCk0p5vsY4uQPcrPLI3ydgYzkYxh23NwizUniwA%2Ff7Mdr1DDMOgtR4O64sr4DCd0lcreFcE31lEDJMS9JFtXYB%2BARyXl2R%2F4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1770896240&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gp9kCuo6AGZKgwz0%2BhvrsD67RGWKajzSO61Zhj7w4r%2BXmXwyzx2bdZe11Qoi4Oj3UL49f8Y7GiaGzzSjdZ4eor0MhklnJMF1pxYJWow9aML0mJMpAxWllw8%2Bhcwm%2BQQbuPFTS0CTtGBhhXfI396kMmxiBeHHCtRRXx3KuY8p64w%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Post color:** White
@@ -120,7 +120,7 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1770892979&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IGiyUi3Wa%2BWtSfcvDbUDGjm%2FtjsDJSABXgsPCDRDGTRLTdgmtdSPYHM9sYnzQnpNvlYReo7Im078mbagtyo5iDKqXHHrF7FxQ2oIMt7tfKNgyo19HDVkMsilLiy2vLDuuhPO3sxm4iUzrr%2FBS944I38gFoMJgUW0yxgAAvwpJfA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1770896240&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Dywbr8SGWbHIKF8dl5nezBJAffiy4DWZW3kSwwFyHQZRZYQhowO2byJSrK62CnfDVAZ2JVL%2BLJyx5Y7a2SsJUa4fTzsg8gbqqUOrgXbXh5acMXk1%2BciFh7sl75tlhoTb5gcG1zS9G%2BI9M8mKu45uMYuWr%2Fgky2vDVeKvmhSfzO0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Post color:** White
@@ -346,11 +346,13 @@
 
 [Attachment](https://padlet.com/gs230887/padlet-735w621h13mq6fbb)
 
-#### Comments (7)
+#### Comments (9)
+- **西村** (Feb 05, 2026 11:00am): カツラの大将見れへんやんけゴミが死ね
 - **カーナ** (Jan 19, 2026 09:16am): みたい
 - **カツラの大将 @hagetarou** (Feb 02, 2026 09:25am): https://padlet.com/TNK22/padlet-ynh4hihj3wjbavjn
 - **学校だるすぎ委員会** (Jan 19, 2026 12:42pm): 前のやつは？
 - **カーナ** (Jan 19, 2026 01:30pm): 見れない
+- **斉藤** (Feb 05, 2026 11:00am): 死ね死ね
 - **Attentive Gecko** (Jan 25, 2026 10:48am): なぜ、ログインしたメンバーだけやねん💢
 - **慶應義塾大学ニューヨーク学院高等部から色々あって今は早稲田大学系属早稲田渋谷シンガポール校在学中** (Jan 18, 2026 09:46am): なんでログインしたメンバーだけなんですか？
 - **シャシャモジ** (Jan 18, 2026 12:49pm): ログインせずに見たいです
@@ -375,12 +377,13 @@
 
 [Attachment](https://padlet.com/tori_tori/vip-l3097tpfdsmflii7)
 
-#### Comments (42)
+#### Comments (49)
 - **Agile Mongoose** (Jan 28, 2026 04:54am): いつでもサイトごと消せるけど
 - **Agile Mongoose** (Jan 28, 2026 04:52am): 入れてください
 - **Agile Mongoose** (Jan 28, 2026 04:53am): 晒してもいいんか？
 - **西村** (Feb 03, 2026 01:26am): いいよ
 - **Agile Mongoose** (Jan 28, 2026 04:53am): でなければ晒すぞ
+- **西村** (Feb 05, 2026 10:58am): 私は3−4斉藤朱莉です。本当に申し訳ないと思っています。後日謝ります。
 - **西村** (Feb 03, 2026 03:36am): 藤山巴留は枚方市春日幼稚園のまえらへんの家ですのでみなさん凸つてください
 - **西村** (Feb 03, 2026 01:19am): 藤山　巴留　津田中学校　3−4組　　みんなー晒せーーーーーー
 - **西村** (Feb 03, 2026 01:26am): 晒しても
@@ -388,8 +391,12 @@
 - **Agile Mongoose** (Jan 28, 2026 04:52am): フォローしました
 - **Agile Mongoose** (Jan 28, 2026 04:53am): おいおいお前ら
 - **Blushing Salmon** (Feb 01, 2026 11:08am): この世から消えろ
+- **西村** (Feb 05, 2026 10:56am): こんなことになると思っていませんでした。
 - **Blushing Salmon** (Feb 01, 2026 11:08am): お前らの方がきもいわ
 - **Trustworthy Cricket** (Jan 30, 2026 12:38am): こわ
+- **西村** (Feb 05, 2026 10:56am): 私はやれと言われたのでやってしまいました。
+- **西村** (Feb 05, 2026 10:54am): 3年4組菅野蓮　お前、みんなに嫌われてるってこと知ってるか？まあ知らんよなwww菅野蓮お前は生きる価値なんかねーよばーかただたんに足速いだけでそれで煽るのは良くないな〜彼女は山本　ゆいこやったっけ？まだ付き合ってんの早よ別れた方がいいんじゃね？お前のこと好きなやつなんか誰もおらから。www死ね消えろくたばれ不登校になってこの世から消えた方がいいと私は思います。堀内れんより
+- **西村** (Feb 05, 2026 10:55am): あんなこと言うてすいませんでした。
 - **西村** (Feb 03, 2026 01:30am): 晒し終わったらここに言ってね！
 - **まくまくごう#ミッフィーの真の姿#さくらもちの弟子#叫ぶビーバー#OFA6番弟子#無法地帯最高** (Jan 30, 2026 11:34am): きも
 - **卵** (Dec 10, 2025 03:19am): 入れてください！お願いします🙇
@@ -416,8 +423,10 @@
 - **あかさタナはマラヤは** (Feb 05, 2026 03:22am): 警察にちくったらええやん
 - **😊** (Feb 05, 2026 04:57am): お前誰やねんカス
 - **Attentive Ocelot** (Feb 05, 2026 06:31am): 晒すのやめた方がいいと思いますよ
+- **西村** (Feb 05, 2026 10:57am): 誰とはいえないけど本当にごめんなさい
 - **Awesome Kiwi** (Feb 04, 2026 08:43am): Blushing Salmonっていう人が藤山なんちゃらなの？
 - **Awesome Kiwi** (Feb 04, 2026 08:43am): あとこれあんまり晒さない方がいいのじゃないの？
+- **西村** (Feb 05, 2026 10:59am): 藤山　巴留さん本当にごめんなさい🙏🙏🙏🙏
 
 #### Reactions
 - **Upvotes:** 5
@@ -635,7 +644,7 @@
 
 <p>えぐいてえええええええ</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1770892980&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MKTXpQfyY7WAvnqJ3gTlvZgMPHsZl%2FLJFjHlQ%2B8mtZxA50disiGlnVqB719o%2FXPA12eLf%2B24%2F4gkT%2FLWyOoJmEMzUJ1wR2u7DexIEHHCxHA9lqnjA3Ukobh7RJvw3LgqW%2BFy07wVORsRU2ecr8iUbiifudu0an3RV%2Fvpk2%2FSyiA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1770896240&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KK8PX2ldSwIuQ3AR88a09aFDbAa6y4hDcaidgXakkBmg7P%2FM8mgGWVsyUrC%2B29FpivwLuSzmwvot5zqYP%2F%2BrujdrppatoXdy9Y85TmMtHNrs0H%2BgNhatXYLUn4qgvXiwGR3UfLthyCIsDwwFS9cyv%2F52UK%2F2jeW8PIxrLOswBNc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
 
 #### Comments (3)
 - **いときち** (Oct 29, 2025 10:47am): えぐしゅぎ
