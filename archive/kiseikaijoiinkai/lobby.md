@@ -1,4 +1,4 @@
-最終更新: 2026/02/06 08:25:52
+最終更新: 2026/02/06 11:10:46
 
 # 規制解除委員会(臨時本部)
 
@@ -7,56 +7,16 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 43
+- **Posts:** 44
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Feb 05, 2026 03:13pm
+- **Updated At (UTC):** Feb 06, 2026 01:53am
 
 ## ルール
 
-### 1. 規制解除委員会の主たち
+### 1. これは禁止だよ
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
-<p>中居正広の社会復帰を望む者</p><p><br></p><p>僕(とるっぷい)</p><p><br></p><p>いときち</p>
-
-#### Comments (22)
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 05, 2026 12:34pm): すまん学タブだと厳しいかも
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Jan 13, 2026 11:28pm): 誰に？
-- **高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長       2√3番目のれいなの弟子** (Jan 12, 2026 10:59am): 荒らされるっていう話があった
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 04, 2026 11:26am): オケ
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Dec 10, 2025 03:17am): どう言う話？
-- **削除済みユーザー** (Jan 11, 2026 12:51pm): 入れてください
-- **あるふぁ** (Jan 14, 2026 12:39pm): 今日ラインのオプチャで見つけて入ってみましたー
-- **あるふぁ** (Jan 14, 2026 12:50pm): どうやったらできます?
-- **あるふぁ** (Jan 14, 2026 01:22pm): 開き方とかありますかね
-- **とるっぷい#復活#元ウンコマン** (Jan 09, 2026 08:06am): 復活した
-- **꧁𝖓𝖔𝖗𝖒𝖆𝖑 𝕶🗽꧂ #𝕶族1代目 #neko族？代目** (Jan 09, 2026 08:06am): ライタープリーズ
-- **高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長       2√3番目のれいなの弟子** (Dec 10, 2025 03:17am): それと、とるっぷい様に話があるんですが
-- **無敵の超人ゴッドいしころ** (Jan 25, 2026 12:27am): ライター戻して
-- **高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長       2√3番目のれいなの弟子** (Dec 10, 2025 03:17am): 入れてほしいです
-- **高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長       2√3番目のれいなの弟子** (Dec 10, 2025 03:17am): すごく重要な話なので、なるべく早くお願いします
-- **Anonymous** (Dec 25, 2025 08:25am): あの、相談なんですけど、TikTokって見れますか？
-- **あまつき** (Jan 11, 2026 12:51pm): ↑見れるよ
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Jan 14, 2026 12:41pm): ごめんちょいまち
-- **あるふぁ** (Jan 14, 2026 12:40pm): ブラウザゲームって解除で遊べたりしませんか？bloxd.ioっていうやりたいゲームがあるんすけど
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Jan 14, 2026 12:42pm): できるお
-- **う〇こガンミ委員会** (Feb 05, 2026 04:36am): ぽきってできませんか？
-- **う〇こガンミ委員会** (Feb 05, 2026 04:36am): 教えてほしいです
-
-#### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 0
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Nov 06, 2025 05:10am
-- **Updated At (UTC):** Nov 06, 2025 05:10am
-
----
-
-### 2. これは禁止だよ
-**Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
-
-<p>・荒らす(なんで来たん⁇)</p><p><br/></p><p>・暴言を吐く(ネタと分かるならok)</p><p><br/></p><p>・管理者要求(古事記)</p>
+<p>・荒らす(なんで来たん⁇)</p><p><br></p><p>・暴言を吐く(ネタと分かるならok)</p><p><br></p><p>・管理者要求(古事記)</p><p><br></p><p>・あとログインしてない奴らで喧嘩すんのうるさいんでおれの信頼がない奴はコメントすらさせない</p>
 
 #### Comments (10)
 - **ひがん** (Dec 25, 2025 08:25am): ユウチュウブ見れるようにしてください 
@@ -75,9 +35,50 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Sep 08, 2025 12:59am
-- **Updated At (UTC):** Oct 09, 2025 11:15am
+- **Updated At (UTC):** Feb 06, 2026 01:08am
+
+---
+
+### 2. 規制解除委員会の主たち
+**Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
+
+<p>中居正広の社会復帰を望む者</p><p><br></p><p>僕(とるっぷい)</p><p><br></p><p>いときち</p>
+
+#### Comments (23)
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 05, 2026 12:34pm): すまん学タブだと厳しいかも
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Jan 13, 2026 11:28pm): 誰に？
+- **高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長       2√3番目のれいなの弟子** (Jan 12, 2026 10:59am): 荒らされるっていう話があった
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 04, 2026 11:26am): オケ
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Dec 10, 2025 03:17am): どう言う話？
+- **削除済みユーザー** (Jan 11, 2026 12:51pm): 入れてください
+- **あるふぁ** (Jan 14, 2026 12:39pm): 今日ラインのオプチャで見つけて入ってみましたー
+- **あるふぁ** (Jan 14, 2026 12:50pm): どうやったらできます?
+- **あるふぁ** (Jan 14, 2026 01:22pm): 開き方とかありますかね
+- **とるっぷい#復活#元ウンコマン** (Jan 09, 2026 08:06am): 復活した
+- **꧁𝖓𝖔𝖗𝖒𝖆𝖑 𝕶🗽꧂ #𝕶族1代目 #neko族？代目** (Jan 09, 2026 08:06am): ライタープリーズ
+- **高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長       2√3番目のれいなの弟子** (Dec 10, 2025 03:17am): それと、とるっぷい様に話があるんですが
+- **無敵の超人ゴッドいしころ** (Jan 25, 2026 12:27am): ライター戻して
+- **う〇こガンミ委員会** (Feb 06, 2026 01:53am): 分かりました
+- **高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長       2√3番目のれいなの弟子** (Dec 10, 2025 03:17am): 入れてほしいです
+- **高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長       2√3番目のれいなの弟子** (Dec 10, 2025 03:17am): すごく重要な話なので、なるべく早くお願いします
+- **Anonymous** (Dec 25, 2025 08:25am): あの、相談なんですけど、TikTokって見れますか？
+- **あまつき** (Jan 11, 2026 12:51pm): ↑見れるよ
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Jan 14, 2026 12:41pm): ごめんちょいまち
+- **あるふぁ** (Jan 14, 2026 12:40pm): ブラウザゲームって解除で遊べたりしませんか？bloxd.ioっていうやりたいゲームがあるんすけど
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Jan 14, 2026 12:42pm): できるお
+- **う〇こガンミ委員会** (Feb 05, 2026 04:36am): ぽきってできませんか？
+- **う〇こガンミ委員会** (Feb 05, 2026 04:36am): 教えてほしいです
+
+#### Reactions
+- **Upvotes:** 1
+- **Downvotes:** 0
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Nov 06, 2025 05:10am
+- **Updated At (UTC):** Feb 06, 2026 12:58am
 
 ---
 
@@ -88,13 +89,13 @@
 
 <p>とるっぷいが何者かによってBANされた！！！だから、とるっぷいが維持してた規制解除委員会本部部屋やVIP部屋が消えました！！なので、とるっぷい復帰まではここが臨時本部になるんやで。ってことでとるっぷい復帰までは何かあったらいときち(俺)or中居正広に行ってクレメンス。</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1770938751&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ke%2BclnyUigd78xhBfYyyVB2goDDNWH6cD%2BxDwI5%2B48dxe0FcPdEp8uWCM7%2FhhO6fTLP8MEwA8ZCYkJBnMxYc7wJrQ3O29vUMRn%2BQZuhpZmbg8ogI2Sf%2FkCFF%2FBKsUFAS%2BMIkowRbvHLH4kjiae49b%2BnmV9y56t%2BUtBt1O4CO6Fs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1770948645&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Vb813Mj2lk5Iu78lHFL%2FJGRL5hkupB1zMP0LZQk%2FVlQPg%2Bx8jglvkaz48VGaho7iCBgn5%2Fn%2BjJfdjGLuoE7TOtKRD22boezdtJJVdsy6lpNb77twNDwImDYuJzLRliRaAAA9ey8eC38gdksHN6z3iILPD9o9XjvsW%2BdldokBmeQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
 
 #### Comments (1)
 - **中居** (Jan 09, 2026 11:54am): かなちい
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Dec 25, 2025 08:32am
 - **Updated At (UTC):** Dec 25, 2025 08:32am
 
@@ -107,10 +108,10 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1770938751&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=F5j6aPU3Jy8%2FZHF4Vz%2BAT2%2BHkogi%2BlLfBULX0m9xbdE6EYXvL64JcJyTGYEclukAPnMeEjLpEGs4XT%2FmO%2FQS1Fv%2BEeuNa9mygj0rOYRnRJXiOvcxCZpdNd8CKKFY3mhecjp9RQYtduNn7oHZAVidOPoK4tMcLKYUg%2BuEZyN4xww%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1770948645&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=j8fXkO%2Fr3RjxZuUs7%2FmS%2Flo%2BbqbmMynuUt2mXWVtjYKq81Q9LG%2F1Ltd9ef2IBNkNB3X86RHVQzwUNuSAqSWbqJvQH6pqqqw129rmT0gkduVArZAivnGNNq9GeEKmOTBr4TwZxG6F0EW%2BFsxuv0kHCZp1o20CWb%2FaMF7xZ2RxEWM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Dec 14, 2025 03:02am
 - **Updated At (UTC):** Dec 14, 2025 03:03am
 
@@ -121,10 +122,10 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1770938751&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eOOTWTnZMIAN4QEmP8wUtUjjeJphsZSPULjc5VhUdsVJHYnjdQ16xzwcFr%2FBjb3uiYLUcKjhbzpH3g3LqNzw9h%2By9VoGKKzEjpbQL5LLYnNwRe0dQ9uvQWZgEhnu1sex0t1SuqWe2JoXOJgwu%2FLUV9kwhYW3IaPFO7xCbbMWdWc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1770948645&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=v6GM5LQY0Ynv6T76UaVHA5owoithSljEbUHneTXdMZWn8uSVunUIBvTllRAqZqnV%2FAvvCU5ga5wY2g2bHPl8%2BG5Bwfefktb1E81jCqLlZssF9geiB5RukWSEgndYXUtN15qk8AFQ9VUcwUvqxTH0DxHLb%2FXD1h3WrF%2FFB0dsN1U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Dec 14, 2025 03:03am
 - **Updated At (UTC):** Dec 14, 2025 03:03am
 
@@ -138,7 +139,7 @@
 [Attachment](https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5)
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Jan 20, 2026 10:53am
 - **Updated At (UTC):** Jan 20, 2026 10:53am
 
@@ -157,7 +158,7 @@
 - **原「」** (Jan 14, 2026 12:41pm): ナイっシング
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Dec 14, 2025 04:36am
 - **Updated At (UTC):** Dec 14, 2025 04:36am
 
@@ -173,7 +174,7 @@
 - **Downvotes:** 2
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Oct 17, 2025 07:27am
 - **Updated At (UTC):** Dec 14, 2025 04:37am
 
@@ -190,7 +191,7 @@
 - **とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子** (Nov 07, 2025 09:03am): 規制解除部屋に雑談つけとく
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Nov 07, 2025 09:02am
 - **Updated At (UTC):** Nov 07, 2025 09:02am
 
@@ -206,7 +207,7 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Nov 05, 2025 09:47am
 - **Updated At (UTC):** Nov 05, 2025 09:47am
 
@@ -222,7 +223,7 @@
 - **あかさたなはまやらわ** (Nov 12, 2025 11:34pm): 時間書いてくれるの嬉しい 
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Oct 29, 2025 07:17am
 - **Updated At (UTC):** Oct 29, 2025 07:17am
 
@@ -234,7 +235,7 @@
 <p>中居が新わかめ入手‼︎</p>
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Oct 23, 2025 10:12am
 - **Updated At (UTC):** Oct 23, 2025 10:12am
 
@@ -246,7 +247,7 @@
 <p>本部を公開コメンターに‼︎</p>
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Oct 22, 2025 09:40am
 - **Updated At (UTC):** Oct 22, 2025 09:41am
 
@@ -258,7 +259,7 @@
 <p>本部に新わかめ、新yuki入荷‼︎</p><p><br/></p>
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Oct 21, 2025 09:59am
 - **Updated At (UTC):** Oct 21, 2025 09:59am
 
@@ -274,7 +275,7 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Oct 16, 2025 12:52pm
 - **Updated At (UTC):** Oct 17, 2025 07:25am
 
@@ -290,7 +291,7 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Oct 13, 2025 01:03pm
 - **Updated At (UTC):** Oct 13, 2025 01:03pm
 
@@ -306,7 +307,7 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Oct 09, 2025 11:18am
 - **Updated At (UTC):** Oct 13, 2025 01:03pm
 
@@ -336,7 +337,7 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Nov 01, 2025 10:33am
 - **Updated At (UTC):** Nov 01, 2025 10:33am
 
@@ -368,7 +369,7 @@
 - **Downvotes:** 3
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Jan 13, 2026 06:56am
 - **Updated At (UTC):** Jan 14, 2026 04:19am
 
@@ -383,120 +384,20 @@
 
 [Attachment](https://padlet.com/tori_tori/vip-l3097tpfdsmflii7)
 
-#### Comments (106)
-- **匿名221** (Feb 05, 2026 02:02pm): あーそれはとてもやばいですね
-- **匿名221** (Feb 05, 2026 02:02pm): 犯人誰か分かったんですか？
-- **Thoughtful Cricket** (Feb 05, 2026 02:02pm): 名前がわからない
-- **Thoughtful Cricket** (Feb 05, 2026 01:48pm): お前実際に会ってみればゆえなっかったりしてww
-- **Thoughtful Cricket** (Feb 05, 2026 01:46pm): 逆にあなたは言えるんですかって話
-- **匿名221** (Feb 05, 2026 02:09pm): 他の人にも迷惑なので
-- **Thoughtful Cricket** (Feb 05, 2026 01:49pm): ボケナスとか面と向かってないから言えるんやろ
-- **Thoughtful Cricket** (Feb 05, 2026 02:09pm): はい
-- **Thoughtful Cricket** (Feb 05, 2026 02:01pm): ？
-- **Thoughtful Cricket** (Feb 05, 2026 02:05pm): 誰も、面倒ごとは避けたいので
-- **西村** (Feb 05, 2026 12:06pm): 嘘に決まってるやろボケナスが
-- **西村** (Feb 05, 2026 12:06pm): アホやなら騙されて
-- **西村** (Feb 03, 2026 01:26am): いいよ
-- **1234567890** (Feb 05, 2026 12:43pm): 住所晒されたんやぞ
-- **Thoughtful Cricket** (Feb 05, 2026 02:00pm): じゃ逆になんでつたわってんねん
-- **Quirky Albatross** (Feb 05, 2026 12:47pm): なんもしてないのにやで
-- **西村** (Feb 05, 2026 10:58am): 私は3−4斉藤朱莉です。本当に申し訳ないと思っています。後日謝ります。
-- **西村** (Feb 03, 2026 03:36am): 藤山巴留は枚方市春日幼稚園のまえらへんの家ですのでみなさん凸つてください
-- **匿名221** (Feb 05, 2026 02:00pm): えーとー
-- **1234567890** (Feb 05, 2026 12:44pm): 喧嘩しないでは無理や
-- **1234567890** (Feb 05, 2026 12:11pm): なんで菅野なん?
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 05, 2026 12:44pm): 何で？
-- **Quirky Albatross** (Feb 05, 2026 12:48pm): ひどくないですか
-- **匿名221** (Feb 05, 2026 02:11pm): わかりました
-- **匿名2045** (Feb 05, 2026 01:57pm): お前しかおらんやろ
-- **Thoughtful Cricket** (Feb 05, 2026 02:11pm): 警察は面倒なのでやめてください
-- **Thoughtful Cricket** (Feb 05, 2026 01:52pm): 誰に言ってます？
-- **匿名221** (Feb 05, 2026 02:08pm): みなさんこれからはこのようなことのないように言葉遣いやわるぐちを言うのはやめましょう。もし次にそのようなことがあればその時は考えます。
-- **匿名221** (Feb 05, 2026 02:01pm): ？
-- **匿名221** (Feb 05, 2026 02:06pm): それじゃあ争いはやめましょう
-- **匿名221** (Feb 05, 2026 02:06pm): していなければ僕でいいなら相談乗りますけど
-- **匿名221** (Feb 05, 2026 02:03pm): 予想もつかない状態ですか？
-- **Thoughtful Crane** (Feb 05, 2026 12:52pm): 西村っていう人マジで付き合ってるカップルを馬鹿にするのはあかんと思う
-- **Clever Fly** (Feb 05, 2026 01:42pm): 腹立たしいのはこっちじゃボケなす
-- **Clever Fly** (Feb 05, 2026 01:42pm): お前はどっちやねん？
-- **Clever Fly** (Feb 05, 2026 01:41pm): お前の方が少なそう 
-- **匿名221** (Feb 05, 2026 02:10pm): その時はまたここにきます
-- **匿名221** (Feb 05, 2026 02:01pm): 荒れてません？
-- **Thoughtful Cricket** (Feb 05, 2026 02:01pm): 僕の個人情報をなんもしていないのに晒されている状態
-- **1234567890** (Feb 05, 2026 12:28pm): お前こんなんやってるよりも勉強しろ
-- **匿名221** (Feb 05, 2026 02:11pm): これはさっきのアカウントと一緒なので安心してください
-- **匿名221** (Feb 05, 2026 02:00pm): これどうなっているんですか？
-- **匿名221** (Feb 05, 2026 02:07pm): ちょっと待ってくださいね！
-- **1234567890** (Feb 05, 2026 02:14pm): さっきと同じアカウントです
-- **Thoughtful Cricket** (Feb 05, 2026 02:11pm): それだけはお願いします
-- **匿名221** (Feb 05, 2026 02:04pm): ここに乗っけられた以上は何もできないんですけど、、、
-- **西村** (Feb 03, 2026 01:19am): 藤山　巴留　津田中学校　3−4組　　みんなー晒せーーーーーー
-- **Thoughtful Cricket** (Feb 05, 2026 02:12pm): おやすみ
-- **1234567890** (Feb 05, 2026 11:45am): 本当に嘘ついてないなそれ
-- **匿名221** (Feb 05, 2026 02:06pm): これで終わりです
-- **西村** (Feb 03, 2026 01:26am): 晒しても
+#### Comments (6)
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Dec 10, 2025 03:19am): フォローしてくれ
-- **匿名221** (Feb 05, 2026 02:01pm): どんな状況か教えてくれませんか？
-- **匿名2045** (Feb 05, 2026 01:52pm): 日本語喋れや
-- **匿名221** (Feb 05, 2026 02:05pm): 落ち着いてください
-- **Clever Fly** (Feb 05, 2026 01:43pm): お前めたいな奴やけどなwww
-- **Blushing Salmon** (Feb 01, 2026 11:08am): この世から消えろ
-- **Thoughtful Cricket** (Feb 05, 2026 02:09pm): なんか言ってきた場合はどうしますか
-- **西村** (Feb 05, 2026 10:56am): こんなことになると思っていませんでした。
-- **Blushing Salmon** (Feb 01, 2026 11:08am): お前らの方がきもいわ
-- **Trustworthy Cricket** (Jan 30, 2026 12:38am): こわ
-- **西村** (Feb 05, 2026 10:56am): 私はやれと言われたのでやってしまいました。
-- **西村** (Feb 05, 2026 10:54am): 3年4組菅野蓮　お前、みんなに嫌われてるってこと知ってるか？まあ知らんよなwww菅野蓮お前は生きる価値なんかねーよばーかただたんに足速いだけでそれで煽るのは良くないな〜彼女は山本　ゆいこやったっけ？まだ付き合ってんの早よ別れた方がいいんじゃね？お前のこと好きなやつなんか誰もおらから。www死ね消えろくたばれ不登校になってこの世から消えた方がいいと私は思います。堀内れんより
-- **匿名221** (Feb 05, 2026 02:11pm): では
-- **西村** (Feb 05, 2026 10:55am): あんなこと言うてすいませんでした。
-- **西村** (Feb 03, 2026 01:30am): 晒し終わったらここに言ってね！
-- **匿名221** (Feb 05, 2026 02:09pm): 君もいいですか？
-- **Thoughtful Cricket** (Feb 05, 2026 01:42pm): 影でしか言えないんです。面と向かって言って欲しいです
-- **Thoughtful Cricket** (Feb 05, 2026 02:11pm): ありがとうございます
-- **まくまくごう#ミッフィーの真の姿#さくらもちの弟子#叫ぶビーバー#OFA6番弟子#無法地帯最高** (Jan 30, 2026 11:34am): きも
-- **Clever Fly** (Feb 05, 2026 01:43pm): 陰で言う奴はひよってる
 - **まくまくごう#ミッフィーの真の姿#さくらもちの弟子#叫ぶビーバー#OFA6番弟子#無法地帯最高** (Feb 05, 2026 01:12pm): ログインもできないクソガキはパドレット開くな腹立たしい
-- **エリザベス5世** (Feb 05, 2026 01:33pm): 西村ってやつ友達少なそう
-- **匿名221** (Feb 05, 2026 02:05pm): 誰かに相談しましたか？
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 05, 2026 12:31pm): 喧嘩しないで〜
-- **Thoughtful Crane** (Feb 05, 2026 12:52pm): 付き合ってないからってそういうのほんとにやめといた方がいいと思う（付き合ってたらごめん）
 - **卵** (Dec 10, 2025 03:19am): 入れてください！お願いします🙇
-- **Quirky Albatross** (Feb 05, 2026 12:49pm): 同じ人ですさっきと1234567890
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 05, 2026 12:45pm): それはやばいな
-- **デコポン** (Jan 25, 2026 10:59am): 入れてください
-- **Attentive Gecko** (Jan 25, 2026 10:48am): この俺様を入れろ
 - **yukkuto** (Jan 21, 2026 09:15am): フォローしました
 - **yukkuto** (Jan 21, 2026 09:15am): 入れてください
-- **Respectful Quokka** (Feb 04, 2026 11:56pm): 相手次第やけど
-- **Respectful Quokka** (Feb 04, 2026 11:54pm): こんなことしてたら訴えられんで
-- **Respectful Quokka** (Feb 04, 2026 11:55pm): プライバシー侵害や名誉毀損こうゆう事も考えれんで
-- **西村** (Feb 05, 2026 02:03am): ああ？
-- **西村** (Feb 05, 2026 02:03am): お前らも晒したろか
-- **西村** (Feb 05, 2026 02:03am): 死ねくたばれクソども
-- **Blushing Salmon** (Feb 01, 2026 11:08am): 死ね
-- **Blushing Salmon** (Feb 01, 2026 11:08am): さもなくば殺すぞ
-- **Helpful Tiger** (Feb 05, 2026 02:11am): やってみろやどうせできひんやろ
-- **Helpful Tiger** (Feb 05, 2026 02:12am): こうゆうとこでしかできひんカスが
-- **Helpful Tiger** (Feb 05, 2026 02:13am): 口だけやろ
-- **西村** (Feb 05, 2026 02:49am): 藤山死ね
-- **西村** (Feb 05, 2026 03:01am): 3−4組　西村匡志郎や
-- **あかさタナはマラヤは** (Feb 05, 2026 03:11am): Hello
-- **ASDFGHJ** (Feb 03, 2026 01:25am): 本当に晒していいの？
-- **あかさタナはマラヤは** (Feb 05, 2026 03:17am): There's no point in fighting here
-- **あかさタナはマラヤは** (Feb 05, 2026 03:22am): 警察にちくったらええやん
-- **😊** (Feb 05, 2026 04:57am): お前誰やねんカス
-- **Attentive Ocelot** (Feb 05, 2026 06:31am): 晒すのやめた方がいいと思いますよ
-- **西村** (Feb 05, 2026 10:57am): 誰とはいえないけど本当にごめんなさい
-- **Awesome Kiwi** (Feb 04, 2026 08:43am): Blushing Salmonっていう人が藤山なんちゃらなの？
-- **Awesome Kiwi** (Feb 04, 2026 08:43am): あとこれあんまり晒さない方がいいのじゃないの？
-- **西村** (Feb 05, 2026 10:59am): 藤山　巴留さん本当にごめんなさい🙏🙏🙏🙏
 
 #### Reactions
 - **Upvotes:** 5
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Sep 11, 2025 05:34am
 - **Updated At (UTC):** Dec 06, 2025 11:13am
 
@@ -525,7 +426,7 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Sep 17, 2025 09:50am
 - **Updated At (UTC):** Nov 05, 2025 09:43am
 
@@ -561,7 +462,7 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Oct 29, 2025 10:49am
 - **Updated At (UTC):** Nov 05, 2025 09:46am
 
@@ -582,7 +483,7 @@
 - **Downvotes:** 2
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Oct 29, 2025 11:24am
 - **Updated At (UTC):** Nov 05, 2025 09:45am
 
@@ -590,7 +491,17 @@
 
 ## 達成
 
-### 1. 受付閲覧数14000突破
+### 1. 本部屋閲覧数20000突破！
+**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Feb 06, 2026 01:35am
+- **Updated At (UTC):** Feb 06, 2026 01:35am
+
+---
+
+### 2. 受付閲覧数14000突破
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Reactions
@@ -598,13 +509,13 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Dec 06, 2025 11:09am
 - **Updated At (UTC):** Dec 06, 2025 11:09am
 
 ---
 
-### 2. 本部閲覧数8000突破‼︎
+### 3. 本部閲覧数8000突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Reactions
@@ -612,13 +523,13 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Nov 23, 2025 09:38am
 - **Updated At (UTC):** Nov 23, 2025 09:38am
 
 ---
 
-### 3. 受付閲覧数13000突破‼︎
+### 4. 受付閲覧数13000突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>えぐsぎ</p>
@@ -628,33 +539,33 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Nov 23, 2025 09:37am
 - **Updated At (UTC):** Nov 23, 2025 09:37am
 
 ---
 
-### 4. 受付閲覧数12500突破‼︎
+### 5. 受付閲覧数12500突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Nov 17, 2025 09:11am
 - **Updated At (UTC):** Nov 17, 2025 09:11am
 
 ---
 
-### 5. 本部閲覧数7500突破！
+### 6. 本部閲覧数7500突破！
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Nov 17, 2025 09:11am
 - **Updated At (UTC):** Nov 17, 2025 09:11am
 
 ---
 
-### 6. エロ倉庫閲覧数1000突破‼︎
+### 7. エロ倉庫閲覧数1000突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Comments (4)
@@ -664,33 +575,33 @@
 - **Gentle Kangaroo** (Nov 26, 2025 06:55am): ！
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Nov 06, 2025 04:55am
 - **Updated At (UTC):** Nov 06, 2025 04:55am
 
 ---
 
-### 7. 本部閲覧数6000突破‼︎
+### 8. 本部閲覧数6000突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Nov 01, 2025 10:45am
 - **Updated At (UTC):** Nov 01, 2025 10:45am
 
 ---
 
-### 8. 閲覧数11000突破‼︎
+### 9. 閲覧数11000突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Oct 31, 2025 08:29am
 - **Updated At (UTC):** Nov 01, 2025 10:38am
 
 ---
 
-### 9. 本部閲覧数5000突破‼︎
+### 10. 本部閲覧数5000突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>ｲｲﾈえ！</p>
@@ -703,18 +614,18 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Oct 25, 2025 05:41am
 - **Updated At (UTC):** Oct 25, 2025 05:41am
 
 ---
 
-### 10. 閲覧数1万突破！！！！！！
+### 11. 閲覧数1万突破！！！！！！
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>えぐいてえええええええ</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1770938752&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=axia0D6ANKMKOB3l9vkLF7sxb5u8htE42vR0o4AmMbYqGR7AHEk37%2FTxCzyTF2DlqzWpGxyPsPpDaJlqlvnYgsgqfXXxK7VNDU24bZPOhDPy3z9T8Dkf64NCJAkmtF%2Bitzw%2FCqdFwiQPMxFFd0HYazJmohBv%2Bberptqt82D6g6g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1770948646&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RrUnNI8YvKrl9QZqHYbi3LwKuJOqdxUTvE%2BIiynMls1Tg4b9mrBOGvzo0xE6LfwcfqDX2XzJW58ous2KQzuRihVxFrZwRguykvy%2F0WkprgmmOP2ChWAxXqX50Hm1sZJVbPfxIVz35JeMcgiL%2F%2FROCYy0oKx3sRSD2pepGTBezIQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
 
 #### Comments (3)
 - **いときち** (Oct 29, 2025 10:47am): えぐしゅぎ
@@ -726,13 +637,13 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Oct 18, 2025 07:28am
 - **Updated At (UTC):** Oct 18, 2025 08:28am
 
 ---
 
-### 11. 閲覧数9500突破‼︎
+### 12. 閲覧数9500突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>そろそろ一万‼︎宣伝しまくれ‼︎</p>
@@ -742,13 +653,13 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Oct 12, 2025 01:00am
 - **Updated At (UTC):** Oct 12, 2025 01:00am
 
 ---
 
-### 12. 閲覧数9000突破‼︎
+### 13. 閲覧数9000突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Reactions
@@ -756,13 +667,13 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Oct 07, 2025 12:47am
 - **Updated At (UTC):** Oct 09, 2025 11:17am
 
 ---
 
-### 13. 閲覧数8000突破
+### 14. 閲覧数8000突破
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Reactions
@@ -770,7 +681,7 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Sep 30, 2025 01:32pm
 - **Updated At (UTC):** Oct 09, 2025 11:17am
 
@@ -793,7 +704,7 @@
 - **Downvotes:** 1
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Nov 10, 2025 10:45am
 - **Updated At (UTC):** Nov 10, 2025 10:45am
 
@@ -807,7 +718,7 @@
 [Attachment](https://daifuku-wkt.onrender.com/login)
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Feb 05, 2026 12:31pm
 - **Updated At (UTC):** Feb 05, 2026 12:32pm
 
@@ -819,7 +730,7 @@
 [Attachment](https://mihumihu.ak90.kozow.com/wkt)
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Jan 13, 2026 12:33am
 - **Updated At (UTC):** Jan 13, 2026 12:33am
 
@@ -831,7 +742,7 @@
 [Attachment](https://nana-wkt-05.onrender.com/wkt)
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Jan 13, 2026 12:33am
 - **Updated At (UTC):** Jan 13, 2026 12:33am
 
@@ -843,7 +754,7 @@
 [Attachment](https://wkt-105.onrender.com/wkt)
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Dec 11, 2025 02:35am
 - **Updated At (UTC):** Dec 11, 2025 02:35am
 
@@ -859,7 +770,7 @@
 - **Downvotes:** 0
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Dec 10, 2025 04:54am
 - **Updated At (UTC):** Dec 10, 2025 04:54am
 
@@ -875,7 +786,7 @@
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 05, 2026 12:31pm): いいね
 
 #### Additional Information
-- **Post color:** White
+- **Post color:** Black
 - **Created At (UTC):** Dec 10, 2025 04:51am
 - **Updated At (UTC):** Dec 10, 2025 04:51am
 
