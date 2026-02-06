@@ -1,4 +1,4 @@
-最終更新: 2026/02/05 07:30:15
+最終更新: 2026/02/06 15:57:32
 
 # 荒らし対策室
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 10
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Feb 03, 2026 10:36pm
+- **Updated At (UTC):** Feb 06, 2026 06:47am
 
 ## リンク集
 
@@ -23,7 +23,7 @@
 - **さくとなんだ今も無差別荒らし** (Sep 12, 2025 10:11pm): らしじゃないお
 
 #### Reactions
-- **Upvotes:** 5
+- **Upvotes:** 6
 - **Downvotes:** 3
 
 #### Additional Information
