@@ -1,4 +1,4 @@
-最終更新: 2026/02/06 18:44:33
+最終更新: 2026/02/06 19:41:44
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 06, 2026 05:55am
+- **Updated At (UTC):** Feb 06, 2026 09:57am
 
 ## 受付
 
@@ -20,10 +20,11 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (23)
+#### Comments (24)
 - **削除済みユーザー** (Jan 31, 2026 02:30am): いれて
 - **活動一生停止** (Jan 30, 2026 10:02am): 入れてください
 - **woolisbest** (Feb 01, 2026 08:20am): メアド必須.....
+- **woolisbest** (Feb 06, 2026 09:57am): アクセス権限要求してくれ.....
 - **1** (Jan 31, 2026 01:21pm): 入れてほしいです
 - **削除済みユーザー** (Jan 31, 2026 09:46pm): だって
 - **削除済みユーザー** (Jan 31, 2026 09:46pm): 本物
