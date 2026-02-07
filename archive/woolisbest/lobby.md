@@ -1,4 +1,4 @@
-最終更新: 2026/02/07 07:26:41
+最終更新: 2026/02/07 22:45:07
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 06, 2026 10:10pm
+- **Updated At (UTC):** Feb 07, 2026 01:13pm
 
 ## 受付
 
@@ -20,7 +20,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (25)
+#### Comments (26)
 - **削除済みユーザー** (Jan 31, 2026 02:30am): いれて
 - **活動一生停止** (Jan 30, 2026 10:02am): 入れてください
 - **woolisbest** (Feb 01, 2026 08:20am): メアド必須.....
@@ -46,6 +46,7 @@
 - **かリけー** (Jan 31, 2026 01:31pm): おぬし
 - **削除済みユーザー** (Jan 31, 2026 09:46pm): まえ
 - **削除済みユーザー** (Jan 31, 2026 09:47pm): ハックされて
+- **ウルトラソウル！！！（9時以降にしか来れないよ☆超低浮上なので夜露死苦）** (Feb 07, 2026 12:57pm): 復帰！入れてください神様＜woolisbest様
 
 #### Additional Information
 - **Post color:** Red
@@ -167,7 +168,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (10)
+#### Comments (11)
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
 - **削除済みユーザー** (Jan 23, 2026 12:38pm): した
 - **1** (Jan 31, 2026 01:22pm): しました
@@ -178,6 +179,7 @@
 - **活動一生停止** (Jan 30, 2026 10:02am): しました
 - **woolisbest** (Jan 30, 2026 11:27am): おｋ
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
+- **橘花 | Kiκκα　#青葉のサブ** (Feb 07, 2026 01:14pm): してるよ（今更）
 
 #### Additional Information
 - **Post color:** Red
@@ -222,8 +224,7 @@
 
 [Attachment](https://padlet.com/sakuramoti_modori/home)
 
-#### Comments (2)
-- **橘花 | Kiκκα　#青葉のサブ** (Feb 05, 2026 09:47am): 荒らされてる？
+#### Comments (1)
 - **さくらもち** (Feb 02, 2026 12:01pm): わー
 
 #### Additional Information
