@@ -1,4 +1,4 @@
-最終更新: 2026/02/08 14:04:21
+最終更新: 2026/02/08 15:51:51
 
 # アーカイブ
 
@@ -32,7 +32,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1771131857&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jo3D%2FnaeEyjZOXOmX2Z5%2Falsk1gPjJE3T3b4MNComyCCtGkcNjOk5dZmsz8FAtYyvDBwOQRf1HyKnsVL%2Fqci79Fpb7GYx1mO4%2FxliE5UZYKFnk5zVGbdRdeErJhGgJJU21lb1KkDVD7EYw%2BJIMniDK27210j%2BrLlUwijDj9abdY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1771138305&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bBjyslLoEmExVitP%2F8PYpexhazuh9Wx89nx8hRlJwU2XP9FXKPGCZhyybNFDEY22bM2MuCq9ym3jkpcbmrGoY0dD%2B7G41B%2FWp7w48er4K9kj6mcU3O7UFycAtLSmizwx%2B3IJJ3LBSfaUSOyEiPwB7b5Rft2p0MUtE4YukC%2FK37E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -595,7 +595,7 @@
 ### 3. 俺が全然浮上しなかったのも悪いんだけど俺の部屋の管理者がこいつらだけになってました
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1771131857&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=B7Mg8vPc4ZEk851wQKIRcmrg8w1bA2B9ewwqKyEZajWjdGKHvuPpqIXm8vx3PuI6JRapNIY77XFfKWk882ckeevcaBmf5EhK5nh7N%2FdqICrcGQAnvzQxpxz5BqxmT3yJLIddAGv7Jesz50%2Fz8j%2Btj3rhLs8p9C6gt%2F6uGnRptmA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1771138306&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Pvobvjd5EFTDYBcD6uLS80IRzTgryiIgsTXRSVPesngiwEsU5t6pu9xJBXlnkPONBep7m8VAyDAeTJU9pZaw713EZRlujggq8u6sIinR812HJsWKCcwOoYXbvs9hY6QKZ%2FBvpbZiuD7n%2FmqK5laU6HoEiq4LBQu5RuhTK9RohiE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 15, 2026 10:41pm): 権限をぽんぽん渡しすぎや
@@ -2291,7 +2291,7 @@
 ### 2. アプリをダウンロードする方法教えて下さい　こうなる↓
 **Author:** 水原二平 (r02s14030)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1771131859&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=h4ELaZfdCYYog6z9Cn8cYzK%2F7GFe9Hj5glKZJSradnvy5Y7CoXIgKpQwnvCYKbC5iKVkF3edJ%2BCGYCHZNflxr9YeAgNLJbc6Vjv7LgoMjZ7LnniXZZLdhIOCbx8QBlvOvQKJx8ZWvxAgxLZ4gq8LlYETO1v6MGGinDDdegC6Q5Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1771138309&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2ypJ9wGH7Zp6MX2nmIdB%2B0pHzUlM8bP%2F7BuqGmESwcH32aBxAKntbiYDosgNZpLvLiC8saqiID3ZlRTysUaY5%2B3aYlQzs6oNbcuk%2FUEx4QY1RzvZgAuUJHLeOa8U7gZqqf8KhYde4fdpB6190V06qaocGZ3ofZNNJaxFeN6sglE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
 
 #### Comments (4)
 - **削除済みユーザー** (Jan 29, 2026 01:44pm): かからさんのできない
@@ -2726,7 +2726,7 @@
 
 **投稿の種類:** フィルターに関する相談や質問
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1771131860&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5obkEDMp64xaPs2rDbXLSYpJqOE%2Brnv4qBh524vH%2FdnALLX83M1oaao7j3fDnhO78KhFyM8QsitdidUVuF7fmwWr6ANWZ5g%2FaPRKJO50xX5CZ0a5SnSTxS8hj4GNbgudUKuk2u9mH2Ci94SKHP1SiM2ez31HNHNbBimXGDmbImk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1771138309&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Et3utgjT2k1Mk1wubvvhv%2B634ApkVyk6Dfh5RS%2BC1bYilzk3K7XifDLwAIrcdjWJEPP3KIYjLS5YBIOXYmOPhsboQJ15yKPY0NrfGsIeG7amxxlOe3MQYTRL0GpIQF%2BcWWreYAqBcRc8f1S7hW%2FFpuJlLTKWnx3H6dYs8VSNtrQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -2929,7 +2929,7 @@
 
 <p>先ほどゲームをしてるとフリーズしてしまって、再起動するとフィルタリングが更新されており、さっきまで使えていたサイトが使えなくなってしまいました。</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1771131860&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kW7FwPpgKx1tCeEZLCeEBKOBbFA3zGbEoFD1fvdkDAXJ36%2BgBEj4y92poFKtRZ5dWs5LnY6pCYpS8zEiN2aPJOybT94oti7PC2l%2Fr3QaLibxUO5WQDbtGro7b0seBGZjUcIL8KkEsOPagrW2TVxXynepgsxDqfWrFsUV2IwuSm4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1771138310&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CUEWpXyED19NdoE8mNb6pFdGcQvhYmm%2F6Z5NpkARKnbQN3hnIG%2BMF8%2FUSCSWOVheIkrVmlbWEik3QNCR8Wqp8YP8IDseeQOFqzAm1w%2FmFrIoKsPzabgdVFtcev0lizkFND%2BV0uRTXYPILCr%2FeNxz4QKnIwsdA3kAyUnGE2s1kGg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **Supportive Hummingbird** (Dec 30, 2025 08:28am): すみません...フィルタリングがISGCなんですけど、家のWi-Fiで使った場合って、学校側からもURLとか見れますか？しあtubeやpixivFEで大人の単語とか色々と調べていたのでちょっと不安になってきました。
@@ -2955,7 +2955,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1771131860&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=t1OEcX64V3GeV0S5FaihdcZJzBQSbxf5otTnbY6LaNNtk4CLY2YOjaJVfYz%2FqEWE0mTsRFQkEohCXO2ZLenT2FUKVxbJ6k%2F5uKPMCHa4tZ3%2BGnK0L2x3ikky3Afp0RnaGgY2wH3al04cByG3fFC3I8RVzhaIA0%2F7cxASR%2BYJYeY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1771138310&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bC97ZxKLqnwsBnGLEvbvvE9Eu%2BH3j1uFP%2BKAsuUxv5K5gHnGM0jOrRyatRV9HkroYFalCl9GlE%2Bbuev%2F0ZJ32QFjB4g95ghfxv%2FKnP6LQ%2FTc4GogNdBhzsnVU52uYTt8TGGVQBsLjMQrsjOIVMd1n0MP6dTpUhc3Uo%2FUiec%2FzUU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **πr²(パイアール2)** (Nov 16, 2025 12:08pm): もうネット上に無数にあるし
