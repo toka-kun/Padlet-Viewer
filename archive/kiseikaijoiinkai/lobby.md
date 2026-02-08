@@ -1,4 +1,4 @@
-最終更新: 2026/02/08 20:25:25
+最終更新: 2026/02/08 21:54:24
 
 # 規制解除委員会(臨時本部)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 44
+- **Posts:** 46
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Feb 08, 2026 11:24am
+- **Updated At (UTC):** Feb 08, 2026 12:39pm
 
 ## ルール
 
@@ -18,8 +18,9 @@
 
 <p>・荒らす(なんで来たん⁇)</p><p><br></p><p>・暴言を吐く(ネタと分かるならok)</p><p><br></p><p>・管理者要求(古事記)</p><p><br></p><p>・あとログインしてない奴らで喧嘩すんのうるさいんでおれの信頼がない奴はコメントすらさせない</p>
 
-#### Comments (10)
+#### Comments (11)
 - **ひがん** (Dec 25, 2025 08:25am): ユウチュウブ見れるようにしてください 
+- **白馬から転落の王子様** (Feb 08, 2026 12:16pm): ABEMAがんばれー！
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Jan 13, 2026 11:29pm): ABEMAは厳しいかも...まあやってみる
 - **Jack** (Jan 26, 2026 02:05pm): ABEMAー
 - **ぁ//** (Jan 13, 2026 08:42am): ABEMAです
@@ -46,7 +47,8 @@
 
 <p>中居正広の社会復帰を望む者</p><p><br></p><p>僕(とるっぷい)</p><p><br></p><p>いときち</p>
 
-#### Comments (30)
+#### Comments (31)
+- **白馬から転落の王子様** (Feb 08, 2026 12:05pm): 今開けるかわからないけどyoosfuhlっていうゲームあるよ〜
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 05, 2026 12:34pm): すまん学タブだと厳しいかも
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Jan 13, 2026 11:28pm): 誰に？
 - **高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長       2√3番目のれいなの弟子** (Jan 12, 2026 10:59am): 荒らされるっていう話があった
@@ -96,7 +98,7 @@
 
 <p>とるっぷいが何者かによってBANされた！！！だから、とるっぷいが維持してた規制解除委員会本部部屋やVIP部屋が消えました！！なので、とるっぷい復帰まではここが臨時本部になるんやで。ってことでとるっぷい復帰までは何かあったらいときち(俺)or中居正広に行ってクレメンス。</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1771154724&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Cx5yimjer59XzXeyeFD36Chji6kVyJ1bF9vWtY7%2BXgIvYOQneov9l2mwr%2FCdyPi4GBSbh9S0V3sdwqrTTmLBEsthY3vlzrLgmeo4Sa4szopDiKBFclVSIYVeQa73dagG4fP8FvB5emXF43IenJnuQ46t9LHhSXO8y%2BTnma1Ndwk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1771160063&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yrz11lv8XCyNMyeTPkTcHr3u0wZGFSrq3dQWzTctvaSBw4pOOVy5M5820S2htPdx6mIzZ2BHdieVBqsRD3dqPWP0YhVZIcpbA06BcvKdSR%2BzmfTETt9u4ooCFGgIHJXJOwycu%2B8MFsMHcs%2BmOMBqTjQmXsZ1i4goumkadZAdhMw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
 
 #### Comments (2)
 - **中居** (Jan 09, 2026 11:54am): かなちい
@@ -116,7 +118,7 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1771154724&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LH1pN9bDyRORQZhAZhWRsVlA0tGuSYPwB4H4tsHJoROKkhnSkYr%2F6v9ZVosimXx0AZ89b3orh1EapxeTGNHB6%2F%2BiEThkqaau1srALDA%2BzWZejKXKZHXcMBDBmMVjlOx4VOAXl07KLxornuado47wc9QqU1wfB%2BMMOizCHmNrofo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1771160063&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xapU8t2AkP89YL3ekp8CWrl9et6yiE9Xst4cPZ63VzBIiEEeQ6m%2Ftwi%2Fa0s0IUxAlBmvqwBw%2FsdwSGggLiwTd1um2k0S0mryPcs4hG9Pk%2BZlEmjaxuSY9hYhN%2BCdImf92ceCdAwoECMnSplBdJncwSIXig9TFwIYGP%2BeQAkTZu0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Comments (1)
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 07, 2026 05:36am): suk
@@ -137,7 +139,7 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1771154724&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iV0NrMEgHKlWqLouwpFB8Gz%2FKQfbuNVwcKefX26hAJB3MkEyOOjVlKM03ZHidoAYYQ8MBB1YKJXsBc6kpz6Awn9FzUxGvV%2BVjLe%2FT5MEFXvvoHkQPaR%2FUEN2dzVX1lnL8Pc4tdGWMof41fvUyCegqiRZNBFx4KapDePXl%2B6E2Ew%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1771160063&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AvhYZEzM4soDsOIPqBWrEtOMkWCn3F%2BaiucI%2Bwx%2FtGItGsj85%2FJKZmVi87UYrQmrb70f%2FjoUQf7Lyha2EAS4aP85bt4WLnGrBslkDpNZxIsF%2FoAF1J6P%2B1iBfABnwkbFBSPzQHf%2BFgKqb1ZFLWXT0l2QbOb1WT%2BrvTf7TXvFPlQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Comments (3)
 - **グリーン** (Feb 07, 2026 02:58am): 見れなーい
@@ -202,7 +204,20 @@
 
 ## 連絡
 
-### 1. 11月7日18:02
+### 1. ココアいる？
+**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
+#### Comments (1)
+- **ここあ#伏黒甚爾が推しでシャーペンは、初代パイロットの緑色とかぺんてるのホームランシャーペンなどのいっぱい廃盤したシャーペンを結構持っています！（マウント）最近の趣味はシャーペンを買うこと！それで成績を上げてます！** (Feb 08, 2026 12:37pm): はあい
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Feb 08, 2026 12:36pm
+- **Updated At (UTC):** Feb 08, 2026 12:36pm
+
+---
+
+### 2. 11月7日18:02
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>雑談部屋消したよ。</p>
@@ -217,7 +232,7 @@
 
 ---
 
-### 2. 11月5日18:47
+### 3. 11月5日18:47
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>めっちゃ設定変えた。新規向けだお</p>
@@ -233,7 +248,7 @@
 
 ---
 
-### 3. 10月29日10時頃
+### 4. 10月29日10時頃
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>中居が新わかめ5つ入手‼︎</p>
@@ -249,7 +264,7 @@
 
 ---
 
-### 4. 10月23日15時(頃)
+### 5. 10月23日15時(頃)
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>中居が新わかめ入手‼︎</p>
@@ -261,7 +276,7 @@
 
 ---
 
-### 5. 10月22日18:41分
+### 6. 10月22日18:41分
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>本部を公開コメンターに‼︎</p>
@@ -273,7 +288,7 @@
 
 ---
 
-### 6. 10月21日18:33
+### 7. 10月21日18:33
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>本部に新わかめ、新yuki入荷‼︎</p><p><br/></p>
@@ -285,7 +300,7 @@
 
 ---
 
-### 7. 10月16日9〜10時(頃)
+### 8. 10月16日9〜10時(頃)
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>イケメン部屋復活！？</p>
@@ -301,7 +316,7 @@
 
 ---
 
-### 8. 10月13日22:02分
+### 9. 10月13日22:02分
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>本部の設定変えたお</p>
@@ -317,7 +332,7 @@
 
 ---
 
-### 9. 10月7日20:18分
+### 10. 10月7日20:18分
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>大掃除したお</p><p>ルールとか変わったからよく見てね</p>
@@ -340,13 +355,15 @@
 
 [Attachment](https://padlet.com/tori_tori/padlet-l0rtarjp1pmhbc9r)
 
-#### Comments (9)
+#### Comments (11)
 - **Shy Snail** (Dec 25, 2025 08:25am): それな
+- **猿モンキー** (Feb 08, 2026 12:24pm): 少ないので入ってきてください
 - **あやっさ助樹医相生hjkp＠いjふぢp** (Jan 14, 2026 02:01am): 無理❤️
 - **ぁ//** (Jan 11, 2026 12:52pm): ねー
 - **Playful Narwhal** (Jan 11, 2026 12:52pm): 俺のオカズがもう見れないのか悲しい
 - **Grateful Bison** (Jan 11, 2026 12:52pm): 唯一の希望が、
 - **Attentive Armadillo** (Jan 11, 2026 12:52pm): お願いします！！
+- **猿モンキー** (Feb 08, 2026 12:24pm): https://padlet.com/oniku931184/padlet-rgssrj5ca46e4fev
 - **コアにゃな山あなあd「** (Feb 01, 2026 01:05pm): 草w w w w
 - **Fancy Toad** (Dec 14, 2025 02:58am): 入れない 
 - **あ** (Dec 25, 2025 08:25am): もう1度作れないの？
@@ -410,33 +427,74 @@
 
 [Attachment](https://padlet.com/tori_tori/vip-l3097tpfdsmflii7)
 
-#### Comments (26)
+#### Comments (67)
 - **西村孝太郎** (Feb 08, 2026 09:45am): 明日が楽しみだなーーーどんなことが起こるんだろーーー
 - **Cheerful Aardvark** (Feb 08, 2026 06:01am): おい管理者招待待ちなんだから早くしてくれよあと、この文章絶対に消すなよ
 - **Cheerful Aardvark** (Feb 08, 2026 06:02am): 聞いてるなら返事しろ
 - **西村孝太郎** (Feb 08, 2026 09:18am): っq
+- **アブドゥル（B）ジョナサン一家** (Feb 08, 2026 11:52am): ほー
 - **B** (Feb 08, 2026 11:16am): わさんと西村孝太郎さんあなたたちと冬馬がどんな関係か知らないけど
+- **B** (Feb 08, 2026 12:18pm): 個人情報を許可なく晒すと言うことはその親にも学校にも迷惑かけることになるのよ
 - **B** (Feb 08, 2026 11:21am): え？
+- **あかさたひまやらわ** (Feb 08, 2026 11:30am): なりすましてるとか？
+- **Bは彼岸** (Feb 08, 2026 11:34am): 委員会が同じでって感じ
+- **Bは彼岸** (Feb 08, 2026 11:38am): すいません俺理解力あまりなくて
 - **B** (Feb 08, 2026 11:21am): あと名誉毀損侮辱罪に当たります
 - **ダークネスドラゴン** (Feb 08, 2026 11:24am): しらなーよ
 - **西村孝太郎** (Feb 08, 2026 09:44am): なんで俺が住所や名前をバラすと思う？それは、恨んでいるからだ。よーく考えてみろ自分が何をやったとかをな！！
 - **わ** (Feb 08, 2026 09:52am): バラされてどう？
 - **Bは彼岸** (Feb 08, 2026 11:23am): 冬馬があなたに晒していいって言ってるんですか
 - **Bは彼岸** (Feb 08, 2026 11:24am): じゃあなぜ冬馬は晒していいって言ったの？
+- **Bは彼岸** (Feb 08, 2026 11:27am): 人が多すぎて誰が誰かわからん
+- **Bは彼岸** (Feb 08, 2026 11:28am): まずyfliwさんは誰?
 - **Dapper Shark** (Feb 08, 2026 11:21am): ダメなんですか？許可得てるのに
 - **ダークネスドラゴン** (Feb 08, 2026 11:22am): 揉めないで
+- **アブドゥル（B）ジョナサン一家** (Feb 08, 2026 11:41am): ごめん名前変えた
 - **ダークネスドラゴン** (Feb 08, 2026 11:24am): そんなこと言うてないし
+- **yfliw** (Feb 08, 2026 11:26am): 嘘だって言うてるやん
 - **S** (Feb 08, 2026 08:21am): 何言ってるん?
 - **わ** (Feb 08, 2026 09:51am): 宇津宮冬馬へ津田中学校3年4組5番大阪府枚方市野村中町24−21だよね
+- **Bは彼岸** (Feb 08, 2026 11:25am): Dapper Sharkさんはなんの許可を得ているんですか?
+- **Bは彼岸** (Feb 08, 2026 11:37am): ん？
 - **西村孝太郎** (Feb 08, 2026 09:46am): 入試前なのにごめんねこんなことしちゃってけど、みんなの顔や気持ち入試に落ちてほしくてやってるんだよねーーー邪魔をしたいわけわかるこの気持ち。とてもいい気分になれるんだ。
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Dec 10, 2025 03:19am): フォローしてくれ
+- **yfliw** (Feb 08, 2026 11:26am): 日本語わかる？
+- **あかさたひまやらわ** (Feb 08, 2026 11:30am): それは知りません
+- **あかさたひまやらわ** (Feb 08, 2026 11:29am): その人が西村さんじゃないんでしょうか？
+- **Bは彼岸** (Feb 08, 2026 11:36am): こちらの質問に答えてもらいたいです
+- **背後を見ると** (Feb 08, 2026 12:02pm): コメント荒れてるから晒すのもそれに乗っかるのもやめな？
+- **あかさたひまやらわ** (Feb 08, 2026 11:30am): あなたは誰なんですか？訴えられた人ですか？
+- **あかさたひまやらわ** (Feb 08, 2026 11:32am): 嫌なら大丈夫です
+- **Bは彼岸** (Feb 08, 2026 11:34am): 俺は別学年で
+- **Bは彼岸** (Feb 08, 2026 11:34am): 同じ学年とか?
+- **あかさたひまやらわ** (Feb 08, 2026 11:34am): まぁそうですね
+- **Bは彼岸** (Feb 08, 2026 11:37am): 彼岸が？
+- **Tz** (Feb 08, 2026 11:37am): バウンティというアカウントの名前だった
+- **Bは彼岸** (Feb 08, 2026 11:28am): また人増えた
+- **Tz** (Feb 08, 2026 11:37am): 私がです
+- **Bは彼岸** (Feb 08, 2026 11:36am): あなたは誰ですか?
+- **Bは彼岸** (Feb 08, 2026 11:32am): あなたも晒された人の知り合いですか?
+- **Bは彼岸** (Feb 08, 2026 11:29am): あー
+- **Bは彼岸** (Feb 08, 2026 11:31am): ノー
+- **あかさたひまやらわ** (Feb 08, 2026 11:33am): そんなところです
+- **あかさたひまやらわ** (Feb 08, 2026 11:32am): はい
+- **Bは彼岸** (Feb 08, 2026 11:38am): 誰がバウンティのプレイヤー名なんですか?
+- **HEIIO** (Feb 08, 2026 11:38am): 冬馬さんじゃないですか？
+- **Bは彼岸** (Feb 08, 2026 11:40am): 冬馬がバウンティの名前がん？どゆこと？
+- **アブドゥル（B）ジョナサン一家** (Feb 08, 2026 11:43am): あれ話終わり?
+- **HEIIO** (Feb 08, 2026 11:45am): 終わり
 - **削除済みユーザー** (Feb 05, 2026 01:12pm): ログインもできないクソガキはパドレット開くな腹立たしい
+- **HEIIO** (Feb 08, 2026 11:46am): 😱
 - **卵** (Dec 10, 2025 03:19am): 入れてください！お願いします🙇
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 05, 2026 12:45pm): それはやばいな
 - **yukkuto** (Jan 21, 2026 09:15am): フォローしました
 - **yukkuto** (Jan 21, 2026 09:15am): 入れてください
 - **Cheerful Aardvark** (Feb 08, 2026 05:53am): 藤山へお前のせいでみんなにバレたやんけ。どう落とし前つけてくれるんや💢💢
 - **Dapper Shark** (Feb 08, 2026 11:21am): 許可を得てるんですけど
+- **KADRAF** (Feb 08, 2026 11:27am): ドンマイ
+- **Bは彼岸** (Feb 08, 2026 11:35am): 曜日は1日違うこれで多分冬馬はわかってくれると思う
+- **Bは彼岸** (Feb 08, 2026 11:31am): 晒された人の知り合いです
+- **Bは彼岸** (Feb 08, 2026 11:30am): じゃあ許可得てないって言うことですよね？
 
 #### Reactions
 - **Upvotes:** 5
@@ -672,7 +730,7 @@
 
 <p>えぐいてえええええええ</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1771154725&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XMKGBOb7ZHIVv%2BFtUy2SyzX1JPWUWnnppFdyCHoIjH9V91aUFnWIP%2BUnmP%2F65ZnAjKmFs7yKDt%2B%2FrLXVFS7IneaLcsV4BXRVFOZxKVy%2B3ZuIzo9wmFoMocERXWa5lgA%2BP%2Bc%2ByCLtbGKuC48nAIz9Bkxcwd20iHxm%2FYBl0EzGGyM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1771160064&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Qbif%2F5rURxQI5cEMheV5ur90kZ6%2FM37ttLm%2B36BTzuQQGlRRqvhVSrDXYo0EEdyhwxYKVEY0Ie2nr98DMVhitgb9UDAxXrLrWM2LdovHD181WlN6yYCwENCyJSPr6euhpcOAwnVOlGovjmZNgp8BKshyfUDO7XQnTzHgbcKbs%2Fc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
 
 #### Comments (3)
 - **いときち** (Oct 29, 2025 10:47am): えぐしゅぎ
@@ -736,7 +794,25 @@
 
 ## 雑談
 
-### 1. Post 1
+### 1. ココアいる？
+**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
+#### Comments (6)
+- **ここあ#伏黒甚爾が推しでシャーペンは、初代パイロットの緑色とかぺんてるのホームランシャーペンなどのいっぱい廃盤したシャーペンを結構持っています！（マウント）最近の趣味はシャーペンを買うこと！それで成績を上げてます！** (Feb 08, 2026 12:38pm): 画像を出します（これはうちの顔だからね？）
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 08, 2026 12:38pm): 下のやつ入って
+- **ここあ#伏黒甚爾が推しでシャーペンは、初代パイロットの緑色とかぺんてるのホームランシャーペンなどのいっぱい廃盤したシャーペンを結構持っています！（マウント）最近の趣味はシャーペンを買うこと！それで成績を上げてます！** (Feb 08, 2026 12:36pm): はあい
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 08, 2026 12:37pm): いた
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 08, 2026 12:37pm): ↓の入れる？
+- **ここあ#伏黒甚爾が推しでシャーペンは、初代パイロットの緑色とかぺんてるのホームランシャーペンなどのいっぱい廃盤したシャーペンを結構持っています！（マウント）最近の趣味はシャーペンを買うこと！それで成績を上げてます！** (Feb 08, 2026 12:39pm): はい
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Feb 08, 2026 12:36pm
+- **Updated At (UTC):** Feb 08, 2026 12:36pm
+
+---
+
+### 2. Post 2
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 [Attachment](https://sfu.mirotalk.com/join/aoedo256)
