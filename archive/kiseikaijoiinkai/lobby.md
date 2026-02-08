@@ -1,4 +1,4 @@
-最終更新: 2026/02/08 21:54:24
+最終更新: 2026/02/08 22:47:18
 
 # 規制解除委員会(臨時本部)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 46
+- **Posts:** 47
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Feb 08, 2026 12:39pm
+- **Updated At (UTC):** Feb 08, 2026 01:39pm
 
 ## ルール
 
@@ -98,7 +98,7 @@
 
 <p>とるっぷいが何者かによってBANされた！！！だから、とるっぷいが維持してた規制解除委員会本部部屋やVIP部屋が消えました！！なので、とるっぷい復帰まではここが臨時本部になるんやで。ってことでとるっぷい復帰までは何かあったらいときち(俺)or中居正広に行ってクレメンス。</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1771160063&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yrz11lv8XCyNMyeTPkTcHr3u0wZGFSrq3dQWzTctvaSBw4pOOVy5M5820S2htPdx6mIzZ2BHdieVBqsRD3dqPWP0YhVZIcpbA06BcvKdSR%2BzmfTETt9u4ooCFGgIHJXJOwycu%2B8MFsMHcs%2BmOMBqTjQmXsZ1i4goumkadZAdhMw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1771163236&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5nEbxxFoDLWfFlna%2Fzgd4%2Bjb3lzIyvLPqaP53J59D2zkEc%2Fj8GfHoA%2Bdz9OXZDcRxAOOzDSRtZ0kCfnKaVRVk8vIrFsKxmWPqkb6uMZBa7pV6YJNRocV6yClGsoOv77sn%2Fn4hpYH%2FbSTwdPS9ikcv2xNKn8gWGHPb9WDU3AxrHA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
 
 #### Comments (2)
 - **中居** (Jan 09, 2026 11:54am): かなちい
@@ -118,7 +118,7 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1771160063&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xapU8t2AkP89YL3ekp8CWrl9et6yiE9Xst4cPZ63VzBIiEEeQ6m%2Ftwi%2Fa0s0IUxAlBmvqwBw%2FsdwSGggLiwTd1um2k0S0mryPcs4hG9Pk%2BZlEmjaxuSY9hYhN%2BCdImf92ceCdAwoECMnSplBdJncwSIXig9TFwIYGP%2BeQAkTZu0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1771163237&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ShMe4DB6phryvLnBmgNe6c7%2BIf49yzGrDRki49qVrjpLWJnVkdeI2Xd79o3XfaOUC9WWUkxuvHfAF98Cqre5jg3pTjLpf5Qnu%2Bekg9J8hc5RKByyOTLVCtmRVFJxy6ksYYUmTWNTj%2FMfHlUo4KI1Zwtt0VMyBkGA2MTGCqW1gCU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Comments (1)
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 07, 2026 05:36am): suk
@@ -139,7 +139,7 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1771160063&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AvhYZEzM4soDsOIPqBWrEtOMkWCn3F%2BaiucI%2Bwx%2FtGItGsj85%2FJKZmVi87UYrQmrb70f%2FjoUQf7Lyha2EAS4aP85bt4WLnGrBslkDpNZxIsF%2FoAF1J6P%2B1iBfABnwkbFBSPzQHf%2BFgKqb1ZFLWXT0l2QbOb1WT%2BrvTf7TXvFPlQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1771163237&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DzK2XMj6vf1r9coNFp0b4XQiArIfYD4pdemZdX0FQLMn0z75wDLZpOP%2FiAbe8sW%2B%2FZZuz%2F5zgGxpNAMicS4Xaa4IM20qz%2BJhuhlpbAaMnkuG3zLuyfEV1VUnzh5gBMIlWwGIflUrwWf8lymBbKy8xcHdX8x6ge%2B%2FtWKP1kMG%2Bgg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Comments (3)
 - **グリーン** (Feb 07, 2026 02:58am): 見れなーい
@@ -409,7 +409,7 @@
 
 #### Reactions
 - **Upvotes:** 2
-- **Downvotes:** 3
+- **Downvotes:** 4
 
 #### Additional Information
 - **Post color:** Black
@@ -427,12 +427,13 @@
 
 [Attachment](https://padlet.com/tori_tori/vip-l3097tpfdsmflii7)
 
-#### Comments (67)
+#### Comments (71)
 - **西村孝太郎** (Feb 08, 2026 09:45am): 明日が楽しみだなーーーどんなことが起こるんだろーーー
 - **Cheerful Aardvark** (Feb 08, 2026 06:01am): おい管理者招待待ちなんだから早くしてくれよあと、この文章絶対に消すなよ
 - **Cheerful Aardvark** (Feb 08, 2026 06:02am): 聞いてるなら返事しろ
 - **西村孝太郎** (Feb 08, 2026 09:18am): っq
 - **アブドゥル（B）ジョナサン一家** (Feb 08, 2026 11:52am): ほー
+- **1234567890** (Feb 08, 2026 01:30pm): 西村俺受験合格してる
 - **B** (Feb 08, 2026 11:16am): わさんと西村孝太郎さんあなたたちと冬馬がどんな関係か知らないけど
 - **B** (Feb 08, 2026 12:18pm): 個人情報を許可なく晒すと言うことはその親にも学校にも迷惑かけることになるのよ
 - **B** (Feb 08, 2026 11:21am): え？
@@ -443,6 +444,7 @@
 - **ダークネスドラゴン** (Feb 08, 2026 11:24am): しらなーよ
 - **西村孝太郎** (Feb 08, 2026 09:44am): なんで俺が住所や名前をバラすと思う？それは、恨んでいるからだ。よーく考えてみろ自分が何をやったとかをな！！
 - **わ** (Feb 08, 2026 09:52am): バラされてどう？
+- **慶應義塾大学ニューヨーク学院から色々あって今は早稲田大学系属早稲田渋谷シンガポール校在学中** (Feb 08, 2026 01:24pm): 管理人さんへこいつら多分これから住所の晒し合いになるからもうこのパドレの部屋ごと消すかログインした人のみにするかした方がいいんとちゃいます？
 - **Bは彼岸** (Feb 08, 2026 11:23am): 冬馬があなたに晒していいって言ってるんですか
 - **Bは彼岸** (Feb 08, 2026 11:24am): じゃあなぜ冬馬は晒していいって言ったの？
 - **Bは彼岸** (Feb 08, 2026 11:27am): 人が多すぎて誰が誰かわからん
@@ -495,6 +497,8 @@
 - **Bは彼岸** (Feb 08, 2026 11:35am): 曜日は1日違うこれで多分冬馬はわかってくれると思う
 - **Bは彼岸** (Feb 08, 2026 11:31am): 晒された人の知り合いです
 - **Bは彼岸** (Feb 08, 2026 11:30am): じゃあ許可得てないって言うことですよね？
+- **1234567890** (Feb 08, 2026 01:35pm): Cheerfulさん俺受験合格してまーす
+- **慶應義塾大学ニューヨーク学院から色々あって今は早稲田大学系属早稲田渋谷シンガポール校在学中** (Feb 08, 2026 01:25pm): さすがに住所の晒すのはやばいやろ
 
 #### Reactions
 - **Upvotes:** 5
@@ -730,7 +734,7 @@
 
 <p>えぐいてえええええええ</p>
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1771160064&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Qbif%2F5rURxQI5cEMheV5ur90kZ6%2FM37ttLm%2B36BTzuQQGlRRqvhVSrDXYo0EEdyhwxYKVEY0Ie2nr98DMVhitgb9UDAxXrLrWM2LdovHD181WlN6yYCwENCyJSPr6euhpcOAwnVOlGovjmZNgp8BKshyfUDO7XQnTzHgbcKbs%2Fc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1771163237&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MwHqLl%2FORbgbx6S0A0bJxuSpSfL8KPY%2FRXKwI89iUBg8R2LyHndP3fJTg%2Bf8XgTNo2igwPUViBK1t8eGF6nlTmlja4i8OUrba1tkHjmH6iTAqvWVefMKaTt6fCMKfTo8cZNyECmjmjEceja1bhJ%2BZWlFF3zk4CGrB%2FvuckPL7XM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
 
 #### Comments (3)
 - **いときち** (Oct 29, 2025 10:47am): えぐしゅぎ
@@ -794,7 +798,20 @@
 
 ## 雑談
 
-### 1. ココアいる？
+### 1. ここあどうした
+**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
+#### Comments (1)
+- **ここあ#伏黒甚爾が推しでシャーペンは、初代パイロットの緑色とかぺんてるのホームランシャーペンなどのいっぱい廃盤したシャーペンを結構持っています！（マウント）最近の趣味はシャーペンを買うこと！それで成績を上げてます！** (Feb 08, 2026 01:34pm): なにが
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Feb 08, 2026 01:20pm
+- **Updated At (UTC):** Feb 08, 2026 01:20pm
+
+---
+
+### 2. ココアいる？
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 #### Comments (6)
@@ -812,7 +829,7 @@
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 [Attachment](https://sfu.mirotalk.com/join/aoedo256)

@@ -1,4 +1,4 @@
-最終更新: 2026/02/08 21:53:44
+最終更新: 2026/02/08 22:46:38
 
 # Padletポータルワールド
 
@@ -1634,7 +1634,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771160024&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SqiKrLroc1dyq12BoQvEQ049ncoPV3nrGYDt605spF9WE6eaHeHH1%2BTdU4kNL3sHqd8bZQ17wQJ7x4ooygvjFMGmIgm6WuQszcpP8PHkpE55FJTcQcoNaL5qdxdZOQ6Z5FXCGpRpk%2FxDxl4togVit2UTbziTfx5cuMt3RwB1TP0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771163198&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YT8z79pr1LNgsiZa%2F97ug0PsYK4coqA1ZK4B32tIl87f7gcUdrVmnlolTaG0Wf8JVMYL7ANdCjjBNJEC85CHyg%2FnZLZizWIr2YLa4WHUJez6uoOGy%2FYJYzGRzGvEdsrWKP4ODWhNZPHfVyPsrdCVeda3zg%2FSF9lkBhrk4SBYFzc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
