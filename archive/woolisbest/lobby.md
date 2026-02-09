@@ -1,4 +1,4 @@
-最終更新: 2026/02/09 20:46:47
+最終更新: 2026/02/10 04:13:59
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 09, 2026 10:57am
+- **Updated At (UTC):** Feb 09, 2026 04:41pm
 
 ## 受付
 
@@ -20,7 +20,7 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (30)
+#### Comments (31)
 - **活動一生停止** (Jan 30, 2026 10:02am): 入れてください
 - **꧁༽𝓷𝓮𝓱𝓸𝓼𝓪𝓽𝓪༼꧂** (Jan 31, 2026 10:39am): 入れて
 - **プロキシ大好き** (Jan 30, 2026 11:24am): 入れてください
@@ -51,6 +51,7 @@
 - **あきと** (Feb 08, 2026 07:12pm): できれば管理者無理ならモデレータ
 - **あきと** (Feb 08, 2026 07:12pm): 6718596@oskedu.jp
 - **まくまくごう#ミッフィーの真の姿** (Feb 09, 2026 03:28am): h1218020@hirakata-ky.ed.jp頼む！
+- **あずな~𝒂𝒛𝒖𝒏𝒂~ (元pvp勢)** (Feb 09, 2026 04:41pm): いれてー
 
 #### Additional Information
 - **Post color:** Red
@@ -173,7 +174,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (11)
+#### Comments (12)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -185,6 +186,7 @@
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 04, 2026 03:30pm): したぁ
 - **ごましお** (Feb 06, 2026 10:10pm): した
 - **橘花 | Kiκκα　#青葉のサブ** (Feb 07, 2026 01:14pm): してるよ（今更）
+- **あずな~𝒂𝒛𝒖𝒏𝒂~ (元pvp勢)** (Feb 09, 2026 04:41pm): フォロー済みだよ
 
 #### Additional Information
 - **Post color:** Red
