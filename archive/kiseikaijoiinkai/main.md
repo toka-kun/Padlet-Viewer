@@ -1,4 +1,4 @@
-最終更新: 2026/02/08 00:27:54
+最終更新: 2026/02/09 20:47:11
 
 # 規制解除委員会(本部)
 
@@ -19,7 +19,6 @@
 - **京阪電気鉄道（イケメン信者）chだよ** (Feb 07, 2026 02:33pm): わかめTube全ブロ
 
 #### Additional Information
-- **Post color:** White
 - **Created At (UTC):** Jan 20, 2026 10:52am
 - **Updated At (UTC):** Jan 20, 2026 10:52am
 
@@ -33,7 +32,6 @@
 [Attachment](https://wkt-choco-r0xs.onrender.com/login)
 
 #### Additional Information
-- **Post color:** White
 - **Created At (UTC):** Jan 09, 2026 07:03am
 - **Updated At (UTC):** Jan 11, 2026 12:12pm
 
@@ -45,7 +43,6 @@
 [Attachment](https://wkt-choco-5b1f.onrender.com/login)
 
 #### Additional Information
-- **Post color:** White
 - **Created At (UTC):** Jan 09, 2026 07:04am
 - **Updated At (UTC):** Jan 09, 2026 07:04am
 
@@ -57,7 +54,6 @@
 [Attachment](https://nanawkt-4-5u8c.onrender.com/login)
 
 #### Additional Information
-- **Post color:** White
 - **Created At (UTC):** Jan 10, 2026 07:14am
 - **Updated At (UTC):** Jan 10, 2026 07:15am
 
@@ -69,7 +65,6 @@
 [Attachment](https://sakuwakame.onrender.com/login)
 
 #### Additional Information
-- **Post color:** White
 - **Created At (UTC):** Jan 10, 2026 07:20am
 - **Updated At (UTC):** Jan 10, 2026 07:20am
 
@@ -81,7 +76,6 @@
 [Attachment](https://wkt-h4p6.onrender.com/login)
 
 #### Additional Information
-- **Post color:** White
 - **Created At (UTC):** Jan 10, 2026 07:21am
 - **Updated At (UTC):** Jan 10, 2026 07:21am
 
@@ -95,7 +89,6 @@
 [Attachment](https://yukiiiiiii.onrender.com)
 
 #### Additional Information
-- **Post color:** White
 - **Created At (UTC):** Jan 10, 2026 07:19am
 - **Updated At (UTC):** Jan 10, 2026 07:20am
 
@@ -109,7 +102,6 @@
 [Attachment](https://dbook.docomo.ne.jp)
 
 #### Additional Information
-- **Post color:** White
 - **Created At (UTC):** Jan 09, 2026 07:05am
 - **Updated At (UTC):** Jan 09, 2026 07:05am
 

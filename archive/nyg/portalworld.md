@@ -1,4 +1,4 @@
-最終更新: 2026/02/09 19:04:09
+最終更新: 2026/02/09 20:46:04
 
 # Padletポータルワールド
 
@@ -665,8 +665,8 @@
 [Attachment](https://padlet.com/lomcih/padlet-z2qcvind738yz6el)
 
 #### Comments (2)
-- **ᏁγᎶ » Tøka_Kuŋ_** (May 03, 2025 12:04am): モデレーター権限だけでも荒らしなら消せるし
 - **ᏁγᎶ » Tøka_Kuŋ_** (May 03, 2025 12:04am): 僕に管理人権限くれたら荒らし対策するよ
+- **ᏁγᎶ » Tøka_Kuŋ_** (May 03, 2025 12:04am): モデレーター権限だけでも荒らしなら消せるし
 
 #### Reactions
 - **Number of likes:** 1
@@ -1209,8 +1209,8 @@
 [Attachment](https://padlet.com/padlets/djiy74zs6l7pyzyb)
 
 #### Comments (2)
-- **陸上市内最強(市内だけよ)** (Oct 26, 2025 02:55am): あと管理者数部屋主のみです間違えました
 - **陸上市内最強(市内だけよ)** (Oct 26, 2025 02:54am): 陸上は楽しいぞ
+- **陸上市内最強(市内だけよ)** (Oct 26, 2025 02:55am): あと管理者数部屋主のみです間違えました
 
 #### Additional Information
 - **Post color:** White
@@ -1634,35 +1634,35 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771236249&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=N0pHnj1wF65qVD2Z0JsYJkAjoHt13%2BEUCxRyJ6yxc4%2BSLkMPJtdxJ9pHp23ksTS4vhDA5S9qSCxfIjgniy2l%2FPPgzBME2w65ZlEbj1n3IF6AEwTYT2Ox0iUpg7ZT36PrOjUqEBQ6CW78tVXsK9svbdxiJCFJLlN7bO1yRd6AOmo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771242364&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JX8V9lIzESSCNCXFkWJl8kbeQ3GHy7kNec7fp7Y6O%2BtUEX0cR1fV%2FB1rMW0xVr0o41HRq87MLAjj8kDXISgTkmCqJk9Vx9vmBR%2BClqLkUDDQjE0BTk5ZKCNOcxZYslkpd14syDNM%2F%2B6ZhtB7oVMH9V%2B%2FAHKT1gqA4NoM%2BZPrO7Y%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
-- **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
-- **✿ 🐬𝒮𝒶𝓉𝒶𝓃🐬 ✿** (Sep 04, 2025 11:50pm): こんにちは！よろしくお願いします！
-- **るい** (Oct 07, 2025 10:13am): こんにちは
-- **ᏁγᎶ » Tøka_Kuŋ_** (Oct 07, 2025 10:37am): 右の投稿見た？
-- **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:13pm): 皆にもこの部屋で宣伝するように言って欲しい
-- **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:15pm): ここに宣伝していいんですか？
-- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:32pm): 感謝感謝
-- **Magurock  (偽物や偽投稿など注意)** (Sep 01, 2025 12:31pm): 最初からライターですよ
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
-- **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:18pm): やったー！
+- **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:13pm): 皆にもこの部屋で宣伝するように言って欲しい
 - **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:14pm): 何すればいいですか？
-- **Magurock  (偽物や偽投稿など注意)** (Sep 01, 2025 12:17pm): 誰でも宣伝可ですか?
+- **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:15pm): ここに宣伝していいんですか？
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:15pm): うん
-- **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:17pm): いいですよー
 - **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:16pm): その代わりに宣伝しろと
-- **Magurock  (偽物や偽投稿など注意)** (Sep 01, 2025 12:18pm): 分かりました
+- **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:17pm): いいですよー
+- **Magurock  (偽物や偽投稿など注意)** (Sep 01, 2025 12:17pm): 誰でも宣伝可ですか?
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:17pm): 誰でもOK！
-- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): ありがと！！
-- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:30pm): 俺が一番が良かった....。
-- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): 投稿できないｗ
-- **Magurock  (偽物や偽投稿など注意)** (Sep 01, 2025 12:31pm): [Attachment](https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd/wish/zV61Q6bqloANQO98) 右下のこれ押すと投稿できます
-- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): まぐろくどうやった？
+- **Magurock  (偽物や偽投稿など注意)** (Sep 01, 2025 12:18pm): 分かりました
+- **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:18pm): やったー！
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:30pm): ちょ....ライターください....。
+- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:30pm): 俺が一番が良かった....。
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:30pm): せっかく誘ってもらえたのに...。
+- **Magurock  (偽物や偽投稿など注意)** (Sep 01, 2025 12:31pm): 最初からライターですよ
+- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): 投稿できないｗ
+- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): まぐろくどうやった？
+- **Magurock  (偽物や偽投稿など注意)** (Sep 01, 2025 12:31pm): [Attachment](https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd/wish/zV61Q6bqloANQO98) 右下のこれ押すと投稿できます
+- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): ありがと！！
+- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:32pm): 感謝感謝
+- **✿ 🐬𝒮𝒶𝓉𝒶𝓃🐬 ✿** (Sep 04, 2025 11:50pm): こんにちは！よろしくお願いします！
+- **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
 - **27年2月末迄低浮上のウェザエモン** (Sep 17, 2025 07:47am): 僕の部屋が承認されてません
+- **るい** (Oct 07, 2025 10:13am): こんにちは
 - **るい** (Oct 07, 2025 10:13am): 投稿できません
+- **ᏁγᎶ » Tøka_Kuŋ_** (Oct 07, 2025 10:37am): 右の投稿見た？
 - **るい** (Oct 13, 2025 07:16am): ?
 - **ᏁγᎶ » Tøka_Kuŋ_** (Oct 15, 2025 09:45pm): 投稿フォーム載せてるやん
 
