@@ -1,4 +1,4 @@
-最終更新: 2026/02/10 04:13:59
+最終更新: 2026/02/10 11:32:55
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 09, 2026 04:41pm
+- **Updated At (UTC):** Feb 10, 2026 01:11am
 
 ## 受付
 
@@ -65,10 +65,10 @@
 
 [Attachment](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (93)
+#### Comments (94)
 - **狐うどんの狐(マダタスカル)** (Jan 13, 2026 10:31pm): いれて
-- **ᴎeoᴎӝ ❤️‍🔥 neo_n-.-** (Jan 14, 2026 12:27am): やっとこれた
-- **やあ　#応援歌でブチかませ** (Jan 14, 2026 02:28am):  
+- **ᴎeoᴎӝ ❤️‍🔥 nxyu-.-** (Jan 14, 2026 12:27am): やっとこれた
+- **だいすけどすえ** (Jan 14, 2026 02:28am):  
 - **削除済みユーザー** (Jan 14, 2026 05:52am): うい
 - **しょくぱん** (Jan 14, 2026 06:56am): いれて
 - **woolisbest** (Jan 14, 2026 10:02am): ok
@@ -159,6 +159,7 @@
 - **Happy Meerkat** (Feb 04, 2026 11:04am): はいりたい
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 04, 2026 03:31pm): いれてくれぇ
 - **まくまくごう#ミッフィーの真の姿** (Feb 09, 2026 03:28am): h1218020@hirakata-ky.ed.jp頼む！
+- **ᴎeoᴎӝ ❤️‍🔥sxxdl1ng** (Feb 10, 2026 01:11am): はーい
 
 #### Additional Information
 - **Post color:** Red
