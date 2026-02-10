@@ -1,4 +1,4 @@
-最終更新: 2026/02/10 19:06:15
+最終更新: 2026/02/10 20:51:41
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 4
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 10, 2026 09:05am
+- **Updated At (UTC):** Feb 10, 2026 11:13am
 
 ## 受付
 
@@ -38,7 +38,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (12)
+#### Comments (13)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -51,6 +51,7 @@
 - **ごましお** (Feb 06, 2026 10:10pm): した
 - **橘花 | Kiκκα　#青葉のサブ** (Feb 07, 2026 01:14pm): してるよ（今更）
 - **あずな~𝒂𝒛𝒖𝒏𝒂~ (元pvp勢)** (Feb 09, 2026 04:41pm): フォロー済みだよ
+- **ざれつか** (Feb 10, 2026 11:13am): フォローした　入れておくれ
 
 #### Additional Information
 - **Post color:** Red
