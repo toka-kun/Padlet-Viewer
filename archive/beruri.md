@@ -1,4 +1,4 @@
-最終更新: 2026/02/10 14:05:54
+最終更新: 2026/02/10 16:06:38
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -88,7 +88,7 @@
 
 <p>GAPG_TIBASA</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1771304753&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SISduvjGVtYDyTB2b0iBwiyn%2ByubhurpUPQHZ9YrAhmi038z4Faq5ITmcvGvqa1ESd0ibiGfmn0qMN39kOiq07y2H7ywcAYqOXTRM4LeEiui5uGMbY4qzogTMqgfZEJ5yCmIa50P7sNm8XfQIdefZFaUyl1qwfRU58i3AV0mmEE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1771311997&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=M5pUJXU1IRTCakqlCdpHAtYOaPJRmMdxsVNs0fe%2F2gEA4CoMjGmDZTuE7utzJT4f9bM8j1auND%2FUWKGTkogSHy%2ByR9X7Z6oX8IH88gT7KIE7DnFl6PVmrCjOcZD%2BSGi0VAzfcgaXlorypmw1DYKAoTxuGTAosizZnF%2BmX0qxorw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -146,6 +146,10 @@
 
 ### 1. 宣伝用の部屋を作ります？　ちなみに名前が決まってないので何かあったら参考にします。
 **Author:** INFINITY (nanasisan)
+
+**　締切日11月１日:**
+- **作るべきだ！:** 13 votes
+- **うーん、いらんくね？:** 6 votes
 
 <p><strong>[詳細]</strong></p><p>訪問者は全員ライターです。</p><p><strong>匿名でも宣伝が可能。</strong></p><p>しかし宣伝する量は作る場合の時に決めます</p><p>信頼している方達にはVIPを贈呈します。</p><p>VIPとは、モデです。</p><p>AIの審査がある為、引っかかってしまう場合がありますがその場合は管理者が対応</p>
 
