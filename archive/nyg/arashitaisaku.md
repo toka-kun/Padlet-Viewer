@@ -1,4 +1,4 @@
-最終更新: 2026/02/09 20:46:14
+最終更新: 2026/02/11 22:13:56
 
 # 荒らし対策室
 
@@ -9,14 +9,14 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 10
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Feb 09, 2026 10:47am
+- **Updated At (UTC):** Feb 11, 2026 12:54pm
 
 ## リンク集
 
 ### 1. リンク集
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<p><strong>➥ このリンクを拡散してね</strong></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/ArashiTaisaku">https://padlet.com/Toka_Kun_/ArashiTaisaku</a></p><p><br/></p><p><strong>➥ 姉妹部屋にも来てね</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/Unblocked">プロキシのリンクやYouTubeの閲覧方法を共有する会</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/SSJC">Shell Shockers 集会所</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/PortalWorld">Padletポータルワールド</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Nanachiki/recommendation_games">おすすめゲーム紹介、ゲームの募集所</a></p></li></ul><p><br/></p><p><strong>➥ 他の荒らし対策部屋</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/kcorugaM/magurock-7ue3f76h99omvmbl">Magurockの資料と会議室</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/ESTAcancel/SAVTF">S.A.V.T.F</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/ikiyagare/padlet-ie776w9g4je8nc8a">生きやがれの荒らし記録</a></p></li></ul>
+<p><strong>➥ このリンクを拡散してね</strong></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/ArashiTaisaku">https://padlet.com/Toka_Kun_/ArashiTaisaku</a></p><p><br/></p><p><strong>➥ 姉妹部屋にも来てね</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/Unblocked">プロキシのリンクやYouTubeの閲覧方法を共有する会</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/SSJC">Shell Shockers 集会所</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/PortalWorld">Padletポータルワールド</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Nanachiki/recommendation_games">おすすめゲーム紹介、ゲームの募集所</a></p></li></ul><p><br/></p><p><strong>➥ 他の荒らし対策部屋</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/kcorugaM/magurock-7ue3f76h99omvmbl">Magurockの資料と会議室</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/ESTAcancel/SAVTF">ぐるぐるまっきーのS.A.V.T.F</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/ikiyagare/padlet-ie776w9g4je8nc8a">生きやがれの荒らし記録</a></p></li></ul>
 
 #### Comments (2)
 - **さくとなんだ今も無差別荒らし** (Sep 12, 2025 10:11pm): 俺ああああああああああ
@@ -29,7 +29,7 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** May 31, 2025 12:06pm
-- **Updated At (UTC):** Jan 05, 2026 06:02am
+- **Updated At (UTC):** Feb 11, 2026 12:54pm
 
 ---
 
@@ -109,21 +109,7 @@
 
 ## 保管倉庫①
 
-### 1. げろろん
-**Author:** 削除済みユーザー
-
-#### Reactions
-- **Upvotes:** 0
-- **Downvotes:** 1
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jan 17, 2026 09:04am
-- **Updated At (UTC):** Jan 17, 2026 11:35pm
-
----
-
-### 2. かいと
+### 1. かいと
 **Author:** かいと (HALVES_LOVE)
 
 #### Reactions
@@ -137,7 +123,7 @@
 
 ---
 
-### 3. レイ
+### 2. レイ
 **Author:** レイ　#最近ていふ (rei_ryu)
 
 #### Reactions
@@ -151,7 +137,7 @@
 
 ---
 
-### 4. たたたんこ
+### 3. たたたんこ
 **Author:** たたたんこ (Tatatanko)
 
 #### Reactions
@@ -165,8 +151,10 @@
 
 ---
 
-### 5. キット（偽エドガー）
+### 4. キット
 **Author:** エドガー (edoga125)
+
+<p>偽エドガーなので注意</p>
 
 #### Reactions
 - **Upvotes:** 0
@@ -175,13 +163,27 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Nov 21, 2025 08:07am
-- **Updated At (UTC):** Jan 13, 2026 08:32am
+- **Updated At (UTC):** Feb 11, 2026 12:53pm
 
 ---
 
 ## 保管倉庫② - R.I.P.
 
-### 1. なんで垢バンされてるのおおおおお
+### 1. げろろん
+**Author:** 削除済みユーザー
+
+#### Reactions
+- **Upvotes:** 0
+- **Downvotes:** 1
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 17, 2026 09:04am
+- **Updated At (UTC):** Feb 11, 2026 12:54pm
+
+---
+
+### 2. なんで垢バンされてるのおおおおお
 **Author:** 軽くなれw (KARUKUNAREw)
 
 <p>これは移動だよつまり別のアカウントがあるってこと。</p><p>いずれ復活します</p>
@@ -197,7 +199,7 @@
 
 ---
 
-### 2. あ
+### 3. あ
 **Author:** ぜんた　りおとの一番弟子！ (zenta_nanda)
 
 #### Additional Information

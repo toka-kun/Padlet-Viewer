@@ -1,4 +1,4 @@
-最終更新: 2026/02/11 20:46:26
+最終更新: 2026/02/11 22:14:18
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 4
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 11, 2026 11:34am
+- **Updated At (UTC):** Feb 11, 2026 12:56pm
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (15)
+#### Comments (16)
 - **ᴎeoᴎӝ ❤️‍🔥 nxyu-.-** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -34,6 +34,7 @@
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 11, 2026 08:55am): いれて
 - **チンされたチキン‼（チンチキって呼んでね）** (Feb 11, 2026 09:45am): いれてぇ
 - **はる🎄　#ZENTAと大統領の弟子　まかろんの0.5番弟子　#𝖚𝖕𝖆族8代目** (Feb 11, 2026 11:34am): 入れて
+- **sakuzyo** (Feb 11, 2026 12:35pm): うぇい
 
 #### Additional Information
 - **Post color:** Red
@@ -110,8 +111,9 @@
 
 [Attachment](https://padlet.com/sakuramoti_modori/home)
 
-#### Comments (1)
+#### Comments (2)
 - **さくらもち** (Feb 02, 2026 12:01pm): わー
+- **全ての部屋にコメントする** (Feb 11, 2026 12:56pm): ( ｀・∀・´)ﾉﾖﾛｼｸ
 
 #### Additional Information
 - **Post color:** Blue
