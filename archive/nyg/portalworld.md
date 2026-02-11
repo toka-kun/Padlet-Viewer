@@ -1,4 +1,4 @@
-最終更新: 2026/02/11 08:39:24
+最終更新: 2026/02/11 11:29:44
 
 # Padletポータルワールド
 
@@ -9,14 +9,14 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 76
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Feb 10, 2026 01:56pm
+- **Updated At (UTC):** Feb 11, 2026 01:10am
 
 ## 部屋はこの下のセクションに投稿されます。
 
 ### 1. ↓ここから誰でも簡単に投稿できます！
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<p><strong>自分の部屋を出展して発展させよう！</strong></p>
+<p><strong>↑これを押して自分の部屋を出展しよう！</strong></p>
 
 [Attachment](https://padlet.com/Toka_Kun_/submission-request/k2qlv3RKMKOnX5Rx?section=317262857)
 
@@ -30,7 +30,7 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Oct 03, 2025 04:09am
-- **Updated At (UTC):** Nov 24, 2025 02:26am
+- **Updated At (UTC):** Feb 11, 2026 01:10am
 
 ---
 
@@ -83,7 +83,51 @@
 
 ## Padletポータルワールド
 
-### 1. 打倒Iフィル＆予定
+### 1. 拡散希望！
+**Author:** RX034 (h3005990)
+
+<p>ぜひ僕のプロキシ部屋に入ってください！！！！！！！</p><p>お願いします</p>
+
+**部屋の作成日:** February  7, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 部屋主のみ
+
+**モデレーター数:** 0
+
+[Attachment](https://padlet.com/h3005990/padlet-eefzt92jrjqz8zpq)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 10, 2026 02:23am
+- **Updated At (UTC):** Feb 11, 2026 12:36am
+
+---
+
+### 2. 札幌市教育委員会・ICFS対策本部
+**Author:** 削除済みユーザー (Giveapple)
+
+<p>プロキシのリンクやYouTubeの閲覧方法を共有する会の子会社です</p>
+
+**部屋の作成日:** January 30, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 非公開
+
+**モデレーター数:** 非公開
+
+[Attachment](https://padlet.com/Giveapple/padlet-gtrnqr2nil52rj9f)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 30, 2026 01:42pm
+- **Updated At (UTC):** Feb 11, 2026 12:38am
+
+---
+
+### 3. 打倒Iフィル＆予定
 **Author:** oh my (36Racing)
 
 <p>始めたばかり増える可能性　大</p><p><br/></p>
@@ -105,7 +149,7 @@
 
 ---
 
-### 2. だれでも大歓迎!
+### 4. だれでも大歓迎!
 **Author:** keR (ke_R)
 
 <p>作ったばっかだお（）最初に来てくれた人には管理者?っていうのあげる</p>
@@ -127,8 +171,8 @@
 
 ---
 
-### 3. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
-**Author:** [●ONLINE]🍙𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🍙(・∀・)ﾖﾛｼｸ! (OkakaOnigiri)
+### 5. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
+**Author:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri)
 
 <p>過密にしたい</p><p><br/></p><p>匿名の部屋から普通の雑談部屋まで</p><p>アップデートを重ねて日々機能増加中！</p><p><br/></p><p>ぜひ来てね―</p><p><br/></p><p>※仕様変更により一時的にライター制</p>
 
@@ -142,6 +186,9 @@
 
 [Attachment](https://padlet.com/padlets/vvsqe84ae56v2qab)
 
+#### Comments (1)
+- **[🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ!** (Feb 11, 2026 12:37am): 仕様が戻ったので受付再開しました
+
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Feb 07, 2026 03:56am
@@ -149,29 +196,7 @@
 
 ---
 
-### 4. ベルト底上げ城
-**Author:** Demenigice-hell (Demenigice_hell)
-
-<p>皆さん投稿しまくってベルトを上げましょう！</p><p>部屋が開けるぐらいなら荒らしもOK！</p>
-
-**部屋の作成日:** February  6, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 非公開
-
-**モデレーター数:** 非公開
-
-[Attachment](https://padlet.com/padlets/lw81pu0df1ai9cas)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Feb 06, 2026 05:54am
-- **Updated At (UTC):** Feb 06, 2026 05:54am
-
----
-
-### 5. SHELLのための部屋
+### 6. SHELLのための部屋
 **Author:** Green Mile (GreenMile)
 
 <p>SHELLという卵の戦闘系ゲーム</p><p>についてとことん話す部屋です。</p><p><br/></p>
@@ -193,7 +218,7 @@
 
 ---
 
-### 6. Fortniteブレインロット交換
+### 7. Fortniteブレインロット交換
 **Author:** タピオカパン！！ (r0136496)
 
 <p>Fortnite　or　ROBLOXの交換部屋です。時々配布もします</p>
@@ -217,7 +242,7 @@
 
 ---
 
-### 7. ゆるっと雑談広場
+### 8. ゆるっと雑談広場
 **Author:** Dr.マリオ使い#01 (DoctorMario)
 
 <p>ログインをしなくても大歓迎</p><p>全員ライター</p><p><br/></p>
@@ -236,28 +261,6 @@
 - **Post color:** White
 - **Created At (UTC):** Feb 03, 2026 07:00am
 - **Updated At (UTC):** Feb 03, 2026 07:00am
-
----
-
-### 8. 雑談部屋
-**Author:** nekoピースピース (wao)
-
-<p>僕の部屋全部は仲良くなればと思って作ったものです！！</p>
-
-**部屋の作成日:** January 27, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 0
-
-[Attachment](https://padlet.com/padlets/1fmssy05np87p1bf)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Feb 01, 2026 10:44am
-- **Updated At (UTC):** Feb 06, 2026 03:25am
 
 ---
 
@@ -396,7 +399,7 @@
 ---
 
 ### 15. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
-**Author:** [●ONLINE]🍙𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🍙(・∀・)ﾖﾛｼｸ! (OkakaOnigiri)
+**Author:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri)
 
 <p><strong>ルールを守れば違反しなければ何をしても良い部屋。</strong></p><p><br/></p><p><strong>人がぜんぜんいないので来てね</strong></p><p><strong>雑談しようぜ！</strong></p>
 
@@ -1656,7 +1659,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771371564&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Tcl2Hexs7Uzo3rm1h10qFkEt%2Bq9xw9IPy3iwBI3X29Jnt51%2FgeIIHJuVm%2FyXkloOVEZY8Iu8uYD%2FXLC44sMAmDOdbg1rUTLMyp34UwlEZRYevN0TTinBXUG%2BcwoxeFT1lUJIGGRYJzzcJXd9O2W1rxD6wnBULfPcihcBjBPFSB8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771381784&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zfSNY9KAnO5nVYpNYCOqrGZ3CD4ikAuVLx1jZ0baIKiuz2Pxh5MX1AnbLsXe7kED3zdEgwqAiI5%2BH3YdvVr8nee1TyOEV2iAj07yEllaWyUK%2FE1BteUE7zRtl%2BBgfTMcn7bLiI%2B7qthJIOmYDJSr85GcVUa6Pp6ji2Piq1l4CrI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
