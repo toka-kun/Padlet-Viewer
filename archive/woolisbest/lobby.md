@@ -1,4 +1,4 @@
-最終更新: 2026/02/11 11:30:09
+最終更新: 2026/02/11 14:04:05
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 4
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 11, 2026 02:15am
+- **Updated At (UTC):** Feb 11, 2026 03:30am
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (8)
+#### Comments (9)
 - **ᴎeoᴎӝ ❤️‍🔥 nxyu-.-** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -27,6 +27,7 @@
 - **woolisbest** (Feb 10, 2026 01:11pm): ok
 - **ᴎeoᴎӝ ❤️‍🔥 nxyu-.-** (Feb 10, 2026 02:46pm): はい
 - **狐うどんの狐(マダタスカル)** (Feb 11, 2026 01:52am): はい
+- **橘花 | Kiκκα　#青葉のサブ** (Feb 11, 2026 03:30am): おｋ
 
 #### Additional Information
 - **Post color:** Red
