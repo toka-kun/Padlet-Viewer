@@ -1,4 +1,4 @@
-最終更新: 2026/02/11 16:03:17
+最終更新: 2026/02/11 18:55:37
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 4
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 11, 2026 06:14am
+- **Updated At (UTC):** Feb 11, 2026 09:45am
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (11)
+#### Comments (14)
 - **ᴎeoᴎӝ ❤️‍🔥 nxyu-.-** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -30,6 +30,9 @@
 - **橘花 | Kiκκα　#青葉のサブ** (Feb 11, 2026 03:30am): おｋ
 - **れい** (Feb 11, 2026 06:04am): iretekudase
 - **オムライス** (Feb 11, 2026 06:14am): 入れてください
+- **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 11, 2026 08:55am): irete
+- **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 11, 2026 08:55am): いれて
+- **チンされたチキン‼（チンチキって呼んでね）** (Feb 11, 2026 09:45am): いれてぇ
 
 #### Additional Information
 - **Post color:** Red
@@ -45,7 +48,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (13)
+#### Comments (14)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -59,6 +62,7 @@
 - **橘花 | Kiκκα　#青葉のサブ** (Feb 07, 2026 01:14pm): してるよ（今更）
 - **あずな~𝒂𝒛𝒖𝒏𝒂~ (元pvp勢)** (Feb 09, 2026 04:41pm): フォロー済みだよ
 - **ざれつか** (Feb 10, 2026 11:13am): フォローした　入れておくれ
+- **チンされたチキン‼（チンチキって呼んでね）** (Feb 11, 2026 09:45am): してる
 
 #### Additional Information
 - **Post color:** Red
