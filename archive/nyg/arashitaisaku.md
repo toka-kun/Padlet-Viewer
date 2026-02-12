@@ -1,4 +1,4 @@
-最終更新: 2026/02/11 22:13:56
+最終更新: 2026/02/12 11:25:05
 
 # 荒らし対策室
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 10
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Feb 11, 2026 12:54pm
+- **Updated At (UTC):** Feb 11, 2026 11:34pm
 
 ## リンク集
 
@@ -154,7 +154,7 @@
 ### 4. キット
 **Author:** エドガー (edoga125)
 
-<p>偽エドガーなので注意</p>
+<p><strong>偽エドガーなので注意</strong></p>
 
 #### Reactions
 - **Upvotes:** 0
@@ -163,7 +163,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Nov 21, 2025 08:07am
-- **Updated At (UTC):** Feb 11, 2026 12:53pm
+- **Updated At (UTC):** Feb 11, 2026 11:34pm
 
 ---
 
@@ -183,7 +183,17 @@
 
 ---
 
-### 2. なんで垢バンされてるのおおおおお
+### 2. あ
+**Author:** ぜんた　りおとの一番弟子！ (zenta_nanda)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Nov 23, 2025 01:22am
+- **Updated At (UTC):** Feb 11, 2026 11:34pm
+
+---
+
+### 3. なんで垢バンされてるのおおおおお
 **Author:** 軽くなれw (KARUKUNAREw)
 
 <p>これは移動だよつまり別のアカウントがあるってこと。</p><p>いずれ復活します</p>
@@ -196,15 +206,5 @@
 - **Post color:** White
 - **Created At (UTC):** Sep 29, 2025 12:06pm
 - **Updated At (UTC):** Jan 14, 2026 02:05pm
-
----
-
-### 3. あ
-**Author:** ぜんた　りおとの一番弟子！ (zenta_nanda)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Nov 23, 2025 01:22am
-- **Updated At (UTC):** Jan 14, 2026 11:36am
 
 ---

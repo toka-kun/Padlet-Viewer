@@ -1,4 +1,4 @@
-最終更新: 2026/02/12 08:34:37
+最終更新: 2026/02/12 11:25:43
 
 # 規制解除委員会(臨時本部)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 48
+- **Posts:** 50
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Feb 11, 2026 03:33pm
+- **Updated At (UTC):** Feb 12, 2026 02:20am
 
 ## ルール
 
@@ -18,7 +18,7 @@
 
 <p>俺から一言　ログインしろ</p>
 
-#### Comments (9)
+#### Comments (10)
 - **猿モンキー** (Feb 09, 2026 05:03am): ナイス！
 - **サタン** (Feb 10, 2026 12:25pm): 学タブで見れなくなった
 - **サタン** (Feb 10, 2026 12:26pm): それってログインしてなくてなんもしてない人のことも考えて欲しいです
@@ -26,6 +26,7 @@
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 10, 2026 12:28pm): だから直したやん
 - **Fancy Lobster** (Feb 10, 2026 10:34pm): 消さないでくださいまじでなんもしてない人の気持ちを考えてください
 - **C** (Feb 11, 2026 01:34am): 消して逃げるな
+- **C** (Feb 12, 2026 12:25am): ログインしないとできないようにしたら何もしてない人からしたら最悪のただの自己中になってるから
 - **C** (Feb 11, 2026 01:35am): ログインしてない人からしたらただのゴミサイトで自己中やんけってなってるからな？
 - **Eager Jackrabbit** (Feb 11, 2026 01:36am): ごめんなさい治ってました
 
@@ -121,11 +122,12 @@
 
 <p>とるっぷいが何者かによってBANされた！！！だから、とるっぷいが維持してた規制解除委員会本部部屋やVIP部屋が消えました！！なので、とるっぷい復帰まではここが臨時本部になるんやで。ってことでとるっぷい復帰までは何かあったらいときち(俺)or中居正広に行ってクレメンス。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1771457676&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=l4HnMrMFW0riqq37ctCL%2FWkwhpMWoq50H6ERGYz%2FyiifClu3%2BsHJTGyjsAuQnXb6u3w6GYPmJXl2FfIPf2tAK5%2Fpfe7mDWTangWjDCu2zglCDuWFfvVZGNKK0JVy1trAo78WC4qBTUiDu%2BBQ8%2BkINoRh%2FvMU6d4slmnDsCRVUKA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1771467942&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=07PNFy6satuFkKtdDn2JyatrylUesR5%2FaU5OogZG0KHvAH5V3yPpk7njSNIjiJMp%2F%2F2qgTDe2KKAst0Z3SkkwNqGTJCjI%2F3Wn0ZSjq%2FiZFjzom0Aqq9nLzfxBaqo9IlY4Ohu5ZDUDsGFib8GZO0aAm%2BapEba8mcKbIYJhQyuMXA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
 
-#### Comments (2)
+#### Comments (3)
 - **中居** (Jan 09, 2026 11:54am): かなちい
 - **Invisible Lobster** (Feb 06, 2026 12:57pm): 強敵もおるもんやな
+- **いときち** (Feb 12, 2026 12:36am): とるっぷい復活したらしい
 
 #### Additional Information
 - **Created At (UTC):** Dec 25, 2025 08:32am
@@ -135,12 +137,25 @@
 
 ## Yuki・わかめ
 
-### 1. YukiYouTubeを自動でつくれるアプリ
+### 1. みんなへ朗報
+**Author:** いときち (HONDA_Believer)
+
+<p>学パソ勢、朗報だ。学タブ勢は厳しいかもしれないけど、このサイト使えば履歴に残さず普通のYouTubeとかTikTokとかはもちろんinstagramやXにFANZAやXvideosにアクセスできるサイトを見つけた。エグい。使ってみ。他のツールに戻れなくなるくらい飛ぶぞ。ただ欠点は20分間しか使えない。</p>
+
+[Attachment](https://app.apponfly.com/trial)
+
+#### Additional Information
+- **Created At (UTC):** Feb 12, 2026 12:31am
+- **Updated At (UTC):** Feb 12, 2026 12:36am
+
+---
+
+### 2. YukiYouTubeを自動でつくれるアプリ
 **Author:** いときち (HONDA_Believer)
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1771457676&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Q0Jakixze9mOqfxp9olyy21FESem4EVle0%2BWFACmYHhOgygu7JsePFfB8HskKAROSyUJrYN6crN7wpmRiGrWlQU6rC4XzWRMCKsi5CQpSaGlZ8M8Tr7Z%2BeyOQaLOVgDOFeyXxhA8ieM%2FOSFznJg4Lp2wsMzmRQ%2BjQLz61e0cwPg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1771467942&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1RtKX7GP6KTdBuNvvDduXPwPRsbgagn4ow%2B%2FhYfc29atZR9EdeFj3WinMgebx8aSNiHjwisGsHMd%2BJERbd12TcAYR7jVEWyaGjuKMWDWNgm8G0S%2Fc7mI5P3i3480kgdxGvklo1Nw7s4Jyy8%2FhQHDQr%2FlIui6yIfBH335u%2Bywi%2BE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Comments (1)
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 07, 2026 05:36am): suk
@@ -155,12 +170,12 @@
 
 ---
 
-### 2. YukiYouTubeを自動で作れるアプリのマニュアル
+### 3. YukiYouTubeを自動で作れるアプリのマニュアル
 **Author:** いときち (HONDA_Believer)
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1771457676&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NB44o%2Fzb8ygPC2%2Bm58cqNTPqaMN6s9hdxZjT48KOJro5iDUDAYhdPN7nWmZy%2FoOgA71qrvkHy%2FJKeZfyPUaDmb7rFASZNw5fri816HNTQPu0%2FlrsvhHIHoCNItMtFhInO36RVdzjrLy1bwsJUue6B0kNYx6kDbPew8EZ8pM7C7I%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1771467942&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EPq2Jet3L8%2B1YsFsAAW0iY9UjVVOR6hs1pCJTVExWi4yqseSDDS7XlP9PcpYVasfCXqhoUzz9E83uLGQ9LkfysJWHuSzH%2BSaoKbEuZ2yHUu6GTnZCKQaQft5wzOr01xwX5cCUqUgB8bO0M9YU%2FmdsvzKaFTFujIFuP0vgw7Ix90%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Comments (3)
 - **う〇こガンミ委員会** (Feb 06, 2026 06:03am): https://script.google.com/a/macros/chuo-tky.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
@@ -357,31 +372,16 @@
 
 ## エロ倉庫
 
-### 1. エロ倉庫
-**Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
+### 1. みんなへ朗報
+**Author:** いときち (HONDA_Believer)
 
-[Attachment](https://padlet.com/tori_tori/padlet-l0rtarjp1pmhbc9r)
+<p>学パソ勢、朗報だ。学タブ勢は厳しいかもしれないけど、このサイト使えば履歴に残さず普通のYouTubeとかTikTokとかはもちろんinstagramやXにFANZAやXvideosにアクセスできるサイトを見つけた。エグい。使ってみ。他のツールに戻れなくなるくらい飛ぶぞ。ただ欠点が一つ、20分間しか使えない。20分がすぎると使えなくなる(リロードすればいけるけど、その20分間の間のデータは消滅)</p>
 
-#### Comments (11)
-- **Fancy Toad** (Dec 14, 2025 02:58am): 入れない 
-- **あ** (Dec 25, 2025 08:25am): もう1度作れないの？
-- **Shy Snail** (Dec 25, 2025 08:25am): それな
-- **Grateful Bison** (Jan 11, 2026 12:52pm): 唯一の希望が、
-- **ぁ//** (Jan 11, 2026 12:52pm): ねー
-- **Playful Narwhal** (Jan 11, 2026 12:52pm): 俺のオカズがもう見れないのか悲しい
-- **Attentive Armadillo** (Jan 11, 2026 12:52pm): お願いします！！
-- **あやっさ助樹医相生hjkp＠いjふぢp** (Jan 14, 2026 02:01am): 無理❤️
-- **コアにゃな山あなあd「** (Feb 01, 2026 01:05pm): 草w w w w
-- **猿モンキー** (Feb 08, 2026 12:24pm): https://padlet.com/oniku931184/padlet-rgssrj5ca46e4fev
-- **猿モンキー** (Feb 08, 2026 12:24pm): 少ないので入ってきてください
-
-#### Reactions
-- **Upvotes:** 4
-- **Downvotes:** 0
+[Attachment](https://app.apponfly.com/trial)
 
 #### Additional Information
-- **Created At (UTC):** Nov 01, 2025 10:33am
-- **Updated At (UTC):** Nov 01, 2025 10:33am
+- **Created At (UTC):** Feb 12, 2026 12:30am
+- **Updated At (UTC):** Feb 12, 2026 12:35am
 
 ---
 
@@ -421,6 +421,34 @@
 #### Additional Information
 - **Created At (UTC):** Jan 13, 2026 06:56am
 - **Updated At (UTC):** Jan 14, 2026 04:19am
+
+---
+
+### 3. エロ倉庫
+**Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
+
+[Attachment](https://padlet.com/tori_tori/padlet-l0rtarjp1pmhbc9r)
+
+#### Comments (11)
+- **Fancy Toad** (Dec 14, 2025 02:58am): 入れない 
+- **あ** (Dec 25, 2025 08:25am): もう1度作れないの？
+- **Shy Snail** (Dec 25, 2025 08:25am): それな
+- **Grateful Bison** (Jan 11, 2026 12:52pm): 唯一の希望が、
+- **ぁ//** (Jan 11, 2026 12:52pm): ねー
+- **Playful Narwhal** (Jan 11, 2026 12:52pm): 俺のオカズがもう見れないのか悲しい
+- **Attentive Armadillo** (Jan 11, 2026 12:52pm): お願いします！！
+- **あやっさ助樹医相生hjkp＠いjふぢp** (Jan 14, 2026 02:01am): 無理❤️
+- **コアにゃな山あなあd「** (Feb 01, 2026 01:05pm): 草w w w w
+- **猿モンキー** (Feb 08, 2026 12:24pm): https://padlet.com/oniku931184/padlet-rgssrj5ca46e4fev
+- **猿モンキー** (Feb 08, 2026 12:24pm): 少ないので入ってきてください
+
+#### Reactions
+- **Upvotes:** 4
+- **Downvotes:** 0
+
+#### Additional Information
+- **Created At (UTC):** Nov 01, 2025 10:33am
+- **Updated At (UTC):** Feb 12, 2026 12:31am
 
 ---
 
@@ -511,8 +539,8 @@
 - **Clever Tiger** (Feb 11, 2026 01:01am): 人の住所バラさない方がいい気がする
 - **Clever Tiger** (Feb 11, 2026 01:02am): 入れて
 - **1234567890** (Feb 11, 2026 03:33pm): ここのコメント消しといてくれませんか
-- **1234567890** (Feb 11, 2026 03:33pm): 全部余計な部分
 - **1234567890** (Feb 11, 2026 03:33pm): お願いします
+- **Groovy Hare** (Feb 12, 2026 12:25am): 3-4組7番　奥村　悠木さん死んでもらいませんか？うざいんですよ。理解100点とりやがって。
 
 #### Reactions
 - **Upvotes:** 5
@@ -734,7 +762,7 @@
 
 <p>えぐいてえええええええ</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1771457677&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TlEAdWbdKgzHP07eVJQIP7JttFcznHzVIONRd64LuGlesyv%2F%2BMxCEVwrDC6C5QrsEb%2BbRNUPU5lglaqvhJRXLW3j3t9dqdxAhUb2iiulUBKj4MH8PxGo7J59xKmqXV6x19g89gBHkHnZ6zzLIfitsgcYuXVw79%2BpzmVvmIs5uGI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
+[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1771467943&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Qds2ELHLFK%2FiSG5ujRsj3K95MFwBB0wS9io%2Fa4%2BuJP9ZzYg1xIZQHgdPX1YEr9ua0B26j1Oth2qvrKxjzSbw974VXvsuqqNbfZKie0li9WJzHb3Xl%2BWQd6s%2FvQJGqc1NrVGkE1saRHe2hBuINbL5q83AExsq3D7d5jp%2FjGtH5bQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
 
 #### Comments (3)
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Oct 18, 2025 08:27am): うぉぉぉぉ
