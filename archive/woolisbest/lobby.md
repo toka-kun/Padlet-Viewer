@@ -1,4 +1,4 @@
-最終更新: 2026/02/12 16:53:58
+最終更新: 2026/02/12 22:11:32
 
 # 受付と匿名用
 
@@ -7,13 +7,23 @@
 ## Summary
 - **Link:** https://padlet.com/woolisbest/padlet-99xq7bb7zjzcfzw0
 - **Builder:** woolisbest (woolisbest)
-- **Posts:** 4
+- **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 12, 2026 07:30am
+- **Updated At (UTC):** Feb 12, 2026 11:47am
 
 ## 受付
 
-### 1. 最初からやり直し...
+### 1. アクセス要求して
+**Author:** woolisbest (woolisbest)
+
+#### Additional Information
+- **Post color:** Yellow
+- **Created At (UTC):** Feb 12, 2026 11:47am
+- **Updated At (UTC):** Feb 12, 2026 11:48am
+
+---
+
+### 2. 最初からやり直し...
 **Author:** woolisbest (woolisbest)
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
@@ -41,7 +51,7 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Feb 10, 2026 08:56am
-- **Updated At (UTC):** Feb 10, 2026 09:05am
+- **Updated At (UTC):** Feb 12, 2026 11:45am
 
 ---
 
