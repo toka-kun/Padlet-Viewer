@@ -1,4 +1,4 @@
-最終更新: 2026/02/12 15:09:30
+最終更新: 2026/02/12 16:53:25
 
 # Padletポータルワールド
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 76
+- **Posts:** 77
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Feb 12, 2026 01:11am
+- **Updated At (UTC):** Feb 12, 2026 07:14am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -18,7 +18,7 @@
 
 <p><strong>↑これを押して自分の部屋を出展しよう！</strong></p>
 
-[Attachment](https://padlet.com/Toka_Kun_/submission-request/k2qlv3RKMKOnX5Rx?section=317262857)
+[Attachment 1](https://padlet.com/Toka_Kun_/submission-request/k2qlv3RKMKOnX5Rx?section=317262857)
 
 #### Comments (2)
 - **草** (Oct 29, 2025 07:18am): ？」
@@ -69,7 +69,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/padlets/a8v7cjbbfni702kg)
+[Attachment 1](https://padlet.com/padlets/a8v7cjbbfni702kg)
 
 #### Reactions
 - **Number of likes:** 1
@@ -83,7 +83,31 @@
 
 ## Padletポータルワールド
 
-### 1. 拡散希望！
+### 1. タブレットお悩み事相談所
+**Author:** 일곱 번째 로리콘 (Keroharudayo)
+
+<p>ここではタブレットのサイトの不具合などを解決します。ですが！！！これは表の顔です…本当の目的はタブレットをもっとよりよく自由に使うために、プロキシやゲーム、YouTubeを公開しています。（エロもあるかもね…）てことで、みんなもタブレットを自由に使おーーーーーーーーーーーー！！！！！</p>
+
+**受付部屋のリンク（あれば）:** https://padlet.com/Keroharudayo/padlet-2qtzaxjq3qdiczj9
+
+**部屋の作成日:** February 12, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 非公開
+
+**モデレーター数:** 非公開
+
+[Attachment 1](https://padlet.com/padlets/2qtzaxjq3qdiczj9)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 12, 2026 07:14am
+- **Updated At (UTC):** Feb 12, 2026 07:14am
+
+---
+
+### 2. 拡散希望！
 **Author:** RX034 (h3005990)
 
 <p>ぜひ僕のプロキシ部屋に入ってください！！！！！！！</p><p>お願いします</p>
@@ -96,7 +120,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/h3005990/padlet-eefzt92jrjqz8zpq)
+[Attachment 1](https://padlet.com/h3005990/padlet-eefzt92jrjqz8zpq)
 
 #### Additional Information
 - **Post color:** White
@@ -105,7 +129,7 @@
 
 ---
 
-### 2. 札幌市教育委員会・ICFS対策本部
+### 3. 札幌市教育委員会・ICFS対策本部
 **Author:** 削除済みユーザー (Giveapple)
 
 <p>プロキシのリンクやYouTubeの閲覧方法を共有する会の子会社です</p>
@@ -118,7 +142,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/Giveapple/padlet-gtrnqr2nil52rj9f)
+[Attachment 1](https://padlet.com/Giveapple/padlet-gtrnqr2nil52rj9f)
 
 #### Additional Information
 - **Post color:** White
@@ -127,7 +151,7 @@
 
 ---
 
-### 3. 打倒Iフィル＆予定
+### 4. 打倒Iフィル＆予定
 **Author:** oh my (36Racing)
 
 <p>始めたばかり増える可能性　大</p><p><br/></p>
@@ -140,7 +164,7 @@
 
 **モデレーター数:** 1~4
 
-[Attachment](https://padlet.com/padlets/g0ff51z4uca5776r)
+[Attachment 1](https://padlet.com/padlets/g0ff51z4uca5776r)
 
 #### Additional Information
 - **Post color:** White
@@ -149,7 +173,7 @@
 
 ---
 
-### 4. だれでも大歓迎!
+### 5. だれでも大歓迎!
 **Author:** keR (ke_R)
 
 <p>作ったばっかだお（）最初に来てくれた人には管理者?っていうのあげる</p>
@@ -162,7 +186,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/y4pe00ffxj6qcr9a)
+[Attachment 1](https://padlet.com/padlets/y4pe00ffxj6qcr9a)
 
 #### Additional Information
 - **Post color:** White
@@ -171,7 +195,7 @@
 
 ---
 
-### 5. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
+### 6. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
 **Author:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri)
 
 <p>過密にしたい</p><p><br/></p><p>匿名の部屋から普通の雑談部屋まで</p><p>アップデートを重ねて日々機能増加中！</p><p><br/></p><p>ぜひ来てね―</p><p><br/></p><p>※仕様変更により一時的にライター制</p>
@@ -184,7 +208,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/vvsqe84ae56v2qab)
+[Attachment 1](https://padlet.com/padlets/vvsqe84ae56v2qab)
 
 #### Comments (1)
 - **[🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ!** (Feb 11, 2026 12:37am): 仕様が戻ったので受付再開しました
@@ -196,7 +220,7 @@
 
 ---
 
-### 6. SHELLのための部屋
+### 7. SHELLのための部屋
 **Author:** Green Mile (GreenMile)
 
 <p>SHELLという卵の戦闘系ゲーム</p><p>についてとことん話す部屋です。</p><p><br/></p>
@@ -209,7 +233,7 @@
 
 **モデレーター数:** 10~
 
-[Attachment](https://padlet.com/padlets/9vz9czw0azwzigt9)
+[Attachment 1](https://padlet.com/padlets/9vz9czw0azwzigt9)
 
 #### Additional Information
 - **Post color:** White
@@ -218,7 +242,7 @@
 
 ---
 
-### 7. Fortniteブレインロット交換
+### 8. Fortniteブレインロット交換
 **Author:** タピオカパン！！ (r0136496)
 
 <p>Fortnite　or　ROBLOXの交換部屋です。時々配布もします</p>
@@ -233,7 +257,7 @@
 
 **モデレーター数:** 10~
 
-[Attachment](https://padlet.com/padlets/2mle0znbjoae67s4)
+[Attachment 1](https://padlet.com/padlets/2mle0znbjoae67s4)
 
 #### Additional Information
 - **Post color:** White
@@ -242,7 +266,7 @@
 
 ---
 
-### 8. ゆるっと雑談広場
+### 9. ゆるっと雑談広場
 **Author:** Dr.マリオ使い#01 (DoctorMario)
 
 <p>ログインをしなくても大歓迎</p><p>全員ライター</p><p><br/></p>
@@ -255,7 +279,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/padlets/excl062i8j8jpi9b)
+[Attachment 1](https://padlet.com/padlets/excl062i8j8jpi9b)
 
 #### Additional Information
 - **Post color:** White
@@ -264,7 +288,7 @@
 
 ---
 
-### 9. 荒らしていいよｗ
+### 10. 荒らしていいよｗ
 **Author:** nekoピースピース (wao)
 
 <p>・荒らす人たちにはまず何かの理由があると思うんです、なのでここでストレス発散をして気持ちよくなってもらえばと思いました。</p>
@@ -277,7 +301,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/rqld8jur2vgrktc4)
+[Attachment 1](https://padlet.com/padlets/rqld8jur2vgrktc4)
 
 #### Additional Information
 - **Post color:** White
@@ -286,7 +310,7 @@
 
 ---
 
-### 10. ねこってかわいいよねー
+### 11. ねこってかわいいよねー
 **Author:** nekoピースピース (wao)
 
 <p>みんな仲良くなるために作りました</p>
@@ -299,7 +323,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/padlets/tc790o3zupaf29o4)
+[Attachment 1](https://padlet.com/padlets/tc790o3zupaf29o4)
 
 #### Additional Information
 - **Post color:** White
@@ -308,7 +332,7 @@
 
 ---
 
-### 11. たまご部屋
+### 12. たまご部屋
 **Author:** ぴわを　’復活’ (egghed)
 
 <p>新しくつくりました！主に雑談部屋です🐣</p><p>プロキシやYoutubeゲームなどもあるのでぜひきてください！</p>
@@ -321,7 +345,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/d0oju28hc4jo3kqq)
+[Attachment 1](https://padlet.com/padlets/d0oju28hc4jo3kqq)
 
 #### Additional Information
 - **Post color:** White
@@ -330,7 +354,7 @@
 
 ---
 
-### 12. フリーパドレット部屋
+### 13. フリーパドレット部屋
 **Author:** レッド (s2266013)
 
 <p>自分のパドレット部屋作りました!ぜひ、入ってくださいね</p>
@@ -343,7 +367,7 @@
 
 **モデレーター数:** 10~
 
-[Attachment](https://padlet.com/padlets/7s583obot1u77mdv)
+[Attachment 1](https://padlet.com/padlets/7s583obot1u77mdv)
 
 #### Additional Information
 - **Post color:** White
@@ -352,7 +376,7 @@
 
 ---
 
-### 13. くるくるの雑談部屋の受付と部屋
+### 14. くるくるの雑談部屋の受付と部屋
 **Author:** kurukuru7.09 (kurukuru709)
 
 <p>いい部屋にしたい</p>
@@ -367,7 +391,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/9mcwaov2a26t89s1)
+[Attachment 1](https://padlet.com/padlets/9mcwaov2a26t89s1)
 
 #### Additional Information
 - **Post color:** White
@@ -376,7 +400,7 @@
 
 ---
 
-### 14. きてね
+### 15. きてね
 **Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
 <p>雑談部屋</p><p>過密目指してる</p>
@@ -389,7 +413,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/q1nyb2njrh5kzlq4)
+[Attachment 1](https://padlet.com/padlets/q1nyb2njrh5kzlq4)
 
 #### Additional Information
 - **Post color:** White
@@ -398,7 +422,7 @@
 
 ---
 
-### 15. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
+### 16. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
 **Author:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri)
 
 <p><strong>ルールを守れば違反しなければ何をしても良い部屋。</strong></p><p><br/></p><p><strong>人がぜんぜんいないので来てね</strong></p><p><strong>雑談しようぜ！</strong></p>
@@ -413,7 +437,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/padlets/yvnz8diyxwz55087)
+[Attachment 1](https://padlet.com/padlets/yvnz8diyxwz55087)
 
 #### Additional Information
 - **Post color:** White
@@ -422,7 +446,7 @@
 
 ---
 
-### 16. やっぱ誰でもOK部屋
+### 17. やっぱ誰でもOK部屋
 **Author:** 🍄#りおとの奴隷！最近低浮上 (kinokoyongzhe80)
 
 <p>みんなフレンドリーで受付とかログイン必要にしてるのでセキュリティは十分です。</p>
@@ -437,7 +461,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/bulzpsofhi8e6phj)
+[Attachment 1](https://padlet.com/padlets/bulzpsofhi8e6phj)
 
 #### Comments (1)
 - **🍄#りおとの奴隷！最近低浮上** (Jan 19, 2026 06:30am): みんな来てねー！
@@ -452,7 +476,7 @@
 
 ---
 
-### 17. 隠れてなぼーの秘密のバー
+### 18. 隠れてなぼーの秘密のバー
 **Author:** 隠れてなぼー #ダンガンロンパファン (Kakuretenabo)
 
 <p>雑談部屋です。</p><p>ちょっとした裏部屋があるかも？</p>
@@ -465,7 +489,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/wpvofagyzj8vw4xp)
+[Attachment 1](https://padlet.com/padlets/wpvofagyzj8vw4xp)
 
 #### Additional Information
 - **Post color:** White
@@ -474,7 +498,7 @@
 
 ---
 
-### 18. ブラックリスト
+### 19. ブラックリスト
 **Author:** S&A (SandA_Best_partnars)
 
 <p>ここは僕が荒らしについてまとめたところです。</p><p>でも始まったばかりで情報が少ないので下のリンクに荒らしとかの情報を送ってくれたら嬉しいです</p>
@@ -489,7 +513,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/safrn3ir9j13ahrk)
+[Attachment 1](https://padlet.com/padlets/safrn3ir9j13ahrk)
 
 #### Additional Information
 - **Post color:** White
@@ -498,7 +522,7 @@
 
 ---
 
-### 19. waniの部屋
+### 20. waniの部屋
 **Author:** 削除済みユーザー
 
 <p>みんなで雑談やサイトなどを楽しめる場所だぜぇ</p><p>気軽に浮上してねー</p>
@@ -513,7 +537,7 @@
 
 **モデレーター数:** 1~4
 
-[Attachment](https://padlet.com/padlets/euh4t7tb9apza8ov)
+[Attachment 1](https://padlet.com/padlets/euh4t7tb9apza8ov)
 
 #### Additional Information
 - **Post color:** White
@@ -522,7 +546,7 @@
 
 ---
 
-### 20. woolisbest部屋
+### 21. woolisbest部屋
 **Author:** 削除済みユーザー
 
 <p>・雑談部屋です。</p><p>・旧煮物部屋です。（10/22に受け継ぎました）</p><p>・プロキもシ一応あります（頼んでもらえればいくらでも...）</p><p>・開発者が多いです（お気に入りのサイトを見つけられるかもしれません）</p><p>・毎月一回ほど大きなイベントがあります（プロキシなどの景品あり）</p><p>・最近過疎ってます</p><p>・プロキシ・youtubeサイトなどが欲しい人も来てください</p><p>・規制解除にも力をいれてます</p><p>・chat・meetに常に１人はいるので暇な方はどうぞ</p><p>・Discord版の部屋もあります</p><p>・マイクラ(eaglercraftファイル版）などをやっているときもあります（meet）</p><p>・管理者はもう増やしません</p><p>・モデレーターは増やすかもしれません</p><p>・古参（６人）はもう増やさないつもりです（減ったら募集）</p><p>・準古参（７人）はもう少し増やすつもりです</p><p>・やばいやつが多いです（面白いとも言う）</p><p>・宣伝禁止です（vip宣伝はあり）</p><p>・youtube plusの開発者もいるので要望があれば何でもどうぞ（なんとかします）</p><p>・プロキシがほしい方はこの部屋かプロキシ部屋で言ってください</p><p>・render・cloudflare・render custom domein・vercel・railway・googlesite・GASなどでサイトを作っているので使えるものを言っていただければそれを使います</p>
@@ -537,7 +561,7 @@
 
 **モデレーター数:** 5~9
 
-[Attachment](https://padlet.com/padlets/27h5aidjxevsqd38)
+[Attachment 1](https://padlet.com/padlets/27h5aidjxevsqd38)
 
 #### Additional Information
 - **Post color:** White
@@ -546,7 +570,7 @@
 
 ---
 
-### 21. Demenigiceのゆったり深海
+### 22. Demenigiceのゆったり深海
 **Author:** Demenigice-hell (Demenigice_hell)
 
 <ul><li><p>一度荒らされたので招待制になりました！</p></li><li><p>もとはかなり賑わっていましたが荒らされたので過疎ってます。</p></li><li><p>受付に来てください↓</p></li></ul>
@@ -561,7 +585,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/padlets/jqstna81hmb93vaq)
+[Attachment 1](https://padlet.com/padlets/jqstna81hmb93vaq)
 
 #### Additional Information
 - **Post color:** White
@@ -570,7 +594,7 @@
 
 ---
 
-### 22. chat oasis
+### 23. chat oasis
 **Author:** Dr.マリオ使い#01 (DoctorMario)
 
 <p>YouTubeが見れるサイトなどもあります。荒らし対策もしています</p>
@@ -583,7 +607,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/fbve8yarirf61ny7)
+[Attachment 1](https://padlet.com/padlets/fbve8yarirf61ny7)
 
 #### Additional Information
 - **Post color:** White
@@ -592,7 +616,7 @@
 
 ---
 
-### 23. 脈脈部屋の受付
+### 24. 脈脈部屋の受付
 **Author:** 万博逃亡の脈脈　＃ほぼ引退気味 (Daisannoitidaibeyaninaru)
 
 <p>受付だお　雑談多分タノスィーから来てねぇ</p>
@@ -605,7 +629,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/d8abqjik3scmcqlr)
+[Attachment 1](https://padlet.com/padlets/d8abqjik3scmcqlr)
 
 #### Additional Information
 - **Post color:** White
@@ -614,7 +638,7 @@
 
 ---
 
-### 24. Shell専用部屋
+### 25. Shell専用部屋
 **Author:** あいうえお (gtr35aiueo)
 
 <p>shellshockersやってる人の集まりです</p><p>最近過疎ってるので誰でもいいから入ってください(荒らし目的のやつ除く)</p>
@@ -627,7 +651,7 @@
 
 **モデレーター数:** 1~4
 
-[Attachment](https://padlet.com/padlets/4u77khsot58zwv1e)
+[Attachment 1](https://padlet.com/padlets/4u77khsot58zwv1e)
 
 #### Additional Information
 - **Post color:** White
@@ -636,7 +660,7 @@
 
 ---
 
-### 25. 曇り空
+### 26. 曇り空
 **Author:** proxy (proxy0link)
 
 <p>色々プロキシ</p><p><br/></p>
@@ -649,7 +673,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/2dc8dq8jd66oehrs)
+[Attachment 1](https://padlet.com/padlets/2dc8dq8jd66oehrs)
 
 #### Additional Information
 - **Post color:** White
@@ -658,12 +682,12 @@
 
 ---
 
-### 26. きてーーーーーーーーーー🤣
+### 27. きてーーーーーーーーーー🤣
 **Author:** run (11324130)
 
 <p>あらしだめ❌️</p><p><br></p>
 
-[Attachment](https://padlet.com/padlets/14581bzu81lq98jp)
+[Attachment 1](https://padlet.com/padlets/14581bzu81lq98jp)
 
 #### Additional Information
 - **Post color:** White
@@ -672,10 +696,10 @@
 
 ---
 
-### 27. 来てね
+### 28. 来てね
 **Author:** 削除済みユーザー
 
-[Attachment](https://padlet.com/Rein_bloxd/padlet-y0eb1t6o0m8ht020)
+[Attachment 1](https://padlet.com/Rein_bloxd/padlet-y0eb1t6o0m8ht020)
 
 #### Additional Information
 - **Post color:** White
@@ -684,10 +708,10 @@
 
 ---
 
-### 28. 来てくれよ〜〜〜〜〜
+### 29. 来てくれよ〜〜〜〜〜
 **Author:** 𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ (Helter_Skelter)
 
-[Attachment](https://padlet.com/lomcih/padlet-z2qcvind738yz6el)
+[Attachment 1](https://padlet.com/lomcih/padlet-z2qcvind738yz6el)
 
 #### Comments (2)
 - **ᏁγᎶ » Tøka_Kuŋ_** (May 03, 2025 12:04am): 僕に管理人権限くれたら荒らし対策するよ
@@ -703,10 +727,10 @@
 
 ---
 
-### 29. Post 29
+### 30. Post 30
 **Author:** SUIKA#オムライス界隈（オムライス第1代目弟子） (20183977)
 
-[Attachment](https://padlet.com/20184020_1/padlet-ieqs1l5em0o0uvus)
+[Attachment 1](https://padlet.com/20184020_1/padlet-ieqs1l5em0o0uvus)
 
 #### Additional Information
 - **Post color:** White
@@ -715,10 +739,10 @@
 
 ---
 
-### 30. きてね
+### 31. きてね
 **Author:** 赤い猫 𝕒𝕜𝕒𝕚𝕟𝕖𝕜𝕠 (akaineko)
 
-[Attachment](https://padlet.com/akaineko/makuro-abc-l3nrvclh56l9htvq)
+[Attachment 1](https://padlet.com/akaineko/makuro-abc-l3nrvclh56l9htvq)
 
 #### Additional Information
 - **Post color:** White
@@ -727,10 +751,10 @@
 
 ---
 
-### 31. ここ来てね！
+### 32. ここ来てね！
 **Author:** 村上 (Eitoooooo)
 
-[Attachment](https://zep.us/play/XW0NMG)
+[Attachment 1](https://zep.us/play/XW0NMG)
 
 #### Additional Information
 - **Post color:** White
@@ -739,10 +763,10 @@
 
 ---
 
-### 32. 来てな
+### 33. 来てな
 **Author:** アキラ (8660664)
 
-[Attachment](https://padlet.com/8660664/padlet-nts0cbupmrhpkt9j)
+[Attachment 1](https://padlet.com/8660664/padlet-nts0cbupmrhpkt9j)
 
 #### Additional Information
 - **Post color:** White
@@ -751,10 +775,10 @@
 
 ---
 
-### 33. 来て
+### 34. 来て
 **Author:** まさおくん (6pq2bkf1pk)
 
-[Attachment](https://padlet.com/6pq2bkf1pk/padlet-ftcn9epbe9jlqrnh)
+[Attachment 1](https://padlet.com/6pq2bkf1pk/padlet-ftcn9epbe9jlqrnh)
 
 #### Additional Information
 - **Post color:** White
@@ -763,7 +787,7 @@
 
 ---
 
-### 34. woolisbestのプロキシ部屋
+### 35. woolisbestのプロキシ部屋
 **Author:** 削除済みユーザー
 
 <p>プロキシとゲームしかありません。</p><p>ご注意ください。</p>
@@ -776,7 +800,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/wo6pj5yfmqsue2rh)
+[Attachment 1](https://padlet.com/padlets/wo6pj5yfmqsue2rh)
 
 #### Additional Information
 - **Post color:** White
@@ -785,7 +809,7 @@
 
 ---
 
-### 35. 宣伝部屋
+### 36. 宣伝部屋
 **Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
 <p>宣伝しに来よう</p>
@@ -798,7 +822,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/tbk6yeo7ls21cujl)
+[Attachment 1](https://padlet.com/padlets/tbk6yeo7ls21cujl)
 
 #### Additional Information
 - **Post color:** White
@@ -807,7 +831,7 @@
 
 ---
 
-### 36. Natsu部屋
+### 37. Natsu部屋
 **Author:** Natsu (masayukii0814)
 
 <p>嵐以外来てください</p><p><br/></p>
@@ -820,7 +844,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/padlets/da8ob5eq1mijf8hs)
+[Attachment 1](https://padlet.com/padlets/da8ob5eq1mijf8hs)
 
 #### Additional Information
 - **Post color:** White
@@ -829,7 +853,7 @@
 
 ---
 
-### 37. クリスマス・年末年始雑談部屋in2025→2026
+### 38. クリスマス・年末年始雑談部屋in2025→2026
 **Author:** ぐるぐるまっきー (guruma_cancelESTA)
 
 <p>年末年始・クリスマス専用の雑談部屋！</p><p>エド部屋に基づいた雑談、ピン留め、ミートに加えてイラスト、年末padジャンボ（宝くじ的な何か）、デジタル年賀状などなど年末年始らしいセクションを完備！</p><p><br/></p><p>ちなみにクリスマス雑談部屋も兼ねるのでプレゼント交換も可能！</p><p>これであなたもクリボッチ回避！</p><p>参加者求ム！</p>
@@ -842,7 +866,7 @@
 
 **モデレーター数:** 1~4
 
-[Attachment](https://padlet.com/padlets/x8s4avhy2a14otih)
+[Attachment 1](https://padlet.com/padlets/x8s4avhy2a14otih)
 
 #### Reactions
 - **Number of likes:** 1
@@ -854,7 +878,7 @@
 
 ---
 
-### 38. 雑談の森
+### 39. 雑談の森
 **Author:** いちごみるく˖ . ݁𝜗𝜚. ݁₊ (r0203068_1)
 
 <p>自分の部屋です。まだ人が少ないのでぜひ来てください。(ただし荒らし、脅し、脅迫、下ネタこれらは厳禁です🙏)</p>
@@ -867,7 +891,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/padlets/8oc9kfrxukogovnr)
+[Attachment 1](https://padlet.com/padlets/8oc9kfrxukogovnr)
 
 #### Additional Information
 - **Post color:** White
@@ -876,7 +900,7 @@
 
 ---
 
-### 39. 無法地帯
+### 40. 無法地帯
 **Author:** Natsu (masayukii0814)
 
 <p>　拡散希望！！タメ口で来てねー！まだまだ頑張るぞー!最強雑談ゲームいっぱい部屋ー</p>
@@ -891,7 +915,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/padlets/s78l4vlu8swdmmgi)
+[Attachment 1](https://padlet.com/padlets/s78l4vlu8swdmmgi)
 
 #### Additional Information
 - **Post color:** White
@@ -900,7 +924,7 @@
 
 ---
 
-### 40. なんか部屋
+### 41. なんか部屋
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 <p>雑談でもなんでもやっていって proxy募集中</p>
@@ -913,7 +937,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/hnagtu5suxqufhor)
+[Attachment 1](https://padlet.com/padlets/hnagtu5suxqufhor)
 
 #### Additional Information
 - **Post color:** White
@@ -922,7 +946,7 @@
 
 ---
 
-### 41. Dougaの部屋
+### 42. Dougaの部屋
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 <p>みんなで好きな動画をテキトーに貼り付けてゆっくりしていってね。</p>
@@ -935,7 +959,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/janline_masterspark/douga-5osq7buzii4azz0b)
+[Attachment 1](https://padlet.com/janline_masterspark/douga-5osq7buzii4azz0b)
 
 #### Additional Information
 - **Post color:** White
@@ -944,7 +968,7 @@
 
 ---
 
-### 42. 荒らし以外の何でもしていい部屋
+### 43. 荒らし以外の何でもしていい部屋
 **Author:** 頑張ります (1935111_1)
 
 <p>いろんなこと載せてって</p>
@@ -957,7 +981,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/padlets/eoj7gqzhsvx8sg23)
+[Attachment 1](https://padlet.com/padlets/eoj7gqzhsvx8sg23)
 
 #### Additional Information
 - **Post color:** White
@@ -966,7 +990,7 @@
 
 ---
 
-### 43. GAKUタブ部屋
+### 44. GAKUタブ部屋
 **Author:** GAKU　Cookie Clicker楽し〜 (h29c03086_1)
 
 <p>受付部屋を新しくしたので投稿させてもらいました。</p><p><br/></p><p>過疎ってるんで来て下さい(泣)</p><p>AIRMASHで仲良くしてたらいつの間にかできていた部屋です</p><p>マイクラ、AIRMASHなどでみんなで遊ぶときがあります</p><p>特にAIRMASHのプレイヤー絶対に来てね</p><p>みんな仲良しだよ</p>
@@ -981,7 +1005,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/rqvcymqrl9vxse57)
+[Attachment 1](https://padlet.com/padlets/rqvcymqrl9vxse57)
 
 #### Additional Information
 - **Post color:** White
@@ -990,7 +1014,7 @@
 
 ---
 
-### 44. ざっつだ ~ ん！
+### 45. ざっつだ ~ ん！
 **Author:** すず (suzu_)
 
 <p>自分の雑談部屋です！</p><p>まだ､そこまで人は多くないから､初期からいてくれた人は管理職あげられるかもです‼︎</p><p>人が増えたらプロ棋士とかも増やしてこうと思ってます！</p><p>エロも増やすかも？</p><p>勉強も少しは教えられます？</p><p>まぁ､私が教えられなくても､他のやっさし−人たちがきっと教えてくれる！(((</p><p><br></p><p>暇な人は来てくださいね？？</p><p>暇じゃなくても来てね？？</p>
@@ -1003,7 +1027,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/idgbhxqnznzti9f8)
+[Attachment 1](https://padlet.com/padlets/idgbhxqnznzti9f8)
 
 #### Additional Information
 - **Post color:** White
@@ -1012,7 +1036,7 @@
 
 ---
 
-### 45. ゲーム プロキシ共有部屋   勉強も高校生ぐらいまでなら教えられるよ！
+### 46. ゲーム プロキシ共有部屋   勉強も高校生ぐらいまでなら教えられるよ！
 **Author:** ライオット (sn121248)
 
 <p>遊びも勉強も両方な部屋です 巨大部屋になりたい！</p>
@@ -1025,7 +1049,7 @@
 
 **モデレーター数:** 1~4
 
-[Attachment](https://padlet.com/padlets/pp76jcrpxqzdiu1n)
+[Attachment 1](https://padlet.com/padlets/pp76jcrpxqzdiu1n)
 
 #### Additional Information
 - **Post color:** White
@@ -1034,7 +1058,7 @@
 
 ---
 
-### 46. waniの部屋
+### 47. waniの部屋
 **Author:** 削除済みユーザー
 
 <p>俺の雑談部屋</p><p>いつかはどこよりも人が多い部屋にする</p><p>なんでもしよ</p>
@@ -1049,7 +1073,7 @@
 
 **モデレーター数:** 1~4
 
-[Attachment](https://padlet.com/padlets/euh4t7tb9apza8ov)
+[Attachment 1](https://padlet.com/padlets/euh4t7tb9apza8ov)
 
 #### Additional Information
 - **Post color:** White
@@ -1058,7 +1082,7 @@
 
 ---
 
-### 47. マイクラコード公開部屋
+### 48. マイクラコード公開部屋
 **Author:** GAKU　Cookie Clicker楽し〜 (h29c03086_1)
 
 <p>ただのマイクラ専門部屋じゃない！</p><p>みんなでマイクラをするための部屋！</p>
@@ -1073,7 +1097,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/gkmo1z3tw0uwtusy)
+[Attachment 1](https://padlet.com/padlets/gkmo1z3tw0uwtusy)
 
 #### Additional Information
 - **Post color:** White
@@ -1082,7 +1106,7 @@
 
 ---
 
-### 48. ゲームサイトやプロキシなどの共有広場
+### 49. ゲームサイトやプロキシなどの共有広場
 **Author:** INFINITY (nanasisan)
 
 <p>プロキシ部屋などを多く配布しています。</p><p>最近は荒らし対策に力を入れてます！</p><p>管理者3人とモデ3人で頑張っています現在は</p>
@@ -1095,7 +1119,7 @@
 
 **モデレーター数:** 1~4
 
-[Attachment](https://padlet.com/padlets/zsdegt1d6scuq9qa)
+[Attachment 1](https://padlet.com/padlets/zsdegt1d6scuq9qa)
 
 #### Additional Information
 - **Post color:** White
@@ -1104,7 +1128,7 @@
 
 ---
 
-### 49. こんにちはあ
+### 50. こんにちはあ
 **Author:** tomeeetooo (tomeeetooo)
 
 <p>暇な人は来ましょう</p><p><br/></p>
@@ -1117,7 +1141,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/u9m5fhpnkxvdihvd)
+[Attachment 1](https://padlet.com/padlets/u9m5fhpnkxvdihvd)
 
 #### Additional Information
 - **Post color:** White
@@ -1126,7 +1150,7 @@
 
 ---
 
-### 50. waniの部屋
+### 51. waniの部屋
 **Author:** 削除済みユーザー
 
 <p>みんなで楽しくワイワイ雑談やゲームをしましょう！！</p><p>過度な暴言やグロはやめましょう！</p>
@@ -1139,7 +1163,7 @@
 
 **モデレーター数:** 1~4
 
-[Attachment](https://padlet.com/padlets/euh4t7tb9apza8ov)
+[Attachment 1](https://padlet.com/padlets/euh4t7tb9apza8ov)
 
 #### Additional Information
 - **Post color:** White
@@ -1148,7 +1172,7 @@
 
 ---
 
-### 51. がら空きの部屋
+### 52. がら空きの部屋
 **Author:** 削除済みユーザー
 
 <p>人がいないので増やしたい</p><p>（荒らしとグOとエO禁止）</p>
@@ -1163,7 +1187,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/hrk9373/padlet-owr9an1477vsj7se)
+[Attachment 1](https://padlet.com/hrk9373/padlet-owr9an1477vsj7se)
 
 #### Additional Information
 - **Post color:** White
@@ -1172,7 +1196,7 @@
 
 ---
 
-### 52. a
+### 53. a
 **Author:** 草 (r0404229_2)
 
 <p>a</p>
@@ -1185,7 +1209,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/f0dlzecds36mvsgf)
+[Attachment 1](https://padlet.com/padlets/f0dlzecds36mvsgf)
 
 #### Additional Information
 - **Post color:** White
@@ -1194,7 +1218,7 @@
 
 ---
 
-### 53. Sphere lobby
+### 54. Sphere lobby
 **Author:** ぐるぐるまっきー (guruma_cancelESTA)
 
 <p>雑談部屋からゲーム部屋、荒らし対策まで様々な領域を網羅！</p><p>絶対来てね〜</p>
@@ -1207,7 +1231,7 @@
 
 **モデレーター数:** 1~4
 
-[Attachment](https://padlet.com/padlets/bs84adfvbao6tgpu)
+[Attachment 1](https://padlet.com/padlets/bs84adfvbao6tgpu)
 
 #### Additional Information
 - **Post color:** White
@@ -1216,7 +1240,7 @@
 
 ---
 
-### 54. 陸上やってる人集合
+### 55. 陸上やってる人集合
 **Author:** 陸上市内最強(市内だけよ) (kowkid)
 
 <p>陸上やってる人達でいろんな話をします！！</p>
@@ -1231,7 +1255,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/djiy74zs6l7pyzyb)
+[Attachment 1](https://padlet.com/padlets/djiy74zs6l7pyzyb)
 
 #### Comments (2)
 - **陸上市内最強(市内だけよ)** (Oct 26, 2025 02:54am): 陸上は楽しいぞ
@@ -1244,7 +1268,7 @@
 
 ---
 
-### 55. プロキシ倉庫
+### 56. プロキシ倉庫
 **Author:** オムライス (omurais)
 
 <p>プロキシを貼っています</p>
@@ -1257,7 +1281,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/k1qx7zyg2nq669yf)
+[Attachment 1](https://padlet.com/padlets/k1qx7zyg2nq669yf)
 
 #### Additional Information
 - **Post color:** White
@@ -1266,7 +1290,7 @@
 
 ---
 
-### 56. 第一回冬休みコラ画コンテストの実行委員受付部屋
+### 57. 第一回冬休みコラ画コンテストの実行委員受付部屋
 **Author:** ぐるぐるまっきー (guruma_cancelESTA)
 
 <p>全員強制参加です（）</p><p>来てね〜</p>
@@ -1279,7 +1303,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/pikamannsakuramotinojuuboku/padlet-y1l4hf2ntbxh9byo)
+[Attachment 1](https://padlet.com/pikamannsakuramotinojuuboku/padlet-y1l4hf2ntbxh9byo)
 
 #### Additional Information
 - **Post color:** White
@@ -1288,7 +1312,7 @@
 
 ---
 
-### 57. エ◯部屋のリンクもあるよ！3週間で閲覧数20000を達成した部屋！
+### 58. エ◯部屋のリンクもあるよ！3週間で閲覧数20000を達成した部屋！
 **Author:** EDOdesu運営垢 (edodesu)
 
 <p>人めっちゃいるよ（マジで）</p>
@@ -1301,7 +1325,7 @@
 
 **モデレーター数:** 1~4
 
-[Attachment](https://padlet.com/edogakasu/padlet-lkdb9yj8lkuenib4)
+[Attachment 1](https://padlet.com/edogakasu/padlet-lkdb9yj8lkuenib4)
 
 #### Additional Information
 - **Post color:** White
@@ -1310,7 +1334,7 @@
 
 ---
 
-### 58. 俺と話したいやつきて
+### 59. 俺と話したいやつきて
 **Author:** いさみ (gaiji1919)
 
 <p>とくにない</p>
@@ -1325,7 +1349,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/Isami0314/isami)
+[Attachment 1](https://padlet.com/Isami0314/isami)
 
 #### Additional Information
 - **Post color:** White
@@ -1334,7 +1358,7 @@
 
 ---
 
-### 59. 《S.A.V.T.F》Sphere Anti-Vandalism Task Force
+### 60. 《S.A.V.T.F》Sphere Anti-Vandalism Task Force
 **Author:** Guruma_sub (ESTAcancel)
 
 <p>日本最大級の荒らし対策部屋を目指している部屋。</p><p>荒らし対策、荒らし保存に特化したセクション、投稿フィールド。</p><p><br/></p>
@@ -1349,7 +1373,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/padlets/2atoqwqofs8s7m34)
+[Attachment 1](https://padlet.com/padlets/2atoqwqofs8s7m34)
 
 #### Additional Information
 - **Post color:** White
@@ -1358,7 +1382,7 @@
 
 ---
 
-### 60. 規制回避したい人集まってー
+### 61. 規制回避したい人集まってー
 **Author:** sashasu11127
 
 <p>最近作ったんで入ってくださーい</p><p>今なら条件満たせば管理者あげます</p>
@@ -1371,7 +1395,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/hyexb6fzjcmulyiq)
+[Attachment 1](https://padlet.com/padlets/hyexb6fzjcmulyiq)
 
 #### Additional Information
 - **Post color:** White
@@ -1380,7 +1404,7 @@
 
 ---
 
-### 61. 昆布おにぎりの部屋
+### 62. 昆布おにぎりの部屋
 **Author:** Re Ball Bar クッキー　やったー民　＃猫信者　第四使徒　元(略して ん部ぎ ) (akymjxm)
 
 <p>人が少ないから民度がいい</p><p>みんなで仲良く話せる空間です</p><p>プロキシもあるよ</p>
@@ -1395,7 +1419,7 @@
 
 **モデレーター数:** 1~4
 
-[Attachment](https://padlet.com/akymjxm/padlet-f1xoihs8p246o5nq)
+[Attachment 1](https://padlet.com/akymjxm/padlet-f1xoihs8p246o5nq)
 
 #### Additional Information
 - **Post color:** White
@@ -1404,7 +1428,7 @@
 
 ---
 
-### 62. かめかめ合衆国
+### 63. かめかめ合衆国
 **Author:** 削除済みユーザー
 
 <p>まだ作ったばかりなので人はいないけど、　みんなと楽しく話せる部屋を作っていきたいです。</p><p>みんな来てね</p>
@@ -1417,7 +1441,7 @@
 
 **モデレーター数:** 5~9
 
-[Attachment](https://padlet.com/padlets/uzakb6pniidum2lg)
+[Attachment 1](https://padlet.com/padlets/uzakb6pniidum2lg)
 
 #### Additional Information
 - **Post color:** White
@@ -1426,7 +1450,7 @@
 
 ---
 
-### 63. ピカマンの部屋4代目です。
+### 64. ピカマンの部屋4代目です。
 **Author:** ピカマン#究極のさくらもちの従僕#煮物貢献者#煮物様の3番弟子#かしわもちうまっ#無法地帯最高！ (pikamannsakuramotinojuuboku)
 
 <p>悲しいことに乗っ取り犯にまたアカウントを乗っ取られてしまい、早急にリメイクした部屋となっています。(ちなみに乗っ取り犯は有名な方でした。もし、その人からもらったパドレットのアカウントだと、ある程度した後にパスワードが変更されて操作できなくなるかもしれませんw www。もしかしたらあなたもその1人かも・・・)私自身はパドレットのアカウントがあればしぶとく永遠に生き続けるので応援よろしくお願いします。</p>
@@ -1441,7 +1465,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/padlets/f35osupyezypvm5y)
+[Attachment 1](https://padlet.com/padlets/f35osupyezypvm5y)
 
 #### Additional Information
 - **Post color:** White
@@ -1450,7 +1474,7 @@
 
 ---
 
-### 64. 視聴部屋
+### 65. 視聴部屋
 **Author:** 𝓶𝓪𝓴𝓪𝓻𝓸𝓷𝓲　＃ ＠低浮上 (3232333301099710797114111110105)
 
 <ul><li><p>色々な動画や、曲、歌などがある部屋です！</p></li><li><p>動画などのダウンロード可能です！(送信主から無断で入手は禁止です。</p></li><li><p>誰でも歓迎！</p></li></ul>
@@ -1463,7 +1487,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/Sora2111/padlet-odtanb9lyfsyoitc)
+[Attachment 1](https://padlet.com/Sora2111/padlet-odtanb9lyfsyoitc)
 
 #### Additional Information
 - **Post color:** White
@@ -1472,7 +1496,7 @@
 
 ---
 
-### 65. 雑談とか色々!閲覧16000達成!
+### 66. 雑談とか色々!閲覧16000達成!
 **Author:** Magurock  (偽物や偽投稿など注意) (Magurock)
 
 <ul><li><p><mark>閲覧16000回達成</mark>した部屋（みんなの広場）がある!</p></li><li><p>雑談、規制回避、Minecraft鯖、荒らし対策など<mark>色々ある!</mark></p></li><li><p><mark>どんな人でも大歓迎!</mark>（さすがにルール違反する人以外）</p></li></ul>
@@ -1487,7 +1511,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/padlets/v7eblregk0t2eq0k)
+[Attachment 1](https://padlet.com/padlets/v7eblregk0t2eq0k)
 
 #### Additional Information
 - **Post color:** White
@@ -1496,7 +1520,7 @@
 
 ---
 
-### 66. みんなの雑談コーナー
+### 67. みんなの雑談コーナー
 **Author:** Gogogo (Opppppppppp)
 
 <p>雑談だけじゃなく他もゲームとか色々あります今きたら古参です！</p><p>楽しいのできてください！</p>
@@ -1509,7 +1533,7 @@
 
 **モデレーター数:** 1~4
 
-[Attachment](https://padlet.com/comkae/padlet-xaktzo0y57usd57w)
+[Attachment 1](https://padlet.com/comkae/padlet-xaktzo0y57usd57w)
 
 #### Additional Information
 - **Post color:** White
@@ -1518,7 +1542,7 @@
 
 ---
 
-### 67. イベント開催中！！来いよ！
+### 68. イベント開催中！！来いよ！
 **Author:** 玲霧 (zupdep)
 
 <p>現在イベント開催中！！最近まじで人増やしたいからきてほしい！</p>
@@ -1531,7 +1555,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/zupdep/padlet-nfv4modo85bph3x2)
+[Attachment 1](https://padlet.com/zupdep/padlet-nfv4modo85bph3x2)
 
 #### Additional Information
 - **Post color:** White
@@ -1540,7 +1564,7 @@
 
 ---
 
-### 68. 誠意大将軍の雑談部屋
+### 69. 誠意大将軍の雑談部屋
 **Author:** 27年2月末迄低浮上のウェザエモン (masakik)
 
 <p>僕の部屋ではみんなが雑談している部屋にしたいです。</p><p>只今無料開放中です！ライター権限の申請は必要ありません！</p><p>※部屋で投稿やコメントした時点でコラボレーター入りさせていただきます。</p><p>また、今なら高頻度の浮上ができる人のみ希望者はモデ・管理者権限を付与できます！</p><p>ぜひ来てね～</p>
@@ -1555,7 +1579,7 @@
 
 **モデレーター数:** 5~9
 
-[Attachment](https://padlet.com/padlets/o83gvlbplgnwof2f)
+[Attachment 1](https://padlet.com/padlets/o83gvlbplgnwof2f)
 
 #### Additional Information
 - **Post color:** White
@@ -1564,7 +1588,7 @@
 
 ---
 
-### 69. 猫大好きな人の部屋＆スプラ好きの部屋
+### 70. 猫大好きな人の部屋＆スプラ好きの部屋
 **Author:** ねこ缶マスター (ZRXARS)
 
 <p>受付部屋です</p><p>猫好きな人の雑談部屋とスプラ好きな人といっしょにイベントとかをやる部屋です</p><p>閲覧数は2つの部屋合わせても300ぐらいです（だから来てね）</p>
@@ -1577,7 +1601,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/kuys34tn1xtgxrba)
+[Attachment 1](https://padlet.com/padlets/kuys34tn1xtgxrba)
 
 #### Additional Information
 - **Post color:** White
@@ -1586,7 +1610,7 @@
 
 ---
 
-### 70. パンダの雑談部屋
+### 71. パンダの雑談部屋
 **Author:** パンダ (pannda)
 
 <p>とっても過疎いです</p><p>でも、頑張ってプロキシを増やそうとしているので入ってほしいです</p>
@@ -1599,7 +1623,7 @@
 
 **モデレーター数:** 0
 
-[Attachment](https://padlet.com/padlets/xrmohgjou0th381x)
+[Attachment 1](https://padlet.com/padlets/xrmohgjou0th381x)
 
 #### Additional Information
 - **Post color:** White
@@ -1608,7 +1632,7 @@
 
 ---
 
-### 71. ネギ部屋
+### 72. ネギ部屋
 **Author:** ネギ (dfjk2458)
 
 <p>正直あんま人いないけど楽しいところではある　これといったいいとこはないけど楽しい部屋</p>
@@ -1623,7 +1647,7 @@
 
 **モデレーター数:** 5~9
 
-[Attachment](https://padlet.com/padlets/6aj8ky496snsm49r)
+[Attachment 1](https://padlet.com/padlets/6aj8ky496snsm49r)
 
 #### Additional Information
 - **Post color:** White
@@ -1632,7 +1656,7 @@
 
 ---
 
-### 72. 今ならイベントもやってるよ！要望にも答えるのでぜひ来てね！
+### 73. 今ならイベントもやってるよ！要望にも答えるのでぜひ来てね！
 **Author:** 玲霧 (zupdep)
 
 <p>部屋の閲覧数もっと低いです！なのでめっちゃ来てほしいです！</p><p><br></p>
@@ -1645,7 +1669,7 @@
 
 **モデレーター数:** 非公開
 
-[Attachment](https://padlet.com/zupdep/padlet-nfv4modo85bph3x2)
+[Attachment 1](https://padlet.com/zupdep/padlet-nfv4modo85bph3x2)
 
 #### Additional Information
 - **Post color:** White
@@ -1659,7 +1683,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771481370&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KJD%2B2aXk1niSFhy4CnetIYjXWvWRdvW9aCQTAg%2FZDuvyJc3GGVNqzsKBoIxGJ0FuDe0mkrqfB%2B2whr%2BCdf%2BUGbsr1QY4V4Lsljgfr6btP5u8wRp3HhHxImBC9iaglVooIQBPkj83ITE4V97ozQ%2BZx98ByZQtLmAfb11uT7bn3JQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771487605&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=a5hqz8X3VXLsv41UOe9T4g5v9aVdfZhuQCs4BGcbdHMeDgYkajHkZLxUUxXvJSSjn9vBG7bcLC4Cpwu%2F%2BlUCCQHCLNbH81GylTxA%2Fy%2B0oC24naffW8mDxX5R1yYkZDLWTqJ0aRFWnHGCXfCLJAQTG7NOjjre7lOGK%2BPxmBvh7o4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて

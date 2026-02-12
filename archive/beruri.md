@@ -1,4 +1,4 @@
-最終更新: 2026/02/12 15:10:39
+最終更新: 2026/02/12 16:54:44
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -88,7 +88,7 @@
 
 <p>GAPG_TIBASA</p>
 
-[Attachment](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1771481439&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=R%2FkkVHQVRt5QrQ8PMKcZyB4fwV5YRkNWu5Eoi5RCvXK6r2NRwRr9SAS75dSU4n0janrQjJgiEm4rRe6FVQG5bQvESqEbRF63zo9n%2BTsIz%2FDuyh15ddlw7kmnAWvgEWuov3fLnfQ1u1BTm48EG91oXD1IPyrG5hm5FeLEryP7B3A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1771487683&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=th9itOf8nqXHVLcN1xttEs6JAZ1QNWTUL662qry0jUT4aQfxDKomxAddJWlNPDhq%2FL7YMZTn8JpBIOf3MsmBD%2BbwZzvkKaeDaz2DuLjYDcY8dS3XYbZ65cPKOZMSn4qOCcSWTK1YSNXBHNAX%2BvjvR5ruMk1hgOdsrX5UC0j4MS8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -153,8 +153,6 @@
 
 <p><strong>[詳細]</strong></p><p>訪問者は全員ライターです。</p><p><strong>匿名でも宣伝が可能。</strong></p><p>しかし宣伝する量は作る場合の時に決めます</p><p>信頼している方達にはVIPを贈呈します。</p><p>VIPとは、モデです。</p><p>AIの審査がある為、引っかかってしまう場合がありますがその場合は管理者が対応</p>
 
-[Attachment](https://padlet.com/BERURI1214/padlet-zsdegt1d6scuq9qa/wish/lkROZPAN358NWjMg)
-
 #### Additional Information
 - **Post color:** Yellow
 - **Created At (UTC):** Oct 30, 2025 07:05am
@@ -195,7 +193,7 @@
 ### 1. Post 1
 **Author:** 太古の太鼓~1853 Brainrot (BERURI1214)
 
-[Attachment](https://qm2xzh.csb.app/)
+[Attachment 1](https://qm2xzh.csb.app/)
 
 #### Comments (8)
 - **太古の太鼓~1853 Brainrot** (Jan 11, 2026 08:37am): これならどうだっ
@@ -227,7 +225,7 @@
 ### 3. プロキシ見つけた
 **Author:** 太古の太鼓~1853 Brainrot (BERURI1214)
 
-[Attachment](https://solocentral.lol/)
+[Attachment 1](https://solocentral.lol/)
 
 #### Comments (5)
 - **ハッピーくん** (Jan 04, 2026 11:17pm): 見つかりませんってなる
@@ -351,7 +349,7 @@
 ### 11. 入ってきてね
 **Author:** Agile Raccoon
 
-[Attachment](https://padlet.com/23tyr5164/padlet-urds9bcokm6n5nye)
+[Attachment 1](https://padlet.com/23tyr5164/padlet-urds9bcokm6n5nye)
 
 #### Additional Information
 - **Post color:** White
@@ -405,7 +403,7 @@
 ### 1. Post 1
 **Author:** オムライス (omurais)
 
-[Attachment](https://read.plant.ipcasa.net)
+[Attachment 1](https://read.plant.ipcasa.net)
 
 #### Comments (3)
 - **Charismatic Tiger** (Sep 10, 2025 12:14pm): どうやってつかうんですか
@@ -512,7 +510,7 @@
 ### 4. Post 4
 **Author:** 太古の太鼓~1853 Brainrot (BERURI1214)
 
-[Attachment](https://shadow-haihu-bynyanko.easterndns.com/)
+[Attachment 1](https://shadow-haihu-bynyanko.easterndns.com/)
 
 #### Additional Information
 - **Post color:** White
@@ -524,7 +522,7 @@
 ### 5. Post 5
 **Author:** 削除済みユーザー
 
-[Attachment](https://shadowshark.ipv64.net/)
+[Attachment 1](https://shadowshark.ipv64.net/)
 
 #### Additional Information
 - **Post color:** White
@@ -653,7 +651,7 @@
 
 <p>行けなかったらごめん</p>
 
-[Attachment](https://fuck-hugo.global.ssl.fastly.net/)
+[Attachment 1](https://fuck-hugo.global.ssl.fastly.net/)
 
 #### Comments (5)
 - **玲霧** (Jul 15, 2025 11:10am): 行けた神ありがと
@@ -783,7 +781,7 @@
 ### 1. Post 1
 **Author:** 太古の太鼓~1853 Brainrot (BERURI1214)
 
-[Attachment](https://use.bsfa.info/)
+[Attachment 1](https://use.bsfa.info/)
 
 #### Comments (10)
 - **太古の太鼓~1853 Brainrot** (May 06, 2025 05:30am): https://use.gurdit.com/
@@ -811,7 +809,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://157.230.79.247/_ja/?__cpLangSet=1">使えるかな..</a> </p><p><a rel="noopener noreferrer nofollow" href="https://134.209.250.149/_ja/">使えるかな..</a> </p><p><a rel="noopener noreferrer nofollow" href="https://157.230.79.247/_ja/">使えるかな</a> ..</p>
 
-[Attachment](https://157.230.79.247/_ja/?__cpLangSet=1)
+[Attachment 1](https://157.230.79.247/_ja/?__cpLangSet=1)
 
 #### Comments (3)
 - **Serious Puma** (Aug 09, 2025 05:33pm): OUT
@@ -842,7 +840,7 @@
 ### 1. US4
 **Author:** f5b2mjrkm3f8
 
-[Attachment](https://us4-pro.global.ssl.fastly.net/pages/links2)
+[Attachment 1](https://us4-pro.global.ssl.fastly.net/pages/links2)
 
 #### Comments (3)
 - **あか** (Aug 06, 2025 12:21am): ずっと真っ暗です使い方ってありますか？
@@ -889,7 +887,7 @@
 ### 4. 神プロ
 **Author:** らんる (r0135545)
 
-[Attachment](https://us4-pro.global.ssl.fastly.net/)
+[Attachment 1](https://us4-pro.global.ssl.fastly.net/)
 
 #### Additional Information
 - **Post color:** White
@@ -905,7 +903,7 @@
 
 <p>https://c148-339-re.onrender.com/login 　</p><p>https://c148-339-re.onrender.com/login </p><p>https://jsyamato.onrender.com/login </p><p>https://wkt-4qao.onrender.com/login </p><p>https://wkt-3a1d.onrender.com/login　 </p><p>https://wkt-1-lv2f.onrender.com/login </p><p>https://rwiw.onrender.com/login </p><p>https://wkt-4qao.onrender.com/login </p><p>https://jsyamato.onrender.com/login </p><p>https://c148-339-re.onrender.com/login</p>
 
-[Attachment](https://jsyamato.onrender.com/login)
+[Attachment 1](https://jsyamato.onrender.com/login)
 
 #### Comments (3)
 - **Sleepy Lobster** (Oct 11, 2025 09:19am): 使えるかも？https://wkt8.vercel.app/login
@@ -1015,7 +1013,7 @@
 ### 3. Post 3
 **Author:** 太古の太鼓~1853 Brainrot (BERURI1214)
 
-[Attachment](https://www.acethinker.jp/online-downloader)
+[Attachment 1](https://www.acethinker.jp/online-downloader)
 
 #### Comments (2)
 - **ENDLESS** (Apr 25, 2025 08:47am): 動見るのか教えてください
@@ -1036,7 +1034,7 @@
 ### 1. Post 1
 **Author:** 削除済みユーザー
 
-[Attachment](https://at.ggtyler.dev/)
+[Attachment 1](https://at.ggtyler.dev/)
 
 #### Comments (56)
 - **鬼儀理** (Oct 28, 2025 05:21am): https://script.google.com/a/macros/ed-tachikawa.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
@@ -1109,7 +1107,7 @@
 ### 2. Post 2
 **Author:** INFINITY (nanasisan)
 
-[Attachment](https://runtu.be/)
+[Attachment 1](https://runtu.be/)
 
 #### Comments (28)
 - **かんばやし りようさん** (Oct 31, 2025 05:35am): https://padlet.com/beruriwwww7823/breakout-room/mVbpvYp9ANkkqRkn-o4ZnXBBLKOo5XNda/wish/E851Q0rdb5YlWVAb
@@ -1154,7 +1152,7 @@
 ### 3. Post 3
 **Author:** INFINITY (nanasisan)
 
-[Attachment](https://nyc1.poke.ggtyler.dev/app)
+[Attachment 1](https://nyc1.poke.ggtyler.dev/app)
 
 #### Comments (34)
 - **dead** (Nov 11, 2025 02:10pm): apps scriptでできたやつなら見れる
@@ -1202,7 +1200,7 @@
 ### 4. Post 4
 **Author:** INFINITY (nanasisan)
 
-[Attachment](https://at.ggtyler.dev/)
+[Attachment 1](https://at.ggtyler.dev/)
 
 #### Comments (19)
 - **東京都民** (Nov 04, 2025 10:12pm): スリザリオ

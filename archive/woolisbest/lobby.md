@@ -1,4 +1,4 @@
-最終更新: 2026/02/12 15:10:03
+最終更新: 2026/02/12 16:53:58
 
 # 受付と匿名用
 
@@ -9,21 +9,20 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 4
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 12, 2026 06:07am
+- **Updated At (UTC):** Feb 12, 2026 07:30am
 
 ## 受付
 
 ### 1. 最初からやり直し...
 **Author:** woolisbest (woolisbest)
 
-[Attachment](https://padlet.com/padlets/f46agi7nbsmz8boy)
+[Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (19)
+#### Comments (18)
 - **ᴎeoᴎӝ ❤️‍🔥 nxyu-.-** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
 - **ᴎeoᴎӝ ❤️‍🔥 nxyu-.-** (Feb 10, 2026 09:02am): e
-- **光の忍者** (Feb 10, 2026 12:56pm): お願いします
 - **woolisbest** (Feb 10, 2026 01:11pm): ok
 - **ᴎeoᴎӝ ❤️‍🔥 nxyu-.-** (Feb 10, 2026 02:46pm): はい
 - **狐うどんの狐(マダタスカル)** (Feb 11, 2026 01:52am): はい
@@ -114,7 +113,7 @@
 ### 1. ホーム
 **Author:** woolisbest (woolisbest)
 
-[Attachment](https://padlet.com/sakuramoti_modori/home)
+[Attachment 1](https://padlet.com/sakuramoti_modori/home)
 
 #### Comments (2)
 - **さくらもち** (Feb 02, 2026 12:01pm): わー
