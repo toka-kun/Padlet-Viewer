@@ -1,4 +1,4 @@
-最終更新: 2026/02/13 13:54:01
+最終更新: 2026/02/13 15:00:26
 
 # Padletポータルワールド
 
@@ -106,7 +106,7 @@
 ---
 
 ### 2. タブレットお悩み事相談所
-**Author:** 일곱 번째 로리콘 (Keroharudayo)
+**Author:** 春仁 (Keroharudayo)
 
 <p>ここではタブレットのサイトの不具合などを解決します。ですが！！！これは表の顔です…本当の目的はタブレットをもっとよりよく自由に使うために、プロキシやゲーム、YouTubeを公開しています。（エロもあるかもね…）てことで、みんなもタブレットを自由に使おーーーーーーーーーーーー！！！！！</p>
 
@@ -1705,7 +1705,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771563241&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KOxBIw0OFFDTUw2IaaHPGhwx70uLeca%2FNoGFOIVmgHGfSRDVG68qoqrXC027%2BiSW2OaepS%2FphRND4GvLkos%2BOZfxOHdTVKxXyk8z7vtPW5rEbdQ1UwDtzHEiPurkH%2BS%2BW3hVMcaLsUzQh4CspJ0Dy9tNfAu13PedqDKxDV4UdZ4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771567226&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kvf6xc5gzLwA8%2Ff8E%2FuW7kydnYeKDMMRjYBMEX9VF9Zyw8rHsnL0z54ZMUTu9G08j8Ipm4u7WUDfgiW4Xb1RJaAZg3O3hhzO%2BYQ8e9H9ZoJs%2FnOq%2BhbcCS0KHhYdYk2Lwhy2vlLr%2BF9dd997P7fYSLiUb%2F2%2BIO4ZGqwQIWC94QE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
