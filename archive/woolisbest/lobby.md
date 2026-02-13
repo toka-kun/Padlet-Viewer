@@ -1,4 +1,4 @@
-最終更新: 2026/02/13 11:26:32
+最終更新: 2026/02/13 13:54:24
 
 # 受付と匿名用
 
@@ -9,15 +9,16 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 13, 2026 02:00am
+- **Updated At (UTC):** Feb 13, 2026 03:19am
 
 ## 受付
 
 ### 1. アクセス要求して
 **Author:** woolisbest (woolisbest)
 
-#### Comments (1)
+#### Comments (2)
 - **ᴎeoᴎӝ ❤️‍🔥 nxyu-.-** (Feb 12, 2026 11:54pm): すぃた
+- **yukkuto** (Feb 13, 2026 03:20am): した
 
 #### Additional Information
 - **Post color:** Yellow
@@ -31,7 +32,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (19)
+#### Comments (20)
 - **ᴎeoᴎӝ ❤️‍🔥 nxyu-.-** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -51,6 +52,7 @@
 - **黎桜🌸** (Feb 12, 2026 05:33am): いれて
 - **霧夜　Mistgentle 🌫️💫　＃カリオンの従者** (Feb 12, 2026 06:07am): 入れてください。
 - **Busy Raven** (Feb 13, 2026 02:00am): 匿名って入れるん？
+- **yukkuto** (Feb 13, 2026 03:19am): 入れてください
 
 #### Additional Information
 - **Post color:** Red
@@ -66,7 +68,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (16)
+#### Comments (17)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -83,6 +85,7 @@
 - **チンされたチキン‼（チンチキって呼んでね）** (Feb 11, 2026 09:45am): してる
 - **バッタ　#煮物貢献者　#煮物14番弟子　#そろそろ引退かも** (Feb 11, 2026 09:34pm): してます
 - **霧夜　Mistgentle 🌫️💫　＃カリオンの従者** (Feb 12, 2026 06:07am): した
+- **yukkuto** (Feb 13, 2026 03:19am): してます
 
 #### Additional Information
 - **Post color:** Red
