@@ -1,4 +1,4 @@
-最終更新: 2026/02/12 22:11:32
+最終更新: 2026/02/13 11:26:32
 
 # 受付と匿名用
 
@@ -9,12 +9,15 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 12, 2026 11:47am
+- **Updated At (UTC):** Feb 13, 2026 02:00am
 
 ## 受付
 
 ### 1. アクセス要求して
 **Author:** woolisbest (woolisbest)
+
+#### Comments (1)
+- **ᴎeoᴎӝ ❤️‍🔥 nxyu-.-** (Feb 12, 2026 11:54pm): すぃた
 
 #### Additional Information
 - **Post color:** Yellow
@@ -28,7 +31,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (18)
+#### Comments (19)
 - **ᴎeoᴎӝ ❤️‍🔥 nxyu-.-** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -47,6 +50,7 @@
 - **バッタ　#煮物貢献者　#煮物14番弟子　#そろそろ引退かも** (Feb 11, 2026 09:34pm): いれて
 - **黎桜🌸** (Feb 12, 2026 05:33am): いれて
 - **霧夜　Mistgentle 🌫️💫　＃カリオンの従者** (Feb 12, 2026 06:07am): 入れてください。
+- **Busy Raven** (Feb 13, 2026 02:00am): 匿名って入れるん？
 
 #### Additional Information
 - **Post color:** Red
