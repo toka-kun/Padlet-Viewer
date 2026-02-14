@@ -1,4 +1,4 @@
-最終更新: 2026/02/14 17:35:19
+最終更新: 2026/02/14 18:32:44
 
 # 受付と匿名用
 
@@ -9,14 +9,14 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 14, 2026 08:14am
+- **Updated At (UTC):** Feb 14, 2026 09:18am
 
 ## 受付
 
 ### 1. アクセス要求して
 **Author:** woolisbest (woolisbest)
 
-#### Comments (8)
+#### Comments (9)
 - **ᴎeoᴎӝ ❤️‍🔥 nxyu-.-** (Feb 12, 2026 11:54pm): すぃた
 - **yukkuto** (Feb 13, 2026 03:20am): した
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 13, 2026 06:49am): sita
@@ -25,6 +25,7 @@
 - **オムライス** (Feb 13, 2026 12:35pm): Sita
 - **Yusho** (Feb 13, 2026 12:42pm): しました
 - **るるる　バルコク共和国の大統領** (Feb 14, 2026 08:14am): お願いします！
+- **ほそかわせいや** (Feb 14, 2026 09:19am): オネシャス
 
 #### Additional Information
 - **Post color:** Yellow
@@ -75,7 +76,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (17)
+#### Comments (18)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -93,6 +94,7 @@
 - **バッタ　#煮物貢献者　#煮物14番弟子　#そろそろ引退かも** (Feb 11, 2026 09:34pm): してます
 - **霧夜　Mistgentle 🌫️💫　＃カリオンの従者** (Feb 12, 2026 06:07am): した
 - **yukkuto** (Feb 13, 2026 03:19am): してます
+- **ほそかわせいや** (Feb 14, 2026 09:18am): フォロー完了 
 
 #### Additional Information
 - **Post color:** Red
