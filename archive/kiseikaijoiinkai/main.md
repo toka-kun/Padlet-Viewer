@@ -1,4 +1,4 @@
-最終更新: 2026/02/12 16:54:33
+最終更新: 2026/02/16 08:29:03
 
 # 規制解除委員会(本部)
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 - **Posts:** 8
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Feb 07, 2026 02:33pm
+- **Updated At (UTC):** Feb 15, 2026 11:17pm
 
 ## この部屋について
 
@@ -41,6 +41,9 @@
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 [Attachment 1](https://wkt-choco-5b1f.onrender.com/login)
+
+#### Comments (1)
+- **Y** (Feb 15, 2026 11:17pm): ハロー
 
 #### Additional Information
 - **Created At (UTC):** Jan 09, 2026 07:04am
