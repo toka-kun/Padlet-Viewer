@@ -1,4 +1,4 @@
-最終更新: 2026/02/15 11:25:48
+最終更新: 2026/02/16 17:51:17
 
 # アーカイブ
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 209
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Feb 15, 2026 12:05am
+- **Updated At (UTC):** Feb 16, 2026 08:47am
 
 ## セクション一覧
 
@@ -32,7 +32,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1771727145&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yfB9MTSXYdiB24aO275tJZHJhZvyWiVvf9rDvFYzThf7rlFc%2BxDgEnQa0Iwa4B0j3bVnTfHU4%2FP0t%2FwfHtsitX8XjjkWGdBq8XSZf42L43H0rOB3BM53OtO8reL9E8uVBrBJa14x3PIxMxNp%2BKwcEgTWAUgTsbA8%2BKHrRpJaus8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1771836674&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sCcawsGC2XkHMMZkQgtOiEHoUOR%2Bo59JsoAlKoRB%2F1MQiZPW9%2B1YkW1Lk00MEduK8wsM2gxOfDORQTIr2TIhx6ZLzproiZpAxpcnmRGeQOkNO4Qv8uttslk3LU0Q7XHc7XTCARrRQtxG3R9yzWSwfdOQdQi%2FyMT4ayqJMrEG4io%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -516,8 +516,8 @@
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (Jun 15, 2025 09:48pm): この部屋はマジでいっぱい伸びて有名になってほしい
 - **✨️🎧️*~白玉もちぃ~*🎧️✨️** (Jun 19, 2025 04:25pm): 頑張れ〜！応援してるよ！わたし　　フォローしてるよ〜！　　　　　　　このまま100000目指してください
 - **✨️🎧️*~白玉もちぃ~*🎧️✨️** (Jun 19, 2025 04:26pm): ᏁγᎶ » Nanachikiさん頑張れ〜
-- **かりけーﾉｯﾄﾘｱｶ** (Jun 23, 2025 10:51am): ちょっと結構なんていうか
-- **かりけーﾉｯﾄﾘｱｶ** (Jun 23, 2025 10:51am): セクションとかがぐちゃぐちゃだから一旦整理してほしいな！
+- **削除済みユーザー** (Jun 23, 2025 10:51am): ちょっと結構なんていうか
+- **削除済みユーザー** (Jun 23, 2025 10:51am): セクションとかがぐちゃぐちゃだから一旦整理してほしいな！
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jun 23, 2025 02:18pm): これで整理済やで
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jun 23, 2025 02:21pm): ➥ この矢印でまとめてる
 - **ᏁγᎶ » Nanachiki** (Jun 23, 2025 05:23pm): 右側のセクション一覧から飛べるで
@@ -540,8 +540,8 @@
 
 #### Comments (3)
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (May 29, 2025 08:54am): えぐいて
-- **かりけーﾉｯﾄﾘｱｶ** (Jun 02, 2025 11:20am): やばｗｗ
-- **かりけーﾉｯﾄﾘｱｶ** (Jun 02, 2025 10:24am): このパドレッド何人入ってるんだよｗｗ
+- **削除済みユーザー** (Jun 02, 2025 11:20am): やばｗｗ
+- **削除済みユーザー** (Jun 02, 2025 10:24am): このパドレッド何人入ってるんだよｗｗ
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -610,7 +610,7 @@
 
 [Attachment 1](https://woolisbest-site-test.chickenkiller.com/)
 
-#### Comments (23)
+#### Comments (24)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 07, 2026 12:52pm): Wool-Tubeの後継って感じ?
 - **woolisbest** (Feb 07, 2026 01:28pm): そんな感じだね
 - **woolisbest** (Feb 07, 2026 01:29pm): wool-tubeセクションをwooltube + Wistaに変えてもらえれば...
@@ -634,6 +634,7 @@
 - **woolisbest** (Feb 08, 2026 08:36am): ばななさんとかと交渉してるから待ってね
 - **Natsu　＃ぶゆ推し** (Feb 08, 2026 11:34pm): woolさんnice
 - **亜空カン_JANLINE** (Feb 09, 2026 09:35am): くそぉ〜〜!!!ブロック...
+- **アブリ　カルビ** (Feb 16, 2026 08:47am): パスワードなに？
 
 #### Additional Information
 - **Post color:** White
@@ -793,7 +794,7 @@
 
 <p>自分の中学にこのQRコードを送ってしまい、更に相手にオーネー権限が移ってしまいました</p><p>このアカウントは使われているのでしょうか？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1771727145&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lbLtX14XJoUAlJWlODBt1h7pD39Ij5MssBS34GLbIX5js1dnbtt0HQ2lfZnK29BFUg26%2FxPvOpDz8PPgnaCqvFjnfCdh5lg2Or8SDPS2vXTZDaRLAmAhTPNIT%2B5Pk1vsEbhP%2FA%2BUdL7Cp%2F%2BRY%2ByVMvW11FxjgjP12Q5WsSTnasQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1771836675&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cOy5yCX%2B%2F%2Bh1IK7yu4TVkOK6nzGskkyx%2Bpk6P6yy8m6UneU62plVLACdiqAlSb1QIAyueQ%2Bl0tO3Prqh6aUJHi96RYpKNjMeyexSA8pi%2FaVBL6fHl8%2FZz40AZe%2BKBjmzKtHzSbiDcFlbkgS3HuMsYZ41qD78OfN%2F3pwL0gS23Ik%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
 
 #### Comments (12)
 - **πr²(パイアール2)** (Jan 23, 2026 02:26am): オーナー権限です
@@ -970,7 +971,7 @@
 ### 18. 俺が全然浮上しなかったのも悪いんだけど俺の部屋の管理者がこいつらだけになってました
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1771727145&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1eYOPROp7bxkLwrKq87GL8TkcG2K2TXAqkPjfLUcHPdNTiDaL4cbad2cENj6S%2BlHfhDwIGkTr83qpXGTrKsBtwUu0SsFu8q7fOdyyL0fyWrqORzP22gVkSXCJxMit4g%2BVZe31KKC44cC%2B24x%2BVQ76UTfEluD5vzJ%2BrSKMZc%2BILM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1771836675&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uR4AKqjGC1j7YlvknYK7RKYdseGASEBrT9cbohIcYZsJ2FSIa7OKdo9FNNc9zCQFMd3PwbzokWhA1uy0QxW0GNXYfeLfb69jh1ObXeC3jwMv1HULfxs6yWXN3YXeXb%2BEzx3m8X7Ko2nNJlsAKOD7UYdooe3PAEY0zC%2FZ5HBzkvc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ローマンピアースのスマホ垢本物** (Jan 15, 2026 11:50am): 誰か助けてくれ、、
@@ -1453,7 +1454,7 @@
 ---
 
 ### 46. なんかしあtubeが進化してた！
-**Author:** Natsu　＃ぶゆ推し (masayukii0814)
+**Author:** Natsu　＃ぶゆ推し (Natsudao)
 
 <p>やったーーーー！</p><p>個人的にはここにダウンロードなしのショートがあったら最高だと思う。</p>
 
@@ -1977,7 +1978,7 @@
 **Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 **いるの？いらないの？:**
-- **いるﾇ:** 75 votes
+- **いるﾇ:** 76 votes
 - **いらﾇ:** 5 votes
 - **魔貫光殺砲ﾇ:** 32 votes
 
@@ -2002,7 +2003,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Dec 23, 2025 10:55am
-- **Updated At (UTC):** Feb 06, 2026 09:14am
+- **Updated At (UTC):** Feb 16, 2026 08:48am
 
 ---
 
@@ -2816,7 +2817,7 @@
 ### 4. アプリをダウンロードする方法教えて下さい　こうなる↓
 **Author:** 水原二平 (r02s14030)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1771727146&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6LACGaSIiBq3AACd5THx0HcV3S0MhYQZ%2FHbiHkM0KSQSoyFucmJ0uYGFazW2LzztWivrbOggqa63SxAjyqpeg8BPJwoRFgG5mNoNle%2Fn5y6BarzEBmKmiAqcWV6SwuKD3goqwhTXt7QzrG%2FsKKiHFaNuxjIGL6SdoXEkr4p42sY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1771836676&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=HES6%2FdXWydzxpllNDZoQnwQ2eHX4bcijBYFPouWkWicw8qbRUZZ0m5fVfFRivlLfD36RrTbHukpoaKcDxIRpW2EWtTkLipLVzemePDAe23tWVseuUZQwncoz%2FdJq4S9ElyXjEs7O2jq0PpO2NXDFq3Hh5QgpfY4i%2BTY3j8myIt8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
 
 #### Comments (4)
 - **かから** (Jan 27, 2026 10:26am): Chromebookだったらhttps://chrome.google.com/webstore?utm_source=app-launcher
@@ -3129,7 +3130,7 @@
 #### Comments (7)
 - **Enthusiastic Gecko** (Dec 22, 2025 12:20pm): そんなことよりURL打ち込むやつができんくなった
 - **削除済みユーザー** (Dec 22, 2025 01:12pm): どゆこと
-- **かりけーﾉｯﾄﾘｱｶ** (Dec 23, 2025 08:59am): 誰かフォトナできるサイトない？
+- **削除済みユーザー** (Dec 23, 2025 08:59am): 誰かフォトナできるサイトない？
 - **とりあえず。** (Dec 23, 2025 10:58am): ？？https://nana.a.drciocan.ro/　これにyoutubeのリンク打ち込めばいけるよ！　URL打ち込むやつが出来ないというのはダウンローダーのこと？それなら→https://postsyncer.com/tools/youtube-video-downloader　で。
 - **Charismatic Lion** (Dec 23, 2025 10:50pm): YouTubeじゃなくてさ、サイト
 - **AU_ 3821632** (Dec 25, 2025 04:59am): https://www-proxy.ladifsoftware.com/こういうの？
@@ -3144,7 +3145,7 @@
 
 ### 25. 誰かアニメ見れるサイトないですか
 
-**Author:** Natsu　＃ぶゆ推し (masayukii0814)
+**Author:** Natsu　＃ぶゆ推し (Natsudao)
 
 <p>お願いしますｳｳｳ</p>
 
@@ -3192,7 +3193,7 @@
 ---
 
 ### 28. クロムでできるロブロックスください
-**Author:** かりけーﾉｯﾄﾘｱｶ (bu2319)
+**Author:** 削除済みユーザー
 
 <p>よろしくお願いします</p>
 
@@ -3251,7 +3252,7 @@
 
 **投稿の種類:** フィルターに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1771727147&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bP%2F3bVyiXP9q%2Bo29QoKcIRb4Ib6wu%2BKfF0k0GWwSNUZtBm1gCRPKfdUaz9ocpldrg4Aad2ePHKjqFTu7aX3wRmujJS8OAkuK%2FrJ5PAMMB%2FhPM4t2vKoLpdspw2FMhySFgSuoZNgRUaxPIZZ6NeX1KVyJnMPp2lTYIDd3nf7toVE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1771836676&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Bx0jhWyxQ6%2Fhj9C02OzsKF456JiYQEtFpi9HSyEyRs9HFl%2Bz7q4Xjg2TB5M%2BlxjHA%2FKIpE%2Bu%2Bmp%2BiL63FeZz4xBs3gcoXaNZeu6EEMpDLQ%2FEOmAGtwf6o5YL1QXHdqgenVGRI5%2Bszpr3X5pUks39zXxqLf8oLuwTpUlhAVSObAw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -3293,71 +3294,71 @@
 ## i-FILTER専用
 
 ### 1. Iフィルターでもできる最強グーグルほしいです
-**Author:** かりけーﾉｯﾄﾘｱｶ (bu2319)
+**Author:** 削除済みユーザー
 
 <p>お願いします</p>
 
 #### Comments (60)
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:12am): むずくね？
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:12am): だよね
+- **削除済みユーザー** (Feb 01, 2026 09:12am): だよね
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:12am): グーグルじゃなくて限定した開きたいサイトある？
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:13am): ロブロ
+- **削除済みユーザー** (Feb 01, 2026 09:13am): ロブロ
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:13am): えぐ
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:13am): ｗ
+- **削除済みユーザー** (Feb 01, 2026 09:13am): ｗ
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:13am): まずインストールしないと無理やな
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:13am): あと容量問題
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:13am): うん
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:14am): しあtubeいる？
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:14am): 3個持ってる
+- **削除済みユーザー** (Feb 01, 2026 09:13am): うん
+- **削除済みユーザー** (Feb 01, 2026 09:14am): しあtubeいる？
+- **削除済みユーザー** (Feb 01, 2026 09:14am): 3個持ってる
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:14am): もってる
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:14am): https://helloapp.xsrv.jp/test.php?url=https%3A%2F%2Fawakest.net%2Fyoutube-video-downloader%2F
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:14am): これ開ける？
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:14am): いや
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:14am): ブロ
+- **削除済みユーザー** (Feb 01, 2026 09:14am): いや
+- **削除済みユーザー** (Feb 01, 2026 09:14am): ブロ
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:14am): マジ！？
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:14am): まじ
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:14am): じゃあ逆に
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:14am): https://script.google.com/a/macros/ed-tachikawa.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:15am): https://script.google.com/a/macros/ed-tachikawa.jp/s/AKfycbwRaFdJAe1tnfz9nsAiAIivaj9WBZEhKYfXCXAxyWN0lI-MNyvglkE0TJYwSBda3Kpr/exec
+- **削除済みユーザー** (Feb 01, 2026 09:14am): まじ
+- **削除済みユーザー** (Feb 01, 2026 09:14am): じゃあ逆に
+- **削除済みユーザー** (Feb 01, 2026 09:14am): https://script.google.com/a/macros/ed-tachikawa.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
+- **削除済みユーザー** (Feb 01, 2026 09:15am): https://script.google.com/a/macros/ed-tachikawa.jp/s/AKfycbwRaFdJAe1tnfz9nsAiAIivaj9WBZEhKYfXCXAxyWN0lI-MNyvglkE0TJYwSBda3Kpr/exec
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:15am): 流石に開ける
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:15am): https://script.google.com/a/macros/ed-tachikawa.jp/s/AKfycbyDtINI3yZi1UNO2P3Ody2fzRptm80YOPV_a3Vlqygl-QWyuzjvTvB7TMANSN5GPJOFMw/exec
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:15am): これで全部
+- **削除済みユーザー** (Feb 01, 2026 09:15am): https://script.google.com/a/macros/ed-tachikawa.jp/s/AKfycbyDtINI3yZi1UNO2P3Ody2fzRptm80YOPV_a3Vlqygl-QWyuzjvTvB7TMANSN5GPJOFMw/exec
+- **削除済みユーザー** (Feb 01, 2026 09:15am): これで全部
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:15am): 開けるけど全然見れない
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:15am): まじで
+- **削除済みユーザー** (Feb 01, 2026 09:15am): まじで
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:16am): 重い
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:16am): 俺普通に見れるんやけどなー
+- **削除済みユーザー** (Feb 01, 2026 09:16am): 俺普通に見れるんやけどなー
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:16am): https://postsyncer.com/tools/youtube-video-downloader
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:16am): これは？
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:16am): いけた
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:16am): ティックトックも行けるん・
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:16am): ？
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:16am): 上のダウンローダー
+- **削除済みユーザー** (Feb 01, 2026 09:16am): いけた
+- **削除済みユーザー** (Feb 01, 2026 09:16am): ティックトックも行けるん・
+- **削除済みユーザー** (Feb 01, 2026 09:16am): ？
+- **削除済みユーザー** (Feb 01, 2026 09:16am): 上のダウンローダー
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:16am): わからん
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:16am): やってみるわ
+- **削除済みユーザー** (Feb 01, 2026 09:16am): やってみるわ
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:17am): できなかったらURL送って
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:17am): できたけど
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:17am): おんせいだけ
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:18am): 映像見れない
+- **削除済みユーザー** (Feb 01, 2026 09:17am): できたけど
+- **削除済みユーザー** (Feb 01, 2026 09:17am): おんせいだけ
+- **削除済みユーザー** (Feb 01, 2026 09:18am): 映像見れない
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:18am): そのURL送ってくれ
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:18am): 適当なやつでいいよね
+- **削除済みユーザー** (Feb 01, 2026 09:18am): 適当なやつでいいよね
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:18am): うん
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:18am): https://www.tiktok.com/@momokyaraben/video/7550242854971510024
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:19am): ヒカキンってやったら出てきたやつ
+- **削除済みユーザー** (Feb 01, 2026 09:18am): https://www.tiktok.com/@momokyaraben/video/7550242854971510024
+- **削除済みユーザー** (Feb 01, 2026 09:19am): ヒカキンってやったら出てきたやつ
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:21am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/MbejW1bg5NgnaNkG) ほい
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:21am): さっきのやつ
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:21am): どうやった
+- **削除済みユーザー** (Feb 01, 2026 09:21am): どうやった
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:22am): https://helloapp.xsrv.jp/test.php?url=https%3A%2F%2Fawakest.net%2Fyoutube-video-downloader%2F　はじめ送ったやつ
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:22am): さっきクシャクシャインの部屋入ったらダウンローダー3個くらいあった
+- **削除済みユーザー** (Feb 01, 2026 09:22am): さっきクシャクシャインの部屋入ったらダウンローダー3個くらいあった
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:22am): それ
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:22am): 今送ってくれたやつブロックされた
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:22am): URL
+- **削除済みユーザー** (Feb 01, 2026 09:22am): 今送ってくれたやつブロックされた
+- **削除済みユーザー** (Feb 01, 2026 09:22am): URL
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:23am): 俺の部屋のリクエストにどうがのURL貼れば送るよ
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:23am): おけ
+- **削除済みユーザー** (Feb 01, 2026 09:23am): おけ
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:23am): じゃ
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:23am): せんきゅ
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:23am): あ
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:23am): 見れたわ
-- **かりけーﾉｯﾄﾘｱｶ** (Feb 01, 2026 09:23am): うんばいばい
+- **削除済みユーザー** (Feb 01, 2026 09:23am): せんきゅ
+- **削除済みユーザー** (Feb 01, 2026 09:23am): あ
+- **削除済みユーザー** (Feb 01, 2026 09:23am): 見れたわ
+- **削除済みユーザー** (Feb 01, 2026 09:23am): うんばいばい
 
 #### Additional Information
 - **Post color:** White
@@ -3528,10 +3529,10 @@
 
 <p>先ほどゲームをしてるとフリーズしてしまって、再起動するとフィルタリングが更新されており、さっきまで使えていたサイトが使えなくなってしまいました。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1771727147&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=X9c%2BQI3Ot8yVl6Tu%2FkARqIGcF67Ub10tGwiD6Kw6xSSWp4kmRG8Pzm3sBBssG1ExHpKfQmbh2EsyPQoeVARluBHhSPdRjDl6WojxbJoSSYT7%2FvfAwBMC85z5Dutq4BVHyAqnlis4pOSDY8oEJpNQwGqOBsZU%2Buc7fAfAMw%2FxQWw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1771836676&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aifUCTRVtVQ78yk%2BPFL1XYDLJpsYY7LQuq4plSDMWP%2FhW3V9MIZk7zeyzbq2h9HWn1kWSp4WCr6k8bKGei157oyK2b8uhSVBpZQBENEYu3eemm74%2FWwKLaYvZ5u5b6p%2FjPSho3EqDBuEIijzbQON1yWAQ38Jm93Sr9DRpCHSk5w%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
-- **かりけーﾉｯﾄﾘｱｶ** (Dec 21, 2025 05:06am): 俺も金曜日そんな感じになった
+- **削除済みユーザー** (Dec 21, 2025 05:06am): 俺も金曜日そんな感じになった
 - **Natsu　＃ぶゆ推し** (Dec 21, 2025 07:21am): おれずっと更新してないから規制なかなかされないw
 - **学校のパソコンでプロキシ探しる受験生** (Dec 22, 2025 04:27am): だからかぁ...好きなゲームのサイトが規制かかるようになっちゃったんだよね
 - **-かきくけこ-ISGC☯** (Dec 23, 2025 02:27am): 同じく好きなゲームできんくなった...
@@ -3554,7 +3555,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1771727147&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ku2McSm8aYz%2BMw%2Fr%2BgtwZNMN82M8DcqkDpQ3m9Y4kBgKKVGD1fu7t9Ninwz2QBh5v7xk7LswMZ6%2Fc1zuyOXEJKJYlypvnrZhlH34nEvG2ykgVgQ7XkexzEtP9BKrMEGQyGDSO03TxYGHTVvQq0Z5c5UrZQYQ3kLS2DWUUPyhUhw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1771836676&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SF56L19bHXyYO4HOdCd8D%2BmEavOGPTtYWNwHYWa7vQG%2F%2FkHpobywJl47zBT9euAyH91PKd3AJwLpUhpel%2BY2DEpVe3vKtKzJn1bOjnztekyqRL7K7dn4ztgv%2F3W%2FKB2BfsPjPz0anUTGXGoyW%2FQrmZGMPIFilK%2F8IfnHjafCXyM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **πr²(パイアール2)** (Nov 09, 2025 08:31am): フィルタリングルールの更新日時とか書いてあった
