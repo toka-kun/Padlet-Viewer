@@ -574,7 +574,7 @@
             patternsToRemove.forEach(regex => content = content.replace(regex, ''));
             
             let attachmentUrl = null;
-            content = content.replace(/!?\[(?:Attachment|添付ファイル)\]\((.*?)\)/gi, (match, url) => {
+            content = content.replace(/!?\[(?:Attachment 1|添付ファイル)\]\((.*?)\)/gi, (match, url) => {
                 attachmentUrl = url;
                 return ''; 
             });
