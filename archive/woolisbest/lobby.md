@@ -1,4 +1,4 @@
-最終更新: 2026/02/16 22:06:55
+最終更新: 2026/02/17 07:30:41
 
 # 受付と匿名用
 
@@ -9,14 +9,14 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 16, 2026 11:53am
+- **Updated At (UTC):** Feb 16, 2026 10:15pm
 
 ## 受付
 
 ### 1. アクセス要求して
 **Author:** woolisbest (woolisbest)
 
-#### Comments (10)
+#### Comments (11)
 - **ᴎeoᴎӝ ❤️‍🔥 nxyu-.-** (Feb 12, 2026 11:54pm): すぃた
 - **yukkuto** (Feb 13, 2026 03:20am): した
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 13, 2026 06:49am): sita
@@ -27,6 +27,7 @@
 - **るるる　バルコク共和国の大統領** (Feb 14, 2026 08:14am): お願いします！
 - **ほそかわせいや** (Feb 14, 2026 09:19am): オネシャス
 - **꧁༽𝓷𝓮𝓱𝓸𝓼𝓪𝓽𝓪༼꧂** (Feb 16, 2026 11:53am): いれて
+- **突然の死(Yu-i)** (Feb 16, 2026 10:15pm): 入れてください
 
 #### Additional Information
 - **Post color:** Yellow
