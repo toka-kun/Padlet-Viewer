@@ -1,4 +1,4 @@
-最終更新: 2026/02/17 22:06:55
+最終更新: 2026/02/18 00:54:22
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 17, 2026 12:07pm
+- **Updated At (UTC):** Feb 17, 2026 03:10pm
 
 ## 受付
 
@@ -149,13 +149,14 @@
 
 [Attachment 1](https://padlet.com/sakuramoti_modori/home)
 
-#### Comments (6)
+#### Comments (7)
 - **さくらもち** (Feb 02, 2026 12:01pm): わー
 - **全ての部屋にコメントする** (Feb 11, 2026 12:56pm): ( ｀・∀・´)ﾉﾖﾛｼｸ
 - **ピカマン#究極のさくらもちの従僕** (Feb 17, 2026 11:57am): 今荒らされてる
 - **ピカマン#究極のさくらもちの従僕** (Feb 17, 2026 11:59am): 犯人は二木尚大
 - **ピカマン#究極のさくらもちの従僕** (Feb 17, 2026 12:00pm): 動画も撮れたけど、エラーで送れない
 - **ピカマン#究極のさくらもちの従僕** (Feb 17, 2026 12:07pm): [Attachment](https://padlet.com/woolisbest/padlet-99xq7bb7zjzcfzw0/wish/PR3NWxGR5wgpZb0O) 
+- **ﾜｰ#まくまくごうのSABU** (Feb 17, 2026 03:10pm): 荒らしは全員死刑
 
 #### Additional Information
 - **Post color:** Blue
