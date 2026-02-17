@@ -1,4 +1,4 @@
-最終更新: 2026/02/17 11:11:48
+最終更新: 2026/02/17 13:53:22
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 82
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Feb 17, 2026 01:58am
+- **Updated At (UTC):** Feb 17, 2026 04:31am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -85,7 +85,29 @@
 
 ## Padletポータルワールド
 
-### 1. プロキシ集めて！！
+### 1. I-FILTER 回避研究所
+**Author:** トロンボーン吹きの吹奏楽部員 (ttashishi)
+
+<p>2年前からあります</p><p>ここにみんなが集まれば最高の回避リストが作れます</p><p>ログインしてればOKです</p><p>技術者募集中</p><p>部屋改善の指摘もよろしく</p>
+
+**部屋の作成日:** September 17, 2023
+
+**閲覧数:** ~499
+
+**管理者数:** 10~
+
+**モデレーター数:** 10~
+
+[Attachment 1](https://padlet.com/padlets/6jkb5gxt8fe0d1bn)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 17, 2026 12:28am
+- **Updated At (UTC):** Feb 17, 2026 04:30am
+
+---
+
+### 2. プロキシ集めて！！
 **Author:** にんじん (s180699_3)
 
 <p>プロキシ乗っけてます</p>
@@ -107,7 +129,7 @@
 
 ---
 
-### 2. nehosata部屋
+### 3. nehosata部屋
 **Author:** ꧁༽𝓷𝓮𝓱𝓸𝓼𝓪𝓽𝓪༼꧂ (nehosata)
 
 <p>神部屋</p>
@@ -129,7 +151,7 @@
 
 ---
 
-### 3. るるるの雑談部屋！
+### 4. るるるの雑談部屋！
 **Author:** るるる　バルコク共和国の大統領 (barukokukyouwakoku)
 
 <p>宣伝自由にしていってね。</p><p>フォロパも受け付けてるよ！</p><p><br/></p>
@@ -148,28 +170,6 @@
 - **Post color:** White
 - **Created At (UTC):** Feb 16, 2026 08:34am
 - **Updated At (UTC):** Feb 16, 2026 08:34am
-
----
-
-### 4. い
-**Author:** プロキシ大好き (Kodomodesu)
-
-<p>え</p>
-
-**部屋の作成日:** February 13, 2026
-
-**閲覧数:** 500~999
-
-**管理者数:** 10~
-
-**モデレーター数:** 10~
-
-[Attachment 1](https://padlet.com/padlets/ksplz7d36dovp72a)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Feb 13, 2026 06:02am
-- **Updated At (UTC):** Feb 13, 2026 06:02am
 
 ---
 
@@ -1801,7 +1801,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771899108&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CI23eYn68KLG4%2FPp88RCNd8vaQNjQculfOAyH8a4zRvqRAxgjqepNGG5IMaBCu2y7V4813QKLVcShTWhrbCv8NN2S9tE3K1wJn%2FjHJt7RqWNlZyu9etJ0A1byKKt5nzl7gEq1LFpTHz77iNrjKmOZmT4l0kmmVnQVO%2BV242eIC0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771908802&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4UFMEATtYoi%2Fm3QHMderLu1jkNVDI4SUmp4Wf0HiOOzoSWR9L%2B5EWm%2FmroAAPLTQ6WJ5qArsy7EPErlZn53dpuYXaUARieNFaLqgFbIPh%2FpNT60QhtDUOxo9YdVIWvq1FeNQEDbsOjf3MYkq9ERxfMnRFVtFhwIz4Rrr%2FfoGjPs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
