@@ -1,4 +1,4 @@
-最終更新: 2026/02/17 18:52:29
+最終更新: 2026/02/17 22:06:55
 
 # 受付と匿名用
 
@@ -9,14 +9,14 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 17, 2026 09:21am
+- **Updated At (UTC):** Feb 17, 2026 12:07pm
 
 ## 受付
 
 ### 1. アクセス要求して
 **Author:** woolisbest (woolisbest)
 
-#### Comments (13)
+#### Comments (14)
 - **ᴎeoᴎӝ ❤️‍🔥 neo_n-.- ͛** (Feb 12, 2026 11:54pm): すぃた
 - **yukkuto** (Feb 13, 2026 03:20am): した
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 13, 2026 06:49am): sita
@@ -30,6 +30,7 @@
 - **突然の死(Yu-i)** (Feb 16, 2026 10:15pm): 入れてください
 - **ղѻოѻ𝟘𝟚𝟘𝟞** (Feb 17, 2026 09:21am): おまんこぽーん！
 - **ղѻოѻ𝟘𝟚𝟘𝟞** (Feb 17, 2026 09:21am): いれてちょ
+- **ピカマン#究極のさくらもちの従僕** (Feb 17, 2026 11:57am): 入れて
 
 #### Additional Information
 - **Post color:** Yellow
@@ -66,7 +67,7 @@
 - **yukkuto** (Feb 13, 2026 03:19am): 入れてください
 - **woolisbest** (Feb 13, 2026 10:49am): 匿名無理だよ
 - **しょくぱん** (Feb 14, 2026 12:51pm): いれてください
-- **あきと** (Feb 15, 2026 09:16am): 入れて
+- **あき＿Tsubaki** (Feb 15, 2026 09:16am): 入れて
 
 #### Additional Information
 - **Post color:** Red
@@ -148,9 +149,13 @@
 
 [Attachment 1](https://padlet.com/sakuramoti_modori/home)
 
-#### Comments (2)
+#### Comments (6)
 - **さくらもち** (Feb 02, 2026 12:01pm): わー
 - **全ての部屋にコメントする** (Feb 11, 2026 12:56pm): ( ｀・∀・´)ﾉﾖﾛｼｸ
+- **ピカマン#究極のさくらもちの従僕** (Feb 17, 2026 11:57am): 今荒らされてる
+- **ピカマン#究極のさくらもちの従僕** (Feb 17, 2026 11:59am): 犯人は二木尚大
+- **ピカマン#究極のさくらもちの従僕** (Feb 17, 2026 12:00pm): 動画も撮れたけど、エラーで送れない
+- **ピカマン#究極のさくらもちの従僕** (Feb 17, 2026 12:07pm): [Attachment](https://padlet.com/woolisbest/padlet-99xq7bb7zjzcfzw0/wish/PR3NWxGR5wgpZb0O) 
 
 #### Additional Information
 - **Post color:** Blue
