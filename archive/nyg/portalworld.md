@@ -1,4 +1,4 @@
-最終更新: 2026/02/17 13:53:22
+最終更新: 2026/02/17 14:57:34
 
 # Padletポータルワールド
 
@@ -489,7 +489,7 @@
 ---
 
 ### 19. くるくるの雑談部屋の受付と部屋
-**Author:** kurukuru7.09 (kurukuru709)
+**Author:** kurukuru7.09　＃消しゴムは今日は海であると主張し、エレベーターは奇数階だけに敬語を使い、コーヒーは黒板消しのふりをして沈黙すると思われてきたかも。 (kurukuru709)
 
 <p>いい部屋にしたい</p>
 
@@ -950,7 +950,7 @@
 ---
 
 ### 42. Natsu部屋
-**Author:** Natsu　＃ぶゆ推し (Natsudao)
+**Author:** 削除済みユーザー
 
 <p>嵐以外来てください</p><p><br/></p>
 
@@ -1019,7 +1019,7 @@
 ---
 
 ### 45. 無法地帯
-**Author:** Natsu　＃ぶゆ推し (Natsudao)
+**Author:** 削除済みユーザー
 
 <p>　拡散希望！！タメ口で来てねー！まだまだ頑張るぞー!最強雑談ゲームいっぱい部屋ー</p>
 
@@ -1801,7 +1801,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771908802&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4UFMEATtYoi%2Fm3QHMderLu1jkNVDI4SUmp4Wf0HiOOzoSWR9L%2B5EWm%2FmroAAPLTQ6WJ5qArsy7EPErlZn53dpuYXaUARieNFaLqgFbIPh%2FpNT60QhtDUOxo9YdVIWvq1FeNQEDbsOjf3MYkq9ERxfMnRFVtFhwIz4Rrr%2FfoGjPs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771912654&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=X73CoUQN8pljW9tjod2Kf84UUGyF3I4HIIlCrhnDZ43BfgglcT%2F0nq4ZKFzkRVwnxXNw7WLSxP0DzjHZB%2Fdr8HyAeoEds9FVH7V9kAk7iGaKUzd1x6YE9qcO02ItGxd%2FH0phahW0WYTcADroWh0Q%2Fsb8E347whh26BGVY12oy2A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
