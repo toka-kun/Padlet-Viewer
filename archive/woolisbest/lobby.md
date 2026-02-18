@@ -1,4 +1,4 @@
-最終更新: 2026/02/18 20:39:38
+最終更新: 2026/02/18 22:07:53
 
 # 受付と匿名用
 
@@ -9,14 +9,14 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 18, 2026 11:39am
+- **Updated At (UTC):** Feb 18, 2026 01:06pm
 
 ## 受付
 
 ### 1. アクセス要求して
 **Author:** woolisbest (woolisbest)
 
-#### Comments (14)
+#### Comments (16)
 - **ᴎeoᴎӝ ❤️‍🔥 neo_n-.- ͛** (Feb 12, 2026 11:54pm): すぃた
 - **yukkuto** (Feb 13, 2026 03:20am): した
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 13, 2026 06:49am): sita
@@ -31,6 +31,8 @@
 - **ղѻოѻ𝟘𝟚𝟘𝟞** (Feb 17, 2026 09:21am): おまんこぽーん！
 - **ղѻოѻ𝟘𝟚𝟘𝟞** (Feb 17, 2026 09:21am): いれてちょ
 - **ピカマン#究極のさくらもちの従僕** (Feb 17, 2026 11:57am): 入れて
+- **hrk9373** (Feb 18, 2026 11:39am): 　
+- **陽著辺子** (Feb 18, 2026 01:06pm): 入れて欲しいです
 
 #### Additional Information
 - **Post color:** Yellow
