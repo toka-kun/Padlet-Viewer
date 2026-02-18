@@ -1,4 +1,4 @@
-最終更新: 2026/02/18 11:23:06
+最終更新: 2026/02/18 13:54:10
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 82
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Feb 18, 2026 01:30am
+- **Updated At (UTC):** Feb 18, 2026 04:40am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -325,8 +325,9 @@
 
 [Attachment 1](https://padlet.com/padlets/vvsqe84ae56v2qab)
 
-#### Comments (1)
+#### Comments (2)
 - **[🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ!** (Feb 11, 2026 12:37am): 仕様が戻ったので受付再開しました
+- **kai0408** (Feb 18, 2026 04:25am): https://padlet.com/a3_01/padlet-e4azy5s19f6weiqa
 
 #### Additional Information
 - **Post color:** White
@@ -1804,7 +1805,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771986186&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jn0USvLZJI0r0esxpUTE8iPzPwLx3A29ADMRd99hq5DaWD6RA8MIbkRK3aGZkESBv2zP%2FraB6ZIOMJWWThgrqjBWbxH7YIsR%2FHrlxKK5122%2FmBf%2BmvXkSwLRcsrX50ZtvEHzs2dNPaskE1KM5krmcqhEtu0uuAlcrEGdWQYCMh0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771995250&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jQPjfAg%2Bbn5QQcvlXayS8sTZ9i7hfXZ3gplR0e%2BIgnhUan23iLFLABm9zOA6u4jOPke%2FEji5zrs0hTPqPvQQoUU49qUEliwF8OZeWRUCgMLWMh5N5CsWaIvvc6IOyQYALwbwLkLMO1bfEe%2BNOhQ7ZjCgWdgmoB0daK7tjaSjjRI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて

@@ -1,4 +1,4 @@
-最終更新: 2026/02/18 11:23:29
+最終更新: 2026/02/18 13:54:33
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 18, 2026 12:57am
+- **Updated At (UTC):** Feb 18, 2026 03:29am
 
 ## 受付
 
@@ -149,7 +149,7 @@
 
 [Attachment 1](https://padlet.com/sakuramoti_modori/home)
 
-#### Comments (10)
+#### Comments (12)
 - **さくらもち** (Feb 02, 2026 12:01pm): わー
 - **全ての部屋にコメントする** (Feb 11, 2026 12:56pm): ( ｀・∀・´)ﾉﾖﾛｼｸ
 - **ピカマン#究極のさくらもちの従僕** (Feb 17, 2026 11:57am): 今荒らされてる
@@ -160,6 +160,8 @@
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 18, 2026 12:57am): どうがとったどー
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 18, 2026 12:57am): [Attachment](https://padlet.com/woolisbest/padlet-99xq7bb7zjzcfzw0/wish/PR3NWxGR5wgpZb0O) 
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 18, 2026 12:58am): ルールのセクション消せそすれば治る
+- **青葉  @BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ** (Feb 18, 2026 03:29am): https://padlet.com/an18049
+- **青葉  @BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ** (Feb 18, 2026 03:29am): とりま全部消した
 
 #### Additional Information
 - **Post color:** Blue
