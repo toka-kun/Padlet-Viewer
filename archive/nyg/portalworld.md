@@ -1,4 +1,4 @@
-最終更新: 2026/02/18 08:30:23
+最終更新: 2026/02/18 11:23:06
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 82
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Feb 17, 2026 04:31am
+- **Updated At (UTC):** Feb 18, 2026 01:30am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -99,6 +99,9 @@
 **モデレーター数:** 10~
 
 [Attachment 1](https://padlet.com/padlets/6jkb5gxt8fe0d1bn)
+
+#### Comments (1)
+- **トロンボーン吹きの吹奏楽部員** (Feb 18, 2026 01:30am): 管理者は知人から選びます
 
 #### Additional Information
 - **Post color:** White
@@ -1801,7 +1804,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771975823&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2irwwm9VYV4akft09X2kUIpLuf9YvuyAoXrEQO1x6TcGv7Tz30u%2BcKeSzhFbeMFUIbNi0cZhLXfzYMirlglOv9WZ00m9iuMcyJ6sm7ZnweatvJhkv%2FMCYA%2FFe%2BffCCcptH6IANaiNgap%2Fx8%2BPgBCYWPMy8QTvjOaJi%2BWr1seWss%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1771986186&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jn0USvLZJI0r0esxpUTE8iPzPwLx3A29ADMRd99hq5DaWD6RA8MIbkRK3aGZkESBv2zP%2FraB6ZIOMJWWThgrqjBWbxH7YIsR%2FHrlxKK5122%2FmBf%2BmvXkSwLRcsrX50ZtvEHzs2dNPaskE1KM5krmcqhEtu0uuAlcrEGdWQYCMh0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて

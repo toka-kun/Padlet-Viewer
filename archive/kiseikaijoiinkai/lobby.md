@@ -1,4 +1,4 @@
-最終更新: 2026/02/18 08:30:59
+最終更新: 2026/02/18 11:23:53
 
 # 規制解除委員会(臨時本部)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 51
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Feb 17, 2026 12:43pm
+- **Updated At (UTC):** Feb 18, 2026 02:23am
 
 ## ルール
 
@@ -18,16 +18,12 @@
 
 <p>俺から一言　ログインしろ</p>
 
-#### Comments (10)
+#### Comments (6)
 - **猿モンキー** (Feb 09, 2026 05:03am): ナイス！
 - **サタン** (Feb 10, 2026 12:25pm): 学タブで見れなくなった
 - **サタン** (Feb 10, 2026 12:26pm): それってログインしてなくてなんもしてない人のことも考えて欲しいです
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 10, 2026 12:27pm): 嵐がいたから
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 10, 2026 12:28pm): だから直したやん
-- **Fancy Lobster** (Feb 10, 2026 10:34pm): 消さないでくださいまじでなんもしてない人の気持ちを考えてください
-- **C** (Feb 11, 2026 01:34am): 消して逃げるな
-- **C** (Feb 12, 2026 12:25am): ログインしないとできないようにしたら何もしてない人からしたら最悪のただの自己中になってるから
-- **C** (Feb 11, 2026 01:35am): ログインしてない人からしたらただのゴミサイトで自己中やんけってなってるからな？
 - **Eager Jackrabbit** (Feb 11, 2026 01:36am): ごめんなさい治ってました
 
 #### Additional Information
@@ -123,7 +119,7 @@
 
 <p>とるっぷいが何者かによってBANされた！！！だから、とるっぷいが維持してた規制解除委員会本部部屋やVIP部屋が消えました！！なので、とるっぷい復帰まではここが臨時本部になるんやで。ってことでとるっぷい復帰までは何かあったらいときち(俺)or中居正広に行ってクレメンス。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1771975859&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JLcwiAus4GlJXnWej9rar4LeqwSJFG8m%2Bylz%2FQNx%2FApOzyLdxJfUQL5bNdNkW%2B4keEscflXFzswcvg7YbJd3kRg8%2FqMU4MFitNl1BbNeieOE2%2BeoIbkidT%2FASk2XQMn0q1NJ623FRgfv5YeYpAU480vdVziRoH7sDSsbEp9m0hg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1771986232&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nvVA6XdT9lKzXpkA%2F%2FrWShTQDVq%2F7xXTfk2vfdyVhiW84J5P9AxE6oEhIA2Y4JRQoJ7LOepY4phr3g5mKzZ3edTjvwmKlyJGYgEgGOSHyx27qlQTipyhT0gh0%2FoahJoBPy3oh17q21NV0SwmFSh26mKh23e4bia42nZv8EN1DN4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
 
 #### Comments (3)
 - **中居** (Jan 09, 2026 11:54am): かなちい
@@ -161,7 +157,7 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1771975859&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kvyorJT77jWY6m9wIGmlMBRF1kjYX6p5TrY%2B90K4Mi%2Fjyq0fkcY4Crm7ydaJZxkr9qPqQy0o8cEG1672CCXSRvaaNN1%2BJZc1KQxMlAUtmez4jVVkg%2F0R60CC7Wq3yFJyYSVEOZXQNojMWv3sOX5nXeMjKjr6JtL%2Bu5ZHwXdYOsI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1771986232&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=O0y9l3lFvnwYC08rSNA2%2Bz8YcZAltFpY%2F04lSErSTfV6bNDK8z8BM8m6IvgIyA206z0dBH9iQYfN%2BS8IY4O0iodN3bZhwqYLVXFmT07ZbeoMtsBt2EcSMcNjVuxGtwBDXMszkGwjB7w2P67c1tplzr3O%2BMmKk6aLH8m6Ike0%2Fjw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Comments (1)
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 07, 2026 05:36am): suk
@@ -181,7 +177,7 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1771975859&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EpE8kSjQzNtxZ%2FAyxX4JxBZs3a0pycZHvowY%2BN0nH9YsKeKfpMrj%2BEug4Lz3%2Bd2OHNQmNH9gsgfkq4VKzwgv5gXgONe%2FyoSTscHgZA6ABfJ7bALP%2Fre54d56tlrK5ShajhC9lQMyENN5x7tCh%2FArlDgUJB55ZCyXkpdjbLMtQt8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1771986232&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=04wBkowuCWu%2B%2BBDZ7EC%2BYUBdcCsAH1JwYmSPfD8jYN9PN5o8BYoejz%2FPkNRofv1xajSr6zedtp6X%2BQWSFEt7xlHAySJUkKbt1dP81KyhpmI3bBJENGvlG6jSV97Rb%2F37UAIZXCAgpGUENK1C8tJOFSisH%2ByYnqnTmrYBseH5HZ8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Comments (6)
 - **う〇こガンミ委員会** (Feb 06, 2026 06:03am): https://script.google.com/a/macros/chuo-tky.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
@@ -199,239 +195,14 @@
 
 ## 規制解除委員会
 
-### 1. Post 1
-**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
+### 1. 本部だお
+**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 [Attachment 1](https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5)
 
-#### Comments (223)
-- **Y** (Feb 15, 2026 11:18pm): おはよ
-- **M** (Feb 15, 2026 11:19pm): おっはー
-- **Ky** (Feb 15, 2026 11:19pm): Konn
-- **YY** (Feb 15, 2026 11:20pm): あはは
-- **YY** (Feb 15, 2026 11:21pm): 楽しいね
-- **Y** (Feb 16, 2026 01:46am): ねぇねぇmさん
-- **M** (Feb 16, 2026 01:51am): やっほー
-- **Y** (Feb 16, 2026 05:17am): はい
-- **ky** (Feb 16, 2026 05:17am): あれさみんなでできるゲーム探そーやブロックされないやつ
-- **Y** (Feb 16, 2026 05:18am):  オk
-- **ky** (Feb 16, 2026 05:18am): ナイス
-- **Y** (Feb 16, 2026 05:18am): でも全部ブロックされんよ
-- **ky** (Feb 16, 2026 05:18am): ここで連絡できるクネ
-- **Y** (Feb 16, 2026 05:18am): 嬉しい
-- **Y** (Feb 16, 2026 05:18am): こっちむけ
-- **ky** (Feb 16, 2026 05:18am): 草
-- **Y** (Feb 16, 2026 05:18am): こっちむけ
-- **ky** (Feb 16, 2026 05:19am): なんかタイピングの時みたいに何かしらできるやろ
-- **Y** (Feb 16, 2026 05:19am): そうね
-- **ky** (Feb 16, 2026 05:19am): みうも呼んでやw
-- **Y** (Feb 16, 2026 05:19am): いいの見つけたら戻ってくる
-- **ky** (Feb 16, 2026 05:20am): おけ咳払いしてねそしたら戻る
-- **ky** (Feb 16, 2026 05:20am): 😘
-- **ky** (Feb 16, 2026 05:20am): きた？
-- **Y** (Feb 16, 2026 05:21am): これって写真送れんのん？
-- **ky** (Feb 16, 2026 05:22am): 遅れん
-- **Y** (Feb 16, 2026 05:22am): 😱
-- **ky** (Feb 16, 2026 05:22am): いいやつ見つけた！11
-- **ky** (Feb 16, 2026 07:28am): マイクラみたいなやつ1
-- **Y** (Feb 16, 2026 05:22am): なんかオンラインゲームって調べたらいいの見つかりそう
-- **ky** (Feb 16, 2026 05:22am): え、wだからみつけたw
-- **Y** (Feb 16, 2026 05:23am): 見つけたよ
-- **ky** (Feb 16, 2026 05:23am): こっちむけ
-- **Y** (Feb 16, 2026 05:23am): ゆずもみつけた
-- **ky** (Feb 16, 2026 05:23am): どれ？
-- **Y** (Feb 16, 2026 05:24am): やってみよ
-- **ky** (Feb 16, 2026 05:24am): いいよやろ
-- **Y** (Feb 16, 2026 05:24am): おんなじなんやろ
-- **ky** (Feb 16, 2026 05:24am): うん
-- **ky** (Feb 16, 2026 05:24am): wあたし作る
-- **Y** (Feb 16, 2026 05:24am): ほんまや一緒
-- **Y** (Feb 16, 2026 05:24am): どれ？
-- **Y** (Feb 16, 2026 05:25am): どれ？
-- **ky** (Feb 16, 2026 05:25am): 右上に
-- **ky** (Feb 16, 2026 05:25am): コードみたいなのある
-- **ky** (Feb 16, 2026 05:25am): それ押して今から送る
-- **Y** (Feb 16, 2026 05:25am): ？
-- **Y** (Feb 16, 2026 05:25am): 右上？
-- **ky** (Feb 16, 2026 05:25am): EO6
-- **ky** (Feb 16, 2026 05:26am): これで入ってきてみて
-- **Y** (Feb 16, 2026 05:26am): ゆなが作ったらいいってことね
-- **ky** (Feb 16, 2026 05:26am): きた
-- **ky** (Feb 16, 2026 05:26am): ナイスw w w w
-- **Y** (Feb 16, 2026 05:27am): こっからどうすればいいん？
-- **Y** (Feb 16, 2026 05:27am): ゆなが終わるまでまっとけばいいんか
-- **Y** (Feb 16, 2026 05:27am): 納得
-- **ky** (Feb 16, 2026 05:28am): 一回抜けて
-- **ky** (Feb 16, 2026 05:28am): やり直す
-- **ky** (Feb 16, 2026 05:29am): BXU
-- **ky** (Feb 16, 2026 05:29am): これでやって
-- **Y** (Feb 16, 2026 05:45am): やろ
-- **ky** (Feb 16, 2026 05:54am): おおおおおおお
-- **y** (Feb 16, 2026 05:56am): なんかおかしくなった
-- **y** (Feb 16, 2026 05:56am): やろ
-- **y** (Feb 16, 2026 05:56am): おーい
-- **y** (Feb 16, 2026 05:56am): 😤
-- **ky** (Feb 16, 2026 06:04am): 咳払いしーや
-- **y** (Feb 16, 2026 06:05am): した
-- **ky** (Feb 16, 2026 06:09am): 聞こえんてw
-- **ky** (Feb 16, 2026 06:09am): でかいやつでしてや
-- **y** (Feb 16, 2026 06:13am): おk
-- **Y** (Feb 16, 2026 11:13pm): おーい
-- **ky** (Feb 16, 2026 11:14pm): へい
-- **Y** (Feb 16, 2026 11:14pm): やっちゃう？
-- **ky** (Feb 16, 2026 11:14pm): やっちゃうかw
-- **ky** (Feb 16, 2026 11:14pm): みうは
-- **Y** (Feb 16, 2026 11:14pm): ゆながやって
-- **ky** (Feb 16, 2026 11:15pm): どするのみうとかリアは
-- **Y** (Feb 16, 2026 11:15pm): みうやるっぽい
-- **Y** (Feb 16, 2026 11:15pm): 多分やけど
-- **ky** (Feb 16, 2026 11:15pm): ここのチャットきてw
-- **ky** (Feb 16, 2026 11:15pm): みう
-- **Y** (Feb 16, 2026 11:16pm): 今日はドーナツみたいなやつやりたい
-- **M** (Feb 16, 2026 11:16pm): はいよ
-- **ky** (Feb 16, 2026 11:16pm): なんやそれw
-- **Y** (Feb 16, 2026 11:16pm): ど夏が四角いやつ
-- **ky** (Feb 16, 2026 11:17pm): あーそれみんなでできるん?
-- **Y** (Feb 16, 2026 11:18pm): できる
-- **ky** (Feb 16, 2026 11:18pm): ゆずがやってわからん
-- **Y** (Feb 16, 2026 11:18pm): おk
-- **ky** (Feb 16, 2026 11:21pm): 1人しかできんくね？
-- **Y** (Feb 16, 2026 11:46pm): さっきのやろうぜ
-- **ky** (Feb 16, 2026 11:47pm): いいぜリベンジ
-- **Y** (Feb 16, 2026 11:47pm): 先やるね
-- **ky** (Feb 16, 2026 11:47pm): へい
-- **Y** (Feb 16, 2026 11:48pm): フレンドコード教えて
-- **ky** (Feb 16, 2026 11:48pm): おけつ
-- **ky** (Feb 16, 2026 11:50pm): Yunasuke#7545
-- **ky** (Feb 16, 2026 11:50pm): これ
-- **Y** (Feb 16, 2026 11:50pm): yは小文字？
-- **ky** (Feb 16, 2026 11:50pm): 🤪
-- **Y** (Feb 16, 2026 11:50pm): 大文字？
-- **ky** (Feb 16, 2026 11:50pm): うん
-- **ky** (Feb 16, 2026 11:51pm): 小文字
-- **ky** (Feb 16, 2026 11:51pm): 全部小文字
-- **ky** (Feb 16, 2026 11:52pm): できたか？
-- **Y** (Feb 16, 2026 11:52pm): Dekita
-- **Y** (Feb 16, 2026 11:52pm): できた
-- **ky** (Feb 16, 2026 11:53pm): フレンドなれた
-- **ky** (Feb 16, 2026 11:53pm): 招待するね
-- **Y** (Feb 16, 2026 11:53pm): はーい
-- **ky** (Feb 16, 2026 11:53pm): ログインしろ
-- **Y** (Feb 16, 2026 11:53pm): おk
-- **Y** (Feb 16, 2026 11:54pm): できん
-- **ky** (Feb 16, 2026 11:54pm): ゆずが招待してみて
-- **Y** (Feb 16, 2026 11:54pm): おk
-- **ky** (Feb 16, 2026 11:54pm): ゆなもできんなんか最終ログインなってる
-- **ky** (Feb 16, 2026 11:55pm): 画面見ろ入れてるよ
-- **Y** (Feb 16, 2026 11:57pm): ログインできた
-- **Y** (Feb 16, 2026 11:57pm): 画面には入ってないけど
-- **Y** (Feb 16, 2026 11:58pm): 性別とか入れた
-- **ky** (Feb 16, 2026 11:58pm): 何しよんw
-- **ky** (Feb 16, 2026 11:58pm): さっきおったで
-- **ky** (Feb 16, 2026 11:58pm): マップ入るからきて
-- **ky** (Feb 16, 2026 11:59pm): 何しよんw
-- **Y** (Feb 17, 2026 12:00am): Mazi
-- **Y** (Feb 17, 2026 12:06am): Yameroya
-- **Y** (Feb 17, 2026 12:12am): だめだ
-- **Y** (Feb 17, 2026 12:12am): 面白過ぎて笑っちゃう
-- **ky** (Feb 17, 2026 12:12am): 別のやろ
-- **ky** (Feb 17, 2026 12:12am): 遊園地だけ嫌だ
-- **Y** (Feb 17, 2026 12:13am): いいよ
-- **Y** (Feb 17, 2026 12:13am): 探すってこと
-- **ky** (Feb 17, 2026 12:13am): ちゃうよ
-- **ky** (Feb 17, 2026 12:13am): 別のマップがある
-- **ky** (Feb 17, 2026 12:13am): モード選択ってところで
-- **ky** (Feb 17, 2026 12:14am): 変えれるよ
-- **Y** (Feb 17, 2026 12:14am): そういうことね
-- **ky** (Feb 17, 2026 12:14am): うんうやって
-- **ky** (Feb 17, 2026 12:15am): フレンドみたいなところ押したら
-- **Y** (Feb 17, 2026 12:15am): どうやってやるんかわからんからやって
-- **ky** (Feb 17, 2026 12:15am): 相手の所入れる
-- **ky** (Feb 17, 2026 12:15am): け入ってきてね
-- **ky** (Feb 17, 2026 12:15am): おけ？
-- **Y** (Feb 17, 2026 12:16am): はい
-- **Y** (Feb 17, 2026 12:16am): ちょっとわかんねー
-- **ky** (Feb 17, 2026 12:17am): ロビーもどれ
-- **ky** (Feb 17, 2026 12:17am): 遊園地のところないよ
-- **ky** (Feb 17, 2026 12:17am): 最初の画面に行って
-- **Y** (Feb 17, 2026 12:17am): いった
-- **ky** (Feb 17, 2026 12:17am): でフレンド
-- **ky** (Feb 17, 2026 12:18am): ゆな名前のところで参加
-- **Y** (Feb 17, 2026 12:18am): ユナとフレンドになってない
-- **ky** (Feb 17, 2026 12:19am): え
-- **ky** (Feb 17, 2026 12:19am): どゆことw
-- **ky** (Feb 17, 2026 12:19am): 名前教えて
-- **Y** (Feb 17, 2026 12:20am): yuzuki0806#5459
-- **ky** (Feb 17, 2026 12:21am): できん
-- **Y** (Feb 17, 2026 12:21am): 全部小文字よ
-- **ky** (Feb 17, 2026 12:21am): うんこもじ
-- **Y** (Feb 17, 2026 12:23am): ゆずが部屋作るから
-- **ky** (Feb 17, 2026 12:23am): [Attachment](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl/wish/jpoxaj2mLM0KabPE) これ写真貼れる
-- **Y** (Feb 17, 2026 12:23am): すご
-- **Y** (Feb 17, 2026 12:24am): あっとるよ
-- **Y** (Feb 17, 2026 12:24am): 名前
-- **ky** (Feb 17, 2026 12:24am): でも送れん
-- **ky** (Feb 17, 2026 12:24am): [Attachment](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl/wish/jpoxaj2mLM0KabPE) ほおっっほほほお
-- **Y** (Feb 17, 2026 12:24am): どうやってやるん？
-- **ky** (Feb 17, 2026 12:25am): 横にプラスあるやろ
-- **ky** (Feb 17, 2026 12:25am): それ推して
-- **ky** (Feb 17, 2026 12:25am): そしたら遅れると思うけろ
-- **Y** (Feb 17, 2026 12:25am): おした
-- **Y** (Feb 17, 2026 12:27am): https://www.crazygames.com/jp/game/mr-dude-online-multiverse-challenge?czy_invite=true&utm_source=invite&room=A8S46G
-- **ky** (Feb 17, 2026 12:27am): 何これ
-- **Y** (Feb 17, 2026 12:28am): 私が作った部屋
-- **ky** (Feb 17, 2026 12:28am): でも入れんくね
-- **ky** (Feb 17, 2026 12:28am): 日本語ないし
-- **ky** (Feb 17, 2026 12:30am): 別のゲームしよ
-- **Y** (Feb 17, 2026 12:30am): A8S46Gに入ってきて
-- **ky** (Feb 17, 2026 12:31am): どこで参加あできるん
-- **Y** (Feb 17, 2026 12:32am): モードを選択押して
-- **Y** (Feb 17, 2026 12:32am): 左下のコードを入力を押す
-- **ky** (Feb 17, 2026 12:33am): 部屋内
-- **ky** (Feb 17, 2026 12:34am): 無理だ
-- **Y** (Feb 17, 2026 05:54am): 写真のやり方わかった
-- **ky** (Feb 17, 2026 05:54am): 絶対あの2人よね
-- **Y** (Feb 17, 2026 05:55am): え、わかる
-- **Y** (Feb 17, 2026 05:55am): 2人で行っとる人で投げてそうなのあの2人やもん
-- **ky** (Feb 17, 2026 05:55am): わざわざ名前言わんことってあるん
-- **ky** (Feb 17, 2026 05:56am): それな
-- **Y** (Feb 17, 2026 05:56am): 確かに
-- **ky** (Feb 17, 2026 05:56am): カワウソすぎな
-- **ky** (Feb 17, 2026 05:56am): 🥲
-- **Y** (Feb 17, 2026 05:56am): だって言っちゃんのこともみゆちゃんのことも知っとるもんね
-- **ky** (Feb 17, 2026 05:57am): それなおもしろ半分で投げたけーそうなったやろ
-- **ky** (Feb 17, 2026 05:58am): そんなことあるうううう
-- **ky** (Feb 17, 2026 05:58am): 帰りそう聞こうかな中2の男子
-- **ky** (Feb 17, 2026 05:58am): 😘
-- **Y** (Feb 17, 2026 05:59am): そうして
-- **Y** (Feb 17, 2026 05:59am): 絶対あの2人で草
-- **ky** (Feb 17, 2026 05:59am): 今日誰とかえる・
-- **Y** (Feb 17, 2026 06:00am): はるか、みゆちゃん？
-- **ky** (Feb 17, 2026 06:00am): 　　　　オデと帰ろ
-- **ky** (Feb 17, 2026 06:01am): 😘
-- **ky** (Feb 17, 2026 06:01am): はるあんちゃんとかえるゆーてたし
-- **ky** (Feb 17, 2026 06:01am): みゆちゃんは、誘われたん？
-- **Y** (Feb 17, 2026 06:07am): それはやだ笑
-- **ky** (Feb 17, 2026 06:08am): は・
-- **ky** (Feb 17, 2026 06:08am): 悲し
-- **Y** (Feb 17, 2026 06:08am): 🤪
-- **ky** (Feb 17, 2026 06:08am): 🥹
-- **ky** (Feb 17, 2026 06:08am): ないちゃう
-- **Y** (Feb 17, 2026 06:10am): [Attachment](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl/wish/jpoxaj2mLM0KabPE) 
-- **ky** (Feb 17, 2026 06:11am): 入れろし111
-- **ky** (Feb 17, 2026 06:29am): あばよ相棒wwwwwwwwwww
-- **白馬から転落の王子様** (Feb 17, 2026 06:34am): なんのゲームか教えてください‼︎
-- **ky** (Feb 17, 2026 10:16am): これはリンク貼りますね
-- **ky** (Feb 17, 2026 10:17am): Mr. Dude: Online Multiverse Challenge 名前はこれで
-- **ky** (Feb 17, 2026 10:17am): https://www.crazygames.com/jp/game/mr-dude-online-multiverse-challenge?czy_invite=true&utm_source=invite&room=A8S46G
-- **ky** (Feb 17, 2026 10:17am): リンクでず
-- **Clever Quail** (Feb 17, 2026 12:09pm): ブロックされたぁぁぁーーー
-- **Clever Quail** (Feb 17, 2026 12:10pm): 教えていただきありがとうございますお詫びにこれどうぞ（べつの場所にも貼ったけど）
-- **Clever Quail** (Feb 17, 2026 12:10pm): https://ryanjetplane1.codeberg.page/Openbeta/
-
 #### Additional Information
-- **Created At (UTC):** Jan 20, 2026 10:53am
-- **Updated At (UTC):** Jan 20, 2026 10:53am
+- **Created At (UTC):** Feb 18, 2026 12:27am
+- **Updated At (UTC):** Feb 18, 2026 12:27am
 
 ---
 
@@ -1047,7 +818,7 @@
 
 <p>えぐいてえええええええ</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1771975859&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aOGE%2Fqly7GvY5ck5xN0g%2F6GcSGs8NcD2n5e5cjsknNED2V4%2BjL8Hq2wwREKKZ%2B%2BoVmjCH4riHZkHNCdRf%2F%2BYGL6BxzZRmkaEWginyEnoCc3MWjczMaviZKLB17RPAIYLOkN%2FIM3eO%2FM%2BfIgvyOADpGyIGsGouifss3W51jm7y7k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1771986232&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aN22RUG7Hk1Pf4P%2F2%2B5CU57DtFSx4B1nY7t%2FR1X0wsyW3SQyF6LaTK%2Bf%2BelV7B4tIanV5IbhXWp6XHY2jiob%2FwyL%2Bz9c8sT6zC78ZblT4xqG9el8hAZ2nWzs%2Bf1vxzfWuLv5buawcEnLQcySdJtFbyBLt3RH8d%2Fc2T4wwskruEo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
 
 #### Comments (3)
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Oct 18, 2025 08:27am): うぉぉぉぉ
@@ -1109,6 +880,46 @@
 
 ### 1. 雑弾はここでしてね
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
+#### Comments (38)
+- **ky** (Feb 18, 2026 02:06am): ここでして
+- **ky** (Feb 18, 2026 02:07am): 見つけた？
+- **Y** (Feb 18, 2026 02:08am): ここか
+- **ky** (Feb 18, 2026 02:08am): そそあたり多分ここならいい
+- **ky** (Feb 18, 2026 02:08am): 何する？
+- **Y** (Feb 18, 2026 02:09am): [Attachment](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl/wish/R7dXad9pRqz1Q6bl) 
+- **Y** (Feb 18, 2026 02:09am): これがいい
+- **ky** (Feb 18, 2026 02:09am): なにそれ名前何リンク貼って
+- **Y** (Feb 18, 2026 02:09am): オk
+- **ky** (Feb 18, 2026 02:09am): アギがと 
+- **ky** (Feb 18, 2026 02:09am): 🥰
+- **Y** (Feb 18, 2026 02:10am): https://www.crazygames.com/jp/game/mr-dude-online-multiverse-challenge?czy_invite=true&utm_source=invite&room=AHD4JN
+- **ky** (Feb 18, 2026 02:11am): 名前何
+- **Y** (Feb 18, 2026 02:12am): 名前とかない
+- **ky** (Feb 18, 2026 02:13am): えどにゅことw
+- **Y** (Feb 18, 2026 02:13am): 危険な橋
+- **ky** (Feb 18, 2026 02:13am): ルーム作って
+- **Y** (Feb 18, 2026 02:13am): オk
+- **ky** (Feb 18, 2026 02:13am): ナイスクスく
+- **Y** (Feb 18, 2026 02:14am): https://www.crazygames.com/jp/game/mr-dude-online-multiverse-challenge?czy_invite=true&utm_source=invite&room=AHR29P
+- **Y** (Feb 18, 2026 02:16am): 間違えた
+- **ky** (Feb 18, 2026 02:16am): ないよできない
+- **ky** (Feb 18, 2026 02:16am): やっぱフレンドになる
+- **ky** (Feb 18, 2026 02:16am): ？
+- **Y** (Feb 18, 2026 02:18am): ATF4MS
+- **ky** (Feb 18, 2026 02:19am): 無理だ
+- **ky** (Feb 18, 2026 02:19am): 私が一回作る
+- **Y** (Feb 18, 2026 02:20am): オk
+- **ky** (Feb 18, 2026 02:21am): どこにコード書いてあるか分からん
+- **ky** (Feb 18, 2026 02:22am): 教えてくれ
+- **Y** (Feb 18, 2026 02:22am): 右上のボタン押して
+- **ky** (Feb 18, 2026 02:22am): 何それ
+- **Y** (Feb 18, 2026 02:22am): 招待って書いてあるところ押したら
+- **Y** (Feb 18, 2026 02:22am): 下に出てくる
+- **Y** (Feb 18, 2026 02:23am): 三本線があるところあるやん
+- **ky** (Feb 18, 2026 02:23am): https://www.crazygames.com/jp/game/mr-dude-online-multiverse-challenge?czy_invite=true&utm_source=invite&room=AUJW75
+- **ky** (Feb 18, 2026 02:23am): これ行ける・
+- **ky** (Feb 18, 2026 02:23am): ちょい待ち
 
 #### Additional Information
 - **Created At (UTC):** Feb 17, 2026 05:07am
