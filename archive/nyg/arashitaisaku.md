@@ -1,4 +1,4 @@
-最終更新: 2026/02/12 15:09:41
+最終更新: 2026/02/19 18:49:05
 
 # 荒らし対策室
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-i0fd897smvjo0tvj
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 10
+- **Posts:** 11
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Feb 12, 2026 05:30am
+- **Updated At (UTC):** Feb 19, 2026 09:30am
 
 ## リンク集
 
@@ -109,7 +109,17 @@
 
 ## 保管倉庫①
 
-### 1. かいと
+### 1. りおと
+**Author:** りおとだお！　もうすぐ中学卒業！ (riotodao)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 07, 2026 07:20am
+- **Updated At (UTC):** Feb 19, 2026 09:30am
+
+---
+
+### 2. かいと
 **Author:** かいと (HALVES_LOVE)
 
 #### Reactions
@@ -123,7 +133,7 @@
 
 ---
 
-### 2. レイ
+### 3. レイ
 **Author:** レイ　#最近ていふ (rei_ryu)
 
 #### Reactions
@@ -137,7 +147,7 @@
 
 ---
 
-### 3. たたたんこ
+### 4. たたたんこ
 **Author:** たたたんこ (Tatatanko)
 
 #### Reactions
@@ -151,7 +161,7 @@
 
 ---
 
-### 4. キット
+### 5. キット
 **Author:** エドガー (edoga125)
 
 <p><strong>偽エドガーなので注意</strong></p>
