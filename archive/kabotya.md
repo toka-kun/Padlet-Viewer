@@ -1,4 +1,4 @@
-最終更新: 2026/02/20 14:55:50
+最終更新: 2026/02/20 15:59:28
 
 # 規制突破の世界
 
@@ -7,14 +7,14 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 122
 - **Created At (UTC):** Aug 20, 2024 06:37am
-- **Updated At (UTC):** Feb 20, 2026 05:52am
+- **Updated At (UTC):** Feb 20, 2026 06:53am
 
 ## ライター
 
 ### 1. ライターになりたい人コメント
 **Author:** かぼちゃ (kabot)
 
-#### Comments (320)
+#### Comments (322)
 - **Benevolent Puffin** (Feb 19, 2026 03:06am): あいと撲滅委員会です雑談の一番下来てください来てくれたら会話しますよお願いします🙇
 - **クソ豚撲滅委員会** (Feb 19, 2026 04:42am): 俺を撲滅して楽しいか…
 - **クソ豚撲滅委員会** (Feb 19, 2026 04:43am): 名前変える⭐️
@@ -335,6 +335,8 @@
 - **シルウス** (Feb 20, 2026 04:32am): よろしくお願いします😁
 - **シルウス** (Feb 20, 2026 04:33am): ブロスタ好きです　気軽に話しかけてください
 - **Adorable Earthworm** (Feb 20, 2026 05:52am): サンダーバード作ってね 
+- **社員マスカットボンボン** (Feb 20, 2026 06:08am): 今12号いないよ〜てか誰
+- **釈迦ポテ** (Feb 20, 2026 06:16am): それな⊂((・x・))⊃
 
 #### Additional Information
 - **Post color:** White
@@ -440,7 +442,7 @@
 
 <p>鉄道好きの方　どなたかこの部屋に入って欲しいです　雑談というセクションで皆さん楽しみましょう</p>
 
-#### Comments (7)
+#### Comments (8)
 - **WestExpress 銀河 京都行** (Dec 20, 2025 01:07pm): コメントして頂いた方に招待します
 - **猫耳** (Dec 24, 2025 02:08am): パスワード
 - **oboro朧** (Jan 23, 2026 08:17am): パスワードを入力しないと入れません
@@ -448,6 +450,7 @@
 - **Excited Catfish** (Feb 13, 2026 06:34am): Mi4wMzF8fDE3NzA4NzM5OTg5Mjg7MTc3MDg3Mzk5ODkyODsxNzcwOTY0Mzk1MTM2O0hBTkFERUtBO2R6ZWZjfDExMTExMTAxMTAwMTAwMTAwMTAxMHwyMTc1ODAzNTkyNy4zNjgxMjsxMTA1NzI5Mzk3MjYuMjY4MDc7MjcwMjQ7MTk7MzEyNDM4NzkwMy44MzQ3NDU0OzEwNTswOzA7MDswOzA7MDswOzA7MDsxOTswOzA7MDswOzA7MDt2YWxlbnRpbmVzOzA7MDswOzA7MDswOzA7LTE7LTE7LTE7LTE7LTE7MDswOzA7MDs1MDswOzA7MDswOzE3NzA5MDcxMTMyMDc7MDswOzswOzA7MDs3NjQwNzk0LjY0ODY5NDA4Mzt8MTEwLDExMCw5MDEzNTIyNzI1LDAsLDAsMTEwOzEwMCwxMDEsMzU0MzA1OTUwOSwwLCwwLDEwMDsxMDAsMTAxLDE0NTcxNjYxOTEsMCwsMCwxMDA7NzAsNzAsMzI3MjUwMjQ5MCwwLCwwLDcwOzYwLDYwLDEwNDA1NjQ2MDQyLDAsLDAsNjA7NTAsNTAsMTg3MzQ4ODQzNTMsMCwsMCw1MDsyMiwyMiwyODM5MTYwMTY5OCwwLCwwLDIyOzEwLDEwLDMwNDE3ODg4MjAxLDAsLDAsMTA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwO3wxMTExMTExMTExMTEwMDExMTExMTExMTExMTExMTExMTExMTExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMTExMTExMTExMTExMTExMTAxMDAwMTExMTExMTEwMDAwMDAwMDExMDAwMDEwMTAxMTExMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTExMTExMDAwMTAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMTEwMDAwMDExMTEwMDAwMDAwMDExMTEwMDAwMDAwMDExMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTF8MTExMTExMTAwMDAwMDAwMDExMTExMTAwMDAwMDAwMTExMTExMTEwMTExMTExMTExMDExMDAwMDAwMDAwMDAwMDAwMDExMDAxMTExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTEwMDAxMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMHx8%21END%21
 - **Respectful Ocelot** (Feb 13, 2026 09:03am): Mi4wMzF8fDE3NzA4NzM5OTg5Mjg7MTc3MDg3Mzk5ODkyODsxNzcwOTczMzc1NDE5O0hBTkFERUtBO2R6ZWZjfDExMTExMTAxMTAwMTAwMTAwMTAxMHwyMDExNjMzMDQ5MC45NTEzNjM7MjE5ODAxMTg2MTIyLjE1MTM0OzI3NjU0OzI1OzM2MTA3MTUyNDIuNzI1Mjg1OzEyODswOzA7MDswOzA7MDswOzA7MDsyNTswOzA7MDswOzA7MDt2YWxlbnRpbmVzOzA7MDswOzA7MDswOzA7LTE7LTE7LTE7LTE7LTE7MDswOzA7MDs1MDswOzA7MDswOzE3NzA5MDcxMTMyMDc7MDswOzswOzA7MDsxNjQyNzI3NS4zOTM4MTMwMjM7fDExMCwxMTAsMTMxMjIwMDI2NTgsMCwsMCwxMTA7MTAwLDEwMSw2MTA5NjUwMTgwLDAsLDAsMTAwOzEwMCwxMDEsMjMzODkyMjA1NywwLCwwLDEwMDs5MCw5MCw0ODI1ODMzMDE2LDAsLDAsOTA7NzAsNzAsMTYzNDc1ODg3MjQsMCwsMCw3MDs1MCw1MCwzMDc5MDE0MDM0NywwLCwwLDUwOzMyLDMyLDQ1MTc4ODU1NTI1LDAsLDAsMzI7MjAsMjAsODQxODY2MDcwODgsMCwsMCwyMDsxLDEsNDQ3NjEwNjc1NiwwLCwwLDE7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7fDExMTExMTExMTExMTAwMTExMTExMTExMTExMTExMTExMTExMTExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTExMTExMTExMTExMTExMTExMTExMTEwMDAxMTExMTExMTAwMDAwMDAwMTEwMDAwMTAxMDExMTExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMTEwMDAxMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTExMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTExMTExMTAwMDAwMTExMTExMDAwMDAwMTExMTAwMDAwMDAwMTExMTExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTExMTExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTExMXwxMTExMTExMDAwMDAwMDAwMTExMTExMTAwMDAwMDAxMTExMTExMTAxMTExMTExMTEwMTEwMTAwMDAwMDAwMDAwMDAwMTEwMDExMTExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTAwMDEwMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwfHw%3D%21END%21
 - **Calm Cricket** (Feb 17, 2026 04:12am): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
+- **釈迦ポテ** (Feb 20, 2026 05:59am): 荒らしやめてもろて
 
 #### Additional Information
 - **Post color:** White
@@ -510,7 +513,7 @@
 
 <p>俺は買ったよ</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/94018134aa72b906730df049d217f6d1/image.jpg?Expires=1772171748&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GCEpj3y09OMU3EhxipHxq6Up%2F5eUnXMWrAgvR4YvU1Pv3ezHtdRsPNyz%2FpFIaLd6OI2RFu34NmgAYapK0PRSDxl78l6AFnUW8eu4Gfu%2F3mgBl7eJ1gRoIIL%2FCRJVKAoeEKdGtCYv0Cq50VFMHI7ZF0RV60jmojZSBLoYR6zPGgw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F94018134aa72b906730df049d217f6d1%2Fimage.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/94018134aa72b906730df049d217f6d1/image.jpg?Expires=1772175566&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tFfVXpgm%2BBD7iPiwUy4%2Bv4Wa%2BmNWsnq6qZ5OARG1b5s4YpZh1QuFXIX6JwtsYwIItkWX0WXwOKXbVHLRKzHh75%2FT0qOLDUQ0CHQgafpWeqwdB2yTMPjvrgAS%2F%2BjXa8%2B6o5gz4V7Bry5nm7%2B17F7RdWtPDqQ08NeJ7G%2BajCUNj4o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F94018134aa72b906730df049d217f6d1%2Fimage.jpg)
 
 #### Comments (11)
 - **NARITATI　りおと族30代目　りおと弟子30番** (Oct 25, 2025 10:18am): いいな〜
@@ -573,7 +576,7 @@
 ### 12. 最後の5秒編集した。
 **Author:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/7ef07e48e063a7b182f6cf00b43fe1d2/_____________YouTube_________.mp4?Expires=1772171748&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5%2BRCve6Ab46fRzMjfxNjJH%2BoitHvpTsZbqqzxgDJWK9QuzW0ZI4gF%2FzFG5HpMUDcUa5I01gprJbZCkc00nm%2FBK74eK39MnSQuHjlbyYHfslVmVynfq5ntKdGcEZOhNEHrdbqJw63qSXJaI4nNJEmMyU4d%2BdTBC4wyQlfiHW6iFg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F7ef07e48e063a7b182f6cf00b43fe1d2%2F_____________YouTube_________.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/7ef07e48e063a7b182f6cf00b43fe1d2/_____________YouTube_________.mp4?Expires=1772175566&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qCgKmUVyrWntm0wsuISVv13t5wN8Nba62cJ%2BMNsd0jAjMGIUNL9kX2zD%2ByLsPcfNm%2BVHSlvhpo0ncrWxzeK8YvBl7EsfCrH7yHJgDCEsYoaxf6Z2Qtrbr1jbxfgO1PcFBD4QAtkgzUPnGyIqfxgvFMr0c%2FiNO5A%2FioWbt9GKD%2FE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F7ef07e48e063a7b182f6cf00b43fe1d2%2F_____________YouTube_________.mp4)
 
 #### Comments (1)
 - **クソ豚撲滅委員会** (Feb 17, 2026 10:11am): もっと曲出して。
@@ -1245,7 +1248,7 @@
 
 <p>笑ったら👍️押して</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/5f6661282b178b6ae59c5a2cf86322bf/Screen_recording_2025_04_08_12_50_54.webm?Expires=1772171749&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=R389xOYaLknwBtxObnREAV280Ktdtm1V%2BCss%2F6QSGQ2jbPnxHnCd4F5W%2FUwjvU%2FgDOGS1h75QftXKRWcXztChyieaUPPjEe5%2BFgf64LOr93m62vP9UU1RsUpkdPvajecs%2BEYUXOOw2%2Ft7O93bJ5UrZBi5f5AyA6pvEFspGHS%2BB8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F5f6661282b178b6ae59c5a2cf86322bf%2FScreen_recording_2025_04_08_12_50_54.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/5f6661282b178b6ae59c5a2cf86322bf/Screen_recording_2025_04_08_12_50_54.webm?Expires=1772175566&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=t97edHAUDqDdFyoAnvjzqV5QHu73UFwUfIjt6%2BiYcVNhiTNAdlwHAnJJzjBh5BRCDRA6ZehJjmyXPYWALU%2Fojw%2BKtdJfO%2FVhWp8VMIVggB%2FDCIGrbTWEfHtRQY7Q364Q3Iqj3PVv4Xt8VWuqtjV296bULKC4HwNQOoQMYIkSIDc%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F5f6661282b178b6ae59c5a2cf86322bf%2FScreen_recording_2025_04_08_12_50_54.webm)
 
 #### Comments (3)
 - **なべさん** (Apr 08, 2025 03:53am): w
@@ -1290,7 +1293,7 @@
 ### 22. 待ってｗ普通にブロックｗｗ
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/c35cdf6225db884a79bfbe70fe842184/image.png?Expires=1772171749&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pNmODJw9%2BwogbVJhqr97Brc2S3L7WHIldYPLWTgpyDfnBvcAVOt7rfzTsiwQo6a2s5VH9LU%2Bck0wXjnua%2F%2F%2FRJEOQIB3VV1CC%2BRjR7uTvPOIlZdKRHYYjEzcTOIcbl3CHjYjOKl%2FEA0zRLdhDH%2F0w%2FXGVTuO1E8tVwwcIrfugto%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fc35cdf6225db884a79bfbe70fe842184%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/c35cdf6225db884a79bfbe70fe842184/image.png?Expires=1772175566&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=g%2FkYyL8zhzS0hL5zozerysWovuZ0eWvgvDPhgD7CRi0SglJzxSW98Q3NkEjFOdJ%2F0VJvtKo0LCDkDT2j99bK9QC54P6Cxqufpqs29BPDrQGFj%2BE49fBruz9mQOSDlTpi1JDFUVIZXILapMkhRJoKQXrBTtcgNA5et4JfI0oJjqQ%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fc35cdf6225db884a79bfbe70fe842184%2Fimage.png)
 
 #### Comments (5)
 - **柚子塩** (Apr 08, 2025 03:27am): www
@@ -1309,7 +1312,7 @@
 ### 23. なべさん、柚子塩さん
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/b8396ea7fd827a740bfb9ee98017847a/image.png?Expires=1772171749&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hJe5upq4OnFnPdGA3AUhqlbZ5wQnrAuUIcokjGo%2BWcMsx1RB3yzG0czWI5hfKBzJFvaaMbC86LikqF5S2gTTnBnMCwDdBxmVaeLBy9petPZNW363SON6n5vpgDKDPWwRfLtgL1R3fv%2B575tdAZgZ7NTIX1BDwVZpp1COO4J6qjY%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fb8396ea7fd827a740bfb9ee98017847a%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/b8396ea7fd827a740bfb9ee98017847a/image.png?Expires=1772175566&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=h2z0WLodZ61cLDsTB2UXeYI0EtpDQ5YHYT7AJi0OGULpnH3IUYjS8E9XdDEINdKH3SyMIYn9AYFBGnvntnAjaCSs%2BEfYooVm74OrLaXmcGOi340yVttaKHb8uc6bYbUtlhHAVb1%2F%2Foh6H2PjQMXlBJz76CWqPwx92hraxrz5VEU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fb8396ea7fd827a740bfb9ee98017847a%2Fimage.png)
 
 #### Comments (3)
 - **【超低浮上】Mr.k廃人** (Apr 08, 2025 03:26am): セーフらしいです
@@ -1568,7 +1571,7 @@
 ### 35. まぁこれが現在の状況です
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/d3730900b839f44b20861220e91685cf/image.png?Expires=1772171749&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=psZHGTt%2FHtmfGaVC19R%2BF%2FPy3F5uNy1GLTyNVwrdWG5ve9jz4k52hbVUkSz1hFvK370oHHX5s4ZehAMooNg7fQoYdoqEJdqcLVuAGti4Rv0qKAU6Xf7sqqIH9aLN%2BOInUNtfC%2FpDwpo%2F2gnJspehu6cmm5KwJp82qQ7lhs%2BNb0M%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fd3730900b839f44b20861220e91685cf%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/d3730900b839f44b20861220e91685cf/image.png?Expires=1772175567&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wwqpbar%2FXCTvN9aYwuMmJzooXLMDydAsI9KUPSpHwGDtQSES65HeREWvRKtsE%2F%2FUK%2FvshREDPLDFuEkShL0R1dN3OL7p6hOFoPMuqth2dRC6gJnz8laC1yPGdSvctV1aIDqUekj4PX6NUWSMOrxEKDXMKOPj9m657BV1gt45KW4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fd3730900b839f44b20861220e91685cf%2Fimage.png)
 
 #### Comments (29)
 - **柚子塩** (Apr 07, 2025 10:27pm): おぉ〜
@@ -1611,7 +1614,7 @@
 ### 36. やりかた
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/36d92899197a03dc53aeabb98c2edd79/Screen_recording_2025_04_07_20_43_59.webm?Expires=1772171749&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=S7iCCA8iWZ2sRgv9F2b9hmBk6P37bbR6Rw%2Fd5ysmoulA8lTnzVFuhsx7P6w57AMk%2BonN2arh%2FLqtJnHfz9qhflcvUq5wZkou8JHxZ3Of9We2nohoBqrOPokGWuYPBx2EgbCCV5ex7DapN6H40i0Yd9JgVkHcE1umWezZk446SFo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F36d92899197a03dc53aeabb98c2edd79%2FScreen_recording_2025_04_07_20_43_59.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/36d92899197a03dc53aeabb98c2edd79/Screen_recording_2025_04_07_20_43_59.webm?Expires=1772175567&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yoeRLtzqoZAq%2F1Sd0NR32Rzgp4QNDGlm7xdBunkeMvglgsg0i68CiOVeEQOABHK7PftUbcLfIOQWPET1Z5Ic5BhjMv8K1LY3dgNKjSR4vyb2tlP9BrLlE6TFoAVHi9%2BifPlLjb7YqL1YBvrlx3n7mJeSx%2FlZ1DM%2BSn9z5rUkYyU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F36d92899197a03dc53aeabb98c2edd79%2FScreen_recording_2025_04_07_20_43_59.webm)
 
 #### Comments (5)
 - **イグクラ大好き人間** (Apr 07, 2025 12:46pm): 俺もできたあ
@@ -1853,7 +1856,7 @@
 
 <p>Mr.暇人さんの荒らし対策本部のとこ荒らされてるしコメントすらできなくなってる？？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3655617445/8c143567029544738b654760a56cb885/IMG_0291.png?Expires=1772171749&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0Abe%2BIu7o7wVoKB3Gdx3o24I%2BW5oXADqmj8iHSDdpLDwLX8ZOnTDjm0BS%2BY%2BYTsovNhSa8Lf58Wa2IqQ5uO8bE6e2%2FMdDlO8Ks6Y1ryu9PUJ3EYxOPno0c4EHukr6ENlt0rrsD9MJJAtMU6DPheQc%2BA7Yn2GuztM%2BzMWkRndXI8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3655617445%2F8c143567029544738b654760a56cb885%2FIMG_0291.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3655617445/8c143567029544738b654760a56cb885/IMG_0291.png?Expires=1772175567&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mk%2FtpBM1Vzeb2Fbp16hFpQYQAdvXl9NLFbV31V%2FxNfe1lTOlZP5dbVUto%2B5rfeQObrQkOrwEqWfvYF0LE90BLIZPudb2yGnNM5lr8GCU%2BFNyM9RnMluB0BMsXhvLNcDeGxWE%2FsL46rp1hELRsawpG%2FIfhp3zzeSO76iC7%2B0wHfM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3655617445%2F8c143567029544738b654760a56cb885%2FIMG_0291.png)
 
 #### Comments (3)
 - **なべさん** (Apr 08, 2025 11:17pm): なんかそれとうちセクションとか増やせたりピン留めできるような管理人みたいな奴もたぶん消えてる
@@ -2175,7 +2178,7 @@
 
 #### Comments (2)
 - **猫耳** (Dec 25, 2025 01:28am): それな
-- **futomaki** (Feb 19, 2026 03:15am): ユウチュウブってなんやねんwwyoutubeやろがいがい手帳持ち
+- **ガキチ◯イは消ゑるべき** (Feb 19, 2026 03:15am): ユウチュウブってなんやねんwwyoutubeやろがいがい手帳持ち
 
 #### Reactions
 - **Upvotes:** 2
@@ -2242,7 +2245,7 @@
 - **Raid Hawk** (Jan 05, 2026 04:50am): ここでもやんな
 - **Wise Gecko** (Feb 05, 2026 08:08am): ユウチュウブ⬅︎言い方きっも
 - **Defiant Llama** (Feb 17, 2026 01:23am): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
-- **futomaki** (Feb 19, 2026 03:16am): ユウチュウブとかキチ◯イか手帳持ちしか使わんわ
+- **ガキチ◯イは消ゑるべき** (Feb 19, 2026 03:16am): ユウチュウブとかキチ◯イか手帳持ちしか使わんわ
 
 #### Reactions
 - **Upvotes:** 4
@@ -2434,7 +2437,7 @@
 
 [Attachment 1](https://padlet.com/padlets/ewo8oy898lw88zw3)
 
-#### Comments (15)
+#### Comments (35)
 - **4649** (Feb 20, 2026 01:19am): 俺野球⚾️しとる
 - **ポテトチップス** (Feb 20, 2026 05:08am): よろしく
 - **Invisible Newt** (Feb 20, 2026 05:08am): よろ
@@ -2450,6 +2453,26 @@
 - **ポテトチップス** (Feb 20, 2026 05:30am): しんでほしい
 - **yusei** (Feb 20, 2026 05:31am): イキリすぎて死ぬ
 - **ポテトチップス** (Feb 20, 2026 05:33am): 確かに
+- **じゃがりこ** (Feb 20, 2026 06:09am): よー 
+- **じゃがりこ** (Feb 20, 2026 06:16am): おい 
+- **ポテトチップス** (Feb 20, 2026 06:17am): 今かえった
+- **ポテトチップス** (Feb 20, 2026 06:17am): 何
+- **じゃがりこ** (Feb 20, 2026 06:17am): いける？
+- **ポテトチップス** (Feb 20, 2026 06:18am): まだ
+- **ポテトチップス** (Feb 20, 2026 06:18am): ゆうせいは？　
+- **じゃがりこ** (Feb 20, 2026 06:19am): わからん
+- **ポテトチップス** (Feb 20, 2026 06:20am): ゆうせい児童会よね？
+- **じゃがりこ** (Feb 20, 2026 06:20am): うん
+- **ポテトチップス** (Feb 20, 2026 06:24am): てかりゅうやまじうざい
+- **じゃがりこ** (Feb 20, 2026 06:24am): それな 
+- **じゃがりこ** (Feb 20, 2026 06:26am): おれまりんぱいっとていい？
+- **ポテトチップス** (Feb 20, 2026 06:30am): まだ
+- **ポテトチップス** (Feb 20, 2026 06:31am): 宿題まだ
+- **じゃがりこ** (Feb 20, 2026 06:35am): いっていい？ 
+- **じゃがりこ** (Feb 20, 2026 06:38am): いくね
+- **釈迦ポテ** (Feb 20, 2026 06:50am): あんま本名書かないほうがいいんじゃない？
+- **釈迦ポテ** (Feb 20, 2026 06:51am): 本名か知らんけど
+- **ポテトチップス** (Feb 20, 2026 06:54am): 誰？
 
 #### Reactions
 - **Upvotes:** 6
@@ -3209,7 +3232,7 @@
 ### 1. 約40000
 **Author:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/1bbcbb1b15f56af284531d92160b695a/IMG_1029.jpeg?Expires=1772171750&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5iofHLFycFV6g9bM0842%2BiX1AhEFJvZlBLcXYoyfyUBW4S8lkvv8y0EU%2Blcllla5qr%2BQZzU2PWHZPRcd2b%2BMtIFP90h9qCd%2BOfVJiPFkXCOZR%2FSD6RVGr0r9a3exeDSCWXkzambIr49whBM3NNftmchY07lTuamFc7G6rWvdBsg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F1bbcbb1b15f56af284531d92160b695a%2FIMG_1029.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/1bbcbb1b15f56af284531d92160b695a/IMG_1029.jpeg?Expires=1772175568&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OShPGuIO0pTxrO9rJ7W0YubQNCDwOpQS8kWkSulod5N3zaqCoEk14xT2xb96bDcCvidUn%2B4BRsCT8LVMsG8fvzMCaq28LQbJlZ6tBj9R6Oe%2BCXz6k7osHenP1eS7WyZgqF9qgTJTsAHxmgl4Bk14Z29c%2BbQws1p8VkgvtVID%2BY4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F1bbcbb1b15f56af284531d92160b695a%2FIMG_1029.jpeg)
 
 #### Comments (14)
 - **L** (Nov 30, 2025 11:54am): 「ｋ→ｓ💕」へ　雪論
@@ -3243,9 +3266,9 @@
 
 <p>かってに作って良かったかな？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/b0aa46b1db5b56d7f3d97fe52192f4ce/IMG_1006.jpeg?Expires=1772171750&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MpXTVlEZ4AlOHLyD2Fax%2Bg13198bxDLCV%2FydEQXtsT7Ybr9z%2BPhJmZpflEpCCnJHq2wGCCgg8LI%2F484BenZt0NHDIvSYj3b1MVwxmhzsH9pLcRRZ6Wh96FEP1VsIXgXV8caAr9chK2p7bGZrCbT2tbbNInAGdRN4HHD5WE%2FYWJU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2Fb0aa46b1db5b56d7f3d97fe52192f4ce%2FIMG_1006.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/b0aa46b1db5b56d7f3d97fe52192f4ce/IMG_1006.jpeg?Expires=1772175568&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pyjrY63HUc1eqjB%2FpmD5wGKut%2FMacJZCRmYC2Z6hSiVYeIXZidarTgnZJeWmUmZlF%2BP%2BRTCJYPR1g%2F3usQAEzXCiv2twrsUdPGgXsX6IVdiKJGTs2xvKNd2Xoi5l2NN%2BhqSoQkhVAVSy7297Xpiwslchk9wb%2BpQhZ1C6U4C7ZqI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2Fb0aa46b1db5b56d7f3d97fe52192f4ce%2FIMG_1006.jpeg)
 
-#### Comments (22)
+#### Comments (23)
 - **WestExpress 銀河 京都行** (Oct 15, 2025 01:04pm): なにが？
 - **ｸﾎﾞ ｲｯﾀ** (Oct 16, 2025 03:06am): 観覧数
 - **ｸﾎﾞ ｲｯﾀ** (Oct 16, 2025 03:09am): なぜか
@@ -3268,6 +3291,7 @@
 - **タロウくん** (Feb 20, 2026 05:07am): たしかしたかしの校外学習 
 - **タロウくん** (Feb 20, 2026 05:07am): たしかしたかしの指パッチング 
 - **ポテトチップス** (Feb 20, 2026 05:07am): あ
+- **ポテトチップス** (Feb 20, 2026 06:25am): は何を言っとん
 
 #### Reactions
 - **Upvotes:** 1
