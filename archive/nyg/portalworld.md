@@ -1,4 +1,4 @@
-最終更新: 2026/02/22 16:36:27
+最終更新: 2026/02/22 17:34:30
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 84
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Feb 22, 2026 04:44am
+- **Updated At (UTC):** Feb 22, 2026 07:59am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -85,7 +85,31 @@
 
 ## Padletポータルワールド
 
-### 1. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
+### 1. Into the blue sky together!
+**Author:** ぐるぐるまっきー (guruma_cancelESTA)
+
+<p>雑談&amp;マイクラ鯖部屋</p>
+
+**受付部屋のリンク（あれば）:** https://padlet.com/guruma_cancelESTA/check-in-counter-67e8wadt4yrouyxv
+
+**部屋の作成日:** February 22, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 部屋主のみ
+
+**モデレーター数:** 非公開
+
+[Attachment 1](https://padlet.com/padlets/k9f8dfyk8hjr6fw2)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 22, 2026 04:44am
+- **Updated At (UTC):** Feb 22, 2026 07:59am
+
+---
+
+### 2. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
 **Author:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri)
 
 <p>過密にしたいです！</p><p><br/></p><p>匿名の部屋から普通の雑談部屋まで</p><p>アップデートを重ねて日々機能増加中！</p><p><br/></p><p>ぜひ来てね―</p><p><br/></p><p>※仕様変更により一時的にライター制</p>
@@ -109,7 +133,7 @@
 
 ---
 
-### 2. 学パソでゲーム&Youtubeみたい人のパドレット
+### 3. 学パソでゲーム&Youtubeみたい人のパドレット
 **Author:** ラグランでコンビネーション (s05220076)
 
 <p>ゲーム、とYoutube見る方法が乗ってある</p>
@@ -131,7 +155,7 @@
 
 ---
 
-### 3. I-FILTER 回避研究所
+### 4. I-FILTER 回避研究所
 **Author:** トロンボーン吹きの吹奏楽部員 (ttashishi)
 
 <p>2年前からあります</p><p>ここにみんなが集まれば最高の回避リストが作れます</p><p>ログインしてればOKです</p><p>技術者募集中</p><p>部屋改善の指摘もよろしく</p>
@@ -156,7 +180,7 @@
 
 ---
 
-### 4. プロキシ集めて！！
+### 5. プロキシ集めて！！
 **Author:** にんじん (s180699_3)
 
 <p>プロキシ乗っけてます</p>
@@ -178,7 +202,7 @@
 
 ---
 
-### 5. nehosata部屋
+### 6. nehosata部屋
 **Author:** ꧁༽𝓷𝓮𝓱𝓸𝓼𝓪𝓽𝓪༼꧂ (nehosata)
 
 <p>神部屋</p>
@@ -200,7 +224,7 @@
 
 ---
 
-### 6. るるるの雑談部屋！
+### 7. るるるの雑談部屋！
 **Author:** るるる　バルコク共和国の大統領 (barukokukyouwakoku)
 
 <p>宣伝自由にしていってね。</p><p>フォロパも受け付けてるよ！</p><p><br/></p>
@@ -222,7 +246,7 @@
 
 ---
 
-### 7. ICFSブロックの足立区民専用の研究組だよ！
+### 8. ICFSブロックの足立区民専用の研究組だよ！
 **Author:** NyrikX(足立区陣ICFS系) (h3000370)
 
 <p>主に足立区民だけで作り上げていくつもりだよ。応援してね。</p>
@@ -244,7 +268,7 @@
 
 ---
 
-### 8. タブレットお悩み事相談所
+### 9. タブレットお悩み事相談所
 **Author:** りな (Keroharudayo)
 
 <p>ここではタブレットのサイトの不具合などを解決します。ですが！！！これは表の顔です…本当の目的はタブレットをもっとよりよく自由に使うために、プロキシやゲーム、YouTubeを公開しています。（エロもあるかもね…）てことで、みんなもタブレットを自由に使おーーーーーーーーーーーー！！！！！</p>
@@ -268,7 +292,7 @@
 
 ---
 
-### 9. 拡散希望！
+### 10. 拡散希望！
 **Author:** RX034 (h3005990)
 
 <p>ぜひ僕のプロキシ部屋に入ってください！！！！！！！</p><p>お願いします</p>
@@ -290,7 +314,7 @@
 
 ---
 
-### 10. 札幌市教育委員会・ICFS対策本部
+### 11. 札幌市教育委員会・ICFS対策本部
 **Author:** 削除済みユーザー (Giveapple)
 
 <p>プロキシのリンクやYouTubeの閲覧方法を共有する会の子会社です</p>
@@ -312,7 +336,7 @@
 
 ---
 
-### 11. 打倒Iフィル＆予定
+### 12. 打倒Iフィル＆予定
 **Author:** oh my (36Racing)
 
 <p>始めたばかり増える可能性　大</p><p><br/></p>
@@ -334,7 +358,7 @@
 
 ---
 
-### 12. だれでも大歓迎!
+### 13. だれでも大歓迎!
 **Author:** keR (ke_R)
 
 <p>作ったばっかだお（）最初に来てくれた人には管理者?っていうのあげる</p>
@@ -353,32 +377,6 @@
 - **Post color:** White
 - **Created At (UTC):** Feb 08, 2026 12:29am
 - **Updated At (UTC):** Feb 08, 2026 12:29am
-
----
-
-### 13. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
-**Author:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri)
-
-<p>過密にしたい</p><p><br/></p><p>匿名の部屋から普通の雑談部屋まで</p><p>アップデートを重ねて日々機能増加中！</p><p><br/></p><p>ぜひ来てね―</p><p><br/></p><p>※仕様変更により一時的にライター制</p>
-
-**部屋の作成日:** January 12, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 1~4
-
-**モデレーター数:** 0
-
-[Attachment 1](https://padlet.com/padlets/vvsqe84ae56v2qab)
-
-#### Comments (2)
-- **[🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ!** (Feb 11, 2026 12:37am): 仕様が戻ったので受付再開しました
-- **kai0408** (Feb 18, 2026 04:25am): https://padlet.com/a3_01/padlet-e4azy5s19f6weiqa
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Feb 07, 2026 03:56am
-- **Updated At (UTC):** Feb 07, 2026 03:56am
 
 ---
 
@@ -1851,7 +1849,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1772350587&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hX341sj3llzeXOUnNUV9AotU2guGCrNAFzwCuvNnHt7HYyTEhQ9bEtS9joGdYUtBUQMSz1lUmE2xTH5%2BKXaQolKLCrrmNVMC9qsN9Z619sIGwlty0%2FnCWvlZk9ecvBakLwMPFjNmKY3FZe3dxZUJq4JBfiXHm%2BLNDTO7nXVRCQI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1772354070&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pY08Id2m1WIlv0yaTv%2BL2SX6g3Ek7gx5ff%2FZeTKhgSMWDkp89ohBMttAhJ56e6i5YpV3ICF81XdM6DuZWv9iC8zpUIuGpiAqJz3r3qEFVZrgQn%2BCDJ6sXLVBe5R6k%2BjQP7Fim4Fh8NQ7rD1MGpGGVJ5zxzbwjfN2%2FeCw6OtMhbM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
