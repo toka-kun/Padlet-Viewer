@@ -1,4 +1,4 @@
-最終更新: 2026/02/23 18:57:14
+最終更新: 2026/02/23 19:54:48
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 23, 2026 08:58am
+- **Updated At (UTC):** Feb 23, 2026 10:31am
 
 ## 受付
 
@@ -53,7 +53,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (32)
+#### Comments (35)
 - **ᴎeoᴎӝ ❤️‍🔥 neo_n-.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -86,6 +86,9 @@
 - **スイクン（メガリザX）** (Feb 23, 2026 08:22am): ireteeee
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 23, 2026 08:58am): o-i
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 23, 2026 08:58am): ミート着て
+- **スイクン（メガリザX）** (Feb 23, 2026 10:31am): メートを着ることは、できません
+- **スイクン（メガリザX）** (Feb 23, 2026 10:31am): 切ることもできません
+- **スイクン（メガリザX）** (Feb 23, 2026 10:32am): killすることもできません
 
 #### Additional Information
 - **Post color:** Red
