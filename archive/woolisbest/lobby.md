@@ -1,4 +1,4 @@
-最終更新: 2026/02/22 21:53:06
+最終更新: 2026/02/23 13:59:19
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 22, 2026 11:40am
+- **Updated At (UTC):** Feb 23, 2026 04:08am
 
 ## 受付
 
@@ -53,7 +53,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (27)
+#### Comments (29)
 - **ᴎeoᴎӝ ❤️‍🔥 neo_n-.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -81,6 +81,8 @@
 - **陽著辺子** (Feb 20, 2026 12:30pm): いれてください、、
 - **るるる　バルコク共和国の大統領** (Feb 20, 2026 12:52pm): 入れてクレメンス
 - **夢見る少女じゃいられない** (Feb 22, 2026 11:40am): いれて〜
+- **りおとだお！　もうすぐ中学卒業！** (Feb 23, 2026 03:35am): 入れて
+- **隠れてなぼースマホ垢** (Feb 23, 2026 04:08am): 入れて
 
 #### Additional Information
 - **Post color:** Red
