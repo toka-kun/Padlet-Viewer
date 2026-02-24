@@ -1,4 +1,4 @@
-最終更新: 2026/02/24 08:34:58
+最終更新: 2026/02/24 11:11:57
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 84
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Feb 23, 2026 11:31pm
+- **Updated At (UTC):** Feb 24, 2026 01:19am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -41,11 +41,10 @@
 
 <ul><li><p><strong><mark>自分の部屋のみ</mark>投稿して下さい。</strong></p></li><li><p><strong>自分の部屋であれば<mark>いくら投稿してもOK</mark>です。</strong></p></li><li><p><strong>時間が経って自分の投稿が埋もれてしまっても、<mark>一週間経てば再投稿可能</mark>です。また、その場合は管理者が過去の同じ投稿を消しておきます。</strong></p></li><li><p><strong>Padletの規約に反する部屋や、こちらで不適切だと判断した投稿は見つけ次第削除します。</strong></p></li><li><p><strong>多少の誤字などであればこちらで修正します。</strong></p></li><li><p><strong>AIに引っ掛かって承認待ちになっても人の目でもう一度確認するので安心して下さい。</strong></p></li><li><p><strong>「過疎ってるから来て」などと言うのではなく、<mark>その部屋の良さを誠実に書いた方が人は来てくれます</mark>。</strong></p></li><li><p><strong>何を書けば良いのか分からない場合は、サンプルを参考にして下さい。</strong></p></li></ul>
 
-#### Comments (4)
+#### Comments (3)
 - **だいまたハムスター（偽物注意）#りおとの35番弟子#わかめGOＤ教#煮物貢献者#イケメン様様信者　ここみたってことは復讐ってこと！こわいよーたすけてフォローってなんのいみあんの？とりあえずしてーーKUNがすき　はむかす** (Sep 03, 2025 07:16am): とうこうするねごめん
 - **Magurock  (偽物や偽投稿など注意)** (Sep 06, 2025 08:58am): かなり人気になってきた
 - **全ての部屋にコメントする** (Feb 05, 2026 09:17am):  
-- **おうが** (Feb 23, 2026 11:31pm): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 
 #### Reactions
 - **Number of likes:** 2
@@ -182,7 +181,7 @@
 ---
 
 ### 5. プロキシ集めて！！
-**Author:** にんじん (s180699_3)
+**Author:** 削除済みユーザー
 
 <p>プロキシ乗っけてます</p>
 
@@ -270,7 +269,7 @@
 ---
 
 ### 9. タブレットお悩み事相談所
-**Author:** りな (Keroharudayo)
+**Author:** 削除済みユーザー
 
 <p>ここではタブレットのサイトの不具合などを解決します。ですが！！！これは表の顔です…本当の目的はタブレットをもっとよりよく自由に使うために、プロキシやゲーム、YouTubeを公開しています。（エロもあるかもね…）てことで、みんなもタブレットを自由に使おーーーーーーーーーーーー！！！！！</p>
 
@@ -1850,7 +1849,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1772494498&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mt1X12gMqZ3fiUghyE8mSZjsDadovK%2BQYoIN5WjSFSzAEvupf1V1otbKd0fnCiVasP2UU7h66Tsr5CktRZzbLFEnrttn9XVprSIr12vXzyjt%2FfU59gJ%2FvhH9EZ1D2j9lXejfRsGPy9deYdOpjKEsG%2Fpxj4DE%2BRHGY5ddUbKOyio%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1772503916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hhQIxJ8zNG81dDKtk9BF8ZGe4Com35ZpCObDqPF%2BF8g3l2DtRs%2FEScmBC1dxwyxgcPYb94TnMmOFtw4rZr%2B8VJTNRvTl6sbTq9AfJ2Hzq1%2Fxqf1Ry8PjNX1DingN56ISoaIPUWrs7ZKyWVcnQauYQoQTUS0KsTYESSUs3pou99Y%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
