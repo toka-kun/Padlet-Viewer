@@ -1,4 +1,4 @@
-最終更新: 2026/02/24 15:00:49
+最終更新: 2026/02/24 16:13:47
 
 # proxyなど教える会
 
@@ -9,7 +9,7 @@ proxyサイトなどを共有しましょう
 - **Builder:** 仙人@suger (xianrendesu)
 - **Posts:** 186
 - **Created At (UTC):** Jun 04, 2025 08:02am
-- **Updated At (UTC):** Feb 24, 2026 05:42am
+- **Updated At (UTC):** Feb 24, 2026 06:08am
 
 ## 概要
 
@@ -80,6 +80,9 @@ proxyサイトなどを共有しましょう
 **Author:** Graceful Panther
 
 <p>こんちは</p>
+
+#### Reactions
+- **Number of likes:** 1
 
 #### Additional Information
 - **Post color:** White
@@ -575,7 +578,7 @@ proxyサイトなどを共有しましょう
 ### 34. AIEGG
 **Author:** 荒らしたい気分
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4028989195/1afef90ae0cdcafa4911d6feb9c638ac/9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3?Expires=1772517648&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=t%2FRnnhWMgZzX6ZMYhn8sn3fcHp3G6i177aOCrJMVisK92AF%2FKDRyhP%2F2BcrcKEB1RmE8L6gbB8PmhaziqVkeZq55DxwrL9A7giJzIttEQTgRi%2BTyxo2qi46Xovkr8kl93CJirHM8zXdV0ecnN5XRJ0BXOUPJBg1FDcWmc6ug6Qw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4028989195%2F1afef90ae0cdcafa4911d6feb9c638ac%2F9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4028989195/1afef90ae0cdcafa4911d6feb9c638ac/9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3?Expires=1772522026&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LS4N0h0Ufc59Jt2BcEuhurwbGLz81ZjARxdHZlVFe3MLLaYaH5AE3jUWIavAD1FC9vQfNE9rheeOnjShKqOF0366jMYRQIee4WDD21fC6a%2FGzmHIQvLT%2FZY7XtPiOGkokCLvw7gbD%2Babk8es6illTUTPjyLOoXpCYcr%2F3nJVUFk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4028989195%2F1afef90ae0cdcafa4911d6feb9c638ac%2F9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3)
 
 #### Additional Information
 - **Post color:** White
@@ -870,7 +873,7 @@ proxyサイトなどを共有しましょう
 
 <p><em>ヒロアカが好きです</em></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4953574738/534625dfa9fb4e5d460fda2319aee41d/images__2_.jpeg?Expires=1772517648&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=HDoTVPzUd0l%2BlhK3NZ%2FySUVwotmegRYn8%2B2qLRmy229NQFTrVnAGJlW1qMeV3QiBzqGpNlmW3kmDjls8OBr2YSfivj7Dg1dTVzn4UmAo5KxpafXsNEtris0m8SH0OHDVjxjy26Agq7DfvDu5d2lMoLlUF%2BwbNGdFlhiht6NOcKo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4953574738%2F534625dfa9fb4e5d460fda2319aee41d%2Fimages__2_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4953574738/534625dfa9fb4e5d460fda2319aee41d/images__2_.jpeg?Expires=1772522026&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Tj80KPuhThQ3yyAZJ4HkCr%2BlODMvqH7JlRf9aA%2BQvSsNvoEKmpNcDHushFBo38HXmkhzar3hu4l3YEKQsNfjQASShqE%2F9x4%2FBCTvBmkFFHq6dP6zHNlO4JqCJtma6vN6CjKuscgM9n%2FY8jDoMgjsCSaLqulvXFl7XPCpJmx2n%2FA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4953574738%2F534625dfa9fb4e5d460fda2319aee41d%2Fimages__2_.jpeg)
 
 #### Comments (1)
 - **仙人@suger** (Dec 26, 2025 12:23am): こんにちは!
@@ -1017,7 +1020,7 @@ proxyサイトなどを共有しましょう
 
 <p>仙人さんが作った<a rel="noopener noreferrer nofollow" href="https://xtest-dvhl.onrender.com/">X風掲示板サイト</a>で僕のアカウントが使えなくなりました。再起動してもデータ消しても投稿ができないし他の投稿や自分のプロフィールなども見れません。プロキシで入れましたが他の人達は普通に使えてるようです。原因はわかりますか？見れないときに「初期化に失敗しました」というメッセージが出ました。心当たりは無いです…</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5146326471/d22573bd868b0e897214ab819b7ba205/____.webm?Expires=1772517648&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DV4EpjL7qTtC2tYq4Qz1xatH9P%2B8dsQaAGcRfArqMAaCuustXq65ieKwmPBmVBgKVyhL3RbxXtzArJ%2BwTMhukbjze%2BKFSUw7ALketyAV3p468eog48xRcXRsTPtoEm1MsZ1emamUHbjAjp3nFTTn3JCXVlSdn8qV6GNTASqcgI0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5146326471%2Fd22573bd868b0e897214ab819b7ba205%2F____.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5146326471/d22573bd868b0e897214ab819b7ba205/____.webm?Expires=1772522026&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0h0rUezxzdSij6zPW555DVhZxaGtKPI5GIkDApAc%2FDKEFnms3L4fBGnw%2FiotKKfrEAajzM58j%2BLiROGSsc6nZU0qYzHjClPNxeBprjts2cyeMBeDdqmm4lqpVMVV8oE%2BZYWDn4d1K3GWuGorveKzyzkE%2F3UHz77YmBHTEvyfzog%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5146326471%2Fd22573bd868b0e897214ab819b7ba205%2F____.webm)
 
 #### Comments (3)
 - **仙人@suger** (Feb 23, 2026 03:10am): たぶんセキュリティ引っ掛かったかもしれない
@@ -1036,7 +1039,7 @@ proxyサイトなどを共有しましょう
 
 <p>アイコンの周りのヤツなんだこれ</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3821722678/d9a4caa13df14cc54f60307564d40262/IMG_3710.jpeg?Expires=1772517648&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kv0Th2hu3vgFW3DeX6vTRaVcks81dY4hUuOeEU8q2CUcH%2FBQhfVZnnZeOz8CGaLJqLb4xuqehXIwSQpHr%2FVQKlJCoLfrD6YYl6t32pTimkT8PTfwzKtoJeikKfLI%2BAxqMyJFh94aq4aRxMIDy6X1NffW5DfVGgFCV1FZ7ZKuCgo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3821722678%2Fd9a4caa13df14cc54f60307564d40262%2FIMG_3710.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3821722678/d9a4caa13df14cc54f60307564d40262/IMG_3710.jpeg?Expires=1772522026&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sFuSyo3QW5zi3g2MfUI1Rz04PzK9%2BUH3s2Z5%2FG9Cf9ZzZXOVNEjgUzRKqMKtaCcdixn82M%2FNqgfYdj7x9%2FYfkYSWHs%2FCnG4wFnI3HtV6%2BklrkhP%2F67B4x1Ntg%2FkfXT3AIwk4G3loPTIg9jnAWmKpnLinOKsDOnEUlVNm4w4J1jo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3821722678%2Fd9a4caa13df14cc54f60307564d40262%2FIMG_3710.jpeg)
 
 #### Comments (4)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 19, 2026 10:05pm): https://padlet.help/l/ja/article/88slsagmp2
@@ -1068,7 +1071,7 @@ proxyサイトなどを共有しましょう
 **Author:** 仙人@suger (xianrendesu)
 
 **このルームってリンクの量どう？:**
-- **多い:** 13 votes
+- **多い:** 14 votes
 - **まあまあ:** 16 votes
 - **少ない:** 3 votes
 - **少な過ぎて無能:** 11 votes
@@ -1081,7 +1084,7 @@ proxyサイトなどを共有しましょう
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Feb 17, 2026 09:29am
-- **Updated At (UTC):** Feb 24, 2026 04:15am
+- **Updated At (UTC):** Feb 24, 2026 07:02am
 
 ---
 
@@ -2502,7 +2505,7 @@ No post
 **Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 **ほしいかい？(^ω^)ﾆｯｺﾘ:**
-- **いるﾇ:** 221 votes
+- **いるﾇ:** 222 votes
 - **いらﾇ:** 5 votes
 
 <p>気づいたらよろしくお願いします！「いるﾇ」の場合プロキシを送ります。まぁ私からのクリスマスプレゼント、ということで...メリクリ！</p>
@@ -2516,7 +2519,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Dec 24, 2025 06:33am
-- **Updated At (UTC):** Feb 24, 2026 03:23am
+- **Updated At (UTC):** Feb 24, 2026 07:09am
 
 ---
 
