@@ -1,4 +1,4 @@
-最終更新: 2026/02/25 07:36:25
+最終更新: 2026/02/25 08:34:52
 
 # proxyなど教える会
 
@@ -7,9 +7,9 @@ proxyサイトなどを共有しましょう
 ## Summary
 - **Link:** https://padlet.com/xianrendesu/proxy-n0g1c0jl2ak3grc5
 - **Builder:** 仙人@suger (xianrendesu)
-- **Posts:** 186
+- **Posts:** 188
 - **Created At (UTC):** Jun 04, 2025 08:02am
-- **Updated At (UTC):** Feb 24, 2026 10:34pm
+- **Updated At (UTC):** Feb 24, 2026 11:04pm
 
 ## 概要
 
@@ -578,7 +578,7 @@ proxyサイトなどを共有しましょう
 ### 34. AIEGG
 **Author:** 荒らしたい気分
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4028989195/1afef90ae0cdcafa4911d6feb9c638ac/9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3?Expires=1772577384&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qnRT4DisZnVLf%2FY4TYqjOF5neAN%2FglAX%2BOIgTlzTmm9CO9IGSdXzACXrZLw%2B4hlmDs3GLlJjORd0J3dfhGnMuVUk2Vi1p2CaddU6vDmg%2BxqLyHT%2BQUGIUG4Vs0OBir8UGIhrVXPu7Cj7QoknMFHUdvZU46iJg14hg52JKnvDw%2BU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4028989195%2F1afef90ae0cdcafa4911d6feb9c638ac%2F9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4028989195/1afef90ae0cdcafa4911d6feb9c638ac/9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3?Expires=1772580891&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=k%2FCzkHbx0G0e4RxqrDFPdBX35NZ%2FRFvC7SpzZZtnovGZ4CA4vs80mOuXnPK6mJ3iP6CMeb%2FOwEK9T0XSK%2FVYTthH7bFA2yHuzHd2JNa%2FjXz38SPMmvwK1WPDHNSh6zwB6MTIy9r9C8ylNUgHKCmeifP8Baa2v79mwazP4rWsuDw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4028989195%2F1afef90ae0cdcafa4911d6feb9c638ac%2F9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3)
 
 #### Additional Information
 - **Post color:** White
@@ -873,7 +873,7 @@ proxyサイトなどを共有しましょう
 
 <p><em>ヒロアカが好きです</em></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4953574738/534625dfa9fb4e5d460fda2319aee41d/images__2_.jpeg?Expires=1772577384&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Mf7srW%2BuU3ePq9092AG1Dft%2BMFQkAuD95vVbXYu%2FCE1%2F%2BubhrGLq7WsWYOQlysQU95CCnI%2BJ4RVfWrm5tXRjY7VuTWTa6wXyQ9pvjUFqO3zACHAlxzsPkfgDSyzRr0IPM6lojtEJO1la6G%2BuNKOqxPcV07e8zIdoOMiYCZWNzqQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4953574738%2F534625dfa9fb4e5d460fda2319aee41d%2Fimages__2_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4953574738/534625dfa9fb4e5d460fda2319aee41d/images__2_.jpeg?Expires=1772580891&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XJAkiGCXOqDivG7rxRG60m%2BheIS%2FYvMBeKL9wD73jkIxp4jZoSj7W4yhctXlaR52M4wQmBH4K5JJZ7EbzA6FrSXhwnm2HFkNZWrNNURpPT%2BR2JhgWH4TqEpxpkCKCYfkyOZAe%2FHnC4e%2BxzqrcpLcdk7isCC99HlxyEP%2BLKqSm1A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4953574738%2F534625dfa9fb4e5d460fda2319aee41d%2Fimages__2_.jpeg)
 
 #### Comments (1)
 - **仙人@suger** (Dec 26, 2025 12:23am): こんにちは!
@@ -1020,7 +1020,7 @@ proxyサイトなどを共有しましょう
 
 <p>仙人さんが作った<a rel="noopener noreferrer nofollow" href="https://xtest-dvhl.onrender.com/">X風掲示板サイト</a>で僕のアカウントが使えなくなりました。再起動してもデータ消しても投稿ができないし他の投稿や自分のプロフィールなども見れません。プロキシで入れましたが他の人達は普通に使えてるようです。原因はわかりますか？見れないときに「初期化に失敗しました」というメッセージが出ました。心当たりは無いです…</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5146326471/d22573bd868b0e897214ab819b7ba205/____.webm?Expires=1772577384&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1BQ3d8fgBX5DGvulez3cnRMJ%2BhNyGxYKXETGpn0jXrCyZd4HzUCmkluEDJcYk4CdN0Y4UJauayEsldTt4j%2Bj2YDtJjBTrAPgOvPn3jZbI7NjBV80DrCf%2BsbXeCXsR%2BQBir5IVT4EGpmcrhmGm6HdFbU0aXD6khVYFNiM7vyJ6Yo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5146326471%2Fd22573bd868b0e897214ab819b7ba205%2F____.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5146326471/d22573bd868b0e897214ab819b7ba205/____.webm?Expires=1772580891&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=w%2BwTP4oy3kbCu5unoiHptNk0mPj%2B5EzgGsudt7TgS6AtPI3qYTL87F0gzOUi2SALOW8I0JU8vKWG3OfkM340jQkpIkUoeAOSIS8BnLxZ5P%2Fd5BgRFEq3F05G26SvgoHQI2gphC4LdupXPZYs8OJDLKECBqPNydLimcJfG31cNgs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5146326471%2Fd22573bd868b0e897214ab819b7ba205%2F____.webm)
 
 #### Comments (3)
 - **仙人@suger** (Feb 23, 2026 03:10am): たぶんセキュリティ引っ掛かったかもしれない
@@ -1039,7 +1039,7 @@ proxyサイトなどを共有しましょう
 
 <p>アイコンの周りのヤツなんだこれ</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3821722678/d9a4caa13df14cc54f60307564d40262/IMG_3710.jpeg?Expires=1772577384&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Mvvwk%2Bt5ljTA4iUO%2F%2FYBgIVWz0Van22R65CEmjLMeO6LxiDEJh1ug%2FsJgs0BSESUo1mkrbkwIjjkBVZrD9j9IMNMIkakabzm7R9JyVB4%2FlcD8Qq%2FAsrwrHWWC8IIfTiN%2Bmtb8HGaBGFrGtekzWlT8OsoO7Zx5yQslzafjraAL0w%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3821722678%2Fd9a4caa13df14cc54f60307564d40262%2FIMG_3710.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3821722678/d9a4caa13df14cc54f60307564d40262/IMG_3710.jpeg?Expires=1772580891&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OOd%2BXP5UbWr53sw5Y00JzDhwyE8bmEx1o0atB9v%2BSfz1MnEJ5QkJMLQ6IxZ8k87Qv68S6xt7i4IF4%2F6t2UahH%2F9GMyOTYS1xxZauEPF6UP0I65yLVCh9Z0XgAiRfj60cNpdGF2m%2FopBh41LTlQwQeO3tKBKWgusFOweVbBkA3qw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3821722678%2Fd9a4caa13df14cc54f60307564d40262%2FIMG_3710.jpeg)
 
 #### Comments (5)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 19, 2026 10:05pm): https://padlet.help/l/ja/article/88slsagmp2
@@ -1655,7 +1655,29 @@ proxyサイトなどを共有しましょう
 
 ## かつおtube
 
-No post
+### 1. 1かつおTube 
+**Author:** 仙人@suger (xianrendesu)
+
+<p>初回アクセス時はじかんがかかる可能性があります。検索と動画再生はサクサク出来ると思います。ゲームやツールもあります。</p><p><br></p><p><br></p><p><br></p><p>➥ 対応している再生方法はこちら</p><p><br></p><p>Education</p><p><br></p><p>ストリーミング再生</p><p><br></p><p>Hls再生</p><p><br></p><p>Nocookie</p><p><br></p><p><br></p><p><br></p><p>➥ 開発者</p><p><br></p><p>仙人@sugar</p><p><br></p><p><br></p><p>陽著辺子</p><p><br></p><p><br></p><p><br></p><p>➥ レポジトリ</p><p><br></p><p>https://github.com/youtubekosub/Katuotube-1</p>
+
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Feb 24, 2026 11:02pm
+- **Updated At (UTC):** Feb 24, 2026 11:04pm
+
+---
+
+### 2. 公式
+**Author:** 仙人@suger (xianrendesu)
+
+<p>https://katuotube-1.onrender.com</p>
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 24, 2026 11:03pm
+- **Updated At (UTC):** Feb 24, 2026 11:03pm
+
+---
 
 ## 仙人tube
 

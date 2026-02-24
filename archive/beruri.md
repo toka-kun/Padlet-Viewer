@@ -1,4 +1,4 @@
-最終更新: 2026/02/25 07:36:00
+最終更新: 2026/02/25 08:34:16
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -88,7 +88,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1772577360&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BnPjUkAeQ%2BBxD7vPMUE9Uff6nNSagZNIvIHHxQzK3PGnSTKepY30ii%2Fu21jZ3Swc%2Fs4a%2FijXRQXVg1mIv1Ob%2BejDWV9X%2FDxYEzRMOHU8mkKgppconjwUJwnfa%2F%2BALOnfUMURkcTBn3L7MZrjEHuTVPpNOtMQDY26cLHjkoctBAg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1772580855&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4UOHMxKRPie2RCWNoWJK6Cll2hU9vO4O%2BSD8BusTUQP47lhzy5g4lL14e2qnoIjQ2OFgcCFOUgJHCaqVsji1PZpzqISiuL5BPcRXPU%2BVkzB932OEHfysGzbsPVHFKjVjSADWbRS1DmBZNWEEAE1eTtp%2BIuJcRiptOzrXkEzWm14%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -119,7 +119,7 @@
 <p>3日後ライターになれます。</p><p>申請した方はこの投稿に名前を書いときます。</p>
 
 #### Comments (2)
-- **Sakura Tsubaki　　aoi** (Feb 19, 2026 09:06am):  
+- **Kan Tsubaki　　aoi** (Feb 19, 2026 09:06am):  
 - **𝐒hirokurohotlineフォロー絶対禁止現在五十人超清風明月曲全部神曲勉強部屋宣伝要求音楽非常識正論派学級委員長五回目校外学習実行委員長修学旅行実行委員長課題学年最速提出長座体前屈学年最長系逆御飯敬語付非リア充** (Feb 19, 2026 12:39pm): お願いします
 
 #### Reactions
@@ -494,7 +494,7 @@
 #### Comments (3)
 - **頭が悪い研究者** (Jun 28, 2025 03:32am): 全部行けたんやが
 - **ぎょうざのたれ** (Sep 29, 2025 06:25am): ブロックとこのサイトにアクセスできませんになる
-- **Sakura Tsubaki　　aoi** (Feb 19, 2026 09:10am): 全部無理
+- **Kan Tsubaki　　aoi** (Feb 19, 2026 09:10am): 全部無理
 
 #### Additional Information
 - **Post color:** White
