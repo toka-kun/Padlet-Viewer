@@ -1,4 +1,4 @@
-最終更新: 2026/02/26 07:35:56
+最終更新: 2026/02/26 08:30:01
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -88,7 +88,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1772663755&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eGd%2BjhBR2%2BACAJ%2BgVgvIBTcbrS4%2BzOVWXSB3P0VYFiLQdunX%2FIwcYFyqNWCoiAk1Me%2BOobh4dNsVhtbMSnv3CtDTWz1YaQPWKw2FaYKEIu5DrqOYfhP1DN33pdo6Glp64oR0w1HKx%2BOQgsGo4CtUbOdzXLMCkxQ%2B5lXjfEDJ9vA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1772667000&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rtRtVr1VKdrF1LJD%2FXsq7WTZKoungDKVf8ptUK1mswY3UlSXnLhVUjsiVoGaePCC9e2fC6m8gypyUoLe1R%2F1wuxxy8RTgsfbb2C9zd%2ByR6RuPUdbG4LkF0lxRoE547jEU9h65Lp4KtaOclUoNty4FDBLXbVfprneUAR2BQWBeXY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
