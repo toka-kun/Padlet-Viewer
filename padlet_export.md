@@ -1,4 +1,4 @@
-最終更新: 2026/02/25 22:40:54
+最終更新: 2026/02/26 07:00:00
 
 # プロキシのリンクやYouTubeの閲覧方法を共有する会
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 421
 - **Created At (UTC):** Aug 20, 2024 10:59pm
-- **Updated At (UTC):** Feb 25, 2026 12:23pm
+- **Updated At (UTC):** Feb 25, 2026 09:51pm
 
 ## リンク集
 
@@ -49,7 +49,7 @@
 
 **最終更新日:** September  4, 2025
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/621ab046b2ae10ed54cb176137ac73cb/________2_.png?Expires=1772631647&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ftdRFWe3jeclnWkqh%2FXvN%2Fd%2F1crTNGKvjfyYakLMm7mAJOzIPCWPSkzC65HJLzzJz9DQlJelFjdW5iF2dHdWPM7hsEylCl270W9WP5cOGWBfM3e3bM9mQvgBvnj%2BccLSlel5NMG%2BJpE1m2cR7qwNo%2BHwnOnC%2Bbc8idr6YPLXiHk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F621ab046b2ae10ed54cb176137ac73cb%2F________2_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/621ab046b2ae10ed54cb176137ac73cb/________2_.png?Expires=1772661591&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YrYOCDvyQKU4scvqgsKfywtsVtRxEG0w5EJnraHu%2FvlZBGvNpgbEg58JWdRdFn%2BFKFPJtd6C1IcMgqhWdT6xFoORjLX5W0NZhe8Jl6iBsxzlmE%2Bmn1vtH7oqznznBjRcffQq3gSF6mZFqBLENCcEM1qy%2BXumBRisinW8Lw4Tie8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F621ab046b2ae10ed54cb176137ac73cb%2F________2_.png)
 
 #### Comments (1)
 - **ゾン** (Jun 01, 2025 12:07pm): 消したんだやっと
@@ -324,7 +324,7 @@
 ### 1. 閲覧数300,000達成まで
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<ul><li><p><strong>操作時間4500時間達成 - 2026/02/25</strong></p></li><li><p><strong>270,000達成 - 2026/02/18</strong></p></li><li><p><strong>訪問者75,000達成 - 2026/02/11</strong></p></li><li><p><strong>260,000達成 - 2026/02/09</strong></p></li></ul>
+<ul><li><p><strong>280,000達成 - 2026/02/26</strong></p></li><li><p><strong>操作時間4500時間達成 - 2026/02/25</strong></p></li><li><p><strong>270,000達成 - 2026/02/18</strong></p></li><li><p><strong>訪問者75,000達成 - 2026/02/11</strong></p></li><li><p><strong>260,000達成 - 2026/02/09</strong></p></li></ul>
 
 #### Comments (1)
 - **ひなた** (Feb 19, 2026 11:47pm): すげ〜
@@ -336,7 +336,7 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Feb 09, 2026 11:02am
-- **Updated At (UTC):** Feb 25, 2026 08:09am
+- **Updated At (UTC):** Feb 25, 2026 09:46pm
 
 ---
 
@@ -674,7 +674,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/6f825c782cb30814a4923cd8e658534a/mosaic_20260216103531.png?Expires=1772631647&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TDiqsJITqUWD9lX07DAVf9KgfW1ZjQj6T3BdVZYIJUo%2Bz%2Brjg0B9UoVZLU%2BBCNBK5EsPxD9haV3z3pI4nqIcHTAVrXWBsg1KnxSkwZl%2BKjuJQAsu5VUj1PoVnZs%2BqO8ouVyagDGqJedocw%2FB67Ec77HLvpSx%2FOdmjc9HpFcmSrY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F6f825c782cb30814a4923cd8e658534a%2Fmosaic_20260216103531.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/6f825c782cb30814a4923cd8e658534a/mosaic_20260216103531.png?Expires=1772661592&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KTMw52CXX7rdNB5QA4Lde2ic%2BLUP9Mfbwbzodm3i4UjOReiiU3srHGKLYhSwSGD5u1cUDRW%2B4oAiScHBATj7IkP7M%2FjDtN1nubYNsfSSxqgaUNuds8WwqIOy%2BTrj%2BcF7KXZOyb%2B0N5vR9Z6qg%2BzFwwxMuBNOJUh8Jir13HkLXNQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F6f825c782cb30814a4923cd8e658534a%2Fmosaic_20260216103531.png)
 
 #### Comments (9)
 - **Massa_games216** (Feb 16, 2026 01:39am): あと自分でデプロイするつなぎ用にutopiaほしいっす
@@ -804,17 +804,21 @@
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **どれが一番欲しくて使いやすいかを選んでね:**
-- **わかめtube または 改造版わかめtube:** 4 votes
-- **しあtube または XeroxYT:** 3 votes
-- **MIN-Tube2 または Yuki YouTube+ または YouTube Plus+:** 0 votes
-- **YuZuTube または チョコtube または 仙人tube:** 1 vote
+- **わかめtube または 改造版わかめtube:** 5 votes
+- **しあtube または XeroxYT または YuZuTube:** 5 votes
+- **MIN-Tube2 または Yuki YouTube+ または YouTube Plus+:** 1 vote
+- **チョコtube または 仙人tube:** 2 votes
 
-<p>Padletの仕様上4つまでしか選択肢を作れないから無理矢理まとめてます。</p><p><br/></p><p>Wistaはまだリリース直後であんまり配布されてなくて使用感が分からないと思うから外してます。</p>
+<p>Padletの仕様上4つまでしか選択肢を作れないから無理矢理まとめてます。</p><p><br></p><p>Wistaはまだリリース直後であんまり配布されてなくて使用感が分からないと思うから外してます。</p>
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 1
 
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Feb 25, 2026 11:06am
-- **Updated At (UTC):** Feb 25, 2026 12:37pm
+- **Updated At (UTC):** Feb 25, 2026 09:47pm
 
 ---
 
@@ -908,6 +912,9 @@
 **Author:** あおたん　女子友の奴隷 (aotan)
 
 **投稿の種類:** サイトに関する相談や質問
+
+#### Comments (1)
+- **あおたん　女子友の奴隷** (Feb 25, 2026 09:43pm): XeroXYTもできたらください
 
 #### Additional Information
 - **Post color:** White
@@ -1302,7 +1309,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/34e0460ab217cef783a7f5d9508fe612/Screenshot_2026_01_24_20_36_42.png?Expires=1772631648&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Za0YqT40rk3pyFhLiGbss5ZgoZaR5JWEVpyFoj7mXAVMOXYg8prcLat0py9xl0iBxxFo5wnWdfEvsHTowkwPQ%2FI5oGBmeXzIuPvkMQkatnFR2jNYznFIH67xdsnN8SqdQHXl395EclOic6fV0ZZXWaFbFO%2Bs5cMTSFHjyvoA18s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F34e0460ab217cef783a7f5d9508fe612%2FScreenshot_2026_01_24_20_36_42.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/34e0460ab217cef783a7f5d9508fe612/Screenshot_2026_01_24_20_36_42.png?Expires=1772661592&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Y%2Fleiz0%2FEUqvz043PfFkcrZxzvfpq67zXuam37DiOnI26DS%2FUb50NDEhzjLWNdJX6MOld0sMT21N%2FGwRsLaL9ATDQEHjATp3IoJiOVwwzlrh8lk9t8snXcCskEuKGv7RVY1e9YPVFKYwQZkEoI5WpgNpj9LDKViXwhyHLz87TgA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F34e0460ab217cef783a7f5d9508fe612%2FScreenshot_2026_01_24_20_36_42.png)
 
 #### Comments (36)
 - **Massa_games216** (Jan 24, 2026 11:43am): 自分の学校だけかもしれんがダウンロード履歴・ファイル情報まで読み取れるようになってるっぽい
@@ -1374,7 +1381,7 @@
 ### 4. くそが！
 **Author:** バッタ　#煮物貢献者　#煮物14番弟子　#りおと族37代目　#りおと弟子37番目　#そろそろ引退かも (bbbaaattttttaaa)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/79699f39858836d7bb42fb7d28e05c39/image.png?Expires=1772631648&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XVUEQAK7ERh6FN%2B9p0SWQpw1ruu0wYcFVxjnQB3a6lU8yUxfmcqnJwhos36CwPCY7473Pu8%2BE35BzX1rHk4an%2F4Po1rqtJfJ9C2V7XnNYDh4FH0cYD5M17JDzEX4Wa4YYTlzCmT1km81rkZzDEirBM%2Bf3afcMwpUy9HNFnPRlek%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2F79699f39858836d7bb42fb7d28e05c39%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/79699f39858836d7bb42fb7d28e05c39/image.png?Expires=1772661592&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kBFk2L3Xb0fuwbSqvP1i2U7sJWi0mZeI5xefL6B9pW5hm1BrdmXOB3K38F%2BVTvjqAfoBG7oW4yBRULEJwmmrcd4WIXehCFUVnyqSZFzhk9tqAjAqkKqEUssafcgDQ9qRlDvM2%2FIDBLie31h20zQUPMuer6WK7Ke5PJq2iItQ7jM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2F79699f39858836d7bb42fb7d28e05c39%2Fimage.png)
 
 #### Comments (11)
 - **バンダナわどるど Xx-tucasanz-xX りおと53番弟子　りおと族27代目** (Jan 08, 2026 12:57am): それな
@@ -1419,7 +1426,7 @@
 - **月光一文字** (Jan 21, 2026 08:22am): い゛け゛な゛く゛な゛っ゛た゛！！！
 - **じゅけんせい** (Jan 22, 2026 11:32am): 今はゆーとぴあしかいけない
 - **🍞** (Feb 05, 2026 07:02am): 1個しか使えん
-- **kai0408** (Feb 17, 2026 04:43am): Utopia出来んくなったんやけど
+- **頭悪い人** (Feb 17, 2026 04:43am): Utopia出来んくなったんやけど
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1439,7 +1446,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4208255619/929eda19f10e41dd61b1b94088af8f26/Screenshot_2025_11_09_19_44_49.png?Expires=1772631648&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AN2ajR3U%2BjUsm2UNCYZ%2BQv%2BgSMaw%2F4TgZ%2BkIvppaG0v1CzV6lctoCgjiDIdBftU6GMe7MgJI9yiaHXL2TBvw3m16roHiL0pdkb0GI5H7zMFHXfWG9u%2BzvEtipMDL1rEuulvnS4e9JSRhtmD0Ka3KhVbXtA98NHM6fYW9MtVmihw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4208255619%2F929eda19f10e41dd61b1b94088af8f26%2FScreenshot_2025_11_09_19_44_49.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4208255619/929eda19f10e41dd61b1b94088af8f26/Screenshot_2025_11_09_19_44_49.png?Expires=1772661593&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VfDxDeokFiZIfx6pnZgw6KNZ0aqTdPOggpcP1O7wzxsUiZCgloQetUQZRdHIwn%2FTHk4e0N9g2giGevZN0pOpgu2Ds5Q9o85jVEVyKYuRPcXTbX9Z7AREsH4%2BBc6jGz8RNmFEtIjz3s7UjBKUes7GVzyPPddr6EQVK9Z5zurlDXE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4208255619%2F929eda19f10e41dd61b1b94088af8f26%2FScreenshot_2025_11_09_19_44_49.png)
 
 #### Comments (11)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 09, 2025 04:05pm): また明日やり方貼ります
@@ -1630,7 +1637,7 @@
 
 <p>塾の友達から教わった方法</p><p>操作時間は3分から長くて10分です。今はコツを掴んだので100発中100回です。できると証明する動画でもあります。動画の最後の方を見れば分かる通り、成功したら上にある表示中の拡張機能の中でICFSが自動的に消去されていますが、いつもそうなるとは限りません。一番注意してほしいことは、制限以降の時間帯にやると、3~5回繰り返す必要がある可能性が少しあること。</p><p>1:タブを開きまくると、上のタブバーにあとから追加したタブが表示できなくなるので、そこまで画面のnewタブの+を押す。具体的に言うと、通常は30~40秒間連打し、制限の時間帯以降では15~25秒連打する。</p><p>2:そしたら、タブを追加すると自動的に上のURLバーが文字の入力の準備が整うので、画面が固まっていても好きなタイミングで、そのまま入りたいURLをぶち込んで3分程度待てば行ける。もちろんそのまま待って固まっている画面がなおってからやってもいい。また、画面が固まっている時間が長すぎてクラッシュしてページがリセットされることがありますが、もう数回やればできます。</p><p>そして、何よりも設定読み込み中が続いてだめだったら、もう一回試しそれでもだめだったら、一旦リフレッシュキー(更新キー)と電源を一回同時に押してログインすると、上の表示中拡張機能バーにはICFSはありますが、実際にはブロック解除できています。私は以前この電源を一回切って入る方法を強制再起動のハードウェアのリセットとしてできたと思います。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/7ab952a3348225a622e660293c830991/ICFFS______online_video_cutter_com_.mp4?Expires=1772631648&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dB4WPc3fhDmoFW3qP7RgOyhFJ0r1R2Ysqoc5OnxxvIK6moLEcofW2g6iHyRg5piQWHRsXjq3Hk9ryzB5lft12i2bDVnDFqUA%2FhXj8Y0Y0akBxUBFicPrjmH1iKjHyD3mho3ByNv1Yo4LFSayxrDvPEPzhW9zPxDRgVq2Ur6zEoQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2F7ab952a3348225a622e660293c830991%2FICFFS______online_video_cutter_com_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/7ab952a3348225a622e660293c830991/ICFFS______online_video_cutter_com_.mp4?Expires=1772661593&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PlDHVC8DN19uOB6KqnIXBYTbS%2BbPMc2CxgBP7Hyysxp7j7bOjqReFUIq1ciGXgGwb9uTmEfxn40TDq1RyMnqGlAEmkJJWXM67MxFa7hNMDQ19RaW38BOkvEjr35a2ZHOh5%2FxSA7vLh921yiMwVlKK%2B3JnXuXNcclEJ5Te6Kux7s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2F7ab952a3348225a622e660293c830991%2FICFFS______online_video_cutter_com_.mp4)
 
 #### Comments (7)
 - **RX034** (Feb 12, 2026 12:32pm): 確実だなこれが
@@ -1809,7 +1816,7 @@
 
 **最終更新日:** November 28, 2025
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3916500373/cdf9546d9a966132950301c2591a96a0/Screenshot_2025_07_17_10_01_07.png?Expires=1772631648&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fVg3knWCk2lYCLfD4KIJdM4IQCNkqOoNKQNNki0z9%2BMt0H2W8AQu1Lv4Y9fVchWoj%2Flz6QSFtDdtYyp8%2Ff3Z36WPOLh5NV4%2BT%2FC4x8Z7TSzTHxpnFqWLMI%2FA7jUeu42zhjwYxND42JXr%2FLekPtUav84BmfRyThwPoWlHDixNvmY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3916500373%2Fcdf9546d9a966132950301c2591a96a0%2FScreenshot_2025_07_17_10_01_07.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3916500373/cdf9546d9a966132950301c2591a96a0/Screenshot_2025_07_17_10_01_07.png?Expires=1772661593&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mKWRqBo8K4%2BKkWk3CV5Y5rEBDu2ZFrE2bnMucQ0ugMjUx0RNzbqjHgjM7m3x38KRYEdhXuIefgL5LtfIPdLWpqTJ4tE%2Bj6HGksmaVdrWfJOuntmw%2BXi1WL2n9u2WJPhm%2FrDcLHFtJCbInsP3jCMUMXi8UmZgl8FUAXzQJVht8NQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3916500373%2Fcdf9546d9a966132950301c2591a96a0%2FScreenshot_2025_07_17_10_01_07.png)
 
 #### Comments (7)
 - **削除済みユーザー** (Nov 23, 2025 12:11pm): wool-tubeあるww
@@ -2661,7 +2668,7 @@
 
 <p>英語のみ対応です</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1772631649&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Ef3%2BCo5z8yOJtQPnaGtdFaTCAbzitUz1nW%2B0QFkRefEVC9hHGk6n%2BOazVzQ4Rl9Qs2%2FMSFX1JtoP9kh86OEZuH6OtQ1%2FxX66xHyhIaDtFisWFAqI8nFF%2BZU19gleVgiYo8wY24s5OpthCvR8tbCiu1Tb2Npj9IF8ciWz4dbjRaI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1772661594&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SPNkrC0dMcbY1o6cEBboynKBDdcxBu%2FEPYq9uWuf81Z2tZfbemnRJYqZrI3biJmTJZk2xBtZ7BK%2FtdE30m7UgEHz%2FrZS1aQGYze%2BOb3AAdicO6D%2Bkr2HxVNH7cYU6BVUAe9xuQPkUZni%2FbGgsTN%2BKKFGp3Pai2l92c40r4%2BV3g0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
 
 #### Additional Information
 - **Post color:** White
@@ -2773,7 +2780,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1772631649&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yrTU4AU9v41MiEGJoBn703RXEOouqTozQtmXYJpML9tmtwhDrMtXybu7jLNcfCWlHKCtqKIqcjFP%2FQ91uMef%2FVkg1bPafUGtaZg39gl0R2GzrdKXpTg8K569lrwBbEafQFQHrVHB1hPGDPwqgIMqCzD4VMipsoXseivJtRwNxnA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1772661594&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6MxDSAVO0a0x6ftVQgMqE98PM5rJHOv6I9ZcJxdnMenPNDqks2Ufh9D7JoHPBO8ibZ9gCn7S1A54IGFCmueaxGn5d8kptNhyinE3abdWTRT1wAEQSY0nsZzHQ7ryfsm99AZW%2FF%2FBGoTdkMEt2KXjxSqsvYYZRV%2Fyda7zJNR73xo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
 
 #### Comments (6)
 - **RX034** (Dec 02, 2025 08:28am): 良ければどうぞ！
@@ -2834,7 +2841,7 @@
 
 <p>テトリスだよ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1772631649&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6cW4r1Xliw%2FN2wKJ2OqmSfq4mbiyR0sBvs8Xoz8%2FUtaIgZj730GANX%2BfP%2FUnauDM6KCkj07PX%2FAg%2Fbc%2FNeLe%2F5Vvy5H1GvMQBUfvOuLUY%2Fl8SQFqPa6xUTPujiLwc2rhdA5Yz0tFiiOnSvnqlFovVLV6ALTLKE%2BNznjNhWQq29w%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1772661594&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zSf19qWrSq2w1NOyqQtLotOhQGu51iGknPGLJfhW1YriCWOKVE%2FW%2Bv1wXSuv%2BARkrzWD6cX4cYHQ8UZ7hRd837VV2XX1BX%2BUHoBK%2BjIkwSPrh0BtHcbJSDa8GgfF%2B%2FTPqLU7AseYu3RgI8TWzDaJJi%2F1B6PFCzWsOrswA1IdYq0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
 
 #### Comments (1)
 - **はるとねこ** (Nov 10, 2025 01:54am): なんか表示できねえ
@@ -2853,7 +2860,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1772631649&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aD7qvhoaYm%2Ba45WXLi8ZXjVRWaSjfDhm3dSY7h4xyNPrpDzrZVz%2BjvbPBbWq%2BPFn5BDWn9F6t1pwpuFltce976BNDmfLIPVzMiRV8otHtfHvOCT0xzIFBLfIRaQCcqLBr2zqD5wBSXofUfpw4BbSDWhGuMLwTXIxzOdPBi31tp0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1772661594&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TY8ZpVEcvA6boOW0mHPTrL%2Fer9Z0%2BKm6HDhNjHqhrK5Bi9KqP%2FtVvJOCPRVLyxsUrj7lTubCsKIv9UUddRPMjkNueulQM4Y5sCsYd%2BVQoaQ99VJVINfCnlqbMLwCuOxLS5X%2BMldy40sZWsmGi97Pha%2FeiW1E0ayxWyys2HdmFv0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
 
 #### Comments (3)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 08, 2025 04:36am): 思ったよりAIが強くて負けそう:(
@@ -3823,7 +3830,7 @@
 
 **投稿の種類:** サイトに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/3a2251759abdf3781d2bf689986ea97c/Screenshot_2025_09_26_21_33_45.png?Expires=1772631649&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DvoGwzK7uI2O1inmPo2hwk2Hcm8ju7uyEMjrZgDB3CXM6FO%2FNZcX%2Bvv7EbB8z54GTwPoDkXijodtwTQ4bSlb1JOsbaloz1SSopjvbuUm3Q0v6JFtRODWawsEa4CMu1qk3R%2B02PEXny9jcDVyh483bGT8mFvuPlvB7YU8gYK%2FUfA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F3a2251759abdf3781d2bf689986ea97c%2FScreenshot_2025_09_26_21_33_45.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/3a2251759abdf3781d2bf689986ea97c/Screenshot_2025_09_26_21_33_45.png?Expires=1772661595&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PgsScy5cTDy5TIaDgYp1oDh4gK7%2FwkZb8wERbVddnix5PFpWWnEFo8P2mP3z%2F2%2FYIjCXUbtNfwVEicXCtHdHtqceZhLdrPOrzXrrYrpEEKT9gFTJvtdxS8t3tlg3kRnlZSeHUqrxb3vGj0MMbd11ncMP0w9LxgigZMx%2BK2Z0bbY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F3a2251759abdf3781d2bf689986ea97c%2FScreenshot_2025_09_26_21_33_45.png)
 
 #### Comments (1)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 26, 2025 12:39pm): 自分の拠点には看板を建てることを忘れずに！
@@ -3846,7 +3853,7 @@
 
 **投稿の種類:** サイトに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/4e06661b4e71a24c85f039879321dc42/Screenshot_2025_09_26_21_45_53.png?Expires=1772631650&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=50WIkmNIoL6ComuasZ4RjItkTszeoDAru4MYwX5MAFfXfboqVkZ4KMFOa6hyavMPJXtlldXCx9Ee1JdbaDgYHfHSjyTr4m%2Bt3lztF8vWhAuSC3fV%2BIDMQJk%2B3YOFauJXBpOurhZKonqT8jSdGhJMcZ64U0RPcWLT6Q16P4wtphU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F4e06661b4e71a24c85f039879321dc42%2FScreenshot_2025_09_26_21_45_53.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/4e06661b4e71a24c85f039879321dc42/Screenshot_2025_09_26_21_45_53.png?Expires=1772661595&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=G0BFnwiGtYRtrx9TZGsHphYriiIaceFGY5GxdEGKsksfb6t5cyGLxrwrXLsozv8ZijQ7RDYlPm7Aw8nkauRU03%2B3tyA%2FSVufgiQN1F2tadEjUmnftgUyHp%2B%2BHNH6LltNK8mjxvsdpj6vPsxS3aTjJvjVpVcyh%2Bdjuz3nRqHJdBc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F4e06661b4e71a24c85f039879321dc42%2FScreenshot_2025_09_26_21_45_53.png)
 
 #### Comments (1)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 26, 2025 12:56pm): マップはここから見れるで https://html.cafe/x2c178236
@@ -4162,7 +4169,7 @@
 
 <p>1.12のイーグラだお</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/fcf918292b174ca7f7df3bd469bd225b/Eaglercraft_1_12_WASM_Offline_Download.zip?Expires=1772631650&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=48VOZY8APAwCbPVh4ufK1fwd3SXeMyZrOrc0f8Bl4UKTF0zYq6tJeYmE7LTPMEzs8n93Vnvz8FHDIUHzV5K0lDTLosO51ppxwvEeH3yv078P0ZlGLGrxIqc09T%2B%2FT0CLpB8leYpuAUitWWkaOkHid%2FBlWrfjMoLvw5EZFcYn2a0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2Ffcf918292b174ca7f7df3bd469bd225b%2FEaglercraft_1_12_WASM_Offline_Download.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/fcf918292b174ca7f7df3bd469bd225b/Eaglercraft_1_12_WASM_Offline_Download.zip?Expires=1772661595&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5wVwSddVmOohN%2FH8AgMbjMqqTyJf7OJq9KpYfxrgsP8MTJNRpL0w3gEcKw2R4fsCfuzS70%2BPeOQ26eDlTgHV2Ab0pdDM9JYWZnjEyUIyohoTD%2BMRJVaKyXl37zOhatPSwEjpXfnv3wysc6fkkGfB%2BGJz193PNZN0UfPQKcfDqVY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2Ffcf918292b174ca7f7df3bd469bd225b%2FEaglercraft_1_12_WASM_Offline_Download.zip)
 
 #### Comments (1)
 - **サンダーバード** (Feb 21, 2026 02:53am): はい
@@ -5254,7 +5261,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4326203661/f9eee29623612a56726d0b918203a1be/Screen_recording_2026_01_10_17_36_15.webm?Expires=1772631650&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=t4%2B617z9MuVBdMPPZUeiUiAIgBkFt%2BJWd4ZjQ9JH64KHQjhS%2Ftli9WZrb1E3s5Hp4zSEczYLxhcyoANnb5rIKtqcRIZnLjLCJXIzay2Qb1G4wqgAkLSPMBtavzQo%2Bvls5VTEcuoHTFg1zK2PvMhczqgeDHKynsEKaO6K23hEiio%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4326203661%2Ff9eee29623612a56726d0b918203a1be%2FScreen_recording_2026_01_10_17_36_15.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4326203661/f9eee29623612a56726d0b918203a1be/Screen_recording_2026_01_10_17_36_15.webm?Expires=1772661595&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=I34tgO5K8hNoBU93QJ8qRPJca%2FNPFb5JFR742vay4S2DOw1E05V8q7gcPAt1vRc0U%2Fyq1NBxE1iqjqQU6MsroK%2B%2F1JwG0xMNTclehkfmj%2FZOUzSdRy37GK%2FRdoU4pEMb5JPjp94bdMgrHt2UPju8h1Fl0MEKsJCOx2oIBjFLNDE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4326203661%2Ff9eee29623612a56726d0b918203a1be%2FScreen_recording_2026_01_10_17_36_15.webm)
 
 #### Comments (9)
 - **削除済みユーザー** (Jan 10, 2026 08:38am): https://ticket.xrcloud.jp/monocg/index?ec=event_305ba11f-ea9f-4394-819a-db14296a757f
@@ -5281,7 +5288,7 @@
 
 **投稿の種類:** サイトに関する情報提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4851851357/021a908021e1cd8630ac1760e3c51e12/Screenrecorder_20260107_175127.mp4?Expires=1772631650&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yLbn4Ys8TsAZS2%2F95XsU%2BFs0z9i2B6%2FL5frY60%2FjVhEZGhpCYrV3OvuNWq0vroQPtUTKWyiB%2B%2Be6fJO62ZZOLlmJPKJlysiPmcPA0tRPAQ%2FGio6ZWKsEnztD7fJ8enU%2B3osR8Gu4bFIx4I7jFJI6c2uP7bLhyDA50H8OdisBg00%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4851851357%2F021a908021e1cd8630ac1760e3c51e12%2FScreenrecorder_20260107_175127.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4851851357/021a908021e1cd8630ac1760e3c51e12/Screenrecorder_20260107_175127.mp4?Expires=1772661596&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=oQX%2FJEM%2BXk4DQhNqGPJ63AaW9Ufo1Y4xFVbKVXkkoJrOUU38BrHlnWNG%2Fh0mqLSkrSzsXSMBTkJuyYbrVR6SN5fXcvTVa1dXj3fm6FnNnCjqbnM8Ko8r7u5bFkQgHI2z3kEPenTTw4t%2FKvXdwSShNNyCV1qqn8f1b8mKHhpF3ZY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4851851357%2F021a908021e1cd8630ac1760e3c51e12%2FScreenrecorder_20260107_175127.mp4)
 
 #### Comments (10)
 - **削除済みユーザー** (Jan 10, 2026 07:56am): 天才()
@@ -5359,7 +5366,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4318390668/740f560a767fe4d24be738be0d6f589d/IMG_6109.png?Expires=1772631650&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tSK%2BsTl%2Fv3FYJgt%2FfzeDoO0SsD4n5UGhjDgeOIMT3EEfkMDUtcZhDhFKwZ40prNB%2BK5HdKY5sGODWl0TBNBF8lFugdk3H5zuRKuOj9jZ41FbioIFaoj7ALsBV4py2DnnN8l%2B3E2bgnvvTawvQ%2FxHnKFI1%2FpXhLlVkvUJphTatZQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4318390668%2F740f560a767fe4d24be738be0d6f589d%2FIMG_6109.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4318390668/740f560a767fe4d24be738be0d6f589d/IMG_6109.png?Expires=1772661596&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xxzx8Rk%2BgASeGXYW6OFTWgGtFEAJkwHq%2BfbN%2FEL59gp85%2FCin9dNrmUsc1X3%2B%2BeB9p1ZmsGHCEKaoDcsr1wqihIDmaM%2FtiIEU8z9lT5Y9F9go051j7D1RyQ7MyeegefIxuX9VJPeR4J4BC4i1BI3JlJHlpX1mFUzUQiEDTwOZ9k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4318390668%2F740f560a767fe4d24be738be0d6f589d%2FIMG_6109.png)
 
 #### Comments (5)
 - **Kirby** (Sep 06, 2025 09:26am): そのままurlを打つか、下に「Youtube」とか「Instagram」とか書いてあるからそこをタップする
@@ -5430,7 +5437,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/83c25b07d22752b78e3659552f1fb71b/Magurock20250803.html?Expires=1772631650&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NnkwtYiz9DXDqhVamzbhX06iDPcZz3L2raDaArYfQsuHcxPl3ImlJqyU9VaBCvCAxveZ8ZHeDEnl%2F0NfQeZeVrY50pqPyti0r4OnSqSHb9w2s3vhKCtFx4GFWwbKRuv8JtNOxg2y%2FOGj4mW6fpj1bn8ARRs0j134GMv6THoC9M8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F83c25b07d22752b78e3659552f1fb71b%2FMagurock20250803.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/83c25b07d22752b78e3659552f1fb71b/Magurock20250803.html?Expires=1772661596&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CVAxtxyA7gDuJf%2Fv1TAe58Eub7E5dbiaouxKucFLr9A2%2FZhG3bu%2F7MrD%2BOJ3VvO43jrs7nRVBBMYpGj%2BQ4Qq44NNrUfqBZLftPh2j45Bhi5m0mBMTZZ1BYnYCopczCqdgyPlTFCuraCnDjuzJbn6xk%2Fr8emxcVTBDZ%2BXozjLqhA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F83c25b07d22752b78e3659552f1fb71b%2FMagurock20250803.html)
 
 #### Comments (1)
 - **NyrikX(足立区陣ICFS系)** (Jan 20, 2026 11:27am): ダウンロードがブロックされました。
@@ -5476,7 +5483,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/9819bcb1e710e8e32cf8351e5b790c93/___Proxy_explorer.html?Expires=1772631650&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3bWYtscYn12tt5GUnMAQ11Fc6glK7NtKiZr30jcaZq6pYkXg6B0eNVsWcIVbf%2F4AAU%2BGlPQYPly8dNBBxeZ9ujzC0J32VYTKeW10aydkEzTFo3QThzXAlgKVyuOn%2FX%2BuCZ6AEdRyGYqINFo4k7KgznmFAt%2BcHva3LNq87psc0Tg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F9819bcb1e710e8e32cf8351e5b790c93%2F___Proxy_explorer.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/9819bcb1e710e8e32cf8351e5b790c93/___Proxy_explorer.html?Expires=1772661596&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uGX4ZzISL%2BkuUu2ZG7ZUdxOjiWrAy0EQTJ9tV1h6Ni0KRx0AIyjoi14EnD1qlXVwvs6Fwy65ODVIIuOSlcrEh8AMpGhAsBQ67lvXjz8YfcpNoWpuAI72paC6Sbch9Ga1c9%2Fk7wpbDnZkruDjk90lOF7KiTOdDrkue8M7GFvJHCc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F9819bcb1e710e8e32cf8351e5b790c93%2F___Proxy_explorer.html)
 
 #### Comments (1)
 - **NyrikX(足立区陣ICFS系)** (Jan 20, 2026 11:27am): ダウンロードがブロックされました。
@@ -6815,7 +6822,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4441744587/6341af461ba76111220613b0f6d3e5db/______________.txt?Expires=1772631651&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zPTdd2OqcsUtR5HhALPIuNMWueGSL9DN4ke51SdIuGgJrF1asnRgpmGnMrupKdDu6LGQT3jBIvO2j3r%2FFkMc2tLZMQH%2F1DbQnkKXFVMV4Qg%2BjwF8OVWR3edPsIdWLebBzAsViYAKrKCilOoUeup3Ev5H7wYgOzy3gOYF5Pd%2BObM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4441744587%2F6341af461ba76111220613b0f6d3e5db%2F______________.txt)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4441744587/6341af461ba76111220613b0f6d3e5db/______________.txt?Expires=1772661597&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QsKrpE2qQaDochd2e41aTxPjGu9WvIkWYYdFjmEgu0c9%2FWY5LRBdEzDsY0iaaGzsjJDXpABVVc1532Yzx9yA8%2BvvFvfTFHQ3RGYMpWXS2IJyes4btBZ2viInnP1djtYSoPrlVSU4PTqosrYj%2BqqwuRqbt4Qe1bKz8GnbAKJXgPI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4441744587%2F6341af461ba76111220613b0f6d3e5db%2F______________.txt)
 
 #### Comments (1)
 - **Massa_games216** (Oct 19, 2025 11:49am): 全ブロの悲しみ
@@ -7136,7 +7143,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4533230905/29793600191a616967f07c0819cebfc4/Screenshot_2025_10_10_07_42_52.png?Expires=1772631651&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Pj3eYPtEwuXp6%2FCFzuyaHtSJqXcYKHvDacyupbkuCan4l%2FHg1uNx8d2bjW%2F4RTzRX%2BSZX9i7xytjpsAc3iv%2FuDYX5QQIv4TlvqI%2BiE7f30NF4eMZrjwrOUPw6XXRR4ltqnkluGicHQsPIdlxREjnvWMp0hikSEIb4C3holmatFc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4533230905%2F29793600191a616967f07c0819cebfc4%2FScreenshot_2025_10_10_07_42_52.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4533230905/29793600191a616967f07c0819cebfc4/Screenshot_2025_10_10_07_42_52.png?Expires=1772661597&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=y1EBSCC%2FrlOouiFeobzU5pI59sKCKtu68WDfpCKXEbbP9syuv%2FBAAeiZ1BUi2pPG23suoWRwJmNfIL8zewTkaB0vPW%2FtMd8dwS5WWzmlDhb4ei9Ox9BAuNOhVKLmdc8StZcFEEe4vFH1d7mfwcbjLjbP%2FRVrD6WqY7wYuyxvnVE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4533230905%2F29793600191a616967f07c0819cebfc4%2FScreenshot_2025_10_10_07_42_52.png)
 
 #### Comments (20)
 - **るい** (Oct 10, 2025 07:56am): わかんねーな
@@ -7172,7 +7179,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4531780414/2043955bb04d17c44d73180ccc50d493/Screenshot_2025_10_10_07_42_52.png?Expires=1772631651&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SQNlikNkx3TJRisHe0oKthLhQqmSoyL4GIeHKPCw8nX1khz1ik4lT6MiSfiGIRN8c54fmtaNjEwBndGfkAUjvg4IapoV%2FvMVgu1O9waZZMG6rQudORV5kTAOGxLY3oLveH9nuRhAj%2Ba4KCcljbaicEQZlPhAmPimaFUcjsP0RxY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4531780414%2F2043955bb04d17c44d73180ccc50d493%2FScreenshot_2025_10_10_07_42_52.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4531780414/2043955bb04d17c44d73180ccc50d493/Screenshot_2025_10_10_07_42_52.png?Expires=1772661597&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=afHY5RKeWCO%2FYWRJ5LkM3unOccjwrmEOF84Z35KUdYen0IaZY%2FBSfB8NkKSXg%2BR%2Fb9jndzoyfAS2BL8ErGvndJkzbni4RPI2dpZ8F0j1BjvW8TDNnA9AFacqq671eqWIiiT5IDzNz4h%2FIpPW6AvaFEbUPThzjqCc0lVJ98HZd84%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4531780414%2F2043955bb04d17c44d73180ccc50d493%2FScreenshot_2025_10_10_07_42_52.png)
 
 #### Comments (2)
 - **あああ** (Oct 15, 2025 11:51am): ただの学習サイトです
@@ -9708,7 +9715,7 @@ Copyright (c) 2026 Wista Project
 
 **最終更新日:** February 23, 2026
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/9fb094aa381a3ae081d0f19c5712d869/Screenshot_2025_10_24_19_33_30.png?Expires=1772631653&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XB6QjTGD%2BFBT2ZY8MKwK7r1mqKZWzrgv8UF1kAQ2Yen2uiNnx3QqVYEIMKJ0FP1TKnt0rgMDLNm6az%2ByXKnDi65ejTA9fZGYfqezhSKYZmTGVerR0qrT8uxGVJVK2lbw9ssfti4LeeIGyuDVIPekO78%2BXlNcg6YCd9jGLfuq5Xg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F9fb094aa381a3ae081d0f19c5712d869%2FScreenshot_2025_10_24_19_33_30.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/9fb094aa381a3ae081d0f19c5712d869/Screenshot_2025_10_24_19_33_30.png?Expires=1772661598&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Nw9GUDR4fMvPwRpEGJ4FKTzHrGpe4gS%2FHffNOpfXj6GDNqngcrmz4sFO8sFU7den92UT%2Bi7IxD7cfDLk4SqmCO62HakRVwfqcU4DqDE96IuX%2F6jbcYnqyPnBWKMTfGm35UuEeGYASXRHFGfu28%2FrZ1Ge9LcgLqxyUiNe7t3GSus%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F9fb094aa381a3ae081d0f19c5712d869%2FScreenshot_2025_10_24_19_33_30.png)
 
 #### Comments (1)
 - **woolisbest** (Feb 21, 2026 11:01am): あ、更新頻度なら1番確定です（最低でも3時間に1回）
@@ -10123,7 +10130,7 @@ No post
 
 **最終更新日:** September 25, 2025
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3744177643/e39b2ff97d6641d386e960280c185c6d/Screenshot_2025_09_25_16_27_35.png?Expires=1772631653&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AtxMqWo8ME0U8wmmiZc8ydvyA6gHHhQh9LG%2BRFHV58oz0z7UBY%2F9kKiPfAFmipg7E6pJX6h%2BNSh0DJf8CvrY9gMz9dIlKgfNNQ2zORLmnx6ozqHj3eurp5qxmUfa0WyxGMIMBx3ErtrPeZcQ1DQxBa1WIWUIIjt7dweGqD2Oz3Y%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3744177643%2Fe39b2ff97d6641d386e960280c185c6d%2FScreenshot_2025_09_25_16_27_35.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3744177643/e39b2ff97d6641d386e960280c185c6d/Screenshot_2025_09_25_16_27_35.png?Expires=1772661599&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LmFlZQh%2FNCmR7tFTVe0wjT02pJflPjrKtJA8czUucamRssI1F6XAy%2F210CnJ7Yoly%2Ft4Y246H3L9AEwe35wACH%2BfnlJ9%2Fn7ffSYO4rGObPDFZjPa7BykO3se49VZu1DdMk%2FVMC7xng7%2F3ezOH1VdUXJ4BSmUdYRJD8s7oj34%2FhU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3744177643%2Fe39b2ff97d6641d386e960280c185c6d%2FScreenshot_2025_09_25_16_27_35.png)
 
 #### Comments (4)
 - **削除済みユーザー** (Sep 25, 2025 07:51am): croxyproxyも同状態です
