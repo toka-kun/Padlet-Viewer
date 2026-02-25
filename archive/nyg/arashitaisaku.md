@@ -1,4 +1,4 @@
-最終更新: 2026/02/19 18:49:05
+最終更新: 2026/02/25 16:52:50
 
 # 荒らし対策室
 
@@ -110,7 +110,7 @@
 ## 保管倉庫①
 
 ### 1. りおと
-**Author:** りおとだお！　もうすぐ中学卒業！ (riotodao)
+**Author:** りおとだお！　もうすぐiPad初期化！ (riotodao)
 
 #### Additional Information
 - **Post color:** White
