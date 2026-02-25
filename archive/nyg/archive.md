@@ -1,4 +1,4 @@
-最終更新: 2026/02/25 16:52:16
+最終更新: 2026/02/25 20:41:02
 
 # アーカイブ
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 224
+- **Posts:** 226
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Feb 25, 2026 07:00am
+- **Updated At (UTC):** Feb 25, 2026 11:10am
 
 ## セクション一覧
 
@@ -34,7 +34,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1772610731&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=S8BbQWAxFSdxx1sLrwf3iG%2FFahQXIRSIDp3gvzbf5jCA6oiik4zCb5DRJV1gt1BXsVpOc4t9gJ8QE8EPmZBQ2IQtAB4d9lewOisgBiyj96Jl%2FIEbpeYE0Gbcah6cC0mcu%2FLZY%2Fvt8N7bqIxVHa2yiM5r4zl6FL6ElmKkTUw0mCA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1772624459&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yKY%2ForjFGruSF9fRTxSDfWVkRuEmliTu1LdGZA1h9R5GYDBqZjeoFPyZOPluLD0GQL6vUlOvGwowD4Hgc4%2BW13H1LDQIy5jPscQDgY7n21sm6m%2Bsjq0Sq1y7mnfdLp1lNkcxbNzVcfrtpwar73l5LfaYvQB0etv5InGJNThIfPk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -601,7 +601,76 @@
 
 ---
 
-### 2. 新YouTubeサイト{"Wista"}
+### 2. そろそろガチでやばくなってきた
+**Author:** NyrikX(足立区陣ICFS系) (h3000370)
+
+<p>最近プロキシ増えていっていますが、<strong>各セクション内のプロキシが今のところもう全てブロックされていて、まじで焦っています。</strong>何一つ残っていません。<strong>youtube専用のサイトなら使えるものがあります。</strong>今のところ、<strong>しあtube</strong>(41こ?)、<strong>わかめtube</strong>(3こ?)、<strong>Yuki YouTube&amp;YouTube Plus</strong>(6こ?)です。YuZuTubeやWool-TubeやLABO5は開けるものは中身でエラー起きたりブロックされたりしてます。<strong>幸運なことに別のサイトから持ってきた使えるプロキシ一つだけありましたが最近からエラーが発生しています。それが上にあるやつです。拡散してもokです。</strong>それとTuboっていうyoutube専用サイトも一つ使えました。またpadlet.comの表示がブロックされたりなぜか開けたりしている状態です。<strong>プロキシを作ってくださる皆様に感謝いたします。悲しい報告をしていただきました。</strong></p>
+
+**投稿の種類:** サイトに関する相談や質問
+
+**最終更新日:** February 11, 2026
+
+[https://math-work.iamsteveguys.c01.kr.cdn.cloudflare.net](https://math-work.iamsteveguys.c01.kr.cdn.cloudflare.net)
+
+#### Comments (45)
+- **NyrikX(足立区陣ICFS系)** (Feb 11, 2026 05:19am): (たすけて)
+- **RX034** (Feb 11, 2026 07:46am): 実を言うと私も現足立区民です。ですが、意外と使えるプロキシがあります。
+- **RX034** (Feb 11, 2026 07:47am): そこで相談なのですが、一緒に足立区専用又は東京都に関するプロキシ部屋を立てませんか？
+- **NyrikX(足立区陣ICFS系)** (Feb 11, 2026 08:33am): ありがたく受け入れます！
+- **RX034** (Feb 11, 2026 08:37am): おお！
+- **RX034** (Feb 11, 2026 08:37am): それは良かったです！
+- **RX034** (Feb 11, 2026 08:38am): フォローしておきましたよｗ
+- **RX034** (Feb 11, 2026 08:39am): では早速ですが、プロキシ部屋を立てましょうか
+- **RX034** (Feb 11, 2026 08:39am): ぷろきしべやはどちらがつくったほうがいいですかね？
+- **RX034** (Feb 11, 2026 08:40am): 僕かそれともNyrikX(足立区陣ICFS系)さんか
+- **RX034** (Feb 11, 2026 08:45am): ではこちらで作っておくので、後ほど招待しておきますね
+- **NyrikX(足立区陣ICFS系)** (Feb 11, 2026 08:46am): 使ってるchromebookの品種は違うので少しは変わりますねLenovoです。
+- **RX034** (Feb 11, 2026 08:46am): 準備が整い次第報告しますよ
+- **RX034** (Feb 11, 2026 08:46am): あ〜私はNECKです
+- **RX034** (Feb 11, 2026 08:46am): みすった
+- **RX034** (Feb 11, 2026 08:46am): NECですｗ
+- **RX034** (Feb 11, 2026 08:47am): はい
+- **RX034** (Feb 11, 2026 08:47am): あ
+- **RX034** (Feb 11, 2026 08:47am): えっと〜
+- **RX034** (Feb 11, 2026 08:47am): ここ最近パドレっとのホームがブロックされた関係でですね
+- **RX034** (Feb 11, 2026 08:48am): 新しく部屋を作るのが難しくなったので、少し時間かかるかもです
+- **NyrikX(足立区陣ICFS系)** (Feb 11, 2026 08:48am): https://padlet.com/dashboard/recents?mobile_page=Collectionブロックされてないはずですよ
+- **RX034** (Feb 11, 2026 08:50am): 本当だ！！！
+- **RX034** (Feb 11, 2026 08:50am): ありがとうございます！
+- **RX034** (Feb 11, 2026 08:56am): 正体ってどうやればいいんですかね(汗)
+- **RX034** (Feb 11, 2026 08:56am): 招待
+- **NyrikX(足立区陣ICFS系)** (Feb 11, 2026 08:56am): どこかで宣伝すればいいんじゃない?
+- **RX034** (Feb 11, 2026 08:57am): https://padlet.com/h3005990/icfs-h2fz7mywpmjyna4p
+- **RX034** (Feb 11, 2026 08:57am): これっすね
+- **RX034** (Feb 11, 2026 08:58am): こちらこそよろです！
+- **RX034** (Feb 11, 2026 08:59am): 入れましたかね？
+- **RX034** (Feb 11, 2026 08:59am): おけです！
+- **RX034** (Feb 11, 2026 09:00am): なんか投稿してみてください
+- **NyrikX(足立区陣ICFS系)** (Feb 11, 2026 04:47pm): だれかたすけて
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Feb 11, 2026 10:55pm): あ、私も足立区民。((ごめん、プロキシとか全然持ってない..()
+- **NyrikX(足立区陣ICFS系)** (Feb 12, 2026 11:57am): いちごみるくさんそうなんですね、私もそうですよ
+- **もらえるはずのスマホが何故かもらえなかった人** (Feb 14, 2026 09:21am): 足立区民ですけど俺が使えるやつ使えますか？https://rammer.nana.majoitus.ee/ https://shadow.nana.rinet.ai/ https://shadow-nana.govt.hu/ https://ddx.v2.nana.mza.com.ar/ https://ddx.v2.nana.rinet.ai/ https://nana.ddx.v2.govt.hu/ (基本ここに載ってるのだと思うから無断転載ではないはず(利益ないし))
+- **NyrikX(足立区陣ICFS系)** (Feb 14, 2026 11:33am): 全部開けますね、ただddxが設定いじくってもなんらかの検索エラーがあるんですよね
+- **もらえるはずのスマホが何故かもらえなかった人** (Feb 16, 2026 09:15am): ホンマや
+- **RX034** (Feb 17, 2026 05:12am): 上以外全部使えるわ
+- **iPhoneNOケース界隈** (Feb 18, 2026 08:36am): 自分も足立区民ですが全て開けません…
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Feb 18, 2026 11:27am): 上のやつ以外全て使えた
+- **ういあ** (Feb 24, 2026 09:38am): 私も足立区民です！！ほぼ全部使えなくてわかめtube数個くらいしか使えない・・・
+- **NyrikX(足立区陣ICFS系)** (Feb 24, 2026 02:06pm): そうなんだ！よろしく
+- **Creative Narwhal** (Feb 25, 2026 06:19am): よろ
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 1
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 11, 2026 05:09am
+- **Updated At (UTC):** Feb 25, 2026 10:54am
+
+---
+
+### 3. 新YouTubeサイト{"Wista"}
 **Author:** woolisbest (woolisbest4520)
 
 <p>リポジトリはまだ公開しません。（プロジェクトやディレクトリ、自動化などの処理中）</p><p><mark>捜索しないでください。</mark></p><p>公開すればまた報告します。</p><p>ReactとTypeScript、Viteで作成しました。</p><p>公式リンクは今のところこれだけです。</p><p>また増やすのでその時はまた連絡します。</p><p><br></p><p>他のリンクが欲しい方はチョコchatでお願いします（ばななさんもデプロイできます。）</p><p><br></p><p>検索、コメント、トレンド（数か国）、お気に入り、履歴、画質、API選択機能があります。</p><p><br></p><p>"注"チャンネルページはありません。</p><p><br></p><p><strong>再生方法</strong></p><ul><li><p>Education再生</p></li><li><p>no-cookie再生</p></li><li><p>ytdlpストリーム</p></li><li><p>invidiousストリーム</p></li></ul><p><strong>公式リンク</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://woolisbest-site-test.chickenkiller.com/">https://woolisbest-site-test.chickenkiller.com/</a></p></li></ul><p><br></p><p>Toka_Kunへ</p><p>専用セクションをいただけるとありがたいです。</p>
@@ -633,7 +702,7 @@
 
 ---
 
-### 3. 新YouTubeサイト{"Wista"}
+### 4. 新YouTubeサイト{"Wista"}
 **Author:** woolisbest (woolisbest4520)
 
 <p>リポジトリはまだ公開しません。（プロジェクトやディレクトリ、自動化などの処理中）</p><p><mark>捜索しないでください。</mark></p><p>公開すればまた報告します。</p><p>ReactとTypeScript、Viteで作成しました。</p><p>公式リンクは今のところこれだけです。</p><p>また増やすのでその時はまた連絡します。</p><p><br></p><p>他のリンクが欲しい方はチョコchatでお願いします（ばななさんもデプロイできます。）</p><p><br></p><p>検索、コメント、トレンド（数か国）、お気に入り、履歴、画質、API選択機能があります。</p><p><br></p><p>"注"チャンネルページはありません。</p><p><br></p><p><strong>再生方法</strong></p><ul><li><p>Education再生</p></li><li><p>no-cookie再生</p></li><li><p>ytdlpストリーム</p></li><li><p>invidiousストリーム</p></li></ul><p><strong>公式リンク</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://woolisbest-site-test.chickenkiller.com/">https://woolisbest-site-test.chickenkiller.com/</a></p></li></ul><p><br></p><p>Toka_Kunへ</p><p>専用セクションをいただけるとありがたいです。</p>
@@ -678,7 +747,7 @@
 
 ---
 
-### 4. 結局IふぃるとISGCとCiscoとICFSってどういう比率なんだろうね
+### 5. 結局IふぃるとISGCとCiscoとICFSってどういう比率なんだろうね
 **Author:** 削除済みユーザー (Giveapple)
 
 <p>やっぱり東京の方のが多い気がするがIfilterとか　仙人の投票終わったら投票しよかな</p>
@@ -690,7 +759,7 @@
 
 ---
 
-### 5. なぜ1時間前にデプロイしたばっかのものが即ブロックされるのか
+### 6. なぜ1時間前にデプロイしたばっかのものが即ブロックされるのか
 **Author:** Massa_games216 (Massa_games216)
 
 <p>ﾌｻﾞｹﾙﾅｱｱｱｱｱｱｱｱｱｱｱｱ</p>
@@ -712,7 +781,7 @@
 
 ---
 
-### 6. うーりすに質問
+### 7. うーりすに質問
 **Author:** 活動一生停止 (nippon_banzai)
 
 <p><a rel="noopener noreferrer nofollow" href="http://f5.si">f5.si　てついてるサイトでどうやってサイト作るのか教えてほしい</a></p>
@@ -728,7 +797,7 @@
 
 ---
 
-### 7. こういうことらしい
+### 8. こういうことらしい
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>運営からの返信</strong></p><p><br></p><blockquote><p>ユーザー名でコラボレーターを招待できなくなったわけではありません。</p><p>ただし、最近コラボレーター検索の仕組みを変更しました。</p><p><br></p><p>現在、ユーザー名で検索した場合は、見知らぬユーザーが大量に表示されるのを防ぐため、すでにコラボレーターとしてつながりのあるユーザーのみが表示されるようになっています。</p><p><br></p><p>そのため、新しくコラボレーターとして追加したいユーザーを招待する場合は、メールアドレスを使って招待する方法が最も確実です。</p></blockquote><p><br></p><p>くれぐれも招待代行には引っ掛からないように</p>
@@ -748,7 +817,7 @@
 
 ---
 
-### 8. Webrtc
+### 9. Webrtc
 **Author:** sanae1212 (cuzrij)
 
 <p>Webrtcを使ってproxy作ってみる</p>
@@ -765,7 +834,7 @@
 
 ---
 
-### 9. みんなってjs（JavaScript）についてどう思う？
+### 10. みんなってjs（JavaScript）についてどう思う？
 **Author:** sanae1212 (cuzrij)
 
 **最終更新日:** January 29, 2026
@@ -783,7 +852,7 @@
 
 ---
 
-### 10. Padlet側の仕様変更でライター追加できなくなった
+### 11. Padlet側の仕様変更でライター追加できなくなった
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 #### Comments (6)
@@ -801,7 +870,7 @@
 
 ---
 
-### 11. これって本当にできるか試してみて
+### 12. これって本当にできるか試してみて
 **Author:** RX034 (h3005990)
 
 <p>これって本当に学校のネットワークのpas特定できるん？</p>
@@ -824,12 +893,12 @@
 
 ---
 
-### 12. 緊急!!
+### 13. 緊急!!
 **Author:** πr²(パイアール2) (naganaga)
 
 <p>自分の中学にこのQRコードを送ってしまい、更に相手にオーネー権限が移ってしまいました</p><p>このアカウントは使われているのでしょうか？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1772610732&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mCgfdkYcCgExYLdRjYAqz%2B4WGakHK4FaC3F8EU42lFEEHbdhZLWg0FU6e7sFE6VObfIJCwp0rM8h7M%2BTm4ugtQmPZurwNsC4KZcofTFq71eIORyE5WB383F71I5l5w%2FRImJArRAIk5yk5YPrDkxZjOhPtAwaszSaHewSxb7BRYQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1772624459&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qJAxurChidXj%2FNPQiZjqC4eO1Sr9BPsS7RP94tEhZIVUHhwGcUjCsVdn%2BpcufsGM1uT5eTCcBmXBdgSkA3ki8qf9B4KOOsBuCK27ZKn8Kt0EqB7D1qNPtxcPZWkrTeXWhoKWF7nMvvpm05HikAl6tUf%2B69pVBV%2BkYGhCtSFGA1U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
 
 #### Comments (12)
 - **πr²(パイアール2)** (Jan 23, 2026 02:26am): オーナー権限です
@@ -852,7 +921,7 @@
 
 ---
 
-### 13. なんで投票所でわざわざ聞くん？
+### 14. なんで投票所でわざわざ聞くん？
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>9割の人間が欲しいに決まっとるし普通に見づらくなる</p>
@@ -887,7 +956,7 @@
 
 ---
 
-### 14. あげますまだベーター版なので
+### 15. あげますまだベーター版なので
 **Author:** sanae1212 (cuzrij)
 
 <p>楽しみにしてね</p><p>まだまだ開発しますよー</p><p><br></p>
@@ -910,7 +979,7 @@
 
 ---
 
-### 15. 今日誕生日の人です
+### 16. 今日誕生日の人です
 **Author:** 削除済みユーザー (Giveapple)
 
 <p>祝ってくれたら嬉し（</p>
@@ -935,7 +1004,7 @@
 
 ---
 
-### 16. 代替ビュアーの改善が大変すぎる
+### 17. 代替ビュアーの改善が大変すぎる
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>他の部屋にも対応させるには想定してた3倍くらいのテコ入れが必要なんだが</p>
@@ -956,7 +1025,7 @@
 
 ---
 
-### 17. 試しui作ってみた
+### 18. 試しui作ってみた
 **Author:** sanae1212 (cuzrij)
 
 <p><a rel="noopener noreferrer nofollow" href="https://game-steam.onrender.com">https://game-steam.onrender.com</a></p>
@@ -985,7 +1054,7 @@
 
 ---
 
-### 18. ただの呟き
+### 19. ただの呟き
 **Author:** Massa_games216 (Massa_games216)
 
 <p>ある後輩にプロキシ規制解除という世界を教えてやろうと思うのだが説明がやりづらい</p><p>HTML教えても全角でスペース打つようなやつにプロキシは早いんかな</p>
@@ -1003,10 +1072,10 @@
 
 ---
 
-### 19. 俺が全然浮上しなかったのも悪いんだけど俺の部屋の管理者がこいつらだけになってました
+### 20. 俺が全然浮上しなかったのも悪いんだけど俺の部屋の管理者がこいつらだけになってました
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1772610732&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jtpeu5mvIoB%2BeByAL%2BwuViASeGJ9%2FOb%2FDLuNiYF0I%2Fv5MXIeqS9M1ZqJr%2FA9xHtApyBgYERnNEKGeiGbY%2FGpvHVuB%2FSIuaC7p9y1na6m06yUnbiUAyDJU%2FoSd4b8IAJkwpmyYB6m8o%2FPVANPhDbncasQyKZQRZy%2FvPX5eqlSLNw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1772624460&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=D7SnEfEBF7gVTn8sBar%2FvprrflVEw5K8cWfH1ZMR91Y9r%2FiGD9sOmUUPP7%2F7oP%2F3s3ozOHwig2EWAOiwwh4afMuQ0Tp5kgdu4rGD%2BFB0J6ND3TIG6esaAQx7qyhg4dNDjJMjSuCyl01RwBkqGKnI2SnkeB0IwElmA6YYMl3TXOE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ローマンピアースのスマホ垢本物** (Jan 15, 2026 11:50am): 誰か助けてくれ、、
@@ -1023,7 +1092,7 @@
 
 ---
 
-### 20. 新youtubeサイト作成決定
+### 21. 新youtubeサイト作成決定
 **Author:** woolisbest (woolisbest)
 
 #### Comments (5)
@@ -1044,7 +1113,7 @@
 
 ---
 
-### 21. 5chが見たいいいいいい
+### 22. 5chが見たいいいいいい
 **Author:** Massa_games216 (Massa_games216)
 
 <p>ニコニコもだけどセキュ硬すぎや</p>
@@ -1059,7 +1128,7 @@
 
 ---
 
-### 22. Post 22
+### 23. Post 23
 **Author:** Agile Finch
 
 <p>しあTubeも死んでるし動画ダウンローダーもYouTubeだけダウンロードできなくなったんだが？！僕だけ？</p>
@@ -1077,7 +1146,7 @@
 
 ---
 
-### 23. もうすぐ学校だと思うとまじでやばい
+### 24. もうすぐ学校だと思うとまじでやばい
 **Author:** 削除済みユーザー (Giveapple)
 
 <p>ずっと冬休みでいいって</p>
@@ -1095,7 +1164,7 @@
 
 ---
 
-### 24. しあtubeしんでんの復活してんのどっち
+### 25. しあtubeしんでんの復活してんのどっち
 **Author:** 削除済みユーザー
 
 #### Comments (3)
@@ -1110,7 +1179,7 @@
 
 ---
 
-### 25. やあ
+### 26. やあ
 **Author:** 削除済みユーザー
 
 #### Comments (6)
@@ -1128,7 +1197,7 @@
 
 ---
 
-### 26. しあtubeは今通常再生が不可
+### 27. しあtubeは今通常再生が不可
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 #### Comments (7)
@@ -1147,7 +1216,7 @@
 
 ---
 
-### 27. しあtubeみんな正常に動いてる？
+### 28. しあtubeみんな正常に動いてる？
 **Author:** 削除済みユーザー
 
 #### Comments (4)
@@ -1163,7 +1232,7 @@
 
 ---
 
-### 28. ローマンピアースの部屋
+### 29. ローマンピアースの部屋
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>年変わるだいぶ前からパスワード必要になってるけど意図的に変えたんかな</p>
@@ -1178,7 +1247,7 @@
 
 ---
 
-### 29. プロキシ500個遅れる
+### 30. プロキシ500個遅れる
 **Author:** 削除済みユーザー
 
 <p>代わりにこれ　一応10000くらいは載せてるよ</p><p><a rel="noopener noreferrer nofollow" href="https://woolisbest.lema.cl/proxy/home">https://woolisbest.lema.cl/proxy/home</a></p><p>規制だったら言ってくれ</p><p>ゲームも少しだけ搭載してるから見てねー</p><p><a rel="noopener noreferrer nofollow" href="https://woolisbest.lema.cl/wool">https://woolisbest.lema.cl/wool</a></p><p><br></p>
@@ -1202,7 +1271,7 @@
 
 ---
 
-### 30. 雑談のとこでリクエストすんのやめて
+### 31. 雑談のとこでリクエストすんのやめて
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 #### Comments (2)
@@ -1220,7 +1289,7 @@
 
 ---
 
-### 31. Post 31
+### 32. Post 32
 **Author:** Artistic Crane
 
 <p>しあtube見れなくなったくない？</p>
@@ -1239,7 +1308,7 @@
 
 ---
 
-### 32. 風強すぎて家揺れてるんだけど
+### 33. 風強すぎて家揺れてるんだけど
 **Author:** 削除済みユーザー (Giveapple)
 
 <p>そんなボロい家じゃないはずなんだけど</p><p>風の音うるせぇ</p>
@@ -1256,7 +1325,7 @@
 
 ---
 
-### 33. 昼夜逆転生活
+### 34. 昼夜逆転生活
 **Author:** 削除済みユーザー (Giveapple)
 
 <p>これから寝る</p>
@@ -1271,7 +1340,7 @@
 
 ---
 
-### 34. どうも
+### 35. どうも
 **Author:** かいと (HALVES_LOVE)
 
 #### Comments (1)
@@ -1284,7 +1353,7 @@
 
 ---
 
-### 35. youtubeeducationパラメーター自動化した（一個めんどくさくなってしあさんのパクってる、あとで直す)
+### 36. youtubeeducationパラメーター自動化した（一個めんどくさくなってしあさんのパクってる、あとで直す)
 **Author:** woolisbest (woolisbest4520)
 
 #### Reactions
@@ -1298,7 +1367,7 @@
 
 ---
 
-### 36. プロキシ作れなくなった⭐︎
+### 37. プロキシ作れなくなった⭐︎
 **Author:** 029大好き！(会長910)#ウルトラ第三番弟子 (029daisuki_910)
 
 <p>だからもう探す⭐︎</p>
@@ -1313,7 +1382,7 @@
 
 ---
 
-### 37. ちなみに昨日1/7誕生日です。w
+### 38. ちなみに昨日1/7誕生日です。w
 **Author:** 029大好き！(会長910)#ウルトラ第三番弟子 (029daisuki_910)
 
 <p>追加でアニメ欲しい人〜</p>
@@ -1331,7 +1400,7 @@
 
 ---
 
-### 38. ...
+### 39. ...
 **Author:** 削除済みユーザー
 
 #### Additional Information
@@ -1341,7 +1410,7 @@
 
 ---
 
-### 39. イチゴミルクさん僕のこと覚えてますか？
+### 40. イチゴミルクさん僕のこと覚えてますか？
 **Author:** Fabulous Magpie
 
 #### Comments (1)
@@ -1354,7 +1423,7 @@
 
 ---
 
-### 40. 入試まであと13日だがネットサーフィン
+### 41. 入試まであと13日だがネットサーフィン
 **Author:** Massa_games216 (Massa_games216)
 
 <p>狂気</p>
@@ -1373,7 +1442,7 @@
 
 ---
 
-### 41. Toka_Kun_さんいますか?
+### 42. Toka_Kun_さんいますか?
 **Author:** Magurock  (偽物や偽投稿など注意) (Magurock)
 
 <p>イベント公開したのでこの部屋に貼って欲しいです</p>
@@ -1385,7 +1454,7 @@
 
 ---
 
-### 42. おすすめのユーチューバー教えて！！
+### 43. おすすめのユーチューバー教えて！！
 **Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 #### Comments (9)
@@ -1406,7 +1475,7 @@
 
 ---
 
-### 43. ニコ動はなぜそんなにセキュ硬い
+### 44. ニコ動はなぜそんなにセキュ硬い
 **Author:** Massa_games216 (Massa_games216)
 
 <p>API探してもパチモンか壊れてるやつしかねえんだが</p><p>マジで何で？</p>
@@ -1424,7 +1493,7 @@
 
 ---
 
-### 44. 桃鉄教育版のパスワードを攻略しよう！
+### 45. 桃鉄教育版のパスワードを攻略しよう！
 **Author:** All Japan Unblocking Association　(全日本ブロック解除協会) (nippii)
 
 <p>ダイナミックな作戦をやります。それは8桁の数字をテキトーに入力して行こうというものです。専用のパドレット部屋を作りますので、どうか皆様、ご協力いただけると幸いです！プロキシのリンクやyoutubeの閲覧方法を共有する会の宣伝もやりまくりました。</p>
@@ -1446,7 +1515,7 @@
 
 ---
 
-### 45. 誰か〜
+### 46. 誰か〜
 **Author:** 削除済みユーザー
 
 <p>Padletで「この人だけ読者にしたい！」みたいな設定ってどうやるの？</p>
@@ -1466,7 +1535,7 @@
 
 ---
 
-### 46. やばいGemini Proが賢すぎる
+### 47. やばいGemini Proが賢すぎる
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>ChatGPTから乗り換えるわ</p>
@@ -1488,7 +1557,7 @@
 
 ---
 
-### 47. なんかしあtubeが進化してた！
+### 48. なんかしあtubeが進化してた！
 **Author:** 削除済みユーザー
 
 <p>やったーーーー！</p><p>個人的にはここにダウンロードなしのショートがあったら最高だと思う。</p>
@@ -1507,7 +1576,7 @@
 
 ---
 
-### 48. Toka_Kun_さんいますか?
+### 49. Toka_Kun_さんいますか?
 **Author:** Magurock  (偽物や偽投稿など注意) (Magurock)
 
 <p>イベントの件で受付部屋に来て欲しいです</p>
@@ -1519,7 +1588,7 @@
 
 ---
 
-### 49. Toka_kun_さんいますか?
+### 50. Toka_kun_さんいますか?
 **Author:** Magurock  (偽物や偽投稿など注意) (Magurock)
 
 <p>イベント部屋のの受付に貼ってくれた案が実現可能ならお願いたくて</p>
@@ -1531,7 +1600,7 @@
 
 ---
 
-### 50. Toka_kun_さん
+### 51. Toka_kun_さん
 **Author:** Magurock  (偽物や偽投稿など注意) (Magurock)
 
 <p>↓の部屋に貼った部屋の整備お願いしたいです</p>
@@ -1543,7 +1612,7 @@
 
 ---
 
-### 51. イベントの件
+### 52. イベントの件
 **Author:** Magurock  (偽物や偽投稿など注意) (Magurock)
 
 <p>ここでお願いします</p>
@@ -1557,7 +1626,7 @@
 
 ---
 
-### 52. Tøka_Kuŋ_さんいますか?
+### 53. Tøka_Kuŋ_さんいますか?
 **Author:** Magurock  (偽物や偽投稿など注意) (Magurock)
 
 <p>エドガー部屋と共有する会で協力する形でイベントしたくて</p><p>詳細は長くなるので省きますが両方の部屋に宣伝の効果的な物ができるはずです</p>
@@ -1575,7 +1644,7 @@
 
 ---
 
-### 53. ポータルワールドにあるやつみたいのどうやってやるのか教えてぇ
+### 54. ポータルワールドにあるやつみたいのどうやってやるのか教えてぇ
 **Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
 <p>開いた瞬間に投稿画面になるやつ</p>
@@ -1592,7 +1661,7 @@
 
 ---
 
-### 54. マジで関係ないこと話すわ
+### 55. マジで関係ないこと話すわ
 **Author:** 029大好き！(会長910)#ウルトラ第三番弟子 (029daisuki_910)
 
 <p>ボウリングでスコア161という久しぶりに150点以上出したんだけど、自己ベストが216で、今ハウスボールでやっている。これはマイボールに変えても良さそう？(中学3久、中学2自)</p><p>(あと、1週間後にもう消してええよw)</p>
@@ -1608,7 +1677,7 @@
 
 ---
 
-### 55. Post 55
+### 56. Post 56
 **Author:** 029大好き！(会長910)#ウルトラ第三番弟子 (029daisuki_910)
 
 <p>時間かかるかもしれんけど、わかめなど改造して下旬でも使えるサイト作ろうとおもってましゅー</p>
@@ -1629,7 +1698,7 @@
 
 ---
 
-### 56. toka_kunさんいます？
+### 57. toka_kunさんいます？
 **Author:** harudayo (tyannnagi1)
 
 <p>ラグすぎて学校から、3GB超えたから学校から怒られた！</p><p><br></p>
@@ -1651,7 +1720,7 @@
 
 ---
 
-### 57. toka_kun氏おる？
+### 58. toka_kun氏おる？
 **Author:** ぐるぐるまっきー (guruma_cancelESTA)
 
 <p>質問</p><p>転載元（ここのリンク）を明記して転載するのはおｋ？</p>
@@ -1666,7 +1735,7 @@
 
 ---
 
-### 58. ᏁγᎶ » Tøka_Kuŋ_さんいますか？
+### 59. ᏁγᎶ » Tøka_Kuŋ_さんいますか？
 **Author:** ✨️🎧️*~白玉もちぃ~*🎧️✨️ (s14200050)
 
 #### Comments (27)
@@ -1709,7 +1778,7 @@
 
 ---
 
-### 59. フォークできたけどうまくインスタンス展開できない
+### 60. フォークできたけどうまくインスタンス展開できない
 **Author:** Massa_games216 (Massa_games216)
 
 <p>UtopiaとInterstellar量産したいのにうまく使えねえ初心者</p><p>renderが重すぎて発狂</p>
@@ -1731,7 +1800,7 @@
 
 ---
 
-### 60. Youtube unblockerでyoutubeを超える!?
+### 61. Youtube unblockerでyoutubeを超える!?
 **Author:** 削除済みユーザー
 
 <p>??????????????????????????</p>
@@ -1749,7 +1818,7 @@
 
 ---
 
-### 61. 重大かも
+### 62. 重大かも
 **Author:** 029大好き！(会長910)#ウルトラ第三番弟子 (029daisuki_910)
 
 <p>どもども</p><p>色々受験勉強であれから作っていなくて久しぶりに戻った029(K会長)っす</p><p>最近できていない分、ここから作ろうとは思ってますー</p><p>ちなみになんかRailwayの作り方がわかんない人が多いらしいので、近日公開として、報告しときます</p><p>2025/12/6日　Railway作り方公開(YouTube&amp;ニコニコ&amp;TikTok)※TikTokに関しては公開という動画を投稿です)</p><p>同日　投票分&amp;新しいデプロイ配布(アニメが欲しいなら、公開しない限り私の部屋で一部の許可得る上で公開します)※拡散❌</p><p>12/7 TikTokライブ配信(ロブロックスorテトリス)</p>
@@ -1770,7 +1839,7 @@
 
 ---
 
-### 62. 地震大丈夫か~
+### 63. 地震大丈夫か~
 **Author:** 削除済みユーザー
 
 <p>わしんところ揺れた</p><p>こんなに揺れたのは東日本大震災以来だっておとんが言ってた</p>
@@ -1804,7 +1873,7 @@
 
 ---
 
-### 63. 悲報　start pegeがkisei☆💢
+### 64. 悲報　start pegeがkisei☆💢
 **Author:** All Japan Unblocking Association　(全日本ブロック解除協会) (nippii)
 
 <p>お・わ・た☆</p>
@@ -1822,7 +1891,7 @@
 
 ---
 
-### 64. 荒らしくんへ
+### 65. 荒らしくんへ
 **Author:** Massa_games216 (Massa_games216)
 
 <p>おめでとう！君のメアドはしっかり記録しといたよ！</p><p><br></p><p>コイツの本拠地（多分）↓</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/wan511/padlet-8v7kjs8cz6sewr5v">https://padlet.com/wan511/padlet-8v7kjs8cz6sewr5v</a></p>
@@ -1842,7 +1911,7 @@
 
 ---
 
-### 65. チャット荒らされてる
+### 66. チャット荒らされてる
 **Author:** 削除済みユーザー
 
 #### Comments (5)
@@ -1859,7 +1928,7 @@
 
 ---
 
-### 66. 大歓喜
+### 67. 大歓喜
 **Author:** 削除済みユーザー
 
 <p>俺の市、今まで学タブのログインQRコードでやってたんだけど、来年くらいからパスワード制になるらしい</p>
@@ -1876,7 +1945,7 @@
 
 ---
 
-### 67. 自分のパド部屋を作る
+### 68. 自分のパド部屋を作る
 **Author:** Massa_games216 (Massa_games216)
 
 <p>全然設定がわからなくて発狂</p>
@@ -1892,7 +1961,7 @@
 
 ---
 
-### 68. Toka_Kun  WOOLTUBEのとこ　確認よろしく
+### 69. Toka_Kun  WOOLTUBEのとこ　確認よろしく
 **Author:** 削除済みユーザー
 
 #### Reactions
@@ -1906,7 +1975,7 @@
 
 ---
 
-### 69. おひさ
+### 70. おひさ
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <p>まじで1、2ヶ月ぶりの浮上</p>
@@ -1925,7 +1994,7 @@
 
 ---
 
-### 70. サイト開発したくてもなぁ、
+### 71. サイト開発したくてもなぁ、
 **Author:** ゾン (zon1212134)
 
 #### Comments (6)
@@ -1943,7 +2012,7 @@
 
 ---
 
-### 71. WOOLTUBE部屋　ログインしなくても入れるようにした
+### 72. WOOLTUBE部屋　ログインしなくても入れるようにした
 **Author:** 削除済みユーザー
 
 <p>変わってたから戻した</p>
@@ -1985,7 +2054,37 @@
 
 ---
 
-### 2. Padletの全体的な人口
+### 2. 学校のタブレットやpcなに使ってる？
+**Author:** 仙人@suger (xianrendesu)
+
+**学校のタブレットやpcなに使ってる？:**
+- **Chromebook:** 99 votes
+- **Ipad:** 94 votes
+- **Windows:** 1 vote
+- **Android:** 3 votes
+
+#### Comments (12)
+- **-かきくけこ-ISGC☯** (Feb 06, 2026 08:46am): Chromebookだな
+- **Valiant Ferret** (Feb 06, 2026 03:40pm): パドレット規制かかったからDDXでしかやってない
+- **masdesuyo** (Feb 07, 2026 05:08am): Windowsの人いるんだ
+- **コロッケ** (Feb 07, 2026 06:11am): iPad
+- **レッド** (Feb 07, 2026 09:32am): chromebook
+- **NyrikX(足立区陣ICFS系)** (Feb 08, 2026 10:32am): ChromebookでICFCとICA(advance)とかある
+- **シャドウ・レクイエム＃Food：Meat隊** (Feb 10, 2026 12:33pm): クロブック
+- **味の煮付けの汁** (Feb 11, 2026 06:47am): Mac
+- **亜空カン_JANLINE** (Feb 12, 2026 07:45am): Chromebook
+- **亜空カン_JANLINE** (Feb 12, 2026 07:46am): Windowsが居るだと...裏山しい
+- **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Feb 13, 2026 09:45am): あの、いや、まちがえてWindows押したのです((Chromebookですよホントは...
+- **亜空カン_JANLINE** (Feb 14, 2026 07:02am): そーゆうことね
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 06, 2026 08:31am
+- **Updated At (UTC):** Feb 25, 2026 11:10am
+
+---
+
+### 3. Padletの全体的な人口
 **Author:** Magurock  (偽物や偽投稿など注意) (Magurock)
 
 **Padletの人口....と思う:**
@@ -2009,7 +2108,7 @@
 
 ---
 
-### 3. youtubeダウンローダーﾎｼｲ?（2回目）
+### 4. youtubeダウンローダーﾎｼｲ?（2回目）
 **Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 **いるの？いらないの？:**
@@ -2038,11 +2137,11 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Dec 23, 2025 10:55am
-- **Updated At (UTC):** Feb 16, 2026 08:48am
+- **Updated At (UTC):** Feb 25, 2026 11:10am
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** 029大好き！(会長910)#ウルトラ第三番弟子 (029daisuki_910)
 
 **アニメサイト欲しいですか？:**
@@ -2081,7 +2180,7 @@
 
 ---
 
-### 5. 何がいい？
+### 6. 何がいい？
 **Author:** 削除済みユーザー
 
 **どれがいいかな:**
@@ -2125,7 +2224,7 @@
 
 ---
 
-### 6. 勝手に追加して申し訳ない
+### 7. 勝手に追加して申し訳ない
 **Author:** 029大好き！(会長910)#ウルトラ第三番弟子 (029daisuki_910)
 
 **この条件なら何がいい？:**
@@ -2157,7 +2256,7 @@
 
 ---
 
-### 7. ようつべダウンローダー欲しい人挙手！
+### 8. ようつべダウンローダー欲しい人挙手！
 **Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 **which!?!?!?!?!?!?!?!?!?!?!?(((殴:**
@@ -2185,11 +2284,11 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Dec 04, 2025 08:26am
-- **Updated At (UTC):** Jan 27, 2026 03:48pm
+- **Updated At (UTC):** Feb 25, 2026 11:10am
 
 ---
 
-### 8. わいのパソコンで使えないプロキシほしい？
+### 9. わいのパソコンで使えないプロキシほしい？
 **Author:** あおたん　女子友の奴隷 (aotan)
 
 **どっち？:**
@@ -2210,7 +2309,7 @@
 
 ---
 
-### 9. 画像生成AIって需要ある？
+### 10. 画像生成AIって需要ある？
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
@@ -2229,7 +2328,7 @@
 
 ---
 
-### 10. 勝手に追加してごめん
+### 11. 勝手に追加してごめん
 **Author:** 削除済みユーザー
 
 **再生方法:**
@@ -2257,7 +2356,7 @@
 
 ---
 
-### 11. TurboWarp入れる？
+### 12. TurboWarp入れる？
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
@@ -2279,7 +2378,7 @@
 
 ---
 
-### 12. Scratch入れる？
+### 13. Scratch入れる？
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
@@ -2308,7 +2407,7 @@
 
 ---
 
-### 13. YouTubeならどれが一番欲しい？
+### 14. YouTubeならどれが一番欲しい？
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
@@ -2333,7 +2432,7 @@
 
 ---
 
-### 14. どれが一番好き？
+### 15. どれが一番好き？
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
@@ -2359,7 +2458,7 @@
 
 ---
 
-### 15. リアクションを変えるべき？
+### 16. リアクションを変えるべき？
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
@@ -2380,7 +2479,7 @@
 
 ---
 
-### 16. 結局どれが一番欲しい？
+### 17. 結局どれが一番欲しい？
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
@@ -2408,7 +2507,7 @@
 
 ---
 
-### 17. こんな制度があればサイトを提供する気になる？
+### 18. こんな制度があればサイトを提供する気になる？
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
@@ -2432,7 +2531,7 @@
 
 ---
 
-### 18. Scratch版マイクラがオンラインで遊べるやつのHTMLファイルいる？
+### 19. Scratch版マイクラがオンラインで遊べるやつのHTMLファイルいる？
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **TurboWarpがブロックされてても遊べるよ:**
@@ -2459,7 +2558,7 @@
 
 ---
 
-### 19. バレンタインに手作りチョコを貰ったら
+### 20. バレンタインに手作りチョコを貰ったら
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **ホワイトデーに:**
@@ -2487,7 +2586,7 @@
 
 ---
 
-### 20. Post 20
+### 21. Post 21
 **Author:** ポップコーン (5232121151152210416)
 
 **もし生まれ変わるなら？:**
@@ -2510,7 +2609,7 @@
 
 ---
 
-### 21. 投票して欲しい
+### 22. 投票して欲しい
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **短縮リンクについて:**
@@ -2536,7 +2635,7 @@
 
 ---
 
-### 22. 投票
+### 23. 投票
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **この部屋にある投稿は:**
@@ -2552,7 +2651,7 @@
 
 ---
 
-### 23. これ入れる？
+### 24. これ入れる？
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **投票に参加してね:**
@@ -2577,7 +2676,7 @@
 
 ---
 
-### 24. このPadletの読み込みが遅いから、リンクをまとめたdiscord鯖等が欲しい？
+### 25. このPadletの読み込みが遅いから、リンクをまとめたdiscord鯖等が欲しい？
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 **回答お願いします:**
@@ -2592,7 +2691,7 @@
 
 ---
 
-### 25. 年齢調査
+### 26. 年齢調査
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **投票してね:**
@@ -2630,7 +2729,7 @@
 
 ---
 
-### 26. 親友が落とし穴に落ちたら
+### 27. 親友が落とし穴に落ちたら
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
@@ -2664,7 +2763,7 @@
 
 ---
 
-### 27. Post 27
+### 28. Post 28
 **Author:** Kirby (s190489_4)
 
 **もし自分が1000億円持っていたら・・・？:**
@@ -2689,7 +2788,7 @@
 
 ---
 
-### 28. 恋愛❤️
+### 29. 恋愛❤️
 **Author:** Airi (s170533_3)
 
 **今好きな人いるー？:**
@@ -2726,7 +2825,7 @@
 
 ---
 
-### 29. Post 29
+### 30. Post 30
 **Author:** ポップコーン (5232121151152210416)
 
 **好きな歌手:**
@@ -2762,7 +2861,7 @@
 
 ---
 
-### 30. Post 30
+### 31. Post 31
 **Author:** Kirby (s190489_4)
 
 **付き合うとしたら…？:**
@@ -2781,7 +2880,7 @@
 
 ---
 
-### 31. この中で一番好きな曲は？
+### 32. この中で一番好きな曲は？
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
@@ -2852,7 +2951,7 @@
 ### 4. アプリをダウンロードする方法教えて下さい　こうなる↓
 **Author:** 水原二平 (r02s14030)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1772610734&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zA8cDWkskVFxHz95q41%2FBsQCI5og6ousyN2PE8%2BbQo9NKEIkmGo1usfz1PyL3mHoS9UiFWg9jeJh0jmvz8JuO3Gw4XTV2yCWb46dVyYfl0nOfAesqmusNHj9QIrfCq0bvbxnDiBGUgCFtNf%2BWYrlWRXEyMiGanY%2FUCJ7GcahzLk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1772624461&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Pmkbd7Ozb23y2YurVO2MlA0szZ6RZpf5517MrSjdbzWLnbGj3O3RbUPaS7VfNDf0cvFOSyRqaqz6079pA9EcaSINtQ5xom3AFDfeNf9u5oC41vDKz79X14vsr%2B4ixWUQfQfcBOvavl8Qw25UVO09Qb72y24beV%2FQc89Mod6gvCA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
 
 #### Comments (4)
 - **かから** (Jan 27, 2026 10:26am): Chromebookだったらhttps://chrome.google.com/webstore?utm_source=app-launcher
@@ -3287,7 +3386,7 @@
 
 **投稿の種類:** フィルターに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1772610734&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DbvFiJDbCWyy2AeJI7XJkHoUImkL97ghZGLifQrIIhbRKNvHYDTzyEDtSkbsj9IKu13%2BKCSa1CDKmNaPjJ%2FgGD1VP%2B49kIKTctuhF%2FvITfLGa56ytUsceGcEBjZBqYPWcXmzTJkTeKWSRfyjKVhOy4PXbtoFgfWXbHnAWWRh0Kk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1772624461&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=H903QxN45G3339Mys%2BQp49jsAGawgvXeLmsM60zpdZUwL%2F7BD3y3LQl5gKf5ayJpwKQOLEoK2IboK%2FcZym16vPicBEF5tn8QXaRg8Bar7hYZLDW1U0CrmGX0ACEo4XlDW4zioYwBRnqHVQOAGYWBxGvRWhdDrsvXbwhiFPVs8w4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -3564,7 +3663,7 @@
 
 <p>先ほどゲームをしてるとフリーズしてしまって、再起動するとフィルタリングが更新されており、さっきまで使えていたサイトが使えなくなってしまいました。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1772610734&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=l2YRkUmSpkYgX3Xr6biXSBZH6ilXvIpMgewoltIpHL70QGIT4%2FujmT%2FEJDUzGGjHCd5pCgOt%2F3umWl35TdnMdJAhFP0vC41YOiI%2FIdnN4IDSuMCzpg8ltV5paxDpiB%2Fx4GCaeYmmHtkX%2BGgtjP5CUBX895WGQHsQWVViqPPz4ro%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1772624461&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Oxy%2Bp9SidGpL6YR%2Barz8VWO4UtRiy00lCjufVRs4fJvlNJ7QCGyI%2Fdqe4g93wEVBSbpMuztDuEaHbKx%2BqXJC8nQqSUKynkC2n492TyN8grW1A%2BIDyLnL0os%2BjrBX7pgVvHN47j%2FQ27Yglo698kv21fgtsBskvaKFbpUh8iN323g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **削除済みユーザー** (Dec 21, 2025 05:06am): 俺も金曜日そんな感じになった
@@ -3590,7 +3689,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1772610734&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XI25GdzDMfD9wSGki8bmL%2BUXrAMerqdLglxKP23ZcJw5JLy8IJhnGTv1p6vaL%2F%2FzX07R2z6qKYoxpCPe6IczTRYXJMT%2FOS5U5h%2Bd9AirvdYf3opWY90szIcPvLZbgOuxKvFj6n705z3VuDjAqvBymDEnnBwkBs%2F5IRFtKKirldk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1772624461&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BOa58s%2Fuu3Ne%2B1ZNFOUcyg7Iia%2Flg35l9BbpCgdqjqr80ryzzU99QIlVIiuWGWf5FmAh%2B0IaPMl%2FVyuqBPtFP02%2BCLISva5E%2BN2EqdQcHrNy%2FMZmaAR3%2BI9g6wzOtjLPBsOC289L2b%2FKRFU49tzh%2BK3JTIGQKmsMBEmz98EhhIo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **πr²(パイアール2)** (Nov 09, 2025 08:31am): フィルタリングルールの更新日時とか書いてあった
@@ -4027,7 +4126,7 @@
 
 #### Comments (9)
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (May 28, 2025 10:50pm): Iketa
-- **野獣先輩** (May 29, 2025 12:22am): bokumo
+- **神** (May 29, 2025 12:22am): bokumo
 - **Wholesome Bat** (May 29, 2025 01:16am): iketa
 - **Thoughtful Owl** (May 29, 2025 11:56pm): ？
 - **どー“ぶーじょー”じょー** (May 30, 2025 11:12pm): ぶり
