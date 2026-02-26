@@ -1,4 +1,4 @@
-最終更新: 2026/02/26 16:11:14
+最終更新: 2026/02/26 17:51:39
 
 # Padletポータルワールド
 
@@ -156,7 +156,7 @@
 ---
 
 ### 4. Into the blue sky together!
-**Author:** ぐるぐるまっきー (guruma_cancelESTA)
+**Author:** guruma_ESTA (guruma_ESTA)
 
 <p>雑談&amp;マイクラ鯖部屋</p>
 
@@ -1090,7 +1090,7 @@
 ---
 
 ### 48. クリスマス・年末年始雑談部屋in2025→2026
-**Author:** ぐるぐるまっきー (guruma_cancelESTA)
+**Author:** guruma_ESTA (guruma_ESTA)
 
 <p>年末年始・クリスマス専用の雑談部屋！</p><p>エド部屋に基づいた雑談、ピン留め、ミートに加えてイラスト、年末padジャンボ（宝くじ的な何か）、デジタル年賀状などなど年末年始らしいセクションを完備！</p><p><br/></p><p>ちなみにクリスマス雑談部屋も兼ねるのでプレゼント交換も可能！</p><p>これであなたもクリボッチ回避！</p><p>参加者求ム！</p>
 
@@ -1455,7 +1455,7 @@
 ---
 
 ### 64. Sphere lobby
-**Author:** ぐるぐるまっきー (guruma_cancelESTA)
+**Author:** guruma_ESTA (guruma_ESTA)
 
 <p>雑談部屋からゲーム部屋、荒らし対策まで様々な領域を網羅！</p><p>絶対来てね〜</p>
 
@@ -1527,7 +1527,7 @@
 ---
 
 ### 67. 第一回冬休みコラ画コンテストの実行委員受付部屋
-**Author:** ぐるぐるまっきー (guruma_cancelESTA)
+**Author:** guruma_ESTA (guruma_ESTA)
 
 <p>全員強制参加です（）</p><p>来てね〜</p>
 
@@ -1919,7 +1919,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1772694673&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Kl63Oa%2BScUlArOdkIA1OwAQbpgW9mbQq9BNhxlpn%2BNi78ebasTgjnqusyrjundogRJNtqlm0zIrx3GWohAFM8ZsufkQfraz4beaxWrqtAFafjDX%2FXk7OMwxIA8Y1rbnIhkHRp%2BuDTQ0F8TkLyUS%2FSBNaLZeU%2F3Xc1zjgs73eFWA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1772700699&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=btMcAr6ZP34TkIBnyrDLJ3sS1AZVavuQX8eA%2B6u69PL9NUhL%2BsMV4XdS00YamkvYr2bCWbDp6kr%2BUZb2RYNQP4BvqlYCr%2FlcqYrx7vV5gxB0ya3oMjVK%2Fkk7D0GLABgnGMpxrWIUVklBJzfnXxdpR0jQShXzdAvFvfFQpbf45RU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
