@@ -1,4 +1,4 @@
-最終更新: 2026/02/26 17:51:39
+最終更新: 2026/02/26 18:52:38
 
 # Padletポータルワールド
 
@@ -385,7 +385,7 @@
 ---
 
 ### 14. 札幌市教育委員会・ICFS対策本部
-**Author:** 削除済みユーザー (Giveapple)
+**Author:** 削除済みユーザー (sakujosaretenaiyo)
 
 <p>プロキシのリンクやYouTubeの閲覧方法を共有する会の子会社です</p>
 
@@ -1919,7 +1919,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1772700699&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=btMcAr6ZP34TkIBnyrDLJ3sS1AZVavuQX8eA%2B6u69PL9NUhL%2BsMV4XdS00YamkvYr2bCWbDp6kr%2BUZb2RYNQP4BvqlYCr%2FlcqYrx7vV5gxB0ya3oMjVK%2Fkk7D0GLABgnGMpxrWIUVklBJzfnXxdpR0jQShXzdAvFvfFQpbf45RU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1772704358&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ryCPMqMjgkxjTLvtCwlVwKUx5WBhM9krCrWdEQQnye1Ux%2B%2BVnxdHW0uTuYBlbK1mr%2BKpIVDHZBqoDosJfp5TfPyBpdFyK7nO20r4w6hIGHXeZ%2FIfLND93alqVDPB4zq10aUfPsOb2Xs1cGl6MCCzT1buRJvCgpwp8GA8nx6RkeY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて

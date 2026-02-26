@@ -1,4 +1,4 @@
-最終更新: 2026/02/26 17:51:50
+最終更新: 2026/02/26 18:52:48
 
 # 荒らし対策室
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 11
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Feb 19, 2026 09:30am
+- **Updated At (UTC):** Feb 26, 2026 09:31am
 
 ## リンク集
 
@@ -112,6 +112,10 @@
 ### 1. りおと
 **Author:** りおとだお！　明日iPad初期化！ (riotodao)
 
+#### Reactions
+- **Upvotes:** 1
+- **Downvotes:** 0
+
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Feb 07, 2026 07:20am
@@ -123,7 +127,7 @@
 **Author:** かいと (HALVES_LOVE)
 
 #### Reactions
-- **Upvotes:** 2
+- **Upvotes:** 3
 - **Downvotes:** 1
 
 #### Additional Information
@@ -137,7 +141,7 @@
 **Author:** レイ　#最近ていふ (rei_ryu)
 
 #### Reactions
-- **Upvotes:** 0
+- **Upvotes:** 1
 - **Downvotes:** 2
 
 #### Additional Information
@@ -151,7 +155,7 @@
 **Author:** たたたんこ (Tatatanko)
 
 #### Reactions
-- **Upvotes:** 0
+- **Upvotes:** 1
 - **Downvotes:** 2
 
 #### Additional Information
@@ -167,7 +171,7 @@
 <p><strong>偽エドガーなので注意</strong></p>
 
 #### Reactions
-- **Upvotes:** 0
+- **Upvotes:** 1
 - **Downvotes:** 2
 
 #### Additional Information
@@ -183,7 +187,7 @@
 **Author:** 削除済みユーザー
 
 #### Reactions
-- **Upvotes:** 0
+- **Upvotes:** 1
 - **Downvotes:** 1
 
 #### Additional Information
@@ -197,7 +201,7 @@
 **Author:** ぜんた　りおとの一番弟子！ (zenta_nanda)
 
 #### Reactions
-- **Upvotes:** 1
+- **Upvotes:** 2
 - **Downvotes:** 0
 
 #### Additional Information
@@ -213,7 +217,7 @@
 <p>これは移動だよつまり別のアカウントがあるってこと。</p><p>いずれ復活します</p>
 
 #### Reactions
-- **Upvotes:** 0
+- **Upvotes:** 1
 - **Downvotes:** 1
 
 #### Additional Information
