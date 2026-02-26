@@ -1,4 +1,4 @@
-最終更新: 2026/02/26 14:59:41
+最終更新: 2026/02/26 16:12:44
 
 # proxyなど教える会
 
@@ -9,7 +9,7 @@ proxyサイトなどを共有しましょう
 - **Builder:** 仙人@suger (xianrendesu)
 - **Posts:** 197
 - **Created At (UTC):** Jun 04, 2025 08:02am
-- **Updated At (UTC):** Feb 26, 2026 05:32am
+- **Updated At (UTC):** Feb 26, 2026 07:12am
 
 ## 概要
 
@@ -47,13 +47,14 @@ proxyサイトなどを共有しましょう
 
 <p>どなたでも投稿できます。</p><p>荒らしはおやめください。消すのめんどいので</p><p>普通に考えてやんないほうがいいと思うことはやめてください。</p><p>それ以外は何でもいいよ。</p><p>みんなで仲良くしよう!</p>
 
-#### Comments (6)
+#### Comments (7)
 - **Anonymous** (Feb 05, 2026 08:30am): こんにちは😃学校iPadでYouTubeみたいです
 - **仙人@suger** (Feb 05, 2026 12:57pm): 仙人tubeとか使えば行けるよ
 - **Anonymous** (Feb 06, 2026 01:11pm): ありがとうございます
 - **キャタピー** (Feb 18, 2026 01:21am): どうも今日入りましたキャタピーです。まだまだ未熟物ですがどうかよろしくお願いします
 - **トムトム** (Feb 18, 2026 01:25am): トムトムですキャタピーの友達です。よろしくお願いします。
 - **シャンシャン** (Feb 25, 2026 01:04am): シャンシャンですよろしくお願いします。
+- **えみみとー** (Feb 26, 2026 07:08am): こんにちはえみとーです。別端末からログインしてます。あれは学タブ
 
 #### Reactions
 - **Number of likes:** 3
@@ -598,7 +599,7 @@ proxyサイトなどを共有しましょう
 ### 35. AIEGG
 **Author:** 荒らしたい気分
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4028989195/1afef90ae0cdcafa4911d6feb9c638ac/9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3?Expires=1772690379&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Ok%2FcUS%2BVJvyzI8L171UvqCHe2V8XeKyQiVd7yyR5DHaOVmcXLFxTrddUzhJ49bvOcyLKXBwTlzcHykChVnfmixGIKIcldxvoRrE1kE0wgroFXrKTINSPsAtFQXp6HzfJLaxjqVpldRT3NO1MUc2MFpEgFgt4bWbKcac2NoEj1Ko%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4028989195%2F1afef90ae0cdcafa4911d6feb9c638ac%2F9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4028989195/1afef90ae0cdcafa4911d6feb9c638ac/9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3?Expires=1772694762&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uG7RDenmq%2BP3ASCx9gu1dEfz5UwGuEZ7FqqVSCJI%2FOilKIA7o3LOZX%2Bj6spU2QHrwelvs1s7QHrXWXHc%2BLvmrgfG%2BTCcuC7sx%2F6o7Y5vF1IGnqMJBEAJgxbPubHHKdO6HAPiMdGrtYAfjZBEozabGC53Yj7z0mj8joaOPkFY57M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4028989195%2F1afef90ae0cdcafa4911d6feb9c638ac%2F9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3)
 
 #### Additional Information
 - **Post color:** White
@@ -893,7 +894,7 @@ proxyサイトなどを共有しましょう
 
 <p><em>ヒロアカが好きです</em></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4953574738/534625dfa9fb4e5d460fda2319aee41d/images__2_.jpeg?Expires=1772690380&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rN1Qb4fEzkHVP9wQMZV53h781NRY7hTnd0zd8SNInn3yBZCd7qRWHz6EbiBrUBv15fG7eoIZh4C47kWx8A7bppJKZmurcwBU35e6SYZvq7S69%2FCsA7MvXTkS5TJkCH1H%2FUsGcEWo1%2BOmb19BLnBQksyeldbcPKkSz3sWxEXO7MU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4953574738%2F534625dfa9fb4e5d460fda2319aee41d%2Fimages__2_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4953574738/534625dfa9fb4e5d460fda2319aee41d/images__2_.jpeg?Expires=1772694763&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=biIOW88U%2B0Dv6CUgKUbN7FAVQmjxpkhHyBz1RD%2BUAVptRAI84AQQPTISsRoyJ1Bz%2F09omhs6WD%2Bma2KCUu233neBwky4rTRmI1ez%2BICF8t3TgFbzAITKf9u2d0IsyrjlNBur6pgoGSp0vVFIsnlZYCQx32URQ1oVfAlI1oKC6ow%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4953574738%2F534625dfa9fb4e5d460fda2319aee41d%2Fimages__2_.jpeg)
 
 #### Comments (1)
 - **仙人@suger** (Dec 26, 2025 12:23am): こんにちは!
@@ -1040,7 +1041,7 @@ proxyサイトなどを共有しましょう
 
 <p>仙人さんが作った<a rel="noopener noreferrer nofollow" href="https://xtest-dvhl.onrender.com/">X風掲示板サイト</a>で僕のアカウントが使えなくなりました。再起動してもデータ消しても投稿ができないし他の投稿や自分のプロフィールなども見れません。プロキシで入れましたが他の人達は普通に使えてるようです。原因はわかりますか？見れないときに「初期化に失敗しました」というメッセージが出ました。心当たりは無いです…</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5146326471/d22573bd868b0e897214ab819b7ba205/____.webm?Expires=1772690380&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZeGYusaCjM%2FQLgSTeY%2BzBwXlsATRCuXF2RMtBqKRuN08Q4%2FYhRZ5D3DJ4Ne%2B759qCQzMkl045SZkw9UiT1G4bYE%2FNO6w8nTXGhKYwk%2BW3oYdwMZJaJqRV3PU0RnJw9aSsjBA8TvpLhKoeK8fed6Mcd9oUiV9KrupyCy2U%2F4UDOU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5146326471%2Fd22573bd868b0e897214ab819b7ba205%2F____.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5146326471/d22573bd868b0e897214ab819b7ba205/____.webm?Expires=1772694763&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iPs8yfVKaXL2YJajzoC12LkKHzsyqbtGQ1wCkeO0p6VASJT7UAtiQaCvzQ0ob4%2FRxOVOoe%2FY0ZlcuxrbzYVBfZM43juyHSiQ9mE%2BZMw2govujAegAa62XQl2Im%2FH%2BtvsZ6EPsvk6ZfkoGGnX7CK%2F8ojz3SiOTuIcbZ8gD09obpk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5146326471%2Fd22573bd868b0e897214ab819b7ba205%2F____.webm)
 
 #### Comments (3)
 - **仙人@suger** (Feb 23, 2026 03:10am): たぶんセキュリティ引っ掛かったかもしれない
@@ -1059,7 +1060,7 @@ proxyサイトなどを共有しましょう
 
 <p>アイコンの周りのヤツなんだこれ</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3821722678/d9a4caa13df14cc54f60307564d40262/IMG_3710.jpeg?Expires=1772690380&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GCxEvuUOsxnTwdaLJWCutaJfi5%2Fl4ZBWWyEUWrR36erx23XkwM0dkR691R6V7iSGThdj1NOfmhWObpuFNe2n4NdaWO%2FumqqkwA2JWeyAwYiXjQJmKAuRtQ1jZXIB%2Bwa7ie0PhdMCNHgox6BQTQraKRTBEncjP2Bfk5p5NQF6lfA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3821722678%2Fd9a4caa13df14cc54f60307564d40262%2FIMG_3710.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3821722678/d9a4caa13df14cc54f60307564d40262/IMG_3710.jpeg?Expires=1772694763&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yCw5M7sjo%2BU2o6qyuTpbhfdt0m%2BAHkUtiRl8W2gnulEGl7NRLW3SY%2BGOWi0WPSDEzl6eWWWTlhBNUcPTSFtJwZiYzRhDD4nAp%2BBWrnmeHwd900HStwkx6VBL3D%2Fdt%2FU%2FPCXMp%2FeK6tjW4HhxHqLluyj7CLIEIuc0tn%2BmXMFGkD8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3821722678%2Fd9a4caa13df14cc54f60307564d40262%2FIMG_3710.jpeg)
 
 #### Comments (5)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 19, 2026 10:05pm): https://padlet.help/l/ja/article/88slsagmp2
@@ -1093,19 +1094,19 @@ proxyサイトなどを共有しましょう
 
 **このルームってリンクの量どう？:**
 - **多い:** 15 votes
-- **まあまあ:** 20 votes
+- **まあまあ:** 21 votes
 - **少ない:** 7 votes
 - **少な過ぎて無能:** 14 votes
 
 <p>結果によって考える</p>
 
 #### Reactions
-- **Number of likes:** 2
+- **Number of likes:** 3
 
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Feb 17, 2026 09:29am
-- **Updated At (UTC):** Feb 26, 2026 12:18am
+- **Updated At (UTC):** Feb 26, 2026 07:09am
 
 ---
 
@@ -1330,7 +1331,7 @@ proxyサイトなどを共有しましょう
 
 <p>したに投稿してね</p>
 
-#### Comments (18)
+#### Comments (19)
 - **Anonymous** (Feb 06, 2026 01:09am):  Googleアカウント作ってください
 - **仙人@suger** (Feb 07, 2026 02:09am): どう言うこと？（理解悪くてごめんね）
 - **ﾅﾏｴ・ｷﾒﾚﾝ** (Feb 08, 2026 12:19am): 仙人さん！出来ればで良いのでお願いがあります。https://sennintubeyobi.onrender.com/word/の動画高画質(1080p)に対応させて欲しいです！できればで良いので！
@@ -1349,6 +1350,7 @@ proxyサイトなどを共有しましょう
 - **匿名** (Feb 19, 2026 04:15am): セフレになりませんか
 - **匿名** (Feb 19, 2026 06:44am): 兵庫県です
 - **仙人@suger** (Feb 19, 2026 09:37am): https://www.tikvib.com/これとか僕はいけた
+- **Eager Bear** (Feb 26, 2026 07:05am): ゲイです。
 
 #### Additional Information
 - **Post color:** Green
@@ -1713,8 +1715,10 @@ proxyサイトなどを共有しましょう
 
 <p>初回アクセス時はじかんがかかる可能性があります。検索と動画再生はサクサク出来ると思います。ゲームやツールもあります。</p><p><br></p><p><br></p><p><br></p><p>➥ 対応している再生方法はこちら</p><p><br></p><p>Education</p><p><br></p><p>ストリーミング再生</p><p><br></p><p>Hls再生</p><p><br></p><p>Nocookie</p><p><br></p><p><br></p><p><br></p><p>➥ 開発者</p><p><br></p><p>仙人@sugar</p><p><br></p><p><br></p><p>陽著辺子</p><p><br></p><p><br></p><p><br></p><p>➥ レポジトリ</p><p><br></p><p>https://github.com/youtubekosub/Katuotube-1</p>
 
-#### Comments (1)
+#### Comments (3)
 - **woolisbest** (Feb 25, 2026 07:57am): 検索できなくない？
+- **仙人@suger** (Feb 26, 2026 07:06am): できるよ
+- **仙人@suger** (Feb 26, 2026 07:06am): たぶんアクセス数が多い夜とかが重くなってるだけ
 
 #### Additional Information
 - **Post color:** Green
@@ -1728,11 +1732,13 @@ proxyサイトなどを共有しましょう
 
 <p>https://katuotube-1.onrender.com</p>
 
-#### Comments (4)
+#### Comments (6)
 - **Thoughtful Oyster** (Feb 25, 2026 04:05am): パスワードわかりますか？
 - **Brilliant Kiwi** (Feb 25, 2026 06:15am): パスワード教えてほしいです
 - **仙人@suger** (Feb 25, 2026 06:48am): katuo
 - **Invisible Antelope** (Feb 25, 2026 11:42pm): あざっす！
+- **Anonymous Tiger** (Feb 26, 2026 07:07am): 入れたけど再生できる？
+- **仙人@suger** (Feb 26, 2026 07:07am): 軽量化する予定 
 
 #### Additional Information
 - **Post color:** White
@@ -1748,7 +1754,7 @@ proxyサイトなどを共有しましょう
 
 <p>僕が制作したYouTubeサイトです</p><p>ストリーム再生とnocckie再生に対応しています。YouTubeのUIに近づけました。</p><p><br></p><p>@リンク集</p><p>・リポジトリ</p><p>https://github.com/xianrendesu-max/sennintubeyobi<br></p><p><br></p><p>・制作者</p><p>ぼく</p><p><br/></p><p>https://scratch.mit.edu/projects/1273430674/</p><p><br></p>
 
-#### Comments (12)
+#### Comments (13)
 - **Bold Piranha** (Jan 29, 2026 12:25am): ブロックされた
 - **Anonymous** (Jan 29, 2026 12:35am): サイトがなくなりましたみたいな感じで見れなくなったー、
 - **仙人@suger** (Jan 30, 2026 10:25pm): https://sennintubeyobi-fnpi.onrender.com
@@ -1761,6 +1767,7 @@ proxyサイトなどを共有しましょう
 - **yukio** (Feb 13, 2026 12:30am): 仙人全部ブロー
 - **許天宇** (Feb 16, 2026 02:06am): ありがとうございます
 - **Eager Bear** (Feb 24, 2026 03:11am): https://rakko.tools/tools/41/これ使ったらリンク色々貼れるとかない？
+- **えみみとー** (Feb 26, 2026 07:12am): たしかに今日好き見たいね
 
 #### Reactions
 - **Number of likes:** 1
@@ -2111,7 +2118,7 @@ proxyサイトなどを共有しましょう
 ### 3. わかめ使えなくなったんだけどなんでか分かる人いる？
 **Author:** Brilliant Kiwi
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5225598716/02e66f252a2c39f89ec6606d4b4dbc28/Screenshot_2026_02_25_15_22_25.png?Expires=1772690380&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=K78QanjaB5ALAk74dqRrnupxU2Ro3NeGFyNRMZsh%2F5mhfYzexi7cGSx4Ofd5XFyBoZTkjC3xRS%2Bk%2BKORLn0fwDjHoIfeerhv9sagdxs%2FYcuBNnQXOiKfkqm09NBaZMC5ATxwuQ0KB9x%2B%2Bws5uf8b5pSx4A%2B50nv%2BsGYgVYgBde4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5225598716%2F02e66f252a2c39f89ec6606d4b4dbc28%2FScreenshot_2026_02_25_15_22_25.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5225598716/02e66f252a2c39f89ec6606d4b4dbc28/Screenshot_2026_02_25_15_22_25.png?Expires=1772694763&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Ny9ppxW0UKuIndf1IQFYAVkbyHx5tVPqDX016eZr7AgyVcQ8YzVkXIHeCBmJDWwr9C8pGV7aJteqqubLdKzRlddP2DaqyxKOYHpm44lgrxVR8AlBjY5WRjGLpIGA3a7%2Bazn%2Bzsc0Mg12ijAM9o1ei0T8IdYyAQ9Gco8yawm9gjA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5225598716%2F02e66f252a2c39f89ec6606d4b4dbc28%2FScreenshot_2026_02_25_15_22_25.png)
 
 #### Additional Information
 - **Post color:** White
@@ -2301,9 +2308,10 @@ proxyサイトなどを共有しましょう
 
 [Attachment 1](https://www.youtube.com/shorts/6LHOQEfLBJE?pdlt=1)
 
-#### Comments (2)
+#### Comments (3)
 - **黙れくそばばあ** (Feb 25, 2026 02:13am): ホンマに教えて
 - **黙れくそばばあ** (Feb 25, 2026 02:27am): まずこの添付してるやつを見てこのChannelを登録したら教えて（別にしなくてもいいから教えて）
+- **仙人@suger** (Feb 26, 2026 07:07am): 規制されてるの？
 
 #### Reactions
 - **Number of likes:** 1
@@ -2566,7 +2574,7 @@ proxyサイトなどを共有しましょう
 - **三角定規** (Feb 12, 2026 11:33am): やっぱ規制アドオンの種類による
 - **黙れくそばばあ** (Feb 25, 2026 02:05am): されてるしされたろきまじでうぜー
 - **Yusho** (Feb 25, 2026 08:58am): グエーブロられたンゴ
-- **僕最強だから(自称)** (Feb 25, 2026 11:05pm): i-firterは無理
+- **僕最強だから** (Feb 25, 2026 11:05pm): i-firterは無理
 
 #### Additional Information
 - **Post color:** White
@@ -2780,7 +2788,7 @@ proxyサイトなどを共有しましょう
 
 <p>主とボクはICGCです</p>
 
-#### Comments (11)
+#### Comments (12)
 - **シマダアユミ** (Dec 07, 2025 07:14am): Oramo
 - **比留川和真** (Dec 16, 2025 04:07am): isgc民です
 - **Anonymous** (Dec 17, 2025 08:10am): isgcです
@@ -2792,6 +2800,7 @@ proxyサイトなどを共有しましょう
 - **Helpful Barracuda** (Feb 20, 2026 01:04am): せっ
 - **Anonymous** (Feb 23, 2026 04:26am): 僕もisgcです
 - **シャンシャン** (Feb 25, 2026 01:26am): 制限ってどうやってみるんですか？
+- **仙人@suger** (Feb 26, 2026 07:08am): Chromeブックは拡張機能でアイパットはappを見る
 
 #### Additional Information
 - **Post color:** White
@@ -2897,8 +2906,9 @@ proxyサイトなどを共有しましょう
 
 <p><br></p><p>えーっと有識者求むんですけどまず僕はプロキシを作りました、でそのサイトは，どう頑張ってもYouTubeを見ようとするとオフラインと言われて検索や視聴ができません使ってるツールは、gitとverselです。できたら増殖版を皆さんに渡すつもりです、なのでわかる人いましたらオフライン状態の回避方を教えてください。</p><p><br></p><p><br></p>
 
-#### Comments (1)
+#### Comments (2)
 - **Kick** (Jan 31, 2026 03:29pm): 他の機能は完璧と言っても差し支えないですあとYouTubeのオフラインを突破するだけなんです。協力お願いします多分ですがYouTubeのJSによる Service Worker か ytcfgのオフライン判定 が抜けられていない状況です多分大丈夫ですけどアイフィルターでブロックされちゃう方法とか犯罪系は，やめてね
+- **仙人@suger** (Feb 26, 2026 07:09am): Cookie.textとか追加してみたらどうかなYouTubeだけだったら
 
 #### Reactions
 - **Number of likes:** 1
