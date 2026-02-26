@@ -1,4 +1,4 @@
-最終更新: 2026/02/26 22:09:26
+最終更新: 2026/02/26 23:48:29
 
 # Padletポータルワールド
 
@@ -1580,7 +1580,7 @@
 ---
 
 ### 69. プロキシ倉庫
-**Author:** オムライス (omurais)
+**Author:** 削除済みユーザー
 
 <p>プロキシを貼っています</p>
 
@@ -1646,7 +1646,7 @@
 ---
 
 ### 72. 俺と話したいやつきて
-**Author:** いさみ (gaiji1919)
+**Author:** 削除済みユーザー
 
 <p>とくにない</p>
 
@@ -1994,7 +1994,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1772716166&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=O6dsiDgIlgeSzejSuenKeRj57FCmO8Et6ye%2F%2Bgmybm6HTumeHbtDK692I8rQg24Ek3ZvOG0O7Crusq%2Bkcbtoi1c%2Fmz8b2pksBOJcvJTpddcpiZ%2BFm7BY3ZR%2Bwk732q3WMgXSYZZISKpnkVNl8Z%2BvneXSbMWPoMwR7BZ4X0NOv%2BQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1772722109&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4mSQ8v%2Bcwt6%2BHxVV5MBMN%2F6qsucfVXZBose9WtqlQyDpItl59Rx5Ke9Q5hWAS3uXb8HJYS2LwEQUwYLKfh4uB536oKEwwmaw56dS6b4QJeVH8kfSkxVMZXc5zyQez2UU5e3P1dKXQ%2Fnon8QHqbz6dLOWJ1zJF4fQiRO%2FKhTerko%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
