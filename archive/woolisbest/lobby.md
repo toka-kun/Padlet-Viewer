@@ -1,4 +1,4 @@
-最終更新: 2026/02/27 13:46:38
+最終更新: 2026/02/27 17:42:31
 
 # 受付と匿名用
 
@@ -9,14 +9,14 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 27, 2026 01:46am
+- **Updated At (UTC):** Feb 27, 2026 08:27am
 
 ## 受付
 
 ### 1. アクセス要求して
 **Author:** woolisbest (woolisbest)
 
-#### Comments (32)
+#### Comments (33)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 12, 2026 11:54pm): すぃた
 - **削除済みユーザー** (Feb 13, 2026 03:20am): した
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 13, 2026 06:49am): sita
@@ -49,6 +49,7 @@
 - **yukkuto** (Feb 26, 2026 10:48pm): 入れてください
 - **yukkuto** (Feb 26, 2026 10:48pm): 信じられないなら
 - **yukkuto** (Feb 26, 2026 10:58pm): 質問して
+- **スイクン（メガリザX）** (Feb 27, 2026 08:27am): いれて
 
 #### Additional Information
 - **Post color:** Yellow
@@ -62,7 +63,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (36)
+#### Comments (37)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -99,6 +100,7 @@
 - **スイクン（メガリザX）** (Feb 23, 2026 10:31am): 切ることもできません
 - **スイクン（メガリザX）** (Feb 23, 2026 10:32am): killすることもできません
 - **yukkuto** (Feb 26, 2026 10:55pm): 助けて
+- **kuma** (Feb 27, 2026 08:19am): いれて
 
 #### Additional Information
 - **Post color:** Red
