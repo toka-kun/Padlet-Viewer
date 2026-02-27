@@ -1,4 +1,4 @@
-最終更新: 2026/02/27 11:09:52
+最終更新: 2026/02/27 13:47:38
 
 # proxyなど教える会
 
@@ -9,7 +9,7 @@ proxyサイトなどを共有しましょう
 - **Builder:** 仙人@suger (xianrendesu)
 - **Posts:** 199
 - **Created At (UTC):** Jun 04, 2025 08:02am
-- **Updated At (UTC):** Feb 27, 2026 01:30am
+- **Updated At (UTC):** Feb 27, 2026 04:47am
 
 ## 概要
 
@@ -191,13 +191,14 @@ proxyサイトなどを共有しましょう
 ### 11. あかちゃんってどうやってうまれるの？おちんちんを硬くしてこすっておまんことおけつの中に入れてせいし？をだすまではしってる！！！えろすぎるね！聞くだけでボッキしてきちゃった❤️あんあん❤️！！とかﾊﾟﾝﾊﾟﾝﾊﾟﾝっていうおともなるんだ！！！そしてなかにはいったせいしが女の子の卵子にあってくっつくんだって！！！げんじつでもたいないでもくっつくって面白いね！とても興味深いよ！！❤️
 **Author:** しもねたはだめ！！
 
-#### Comments (6)
+#### Comments (7)
 - **仙人@suger** (Feb 17, 2026 09:27am): 小四からの疑問だった
 - **Anonymous** (Feb 17, 2026 12:30pm): wwww
 - **Anonymous** (Feb 18, 2026 05:49am): なんでですか？わかりません？
 - **Siri** (Feb 18, 2026 06:51am): 名前と矛盾してて草wwwww
 - **そうそうくんだよーーん** (Feb 19, 2026 12:05am): 気持ちはわかる
 - **シャンシャン** (Feb 25, 2026 01:17am): どしたん話聞こか？悩みあるなら聞くで
+- **匿名** (Feb 27, 2026 04:37am): c  
 
 #### Additional Information
 - **Post color:** White
@@ -613,7 +614,7 @@ proxyサイトなどを共有しましょう
 ### 36. AIEGG
 **Author:** 荒らしたい気分
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4028989195/1afef90ae0cdcafa4911d6feb9c638ac/9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3?Expires=1772762991&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kusZ9vE59tSDzvcks94hjgRRCjgQWQrigdClEqOqfeydMFlLWdpJW0mORyVgeMz%2B5j2WaPEZts%2B8UJ51C41%2FKXXoXR94vIXlcplHVSekz2doTOahp5PWsgNb0FtnkqpNenNwGCTflWOfdpq%2F8wPukc39fDBrVlYu5LTZU6XPeQY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4028989195%2F1afef90ae0cdcafa4911d6feb9c638ac%2F9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4028989195/1afef90ae0cdcafa4911d6feb9c638ac/9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3?Expires=1772772456&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=R1lx4xlcAPcwVzNKXH3coLQY4UgHcp0I2fzuOylIXDYFBlMcwkbOHzpyAd10CIHtyZwP3WG1vjLexH3DAri5gn6eiF4juS1TzeCMaJdcy9oUtwCaRFN1PQn73GTgJ2S62utsh6vM0aCHXOq4m%2FqcsXd%2B%2BCkaW%2Btlmw7%2BKpfPH0c%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4028989195%2F1afef90ae0cdcafa4911d6feb9c638ac%2F9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3)
 
 #### Additional Information
 - **Post color:** White
@@ -908,7 +909,7 @@ proxyサイトなどを共有しましょう
 
 <p><em>ヒロアカが好きです</em></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4953574738/534625dfa9fb4e5d460fda2319aee41d/images__2_.jpeg?Expires=1772762991&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3LU%2BShPf9VIXcoGy9i4xLhAv2xAmYdMNtb3NtuTb38kwwr4lZl94xxDCrNppMkvNecyAAnSjq53NOH%2FgPsxL0fi2KRwtqoxDCmsq8mj7aBZr0kgONskdbPOhRtfI56EbWHo4d%2Fxorb3SAWiXuGA0d%2B0vZgiBULHAAdlWglG37wo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4953574738%2F534625dfa9fb4e5d460fda2319aee41d%2Fimages__2_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4953574738/534625dfa9fb4e5d460fda2319aee41d/images__2_.jpeg?Expires=1772772456&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0qy3ZGnWWkhjoS%2FN9WYqKnMLR2W0%2BN37soUnBHo9UppbPd24l7wVvj9saB%2Fb5b9Tq%2BnpsZbSFu7pVbrmHZ8LlFscYs2AOsIzSgbX2oRPgpS3Y%2BPpWbS3ZlYgZUxHc%2FT0FM7AMkl9vKqLlm5MH4FhIvgy7Os7QxcO4wE5M%2F%2F%2BD%2FA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4953574738%2F534625dfa9fb4e5d460fda2319aee41d%2Fimages__2_.jpeg)
 
 #### Comments (1)
 - **仙人@suger** (Dec 26, 2025 12:23am): こんにちは!
@@ -1067,7 +1068,7 @@ proxyサイトなどを共有しましょう
 
 <p>仙人さんが作った<a rel="noopener noreferrer nofollow" href="https://xtest-dvhl.onrender.com/">X風掲示板サイト</a>で僕のアカウントが使えなくなりました。再起動してもデータ消しても投稿ができないし他の投稿や自分のプロフィールなども見れません。プロキシで入れましたが他の人達は普通に使えてるようです。原因はわかりますか？見れないときに「初期化に失敗しました」というメッセージが出ました。心当たりは無いです…</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5146326471/d22573bd868b0e897214ab819b7ba205/____.webm?Expires=1772762991&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PA5m3hGTtg2m0EDqK705K1tm%2Bxihg7ypVUhVcJK9T78jx4qHq3%2Bh3TpejcQmpxpBSYU09TWyc2OTZ0PjmU1UqunHkngOo9Le9cmTCvmYpDYTHc9bdZ9O%2F6GJcK4PY08NT12tTc3JwGcb5uxJ45iQO7SvOjy7wG9M%2BDKGbMREoeg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5146326471%2Fd22573bd868b0e897214ab819b7ba205%2F____.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5146326471/d22573bd868b0e897214ab819b7ba205/____.webm?Expires=1772772456&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gSUkcWokho1boK4XNPyq5eHRnFGTMQ2XaJEutE5WJzZcVxYt9HW3kJ%2FvUkRLb8b5l91xcHrTZWSjvpDI%2F208xlgTxwZA7QN0iXJq3vgLg5YsbJSUveSIYpxGMXodk%2FdpETynwFbc9eUd5dbe4WHSZlVeEXgWT%2BrsJrdBPDa3skU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5146326471%2Fd22573bd868b0e897214ab819b7ba205%2F____.webm)
 
 #### Comments (3)
 - **仙人@suger** (Feb 23, 2026 03:10am): たぶんセキュリティ引っ掛かったかもしれない
@@ -1086,7 +1087,7 @@ proxyサイトなどを共有しましょう
 
 <p>アイコンの周りのヤツなんだこれ</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3821722678/d9a4caa13df14cc54f60307564d40262/IMG_3710.jpeg?Expires=1772762991&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lCd7JV0EpFDlRhJI3cuC0bZgU8NWSf27Tns06f7E18Yrw6HYX%2BLoVNRvVXK1%2FZg1TWb8eNI%2BOhR5NJMpIsFzL2PNqbB3%2F7V%2Fvx9Pz2slx8xRiV97Jqp%2BjVxFYydJvsJjae4pVi646yb52POY%2BRDjWVNepu5f2OSfTmGitLs%2Fun0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3821722678%2Fd9a4caa13df14cc54f60307564d40262%2FIMG_3710.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3821722678/d9a4caa13df14cc54f60307564d40262/IMG_3710.jpeg?Expires=1772772456&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qBdK3B5Ghgvrt3ZjHW8KlTEg6WzOfT8RYYZxcuozKkPYdf2K5FgAi3cl8hnls5IwjudYMPA39QHbevMbVa%2BV45e77HbenKaGaXDvY5tbB6N1JfxXLMpPm%2F8Kzckp7BmCrfjzWO9uZDMOo9sySi9tu3tBYIJPYT3oAKzk%2Fj3f%2Bzw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3821722678%2Fd9a4caa13df14cc54f60307564d40262%2FIMG_3710.jpeg)
 
 #### Comments (5)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 19, 2026 10:05pm): https://padlet.help/l/ja/article/88slsagmp2
@@ -1194,7 +1195,7 @@ proxyサイトなどを共有しましょう
 ---
 
 ### 8. 俺の部屋に来たらフォローします！
-**Author:** りおとだお！　今日iPad初期化！ (riotodao)
+**Author:** りおとだお！　低浮上！ (riotodao)
 
 #### Additional Information
 - **Post color:** White
@@ -1293,7 +1294,7 @@ proxyサイトなどを共有しましょう
 
 #### Comments (3)
 - **仙人@suger** (Feb 10, 2026 07:34am): 自作だけどhttps://failotodikekunn.onrender.com送る側も受け取る側もおんなじWi-Fiに繋がってないとだよ
-- **りおとだお！　今日iPad初期化！** (Feb 10, 2026 09:29am): 久しぶりに見たw
+- **りおとだお！　低浮上！** (Feb 10, 2026 09:29am): 久しぶりに見たw
 - **仙人@suger** (Feb 11, 2026 06:53am): このさいと知ってるの
 
 #### Additional Information
@@ -1357,7 +1358,7 @@ proxyサイトなどを共有しましょう
 
 <p>したに投稿してね</p>
 
-#### Comments (19)
+#### Comments (20)
 - **Anonymous** (Feb 06, 2026 01:09am):  Googleアカウント作ってください
 - **仙人@suger** (Feb 07, 2026 02:09am): どう言うこと？（理解悪くてごめんね）
 - **ﾅﾏｴ・ｷﾒﾚﾝ** (Feb 08, 2026 12:19am): 仙人さん！出来ればで良いのでお願いがあります。https://sennintubeyobi.onrender.com/word/の動画高画質(1080p)に対応させて欲しいです！できればで良いので！
@@ -1377,6 +1378,7 @@ proxyサイトなどを共有しましょう
 - **匿名** (Feb 19, 2026 06:44am): 兵庫県です
 - **仙人@suger** (Feb 19, 2026 09:37am): https://www.tikvib.com/これとか僕はいけた
 - **Eager Bear** (Feb 26, 2026 07:05am): ゲイです。
+- **Peaceful Salmon** (Feb 27, 2026 04:47am): Twitterみたい
 
 #### Additional Information
 - **Post color:** Green
@@ -2150,7 +2152,7 @@ proxyサイトなどを共有しましょう
 ### 3. わかめ使えなくなったんだけどなんでか分かる人いる？
 **Author:** Brilliant Kiwi
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5225598716/02e66f252a2c39f89ec6606d4b4dbc28/Screenshot_2026_02_25_15_22_25.png?Expires=1772762992&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MQ8R1bqwvXFj4w6UeHd6ENTJNPSmcAWRi4yNuUmSmA6%2FixfCbydPeLdJN0iyvcb9lCj%2Bqgg0BZqsGr1bGUp%2BM2WD%2F0c2VjDXA8OHORL9Jlt550CXYJEa1gQ%2FUaFVdvl50NEOfga0BDt6VsfJoLoMu5dJEC2HwtnQS0fcYxbGRMM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5225598716%2F02e66f252a2c39f89ec6606d4b4dbc28%2FScreenshot_2026_02_25_15_22_25.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5225598716/02e66f252a2c39f89ec6606d4b4dbc28/Screenshot_2026_02_25_15_22_25.png?Expires=1772772457&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GCjt2vJlvlh8RuBYaAU1fph3FeIBq4V0qlQaWjlGJr9RJTSWXuLycOzTfifQB1QGIFnfpLSYTlenvIuxeYDslshMHiI7Yjl%2F5dpiAi8iIOCMZQtNi5AN97UcEFclyKOZG6rFgg4fBTLbDM5kxZ4JHWxE%2FI3Iffp5E8l4Nn%2F%2BIic%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5225598716%2F02e66f252a2c39f89ec6606d4b4dbc28%2FScreenshot_2026_02_25_15_22_25.png)
 
 #### Comments (1)
 - **ばあ** (Feb 26, 2026 09:06am): 俺も同じ 
