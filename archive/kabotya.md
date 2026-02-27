@@ -1,463 +1,23 @@
-最終更新: 2026/02/28 01:43:20
+最終更新: 2026/02/28 07:26:03
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 123
+- **Posts:** 122
 - **Created At (UTC):** Aug 20, 2024 06:37am
-- **Updated At (UTC):** Feb 27, 2026 04:38pm
+- **Updated At (UTC):** Feb 27, 2026 09:44pm
 
 ## ライター
 
 ### 1. ライターになりたい人コメント
 **Author:** かぼちゃ (kabot)
 
-#### Comments (434)
-- **Benevolent Puffin** (Feb 19, 2026 03:06am): あいと撲滅委員会です雑談の一番下来てください来てくれたら会話しますよお願いします🙇
-- **クソ豚撲滅委員会** (Feb 19, 2026 04:42am): 俺を撲滅して楽しいか…
-- **クソ豚撲滅委員会** (Feb 19, 2026 04:43am): 名前変える⭐️
-- **蒼白** (Feb 19, 2026 04:44am): 変えた⭐️
-- **蒼白** (Feb 19, 2026 05:06am): あずまか玲里。おったら返事頂戴。
-- **Benevolent Puffin** (Feb 19, 2026 05:07am): はあー？
-- **蒼白** (Feb 19, 2026 05:07am): 誰ですか？
-- **あいと撲滅委員会** (Feb 19, 2026 05:07am): こんにちわあいと撲滅委員会です
-- **蒼白** (Feb 19, 2026 05:08am): 玲里！
-- **あいと撲滅委員会** (Feb 19, 2026 05:08am): 笑笑
-- **蒼白** (Feb 19, 2026 05:08am): じゃあ灰色の人は誰？
-- **あいと撲滅委員会** (Feb 19, 2026 05:08am): ビデオ通話する？
-- **あいと撲滅委員会** (Feb 19, 2026 05:08am): 玲吏
-- **蒼白** (Feb 19, 2026 05:08am): 今は無理だな
-- **あいと撲滅委員会** (Feb 19, 2026 05:08am): 何で？
-- **蒼白** (Feb 19, 2026 05:08am): 先生にバレる
-- **蒼白** (Feb 19, 2026 05:08am): さっき音に反応してた
-- **あいと撲滅委員会** (Feb 19, 2026 05:09am): いやいけるやろ
-- **あいと撲滅委員会** (Feb 19, 2026 05:09am): じゃあ玲吏は、ビデオ通話するわ
-- **蒼白** (Feb 19, 2026 05:09am): これ以上すると音でバレる
-- **蒼白** (Feb 19, 2026 05:09am): やめとけ！
-- **あいと撲滅委員会** (Feb 19, 2026 05:09am): もうやってる！
-- **あいと撲滅委員会** (Feb 19, 2026 05:09am): 笑笑
-- **あいと撲滅委員会** (Feb 19, 2026 05:10am): お前も入れはやとにもやれって言ってな
-- **蒼白** (Feb 19, 2026 05:10am): 了解です
-- **あいと撲滅委員会** (Feb 19, 2026 05:10am): あいとやるん？
-- **蒼白** (Feb 19, 2026 05:10am): だけど先生が反応したら辞める
-- **あいと撲滅委員会** (Feb 19, 2026 05:10am): おけ
-- **蒼白** (Feb 19, 2026 05:10am): あずまにも入れと言っとく
-- **あいと撲滅委員会** (Feb 19, 2026 05:11am): おけ
-- **釈迦ポテ** (Feb 19, 2026 05:56am): サンダーバードたちへ学タブはインターネット接続できんからスマホでやるわ　
-- **釈迦ポテ** (Feb 19, 2026 05:57am): 時間制限あるからあんまり会話できない、、
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:01am): おけ
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 19, 2026 06:02am): こんちゃーw
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:02am): インターネットなら今つないだとこ
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:02am): おっす
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:02am): w
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 19, 2026 06:02am): しれっと割り込み
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 19, 2026 06:04am): URLリンクいる？
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:04am): パスワードは？
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:04am): 打ったらすぐ消せよ
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 19, 2026 06:06am): おけ？
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:06am): おけ
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:08am): ナイスー
-- **釈迦ポテ** (Feb 19, 2026 06:09am): パス何ー？
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:10am): だよ
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:10am): いい？
-- **釈迦ポテ** (Feb 19, 2026 06:10am): ありがとう
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:11am): うい
-- **釈迦ポテ** (Feb 19, 2026 06:11am): おけ
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:11am): みんな多分インターネットの接続に時間かかっててこれてないんやと思う
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 19, 2026 06:11am): いまインターネットやってる（iPadの方で
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:13am): 俺様もだ
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:14am): よw
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:14am): ちょっとお菓子食べてくるわ　15時半にはもどるからね
-- **釈迦ポテ** (Feb 19, 2026 06:15am): おけ
-- **釈迦ポテ** (Feb 19, 2026 06:16am): インターネット接続できねぇ(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)
-- **West express** (Feb 19, 2026 06:21am): 来たー 
-- **West express** (Feb 19, 2026 06:21am): 名前がおかしい
-- **west Express 銀河 下関行き** (Feb 19, 2026 06:22am): こんちゃ
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:24am): 下関行き　w
-- **west Express 銀河 下関行き** (Feb 19, 2026 06:27am): 携帯が京都やからなw
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:31am): w
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:55am): ごめん　今日もう無理　また明日な
-- **特急サンダーバード12号敦賀行き** (Feb 19, 2026 06:55am): バイ
-- **蒼白** (Feb 19, 2026 07:01am): 玲里。入ったら返事して。
-- **社員マスカットボンボン** (Feb 19, 2026 08:02am): こんちゃ〜っす
-- **オレンジ詐欺** (Feb 19, 2026 09:15am): ヤホー 
-- **ぱふ** (Feb 19, 2026 10:17am): やほでっす普通に遊んでたw
-- **ぱふ** (Feb 19, 2026 10:18am): インターネット秒でいっくでー
-- **ぱふ** (Feb 19, 2026 10:25am): もし出会ったらパス話教えてね！明日でもいいよ
-- **Google** (Feb 19, 2026 10:26am): こんちゃ
-- **ぱふ** (Feb 19, 2026 10:26am): ヤッホ
-- **Google** (Feb 19, 2026 10:26am): あ、やほ
-- **ぱふ** (Feb 19, 2026 10:26am): なんかすご
-- **ぱふ** (Feb 19, 2026 10:27am): こんな時間に出会えたw
-- **社員マスカットボンボン** (Feb 19, 2026 10:27am): ただいま
-- **Google** (Feb 19, 2026 10:27am): w
-- **ぱふ** (Feb 19, 2026 10:27am): おおおおおお
-- **Google** (Feb 19, 2026 10:28am): あ、
-- **ぱふ** (Feb 19, 2026 10:28am): 三人もw
-- **Google** (Feb 19, 2026 10:28am): まじ奇跡w w
-- **社員マスカットボンボン** (Feb 19, 2026 10:28am): あ、オレンジ詐欺きた！ぱふとGoogleも！
-- **ぱふ** (Feb 19, 2026 10:28am): オレンジ詐欺いる？
-- **Google** (Feb 19, 2026 10:28am): 40分には抜けるわ
-- **社員マスカットボンボン** (Feb 19, 2026 10:29am): 1時間前、、
-- **ぱふ** (Feb 19, 2026 10:29am): おk私も今ご飯なう
-- **Google** (Feb 19, 2026 10:29am): 8時10分から9時30分まで塾
-- **ぱふ** (Feb 19, 2026 10:29am): 一時間前ww
-- **ぱふ** (Feb 19, 2026 10:29am): まだ塾あるんや…あれ、野獣
-- **Google** (Feb 19, 2026 10:30am): 笑
-- **社員マスカットボンボン** (Feb 19, 2026 10:30am): 習い事から今帰還！
-- **ぱふ** (Feb 19, 2026 10:30am): おかえり〜！
-- **社員マスカットボンボン** (Feb 19, 2026 10:30am): 美女と野獣先輩って今日大和が言ってたw
-- **社員マスカットボンボン** (Feb 19, 2026 10:30am): たでぇま！
-- **ぱふ** (Feb 19, 2026 10:30am): てかなっつこの雰囲気ww
-- **Google** (Feb 19, 2026 10:31am): w
-- **Google** (Feb 19, 2026 10:31am): それな
-- **ぱふ** (Feb 19, 2026 10:31am): 美女と野獣先輩www
-- **Google** (Feb 19, 2026 10:31am): w w w
-- **社員マスカットボンボン** (Feb 19, 2026 10:31am): Www
-- **Google** (Feb 19, 2026 10:32am): なんかさ
-- **社員マスカットボンボン** (Feb 19, 2026 10:32am): うん
-- **ぱふ** (Feb 19, 2026 10:32am): うん
-- **Google** (Feb 19, 2026 10:32am): このiPadさ
-- **社員マスカットボンボン** (Feb 19, 2026 10:33am): うん
-- **ぱふ** (Feb 19, 2026 10:33am): うん
-- **Google** (Feb 19, 2026 10:33am): w w wって打ったら
-- **Google** (Feb 19, 2026 10:33am): wっw
-- **社員マスカットボンボン** (Feb 19, 2026 10:33am): っっw
-- **ぱふ** (Feb 19, 2026 10:33am): ちっちゃいつになる
-- **ぱふ** (Feb 19, 2026 10:33am): wっっっっっw
-- **Google** (Feb 19, 2026 10:33am): って自動変換されるの腹立つんだけど
-- **社員マスカットボンボン** (Feb 19, 2026 10:33am): MacBook Airとかもそうなんだよね〜
-- **Google** (Feb 19, 2026 10:33am): wっっっっっっっっっっっっっっw
-- **社員マスカットボンボン** (Feb 19, 2026 10:34am): 英数にして打つといいぜ
-- **社員マスカットボンボン** (Feb 19, 2026 10:34am): Wwwwwwwwwwww
-- **社員マスカットボンボン** (Feb 19, 2026 10:34am): ↑ほら
-- **Google** (Feb 19, 2026 10:34am): なる
-- **Google** (Feb 19, 2026 10:35am): Wwwwwww
-- **Google** (Feb 19, 2026 10:35am): たし🦀
-- **社員マスカットボンボン** (Feb 19, 2026 10:35am): たし🦀　懐w
-- **ぱふ** (Feb 19, 2026 10:36am): 確かにww
-- **Google** (Feb 19, 2026 10:36am): Ww
-- **ぱふ** (Feb 19, 2026 10:36am): 普通に2分でご飯食べてきた
-- **ぱふ** (Feb 19, 2026 10:36am): 褒めろ（？）
-- **社員マスカットボンボン** (Feb 19, 2026 10:36am): はっや
-- **ぱふ** (Feb 19, 2026 10:36am): 😎
-- **社員マスカットボンボン** (Feb 19, 2026 10:37am): すごいなー！！！！
-- **社員マスカットボンボン** (Feb 19, 2026 10:37am): はい、褒めましたw
-- **ぱふ** (Feb 19, 2026 10:37am): 本当に褒めてくれるパターンwww
-- **社員マスカットボンボン** (Feb 19, 2026 10:37am): Wwwwwww
-- **Google** (Feb 19, 2026 10:38am): わー
-- **社員マスカットボンボン** (Feb 19, 2026 10:38am): 友人に優しい社マスです☆
-- **Google** (Feb 19, 2026 10:38am): すごぉぉぉぉぉい
-- **社員マスカットボンボン** (Feb 19, 2026 10:39am): めんだの声が脳内再生されたwww
-- **Google** (Feb 19, 2026 10:39am): Wwwwwww
-- **ぱふ** (Feb 19, 2026 10:39am): ｱﾊﾊﾊﾊの顔文字のやつない
-- **社員マスカットボンボン** (Feb 19, 2026 10:40am): ガチやん
-- **Google** (Feb 19, 2026 10:40am): あ、
-- **Google** (Feb 19, 2026 10:40am): たし🦀
-- **社員マスカットボンボン** (Feb 19, 2026 10:41am): ｵﾜﾀもねぇ、、
-- **ぱふ** (Feb 19, 2026 10:41am): 😭
-- **社員マスカットボンボン** (Feb 19, 2026 10:41am): 顔文字が全て消え去っている、、
-- **ぱふ** (Feb 19, 2026 10:41am): ( ◠‿◠ )
-- **ぱふ** (Feb 19, 2026 10:41am): 顔文字って入力すると3つ出てくる
-- **Google** (Feb 19, 2026 10:41am): 😇
-- **社員マスカットボンボン** (Feb 19, 2026 10:41am): 怖w
-- **Google** (Feb 19, 2026 10:41am): じゃ
-- **Google** (Feb 19, 2026 10:42am): そろそろ
-- **ぱふ** (Feb 19, 2026 10:42am): てかGoogleもう四十分やん 
-- **Google** (Feb 19, 2026 10:42am): 塾行ってきやす
-- **ぱふ** (Feb 19, 2026 10:42am): (ToT)/~~~
-- **ぱふ** (Feb 19, 2026 10:42am): バイバイはあったよ
-- **Google** (Feb 19, 2026 10:42am): 夜行けたら行くわー
-- **Google** (Feb 19, 2026 10:42am): 10時以降
-- **ぱふ** (Feb 19, 2026 10:42am): 🆗
-- **社員マスカットボンボン** (Feb 19, 2026 10:42am): いってら〜！
-- **Google** (Feb 19, 2026 10:42am): 👋
-- **ぱふ** (Feb 19, 2026 10:42am): 起きとくは
-- **社員マスカットボンボン** (Feb 19, 2026 10:42am): おけ
-- **社員マスカットボンボン** (Feb 19, 2026 10:42am): うちはいつも通り2時に寝ます
-- **ぱふ** (Feb 19, 2026 10:42am): じゃあ寝
-- **ぱふ** (Feb 19, 2026 10:42am): おっそwwwww
-- **社員マスカットボンボン** (Feb 19, 2026 10:43am): Wwwwwwwww
-- **社員マスカットボンボン** (Feb 19, 2026 10:43am): 今ママ来て焦ったけどなんも問題なかったw
-- **ぱふ** (Feb 19, 2026 10:43am): 私はw押す時、毎回改行ボタン？おしてる
-- **ぱふ** (Feb 19, 2026 10:43am): おぉwww
-- **社員マスカットボンボン** (Feb 19, 2026 10:44am): そうなんや！
-- **ぱふ** (Feb 19, 2026 10:44am): 👍
-- **社員マスカットボンボン** (Feb 19, 2026 10:45am): 今から2人の部屋つくろっか？
-- **社員マスカットボンボン** (Feb 19, 2026 10:45am): アレクサがあるからログイン済みのやつあるよ〜
-- **社員マスカットボンボン** (Feb 19, 2026 10:46am): おーい、おらんくなった？
-- **ぱふ** (Feb 19, 2026 10:48am): ないす！！！ごめん、色々チャットサイト調べてたw
-- **ぱふ** (Feb 19, 2026 10:48am): ブロックされてるかなーって！
-- **社員マスカットボンボン** (Feb 19, 2026 10:48am): 確かに！
-- **社員マスカットボンボン** (Feb 19, 2026 10:49am): ミロトークとかね〜
-- **ぱふ** (Feb 19, 2026 10:49am): そしたら、韓国版のキュリアスブロックされてなかったから鍵付きにして話せるよ✨
-- **社員マスカットボンボン** (Feb 19, 2026 10:49am): 素晴らしい！
-- **ぱふ** (Feb 19, 2026 10:49am): https://p2p.mirotalk.com/newcallいけたぞwwwww
-- **社員マスカットボンボン** (Feb 19, 2026 10:50am): 最高かよwwwwww
-- **ぱふ** (Feb 19, 2026 10:52am): やったああああああああwwww
-- **社員マスカットボンボン** (Feb 19, 2026 10:53am): おけ！
-- **社員マスカットボンボン** (Feb 19, 2026 10:53am): 消していいよ！
-- **社員マスカットボンボン** (Feb 19, 2026 10:54am): でも一旦2りの部屋作らしてくれ｜
-- **ぱふ** (Feb 19, 2026 10:54am): おけい！
-- **ぱふ** (Feb 19, 2026 10:57am): ちょい30分くらい抜ける・・・💦すまんよー
-- **社員マスカットボンボン** (Feb 19, 2026 10:57am): おけ〜！
-- **ぱふ** (Feb 19, 2026 11:31am): たでま！」
-- **社員マスカットボンボン** (Feb 19, 2026 11:33am): おけぇり！
-- **社員マスカットボンボン** (Feb 19, 2026 11:35am): Google帰ってきたら雑談部屋のパス教える
-- **ぱふ** (Feb 19, 2026 11:39am): 社マスから教えてもらって入れた！
-- **社員マスカットボンボン** (Feb 19, 2026 11:39am): みんな！「えへへ」って打ったら結構顔文字出てくるぞ！！
-- **ぱふ** (Feb 19, 2026 11:39am): (⌒-⌒; )
-- **ぱふ** (Feb 19, 2026 11:39am): 本当だ
-- **社員マスカットボンボン** (Feb 19, 2026 11:40am): ｗｗｗｗｗｗｗｗｗｗ
-- **社員マスカットボンボン** (Feb 19, 2026 11:40am): d(^_^o)
-- **ぱふ** (Feb 19, 2026 11:42am): 証拠隠滅⭐︎
-- **社員マスカットボンボン** (Feb 19, 2026 11:45am): Padlet.com/hualianwei98_1/padlet-rw8t8tg4gkzxfx66
-- **ぱふ** (Feb 19, 2026 11:45am): 404・…・😭
-- **社員マスカットボンボン** (Feb 19, 2026 11:46am): なんでや・・・
-- **社員マスカットボンボン** (Feb 19, 2026 11:46am): でけへん
-- **ぱふ** (Feb 19, 2026 11:46am): URLあってないんかな？
-- **ぱふ** (Feb 19, 2026 11:48am): 今日好き見ながら話すから返事遅くなるかもw（同時に宿題もやるからキモいことなる）
-- **社員マスカットボンボン** (Feb 19, 2026 11:48am): Wwwwwww
-- **社員マスカットボンボン** (Feb 19, 2026 11:49am): うちもみよ！卒業編
-- **ぱふ** (Feb 19, 2026 11:49am): 一緒にみるかっっw
-- **ぱふ** (Feb 19, 2026 11:49am): それならなうの感想言えるwww
-- **社員マスカットボンボン** (Feb 19, 2026 11:51am): Wwwwwwそうしよか！
-- **ぱふ** (Feb 19, 2026 11:52am): いいね！
-- **ぱふ** (Feb 19, 2026 11:52am): ようつべにはまだ配信されてないんか・・・？
-- **社員マスカットボンボン** (Feb 19, 2026 11:53am): でも一旦ママがやばい
-- **社員マスカットボンボン** (Feb 19, 2026 11:53am): え？あるで
-- **ぱふ** (Feb 19, 2026 11:53am): まじ？
-- **社員マスカットボンボン** (Feb 19, 2026 11:53am): てかインディードの広告のせいでバレかけた
-- **ぱふ** (Feb 19, 2026 11:53am): wwwwww
-- **社員マスカットボンボン** (Feb 19, 2026 11:54am): ときって人一瞬いおうに見えた
-- **ぱふ** (Feb 19, 2026 11:54am): wwww
-- **ぱふ** (Feb 19, 2026 11:54am): メンバー紹介しかなくね？あるの？
-- **社員マスカットボンボン** (Feb 19, 2026 11:54am): あるよん
-- **ぱふ** (Feb 19, 2026 11:54am): あれま
-- **社員マスカットボンボン** (Feb 19, 2026 11:55am): 1：03：56
-- **ぱふ** (Feb 19, 2026 11:55am): 本当やん・・・ようつべ公式ならあるのに
-- **社員マスカットボンボン** (Feb 19, 2026 11:56am): ？
-- **社員マスカットボンボン** (Feb 19, 2026 11:56am): ドユコトや？
-- **ぱふ** (Feb 19, 2026 11:56am): ちがうやつでようつべみ天然
-- **ぱふ** (Feb 19, 2026 11:56am): 見てんねんw
-- **社員マスカットボンボン** (Feb 19, 2026 11:56am): そうなんや！
-- **ぱふ** (Feb 19, 2026 11:57am): なんでないんだよ😭
-- **ぱふ** (Feb 19, 2026 11:59am): 😭
-- **社員マスカットボンボン** (Feb 19, 2026 12:00pm): 😭
-- **ぱふ** (Feb 19, 2026 12:00pm): ボケー
-- **社員マスカットボンボン** (Feb 19, 2026 12:00pm): Www
-- **ぱふ** (Feb 19, 2026 12:01pm): これって画像載せれへんのかな
-- **社員マスカットボンボン** (Feb 19, 2026 12:02pm): 無理やな、、
-- **社員マスカットボンボン** (Feb 19, 2026 12:02pm): キュリアスでやるか！
-- **ぱふ** (Feb 19, 2026 12:02pm): 確かにいいいいい
-- **社員マスカットボンボン** (Feb 19, 2026 12:02pm): そうと決まればレッツゴー！
-- **ぱふ** (Feb 19, 2026 12:04pm): let's go！！！！！
-- **ばいばい** (Feb 19, 2026 12:30pm): はろ 
-- **社員マスカットボンボン** (Feb 19, 2026 12:34pm): ?
-- **ぱふ** (Feb 19, 2026 12:45pm): 誰すか
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 19, 2026 12:46pm): こんばんは
-- **社員マスカットボンボン** (Feb 19, 2026 12:49pm): こんばんは〜
-- **ばいばい** (Feb 19, 2026 12:50pm): はろ 
-- **ばいばい** (Feb 19, 2026 12:51pm): インターネットの接続やるの忘れてた
-- **社員マスカットボンボン** (Feb 19, 2026 12:52pm): あ、もしやファンタジー?
-- **ばいばい** (Feb 19, 2026 12:53pm): ホア
-- **ばいばい** (Feb 19, 2026 12:54pm): ネカバハタナア
-- **ぱふ** (Feb 19, 2026 12:54pm): OH
-- **ばいばい** (Feb 19, 2026 12:55pm): さいなら
-- **ぱふ** (Feb 19, 2026 12:55pm): 何をいうとるんですかwww
-- **ばいばい** (Feb 19, 2026 12:55pm): ネカバハタナア
-- **ばいばい** (Feb 19, 2026 12:55pm): 反対から読むと
-- **社員マスカットボンボン** (Feb 19, 2026 12:56pm): え?
-- **社員マスカットボンボン** (Feb 19, 2026 12:56pm): Googleか？
-- **ぱふ** (Feb 19, 2026 12:57pm): wwwwwwww
-- **ぱふ** (Feb 19, 2026 12:57pm): 全然Google説あるwww
-- **社員マスカットボンボン** (Feb 19, 2026 12:57pm): このクラスで一番アホって言ってる回数が多そうなgoogleか？
-- **ぱふ** (Feb 19, 2026 12:58pm): ねかばがえまお
-- **ぱふ** (Feb 19, 2026 12:58pm): googleまず1位獲得WW二位めんだ？
-- **ばいばい** (Feb 19, 2026 12:58pm): 編マカオ
-- **ばいばい** (Feb 19, 2026 12:59pm): さいなら  
-- **ぱふ** (Feb 19, 2026 12:59pm): 際なら
-- **ぱふ** (Feb 19, 2026 12:59pm): おかまんへ？
-- **社員マスカットボンボン** (Feb 19, 2026 12:59pm): マカオ編？
-- **社員マスカットボンボン** (Feb 19, 2026 01:00pm): 羽田空港か？
-- **ぱふ** (Feb 19, 2026 01:00pm): あ、羽田？wwww
-- **ぱふ** (Feb 19, 2026 01:00pm): google憧れてる説浮上
-- **社員マスカットボンボン** (Feb 19, 2026 01:00pm): 12号に教えてもらってた気が、、
-- **社員マスカットボンボン** (Feb 19, 2026 01:00pm): 憧れてる説wwwwwww
-- **ぱふ** (Feb 19, 2026 01:01pm): 羽田は帰り道メンダに教えてもらってた気がする！
-- **社員マスカットボンボン** (Feb 19, 2026 01:01pm): クラスでも言ってたような
-- **ぱふ** (Feb 19, 2026 01:03pm): やんな
-- **社員マスカットボンボン** (Feb 19, 2026 01:08pm): う〜む…
-- **社員マスカットボンボン** (Feb 19, 2026 01:08pm): 誰なのだろうか
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 19, 2026 01:10pm): 謎の人物
-- **ぱふ** (Feb 19, 2026 01:10pm): 誰やねーん
-- **ぱふ** (Feb 19, 2026 01:11pm): google、10時ぐらいに帰るっていってたから可能性はあるけど、、
-- **オレンジ詐欺** (Feb 19, 2026 01:19pm): ヤッホ
-- **ぱふ** (Feb 19, 2026 01:22pm): おー！ヤッホ
-- **オレンジ詐欺** (Feb 19, 2026 01:23pm): Nさんですか？
-- **ぱふ** (Feb 19, 2026 01:24pm): はい！
-- **ぱふ** (Feb 19, 2026 01:24pm): Kさんですよね＿？ 
-- **オレンジ詐欺** (Feb 19, 2026 01:24pm): はい
-- **Google** (Feb 19, 2026 01:24pm): こんちゃ
-- **ぱふ** (Feb 19, 2026 01:24pm): おかえり「
-- **ぱふ** (Feb 19, 2026 01:25pm): googleさ、「ばいばい」って人じゃない？
-- **Google** (Feb 19, 2026 01:27pm): 全然違うw
-- **ぱふ** (Feb 19, 2026 01:28pm): やっぱ羽鳥っっwwww
-- **Google** (Feb 19, 2026 01:28pm): 多分羽鳥
-- **ぱふ** (Feb 19, 2026 01:29pm): https://padlet.com/mennda/padlet-99ts3z03ockaqwn3入れる？
-- **Google** (Feb 19, 2026 01:29pm): パスは？
-- **Google** (Feb 19, 2026 01:31pm): あー
-- **Google** (Feb 19, 2026 01:31pm): いけた
-- **Google** (Feb 19, 2026 01:31pm): よ
-- **ぱふ** (Feb 19, 2026 01:31pm): ナイス
-- **社員マスカットボンボン** (Feb 19, 2026 01:32pm): Niceって打ってたら先越されてた
-- **社員マスカットボンボン** (Feb 19, 2026 01:33pm): じゃが塩バター永遠に食べてたい。
-- **ぱふ** (Feb 19, 2026 01:34pm): wwww
-- **ぱふ** (Feb 19, 2026 01:35pm): クリスプののりしおバターっていうの食べたんだけど、色々と味詰め込みすぎで草
-- **ぱふ** (Feb 19, 2026 01:36pm): あと意外と中身少ない
-- **社員マスカットボンボン** (Feb 19, 2026 01:42pm): え、そうだよねクリスプ中身少なすぎて笑ったわ。
-- **ぱふ** (Feb 19, 2026 01:43pm): 詐欺やんな。。。オレンジ詐欺？www
-- **社員マスカットボンボン** (Feb 19, 2026 01:44pm): だからもう最近は空手帰りにマックスバリューの一番安いサワークリームオニオン味のポテチ買ってる。あとじゃが塩バターとガム。
-- **社員マスカットボンボン** (Feb 19, 2026 01:44pm): オレンジ詐欺w
-- **ぱふ** (Feb 19, 2026 01:46pm): サワークリームうまい
-- **社員マスカットボンボン** (Feb 19, 2026 01:49pm): 好きな味ランキング1.サワークリームオニオン2.関西だし醤油3.しあわせバター4.うすしお5.コンソメ結果：ほぼカルビー
-- **ぱふ** (Feb 19, 2026 01:50pm): ほぼ一緒wwww
-- **ぱふ** (Feb 19, 2026 01:50pm): のりしおも好きやな
-- **社員マスカットボンボン** (Feb 19, 2026 01:53pm): ノリしおね！ 
-- **社員マスカットボンボン** (Feb 19, 2026 01:54pm): 良いよね〜食べれば食べるほど太るけどそれも幸せ太りってことで！w
-- **ぱふ** (Feb 19, 2026 01:56pm): おーういえーい
-- **MOTTI** (Feb 19, 2026 11:24pm): はろ
-- **Sleepy Ostrich** (Feb 20, 2026 01:00am): よろ
-- **4649** (Feb 20, 2026 01:15am): よろしく
-- **お** (Feb 20, 2026 01:29am): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
-- **シルウス** (Feb 20, 2026 04:32am): よろしくお願いします😁
-- **シルウス** (Feb 20, 2026 04:33am): ブロスタ好きです　気軽に話しかけてください
-- **Adorable Earthworm** (Feb 20, 2026 05:52am): サンダーバード作ってね 
-- **社員マスカットボンボン** (Feb 20, 2026 06:08am): 今12号いないよ〜てか誰
-- **釈迦ポテ** (Feb 20, 2026 06:16am): それな⊂((・x・))⊃
-- **釈迦ポテ** (Feb 20, 2026 11:03am): ？？？？ 
-- **ピスタチオ** (Feb 20, 2026 12:52pm): こんばんは
-- **ピスタチオ** (Feb 20, 2026 12:56pm): なるほどです！
-- **キモygv** (Feb 20, 2026 01:51pm): ygvなんか顔きもい気がするwwwww(想像)チー牛がwwwww
-- **キモygv** (Feb 20, 2026 01:51pm): ygvなんか顔きもい気がするwwwww(想像)チー牛がwwwwwwwwwwwwwww
-- **キモygv** (Feb 20, 2026 01:51pm): ygvなんか顔きもい気がするwwwww(想像)チー牛がwwwww
-- **キモygv** (Feb 20, 2026 01:51pm): ygvなんか顔きもい気がするwwwww(想像)チー牛がwwwwwwwwwwwwwww
-- **キモygv** (Feb 20, 2026 01:51pm): ygvなんか顔きもい気がするwwwww(想像)チー牛がwwwww
-- **キモygv** (Feb 20, 2026 01:51pm): ygvなんか顔きもい気がするwwwww(想像)チー牛がwwwwwwwwwwwwwww
-- **キモygv** (Feb 20, 2026 01:51pm): ygvなんか顔きもい気がするwwwww(想像)チー牛がwwwwwwwwwwwwwww
-- **キモygv** (Feb 20, 2026 01:51pm): ygvなんか顔きもい気がするwwwww(想像)チー牛がwwwwwwwwwwwwwww
-- **キモygv** (Feb 20, 2026 01:51pm): ygvなんか顔きもい気がするwwwww(想像)チー牛がwwwwwwwwwwwwwww
-- **キモygv** (Feb 20, 2026 01:53pm): 銀河京都行はチー牛？wwwwwwwwwwwwwww wwwww wwwww wwwww
-- **ダメ❤️いっちゃう❤️ビュルルルルルルルルル** (Feb 20, 2026 01:59pm): まんこまんこせっくすーいくいくビュルルルルルルルルル
-- **釈迦ポテ** (Feb 20, 2026 09:57pm): は？なりすましおるねんけど
-- **釈迦ポテ** (Feb 20, 2026 09:59pm): 灰色のアイコンのコメント私のじゃないねんけど
-- **釈迦ポテ** (Feb 21, 2026 05:01am): さすが銀河nice!👍
-- **釈迦ポテ** (Feb 21, 2026 09:15am): 勝手な想像で人を傷つけるのは人間としてダメでしょ
-- **ピスタチオ** (Feb 21, 2026 11:28am): 素晴らしい
-- **イェーイ** (Feb 21, 2026 01:17pm): ほんとですよねー
-- **イェーイ** (Feb 21, 2026 01:18pm): いい人ぶってんちゃうぞ
-- **ハルタカ** (Feb 21, 2026 01:28pm): 釈迦ポテと銀河京都行言い返すことしかできない笑
-- **ハルタカ** (Feb 22, 2026 12:49am): ほら、やっぱ言い返すことしかできないやん
-- **玲吏** (Feb 22, 2026 01:08am): 言い返ししかできない人ダサいよねー
-- **釈迦ポテ** (Feb 22, 2026 04:53am): 言い返ししかできない人ってことは、自分の意見をちゃんと持っていて他人に惑わされない人ってことだよね褒めてくれてありがとう😊
-- **インゴ** (Feb 22, 2026 09:23am): 頭おかしいw
-- **インゴ** (Feb 22, 2026 11:50am): 違う違う何言ってんの？なんで褒めてもらってるって勘違いしてんの？w
-- **インゴ** (Feb 22, 2026 11:51am): さすが釈迦ポテだわw名前きもいだけはあるわww
-- **社員マスカットボンボン** (Feb 23, 2026 04:24am): どゆことどゆこと？何の話しとん？
-- **釈迦ポテ** (Feb 23, 2026 09:49am): こういうやつは相手しない方がいいんじゃね？　っていうか釈迦ポテって名前のどこにキモ要素あるんだ？キモくないだろ
-- **Eager Dolphin** (Feb 23, 2026 10:47am): 確かにそうっすね
-- **ワイン** (Feb 23, 2026 10:49am): いい人ぶってるやつおるやんW
-- **ぱふ** (Feb 23, 2026 11:01am): わーネットまできて喧嘩してる人いるーこういう人は現実でさみしくてネットで構ってもらいたいから悪口とか言ってるんだよねー笑こいつらに構ってないでみんな勉強しよう（？）
-- **社員マスカットボンボン** (Feb 23, 2026 12:11pm): 今よく考えたんだけどさ、チーズ牛丼注文してそうな人ってどんな人よ。
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 23, 2026 12:12pm): チー牛とか偏見してるやつマジで社会出た時には排除されるから今のうちに直したら
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 23, 2026 12:13pm): マジでなんのメリットもない
-- **社員マスカットボンボン** (Feb 23, 2026 12:13pm): 橋本環奈がチーズ牛丼頼んどったらチー牛＝美人みたいになるやん
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 23, 2026 12:14pm): それはそうwww
-- **社員マスカットボンボン** (Feb 23, 2026 12:14pm): Wwwwwww
-- **社員マスカットボンボン** (Feb 23, 2026 12:14pm): てか橋本環奈って今調べたけど27歳だって。意外と若かった〜
-- **社員マスカットボンボン** (Feb 23, 2026 12:19pm): で、ピスタチオさんとキモygvさんとイェーイさんとハルタカさんとインゴさんは何者なん？ま、知ったとこで何にもならんけど気になるからさ〜
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 23, 2026 12:20pm): ピスタチオさんはこっち側みたい
-- **社員マスカットボンボン** (Feb 23, 2026 12:20pm): あ、そうなん？
-- **社員マスカットボンボン** (Feb 23, 2026 12:21pm): 会話がほぼ消えてるからいまいちわからんな
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 23, 2026 12:39pm): 全ての始まりは「キモygv」だな。突然絡んできた
-- **社員マスカットボンボン** (Feb 23, 2026 12:39pm): そうなんや
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 23, 2026 12:42pm): ほかの投稿にも無差別にキモとコメントしてる
-- **社員マスカットボンボン** (Feb 23, 2026 12:59pm): やべーな
-- **社員マスカットボンボン** (Feb 23, 2026 01:00pm): てかygvってなんだ？
-- **MONCLER** (Feb 23, 2026 01:57pm): 確かにそうっすね 
-- **MONCLER** (Feb 23, 2026 10:03pm): うちのクラスにもいるんすよー。「お前チー牛だ、チー牛だ」って。チー牛ってそういう意味だったんすね！悩みが解放しました。ありがとうございます！
-- **MONCLER** (Feb 23, 2026 10:13pm): 前ですね、そのygvに生きてる価値なしって言われました
-- **MONCLER** (Feb 23, 2026 10:14pm): 😭
-- **ぱふ** (Feb 23, 2026 11:06pm): ひど
-- **ぱふ** (Feb 23, 2026 11:06pm): ygvの方が人に喧嘩売って嫌われてるから生きてる意味ないやろw
-- **釈迦ポテ** (Feb 24, 2026 12:24am): 最低すぎん？　生きてる価値ない人っておらんやろ生きてる価値無しって言ってる人のほうが生きてる価値ないやん
-- **MONCLER** (Feb 24, 2026 08:26am): ですよね。仲間がいてよかったです！😭
-- **MONCLER** (Feb 24, 2026 08:36am): みなさん優しいですね😇
-- **社員ストロベリーボンボン（新種）** (Feb 24, 2026 09:01am): 「生きている価値がない」と感じる心理は、仕事の失敗、自己否定、周囲との比較などにより、自分は無価値だと思い込む「無価値感」です。これは一時的に抱く感情や、うつ・適応障害などの病気が原因であることも多いです。しかし、この感情は誤った認識であり、何もしなくても生きているだけで価値があるとされています。 
-- **社員ストロベリーボンボン（新種）** (Feb 24, 2026 08:59am): だそうです。自分が言いたいのは、「生きてる価値がない」は、他人ではなく、自分に使う言葉。そして、何もしなくても価値があると言われている。つまり、特に悪いことをしたわけではないのに価値がないといわれるのは間違っていると言えますね〜
-- **MONCLER** (Feb 24, 2026 09:14am): ありがとうございます！😭
-- **MONCLER** (Feb 24, 2026 09:16am): なんで心が広い人だ！🥹
-- **MONCLER** (Feb 24, 2026 09:39am): 誰かなんか頭に入る勉強法教えてください。お願いします
-- **社員ナシボンボン🍐（新種）** (Feb 24, 2026 12:09pm): 手で紙か何かに覚えたいことを書いて3回ほど繰り返し読むと頭に入ると思う。（都道府県覚える時に自分がそうしたから、あまり使えないかもしれんけど）
-- **MONCLER** (Feb 24, 2026 11:51am): ありがとうございます！一回やってみます！
-- **釈迦ポテ(黒胡椒付き)** (Feb 24, 2026 12:05pm): 勉強頑張ってね👍
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 24, 2026 12:25pm): ガンバレ🎌ファイト
-- **MONCLER** (Feb 24, 2026 12:48pm): ありがとうございます！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！😭
-- **MONCLER** (Feb 24, 2026 12:49pm): 今日テスト帰ってきて親にめっちゃ怒られたんでw
-- **MONCLER** (Feb 24, 2026 12:56pm): 無料でできるマイクラ見つけました「1.8.8だけど」
-- **MONCLER** (Feb 24, 2026 12:56pm): https://sites.google.com/classroom.center/view-1/1-8-8
-- **おうが** (Feb 25, 2026 12:47am): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 25, 2026 06:53am): 望
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 25, 2026 06:53am): いるのか
-- **MONCLER** (Feb 25, 2026 07:19am): 望ってなんですか？
-- **もっちー** (Feb 25, 2026 07:24am): おるよ 
-- **もっちー** (Feb 25, 2026 07:24am): ごロイごり 
-- **MONCLER** (Feb 25, 2026 07:36am): コンちゃー
-- **もっちー** (Feb 25, 2026 11:15am): 野口っちはどこ？マイクラオンラインしようぜ
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 25, 2026 12:21pm): 名前出すな望月晴仁
-- **MONCLER** (Feb 25, 2026 01:55pm): 笑
-- **もっちー** (Feb 25, 2026 11:48pm): ちょっと体調が悪い
-- **もっちー** (Feb 25, 2026 11:48pm): 望月晴仁でーす
-- **釈迦ポテ** (Feb 26, 2026 12:27am): 体調悪いならパドレット入ってくんな望月
-- **特急サンダーバード12号敦賀行き** (Feb 26, 2026 12:31am): うんち
-- **特急サンダーバード12号敦賀行き** (Feb 26, 2026 12:31am): 黙っとけ
-- **もっちー** (Feb 26, 2026 02:17am): は？
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 26, 2026 06:44am): ズル休みも同然
-- **キモygv** (Feb 26, 2026 07:25am): インキャ軍団www🤣
-- **キモygv** (Feb 26, 2026 07:27am): もっちーの顔見て体調悪いですww
-- **MONCLER** (Feb 26, 2026 07:33am): ひどいよそんなこと言っちゃ
-- **キモygv** (Feb 26, 2026 09:47am): は？黙れよインキャwwいいやつぶるなよwww🤪
-- **MONCLER** (Feb 26, 2026 09:53am): は？いいやつぶってないけどいいやつぶったらダメなの？あとインキャはお前だろwすぐさインキャとか言ってるけどお前がインキャだろwwwみんなに構ってもらえないからここでみんなに悪口とかインキャって言ってんだろ？お前みたいなやつここにくるなまじでこれで自殺する人とかがいたらお前やばいぞ「そんな人いないと思うけど一応言う」
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 26, 2026 10:30am): MONCLERさん、無視しときなこの人前もおんなじこと言ってたから同じ事しか言えないんだよ。つまり語彙力がないんですよwww
-- **MONCLER** (Feb 26, 2026 10:35am): あ、わかりましたwつまり同じことしか言えない病ですか？ww
-- **ピスタチオ** (Feb 26, 2026 11:12am): ww
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 26, 2026 12:21pm): そうですねwww共に煽ろう！
-- **釈迦ポテ** (Feb 26, 2026 12:36pm): www
-- **MONCLER** (Feb 26, 2026 12:41pm): いいっすねwww
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 26, 2026 12:41pm): www
-- **釈迦ポテ** (Feb 26, 2026 12:41pm): MONCLERさんNICEです！
-- **WestExpress 銀河 紀伊勝浦行き** (Feb 26, 2026 12:42pm): キモygv味方いないなw
-- **釈迦ポテ** (Feb 26, 2026 01:08pm): 味方はみるみる減少中☆
-- **釈迦ポテ** (Feb 26, 2026 01:10pm): パドレットくんなお前ウザいよ乙すぎて笑えるよーw w（キモygvへ）
-- **Passionate Quokka** (Feb 26, 2026 01:10pm): HelloNice to meet you.
-- **釈迦ポテ** (Feb 26, 2026 01:12pm): 好きすぎて滅のサビ部分に音ハメてみて
-- **釈迦ポテ** (Feb 26, 2026 01:12pm): そしてだれ？
-- **キモygv** (Feb 26, 2026 10:25pm): は？何言ってんの？w頭大丈夫？www
-- **Responsible Trout** (Feb 26, 2026 11:26pm): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
-- **MONCLER** (Feb 27, 2026 08:52am): お前がなww
-- **MONCLER** (Feb 27, 2026 10:04am): みなさん！！キモygv違うところでも荒らしてます！気をつけてください！
-- **ピスタチオ** (Feb 27, 2026 12:36pm): やばい奴だなw
-
-#### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 0
-
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 19, 2026 02:25am
-- **Updated At (UTC):** Feb 19, 2026 02:25am
+- **Created At (UTC):** Feb 27, 2026 09:44pm
+- **Updated At (UTC):** Feb 27, 2026 09:44pm
 
 ---
 
@@ -468,7 +28,7 @@
 
 <p>彼女とのsex載せとく</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4211127344/5bdfb7472e390d586c3c48fc128fbeb2/________.mp4?Expires=1772815398&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kzHCc1ThglhwH2x7%2BZ6SDZOf6rOcuM1m2WV8QoVtGA5Ac79eXtBXtLK02nPlRwdPEXxwkF7g4BIDL1JWj3JpXn5pV0au1xzLfXMW49iPkEiWBLNi%2FCD0p1vSt7pm6uweZj4VuD4ZEn3P76xSaahqlYpr4sLNwUjNob4ycVcyiTI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4211127344%2F5bdfb7472e390d586c3c48fc128fbeb2%2F________.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4211127344/5bdfb7472e390d586c3c48fc128fbeb2/________.mp4?Expires=1772835961&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vnGsTS5eUOXcJBwOzWEZd1f82oPfZLOafklpttcyeUyaHZq0z4WFh7W0FDWvkmoOfpe%2FbtT89gI2450dnl7rsFcvnDel6HGGTGH5MzdAMarpvvrlsDw%2B%2Fs1S4gf0pRNIg%2FjYCSAgrkaqk9pyKPZEhL2RDqdRttRs470GmweMuKI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4211127344%2F5bdfb7472e390d586c3c48fc128fbeb2%2F________.mp4)
 
 #### Additional Information
 - **Post color:** White
@@ -526,11 +86,10 @@
 
 [Attachment 1](https://padlet.com/misutaakeehimazin/padlet-gwn4wpyr398ka5h7)
 
-#### Comments (8)
+#### Comments (7)
 - **みぃ/人狼オンライン民＠学タブ規制で入れなくなった** (Feb 15, 2026 12:00pm): はーい
 - **はるにー** (Feb 16, 2026 05:52am): 学タブでぶろすたやりてぇ
 - **仙人** (Feb 16, 2026 11:53pm): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jmみんな入って
-- **Trustworthy Piranha** (Feb 17, 2026 03:50am): Mi4wMzF8fDE3NzA4NzM5OTg5Mjg7MTc3MDg3Mzk5ODkyODsxNzcxMzAwMTcyMDA1O0hBTkFERUtBO2R6ZWZjfDExMTExMTAxMTAwMTAwMTAwMTAxMHwxNTIxNzIyNzk4NTUzMTk2Ljg7MzM1NzY0OTk1MDI1NjczOTY7NzQ1OTY7Mzc1OzI2Mzk1Nzc5ODAyNjIxNTA4OzU4OTswOzA7MDswOzA7MDs2ODszMzE1OTswOzM3NTswOzA7MDswOy0xOzA7OzA7MDswOzA7MDswOzA7LTE7LTE7LTE7LTE7LTE7MDswOzA7MDs1MDswOzA7MDs0OzE3NzEyOTk3MjU4NTI7MDswOzswOzA7MDsxMjU3MzIzNDEyOTUuMzUzODI7fDIwMCwyMDAsMTk2MTgxOTUyMjE1MDc4LDAsLDAsMjAwOzIwMCw1MDEsMTc4NTM4MzY4NDA4NjIsMCwsMSwyMDA7MTIwLDEwMjEsMTI1NjQxMDQ0MTMzLDAsLDEsMTUwOzEyMCwxMDgwLDI3NTE5OTc5NDM4NCwwLCwxLDEzMDsxMjAsODYwLDEwODg4NzIwMTAzNDksMCwsMSwxMjA7MTAwLDUxMCw0MTczNzc2MTg1MDE4LDEsMDowOjE6MDowOiAyNzA4OjU6LTg3OjQ4ODowOjA6MCE1NTg6MjotMzc6NzExOjA6MDowITIwMjE6NTotNjY6NjQxOjA6MDowITQ4Mzg6NTo5NTozMzE6MDowOjAhNjY4NDo1Ojg3OjE1ODowOjA6MCEzODE5OjI6LTQ4OjI1MzowOjA6MCEzMjg0OjI6LTczOjY2MTowOjA6MCE3OTA5OjU6MDo0NTk6MDowOjAhMTAxMTM6MToyNDo0ODA6MDowOjAhMTcyOTo0Oi0xOTU6NjU6MDowOjAhOTIxNToyOi0zNjo0OTQ6MDowOjAhMTI0NTg6MTowOjM4ODowOjE6MCExMDAwMjoyOi01NjoyNjY6MDoxOjAhMTExNjU6MjotNTA6Mjc3OjA6MTowITE1NjQyOjE6MTM6MTI0OjA6MTowITEzMjYzOjI6LTU0OjM3NzowOjE6MCEgMCwxLDExMDsxMDAsMzAwLDE2NDI1OTg5NTYwNDk1LDEsMi82LzcgMiAxNzcxMjk4MDQwMjMyLDAsMTAwOzEwMCwxOTEsNDY3OTI0NDcxMjE3OTgsMSwyLjUxNjE4MzM2MzE2MDk2MTYgNTIgNTIsMCwxMDA7NjAsMTMxLDE0MTY1MDUxODkzMTY4MiwwLCwxLDcxOzUwLDUwLDM1NDk1NjE2ODkxODE0NSwwLCwxLDUwOzQxLDQxLDcxMjIxNDcyNDI1NDQwNywwLCwxLDQxOzIxLDIxLDk1MTM0NjE3ODI0OTk5NiwwLCwxLDIxOzEyLDEyLDExMTMyNTQ5MDg5ODgyNDYsMCwsMSwxMjswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwO3wxMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTEwMDExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTEwMDAwMDExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMDAwMDAwMDAwMDAwMDAxMTExMTExMTAwMTExMTAwMDAwMDAwMTEwMDExMTExMTAwMTEwMDAwMDAwMDAwMDAxMTEwMDAwMDAwMTExMTExMTExMDAwMTExMTExMTEwMDAwMDAwMDAwMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMTExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTAxMTExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMTExMTEwMDExMTExMTExMTEwMDExMTExMTExMTAwMDExMTExMTAwMDAwMDEwMTAxMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTF8MTExMTExMTExMTAwMDAwMDExMTExMTExMTEwMDAwMTExMTExMTExMTExMTExMTExMTExMTExMDExMDEwMDEwMDAwMDExMTAxMTExMTAxMDAwMTAxMDAwMTAwMTAwMDAwMDAwMDExMTAxMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTExMDAxMTEwMDExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTAwMDAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMHx8%21END%21
 - **Calm Cricket** (Feb 17, 2026 04:11am): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Playful Anchovy** (Feb 20, 2026 02:42am): 　ブロック解除してほしい 
 - **4649** (Feb 20, 2026 03:08am): まじで
@@ -543,26 +102,7 @@
 
 ---
 
-### 5. バグったから作り直しました
-**Author:** ﾌｧｯｸモーター　*淫夢㍇管理者〈ｱﾎｴﾓﾝ〉 (TNK3011)
-
-<p>部屋広めてください</p>
-
-[Attachment 1](https://padlet.com/wakigajanaio/padlet-e74prvrb17psck0l)
-
-#### Comments (3)
-- **Compassionate Tiger** (Feb 13, 2026 11:14am): Mi4wMzF8fDE3NzA4NzM5OTg5Mjg7MTc3MDg3Mzk5ODkyODsxNzcwOTgxMjQyOTI0O0hBTkFERUtBO2R6ZWZjfDExMTExMTAxMTAwMTAwMTAwMTAxMHwxNTM0NzE3NTgyNy4xMDczNDY7Mzc4MzY3NzM4NzY4LjQzMzk7MjkxMzc7Mjk7NjgzMjc0OTg0MC40Nzc0NjU7MTUwOzA7MDswOzA7MDswOzA7MDswOzI5OzA7MDswOzA7MDswO3ZhbGVudGluZXM7MDswOzA7MDswOzA7MDstMTstMTstMTstMTstMTswOzA7MDswOzUwOzA7MDswOzE7MTc3MDk4MTA5NjAzMzswOzA7OzA7MDswOzE4NjA0Mzg1LjIxMzgyNzUxO3wxMTAsMTEwLDE3MjI3OTczMDk1LDAsLDAsMTEwOzEwMCwxMDEsOTM2NjU0ODU2MywwLCwwLDEwMDsxMDAsMTAxLDMxNTMxNDY2NTIsMCwsMCwxMDA7OTAsOTAsNjQ0MDI4NzcyMiwwLCwwLDkwOzcwLDcwLDIyNTIyMTI1MjQxLDAsLDAsNzA7NTAsNTAsNDE5MjIxMTcyNDIsMCwsMCw1MDs0Miw0Miw5MDc2MTI0MjM1MSwwLCwwLDQyOzIwLDIwLDE0OTUwNTU1NjczOCwxLDAuMzgwNTQzNzQ1NTExNDQ2NjUgMiAyLDAsMjA7MSwxLDg2MTA4NDEwMzEsMCwsMCwxOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwO3wxMTExMTExMTExMTEwMDExMTExMTExMTExMTExMTExMTExMTExMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMTExMTExMTExMTExMTExMTExMTAwMTExMTExMTEwMDAwMDAwMDExMTEwMDEwMTAxMTExMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTExMTExMDAwMTAxMDAwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMTEwMDAwMDExMTExMTAwMDAwMDExMTEwMDAwMDAwMDExMTExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTF8MTExMTExMTAwMDAwMDAwMDExMTExMTEwMDAwMDAwMTExMTExMTEwMTExMTExMTExMDExMDEwMDAwMDAwMDAwMDAwMDExMTAxMTExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTEwMDAxMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMHx8%21END%21
-- **Hopeful Kangaroo** (Feb 13, 2026 11:30am): Mi4wMzF8fDE3NzA4NzM5OTg5Mjg7MTc3MDg3Mzk5ODkyODsxNzcwOTgyMjE2Mzc3O0hBTkFERUtBO2R6ZWZjfDExMTExMTAxMTAwMTAwMTAwMTAxMHw0NTQwODE2MjE1NS44OTE3NDs0MDg0Mjg3MjUwOTYuNDI1NTsyOTI2MzszMTs3MTg0NjcxNzE5LjAxODgyNjsxNTQ7MDswOzA7MDswOzA7MDswOzA7MzE7MDswOzA7MDswOzA7dmFsZW50aW5lczswOzA7MDswOzA7MDswOy0xOy0xOy0xOy0xOy0xOzA7MDswOzA7NTA7MDswOzA7MTsxNzcwOTgxMDk2MDMzOzA7MDs7MDswOzA7MTg2MDQzODUuMjEzODI3NTE7fDExMCwxMTAsMTc5Nzg2MDcxOTcsMCwsMCwxMTA7MTAwLDEwMSw5OTU3Mjc2NTI4LDAsLDAsMTAwOzEwMCwxMDEsMzMwMDgyODY0NCwwLCwwLDEwMDs5MCw5MCw2NzMzMTEzNDIwLDAsLDAsOTA7NzAsNzAsMjM2NDIwNDcwMDksMCwsMCw3MDs1MCw1MCw0Mzk0MTIwNjk2NywwLCwwLDUwOzQyLDQyLDk5ODMyNjA4NjY3LDAsLDAsNDI7MjAsMjAsMTYxNDY5MzM2Mzg4LDEsMTIuNTExNzQ4MTcwNDIxNDExIDIgMiwwLDIwOzEsMSw5MzYwNzg4NjQzLDAsLDAsMTswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDt8MTExMTExMTExMTExMDAxMTExMTExMTExMTExMTExMTExMTExMTExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTExMTExMTExMTExMTExMTExMTExMTEwMDExMTExMTExMDAwMDAwMDAxMTExMDAxMDEwMTExMTExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTExMTExMTAwMDEwMTAwMDAwMDAwMDAwMDAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTExMTExMDAwMDAxMTExMTEwMDAwMDAxMTExMDAwMDAwMDAxMTExMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTExMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTExfDExMTExMTEwMDAwMDAwMDAxMTExMTExMDAwMDAwMDExMTExMTExMDExMTExMTExMTAxMTAxMDAwMDAwMDAwMDAwMDAxMTEwMTExMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTExMDAwMTAwMDAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDB8fA%3D%3D%21END%21
-- **Calm Cricket** (Feb 17, 2026 04:11am): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Feb 13, 2026 01:58am
-- **Updated At (UTC):** Feb 13, 2026 01:59am
-
----
-
-### 6. あけおめ
+### 5. あけおめ
 **Author:** 戦闘機に乗って世界征服しようとしているかわいいお化け　実はこのお化け可愛いけど人間を恨んでいる。（うらめしや～） (url5)
 
 <p>🎍</p><p><br/></p>
@@ -588,7 +128,7 @@
 
 ---
 
-### 7. きてねー
+### 6. きてねー
 **Author:** N (bigbann5678_1)
 
 [Attachment 1](https://padlet.com/padlets/6m53g96l9wdpzoku)
@@ -603,7 +143,7 @@
 
 ---
 
-### 8. NYW芋
+### 7. NYW芋
 **Author:** 芋ポテト (s2112078_1)
 
 [Attachment 1](https://padlet.com/s2112078_1/padlet-bqyj1d7a89cs3om2)
@@ -620,7 +160,7 @@
 
 ---
 
-### 9. フォーローしてほしいな…
+### 8. フォーローしてほしいな…
 **Author:** 戦闘機に乗って世界征服しようとしているかわいいお化け　実はこのお化け可愛いけど人間を恨んでいる。（うらめしや～） (url5)
 
 <p>僕の部屋にも入ってほしいな・・・</p>
@@ -637,12 +177,12 @@
 
 ---
 
-### 10. 辛みそきん買った人
+### 9. 辛みそきん買った人
 **Author:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
 <p>俺は買ったよ</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/94018134aa72b906730df049d217f6d1/image.jpg?Expires=1772815398&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zXpEqBmtLGE%2FDo1gLsBDXP64uSy9ZtkyZpOEqlMFtUTAPiUfR6t%2FheaPn6UO28WxaEwQYm%2FypY1vlZshQle7o5WfsptZQYqOFzYtlKmE9oiDgrnQx0OQzuZUnySUDaMeUiDgl1rdcdRHFN%2F%2FE8Ckv3m%2FvFtR5rbUOfofdggjXEQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F94018134aa72b906730df049d217f6d1%2Fimage.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/94018134aa72b906730df049d217f6d1/image.jpg?Expires=1772835961&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zHVqyAIDtRbx9NyCZ1AVaKQy4pp6nknY2IWzi6hHWDq1RnsQZbDwBksj8B6YeY9mTwjzgFP51coRDN%2FBm7YrI9co0itNFBsLZkejc%2FAVD%2Br1cn7C6cKLYTqMt8RReENDVRrf7L0jTrbdnTYsvXtQKi18BW90%2FLaoJBuZj02b7J0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F94018134aa72b906730df049d217f6d1%2Fimage.jpg)
 
 #### Comments (11)
 - **NARITATI　りおと族30代目　りおと弟子30番** (Oct 25, 2025 10:18am): いいな〜
@@ -668,7 +208,7 @@
 
 ---
 
-### 11. あーーーーーーずべんじゃーーーずーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+### 10. あーーーーーーずべんじゃーーーずーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 **Author:** NARITATI　りおと族30代目　りおと弟子30番 (0803pokemon)
 
 #### Comments (2)
@@ -682,7 +222,7 @@
 
 ---
 
-### 12. 入って
+### 11. 入って
 **Author:** 芋ポテト (s2112078_1)
 
 <p>てか最近新しくわかめ教っていう宗教がクラスで流行ってる</p>
@@ -702,10 +242,10 @@
 
 ---
 
-### 13. 最後の5秒編集した。
+### 12. 最後の5秒編集した。
 **Author:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/7ef07e48e063a7b182f6cf00b43fe1d2/_____________YouTube_________.mp4?Expires=1772815398&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=b5L5SSDizEVo8XAn6eiJQgUF4mDCiKBoAQKEUH43Jq5Mm0Ca6Fr3A8SqJbBmYf5MDEjagdOXhWaUjcc3%2BvGlFQj4G5iYv6CHx9S6iggOzgWM7uAKlw6kNvhBoEPe67UcA0GvdW86tpJrTZscHzrufBxx2dtUId3dryf9HQrW2AQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F7ef07e48e063a7b182f6cf00b43fe1d2%2F_____________YouTube_________.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/7ef07e48e063a7b182f6cf00b43fe1d2/_____________YouTube_________.mp4?Expires=1772835961&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dCuPo%2FEn0wjekB7KQ%2BXt7Y9XLe%2Bcbvl14fV9tZLpVyEtcq5VSVVmHMWhgxBhvmhrBYAuj3NkiVoqkp9KIdsmirmZvEnoVgKzHjo7sGA5R9rurom4ZqSqeVKfkUsGRDHypf4kGf%2B4hc8KTb%2FstgrBgVfVGrh4uMCPhFRBeMPsX%2F8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F7ef07e48e063a7b182f6cf00b43fe1d2%2F_____________YouTube_________.mp4)
 
 #### Comments (1)
 - **クソ豚撲滅委員会** (Feb 17, 2026 10:11am): もっと曲出して。
@@ -721,7 +261,7 @@
 
 ---
 
-### 14. 雑談しようぜ
+### 13. 雑談しようぜ
 **Author:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
 #### Comments (46)
@@ -779,7 +319,7 @@
 
 ---
 
-### 15. うおーあざす
+### 14. うおーあざす
 **Author:** ゾン (zon1212134)
 
 #### Additional Information
@@ -789,7 +329,7 @@
 
 ---
 
-### 16. すんげえサイトみっけた
+### 15. すんげえサイトみっけた
 **Author:** ㊗️鉄道の日！ seriesE217(高橋 咲良の主) (konnpaku_youmu)
 
 #### Comments (4)
@@ -805,7 +345,7 @@
 
 ---
 
-### 17. めんだードラゴンを中心とした
+### 16. めんだードラゴンを中心とした
 **Author:** すみしょう賛成ピカコン反対 (aru25)
 
 <p>シャカシャカポテトとかまぼこなどのピカコン</p><p>虐待部隊が始まっています！！</p>
@@ -848,7 +388,7 @@
 
 ---
 
-### 18. Post 18
+### 17. Post 17
 **Author:** 海軍 情報科 上等兵 (azsre_0516)
 
 [Attachment 1](https://padlet.com/Zentadayo/padlet-zxbyxsdy6a42r7xn)
@@ -876,7 +416,7 @@
 
 ---
 
-### 19. きてくれさい
+### 18. きてくれさい
 **Author:** 海軍 情報科 上等兵 (azsre_0516)
 
 [Attachment 1](https://padlet.com/azsre_0516/proxy-nqm7sfv8c0p1mizf)
@@ -892,7 +432,7 @@
 
 ---
 
-### 20. 特急へ（めんだ）
+### 19. 特急へ（めんだ）
 **Author:** チンされたチキン‼（チンチキって呼んでね） (chinchiki)
 
 <p>わかめ作ったっていう証拠をみせてください。</p><p>ちゃんと作れるんですよね？ｗｗ</p>
@@ -1397,7 +937,7 @@
 
 <p>笑ったら👍️押して</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/5f6661282b178b6ae59c5a2cf86322bf/Screen_recording_2025_04_08_12_50_54.webm?Expires=1772815399&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MQqZRlphqiun7bTOSoi5vVnm8HGKQ7ydZnD%2BJObOQrS9y4%2FasPJ044DVb5Sj%2FTRGKZsTithFJR6doRytFSxyYrwpt3PCvex5xj%2BlVusHegrrB1cMz0XBEVy%2FNANbF6JG6GnWtkgKlV%2Bh38YcrgoZ7xcsfAXq0LiahEJJ%2BYEdEJI%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F5f6661282b178b6ae59c5a2cf86322bf%2FScreen_recording_2025_04_08_12_50_54.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/5f6661282b178b6ae59c5a2cf86322bf/Screen_recording_2025_04_08_12_50_54.webm?Expires=1772835962&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=r6RqeL4ilXez0r1FMRaOtKW5kxpu5N98s6ehVJna4%2FICJ1aAb4F%2FQMi4QWeA88QlvRgEXSbU4Icjk27LtjXUY6tsHcCoRKF9fZMb%2FHU2lrQByiLX8ufi3oSkgsTS9%2BdsmQ88KQCmhgcXgWPYaPCrHz5mxIFIIYeZgXbp%2F1hh7gU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F5f6661282b178b6ae59c5a2cf86322bf%2FScreen_recording_2025_04_08_12_50_54.webm)
 
 #### Comments (3)
 - **なべさん** (Apr 08, 2025 03:53am): w
@@ -1442,7 +982,7 @@
 ### 22. 待ってｗ普通にブロックｗｗ
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/c35cdf6225db884a79bfbe70fe842184/image.png?Expires=1772815399&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WoEDN7757bEtccMX%2FOE9bTV280EC1TQYjj%2BJxqV%2BzmgkQwhEn2lKui%2BhOs1LkTIjNHdZdWIJkrEXRelEc76zirsE2vB5e05Np7xZmIBWT7gnzpe6g%2FN%2BE3SS1xmLwGH3mLhTDvJ7kLssjWP7zUnPcgy74RKBTflsIcNMukAEE8U%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fc35cdf6225db884a79bfbe70fe842184%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/c35cdf6225db884a79bfbe70fe842184/image.png?Expires=1772835962&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YBgk1om2ZB5HslFhgyJPUrk%2FjBRRoTwjjtgvtupvXpVqRgIVH3fbXq%2Ft71fxVCpKVJtySyt7WMfuchEbmf%2Fv%2FI0KKfp0HcypvITFMF82xOR%2Byr2utLPrlMz7eDPDVC06QynLRz2EcQs%2B8ges6tax%2FR1sHxyV2TUdNvf0O4I6MSM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fc35cdf6225db884a79bfbe70fe842184%2Fimage.png)
 
 #### Comments (5)
 - **柚子塩** (Apr 08, 2025 03:27am): www
@@ -1461,7 +1001,7 @@
 ### 23. なべさん、柚子塩さん
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/b8396ea7fd827a740bfb9ee98017847a/image.png?Expires=1772815399&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=r4mbgXsVS2aJegg7RHjSqOwpuq1P%2BTyeLG8qov1mL6plJmIAyNYtE5EGfcOTDnRG6PaGhtQQ2YclkpxFtP8kdC58i6sYhiiukr%2FLiKkAGrwh0vbudSithnBJok24flP4F6qnpMVJSbmUZu8PaBR1BU%2Bt2%2BPUDxN3Lekhi3bjFoI%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fb8396ea7fd827a740bfb9ee98017847a%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/b8396ea7fd827a740bfb9ee98017847a/image.png?Expires=1772835962&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=N7nzonzZKx%2BC3QrzW6OC%2Bi%2Bk8aknsL6K6SY1BT%2BVxms0AUUhjwy9BlSZyhb7dUnSszhIPXjoF2YbrMI8NJj0EZgoAuDmPxRvq2jYBpTVaZI%2FymNWtfE%2Bi3EAtBHRwITuZmQV6xp%2BBlFBpIs75QS%2B0lq6az520M24vbdCLppJFKo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fb8396ea7fd827a740bfb9ee98017847a%2Fimage.png)
 
 #### Comments (3)
 - **【超低浮上】Mr.k廃人** (Apr 08, 2025 03:26am): セーフらしいです
@@ -1720,7 +1260,7 @@
 ### 35. まぁこれが現在の状況です
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/d3730900b839f44b20861220e91685cf/image.png?Expires=1772815399&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uMRWym4fOqqv9kGwPM4l45CvAtd46QJJZ6meVJ2iqH%2Bybs9%2B%2B1QE8RNjANJm7xSbjX5fjdHFs01twJ4IpuJeQ53anQrYldqmsEjSL3HGTN1ymRupMhebpFcfGvjOmCqb5v%2FfFmo6cSwv8PhcpilTB9amu5OnDpmboSUhQlUuo%2BM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fd3730900b839f44b20861220e91685cf%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/d3730900b839f44b20861220e91685cf/image.png?Expires=1772835962&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=X%2FNQaj733VONOmR6dFJfOPOa%2BFufCwwQakEp9wcbNqkQquGTNnEU1ohS%2FzRl%2FJlC%2B2HiKEDpgAzdpQB9j0ro5SIMxq2f9rXLSO2iYxlGSSK6yMv8fmBLTTlIfohcvnXcThAN8tWc4N3bgfCgoUqs2Ibh0SVlF2%2B5Pf5yZsMPLqA%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fd3730900b839f44b20861220e91685cf%2Fimage.png)
 
 #### Comments (29)
 - **柚子塩** (Apr 07, 2025 10:27pm): おぉ〜
@@ -1763,7 +1303,7 @@
 ### 36. やりかた
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/36d92899197a03dc53aeabb98c2edd79/Screen_recording_2025_04_07_20_43_59.webm?Expires=1772815399&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bq8%2BygKf4eCZPbC%2FGFKW1VluYj9Gc1oQwIwDcBe9dDUj0DYqhCk%2BvL7XnokDIcp2LEHo2Rr1Sxr2ZPhoRGgcMysBjGAMOa2nfPVEiFaShPpNrPfMJ7NAiZk848CCjw3LTuL4B8C7AsMXyT8JraqhW2yZGn3dogYOO2LJOCluryM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F36d92899197a03dc53aeabb98c2edd79%2FScreen_recording_2025_04_07_20_43_59.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/36d92899197a03dc53aeabb98c2edd79/Screen_recording_2025_04_07_20_43_59.webm?Expires=1772835962&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3CifhGq%2BjGUADwJgQFtIJUscphoo6beZAoOWkabqbjsnbDP4ANB2rClC4HRwF6nzfRRIpzdAyuLNdrQ%2BlysrK7e9ZTEDvajcsB6lw5lK55q%2FHSRziIMQkcgtn%2BZI5gPbNBuj5VFGoPeUsbJzkLY%2BQMyZBtPWMmOf%2FlvuulVsd4A%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F36d92899197a03dc53aeabb98c2edd79%2FScreen_recording_2025_04_07_20_43_59.webm)
 
 #### Comments (5)
 - **イグクラ大好き人間** (Apr 07, 2025 12:46pm): 俺もできたあ
@@ -2011,7 +1551,7 @@
 
 <p>Mr.暇人さんの荒らし対策本部のとこ荒らされてるしコメントすらできなくなってる？？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3655617445/8c143567029544738b654760a56cb885/IMG_0291.png?Expires=1772815399&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bdaRnQVFH4Y4%2Ffrr35tCcTF7MeoOk2BI0VIvxZMB%2F%2FybVZ0GY7qAWyN2%2B09HT%2BrMibLLNmeoIk0HpNUo8wSw%2FXT%2FEfMevO0rsqjBl8So319mMx6IT4WvXEPZGkVPnc63AoXi%2BJNLYqm3H5KZfLRiDwgDJoEtVE03CGeH3C%2Fvq44%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3655617445%2F8c143567029544738b654760a56cb885%2FIMG_0291.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3655617445/8c143567029544738b654760a56cb885/IMG_0291.png?Expires=1772835962&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0N5WkbUc6He%2BlCLDUzgsnA%2FLuSKmwWtfWI91eQ24QL5e8B5Q0qZRcCoNCutUyFkn%2BJ7uknvrUo27B5k5UevY98aDte7FP24x5QB8QBXb9GGXxl6KW%2Bva06DvUpqpzASoh3FS8qsbWOJ7odg9Y1PYLj7zVQUamPxIDDA7qNcOMXg%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3655617445%2F8c143567029544738b654760a56cb885%2FIMG_0291.png)
 
 #### Comments (3)
 - **なべさん** (Apr 08, 2025 11:17pm): なんかそれとうちセクションとか増やせたりピン留めできるような管理人みたいな奴もたぶん消えてる
@@ -3451,7 +2991,7 @@
 ### 1. 約40000
 **Author:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/1bbcbb1b15f56af284531d92160b695a/IMG_1029.jpeg?Expires=1772815400&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IRNpxLZf%2FSD33OJ8b7BYpC9teFIJpYQzbdcaCZWb2r%2Flx6BNiJOOAOx1junBaJ1KLFPBE3LbMUcSvzZAm42HoViH5W6xmF37z8oezNAUykO%2Bud2IEAHo94GbsiOuTGMyrat%2BsEAZMvRm8hGt%2B92pPZUirdoqPTaoVbqaKIP1GyA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F1bbcbb1b15f56af284531d92160b695a%2FIMG_1029.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/1bbcbb1b15f56af284531d92160b695a/IMG_1029.jpeg?Expires=1772835963&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FSPwKs8bBmB2V7Yd9XsEdF%2FXXIh%2FIBMpC%2F%2FGLPcZXNBusfczAurQTLeBV3qmy8%2F%2B%2FKKEwYa75GpMucK3s%2BXlN%2F79Ixl9XokDmlIg8BprPDjcst%2F5Wqd8NZo%2F7F8yTDF4hSspk7bnJdeffQt9FpGTeZQn%2B4F3p37K89l7fvtWq1Y%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F1bbcbb1b15f56af284531d92160b695a%2FIMG_1029.jpeg)
 
 #### Comments (14)
 - **L** (Nov 30, 2025 11:54am): 「ｋ→ｓ💕」へ　雪論
@@ -3485,7 +3025,7 @@
 
 <p>かってに作って良かったかな？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/b0aa46b1db5b56d7f3d97fe52192f4ce/IMG_1006.jpeg?Expires=1772815400&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vH6kpHQY7ofGHyK4gHvygT1dHfn6T5mVAqEISzGZK1gKM4SYIlHX0oVav3JH98xaaIkFGvZoFTDPR7OyQ4Xdu5XxlOaDOUgOy%2BdhHYv2PF%2Fh5b4hmi7TDYU1qFa3bLqj%2BCghQ3WJmJJ8hrccGs8AQmc8oTLhFFgK1Nd8MeG6mcQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2Fb0aa46b1db5b56d7f3d97fe52192f4ce%2FIMG_1006.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/b0aa46b1db5b56d7f3d97fe52192f4ce/IMG_1006.jpeg?Expires=1772835963&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RqudwyLqNQ58PBZtJau4%2FCn8OAy2I%2BY9Ffe2H5lnjcN0i3S2w1JNx2rNso3A91v96GEzDoDaGFXl1TGrW35KG6M1xNeN8ZqOupA%2FysUN788RMlouPvXOvBZE8kdGCF6aEUpKCmJeYMIfI1EW2ZfqpwUdaziqIbRysFIc8hSrbFE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2Fb0aa46b1db5b56d7f3d97fe52192f4ce%2FIMG_1006.jpeg)
 
 #### Comments (37)
 - **WestExpress 銀河 紀伊勝浦行き** (Oct 15, 2025 01:04pm): なにが？
