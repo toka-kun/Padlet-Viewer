@@ -1,4 +1,4 @@
-最終更新: 2026/02/27 08:31:29
+最終更新: 2026/02/27 11:07:59
 
 # Padletポータルワールド
 
@@ -161,7 +161,7 @@
 ---
 
 ### 4. ISGC民集合
-**Author:** 頭悪い人 (kai4848)
+**Author:** kai (kai4848)
 
 <p>これから主にISGCで使えるサイトまとめます</p>
 
@@ -1994,7 +1994,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1772753489&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vlUIhjILo6Ww5G9Ce1x2fT%2FDfsBnytb5Bs6MbtQXshxmw5bIDw3EK6U3uZZGsh7rw7JBLwv%2BaaRQUXykAQgNBxrxRst%2F1Zfl1tdQDKqq8%2BmS5B7TDrRwLX4A9DWZJnbyqj%2F5lHYx29uqioUSFKXKCGK%2B%2FWJ%2B114PvIk5r19cihQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1772762879&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aiKiXHntmBlwsRA%2BKLzF7ah4m%2FaLpRIOmIZkzZ%2BGs5byc6%2BAuZdtT09V82zD6vpPpNe10y%2FjFjPW3Xuu9oO6ChKBHS49bA4FcsYt74SCY5lFXtr1gFe%2B3jYR6fEp6UyR02QO7XEsWOyFK3jpmKTfBH2xXQr7AfsJKcSwUk6S3xQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて

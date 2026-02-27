@@ -1,4 +1,4 @@
-最終更新: 2026/02/27 08:31:52
+最終更新: 2026/02/27 11:08:21
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 26, 2026 10:58pm
+- **Updated At (UTC):** Feb 27, 2026 01:46am
 
 ## 受付
 
@@ -17,7 +17,7 @@
 **Author:** woolisbest (woolisbest)
 
 #### Comments (32)
-- **ᴎeoᴎӝ ❤️‍🔥 neo_n-.- ͛** (Feb 12, 2026 11:54pm): すぃた
+- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 12, 2026 11:54pm): すぃた
 - **削除済みユーザー** (Feb 13, 2026 03:20am): した
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 13, 2026 06:49am): sita
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 13, 2026 09:03am): した
@@ -63,12 +63,12 @@
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
 #### Comments (36)
-- **ᴎeoᴎӝ ❤️‍🔥 neo_n-.- ͛** (Feb 10, 2026 09:01am): 何が起こった
+- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
-- **ᴎeoᴎӝ ❤️‍🔥 neo_n-.- ͛** (Feb 10, 2026 09:02am): e
+- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 09:02am): e
 - **woolisbest** (Feb 10, 2026 01:11pm): ok
-- **ᴎeoᴎӝ ❤️‍🔥 neo_n-.- ͛** (Feb 10, 2026 02:46pm): はい
+- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 02:46pm): はい
 - **狐うどんの狐(マダタスカル)** (Feb 11, 2026 01:52am): はい
 - **橘花 | Kiκκα　#青葉のサブ** (Feb 11, 2026 03:30am): おｋ
 - **れい** (Feb 11, 2026 06:04am): iretekudase
@@ -114,7 +114,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (20)
+#### Comments (22)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -135,6 +135,8 @@
 - **ほそかわせいや** (Feb 14, 2026 09:18am): フォロー完了 
 - **石塚** (Feb 20, 2026 11:17am): フォローしました
 - **yukkuto** (Feb 26, 2026 10:01pm): simasita
+- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 27, 2026 12:16am): ユック斗
+- **yukkuto** (Feb 27, 2026 01:46am): はい
 
 #### Additional Information
 - **Post color:** Red
@@ -182,7 +184,7 @@
 
 [Attachment 1](https://padlet.com/sakuramoti_modori/home)
 
-#### Comments (15)
+#### Comments (16)
 - **さくらもち** (Feb 02, 2026 12:01pm): わー
 - **全ての部屋にコメントする** (Feb 11, 2026 12:56pm): ( ｀・∀・´)ﾉﾖﾛｼｸ
 - **ピカマン#究極のさくらもちの従僕** (Feb 17, 2026 11:57am): 今荒らされてる
@@ -198,6 +200,7 @@
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 18, 2026 06:54am): こいつほかのへやもやってた
 - **なんかいも乗っ取られるピカマン（パソコンで打ちました）** (Feb 22, 2026 04:59am): 誰か助けて。ピカマン垢は完全にのっとられたし、ライマン垢はけされちまったどうしよう。【だれかアカウントいただけませんか）
 - **なんかいも乗っ取られるピカマン（パソコンで打ちました）** (Feb 22, 2026 04:59am): 自分はwoolisｂＥｓｔのへやのミートをもっているのでミートにいるときここにこめんとします。
+- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 27, 2026 12:19am): パスワードが弱いんじゃ
 
 #### Additional Information
 - **Post color:** Blue
