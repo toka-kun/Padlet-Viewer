@@ -1,4 +1,4 @@
-最終更新: 2026/02/28 08:27:49
+最終更新: 2026/02/28 10:59:37
 
 # proxyなど教える会
 
@@ -9,7 +9,7 @@ proxyサイトなどを共有しましょう
 - **Builder:** 仙人@suger (xianrendesu)
 - **Posts:** 199
 - **Created At (UTC):** Jun 04, 2025 08:02am
-- **Updated At (UTC):** Feb 27, 2026 10:45am
+- **Updated At (UTC):** Feb 28, 2026 12:18am
 
 ## 概要
 
@@ -69,7 +69,7 @@ proxyサイトなどを共有しましょう
 ### 2. こんちは。
 **Author:** 三角定規 (s19200050)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2685141561/c4c89fb4cccb679ad5a1c25e597d158f/channels4_profile.jpg?Expires=1772839668&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yZKqx%2BaaMwedINDmEYe3ZnGYXU%2FOVKyEMallDdjaiii0YNljfS28SJglDopI%2FR9J0LXfJmnCRmfpcNoGKusN9cFb5yMbFK1Rq7uFFRo%2BchaxhUH0hLSBMJtDqQPqfqd7CAWOnr5vZvt%2BaR8vrhc055TJpFBzB3SUtuk%2BnS1Faoo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2685141561%2Fc4c89fb4cccb679ad5a1c25e597d158f%2Fchannels4_profile.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2685141561/c4c89fb4cccb679ad5a1c25e597d158f/channels4_profile.jpg?Expires=1772848776&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jdmP%2FG8O5fomrQPwJDv%2FRpDV1g7NDv09F0Y0oDbOO0QIVtwNVKEN3adSN0RBznFW2M4jAq6MzvGJjlnDbE9RqarAPTFMk4YgSh2dMTYOh0YGtrDabq3V41F9V3GDrdRiD0iKB4BjXejIUgCuwUsaynI3y1%2FHfx6qFe5uE%2BZrzi0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2685141561%2Fc4c89fb4cccb679ad5a1c25e597d158f%2Fchannels4_profile.jpg)
 
 #### Additional Information
 - **Post color:** White
@@ -626,7 +626,7 @@ proxyサイトなどを共有しましょう
 ### 37. AIEGG
 **Author:** 荒らしたい気分
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4028989195/1afef90ae0cdcafa4911d6feb9c638ac/9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3?Expires=1772839668&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VCjgTwac4E4XJ7PC76cuWKbDIK55qhndrLh%2FErLIUfJKDP3RkTTxkcZgB6BSE%2FDEnRxT6rS5zdDMgNofRJGOs4lDmubYcqoWPI0MFW0i8ymga2vY%2B72heBK3wzP1Kw0%2FlZtxefNruqVEmuRT4j0xCRbtZhQ9ouwLTbCBOa8TyEE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4028989195%2F1afef90ae0cdcafa4911d6feb9c638ac%2F9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4028989195/1afef90ae0cdcafa4911d6feb9c638ac/9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3?Expires=1772848776&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zlais90BeikUtqdOO31qX3ouMathFJwOnIJ1CVdOUJPdiIkgKtMS5y05fQJKlzWFjkxSIpu5avZI8bau5PbImnpCxQgUCtI0XRd9mKwRlVYIjNYcQSIDGqYCU5v%2B%2FR17H2rhRpkAP0N6GXlT3AL7sMsfB3%2F0iJ%2BfkhNLk8APuSU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4028989195%2F1afef90ae0cdcafa4911d6feb9c638ac%2F9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3)
 
 #### Additional Information
 - **Post color:** White
@@ -921,7 +921,7 @@ proxyサイトなどを共有しましょう
 
 <p><em>ヒロアカが好きです</em></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4953574738/534625dfa9fb4e5d460fda2319aee41d/images__2_.jpeg?Expires=1772839668&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=scGUDG9rnlF95dyK%2FAE%2Bh7sqvJ3tzlM21nzwI0D1sX9YohPtJuSYe%2BbZUNtIOWJnmZMRBWfg7u0Er%2FDuOvA4jeZJu35ij2trqvw99dDLGtCw5NNoMMijORL34z24Xs%2F7OBlU%2F7u9TFK7xviNw6ujNjGX2Hc%2BHesGSC%2Bvnj6cH%2BU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4953574738%2F534625dfa9fb4e5d460fda2319aee41d%2Fimages__2_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4953574738/534625dfa9fb4e5d460fda2319aee41d/images__2_.jpeg?Expires=1772848776&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WZc2YQmrdqfJyyztTrvVvjtberud3ACYue10rpry8gy2ag%2FBozemhuD%2BI%2Fz9jdrKEZ4exttYCGNk8oTdm1xnuy%2BFc8MUX5GXhp25R8uXAsBTbIu0eAe0UMBv%2FcrELX%2FE8tBBZeDDcdAMQX6AXoELfER6uOro9aXtd0hUXn1SrPk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4953574738%2F534625dfa9fb4e5d460fda2319aee41d%2Fimages__2_.jpeg)
 
 #### Comments (1)
 - **仙人@suger** (Dec 26, 2025 12:23am): こんにちは!
@@ -1083,7 +1083,7 @@ proxyサイトなどを共有しましょう
 
 <p>仙人さんが作った<a rel="noopener noreferrer nofollow" href="https://xtest-dvhl.onrender.com/">X風掲示板サイト</a>で僕のアカウントが使えなくなりました。再起動してもデータ消しても投稿ができないし他の投稿や自分のプロフィールなども見れません。プロキシで入れましたが他の人達は普通に使えてるようです。原因はわかりますか？見れないときに「初期化に失敗しました」というメッセージが出ました。心当たりは無いです…</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5146326471/d22573bd868b0e897214ab819b7ba205/____.webm?Expires=1772839668&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RFzC%2BpBPmcF%2FKBTHBn4c7kzj06sDWl63oYq2ZJOfx1j98LnCEbIEzJU7SUvOJSzH0Ol098Ki7HN4CuELHGOMh23%2FKehJ2RIyN27AZ0ZWu1Fw1L6s9TZ%2BMaz5arSa2%2FUz0yvsRSutQZFwyr%2FD75grjqpN6MCenIyLfzSm8YDISgs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5146326471%2Fd22573bd868b0e897214ab819b7ba205%2F____.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5146326471/d22573bd868b0e897214ab819b7ba205/____.webm?Expires=1772848776&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pOhO%2BsNbECSKJWa1FdIVCcmFZOSlP2lmpNLOj5tG%2B201TTdgCD%2BZIhy8OQz1CNljvAvKOAtLKlyofn7Iz3kfWDU31yOK5GXT5rL2%2BskSFM6GSDkN73BqOIGzn4wmNiOysxZ4Z4Zq2pH6%2BfikMVozQ3lDirc%2FQ0M6BzPiyVptckc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5146326471%2Fd22573bd868b0e897214ab819b7ba205%2F____.webm)
 
 #### Comments (3)
 - **仙人@suger** (Feb 23, 2026 03:10am): たぶんセキュリティ引っ掛かったかもしれない
@@ -1102,7 +1102,7 @@ proxyサイトなどを共有しましょう
 
 <p>アイコンの周りのヤツなんだこれ</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3821722678/d9a4caa13df14cc54f60307564d40262/IMG_3710.jpeg?Expires=1772839668&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nvbf1K69eDjlg31%2B%2Bds53gG74fuGHgD4GOJAIPyxADvQxWylalI82f4onx59dRb9ckex5FOvqiLhd1yJdSyAvJqqaKHkzFuPUdL39Is9API0mt7txSLK8Q12YWuPOqHXQkpWxRpKuUxevDocA98xy2NbUGx5TNAbuoQqPJ9m9yM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3821722678%2Fd9a4caa13df14cc54f60307564d40262%2FIMG_3710.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3821722678/d9a4caa13df14cc54f60307564d40262/IMG_3710.jpeg?Expires=1772848776&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KyqjW9rcrJFsJ0w%2BOP1M3P2%2FYxdZbFfDgaxLLDqFz6Ep4Dp6vN%2BTnMqgpofK0u36Cu7ubxR6flO1gLGSSwjozyr%2Bk%2FJtZlVXiPBKtPMiUIfKPzYp9l0DR0v5fqIv5zwtKAJKAsEXssikoInEtIIOBSzzRo%2BQmdQtYKqyHQqDwEo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3821722678%2Fd9a4caa13df14cc54f60307564d40262%2FIMG_3710.jpeg)
 
 #### Comments (5)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 19, 2026 10:05pm): https://padlet.help/l/ja/article/88slsagmp2
@@ -1768,7 +1768,7 @@ proxyサイトなどを共有しましょう
 
 <p>https://katuotube-1.onrender.com</p>
 
-#### Comments (7)
+#### Comments (8)
 - **Thoughtful Oyster** (Feb 25, 2026 04:05am): パスワードわかりますか？
 - **Brilliant Kiwi** (Feb 25, 2026 06:15am): パスワード教えてほしいです
 - **仙人@suger** (Feb 25, 2026 06:48am): katuo
@@ -1776,6 +1776,7 @@ proxyサイトなどを共有しましょう
 - **Anonymous Tiger** (Feb 26, 2026 07:07am): 入れたけど再生できる？
 - **仙人@suger** (Feb 26, 2026 07:07am): 軽量化する予定 
 - **えみとー** (Feb 27, 2026 12:11am): まじで使いやすいありがと
+- **三角定規** (Feb 28, 2026 12:18am): ブロ
 
 #### Additional Information
 - **Post color:** White
@@ -2155,7 +2156,7 @@ proxyサイトなどを共有しましょう
 ### 3. わかめ使えなくなったんだけどなんでか分かる人いる？
 **Author:** Brilliant Kiwi
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5225598716/02e66f252a2c39f89ec6606d4b4dbc28/Screenshot_2026_02_25_15_22_25.png?Expires=1772839669&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nZTyBQu8n3GZwuBNpBrBKq5PxAgNEbQMLLKRM%2BPoix6TlAl39qUeBqXrJMSpO2O84AY9UNVH6XEPEgiPISN0Zy0%2FbKVMuOvzMKFQE4s4qK3tK3MNjOS1VtfQRNaJHasq8idU%2Bhu1cikIXv1F4RsqtO2WLs%2B42bJ6ae6wfUZfhnk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5225598716%2F02e66f252a2c39f89ec6606d4b4dbc28%2FScreenshot_2026_02_25_15_22_25.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5225598716/02e66f252a2c39f89ec6606d4b4dbc28/Screenshot_2026_02_25_15_22_25.png?Expires=1772848777&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WzWFSCTfrqysXoAxkBvbxZS67YUC%2BL%2Bn%2F0E5JAznpzlWZt7C9CWyzIJE9pQFKjSGk7bBNcX8pUU372%2BKtGir3ycE80D2%2FonetaKYdv0uCZKt8F80TmFdzjN78ptvvV%2F3Z%2BkyqnDKDVZ5SP6Mo1HV9ULa0B6wsEYTB3HlYc7z550%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5225598716%2F02e66f252a2c39f89ec6606d4b4dbc28%2FScreenshot_2026_02_25_15_22_25.png)
 
 #### Comments (1)
 - **ばあ** (Feb 26, 2026 09:06am): 俺も同じ 
