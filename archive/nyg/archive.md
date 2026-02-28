@@ -1,4 +1,4 @@
-最終更新: 2026/02/28 08:25:58
+最終更新: 2026/02/28 20:20:11
 
 # アーカイブ
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 231
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Feb 27, 2026 10:39pm
+- **Updated At (UTC):** Feb 28, 2026 11:07am
 
 ## セクション一覧
 
@@ -34,7 +34,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1772839555&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Mel41dQLryEzJMUP3Q0E9iHF8uf%2FRGhuSSP8qtkjJZP8QqFxQ1KVqIALHrbcoG6Wc%2FVGzk0CA3DrZOlgRkAJkAkeTkk8j%2FDrj6yXot8idB4sy6PE%2BPulmopGD4auGxoIpkCxDenYoLU96lP2GgICh2FUlcagY35BkOJevlmRAWg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1772882407&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yX8l2FX2ma7%2FvL4E5qKZKX4Ffy7GdjKcAYMb6%2BwCRX2SA22FfhBD%2Bbpt8Ucfo2%2FyWilRWxxGmG5%2Bbkiqg37KjhtJJNdh6YIPjuBeyAbKIUcDpehnCP79yXWsZS14g1OmO%2FLHiWDGNqODgqWHuW1PzqYT4LxkwoQ88OzpxWvVEK8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -647,10 +647,10 @@
 #### Comments (21)
 - **なんとか。** (Feb 10, 2026 06:04am): やった
 - **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Feb 10, 2026 06:56am): 報告ありがと。よっしゃ！
-- **シャドウ・レクイエム＃Food：Meat隊　　　　アイコン変えまくる奴　フォローお願いね　タブ返却のときに引退(´Д⊂ヽ** (Feb 10, 2026 12:18pm): だれかいますか
-- **シャドウ・レクイエム＃Food：Meat隊　　　　アイコン変えまくる奴　フォローお願いね　タブ返却のときに引退(´Д⊂ヽ** (Feb 10, 2026 01:33pm): がちめにだれかいるよね
-- **シャドウ・レクイエム＃Food：Meat隊　　　　アイコン変えまくる奴　フォローお願いね　タブ返却のときに引退(´Д⊂ヽ** (Feb 11, 2026 01:45am): ねーーーーーー
-- **シャドウ・レクイエム＃Food：Meat隊　　　　アイコン変えまくる奴　フォローお願いね　タブ返却のときに引退(´Д⊂ヽ** (Feb 11, 2026 02:42am): だれかいたよね＾＾
+- **シャドレク＃Food：Meat隊　　　　アイコン変えまくる奴　フォローお願いね　タブ返却のときに多分引退(´Д⊂ヽ中学でもmicrosoft垢引き継がれるなら引退しない　本名の省略いまそ** (Feb 10, 2026 12:18pm): だれかいますか
+- **シャドレク＃Food：Meat隊　　　　アイコン変えまくる奴　フォローお願いね　タブ返却のときに多分引退(´Д⊂ヽ中学でもmicrosoft垢引き継がれるなら引退しない　本名の省略いまそ** (Feb 10, 2026 01:33pm): がちめにだれかいるよね
+- **シャドレク＃Food：Meat隊　　　　アイコン変えまくる奴　フォローお願いね　タブ返却のときに多分引退(´Д⊂ヽ中学でもmicrosoft垢引き継がれるなら引退しない　本名の省略いまそ** (Feb 11, 2026 01:45am): ねーーーーーー
+- **シャドレク＃Food：Meat隊　　　　アイコン変えまくる奴　フォローお願いね　タブ返却のときに多分引退(´Д⊂ヽ中学でもmicrosoft垢引き継がれるなら引退しない　本名の省略いまそ** (Feb 11, 2026 02:42am): だれかいたよね＾＾
 - **スシロー** (Feb 11, 2026 06:49am): 招待お願いします🙏
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 11, 2026 07:02am): また追加できなくなった
 - **スシロー** (Feb 11, 2026 07:14am): まじですか
@@ -661,7 +661,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 11, 2026 12:46pm): CodeSandboxのアカウント持ってるの？
 - **Compassionate Cockatoo** (Feb 11, 2026 11:49pm): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/E1P8aX769jMNWwA9) なんやこれ
 - **woolisbest** (Feb 12, 2026 02:03pm): なんかやらかした？
-- **シャドウ・レクイエム＃Food：Meat隊　　　　アイコン変えまくる奴　フォローお願いね　タブ返却のときに引退(´Д⊂ヽ** (Feb 13, 2026 12:45pm): まじで
+- **シャドレク＃Food：Meat隊　　　　アイコン変えまくる奴　フォローお願いね　タブ返却のときに多分引退(´Д⊂ヽ中学でもmicrosoft垢引き継がれるなら引退しない　本名の省略いまそ** (Feb 13, 2026 12:45pm): まじで
 - **panpanda** (Feb 13, 2026 10:52pm): 編集うまいね！
 - **Massa_games216** (Feb 14, 2026 08:39am): lol
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 16, 2026 02:56am): xswl
@@ -998,24 +998,24 @@
 ---
 
 ### 17. 緊急!!
-**Author:** πr²(パイアール2) (naganaga)
+**Author:** はじめまして！ (Akito2014)
 
 <p>自分の中学にこのQRコードを送ってしまい、更に相手にオーネー権限が移ってしまいました</p><p>このアカウントは使われているのでしょうか？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1772839556&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=e1RAIMRgqyVNPGfeOEOZW%2FgmwEvkTQ6hxpuDzMo6IPa8H23EszsxsCMhXi1OR92uIV1un6WGTkeJL2WzG3u%2Fpu7DVEYYgIBtq8scVMGL8gE14lwXtbH%2BUvAR%2Fgjeyl%2FxVuaA6bGNdNW6YDhIpjtQaZt1Bz8d0NpH6O8e921DIzA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1772882408&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sfkCtnX7G9GEMBSdVPQQvUB3NFEX2p1Zdcc9a0YhdZXjyj4ru8LobpoHyz4pbBBNvMUJ0H%2B2wUX0HAtFH216NurD%2FUrhCjNfelpme7QyHSnLFsKxGyQeMBMRHoe2KtP%2BmiXewcf9u3%2BOWloeD%2BjmthiRCmSG6SzZqal1d5Ehziw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
 
 #### Comments (12)
-- **πr²(パイアール2)** (Jan 23, 2026 02:26am): オーナー権限です
+- **はじめまして！** (Jan 23, 2026 02:26am): オーナー権限です
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Jan 23, 2026 02:27am): ごめんこれはわからない
-- **πr²(パイアール2)** (Jan 23, 2026 02:29am): やばいですかね？
-- **πr²(パイアール2)** (Jan 23, 2026 02:29am): ちなみにgoogleホームページのQRです
+- **はじめまして！** (Jan 23, 2026 02:29am): やばいですかね？
+- **はじめまして！** (Jan 23, 2026 02:29am): ちなみにgoogleホームページのQRです
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Jan 23, 2026 02:30am): んー🧐見れないから正直QRコードの中を見てみないとわからないなー
-- **πr²(パイアール2)** (Jan 23, 2026 02:31am): 別に問題あるサイトとかではないはずです
+- **はじめまして！** (Jan 23, 2026 02:31am): 別に問題あるサイトとかではないはずです
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Jan 23, 2026 02:32am): あーどうだろう、問題ないとはいえ、後から来るケースもあるからそこが怖いよなー
-- **πr²(パイアール2)** (Jan 23, 2026 02:33am): そうですよね
-- **πr²(パイアール2)** (Jan 23, 2026 02:33am): まあわざわざQR読み込むやつもいないだろうけど・・
+- **はじめまして！** (Jan 23, 2026 02:33am): そうですよね
+- **はじめまして！** (Jan 23, 2026 02:33am): まあわざわざQR読み込むやつもいないだろうけど・・
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Jan 23, 2026 02:34am): まあそういうことしか言えないからねー難しい
-- **πr²(パイアール2)** (Jan 23, 2026 02:34am): 祈るしかないかぁ・・・
+- **はじめまして！** (Jan 23, 2026 02:34am): 祈るしかないかぁ・・・
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Jan 23, 2026 02:34am): そうだね
 
 #### Additional Information
@@ -1179,7 +1179,7 @@
 ### 24. 俺が全然浮上しなかったのも悪いんだけど俺の部屋の管理者がこいつらだけになってました
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1772839556&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=H7Fc7fkEQiHvQEi4g8%2FaXnmpNHarkN82%2BBiBrKe63gw1B7NXYdzb3nc48Skj3k%2BuT%2B%2BGxrcYK5FxuUdnkEgoXJ5%2FXzM%2FfydQHVIcZ25fp3EPS429w6J6JyKKZFFStfWBzir3y3fA95%2BEL8MLTIhnCnKK3jNTNXFsEgUJCmFkivk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1772882408&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=J17Hcj0KzkIhUzWS3UweNmGK0r8nFFH%2FfwdXW%2BGPDEClWPEezIf0yAsBfXX336%2Bpp3%2F%2Fxw7vU5i90mTdTUXwSZB2CNVO8cWmM%2FS8z3j0jWP1ASnJ76DVDYsMeD5YjrOHG6b88Pr5oWd6LiqM83k%2BHNBrnRJqIrUokn%2BoGcJdj44%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ローマンピアースのスマホ垢本物** (Jan 15, 2026 11:50am): 誰か助けてくれ、、
@@ -1812,10 +1812,10 @@
 - **削除済みユーザー** (Dec 16, 2025 04:20am): なぜ怒られる？
 - **haru🌸** (Dec 16, 2025 05:15am): わからん
 - **haru🌸** (Dec 16, 2025 05:16am): 東京都はそうゆう制限かかかってるっぽい
-- **πr²(パイアール2)** (Dec 17, 2025 12:29am): ワタシTOKYOトミンデスガソンなノアリマセン（地域によって違う）
-- **πr²(パイアール2)** (Dec 17, 2025 08:01am): ちなみに23区内に住んでます
+- **はじめまして！** (Dec 17, 2025 12:29am): ワタシTOKYOトミンデスガソンなノアリマセン（地域によって違う）
+- **はじめまして！** (Dec 17, 2025 08:01am): ちなみに23区内に住んでます
 - **削除済みユーザー** (Dec 17, 2025 11:11pm): (・∀・)ｲｲﾈ!!
-- **πr²(パイアール2)** (Dec 18, 2025 02:31am): カタカナ入力にする時が来るとは・・・
+- **はじめまして！** (Dec 18, 2025 02:31am): カタカナ入力にする時が来るとは・・・
 
 #### Additional Information
 - **Post color:** White
@@ -1953,7 +1953,7 @@
 - **削除済みユーザー** (Dec 09, 2025 09:28am): 震度はガチで書かないほうが良いよ住所が特定されちまう
 - **削除済みユーザー** (Dec 09, 2025 09:42am): 特定しよ
 - **削除済みユーザー** (Dec 09, 2025 09:43am): 何地方かまでならできそうw
-- **πr²(パイアール2)** (Dec 09, 2025 10:08am): こっちは震度2でした。
+- **はじめまして！** (Dec 09, 2025 10:08am): こっちは震度2でした。
 - **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 09, 2025 10:17am): 今思ったんだけど震度6じゃなかったわw
 - **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 09, 2025 10:40am): 震度２でした！
 - **削除済みユーザー** (Dec 10, 2025 12:56am): ww
@@ -2174,7 +2174,7 @@
 - **コロッケ** (Feb 07, 2026 06:11am): iPad
 - **レッド** (Feb 07, 2026 09:32am): chromebook
 - **NyrikX(足立区陣ICFS系)** (Feb 08, 2026 10:32am): ChromebookでICFCとICA(advance)とかある
-- **シャドウ・レクイエム＃Food：Meat隊　　　　アイコン変えまくる奴　フォローお願いね　タブ返却のときに引退(´Д⊂ヽ** (Feb 10, 2026 12:33pm): クロブック
+- **シャドレク＃Food：Meat隊　　　　アイコン変えまくる奴　フォローお願いね　タブ返却のときに多分引退(´Д⊂ヽ中学でもmicrosoft垢引き継がれるなら引退しない　本名の省略いまそ** (Feb 10, 2026 12:33pm): クロブック
 - **味の煮付けの汁** (Feb 11, 2026 06:47am): Mac
 - **亜空カン_JANLINE** (Feb 12, 2026 07:45am): Chromebook
 - **亜空カン_JANLINE** (Feb 12, 2026 07:46am): Windowsが居るだと...裏山しい
@@ -2307,7 +2307,7 @@
 - **削除済みユーザー** (Nov 29, 2025 12:48am): いや　やらないわけじゃないんよ
 - **削除済みユーザー** (Nov 29, 2025 12:48am): 全部やるのがきついから
 - **削除済みユーザー** (Nov 29, 2025 12:48am): 最初にやるの決めてるの
-- **高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長       2√3番目のれいなの弟子** (Nov 29, 2025 12:49pm): 自作じゃないとブロック定期
+- **神々廻家一代目当主　高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長 イーグラ隊隊長** (Nov 29, 2025 12:49pm): 自作じゃないとブロック定期
 - **削除済みユーザー** (Nov 29, 2025 11:27pm): ww
 - **学校のパソコンでプロキシ探して規制して遊ぶ受験生** (Nov 30, 2025 09:55am): いつ作ったかわからないプロキシ500配布されるより新たに10個作ったほうが使える可能性が高いと思う｡
 - **削除済みユーザー** (Dec 01, 2025 07:57am): それもそう
@@ -3077,7 +3077,7 @@
 ### 5. アプリをダウンロードする方法教えて下さい　こうなる↓
 **Author:** 水原二平 (r02s14030)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1772839557&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AFZgP%2FWr252PM%2B7zFHEetjXtvhHsSysOD6FdxQ4BvwmD%2FZApQiyLJhUYHydO1%2FsmRtuP%2BMdlDxpLvmgeGCglEQfXMG4TBKzG%2BTRFx7fozY0fC6OP5e1WyOD6sM43Z0aSVLSCfD3EN6%2B4JOYoX6sFy4dVw89IPRaYLNStWpeokvs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1772882409&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lCrn2tUWic%2F70M%2BBTNvz%2F9Dm1R7Kv0PS5vETqsA6L6nGssBujjwxE64jw6sakFPsB8UGxQDr4Rjy%2FhlVPGncEo1SPJIbUOqByMwr2PTMaDInctGpfvHVotFDkIyT4RQ81mwVx6jAXQHTuY0aFaKyoWwFj4AwbCx7%2BjTaGL8QYDc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
 
 #### Comments (4)
 - **かから** (Jan 27, 2026 10:26am): Chromebookだったらhttps://chrome.google.com/webstore?utm_source=app-launcher
@@ -3512,7 +3512,7 @@
 
 **投稿の種類:** フィルターに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1772839557&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=J5Uq3hID%2FD58559pni8UIvzgquSiFkBjTYucP2Nx1o2in5F8jkIfabzasbhTNh82P9IxLnpRTJMN1AJubjuBgVCSZj34vRW5wRvYLCXu78MgGR8l1ETVRs7BA2vg5OjJSnupB4PASom0bN2tpDkwjnNEwajERVHRZGGxGI7BKRc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1772882409&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3RVaAIDlIXAzj51e4mimFptW2O%2BUUt0HaZSmeOzdPF6rMrRVYybCyHdhMrUomM2%2B%2B5S0LuZh%2BjpGkOlykwMzVq9nOt1DihUuLSqEwjYgYEOxoVK4Akb98Jnmaem5wRoCltSSvbcqnU%2Bt4r3lLqG7TpCv1ivT%2FY1Y1f8xi3oiD0s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -3689,7 +3689,7 @@
 - **Graceful Hornet** (Nov 15, 2025 03:18am): そもそもiPadの設定にはよるけどI-filterがつながっていないと接続すらさせてもらえない
 - **．．．** (Nov 27, 2025 01:26am): もうできない可能性大
 - **Nervous Snail** (Nov 27, 2025 11:04pm): もうできないというかI-filterってもともとサーバーと繋がってないとプロキシ通せないからサイト表示できんで
-- **高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長       2√3番目のれいなの弟子** (Nov 28, 2025 10:28am): クロムの方も教えてクレメンス
+- **神々廻家一代目当主　高情緒(kojyocho)SAT部隊隊長 荒らし対策委員会会長及び隊長 イーグラ隊隊長** (Nov 28, 2025 10:28am): クロムの方も教えてクレメンス
 - **Guchi Hedera** (Dec 09, 2025 02:43pm): もう使えんくなってる
 - **Michael Myers** (Dec 15, 2025 05:05am): 俺の学校できんくなってるけど学校によって変わるんかな？
 - **Watson1111** (Dec 17, 2025 03:02am): ほかないっすか？
@@ -3712,7 +3712,7 @@
 - **削除済みユーザー** (Jan 05, 2026 07:49am): www
 - **バッタ　#煮物貢献者　#煮物14番弟子　#りおと族37代目　#りおと弟子37番目　#そろそろ引退かも** (Jan 05, 2026 09:40pm): おなじく
 - **☆ねこさん☆** (Jan 06, 2026 02:18am): おれはciscoからI-FILTERになった
-- **πr²(パイアール2)** (Jan 06, 2026 03:32am): i-フィルター切りたい
+- **はじめまして！** (Jan 06, 2026 03:32am): i-フィルター切りたい
 - **バッタ　#煮物貢献者　#煮物14番弟子　#りおと族37代目　#りおと弟子37番目　#そろそろ引退かも** (Jan 06, 2026 08:15am): naki
 
 #### Additional Information
@@ -3750,7 +3750,7 @@
 <p>だれかI-FILTER解除する方法教えて（プロキシも）</p><p><br></p>
 
 #### Comments (5)
-- **πr²(パイアール2)** (Jan 06, 2026 05:04am): i-フィルター解除はできませんがプロ棋士をお送りしますhttps://woolisbest.lema.cl/proxy/Helios
+- **はじめまして！** (Jan 06, 2026 05:04am): i-フィルター解除はできませんがプロ棋士をお送りしますhttps://woolisbest.lema.cl/proxy/Helios
 - **夢見る少女じゃいられない** (Jan 07, 2026 12:05pm): 使えるけど性能は微妙
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 07, 2026 10:13pm): Heliosは他のプロキシと比べて性能が落ちる
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 07, 2026 10:14pm): https://woolisbest.lema.cl/proxy/home
@@ -3764,7 +3764,7 @@
 ---
 
 ### 9. 速報!!
-**Author:** πr²(パイアール2) (naganaga)
+**Author:** はじめまして！ (Akito2014)
 
 <p>練馬区にisgcとi-filter入れられた（最悪・・・）片方でいいので削除の方法教えてくれたら幸いです</p>
 
@@ -3785,21 +3785,21 @@
 ## ISGC専用
 
 ### 1. 緊急!!見にくいかもしれませんがISGCが更新されました
-**Author:** πr²(パイアール2) (naganaga)
+**Author:** はじめまして！ (Akito2014)
 
 <p>先ほどゲームをしてるとフリーズしてしまって、再起動するとフィルタリングが更新されており、さっきまで使えていたサイトが使えなくなってしまいました。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1772839557&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=d3BtpXBtwja7ZYW3GVLVjwWiXhP3agjIwpTz%2Fbtj02FMkUEBMHNWEetGVJtES4L4zVeKtzuHX3CM7WAn0MzAo824aFW1MPNwsRbgac5LnE44wYVUdwOWVbbCIWTArW3z0Ho1RLei3PDfkWmgcvchNuR85kGvcozGgmm6AMyaLrE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1772882410&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=oXRiBQbxqI1eBlpf8kcDsjkCQ3jnXlgN%2FI5S%2FW%2BTnt%2BbwrAI%2FEojk2zDi4NpmYEPEo8yQS9Gx4xzhqhV20%2BYeRa6%2BuwusEV1tTm3pKyDCbQVxKceGek7Dnmz1SZ0VQGAlPS668%2BszwhMhPzcrEppjujeBADaMu2nnYHB0Mf93Ng%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **削除済みユーザー** (Dec 21, 2025 05:06am): 俺も金曜日そんな感じになった
 - **削除済みユーザー** (Dec 21, 2025 07:21am): おれずっと更新してないから規制なかなかされないw
 - **学校のパソコンでプロキシ探しる受験生** (Dec 22, 2025 04:27am): だからかぁ...好きなゲームのサイトが規制かかるようになっちゃったんだよね
 - **-かきくけこ-ISGC☯** (Dec 23, 2025 02:27am): 同じく好きなゲームできんくなった...
-- **πr²(パイアール2)** (Dec 24, 2025 12:12pm): むやみに再起動とかしないほうががええな
+- **はじめまして！** (Dec 24, 2025 12:12pm): むやみに再起動とかしないほうががええな
 - **バッタ　#煮物貢献者　#煮物14番弟子　#りおと族37代目　#りおと弟子37番目　#そろそろ引退かも** (Dec 26, 2025 09:45pm): ww
 - **Supportive Hummingbird** (Dec 30, 2025 08:28am): すみません...フィルタリングがISGCなんですけど、家のWi-Fiで使った場合って、学校側からもURLとか見れますか？しあtubeやpixivFEで大人の単語とか色々と調べていたのでちょっと不安になってきました。
-- **πr²(パイアール2)** (Jan 06, 2026 05:27am): 見れるかもだけどそもそもisgc自体のシステムもわからないし先生が言ってこないなら大丈夫だと思うよ
+- **はじめまして！** (Jan 06, 2026 05:27am): 見れるかもだけどそもそもisgc自体のシステムもわからないし先生が言ってこないなら大丈夫だと思うよ
 
 #### Additional Information
 - **Post color:** White
@@ -3809,20 +3809,20 @@
 ---
 
 ### 2. こんなの発見した
-**Author:** πr²(パイアール2) (naganaga)
+**Author:** はじめまして！ (Akito2014)
 
 <p>ユーザー名は黒塗りにしてるよ</p>
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1772839557&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2%2Ba9T3DtUzPUB%2Fu%2BglHgVp%2BZUIGnZO5aHVTLol7HGU0BLwL88Q%2FD9GioA2kOKKWrZwbXSa33rF9NWLkF8X6qGmSYz8dbdOJzadUQNdBmR3BM4GkzDVtPbT4nm27nAGXhYMIX%2BGnR7ZO9fzxlEenL9HHYmMsiLcw8jfACQjdQezg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1772882410&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CuB54EtNYaFUO%2BBdRJDjLBF99dhFh97cDqIDdnkxQdjOvZYnJDqsEPZE%2Ft%2B%2BDIcGxDf%2FLG9uNGUDex3Lc71f6D%2BnginiwEGTQZad7amJi7g2awIEv6dJe48MRlL9lh70n3hB0Tffe9XjWt1js4XkEJuwmsgMjfoyM4sMeLYaQPg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
-- **πr²(パイアール2)** (Nov 09, 2025 08:31am): フィルタリングルールの更新日時とか書いてあった
+- **はじめまして！** (Nov 09, 2025 08:31am): フィルタリングルールの更新日時とか書いてあった
 - **haru🌸** (Nov 10, 2025 05:00am): どうやって行った？
 - **Honest Dolphin** (Nov 11, 2025 05:06am): 住んでる区出てるよ
-- **πr²(パイアール2)** (Nov 16, 2025 12:08pm): まあダイジョブでしょ
-- **πr²(パイアール2)** (Nov 16, 2025 12:08pm): もうネット上に無数にあるし
+- **はじめまして！** (Nov 16, 2025 12:08pm): まあダイジョブでしょ
+- **はじめまして！** (Nov 16, 2025 12:08pm): もうネット上に無数にあるし
 
 #### Additional Information
 - **Post color:** White
@@ -3832,16 +3832,16 @@
 ---
 
 ### 3. ISGCをぶっ壊す
-**Author:** πr²(パイアール2) (naganaga)
+**Author:** はじめまして！ (Akito2014)
 
 #### Comments (20)
-- **πr²(パイアール2)** (Dec 10, 2025 12:19am): できる方いたらコメントお願いします
+- **はじめまして！** (Dec 10, 2025 12:19am): できる方いたらコメントお願いします
 - **削除済みユーザー** (Dec 10, 2025 12:57am): ISGCのアプリ消せるんなら消してリセットしたらできたはず...
 - **花草海吏** (Dec 10, 2025 01:39am): モバイルデータ通信切ればできたはず
 - **花草海吏** (Dec 10, 2025 01:39am): できんかったらごめ
 - **削除済みユーザー** (Dec 10, 2025 06:14am): ラグくしまくったら？
 - **削除済みユーザー** (Dec 10, 2025 06:21am): ｗ
-- **πr²(パイアール2)** (Dec 12, 2025 05:25am): ラグのやり方教えてください
+- **はじめまして！** (Dec 12, 2025 05:25am): ラグのやり方教えてください
 - **カービィ** (Dec 12, 2025 06:20am): パワーウォッシュ!!!
 - **Massa_games216** (Dec 12, 2025 10:34am): >>ラグのやり方教えてください
 - **Massa_games216** (Dec 12, 2025 10:34am): 自分試したけど無効だった
@@ -3851,7 +3851,7 @@
 - **haru🌸** (Dec 12, 2025 11:10am): GBは余裕で行く
 - **削除済みユーザー** (Dec 14, 2025 05:37am): ①デスクとウィンドウは1つだけ残してすべて閉じる②規制の拡張機能をピン留めする②.5わざと規制されるサイトを一つだけ出す③10個のサイトを登録してあるブックマークを作る(規制されないサイトで)④ctrl＋rを連打しながら作ったブックマークを㉞回連打する⑤重くなってしばらく操作できなくなるから、10分〜20分、タブがすべて読み込まれるまで待つ⑥ピン留めした規制が消えたら成功。 読み込み終わってピン留めした拡張機能が消えてなかったら連打する回数を2回ずつ増やす。読み込む途中でPCが落ちたら減らす。
 - **削除済みユーザー** (Dec 14, 2025 05:37am): らしいです
-- **πr²(パイアール2)** (Dec 14, 2025 11:51pm): あざす
+- **はじめまして！** (Dec 14, 2025 11:51pm): あざす
 - **内臓** (Dec 16, 2025 02:03am): あざす
 - **こん** (Dec 19, 2025 05:08am): まずはありがとう
 - **NyrikX(足立区陣ICFS系)** (Jan 19, 2026 07:53am): できた？
@@ -3952,6 +3952,8 @@
 ### 1. リンクはまだ存在するが、古いが故にブロックされている確率が高いであろうものをこっちに移動させます。
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
+<p><strong>2026/02/28以降は、リンクが死んでいても残す方針に変更します。</strong></p>
+
 #### Reactions
 - **Average star rating:** 5.0
 - **Number of ratings:** 1
@@ -3959,7 +3961,7 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Dec 06, 2025 06:46am
-- **Updated At (UTC):** Jan 05, 2026 11:27am
+- **Updated At (UTC):** Feb 28, 2026 11:07am
 
 ---
 
