@@ -1,4 +1,4 @@
-最終更新: 2026/02/28 14:00:03
+最終更新: 2026/02/28 17:31:55
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Feb 28, 2026 03:11am
+- **Updated At (UTC):** Feb 28, 2026 07:54am
 
 ## 受付
 
@@ -64,7 +64,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (37)
+#### Comments (38)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -102,6 +102,7 @@
 - **スイクン（メガリザX）** (Feb 23, 2026 10:32am): killすることもできません
 - **yukkuto** (Feb 26, 2026 10:55pm): 助けて
 - **kuma** (Feb 27, 2026 08:19am): いれて
+- **スイクン（メガリザX）** (Feb 28, 2026 07:54am): 僕はいつになったら入れてもらえるの？
 
 #### Additional Information
 - **Post color:** Red
