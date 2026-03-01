@@ -1,4 +1,4 @@
-最終更新: 2026/03/01 11:28:22
+最終更新: 2026/03/01 13:54:51
 
 # Padletポータルワールド
 
@@ -157,7 +157,7 @@
 ---
 
 ### 4. エヴァ同好会！！
-**Author:** りな＃ルミナス族 (Rinadayoyorosiku)
+**Author:** りな＃ルミナス族リーダー (Rinadayoyorosiku)
 
 <p>エヴァ好き集まれーーーー</p>
 
@@ -2041,7 +2041,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1772936902&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NSUHhKpG9BBc%2FlCorNEJJUIh0%2F2fl1W0xu4v6bV9TSkQPqY1K%2BG3wN3gAgxm1kHV04oY7yjZ1gv62EdCsfDlck3Kzaobn1Gc52FUhvoRhvanHH6Z3SYVfGh4vlJv3u5QhJyOoe5Icbk7%2FYfxYz1t%2Fw%2F8tbJ2%2FUOKWOygSJYawwo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1772945691&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eEvV8%2BUIDT3CC%2Fa642dlupdgQMYzJVqSandqfwExpjn41roD%2Fn8jWmgbYBfFbgUYyJ9HP60DTuUZjocxcgX6LHNkkfeHRSd09eJhYngKjFapdWlALpkNsEhtslUdWn3GEwBU66hPXXsMq%2FxTalXQSJuHeKt%2BKK1HdopVmJ7ZTkQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
