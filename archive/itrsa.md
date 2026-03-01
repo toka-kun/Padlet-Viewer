@@ -1,4 +1,4 @@
-最終更新: 2026/03/01 13:55:50
+最終更新: 2026/03/01 14:53:56
 
 # ITRSA本部
 
@@ -100,7 +100,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 5. MBSふざけるな。偏光報道のお手本。総務省には対応求む。
 **Author:** 一期一会 （顧問） (user_japan)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/e1f7c22e151ec501c6d04b368ac32dfe/IMG_1554.jpeg?Expires=1772945750&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bY9gZwbecbik9nxQzUJswsW6QsjaCmIUsgXx4vxnvwLU%2BG1L6WY59wrmXF80doR7TIk9c9LozIn%2BpHA7%2B4mK7FnpAETndG%2BAb0d%2B%2Frn%2FJGmhZnQFPZo6%2FjBvIKEiXQF%2BHILNVGoeWFUF1mVt9OOy6ZHDOZ24MVMXSNHgu%2BEkYXI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2Fe1f7c22e151ec501c6d04b368ac32dfe%2FIMG_1554.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/e1f7c22e151ec501c6d04b368ac32dfe/IMG_1554.jpeg?Expires=1772949236&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SJmJz23p1DRzwOrUvqAbBDsPL8MAvFLEDY%2F3u1dbnSs%2FugwSzWp7SaFFZh1IPrsi3YwZ0mIeAHUtcSc0leGghajMWIiLMhxoplr4vddho5VIJONCQn1wJLKZR4jPRul4YNvoLTHCnAMlYnN0HL10UivojRmqev9%2F4pJp%2FM6QWfY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2Fe1f7c22e151ec501c6d04b368ac32dfe%2FIMG_1554.jpeg)
 
 #### Comments (1)
 - **♔柴犬の王子様♔@行政** (Jan 23, 2026 01:29am): 偏ってるなぁ
@@ -142,7 +142,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 8. アルゼンチンでハビエル・ミレイ大統領の経済政策が成功し、支持率が60%に到達。トランプダンスを披露。
 **Author:** 一期一会 （顧問） (user_japan)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/74dc629887040fe24ad7867d10a3a2bf/ScreenRecording_01_09_2026_17_14_05_1.mov?Expires=1772945750&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5PCuXYEoS2YQmEOFxzi9QzPmaZ2NhacA2cc03l5tIW6bZp9obxJp9GCvTIEr8RzWyKRHqCJiqykXuTAZKSDGBaYHvv5XQZvwpkRd0hmoznh5kCoQ5qIv03cs3Q0yevDqL4dGflkCt7vEkvM6AcOR2JoWub8ZgJAb13Aukyg8KIM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2F74dc629887040fe24ad7867d10a3a2bf%2FScreenRecording_01_09_2026_17_14_05_1.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/74dc629887040fe24ad7867d10a3a2bf/ScreenRecording_01_09_2026_17_14_05_1.mov?Expires=1772949236&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nh5b9uir%2FeFWrBUKflvQiBgq1uZsjzOjnXd8IoKgqi8Sy5gOD%2BScywRsikbWeJXT71P%2FGTddQLh1JJ7Bi80Hn1LzaZ4CUIu9evAU3FFeVWeOrr2BJcwwM%2FgrfKRl863FDMTjdDBllfkOU%2BZ6YMdryjBTE33err5A%2Bwz2PpqgZLg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2F74dc629887040fe24ad7867d10a3a2bf%2FScreenRecording_01_09_2026_17_14_05_1.mov)
 
 #### Additional Information
 - **Post color:** White
@@ -184,7 +184,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 11. ﾌｧｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱ
 **Author:** 琥珀 (Kohaku_0301)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4115673915/df754a29d09b317a06b6af444ccd2865/___________.webp?Expires=1772945750&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TRP62KV5hnw3B3eUN18UWmd2DB2fMDoPpFZQ7wCSqDvBwPTBpMg0dtKwtVceIpUV7yOQkoiCKYXmtR8%2F7psYgepA%2FYyKmKBxRi7JJLzBL175ezhuQvgBJJh2yUsAe8F5JbBo3bUX2%2BpBnCHNJIlIJtuQBPyit6EwMrVQmzJK4vw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4115673915%2Fdf754a29d09b317a06b6af444ccd2865%2F___________.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4115673915/df754a29d09b317a06b6af444ccd2865/___________.webp?Expires=1772949236&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2pl5ngozXwp11SARK2yIjeKZKlUKkaOT608v5iLgwoD1W3SF5C1kq96KQHxf7wW8j4tiGT7EeaaaUplOkm5oSA9OPINs7JwNiEhe2DU0nVyIHhwYg3ZvThE2Bn4Kg8jyEdssb0kypxtrnu65a9axfy6bVT9IpUxfv0SbPC6R8JU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4115673915%2Fdf754a29d09b317a06b6af444ccd2865%2F___________.webp)
 
 #### Comments (1)
 - **氷空🌌🧹🌠⚝神⚝‎⋆☾·̩͙꙳** (Jan 06, 2026 12:04am): やめぃ
@@ -246,7 +246,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 2. 和田さん！頑張って٩( ᐛ )و
 **Author:** 一期一会 （顧問） (user_japan)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/944057979471ef0a42536dc7b60ff0c0/IMG_1555.jpeg?Expires=1772945750&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Rof3oz4G%2BIkzg9qNHAVGmFJRpvddPrUaTWup3OUmtDVjcf05t9R%2BaEpKSBvWjrVzhzSW226v%2B%2FAu70iXj708ald8tXL4Ofn8Acl4qLui01W7DaWFKsZY2HE2cK83B5U2%2F2qdUFl5448a%2BiMxG2RsqFZIPiJaVU%2Fw3sI%2FGci4%2F%2Bg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2F944057979471ef0a42536dc7b60ff0c0%2FIMG_1555.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/944057979471ef0a42536dc7b60ff0c0/IMG_1555.jpeg?Expires=1772949236&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ydCpVNsekOsTRDp1U7DWy%2BfAPWZuQniuyh80kYrJf%2FyylBgx6QMYCx%2B69iUvMpBUPdGAdY81JGVzNdDILLfVn5WOKXHVXHYXcZ92LyNge0NvMZF8S5bCmaRpC8JwSS9J7BZ74ir%2FqJY24M%2BIrdTkuhP3qTLT0gFua08%2FiwL2gCc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2F944057979471ef0a42536dc7b60ff0c0%2FIMG_1555.jpeg)
 
 #### Additional Information
 - **Post color:** White
@@ -353,7 +353,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 10. ﾌｧｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱ
 **Author:** 琥珀 (Kohaku_0301)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4115673915/33ab715d392b93a2f0b332d888321a40/_____________.jfif?Expires=1772945750&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GtBwYJP4Ln7OcoOiiv59BPjQK9hhskFOAJTQE6EUqQMecQDYeYKzkXdhQUNw0EG%2FJfjmLSMW18E2hCMtE7SFdU5K%2BoNJerWmIplgxUsbzGKPMskIiPklcqrnd1DzTHpQbdlYnUxvmMrkh%2BNP9R%2FtCGfkuXEnZXhEbR%2F6rkalxw8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4115673915%2F33ab715d392b93a2f0b332d888321a40%2F_____________.jfif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4115673915/33ab715d392b93a2f0b332d888321a40/_____________.jfif?Expires=1772949236&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Wfn21D6UihuKV2kFl3SWptINe62Jv0EJ%2FwHGxdrotNjTa3NscQtfrAV6q9tO4eH7zJ0m%2FI42T%2BmkBxkOdVNLogllwBP0b5zIR%2BPBsdgsh3yt%2FjwPlmqH0f87IEoeyFPxZh0ZVLzx2ZLw7JmQYmZmqkpE6zGYeGDiBiXwHJcfRHY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4115673915%2F33ab715d392b93a2f0b332d888321a40%2F_____________.jfif)
 
 #### Additional Information
 - **Post color:** White
@@ -365,7 +365,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ### 11. 思想全部入ってるのえぐい
 **Author:** 一期一会 （顧問） (user_japan)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/13d0b8c26276727aea86ee0b84529e6f/IMG_1445.jpeg?Expires=1772945750&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hjE8mrEFva07JMSeuV%2B0lRmqp15kwwfyHbAzKO3qVretaYQ2Ozbgq%2Bd7GXKc9WGiyVXFlDUKaP2WHZsyZskBl6V9HRmjyxKJxA0Hcws7N9GIweE5KQQDlLRmdtUkVRCHNP2YRBPuwS802Vz14%2BJ48f%2B3TZHRWhfNv28m1%2FMepOU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2F13d0b8c26276727aea86ee0b84529e6f%2FIMG_1445.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3216067568/13d0b8c26276727aea86ee0b84529e6f/IMG_1445.jpeg?Expires=1772949236&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=a8Y1W1Dme8argNbortZXmVCq0Or1MfMv29YMyP%2Fn6TgEo9NHkYAnd8OlMrWPSQj5015d1IFr6FBYTE9NJc1sEg8WRoKfo6SttJkmPufaAqWr1z1v0FDTR6NE3tJcjZhG0neVDLe7fRbKk5fHiRFbtjSIkA49Lidx3TtDnb6pXhk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3216067568%2F13d0b8c26276727aea86ee0b84529e6f%2FIMG_1445.jpeg)
 
 #### Additional Information
 - **Post color:** White
