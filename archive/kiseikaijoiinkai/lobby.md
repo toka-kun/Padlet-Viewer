@@ -1,4 +1,4 @@
-最終更新: 2026/03/01 18:32:18
+最終更新: 2026/03/01 19:27:17
 
 # 規制解除委員会(臨時本部)
 
@@ -135,7 +135,7 @@
 
 <p>とるっぷいが何者かによってBANされた！！！だから、とるっぷいが維持してた規制解除委員会本部部屋やVIP部屋が消えました！！なので、とるっぷい復帰まではここが臨時本部になるんやで。ってことでとるっぷい復帰までは何かあったらいときち(俺)or中居正広に行ってクレメンス。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1772962337&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Khlan73NnOfbIaFR5gwGCcnaOfHC%2BrWHNl2j30sWTNftcyhrAyTlRpd0B34slKvqZylqMVJ6Z08dk73%2FyNHj6R%2Fo1IQzOK0rKGkPpUArnmV2zpBYiadWR2a6KmNj2Q8XMyBJc17%2FoaiJmGPSjyUBXNXRNU9c72RTIzUKi%2Bswgkk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1772965636&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eTQdQJX%2BsXwUVtWv8Sm2EARcT6DsIoXVeoZyvS%2BHBO46REvHZzKl0KY8%2F7iCANMm7ys9qDERbLfwUL7iRZCBwa42%2FfIcUZXOSaY1ldG8qWjGdn%2FgUlA5xNOQBMgP27MvYIcBH10alNa9KFE4uoPoaeIVQBcaU1entTr80STzTKM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
 
 #### Comments (3)
 - **中居** (Jan 09, 2026 11:54am): かなちい
@@ -180,7 +180,7 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1772962337&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lwbo69E5wuVfxku%2Fi4U7VqS4JtCcHsLWhRw%2BBNxdc941Dflz%2BMNyAqOAHjXeOEr4fEauzp327yg%2BUKOq1%2FEESV%2B2N6R5TSEid3sapGaEw%2F2eOIlfuNyxVg6TUD9GEgh3D4dmvdrOvGM9UH%2BkeCGBBGRT62WFgVTEZSYY%2FGVWViM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1772965636&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=g9kNt4TVqZ4G63ytZMCZn1qDYqH5dmuvKNkcKKqYBKSNMqmIE0SHRdixshb4WgJqnz2bsj4qFK1sOxNFntwxPq7%2BGgh5%2BaGQp2ewDvKuCeZVvSFBfbfOKRH%2FwJGugbEUalFeI0nLCwRCIyd3gP7JP1VRpEqM90YU1%2BTkLQ3dgPY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Comments (1)
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 07, 2026 05:36am): suk
@@ -200,7 +200,7 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1772962337&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4aySUJIVQh85Hzkhmos9efpXwfKPhpz%2FRI6zJrUM7vVhxL7EYToFJjjNmLd2uIEcQmBn8gkMQCTYbfoIUNIbLiiryGyNPBclTyurisB9yo%2BZ6i%2BPEt1xOqJnFGFZ7dOxZi7gqDs%2BS3iAqempFcJw7QfMrRALYCkde7sZrlaLT3I%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1772965636&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2wUPTSEX5MWV7sW25NFuiwTc3tzjmZjgQ9MR1BDfkE94kgHYWqzXXw8jnw5kaMV4DjmjHXT1stHXHGZEjAN0AkJ2LUST0KoYtxMs9P4G4nq%2B%2BBRul%2BJsOA71caYjS%2BYsy1PHFn4DqewuT1dyoA5%2BHQ5DS5bmwEPj57SUefP%2B7YU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Comments (7)
 - **う〇こガンミ委員会** (Feb 06, 2026 06:03am): https://script.google.com/a/macros/chuo-tky.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
@@ -276,7 +276,7 @@
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 #### Comments (2)
-- **さなでぇす（元はここあ）** (Feb 08, 2026 12:37pm): はあい
+- **さなでぇす#元はここあ#花粉症撲滅委員会委員長** (Feb 08, 2026 12:37pm): はあい
 - **荒らし** (Mar 01, 2026 03:48am): [Attachment](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl/wish/R7dXad9wA245Q6bl) 
 
 #### Additional Information
@@ -456,7 +456,7 @@
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 08, 2026 02:05am): エロもあるしわかめもあるししあもある
 - **Supportive Hornet** (Feb 08, 2026 07:01am): [Attachment](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl/wish/mlNDZ3Dw8MP1WznG) でもログインしてこれのせいで見れません
 - **Supportive Hornet** (Feb 08, 2026 07:02am): 学タブはログインしたら通知いきますか?
-- **さなでぇす（元はここあ）** (Feb 09, 2026 02:54am): くるよ
+- **さなでぇす#元はここあ#花粉症撲滅委員会委員長** (Feb 09, 2026 02:54am): くるよ
 - **猗窩座** (Feb 16, 2026 02:34pm): ここあさんでしこりたいです
 - **うわーぉ** (Feb 18, 2026 09:39am): ガチか
 - **Hopeful Catfish** (Feb 21, 2026 08:22am): 見方教えて
@@ -735,7 +735,7 @@
 - **Secretive Flamingo** (Jan 14, 2026 12:41pm): チンこ食べたい 
 - **Unique Reindeer** (Feb 07, 2026 02:15pm): それな
 - **オオカワヒロト** (Feb 16, 2026 07:28am): おまんこ
-- **さなでぇす（元はここあ）** (Feb 19, 2026 10:36pm): ↑ヤバい奴しかいなくて草w
+- **さなでぇす#元はここあ#花粉症撲滅委員会委員長** (Feb 19, 2026 10:36pm): ↑ヤバい奴しかいなくて草w
 - **Whimsical Reindeer** (Feb 21, 2026 08:46am): ココアさん可愛すぎて今シコってます
 - **は⭐︎な⭐︎せ⭐︎** (Feb 22, 2026 07:18am): それセ⭐︎ク⭐︎ハ⭐︎ラ
 - **Ado最推し** (Feb 23, 2026 12:44pm): サイコー😃
@@ -883,7 +883,7 @@
 
 <p>えぐいてえええええええ</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1772962338&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=T3r6zYiR23fkxudIN4KwYBWsTnZXTzt1%2B897KdgRzqW17%2FvrgVPlbyVB2uxSA%2BmV2x9gIpGWyhUs9ncaV%2FwUzoFqsViE58cAt%2BZEpjmn25pjcVVdppX5saGtIFk97l%2BfhG3LAQdFuuC83EsnITGgGoiyFU%2BDZaaCK38LxbX6STc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1772965636&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CdltpvxNr8%2FL1S2nkhaJfbxrCtgva5ty5D3%2Bwr%2FJ2pHjAawUbLzABluu1Ldt2fM5W9gb5JGQWX2Tjxzoa8hxrf6bXS4%2BNV18En128joxRyo6Kmz5mwSGSl5g74yjvabKiWy1OjR6BymR%2BET7W%2Bh%2BeEmbQfpFaU%2BAUuF3LVHrjGM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
 
 #### Comments (3)
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Oct 18, 2025 08:27am): うぉぉぉぉ
@@ -1019,7 +1019,7 @@
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 #### Comments (1)
-- **さなでぇす（元はここあ）** (Feb 08, 2026 01:34pm): なにが
+- **さなでぇす#元はここあ#花粉症撲滅委員会委員長** (Feb 08, 2026 01:34pm): なにが
 
 #### Additional Information
 - **Created At (UTC):** Feb 08, 2026 01:20pm
@@ -1031,12 +1031,12 @@
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 #### Comments (13)
-- **さなでぇす（元はここあ）** (Feb 08, 2026 12:36pm): はあい
+- **さなでぇす#元はここあ#花粉症撲滅委員会委員長** (Feb 08, 2026 12:36pm): はあい
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 08, 2026 12:37pm): いた
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 08, 2026 12:37pm): ↓の入れる？
-- **さなでぇす（元はここあ）** (Feb 08, 2026 12:38pm): 画像を出します（これはうちの顔だからね？）
+- **さなでぇす#元はここあ#花粉症撲滅委員会委員長** (Feb 08, 2026 12:38pm): 画像を出します（これはうちの顔だからね？）
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 08, 2026 12:38pm): 下のやつ入って
-- **さなでぇす（元はここあ）** (Feb 08, 2026 12:39pm): はい
+- **さなでぇす#元はここあ#花粉症撲滅委員会委員長** (Feb 08, 2026 12:39pm): はい
 - **猗窩座** (Feb 16, 2026 02:30pm): 僕も入れてください
 - **猗窩座** (Feb 16, 2026 02:30pm): ここあさんの顔見たいです
 - **猗窩座** (Feb 24, 2026 12:38pm): [Attachment](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl/wish/4b3zaM0ge851W2j7) 
