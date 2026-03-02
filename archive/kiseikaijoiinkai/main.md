@@ -1,24 +1,37 @@
-最終更新: 2026/03/01 21:52:22
+最終更新: 2026/03/02 19:45:35
 
 # 規制解除委員会(本部)
+
+#規制解除#わかめtube#とるっぷい#しあtube
 
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
-- **Posts:** 20
+- **Posts:** 21
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Mar 01, 2026 11:50am
+- **Updated At (UTC):** Mar 02, 2026 10:42am
 
 ## 読んどいて(о´∀`о)
 
 ### 1. この部屋について
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
-<p>・この部屋は基本的に更新時に規制がかかっている物を消すということはないです(めんd)</p><p>・この部屋の物は最新の物に規制がかかっていない物が多いです。</p><p>・古い物は上、新しい物は下です。</p><p>・この部屋にあるわかめは基本転載した物です(許可取得済み)</p><p>・頑張ろうー‼︎</p><p>・フォローしてえ</p><p><br/></p>
+<p>・この部屋は基本的に更新時に規制がかかっている物を消すということはないです(めんd)</p><p>・この部屋の物は最新の物に規制がかかっていない物が多いです。</p><p>・古い物は上、新しい物は下です。</p><p>・この部屋にあるわかめは基本転載した物です(許可取得済み)</p><p>・頑張ろうー‼︎</p><p>・フォローしてね</p><p><br/></p>
 
 #### Additional Information
 - **Created At (UTC):** Jan 20, 2026 10:52am
-- **Updated At (UTC):** Feb 28, 2026 11:42am
+- **Updated At (UTC):** Mar 02, 2026 10:33am
+
+---
+
+## That's 団
+
+### 1. 坐津弾
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
+
+#### Additional Information
+- **Created At (UTC):** Mar 02, 2026 10:36am
+- **Updated At (UTC):** Mar 02, 2026 10:36am
 
 ---
 
@@ -227,15 +240,15 @@
 
 ---
 
-## 漫画
+## えっどい部屋
 
-### 1. Post 1
+### 1. エロ部屋
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
-[Attachment 1](https://dbook.docomo.ne.jp)
+[Attachment 1](https://padlet.com/TORI_TORI2/padlet-x4m4slyapfp7i8z8)
 
 #### Additional Information
-- **Created At (UTC):** Jan 09, 2026 07:05am
-- **Updated At (UTC):** Jan 09, 2026 07:05am
+- **Created At (UTC):** Mar 02, 2026 10:42am
+- **Updated At (UTC):** Mar 02, 2026 10:42am
 
 ---
