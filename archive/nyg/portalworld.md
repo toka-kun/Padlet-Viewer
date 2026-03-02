@@ -1,4 +1,4 @@
-最終更新: 2026/03/02 11:11:37
+最終更新: 2026/03/02 13:48:56
 
 # Padletポータルワールド
 
@@ -595,7 +595,7 @@
 ---
 
 ### 23. SHELLのための部屋
-**Author:** はうげん (GreenMile)
+**Author:** 猿御之上事 (GreenMile)
 
 <p>SHELLという卵の戦闘系ゲーム</p><p>についてとことん話す部屋です。</p><p><br/></p>
 
@@ -2063,7 +2063,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773022297&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WkPWIEwOeDDswDuT%2F%2FnAaVErpHQZirhDtdmpeCtzHIyeiD7gd87SgWF40lYMZ%2FQTZMNkl4GORmKs%2BItPAEwcD0NZAiOZvPBa6YX64yb08mTNhaPt%2BXSlPDqTOS%2B8mesxLASMBnJP3FbcUyKYssSQXTihw9MWIcJBZ6tg6DeG0mk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773031736&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Ir6cjauUixJ%2BFerNIiGjZQMUAugVwVfO%2F3kqn%2F%2F4r4W76%2BgeKlmLfIzw3QfhSEV%2F2RqJWaIU2WDm%2B%2F7wZ38JlNsf39%2BcdEJjpGX9aQLtql0X6z0YWc%2FMClepn42UgeixrJFJ%2BTyJuITBUsHPVY4RBXSvGm8MyYH3U6rGQSYslG8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
