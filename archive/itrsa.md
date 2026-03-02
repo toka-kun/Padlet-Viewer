@@ -1,4 +1,4 @@
-最終更新: 2026/03/02 19:45:56
+最終更新: 2026/03/02 20:34:06
 
 # ITRSA本部
 
@@ -9,7 +9,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 - **Builder:** ♔柴犬の王子様♔@行政 (shibainu_ouji)
 - **Posts:** 16
 - **Created At (UTC):** Nov 25, 2025 09:01am
-- **Updated At (UTC):** Mar 02, 2026 10:40am
+- **Updated At (UTC):** Mar 02, 2026 10:50am
 
 ## お知らせ
 
