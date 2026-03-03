@@ -1,4 +1,4 @@
-最終更新: 2026/03/02 20:34:06
+最終更新: 2026/03/03 22:01:50
 
 # ITRSA本部
 
@@ -7,9 +7,9 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 ## Summary
 - **Link:** https://padlet.com/shibainu_ouji/itrsa-kulz2hpe9vtrxep4
 - **Builder:** ♔柴犬の王子様♔@行政 (shibainu_ouji)
-- **Posts:** 16
+- **Posts:** 18
 - **Created At (UTC):** Nov 25, 2025 09:01am
-- **Updated At (UTC):** Mar 02, 2026 10:50am
+- **Updated At (UTC):** Mar 03, 2026 11:48am
 
 ## お知らせ
 
@@ -46,7 +46,17 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ## 雑談
 
-### 1. イランおわった
+### 1. うぉ
+**Author:** 一期一会 （顧問） (user_japan)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 03, 2026 11:48am
+- **Updated At (UTC):** Mar 03, 2026 11:48am
+
+---
+
+### 2. イランおわった
 **Author:** 一期一会 （顧問） (user_japan)
 
 #### Additional Information
@@ -56,7 +66,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 2. ^ ^
+### 3. ^ ^
 **Author:** 一期一会 （顧問） (user_japan)
 
 #### Additional Information
@@ -68,7 +78,17 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ## 雑談
 
-### 1. 今日の一言
+### 1. えっ
+**Author:** 一期一会 （顧問） (user_japan)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 03, 2026 11:48am
+- **Updated At (UTC):** Mar 03, 2026 11:48am
+
+---
+
+### 2. 今日の一言
 **Author:** 一期一会 （顧問） (user_japan)
 
 <p>花粉えぐい</p>
@@ -80,7 +100,7 @@ https://writening.net/page?jDVZhL     柴犬さん、いろいろと変えてし
 
 ---
 
-### 2. んぁー！！
+### 3. んぁー！！
 **Author:** 一期一会 （顧問） (user_japan)
 
 #### Additional Information
