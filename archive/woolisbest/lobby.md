@@ -1,4 +1,4 @@
-最終更新: 2026/03/03 16:43:19
+最終更新: 2026/03/03 18:43:28
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 02, 2026 12:06am
+- **Updated At (UTC):** Mar 03, 2026 09:03am
 
 ## 受付
 
@@ -64,7 +64,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (38)
+#### Comments (39)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -103,6 +103,7 @@
 - **yukkuto** (Feb 26, 2026 10:55pm): 助けて
 - **kuma** (Feb 27, 2026 08:19am): いれて
 - **スイクン（メガリザX）** (Feb 28, 2026 07:54am): 僕はいつになったら入れてもらえるの？
+- **コネコネうーさー＃繧ｳ繝阪さ繝阪≧繝ｼ縺輔?** (Mar 03, 2026 09:03am): いるぇて
 
 #### Additional Information
 - **Post color:** Red
@@ -118,7 +119,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (24)
+#### Comments (25)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -143,6 +144,7 @@
 - **yukkuto** (Feb 27, 2026 01:46am): はい
 - **シャドレク** (Feb 28, 2026 03:11am): https://padlet.com/Natsu_Tsubakiこいつも
 - **YYYYYYYYYYY** (Mar 02, 2026 12:06am): フォローした
+- **コネコネうーさー＃繧ｳ繝阪さ繝阪≧繝ｼ縺輔?** (Mar 03, 2026 09:02am): しました
 
 #### Additional Information
 - **Post color:** Red
