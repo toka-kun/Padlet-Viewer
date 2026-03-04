@@ -1,4 +1,4 @@
-最終更新: 2026/03/04 17:41:12
+最終更新: 2026/03/04 23:02:28
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 04, 2026 08:13am
+- **Updated At (UTC):** Mar 04, 2026 01:21pm
 
 ## 受付
 
@@ -68,7 +68,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (39)
+#### Comments (40)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -108,6 +108,7 @@
 - **kuma** (Feb 27, 2026 08:19am): いれて
 - **スイクン（メガリザX）** (Feb 28, 2026 07:54am): 僕はいつになったら入れてもらえるの？
 - **コネコネうーさー＃繧ｳ繝阪さ繝阪≧繝ｼ縺輔?＃うさぎ信仰一代目教祖** (Mar 03, 2026 09:03am): いるぇて
+- **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 04, 2026 01:21pm): メアド
 
 #### Additional Information
 - **Post color:** Red
@@ -123,7 +124,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (25)
+#### Comments (27)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -149,6 +150,8 @@
 - **シャドレク** (Feb 28, 2026 03:11am): https://padlet.com/Natsu_Tsubakiこいつも
 - **YR|yumi** (Mar 02, 2026 12:06am): フォローした
 - **コネコネうーさー＃繧ｳ繝阪さ繝阪≧繝ｼ縺輔?＃うさぎ信仰一代目教祖** (Mar 03, 2026 09:02am): しました
+- **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 04, 2026 01:21pm): ok
+- **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 04, 2026 01:21pm): メアド
 
 #### Additional Information
 - **Post color:** Red
@@ -196,7 +199,7 @@
 
 [Attachment 1](https://padlet.com/sakuramoti_modori/home)
 
-#### Comments (16)
+#### Comments (17)
 - **さくらもち** (Feb 02, 2026 12:01pm): わー
 - **全ての部屋にコメントする** (Feb 11, 2026 12:56pm): ( ｀・∀・´)ﾉﾖﾛｼｸ
 - **ピカマン#究極のさくらもちの従僕** (Feb 17, 2026 11:57am): 今荒らされてる
@@ -213,6 +216,7 @@
 - **なんかいも乗っ取られるピカマン（パソコンで打ちました）** (Feb 22, 2026 04:59am): 誰か助けて。ピカマン垢は完全にのっとられたし、ライマン垢はけされちまったどうしよう。【だれかアカウントいただけませんか）
 - **なんかいも乗っ取られるピカマン（パソコンで打ちました）** (Feb 22, 2026 04:59am): 自分はwoolisｂＥｓｔのへやのミートをもっているのでミートにいるときここにこめんとします。
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 27, 2026 12:19am): パスワードが弱いんじゃ
+- **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 04, 2026 01:22pm): ｗ
 
 #### Additional Information
 - **Post color:** Blue
