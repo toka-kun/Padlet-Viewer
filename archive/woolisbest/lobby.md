@@ -1,4 +1,4 @@
-最終更新: 2026/03/04 23:02:28
+最終更新: 2026/03/05 11:10:50
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 04, 2026 01:21pm
+- **Updated At (UTC):** Mar 05, 2026 01:34am
 
 ## 受付
 
@@ -68,7 +68,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (40)
+#### Comments (43)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -109,6 +109,9 @@
 - **スイクン（メガリザX）** (Feb 28, 2026 07:54am): 僕はいつになったら入れてもらえるの？
 - **コネコネうーさー＃繧ｳ繝阪さ繝阪≧繝ｼ縺輔?＃うさぎ信仰一代目教祖** (Mar 03, 2026 09:03am): いるぇて
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 04, 2026 01:21pm): メアド
+- **入れ子構造** (Mar 04, 2026 11:35pm): メアドがないけど入れて
+- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 05, 2026 01:34am): 設定で見れる
+- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 05, 2026 01:34am): メアド
 
 #### Additional Information
 - **Post color:** Red
