@@ -1,4 +1,4 @@
-最終更新: 2026/03/04 20:32:25
+最終更新: 2026/03/05 13:45:50
 
 # 規制解除委員会(本部)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
-- **Posts:** 21
+- **Posts:** 20
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Mar 04, 2026 11:16am
+- **Updated At (UTC):** Mar 05, 2026 02:44am
 
 ## 読んどいて(о´∀`о)
 
@@ -241,18 +241,5 @@
 #### Additional Information
 - **Created At (UTC):** Feb 28, 2026 11:45am
 - **Updated At (UTC):** Feb 28, 2026 11:45am
-
----
-
-## えっどい部屋
-
-### 1. エロ部屋
-**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
-
-[Attachment 1](https://padlet.com/TORI_TORI2/padlet-x4m4slyapfp7i8z8)
-
-#### Additional Information
-- **Created At (UTC):** Mar 02, 2026 10:42am
-- **Updated At (UTC):** Mar 02, 2026 10:42am
 
 ---
