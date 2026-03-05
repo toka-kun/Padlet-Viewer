@@ -1,4 +1,4 @@
-最終更新: 2026/03/06 05:39:30
+最終更新: 2026/03/06 06:38:00
 
 # proxyなど教える会
 
@@ -9,7 +9,7 @@ proxyサイトなどを共有しましょう
 - **Builder:** 仙人@suger (xianrendesu)
 - **Posts:** 228
 - **Created At (UTC):** Jun 04, 2025 08:02am
-- **Updated At (UTC):** Mar 05, 2026 03:11pm
+- **Updated At (UTC):** Mar 05, 2026 09:23pm
 
 ## 概要
 
@@ -215,7 +215,7 @@ proxyサイトなどを共有しましょう
 ### 10. こんちは。
 **Author:** 三角定規 (s19200050)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2685141561/c4c89fb4cccb679ad5a1c25e597d158f/channels4_profile.jpg?Expires=1773347969&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=O3nwPBb1OdcFw73H6ymJvtT2AY3No3d5HWqDMsmbI3VEMMCxTGJJ3rHYYsQIHxnmmArp4BLDVUnNfgKgmQTQMrfuhKmAhAIT1HCObOhbM%2BglpRm05gTc%2FcSkbBcozlDxCYYnd6u72%2BmJeqC1okrmThsB55HamcI1CfTvYJzunXQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2685141561%2Fc4c89fb4cccb679ad5a1c25e597d158f%2Fchannels4_profile.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2685141561/c4c89fb4cccb679ad5a1c25e597d158f/channels4_profile.jpg?Expires=1773351478&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ngBcxHLe1DAmIPdopER4AbKOimHJnLle5dSZgr5T2i%2Fhvz45RnfdRgB0bbEVaquMKpxgfVYE1AgS1zRnrM4F9%2BWAH4ZhBYq8PrU2GO83ULu3N4o%2FVOW%2BqI2HOdwMDp2WGQXSUbhL%2BsqmiSZ3Zmlucwso7%2B46zQz4aNU%2FeMddYWg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2685141561%2Fc4c89fb4cccb679ad5a1c25e597d158f%2Fchannels4_profile.jpg)
 
 #### Additional Information
 - **Post color:** White
@@ -459,7 +459,7 @@ proxyサイトなどを共有しましょう
 ---
 
 ### 27. 遅れました新規です。
-**Author:** 入れ子構造 (ireko_kozo)
+**Author:** 入れ子＿構造 (ireko_kozo)
 
 <p>僕もプロキシ情報をできるだけ提供していく。</p>
 
@@ -772,7 +772,7 @@ proxyサイトなどを共有しましょう
 ### 45. AIEGG
 **Author:** 荒らしたい気分
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4028989195/1afef90ae0cdcafa4911d6feb9c638ac/9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3?Expires=1773347969&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PuFbNWRQNH6E11ESl%2FlYJ7c1UkbK74o2ouvrJRB%2Bykc8iwzlIwRMLOiUP4lY7b0LPR6tPIaaiDGhVe1H5F12nqCPrrtmI6DIht701qiai%2FhLa2kj%2BxcUKexnIjqWFg7inqM3Tzt9YTA%2BZFTEHxoeCa5J1VvZ4QyoMIqrUIc26Kc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4028989195%2F1afef90ae0cdcafa4911d6feb9c638ac%2F9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4028989195/1afef90ae0cdcafa4911d6feb9c638ac/9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3?Expires=1773351478&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MP4av1to2K1Oftnpuk94tEs5gOW2yUYLTM%2Fpa9VB%2BRQD8ipPN1PflLStKyRc1bzoUKjIQi9F%2FLbbZiTiNwqUuVxgCQ2e7R4m11KNTsMY0qLs2hDmM9HGXa1zGeo3Z4xxmD9i25b%2FTDY53QkHkX8S4JOEPFh7bMVSvXxdU3oVH2c%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4028989195%2F1afef90ae0cdcafa4911d6feb9c638ac%2F9ecb0ae6_bc59_476f_bda0_d99cd1ce7b2c.mp3)
 
 #### Additional Information
 - **Post color:** White
@@ -1067,7 +1067,7 @@ proxyサイトなどを共有しましょう
 
 <p><em>ヒロアカが好きです</em></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4953574738/534625dfa9fb4e5d460fda2319aee41d/images__2_.jpeg?Expires=1773347969&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=A6jXDQaJ07W3ZuOnmmp3JzuDAS7VbYzL6%2FN8eCLBsraX9qfjy70sbmT1cReTtqY8T2hdDV%2B%2B5C87WjefMpQvgQjBhZL4aZ7B02md%2Fn1C6DTp7UDIzyoMXdCyNuf7Ar10o%2FHkMo4QT22O%2F2OY1gA4xhl%2BIcY0wry4B%2FHK5DeiD70%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4953574738%2F534625dfa9fb4e5d460fda2319aee41d%2Fimages__2_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4953574738/534625dfa9fb4e5d460fda2319aee41d/images__2_.jpeg?Expires=1773351479&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=H3xxCVpMgUXQUPBOEz2JhVfSmterA0RakdS33wc8ThOGzm8xoJPiuvWn%2FOiAKIZKferXN%2BfZ0G394GoawyEEWFWS0xYRSlb6nKM2k8sU6Ow5eMz1A33VFihiiBqGbNLjs5imPamseKqTtxrXdhdizsSJBaXNchuTb25igAobVn0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4953574738%2F534625dfa9fb4e5d460fda2319aee41d%2Fimages__2_.jpeg)
 
 #### Comments (1)
 - **仙人@suger** (Dec 26, 2025 12:23am): こんにちは!
@@ -1229,10 +1229,10 @@ proxyサイトなどを共有しましょう
 
 <p>誰か教えて</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5246336716/704ccd04d6f11cf09e33693c21f5d64e/Screenshot_2026_03_02_12_34_05.png?Expires=1773347969&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5pkvNWFb44QIJ5D4EVoQh4Qo3871fAlD4sXEfxlFUcPAkGlA2BDEXmG7JdqXf1ZzwPJj4r2z%2BF9q1YmA1HdATqVgokTIHMTwj8iWYLYA5RNcQTyZQ0fLPi%2BmImGbJ425%2BIVxLqpKlVwUFuYgZsdEnvb4ggncUlUwcIyAYIZvZdU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5246336716%2F704ccd04d6f11cf09e33693c21f5d64e%2FScreenshot_2026_03_02_12_34_05.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5246336716/704ccd04d6f11cf09e33693c21f5d64e/Screenshot_2026_03_02_12_34_05.png?Expires=1773351479&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DZT5gKxCj8rAg6dvTaA4Qa1l7LUwENwGDhnH%2FQe5hVIIYR05AEUuFgehLSDFksy%2BaX%2Fdk1CYiHqEDjfafhYcS95p5ZYFY2Uclxw4McwI0EkOqYMK0w9SMlEUyxpMSLJjOucZYXC5QlDA%2BHoLX%2FqzS%2BCUIPGeS3SxBVRd6YwkS%2BI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5246336716%2F704ccd04d6f11cf09e33693c21f5d64e%2FScreenshot_2026_03_02_12_34_05.png)
 
 #### Comments (1)
-- **入れ子構造** (Mar 03, 2026 10:27am): 質問とか雑談の列のほうで投稿したら誰か教えてくれると思います。
+- **入れ子＿構造** (Mar 03, 2026 10:27am): 質問とか雑談の列のほうで投稿したら誰か教えてくれると思います。
 
 #### Reactions
 - **Number of likes:** 1
@@ -1250,7 +1250,7 @@ proxyサイトなどを共有しましょう
 **Author:** さく
 
 #### Comments (1)
-- **入れ子構造** (Mar 03, 2026 11:44pm): https://www.concerthotels.com/got-rhythm リズム感診断　https://notesmasher.netlify.app/ 音のない音ゲー　これしかなかった
+- **入れ子＿構造** (Mar 03, 2026 11:44pm): https://www.concerthotels.com/got-rhythm リズム感診断　https://notesmasher.netlify.app/ 音のない音ゲー　これしかなかった
 
 #### Additional Information
 - **Post color:** White
@@ -1276,7 +1276,7 @@ proxyサイトなどを共有しましょう
 **Author:** はるちゃん
 
 #### Comments (1)
-- **入れ子構造** (Mar 03, 2026 07:22am): https://patatap.com/ 音楽ゲー
+- **入れ子＿構造** (Mar 03, 2026 07:22am): https://patatap.com/ 音楽ゲー
 
 #### Additional Information
 - **Post color:** White
@@ -1288,10 +1288,11 @@ proxyサイトなどを共有しましょう
 ### 4. 誰か学校のタブレットで桃鉄をしたいです教えてください！！
 **Author:** れん
 
-#### Comments (3)
-- **入れ子構造** (Mar 03, 2026 07:21am): https://momo-edu.konami.net/ パスワードは3420 1826
+#### Comments (4)
+- **入れ子＿構造** (Mar 03, 2026 07:21am): https://momo-edu.konami.net/ パスワードは3420 1826
 - **えみとー** (Mar 04, 2026 11:42pm): 入れ子構造さんへ
 - **えみとー** (Mar 04, 2026 11:43pm): パスコードが有効時間外でした
+- **入れ子＿構造** (Mar 05, 2026 09:23pm): あ…はい
 
 #### Reactions
 - **Number of likes:** 1
@@ -1321,7 +1322,7 @@ proxyサイトなどを共有しましょう
 **Author:** Kind Peacock
 
 #### Comments (3)
-- **入れ子構造** (Mar 02, 2026 09:29am): これはどうかなhttps://www.ferryhalim.com/orisinal/
+- **入れ子＿構造** (Mar 02, 2026 09:29am): これはどうかなhttps://www.ferryhalim.com/orisinal/
 - **Courageous Octopus** (Mar 02, 2026 12:39pm): ありがとうございます。
 - **Enthusiastic Otter** (Mar 04, 2026 08:44am): 規制
 
@@ -1343,15 +1344,15 @@ proxyサイトなどを共有しましょう
 ---
 
 ### 8. 僕だけ仙人のX風サイトが使えない
-**Author:** 入れ子構造 (ireko_kozo)
+**Author:** 入れ子＿構造 (ireko_kozo)
 
 <p>仙人さんが作った<a rel="noopener noreferrer nofollow" href="https://xtest-dvhl.onrender.com/">X風掲示板サイト</a>で僕のアカウントが使えなくなりました。再起動してもデータ消しても投稿ができないし他の投稿や自分のプロフィールなども見れません。プロキシで入れましたが他の人達は普通に使えてるようです。原因はわかりますか？見れないときに「初期化に失敗しました」というメッセージが出ました。心当たりは無いです…</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5146326471/d22573bd868b0e897214ab819b7ba205/____.webm?Expires=1773347969&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jTjpVQEYO82vlqhe%2FGTfiuHQyq4k10ul53WdoQyjDQQZJhnb38mvbXT4BsCHeo4oOZ1npmskYw6R6H9GIu%2B9kbpLzhXPXhtyzLEsbF0mjIB9O%2BQWO%2BT2k7cptW2pyC%2F3Mv46r2%2FCTcXukHTTnGytaVi7JkmkIsW%2FxABQZUOYdjE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5146326471%2Fd22573bd868b0e897214ab819b7ba205%2F____.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5146326471/d22573bd868b0e897214ab819b7ba205/____.webm?Expires=1773351479&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GhC%2BMC9zzdpu8sGOFrUXEa%2BhtCeYhJ2m%2FX%2FK4oXo5VQQXCf76C%2F94ycfisOsAde7%2Fuk20YTXA83flDk3xbSieOfi3mjP13SBDANb%2FEZjCTFqZukdnEon9FINFsyHNw%2FBxpbgzWnUGKE7A3rXrg5I5e24m1cxTNbPaCUWS2Nc2GE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5146326471%2Fd22573bd868b0e897214ab819b7ba205%2F____.webm)
 
 #### Comments (3)
 - **仙人@suger** (Feb 23, 2026 03:10am): たぶんセキュリティ引っ掛かったかもしれない
-- **入れ子構造** (Feb 23, 2026 06:58am): そんな中途半端にブロされることってあるんだ…
+- **入れ子＿構造** (Feb 23, 2026 06:58am): そんな中途半端にブロされることってあるんだ…
 - **仙人@suger** (Feb 23, 2026 10:46am): 端末変えればたぶん行ける
 
 #### Additional Information
@@ -1366,7 +1367,7 @@ proxyサイトなどを共有しましょう
 
 <p>アイコンの周りのヤツなんだこれ</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3821722678/d9a4caa13df14cc54f60307564d40262/IMG_3710.jpeg?Expires=1773347969&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4q8qeI1hFlDS8vS1dGcFHME%2FOZZfm0rRLvXRtKn4ORD6fvnSGVTfU9zGu1UGEUdlAzgmSPbcqAoK0bP%2BYWtI2teMgo18e%2BnYSIb5a%2BKa3Gs4R5GRzwme9jI%2FY61J7gkg5LOw9xzfveTDMn83dUOxWgzLJzM4bykBcH%2F1mUAfliI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3821722678%2Fd9a4caa13df14cc54f60307564d40262%2FIMG_3710.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3821722678/d9a4caa13df14cc54f60307564d40262/IMG_3710.jpeg?Expires=1773351479&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SVzwbdZx%2B6UyYQvNFKMCFUBwMBfVLwJTQPq%2ByUymwVclbhNsQYztvSmQYbEg%2BZ0pgKcUtBo29x4sX7q5vGmJLgGSryfgpJ2hCZ02haHZoHTtfcEENxxMzL3T1nnmhAbfQpTQIrbKUBjOzqFbkRXliSWlA8GZIoUcM6CkBfHvKUo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3821722678%2Fd9a4caa13df14cc54f60307564d40262%2FIMG_3710.jpeg)
 
 #### Comments (5)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 19, 2026 10:05pm): https://padlet.help/l/ja/article/88slsagmp2
@@ -1660,11 +1661,11 @@ proxyサイトなどを共有しましょう
 ---
 
 ### 2. 誰か掃除してくれ
-**Author:** 入れ子構造 (ireko_kozo)
+**Author:** 入れ子＿構造 (ireko_kozo)
 
 <p>最近匿名の人が増えましたが、関係ないセクションに投稿してる人が急増してます。移動したりして部屋を整理できますか。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5146326471/b06c866aac52fded516a5bc51860e304/Screen_recording_2026_03_05_06_50_03.webm?Expires=1773347969&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AwiET1bKoKAf23%2FbNoD0M2xCA9EFcm042t12IZAYZSewVrOfBRjxajoeirB4n2P3N9uc1CtLN0ohtQSg7HYbDnSHc66cwAvWMXM%2FISr6ooFWsHsnLn%2FQtsrdzsZPQUwkAwZMYlCtqSqcmcm%2FqoXSk7bwxwRGHUf9kyhRhWmP1xk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5146326471%2Fb06c866aac52fded516a5bc51860e304%2FScreen_recording_2026_03_05_06_50_03.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5146326471/b06c866aac52fded516a5bc51860e304/Screen_recording_2026_03_05_06_50_03.webm?Expires=1773351479&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jhzbX6yP52l4XBityExH7kYnk8BoJKvP%2Bmvh3fRRw5qVarwlEGBNh3teFEOHNpJLMLBYBQ8lJafRNLgvAoQzknkOcn%2F0YgUg9CyEjJ5GvKgXlbtFXQiQzPGYjSN%2F1qNHdFg2vqjebQDw1SUHfeL4tUPw1DO5pSoFxhM2Pn1Wnio%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5146326471%2Fb06c866aac52fded516a5bc51860e304%2FScreen_recording_2026_03_05_06_50_03.webm)
 
 #### Additional Information
 - **Post color:** White
@@ -2526,7 +2527,7 @@ proxyサイトなどを共有しましょう
 ### 8. わかめ使えなくなったんだけどなんでか分かる人いる？
 **Author:** Brilliant Kiwi
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5225598716/02e66f252a2c39f89ec6606d4b4dbc28/Screenshot_2026_02_25_15_22_25.png?Expires=1773347970&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=J36MupfpKgNQ%2BSKnWLWcTPZ6JBDgJFrOuGc18VBPYfqs8CHGsz5Q87ix2BfZsm8YieNfMSNL0JDTxMEvsze0to8SpiaECx8Lgl26XOwZDs5nkn4Km0xyZJkp1Op1OITRhFSZQBBjrLrcV8wb9SaRYksLqo9kpP6q7GdEjGAdJVk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5225598716%2F02e66f252a2c39f89ec6606d4b4dbc28%2FScreenshot_2026_02_25_15_22_25.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5225598716/02e66f252a2c39f89ec6606d4b4dbc28/Screenshot_2026_02_25_15_22_25.png?Expires=1773351479&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3Yda%2FzN58NLhUlieSM1cwWYHojrN4aD2OVqB0T597t01OBgqnP7dsWtbE9uFDlfmaAAay23OUKYk9rZ4jlfZ319j521xOGWwtKvTpjoFyOdUaB7OycojrBpo7uQYiLfnTyQcGK28cKAjt1730JSKwjPy9AoFYnMwWg6jJqLzkeE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5225598716%2F02e66f252a2c39f89ec6606d4b4dbc28%2FScreenshot_2026_02_25_15_22_25.png)
 
 #### Comments (1)
 - **ばあ** (Feb 26, 2026 09:06am): 俺も同じ 
@@ -2754,7 +2755,7 @@ proxyサイトなどを共有しましょう
 ---
 
 ### 2. 英語マリオ64が遊べてしまうサイト
-**Author:** 入れ子構造 (ireko_kozo)
+**Author:** 入れ子＿構造 (ireko_kozo)
 
 <p>言語はすべて英語です。ですが64以外にも多くのゲームが遊べます。</p>
 
@@ -2778,7 +2779,7 @@ proxyサイトなどを共有しましょう
 - **Seismic0981** (Feb 26, 2026 12:21am): I-Filterの人なら開けるはず…（自分はI-Filterです）
 - **Seismic0981** (Feb 26, 2026 12:26am): あとhttps://jerrychan7.github.io/WebMC/
 - **Seismic0981** (Feb 26, 2026 12:26am): https://irv77.github.io/AmplerLauncher/
-- **入れ子構造** (Feb 26, 2026 02:28am): 僕のi-filterはイーグラだけ入れた
+- **入れ子＿構造** (Feb 26, 2026 02:28am): 僕のi-filterはイーグラだけ入れた
 - **Calm Badger** (Feb 26, 2026 11:21pm): 無理やった、
 
 #### Additional Information
@@ -2832,8 +2833,8 @@ proxyサイトなどを共有しましょう
 #### Comments (5)
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 07, 2026 05:27am): ？？？
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 07, 2026 05:27am): 俺できん。。。
-- **入れ子構造** (Feb 07, 2026 06:41am): i-filterではできた。どのフィルタリングソフトを使ってるの？
-- **入れ子構造** (Feb 08, 2026 08:44am): フィルタリングでも強度が違うか…このサイト入れたのは奇跡だったんかな。
+- **入れ子＿構造** (Feb 07, 2026 06:41am): i-filterではできた。どのフィルタリングソフトを使ってるの？
+- **入れ子＿構造** (Feb 08, 2026 08:44am): フィルタリングでも強度が違うか…このサイト入れたのは奇跡だったんかな。
 - **みかん** (Feb 11, 2026 12:19am): i-filter@cloudによりブック
 
 #### Additional Information
@@ -3013,7 +3014,7 @@ proxyサイトなどを共有しましょう
 #### Comments (15)
 - **Anonymous** (Feb 08, 2026 02:35am): されるじゃないか
 - **keR** (Feb 08, 2026 03:41am): まじ!?
-- **入れ子構造** (Feb 08, 2026 07:51am): されました
+- **入れ子＿構造** (Feb 08, 2026 07:51am): されました
 - **Awesome Caterpillar** (Feb 08, 2026 08:29am): ブロだったわ
 - **@松莉右香太** (Feb 09, 2026 10:37am): 規制かかったｐ
 - **どっかの小学生** (Feb 10, 2026 01:35am): 規制されました
@@ -3195,7 +3196,7 @@ proxyサイトなどを共有しましょう
 ## その他
 
 ### 1. ブロックされないタボワ
-**Author:** 入れ子構造 (ireko_kozo)
+**Author:** 入れ子＿構造 (ireko_kozo)
 
 <p>試験的機能が使えるサイトだけど元とほぼ同じなタボワ。載せられてなかったので知らない人も多い？</p>
 
@@ -3203,7 +3204,7 @@ proxyサイトなどを共有しましょう
 
 #### Comments (3)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 18, 2026 10:06pm): ミラー版なら100以上あるよ
-- **入れ子構造** (Feb 19, 2026 08:30am): 自分も試したけどブロ多数だった。自分が入れたのがこれ
+- **入れ子＿構造** (Feb 19, 2026 08:30am): 自分も試したけどブロ多数だった。自分が入れたのがこれ
 - **シャドレク** (Feb 21, 2026 02:58am): ありがとー
 
 #### Additional Information
@@ -3272,7 +3273,7 @@ proxyサイトなどを共有しましょう
 
 #### Comments (5)
 - **みかん** (Feb 11, 2026 12:20am): 自分はi-filter@cloudなんでうれC
-- **入れ子構造** (Feb 13, 2026 11:34am): 例えば自分の見たいエロ画像とかも画像だけなら見れるよ。
+- **入れ子＿構造** (Feb 13, 2026 11:34am): 例えば自分の見たいエロ画像とかも画像だけなら見れるよ。
 - **Benevolent Dory** (Feb 20, 2026 05:21am): ブロ…ック
 - **Benevolent Dory** (Feb 20, 2026 05:21am): ブロ…ック
 - **Brave Quokka** (Feb 22, 2026 03:23pm): 人世代前
@@ -3646,7 +3647,7 @@ proxyサイトなどを共有しましょう
 ## 質問セクション
 
 ### 1. 情報収集
-**Author:** 入れ子構造 (ireko_kozo)
+**Author:** 入れ子＿構造 (ireko_kozo)
 
 **何のソフトで規制されてる？:**
 - **i-FILTER:** 25 votes
@@ -3657,10 +3658,10 @@ proxyサイトなどを共有しましょう
 <p>i-フィルターが一番だと予想。優秀すぎるし。</p>
 
 #### Comments (6)
-- **入れ子構造** (Feb 08, 2026 08:41am): 集まってきたけどもうすぐ受験なので。( ˘ω˘)ｽﾔｧ
+- **入れ子＿構造** (Feb 08, 2026 08:41am): 集まってきたけどもうすぐ受験なので。( ˘ω˘)ｽﾔｧ
 - **Anonymous** (Feb 09, 2026 12:01am): [Attachment](https://padlet.com/xianrendesu/proxy-n0g1c0jl2ak3grc5/wish/zV61Q6XKjJdjWO98) これは、、、？
-- **入れ子構造** (Feb 09, 2026 09:15am): 英単語の頭文字を取ってISGCです。
-- **入れ子構造** (Feb 10, 2026 10:54pm): 自分もi-フィルターだからブロックの強度が違えど入れて使えるプロキシを提供しやすい。
+- **入れ子＿構造** (Feb 09, 2026 09:15am): 英単語の頭文字を取ってISGCです。
+- **入れ子＿構造** (Feb 10, 2026 10:54pm): 自分もi-フィルターだからブロックの強度が違えど入れて使えるプロキシを提供しやすい。
 - **みかん** (Feb 12, 2026 06:57am): 僕はi-filterの進化系だと思うi-filter@cloudなんよね
 - **仙人@suger** (Feb 17, 2026 09:31am): 僕が通ってた小学校も@cloudついてた
 
