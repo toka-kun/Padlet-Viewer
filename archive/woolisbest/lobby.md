@@ -1,4 +1,4 @@
-最終更新: 2026/03/07 07:30:44
+最終更新: 2026/03/07 08:28:59
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 06, 2026 09:34pm
+- **Updated At (UTC):** Mar 06, 2026 10:59pm
 
 ## 受付
 
@@ -89,7 +89,7 @@
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 02:46pm): はい
 - **狐うどんの狐(マダタスカル)** (Feb 11, 2026 01:52am): はい
 - **橘花 | Kiκκα　#青葉のサブ** (Feb 11, 2026 03:30am): おｋ
-- **れいくん乗っ取られててｸｶなんよ〜WW** (Feb 11, 2026 06:04am): iretekudase
+- **削除済みユーザー** (Feb 11, 2026 06:04am): iretekudase
 - **削除済みユーザー** (Feb 11, 2026 06:14am): 入れてください
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 11, 2026 08:55am): irete
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 11, 2026 08:55am): いれて
@@ -140,7 +140,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (27)
+#### Comments (28)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -168,6 +168,7 @@
 - **コネコネうーさー＃本体＃うさぎ信仰一代目教祖＃黒槻さんの弟子14番目** (Mar 03, 2026 09:02am): しました
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 04, 2026 01:21pm): ok
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 04, 2026 01:21pm): メアド
+- **はるき** (Mar 06, 2026 10:59pm): ふーん
 
 #### Additional Information
 - **Post color:** Red
