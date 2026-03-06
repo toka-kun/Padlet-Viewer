@@ -1,4 +1,4 @@
-最終更新: 2026/03/07 01:42:31
+最終更新: 2026/03/07 02:36:04
 
 # Padletポータルワールド
 
@@ -250,7 +250,7 @@
 ---
 
 ### 8. かリけーの雑談部屋４
-**Author:** ｸﾞﾊｯ　＃かリけーのサブ (qlomolp)
+**Author:** 💩 (qlomolp)
 
 <p>荒らされすぎて過疎い</p><p>だから来てくれー</p>
 
@@ -2158,7 +2158,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773420151&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=poXnZGCgqaAGGscDkSs4OOzGqZc2cU1f8D%2F3SH8dB1jsXOjl2woAi0zsQDjI0sILMQi1DoTOUoBYAi2KAROsorPwUsEyEzCaGEcCki%2B%2FNrKG%2BxC2kqM35QlxGnXqEcExFF5pa3zUUlNwy7yfX5%2FL6QaADqHAvW9C92WFh3O1%2FmQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773423364&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=x4eZN8uUYF3QQYTtjvJ0yZ6u%2BYDOxmuH7%2Bo8aH0k%2F%2FGXKO5hdsxMdDSmEjMW2B8nhn5RnO5bfuyj0afp8Z3Npdq1KhtEuJJ0cW5SEC%2BayETaDD8UiIadn8RcKsLIRamZ5Pl8QrFWoRK3LUBi1NvdjKN%2FpFuxHlx8efJJ2lK8cK4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
