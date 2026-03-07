@@ -1,4 +1,4 @@
-最終更新: 2026/03/07 14:38:03
+最終更新: 2026/03/07 21:50:46
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 07, 2026 05:10am
+- **Updated At (UTC):** Mar 07, 2026 12:01pm
 
 ## 受付
 
@@ -80,7 +80,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (52)
+#### Comments (54)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -133,6 +133,8 @@
 - **Whimsical Trout** (Mar 07, 2026 05:10am): へー
 - **Whimsical Trout** (Mar 07, 2026 05:10am): 大垣市に住んでるんだ
 - **Whimsical Trout** (Mar 07, 2026 05:11am): 君
+- **くぁｗせｄｒｆｔｇｙふじこｌｐ** (Mar 07, 2026 11:58am): この部屋宣伝していた煮物ですってやつ誰だよもし投稿主だったら荒らすぞ
+- **くぁｗせｄｒｆｔｇｙふじこｌｐ** (Mar 07, 2026 12:01pm): ごめんなさいやっぱしないです
 
 #### Additional Information
 - **Post color:** Red

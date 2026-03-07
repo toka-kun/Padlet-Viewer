@@ -1,4 +1,4 @@
-最終更新: 2026/03/07 20:21:41
+最終更新: 2026/03/07 21:51:10
 
 # 規制解除委員会(臨時本部)
 
@@ -143,7 +143,7 @@
 
 <p>とるっぷいが何者かによってBANされた！！！だから、とるっぷいが維持してた規制解除委員会本部部屋やVIP部屋が消えました！！なので、とるっぷい復帰まではここが臨時本部になるんやで。ってことでとるっぷい復帰までは何かあったらいときち(俺)or中居正広に行ってクレメンス。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1773487300&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qaa7X8A%2Bfp7uvtb9mRNI4yvvwIsc7JBJ%2F9WqacWZk5dGlPuaWBGTpATIirHl%2FH%2FyLxiGlq4P5lyPHLa4gtFSyvg5YxfIMfzLfT1Euy%2FOH37EvwjpxBoR8zwZ7%2BKaZd2jH76MblMwbtPN7HXLsZoLCKgM2TEfA9nGaixB%2FF50bWI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1773492670&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TWtm8xWZIFfpQeulZXyOoBTWNA6U0c%2BwfQ8K8FJ1locX0mlPVVjDmtWqDhGBB7evPzZqn2OfTcQtHe76jjBy9LKb2s14sJ%2BqEXKN8JhoTSirQgzZa%2BynRAqrJg2VcQdCAZa7KrwptHoRKN50xprpiJPLdE%2Bm9kNmlXbS1KRs3wg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
 
 #### Comments (3)
 - **中居** (Jan 09, 2026 11:54am): かなちい
@@ -188,7 +188,7 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1773487300&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZbeO1v2fpMkImusai%2BBVwTf5DJa2Pb4L83medcEfv7ULZj4OP5j%2FAQv%2FGNdFXe96hvOP6ijNvTrygW5E5NI5okF80wJIuFbcNsgMb%2Flb9CyzNLzOOFZiWI1DOj85DhIRnXZRFdFGm0VZxVQuBuwjlVpA5nWbgTz%2FBOjUECJQxO4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1773492670&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tQCERRxsYaYF%2FOtjmZKm%2B82PV55fqKOhlu5243uYqPbvR%2BT31UY4ls65P07tBZxDJ4Bub1wamKtNs9qWzyKZ0GTcQ%2B8Ux2NnLAHglU4Pa3F5onWXA3iU5BgeoYfMJs0%2F%2B4FHmfnOGfllRFPVekQGr50BW5zMkelf9aY6N67F4xM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Comments (1)
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 07, 2026 05:36am): suk
@@ -208,7 +208,7 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1773487300&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zuoOA2sEN0iXcLiHHifKzj%2FmcE035zHawSVOT1CWnRgn7qlPLCVftmaTwnE9CS7KPWxHIELZpArzJnbXCnJc4X6Ea3JaDjguVFvmBTjyZ%2FEqYbHdC09wpHWZLLrWgbEGynqLik%2F0KrnexIeD4%2F1FUqigdOJksEuybigWtR%2BWM44%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1773492670&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LiKuPonF%2FtsqQENx7sCbUUW9YKXNNJ%2FLduuFrf3OwQpatvtT7kBr%2BclSVhV9zXJhxe8BUE%2FmhKg9HOeSBERkbA%2Ffsi0L63gOWeqPgigm7vuwMxxnyBwnzTTr76B5VIgj348%2FCBtwE8soMDB9Ss8FmGT40SfVMImXTdORf51G73k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Comments (7)
 - **う〇こガンミ委員会** (Feb 06, 2026 06:03am): https://script.google.com/a/macros/chuo-tky.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
@@ -878,7 +878,7 @@
 
 <p>えぐいてえええええええ</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1773487300&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sIVZS8LIx%2FxOfvjgvMI6B5x9ltYacp5f%2BR3BZyzzkGzy1C88VJ7viD4SsLBEPFAa4if9rh2BRV2o45pD08dnKD0cVqyV25QZJWA2lYVT4Yms9A2pD5FEMJoEboVMoJBD7qZnTINq2prDxVlErcxUeDnwMm430fpr3JjTfbjmdoc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1773492670&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=54X17zW2gbmxV0qR%2BrDXvIxy8mbhVzoo0SDAI0Sq64CzWCsBPcwEWMPLhs3tsDPM1Gp3eE5HOXQILLzmixwZinPugHoQyixVkMxxt9tEkVBaK4Qm8MTNvoGgKecoA6O%2FEzSEZVcLElXoABVxcpR66chW%2FK8OwoKEtd4z2wo41OA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
 
 #### Comments (3)
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Oct 18, 2025 08:27am): うぉぉぉぉ
