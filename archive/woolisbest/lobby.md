@@ -1,4 +1,4 @@
-最終更新: 2026/03/08 11:12:40
+最終更新: 2026/03/08 13:44:07
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 08, 2026 01:06am
+- **Updated At (UTC):** Mar 08, 2026 03:31am
 
 ## 受付
 
@@ -81,7 +81,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (57)
+#### Comments (58)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -139,6 +139,7 @@
 - **青葉  @BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ** (Mar 08, 2026 12:07am): ？？？w
 - **woolisbest** (Mar 08, 2026 01:06am): ??
 - **woolisbest** (Mar 08, 2026 01:06am): 煮物出禁になってるからじゃない？
+- **青葉  @BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ** (Mar 08, 2026 03:31am): ww
 
 #### Additional Information
 - **Post color:** Red
