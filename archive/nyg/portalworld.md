@@ -1,4 +1,4 @@
-最終更新: 2026/03/09 07:25:40
+最終更新: 2026/03/09 08:25:56
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 97
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Mar 07, 2026 01:42am
+- **Updated At (UTC):** Mar 08, 2026 10:52pm
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -72,9 +72,6 @@
 **モデレーター数:** 非公開
 
 [Attachment 1](https://padlet.com/padlets/a8v7cjbbfni702kg)
-
-#### Comments (1)
-- **Anonymous** (Feb 28, 2026 11:16am): はじめましt
 
 #### Reactions
 - **Number of likes:** 1
@@ -2159,7 +2156,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773613540&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nQR4c4Fn2MA0RQW9L%2BZvT79VEcuyyfSP%2F%2FgtkEfWB%2BpOMq2ECZJuh%2BkF%2BoGA3aEQwqZ%2F8a2t7b0yZhU42EdpKHtcCT5jqD00WB0Icallk4GhtApGzOwos2zP0npChOOF9psoxsahfnbR163Jacj7LLdcgIcaifiHTAmCM5HAWA0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773617156&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RuZCB6v%2FVjupewW%2FZxWzKVKFVZGWEDdie8G1G1I5iLkFMEQzwlBU%2BmkmlFYnkbf3Yv3zhECFlUk2UTtkDGdFKmX67lxxU6xVCNVNBZsa0ql99GEstDCJib%2FhbtYNOM4roJKlHSa6KEiZvVncTIvbwRx3XRJWzEBIb0%2B6nhdTjnM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
