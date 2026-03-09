@@ -1,4 +1,4 @@
-最終更新: 2026/03/09 08:25:56
+最終更新: 2026/03/09 11:13:18
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 97
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Mar 08, 2026 10:52pm
+- **Updated At (UTC):** Mar 09, 2026 12:03am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -99,6 +99,9 @@
 **モデレーター数:** 10~
 
 [Attachment 1](https://padlet.com/proxygameyoutube/youtube-93t08ersmcl137rg)
+
+#### Comments (1)
+- **ルパン三十八世** (Mar 09, 2026 12:03am): 閲覧数が1300回突破しました
 
 #### Additional Information
 - **Post color:** White
@@ -710,7 +713,7 @@
 ---
 
 ### 28. Fortniteブレインロット交換
-**Author:** タピオカパン！！ (r0136496)
+**Author:** タピオカパン！！別名ジオード二キだよ (r0136496)
 
 <p>Fortnite　or　ROBLOXの交換部屋です。時々配布もします</p>
 
@@ -2156,7 +2159,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773617156&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RuZCB6v%2FVjupewW%2FZxWzKVKFVZGWEDdie8G1G1I5iLkFMEQzwlBU%2BmkmlFYnkbf3Yv3zhECFlUk2UTtkDGdFKmX67lxxU6xVCNVNBZsa0ql99GEstDCJib%2FhbtYNOM4roJKlHSa6KEiZvVncTIvbwRx3XRJWzEBIb0%2B6nhdTjnM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773627198&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zIlY2xrsR4pKp9M64AmJ9Ho8zRIBhlLI2Rk19135K0wD15D%2BIa0dk%2BLCTdWBxmjXboFL9rhSZsu%2BAlCfUNScW2%2BD4aVL4JmQ%2B0SutPrMdkWB7JhMChzzUBhhOio9d5d2mktSh0nK03LmZaGrA4AzoM0piud2TyxMXJJhKshfTNs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
