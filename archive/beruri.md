@@ -1,4 +1,4 @@
-最終更新: 2026/03/09 16:14:32
+最終更新: 2026/03/09 17:48:57
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/BERURI1214/padlet-zsdegt1d6scuq9qa
 - **Builder:** 太古の太鼓~1853 Brainrot (BERURI1214)
-- **Posts:** 72
+- **Posts:** 71
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Mar 03, 2026 10:23pm
+- **Updated At (UTC):** Mar 09, 2026 08:37am
 
 ## 管理者&モデの連絡
 
@@ -88,7 +88,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1773645272&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=F1iWG0NG%2FWGllrsLWhIqjaMMCcdfVJbP1F2Rw1fDu31qF1Rp4NLrQVuGUbo5RwwM3MprK8Fw2HTfRHsy0bRzHb0jaQ4DW%2B0ly0L2RTbS8nKNB96k7XoB5FkTd%2B5h4Io3weeR%2BNC3anDBNzcdrfwPZATFrK8NLdF4uEBJmGQeCdU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1773650936&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sUUi1huwR%2FctwGlOY81Uu9%2BAjNWFwCKAQJ8EHAxFFSH1ySjjExeBkw4nZRWFLikGmp7wE%2BQ41puX2WRGAoCDRNjiWfxcZb2rDktLiIravf30bS0HB0k2SZG4jRRjM8egC%2FI7SMuoNINBxPX%2BOQPIYzMLvIA4io4bOOLBiDQ8DSc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -108,28 +108,6 @@
 - **Post color:** Purple
 - **Created At (UTC):** Nov 23, 2025 01:10pm
 - **Updated At (UTC):** Nov 24, 2025 06:55am
-
----
-
-## ライター受付
-
-### 1. ライター受付
-**Author:** 共有広場協力委員会 (sagyousyasan)
-
-<p>3日後ライターになれます。</p><p>申請した方はこの投稿に名前を書いときます。</p>
-
-#### Comments (3)
-- **Kan Tsubaki　　aoi** (Feb 19, 2026 09:06am):  
-- **𝐒hirokurohotlineフォロー絶対禁止現在五十三人清風明月曲全部神曲勉強部屋宣伝要求音楽非常識正論派学級委員長五回目校外学習実行委員長修学旅行実行委員長課題学年最速提出長座体前屈学年最長系逆御飯敬語付非リア充** (Feb 19, 2026 12:39pm): お願いします
-- **NyrikX(足立区陣ICFS系)** (Mar 03, 2026 07:16am): よろしくお願いします
-
-#### Reactions
-- **Number of likes:** 2
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Nov 23, 2025 07:55am
-- **Updated At (UTC):** Nov 23, 2025 07:55am
 
 ---
 
@@ -172,7 +150,8 @@
 
 <p>リクエストや質問等は必ずここにしてください</p><p>部屋改良や欲しいサイトなど</p><p>ここは荒らしが通りやすいのでその対策にもお願いします</p><p><br></p><p>皆様が書いてくれた意見はすべてメモに書いてあり、コメントが消されていても認知されたと思ってください</p>
 
-#### Comments (1)
+#### Comments (2)
+- **エビMC** (Mar 09, 2026 08:34am): マイクラのオンラインで最近欲しいっす
 - **削除済みユーザー** (Feb 17, 2026 09:38am): inboxほしい
 
 #### Additional Information
@@ -1129,7 +1108,7 @@
 
 [Attachment 1](https://runtu.be/)
 
-#### Comments (28)
+#### Comments (29)
 - **かんばやし りようさん** (Oct 31, 2025 05:35am): https://padlet.com/beruriwwww7823/breakout-room/mVbpvYp9ANkkqRkn-o4ZnXBBLKOo5XNda/wish/E851Q0rdb5YlWVAb
 - **かんばやし りようさん** (Oct 31, 2025 05:35am): となりのパクッタ
 - **かんばやし りようさん** (Oct 31, 2025 05:36am): ごめんなさい👏
@@ -1158,6 +1137,7 @@
 - **反アノニマスハッキング連合** (Nov 18, 2025 10:21am): ブロックされたら言ってね
 - **タイガース死ね** (Nov 20, 2025 11:30pm): ブロックされた
 - **高2やでえええええええ** (Nov 20, 2025 11:58pm): かばやしりょうで草wwwwww
+- **ビンゴライス** (Mar 09, 2026 08:34am): 下のやつガキすぎだろ
 
 #### Reactions
 - **Number of likes:** 1
@@ -1222,7 +1202,7 @@
 
 [Attachment 1](https://at.ggtyler.dev/)
 
-#### Comments (20)
+#### Comments (21)
 - **東京都民** (Nov 04, 2025 10:12pm): スリザリオ
 - **東京都民** (Nov 04, 2025 10:12pm): 上タップ
 - **狐うどんの狐(マダタスカル)** (Nov 04, 2025 10:19pm): ありがと~~~~
@@ -1242,6 +1222,7 @@
 - **クソゴミ** (Dec 04, 2025 11:23pm): ?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
 - **山田としあき** (Dec 06, 2025 11:45am): 高2やでえええええええお前四国の田舎に住んでるな
 - **山田としあき** (Dec 06, 2025 11:48am): 高2やでえええええええってTwitterやってるなしかも同じ名前で最近山登ったのかな？
+- **髪の毛がねーから** (Mar 09, 2026 08:34am): クソゴミさんはニートでしょう
 - **Respectful Capybara** (Feb 28, 2026 06:39am): ああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ
 
 #### Additional Information
