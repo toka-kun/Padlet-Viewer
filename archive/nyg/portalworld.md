@@ -1,4 +1,4 @@
-最終更新: 2026/03/09 18:53:19
+最終更新: 2026/03/09 19:47:06
 
 # Padletポータルワールド
 
@@ -1835,7 +1835,7 @@
 ---
 
 ### 80. エ◯部屋のリンクもあるよ！3週間で閲覧数20000を達成した部屋！
-**Author:** EDOdesu運営垢 (edodesu)
+**Author:** 削除済みユーザー
 
 <p>人めっちゃいるよ（マジで）</p>
 
@@ -2205,7 +2205,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773654799&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=C%2BpSmir4sZOapjlZklztG2uXHTURCwwIeV3OadxNctr6HZ66i1PmT8KC7dn%2Bwl6%2BH8rmAwLzqe5zXXpehIdRArlwFMrhIgnr8ghwOVOJKH9JNdaxJ4ai84dWzEyDMxwx5DWJila%2BO%2FkEP5XRmtjD607p52%2B%2BbWYxvJnQtQywK%2FE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773658026&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Su74IIdeyYiHFQH2ERfczdzLv2NVbLKoRFPHR7%2Fy5iL58Xb08%2Fh%2FXrX8q72RYGfe6daYRy0cNmUuMV6BObMnEjTEu15gTiQ%2BPuFfJRvzZECcHJp0mFTVOaPYP%2BvHQRmvTaM18OnJGAKRjB0WVTsZvQI3TfR65%2B9%2BQtur1HG5K5s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
