@@ -1,12 +1,12 @@
-最終更新: 2026/03/10 07:30:27
+最終更新: 2026/03/10 08:29:31
 
 # Padletポータルワールド
 
 お気に入りの部屋を見つけよう！ベル🔔ボタンからこの部屋をフォローすると新しい部屋に関する通知が来るようになります。
 
 ## Summary
-- **Link:** https://padlet.com/202201634_2/padlet-lpiw7xio9gwnmxrd
-- **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+- **Link:** https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd
+- **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 99
 - **Created At (UTC):** Aug 31, 2025 08:58am
 - **Updated At (UTC):** Mar 09, 2026 04:07pm
@@ -14,7 +14,7 @@
 ## 部屋はこの下のセクションに投稿されます。
 
 ### 1. ↓ここから誰でも簡単に投稿できます！
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>↑これを押して自分の部屋を出展しよう！</strong></p>
 
@@ -37,7 +37,7 @@
 ---
 
 ### 2. 注意点
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><strong><mark>自分の部屋のみ</mark>投稿して下さい。</strong></p></li><li><p><strong>自分の部屋であれば<mark>いくら投稿してもOK</mark>です。</strong></p></li><li><p><strong>時間が経って自分の投稿が埋もれてしまっても、<mark>一週間経てば再投稿可能</mark>です。また、その場合は管理者が過去の同じ投稿を消しておきます。</strong></p></li><li><p><strong>Padletの規約に反する部屋や、こちらで不適切だと判断した投稿は見つけ次第削除します。</strong></p></li><li><p><strong>多少の誤字などであればこちらで修正します。</strong></p></li><li><p><strong>AIに引っ掛かって承認待ちになっても人の目でもう一度確認するので安心して下さい。</strong></p></li><li><p><strong>「過疎ってるから来て」などと言うのではなく、<mark>その部屋の良さを誠実に書いた方が人は来てくれます</mark>。</strong></p></li><li><p><strong>何を書けば良いのか分からない場合は、サンプルを参考にして下さい。</strong></p></li></ul>
 
@@ -57,7 +57,7 @@
 ---
 
 ### 3. （サンプル）プロキシのリンクやYouTubeの閲覧方法を共有する会
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><strong>日本最大級の部屋</strong></p></li><li><p><strong>有名なあのサイトから、誰も知らないマイナーなサイトまでを幅広く網羅！</strong></p></li><li><p><strong>投稿やコメントは全てAIが審査してくれるので、誰でも安心して参加できる！</strong></p></li></ul>
 
@@ -2203,9 +2203,9 @@
 ## サムネイル
 
 ### 1. Post 1
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773700227&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ajLwlFXoGZdCt3kAFesfvROxG7cs7q9XIuEjq68JrpjEWjPclnkp%2BsommqqZO31nzyxRVxStjVhFDvstVGwPEAtgSN7PeQ8MMZWUle1wavz4VlRomHl7e6N2PgqhD76aoBvYoDRiHLGeKfTeR0Y6ZHd8VTSPXy5BbMhTcR6UrIk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773703771&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=a%2FU9q3RA7A866jHKBfYqe8FHviy1LQa%2Bb527JZYAHrPTUB7iZO%2FLbdoruEMCwT0pMGtMrDFVBpAAFhQ0%2Bg6NlItpUkU5OkonMPHSrYoWwCQL%2F6yJOoU2wiNSJbp5Sk9U1%2BZonzkF3Wc2B3zS3aOcDxFBIIe2fU9ofCEPZ%2BpAFys%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
@@ -2225,7 +2225,7 @@
 - **削除済みユーザー** (Sep 01, 2025 12:31pm): 最初からライターですよ
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): 投稿できないｗ
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): まぐろくどうやった？
-- **削除済みユーザー** (Sep 01, 2025 12:31pm): [Attachment](https://padlet.com/202201634_2/padlet-lpiw7xio9gwnmxrd/wish/zV61Q6bqloANQO98) 右下のこれ押すと投稿できます
+- **削除済みユーザー** (Sep 01, 2025 12:31pm): [Attachment](https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd/wish/zV61Q6bqloANQO98) 右下のこれ押すと投稿できます
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): ありがと！！
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:32pm): 感謝感謝
 - **✿ 🐬𝒮𝒶𝓉𝒶𝓃🐬 ✿** (Sep 04, 2025 11:50pm): こんにちは！よろしくお願いします！

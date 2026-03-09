@@ -1,4 +1,4 @@
-最終更新: 2026/03/10 02:04:21
+最終更新: 2026/03/10 08:29:52
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -266,7 +266,7 @@
 ## アモアス＆マイクラサーバー
 
 ### 1. Among Us Scratch
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>右下の＋ボタンをおすと投稿できます！ゲームの情報は</strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/65XOvBO6G9oM4GBQ-oAdpz24dgkRJv10R"><strong>こちら</strong></a></p>
 

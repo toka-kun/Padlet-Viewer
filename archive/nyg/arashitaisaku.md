@@ -1,12 +1,12 @@
-最終更新: 2026/03/10 02:04:10
+最終更新: 2026/03/10 08:29:41
 
 # 荒らし対策室
 
 ベル🔔ボタンからこの部屋をフォローすると新しい投稿などの通知が来るようになります。
 
 ## Summary
-- **Link:** https://padlet.com/202201634_2/padlet-i0fd897smvjo0tvj
-- **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+- **Link:** https://padlet.com/Toka_Kun_/padlet-i0fd897smvjo0tvj
+- **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 11
 - **Created At (UTC):** Jan 08, 2025 05:56am
 - **Updated At (UTC):** Mar 09, 2026 04:07pm
@@ -14,7 +14,7 @@
 ## リンク集
 
 ### 1. リンク集
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>➥ このリンクを拡散してね</strong></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/ArashiTaisaku">https://padlet.com/Toka_Kun_/ArashiTaisaku</a></p><p><br/></p><p><strong>➥ 姉妹部屋にも来てね</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/Unblocked">プロキシのリンクやYouTubeの閲覧方法を共有する会</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/SSJC">Shell Shockers 集会所</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/PortalWorld">Padletポータルワールド</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Nanachiki/recommendation_games">おすすめゲーム紹介、ゲームの募集所</a></p></li></ul><p><br/></p><p><strong>➥ 他の荒らし対策部屋</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/kcorugaM/magurock-7ue3f76h99omvmbl">Magurockの資料と会議室</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/ESTAcancel/SAVTF">ぐるぐるまっきーのS.A.V.T.F</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/ikiyagare/padlet-ie776w9g4je8nc8a">生きやがれの荒らし記録</a></p></li></ul>
 
@@ -36,7 +36,7 @@
 ## 概要
 
 ### 1. 概要
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>この部屋は、いろいろな部屋の管理人達で荒らしについての情報共有を行ったり、対策を講じるための部屋です。</p>
 
@@ -79,7 +79,7 @@
 ## 荒らし対策
 
 ### 1. 荒らし対策
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>よく分からない人は、僕に管理者権限を渡してくれれば代行します。荒らしの投稿を消してほしいだけの場合はモデレーター権限だけにしてね</strong></p><p><br/></p><p><strong>➥ 共有</strong></p><ul><li><p><strong>アクセス権（どれを利用するかは場合によって選ぶのを推奨）</strong></p><ul><li><p>リンクを知っている訪問者の権限を</p><ul><li><p><strong>アクセスできません</strong></p></li><li><p><strong>読者</strong></p></li><li><p><strong>コメンテーター</strong></p></li></ul><p>のどれかにする。</p></li><li><p>仲の良いリア友を<strong>管理人</strong>にする。</p></li><li><p>仲の良いネッ友を<strong>モデレーター</strong>にする。</p></li><li><p>パスワードを<strong>必須</strong>にする。</p></li><li><p>訪問者のログインを<strong>必須</strong>にする。</p></li></ul></li></ul><p><strong>➥ 設定</strong></p><ul><li><p><strong>投稿</strong></p><ul><li><p>カスタムフィールドを追加して<strong>必須</strong>にする（単一選択が一般的）。</p></li></ul></li><li><p><strong>コンテンツ</strong></p><ul><li><p>審査を<strong>自動</strong>または<strong>手動</strong>にする</p></li></ul></li></ul>
 
