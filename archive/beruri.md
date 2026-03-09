@@ -1,4 +1,4 @@
-最終更新: 2026/03/09 19:47:54
+最終更新: 2026/03/09 20:36:25
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -88,7 +88,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1773658074&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tQ3c8R1TezfsJj%2FyMIOF4e230xEWqY0Oc6ufuuG8spNfcNyfOeWqftf0kGrEqUWmYy7PUHPZDIJX3Gg4mahhm39%2BrUs4X2ESzUqnwjoxP5khZ5yGC2YI0htFTeZI7MP49UNvgHHRvMNN8Qwh%2BktrW0c0WlKSAE3ZZ9FsPMaZL5Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1773660985&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0Tf63mBWhXjd3wl%2FuujEDNytLOxzH26y4IVSy0WkfJFxjYNoc%2Fe%2F545GcqwOo735MslO7lSyIUoaRYcrJfcZ4plSsoEG%2FwchLL1NxwXtXYmndGTf9HR%2BWYPqD7nqt3VuUZJurGy%2BxrHjVYv682rvtb2cg7MMErjrDISXMUE6ExM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
@@ -741,7 +741,7 @@
 
 #### Comments (2)
 - **ahosanjp8951** (Sep 27, 2025 11:21am): これ本体が終わったからできないらしい
-- **ᏁγᎶ » Tøka_Kuŋ_** (Oct 08, 2025 11:35am): Sandの後継はこちら https://padlet.com/Toka_Kun_/breakout-room/PkpnqABnoYJJvD0B-oAdpz24dgkRJv10R
+- **削除済みユーザー** (Oct 08, 2025 11:35am): Sandの後継はこちら https://padlet.com/Toka_Kun_/breakout-room/PkpnqABnoYJJvD0B-oAdpz24dgkRJv10R
 
 #### Additional Information
 - **Post color:** White
@@ -1240,8 +1240,8 @@
 <p><a rel="noopener noreferrer nofollow" href="http://yewtu.be">Invidious1</a></p><p><a rel="noopener noreferrer nofollow" href="http://inv.nadeko.net">Invidious2</a></p><p><a rel="noopener noreferrer nofollow" href="http://inv1.nadeko.net">Invidious3</a></p><p><a rel="noopener noreferrer nofollow" href="http://inv2.nadeko.net">Invidious4</a></p><p><a rel="noopener noreferrer nofollow" href="http://inv3.nadeko.net">Invidious5</a></p><p><a rel="noopener noreferrer nofollow" href="http://inv4.nadeko.net">Invidious6</a></p><p><a rel="noopener noreferrer nofollow" href="http://inv5.nadeko.net">Invidious7</a></p><p><a rel="noopener noreferrer nofollow" href="http://inv6.nadeko.net">Invidious8</a></p><p><a rel="noopener noreferrer nofollow" href="http://inv7.nadeko.net">Invidious9</a></p><p><a rel="noopener noreferrer nofollow" href="http://id.420129.xyz">Invidious10</a></p><p><a rel="noopener noreferrer nofollow" href="http://invidious.f5.si">Invidious11</a></p><p><a rel="noopener noreferrer nofollow" href="http://invidious.nerdvpn.de">invidious12</a></p><p><a rel="noopener noreferrer nofollow" href="http://iv.ggtyler.dev">Invidious13</a></p><p><a rel="noopener noreferrer nofollow" href="http://invidious.jing.rocks">Invidious14</a></p><p><a rel="noopener noreferrer nofollow" href="http://invidious.perennialte.ch">nvidious15</a></p><p><a rel="noopener noreferrer nofollow" href="http://invidious.reallyaweso.me">invidious16</a></p><p><a rel="noopener noreferrer nofollow" href="http://invidious.privacyredirect.com">invidious17</a></p><p><a rel="noopener noreferrer nofollow" href="http://invidious.einfachzocken.eu">invidious18</a></p><p><a rel="noopener noreferrer nofollow" href="http://inv.tux.pizza">Invidious19</a></p><p><a rel="noopener noreferrer nofollow" href="http://iv.nboeck.de">Invidious20</a></p><p><a rel="noopener noreferrer nofollow" href="http://iv.nowhere.moe">Invidious21</a></p><p><a rel="noopener noreferrer nofollow" href="http://invidious.adminforge.de">Invidious22</a></p><p><a rel="noopener noreferrer nofollow" href="http://invidious.yourdevice.ch">Invidious23</a></p><p><a rel="noopener noreferrer nofollow" href="http://invidious.privacydev.net">invidious24</a></p><p><a rel="noopener noreferrer nofollow" href="http://invidious.drgns.space">invidious25</a></p><p><a rel="noopener noreferrer nofollow" href="http://yt.thechangebook.org">Invidious26</a></p><p><br></p><p><br></p><p>引用先</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg">https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg</a></p>
 
 #### Comments (3)
-- **ᏁγᎶ » Tøka_Kuŋ_** (Jul 12, 2025 12:44pm): 僕の部屋のやつのコピペか
-- **ᏁγᎶ » Tøka_Kuŋ_** (Jul 12, 2025 12:45pm): 別に僕が作ったわけでもないから僕に止める権利はないが
+- **削除済みユーザー** (Jul 12, 2025 12:44pm): 僕の部屋のやつのコピペか
+- **削除済みユーザー** (Jul 12, 2025 12:45pm): 別に僕が作ったわけでもないから僕に止める権利はないが
 - **INFINITY** (Sep 26, 2025 05:53am): 引用した部屋は投稿しとくは
 
 #### Reactions
