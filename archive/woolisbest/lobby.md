@@ -1,4 +1,4 @@
-最終更新: 2026/03/10 13:43:12
+最終更新: 2026/03/10 14:47:32
 
 # 受付と匿名用
 
@@ -9,14 +9,14 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 10, 2026 04:31am
+- **Updated At (UTC):** Mar 10, 2026 05:40am
 
 ## 受付
 
 ### 1. アクセス要求して
 **Author:** woolisbest (woolisbest)
 
-#### Comments (51)
+#### Comments (53)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 12, 2026 11:54pm): すぃた
 - **削除済みユーザー** (Feb 13, 2026 03:20am): した
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 13, 2026 06:49am): sita
@@ -68,6 +68,8 @@
 - **スイクン（メガリザX）** (Mar 06, 2026 09:33pm): メアド忘れてた
 - **スイクン（メガリザX）** (Mar 06, 2026 09:34pm): wapyopo@haren.uk
 - **yumi** (Mar 08, 2026 12:07am): いれて
+- **へへ** (Mar 10, 2026 05:40am): 入れてください
+- **へへ** (Mar 10, 2026 05:40am): メアドですmebubo@otona.uk
 
 #### Additional Information
 - **Post color:** Yellow
