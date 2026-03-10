@@ -23,14 +23,14 @@ jobs:
           # 日本時間に設定
           export TZ='Asia/Tokyo'
           
-          # 保存先のフォルダをまとめて作成（egaoを追加）
+          # 保存先のフォルダをまとめて作成
           mkdir -p archive/nyg archive/woolisbest archive/magurock archive/kiseikaijoiinkai archive/egao
 
-          # 待機時間を決定
+          # 待機時間を決定（無料枠節約のため短縮）
           if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
-            SLEEP_TIME=3
+            SLEEP_TIME=1
           else
-            SLEEP_TIME=10
+            SLEEP_TIME=2
           fi
           
           echo "現在のモード: ${{ github.event_name }}"
@@ -93,6 +93,7 @@ jobs:
           # ==========================================
 
           # --- 1. nyg シリーズ ---
+          save_padlet "https://padlet.com/padlets/a8v7cjbbfni702kg/exports/markdown.md" "archive/nyg/main.md"
           save_padlet "https://padlet.com/padlets/scvs0iw7tdatft21/exports/markdown.md" "archive/nyg/archive.md"
           save_padlet "https://padlet.com/padlets/ybtryru0lgzpxp34/exports/markdown.md" "archive/nyg/ssjc.md"
           save_padlet "https://padlet.com/padlets/lpiw7xio9gwnmxrd/exports/markdown.md" "archive/nyg/portalworld.md"
