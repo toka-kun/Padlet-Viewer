@@ -104,7 +104,6 @@ jobs:
           # --- 2. woolisbest シリーズ ---
           save_padlet "https://padlet.com/padlets/99xq7bb7zjzcfzw0/exports/markdown.md" "archive/woolisbest/lobby.md"
           save_padlet "https://padlet.com/padlets/f46agi7nbsmz8boy/exports/markdown.md" "archive/woolisbest/main.md"
-          save_padlet "https://padlet.com/padlets/wo6pj5yfmqsue2rh/exports/markdown.md" "archive/woolisbest/proxy.md"
 
           # --- 3. magurock シリーズ ---
           save_padlet "https://padlet.com/padlets/e9n4zhdx6ucfbaa4/exports/markdown.md" "archive/magurock/lobby.md"
