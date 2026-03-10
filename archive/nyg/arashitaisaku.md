@@ -1,4 +1,4 @@
-最終更新: 2026/03/10 08:29:41
+最終更新: 2026/03/10 11:06:03
 
 # 荒らし対策室
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 11
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Mar 09, 2026 04:07pm
+- **Updated At (UTC):** Mar 10, 2026 12:13am
 
 ## リンク集
 
@@ -109,21 +109,7 @@
 
 ## 保管倉庫①
 
-### 1. りおと
-**Author:** 削除済みユーザー
-
-#### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 1
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Feb 07, 2026 07:20am
-- **Updated At (UTC):** Feb 19, 2026 09:30am
-
----
-
-### 2. かいと
+### 1. かいと
 **Author:** かいと (HALVES_LOVE)
 
 #### Reactions
@@ -137,7 +123,7 @@
 
 ---
 
-### 3. レイ
+### 2. レイ
 **Author:** レイ　#最近ていふ (rei_ryu)
 
 #### Reactions
@@ -151,7 +137,7 @@
 
 ---
 
-### 4. たたたんこ
+### 3. たたたんこ
 **Author:** たたたんこ (Tatatanko)
 
 #### Reactions
@@ -165,7 +151,7 @@
 
 ---
 
-### 5. キット
+### 4. キット
 **Author:** エドガー (edoga125)
 
 <p><strong>偽エドガーなので注意</strong></p>
@@ -183,7 +169,21 @@
 
 ## 保管倉庫② - R.I.P.
 
-### 1. げろろん
+### 1. りおと
+**Author:** 削除済みユーザー
+
+#### Reactions
+- **Upvotes:** 1
+- **Downvotes:** 1
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 07, 2026 07:20am
+- **Updated At (UTC):** Mar 10, 2026 12:13am
+
+---
+
+### 2. げろろん
 **Author:** 削除済みユーザー
 
 #### Reactions
@@ -197,7 +197,7 @@
 
 ---
 
-### 2. あ
+### 3. あ
 **Author:** ぜんた　りおとの一番弟子！ (zenta_nanda)
 
 #### Reactions
@@ -211,7 +211,7 @@
 
 ---
 
-### 3. なんで垢バンされてるのおおおおお
+### 4. なんで垢バンされてるのおおおおお
 **Author:** 軽くなれw (KARUKUNAREw)
 
 <p>これは移動だよつまり別のアカウントがあるってこと。</p><p>いずれ復活します</p>
