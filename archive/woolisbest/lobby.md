@@ -1,4 +1,4 @@
-最終更新: 2026/03/09 22:06:06
+最終更新: 2026/03/10 13:43:12
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 09, 2026 11:39am
+- **Updated At (UTC):** Mar 10, 2026 04:31am
 
 ## 受付
 
@@ -67,7 +67,7 @@
 - **スイクン（メガリザX）** (Mar 06, 2026 09:32pm): あ
 - **スイクン（メガリザX）** (Mar 06, 2026 09:33pm): メアド忘れてた
 - **スイクン（メガリザX）** (Mar 06, 2026 09:34pm): wapyopo@haren.uk
-- **YR|yumi** (Mar 08, 2026 12:07am): いれて
+- **yumi** (Mar 08, 2026 12:07am): いれて
 
 #### Additional Information
 - **Post color:** Yellow
@@ -81,7 +81,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (56)
+#### Comments (57)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -138,6 +138,7 @@
 - **woolisbest** (Mar 08, 2026 01:06am): 煮物出禁になってるからじゃない？
 - **青葉  @BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ** (Mar 08, 2026 03:31am): ww
 - **ほんじょうかつあき** (Mar 09, 2026 11:39am): 入れろよくず
+- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 10, 2026 04:31am): アクセス要求して🥺
 
 #### Additional Information
 - **Post color:** Red
@@ -177,7 +178,7 @@
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 27, 2026 12:16am): ユック斗
 - **yukkuto** (Feb 27, 2026 01:46am): はい
 - **シャドレク** (Feb 28, 2026 03:11am): https://padlet.com/Natsu_Tsubakiこいつも
-- **YR|yumi** (Mar 02, 2026 12:06am): フォローした
+- **yumi** (Mar 02, 2026 12:06am): フォローした
 - **コネコネうーさー kumaとペア画中＃本体＃うさぎ信仰一代目教祖＃黒槻さんの弟子14番目** (Mar 03, 2026 09:02am): しました
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 04, 2026 01:21pm): ok
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 04, 2026 01:21pm): メアド
