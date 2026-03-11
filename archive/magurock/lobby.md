@@ -1,4 +1,4 @@
-最終更新: 2026/03/11 19:40:41
+最終更新: 2026/03/11 20:34:15
 
 # Magurockのロビー部屋｜皆の宣伝所と僕の部屋の受付、あとアカウント無い人用
 
@@ -6,7 +6,7 @@
 
 ## Summary
 - **Link:** https://padlet.com/Magurock/magurock-e9n4zhdx6ucfbaa4
-- **Builder:** Magurock (偽物や乗っ取り注意) (Magurock)
+- **Builder:** 隼人の顔 (Magurock)
 - **Posts:** 193
 - **Created At (UTC):** Jul 01, 2025 04:13pm
 - **Updated At (UTC):** Mar 10, 2026 11:54am
@@ -14,7 +14,7 @@
 ## 部屋へようこそ
 
 ### 1. Post 1
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>検索結果の上位にしたいので僕の部屋を検索して開いてください</p>
 
@@ -28,13 +28,13 @@
 ---
 
 ### 2. 表題(カバー)用
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>投稿を消さないでください</p>
 
 **￷￳￳￴￰￳￰￸￷￵￵￲￲￳￸￰￸￶￳￴￲￶￳￰￴￳￸￸￷￵￸￳￴￸￸￶￶￰￱￳￶￴￴￲￱￶￰￳￲￷￲￷￲￳￵￱￲￶￵￱￱￶￰￲￸￷￵￱￴￳￸￱￸￷￲￷￷￸￵￱￲￵￲￸￲￳￰￱￴￶￸￳￴￲￶￸￰￸￰￸￸￲￲￳￱￸￸￱￶￷￷￶￳￳￱￷￳￶￱￶￷￳￳￴￶￰￵￶￶￸￷￲￴￲￲￳￸￳￱￲￳￵￱￶￳￷￴￰￴￲￶￰￷￴￰￱￲￵￰￶￵￰￱￴￱￸￴￱￴￷￷￲￴￴￱￴￳￴￱￸￰￲￱￸￸￷￷￵￵￳￴￵￱￵￳￴￰￳￷￸￰￷￵￳￰￴￷￸￸￶￶￴￷￵￰￶￴￱￰￸￳￳￴￳￱￷￳￸￲￳￴￸￱￵￶￷￱￱￵￷￵￳￷￳￲￴￷￵￴￵￱￴￶￴￶￶￵￸￰￶￵￵￵￴￴￸￵￱￱￲￰￸￸￱￱￳￵￰￷￱￸￰￳￴￸￸￶￰￴￶￳￰￷￱￴￲￶￴￴￰￱￲￰￴￸￶￸￴￲￱￲￱￷￳￷￷￷￶￳￲￶￸￵￳￳￳￷￷￰￱￳￲￰￶￳￰￱￸￳￷￲￷￴￵￰￲￰￴￵￷￱￰￴￷￳￴￷￵￵￷￶￱￶￷￱￷￲￲￲￵￶￴￴￷￶￶￳￴￱￲￰￶￰￱￱￶￱￵￴￷￰￲￱￰￲￴￵￴￸￶￳￱￴￶￲￶￸￵￱￸￲￴￵￰￰￷￰￷￴￷￴￷￴￷￶￱￴￱￵￶￳￶￳￸￲￱￵￳￷￷￳￷￵￳￳￷￰￴￱￱￱￳￶￵￸￵￷￱￳￵￰￸￷￷￰￷￰￵￷￸￱￸￷￶￷￶￰￸￳￱￸￸￴￳￴￸￱￵￰￷￱￸￰￲￲￸￰￳￱:** ￱￷￶￳￶￸￱￳￱￱￶￶￵￳￰￱￰￶￶￶￵￲￲￰￰￴￷￱￴￵￲￵￵￲￶￷￱￴￶￶￸￴￰￶￳￴￱￴￷￲￵￸￷￸￰￰￱￱￵￵￵￴￲￵￶￴￱￸￲￳￱￴￶￶￵￲￶￰￵￵￸￶￳￴￸￱￲￰￸￴￸￰￰￶￵￶￳￲￵
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/36fd0e1e48b9bb2eeaeaf3996e2d24fb/__Padlet__10_.png?Expires=1773830440&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0tpUxH65s8LD1FOdwbGIKgaq5M1oq95QctoASl9wJcgFaL0bHGUhHVjyKXpuqLggaDMyt%2BzcechbU7lxypnQU4T3UgCTp1XP%2F%2FQZz%2BRGe8wSML%2BJlmHHRgkYBgvlI6bbulBP8qtmI%2Fcu%2BGWGf7WP%2FprX1PFds201OW0Z%2FvIbl8k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F36fd0e1e48b9bb2eeaeaf3996e2d24fb%2F__Padlet__10_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/36fd0e1e48b9bb2eeaeaf3996e2d24fb/__Padlet__10_.png?Expires=1773833653&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tBldjFa%2F%2BDVzbUY1zn5rND5EAOsZA8iTYGtOvgqo%2Fl5lq3Pf%2F6G5UixMau6vV091rQu41CmOQvTHGjMqreXp6JVN04SR3r13npmWGWyoj0WCzMVrY9tm4v8O6rGT325sFTAbpj8sqxtlkpZyYo3Eayr4iVKguYx38%2F153i3z5C4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F36fd0e1e48b9bb2eeaeaf3996e2d24fb%2F__Padlet__10_.png)
 
 #### Additional Information
 - **Post color:** White
@@ -44,13 +44,13 @@
 ---
 
 ### 3. 最初にここを読んでください
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>ここはMagurockの受付兼アカウント無い人向けの広場です</p><p><strong><mark>受付は右のセクションのコメントでお願いします</mark></strong></p><p>アカウント無い人向けでもあるので似たセクション構成です</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Magurock/v7eblregk0t2eq0k/wish/XGyBQbDMl0e9WL6K">部屋のルールはここにあります</a></p><p>この部屋はサブ部屋としても活用する予定でたまにイベントもするかもしれません</p>
 
 **￷￳￳￴￰￳￰￸￷￵￵￲￲￳￸￰￸￶￳￴￲￶￳￰￴￳￸￸￷￵￸￳￴￸￸￶￶￰￱￳￶￴￴￲￱￶￰￳￲￷￲￷￲￳￵￱￲￶￵￱￱￶￰￲￸￷￵￱￴￳￸￱￸￷￲￷￷￸￵￱￲￵￲￸￲￳￰￱￴￶￸￳￴￲￶￸￰￸￰￸￸￲￲￳￱￸￸￱￶￷￷￶￳￳￱￷￳￶￱￶￷￳￳￴￶￰￵￶￶￸￷￲￴￲￲￳￸￳￱￲￳￵￱￶￳￷￴￰￴￲￶￰￷￴￰￱￲￵￰￶￵￰￱￴￱￸￴￱￴￷￷￲￴￴￱￴￳￴￱￸￰￲￱￸￸￷￷￵￵￳￴￵￱￵￳￴￰￳￷￸￰￷￵￳￰￴￷￸￸￶￶￴￷￵￰￶￴￱￰￸￳￳￴￳￱￷￳￸￲￳￴￸￱￵￶￷￱￱￵￷￵￳￷￳￲￴￷￵￴￵￱￴￶￴￶￶￵￸￰￶￵￵￵￴￴￸￵￱￱￲￰￸￸￱￱￳￵￰￷￱￸￰￳￴￸￸￶￰￴￶￳￰￷￱￴￲￶￴￴￰￱￲￰￴￸￶￸￴￲￱￲￱￷￳￷￷￷￶￳￲￶￸￵￳￳￳￷￷￰￱￳￲￰￶￳￰￱￸￳￷￲￷￴￵￰￲￰￴￵￷￱￰￴￷￳￴￷￵￵￷￶￱￶￷￱￷￲￲￲￵￶￴￴￷￶￶￳￴￱￲￰￶￰￱￱￶￱￵￴￷￰￲￱￰￲￴￵￴￸￶￳￱￴￶￲￶￸￵￱￸￲￴￵￰￰￷￰￷￴￷￴￷￴￷￶￱￴￱￵￶￳￶￳￸￲￱￵￳￷￷￳￷￵￳￳￷￰￴￱￱￱￳￶￵￸￵￷￱￳￵￰￸￷￷￰￷￰￵￷￸￱￸￷￶￷￶￰￸￳￱￸￸￴￳￴￸￱￵￰￷￱￸￰￲￲￸￰￳￱:** ￱￷￶￳￶￸￱￳￱￱￶￶￵￳￰￱￰￶￶￶￵￲￲￰￰￴￷￱￴￵￲￵￵￲￶￷￱￴￶￶￸￴￰￶￳￴￱￴￷￲￵￸￷￸￰￰￱￱￵￵￵￴￲￵￶￴￱￸￲￳￱￴￶￶￵￲￶￰￵￵￸￶￳￴￸￱￲￰￸￴￸￰￰￶￵￶￳￲￵
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/8ea2dba807c8de10032d02ceb3edb556/_.png?Expires=1773830440&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mkFyqaH34OCOzAX0ngtiF0esKPk0lzRGx%2BiqMmFOf3shvzOYEWQOqmbC5RXSg1M4EkQUZ1JdIs%2FPvqEQEaULD1iMH1Z7imOcpjfCT2OCXmSR9ZqxcfnXXOgv%2BDKneQXxpqIyEZyHeWyI5gtnq2aIvUr1cXhRwXAZbA8TjBIOeek%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F8ea2dba807c8de10032d02ceb3edb556%2F_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/8ea2dba807c8de10032d02ceb3edb556/_.png?Expires=1773833653&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wRo5mcMsYmG6jwMtuPM65lW7SIRqt4s5u1mWtgl98JPwdAZazXQHbV9IUNfbRVcLcbYtn55wnSJtuOyFJHWMwFo7qoeK%2FeNe7qIVAVf3XRBrk3inpdU2vbHz0pBRi30NzT6%2BxEsCedCzduX1pHPgZPp2VnvctPOTk1P%2BzU%2BSjiw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F8ea2dba807c8de10032d02ceb3edb556%2F_.png)
 
 #### Additional Information
 - **Post color:** White
@@ -62,7 +62,7 @@
 ## 契約専用宣伝所
 
 ### 1. 契約宣伝場。勝手な投稿禁止
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>契約宣伝所は、宣伝したい部屋の右から8セクション以内に僕のロビー部屋の宣伝を置くことで利用できます</p><p>ただし、Magurockの判断によっては例外等がある場合があります。コメントで質問が可能なのでどうぞ</p><p>なお、不適切だと判断した宣伝は予告なしに削除することがあります</p>
 
@@ -81,7 +81,7 @@
 ---
 
 ### 2. 僕の先輩の部屋です
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>部屋所持者：とあるなすびの3.14</p><p>僕がPadletの活動を始めるきっかけになった人の部屋</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/nasubi1/aar4i6zrh9t7c8pk">https://padlet.com/nasubi1/aar4i6zrh9t7c8pk</a></p>
 
@@ -95,7 +95,7 @@
 ---
 
 ### 3. 僕の部屋を見て始めた部屋
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>部屋所持者：エドガー</p><p>こっちのほうが僕の部屋より人気高いから正直かなりおすすめ</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/edodesu/m2mmlqn2oow93w4l">https://padlet.com/edodesu/m2mmlqn2oow93w4l</a></p>
 
@@ -114,7 +114,7 @@
 ## 部屋参加希望
 
 ### 1. Post 1
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>受付改修のため停止中</p>
 
@@ -128,7 +128,7 @@
 ---
 
 ### 2. Magurockのみんなの広場の受付（メインの部屋です）
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Magurock/v7eblregk0t2eq0k">Magurockのみんなの広場はここからどうぞ</a></p><p>参加希望はここにコメント</p><p>基本ライターあげます</p><p>コメントは対応した後に消します</p><p>遅くてもできるだけ翌日には対応しようと思います</p><p>アカウント必須です</p>
 
@@ -137,7 +137,7 @@
 [Attachment 1](https://padlet.com/Magurock/v7eblregk0t2eq0k)
 
 #### Comments (58)
-- **Magurock (偽物や乗っ取り注意)** (Sep 11, 2025 12:05pm): 気軽にどうぞ！受付後は自己紹介をお願いします。
+- **隼人の顔** (Sep 11, 2025 12:05pm): 気軽にどうぞ！受付後は自己紹介をお願いします。
 - **キムチ鍋の鍋さん ナベさん第２形態ｗ 元ルイの2番弟子  しにがみ巣族副総長 りおと族38代目** (Oct 28, 2025 01:46am): 入りたいです　OK
 - **バグ大大好き** (Oct 28, 2025 01:46am): 　入れてください　OK
 - **夜行性の一般人（元☂）** (Oct 28, 2025 01:47am): いれてくださ〜い　OK
@@ -171,7 +171,7 @@
 - **まつりゅー　#Food:Meat隊** (Jan 06, 2026 02:34pm): 入らせてくださーい OK
 - **★ラムス★🐬乗っ取られてないから安心して** (Jan 06, 2026 02:34pm): ﾊｲﾘﾀｲ❗️ OK
 - **🐬꧁𐬹Satan𐬹꧂🐬　makunami族1代目** (Jan 06, 2026 02:34pm): 入りたいです❗️　OK
-- **萎え最弱ピカチュウ** (Jan 06, 2026 02:35pm): 今まで入ってなかったwいれてw　OK来てくれてありがとう萎えピカ
+- **隼人 #中国生まれ** (Jan 06, 2026 02:35pm): 今まで入ってなかったwいれてw　OK来てくれてありがとう萎えピカ
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Jan 09, 2026 03:45am): 入れてくれぇ OK
 - **削除済みユーザー** (Jan 10, 2026 01:36pm): あらしだるいって 放置が一番良いと思います
 - **削除済みユーザー** (Jan 10, 2026 01:37pm): 入れてください、そんでもって荒らし対応係にしていただけませんでしょうか？　入れますが係とかは特に作ってないのでそのままでで
@@ -206,7 +206,7 @@
 ## 部屋参加希望
 
 ### 1. Magurockの倉庫と隠れ家の受付（規制回避等はこちら）
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/kcorugaM/vpl756g03zcuhmg">Magurockの倉庫と隠れ家はここからどうぞ</a></p><p>参加希望はここにコメント</p><p>基本ライターあげます</p><p>コメントは対応した後に消します</p><p>遅くてもできるだけ翌日には対応しようと思います</p><p>アカウント必須です</p>
 
@@ -215,7 +215,7 @@
 [Attachment 1](https://padlet.com/kcorugaM/vpl756g03zcuhmg)
 
 #### Comments (28)
-- **Magurock (偽物や乗っ取り注意)** (Oct 01, 2025 06:25am): 準備中です。受付開始までしばらくお待ちください。
+- **隼人の顔** (Oct 01, 2025 06:25am): 準備中です。受付開始までしばらくお待ちください。
 - **おかゆん大好き** (Dec 16, 2025 01:58pm): 入りたいです。
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Oct 05, 2025 12:26pm): マグさん入れて！
 - **キムチ鍋の鍋さん ナベさん第２形態ｗ 元ルイの2番弟子  しにがみ巣族副総長 りおと族38代目** (Oct 10, 2025 05:55am): 入りたいです
@@ -254,7 +254,7 @@
 ## 部屋参加希望
 
 ### 1. Magurockの資料・会議室の受付（荒らし対策,部屋設定等）
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/kcorugaM/7ue3f76h99omvmbl">Magurockの資料・会議室はここからどうぞ</a></p><p>参加希望はここにコメント</p><p>基本ライターあげます</p><p>コメントは対応した後に消します</p><p>遅くてもできるだけ翌日には対応しようと思います</p><p>アカウント必須です</p>
 
@@ -267,7 +267,7 @@
 - **ほ̴͚͕̠͗̿̊͆̾͜͞そ҈̢͈̫̗̭̖̽̀͡か̷̢̛͓͕͈̜̯̇͐̈́わ̶͙͚̬͆̀͋̓̕͜せ̶̧̬̙̍́͝い҈̙̞̜̟̩͗̏̀͢͡や̷͍̝͇͆̅͛͋͜͝ ҉̠̞̽̌̄̚͢͝** (Oct 29, 2025 09:57pm): 入れて
 - **削除済みユーザー** (Nov 02, 2025 07:31am): 入れて
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 05, 2026 05:57am): 入れて
-- **Magurock (偽物や乗っ取り注意)** (Dec 16, 2025 09:25am): 凍結解除したので入れておきます。
+- **隼人の顔** (Dec 16, 2025 09:25am): 凍結解除したので入れておきます。
 - **削除済みユーザー** (Dec 21, 2025 09:21am): いれてぇ
 - **まつりゅー　#Food:Meat隊** (Jan 06, 2026 01:46am): 入れてください
 - **削除済みユーザー** (Jan 07, 2026 02:10am): 入れてください
@@ -286,7 +286,7 @@
 ## 部屋参加希望
 
 ### 1. （サイト配布）Magurockの貢献者と管理者部屋の受付
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/kcorugaM/jfr548qb8cdbfh8l">Magurockの貢献者と管理者たちの部屋はここからどうぞ</a></p><p>参加希望はここにコメント</p><p>基本ライターあげます</p><p>コメントは対応した後に消します</p><p>遅くてもできるだけ翌日には対応しようと思います</p><p>アカウント必須です</p><p><br></p><p>この部屋は参加条件があります</p><p>ある程度雑談に参加していたり</p><p>倉庫と隠れ家でサイトを配布する</p><p>等、部屋に貢献していることです。</p><p>後は個人的な信頼</p>
 
@@ -295,8 +295,8 @@
 [Attachment 1](https://padlet.com/kcorugaM/jfr548qb8cdbfh8l)
 
 #### Comments (3)
-- **Magurock (偽物や乗っ取り注意)** (Oct 16, 2025 02:28am): 受付の管理者･モデの方へこの部屋の受付は僕だけが対応します入りたい人は条件読んでね
-- **Magurock (偽物や乗っ取り注意)** (Dec 16, 2025 09:30am): 条件満たしていない場合はコメントを削除する事にしました。
+- **隼人の顔** (Oct 16, 2025 02:28am): 受付の管理者･モデの方へこの部屋の受付は僕だけが対応します入りたい人は条件読んでね
+- **隼人の顔** (Dec 16, 2025 09:30am): 条件満たしていない場合はコメントを削除する事にしました。
 - **削除済みユーザー** (Jan 23, 2026 10:07am): いれて
 
 #### Reactions
@@ -312,7 +312,7 @@
 ## サイト配布の体験版
 
 ### 1. 集めたサイトはこの投稿からダウンロード（体験版177個）
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>※ダウンロードは受付が必要です。</p><p>※このファイルは体験版です。また、この体験版だけMagurockが作成と書いた場合拡散を許可します。</p><p>※完全版(約430個)は貢献者部屋にあります。部屋入るなら募集や依頼セクション見てください</p><p><br></p><p>・被り0</p><p>・閉鎖で使えない物0</p><p>・かさ増し0</p><p>を目標に頑張ってます</p>
 
@@ -333,7 +333,7 @@
 ## 僕が大きく宣伝?とか
 
 ### 1. ※宣伝は右で　→ → → → →
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>ここはお互いに大きく宣伝したりすることを決めた部屋を置きます</p><p>あとお気に入り部屋とかも</p><p><br></p><p>ま勝手に投稿しないようにカーテン</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>
 
@@ -347,7 +347,7 @@
 ---
 
 ### 2. Post 2
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>かなり有名ないろいろ部屋。</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/nimonodayoo/9g53uj7lr27t9nit">https://padlet.com/nimonodayoo/9g53uj7lr27t9nit</a></p><p>部屋所持者：煮物</p><p>1代目の部屋はプロキシとか(マイクラも)で有名だったはず。</p><p>個人的にここのオンライン通話で話したりが好き(人結構いる)</p>
 
@@ -361,7 +361,7 @@
 ---
 
 ### 3. Post 3
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>僕の部屋を見て始めた部屋。</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/aoedo/d3nqm4e056zo456b">https://padlet.com/aoedo/d3nqm4e056zo456b</a></p><p>部屋所持者：エドガー</p><p>こっちのほうが僕の部屋より人気高いから正直かなりおすすめ</p><p>先に10000閲覧突破されたし</p><p>1回でもいいから見てみて</p>
 
@@ -377,7 +377,7 @@
 ## 宣伝
 
 ### 1. 宣伝用投稿
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>コメントにどうぞ</p>
 
@@ -420,7 +420,7 @@
 ## 他の部屋
 
 ### 1. ← ← ← ← ←　※宣伝は左で
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>ここは僕がこの部屋を宣伝した部屋や宣伝を頼まれた部屋等を書きます</p><p><br></p><p>ま勝手に投稿しないようにカーテン</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>
 
@@ -434,7 +434,7 @@
 ---
 
 ### 2. Post 2
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>Padlet広めた人が運営してます</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Glion_Glion_/onigiriniginigi-ns8c7g49c2o7xg14">https://padlet.com/Glion_Glion_/onigiriniginigi-ns8c7g49c2o7xg14</a></p>
 
@@ -448,7 +448,7 @@
 ---
 
 ### 3. Post 3
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>Padlet広めた人が運営してます</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Glion_Glion_/onigiriniginigi-ns8c7g49c2o7xg14">https://padlet.com/Glion_Glion_/onigiriniginigi-ns8c7g49c2o7xg14</a></p>
 
@@ -462,7 +462,7 @@
 ---
 
 ### 4. Post 4
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/fortunateclassindustries/xuqz661rzsvjvr1s">https://padlet.com/fortunateclassindustries/xuqz661rzsvjvr1s</a></p>
 
@@ -476,7 +476,7 @@
 ---
 
 ### 5. Post 5
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/sakuramoti/r25bfkw6n62mk44a">https://padlet.com/sakuramoti/r25bfkw6n62mk44a</a></p>
 
@@ -490,7 +490,7 @@
 ---
 
 ### 6. Post 6
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/PortalWorld">https://padlet.com/Toka_Kun_/PortalWorld</a></p>
 
@@ -504,7 +504,7 @@
 ---
 
 ### 7. Post 7
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/kuzyou/padlet-o3776ayyq5morzab">https://padlet.com/kuzyou/padlet-o3776ayyq5morzab</a></p>
 
@@ -518,7 +518,7 @@
 ---
 
 ### 8. Post 8
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/kuzyou/padlet-o3776ayyq5morzab">https://padlet.com/kuzyou/padlet-o3776ayyq5morzab</a></p>
 
@@ -532,7 +532,7 @@
 ---
 
 ### 9. Post 9
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/fortunateclassindustries/youtube-xuqz661rzsvjvr1s?lang=ja">https://padlet.com/fortunateclassindustries/youtube-xuqz661rzsvjvr1s?lang=ja</a></p>
 
@@ -546,7 +546,7 @@
 ---
 
 ### 10. Post 10
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/m200581_1/padlet-zsdegt1d6scuq9qa">https://padlet.com/m200581_1/padlet-zsdegt1d6scuq9qa</a></p>
 
@@ -560,7 +560,7 @@
 ---
 
 ### 11. Post 11
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/9641neko/padlet-piebt2vp9wq6ms5p">https://padlet.com/9641neko/padlet-piebt2vp9wq6ms5p</a></p><p><br/></p>
 
@@ -574,7 +574,7 @@
 ---
 
 ### 12. Post 12
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/qwertyuiopasdfghjklzxcvbnm5671091/google-proxy-j8kidhh2aayu60zx">https://padlet.com/qwertyuiopasdfghjklzxcvbnm5671091/google-proxy-j8kidhh2aayu60zx</a></p>
 
@@ -588,7 +588,7 @@
 ---
 
 ### 13. Post 13
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/rai005/k218uc27ma2aevqx">https://padlet.com/rai005/k218uc27ma2aevqx</a></p>
 
@@ -602,7 +602,7 @@
 ---
 
 ### 14. Post 14
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/PCtanosi1147/s79ui10m19a6jw5k">https://padlet.com/PCtanosi1147/s79ui10m19a6jw5k</a></p>
 
@@ -616,7 +616,7 @@
 ---
 
 ### 15. Post 15
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/nimonodayoo/9g53uj7lr27t9nit">https://padlet.com/nimonodayoo/9g53uj7lr27t9nit</a></p>
 
@@ -630,7 +630,7 @@
 ---
 
 ### 16. Post 16
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/nimonodayoo/9g53uj7lr27t9nit">https://padlet.com/nimonodayoo/9g53uj7lr27t9nit</a></p>
 
@@ -644,7 +644,7 @@
 ---
 
 ### 17. Post 17
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/kuzyou/o3776ayyq5morzab">https://padlet.com/kuzyou/o3776ayyq5morzab</a></p>
 
@@ -658,7 +658,7 @@
 ---
 
 ### 18. Post 18
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/m200581_1/zsdegt1d6scuq9qa">https://padlet.com/m200581_1/zsdegt1d6scuq9qa</a></p>
 
@@ -672,7 +672,7 @@
 ---
 
 ### 19. Post 19
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/s200552_12/nm70h6xe5azurhf">https://padlet.com/s200552_12/nm70h6xe5azurhf</a></p>
 
@@ -686,7 +686,7 @@
 ---
 
 ### 20. Post 20
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/qwertyuiopasdfghjklzxcvbnm5671091/j8kidhh2aayu60zx">https://padlet.com/qwertyuiopasdfghjklzxcvbnm5671091/j8kidhh2aayu60zx</a></p>
 
@@ -700,7 +700,7 @@
 ---
 
 ### 21. Post 21
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/kuzyou/o3776ayyq5morzab">https://padlet.com/kuzyou/o3776ayyq5morzab</a></p>
 
@@ -714,7 +714,7 @@
 ---
 
 ### 22. Post 22
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/laiondayo/1452lrw7zynlnjw5">https://padlet.com/laiondayo/1452lrw7zynlnjw5</a></p>
 
@@ -728,7 +728,7 @@
 ---
 
 ### 23. Post 23
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/nimonoooooooooooooooo/s2xylv1qm35s6gcp">https://padlet.com/nimonoooooooooooooooo/s2xylv1qm35s6gcp</a></p>
 
@@ -744,7 +744,7 @@
 ## 宣伝用テンプレート
 
 ### 1. 管理者以外投稿禁止です
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>勝手に投稿しない様にカーテン</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>
 
@@ -758,7 +758,7 @@
 ---
 
 ### 2. 雑談とか色々!閲覧16000達成!
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <ul><li><p><mark>閲覧15000回達成</mark>した部屋（みんなの広場）がある!</p></li><li><p>雑談、規制回避、Minecraft鯖、荒らし対策など<mark>色々ある!</mark></p></li><li><p><mark>どんな人でも大歓迎!</mark>（さすがにルール違反する人以外）</p></li></ul>
 
@@ -774,7 +774,7 @@
 ---
 
 ### 3. 雑談とか色々!閲覧18000達成!
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <ul><li><p><mark>閲覧18000回を達成</mark>した部屋(みんなの広場)がある!</p></li><li><p>雑談、規制回避、Minecraft鯖、荒らし対策など<mark>色々ある!</mark></p></li><li><p><mark>どんな人でも大歓迎!</mark>(流石にルール違反する人など以外)</p></li><li><p>部屋所持者(Magurock)は最高ランクの<mark>黒帯を達成!</mark></p></li></ul>
 
@@ -790,7 +790,7 @@
 ---
 
 ### 4. 雑談とか色々!閲覧18000達成!
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <ul><li><p><mark>閲覧18000回を達成</mark>した部屋(みんなの広場)がある!</p></li><li><p>雑談、規制回避、Minecraft鯖、荒らし対策など<mark>色々ある!</mark></p></li><li><p><mark>どんな人でも大歓迎!</mark>(流石にルール違反する人など以外)</p></li><li><p>部屋所持者(Magurock)は最高ランクの<mark>黒帯を達成!</mark></p></li></ul>
 
@@ -806,7 +806,7 @@
 ---
 
 ### 5. 雑談とか色々!閲覧15000達成!
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <ul><li><p><mark>閲覧15000回達成</mark>した部屋（みんなの広場）がある!</p></li><li><p>雑談、規制回避、Minecraft鯖、荒らし対策など<mark>色々ある!</mark></p></li><li><p><mark>どんな人でも大歓迎!</mark>（さすがにルール違反する人以外）</p></li></ul>
 
@@ -825,7 +825,7 @@
 ---
 
 ### 6. 自分の部屋を宣伝して、他の部屋を見つけよう!
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><strong>Padletポータルワールドの魅力</strong></p><ul><li><p>あの<strong><mark>日本最大級の部屋を持つ</mark>方が運営</strong>する宣伝部屋!</p></li><li><p>AI審査+管理者の<strong>見回りがある</strong>から<strong><mark>Wで安全･安心!</mark></strong></p></li><li><p>同じ部屋でも<strong>1週間経てば<mark>再度宣伝可能!</mark></strong></p></li></ul>
 
@@ -841,7 +841,7 @@
 ---
 
 ### 7. 自分の部屋を宣伝して、自分の部屋を見つけよう!
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><strong>Padletポータルワールドの魅力</strong></p><ul><li><p>あの<strong><mark>日本最大級の部屋を持つ</mark>方が運営</strong>する宣伝部屋!</p></li><li><p>AI審査+管理者の<strong>見回りがある</strong>から<strong><mark>Wで安全･安心!</mark></strong></p></li><li><p>同じ部屋でも<strong>1週間経てば<mark>再度宣伝可能!</mark></strong></p></li></ul>
 
@@ -860,7 +860,7 @@
 ---
 
 ### 8. Padletのニュース部屋(PNJ)
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>出来るだけ<strong>中立的な立場で、偏らず、正確</strong>な情報を<mark>皆で受け取り</mark>、<mark>皆に届けてみませんか？</mark></p>
 
@@ -876,7 +876,7 @@
 ---
 
 ### 9. Padletのニュース部屋(PNJ)
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>出来るだけ<strong>中立的な立場で、偏らず、正確</strong>な情報を<mark>皆で受け取り</mark>、<mark>皆に届けてみませんか？</mark></p>
 
@@ -892,7 +892,7 @@
 ---
 
 ### 10. 雑談とか色々!閲覧14000達成!
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <ul><li><p><mark>閲覧14000回達成</mark>した部屋（みんなの広場）がある!</p></li><li><p>雑談、規制回避、Minecraft鯖、荒らし対策など<mark>色々ある!</mark></p></li><li><p><mark>どんな人でも大歓迎!</mark>（さすがにルール違反する人以外）</p></li></ul>
 
@@ -908,7 +908,7 @@
 ---
 
 ### 11. ほぼいつでも人がいる雑談！
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <ul><li><p>旧部屋は<strong><mark>閲覧53000越え</mark></strong>！</p></li><li><p>プロキシ等とても<strong><mark>多方面</mark></strong>！</p></li><li><p>えｒのリクエストも可能！</p></li><li><p>誰でも<strong><mark>ライターで話せる</mark></strong>！</p></li></ul>
 
@@ -924,7 +924,7 @@
 ---
 
 ### 12. ほぼいつでも人がいる雑談！
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <ul><li><p>旧部屋は<strong><mark>閲覧53000越え</mark></strong>！</p></li><li><p>プロキシ等とても<strong><mark>多方面</mark></strong>！</p></li><li><p>えｒのリクエストも可能！</p></li><li><p>誰でも<strong><mark>ライターで話せる</mark></strong>！</p></li></ul>
 
@@ -940,7 +940,7 @@
 ---
 
 ### 13. プロキシ未使用規制解除+ゲーム共有部屋!閲覧57000!
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <ul><li><p><mark>閲覧57000回達成</mark>した大規模な規制解除+ゲーム共有部屋！</p></li><li><p><mark>どんな人でも大歓迎!</mark>（さすがにルール違反する人以外）</p></li></ul>
 
@@ -956,7 +956,7 @@
 ---
 
 ### 14. プロキシ未使用規制解除+ゲーム共有部屋!閲覧57000!
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <ul><li><p><mark>閲覧57000回達成</mark>した大規模な規制解除+ゲーム共有部屋！</p></li><li><p><mark>どんな人でも大歓迎!</mark>（さすがにルール違反する人以外）</p></li></ul>
 
@@ -974,7 +974,7 @@
 ## 懐かしい
 
 ### 1. Post 1
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>
 
@@ -988,7 +988,7 @@
 ---
 
 ### 2. 僕の先輩の部屋です
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>部屋所持者：とあるなすびの3.14</p><p>僕がPadletの活動を始めるきっかけになった人の部屋</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/nasubi1/kokzp4wu1l482572">https://padlet.com/nasubi1/kokzp4wu1l482572</a></p>
 
@@ -1112,7 +1112,7 @@
 ---
 
 ### 3. 契約宣伝場。勝手な投稿禁止
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>契約宣伝所は、宣伝したい部屋の右から8セクション以内に僕のロビー部屋の宣伝を置くことで利用できます</p><p>ただし、Magurockの判断によっては例外等がある場合があります。コメントで質問が可能なのでどうぞ</p><p>なお、不適切だと判断した宣伝は予告なしに削除することがあります</p>
 
@@ -1187,7 +1187,7 @@
 ---
 
 ### 4. Magurockの倉庫と隠れ家の受付（規制回避等はこちらです）
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Magurock/1k8phi94vfr5sqd">Magurockの倉庫と隠れ家はここからどうぞ</a></p><p>参加希望はここにコメント</p><p>基本ライターあげます</p><p>コメントは対応した後に消します</p><p>遅くてもできるだけ翌日には対応しようと思います</p><p>アカウント必須です</p>
 
@@ -1196,7 +1196,7 @@
 [Attachment 1](https://padlet.com/Magurock/1k8phi94vfr5sqd)
 
 #### Comments (6)
-- **Magurock (偽物や乗っ取り注意)** (Sep 11, 2025 12:05pm): 気軽にどうぞ！
+- **隼人の顔** (Sep 11, 2025 12:05pm): 気軽にどうぞ！
 - **Tsukushi** (Sep 27, 2025 02:54am): 入りたいです！
 - **キムチ鍋の鍋さん ナベさん第２形態ｗ 元ルイの2番弟子  しにがみ巣族副総長 りおと族38代目** (Sep 27, 2025 08:33am): いれてー
 - **削除済みユーザー** (Sep 27, 2025 11:48pm): 入れてください！
@@ -1211,7 +1211,7 @@
 ---
 
 ### 5. Post 5
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>何らかの原因でPadletが運営に消されたのでこの部屋の受付を停止しています</p>
 
@@ -1219,7 +1219,7 @@
 
 #### Comments (4)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 28, 2025 05:55am): 運営にメールで問い合わせたら？
-- **Magurock (偽物や乗っ取り注意)** (Sep 29, 2025 12:10am): 聞いてみた削除した理由を保存してないから分からないらしい
+- **隼人の顔** (Sep 29, 2025 12:10am): 聞いてみた削除した理由を保存してないから分からないらしい
 - **削除済みユーザー** (Sep 30, 2025 01:02am): そんなことある？
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 19, 2025 09:30am): なんでやねん
 
@@ -1231,13 +1231,13 @@
 ---
 
 ### 6. 最初にここを読んでください
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>ここはMagurockの受付兼アカウント無い人向けの広場です</p><p><strong><mark>受付は右のセクションのコメントでお願いします</mark></strong></p><p>アカウント無い人向けでもあるので似たセクション構成です</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Magurock/v7eblregk0t2eq0k/wish/XGyBQbDMl0e9WL6K">部屋のルールはここにあります</a></p><p>この部屋はサブ部屋としても活用する予定でたまにイベントもするかもしれません</p>
 
 **￷￳￳￴￰￳￰￸￷￵￵￲￲￳￸￰￸￶￳￴￲￶￳￰￴￳￸￸￷￵￸￳￴￸￸￶￶￰￱￳￶￴￴￲￱￶￰￳￲￷￲￷￲￳￵￱￲￶￵￱￱￶￰￲￸￷￵￱￴￳￸￱￸￷￲￷￷￸￵￱￲￵￲￸￲￳￰￱￴￶￸￳￴￲￶￸￰￸￰￸￸￲￲￳￱￸￸￱￶￷￷￶￳￳￱￷￳￶￱￶￷￳￳￴￶￰￵￶￶￸￷￲￴￲￲￳￸￳￱￲￳￵￱￶￳￷￴￰￴￲￶￰￷￴￰￱￲￵￰￶￵￰￱￴￱￸￴￱￴￷￷￲￴￴￱￴￳￴￱￸￰￲￱￸￸￷￷￵￵￳￴￵￱￵￳￴￰￳￷￸￰￷￵￳￰￴￷￸￸￶￶￴￷￵￰￶￴￱￰￸￳￳￴￳￱￷￳￸￲￳￴￸￱￵￶￷￱￱￵￷￵￳￷￳￲￴￷￵￴￵￱￴￶￴￶￶￵￸￰￶￵￵￵￴￴￸￵￱￱￲￰￸￸￱￱￳￵￰￷￱￸￰￳￴￸￸￶￰￴￶￳￰￷￱￴￲￶￴￴￰￱￲￰￴￸￶￸￴￲￱￲￱￷￳￷￷￷￶￳￲￶￸￵￳￳￳￷￷￰￱￳￲￰￶￳￰￱￸￳￷￲￷￴￵￰￲￰￴￵￷￱￰￴￷￳￴￷￵￵￷￶￱￶￷￱￷￲￲￲￵￶￴￴￷￶￶￳￴￱￲￰￶￰￱￱￶￱￵￴￷￰￲￱￰￲￴￵￴￸￶￳￱￴￶￲￶￸￵￱￸￲￴￵￰￰￷￰￷￴￷￴￷￴￷￶￱￴￱￵￶￳￶￳￸￲￱￵￳￷￷￳￷￵￳￳￷￰￴￱￱￱￳￶￵￸￵￷￱￳￵￰￸￷￷￰￷￰￵￷￸￱￸￷￶￷￶￰￸￳￱￸￸￴￳￴￸￱￵￰￷￱￸￰￲￲￸￰￳￱:** ￱￷￶￳￶￸￱￳￱￱￶￶￵￳￰￱￰￶￶￶￵￲￲￰￰￴￷￱￴￵￲￵￵￲￶￷￱￴￶￶￸￴￰￶￳￴￱￴￷￲￵￸￷￸￰￰￱￱￵￵￵￴￲￵￶￴￱￸￲￳￱￴￶￶￵￲￶￰￵￵￸￶￳￴￸￱￲￰￸￴￸￰￰￶￵￶￳￲￵
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/71222d8d909c40f868e87e16db002f96/_.png?Expires=1773830441&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5qht7BxYvENiv6Bq8se8Zf1UXRHCI9v%2Bo1dPlsn7tMGluakwf7ICNNtfe%2FD9RFJr%2F9dmWsvH3I24DjrMzbLDS0lwWwSSa4qF2zciCM8L8IhT1JLAYA1wQ8fjRc4k95Dt9%2F1sh%2BBRn9U2%2F9IUnobjfty0FWN90n9xtXKZjY%2B%2FgFE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F71222d8d909c40f868e87e16db002f96%2F_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/71222d8d909c40f868e87e16db002f96/_.png?Expires=1773833654&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ocJLe89updxvcas%2BCuFjY1JbFL1cEWR4J0Qh0LitqIBrDl9OMXZjJDgFlZHKXNakPXktBD%2BCjTcn8PTSnfDu9m4yUEpSgdsN3SNkcHGFnfrKfmLC9RPDsdn2iy%2BhfjunFke6Gp%2F92jaqeEC7NY%2BfDn7qSJuiuQY3Ea9A70ujrr8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F71222d8d909c40f868e87e16db002f96%2F_.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Dec 26, 2025 03:33am): この部屋に入りたいです
@@ -1250,7 +1250,7 @@
 ---
 
 ### 7. Post 7
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>雑談したい方はみんなの広場で雑談する事を推奨します</p>
 
@@ -1266,7 +1266,7 @@
 ## PNJ(アーカイブ)
 
 ### 1. Post 1
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>
 
@@ -1280,7 +1280,7 @@
 ---
 
 ### 2. Padlet News Japan (PNJ)
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>匿名での情報提供は、ここのセクションに<strong>新規投稿</strong>してください。</p><p><br></p><p>PNJに協力してくれる優しい方はこの投稿にコメントしてください。</p><p><br></p><p>確認したらコメントを消します。</p>
 
@@ -1299,7 +1299,7 @@
 ---
 
 ### 3. Padlet News Japan (PNJ)
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>匿名での情報提供は、ここのセクションに<strong>新規投稿</strong>してください。</p><p><br/></p><p>PNJに協力してくれる優しい方はこの投稿にコメントしてください。</p><p><br/></p><p>確認したらコメントを消します。</p>
 
@@ -1318,14 +1318,14 @@
 ---
 
 ### 4. Post 4
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>例1: 活発な荒らしの拡散を依頼</p><p>例2: 裏で迷惑行為してる情報提供</p><p><br/></p><p>この例だけに限る訳ではないです。</p>
 
 **￷￳￳￴￰￳￰￸￷￵￵￲￲￳￸￰￸￶￳￴￲￶￳￰￴￳￸￸￷￵￸￳￴￸￸￶￶￰￱￳￶￴￴￲￱￶￰￳￲￷￲￷￲￳￵￱￲￶￵￱￱￶￰￲￸￷￵￱￴￳￸￱￸￷￲￷￷￸￵￱￲￵￲￸￲￳￰￱￴￶￸￳￴￲￶￸￰￸￰￸￸￲￲￳￱￸￸￱￶￷￷￶￳￳￱￷￳￶￱￶￷￳￳￴￶￰￵￶￶￸￷￲￴￲￲￳￸￳￱￲￳￵￱￶￳￷￴￰￴￲￶￰￷￴￰￱￲￵￰￶￵￰￱￴￱￸￴￱￴￷￷￲￴￴￱￴￳￴￱￸￰￲￱￸￸￷￷￵￵￳￴￵￱￵￳￴￰￳￷￸￰￷￵￳￰￴￷￸￸￶￶￴￷￵￰￶￴￱￰￸￳￳￴￳￱￷￳￸￲￳￴￸￱￵￶￷￱￱￵￷￵￳￷￳￲￴￷￵￴￵￱￴￶￴￶￶￵￸￰￶￵￵￵￴￴￸￵￱￱￲￰￸￸￱￱￳￵￰￷￱￸￰￳￴￸￸￶￰￴￶￳￰￷￱￴￲￶￴￴￰￱￲￰￴￸￶￸￴￲￱￲￱￷￳￷￷￷￶￳￲￶￸￵￳￳￳￷￷￰￱￳￲￰￶￳￰￱￸￳￷￲￷￴￵￰￲￰￴￵￷￱￰￴￷￳￴￷￵￵￷￶￱￶￷￱￷￲￲￲￵￶￴￴￷￶￶￳￴￱￲￰￶￰￱￱￶￱￵￴￷￰￲￱￰￲￴￵￴￸￶￳￱￴￶￲￶￸￵￱￸￲￴￵￰￰￷￰￷￴￷￴￷￴￷￶￱￴￱￵￶￳￶￳￸￲￱￵￳￷￷￳￷￵￳￳￷￰￴￱￱￱￳￶￵￸￵￷￱￳￵￰￸￷￷￰￷￰￵￷￸￱￸￷￶￷￶￰￸￳￱￸￸￴￳￴￸￱￵￰￷￱￸￰￲￲￸￰￳￱:** ￱￷￶￳￶￸￱￳￱￱￶￶￵￳￰￱￰￶￶￶￵￲￲￰￰￴￷￱￴￵￲￵￵￲￶￷￱￴￶￶￸￴￰￶￳￴￱￴￷￲￵￸￷￸￰￰￱￱￵￵￵￴￲￵￶￴￱￸￲￳￱￴￶￶￵￲￶￰￵￵￸￶￳￴￸￱￲￰￸￴￸￰￰￶￵￶￳￲￵
 
 #### Comments (1)
-- **Magurock (偽物や乗っ取り注意)** (Sep 03, 2025 11:05am): [Attachment](https://padlet.com/Magurock/magurock-e9n4zhdx6ucfbaa4/wish/v3w8Zwgr9wGEZN52) ブレイクアウトルームの場合、右下または下中央のボタンを押すことで投稿を作成できます。
+- **隼人の顔** (Sep 03, 2025 11:05am): [Attachment](https://padlet.com/Magurock/magurock-e9n4zhdx6ucfbaa4/wish/v3w8Zwgr9wGEZN52) ブレイクアウトルームの場合、右下または下中央のボタンを押すことで投稿を作成できます。
 
 #### Additional Information
 - **Post color:** White
@@ -1418,8 +1418,8 @@
 **￷￳￳￴￰￳￰￸￷￵￵￲￲￳￸￰￸￶￳￴￲￶￳￰￴￳￸￸￷￵￸￳￴￸￸￶￶￰￱￳￶￴￴￲￱￶￰￳￲￷￲￷￲￳￵￱￲￶￵￱￱￶￰￲￸￷￵￱￴￳￸￱￸￷￲￷￷￸￵￱￲￵￲￸￲￳￰￱￴￶￸￳￴￲￶￸￰￸￰￸￸￲￲￳￱￸￸￱￶￷￷￶￳￳￱￷￳￶￱￶￷￳￳￴￶￰￵￶￶￸￷￲￴￲￲￳￸￳￱￲￳￵￱￶￳￷￴￰￴￲￶￰￷￴￰￱￲￵￰￶￵￰￱￴￱￸￴￱￴￷￷￲￴￴￱￴￳￴￱￸￰￲￱￸￸￷￷￵￵￳￴￵￱￵￳￴￰￳￷￸￰￷￵￳￰￴￷￸￸￶￶￴￷￵￰￶￴￱￰￸￳￳￴￳￱￷￳￸￲￳￴￸￱￵￶￷￱￱￵￷￵￳￷￳￲￴￷￵￴￵￱￴￶￴￶￶￵￸￰￶￵￵￵￴￴￸￵￱￱￲￰￸￸￱￱￳￵￰￷￱￸￰￳￴￸￸￶￰￴￶￳￰￷￱￴￲￶￴￴￰￱￲￰￴￸￶￸￴￲￱￲￱￷￳￷￷￷￶￳￲￶￸￵￳￳￳￷￷￰￱￳￲￰￶￳￰￱￸￳￷￲￷￴￵￰￲￰￴￵￷￱￰￴￷￳￴￷￵￵￷￶￱￶￷￱￷￲￲￲￵￶￴￴￷￶￶￳￴￱￲￰￶￰￱￱￶￱￵￴￷￰￲￱￰￲￴￵￴￸￶￳￱￴￶￲￶￸￵￱￸￲￴￵￰￰￷￰￷￴￷￴￷￴￷￶￱￴￱￵￶￳￶￳￸￲￱￵￳￷￷￳￷￵￳￳￷￰￴￱￱￱￳￶￵￸￵￷￱￳￵￰￸￷￷￰￷￰￵￷￸￱￸￷￶￷￶￰￸￳￱￸￸￴￳￴￸￱￵￰￷￱￸￰￲￲￸￰￳￱:** ￱￷￶￳￶￸￱￳￱￱￶￶￵￳￰￱￰￶￶￶￵￲￲￰￰￴￷￱￴￵￲￵￵￲￶￷￱￴￶￶￸￴￰￶￳￴￱￴￷￲￵￸￷￸￰￰￱￱￵￵￵￴￲￵￶￴￱￸￲￳￱￴￶￶￵￲￶￰￵￵￸￶￳￴￸￱￲￰￸￴￸￰￰￶￵￶￳￲￵
 
 #### Comments (2)
-- **Magurock (偽物や乗っ取り注意)** (Sep 15, 2025 11:33pm): あれ招待してませんでしたっけ…?
-- **Magurock (偽物や乗っ取り注意)** (Sep 15, 2025 11:33pm): し直しておきます
+- **隼人の顔** (Sep 15, 2025 11:33pm): あれ招待してませんでしたっけ…?
+- **隼人の顔** (Sep 15, 2025 11:33pm): し直しておきます
 
 #### Additional Information
 - **Post color:** White
@@ -1584,7 +1584,7 @@
 ## 旧宣伝セクション
 
 ### 1. Post 1
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>
 
@@ -3066,7 +3066,7 @@
 ---
 
 ### 104. 僕の部屋を見て始めた部屋
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <p>こっちのほうが僕の部屋より人気高いから正直かなりおすすめ</p><p>先に10000閲覧突破されたし</p><p>1回でもいいから見てみて</p>
 
@@ -3259,7 +3259,7 @@
 **￷￳￳￴￰￳￰￸￷￵￵￲￲￳￸￰￸￶￳￴￲￶￳￰￴￳￸￸￷￵￸￳￴￸￸￶￶￰￱￳￶￴￴￲￱￶￰￳￲￷￲￷￲￳￵￱￲￶￵￱￱￶￰￲￸￷￵￱￴￳￸￱￸￷￲￷￷￸￵￱￲￵￲￸￲￳￰￱￴￶￸￳￴￲￶￸￰￸￰￸￸￲￲￳￱￸￸￱￶￷￷￶￳￳￱￷￳￶￱￶￷￳￳￴￶￰￵￶￶￸￷￲￴￲￲￳￸￳￱￲￳￵￱￶￳￷￴￰￴￲￶￰￷￴￰￱￲￵￰￶￵￰￱￴￱￸￴￱￴￷￷￲￴￴￱￴￳￴￱￸￰￲￱￸￸￷￷￵￵￳￴￵￱￵￳￴￰￳￷￸￰￷￵￳￰￴￷￸￸￶￶￴￷￵￰￶￴￱￰￸￳￳￴￳￱￷￳￸￲￳￴￸￱￵￶￷￱￱￵￷￵￳￷￳￲￴￷￵￴￵￱￴￶￴￶￶￵￸￰￶￵￵￵￴￴￸￵￱￱￲￰￸￸￱￱￳￵￰￷￱￸￰￳￴￸￸￶￰￴￶￳￰￷￱￴￲￶￴￴￰￱￲￰￴￸￶￸￴￲￱￲￱￷￳￷￷￷￶￳￲￶￸￵￳￳￳￷￷￰￱￳￲￰￶￳￰￱￸￳￷￲￷￴￵￰￲￰￴￵￷￱￰￴￷￳￴￷￵￵￷￶￱￶￷￱￷￲￲￲￵￶￴￴￷￶￶￳￴￱￲￰￶￰￱￱￶￱￵￴￷￰￲￱￰￲￴￵￴￸￶￳￱￴￶￲￶￸￵￱￸￲￴￵￰￰￷￰￷￴￷￴￷￴￷￶￱￴￱￵￶￳￶￳￸￲￱￵￳￷￷￳￷￵￳￳￷￰￴￱￱￱￳￶￵￸￵￷￱￳￵￰￸￷￷￰￷￰￵￷￸￱￸￷￶￷￶￰￸￳￱￸￸￴￳￴￸￱￵￰￷￱￸￰￲￲￸￰￳￱:** ￱￷￶￳￶￸￱￳￱￱￶￶￵￳￰￱￰￶￶￶￵￲￲￰￰￴￷￱￴￵￲￵￵￲￶￷￱￴￶￶￸￴￰￶￳￴￱￴￷￲￵￸￷￸￰￰￱￱￵￵￵￴￲￵￶￴￱￸￲￳￱￴￶￶￵￲￶￰￵￵￸￶￳￴￸￱￲￰￸￴￸￰￰￶￵￶￳￲￵
 
 #### Comments (2)
-- **Magurock (偽物や乗っ取り注意)** (Aug 07, 2025 11:35am): 宣伝セクションでお願いします(移動済み)
+- **隼人の顔** (Aug 07, 2025 11:35am): 宣伝セクションでお願いします(移動済み)
 - **27年2月末迄低浮上のウェザエモン** (Aug 08, 2025 07:22am): おｋ
 
 #### Additional Information
@@ -3274,7 +3274,7 @@
 
 **￷￳￳￴￰￳￰￸￷￵￵￲￲￳￸￰￸￶￳￴￲￶￳￰￴￳￸￸￷￵￸￳￴￸￸￶￶￰￱￳￶￴￴￲￱￶￰￳￲￷￲￷￲￳￵￱￲￶￵￱￱￶￰￲￸￷￵￱￴￳￸￱￸￷￲￷￷￸￵￱￲￵￲￸￲￳￰￱￴￶￸￳￴￲￶￸￰￸￰￸￸￲￲￳￱￸￸￱￶￷￷￶￳￳￱￷￳￶￱￶￷￳￳￴￶￰￵￶￶￸￷￲￴￲￲￳￸￳￱￲￳￵￱￶￳￷￴￰￴￲￶￰￷￴￰￱￲￵￰￶￵￰￱￴￱￸￴￱￴￷￷￲￴￴￱￴￳￴￱￸￰￲￱￸￸￷￷￵￵￳￴￵￱￵￳￴￰￳￷￸￰￷￵￳￰￴￷￸￸￶￶￴￷￵￰￶￴￱￰￸￳￳￴￳￱￷￳￸￲￳￴￸￱￵￶￷￱￱￵￷￵￳￷￳￲￴￷￵￴￵￱￴￶￴￶￶￵￸￰￶￵￵￵￴￴￸￵￱￱￲￰￸￸￱￱￳￵￰￷￱￸￰￳￴￸￸￶￰￴￶￳￰￷￱￴￲￶￴￴￰￱￲￰￴￸￶￸￴￲￱￲￱￷￳￷￷￷￶￳￲￶￸￵￳￳￳￷￷￰￱￳￲￰￶￳￰￱￸￳￷￲￷￴￵￰￲￰￴￵￷￱￰￴￷￳￴￷￵￵￷￶￱￶￷￱￷￲￲￲￵￶￴￴￷￶￶￳￴￱￲￰￶￰￱￱￶￱￵￴￷￰￲￱￰￲￴￵￴￸￶￳￱￴￶￲￶￸￵￱￸￲￴￵￰￰￷￰￷￴￷￴￷￴￷￶￱￴￱￵￶￳￶￳￸￲￱￵￳￷￷￳￷￵￳￳￷￰￴￱￱￱￳￶￵￸￵￷￱￳￵￰￸￷￷￰￷￰￵￷￸￱￸￷￶￷￶￰￸￳￱￸￸￴￳￴￸￱￵￰￷￱￸￰￲￲￸￰￳￱:** ￱￷￶￳￶￸￱￳￱￱￶￶￵￳￰￱￰￶￶￶￵￲￲￰￰￴￷￱￴￵￲￵￵￲￶￷￱￴￶￶￸￴￰￶￳￴￱￴￷￲￵￸￷￸￰￰￱￱￵￵￵￴￲￵￶￴￱￸￲￳￱￴￶￶￵￲￶￰￵￵￸￶￳￴￸￱￲￰￸￴￸￰￰￶￵￶￳￲￵
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2621724610/0ab62ec9999fdb20399a316047948bd7/IMG_6690.jpeg?Expires=1773830441&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=16wH9lxC9KUm01KdkKR9KB31YtFAF0gCmbIBO%2F1NkSO4OJj5bewvqVLvV%2F3SM6e05p9Z9riHQCjVG%2F%2FZV%2Fxwcu6Bime9EEOUY7YfZHgjCA8fBnAQ2s%2BQ1C5zEkPxX7Ig4UKzplY4EeYYlfikY1%2Fu38u1ncI4%2B%2FYlfE0acttdOeE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2621724610%2F0ab62ec9999fdb20399a316047948bd7%2FIMG_6690.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2621724610/0ab62ec9999fdb20399a316047948bd7/IMG_6690.jpeg?Expires=1773833655&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OIUzk8D4Nsp4eaojEYDCQLd2Zvr4xLCrIQCRCC77D%2FsP88h5aVisqR61iRx6h1k0rwu5%2BIAwQXdAJSTV4F5veFgdV8gskp7fgdbaowiy0qzQcN3NLT%2Bu2dlXRaOwz3Bt4gUOQrJiPG4Btdk52gOCQi1ystRR4TP31u02%2F97Fxkk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2621724610%2F0ab62ec9999fdb20399a316047948bd7%2FIMG_6690.jpeg)
 
 #### Comments (1)
 - **ピカマン#さくらもちの弟子　#さくらもちの従僕　#さくらもちおいしい#さくらもち荒らし対策軍　三等兵#煮物貢献者#煮物様の弟子#かしわもちうまっ** (Aug 05, 2025 08:11am): CMhttps://padlet.com/s200552_12/padlet-nm70h6xe5azurhf
