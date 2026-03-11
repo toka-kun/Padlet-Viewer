@@ -1,4 +1,4 @@
-最終更新: 2026/03/11 22:03:23
+最終更新: 2026/03/11 23:47:24
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 11, 2026 11:59am
+- **Updated At (UTC):** Mar 11, 2026 01:23pm
 
 ## 受付
 
@@ -237,7 +237,7 @@
 
 [Attachment 1](https://padlet.com/sakuramoti_modori/home)
 
-#### Comments (18)
+#### Comments (20)
 - **さくらもち** (Feb 02, 2026 12:01pm): わー
 - **全ての部屋にコメントする** (Feb 11, 2026 12:56pm): ( ｀・∀・´)ﾉﾖﾛｼｸ
 - **ピカマン#究極のさくらもちの従僕** (Feb 17, 2026 11:57am): 今荒らされてる
@@ -256,6 +256,8 @@
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 27, 2026 12:19am): パスワードが弱いんじゃ
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 04, 2026 01:22pm): ｗ
 - **Anonymous** (Mar 11, 2026 11:59am): ピカマン緊急ヘルプですw全垢完全乗っ取りw
+- **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 11, 2026 01:23pm): oh
+- **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 11, 2026 01:23pm): ＼(^o^)／
 
 #### Additional Information
 - **Post color:** Blue
