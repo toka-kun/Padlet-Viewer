@@ -1,20 +1,20 @@
-最終更新: 2026/03/10 02:03:35
+最終更新: 2026/03/11 14:50:25
 
 # アーカイブ
 
 プロキシのリンクやYouTubeの閲覧方法を共有する会のアーカイブです。投票には2ヶ月が経つまで参加できます。ベル🔔ボタンからこの部屋をフォローするとアーカイブされた投稿の通知が来るようになります。
 
 ## Summary
-- **Link:** https://padlet.com/202201634_2/padlet-scvs0iw7tdatft21
-- **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+- **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
+- **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 234
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Mar 09, 2026 04:07pm
+- **Updated At (UTC):** Mar 11, 2026 04:48am
 
 ## セクション一覧
 
 ### 1. セクション一覧
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ol><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/LProvDLL7GzNvOMJ-K5gBvaMKqGk0vpV7"><strong>管理者からの連絡</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/65XOvBORzMGo4GBQ-K5gBvaMKqGk0vpV7"><strong>閲覧数カウンター</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/GyPQvXmmnaJ343OL-K5gBvaMKqGk0vpV7"><strong>意見箱・報告・雑談</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/7PY5qNydXwNO2Ba8-K5gBvaMKqGk0vpV7"><strong>投票所</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/Bk5x4dLLgKzm4Zgz-K5gBvaMKqGk0vpV7"><strong>リクエスト・相談・質問・フィルター関連</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/BbjnqxLLzRJ0q93Q-K5gBvaMKqGk0vpV7"><strong>サイト</strong></a></p></li><li><p><strong>イベント</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/nRxeqrlnyMb5456P-K5gBvaMKqGk0vpV7">10万達成記念 - 質問コーナー</a></p></li></ul></li></ol>
 
@@ -32,9 +32,13 @@
 ---
 
 ### 2. サムネイル
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1773680611&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=S7WpsDFXS1m8ofJk2WMIw5gGwSChsYWb2dwa1z4kmPVlEYZHqEdY%2BUpwHHDlCAIYNn8BTKXo%2Fi8cpvvKLnxerpRasN8tGZppD6CENsXlpNJRHrjql7gTVuBZv%2FIcwXLQbFKhE%2FOpR0aCC9E0bUEEWugj%2BcVbdsWhIlUI4AZQQM0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1773813021&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=T3Oiln%2Fx8K7Rd7VWOHEtg4%2FQx0HiT1%2F49s0%2BPiACmPXtCemu%2BMnchQW0qCECpyHZ3rGRBY9QUTFrTBBRLXEF8sT4d2gg3JxgtKgkxAX9qaHwVqARvR56N%2FwCouagqsi9Hm2rdcSxz67wIqCGyD%2B78IvZLv%2BOAT6sz2LUavI8Y5A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+
+#### Comments (2)
+- **アブリ　カルビ** (Mar 11, 2026 04:48am): https://padlet.com/gs211024/padlet-xw8i9fwnxl51b4ia
+- **アブリ　カルビ** (Mar 11, 2026 04:48am): これ絶体入ったほうがいい
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -50,7 +54,7 @@
 ## 管理者からの連絡
 
 ### 1. 最新の連絡はこちら！
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>2025/11/19以降の投稿です。</strong></p>
 
@@ -68,7 +72,7 @@
 ---
 
 ### 2. チョコtube追加
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>他のYouTubeサイトも更新しています。 </strong></p><p><br></p><p><strong>2026/01/26追記: YouTubeサイトを更新しました。</strong></p>
 
@@ -98,7 +102,7 @@
 <p>遅くなりましたが、あけましておめでとうございます。2026年もどうぞよろしくお願いいたします。</p><p><br></p><p><strong>2026/01/04追記: 結構いろいろ更新してるよ</strong></p>
 
 #### Comments (20)
-- **削除済みユーザー** (Jan 01, 2026 01:45pm): よろしく
+- **Magurock  (偽物や乗っ取り注意)** (Jan 01, 2026 01:45pm): よろしく
 - **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Jan 04, 2026 04:02am): よろしくおねがいします
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Jan 02, 2026 03:48am): よろしくお願いします
 - **タイピングを極めたい** (Jan 02, 2026 11:31am): よろしくお願いします！
@@ -131,14 +135,14 @@
 ---
 
 ### 4. エドガー部屋と年越しイベントを共同開催中！詳細はこちらへ↓
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>気になる方は今すぐ参加しましょう！</strong></p><ul><li><p><strong><mark>マイクラ鯖＆ミート</mark></strong>あり</p></li><li><p><strong><mark>景品付きの謎解き</mark></strong>に参加できる</p></li><li><p>イベント限定で<strong><mark>プロキシとYouTube配布</mark></strong>あり</p></li><li><p>誰でもイベントを出展可能</p></li></ul>
 
 [https://padlet.com/EDOGA_desu/2025-26-dxmactg86ht02ec5](https://padlet.com/EDOGA_desu/2025-26-dxmactg86ht02ec5)
 
 #### Comments (2)
-- **削除済みユーザー** (Dec 25, 2025 12:42pm): ありがとうございます
+- **Magurock  (偽物や乗っ取り注意)** (Dec 25, 2025 12:42pm): ありがとうございます
 - **おじゃる** (Dec 30, 2025 08:47am): (・∀・)ｲｲﾈ!!
 
 #### Reactions
@@ -153,7 +157,7 @@
 ---
 
 ### 5. i-FILTER民のために代替ビュアーを作成しました。
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/x871d592e">https://html.cafe/x871d592e</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet-viewer.pages.dev/">https://padlet-viewer.pages.dev/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet-viewer.smooth.ytalt.f5.si/">https://padlet-viewer.smooth.ytalt.f5.si/</a></p></li></ul>
 
@@ -186,7 +190,7 @@
 ---
 
 ### 6. YouTubeは更新済み
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>あとはプロキシを少し</strong></p><p><br></p><p><strong>2025/12/09追記: 僕の改造版わかめでトレンドを復活させました。</strong></p><p><br></p><p><strong>2025/12/14追記: YouTubeを更新</strong></p><p><br></p><p><strong>2025/12/20追記: YouTubeを更新</strong></p>
 
@@ -195,7 +199,7 @@
 - **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 06, 2025 08:36am): わーい
 - **Affectionate Toad** (Dec 09, 2025 02:18am): しあチューブが使えなくなりました検索できなくなり動画も見れなくなりました
 - **盲目衛門** (Dec 09, 2025 02:41am): 質問なんですけどしあtubeが今日の朝から動画が見れなくなってしまいました↓のようになります
-- **盲目衛門** (Dec 09, 2025 03:10am): [Attachment](https://padlet.com/202201634_2/padlet-scvs0iw7tdatft21/wish/x5m7aoggzO5yakAV) どうしたらいいですかね？有識者の方がいらっしゃいましたらお返事お願いしますちなみに通常の再生方法では再生できません
+- **盲目衛門** (Dec 09, 2025 03:10am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/x5m7aoggzO5yakAV) どうしたらいいですかね？有識者の方がいらっしゃいましたらお返事お願いしますちなみに通常の再生方法では再生できません
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 09, 2025 03:10am): ずっと安定して使えるYouTubeサイトなんて存在しない
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 09, 2025 03:10am): 他のを使いな
 - **削除済みユーザー** (Dec 09, 2025 04:37am): あー
@@ -230,7 +234,7 @@
 ---
 
 ### 7. 12月5日に一気に更新します。
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>それまでは雑談のとこでYuki+とかあげるから待ってくれ</p><p><br></p><p>あと伸びが悪くなってモチベーションが下がってきたからできればこの部屋を宣伝して欲しい</p>
 
@@ -263,7 +267,7 @@
 - **あおたん** (Dec 05, 2025 07:19am): あれ、更新された？
 - **方向転換　強盗せんか？** (Dec 08, 2025 12:15am): 何が更新されたのかkwsk
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 08, 2025 12:23am): セクション一覧のとこに「更新有」って着いてたら更新されてるよ
-- **削除済みユーザー** (Dec 16, 2025 04:25am): [Attachment](https://padlet.com/202201634_2/padlet-scvs0iw7tdatft21/wish/Xb8YaLXBx8OEayn1) 
+- **削除済みユーザー** (Dec 16, 2025 04:25am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/Xb8YaLXBx8OEayn1) 
 - **削除済みユーザー** (Dec 16, 2025 04:26am): ５
 - **nonnon** (Dec 17, 2025 04:33am): わかった
 - **nonnon** (Dec 17, 2025 04:33am): 😊
@@ -283,7 +287,7 @@
 ---
 
 ### 8. Yuki YouTube+がEdu再生に対応しました。
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [https://padlet.com/Toka_Kun_/breakout-room/961rqR90AwOd2nND-oAdpz24dgkRJv10R](https://padlet.com/Toka_Kun_/breakout-room/961rqR90AwOd2nND-oAdpz24dgkRJv10R)
 
@@ -332,7 +336,7 @@
 ## 閲覧数カウンター
 
 ### 1. 最新の閲覧数はこちら！
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [Attachment 1](https://padlet.com/Toka_Kun_/breakout-room/jzJX4EOVaLmbqbnO-oAdpz24dgkRJv10R)
 
@@ -348,7 +352,7 @@
 ---
 
 ### 2. 閲覧数200,000達成まで
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><strong>200,000達成 - 2025/12/03</strong></p></li><li><p><strong>訪問者60,000達成 - 2025/12/03</strong></p></li><li><p><strong>190,000達成 - 2025/11/22</strong></p></li><li><p><strong>操作時間3,000時間達成 - 2025/11/21</strong></p></li><li><p><strong>180,000達成 - 2025/11/12</strong></p></li><li><p><strong>訪問者55,000達成 - 2025/11/12</strong></p></li><li><p><strong>170,000達成 - 2025/11/04</strong></p></li><li><p><strong>160,000達成 - 2025/10/27</strong></p></li><li><p><strong>訪問者50,000達成 - 2025/10/26</strong></p></li><li><p><strong>操作時間2,500時間達成 - 2025/10/26</strong></p></li></ul>
 
@@ -384,7 +388,7 @@
 ---
 
 ### 3. 閲覧数150,000達成まで
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><strong>150,000達成 - 2025/10/20</strong></p></li><li><p><strong>140,000達成 - 2025/10/11</strong></p></li><li><p><strong>訪問者数45,000達成 - 2025/10/08</strong></p></li><li><p><strong>130,000達成 - 2025/10/03</strong></p></li><li><p><strong>操作時間2,000時間達成 - 2025/10/02</strong></p></li><li><p><strong>120,000達成 - 2025/09/29</strong></p></li><li><p><strong>訪問者40,000達成 - 2025/09/26</strong></p></li><li><p><strong>110,000達成 - 2025/09/22</strong></p></li><li><p><strong>訪問者35,000達成 - 2025/09/14</strong></p></li></ul>
 
@@ -423,13 +427,13 @@
 ---
 
 ### 4. ㊗️ 閲覧数100,000達成！(2025/09/14)
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>おかげさまで、このPadletは閲覧数100,000を達成しました！これまでに訪れてくださった34,863人の皆様、一人ひとりのご訪問に深く感謝しています。</p><p><br/></p><p>皆様の応援や関心があったからこそ、この場所は成長を続け、ここまで来ることができました。これからも、もっと多くの方々と役立つ情報やプロキシを共有できるよう努力していきますので、引き続きよろしくお願いします。</p><p><br/></p><p>本当にありがとうございます！</p><p><br/></p><p>※5月に10,000を達成してから4か月で100,000まで伸びました</p>
 
 #### Comments (4)
 - **眞田悠希** (Sep 14, 2025 09:36pm): Wow
-- **削除済みユーザー** (Sep 14, 2025 10:41am): おお
+- **Magurock  (偽物や乗っ取り注意)** (Sep 14, 2025 10:41am): おお
 - **新参者** (Sep 15, 2025 10:56am): めでたい
 - **んだ** (Oct 03, 2025 02:30am): おめでとうございます。
 
@@ -445,7 +449,7 @@
 ---
 
 ### 5. 閲覧数100,000達成まで
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><strong>90,000達成 - 2025/09/05</strong></p></li><li><p><strong>操作時間1,500時間達成 - 2025/09/04</strong></p></li><li><p><strong>訪問者30,000達成 - 2025/09/03</strong></p></li><li><p><strong>80,000達成 - 2025/08/28</strong></p></li></ul>
 
@@ -467,7 +471,7 @@
 ---
 
 ### 6. 閲覧数80,000達成まで
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><strong>訪問者25,000達成 - 2025/08/12</strong></p></li><li><p><strong>70,000達成 - 2025/08/09</strong></p></li><li><p><strong>60,000達成 - 2025/07/20</strong></p></li><li><p><strong>訪問者20,000達成 - 2025/07/16</strong></p></li><li><p><strong>50,000達成 - 2025/07/07</strong></p></li></ul>
 
@@ -490,7 +494,7 @@
 ---
 
 ### 7. ㊗️ 閲覧数40,000達成！(2025/6/24)
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 #### Comments (4)
 - **futo3662** (Jun 25, 2025 02:18pm): すごいどんどん増えてく
@@ -566,7 +570,7 @@
 - **✨️🎧️*~白玉もちぃ~*🎧️✨️** (May 06, 2025 11:57am): おめでとう🎈
 - **Www** (May 06, 2025 01:37pm): nice
 - **ポチャッコ推し💚(｡>﹏<｡)** (May 07, 2025 09:04am): まだ見てない人はどうすればいいですか？
-- **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (May 11, 2025 12:09am): [Attachment](https://padlet.com/202201634_2/padlet-scvs0iw7tdatft21/wish/O7A9Qmzegyx9Z6x3) 
+- **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (May 11, 2025 12:09am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/O7A9Qmzegyx9Z6x3) 
 - **Sleepy Zebra** (May 25, 2025 07:23am): おめでとうございます
 - **どー“ぶーじょー”じょー** (May 28, 2025 10:56pm): 🥳
 - **たんこぶ大王子** (May 31, 2025 04:05am): おめでとう
@@ -586,7 +590,7 @@
 ## ご意見板・報告・雑談
 
 ### 1. 2025/11/23からのアーカイブ
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/J7z0qjKeoz98vmWQ-oAdpz24dgkRJv10R"><strong>ご意見板・報告</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/eXwgvwGb3XGwvybR-oAdpz24dgkRJv10R"><strong>雑談</strong></a></p></li></ul>
 
@@ -640,7 +644,7 @@
 ---
 
 ### 4. ユーザー名で新しく招待できるようになった
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>もどったっぽい</p>
 
@@ -659,7 +663,7 @@
 - **ゴールデンレトリバーの愛好家** (Feb 11, 2026 12:14pm): https://codesandbox.io/p/github/dragon731012/Shadownetwork/main?file=%2Findex.html%3A35%2C26-35%2C40だれかこれの使い方教えて
 - **ゴールデンレトリバーの愛好家** (Feb 11, 2026 12:14pm): 頼むー
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 11, 2026 12:46pm): CodeSandboxのアカウント持ってるの？
-- **Compassionate Cockatoo** (Feb 11, 2026 11:49pm): [Attachment](https://padlet.com/202201634_2/padlet-scvs0iw7tdatft21/wish/E1P8aX769jMNWwA9) なんやこれ
+- **Compassionate Cockatoo** (Feb 11, 2026 11:49pm): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/E1P8aX769jMNWwA9) なんやこれ
 - **woolisbest** (Feb 12, 2026 02:03pm): なんかやらかした？
 - **シャドレク** (Feb 13, 2026 12:45pm): まじで
 - **panpanda** (Feb 13, 2026 10:52pm): 編集うまいね！
@@ -902,7 +906,7 @@
 ---
 
 ### 12. こういうことらしい
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>運営からの返信</strong></p><p><br></p><blockquote><p>ユーザー名でコラボレーターを招待できなくなったわけではありません。</p><p>ただし、最近コラボレーター検索の仕組みを変更しました。</p><p><br></p><p>現在、ユーザー名で検索した場合は、見知らぬユーザーが大量に表示されるのを防ぐため、すでにコラボレーターとしてつながりのあるユーザーのみが表示されるようになっています。</p><p><br></p><p>そのため、新しくコラボレーターとして追加したいユーザーを招待する場合は、メールアドレスを使って招待する方法が最も確実です。</p></blockquote><p><br></p><p>くれぐれも招待代行には引っ掛からないように</p>
 
@@ -957,7 +961,7 @@
 ---
 
 ### 15. Padlet側の仕様変更でライター追加できなくなった
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 #### Comments (6)
 - **削除済みユーザー** (Jan 25, 2026 03:35am): Oh
@@ -1002,7 +1006,7 @@
 
 <p>自分の中学にこのQRコードを送ってしまい、更に相手にオーネー権限が移ってしまいました</p><p>このアカウントは使われているのでしょうか？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1773680612&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cCRQogw7IQkY9w0pnlypp3On41CRi0lipEO5uMVEWfjBr7zXJB70XkNppjJKDA468swcgRzbZx3rVbksNfPuJhgGgMJmreF%2BmcW0uAIXerP9G0aUdM8xL5e1kU6PScigWuO8qTdpUhvUp4JCLzK1k8gjzTlZnTvmvIPDM8mgo9A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1773813022&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zG6l8iWuJOelEYWYqaodLDfUmuR9824PFi2rZ0z5bVnYEOIAsOVRIqc5bbnY81i2m9FT4JfIqwAbXaCnk7%2B0i5ID%2FH2wC%2B1lBQ9lP2fRVQcwjut4DZzdcCDG429m3ybrCk9Kr4ZBQSSm7O320Ms8fjLgdHqxye%2BX5ykpg86iwtA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
 
 #### Comments (12)
 - **πr²** (Jan 23, 2026 02:26am): オーナー権限です
@@ -1026,7 +1030,7 @@
 ---
 
 ### 18. なんで投票所でわざわざ聞くん？
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>9割の人間が欲しいに決まっとるし普通に見づらくなる</p>
 
@@ -1109,7 +1113,7 @@
 ---
 
 ### 21. 代替ビュアーの改善が大変すぎる
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>他の部屋にも対応させるには想定してた3倍くらいのテコ入れが必要なんだが</p>
 
@@ -1179,14 +1183,14 @@
 ### 24. 俺が全然浮上しなかったのも悪いんだけど俺の部屋の管理者がこいつらだけになってました
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1773680612&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uMVI2QqyMxbpFGnae28pcusYAUPQd%2FslQ4UQJcoxkpzp%2BEzXHH0TGpr%2F9mrvZ%2ByRBNi99oyPkuS6zNlMXvlsoa%2BYUzoknRguskS%2BxZi7ilS39UG4YzUxEimTL8X3VVCrCvJ0aWJm%2FkVVKI0GzA0MnPzgP3%2FYzOQseKM0sv6ne%2BA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1773813022&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OI9Z5nolm8vwNNfe0tnORWUJQfvwiLwsP2rieydP4oMId6gnixbxOAOZyPoEvlWoHv1%2BiZTh2ccWUP4b5oyYkY%2BccKtjO%2FTY7CnFRvChvvuJE7wWbUArDI9wn3VPbX4qzjkuDEsdm68FGm7m7bi0K08%2FxNZb0CPrGrZ6xvOGRAU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ローマンピアースのスマホ垢本物** (Jan 15, 2026 11:50am): 誰か助けてくれ、、
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 15, 2026 10:41pm): 権限をぽんぽん渡しすぎや
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 15, 2026 10:42pm): かいとは荒らしbtw
 - **ローマンピアースのスマホ垢本物** (Jan 15, 2026 10:42pm): それはそうだった
-- **ローマンピアースのスマホ垢本物** (Jan 15, 2026 10:45pm): [Attachment](https://padlet.com/202201634_2/padlet-scvs0iw7tdatft21/wish/1xkVaqG13BygZl0e) とりあえず今はこれだけにしとく
+- **ローマンピアースのスマホ垢本物** (Jan 15, 2026 10:45pm): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/1xkVaqG13BygZl0e) とりあえず今はこれだけにしとく
 - **なんとか。** (Jan 20, 2026 12:00am): なぜ俺だったんだろ
 
 #### Additional Information
@@ -1302,7 +1306,7 @@
 ---
 
 ### 31. しあtubeは今通常再生が不可
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 #### Comments (7)
 - **削除済みユーザー** (Jan 12, 2026 03:23am): ダウンロードから見れるときもあるよい
@@ -1337,7 +1341,7 @@
 ---
 
 ### 33. ローマンピアースの部屋
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>年変わるだいぶ前からパスワード必要になってるけど意図的に変えたんかな</p>
 
@@ -1376,7 +1380,7 @@
 ---
 
 ### 35. 雑談のとこでリクエストすんのやめて
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 #### Comments (2)
 - **スシロー** (Jan 11, 2026 07:54am): ガチすいません
@@ -1494,7 +1498,7 @@
 #### Comments (4)
 - **削除済みユーザー** (Jan 08, 2026 11:11pm): ほし
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Jan 09, 2026 12:14am): 誰か祝ってくれw
-- **削除済みユーザー** (Jan 09, 2026 04:14am): [Attachment](https://padlet.com/202201634_2/padlet-scvs0iw7tdatft21/wish/lDK1ZRjpEEzYZJ9z) 
+- **削除済みユーザー** (Jan 09, 2026 04:14am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/lDK1ZRjpEEzYZJ9z) 
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Jan 09, 2026 05:06am): ありがと
 
 #### Additional Information
@@ -1547,7 +1551,7 @@
 ---
 
 ### 46. Toka_Kun_さんいますか?
-**Author:** 削除済みユーザー
+**Author:** Magurock  (偽物や乗っ取り注意) (Magurock)
 
 <p>イベント公開したのでこの部屋に貼って欲しいです</p>
 
@@ -1640,7 +1644,7 @@
 ---
 
 ### 51. やばいGemini Proが賢すぎる
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>ChatGPTから乗り換えるわ</p>
 
@@ -1681,7 +1685,7 @@
 ---
 
 ### 53. Toka_Kun_さんいますか?
-**Author:** 削除済みユーザー
+**Author:** Magurock  (偽物や乗っ取り注意) (Magurock)
 
 <p>イベントの件で受付部屋に来て欲しいです</p>
 
@@ -1693,7 +1697,7 @@
 ---
 
 ### 54. Toka_kun_さんいますか?
-**Author:** 削除済みユーザー
+**Author:** Magurock  (偽物や乗っ取り注意) (Magurock)
 
 <p>イベント部屋のの受付に貼ってくれた案が実現可能ならお願いたくて</p>
 
@@ -1705,7 +1709,7 @@
 ---
 
 ### 55. Toka_kun_さん
-**Author:** 削除済みユーザー
+**Author:** Magurock  (偽物や乗っ取り注意) (Magurock)
 
 <p>↓の部屋に貼った部屋の整備お願いしたいです</p>
 
@@ -1717,7 +1721,7 @@
 ---
 
 ### 56. イベントの件
-**Author:** 削除済みユーザー
+**Author:** Magurock  (偽物や乗っ取り注意) (Magurock)
 
 <p>ここでお願いします</p>
 
@@ -1731,14 +1735,14 @@
 ---
 
 ### 57. Tøka_Kuŋ_さんいますか?
-**Author:** 削除済みユーザー
+**Author:** Magurock  (偽物や乗っ取り注意) (Magurock)
 
 <p>エドガー部屋と共有する会で協力する形でイベントしたくて</p><p>詳細は長くなるので省きますが両方の部屋に宣伝の効果的な物ができるはずです</p>
 
 #### Comments (4)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 20, 2025 06:01am): いいよ
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 20, 2025 06:01am): 詳細は教えて欲しい
-- **削除済みユーザー** (Dec 20, 2025 08:51am): ありがとうございます部屋招待しても良いですか?
+- **Magurock  (偽物や乗っ取り注意)** (Dec 20, 2025 08:51am): ありがとうございます部屋招待しても良いですか?
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 20, 2025 09:15am): うん
 
 #### Additional Information
@@ -2135,7 +2139,7 @@
 ## 投票所
 
 ### 1. 最新の投票はこちら！
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [Attachment 1](https://padlet.com/Toka_Kun_/breakout-room/kxPM2kx0b6JNqgbV-oAdpz24dgkRJv10R)
 
@@ -2162,8 +2166,8 @@
 **Author:** 仙人@suger (xianrendesu)
 
 **学校のタブレットやpcなに使ってる？:**
-- **Chromebook:** 101 votes
-- **Ipad:** 95 votes
+- **Chromebook:** 102 votes
+- **Ipad:** 96 votes
 - **Windows:** 1 vote
 - **Android:** 3 votes
 
@@ -2184,12 +2188,12 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Feb 06, 2026 08:31am
-- **Updated At (UTC):** Mar 03, 2026 12:14am
+- **Updated At (UTC):** Mar 11, 2026 01:07am
 
 ---
 
 ### 3. Padletの全体的な人口
-**Author:** 削除済みユーザー
+**Author:** Magurock  (偽物や乗っ取り注意) (Magurock)
 
 **Padletの人口....と思う:**
 - **少ない(増やしたい):** 10 votes
@@ -2227,7 +2231,7 @@
 - **とりあえず。** (Dec 24, 2025 06:26am): まぁまぁ焦るなって（（（殴
 - **いちごみるく˖ . ݁𝜗𝜚. ݁₊** (Dec 25, 2025 12:47am): あーい(′▽`〃)
 - **とりあえず。** (Dec 25, 2025 06:00am): ｗｗ
-- **絵が好きなももちゃ** (Dec 29, 2025 09:44am): ほしーい
+- **絵が好きな₺₺ㄘゃ❀** (Dec 29, 2025 09:44am): ほしーい
 - **とりあえず。** (Dec 31, 2025 07:08am): あげーる（（
 - **とりあえず。** (Dec 31, 2025 07:08am): これです↓
 - **とりあえず。** (Dec 31, 2025 07:08am): https://aiseo.ai/ja/tools/youtube-video-downloaderhttps://aiseo.ai/ja/tools/youtube-shorts-downloaderhttps://aiseo.ai/ja/tools/youtube-to-mp3https://aiseo.ai/ja/tools/youtube-to-mp4https://aiseo.ai/ja/tools/instagram-reels-downloader
@@ -2414,11 +2418,11 @@
 ---
 
 ### 10. 画像生成AIって需要ある？
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
 - **1番欲しい:** 32 votes
-- **要るけどプロキシとかYouTubeの方が良い:** 193 votes
+- **要るけどプロキシとかYouTubeの方が良い:** 194 votes
 - **1番要らない:** 35 votes
 
 #### Comments (2)
@@ -2428,7 +2432,7 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Nov 10, 2025 12:58am
-- **Updated At (UTC):** Dec 13, 2025 12:58pm
+- **Updated At (UTC):** Mar 11, 2026 03:02am
 
 ---
 
@@ -2461,7 +2465,7 @@
 ---
 
 ### 12. TurboWarp入れる？
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
 - **どちらも入れる:** 39 votes
@@ -2483,7 +2487,7 @@
 ---
 
 ### 13. Scratch入れる？
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
 - **入れるしアカウントも持ってる:** 49 votes
@@ -2512,7 +2516,7 @@
 ---
 
 ### 14. YouTubeならどれが一番欲しい？
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
 - **わかめtube:** 115 votes
@@ -2537,7 +2541,7 @@
 ---
 
 ### 15. どれが一番好き？
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
 - **Render:** 39 votes
@@ -2563,7 +2567,7 @@
 ---
 
 ### 16. リアクションを変えるべき？
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
 - **このまま５段階評価:** 64 votes
@@ -2584,7 +2588,7 @@
 ---
 
 ### 17. 結局どれが一番欲しい？
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
 - **ゲーム:** 53 votes
@@ -2612,7 +2616,7 @@
 ---
 
 ### 18. こんな制度があればサイトを提供する気になる？
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
 - **なる:** 68 votes
@@ -2636,7 +2640,7 @@
 ---
 
 ### 19. Scratch版マイクラがオンラインで遊べるやつのHTMLファイルいる？
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **TurboWarpがブロックされてても遊べるよ:**
 - **いる:** 72 votes
@@ -2663,7 +2667,7 @@
 ---
 
 ### 20. バレンタインに手作りチョコを貰ったら
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **ホワイトデーに:**
 - **手作りの何かを返す:** 37 votes
@@ -2714,7 +2718,7 @@
 ---
 
 ### 22. 投票して欲しい
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **短縮リンクについて:**
 - **X.gd だけがブロックされてる:** 4 votes
@@ -2740,7 +2744,7 @@
 ---
 
 ### 23. 投票
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **この部屋にある投稿は:**
 - **消さない:** 40 votes
@@ -2756,7 +2760,7 @@
 ---
 
 ### 24. これ入れる？
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **投票に参加してね:**
 - **行ける:** 80 votes
@@ -2796,7 +2800,7 @@
 ---
 
 ### 26. 年齢調査
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **投票してね:**
 - **小学生:** 49 votes
@@ -2834,7 +2838,7 @@
 ---
 
 ### 27. 親友が落とし穴に落ちたら
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
 - **引っ張り出してあげる:** 108 votes
@@ -2953,7 +2957,7 @@
 - **pkhxsd** (Sep 08, 2025 07:56am): リックアストリー
 - **ポップコーン** (Sep 08, 2025 11:49am): リックアストリーって曲が好きなの？
 - **ポップコーン** (Sep 08, 2025 11:55am): 人か？
-- **ポップコーン** (Sep 08, 2025 11:56am): [Attachment](https://padlet.com/202201634_2/padlet-scvs0iw7tdatft21/wish/lkROZP1qvx52WjMg) この人？
+- **ポップコーン** (Sep 08, 2025 11:56am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/lkROZP1qvx52WjMg) この人？
 - **コロッケ** (Sep 10, 2025 07:35am): ミセスも好きだけどRADWIMPSも好き
 - **ポップコーン** (Sep 12, 2025 10:47am): そうなんだ！
 - **Enthusiastic Goldfish** (Sep 25, 2025 01:41am): yellow backsだね
@@ -2985,7 +2989,7 @@
 ---
 
 ### 32. この中で一番好きな曲は？
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **選んでね:**
 - **Lemon - 米津玄師:** 48 votes
@@ -3012,7 +3016,7 @@
 ## リクエストや相談、質問
 
 ### 1. 2025/11/23からのアーカイブ
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/7PY5qNyEWk8x2Ba8-oAdpz24dgkRJv10R"><strong>リクエストや相談、質問</strong></a></p></li></ul>
 
@@ -3108,7 +3112,7 @@
 
 #### Comments (8)
 - **masdesuyo** (Feb 07, 2026 05:09am): なってたけど治った
-- **あ** (Feb 14, 2026 07:33am): [Attachment](https://padlet.com/202201634_2/padlet-scvs0iw7tdatft21/wish/1xkVaqGXPlyLZl0e) 私の学タブはスクラッチ開こうとしてもずっと左上でぐるぐるしてなんも出てこん…
+- **あ** (Feb 14, 2026 07:33am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/1xkVaqGXPlyLZl0e) 私の学タブはスクラッチ開こうとしてもずっと左上でぐるぐるしてなんも出てこん…
 - **あ** (Feb 14, 2026 07:33am): これ治せたりするん？
 - **あ** (Feb 14, 2026 07:34am): 一回学タブ新しい種類に変わったけどそれでも治らんかったんよなぁこれ
 - **とりあえず。** (Feb 15, 2026 11:05am): へぇ〜...う〜ん...これでやってみたら？https://rammer.nana.majoitus.ee/
@@ -3151,7 +3155,7 @@
 ### 8. アプリをダウンロードする方法教えて下さい　こうなる↓
 **Author:** 水原二平 (r02s14030)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1773680613&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LAicvOX2L%2FO2oUBuZjcgfhjn%2Brq%2FZ7em6l2AFyyGXlSqso%2FPWOM1CJmJxZy%2BPcmE%2FNnZwEkd8I1GjfZ9aTQLZ4sI66xj9JqeITwGDvTp6t0lOvQJotI%2BdcKPKU8oyk9o02skqYCfgu4qxFLhYwQBG4HDJFsqqVq55TyUO0%2BxD6k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1773813023&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=s0U%2BQvpeUT0o183Ci83z4ExfXBD6iKOGxUkYhyNvmoXw%2BQny23fk7BuulfEszWqFZmM2miTtqEx1SSRX9mdFh1nnBRNZxiLKYe4lmlkiqoBW34QKBda2GCoWx44t0btXfvud15xqRqEzF1DkF7I9NFllBWVtsFiLy%2F0RQNleS38%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
 
 #### Comments (4)
 - **かから** (Jan 27, 2026 10:26am): Chromebookだったらhttps://chrome.google.com/webstore?utm_source=app-launcher
@@ -3209,7 +3213,7 @@
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Jan 10, 2026 07:48am): だめだったら上のやつ
 - **フブさん** (Jan 10, 2026 09:16am): 難しいですね…上のもの以外ってありますか？
 - **Awesome Duck** (Jan 14, 2026 11:25pm): 俺I-filterだけど行けたよ
-- **削除済みユーザー** (Jan 15, 2026 07:11am): [Attachment](https://padlet.com/202201634_2/padlet-scvs0iw7tdatft21/wish/1xkVaqGPGOe2Zl0e) こいつもいるんだわ
+- **削除済みユーザー** (Jan 15, 2026 07:11am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/1xkVaqGPGOe2Zl0e) こいつもいるんだわ
 
 #### Additional Information
 - **Post color:** White
@@ -3570,7 +3574,7 @@
 ## フィルター関連
 
 ### 1. 2025/11/23からのアーカイブ
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/YQjo4KGQnkOd4DwL-oAdpz24dgkRJv10R"><strong>i-FILTER専用</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/J7z0qjKOd7XevmWQ-oAdpz24dgkRJv10R"><strong>ISGC専用</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/nRxeqrnONllwq56P-oAdpz24dgkRJv10R"><strong>Cisco umbrella専用</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/8G57v19RaAL0vdVX-oAdpz24dgkRJv10R"><strong>ICFS専用</strong></a></p></li></ul>
 
@@ -3586,7 +3590,7 @@
 
 **投稿の種類:** フィルターに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1773680613&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=R9Dei2iI7bljxK2G7P2inCzGRI0erBgSzDVY3WG42o0ek%2B9NyoSwfLY8h7jyuB69Ft2j3qjNF1CFtKh1io2VyJd4%2BEjuPcCNpbpI7EG2sYu1EK9uGcvAdlcXK0F6rsBRAXeyu2xi5zYhESt2Mi7i0tS6B01SIQ3dmziqwkCdz%2Fk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1773813024&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TFMDvtGZuUxWCvfUojnu4S6S13ecUvgP3%2FOzSsyGDSWf7XM0FNhI1LkxbhGkVgvpmFhhPG%2Bsj0Uh%2B9kzWLtYALHBDtDy%2By%2B27vzMJi6pcuNKEjc6kXX%2FqwJTY86yuhZyZfjeRbcfx9gjze37enk%2BVNIA1Cakvbttg04sCO8ZEks%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -3678,7 +3682,7 @@
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:18am): うん
 - **削除済みユーザー** (Feb 01, 2026 09:18am): https://www.tiktok.com/@momokyaraben/video/7550242854971510024
 - **削除済みユーザー** (Feb 01, 2026 09:19am): ヒカキンってやったら出てきたやつ
-- **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:21am): [Attachment](https://padlet.com/202201634_2/padlet-scvs0iw7tdatft21/wish/MbejW1bg5NgnaNkG) ほい
+- **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:21am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/MbejW1bg5NgnaNkG) ほい
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:21am): さっきのやつ
 - **削除済みユーザー** (Feb 01, 2026 09:21am): どうやった
 - **クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ??** (Feb 01, 2026 09:22am): https://helloapp.xsrv.jp/test.php?url=https%3A%2F%2Fawakest.net%2Fyoutube-video-downloader%2F　はじめ送ったやつ
@@ -3863,7 +3867,7 @@
 
 <p>先ほどゲームをしてるとフリーズしてしまって、再起動するとフィルタリングが更新されており、さっきまで使えていたサイトが使えなくなってしまいました。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1773680614&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Sg1JHF3l8Mahzz5FvC3b01SgLZH%2BJRYaV91j3j0ZpcH8oeSkORwUfDMdqNOFQHq0qPo9BVSl2QUNMqtnxM6M3dQCeI4Y9dMUWSLcZt1hN%2BbOUNm6xhR5npFtbSd%2BWYHLX%2Fqwl3hATdMoowJ7kWhH2uH5SI36%2BEUH%2FkUC5jbF6nE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1773813024&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YjRA2Ssp4enuLmRWLYb%2FcX0xwvNdgWgM8KJDUSS6eeM8ChxJySa4DBULASW%2BCaiXHIrwqE7rhzhG0bUJpZtlkuiTLm6lGasD0GLKlxBgPPD5Hjb97kdE26p9eH0KJH%2F2cWA16wE%2F1v%2BoxPP9JiVe444%2B8SaWKhC%2BAbRj3oxe7Z8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **削除済みユーザー** (Dec 21, 2025 05:06am): 俺も金曜日そんな感じになった
@@ -3889,7 +3893,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1773680614&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Zx%2F9qKBgtdUTe1V9yIwd6iUUz7AQ%2FlehrHjznZiRi%2FIiqEMAqg3mQ0Rjr9MPtN8FKRLbevYmUrXdEaoChI1G%2FKpgw7buhihWFS%2FwLMAbLA1jP4vWDEw1wcvDe6xcQD8zlxxRyOxE%2F7iipXRXGkrCs5SUGEHfGFjz%2BEiyGgnuM3A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1773813024&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=h6droXmVhQgGeItQvmZBMm%2FCRHLreGFG%2FoCMNgV74m%2Fj9fAxd%2Blf2Ef%2F8bAT0PLO%2Fum2LXv1pZ6QRRGAGSrRTCQqUryLZBRNJMsMqSNOi9ayZ85325NnWc%2BgJIkZBdZFscmUn4fYsKoSMbopOh%2BRFLuWur2GilXH4oIe4tBGd%2FQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **πr²** (Nov 09, 2025 08:31am): フィルタリングルールの更新日時とか書いてあった
@@ -4024,7 +4028,7 @@
 ## リンクの墓場
 
 ### 1. リンクはまだ存在するが、古いが故にブロックされている確率が高いであろうものをこっちに移動させます。
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>2026/02/28以降は、リンクが死んでいても残す方針に変更します。</strong></p>
 
@@ -4048,10 +4052,12 @@
 
 [Attachment 1](https://binjooni.sakura.ne.jp/game/game0003/index.html)
 
-#### Comments (3)
+#### Comments (5)
 - **Observant Albatross** (Jul 29, 2025 03:23am): メチャおもろい！
 - **ᏁγᎶ » Tøka_Kuŋ_** (Aug 03, 2025 02:35pm): w
 - **コロッケ** (Sep 10, 2025 07:40am): ブロ
+- **アブリ　カルビ** (Mar 11, 2026 04:48am): https://padlet.com/gs211024/padlet-xw8i9fwnxl51b4ia
+- **アブリ　カルビ** (Mar 11, 2026 04:48am): これ絶体入ったほうがいい
 
 #### Reactions
 - **Average star rating:** 4.3333333333333333
@@ -4065,7 +4071,7 @@
 ---
 
 ### 2. Post 2
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [Attachment 1](https://ubyis.top/)
 
@@ -4235,7 +4241,7 @@
 - **伝説の男　目高功塁** (Jun 21, 2025 07:56am): 面白い
 - **アイス** (Jun 22, 2025 09:26am): 14000枚目いけたwww
 - **伝説の男　目高功塁** (Jun 23, 2025 02:28am): 俺もでけた
-- **匿名** (Jul 27, 2025 01:30am): [Attachment](https://padlet.com/202201634_2/padlet-scvs0iw7tdatft21/wish/do3MQJkobxz1Z15w) やったぜ
+- **匿名** (Jul 27, 2025 01:30am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/do3MQJkobxz1Z15w) やったぜ
 - **計画通り** (Sep 07, 2025 05:49am): 14002
 - **匿名S** (Oct 01, 2025 01:03am): すご！
 - **Quirky Cricket** (Dec 16, 2025 08:24am): １４０００いった
@@ -4328,7 +4334,7 @@
 
 #### Comments (9)
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (May 28, 2025 10:50pm): Iketa
-- **神** (May 29, 2025 12:22am): bokumo
+- **田所浩二** (May 29, 2025 12:22am): bokumo
 - **Wholesome Bat** (May 29, 2025 01:16am): iketa
 - **Thoughtful Owl** (May 29, 2025 11:56pm): ？
 - **どー“ぶーじょー”じょー** (May 30, 2025 11:12pm): ぶり
@@ -4437,7 +4443,7 @@
 ---
 
 ### 21. Rider.io
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [Attachment 1](https://html5.gamedistribution.com/571357d055374f078e471057d4fcdbea/)
 
@@ -4465,7 +4471,7 @@
 ## プロキシ
 
 ### 1. ランマーヘッド
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>➥ 大量配布所にて大量配布が可能です。リクエストは</strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26lMaNBDvojL-oAdpz24dgkRJv10R"><strong><mark>こちら</mark></strong></a><strong>。下の投稿も見てね。</strong></p><p><br></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://browser.rammerhead.org/">https://browser.rammerhead.org/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://eeeeeee.work.gd/">https://eeeeeee.work.gd/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://historyaboutthe.us.to/">https://historyaboutthe.us.to/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://icespicelovers.run.place/">https://icespicelovers.run.place/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://duckduckgo.com.guillaumevanstrydonck.be/">https://duckduckgo.com.guillaumevanstrydonck.be/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://rannmaa.easterndns.com/">https://rannmaa.easterndns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://matata.lan64.de/">https://matata.lan64.de/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://marjooj.home.kg/">https://marjooj.home.kg/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://kareka.ddo.jp/">https://kareka.ddo.jp/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://superidoltheje.ftp.sh/">https://superidoltheje.ftp.sh/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://ramfacts.unitgrapigs.com/">https://ramfacts.unitgrapigs.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://schooltechreadong.mywire.org">https://schooltechreadong.mywire.org</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://dualpower.duia.eu/">https://dualpower.duia.eu/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://3.rammershark.ipv64.net/">https://3.rammershark.ipv64.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://mkmds.opsto.ipv64.de/">https://mkmds.opsto.ipv64.de/</a></p></li></ul>
 
@@ -4483,7 +4489,7 @@
 ## プロキシ&ゲーム
 
 ### 1. Shadow
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>➥ 大量配布所にて大量配布が可能です。リクエストは</strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26lMaNBDvojL-oAdpz24dgkRJv10R"><strong><mark>こちら</mark></strong></a><strong>。下の投稿も見てね。</strong></p><p><br></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://gooogle-setmodel.laviewddns.com/">https://gooogle-setmodel.laviewddns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gooogle-custom.laviewddns.com/">https://gooogle-custom.laviewddns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gooogle-resetmode.laviewddns.com/">https://gooogle-resetmode.laviewddns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gooogle-reserved.laviewddns.com/">https://gooogle-reserved.laviewddns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gooogle-yahoo.laviewddns.com/">https://gooogle-yahoo.laviewddns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://shadowshark.ipv64.net/">https://shadowshark.ipv64.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yuzutyan-2.ipv64.net/">https://yuzutyan-2.ipv64.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://matcha-a1.any64.de/">https://matcha-a1.any64.de/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://karaseee.f5.si/">https://karaseee.f5.si/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://shawa.f5.si/">https://shawa.f5.si/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://shadow-haihu-bynyanko.easterndns.com/">https://shadow-haihu-bynyanko.easterndns.com/</a></p></li></ul>
 
@@ -4499,7 +4505,7 @@
 ---
 
 ### 2. Utopia
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>➥ 大量配布所にて大量配布が可能です。リクエストは</strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26lMaNBDvojL-oAdpz24dgkRJv10R"><strong><mark>こちら</mark></strong></a><strong>。下の投稿も見てね。</strong></p><p><br></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://think.sage.infovizija.com/">https://think.sage.infovizija.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://basic.login.pimentas.org/">https://basic.login.pimentas.org/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://know.read.randydorian.com/">https://know.read.randydorian.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://history.think.marinagore.com/">https://history.think.marinagore.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://data.solve.prxch.com/">https://data.solve.prxch.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://topic.know.ticpu.net/">https://topic.know.ticpu.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://notes.sci.kkleung.net/">https://notes.sci.kkleung.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://music.minds.alletrades.com/">https://music.minds.alletrades.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://write.arts.leadseminars.com/">https://write.arts.leadseminars.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://church.paper.singasoft.com/">https://church.paper.singasoft.com/</a></p></li></ul>
 
@@ -4515,7 +4521,7 @@
 ---
 
 ### 3. Interstellar
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>➥ 大量配布所にて大量配布が可能です。リクエストは</strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26lMaNBDvojL-oAdpz24dgkRJv10R"><strong><mark>こちら</mark></strong></a><strong>。下の投稿も見てね。</strong></p><p><br></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://toike.easterndns.com/">https://toike.easterndns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://church.macgregoremc.com/">https://church.macgregoremc.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://dipakarmani.blinklab.com/">https://dipakarmani.blinklab.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://reshamvip.blinklab.com/">https://reshamvip.blinklab.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://alumulakakro.unibutton.com/">https://alumulakakro.unibutton.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://arraypush.unibutton.com/">https://arraypush.unibutton.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://hamburgerxtreme.unibutton.com/">https://hamburgerxtreme.unibutton.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cloudbarfbagisback.saugatnepal.com.np/">https://cloudbarfbagisback.saugatnepal.com.np/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu.bizis.si/">https://edu.bizis.si/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://bak2skewl.konpan.ch/">https://bak2skewl.konpan.ch/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://my-learning-hall.jemix.sg/">https://my-learning-hall.jemix.sg/</a></p></li></ul>
 
@@ -4860,7 +4866,7 @@
 ---
 
 ### 10. 仙人YouTubeビュアー
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>➥ 稼働状況</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/senninkaihatu">https://sites.google.com/view/senninkaihatu</a></p></li></ul>
 
@@ -4888,7 +4894,7 @@
 ## 最新のイベントはこちら！
 
 ### 1. 最新のイベントはこちら！
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [Attachment 1](https://padlet.com/Toka_Kun_/breakout-room/Bk5x4dLLnldp4Zgz-oAdpz24dgkRJv10R)
 
@@ -4906,12 +4912,12 @@
 ## 10万達成記念 - 質問コーナー
 
 ### 1. 【閲覧数10万達成企画】質問コーナー
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (202201634_2)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>閲覧数100,000を達成するときに、質問コーナーを行うつもりなので、今のうちに質問をここに投稿しておいて下さい！</p>
 
 #### Comments (2)
-- **おすし** (Sep 14, 2025 08:36am): [Attachment](https://padlet.com/202201634_2/padlet-scvs0iw7tdatft21/wish/YBl3Z2xRGJ03av16) もういってるう
+- **おすし** (Sep 14, 2025 08:36am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/YBl3Z2xRGJ03av16) もういってるう
 - **haru🌸** (Oct 22, 2025 11:46am): どうやって見る？
 
 #### Reactions
