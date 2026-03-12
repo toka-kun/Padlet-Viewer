@@ -1,4 +1,4 @@
-最終更新: 2026/03/12 17:44:33
+最終更新: 2026/03/12 22:03:13
 
 # 受付と匿名用
 
@@ -9,14 +9,14 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 12, 2026 08:40am
+- **Updated At (UTC):** Mar 12, 2026 12:09pm
 
 ## 受付
 
 ### 1. アクセス要求して
 **Author:** woolisbest (woolisbest)
 
-#### Comments (62)
+#### Comments (65)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 12, 2026 11:54pm): すぃた
 - **削除済みユーザー** (Feb 13, 2026 03:20am): した
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 13, 2026 06:49am): sita
@@ -79,6 +79,9 @@
 - **Anonymous** (Mar 12, 2026 07:45am): 今死ぬ気で何回も数字打ってラァ
 - **Anonymous** (Mar 12, 2026 07:47am): うわぁもうそんなに前だったっけw
 - **青葉  @BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ** (Mar 12, 2026 08:37am): 調べたら出てきたよ
+- **Anonymous** (Mar 12, 2026 12:09pm): ゑ
+- **Anonymous** (Mar 12, 2026 12:10pm): 垢の名前とか変えれんw
+- **Anonymous** (Mar 12, 2026 12:10pm): バグってラァ
 
 #### Additional Information
 - **Post color:** Yellow
