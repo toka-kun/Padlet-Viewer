@@ -1,4 +1,4 @@
-最終更新: 2026/03/12 14:52:30
+最終更新: 2026/03/12 15:57:46
 
 # Padletポータルワールド
 
@@ -45,7 +45,7 @@
 
 #### Comments (3)
 - **だいまたハムスター（偽物注意）#りおとの35番弟子#わかめGOＤ教#煮物貢献者#イケメン様様信者　ここみたってことは復讐ってこと！こわいよーたすけてフォローってなんのいみあんの？とりあえずしてーーKUNがすき　はむかす** (Sep 03, 2025 07:16am): とうこうするねごめん
-- **Magurock (偽物や乗っ取り注意)** (Sep 06, 2025 08:58am): かなり人気になってきた
+- **隼人の顔** (Sep 06, 2025 08:58am): かなり人気になってきた
 - **全ての部屋にコメントする** (Feb 05, 2026 09:17am):  
 
 #### Reactions
@@ -2067,7 +2067,7 @@
 ---
 
 ### 90. 雑談とか色々!閲覧16000達成!
-**Author:** Magurock (偽物や乗っ取り注意) (Magurock)
+**Author:** 隼人の顔 (Magurock)
 
 <ul><li><p><mark>閲覧16000回達成</mark>した部屋（みんなの広場）がある!</p></li><li><p>雑談、規制回避、Minecraft鯖、荒らし対策など<mark>色々ある!</mark></p></li><li><p><mark>どんな人でも大歓迎!</mark>（さすがにルール違反する人以外）</p></li></ul>
 
@@ -2253,7 +2253,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773899550&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WfWCgCFDd9W2RlZhBo%2FhnlDfyGtaUgdJOsFzwl09k5jPDA3NcMIcygVAG%2FBDQsbiJbZjty9tvH9We0%2B%2BYcdxKe3MkkMdt0jqK74fFuWDnZXtwnbfzbVczjWuJdi93iua6NlPNcBcSqCHyqLby02HzTQGTftvbhrLbA%2FUeQHIjCA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773903466&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2x7kOuW0mdU4eCvqnT6rWlPA0vb9BgMY4O6xvpQV1G9JtxYUvex%2FC6qMwPat4Gr0UcptbF0nV%2FM5OTyN%2FhPrmQZzRWqOO91%2FHvi0yDcr7RAEbmpL4KeO8SnwGcdspNk1erjI2FNwnqjBuWas4TpHLC%2BRoCMsvTC0DI5pfsWso9g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
@@ -2263,17 +2263,17 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:15pm): うん
 - **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:16pm): その代わりに宣伝しろと
 - **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:17pm): いいですよー
-- **Magurock (偽物や乗っ取り注意)** (Sep 01, 2025 12:17pm): 誰でも宣伝可ですか?
+- **隼人の顔** (Sep 01, 2025 12:17pm): 誰でも宣伝可ですか?
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:17pm): 誰でもOK！
-- **Magurock (偽物や乗っ取り注意)** (Sep 01, 2025 12:18pm): 分かりました
+- **隼人の顔** (Sep 01, 2025 12:18pm): 分かりました
 - **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:18pm): やったー！
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:30pm): ちょ....ライターください....。
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:30pm): 俺が一番が良かった....。
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:30pm): せっかく誘ってもらえたのに...。
-- **Magurock (偽物や乗っ取り注意)** (Sep 01, 2025 12:31pm): 最初からライターですよ
+- **隼人の顔** (Sep 01, 2025 12:31pm): 最初からライターですよ
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): 投稿できないｗ
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): まぐろくどうやった？
-- **Magurock (偽物や乗っ取り注意)** (Sep 01, 2025 12:31pm): [Attachment](https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd/wish/zV61Q6bqloANQO98) 右下のこれ押すと投稿できます
+- **隼人の顔** (Sep 01, 2025 12:31pm): [Attachment](https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd/wish/zV61Q6bqloANQO98) 右下のこれ押すと投稿できます
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): ありがと！！
 - **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:32pm): 感謝感謝
 - **✿ 🐬𝒮𝒶𝓉𝒶𝓃🐬 ✿** (Sep 04, 2025 11:50pm): こんにちは！よろしくお願いします！
