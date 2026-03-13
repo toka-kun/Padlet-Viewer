@@ -1,4 +1,4 @@
-最終更新: 2026/03/13 11:09:10
+最終更新: 2026/03/13 13:44:51
 
 # Padletポータルワールド
 
@@ -393,7 +393,7 @@
 ---
 
 ### 14. ゆずみかんが作る雑談部屋
-**Author:** 悪いけど隼人が先に嫌がらせをして来たから文句言わないでね。 (ogaron)
+**Author:** オガロン（応急処置） (ogaron)
 
 <p>過疎部屋ですが、これから過密にしていきたいとおもいます。</p><p>よろしくお願いします</p>
 
@@ -410,7 +410,7 @@
 [Attachment 1](https://padlet.com/padlets/frxb7bsiu0zyxaqj)
 
 #### Comments (1)
-- **悪いけど隼人が先に嫌がらせをして来たから文句言わないでね。** (Feb 26, 2026 10:00am): 作成日の日は曖昧です
+- **オガロン（応急処置）** (Feb 26, 2026 10:00am): 作成日の日は曖昧です
 
 #### Additional Information
 - **Post color:** White
@@ -2253,7 +2253,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773972550&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1nn8eR8cuWUMmqLmJ67sUUc22GLyup%2FcQLdEEolV2yqwA5KSevKcg%2Bwr2%2FYqi4J%2B6rD7yFCf9s%2F%2BarhaQnfd0M%2FzrTRtlw7edid9K0B%2F7hh7wNC1HOb0MVWavNVn2GysyWflfea0EQXIIsl9EdccTMo0TzBh%2Bz%2FcX4QxaSEfyR0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773981891&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iHIMX%2BmsgG3hkaHnNmboUi%2BV2opClbJfcRR%2BzpLGTfM0DDn4JdSFNQzB8DhB1XLKrDOl6DGzlX7FzvXoPh418IO9O7lKeo120Zqt5337wOViIdClU4RWtLWyFErleq7DUmKl99Gl9PynCPM%2BEYHCeIDViISfv2i8jtGcR0u1gQQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
