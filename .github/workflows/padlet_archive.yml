@@ -125,6 +125,7 @@ jobs:
           save_padlet "https://padlet.com/padlets/34b6kq9lghbe3rtm/exports/markdown.md" "archive/kabotya.md"
           save_padlet "https://padlet.com/padlets/5ggicyna1yjvquxr/exports/markdown.md" "archive/obungu.md"
           save_padlet "https://padlet.com/padlets/n0g1c0jl2ak3grc5/exports/markdown.md" "archive/sennin.md"
+          save_padlet "https://padlet.com/padlets/236elh6xnvi2nw9q/exports/markdown.md" "archive/romanpearce.md"
 
       - name: まとめて保存
         run: |
