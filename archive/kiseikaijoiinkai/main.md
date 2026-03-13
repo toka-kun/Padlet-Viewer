@@ -1,4 +1,4 @@
-最終更新: 2026/03/05 13:45:50
+最終更新: 2026/03/13 13:45:14
 
 # 規制解除委員会(本部)
 
@@ -9,7 +9,7 @@
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 - **Posts:** 20
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Mar 05, 2026 02:44am
+- **Updated At (UTC):** Mar 13, 2026 02:51am
 
 ## 読んどいて(о´∀`о)
 
@@ -202,6 +202,11 @@
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 [Attachment 1](https://wkt-munenikaketemuneni.onrender.com/wkt)
+
+#### Comments (3)
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Mar 13, 2026 02:51am): https://wkt-nana.up.railway.app/login
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Mar 13, 2026 02:52am): https://wkt-nana-02.up.railway.app/login
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Mar 13, 2026 02:52am): https://wkt-nana.up.railway.app/login
 
 #### Additional Information
 - **Created At (UTC):** Feb 28, 2026 11:33am
