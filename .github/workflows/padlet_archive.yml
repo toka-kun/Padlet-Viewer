@@ -23,8 +23,8 @@ jobs:
           # 日本時間に設定
           export TZ='Asia/Tokyo'
           
-          # 保存先のフォルダをまとめて作成
-          mkdir -p archive/nyg archive/woolisbest archive/magurock archive/kiseikaijoiinkai archive/egao
+          # 保存先のフォルダをまとめて作成（egaoを削除）
+          mkdir -p archive/nyg archive/woolisbest archive/magurock archive/kiseikaijoiinkai
 
           # 待機時間を決定（無料枠節約のため短縮）
           if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
@@ -44,6 +44,13 @@ jobs:
             # 1. 一旦データを一時ファイルにダウンロード
             if curl -L --compressed -s -o temp_download.md "$URL"; then
                 
+                # 1.5. 空白ファイルチェック：サイズが0バイトならエラーとしてスキップ
+                if [ ! -s temp_download.md ]; then
+                    echo "⚠️ エラー: $OUT_FILE はデータが空白でした。更新をスキップします。"
+                    rm temp_download.md
+                    return 0
+                fi
+
                 # 2. 中身のチェック：先頭が "<!DOCTYPE html>" だったらスキップ
                 if head -n 1 temp_download.md | grep -q "<!DOCTYPE html>"; then
                     echo "⚠️ スキップ: $OUT_FILE はエラーページ(HTML)でした。更新しません。"
@@ -113,11 +120,7 @@ jobs:
           save_padlet "https://padlet.com/padlets/5db70e80bto7rnxl/exports/markdown.md" "archive/kiseikaijoiinkai/lobby.md"
           save_padlet "https://padlet.com/padlets/li9b305l0l9h3kx5/exports/markdown.md" "archive/kiseikaijoiinkai/main.md"
 
-          # --- 5. egao シリーズ ---
-          save_padlet "https://padlet.com/padlets/8fca4hvtg8cxbx18/exports/markdown.md" "archive/egao/lobby.md"
-          save_padlet "https://padlet.com/padlets/528n877zusll9iby/exports/markdown.md" "archive/egao/main.md"
-
-          # --- 6. その他の単独ファイル ---
+          # --- 5. その他の単独ファイル ---
           save_padlet "https://padlet.com/padlets/zsdegt1d6scuq9qa/exports/markdown.md" "archive/beruri.md"
           save_padlet "https://padlet.com/padlets/fj7pwrjfd44519fq/exports/markdown.md" "archive/bonjour.md"
           save_padlet "https://padlet.com/padlets/afg5jcs1w4yyk2h1/exports/markdown.md" "archive/hikari.md"
