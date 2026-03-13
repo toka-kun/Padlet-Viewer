@@ -1,4 +1,4 @@
-最終更新: 2026/03/13 17:41:29
+最終更新: 2026/03/13 18:40:02
 
 # Padletポータルワールド
 
@@ -393,7 +393,7 @@
 ---
 
 ### 14. ゆずみかんが作る雑談部屋
-**Author:** 隼人の顔 (ogaron)
+**Author:** オガロン (ogaron)
 
 <p>過疎部屋ですが、これから過密にしていきたいとおもいます。</p><p>よろしくお願いします</p>
 
@@ -410,7 +410,7 @@
 [Attachment 1](https://padlet.com/padlets/frxb7bsiu0zyxaqj)
 
 #### Comments (1)
-- **隼人の顔** (Feb 26, 2026 10:00am): 作成日の日は曖昧です
+- **オガロン** (Feb 26, 2026 10:00am): 作成日の日は曖昧です
 
 #### Additional Information
 - **Post color:** White
@@ -2256,7 +2256,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773996089&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Czb4CaoT65QcOcgOc3leQfmNisPAfGh0LLs52RiJqhkyAHiSV98%2FnoRA3M5yJA6%2Bty2VBPkuy0od5bvj64QOnuTc9eTE6SQpg7KizByolgXK8ip3LA4WPJZ02YL0lm3QE5NuSZp%2BPcmtE2LEvYPKJ%2Bb%2BUpMCGOGHL2aZ85xcqQA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1773999602&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LLeesU4gXERYS9ieKMf8dzIUwQ1nIT%2BMi9lJiWMvzRYNQ8bWRDgc%2FylsRE6dKSlHh7ulkjo3Jo%2Bn4Tr7KxP5Cq3SQWV%2BmwzCM0jBWahfBaqA1GfdElLwdoin8n8RqExlMroC27u6YITxGa0%2F9%2FtJzQCnjv8jYwIxgjc5cW8nCR8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
