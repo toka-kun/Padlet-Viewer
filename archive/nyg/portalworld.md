@@ -1,4 +1,4 @@
-最終更新: 2026/03/14 17:37:39
+最終更新: 2026/03/14 18:35:04
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 101
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Mar 13, 2026 07:42am
+- **Updated At (UTC):** Mar 14, 2026 09:21am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -74,6 +74,10 @@
 **モデレーター数:** 非公開
 
 [Attachment 1](https://padlet.com/padlets/a8v7cjbbfni702kg)
+
+#### Comments (2)
+- **アブリ　カルビ** (Mar 14, 2026 09:21am): https://padlet.com/gs211024/youtube-u00rj2das7ymsdos
+- **アブリ　カルビ** (Mar 14, 2026 09:21am): 絶体入ったほうがいい
 
 #### Reactions
 - **Number of likes:** 1
@@ -2256,7 +2260,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1774082259&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=oW8UsSMvUYjlRMJx9gngvl5s60bFK6x66JxrYIdydVe200Mj%2FldldoUz3yWCUtH%2Biq%2FU936t9rKVZEdMBWKGESdBjiVNhMJmo2S9GEN8lD69icpkInDxwtF0fUgwiMiorWdyqKGIehhrXurPk4aMjmMucJguFnHGa4NQpoRp9EM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1774085704&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bQ8oZgFk2wDPtUYKKMumCGO%2B4sWIlQPRzRAinctuL8WJ3DviJZzRK4DavAXlixYPonedEKVKqEL36KCV11Iu0CMG8XImWPyIvgIbhTestbIed3BJdWjXS6bUFWu5NAWXU7z%2FiXh74gINNCXR448XJPXpmjc7aby%2FZ6gwh9yTNlE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
