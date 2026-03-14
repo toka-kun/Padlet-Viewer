@@ -1,4 +1,4 @@
-最終更新: 2026/03/14 15:49:56
+最終更新: 2026/03/14 20:25:21
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 14, 2026 06:08am
+- **Updated At (UTC):** Mar 14, 2026 10:44am
 
 ## 受付
 
@@ -99,7 +99,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (56)
+#### Comments (57)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -156,6 +156,7 @@
 - **匿名** (Mar 09, 2026 11:39am): 入れろよくず
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 10, 2026 04:31am): アクセス要求して🥺
 - **𝕞𝕒𝕗𝕚𝕟　若人よヨッシー使え** (Mar 10, 2026 11:59am): いれてちょ
+- **こうき** (Mar 14, 2026 10:44am): 入りたい
 
 #### Additional Information
 - **Post color:** Red
