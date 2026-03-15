@@ -1,4 +1,4 @@
-最終更新: 2026/03/16 01:34:25
+最終更新: 2026/03/16 02:28:54
 
 # Padletポータルワールド
 
@@ -23,7 +23,7 @@
 #### Comments (6)
 - **草** (Oct 29, 2025 07:18am): ？」
 - **削除済みユーザー** (Nov 29, 2025 07:24am): ↑のpadletポータルワールドをタップしたら投稿できると思う
-- **NyrikX(足立区陣ICFS系)** (Feb 14, 2026 02:13am): 質問です、部屋は自分が持ち主ではないが、管理者権限を持っている場合、自分はここにその部屋を宣伝も可能ですか
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 14, 2026 02:13am): 質問です、部屋は自分が持ち主ではないが、管理者権限を持っている場合、自分はここにその部屋を宣伝も可能ですか
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 14, 2026 04:33am): 自分が持ってる部屋だけ
 - **k** (Mar 11, 2026 08:05am): すみません
 - **k** (Mar 11, 2026 08:06am): なにか入るのかなと思ってやったら他の人のをだしてしまってすみません
@@ -651,7 +651,7 @@
 ---
 
 ### 25. ICFSブロックの足立区民専用の研究組だよ！
-**Author:** NyrikX(足立区陣ICFS系) (h3000370)
+**Author:** NyrikX-Tokuyo(足立区陣ICFS系) (h3000370)
 
 <p>主に足立区民だけで作り上げていくつもりだよ。応援してね。</p>
 
@@ -2256,7 +2256,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1774197265&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5FLI3L%2FV3AtzI6ZjxAvaJNljZqHJ2Zq5Xr2NB6PrB12zGXZV3Wc9J%2FF45m4C3MhVDN2gqHT7ijwE89FdlTpdDeeE9tpiMOZvb%2BqnpViaL5qCA5yxpBG9ngREDCrO%2FotNrwhO%2Bj2m9QBQtlyL78lupHKWJ%2Fq4IbxCG2UH5hc2SX4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1774200534&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eD9LDho2xectGrcDaAtGNA48AHuJrFTBHdxxe8Sk3wD7r0chcI4GA3wLR1lefkRPBfYMMoOLc4oD9MWW1qkD231A3M%2BIuuhtANf5E1sj7aspS6ld5uQWgxxXsH7VBeNVgZqcVst9LTwVEslg%2FVzTxcUTfsqom%2Bgwlu3SV1C76tE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
