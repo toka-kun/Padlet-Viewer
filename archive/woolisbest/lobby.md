@@ -1,4 +1,4 @@
-最終更新: 2026/03/16 08:30:30
+最終更新: 2026/03/16 14:16:47
 
 # 受付と匿名用
 
@@ -9,14 +9,14 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 14, 2026 10:44am
+- **Updated At (UTC):** Mar 16, 2026 04:32am
 
 ## 受付
 
 ### 1. アクセス要求して
 **Author:** woolisbest (woolisbest)
 
-#### Comments (69)
+#### Comments (71)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 12, 2026 11:54pm): すぃた
 - **削除済みユーザー** (Feb 13, 2026 03:20am): した
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 13, 2026 06:49am): sita
@@ -86,6 +86,8 @@
 - **青葉  @BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ** (Mar 12, 2026 01:43pm): バグって怖い
 - **Anonymous** (Mar 13, 2026 04:04am): やべぇバカだわwユーザー名とかパスワードとか全く変えてないけどコピペするの忘れたぁw
 - **青葉  @BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ** (Mar 14, 2026 06:08am): 新垢入れた？
+- **Kan Tsubaki　　aoi** (Mar 16, 2026 04:31am): gs185900@nerima-edu.jp
+- **Kan Tsubaki　　aoi** (Mar 16, 2026 04:31am): miyase1859@gmail.com
 
 #### Additional Information
 - **Post color:** Yellow
@@ -99,7 +101,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (57)
+#### Comments (59)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -157,6 +159,8 @@
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 10, 2026 04:31am): アクセス要求して🥺
 - **𝕞𝕒𝕗𝕚𝕟　若人よヨッシー使え** (Mar 10, 2026 11:59am): いれてちょ
 - **こうき** (Mar 14, 2026 10:44am): 入りたい
+- **Kan Tsubaki　　aoi** (Mar 16, 2026 04:31am): 入れて
+- **Kan Tsubaki　　aoi** (Mar 16, 2026 04:32am): メアドは上の投稿
 
 #### Additional Information
 - **Post color:** Red
@@ -172,7 +176,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (29)
+#### Comments (30)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -202,6 +206,7 @@
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 04, 2026 01:21pm): メアド
 - **HIKAKIN** (Mar 06, 2026 10:59pm): ふーん
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 07, 2026 03:13am): メアド
+- **Kan Tsubaki　　aoi** (Mar 16, 2026 04:30am): した
 
 #### Additional Information
 - **Post color:** Red
