@@ -144,14 +144,13 @@
             display: flex; align-items: center; gap: 4px; 
             color: #e6edf3; font-weight: 500; 
         }
-        /* リンクになっている場合のスタイル */
         .author-link {
             text-decoration: none;
             cursor: pointer;
             transition: color 0.2s;
         }
         .author-link:hover {
-            color: #58a6ff; /* Padletの青っぽい色 */
+            color: #58a6ff; 
             text-decoration: underline;
         }
 
@@ -188,6 +187,39 @@
             border-color: #8b949e;
         }
 
+        /* Faviconリンクボタンスタイル */
+        .favicon-link {
+            display: inline-flex; align-items: center; gap: 10px;
+            background-color: #161b22;
+            border: 1px solid #30363d;
+            padding: 8px 12px;
+            border-radius: 6px;
+            color: #c9d1d9 !important;
+            text-decoration: none !important;
+            transition: all 0.2s;
+            max-width: 100%;
+            box-sizing: border-box;
+        }
+        .favicon-link:hover {
+            background-color: #21262d;
+            border-color: #8b949e;
+        }
+        .favicon-link img {
+            width: 20px !important; 
+            height: 20px !important; 
+            border-radius: 4px;
+            margin: 0 !important;
+            border: none !important;
+            flex-shrink: 0;
+        }
+        .favicon-link span {
+            white-space: nowrap; 
+            overflow: hidden; 
+            text-overflow: ellipsis; 
+            font-size: 0.85rem;
+            font-weight: 500;
+        }
+
         /* 本文 */
         .card-content {
             font-size: 0.85rem; line-height: 1.6; color: #c9d1d9;
@@ -222,7 +254,7 @@
             display: flex; align-items: center; justify-content: space-between;
             padding: 8px 0;
             border-top: 1px solid rgba(48, 54, 61, 0.5);
-            margin-top: auto; /* コンテンツの下に配置 */
+            margin-top: auto; 
         }
         .stars {
             background: rgba(227, 179, 65, 0.1); color: #e3b341;
@@ -318,14 +350,12 @@
     <script>
         const markdownUrl = '/archive/nyg/main.md';
 
-        // 1. Marked (Markdownパーサー)の設定: リンクを検出したら target="_blank" を付与
         const renderer = new marked.Renderer();
         renderer.link = function(href, title, text) {
             return `<a href="${href}" target="_blank" rel="noopener noreferrer">${text}</a>`;
         };
         marked.setOptions({ renderer: renderer, breaks: true });
 
-        // 2. DOMPurify (HTMLサニタイザー)の設定: 強制的に target="_blank" を追加
         DOMPurify.addHook('afterSanitizeAttributes', function (node) {
             if ('target' in node) {
                 node.setAttribute('target', '_blank');
@@ -344,12 +374,10 @@
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 const fullText = await response.text();
                 
-                // --- 投稿数の抽出 ---
                 const headerChunk = fullText.substring(0, 4000); 
                 const postsMatch = headerChunk.match(/(?:- )?\*\*(?:Posts|投稿):\*\* (\d+)/i);
                 const postCount = postsMatch ? postsMatch[1] : '-';
 
-                // --- データの分割処理 ---
                 const splitIndex = fullText.indexOf('\n\n');
                 let updateTimeStr = '最終更新: 不明';
                 let markdownContent = fullText;
@@ -400,10 +428,7 @@
             
             columns.forEach((colText, index) => {
                 if (colText.trim().length === 0) return;
-
-                // --- 0:タイトルブロック、1:最初のカラム を両方スキップ ---
                 if (index <= 1) return;
-                // ----------------------------------------------------
 
                 const firstLineBreak = colText.indexOf('\n');
                 let colTitle = (firstLineBreak === -1) ? colText.trim() : colText.substring(0, firstLineBreak).trim();
@@ -430,7 +455,6 @@
 
                 cardsData.forEach((cardText, cIndex) => {
                     if (!cardText.trim()) return;
-
                     try {
                         const card = parseCard(cardText);
                         colBody.appendChild(createCardElement(card));
@@ -514,12 +538,10 @@
                 return match ? match[1].trim() : null;
             };
 
-            // 作成者の取得
             let authorRaw = getMeta(/(?:- )?\*\*(?:Author|作成者|Builder):\*\* (.*)/i) || '不明';
             let authorName = authorRaw;
             let authorUrl = null;
 
-            // "Display Name (Username)" 形式の解析
             const authorMatch = authorRaw.match(/^(.*)\s\((.*)\)$/);
             if (authorMatch) {
                 authorName = authorMatch[1].trim(); 
@@ -573,10 +595,28 @@
             ];
             patternsToRemove.forEach(regex => content = content.replace(regex, ''));
             
-            let attachmentUrl = null;
-            content = content.replace(/!?\[(?:Attachment 1|添付ファイル)\]\((.*?)\)/gi, (match, url) => {
-                attachmentUrl = url;
+            let attachments = [];
+
+            // 1. 画像の抽出: ![任意のテキスト](URL)
+            // 先頭に ! がついているものは強制的に画像扱い
+            content = content.replace(/!\[([^\]]*)\]\((.*?)\)/g, (match, alt, url) => {
+                attachments.push({ url: url.trim(), isImage: true });
                 return ''; 
+            });
+
+            // 2. リンクの抽出: [http...](http...) または [Attachment...](URL)
+            // 通常のインラインリンクを消さないように、テキストとURLが完全一致するか、特定の文字を含む場合のみ抽出
+            content = content.replace(/\[([^\]]+)\]\((.*?)\)/g, (match, text, url) => {
+                const t = text.trim();
+                const u = url.trim();
+                
+                if (t === u || /^(?:Attachment|添付ファイル)/i.test(t)) {
+                    // 拡張子で画像かどうかの最終判定（保険）
+                    const isImgUrl = /\.(jpeg|jpg|gif|png|webp|bmp|svg)(?:\?.*|#.*)?$/i.test(u);
+                    attachments.push({ url: u, isImage: isImgUrl });
+                    return '';
+                }
+                return match; // インラインリンクは本文に戻す
             });
 
             return {
@@ -591,7 +631,7 @@
                 createdDate: displayCreatedDate, 
                 postType: postType,
                 customLastUpdate: displayUpdatedDate,
-                attachmentUrl: attachmentUrl,
+                attachments: attachments,
                 linkUrl: linkUrl
             };
         }
@@ -613,16 +653,43 @@
             const starsStr = data.rating > 0 ? '⭐'.repeat(Math.round(data.rating)) : '☆';
             const ratingText = data.ratingCount > 0 ? `(${data.ratingCount})` : '';
 
+            // --- 添付ファイル・リンク描画処理 ---
             let mediaHtml = '';
-            if (data.attachmentUrl || data.linkUrl) {
+            if ((data.attachments && data.attachments.length > 0) || data.linkUrl) {
                 mediaHtml += '<div class="attachment-area">';
-                if (data.attachmentUrl) {
-                    mediaHtml += `<img src="${escapeHtml(data.attachmentUrl)}" alt="Attachment">`;
-                    mediaHtml += `<a href="${escapeHtml(data.attachmentUrl)}" target="_blank" class="action-link">📎 添付ファイル</a>`;
+                
+                if (data.attachments) {
+                    data.attachments.forEach(att => {
+                        if (att.isImage) {
+                            // 画像
+                            mediaHtml += `<img src="${escapeHtml(att.url)}" alt="Attachment">`;
+                            mediaHtml += `<a href="${escapeHtml(att.url)}" target="_blank" class="action-link" style="margin-bottom: 8px;">📎 画像を開く</a>`;
+                        } else {
+                            // リンク（Favicon埋め込み）
+                            const encodedUrl = encodeURIComponent(att.url);
+                            const faviconUrl = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${encodedUrl}&size=64`;
+                            mediaHtml += `
+                                <a href="${escapeHtml(att.url)}" target="_blank" class="favicon-link" style="margin-bottom: 8px;">
+                                    <img src="${faviconUrl}" alt="favicon">
+                                    <span>${escapeHtml(att.url)}</span>
+                                </a>
+                            `;
+                        }
+                    });
                 }
-                if (data.linkUrl && data.linkUrl !== data.attachmentUrl) {
-                     mediaHtml += `<a href="${escapeHtml(data.linkUrl)}" target="_blank" class="action-link">🔗 リンクを開く</a>`;
+
+                // Metadata側のLinkが添付ファイルと被っていない場合のみ描画（一貫性を持たせるためFavicon形式にする）
+                if (data.linkUrl && (!data.attachments || !data.attachments.find(a => a.url === data.linkUrl))) {
+                    const encodedUrl = encodeURIComponent(data.linkUrl);
+                    const faviconUrl = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${encodedUrl}&size=64`;
+                    mediaHtml += `
+                        <a href="${escapeHtml(data.linkUrl)}" target="_blank" class="favicon-link">
+                            <img src="${faviconUrl}" alt="favicon">
+                            <span>${escapeHtml(data.linkUrl)}</span>
+                        </a>
+                    `;
                 }
+                
                 mediaHtml += '</div>';
             }
 
