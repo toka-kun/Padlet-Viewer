@@ -1,6 +1,6 @@
 # Padlet Viewer
 
-Padlet代替ビュアーのレポジトリです。
+Padlet代替ビュアーのレポジトリです。MIT Licenseのもと公開されています。
 
 ---
 
