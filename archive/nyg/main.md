@@ -1,4 +1,4 @@
-最終更新: 2026/03/17 08:33:37
+最終更新: 2026/03/17 11:12:00
 
 # プロキシのリンクやYouTubeの閲覧方法を共有する会
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 443
+- **Posts:** 444
 - **Created At (UTC):** Aug 20, 2024 10:59pm
-- **Updated At (UTC):** Mar 16, 2026 10:39pm
+- **Updated At (UTC):** Mar 17, 2026 02:06am
 
 ## リンク集
 
@@ -49,7 +49,7 @@
 
 **最終更新日:** September  4, 2025
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/621ab046b2ae10ed54cb176137ac73cb/________2_.png?Expires=1774308810&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=E7h%2BNw%2F%2BMssmbCQcYUV1cMzMTYlMi1znb218mmRlyU674BDq8loaQ7it9tAkkQatEQg0GTlStmgv57VY%2Br%2BgeZ%2BzkQbChRjg3vF4alQ5lyEXB7D%2FERQCf3LWjgZMMBfCIcKSIty0ic9n8jF8Ms%2FJjPOqjPPUkTYNTa0PBgCkrjE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F621ab046b2ae10ed54cb176137ac73cb%2F________2_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/621ab046b2ae10ed54cb176137ac73cb/________2_.png?Expires=1774318311&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=itvCExjbQ2LxqzfdMU%2FeUKrVCpyyNsEIsuW0vP90qpTqt5c7FHzgZ6LQmq3%2BRuGV93lN4oqkrcl9xYS6TBgEG5br4YfFiDOYhO8Cex1O3aEGjJQk4l5JEvPhxGF9DoS9xt0yaBhEenJgw7gkpe4S92qNKD%2BEBhRMM5Qyj%2FcBnsg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F621ab046b2ae10ed54cb176137ac73cb%2F________2_.png)
 
 #### Comments (1)
 - **ゾン** (Jun 01, 2025 12:07pm): 消したんだやっと
@@ -193,7 +193,7 @@
 
 [https://4932sk-3000.csb.app/](https://4932sk-3000.csb.app/)
 
-#### Comments (12)
+#### Comments (13)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 16, 2026 05:54am): ꒰ა😇໒꒱
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 16, 2026 05:55am): 502 bad gate way
 - **さぶさぶ** (Mar 16, 2026 06:19am): [Attachment](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/R7dXadNG3E41Z6bl) 
@@ -206,6 +206,7 @@
 - **山本** (Mar 16, 2026 10:31am): ありがとうございます
 - **エビMC** (Mar 16, 2026 09:56pm): コードください
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 16, 2026 09:56pm): wakame
+- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 17, 2026 01:01am): あ、404 Not Found
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -691,7 +692,7 @@
 ### 9. Lunerv4ってX垢作成できないんかな
 **Author:** 削除済みユーザー (sakujosaretenaiyo)
 
-#### Comments (15)
+#### Comments (16)
 - **きなこもち** (Mar 07, 2026 01:56am): lunarのipアドレスほしい
 - **日本** (Mar 07, 2026 02:21am): 始めて入りましたよろしくお願いします。
 - **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 02:47am): こちらこそよろしくお願いします
@@ -707,6 +708,7 @@
 - **削除済みユーザー** (Mar 07, 2026 02:40pm): リスクっていうのは初期化とかでバレやすいとか、データ消失の恐れがあるとかね　だから今ここに乗ってるサイトのように今のところは回避の方がリスクも圧倒的に低いし安全・楽かな
 - **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 08, 2026 07:30am): とりあいずICFS解除できたが将来I-FILTERとかになったら何もできなさそう
 - **日本** (Mar 09, 2026 11:07am): ありがとうございます
+- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 17, 2026 01:06am): ipアドレスバレてる毛dだいじょうぶそ
 
 #### Additional Information
 - **Post color:** White
@@ -1089,7 +1091,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/6f825c782cb30814a4923cd8e658534a/mosaic_20260216103531.png?Expires=1774308811&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NobjPomau82eauQX%2Fir48%2BAvWKPWU4nRU4wODT6O92dtACkXm14Y9Y1JEuGvR0PesnRLbwYxpqGjLvj35IFgGOF0tmWy4%2B8UtkmKQ0T5JJdQvrSs35XospxbhtL0nbXFk%2FKW0G7YKplX2NPpfnsUobk2%2FOFw9ibX%2B03lkeM4GnY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F6f825c782cb30814a4923cd8e658534a%2Fmosaic_20260216103531.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/6f825c782cb30814a4923cd8e658534a/mosaic_20260216103531.png?Expires=1774318312&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dzOCNZx96DVrluDZtQ%2BOtXj9m4lZf8gmKke4rE7JT4shJg%2Fm6YefNMOx41ted9BifPpSfxg95%2BvOjGhk%2F7yAhyhZ33PODdx0puxdXG3FDNCIkoJ5WWZ%2FQUib5p3G6UBUexweKq1j0HZRPxMhzMGAlyWP4f9mumTtnzlvYpF51XM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F6f825c782cb30814a4923cd8e658534a%2Fmosaic_20260216103531.png)
 
 #### Comments (9)
 - **Massa_games216** (Feb 16, 2026 01:39am): あと自分でデプロイするつなぎ用にutopiaほしいっす
@@ -1115,8 +1117,8 @@
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **どれが一番欲しくて使いやすいかを選んでね:**
-- **わかめtube Plus:** 108 votes
-- **しあtube または XeroxYT または YuZuTube:** 98 votes
+- **わかめtube Plus:** 109 votes
+- **しあtube または XeroxYT または YuZuTube:** 99 votes
 - **MIN-Tube2 または Yuki YouTube+ または YouTube Plus+:** 20 votes
 - **チョコtube または 仙人tube:** 49 votes
 
@@ -1142,7 +1144,7 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Feb 25, 2026 11:06am
-- **Updated At (UTC):** Mar 16, 2026 10:32am
+- **Updated At (UTC):** Mar 17, 2026 01:28am
 
 ---
 
@@ -1421,9 +1423,9 @@
 
 <p>なんか学校で変になった</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/223b8b74a0e6bf2ec4cc7a3bd6b54838/Screen_recording_2026_03_04_10_11_06.webm?Expires=1774308811&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Sce0IucNm%2BuYXDadvkTYl0sZd42y9of%2BcdxF3bwBy72VgHzILdIdjua%2BS2oTsunxeHNBw3BaQN2soota23gdPsqcL1dacK6fbx6IqZuj%2FgJJm9VCncaWhbNiKSfdhbvp%2F17OP6cN8XF7%2BbBQKG%2FELLlVKYWgpsVXeDwHdwyrX28%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F223b8b74a0e6bf2ec4cc7a3bd6b54838%2FScreen_recording_2026_03_04_10_11_06.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/223b8b74a0e6bf2ec4cc7a3bd6b54838/Screen_recording_2026_03_04_10_11_06.webm?Expires=1774318313&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vz6gPnEoAD6jZRnq69ZyfpoAG6btUylnyJ7YM4Fj%2FNkODGxRWQ6552gFFVpkjH5v0HtzjU89iBpcROh3mbkB0QKpQ3yfXnhbH30zzsc10tKrNw%2BHB3Jmb8cSCea8D03QkGZTcDPFi7lBFUecTO3J71Eq28Z%2BlKziKTfZ948yPyU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F223b8b74a0e6bf2ec4cc7a3bd6b54838%2FScreen_recording_2026_03_04_10_11_06.webm)
 
-#### Comments (19)
+#### Comments (20)
 - **πr²** (Mar 04, 2026 07:41am): ずっと再読込してたらこうなった
 - **入れ子＿構造** (Mar 04, 2026 08:23am): アイフィルター！無理せずに休んで！
 - **あ@低浮** (Mar 04, 2026 10:21pm): 俺の学校も昨日なったけど再読み込み何回かしたら治ったで
@@ -1443,6 +1445,7 @@
 - **πr²** (Mar 14, 2026 03:18am): 普通に打ったほうがわかりやすいような気がする
 - **青月㌠🤪💙.꒰ঌ12.12໒꒱　＠しょまろ優勝させたよ！！** (Mar 15, 2026 01:02am): ゆーちゅーぶのアカウントがほしすぎる（）
 - **πr²** (Mar 15, 2026 09:38am): 作ればよくね？
+- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 17, 2026 01:03am): あげるうそ
 
 #### Additional Information
 - **Post color:** White
@@ -1742,7 +1745,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/34e0460ab217cef783a7f5d9508fe612/Screenshot_2026_01_24_20_36_42.png?Expires=1774308812&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vhcsnUrFlEh6SxaXYqG%2F9pZ5V44qE%2B6OwWeRHKmIayI03HQjiv9iDCkVKmai%2FBmnlTxXHOLQZZgW%2FzeK4Q4aWYvYnUVfEk2plkQWuJUTymFqAW7na980giX0QvRTD3ZenJQZf2q6%2F%2FD8dlrq925usBhHuS0DW2rBN%2FRbyiGvEr0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F34e0460ab217cef783a7f5d9508fe612%2FScreenshot_2026_01_24_20_36_42.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/34e0460ab217cef783a7f5d9508fe612/Screenshot_2026_01_24_20_36_42.png?Expires=1774318313&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fIaK4v1OWWXigAK8dAyHL8arBzSx3KWrX6tM%2BGulMTpAoj8Zow3mg86PSKkIdqrfU1KUOTU0BQ19iuf4DB4vnUSaRT%2F33%2Fii5KU9XVxDl%2FcygyOvu9LWjCIbpqQy9P3ulqPDp%2F9akgWX91zfxzfKXPa0Do5GuHl%2BmII%2BOVH%2Fa7E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F34e0460ab217cef783a7f5d9508fe612%2FScreenshot_2026_01_24_20_36_42.png)
 
 #### Comments (37)
 - **Massa_games216** (Jan 24, 2026 11:43am): 自分の学校だけかもしれんがダウンロード履歴・ファイル情報まで読み取れるようになってるっぽい
@@ -1815,7 +1818,7 @@
 ### 4. くそが！
 **Author:** バッタ　#煮物貢献者　#煮物14番弟子　#りおと族37代目　#りおと弟子37番目　#そろそろ引退かも (bbbaaattttttaaa)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/79699f39858836d7bb42fb7d28e05c39/image.png?Expires=1774308812&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Czhp%2B1C%2FKX64tt9THjqqT9QzDZS303S7mQZ10zuRy4Dx3N1t%2FZoQ%2FMTx7t129ahnBx3hofsFLxs%2BZH6Ui0uDZgEltXbdnTC%2BVY5ZZkLD9NhO730SpK2UqyaqjaZoC0aeA20HBRe79softcLpz%2FrYhy7pUF3HQjO3vBH7TXNGsf0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2F79699f39858836d7bb42fb7d28e05c39%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/79699f39858836d7bb42fb7d28e05c39/image.png?Expires=1774318313&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PVpYjdQ1ft1XVSOmktVFSKVX5Ifpfc6cxdpj8yDloRBXcTuRvNVDED44kITEdW%2FM59Tlz9Oc1KLfjrG2v7h2%2FkqTfj0mFEdXpyJkuSSlO8vHuSbj4%2F%2BNllANyhvh1eSbOsEk910xfpbVbkMdGiwOh%2BHGh6VZoa5hLhg7%2BcSc6MI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2F79699f39858836d7bb42fb7d28e05c39%2Fimage.png)
 
 #### Comments (11)
 - **バンダナわどるど Xx-tucasanz-xX りおと53番弟子　りおと族27代目** (Jan 08, 2026 12:57am): それな
@@ -1880,7 +1883,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4208255619/929eda19f10e41dd61b1b94088af8f26/Screenshot_2025_11_09_19_44_49.png?Expires=1774308812&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SGBbxK28FZv86Ojzi6eS2zOO2xG1C3qOtyq6KYkJ6BJIoMl1YTldAN7OQWTqBq70APSqD2jVSXL1uh4eTkTj5uQDGni76JfT2Nj0XHQNWuLykwTiE8j0j6YvB%2B5iERsuPeIAKvt9Fg6RIhAm7Ow9ifUUSHITwFYAaeeDOw1jDd8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4208255619%2F929eda19f10e41dd61b1b94088af8f26%2FScreenshot_2025_11_09_19_44_49.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4208255619/929eda19f10e41dd61b1b94088af8f26/Screenshot_2025_11_09_19_44_49.png?Expires=1774318313&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jVEK1ALjiQm2DfYzgd6N3brEFJwpVRfHaB%2FOZGmF21IWBRTHnMA%2BEOpJESwhk%2BNyjjjopvpqvw3na%2FWg1KMXLKToQMUJIXHMAmYsPdcR5AtVE5vcSmU21mfvIyLIGZ1lx%2FbR021UNhkpYNC7ZmKZe5gz2JuVWAFLpziOltekheM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4208255619%2F929eda19f10e41dd61b1b94088af8f26%2FScreenshot_2025_11_09_19_44_49.png)
 
 #### Comments (11)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 09, 2025 04:05pm): また明日やり方貼ります
@@ -2041,7 +2044,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-#### Comments (17)
+#### Comments (18)
 - **削除済みユーザー** (Feb 26, 2026 11:34am): [Attachment](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/yEPVZkodzRA3Zb0Y) スクショって書いたのに貼り忘れてたすまんね
 - **kamato nero neo** (Feb 26, 2026 12:45pm): box、icfdではストレージサービスって出るから単なる仕事のファイル共有かなんかじゃないかな。それに地域公務員にブロック関係のモデレートは付与されないと思う。教育委員会での一括管理じゃないかな
 - **亜空カン_JANLINE** (Feb 26, 2026 01:04pm): kahootはただのクイズサイト
@@ -2059,6 +2062,7 @@
 - **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 16, 2026 02:07am): 先生のブックマーク見てもだいたい0つか1つか2つだった。しかもすべて異なる
 - **湖西線経由敦賀行き** (Mar 14, 2026 12:45pm): [Attachment](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/yEPVZkodzRA3Zb0Y) boxの動画
 - **CDEFGAH** (Mar 15, 2026 08:54am): 見た目がCanvaそっくりねぇ
+- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 17, 2026 01:04am): データ抽出..
 
 #### Additional Information
 - **Post color:** White
@@ -2101,7 +2105,7 @@
 
 <p>塾の友達から教わった方法</p><p>操作時間は3分から長くて10分です。今はコツを掴んだので100発中100回です。できると証明する動画でもあります。動画の最後の方を見れば分かる通り、成功したら上にある表示中の拡張機能の中でICFSが自動的に消去されていますが、いつもそうなるとは限りません。一番注意してほしいことは、制限以降の時間帯にやると、3~5回繰り返す必要がある可能性が少しあること。</p><p>1:タブを開きまくると、上のタブバーにあとから追加したタブが表示できなくなるので、そこまで画面のnewタブの+を押す。具体的に言うと、通常は30~40秒間連打し、制限の時間帯以降では15~25秒連打する。</p><p>2:そしたら、タブを追加すると自動的に上のURLバーが文字の入力の準備が整うので、画面が固まっていても好きなタイミングで、そのまま入りたいURLをぶち込んで3分程度待てば行ける。もちろんそのまま待って固まっている画面がなおってからやってもいい。また、画面が固まっている時間が長すぎてクラッシュしてページがリセットされることがありますが、もう数回やればできます。</p><p>そして、何よりも設定読み込み中が長すぎてだめだったら、すぐにリフレッシュキー(更新キー)と電源を一回同時に押してログインすると、上の表示中拡張機能バーにはICFSはありますが、実際にはブロック解除できています。私は以前この電源を一回切って入る方法を強制再起動のハードウェアのリセットとしてできたと思います。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/bb877797726af504c6d00cd3bcd6d156/ICFS_________online_video_cutter_com_.mp4?Expires=1774308812&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=HABbh1Wm4dH2Vj642F8YrLnEnJ3OZWfQWXGCBudx%2FdSxBjnVwl7W7gPU51EVNSEvI0880M1IuOfjq5r0Fga5Cxs0Sftowv0cFYBHdXgFxmRLChUmIIT0CJMqJHgSLe%2FNYTE3yPgVCR2d07wfLdtbj74PQh0A6F3ccw0PE47CGMk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2Fbb877797726af504c6d00cd3bcd6d156%2FICFS_________online_video_cutter_com_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/bb877797726af504c6d00cd3bcd6d156/ICFS_________online_video_cutter_com_.mp4?Expires=1774318313&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lCc94XoyAOwAohEODXVqKfS%2B8fEqeqgnI1xBaxYlJVte%2F1t86InMxyXWb8QfIAZPmVWVJAP7s7oKKmVr1LWZF1zEqGFSk%2FE77RoBHwX9CT4oT4hzTg41nNEiYG9Q3PKFE8bQ1zVn5%2B%2BZdhBfl6MW6V3Wr6crx3GXfoYhuLtIP%2Fw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2Fbb877797726af504c6d00cd3bcd6d156%2FICFS_________online_video_cutter_com_.mp4)
 
 #### Comments (15)
 - **RX034** (Feb 12, 2026 12:32pm): 確実だなこれが
@@ -2298,7 +2302,7 @@
 
 **最終更新日:** November 28, 2025
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3916500373/cdf9546d9a966132950301c2591a96a0/Screenshot_2025_07_17_10_01_07.png?Expires=1774308812&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jQqteZKcW1%2ByntyXRbHmB1ISV3ldTE3T%2BiWUm29y6oAscIanwV%2FwwvQHLIGBNuCnyVwtCK%2BdF81yZMhxSpp2nSoDrN9hNIDD%2BQWwErfvmy9NX6YIS6E88G92MKYIhKUxBFRwpUDSEZatI6dCr%2Bsc%2FOc4ExCRtfMy54aTfWVUa50%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3916500373%2Fcdf9546d9a966132950301c2591a96a0%2FScreenshot_2025_07_17_10_01_07.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3916500373/cdf9546d9a966132950301c2591a96a0/Screenshot_2025_07_17_10_01_07.png?Expires=1774318313&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4T53L78CVanWfVsqKyagV3L0vKZu6JeLOvQz073%2FIDLnAG8gDxxXEbvNqWtaj%2Bd5NZmWeRd7FVKC6x84KdJjZn6%2F4Y7ST0O2Q%2FY2v5MuoUHZhgs76ibSeO3ICjH%2FtusDoDdRqSnkqhrUNfwGbX6Dl1%2FFVNzNwiNkGZzE8%2BLZt4Y%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3916500373%2Fcdf9546d9a966132950301c2591a96a0%2FScreenshot_2025_07_17_10_01_07.png)
 
 #### Comments (7)
 - **削除済みユーザー** (Nov 23, 2025 12:11pm): wool-tubeあるww
@@ -3185,7 +3189,7 @@
 
 <p>英語のみ対応です</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1774308813&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=US7M9BsV2CuZl6Wnz1mJ7mmjcSpUSPL3o567vAV3U%2FKgCrQe7RYk%2FvnOUnWrvOPLShk7ZdZEb4zrEeM01SdD4meIvv0%2FB8DK4eissbTlgwg4Ylyv2vosl1jkuZYohtkWz%2F3Gnj%2FDMMJg4MlbzkTzy7Nc32jEWB8XKo8EzIyy4oE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1774318314&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2nV6Jd6R3GMegurCGT%2BfnQCT4fbW5NSNF9MNZtPsc6wE0vvYDc4uKrVb1XprDgbA2UHTgu0OVi7COhdXcjL%2FSwegEAaFnQLv9eixXMDfVHzN6CXrkKOYZZK%2FE4xwsJk6x2aIrvM1pvAdN8ub%2BAcTk8JGJ2wC75L0lnnkpaeD69U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
 
 #### Comments (1)
 - **カービィ** (Feb 28, 2026 02:14am): どうやって進むの？
@@ -3305,7 +3309,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1774308813&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JHnisSIsdFIzq4nISKpiX5JJTuS0biiTsmgNGNsEUSieG1cVNNZCBC6uHP5m2yxPN5f6iloIAG3e4kH0cISLp2dwO%2B6ih5eBeboDDQddi0%2F5uqHJDwvRPoe%2FFw0HfmKwJa7kMeH4lpNQ6TlgmNlBboer8kHMXu%2Ftwe5llosv2b8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1774318314&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=oiJ%2FrY1ibKEeMJWyM5BcdxB9FZuKMZ6BhmvFWH%2F%2BsT760u4gGLKlXXnwbfS%2BE8qde6Skr72li3L1%2BLxKJUtcMAU1JkQUm6WVzkkpPYWjGt9mWWAwMU6JBxTL1F%2BLPLLkng4SgaRRT7LSFPYOrdhh8%2BR1wAbOc%2Bz3nDRp9VYkO%2FQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
 
 #### Comments (6)
 - **RX034** (Dec 02, 2025 08:28am): 良ければどうぞ！
@@ -3367,7 +3371,7 @@
 
 <p>テトリスだよ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1774308813&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DHPYDfVGz9bVFbE2jW%2B0U8KOv3VPutNUtUC8%2FUneKPI5Xq4aHTcWMVMF98DOuk4JMvRR%2BROo9xeoiTJANMazGpWAK59JX6gXiU0DMFfL6JDvvjmS07iDzmJBpfJJibqs6bByESXJ%2B%2BF2DYt8MLkOJYI0pMX5%2F8snFecGu8627qI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1774318314&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1VFYbTIu9RcRNODDsCv6CAhia7sb0SRcCc27xCWv8RxnzeoAfIZNnf38SA5SilgLuT36oPAp5nevVXvetPCouPIMk85%2Fa4WLuwpfKIWrFcMhtbcC2%2ByziOoP3uTOe2UGPqUT4pbeTi6EzKXOD2h6Fnzb5asI%2F9D7fpvqCzqoP8g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
 
 #### Comments (1)
 - **はるとねこ** (Nov 10, 2025 01:54am): なんか表示できねえ
@@ -3386,7 +3390,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1774308813&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WvXYVjO5P%2BAYFhoPvSOg4twc3us4K92eGJQGOKJXMbVOq4JwWNMp0bO2zqqWOMMKAuq2AcuAMZ%2Fbzl3hXBrOmeC2OXINGBPOrTiND0oVc1zD4vGNSD%2B%2FWQcItlB%2Fcewmxrrl8llQBVuglsV6J6fxjdMRKDBL%2FCf5uSvr%2B%2BYttmc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1774318314&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uRE7VTKX2MuOKXibVcYUP7p6YcBzxBFelIAKgCATypDbgjQnS%2FC6BD7IDcu7nNsB8JBnb%2FEwNgUpA2gKGv2%2BPxLnX3wEdEfMP2tLS8vbCigbA60vb%2FyBmFgR1QbYVntfhaPRBp9LOehmc%2BhVxs7VC06ZaA7%2F5soK9xKmNoGprVk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
 
 #### Comments (3)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 08, 2025 04:36am): 思ったよりAIが強くて負けそう:(
@@ -4364,7 +4368,7 @@
 
 **投稿の種類:** サイトに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/3a2251759abdf3781d2bf689986ea97c/Screenshot_2025_09_26_21_33_45.png?Expires=1774308813&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xzcC2mTuhx%2F35TpHuqHNGebYwdoF0BbO2hj2uXKz61On%2BPjdmaUkWQLymqvwUWU5T7PIny1LHiuaM4nJR40OeO%2FZvfETHvhwC84AdXYyr3ljzMEx%2B6fH1HSCC0D1jXG0m4FQRZFAUsLBLUskkHxMy%2BLXb5H9ZiVrJlBiO3Lo%2BBs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F3a2251759abdf3781d2bf689986ea97c%2FScreenshot_2025_09_26_21_33_45.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/3a2251759abdf3781d2bf689986ea97c/Screenshot_2025_09_26_21_33_45.png?Expires=1774318315&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6Gt%2BgpHsQV22N5xrh0KMP0rPOedeRuGiuXf3oTIuOkBGiqJe8SSQyr75OCdwKZi15UTWfb2FjlsJL1x5%2FKufsd2DURNvLObujpsPaA8DcQuhmRuvWE6ZbtVdtpTG7qvphACNOx3rUg1%2FUM8fMhJ5t9ffXlhRNIXxekLfhZhCO%2FE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F3a2251759abdf3781d2bf689986ea97c%2FScreenshot_2025_09_26_21_33_45.png)
 
 #### Comments (1)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 26, 2025 12:39pm): 自分の拠点には看板を建てることを忘れずに！
@@ -4387,7 +4391,7 @@
 
 **投稿の種類:** サイトに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/4e06661b4e71a24c85f039879321dc42/Screenshot_2025_09_26_21_45_53.png?Expires=1774308813&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZdSNJzg2WwkZs6ypLTgot7k%2BcOfz%2F%2BgAX0S6AB4WCx8NxUDT1bAQJv42ZaYRy0cNTN8ZielhkdNANIGcQ%2FWzd48qdmoXVGMa3IhZHcnQ6%2FOVDAr%2B94NCtWscC70X1ObA58k96oorWaCGbIJkp3iM5%2FS3bnOkWGK9vTZXfhAhV88%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F4e06661b4e71a24c85f039879321dc42%2FScreenshot_2025_09_26_21_45_53.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/4e06661b4e71a24c85f039879321dc42/Screenshot_2025_09_26_21_45_53.png?Expires=1774318315&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=loH9BQKtlDiDpteTPuofvsPptO9GVvoHqufMYTLn41mC%2BQ867p0%2FuinPNgaN5wAVI73qXDoXHrfXcLshWF2VhxoAWKdTYIhXKOdnosK4V9IB%2BszN3DeZxdV0qgJe4WzFoMGpxKY3JXJz9W5sQKyWzI9AXxirT848CggcmtnbkXA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F4e06661b4e71a24c85f039879321dc42%2FScreenshot_2025_09_26_21_45_53.png)
 
 #### Comments (1)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 26, 2025 12:56pm): マップはここから見れるで https://html.cafe/x2c178236
@@ -4705,7 +4709,7 @@
 
 <p>1.12のイーグラだお</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/fcf918292b174ca7f7df3bd469bd225b/Eaglercraft_1_12_WASM_Offline_Download.zip?Expires=1774308813&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uNjNLC3VwS6%2Bx%2FG%2BA6aU12MG%2BX9KrsTMkQTutTbjCYJU9kpG%2BlhioL3%2BxbYO78HRXizAfwd5pLSvIMizlqxMsMr6DNR%2BqQwnyqDYHESLUBU8s5tCGwZu5PukSWGbQn%2FOabEdfBj%2BqmhqcHxkjOfBPEPIuLPfUkffJpXIF8v4lX4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2Ffcf918292b174ca7f7df3bd469bd225b%2FEaglercraft_1_12_WASM_Offline_Download.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/fcf918292b174ca7f7df3bd469bd225b/Eaglercraft_1_12_WASM_Offline_Download.zip?Expires=1774318315&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nUQwu4aoHPE%2F9OyLNEUSG6onzdHJ5gBgZ62qlSwg2c66qOlzxDWaI5hbDHaSir4Avkb912jCKJ%2FH8t5lEmrScrEXiSnr3CpqOi1CSZgJ6a7dGgDWPwAqWW%2BjPowkNn1bOmqqzF8wZKJ7sGGoFhCNwz0WDIL73zoEcQnt3ijFniE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2Ffcf918292b174ca7f7df3bd469bd225b%2FEaglercraft_1_12_WASM_Offline_Download.zip)
 
 #### Comments (1)
 - **削除済みユーザー** (Feb 21, 2026 02:53am): はい
@@ -5706,7 +5710,25 @@
 
 ## ➥ プロキシ
 
-### 1. このサイトの画面が開いても真っ黒なんだけど…どうやったら使える？
+### 1. Dogeub
+**Author:** nana_0227 (peconosippo777)
+
+<p><a rel="noopener noreferrer nofollow" href="https://dogeub.nana.alyaf.com/">https://dogeub.nana.alyaf.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://dogeub.nana.dinprima.ro/">https://dogeub.nana.dinprima.ro/</a></p><p><a rel="noopener noreferrer nofollow" href="https://dogeub.nana.swift.cl/">https://dogeub.nana.swift.cl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://dogeub.nana.mza.com.ar/">https://dogeub.nana.mza.com.ar/</a></p>
+
+**投稿の種類:** リンクの提供
+
+**最終更新日:** March 17, 2026
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4847522827/bce540036ec2fb993f5a9c4855b96492/IMG_0314.jpeg?Expires=1774318316&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5tUhUbPS1Z8WPS%2B3C0%2BfBmDvdussG%2BnsQ3Fg4x25b%2FySVfqL5WMiky6g3hdm1m5qM2kEjCT0iaQVk760OuNVJ66OTRJ77MRX9oIkOJkwLGCHGnrkDW4tqiCovtIW%2FrT%2B%2FTKpxxV5v7ZJVmrE8h%2BTOWbonruxZ5IU3R34kSZqbDA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4847522827%2Fbce540036ec2fb993f5a9c4855b96492%2FIMG_0314.jpeg)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 17, 2026 01:38am
+- **Updated At (UTC):** Mar 17, 2026 01:38am
+
+---
+
+### 2. このサイトの画面が開いても真っ黒なんだけど…どうやったら使える？
 **Author:** ＃G党　＃超低浮上 (shinichi3102)
 
 **投稿の種類:** サイトに関する相談や質問
@@ -5734,7 +5756,7 @@
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** Groovy Deer
 
 <p>I-フィルター突破可能なプロキシ！！！！</p>
@@ -5779,7 +5801,7 @@
 
 ---
 
-### 3. Post 3
+### 4. Post 4
 **Author:** Cheerful Kiwi
 
 <p><a rel="noopener noreferrer nofollow" href="https://helloapp.xsrv.jp/phproxy.html?_proxurl=">https://helloapp.xsrv.jp/phproxy.html?_proxurl=</a></p><p>これ使えんくなった</p>
@@ -5804,14 +5826,14 @@
 
 ---
 
-### 4. 音どうやって出すの()
+### 5. 音どうやって出すの()
 **Author:** 削除済みユーザー
 
 <p>でないんだけど。</p>
 
 **投稿の種類:** サイトに関する相談や質問
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4326203661/f9eee29623612a56726d0b918203a1be/Screen_recording_2026_01_10_17_36_15.webm?Expires=1774308814&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kKz1yk1p%2BKqgCBXmiOM6FATnhNKFBC3jyLKqsrPLN%2FOhi6PxTXJb2z%2FvnWTnbk29jV0%2FWOUQbDH%2F%2F194xRTMMgyMoJgFT1afEXOmRJdR1OUiuRR7lkeX0BaH%2BGEjJdOasoW5hKexRxQzNaclV5LaOWdR1EMprE7JyBea1agsPn8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4326203661%2Ff9eee29623612a56726d0b918203a1be%2FScreen_recording_2026_01_10_17_36_15.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4326203661/f9eee29623612a56726d0b918203a1be/Screen_recording_2026_01_10_17_36_15.webm?Expires=1774318316&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rvIKpKzmi8gW1QjjOwwmKh9DKHlfxq%2FmnOnuMKCvLGev4jE%2BJqAaWubXOE%2BT20EHCGeqlsv6cGADiCw2V%2B%2BXK5d9nOpOrX1nUreVy3%2BkIz9mkS5Ua4cp%2BAbI0tQgegTks8ldxhDrxTnM3YjWeuFp732B3L9tjKWlKYDudBykwpw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4326203661%2Ff9eee29623612a56726d0b918203a1be%2FScreen_recording_2026_01_10_17_36_15.webm)
 
 #### Comments (9)
 - **削除済みユーザー** (Jan 10, 2026 08:38am): https://ticket.xrcloud.jp/monocg/index?ec=event_305ba11f-ea9f-4394-819a-db14296a757f
@@ -5831,14 +5853,14 @@
 
 ---
 
-### 5. 何でも開けるやつ
+### 6. 何でも開けるやつ
 **Author:** クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ?? (KSHAKSHAIN_MANNENNHIRASYAIN)
 
 <p><a rel="noopener noreferrer nofollow" href="https://ticket.xrcloud.jp/monocg/index?ec=event_305ba11f-ea9f-4394-819a-db14296a757f">https://ticket.xrcloud.jp/monocg/index?ec=event_305ba11f-ea9f-4394-819a-db14296a757f</a></p>
 
 **投稿の種類:** サイトに関する情報提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4851851357/021a908021e1cd8630ac1760e3c51e12/Screenrecorder_20260107_175127.mp4?Expires=1774308814&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1%2BVoNEU%2F5sEed96xFHU8QRfvxWH8Ft%2ByWjYlEBiqR38IwQCDO1SYQfk%2B58U0iJOf4FJUz0ruCo%2FXkm63Mq0zYpkHal1KRSKTEqnrECY%2FBuumXGTfQuY6ACOoY%2BiTTlMc3sFKo%2Fo3LKH5r3JXRvZ%2FAuYBdqB8FnV6QOxOc%2B1pGww%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4851851357%2F021a908021e1cd8630ac1760e3c51e12%2FScreenrecorder_20260107_175127.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4851851357/021a908021e1cd8630ac1760e3c51e12/Screenrecorder_20260107_175127.mp4?Expires=1774318316&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3jRWPh0Y2nUMuXDMpOWmK4ToQ3q%2FG%2FoFNrIidf4sq0P2RH4NY9sDzbVAApBLc4Hz4xyK3NNekkTlHSF8EQesolNxKaEdztqZeZLmSqgIqqDI6AbFsckgZOVU9lHtDLfqhD2y%2BBRbzJzxYREv4pMzFQjNWIglSPsLns5Q1WgDcrA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4851851357%2F021a908021e1cd8630ac1760e3c51e12%2FScreenrecorder_20260107_175127.mp4)
 
 #### Comments (11)
 - **削除済みユーザー** (Jan 10, 2026 07:56am): 天才()
@@ -5864,7 +5886,7 @@
 
 ---
 
-### 6. Post 6
+### 7. Post 7
 **Author:** AU_ 3821632 (AU_3821632)
 
 <p><strong>私がwebで調べてproxyブロッカー入ってても使えるプロキシ</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://proxygratis.id/en">https://proxygratis.id/en</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://proxykuy.com/">https://proxykuy.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://weboproxy.com/">https://weboproxy.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://proxyorb.com/ja">https://proxyorb.com/ja</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.steganos.com/en/free-online-web-proxy">https://www.steganos.com/en/free-online-web-proxy</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.mojtreker.ru/">https://www.mojtreker.ru/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.activetk.jp/tools/nextip?themeRefresh=1">https://www.activetk.jp/tools/nextip?themeRefresh=1</a></p></li></ul><p><strong>ここからは、教えてもらったやつ</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://our-world.alyaf.com/">https://our-world.alyaf.com/</a></p></li></ul>
@@ -5888,7 +5910,7 @@
 
 ---
 
-### 7. プロキシ色々
+### 8. プロキシ色々
 **Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 <ul><li><p><a rel="noopener noreferrer nofollow" href="https://www.proxysite.com/">https://www.proxysite.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.4everproxy.com/">https://www.4everproxy.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wjptest.azurewebsites.net/">https://wjptest.azurewebsites.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://hidester.com/fr/proxy/">https://hidester.com/fr/proxy/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://fteinfo.com/note/archives/222">https://fteinfo.com/note/archives/222</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://proxy.web.id/">https://proxy.web.id/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.sslunblocker.com/">https://www.sslunblocker.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://www.unblockyouku.com/index.php">http://www.unblockyouku.com/index.php</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://siteget.net/">http://siteget.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://proxy.knyazvs.ru/">http://proxy.knyazvs.ru/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://webproxy.to/">http://webproxy.to/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://www.a.dukovany.cz/">http://www.a.dukovany.cz/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://www.newsproxy.xyz/">http://www.newsproxy.xyz/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://kproxy.in/index.php">http://kproxy.in/index.php</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://substitude.com/">http://substitude.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://www.zubec.com/">http://www.zubec.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://in-us.azurewebsites.net/">https://in-us.azurewebsites.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://usafastproxy.info/">http://usafastproxy.info/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://www.commonsound.com/fud/prox">http://www.commonsound.com/fud/prox</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://www.webproxy.co.at/">http://www.webproxy.co.at/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://www.undofilters.com/">http://www.undofilters.com/</a></p></li></ul>
@@ -5912,12 +5934,12 @@
 
 ---
 
-### 8. ここからどうすればいいの？
+### 9. ここからどうすればいいの？
 **Author:** Agile Raccoon
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4318390668/740f560a767fe4d24be738be0d6f589d/IMG_6109.png?Expires=1774308814&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=D589cVK%2FjES9rxgMrHVNaG%2FG1l1PRoqKL1DBkHPiE1zXJ6nbUWhDAdrrWcYpolTzsAFP%2F7fYD1b9H21HIRrOtx%2Bg8fQT%2BF0k%2FRXLYw6DKm8juyvzjI3%2FlghKRw%2FfKENZ1kn4abAoqRsbp%2B7Fj0R2mAjA7UL8jZpvyhFT0noRrN4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4318390668%2F740f560a767fe4d24be738be0d6f589d%2FIMG_6109.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4318390668/740f560a767fe4d24be738be0d6f589d/IMG_6109.png?Expires=1774318316&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UdtDTITw%2BrYZ4AHKp52KyzczKovzwixaGQ1hiCjtmaVM3Rl%2BTW5XVZrhYUvxXhWRA5xTmK4VYW%2B4ISwso9fY%2F%2FvGfljsAzqvqwE8NoqqNq%2Bn9kmR62ZdjZEvzsQonTdtYqqEiCgMvucjvYKMTOV01EQPPK5sOCsQb426vSqU8lE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4318390668%2F740f560a767fe4d24be738be0d6f589d%2FIMG_6109.png)
 
 #### Comments (5)
 - **Kirby** (Sep 06, 2025 09:26am): そのままurlを打つか、下に「Youtube」とか「Instagram」とか書いてあるからそこをタップする
@@ -5933,7 +5955,7 @@
 
 ---
 
-### 9. 上にあるトライアルを押すと20分を四回、合計80分Windowsみたいなやつができて、ブロックされないです。(全部)ちなみに重いです。
+### 10. 上にあるトライアルを押すと20分を四回、合計80分Windowsみたいなやつができて、ブロックされないです。(全部)ちなみに重いです。
 **Author:** asanomao
 
 **投稿の種類:** リンクの提供
@@ -5951,7 +5973,7 @@
 
 ---
 
-### 10. 使えると思う
+### 11. 使えると思う
 **Author:** 狐白雪 (kohakuyuki58949)
 
 <p><strong>2026/01/11追記: URLが変更されました。</strong></p>
@@ -5981,14 +6003,14 @@
 
 ---
 
-### 11. (体験版)プロキシ174個配布
+### 12. (体験版)プロキシ174個配布
 **Author:** Magurock (偽物･乗っ取り注意) (Magurock)
 
 <p>またプロキシ集めたので一部を色んな部屋で配布します。</p><p>僕の部屋でもっと大量に(約300?多分)公開する予定です。</p><p>いろんな部屋で配布するから被りはあるかも</p>
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/83c25b07d22752b78e3659552f1fb71b/Magurock20250803.html?Expires=1774308814&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=X5%2FsQXwx8QuuYL8GIG%2BdIICohJ26C5JyfE0zdVUxx4AJvhUrbzbrpQcMN6Z1XxDz8vN6UvYv84IZgJnL9najQ90Ww%2B1SbNscLpA2j0JrU%2BZTRTdylbnGY3p4A%2B%2BXaGcVWdY68hgjHM%2B%2Bu8DPgIGZyAWx9JPnTC1OjaSrZhWie1Y%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F83c25b07d22752b78e3659552f1fb71b%2FMagurock20250803.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/83c25b07d22752b78e3659552f1fb71b/Magurock20250803.html?Expires=1774318316&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fkna7WEozBXqfi6W6cvIGa6C9KZdib3GjwO0dVi4BmfgrMNRHus0On5NZ16h2VNlKBe8TxqNLFWsHz5D%2FQXj5FOTF1E0ZAEv9x2wbKFkhcz8zdAO5nc%2FuxcF4osc6y6cvOSOI028CPd6h6ndg04mG4q3P%2FJP0rulDC%2BaGQK4%2FjU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F83c25b07d22752b78e3659552f1fb71b%2FMagurock20250803.html)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -6001,7 +6023,7 @@
 
 ---
 
-### 12. Post 12
+### 13. Post 13
 **Author:** kaito (kaitoyokoyama2011)
 
 **投稿の種類:** リンクの提供
@@ -6025,14 +6047,14 @@
 
 ---
 
-### 13. Post 13
+### 14. Post 14
 **Author:** Magurock (偽物･乗っ取り注意) (Magurock)
 
 <p>(いろいろあって分類されてないのでここに置かせてもらいます)</p><p>かなりプロキシ集めてみました。</p><p>一旦その一部を配布しようと思います</p><p>(全部一覧は今のところ僕の部屋にあります)</p><p>反響凄かったら全部一覧配布しようと思います</p><p>他の部屋でも公開するので被りはあるかもしれません</p>
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/9819bcb1e710e8e32cf8351e5b790c93/___Proxy_explorer.html?Expires=1774308814&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GQ3W9HOPhdQK42a1rs4z0yBfZOO1b%2B5PodwlcAP8BBPFphBrCgTSgPedGDXi6wEglLEaeR1dtde3fA8GLkTdozn5W%2FuuzD7GIoSKOfaXKUvuRnqdsL4u4DtIq%2FYVmyvCtGRN1h10b3%2F1I0OngDWLpR7jRkBdzETZ%2FAxieoxeLBM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F9819bcb1e710e8e32cf8351e5b790c93%2F___Proxy_explorer.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/9819bcb1e710e8e32cf8351e5b790c93/___Proxy_explorer.html?Expires=1774318316&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DIxXQniLCnKzEX6xoOuGP8LXEhpOl%2BzbZP7RSTB%2FUWnb%2FSC9VSJBxGMzl9C7ZxldNFC4BwKGa4PEXBNR13qvNoeXy%2FAponW8uef1heBCIX9%2FNgIpG8wf3zPL1KrMRxBveiX1eKaxCCNq440yMtvAp1K4wvic6YFzbMedqKRhsqY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F9819bcb1e710e8e32cf8351e5b790c93%2F___Proxy_explorer.html)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -6045,7 +6067,7 @@
 
 ---
 
-### 14. Post 14
+### 15. Post 15
 **Author:** ヴァルマ ꧁ᬊᬁ𝓣𝓡𝓘𝓒𝓚𝓔𝓡_𝓨𝓤𝓩𝓤𝓓𝓐𝓨𝓞ᬊ᭄꧂ʕ̢̣̣̣·͡˔·ོɁ̡̣̣✧煮物貢献者 (0122yuzu)
 
 <p>ガチで優秀なサイトだからあんまり拡散しないで</p>
@@ -6084,7 +6106,7 @@
 
 ---
 
-### 15. 規制解除
+### 16. 規制解除
 **Author:** ᴎeoᴎӝ ❤️‍🔥 -.- ͛ (neon_ix)
 
 **投稿の種類:** リンクの提供
@@ -6101,7 +6123,7 @@
 
 ---
 
-### 16. Post 16
+### 17. Post 17
 **Author:** ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子 (zentadayo)
 
 **投稿の種類:** リンクの提供
@@ -6121,7 +6143,7 @@
 
 ---
 
-### 17. WebToppings
+### 18. WebToppings
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <ol><li><p>Serverはどっちでもいい (USがおすすめ)</p></li><li><p>Choose your baseにリンクを入れる</p></li><li><p>3番目のやつは無視する</p></li></ol>
@@ -6141,7 +6163,7 @@
 
 ---
 
-### 18. Google翻訳
+### 19. Google翻訳
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>ここにアクセスしたいリンクをコピペすると閲覧できます。</p>
@@ -6168,7 +6190,7 @@
 
 ---
 
-### 19. ArtClass
+### 20. ArtClass
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 **投稿の種類:** リンクの提供
@@ -6217,11 +6239,11 @@
 ### 2. ランマー
 **Author:** nana_0227 (peconosippo777)
 
-<p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.calldoc.co.kr/">https://rammer.nana.calldoc.co.kr/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.majoitus.ee/">https://rammer.nana.majoitus.ee/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.on1a.com/">https://rammer.nana.on1a.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.sitjak.ca/">https://rammer.nana.sitjak.ca/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.st1200arg.club/">https://rammer.nana.st1200arg.club/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.morso-si.dk/">https://rammer.nana.morso-si.dk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.mikechan.ca/">https://rammer.nana.mikechan.ca/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.gcpservicios.cl/">https://rammer.nana.gcpservicios.cl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.2hintranet.hu/">https://rammer.nana.2hintranet.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.2hinformatika.hu/">https://rammer.nana.2hinformatika.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.deepscan.pw/">https://rammer.nana.deepscan.pw/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.poweron.com.mx/">https://rammer.nana.poweron.com.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.ustrada.co.id/">https://rammer.nana.ustrada.co.id/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.cloudx.hk/">https://rammer.nana.cloudx.hk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.pulsaudio.ro/">https://rammer.nana.pulsaudio.ro/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.naturista.pt/">https://rammer.nana.naturista.pt/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.servernux.com/">https://rammer.nana.servernux.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.hotelconsuladoinn.com/">https://rammer.nana.hotelconsuladoinn.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.canadianlocomotivelogistics.ca/">https://rammer.nana.canadianlocomotivelogistics.ca/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.swift.cl/">https://rammer.nana.swift.cl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.alyaf.com/">https://rammer.nana.alyaf.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.rinet.ai/">https://rammer.nana.rinet.ai/</a></p><p><a rel="noopener noreferrer nofollow" href="https://nana.rammer.psgl.cl/">https://nana.rammer.psgl.cl/</a></p>
+<p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.9dejulio.gob.ar/">https://rammer.nana.9dejulio.gob.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.willowwoodgames.co.nz/">https://rammer.nana.willowwoodgames.co.nz/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.xn--mgbc.my/">https://rammer.nana.xn--mgbc.my/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.sms-pc.hk/">https://rammer.nana.sms-pc.hk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.lucilasol.com/">https://rammer.nana.lucilasol.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.rv-e.eu/">https://rammer.nana.rv-e.eu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.vpspure.cf/">https://rammer.nana.vpspure.cf/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.prostitutki-himki.co/">https://rammer.nana.prostitutki-himki.co/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.schwerd.biz/">https://rammer.nana.schwerd.biz/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.doxmit.com/">https://rammer.nana.doxmit.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.nurah.com.my/">https://rammer.nana.nurah.com.my/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.alliancetravel.tur.ar/">https://rammer.nana.alliancetravel.tur.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.lhoon.net/">https://rammer.nana.lhoon.net/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.calldoc.co.kr/">https://rammer.nana.calldoc.co.kr/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.majoitus.ee/">https://rammer.nana.majoitus.ee/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.on1a.com/">https://rammer.nana.on1a.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.sitjak.ca/">https://rammer.nana.sitjak.ca/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.st1200arg.club/">https://rammer.nana.st1200arg.club/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.morso-si.dk/">https://rammer.nana.morso-si.dk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.mikechan.ca/">https://rammer.nana.mikechan.ca/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.gcpservicios.cl/">https://rammer.nana.gcpservicios.cl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.2hintranet.hu/">https://rammer.nana.2hintranet.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.2hinformatika.hu/">https://rammer.nana.2hinformatika.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.deepscan.pw/">https://rammer.nana.deepscan.pw/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.poweron.com.mx/">https://rammer.nana.poweron.com.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.ustrada.co.id/">https://rammer.nana.ustrada.co.id/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.cloudx.hk/">https://rammer.nana.cloudx.hk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.pulsaudio.ro/">https://rammer.nana.pulsaudio.ro/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.naturista.pt/">https://rammer.nana.naturista.pt/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.servernux.com/">https://rammer.nana.servernux.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.hotelconsuladoinn.com/">https://rammer.nana.hotelconsuladoinn.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.canadianlocomotivelogistics.ca/">https://rammer.nana.canadianlocomotivelogistics.ca/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.swift.cl/">https://rammer.nana.swift.cl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.alyaf.com/">https://rammer.nana.alyaf.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammer.nana.rinet.ai/">https://rammer.nana.rinet.ai/</a></p><p><a rel="noopener noreferrer nofollow" href="https://nana.rammer.psgl.cl/">https://nana.rammer.psgl.cl/</a></p>
 
 **投稿の種類:** リンクの提供
 
-**最終更新日:** February 10, 2026
+**最終更新日:** March 17, 2026
 
 #### Comments (9)
 - **仙人@suger** (Feb 10, 2026 04:13am): どうやって作ってるんですか😁
@@ -6241,7 +6263,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Feb 10, 2026 03:24am
-- **Updated At (UTC):** Feb 10, 2026 03:24am
+- **Updated At (UTC):** Mar 17, 2026 01:34am
 
 ---
 
@@ -6670,11 +6692,11 @@
 ### 1. Lunar V2
 **Author:** nana_0227 (peconosippo777)
 
-<p><a rel="noopener noreferrer nofollow" href="https://lunar.v2-nana.hospitaldelninodif.gob.mx/">https://lunar.v2-nana.hospitaldelninodif.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.wave1o5.co.uk/">https://lunar.v2.nana.wave1o5.co.uk/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.whatastupididea.com/">https://lunar.v2.nana.whatastupididea.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.aerodolsolutions.ro/">https://lunar.v2.nana.aerodolsolutions.ro/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.hospitaldelninodif.gob.mx/">https://lunar.v2.nana.hospitaldelninodif.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://digitalartscloud.com.gocoffee2.com/">https://digitalartscloud.com.gocoffee2.com/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.chacrasdeabbott.ar/">https://lunar.v2.nana.chacrasdeabbott.ar/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.teamgaming.pw/">https://lunar.v2.nana.teamgaming.pw/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.pulsaudio.ro/">https://lunar.v2.nana.pulsaudio.ro/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.morso-si.dk/">https://lunar.v2.nana.morso-si.dk/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.2hintranet.hu/">https://lunar.v2.nana.2hintranet.hu/</a> <a rel="noopener noreferrer nofollow" href="http://lunar.v2.nana.govt.hu/">http://lunar.v2.nana.govt.hu/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2-nana.mza.com.ar/">https://lunar.v2-nana.mza.com.ar/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.mza.com.ar/">https://lunar.v2.nana.mza.com.ar/</a></p>
+<p><a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.hollands.id.au/">https://lunar.v2.nana.hollands.id.au/</a></p><p><a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.ztechnologies.mx/">https://lunar.v2.nana.ztechnologies.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.bf9.id.lv/">https://lunar.v2.nana.bf9.id.lv/</a></p><p><a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.suaf.com.ve/">https://lunar.v2.nana.suaf.com.ve/</a></p><p><a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.morixe2.com.ar/">https://lunar.v2.nana.morixe2.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.app-solutions.pl/">https://lunar.v2.nana.app-solutions.pl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://lunar.v2-nana.hospitaldelninodif.gob.mx/">https://lunar.v2-nana.hospitaldelninodif.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.wave1o5.co.uk/">https://lunar.v2.nana.wave1o5.co.uk/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.whatastupididea.com/">https://lunar.v2.nana.whatastupididea.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.aerodolsolutions.ro/">https://lunar.v2.nana.aerodolsolutions.ro/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.hospitaldelninodif.gob.mx/">https://lunar.v2.nana.hospitaldelninodif.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://digitalartscloud.com.gocoffee2.com/">https://digitalartscloud.com.gocoffee2.com/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.chacrasdeabbott.ar/">https://lunar.v2.nana.chacrasdeabbott.ar/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.teamgaming.pw/">https://lunar.v2.nana.teamgaming.pw/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.pulsaudio.ro/">https://lunar.v2.nana.pulsaudio.ro/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.morso-si.dk/">https://lunar.v2.nana.morso-si.dk/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.2hintranet.hu/">https://lunar.v2.nana.2hintranet.hu/</a> <a rel="noopener noreferrer nofollow" href="http://lunar.v2.nana.govt.hu/">http://lunar.v2.nana.govt.hu/</a> </p><p><a rel="noopener noreferrer nofollow" href="https://lunar.v2-nana.mza.com.ar/">https://lunar.v2-nana.mza.com.ar/</a> <a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.mza.com.ar/">https://lunar.v2.nana.mza.com.ar/</a></p>
 
 **投稿の種類:** リンクの提供
 
-**最終更新日:** February 27, 2026
+**最終更新日:** March 17, 2026
 
 [Attachment 1](https://lunar.v2-nana.hospitaldelninodif.gob.mx/)
 
@@ -6691,7 +6713,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Feb 27, 2026 08:09am
-- **Updated At (UTC):** Feb 27, 2026 08:09am
+- **Updated At (UTC):** Mar 17, 2026 02:06am
 
 ---
 
@@ -6880,14 +6902,16 @@
 
 ---
 
-### 2. Shadowサーバー復活しました
+### 2. Shadow
 **Author:** nana_0227 (peconosippo777)
 
-<p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.robot-agachado.com/">https://shadow.nana.robot-agachado.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.morso-si.dk/">https://shadow.nana.morso-si.dk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.rivier.com.ar/">https://shadow.nana.rivier.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.esdata.info/">https://shadow.nana.esdata.info/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.2hintranet.hu/">https://shadow.nana.2hintranet.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.impresora.com.ve/">https://shadow.nana.impresora.com.ve/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow-nana.govt.hu/">https://shadow-nana.govt.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.koopooye.com/">https://shadow.nana.koopooye.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.vitalyti.nl/">https://shadow.nana.vitalyti.nl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.wolfscave.cc/">https://shadow.nana.wolfscave.cc/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.mrauto.ir/">https://shadow.nana.mrauto.ir/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.avantaro.ro/">https://shadow.nana.avantaro.ro/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.jobvn.com/">https://shadow.nana.jobvn.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.wifirange.org/">https://shadow.nana.wifirange.org/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.man-ra.com.ar/">https://shadow.nana.man-ra.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.tomaszu.com/">https://shadow.nana.tomaszu.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.swift.cl/">https://shadow.nana.swift.cl/</a></p><p><a rel="noopener noreferrer nofollow" href="http://shadow.nana.rinet.ai/">http://shadow.nana.rinet.ai/</a></p>
+<p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.hospitaldelninodif.gob.mx/">https://shadow.nana.hospitaldelninodif.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.informedotrabalhador.org/">https://shadow.nana.informedotrabalhador.org/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.0fg.co/">https://shadow.nana.0fg.co/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.eenia.com.ar/">https://shadow.nana.eenia.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.utvardera.se/">https://shadow.nana.utvardera.se/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.blgroupsa.co.za/">https://shadow.nana.blgroupsa.co.za/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.amirah.nom.za/">https://shadow.nana.amirah.nom.za/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.huayi.com.my/">https://shadow.nana.huayi.com.my/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.my-smart-home.eu/">https://shadow.nana.my-smart-home.eu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.ssi.org.mx/">https://shadow.nana.ssi.org.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.hndifhidalgo.gob.mx/">https://shadow.nana.hndifhidalgo.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.amurt.co.uk/">https://shadow.nana.amurt.co.uk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.diargo.ar/">https://shadow.nana.diargo.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.halftech.com/">https://shadow.nana.halftech.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.parm-avia.su/">https://shadow.nana.parm-avia.su/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.trujillo.pro/">https://shadow.nana.trujillo.pro/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.wabi.moe/">https://shadow.nana.wabi.moe/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.robot-agachado.com/">https://shadow.nana.robot-agachado.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.morso-si.dk/">https://shadow.nana.morso-si.dk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.rivier.com.ar/">https://shadow.nana.rivier.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.esdata.info/">https://shadow.nana.esdata.info/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.2hintranet.hu/">https://shadow.nana.2hintranet.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.impresora.com.ve/">https://shadow.nana.impresora.com.ve/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow-nana.govt.hu/">https://shadow-nana.govt.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.koopooye.com/">https://shadow.nana.koopooye.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.vitalyti.nl/">https://shadow.nana.vitalyti.nl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.wolfscave.cc/">https://shadow.nana.wolfscave.cc/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.mrauto.ir/">https://shadow.nana.mrauto.ir/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.avantaro.ro/">https://shadow.nana.avantaro.ro/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.jobvn.com/">https://shadow.nana.jobvn.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.wifirange.org/">https://shadow.nana.wifirange.org/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.man-ra.com.ar/">https://shadow.nana.man-ra.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.tomaszu.com/">https://shadow.nana.tomaszu.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.swift.cl/">https://shadow.nana.swift.cl/</a></p><p><a rel="noopener noreferrer nofollow" href="http://shadow.nana.rinet.ai/">http://shadow.nana.rinet.ai/</a></p>
 
 **投稿の種類:** リンクの提供
 
-**最終更新日:** February 10, 2026
+**最終更新日:** March 17, 2026
+
+[https://shadow.nana.hndifhidalgo.gob.mx/](https://shadow.nana.hndifhidalgo.gob.mx/)
 
 #### Comments (16)
 - **Clever Butterfly** (Feb 10, 2026 11:27pm): ２個使えた
@@ -6914,7 +6938,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Feb 10, 2026 03:55am
-- **Updated At (UTC):** Mar 02, 2026 12:35pm
+- **Updated At (UTC):** Mar 17, 2026 01:42am
 
 ---
 
@@ -7170,11 +7194,13 @@
 ### 2. インターステラー
 **Author:** nana_0227 (peconosippo777)
 
-<p><a rel="noopener noreferrer nofollow" href="https://interstellar-nana.hospitaldelninodif.gob.mx/">https://interstellar-nana.hospitaldelninodif.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.suryamanipaudel.com.np/">https://interstellar.nana.suryamanipaudel.com.np/</a> <a rel="noopener noreferrer nofollow" href="https://interstellar.nana.cantosparamissa.com.br/">https://interstellar.nana.cantosparamissa.com.br/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.reliability.su/">https://interstellar.nana.reliability.su/</a> <a rel="noopener noreferrer nofollow" href="https://interstellar.nana.plik-perm.ru/">https://interstellar.nana.plik-perm.ru/</a> <a rel="noopener noreferrer nofollow" href="https://interstellar.nana.frogiesarcade.com/">https://interstellar.nana.frogiesarcade.com/</a> <a rel="noopener noreferrer nofollow" href="https://interstellar.nana.eleomedio-coach.hu/">https://interstellar.nana.eleomedio-coach.hu/</a> <a rel="noopener noreferrer nofollow" href="https://interstellar.nana.strattravel.com.mx/">https://interstellar.nana.strattravel.com.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.on1a.com/">https://interstellar.nana.on1a.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.sitjak.ca/">https://interstellar.nana.sitjak.ca/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.2hinformatika.hu/">https://interstellar.nana.2hinformatika.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.2hintranet.hu/">https://interstellar.nana.2hintranet.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.morso-si.dk/">https://interstellar.nana.morso-si.dk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.rivier.com.ar">https://interstellar.nana.rivier.com.ar</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.mokoka.nom.za/">https://interstellar.nana.mokoka.nom.za/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.asesoriasnvr.cl/">https://interstellar.nana.asesoriasnvr.cl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.avantaro.ro/">https://interstellar.nana.avantaro.ro/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.chiaowang.com/">https://interstellar.nana.chiaowang.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.tovamiasto.com/">https://interstellar.nana.tovamiasto.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.tomaszu.com">https://interstellar.nana.tomaszu.com</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.transline.al/">https://interstellar.nana.transline.al/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.xd.one.pl/">https://interstellar.nana.xd.one.pl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.mza.com.ar/">https://interstellar.nana.mza.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.swift.cl/">https://interstellar.nana.swift.cl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.alyaf.com/">https://interstellar.nana.alyaf.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.rinet.ai/">https://interstellar.nana.rinet.ai/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.psgl.cl/">https://interstellar.nana.psgl.cl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://nana.interstellar.alyaf.com">https://nana.interstellar.alyaf.com</a></p>
+<p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.suryamanipaudel.com.np/">https://interstellar.nana.suryamanipaudel.com.np/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.cantosparamissa.com.br/">https://interstellar.nana.cantosparamissa.com.br/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.hndifhidalgo.gob.mx/">https://interstellar.nana.hndifhidalgo.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.amurt.co.uk/">https://interstellar.nana.amurt.co.uk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.dlugosza25a.pl/">https://interstellar.nana.dlugosza25a.pl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.shodo.jp/">https://interstellar.nana.shodo.jp/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.hotdogaren.sk/">https://interstellar.nana.hotdogaren.sk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.hotelupgrade.com/">https://interstellar.nana.hotelupgrade.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.cmnc.org.au/">https://interstellar.nana.cmnc.org.au/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.bishalkarma.com.np/">https://interstellar.nana.bishalkarma.com.np/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar-nana.hndifhidalgo.gob.mx/">https://interstellar-nana.hndifhidalgo.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.przypomniani.pl/">https://interstellar.nana.przypomniani.pl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.tarjeta-fiel.ar/">https://interstellar.nana.tarjeta-fiel.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar-nana.hospitaldelninodif.gob.mx/">https://interstellar-nana.hospitaldelninodif.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.suryamanipaudel.com.np/">https://interstellar.nana.suryamanipaudel.com.np/</a> <a rel="noopener noreferrer nofollow" href="https://interstellar.nana.cantosparamissa.com.br/">https://interstellar.nana.cantosparamissa.com.br/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.reliability.su/">https://interstellar.nana.reliability.su/</a> <a rel="noopener noreferrer nofollow" href="https://interstellar.nana.plik-perm.ru/">https://interstellar.nana.plik-perm.ru/</a> <a rel="noopener noreferrer nofollow" href="https://interstellar.nana.frogiesarcade.com/">https://interstellar.nana.frogiesarcade.com/</a> <a rel="noopener noreferrer nofollow" href="https://interstellar.nana.eleomedio-coach.hu/">https://interstellar.nana.eleomedio-coach.hu/</a> <a rel="noopener noreferrer nofollow" href="https://interstellar.nana.strattravel.com.mx/">https://interstellar.nana.strattravel.com.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.on1a.com/">https://interstellar.nana.on1a.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.sitjak.ca/">https://interstellar.nana.sitjak.ca/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.2hinformatika.hu/">https://interstellar.nana.2hinformatika.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.2hintranet.hu/">https://interstellar.nana.2hintranet.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.morso-si.dk/">https://interstellar.nana.morso-si.dk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.rivier.com.ar">https://interstellar.nana.rivier.com.ar</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.mokoka.nom.za/">https://interstellar.nana.mokoka.nom.za/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.asesoriasnvr.cl/">https://interstellar.nana.asesoriasnvr.cl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.avantaro.ro/">https://interstellar.nana.avantaro.ro/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.chiaowang.com/">https://interstellar.nana.chiaowang.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.tovamiasto.com/">https://interstellar.nana.tovamiasto.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.tomaszu.com">https://interstellar.nana.tomaszu.com</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.transline.al/">https://interstellar.nana.transline.al/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.xd.one.pl/">https://interstellar.nana.xd.one.pl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.mza.com.ar/">https://interstellar.nana.mza.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.swift.cl/">https://interstellar.nana.swift.cl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.alyaf.com/">https://interstellar.nana.alyaf.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.rinet.ai/">https://interstellar.nana.rinet.ai/</a></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.psgl.cl/">https://interstellar.nana.psgl.cl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://nana.interstellar.alyaf.com">https://nana.interstellar.alyaf.com</a></p>
 
 **投稿の種類:** リンクの提供
 
-**最終更新日:** February 27, 2026
+**最終更新日:** March 17, 2026
+
+[https://interstellar-nana.hndifhidalgo.gob.mx/](https://interstellar-nana.hndifhidalgo.gob.mx/)
 
 #### Comments (1)
 - **Shy Trout** (Jan 11, 2026 08:28am): ブロック 
@@ -7182,7 +7208,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jan 11, 2026 02:19am
-- **Updated At (UTC):** Feb 27, 2026 08:06am
+- **Updated At (UTC):** Mar 17, 2026 01:44am
 
 ---
 
@@ -7284,7 +7310,25 @@
 
 ---
 
-### 2. なんかUtopia潰れてるから公式からパクる
+### 2. Utopia
+**Author:** nana_0227 (peconosippo777)
+
+<p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.elarc.uk/">https://utopia.nana.elarc.uk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia-nana.02.hospitaldelninodif.gob.mx/">https://utopia-nana.02.hospitaldelninodif.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.plusaxon.com.ar/">https://utopia.nana.plusaxon.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.tarjeta-fiel.ar/">https://utopia.nana.tarjeta-fiel.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia-nana.hndifhidalgo.gob.mx/">https://utopia-nana.hndifhidalgo.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.hotelupgrade.com/">https://utopia.nana.hotelupgrade.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.bishalkarma.com.np/">https://utopia.nana.bishalkarma.com.np/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.doxmit.com/">https://utopia.nana.doxmit.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.nurah.com.my/">https://utopia.nana.nurah.com.my/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.prontoviajes.tur.ar/">https://utopia.nana.prontoviajes.tur.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.sarojchaulagain808.com.np/">https://utopia.nana.sarojchaulagain808.com.np/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.bofh.co.za/">https://utopia.nana.bofh.co.za/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.hndifhidalgo.gob.mx/">https://utopia.nana.hndifhidalgo.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.word-walk.com/">https://utopia.nana.word-walk.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.mdef.co.kr/">https://utopia.nana.mdef.co.kr/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.goodguysav.com/">https://utopia.nana.goodguysav.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.turrentineguitars.com/">https://utopia.nana.turrentineguitars.com/</a></p>
+
+**投稿の種類:** リンクの提供
+
+**最終更新日:** March 17, 2026
+
+[https://utopia-nana.02.hospitaldelninodif.gob.mx/](https://utopia-nana.02.hospitaldelninodif.gob.mx/)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 17, 2026 01:49am
+- **Updated At (UTC):** Mar 17, 2026 01:49am
+
+---
+
+### 3. なんかUtopia潰れてるから公式からパクる
 **Author:** からあげ (karaagechikin029)
 
 <ul><li><p><a rel="noopener noreferrer nofollow" href="https://mr.sullivan.is.the.goat.at.teaching-ngl.esdata.info/">https://mr.sullivan.is.the.goat.at.teaching-</a><a rel="noopener noreferrer nofollow" href="https://ader556.hotelconsuladoinn.com/">ngl.esdata.info/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://ader556.hotelconsuladoinn.com/">https://ader556.hotelconsuladoinn.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://absoulutecinema.veles-crimea.ru/">https://absoulutecinema.veles-crimea.ru/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://12345.ap-arquitectos.com/">https://12345.ap-arquitectos.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://blookrt.hotelconsuladoinn.com/">https://blookrt.hotelconsuladoinn.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://my123.localghost.org/">https://my123.localghost.org/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gmail.google.com.stirni.li/">https://gmail.google.com.stirni.li/</a></p></li></ul><p><br/></p><p>とりあえず2月18日ぐらいに作られた生きてるやつ投稿</p>
@@ -7313,7 +7357,7 @@
 
 ---
 
-### 3. Utopia欲しい人どれくらいいる？
+### 4. Utopia欲しい人どれくらいいる？
 **Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 **投稿の種類:** リンクの提供
@@ -7359,32 +7403,6 @@
 
 ---
 
-### 4. Utopia
-**Author:** nana_0227 (peconosippo777)
-
-<p><a rel="noopener noreferrer nofollow" href="https://utopia-nana.hospitaldelninodif.gob.mx">https://utopia-nana.hospitaldelninodif.gob.mx</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.escribaniakirzner.com.ar/">https://utopia.nana.escribaniakirzner.com.ar/</a> <a rel="noopener noreferrer nofollow" href="https://utopia.nana.hendricksonlawmt.com/">https://utopia.nana.hendricksonlawmt.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.hospitaldelninodif.gob.mx/">https://utopia.nana.hospitaldelninodif.gob.mx/</a> <a rel="noopener noreferrer nofollow" href="https://utopia.nana.goodguysav.com/">https://utopia.nana.goodguysav.com/</a> <a rel="noopener noreferrer nofollow" href="https://utopia.nana.turrentineguitars.com/">https://utopia.nana.turrentineguitars.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.hrcloud.hk/">https://utopia.nana.hrcloud.hk/</a> </p><p><a rel="noopener noreferrer nofollow" href="https://teachenglish.com-it.ro/">https://teachenglish.com-it.ro/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.gocoffee2.com/">https://utopia.nana.gocoffee2.com/</a> <a rel="noopener noreferrer nofollow" href="https://utopia.nana.eeveefriends.jp/">https://utopia.nana.eeveefriends.jp/</a> <a rel="noopener noreferrer nofollow" href="https://utopia.nana.maximamedia.md/">https://utopia.nana.maximamedia.md/</a> <a rel="noopener noreferrer nofollow" href="https://truechem.toldosargentina.com.ar/">https://truechem.toldosargentina.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.calldoc.co.kr/">https://utopia.nana.calldoc.co.kr/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.majoitus.ee/">https://utopia.nana.majoitus.ee/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.realisation.org/">https://utopia.nana.realisation.org/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.morso-si.dk/">https://utopia.nana.morso-si.dk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.impresora.com.ve/">https://utopia.nana.impresora.com.ve/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.mr-moo.co.uk/">https://utopia.nana.mr-moo.co.uk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.gjgtpmgw.polishmc.pl/">https://utopia.nana.gjgtpmgw.polishmc.pl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.poweron.com.mx/">https://utopia.nana.poweron.com.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.mza.com.ar/">https://utopia.nana.mza.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.alyaf.com/">https://utopia.nana.alyaf.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.drciocan.ro/">https://utopia.nana.drciocan.ro/</a></p><p><a rel="noopener noreferrer nofollow" href="https://nana.utopia.rinet.ai/">https://nana.utopia.rinet.ai/</a></p><p><a rel="noopener noreferrer nofollow" href="https://nana.utopia.drciocan.ro/">https://nana.utopia.drciocan.ro/</a></p>
-
-**投稿の種類:** リンクの提供
-
-**最終更新日:** February 27, 2026
-
-#### Comments (8)
-- **Shy Trout** (Jan 11, 2026 08:28am): ブロック
-- **disuny** (Jan 21, 2026 07:49am): 一番上のサイトでユーチューブ見ようとしたら、毎回必ず53秒のところでブロックされるのですが、、、誰かわかる方いますか？
-- **ᏁγᎶ » Tøka_Kuŋ_** (Jan 21, 2026 08:39am): Utopia経由でここに入りな https://html.cafe/x770792f9
-- **ᏁγᎶ » Tøka_Kuŋ_** (Jan 21, 2026 08:40am): 埋め込みならうまくいく
-- **disuny** (Jan 22, 2026 05:40am): ありがとうございます！
-- **YURI** (Jan 29, 2026 07:16am): https://airmore.ai/ja/video-download
-- **YURI** (Jan 29, 2026 07:51am): これ役に立たないよ。
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 15, 2026 05:10am): 最近からyoutube動画一分以上見れるようになったしらんけど
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jan 11, 2026 02:29am
-- **Updated At (UTC):** Feb 27, 2026 07:58am
-
----
-
 ### 5. Post 5
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
@@ -7416,7 +7434,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4441744587/6341af461ba76111220613b0f6d3e5db/______________.txt?Expires=1774308815&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3fqw11joGkcvIAIA3MtPiqGdBUWYlkBuDvTgoFsL2DY9ZqfoWUxpejeIJfQz0%2BtdBQMtAc1kizcdOdft4BG9DH2G3ZEhaWcI0skP%2BhauhaO6o7SXl9l9m9I9sD2VXSrSLtu4fd0ljMLtubeDB0Rm24QBq%2Beaf0Kip1ORGTl7kHI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4441744587%2F6341af461ba76111220613b0f6d3e5db%2F______________.txt)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4441744587/6341af461ba76111220613b0f6d3e5db/______________.txt?Expires=1774318317&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=p9vD6oACpo3Kotwjfhzty7uumL%2BumbquIoVedlJr6lJkG6BPlN7D0lK0rwMoiyGEkawiRJL1eitbcUSR7YY1%2BitZL1pd90HqopiA1ho24biiMbOu%2B5a2LXZQorESZEK3HsDeeBzFkyc0hk7HYUzSNWt8hXx3ncSg0h83lvAY3Es%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4441744587%2F6341af461ba76111220613b0f6d3e5db%2F______________.txt)
 
 #### Comments (1)
 - **Massa_games216** (Oct 19, 2025 11:49am): 全ブロの悲しみ
@@ -7457,11 +7475,13 @@
 ### 2. Day DreamX V2
 **Author:** nana_0227 (peconosippo777)
 
-<p><a rel="noopener noreferrer nofollow" href="https://ddx.v2-nana.hospitaldelninodif.gob.mx/">https://ddx.v2-nana.hospitaldelninodif.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.algoconcreto.com.mx/">http://ddx.v2.nana.algoconcreto.com.mx/</a> <a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.mik.id.lv/">http://ddx.v2.nana.mik.id.lv/</a> <a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.dinocol.co.uk/">http://ddx.v2.nana.dinocol.co.uk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.escribaniakirzner.com.ar/">https://utopia.nana.escribaniakirzner.com.ar/</a> <a rel="noopener noreferrer nofollow" href="https://utopia.nana.hendricksonlawmt.com/">https://utopia.nana.hendricksonlawmt.com/</a></p><p><a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.algoconcreto.com.mx/">http://ddx.v2.nana.algoconcreto.com.mx/</a> <a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.mik.id.lv/">http://ddx.v2.nana.mik.id.lv/</a> <a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.dinocol.co.uk/">http://ddx.v2.nana.dinocol.co.uk/</a></p><p><a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.aerodolsolutions.ro/">http://ddx.v2.nana.aerodolsolutions.ro/</a> <a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.hospitaldelninodif.gob.mx/">http://ddx.v2.nana.hospitaldelninodif.gob.mx/</a> <a rel="noopener noreferrer nofollow" href="http://teachmath.com.hospitaldelninodif.gob.mx/">http://teachmath.com.hospitaldelninodif.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.teamgaming.pw/">http://ddx.v2.nana.teamgaming.pw/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.pasmaksot.lt/">https://ddx.v2.nana.pasmaksot.lt/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.on1a.com/">https://ddx.v2.nana.on1a.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.digitalminds.com.ar/">https://ddx.v2.nana.digitalminds.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.2hintranet.hu/">https://ddx.v2.nana.2hintranet.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.morso-si.dk/">https://ddx.v2.nana.morso-si.dk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.rivier.com.ar/">https://ddx.v2.nana.rivier.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.digitalartscloud.com.polishmc.pl/">https://ddx.v2.nana.digitalartscloud.com.polishmc.pl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://nana.ddx.v2.govt.hu/">https://nana.ddx.v2.govt.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.mza.com.ar/">https://ddx.v2.nana.mza.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.rinet.ai/">https://ddx.v2.nana.rinet.ai/</a></p>
+<p><a rel="noopener noreferrer nofollow" href="https://ddx.v2-nana.hospitaldelninodif.gob.mx/">https://ddx.v2-nana.hospitaldelninodif.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.hollands.id.au/">https://ddx.v2.nana.hollands.id.au/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.bf9.id.lv/">https://ddx.v2.nana.bf9.id.lv/</a></p><p><a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.calypso402.com/">http://ddx.v2.nana.calypso402.com/</a></p><p><a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.diargo.ar/">http://ddx.v2.nana.diargo.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.halftech.com/">http://ddx.v2.nana.halftech.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.trujillo.pro/">https://ddx.v2.nana.trujillo.pro/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.parm-avia.su/">https://ddx.v2.nana.parm-avia.su/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2-nana.hospitaldelninodif.gob.mx/">https://ddx.v2-nana.hospitaldelninodif.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.algoconcreto.com.mx/">http://ddx.v2.nana.algoconcreto.com.mx/</a> <a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.mik.id.lv/">http://ddx.v2.nana.mik.id.lv/</a> </p><p><a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.dinocol.co.uk/">http://ddx.v2.nana.dinocol.co.uk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.nana.escribaniakirzner.com.ar/">https://utopia.nana.escribaniakirzner.com.ar/</a> <a rel="noopener noreferrer nofollow" href="https://utopia.nana.hendricksonlawmt.com/">https://utopia.nana.hendricksonlawmt.com/</a></p><p><a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.algoconcreto.com.mx/">http://ddx.v2.nana.algoconcreto.com.mx/</a> <a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.mik.id.lv/">http://ddx.v2.nana.mik.id.lv/</a> </p><p><a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.dinocol.co.uk/">http://ddx.v2.nana.dinocol.co.uk/</a></p><p><a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.aerodolsolutions.ro/">http://ddx.v2.nana.aerodolsolutions.ro/</a> <a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.hospitaldelninodif.gob.mx/">http://ddx.v2.nana.hospitaldelninodif.gob.mx/</a> <a rel="noopener noreferrer nofollow" href="http://teachmath.com.hospitaldelninodif.gob.mx/">http://teachmath.com.hospitaldelninodif.gob.mx/</a></p><p><a rel="noopener noreferrer nofollow" href="http://ddx.v2.nana.teamgaming.pw/">http://ddx.v2.nana.teamgaming.pw/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.pasmaksot.lt/">https://ddx.v2.nana.pasmaksot.lt/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.on1a.com/">https://ddx.v2.nana.on1a.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.digitalminds.com.ar/">https://ddx.v2.nana.digitalminds.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.2hintranet.hu/">https://ddx.v2.nana.2hintranet.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.morso-si.dk/">https://ddx.v2.nana.morso-si.dk/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.rivier.com.ar/">https://ddx.v2.nana.rivier.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.digitalartscloud.com.polishmc.pl/">https://ddx.v2.nana.digitalartscloud.com.polishmc.pl/</a></p><p><a rel="noopener noreferrer nofollow" href="https://nana.ddx.v2.govt.hu/">https://nana.ddx.v2.govt.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.mza.com.ar/">https://ddx.v2.nana.mza.com.ar/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.rinet.ai/">https://ddx.v2.nana.rinet.ai/</a></p>
 
 **投稿の種類:** リンクの提供
 
-**最終更新日:** February 27, 2026
+**最終更新日:** March 17, 2026
+
+[https://ddx.v2-nana.hospitaldelninodif.gob.mx/](https://ddx.v2-nana.hospitaldelninodif.gob.mx/)
 
 #### Comments (6)
 - **カービィ** (Feb 11, 2026 05:51am): 全ブロ
@@ -7474,7 +7494,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Feb 10, 2026 05:40am
-- **Updated At (UTC):** Feb 27, 2026 08:02am
+- **Updated At (UTC):** Mar 17, 2026 01:52am
 
 ---
 
@@ -7762,7 +7782,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4533230905/29793600191a616967f07c0819cebfc4/Screenshot_2025_10_10_07_42_52.png?Expires=1774308815&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CImAocZ4qo2Xza88WaFM5W1vQbt02UgIsDfYk3x8x%2FWZlHl%2FloBujaFcO8sURF9RnBi7FgNgQsd6upMHe1%2BSmrFP5L7c1lHnXdTqZK1bQYKO1mEFwmH7B4wfht8MMbYz91mJmHXbrpB0pKatFJu9QyXHLCvD2zojlf09Gjs2UJU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4533230905%2F29793600191a616967f07c0819cebfc4%2FScreenshot_2025_10_10_07_42_52.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4533230905/29793600191a616967f07c0819cebfc4/Screenshot_2025_10_10_07_42_52.png?Expires=1774318317&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=z4OTEQ0w0tiqUQREH%2Ba6Rv2UfiAhwdtMmHfVBLMApzNI3CXh4hnQDeBAIXIBOI4Ud9NEYxoJMOnmyuf16yrskg0whsemJCaHWbn1%2FFrK6VWb1OshLGclmYtDQK%2Fcztl7w6rw6eRepCAj5IJTKmABNCvCXPvC1%2BVd%2BExR7Cu1ZZ8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4533230905%2F29793600191a616967f07c0819cebfc4%2FScreenshot_2025_10_10_07_42_52.png)
 
 #### Comments (20)
 - **るい** (Oct 10, 2025 07:56am): わかんねーな
@@ -7798,7 +7818,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4531780414/2043955bb04d17c44d73180ccc50d493/Screenshot_2025_10_10_07_42_52.png?Expires=1774308815&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BGczUpxSctdfErkZpEdSG2FfpYSbX8kKA02r5Heyu1bzccV2a%2B3byNsZ8VKgtPi4uCbxSZeOHMrCkqfUnr5NHmI6gSLT3OtQwW1LtmPcSiU3nuShcYSQqIXOTmM%2Brt1PS6nVBSJh5Pj8kVv8jCr58nMQNgwBjPGxloQgVgAHeg0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4531780414%2F2043955bb04d17c44d73180ccc50d493%2FScreenshot_2025_10_10_07_42_52.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4531780414/2043955bb04d17c44d73180ccc50d493/Screenshot_2025_10_10_07_42_52.png?Expires=1774318317&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hZnZnORn0o9Ut8eCjG5XCGSi4fuOFwLpQl%2BpLS0B2aAmGyBxGVTsBeXTFYtUCUAC8t0nPJ5lRvMjliKueZ41Hlx9bcmtRIvLxY34NRjKw%2FEZZ9XMbw9wq14jYB4UTAP2EQga2Q1vDhinPT9C13lChZNJlJdj3pnFJzYJj%2B9Cgro%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4531780414%2F2043955bb04d17c44d73180ccc50d493%2FScreenshot_2025_10_10_07_42_52.png)
 
 #### Comments (2)
 - **あああ** (Oct 15, 2025 11:51am): ただの学習サイトです
@@ -8588,11 +8608,11 @@
 ### 4. わかめtubeのリンク集③
 **Author:** nana_0227 (peconosippo777)
 
-<p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/nana_0227/"><strong>nana_0227</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1196354688/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-01.onrender.com/">https://nana-wkt-01.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-02.onrender.com/">https://nana-wkt-02.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-03.onrender.com/">https://nana-wkt-03.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-04.onrender.com/">https://nana-wkt-04.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-05.onrender.com/">https://nana-wkt-05.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-06.onrender.com/">https://nana-wkt-06.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-07.onrender.com/">https://nana-wkt-07.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-08.onrender.com/">https://nana-wkt-08.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-09.onrender.com/">https://nana-wkt-09.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-10.onrender.com/">https://nana-wkt-10.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-11.onrender.com/">https://nana-wkt-11.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-12.onrender.com/">https://nana-wkt-12.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-13.onrender.com/">https://nana-wkt-13.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-01-8xyy.onrender.com/">https://nana-wkt-01-8xyy.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-01.onrender.com/">https://wkt-nana-01.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-02.onrender.com/">https://wkt-nana-02.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-03.onrender.com/">https://wkt-nana-03.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-04.onrender.com/">https://wkt-nana-04.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-05.onrender.com/">https://wkt-nana-05.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gsh8gj-3000.csb.app/">https://gsh8gj-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://6rnt5m-3000.csb.app/">https://6rnt5m-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://phtsvc-3000.csb.app/">https://phtsvc-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://xc9zl8-3000.csb.app/">https://xc9zl8-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://2yhnf8-3000.csb.app/">https://2yhnf8-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-06.onrender.com/">https://wkt-nana-06.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-07.onrender.com/">https://wkt-nana-07.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-08.onrender.com/">https://wkt-nana-08.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wktnana.vercel.app/">https://wktnana.vercel.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-05.up.railway.app/">https://nana-wkt-05.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://vv4w82-3000.csb.app/">https://vv4w82-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://snngy4-3000.csb.app/">https://snngy4-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://2yhnf8-3000.csb.app/">https://2yhnf8-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://phtsvc-3000.csb.app/">https://phtsvc-3000.csb.app/</a> </p></li><li><p><a rel="noopener noreferrer nofollow" href="https://xc9zl8-3000.csb.app/">https://xc9zl8-3000.csb.app/</a> </p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gsh8gj-3000.csb.app/">https://gsh8gj-3000.csb.app/</a> </p></li><li><p><a rel="noopener noreferrer nofollow" href="https://6rnt5m-3000.csb.app/">https://6rnt5m-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana.up.railway.app/">https://wkt-nana.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-01.up.railway.app/">https://wkt-nana-01.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-02.up.railway.app/">https://wkt-nana-02.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://42swl9-3000.csb.app/">https://42swl9-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://d59k3s-3000.csb.app/">https://d59k3s-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-011.onrender.com/">https://wkt-nana-011.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-012.onrender.com/">https://wkt-nana-012.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-013.onrender.com/">https://wkt-nana-013.onrender.com/</a></p></li></ul>
+<p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/nana_0227/"><strong>nana_0227</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1196354688/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://gsh8gj-3000.csb.app/">https://gsh8gj-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://6rnt5m-3000.csb.app/">https://6rnt5m-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://phtsvc-3000.csb.app/">https://phtsvc-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://xc9zl8-3000.csb.app/">https://xc9zl8-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://2yhnf8-3000.csb.app/">https://2yhnf8-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wktnana.vercel.app/">https://wktnana.vercel.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nana-wkt-05.up.railway.app/">https://nana-wkt-05.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://vv4w82-3000.csb.app/">https://vv4w82-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://snngy4-3000.csb.app/">https://snngy4-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://2yhnf8-3000.csb.app/">https://2yhnf8-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://phtsvc-3000.csb.app/">https://phtsvc-3000.csb.app/</a> </p></li><li><p><a rel="noopener noreferrer nofollow" href="https://xc9zl8-3000.csb.app/">https://xc9zl8-3000.csb.app/</a> </p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gsh8gj-3000.csb.app/">https://gsh8gj-3000.csb.app/</a> </p></li><li><p><a rel="noopener noreferrer nofollow" href="https://6rnt5m-3000.csb.app/">https://6rnt5m-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana.up.railway.app/">https://wkt-nana.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-01.up.railway.app/">https://wkt-nana-01.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-02.up.railway.app/">https://wkt-nana-02.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://42swl9-3000.csb.app/">https://42swl9-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://d59k3s-3000.csb.app/">https://d59k3s-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://xlwxq3-3000.csb.app/">https://xlwxq3-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gdxftv-3000.csb.app/">https://gdxftv-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://8dzf9d-3000.csb.app/">https://8dzf9d-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-nana-013.onrender.com/">https://wkt-plus-nana-013.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-nana-014.onrender.com/">https://wkt-plus-nana-014.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-nana-015.onrender.com/">https://wkt-plus-nana-015.onrender.com/</a></p></li></ul>
 
 **投稿の種類:** リンクの提供
 
-**最終更新日:** March  7, 2026
+**最終更新日:** March 17, 2026
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -8601,7 +8621,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Feb 19, 2026 04:55am
-- **Updated At (UTC):** Mar 07, 2026 08:17am
+- **Updated At (UTC):** Mar 17, 2026 01:58am
 
 ---
 
@@ -10341,7 +10361,7 @@ Copyright (c) 2026 Wista Project
 
 **最終更新日:** February 23, 2026
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/9fb094aa381a3ae081d0f19c5712d869/Screenshot_2025_10_24_19_33_30.png?Expires=1774308816&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gn1XCmqQJSlHt5IvdLU57PGLEXjX4rXzaBw%2FxQKx9gDKG18vfHhqbQJvP%2BOPJUj%2B9ydTTz37ztTQX3ZefmMMqRWxhd161y36GskmwYNYkhE0%2FJ8qAsruGPhD0zZ6oD5ajEhCIyb%2Bc5s4yLbRdPKdX1pt1ZqnWvBZx2DDE7ULkFk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F9fb094aa381a3ae081d0f19c5712d869%2FScreenshot_2025_10_24_19_33_30.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/9fb094aa381a3ae081d0f19c5712d869/Screenshot_2025_10_24_19_33_30.png?Expires=1774318319&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kxsLKJXAQ2AOr2B4S%2BbT2SxjZbPERMcZiIJFdPOE1MxZZHoHIG0OQqSjWrvVOOC9XTnukrSqsvXtdRNLQNE264r7cJ0uFhIG6PEgrhYF3JdsubRcjZkR8iF0v5OZgsZE7fxZIlxW6KiE6a8dCE4hlngeYSExqaOu8KemcU32lzk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F9fb094aa381a3ae081d0f19c5712d869%2FScreenshot_2025_10_24_19_33_30.png)
 
 #### Comments (1)
 - **woolisbest** (Feb 21, 2026 11:01am): あ、更新頻度なら1番確定です（最低でも3時間に1回）
@@ -10757,7 +10777,7 @@ No post
 
 **最終更新日:** September 25, 2025
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3744177643/e39b2ff97d6641d386e960280c185c6d/Screenshot_2025_09_25_16_27_35.png?Expires=1774308816&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pq8adptoY8ln9%2F75XzJeF31HSxVP24iDuf0e8wirRMjKYTVq%2FBWItlJbdP5b8uOPA0rsb%2FjkIvG2Rb0%2Bi9FCi9XJc%2BECdMfxyMzgbS%2FTvZaabPgB2CMicoSgfq15SrQvGzh68wX5UDGrDoEhuvkzS9xnVpypMKJewenRL0pUHU8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3744177643%2Fe39b2ff97d6641d386e960280c185c6d%2FScreenshot_2025_09_25_16_27_35.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3744177643/e39b2ff97d6641d386e960280c185c6d/Screenshot_2025_09_25_16_27_35.png?Expires=1774318319&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5DhSFz0dVHDaeLayJfb3ER%2BrUPVA8K%2BeopYSBEDSt1thoUG1jzo4qfai93SFIQECGX67E7Ahfb9tskKEKjG7BWwj%2FV0RO2UfdtnboL934B7gTyw8fgD0iSsqlONujVsRCv5LvujzmxgwNd7E%2B3O0%2BpC8iD9KMzYwNs7WhZ%2F0Beg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3744177643%2Fe39b2ff97d6641d386e960280c185c6d%2FScreenshot_2025_09_25_16_27_35.png)
 
 #### Comments (4)
 - **削除済みユーザー** (Sep 25, 2025 07:51am): croxyproxyも同状態です
