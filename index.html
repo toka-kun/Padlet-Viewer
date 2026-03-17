@@ -613,14 +613,18 @@
                 return '';
             });
 
-            // パターン3: [https://...](https://...) -> 表示テキストとURLが全く同じ生リンク
-            content = content.replace(/\[(https?:\/\/[^\]]+)\]\((https?:\/\/[^\)]+)\)/gi, (match, text, url) => {
-                if (text.trim() === url.trim()) {
+            // パターン3: [text](url) -> テキストがURLそのもの、または「https://」等が省略されたURLの場合
+            content = content.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/gi, (match, text, url) => {
+                // テキストとURLの両方から「https://」「http://」および末尾の「/」を削除して比較
+                let cleanText = text.trim().replace(/^https?:\/\//i, '').replace(/\/$/, '');
+                let cleanUrl = url.trim().replace(/^https?:\/\//i, '').replace(/\/$/, '');
+                
+                if (cleanText === cleanUrl) {
                     let isImg = /\.(jpeg|jpg|gif|png|webp|bmp|svg)(?:\?.*|#.*)?$/i.test(url);
                     attachments.push({ url: url, isImage: isImg, alt: text });
-                    return ''; // 本文からは削除
+                    return ''; // 本文からは削除し、添付ファイル(Faviconリンク)として扱う
                 }
-                return match; // 通常のインラインリンク（例: [Google](https://google.com)）は残す
+                return match; // 通常のリンク（例: [Google検索](https://google.com)）はそのまま残す
             });
 
             return {
