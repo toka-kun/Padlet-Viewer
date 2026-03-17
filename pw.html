@@ -144,14 +144,13 @@
             display: flex; align-items: center; gap: 4px; 
             color: #e6edf3; font-weight: 500; 
         }
-        /* リンクになっている場合のスタイル */
         .author-link {
             text-decoration: none;
             cursor: pointer;
             transition: color 0.2s;
         }
         .author-link:hover {
-            color: #58a6ff; /* Padletの青っぽい色 */
+            color: #58a6ff; 
             text-decoration: underline;
         }
 
@@ -162,7 +161,7 @@
             margin-bottom: 12px;
             display: flex; flex-direction: column; gap: 8px;
         }
-        .attachment-area img {
+        .attachment-area img.attached-image {
             max-width: 100%; height: auto;
             border-radius: 4px; border: 1px solid #30363d;
             display: block;
@@ -186,6 +185,39 @@
             background-color: #30363d;
             color: #79c0ff !important;
             border-color: #8b949e;
+        }
+
+        /* 添付ファイル（画像以外）用のFaviconリンクスタイル */
+        .favicon-link {
+            display: inline-flex; align-items: center; gap: 10px;
+            background-color: #161b22;
+            border: 1px solid #30363d;
+            padding: 8px 12px;
+            border-radius: 6px;
+            color: #c9d1d9;
+            text-decoration: none;
+            transition: all 0.2s;
+            max-width: 100%;
+            box-sizing: border-box;
+            overflow: hidden;
+        }
+        .favicon-link:hover {
+            background-color: #21262d;
+            border-color: #8b949e;
+        }
+        .favicon-link img {
+            width: 24px !important; 
+            height: 24px !important; 
+            border-radius: 4px;
+            margin: 0 !important;
+            border: none !important;
+            flex-shrink: 0;
+        }
+        .favicon-link span {
+            white-space: nowrap; 
+            overflow: hidden; 
+            text-overflow: ellipsis; 
+            font-size: 0.85rem;
         }
 
         /* 本文 */
@@ -222,7 +254,7 @@
             display: flex; align-items: center; justify-content: space-between;
             padding: 8px 0;
             border-top: 1px solid rgba(48, 54, 61, 0.5);
-            margin-top: auto; /* コンテンツの下に配置 */
+            margin-top: auto;
         }
         .stars {
             background: rgba(227, 179, 65, 0.1); color: #e3b341;
@@ -316,16 +348,14 @@
     </main>
 
     <script>
-        const markdownUrl = '/archive/nyg/ssjc.md';
+        const markdownUrl = '/archive/nyg/portalworld.md';
 
-        // 1. Marked (Markdownパーサー)の設定: リンクを検出したら target="_blank" を付与
         const renderer = new marked.Renderer();
         renderer.link = function(href, title, text) {
             return `<a href="${href}" target="_blank" rel="noopener noreferrer">${text}</a>`;
         };
         marked.setOptions({ renderer: renderer, breaks: true });
 
-        // 2. DOMPurify (HTMLサニタイザー)の設定: 強制的に target="_blank" を追加
         DOMPurify.addHook('afterSanitizeAttributes', function (node) {
             if ('target' in node) {
                 node.setAttribute('target', '_blank');
@@ -344,12 +374,10 @@
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 const fullText = await response.text();
                 
-                // --- 投稿数の抽出 ---
                 const headerChunk = fullText.substring(0, 4000); 
                 const postsMatch = headerChunk.match(/(?:- )?\*\*(?:Posts|投稿):\*\* (\d+)/i);
                 const postCount = postsMatch ? postsMatch[1] : '-';
 
-                // --- データの分割処理 ---
                 const splitIndex = fullText.indexOf('\n\n');
                 let updateTimeStr = '最終更新: 不明';
                 let markdownContent = fullText;
@@ -401,9 +429,7 @@
             columns.forEach((colText, index) => {
                 if (colText.trim().length === 0) return;
 
-                // --- 0:タイトルブロック、1:最初のカラム を両方スキップ ---
                 if (index <= 1) return;
-                // ----------------------------------------------------
 
                 const firstLineBreak = colText.indexOf('\n');
                 let colTitle = (firstLineBreak === -1) ? colText.trim() : colText.substring(0, firstLineBreak).trim();
@@ -514,12 +540,10 @@
                 return match ? match[1].trim() : null;
             };
 
-            // 作成者の取得
             let authorRaw = getMeta(/(?:- )?\*\*(?:Author|作成者|Builder):\*\* (.*)/i) || '不明';
             let authorName = authorRaw;
             let authorUrl = null;
 
-            // "Display Name (Username)" 形式の解析
             const authorMatch = authorRaw.match(/^(.*)\s\((.*)\)$/);
             if (authorMatch) {
                 authorName = authorMatch[1].trim(); 
@@ -573,10 +597,34 @@
             ];
             patternsToRemove.forEach(regex => content = content.replace(regex, ''));
             
-            let attachmentUrl = null;
-            content = content.replace(/!?\[(?:Attachment 1|添付ファイル)\]\((.*?)\)/gi, (match, url) => {
-                attachmentUrl = url;
+            // --- 添付ファイル・リンクの高度な抽出処理 ---
+            let attachments = [];
+
+            // パターン1: ![alt](url) -> 全てのMarkdown画像。拡張子が無くても!があれば画像扱い
+            content = content.replace(/!\[(.*?)\]\((.*?)\)/gi, (match, alt, url) => {
+                attachments.push({ url: url, isImage: true, alt: alt });
                 return ''; 
+            });
+
+            // パターン2: [Attachment 1](url) や [添付ファイル 2](url) -> 画像かどうかは拡張子で判定
+            content = content.replace(/\[((?:Attachment|添付ファイル)(?:\s*\d+)?)\]\((.*?)\)/gi, (match, alt, url) => {
+                let isImg = /\.(jpeg|jpg|gif|png|webp|bmp|svg)(?:\?.*|#.*)?$/i.test(url);
+                attachments.push({ url: url, isImage: isImg, alt: alt });
+                return '';
+            });
+
+            // パターン3: [text](url) -> テキストがURLそのもの、または「https://」等が省略されたURLの場合
+            content = content.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/gi, (match, text, url) => {
+                // テキストとURLの両方から「https://」「http://」および末尾の「/」を削除して比較
+                let cleanText = text.trim().replace(/^https?:\/\//i, '').replace(/\/$/, '');
+                let cleanUrl = url.trim().replace(/^https?:\/\//i, '').replace(/\/$/, '');
+                
+                if (cleanText === cleanUrl) {
+                    let isImg = /\.(jpeg|jpg|gif|png|webp|bmp|svg)(?:\?.*|#.*)?$/i.test(url);
+                    attachments.push({ url: url, isImage: isImg, alt: text });
+                    return ''; // 本文からは削除し、添付ファイル(Faviconリンク)として扱う
+                }
+                return match; // 通常のリンク（例: [Google検索](https://google.com)）はそのまま残す
             });
 
             return {
@@ -591,7 +639,7 @@
                 createdDate: displayCreatedDate, 
                 postType: postType,
                 customLastUpdate: displayUpdatedDate,
-                attachmentUrl: attachmentUrl,
+                attachments: attachments,
                 linkUrl: linkUrl
             };
         }
@@ -613,16 +661,37 @@
             const starsStr = data.rating > 0 ? '⭐'.repeat(Math.round(data.rating)) : '☆';
             const ratingText = data.ratingCount > 0 ? `(${data.ratingCount})` : '';
 
+            // --- 複数メディア・リンクのリッチ表示 ---
             let mediaHtml = '';
-            if (data.attachmentUrl || data.linkUrl) {
+            if ((data.attachments && data.attachments.length > 0) || data.linkUrl) {
                 mediaHtml += '<div class="attachment-area">';
-                if (data.attachmentUrl) {
-                    mediaHtml += `<img src="${escapeHtml(data.attachmentUrl)}" alt="Attachment">`;
-                    mediaHtml += `<a href="${escapeHtml(data.attachmentUrl)}" target="_blank" class="action-link">📎 添付ファイル</a>`;
+                
+                if (data.attachments) {
+                    data.attachments.forEach(att => {
+                        if (att.isImage) {
+                            // 画像の場合は直接表示 ＋ 「画像を開く」ボタン
+                            mediaHtml += `<img src="${escapeHtml(att.url)}" alt="Attachment" class="attached-image">`;
+                            mediaHtml += `<a href="${escapeHtml(att.url)}" target="_blank" class="action-link">📎 画像を開く</a>`;
+                        } else {
+                            // リンク（画像以外）の場合はFavicon付きのボタンにする
+                            const encodedUrl = encodeURIComponent(att.url);
+                            const faviconUrl = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${encodedUrl}&size=64`;
+                            
+                            mediaHtml += `
+                                <a href="${escapeHtml(att.url)}" target="_blank" class="favicon-link">
+                                    <img src="${faviconUrl}" alt="favicon">
+                                    <span>${escapeHtml(att.url)}</span>
+                                </a>
+                            `;
+                        }
+                    });
                 }
-                if (data.linkUrl && data.linkUrl !== data.attachmentUrl) {
+
+                // 「Link:」のメタデータが添付ファイル一覧と被っていない場合のみ追加表示
+                if (data.linkUrl && (!data.attachments || !data.attachments.find(a => a.url === data.linkUrl))) {
                      mediaHtml += `<a href="${escapeHtml(data.linkUrl)}" target="_blank" class="action-link">🔗 リンクを開く</a>`;
                 }
+                
                 mediaHtml += '</div>';
             }
 
