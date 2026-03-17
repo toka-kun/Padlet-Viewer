@@ -1,4 +1,4 @@
-最終更新: 2026/03/17 08:34:12
+最終更新: 2026/03/17 11:12:36
 
 # 規制突破の世界
 
@@ -7,7 +7,7 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 121
 - **Created At (UTC):** Aug 20, 2024 06:37am
-- **Updated At (UTC):** Mar 16, 2026 11:17pm
+- **Updated At (UTC):** Mar 17, 2026 01:05am
 
 ## ライター
 
@@ -233,9 +233,9 @@
 
 <p>俺は買ったよ</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/94018134aa72b906730df049d217f6d1/image.jpg?Expires=1774308850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=l3EztMqSbpLLeYhZVJJKojqxPuusHLS5gnywgo%2B114eepH6Jc7hz8o1CBhzPihF1VZ2sd09GjuLCvxBdsglCxW814oZWfl%2F3Fq7U%2Fx9yTZHoU9iGhrmAXbSlU327CqPo90OTCetE4SzogJDkaYlnAgAck4KWqU%2BXjJ6n8i9P0i4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F94018134aa72b906730df049d217f6d1%2Fimage.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/94018134aa72b906730df049d217f6d1/image.jpg?Expires=1774318354&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jdg%2Fne3U%2BAS8M0Ug1HCIGXSzjGOgxrKUSk9VjB6I4BGowPxRvTAGlb%2FfjGoGPGJtoKLwmxU%2BB5fYOvAFT%2B3z51JwEdlXmlxpglhNBudse2JNkcSJX7iDrwKHEcRmwGj8RXyrlxKyhySUOO0Qfikx7iGVDtSiBN9xNAeBSwYUgFw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F94018134aa72b906730df049d217f6d1%2Fimage.jpg)
 
-#### Comments (12)
+#### Comments (13)
 - **NARITATI　りおと族30代目　りおと弟子30番** (Oct 25, 2025 10:18am): いいな〜
 - **ｸﾎﾞ ｲｯﾀ** (Oct 25, 2025 11:33am): いいでしょ
 - **Adventurous Cockatoo** (Oct 26, 2025 03:52am): 🥲
@@ -248,6 +248,7 @@
 - **Blushing Aardvark** (Oct 31, 2025 05:10am): はい
 - **削除済みユーザー** (Dec 09, 2025 04:32am): あ̷͇͇̬̰̦̬͓͕̙̓́͗͆̀̒́̊͊̑̅͂́̚̚҉̷̶̶̥̠͔̘̥̪̱̞͇̥̰̤̯͙͖͖̜̳̥͕̳͓͍̯̭̞̝̱͙͔̠͖̜͚͍̯̣̗͌̆̏̍̄̄̇͂̍̍͂͆̊͌̂͊̐̋̓͊̔͛̌̽̓̓̅͒̔͑̀̅̍̒̿̾̀͆̍̐̄̚̚ͅ҉̶̵̵͎͉͇̮̘̩̜͎̞̤̱̗̜̳̥̪͓̯̠̖̪͙̮̝̭̰͖̙̠̮͕̪̣͎̮̲͚͙̪̤̭̜̯̰̰̐̽͗̇̉͋̏͛͆̅̆̓̉̿͒̽͆̽̈̐̉͛̌̇̆̍̒͋̇͂̀̐̏̊͐̅͆̿̓̽̄̀̓͒͆͗̌̍̔̆̓͊͐͑̾҉̴̯̤̮̱̰̙͓̘̰͓͉̗̞̙̬̗͕̮͍̥͖͕̜̠̤̩͕̘̥̝̈́̔̋̄͆̅́̎͑͋̆̂͂͊̍̏̄̚҈̷̶̖͎̪̤̙̬͍̜̰̮̲̭̫̪̗̱͔̣̭̞̳̦͓̯̤̲̩̱̲̯̑̏̏̊̀͆͗͒̍̑̿̊̂̏̃̑̈͆͆͊͑̏̈̇̽̆͒̅͋̏̇̽̊̚҈̷̴̸̴̴̯͖̠͔̤̪̰͇͔̟͇̱̪̯̞̫̱̰̠̩̱̲͓̩̟̦̪͔̙͙̠͕̘̜̦͖͓͕̙̩̳̘̙̮̤̳͙͖͈̩̳̞͇̜͉͓̤̗̳̽̉̾͆͆̔̓̑́͒̓̌͆̿͋̓̔̆̀͂̅̈́̑̀̉͑̄͂̓̅͌́̇͑̓̑̀́̿̋̀̓̌̃͛̍͑̎͂͂͂̅̓͗̅̚ͅ҉҈̸̶̷̵̤̱͈̪̩̲͎̲͍̩̮͈̗̘̦̰̯͔̤̖̝̫̮̱̩̗͚̩̪͒̄̃̀̇̄̈͌̎̐̈́́̀́̾́̏͂̅̎͛͆̇̔͊̐͆̾̓͌̏́͆̓͒̎͑͐̋̎̃̀̋̄̚ͅ҈̬̲̮̮̠̲̩̟̜͐̅̓̆̈́̑͂̂͋̉̾͋́̀̍̚҈̶̴̵̴̶̶̷̷̬͖̭̙̙̫͙̘̠̖̫͖͉̪̠̭̥̩̗̮̜͕͓̩͕̱̩͇̣̤̯̪̫̙̟͎̩͍̦̝̗̰̲̠̲͈̖̪͙̩͖̭͔̰̥͕͕̥̤̰̫̭͖̤̳̬̮͚̥̰̗͙͉̞͈̰͓͔͖̥̫̒̽̈̾̅̄͛̓̊̽̀̂̉̆̓̀̀͛́̂͑̍̆̾̌͌̅̽̅͐̍̍͑͒̾͂̒͑̔͂̊̌̑̓̎̋̇̌̊̎́̈̈́̽̒̓̍́̂́̂́̈̔̔̆͐̌̒̑̓͂̌͆̂́̿͛͊̽͊̀̐͂̓̑̍͋̐͛͒̔̄͂̊̋̽̊̏͗̔̀͋̊̒̏͒̅̎̿̓̚̚̚̚ͅͅ҉̸̵̵̸̶̷̶̴̸̵̸̷̶̙͚̰͉̪̗̞̯͉͇͈̮̳͙͕̪̗̩͍̰̮̜͎̲͕̠̤̠͖̳͔̣͚̲͖͈̘͉̮̯̯͉̱̗͎̥̱̰̭̠̗̠̪̮̘͚̜̱̲̥̳̞̯͕̰̰̳̯͙̘͕̙̥̘̠̘̱̙̤̗͈̙̭͉͕͉͇͖̝̙̯̯̥̙̝̬̩̣̞̤̪̬̮̠̫͉̙͔̩̯̞̤̱͕̦͙̞̱̘̗͕̦̞͚̖̠̰̃̓̿̀̌̓̎͛̎̈̂̊͒͐̑́͗͑̃̆̐͛̄͂̐͌̽́̾́͌̃̏͌̍̉̐̾̄̋̓̐͛́̆̓̏̏͛̀̔͐̀̔̉̿̂̔̔͛̃̿̍̓͐̑͒́̽̽́̊̀͂̓̓̈́̂̓̇͒͆̀̌̑͛̃̎̓̊̀̾͐̅͑͆̄͆̀͊̋̑̍̈͑̀͛̈̆͗̓͆̾̿̒̃͑̓̿̓͋̾͂̈́͑́̋̔̊̓̄̚̚̚ͅͅͅͅ҈̶͓͙͍͓͓͈̖͍̝̳̣͚̠̦̗̤̱̓͒̂̇͗̇́́̅̀́͋͑̑̾͂̿ͅ҈͈͖̬̗̿͋̇́̃̚҈̴̸̴̶̱͙̙̣̙̥͔̦̦͖͎̫̦̳̖̮̣͍̩̘̬͍͍̰̲̠̗͉̭͕̘͈̪̱̭̤̮͍̪͕͍̝̜̬͚͍̤̫͎̈́̃̋̽̌̎̀̍͗͗̽̒̎̇̀̐͋̽͑̄̈̅́͑̄̈̔̆͛̀̀̎̅̐̈́̓͂́́͑̆̉̾̀͛̓̒̅͊̅́̃͗͊̇͐̚ͅͅ҈̸̳̝̲̱̤̳̯͎̦̩̜͔̟̲̱̗̩͈̪̙͔̀̓̒̽̊̀̈̆̈͑̎͊̇̂̉̍̀̅̊͑͒̈ͅͅ҈̷̶̶̵̸̵̸̖̯͖̪̝̖̞͎̳̖̫̟̰͍̦͓̦̠͔͇͈͖̯͉̬̲̬̪̰̳̮̟̥̳̥̝̱͈͖̲͓̳̳̞͓̟̞̜̖̭͙̬̤͖̳̞̰͕̗̮̥̯̲̱̲̞͚̙̮̫̰̝͙͈̙̠͉̖̣̯͙̝͕̠̥͈̠̙͕̓̋̾̀̀̏̀̐͑͂̒̃͂͋́̌̎͆̓̋̌̓̽̐̃͆̂̌́̋͋̊͑̈̉̌̂̒̇̀̀̀̾̅̽̏̉͂́͊̉͌̆̓̉͌̋̆͊͒̿̓̅͋͋͌̌̅̇́͑̇́̎̚̚̚ͅͅͅ҉̴̷̶̵̷̴̱̞̙͍͓͉͙̭͎̫̘̞͉̗̜͓̳̭͓̩̤̘̪̙͖͉̮͕̫̩̟͔͔̰̥̭̗̰͕̘͔̟͍̮̳͈̘͇̘̰͕͚̮͙̰̙̲͉̩̩̣̰̩͕̔̊̄́̂͋̍̏̆̔͆̌̈͂̉̾͐̓̐́̎̋̎̔͗̿̑̊̌͗̑̌͂͗͋̿́̑̊̂̓̅̏̀̏̋̅͂̔̓͑͑̏̅͊̒̍̽͋͋̆̃͑̔̊̊̄͂̚̚ͅͅ҉̷̵͕̳̝̟̖͖͇͎̩̱͇͖͚̞̖̳̩̙̲̲̱̞̲̫̰̭͔̱̯̭͔̱͖͈̖̜̗͊̀͐͒̎̍͗̓͗̂͋̓̓̉͆̂̓̽̃͂̆͂̔̅̆̈́̐͊̅̏̾̔͊̒̓̂̚ͅ҈̪̭̥̠̲͈͈̳̩̙͓̘̦̔̋̑̋̉̆̇̈́҉͙͙̲̝̱̪̮͙͗̾̀͛̚҉̵̠̩̝͚̥͇͉͎͉͍̮̫͌̔͐͆͆͌̊͗̓̇͛̀̽̋҉͈̤̬͈͕͉̮̗̱̩͙͍͚̖̦͋̀͆͌́̑́̾҉̵̶̰̪̞͔̫̲͇̭͚̮̙̫͔̦̲̘̤̱̫̞̱͔͓̮͍̣̣̗͚̪̯̗̀͆̔̓͛́́̈́̍̆͂̆̑́̄̀̈͐̏̈̇̀̀̌́̌̒̐̇̆͛̄̎̚ͅͅ҈̸̴̶̩̯͇̲̮͔̳̜͉͍̞͈͔͚͔͓̣̜͎̜̩̝͖͓͓̠̤̖̘̗̩̜̌̇͐͌́̇̂͛͂͐̈́͋͑͆͐͊̎́̌̀̌̆̈́̈̍́̑̅̔͗̚҈̸̴̷̵̸̸̯̩̣̬͚͖̫͕̗̮͈͇̥̖̟̜̠͉̟̪̘̬͎̳͓̣̝͓̯̘͉̜̫͇͓͉̪͖͙̠͙̦̭͚͇̱̬̝͇̳̠̲̮͕̥̯̦̖̭̣̰͇̐́͑̍̔͂̊̌̋͋͊͂̓̀̃̾̐̓̓̇̎͂̆͊̔̓͑̂̓̂̈́̉͌͗̀̿͛͂̽́̎̊̀͐̇́̂̎̄͗̇̎̿͂̋͌̚ͅͅ҈̶̷̷̣̥͈͍̟̝͙͉̤̫͉̪͈̙͉̟̝̩͉̤̯̤̠̣͇͍͍̌̿͐̀͒͆͒̃̒̾́̾̎͊̈̎̓҉̴̴̷̭͉̜̫̳͙͖̭̟͚͖͈͍̪͔͈̠̤̟̗̞͚̪͙̞̦̪͉̩̠̭͖͎̗̮̖̳͈͔̳͓̱͈̠͕͙̞̬̪͙̩̗̟͓̐̑̅̓͐̎̀̆̈́̅̉͌̽̀͊͒̉̍̽̌̅́̃̀̑̀̅̇͆͋̀̅̏̍̂̾̽̾́͑ͅ҉̵̵̸̴̵̷̵̴̷̵̵̘̗͕͈̱̱̘͍̜̪̣͕͎͎̝̤͔͈͎̖͓̥̱̯̳̝̱̘̤̥̲̝͙̫͓͎̝͓̳͕͔̘͇̙̦͍͔̞̲̬̟̬͉̫̞͍͕̠̗̯͖̯̥̤̦̠̫̜̦̤̮͕̠̲͉̩͔̘͖͍̲͚̳̜̩̯̝͓̩͕̗̜͈̰̞̝͍̱͔̠͙̉̓̽̔̑͗̽̈́̒̍̈̎͐͊̎̎͋̑́̈́́̓̽̎̉̂̅̇̿̊̈́̀̆̊̇̒͒̿̓͆̈́́̍̃͆̀͒͋̃͑̄͋͊̈́̽͋̌̂̽̌̒͌͒͆͊̓̿̆̊̒̀̿̅̀̌͆̈́̔͋͑͛́͑̀̈͆͌̓̓̇͐̇̈̒̋̎̄̎̌̂̈́̃̏̇̈́̓̐͑̆͂̈̉̔̐͆͗̽͌́̓̾̀͌̚̚̚̚̚ͅ҉̶̶̶̘̮̮̩̯̯̣̮͕̪̮̲̗̬̝̫̫̠̜͎͓̘̱̪̥̱̩͙͓̗̙̩̤̰͙̰͈̘̤̎̏̂̈̔̾̒̎̅̇̄̎͐̍̅̇̾͋̋͋͂̔̂̈́́͛̈̿̅́͑̋͂̐͋͒̓͋̓̏̈́͑̓͑̚ͅͅͅͅ҈̵̵̷̶̶̶̸̶̶̶̴͚̥͓͉̮͉̤͈̗̗̝͍̜̝̰͍̬̭͍̫͉̤̱̥̪̦̖͕͚̬̜͉̰͎̮̘̖̤͉͍̟̟̯̥̪͇͙̱̱͓͇͉̳̭͎̱̳̫͈̠̰͇͇͍̲̪͇͓̮̝̠͎̬̫͍̝̟̮̬͙͙̣̩̝̳̬̗͓̬̝̖̬͔̜̫̩̪͕͔͚͈͕̫͔̜̜̰̘̏̒̐̌͐̔̿̽̃̊̐̂̿̃́̄͗̂͒͒̏͋̊͂̌͗͂͑͌̓̂̓̎̈́̈́̓̈͋̑̍̃̄̀͗̀́̍͗̀̑͌̃̓̈͊̐̑͋̒̆͌̾͆̀͑̐̆̒͛̍͊͌̿͂̓͗̽̋̓̿̔͐̌͆͆̌͆̈́̓̂̓̉̀̂̔̐̊̍̒́͋̌̔̽̃̀̋̒͐͂̈͐̃͌̈̋̎̔̿͐̇͗͋̉͒̏̌̒̆̔͗̿̚̚̚̚̚҈̸̫͓̞̥͇̞̝̭̠͖͖̪̖̪̤̜̗̽̔̃̔́̒̇͂̍̈̈͂͐̅̇͌͌̔̒ͅͅ҈͖̣͖͕͎̖́̒̋͌̀͌̽͐̀̽̍͂̋҉̘͉͚̯͕͚̠̲̤̅̒͋͛͛̋̈́̾̑̌́̇̑̎̀̾̎҈̸͎̘͔͓̭͓͔̫̲͍̩̯̪̞̩̞̮̝̊͛͋̅̿̀̃͋̍̈̽͆̽̔͆̂͂̆̅҉͔̜̰̞̭͔͈̩̰̩̥͋̂͊̒̓̽͑͑҉̬͈̦͉̰̱̮̈́͑͊̾͛͆̔̃̑҈̸̵̶̵̜̳͓̘͎͓͙͓̦̤̳̥̦̝̙̥̦̯̪̬͕͎̫̫̭̟̝̤̜̱̱̝̪̥͖͍̫͙̤̪̟̮̤͖̦̜̭͕̳̙̙̪̄̽͊͊̓̀̽̔́̐̐̆͊̀͒̾̐͐̍͗̓̿͒͊̄̌̇͐̄͂̓̓̈͆͐̀͌̅́͌̄͌̄̓͑̅̈́̄̀̒̃̏̓̍̚̚ͅͅ҈̷̵̴̸̸̵̶̶̬̰̮̝̠̗͙͉̭͎͍̯̰̱͎̥̖͖͕̜̭̤͖̯̮̜͖̤̫͚̫̞̮̖͓̙̰̮͕̖̘̮̭̞̮̯̗̣̗̞͈̝̙̭̮̭͇͉̰̘͕̳̭̪̗̮̟̐̿̽̋̀͌̏̒͌̄̏̀̈̂͂́͊̈̎̓̍̍̿͑̐̍̓́͌̀̊̄̿̾̊̅̐͐̓͒̅̉̓́͒̽̂̍̇͐̇͂̄̅͛̓ͅͅ҉͙̯̯̟̙̫̬̥͉̫̾̍̒́̓̂̽̀̈̎̚ͅ҈̴̥̖̱͉̦̤͙̣͈͕̟̤̗̞̭̱̩͙̦̰͍̠̣͕̯͇̤͑̄͋́̏͐̍̅̉͗͗̉̅̔̋̚ͅ҉̷̸̶̴̦̤̜̮̟͚͍͙̟̲͉̫͔̟͚̬͎̮̳̬͓͇͖͎̘̬̙̖̝̠̪̣̙̥̟̤̬͔̖͔̯̜̬̗͈͙̱̥̘͍̯̖͍͌̿̓͗̌̇́̋̀̿̏̽͐̇̊̽͗̍̾̀̋̌́̄̍̈̃̇̆͊͗̿̽̊̓̌̒̃̀̆̋ͅ҉̘̟̟̟͔̞͇̟̟̯͔̬͆̇̿̊̀̊̓̍̚҈̷̶̦͍̦̤̞̩̮̬͓̳̞͉̦̬͉͙̣͙͇̲̞͕͙͍̮̜̫̫̂̏̆̈̀̒͐̈́͒͆̽͂͗̑̓̇́̓̽̌̐͗͆̎̎̀̔́͛̇̚ͅ҈̸̵̯̩̙͉̱̭̱̬͔̲̱̥͍͓̬̜̰̙̠͍̣̘̞̫͎̯̟̗͙̪͎̖͌́̇̓͂̇̎̏̏̌͊̌̀͑͐̆͊́͋̾́̇̌̑̈͋̓̀̀̊̒͑̂̃̚̚ͅ҉̷̸̫͚̜̮͎̫͚̣̮̬͙̞̮͚͖̙̥́̆̋̏͆͑̓́̒̈́̆̔̂̎̓͛̔̐̅̅̚҉̴̸̪̭͓̯͕̠̣̪̦͕̱̫͙̥͎͇̰̞̣̜͉̫̣̯̠̱̬͖͕̭̗̮̠̤̪̦̩͓̯̘̯̙͌́̈́̑͗̆̃̆̿̀́͌̃̌̏̐̓̉͗̆̀͂̾̄̅͊̓̾́̓̆̉̎̊̈́̋̅͑̚̚ͅ҈͚̫̗̭̭̣̲͈̟͕͇̫̥͌͗̀͐̐̈́̆҉̵̵̶̴̪̘͓̙̳̠̘̙̲̜͙̳͓̫̯̦͚̜͍̤̤̲̟̯̞̪̠̫̱͍̣͓̮̜̱̮͕̟̀̿̓̍͌̒̍̓̎̈͋̍͒͗̓̽̅̓̌̐̆̂̇͊́̀͐̌̅̂̂̓̀͛̆̇̅̇̍̀̐̽̔̊̄̽̑̀͗̓̏̀̈̒͆̅͊̚̚ͅ҈̸̵̶̷̤̭̙̰̯̲̪̩̯̫͕̝̜͎̳̜̯̳̥̩͕̘̤̙͍̥̦̲͔̘͚̫̠͓͈̜̠͓̥͉͔̤̘͎͇̥͉͇͉̙̰̯̭̲́͊̀́̅̄̃̓̍̒̓̒͛̿̌͐̽̎̃̋̆̀̎̿̃̿͆̽́͆͗̂̔͐́͑̾̀̒̿̿͛́͌͌̀̽̒̈́͐̑̽͌̎͆̅̚̚̚̚҈̶̝̖͔͖̯͚͓͎̞̰͑̈̍͛̔̈̐̈́̆̂̓̈̽̈͆̌̚̚҈̶̶͎͍̗̞͙͉͖͓͍̝̖̬͖͕͕̜̠̘͉̥͎̳͕͔͙̗̩̫̗͈̫͎͙̮̥̰̮̮̩͙̳̎͋͂̾̐͛̽͂̔̀̑̋̌̏̋͌̈͌͌̌͆͋̏́̑ͅ҈̦̳̱̮͕̬͓̰̥̥͗̽̽͑͒̍ͅ҉̦̭̳̳̭̬̯̱̟͎̘̖̪̦̭̏̎̔͐͑́̆͌̔҈̷̶̷̵̸̵̴̵̴̷̶̴̴̶̵̴̴̶̴̴̵̴̵̷̷̴̲̭͙̤̲͓̭̟̣̪̬̠͕̮͚̮̗͉̤͚͓̖͕͕͉͕̣͓̘͓̯̱̠̖̪̱̤̜͔̤̗͚̟̣̳̜͇̥̙̟̬̙͚̜̮̟̘̘͚͕͙͉̖̭̳̲͕͚̲̗̲̟͙͕̝̦̳͉̤͕̞͈̫̪̦̣͙͓͓̘̘̟̝̯͎͕̥̱̲̲͖̩̖̱̙͉̬͕̞͉̫̩̞̤̙͍̲̭̜̬͙̭̙̦̗̫̪̝̗̞̱͚̜̫̤̜̮͈̮̯͖̠̦͇̖̟̠̠̫̰̥͖̪̮̯̠̘̜̯͈̲̭̙̖̩͉̤͕̲̫͔̝̜̞̦͈͈͍̤̙̦̠͈̟̝͔͙̯̟͓̮͔̱̯̞̳̱̥̝͉͕̪̫͇̟̯̦̞͕͈̤͇̬̲͓͇̗̪̲̜̟̱̫̱͉̮̤̮̙̬̞̱͔̪̖͍͇͓̞͎͎̮̫̮̤̲̟̗͓̪̝̝̟̫̭̟͈͎͎͕͈̦̰̲̬̩̜͕̲̞͚̥̝̤͉͖̯̦͍̏̒͋̍̑̓̾͗̋̎̓͗̀̇̀̍̿͆͋̉͋̓̊̌̿̃̓̎̓̾̌͑͗̒̐̓̀͗̒́͊̇̃͐̾̆̋͗̔͋̍̐̏̂̈̿̊̾̾̑̊̾͂͗̊͐̃́̃͛͊̇̐̑̽̌̈́͂̐̀͒̊̋͌̈͌̈́̽̾͊̓͋͊̍̀̀̋̅͌̌̔̀̾̾̀̉̇͂́̈́̏̄̍͒̾̾͆̐̀͐̿̃̔̾̌̈́̒͊͛̿̈́͑̎̉͗̊͒̌̾̈́̔͂̀̍͋͆̒̽̑̏̓̏̉̄̇̅̎̍̍̽̔̇͆͗̑́̓̋̀́͋̔̈̑͑̅̓̿̀̓̔̓̓̎͒̆́̌̉̈̃͐̽͊̓̽̓̆̄̒̈̄͂̍̂̾̈́́͑̾̅̉̃̑͂̊͐̋́̽̇͂̀̀̋̒̀̈́̌̋͐̀̐̾͑̌̊̋̈̑̄̋́̓̍̾̎̽̍̀̈̾́̾̍͛͐̚̚̚̚ͅͅͅͅͅͅͅ҈̶̸̴̸̤͖̤͔͎̖̮̜͖͖͉̘̮͕͓̪̥̱̫̜͓̥̭͍͓͔̝̖̘̮͍̲̠̞̘͍̰̠̜̙̞̱͖̤̱̙̟̤̎̏͗́͊̏́̊̌͌̓̂̍̑̾̿̅̄͛̐̃̊̎̐͂̔̀̄́̓̾͋̇̽̿̇̔̊͐̆̒̐̍̈͛͌̋͌̋̋̽̓̍͂̂̍̓ͅͅͅͅ҉̤̤͎̞͇̰̲̠͕̝̱̍͆͋̎̑́̍͊̓͗͋͊͆҉̸̷̝̙̪͈̞̯̠̗̤̫̦͙̦͍̬̞̗̝̟̰͓̙͕͉̠̫̘̞̰͖̮̘̪̝̱̝̮̊̊̈́̀̈̍͊͌̿̉͒̿̿̔̓̀̊̂̔̔̎̀̈́̋̉̌̾̂͊̎̿̀̄̍̒̿͂̄͐̆̽̚҉̸̴͔̰̯̬͕̣̙̱̲͔̙̰͔͚͙̥̰̩̝̙̫͎̬̘̭̫̜̥̗̰͍̤̭̟̞͗̀̎̔̐̊̔̋̒͊̐̓̀̀̊̓̉̾̇̓̂̍̍̊̿͗́̐ͅͅ҈̶̗̫̜̟͕̤͈̮͖͈͓̪͚̤̠͖̫̤̥͓̖̓̅́̒̃̐͋̾͛͂͐͊̓͐̽̋̚҉̵̷̷͚̤͙̬̪͈͔͉̲̳͍͙͔̗͔̩͉̰̙͚̦̗̖̳͎̗̗͔̮͈͙͓̩̥̦͙͖̽̇̂͗̒̿̓̈͊͗͒̂̅́̉̄̽͒̉̀͐̒̾̓̋̔̃̇̓͂̎̃̌̄̎͗͒̿̓̋́̅͊̐̀̄ͅͅͅͅͅ҉̴̶̴̸̸̷̘͎̰̠̯̫̭̟͇̫̯͙̲͙̩͓̘͕͈̫̣̝͈̜̭͔̙̬̲̲͕͓̖̣͖͇̱͍̥̖̜̠̞̙̬̭̗̲͔̠̖̦̜̱̝͔͍͍͓̦̫͔͖̜̩͔̮̂̀͑̇̈͊͆͋̑͐̋̈́͋̆̎͐͐̋̇͋̓͋́͗̀͛͆̎̈́́͒̒̑̂̊͑̀̏̂̄̿̅̋̏͑̽̓̑͊͗̽̒͂̎͛͆̾̓͆̄̒̄̅̽͂̍̅͛͊̂̂̔̋̚̚ͅͅͅ҉͕̗̘̘͖̩̠̝͇̩̟̠͔͗͒̀̑͆̋̐̈̈́̈̽̚̚҉̷̸̞̭͓͕̳͍̜̜̯̦̪̫̟̬̝̝̩̙͕͓̩͖̫̘͚̭̫̗̬̘̬͙͉̔̑̈́̂̉͋͋͂̆̿̽͐̏̀̽͛͑̍́͋̉̂̄̏͐̅̂͆̓͐̋̄̀́̎̓͑҈̷̶̵̴̸͚̤͕͎̝͚̗̮͇̱̳͙̦̝͇͔̞̳͙͇͈̬͖̳̮̬̙̣̰̩̖̫̮̪̱̩̙̫̥̰̦͚̫̲͖̠͓͔̤̣̝͖͔̭̳͓̫̪̍́̒̎̄͒̽͑͗͐͊̏̀̾͂̉̽̅̀̏͛̋͋̈́̌͛̇͑̓͂́́̎̍̅̎̎́̄̃̍͐͋͐̂̏͋̎̇̀̏͊́͂̓̓̆̎̎̂͋̍͂̀̃̿̚̚̚̚ͅͅͅͅ҉̸̲̙͖̖̬̗͍̬͓̜̥͎͎̝̣̖͎͕̙̠͎̾̄̋͛́̀̆̓͊̃̎̆̔̾̎͆͂̓͊̚҈̶̝̖͎̫̩̯̫̝̥̟̘͎̮̪͙̖̯̮̝̟̲̤͇̬̯̗̤̪͖̘̗̀̉̄̏̈́̍̃̒̔͊̃͋̇̊̇͌̐̔̽͑̐͆̚҈̸̶̘̝̠͎͖͓̮̞̖͔͕͍̘̤̫͙̟͈̠̩̰̲̭̗̭̪̞̬͍͕͉͍̫̳͚̰͎̭͓͖̌̆͂̐̍͊̅̃̿̃̿͊̇̾̉̓̄̏̌͐̀͒͛̂ͅͅͅ҈̞̠̣̠̝̖͍̟̫͍̬̤͚́̑͛͑̽͂̿́̓͋҉̷͇̰͉̗͔̯͙̣̱͉̪͉̤̳̱͙͈̗̯͚̳̇̽͋̅̀̿͋̒̃̐̀̊̔̀͗̌̽̎̍ͅ҈̞̠̠͙̯̗͎͎̠͂͋̒̾̄́̊͆͐̿҈̶̸̷̵̴̜̘͕̬͔͔̭̩͓̟͇͔̯̣̘͓͙̖̱̳̝̠͔̱̠͉̯͓̳̞͕̩̮̜͔͙͈̞͕̘͓͉̥͚̲̬̝̟̙̣̫̤͇̪̃̐͒̂̾̽̃̐͛̊͆̒̉͊̀̑̐̄̏̾̄̓͋̅̉̃̿̍̈́̆̽͛̉̒͌̍͒̅͒̀͆͗̓̿͌̽̇̋̋̐̈̅̒̅̈͛̒̚̚ͅͅ҈̶̟̞̩͎̘͍͍̤͓̖͎̞̞̲͖̫͎̬̰̙͇̪͖͖̖̭̩̮̞̑̀͌̄͐̄̿̑́͑́̾͐̉ͅ҈̸̵̖͚̞̩͇͇͕͎̙͓͈̪͓̝͍͙̘͉͕̙͈̭͚̤̱͕̜̬̮͕͚͕̟̮̞́̃̆̐́̄̔̃̇̆̎͊̉̍͒̇͗̌̂̑͌̋͌̈́̈̍͂̐́͋͗̌̃̌̿͆̀̒̂̽̚ͅ҈̷̸̷̮̭̦̯͙̭̜͇͙̠͍̦̰̬͇̠̝̪̰͚͕͕͉̦͎͚̖͉͇̦̥̪͓̦̮͎͍͈̝̣̤͌̅̑͗̐͌́͛̄͗̌̐̄͛̋̉͌͗̐̊̒͋̄͂̍͊̒͂́̉̇̂͗́͂̅̃͐̚̚ͅͅ҉̴̰̳̪̞̬̜̖̘̘̲͇̞̳̬̥̦̓̒̊̉̀͆̋͊̉̆̎̍͆҉̷̶͖̳͕̫͈̭̦̪̲̠̥̣͚̲̠͕͕̳͍͓͇̯͕̬̬̮̙̥͍̲̝̯̪̭̱̱̊͌́͗̄̐͌͗͛͗̓́̓̃̉̈́̽̄͊́̈́̄̾̓͋̍ͅͅ҈̝͇͙͕͕͇̮̟͕̱̮͆̀̾͆̂҉҈̴̶̷̵͇̬̦͉̖̪̞̙͈̰̙͎͚̫̩̪͙̩̘̮͎̮͉̞̖̣̱̰̰̜̥̜͍̦̱̝̙̙͈̭̳͓̝̯͓̝̦͈̗̝̫̞̗͇͙̙̯̞̘̳͓̥͇̦̎̈͋̄̓̐̄̓̔̾̆̈̑͂͊̐̽̐͐̓̊̑̓̅͗͑͂̍͒̈͆̃̌̃̒̇̉̿̈̈́̋͐̀̆̊́̌̌̽̓̏̀͛͊͛̍̀̾̽͐͂̚̚҈̷̷̟̰̭̟̯͕͇̯̣͈̥͈̗̖̥͚̖͚͙̞̜̤͖̦͓̯͇̘̣̭̠͕͉͇̟̥̭͔̥̇̿̾̍͛̅̒̇͂̍̒̐͋͒̇̀̀͊̃̆̀̌̋̅̏̉͆͗̍̎̑̎̅̾ͅ҈̸̴̵̖̳̲͚̥̯̤̫̥̟̝̟̦͔̠͈̣̟̖̜̜͙̲̯͓͕͙͈͈͍͍͎̰͚͇̝̫͖́̿̃̑́́̆̆̓͒̽͂͗̈̒̋͋̌͊̒̑̈̆̔͌̒̀̽͑̓̀̓͐̌̓̉̐̅͊͗̓̾̎̋͛̋̅̈́͑̀͊̂͂͛̅̚̚ͅͅͅ҉̤̣͉͈̬̲̰͍̤̗̜̲͛̔̀͂̉͛ͅ҉̸̩̝̟̝͔͇͚̗̮̟͕̮͍̖̥̫̭̭̲̇̆̊͋̌͐̆́̽̇̽̌͌̆̋̀͋͗ͅ҉̷̶̶͉͉̞̙̳̤͎͉̥̜̞̗͚̗̤̩̠͚̲͇̘̯͕̯̰̦̤͓̗̦͓͇̥̞̮͎̠̱͙̞͇̄̔̓̋̀̿̏̂̋͐͊̍̐̏͑͌̀͛̎̊̏̑͗̉͊̋͊̄͊̒̈̓͒̋̄̿҈̸̸̳͔̞̠̫̠̟̳͍͈̥͖̫̟͈̲̘̗͔͖͕̖͖̖̤͖̩̮͓̒̃̏̍͂͂̈̇̽̿̾̓̿̊̃̔̊̐͂̌͗͋͗̈́̍͗̾̓̈͐͊̋̔̇̾̽̂̆͗̆ͅ҈҈͚̟̝̣̯̦͙̠̱̱͚͖͈̱̿͛̃͌͌̑̏̍̈́̀ͅ҈̰͕̩͖͓͍͇͔͍̰̪͖͈͍̤̓̌̒̍̾̽̉̂͊̋̚̚ͅ҉̸̜̖͎͖͕̮̞͙̤̜̞͚̖̗̠͒͂̔̂̍̋̏̃͋̐͆̍͆́̓̐̐̐̚ͅ҈̶̞͖̗͙̙̥͖̫̙͇͔͙̯͐́́̐͗͆̾̿̃̀̍̌̍̇̽͊͆͒̉͑̑͑͋ͅ҉̴̸̱͉͍̩̝͈̗͍͈̞̠̰͖̭̯͎͕̘͈̘̥̙̙̟̯̤͚͙̥̱̝̫͈̭͒́̂͗̇̾̈̀̐̀̊̈́̍̈́͂̽̊͒͐̈́͐́̇̍̒̇̂̋͊̚҉̴̴̴͎̖̤͇͉͇̪̜͚̞̖̟̟̬̰͍̥̬̯̪͕̫̮͉̭͉̥̜͕̮͖̠̙̠̱͗̈́̆̐̌́̑́̑̑̂͂̍͑̑̽̓̉̃̐̓̐͋́̓̔͋̈́̀̊͐̇̔̓́̅̒͑͑̈́̎̉̔͌͗͒̚҈͎̫̱̰̜͚̮̦̮̟͇̠̭̿͒̔̊͛̒͗͋̍́̄͗̾̉҉̴̰͖͕͚̬͖͓͙̖͚̝͚͕̙̮̘͉̘͓̗̰̬͈̰̱͎̖͓͚̠̃̽̑̅̍̃̍͛̃̒̃͋̒̓͊́̒̀ͅͅ҉͚̝̮̯̮̬̞͖̦̝̰̈́̂͆́̑̃͋̎̽̇̀͊͂͂̂͑҈̪͉̭̣̙̠̬͕̣̦̝͔͎̋̋̃̓̅͛ͅ҉̶̘͈͓͇̜̘͉̳̥̦͔͚͍̬̝̤̬͇͉͇͈͌̾̌̽͆͐̅̓̂̓͑̐͐҈̶̸̸̸̮̘͇̝̯̲̗̭̠̝͔͓̥̩̠̯͓̬͚͓̪̖̳̗̞͍͎̫̱̫̰̟̣̲̭͙̯͕̪̫͚̲͕̜̗̬͖̤̪͕̯̱̜̟̌̓͌͊̃̿̀̈̏̍͂̒̀̂͋̿̿̓̈́͂̓̓̔̒̀̑̿̐͗̈́̆̏͋̓͗̑̈́̒̋̚̚̚̚ͅ҉̸̭̟̖̖̤͍̱͕̤̪̩̣̗̖̃͂́̉̽̾͒̋̔̆̓̈͐̃͌̓̊̉̍̌͒̚̚҈̷̵̸̴̶̷̶̰̬̳͓̖̖̯̦̳̟͇̭̱̜̥̬̳̝̜̗̣̝͈̦͚͖̩͍̯̬̗̪̳̪̳͍̦̳͖̮̱̙̳͙͔̯͉͍͖͎̬͕̗̭̫͇͇̱̪͕͖͉̠̲͍͕̬̳̱̗̰̪͚͈̜̙͎̬͇͇̯̳͚̫̯͕̰̣̞̇́̇̋́̿̐̿̽͐͐̈́͆̐͂̀͐̈͗̑̉̃̇̐̑̈́̓͂́͆͗̋̓̍̎̽͋̓̀͐̑̇͆̓͊̇̋̾͑͑̅̈͛̅̑̽͗͐̽̉͛̓̚̚̚̚̚ͅͅ҈̶̷͕̫͖̟̠̲̯̬̠͕̬̟̟͓̣̱̦̖̝͕͇̝̙͂̈́̓̿̎̔̃́̽͒̐͐͂̃̊̄͒̀́̍͛̚̚ͅ҉̷̵̴̶͉̞̬̗̟̞͚͈͔̖͍̤̖̰̫̤͍̘͕̱̠̤̜̲̣̦̬͍̘͎̤̲̥͖̦̦͎̥̙̍̈́͑͊̀̒̉̉̐̌̔͋̿͋̂̓̔̅̍̓̓̊̏̽̑͑̋̅́͛̂̎̅͊͛̍̏̈͆̊̾͂̀̌͗̂̽̇̈̌̋̾̊͊̊̓͗̚ͅͅ҉̶̸̟̪̭͚̝̘̬̦͖̘̝͇͙͇̳̪̰̫̳̞̪̥̤̥̣̗̜̩̳͇͖̲͎͇̖͉̐̒̇̾͌̐̊̍̾̾̀͆̾̓̇̾͑̏͂͂̋͑͒̎͆͂̔̂͗̓́́̽͗͑͋̚̚ͅ҉͎͎͇̪̤̤̯̜͓͉̗̜̤̟͂͂͒̈́͗͊҉̷̶̠̩͈̞̩̗͎͉̝͈̠̬̤̳̪͋̌́̔͒̃̍͂͂̚҉̶̸̳̣̠͍̬͈͙͚͉̠̤̝̙͈͖͇̗̜̥͔̥͙̟̘͎͚̲̳̯̘͉͔̟́͋͊͛̈́̅̎͆̈͗̌̊̔̀́̐͒̓͊͒́͌̊̋͋̏̒̂͋̀͋̇̏͐̄҉̴̸̶̷̴̷̴̵̵̪̬̤͔̫͖͎͉̣̜̠̟̳̭͚̗̝͙͕̝͙͓͙͕͕̳̞̩̬̥͕͕̣̩͓̣͍̤͕͈̘̳͕̬̳̜͇̝̠͉̱̝̲͖͔͈͎͈̮̭̗͔̭̱͖̦̞̱̙͚̯̳̲̘̱̙̳̩͍̯̥̞̯̮̙̳̤̄͐́̊̃͒̃͌̃͒̿̈́̽̔͐̇̉͐̓͆̿̔͆̓̅́̓̄̌̄̾̈́̓̑́͊̓̂̀̇̇͒̓̓͐̎͂̃̉͑͂͊̽͗̾̃͛͐̂̋͌́̂̊́̊͛̑͊̌̍͐̓̄̓͋̾̍͐̈̎̓̿̈̐̓̒̀̈͂͐̏̅͋̀́̌̀̑̀̋͗̽̚̚̚̚̚ͅͅͅ҈̶̷̱̰̮͙͖̟̪̜̠͖͎͎̭̟͇͓̫͎̠͓̩̙̣̳̟̥͎͕̱͕͑̈́̍̂̇̔̍̓̎̏͆́́͊̓̒̐̎̂͗́̍̄̉̎̃͌͐͑̿͌́̒̏͑̎҉̶͙͇̮̖̩̖̳͇̬̟͖͓͉̖̫̦̩̲̗̣̣̘̦̳̟͈͙̯̥̈́́̊̐̀̓̿̏͑́͋͒͛̄͌̊̀̓̐҈͇͍̳͈̜̜̫͎̲̐̈̏̐̽͂̽͛̑͌͊͆̎̐҉̷̶̵̜̭͈͓͚̗̪̠̯̫̙̰̮̖̫̝̥͖̦̟͕̮̫͔̪́͋̾́͗̋͊̈̾̽̾̔͛͂̒̓̓͆̅͒̽̓͗͌̎̄̂̅͛̾͑̚̚̚҉̶̴̴̵̮̯̩͇͚̩̭͉͖̦͖̭̩͔͖̬͕̖̖̱͔̭͖̗̤̣͙͖̖̗̭͎̭̙͔͇͇̣͓̒͂̅́̌͒̓̊̈̀̒͗́̎͌̇̎̈͐̐͑͛̑̔̐̔̐͐̅̆̄̎̀̑̓̂̀͑̇̐̓̃̔͊̋̄͒̏͊̿̋̎ͅͅͅ҉̴̴̭͖̳̙̝͙̯̝̫͕̥͍̱̗͔͕͈̳̲̪͖̘͉̲̤̥̭͍̤͙̾̈́̃͂́͗̍͗͂̃̑͌̋̈́̄̽́̽͛̌͋̒̑̾͌̒̊̎͆͒̂̓ͅ҉̴̸̶̷̴̵̵̴͉͉͎͍̙̖̱͙̗̲̰̦͎̝͙͈̱̩͕̯̟̞̯̩̞̩̲̪̬̫̜̭̦̣͕̖̫͖̥̩͓͈͉̗͎̤̬̪͓͉͕̮̱̙̙̩͎͉̣̖̣͈̟̣̙̖͖̭̱̫͙͉̯̬̫̰̣̝͚̞̫̯̥̞̟͚̫͙͉̪̓̆͑̑͗̆͒̃̄͒͒̋͐́͂̂̄̉̓͌̊́̂̂̉̊̌̏̽̎͋́̀̔̈͂̎̃̏̉̎̉̄͂̾̂̍͗̒̇̿̈́͋̀̈́̀̎̔͌̈́̏̏͗͒̆̉̂̌͋̃̅͐̽͒́̌̉̌̆̓͆̈́̔͆̆̏͗̚ͅ
 - **匿名** (Mar 12, 2026 12:20am): えええ
+- **シバハルト** (Mar 17, 2026 01:05am): うまそう
 
 #### Reactions
 - **Upvotes:** 2
@@ -297,7 +298,7 @@
 ### 10. 最後の5秒編集した。
 **Author:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/7ef07e48e063a7b182f6cf00b43fe1d2/_____________YouTube_________.mp4?Expires=1774308850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PpAcBZtbua6Qyj3BUO%2F%2FqFh9RQ%2FnBXTHjSl%2B%2F4IjBK40vaQMLNG3yW9Q9OOFKpc%2Feo%2FvwdazOCUv5sCDF5pJbhMICOULLl5ix%2FGIa4st6PtgMJm6hdBU%2BkCZwRKoQgcwpFvfLVFz03Quo02yZYFApxb4jmPrz68krr8yEyWlqP4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F7ef07e48e063a7b182f6cf00b43fe1d2%2F_____________YouTube_________.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/7ef07e48e063a7b182f6cf00b43fe1d2/_____________YouTube_________.mp4?Expires=1774318354&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fo2AH5%2BUIxVeJt1k0PWgNM3fI5jEm6jvsbWKOcobfanZsotfjh5Q0AqO0rJHVZEog2Sue%2BMKhVEfh1bP1wHOaNwv1yjt%2FcG5GE1gcR%2Bpe2X4MdKS4VrFYuWEMD843msOPC8R8QN90hV4V7tf574D%2BpMoYP%2F%2BOI6vXuaEDpzUe2c%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F7ef07e48e063a7b182f6cf00b43fe1d2%2F_____________YouTube_________.mp4)
 
 #### Comments (1)
 - **クソ豚撲滅委員会** (Feb 17, 2026 10:11am): もっと曲出して。
@@ -1006,7 +1007,7 @@
 
 <p>笑ったら👍️押して</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/5f6661282b178b6ae59c5a2cf86322bf/Screen_recording_2025_04_08_12_50_54.webm?Expires=1774308850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VIxGULeSzXnbS%2Fc5JxwaTSpsJrbOROcNF5loLAa%2FbdMTTVUXcFPhEPmwoWo18bviwQtX9OHw2zjpBkM1px51%2B9IjPTe%2Fi8wfi8gRJ5DP4JRubxXe2Ea%2BX%2F7kQWiexdpItB5k%2FuKrEOwo%2FT1SQcJVW39dk86vSMbXI%2Fpd9A%2FIrag%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F5f6661282b178b6ae59c5a2cf86322bf%2FScreen_recording_2025_04_08_12_50_54.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/5f6661282b178b6ae59c5a2cf86322bf/Screen_recording_2025_04_08_12_50_54.webm?Expires=1774318354&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=O9XfJhhtuetUvBmbPhXMerNIdsnlygW58527Te4s5FDc6OVJl5LuJJJzfu9vL8XfafqBh%2BEu2qnlzgUfDqGhIVvdvhzcaBn7ntNVWcaVfWZvsF8vL5d1eG6SpWx6cbgn5gdJYqKH3oz0jxip8VlOniced3%2FEkSdHIViqfi%2B4Vng%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F5f6661282b178b6ae59c5a2cf86322bf%2FScreen_recording_2025_04_08_12_50_54.webm)
 
 #### Comments (3)
 - **なべさん** (Apr 08, 2025 03:53am): w
@@ -1051,7 +1052,7 @@
 ### 22. 待ってｗ普通にブロックｗｗ
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/c35cdf6225db884a79bfbe70fe842184/image.png?Expires=1774308850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=oTtgGdgMNy5LQWn1v3DuSEyxcHlBy9eSIsO%2BbhBnBcdeiNAI2AmdfAyvtwzf3n2ZsAeGzPPj4XtV4x2O7ojnjamsIvv6w3mfC9slneWt71zv%2FLdfxTnDo%2F%2BwiIWRwFAjumLsoq3HPjNOAB16rS%2F9VQTQwdgBTfPnsTE2S9Kiiy4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fc35cdf6225db884a79bfbe70fe842184%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/c35cdf6225db884a79bfbe70fe842184/image.png?Expires=1774318354&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Y4GGbuHNI6sHIr4SgiFvWKv46N6z%2Fzp2nuzGraNlEDg6UXGIRcoZ%2Fg9O0Dd6mpFsukQl%2BCqt4rnNYGvR%2BLvPvVLgVpbIZK5UwM%2F1sa4a6gCOyg8b2Q0r9lvaK6YwHUiR1qeIDr83P92rxkvwXovNURq1RUesOOF1k%2FYmCKFwD40%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fc35cdf6225db884a79bfbe70fe842184%2Fimage.png)
 
 #### Comments (5)
 - **柚子塩** (Apr 08, 2025 03:27am): www
@@ -1070,7 +1071,7 @@
 ### 23. なべさん、柚子塩さん
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/b8396ea7fd827a740bfb9ee98017847a/image.png?Expires=1774308850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QzC3SjGd%2FALyQVXBFd0N%2Bc4nw%2FX9N7nKCT90WFSz4kqzsx3k%2FDYDzXuqJIqirRYLLJ6FglNW2oA0Ooxf49y2zxIEszHsOdPzgPclMvMnRqfqFyWDYlkBx92LcEvp5jLB%2F7hxHszM5KDPzncPeBrxZz4NgEA2YIin%2FcVOWt1Ybb0%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fb8396ea7fd827a740bfb9ee98017847a%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/b8396ea7fd827a740bfb9ee98017847a/image.png?Expires=1774318354&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4hO5UG2nHS5z7EgjScPHmv55y%2FZLtXI%2FGYGS8ZGwdpm39Du8kbOhUQnU%2B6Bd3x8JQZGjSix3izqQ5hqEwQzzk4JJ0%2FKDTWe2kwJAKAxHEhwbP37Re590zayuKoqo8ggvKxhj3RujmwU%2F2tqIRaP61hHgcmC6aZRXJgprOpa1TL0%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fb8396ea7fd827a740bfb9ee98017847a%2Fimage.png)
 
 #### Comments (3)
 - **【超低浮上】Mr.k廃人** (Apr 08, 2025 03:26am): セーフらしいです
@@ -1329,7 +1330,7 @@
 ### 35. まぁこれが現在の状況です
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/d3730900b839f44b20861220e91685cf/image.png?Expires=1774308851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Xl5WPxysIkwwnCE%2BhLqNzrQrxX2qFdJjeVdt7paRJOWPnIZEDULyLMUbM1kFFIhDJ%2Blp%2FJ4igfMVSVhhuKSSEynFvY%2Fwe%2BhuTOGadaawiaanBoXWkfSqa%2B1MOeL0LZQCb5VwJwvdD1JVymNhGBwt3BxaTP%2BEaXnmLJfo64%2BcWMA%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fd3730900b839f44b20861220e91685cf%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/d3730900b839f44b20861220e91685cf/image.png?Expires=1774318354&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OD%2BwOr1jtlI6mSB1yGCMSe5%2F1rbzmBAjs1u1vV0uSiETzKBQIwbO9rxGjjHBtckvRBe29pNtO4MIntEkiQLeE0xa4su00kZ%2B0kpR94GSv9izTRu3RXAyUu8cmgA17apc9ObZ3r2ZvjS4LPJQhzUHpOOSuJdzZGHpmdzO4uvyPtU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fd3730900b839f44b20861220e91685cf%2Fimage.png)
 
 #### Comments (29)
 - **柚子塩** (Apr 07, 2025 10:27pm): おぉ〜
@@ -1372,7 +1373,7 @@
 ### 36. やりかた
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/36d92899197a03dc53aeabb98c2edd79/Screen_recording_2025_04_07_20_43_59.webm?Expires=1774308851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WIknMZdCHFPuWBKiH9vrJTRN2ozKyw%2FWys8SaSBq78mIC1RV%2FI2sbEMhQhgglxvfE7%2BSE1Jvg84%2BxKX58UXrZg60wSmYGUQAzc83y7FXTY2qJicIzk8HpWRE1Gk8xHNZ5ACqbF3Pcm2EucDnfmlC1%2FrGyIgqiWWTTma3DX%2BhbOU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F36d92899197a03dc53aeabb98c2edd79%2FScreen_recording_2025_04_07_20_43_59.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/36d92899197a03dc53aeabb98c2edd79/Screen_recording_2025_04_07_20_43_59.webm?Expires=1774318354&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=m5JQ3IYWFAebcOlmMC7cub4PLcrTDjRcyB%2BY6oOIoWH5NR2vGCRHRAe5JpCkxI03EKPVD21FzMzyZUwOUCXvLAU0qISNwG3oTYouIp%2FTMtHVOv1LR6Kvw8cHQmSXgIz1AyBBISHji79mFxRV7aBgjCowuzVuGoKLZ1hsxno6SSw%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F36d92899197a03dc53aeabb98c2edd79%2FScreen_recording_2025_04_07_20_43_59.webm)
 
 #### Comments (5)
 - **イグクラ大好き人間** (Apr 07, 2025 12:46pm): 俺もできたあ
@@ -1626,7 +1627,7 @@
 
 <p>Mr.暇人さんの荒らし対策本部のとこ荒らされてるしコメントすらできなくなってる？？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3655617445/8c143567029544738b654760a56cb885/IMG_0291.png?Expires=1774308851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Y9ITulr9IvazTBAqWpyC25AYYk%2BR2EIh6y%2FX%2BbbmSzH6bBq9bZTC%2FsVqrXoNc9WsIcY0yAbcyygG3i%2B8oIgIkHVYoDzuB2P%2Fifk8e6FepqgXL7w%2FpNlC3rwLEvNLI8e%2FmqLh9%2FafrS20MQ5%2B2EiJcxDxWxN2a2bLn5bX1VIH0qA%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3655617445%2F8c143567029544738b654760a56cb885%2FIMG_0291.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3655617445/8c143567029544738b654760a56cb885/IMG_0291.png?Expires=1774318355&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4fgHsF8ADJNwDm8ajVjFJRl2UV1a9qiyndUJRmQ0mjiNaFNcUhuXdtXqyWAUdUANdJUz2F6dakkZtga6D1MYiL%2Fi2aSizFvlw6u5IWlP3wEeqzX6pojifXhjHdZV05lIVqxuw8F3f2ah8h36FEwgHdbLcco46egLu%2BKFpolGXY4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3655617445%2F8c143567029544738b654760a56cb885%2FIMG_0291.png)
 
 #### Comments (5)
 - **なべさん** (Apr 08, 2025 11:17pm): なんかそれとうちセクションとか増やせたりピン留めできるような管理人みたいな奴もたぶん消えてる
@@ -2987,7 +2988,7 @@
 ### 1. 約40000
 **Author:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/1bbcbb1b15f56af284531d92160b695a/IMG_1029.jpeg?Expires=1774308852&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zdgB7e5qTFkP7g1%2BOMTwO7Ddih5mYn1n96ohakr6Ybb86cMDzhoIXtTbjcs5QGOnti1YQd6QlZh%2FAXSPszMWqOFXt6ffHKdGrAZyZdBWtPZA104BibhsnspEmKJkYoi2f5clvEHSGIN3YB%2FWWnwRupf8JHfP3xK%2Bf6kvO2SrLRI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F1bbcbb1b15f56af284531d92160b695a%2FIMG_1029.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/1bbcbb1b15f56af284531d92160b695a/IMG_1029.jpeg?Expires=1774318355&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AyyNKlk2L%2BtQLRWvj2dYjYgBZUBOebz72Kf%2F9kJwAC5i1aTaOdKYaMFNs2oGiqXQ%2BwHALJ16DLFemtV0jywRodznz9R%2FMa5JX1jZLPK1P9ynpM0j3E%2FwMzYMZD7pH2h3TtNi2cCWYLlBchXhB6Mt72gA4%2BgsIsS3r%2BhcQd1X7vQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F1bbcbb1b15f56af284531d92160b695a%2FIMG_1029.jpeg)
 
 #### Comments (14)
 - **L** (Nov 30, 2025 11:54am): 「ｋ→ｓ💕」へ　雪論
@@ -3021,7 +3022,7 @@
 
 <p>かってに作って良かったかな？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/b0aa46b1db5b56d7f3d97fe52192f4ce/IMG_1006.jpeg?Expires=1774308852&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4c5dFV8TW9ehp28jfLiQ8c9TOAS7V%2BlDi1ZqX9zFwk0KBsZUX4ahmrFQH25QV1T6lO%2BgErcnRH65owAWaCtkVtVm8LjCUVcuViP6%2BFVanQdHMjy0YlOGOOD%2BrQpWpDjgocAxq%2FkN94%2FHOdoqYl%2Ft6U5JPqo0px0T6v2EZslOpWg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2Fb0aa46b1db5b56d7f3d97fe52192f4ce%2FIMG_1006.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/b0aa46b1db5b56d7f3d97fe52192f4ce/IMG_1006.jpeg?Expires=1774318355&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cE4GAHUgnY7CyZEz3YVJa7LBYV%2BJq2juxoEEl0l0b3HoQYmAU1f7QeneK%2BYKV57jYwquQJpG%2BVL8rduqa0sBp47td4SfgfnvbaWQA2li0LqH%2BgZ2%2FlCEpyOIcaaH%2B%2Bro39cJ8%2FW%2FrCB4b5OK5MBJ5eCytx1qTj9wyUI0DlSdKc4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2Fb0aa46b1db5b56d7f3d97fe52192f4ce%2FIMG_1006.jpeg)
 
 #### Comments (40)
 - **WestExpress 銀河 紀伊勝浦行き** (Oct 15, 2025 01:04pm): なにが？
