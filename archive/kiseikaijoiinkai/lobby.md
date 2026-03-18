@@ -1,4 +1,4 @@
-最終更新: 2026/03/19 07:34:14
+最終更新: 2026/03/19 08:31:39
 
 # 規制解除委員会(臨時本部)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 53
+- **Posts:** 54
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Mar 15, 2026 12:39pm
+- **Updated At (UTC):** Mar 18, 2026 10:53pm
 
 ## ルール
 
@@ -18,11 +18,12 @@
 
 <p>本部来てね</p>
 
-#### Comments (4)
+#### Comments (5)
 - **本部復活サイコーすぎる人** (Mar 02, 2026 10:12pm): マジですか！今度でいいのでURL乗せてください🙇
 - **B** (Mar 05, 2026 07:08am): 学タブ入れなくなりました
 - **お茶の部屋入ってる人** (Mar 13, 2026 04:10am): お茶aaaaさんいますか？
 - **お茶の部屋入ってる人** (Mar 13, 2026 04:10am): 入ってもすぐ落ちてしまいます
+- **とるっぷい#復活#元ウンコマン** (Mar 18, 2026 10:52pm): https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5
 
 #### Additional Information
 - **Created At (UTC):** Feb 28, 2026 11:52am
@@ -152,7 +153,7 @@
 
 <p>とるっぷいが何者かによってBANされた！！！だから、とるっぷいが維持してた規制解除委員会本部部屋やVIP部屋が消えました！！なので、とるっぷい復帰まではここが臨時本部になるんやで。ってことでとるっぷい復帰までは何かあったらいときち(俺)or中居正広に行ってクレメンス。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1774478053&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MQEnLQFXhNQoYxHohQ9ozBriAEyMw7E9cgMRdpQZyynHY0LOKQ76M6xYeQI22OXYjrDFv%2FJ1wEMbUq2XV8vgtaSVYCUWip93T9NeN%2Bfta%2BbP8fxJ%2FpjcloOBkhjj%2FId5o7kUd4zr6htYpjILR3hgYjrjVW9AmdtetdyzVQYA1Mw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/1695d08997e5df23b887eae210e9c522/ChatGPT_Image_2025_12_25__17_31_53.png?Expires=1774481499&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EhiyXq75Lr9y6Mt6NfrKyAoAAlsxQSaKWgXeuyCOR3VXJwenVtBRHkaKCYLL3SxV96DhpuzwVFG7OBmCn35wJLSMQdUz%2B9%2FdxkzMA0hndQcWew7ZmNEpmo00tc6ZQL6Y3ozc7c9bxALgsykRtUs07EI7sNH5KWv%2FY0WoKy6xi0g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2F1695d08997e5df23b887eae210e9c522%2FChatGPT_Image_2025_12_25__17_31_53.png)
 
 #### Comments (3)
 - **中居** (Jan 09, 2026 11:54am): かなちい
@@ -198,7 +199,7 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1774478053&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aZrBwAAvoZ7GEV57gGNUh2u3OSmNNK31beXFFvV1oQ2BVAKgTIiDaW%2F1dbEPJKDEsCAInHI9iuEu3MFsoIP8tEC32T7GOehoAQ0Q9uZLm2MmEsMdv%2BO5Mf8VBvG%2F7jytszM2yJqSf9PbFDQ%2BQttbpLyoHLUvasbsr9NVh6tmXrI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1774481499&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eo955BLIZKWzYuGQ%2FUksVNEiIhh7R40oxq8ZeWXbS78xl3esihtFmQ5KyQ%2BVpu0v%2FZb5c3w%2FL490Q%2BUFpWQRuO0rgNcnbp6JT6SnC8GnZtAqSeLetBn%2FDtWxzHzd81mrXtbQdSAcD%2B5IKLVuw2Rc%2BZ65beYjXu54i6or5VQannA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Comments (1)
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Feb 07, 2026 05:36am): suk
@@ -218,7 +219,7 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1774478053&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=O8xdt52wAhRkAic7T%2Bt%2Fa%2BUaQUnf2SDCjZSvpEhOwN2EC3CtPd6NEuMQYpJisa1eNWNYySl1f%2F%2BLYjIMKbJH8G40M5W5dsaDNtPSJLP5FSJ9j6ha49Spz6OPiVFdHEcqzGoDeL3Bpu3wahhzpe6ke8sH4GYBFOjLDcC2wIBLXO8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1774481499&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KP%2Fz%2FNHfyaZ1a39Opta1ejh7EqXXbrzwSIyj4JnjkgQvpEUIyMzBvVhQhc%2BQQYJiT2kGph%2F%2FWFf2fFCHCBz8LAxlg3ACOFw2oMab3My%2Fzx85NudG8yRphnmAaTYMalCzCm74Ev0eudBQDckv0wMIhfJPUUHxAClkqDdO4RqKz%2FE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Comments (7)
 - **う〇こガンミ委員会** (Feb 06, 2026 06:03am): https://script.google.com/a/macros/chuo-tky.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
@@ -243,7 +244,7 @@
 [Attachment 1](https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5)
 
 #### Reactions
-- **Upvotes:** 0
+- **Upvotes:** 1
 - **Downvotes:** 2
 
 #### Additional Information
@@ -771,7 +772,16 @@
 
 ## 達成
 
-### 1. 本部屋閲覧数20000突破！
+### 1. 25000突破
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
+
+#### Additional Information
+- **Created At (UTC):** Mar 18, 2026 10:53pm
+- **Updated At (UTC):** Mar 18, 2026 10:53pm
+
+---
+
+### 2. 本部屋閲覧数20000突破！
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 #### Comments (1)
@@ -787,7 +797,7 @@
 
 ---
 
-### 2. 受付閲覧数14000突破
+### 3. 受付閲覧数14000突破
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Reactions
@@ -800,7 +810,7 @@
 
 ---
 
-### 3. 本部閲覧数8000突破‼︎
+### 4. 本部閲覧数8000突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Reactions
@@ -813,7 +823,7 @@
 
 ---
 
-### 4. 受付閲覧数13000突破‼︎
+### 5. 受付閲覧数13000突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>えぐsぎ</p>
@@ -828,7 +838,7 @@
 
 ---
 
-### 5. 受付閲覧数12500突破‼︎
+### 6. 受付閲覧数12500突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Additional Information
@@ -837,7 +847,7 @@
 
 ---
 
-### 6. 本部閲覧数7500突破！
+### 7. 本部閲覧数7500突破！
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Additional Information
@@ -846,7 +856,7 @@
 
 ---
 
-### 7. エロ倉庫閲覧数1000突破‼︎
+### 8. エロ倉庫閲覧数1000突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Comments (4)
@@ -861,7 +871,7 @@
 
 ---
 
-### 8. 本部閲覧数6000突破‼︎
+### 9. 本部閲覧数6000突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Additional Information
@@ -870,7 +880,7 @@
 
 ---
 
-### 9. 閲覧数11000突破‼︎
+### 10. 閲覧数11000突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Additional Information
@@ -879,7 +889,7 @@
 
 ---
 
-### 10. 本部閲覧数5000突破‼︎
+### 11. 本部閲覧数5000突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>ｲｲﾈえ！</p>
@@ -897,12 +907,12 @@
 
 ---
 
-### 11. 閲覧数1万突破！！！！！！
+### 12. 閲覧数1万突破！！！！！！
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>えぐいてえええええええ</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1774478054&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Z%2BGqgswKfymFslrVi9%2B%2BR2B5sqduIpP8LM%2BbREKo53vqR0tDQEt7k0B1ixtuzq2J%2FewkUXWK3aK7MiZUdBuwiPSHqah5V80dKCCQmxHM4WENDragUfuiZLu5EV9VC4s1ppY8LCQRE9mu0y8mlwJK5WqGcOZ%2FcPtdaDJeZjyz1xI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4344911992/a4859fa3578fb940fa01a7807e7e54d1/IMG_0510.jpeg?Expires=1774481499&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sJa0FAH7qo%2F4SC47nbJLJGnQrHBR8afGnI6qjiZ68LsoVtNpZ63N%2FixAeByDm3m2mAKp7kEn0519p%2FJGhpwVHjOTAez1As5cT5clmk52G9cNTKnYorUp8ST1T4Etq0kzkJUS2CTwwuIcc3m0pXUhxeGEChgexxZrtTC0nb7bopc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4344911992%2Fa4859fa3578fb940fa01a7807e7e54d1%2FIMG_0510.jpeg)
 
 #### Comments (3)
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Oct 18, 2025 08:27am): うぉぉぉぉ
@@ -919,7 +929,7 @@
 
 ---
 
-### 12. 閲覧数9500突破‼︎
+### 13. 閲覧数9500突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 <p>そろそろ一万‼︎宣伝しまくれ‼︎</p>
@@ -934,7 +944,7 @@
 
 ---
 
-### 13. 閲覧数9000突破‼︎
+### 14. 閲覧数9000突破‼︎
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Reactions
@@ -947,7 +957,7 @@
 
 ---
 
-### 14. 閲覧数8000突破
+### 15. 閲覧数8000突破
 **Author:** とるっぷい#元ウンコマン#エドガー11番弟子#りおと族70代目#ルイ一番弟子 (tori_tori)
 
 #### Reactions
