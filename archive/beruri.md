@@ -1,4 +1,4 @@
-最終更新: 2026/03/18 11:24:34
+最終更新: 2026/03/18 13:57:32
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/BERURI1214/padlet-zsdegt1d6scuq9qa
 - **Builder:** 太古の太鼓~1853 Brainrot (BERURI1214)
-- **Posts:** 71
+- **Posts:** 72
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Mar 09, 2026 08:37am
+- **Updated At (UTC):** Mar 18, 2026 03:11am
 
 ## 管理者&モデの連絡
 
@@ -57,7 +57,19 @@
 
 ---
 
-### 4. ライター受付の改善お知らせ
+### 4. この部屋の作成者べるりは引退したそうです。
+**Author:** お知らせbot (Osirase_Bot)
+
+<p>多分その内この部屋も消えると思います。世話になった人達ありがとうございました。</p><p>今管理者はほぼINFINITYしかいません</p>
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 18, 2026 03:11am
+- **Updated At (UTC):** Mar 18, 2026 03:11am
+
+---
+
+### 5. ライター受付の改善お知らせ
 **Author:** 太古の太鼓~1853 Brainrot (BERURI1214)
 
 <p>申請する事で3日後ライターです。</p><p>この投稿に対しコメントをしても意味がないです</p><p>10月20日以前から申請してた方はもう一度お願いします。</p><p>○○の弟子、○○貢献者などはブラックリストに全員入れる予定です</p><p><br></p><p>このセクションはお知らせだと思っていいです。</p><p>ちなみに大事な投票が終わって投稿が削除された後は誰でも投票をしても構いません。</p><p><br></p>
@@ -88,7 +100,7 @@
 
 <p>GAPG_TIBASA</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1774405473&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VHnQrTI09OBox5%2BxOP3rFUumesoje%2BFHraXkjkPQsvpFkrNSmyIeQMTPTueYubwe4dG8J3%2FmBq0NN%2FkBpczo0Ivx695UtUmo6QVio38gI6iyY6NhhrKVDxVsFD1BUWQh36kq9dOHJNzShwkFe9esVhszmr7PCe%2FfIME6iKEUieI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3927155842/3bb2d667777907c1e3801a7f8a5b5adf/__3_20251105163756.png?Expires=1774414652&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fGHhyHb%2BjmDDUeFSTi5YVosi1otD3VFvucUdfglFqCFcMQSZoAmQHOvo6euWn6SuA4xnPNZvAxZHpQIpKRv20wvQ6P4B6ZgZhZDlUpa4UjX%2BjEduBrmoo9YPtrA3ZJuFKfjRWBEfjQOF4uSxlXOA45CkgnrpkbrUDAsy4%2Bo89us%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3927155842%2F3bb2d667777907c1e3801a7f8a5b5adf%2F__3_20251105163756.png)
 
 #### Additional Information
 - **Post color:** White
