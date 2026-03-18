@@ -348,9 +348,10 @@
     </main>
 
     <script>
-        // URLパラメータから 'board' の値を取得し、パスを構築（パラメータがない場合は 'nyg/main' をデフォルトにする）
-        const urlParams = new URLSearchParams(window.location.search);
-        const boardParam = urlParams.get('board') || 'nyg/main';
+        // URL全体から ?board= または &board= の値を抽出（# が挟まっていても機能します）
+        const match = window.location.href.match(/[?&]board=([^&#]+)/);
+        // 見つかればデコードして使用し、なければデフォルト値を使用
+        const boardParam = match ? decodeURIComponent(match[1]) : 'nyg/main';
         const markdownUrl = `/archive/${boardParam}.md`;
 
         const renderer = new marked.Renderer();
