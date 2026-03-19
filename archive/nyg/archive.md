@@ -1,4 +1,4 @@
-最終更新: 2026/03/16 19:11:28
+最終更新: 2026/03/19 14:59:19
 
 # アーカイブ
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 235
+- **Posts:** 236
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Mar 16, 2026 10:05am
+- **Updated At (UTC):** Mar 19, 2026 05:49am
 
 ## セクション一覧
 
@@ -34,7 +34,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1774260684&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fsP%2BswMTCvtJAf%2F435hPyV0NWu9lNdWeCBilwjqHnV%2FI7fXMxstzEJ4or53FKs7jU1f5fVZdLJsQ0GrbWzmcXudvPVAVqfhsXfOXy91u7b%2F1UxgjfTc8cd5gYMBZC%2BGu1MOZsdLjWj6P2LSRMJmuYXs435rgkPHhfn96vGaFKTc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1774504755&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YGymz%2BmAdoZnolt0AHTXTL0%2FF7Cn0OZIarrUqKYLEm5y1jgB3HsJX8Od2eWdH7XcJfGSGOjdPq%2BBx%2BlHnCVVKFRvtIF%2Fb%2Bvpy9X5xzPdCC9EbjOGJyhgwLDfc2QoOfFW%2FQzBdXcNsFxV5Y%2FKmUrcA6Uge6HnYmWWN8UfFaA9M8g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Comments (2)
 - **アブリ　カルビ** (Mar 11, 2026 04:48am): https://padlet.com/gs211024/padlet-xw8i9fwnxl51b4ia
@@ -89,8 +89,8 @@
 - **バッタ　#煮物貢献者　#煮物14番弟子　#りおと族37代目　#りおと弟子37番目　#そろそろ引退かも** (Feb 12, 2026 09:36am): ｻｲｺｳｯｽﾈ
 - **Charming Falcon** (Feb 13, 2026 10:43pm): きおきおww
 - **ルパン三十八世** (Feb 20, 2026 12:56am): 期待しています
-- **haru🌸** (Feb 20, 2026 09:43am): ぼくのほうは、普通にダウンロードで見れます
-- **Natsu　匡好き！低浮上なるかも** (Feb 21, 2026 12:01pm): ちゃんなぎｗｗｗ
+- **riurw** (Feb 20, 2026 09:43am): ぼくのほうは、普通にダウンロードで見れます
+- **Natsu　学タブ回収中** (Feb 21, 2026 12:01pm): ちゃんなぎｗｗｗ
 - **コスギエイタツ** (Feb 24, 2026 08:04am): がんばれ
 - **こnにちは** (Feb 25, 2026 05:03am): がんばれ！！
 - **はるとねこ** (Mar 09, 2026 07:10am): エラーが起きるー🧐
@@ -254,7 +254,7 @@
 - **Courageous Bat** (Dec 09, 2025 01:37pm): まだ無理だ😭いつ治るか教えてぇぇ
 - **Courageous Bat** (Dec 09, 2025 04:14pm): 😭
 - **削除済みユーザー** (Dec 10, 2025 12:56am): w
-- **haru🌸** (Dec 12, 2025 11:08am): ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
+- **riurw** (Dec 12, 2025 11:08am): ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
 - **nonnon** (Dec 17, 2025 04:32am): もうちょいまってみ
 - **nonnon** (Dec 17, 2025 04:32am): すぐ治るから
 - **nonnon** (Dec 17, 2025 04:33am): とはいえこういうときって一週間くらいかかるんだよね
@@ -296,8 +296,8 @@
 - **oribekedesu** (Nov 28, 2025 06:00am): 楽しみです
 - **メガネ** (Nov 29, 2025 08:39am): ありがとうございます
 - **あおたん　＃低浮上** (Nov 29, 2025 09:51am): わーい
-- **haru🌸** (Nov 29, 2025 11:19am): やった
-- **haru🌸** (Nov 29, 2025 11:19am): yuki見れんけど
+- **riurw** (Nov 29, 2025 11:19am): やった
+- **riurw** (Nov 29, 2025 11:19am): yuki見れんけど
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 29, 2025 11:48am): 観れるよ？
 - **はるとねこ** (Dec 01, 2025 10:48am): アリがトゥース
 - **Honest Llama** (Dec 01, 2025 11:29pm): 12月4にPC全員回収やねんけど涙
@@ -392,7 +392,38 @@
 
 ---
 
-### 2. 閲覧数200,000達成まで
+### 2. 閲覧数250,000達成まで
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+<ul><li><p><strong>250,000達成 - 2026/01/31</strong></p></li><li><p><strong>操作時間4000時間達成 - 2026/01/31</strong></p></li><li><p><strong>訪問者70,000達成 - 2026/01/23</strong></p></li><li><p><strong>240,000達成 - 2026/01/23</strong></p></li><li><p><strong>230,000達成 - 2026/01/14</strong></p></li><li><p><strong>訪問者65,000達成 - 2025/12/29</strong></p></li><li><p><strong>220,000達成 - 2025/12/27</strong></p></li><li><p><strong>操作時間3500時間達成 - 2025/12/27</strong></p></li><li><p><strong>210,000達成 - 2025/12/15</strong></p></li></ul>
+
+#### Comments (13)
+- **nonnon** (Dec 17, 2025 04:31am): がんばってください
+- **Anonymous** (Dec 17, 2025 04:58am): マジでがんば
+- **Anonymous** (Dec 19, 2025 07:05am): 頑張れー〜〜〜〜
+- **JIJI** (Dec 23, 2025 01:37pm): がんば
+- **Anonymous** (Jan 08, 2026 12:34am): がんばーれー
+- **hana** (Jan 20, 2026 01:50am): 目標までもうすこし
+- **Excited Lion** (Jan 26, 2026 01:37am): そっしー
+- **Unique Boar** (Jan 26, 2026 01:38am): はげ
+- **Anonymous** (Jan 28, 2026 11:11am): 頑張ってね！
+- **削除済みユーザー** (Feb 01, 2026 08:29am): おめでとう
+- **RX034** (Feb 11, 2026 09:28am): これからも頑張ってくだせえ
+- **はるとねこ** (Mar 09, 2026 07:11am): がんばれー
+- **ネオンテトラ** (Mar 10, 2026 10:47pm): あと少しだねガンバレ～
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 8
+
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** Dec 15, 2025 01:57pm
+- **Updated At (UTC):** Mar 19, 2026 05:49am
+
+---
+
+### 3. 閲覧数200,000達成まで
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><strong>200,000達成 - 2025/12/03</strong></p></li><li><p><strong>訪問者60,000達成 - 2025/12/03</strong></p></li><li><p><strong>190,000達成 - 2025/11/22</strong></p></li><li><p><strong>操作時間3,000時間達成 - 2025/11/21</strong></p></li><li><p><strong>180,000達成 - 2025/11/12</strong></p></li><li><p><strong>訪問者55,000達成 - 2025/11/12</strong></p></li><li><p><strong>170,000達成 - 2025/11/04</strong></p></li><li><p><strong>160,000達成 - 2025/10/27</strong></p></li><li><p><strong>訪問者50,000達成 - 2025/10/26</strong></p></li><li><p><strong>操作時間2,500時間達成 - 2025/10/26</strong></p></li></ul>
@@ -400,7 +431,7 @@
 #### Comments (18)
 - **夢見る少女じゃいられない** (Oct 20, 2025 12:57pm): エグ！
 - **はるとねこ** (Oct 21, 2025 10:38pm): egg
-- **haru🌸** (Oct 24, 2025 09:37am): 恐怖症できょう負傷
+- **riurw** (Oct 24, 2025 09:37am): 恐怖症できょう負傷
 - **Clever Urchin** (Oct 26, 2025 11:58pm): サボテンって仕事サボってん？
 - **Hopeful Anchovy** (Nov 14, 2025 10:50pm): いいズラ買ったて言いづらかった
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 15, 2025 12:10pm): なんでダジャレ大会開催されてんだよｗ
@@ -428,7 +459,7 @@
 
 ---
 
-### 3. 閲覧数150,000達成まで
+### 4. 閲覧数150,000達成まで
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><strong>150,000達成 - 2025/10/20</strong></p></li><li><p><strong>140,000達成 - 2025/10/11</strong></p></li><li><p><strong>訪問者数45,000達成 - 2025/10/08</strong></p></li><li><p><strong>130,000達成 - 2025/10/03</strong></p></li><li><p><strong>操作時間2,000時間達成 - 2025/10/02</strong></p></li><li><p><strong>120,000達成 - 2025/09/29</strong></p></li><li><p><strong>訪問者40,000達成 - 2025/09/26</strong></p></li><li><p><strong>110,000達成 - 2025/09/22</strong></p></li><li><p><strong>訪問者35,000達成 - 2025/09/14</strong></p></li></ul>
@@ -467,7 +498,7 @@
 
 ---
 
-### 4. ㊗️ 閲覧数100,000達成！(2025/09/14)
+### 5. ㊗️ 閲覧数100,000達成！(2025/09/14)
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>おかげさまで、このPadletは閲覧数100,000を達成しました！これまでに訪れてくださった34,863人の皆様、一人ひとりのご訪問に深く感謝しています。</p><p><br/></p><p>皆様の応援や関心があったからこそ、この場所は成長を続け、ここまで来ることができました。これからも、もっと多くの方々と役立つ情報やプロキシを共有できるよう努力していきますので、引き続きよろしくお願いします。</p><p><br/></p><p>本当にありがとうございます！</p><p><br/></p><p>※5月に10,000を達成してから4か月で100,000まで伸びました</p>
@@ -489,7 +520,7 @@
 
 ---
 
-### 5. 閲覧数100,000達成まで
+### 6. 閲覧数100,000達成まで
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><strong>90,000達成 - 2025/09/05</strong></p></li><li><p><strong>操作時間1,500時間達成 - 2025/09/04</strong></p></li><li><p><strong>訪問者30,000達成 - 2025/09/03</strong></p></li><li><p><strong>80,000達成 - 2025/08/28</strong></p></li></ul>
@@ -511,7 +542,7 @@
 
 ---
 
-### 6. 閲覧数80,000達成まで
+### 7. 閲覧数80,000達成まで
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><strong>訪問者25,000達成 - 2025/08/12</strong></p></li><li><p><strong>70,000達成 - 2025/08/09</strong></p></li><li><p><strong>60,000達成 - 2025/07/20</strong></p></li><li><p><strong>訪問者20,000達成 - 2025/07/16</strong></p></li><li><p><strong>50,000達成 - 2025/07/07</strong></p></li></ul>
@@ -534,7 +565,7 @@
 
 ---
 
-### 7. ㊗️ 閲覧数40,000達成！(2025/6/24)
+### 8. ㊗️ 閲覧数40,000達成！(2025/6/24)
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 #### Comments (4)
@@ -554,7 +585,7 @@
 
 ---
 
-### 8. ㊗️ 閲覧数30,000達成！ (2025/6/13)
+### 9. ㊗️ 閲覧数30,000達成！ (2025/6/13)
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <p>なんと、閲覧数20,000を達成してから15日で30,000達成してしまいました！！</p><p>10,000達成してからのペースがハンパないことになってます。</p><p>これからも管理者一同頑張っていくのでよろしくお願いします！</p>
@@ -580,7 +611,7 @@
 
 ---
 
-### 9. ㊗️ 閲覧数20,000達成！(2025/5/29)
+### 10. ㊗️ 閲覧数20,000達成！(2025/5/29)
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <p>閲覧数10,000を達成してからたった24日で20,000を達成しました！！！まじでびっくりしてます...</p><p>この調子でこれからもボードの改善やプロキシの追加等管理者一同頑張ってまいりますのでよろしくお願いします！！！</p>
@@ -601,7 +632,7 @@
 
 ---
 
-### 10. ㊗️ 閲覧数10,000達成🎉 (2025/05/05)
+### 11. ㊗️ 閲覧数10,000達成🎉 (2025/05/05)
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <p>この部屋が作られてからまだ1年も経っていないのに、閲覧数が10,000を超えました！！みなさんありがとうございます！これからも、みなさまの学校PC生活を豊かにするべく、プロキシをどんどんあげていきますのでこれからの利用もお願いいたします！</p><p><br></p><p>管理者より</p>
@@ -1047,7 +1078,7 @@
 
 <p>自分の中学にこのQRコードを送ってしまい、更に相手にオーネー権限が移ってしまいました</p><p>このアカウントは使われているのでしょうか？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1774260684&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JUTnz8ujyiPjCylK%2FqLe%2Bpl3rnnFIxmNR0%2BizVgu0hjOq08m9VlTSsPM%2FCYr6E9yXbhmyRdmZ9hTxBEi0p8AYcLeQk7olpgetg28exPFvmmiWOsSapkxoDssfGX1qHQPm6YjP0rgIi5wxt9cCwx%2BDyx64zm0POG2s4z14KY0ixU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1774504756&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CCB%2FkErNGScbAn6K6jlNkNWHaRn%2FZHeXekUgvRRp52OqmfSlLuuYkqRy89wVohECy1De%2FUY0PfcMPjDc%2BqXDb4IcfsBPPNfttU2ye%2FtxYUulRLGyZGLIk1BParkBBi57kn1f%2FjicL49arnBbpOOAA585g1RnD%2BQAWl4NyjPq0f0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
 
 #### Comments (12)
 - **πr²** (Jan 23, 2026 02:26am): オーナー権限です
@@ -1224,7 +1255,7 @@
 ### 24. 俺が全然浮上しなかったのも悪いんだけど俺の部屋の管理者がこいつらだけになってました
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1774260684&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nzcWlwMIDKJshitKJsvYnlNWR9Ul7Q88%2FbjsHpibpWu6taAcGjkL8LwSGJ7Vzr49418LJnkM%2BBfEawc6yLhWnkFSdLVaVWMKv265ur%2Buj2Ke1u25V%2FwTu10DViWUI%2F9QQ5PJa8KBpq0kl%2FJ1GHXrF7i3H0BXF7wX3oIOvORGdlY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1774504756&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hqc5kAt%2FBoiAcuyNRcsI9QJqjVj%2F5dbMF1NZiV7HLAF9nVdRFUuCXfgeazRt1xcWKuZzUQkSxyfI89YXUuiEQRkqWcTc6HTLL7K1T5RpUWL2isrMGNsj0k8sMd717S1WG1UNGET8ZoHlK%2FEap6El6jyNxtsRlSw%2BAnjkhWY9Ipc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ローマンピアースのスマホ垢本物** (Jan 15, 2026 11:50am): 誰か助けてくれ、、
@@ -1832,8 +1863,8 @@
 <p>時間かかるかもしれんけど、わかめなど改造して下旬でも使えるサイト作ろうとおもってましゅー</p>
 
 #### Comments (7)
-- **haru🌸** (Dec 16, 2025 03:08am): 間近
-- **haru🌸** (Dec 16, 2025 03:09am): まじか
+- **riurw** (Dec 16, 2025 03:08am): 間近
+- **riurw** (Dec 16, 2025 03:09am): まじか
 - **削除済みユーザー** (Dec 16, 2025 05:47am): 下旬？
 - **Massa_games216** (Dec 16, 2025 01:35pm): ないす
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Dec 17, 2025 12:21am): まあいつできるかわからないけど(こっちはこっちで受験がある)
@@ -1848,15 +1879,15 @@
 ---
 
 ### 61. toka_kunさんいます？
-**Author:** haru🌸 (r0305544)
+**Author:** riurw (r0305544)
 
 <p>ラグすぎて学校から、3GB超えたから学校から怒られた！</p><p><br></p>
 
 #### Comments (8)
-- **haru🌸** (Dec 16, 2025 03:15am): ロードしてる時がラグい
+- **riurw** (Dec 16, 2025 03:15am): ロードしてる時がラグい
 - **削除済みユーザー** (Dec 16, 2025 04:20am): なぜ怒られる？
-- **haru🌸** (Dec 16, 2025 05:15am): わからん
-- **haru🌸** (Dec 16, 2025 05:16am): 東京都はそうゆう制限かかかってるっぽい
+- **riurw** (Dec 16, 2025 05:15am): わからん
+- **riurw** (Dec 16, 2025 05:16am): 東京都はそうゆう制限かかかってるっぽい
 - **πr²** (Dec 17, 2025 12:29am): ワタシTOKYOトミンデスガソンなノアリマセン（地域によって違う）
 - **πr²** (Dec 17, 2025 08:01am): ちなみに23区内に住んでます
 - **削除済みユーザー** (Dec 17, 2025 11:11pm): (・∀・)ｲｲﾈ!!
@@ -1957,7 +1988,7 @@
 #### Comments (4)
 - **垢移行したいっつぽー** (Dec 10, 2025 06:17am): www
 - **Massa_games216** (Dec 10, 2025 08:56am): w
-- **haru🌸** (Dec 11, 2025 05:54am): ｗ
+- **riurw** (Dec 11, 2025 05:54am): ｗ
 - **削除済みユーザー** (Dec 18, 2025 01:15am): ｗｗ
 
 #### Additional Information
@@ -1975,7 +2006,7 @@
 #### Comments (3)
 - **削除済みユーザー** (Dec 06, 2025 07:42am): いえい
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Dec 09, 2025 04:51am): あああああああああああああああああああああじかんんんんがあああああああたりないいいいいいいいい
-- **haru🌸** (Dec 16, 2025 05:23am): ナイス
+- **riurw** (Dec 16, 2025 05:23am): ナイス
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -2028,10 +2059,10 @@
 <p>お・わ・た☆</p>
 
 #### Comments (4)
-- **長路大河** (Dec 07, 2025 02:19pm): どんまい
+- **チハたん** (Dec 07, 2025 02:19pm): どんまい
 - **とりあえず。** (Dec 07, 2025 10:39pm): されてない！☆（（（殴
 - **RX034** (Dec 11, 2025 08:48am): 俺もだあああああああああ
-- **haru🌸** (Dec 11, 2025 08:57am): 俺もー
+- **riurw** (Dec 11, 2025 08:57am): 俺もー
 
 #### Additional Information
 - **Post color:** White
@@ -3153,13 +3184,13 @@
 
 #### Comments (8)
 - **masdesuyo** (Feb 07, 2026 05:09am): なってたけど治った
-- **あ** (Feb 14, 2026 07:33am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/1xkVaqGXPlyLZl0e) 私の学タブはスクラッチ開こうとしてもずっと左上でぐるぐるしてなんも出てこん…
-- **あ** (Feb 14, 2026 07:33am): これ治せたりするん？
-- **あ** (Feb 14, 2026 07:34am): 一回学タブ新しい種類に変わったけどそれでも治らんかったんよなぁこれ
+- **あ@低浮** (Feb 14, 2026 07:33am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/1xkVaqGXPlyLZl0e) 私の学タブはスクラッチ開こうとしてもずっと左上でぐるぐるしてなんも出てこん…
+- **あ@低浮** (Feb 14, 2026 07:33am): これ治せたりするん？
+- **あ@低浮** (Feb 14, 2026 07:34am): 一回学タブ新しい種類に変わったけどそれでも治らんかったんよなぁこれ
 - **とりあえず。** (Feb 15, 2026 11:05am): へぇ〜...う〜ん...これでやってみたら？https://rammer.nana.majoitus.ee/
-- **あ** (Feb 15, 2026 11:07am): ↑ブロられる🤔
+- **あ@低浮** (Feb 15, 2026 11:07am): ↑ブロられる🤔
 - **とりあえず。** (Feb 16, 2026 04:33am): ブロか...
-- **あ** (Feb 18, 2026 01:47am): ブロやね〜
+- **あ@低浮** (Feb 18, 2026 01:47am): ブロやね〜
 
 #### Additional Information
 - **Post color:** White
@@ -3196,7 +3227,7 @@
 ### 8. アプリをダウンロードする方法教えて下さい　こうなる↓
 **Author:** 水原二平 (r02s14030)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1774260686&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NBLKqp0uFCDTMXE4Z4xp8PSg6bsyHQusNG7sUu7F2SZ%2FGt9glZPp12X8miDqRRgiI67Oz8lDsSnr92quIapss48Db%2FgUvFPN%2BULkKIboINvFwqNtIa0Oc93jV7nXoLoHdA394%2BBnBmlAv9bdw3zzPGg1vMqo3WssGuLgs6r6SXs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1774504757&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zLSOC9aERLvwUkR2LBzNpOpu%2F4surFJgTjcIaJ0ar2BJYejhfNwvP8E8xuNd4%2BTgqmFkzB%2BJJaBso2IUxdfsgaMJtOK10%2BdzECJyukGZrMwe7dcHtkVv1zaprmjeWh2qZcVxO3ztkSfLCp1%2BsJx8MuaP15Qmo9hyas%2B6xP2%2Bde8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
 
 #### Comments (4)
 - **かから** (Jan 27, 2026 10:26am): Chromebookだったらhttps://chrome.google.com/webstore?utm_source=app-launcher
@@ -3597,7 +3628,7 @@
 
 #### Comments (8)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 09, 2025 12:45am): Renderみたいにやれば良いよ
-- **haru🌸** (Nov 09, 2025 03:42am): https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/4590150531/dbd99899e867135c783b4f76a7a2ed76/_________1__copy1.gif?token=8T1OLdr_uhZODHisc7N3BIYiU0G9wo1BWi5Zf4sJnyp0jcF00rVie9wH7peG8pWm60sIqDp7zpZFigbzrdIbKFyi4wcUAs2pSW7TRwWva4w_zWMs76WJCY0pvJXRjLab2s-4PJJHkrLvpogBrn7qPwghmOZOAUoQ9tPgv5Sdj2_6FKYUv7Z2lnT3bmS_eL77ZM5j-2jvQv_vtSHwvpyr-ZWgioaWRLnbotvPoiJMMiIzRlRhnI-hgZFBeB-9ivLN
+- **riurw** (Nov 09, 2025 03:42am): https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/4590150531/dbd99899e867135c783b4f76a7a2ed76/_________1__copy1.gif?token=8T1OLdr_uhZODHisc7N3BIYiU0G9wo1BWi5Zf4sJnyp0jcF00rVie9wH7peG8pWm60sIqDp7zpZFigbzrdIbKFyi4wcUAs2pSW7TRwWva4w_zWMs76WJCY0pvJXRjLab2s-4PJJHkrLvpogBrn7qPwghmOZOAUoQ9tPgv5Sdj2_6FKYUv7Z2lnT3bmS_eL77ZM5j-2jvQv_vtSHwvpyr-ZWgioaWRLnbotvPoiJMMiIzRlRhnI-hgZFBeB-9ivLN
 - **タイピングを極めたい** (Nov 09, 2025 10:14pm): ？
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Nov 12, 2025 11:57pm): 主さんこれ私動画作った方がええ感じ？
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 13, 2025 02:02pm): お願い
@@ -3631,7 +3662,7 @@
 
 **投稿の種類:** フィルターに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1774260686&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GFC6soU4XXCFYw%2Bl1VE8a3EBNeXd6oDJqypMQXjeG3TIC8n8QZlouoppxJHcs3HVww2ARU9IKUsB5yzlF32qOP5nXigVqAiuUfkkNMpRwjSm0Ls6vF071WxWlAGwtRmkZ%2Ba1vvIsLoGKrP8%2F%2BceWd2fuDCi%2FXR546K7ciOA7csU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1774504757&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iuJg8lAZrXnZ4%2BK6DUbr8r2mwhuMsbRJ7Pxw%2BPXz4TjeNuPdPBgPHR2CxbkNaE4g1yC2gj3TGPUI2j519ssQ7z38rNyVRqUHkz00Uzfe86xze15c28Qd%2FPrvob5iwVFDNp60J0SGUvUlsxR8cn1trwt8vpRcSTAF0Xx2C7pZjGs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -3908,7 +3939,7 @@
 
 <p>先ほどゲームをしてるとフリーズしてしまって、再起動するとフィルタリングが更新されており、さっきまで使えていたサイトが使えなくなってしまいました。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1774260687&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xjNvSuhAWkljLu0svUKuWkml7pQaVp7XII95ZKoONibsdy0%2B6E8liRdaqQyYrbfZuUGW35I40vJzns08LFuonEzhkquM6FYZdGf6%2B9RIQ2leNSWi%2FuxDueZ8yrfAvKPZeG4aUre8FLlHGIPJcOMX04eOTVYmzUxHSox0gqjt0CE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1774504758&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=U3%2Bf4BeeZzEVgle%2FziK%2B%2FwszI2ZfJnoDxWTZThVAhkSuzdQ5jntlUzkYPmziV8LIZ5n%2FyhgZYJdcRPBu76umqyQuait%2BiULoDgGHJp3rB%2FyO2CdUjxPqf9LMAIP3tuziZ3JQDkUPd3AE9IAJl7gu8kEsaGhJ20alRexphnQB%2B%2Bs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **削除済みユーザー** (Dec 21, 2025 05:06am): 俺も金曜日そんな感じになった
@@ -3934,11 +3965,11 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1774260687&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=38f1tFZ%2BP%2FIVTleKTOVEMS4F%2F4u9DFtK5E9PW1502N3dF7o51idToIIZGi8zhQqu9yeZ0E6C3OAOY1C%2BfgUEaSFKd4BdtfRebmixULVmFc372lQS3y5z2meRv6w7GbtRrUhUhcIsQ%2F5t8sAJGfoPW6VENDQIiY1Ye6HTJFFqlc0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1774504758&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QFgX7dJH%2F3Q8%2B7JEg8%2BjDc6YyDEXum9Yp5ixVH1JR0CvRUhuIOz8pn51%2B0KhFVX%2F3cEcYrNVCQJZV9V285jTVmyWkWshJ2kq3GtIgS2bpssHuHyzHINlAYeAB9wr%2BhlJ%2Fk%2BMMIxZg4WFNqfUbJQ%2BNNpAKOM5%2FYyD1GBi2IlKBgY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **πr²** (Nov 09, 2025 08:31am): フィルタリングルールの更新日時とか書いてあった
-- **haru🌸** (Nov 10, 2025 05:00am): どうやって行った？
+- **riurw** (Nov 10, 2025 05:00am): どうやって行った？
 - **Honest Dolphin** (Nov 11, 2025 05:06am): 住んでる区出てるよ
 - **πr²** (Nov 16, 2025 12:08pm): まあダイジョブでしょ
 - **πr²** (Nov 16, 2025 12:08pm): もうネット上に無数にあるし
@@ -3965,9 +3996,9 @@
 - **Massa_games216** (Dec 12, 2025 10:34am): >>ラグのやり方教えてください
 - **Massa_games216** (Dec 12, 2025 10:34am): 自分試したけど無効だった
 - **Massa_games216** (Dec 12, 2025 10:35am): プロキシしか成功例がない
-- **haru🌸** (Dec 12, 2025 11:09am): これhttps://padlet-artifacts.storage.googleapis.com/8c01cf9d56f0f88af06e5eb71fdba2173fadd860/17797487722a91a2792a3cec549fb426-h-e53a2b3b60a3202ea9e1a58d031395e1.gif
-- **haru🌸** (Dec 12, 2025 11:10am): リンクコピーシてこれをいっぱいやれば部屋作ってやばいほど貼りまくれば良い
-- **haru🌸** (Dec 12, 2025 11:10am): GBは余裕で行く
+- **riurw** (Dec 12, 2025 11:09am): これhttps://padlet-artifacts.storage.googleapis.com/8c01cf9d56f0f88af06e5eb71fdba2173fadd860/17797487722a91a2792a3cec549fb426-h-e53a2b3b60a3202ea9e1a58d031395e1.gif
+- **riurw** (Dec 12, 2025 11:10am): リンクコピーシてこれをいっぱいやれば部屋作ってやばいほど貼りまくれば良い
+- **riurw** (Dec 12, 2025 11:10am): GBは余裕で行く
 - **削除済みユーザー** (Dec 14, 2025 05:37am): ①デスクとウィンドウは1つだけ残してすべて閉じる②規制の拡張機能をピン留めする②.5わざと規制されるサイトを一つだけ出す③10個のサイトを登録してあるブックマークを作る(規制されないサイトで)④ctrl＋rを連打しながら作ったブックマークを㉞回連打する⑤重くなってしばらく操作できなくなるから、10分〜20分、タブがすべて読み込まれるまで待つ⑥ピン留めした規制が消えたら成功。 読み込み終わってピン留めした拡張機能が消えてなかったら連打する回数を2回ずつ増やす。読み込む途中でPCが落ちたら減らす。
 - **削除済みユーザー** (Dec 14, 2025 05:37am): らしいです
 - **πr²** (Dec 14, 2025 11:51pm): あざす
@@ -4026,7 +4057,7 @@
 <p>開発者向けのプロキシw</p><p>コード内で使うやつ</p>
 
 #### Comments (10)
-- **haru🌸** (Nov 16, 2025 09:31pm): うん
+- **riurw** (Nov 16, 2025 09:31pm): うん
 - **削除済みユーザー** (Nov 17, 2025 09:07am): ww
 - **はるとねこ** (Nov 18, 2025 11:01am): 🤝
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 20, 2025 11:05pm): URLってこと？
@@ -4959,7 +4990,7 @@
 
 #### Comments (2)
 - **おすし** (Sep 14, 2025 08:36am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/YBl3Z2xRGJ03av16) もういってるう
-- **haru🌸** (Oct 22, 2025 11:46am): どうやって見る？
+- **riurw** (Oct 22, 2025 11:46am): どうやって見る？
 
 #### Reactions
 - **Average star rating:** 5.0
