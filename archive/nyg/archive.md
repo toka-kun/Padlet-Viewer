@@ -1,4 +1,4 @@
-最終更新: 2026/03/19 14:59:19
+最終更新: 2026/03/19 19:41:38
 
 # アーカイブ
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 236
+- **Posts:** 237
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Mar 19, 2026 05:49am
+- **Updated At (UTC):** Mar 19, 2026 10:12am
 
 ## セクション一覧
 
@@ -34,7 +34,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1774504755&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YGymz%2BmAdoZnolt0AHTXTL0%2FF7Cn0OZIarrUqKYLEm5y1jgB3HsJX8Od2eWdH7XcJfGSGOjdPq%2BBx%2BlHnCVVKFRvtIF%2Fb%2Bvpy9X5xzPdCC9EbjOGJyhgwLDfc2QoOfFW%2FQzBdXcNsFxV5Y%2FKmUrcA6Uge6HnYmWWN8UfFaA9M8g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1774521694&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yqzlHdHpRdgz%2Fquvei8122Miw92dU8puMSF2pf3vEv3PyVKaSaVHvVfHzNoBRiYhVyphczd6QWdIfS18jJ8RAXIx0z7ZyzYsBGYjfAbC0GMMlx%2FMSJbDmSLtaCvlYuZdsfa9GiXdOVABFhV6uAErGZRup%2FAyfVPJaOkznHymE5M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Comments (2)
 - **アブリ　カルビ** (Mar 11, 2026 04:48am): https://padlet.com/gs211024/padlet-xw8i9fwnxl51b4ia
@@ -71,7 +71,97 @@
 
 ---
 
-### 2. しあtubeが今不具合を起こしているらしい
+### 2. わかめtubeを超強化しました！
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+<p><strong>これでもまだ開発途中ですが一旦テストリンクを配布します。</strong></p><p><br></p><p><strong>それに合わせ、改造版わかめtubeをわかめtube Plusに改名しました！</strong></p>
+
+[current-ania-tokakun-68f97588.koyeb.app/](https://current-ania-tokakun-68f97588.koyeb.app/)
+
+#### Comments (70)
+- **ほ̴͚͕̠͗̿̊͆̾͜͞そ҈̢͈̫̗̭̖̽̀͡か̷̢̛͓͕͈̜̯̇͐̈́わ̶͙͚̬͆̀͋̓̕͜せ̶̧̬̙̍́͝い҈̙̞̜̟̩͗̏̀͢͡や̷͍̝͇͆̅͛͋͜͝ ҉̠̞̽̌̄̚͢͝             低浮上！** (Mar 07, 2026 04:24am): 超！？
+- **yuto_110** (Mar 07, 2026 04:47am): 先生どうやったらkoyebでデプロイできたんでしょうか？俺がやると作った瞬間垢バンされちゃう()
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 04:47am): ew
+- **カービィ** (Mar 07, 2026 04:47am): 風呂された
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 04:47am): ドメインブロックかな？
+- **カービィ** (Mar 07, 2026 04:47am): i-filetr
+- **カービィ** (Mar 07, 2026 04:48am): スペル違うかも
+- **カービィ** (Mar 07, 2026 04:48am): わからん
+- **ほ̴͚͕̠͗̿̊͆̾͜͞そ҈̢͈̫̗̭̖̽̀͡か̷̢̛͓͕͈̜̯̇͐̈́わ̶͙͚̬͆̀͋̓̕͜せ̶̧̬̙̍́͝い҈̙̞̜̟̩͗̏̀͢͡や̷͍̝͇͆̅͛͋͜͝ ҉̠̞̽̌̄̚͢͝             低浮上！** (Mar 07, 2026 09:18am): 接続の安全性が確認できていない、または危険な可能性のあるWebサイトのため 「i-FILTER@Cloud」によりブロックされました。ってなる
+- **woolisbest** (Mar 07, 2026 11:04am): 重いねぇ
+- **woolisbest** (Mar 07, 2026 11:04am): あれ・
+- **woolisbest** (Mar 07, 2026 11:04am): yudlpじゃなくてytdlpだよな....
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 12:09pm): ゆずさんの勝手につかってるからyudlp
+- **亜空カン_JANLINE** (Mar 07, 2026 12:40pm): 朝は開けたのにさっき開いたらブロックされてた（）
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 12:47pm): あの最近、久しぶりに昔から使ってたわかめtube開いたら名前がわかめtube Plusになっててわかめ実はこんなに進化したんだな..と思ってたらそこについてるプロキシツールが普通に開けなかった()
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 12:50pm): リンクどれ？w
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 12:59pm): え、あれ？なんかそれを開いたらエラー起きてう、まじで？！？！え？！試しに使ったのが1~2日前なのに
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 01:00pm): Railway?
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 01:01pm): そのわかめが数日後に（今日）Not Foundになってしまった
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 01:01pm): ああ
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 01:01pm): それクレジット使い切ってもうてんw
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 01:04pm): う、いつの間にか〜
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 01:04pm): あと17日待って
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 01:04pm): そういう感じなんだ（
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 01:05pm): ってかあれまだ使えてたんかよ
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 01:06pm): nana様のやつまだ一部はいけてるよ。多分そのわかめの名前がわかめ plusになってたww
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 01:11pm): www
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 01:11pm): トレンドページ見てみて
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 01:11pm): 感想please
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 01:13pm): トレンドページってどこ
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 01:14pm): ホーム画面の右上にボタンあるよ
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 01:14pm): ライブ配信の上位がほとんどWBCやw
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 01:15pm): あれ、どのボタン？
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 01:16pm): ⚙️設定 📈トレンド 再生履歴 お気に入り ℹ️ヘルプって並んでるよ
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 01:18pm): パドレット公式のとこ？設定でトレンド 再生 お気に入りってでてこない。個々の右上の設定はない()
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2026 01:19pm): わかめの話やで
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 01:19pm): あ、わかった
+- **入れ子＿構造** (Mar 07, 2026 01:35pm): ブロです
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 01:45pm): ライブ配信なんか見れるんだ
+- **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 07, 2026 05:53pm): ブロ
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 05:56pm): ねないの？てか、時間帯制限ないんだ
+- **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 07, 2026 06:02pm): ｗｗ
+- **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 07, 2026 06:02pm): ないんですよ
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 06:55pm): がちか
+- **入れ子＿構造** (Mar 08, 2026 05:25am): vercelデプロイしたら見れた！
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 08, 2026 06:46am): ていうかわかめの中のプロキシツールがブログの取得にいつも失敗してるんだけど助けて
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 08, 2026 07:38am): ホスティングでブロックされた
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 08, 2026 07:49am): わかめのプロキシはもう無理やで
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 08, 2026 07:49am): Plusで復活させる予定
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 08, 2026 07:52am): おお
+- **Bold Iguana** (Mar 08, 2026 08:44am): i-フィルターブロックです
+- **⸝⋆༼♆𝒛𝒊𝒕𝒆𝒏𝒏𝒔𝒚𝒂𝒏𝒐𝒓𝒊♃ ༽⋆⸜高浮上か、、も？** (Mar 08, 2026 12:09pm): ↑に同じく
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 08, 2026 04:46pm): （いつも関連動画がなぜか出てきません）
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 08, 2026 10:44pm): サーバー変えてみ
+- **床ぺろタイミーさん** (Mar 08, 2026 11:26pm): ブロ　_:(´ཀ`」 ∠):
+- **さる** (Mar 09, 2026 04:26am): 風呂
+- **はるとねこ** (Mar 09, 2026 07:10am): エラーが起きますですー
+- **あ０００００** (Mar 09, 2026 07:44am): ぶろ
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 09, 2026 10:17am): サーバー全て試しても関連動画出てきたのは一つもありませんでした
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 09, 2026 10:59am): それはまだ復活できてない
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 11, 2026 12:33pm): I-フィルターは、しあtube見れないけど動画をダウンロードして見れるのかな
+- **レッド** (Mar 13, 2026 01:01am): ブロックされた…
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 13, 2026 07:44am): わかめtubeやしあtubeでライブ配信(検索して自由に)見る方法ってどうやってやりますか？
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 13, 2026 07:50am): わかめtubeでライブを検索したらできないし、しあtubeでライブのとこないからチャンネル入ってもライブのとこないし
+- **Creative Mongoose** (Mar 15, 2026 11:59pm): Nyrikx-Tokuyoに質問です！僕は明石市に住んでてI-filter勢なんですけど動画をダウンロードってところから入ろうとすると「インターネットに接続できません」って出てきます… 見る方法とかありますか？
+- **ぜあああああ** (Mar 16, 2026 02:08am): わかめチューブブロックされた
+- **暇人　#ガチ目の低浮上** (Mar 16, 2026 02:10am): 普通にブロられて泣く
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 16, 2026 09:10am): 多分そういう設定だと思うよ。仕方ない
+- **Creative mongoose** (Mar 16, 2026 10:39pm): 教えてくれてありがとうございます
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 17, 2026 09:56am): いやあの、プロキシの作成者がやったやつじゃないと思うよっていう意味。私の方ではダウンロードできる
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 3
+
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** Mar 07, 2026 04:11am
+- **Updated At (UTC):** Mar 19, 2026 10:12am
+
+---
+
+### 3. しあtubeが今不具合を起こしているらしい
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>YouTubeサイトいろいろ更新してます。</strong></p><p><br></p><p><strong>僕の改造版わかめtubeの次の更新は3月を予定しています。めっちゃ強化するのでお楽しみに！</strong></p><p><br></p><p><strong>2026/02/14追記: 代替ビュアーがもっと改善できそうやからそれも3月にやります。</strong></p><p><br></p><p><strong>2026/01/19追記: YouTubeを更新しました。</strong></p>
@@ -112,7 +202,7 @@
 
 ---
 
-### 3. チョコtube追加
+### 4. チョコtube追加
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>他のYouTubeサイトも更新しています。 </strong></p><p><br></p><p><strong>2026/01/26追記: YouTubeサイトを更新しました。</strong></p>
@@ -137,7 +227,7 @@
 
 ---
 
-### 4. あけましておめでとうございます！
+### 5. あけましておめでとうございます！
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <p>遅くなりましたが、あけましておめでとうございます。2026年もどうぞよろしくお願いいたします。</p><p><br></p><p><strong>2026/01/04追記: 結構いろいろ更新してるよ</strong></p>
@@ -175,7 +265,7 @@
 
 ---
 
-### 5. エドガー部屋と年越しイベントを共同開催中！詳細はこちらへ↓
+### 6. エドガー部屋と年越しイベントを共同開催中！詳細はこちらへ↓
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>気になる方は今すぐ参加しましょう！</strong></p><ul><li><p><strong><mark>マイクラ鯖＆ミート</mark></strong>あり</p></li><li><p><strong><mark>景品付きの謎解き</mark></strong>に参加できる</p></li><li><p>イベント限定で<strong><mark>プロキシとYouTube配布</mark></strong>あり</p></li><li><p>誰でもイベントを出展可能</p></li></ul>
@@ -197,7 +287,7 @@
 
 ---
 
-### 6. i-FILTER民のために代替ビュアーを作成しました。
+### 7. i-FILTER民のために代替ビュアーを作成しました。
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/x871d592e">https://html.cafe/x871d592e</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet-viewer.pages.dev/">https://padlet-viewer.pages.dev/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet-viewer.smooth.ytalt.f5.si/">https://padlet-viewer.smooth.ytalt.f5.si/</a></p></li></ul>
@@ -230,7 +320,7 @@
 
 ---
 
-### 7. YouTubeは更新済み
+### 8. YouTubeは更新済み
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>あとはプロキシを少し</strong></p><p><br></p><p><strong>2025/12/09追記: 僕の改造版わかめでトレンドを復活させました。</strong></p><p><br></p><p><strong>2025/12/14追記: YouTubeを更新</strong></p><p><br></p><p><strong>2025/12/20追記: YouTubeを更新</strong></p>
@@ -274,7 +364,7 @@
 
 ---
 
-### 8. 12月5日に一気に更新します。
+### 9. 12月5日に一気に更新します。
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>それまでは雑談のとこでYuki+とかあげるから待ってくれ</p><p><br></p><p>あと伸びが悪くなってモチベーションが下がってきたからできればこの部屋を宣伝して欲しい</p>
@@ -327,7 +417,7 @@
 
 ---
 
-### 9. Yuki YouTube+がEdu再生に対応しました。
+### 10. Yuki YouTube+がEdu再生に対応しました。
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [https://padlet.com/Toka_Kun_/breakout-room/961rqR90AwOd2nND-oAdpz24dgkRJv10R](https://padlet.com/Toka_Kun_/breakout-room/961rqR90AwOd2nND-oAdpz24dgkRJv10R)
@@ -352,7 +442,7 @@
 
 ---
 
-### 10. 一周年！
+### 11. 一周年！
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <p>ちょっとだけ遅れたのですが、ここのボードは2025年8月21日に一周年を迎えました！</p><p>この１年沢山の方に使っていただいてとても感謝しております。２年目もどうぞよろしくお願いします。</p>
@@ -1078,7 +1168,7 @@
 
 <p>自分の中学にこのQRコードを送ってしまい、更に相手にオーネー権限が移ってしまいました</p><p>このアカウントは使われているのでしょうか？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1774504756&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CCB%2FkErNGScbAn6K6jlNkNWHaRn%2FZHeXekUgvRRp52OqmfSlLuuYkqRy89wVohECy1De%2FUY0PfcMPjDc%2BqXDb4IcfsBPPNfttU2ye%2FtxYUulRLGyZGLIk1BParkBBi57kn1f%2FjicL49arnBbpOOAA585g1RnD%2BQAWl4NyjPq0f0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1774521695&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pIGQwZOIHxuMdg8RWz3k07ovhlrET44bE5cIefZdeO58D9%2Fb%2FGofwaEqIgrYZijiWMPn0bLPQk4raJ68xQ%2BLMILah6r1Cz2aLHspDARE7Or6z7UZWhaY9bWsaILO7tpoMR%2F98z2gsvZL7HUSfmGUa6Dtj1BQch6B89GKZ3x8EF4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
 
 #### Comments (12)
 - **πr²** (Jan 23, 2026 02:26am): オーナー権限です
@@ -1255,7 +1345,7 @@
 ### 24. 俺が全然浮上しなかったのも悪いんだけど俺の部屋の管理者がこいつらだけになってました
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1774504756&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hqc5kAt%2FBoiAcuyNRcsI9QJqjVj%2F5dbMF1NZiV7HLAF9nVdRFUuCXfgeazRt1xcWKuZzUQkSxyfI89YXUuiEQRkqWcTc6HTLL7K1T5RpUWL2isrMGNsj0k8sMd717S1WG1UNGET8ZoHlK%2FEap6El6jyNxtsRlSw%2BAnjkhWY9Ipc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1774521695&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=p%2BN71bV6%2F6UKFEyacbfz%2F%2FRQ2rMA7QxTMyce6Aca%2FardAYhTFRCWKgbFZAmR00EpKZW9lwcmBMV7TRiQqA%2FJp33N%2Bkieds128YJTPI4aZRQ5in68%2FuWKG6TcTlzriEnvR3Z%2FZNCCpZBJiszNuhAijhcWZJuMJppcK38Kk9UJ0Fc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ローマンピアースのスマホ垢本物** (Jan 15, 2026 11:50am): 誰か助けてくれ、、
@@ -3227,7 +3317,7 @@
 ### 8. アプリをダウンロードする方法教えて下さい　こうなる↓
 **Author:** 水原二平 (r02s14030)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1774504757&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zLSOC9aERLvwUkR2LBzNpOpu%2F4surFJgTjcIaJ0ar2BJYejhfNwvP8E8xuNd4%2BTgqmFkzB%2BJJaBso2IUxdfsgaMJtOK10%2BdzECJyukGZrMwe7dcHtkVv1zaprmjeWh2qZcVxO3ztkSfLCp1%2BsJx8MuaP15Qmo9hyas%2B6xP2%2Bde8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1774521696&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PD4JYAabPwQyBglDOt8NEpyyIYEQFOnQ4fiy2iDFWSlIrYSxd%2F3jSKSuS%2B9tNaZNT1UlxpFDRUAvymiOEe%2FGos7vGS4%2FL8Z5dYU8lsD49e3ijc7kshbyE9UNz8%2FtJwr9UrzV7MzIaXLGMXuZZx9KywlnRf7TVvrAMLUYlNXvLek%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
 
 #### Comments (4)
 - **かから** (Jan 27, 2026 10:26am): Chromebookだったらhttps://chrome.google.com/webstore?utm_source=app-launcher
@@ -3662,7 +3752,7 @@
 
 **投稿の種類:** フィルターに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1774504757&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iuJg8lAZrXnZ4%2BK6DUbr8r2mwhuMsbRJ7Pxw%2BPXz4TjeNuPdPBgPHR2CxbkNaE4g1yC2gj3TGPUI2j519ssQ7z38rNyVRqUHkz00Uzfe86xze15c28Qd%2FPrvob5iwVFDNp60J0SGUvUlsxR8cn1trwt8vpRcSTAF0Xx2C7pZjGs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1774521696&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yBeB0aXUxAzl98hXvCPIxZ8gTqvt4HL%2B2XM%2FkiFSq7xD%2F4E%2BvBXH%2BzuC5%2BrHvvlgybBJRNiNdXTCi9DXpV4SdmMxBcX6M%2BdvZE3Il6jeM6dunHQOLi%2FGm7g1pDGsOM07ggeRnbpGBKrEKeetC2OxJAhCH26LJYkTYn%2FbfF4BDeA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -3939,7 +4029,7 @@
 
 <p>先ほどゲームをしてるとフリーズしてしまって、再起動するとフィルタリングが更新されており、さっきまで使えていたサイトが使えなくなってしまいました。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1774504758&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=U3%2Bf4BeeZzEVgle%2FziK%2B%2FwszI2ZfJnoDxWTZThVAhkSuzdQ5jntlUzkYPmziV8LIZ5n%2FyhgZYJdcRPBu76umqyQuait%2BiULoDgGHJp3rB%2FyO2CdUjxPqf9LMAIP3tuziZ3JQDkUPd3AE9IAJl7gu8kEsaGhJ20alRexphnQB%2B%2Bs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1774521696&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RZ8GjsWzFL3cvVVwX%2Bb5Dt7tuAID1i6%2FapwS4UiO3v%2BCVJ41cguYtitDlNr2V5lxuu%2BNLRev4GE%2BGQETP2dN33QGQJotyDO5ybucAg6eKIbb2aPdaSxGj2pTkC22wXLDi5f1IBQak%2B1RmRX%2BC9hO%2FGNcCfUZ2Bz2r8c%2Fiavq1d8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **削除済みユーザー** (Dec 21, 2025 05:06am): 俺も金曜日そんな感じになった
@@ -3965,7 +4055,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1774504758&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QFgX7dJH%2F3Q8%2B7JEg8%2BjDc6YyDEXum9Yp5ixVH1JR0CvRUhuIOz8pn51%2B0KhFVX%2F3cEcYrNVCQJZV9V285jTVmyWkWshJ2kq3GtIgS2bpssHuHyzHINlAYeAB9wr%2BhlJ%2Fk%2BMMIxZg4WFNqfUbJQ%2BNNpAKOM5%2FYyD1GBi2IlKBgY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1774521696&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=y6i%2Fa5VZFs3Tn65fhSeptaLHBISapTDcOSHtqHQYMh%2BhtMrD76kna2CymN%2F0%2F97XiwW4v1pPMInAXbz7YaRTkZ1VkGqdlDwJay77KP7ujQP1qi%2Bn4xeZYLNf7Ad2OwBwrTrfWdFL9am8hATdFJ%2FQ878ko7Rlw26Nzgdgyb%2FPt6E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **πr²** (Nov 09, 2025 08:31am): フィルタリングルールの更新日時とか書いてあった
@@ -4308,7 +4398,7 @@
 
 [Attachment 1](https://nishio.co.jp/games/aisispaaan2/)
 
-#### Comments (8)
+#### Comments (9)
 - **電車好き** (Jun 21, 2025 01:50am): いけた
 - **伝説の男　目高功塁** (Jun 21, 2025 07:56am): 面白い
 - **アイス** (Jun 22, 2025 09:26am): 14000枚目いけたwww
@@ -4317,6 +4407,7 @@
 - **計画通り** (Sep 07, 2025 05:49am): 14002
 - **匿名S** (Oct 01, 2025 01:03am): すご！
 - **Quirky Cricket** (Dec 16, 2025 08:24am): １４０００いった
+- **Hopeful Kangaroo** (Mar 19, 2026 10:00am): 1っぱつ14000
 
 #### Reactions
 - **Average star rating:** 5.0
