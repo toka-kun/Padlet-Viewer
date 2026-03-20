@@ -1,6 +1,6 @@
-最終更新: 2026/03/20 11:11:02
+最終更新: 2026/03/20 16:50:24
 
-# 規制解除委員会(本部)
+# とるっぷいの規制解除委員会
 
 #規制解除#わかめtube#とるっぷい#しあtube
 
@@ -9,18 +9,18 @@
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 - **Posts:** 6
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Mar 20, 2026 12:01am
+- **Updated At (UTC):** Mar 20, 2026 07:42am
 
-## 読んどいて(о´∀`о)
+## ライター許可
 
-### 1. 主です。
+### 1. ライターが欲しい人へ
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
-<p>たまに書いてある事更新する</p><p>低浮上</p><p>趣味はゲーム</p><p>得意な事もゲームやで</p><p>1500m走速いで⭐︎</p><p>勉強は出来る方</p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p>陽キャです</p><p><br/></p><p><br/></p>
+<p>ここにコメントしてメアドを送ってください。</p>
 
 #### Additional Information
-- **Created At (UTC):** Mar 18, 2026 12:24pm
-- **Updated At (UTC):** Mar 18, 2026 12:26pm
+- **Created At (UTC):** Mar 20, 2026 07:42am
+- **Updated At (UTC):** Mar 20, 2026 07:42am
 
 ---
 
