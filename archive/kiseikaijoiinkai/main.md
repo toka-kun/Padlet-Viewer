@@ -1,4 +1,4 @@
-最終更新: 2026/03/20 18:42:46
+最終更新: 2026/03/20 19:39:41
 
 # とるっぷいの規制解除委員会
 
@@ -9,7 +9,7 @@
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 - **Posts:** 8
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Mar 20, 2026 09:35am
+- **Updated At (UTC):** Mar 20, 2026 09:47am
 
 ## ライター許可
 
@@ -92,25 +92,23 @@
 ### 1. yuzu tube
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
-<p>パスワード:yuzu</p>
-
-[Attachment 1](https://yuzutube1234.onrender.com/)
+<p>パスワード:yuzu</p><p><a rel="noopener noreferrer nofollow" href="https://yuzutube1234.onrender.com/gate">https://yuzutube1234.onrender.com/gate</a></p>
 
 #### Additional Information
 - **Created At (UTC):** Mar 18, 2026 12:21pm
-- **Updated At (UTC):** Mar 18, 2026 12:21pm
+- **Updated At (UTC):** Mar 20, 2026 09:44am
 
 ---
 
 ### 2. モモンガ
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
-<p>あ</p>
+<p><a rel="noopener noreferrer nofollow" href="https://momon-ga.com/">https://momon-ga.com/</a></p>
 
 [Attachment 1](https://momon-ga.com/)
 
 #### Additional Information
 - **Created At (UTC):** Mar 20, 2026 08:08am
-- **Updated At (UTC):** Mar 20, 2026 08:08am
+- **Updated At (UTC):** Mar 20, 2026 09:47am
 
 ---
