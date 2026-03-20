@@ -1,4 +1,4 @@
-最終更新: 2026/03/20 17:42:29
+最終更新: 2026/03/20 18:42:46
 
 # とるっぷいの規制解除委員会
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
-- **Posts:** 7
+- **Posts:** 8
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Mar 20, 2026 08:08am
+- **Updated At (UTC):** Mar 20, 2026 09:35am
 
 ## ライター許可
 
@@ -32,6 +32,19 @@
 #### Additional Information
 - **Created At (UTC):** Mar 02, 2026 10:36am
 - **Updated At (UTC):** Mar 02, 2026 10:36am
+
+---
+
+## 転載について
+
+### 1. この部屋の物の転載は条件付きでokです。
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
+
+<p>条件1</p><p>転載元(この部屋のリンク)を明記する。</p><p>条件2</p><p>僕のフォローをする。</p><p>条件3</p><p>「借りる」とコメントする。</p>
+
+#### Additional Information
+- **Created At (UTC):** Mar 20, 2026 09:35am
+- **Updated At (UTC):** Mar 20, 2026 09:35am
 
 ---
 
