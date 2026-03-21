@@ -11,7 +11,7 @@ Padlet代替ビュアーのレポジトリです。MIT Licenseのもと公開さ
 ## YouTubeサイトの閲覧数（おまけ）
 
 ### わかめtube Plus
-[![sia](https://count.getloli.com/@wkt-plus?name=wkt-plus&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/toka-kun/wkt-Plus)<br>
+[![wkt-plus](https://count.getloli.com/@wkt-plus?name=wkt-plus&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/toka-kun/wkt-Plus)<br>
 
 ### しあtube
 [![sia](https://count.getloli.com/@:siatube?name=%3Asiatube&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/siawaseoktest/youtube)<br>
