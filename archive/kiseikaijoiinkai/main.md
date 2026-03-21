@@ -1,4 +1,4 @@
-最終更新: 2026/03/20 23:42:40
+最終更新: 2026/03/21 17:35:34
 
 # とるっぷいの規制解除委員会
 
@@ -9,7 +9,7 @@
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 - **Posts:** 8
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Mar 20, 2026 02:33pm
+- **Updated At (UTC):** Mar 21, 2026 07:59am
 
 ## ライター許可
 
@@ -17,10 +17,6 @@
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 <p>ここにコメントしてメアドを送ってください。</p>
-
-#### Comments (2)
-- **神奈(旧 消えかけのランプ)** (Mar 20, 2026 02:33pm): https://padlet.com/dokurituyuugunn/padlet-30j0xnl7e80dhmig
-- **神奈(旧 消えかけのランプ)** (Mar 20, 2026 02:33pm): この部屋にいっぱいオカズありますよー気に入ったらフォローしてください
 
 #### Additional Information
 - **Created At (UTC):** Mar 20, 2026 07:42am
@@ -45,9 +41,6 @@
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 <p>条件1</p><p>転載元(この部屋のリンク)を明記する。</p><p>条件2</p><p>僕のフォローをする。</p><p>条件3</p><p>「借りる」とコメントする。</p>
-
-#### Comments (1)
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Mar 20, 2026 11:07am): やは
 
 #### Additional Information
 - **Created At (UTC):** Mar 20, 2026 09:35am
