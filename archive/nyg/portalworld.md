@@ -1,4 +1,4 @@
-最終更新: 2026/03/22 19:29:06
+最終更新: 2026/03/22 20:25:12
 
 # Padletポータルワールド
 
@@ -573,7 +573,7 @@
 ---
 
 ### 22. ゆずみかんが作る雑談部屋
-**Author:** オガロン　エドガー族一代目になるかも？ (ogaron)
+**Author:** オガロン　エドガー族一代目 (ogaron)
 
 <p>過疎部屋ですが、これから過密にしていきたいとおもいます。</p><p>よろしくお願いします</p>
 
@@ -590,7 +590,7 @@
 [Attachment 1](https://padlet.com/padlets/frxb7bsiu0zyxaqj)
 
 #### Comments (1)
-- **オガロン　エドガー族一代目になるかも？** (Feb 26, 2026 10:00am): 作成日の日は曖昧です
+- **オガロン　エドガー族一代目** (Feb 26, 2026 10:00am): 作成日の日は曖昧です
 
 #### Additional Information
 - **Post color:** White
@@ -2439,7 +2439,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1774780146&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cD4VsYo3YZeNW74nwr%2FyOExRE7nv%2FGnRiOVd%2FE%2BYx2GJyyvDK%2FBK3pKQVQvs3NnwWn%2FxH4PvA75ZIwpi2XRM37DV6iz3WvxP683MvThCrPWmGEy0WMhXTpBz2ln1tbHq95%2FKA6AqRNuoxxWewmJqSZ1MZNv3mgDBoXWIOm8F4Bg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1774783511&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NXq5iuKCkTph7pmntm%2B4JIfEpb6qqGnyMx7QKB0Y8PAiDR%2FH6qE9Da6eeY%2F6Z6QiFyEkao8wJNuN%2F%2Faf2DCo1yt8jDMY1pkls2iZYAlpDbiVrTvOSAPk4IeooOVIcyjqVIrwHnJq%2B3kc73jvo8jkpKfTZeeqP8lBqh8iOr6IaMk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
