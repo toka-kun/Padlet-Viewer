@@ -1,4 +1,4 @@
-最終更新: 2026/03/22 08:26:57
+最終更新: 2026/03/22 11:25:02
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 109
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Mar 21, 2026 11:09pm
+- **Updated At (UTC):** Mar 22, 2026 12:14am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -20,14 +20,13 @@
 
 [Attachment 1](https://padlet.com/Toka_Kun_/submission-request/k2qlv3RKMKOnX5Rx?section=317262857)
 
-#### Comments (7)
+#### Comments (6)
 - **草** (Oct 29, 2025 07:18am): ？」
 - **削除済みユーザー** (Nov 29, 2025 07:24am): ↑のpadletポータルワールドをタップしたら投稿できると思う
 - **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 14, 2026 02:13am): 質問です、部屋は自分が持ち主ではないが、管理者権限を持っている場合、自分はここにその部屋を宣伝も可能ですか
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 14, 2026 04:33am): 自分が持ってる部屋だけ
 - **k** (Mar 11, 2026 08:05am): すみません
 - **k** (Mar 11, 2026 08:06am): なにか入るのかなと思ってやったら他の人のをだしてしまってすみません
-- **ひたまゆ** (Mar 21, 2026 11:09pm): あの、レポジトリからどうやってさいとにはいるんですか？
 
 #### Reactions
 - **Number of likes:** 1
@@ -2440,7 +2439,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1774740417&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZCqt4aByuIPCBZ%2FSJG%2FaVQ2iTvRWQ6iW7mVZLoz7rrEEJByx4JUdLl22Jzl70Qa3Gy19Bw1wESrNwtCq94XoLQmc7rbtgg6CtWp0aVGMDeQVcjajeRlmbGM%2BCBAFGl1aPzsYc6aIEnZP1JmQ5ssKKsJeNF%2BW3AYb8yvofgsR4nQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1774751102&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MsIerMf%2Fjo2ymt%2FZrBq%2FyuY2kY2tIGf%2FAQkf6wn%2Bgkgy0KDJYoTg6CY4%2BzXClg0Me6vYOBiL3q9VIBQf3f%2B0Tl%2BD0v9FrR4SNVqN%2Bw2nRtNhaVQ7vjw62ujB53wFCu%2F%2BlEFO8OlQ2WNv0Yvw31%2FEYoR7kJ6etmrBkCEMqlX1Doc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
