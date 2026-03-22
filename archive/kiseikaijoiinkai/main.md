@@ -1,4 +1,4 @@
-最終更新: 2026/03/22 11:25:25
+最終更新: 2026/03/22 18:34:34
 
 # とるっぷいの規制解除委員会
 
@@ -9,7 +9,7 @@
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 - **Posts:** 8
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Mar 22, 2026 12:01am
+- **Updated At (UTC):** Mar 22, 2026 09:21am
 
 ## ライター許可
 
@@ -17,11 +17,6 @@
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 <p>ここにコメントしてメアドを送ってください。</p>
-
-#### Comments (3)
-- **神奈** (Mar 21, 2026 12:45pm): https://padlet.com/dokurituyuugunn/padlet-30j0xnl7e80dhmig
-- **神奈** (Mar 21, 2026 12:45pm): この部屋まじでいいエロ部屋
-- **神奈** (Mar 21, 2026 12:46pm): 入らなきゃ損
 
 #### Additional Information
 - **Created At (UTC):** Mar 20, 2026 07:42am
