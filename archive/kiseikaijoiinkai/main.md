@@ -1,36 +1,63 @@
-最終更新: 2026/03/23 20:44:30
+最終更新: 2026/03/23 22:11:11
 
-# とるっぷいの規制解除委員会
+# 規制解除委員会(本部)
 
 #規制解除#わかめtube#とるっぷい#しあtube
 
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
-- **Posts:** 7
+- **Posts:** 13
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Mar 23, 2026 11:42am
+- **Updated At (UTC):** Mar 23, 2026 12:38pm
 
 ## ライター許可
 
 ### 1. ライターが欲しい人へ
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
-<p>ここにコメントしてメアドを送ってください。</p>
+<p>この部屋にて受付を完了してください</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl">https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl</a></p>
 
 #### Additional Information
 - **Created At (UTC):** Mar 20, 2026 07:42am
-- **Updated At (UTC):** Mar 20, 2026 07:42am
+- **Updated At (UTC):** Mar 23, 2026 11:49am
 
 ---
 
 ## ルール
 
-No post
+### 1. 〜ルール〜
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
+
+<p>・転載時はこの部屋のリンクを貼る。</p><p>・荒らし、過度な暴言は即コメンターです。</p><p>(酷い場合は読者)</p><p>・権限乱用は禁止</p><p>(報告された場合は即コメンター)</p><p>・許可のない宣伝は禁止</p><p>・個人情報の投稿の投稿は禁止</p><p>(投稿を確認したら即BAN&amp;読者)</p>
+
+#### Additional Information
+- **Created At (UTC):** Mar 23, 2026 11:48am
+- **Updated At (UTC):** Mar 23, 2026 11:48am
+
+---
 
 ## 連絡
 
-No post
+### 1. 閲覧数1250突破
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
+
+#### Additional Information
+- **Created At (UTC):** Mar 23, 2026 11:51am
+- **Updated At (UTC):** Mar 23, 2026 11:51am
+
+---
+
+## 雑踏団
+
+### 1. 雑談
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
+
+#### Additional Information
+- **Created At (UTC):** Mar 23, 2026 11:55am
+- **Updated At (UTC):** Mar 23, 2026 11:55am
+
+---
 
 ## That's 団
 
@@ -84,7 +111,42 @@ No post
 
 ## その他のサイト
 
-### 1. yuzu tube
+### 1. みんなへ朗報
+**Author:** いときち (HONDA_Believer)
+
+<p>学パソ勢、朗報だ。学タブ勢は厳しいかもしれないけど、このサイト使えば履歴に残さず普通のYouTubeとかTikTokとかはもちろんinstagramやXにFANZAやXvideosにアクセスできるサイトを見つけた。エグい。使ってみ。他のツールに戻れなくなるくらい飛ぶぞ。ただ欠点は20分間しか使えない。</p>
+
+[Attachment 1](https://app.apponfly.com/trial)
+
+#### Comments (7)
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 12, 2026 12:37pm): やりますねえ
+- **入れ子＿構造** (Feb 13, 2026 11:38am): ありがとうご…あっ…無理でした…
+- **よもぎよもぎ** (Feb 14, 2026 09:04am): マジでイフエージェント硬すぎるぅ
+- **Clever Caterpillar** (Feb 18, 2026 09:35am): みれねぇーー😂
+- **暇人　#ガチ目の低浮上** (Feb 21, 2026 05:30am): つかえん
+- **Invisible Pigeon** (Feb 24, 2026 07:50am): ほんまに
+- **赤目界隈覚醒合法ロリイルイるーの** (Mar 13, 2026 02:59am): すき
+
+#### Additional Information
+- **Created At (UTC):** Feb 12, 2026 12:31am
+- **Updated At (UTC):** Mar 23, 2026 11:53am
+
+---
+
+### 2. YukiYouTubeを自動でつくれるアプリ
+**Author:** いときち (HONDA_Believer)
+
+<p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
+
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1774876271&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sepvWeRdgt1x1rGbnSQqdfB2IoVVdTMaw9QqLDWBVKT4Vz5QsxOlNX61UEUXETjoVV3CV54FVwZmWi4mKVG6QiXTJNDmlWezeWUl4GhKSaJ%2F8zjCw%2Fu5deFeDBY7Uplva66KJxQYHpla69wSI8MPgtgUfNqIV5MZT45rtz6crZo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+
+#### Additional Information
+- **Created At (UTC):** Dec 14, 2025 03:02am
+- **Updated At (UTC):** Mar 23, 2026 11:52am
+
+---
+
+### 3. yuzu tube
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 <p>パスワード:yuzu</p><p><a rel="noopener noreferrer nofollow" href="https://yuzutube1234.onrender.com/gate">https://yuzutube1234.onrender.com/gate</a></p>
@@ -95,7 +157,7 @@ No post
 
 ---
 
-### 2. モモンガ
+### 4. モモンガ
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 <p><a rel="noopener noreferrer nofollow" href="https://momon-ga.com/">https://momon-ga.com/</a></p>
@@ -105,5 +167,25 @@ No post
 #### Additional Information
 - **Created At (UTC):** Mar 20, 2026 08:08am
 - **Updated At (UTC):** Mar 20, 2026 09:47am
+
+---
+
+### 5. YukiYouTubeを自動で作れるアプリのマニュアル
+**Author:** いときち (HONDA_Believer)
+
+<p>わかんないことあったら呼んでみてね。</p>
+
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1774876271&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=U3Ymlu9muwvbwXAWqBjaUMu%2BEeMpKGtbdkUy4jdJq5Ac%2B1X2UF5%2FjWtqep3111QGycrlNQfW2t5YyLH3nZpo2MORnD17qYLMNrNHfZ8wXkQlrAc5SvOz5JgsPD6KrcfWokfxwHxJdBvsKhBzKpYVoIvm9hBF5QsN%2FWWrn6mSXC8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+
+#### Comments (5)
+- **グリーン** (Feb 07, 2026 02:58am): 見れなーい
+- **ヒカキン（偽）** (Feb 12, 2026 05:02am): すご～い🧐
+- **ヒカキン（偽）** (Feb 12, 2026 05:09am): ヤバ
+- **Y** (Feb 14, 2026 02:39pm): 天才
+- **わいだよーー** (Feb 22, 2026 07:23am): マジですか
+
+#### Additional Information
+- **Created At (UTC):** Dec 14, 2025 03:03am
+- **Updated At (UTC):** Mar 23, 2026 11:52am
 
 ---
