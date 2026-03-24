@@ -1,4 +1,4 @@
-最終更新: 2026/03/23 19:09:54
+最終更新: 2026/03/24 17:54:53
 
 # アーカイブ
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 252
+- **Posts:** 266
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Mar 23, 2026 09:41am
+- **Updated At (UTC):** Mar 24, 2026 08:48am
 
 ## セクション一覧
 
@@ -34,7 +34,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1774865390&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IyG9tgrPA7aOzgj559voUg7IjCOXNUsUbvItHRIHQ8tlfBdB7Zbe3yP55%2FNrUInb%2FKyBgFqUauAsDNJL5R%2BJsKnj3U8Dcx7RR3BalBf4%2BQG90gmyJyK8dYPo%2BKvhFRKYgd6%2Ba%2BJ95tRgcl%2BzxCd4PpRyBiPVGbKCcYCNYVQ2%2F9A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1774947289&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yUznOXLo8El1dRk2IVBqV3tG1OjaU3i75Gu%2FSMhYPRscJANs4rE%2BuHAl1L4EXE1uzeFR86aaeXHFKSuiiTYJJjrMQmJ4T6xt8udsTf467vyg5G66ARSYFK0k0k8J%2BJ2GLEKfKr1V7512R6msbuOaLUcQdcOHp2zAlEGB0ygAm0A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -801,7 +801,7 @@
 **Author:** 削除済みユーザー (sakujosaretenaiyo)
 
 #### Comments (11)
-- **チェ** (Mar 09, 2026 03:27am): フォトナやってる人いる〜？
+- **近所のクソガキ** (Mar 09, 2026 03:27am): フォトナやってる人いる〜？
 - **daregi223** (Mar 09, 2026 04:08am): 自分やってます！
 - **Natsu　学タブ回収中** (Mar 09, 2026 04:35am): 🤚
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 09, 2026 05:34am): ノ
@@ -1517,7 +1517,7 @@
 
 <p>自分の中学にこのQRコードを送ってしまい、更に相手にオーネー権限が移ってしまいました</p><p>このアカウントは使われているのでしょうか？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1774865391&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PwkNWnNo96Sahf6G3v1CWZdLoGAmADntvL6I782S9%2BnoJnw78IBVM3rlhOU3X2vwemwvpP%2BmHaxf67lfdJnRHJpKxgU88y5aL2OFQc04vbgBfAT73IJrhcwouTRPXviCcF7mTltOtqp089p4G0UvwV%2F05Dfb7gKUfVCzRrfSsCk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1774947290&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZtTA8I5bDxx8GutusM15QynuhzFLz7WbI%2FXp38xDFIrGFXTlscXO35fbf6N6pOqpVSkGkTnuZotojcIbWhdFN1aqNSZsP%2Bj8OEVmraGv24OYltQfH0jhTklpfDcT8ciragqU1t65iNknOYLKvE1WNraMEFQEVV5hBMk%2F0TZ%2F%2FT8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
 
 #### Comments (12)
 - **πr²** (Jan 23, 2026 02:26am): オーナー権限です
@@ -1694,7 +1694,7 @@
 ### 39. 俺が全然浮上しなかったのも悪いんだけど俺の部屋の管理者がこいつらだけになってました
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1774865391&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sEJfnWQrZjqTPC%2FePWFb1IWtku5hIM9YtV8nq1O9B%2BydcAkRZpHlojYjjx3DQ2%2FxMLItaTqlI4pBtf06N5RnBrKKLJ6PvoMUfaUiT9DslDAamvnn3b8NQ5vMaTf1cdwGLTLswy%2B62uH%2Bs9kZ2EFN15hPODhRyfHitqEM2c4TcOc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1774947290&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5UPOhEPZkuFRquKYWkDwHtlRJ3I9KAd%2BAXFdSKKApstP%2B3iq0xt%2Bf4VfXvT8uwP4fm%2FmAJvxvOTbfpaiew3n7WA7amwoZMLRf9fiWPzwzYQkYQkZJQFuaFQkSx6LEpWQA3%2BI0%2BLfjVMIMRs0FwPkP1bzNHaoLUe3FSYWheadbQs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ローマンピアースのスマホ垢本物** (Jan 15, 2026 11:50am): 誰か助けてくれ、、
@@ -3542,7 +3542,120 @@
 
 ---
 
-### 2. githubのアカウント誰か作ってくれ（赤作ろうと思っても作れないんだよ）
+### 2. tokaさんあのースクラッチがblockされているんですがスクラッチ以外に情報が伝えられるさいとありますか？
+**Author:** はるとねこ (r0300131)
+
+![破滅](https://media.tenor.com/TjXv1W8w8FAAAAAe/strike-freedom.png)
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 1
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 08, 2026 12:47pm
+- **Updated At (UTC):** Mar 24, 2026 08:44am
+
+---
+
+### 3. ニコニコ動画のダウンローダー持ってる方いませんか？
+**Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
+
+<p>いらっしゃったら欲しいです...！</p>
+
+#### Comments (7)
+- **Anonymous** (Mar 04, 2026 12:10am): 持ってたけど使えんくなったから今は知らない
+- **とりあえず。** (Mar 04, 2026 12:47am): その持ってたやつっていただくことは可能ですか？
+- **Blushing Piranha** (Mar 04, 2026 03:46am): https://receive.shamimomo.net/YouTubeMP3modoki/https://ja.amoyshare.com/niconico-video-downloader/
+- **Blushing Piranha** (Mar 04, 2026 03:47am): 貼るの初めてだからできてるかわからない
+- **Blushing Piranha** (Mar 04, 2026 03:49am): 忘れたけどこの二つだけか後もう少ししか知らない
+- **とりあえず。** (Mar 04, 2026 04:13am): ありがとうございます...！
+- **Awesome Cricket** (Mar 24, 2026 01:29am): うんこ
+
+#### Reactions
+- **Average star rating:** 3.0
+- **Number of ratings:** 1
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 02, 2026 05:54am
+- **Updated At (UTC):** Mar 24, 2026 08:43am
+
+---
+
+### 4. なんとかしてコンソールを開きたい！
+**Author:** タイピングを極めたい (taipinngu_zako)
+
+<p>i-フィルターなんですけどスクラッチでコンソールを使って遊びたいんですけど、ctrl+Shift+j押しても出てこないんですよね、、、なにか方法はありませんか？！</p>
+
+#### Comments (2)
+- **タイピングを極めたい** (Mar 03, 2026 10:49am): 早く返信をください
+- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 17, 2026 03:13am): 無効化されてそう
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 01, 2026 02:02am
+- **Updated At (UTC):** Mar 24, 2026 08:43am
+
+---
+
+### 5. github以外でproxyの作り方を教えてください
+**Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
+
+<p>githubのアカウントはvpnでgithub公式にブロックされてるので</p>
+
+#### Comments (2)
+- **リ党衆議院議席大幅獲得全465議席　#物体的概念全部かわいいへ向けた取り組み#全生命体を従えるcutest　people　in　the　world♡** (Feb 28, 2026 11:03am): https://da.last.workers.dev/
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 09, 2026 10:28am): 私も公式に組織による表示のブロックがされてる
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 28, 2026 07:54am
+- **Updated At (UTC):** Mar 24, 2026 08:43am
+
+---
+
+### 6. 無知ですみません。github以外でproxyの作り方を教えてください
+**Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
+
+#### Comments (2)
+- **ᏁγᎶ » Tøka_Kuŋ_** (Feb 23, 2026 06:37am): Shadowなら簡単やで
+- **【超低浮上】Mr.k廃人** (Feb 24, 2026 09:03am): 教えてください
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 23, 2026 02:14am
+- **Updated At (UTC):** Mar 24, 2026 08:42am
+
+---
+
+### 7. リクエストで、windows11のweb版のサイトを知っていますか？
+**Author:** NyrikX-Tokuyo(足立区陣ICFS系) (h3000370)
+
+<p>知っている人も分かる通り、普通のブラウザで機能するwindows11のweb版があるのですが、それが<a rel="noopener noreferrer nofollow" href="https://win11.blueedge.me/">https://win11.blueedge.me/</a>です。もしよかったらこのサイトを使ったプロキシ作成の拡大を検討してほしいです。（無理しなくていいので）このサイトの大きな特徴は、仮想ブラウザであること、windows 11のような感覚ですが、まるで普通のプロキシのように機能します。</p>
+
+**投稿の種類:** サイトに関する相談や質問
+
+**最終更新日:** February 12, 2026
+
+[Attachment 1](https://win11.blueedge.me/)
+
+#### Comments (6)
+- **ああああああああ** (Feb 20, 2026 03:11am): ブロックなんだが
+- **ᏁγᎶ » Tøka_Kuŋ_** (Feb 20, 2026 04:12am): https://windows96.net/
+- **proxyを探す者** (Feb 20, 2026 09:26am): それはブロックされないけどブラウザすらもないし使いようがない
+- **panpanda** (Feb 25, 2026 04:05am): それｎa
+- **からあげ** (Mar 14, 2026 08:03am): 初サイト作ってみたよ https://win11-react-amber.vercel.app/
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 15, 2026 02:19am): ありがとうございます！その公式リンクで組織による表示のブロックがかかってるyoutubeとか開いても解除されなんだよな...そのままブロックされたランマーとかプロキシで入るしかないんだよな...
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 12, 2026 07:59am
+- **Updated At (UTC):** Mar 24, 2026 08:42am
+
+---
+
+### 8. githubのアカウント誰か作ってくれ（赤作ろうと思っても作れないんだよ）
 **Author:** バッタ　#煮物貢献者　#煮物14番弟子　#りおと族37代目　#りおと弟子37番目　#そろそろ引退かも (bbbaaattttttaaa)
 
 <p>お願いします</p>
@@ -3566,7 +3679,7 @@
 
 ---
 
-### 3. winbird 授業支援クライアントで、夜でもできる方法どなたか知っている方いますか？
+### 9. winbird 授業支援クライアントで、夜でもできる方法どなたか知っている方いますか？
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 #### Comments (20)
@@ -3598,7 +3711,7 @@
 
 ---
 
-### 4. 誰かぷりーずらんまー
+### 10. 誰かぷりーずらんまー
 **Author:** 削除済みユーザー (sakujosaretenaiyo)
 
 #### Comments (6)
@@ -3616,7 +3729,7 @@
 
 ---
 
-### 5. Scratchやってる人に質問（そうでない人へも）
+### 11. Scratchやってる人に質問（そうでない人へも）
 **Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 <p>Scratchを開いた時、「The Scratch Team is working hard to fix an issue with the Scratch website」と出てきて、Scratchで遊べないのですが、同じ人いますかね...？</p>
@@ -3638,7 +3751,7 @@
 
 ---
 
-### 6. Web ide教えて webdeployもできるやつ
+### 12. Web ide教えて webdeployもできるやつ
 **Author:** sanae1212 (cuzrij)
 
 <p>理由はgitlabのアカウントが消えてアカウント作成に</p><p>電話必要だから今web ideが必要になった</p><p>Renderは使えるけどgithubもgitlabも使えなくなったから</p>
@@ -3650,7 +3763,7 @@
 
 ---
 
-### 7. 捨てメアドくれ
+### 13. 捨てメアドくれ
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 #### Comments (1)
@@ -3663,10 +3776,10 @@
 
 ---
 
-### 8. アプリをダウンロードする方法教えて下さい　こうなる↓
+### 14. アプリをダウンロードする方法教えて下さい　こうなる↓
 **Author:** 水原二平 (r02s14030)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1774865393&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ml6g%2BowmFD4u0QgK2r3tRC6NP2PgKzAfgM71oOO9G5yKT1Vr28gsrQauaPGCwdd75%2BlWHX2IyYOrEYjBrDq%2FZiPXf97YB%2Fmt6x47JZEahP43dlp7%2BBtLINI%2BGO3IrWFl6gevQu6KwFOwp7dpZlpa%2FOZTcGyt5RJzXsC70oylqd4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1774947291&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pYQgJs5tvPlQyqT6f86T5%2BMDNp%2BBumoLypmzHPvrC1HaeLfS1rGuWJzFH5w2Ov648duVMgoSrvXnNW7cqaeb6F1NhhkYe2t%2FQoAvRf18AVtrZ5Ck7h8E42e3zmSGYBRm5OI3FHeFqMa67xQWT3YfWpwqvrvbynFUxta%2B59gSJfU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
 
 #### Comments (4)
 - **かから** (Jan 27, 2026 10:26am): Chromebookだったらhttps://chrome.google.com/webstore?utm_source=app-launcher
@@ -3681,7 +3794,7 @@
 
 ---
 
-### 9. プロキシを下さい...！
+### 15. プロキシを下さい...！
 **Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 #### Comments (5)
@@ -3698,7 +3811,7 @@
 
 ---
 
-### 10. クロームの機種番号の改変ってできるのかな？
+### 16. クロームの機種番号の改変ってできるのかな？
 **Author:** RX034 (h3005990)
 
 <p>機種番号があるせいですべてが4ぬ</p>
@@ -3710,7 +3823,7 @@
 
 ---
 
-### 11. アイフィルターについて
+### 17. アイフィルターについて
 **Author:** フブさん (kitasan532)
 
 <p>今アイフィルターでブロックされないプロキシありますか？</p><p><br></p>
@@ -3733,7 +3846,7 @@
 
 ---
 
-### 12. 誰かスクラッチ行けるプロキシくれ
+### 18. 誰かスクラッチ行けるプロキシくれ
 **Author:** 削除済みユーザー (sakujosaretenaiyo)
 
 <p>らんまーは重すぎて落ちる</p>
@@ -3749,7 +3862,7 @@
 
 ---
 
-### 13. amazonサイト教えて！緊急
+### 19. amazonサイト教えて！緊急
 **Author:** sanae1212 (cuzrij)
 
 #### Comments (1)
@@ -3762,7 +3875,7 @@
 
 ---
 
-### 14. インターステラー追加で持ってる人いませんか？
+### 20. インターステラー追加で持ってる人いませんか？
 **Author:** 味の煮付けの汁 (13110271)
 
 #### Additional Information
@@ -3772,7 +3885,7 @@
 
 ---
 
-### 15. PCシュミレーターみたいなやつ持ってる方いたら教えてください！よろしくお願いします！
+### 21. PCシュミレーターみたいなやつ持ってる方いたら教えてください！よろしくお願いします！
 **Author:** スシロー (h3026194)
 
 #### Comments (4)
@@ -3788,7 +3901,7 @@
 
 ---
 
-### 16. プロキシ欲しいと思った
+### 22. プロキシ欲しいと思った
 **Author:** たけし
 
 #### Comments (2)
@@ -3806,7 +3919,7 @@
 
 ---
 
-### 17. サイトの中にサイトがあるやつってあるじゃないですかぁ　それがほしいです
+### 23. サイトの中にサイトがあるやつってあるじゃないですかぁ　それがほしいです
 **Author:** なまけもの。 (gyabagya199)
 
 #### Comments (7)
@@ -3825,7 +3938,7 @@
 
 ---
 
-### 18. だれかよろしければプロキシをください...！
+### 24. だれかよろしければプロキシをください...！
 **Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 #### Comments (1)
@@ -3842,7 +3955,7 @@
 
 ---
 
-### 19. 探して〜
+### 25. 探して〜
 **Author:** 029大好き！(会長910)#ウルトラ第三番弟子 (029daisuki_910)
 
 <p>チョコtubeってある？あるんだったら参考したい</p>
@@ -3860,7 +3973,7 @@
 
 ---
 
-### 20. スタートページの代わりかディスコードが使える方法orサイトが欲しい
+### 26. スタートページの代わりかディスコードが使える方法orサイトが欲しい
 **Author:** Cheerful Piranha
 
 <p>スタートページ自体はブロックされてないんだけど匿名でビューするとus2？がブロックされてしまいます</p>
@@ -3876,7 +3989,7 @@
 
 ---
 
-### 21. 自由に検索できる、Proxy検索エンジン無料サイトがほしいです
+### 27. 自由に検索できる、Proxy検索エンジン無料サイトがほしいです
 **Author:** Proxyないと生きていけない
 
 #### Comments (4)
@@ -3892,7 +4005,7 @@
 
 ---
 
-### 22. daydreamX くれー
+### 28. daydreamX くれー
 **Author:** あ
 
 #### Additional Information
@@ -3902,7 +4015,7 @@
 
 ---
 
-### 23. ファイルなうを使いたいのですがおすすめのプロ棋士とかありますか？
+### 29. ファイルなうを使いたいのですがおすすめのプロ棋士とかありますか？
 **Author:** siitakeeeee
 
 #### Comments (1)
@@ -3915,7 +4028,7 @@
 
 ---
 
-### 24. 輪トレっていうアプリ入れられるよって人いますか？
+### 30. 輪トレっていうアプリ入れられるよって人いますか？
 **Author:** せなたろう (SENATAROu)
 
 #### Additional Information
@@ -3925,7 +4038,7 @@
 
 ---
 
-### 25. 恋愛したい
+### 31. 恋愛したい
 **Author:** Fabulous Magpie
 
 <p>誰か恋愛チャット持ってる方がいればお願いします。</p>
@@ -3941,7 +4054,7 @@
 
 ---
 
-### 26. DayDreamXとか
+### 32. DayDreamXとか
 **Author:** Hopeful Cheetah
 
 <p>Twitter入れるプロキシある？誰か持ってない〜？</p>
@@ -3959,7 +4072,7 @@
 
 ---
 
-### 27. Steam垢プロキシ通すと使えなくて草
+### 33. Steam垢プロキシ通すと使えなくて草
 **Author:** 削除済みユーザー (sakujosaretenaiyo)
 
 <p>Steam垢だれかくれ</p><p>報酬は持ってるサイトあげる</p>
@@ -3971,7 +4084,7 @@
 
 ---
 
-### 28. 誰か普通の画面でようつべ見れるサイト持ってない？shortだけでも構わん
+### 34. 誰か普通の画面でようつべ見れるサイト持ってない？shortだけでも構わん
 **Author:** 削除済みユーザー (sakujosaretenaiyo)
 
 <p>らんまーはshort45本くらいで見れなくなるからなぁ　Bot確認される</p><p>時間おいたら解決できるけどだるい</p>
@@ -3992,7 +4105,7 @@
 
 ---
 
-### 29. 誰かアニメ見れるサイトないですか
+### 35. 誰かアニメ見れるサイトないですか
 
 **Author:** 削除済みユーザー
 
@@ -4011,7 +4124,7 @@
 
 ---
 
-### 30. Xログインできるプロキシありませんか？
+### 36. Xログインできるプロキシありませんか？
 **Author:** 削除済みユーザー
 
 #### Comments (3)
@@ -4026,7 +4139,7 @@
 
 ---
 
-### 31. 太鼓ウェブについて
+### 37. 太鼓ウェブについて
 **Author:** タイピングを極めたい (taipinngu_zako)
 
 <p>太鼓ウェブってRenderでデプロイできるなら<a rel="noopener noreferrer nofollow" href="http://ydns.eu">ydns.eu</a>とかでもできるん？　できるんだったら作ってほしい（またはrailway）</p>
@@ -4041,7 +4154,7 @@
 
 ---
 
-### 32. クロムでできるロブロックスください
+### 38. クロムでできるロブロックスください
 **Author:** 削除済みユーザー
 
 <p>よろしくお願いします</p>
@@ -4060,7 +4173,7 @@
 
 ---
 
-### 33. わかめについて
+### 39. わかめについて
 **Author:** タイピングを極めたい (taipinngu_zako)
 
 <p>railwayでわかめの作り方教えてほしい</p>
@@ -4096,12 +4209,28 @@
 
 ---
 
-### 2. 学タブにJamf Trustついてんだが、どうしたらいい？
+### 2. winbirdの解除方法教えて(22:00)以降も使える方法
+**Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
+
+<p>youtubeダウンロードニキへ</p><p>https://dirpy.com</p>
+
+#### Comments (2)
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 12, 2026 10:30am): winbirdってなんだ？
+- **【超低浮上】Mr.k廃人** (Mar 13, 2026 10:20am): 授業支援クライアント
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 12, 2026 08:06am
+- **Updated At (UTC):** Mar 24, 2026 08:44am
+
+---
+
+### 3. 学タブにJamf Trustついてんだが、どうしたらいい？
 **Author:** Sanesane (Sanesane)
 
 **投稿の種類:** フィルターに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1774865393&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UqSJEwJ65aVzz6Nc6tnCjDgH1V24zGSh1%2FpsOWAi8Pc1FqHSqTUlfDa6MPWt2jdwrwUtgOSlBI4ikWaqN4qQCJ8YXL5%2FQ%2FKTJidA%2FS3JR%2BGURoqEsjOvzd0PJKYOpt%2FJnIpS1hdPW4EKrro7S9VRhI%2BMeJrYEnkj99SMytDxYI8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1774947291&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=p5Gspe1Gk0RqJmwSscB6AiFyWb13%2BMNkWZNVlESrIPWb%2Bj3VWh6LmIc6kSFM54NnAd%2Ff5SyITUUA3nx7Vg%2BtmvpAUBLeo1kgVMtcP2KseKua6D36EmhzdKPHDS9vRYiiN%2FRjuukwpPThR1Trq1iT6%2FJL4qlrknnyA5hkC1sQh78%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -4113,7 +4242,7 @@
 
 ---
 
-### 3. 仮説だけど話します。是非見て
+### 4. 仮説だけど話します。是非見て
 **Author:** k&K (gs185779)
 
 <p>＊これから書くことは全て仮説や自分の独断　　とか偏見です</p><p><br></p><p><br></p><p>自分の住んでいる地域では2ヶ月一回位の</p><p>ペースでタブレットの更新が入っるんだけど</p><p>その更新されるときに多分履歴とかも見られるんだけどその時多分見られるのが一週間以内の履歴だと思うのよ。なんでそう思うかというと、今日更新日だったんだけど昨日閲覧したれんれんとかMSNとかが規制されてて一週間前に閲覧したわかめがまだ生きてたのよ</p><p><br></p><p>この意見どう思うか聞きたいから</p><p>コメントに書いて！！</p>
@@ -4142,7 +4271,87 @@
 
 ## i-FILTER専用
 
-### 1. Iフィルターでもできる最強グーグルほしいです
+### 1. なんかISGCきえた
+**Author:** πr² (paiaaru)
+
+#### Comments (13)
+- **削除済みユーザー** (Jan 19, 2026 10:42am): ゑ、
+- **πr²** (Jan 19, 2026 10:47am): i-フィルターに変わった
+- **夢見る少女じゃいられない** (Jan 19, 2026 12:30pm): 同じく
+- **削除済みユーザー** (Jan 19, 2026 10:58pm): 山口は変わらん。
+- **残クレアルファード** (Jan 20, 2026 04:53am): ?
+- **きむちゃ。🤪💙.꒰ঌ12.12໒꒱** (Jan 20, 2026 08:27am): え、まじで消えてる()
+- **きむちゃ。🤪💙.꒰ঌ12.12໒꒱** (Jan 20, 2026 08:27am): 規制ゆるくなった(？
+- **Massa_games216** (Jan 20, 2026 12:34pm): huh
+- **なまけもの。** (Jan 24, 2026 11:08am): まってNatsuさん山口！？
+- **削除済みユーザー** (Jan 26, 2026 12:32am): うん
+- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Jan 26, 2026 01:09am): 同じー
+- **Quirky Duck** (Jan 28, 2026 08:36am): Youtubeの Watchをembed;変えるやつブロックされたんやけどby iPad勢
+- **Quirky Dragonfly** (Jan 29, 2026 03:35am): ゲームサイトありますか？ 
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 19, 2026 09:48am
+- **Updated At (UTC):** Mar 24, 2026 08:46am
+
+---
+
+### 2. i-フィルター追加されたせいでスクラッチにも制限あるのあるの草ｗ😀😀
+**Author:** 夢見る少女じゃいられない (hamasakiayumi)
+
+<p>i-フィルター被害者の会でも作ろうかなｗ</p>
+
+**投稿の種類:** フィルターに関する情報提供
+
+#### Comments (7)
+- **削除済みユーザー** (Jan 10, 2026 02:40am): (・∀・)ｲｲﾈ!!
+- **とりあえず。** (Jan 10, 2026 07:01am): ﾉﾙ！
+- **削除済みユーザー** (Jan 11, 2026 12:55am): あったら、入りたいです
+- **絵が好きな₺₺ㄘゃ❀** (Jan 23, 2026 05:54am): 入りまーす
+- **千夏** (Jan 26, 2026 09:22am): はいりたい
+- **ぽうぽう好きの座員** (Jan 28, 2026 05:17am): 入りたい
+- **Anonymous** (Feb 23, 2026 07:05am): 入りてぇ...
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 09, 2026 12:33pm
+- **Updated At (UTC):** Mar 24, 2026 08:45am
+
+---
+
+### 3. 自分が小学校の頃使ってたiPadのフィルター解除方法(ほぼ確実)
+**Author:** 削除済みユーザー
+
+<p>設定→一般→一番下のやつ押したら再起動してほぼクリーン状態(全てのデータ消えた)</p><p>多分これで消えてた..今はどうなってるんかな..</p>
+
+**投稿の種類:** フィルターに関する情報提供
+
+#### Comments (16)
+- **Optimistic Ant** (Jan 08, 2026 02:48am): それ普通に初期化じゃね、、、？
+- **坂本** (Jan 19, 2026 12:08pm): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/kxodWGblo4M0ZgP7) もしかしたらいけるかも
+- **WiiU** (Feb 07, 2026 05:31am): いけますかね
+- **三角定規** (Feb 11, 2026 10:32am): ようつべhttps://script.google.com/a/macros/ed-tachikawa.jp/s/AKfycbzpBonRXqocsyijbH1eQppowglK-lQZsE7FixwjGi-PY77ZYs-io-jMOVERorb-lgwAxQ/exec
+- **三角定規** (Feb 11, 2026 10:32am): https://script.google.com/a/macros/ed-tachikawa.jp/s/AKfycbzA0pSEaCuLy0I7sZnZdvLKHCgcGbSCPbVLNVLxkj8aWWKMrHpsEDBGcx-cOhk4jwP2/exec
+- **三角定規** (Feb 11, 2026 10:33am): 大量のわからないやつ（わかれば教えてほしいです）https://copy.sh/v86/?profile=netbsd
+- **三角定規** (Feb 11, 2026 10:33am): これはゲームhttps://binbashbanana.github.io/gfiles/list.html
+- **三角定規** (Feb 11, 2026 10:34am): プライベート検索https://s.mble.dk/
+- **三角定規** (Feb 11, 2026 10:36am): これもプライベート検索https://cse.google.com/cse?cx=3f0c745a47983fbea&q=%E3%81%82&oq=%E3%81%82&gs_l=partner-web.12...13907.13907.0.15141.0.0.0.0.0.0.0.0..0.0.csems%2Cnrl%3D10...0....1j4.34.partner-web..0.0.0.#gsc.tab=0&gsc.q=%E3%81%82&gsc.page=1 
+- **三角定規** (Feb 11, 2026 10:37am): バーチャルのやつ（語彙力https://ticket.xrcloud.jp/monocg/index?ec=event_305ba11f-ea9f-4394-819a-db14296a757f
+- **三角定規** (Feb 11, 2026 10:50am): 時間があったら少しでも覗いてみてくれると幸いです。
+- **みかん** (Feb 12, 2026 08:34am): ブロック解除成功!!!!!(webメール、m.kuku.luが開ける)
+- **ゆきちゃん** (Feb 18, 2026 12:59pm): ↑ブロック解除するとめっちゃ叱られるぞ
+- **ゆきちゃん** (Feb 18, 2026 01:00pm): 友達がやっ説教食らってた
+- **あ@低浮** (Feb 19, 2026 12:15pm): ⤴︎バレなきゃ問題無いのでは🤔(バレなきゃ犯罪じゃない精神)
+- **せいぜい** (Mar 17, 2026 04:21am): あの〜調べ方教えていただけると一緒に探せます教えてください
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 04, 2026 09:13am
+- **Updated At (UTC):** Mar 24, 2026 08:45am
+
+---
+
+### 4. Iフィルターでもできる最強グーグルほしいです
 **Author:** 削除済みユーザー
 
 <p>お願いします</p>
@@ -4216,7 +4425,7 @@
 
 ---
 
-### 2. help
+### 5. help
 **Author:** aaabbbccc (mazamaza)
 
 <p>プロキシ関係のスクラッチのサイトに入れません</p>
@@ -4232,7 +4441,7 @@
 
 ---
 
-### 3. 助けて
+### 6. 助けて
 **Author:** aaabbbccc (mazamaza)
 
 <p>i-フィルターがISGCとさらに追加されてから自分がキュレーしているスクラッチのスタジオに入れません</p>
@@ -4244,7 +4453,7 @@
 
 ---
 
-### 4. 助けて
+### 7. 助けて
 **Author:** aaabbbccc (mazamaza)
 
 <p>学校のタブレットがISGCとI-filter両方入っている詰み状況なのだがどうすれば良い</p><p>今まで使ってたproxyとか動画サイトが全滅したんだが</p>
@@ -4262,7 +4471,7 @@
 
 ---
 
-### 5. iPadアイフィルター解除
+### 8. iPadアイフィルター解除
 **Author:** おすし (h4218049)
 
 <p>設定→アクセシビリティ→タッチ→AssistiveTouch→AssistiveTouchをオン</p><p>シングルタップ→再起動</p><p>iF@Agentを起動→左上の歯車メニュー→再アクティベート→「実行してもよろしいですか？」で「実行」を長押し</p><p>長押ししている間にassistivetouchを押す→「再起動しますか？」で「再起動」を長押し→「実行」を押している手と「再起動」を押している手を同時にはなす</p><p>これを何回か繰り返すとifilterが起動しなくなります。</p><p>もう一度if@agentで再アクティベートをすると直ります。</p>
@@ -4294,7 +4503,7 @@
 
 ---
 
-### 6. 元々ISGCだけだったのがi-FILTERも追加された。。。。。。。。
+### 9. 元々ISGCだけだったのがi-FILTERも追加された。。。。。。。。
 **Author:** 夢見る少女じゃいられない (hamasakiayumi)
 
 #### Comments (5)
@@ -4311,7 +4520,7 @@
 
 ---
 
-### 7. 報告
+### 10. 報告
 **Author:** タイピングを極めたい (taipinngu_zako)
 
 <p>自分の学校が今i-フィルターとisgc２つの規制機能が追加されていました。これは昨日からと思われます。同じ状況の人は下にコメントしてください（固定希望）</p>
@@ -4333,7 +4542,7 @@
 
 ---
 
-### 8. I-FILTERどれもブロックされてて泣きそう！
+### 11. I-FILTERどれもブロックされてて泣きそう！
 **Author:** ☆Player☆ (cust0m)
 
 <p>だれかI-FILTER解除する方法教えて（プロキシも）</p><p><br></p>
@@ -4352,7 +4561,7 @@
 
 ---
 
-### 9. 速報!!
+### 12. 速報!!
 **Author:** πr² (paiaaru)
 
 <p>練馬区にisgcとi-filter入れられた（最悪・・・）片方でいいので削除の方法教えてくれたら幸いです</p>
@@ -4378,7 +4587,7 @@
 
 <p>先ほどゲームをしてるとフリーズしてしまって、再起動するとフィルタリングが更新されており、さっきまで使えていたサイトが使えなくなってしまいました。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1774865393&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Hjpg0hO2lB0YF0Xsij3qv8oCVsTTbK%2FAL7USUIrEB9mha6DkAhVRTT7n3br4UU%2ByQSe6gpFSJ7jYowWNvhfuY67pitvLnqrqQeU6JO9cMtz00bWX%2BjvQQ4Zo9B5DaHVqRzz7ucJ2dfecl4CeCuYuQhMX6L8G%2FaWdRFj6%2Bo7oKW8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1774947292&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=u9tGx2PxlvNGhPGKtbRzhDrWH5sQ3bzBUY1xpvleUhiiKByMEFEjdZ6HOP9Oq8NS6mIe7qxERTRipjwIVWQQhjFCctu5t%2FFRdVsSkwlt0z40W%2BbgvZmLe0Ru6TjS7MuqRICRiPyKzucGhhHqgasoLO0%2FQQftzhbpMUUC72pKNQo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **削除済みユーザー** (Dec 21, 2025 05:06am): 俺も金曜日そんな感じになった
@@ -4404,7 +4613,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1774865393&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UGtLYL2QoH2fzq9A1GCayMP1rGPJ6tAN%2FTxvoLQQ9uNLG3eWlObyWClCq1QShERCeyAMzO4FJMk6Ag%2BHmWaoplj5K3%2F21HDVWytt7516rkwXHJVurhns04zoF6eb%2BLAlGdjGHTIrvwXtQPoSl33hzU6KIonfHN7%2Fytiq1Lg%2Bbh0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1774947292&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SWW9zhO9VhCOg%2F80ku%2FU5ZJwDHtV7dP69BFZhH0Kvw1fqmkN8GT%2FHei7ZnZifcd7mpCbQjkftPXghqifwEtJNT0q3ii3twpawDMLNWGS9%2BRH5NbOsiSeDJ5ZY%2Bvn74kMZ5RDn4S0%2B6AIbpZKrZSBXdc6%2BgY6fwdcEsvUIEnl%2BwY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **πr²** (Nov 09, 2025 08:31am): フィルタリングルールの更新日時とか書いてあった
@@ -4998,7 +5207,143 @@
 
 ## プロキシ&ゲーム
 
-### 1. Shadow
+### 1. はじめまして
+**Author:** Serious Quail
+
+<p>Shadowは入れるし、検さくしてもどんなサイトに入ってもブロックされません。ちなみにこれはブラウザ。あんまり拡散しないで</p><p>ブロックされてたらごめんなさい。</p>
+
+**投稿の種類:** リンクの提供
+
+[Attachment 1](https://kengi.abl.cl/)
+
+#### Comments (5)
+- **Careful Panther** (Jun 30, 2025 09:39am): 神
+- **華奈** (Jul 05, 2025 02:49am): 入れたけど検索しても何も出てこない
+- **f5b2mjrkm3f8** (Jul 22, 2025 08:46am): url入力したら入れるよ
+- **削除済みユーザー** (Sep 23, 2025 04:51am): ぶろっくーーーー
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Jan 19, 2026 08:44am): ブロックされないけどアクセスできない......
+
+#### Reactions
+- **Average star rating:** 3.2
+- **Number of ratings:** 5
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 20, 2025 10:33pm
+- **Updated At (UTC):** Mar 24, 2026 08:49am
+
+---
+
+### 2. DogeUnblocker（自作です）
+**Author:** 国家財産トリニトロトルエン
+
+<p>できるぞーー</p>
+
+**投稿の種類:** リンクの提供
+
+[Attachment 1](https://vipproxer.baselinux.net/)
+
+#### Comments (22)
+- **るい** (Oct 01, 2025 10:32am): 規制
+- **トカゲ** (Oct 01, 2025 10:35am): 同じく規制
+- **sashasu11127** (Oct 01, 2025 11:27pm): 上に同じ
+- **マンズ** (Oct 02, 2025 12:15am): どうやって使えるんですか？
+- **匿名** (Oct 02, 2025 01:56am): 規制
+- **Unusual Dragonfly** (Oct 05, 2025 04:45am): I don't know how to use
+- **Michael Myers** (Oct 07, 2025 12:53am): 規制
+- **(スマホ没収され悲嘆なうの)学校のパソコンでプロキシ探して規制して遊ぶ受験生** (Oct 07, 2025 10:24am): え､使える 規制かからん神ないす
+- **ぐるぐるまっきー** (Oct 07, 2025 04:09pm): ブロックされた
+- **はるとねこ** (Oct 09, 2025 10:39am): 無理だぞおおおおおおおおおおおお
+- **削除済みユーザー** (Oct 09, 2025 12:56pm): w
+- **立川駅** (Oct 11, 2025 01:58am): ブロ
+- **削除済みユーザー** (Oct 19, 2025 12:47pm): みんなフィルター何?
+- **タイピングを極めたい** (Oct 20, 2025 11:07am): ガチ神
+- **削除済みユーザー** (Oct 21, 2025 11:31am): でーけた
+- **aaabbbccc** (Nov 27, 2025 10:53pm): 使えたけど無理になった
+- **．．。」** (Dec 01, 2025 12:03am): 無理
+- **どっかの小学生** (Dec 05, 2025 12:01am): 無理なんだけど
+- **匿名** (Jan 21, 2026 02:39am): できないんだけど意味わかんない
+- **さぁもんch** (Mar 05, 2026 09:49pm): 友達がスクラッチで作りました
+- **さぁもんch** (Mar 05, 2026 09:49pm): https://scratch.mit.edu/users/karakarann/
+- **Gentle Falcon** (Mar 05, 2026 11:36pm): ブロ
+
+#### Reactions
+- **Average star rating:** 3.0
+- **Number of ratings:** 2
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Oct 01, 2025 03:08am
+- **Updated At (UTC):** Mar 24, 2026 08:48am
+
+---
+
+### 3. VAPOR v3
+**Author:** guruma_ESTA (guruma_ESTA)
+
+<p>ICFS　       使用可能</p><p>I-FILTER　使用不可</p><p>ISGC          使用可能</p><p>Cisco umbrella　不明</p><p><br></p><p>情報提供お願いします。</p>
+
+**投稿の種類:** リンクの提供
+
+**最終更新日:** November 26, 2025
+
+[Attachment 1](https://wildcard.vapor.my.cdn.cloudflare.net/)
+
+#### Comments (21)
+- **狐うどんの狐(マダタスカル)** (Nov 24, 2025 10:15pm): 使えました!
+- **狐うどんの狐(マダタスカル)** (Nov 24, 2025 10:15pm): ありがとうございます
+- **メンマ** (Nov 24, 2025 11:32pm): ナイス
+- **あああ** (Nov 25, 2025 03:24am): ISGCいけた
+- **ha** (Nov 26, 2025 12:45am): i-フィルターぶろ
+- **陸上大好き** (Nov 27, 2025 11:26am): 普通に教育委員にブロックされた　黄色の画面の
+- **削除済みユーザー** (Dec 01, 2025 07:59am): 使えます!ありがとう！(ゲーム楽しいよ〜👍)
+- **omuraisu1** (Dec 01, 2025 10:07am): [Attachment](https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21/wish/goElQyGnBqObW3yY) 入れるけど使い方わからないです。
+- **ᏁγᎶ » Tøka_Kuŋ_** (Dec 01, 2025 10:55am): 左上の三角押してみ
+- **ᏁγᎶ » Tøka_Kuŋ_** (Dec 01, 2025 10:56am): YouTubeはNocookieで見れるっぽいな
+- **RX034** (Dec 02, 2025 09:10am): ISGC行けたわ
+- **ただの神** (Dec 03, 2025 09:05am): 検索はできないんですか？(サイトの)
+- **からあげ** (Dec 17, 2025 12:33am): Siscoいけます
+- **kamato nero neo** (Jan 16, 2026 03:05am): InterCLASS Filtering Service無理
+- **削除済みユーザー** (Jan 18, 2026 02:25pm): ICFS死んだ
+- **RX034のサブ垢** (Jan 29, 2026 09:57pm): いや、ICFSまだ生きてるぞ！(でもなんでか知らんがブラウザ機能だけは使えん)
+- **匿名** (Jan 24, 2026 11:13pm): InterCLASS Filtering Serviceだけどいけた(でも今watchが見れない)
+- **削除済みユーザー** (Feb 08, 2026 04:34am): ICFSブロ
+- **RX034** (Feb 11, 2026 02:16am): ICFS全然行けるぞ！！
+- **sk-toto** (Mar 16, 2026 10:42am): ページを開けません。サーバーが見つかりません。だトォおおおおおっっっ！
+- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 20, 2026 05:37pm): そうだよICFS今ひらけなくなってる
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 1
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Nov 24, 2025 09:39am
+- **Updated At (UTC):** Mar 24, 2026 08:48am
+
+---
+
+### 4. proxy
+**Author:** sanae1212 (cuzrij)
+
+**投稿の種類:** リンクの提供
+
+[Attachment 1](https://greatsword-v-4-ijb8.onrender.com/)
+
+#### Comments (4)
+- **RX034** (Dec 26, 2025 07:39am): ブロだあ
+- **sanae1212** (Dec 27, 2025 11:45pm): ごめん
+- **Artistic Oyster** (Feb 03, 2026 09:18am): リンクを開けませんってでる
+- **sk-toto** (Mar 16, 2026 10:43am): Not found???
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 26, 2025 04:32am
+- **Updated At (UTC):** Mar 24, 2026 08:48am
+
+---
+
+### 5. Shadow
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>➥ 大量配布所にて大量配布が可能です。リクエストは</strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26lMaNBDvojL-oAdpz24dgkRJv10R"><strong><mark>こちら</mark></strong></a><strong>。下の投稿も見てね。</strong></p><p><br></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://gooogle-setmodel.laviewddns.com/">https://gooogle-setmodel.laviewddns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gooogle-custom.laviewddns.com/">https://gooogle-custom.laviewddns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gooogle-resetmode.laviewddns.com/">https://gooogle-resetmode.laviewddns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gooogle-reserved.laviewddns.com/">https://gooogle-reserved.laviewddns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gooogle-yahoo.laviewddns.com/">https://gooogle-yahoo.laviewddns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://shadowshark.ipv64.net/">https://shadowshark.ipv64.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yuzutyan-2.ipv64.net/">https://yuzutyan-2.ipv64.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://matcha-a1.any64.de/">https://matcha-a1.any64.de/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://karaseee.f5.si/">https://karaseee.f5.si/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://shawa.f5.si/">https://shawa.f5.si/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://shadow-haihu-bynyanko.easterndns.com/">https://shadow-haihu-bynyanko.easterndns.com/</a></p></li></ul>
@@ -5014,7 +5359,7 @@
 
 ---
 
-### 2. Utopia
+### 6. Utopia
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>➥ 大量配布所にて大量配布が可能です。リクエストは</strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26lMaNBDvojL-oAdpz24dgkRJv10R"><strong><mark>こちら</mark></strong></a><strong>。下の投稿も見てね。</strong></p><p><br></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://think.sage.infovizija.com/">https://think.sage.infovizija.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://basic.login.pimentas.org/">https://basic.login.pimentas.org/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://know.read.randydorian.com/">https://know.read.randydorian.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://history.think.marinagore.com/">https://history.think.marinagore.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://data.solve.prxch.com/">https://data.solve.prxch.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://topic.know.ticpu.net/">https://topic.know.ticpu.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://notes.sci.kkleung.net/">https://notes.sci.kkleung.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://music.minds.alletrades.com/">https://music.minds.alletrades.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://write.arts.leadseminars.com/">https://write.arts.leadseminars.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://church.paper.singasoft.com/">https://church.paper.singasoft.com/</a></p></li></ul>
@@ -5030,7 +5375,7 @@
 
 ---
 
-### 3. Interstellar
+### 7. Interstellar
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>➥ 大量配布所にて大量配布が可能です。リクエストは</strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26lMaNBDvojL-oAdpz24dgkRJv10R"><strong><mark>こちら</mark></strong></a><strong>。下の投稿も見てね。</strong></p><p><br></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://toike.easterndns.com/">https://toike.easterndns.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://church.macgregoremc.com/">https://church.macgregoremc.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://dipakarmani.blinklab.com/">https://dipakarmani.blinklab.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://reshamvip.blinklab.com/">https://reshamvip.blinklab.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://alumulakakro.unibutton.com/">https://alumulakakro.unibutton.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://arraypush.unibutton.com/">https://arraypush.unibutton.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://hamburgerxtreme.unibutton.com/">https://hamburgerxtreme.unibutton.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cloudbarfbagisback.saugatnepal.com.np/">https://cloudbarfbagisback.saugatnepal.com.np/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu.bizis.si/">https://edu.bizis.si/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://bak2skewl.konpan.ch/">https://bak2skewl.konpan.ch/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://my-learning-hall.jemix.sg/">https://my-learning-hall.jemix.sg/</a></p></li></ul>
