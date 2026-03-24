@@ -1,4 +1,4 @@
-最終更新: 2026/03/24 20:49:39
+最終更新: 2026/03/24 22:15:15
 
 # 規制解除委員会(本部)
 
@@ -9,7 +9,7 @@
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 - **Posts:** 13
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Mar 23, 2026 12:38pm
+- **Updated At (UTC):** Mar 24, 2026 12:48pm
 
 ## ライター許可
 
@@ -118,7 +118,7 @@
 
 [Attachment 1](https://app.apponfly.com/trial)
 
-#### Comments (7)
+#### Comments (8)
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 12, 2026 12:37pm): やりますねえ
 - **入れ子＿構造** (Feb 13, 2026 11:38am): ありがとうご…あっ…無理でした…
 - **よもぎよもぎ** (Feb 14, 2026 09:04am): マジでイフエージェント硬すぎるぅ
@@ -126,6 +126,7 @@
 - **暇人　#ガチ目の低浮上** (Feb 21, 2026 05:30am): つかえん
 - **Invisible Pigeon** (Feb 24, 2026 07:50am): ほんまに
 - **赤目界隈覚醒合法ロリイルイるーの** (Mar 13, 2026 02:59am): すき
+- **みかん** (Mar 24, 2026 12:37pm): norrrrrrrrrrrrrrrrrrrrr(iーfiltera＠cloudの勝利)!(no!)
 
 #### Additional Information
 - **Created At (UTC):** Feb 12, 2026 12:31am
@@ -138,7 +139,7 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1774957778&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sT47acTooXf9Koo8hN5IgTZ%2FY6s21dNQpL8mcEUo8KsFrpHzdVEoQRyng325Z%2BaZjpWzcRKRqsyggiKq5JvLRYB2ImfZeuFJQ2rKrjQbuI0RhAEDHwiFSQwi3JGvSRK27%2FhnWmq24eWYXIEOw3YIfXI3btq1O%2B0HOQN0pFZ3k0g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1774962915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xzrTf3vbNjQoCUn8AT4bJC4c7cLbdXkeUAi3JbEKh5YQyrCm97r7SGp6%2FW3c6sj0VUH%2BRZrBpMxZbc3jVYG6PPuaEeI5DUtbsPCF%2BUoWgxnLbivt9SS58%2BAtmcYjVVorbtof33o5fo7sSJQGfY%2FETOf07V7zf%2B2bnXD6Zo%2B4%2F8c%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:02am
@@ -150,6 +151,10 @@
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 <p>パスワード:yuzu</p><p><a rel="noopener noreferrer nofollow" href="https://yuzutube1234.onrender.com/gate">https://yuzutube1234.onrender.com/gate</a></p>
+
+#### Comments (2)
+- **みかん** (Mar 24, 2026 12:41pm): そいつ使えん。ブロされた(i-filter@cloud)
+- **とるっぷい#復活#元ウンコマン** (Mar 24, 2026 12:48pm): まじ？
 
 #### Additional Information
 - **Created At (UTC):** Mar 18, 2026 12:21pm
@@ -175,7 +180,7 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1774957778&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mKMHFWr%2BnHOuffHdN%2Fiwc34K7ypKLbZAVQkNkUGetpM3WOh8EM70Rq3rr3NwcQYg7%2BwqML58wBCjWLpiffbhpoNK2mKMiDaKewUnc%2BWNMY3Bakjlw%2BQQVe6ZGhbKMShiBD3iaDpE2qjfo9SCpQdyNYGlhRp%2BOAMKMxeQfmmo57c%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1774962915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jbk625fXGxrjRp0sBXyIZ7Hewx69BGHdTjzBAQR94MvC5B%2B%2BJ5ApAYefYf9ChktnSnhWdC06FwFbY4K8BOx64XyTdVG%2FlKW3DbFfk2cB76zTK4Jp7%2FpJ%2FscSaPHSsIa57WCOm6W5hIM2I82nq1Lr6YZoxdOlfTuUkC1xlVyk4b4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Comments (5)
 - **グリーン** (Feb 07, 2026 02:58am): 見れなーい
