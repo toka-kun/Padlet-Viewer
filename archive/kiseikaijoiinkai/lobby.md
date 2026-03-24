@@ -1,4 +1,4 @@
-最終更新: 2026/03/24 22:15:13
+最終更新: 2026/03/25 08:34:19
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 8
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Mar 24, 2026 12:00pm
+- **Updated At (UTC):** Mar 24, 2026 11:07pm
 
 ## ルール
 
@@ -67,6 +67,9 @@
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 <p>メルアドを別部屋にて添付してください。</p><p>管理者以外が他の人の投稿を確認することはできません。</p><p>→の部屋にてメルアドを投稿してください。</p>
+
+#### Comments (1)
+- **Anonymous** (Mar 24, 2026 11:07pm): [Attachment](https://www.youtube.com/watch?pdlt=1&v=u772a-8qxPI) 
 
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 12:22pm
