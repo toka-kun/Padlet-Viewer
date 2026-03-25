@@ -1,4 +1,4 @@
-最終更新: 2026/03/25 18:55:26
+最終更新: 2026/03/25 19:51:27
 
 # 規制解除委員会(本部)
 
@@ -9,7 +9,7 @@
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 - **Posts:** 13
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Mar 25, 2026 12:03am
+- **Updated At (UTC):** Mar 25, 2026 10:33am
 
 ## ライター許可
 
@@ -103,6 +103,9 @@
 
 <p>Shadow </p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.colneech.co.uk/">https://shadow.nana.colneech.co.uk/</a> </p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.redlen.co.za/">https://shadow.nana.redlen.co.za/</a></p><p> </p><p>インターステラー </p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.colneech.co.uk/">https://interstellar.nana.colneech.co.uk/</a> </p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.redlen.co.za/">https://interstellar.nana.redlen.co.za/</a>　 </p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.goodwind.sk/">https://interstellar.nana.goodwind.sk/</a></p>
 
+#### Comments (1)
+- **Brilliant Buffalo** (Mar 25, 2026 10:33am): で、できない。だと
+
 #### Additional Information
 - **Created At (UTC):** Mar 19, 2026 12:45pm
 - **Updated At (UTC):** Mar 19, 2026 12:45pm
@@ -139,7 +142,7 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775037326&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bmAWkhkrU0vZTLiADKhSgHiUFDlp2aEaCH9KPe7McdM7A94TrT2tnj9JWaSwU15E%2BTahS1HsDGDnHnNpi3RdUQubjHSakRWpEkIT79N%2B1m6eydZa4qJ05B4BdVOGkkgXgqxaG9oExVhBRPk%2FPKHvi0Wq3YTXOfTKVYioKbSlBGQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775040687&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QoUGsRpSIKmB4Q1OQarAXECuiHVZXrSrDnbRXOMCfaswxraYScCFxbCX0SXN1WS9V2YIvLEnV3jICs809vEfZtiTz7NfP%2FDIvN9aKmsFCviHHxWxemLGmMAtImdXdrSao7pTeXbDRmlYRyF4V3s%2ByilELW2XQIZ3k7wXLcRSL0U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:02am
@@ -180,7 +183,7 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775037326&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RQAHh79tUqr%2FulRRgKRXMNDdIKJ%2FTjxus4IKTY5Q1%2BJVTPmVo5vri3uBHOCwZkVqvmtWI0OtFoKL07mD0PcNrRoQ32kG17cre%2BEi7qVcI%2FQh5OWJ%2BJK3hELVKv2kEiZGuDh%2FzVmu2mlPTlLBUDulagBcmVBcUq3O0MPjkqmIG%2FE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775040687&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jsQ%2FJHlsJVC5evuiqe9d%2BasrAlkUBlVyguxJW3XTwxhNAXfZBuC6ywQk0qbaVZRVzUmxk2xHCZ%2Fz4KStZQXmfwGa8nJWnofom%2BDelq5ld15FcbHoZlJezo04w0%2Fwv%2BnZnlQcn5AXYg0Lo37tO5huibvHrUBcG3HONAxLb8uHoYc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Comments (5)
 - **グリーン** (Feb 07, 2026 02:58am): 見れなーい
