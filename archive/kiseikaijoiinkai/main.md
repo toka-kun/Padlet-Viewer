@@ -1,4 +1,4 @@
-最終更新: 2026/03/25 19:51:27
+最終更新: 2026/03/25 20:42:42
 
 # 規制解除委員会(本部)
 
@@ -9,7 +9,7 @@
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 - **Posts:** 13
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Mar 25, 2026 10:33am
+- **Updated At (UTC):** Mar 25, 2026 11:42am
 
 ## ライター許可
 
@@ -29,11 +29,11 @@
 ### 1. 〜ルール〜
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
-<p>・転載時はこの部屋のリンクを貼る。</p><p>・荒らし、過度な暴言は即コメンターです。</p><p>(酷い場合は読者)</p><p>・権限乱用は禁止</p><p>(報告された場合は即コメンター)</p><p>・許可のない宣伝は禁止</p><p>・個人情報の投稿の投稿は禁止</p><p>(投稿を確認したら即BAN&amp;読者)</p>
+<p>・この部屋の物を転載するときは同時にこの部屋のリンクも貼ってください。</p><p>・無断転載には警告をします。</p><p>(無視したら即BAN)</p><p>・荒らし、過度な暴言は即コメンターです。</p><p>(酷い場合は読者)</p><p>・権限乱用は禁止</p><p>(報告された場合は即コメンター)</p><p>・許可のない宣伝は禁止</p><p>・個人情報の投稿の投稿は禁止</p><p>(投稿を確認したら即BAN&amp;読者)</p>
 
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 11:48am
-- **Updated At (UTC):** Mar 23, 2026 11:48am
+- **Updated At (UTC):** Mar 25, 2026 11:36am
 
 ---
 
@@ -45,6 +45,15 @@
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 11:51am
 - **Updated At (UTC):** Mar 23, 2026 11:51am
+
+---
+
+### 2. 閲覧数1300突破！
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
+
+#### Additional Information
+- **Created At (UTC):** Mar 25, 2026 11:41am
+- **Updated At (UTC):** Mar 25, 2026 11:41am
 
 ---
 
@@ -103,9 +112,6 @@
 
 <p>Shadow </p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.colneech.co.uk/">https://shadow.nana.colneech.co.uk/</a> </p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.redlen.co.za/">https://shadow.nana.redlen.co.za/</a></p><p> </p><p>インターステラー </p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.colneech.co.uk/">https://interstellar.nana.colneech.co.uk/</a> </p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.redlen.co.za/">https://interstellar.nana.redlen.co.za/</a>　 </p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.goodwind.sk/">https://interstellar.nana.goodwind.sk/</a></p>
 
-#### Comments (1)
-- **Brilliant Buffalo** (Mar 25, 2026 10:33am): で、できない。だと
-
 #### Additional Information
 - **Created At (UTC):** Mar 19, 2026 12:45pm
 - **Updated At (UTC):** Mar 19, 2026 12:45pm
@@ -114,35 +120,12 @@
 
 ## その他のサイト
 
-### 1. みんなへ朗報
-**Author:** いときち (HONDA_Believer)
-
-<p>学パソ勢、朗報だ。学タブ勢は厳しいかもしれないけど、このサイト使えば履歴に残さず普通のYouTubeとかTikTokとかはもちろんinstagramやXにFANZAやXvideosにアクセスできるサイトを見つけた。エグい。使ってみ。他のツールに戻れなくなるくらい飛ぶぞ。ただ欠点は20分間しか使えない。</p>
-
-[Attachment 1](https://app.apponfly.com/trial)
-
-#### Comments (8)
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 12, 2026 12:37pm): やりますねえ
-- **入れ子＿構造** (Feb 13, 2026 11:38am): ありがとうご…あっ…無理でした…
-- **よもぎよもぎ** (Feb 14, 2026 09:04am): マジでイフエージェント硬すぎるぅ
-- **Clever Caterpillar** (Feb 18, 2026 09:35am): みれねぇーー😂
-- **暇人　#ガチ目の低浮上** (Feb 21, 2026 05:30am): つかえん
-- **Invisible Pigeon** (Feb 24, 2026 07:50am): ほんまに
-- **赤目界隈覚醒合法ロリイルイるーの** (Mar 13, 2026 02:59am): すき
-- **葉月** (Mar 24, 2026 12:37pm): norrrrrrrrrrrrrrrrrrrrr(iーfiltera＠cloudの勝利)!(no!)
-
-#### Additional Information
-- **Created At (UTC):** Feb 12, 2026 12:31am
-- **Updated At (UTC):** Mar 23, 2026 11:53am
-
----
-
-### 2. YukiYouTubeを自動でつくれるアプリ
+### 1. YukiYouTubeを自動でつくれるアプリ
 **Author:** いときち (HONDA_Believer)
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775040687&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QoUGsRpSIKmB4Q1OQarAXECuiHVZXrSrDnbRXOMCfaswxraYScCFxbCX0SXN1WS9V2YIvLEnV3jICs809vEfZtiTz7NfP%2FDIvN9aKmsFCviHHxWxemLGmMAtImdXdrSao7pTeXbDRmlYRyF4V3s%2ByilELW2XQIZ3k7wXLcRSL0U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775043762&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Hcfd4MAkf2Q%2BFxEv6pKC7KTVORz4wo8wEk%2Fs6hQRyqtOGgIOZDx4XCktjWizbCRaDmybCZjyEI83Wvs2uibPRFMifThPQgCinpkXn2Ex1IIzsT2RPZhOnMwx7oet18Mcc9rmcpTMJDE2Dwbo1ryWlwnFS5v8O1%2FUDazjDFJ0Dek%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:02am
@@ -150,7 +133,7 @@
 
 ---
 
-### 3. yuzu tube
+### 2. yuzu tube
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 <p>パスワード:yuzu</p><p><a rel="noopener noreferrer nofollow" href="https://yuzutube1234.onrender.com/gate">https://yuzutube1234.onrender.com/gate</a></p>
@@ -165,7 +148,7 @@
 
 ---
 
-### 4. モモンガ
+### 3. モモンガ
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 <p><a rel="noopener noreferrer nofollow" href="https://momon-ga.com/">https://momon-ga.com/</a></p>
@@ -178,12 +161,12 @@
 
 ---
 
-### 5. YukiYouTubeを自動で作れるアプリのマニュアル
+### 4. YukiYouTubeを自動で作れるアプリのマニュアル
 **Author:** いときち (HONDA_Believer)
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775040687&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jsQ%2FJHlsJVC5evuiqe9d%2BasrAlkUBlVyguxJW3XTwxhNAXfZBuC6ywQk0qbaVZRVzUmxk2xHCZ%2Fz4KStZQXmfwGa8nJWnofom%2BDelq5ld15FcbHoZlJezo04w0%2Fwv%2BnZnlQcn5AXYg0Lo37tO5huibvHrUBcG3HONAxLb8uHoYc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775043762&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MlG5KWpCTHq6rQHC%2B3qIG3tPSyWzgSTvLkFF7MIVv68a2rR5Lp7MnW%2FpwwWwIKW4Mo%2F1Rn8lRhxmUWN13NB6C%2FcnUv4Fbg3lvpqGvZ%2FsNRvkiwAgurCcMaM2j5rgiVF8OBQ7a%2F7oEk3k2BybxaJBPLb7y9i%2FcACP4B1TcHoU8Qs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Comments (5)
 - **グリーン** (Feb 07, 2026 02:58am): 見れなーい
