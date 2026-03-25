@@ -1,4 +1,4 @@
-最終更新: 2026/03/25 11:23:30
+最終更新: 2026/03/25 20:42:40
 
 # 規制解除委員会(ライター受付)
 
@@ -9,18 +9,18 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 8
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Mar 25, 2026 12:01am
+- **Updated At (UTC):** Mar 25, 2026 11:39am
 
 ## ルール
 
-### 1. この部屋では基本主たちに従ってください。
+### 1. 〜ルール〜
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
-<p>主…。</p><p>とるっぷい</p><p><br/></p><p>中居正広の社会復帰を望む者</p><p><br/></p><p>いときち</p>
+<p><br/></p><p>・ライターになりたいなら僕のことをフォローしてください。</p><p>・間違ったメルアドを送らないでください。</p><p>・荒らし、過度な暴言は即コメンターです。</p><p>(酷い場合は読者)</p><p>・権限乱用は禁止</p><p>(報告された場合は即コメンター)</p><p>・許可のない宣伝は禁止</p><p>・個人情報の投稿の投稿は禁止</p><p>(投稿を確認したら即BAN&amp;読者)</p>
 
 #### Additional Information
-- **Created At (UTC):** Mar 23, 2026 11:56am
-- **Updated At (UTC):** Mar 23, 2026 11:56am
+- **Created At (UTC):** Mar 25, 2026 11:38am
+- **Updated At (UTC):** Mar 25, 2026 11:39am
 
 ---
 
@@ -67,9 +67,6 @@
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 <p>メルアドを別部屋にて添付してください。</p><p>管理者以外が他の人の投稿を確認することはできません。</p><p>→の部屋にてメルアドを投稿してください。</p>
-
-#### Comments (1)
-- **Anonymous** (Mar 24, 2026 11:07pm): [Attachment](https://www.youtube.com/watch?pdlt=1&v=u772a-8qxPI) 
 
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 12:22pm
