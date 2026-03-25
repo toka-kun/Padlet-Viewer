@@ -1,4 +1,4 @@
-最終更新: 2026/03/25 20:42:40
+最終更新: 2026/03/25 22:13:59
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 8
+- **Posts:** 7
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Mar 25, 2026 11:39am
+- **Updated At (UTC):** Mar 25, 2026 11:45am
 
 ## ルール
 
@@ -93,20 +93,5 @@
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 12:33pm
 - **Updated At (UTC):** Mar 23, 2026 12:33pm
-
----
-
-## アカウントがない人へ
-
-### 1. アカウントない人用の部屋
-**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
-
-<p>公開ライター！</p><p>(アカウントある人も使用ok)</p>
-
-[Attachment 1](https://padlet.com/TORI_TORI2/padlet-d3zndthnxky7hgvo)
-
-#### Additional Information
-- **Created At (UTC):** Mar 23, 2026 12:26pm
-- **Updated At (UTC):** Mar 23, 2026 12:30pm
 
 ---
