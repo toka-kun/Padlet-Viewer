@@ -1,4 +1,4 @@
-最終更新: 2026/03/25 20:42:42
+最終更新: 2026/03/25 22:14:01
 
 # 規制解除委員会(本部)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
-- **Posts:** 13
+- **Posts:** 14
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Mar 25, 2026 11:42am
+- **Updated At (UTC):** Mar 25, 2026 11:51am
 
 ## ライター許可
 
@@ -110,73 +110,77 @@
 ### 1. プロキシ
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
-<p>Shadow </p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.colneech.co.uk/">https://shadow.nana.colneech.co.uk/</a> </p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.redlen.co.za/">https://shadow.nana.redlen.co.za/</a></p><p> </p><p>インターステラー </p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.colneech.co.uk/">https://interstellar.nana.colneech.co.uk/</a> </p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.redlen.co.za/">https://interstellar.nana.redlen.co.za/</a>　 </p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.goodwind.sk/">https://interstellar.nana.goodwind.sk/</a></p>
+<p>Shadow </p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.colneech.co.uk/">https://shadow.nana.colneech.co.uk/</a> </p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.redlen.co.za/">https://shadow.nana.redlen.co.za/</a></p><p> </p><p>インターステラー </p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.colneech.co.uk/">https://interstellar.nana.colneech.co.uk/</a> </p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.redlen.co.za/">https://interstellar.nana.redlen.co.za/</a>　 </p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.goodwind.sk/">https://interstellar.nana.goodwind.sk/</a></p><p><br/></p><p>その他</p><p><a rel="noopener noreferrer nofollow" href="https://app.apponfly.com/trial">https://app.apponfly.com/trial</a></p>
 
 #### Additional Information
 - **Created At (UTC):** Mar 19, 2026 12:45pm
-- **Updated At (UTC):** Mar 19, 2026 12:45pm
+- **Updated At (UTC):** Mar 25, 2026 11:42am
 
 ---
 
 ## その他のサイト
 
-### 1. YukiYouTubeを自動でつくれるアプリ
+### 1. 自作アプリ
 **Author:** いときち (HONDA_Believer)
 
-<p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
+<p>pcの知識必要だよん。</p><p>わかめ作れるンゴ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775043762&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Hcfd4MAkf2Q%2BFxEv6pKC7KTVORz4wo8wEk%2Fs6hQRyqtOGgIOZDx4XCktjWizbCRaDmybCZjyEI83Wvs2uibPRFMifThPQgCinpkXn2Ex1IIzsT2RPZhOnMwx7oet18Mcc9rmcpTMJDE2Dwbo1ryWlwnFS5v8O1%2FUDazjDFJ0Dek%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775049241&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=C7J7%2Brr%2BZnsBfHeeaUbbY0mfwC%2FXQsNgXIxrb9ALec64ct6kF5efHpfH%2FsACVhWm1aQQ7mqeQW%2Bp%2BLz%2B8yVn6QjquBplsO%2B4ZRqKmDQ110RDyCTy3Q%2Fb582C33S%2B6l8SlUyHP4DbjyTJiM2kjsQpd3ZxLInsCBHbpbjfXNXt308%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:02am
-- **Updated At (UTC):** Mar 23, 2026 11:52am
+- **Updated At (UTC):** Mar 25, 2026 11:43am
 
 ---
 
 ### 2. yuzu tube
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
-<p>パスワード:yuzu</p><p><a rel="noopener noreferrer nofollow" href="https://yuzutube1234.onrender.com/gate">https://yuzutube1234.onrender.com/gate</a></p>
+<p>パスワード:yuzu</p>
 
-#### Comments (2)
-- **葉月** (Mar 24, 2026 12:41pm): そいつ使えん。ブロされた(i-filter@cloud)
-- **とるっぷい#復活#元ウンコマン** (Mar 24, 2026 12:48pm): まじ？
+[Attachment 1](https://yuzutube1234.onrender.com/gate)
 
 #### Additional Information
 - **Created At (UTC):** Mar 18, 2026 12:21pm
-- **Updated At (UTC):** Mar 20, 2026 09:44am
+- **Updated At (UTC):** Mar 25, 2026 11:48am
 
 ---
 
 ### 3. モモンガ
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
-<p><a rel="noopener noreferrer nofollow" href="https://momon-ga.com/">https://momon-ga.com/</a></p>
+<p><a rel="noopener noreferrer nofollow" href="https://momon-ga.com/">https://momon-ga.com/</a></p><p><br/></p><p>エロ漫画</p><p>プロキシで開いて</p>
 
 [Attachment 1](https://momon-ga.com/)
 
 #### Additional Information
 - **Created At (UTC):** Mar 20, 2026 08:08am
-- **Updated At (UTC):** Mar 20, 2026 09:47am
+- **Updated At (UTC):** Mar 25, 2026 11:44am
 
 ---
 
-### 4. YukiYouTubeを自動で作れるアプリのマニュアル
+### 4. 自作アプリのマニュアル
 **Author:** いときち (HONDA_Believer)
 
-<p>わかんないことあったら呼んでみてね。</p>
+<p>わかんないことあったら読んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775043762&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MlG5KWpCTHq6rQHC%2B3qIG3tPSyWzgSTvLkFF7MIVv68a2rR5Lp7MnW%2FpwwWwIKW4Mo%2F1Rn8lRhxmUWN13NB6C%2FcnUv4Fbg3lvpqGvZ%2FsNRvkiwAgurCcMaM2j5rgiVF8OBQ7a%2F7oEk3k2BybxaJBPLb7y9i%2FcACP4B1TcHoU8Qs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
-
-#### Comments (5)
-- **グリーン** (Feb 07, 2026 02:58am): 見れなーい
-- **ヒカキン（偽）** (Feb 12, 2026 05:02am): すご～い🧐
-- **ヒカキン（偽）** (Feb 12, 2026 05:09am): ヤバ
-- **Y** (Feb 14, 2026 02:39pm): 天才
-- **わいだよーー** (Feb 22, 2026 07:23am): マジですか
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775049241&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ySh3iJOhXJDYiIm3r8EaQfuDbGMVYauUmR6rrQc7FJNYwbbmYJp6JreJYVV%2BKiQUMG7VyjZf6DHufOWAGlh0tkUDcQmQgiRRG69VfoMu6%2FBc0zO4TIWGT7ae2dkqZ%2FQCKz5uvD0TdzcjBwEmz3RzUF0RNqnHTcZsNwtigj0ub1o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:03am
-- **Updated At (UTC):** Mar 23, 2026 11:52am
+- **Updated At (UTC):** Mar 25, 2026 11:44am
+
+---
+
+## 宣伝
+
+### 1. エドガー部屋
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
+
+[Attachment 1](https://padlet.com/edodesu/padlet-m2mmlqn2oow93w4l)
+
+#### Additional Information
+- **Created At (UTC):** Mar 25, 2026 11:46am
+- **Updated At (UTC):** Mar 25, 2026 11:48am
 
 ---
