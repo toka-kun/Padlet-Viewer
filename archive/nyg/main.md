@@ -1,4 +1,4 @@
-最終更新: 2026/03/25 22:13:29
+最終更新: 2026/03/26 00:00:43
 
 # プロキシのリンクやYouTubeの閲覧方法を共有する会
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 425
 - **Created At (UTC):** Aug 20, 2024 10:59pm
-- **Updated At (UTC):** Mar 25, 2026 11:58am
+- **Updated At (UTC):** Mar 25, 2026 02:34pm
 
 ## リンク集
 
@@ -49,7 +49,7 @@
 
 **最終更新日:** September  4, 2025
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/621ab046b2ae10ed54cb176137ac73cb/________2_.png?Expires=1775049201&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=L1wvcFbHjLqwlFjGn0n3etSakqha69UDixXe%2FCe55fZALKd9XxnXlQA1d%2FbK2NGlBe3zHXY4FjQufQqNYz9wiIdMHA3AfbDRm8m6f2Ino4Ld3Uh%2B5IWyfk8%2BqAPDLnkxjnXu%2BZnrTpPvg7MLv0kfKopdTdk3XXeILIFGImJiTo8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F621ab046b2ae10ed54cb176137ac73cb%2F________2_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/621ab046b2ae10ed54cb176137ac73cb/________2_.png?Expires=1775055634&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Tyn%2FrRIJME811M%2FagL%2FX4JWtaj6CYHmUvdncT5a5c4p%2Bdw4j3EBucNWt9jQ%2BMZ83pfaSdG14JXJjk1QFeKrBDyF6V0OGUggzy3oUN4krWvnry1x6Mosz6SEPRI3%2FhpkDJ4qGSo%2BPgQPfDZfchCXtxUiUwUk5n7Xw4O%2Fi5lr0D7k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F621ab046b2ae10ed54cb176137ac73cb%2F________2_.png)
 
 #### Comments (1)
 - **ゾン** (Jun 01, 2025 12:07pm): 消したんだやっと
@@ -165,7 +165,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 10, 2026 07:57am): 要求されて渡すことはない
 - **panpanda** (Feb 10, 2026 09:03am): 一定期間の活動って具体的になんですか
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 10, 2026 10:02am): それは公開してない
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 11, 2026 05:35pm): ありがとうございます。これからもよろしくお願いします。
+- **NyrikX(足立区陣ICFS系)** (Feb 11, 2026 05:35pm): ありがとうございます。これからもよろしくお願いします。
 - **Zeon** (Feb 14, 2026 03:20am): お願いしまーす
 - **Kan Tsubaki　　aoi** (Feb 20, 2026 12:12pm): ライターください
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 20, 2026 10:06pm): 日本語読めない系か
@@ -197,13 +197,13 @@
 #### Comments (13)
 - **omuraisu1** (Mar 19, 2026 10:33am): ブロックされました
 - **Charismatic Cockatoo** (Mar 19, 2026 10:51am): こっちブロやな
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 20, 2026 05:06am): なんでこっちのlabo5は動画が見れるんだろう。普通のlabo5動画見れないの悲しい
+- **NyrikX(足立区陣ICFS系)** (Mar 20, 2026 05:06am): なんでこっちのlabo5は動画が見れるんだろう。普通のlabo5動画見れないの悲しい
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 19, 2026 09:38pm): 僕が改造したから
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 20, 2026 04:31am): いけました
 - **ルパン三十八世** (Mar 20, 2026 06:27am): いけた！！まじで神！
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 21, 2026 05:49am): 雑学的なー足立区で使うわかめtubeは全ていつも関連動画が出てこない()
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 21, 2026 11:07am): 全てのpadlet部屋以外の別のサイトにあるわかめtubeも関連動画出てこないというもうエラーどころじゃない。同じ人いるのかな。関連動画機能ってついてるしせっかくならできたほうがいいと思う
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 22, 2026 06:06am): 今までのわかめtube Plus全部ブロでした
+- **NyrikX(足立区陣ICFS系)** (Mar 21, 2026 05:49am): 雑学的なー足立区で使うわかめtubeは全ていつも関連動画が出てこない()
+- **NyrikX(足立区陣ICFS系)** (Mar 21, 2026 11:07am): 全てのpadlet部屋以外の別のサイトにあるわかめtubeも関連動画出てこないというもうエラーどころじゃない。同じ人いるのかな。関連動画機能ってついてるしせっかくならできたほうがいいと思う
+- **NyrikX(足立区陣ICFS系)** (Mar 22, 2026 06:06am): 今までのわかめtube Plus全部ブロでした
 - **たいち** (Mar 22, 2026 08:05am): ブロ
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 23, 2026 12:07am): yooo whats up
 - **あ** (Mar 23, 2026 02:19am): 僕も関連動画は全部のリンクで出てきません　不便ってことはないですがあった方がいいので修正できればお願いしたいです🙇
@@ -233,7 +233,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 16, 2026 07:18am): 更新した
 - **フブさん** (Mar 16, 2026 07:28am): 認証コードって何ですか？
 - **Wise Hamster** (Mar 16, 2026 07:46am): こーどなくてもいけるくね？
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 18, 2026 11:50pm): こっちは404、502エラーは起きてない
+- **NyrikX(足立区陣ICFS系)** (Mar 18, 2026 11:50pm): こっちは404、502エラーは起きてない
 - **湖池屋ポテトONチップス** (Mar 16, 2026 09:21am): プロ
 - **山本** (Mar 16, 2026 10:31am): ありがとうございます
 - **エビMC** (Mar 16, 2026 09:56pm): コードください
@@ -366,19 +366,19 @@
 
 <p>新しく<strong>”ご意見板”</strong>セクションを追加しました。ここのボードに対する<strong>要望や不満、既に死んでいて使えないサイトなどがある場合はこのセクションに投稿して下さい。</strong>管理者側もここを見て改善していくのでよろしくお願いします。</p>
 
-#### Comments (33)
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 11, 2026 06:59am): Utopiaについてで、私が昔に使えたUtopiaはそうではありませんでしたが、今使えるUtopiaは広告オフと設定しても広告が頻繁に出てきます。Kazwireについてで、開けたものはすべてそのkazwireのサイトの中でyoutubeとか飛び込もうとしてもボタンをどう押しても何も反応がありません。修正できませんか？
+#### Comments (34)
+- **NyrikX(足立区陣ICFS系)** (Feb 11, 2026 06:59am): Utopiaについてで、私が昔に使えたUtopiaはそうではありませんでしたが、今使えるUtopiaは広告オフと設定しても広告が頻繁に出てきます。Kazwireについてで、開けたものはすべてそのkazwireのサイトの中でyoutubeとか飛び込もうとしてもボタンをどう押しても何も反応がありません。修正できませんか？
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 22, 2026 11:04am): chrome://new-tab-page　は普通にただの新しいタブ
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 22, 2026 11:05am): サイトのリンクですらないしStartpageみたいなGoogleの検索アルゴリズムを搭載しつつプロキシとしての機能をもつやつはそう簡単には見つからない
 - **kamato nero neo** (Jan 23, 2026 01:24pm): shadow大体死亡です。InterCLASS Filtering Serviceだけかもなので確認お願いします。ブロックとかではないので。
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 11, 2026 05:13am): Chromebookでのブロック解除方法　友だちから教えてもらった方法です。リフレッシュキー（更新キー）と電源ボタンを同時に押し、その後すぎに再起動されるのでログインし、それをもう一回繰り返します。そしたら出来てるはずです。
+- **NyrikX(足立区陣ICFS系)** (Feb 11, 2026 05:13am): Chromebookでのブロック解除方法　友だちから教えてもらった方法です。リフレッシュキー（更新キー）と電源ボタンを同時に押し、その後すぎに再起動されるのでログインし、それをもう一回繰り返します。そしたら出来てるはずです。
 - **proxyを探す者** (Jan 24, 2026 06:42am): その方法マジで神　普通にできたんだけどありがと！
 - **Nervous Crocodile** (Jan 24, 2026 08:04am): え?足立区人?
 - **Nervous Crocodile** (Jan 24, 2026 08:04am): そうだったら最高
 - **かから** (Jan 24, 2026 08:26am): やり方とかもっと詳しく
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 11, 2026 12:45pm): 私はガチの足立区人です。先にいっておきますが、この方法はChromebookのハードウェアの強制再起動というらしいです。「又は」のあとに書かれている文章は私のできた時の場合とします。それが書かれてないところは通常の方法と同じです。　説明が下手かもしれないけどよろしくお願いします！　　　　　　　　　　　　　　　　　　　　　　　方法0:とばす又は管理者の制限の時間帯以降に事前に大量にタブを開いてバグらせ、次によく方法1と2をためします。　0と1と2を何回か繰り返します。　タブを消したりもっと増やしてもokです。　　　　　　　　　　　　　　　　　　　　　　　　　　方法1:最初に、通常の状態又は管理者の制限の時間帯のあとに、キーボードにあるリフレッシュキー（別名更新キー）と端末の横の電源ボタンを同時に押す。　　　　　　　　　　　　　　　　　　　　　　　　　　　　方法2:そしたら再起動されるので一度ログインする。（wifiオフのログインとオンのログインの仕方がありますが、私はオンの通常のログインでできました。）　　　　　　　　　　　　　　　　　　　　　　　　　　　　方法3:バグの発生が有無関係せず、何もしないでもう一度方法1と2をやる。（リフレッシュキーと電源ボタンを同時に押し、ログイン）（ログイン後復元ボタンが右上に表示されますが押すかは自由です。たしかあまり押していなかった気がしますが、押した時もありました。）　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　方法4:これで一度ブロックされたものに入ってみてください。もしだめだったら方法1と2をもう数回繰り返します。そして毎回確認します。これを数日間続けるだけです。　　　　　　　　　　　　　　　　　　　　　　　　　初めてできたときは一昨日ですが、忘れています。私の塾の友達がどうやってこの方法を知ったかというと、彼はパソコン部で、さっき教えた方法を先生がやっているのを見てしまったそうです。そして学校全体に渡って実行する人も実行する回数も多いそうです。もう少し立ったら彼らの学校では具体的にどんな感じにこの方法をやっているのか聞く予定です。
+- **NyrikX(足立区陣ICFS系)** (Feb 11, 2026 12:45pm): 私はガチの足立区人です。先にいっておきますが、この方法はChromebookのハードウェアの強制再起動というらしいです。「又は」のあとに書かれている文章は私のできた時の場合とします。それが書かれてないところは通常の方法と同じです。　説明が下手かもしれないけどよろしくお願いします！　　　　　　　　　　　　　　　　　　　　　　　方法0:とばす又は管理者の制限の時間帯以降に事前に大量にタブを開いてバグらせ、次によく方法1と2をためします。　0と1と2を何回か繰り返します。　タブを消したりもっと増やしてもokです。　　　　　　　　　　　　　　　　　　　　　　　　　　方法1:最初に、通常の状態又は管理者の制限の時間帯のあとに、キーボードにあるリフレッシュキー（別名更新キー）と端末の横の電源ボタンを同時に押す。　　　　　　　　　　　　　　　　　　　　　　　　　　　　方法2:そしたら再起動されるので一度ログインする。（wifiオフのログインとオンのログインの仕方がありますが、私はオンの通常のログインでできました。）　　　　　　　　　　　　　　　　　　　　　　　　　　　　方法3:バグの発生が有無関係せず、何もしないでもう一度方法1と2をやる。（リフレッシュキーと電源ボタンを同時に押し、ログイン）（ログイン後復元ボタンが右上に表示されますが押すかは自由です。たしかあまり押していなかった気がしますが、押した時もありました。）　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　方法4:これで一度ブロックされたものに入ってみてください。もしだめだったら方法1と2をもう数回繰り返します。そして毎回確認します。これを数日間続けるだけです。　　　　　　　　　　　　　　　　　　　　　　　　　初めてできたときは一昨日ですが、忘れています。私の塾の友達がどうやってこの方法を知ったかというと、彼はパソコン部で、さっき教えた方法を先生がやっているのを見てしまったそうです。そして学校全体に渡って実行する人も実行する回数も多いそうです。もう少し立ったら彼らの学校では具体的にどんな感じにこの方法をやっているのか聞く予定です。
 - **かから** (Jan 25, 2026 12:17am): 方法0:とばす又は管理者の制限の時間帯以降に事前に大量にタブを開いてバグらせ、次によく方法1と2をためします。　0と1と2を何回か繰り返します。　タブを消したりもっと増やしてもokです。　　って10時以降にやれということ?
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 11, 2026 07:14am): そだよ
+- **NyrikX(足立区陣ICFS系)** (Feb 11, 2026 07:14am): そだよ
 - **かから** (Jan 25, 2026 09:51pm): 無理だった
 - **かから** (Jan 27, 2026 10:30am): ありがとぉぉ
 - **Supportive Duck** (Jan 28, 2026 12:14am): 俺は複数搭載系かわかめtubeしか使えないんだけど最近それが使えない… 明石市の中学校のタブレットでもYouTubeが観れるようにしてほしい
@@ -390,16 +390,17 @@
 - **panpanda** (Feb 10, 2026 12:21pm): でも多少重かったり一部の機能が使えなくなったりしますね。
 - **削除済みユーザー** (Feb 11, 2026 06:27am): chromebookのポリシー解除❓️
 - **削除済みユーザー** (Feb 11, 2026 06:43am): shimboot使わないんか
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 11, 2026 06:52am): そんなのあるの?!
+- **NyrikX(足立区陣ICFS系)** (Feb 11, 2026 06:52am): そんなのあるの?!
 - **RX034** (Feb 11, 2026 09:34am): Toka-Kun
 - **RX034** (Feb 11, 2026 09:34am): いるか？
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 11, 2026 12:46pm): この解除方法、右の専用セクションのとこに投稿しといてくれない？
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 12, 2026 06:50am): これでいいですか？
+- **NyrikX(足立区陣ICFS系)** (Feb 12, 2026 06:50am): これでいいですか？
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 14, 2026 10:58am): Thanks
 - **チキバナ** (Feb 16, 2026 12:41am): リカバリメモリでlinux起動するんだよ
 - **８１１** (Mar 20, 2026 11:53pm): 足立区の組織のブロックの解除法を教えてほしい
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 21, 2026 05:37am): それ私もわかんないんだよね〜
+- **NyrikX(足立区陣ICFS系)** (Mar 21, 2026 05:37am): それ私もわかんないんだよね〜
 - **Magurock (偽物･乗っ取り注意)** (Mar 25, 2026 10:10am): Tøka_Kuŋ_さんお久しぶりですもしよければPadletの人口増やすために協力して欲しいです
+- **NyrikX(足立区陣ICFS系)** (Mar 25, 2026 02:31pm): 学校で流行って欲しいけどブロックされるか心配だから少しの友達しか教えてない...
 
 #### Reactions
 - **Average star rating:** 4.4
@@ -469,9 +470,10 @@
 
 [Attachment 1](https://open.spotify.com/track/3tNoq0EbzEupbiVE7JGsOx)
 
-#### Comments (2)
+#### Comments (3)
 - **あ@低浮** (Mar 24, 2026 11:38pm): ブロックはされないけどなんか、ログインできんくなった…？
 - **きむちゃ。🤪💙.꒰ঌ12.12໒꒱** (Mar 25, 2026 05:35am): さいしょからブロ（）
+- **NyrikX(足立区陣ICFS系)** (Mar 25, 2026 02:27pm): あのーICFSは最初から2024年〜2025年の4月ぐらいまではブロックかかってなかったけどその後ブロックされた。使えてたときはログインブロックされてた気がする
 
 #### Additional Information
 - **Post color:** White
@@ -515,7 +517,7 @@
 #### Comments (4)
 - **Anonymous** (Mar 23, 2026 11:54am): れんだーでやったら操作は許可されてませんって出た 
 - **仙人@suger** (Mar 24, 2026 10:04am): Csb推奨だよRender垢が垢BANされる可能性があるあと許可されてませんはフォークしないと出来ない
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 24, 2026 12:06pm): どうやって使うんですか？学パソでもできますか？
+- **NyrikX(足立区陣ICFS系)** (Mar 24, 2026 12:06pm): どうやって使うんですか？学パソでもできますか？
 - **aaabbbccc** (Mar 24, 2026 11:22pm): なんかフォークできない
 
 #### Additional Information
@@ -565,7 +567,7 @@
 - **adepen1210** (Mar 19, 2026 11:58am): わかりやすいし文献も多いから初心者でも入りやすい
 - **仙人@suger** (Mar 19, 2026 12:32pm): 僕はpythonやな構文が簡単だからね。僕も一番最初に勉強したよ
 - **削除済みユーザー** (Mar 20, 2026 04:21am): なるほど
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 20, 2026 05:19am): proxyの作り方見たけどアルファベットたくさんあってむずすぎる...
+- **NyrikX(足立区陣ICFS系)** (Mar 20, 2026 05:19am): proxyの作り方見たけどアルファベットたくさんあってむずすぎる...
 
 #### Additional Information
 - **Post color:** White
@@ -593,12 +595,12 @@
 **Author:** 削除済みユーザー (sakujosaretenaiyo)
 
 #### Comments (13)
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 16, 2026 09:24am): どんな方法でICFS無効化できた？強制再起動の方？
+- **NyrikX(足立区陣ICFS系)** (Mar 16, 2026 09:24am): どんな方法でICFS無効化できた？強制再起動の方？
 - **削除済みユーザー** (Mar 17, 2026 10:18am): クロムバグってたから、再起動→15分後とかにまたバグ→再起動を繰り返してたらこうなった
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 17, 2026 10:48am): 珍しいなあ、昔タブ開きまくって解除した数日後に必ず画面がバグって止まってたまに動いて電源切ってもう一回やんないといけなかった
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 18, 2026 01:15am): About:Blankできるプロキシ使うとめっちゃいいよ！履歴残らないから
+- **NyrikX(足立区陣ICFS系)** (Mar 17, 2026 10:48am): 珍しいなあ、昔タブ開きまくって解除した数日後に必ず画面がバグって止まってたまに動いて電源切ってもう一回やんないといけなかった
+- **NyrikX(足立区陣ICFS系)** (Mar 18, 2026 01:15am): About:Blankできるプロキシ使うとめっちゃいいよ！履歴残らないから
 - **きむちゃ。🤪💙.꒰ঌ12.12໒꒱** (Mar 18, 2026 06:11am): [Attachment](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/goElQyOz21evW3yY) これはどうすればいいのだ
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 18, 2026 04:29pm): そのエラー一回も出てきたことないんだけど
+- **NyrikX(足立区陣ICFS系)** (Mar 18, 2026 04:29pm): そのエラー一回も出てきたことないんだけど
 - **削除済みユーザー** (Mar 18, 2026 10:31pm): それは時間置けば直る
 - **削除済みユーザー** (Mar 19, 2026 01:38am): >About:Blankできるプロキシ使うとめっちゃいいよ！履歴残らないから それはそうだけど折角直でいけるのにプロキシ使うのなんかなー⋯となって今ここに言ってるとこよ
 - **削除済みユーザー** (Mar 19, 2026 01:39am): プロキシだとXもいけないし
@@ -615,7 +617,7 @@
 ---
 
 ### 10. 中国板Github 「Gitee」
-**Author:** NyrikX-Tokuyo(足立区陣ICFS系) (h3000370)
+**Author:** NyrikX(足立区陣ICFS系) (h3000370)
 
 <p>使わんかもしれないけど送ってく。ICFSかかってない。使うとき翻訳でどうにかして。</p><p>あとは似たやつ</p><p><a rel="noopener noreferrer nofollow" href="https://gitcode.com/">https://gitcode.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://www.csdn.net/?spm=1018.2226.3001.4476">https://www.csdn.net/?spm=1018.2226.3001.4476</a></p><p><a rel="noopener noreferrer nofollow" href="https://www.infoq.cn/">https://www.infoq.cn/</a></p><p><a rel="noopener noreferrer nofollow" href="https://www.zhihu.com/">https://www.zhihu.com/</a></p>
 
@@ -623,9 +625,9 @@
 
 #### Comments (5)
 - **Benevolent Narwhal** (Mar 15, 2026 11:25am): 何ににつかえばいいかわからん
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 15, 2026 11:50am): proxy作るときだよ
+- **NyrikX(足立区陣ICFS系)** (Mar 15, 2026 11:50am): proxy作るときだよ
 - **Wise Hamster** (Mar 16, 2026 11:35am): どうやって作るの？
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 17, 2026 07:42am): Giteeは中国の高速なホスティングサービスで、GitHubと同様にGitコマンドやWeb操作でプロジェクト管理が可能です。アカウント作成後、リポジトリを作成し、ファイルをアップロードまたはgit pushすることでコードを公開・共有できます。詳細な操作ガイドはGitee上で確認できます。詳細はmvphp/Gitee操作极速上手指南を参照してください。
+- **NyrikX(足立区陣ICFS系)** (Mar 17, 2026 07:42am): Giteeは中国の高速なホスティングサービスで、GitHubと同様にGitコマンドやWeb操作でプロジェクト管理が可能です。アカウント作成後、リポジトリを作成し、ファイルをアップロードまたはgit pushすることでコードを公開・共有できます。詳細な操作ガイドはGitee上で確認できます。詳細はmvphp/Gitee操作极速上手指南を参照してください。
 - **ルパン三十八世** (Mar 25, 2026 10:22am): https://www.dns.com/zh　　これも中国のやつプロキシかどうかは知らないけど
 
 #### Additional Information
@@ -648,19 +650,20 @@
 
 <p>Padletの仕様上4つまでしか選択肢を作れないから無理矢理まとめてます。</p><p><br></p><p>Wistaはまだリリース直後であんまり配布されてなくて使用感が分からないと思うから外してます。</p>
 
-#### Comments (12)
+#### Comments (13)
 - **なんとか。** (Feb 27, 2026 01:54pm): pad欠陥多くて草
 - **woolisbest** (Mar 02, 2026 01:34pm): wista一択でしょww
 - **入れ子＿構造** (Mar 03, 2026 07:57pm): まだ見てないものもあるけどMINとか+が動画の読み込みが最高
 - **aaabbbccc** (Mar 05, 2026 04:24am): どれも使えん
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 07, 2026 09:45am): yuzu
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 09, 2026 10:59am): 一部ブロックされてないXeroxYTやYuzuTubeはLABO5と同じような再生エラーが起きるけど普通にそこ直して使いたい！ブロックされてるWistaはinvidiousストイームで見れるけどけっこうたくさんあるしあtubeと同じように数分待たないと見れない。wistaサーバーわかめで利用できなかった。れんれんtubeや仙人tube、Wool-Tubeはなぜか何らかのエラーが起きてしかも全てブロックされてる。チョコtubeやYouTube Plus+やYuki YouTube+はまあまあよいがほとんどがブロックされててチョコtube全滅。わかめは確かに使いやすくていい。やっぱわかめもいいなあ、ただ、超強化したわかめ使った後の履歴見たらやばかった
+- **NyrikX(足立区陣ICFS系)** (Mar 09, 2026 10:59am): 一部ブロックされてないXeroxYTやYuzuTubeはLABO5と同じような再生エラーが起きるけど普通にそこ直して使いたい！ブロックされてるWistaはinvidiousストイームで見れるけどけっこうたくさんあるしあtubeと同じように数分待たないと見れない。wistaサーバーわかめで利用できなかった。れんれんtubeや仙人tube、Wool-Tubeはなぜか何らかのエラーが起きてしかも全てブロックされてる。チョコtubeやYouTube Plus+やYuki YouTube+はまあまあよいがほとんどがブロックされててチョコtube全滅。わかめは確かに使いやすくていい。やっぱわかめもいいなあ、ただ、超強化したわかめ使った後の履歴見たらやばかった
 - **パチリス** (Mar 09, 2026 03:45am): わかめはすぐブロされるからあんま
 - **けろろん‼️** (Mar 12, 2026 05:56am): yukiですかね
 - **geometrydash mobileガチ勢** (Mar 12, 2026 09:24am): yuki YouTubeとyoutube plusがいい！使いやすい！チョコtubeやXeroxYTやしあtubeもいい！わかめもいいね！
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 12, 2026 10:39am): 一応わかめPlusにしあtubeとXeroxYT搭載してる
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 15, 2026 10:59am): XeroxYT動画再生できないんだよな...XeroxYTをしあtubeのようにGoogle App Scriptを使って作ってほしい(前にもあったから)
+- **NyrikX(足立区陣ICFS系)** (Mar 15, 2026 10:59am): XeroxYT動画再生できないんだよな...XeroxYTをしあtubeのようにGoogle App Scriptを使って作ってほしい(前にもあったから)
 - **yuto_110** (Mar 25, 2026 11:58am): plus良いって言われるてるの嬉しい！アプデしたしもう少し使いやすくなってるはず…
+- **NyrikX(足立区陣ICFS系)** (Mar 25, 2026 02:34pm): とりあいずplusもyukiyoutubeももう全部ブロだからな...あとチャンネルページyukiyoutubeも同じで動画しかないの悲しいな
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -706,12 +709,12 @@
 - **woolisbest** (Feb 21, 2026 10:57am): まじか...
 - **埼玉県教育委員会** (Feb 27, 2026 05:13am): わかめつべとかどうやって入るん？
 - **カービィ** (Feb 28, 2026 02:01am): ゲストとしてログイン押せば使える
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 02:51am): ICFSがない...
+- **NyrikX(足立区陣ICFS系)** (Mar 07, 2026 02:51am): ICFSがない...
 - **daregi223** (Mar 09, 2026 04:23am): 何の投票か分かってますか？
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 09, 2026 10:21am): プロキシを作るサイトだって誰でも知ってるよ。
+- **NyrikX(足立区陣ICFS系)** (Mar 09, 2026 10:21am): プロキシを作るサイトだって誰でも知ってるよ。
 - **proxyを探す者** (Mar 12, 2026 09:26am): なんの投票とかいうなよまじで
 - **proxyを探す者** (Mar 12, 2026 09:29am): こっちもICFSなんだよ
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 15, 2026 07:23am): Google App Scriptでお願いします！ICFS民のためにもGoogle App Scriptを使ったプロキシやYouTube専用のプロキシをもっと作って欲しいです。
+- **NyrikX(足立区陣ICFS系)** (Mar 15, 2026 07:23am): Google App Scriptでお願いします！ICFS民のためにもGoogle App Scriptを使ったプロキシやYouTube専用のプロキシをもっと作って欲しいです。
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -790,7 +793,7 @@
 - **きむちゃ。🤪💙.꒰ঌ12.12໒꒱** (Mar 23, 2026 10:54am): あーね
 - **Awesome Cricket** (Mar 24, 2026 01:32am): こんなん使わんくてもアイフィルター民でも履歴残らず、セーフサーチもかからん方法知ってるでww教えおか？コレ完全に自分が考えたやつやからみんな知らんし、俺もアイフィルターやから！
 - **Bold Buffalo** (Mar 24, 2026 01:39am): 教えて
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 24, 2026 08:21am): こっちブロックなのにI-FILTERこれブロックされてないのさすがにでかすぎるって
+- **NyrikX(足立区陣ICFS系)** (Mar 24, 2026 08:21am): こっちブロックなのにI-FILTERこれブロックされてないのさすがにでかすぎるって
 - **Zeon** (Mar 24, 2026 08:58am): え、全然ブロだけど…
 - **hirafu** (Mar 24, 2026 09:43am): ふつーにいけた
 - **hirafu** (Mar 24, 2026 09:44am): （練馬区民です）
@@ -809,7 +812,7 @@
 
 <p>なんか学校で変になった</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/223b8b74a0e6bf2ec4cc7a3bd6b54838/Screen_recording_2026_03_04_10_11_06.webm?Expires=1775049201&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Cy0YN6n1Vz7STEaSDHWTkbDJ%2FrP%2BHQLhaBA8ABrMpauzpTy%2BJfleUH025AcWY9zFuN3MaIkR7TaR1sK4uWECAoWWExYLJmEfOivxLLoFddeXAIBkCO153iq1O%2F7bwpjXjN%2BYF%2FAQCGFNX4fGF1JpMANIQwAciYfcTGBLPlj38dg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F223b8b74a0e6bf2ec4cc7a3bd6b54838%2FScreen_recording_2026_03_04_10_11_06.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/223b8b74a0e6bf2ec4cc7a3bd6b54838/Screen_recording_2026_03_04_10_11_06.webm?Expires=1775055634&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bLYzuX0QcMeXtAb%2BjWxJ%2F5LppqiOTyWjYaNcllE%2Fxa2mDENbNJW0457plDVapqvdbrdI8IXVlOVOqFFrbdYOKpP1QBJj5hEezHRIK9eROPq%2BU8eP9pnqoy0jQ9KV4amM7EEd0GY5o431soM74DsaFMoONiGQCe%2Fhi1%2Ffav8tEyg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F223b8b74a0e6bf2ec4cc7a3bd6b54838%2FScreen_recording_2026_03_04_10_11_06.webm)
 
 #### Comments (25)
 - **hirafu** (Mar 04, 2026 07:41am): ずっと再読込してたらこうなった
@@ -1023,7 +1026,7 @@
 ## ISGC専用
 
 ### 1. 強制再起動「ハードウェアのリセット」でブロック解除
-**Author:** NyrikX-Tokuyo(足立区陣ICFS系) (h3000370)
+**Author:** NyrikX(足立区陣ICFS系) (h3000370)
 
 <p>塾の友達から教わった方法</p><p>chromebookの場合、リフレッシュキー(再読み込みキー)と電源ボタンを同時に押します。</p><p>タブレットの場合、音量大ボタンと電源ボタンを同時に10秒以上押します。</p><p>これを強制再起動といいます。その後再起動されるのでログインします。ログイン後、自動的にnewタブ画面に入り、少し読み込み中されてると思います、起動して画面入ってから1~3秒後にリフレシュキー(再読み込みキー)と電源ボタンを同時に押します。これを合計2回行います。最後に起動して入るために強制再起動で切ってログインするのを合計2回、追加に1回ログインです。そしたらいけるはずです。(無効方法)</p><p><a rel="noopener noreferrer nofollow" href="https://note.com/nanasi_san/n/nf7c8f6b3dc3a">できなくても安心してください</a></p><p><a rel="noopener noreferrer nofollow" href="https://note.com/nanasi_san/n/nf7c8f6b3dc3a">https://note.com/nanasi_san/n/nf7c8f6b3dc3a</a></p>
 
@@ -1033,19 +1036,19 @@
 - **panpanda** (Feb 12, 2026 02:13pm): これプラス履歴消去方法で使いこなせそう
 - **ざぶとん＼(^o^)／** (Feb 13, 2026 01:39am): これほんとなの！？
 - **RX034** (Feb 13, 2026 06:19am): いけますいけます！
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 13, 2026 10:27am): ICFS以外でもいけるらしいです
+- **NyrikX(足立区陣ICFS系)** (Feb 13, 2026 10:27am): ICFS以外でもいけるらしいです
 - **Anonymous** (Feb 13, 2026 11:54am): ログインって何にするんや？
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 13, 2026 12:59pm): 再起動とかすると最初の画面に出てくるアカウントログインでメルアドとパス打つ。それだけ
+- **NyrikX(足立区陣ICFS系)** (Feb 13, 2026 12:59pm): 再起動とかすると最初の画面に出てくるアカウントログインでメルアドとパス打つ。それだけ
 - **Sky6180 Lucky** (Feb 16, 2026 12:10am): できませんでした😭
 - **panpanda** (Mar 01, 2026 11:53am): ２週間経過。まだいける
 - **とりあえず。** (Mar 02, 2026 05:32am): お〜！
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 15, 2026 02:04am): コツ掴んだらできた！！
+- **NyrikX(足立区陣ICFS系)** (Mar 15, 2026 02:04am): コツ掴んだらできた！！
 - **ポテトチップス** (Mar 16, 2026 11:37am): もうちょっと詳しく教えてください
 - **前原光樹** (Mar 19, 2026 01:39pm): https://frank99878.softr.app/僕がまとめて見たので見てください定期的に更新します
 - **前原光樹** (Mar 19, 2026 01:40pm): ちなみに僕はパソコンを使って一時的にiPadをハックして制限を外して自由にしています
 - **前原光樹** (Mar 19, 2026 01:41pm): 日々ISGCを研究しているのでわからないことがあったら聞いてください
 - **前原光樹** (Mar 19, 2026 01:41pm):  結構得意なのでわかること多いです
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 23, 2026 08:33am): ICFSでも可能ー強制再起動ハードウェアのリセットの2回行う方法とタブを開きまくる方法を組み合わせたらできるかも！１:普通に強制再起動の方法が書いてあるとこ見ればわかる。そこの太文字以外がやり方２:強制再起動を合計2回行って4回目で入る時newタブが出てきたあと、何もせずにただ20~30秒間newタブ+を連打して追加します。３:おそらく3分も立たずに画面が固まるのがなくなります。解除されてるはずです。(無効方法)たったこれだけです。簡単なのでやってみてください。
+- **NyrikX(足立区陣ICFS系)** (Mar 23, 2026 08:33am): ICFSでも可能ー強制再起動ハードウェアのリセットの2回行う方法とタブを開きまくる方法を組み合わせたらできるかも！１:普通に強制再起動の方法が書いてあるとこ見ればわかる。そこの太文字以外がやり方２:強制再起動を合計2回行って4回目で入る時newタブが出てきたあと、何もせずにただ20~30秒間newタブ+を連打して追加します。３:おそらく3分も立たずに画面が固まるのがなくなります。解除されてるはずです。(無効方法)たったこれだけです。簡単なのでやってみてください。
 - **Anonymous** (Mar 25, 2026 06:51am): 前原光樹さん教えてください　お願いします
 - **Anonymous** (Mar 25, 2026 06:52am): そのハック的なやつ
 
@@ -1067,7 +1070,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/34e0460ab217cef783a7f5d9508fe612/Screenshot_2026_01_24_20_36_42.png?Expires=1775049201&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WnbggynSvv0C5llqVp%2BjwXrI0O8K%2BOfT5eWZuIPHxI%2F1HjNRwq3vOO%2F77GOO%2FD8HHyTiX2jSzn0Vmc2UTVH3cv0%2B8R5nQqSav9pU%2FV8qVtY61LldzO0NX7sBN2g5S33ziRFkZ%2FlXHKfN4mYc05pmNF505ff87%2Fc9TMeY3qERs0Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F34e0460ab217cef783a7f5d9508fe612%2FScreenshot_2026_01_24_20_36_42.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/34e0460ab217cef783a7f5d9508fe612/Screenshot_2026_01_24_20_36_42.png?Expires=1775055635&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bbvlokNJXprX4IVEP%2FUDq1yQ0tSQhfkRGVlFUjCs06lYigAQGcWsFjnL%2Bt5IpGMcB5X8fpyFpW0QGxZnb%2FDNT76TXotpUhWJNuQsUDXNkDATM8i8MXJkpoSWQAqohcEG2gAePZJoCeDStz3nM2le2%2F0jNoIDHMpH975vFXzVZ4k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F34e0460ab217cef783a7f5d9508fe612%2FScreenshot_2026_01_24_20_36_42.png)
 
 #### Comments (37)
 - **Massa_games216** (Jan 24, 2026 11:43am): 自分の学校だけかもしれんがダウンロード履歴・ファイル情報まで読み取れるようになってるっぽい
@@ -1106,7 +1109,7 @@
 - **月光一文字** (Feb 11, 2026 02:56am): [Attachment](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/wKmOZ56on6oyWzMA) それと同じクラスのlumiで漫画見てるやつの画面がこんな感じになってます先生に狙われているということですか？他の人は普通のフィルタリング画面です
 - **panpanda** (Feb 10, 2026 09:14am): ty!!!
 - **panpanda** (Feb 10, 2026 09:18am): てかダウンロード履歴消去できるよ
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 08, 2026 06:45am): 安心してください。ほとんどの学校は写真やダウンロードした動画などのファイルの中のものを管理者は特殊の物使ってもう見れてるらしいですよ。学校のアカウントでyoutube見てもその履歴も見れるけど、いつも見てるわけではないから落ち着いてね
+- **NyrikX(足立区陣ICFS系)** (Mar 08, 2026 06:45am): 安心してください。ほとんどの学校は写真やダウンロードした動画などのファイルの中のものを管理者は特殊の物使ってもう見れてるらしいですよ。学校のアカウントでyoutube見てもその履歴も見れるけど、いつも見てるわけではないから落ち着いてね
 
 #### Additional Information
 - **Post color:** White
@@ -1128,7 +1131,7 @@
 - **かみ(神じゃなくて紙)** (Jan 24, 2026 02:58am): InterCLASS Filtering Serviceの規制の種類ってなんなの？
 - **kamato nero neo** (Jan 24, 2026 04:24am): ほぼなんでもブロックできる。テレビ.ラジオ、動画配信、プロキシ、漫画、著作権侵害、情報商材、就活、wiki、ゲーム、snsとかいろいろ
 - **kamato nero neo** (Jan 24, 2026 04:25am): どうやってブロック内容認識してるかわかればjavaでサイトの内容隠すコード書くんだけどな
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 18, 2026 05:27am): Utopiaをアバウトブロックで学校で使ってたら数時間後即ブロックされた
+- **NyrikX(足立区陣ICFS系)** (Feb 18, 2026 05:27am): Utopiaをアバウトブロックで学校で使ってたら数時間後即ブロックされた
 
 #### Additional Information
 - **Post color:** White
@@ -1140,7 +1143,7 @@
 ### 4. くそが！
 **Author:** バッタ　#煮物貢献者　#煮物14番弟子　#りおと族37代目　#りおと弟子37番目　#そろそろ引退かも (bbbaaattttttaaa)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/79699f39858836d7bb42fb7d28e05c39/image.png?Expires=1775049201&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Bz9hCAf%2FsVEohxhDM%2FsRDGtcbemy7EleYH0yVo2SlWp9ASryxHcbtBAtq07sJAfxea7%2Flp99UWq7%2FEGQ%2FuxGgfnxgok9%2Bmv5cuaQRhn5maCX81JeAZf3TTQ0ii0Ijm5iOinYNYiyOcR1SqSSlsC1G7gPYgZQCamSTPWi9soOoT4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2F79699f39858836d7bb42fb7d28e05c39%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/79699f39858836d7bb42fb7d28e05c39/image.png?Expires=1775055635&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UaiU5R2b%2BjHLF79vyfZ%2FkDSjcQJ0taRY56wC%2FPhFS2IBVyL%2FdFZA16BDf7d5FtC5jasImPMypzMLofubW4y26bkyz1NVCB7EcKlgOPxJ4OdW0Zg1Nxp%2BqKb5JvaVdNOYRc4qOiQzd8D2vYERkB3QExC77x8jaalDjFCjjS2Z2Zo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2F79699f39858836d7bb42fb7d28e05c39%2Fimage.png)
 
 #### Comments (11)
 - **バンダナわどるど Xx-tucasanz-xX りおと53番弟子　りおと族27代目** (Jan 08, 2026 12:57am): それな
@@ -1205,7 +1208,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4208255619/929eda19f10e41dd61b1b94088af8f26/Screenshot_2025_11_09_19_44_49.png?Expires=1775049202&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3TS13BQg6yUrYxsZeCckMZW0M%2BcMKtHU0gnDdstXiUXr2xckUMr%2FOwtn0h9%2BICim3yjXyF2HL3WJwtdtmrln07Ue2IQJQcOeylp6Jj%2FusSX6fiPMoYgex3X8j%2BlGisfvxrhQ45VWZfDQI%2FfR2N25WR4safhm6epiA7pobmFCyz0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4208255619%2F929eda19f10e41dd61b1b94088af8f26%2FScreenshot_2025_11_09_19_44_49.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4208255619/929eda19f10e41dd61b1b94088af8f26/Screenshot_2025_11_09_19_44_49.png?Expires=1775055635&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OpJ1hPdlsO4DKqg4aKEWWkrogUOaGCJSlBaHZdSP25IrXDBT8sZm4DtCQjZ1BetxQKdJrHMD8AggG5XsI%2BLNfdK7kXfuuhCZNCDfMbhhiNuNrFszQ2FaQUDvgjI%2BXYoIGD0obz5p73Hu5%2BSB8T%2FFLqXoWEZwiO3Cn3JOk9uB9Ng%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4208255619%2F929eda19f10e41dd61b1b94088af8f26%2FScreenshot_2025_11_09_19_44_49.png)
 
 #### Comments (11)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 09, 2025 04:05pm): また明日やり方貼ります
@@ -1376,21 +1379,21 @@
 - **削除済みユーザー** (Feb 28, 2026 04:44pm): 天才現る
 - **削除済みユーザー** (Mar 01, 2026 12:10pm): 天才だね
 - **RX034** (Mar 02, 2026 08:24am): 入れねえ
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 03, 2026 01:25am): 私その拡張機能入ってるけど回避できる方法見つけたかもしれない
+- **NyrikX(足立区陣ICFS系)** (Mar 03, 2026 01:25am): 私その拡張機能入ってるけど回避できる方法見つけたかもしれない
 - **あおたん　＃低浮上** (Mar 03, 2026 12:11pm): え
 - **kamato nero neo** (Mar 08, 2026 10:54am): 荒れてんね
 - **ｸﾞﾊｯ　＃かリけーのサブ** (Mar 08, 2026 04:06pm): んね
 - **削除済みユーザー** (Mar 08, 2026 05:52pm): とりま見てるのは合法だよ
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 21, 2026 10:51am): いろんな先生のブックマーク見てもだいたい0つか1つか2つだった。しかもすべて異なる
+- **NyrikX(足立区陣ICFS系)** (Mar 21, 2026 10:51am): いろんな先生のブックマーク見てもだいたい0つか1つか2つだった。しかもすべて異なる
 - **サンダーバード４** (Mar 14, 2026 12:45pm): [Attachment](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/yEPVZkodzRA3Zb0Y) boxの動画
 - **CDEFGAH** (Mar 15, 2026 08:54am): 見た目がCanvaそっくりねぇ
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 17, 2026 01:04am): データ抽出..
 - **syougayaki123** (Mar 17, 2026 09:29am): カフートはただのクイズサイト
 - **NEWS ZERO(ゼロホーム)** (Mar 17, 2026 02:15pm): でもカフートでyoutube見れるよ
 - **syougayaki123** (Mar 17, 2026 11:19pm): 俺のは無理だった
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 18, 2026 11:49pm): やべえ、数時間前に再起動の知らせ来たけどそれまだやってないけど最近この一ヶ月の間に2~3回って多すぎないか？
+- **NyrikX(足立区陣ICFS系)** (Mar 18, 2026 11:49pm): やべえ、数時間前に再起動の知らせ来たけどそれまだやってないけど最近この一ヶ月の間に2~3回って多すぎないか？
 - **CDEFGAH** (Mar 22, 2026 04:40am): 再起動の知らせはChromebookのアプデあんまブロックと関係ない
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 23, 2026 11:26am): カフートでどうやってyoutube見るんですか
+- **NyrikX(足立区陣ICFS系)** (Mar 23, 2026 11:26am): カフートでどうやってyoutube見るんですか
 
 #### Additional Information
 - **Post color:** White
@@ -1400,22 +1403,22 @@
 ---
 
 ### 2. 強制再起動「ハードウェアのリセット」でブロック解除
-**Author:** NyrikX-Tokuyo(足立区陣ICFS系) (h3000370)
+**Author:** NyrikX(足立区陣ICFS系) (h3000370)
 
 <p>塾の友達から教わった方法</p><p>chromebookの場合、リフレッシュキー(再読み込みキー)と電源ボタンを同時に押します。</p><p>タブレットの場合、音量大ボタンと電源ボタンを同時に10秒以上押します。</p><p>これを強制再起動といいます。その後再起動されるのでログインします。ログイン後、自動的にnewタブ画面に入り、少し読み込み中されてると思います、起動して画面入ってから1~3秒後にリフレシュキー(再読み込みキー)と電源ボタンを同時に押します。これを合計2回行います。最後に起動して入るために強制再起動で切ってログインするのを合計2回、追加に1回ログインです。そしたらいけるはずです。(無効方法)</p><p><a rel="noopener noreferrer nofollow" href="https://note.com/nanasi_san/n/nf7c8f6b3dc3a">できなくても安心してください</a></p><p><a rel="noopener noreferrer nofollow" href="https://note.com/nanasi_san/n/nf7c8f6b3dc3a">https://note.com/nanasi_san/n/nf7c8f6b3dc3a</a></p>
 
 #### Comments (12)
 - **panpanda** (Feb 12, 2026 12:42pm): ISGCでもいけます。多分端末の問題かな？chromeはいける！
 - **panpanda** (Feb 12, 2026 12:42pm): 時間帯規制かからないのは普通にGOD
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 13, 2026 10:28am): 私のchromebookで1回だけできたことあるけど、大体の場合はできない
+- **NyrikX(足立区陣ICFS系)** (Feb 13, 2026 10:28am): 私のchromebookで1回だけできたことあるけど、大体の場合はできない
 - **kamato nero neo** (Feb 14, 2026 08:33pm): Lenovo 500e Chromebook Gen 4sは無理
 - **panpanda** (Feb 15, 2026 08:42am): 繰り返しやるんだよ
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 15, 2026 09:48am): まあ、前なんか3日連続で10時間やってもできなかった
+- **NyrikX(足立区陣ICFS系)** (Feb 15, 2026 09:48am): まあ、前なんか3日連続で10時間やってもできなかった
 - **とりあえず。** (Feb 15, 2026 11:06am): やってみるだけの価値はある（（
 - **キムチ鍋の鍋さん ナベさん第２形態ｗ 元ルイの2番弟子  しにがみ巣族副総長 りおと族38代目** (Feb 21, 2026 02:29am): ２回無理
 - **キムチ鍋の鍋さん ナベさん第２形態ｗ 元ルイの2番弟子  しにがみ巣族副総長 りおと族38代目** (Feb 21, 2026 02:29am): ５回無理
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 08, 2026 08:35am): タブ開きまくって読み込み中長過ぎたらすぐにリフレシュキー(更新キー)と電源ボタン同時に一回だけ押してログインしたら行けるかもよ？
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 14, 2026 07:39am): ね、待って。なんか今日これ初めてできた！！newタブに入る瞬間の背景画像のところで2回ともそこでやったらできた
+- **NyrikX(足立区陣ICFS系)** (Mar 08, 2026 08:35am): タブ開きまくって読み込み中長過ぎたらすぐにリフレシュキー(更新キー)と電源ボタン同時に一回だけ押してログインしたら行けるかもよ？
+- **NyrikX(足立区陣ICFS系)** (Mar 14, 2026 07:39am): ね、待って。なんか今日これ初めてできた！！newタブに入る瞬間の背景画像のところで2回ともそこでやったらできた
 - **とりあえず。** (Mar 17, 2026 07:28am): 規制解除できたnow
 
 #### Reactions
@@ -1430,29 +1433,29 @@
 ---
 
 ### 3. タブを開きまくって確実にICFSブロック解除しよう
-**Author:** NyrikX-Tokuyo(足立区陣ICFS系) (h3000370)
+**Author:** NyrikX(足立区陣ICFS系) (h3000370)
 
 <p>塾の友達から教わった方法</p><p>操作時間は3分から長くて10分です。今はコツを掴んだので100発中100回です。できると証明する動画でもあります。動画の最後の方を見れば分かる通り、成功したら上にある表示中の拡張機能の中でICFSが自動的に消去されていますが、いつもそうなるとは限りません。一番注意してほしいことは、制限以降の時間帯にやると、3~5回繰り返す必要がある可能性が少しあること。</p><p>1:タブを開きまくると、上のタブバーにあとから追加したタブが表示できなくなるので、そこまで画面のnewタブの+を押す。具体的に言うと、通常は30~40秒間連打し、制限の時間帯以降では15~25秒連打する。</p><p>2:そしたら、タブを追加すると自動的に上のURLバーが文字の入力の準備が整うので、画面が固まっていても好きなタイミングで、そのまま入りたいURLをぶち込んで3分程度待てば行ける。もちろんそのまま待って固まっている画面がなおってからやってもいい。また、画面が固まっている時間が長すぎてクラッシュしてページがリセットされることがありますが、もう数回やればできます。</p><p>そして、何よりも設定読み込み中が長すぎてだめだったら、すぐにリフレッシュキー(更新キー)と電源を一回同時に押してログインすると、上の表示中拡張機能バーにはICFSはありますが、実際にはブロック解除できています。私は以前この電源を一回切って入る方法を強制再起動のハードウェアのリセットとしてできたと思います。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/bb877797726af504c6d00cd3bcd6d156/ICFS_________online_video_cutter_com_.mp4?Expires=1775049202&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Kta6RQubra%2BHobRzO1ZAEPLF7iyzDPWUbNZVaKuSkqvmAEbSXkjb6cEQmoGfRQqo1cwCDj%2FcNIZEwu1hU%2F5XRSDv7UuuDggliU9XM3MklM0qDrHBJ%2FWC%2FQyFCfk9GJFhBk0SFL0wTd8xncoI2PzxzGwoCs7PxrhREnnaJvIIypk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2Fbb877797726af504c6d00cd3bcd6d156%2FICFS_________online_video_cutter_com_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/bb877797726af504c6d00cd3bcd6d156/ICFS_________online_video_cutter_com_.mp4?Expires=1775055635&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KZBSyfd4NedhAciCPJagARCU%2FHjevvYXztDYZAI5u8T5SnSRvqXXmXHJ8%2B2bDcPjQjqocwYGXyD9CS4toA7WWm2VVJsng1n%2F1beDOqHsLZQuWn%2FovTAyepPk11IuH8i5BzR%2FPUsvrKpOEDFdB8t4C5iQATKfg27SsZlQcGPQkJ8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2Fbb877797726af504c6d00cd3bcd6d156%2FICFS_________online_video_cutter_com_.mp4)
 
 #### Comments (16)
 - **RX034** (Feb 12, 2026 12:32pm): 確実だなこれが
 - **とりあえず。** (Feb 15, 2026 11:10am): いけるんだよなこれが
 - **キムチ鍋の鍋さん ナベさん第２形態ｗ 元ルイの2番弟子  しにがみ巣族副総長 りおと族38代目** (Feb 21, 2026 02:43am): いけなかった
 - **キムチ鍋の鍋さん ナベさん第２形態ｗ 元ルイの2番弟子  しにがみ巣族副総長 りおと族38代目** (Feb 21, 2026 02:43am): [Attachment](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/wKmOZ56Ex3jPWzMA) 
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 08, 2026 06:41am): どゆこと、文字打てなかったってこと？設定読み込み中が長いときは、一回強制再起動させてみたり、一度タブ全部消してもう何度かやればできると思うよ
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 08, 2026 06:37am): 普通のyoutube組織による表示のブロックされてないの羨ましい
+- **NyrikX(足立区陣ICFS系)** (Mar 08, 2026 06:41am): どゆこと、文字打てなかったってこと？設定読み込み中が長いときは、一回強制再起動させてみたり、一度タブ全部消してもう何度かやればできると思うよ
+- **NyrikX(足立区陣ICFS系)** (Mar 08, 2026 06:37am): 普通のyoutube組織による表示のブロックされてないの羨ましい
 - **tantanmen1** (Feb 24, 2026 01:27am): できました
 - **削除済みユーザー** (Feb 25, 2026 10:51pm): 時間制限だけはないんだけどそれは自由な時間でおｋ？
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 26, 2026 01:03pm): ？文字通りならいいと思ｕ
+- **NyrikX(足立区陣ICFS系)** (Feb 26, 2026 01:03pm): ？文字通りならいいと思ｕ
 - **CDEFGAH** (Feb 28, 2026 05:10am): 本名と学校バレてるぞ
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 08, 2026 06:38am): 本名は載せてないよ
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 02, 2026 02:36pm): そもそも私そこに所属してないよ
+- **NyrikX(足立区陣ICFS系)** (Mar 08, 2026 06:38am): 本名は載せてないよ
+- **NyrikX(足立区陣ICFS系)** (Mar 02, 2026 02:36pm): そもそも私そこに所属してないよ
 - **tantanmen1** (Mar 06, 2026 01:21am): なんかできなくなってそう
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 08, 2026 09:06am): 私は今もできるよ。簡単で楽すぎてめっちゃ繰り返してる。今日は5回目でできた
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 19, 2026 04:45pm): 数週間前までできたけど、多分対策されてできなくなった。一番最後にできたのが数日前の10時以降12回目で1時間で成功。代わりに今は強制再起動でできる。
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 23, 2026 11:34am): 動画のあの時のようにできなくなったのまじで悲しい。多分自分のファイルの中の動画に録画したICFS解除動画があったからかも
+- **NyrikX(足立区陣ICFS系)** (Mar 08, 2026 09:06am): 私は今もできるよ。簡単で楽すぎてめっちゃ繰り返してる。今日は5回目でできた
+- **NyrikX(足立区陣ICFS系)** (Mar 19, 2026 04:45pm): 数週間前までできたけど、多分対策されてできなくなった。一番最後にできたのが数日前の10時以降12回目で1時間で成功。代わりに今は強制再起動でできる。
+- **NyrikX(足立区陣ICFS系)** (Mar 23, 2026 11:34am): 動画のあの時のようにできなくなったのまじで悲しい。多分自分のファイルの中の動画に録画したICFS解除動画があったからかも
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1479,8 +1482,8 @@
 - **爆裂破坏流 我是天才之神** (Feb 08, 2026 09:54am): login.quiz-me.orgvcsa.boredom.ploteando.comvcsa-yt.egevad.sevcsayt.ploteando.comstudywith-vcsa.ploteando.comdaydreaming.realisation.orgtesting.suwal.com.npvcsa.national-birdshow.complayernation-vcsa.buenofood.rosub-vcsa-for-more.dinprima.rocopiedfrom-vcsa.edujose.orgvcsa.boredom.ploteando.comgoodvcsa.suwal.com.npvcsa-yt.egevad.sesubscribe-vcsa.mrwheeler.ukgoodvcsa-yt.ploteando.comidkanymorhappy2026.odoobooks.comaifk29r89eieididjjejdo.chrisbaxmann.comthebestofthebestidk.stoke-park.co.ukquickchem.mrwheeler.ukfastcalc.egevad.selogin.quiz-me.orglarp.foundationvcsayt.ploteando.comstudywith-vcsa.ploteando.commember.electricpiano.xyz.cdn.cloudflare.nettesting.suwal.com.nphi.bergbahnen-bezau.atcomputer.gryk.demath.desmos.live.cdn.cloudflare.nethttps://hawk.stayinschooleducation.org.cdn.cloudflare.net/https://tuah.calculatormath.site.cdn.cloudflare.net/https://woof.amplifyz.cfd.cdn.cloudflare.net/https://imkayandisuck.info.north-kazakhstan.su.cdn.cloudflare.net/https://cuh.googledrive.icu.cdn.cloudflare.net/https://guh.prodigy.it.com.cdn.cloudflare.net/https://duh.desmosgraphing.xyz.cdn.cloudflare.net/https://study.wiki-edu.xyz.cdn.cloudflare.net/https://duh.desmosgraphing.xyz.cdn.cloudflare.net/https://learn.wiki-edu.xyz.cdn.cloudflare.net/https://precalc.k22.su/https://edu.itfiredup.com/educationaljobs.gatewayjobs.com.np/bull-arena.bergbahnen-bezau.atcaffeine.boba.orgbull.cinosargoediciones.combull.eminescusm.rocostly.ryabikin.comclasslink.tokeslaszlo.ro/educationalmath.fundacionciencomart.org.ar/browser.lol
 - **爆裂破坏流 我是天才之神** (Feb 08, 2026 09:54am): Shadowhttps://quickchem.mrwheeler.ukhttps://deepcoding.mrwheeler.ukhttps://primemath.mrwheeler.ukhttps://freshscience.mrwheeler.ukhttps://modernmath.mrwheeler.ukhttps://simplephysics.plik-perm.ru/https://fastcalc.egevad.se/https://fastbio.egevad.se/https://fastgeo.egevad.se/https://virtualenglish.egevad.se/Selenitehttps://tickets.interluxvs.com/https://i-had-a.realisation.org/https://learning.realisation.org/https://catelog.toyotabenthanh.com/Axiomhttps://wow.aliexpress.nlhttps://grail.allenbarnes.orghttps://island.zoomzoomblooms.comhttps://gravity.roseflame.comRammerHeadhttps://amaneproxy.wikidelia.net/https://amanepr2.silvacontabilidades.cl/https://songamane.tomcatsound.com/https://caleb.is.built.like.a.carrot.mcruz.cl/https://bing.rude.li/https://ohio.rude.li/Random bonustop-medical-schools.org/gov.highways.info/studyhalls.infotechnology.com/bull.infotechnology.commeow.partedu.club.cdn.cloudflare.netmeow.partedu.clubdontlike1.myok.eudontlike2.ndr.cldontlike33.radioaawaj.com.npdontlike14.radiodelsur.cldontlike19.rootcop.com太鼓https://cjdgrevival.com/Voidnetworkhttps://void.15-204-209-18.plesk.page/
 - **RX034** (Feb 10, 2026 02:13am): ほぼブロックだけど何個か使えるし、頑張ってくれたからありがとう！
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 14, 2026 03:49am): Senenite1つだけ行けました！
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 15, 2026 02:50am): リモートのサイト最近から開けない...
+- **NyrikX(足立区陣ICFS系)** (Feb 14, 2026 03:49am): Senenite1つだけ行けました！
+- **NyrikX(足立区陣ICFS系)** (Mar 15, 2026 02:50am): リモートのサイト最近から開けない...
 
 #### Reactions
 - **Average star rating:** 4.0
@@ -1524,10 +1527,10 @@
 - **kamato nero neo** (Feb 06, 2026 08:00am): isfcはもう何も開けん。ほんとに開けない。shadow v4とか出ない限り無理。
 - **削除済みユーザー** (Feb 07, 2026 04:40am): ICFS拡張機能のレビュー、みんなクソって言いまくって1押すせいでちょっとずつ上がってるの笑えないんだが
 - **kamato nero neo** (Feb 09, 2026 02:06am): サクラでもなくマジの不満でのし上がるの萌える。
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 11, 2026 04:27pm): できたことあったけど、できるまでが発狂レベル
+- **NyrikX(足立区陣ICFS系)** (Feb 11, 2026 04:27pm): できたことあったけど、できるまでが発狂レベル
 - **削除済みユーザー** (Feb 14, 2026 10:21am): やっぱり機種によって無理ぽい　弟と私機種違うけど弟だけ行ける
 - **削除済みユーザー** (Feb 14, 2026 10:23am): 具体的に言うと私の「Lenovo IdeaPad Flex 5/Flex 3i Chromebook」という機種は入ってもその後ブロなので無理です☆（死）
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 17, 2026 10:38am): 私はLenovo 300e Chromebook 2nd Gen
+- **NyrikX(足立区陣ICFS系)** (Feb 17, 2026 10:38am): 私はLenovo 300e Chromebook 2nd Gen
 - **キムチ鍋の鍋さん ナベさん第２形態ｗ 元ルイの2番弟子  しにがみ巣族副総長 りおと族38代目** (Feb 21, 2026 02:48am): なんか友達に自称ハッカーがいて友達にクローム（札幌支給）を調べてもらったらアカウントにicfsが紐づけされてるらしいから外すんは無理らしいです
 - **削除済みユーザー** (Feb 26, 2026 06:51am): ICFSが紐づけられているというより札幌市教育委員会の管理下に置かれているからそれに伴って管理者が拡張機能（ICFS）を強制インストールしているの方が正しいかな
 - **削除済みユーザー** (Feb 26, 2026 07:05am): だから外すのは無理だけどなにか拡張機能側に異変を起こさせてクラッシュさせるか、プロキシのように手当たり次第ブロックされていないサイトを探すか作るしか無いですね　無くなるのは垢に紐づけられているのが消えたわけではなくこのようなパソコン側に異常を起こさせるものです
@@ -1551,14 +1554,14 @@
 - **iPhoneNOケース界隈** (Dec 21, 2025 07:31am): 先生などに見つかりますか
 - **RX034** (Dec 26, 2025 07:31am): いいえ
 - **iPhoneNOケース界隈** (Jan 14, 2026 12:21am): 自分は、Y２モデル？を使用しているのですが、バッテリーがコンセントみたいな複数のケーブルでつながっていて引っ張ってもスライドしてもケーブルが抜けませんどうすればよいか教えてくださいお願いします
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Jan 20, 2026 08:30am): そもそもバッテリーを取り外すためのネジがほんとに取れない。まじで。それで違う方法で無理やり取ったけど、何もなかった。
+- **NyrikX(足立区陣ICFS系)** (Jan 20, 2026 08:30am): そもそもバッテリーを取り外すためのネジがほんとに取れない。まじで。それで違う方法で無理やり取ったけど、何もなかった。
 - **RX034** (Jan 22, 2026 12:08pm): マチュピチュさん、いい質問ですね。　　　　　　　y2系列モデルは
 - **RX034** (Jan 22, 2026 12:08pm): みすった
 - **RX034** (Jan 22, 2026 12:10pm): Y系のモデルは基本的に厄介なので、genシリーズのように上書きがしにくいんですよ。で、バッテリーに付いている一番太くて本数の多い一つにまとまっているケーブルを取り外して、(それ以外はあっても外さなくてオッケー)10~20秒くらい外しっぱなしにしておいてから、もう一回つけるとよいですよ！
 - **RX034** (Jan 22, 2026 12:11pm): NyrikXさん！すいません。それは多分どうしようもできないパターンです
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 11, 2026 04:25pm): ネジが硬すぎるの悲しい
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 11, 2026 04:25pm): 小さいドライバーでもどうしようもできない
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 04, 2026 01:26pm): なぜみんなはできる
+- **NyrikX(足立区陣ICFS系)** (Feb 11, 2026 04:25pm): ネジが硬すぎるの悲しい
+- **NyrikX(足立区陣ICFS系)** (Feb 11, 2026 04:25pm): 小さいドライバーでもどうしようもできない
+- **NyrikX(足立区陣ICFS系)** (Mar 04, 2026 01:26pm): なぜみんなはできる
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1588,7 +1591,7 @@
 - **なんとか。** (Dec 14, 2025 02:28pm): 書いた主もGoogleサイト民か
 - **削除済みユーザー** (Jan 02, 2026 12:57pm): クロムの機種によってローカルデータ以外が消えるのもあるっぽいね　それか教育委員会がやってるか
 - **さんぷんクオリティー** (Jan 09, 2026 02:10am): これ初期化やん...
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Jan 20, 2026 08:33am): 初期化しまくるとproxyどんどんブロックされてくからあまり適してません。実際に私はこの記事を見る前に発見した方法ですが、履歴だけが消されても使えるproxyだけは犠牲にできません。
+- **NyrikX(足立区陣ICFS系)** (Jan 20, 2026 08:33am): 初期化しまくるとproxyどんどんブロックされてくからあまり適してません。実際に私はこの記事を見る前に発見した方法ですが、履歴だけが消されても使えるproxyだけは犠牲にできません。
 - **狐うどんの狐(マダタスカル)** (Jan 28, 2026 10:15pm): 質問です。学校側のは流石に消えませんよね
 - **RX034** (Feb 11, 2026 02:10am): はい。おそらく
 - **RX034** (Feb 11, 2026 02:11am): 表面上が消せるだけで、深層部までは消えないと
@@ -1614,7 +1617,7 @@
 - **RX034** (Dec 02, 2025 09:26am): ちなみに、複数のタブを開きたい場合は、googleの検索場の左側にあるタブグループを作成という4つの四角形マークが有るところに、URLを打ち込めば、何個でも一気に開けます(ただその分処理に時間がかかるため、ブロックされる確率も高くなります)
 - **RX034** (Dec 02, 2025 09:26am): 要は運ですね！！
 - **RX034** (Dec 02, 2025 09:27am): すいません長くなりました
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 15, 2026 02:46am): できたことはあった
+- **NyrikX(足立区陣ICFS系)** (Mar 15, 2026 02:46am): できたことはあった
 
 #### Additional Information
 - **Post color:** White
@@ -1632,7 +1635,7 @@
 
 **最終更新日:** November 28, 2025
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3916500373/cdf9546d9a966132950301c2591a96a0/Screenshot_2025_07_17_10_01_07.png?Expires=1775049202&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0KdIGRgCXbiZA0BfJxg9YmLlmE4%2BsusH%2BjkZS%2FqqFPs8LcUWmCrSEkuwJrCISB%2BLqlpgsuQUquJbGAagBxo1oFa2DXecvNGZ%2F1NZH2TfrqsjdYHKm6ogb2pQ25u5ypzZq32PLpGdtAawdMxpEdRDsUasNUxa%2FA99TGbsbgtyimw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3916500373%2Fcdf9546d9a966132950301c2591a96a0%2FScreenshot_2025_07_17_10_01_07.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3916500373/cdf9546d9a966132950301c2591a96a0/Screenshot_2025_07_17_10_01_07.png?Expires=1775055636&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lC%2BWaJE%2BIsnEhfltyVaaV6ISpft%2BFg4NutFY2gNxubK6d2qN%2B%2BH%2BdD2ZTmfoW1N8gCJSplmyIpj1VvdJ8idIaFG7tmMRZpcs7YkngeJLjFBonPQAYnfDx%2F7fJkMcsJSmzNpOOrEaC45%2BbW%2BNKz2m%2FpfAp3Q%2B65Egfg5L5TsFH8Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3916500373%2Fcdf9546d9a966132950301c2591a96a0%2FScreenshot_2025_07_17_10_01_07.png)
 
 #### Comments (7)
 - **削除済みユーザー** (Nov 23, 2025 12:11pm): wool-tubeあるww
@@ -1678,7 +1681,7 @@
 
 #### Comments (2)
 - **削除済みユーザー** (Nov 19, 2025 09:40am): できました！
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 04, 2026 01:24pm): できたことはあった
+- **NyrikX(足立区陣ICFS系)** (Mar 04, 2026 01:24pm): できたことはあった
 
 #### Additional Information
 - **Post color:** White
@@ -1697,8 +1700,8 @@
 #### Comments (4)
 - **うぇ！** (Dec 03, 2025 06:37am): パスの変更はできたんですけどブロックの解除がされません。どうしたらいいですか？
 - **うぇ！** (Dec 03, 2025 06:49am): 数字がたくさんで僕には理解できないのでもう少し詳しく説明してくれると幸いです
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 15, 2026 02:44am): 私もお願い！
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 15, 2026 02:44am): パスの変更できるんだ
+- **NyrikX(足立区陣ICFS系)** (Mar 15, 2026 02:44am): 私もお願い！
+- **NyrikX(足立区陣ICFS系)** (Mar 15, 2026 02:44am): パスの変更できるんだ
 
 #### Additional Information
 - **Post color:** White
@@ -2114,8 +2117,8 @@
 - **029大好き！(会長910)#ウルトラ第三番弟子** (Feb 02, 2026 11:55pm): してるよw
 - **削除済みユーザー** (Feb 16, 2026 02:04am): 700エグい
 - **キノシタアツト** (Mar 03, 2026 11:21pm): すご
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 09, 2026 10:37am): どうやって使うかわかりません
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 15, 2026 02:25am): 誰か教えてください
+- **NyrikX(足立区陣ICFS系)** (Mar 09, 2026 10:37am): どうやって使うかわかりません
+- **NyrikX(足立区陣ICFS系)** (Mar 15, 2026 02:25am): 誰か教えてください
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -2554,7 +2557,7 @@
 
 <p>英語のみ対応です</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1775049202&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yXPys5PpT%2F9LDhlQeoN76YKiFO04otqMQ2vOmllylnJzZiphrvm4MAhinB75eRYJ8xmM9bJwD1RsPd3RhdrE2CUA4zJubvqVhOv9NdxII3dEoNrxvmNMKxMQ%2BdYSoBt0MDE4%2BO3w1jIPFKB519N3pg04BJUQjBN3f5jCUz%2Bq8nU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1775055636&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NVmr%2BtWv71dgHUGW%2BdUohFVK%2FDEOj1Jy6Lh7qf6VNoMO1RBVzwyqj1ZBL%2BHpCjIokaDNN%2Fue3qds%2FOI%2F%2BUkAcXdiErSJZyUZt8yMvXLkfcNKvQaoXsbxxs%2FgXBknds4MlTUWvfLdSJHfzdvmYbSTGyrH5RQPsh4BVNwVZP2CVhE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
 
 #### Comments (1)
 - **カービィ** (Feb 28, 2026 02:14am): どうやって進むの？
@@ -2654,7 +2657,7 @@
 
 #### Comments (2)
 - **匿名14** (Mar 14, 2026 09:49am): ありがとうございます！
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 15, 2026 01:37am): ゲーム選択したら組織によるサイトの表示がブロックされてる
+- **NyrikX(足立区陣ICFS系)** (Mar 15, 2026 01:37am): ゲーム選択したら組織によるサイトの表示がブロックされてる
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -2674,7 +2677,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1775049203&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=olYKoSgMBQU1hx7jooLbtBR5hLvudnAy7iy%2Fv0m5QEvfdOOKMYNoHWWnauVylCF2aytaX6KpMWQBdg1Nd%2FeU2z0u6eemroubgETcLQpx34uX6vbnz9yrPD7scl4r9nTpPgb%2BvVM4ttMpoYBEn3Yw%2B%2FL0t8Arq0YSbfplCyN3%2B9g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1775055637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gdnL%2FGvLSjfVr%2B9LOBPzDkOWAhsJhnepZ8Q%2FpZusU3vWSjvsgOVqiKNDQQK8SZtb7hYJvdWR351kTUbEsBNfwmr0VjZqAsVKDWmag0DRW0P2e8Zcv7LkCYppzz1lMH2IfMRZbwp8vg3KcXv389T66YvVvDHUxPVUpP4cjU9TXtc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
 
 #### Comments (6)
 - **RX034** (Dec 02, 2025 08:28am): 良ければどうぞ！
@@ -2736,7 +2739,7 @@
 
 <p>テトリスだよ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1775049203&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1owO0i4LgDHMKBxa7b8ZwrwriVsYM8Oy0pBDX5E1RBo3RpfXOjMPxZBHbYszfDYDx0XZMBqSniqyFFCk7VXeHJBr2ceoHxDfYTzwKP9dc37VULYiL1MTP1AVT2hCokWXT5U2RZ%2Bkm1JzdDbOrygdL6WOnTSabcMHVmg3leR3Mro%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1775055637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iTeRgdCVwFxZ%2F0%2Fg%2FlhwBlM%2FfV%2FvsFjTnHlDHfu4SpFOMNjwSzufQFTWhoXDjch%2FVAa3d3Ri%2FcPN16kT7T47OxP39vi%2FoXQDIL%2BEFB9FRjsJwbG8KKnGLw2oMXB8N9YKQsgdoJhv9RU4YzN%2FzzDCfGAKwPrZrj6vGAiZjvg5X9U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
 
 #### Comments (1)
 - **はるとねこ** (Nov 10, 2025 01:54am): なんか表示できねえ
@@ -2755,7 +2758,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1775049203&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cpl17Vbzn9hLFcE0nEeJhnL0nWuP26U8mdVLgq8OQ5Xid9E10OKeKx6zQGAijGIVJvCpLftl%2FT4CHu3IawlwVKMuUSP6DnMj0uhl1Orwk%2BODLYeySHvJGPl4%2FLImR4HsHaBJTiIUn4FCpvtTuzp%2BGzS%2Fkd%2FUL52G4PTNFERCCCw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1775055637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Pl97qEHuaWA%2FeM0Zwyh%2BD3hZAckaJr%2FOC5sezxdzKknFUIH%2BI6J9A%2Fqx4M%2B0SuK3TYRepdYf7NQIvjxhpnS2SxRn9%2BAVyMj7fJ3CUQYltJVlRmEiE0bCDWeb6PX9%2FnQhCQQ47o9LEqp4PoO1akV87ciZmuFZ5NRaJZXeZVVLSn4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
 
 #### Comments (3)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 08, 2025 04:36am): 思ったよりAIが強くて負けそう:(
@@ -3733,7 +3736,7 @@
 
 **投稿の種類:** サイトに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/3a2251759abdf3781d2bf689986ea97c/Screenshot_2025_09_26_21_33_45.png?Expires=1775049203&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KpFthFdY0aiOCpFbJlUGvD1zCDFmxDU8eaD8Dp%2FrALjGSVUFuyYi6xq7eDOEIQ8l7%2Fbu9yQPfz0CQvfSsPF1IahIfvlFvQvwWt3Xhs80LWSkGXMbeHJoSREVW2IoBwmb7s6G2HpT%2BdIc15PS0q%2B6RtYoE7kn%2FNXAwoohXlZ68oY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F3a2251759abdf3781d2bf689986ea97c%2FScreenshot_2025_09_26_21_33_45.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/3a2251759abdf3781d2bf689986ea97c/Screenshot_2025_09_26_21_33_45.png?Expires=1775055637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eKAoqZI%2FvkxV8CzUD1ppQzKgh1UVL4pRXPjL21VhwaDoj07k9k3Z%2FilsMuHp16LI0pFIbesSDFExwn8BZmA4%2B7yha4qf3h8OJKUuJ43T3qu7ueZxcs1Z41APON8uqjoT8ToHisoHt0gBVj46pFpH%2Fjsn4yzTWU3sADxCgBupH9U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F3a2251759abdf3781d2bf689986ea97c%2FScreenshot_2025_09_26_21_33_45.png)
 
 #### Comments (1)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 26, 2025 12:39pm): 自分の拠点には看板を建てることを忘れずに！
@@ -3756,7 +3759,7 @@
 
 **投稿の種類:** サイトに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/4e06661b4e71a24c85f039879321dc42/Screenshot_2025_09_26_21_45_53.png?Expires=1775049203&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zGJgwXW2M4ZugUIJ7Zj1bCtBlDChs%2B0cl0%2BszqaPV5TEN4RvkfHJFRCEI9uKgVlxAPUHO2fi%2BzMM6tUskZDtqLIRfL%2BSCc%2F4ixfzy3JsVpMofRgcazSjk1PgjDIOJh8VPa49WuxUYtl%2B2j1tuYaJrblxfzh2ubJGS2sJD9Fjs%2Bs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F4e06661b4e71a24c85f039879321dc42%2FScreenshot_2025_09_26_21_45_53.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/4e06661b4e71a24c85f039879321dc42/Screenshot_2025_09_26_21_45_53.png?Expires=1775055637&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vT%2BeVGlk6j9Dg7XVKkaqdYuzbGESqpJIGY%2FIDOC1mnduszwxznKzPQrawRqAsZuw2orSUGvlV%2F3gEmS8s8KavQ6n0J3J90nXP0D5qXzEhn0eoafICDGMl38%2Fv%2FV2UKNojB4iy8bVuJkkgxDGcAahk%2Bk7adW8PJcBaN%2BGiOTKuiw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F4e06661b4e71a24c85f039879321dc42%2FScreenshot_2025_09_26_21_45_53.png)
 
 #### Comments (1)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 26, 2025 12:56pm): マップはここから見れるで https://html.cafe/x2c178236
@@ -4078,7 +4081,7 @@
 
 <p>1.12のイーグラだお</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/fcf918292b174ca7f7df3bd469bd225b/Eaglercraft_1_12_WASM_Offline_Download.zip?Expires=1775049204&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RfGlmReqHVBAezEmb3iuCEJ60OKjLE4RkT2uYducn8mwvqTuPir%2BBuRuKiMlrq29CF0wCcShj6uYpA7Xq399qhgTd0%2BprcUVFknusgnfb6sMRnl5dwGLnZ27iFiimH3CCcECY4wXxJFvmCH%2BmHZ1NEuANNN3iH85TUhxb7xSLBc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2Ffcf918292b174ca7f7df3bd469bd225b%2FEaglercraft_1_12_WASM_Offline_Download.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/fcf918292b174ca7f7df3bd469bd225b/Eaglercraft_1_12_WASM_Offline_Download.zip?Expires=1775055638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nzot9RMes2bMlgrejisTY6tY9C%2BBIGuqR2yVfyPdYujp4Civl%2BFH2oABP67TIbG3ka5NqVHc8b9N2e%2FHWll%2FiV8T4XrNl92G1umSu%2Bv2%2BHooFjaQzAgec6doyyDP3KIM4YfaRMIvwKDTQJJlQl2LVGB8lXDaiZZuOTcIE5SHr1c%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2Ffcf918292b174ca7f7df3bd469bd225b%2FEaglercraft_1_12_WASM_Offline_Download.zip)
 
 #### Comments (1)
 - **削除済みユーザー** (Feb 21, 2026 02:53am): はい
@@ -5186,7 +5189,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4326203661/f9eee29623612a56726d0b918203a1be/Screen_recording_2026_01_10_17_36_15.webm?Expires=1775049204&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OpGeGmH1sm6nmKuu2AXkTz%2FjOhAz%2FnBTeU%2FVl7Iv8Re68KIV0X0naE9MKLfiJoH3wcWYQ4QxddFKHJYmh84iDieYXMvuGx2D3C%2Bo5lFgFo%2BqsDwEzYjg5Vzcny8njUH1g23uZgpp%2FPhiSkUC0T4LGZsVJb8smjWU7stPqK%2BkVso%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4326203661%2Ff9eee29623612a56726d0b918203a1be%2FScreen_recording_2026_01_10_17_36_15.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4326203661/f9eee29623612a56726d0b918203a1be/Screen_recording_2026_01_10_17_36_15.webm?Expires=1775055638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=w4bjH2EK6IO7gkKT4ro85m%2BCmIkbr0NGw3HAgEqxNwvJc0OFF8Z29J1EDjM4jXJbgCgp0K7gq7HyK8lf2GWfetn%2FXyackwbr5ijpynWRRamF1coFm5OrM75zihpj%2FBZ5OJTs9%2FJpC%2F7g0iHVphIaDuSZs2ls90i3rYPl6Ynq1M8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4326203661%2Ff9eee29623612a56726d0b918203a1be%2FScreen_recording_2026_01_10_17_36_15.webm)
 
 #### Comments (9)
 - **削除済みユーザー** (Jan 10, 2026 08:38am): https://ticket.xrcloud.jp/monocg/index?ec=event_305ba11f-ea9f-4394-819a-db14296a757f
@@ -5213,7 +5216,7 @@
 
 **投稿の種類:** サイトに関する情報提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4851851357/021a908021e1cd8630ac1760e3c51e12/Screenrecorder_20260107_175127.mp4?Expires=1775049204&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sGUEe5gifwRTX8sDZxUL0nG3xEOu9sTykcx570LIrZQJGWQm4bMSkvHFLakoOzlmG6zXGfOdIj42tSM362JKdO94Chc3CMikb%2FeX3k63nQBUERa1AVRrvOxnKST4xRq4DDMBiLXdjmnNBfl5Q6%2BnxZG9vPObZLt5Xhh8zM8Ui1M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4851851357%2F021a908021e1cd8630ac1760e3c51e12%2FScreenrecorder_20260107_175127.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4851851357/021a908021e1cd8630ac1760e3c51e12/Screenrecorder_20260107_175127.mp4?Expires=1775055638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3QJ%2FLpPgA9igJ1RJTL%2FoEUPd%2BxBB0ROQIhrLr2f%2BfWmsDzHa4XE39FCsOkW%2Bun85D9s%2B%2BHqyzMdWdio02NnBelCM6xnFDw%2B27rQ1bp7%2BQUye9jSNlcUnDfMJfhIj3x7cxsdv8b%2B9v3Y%2BEASmMz%2F4QzQfoipSLgIT8pdiZULnj1M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4851851357%2F021a908021e1cd8630ac1760e3c51e12%2FScreenrecorder_20260107_175127.mp4)
 
 #### Comments (12)
 - **削除済みユーザー** (Jan 10, 2026 07:56am): 天才()
@@ -5293,7 +5296,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4318390668/740f560a767fe4d24be738be0d6f589d/IMG_6109.png?Expires=1775049204&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bbPGrtmI8y%2FFK7kg4DYj%2F1a4oslOvy0aMUwxOKrfuSvhwBf%2By1dlwvcPjK6AfHug%2FNXcJjYDb9x8NHlNFfh8E5bSxROt2jOc15GOgv%2F9Tw0DJcyuR58Z5HRpKON4XNT2nNfo2szzuKY5W%2F1AmpQwMEavk6JIrevW%2BML6O8XmonQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4318390668%2F740f560a767fe4d24be738be0d6f589d%2FIMG_6109.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4318390668/740f560a767fe4d24be738be0d6f589d/IMG_6109.png?Expires=1775055638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vx0%2F57qRfJJ%2Fr097KPrAjTU%2BkI1pkqODhbt%2F%2BNdyDNtDk2L5xfvIKkEl3MTZiGWn0se2unvbn15KEqNHVcvONQmc9yuz64Mj1uYOb%2FkCR%2BdsSW0kVOEbeA4avFLxeQbvpQFuamYsWUc%2F5FYrrjBer7rj9MZjTWEsNOhlVUXtAx0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4318390668%2F740f560a767fe4d24be738be0d6f589d%2FIMG_6109.png)
 
 #### Comments (5)
 - **Kirby** (Sep 06, 2025 09:26am): そのままurlを打つか、下に「Youtube」とか「Instagram」とか書いてあるからそこをタップする
@@ -5364,7 +5367,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/83c25b07d22752b78e3659552f1fb71b/Magurock20250803.html?Expires=1775049204&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3EsQL3qIzvwLb5XPzBw0xrzwJK7XFNpei3JVMrokn3yyvnyE41pNXkfW%2BROvGErggSFh%2Fh3BOL06rvSgCltkAZdE7mbpfzfu34YbfZn85kI7CfmLST6zU2KAik%2FAUVZLSwiOWEil2bCldrIHpB7C46UkvS0wNF%2FNlt5z2kGaSJw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F83c25b07d22752b78e3659552f1fb71b%2FMagurock20250803.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/83c25b07d22752b78e3659552f1fb71b/Magurock20250803.html?Expires=1775055638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=F3NA%2B7A6ORroqa2ILvaR0b8KiArIBt6h1HbZAF8QuWXA85s17XHlUjuGhLLpl8VMpOrpaNY4rCwIRWvVlofNez2BS386c3o40splX4U3ZiRgKaZO13WymP15k%2Bz%2F1SCd%2FY%2FcSXWjYWNWIA0Z1dRRZBjOKzXGbe1y%2FM8XAqpbyco%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F83c25b07d22752b78e3659552f1fb71b%2FMagurock20250803.html)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -5408,7 +5411,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/9819bcb1e710e8e32cf8351e5b790c93/___Proxy_explorer.html?Expires=1775049204&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=C7CDBQ0VNjiYWOBvrXY2IClw33CGnu4UvotMKO9lcHPpXggIdVs2wHEtUnuvrLtQXbeQj5o1KhTPcYo51if4Q0ZKRSjLtMAUE8qD%2Bti42yNx1%2FV395bN2B83zLmmxmwG5zz%2BRBm5Dq954z1QhEJXaBnrVYXmUwCV5ksgjQ8JocI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F9819bcb1e710e8e32cf8351e5b790c93%2F___Proxy_explorer.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/9819bcb1e710e8e32cf8351e5b790c93/___Proxy_explorer.html?Expires=1775055638&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zixD3IB0q%2FQKtht1hqfyKrOAGddwwqO%2BXEaKSHoFa7bi7tGUSfKv8Po6YLH9q3uYyfUSfc1qYxlplqjBxL9OuVsSfgYHiwZFYtmji1wTrn87YkpAP0EOvsxbGDgX73ZGvBqNl2WWKj4zvOCqp2R8884lxcjFoI58sAKDV1BiLVE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F9819bcb1e710e8e32cf8351e5b790c93%2F___Proxy_explorer.html)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -6035,7 +6038,7 @@
 - **バッタ　#煮物貢献者　#煮物14番弟子　#りおと族37代目　#りおと弟子37番目　#そろそろ引退かも** (Oct 12, 2025 09:47pm): 同じク◯画面
 - **あおたん　＃低浮上** (Nov 11, 2025 11:19am): 同じク◯画面
 - **狐うどんの狐(マダタスカル)** (Nov 19, 2025 10:24pm): こっちはそもそもスクショすら取れない
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 24, 2026 08:30am): そーなんだよこの足立区性機能
+- **NyrikX(足立区陣ICFS系)** (Mar 24, 2026 08:30am): そーなんだよこの足立区性機能
 
 #### Additional Information
 - **Post color:** White
@@ -6055,13 +6058,13 @@
 
 **最終更新日:** March 23, 2026
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4847522827/bce540036ec2fb993f5a9c4855b96492/IMG_0314.jpeg?Expires=1775049205&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VasgSgr9OoLufo5xvupqfKyxQFfCJH%2FIkFfNaApk4qBnTn0FGqI2%2BdeA47%2F7%2FwIVtsoeUwMwpwXmFAQaU5qXc8Svv5Ih%2F8jeH%2FUF86CwyWabnNIDpp4NsrWs5YOWjct%2FcVets9THy81cm%2BBwm4SunLio45yDPeU9k1CfrxuSsDg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4847522827%2Fbce540036ec2fb993f5a9c4855b96492%2FIMG_0314.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4847522827/bce540036ec2fb993f5a9c4855b96492/IMG_0314.jpeg?Expires=1775055639&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OiK3RjZW%2BMrILjMEYf6cCiZZK2amDiC0E3NMdyrHL9CXs8PuEAWYPhQNnQ%2B%2F7sWxZXH4HZyc7IXhhENVTGDkPAJgyaYAcAfu3ONA%2B3xSvjmuL5EJ4lXzSAeetwaE%2FxBmF5aL26NCCwMEhNjZwOLT2t%2BDw%2FB7K6tN1nn1tEvEI5Y%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4847522827%2Fbce540036ec2fb993f5a9c4855b96492%2FIMG_0314.jpeg)
 
 #### Comments (4)
 - **aaabbbccc** (Mar 17, 2026 02:42am): 四個目いけた
 - **aaabbbccc** (Mar 17, 2026 02:42am): まじありがとうございました
 - **シャドレク　＃エドガー族15代目** (Mar 18, 2026 07:30am): 全ブロ
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 22, 2026 07:03am): 2個だったー
+- **NyrikX(足立区陣ICFS系)** (Mar 22, 2026 07:03am): 2個だったー
 
 #### Additional Information
 - **Post color:** White
@@ -6196,7 +6199,7 @@
 - **kamato nero neo** (Feb 14, 2026 04:51am): 8こshadow確保!マジありがたや
 - **あ@低浮** (Feb 14, 2026 06:44am): I-filter 全ブロ、強すぎやろマジで
 - **kamato nero neo** (Feb 14, 2026 08:18am): ifilterはデジタルアーツだし、しゃあない
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 14, 2026 11:44am): 同じく2つ
+- **NyrikX(足立区陣ICFS系)** (Feb 14, 2026 11:44am): 同じく2つ
 - **Anonymous** (Feb 18, 2026 12:49pm): 少しするとerrorになるのはなぜですか？対処法はありますか？
 - **kamato nero neo** (Feb 23, 2026 10:14pm): 対処法はない。諦めるしかない
 - **nana_0227** (Feb 27, 2026 08:07am): 今Shadowのサーバーがダウンしてるから復活するまで入れないかも
@@ -6453,7 +6456,7 @@
 #### Comments (3)
 - **Shy Trout** (Jan 11, 2026 08:28am): ブロック 
 - **シャドレク　＃エドガー族15代目** (Mar 18, 2026 07:31am): azasu
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 20, 2026 05:42pm): ブロックされたやつの一部に検索した時404って出てくる
+- **NyrikX(足立区陣ICFS系)** (Mar 20, 2026 05:42pm): ブロックされたやつの一部に検索した時404って出てくる
 
 #### Additional Information
 - **Post color:** White
@@ -6620,7 +6623,7 @@
 - **いもぼい** (Feb 17, 2026 12:44pm): そうだよね
 - **いもぼい** (Feb 17, 2026 12:46pm): https://classroom.google.com.imkerei-zach.at/
 - **スシロー** (Feb 17, 2026 12:47pm): Shadowも使えない
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 17, 2026 01:51pm): 私はそうでもない
+- **NyrikX(足立区陣ICFS系)** (Feb 17, 2026 01:51pm): 私はそうでもない
 - **からあげ** (Feb 18, 2026 03:16am): Shadowは行きてるクネ
 - **からあげ** (Feb 18, 2026 10:47am): Utopia新しく出したよ
 - **Natsu　学タブ回収中** (Feb 20, 2026 05:25am): 🙇
@@ -6640,7 +6643,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/6f825c782cb30814a4923cd8e658534a/mosaic_20260216103531.png?Expires=1775049205&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=n3wDsxbWAionpjGiBjDrXjRAqEmAXbjbJhamhgo0YCwjIfwLnaqFDAxvsCNwHRNTt2lScQO0F8rusQgppP%2ByO8wW2vSVGdIePHnppqhIdS24uxvnRYNme5EL2kSBSVVAu3n4U%2FwcKWGeZCRsnyj9wvl%2FPsPkdrZD2sW1rCN3bC8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F6f825c782cb30814a4923cd8e658534a%2Fmosaic_20260216103531.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/6f825c782cb30814a4923cd8e658534a/mosaic_20260216103531.png?Expires=1775055639&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pNLFW0%2BjVXTg0synYMGkygvIdRAdwj7nNazmZlGfWfVt1TKwgujiWAlhH%2FZqOk7UmMC9kHp%2B3xnHUtGG4YO0eOGEpHEjqZXlaAdfkiFLqpBAe%2FwFDYIvA%2F%2FWyPx8%2B6GwpzFf5JtGUujv1sscbhqOIhmoMbK%2Fx2qQ47JY%2FFfXCUM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F6f825c782cb30814a4923cd8e658534a%2Fmosaic_20260216103531.png)
 
 #### Comments (9)
 - **Massa_games216** (Feb 16, 2026 01:39am): あと自分でデプロイするつなぎ用にutopiaほしいっす
@@ -6693,7 +6696,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 18, 2026 10:05pm): あのさ
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 18, 2026 11:37pm): なんでこの部屋に既にあるリンクをまた転載するの？無駄でしかない
 - **とりあえず。** (Jan 19, 2026 12:39am): あ...あったんですか？すみません...ここの投稿は消してもらって構わないです
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Jan 19, 2026 10:16am): 2つとも行けました！このようなUtopiaのプロキシをもっと大量に作って欲しいです！
+- **NyrikX(足立区陣ICFS系)** (Jan 19, 2026 10:16am): 2つとも行けました！このようなUtopiaのプロキシをもっと大量に作って欲しいです！
 - **なま大好き** (Jan 23, 2026 07:50am): ぶろでした
 - **お** (Jan 27, 2026 07:21am): https://login.guide.rivier.com.ar/
 - **お** (Jan 27, 2026 07:21am): どうやって使う？
@@ -6737,7 +6740,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4441744587/6341af461ba76111220613b0f6d3e5db/______________.txt?Expires=1775049205&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nzB6m%2FYhONmEq8vHNDNBtAg8gRayqIl0PRks0VlPC1LEfsos5IVPfijN0fQV2qilfLe3LJV5vGnfJn%2BB%2F%2BSLXgQ%2Bf25pRKHCbG8jAjuGhAbqRP3eNYszFRQDsdib1cs8jf%2FixpBVOPvYeGl3K5mJMLmO%2FafnQ3MWEO9rkrkIV9k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4441744587%2F6341af461ba76111220613b0f6d3e5db%2F______________.txt)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4441744587/6341af461ba76111220613b0f6d3e5db/______________.txt?Expires=1775055639&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=az35d5PxfFD62b5lvvtEM800mfmjopaOYFUjI6VvjwE1Sj8OEFVN3X7a69tUSH3QbeUidx8%2Fc5X5288oA74dFw3C%2BJmspq214fp%2Fe9J%2BqZrwL3MaS4qO%2B0l8B5JTp%2BW1Y9ZcMZl%2Bz6oX%2Bve7Pa%2BKUiTc5YXhEq7x1ehpEOgHCGc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4441744587%2F6341af461ba76111220613b0f6d3e5db%2F______________.txt)
 
 #### Comments (1)
 - **Massa_games216** (Oct 19, 2025 11:49am): 全ブロの悲しみ
@@ -6789,7 +6792,7 @@
 #### Comments (6)
 - **カービィ** (Feb 11, 2026 05:51am): 全ブロ
 - **Enthusiastic Axolotl** (Feb 11, 2026 09:19am): ３つ行けた
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 14, 2026 03:23am): 同じく3つできました
+- **NyrikX(足立区陣ICFS系)** (Feb 14, 2026 03:23am): 同じく3つできました
 - **s.k.n.t** (Feb 17, 2026 01:18pm): マジでこの人何者？神すぎやろ
 - **nana_0227** (Feb 19, 2026 04:46am): ただの一般人です
 - **Natsu　学タブ回収中** (Feb 21, 2026 12:50pm): w
@@ -6840,7 +6843,7 @@
 - **入れ子＿構造** (Mar 03, 2026 08:00am): 全ブロ
 - **RX034** (Mar 04, 2026 12:46am): 全部行けたわ
 - **RX034** (Mar 04, 2026 12:46am): やっぱ嘘一個だけ
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 15, 2026 08:51am): 検索結果が管理者が遮断したURLでブロックされて設定でもどうしようもできない
+- **NyrikX(足立区陣ICFS系)** (Mar 15, 2026 08:51am): 検索結果が管理者が遮断したURLでブロックされて設定でもどうしようもできない
 
 #### Additional Information
 - **Post color:** White
@@ -7086,7 +7089,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4533230905/29793600191a616967f07c0819cebfc4/Screenshot_2025_10_10_07_42_52.png?Expires=1775049206&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uUhEpIuBj1s332Hj2gN7pis5dpWt7bcVsIGTd%2BJRs%2F%2FgVNZYgfFMgYJrltuWoUK9HJERW0jNZtS%2F6%2FG5cyYxKXIB6dybsHNm5HmxyIMvSVSi1sFMw42nsRqwabmsJ8Y9NXVoSfQ%2BLSwB%2FBq5PMHcFMr%2B%2FpTZcQ0aRO4a0vhrXTs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4533230905%2F29793600191a616967f07c0819cebfc4%2FScreenshot_2025_10_10_07_42_52.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4533230905/29793600191a616967f07c0819cebfc4/Screenshot_2025_10_10_07_42_52.png?Expires=1775055640&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=azgc6a1vQo3Ssj%2BN5S335TWwfqPqOysL6Eup7wgzJ3zAUEhG5iKM10sHD5q3KOvyhaKtl4wg6pegMBxjPBV6mm3rXUSFUYzRLyutxu%2FkFSUeVCUZgTVkFSvDlF9K0Zm2i%2BntjXlHYaxRpk%2F1HNTWPhhSWnnn64pK7Kpixg8WoyM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4533230905%2F29793600191a616967f07c0819cebfc4%2FScreenshot_2025_10_10_07_42_52.png)
 
 #### Comments (20)
 - **るい** (Oct 10, 2025 07:56am): わかんねーな
@@ -7122,7 +7125,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4531780414/2043955bb04d17c44d73180ccc50d493/Screenshot_2025_10_10_07_42_52.png?Expires=1775049206&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cruhN0evF6P7Bps%2FkGMUI8APU0wKV0%2FTNL5kSk91lh7Xra%2Ba%2B5%2FviGT%2FU8A9zI5y33%2FcTGIfS0iPmkGx1A95h%2FcLDq8WOWucAyAZu0hqTPoviK3Kl0uxmItLfUic3rLbDLjGJRvuAb144mm93UO2yjAnASVtU4JeE9pzhc9N4r4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4531780414%2F2043955bb04d17c44d73180ccc50d493%2FScreenshot_2025_10_10_07_42_52.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4531780414/2043955bb04d17c44d73180ccc50d493/Screenshot_2025_10_10_07_42_52.png?Expires=1775055640&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=oB7nY4t7HTyOgGbi4MnET3etOtCE2bY4LMVyeYP79JS4vyPVZbSlZpT9a6tnCqV1X%2B112SgHGPpGSiiudZzkntUeanG5mlO3Sw1vFt1DN7j4QN1op2tyq0i49lj4Rsl7DfGPQACaHTwUBCVYtB5iUvL6c3MWvHMgSCl5Ht4XOCY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4531780414%2F2043955bb04d17c44d73180ccc50d493%2FScreenshot_2025_10_10_07_42_52.png)
 
 #### Comments (2)
 - **あああ** (Oct 15, 2025 11:51am): ただの学習サイトです
@@ -7209,7 +7212,7 @@
 - **匿名** (Mar 09, 2026 08:13am): みれない 
 - **ほ̴͚͕̠͗̿̊͆̾͜͞そ҈̢͈̫̗̭̖̽̀͡か̷̢̛͓͕͈̜̯̇͐̈́わ̶͙͚̬͆̀͋̓̕͜せ̶̧̬̙̍́͝い҈̙̞̜̟̩͗̏̀͢͡や̷͍̝͇͆̅͛͋͜͝ ҉̠̞̽̌̄̚͢͝             低浮上！** (Mar 14, 2026 08:35am): Load failedって出てくる
 - **ほ̴͚͕̠͗̿̊͆̾͜͞そ҈̢͈̫̗̭̖̽̀͡か̷̢̛͓͕͈̜̯̇͐̈́わ̶͙͚̬͆̀͋̓̕͜せ̶̧̬̙̍́͝い҈̙̞̜̟̩͗̏̀͢͡や̷͍̝͇͆̅͛͋͜͝ ҉̠̞̽̌̄̚͢͝             低浮上！** (Mar 14, 2026 08:35am): https://dpvmy9.csb.appコレ
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 16, 2026 02:07am): Google App Scriptしかブロックされてなくてそれのストリーミング再生ができない...もちろん他のXeroxYTのやつもそうだった。ダウンロードでは、ネットワークエラーになるだけのやつができる
+- **NyrikX(足立区陣ICFS系)** (Mar 16, 2026 02:07am): Google App Scriptしかブロックされてなくてそれのストリーミング再生ができない...もちろん他のXeroxYTのやつもそうだった。ダウンロードでは、ネットワークエラーになるだけのやつができる
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -7235,7 +7238,7 @@
 - **おぶんぐ** (Feb 05, 2026 10:39am): 入れる！
 - **コロッケ** (Feb 07, 2026 06:15am): いけた！
 - **꧁さなだっちsecond꧂** (Feb 08, 2026 09:35am): 行けるけどダウンロードができない
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 08, 2026 09:38am): 管理者が遮断したURLでブロックされたICFS
+- **NyrikX(足立区陣ICFS系)** (Feb 08, 2026 09:38am): 管理者が遮断したURLでブロックされたICFS
 - **まん** (Feb 10, 2026 07:02am): 行けるけどダウンロードができない
 - **半チャーハン少なめで** (Feb 14, 2026 02:04pm): https://awakest.net/youtube-video-downloader/
 - **半チャーハン少なめで** (Feb 14, 2026 02:04pm): みなさんこれならいけますよ
@@ -7609,7 +7612,7 @@
 - **削除済みユーザー** (May 21, 2025 02:10pm): Chromebookの場合、画質が400以上(360はいける)だと容量的に音声入らないです　MP4の場合
 - **削除済みユーザー** (Aug 05, 2025 01:53am): 規制
 - **Determined Finch** (Oct 21, 2025 09:41am): 規制
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Jan 27, 2026 12:50am): そんなあなたに、chromeでも4kダウンローダー出来てしかも音声もついている最高のyoutubeダウンローダーを昔見つけました！公式リンクhttps://downloaderto.com/enOZ/
+- **NyrikX(足立区陣ICFS系)** (Jan 27, 2026 12:50am): そんなあなたに、chromeでも4kダウンローダー出来てしかも音声もついている最高のyoutubeダウンローダーを昔見つけました！公式リンクhttps://downloaderto.com/enOZ/
 - **ルパン三十八世** (Feb 10, 2026 10:14pm): ブロ
 
 #### Reactions
@@ -8063,7 +8066,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 16, 2026 10:16pm): 端末に保存されるだけだから大丈夫
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 16, 2026 10:16pm): サーバーに通知とかが行くやつではない
 - **omuraisu1** (Mar 19, 2026 10:41am): 前々から急上昇のとこ表示されないけどみんなもそうなの？
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 19, 2026 04:47pm): そんなの私ないよ
+- **NyrikX(足立区陣ICFS系)** (Mar 19, 2026 04:47pm): そんなの私ないよ
 - **Supportive Iguana** (Mar 20, 2026 02:51am): https://senninsystems.onrender.com/index.html
 - **Supportive Iguana** (Mar 20, 2026 02:52am): https://senninsystems.onrender.com/index.html
 
@@ -8139,7 +8142,7 @@
 - **ログインめんど** (Dec 08, 2025 01:50pm): 検索しても出てきませんずっと読み込み中ですダメになったかも？
 - **omuraisu1** (Dec 18, 2025 04:16am): カスタムエンドポイントとかってやつのリンク欲しいです。
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 18, 2025 04:16am): それは自分で作って
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Jan 12, 2026 06:41am): 私はたまーにエラー起きるしたまーにしかちゃんと見れないから他のやつでyoutube見てる(外国の動画でたまにだけ音声トラックが日本語になるやつがあってそれだけダウンロードできないエラーがある)
+- **NyrikX(足立区陣ICFS系)** (Jan 12, 2026 06:41am): 私はたまーにエラー起きるしたまーにしかちゃんと見れないから他のやつでyoutube見てる(外国の動画でたまにだけ音声トラックが日本語になるやつがあってそれだけダウンロードできないエラーがある)
 - **ただの神** (Jan 22, 2026 10:04pm): しあtubeUtopia経由で入ろうとすると一瞬表示されて現在、ファイルを開くことができません。ってなるんだけど解決方法しってるひといますか？
 - **Kind Ant** (Jan 29, 2026 05:04am): 動画検索とか動画読み込みはできるんだけど動画の部分のみブロックされた
 - **souya** (Jan 31, 2026 01:37am): 僕も同じなんですよね、「ブロックされた場合はこちら」のほうで見れないんですよ
@@ -8347,9 +8350,9 @@
 - **学タブ勢** (Nov 11, 2025 08:33am): LABO5、なぜか動画が再生されない
 - **削除済みユーザー** (Nov 13, 2025 07:46am): ；；
 - **削除済みユーザー** (Nov 13, 2025 07:46am): それっはもう死んだんだよ...；；
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Jan 28, 2026 12:54pm): 私もLABO5で動画再生できません。
+- **NyrikX(足立区陣ICFS系)** (Jan 28, 2026 12:54pm): 私もLABO5で動画再生できません。
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 28, 2026 12:54pm): LABO5は動画再生不可になった
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 20, 2026 10:37am): すいません、2025/10の時はmin2chatがいつも10人くらいいたんですけど2026/3に入ったらどこにも誰もいないっていうのはエラーじゃないですよね？
+- **NyrikX(足立区陣ICFS系)** (Mar 20, 2026 10:37am): すいません、2025/10の時はmin2chatがいつも10人くらいいたんですけど2026/3に入ったらどこにも誰もいないっていうのはエラーじゃないですよね？
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -8515,8 +8518,10 @@
 
 <p>現在YouTube Plus+はアップデートをおこなっています！(まだ終わってない…)</p><p>変更点や追加した機能</p><p>・UIの変更(クソほどいいわけじゃない)</p><p>・educationでの再生に対応</p><p>・チャンネル登録機能</p><p>・サイトトレンド機能</p><p>・Dash再生っぽい画質変更機能</p><p>などなど…まぁまぁ変更しました！</p><p>ぜひ来てください！</p><p>リポをforkしてくださっている方は、更新をお願いします！まだアプデするかもだけど…</p><p>デプロイしてくれると嬉しいな…！！</p>
 
-#### Comments (1)
+#### Comments (3)
 - **yuto_110** (Mar 25, 2026 11:41am): https://web-production-56e9.up.railway.app/railway版作ってみた
+- **NyrikX(足立区陣ICFS系)** (Mar 25, 2026 02:33pm): エラーだ...
+- **yuto_110** (Mar 25, 2026 02:35pm): さっき作ったのに落ちた…
 
 #### Additional Information
 - **Post color:** White
@@ -8852,7 +8857,7 @@ Copyright (c) 2026 Wista Project
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 08, 2026 02:28am): wista-pass らしいよ
 - **woolisbest** (Mar 05, 2026 12:14pm): invidiousストリームとかにしたら？
 - **#necopan./** (Mar 06, 2026 11:09am): invidiousストリームってなんですか
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 08, 2026 07:01am): invidiousストリームは動画選択したときの後の左上に4つの項目にあるやつ
+- **NyrikX(足立区陣ICFS系)** (Mar 08, 2026 07:01am): invidiousストリームは動画選択したときの後の左上に4つの項目にあるやつ
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -8952,7 +8957,7 @@ Copyright (c) 2026 Wista Project
 - **おすし =D** (Oct 05, 2025 05:52am): isgcで一番上のサイトに入れたけど動画は「動画を読み込めません」ってなって見れなかった。
 - **はるとねこ** (Oct 09, 2025 10:42am): おーーーれも
 - **バッタ　#煮物貢献者　#煮物14番弟子　#りおと族37代目　#りおと弟子37番目　#そろそろ引退かも** (Nov 09, 2025 08:48am): 俺もですー
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Feb 14, 2026 12:06pm): ISFCも全ブロ
+- **NyrikX(足立区陣ICFS系)** (Feb 14, 2026 12:06pm): ISFCも全ブロ
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -9032,7 +9037,7 @@ Copyright (c) 2026 Wista Project
 
 <p><a rel="noopener noreferrer nofollow" href="https://katuotube-1-2.onrender.com">https://katuotube-1-2.onrender.com</a></p><p>でもまだストリーム解析にちょっと時間がかかっちゃうから再生ページにちょっと時間かかるかも（今度修正）</p><p>ツールにGitHubzip化とyoyoho.ioを追加したよ</p>
 
-#### Comments (11)
+#### Comments (12)
 - **kyupiadao** (Mar 11, 2026 11:49pm): パスは
 - **さる** (Mar 12, 2026 12:31am): パスワード:katuo
 - **ルパン三十八世** (Mar 12, 2026 01:07am): ブロック
@@ -9044,6 +9049,7 @@ Copyright (c) 2026 Wista Project
 - **日本** (Mar 13, 2026 01:26pm): フォートナイトの
 - **あ** (Mar 14, 2026 03:00am): チャンネルも開けるようにしていただけるとありがたいです
 - **仙人@suger** (Mar 24, 2026 09:01am): できるよ
+- **adepen1210** (Mar 25, 2026 02:31pm): yeah,, this url broken up
 
 #### Additional Information
 - **Post color:** White
@@ -9063,13 +9069,13 @@ Copyright (c) 2026 Wista Project
 - **優斗（ハンタハンター好き）** (Mar 05, 2026 05:17am): ジオメトリダッシュってありますか？
 - **ルパン三十八世** (Mar 05, 2026 05:46am): ブロ😢
 - **ゾロリ** (Mar 05, 2026 08:11am): ナイス
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 05, 2026 10:43am): ジオメトリーダッシュ知ってるんですね！私はやっています。ジオメトリーダッシュに関する動画はもちろんありますが
+- **NyrikX(足立区陣ICFS系)** (Mar 05, 2026 10:43am): ジオメトリーダッシュ知ってるんですね！私はやっています。ジオメトリーダッシュに関する動画はもちろんありますが
 - **仙人@suger** (Mar 05, 2026 10:20pm): ジオメトリーダッシュのパクリなら追加できる
 - **きなこもち** (Mar 05, 2026 01:24pm): freednsでutopiaのipアドレス入れて作ったんだけどサイトにアクセスできない
 - **きなこもち** (Mar 05, 2026 01:24pm): どうすればいい
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 02:48am): 普通のgeometrydashのwebsiteはない（）
+- **NyrikX(足立区陣ICFS系)** (Mar 07, 2026 02:48am): 普通のgeometrydashのwebsiteはない（）
 - **disuny** (Mar 07, 2026 07:23am): かつおtubeのログインの合言葉ってなんですか？
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 07, 2026 12:50pm): katuoでいける
+- **NyrikX(足立区陣ICFS系)** (Mar 07, 2026 12:50pm): katuoでいける
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -9093,7 +9099,7 @@ Copyright (c) 2026 Wista Project
 - **Clever Cricket** (Feb 25, 2026 06:05am): 風呂
 - **仙人@suger** (Feb 25, 2026 06:54am): katuo であってる
 - **削除済みユーザー** (Feb 25, 2026 10:57pm): めっちゃ使いやすいわ助かる
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 04, 2026 01:19pm): がんばれー！
+- **NyrikX(足立区陣ICFS系)** (Mar 04, 2026 01:19pm): がんばれー！
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -9502,7 +9508,7 @@ Copyright (c) 2026 Wista Project
 **投稿の種類:** サイトに関する相談や質問
 
 #### Comments (1)
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 15, 2026 05:22pm): それ昔見たことあるけど全く使い方がわからなかった。https://charat.me/dotch/ja/vs/160677 こういうところにあった気がする
+- **NyrikX(足立区陣ICFS系)** (Mar 15, 2026 05:22pm): それ昔見たことあるけど全く使い方がわからなかった。https://charat.me/dotch/ja/vs/160677 こういうところにあった気がする
 
 #### Additional Information
 - **Post color:** White
@@ -9846,7 +9852,7 @@ Copyright (c) 2026 Wista Project
 
 **最終更新日:** February 23, 2026
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/9fb094aa381a3ae081d0f19c5712d869/Screenshot_2025_10_24_19_33_30.png?Expires=1775049208&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sroBp2%2FnaLVOAVNlnuUXftuAY241fQc6OfqfLz8HO5uzT7MzPXGevoozVbd0R%2BQFKn%2BgXK000mzJ2gyO64XwnZcceuiQL8k6hllzWDhkAvWgmkyBnH2K1Ogu5cY%2FT0zWcaIY9FGogaJXm0MlNBUn3rjSOjcgT0EPNuPUr0%2FX7C0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F9fb094aa381a3ae081d0f19c5712d869%2FScreenshot_2025_10_24_19_33_30.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/9fb094aa381a3ae081d0f19c5712d869/Screenshot_2025_10_24_19_33_30.png?Expires=1775055642&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=E2L7HCrOAz390kv5gjbmoxJFwSq0tIQWgBaBWY5jeU9doDXDjaiDrDZ9RLQXg%2Fu1mXCkxk4bvqUgOFKBvpN4GL1ZTkB%2BvbIMgK%2BAzpeDOZdr9jZRA%2FoH94OedzOC10z6rcTrTzlbhJmFBXhcHhFTQwipiC1xBH%2BZB2%2FqCkfMVkA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F9fb094aa381a3ae081d0f19c5712d869%2FScreenshot_2025_10_24_19_33_30.png)
 
 #### Comments (1)
 - **woolisbest** (Feb 21, 2026 11:01am): あ、更新頻度なら1番確定です（最低でも3時間に1回）
@@ -9948,7 +9954,7 @@ Copyright (c) 2026 Wista Project
 #### Comments (3)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Nov 15, 2025 09:32am): もう消えてるやつ結構あるくない？
 - **削除済みユーザー** (Nov 15, 2025 11:35pm): ほとんど消えてるかもw
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Jan 21, 2026 06:24am): 3つめのURLの使い方を教えてください。
+- **NyrikX(足立区陣ICFS系)** (Jan 21, 2026 06:24am): 3つめのURLの使い方を教えてください。
 
 #### Additional Information
 - **Post color:** White
@@ -10061,7 +10067,7 @@ Copyright (c) 2026 Wista Project
 - **はるとねこ** (Oct 03, 2025 08:55am): 僕もそれ知ってる
 - **はるとねこ** (Oct 03, 2025 08:55am): でも２年前に
 - **はるとねこ** (Oct 03, 2025 08:55am): ブロックされた
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 22, 2026 11:24am): 他のruntubeリンク:yt-app.kairun.jp
+- **NyrikX(足立区陣ICFS系)** (Mar 22, 2026 11:24am): 他のruntubeリンク:yt-app.kairun.jp
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -10263,7 +10269,7 @@ No post
 
 **最終更新日:** September 25, 2025
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3744177643/e39b2ff97d6641d386e960280c185c6d/Screenshot_2025_09_25_16_27_35.png?Expires=1775049208&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JCZXGZMUqybvKxoH8RiIK3%2B2Jz3gFwV4d7GMUBtfmbbe3e6oEjVk%2Fo1xoJx0tX9wuawu5bG1HNo1yl3RjaP%2FaKk%2BE8UKouvMbfsJugdzusgH78WC0awCQitnYRNoZgOBfQLMyO8DO1k7Hf8erXrlx97lBfqoE8Biuuh3czhSFUk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3744177643%2Fe39b2ff97d6641d386e960280c185c6d%2FScreenshot_2025_09_25_16_27_35.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3744177643/e39b2ff97d6641d386e960280c185c6d/Screenshot_2025_09_25_16_27_35.png?Expires=1775055642&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SPo27FScZF2H%2FQg7nhK6MGHUpmDw0DFKauh5C97Piik41EbUC77CAlEu8%2Fa2uS01bZ7FUdeqX4AK7DB%2Fo4L08Um2yfTTo1HB0qkbzSQlJMsO8swesgS7MLoL4LxYez5HIes%2B%2B4UOy%2BnYpibyX671wJDD%2FrgCX0OlxLKKti2EEVg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3744177643%2Fe39b2ff97d6641d386e960280c185c6d%2FScreenshot_2025_09_25_16_27_35.png)
 
 #### Comments (4)
 - **削除済みユーザー** (Sep 25, 2025 07:51am): croxyproxyも同状態です
@@ -10402,7 +10408,7 @@ No post
 #### Comments (3)
 - **panpanda** (Feb 26, 2026 04:10am): ほぼ404とか502何だけど
 - **Excited Ocelot** (Mar 11, 2026 05:00am): どうやって見るんですか?
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 11, 2026 07:06am): 私もそうだった
+- **NyrikX(足立区陣ICFS系)** (Mar 11, 2026 07:06am): 私もそうだった
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -10428,7 +10434,7 @@ No post
 
 #### Comments (3)
 - **aaabbbccc** (Dec 22, 2025 09:08am): 一番目と３番目いけた
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Jan 20, 2026 11:35am): 一番目以外ブロックされたわけじゃなくてエラーとかアクセスできなかったやつとかになる
+- **NyrikX(足立区陣ICFS系)** (Jan 20, 2026 11:35am): 一番目以外ブロックされたわけじゃなくてエラーとかアクセスできなかったやつとかになる
 - **【超低浮上】Mr.k廃人** (Feb 14, 2026 09:49am): 神か？
 
 #### Reactions
@@ -10488,7 +10494,7 @@ No post
 - **takamatsuminato** (Sep 13, 2025 08:27pm): 音楽が流れないのは仕様かな
 - **@tyosakukennng** (Sep 25, 2025 10:48am): Scratchで聞いたほうが良くね?
 - **夢見る少女じゃいられない** (Oct 02, 2025 10:30am): それなｗ
-- **NyrikX-Tokuyo(足立区陣ICFS系)** (Mar 16, 2026 02:07am): 一つ開けるけど再生できない
+- **NyrikX(足立区陣ICFS系)** (Mar 16, 2026 02:07am): 一つ開けるけど再生できない
 
 #### Reactions
 - **Average star rating:** 3.5
