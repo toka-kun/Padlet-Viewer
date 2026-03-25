@@ -1,4 +1,4 @@
-最終更新: 2026/03/25 17:53:49
+最終更新: 2026/03/25 18:55:26
 
 # 規制解除委員会(本部)
 
@@ -139,7 +139,7 @@
 
 <p>CUIだからPCとPCの知識が必要だよん。あと俺お手製だからバグとかがあるかも。もしなんかあったら言ってね。あと、多分ワカメもこれで自動で作れる。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775033629&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=s6Q33oQwnqBQnKpYs0qDFBGqCSxuzXKVjCMh10wlHp8RrHD2og9rHibCkbNIipKm4UHq3hsRPEUxGvoqetF%2F%2FSOjS3a9RKkwS2iDKUQhNKxKAkV89t9fjgnopW%2FRtgJ5yp7NaNl3m9Q4DaW6RCH0w0llpq6AVQDHNGvMfLXHlHM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775037326&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bmAWkhkrU0vZTLiADKhSgHiUFDlp2aEaCH9KPe7McdM7A94TrT2tnj9JWaSwU15E%2BTahS1HsDGDnHnNpi3RdUQubjHSakRWpEkIT79N%2B1m6eydZa4qJ05B4BdVOGkkgXgqxaG9oExVhBRPk%2FPKHvi0Wq3YTXOfTKVYioKbSlBGQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:02am
@@ -180,7 +180,7 @@
 
 <p>わかんないことあったら呼んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775033629&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=reocRn6UR%2BwyiMGCxLg76hwZRugnAH07IvLZG4NnKftJEwzr2Xh%2BGw9QqQBKIVzAM69SO5qdNL5718zVtue8jjm72y1gwbgq7zD6jxPRA2onSwfERQ5F%2FUfd3p4JaMDsmCZMWFj40mex5bok8cDLyxNc4RON17AfZja14COqtDg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775037326&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RQAHh79tUqr%2FulRRgKRXMNDdIKJ%2FTjxus4IKTY5Q1%2BJVTPmVo5vri3uBHOCwZkVqvmtWI0OtFoKL07mD0PcNrRoQ32kG17cre%2BEi7qVcI%2FQh5OWJ%2BJK3hELVKv2kEiZGuDh%2FzVmu2mlPTlLBUDulagBcmVBcUq3O0MPjkqmIG%2FE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Comments (5)
 - **グリーン** (Feb 07, 2026 02:58am): 見れなーい
