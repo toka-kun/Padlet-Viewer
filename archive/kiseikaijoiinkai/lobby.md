@@ -1,4 +1,4 @@
-最終更新: 2026/03/25 22:13:59
+最終更新: 2026/03/26 20:51:26
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 7
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Mar 25, 2026 11:45am
+- **Updated At (UTC):** Mar 26, 2026 11:50am
 
 ## ルール
 
