@@ -1,4 +1,4 @@
-最終更新: 2026/03/26 11:29:54
+最終更新: 2026/03/26 14:07:18
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 109
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Mar 25, 2026 11:08am
+- **Updated At (UTC):** Mar 26, 2026 02:41am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -2441,9 +2441,9 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1775096994&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=HN1CU2pB%2B5eBAv1ZVoLERKh30rHzaJ5FtmaNcPsNLVc4w7BEQOi6nxZQuREpnOVvjVgRQ8f0GuEdh7hZ099EjJUvm8ldyCLJai6v58eZg%2FYENkPViRwYTkR7tfXYlgI%2Fkdty48oV7f8A95UwJenc9cyNuRLS5eadxjxXmgaY1PM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1775106438&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CL%2BoI3bnbls1hD8OX%2Fu0AqswPhtPQEO0i3s49cXWwxRVsVxGxiRZ6Uyi0uQ2yFGCRhnGyNEVpkb7xgbo%2BPj2TOpLGr4Zm%2FWKWqjtveN5L%2FGvRg4wUZ%2Bvymhmp3MfS3O29pfj4%2BTwBA3qCcsNwiJh7s66cdLn7HNja6%2FbZbiIq2I%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
-#### Comments (29)
+#### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:13pm): 皆にもこの部屋で宣伝するように言って欲しい
 - **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:14pm): 何すればいいですか？
@@ -2472,7 +2472,6 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Oct 07, 2025 10:37am): 右の投稿見た？
 - **るい** (Oct 13, 2025 07:16am): ?
 - **ᏁγᎶ » Tøka_Kuŋ_** (Oct 15, 2025 09:45pm): 投稿フォーム載せてるやん
-- **不審者** (Mar 25, 2026 11:08am): https://padlet.com/s2101219_1/padlet-fwlfq12rndmfbo6r」
 
 #### Reactions
 - **Number of likes:** 2
