@@ -1,4 +1,4 @@
-最終更新: 2026/03/27 20:42:22
+最終更新: 2026/03/27 22:09:50
 
 # 規制解除委員会(本部)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
-- **Posts:** 14
+- **Posts:** 19
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Mar 27, 2026 09:18am
+- **Updated At (UTC):** Mar 27, 2026 01:08pm
 
 ## ライター許可
 
@@ -70,7 +70,49 @@
 
 ## That's 団
 
-### 1. 坐津弾
+### 1. Post 1
+**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
+<p>あ</p>
+
+#### Additional Information
+- **Created At (UTC):** Mar 27, 2026 01:09pm
+- **Updated At (UTC):** Mar 27, 2026 01:09pm
+
+---
+
+### 2. Post 2
+**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
+<p>あ</p>
+
+#### Additional Information
+- **Created At (UTC):** Mar 27, 2026 01:09pm
+- **Updated At (UTC):** Mar 27, 2026 01:09pm
+
+---
+
+### 3. Post 3
+**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
+<p>あ</p>
+
+#### Additional Information
+- **Created At (UTC):** Mar 27, 2026 01:09pm
+- **Updated At (UTC):** Mar 27, 2026 01:09pm
+
+---
+
+### 4. あ
+**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
+#### Additional Information
+- **Created At (UTC):** Mar 27, 2026 01:09pm
+- **Updated At (UTC):** Mar 27, 2026 01:09pm
+
+---
+
+### 5. 坐津弾
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 #### Additional Information
@@ -125,7 +167,7 @@
 
 <p>pcの知識必要だよん。</p><p>わかめ作れるンゴ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775216542&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yayvx%2Bm1ZIquVGojqmXpT8JVcZscnZ8SNBMJFrChAZ6da9%2FZy7geB3J0zip7Uce%2Fn2%2B%2F8xbB9y4rAXdNNZQH1LF48pNwqjJOXyBR77510ooH8DrtnKDyxUsQPC721%2B2sXClRpp7x5AYwEnxWOewG8zJ93eiu2BZK2LR29Cb9sZg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775221790&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DibCEI1qCIjF%2BhXQDy3zm3YI2B%2BVLpEpEnQSsVslpz2b5Bk3EaBiUdehFshF7U%2F2vlsLWrE7TMUbozqhkWz3p%2BoDJ3ZBW%2BCJXzVBWT1W6SaSYgVL1ibugVtx02Hbdy7WyRoc1cX9Ilt6r2389pLe2GrmDIaEE3DYSgKakbAZsNM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:02am
@@ -164,7 +206,7 @@
 
 <p>わかんないことあったら読んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775216542&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GkPSsKcDiH0EdzxhDOLO%2FScMYdEPQ5Xr4BhAAkHPeBCHtTzfsy0yxGujyAJVOOoawDGJ2Ra0jCvVhHgeLF%2BhpaWrAwvgJmnhVidHn2ggHLzGp7wSy3KOxTwNBtIsZ7NaBlz%2Feub87xxboxTxDYKhdG%2FqiOV6D1OG2g9VXsm4db4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775221790&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PQmFDry2dExZ8oTFsRqCp9Qpc%2BGXnlLFdtxbx17RFUUz7rPOuJrEXpv8urH8Vvkbz0YhRAzRMy9peT3sHeu8J8QSuaN0BXWkwRb1YQ5vfV0IEyMlQhj85M80V6QdC2Ya%2ByGPHwAOLAaMIpmACX3EEEfMpRojWdWaGnFM1HS2j%2FI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:03am
@@ -174,15 +216,21 @@
 
 ## 宣伝
 
-### 1. エドガー部屋
+### 1. にぎ部屋
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
+
+[Attachment 1](https://padlet.com/oo0oo0o/onigiriniginigi-5zo5v3uo0la2tnlr)
+
+#### Additional Information
+- **Created At (UTC):** Mar 27, 2026 12:54pm
+- **Updated At (UTC):** Mar 27, 2026 12:54pm
+
+---
+
+### 2. エドガー部屋
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 [Attachment 1](https://padlet.com/edodesu/padlet-m2mmlqn2oow93w4l)
-
-#### Comments (3)
-- **のーまる　まふいんの弟子** (Mar 27, 2026 09:18am): https://padlet.com/oo0oo0o/onigiriniginigi-5zo5v3uo0la2tnlr
-- **のーまる　まふいんの弟子** (Mar 27, 2026 09:18am): きて
-- **のーまる　まふいんの弟子** (Mar 27, 2026 09:18am): にぎ部屋
 
 #### Additional Information
 - **Created At (UTC):** Mar 25, 2026 11:46am
