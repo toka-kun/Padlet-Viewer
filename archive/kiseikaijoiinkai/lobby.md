@@ -1,4 +1,4 @@
-最終更新: 2026/03/27 11:31:27
+最終更新: 2026/03/27 18:56:32
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 7
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Mar 27, 2026 12:01am
+- **Updated At (UTC):** Mar 27, 2026 09:46am
 
 ## ルール
 
@@ -54,6 +54,9 @@
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 [Attachment 1](https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5)
+
+#### Comments (1)
+- **ちこまこ** (Mar 27, 2026 09:46am): YouTubeブロック解除してください。お願いします。じゃないとMr.beastに言いつけますからね😈
 
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 12:17pm
