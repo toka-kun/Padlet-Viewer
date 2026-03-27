@@ -1,4 +1,4 @@
-最終更新: 2026/03/27 18:56:15
+最終更新: 2026/03/27 19:52:50
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 111
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Mar 27, 2026 12:23am
+- **Updated At (UTC):** Mar 27, 2026 10:48am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -158,8 +158,6 @@
 
 <p>欲しいサイトがあったら僕が出来る範囲で作るよ。</p><p>まあまあひとは多いと思う。</p>
 
-**受付部屋のリンク（あれば）:** https://padlet.com/xianrendesu/proxy-n0g1c0jl2ak3grc5
-
 **部屋の作成日:** June  4, 2025
 
 **閲覧数:** 10,000~24,999
@@ -173,7 +171,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Mar 23, 2026 11:44pm
-- **Updated At (UTC):** Mar 24, 2026 08:33am
+- **Updated At (UTC):** Mar 27, 2026 10:48am
 
 ---
 
@@ -2485,7 +2483,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1775210175&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Eranv130HgEIM2BAhmS0VFC%2BByl6aGn9M%2BiAhNLL2MJ6jZS4xCbw89IE8O%2BhEETzo7sktiLFaNAA2RJaC83jmc8YJqDaOcWwKhSaJAKfnfiVtdeDwjQceoCGXFvDv21HQkSIquZDMBSCs5Fe6D%2Fy9HpzWN3N9ob6uQerC9dyLxQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1775213570&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gBvRnY1S0NWfZgOxSBJSufAp%2Fi7Q3%2BA4jNneg1HFs2h8%2BHiwlTeyRtnSil4lmeqQvxtGaRG%2Bzgpi3j%2FMLxF2elp3KpIvEwE9aZTZNnraW2wmVnXjD2ZnyoNflaRAPV%2BYtvUH1lfBB49N9KMdh6QOmRgHYypCD3n%2FjggHpsuqwG0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
