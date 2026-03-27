@@ -1,4 +1,4 @@
-最終更新: 2026/03/27 14:08:18
+最終更新: 2026/03/27 16:10:16
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 27, 2026 03:05am
+- **Updated At (UTC):** Mar 27, 2026 06:53am
 
 ## 受付
 
@@ -183,7 +183,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (33)
+#### Comments (34)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -217,6 +217,7 @@
 - **hirafu** (Mar 21, 2026 11:19am): した
 - **hrk9373** (Mar 22, 2026 07:06am): sita
 - **sugar** (Mar 24, 2026 10:52pm): した
+- **ちょい離席** (Mar 27, 2026 06:52am): したー
 
 #### Additional Information
 - **Post color:** Red
