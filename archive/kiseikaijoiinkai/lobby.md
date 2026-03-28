@@ -1,4 +1,4 @@
-最終更新: 2026/03/28 20:29:17
+最終更新: 2026/03/28 21:58:06
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 11
+- **Posts:** 7
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Mar 28, 2026 10:51am
+- **Updated At (UTC):** Mar 28, 2026 12:32pm
 
 ## ルール
 
@@ -55,11 +55,6 @@
 
 [Attachment 1](https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5)
 
-#### Comments (3)
-- **ちこまこ** (Mar 27, 2026 09:46am): YouTubeブロック解除してください。お願いします。じゃないとMr.beastに言いつけますからね😈
-- **ちんあら** (Mar 28, 2026 12:00am): 上の人と同じないようです
-- **ちんだい** (Mar 28, 2026 06:50am): 上の人と同じ内容です
-
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 12:17pm
 - **Updated At (UTC):** Mar 23, 2026 12:17pm
@@ -98,43 +93,5 @@
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 12:33pm
 - **Updated At (UTC):** Mar 23, 2026 12:33pm
-
----
-
-## 雑談
-
-### 1. とるっぷいもし来たら9時にここ集合で
-**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
-
-#### Additional Information
-- **Created At (UTC):** Mar 28, 2026 10:51am
-- **Updated At (UTC):** Mar 28, 2026 10:51am
-
----
-
-### 2. やほ
-**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
-
-#### Additional Information
-- **Created At (UTC):** Mar 27, 2026 12:55pm
-- **Updated At (UTC):** Mar 27, 2026 12:55pm
-
----
-
-### 3. とるっぶい
-**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
-
-#### Additional Information
-- **Created At (UTC):** Mar 27, 2026 12:53pm
-- **Updated At (UTC):** Mar 27, 2026 12:53pm
-
----
-
-### 4. やは
-**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
-
-#### Additional Information
-- **Created At (UTC):** Mar 27, 2026 12:51pm
-- **Updated At (UTC):** Mar 27, 2026 12:51pm
 
 ---
