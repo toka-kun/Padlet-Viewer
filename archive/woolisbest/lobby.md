@@ -1,4 +1,4 @@
-最終更新: 2026/03/29 11:33:54
+最終更新: 2026/03/29 14:11:53
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 29, 2026 12:44am
+- **Updated At (UTC):** Mar 29, 2026 04:09am
 
 ## 受付
 
@@ -183,7 +183,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (34)
+#### Comments (35)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -206,7 +206,7 @@
 - **yukkuto** (Feb 26, 2026 10:01pm): simasita
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 27, 2026 12:16am): ユック斗
 - **yukkuto** (Feb 27, 2026 01:46am): はい
-- **シャドレク　＃エドガー族15代目** (Feb 28, 2026 03:11am): https://padlet.com/Natsu_Tsubakiこいつも
+- **まふいん！（偽物）のーまるの師匠 ”自称天才と自意識過剰”** (Feb 28, 2026 03:11am): https://padlet.com/Natsu_Tsubakiこいつも
 - **yumi** (Mar 02, 2026 12:06am): フォローした
 - **🌊🐋コネコネうーさー🐬kumaとペア画中＃本体＃うさぎ信仰一代目教祖＃黒槻さんの弟子14番目** (Mar 03, 2026 09:02am): しました
 - **ｸﾞﾊｯ　＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎** (Mar 04, 2026 01:21pm): ok
@@ -218,6 +218,7 @@
 - **hrk9373** (Mar 22, 2026 07:06am): sita
 - **sugar** (Mar 24, 2026 10:52pm): した
 - **ちょい離席** (Mar 27, 2026 06:52am): したー
+- **プロキシ配布するかも** (Mar 29, 2026 04:09am): したから入れてぇ
 
 #### Additional Information
 - **Post color:** Red
@@ -233,7 +234,7 @@
 
 <p>荒らし</p><p>・匿名おるふぇ</p><p>・</p><p><br/></p><p>変態</p><p>・煮物</p><p>・いかれ天</p><p><br/></p><p>かリけーの要望</p><p>・リムル</p><p><br/></p>
 
-#### Comments (20)
+#### Comments (19)
 - **青葉  @BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ** (Jan 13, 2026 12:10pm): 少ないかも
 - **青葉  @BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ** (Jan 13, 2026 12:10pm): これ以上思い出せない
 - **woolisbest** (Jan 13, 2026 12:10pm): w
@@ -253,7 +254,6 @@
 - **government conspiracy** (Mar 08, 2026 09:34am): なぜ反煮物派が出禁なのか…
 - **woolisbest** (Mar 13, 2026 10:09am): 煮物部屋受け継いだ部屋だから..........
 - **woolisbest** (Mar 13, 2026 10:09am): 煮物出禁だけど...
-- **本庄 克章** (Mar 29, 2026 12:44am): まんこだね
 
 #### Additional Information
 - **Post color:** Green
