@@ -1,4 +1,4 @@
-最終更新: 2026/03/29 16:05:36
+最終更新: 2026/03/30 18:13:55
 
 # 受付と匿名用
 
@@ -9,14 +9,14 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 29, 2026 04:09am
+- **Updated At (UTC):** Mar 30, 2026 08:17am
 
 ## 受付
 
 ### 1. アクセス要求して
 **Author:** woolisbest (woolisbest)
 
-#### Comments (76)
+#### Comments (77)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 12, 2026 11:54pm): すぃた
 - **削除済みユーザー** (Feb 13, 2026 03:20am): した
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 13, 2026 06:49am): sita
@@ -93,6 +93,7 @@
 - **hrk9373** (Mar 22, 2026 07:06am): hrk9373@gmail.com
 - **青葉  @BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ** (Mar 22, 2026 10:25am): いれたー
 - **ちょい離席** (Mar 27, 2026 03:05am): いれてー
+- **yukkuto** (Mar 30, 2026 08:17am): いれてー
 
 #### Additional Information
 - **Post color:** Yellow
@@ -183,7 +184,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (35)
+#### Comments (37)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -219,6 +220,8 @@
 - **sugar** (Mar 24, 2026 10:52pm): した
 - **ちょい離席** (Mar 27, 2026 06:52am): したー
 - **プロキシ配布するかも** (Mar 29, 2026 04:09am): したから入れてぇ
+- **yukkuto** (Mar 30, 2026 08:18am): した
+- **yukkuto** (Mar 30, 2026 08:18am): いれてー
 
 #### Additional Information
 - **Post color:** Red
