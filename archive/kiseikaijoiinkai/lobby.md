@@ -1,4 +1,4 @@
-最終更新: 2026/03/31 22:22:14
+最終更新: 2026/04/01 14:25:51
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 10
+- **Posts:** 9
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Mar 31, 2026 12:37pm
+- **Updated At (UTC):** Apr 01, 2026 04:27am
 
 ## ルール
 
@@ -98,18 +98,7 @@
 
 ## That's DAN
 
-### 1. とるっぷい〜
-**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
-
-<p>meetしよー9時50分ごろに</p>
-
-#### Additional Information
-- **Created At (UTC):** Mar 31, 2026 11:52am
-- **Updated At (UTC):** Mar 31, 2026 12:37pm
-
----
-
-### 2. 要望などお聞きします
+### 1. 要望などお聞きします
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 #### Additional Information
@@ -118,7 +107,7 @@
 
 ---
 
-### 3. とるっぷいー
+### 2. とるっぷいー
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 #### Comments (1)
