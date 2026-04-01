@@ -1,4 +1,4 @@
-最終更新: 2026/04/01 08:35:10
+最終更新: 2026/04/01 11:42:45
 
 # Padletポータルワールド
 
@@ -1061,7 +1061,7 @@
 ---
 
 ### 43. るるるの雑談部屋！
-**Author:** るるる　パドを仮面ライダーで支配したい (barukokukyouwakoku)
+**Author:** るるる　バルコク共和国の大統領＃まふいん（本物）とまふいんの弟子と◯にがきのカップル（一日だけ）＃ローガー様の第一下僕⭐️ (barukokukyouwakoku)
 
 <p>宣伝自由にしていってね。</p><p>フォロパも受け付けてるよ！</p><p><br/></p>
 
@@ -2694,7 +2694,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1775604910&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dxyNqMUbyevGeirbbdjhb9d7CWSyxAlxBM16EdWmdvbR3OCob9MPofgXJC%2BMTcuu0q11ErdNcMoOe1Pi1%2F7mT2BNJHb8YkRcgI5%2BRRK88VF9mUlYVGR%2FWyZVO%2FPL5HzRgIDmTxJgYWOrntg6y77m9EXFRnSpseuFSokC9Uy2ga4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1775616165&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6fR33DhLA2EVXEMwLZc4Ieydc%2B5H75WQlJgAvbHB0YJNwe9bFHIuPXlD%2FFOTfQZUlxRT1B5%2B5Qw%2BYs6J%2Fa9ular89a3%2Bkwj7vbJjon979tSqXvqJvH5kFZZCdnDmfZfbNbmdMwfLPWfIQw%2FfyLisIxGFJCuqzvKp5j75NmUgfa0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
