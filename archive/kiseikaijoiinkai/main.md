@@ -1,4 +1,4 @@
-最終更新: 2026/04/01 14:25:54
+最終更新: 2026/04/01 16:23:14
 
 # 規制解除委員会(本部)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
-- **Posts:** 111
+- **Posts:** 112
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Apr 01, 2026 04:31am
+- **Updated At (UTC):** Apr 01, 2026 07:22am
 
 ## ライター許可
 
@@ -81,12 +81,17 @@
 
 ---
 
-### 3. わ
-**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+### 3. ごめん今起きた
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
+
+#### Comments (3)
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 01, 2026 07:22am): おい
+- **とるっぷい#復活#元ウンコマン** (Apr 01, 2026 07:22am): すみません
+- **とるっぷい#復活#元ウンコマン** (Apr 01, 2026 07:23am): ミートいます。
 
 #### Additional Information
-- **Created At (UTC):** Mar 30, 2026 01:11pm
-- **Updated At (UTC):** Mar 30, 2026 01:11pm
+- **Created At (UTC):** Apr 01, 2026 06:18am
+- **Updated At (UTC):** Apr 01, 2026 06:18am
 
 ---
 
@@ -112,8 +117,8 @@
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 #### Additional Information
-- **Created At (UTC):** Mar 30, 2026 01:10pm
-- **Updated At (UTC):** Mar 30, 2026 01:10pm
+- **Created At (UTC):** Mar 30, 2026 01:11pm
+- **Updated At (UTC):** Mar 30, 2026 01:11pm
 
 ---
 
@@ -247,8 +252,8 @@
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 #### Additional Information
-- **Created At (UTC):** Mar 30, 2026 01:08pm
-- **Updated At (UTC):** Mar 30, 2026 01:08pm
+- **Created At (UTC):** Mar 30, 2026 01:10pm
+- **Updated At (UTC):** Mar 30, 2026 01:10pm
 
 ---
 
@@ -310,8 +315,8 @@
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 #### Additional Information
-- **Created At (UTC):** Mar 30, 2026 01:07pm
-- **Updated At (UTC):** Mar 30, 2026 01:07pm
+- **Created At (UTC):** Mar 30, 2026 01:08pm
+- **Updated At (UTC):** Mar 30, 2026 01:08pm
 
 ---
 
@@ -328,8 +333,8 @@
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 #### Additional Information
-- **Created At (UTC):** Mar 30, 2026 01:05pm
-- **Updated At (UTC):** Mar 30, 2026 01:05pm
+- **Created At (UTC):** Mar 30, 2026 01:07pm
+- **Updated At (UTC):** Mar 30, 2026 01:07pm
 
 ---
 
@@ -508,8 +513,8 @@
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 #### Additional Information
-- **Created At (UTC):** Mar 30, 2026 01:04pm
-- **Updated At (UTC):** Mar 30, 2026 01:04pm
+- **Created At (UTC):** Mar 30, 2026 01:05pm
+- **Updated At (UTC):** Mar 30, 2026 01:05pm
 
 ---
 
@@ -814,8 +819,8 @@
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 #### Additional Information
-- **Created At (UTC):** Mar 30, 2026 01:03pm
-- **Updated At (UTC):** Mar 30, 2026 01:03pm
+- **Created At (UTC):** Mar 30, 2026 01:04pm
+- **Updated At (UTC):** Mar 30, 2026 01:04pm
 
 ---
 
@@ -900,7 +905,7 @@
 
 ---
 
-### 94. あ
+### 94. わ
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 #### Additional Information
@@ -909,7 +914,16 @@
 
 ---
 
-### 95. とるっぷいmeetしよー
+### 95. あ
+**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
+#### Additional Information
+- **Created At (UTC):** Mar 30, 2026 01:03pm
+- **Updated At (UTC):** Mar 30, 2026 01:03pm
+
+---
+
+### 96. とるっぷいmeetしよー
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
 #### Comments (13)
@@ -982,7 +996,7 @@
 
 <p>pcの知識必要だよん。</p><p>わかめ作れるンゴ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775625954&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KUePxseGKK2%2FCATfcatfGOVoTmW6RaqQUNgFoAN3Z3pyVZ2a4SM%2BYAlqYPYZUR9PjvWgbfBYgXOE89V8zue4CeGc7OjSFxxfAPGtdmBr7I3xmSU3LSLcITVE922F2se8l%2BFHp6nUO%2FfFZ92Ud%2Bt29endgLqBMc87Dp8ifqqYRUo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775632993&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wzWhc7wYh3cq1mgRDPj7eb6zhT%2BIgfA3DMsJvrDtpCNlTe41mxCi%2FA9t6IVWECeKcXId%2BGiGMEmGPTIJSB6couZmj5%2BM3vrO8opuYHyooXj6ZJ8jHZcYFhZtDTEF2dwlvHInXiYQUTxoeVAQNB13duk%2Fu6opKPKzrejcjwJv56Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:02am
@@ -1045,7 +1059,7 @@
 
 <p>わかんないことあったら読んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775625954&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nZ9sebQfybShf%2Bg0zaebVlo2WmK5g4pfbESA6Z%2BifxzYDuc%2F2Lcr01XnqmcRI3s0cq82nayToN7y360%2FZVixhxFtnKT78%2FDKkaqoGQgVJQsw%2FXye7cYxKmhaq8QnvzANr5tOPkKuMHJemxGzDJyInmJMjAgWN4OSSbJA2fZRnmw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775632993&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DvLRieJprSFd40hFCd1zyTLmidzUwzlACL3jEjxPbFCUgC93M7qy1rzVLksLf%2BWxQ9JlpJzY0zWQg0MMHOjKpLRutHIY7dohLwwDIP1qjbLyEOdrZBdxKzh5Kj%2FbA7vwql1zFJ%2Brx1GxbrQg%2Bi5b6QY3%2BMFotM%2BCrEvL6ojVVtA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:03am
