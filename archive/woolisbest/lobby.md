@@ -1,4 +1,4 @@
-最終更新: 2026/04/01 19:58:11
+最終更新: 2026/04/02 11:27:58
 
 # 受付と匿名用
 
@@ -9,14 +9,14 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 5
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Mar 30, 2026 08:17am
+- **Updated At (UTC):** Apr 02, 2026 02:04am
 
 ## 受付
 
 ### 1. アクセス要求して
 **Author:** woolisbest (woolisbest)
 
-#### Comments (77)
+#### Comments (78)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 12, 2026 11:54pm): すぃた
 - **削除済みユーザー** (Feb 13, 2026 03:20am): した
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 13, 2026 06:49am): sita
@@ -94,6 +94,7 @@
 - **青葉  @BC*隊員 #さくらもちの弟子 #煮物の108番弟子 #煮物貢献者 #無法地帯最高 #いやっほい族百八代目 #かめ一族 　#(*ﾟ▽ﾟ*)の1番弟子 #かしわもちうまっ** (Mar 22, 2026 10:25am): いれたー
 - **ちょい離席** (Mar 27, 2026 03:05am): いれてー
 - **yukkuto** (Mar 30, 2026 08:17am): いれてー
+- **バッタ仮垢** (Apr 02, 2026 02:04am): 入れて〜
 
 #### Additional Information
 - **Post color:** Yellow
@@ -107,7 +108,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (61)
+#### Comments (62)
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -169,6 +170,7 @@
 - **Kan Tsubaki　　aoi** (Mar 16, 2026 04:32am): メアドは上の投稿
 - **削除済みユーザー** (Mar 16, 2026 06:30am): ああ煮物消えたんだな
 - **sugar** (Mar 24, 2026 12:28pm): 入れてください
+- **バッタ仮垢** (Apr 02, 2026 02:03am): 入れてください
 
 #### Additional Information
 - **Post color:** Red
@@ -207,7 +209,7 @@
 - **yukkuto** (Feb 26, 2026 10:01pm): simasita
 - **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Feb 27, 2026 12:16am): ユック斗
 - **yukkuto** (Feb 27, 2026 01:46am): はい
-- **まふいん！（弟子）のーまるの師匠 ”自称天才と自意識過剰”　隼人様の第2下僕＼(^o^)／** (Feb 28, 2026 03:11am): https://padlet.com/Natsu_Tsubakiこいつも
+- **シャドレク** (Feb 28, 2026 03:11am): https://padlet.com/Natsu_Tsubakiこいつも
 - **yumi** (Mar 02, 2026 12:06am): フォローした
 - **🌊🐋コネコネうーさー🐬kumaとペア画中＃本体＃うさぎ信仰一代目教祖＃黒槻さんの弟子14番目** (Mar 03, 2026 09:02am): しました
 - **ｸﾞﾊｯ　＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎** (Mar 04, 2026 01:21pm): ok
