@@ -1,4 +1,4 @@
-最終更新: 2026/04/02 14:03:52
+最終更新: 2026/04/02 16:14:43
 
 # プロキシのリンクやYouTubeの閲覧方法を共有する会
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 422
+- **Posts:** 417
 - **Created At (UTC):** Aug 20, 2024 10:59pm
-- **Updated At (UTC):** Apr 02, 2026 04:50am
+- **Updated At (UTC):** Apr 02, 2026 07:14am
 
 ## リンク集
 
@@ -49,7 +49,7 @@
 
 **最終更新日:** September  4, 2025
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/621ab046b2ae10ed54cb176137ac73cb/________2_.png?Expires=1775711024&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=S8%2BpxsMQKXbx3bJH3BhCk16vuTkm%2BUy6vABSHjFelQ65fPS9tWrgxRhBDy19FI675cADMtdjMGH8Dc8E46b7ne2pb1Ebal4dzwkJ0lQSnntqspYGlWCl4j45Ui9nf5u9BNK9x9ErZlXQ1GXwxCdiBu1De80VjjhzAL3lgmWt0ts%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F621ab046b2ae10ed54cb176137ac73cb%2F________2_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/621ab046b2ae10ed54cb176137ac73cb/________2_.png?Expires=1775718875&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BMX8%2BMMu2h3tAK6nLeCooI7Xp%2FPC6yXlf42veJpFMjmCJWYJ399f7ByYhgpAQYrVRun0tOk813ZD1%2BNNEyBIWBQzluUDZnL6PRv99TDS5weeaFPIgfW0nTNP6hiZiEcKh2qwvKTWmcQqL8EGm1b%2BEVLJ5RyuLkyGD73kMatCwD0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F621ab046b2ae10ed54cb176137ac73cb%2F________2_.png)
 
 #### Comments (1)
 - **ゾン** (Jun 01, 2025 12:07pm): 消したんだやっと
@@ -332,7 +332,7 @@
 ### 1. セクション一覧
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
-<p><strong>このボードは投稿が多く、特にiPadで来ている場合は全てを読み込むのに時間が掛かる為、<mark>欲しいものがある場合は下の区切りリンクから探すことを推奨しています。</mark></strong></p><p><br/></p><ol><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/eXwgvw5z8PQE2ybR-oAdpz24dgkRJv10R"><strong>便利サイト</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/eXwgvw5zNwMZ2ybR-oAdpz24dgkRJv10R"><strong>小説・漫画・アニメ・映画サイト</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/6RDZ2yBRkG3xqyej-oAdpz24dgkRJv10R"><strong>ゲーム</strong></a><strong> <mark>更新有</mark></strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/65XOvBO6G9oM4GBQ-oAdpz24dgkRJv10R"><strong>アモアス＆マイクラサーバー</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/Bk5x4drlkGkKqZgz-oAdpz24dgkRJv10R"><strong>桃太郎電鉄 教育版</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/nyGDv0NBXKgE2ako-oAdpz24dgkRJv10R"><strong>マインクラフト</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/mWng4l1OYYdn2zdJ-oAdpz24dgkRJv10R"><strong>太鼓の達人</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26lMkWbNvojL-oAdpz24dgkRJv10R"><strong>ブラウザゲーム</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/1L8k2PZr1VVOvEQN-oAdpz24dgkRJv10R"><strong>Scratch</strong></a></p></li></ul></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/nRxeqrnNZDoMq56P-oAdpz24dgkRJv10R"><strong>プロキシ</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/65XOvBOm58aw4GBQ-oAdpz24dgkRJv10R"><strong>ランマーヘッド</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/3jXMqplOPXjMqAzx-oAdpz24dgkRJv10R"><strong>CroxyProxy</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/QgJV4ZzaOZOa4mBk-oAdpz24dgkRJv10R"><strong>中華プロキシ</strong></a></p></li></ul></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/5Wkoqm3dR0MV48pM-oAdpz24dgkRJv10R"><strong>プロキシ&amp;ゲーム</strong></a><strong> <mark>更新有</mark></strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/enZlqb83AN5V43QR-oAdpz24dgkRJv10R"><strong>Shadow</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/kZDR4LQzwjyW2l9a-oAdpz24dgkRJv10R"><strong>Interstellar</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/GyPQvXlR55Env3OL-oAdpz24dgkRJv10R"><strong>Utopia</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/xPdL4ge0bPglqpwK-oAdpz24dgkRJv10R"><strong>DayDreamX (Light)</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/nRxeqrnWAKJ7q56P-oAdpz24dgkRJv10R"><strong>US4 / US5</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26l8P5wVvojL-oAdpz24dgkRJv10R"><strong>Astroid Unblocker (Inbox)</strong></a></p></li></ul></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/xPdL4geN9PyeqpwK-oAdpz24dgkRJv10R"><strong>YouTube</strong></a><strong> <mark>更新有</mark></strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/eXwgvwGGAajevybR-oAdpz24dgkRJv10R"><strong>複数搭載系</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/ke9Kqzboj0OdqYQG-oAdpz24dgkRJv10R"><strong>わかめtube / わかめtube Plus</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/BbjnqxreVo79493Q-oAdpz24dgkRJv10R"><strong>しあtube</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/PkpnqABnoYJJvD0B-oAdpz24dgkRJv10R"><strong>MIN-Tube-Pro</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/961rqR90AwOd2nND-oAdpz24dgkRJv10R"><strong>Yuki YouTube+ &amp; YouTube Plus+</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/jzJX4EOg7Dm6qbnO-oAdpz24dgkRJv10R"><strong>YuZuTube</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/olbw23Zlz05W4L30-oAdpz24dgkRJv10R"><strong>チョコtube</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/nRxeqrlR3eKM456P-oAdpz24dgkRJv10R"><strong>Wista</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/eo1R47MzRnoxqZDL-oAdpz24dgkRJv10R"><strong>れんれんtube</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/Bk5x4dry8E0mqZgz-oAdpz24dgkRJv10R"><strong>仙人tube &amp; かつおtube</strong></a><strong> <mark>更新有</mark></strong></p></li></ul></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/961rqR983JbE2nND-oAdpz24dgkRJv10R"><strong>YouTube開発者向け</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/K8wMqGODj91RqZJO-oAdpz24dgkRJv10R"><strong>Nocookie</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26l6Yb5PvojL-oAdpz24dgkRJv10R"><strong>Education</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/mVbpvYpGjyPaqRkn-oAdpz24dgkRJv10R"><strong>Invidious</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/3n6K2WQgYy8Yv0A9-oAdpz24dgkRJv10R"><strong>Piped</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/3n6K2WQxB7LXv0A9-oAdpz24dgkRJv10R"><strong>他の代替フロントエンド</strong></a></p></li></ul></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/jzJX4EOdVy57qbnO-oAdpz24dgkRJv10R"><strong>YouTube以外のいろいろ</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/3jXMqpl6D1ZQqAzx-oAdpz24dgkRJv10R"><strong>Twitch</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/mVbpvYpo6dEbqRkn-oAdpz24dgkRJv10R"><strong>X (旧Twitter)</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/QgJV4ZzwJrdP4mBk-oAdpz24dgkRJv10R"><strong>Instagram</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/nRxeqrnwpzewq56P-oAdpz24dgkRJv10R"><strong>TikTok</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/E1Xd49NRDyxZ2GJr-oAdpz24dgkRJv10R"><strong>Pixiv </strong></a><strong> <mark>更新有</mark></strong></p></li></ul></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/Bk5x4drZ8J6MqZgz-oAdpz24dgkRJv10R"><strong>音楽が聴けるサイト</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/Bk5x4drdWKMKqZgz-oAdpz24dgkRJv10R"><strong>YouTube Music</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/x1rD2JNKyEeX20dM-oAdpz24dgkRJv10R"><strong>SoundCloud</strong></a></p></li></ul></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/3n6K2WQgYRezv0A9-oAdpz24dgkRJv10R"><strong>プライベート検索エンジン</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/3jXMqpldXMxXqAzx-oAdpz24dgkRJv10R"><strong>SearXNG</strong></a></p></li></ul></li></ol>
+<p><strong>このボードは投稿が多く、特にiPadで来ている場合は全てを読み込むのに時間が掛かる為、<mark>欲しいものがある場合は下の区切りリンクから探すことを推奨しています。</mark></strong></p><p><br/></p><ol><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/eXwgvw5z8PQE2ybR-oAdpz24dgkRJv10R"><strong>便利サイト</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/eXwgvw5zNwMZ2ybR-oAdpz24dgkRJv10R"><strong>小説・漫画・アニメ・映画サイト</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/6RDZ2yBRkG3xqyej-oAdpz24dgkRJv10R"><strong>ゲーム</strong></a><strong> <mark>更新有</mark></strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/65XOvBO6G9oM4GBQ-oAdpz24dgkRJv10R"><strong>アモアス＆マイクラサーバー</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/Bk5x4drlkGkKqZgz-oAdpz24dgkRJv10R"><strong>桃太郎電鉄 教育版</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/nyGDv0NBXKgE2ako-oAdpz24dgkRJv10R"><strong>マインクラフト</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/mWng4l1OYYdn2zdJ-oAdpz24dgkRJv10R"><strong>太鼓の達人</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26lMkWbNvojL-oAdpz24dgkRJv10R"><strong>ブラウザゲーム</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/1L8k2PZr1VVOvEQN-oAdpz24dgkRJv10R"><strong>Scratch</strong></a></p></li></ul></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/nRxeqrnNZDoMq56P-oAdpz24dgkRJv10R"><strong>プロキシ</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/65XOvBOm58aw4GBQ-oAdpz24dgkRJv10R"><strong>ランマーヘッド</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/3jXMqplOPXjMqAzx-oAdpz24dgkRJv10R"><strong>CroxyProxy</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/QgJV4ZzaOZOa4mBk-oAdpz24dgkRJv10R"><strong>中華プロキシ</strong></a></p></li></ul></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/5Wkoqm3dR0MV48pM-oAdpz24dgkRJv10R"><strong>プロキシ&amp;ゲーム</strong></a><strong> <mark>更新有</mark></strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/enZlqb83AN5V43QR-oAdpz24dgkRJv10R"><strong>Shadow</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/kZDR4LQzwjyW2l9a-oAdpz24dgkRJv10R"><strong>Interstellar</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/GyPQvXlR55Env3OL-oAdpz24dgkRJv10R"><strong>Utopia</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/xPdL4ge0bPglqpwK-oAdpz24dgkRJv10R"><strong>DayDreamX (Light)</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/nRxeqrnWAKJ7q56P-oAdpz24dgkRJv10R"><strong>US4 / US5</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26l8P5wVvojL-oAdpz24dgkRJv10R"><strong>Astroid Unblocker (Inbox)</strong></a></p></li></ul></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/xPdL4geN9PyeqpwK-oAdpz24dgkRJv10R"><strong>YouTube</strong></a><strong> <mark>更新有</mark></strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/eXwgvwGGAajevybR-oAdpz24dgkRJv10R"><strong>複数搭載系</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/ke9Kqzboj0OdqYQG-oAdpz24dgkRJv10R"><strong>わかめtube / わかめtube Plus</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/BbjnqxreVo79493Q-oAdpz24dgkRJv10R"><strong>しあtube &amp; XeroxYT-NT</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/PkpnqABnoYJJvD0B-oAdpz24dgkRJv10R"><strong>MIN-Tube-Pro</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/961rqR90AwOd2nND-oAdpz24dgkRJv10R"><strong>Yuki YouTube+ &amp; YouTube Plus+</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/jzJX4EOg7Dm6qbnO-oAdpz24dgkRJv10R"><strong>YuZuTube</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/olbw23Zlz05W4L30-oAdpz24dgkRJv10R"><strong>チョコtube</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/nRxeqrlR3eKM456P-oAdpz24dgkRJv10R"><strong>Wista</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/eo1R47MzRnoxqZDL-oAdpz24dgkRJv10R"><strong>れんれんtube</strong></a><strong> <mark>更新有</mark></strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/Bk5x4dry8E0mqZgz-oAdpz24dgkRJv10R"><strong>仙人tube &amp; かつおtube</strong></a><strong> <mark>更新有</mark></strong></p></li></ul></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/961rqR983JbE2nND-oAdpz24dgkRJv10R"><strong>YouTube開発者向け</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/K8wMqGODj91RqZJO-oAdpz24dgkRJv10R"><strong>Nocookie</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26l6Yb5PvojL-oAdpz24dgkRJv10R"><strong>Education</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/mVbpvYpGjyPaqRkn-oAdpz24dgkRJv10R"><strong>Invidious</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/3n6K2WQgYy8Yv0A9-oAdpz24dgkRJv10R"><strong>Piped</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/3n6K2WQxB7LXv0A9-oAdpz24dgkRJv10R"><strong>他の代替フロントエンド</strong></a></p></li></ul></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/jzJX4EOdVy57qbnO-oAdpz24dgkRJv10R"><strong>YouTube以外のいろいろ</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/3jXMqpl6D1ZQqAzx-oAdpz24dgkRJv10R"><strong>Twitch</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/mVbpvYpo6dEbqRkn-oAdpz24dgkRJv10R"><strong>X (旧Twitter)</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/QgJV4ZzwJrdP4mBk-oAdpz24dgkRJv10R"><strong>Instagram</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/nRxeqrnwpzewq56P-oAdpz24dgkRJv10R"><strong>TikTok</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/E1Xd49NRDyxZ2GJr-oAdpz24dgkRJv10R"><strong>Pixiv </strong></a><strong> <mark>更新有</mark></strong></p></li></ul></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/Bk5x4drZ8J6MqZgz-oAdpz24dgkRJv10R"><strong>音楽が聴けるサイト</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/Bk5x4drdWKMKqZgz-oAdpz24dgkRJv10R"><strong>YouTube Music</strong></a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/x1rD2JNKyEeX20dM-oAdpz24dgkRJv10R"><strong>SoundCloud</strong></a></p></li></ul></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/3n6K2WQgYRezv0A9-oAdpz24dgkRJv10R"><strong>プライベート検索エンジン</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/3jXMqpldXMxXqAzx-oAdpz24dgkRJv10R"><strong>SearXNG</strong></a></p></li></ul></li></ol>
 
 **最終更新日:** April  1, 2026
 
@@ -343,7 +343,7 @@
 #### Additional Information
 - **Post color:** Yellow
 - **Created At (UTC):** May 23, 2025 12:02pm
-- **Updated At (UTC):** Apr 01, 2026 10:37am
+- **Updated At (UTC):** Apr 02, 2026 06:31am
 
 ---
 
@@ -462,39 +462,28 @@
 
 ## 雑談
 
-### 1. 今日minecraftやります！
+### 1. minecraftできる人募集中！！！コードは　uqzli
 **Author:** ナンジャモ (sukaretonanja)
 
-<p>午前10時以降にやります、</p><p>チートあり、荒らし✖✖✖</p><p>やりたい人は何時に行けると言ってね</p><p>自分が結構進めたワールドでやります</p><p>ボイチャは基本的にはダブーです、✖</p><p>ゲーム内のチャットで話そうね</p><p>コードはそのとき更新します</p><p>ボクのゲームの時の名前は　negizuki_nanjamoです</p><p>更新時情報　ゲームは<mark>10:50から</mark></p><p><mark>コード　vvj9x</mark></p>
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2357430263/a5588aac578cca305545e50b1f2ee2f9/EaglyMC_WASM.html?Expires=1775718876&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=29MBZd2fieKvUwgFi27TmZN0xJH1aIHiu83lfZ1D6KlRMeZUbJrdTvBS75f0jyPPQxwRC2X6zDU1Q79q8GP0QUyma0yptOvZ8RYu4WXti7%2F41aV8x8QH%2Fqsdi7OHXfjOmTsJzdl6RA3wnLqQmbyjXglYTI%2FOss%2Bk7AiTjd%2B3jWs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2357430263%2Fa5588aac578cca305545e50b1f2ee2f9%2FEaglyMC_WASM.html)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2357430263/185868ab39fe5a0486231368a7f9f474/EaglyMC_WASM.html?Expires=1775711024&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eJh5aTQ6c6dJpbSu3ddyauu%2FHoAqZF%2B3HGbGEKwQwbl0Ys5cVQIbOb%2BMCxaVcr38yo7kX5B9kQDldgwGem1L0oxSnEEDAqCi3BJS%2FaVrRuF3xC1M4lNCa%2BpINL60Hb%2FTxBGVikQd306pwUyZLSk38q1y297D%2BrTErdu21eXOFKc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2357430263%2F185868ab39fe5a0486231368a7f9f474%2FEaglyMC_WASM.html)
-
-#### Comments (13)
-- **꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱♡** (Apr 02, 2026 12:35am): ok
-- **ナンジャモ** (Apr 02, 2026 01:00am): 一人ねえ
-- **ナンジャモ** (Apr 02, 2026 01:00am): もうちょっと集まらないかな？
-- **あおたん　＃低浮上** (Apr 02, 2026 01:23am): 行きたい
-- **ナンジャモ** (Apr 02, 2026 01:26am): お
-- **ナンジャモ** (Apr 02, 2026 01:26am): ｋ
-- **ナンジャモ** (Apr 02, 2026 01:27am): ごめんやっぱ10:50からでいい？
-- **あおたん　＃低浮上** (Apr 02, 2026 01:29am): ま、そん時次第
-- **あおたん　＃低浮上** (Apr 02, 2026 01:29am): 親が帰ってきたら無理
-- **ナンジャモ** (Apr 02, 2026 01:51am): vvj9x
-- **XRAX** (Apr 02, 2026 02:12am): 入れません
-- **XRAX** (Apr 02, 2026 02:14am): 入れました
-- **XRAX** (Apr 02, 2026 02:14am): wだと思ってました
+#### Comments (4)
+- **ナンジャモ** (Apr 02, 2026 06:21am): ごめん回線切れた
+- **ナンジャモ** (Apr 02, 2026 06:21am): やり直す
+- **ナンジャモ** (Apr 02, 2026 06:21am): uqzli
+- **ｒｇ** (Apr 02, 2026 07:14am): 重いんですけど軽くする方法ありますか？
 
 #### Additional Information
-- **Post color:** Purple
-- **Created At (UTC):** Apr 01, 2026 11:42pm
-- **Updated At (UTC):** Apr 02, 2026 03:03am
+- **Post color:** Yellow
+- **Created At (UTC):** Apr 02, 2026 05:47am
+- **Updated At (UTC):** Apr 02, 2026 06:57am
 
 ---
 
 ### 2. Post 2
 **Author:** あおたん　＃低浮上 (aotan)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4693810632/c344c5d29e7b9e84f12bb42ccf4ccfae/Screen_recording_2026_04_01_14_08_40.webm?Expires=1775711024&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gFh4GN%2FF9a0XtDjTMGMEYUVtrXWRvhJl3JbUOBrcvbLIOE4xkOUppMwH9%2BFBvgloCzLqFLX0Yi8zxYlr5eGr%2Fc70zpsUgVWjc%2FvHMaOXF46bKB%2FuxNHs9QwSPHM6eaiMiET1zSsax2HDAarT1hUvznJYS%2FgbItSkMIx%2Fy8n6QE8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4693810632%2Fc344c5d29e7b9e84f12bb42ccf4ccfae%2FScreen_recording_2026_04_01_14_08_40.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4693810632/c344c5d29e7b9e84f12bb42ccf4ccfae/Screen_recording_2026_04_01_14_08_40.webm?Expires=1775718876&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=I965Sprr%2F1Gn70buUVckbr7lHnHGX5nNMB11rv0HdwRwxEscJW3HZdo4IliytrBhgSn2tVrL1ljsgyUFZnKxnTRRbMIDlsyIfi0Ji3NWDSWdhaset3bq35KN%2Fv7R4dGyWn%2BOyrYXYfDCdoVFboQXSaq7PSHsNNmmOItzI1JUnUM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4693810632%2Fc344c5d29e7b9e84f12bb42ccf4ccfae%2FScreen_recording_2026_04_01_14_08_40.webm)
 
 #### Comments (4)
 - **NyrikX(足立区陣ICFS系)** (Apr 01, 2026 05:53am): どうやって日本語にするの()
@@ -590,7 +579,7 @@
 ### 6. Wistaに欲しい機能教えて
 **Author:** ꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱♡ (woolisbest4520)
 
-#### Comments (13)
+#### Comments (14)
 - **あおたん　＃低浮上** (Mar 25, 2026 04:20am): チャット
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 25, 2026 04:41am): チャンネルページの強化
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 25, 2026 04:51am): 全部1つのHTMLにまとめるの？
@@ -604,191 +593,12 @@
 - **꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱♡** (Mar 28, 2026 08:20am): ライブ配信専用コーナーとabout:blankかぁ.......
 - **꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱♡** (Mar 28, 2026 08:20am): about:blankでひらくだけならhtmlでいけるけどね
 - **꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱♡** (Mar 28, 2026 08:21am): ライブ配信......やってみる
+- **NyrikX(足立区陣ICFS系)** (Apr 02, 2026 06:24am): ちなみにトレンド動画再生できません...あとツールやゲームができないことになってます
 
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Mar 25, 2026 01:42am
 - **Updated At (UTC):** Mar 25, 2026 01:42am
-
----
-
-### 7. チャッピーがブロックされました（泣）
-**Author:** しふぉん (r0301016)
-
-<p>みんなはどうですかね…</p>
-
-**投稿の種類:** サイトに関する相談や質問
-
-[Attachment 1](https://open.spotify.com/track/3tNoq0EbzEupbiVE7JGsOx)
-
-#### Comments (6)
-- **あ@低浮** (Mar 24, 2026 11:38pm): ブロックはされないけどなんか、ログインできんくなった…？
-- **きむちゃ。🤪💙.꒰ঌ12.12໒꒱** (Mar 25, 2026 05:35am): さいしょからブロ（）
-- **NyrikX(足立区陣ICFS系)** (Mar 25, 2026 02:27pm): あのーICFSは最初から2024年〜2025年の4月ぐらいまではブロックかかってなかったけどその後ブロックされた。使えてたときはログインブロックされてた気がする
-- **りな319＃ルミナス族リーダー** (Mar 25, 2026 06:44pm): てか、チャットGPT今めっちゃラグいし壊れてるくない？
-- **NyrikX(足立区陣ICFS系)** (Mar 26, 2026 03:07am): んなことない。geminiはこのアカウントでは利用できませんってなって別の変な新しいアカウントに切り替えたら使える
-- **1nbyqzaq** (Mar 27, 2026 03:32am): ゲストですいません。僕の場合、アプリ化していたので大丈夫でしたが、タブだとブロでした。
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Mar 24, 2026 05:44am
-- **Updated At (UTC):** Mar 24, 2026 08:32am
-
----
-
-### 8. Wista1.2.0公開予定
-**Author:** ꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱♡ (woolisbest4520)
-
-<p>Wista Version 1.2.0 までの開発が完了しました。 バグの修正や微調整が終わり次第、WistaはV1.2に移行します。</p><p>更新内容</p><p>・チャンネルページ</p><p>・関連動画の高速化</p><p>・チャンネルの検索</p><p>・ショート動画の検索</p><p>・ショート動画</p><p>・設定画面の高機能化</p><p>・ストリーム取得の高速化</p><p><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1276740034/">https://scratch.mit.edu/projects/1276740034/</a></p>
-
-**投稿の種類:** サイトに関する情報提供
-
-**最終更新日:** March 23, 2026
-
-#### Comments (1)
-- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 23, 2026 09:35am): 僕の埋め込み再生ツール、チャンネルに対応させた :p
-
-#### Reactions
-- **Average star rating:** 5.0
-- **Number of ratings:** 3
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Mar 23, 2026 09:12am
-- **Updated At (UTC):** Mar 23, 2026 09:14am
-
----
-
-### 9. Senninproxy
-**Author:** 仙人@suger (xianrendesu)
-
-<p>せんにんproxyのりぽじとりですcsbとrenderででぷろいできます</p>
-
-**投稿の種類:** レポジトリの提供
-
-[https://github.com/youtubekosub/senninproxy](https://github.com/youtubekosub/senninproxy)
-
-#### Comments (4)
-- **Anonymous** (Mar 23, 2026 11:54am): れんだーでやったら操作は許可されてませんって出た 
-- **仙人@suger** (Mar 24, 2026 10:04am): Csb推奨だよRender垢が垢BANされる可能性があるあと許可されてませんはフォークしないと出来ない
-- **NyrikX(足立区陣ICFS系)** (Mar 24, 2026 12:06pm): どうやって使うんですか？学パソでもできますか？
-- **aaabbbccc** (Mar 24, 2026 11:22pm): なんかフォークできない
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Mar 23, 2026 04:31am
-- **Updated At (UTC):** Mar 25, 2026 12:08am
-
----
-
-### 10. マイクラのサーバー作れる人ませんか？
-**Author:** hirafu (paiaaru)
-
-<p>いれば<a rel="noopener noreferrer nofollow" href="https://padlet.com/paiaaru/padlet-iljjktqmuxyfh7xk">https://padlet.com/paiaaru/padlet-iljjktqmuxyfh7xk</a>のマイクラサバのとこにお願いします（マイクラマルチやりたい）</p>
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Mar 21, 2026 09:21am
-- **Updated At (UTC):** Mar 23, 2026 09:39am
-
----
-
-### 11. アップデート済み
-**Author:** 仙人@suger (xianrendesu)
-
-<p><a rel="noopener noreferrer nofollow" href="https://katuotube-1-1-sdw5.onrender.com">https://katuotube-1-1-sdw5.onrender.com</a></p><p>チャンネルページと画質選択機能（いまバグってるけど）追加</p>
-
-#### Comments (3)
-- **Enthusiastic Falcon** (Mar 20, 2026 09:30am): パスワードって何ですか？
-- **きむちゃ。🤪💙.꒰ঌ12.12໒꒱** (Mar 20, 2026 11:50am): katuo
-- **Trustworthy Ladybug** (Mar 20, 2026 12:27pm): ありがとうございます‼︎
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Mar 19, 2026 12:33pm
-- **Updated At (UTC):** Mar 19, 2026 12:33pm
-
----
-
-### 12. 初心者がやるんだったら一番JavaScriptが扱いやすいんかなぁ
-**Author:** 削除済みユーザー (sakujosaretenaiyo)
-
-<p>有識者初心者におすすめの言語教えてくれ</p>
-
-#### Comments (6)
-- **adepen1210** (Mar 19, 2026 11:58am): Linux
-- **adepen1210** (Mar 19, 2026 11:59am): 言語なのかはわからんが
-- **adepen1210** (Mar 19, 2026 11:58am): わかりやすいし文献も多いから初心者でも入りやすい
-- **仙人@suger** (Mar 19, 2026 12:32pm): 僕はpythonやな構文が簡単だからね。僕も一番最初に勉強したよ
-- **削除済みユーザー** (Mar 20, 2026 04:21am): なるほど
-- **NyrikX(足立区陣ICFS系)** (Mar 20, 2026 05:19am): proxyの作り方見たけどアルファベットたくさんあってむずすぎる...
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Mar 19, 2026 10:18am
-- **Updated At (UTC):** Mar 19, 2026 10:18am
-
----
-
-### 13. フォトナブレインロット公式コラボ
-**Author:** ᴎeoᴎӝ ❤️‍🔥 -.- ͛ (neon_ix)
-
-#### Comments (3)
-- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 19, 2026 01:07am): 確定
-- **きむちゃ。🤪💙.꒰ঌ12.12໒꒱** (Mar 19, 2026 06:54am): グーグル垢作ろうとしたらErrorでるんだけど()
-- **ᴎeoᴎӝ ❤️‍🔥 -.- ͛** (Mar 19, 2026 11:04am): 代わりに作ってあげようかやっぱめんどいからむりだ
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Mar 19, 2026 12:42am
-- **Updated At (UTC):** Mar 19, 2026 12:42am
-
----
-
-### 14. ICFS無効化したのに学校側に履歴が残るの意味ないから誰か学校側に残らなくなる方法教えてくれ
-**Author:** 削除済みユーザー (sakujosaretenaiyo)
-
-#### Comments (14)
-- **NyrikX(足立区陣ICFS系)** (Mar 16, 2026 09:24am): どんな方法でICFS無効化できた？強制再起動の方？
-- **削除済みユーザー** (Mar 17, 2026 10:18am): クロムバグってたから、再起動→15分後とかにまたバグ→再起動を繰り返してたらこうなった
-- **NyrikX(足立区陣ICFS系)** (Mar 17, 2026 10:48am): 珍しいなあ、昔タブ開きまくって解除した数日後に必ず画面がバグって止まってたまに動いて電源切ってもう一回やんないといけなかった
-- **NyrikX(足立区陣ICFS系)** (Mar 18, 2026 01:15am): About:Blankできるプロキシ使うとめっちゃいいよ！履歴残らないから
-- **きむちゃ。🤪💙.꒰ঌ12.12໒꒱** (Mar 18, 2026 06:11am): [Attachment](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/goElQyOz21evW3yY) これはどうすればいいのだ
-- **NyrikX(足立区陣ICFS系)** (Mar 18, 2026 04:29pm): そのエラー一回も出てきたことないんだけど
-- **削除済みユーザー** (Mar 18, 2026 10:31pm): それは時間置けば直る
-- **削除済みユーザー** (Mar 19, 2026 01:38am): >About:Blankできるプロキシ使うとめっちゃいいよ！履歴残らないから それはそうだけど折角直でいけるのにプロキシ使うのなんかなー⋯となって今ここに言ってるとこよ
-- **削除済みユーザー** (Mar 19, 2026 01:39am): プロキシだとXもいけないし
-- **きむちゃ。🤪💙.꒰ঌ12.12໒꒱** (Mar 19, 2026 01:47am): 時間おいてもなおんないんだけど()
-- **きむちゃ。🤪💙.꒰ঌ12.12໒꒱** (Mar 19, 2026 01:48am): もう2日たったよ()
-- **削除済みユーザー** (Mar 19, 2026 06:29am): じゃあ代替探すしかない（）
-- **きむちゃ。🤪💙.꒰ঌ12.12໒꒱** (Mar 19, 2026 06:38am): がてぃかぁぁああ
-- **NyrikX(足立区陣ICFS系)** (Mar 30, 2026 11:46am): 再起動しまくるとたまにICFS無効化できるらしい
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Mar 16, 2026 05:16am
-- **Updated At (UTC):** Mar 16, 2026 05:16am
-
----
-
-### 15. 中国板Github 「Gitee」
-**Author:** NyrikX(足立区陣ICFS系) (h3000370)
-
-<p>使わんかもしれないけど送ってく。ICFSかかってない。使うとき翻訳でどうにかして。</p><p>あとは似たやつ</p><p><a rel="noopener noreferrer nofollow" href="https://gitcode.com/">https://gitcode.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://www.csdn.net/?spm=1018.2226.3001.4476">https://www.csdn.net/?spm=1018.2226.3001.4476</a></p><p><a rel="noopener noreferrer nofollow" href="https://www.infoq.cn/">https://www.infoq.cn/</a></p><p><a rel="noopener noreferrer nofollow" href="https://www.zhihu.com/">https://www.zhihu.com/</a></p>
-
-[Attachment 1](https://gitee.com/)
-
-#### Comments (5)
-- **Benevolent Narwhal** (Mar 15, 2026 11:25am): 何ににつかえばいいかわからん
-- **NyrikX(足立区陣ICFS系)** (Mar 15, 2026 11:50am): proxy作るときだよ
-- **Wise Hamster** (Mar 16, 2026 11:35am): どうやって作るの？
-- **NyrikX(足立区陣ICFS系)** (Mar 17, 2026 07:42am): Giteeは中国の高速なホスティングサービスで、GitHubと同様にGitコマンドやWeb操作でプロジェクト管理が可能です。アカウント作成後、リポジトリを作成し、ファイルをアップロードまたはgit pushすることでコードを公開・共有できます。詳細な操作ガイドはGitee上で確認できます。詳細はmvphp/Gitee操作极速上手指南を参照してください。
-- **ルパン三十八世** (Mar 25, 2026 10:22am): https://www.dns.com/zh　　これも中国のやつプロキシかどうかは知らないけど
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Mar 15, 2026 08:01am
-- **Updated At (UTC):** Mar 15, 2026 08:01am
 
 ---
 
@@ -985,7 +795,7 @@
 
 [Attachment 1](https://search.brave.com/)
 
-#### Comments (15)
+#### Comments (16)
 - **きむちゃ。🤪💙.꒰ঌ12.12໒꒱** (Mar 21, 2026 11:17am): これなにができるん
 - **hirafu** (Mar 22, 2026 06:35am): 普段ならセーフサーチとかかかるのが見れるだけ
 - **Admirable Ladybug** (Mar 22, 2026 12:13pm): 何を見ようと？！？！？
@@ -1001,6 +811,7 @@
 - **狂犬** (Mar 27, 2026 02:13am): 調べ方教えていただけると助かります
 - **Xq1t_** (Mar 27, 2026 04:04am): 兵庫県民i-filterはいないのか？
 - **hirafu** (Mar 27, 2026 07:09am): さあねぇ
+- **郭嘉佑** (Apr 02, 2026 06:25am): [Attachment](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/lkROZPpzx26OZjMg) 
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1018,7 +829,7 @@
 
 <p>なんか学校で変になった</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/223b8b74a0e6bf2ec4cc7a3bd6b54838/Screen_recording_2026_03_04_10_11_06.webm?Expires=1775711024&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NObMv3xzXVgwa4tPbxtK9kK%2FyCyJtrVtWM6LQtD1MZhe1Ba76GX9XUswTaxKhq6T6t9RyhBd1hYdxpqE4aQStoqhgTaQB2XDENtUr%2B1XNNfXNMgBgu1vSX5XEVZeSMVopdADrj4TkYxChBMN6fgoemaeci1SVfd2agSC%2B%2BtC%2FPA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F223b8b74a0e6bf2ec4cc7a3bd6b54838%2FScreen_recording_2026_03_04_10_11_06.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/223b8b74a0e6bf2ec4cc7a3bd6b54838/Screen_recording_2026_03_04_10_11_06.webm?Expires=1775718876&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GvJ9Bvj9AdqHkaLz1QgJO%2FyulrNyS3RhMjq3O3pkOfZzKzq1FrJQuI2D%2F3UzhWSWgH7Meg0sn1AjGDkExFfIOCo15UO8kgq9kmRJLX7iUrkbKBpLKysEDEJMrxRduuvjW2dRGXQhDSw7tYl6xIHU8dwytwq4uyHWWZfN7h%2FZir4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F223b8b74a0e6bf2ec4cc7a3bd6b54838%2FScreen_recording_2026_03_04_10_11_06.webm)
 
 #### Comments (26)
 - **hirafu** (Mar 04, 2026 07:41am): ずっと再読込してたらこうなった
@@ -1066,7 +877,7 @@
 
 [Attachment 1](https://interstellar-nana.hndifhidalgo.gob.mx/)
 
-#### Comments (35)
+#### Comments (38)
 - **Kan Tsubaki　　aoi** (Feb 24, 2026 03:48am): きせい
 - **Kick** (Feb 24, 2026 01:55pm): utopiaの方は行けたよ
 - **hirafu** (Feb 24, 2026 11:33pm): むりだつた
@@ -1102,6 +913,9 @@
 - **Secretive Squirrel** (Mar 17, 2026 11:30pm): 【悲報】Utopia規制
 - **aka a** (Mar 19, 2026 01:27am): 自分のパソコンが重いだけかもやけどI-filter大体いけます
 - **うｎｋぉちゃソ** (Mar 20, 2026 03:06am): かりますすいません
+- **ヒトカゼ** (Apr 02, 2026 06:52am): 全滅(´；ω；｀)
+- **ヒトカゼ** (Apr 02, 2026 06:52am): 調べ方教えていただけると嬉しいです
+- **ヒトカゼ** (Apr 02, 2026 06:53am): というか教えてください
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1278,7 +1092,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/34e0460ab217cef783a7f5d9508fe612/Screenshot_2026_01_24_20_36_42.png?Expires=1775711025&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Avznq0wjLW%2FDYDqGmjzgepibsHDTaowufvcmA2jFYXkw2zRrG1iN9DUSvYEPMN93MJIE5ahobb7JyE1cD6azHSqWMFiFpgag9%2FGNHZroC0GoXVCORMe6cY17kEl66dOzM0QEkycX%2Fu7n0zjIZ1CI%2Buv3GgZJa3LqnMqXlos3w8s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F34e0460ab217cef783a7f5d9508fe612%2FScreenshot_2026_01_24_20_36_42.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/34e0460ab217cef783a7f5d9508fe612/Screenshot_2026_01_24_20_36_42.png?Expires=1775718876&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SzQEkrlmI5%2BjfiRJ9hJMJ%2Fiu9QAqHMbon2brf%2FXRK0RxLIkH8%2FN4fMg5bwOQFI99TkPP5TlcTJX70LuOcnOH68jPrk6IreSrqJkoLrV6g9eSzuzB4Swhh5FMNkgbcKNHYsw%2BckkSXka4goDPOycQnx1XEx09D8%2FkAmlfYbdyzIk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F34e0460ab217cef783a7f5d9508fe612%2FScreenshot_2026_01_24_20_36_42.png)
 
 #### Comments (37)
 - **Massa_games216** (Jan 24, 2026 11:43am): 自分の学校だけかもしれんがダウンロード履歴・ファイル情報まで読み取れるようになってるっぽい
@@ -1351,7 +1165,7 @@
 ### 4. くそが！
 **Author:** バッタ　#煮物貢献者　#煮物14番弟子　#りおと族37代目　#りおと弟子37番目　#そろそろ引退かも (bbbaaattttttaaa)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/79699f39858836d7bb42fb7d28e05c39/image.png?Expires=1775711025&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Kls9j6%2BcPqMLeTOnaZNnWHpCgZqceUNwsu3mW2gFbZ9e8qvGYZmVavNXVAC667fnPZ2uGamt6gd6uQJYX7dG2pXtHp7XcCF48aegObQkLwbtObjZVjvm38R%2Fx%2F%2BK29lq9RsgkMe%2F97oeBxYSuTv1WW%2FjbR0NhzgJaFzkZc7lCPM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2F79699f39858836d7bb42fb7d28e05c39%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/79699f39858836d7bb42fb7d28e05c39/image.png?Expires=1775718876&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=glwYhoqQSkHD5pUbfoMZ49fxSYUODsJk%2BEj1CqzR3D972AcN4r7ZVfuSForapVOfV%2FIMXa8aTuH57pK5dusLKiMTGWkKItm9ZDBCtH3zLNLxoQh5SmlIsXQlNCClsvTTWLROJW%2BXX3vC7jpzKVyFWTUEFno73bevgPL%2BTKOjJTI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2F79699f39858836d7bb42fb7d28e05c39%2Fimage.png)
 
 #### Comments (11)
 - **バンダナわどるど Xx-tucasanz-xX りおと53番弟子　りおと族27代目** (Jan 08, 2026 12:57am): それな
@@ -1416,7 +1230,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4208255619/929eda19f10e41dd61b1b94088af8f26/Screenshot_2025_11_09_19_44_49.png?Expires=1775711025&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Q3CQQboaizIe32ztAWEa2H7FOMAWQS6R3yOcm3UanOxTcGQ7ErNmFy0KBQQxDVtCO6SrdA9m0vguDks11ppUEEvWLYUL0VpQCaemAotqap6r%2BFxTF2SkDHewQDr8o8qkMA0ZnwUvDCLT%2FlOIl0WKD3kDVsTW1lM5IX0AJWtxrx0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4208255619%2F929eda19f10e41dd61b1b94088af8f26%2FScreenshot_2025_11_09_19_44_49.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4208255619/929eda19f10e41dd61b1b94088af8f26/Screenshot_2025_11_09_19_44_49.png?Expires=1775718876&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=N44X7Oa3N98Rmsdlueuq%2B5AKWNRTXtxvnYaWbFSYo%2BkvGc%2BhFrucbfzhqnvyS0%2FkNeeE8VDsFhM5cw0F%2FeKW2ym1lbRqKJh7K3%2BfPLdZzWMhnLT%2FR%2BhLfvu5KwL%2FP2acm0mw6cWX3Yc24mJFPZU72vM1HmdEDUWdRr3uGEYA2ME%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4208255619%2F929eda19f10e41dd61b1b94088af8f26%2FScreenshot_2025_11_09_19_44_49.png)
 
 #### Comments (11)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 09, 2025 04:05pm): また明日やり方貼ります
@@ -1508,66 +1322,6 @@
 
 ---
 
-## Cisco umbrella専用
-
-### 1. スクリーンタイムを使ったCiscoの解除。
-**Author:** からあげ (karaagechikin029)
-
-<p>⭐︎使えないアプリが出るかも</p><p>⭐︎反映まで時間差が出るかも</p><p>⭐︎スクリーンタイムがいじれなきゃダメ</p><p>⚪︎履歴は先生(敵)には保存されなくなる</p><p><br></p><p>やり方</p><p>①スクリーンタイムを開いて　コンテンツとプライバシーの制限を開く</p><p>②app store メディア、Web、およびゲームを開く</p><p>③アプリを押す。</p><p>④許可しない　にする。</p><p><br></p><p>裏① 戻す時は④を+17にすればいい</p>
-
-**投稿の種類:** フィルターに関する情報提供
-
-#### Comments (5)
-- **削除済みユーザー** (Dec 11, 2025 08:37am): win10はないの
-- **からあげ** (Dec 21, 2025 07:31am): Windows10か　昔いじったことしかないけど　タスクマネージャー？でアプリを強制停止させればいけるかもね(無知無知の無知)
-- **nonnon** (Dec 17, 2025 05:57am): もしかして同い年？
-- **Anonymous** (Dec 19, 2025 07:12am): むりだった、、、
-- **Anonymous** (Dec 19, 2025 07:13am): スクリーンタイムがまず開けなかったw
-
-#### Reactions
-- **Average star rating:** 1.0
-- **Number of ratings:** 1
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Oct 14, 2025 12:01am
-- **Updated At (UTC):** Oct 14, 2025 04:43am
-
----
-
-### 2. iPad 制限回避ファイル
-
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-
-<p><strong>➥ 使い方</strong></p><ul><li><p>iPad専用です。ファイルをダウンロードし、端末にインストールしてファイルの構成をメインに選択すると制限を回避することができます。自ら必要だと思う構成ファイルをダウンロード、インストールし適応してください。</p></li><li><p>またこの構成ファイルのバグについては対応して下さるそうですが、<strong><mark>もし損害が発生した場合は自己責任</mark></strong>です。<strong><mark>自ら判断をし、自らの責任ですべて設定等をする</mark></strong>ようにお願いいたします。</p></li></ul><p><br/></p><p><strong>➥ ブロックされている場合は、ここからダウンロードして下さい。</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://github.com/myamya-wiki/myamya-tools/raw/refs/heads/master/cisco/Private%20DNS%20Settings%20-%20A.mobileconfig">AdGuard DNS</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://github.com/myamya-wiki/myamya-tools/raw/refs/heads/master/cisco/Private%20DNS%20settings%20-%20C.mobileconfig">Cloudflare</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://github.com/myamya-wiki/myamya-tools/raw/refs/heads/master/cisco/Private%20DNS%20settings%20-%20G.mobileconfig">Google</a></p></li></ul>
-
-**投稿の種類:** フィルターに関する情報提供
-
-**最終更新日:** October 10, 2025
-
-[Attachment 1](https://myamya-wiki.github.io/myamya-tools/cisco/index.html)
-
-#### Comments (8)
-- **まろ** (Jul 07, 2025 02:08pm): これ安全なやつ？
-- **ᏁγᎶ » Tøka_Kuŋ_** (Jul 07, 2025 10:15pm): 詳しくないならやめておいた方が良いよ
-- **まろ** (Jul 08, 2025 08:57am): おけ
-- **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (Jul 08, 2025 09:51pm): これcisco umbrella専用だよ？
-- **削除済みユーザー** (Aug 04, 2025 09:58am): ブロだよ
-- **GAKU　Cookie Clicker楽し〜** (Aug 15, 2025 04:37pm): Cisco umbrella民です
-- **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (Aug 20, 2025 09:33pm): なんかこれ教育委員会に通知来るらしいな….
-- **神ｨ！** (Sep 07, 2025 12:32am): まあ俺はブロックされたから意味ないけどな
-
-#### Reactions
-- **Average star rating:** 5.0
-- **Number of ratings:** 2
-
-#### Additional Information
-- **Post color:** Red
-- **Created At (UTC):** Jul 06, 2025 02:28am
-- **Updated At (UTC):** Oct 10, 2025 10:11am
-
----
-
 ## ICFS専用
 
 ### 1. Post 1
@@ -1649,7 +1403,7 @@
 
 <p>塾の友達から教わった方法</p><p>操作時間は3分から長くて10分です。今はコツを掴んだので100発中100回です。できると証明する動画でもあります。動画の最後の方を見れば分かる通り、成功したら上にある表示中の拡張機能の中でICFSが自動的に消去されていますが、いつもそうなるとは限りません。一番注意してほしいことは、制限以降の時間帯にやると、3~5回繰り返す必要がある可能性が少しあること。</p><p>1:タブを開きまくると、上のタブバーにあとから追加したタブが表示できなくなるので、そこまで画面のnewタブの+を押す。具体的に言うと、通常は30~40秒間連打し、制限の時間帯以降では15~25秒連打する。</p><p>2:そしたら、タブを追加すると自動的に上のURLバーが文字の入力の準備が整うので、画面が固まっていても好きなタイミングで、そのまま入りたいURLをぶち込んで3分程度待てば行ける。もちろんそのまま待って固まっている画面がなおってからやってもいい。また、画面が固まっている時間が長すぎてクラッシュしてページがリセットされることがありますが、もう数回やればできます。</p><p>そして、何よりも設定読み込み中が長すぎてだめだったら、すぐにリフレッシュキー(更新キー)と電源を一回同時に押してログインすると、上の表示中拡張機能バーにはICFSはありますが、実際にはブロック解除できています。私は以前この電源を一回切って入る方法を強制再起動のハードウェアのリセットとしてできたと思います。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/bb877797726af504c6d00cd3bcd6d156/ICFS_________online_video_cutter_com_.mp4?Expires=1775711025&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FMbU8L7pGhOhGdkAakC7pas8a0AZj9j7Kw9iS4P5TqeF7IeKHz6ann9etY%2FO2%2B3Ys%2BGhP686ZAUHB%2B67w6VRMQmmTMMMjTrWjTXikkeSaVLoGLnW7TBBzbxwG9flrCIKQ0phasKew%2Byri8FjbVbvcXANRil4l0wr0a7ZYmgSaOg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2Fbb877797726af504c6d00cd3bcd6d156%2FICFS_________online_video_cutter_com_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/bb877797726af504c6d00cd3bcd6d156/ICFS_________online_video_cutter_com_.mp4?Expires=1775718876&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EV21hHaHuLZJyBqvZcAAgXWKH%2BQTBZiSHGMuX1QLgBS%2FUf31JofaWavwxGRdEyPTpmV46bL36eH0qPwpt17EwfWsIUj8CjbzvHyIvovHW11O2aaCbLddpoomqhv0cn9kMRWdch2XXQZOGsxgw47%2BtATyfUq69w1FFZGp4SAzVpc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2Fbb877797726af504c6d00cd3bcd6d156%2FICFS_________online_video_cutter_com_.mp4)
 
 #### Comments (16)
 - **RX034** (Feb 12, 2026 12:32pm): 確実だなこれが
@@ -1847,7 +1601,7 @@
 
 **最終更新日:** November 28, 2025
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3916500373/cdf9546d9a966132950301c2591a96a0/Screenshot_2025_07_17_10_01_07.png?Expires=1775711025&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KbK6pMv0OQi1wmqliTA0iRByF%2FH2Nbx08oVKUZIGxfRgNlvJci9e%2F9IQkNv9r703dBa4t85eZln03lbMUe5slY9%2BcjY%2Bn%2B6gkeUfF%2B2AMYwdYMJKJRr1qu7aT2cft1I8jjQoawzuX%2FFF%2F8q47ZMWziv4U9C6xjw4rXNaLSvDtPo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3916500373%2Fcdf9546d9a966132950301c2591a96a0%2FScreenshot_2025_07_17_10_01_07.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3916500373/cdf9546d9a966132950301c2591a96a0/Screenshot_2025_07_17_10_01_07.png?Expires=1775718877&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3dZQA8Mep7pkQU9nfXryGWxtB7XfwzrwhhCAzCqgae3M1j4pgyTNG2GXAaJUblpB%2FOIzXKL94TUkyiV0dySTK%2B9KnFh%2FI74LWpHqzZLzDIPT4wIl1LB8RxoTl3F%2Buk066M76FLjlwsxfBayf9T3JUmku8km2xZxuG01brolTGoI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3916500373%2Fcdf9546d9a966132950301c2591a96a0%2FScreenshot_2025_07_17_10_01_07.png)
 
 #### Comments (7)
 - **削除済みユーザー** (Nov 23, 2025 12:11pm): wool-tubeあるww
@@ -1939,6 +1693,66 @@
 - **Post color:** White
 - **Created At (UTC):** Oct 11, 2025 01:03pm
 - **Updated At (UTC):** Oct 12, 2025 12:25am
+
+---
+
+## Cisco Umbrella専用
+
+### 1. スクリーンタイムを使ったCiscoの解除。
+**Author:** からあげ (karaagechikin029)
+
+<p>⭐︎使えないアプリが出るかも</p><p>⭐︎反映まで時間差が出るかも</p><p>⭐︎スクリーンタイムがいじれなきゃダメ</p><p>⚪︎履歴は先生(敵)には保存されなくなる</p><p><br></p><p>やり方</p><p>①スクリーンタイムを開いて　コンテンツとプライバシーの制限を開く</p><p>②app store メディア、Web、およびゲームを開く</p><p>③アプリを押す。</p><p>④許可しない　にする。</p><p><br></p><p>裏① 戻す時は④を+17にすればいい</p>
+
+**投稿の種類:** フィルターに関する情報提供
+
+#### Comments (5)
+- **削除済みユーザー** (Dec 11, 2025 08:37am): win10はないの
+- **からあげ** (Dec 21, 2025 07:31am): Windows10か　昔いじったことしかないけど　タスクマネージャー？でアプリを強制停止させればいけるかもね(無知無知の無知)
+- **nonnon** (Dec 17, 2025 05:57am): もしかして同い年？
+- **Anonymous** (Dec 19, 2025 07:12am): むりだった、、、
+- **Anonymous** (Dec 19, 2025 07:13am): スクリーンタイムがまず開けなかったw
+
+#### Reactions
+- **Average star rating:** 1.0
+- **Number of ratings:** 1
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Oct 14, 2025 12:01am
+- **Updated At (UTC):** Oct 14, 2025 04:43am
+
+---
+
+### 2. iPad 制限回避ファイル
+
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+<p><strong>➥ 使い方</strong></p><ul><li><p>iPad専用です。ファイルをダウンロードし、端末にインストールしてファイルの構成をメインに選択すると制限を回避することができます。自ら必要だと思う構成ファイルをダウンロード、インストールし適応してください。</p></li><li><p>またこの構成ファイルのバグについては対応して下さるそうですが、<strong><mark>もし損害が発生した場合は自己責任</mark></strong>です。<strong><mark>自ら判断をし、自らの責任ですべて設定等をする</mark></strong>ようにお願いいたします。</p></li></ul><p><br/></p><p><strong>➥ ブロックされている場合は、ここからダウンロードして下さい。</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://github.com/myamya-wiki/myamya-tools/raw/refs/heads/master/cisco/Private%20DNS%20Settings%20-%20A.mobileconfig">AdGuard DNS</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://github.com/myamya-wiki/myamya-tools/raw/refs/heads/master/cisco/Private%20DNS%20settings%20-%20C.mobileconfig">Cloudflare</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://github.com/myamya-wiki/myamya-tools/raw/refs/heads/master/cisco/Private%20DNS%20settings%20-%20G.mobileconfig">Google</a></p></li></ul>
+
+**投稿の種類:** フィルターに関する情報提供
+
+**最終更新日:** October 10, 2025
+
+[Attachment 1](https://myamya-wiki.github.io/myamya-tools/cisco/index.html)
+
+#### Comments (8)
+- **まろ** (Jul 07, 2025 02:08pm): これ安全なやつ？
+- **ᏁγᎶ » Tøka_Kuŋ_** (Jul 07, 2025 10:15pm): 詳しくないならやめておいた方が良いよ
+- **まろ** (Jul 08, 2025 08:57am): おけ
+- **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (Jul 08, 2025 09:51pm): これcisco umbrella専用だよ？
+- **削除済みユーザー** (Aug 04, 2025 09:58am): ブロだよ
+- **GAKU　Cookie Clicker楽し〜** (Aug 15, 2025 04:37pm): Cisco umbrella民です
+- **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (Aug 20, 2025 09:33pm): なんかこれ教育委員会に通知来るらしいな….
+- **神ｨ！** (Sep 07, 2025 12:32am): まあ俺はブロックされたから意味ないけどな
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 2
+
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** Jul 06, 2025 02:28am
+- **Updated At (UTC):** Oct 10, 2025 10:11am
 
 ---
 
@@ -2779,7 +2593,7 @@
 
 <p>英語のみ対応です</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1775711026&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rKrOJh8TKSX%2FFByQFlfdvU3DU8kZG2EHfCxZZPQJGF5llSM0QdhbhVz8LBb6JUX77YBMVGEwR005bm4JtqocceiavKGAYPQ0lOqPz535ncVrvmRcpbNoaGlKkNODVGa6WVrU%2F0W6f9gaVd3Z65eZjD1H%2FcIyg9lgJG1xFipMnnA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1775718877&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=McoeUGkkkgzDO3Vi1%2F%2FqnXwkMHrVtD38%2Fh74z%2BOvYizF4LUb1Uk%2Fle8uHMPPhv0kL5EEuUYqwA3NH1fStS1b7nm2pt65WFgawGiCIOjtXBYP1F5IVGVa967ac7jD8cqJh%2Bdj3YF3tc%2B4I%2FbEG5wVpJD8ZJbnoA3vX1Goq9Qoxb4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
 
 #### Comments (1)
 - **カービィ** (Feb 28, 2026 02:14am): どうやって進むの？
@@ -2899,7 +2713,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1775711026&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BeIUjrXqDxczjC4%2FUxlg%2FvjYg1ggtxf5xzu8%2Bllc1iJ4zgGIEKuDZDXLs%2BM6Vg1VL7rbfYtae%2F7wHOh66jINPqv1%2B7PM97LOGn6%2FdCreEAqeUU6Lj3PwiNo6DF1u9ZZj5h%2F9MvYJTMe%2B46Q5K5NkhEOR%2BVZgFf0wmxGMClmuN7M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1775718877&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PECfmvF27VcF6cxExQrHfwKD2XYawR25V9lsqbuqI9sck4XRZGIzdKOLOELw3vjqp21y%2FTulN%2FNGkh1qHohddLGaPKFVdvVB6PstNuMio%2Fzb9EJM7ylnkdJdirKHa3vopPLFZH%2BHzlApphQszC19moE4I5Rrf9JYn4DrswoCEMc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
 
 #### Comments (6)
 - **RX034** (Dec 02, 2025 08:28am): 良ければどうぞ！
@@ -2961,7 +2775,7 @@
 
 <p>テトリスだよ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1775711026&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ilo3hoCMkMl3pHUoyj4yrALxHYmq2Zu4ZhaWQ3ycoZSJwlsJRTMxn8HP%2Bcd98iXccTYa31fVgitT2qHlRDxc3fBZR983%2BGknH5dw0lEoqJIha%2B9SYuygIeLyjjtlKc6CuuENeMbu3NGxXgXGs%2BctCQiCVSbkvUs1GJofzEK48HM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1775718877&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OpfxpIG5l8HSoMkEmDs3torFKYM7l0kT7IyXpy1quvKUvL9PPpMVaWeMNxRvTATmgZYp73bj1QG%2BQTvyZ9%2B8i5eea6K8KyxrGmiAffUdALRBt%2FPOcMzesvkXlSCouk3K%2FUXO1Jgt71YlxG08oJO9lgMXRoqqSf4HCkovwguAbsk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
 
 #### Comments (1)
 - **はるとねこ** (Nov 10, 2025 01:54am): なんか表示できねえ
@@ -2980,7 +2794,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1775711026&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wIiTvp1%2BLOPzO%2FLnYCLcny79ymiHSslmnAt%2Fw%2BB8xk6pubWfkUW4u5kknkgn%2B82wm91GyscL0UgeIzWovH6TPolAaOCPFhyEt3J2ArHW1aV1vmJVEb7zLDSk2EDbY6Cg5TxY9ufs0f2GIZ5ZLUN%2Fz%2FN4prATraZwp6yaY5tq3Yc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1775718877&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sHy5so7z1d1MurxmLJaxJjKUkz0WpJZeym%2BsvQdRCKXrtMXhowhpnM5guMzh%2BuvV6IHll2BV8LxoUvglRAYg6m2Lcn0sJnqsNGrMcgVJbJcVRtpJzYdeqnoQ0rjNAFz3EHzZWA9KeaNhDRKws0evZ21d3BsO33xbzHQ0y%2B0RuzE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
 
 #### Comments (3)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 08, 2025 04:36am): 思ったよりAIが強くて負けそう:(
@@ -3958,7 +3772,7 @@
 
 **投稿の種類:** サイトに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/3a2251759abdf3781d2bf689986ea97c/Screenshot_2025_09_26_21_33_45.png?Expires=1775711027&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rpebtrAOTmPtGwhVwCP2Qv99ikovJv1Yaj8W6RYjFh434YPfqA7POAXRGqrTS1iumDgxvCiB7lVGSjXnx01pGs4NuCmxWzJupjjveJB68jYGToNslQqnDCE87BAMT5KLOzMIHN%2FYyIcZlR8WfGKkCS1fxYzSedf6M7SWUHSHghU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F3a2251759abdf3781d2bf689986ea97c%2FScreenshot_2025_09_26_21_33_45.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/3a2251759abdf3781d2bf689986ea97c/Screenshot_2025_09_26_21_33_45.png?Expires=1775718878&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eqGbUuHjd%2BvExGuqCED570j3QuTvj%2B3Op80JnyO8%2Bou4%2FvhUcTaXMua1Dx7Z%2FEtHULCgYDTiC4e2WVZUSEgyJJgZz2ZoHrAz%2BiX9pQAPRDChotU8NVU6zFbu56IW0Bg2smEB8xgao64htVvKXG9JR84ND2Y1Pa%2Bk5I%2BVvSEWQ38%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F3a2251759abdf3781d2bf689986ea97c%2FScreenshot_2025_09_26_21_33_45.png)
 
 #### Comments (1)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 26, 2025 12:39pm): 自分の拠点には看板を建てることを忘れずに！
@@ -3981,7 +3795,7 @@
 
 **投稿の種類:** サイトに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/4e06661b4e71a24c85f039879321dc42/Screenshot_2025_09_26_21_45_53.png?Expires=1775711027&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GvlenAiwfcY8JuEcFgJ%2BQWvzD1rQY%2FRB2sO3QAZIt03Zq4t4cz%2Fzz4HoQn1meKPUlxALFZpe3JZAUnm847RusQQVUQHG6uYlzCtG8n5UThUrXjxmHVC%2F8D56ZKHYnSTYSxIhDxC1YQHFoqpoj2YSXcBy3Ce6xUmnSC%2BcRR5szFc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F4e06661b4e71a24c85f039879321dc42%2FScreenshot_2025_09_26_21_45_53.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/4e06661b4e71a24c85f039879321dc42/Screenshot_2025_09_26_21_45_53.png?Expires=1775718878&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eACGDcU4AbfzmJeKce3M4wvGkmX5jW4JqasZMIkDthGR29uslqYyO%2F3r2UppuIxcwBJaNZMdF27mWllm0HxevYGY1NNLeSphXJXwX8sU84TaEZJlqljYEHAURUMbmobel36xKyxZ1y54Shk24axaQEt80NXR1bR597%2FXjWgRpA4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F4e06661b4e71a24c85f039879321dc42%2FScreenshot_2025_09_26_21_45_53.png)
 
 #### Comments (1)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 26, 2025 12:56pm): マップはここから見れるで https://html.cafe/x2c178236
@@ -4304,7 +4118,7 @@
 
 <p>1.12のイーグラだお</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/fcf918292b174ca7f7df3bd469bd225b/Eaglercraft_1_12_WASM_Offline_Download.zip?Expires=1775711027&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ba5a7CecM%2FbhSK8HAOo%2B%2FL50KB8%2Fldkk%2BxlJlulu%2FXcUPr8%2Fw41GJaB2dnjuAM2tvVEHT%2F8Vnb%2FVZVQROJilNSaXZjRy7CBjpZFiliNn5uD6bLCuFP3X%2B5nVKtGqbeIN6eeCKKHnomfr2KxNRZN42TjbUN0evAnBj0frShKVO%2BM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2Ffcf918292b174ca7f7df3bd469bd225b%2FEaglercraft_1_12_WASM_Offline_Download.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/fcf918292b174ca7f7df3bd469bd225b/Eaglercraft_1_12_WASM_Offline_Download.zip?Expires=1775718878&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=erCXSNVGWz48fr7iTTGfQW9IaHgZOanZWlxZzW21eciSZbcfOmUmFT19nqtn%2Bq6jX%2FcB9jCXFi17SZxoKMAsOC3MF5S492LE%2FWHUVErOFhdl8L3YNR23YGr1DxiotWs7KbbFK91SURZFfr5Osf11hLNORbVBrEt4%2FElkO%2B6ikN8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2Ffcf918292b174ca7f7df3bd469bd225b%2FEaglercraft_1_12_WASM_Offline_Download.zip)
 
 #### Comments (1)
 - **削除済みユーザー** (Feb 21, 2026 02:53am): はい
@@ -5306,7 +5120,29 @@
 
 ## ➥ プロキシ
 
-### 1. このサイトの画面が開いても真っ黒なんだけど…どうやったら使える？
+### 1. Senninproxy
+**Author:** 仙人@suger (xianrendesu)
+
+<p>せんにんproxyのりぽじとりですcsbとrenderででぷろいできます</p>
+
+**投稿の種類:** レポジトリの提供
+
+[https://github.com/youtubekosub/senninproxy](https://github.com/youtubekosub/senninproxy)
+
+#### Comments (4)
+- **Anonymous** (Mar 23, 2026 11:54am): れんだーでやったら操作は許可されてませんって出た 
+- **仙人@suger** (Mar 24, 2026 10:04am): Csb推奨だよRender垢が垢BANされる可能性があるあと許可されてませんはフォークしないと出来ない
+- **NyrikX(足立区陣ICFS系)** (Mar 24, 2026 12:06pm): どうやって使うんですか？学パソでもできますか？
+- **aaabbbccc** (Mar 24, 2026 11:22pm): なんかフォークできない
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 23, 2026 04:31am
+- **Updated At (UTC):** Apr 02, 2026 06:23am
+
+---
+
+### 2. このサイトの画面が開いても真っ黒なんだけど…どうやったら使える？
 **Author:** ＃G党　＃超低浮上 (shinichi3102)
 
 **投稿の種類:** サイトに関する相談や質問
@@ -5334,7 +5170,7 @@
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** Groovy Deer
 
 <p>I-フィルター突破可能なプロキシ！！！！</p>
@@ -5380,7 +5216,7 @@
 
 ---
 
-### 3. Post 3
+### 4. Post 4
 **Author:** Cheerful Kiwi
 
 <p><a rel="noopener noreferrer nofollow" href="https://helloapp.xsrv.jp/phproxy.html?_proxurl=">https://helloapp.xsrv.jp/phproxy.html?_proxurl=</a></p><p>これ使えんくなった</p>
@@ -5405,14 +5241,14 @@
 
 ---
 
-### 4. 音どうやって出すの()
+### 5. 音どうやって出すの()
 **Author:** 削除済みユーザー
 
 <p>でないんだけど。</p>
 
 **投稿の種類:** サイトに関する相談や質問
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4326203661/f9eee29623612a56726d0b918203a1be/Screen_recording_2026_01_10_17_36_15.webm?Expires=1775711027&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WLZDbTfPishO5kVDUf6zicK5z69OOLrB8KBBsC6tXQ5os3ga7s3IW8fuLRDJ6gU7vBVYv8FAdI688d8m5uZLaxWQFz4HpK9QLuUb%2Fgmmt1%2Fb8slQucZC%2BKKxj3UBiW4MOLaf7c0vWxgKv4im%2Bas2sbiuo2TuEnI7Q%2FWJidJqh4o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4326203661%2Ff9eee29623612a56726d0b918203a1be%2FScreen_recording_2026_01_10_17_36_15.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4326203661/f9eee29623612a56726d0b918203a1be/Screen_recording_2026_01_10_17_36_15.webm?Expires=1775718879&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TGupF1JNIqYuvAt0Nw9Ex%2BpB%2ByghdPytEoDPTQm5PGR7bZ1bhv4ZmhpyF61QKujZ2Xq09rdyF8lg4xqEL0imWxE2BjjfZZ%2FRa%2FsjnbXen7dGpFPMpAtv%2Fp2RZ5PSRGLNuWpBg3am6f3RGf02RbHlqAgFcXrqohuWRhdrozdNEj8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4326203661%2Ff9eee29623612a56726d0b918203a1be%2FScreen_recording_2026_01_10_17_36_15.webm)
 
 #### Comments (9)
 - **削除済みユーザー** (Jan 10, 2026 08:38am): https://ticket.xrcloud.jp/monocg/index?ec=event_305ba11f-ea9f-4394-819a-db14296a757f
@@ -5432,14 +5268,14 @@
 
 ---
 
-### 5. 何でも開けるやつ
+### 6. 何でも開けるやつ
 **Author:** クシャクシャイン×万年平社員　#暇 　#初代クシャ族 　 #そして☆過疎部屋育成委員会☆　#てかクシャ族って何だ?? (KSHAKSHAIN_MANNENNHIRASYAIN)
 
 <p><a rel="noopener noreferrer nofollow" href="https://ticket.xrcloud.jp/monocg/index?ec=event_305ba11f-ea9f-4394-819a-db14296a757f">https://ticket.xrcloud.jp/monocg/index?ec=event_305ba11f-ea9f-4394-819a-db14296a757f</a></p>
 
 **投稿の種類:** サイトに関する情報提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4851851357/021a908021e1cd8630ac1760e3c51e12/Screenrecorder_20260107_175127.mp4?Expires=1775711027&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Iv8K%2Ff2R3fp%2B1Z0BrpIR3CvchiielPHC%2BgnITInl5kzWtVT93C6RUuUzI4D3%2B23sl7eI3QnSOCc7zixdZ%2FUrKObCqMAQe2AcOpme7YJ886gseoeyyR6%2BQL9gI3Xw9OOMifLHabJhSDiineIdmEbl0P7JuEvAbBsRw3OGTQZ3CMU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4851851357%2F021a908021e1cd8630ac1760e3c51e12%2FScreenrecorder_20260107_175127.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4851851357/021a908021e1cd8630ac1760e3c51e12/Screenrecorder_20260107_175127.mp4?Expires=1775718879&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VyWzMCtpm5YHKBl4wh8wx1FURBeczPciZoseg1hJcQxI31LTCF3S3UsNP6P5lYIzzt1DYoZS2KeKaOdCIh7ytEtsPCAzYSIn8N%2Bk4K6OrvXLEz5kPsnKuJeMnaTgL%2BhUWeg1urBiDGV0V3rWpXGfqcUqBzhynDnosMgGf67AMMg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4851851357%2F021a908021e1cd8630ac1760e3c51e12%2FScreenrecorder_20260107_175127.mp4)
 
 #### Comments (12)
 - **削除済みユーザー** (Jan 10, 2026 07:56am): 天才()
@@ -5466,7 +5302,7 @@
 
 ---
 
-### 6. Post 6
+### 7. Post 7
 **Author:** AU_ 3821632 (AU_3821632)
 
 <p><strong>私がwebで調べてproxyブロッカー入ってても使えるプロキシ</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://proxygratis.id/en">https://proxygratis.id/en</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://proxykuy.com/">https://proxykuy.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://weboproxy.com/">https://weboproxy.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://proxyorb.com/ja">https://proxyorb.com/ja</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.steganos.com/en/free-online-web-proxy">https://www.steganos.com/en/free-online-web-proxy</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.mojtreker.ru/">https://www.mojtreker.ru/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.activetk.jp/tools/nextip?themeRefresh=1">https://www.activetk.jp/tools/nextip?themeRefresh=1</a></p></li></ul><p><strong>ここからは、教えてもらったやつ</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://our-world.alyaf.com/">https://our-world.alyaf.com/</a></p></li></ul>
@@ -5490,7 +5326,7 @@
 
 ---
 
-### 7. プロキシ色々
+### 8. プロキシ色々
 **Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 <ul><li><p><a rel="noopener noreferrer nofollow" href="https://www.proxysite.com/">https://www.proxysite.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.4everproxy.com/">https://www.4everproxy.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wjptest.azurewebsites.net/">https://wjptest.azurewebsites.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://hidester.com/fr/proxy/">https://hidester.com/fr/proxy/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://fteinfo.com/note/archives/222">https://fteinfo.com/note/archives/222</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://proxy.web.id/">https://proxy.web.id/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.sslunblocker.com/">https://www.sslunblocker.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://www.unblockyouku.com/index.php">http://www.unblockyouku.com/index.php</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://siteget.net/">http://siteget.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://proxy.knyazvs.ru/">http://proxy.knyazvs.ru/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://webproxy.to/">http://webproxy.to/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://www.a.dukovany.cz/">http://www.a.dukovany.cz/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://www.newsproxy.xyz/">http://www.newsproxy.xyz/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://kproxy.in/index.php">http://kproxy.in/index.php</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://substitude.com/">http://substitude.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://www.zubec.com/">http://www.zubec.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://in-us.azurewebsites.net/">https://in-us.azurewebsites.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://usafastproxy.info/">http://usafastproxy.info/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://www.commonsound.com/fud/prox">http://www.commonsound.com/fud/prox</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://www.webproxy.co.at/">http://www.webproxy.co.at/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://www.undofilters.com/">http://www.undofilters.com/</a></p></li></ul>
@@ -5514,12 +5350,12 @@
 
 ---
 
-### 8. ここからどうすればいいの？
+### 9. ここからどうすればいいの？
 **Author:** Agile Raccoon
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4318390668/740f560a767fe4d24be738be0d6f589d/IMG_6109.png?Expires=1775711028&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SzrV3BVek8c54nmqKeQHVG7C4VR8rDK3bh9BfSehO8%2FUQep%2BYNxgi9KGtZgBQMx9JWarogmvA%2FbvUrLn9sO4w%2FkY6GNe66mL08dLKB02edElYv8SIuh9NtoNCvnbRzhFo3oOqkH3f53YnmsMHzzb9v2KgKDk3QFHB33YW%2FStSis%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4318390668%2F740f560a767fe4d24be738be0d6f589d%2FIMG_6109.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4318390668/740f560a767fe4d24be738be0d6f589d/IMG_6109.png?Expires=1775718879&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kxnF%2Bb6bRBHaea56Hw%2FZXkzPXvpcE%2F8ngMevdc8joZJDEeCPgGG3z3MJuSbt7rPONSZ8j21uxlSx73mw3%2FQCm7JbEsQcjq34NqGyLFULntSkx9QTOHOm9%2BPym9jEoyPmthJXol1q3TA0FkjvbAer7qCMhrX%2FBnVBx%2F7YsovcA3A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4318390668%2F740f560a767fe4d24be738be0d6f589d%2FIMG_6109.png)
 
 #### Comments (5)
 - **Kirby** (Sep 06, 2025 09:26am): そのままurlを打つか、下に「Youtube」とか「Instagram」とか書いてあるからそこをタップする
@@ -5535,7 +5371,7 @@
 
 ---
 
-### 9. 上にあるトライアルを押すと20分を四回、合計80分Windowsみたいなやつができて、ブロックされないです。(全部)ちなみに重いです。
+### 10. 上にあるトライアルを押すと20分を四回、合計80分Windowsみたいなやつができて、ブロックされないです。(全部)ちなみに重いです。
 **Author:** asanomao
 
 **投稿の種類:** リンクの提供
@@ -5553,7 +5389,7 @@
 
 ---
 
-### 10. 使えると思う
+### 11. 使えると思う
 **Author:** 狐白雪 (kohakuyuki58949)
 
 <p><strong>2026/01/11追記: URLが変更されました。</strong></p>
@@ -5583,14 +5419,14 @@
 
 ---
 
-### 11. (体験版)プロキシ174個配布
+### 12. (体験版)プロキシ174個配布
 **Author:** Magurock (偽物･乗っ取り注意) (Magurock)
 
 <p>またプロキシ集めたので一部を色んな部屋で配布します。</p><p>僕の部屋でもっと大量に(約300?多分)公開する予定です。</p><p>いろんな部屋で配布するから被りはあるかも</p>
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/83c25b07d22752b78e3659552f1fb71b/Magurock20250803.html?Expires=1775711028&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Y12ppFX1pwMo6z7tlDBXyLOy1Mce%2FsKNmUWrvVoUU4cyYoA7Y2y6Ak1XrelwRLvYOgOPVMKQoA1zUqpGgpsGgYx2k2sUEsxYNjJYF2ZI11D89%2Bqe8%2F7qwzLcyrYQHh1hMp4ZrtOH4BY8hZrx2Hc5JgOUWco4rfVdOZueDyBbkJ0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F83c25b07d22752b78e3659552f1fb71b%2FMagurock20250803.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/83c25b07d22752b78e3659552f1fb71b/Magurock20250803.html?Expires=1775718879&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qfsuNvQSeV6aTV3QSNTTIyaxcKHsb5qt%2BjCx6wTnOM52b%2BNJtRz9ahibalIswzI%2Fh9YvHMvK7UDplBsJ7FKCiAYo%2F19eCwpT5Xc1Wa0IQpeCLH%2B%2FgQDVqcnDb2JrLPur7bT2zN2Mo42FkriXCD4OedpdAL%2FByrW2xnT0c%2Fic9%2Fw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F83c25b07d22752b78e3659552f1fb71b%2FMagurock20250803.html)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -5603,7 +5439,7 @@
 
 ---
 
-### 12. Post 12
+### 13. Post 13
 **Author:** kaito (kaitoyokoyama2011)
 
 **投稿の種類:** リンクの提供
@@ -5627,14 +5463,14 @@
 
 ---
 
-### 13. Post 13
+### 14. Post 14
 **Author:** Magurock (偽物･乗っ取り注意) (Magurock)
 
 <p>(いろいろあって分類されてないのでここに置かせてもらいます)</p><p>かなりプロキシ集めてみました。</p><p>一旦その一部を配布しようと思います</p><p>(全部一覧は今のところ僕の部屋にあります)</p><p>反響凄かったら全部一覧配布しようと思います</p><p>他の部屋でも公開するので被りはあるかもしれません</p>
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/9819bcb1e710e8e32cf8351e5b790c93/___Proxy_explorer.html?Expires=1775711028&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qoo1nSQS1rsO%2F66nlNAlzYynDp%2BZ%2BFHMybPLS1%2BUmRWirZEKeT3sw3pjmexpGLguPIjpiqgEtMNa02HZWu%2FYs0uhnjhnIfJqa%2BeofRUyod5hKDdS0%2FuyxYS4D1RX1Q2v8F7iQjcn1mgIc4vMC9FIQxCRndnblTdy7OBH9HfjyJM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F9819bcb1e710e8e32cf8351e5b790c93%2F___Proxy_explorer.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/9819bcb1e710e8e32cf8351e5b790c93/___Proxy_explorer.html?Expires=1775718879&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rnGkFjKhfklsmMaYG5xr6awUHSPzVjeqIMgDeG%2BC%2BDrnAQFZqa%2B4TFRwuorOEdvCiyMHr9KEfVaXdweqTWoyKQM25ixtZmg%2B8azlwwyWYO9s4KwO92Y1BmunmPzDPlKBdOo2F4TkaqDRKv1qgsYXtO1ALo66Nwm%2B2EiFiKo5n8M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F9819bcb1e710e8e32cf8351e5b790c93%2F___Proxy_explorer.html)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -5647,7 +5483,7 @@
 
 ---
 
-### 14. Post 14
+### 15. Post 15
 **Author:** ヴァルマ ꧁ᬊᬁ𝓣𝓡𝓘𝓒𝓚𝓔𝓡_𝓨𝓤𝓩𝓤𝓓𝓐𝓨𝓞ᬊ᭄꧂ʕ̢̣̣̣·͡˔·ོɁ̡̣̣✧煮物貢献者 (0122yuzu)
 
 <p>ガチで優秀なサイトだからあんまり拡散しないで</p>
@@ -5686,7 +5522,7 @@
 
 ---
 
-### 15. 規制解除
+### 16. 規制解除
 **Author:** ᴎeoᴎӝ ❤️‍🔥 -.- ͛ (neon_ix)
 
 **投稿の種類:** リンクの提供
@@ -5703,7 +5539,7 @@
 
 ---
 
-### 16. Post 16
+### 17. Post 17
 **Author:** ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子 (zentadayo)
 
 **投稿の種類:** リンクの提供
@@ -5723,7 +5559,7 @@
 
 ---
 
-### 17. WebToppings
+### 18. WebToppings
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <ol><li><p>Serverはどっちでもいい (USがおすすめ)</p></li><li><p>Choose your baseにリンクを入れる</p></li><li><p>3番目のやつは無視する</p></li></ol>
@@ -5743,7 +5579,7 @@
 
 ---
 
-### 18. Google翻訳
+### 19. Google翻訳
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>ここにアクセスしたいリンクをコピペすると閲覧できます。</p>
@@ -5770,7 +5606,7 @@
 
 ---
 
-### 19. ArtClass
+### 20. ArtClass
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 **投稿の種類:** リンクの提供
@@ -6302,7 +6138,7 @@
 
 **最終更新日:** March 23, 2026
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4847522827/bce540036ec2fb993f5a9c4855b96492/IMG_0314.jpeg?Expires=1775711028&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=meEA06KRicNi60H1XSNEMMXf%2BYZ%2BCer8H%2F7RiVocbxByAuGHJiYXAxr%2FT6si%2FAemWo01tzjG7iA2gD95e4Em1xYQQgMjCOISkWq7s6vhg7RsxKjpDsGF%2FoncuyESKCSV17yVmr3iiMkzOx5A%2FCYbaAxdKXeMP6lzmBiHCOIjd5M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4847522827%2Fbce540036ec2fb993f5a9c4855b96492%2FIMG_0314.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4847522827/bce540036ec2fb993f5a9c4855b96492/IMG_0314.jpeg?Expires=1775718880&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=If7MyBnfPtiE5DnRM6L4MLNghyEYwcpLam1ZSPqMfbbMc9LCghpQU0Er9CvAh3yAP%2BDXBKgrwhgW53lGTF%2FXLQHTTuNwN4Ng8f1GjiwbzMjSsdb27VFIR1yAqTd5X5juBvazXCXyPkorLThsVch6eiZ5u%2BgINUXee3U8hTfpkyU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4847522827%2Fbce540036ec2fb993f5a9c4855b96492%2FIMG_0314.jpeg)
 
 #### Comments (4)
 - **aaabbbccc** (Mar 17, 2026 02:42am): 四個目いけた
@@ -6895,7 +6731,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/6f825c782cb30814a4923cd8e658534a/mosaic_20260216103531.png?Expires=1775711028&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iKIQZmQTiqvikoTPU4OWQU7F38fR3keWnP1sFKqrqXTmScIXChqFU%2B4xssFblG6y9tM8SwK55S3yiSX3kgHqS3NXfbyc5cv7K%2FHvIAqd0vTI0fQCqMkuOXkacHPd1lfvEAKwXXppvMFzYAFiNRI3SP9kFBCbKc0QMNrnCdqRCbo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F6f825c782cb30814a4923cd8e658534a%2Fmosaic_20260216103531.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/6f825c782cb30814a4923cd8e658534a/mosaic_20260216103531.png?Expires=1775718880&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SGCKDBVNC1G3Q6D4mRZRNmqYycJIBhsTY%2BB22Q3j3G%2BjB8dPRkmn%2BSyx0oYd478Cqtv27lEnMjKjuj%2F0yrriv8KhUsFqSqKJ1LuowF6gDSNLRLm8TaOOF5EPkSQf81vqJp9CdGkJedzheH4%2F7cyR7J1CtHRqRaoXc86YykbdpO4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F6f825c782cb30814a4923cd8e658534a%2Fmosaic_20260216103531.png)
 
 #### Comments (9)
 - **Massa_games216** (Feb 16, 2026 01:39am): あと自分でデプロイするつなぎ用にutopiaほしいっす
@@ -6992,7 +6828,7 @@
 
 **投稿の種類:** リンクの提供
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4441744587/6341af461ba76111220613b0f6d3e5db/______________.txt?Expires=1775711029&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3eYgUF7thpgQW87png1kRgytrUhs87k5ssviFZ6hToWpHJJrQHum1IF9W6n2uah8oMhLZ2Zw3Z58FUKtOOwFAG9oMDPCS4Q%2BMozYI17faaoRrviPA%2FamnvJmc84lqCZf9OgoHP4onuFcReW8zzo2LrrX16DSQV1WzIvNUYlbJcI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4441744587%2F6341af461ba76111220613b0f6d3e5db%2F______________.txt)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4441744587/6341af461ba76111220613b0f6d3e5db/______________.txt?Expires=1775718880&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=E60z5jvabtaNBtkNhd%2Bg2FFgMj1L76Ty6y3AECmxLIzkuaq1OcxKy3YwYDvjoVo76JUmPGE0z4KHf%2FZtQopDVprcojH2pPgpd%2Ba6ukJAID54Qmdd6yZBPTTPHFA7PiLKOfbSJYlAdNi0zFxvr9Q0aOAYo%2FIQC75JBKDEpWmINKk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4441744587%2F6341af461ba76111220613b0f6d3e5db%2F______________.txt)
 
 #### Comments (1)
 - **Massa_games216** (Oct 19, 2025 11:49am): 全ブロの悲しみ
@@ -7341,7 +7177,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4533230905/29793600191a616967f07c0819cebfc4/Screenshot_2025_10_10_07_42_52.png?Expires=1775711029&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fqwURU%2FcibPivQuwxuv%2Fn8h00eU91dVOL6wZ0v34QMX%2FYg9lwCQIBxNzUXHUSb7YZ2TLeG2a%2FFavEGM1Qjq970xBYzCY8zffW6nY0JetmURUP53JOiiZUGTWnc7CJBVjzddwvryFI9Csk1rDY4o3dsjmY52hiVLDJxU8HA%2FMJJw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4533230905%2F29793600191a616967f07c0819cebfc4%2FScreenshot_2025_10_10_07_42_52.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4533230905/29793600191a616967f07c0819cebfc4/Screenshot_2025_10_10_07_42_52.png?Expires=1775718880&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QnrtV4wFHEZiUfgwPlPNTW9fmqj%2F5kFycm0nFB5p4GiT6uYvzZfr3hF4xRHkmy3vBfLK26DsQF31ZtYUDXzMsaxD3mN2FfpL25%2Bpis87%2BzRETC%2BmL4ozbXkbXvsrLxpz9TTpkF4LtjuU%2FlEizlyhpjyPiMBus5qbmZEl2UkS8ko%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4533230905%2F29793600191a616967f07c0819cebfc4%2FScreenshot_2025_10_10_07_42_52.png)
 
 #### Comments (20)
 - **るい** (Oct 10, 2025 07:56am): わかんねーな
@@ -7377,7 +7213,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4531780414/2043955bb04d17c44d73180ccc50d493/Screenshot_2025_10_10_07_42_52.png?Expires=1775711029&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=H2jAZFEVI3utMN7ZPgKI0pRWRr5iK95aT8TYzya4sofGIOiJR3Iy3g1BlScyI2iOwqs4%2BaGpxkefBzUNzFPYBD0FHTg7KOjYByCyRx7nYYFFwVGVnXo7Ph8K9FMWNkSGLtNATe6VAfobb15ZzhKInW5tbNFbjKkmjcpbD7qoxVk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4531780414%2F2043955bb04d17c44d73180ccc50d493%2FScreenshot_2025_10_10_07_42_52.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4531780414/2043955bb04d17c44d73180ccc50d493/Screenshot_2025_10_10_07_42_52.png?Expires=1775718880&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=c1ra6bFlQHqKR5ms7LTIWNyH3X%2F7QHoexs9GQE%2FWB3chM7EOlNGR1kXCxIXCA5P9aQq3aMUEJb5%2FN1iOcdJzR6JCxYZyXh9PvM5kAJehXI1wib7ZisY9T6GPNgALV0taSoNg9Tvckas9On%2F21INV9cyH%2BAopAVTx5QjOTfVpU8k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4531780414%2F2043955bb04d17c44d73180ccc50d493%2FScreenshot_2025_10_10_07_42_52.png)
 
 #### Comments (2)
 - **あああ** (Oct 15, 2025 11:51am): ただの学習サイトです
@@ -7987,11 +7823,11 @@
 ### 2. わかめtube Plusのリンク集
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<p><strong>➥ 公式インスタンスです。必ず上の方から使って下さい。転載しても構いませんが、その時は必ずこの部屋のリンクも添えて下さい。</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-jajaja.onrender.com/login">https://wkt-jajaja.onrender.com/login</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-edu.up.railway.app/">https://wkt-edu.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://current-ania-tokakun-68f97588.koyeb.app/">https://current-ania-tokakun-68f97588.koyeb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-edu.duia.eu/">https://wkt-edu.duia.eu/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yooowhatsupkyouikuiinkai.freeddns.org/">https://yooowhatsupkyouikuiinkai.freeddns.org/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-test--toka-kun.replit.app/">https://wkt-plus-test--toka-kun.replit.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://4932sk-3000.csb.app/">https://4932sk-3000.csb.app/</a></p></li></ul>
+<p><strong>➥ 公式インスタンスです。必ず上の方から使って下さい。転載しても構いませんが、その時は必ずこの部屋のリンクも添えて下さい。</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-jajaja.onrender.com/login">https://wkt-jajaja.onrender.com/login</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-edu.up.railway.app/">https://wkt-edu.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus.up.railway.app/">https://wkt-plus.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://current-ania-tokakun-68f97588.koyeb.app/">https://current-ania-tokakun-68f97588.koyeb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-edu.duia.eu/">https://wkt-edu.duia.eu/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yooowhatsupkyouikuiinkai.freeddns.org/">https://yooowhatsupkyouikuiinkai.freeddns.org/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-test--toka-kun.replit.app/">https://wkt-plus-test--toka-kun.replit.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://4932sk-3000.csb.app/">https://4932sk-3000.csb.app/</a></p></li></ul><p><br></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/wocboc6/"><strong>wocboc6</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1254604906/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://keromatu-iop8.onrender.com/">https://keromatu-iop8.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakame-wocboc6.onrender.com/">https://wakame-wocboc6.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakame-wocboc6-an4a.onrender.com/">https://wakame-wocboc6-an4a.onrender.com/</a></p></li></ul><p><br></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/dhiguo"><strong>dhiguo</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1254037519/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://9xvjpx-3000.csb.app/">https://9xvjpx-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://xq8hkc-3000.csb.app/">https://xq8hkc-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://jgwrpn-3000.csb.app/">https://jgwrpn-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://5whvv7-3000.csb.app/">https://5whvv7-3000.csb.app/</a></p></li></ul>
 
 **投稿の種類:** リンクの提供
 
-**最終更新日:** March 31, 2026
+**最終更新日:** April  2, 2026
 
 #### Comments (2)
 - **Natsu　学タブ回収中** (Mar 31, 2026 12:45pm): [Attachment](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/J24jaloEznAkW0A1) しあとかがこうなったのでわかめに移行します🤓
@@ -8000,14 +7836,14 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Mar 31, 2026 10:42am
-- **Updated At (UTC):** Mar 31, 2026 10:42am
+- **Updated At (UTC):** Apr 02, 2026 06:45am
 
 ---
 
 ### 3. わかめtube Plusのリンク集②
 **Author:** nana_0227 (peconosippo777)
 
-<p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/nana_0227/"><strong>nana_0227</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1196354688/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://gsh8gj-3000.csb.app/">https://gsh8gj-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://6rnt5m-3000.csb.app/">https://6rnt5m-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://phtsvc-3000.csb.app/">https://phtsvc-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://xc9zl8-3000.csb.app/">https://xc9zl8-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://2yhnf8-3000.csb.app/">https://2yhnf8-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wktnana.vercel.app/">https://wktnana.vercel.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://vv4w82-3000.csb.app/">https://vv4w82-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://snngy4-3000.csb.app/">https://snngy4-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://2yhnf8-3000.csb.app/">https://2yhnf8-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://phtsvc-3000.csb.app/">https://phtsvc-3000.csb.app/</a> </p></li><li><p><a rel="noopener noreferrer nofollow" href="https://xc9zl8-3000.csb.app/">https://xc9zl8-3000.csb.app/</a> </p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gsh8gj-3000.csb.app/">https://gsh8gj-3000.csb.app/</a> </p></li><li><p><a rel="noopener noreferrer nofollow" href="https://6rnt5m-3000.csb.app/">https://6rnt5m-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://42swl9-3000.csb.app/">https://42swl9-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://d59k3s-3000.csb.app/">https://d59k3s-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://xlwxq3-3000.csb.app/">https://xlwxq3-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gdxftv-3000.csb.app/">https://gdxftv-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://8dzf9d-3000.csb.app/">https://8dzf9d-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-nana-034.onrender.com/">https://wkt-plus-nana-034.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-nana-035.onrender.com/">https://wkt-plus-nana-035.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-nana-036.onrender.com/">https://wkt-plus-nana-036.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-nana-037.onrender.com/">https://wkt-plus-nana-037.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-nana-038.onrender.com/">https://wkt-plus-nana-038.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-nana-039.onrender.com/">https://wkt-plus-nana-039.onrender.com/</a></p></li></ul>
+<p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/nana_0227/"><strong>nana_0227</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1196354688/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://gsh8gj-3000.csb.app/">https://gsh8gj-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://phtsvc-3000.csb.app/">https://phtsvc-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://xc9zl8-3000.csb.app/">https://xc9zl8-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://2yhnf8-3000.csb.app/">https://2yhnf8-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wktnana.vercel.app/">https://wktnana.vercel.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://vv4w82-3000.csb.app/">https://vv4w82-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://snngy4-3000.csb.app/">https://snngy4-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://2yhnf8-3000.csb.app/">https://2yhnf8-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://phtsvc-3000.csb.app/">https://phtsvc-3000.csb.app/</a> </p></li><li><p><a rel="noopener noreferrer nofollow" href="https://xc9zl8-3000.csb.app/">https://xc9zl8-3000.csb.app/</a> </p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gsh8gj-3000.csb.app/">https://gsh8gj-3000.csb.app/</a> </p></li><li><p><a rel="noopener noreferrer nofollow" href="https://6rnt5m-3000.csb.app/">https://6rnt5m-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://42swl9-3000.csb.app/">https://42swl9-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://d59k3s-3000.csb.app/">https://d59k3s-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://xlwxq3-3000.csb.app/">https://xlwxq3-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gdxftv-3000.csb.app/">https://gdxftv-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://8dzf9d-3000.csb.app/">https://8dzf9d-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-nana-034.onrender.com/">https://wkt-plus-nana-034.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-nana-035.onrender.com/">https://wkt-plus-nana-035.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-nana-036.onrender.com/">https://wkt-plus-nana-036.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-nana-037.onrender.com/">https://wkt-plus-nana-037.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-nana-038.onrender.com/">https://wkt-plus-nana-038.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-nana-039.onrender.com/">https://wkt-plus-nana-039.onrender.com/</a></p></li></ul>
 
 **投稿の種類:** リンクの提供
 
@@ -8020,18 +7856,18 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Feb 19, 2026 04:55am
-- **Updated At (UTC):** Mar 31, 2026 10:47am
+- **Updated At (UTC):** Apr 02, 2026 06:45am
 
 ---
 
 ### 4. わかめtubeのリンク集①
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<p><strong>➥HTML.cafe</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/x2ba6af35">ゲームだけ</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/x8d64d65a">ホーム画面だけ</a></p></li></ul><p><br/></p><p><strong>➥ 公式</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wakametube-m9fw.onrender.com/">https://wakametube-m9fw.onrender.com/</a></p></li></ul><p><strong>➥ 作者不明</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wkt.onrender.com/">https://wkt.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-1.onrender.com/">https://wkt-1.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-2.onrender.com/">https://wkt-2.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://syaaaaaaaaaaaaaaa.onrender.com/">https://syaaaaaaaaaaaaaaa.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://avlmvvv.onrender.com/">https://avlmvvv.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://fjfjf-ajjy.onrender.com/">https://fjfjf-ajjy.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://owahaha.onrender.com/">https://owahaha.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-3a1d.onrender.com/">https://wkt-3a1d.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-4qao.onrender.com/">https://wkt-4qao.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-uzi2.onrender.com/">https://wkt-uzi2.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nc-1-cupm.onrender.com/">https://wkt-nc-1-cupm.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://testyazo.onrender.com/">https://testyazo.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://rwiw.onrender.com/">https://rwiw.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://snowowowowow.onrender.com/">https://snowowowowow.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-copy1.onrender.com/">https://wkt-copy1.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://mihumihu.ak90.kozow.com/">https://mihumihu.ak90.kozow.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://web-wkt-itrsa.onrender.com/">https://web-wkt-itrsa.onrender.com/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/dhiguo"><strong>dhiguo</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1254037519/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://9xvjpx-3000.csb.app/">https://9xvjpx-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://xq8hkc-3000.csb.app/">https://xq8hkc-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://jgwrpn-3000.csb.app/">https://jgwrpn-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://5whvv7-3000.csb.app/">https://5whvv7-3000.csb.app/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/wocboc6/"><strong>wocboc6</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1254604906/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://keromatu-iop8.onrender.com/">https://keromatu-iop8.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakame-wocboc6.onrender.com/">https://wakame-wocboc6.onrender.com/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/sakupandaaaa/"><strong>sakupandaaaa</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1259811257/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://sakuwakame.onrender.com/">https://sakuwakame.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-h4p6.onrender.com/">https://wkt-h4p6.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakameeeeee.onrender.com/">https://wakameeeeee.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://kattowakame.onrender.com/">https://kattowakame.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://kansouwakame.onrender.com/">https://kansouwakame.onrender.com/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/CHICKEN_MAN"><strong>CHICKEN_MAN</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/CHICKEN_MAN/padlet-kqlbau2ra02ci9qm/wish/mDRxWB7Brm6bajb1"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-i1ju.onrender.com/">https://wkt-i1ju.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://loilonote-zt20.onrender.com/">https://loilonote-zt20.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://loilonote1.onrender.com/">https://loilonote1.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yahoo-co-jp-fh9a.onrender.com/">https://yahoo-co-jp-fh9a.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakewakame01.onrender.com/">https://wakewakame01.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakewakame02.onrender.com/">https://wakewakame02.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakewakame03.onrender.com/">https://wakewakame03.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wakewakame-a.onrender.com/">https://edu-wakewakame-a.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wakewakameb.onrender.com/">https://edu-wakewakameb.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wktk01.onrender.com/">https://wktk01.onrender.com/</a></p></li></ul><p><br/></p><p><strong>➥ 旧型 - nyanko改造版</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wakame2-haihu-bynyanko.easterndns.com/">https://wakame2-haihu-bynyanko.easterndns.com/</a></p></li></ul><p><strong>➥ 旧型 - siawaseok改造版</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wakame.ydns.eu/">https://wakame.ydns.eu/</a></p></li></ul>
+<p><strong>➥HTML.cafe</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/x2ba6af35">ゲームだけ</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/x8d64d65a">ホーム画面だけ</a></p></li></ul><p><br/></p><p><strong>➥ 公式</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wakametube-m9fw.onrender.com/">https://wakametube-m9fw.onrender.com/</a></p></li></ul><p><strong>➥ 作者不明</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wkt.onrender.com/">https://wkt.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-1.onrender.com/">https://wkt-1.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-2.onrender.com/">https://wkt-2.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://syaaaaaaaaaaaaaaa.onrender.com/">https://syaaaaaaaaaaaaaaa.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://avlmvvv.onrender.com/">https://avlmvvv.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://fjfjf-ajjy.onrender.com/">https://fjfjf-ajjy.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://owahaha.onrender.com/">https://owahaha.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-3a1d.onrender.com/">https://wkt-3a1d.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-4qao.onrender.com/">https://wkt-4qao.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-uzi2.onrender.com/">https://wkt-uzi2.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-nc-1-cupm.onrender.com/">https://wkt-nc-1-cupm.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://testyazo.onrender.com/">https://testyazo.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://rwiw.onrender.com/">https://rwiw.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://snowowowowow.onrender.com/">https://snowowowowow.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-copy1.onrender.com/">https://wkt-copy1.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://mihumihu.ak90.kozow.com/">https://mihumihu.ak90.kozow.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://web-wkt-itrsa.onrender.com/">https://web-wkt-itrsa.onrender.com/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/syokatusakourai/"><strong>syokatusakourai</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1275886860/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-1919.onrender.com/">https://wkt-1919.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-114514.onrender.com/">https://wkt-114514.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-810.onrender.com/">https://wkt-810.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-yjsnpi.onrender.com/">https://wkt-yjsnpi.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-tdn.onrender.com/">https://wkt-tdn.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-mur.onrender.com/">https://wkt-mur.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-tky.onrender.com/">https://wkt-tky.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-aisutelii.onrender.com/">https://wkt-aisutelii.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-munenikaketemuneni.onrender.com/">https://wkt-munenikaketemuneni.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-kmr.onrender.com/">https://wkt-kmr.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-soudayo.onrender.com/">https://wkt-soudayo.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-omaenokotoga.onrender.com/">https://wkt-omaenokotoga.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-sukidaltutanndayo.onrender.com/">https://wkt-sukidaltutanndayo.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-tnok.onrender.com/">https://wkt-tnok.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-ikisugi.onrender.com/">https://wkt-ikisugi.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-oigorala.onrender.com/">https://wkt-oigorala.onrender.com/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/sakupandaaaa/"><strong>sakupandaaaa</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1259811257/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://sakuwakame.onrender.com/">https://sakuwakame.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-h4p6.onrender.com/">https://wkt-h4p6.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakameeeeee.onrender.com/">https://wakameeeeee.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://kattowakame.onrender.com/">https://kattowakame.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://kansouwakame.onrender.com/">https://kansouwakame.onrender.com/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/CHICKEN_MAN"><strong>CHICKEN_MAN</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://padlet.com/CHICKEN_MAN/padlet-kqlbau2ra02ci9qm/wish/mDRxWB7Brm6bajb1"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-i1ju.onrender.com/">https://wkt-i1ju.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://loilonote-zt20.onrender.com/">https://loilonote-zt20.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://loilonote1.onrender.com/">https://loilonote1.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yahoo-co-jp-fh9a.onrender.com/">https://yahoo-co-jp-fh9a.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakewakame01.onrender.com/">https://wakewakame01.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakewakame02.onrender.com/">https://wakewakame02.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakewakame03.onrender.com/">https://wakewakame03.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wakewakame-a.onrender.com/">https://edu-wakewakame-a.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://edu-wakewakameb.onrender.com/">https://edu-wakewakameb.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wktk01.onrender.com/">https://wktk01.onrender.com/</a></p></li></ul><p><br/></p><p><strong>➥ 旧型 - nyanko改造版</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wakame2-haihu-bynyanko.easterndns.com/">https://wakame2-haihu-bynyanko.easterndns.com/</a></p></li></ul><p><strong>➥ 旧型 - siawaseok改造版</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wakame.ydns.eu/">https://wakame.ydns.eu/</a></p></li></ul>
 
 **投稿の種類:** リンクの提供
 
-**最終更新日:** March 26, 2026
+**最終更新日:** April  2, 2026
 
 #### Comments (33)
 - **Awesome Python** (Jun 19, 2025 05:46am): わかめ機能が対策されてしまった
@@ -8075,7 +7911,7 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Mar 25, 2025 05:24am
-- **Updated At (UTC):** Mar 31, 2026 10:39am
+- **Updated At (UTC):** Apr 02, 2026 06:39am
 
 ---
 
@@ -9042,7 +8878,30 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 2. 4月になったらwista version 1.4.3に移行します。（リンクは........ばななに頼んでおく）
+### 2. Wista1.2.0公開予定
+**Author:** ꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱♡ (woolisbest4520)
+
+<p>Wista Version 1.2.0 までの開発が完了しました。 バグの修正や微調整が終わり次第、WistaはV1.2に移行します。</p><p>更新内容</p><p>・チャンネルページ</p><p>・関連動画の高速化</p><p>・チャンネルの検索</p><p>・ショート動画の検索</p><p>・ショート動画</p><p>・設定画面の高機能化</p><p>・ストリーム取得の高速化</p><p><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1276740034/">https://scratch.mit.edu/projects/1276740034/</a></p>
+
+**投稿の種類:** サイトに関する情報提供
+
+**最終更新日:** March 23, 2026
+
+#### Comments (1)
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 23, 2026 09:35am): 僕の埋め込み再生ツール、チャンネルに対応させた :p
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 3
+
+#### Additional Information
+- **Post color:** Yellow
+- **Created At (UTC):** Mar 23, 2026 09:12am
+- **Updated At (UTC):** Apr 02, 2026 06:24am
+
+---
+
+### 3. 4月になったらwista version 1.4.3に移行します。（リンクは........ばななに頼んでおく）
 **Author:** ꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱♡ (woolisbest4520)
 
 #### Additional Information
@@ -9052,7 +8911,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 3. WOOLTSITE
+### 4. WOOLTSITE
 **Author:** 削除済みユーザー
 
 <p>代わりにサイトの方公開する</p><p>WOOLTUBEとは全然違うyoutubeサイトの開発始めたから</p>
@@ -9204,7 +9063,24 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 3. 高速になったけど
+### 3. アップデート済み
+**Author:** 仙人@suger (xianrendesu)
+
+<p><a rel="noopener noreferrer nofollow" href="https://katuotube-1-1-sdw5.onrender.com">https://katuotube-1-1-sdw5.onrender.com</a></p><p>チャンネルページと画質選択機能（いまバグってるけど）追加</p>
+
+#### Comments (3)
+- **Enthusiastic Falcon** (Mar 20, 2026 09:30am): パスワードって何ですか？
+- **きむちゃ。🤪💙.꒰ঌ12.12໒꒱** (Mar 20, 2026 11:50am): katuo
+- **Trustworthy Ladybug** (Mar 20, 2026 12:27pm): ありがとうございます‼︎
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 19, 2026 12:33pm
+- **Updated At (UTC):** Apr 02, 2026 06:23am
+
+---
+
+### 4. 高速になったけど
 **Author:** 仙人@suger (xianrendesu)
 
 <p><a rel="noopener noreferrer nofollow" href="https://katuotube-1-2.onrender.com">https://katuotube-1-2.onrender.com</a></p><p>でもまだストリーム解析にちょっと時間がかかっちゃうから再生ページにちょっと時間かかるかも（今度修正）</p><p>ツールにGitHubzip化とyoyoho.ioを追加したよ</p>
@@ -9232,7 +9108,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 4. かつおTube 
+### 5. かつおTube 
 **Author:** 仙人@suger (xianrendesu)
 
 <p><a rel="noopener noreferrer nofollow" href="https://katuotube-1-1.onrender.com">https://katuotube-1-1.onrender.com</a></p><p>最近重いから別リンク</p>
@@ -9248,7 +9124,7 @@ Copyright (c) 2026 Wista Project
 - **きなこもち** (Mar 05, 2026 01:24pm): freednsでutopiaのipアドレス入れて作ったんだけどサイトにアクセスできない
 - **きなこもち** (Mar 05, 2026 01:24pm): どうすればいい
 - **NyrikX(足立区陣ICFS系)** (Mar 07, 2026 02:48am): 普通のgeometrydashのwebsiteはない（）
-- **disuny** (Mar 07, 2026 07:23am): かつおtubeのログインの合言葉ってなんですか？
+- **普通の低浮** (Mar 07, 2026 07:23am): かつおtubeのログインの合言葉ってなんですか？
 - **NyrikX(足立区陣ICFS系)** (Mar 07, 2026 12:50pm): katuoでいける
 - **Responsible Bison** (Mar 30, 2026 07:11am): ブロック
 - **NyrikX(足立区陣ICFS系)** (Mar 30, 2026 10:05am): ブロックかかっても今にこのサイトがエラー出てるからみんな使えない状態だから大丈夫
@@ -9264,7 +9140,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 5. 新作
+### 6. 新作
 **Author:** 陽著辺子 (yangzhubianzi)
 
 <p>仙人と僕の新作です。かつてのわかめTubeの勢いを取り戻すというのがコンセプトです。</p><p><br></p><p>「かつおTube」</p><p><a rel="noopener noreferrer nofollow" href="https://katuotube-1.onrender.com/login">https://katuotube-1.onrender.com/login</a></p>
@@ -9288,7 +9164,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 6. だれか仙人のパスワードくれ
+### 7. だれか仙人のパスワードくれ
 **Author:** あおたん　＃低浮上 (aotan)
 
 #### Comments (3)
@@ -9303,7 +9179,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 7. 自作最新掲示板
+### 8. 自作最新掲示板
 **Author:** 仙人@suger (xianrendesu)
 
 <p><a rel="noopener noreferrer nofollow" href="https://xtest-dvhl.onrender.com">https://xtest-dvhl.onrender.com</a></p><p><br/></p><p>これだよ</p><p><br/></p><p>欲しい機能教えてね</p>
@@ -9324,7 +9200,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 8. あのー
+### 9. あのー
 **Author:** 陽著辺子 (yangzhubianzi)
 
 <p>仙人Tubeって確か月500時間使われると次の月まで使えなくなるんだった気がする、、だからできるだけ家とかでは見れるならスマホとかで見るとかの配慮お願いします（あんま詳しくないからエアプかもだけど）</p><p>Byパドレッドでの仙人の側近</p>
@@ -9346,7 +9222,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 9. 今日の昼サーバー落ちてたから
+### 10. 今日の昼サーバー落ちてたから
 **Author:** 仙人@suger (xianrendesu)
 
 <p><a rel="noopener noreferrer nofollow" href="https://sennintubeyobi-1.onrender.com">https://sennintubeyobi-1.onrender.com</a></p><p>サーバー強化したやつ</p>
@@ -9372,7 +9248,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 10. 高速化したよ20%から40%くらい
+### 11. 高速化したよ20%から40%くらい
 **Author:** 仙人@suger (xianrendesu)
 
 <p>またつかってね</p><p>https://sennintubeyobi-fnpi.onrender.com</p>
@@ -9384,7 +9260,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 11. オープンチャット機能追加
+### 12. オープンチャット機能追加
 **Author:** 仙人@suger (xianrendesu)
 
 <p>昔作ってた仙人チャットを改造しただけだけどオープンチャット作ったよ。詳しくは仙人tubeへ</p><p><a rel="noopener noreferrer nofollow" href="https://sennintubeyobi.vercel.app/">https://sennintubeyobi.vercel.app/</a></p><p>https://sennintubeyobi-y2wp.onrender.com</p>
@@ -9399,7 +9275,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 12. 仙人tube死んでる
+### 13. 仙人tube死んでる
 **Author:** 削除済みユーザー (sakujosaretenaiyo)
 
 #### Comments (7)
@@ -9418,7 +9294,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 13. 新公式リンク
+### 14. 新公式リンク
 **Author:** 仙人@suger (xianrendesu)
 
 <p>https://sennintubeyobi-y2wp.onrender.com</p>
@@ -9433,7 +9309,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 14. 使ってほしい
+### 15. 使ってほしい
 **Author:** 仙人@suger (xianrendesu)
 
 <p><a rel="noopener noreferrer nofollow" href="https://sennintubeyobi.onrender.com">https://sennintubeyobi.onrender.com</a></p><p>ガチで使ってほしいよ</p>
@@ -9458,7 +9334,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 15. 最新版
+### 16. 最新版
 **Author:** 仙人@suger (xianrendesu)
 
 <p>YouTubeのuiに近づけた使いやすいやつ</p><p><a rel="noopener noreferrer nofollow" href="https://sennintubeyobi.onrender.com">https://sennintubeyobi.onrender.com</a></p><p>パスワードはsenninkami</p><p>リンク拡散よろしく。</p>
@@ -9475,7 +9351,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 16. 改造版wooltube
+### 17. 改造版wooltube
 **Author:** 仙人@suger (xianrendesu)
 
 <p><a rel="noopener noreferrer nofollow" href="https://wooltubekaizou.onrender.com">https://wooltubekaizou.onrender.com</a></p><p>ストリームURL取得、動画検索できます。</p><p>※このアプリケーションはwoolisbest様の作品をMozilla Public License 2.0に基づき改造させていただきました。woolisbest様の削除依頼などがあった場合はリポジトリの削除およびアプリケーションの停止をする場合がございます。</p>
@@ -9514,7 +9390,28 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 2. はろー　Toka_Kun 
+### 2. 中国板Github 「Gitee」
+**Author:** NyrikX(足立区陣ICFS系) (h3000370)
+
+<p>使わんかもしれないけど送ってく。ICFSかかってない。使うとき翻訳でどうにかして。</p><p>あとは似たやつ</p><p><a rel="noopener noreferrer nofollow" href="https://gitcode.com/">https://gitcode.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://www.csdn.net/?spm=1018.2226.3001.4476">https://www.csdn.net/?spm=1018.2226.3001.4476</a></p><p><a rel="noopener noreferrer nofollow" href="https://www.infoq.cn/">https://www.infoq.cn/</a></p><p><a rel="noopener noreferrer nofollow" href="https://www.zhihu.com/">https://www.zhihu.com/</a></p>
+
+[Attachment 1](https://gitee.com/)
+
+#### Comments (5)
+- **Benevolent Narwhal** (Mar 15, 2026 11:25am): 何ににつかえばいいかわからん
+- **NyrikX(足立区陣ICFS系)** (Mar 15, 2026 11:50am): proxy作るときだよ
+- **Wise Hamster** (Mar 16, 2026 11:35am): どうやって作るの？
+- **NyrikX(足立区陣ICFS系)** (Mar 17, 2026 07:42am): Giteeは中国の高速なホスティングサービスで、GitHubと同様にGitコマンドやWeb操作でプロジェクト管理が可能です。アカウント作成後、リポジトリを作成し、ファイルをアップロードまたはgit pushすることでコードを公開・共有できます。詳細な操作ガイドはGitee上で確認できます。詳細はmvphp/Gitee操作极速上手指南を参照してください。
+- **ルパン三十八世** (Mar 25, 2026 10:22am): https://www.dns.com/zh　　これも中国のやつプロキシかどうかは知らないけど
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 15, 2026 08:01am
+- **Updated At (UTC):** Apr 02, 2026 06:22am
+
+---
+
+### 3. はろー　Toka_Kun 
 **Author:** woolisbest (woolisbest)
 
 <p>wistaAPIね</p><p>proxyはしあさんの使ってるけど安定して使えるよ～</p><p>invidiousストリームの代わりに使ってねw</p><p><a rel="noopener noreferrer nofollow" href="https://simple-yt-stream.onrender.com/">https://simple-yt-stream.onrender.com/</a></p><p>/api/video/:id を使ったらいいよ</p><p>一応ライブ配信ストリーム(m3u8)にも対応してるよ～</p><p>あとは......about-youtubeの方でeduパラメーター５種類に増やしたよ～　使ってねw</p>
@@ -9539,7 +9436,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 3. YouTubeサムネプロキシ
+### 4. YouTubeサムネプロキシ
 **Author:** ꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱♡ (woolisbest4520)
 
 <p>普通のやつと同じ形式で使えるよ。</p>
@@ -9556,7 +9453,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 4. いろいろまとめてみた
+### 5. いろいろまとめてみた
 **Author:** 削除済みユーザー
 
 **投稿の種類:** レポジトリの提供
@@ -9583,7 +9480,7 @@ Copyright (c) 2026 Wista Project
 
 ---
 
-### 5. はい（？）
+### 6. はい（？）
 **Author:** 削除済みユーザー
 
 #### Comments (24)
@@ -9832,7 +9729,7 @@ Copyright (c) 2026 Wista Project
 
 **最終更新日:** February 23, 2026
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/9fb094aa381a3ae081d0f19c5712d869/Screenshot_2025_10_24_19_33_30.png?Expires=1775711031&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5unLxOTcmFPD1aDW3QOBIwIjXc4PL1TFQBwS3PjYS%2FQfymoaM2OhFbX20c4xiN5gezc2agAqrFMjqvw3Zj55QqR8UGr5TH8Cb86S6XOoA7%2FpovJQcfZUdtbxpAtX0DbOhgCIZN4Bv5KMNHwe0HPTPt%2FK2yNPuMgjwzjXxM1hhko%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F9fb094aa381a3ae081d0f19c5712d869%2FScreenshot_2025_10_24_19_33_30.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/9fb094aa381a3ae081d0f19c5712d869/Screenshot_2025_10_24_19_33_30.png?Expires=1775718882&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vVRoS8GwleoZmH5CS2QKNhomHHHm4OzIgJ%2F2wDveUEdiUfvqnO9sJZPNcWr8opcgNluy10YG3aKqS0Z7WXczzpLbomef6KTRU5Ffl1kp8WEt%2FztXCwV0J6C%2Bd%2B5Vo11Ihy1aJwR4S6leekDiKAaVzqxDOSlhBmncMoDizS1DyS4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F9fb094aa381a3ae081d0f19c5712d869%2FScreenshot_2025_10_24_19_33_30.png)
 
 #### Comments (1)
 - **꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱♡** (Feb 21, 2026 11:01am): あ、更新頻度なら1番確定です（最低でも3時間に1回）
@@ -10249,7 +10146,7 @@ No post
 
 **最終更新日:** September 25, 2025
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3744177643/e39b2ff97d6641d386e960280c185c6d/Screenshot_2025_09_25_16_27_35.png?Expires=1775711031&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2mbZ969EPJP9QeF2nY5j%2BqqCfJhfBDREdiY64XatGvAPf9JfXmdJfcW0IyoAjo97a2GePZERF7rlN3BoPFhvpM%2BQz5jm9muQrsVvD0Af2HUg2YWPggD0%2BTBLimefS3pxo0DjBuKa6thljhkD6gpbEiezm1%2Bg5SNCqRK6Ob59p9k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3744177643%2Fe39b2ff97d6641d386e960280c185c6d%2FScreenshot_2025_09_25_16_27_35.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3744177643/e39b2ff97d6641d386e960280c185c6d/Screenshot_2025_09_25_16_27_35.png?Expires=1775718882&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jKlqARASfptOr0rpwKMDKLvufmX4UKaI6ZQqM47kpz2keXknhpOu6%2F6UrBXwmnMApizF%2B2d2jltoDOhqnxGqxNjJ7eXYfGfY9DfrBDixf83V9srJGsLD2eIef3%2F7z9hlr%2BNLWtXyoCA0S0qlzwRpUWFhMbcqV4R5jK4puAZbfyU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3744177643%2Fe39b2ff97d6641d386e960280c185c6d%2FScreenshot_2025_09_25_16_27_35.png)
 
 #### Comments (4)
 - **削除済みユーザー** (Sep 25, 2025 07:51am): croxyproxyも同状態です
@@ -10412,10 +10309,9 @@ No post
 
 **最終更新日:** August 30, 2025
 
-#### Comments (4)
+#### Comments (3)
 - **aaabbbccc** (Dec 22, 2025 09:08am): 一番目と３番目いけた
 - **【超低浮上】Mr.k廃人** (Feb 14, 2026 09:49am): 神か？
-- **オガロン　エドガー族一代目** (Apr 01, 2026 11:35pm): https://pixivfe.thebunny.zone/ 死んでるかも
 - **NyrikX(足立区陣ICFS系)** (Apr 02, 2026 04:35am): 俺は1と4いけた
 
 #### Reactions
