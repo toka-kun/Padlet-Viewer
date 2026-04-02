@@ -1,4 +1,4 @@
-最終更新: 2026/04/02 11:27:51
+最終更新: 2026/04/02 14:04:01
 
 # Padletポータルワールド
 
@@ -1084,7 +1084,7 @@
 ---
 
 ### 44. るるるの雑談部屋！
-**Author:** るるる　バルコク共和国の大統領＃まふいん（本物）とまふいんの弟子と◯にがきとしんとあるなすびと焼死王のカップル（一日だけ）＃ローガー様の第一下僕⭐️ (barukokukyouwakoku)
+**Author:** ローガー第一下僕⭐️ (barukokukyouwakoku)
 
 <p>宣伝自由にしていってね。</p><p>フォロパも受け付けてるよ！</p><p><br/></p>
 
@@ -2717,7 +2717,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1775701671&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JiCWA8MclFVv%2FzlUUq3L9h7ygUrPyjFiiEI0SOHzMAMiClNPdQNIR9xJLXKAmSssENKItvbpczkTreT63XB3Z8yerfPIMMrSUlwbs0fn10sF0eiPZeL2kRXkTqf4yNPDuqPRdHwpGcgPn5DwBnG6HYabfyuCKxcsFEFvInfsamU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1775711041&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5RMFRaeLmLljZzJ0yIDwRq99gK%2BZL1NhiIIq9iFs907do3Q5OEKbXfeIWWvOGInNrOTTLcYpT4ws4lRksMWZO9r%2Be4IA%2B0pRie6t%2BK0hB2kkxKGTuC498EO6I6y5EYZYqcU7zF50XbU1Yhfdf6UC5fzMNldu1omqPKvbTalsgOU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
