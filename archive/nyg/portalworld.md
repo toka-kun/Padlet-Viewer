@@ -1,4 +1,4 @@
-最終更新: 2026/04/03 19:45:09
+最終更新: 2026/04/03 20:38:12
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 121
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Apr 01, 2026 06:00am
+- **Updated At (UTC):** Apr 03, 2026 11:21am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -20,14 +20,13 @@
 
 [Attachment 1](https://padlet.com/Toka_Kun_/submission-request/k2qlv3RKMKOnX5Rx?section=317262857)
 
-#### Comments (7)
+#### Comments (6)
 - **草** (Oct 29, 2025 07:18am): ？」
 - **削除済みユーザー** (Nov 29, 2025 07:24am): ↑のpadletポータルワールドをタップしたら投稿できると思う
 - **NyrikX(足立区陣ICFS系)** (Feb 14, 2026 02:13am): 質問です、部屋は自分が持ち主ではないが、管理者権限を持っている場合、自分はここにその部屋を宣伝も可能ですか
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 14, 2026 04:33am): 自分が持ってる部屋だけ
 - **k** (Mar 11, 2026 08:05am): すみません
 - **k** (Mar 11, 2026 08:06am): なにか入るのかなと思ってやったら他の人のをだしてしまってすみません
-- **こーまる** (Apr 01, 2026 03:10am): https://www.onworks.net/?mal=1
 
 #### Reactions
 - **Number of likes:** 1
@@ -104,9 +103,9 @@
 [Attachment 1](https://padlet.com/padlets/m15z6oinkafsrjlb)
 
 #### Additional Information
-- **Post color:** Green
+- **Post color:** White
 - **Created At (UTC):** Apr 01, 2026 06:00am
-- **Updated At (UTC):** Apr 01, 2026 06:00am
+- **Updated At (UTC):** Apr 03, 2026 11:21am
 
 ---
 
@@ -126,9 +125,9 @@
 [Attachment 1](https://padlet.com/padlets/93t08ersmcl137rg)
 
 #### Additional Information
-- **Post color:** Yellow
+- **Post color:** White
 - **Created At (UTC):** Mar 31, 2026 08:01am
-- **Updated At (UTC):** Mar 31, 2026 08:01am
+- **Updated At (UTC):** Apr 03, 2026 11:21am
 
 ---
 
@@ -2717,7 +2716,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1775817909&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SyefPkrcTVnhNMEAqUZ1xVuEUtxWzqg2w6S%2FyhunFihv3vTNSkvQH%2BP1hOXRpO%2F%2FCAYb4oDy%2FgcE3AhsX0GWpWLpMSaqlYbg1GbOgOjckaFe%2FAxy1JOaJqapspnCZj675ME3jkEfdsMamt5WuDgwyvgAhYRfSaUdR%2BTDgy5Wv84%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1775821092&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=b6iq%2FYmtoTkSOwpcehPdIrDyj%2F%2FuzT607ntdAYv5x1gTUOdVeHB%2BgST6r9GOHy4je4WkBdnHi9Wbgeba0rEdhy6ZnVuw8nYBkfE1DafvtfdzKoXHqdgTxa7E4ojXHtc4d3%2FBbo05Y5K8mY398U4JE8z0K%2F0N%2BZrGHcCpP00uajU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
