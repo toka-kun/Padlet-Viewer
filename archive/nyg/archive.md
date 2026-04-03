@@ -1,4 +1,4 @@
-最終更新: 2026/04/03 11:29:12
+最終更新: 2026/04/03 14:06:01
 
 # アーカイブ
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 295
 - **Created At (UTC):** Sep 11, 2025 09:15pm
-- **Updated At (UTC):** Apr 03, 2026 01:39am
+- **Updated At (UTC):** Apr 03, 2026 03:38am
 
 ## セクション一覧
 
@@ -34,7 +34,7 @@
 ### 2. サムネイル
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1775788147&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Gw6hRyFKHKor%2Fi%2Fujgzvcr1RCIUmm14G2Pgsb%2FqK0lABTlK5kN4mTnxPwcwvvk%2FmXwnlt6Ns%2BvSEmvsAKvfxRTMM%2BsexQ9Yb4IYM5lDs4OWY0Sk0tXnM63%2FVa%2B3ttfu5RxdbpcEKLYUcUUST49KAioGSs0qJt6vW3KDaL0THyzk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/59a4c5c17d2c818445a23585eac97367/Archive.png?Expires=1775797555&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pAardlJN4KdJeShUYvSpphM8%2BPW2AzAaf25KPoLlOoq%2F0mcbhe6PEuvep%2FhgjwnkxwU11a1JxV1ycXpvd2UECdgl5Gi0I5OsPPdb%2BUbuLKRPWeU9NwrdVz%2BguZCuXJE2lJoqI732n8LlWmc5GDVOiFCrtYlaISrs6tqicLaJ%2FMQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F59a4c5c17d2c818445a23585eac97367%2FArchive.png)
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1201,11 +1201,12 @@
 ### 18. Wista / Wool-TubeのセクションからWoolTubeの消して......これ以上更新するつもりもないし...
 **Author:** ꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱♡ (woolisbest4520)
 
-#### Comments (4)
+#### Comments (5)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 23, 2026 09:31am): aiyo
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 23, 2026 09:31am): アーカイブしとくわ
 - **꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱♡** (Feb 23, 2026 10:48am): ありがと
 - **陽著辺子** (Feb 24, 2026 11:52am): 悲しいな
+- **NyrikX(足立区陣ICFS系)** (Apr 03, 2026 03:28am): wooltubeのストリーム再生とダウンロードできないです！他のはブロックされています
 
 #### Additional Information
 - **Post color:** White
@@ -1439,7 +1440,7 @@
 
 [https://woolisbest-site-test.chickenkiller.com/](https://woolisbest-site-test.chickenkiller.com/)
 
-#### Comments (8)
+#### Comments (9)
 - **Responsible Emu** (Feb 07, 2026 02:10pm): パスワードってなんですか？
 - **Frozen hacker** (Feb 07, 2026 11:21pm): 埋め込み再生できるプロキシ持ってないからストリーム再生しか見れないんだけどストリーム再生が読み込めない(T.T)
 - **꒰ᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ꒱♡** (Feb 08, 2026 08:35am): wista-pass
@@ -1448,6 +1449,7 @@
 - **panpanda** (Feb 10, 2026 01:32pm): ISGCいけました！ありがとうございます！
 - **RX034** (Feb 11, 2026 07:55am): ICFSブロック
 - **iPhoneNOケース界隈** (Feb 14, 2026 10:33pm): だめでした…
+- **NyrikX(足立区陣ICFS系)** (Apr 03, 2026 03:29am): 公式リンクが壊れた
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -1659,7 +1661,7 @@
 
 <p>自分の中学にこのQRコードを送ってしまい、更に相手にオーネー権限が移ってしまいました</p><p>このアカウントは使われているのでしょうか？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1775788149&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FAzO7zduOApNdKcX%2BkNwU6SmderdaMBicXd6VjJSk4OFVMt%2FRhTTGlHgQMD6rQtk7z8lBles6ecEljM65NpSG1mKX%2F%2BWjnBGAyR9nQUF%2Bzz2D1joLnen5H6hVQHqWtJ6O9RPTh%2BPeUtgzk2%2FwXK36xcxKiwLxU4jBKri8sburU0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/a156af5d90aa3b311edf746fa2c3bb28/qrcode_www_google_com__3_.png?Expires=1775797557&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pdSrj9qN%2FcIZ%2FJXPv4ZAYlnqDeOY8%2B63wFhHExUcb023SawCTfJ6PH0%2FWi2CUZ6BG%2B6BJnNPiKtNoyhQDms%2BKa4psMSi5rY%2FqgvP2MjE10PrtX1CS38QEL8ynJ0N284Flys0Fdz8yWTSal8%2F8QVdPV%2BILPWRxtXaLDJuM%2BEMiKo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fa156af5d90aa3b311edf746fa2c3bb28%2Fqrcode_www_google_com__3_.png)
 
 #### Comments (12)
 - **hirafu** (Jan 23, 2026 02:26am): オーナー権限です
@@ -1836,7 +1838,7 @@
 ### 43. 俺が全然浮上しなかったのも悪いんだけど俺の部屋の管理者がこいつらだけになってました
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1775788149&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UB0m4gBXsSMPUr6GcJ%2BTfhLqCGwWyqzH59%2B5DGKVX2A%2BMfHvOlMwtgiwCLfwhZdFsIuhbUW0kGLf%2BFJdZLF4xbzgKtk19QtyvHMQddKXZUn%2FExcCSH2MWJ%2BVFx3c%2Btgm8%2BU8hLcrzDYVOGTb1MTRBMIdw72%2BEG7hO8022J6P5CI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3790975489/901472abc7b7c65aed78c8cf5ce18b59/IMG_1401.jpg?Expires=1775797557&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EI5kg7W2YHGuB4EPR9k9uzh%2F7KUYjtRpUwi8M%2Fsy0dH1DI%2FPJn1MmCTY6fmVNMYsbGGUk55IufhbEIl2ZPcpvBnx5GSpnW0UV7Z9ngPcQpw7QK9QKZvG7jSvjOHrfWx0X5vBkCGTprVWaMJFHAcY4cOV0nYLV98%2FZ0o9EL5G0Gk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3790975489%2F901472abc7b7c65aed78c8cf5ce18b59%2FIMG_1401.jpg)
 
 #### Comments (6)
 - **ローマンピアースのスマホ垢本物** (Jan 15, 2026 11:50am): 誰か助けてくれ、、
@@ -3927,7 +3929,7 @@
 ### 14. アプリをダウンロードする方法教えて下さい　こうなる↓
 **Author:** 水原二平 (r02s14030)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1775788150&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MutX3UNq77fCezitXdtdEOgvkrvSUcKSFP0%2Fo7njDFjjHO22kafuYveKwQOSsw9hhsBlf57NF6L7TUgkQd9rRH4rSDwNLrDPduLJBWnOkKeMHor%2BIPjsNrnem155vJLhSVdzCAM7qSnwm85qCtJAtc1OpgXKnc0vkheQINt0qFU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3591445381/d3df4ba992ddd2d0b52ef76088e7dbb2/Screenshot_2026_01_28_21_03_20.png?Expires=1775797558&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aE%2F62IaCDD0wDNtuVhhPcczNgPTFYBoffZNE8uVszyWtw2sPgTz7vgTUSkheZ3o6Kn7WLHp%2BaspOD40hMVdZm68ke9GDG0jD%2FOnOuL2AJbwyW6Ez3gcaFz7e3pfxyM%2F%2FL5NqLXEWvi5Zy6hbyFE1NZVX%2ByMtintOMuaLaMdCtV0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3591445381%2Fd3df4ba992ddd2d0b52ef76088e7dbb2%2FScreenshot_2026_01_28_21_03_20.png)
 
 #### Comments (4)
 - **かから** (Jan 27, 2026 10:26am): Chromebookだったらhttps://chrome.google.com/webstore?utm_source=app-launcher
@@ -4404,7 +4406,7 @@
 
 **投稿の種類:** フィルターに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1775788151&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2p32hF0weYRmEBt5mKhhpvNJBUHzvMMI1xLi9A6l4BqczAtgcJ5SlVLGIJt4ZFevIlEyx2AneH64enUyjT%2BpFHqEeSelEMSNkxgolBOkBacdFJDYzauW%2FKW5hhHoutST7OEy1Di0irs%2FvpmvW8lL4mWZTeSqCiYJQGlZfBCT2mk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4963962943/e9f1b763cb2ba8d3ada959bdd3348760/IMG_7315.png?Expires=1775797559&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4GgdOiEPsKo7ySwHDn4WuZm8DwdMgzVkcsE%2FyoihhGxbbXZE5iUZM7L8SotWG%2Fmh2AOXiJoY26v%2BIytvqVIo3pe1LRkQTxwUj87PTRiDUXk5AIjxTZsbKphrjet9fsr2oIDZL1H6JRmmPyqBNquw58M0Z7ZTHd0Y97QTwRpCUpc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4963962943%2Fe9f1b763cb2ba8d3ada959bdd3348760%2FIMG_7315.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Jan 09, 2026 06:56am): ？
@@ -4761,7 +4763,7 @@
 
 <p>先ほどゲームをしてるとフリーズしてしまって、再起動するとフィルタリングが更新されており、さっきまで使えていたサイトが使えなくなってしまいました。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1775788151&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nlE6Zg98JTYVJe%2BUubNOOf77vs%2BCe%2B%2ByBhXRDbWB9un%2BDER1RzJkJWu9uVD1ijTspcoyzmTqYA1N5XsNSjCUqTBtwAfgflMr2l2k9lWfTsfdBj91vJ5PZS4tsAXLUpl2PvAoub8NaFkYVnj0P7QKWZ1EYbd7vHfRX3hdUvM46wg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/809a4ef3141bcdb8e531787d6874a91b/Screenshot_2025_12_21_11_17_26.png?Expires=1775797559&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gEzLVreatrbRhnt3XUe%2BkVuigc%2BrNjDIBjFQkxTYg3Py%2FLfsj8AX4cG5oefBhb40h4ZYK93buTIlU6qDlIYtAM6r%2BxyVwM65QeDI9z1hIi%2BnrsiuGGCoBu6309wpvgQLLTKm5VXklJoMZHJKFAgJxPmM%2BrXp31eeMErbyZIWyv8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F809a4ef3141bcdb8e531787d6874a91b%2FScreenshot_2025_12_21_11_17_26.png)
 
 #### Comments (8)
 - **削除済みユーザー** (Dec 21, 2025 05:06am): 俺も金曜日そんな感じになった
@@ -4787,7 +4789,7 @@
 
 **投稿の種類:** フィルターに関する情報提供
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1775788151&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Z9zqXHqL6XWDYkVJ%2B%2BnLg3uIGlRUsHwGGtL7kYMqBl7uC4WdWRIeaU9HEzY3kf8DKZbYmgdMqXV5NI751uSnJJUlByj2nAHbC8fjw3RxX4e%2BNPkpMf1WjCmODn%2Bom8ga9AQ7jRGTQS5K9ovZU4a4wyoQksiLZlCk4UaM79wumMo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/b817e04de1b17bf66bb2e7beca31b93f/Screenshot_2025_11_09_17_29_22.png?Expires=1775797559&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jfacG8ek3kiEcWJbolKiovovdInr%2FKd414BACYEhZEql4YylQLnk6ycq9qfkclLSKOM%2FkFgcDJ3CHgF%2FdczDza4IHwkPJFu%2BJC9i4PiWE%2FavqTLxf8RCbgc5uEtIKU8aQr48mYo%2B4g9GTONG3KV1dWufNmnzNEGrAQznGyJVuZM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2Fb817e04de1b17bf66bb2e7beca31b93f%2FScreenshot_2025_11_09_17_29_22.png)
 
 #### Comments (5)
 - **hirafu** (Nov 09, 2025 08:31am): フィルタリングルールの更新日時とか書いてあった
@@ -5386,7 +5388,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4533230905/29793600191a616967f07c0819cebfc4/Screenshot_2025_10_10_07_42_52.png?Expires=1775788151&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qLUui8ydsHzWmRD3HY%2FCDBy7mdpuQ1sOaUIViI%2BP6JVGrVZro7TnPiHGTHSXtlcVF1jBwXCATROAgOi95p0qfrXAggNl5kTy6F1bbRW3E27PAuZUWouc4opz0UmZRcUDJLc1hMh3PlnoeyOAbgFJqK0uPbme6%2F2U1J8A5LcyCUs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4533230905%2F29793600191a616967f07c0819cebfc4%2FScreenshot_2025_10_10_07_42_52.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4533230905/29793600191a616967f07c0819cebfc4/Screenshot_2025_10_10_07_42_52.png?Expires=1775797560&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=c625V1Dl%2BDe%2BXgcYQtu7hAHl%2B6hH%2BMWwv950TecbcQXl01kzz4cdERm4YEXAcQSqZmMik%2B1rnIT73P9GBFr2ZdQ6K0KeYaAPLfFxLk28o2HjQpPSZzrKmxQhaB9OoDMD9XeWcUaTk8jLfy5NGGqG1zriFNMY6JaHpO%2BsIm9quzg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4533230905%2F29793600191a616967f07c0819cebfc4%2FScreenshot_2025_10_10_07_42_52.png)
 
 #### Comments (20)
 - **るい** (Oct 10, 2025 07:56am): わかんねーな
@@ -5422,7 +5424,7 @@
 
 **投稿の種類:** サイトに関する相談や質問
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4531780414/2043955bb04d17c44d73180ccc50d493/Screenshot_2025_10_10_07_42_52.png?Expires=1775788151&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ub8s%2FrfI5Lsq2G5j8TwKw6eaJAY3R%2BMRCp%2Fkc9HDd1XGZIf01HUTtP18FHWefrtqS%2Bmw%2F1gqXy5aXcL8oq%2Bx9%2BAixM%2F2dAC6kqjCCf20zagR7xXJCUrppeTfg9pyWEOKL5RMslsHviFuEDp1HSJDr2lKtHwIZ9s3N6hH03lqtAQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4531780414%2F2043955bb04d17c44d73180ccc50d493%2FScreenshot_2025_10_10_07_42_52.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4531780414/2043955bb04d17c44d73180ccc50d493/Screenshot_2025_10_10_07_42_52.png?Expires=1775797560&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uJhS8bHOmwOSZCGh%2BEv%2FIl0BV8MRSe9N3grrn6yX3udrXZiMffp4O56VQP5xKuq3bhN8nrnKly4lB6VPDx8F9geoCygTLKxt5Qafw4PwHRSfKbQ5lvnXNr7UEoTsramLG5129GJILWhFm5hjQ82hQMqbodLT7t3qT%2B%2B279lTixs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4531780414%2F2043955bb04d17c44d73180ccc50d493%2FScreenshot_2025_10_10_07_42_52.png)
 
 #### Comments (2)
 - **あああ** (Oct 15, 2025 11:51am): ただの学習サイトです
@@ -5900,7 +5902,7 @@
 
 [https://padlet.com/Toka_Kun_/breakout-room/eXwgvwGGAajevybR-oAdpz24dgkRJv10R](https://padlet.com/Toka_Kun_/breakout-room/eXwgvwGGAajevybR-oAdpz24dgkRJv10R)
 
-#### Comments (12)
+#### Comments (13)
 - **Massa_games216** (Sep 26, 2025 02:12am): ↑ISGC規制 Utopia経由なら閲覧可能
 - **Helpful Chinchilla** (Sep 26, 2025 08:05am): I-filter 規制
 - **Massa_games216** (Oct 03, 2025 01:25pm): ↑作成してくださったほうも規制
@@ -5913,6 +5915,7 @@
 - **NyrikX(足立区陣ICFS系)** (Jan 28, 2026 12:54pm): 私もLABO5で動画再生できません。
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jan 28, 2026 12:54pm): LABO5は動画再生不可になった
 - **NyrikX(足立区陣ICFS系)** (Mar 20, 2026 10:37am): すいません、2025/10の時はmin2chatがいつも10人くらいいたんですけど2026/3に入ったらどこにも誰もいないっていうのはエラーじゃないですよね？
+- **NyrikX(足立区陣ICFS系)** (Apr 03, 2026 03:38am): チャットなんで誰もいないことになってるの？
 
 #### Reactions
 - **Average star rating:** 5.0
