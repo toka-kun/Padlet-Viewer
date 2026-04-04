@@ -1,4 +1,4 @@
-最終更新: 2026/04/05 02:31:43
+最終更新: 2026/04/05 03:43:48
 
 # 規制解除委員会(本部)
 
@@ -173,7 +173,7 @@
 
 <p>pcの知識必要だよん。</p><p>わかめ作れるンゴ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775928702&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=C4eXOBZ1DiCT28p8SOp1GC4ThdX3GJVW8nM4g0b9lFDp40gcaMGQIdh%2BPvmNkBihM8Rtiy7IcRXTksX6GGpWX8E9OUf81xTI%2F5mezRN7iZM7UWWxKtml8FzpnLbZG1UHr6cWGEnM%2BRDKvS5c4qhN14pgyILBqtEeS6cUjBI%2BGMk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775933028&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=W5cTEo9OBtw%2BIR9Opo0MLYAt13ZDUfvtY1vhT4yu3ypzDcsQhTzIlIMVDv1s4gmroIYOqv5RZee4ZUIi9zmho8rWOWEuYbaZgw1qVVErIUVYtg8HTK9D%2FTrbuloJJInJHxdTV%2B26nm4CR13ZAA9TcSPRJWq5pVHGEGsid8piuqM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:02am
@@ -223,7 +223,7 @@
 
 <p>わかんないことあったら読んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775928702&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=HC1Y7i%2FRABm0q7UU%2BOfvRyuL9oHetxbyMUso0K8Zo2I6NPEuM9%2BFfql0oXe9a2H8Gi0%2B7nMHjv1MWM97Q2kE4eTPFrLEPoikUTMAxmEEmLZKgWp0lQkLEfAbU8%2BSu1akD2JB4kyoQC%2FSq76FAnUypr3s5p%2Ffpr8%2FThBPT98Xtiw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775933028&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TfxEUuo6FazekJej2tCCYb3Xu7QfrpkIle2MlXZv0yw9GN5HnVXAhCWAGcQbRyBIFo5Hy%2Fnfl0kqO85SjO0g8wEBRAy0f3yF5MF4%2FnWs1pA6mdPRG%2B4CvHSMHHh9UsGOyklvujz%2FSeMLi9FPkdGk5HpDMjnD%2BPDLUIzoKDEWVE0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:03am
