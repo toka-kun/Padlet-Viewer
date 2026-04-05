@@ -1,4 +1,4 @@
-最終更新: 2026/04/03 17:56:46
+最終更新: 2026/04/05 22:00:52
 
 # お文具のプロキシ
 
@@ -7,7 +7,7 @@
 - **Builder:** ダック🦆 (koregahonmono)
 - **Posts:** 223
 - **Created At (UTC):** Mar 07, 2025 05:39am
-- **Updated At (UTC):** Apr 03, 2026 08:13am
+- **Updated At (UTC):** Apr 05, 2026 12:17pm
 
 ## お知らせ📢とルール
 
@@ -751,7 +751,7 @@
 
 <p>あなたの要求の投稿が削除されている場合、付与されていないもしくは管理者の権限を付与したということになります。</p>
 
-#### Comments (139)
+#### Comments (142)
 - **削除済みユーザー** (Aug 30, 2025 10:20pm): ライターください
 - **Supportive Puma** (Sep 04, 2025 12:39am): 私にください
 - **めすがきざあこ** (Sep 05, 2025 01:03pm): はい
@@ -782,7 +782,7 @@
 - **Proxy/いいね** (Oct 22, 2025 04:52am): ライターください 
 - **おなべさん(新垢** (Oct 22, 2025 06:11am): ライターをいただけますでしょうか
 - **削除済みユーザー** (Oct 24, 2025 03:34pm): はい
-- **༼♱𝙕𝙞𝙩𝙚𝙣𝙨𝙮𝙖♱༽** (Oct 27, 2025 07:15am): はい
+- **♱𝙕𝙞𝙩𝙚𝙣𝙨𝙮𝙖♱** (Oct 27, 2025 07:15am): はい
 - **削除済みユーザー** (Oct 31, 2025 02:23am): ライターほしいです!!!
 - **retete** (Nov 01, 2025 08:56am): はい
 - **削除済みユーザー** (Nov 01, 2025 11:03am): please
@@ -891,6 +891,9 @@
 - **Invisible Dolphin** (Mar 17, 2026 01:01am): ぷっぷっぷぷうププププププぷっぷぷうぷぷぷっぷぷうぷうプププ右往ぷっぷうっぷん
 - **sabakan** (Mar 25, 2026 08:45am): ライター下さい
 - **サイクロプス（#制作者とまふいんとねこずきとるるると東京ヤクルトスワローズ大好きと雨宮と◯にがきとるる姫とかリけーとニシみ‐とりぃと焼死王とローガ‐の婚約者＃エドガー族4代目、＃あおたんの44番㌥#ローガー様第六下僕）** (Mar 25, 2026 12:12pm): 　
+- **田所浩二** (Apr 05, 2026 12:16pm): https://padlet.com/koregahonmono/padlet-5ggicyna1yjvquxr/wish/J24jalzVq4DEZ0A1
+- **田所浩二** (Apr 05, 2026 12:17pm):  bnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+- **田所浩二** (Apr 05, 2026 12:17pm): https://padlet.com/s2206019_2/padlet-zrhg4eb9slnq1r0k
 
 #### Reactions
 - **Number of likes:** 9
@@ -1488,7 +1491,7 @@
 - **Charming Grasshopper** (Mar 19, 2026 09:45am): 1234567
 - **まて** (Mar 24, 2026 03:34am): ヤハシタ
 - **まて** (Mar 24, 2026 03:35am): まてまてまてまてまてまてまてまてまてまてまてまてまて
-- **自認ひな(///ω///)** (Apr 03, 2026 08:13am): 　　　　　　　　　
+- **削除済みユーザー** (Apr 03, 2026 08:13am): 　　　　　　　　　
 
 #### Reactions
 - **Number of likes:** 1
@@ -3075,7 +3078,7 @@
 ### 2. Post 2
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/8d954153a2ff10da68ec435597782ac6/_________________4.pdf?Expires=1775811402&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5oy5GF8ALyEtoWwOrhnilAzYoJTFuQ3YzvUtadxm9opb7VFgMiq2fb%2B7vMgw9A9p%2FCif4Y4Q02dM2dYu9Kue5KqgOhLw0FVPvTG1yB%2F7qhZRvH9cOdxm%2BXgvLW9n9lVMYl6IRWWfeaH%2FyVu3ziKi5bz2Qxd5aQJAuyoDCWoQNcY%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F8d954153a2ff10da68ec435597782ac6%2F_________________4.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/8d954153a2ff10da68ec435597782ac6/_________________4.pdf?Expires=1775998848&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=prvLa1q1adrvj0XJTVG%2BsiVeJPZac7pxcefka36VomLx9QyhHzmcVsAcKa5aW5FEvZVhwGXC%2BoIj9xHIDUJFM54Rydqmp3y53Cv2iYMoUibIfdt83q30v5hJeWzMouGFBb6jloWnnLzhTt9YTM%2BTfuIl%2BMDI7lsbwphATSamK%2B0%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F8d954153a2ff10da68ec435597782ac6%2F_________________4.pdf)
 
 #### Comments (167)
 - **削除済みユーザー** (May 28, 2025 08:49am): 五等分の花嫁が欲しい
@@ -3259,7 +3262,7 @@
 ### 3. Post 3
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/72490f734c32aeaf6cbede7d9c2c9b5e/_________________3.pdf?Expires=1775811402&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zMkejAlbPKi4pTeydgW71cv82V%2BSClYnOJzusNTZAni8oYCi9hFPk%2BipvMWj3SvWmDrPb18wZyATnFbWurn1MTzXnJX6vRkqP7A93BWEYvNpD%2FuwdltggaijerXeMJFUBv2Oir2Moa8j5Vq%2BKmqr7gl%2FlQTPXh3paKVpNKMeQe0%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F72490f734c32aeaf6cbede7d9c2c9b5e%2F_________________3.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/72490f734c32aeaf6cbede7d9c2c9b5e/_________________3.pdf?Expires=1775998848&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YRxAnGnPcxwGIfOxRBPEUXGUla2SXdvrVDMUO%2Bl2n7ckaJWJo165PDNAVzV%2F%2B6VSDqMSPQ%2BgJe5bhBXdgeRFEP2ovjOOn%2BATOWxz51xpv9KIyXj4qTrO2SV77cADHWap%2Bh52y1RcNAq95rm%2FgNzQywBBpn9mmXAfxo7o0hcjfjo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F72490f734c32aeaf6cbede7d9c2c9b5e%2F_________________3.pdf)
 
 #### Comments (66)
 - **hanaだお** (Jun 12, 2025 07:00am): 初目と発目間違ってる
@@ -3342,7 +3345,7 @@
 ### 4. Post 4
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/82ca4d47bd90c1a0fe66fc9dda631fce/_________________2.pdf?Expires=1775811402&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3mnefcTrAIxGWscJbHbia%2FUBWc6cletwuHmhmYgh5nxLcGGv6uyODhqMxlXmU7hZnXHtlrhewc5hk09uXBl0CBmNEmA22R9rAa47O0dWlZogEQvKXvAxSFxuvWYOww6v72JMlGwrgxUG2YSYiKqm41x%2B%2F4wvar8yrg%2B%2F6viFvX8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F82ca4d47bd90c1a0fe66fc9dda631fce%2F_________________2.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/82ca4d47bd90c1a0fe66fc9dda631fce/_________________2.pdf?Expires=1775998848&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qiSOzjG0O5V%2FeoLNwI0IPKzU3reqdYN6Une8tE4ljxMy2P98Efm9T4WDwayAxvuaxjvgKYch7goDKT%2B05%2BU0LxJLB1tC07a5nPnKSjIzqavLu%2Fsv%2BpnXybcDJ2aKC81hdM5WmOycHKPGr0MNl8XCcD5VaSiQtFB1lPAyJZozLuU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F82ca4d47bd90c1a0fe66fc9dda631fce%2F_________________2.pdf)
 
 #### Comments (127)
 - **フィアちゃん❕❕　腹黒天使にゃん❤** (Oct 17, 2025 06:52pm): r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅx҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊
@@ -3486,7 +3489,7 @@
 ### 5. Post 5
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/4f3635649ff140cd399fb28b3878c0d2/_________________1.pdf?Expires=1775811403&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cuJx7xLJiV92LdrbrWAUP7I%2FN0RWG1gSenJ17%2FO9%2FkF%2FenMwyGdRufFKnEkdI50B0rm8OsXtEzlYciKax1LPugJIn25JgD%2B964sxArDfZEZyyE6sj0DTHoW%2FwqsagEPYi9w12X8UOmZyJ3339EWhNYjF1cZi2wO7TL0EYHu16V8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F4f3635649ff140cd399fb28b3878c0d2%2F_________________1.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/4f3635649ff140cd399fb28b3878c0d2/_________________1.pdf?Expires=1775998849&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bPMaaysbEb74EaND3cLopcK1uilRepW8FpKCr%2FnbnELFeaL0lMZmcYfBc%2BoHiXKCLrVlnkK3hiDMwE5b1Y4QA8emEGaxw%2FhpwyG3G2s7OGJTQFJAbZizBRp4ysA7dKPUTLQjmt9j89y%2BCe4rgYff1NABbDsZASWNzmyuPQ697OI%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F4f3635649ff140cd399fb28b3878c0d2%2F_________________1.pdf)
 
 #### Comments (106)
 - **Summyspyder** (Oct 07, 2025 04:12am): 抜ける
@@ -3609,7 +3612,7 @@
 ### 6. Post 6
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/be1e4a66375238e43bd00681dada910b/all__16_.pdf?Expires=1775811403&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FMg0mKz%2FUIl0PkotARr1uttK4JhAsqJBBez%2B%2BixmTmuYvQn4oevWlRE%2F0iF0O96Fxn3O1E0lY9n6jXTJE8H%2BiHzXaS2pDJNjEaEBkENUIzyJfp32xlZ6Fute0iMPnEx57%2FXG7wgnKPcF3bNlQlA5XGh4%2FeH7W3HtEqBGqW2YBV4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fbe1e4a66375238e43bd00681dada910b%2Fall__16_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/be1e4a66375238e43bd00681dada910b/all__16_.pdf?Expires=1775998849&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xQl7JiIviU2SVHXojDUqRiR%2FLHrWjQrdvL30lTavHHBeNfoyRf2WlbxQ%2BSAkiVKOrzb%2FOH7en9Mq98jSXhjeaqDX%2FZql%2Bjo704ZuULsp%2BK4XqFDa%2BhZH6U0Z%2FJPKUcuNif6QIiVHT%2FNhb%2FN%2Fsw7RvBI9JEB7jc5E75ZEsvs%2B7Ac%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fbe1e4a66375238e43bd00681dada910b%2Fall__16_.pdf)
 
 #### Comments (2)
 - **Riur🐾** (May 31, 2025 11:23pm): 可愛いな、このこｗ
@@ -3628,7 +3631,7 @@
 ### 7. Post 7
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/53656f70be2172d82358cbe84ab1d95c/all__7_.pdf?Expires=1775811403&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GbdJOIE7gR9wS30U%2FE12HNpRwUeTxrSSgDcwij%2BTU8i7rMMHRJ9vPTJqtTA7yAuQwXQhpR2jgxoPHT27e15aV2fXpsGAQ8UQJSLH65KngRMF2UW%2Fxz73BcD2GucKzkDJoeX5L7cHNGVxUC1OdTey9dL7DcfGWQ%2BL%2Fsph5tUgTco%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F53656f70be2172d82358cbe84ab1d95c%2Fall__7_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/53656f70be2172d82358cbe84ab1d95c/all__7_.pdf?Expires=1775998849&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xyJqfWKhnGP3xmKxgxses0jY61lcXLYv9Y4Zno24EGS4bwOJFJoWyjDlRd8paflnHODmtf4P1HcDJTxhZpDi2ZZ%2BW7PPAeA1ZcGQuJXqqBlEIuuv3Y5gTBKMHraMHZRyaTWN7kXT3IMlepoVJ2lzqsXd%2BQ%2Bnt7XsIeSC9YjESqo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F53656f70be2172d82358cbe84ab1d95c%2Fall__7_.pdf)
 
 #### Comments (145)
 - **フィアちゃん❕❕　腹黒天使にゃん❤** (Oct 17, 2025 06:54pm): r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅx҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊
@@ -3790,7 +3793,7 @@
 ### 8. Post 8
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/352032a04f3ea75e2b7cfdcec199e7d3/all__4__2.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Vh5%2FYmzsBA1CZi4c2Z76P6RMZBlqO5tA3qRGnEKwHJQUcXdIE310sv4PX0MiHY8zJ%2Ftn5WuzHBLFN8m9hozaat%2BzPOPlIo%2FzB1ak00SMZMln%2FiLEZiw2QIjUWuaA5NsaKsOezNkS%2FQAMPx4B0qTS9%2FZy%2Flv1%2BGjTPQhX6q7qEMo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F352032a04f3ea75e2b7cfdcec199e7d3%2Fall__4__2.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/352032a04f3ea75e2b7cfdcec199e7d3/all__4__2.pdf?Expires=1775998849&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ir2p3kAwlbQLp%2FjA9xPeoGp9ht%2FrLEcWnVM4HPpJewIroqAJRVoq3PJdmX21v0wKjtBDOl5CdX0eafWC8sNpdEUAWe%2BiBdmFHUw%2BI0ZRs%2Fwk%2Bo5NZczYlZWDe01B4cr79iOCgRb%2B7V87IVrRpCb9nTQEl9nl%2BGT5P6buDaCqjR4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F352032a04f3ea75e2b7cfdcec199e7d3%2Fall__4__2.pdf)
 
 #### Reactions
 - **Number of likes:** 2
@@ -3805,7 +3808,7 @@
 ### 9. Post 9
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/8e84685a31400bd6d53de81d16bf87f4/all__5_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zHSCaVWI649axdD8TJNXVgfndhZnaBMXay60gIufBbIj5P0AqQULWnnrdrxUuK%2BHifoSRdMp6FLHkkNak2lxkJDEE7ienCujwSEBRq%2FOVmm%2B%2FDbJFMwkQAFONjEePc21H4chGKdqTaWWsonuDm8UuAy7t2MXRc1ifDfnr9uEKd8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F8e84685a31400bd6d53de81d16bf87f4%2Fall__5_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/8e84685a31400bd6d53de81d16bf87f4/all__5_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4VVDbTaK9YMuulmSm0um0xZhMmjtpLL22f%2FE3xLOENxQUMpoKe4AfhMkSsCflzT7ktdkm%2BdoQeoiSUpZ60SgfQ4Wx8apNemkIdxdhKSMqcJIm%2Bt2vi%2Bskficw%2F47M9TQCVjwTl7oa8BthZE74ywUdfeFJWpdUUGHY2ME4oybHLw%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F8e84685a31400bd6d53de81d16bf87f4%2Fall__5_.pdf)
 
 #### Reactions
 - **Number of likes:** 3
@@ -3820,7 +3823,7 @@
 ### 10. Post 10
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/95294b07f37a3cdc0a4935fc7b9c20ec/hvtrs8__cfn_dfd_soapt_ngt_22261033_203_cln_rdd.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nQHNHPL5ZRcdtNnEzUJASRVlBcDQ4KIZxwozKrM6Lw8Rf5xiXbIIhSpbB8RnWOFuRiMUHrOQRMqH5lZba0G29hBBjqdXCUTjZOS8TCft1GdKwNe%2F39KUEo5K6g00%2FxzYxQ%2F%2BFLcXwz7mr8xvFxxiQfNlbxi2QAQVODB4D%2BsHVsg%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F95294b07f37a3cdc0a4935fc7b9c20ec%2Fhvtrs8__cfn_dfd_soapt_ngt_22261033_203_cln_rdd.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/95294b07f37a3cdc0a4935fc7b9c20ec/hvtrs8__cfn_dfd_soapt_ngt_22261033_203_cln_rdd.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dMi%2FAzxgRMSbPpaL6w2N8%2Bnou%2BwFoOr0Y9G30Bneq8GHju5XaWCEA%2Bc0INfEDBRPk1jHuSzHURR427vMkKED9lKgrRk2WwTKiBaFe8%2BymoOyBpjq6aWV0%2Fc4ibzSNu%2FbRhqH%2Bz22eB93nSnJvtVcj9o31vL6k28uxpToaojaEAc%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F95294b07f37a3cdc0a4935fc7b9c20ec%2Fhvtrs8__cfn_dfd_soapt_ngt_22261033_203_cln_rdd.pdf)
 
 #### Comments (4)
 - **受験諦めたただのカス** (Jun 04, 2025 06:13am): あったらスプラください
@@ -3841,7 +3844,7 @@
 ### 11. Post 11
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/5c687e0d7045ce477d5e281ba9cc3deb/all__7__2.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MKm4nLeF8lvGeX1pJRwtTSRlWkwtjbC%2BIoUHj0q89L5ShpNbenYwDSj%2BSR%2F3qgH5eUTHNwQapNA0mi4f5adRb5ahgHtgknedaBnKnJ1ortT7Jo9Zf0rCMcc7zuynPsFb%2FtEzr3y0EloLskOC%2F5z9D9K7HTtmMlhqEzM84nZ2NN4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F5c687e0d7045ce477d5e281ba9cc3deb%2Fall__7__2.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/5c687e0d7045ce477d5e281ba9cc3deb/all__7__2.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GO3y3rUy%2BR2v5xuCNkfrXFExaRvwlfCJJAnRyapw4by6dEeDrPenWdgd36u6w6Om48H%2FJK4OzaYuXE1V16eLAq1TnJ4eUpyfUU9J80uRZ90xiJx0vvdX5endU5T7COeqdU6TydQ%2FQSHSHXC7jZJWzPRAfo9%2FUBiKImVwy0pStto%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F5c687e0d7045ce477d5e281ba9cc3deb%2Fall__7__2.pdf)
 
 #### Reactions
 - **Number of likes:** 1
@@ -3856,7 +3859,7 @@
 ### 12. Post 12
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/19dd18a72e20aadddc34530501446368/4cf552f9c1f1372a95a557cd1f03810a90a9026b4f960a59a25ad44b6239b54a.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CHhFL2AOeJArs0XHJWnrPHJi9Gy%2BheYlWi05FcFpxYIb1e77vW0rCG4bQnj%2BOGB2PdW5XZGO4J79gHo5h4A3bp%2BR%2BIQ2CcjT%2B2dUFuSho2WsH%2BOlEnRT9nvAjS4I5tsScVgwEmmVA1ZyBbO2zCy5v4LZAY2F0x8nCtk9jvSHmwo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F19dd18a72e20aadddc34530501446368%2F4cf552f9c1f1372a95a557cd1f03810a90a9026b4f960a59a25ad44b6239b54a.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/19dd18a72e20aadddc34530501446368/4cf552f9c1f1372a95a557cd1f03810a90a9026b4f960a59a25ad44b6239b54a.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rdrcn1r2iG4Noj0AA9uMY8u0f8WAzP78D1SmtJ%2BKX8xqi2KVf2ns%2FPWSgpN%2BKjJWsHZ0TmicHPnLWxYk%2F4zyqDZgPZ31fo1Rdkk2u%2BcfN%2FY%2B0ABmi2pum%2B74tggp621qzIV1i9Nb56sS%2BsM0bZzUab0Btgxp3%2BgDNz679TTtwT4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F19dd18a72e20aadddc34530501446368%2F4cf552f9c1f1372a95a557cd1f03810a90a9026b4f960a59a25ad44b6239b54a.pdf)
 
 #### Reactions
 - **Number of likes:** 1
@@ -3871,7 +3874,7 @@
 ### 13. Post 13
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/d75f9fd18ec4d40b9cb9464310cbdcfb/__________2025_03_09_9_08_09.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QcfNJ0fDo%2F96P1xgIcW0l5JEZs%2BxTZ%2BKswFdg7sZGQ3V2dzqhyiWoDXJ1raFBdEU%2BIW%2FHBn%2BCN9y3ebJwaDmR0VTs3fgBO6TqxTyCQNvwMvOWAdIv9i0kkYM8F5v0uAUv4jXzkpfjqCnoD%2FcLtXMIiBLILViMJAEJz2AbkN%2Ftvg%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fd75f9fd18ec4d40b9cb9464310cbdcfb%2F__________2025_03_09_9_08_09.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/d75f9fd18ec4d40b9cb9464310cbdcfb/__________2025_03_09_9_08_09.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wP%2FD%2F2PeYf0V4XbWmyugCU6VOjrSCvMjvinimejc%2BeS45F%2BUMmYCGttUHx4mIAt3GdLisRrIQ4vpdVkZtlC4tICgsDZe1tV4MdgCK6PmWcNi8U6wV%2FB7jiLHkqIXyi2AbO5YfnQZfObP8rsapGnZ4V4zoTHEggfTtLKNhg3oHy8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fd75f9fd18ec4d40b9cb9464310cbdcfb%2F__________2025_03_09_9_08_09.pdf)
 
 #### Reactions
 - **Number of likes:** 1
@@ -3886,7 +3889,7 @@
 ### 14. Post 14
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/da9bd229596b91fea315e4f32eadf366/all__6_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=s6khcHfVQOquYrdxLoRyRQMFpxRP7%2FEOQszc%2B1ICEjS7QQF92jpOd6mLTfkrAAFvys7oqdpfsyV%2BsBzjHXb1mKjpeV4kEysSFKcb3gwYrQGUJsQ1uG0831DanzrOXQvkeAQk8%2F4WrNaZw8zL7CmL%2BrnRZL1oTLgg4jI2HP3ntsY%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fda9bd229596b91fea315e4f32eadf366%2Fall__6_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/da9bd229596b91fea315e4f32eadf366/all__6_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JaE0zQMVfZ2jvG6%2BwnhxqsX%2FJMjRba3QFnHmePhHkahjGTWK3DvdhMSAyQaoiUGsbrU%2Fxo96z8L0AIs%2BwkljdOV2JxSajNqugGDeUCdS%2BHxfg1%2BsSqCES8oWLRVwzf%2BgggcbnW4F3uY1NppBFBPq0NwExm%2FazMmGwkoep0%2Fhfa8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fda9bd229596b91fea315e4f32eadf366%2Fall__6_.pdf)
 
 #### Reactions
 - **Number of likes:** 3
@@ -3901,7 +3904,7 @@
 ### 15. Post 15
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/9c15dba76cf881e0ec929a109293aa14/all__2_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=r6aZbH8%2BFAzr3V%2FFQPPhGwgNt3b6Jmq3JsbL9BL9UUMcNcPaakRWAL65vmBJJb36jgy%2FFshv9A80SyARnrDuEqKGKxO%2BacDU1H6OKBYLMmVcW5CpQLgLm7msSfDeods978YPhQ1jxZQgvJiUSyQDejog9kBrdZ5vjarCnHcHz3k%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F9c15dba76cf881e0ec929a109293aa14%2Fall__2_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/9c15dba76cf881e0ec929a109293aa14/all__2_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GSZb3LpgC5hRk7WfvTebKtOvWybPs3x32PN5fCKBAb7a7gYFh%2FvUltNO%2FfXLMBl7wzOjpCswplikFSC00Nlgi8WjORnJykXVnoGt%2F3NeYc7NTftImZy37h2q1fylcH8HS2ZX1U4RTRf2IB3UDmw8oteu3gSngMEIC3aS%2BAMUaOk%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F9c15dba76cf881e0ec929a109293aa14%2Fall__2_.pdf)
 
 #### Comments (1)
 - **Riur🐾** (Jul 04, 2025 01:48pm): おかずです（女子）
@@ -3919,7 +3922,7 @@
 ### 16. Post 16
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/43e8f4fb508cbc10d807f055f8206bb3/all_2_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lP4KOsucLB5zr82BqJhX2hgUR6cVEsWSqfJMNF57%2FHh0vlwdE0FXjK6K3dDCH2wUseZSBkDmXNc%2FLyXU1NRAv2T8p6BjjhQOd6H%2BbW%2FDO4rjcHG%2FMxkqkkMJ2J4gFBY%2BayE3Anahmbd6avAIg2D3QcFJAvxW4D%2BJ2jvA2jf206g%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F43e8f4fb508cbc10d807f055f8206bb3%2Fall_2_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/43e8f4fb508cbc10d807f055f8206bb3/all_2_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jXHc9PBLvk30A5rlAwvQCcZbO0omOMzOOXiXZdNbnrqBV70vruFqBmxeQH18p5s03b7K7G0xfgVbNC2tqo%2BHD2D0izyUAu2UhpfTzERc8MpnrpqiZZujNvtInTZUVqsu4NomCymVy1nWc%2BYcvGfUTQzrStQVV6BHL7fzg%2BX5218%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F43e8f4fb508cbc10d807f055f8206bb3%2Fall_2_.pdf)
 
 #### Reactions
 - **Number of likes:** 1
@@ -3934,7 +3937,7 @@
 ### 17. Post 17
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/5006a87c0d66486ee5719f121f94d5ab/all_3_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xJxN85%2F0StIW9pCdjtrf50g%2BYhqlzptBA3ztmZApLcMMiKrFyx4ow2XXaW6kVjbTJBQ%2BAR2T1XV7WB%2B4g45Rk%2F%2BxXeW8mz2i4ctzZUE%2BNntQqpNkeEAHApWpW02V9j78cBiEWNnCQ%2BbouvBl8cuPANzq1YLRPlT9iwBgIHrkxC8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F5006a87c0d66486ee5719f121f94d5ab%2Fall_3_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/5006a87c0d66486ee5719f121f94d5ab/all_3_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mPenusZ6bWWwxCWGmHYysVtFcV1DdThsVD0anjQ107Au7Jq3HfdGQcbB8HUwR5XceXXabOM2zeJBMOl7SpOfb6WDf1c5b8Fp9SnZ3iEkAuMM%2Bpp0ctcpjzasr1dKq3ufelTgGqusiW0odPFVjSD7otX2n4shF57YkSxgonQuWm8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F5006a87c0d66486ee5719f121f94d5ab%2Fall_3_.pdf)
 
 #### Reactions
 - **Number of likes:** 1
@@ -3949,7 +3952,7 @@
 ### 18. Post 18
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/29f607db9dad210911112b9a1b7157b0/829bc2c263bb7cde5106f06bb3816910d573ed9cecdbdbf18242db71c6b2305e.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Ago0eAaYErkyKp6bKOYgW%2FT4xUxFXG62TCd%2BGvF%2BrxwhGZSB%2FUQzLfFjWN1cyGaLYfAeUBsu2xgSYC%2BfaDGShW%2Bx5I7fkB0%2BY11oyZgu0JSdgijfNolLGKX6m8i1GDqfn9IGP7PWWn2Q0mbEzPJmMCzPInuw2ER%2FqEfrZxYkpmc%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F29f607db9dad210911112b9a1b7157b0%2F829bc2c263bb7cde5106f06bb3816910d573ed9cecdbdbf18242db71c6b2305e.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/29f607db9dad210911112b9a1b7157b0/829bc2c263bb7cde5106f06bb3816910d573ed9cecdbdbf18242db71c6b2305e.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=HvtFfmwC3FMWcPCVy4naHKEHItzZv9GE5OJ%2BAtDn9IooQ5gRZZ4d8nnkZa6%2FJugAV6JzoayqLudSgS%2FPI%2F8BUY148RXzGMC%2FvsIM57b%2BEfYY%2BEaA%2B1mqGvHvIDJkaYPIYcqb42SiWfRsFmuHKNHmUsmrdZuLTbShlkNrm1i14tU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F29f607db9dad210911112b9a1b7157b0%2F829bc2c263bb7cde5106f06bb3816910d573ed9cecdbdbf18242db71c6b2305e.pdf)
 
 #### Comments (1)
 - **受験諦めたただのカス** (Jun 04, 2025 06:34am): そういや片栗粉X壊れた
@@ -3967,7 +3970,7 @@
 ### 19. Post 19
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/5a9cc3b8fd7093973ec4023b5dffc513/all__9_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qrSFDw5p7HcoehPoUqwggSXxJWUvlbxbFlEICPGgq0hICL4ICyqmX8aUJrxsLnvzD7JTwqzoaPs4kyBWKtRJoOHbb0%2F%2FGJhp%2FSxOcO%2BESF3NLWTzfDi6TaVK%2B0vVtl3uRVdsLDAZt0%2FvY9BY4vcJdOp9EgUszoYV3skl8V1nUHg%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F5a9cc3b8fd7093973ec4023b5dffc513%2Fall__9_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/5a9cc3b8fd7093973ec4023b5dffc513/all__9_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MDJY0LVjGftSLMRfY307h2FQQTBFRkm8nN8OGgVL5FJh0D5qSeX%2FMRZDnviAzVlRJEuNdKV15UriZbqs9KzAiVwCOwjxDtCxKg%2F6cEPVDMZyLZCwHzf4eHIjkWiBEZEkE7Xpi0chcgW%2BXSRUWkH7Imb2Y58YY2QBkQzWwvme318%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F5a9cc3b8fd7093973ec4023b5dffc513%2Fall__9_.pdf)
 
 #### Reactions
 - **Number of likes:** 2
@@ -3982,7 +3985,7 @@
 ### 20. Post 20
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/1a57b582d4948bbc15aef710dde0f7aa/all__8_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aV%2BdP4tkFDd5VhcVOSOAzwXU1OdChmGcYiBaC7kxiiQJq9VFepQxuojqm5MOfhWXIiijhTJY%2B7cnmNQ5PWVYvyN4Dc6DV3QYn7N0KVKJxTANhz2nSujE4Vhfe%2BEmg0d5qz8O3WKrGaXTk8XVRVmY4pIYAblIWarMD%2FWcLTJjRi8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F1a57b582d4948bbc15aef710dde0f7aa%2Fall__8_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/1a57b582d4948bbc15aef710dde0f7aa/all__8_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RGhGuTammMBnsvkbVgvycozmhApCW62bY1Qs2ECotIw%2FW40HuG0EgrHUbVrnx9ur2ze4jlQhGPK5jwofj6hvtbBYHss%2FxCxWZBb5iZnKyVdetKD6a2U9yY35WMrQP%2FDOUrOgOhnSH3WDyMRLXwvgAHov2KFEfNw7F4yhivsL63g%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F1a57b582d4948bbc15aef710dde0f7aa%2Fall__8_.pdf)
 
 #### Reactions
 - **Number of likes:** 1
@@ -3997,7 +4000,7 @@
 ### 21. Post 21
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/7513b45195f311ca334a3b9c2971bbbf/all__4_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Ai8i16lJJ6aHMTyluTZjZPzVAhHCIY6RlYGCC89BwFj%2F5FfhWXQpOjGYf6FvN8dGAegYKxYNc6K8OImkyg1Ripiuc1Ucwm2CxX06i4uJsPHzTt1d55PeS7jchbtCNaW23Ucb61E98WG2nN4%2FH8P9SWHsO1aiAitHI3O7M3B89lo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F7513b45195f311ca334a3b9c2971bbbf%2Fall__4_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/7513b45195f311ca334a3b9c2971bbbf/all__4_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Ralrg15yILv0Ew40gZGzYPlCY3sNitRsuS1AhC%2F1IMEpL0EgdZFneQbB%2FlAWpArcbnD7fa1C1sxaJwXWg396k%2FvIyeg3HofEQ29pw8rfI0DhvkSBn08gZ0EH1plb2IuN7N6eHSctmO%2BoQFOUwnSG7U2qYyRI8GJXWPM4kAIQ%2F4Q%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F7513b45195f311ca334a3b9c2971bbbf%2Fall__4_.pdf)
 
 #### Reactions
 - **Number of likes:** 1
@@ -4012,7 +4015,7 @@
 ### 22. Post 22
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/26278ae6f08c1f4ff4de32c7e976e8fb/all_4_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aFqDmrT3dQNhS%2BNb0lm%2BLzW3jtC%2F%2FmpPzKtiGDT9x34VTr5UPjwhK7QsqSfxIkfZGd6eXGyVEKzakHK13SOyEtBUw4VJYTlwcp304xgTC7QZtZ7gjMxszQ4TcbvJpYvxPnOCvCsOJ8T9cC%2BA2qEiH5oOqgXMxfGTKa2erndMgx4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F26278ae6f08c1f4ff4de32c7e976e8fb%2Fall_4_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/26278ae6f08c1f4ff4de32c7e976e8fb/all_4_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=n9aNsBgDrVPoan9c3kuFZGBqu7Q9XIVRsIyyw8TfJWQZMJGp8SJ0Pj1%2FuMX3xPqhT6emeMmclSIYLYcb0Fstg0fGMNs0zi8BpqKZPvkeEkvGVaDRqfzvZDwoaUu6GaNkqZmZrfMkg8Z3tAU2H5sBsJDv47vArLHNe6qyi63iUnA%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F26278ae6f08c1f4ff4de32c7e976e8fb%2Fall_4_.pdf)
 
 #### Comments (1)
 - **Riur🐾** (Jun 27, 2025 10:22am): らぶっす
@@ -4030,7 +4033,7 @@
 ### 23. Post 23
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/755b83ff8c4f943c751edac9b6d42ddf/__________2.zip?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cj8Qk3VOhHnv6EwV7oQqjZJ6%2FfRg6gSfKu0W3NfCMDJdaJFxO619fNyeLQNmnAt92i4Udgb6e%2B%2Fo2QjE%2Fw%2BPMC%2FFKirEXlA64qOvy%2B8ZqsuXL2ABbva9zWS9YRBZzrudqZgAwcfTQGuFunuoFXZs6G3J2r3n4YE7CN2v17bFDg8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F755b83ff8c4f943c751edac9b6d42ddf%2F__________2.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/755b83ff8c4f943c751edac9b6d42ddf/__________2.zip?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vp1HB20vvEbNJnp%2B7vkIrep2Rnff3b5stT%2FE9DX%2BLSItJeboEK0GQzyoO4OzrpAqN%2BSadO8OIOSPljjLAm%2FuIUgaJ%2BIo%2FPzPdJORrF8aKMbK1zzmAm3U9vRT4Ej5Td8an9u7lB85GrX0e1vWk7N2JjE43QFCLd40biYPMajqNIM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F755b83ff8c4f943c751edac9b6d42ddf%2F__________2.zip)
 
 #### Comments (3)
 - **受験諦めたただのカス** (Jun 04, 2025 06:33am): zipじゃなくてpdfにしてほしいな
@@ -4047,7 +4050,7 @@
 ### 24. Post 24
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/d131ba19792411fc87c2368704eca8b8/_____.zip?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sNpOib6Gmq8dbz709n2%2Fmkw3Hq%2FIRQlt5pLLM5EZ%2FKgXLK5rCjSaAlIwvl2GEDRXrIE6U6GfKa9gpeifqzZZUxRJ%2BfGIbt%2FHqsZestFl%2FFa05ai4uS5AI0NmfH60m1Zz%2FxrBzSgFXQFGeLozBil7YrswuMCuqQmfG9O21wGXITA%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fd131ba19792411fc87c2368704eca8b8%2F_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/d131ba19792411fc87c2368704eca8b8/_____.zip?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wxM3KTz0YFot3MAQpvbvIauWtwLo67Gsn9tHvgCyeJINn9yGP45aVHxmsXNjFL3L3NVdepXsCe2AXrHSnNNUmAzhw40xbfMHjupy96C%2BKriJvmKPjbY%2FzZKHBLQ%2FJ7w1SXPMoe3YThq6mpYzkxXva%2B%2B%2ByfT2CBp26P%2FmrY8LjAI%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fd131ba19792411fc87c2368704eca8b8%2F_____.zip)
 
 #### Additional Information
 - **Post color:** White
@@ -4059,7 +4062,7 @@
 ### 25. Post 25
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/869e0f9c54fcf0ef600935519600ca5e/_____.zip?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CoUc14zv4URFGBvDpbU%2BDg0qaliyeiqYvNn33XIhwLUScZax4I4FuzdsBCCTVl5%2BVNX0gNHcjeUwMsluz6emOAiHNyYuHjCCzr%2BFdFJmVt0hTHwGgFaRtMLGjSddSsVLCgwm5ZrPcUDwdpjx9DRqtGUXfmeNKHNK88OdoRZTdis%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F869e0f9c54fcf0ef600935519600ca5e%2F_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/869e0f9c54fcf0ef600935519600ca5e/_____.zip?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Y8acdySoPtHt%2Fh50TpvRdHtWt86ASMAJ2DhD3Cfa9n%2B%2B3WF%2FCfnsZyquQ0YUPk6bmFx3Nsn2fnMPC%2Fcg5jWK57bwVWf5vEdzQ%2FqD%2BwzvJbWZviXalDiyf6BF3tJumnLJkfsTsSVtv869FZ0ofFI351pEBpD3q6ct2bOwq%2Fn%2FLQk%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F869e0f9c54fcf0ef600935519600ca5e%2F_____.zip)
 
 #### Additional Information
 - **Post color:** White
@@ -4071,7 +4074,7 @@
 ### 26. Post 26
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/cee64a34237e1f4c42a9e318311473c5/___.zip?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xB5QRpuSmQbjZUd6U8IeMYHiBbhRn2tJnm8wFM%2Fk%2FZGm%2FnFYaJYtdIHnNg38tJKWvRiqLe35k1q4fO29xRcE2%2FGRf6rOmRyo7L2TULkbHoVSS3kmBBYONxxq5p4lAMG72D%2FuixWsUXtJpk8evHrublFvwilBcW5Wa3jgDA0KVpg%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fcee64a34237e1f4c42a9e318311473c5%2F___.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/cee64a34237e1f4c42a9e318311473c5/___.zip?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=oQ%2BeM5Ree1i6ADxX7PMRy%2BGEvGYXsq%2BUFiSQECM8FfsVgAJMwj1X4%2FdoGNsOCa8ORwIfWRjnzPoN80PZtiPkNxkszE9e68DbBh9yQ3lGYkAKWBSpJ5Tp%2FH%2BPoY8efhkzht1BUipljsQ5rBeE1eKA2tpHAwubqw0VirKgV5ykrYA%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fcee64a34237e1f4c42a9e318311473c5%2F___.zip)
 
 #### Additional Information
 - **Post color:** White
@@ -4083,7 +4086,7 @@
 ### 27. Post 27
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/43809895ef5150e370e3def8afc790ea/____________.zip?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DWl6yQWUVdkX5v8BYhKzAu3Gn6sKmpG0rArfHG0jpVmWBkfxbP9PHzxSxa2UGep3J7FjMqD2yO7x8BfdBqKXA1E0cDw%2Bgn8eXfkb0tKzPjKcDvzI4xhd2wdJvumNR%2F6KkmcghJv2DlgA5kPD%2FsObwVefKQ0%2BYolVi0QYDbYcRFk%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F43809895ef5150e370e3def8afc790ea%2F____________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/43809895ef5150e370e3def8afc790ea/____________.zip?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SSUiDnn8BfIS2L08FKzHyU3ImRFS%2B7KBFth9RZpHd1lqk1AabjsSuGtcUBnRU1LxxvH64c8lE61gfWkbVEIkhOY7NkF1iyYxKcha4i8XGOSKyBoRzJOTDNyRmVUhRqa9G2gpF%2F4snWirhTRm3W9fJPhP0R3%2FYLoACSNfIQ%2F32SE%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F43809895ef5150e370e3def8afc790ea%2F____________.zip)
 
 #### Comments (5)
 - **Unusual Armadillo** (Apr 27, 2025 12:37am): ヒロアカも欲しいな
@@ -4102,7 +4105,7 @@
 ### 28. Post 28
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/34a889fa6553a5b2e067fe7b5fba5b51/all__63_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GsFkJpvaduPYpbZME1v2Ptzjtfb0mWmRfSxc1nR96GplX09RBlcxVEGLTTMU5tx%2BipNJ%2FbZVR2OZchGlV1RZZGugiXCDrnxzigdte%2FnCF7WN9%2FHh%2BXoiGhdwChIjQCPezS5K7owtXbljxW8bRvaT9WbXrnymOFjO9PZyroc8GjY%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F34a889fa6553a5b2e067fe7b5fba5b51%2Fall__63_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/34a889fa6553a5b2e067fe7b5fba5b51/all__63_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZK6PUmoYHFzMXC0JUzK46G1%2FBdTT%2FwpPluZ1FpWiRE2njn%2FABHDaZYTW4a5TpCdaQpwgWh7GpWKkN0%2BKRkFnaD3WMZhbTTy522KYoVq9fm%2F0cRDhNnuW7zqEt2mLlLE5NDhVVkiQZVHx%2FGK%2ByIRZwA%2FJ0HdjArPNyfieMn8E8vs%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F34a889fa6553a5b2e067fe7b5fba5b51%2Fall__63_.pdf)
 
 #### Reactions
 - **Number of likes:** 2
@@ -4117,7 +4120,7 @@
 ### 29. Post 29
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/15f82293e778d07bed4620e39d1831e4/Screenshot_2025_01_20_16_30_57____________.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=j1hDCeIIE3DJFyC3nnhX3W2XtpVhvhY1cgBCx51jkOzcS5t6eTjHe%2FdmJ3S4o%2FrQsakGPCmSfqn3mFEk9kuxxE0FASUe2ND3nvaSZnPNWlt4oTdmOiQjUV2JkoswzIasJBDXwd4fjXr7LOZAnzGfPj57k2SgEOLVQxTD7vMTPh4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F15f82293e778d07bed4620e39d1831e4%2FScreenshot_2025_01_20_16_30_57____________.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/15f82293e778d07bed4620e39d1831e4/Screenshot_2025_01_20_16_30_57____________.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pvTWlKlqjxAH8kN2DfYGQzbNV8fX5eS1b0ziyCbuMv6Sdk68iJ9vlSovi79KfOnzkDEFNDsfGdYzxBiTzysaE6nNhJ42Cna12zl7ijr242FsuZods9tdngAD6dkreJB%2FvBoO4YB8gakHxJmWU3yO7Qu96n1TDsE3Bz6W6N%2FDltA%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F15f82293e778d07bed4620e39d1831e4%2FScreenshot_2025_01_20_16_30_57____________.pdf)
 
 #### Reactions
 - **Number of likes:** 1
@@ -4132,7 +4135,7 @@
 ### 30. Post 30
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/8258791163d7071ac3f84e014e466bbc/all__65_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gnk83OMWMm6McJp4Rt9O97sQ0xu0mOB7tCv5deiUXqPctQNjrH94ORkVe%2Bk5Q1JvWC5Rk6F0Kt51YHzY9N4DkLI3XBLwvEijqPz2HVF456RhqQo0jWc1GETz5X9EHfhQ7UfznBhvAFOlwddIy6VTS26AIoStWBx2satOWZel9kE%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F8258791163d7071ac3f84e014e466bbc%2Fall__65_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/8258791163d7071ac3f84e014e466bbc/all__65_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=evgAZqsdxEWFYjxrrUksCV%2FdVqCDg5OkFHUte6p197bGLlD83Gm%2B8VSI%2BM2P3NSdJxFtYUbw9QqL%2BseWTcpLq4CBHAyyFsHBqgh5vUwHOqGSXqPSHSUeIoOKwWAJGojZgc4Z6kmgzGHunMdPwf%2Fgm8%2Foc0i%2B4HnsQqSEQUizTuo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F8258791163d7071ac3f84e014e466bbc%2Fall__65_.pdf)
 
 #### Comments (1)
 - **削除済みユーザー** (Mar 09, 2025 10:48am): 🦆ってエロいの好きなんや…
@@ -4150,7 +4153,7 @@
 ### 31. Post 31
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/e610f8ed2c1e24b1d48fcfa6eb367e71/all__64_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wm3%2FngWXHjySRfdsR2KByDbFP88nvur%2BQDmzWon%2F5uLg%2B%2FroYATBm3Mjsqz5bGYftlXWTqXgepSjnoVfz2lVjv%2Fbs%2FQulDR3ojrLP7Kqnxlxmzi9bQ2FekYZMeo24ql1QQ%2FcyLHnNhKtQLZmo0AOhQFhJmnR8xySoCxxMXzSh%2BE%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fe610f8ed2c1e24b1d48fcfa6eb367e71%2Fall__64_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/e610f8ed2c1e24b1d48fcfa6eb367e71/all__64_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NR%2FSZ%2Fd0VO16G9ph%2BqfkbXuM6Jiue%2FHrTrzOKinRm0ilsReuqPkZZpzI%2BhWUA8vfeZtq31VjPx5tUcN%2F3ZZK0sNZF9Lk%2FzoZ6EBYCw9Wv%2FoIj2Eid5rf8N0z2OzFsnt5zs%2F4O77H5Qk0SLai3ZjTSN884Rm1T3CN%2Fhrfw8h6DLQ%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fe610f8ed2c1e24b1d48fcfa6eb367e71%2Fall__64_.pdf)
 
 #### Reactions
 - **Number of likes:** 2
@@ -4165,7 +4168,7 @@
 ### 32. Post 32
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/3b23433190e499596aa867bfba58d3d8/all_3.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RuYSUgpx%2FVlNMksf2eoFB1p3zCJG1%2FWPOhwwWBBEqyK4f7xNaQCZGBX0FTat%2Bf%2Fa2EOLEy0INLITCvQct7tdmOgKwmERqoFySahz33e45nES24pUwxfQ171sbxkmFNuvex0ZWVTaUGKOnTpYaX5hLReOLqeMDMwKGjHfMcNrFgk%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F3b23433190e499596aa867bfba58d3d8%2Fall_3.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/3b23433190e499596aa867bfba58d3d8/all_3.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2SxjhABr6lQRlTR5%2FEnyzsO6dU%2BYk4LtOqeLSbsUf3fcq1G7Chcyy8WjgSnpDjbSfXy1oCzBhIafxAU8IHGVZuDaFFOHVdg8lgyVlTdoC2x6SK6uGI7Bsi0HtQUTwNrIUKohhVmzUdVh7DBcSUwgf%2Bk9U6tfRee757b8o7WDk5E%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F3b23433190e499596aa867bfba58d3d8%2Fall_3.pdf)
 
 #### Reactions
 - **Number of likes:** 2
@@ -4180,7 +4183,7 @@
 ### 33. Post 33
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/6e3220aeb8fa1cc99ae07447ef883a85/all.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lCz6QAmB3bQfzzHxIqwGhdhKXZpbQihfsZ3PPzjEXoTRJg5LdYueXq0U7hBb6EULxJfME7gEI1G%2FxcXxavVj0%2B69YVEGey%2BBaSXkfyOGgHfhxbNdiuZKQ5I9BiGQRsaYqQ7%2BTlGdZTe2kW150pwQUrm9st8aPasonCvp0gyFRmg%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F6e3220aeb8fa1cc99ae07447ef883a85%2Fall.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/6e3220aeb8fa1cc99ae07447ef883a85/all.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mdcvSiQbKQJKMrdl2jNMute7fxIthxJne2gFzqqi%2FYv41G7MGTcgUpO%2BlHMTyjNNYRcgJzUIyJbqUqtiilMec9vNG7GPnePvBcfkxcUZqslnJ29PGS9A%2BST9sjMhCuuRzM2GVGHTqbY1AMKItInqmFZdE5SfI9RqAVUrKZaF7Jc%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F6e3220aeb8fa1cc99ae07447ef883a85%2Fall.pdf)
 
 #### Reactions
 - **Number of likes:** 2
@@ -4195,7 +4198,7 @@
 ### 34. Post 34
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/807e7629491a08ef3f631fdb47863598/IMG_4851.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=43HzfWvIiQAVehCnvvBklEp89L7zWnpGxnSN3TodfDqCohwAWKMQLA3FIeBC0wyw9J2Q1mwQGqFFRV0ZlJMbycOQY5C1Din7nIGgoBzDmyjzvsh1onjrnQXEKblZRMlmNaXSHh2YwDbilXs6Sy%2BENYQO4yuVTJNkeigRfybLXrk%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F807e7629491a08ef3f631fdb47863598%2FIMG_4851.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/807e7629491a08ef3f631fdb47863598/IMG_4851.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uptmqQk%2FCjnbXNGJIqe9tdGInOrtKsScgKRPKqg%2BtOVCp1tFkPRe5zLiH6se0F3JxOXTv9EJgNbTRg55FI0ayMzuxpEWLZjMhQwTPwDrkC7sIpoxBcsK0Dgow2w27Wltfq%2F6%2BMdMJkVYwZE5MYQ3ohX2ZGRZIys9OPDr%2FV0wGXU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F807e7629491a08ef3f631fdb47863598%2FIMG_4851.pdf)
 
 #### Reactions
 - **Number of likes:** 1
@@ -4210,7 +4213,7 @@
 ### 35. Post 35
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/83db94a6755e8142d8c79b19e8558602/all__12_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=K9abDCko7UrLZJbWG7pbTTLUJo4VnqKmDA8%2FHrLRj7TUnm1EYOFCH6bL58ut72LJAi9UKEY0cs%2FEVYM6abM8G328gxyM8vjVfXibUzEElmUswifsjGjYVEydXPI5UHs5Xoa6xc8PbgxukbbQh9%2BVU0OlZs6MvnRY1c0dPGCgA5s%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F83db94a6755e8142d8c79b19e8558602%2Fall__12_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/83db94a6755e8142d8c79b19e8558602/all__12_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=s0uFhdJ1eThPJaRSnFWHJWZGnJNFKfp6mmdq30iGVbc5v0AKkZeLAkFXSdHzB7Sv8N1E%2FH8FZLdJKVfwoMEYSOQEgj5hGtYtKWvPUabnBERFQ1wbXNyFAM2vj%2FM9Xc83nfP8QPbdna3ug273sHpIgHG6gVX%2F%2Be2dOZwuDMIWNGc%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F83db94a6755e8142d8c79b19e8558602%2Fall__12_.pdf)
 
 #### Additional Information
 - **Post color:** White
@@ -4222,7 +4225,7 @@
 ### 36. Post 36
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/368e3d7a991e0d508ff266e792d6a521/all__15_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6X87ZowuEuqVK1K0llgeEe%2BHbryQYvObnTQHaPfmeiu%2FH03eKK4b2AHMoNYUuXeAAndADUbSqwDSmrWVGCSWCeH2S%2BzXp0nQLFKyojYCGypy0HO37WR3Rv8KmlBiDNDS7EHmq%2FTJi9dhn2HPAWdQniQGoDLzubndo4bmB2VryAI%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F368e3d7a991e0d508ff266e792d6a521%2Fall__15_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/368e3d7a991e0d508ff266e792d6a521/all__15_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rnxW2LjFVI%2BllLXvEGnFgVziJpAfudegRQMmkeb15t55EpcB4rE4lN%2B7oBowrfUj6wkahBSGd%2FvEfgmjWIx44C5JOOQSDRDxRHhpn9O%2FWicO7IeQXZ8OPMc6V5B2WQ8nl11o5nP11Q48N6%2BUPcKy9NRrmPjCHakkOWEA7fMgPAs%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F368e3d7a991e0d508ff266e792d6a521%2Fall__15_.pdf)
 
 #### Additional Information
 - **Post color:** White
@@ -4234,7 +4237,7 @@
 ### 37. Post 37
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/2005f9cf198ac1406c00ae23e0e7ddce/all__19_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jrs1Se%2FZQeBPMeTtvgxyl8bQvd%2BNppiCLOPyuuWoXV%2FzwaPNBr%2FiQFoypyuDG9BoGvZirgo5xigq9abEZnXRqkm5b6Db16MAPpetTjkkxoSX4Sc6n5xD1pB28ebG9%2BH%2B%2FHW2QsUeHMnouYcaqUSVhuROXJfzAnzx%2FqU7m2r9d%2BE%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F2005f9cf198ac1406c00ae23e0e7ddce%2Fall__19_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/2005f9cf198ac1406c00ae23e0e7ddce/all__19_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=b%2FSHJHB49zVrongCHE6TGDwwxNpxSkOYV0G6Io3thrhrv4Xh1reRPbvVwWCwcd9gJ9KOvqiDTDEgseqsY%2BEBYBuJfW4BvXJaPlzOkby3ybx1qL03KH720g88hswJAzMCCGByEw9nt51ePCXfro2D9iLAhocoprm36KZDl5wCmXM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F2005f9cf198ac1406c00ae23e0e7ddce%2Fall__19_.pdf)
 
 #### Additional Information
 - **Post color:** White
@@ -4246,7 +4249,7 @@
 ### 38. Post 38
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/805097253e867416af19eab7c865b462/all__59_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hyPY4FVDmYz1DKt0C%2FBCaR1sDN11NeTpuAI0iNqzAUIvmZdm4xm0TnVX9rBBPlYvo948J6stFtJ6e8dPe%2FEDc2c%2Fp2dORshXLaUh3ewAzmdgwR%2BfFcbBKJxHvO%2FbYhSmmm8xh4eupEycfSvs99kBcZisQS4nqYppAOSvFwRbQ4Y%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F805097253e867416af19eab7c865b462%2Fall__59_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/805097253e867416af19eab7c865b462/all__59_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qgIsvAvbRh1wYZ6EQySqGN5tUubBYFu5G7s%2BWORGpE2%2BNBIpiZXuxukfQD63tBBTV4KAjRiV88AkTiiJ4VRRadNT6rVtQpFFJ%2FaS6k96k4s7yCiu25aa04j1cUPbyMVvZU3WuVWDvzHW%2FLtsBi8M5exBwg3cla2lryDcPH2Cq5w%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F805097253e867416af19eab7c865b462%2Fall__59_.pdf)
 
 #### Additional Information
 - **Post color:** White
@@ -4258,7 +4261,7 @@
 ### 39. Post 39
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/1c95da9c7c290cb0ee60b9d4209fba69/all__62_.pdf?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=omk5pzVyNjs8hUzUQDw%2F6S6RqdQcWWpyrl4oTZmXeFzJWba4cYKNo9Q26lkLXxXZrvLiMy%2Fkr8FFyc1mNKT23xhHaeFCx6u31hlmfHvWVYKT5SABc%2BQSGnt9Kxca10szM7lFoGkidyoxOf6hIBdhdT6XOpRH3kYZu0%2B868VFQfo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F1c95da9c7c290cb0ee60b9d4209fba69%2Fall__62_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/1c95da9c7c290cb0ee60b9d4209fba69/all__62_.pdf?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=i5pKvAHTQStwYiL4%2B1TTNSCrqXYIqSTi2ljOE25pAYkS%2FNq7UQ%2BZqv1OK2g5l9%2B5KELLPYnH5iPdmpXslglUh2uqrjV8aa%2Bt7uCpN0RJuCMhMw0KL2QKODRd%2Fyo33MVeWWbkjrx2et7bJOKlPM6wyTx6Lv2hPY%2BWmmuDQMWJxnY%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F1c95da9c7c290cb0ee60b9d4209fba69%2Fall__62_.pdf)
 
 #### Comments (8)
 - **❘ QuqzL ❘ ⊱IABJ⊰ ❘** (Nov 03, 2025 11:24am): おやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れる
@@ -4370,7 +4373,7 @@
 ### 2. Post 2
 **Author:** ダック🦆 (85044200)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/4ca8feae452792b9c0da4153cd363652/4e050aedeb849585.jpeg?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0n2rTMTLPMILIseUsjiIV7IKxN25SIgk%2FO3gl6TypXpENQR4z5jfEwFIRift%2BcMdJDJKeSuXh8zxX4jSraKqE1lmtpPX81xJ1i%2FRQZLVo6kB%2FGGSoy%2BMfk7lypw3qXBE%2BQhgPN%2B%2BEJXVhOa1%2FlilWmGcTayBOq0B%2FC6MkH6QjYs%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F4ca8feae452792b9c0da4153cd363652%2F4e050aedeb849585.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/4ca8feae452792b9c0da4153cd363652/4e050aedeb849585.jpeg?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BUSBemH4uTrGarg23wHTowh9biKx6NR7PUAaNViGgZbUjHElPCwN4lgu3J6r2VX7KM9mPB3TwHsBwrSUs00NBCfvAuOkmd%2BF8F1n5eizymzDUd8pd9pINN2BmwTTvaO9EMW6YtvpetI0wrHAGSVyMvkY8AOFTMXxxBnSOyPcoK4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F4ca8feae452792b9c0da4153cd363652%2F4e050aedeb849585.jpeg)
 
 #### Comments (13)
 - **ちむ** (May 31, 2025 02:45pm): 114514じゃねぇよ
@@ -4400,7 +4403,7 @@
 ### 3. Post 3
 **Author:** ダック🦆 (85044200)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/131c8a0ec749d0547266c7b744a57e1c/122894554_p11_master1200.png?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VJn9d4gpAKmqefGFfceQtWDrRwiidR%2FNDzsTAlfU4IIA9N3hU9wc%2BHYmJ6IObNtuV2sl0ll2mssCTZDFxoh%2BDwuz0Zofy57KWdIct6U9Z2SCpN6hl5Q1kWZBSXHHZ7afFY0dMMWd%2FRgzCkINpxbmctoAC9eeo2U%2FxAcXStqDKsI%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F131c8a0ec749d0547266c7b744a57e1c%2F122894554_p11_master1200.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/131c8a0ec749d0547266c7b744a57e1c/122894554_p11_master1200.png?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BXqv2oZ%2FK9bU9f%2FOWm5XVjKmQ0eKzn%2BTNL8UrbS3BPVJAZgN2QJyxVe8a8kwhvsqAylRIokpOk8g0PRpuUvHlfacMaUYeGe5xv07jKCva9VPKsu7I6LwnhHFjIhue1cV62LmnuH37qB1Z3%2F%2BNUQFumS%2BRZQuJadsoHl0Wq9YFe8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F131c8a0ec749d0547266c7b744a57e1c%2F122894554_p11_master1200.png)
 
 #### Reactions
 - **Number of likes:** 3
@@ -4415,7 +4418,7 @@
 ### 4. Post 4
 **Author:** ダック🦆 (koregahonmono)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/396ce35943385f002275ca549042189b/189.webp?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6Mfw66%2BPwhcU4SG7Yfm0YrSenWfkukXqSIy7XIrslv7XfsLwgdx%2FQya4%2FYrS1U5MBGGEynH4FAa4bygGJzS9rK0150TrNAbcT1l3TJsi1sSq4zOPjwuzx1KTvIB1M7fQHmlJLDufSMOUYKIiLdTg%2FlGmeKFyWW49a%2B2lylEExKI%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F396ce35943385f002275ca549042189b%2F189.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/396ce35943385f002275ca549042189b/189.webp?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ttxw8x6YgcfXBHhXFdKApJJr8DVENq%2BW92t1AEfXTnxtJfU8OSwNDfHOKLABBZeIxwUZVw6BICCi8X%2BHCg5XzuQuKL8ChfbG57Iu7lFmx%2BxbIEKL9RJn4zszHwJZvJuwzjEtLV3OVOEKncOsNLWhTYybuwP6SkjEyAdqK1Ul9RM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F396ce35943385f002275ca549042189b%2F189.webp)
 
 #### Comments (1)
 - **Confident Tilapia** (Jul 17, 2025 12:42pm): 俺もされたい
@@ -4433,7 +4436,7 @@
 ### 5. Post 5
 **Author:** ダック🦆 (koregahonmono)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/ebf0120c8a6c460cc115115f2a62e645/186.webp?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JGVU%2Bxz5pvjfDpV%2FKKCb8cfbzapTVIw45maVFTIvIUgjZWy7Pr8Mf%2FpJqqfp23GwrzSAT%2BMJT9C6xb%2FX9b9a4v%2FbQNogwaSJZ21SHkT0icSBLcdc4WctkkPAwd%2FTqvEGFEurKaqS%2B1xqOLq7LI%2F787kPfI5BzOpZtMWWqaY%2FhJE%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Febf0120c8a6c460cc115115f2a62e645%2F186.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/ebf0120c8a6c460cc115115f2a62e645/186.webp?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uFuxKFVYUPA0HZc7VyqxgNdxMYzrQHRmwYblYIFP6pM39tVaj40ZPYtWgD7g2%2Bm7bpR%2FVnPK5E239FieMBvDiDiCumkV7yFdNvqYIO5icX9JqzI%2F8czAp2vAyqXpn%2BTFFMg%2F6cLuQG9iAlyNnRu3Pxsh%2F9rdcjoscvzWPzDA8KI%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Febf0120c8a6c460cc115115f2a62e645%2F186.webp)
 
 #### Comments (2)
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (Jun 08, 2025 09:57pm): これウイさんがみたらどうなるんだろ
@@ -4452,7 +4455,7 @@
 ### 6. Post 6
 **Author:** ダック🦆 (koregahonmono)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/706553ce22b714f9f435c5b527e9d9d1/190.webp?Expires=1775811404&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=J42P9ZeN7275yIthXNcSXMvZQifdm%2FserhnqGpxP%2FTQc%2F2hs11MkoPFxBdsDM1tU3BZUtRxL7cjImby3waQ9Rl6Dvbzzo%2FIcCqbN9LXvi1mB0w2fBi2SGOCYwxdAA2D7vAS9EHuZRqrQXakneA6UMFL6AO8qH4Nxy8t0%2BCyTWcc%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F706553ce22b714f9f435c5b527e9d9d1%2F190.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/706553ce22b714f9f435c5b527e9d9d1/190.webp?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bb%2FwEVvdMMmOVWDw95Be%2Bnz1CTwsCKscrULTF0DUlQQdNc48ljDEF%2BCMSaz8pvgyAkXREEiAaLet94ZiHyOTZUKeNSg0BoszEEDDCdZSStXVZD%2FHAoE4aErmkbX8WaYmEHmg6akinVGK4FH3UJQE3QGmISA5M7Ldx8W2wvdJ%2Feg%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F706553ce22b714f9f435c5b527e9d9d1%2F190.webp)
 
 #### Reactions
 - **Number of likes:** 2
@@ -4467,7 +4470,7 @@
 ### 7. Post 7
 **Author:** ダック🦆 (koregahonmono)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/46ddb1c06304cf9e64109fd6ed5ce3e7/193.webp?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zvYft8CPc7%2Fbx%2FDUDCc12NCuZpGMl5VE2%2B58RFOosyidfwR5SDi%2BddX63lyv5pTi%2BgQz6ZY8i%2F1NJKU0dVHNVJsbsfZ9Dr4TDg4UINVcbWVs0ZbZugO3l9GCRJTlBwXdh8PZ%2BDPtk2nEhOrQqwSO75I8kNCXguCj75l40rZmctg%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F46ddb1c06304cf9e64109fd6ed5ce3e7%2F193.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/46ddb1c06304cf9e64109fd6ed5ce3e7/193.webp?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=C%2B%2BjwxAQ6e1VSxg42Pe6t9AXknfb3x9mAzfnAYV3w%2BCHvb4UkQ05DZmpsnAsP1ZgvDg8Bq29V6Tsaq0UB8jNKgbAbpcFgmTn2J1kP1lP4nC4WngQPBvgyEfKeQOREPZB2FHpA%2BZKJ3pxuO3RupC%2B7u7EtaZlpIqcvM1StoNOa%2F4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F46ddb1c06304cf9e64109fd6ed5ce3e7%2F193.webp)
 
 #### Comments (3)
 - **Confident Tilapia** (Jul 17, 2025 12:42pm): キモ
@@ -4500,7 +4503,7 @@
 - **Studious Kookaburra** (Sep 18, 2025 12:32am):   
 - **Studious Kookaburra** (Sep 18, 2025 12:33am): ああ  2いうえwhふぃうhwdcんwcにjwdんcじうぇn
 - **削除済みユーザー** (Oct 04, 2025 04:48am): 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-- **まふいん！（天才）のーまるの師匠 ”自称天才と自意識過剰”　るるる　バルコク共和国の大統領＃の親友　りぃ大好き** (Oct 05, 2025 07:34am): 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+- **まふいん！ ”自称天才と自意識過剰”　むめい0番弟子　　　　るるるの親友#りぃ大好き** (Oct 05, 2025 07:34am): 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - **フィアちゃん❕❕　腹黒天使にゃん❤** (Oct 17, 2025 06:59pm): r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅx҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊
 - **フィアちゃん❕❕　腹黒天使にゃん❤** (Oct 17, 2025 06:59pm): r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅx҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊
 - **フィアちゃん❕❕　腹黒天使にゃん❤** (Oct 17, 2025 06:59pm): r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅx҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊
@@ -4603,7 +4606,7 @@
 ### 2. Post 2
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2863200253/1b36f8c0cc4477912c9706dfc3807dc5/jc__4__2.MP4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=m%2BX912thy14QJ7w8kJdQyZ3UBdxo0p3snsyXEQQgyHiQDuh4HhXxVEveSCVdhPuTKC8xVH64VF9sh7mHrNI2xOVFJYi69NSq65H3vfUEWB%2BekE%2BwzYXXMiFEmBbxzQLaybE9skfed1p%2BTzwwzimZ4jSu5KAS%2Fjvo30cZ912sotQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2863200253%2F1b36f8c0cc4477912c9706dfc3807dc5%2Fjc__4__2.MP4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2863200253/1b36f8c0cc4477912c9706dfc3807dc5/jc__4__2.MP4?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cPFFdQD6KshQ4LMYHfaQtT8zZOa3xsd8favBu4APKWHTlPC%2FqGqMe4pi%2BkOrobwkQl0KeWcImTZKKeJu0%2FCwv7A2FG%2F1GcoD5hXhNm%2BhA1EqpcjRcCPIvqChIkOrW7jqjj0wqj0tojS1CYnmwFl96AzDEGvWt79Gtavf1rpxjF4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2863200253%2F1b36f8c0cc4477912c9706dfc3807dc5%2Fjc__4__2.MP4)
 
 #### Comments (13)
 - **まろ** (Sep 03, 2025 12:28pm): 死ぬほどリア友に似てるんやが、、えこれガチかもしれん、、
@@ -4633,7 +4636,7 @@
 ### 3. Post 3
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2863200253/dd9ef37a54faf4596cbe4773fbfe983a/jc__38__2.MP4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WQOmk8k8NDCZGcWATHkEtawMKo4AIsAyJpy%2BKbjcPWp8Hl0NaRu0aYgOB3YjfNwV0yjj9hTRsWBUxO6DYdUCpJo344CKgbKrh8PXJOcIcQTYlh3ysYD7c1uu4AJUlMZ9PDGvMDEffpiv4KOvp1OvRPd9lK09GAPx6GeLRQwLkj8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2863200253%2Fdd9ef37a54faf4596cbe4773fbfe983a%2Fjc__38__2.MP4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2863200253/dd9ef37a54faf4596cbe4773fbfe983a/jc__38__2.MP4?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kcuRbqzcqmslewnE4OtQfhLy4Z7ysbfFvFjMJV0lr61u1HpUJHlzG9txFeYikwYyfcaecltacJOKo82o7xd2c4EddM%2BDjsbDshqU4ztsXU2K2V10sW%2BrvE3q%2Bj8qRoF6Om7YGyDLZ2pWoA9Sb9hHmI%2FK8HtmMS947PqhirwBKLk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2863200253%2Fdd9ef37a54faf4596cbe4773fbfe983a%2Fjc__38__2.MP4)
 
 #### Comments (14)
 - **健全なる＿わっふる　初代人生賢者タイム族族長　#無の境地　#叡智　#博愛　#智愛　#聡明　#出藍** (Sep 03, 2025 10:24am): あざ
@@ -4664,7 +4667,7 @@
 ### 4. 耳弱い人向け音声（ちなみに私はやばい、聞き終わるまでにﾋﾞﾁｮｯﾋﾞﾁｮ♡になった…）
 **Author:** Riur🐾 (siromaro)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2425103363/166d55594fcc49a8e4d3b54e988d45ab/videoplayback___2025_07_05T010513_360.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=B09Bcb%2BXcXpaX8OIqbSwSkFX4YTDSj1SiBL3hH%2Bk1GZfWvVJK1W8GrfAoxxByCU0euYzUOa0KR8sz8poMi9hK%2ByABwM49c7lFGHkvLCOtb%2BC%2FRtKyinHEcBz3LyXHF1pWd9EgykSVKiy5E4UXjd0zB7jb5Tz%2Fw1Ywc%2Fa8wiOhXk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2425103363%2F166d55594fcc49a8e4d3b54e988d45ab%2Fvideoplayback___2025_07_05T010513_360.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2425103363/166d55594fcc49a8e4d3b54e988d45ab/videoplayback___2025_07_05T010513_360.mp4?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1WfYUh0TqDeW%2Biy%2FShHgC8R%2Ffek3wYXijjFWkIq%2F4UsfXrpndun9qK5sRHAU066ZoLHscCvFz%2FKRgxqBkcT0UvmXUuT7OLUpxX4xumh%2FTrXp0K9rBPOLN6unzdi%2BKANXvPJtY6xF1GLm5x81r81qRydB1ywu27Ruk7rSqUzAQkw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2425103363%2F166d55594fcc49a8e4d3b54e988d45ab%2Fvideoplayback___2025_07_05T010513_360.mp4)
 
 #### Comments (7)
 - **ピコ** (Jul 16, 2025 12:55am): そうかなー
@@ -4685,10 +4688,10 @@
 ### 5. Post 5
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/249e5af0f3314178d3adff827bfea346/First_10.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AuG8%2FVS07jIH5OgDYGkp%2FRU4cAoE0uOVm09gHuIlAvy5Vpwxs0A3fYrl42lAaNQCigiYMlcbd0VbEvi4vRJVK5VSxbxmDgckctMkuT7u0uhZq5KL9sJRUr%2FeDCggqLRA64jal199Jg%2Ff%2F67i3MklQabMxI%2BTGuxgyh35MOOiUOw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2F249e5af0f3314178d3adff827bfea346%2FFirst_10.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/249e5af0f3314178d3adff827bfea346/First_10.mov?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=C6m4SoCZYDfqsceg4IribGiEjryEVBlAXDmzZ3x915CiBo5fC49rl%2FVUxAKg9fvPgoQpMDOfcZRxqnDzKe3FrPfulp0LkwT39tXGozQfTm5h8o%2BbTRh5I%2BN15cb6Masb0E6S5eeEqpfVOejw8gE4BbRlwZdwmvmvsZqGiaULyhk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2F249e5af0f3314178d3adff827bfea346%2FFirst_10.mov)
 
 #### Comments (8)
-- **༼♱𝙕𝙞𝙩𝙚𝙣𝙨𝙮𝙖♱༽** (Jun 19, 2025 04:36am): この女子はどんな気持ちで取っているのだ？
+- **♱𝙕𝙞𝙩𝙚𝙣𝙨𝙮𝙖♱** (Jun 19, 2025 04:36am): この女子はどんな気持ちで取っているのだ？
 - **あさん** (Jun 23, 2025 02:04pm): 自己顕示欲の塊なんやろな
 - **Riur🐾** (Jun 27, 2025 09:49am): …この子知ってるんだが…（リア友）
 - **꒰ঌからあげだっぞ໒꒱** (Jun 27, 2025 09:57am): 誘ってみ
@@ -4707,7 +4710,7 @@
 ### 6. Post 6
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/54d39397808383f4248ea9cb5dc210c4/download.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yMnOJ24Im60HVr1M3kyCi5wElq%2BAS2oE1s4%2BD54IQPdHnU4PnUr943lF8Rfz2GSxMKyNUnkQKTKuwxdAo0M%2Bg8CitfAzjrilh2LHT8fkILQGTNwzM9rtNAnbvTNhK6W6pVIcMTSfBz7NeZXveRSxNPZuk3HIA5RouCt5KH0SBjA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2F54d39397808383f4248ea9cb5dc210c4%2Fdownload.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/54d39397808383f4248ea9cb5dc210c4/download.mp4?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OBBOUvbHu89FoZFobEibW50KNyApY7GxrW5fjQtbdto46CbcfPB7RltmtpV4QPFyPXp9hde3EFCZ6tdLz9gxsSnkIS19PZX8%2BUX63pvvu3OR2ITslppUWD8y5d08%2FT%2FpJpRIQyn9ld3drCeLZwUJtnfInanbFSokYwLQRCVEp8I%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2F54d39397808383f4248ea9cb5dc210c4%2Fdownload.mp4)
 
 #### Comments (12)
 - **ピコ** (Jun 13, 2025 02:27am): (≧∇≦)b｛いいねー
@@ -4736,7 +4739,7 @@
 ### 7. Post 7
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/ead8b6ee2abed84cda17ce4adb69ecdf/170298195264558.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XW%2FkWyjJ7Klv29geKr7PbeP4jTQ4%2FBovsj7muilbuRTY1LqQ0a0Cr4bnw9OTl6Ht3aehD2csg%2ByViP7%2FGl0UaJCCX4VShcPdD0EgoKwuSdfb3kp7pUHN1MMNMCyijs%2FjacaRcSdkrWzM5cQ7ETmT5VuXgYt2JXJpFtBog3IbFwY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2Fead8b6ee2abed84cda17ce4adb69ecdf%2F170298195264558.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/ead8b6ee2abed84cda17ce4adb69ecdf/170298195264558.mov?Expires=1775998850&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zDIK3eMmhAt%2B5WYO48kV62NAQPRgOtaEFC2R53Yh%2FrcEyCNaQKmrO5w%2FPW3tO18fx5sAJ1mwaACxhjSY4Z7qx56%2BNwRgXQW69sWHexSpCJj8NhC%2BGE3aAYD7lEOl68JvK4Sp9rt2O9IvLKJk35LQgy7meiZcoFR4iU%2BmW4EtyJg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2Fead8b6ee2abed84cda17ce4adb69ecdf%2F170298195264558.mov)
 
 #### Reactions
 - **Number of likes:** 2
@@ -4751,7 +4754,7 @@
 ### 8. Post 8
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/c15408c116d73e8751bc3206bbe5884b/video_498572202284155089_NSjvxa0i.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=49v8txM2AdERPqdE2L9cVHHUVOgEFP%2FI9Nx7P2bPk%2Bg5ieDOvxN4J60Or0hlg%2B%2FXFqnjehSyxbkODWRaZAelfy%2Fwfh0Ow4HR11wvB2j%2FLyN5iCtQuT%2B6SXKtsBVZBYsJNLMG3RcTsL20n88BbJKmS%2F72m8B4oI%2F%2BCZNTO31dPss%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2Fc15408c116d73e8751bc3206bbe5884b%2Fvideo_498572202284155089_NSjvxa0i.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/c15408c116d73e8751bc3206bbe5884b/video_498572202284155089_NSjvxa0i.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6l94OXcZhIO7ea8htdOmG6PaURyPUiBX3JAzfehTKVBkYlc8Ksq8cs%2FUwMtwVCRfCVSlGzcicmwWYx7DrIwqiq1S%2F8bobnYuZY%2BQ7Z%2FcLE7gtuvFH1dMkvofQ2haHBlwvVoy7UGvdCJoPBQN10HXu5xhQ5oAH%2FUYi%2BdsdBlaFQw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2Fc15408c116d73e8751bc3206bbe5884b%2Fvideo_498572202284155089_NSjvxa0i.mov)
 
 #### Comments (3)
 - **お　＃暇人＃夏休み暇すぎ＃暇人＃りおとの23番弟子#＠rioto教11番信者＃旧りおとの4649番弟子#荒らし対策本部隊員＃荒らし対策軍元帥からユーザーを守る会** (Jun 30, 2025 10:11am): 何を見せられてんのこれ
@@ -4771,7 +4774,7 @@
 ### 9. Post 9
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/584ca7a11dea505aca4e29136da8f57d/170298195264556.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yx7NbMoXIUGPP27mAn0VaQnoNViXEXF0CaDDJbddYnK7MVPSxdSjcKzfjEwF1E811rKDeQj7HRRyFXh39vlRmUNenZNJafmW7kuNcthvD7UyuTcbf2a1Cc2aLgo%2BlxtW5nF865bSwptMsxqZWweQzWpn8MSGvvNMmMblAw3INyk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2F584ca7a11dea505aca4e29136da8f57d%2F170298195264556.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/584ca7a11dea505aca4e29136da8f57d/170298195264556.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wiO1k5XzqSMSOmsJTQSMVdc2zNHO%2Bw%2FssnZbH2uRj5BaNy%2BuJdjxPHmy%2FMK%2FtIZBHULq%2FMKunPCHb3MvaQBPsdt7uOe7v0R%2F9o5pb%2F5FFLf1L3XtlhNVsGv%2F7DDFnYqn07xmQO%2F6k4L2M2wryWNPlf9k1aa0Gdq%2BkjFPfar1jD8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2F584ca7a11dea505aca4e29136da8f57d%2F170298195264556.mp4)
 
 #### Comments (3)
 - **チャレンジャー** (Jun 18, 2025 08:06am): いい音
@@ -4803,7 +4806,7 @@
 ### 11. Post 11
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/df01db022aa071ab2e049946b0bd65a2/169182063953315.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qzida565ObSZA1lJfaeNqXqJ%2BQTtQaulL7Phbdnrd5E2jLq0QiOGiZ1ZgOGhwDmaN5rpEXHQjC7HTAmata%2FhNfdLP8rNwPRPMJsF6VQDRVupapcqWVoce6tEdQ4aacuLxwRQc%2BqADInz8rsbEMNdgznFTTBKiYRLE%2FrCaPISiyE%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fdf01db022aa071ab2e049946b0bd65a2%2F169182063953315.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/df01db022aa071ab2e049946b0bd65a2/169182063953315.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GAfzVHaifJe6lsFzAHw6%2B5gtCuZpQjOpgKPqlwDdMt%2BYzsZXBTq%2FAaeM%2BWhScG627YO3ilm%2Flpl4GGyqqQ%2BfTOMgrtDTXEvJup5877V7%2FUWf4eOH7tV1xqFtlEDzeQppH4yFX%2FUfGdfclG7BipFBnxZVITDlYOfVDCNQ3teeSzs%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fdf01db022aa071ab2e049946b0bd65a2%2F169182063953315.mov)
 
 #### Comments (5)
 - **えるま🍡** (May 30, 2025 08:47am): 乳首絶対見せないの草
@@ -4822,7 +4825,7 @@
 ### 12. Post 12
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/97489f40f6ea77fe8dc823d5a96b0072/1113.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=a2ebC40pXRaDfYf2bLxPMnkqrUfk9%2BfkzbbkIiUiv1QL2q%2F1BhN2HC3o%2FfIDCVIkMEBGtg0TcJuboguTKMUIrg%2B3iNSTxpPqYrlyOhoEpbwwpTTE5hVl4yebXgh4rQq1L4SONOhZc9Hn2yq60MWQQDuATgj7tSg9gAOTQlfdr3A%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F97489f40f6ea77fe8dc823d5a96b0072%2F1113.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/97489f40f6ea77fe8dc823d5a96b0072/1113.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tZo%2BUjVtwhN9VfR5nZ1pWakr5iA94OjDnBqdfV0uE4HitEQTq7iRTM3Cv7mcaAaR%2Bdx52Akde%2FOGmYUid%2FHqwu5j1aWGoNVSg7ISHPSfUYlVKSnlYovMNDpJrbmGZVtmppuwbr3ngvLqvi%2BIUPeMt6djPGml%2BgYrEwPGkZgcrU4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F97489f40f6ea77fe8dc823d5a96b0072%2F1113.mp4)
 
 #### Comments (5)
 - **受験諦めたただのカス** (Jun 04, 2025 06:11am): あーねｗｗ
@@ -4844,7 +4847,7 @@
 ### 13. Post 13
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/20a4f8d65632f32193e30337089c4e5e/Kt_JW0bLdzImpleR.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LHZGa7FASIFqYIkaqpxz3ndx0mgNDRr1wTPn8Hs%2BfToWwRg2RTXMVgx9lknOghojkqglzOUwmsF0YlH8vbsLogjB7Hwmeh8UcV%2BZpTD%2BLb5UWdlqhBDbq9CKgdDdi59AgkuFlDllNahrCr1NxB5wmYM5EFL2krvMxmDXsZXvXn4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F20a4f8d65632f32193e30337089c4e5e%2FKt_JW0bLdzImpleR.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/20a4f8d65632f32193e30337089c4e5e/Kt_JW0bLdzImpleR.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TNs%2FQ%2FrQYIcS5A5eBHCPPr5HTJnzxxE75hrUNLZYfrxqh9Fph4dSIvy4hE9%2BwPN7bDc85S5tuE%2FTJAfMsjtzKD83lta38kvdb%2FhpZGhpPrsamKI7bdxxYJ5P9g3%2FlI1Pq6bH4L0xmQBARzivDWklWZyOiA79ALydC5DctIM5fkM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F20a4f8d65632f32193e30337089c4e5e%2FKt_JW0bLdzImpleR.mp4)
 
 #### Reactions
 - **Number of likes:** 1
@@ -4859,7 +4862,7 @@
 ### 14. Post 14
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/78bd4558420efedcfcf17be7e1fd4560/LMp5abwpMt_7bVtT.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sTJqdjMuXzT%2FCGUnTvw%2BOD9R655roYZp8VJkVR1042j%2Fz9p1s%2F3BBHGdE25gxluwL0LUoZAqINXiKMtcopBOZ6lxaWQk9M5LpZC2i5aC4%2BgzVkV0nAiIQTzlntnJbWh9FmjShmJVQhGMrpI4Zg1bxAZVMaa72hrnVEvbN4cdK8A%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F78bd4558420efedcfcf17be7e1fd4560%2FLMp5abwpMt_7bVtT.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/78bd4558420efedcfcf17be7e1fd4560/LMp5abwpMt_7bVtT.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sRcIpeRY4X%2BMXAa83aEzrur5S6z4NY71thesNPulyLQs%2FzWSXr1LVoOBPWeZvLJQtN9Lmbsd9WH9%2B070uQchdU08xmmgo81nF%2Fo%2BrtCrTZYr4Rho5Fmd7jt9OKccvb8A4eJo9vLc6jcTcM7MAbNw5GbeyIUQg9m0LxpPFPeVm38%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F78bd4558420efedcfcf17be7e1fd4560%2FLMp5abwpMt_7bVtT.mp4)
 
 #### Reactions
 - **Number of likes:** 1
@@ -4874,7 +4877,7 @@
 ### 15. Post 15
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/ef4abe2c3a520bcfda16d537f329ee2b/xvideos_com_2ef3462b14c3a99da1cba275bc5ff4d9.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MFK1IDWcRGxopNifPz5K8Dh0xEfyAd1Wu2J1dXBFOfHiWJbdPCKxDPb6d8V0008WpfBeS1okIOlk8aItY0kDDKHQTGWq6rJ8wJHOFPbF%2FZcAvXa9nGDCW2Y%2BCf9nps6Ck7OTJrjS1qFd4VkXAvrLn4%2Fa6gUV6yD%2BPrnj6kqyMjQ%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fef4abe2c3a520bcfda16d537f329ee2b%2Fxvideos_com_2ef3462b14c3a99da1cba275bc5ff4d9.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/ef4abe2c3a520bcfda16d537f329ee2b/xvideos_com_2ef3462b14c3a99da1cba275bc5ff4d9.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BKU7ULpWHRZo0zrgEm6sGuDEPpSmbl1%2FV0Xt2qQ4C8MBNhi%2Bcr7HDNw1HdcGxaZXY3QPUQ%2FCKFWZvM3I%2BMWVPnYdT1d7oTfDlHx%2Bg6pmYmEOxUnEXyHE%2BBLRDJdLFyrRglgCd0TWD7B0Vo%2FL7WUTiNa5kL5Tpera7afCLfB608g%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fef4abe2c3a520bcfda16d537f329ee2b%2Fxvideos_com_2ef3462b14c3a99da1cba275bc5ff4d9.mp4)
 
 #### Comments (1)
 - **ピコ** (Oct 03, 2025 11:45pm): きもちぃー
@@ -4889,7 +4892,7 @@
 ### 16. Post 16
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/74d82ce3c767315cfee637908b477ed4/xvideos_com_9529bce150d34032facd3a5b2f9537ec.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YH9IqiuxpNPutX79Nd0I1%2FspTwut%2FcPqnax1jO9FxNgnfPY6%2BdJZjlCVQ9BWVDDhFVJ3xz1BhVqWXlDAl7a1iHc2hvWT23qDu2f56sEUpTw1kXg5aHzNKQ5UB8Du1WIHj9woXBxJY8tUo88CGdqssE2JC%2Bw7N9gO8K0KSozHvqA%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F74d82ce3c767315cfee637908b477ed4%2Fxvideos_com_9529bce150d34032facd3a5b2f9537ec.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/74d82ce3c767315cfee637908b477ed4/xvideos_com_9529bce150d34032facd3a5b2f9537ec.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GWY4ez1SmJfZFYwYMPKbAK555CXtr%2BCQeaC9E6Dtv7m8j%2B72m8cM%2FlwN99VuUUCAnBDFN%2FNCYlg6mScpVgUNZarRyRHnsWAmSUxTUz8ldg4nRkUQFSrfDIQiSN%2BQdV89YB9umVDbSHDIPPZj1cme5OwN4bp1JLdRid0s4hNNTpg%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F74d82ce3c767315cfee637908b477ed4%2Fxvideos_com_9529bce150d34032facd3a5b2f9537ec.mp4)
 
 #### Additional Information
 - **Post color:** White
@@ -4901,7 +4904,7 @@
 ### 17. Post 17
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/ed27af699e3ebca3a260132eacf898ce/xvideos_com_eee6800176f1e262c641a9f71366abcd.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=S7A9neVUBv8QKBMZYPH%2B7tK%2FnZY%2BX7coSQ8bbhyYZXNOndr3%2FI6OVYVeuHiM%2BbP%2BpoXokOpJFSyNKgplf6K%2F%2B%2Bz83EDK%2BKZIiCMuaN4ZU85hxtljW3NtBeXKi8QUI0WEWuvILWGlxg%2Bz%2F3ADAhF3q8C2yYXezHXb7JgYIGVBpqw%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fed27af699e3ebca3a260132eacf898ce%2Fxvideos_com_eee6800176f1e262c641a9f71366abcd.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/ed27af699e3ebca3a260132eacf898ce/xvideos_com_eee6800176f1e262c641a9f71366abcd.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=24bRjWLX3ryMbe8k80kN03AhWJDgcRj7ba%2BZAVH24um58ZED5FZVI3E1cYOYJT6YnwW1p5pwqLDr0b3az%2BMyKpC0lUofu4fK9al0mul2h4wEshV5MEwtGCnxYqnPTkN6qj0d9erUJmvwJPXqjjy1TNkqY0E1QTZGyrD0QbRCm6w%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fed27af699e3ebca3a260132eacf898ce%2Fxvideos_com_eee6800176f1e262c641a9f71366abcd.mp4)
 
 #### Additional Information
 - **Post color:** White
@@ -4913,7 +4916,7 @@
 ### 18. Post 18
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/bdf390852088e33dafe5c9af6e0b5609/xvideos_com_f2117f8767924b71bd1696e678392ae3.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wCihBqhqseaaZ0jxaD31P7F6EHsqOBlBQqSgWnTTGzcp64Yx4k1N7mWP%2BW78LAn4JqBObJdFDzsWNiOXcBCh%2F%2Buc5%2FkxO0HyuFzmR9PJ%2FTTsBuIBso21eGAKyj4p%2FCBozRLyfwOdRpChz6vZliEiu%2B8FKe%2FJHd396KdRQ%2Ft5Eps%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fbdf390852088e33dafe5c9af6e0b5609%2Fxvideos_com_f2117f8767924b71bd1696e678392ae3.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/bdf390852088e33dafe5c9af6e0b5609/xvideos_com_f2117f8767924b71bd1696e678392ae3.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yRObbBANyJstWeGl9C1AdgUh4MmgPEcVr6EjXBJ6p6%2BH7BKNHDePhXNMO1e7U4IisLfBZekyq6xmKtAYjZnxQLend9SGDdBEdjXPGWTVHq7WI1XElPMNTn641yn7xD3U1RI0yfN6PxKMgaYZSpnj9LP0FcH0qUoxYB6nCOZ5l9Y%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fbdf390852088e33dafe5c9af6e0b5609%2Fxvideos_com_f2117f8767924b71bd1696e678392ae3.mp4)
 
 #### Reactions
 - **Number of likes:** 1
@@ -5010,7 +5013,7 @@
 ### 25. Post 25
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/6a12fcbb114883f843e98372cf4fa24e/2024_02_13_13_04_34.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sqollnmjJNOZxV0NJOYUCEj8h%2FXhl4kxwVCYsMA7LvtwIlxtQCfoUsyUR6jKq2P1TSgrhmmQU0dRKSrY3lbZd2INGIx6DDxBomGiLlOskgP7oSmFKkOCai7T5hJ%2Fb1f0UVmyoQz0U33drlMFID0VIZCAFc3O3ZvziLnGpXXfHrQ%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F6a12fcbb114883f843e98372cf4fa24e%2F2024_02_13_13_04_34.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/6a12fcbb114883f843e98372cf4fa24e/2024_02_13_13_04_34.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=x%2FXUaEs%2BT2L%2Bu6Zfsh0Ha8UsvsSG8T8ebWDlFfKcAdmf25t1s1%2BtX7hAiWvFYrSGG3YNLU0QxxHUWer9luQ3Pd8%2F9SlERthe%2Ba3399hyxXDc2wT248I%2BVWOxSLmGVYX14em9Oc8GTVGQ11tZJRV9NGgAxoTj2MCfCodtlxgLKbc%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F6a12fcbb114883f843e98372cf4fa24e%2F2024_02_13_13_04_34.mov)
 
 #### Reactions
 - **Number of likes:** 1
@@ -5025,7 +5028,7 @@
 ### 26. Post 26
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/93ab9e0a97db0744f81fb0d7f3597115/RPReplay_Final1708632367.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TP8y0%2FxsPXqvq2OLR%2Bj0hP5WFQu8S2mRg8jkUTDEj7XrgJq0g7%2BnPm7yTBl4SIV7p9e1NaquIzvo3cbff8FvPFzv7eyaVbeG2V5gaIgYFcp3g4PGGMDzNW8MncD5cIKSCVp91Be1JuZy4AV6E4UXSd8jUIf3ok67wJuXnY532%2Bs%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F93ab9e0a97db0744f81fb0d7f3597115%2FRPReplay_Final1708632367.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/93ab9e0a97db0744f81fb0d7f3597115/RPReplay_Final1708632367.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=btc1lKLcYkFCd8kvBdNVmmojgFTyrCwVY64E%2BTjWqHU6zRC8Tf5S0st2TF3vy1wCDmdFwgWx85GY2uHPREqCDS7D2B5ztlYxU%2F0VDf5WGbfSITxJMzhe0WwfWeRNFoIZiL4SOo%2FfMe81SLHV0JX6WD1d%2Foa%2FABkanhtLa69Xuc0%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F93ab9e0a97db0744f81fb0d7f3597115%2FRPReplay_Final1708632367.mov)
 
 #### Comments (1)
 - **꒰ঌからあげだっぞ໒꒱** (Jun 27, 2025 10:01am): おお…
@@ -5043,7 +5046,7 @@
 ### 27. Post 27
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/614c00d9d194916b9107ff6ed875f88d/photo_20230128_195351013.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zlf9M6MBn7gNJ3bcCX1OjtzFx4lPCtl0VPiFTv4Ay38El6gtIHGMrhd%2FViNgi7FbpaAGDbDSpsWINrVwEILbAZtprvDpAHCRG61H8wOw8EJngoPlU96VGN7actIgNXVrWgeCC4iq3rUT5wCT%2BpY8rtTn%2Bi5USe%2BrUmAl9d2dLho%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F614c00d9d194916b9107ff6ed875f88d%2Fphoto_20230128_195351013.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/614c00d9d194916b9107ff6ed875f88d/photo_20230128_195351013.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5NfqyMee3EHRfvNIbJZhKAPp%2FUONO66QTm%2FfYWRK3v%2BgqQVV3T4X3aKYHNW8Sf2FkauxpwT4p7NAfXQgqw0icWFa4p1SC6df0SQNcpYXmlOstz82Rf1HjHK2bcPmBDOjaTdnKrb2enmIk03CzcWIB7ymxVZwUMrhKkdNwBNj%2FCc%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F614c00d9d194916b9107ff6ed875f88d%2Fphoto_20230128_195351013.mov)
 
 #### Comments (1)
 - **ピコ** (Jun 13, 2025 02:29am): ちらかりすぎー
@@ -5061,7 +5064,7 @@
 ### 28. Post 28
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/bd66a15f26ab48111f17e475cda20488/za_yu_ma_nn.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=25M9SW7Bffv3aAOD9HXCUpGii7IPQ3RjuqCHptyHzQeIlux7YFTl0Yzq%2FaSEFxd%2BQ1VZOXUhgRqIcGnPwEX2mKFHInBlmnQzPlw6HdvxEHMsjQXYHfkQuLT9AFoDzY1wpPsp4LJsqU48rKquuezZOM50SYv5C1t%2F%2FhSoHlGEva8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fbd66a15f26ab48111f17e475cda20488%2Fza_yu_ma_nn.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/bd66a15f26ab48111f17e475cda20488/za_yu_ma_nn.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mdFYv5ywuZaS1oI%2FOQPsBLxNU68LkCjs%2F5UQ1M2N0UQ3Zg4uX%2FFo39RWLaW0XdZiyxzLa5H30irjDGOWPyG9pdKhjCBXW7p%2BiHQhVnM3slpmV17Y5J%2Bs0%2BExmV3mqz6eoTneCH5DrPi2a6EE9%2FXXIvRgFbDZdCjCvZP3gVQ3m1k%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fbd66a15f26ab48111f17e475cda20488%2Fza_yu_ma_nn.mp4)
 
 #### Reactions
 - **Number of likes:** 1
@@ -5076,7 +5079,7 @@
 ### 29. Post 29
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/93fc080091fe26065f8049649bbf794e/IMG_1571.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=d8UXyCtIIknN5cSOyQvnVie1BbEL4nKbOqH8a8MhmINsaiRFfB6oiw7jX%2Fc5dDp1DktQJPBwbMZZhiFlE1wSt0YQl9zgBqB6zXurHshD9iyI6LURJf7tbUUkRvpM%2BvKgmZf5nyg9ZgO34O1f07eRE37HoxMWCK4FaERYhZBp4Uo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F93fc080091fe26065f8049649bbf794e%2FIMG_1571.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/93fc080091fe26065f8049649bbf794e/IMG_1571.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EAoIjhWkEv0FpqcJtgZLLjLkRnzDRohQ%2Fju8uZMlinzC88XjIKGNSzfBEjIa2gRv1oQJFEc8POpN%2FItsNWT7kfjZdk4hu6n8JvknY9Hp5MlcpM0S5frurNXqieOGxH%2FoNyk8I1GbKhbzoPRkV5L3wHgOMiiUdUItx9vpZEhXvgU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F93fc080091fe26065f8049649bbf794e%2FIMG_1571.mp4)
 
 #### Comments (2)
 - **ユウト総統#りおとの30番弟子** (Jun 14, 2025 09:02am): 顔タイプだわ
@@ -5095,7 +5098,7 @@
 ### 30. Post 30
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/6c5cd6b43f40464e820227d653435a3a/IMG_1565.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UlVf3pCSYsvnnJVB2r6miUdO7RDo9laJWkNRX0X1%2B7oFTBFK3huGKAf8PnOZC87Flp1DL6fiAhOeSgDO0HV8o3HW%2BZFnObnmFBBT7VVMaM9oz0pt2lzOg6eA089k2g94YFoamV79G58LYCkyqeN%2BcuqsO0osGbEOYBj%2BDxpJUnU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F6c5cd6b43f40464e820227d653435a3a%2FIMG_1565.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/6c5cd6b43f40464e820227d653435a3a/IMG_1565.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IfPnhgRRZhamNtw4U%2FoOVszweCrcky2Ny1KAscXkM%2BqNjJWKjfjF9kL0iuqrhyss1yn5puCoSpP4Yo2JwhKpFzjQJQ3RHQcp2UjFkzq62Fa3XpTqQiIUXfKoz31i3miDK1XmGeKYpW6KT4yRJ2Vo8cKR1AoaBA8upK%2B84JTAe1Y%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F6c5cd6b43f40464e820227d653435a3a%2FIMG_1565.mov)
 
 #### Comments (1)
 - **匿名ニキ** (Jul 13, 2025 09:06am): まんこめっちゃ黒いな
@@ -5113,7 +5116,7 @@
 ### 31. Post 31
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/3697597cf88402deb24c518a10d5a133/download_52.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=syg1igw2JPjkvGeZhVO%2B1Te1fb%2FETcIAsh46Yw4%2FtAQZxbBua7IOZDX8NCxlmhPALiI6G5KJwS%2FLGRxknLpBEgboX%2BX6G10YLx7ImWorqeuhDa4mPNX%2Bem%2BqOnvBB9CGI1uSULa%2FmHMsWiH5dwVX4xbNo1SYf2lpcDjFdhd%2BlP0%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F3697597cf88402deb24c518a10d5a133%2Fdownload_52.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/3697597cf88402deb24c518a10d5a133/download_52.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zli3EQ0uQQadjQ9M7pqIsgyBINEtj23gC%2Ba3g0rzgwIVOsAMTQ4BBsydzS%2B%2BJWuDZ7aTyMTz0MjOOd4SG8M2xV8PDtsOqBdhXallGIZ1qUncleZ5TbDO6ojeeKGyQ7B7HSkOiMpilb8JUNUFGLv92zFU0lha9iIdP2anyv5nJZI%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F3697597cf88402deb24c518a10d5a133%2Fdownload_52.mp4)
 
 #### Comments (1)
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (Jun 15, 2025 09:24am): Ooooo
@@ -5131,7 +5134,7 @@
 ### 32. Post 32
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/36df4642c1129af955915f49495b76ac/16071_1.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZLLF%2Fx6oTXN6QjKnGmB8gOVJN5zLURTpouCcKy1WzJNAhqLqbq4Sq4DYrRJaEgqD3TMmHQ%2BGpx3oWXq49ox14HZaIY6q%2Fs%2BnRNGk%2B8G%2FYXjKH%2BvsImxFQmNbCd7FrJ12arkX0KMA4qdw28jUPEqhOLLy%2Bemf4IzjH0%2F7WLYk3AQ%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F36df4642c1129af955915f49495b76ac%2F16071_1.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/36df4642c1129af955915f49495b76ac/16071_1.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=q4%2B8TonZO67vkxnl45UFuy5EXocVFJopH%2FOYt2YVpD2YbJ8c4hqOMM3FRnSmrhpt127HOQDJjb0090%2BxWujmJUGbxvQ5fs27NM1f%2BGPqnT26HJFIPg6a71kloQzQRNk%2BVxS%2FVudQVK%2BQ7LQACOMkRPlbDedz0rBVYimm4flm9ok%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F36df4642c1129af955915f49495b76ac%2F16071_1.mov)
 
 #### Comments (2)
 - **Passionate Kookaburra** (Jun 14, 2025 03:45am): エグw
@@ -5150,7 +5153,7 @@
 ### 33. Post 33
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/1934a46cded89218fd7dd3cd9a547dbc/kakaotalk_1737867328009.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0gyr5u%2FP%2B1%2FYdSTRtriqKgO9o6nls3rpowFzOkiV%2FjZ%2BBDl2UD5yzU90Tp3gOQkDPSP1Y%2FCUjtWRVdJt3fKcek39Eb42o7ruNtcSqq2wa5oOZKUog5%2FBUUVBx%2FRwtWVNONJIwyPolNjyMrAWyJbNLhLh0%2FQq3CzszFHRcIxkRDU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F1934a46cded89218fd7dd3cd9a547dbc%2Fkakaotalk_1737867328009.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/1934a46cded89218fd7dd3cd9a547dbc/kakaotalk_1737867328009.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2Ob76myq09%2FeA9SzJ4ZYczuusMb6g5Igh4Hek1mLOJ6SB0%2B35NRaKcBQXDYlbkFhN8As0jOVq6K3gIWkGmWNK9YygnzI%2BHncYonT0BV%2B4ekLhjPfFo4Z00ze6OsaE5%2Fn2Pvlf3hb13a7WPW9lT2zhu0281%2BVgV7xe9yi0KmUlWE%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F1934a46cded89218fd7dd3cd9a547dbc%2Fkakaotalk_1737867328009.mov)
 
 #### Additional Information
 - **Post color:** White
@@ -5162,7 +5165,7 @@
 ### 34. Post 34
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/f9d537dec61e60ff129712cf37f06217/7a11dp.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eb7STf4V5uePyLXKqdnSt8ExfJCPAHIHkFwjwnNn%2FcG%2FSi%2FI7KYn4igWdXn0PwVBJ3YJGwv7bDBHbTBTG1d%2BuaSAgelYrPeVADytCv41qn12yGaTrYAOu2F0KmravEy2JBcnw7glhYuidVcttDisWhCKvHvQ8Ng2qZZOiR9IVw4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Ff9d537dec61e60ff129712cf37f06217%2F7a11dp.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/f9d537dec61e60ff129712cf37f06217/7a11dp.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RSxwzGVDCK7goWjyojkSOuUGCdxaTA2%2FQ5e3Iy3afaftdrZHgZxqL9U%2FEVCwAmWxMi5YC%2BiLcGsAZbL7jpUEWxIuc6K2ugdJrBmCw9cT%2FBOaT6FwZaDfeOrw%2FGMZeZsy6%2FXIeEglDRu%2BJ4u5jcodvQuLQKk3Yapw%2Fk0wrBJmPoc%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Ff9d537dec61e60ff129712cf37f06217%2F7a11dp.mov)
 
 #### Additional Information
 - **Post color:** White
@@ -5174,7 +5177,7 @@
 ### 35. Post 35
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/11077c4a6c474d99d36b2ee02c283fd5/LINE_MOVIE_1740563256057.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gWJ9T1K48C%2Bi8nai2XLt9as3%2FnYQfy4QeiDF7IPbKXvl9ijpQEhphoa06SXILLvuxWtfFL3epzua70O5%2FHU4sB0M7kTFUh%2FS6CAZ59G58f2H4dJxYYwmnSQV22%2BD6FKXYi4aoVSJ0AqwrP%2Bz13Wu2eYP6zoxIeBNzM4o3Khnml0%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F11077c4a6c474d99d36b2ee02c283fd5%2FLINE_MOVIE_1740563256057.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/11077c4a6c474d99d36b2ee02c283fd5/LINE_MOVIE_1740563256057.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=X%2FaZdBCTUKCg76yHpkVpGcfUKIa67IamZVN3pkCCBIBuSa4lOzl8WgnO9L0PhXo%2Bb3fhNtvb8mkkC%2Bm1VrdfSQdpZB97T2eUt294y%2BUbAtNczxT2jg%2B9TRYncboVe9JFsoZKbRyuB2uk%2Bw6yHi0kqK8SwFyWiO4HmwjMDKHcfNE%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F11077c4a6c474d99d36b2ee02c283fd5%2FLINE_MOVIE_1740563256057.mp4)
 
 #### Additional Information
 - **Post color:** White
@@ -5186,7 +5189,7 @@
 ### 36. Post 36
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/8c4176a870d7949af9e5e1d95e5108c5/ojgRQGL9fGVjBaHX.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AdmeuN%2F%2BGVyzTs3dIbMyGu49R4P23mBjq9jZtV5VU95StLvvE0%2F0kJTj5ksp2t6IiUXdu5szbik1KIt89riBA28uitujtKQbnnhNp3kGwvCNNhzF%2F1mhr4nbUUx7eaPMno%2FMWcQ%2BXuAJW7yVhrjhIPM5IPSzRmcivCo8DYvU3kk%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F8c4176a870d7949af9e5e1d95e5108c5%2FojgRQGL9fGVjBaHX.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/8c4176a870d7949af9e5e1d95e5108c5/ojgRQGL9fGVjBaHX.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pATHdiiK8V0vkNaZQ0wFJNcadXhYaNWfezuVk60L6o95TmkUhGl8I5TKK%2FmHOEpoKcPHn76r8cBcAitL%2B6lwSBgovxSG6xI4hyO6Z8SRHDYRhWg57Ih2JfZt%2F6RaxFBWZznc3C6fTVfMlQab54q9B1HnVIRmzvcMABGP3b8Njx8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F8c4176a870d7949af9e5e1d95e5108c5%2FojgRQGL9fGVjBaHX.mov)
 
 #### Comments (7)
 - **受験諦めたただのカス** (Jun 01, 2025 11:56pm): トイレやん
@@ -5210,7 +5213,7 @@
 ### 37. Post 37
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/ca4082b07c45e0992e6f3d36d1f40cfb/331e4a3c13d64b599cfceb604710b392_fixed.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iPhLPleTA%2FM0IuBeCVYsN8ZaE%2FrG31MeOPRA9wPYr8CdBCxr%2FhOmZ1hTZVLbO%2FDBkKju09RvOGKTbDNeRKaG9k0K%2B9AHL3mY2P0QfBXN1Ys4DkGG6%2Bpvp8IPvovE%2BH7ASFeaxePK9Ncm%2BVBfiua%2BGy28QAi16PCOCBG6lNWjNvw%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fca4082b07c45e0992e6f3d36d1f40cfb%2F331e4a3c13d64b599cfceb604710b392_fixed.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/ca4082b07c45e0992e6f3d36d1f40cfb/331e4a3c13d64b599cfceb604710b392_fixed.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DGLbdjgjodcW18vfOBjvcLjy08iQ0skaI4Y37%2FH%2FPgQd67Snw6ZQGnxW6cfLx2LCnO5Twi0nt6z1PYcXLiwaOFE9TKonD7umysKjoHbu9sfaZxDcMsNhLE4hE0rL3hHDhND3cN1BauiYJwiPQ34FJkVV4zw5WKM5RqiGOtqcXWQ%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fca4082b07c45e0992e6f3d36d1f40cfb%2F331e4a3c13d64b599cfceb604710b392_fixed.mov)
 
 #### Comments (2)
 - **ｵｵｳﾁ ｻﾝﾄ** (Oct 01, 2025 12:58am): キーコーマンw w
@@ -5226,7 +5229,7 @@
 ### 38. Post 38
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/692b0bb21bc6abe2aebcfb98ef5a81fc/u4QgA7UUiyjApxJz_1.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FolIH4fsMivJMIGfHfihfbqGKc%2BWzDUKGU7hrIorRJNMlqKWJdieXhVzbDo82IcamELDa1rmXVoPHpp9Z%2FqPNU9EQtlZzN1dYORGQMvXANgueUJaVnJKUGAB9GU9%2B%2BIolEth5kyGMuVfyWEoc9oK7OKCsInbR1yy%2BvnUZah0Af4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F692b0bb21bc6abe2aebcfb98ef5a81fc%2Fu4QgA7UUiyjApxJz_1.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/692b0bb21bc6abe2aebcfb98ef5a81fc/u4QgA7UUiyjApxJz_1.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gc1phhCgZfGmXeAdhT30IqVu9nGNZH%2BjBBx2O%2FShXcHK9ha8GIvkZoy8YBDFJmvF5xmtRe%2F03enXQ5TiwiydetCAF%2FZws8iBUWuR3TlzgKvWhtlWP314RwIZ%2FIX8y2ruXiL118JOWa65X%2FlGfQfDkVZzbnlGHPyp00%2Fwh4DB6F4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F692b0bb21bc6abe2aebcfb98ef5a81fc%2Fu4QgA7UUiyjApxJz_1.mov)
 
 #### Comments (8)
 - **受験諦めたただのカス** (Jun 01, 2025 11:56pm): キッコーマンｗｗ
@@ -5251,7 +5254,7 @@
 ### 39. Post 39
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/2c27bf6b81d1798ee65537cae7b986b6/video_493040435116900642_AgApfGNg.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BRaLzQm07Ds7s%2FynyjEoOglJsSC%2BBduX3sCILbx2w%2BaDsfY44IUse3G4rp%2FnoqzKqDLePMg%2FAxSW%2BxNa5zGD5rM8r4kmLDZlHNc5QvxstYWsIFa%2F1kb1RkSGL%2FwAgKyW2te5Kv%2Ba4xIo6FbMqxhrD54VT9uXNJptmtYsMi0w3Zs%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F2c27bf6b81d1798ee65537cae7b986b6%2Fvideo_493040435116900642_AgApfGNg.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/2c27bf6b81d1798ee65537cae7b986b6/video_493040435116900642_AgApfGNg.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xJpDwYFJeEjnzHPqVOT4RT6kZvsdNe389HhzIbvd6cvGvKP0R77qVqvCe6lQ3MBqJwMfE%2B5HtL51WpRi94FP90Xgx2p2OOQGdLAPi%2By7cD9xAIQqoUaiKdFZ8DYv7NaCjE%2FaYuXfYEy46UOt20emhxlkVMthI7z2IV%2BlIEXdhXY%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F2c27bf6b81d1798ee65537cae7b986b6%2Fvideo_493040435116900642_AgApfGNg.mov)
 
 #### Additional Information
 - **Post color:** White
@@ -5263,7 +5266,7 @@
 ### 40. Post 40
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/3a8fd1ca0a3fe50ec2f7d6275492d5f1/IMW09WcYuaVpWzfs.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QLoAZNj4sHYEWP1R5AHEUKghmlW%2FrJ4RvS1KwDs86aBDnm1%2FasNe6sSXo9w9OyD39IJoaTEq%2FheAy5WeFxwORHAtPheOVRUz8LRRvYjeyKHNFWttFFxAYHCSrdXhi7XhHh5gI3olFGYdBw30Gq6DahiR6s3mq9GY8zQztixFyAo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F3a8fd1ca0a3fe50ec2f7d6275492d5f1%2FIMW09WcYuaVpWzfs.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/3a8fd1ca0a3fe50ec2f7d6275492d5f1/IMW09WcYuaVpWzfs.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=A2rkKy7Js4gDY0EDp12o4Tmj7LI7dnUsUFPP2VcN3l0u%2BCdGcYxAxG05MGUdyvDkYbZEHPfYAMC4hKR3cQ3oiF3WVvfQyVRa51xWFTUdLLOhoZ4xtH9%2FDA9ZSCYNeTWwqkiVufaDQLNITmRmOapu66ftNQGKzHM0S6zje%2BGOUU0%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F3a8fd1ca0a3fe50ec2f7d6275492d5f1%2FIMW09WcYuaVpWzfs.mp4)
 
 #### Reactions
 - **Number of likes:** 5
@@ -5278,7 +5281,7 @@
 ### 41. Post 41
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/601e48cda56bc2d35c4cabc316a2ef0b/43345063.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BLnY69jnjHWxIEm%2Bsv7KP%2FIJBbHLNuLe37VdD%2F2i373TVEDLNz4Aksr39VXLd5pte8yvagF2Rpc7JTPlZLikyW9YhI%2BeD8FSflUnSHeBlaG9mtzdgZRrH4OSoFPRHipZ4LLzH8FZEp8uhANhZYaXwcYrdY6Z6jwmLmcxHlj%2B4oA%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F601e48cda56bc2d35c4cabc316a2ef0b%2F43345063.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/601e48cda56bc2d35c4cabc316a2ef0b/43345063.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YOsr4yYCct1IgkKXrR4a7yIV1qx3gfNzcATeerrLKR%2BrBUFYmUinv0BTLh8lSvKK%2BnTPJDg01xkmq3eLh0URMmM3yP0nnnJ3YL%2FiOy%2B%2BGjOrJHHUFdF7MFBw0Z4FrbhoWcaSbe7uHxvtOQR5rTUlndIK2qU0d4Ls%2FBcu93RhZcw%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F601e48cda56bc2d35c4cabc316a2ef0b%2F43345063.mov)
 
 #### Additional Information
 - **Post color:** White
@@ -5290,7 +5293,7 @@
 ### 42. Post 42
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/0e01157340c12161fca078734bc5fb83/IMG_0436.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=V1s7ibSgbFpXTN0lItEzi3XG4h70V5wUTFpKE394U4gmlMS6bq50181GeZKeToDZUyUaKD%2B3nbJG4TOg%2FBFGpB9oOnvI6fTbihbaKOntm4C%2B6ATwApDTVg798s2dhZbBzfxPOd6wdlznR6HY%2B6hGw1rCeh9VtQZmU7Fs0nwnz6U%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F0e01157340c12161fca078734bc5fb83%2FIMG_0436.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/0e01157340c12161fca078734bc5fb83/IMG_0436.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YZfjPG5kZB9iiagEtkZIZPmySTTqcGprYVwP8%2BROxpv22r8La1A0V0gmBTW3o3AZWFIQheosQ3BPg6guaiWnur3qkxEVZbD5Sd8Mz1DJrHH5exszhAPAPcrolDO0VbiMJUwhIwW4h0LEyuCvLEIu3lQsJ%2BxD7BGYVjTnz11sD5Y%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F0e01157340c12161fca078734bc5fb83%2FIMG_0436.mov)
 
 #### Comments (3)
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (Jun 08, 2025 09:52pm): キッショwwwwwww
@@ -5310,7 +5313,7 @@
 ### 43. Post 43
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/317e9a78be50d77389827634f16d5898/RPReplay_Final1718428732.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vjrViELw8%2B6xOzsLJWL8cDIxQLAX0AfkUSeOJzF314jmaM4iPvLYrIv6MgjxsnP6TjhXHwgUfP2Qrut5aV2ylofnoSj970577ldmwC4XhTvc7yYZPXpui%2F7LGZQ14GUYy39i6%2BYlQLuDKCX2x9%2BM8lUtMkDXFdQ8pXUgAaL7W6Y%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F317e9a78be50d77389827634f16d5898%2FRPReplay_Final1718428732.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/317e9a78be50d77389827634f16d5898/RPReplay_Final1718428732.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CLT4N4BxSpaqmA8vDbIO%2F0XdGfkRk%2Bs0mVToavbYk3GvDOLQAexuSDuRWuGcXlEt2nhwv36l8bc7vvjKPA8V5aDGdMwumE08flVgeRpdD6cihHdRTKLhw6a8m8uwVP3CY6EtCnKmfV1VQRCHQuQdSElHcwlcykVP4ifHXghLd%2FM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F317e9a78be50d77389827634f16d5898%2FRPReplay_Final1718428732.mov)
 
 #### Reactions
 - **Number of likes:** 2
@@ -5325,7 +5328,7 @@
 ### 44. Post 44
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/8d4bd9a6f4c1df117ada9e7d359e85b8/472ac0c38387145d62e81395d1e57e0604510dac.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lsaPqNts0WXXqqJIxqhhsyWUt2u3%2FRizwAWiWBclBH3LmFsgfgLHNQDmKu%2BmVsCRTAcTkDK7QZZyfyylhxVrBhk4rKF9ySqHZ2PrwZkFEHiiv4EUdJ5LBDXJaL2pDyDi7v%2F3RrHF%2BT9DOZzdAksg8NfxVyeAbibeeFQ2Y0ugrBU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F8d4bd9a6f4c1df117ada9e7d359e85b8%2F472ac0c38387145d62e81395d1e57e0604510dac.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/8d4bd9a6f4c1df117ada9e7d359e85b8/472ac0c38387145d62e81395d1e57e0604510dac.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gsFDTwLfEHutt47BtQ07M98P2RGVNDYM5C2nwmgD5Tx4NnDijnb%2FbP7yrBp2qd%2FOVR26JE414Zjud%2FosrO2Biwt8QRXOYVojI8Q0SAuA0M3BklnHkg0uMjojTv%2FjkV8uqzUdAKr6psP8zrt1aNMr81gtne1Hg5fdepdi5MTUKgk%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F8d4bd9a6f4c1df117ada9e7d359e85b8%2F472ac0c38387145d62e81395d1e57e0604510dac.mov)
 
 #### Additional Information
 - **Post color:** White
@@ -5337,7 +5340,7 @@
 ### 45. Post 45
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/72bcca144233af2c16a7d7178e752f2a/20252162135.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BEu%2F8HFl3EwAcfrl7wjokmaR2qC12S%2B%2Bay69ESK%2BbzMdjCIxXGwW6%2FHKDZiRcsyOPCNH2fPLguI4m0foByOA5TxwEKgpbttSu7K%2BRk0mNzzJdHLNQvF6bhLgKw6hhhzWvndMTCxrkOYEviOUttbWhFJ2deiMI19zuXDARvsaUHc%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F72bcca144233af2c16a7d7178e752f2a%2F20252162135.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/72bcca144233af2c16a7d7178e752f2a/20252162135.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FogqYYnB4sScAi0QwKpSCTqbnhTf6c9iEtLkZLASe4npVV1f8tPiNS%2FZuM2vrEu%2F9AmsHZzayt4ZMYP9EtuRfC%2BsiTeXyxPuzMU1E55uq%2F2PXZVwTAixk%2FnL%2FhhKeK2irTx8upVMD7DAf7o%2BWuycVk%2FsqthOTj3rliUHjwpVEAw%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F72bcca144233af2c16a7d7178e752f2a%2F20252162135.mp4)
 
 #### Comments (2)
 - **✧イケメン✧    温玉チーズ牛丼** (May 15, 2025 10:11pm): このひととヤレタラもう人生惜しみない
@@ -5356,7 +5359,7 @@
 ### 46. Post 46
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/1968fa4d050a95df4ca03d0938aa6057/68CenVMZWtt3Gp_n.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3bxUSUHxtLpJPTPbWj5zXPxkIKJMg%2FYXr%2BZTzkq6HRF%2FTASSsJeE4PNraHoOFFg0%2BK1CuTJMZZsSxgcyKsiAJHci92QVU0o9QuvaDO9XMX7En0Py5V27lfUpsPcfT7qb1CZYtJqOnzgpY73xxUz5plS3rYgC634aU6TgLQQDcUE%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F1968fa4d050a95df4ca03d0938aa6057%2F68CenVMZWtt3Gp_n.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/1968fa4d050a95df4ca03d0938aa6057/68CenVMZWtt3Gp_n.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=k6StsJpAeU6MbZszr4amF7iqlTCYEkZhcCdxkvAKZCDu%2B9VsvvPi5koBuLAUPfvyfYuV2KSAzsarcX5WULKe2Gs6jc0nNziLsc07DMpHWGFv1Dw%2BmRf2EJbA3GeWtLQRsKEePJmTpcISXyoEs4vF8xiQYcCEL%2FYvEodoJKIEsVs%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F1968fa4d050a95df4ca03d0938aa6057%2F68CenVMZWtt3Gp_n.mp4)
 
 #### Additional Information
 - **Post color:** White
@@ -5368,7 +5371,7 @@
 ### 47. Post 47
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/0402e650af515b44c38253cfb3783b23/doQFWO6Nty68kX47.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Yixg9NFRK1ZWKUJsK4nhyWsYI7LStExCuBkRl51giDmYJYh7rREXx%2Bs7cDbQLoldghmMm2PqgbLV8cp3AidCiyKuqhL%2B6GRslT9ckWJgnF397g6skaYRR1gvyrfoawSpc9hTTORxMdd7MKFxMzl2lqmUlF0%2FxB3JYRNi3juHITQ%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F0402e650af515b44c38253cfb3783b23%2FdoQFWO6Nty68kX47.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/0402e650af515b44c38253cfb3783b23/doQFWO6Nty68kX47.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MVr%2FDaJF1unXAlm6DODSVbE%2BU4dLkT%2F%2Bpysn1u2DXWvun45lkIb55c47Ewr3pminR%2B09cO1gDGpKGRJtnw82GK07NSEbJwDN66M44LjpWmqvWLRyNVefox%2FnmDBaodJk6hsz4nmprsyFlFVUGh5ZztZXE6Qq2FsynWSd%2FMPrkhM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F0402e650af515b44c38253cfb3783b23%2FdoQFWO6Nty68kX47.mp4)
 
 #### Additional Information
 - **Post color:** White
@@ -5380,7 +5383,7 @@
 ### 48. Post 48
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/eb17420274e7c8b9b776c84f92bed731/2VGy0qSNCGjy2pN.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EgQiW31%2BBmP3pIemVclYzQVSoqpi6R0Q9aLvpfqJdTRGja2hJQsMyKvSkbEdVjBMqnVnWJYBhyDuoHQqT9UNN0R5T26crVxSDrrubktRLFYA4vRMSwhisjZRvG6gU%2BrcUohByg2i7%2FnYIPaPkbIjpuOyQR7Flf6T11VvDmttnOw%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Feb17420274e7c8b9b776c84f92bed731%2F2VGy0qSNCGjy2pN.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/eb17420274e7c8b9b776c84f92bed731/2VGy0qSNCGjy2pN.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=e879t%2B77fpm0iasx8gBUGhAIqjS4PYtm9GmTWJpDVeihK8F3%2FiMj067zQU4N1XQCY7LhNSdSFx6ERHMsD5XVjuGqm6eISvhAJ1dQCtqRfzSGzTCpY0hGOIi6UiXMHnkuOJMTyztuYk6dy4drGwXGfRGHcYDBuiZJPm1Mx6fkpe8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Feb17420274e7c8b9b776c84f92bed731%2F2VGy0qSNCGjy2pN.mp4)
 
 #### Comments (14)
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (Jun 08, 2025 09:54pm): ちょっと別の面白みがあるなww
@@ -5411,7 +5414,7 @@
 ### 49. Post 49
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/001ffda95b4fdc7604be216f38f0ab8d/462484165502173253.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uR%2BG%2FFg%2Bc7QHiQPbnOrhHPJb1ixxgwCrXEIzRBgIhFYYY8nSRtdIawWAoTpu0mVowZlPVhb1fsgHpPh2QxSe1jh6N9BoeCcANv%2FwZvn0Luvfs6sz%2B%2BQUsqbsyngM%2BXXm6t%2Fi7bxVb2Cb6gpC%2BbyRuG2oh7ZS%2BuHjV2kTLFC0yic%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F001ffda95b4fdc7604be216f38f0ab8d%2F462484165502173253.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/001ffda95b4fdc7604be216f38f0ab8d/462484165502173253.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=w4py%2Bv9snuhzxKxJ5tJA96WkzYsVr8D7yTHMrLMmX9RlH1zGa4IZXTqe6kITQH5xBOsDiLGU1w7nx%2F%2Frr0FVoamXXIxBm8C5a9Q3ZwkjiFT3GjWae5jsdJE7PjM7PpdqvRURPx3qwMY%2FLDraDM88jaRfjv%2Bb3JrlsDzEM2yMd60%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F001ffda95b4fdc7604be216f38f0ab8d%2F462484165502173253.mov)
 
 #### Additional Information
 - **Post color:** White
@@ -5423,7 +5426,7 @@
 ### 50. Post 50
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/53118be061a938e3adca1fc0c3bbec35/ouSe8ZZMOgz_flh4.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QGqiUaIvkIaI0dYVglY%2FRKueBIsfCyuQR7KhCFhTjaTvPwY8pQlmrFaW6MCQETWlLYXCeiAAq9o%2FRSOo%2Bg%2FLHC3v6P81wkvjmPE7vUIMiNPVt6ZsRgA9ZG%2FUsoNqw2e5BSVO5%2Frjmzz3G4IeEfZWzOaydnyaZsrl0%2BguYFvxDRM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F53118be061a938e3adca1fc0c3bbec35%2FouSe8ZZMOgz_flh4.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/53118be061a938e3adca1fc0c3bbec35/ouSe8ZZMOgz_flh4.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=G7gdsMKDZ92LbuQxTT6TtEH7CLI6lVfTTDTg3fRby%2FQc4ecKbpfm4aeAumi1NZzdMrUN%2FY6xR2y%2B9Z%2FMMHP8qgdTLJVCoay2kbiS%2FiRcdGc%2BMC76wXF7nefVR%2BQ0mXdzNlzSJGTsgoweS4vUoEMFENcu9iLXhZYPNhVVqAf2yQA%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F53118be061a938e3adca1fc0c3bbec35%2FouSe8ZZMOgz_flh4.mp4)
 
 #### Comments (1)
 - **杉山力斗** (May 05, 2025 05:43pm): タイプやわ
@@ -5441,7 +5444,7 @@
 ### 51. Post 51
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/defaf929f88cfc82990999170041df76/1113.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5bOOlpmI69OMumHvVx2Pi8s5bAJxd07kPJCqkiRcFnt%2FzRZAuRoNaGTyb%2FUHKt1Dz0kxnCpVxn%2BCTpL3rBEL6Nfc76KA0dF4awYF050Z3Nq61qL5mnG0sKFjd3MeuAQ8RVAChqaay3t3q1Ha5TAp9GreFzdVdGAIVwJPaXfgK9M%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fdefaf929f88cfc82990999170041df76%2F1113.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/defaf929f88cfc82990999170041df76/1113.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Do7G0o64I2Ec6wFXHmiPmkGLOYNU7hj5tC3u4noQJQ4doOqlzr3wZJii8TcdqnqvQ5Ef7M5Q1DvueYoxeN4DeQ7zLNApiDq85JVr%2FIU5vSRzW9eT5goCQHpB%2FD35Hw5NacL%2BecINfZul%2Bs2YW6jfXlUm40miwETU6MyFzebPA3o%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fdefaf929f88cfc82990999170041df76%2F1113.mp4)
 
 #### Comments (1)
 - **💛きいろはーと💛ルカ・ドンチッチ推し！** (Jun 30, 2025 09:12am): こえきも
@@ -5456,7 +5459,7 @@
 ### 52. Post 52
 **Author:** ダック🦆 (85044200)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/c25d6b564d5055b0cafec965bdfd58cb/7mHmf_h0D0fNBie_.mp4?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Dljn9nNTTryY4FJP9tNdpNJg9jYmKr6C56rjfw%2FemFVu%2FjqiHRONIyso9o2dkH4s%2BN4aIGQlWikI253AQm2dCqDNbz%2FQUnstNtwjrkdL5RwBQzuiEkRRqDtjyruGBxcTvsOkauroePE5k9W0L%2FT7nU8NerCeU54h4CVqrk8Kuj0%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fc25d6b564d5055b0cafec965bdfd58cb%2F7mHmf_h0D0fNBie_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2723618751/c25d6b564d5055b0cafec965bdfd58cb/7mHmf_h0D0fNBie_.mp4?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=a2tZbgTuQP3eElDGBa0PNE8rXxV9IFnGq0lVXSJtnDz1BPoVkylO3PMTAPb0inBW5Gtm45UWp0aKKrR2RmL5GMsLZ6utvjeu%2F%2FTegdwQ83cpZ2yZOs0NK5GuWddO02six4cYNKXciO495pqGhGWglO7BjbryRi%2BhlzMqbwpHOh4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fc25d6b564d5055b0cafec965bdfd58cb%2F7mHmf_h0D0fNBie_.mp4)
 
 #### Comments (1)
 - **受験諦めたただのカス** (Jun 05, 2025 07:05am): ちっさ
@@ -5471,7 +5474,7 @@
 ### 53. Post 53
 **Author:** ダック🦆 (koregahonmono)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/7590f63226bfa96a63c4e3aebb437b4e/cachedVideo_4.mov?Expires=1775811405&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CCkBiTs9BppcM75QFJPRtrtRNj6hiXUInGRWIbouVHuxLEAeEWcDJPt7WFG09di3pekjkl5%2F%2BodR3sW9RjK2GODSzg9byS2kSlTV7HxgJTcG4CsUI9FrO%2FV7%2B4UmxvHIzVkaDhAeuIcKryuRy7sEUuhfugFnD4LxM%2BXIkvRR2x0%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F7590f63226bfa96a63c4e3aebb437b4e%2FcachedVideo_4.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2863200253/7590f63226bfa96a63c4e3aebb437b4e/cachedVideo_4.mov?Expires=1775998851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rR6CEmSCzwGI8dLiEJoxHqEbwH04N55YfAbm42fVeeZJgjFRSk355dmlEG%2FZuFILixZdKj35DuWQZqy3W0UYFO6QnTdC7h4Boo1wp0ZK90ZJzeiG4q2rCDX2VrYJHgrStPVeAhyRtEAtpwnIJDdVTxSFANqFUIKNRIe%2BFLITP2c%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F7590f63226bfa96a63c4e3aebb437b4e%2FcachedVideo_4.mov)
 
 #### Comments (2)
 - **受験諦めたただのカス** (Jun 05, 2025 07:06am): かわよ
