@@ -1,4 +1,4 @@
-最終更新: 2026/04/05 11:36:28
+最終更新: 2026/04/05 14:13:31
 
 # 規制解除委員会(ライター受付)
 
@@ -7,20 +7,20 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 7
+- **Posts:** 8
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Apr 05, 2026 12:01am
+- **Updated At (UTC):** Apr 05, 2026 05:09am
 
 ## ルール
 
 ### 1. 〜ルール〜
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
-<p><br/></p><p>・ライターになりたいなら僕のことをフォローしてください。</p><p>・間違ったメルアドを送らないでください。</p><p>・荒らし、過度な暴言は即コメンターです。</p><p>(酷い場合は読者)</p><p>・権限乱用は禁止</p><p>(報告された場合は即コメンター)</p><p>・許可のない宣伝は禁止</p><p>・個人情報の投稿の投稿は禁止</p><p>(投稿を確認したら即BAN&amp;読者)</p>
+<p><br></p><p>・ライターになりたいなら僕のことをフォローしてください。</p><p>・間違ったメルアドを送らないでください。</p><p>・荒らし、過度な暴言は即コメンターです。</p><p>(酷い場合は読者)</p><p>・権限乱用は禁止</p><p>(報告された場合は即コメンター)</p><p>・許可のない宣伝は禁止</p><p>・個人情報の投稿の投稿は禁止</p><p>(投稿を確認したら即BAN&amp;読者)</p>
 
 #### Additional Information
 - **Created At (UTC):** Mar 25, 2026 11:38am
-- **Updated At (UTC):** Mar 25, 2026 11:39am
+- **Updated At (UTC):** Apr 05, 2026 05:04am
 
 ---
 
@@ -63,18 +63,27 @@
 
 ## 連絡
 
-### 1. 受付(ライター)方法の変更
+### 1. カバー画像作ってくれる人募集中！
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
+
+#### Additional Information
+- **Created At (UTC):** Apr 05, 2026 05:10am
+- **Updated At (UTC):** Apr 05, 2026 05:10am
+
+---
+
+### 2. 受付(ライター)方法の変更
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 <p>メルアドを別部屋にて添付してください。</p><p>管理者以外が他の人の投稿を確認することはできません。</p><p>→の部屋にてメルアドを投稿してください。</p>
 
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 12:22pm
-- **Updated At (UTC):** Mar 23, 2026 12:35pm
+- **Updated At (UTC):** Apr 05, 2026 05:09am
 
 ---
 
-### 2. 閲覧数26000突破
+### 3. 閲覧数26000突破
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 #### Additional Information
@@ -92,6 +101,6 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 12:33pm
-- **Updated At (UTC):** Mar 23, 2026 12:33pm
+- **Updated At (UTC):** Apr 05, 2026 05:04am
 
 ---

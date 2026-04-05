@@ -1,4 +1,4 @@
-最終更新: 2026/04/05 11:36:30
+最終更新: 2026/04/05 14:13:34
 
 # 規制解除委員会(本部)
 
@@ -7,20 +7,22 @@
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
-- **Posts:** 22
+- **Posts:** 21
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Apr 05, 2026 01:52am
+- **Updated At (UTC):** Apr 05, 2026 05:10am
 
 ## ライター許可
 
 ### 1. ライターが欲しい人へ
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
-<p>この部屋にて受付を完了してください</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl">https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl</a></p>
+<p>この部屋にて受付を完了してね</p>
+
+[Attachment 1](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl)
 
 #### Additional Information
 - **Created At (UTC):** Mar 20, 2026 07:42am
-- **Updated At (UTC):** Mar 23, 2026 11:49am
+- **Updated At (UTC):** Apr 05, 2026 05:03am
 
 ---
 
@@ -39,7 +41,25 @@
 
 ## 連絡
 
-### 1. 閲覧数1250突破
+### 1. カバー画像作ってくれる人募集中！！！
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
+
+#### Additional Information
+- **Created At (UTC):** Apr 05, 2026 05:10am
+- **Updated At (UTC):** Apr 05, 2026 05:10am
+
+---
+
+### 2. 閲覧数1650突破
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
+
+#### Additional Information
+- **Created At (UTC):** Apr 05, 2026 05:01am
+- **Updated At (UTC):** Apr 05, 2026 05:01am
+
+---
+
+### 3. 閲覧数1250突破
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 #### Additional Information
@@ -48,56 +68,34 @@
 
 ---
 
-### 2. 閲覧数1300突破！
+### 4. 閲覧数1300突破
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 #### Additional Information
 - **Created At (UTC):** Mar 25, 2026 11:41am
-- **Updated At (UTC):** Mar 25, 2026 11:41am
+- **Updated At (UTC):** Apr 05, 2026 05:01am
 
 ---
 
 ## 雑談
 
-### 1. 中居さん来てください！
-**Author:** ニンニク (Hamuegg)
-
-#### Comments (4)
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 04, 2026 10:08am): なんで？
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 04, 2026 10:08am): どこに
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 04, 2026 10:09am): meetか？
-- **ニンニク** (Apr 05, 2026 01:52am): プロフィールに工口の知識もあるって書いてあったんで教えてほしくてですね
+### 1. 雑談(ライター用)
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 #### Additional Information
-- **Created At (UTC):** Apr 04, 2026 08:19am
-- **Updated At (UTC):** Apr 04, 2026 08:19am
+- **Created At (UTC):** Apr 05, 2026 05:02am
+- **Updated At (UTC):** Apr 05, 2026 05:02am
 
 ---
 
-### 2. やっぱ9時50分で
-**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+## 雑談
+
+### 1. 雑談(コメンター用)
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 #### Additional Information
-- **Created At (UTC):** Apr 02, 2026 12:20pm
-- **Updated At (UTC):** Apr 02, 2026 12:20pm
-
----
-
-### 3. 今夜meetしようぜ9時30分ぐらいに
-**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
-
-#### Additional Information
-- **Created At (UTC):** Apr 02, 2026 11:46am
-- **Updated At (UTC):** Apr 02, 2026 11:46am
-
----
-
-### 4. どうした
-**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
-
-#### Additional Information
-- **Created At (UTC):** Apr 01, 2026 08:20am
-- **Updated At (UTC):** Apr 01, 2026 08:20am
+- **Created At (UTC):** Apr 05, 2026 05:01am
+- **Updated At (UTC):** Apr 05, 2026 05:02am
 
 ---
 
@@ -110,7 +108,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Apr 04, 2026 10:38am
-- **Updated At (UTC):** Apr 04, 2026 10:38am
+- **Updated At (UTC):** Apr 05, 2026 05:03am
 
 ---
 
@@ -143,14 +141,14 @@
 ### 1. プロキシ
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
-<p>Shadow </p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.colneech.co.uk/">https://shadow.nana.colneech.co.uk/</a> </p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.redlen.co.za/">https://shadow.nana.redlen.co.za/</a></p><p> </p><p>インターステラー </p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.colneech.co.uk/">https://interstellar.nana.colneech.co.uk/</a> </p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.redlen.co.za/">https://interstellar.nana.redlen.co.za/</a>　 </p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.goodwind.sk/">https://interstellar.nana.goodwind.sk/</a></p><p><br/></p><p>その他</p><p><a rel="noopener noreferrer nofollow" href="https://app.apponfly.com/trial">https://app.apponfly.com/trial</a></p>
+<p>Shadow </p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.colneech.co.uk/">https://shadow.nana.colneech.co.uk/</a> </p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://shadow.nana.redlen.co.za/">https://shadow.nana.redlen.co.za/</a></p><p> </p><p>インターステラー </p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.colneech.co.uk/">https://interstellar.nana.colneech.co.uk/</a> </p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.redlen.co.za/">https://interstellar.nana.redlen.co.za/</a>　 </p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.nana.goodwind.sk/">https://interstellar.nana.goodwind.sk/</a></p><p><br></p><p>その他</p><p><a rel="noopener noreferrer nofollow" href="https://app.apponfly.com/trial">https://app.apponfly.com/trial</a></p>
 
 #### Reactions
 - **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Created At (UTC):** Mar 19, 2026 12:45pm
-- **Updated At (UTC):** Mar 25, 2026 11:42am
+- **Updated At (UTC):** Apr 05, 2026 05:03am
 
 ---
 
@@ -174,7 +172,7 @@
 
 <p>pcの知識必要だよん。</p><p>わかめ作れるンゴ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775961390&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=B9ZrJk1epBLXBGxdhgW3oZSXXfD%2B34RT4zxJr3q3PH2AHeb7O4wfqhBNf5b6PiLpxQ7e34kU9NE8iapx74thMs1N4TPM7YAd3rKySEnN5R2g9aA0okjmizmLGJPbsSeeVVrI8qLbnSg3rVc367V1ZwPK%2B8xc1EJ20mqV97%2BJJts%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775970814&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=D6RwHqhhxQhGedpNkmIdvQA78CwKBl6Ygt9h4S%2F5R%2BMjl66P9N5zkOUhTluvpNgeylDSagteE2GffkVU8qxzrxVpZupMxGTEuuLfxYEEg4lLh31GLYr8eZZMpjh5sTBThxF9T83a9%2BTIL%2BGC2sV0S1%2FVI169qtckeUB1FjQDHRA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:02am
@@ -182,27 +180,27 @@
 
 ---
 
-### 3. game
+### 3. wakamegame
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
-
-<p>中居ありがとう</p>
 
 [Attachment 1](https://html.cafe/x2ba6af35)
 
 #### Additional Information
 - **Created At (UTC):** Mar 27, 2026 01:12pm
-- **Updated At (UTC):** Mar 27, 2026 01:12pm
+- **Updated At (UTC):** Apr 05, 2026 04:59am
 
 ---
 
 ### 4. カツオtube
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
-<p><a rel="noopener noreferrer nofollow" href="https://katuotube-1-1-sdw5.onrender.com/game.html"><strong>https://katuotube-1-1-sdw5.onrender.com/game.html</strong></a></p><p><strong>パスワード　katuo</strong></p>
+<p><strong>パスワード　katuo</strong></p>
+
+[Attachment 1](https://katuotube-1-1-sdw5.onrender.com/game.html)
 
 #### Additional Information
 - **Created At (UTC):** Mar 27, 2026 01:11pm
-- **Updated At (UTC):** Mar 28, 2026 12:52pm
+- **Updated At (UTC):** Apr 05, 2026 04:59am
 
 ---
 
@@ -224,7 +222,7 @@
 
 <p>わかんないことあったら読んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775961390&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jnSDKzm%2Bsvtx%2BB890hctcXC7Ph2OAddhofv5Mq2SIKrYbsDp%2Fletu1tohdeaJNeCOC3%2FUJRkGSIgbFELth9ofhVtB0yIErTbbuqeWYuuKBmgzSWvi6XPjvzfztARxwZneJN%2B8o7ylRzvooKY6gSGyeTxXu8Iib3BAC3yoNGIvjo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775970814&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=g4MDMNnhh7n1vTUwji6PAbk%2B%2BZUm5KHcsx9sdU0P921zg5We3aydzLXaQB31IsQ53WfW5jIRVdF6k8cZr15n3uthsI05UD3h9vUfFJ37LSYpqDgc2RB4fJ9aE4E5qNHrLsNbGwEYbeWi8aMWdLljkFThUW%2F8eHzpQGJ%2FemfvC6w%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:03am
@@ -234,14 +232,14 @@
 
 ## 宣伝
 
-### 1. Post 1
-**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+### 1. 中居部屋
+**Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
 [Attachment 1](https://padlet.com/nakaisexfriend/padlet-5kf0xx32tm6oxgfa)
 
 #### Additional Information
-- **Created At (UTC):** Apr 04, 2026 10:50am
-- **Updated At (UTC):** Apr 04, 2026 10:50am
+- **Created At (UTC):** Apr 05, 2026 05:00am
+- **Updated At (UTC):** Apr 05, 2026 05:00am
 
 ---
 
@@ -264,19 +262,5 @@
 #### Additional Information
 - **Created At (UTC):** Mar 25, 2026 11:46am
 - **Updated At (UTC):** Mar 25, 2026 11:48am
-
----
-
-## meet ingTV
-
-### 1. 基本的に俺ととるっぷいのmeetだから入りたいやつは俺かとるっぷいに聞け
-**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
-
-#### Comments (1)
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Mar 30, 2026 11:26am): https://fairmeeting.net/%e9%aa%a8%e4%bb%98%e3%81%8d%e3%82%a8%e3%83%89%e8%82%89
-
-#### Additional Information
-- **Created At (UTC):** Mar 30, 2026 11:25am
-- **Updated At (UTC):** Mar 30, 2026 11:25am
 
 ---
