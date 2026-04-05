@@ -1,4 +1,4 @@
-最終更新: 2026/04/05 16:09:04
+最終更新: 2026/04/05 17:45:25
 
 # Padletポータルワールド
 
@@ -1083,7 +1083,7 @@
 ---
 
 ### 44. るるるの雑談部屋！
-**Author:** るるる　バルコク共和国の大統領＃趣味は仮面ライダー＃まふいんさんサイクロプスの親友＃オガロンのファン＃ローガー様の第一下僕＃Zの永久婚約者　ぬほさたさんとカップルになった♡ (barukokukyouwakoku)
+**Author:** ぴよたん💗 (barukokukyouwakoku)
 
 <p>宣伝自由にしていってね。</p><p>フォロパも受け付けてるよ！</p><p><br/></p>
 
@@ -2716,7 +2716,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1775977744&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dsZ0S4c%2BHMYTmRi2by2PElSQJKyslUFRmbSxDwjay2eVjaT7%2BE62p%2BzsQD7sHvHLXAe3mbjMYkSUI%2FyNjTdCYe9uY1uaeDpo6IkxI5q68755jQ8%2FmR3tzwlRAUmK5rIKVZAqFQE1OCLxT%2B%2FsYeXCCanJLUCA7c5R%2B%2BbwgzbX%2BcM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1775983525&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=H8ohp0c14rbrXpNMv0jrQoKpv4Fk%2BQBt%2BZr4AVofoVZt1LlO78mS%2Bf0exmBCw%2F0M9TTkot9HDmzaoX3enj7%2FKaUCqUWPXOseN5Oed%2FbtU%2FUSP%2Bl4TI3n09HBxJbaIikK2BZ1x%2FBTO9FUJXdoyeFSg3HnTxn1vbUvWhNuJeSAwRs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
