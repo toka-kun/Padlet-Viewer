@@ -1,4 +1,4 @@
-最終更新: 2026/04/05 08:33:16
+最終更新: 2026/04/05 11:36:30
 
 # 規制解除委員会(本部)
 
@@ -9,7 +9,7 @@
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 - **Posts:** 22
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Apr 04, 2026 10:50am
+- **Updated At (UTC):** Apr 05, 2026 01:52am
 
 ## ライター許可
 
@@ -62,10 +62,11 @@
 ### 1. 中居さん来てください！
 **Author:** ニンニク (Hamuegg)
 
-#### Comments (3)
+#### Comments (4)
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 04, 2026 10:08am): なんで？
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 04, 2026 10:08am): どこに
 - **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 04, 2026 10:09am): meetか？
+- **ニンニク** (Apr 05, 2026 01:52am): プロフィールに工口の知識もあるって書いてあったんで教えてほしくてですね
 
 #### Additional Information
 - **Created At (UTC):** Apr 04, 2026 08:19am
@@ -173,7 +174,7 @@
 
 <p>pcの知識必要だよん。</p><p>わかめ作れるンゴ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775950396&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=I5w5o9zrSOMTn7C1zRWS5jYpno1nwWK5kih1%2FvXM4Yubgghxfv3Mq1jngvR%2FzKc6OkJL6a3bqGtimDC0SVn0WDu1mcHNKXYa6Cih4Yr3wauhk5fEz1eCtc0BlqemrfOHswqF%2BrMKveKMg5Cdr1H2%2B3xZFNH9M0C8%2Fo8XSVa6MGc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775961390&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=B9ZrJk1epBLXBGxdhgW3oZSXXfD%2B34RT4zxJr3q3PH2AHeb7O4wfqhBNf5b6PiLpxQ7e34kU9NE8iapx74thMs1N4TPM7YAd3rKySEnN5R2g9aA0okjmizmLGJPbsSeeVVrI8qLbnSg3rVc367V1ZwPK%2B8xc1EJ20mqV97%2BJJts%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:02am
@@ -223,7 +224,7 @@
 
 <p>わかんないことあったら読んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775950396&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ooYef%2Bq0GywrnactAjZCpxuKksm4roCljh9AyIULYwEGWAn0V8c9ewnkw3QvV%2Fe45IX3mHwOG4GAqiGHSURi%2FMuhLmnDuO8gFp673uAKFIWr2vhmgKE2yBOw1RYGEiDdBZAKSBJr8NPUy5qSbIpxlL1E2lQaNEiViPg8tf6VAUE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775961390&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jnSDKzm%2Bsvtx%2BB890hctcXC7Ph2OAddhofv5Mq2SIKrYbsDp%2Fletu1tohdeaJNeCOC3%2FUJRkGSIgbFELth9ofhVtB0yIErTbbuqeWYuuKBmgzSWvi6XPjvzfztARxwZneJN%2B8o7ylRzvooKY6gSGyeTxXu8Iib3BAC3yoNGIvjo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:03am
