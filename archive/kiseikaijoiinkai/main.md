@@ -1,4 +1,4 @@
-最終更新: 2026/04/05 14:13:34
+最終更新: 2026/04/05 16:09:22
 
 # 規制解除委員会(本部)
 
@@ -9,7 +9,7 @@
 - **Builder:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 - **Posts:** 21
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Apr 05, 2026 05:10am
+- **Updated At (UTC):** Apr 05, 2026 05:19am
 
 ## ライター許可
 
@@ -41,12 +41,14 @@
 
 ## 連絡
 
-### 1. カバー画像作ってくれる人募集中！！！
+### 1. お知らせ
 **Author:** とるっぷい#復活#元ウンコマン (TORI_TORI2)
 
+<p>規制解除委員会の本部、ライター受付のカバー画像の制作をお願いしています。</p><p>制作して、選手された人には景品があります。</p><p>選出された人にはフォロー、ベルトの手伝い、部屋の宣伝が景品として行われます。</p><p>〈参加賞〉</p><p>選出されなくても送ってくれた人はフォローします。</p><p>※作ったカバー画像は一番右のカバー画像(臨時)というセクションに送ってください。</p><p>〈期限〉</p><p>4月31日　午前10時30分</p>
+
 #### Additional Information
-- **Created At (UTC):** Apr 05, 2026 05:10am
-- **Updated At (UTC):** Apr 05, 2026 05:10am
+- **Created At (UTC):** Apr 05, 2026 05:19am
+- **Updated At (UTC):** Apr 05, 2026 05:19am
 
 ---
 
@@ -172,7 +174,7 @@
 
 <p>pcの知識必要だよん。</p><p>わかめ作れるンゴ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775970814&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=D6RwHqhhxQhGedpNkmIdvQA78CwKBl6Ygt9h4S%2F5R%2BMjl66P9N5zkOUhTluvpNgeylDSagteE2GffkVU8qxzrxVpZupMxGTEuuLfxYEEg4lLh31GLYr8eZZMpjh5sTBThxF9T83a9%2BTIL%2BGC2sV0S1%2FVI169qtckeUB1FjQDHRA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1775977762&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UAVMLKlO92oX%2F3FQx29ZM9Mz1F6V4WOu9v0IE6wAX2xjPfPud9l8RKHu1hsC1lNZnumOzOnujKAicY8KtJKCOB2j0w0KZwiMi%2B4f1Du60CvyjqOpdq%2BH78AI%2BhHKjc8vpKK5KT7C3eY9YmR0yOPdK9oGBu0uPwAJMon7Nx%2FaVwA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:02am
@@ -222,7 +224,7 @@
 
 <p>わかんないことあったら読んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775970814&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=g4MDMNnhh7n1vTUwji6PAbk%2B%2BZUm5KHcsx9sdU0P921zg5We3aydzLXaQB31IsQ53WfW5jIRVdF6k8cZr15n3uthsI05UD3h9vUfFJ37LSYpqDgc2RB4fJ9aE4E5qNHrLsNbGwEYbeWi8aMWdLljkFThUW%2F8eHzpQGJ%2FemfvC6w%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1775977762&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Tio9To%2FrOYOYakKAT%2FfIVGD16%2FY5wQfoDILbgqa6JjnSkpZ8MLoXeE%2BzzL92dc6r7AoH7XpAyDmCUNuX3hXJS1KgWQfkj%2F0xBo%2BS%2FFNbpUt%2F1W34VjkN%2BKvr8XKW%2FbhSqGgHajCK0JsK7wj4tixEsWws%2Fa9ntvRn9coZJjX%2F41k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:03am
@@ -264,3 +266,7 @@
 - **Updated At (UTC):** Mar 25, 2026 11:48am
 
 ---
+
+## カバー画像(臨時)
+
+No post
