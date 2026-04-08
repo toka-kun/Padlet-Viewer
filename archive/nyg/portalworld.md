@@ -1,4 +1,4 @@
-最終更新: 2026/04/08 11:33:16
+最終更新: 2026/04/08 14:12:16
 
 # Padletポータルワールド
 
@@ -1107,7 +1107,7 @@
 ---
 
 ### 45. るるるの雑談部屋！
-**Author:** ぴよたん💗 (barukokukyouwakoku)
+**Author:** るるる　バルコク共和国の大統領 (barukokukyouwakoku)
 
 <p>宣伝自由にしていってね。</p><p>フォロパも受け付けてるよ！</p><p><br/></p>
 
@@ -2740,7 +2740,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1776220395&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=a3%2FurSA6MgbB9DSziLNnpWzsQXQavv35bEnKmbnRg9RP0H83ezYbTETGpf0ORe2Y3O4YXkA8Buy7ifAlyiHXxuKb3%2FEAoapOp1WVDIweUde5qZqFYbsegPOhg3A63evjT0GaM%2BYAjfTTyZxhZNrj%2B7eg5MK9KRVt55k4dXkfohU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1776229936&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XnkxC9as06MDncjyqVEYew8DdLcYmPiDAd3S0ydjT46Y%2BYq%2FsLmXHqWyAfMZhPoit%2FNW0ODKilXdi1IbAOdwFXFgyEKIGfpJ6TVTVD8MfnsZSDYjyb2H2lJMAOQ0jiup3rZgOO6elL32QnGo9bCvuRDYQWBQVMGjC0nP5umplbg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
