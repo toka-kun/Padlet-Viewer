@@ -1,4 +1,4 @@
-最終更新: 2026/04/08 11:33:34
+最終更新: 2026/04/08 19:58:16
 
 # 規制解除委員会(ライター受付)
 
@@ -7,20 +7,20 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 10
+- **Posts:** 11
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Apr 08, 2026 01:24am
+- **Updated At (UTC):** Apr 08, 2026 09:31am
 
 ## ルール
 
 ### 1. 〜ルール〜
 **Author:** とるっぷい (TORI_TORI2)
 
-<p><br></p><p>・ライターになりたいなら僕のことをフォローしてください。</p><p>・間違ったメルアドを送らないでください。</p><p>・荒らし、過度な暴言は即コメンターです。</p><p>(酷い場合は読者)</p><p>・権限乱用は禁止</p><p>(報告された場合は即コメンター)</p><p>・許可のない宣伝は禁止</p><p>・個人情報の投稿の投稿は禁止</p><p>(投稿を確認したら即BAN&amp;読者)</p>
+<p><br/></p><p>・ライターになりたいなら僕のことをフォローしてください。</p><p>・間違ったメルアドを送らないでください。</p><p>・荒らし、過度な暴言は即コメンターです。</p><p>(酷い場合は読者)</p><p>・権限乱用は禁止</p><p>(報告された場合は即コメンター)</p><p>・許可のない宣伝は禁止</p><p>・個人情報の投稿の投稿は禁止</p><p>(投稿を確認したら即BAN&amp;読者)</p>
 
 #### Additional Information
 - **Created At (UTC):** Mar 25, 2026 11:38am
-- **Updated At (UTC):** Apr 05, 2026 05:04am
+- **Updated At (UTC):** Apr 08, 2026 09:31am
 
 ---
 
@@ -54,11 +54,6 @@
 **Author:** とるっぷい (TORI_TORI2)
 
 [Attachment 1](https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5)
-
-#### Comments (3)
-- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:16am): 入ったよぉぉぉぉ〜〜〜
-- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:24am): https://padlet.com/tiktok_yuta_ahirukunndayo/padlet-brwj5qg1bssfk7w9
-- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:24am): はいって
 
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 12:17pm
@@ -129,5 +124,20 @@
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 12:33pm
 - **Updated At (UTC):** Apr 06, 2026 12:55pm
+
+---
+
+## ブラックリスト
+
+### 1. Post 1
+**Author:** とるっぷい (TORI_TORI2)
+
+<p>許可のない宣伝</p><p>荒らし</p>
+
+[Attachment 1](https://padlet.com/tiktok_yuta_ahirukunndayo)
+
+#### Additional Information
+- **Created At (UTC):** Apr 08, 2026 09:28am
+- **Updated At (UTC):** Apr 08, 2026 09:28am
 
 ---
