@@ -1,4 +1,4 @@
-最終更新: 2026/04/08 08:38:23
+最終更新: 2026/04/08 11:33:36
 
 # 規制解除委員会(本部)
 
@@ -9,7 +9,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 23
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Apr 07, 2026 01:10pm
+- **Updated At (UTC):** Apr 08, 2026 01:23am
 
 ## ライター許可
 
@@ -93,6 +93,10 @@
 ### 1. 今夜meetしよー9時ごろに
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
 
+#### Comments (2)
+- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:23am): https://padlet.com/tiktok_yuta_ahirukunndayo/padlet-brwj5qg1bssfk7w9
+- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:23am): はいってー
+
 #### Additional Information
 - **Created At (UTC):** Apr 07, 2026 10:48am
 - **Updated At (UTC):** Apr 07, 2026 11:29am
@@ -102,6 +106,10 @@
 ### 2. 雑談(ライター用)
 **Author:** とるっぷい (TORI_TORI2)
 
+#### Comments (2)
+- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:23am): https://padlet.com/tiktok_yuta_ahirukunndayo/padlet-brwj5qg1bssfk7w9
+- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:23am): はいって「
+
 #### Additional Information
 - **Created At (UTC):** Apr 05, 2026 05:02am
 - **Updated At (UTC):** Apr 05, 2026 05:02am
@@ -110,6 +118,10 @@
 
 ### 3. やは
 **Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
+#### Comments (2)
+- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:23am): https://padlet.com/tiktok_yuta_ahirukunndayo/padlet-brwj5qg1bssfk7w9
+- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:23am): はいって
 
 #### Additional Information
 - **Created At (UTC):** Apr 06, 2026 01:34pm
@@ -121,6 +133,10 @@
 
 ### 1. 雑談(コメンター用)
 **Author:** とるっぷい (TORI_TORI2)
+
+#### Comments (2)
+- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:23am): https://padlet.com/tiktok_yuta_ahirukunndayo/padlet-brwj5qg1bssfk7w9
+- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:23am): はいって
 
 #### Additional Information
 - **Created At (UTC):** Apr 05, 2026 05:01am
@@ -214,7 +230,7 @@
 
 <p>pcの知識必要だよん。</p><p>わかめ作れるンゴ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1776209903&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WCVMigOStynlTvVgwlJ0vxHyvtODLDR2AQ795cJJ6LZWqZIkj7xlwx1T%2F5V9rBwYbkGOTRg31t41kDdScuUytkELzMHkBgiDQpVyE15s8ncgfYAB3TpeBbCEOAMaQ8QeICaHdza2AOwC1PEfnAnPyNMmBbasaJL2%2BZUe1Z60%2BQ0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1776220416&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hE%2FeUBePhBf0pX8BWEZWEv2RZ%2FgSp4c1KeR4OgA%2F%2BXsy0cJoxKQU6MtylqrHEFK%2BEiTu%2Fhp3uxrO7EqOeirGnaljj7NyFb%2BCok4hjqLP20aUBH5lzcfaAEgmfex%2BrleFn5S5oanWv0pZmFGDh9lzeahEDAVMnvBuAeAr3sCfDE0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:02am
@@ -240,7 +256,7 @@
 
 <p>わかんないことあったら読んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1776209903&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=C4z7N6h%2FMqdFH55AF56p7sdQ5O1V9v2L%2F6BHqqIWO61NB8p0f67fZZ3zM1M64N5rzmQs0eYWqo9msk5Ql4vYOTadBsjyP4X7V%2FdML4La%2BJs09W8NevXcHYQazcjNl3jfpYaOPw32vFXEg6ecG2Sn9Xwk9Yd%2F%2BiGmvKNCIG0EwJc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1776220416&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kR%2BLjKD55%2B%2F41DJj1OkCIFLuYDAJPOdVUg3yftgNlvdsrJ%2F6Quo6bI8Qk6x5E%2FHJ6bW55mL1sVBBTbyZBs88edLipa3U9n8501juSM1AVFY8jXYkXnCDFhflXPAtskPMMoAUDl91MyHeYYhs5ReBdYqnsKhtRuB9Uem1uky5ezU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:03am
