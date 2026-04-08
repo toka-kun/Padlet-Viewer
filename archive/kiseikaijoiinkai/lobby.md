@@ -1,4 +1,4 @@
-最終更新: 2026/04/08 19:58:16
+最終更新: 2026/04/08 22:54:27
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 11
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Apr 08, 2026 09:31am
+- **Updated At (UTC):** Apr 08, 2026 01:25pm
 
 ## ルール
 
@@ -135,6 +135,12 @@
 <p>許可のない宣伝</p><p>荒らし</p>
 
 [Attachment 1](https://padlet.com/tiktok_yuta_ahirukunndayo)
+
+#### Comments (4)
+- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:25pm): ええ
+- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:25pm): 荒らしてない。。。
+- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:25pm): 何？？？
+- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:26pm): やめてくんない？？気持ち悪い
 
 #### Additional Information
 - **Created At (UTC):** Apr 08, 2026 09:28am
