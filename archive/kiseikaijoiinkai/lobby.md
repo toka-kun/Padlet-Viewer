@@ -1,4 +1,4 @@
-最終更新: 2026/04/06 22:14:10
+最終更新: 2026/04/08 11:33:34
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 10
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Apr 06, 2026 12:55pm
+- **Updated At (UTC):** Apr 08, 2026 01:24am
 
 ## ルール
 
@@ -54,6 +54,11 @@
 **Author:** とるっぷい (TORI_TORI2)
 
 [Attachment 1](https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5)
+
+#### Comments (3)
+- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:16am): 入ったよぉぉぉぉ〜〜〜
+- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:24am): https://padlet.com/tiktok_yuta_ahirukunndayo/padlet-brwj5qg1bssfk7w9
+- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:24am): はいって
 
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 12:17pm
