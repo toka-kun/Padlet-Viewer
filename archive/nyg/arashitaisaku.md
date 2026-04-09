@@ -1,4 +1,4 @@
-最終更新: 2026/04/08 18:02:44
+最終更新: 2026/04/09 14:10:32
 
 # 荒らし対策室
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 11
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Apr 08, 2026 07:24am
+- **Updated At (UTC):** Apr 09, 2026 04:30am
 
 ## リンク集
 
@@ -157,7 +157,7 @@
 <p><strong>偽エドガーなので注意</strong></p>
 
 #### Reactions
-- **Upvotes:** 1
+- **Upvotes:** 2
 - **Downvotes:** 2
 
 #### Additional Information
