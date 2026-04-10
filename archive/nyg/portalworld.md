@@ -1,4 +1,4 @@
-最終更新: 2026/04/10 16:43:34
+最終更新: 2026/04/10 18:11:35
 
 # Padletポータルワールド
 
@@ -380,7 +380,7 @@
 ---
 
 ### 14. aotanのゲーム＆youtubeコーナー
-**Author:** あおたん　＃低浮上 (aotan)
+**Author:** あおたん　＃好きピ推し界隈 (aotan)
 
 <p>・わかりやすい、リンクのならび！</p><p><br/></p><p>・制作者情報や、マイナーなこともしっかり、のってある！</p><p><br/></p><p><br/></p>
 
@@ -1107,7 +1107,7 @@
 ---
 
 ### 45. るるるの雑談部屋！
-**Author:** るるる　普通の人間// (barukokukyouwakoku)
+**Author:** ぺんちゃん💗 (barukokukyouwakoku)
 
 <p>宣伝自由にしていってね。</p><p>フォロパも受け付けてるよ！</p><p><br/></p>
 
@@ -2740,7 +2740,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1776411814&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=q2hkOpea2Tx3jxssUoWDQ2BEtH9qAT916Px2VvdnUKOaNj3fwOgv2lEEPWu1D7wm3Hlx%2B6l01hTtOqv75uGNkCfGo9DTOzs7uhIvXRKyjJYSvtxEZ8NgzhMGdATW49xU8ObSsaQvT2K24EIcWQHE6cUP8nzhmt2o%2F0JaOWLiRo8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1776417095&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=davDqeLemCeGr01C%2B82x0JHz9ygHLEglzxVaE3jh6Tll4dZfx3FQtIeiuy6aFguJ67cONUKyXa1Ek2KjV4Q%2BelKeF%2BhnhbwncU%2B50FqvVWUkmS%2B5OEWuiLAK5Rb1xMaFHxe2mC26QSkVrgs3zYk%2BhoxyMNfe09y9gDBZWjZe6N4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
