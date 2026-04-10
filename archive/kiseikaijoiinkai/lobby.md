@@ -1,4 +1,4 @@
-最終更新: 2026/04/10 14:26:26
+最終更新: 2026/04/10 22:14:15
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 11
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Apr 10, 2026 04:49am
+- **Updated At (UTC):** Apr 10, 2026 12:10pm
 
 ## ルール
 
@@ -36,6 +36,9 @@
 <p>padlet外の規制解除委員会</p><p>ログイン必須</p>
 
 [Attachment 1](https://app-8bf27a88-8525-405b-833f-20dba41d78bd.base44.app/Home)
+
+#### Comments (1)
+- **アヤオリ** (Apr 10, 2026 12:10pm): ２０分間なんでもできるサイトどこいった
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 04:36am
