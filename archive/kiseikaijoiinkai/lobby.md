@@ -1,4 +1,4 @@
-最終更新: 2026/04/11 07:38:52
+最終更新: 2026/04/11 19:36:02
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 11
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Apr 10, 2026 09:55pm
+- **Updated At (UTC):** Apr 11, 2026 10:01am
 
 ## ルール
 
@@ -138,27 +138,15 @@
 
 ## ブラックリスト
 
-### 1. Post 1
+### 1. ブラックリスト
 **Author:** とるっぷい (TORI_TORI2)
 
 <p>許可のない宣伝</p><p>荒らし</p>
 
 [Attachment 1](https://padlet.com/tiktok_yuta_ahirukunndayo)
 
-#### Comments (10)
-- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:25pm): ええ
-- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:25pm): 荒らしてない。。。
-- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:25pm): 何？？？
-- **tiktok名：yuta_ahirukunndayo** (Apr 08, 2026 01:26pm): やめてくんない？？気持ち悪い
-- **とるっぷい** (Apr 10, 2026 04:46am): お前やばいでやってること
-- **とるっぷい** (Apr 10, 2026 04:46am): 荒らす様な奴は死んだらええねん
-- **とるっぷい** (Apr 10, 2026 04:48am): ドブカスがぁ
-- **とるっぷい** (Apr 10, 2026 04:49am): 人の心とかないんか？
-- **とるっぷい** (Apr 10, 2026 04:49am): ふざけんなよ
-- **とるっぷい** (Apr 10, 2026 04:49am): あやまでよ
-
 #### Additional Information
-- **Created At (UTC):** Apr 08, 2026 09:28am
-- **Updated At (UTC):** Apr 08, 2026 09:28am
+- **Created At (UTC):** Apr 11, 2026 10:01am
+- **Updated At (UTC):** Apr 11, 2026 10:01am
 
 ---
