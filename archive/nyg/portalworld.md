@@ -1,4 +1,4 @@
-最終更新: 2026/04/11 08:36:12
+最終更新: 2026/04/11 11:24:57
 
 # Padletポータルワールド
 
@@ -871,7 +871,7 @@
 ---
 
 ### 35. ゆずみかんが作る雑談部屋
-**Author:** オガロン　エドガー族一代目 (ogaron)
+**Author:** 🌊🐋コネコネ🐬してるうさぎ☆ (usagikonekone)
 
 <p>過疎部屋ですが、これから過密にしていきたいとおもいます。</p><p>よろしくお願いします</p>
 
@@ -888,7 +888,7 @@
 [Attachment 1](https://padlet.com/padlets/frxb7bsiu0zyxaqj)
 
 #### Comments (1)
-- **オガロン　エドガー族一代目** (Feb 26, 2026 10:00am): 作成日の日は曖昧です
+- **🌊🐋コネコネ🐬してるうさぎ☆** (Feb 26, 2026 10:00am): 作成日の日は曖昧です
 
 #### Additional Information
 - **Post color:** White
@@ -1107,7 +1107,7 @@
 ---
 
 ### 45. るるるの雑談部屋！
-**Author:** ぺんちゃん💗 (barukokukyouwakoku)
+**Author:** うさちゃん💗 (barukokukyouwakoku)
 
 <p>宣伝自由にしていってね。</p><p>フォロパも受け付けてるよ！</p><p><br/></p>
 
@@ -2740,7 +2740,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1776468972&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Eq0gzmoALhilgQVuY%2B8ZXioq%2B0azV1Pt%2BBc9PiIsJiqWkhvFhJ34BkOWvlxyZRz9AFXov6NPtSqBSOI7DYe%2BowCgct79M%2FiV2%2BTJK%2FPzMelKAJgKR%2FudhIXTFv6vFT6d0d9HrZvYcWF2ouwQ34Mcwk8De5AQ6CLZngR%2BlWwxHlc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1776479096&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3vp4F7%2F33FhMuihRmwgCHwljZ95EygjGDTl79i%2Ft%2BDqbMuEE6%2BHaOfdq6wLlEZIRzLfmqioXCanR6BplKDqKxNErqrCYLwBXPB90zvczbLhl1A0YClDvM70DJ0g3PkSvmH57SLmudM9ceaGCoDjHxC%2BjMp%2FKS3C4ei9dNdXg9us%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
