@@ -1,4 +1,4 @@
-最終更新: 2026/04/11 20:31:05
+最終更新: 2026/04/11 22:00:53
 
 # 規制解除委員会(本部)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5
 - **Builder:** とるっぷい (TORI_TORI2)
-- **Posts:** 22
+- **Posts:** 23
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Apr 11, 2026 10:02am
+- **Updated At (UTC):** Apr 11, 2026 12:19pm
 
 ## ライター許可
 
@@ -116,8 +116,9 @@
 ### 1. 雑談(コメンター用)
 **Author:** とるっぷい (TORI_TORI2)
 
-#### Comments (1)
+#### Comments (2)
 - **猫葉　瑠水　復活　エドガーの９番目部下サブアカ　本アカの方もよろしくお願いします→https://padlet.com/sshingoojuri　　　makunamiと付き合ってます！** (Apr 11, 2026 05:13am): にょ
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 11, 2026 12:15pm): やは
 
 #### Additional Information
 - **Created At (UTC):** Apr 05, 2026 05:01am
@@ -211,7 +212,7 @@
 
 <p>pcの知識必要だよん。</p><p>わかめ作れるンゴ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1776511865&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yUXd4FMR3t0IIgc%2B%2BbLm7EHKb%2BuUmYyJ%2FBlPCFJ35x5H9AEKEjd5p5Mjdemg6MxlmvHIVs8JekZGTDvfiavARdBYAzOHhwCNUWWOBj6KGBiuK4TOTjfTvPAkQ0f05ti7dg52fnJJHlnOPJAgSXG55qwUJhmbm6K%2FoVxuQAnTaDE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1776517253&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Q3YOMiEg%2FKJ%2FAfPftjR6zYJ1KEqWoeJWDmRMzPugBpoKeRqyItkNT1ZY5refn7kvhKEXsFDstS86uxeBHjWkijwB3cA5%2FVnKzClMF7sh4HPwVGIBxDRCrbHrquynuOwbKcYYl1ssA%2BihuvyuDmf2OUUVjxvRtFtz2BnOFzljOSI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:02am
@@ -241,7 +242,7 @@
 
 <p>わかんないことあったら読んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1776511865&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iJZnzBO5Sv2M8U72VGDjdS7S7VMRuANEYTXkKutwGzjFQ7SF92jOWkJz3iUdMTtIKp2say7ojJGyiriHba5%2FB3w8zdYnt8WhEa1AOGTi9DmlADzSK1eAQP1R1uMZZW1kRC0bF8MNiFbmXHw2sMlTK2kYu%2BzEbC7blnPQ8xFpmnk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1776517253&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AuHeaJ0UsNwFd6D%2BsgjJN4WhP1yroqkB%2BpeBOHRVrV31w8fMmHuggulaP9%2BidtK61yGBuGPPgBRn%2F3ZSWccdbEdHzoe6GEhGtBpS5e2c5qPfSw%2Fcgar9YtrbJnATD%2BaDfDaB66GKVGCBwxfGSEBJ4IzxVxPpjqrR%2Fe5CmMpZH1s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:03am
@@ -251,7 +252,16 @@
 
 ## 宣伝
 
-### 1. 中居部屋
+### 1. 一旦俺の部屋荒らされてるからそいつ殺したあと直すわ
+**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
+#### Additional Information
+- **Created At (UTC):** Apr 11, 2026 12:19pm
+- **Updated At (UTC):** Apr 11, 2026 12:19pm
+
+---
+
+### 2. 中居部屋
 **Author:** とるっぷい (TORI_TORI2)
 
 [Attachment 1](https://padlet.com/nakaisexfriend/padlet-5kf0xx32tm6oxgfa)
@@ -262,7 +272,7 @@
 
 ---
 
-### 2. 左腕の部屋(元おにぎり部屋)
+### 3. 左腕の部屋(元おにぎり部屋)
 **Author:** とるっぷい (TORI_TORI2)
 
 [Attachment 1](https://padlet.com/oo0oo0o/onigiriniginigi-5zo5v3uo0la2tnlr)
@@ -273,7 +283,7 @@
 
 ---
 
-### 3. エドガー部屋
+### 4. エドガー部屋
 **Author:** とるっぷい (TORI_TORI2)
 
 [Attachment 1](https://padlet.com/edodesu/padlet-m2mmlqn2oow93w4l)
