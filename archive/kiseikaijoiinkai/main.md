@@ -1,4 +1,4 @@
-最終更新: 2026/04/11 13:56:41
+最終更新: 2026/04/11 15:03:24
 
 # 規制解除委員会(本部)
 
@@ -9,7 +9,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 21
 - **Created At (UTC):** Jan 09, 2026 06:57am
-- **Updated At (UTC):** Apr 09, 2026 09:30am
+- **Updated At (UTC):** Apr 11, 2026 05:13am
 
 ## ライター許可
 
@@ -107,6 +107,9 @@
 ### 1. 雑談(コメンター用)
 **Author:** とるっぷい (TORI_TORI2)
 
+#### Comments (1)
+- **猫葉　瑠水　復活　エドガーの９番目部下サブアカ　本アカの方もよろしくお願いします→https://padlet.com/sshingoojuri　　　makunamiと付き合ってます！** (Apr 11, 2026 05:13am): にょ
+
 #### Additional Information
 - **Created At (UTC):** Apr 05, 2026 05:01am
 - **Updated At (UTC):** Apr 05, 2026 05:02am
@@ -202,7 +205,7 @@
 
 <p>pcの知識必要だよん。</p><p>わかめ作れるンゴ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1776488201&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=z9dOY4O23JKw0eJIzUd8gUuVBPRt2Xj02tPKONPSnz%2Ft3xYkvOrndmBbMJzyuSowKq7Si7GT0II1SXF1XkN1SygNElRnGumFugldxFAGv6ogBPxJjSw9Zm8sm0Q%2FuMWATs5z6cSOplOgRbZhW4Rs%2B8jqc5SWvKpCjsozZE0ThEc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/bb36b8ae2c271e1b99e8c12c612236d9/YukiYoutube________.zip?Expires=1776492204&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BMNjjUGTd0fltA3%2BsICn6tL0zjBnaOmzqEp1dKR0pCtAhjou%2BE%2BHOvDaKaLme9GpYoW1naHOWwEoBTX3E%2FJxFvTMZspsrKb7tVp06McD3VwdkZ189%2BxAyg6%2BTXBedliD%2Bai%2BLz18%2BbliGqhznalCa1bSJc%2FQm4oTX%2BuyPBUV%2BJQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fbb36b8ae2c271e1b99e8c12c612236d9%2FYukiYoutube________.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:02am
@@ -232,7 +235,7 @@
 
 <p>わかんないことあったら読んでみてね。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1776488201&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=j8u%2Bzc3rHeXiKKv88HxjE0UxybFR8S%2Fl5LOiBt4yTS5XJkH69ExGVo%2Bdmg3U0yKit1yACxgYRVi5EwDDMnOwXGzUhBtun%2FhCAL28gCwf54j9M0UuG2adX72pzsw%2BwUdA3pa9PMnZJOIa2MUvyzFzCJvG9XFdxBVzcSXf8wKBEoA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2254127738/e7d5dc95f240130ff36c248775135dbb/Yuki_YouTube_auto_make_tool_____.zip?Expires=1776492204&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AZK7f%2FQ3CRHKxTOvVthgoVvfgnh15KitwgFCibgLGdAxjI8SdqPM6uIKbBLixyDlMzX8LQt%2Fy1huq4RH9VwFlqBVFj2P2u92S5i%2Fs7batneoXC7H37H9rLrtezQ29na1d%2BV3e%2Fo9yYEyUyGUjjPTtnBHwCDGFol2TS2odVzMFtI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2254127738%2Fe7d5dc95f240130ff36c248775135dbb%2FYuki_YouTube_auto_make_tool_____.zip)
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 03:03am
