@@ -1,4 +1,4 @@
-最終更新: 2026/04/12 19:39:49
+最終更新: 2026/04/12 20:35:12
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 11
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Apr 12, 2026 10:33am
+- **Updated At (UTC):** Apr 12, 2026 11:20am
 
 ## ルール
 
@@ -26,7 +26,18 @@
 
 ## 規制解除委員会
 
-### 1. 規制解除委員会のアプリ
+### 1. 本部
+**Author:** とるっぷい (TORI_TORI2)
+
+[Attachment 1](https://padlet.com/TORI_TORI2/padlet-g07iihoi22rh2q7l)
+
+#### Additional Information
+- **Created At (UTC):** Mar 23, 2026 12:17pm
+- **Updated At (UTC):** Apr 12, 2026 11:20am
+
+---
+
+### 2. 規制解除委員会のアプリ
 **Author:** いときち (HONDA_Believer)
 
 <p>padlet外の規制解除委員会</p><p>ログイン必須</p>
@@ -44,7 +55,7 @@
 
 ---
 
-### 2. twitterの規制解除委員会
+### 3. twitterの規制解除委員会
 **Author:** とるっぷい (TORI_TORI2)
 
 [Attachment 1](https://x.com/cY0XpxFn7e91567)
@@ -52,17 +63,6 @@
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 12:15pm
 - **Updated At (UTC):** Mar 23, 2026 12:16pm
-
----
-
-### 3. 本部
-**Author:** とるっぷい (TORI_TORI2)
-
-[Attachment 1](https://padlet.com/TORI_TORI2/padlet-li9b305l0l9h3kx5)
-
-#### Additional Information
-- **Created At (UTC):** Mar 23, 2026 12:17pm
-- **Updated At (UTC):** Mar 23, 2026 12:17pm
 
 ---
 
