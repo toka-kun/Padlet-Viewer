@@ -1,4 +1,4 @@
-最終更新: 2026/04/12 18:46:27
+最終更新: 2026/04/12 19:39:30
 
 # Padletポータルワールド
 
@@ -88,7 +88,7 @@
 ## Padletポータルワールド
 
 ### 1. るるるの雑談部屋
-**Author:** るるる　地球外生命体 (barukokukyouwakoku)
+**Author:** 「極」　大将軍！！ (barukokukyouwakoku)
 
 <p>仮面ライダー部屋であり、みんなでおすすめの曲などを出し合ったり、絵を描いたりなど、幅広いジャンルで雑談をしています</p>
 
@@ -1129,7 +1129,7 @@
 ---
 
 ### 46. るるるの雑談部屋！
-**Author:** るるる　地球外生命体 (barukokukyouwakoku)
+**Author:** 「極」　大将軍！！ (barukokukyouwakoku)
 
 <p>宣伝自由にしていってね。</p><p>フォロパも受け付けてるよ！</p><p><br/></p>
 
@@ -2762,7 +2762,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1776591987&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LFpzBnAbg9kKfHUD9mbILbg3150lJP1mwEDpS%2BmJSQmg4oKYKgowlwY46%2BjVU5RQjRrKPXmExGlxNhj5RrNzFko5NuhwFoWWPiQXvSjeCHojzL0zQ%2FTqiUoawBcWnzUiw%2FtQMZ2JriqadP4DDdzoksN2JMr6rTCBQt8B8kOj8yw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1776595170&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JhJQzMn1dX%2BFyrTtvKbr2fIujPKCT4kJYX1uj5sZuMI7Lh8q23K1SQiNNwm001EIkA1RBD6RnBS9Yf7XBy6SCeAvXDW7foUdTqhuuj0pkI5jZr2%2BZWFsZtKYYDDW5nYtms44%2FICmr6dYDylYcOIB9mCdSNjaOHM2b%2B8Lewuk5WI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
