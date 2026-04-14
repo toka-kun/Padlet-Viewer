@@ -1,4 +1,4 @@
-最終更新: 2026/04/09 14:10:32
+最終更新: 2026/04/14 16:48:24
 
 # 荒らし対策室
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 11
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Apr 09, 2026 04:30am
+- **Updated At (UTC):** Apr 14, 2026 05:39am
 
 ## リンク集
 
