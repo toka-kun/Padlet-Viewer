@@ -1,4 +1,4 @@
-最終更新: 2026/04/14 20:04:24
+最終更新: 2026/04/14 22:43:38
 
 # Padletポータルワールド
 
@@ -424,7 +424,7 @@
 ---
 
 ### 16. aotanのゲーム＆youtubeコーナー
-**Author:** あおたん (aotan)
+**Author:** 削除済みユーザー
 
 <p>・わかりやすい、リンクのならび！</p><p><br/></p><p>・制作者情報や、マイナーなこともしっかり、のってある！</p><p><br/></p><p><br/></p>
 
@@ -2784,7 +2784,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1776769464&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EDA7TDa09NgLpQEWOELuAljlW2AJTGEhSfAaE%2FwsjMXS1hw9AsJiPhsxoFmwapWp9hoTHD%2FAZL9EixhXfI29fQhkYaz7gUPh3Hb7z0VevZKWi6Jl3b%2BEIBggpUOWqxAjEQWrM6vJtDYxXA9%2F8GHYZ1Z7CcwuBUAa%2FKM8prz%2BONU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1776779018&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zubemppR7kQiVqhxkp4%2BZtWsUrbiRHBx63wmJbl6l%2FqE81DkuOuRg4yxpT%2BZ%2Ft425xbwSDxX6Poe4qvkrghewBoR%2BgPd5d8q510xe%2BOCCoH5Mklz6G50jZUC7dcgaFEl%2FFN%2FfTU4H36KYsP%2F1iEiEmXzh34HlCViKXo2YcZwOYg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
