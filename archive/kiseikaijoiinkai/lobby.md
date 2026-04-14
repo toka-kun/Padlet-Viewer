@@ -1,4 +1,4 @@
-最終更新: 2026/04/12 20:35:12
+最終更新: 2026/04/14 22:44:00
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 11
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Apr 12, 2026 11:20am
+- **Updated At (UTC):** Apr 14, 2026 12:33pm
 
 ## ルール
 
@@ -30,6 +30,9 @@
 **Author:** とるっぷい (TORI_TORI2)
 
 [Attachment 1](https://padlet.com/TORI_TORI2/padlet-g07iihoi22rh2q7l)
+
+#### Comments (1)
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 14, 2026 12:33pm): いれてお
 
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 12:17pm
