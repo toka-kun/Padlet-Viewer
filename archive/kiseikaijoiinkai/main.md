@@ -1,13 +1,13 @@
-最終更新: 2026/04/16 16:49:09
+最終更新: 2026/04/16 22:47:54
 
 # 規制解除解除委員会
 
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-g07iihoi22rh2q7l
 - **Builder:** とるっぷい (TORI_TORI2)
-- **Posts:** 11
+- **Posts:** 12
 - **Created At (UTC):** Apr 12, 2026 10:30am
-- **Updated At (UTC):** Apr 16, 2026 07:44am
+- **Updated At (UTC):** Apr 16, 2026 01:22pm
 
 ## 受付
 
@@ -15,9 +15,6 @@
 **Author:** とるっぷい (TORI_TORI2)
 
 [Attachment 1](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl)
-
-#### Comments (1)
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 14, 2026 12:33pm): 入れてクレメンス
 
 #### Additional Information
 - **Created At (UTC):** Apr 12, 2026 10:39am
@@ -77,7 +74,14 @@ No post
 
 ## 雑談(ライター用)
 
-No post
+### 1. こん
+**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+
+#### Additional Information
+- **Created At (UTC):** Apr 16, 2026 01:22pm
+- **Updated At (UTC):** Apr 16, 2026 01:22pm
+
+---
 
 ## わかめ
 
@@ -118,6 +122,19 @@ No post
 
 ---
 
+## MIN-Tube-Pro
+
+### 1. Min-tube-pro
+**Author:** とるっぷい (TORI_TORI2)
+
+<p>(引用元)</p><p><strong>scratchから</strong></p><p><strong>mino-hobby-pro様</strong></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://donut.linco.cl">https://donut.linco.cl</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://min-pro.duckdns.org">https://min-pro.duckdns.org</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://nasa.linco.cl/">https://nasa.linco.cl/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://teach-english.onrender.com/">https://teach-english.onrender.com/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://land.linco.cl">https://land.linco.cl</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://fun-study-t3s4.onrender.com">https://fun-study-t3s4.onrender.com</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://fun-study-t3s4.onrender.com">https://fun-study-t3s4.onrender.com</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://min-tube-pro.vercel.app">https://min-tube-pro.vercel.app</a></p>
+
+#### Additional Information
+- **Created At (UTC):** Apr 16, 2026 12:24pm
+- **Updated At (UTC):** Apr 16, 2026 12:29pm
+
+---
+
 ## プロキシ
 
 ### 1. プロキシ
@@ -125,30 +142,9 @@ No post
 
 <p>〈引用元〉</p><p><strong>scratch</strong>から</p><p><strong>ozo_panda1215様</strong></p><p><br/></p><p><strong>インターテスラー</strong></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar-nana.hospitaldelninodif.gob.mx/">https://interstellar-nana.hospitaldelninodif.gob.mx/</a></p><p><br/></p><p>〈引用元〉</p><p><strong>scratch</strong>から</p><p><strong>scratch-sc-rsa様</strong></p><p><br/></p><p><strong>シャドウ</strong></p><p><a rel="noopener noreferrer nofollow" href="https://scrsa.wikilegia.com">https://scrsa.wikilegia.com</a></p><p><br/></p><p>〈引用元〉</p><p><strong>scratch</strong>から</p><p><strong>Iei---trumpet様</strong></p><p><br/></p><p><strong>utopia</strong></p><p>https<a rel="noopener noreferrer nofollow" href="https://utopia.iei---trumpet-0006.dinprima.ro/">://utopia.iei---trumpet-0006.dinprima.ro/</a> <a rel="noopener noreferrer nofollow" href="https://utopia.iei---trumpet-0007.dinprima.ro/">https://utopia.iei---trumpet-0007.dinprima.ro/</a> <a rel="noopener noreferrer nofollow" href="https://utopia.iei---trumpet-0008.dinprima.ro/">https://utopia.iei---trumpet-0008.dinprima.ro/</a> </p><p> </p><p><strong>ddx.v2</strong></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.iei---trumpet-0007.dinprima.ro/">https:/</a>/<a rel="noopener noreferrer nofollow" href="https://daydreamx.v2.iei---trumpet-0006.dinprima.ro/">daydreamx.v2.iei---trumpet-0006.dinprima.ro/</a></p><p><br/></p><p> <strong>rummer</strong></p><p><a rel="noopener noreferrer nofollow" href="https://rummer.iei---trumpet-0003.dinprima.ro/">https://rummer.iei---trumpet-0003.dinprima.ro/</a> <a rel="noopener noreferrer nofollow" href="https://rummer.iei---trumpet-0004.dinprima.ro/">https://rummer.iei---trumpet-0004.dinprima.ro/</a> <a rel="noopener noreferrer nofollow" href="https://rummer.iei---trumpet-0005.dinprima.ro/">https://rummer.iei---trumpet-0005.dinprima.ro/</a></p><p>  </p><p><strong>インターテスラー</strong></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.iei---trumpet-0005.dinprima.ro/">https://interstellar.iei---trumpet-0005.dinprima.ro/</a> <a rel="noopener noreferrer nofollow" href="https://interstellar.iei---trumpet-0006.dinprima.ro/">https://interstellar.iei---trumpet-0006.dinprima.ro/</a></p>
 
-#### Comments (1)
-- **ううううんこ💩** (Apr 16, 2026 07:44am): https://subscribe-vcsa.mrwheeler.uk/
-
 #### Additional Information
 - **Created At (UTC):** Apr 12, 2026 10:56am
 - **Updated At (UTC):** Apr 14, 2026 12:30pm
-
----
-
-## その他
-
-### 1. スクラッチアカウント
-**Author:** とるっぷい (TORI_TORI2)
-
-<p>アカウント名</p><p><strong>emerald-melon</strong></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/Emerald-Melon/">https://scratch.mit.edu/users/Emerald-Melon/</a></p>
-
-#### Comments (3)
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 16, 2026 03:25am): https://min-tube-pro-nana-002.up.railway.app/youtube-pro
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 16, 2026 03:26am): https://min-tube-pro-nana.up.railway.app/search?q=%E3%82%AD%E3%83%A8%E3%83%9D%E3%83%94%E3%83%BC%E3%83%97%E3%83%AC%E3%82%A4%E3%82%BF%E3%82%A4%E3%83%A0
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 16, 2026 03:28am): https://teach-english.onrender.com/
-
-#### Additional Information
-- **Created At (UTC):** Apr 13, 2026 12:39pm
-- **Updated At (UTC):** Apr 13, 2026 12:40pm
 
 ---
 
@@ -164,7 +160,3 @@ No post
 - **Updated At (UTC):** Apr 12, 2026 11:24am
 
 ---
-
-## カバー画像(臨時)
-
-No post
