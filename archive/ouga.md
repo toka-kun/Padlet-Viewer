@@ -1,4 +1,4 @@
-最終更新: 2026/04/16 22:48:19
+最終更新: 2026/04/17 08:41:49
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 145
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 16, 2026 12:10pm
+- **Updated At (UTC):** Apr 16, 2026 11:40pm
 
 ## 管理者　連絡
 
@@ -200,8 +200,8 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 56 votes
-- **たけのこの里:** 42 votes
+- **きのこの山:** 58 votes
+- **たけのこの里:** 44 votes
 - **ドウデモイイ:** 11 votes
 
 #### Comments (19)
@@ -227,7 +227,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 16, 2026 01:47pm
+- **Updated At (UTC):** Apr 16, 2026 02:54pm
 
 ---
 
@@ -290,7 +290,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1776952096&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wYLjhD8m4sF0J5rz4uLXwiloREzWt%2B4IuxvVWesx9CRJBB5zAJoJu6TQ%2F3og9NcPFZbuc12nbAz0jwz4z9guD1r1NHBnWq6PQisJ7ZVqbHIv%2FE9QMZthpCYYyWbuVT0tYN%2FG0pEyYkDybPahvHZb1J8MWliaE2usmKTXK55a7Zk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1776987706&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=W3s78Dwmpna9N5X8SS6TsGELl40MEY0hE4NK7RVs7zO8TsJ%2Fk%2Fhfm7niab7AziWxZSCfIoNP%2B6mtjseKWQxWPJuhGwVCoHCCf%2FDfxRyqv%2BziKlgOGm1XSpjJIuHI1jEMog0XWtDJseTACQFEy%2Bj1PW9Xgh%2FNmHxsCqyFgRAiWAo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -744,10 +744,11 @@
 ### 1. 参加の方はこちらに
 **Author:** おうが (18jt026)
 
-#### Comments (3)
+#### Comments (4)
 - **たいち** (Apr 16, 2026 08:33am): はいどうも
 - **たいち** (Apr 16, 2026 08:40am): 参加します
 - **たいち** (Apr 16, 2026 12:10pm): 受験頑張ってください！
+- **おうが** (Apr 16, 2026 11:20pm): ありがと！！
 
 #### Additional Information
 - **Created At (UTC):** Apr 16, 2026 05:19am
@@ -1422,7 +1423,7 @@
 **何のグミ好き:**
 - **フェットチーネ:** 6 votes
 - **忍者飯:** 8 votes
-- **ピュレグミ:** 7 votes
+- **ピュレグミ:** 8 votes
 - **それ以外:** 5 votes
 
 <p>やっぱりこの3つのグミが３冠だよな　　　　（個人の感想です）</p>
@@ -1439,7 +1440,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Apr 07, 2026 11:14pm
-- **Updated At (UTC):** Apr 16, 2026 11:21am
+- **Updated At (UTC):** Apr 16, 2026 02:54pm
 
 ---
 
@@ -3557,10 +3558,11 @@
 
 [Attachment 1](https://subscribe-vcsa.mrwheeler.uk/)
 
-#### Comments (3)
+#### Comments (4)
 - **おうが** (Apr 16, 2026 01:13am): 何でもできる
 - **たいち** (Apr 16, 2026 08:32am): ブロ
 - **ふじこ** (Apr 16, 2026 10:56am): どうやってつかうんですか？
+- **おうが** (Apr 16, 2026 11:40pm): 普通に調べるだけ
 
 #### Additional Information
 - **Created At (UTC):** Apr 16, 2026 01:13am
