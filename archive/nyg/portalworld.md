@@ -1,4 +1,4 @@
-最終更新: 2026/04/16 11:45:35
+最終更新: 2026/04/16 14:31:49
 
 # Padletポータルワールド
 
@@ -380,7 +380,7 @@
 ---
 
 ### 14. おにぎり部屋が復活しましたよ
-**Author:** ً (o0oo0o0)
+**Author:** 削除済みユーザー
 
 <p>おにぎり部屋だぞおにぎり部屋</p>
 
@@ -2762,7 +2762,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1776912335&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VXEzcm7sxGv99li3Uq0v%2BIhHrTAI%2FicNe8W3sunPZ8xWM408x2LJ7SXEk%2BGnCrP3XUB2U4sNLyF0y1Gq%2FfXt83wBgFF7ZgNcKlfOHGk18dPqpr8vX3gwpa%2BeBNwVw7wkI3uEaw2oL1zyzGGahk1n9NBqI1CNdT8FNGrNDOEZWAM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1776922309&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uALe22uuSZdyzuDxKCok56hfWrox3sFwtv1GWehmJoRhHg%2BwlYDvfC1a4tTdxWzY8gFkkVtrstqTaGUrSwBrSdOrfQN8Wxt3XlsOV%2BJwaz9rpUAbULL1U7pTpCsa%2FIu0Ne%2FLmcYdcRFFEaZ2Pln%2Bl0vqc5efFHR0LJ2CCbShsbI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
