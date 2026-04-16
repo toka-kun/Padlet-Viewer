@@ -1,4 +1,4 @@
-最終更新: 2026/04/16 18:21:30
+最終更新: 2026/04/16 20:05:08
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 145
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 16, 2026 09:05am
+- **Updated At (UTC):** Apr 16, 2026 11:02am
 
 ## 管理者　連絡
 
@@ -200,8 +200,8 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 52 votes
-- **たけのこの里:** 40 votes
+- **きのこの山:** 54 votes
+- **たけのこの里:** 41 votes
 - **ドウデモイイ:** 11 votes
 
 #### Comments (19)
@@ -227,7 +227,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 16, 2026 09:09am
+- **Updated At (UTC):** Apr 16, 2026 10:53am
 
 ---
 
@@ -290,7 +290,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1776936087&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TSTbnUqEueC1D%2BCI%2Fq9PUbP6mt4t24lKFhWaz%2BV9arTriOg%2Fr89GTiJeKCKbh6LzKm5luAoBV4LfXNOpMxnLrgntJdY%2F%2BNI7vbtI%2BItnl1Kr1s8X40zW%2FQ%2FZA8LEnXaHHjX6hPzI9GUALOt9R1XxHR29y0oIHyuGFchtAcivImA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1776942306&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kdY1RT%2FABkbXGPh0mXhtbLOGOMIaXnBAPhhwmSeaJYw%2F0pKnM1DaCIEprj7enjaYVJmYl4PvPV6kyEJ3j6jNKPU0qcGL3QCoySyvYK5rUR48osOLYvrop6s3JOHcCCQb6RoT1CK053BiwDN2EV%2FX5Vj78Gw8zG9%2F06UxctrC3ng%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -299,7 +299,7 @@
 ---
 
 ### 7. こんにちは
-**Author:** パンドラの箱から出でくるパンダ (8888800811117777)
+**Author:** 暴走パンダ (8888800811117777)
 
 #### Comments (1)
 - **おうが** (Mar 31, 2026 06:16am): こんにちは
@@ -1243,7 +1243,7 @@
 ---
 
 ### 5. 来てください
-**Author:** パンドラの箱から出でくるパンダ (8888800811117777)
+**Author:** 暴走パンダ (8888800811117777)
 
 [Attachment 1](https://padlet.com/kimutibanana/10-a1am1nuc1pm9ra04)
 
@@ -1360,13 +1360,14 @@
 
 <p>1位目指すの頑張って</p>
 
-#### Comments (6)
+#### Comments (7)
 - **たいち** (Apr 13, 2026 10:34pm): え、マジで？スゴ
 - **おうが** (Apr 14, 2026 04:30am): 多分だよw
 - **フェットチーネしか勝たん** (Apr 15, 2026 05:30am): 逆に1位のパドレットなんだよ
 - **たいち** (Apr 15, 2026 11:49am): それな
 - **Journey Scribe** (Apr 16, 2026 07:30am): 1位は桁が違う... https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg
 - **たいち** (Apr 16, 2026 08:28am): これやばい
+- **Someone** (Apr 16, 2026 10:59am): そもそもここ3位ですらなくね
 
 #### Additional Information
 - **Created At (UTC):** Apr 13, 2026 12:50pm
@@ -2365,7 +2366,7 @@
 
 [Attachment 1](https://wondermerge.gcdn.co/publish/html5/)
 
-#### Comments (12)
+#### Comments (13)
 - **あかさたな** (Mar 30, 2026 09:34am): ブロ
 - **フェットチーネしか勝たん** (Apr 01, 2026 12:06am): ブロ
 - **忍者めししかかたん** (Apr 07, 2026 12:18am): ブロ
@@ -2378,6 +2379,7 @@
 - **みっきー** (Apr 16, 2026 05:13am): あ  
 - **まっつー** (Apr 16, 2026 05:13am): これからよろしくお願いします
 - **みっきー** (Apr 16, 2026 05:13am): よろ 
+- **ふじこ** (Apr 16, 2026 10:57am): ブロ
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 06:05am
@@ -3553,9 +3555,10 @@
 
 [Attachment 1](https://subscribe-vcsa.mrwheeler.uk/)
 
-#### Comments (2)
+#### Comments (3)
 - **おうが** (Apr 16, 2026 01:13am): 何でもできる
 - **たいち** (Apr 16, 2026 08:32am): ブロ
+- **ふじこ** (Apr 16, 2026 10:56am): どうやってつかうんですか？
 
 #### Additional Information
 - **Created At (UTC):** Apr 16, 2026 01:13am
