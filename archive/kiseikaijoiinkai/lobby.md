@@ -1,4 +1,4 @@
-最終更新: 2026/04/16 14:32:09
+最終更新: 2026/04/16 22:47:52
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 12
+- **Posts:** 11
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Apr 16, 2026 03:22am
+- **Updated At (UTC):** Apr 16, 2026 12:45pm
 
 ## ルール
 
@@ -31,9 +31,6 @@
 
 [Attachment 1](https://padlet.com/TORI_TORI2/padlet-g07iihoi22rh2q7l)
 
-#### Comments (1)
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 14, 2026 12:33pm): いれてお
-
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 12:17pm
 - **Updated At (UTC):** Apr 12, 2026 11:20am
@@ -46,11 +43,6 @@
 <p>padlet外の規制解除委員会</p><p>ログイン必須</p>
 
 [Attachment 1](https://app-8bf27a88-8525-405b-833f-20dba41d78bd.base44.app/Home)
-
-#### Comments (3)
-- **アヤオリ** (Apr 10, 2026 12:10pm): ２０分間なんでもできるサイトどこいった
-- **とるっぷい** (Apr 10, 2026 09:52pm): 本部のプロキシってところにあるの使ってみ
-- **とるっぷい** (Apr 10, 2026 09:53pm): 一生なんでもできる
 
 #### Additional Information
 - **Created At (UTC):** Dec 14, 2025 04:36am
@@ -147,16 +139,5 @@
 #### Additional Information
 - **Created At (UTC):** Apr 11, 2026 10:01am
 - **Updated At (UTC):** Apr 11, 2026 10:01am
-
----
-
-## 雑談
-
-### 1. あ
-**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
-
-#### Additional Information
-- **Created At (UTC):** Apr 16, 2026 03:22am
-- **Updated At (UTC):** Apr 16, 2026 03:22am
 
 ---
