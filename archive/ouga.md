@@ -1,4 +1,4 @@
-最終更新: 2026/04/16 11:46:24
+最終更新: 2026/04/16 14:32:26
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 142
+- **Posts:** 145
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 16, 2026 01:13am
+- **Updated At (UTC):** Apr 16, 2026 05:19am
 
 ## 管理者　連絡
 
@@ -198,7 +198,7 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 50 votes
+- **きのこの山:** 51 votes
 - **たけのこの里:** 36 votes
 - **ドウデモイイ:** 11 votes
 
@@ -225,7 +225,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 16, 2026 01:56am
+- **Updated At (UTC):** Apr 16, 2026 04:30am
 
 ---
 
@@ -288,7 +288,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1776912381&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dKex5PvTMzIMV5nZVk0DdnrNUEEvvZBiL9j4M46DgK86xwdpt0YJWqiYgxMqN2NU416aq7gMvskgmG9DpQfXpVGUf88s00UHUozbrhdtTE1uSPhtAo4cIrgCEE3B34qLRsGugvIACQEAB0eQlYd7JzoylnsBB%2FSwAcq51PnSe2A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1776922343&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FlXeQKi2jXzfiTvXT9QA3TN7jC2mT9PdKoPNpX%2BrmPdlwDBbCDPRy1Raf88EGW2Jl83GYpJ4VpPDFPuThOzRGzsxEX3aCPFqHnX%2Fq44i2qhNXHLxkNO64as1D2f294mi2q8a8YAFZnzGXbHc3xJ%2BEXFjxfBaTGrrQFTEx2Gwgls%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -737,7 +737,32 @@
 
 ## 訪問者数＋閲覧数
 
-### 1. 閲覧数10000でイベント開催します
+### 1. 参加の方はこちらに
+**Author:** おうが (18jt026)
+
+#### Additional Information
+- **Created At (UTC):** Apr 16, 2026 05:19am
+- **Updated At (UTC):** Apr 16, 2026 05:19am
+
+---
+
+### 2. 閲覧数10000突破！！イベント開催します！
+**Author:** おうが (18jt026)
+
+#### Comments (5)
+- **おうが** (Apr 16, 2026 04:11am): 参加したい人は返信お願いします！4月20日締め切りにします
+- **おうが** (Apr 16, 2026 04:11am): そしてイベント内容はなんと1人に管理者プレゼント！！！
+- **おうが** (Apr 16, 2026 04:12am): 僕も受験生ですなのでこれから活動できる時間がありませんなので誰か一人に受け継いでもらいます！！
+- **たいち** (Apr 16, 2026 05:02am): よかったら継ぎます
+- **おうが** (Apr 16, 2026 05:08am): ルーレットで決めたいと思います
+
+#### Additional Information
+- **Created At (UTC):** Apr 16, 2026 04:10am
+- **Updated At (UTC):** Apr 16, 2026 04:10am
+
+---
+
+### 3. 閲覧数10000でイベント開催します
 **Author:** おうが (18jt026)
 
 #### Comments (1)
@@ -749,7 +774,7 @@
 
 ---
 
-### 2. 3000人と9000回突破
+### 4. 3000人と9000回突破
 **Author:** おうが (18jt026)
 
 #### Comments (3)
@@ -763,7 +788,7 @@
 
 ---
 
-### 3. 後ちょいで3000人と9000回www
+### 5. 後ちょいで3000人と9000回www
 **Author:** おうが (18jt026)
 
 #### Comments (7)
@@ -781,7 +806,7 @@
 
 ---
 
-### 4. 名前変えてもいっすか
+### 6. 名前変えてもいっすか
 **Author:** たいち (r0300353)
 
 #### Comments (5)
@@ -797,7 +822,7 @@
 
 ---
 
-### 5. Post 5
+### 7. Post 7
 **Author:** おうが (18jt026)
 
 [Attachment 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
@@ -811,7 +836,7 @@
 
 ---
 
-### 6. 閲覧数6000回突破　訪問者数2000人突破
+### 8. 閲覧数6000回突破　訪問者数2000人突破
 **Author:** おうが (18jt026)
 
 <p>えぐ主義ー</p>
@@ -827,7 +852,7 @@
 
 ---
 
-### 7. 閲覧数3000！！🥳
+### 9. 閲覧数3000！！🥳
 **Author:** おうが (18jt026)
 
 #### Comments (10)
@@ -852,7 +877,7 @@
 
 ---
 
-### 8. 1000人いきました！！！！！
+### 10. 1000人いきました！！！！！
 **Author:** おうが (18jt026)
 
 #### Comments (7)
@@ -870,7 +895,7 @@
 
 ---
 
-### 9. 2時時点訪問者数　810人　閲覧回数2100回
+### 11. 2時時点訪問者数　810人　閲覧回数2100回
 **Author:** おうが (18jt026)
 
 #### Comments (10)
@@ -891,7 +916,7 @@
 
 ---
 
-### 10. 2時時点訪問人数　750人越え　閲覧数　1800
+### 12. 2時時点訪問人数　750人越え　閲覧数　1800
 **Author:** おうが (18jt026)
 
 #### Comments (3)
@@ -905,7 +930,7 @@
 
 ---
 
-### 11. 午後3時時点　訪問者数600     閲覧数1500
+### 13. 午後3時時点　訪問者数600     閲覧数1500
 **Author:** おうが (18jt026)
 
 <p>　　　　　　　　</p>
@@ -922,7 +947,7 @@
 
 ---
 
-### 12. 閲覧数1000行ってた！！
+### 14. 閲覧数1000行ってた！！
 **Author:** おうが (18jt026)
 
 #### Comments (3)
@@ -936,7 +961,7 @@
 
 ---
 
-### 13. 目標の半分500人きちゃーー
+### 15. 目標の半分500人きちゃーー
 **Author:** おうが (18jt026)
 
 #### Additional Information
@@ -945,7 +970,7 @@
 
 ---
 
-### 14. 次は1000人目指します
+### 16. 次は1000人目指します
 **Author:** おうが (18jt026)
 
 #### Comments (6)
@@ -962,7 +987,7 @@
 
 ---
 
-### 15. 300人いきましたーーkamiさん早く体調なおって
+### 17. 300人いきましたーーkamiさん早く体調なおって
 **Author:** おうが (18jt026)
 
 #### Comments (6)
@@ -979,7 +1004,7 @@
 
 ---
 
-### 16. 今日で300人行くかも！！拡散お願いします🥺
+### 18. 今日で300人行くかも！！拡散お願いします🥺
 **Author:** おうが (18jt026)
 
 #### Comments (2)
@@ -992,7 +1017,7 @@
 
 ---
 
-### 17. 250人いきましたーーあと50人だーー
+### 19. 250人いきましたーーあと50人だーー
 **Author:** おうが (18jt026)
 
 #### Comments (2)
@@ -1005,7 +1030,7 @@
 
 ---
 
-### 18. 起きて見てみたら200人突破ーーーーー！！！
+### 20. 起きて見てみたら200人突破ーーーーー！！！
 **Author:** おうが (18jt026)
 
 #### Comments (6)
@@ -1022,7 +1047,7 @@
 
 ---
 
-### 19. 訪問者数100人行きました！！！！！皆さんありがとうございます！！次の目標は皆さんに決めていただきたいです
+### 21. 訪問者数100人行きました！！！！！皆さんありがとうございます！！次の目標は皆さんに決めていただきたいです
 **Author:** おうが (18jt026)
 
 #### Comments (2)
@@ -1035,7 +1060,7 @@
 
 ---
 
-### 20. 訪問者数90！！あと10人で目標達成拡散お願いします🙇
+### 22. 訪問者数90！！あと10人で目標達成拡散お願いします🙇
 **Author:** おうが (18jt026)
 
 #### Comments (2)
@@ -1048,7 +1073,7 @@
 
 ---
 
-### 21. あと40人で100人！！
+### 23. あと40人で100人！！
 **Author:** おうが (18jt026)
 
 #### Additional Information
@@ -1057,7 +1082,7 @@
 
 ---
 
-### 22. 50人突破！！！！！！！100人までの半分どんどん拡散お願いします！！
+### 24. 50人突破！！！！！！！100人までの半分どんどん拡散お願いします！！
 **Author:** おうが (18jt026)
 
 #### Additional Information
@@ -1066,7 +1091,7 @@
 
 ---
 
-### 23. 気がついたら40人超えてました！本当にありがとうございます！
+### 25. 気がついたら40人超えてました！本当にありがとうございます！
 **Author:** おうが (18jt026)
 
 #### Comments (2)
@@ -1079,7 +1104,7 @@
 
 ---
 
-### 24. 30人突破‼️100人まで突っ走りましょう
+### 26. 30人突破‼️100人まで突っ走りましょう
 **Author:** おうが (18jt026)
 
 #### Additional Information
@@ -1088,7 +1113,7 @@
 
 ---
 
-### 25. 30人突破‼️祝
+### 27. 30人突破‼️祝
 **Author:** おうが (18jt026)
 
 #### Comments (1)
@@ -1100,7 +1125,7 @@
 
 ---
 
-### 26. 15人突破‼️
+### 28. 15人突破‼️
 **Author:** おうが (18jt026)
 
 #### Additional Information
@@ -1109,7 +1134,7 @@
 
 ---
 
-### 27. 訪問者
+### 29. 訪問者
 **Author:** おうが (18jt026)
 
 <p>あと7人で30人突破！</p><p><br/></p>
@@ -2328,12 +2353,19 @@
 
 [Attachment 1](https://wondermerge.gcdn.co/publish/html5/)
 
-#### Comments (5)
+#### Comments (12)
 - **あかさたな** (Mar 30, 2026 09:34am): ブロ
 - **フェットチーネしか勝たん** (Apr 01, 2026 12:06am): ブロ
 - **忍者めししかかたん** (Apr 07, 2026 12:18am): ブロ
 - **たいち** (Apr 07, 2026 09:39am): まじか
 - **この界隈初心者よろしく** (Apr 10, 2026 08:02am): でけた
+- **まっつー** (Apr 16, 2026 05:11am): こんちわー 
+- **みっきー** (Apr 16, 2026 05:12am): コンチわー
+- **まっつー** (Apr 16, 2026 05:12am): あ
+- **みっきー** (Apr 16, 2026 05:12am): やー 
+- **みっきー** (Apr 16, 2026 05:13am): あ  
+- **まっつー** (Apr 16, 2026 05:13am): これからよろしくお願いします
+- **みっきー** (Apr 16, 2026 05:13am): よろ 
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 06:05am
@@ -3116,13 +3148,28 @@
 
 ## 他の動画見れるサイト
 
-### 1. おもろいよ
+### 1. まっつー
+**Author:** みっきー
+
+#### Comments (3)
+- **まっつー** (Apr 16, 2026 05:15am): なに
+- **みっきー** (Apr 16, 2026 05:15am): コンチくわー 
+- **みっきー** (Apr 16, 2026 05:16am): 😀
+
+#### Additional Information
+- **Created At (UTC):** Apr 16, 2026 05:14am
+- **Updated At (UTC):** Apr 16, 2026 05:14am
+
+---
+
+### 2. おもろいよ
 **Author:** たいち (r0300353)
 
 [Attachment 1](https://scratch.mit.edu/projects/930261517/fullscreen/)
 
-#### Comments (1)
+#### Comments (2)
 - **おうが** (Apr 16, 2026 01:12am): ぶろだ
+- **たいち** (Apr 16, 2026 05:06am): まじか
 
 #### Additional Information
 - **Created At (UTC):** Apr 15, 2026 11:50am
@@ -3130,7 +3177,7 @@
 
 ---
 
-### 2. youtube見れるサイト教えて
+### 3. youtube見れるサイト教えて
 **Author:** フェットチーネしか勝たん
 
 <p>プロキシでもいいよ</p>
@@ -3150,7 +3197,7 @@
 
 ---
 
-### 3. 電話ができるアプリ
+### 4. 電話ができるアプリ
 **Author:** BMSG推し (r0400268_1)
 
 [Attachment 1](https://p2p.mirotalk.com/newcall)
@@ -3167,7 +3214,7 @@
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** たっくん
 
 [Attachment 1](https://ubg6969.gitlab.io/)
@@ -3182,7 +3229,7 @@
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** たっくん
 
 [Attachment 1](https://www.dailytoolz.com/cubes-2048/iframe.html)
@@ -3196,7 +3243,7 @@
 
 ---
 
-### 6. Post 6
+### 7. Post 7
 **Author:** たっくん
 
 [Attachment 1](https://jcw87.github.io/c2-smb1/)
@@ -3210,7 +3257,7 @@
 
 ---
 
-### 7. Post 7
+### 8. Post 8
 **Author:** たっくん
 
 [Attachment 1](https://gitlabgames.gitlab.io/category/action.html)
@@ -3224,7 +3271,7 @@
 
 ---
 
-### 8. Post 8
+### 9. Post 9
 **Author:** たっくん
 
 [Attachment 1](https://ubg88.gitlab.io/)
@@ -3238,7 +3285,7 @@
 
 ---
 
-### 9. Post 9
+### 10. Post 10
 **Author:** たっくん
 
 [Attachment 1](https://lunar.v2-nana.mza.com.ar/)
@@ -3252,7 +3299,7 @@
 
 ---
 
-### 10. かつお
+### 11. かつお
 **Author:** おうが (18jt026)
 
 <p><a rel="noopener noreferrer nofollow" href="https://katuotube-1-1-sdw5.onrender.com">https://katuotube-1-1-sdw5.onrender.com</a></p>
@@ -3272,7 +3319,7 @@
 
 ---
 
-### 11. 欲しいです！！
+### 12. 欲しいです！！
 **Author:** Mrs. green apple (Misesu121037)
 
 #### Comments (7)
@@ -3290,7 +3337,7 @@
 
 ---
 
-### 12. カツオ新しいの出てた欲しかったら言って！
+### 13. カツオ新しいの出てた欲しかったら言って！
 **Author:** おうが
 
 #### Comments (2)
@@ -3303,7 +3350,7 @@
 
 ---
 
-### 13. YouTube見れるサイトをください🙇
+### 14. YouTube見れるサイトをください🙇
 **Author:** クランシー (18as35)
 
 <p>出来ればラグくないのでお願いします🥺</p>
@@ -3319,7 +3366,7 @@
 
 ---
 
-### 14. 桃鉄の質問
+### 15. 桃鉄の質問
 **Author:** 俺だぞ〜（三橋） (H2822063)
 
 <p>うちの学校は桃鉄1時間までとか8:30〜6:までとか決められてるんですけど34201826この番号はどうですか？</p>
@@ -3333,7 +3380,7 @@
 
 ---
 
-### 15. ワカメとか
+### 16. ワカメとか
 **Author:** おうが (18jt026)
 
 #### Comments (140)

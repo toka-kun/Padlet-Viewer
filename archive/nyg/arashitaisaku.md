@@ -1,4 +1,4 @@
-最終更新: 2026/04/14 16:48:24
+最終更新: 2026/04/16 14:31:51
 
 # 荒らし対策室
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 11
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Apr 14, 2026 05:39am
+- **Updated At (UTC):** Apr 16, 2026 04:29am
 
 ## リンク集
 
@@ -151,22 +151,6 @@
 
 ---
 
-### 4. キット
-**Author:** 削除済みユーザー
-
-<p><strong>偽エドガーなので注意</strong></p>
-
-#### Reactions
-- **Upvotes:** 2
-- **Downvotes:** 2
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Nov 21, 2025 08:07am
-- **Updated At (UTC):** Feb 11, 2026 11:34pm
-
----
-
 ## 保管倉庫② - R.I.P.
 
 ### 1. りおと
@@ -224,5 +208,21 @@
 - **Post color:** White
 - **Created At (UTC):** Sep 29, 2025 12:06pm
 - **Updated At (UTC):** Jan 14, 2026 02:05pm
+
+---
+
+### 5. キット
+**Author:** 削除済みユーザー
+
+<p><strong>偽エドガーなので注意</strong></p>
+
+#### Reactions
+- **Upvotes:** 2
+- **Downvotes:** 2
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Nov 21, 2025 08:07am
+- **Updated At (UTC):** Apr 16, 2026 04:29am
 
 ---

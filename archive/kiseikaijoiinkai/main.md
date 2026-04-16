@@ -1,4 +1,4 @@
-最終更新: 2026/04/15 18:21:28
+最終更新: 2026/04/16 14:32:11
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 11
 - **Created At (UTC):** Apr 12, 2026 10:30am
-- **Updated At (UTC):** Apr 14, 2026 10:46pm
+- **Updated At (UTC):** Apr 16, 2026 03:28am
 
 ## 受付
 
@@ -137,6 +137,11 @@ No post
 **Author:** とるっぷい (TORI_TORI2)
 
 <p>アカウント名</p><p><strong>emerald-melon</strong></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/Emerald-Melon/">https://scratch.mit.edu/users/Emerald-Melon/</a></p>
+
+#### Comments (3)
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 16, 2026 03:25am): https://min-tube-pro-nana-002.up.railway.app/youtube-pro
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 16, 2026 03:26am): https://min-tube-pro-nana.up.railway.app/search?q=%E3%82%AD%E3%83%A8%E3%83%9D%E3%83%94%E3%83%BC%E3%83%97%E3%83%AC%E3%82%A4%E3%82%BF%E3%82%A4%E3%83%A0
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 16, 2026 03:28am): https://teach-english.onrender.com/
 
 #### Additional Information
 - **Created At (UTC):** Apr 13, 2026 12:39pm
