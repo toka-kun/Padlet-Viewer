@@ -1,4 +1,4 @@
-最終更新: 2026/04/17 14:29:44
+最終更新: 2026/04/17 16:49:43
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 146
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 17, 2026 04:08am
+- **Updated At (UTC):** Apr 17, 2026 07:28am
 
 ## 管理者　連絡
 
@@ -200,8 +200,8 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 63 votes
-- **たけのこの里:** 46 votes
+- **きのこの山:** 64 votes
+- **たけのこの里:** 49 votes
 - **ドウデモイイ:** 11 votes
 
 #### Comments (19)
@@ -227,7 +227,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 17, 2026 05:10am
+- **Updated At (UTC):** Apr 17, 2026 07:25am
 
 ---
 
@@ -292,7 +292,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777008581&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ePmXCF5727rzW4P9XUhfPQi1M09g6xpQQC2tYekRls%2BQkjE0SKOk0o%2FyRyP9x66z4jA9789JSd3DjGwKb9vpXqH%2FkabM10eqnssjcOAAdzpQtLsxPanLDih%2FpJnX2x4ucAlMJtUtciHgfGAlI3uh%2B1wmZNDunNusXXK%2FRIC3Wrs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777016981&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aYrMvrtceKVYc94c4sudUMgesD3ZKnqTldxScrMEF9Wj73hCIhMGr%2Bi8i8ThTiMicXtl5ejUCiBvj7Y4xy0t90rw%2BAp2BUbVBC9GZVCxjgSPge4LTtKfskizQYclZ62LF1pw1Mdebr5e9K43EGsU6UK0iViUYw0fPXoAgHOuG2U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -1427,7 +1427,7 @@
 **Author:** フェットチーネしか勝たん
 
 **何のグミ好き:**
-- **フェットチーネ:** 6 votes
+- **フェットチーネ:** 7 votes
 - **忍者飯:** 9 votes
 - **ピュレグミ:** 8 votes
 - **それ以外:** 5 votes
@@ -1446,7 +1446,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Apr 07, 2026 11:14pm
-- **Updated At (UTC):** Apr 17, 2026 12:07am
+- **Updated At (UTC):** Apr 17, 2026 07:28am
 
 ---
 
@@ -1524,7 +1524,7 @@
 ---
 
 ### 9. だんだんと閲覧数とか増えてきたね
-**Author:** 渡部康明 (nekosaikyoukami)
+**Author:** nekoちゃんぬ族１代#nekoちゃんぬ総長のサブ垢だよ (nekosaikyoukami)
 
 #### Comments (1)
 - **おうが** (Mar 22, 2026 11:08am): うん！頑張る
@@ -3170,7 +3170,22 @@
 
 ## 他の動画見れるサイト
 
-### 1. まっつー
+### 1. おもろいよ
+**Author:** たいち (r0300353)
+
+[Attachment 1](https://scratch.mit.edu/projects/930261517/fullscreen/)
+
+#### Comments (2)
+- **おうが** (Apr 16, 2026 01:12am): ぶろだ
+- **たいち** (Apr 16, 2026 05:06am): まじか
+
+#### Additional Information
+- **Created At (UTC):** Apr 15, 2026 11:50am
+- **Updated At (UTC):** Apr 17, 2026 07:28am
+
+---
+
+### 2. まっつー
 **Author:** みっきー
 
 #### Comments (8)
@@ -3186,21 +3201,6 @@
 #### Additional Information
 - **Created At (UTC):** Apr 16, 2026 05:14am
 - **Updated At (UTC):** Apr 16, 2026 05:14am
-
----
-
-### 2. おもろいよ
-**Author:** たいち (r0300353)
-
-[Attachment 1](https://scratch.mit.edu/projects/930261517/fullscreen/)
-
-#### Comments (2)
-- **おうが** (Apr 16, 2026 01:12am): ぶろだ
-- **たいち** (Apr 16, 2026 05:06am): まじか
-
-#### Additional Information
-- **Created At (UTC):** Apr 15, 2026 11:50am
-- **Updated At (UTC):** Apr 15, 2026 11:50am
 
 ---
 
