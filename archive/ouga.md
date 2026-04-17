@@ -1,4 +1,4 @@
-最終更新: 2026/04/17 22:43:14
+最終更新: 2026/04/17 23:57:07
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 148
+- **Posts:** 150
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 17, 2026 01:00pm
+- **Updated At (UTC):** Apr 17, 2026 02:37pm
 
 ## 管理者　連絡
 
@@ -201,7 +201,7 @@
 
 **どっち派？:**
 - **きのこの山:** 66 votes
-- **たけのこの里:** 53 votes
+- **たけのこの里:** 55 votes
 - **ドウデモイイ:** 11 votes
 
 #### Comments (19)
@@ -227,7 +227,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 17, 2026 12:58pm
+- **Updated At (UTC):** Apr 17, 2026 02:26pm
 
 ---
 
@@ -292,7 +292,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777038191&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6LwnaMTyXr%2BqZFl%2FYgs%2F%2F1oeBLKTB61bfngY1E4bfzix1XQt99BgTndEBydzqRiHnDWUaksIUkLJlz7TBZqZEPDpL%2FQyTgA08A3TiX5sp98354nPGrSYX0B7mq%2FkXj55%2Bal3lQXKY4HzkovCMZ%2B3kVhy8%2BLqP%2B8Ac8DZwjqXGKs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777042624&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yrX6Mo96013WDQC7Dc%2F4tV58bVUaH4Ps0oZ6k06XEsaNxj6tcqfsRJFZiYVV0tsoE1Fl3qK%2FWCPv0T8M3RpnQtqxmnj46Mt5hlaoBNVzP1fgA9b60TdCb5CwR5KoemVq6ef7Hhvjg6D%2B6djLjaY3XmvgWackE8ugGGqtY7UfL38%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -2396,7 +2396,18 @@
 
 ---
 
-### 2. これはハマっちゃうって
+### 2. Post 2
+**Author:** やまにつつ (yamanitsutsu)
+
+<p>これとか？</p><p><a rel="noopener noreferrer nofollow" href="https://mergecraft.gcdn.co/publish/html5/">https://mergecraft.gcdn.co/publish/html5/</a></p>
+
+#### Additional Information
+- **Created At (UTC):** Apr 17, 2026 02:34pm
+- **Updated At (UTC):** Apr 17, 2026 02:34pm
+
+---
+
+### 3. これはハマっちゃうって
 **Author:** こnにちは
 
 <p>ブロされたらごめん</p>
@@ -2414,7 +2425,7 @@
 
 ---
 
-### 3. ロブロックスフレンドなりませんか？
+### 4. ロブロックスフレンドなりませんか？
 **Author:** こnにちは
 
 <p>IDはABC123goriです</p>
@@ -2433,7 +2444,7 @@
 
 ---
 
-### 4. これは
+### 5. これは
 **Author:** フェットチーネしか勝たん
 
 <p>左のボタンはいろいろできて右はマイクラできる</p>
@@ -2454,7 +2465,7 @@
 
 ---
 
-### 5. おもろいよ
+### 6. おもろいよ
 **Author:** ワイ君
 
 [Attachment 1](https://www.flightradar24.com/35.13,135.11/8)
@@ -2465,17 +2476,6 @@
 #### Additional Information
 - **Created At (UTC):** Apr 04, 2026 12:11pm
 - **Updated At (UTC):** Apr 04, 2026 12:11pm
-
----
-
-### 6. おもろいよ
-**Author:** ワイ君
-
-[Attachment 1](https://www.flightradar24.com/35.13,135.11/8)
-
-#### Additional Information
-- **Created At (UTC):** Apr 04, 2026 12:10pm
-- **Updated At (UTC):** Apr 04, 2026 12:10pm
 
 ---
 
@@ -2490,7 +2490,18 @@
 
 ---
 
-### 8. ノーブロゲームサイト
+### 8. おもろいよ
+**Author:** ワイ君
+
+[Attachment 1](https://www.flightradar24.com/35.13,135.11/8)
+
+#### Additional Information
+- **Created At (UTC):** Apr 04, 2026 12:10pm
+- **Updated At (UTC):** Apr 04, 2026 12:10pm
+
+---
+
+### 9. ノーブロゲームサイト
 **Author:** XminionQWQ
 
 [Attachment 1](https://sites.google.com/view/prohomework2z/dictionary)
@@ -2505,7 +2516,7 @@
 
 ---
 
-### 9. 桃鉄のパスワード求む
+### 10. 桃鉄のパスワード求む
 **Author:** ワイ君
 
 #### Additional Information
@@ -2514,7 +2525,7 @@
 
 ---
 
-### 10. これは？
+### 11. これは？
 **Author:** フェットチーネしか勝たん
 
 <p>そんな面白いのないとは思うけど</p>
@@ -2527,7 +2538,7 @@
 
 ---
 
-### 11. わかめチューブのサイト載せてください
+### 12. わかめチューブのサイト載せてください
 **Author:** あかさたな
 
 #### Additional Information
@@ -2536,7 +2547,7 @@
 
 ---
 
-### 12. 色々できるゲームサイト
+### 13. 色々できるゲームサイト
 **Author:** BMSG推し (r0400268_1)
 
 [Attachment 1](https://sites.google.com/classroom.center/view/home)
@@ -2554,7 +2565,7 @@
 
 ---
 
-### 13. 色々できるゲームサイト
+### 14. 色々できるゲームサイト
 **Author:** BMSG推し (r0400268_1)
 
 [Attachment 1](https://ubg77.gitlab.io/)
@@ -2569,7 +2580,7 @@
 
 ---
 
-### 14. テトリス
+### 15. テトリス
 **Author:** BMSG推し (r0400268_1)
 
 [Attachment 1](https://stemask.bex.jp/tetris/)
@@ -2584,7 +2595,7 @@
 
 ---
 
-### 15. わかめチューブのリンク乗っけてください
+### 16. わかめチューブのリンク乗っけてください
 **Author:** あかさたな
 
 #### Comments (3)
@@ -2598,7 +2609,7 @@
 
 ---
 
-### 16. ゲームできるサイト教えて
+### 17. ゲームできるサイト教えて
 **Author:** あかさたな
 
 #### Comments (2)
@@ -2611,7 +2622,7 @@
 
 ---
 
-### 17. 桃鉄教育版の授業パスワード教えて
+### 18. 桃鉄教育版の授業パスワード教えて
 **Author:** フェットチーネしか勝たん
 
 #### Additional Information
@@ -2620,7 +2631,7 @@
 
 ---
 
-### 18. たっくんさんもっと教えてくれませんか？
+### 19. たっくんさんもっと教えてくれませんか？
 **Author:** たいち (r0300353)
 
 #### Additional Information
@@ -2629,7 +2640,7 @@
 
 ---
 
-### 19. Post 19
+### 20. Post 20
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://24glo.com/game/index.html)
@@ -2644,7 +2655,7 @@
 
 ---
 
-### 20. Post 20
+### 21. Post 21
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://www.dailytoolz.com/gameindex.php)
@@ -2659,7 +2670,7 @@
 
 ---
 
-### 21. Post 21
+### 22. Post 22
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://medv.io/bit-planes/?mode=survival)
@@ -2674,7 +2685,7 @@
 
 ---
 
-### 22. 「
+### 23. 「
 **Author:** aaabbbccc (mazamaza)
 
 <p><br/></p><p><br/></p>
@@ -2694,7 +2705,7 @@
 
 ---
 
-### 23. URL貼ったらなんでも開けるサイトとかない？
+### 24. URL貼ったらなんでも開けるサイトとかない？
 **Author:** 現実見ろや粉カス (gs203427)
 
 #### Additional Information
@@ -2703,7 +2714,7 @@
 
 ---
 
-### 24. こんにちわー
+### 25. こんにちわー
 **Author:** いっせい
 
 #### Comments (1)
@@ -2715,7 +2726,7 @@
 
 ---
 
-### 25. ゲームできる！
+### 26. ゲームできる！
 **Author:** キューピット
 
 #### Comments (6)
@@ -2732,7 +2743,7 @@
 
 ---
 
-### 26. i-FILTER.の人必見（枚方市立の小学校の行ってる人のみ）
+### 27. i-FILTER.の人必見（枚方市立の小学校の行ってる人のみ）
 **Author:** 俺だぞ〜（三橋） (H2822063)
 
 <p>これgames押したらクレイジーゲームとかできる</p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://hygiene.yodetergent">https://hygiene.yodetergent</a></p><p><br></p><p>これは検索したらなんでも開けるサイト</p><p>あと左のゲームボタンを押したらゲームできる（時々できない）</p><p>そして🎵マークを押すと音楽が聴ける</p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://pc-freak.net/proxy/">https://pc-freak.net/proxy/</a></p><p>これはURLをコピペするとなんでも開ける</p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://zhenxiangba.com/phproxy-improved-master/">https://zhenxiangba.com/phproxy-improved-master/</a></p><p><br></p><p>これはちょとめんどいけどなんでも開ける</p><p>これは「https://」部分を消さないと開けない</p><p><br></p><p><br></p>
@@ -2750,7 +2761,7 @@
 
 ---
 
-### 27. ろぶろっくすほしい
+### 28. ろぶろっくすほしい
 **Author:** 本庄克章 (YAJUAU)
 
 #### Comments (7)
@@ -2768,7 +2779,7 @@
 
 ---
 
-### 28. 練馬区民でプロキシ持ってたらくれ
+### 29. 練馬区民でプロキシ持ってたらくれ
 **Author:** バンダナわどるど Xx-tucasanz-xX りおと53番弟子　りおと族27代目 (gs203418)
 
 #### Comments (3)
@@ -2782,7 +2793,7 @@
 
 ---
 
-### 29. ブロックなんですけどー
+### 30. ブロックなんですけどー
 **Author:** Responsible Jackrabbit
 
 <p>ブロックされてないのお願い🙇</p>
@@ -2797,7 +2808,7 @@
 
 ---
 
-### 30. ゲームをのして
+### 31. ゲームをのして
 **Author:** おうが (18jt026)
 
 #### Comments (365)
@@ -3565,7 +3576,18 @@
 
 ## プロキシ
 
-### 1. これもよろしく
+### 1. Post 1
+**Author:** やまにつつ (yamanitsutsu)
+
+[Attachment 1](https://www-q.nolife.uk/)
+
+#### Additional Information
+- **Created At (UTC):** Apr 17, 2026 01:43pm
+- **Updated At (UTC):** Apr 17, 2026 01:43pm
+
+---
+
+### 2. これもよろしく
 **Author:** ky1732050808
 
 <p><a rel="noopener noreferrer nofollow" href="https://www-q.nolife.uk/">https://www-q.nolife.uk/</a></p>
@@ -3580,7 +3602,7 @@
 
 ---
 
-### 2. これマジでおすすめ
+### 3. これマジでおすすめ
 **Author:** ky1732050808
 
 [Attachment 1](https://www-reflect4.buachi.work)
@@ -3595,7 +3617,7 @@
 
 ---
 
-### 3. Post 3
+### 4. Post 4
 **Author:** おうが (18jt026)
 
 [Attachment 1](https://subscribe-vcsa.mrwheeler.uk/)
@@ -3612,7 +3634,7 @@
 
 ---
 
-### 4. ぷりーずみー2v2io
+### 5. ぷりーずみー2v2io
 **Author:** ワイ君
 
 <p>たのむッ</p>
@@ -3623,7 +3645,7 @@
 
 ---
 
-### 5. youtube見れるプロキシサイト教えて
+### 6. youtube見れるプロキシサイト教えて
 **Author:** フェットチーネしか勝つ
 
 #### Comments (1)
@@ -3635,7 +3657,7 @@
 
 ---
 
-### 6. 作ったよー
+### 7. 作ったよー
 **Author:** おうが (18jt026)
 
 #### Comments (14)
@@ -3660,7 +3682,7 @@
 
 ---
 
-### 7. Post 7
+### 8. Post 8
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://precalc.k22.su/)
@@ -3671,7 +3693,7 @@
 
 ---
 
-### 8. Post 8
+### 9. Post 9
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://sharethisshadow.easterndns.com/)
