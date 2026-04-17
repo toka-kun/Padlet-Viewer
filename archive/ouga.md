@@ -1,4 +1,4 @@
-最終更新: 2026/04/17 08:41:49
+最終更新: 2026/04/17 11:40:59
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 145
+- **Posts:** 146
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 16, 2026 11:40pm
+- **Updated At (UTC):** Apr 17, 2026 02:34am
 
 ## 管理者　連絡
 
@@ -200,8 +200,8 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 58 votes
-- **たけのこの里:** 44 votes
+- **きのこの山:** 62 votes
+- **たけのこの里:** 46 votes
 - **ドウデモイイ:** 11 votes
 
 #### Comments (19)
@@ -227,7 +227,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 16, 2026 02:54pm
+- **Updated At (UTC):** Apr 17, 2026 02:23am
 
 ---
 
@@ -236,9 +236,11 @@
 
 <p>だれかはなそ</p>
 
-#### Comments (2)
+#### Comments (4)
 - **フェットチーネしか勝たん** (Apr 15, 2026 05:30am): いいよ
 - **おうが** (Apr 16, 2026 01:11am): 結局話さないの？w
+- **フェットチーネしか勝たん** (Apr 17, 2026 12:23am): 言いよって変身したけどコメント来ないｗ
+- **おうが** (Apr 17, 2026 02:34am): www
 
 #### Additional Information
 - **Created At (UTC):** Apr 14, 2026 12:44pm
@@ -290,7 +292,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1776987706&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=W3s78Dwmpna9N5X8SS6TsGELl40MEY0hE4NK7RVs7zO8TsJ%2Fk%2Fhfm7niab7AziWxZSCfIoNP%2B6mtjseKWQxWPJuhGwVCoHCCf%2FDfxRyqv%2BziKlgOGm1XSpjJIuHI1jEMog0XWtDJseTACQFEy%2Bj1PW9Xgh%2FNmHxsCqyFgRAiWAo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1776998455&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jA7s1TPPovKJK1NppGdsziBd33bQM90KDuJ9MQaNf22DfdppSTl5LCzTGRwKqmATgijt5R06Ceib1qajt4%2F6xErEFbPPHS%2BBU5Dy6RdKDgFB%2FobpWICsmH22LOR3CkjdDWFqo0YskOitMyCzot8uKo0sKONj1HnxA2OgxWnuDdY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -744,11 +746,14 @@
 ### 1. 参加の方はこちらに
 **Author:** おうが (18jt026)
 
-#### Comments (4)
+#### Comments (7)
 - **たいち** (Apr 16, 2026 08:33am): はいどうも
 - **たいち** (Apr 16, 2026 08:40am): 参加します
 - **たいち** (Apr 16, 2026 12:10pm): 受験頑張ってください！
 - **おうが** (Apr 16, 2026 11:20pm): ありがと！！
+- **フェットチーネしか勝たん** (Apr 17, 2026 12:24am): これってログインしなきゃ管理者なれない？
+- **おうが** (Apr 17, 2026 12:38am): メアドいるから
+- **おうが** (Apr 17, 2026 12:38am): ログインしてないと無理だと思う
 
 #### Additional Information
 - **Created At (UTC):** Apr 16, 2026 05:19am
@@ -1361,15 +1366,14 @@
 
 <p>1位目指すの頑張って</p>
 
-#### Comments (8)
+#### Comments (7)
 - **たいち** (Apr 13, 2026 10:34pm): え、マジで？スゴ
 - **おうが** (Apr 14, 2026 04:30am): 多分だよw
 - **フェットチーネしか勝たん** (Apr 15, 2026 05:30am): 逆に1位のパドレットなんだよ
 - **たいち** (Apr 15, 2026 11:49am): それな
 - **Journey Scribe** (Apr 16, 2026 07:30am): 1位は桁が違う... https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg
 - **たいち** (Apr 16, 2026 08:28am): これやばい
-- **Someone** (Apr 16, 2026 10:59am): そもそもここ3位ですらなくね
-- **フユノカ** (Apr 16, 2026 12:06pm): 確かに 
+- **フェットチーネしか勝たん** (Apr 17, 2026 12:23am): これアラート発生する
 
 #### Additional Information
 - **Created At (UTC):** Apr 13, 2026 12:50pm
@@ -1422,7 +1426,7 @@
 
 **何のグミ好き:**
 - **フェットチーネ:** 6 votes
-- **忍者飯:** 8 votes
+- **忍者飯:** 9 votes
 - **ピュレグミ:** 8 votes
 - **それ以外:** 5 votes
 
@@ -1440,7 +1444,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Apr 07, 2026 11:14pm
-- **Updated At (UTC):** Apr 16, 2026 02:54pm
+- **Updated At (UTC):** Apr 17, 2026 12:07am
 
 ---
 
@@ -3167,7 +3171,7 @@
 ### 1. まっつー
 **Author:** みっきー
 
-#### Comments (7)
+#### Comments (8)
 - **まっつー** (Apr 16, 2026 05:15am): なに
 - **みっきー** (Apr 16, 2026 05:15am): コンチくわー 
 - **みっきー** (Apr 16, 2026 05:16am): 😀
@@ -3175,6 +3179,7 @@
 - **ふじこ** (Apr 16, 2026 08:46am): だれかわかる？ww 
 - **ふじこ** (Apr 16, 2026 09:02am): ゲームのサイト教えてあげるhttps://astral-games.onrender.com/gxmes.htmlおもろいよー 
 - **ふじこ** (Apr 16, 2026 11:22am): チャットサイトhttps://messageapp-cvxy.onrender.com/chat.html?name=%E3%81%B5%E3%81%98%E3%81%93&room=%E3%81%82%E3%81%9D%E3%81%93
+- **みっきー** (Apr 17, 2026 12:00am): ナイス👍 
 
 #### Additional Information
 - **Created At (UTC):** Apr 16, 2026 05:14am
@@ -3698,7 +3703,16 @@
 
 ## ブロフルしてる子おる？
 
-### 1. してる子話そ
+### 1. ブロスタしてる子いますか
+**Author:** アメリカ税務署管理者
+
+#### Additional Information
+- **Created At (UTC):** Apr 17, 2026 01:10am
+- **Updated At (UTC):** Apr 17, 2026 01:10am
+
+---
+
+### 2. してる子話そ
 **Author:** おうが (18jt026)
 
 #### Comments (78)
