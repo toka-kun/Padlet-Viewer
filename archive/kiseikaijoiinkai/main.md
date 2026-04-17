@@ -1,13 +1,13 @@
-最終更新: 2026/04/16 22:47:54
+最終更新: 2026/04/17 22:43:04
 
 # 規制解除解除委員会
 
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-g07iihoi22rh2q7l
 - **Builder:** とるっぷい (TORI_TORI2)
-- **Posts:** 12
+- **Posts:** 11
 - **Created At (UTC):** Apr 12, 2026 10:30am
-- **Updated At (UTC):** Apr 16, 2026 01:22pm
+- **Updated At (UTC):** Apr 17, 2026 12:40pm
 
 ## 受付
 
@@ -74,14 +74,7 @@ No post
 
 ## 雑談(ライター用)
 
-### 1. こん
-**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
-
-#### Additional Information
-- **Created At (UTC):** Apr 16, 2026 01:22pm
-- **Updated At (UTC):** Apr 16, 2026 01:22pm
-
----
+No post
 
 ## わかめ
 
