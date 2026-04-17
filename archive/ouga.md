@@ -1,4 +1,4 @@
-最終更新: 2026/04/17 20:57:27
+最終更新: 2026/04/17 22:43:14
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 148
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 17, 2026 11:30am
+- **Updated At (UTC):** Apr 17, 2026 01:00pm
 
 ## 管理者　連絡
 
@@ -200,8 +200,8 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 64 votes
-- **たけのこの里:** 52 votes
+- **きのこの山:** 66 votes
+- **たけのこの里:** 53 votes
 - **ドウデモイイ:** 11 votes
 
 #### Comments (19)
@@ -227,7 +227,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 17, 2026 08:53am
+- **Updated At (UTC):** Apr 17, 2026 12:58pm
 
 ---
 
@@ -292,7 +292,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777031845&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=chHVKc5J5dUfAhXSWejJBg6FFn%2FS6i03TcAggFuPwIaGva%2BmDwrRwtAb4p2WJs%2BOPOE8t2dmlJtzj543FCNnNFyrnYz6RS8LtebMg6cgweFtFL2L3XiHVg6%2F%2F4w780hCPaim%2BChs4mtt%2FfI891nk54mtjLoWLt3Qj6uNjX%2BFsHs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777038191&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6LwnaMTyXr%2BqZFl%2FYgs%2F%2F1oeBLKTB61bfngY1E4bfzix1XQt99BgTndEBydzqRiHnDWUaksIUkLJlz7TBZqZEPDpL%2FQyTgA08A3TiX5sp98354nPGrSYX0B7mq%2FkXj55%2Bal3lQXKY4HzkovCMZ%2B3kVhy8%2BLqP%2B8Ac8DZwjqXGKs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -3570,8 +3570,9 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://www-q.nolife.uk/">https://www-q.nolife.uk/</a></p>
 
-#### Comments (1)
+#### Comments (2)
 - **ky1732050808** (Apr 17, 2026 10:57am): 返信、評価よろ
+- **フェットチーネしか勝** (Apr 17, 2026 01:01pm): ブロ
 
 #### Additional Information
 - **Created At (UTC):** Apr 17, 2026 10:56am
@@ -3584,8 +3585,9 @@
 
 [Attachment 1](https://www-reflect4.buachi.work)
 
-#### Comments (1)
+#### Comments (2)
 - **ky1732050808** (Apr 17, 2026 10:53am): 行けたらぜひ返信してほしいです
+- **フェットチーネしか勝** (Apr 17, 2026 01:00pm): ブロ
 
 #### Additional Information
 - **Created At (UTC):** Apr 17, 2026 10:52am
@@ -3740,6 +3742,9 @@
 
 ### 1. ブロスタしてる子いますか
 **Author:** アメリカ税務署管理者
+
+#### Comments (1)
+- **ハネノキ** (Apr 17, 2026 12:31pm): 僕してます
 
 #### Additional Information
 - **Created At (UTC):** Apr 17, 2026 01:10am
