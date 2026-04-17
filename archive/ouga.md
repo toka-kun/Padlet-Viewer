@@ -1,4 +1,4 @@
-最終更新: 2026/04/17 11:40:59
+最終更新: 2026/04/17 14:29:44
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 146
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 17, 2026 02:34am
+- **Updated At (UTC):** Apr 17, 2026 04:08am
 
 ## 管理者　連絡
 
@@ -200,7 +200,7 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 62 votes
+- **きのこの山:** 63 votes
 - **たけのこの里:** 46 votes
 - **ドウデモイイ:** 11 votes
 
@@ -227,7 +227,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 17, 2026 02:23am
+- **Updated At (UTC):** Apr 17, 2026 05:10am
 
 ---
 
@@ -292,7 +292,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1776998455&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jA7s1TPPovKJK1NppGdsziBd33bQM90KDuJ9MQaNf22DfdppSTl5LCzTGRwKqmATgijt5R06Ceib1qajt4%2F6xErEFbPPHS%2BBU5Dy6RdKDgFB%2FobpWICsmH22LOR3CkjdDWFqo0YskOitMyCzot8uKo0sKONj1HnxA2OgxWnuDdY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777008581&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ePmXCF5727rzW4P9XUhfPQi1M09g6xpQQC2tYekRls%2BQkjE0SKOk0o%2FyRyP9x66z4jA9789JSd3DjGwKb9vpXqH%2FkabM10eqnssjcOAAdzpQtLsxPanLDih%2FpJnX2x4ucAlMJtUtciHgfGAlI3uh%2B1wmZNDunNusXXK%2FRIC3Wrs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -746,7 +746,7 @@
 ### 1. 参加の方はこちらに
 **Author:** おうが (18jt026)
 
-#### Comments (7)
+#### Comments (8)
 - **たいち** (Apr 16, 2026 08:33am): はいどうも
 - **たいち** (Apr 16, 2026 08:40am): 参加します
 - **たいち** (Apr 16, 2026 12:10pm): 受験頑張ってください！
@@ -754,6 +754,7 @@
 - **フェットチーネしか勝たん** (Apr 17, 2026 12:24am): これってログインしなきゃ管理者なれない？
 - **おうが** (Apr 17, 2026 12:38am): メアドいるから
 - **おうが** (Apr 17, 2026 12:38am): ログインしてないと無理だと思う
+- **yolo** (Apr 17, 2026 04:08am): 参加します
 
 #### Additional Information
 - **Created At (UTC):** Apr 16, 2026 05:19am
@@ -764,13 +765,14 @@
 ### 2. 閲覧数10000突破！！イベント開催します！
 **Author:** おうが (18jt026)
 
-#### Comments (6)
+#### Comments (7)
 - **おうが** (Apr 16, 2026 04:11am): 参加したい人は返信お願いします！4月20日締め切りにします
 - **おうが** (Apr 16, 2026 04:11am): そしてイベント内容はなんと1人に管理者プレゼント！！！
 - **おうが** (Apr 16, 2026 04:12am): 僕も受験生ですなのでこれから活動できる時間がありませんなので誰か一人に受け継いでもらいます！！
 - **たいち** (Apr 16, 2026 05:02am): よかったら継ぎます
 - **おうが** (Apr 16, 2026 05:08am): ルーレットで決めたいと思います
 - **たいち** (Apr 16, 2026 08:30am): おｋ
+- **yolo** (Apr 17, 2026 04:08am): やりたいです
 
 #### Additional Information
 - **Created At (UTC):** Apr 16, 2026 04:10am
@@ -1522,7 +1524,7 @@
 ---
 
 ### 9. だんだんと閲覧数とか増えてきたね
-**Author:** nekoちゃんぬ総長#サブ垢 (nekosaikyoukami)
+**Author:** 渡部康明 (nekosaikyoukami)
 
 #### Comments (1)
 - **おうが** (Mar 22, 2026 11:08am): うん！頑張る

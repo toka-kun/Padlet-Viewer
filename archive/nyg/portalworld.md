@@ -1,4 +1,4 @@
-最終更新: 2026/04/17 11:40:27
+最終更新: 2026/04/17 14:29:12
 
 # Padletポータルワールド
 
@@ -132,7 +132,7 @@
 ---
 
 ### 3. りおと国（公式）
-**Author:** ぬほさた (sukinaokazuhahannbaagu)
+**Author:** ぬほさた (Nehosataa)
 
 <p>常時人がいる</p><p>パドレット最大級の過密部屋</p><p>誰でも大歓迎！</p>
 
@@ -2762,7 +2762,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1776998427&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=o0p6zTS8CVrPW7B4bP5t95sJU2yVG8z5mJg2j2BIM%2B6tFFNgxdOs90yaFUNdKRrL36Tq8dh%2FWOMjbgNOZfw9X%2F%2FBriKh1O6pbfDWueCQyjn22BB4QRmoy2qI8FLcg3jSSjZi7j5hNukteNmhSoUMSslwsk2K%2FuuoMxR7pgHNz6M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1777008552&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PDMocNBJEZygDdK56Z8mqxvXtl5mXB3M%2FkFz0s51UTHXIgKUwD9kmdkW7gi09M4ig%2FuCbceUCKxdF2wtAn18J7kBMWj%2B5SX%2FpKIdA%2F1hhkbOUC4uxSBhmoVDuB4%2FOaydman21y7a%2FyU8AhWlzJn4DCQwSDGMNV2%2B8wwy66yCFso%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
