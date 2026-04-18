@@ -1,4 +1,4 @@
-最終更新: 2026/04/14 22:43:41
+最終更新: 2026/04/18 14:07:48
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
 - **Posts:** 16
 - **Created At (UTC):** Aug 27, 2024 11:14am
-- **Updated At (UTC):** Apr 14, 2026 04:51am
+- **Updated At (UTC):** Apr 18, 2026 03:53am
 
 ## 概要
 
@@ -277,7 +277,7 @@
 ![https://uploads.scratch.mit.edu/projects/thumbnails/1045090037.png](https://uploads.scratch.mit.edu/projects/thumbnails/1045090037.png)
 
 #### Reactions
-- **Number of likes:** 1
+- **Number of likes:** 2
 
 #### Additional Information
 - **Post color:** Red
