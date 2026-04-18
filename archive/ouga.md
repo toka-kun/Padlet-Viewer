@@ -1,4 +1,4 @@
-最終更新: 2026/04/18 20:36:08
+最終更新: 2026/04/18 22:05:38
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 150
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 18, 2026 11:00am
+- **Updated At (UTC):** Apr 18, 2026 12:00pm
 
 ## 管理者　連絡
 
@@ -204,7 +204,7 @@
 - **たけのこの里:** 55 votes
 - **ドウデモイイ:** 11 votes
 
-#### Comments (19)
+#### Comments (20)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
 - **ｸﾎﾞｲｯﾀ** (Mar 29, 2026 10:19pm): もう…きのこだ、たけのこだなんて争わないでいいじゃん…きのこの勝ちでいいじゃん…
 - **たいち** (Mar 30, 2026 01:07am): きのこだな
@@ -224,6 +224,7 @@
 - **おうが** (Apr 14, 2026 04:30am): wwww
 - **たいち** (Apr 15, 2026 06:52am): 投票数１００行くぞwww
 - **おうが** (Apr 16, 2026 01:10am): 戦争だ
+- **たいち** (Apr 18, 2026 12:00pm): だなｗ
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
@@ -292,7 +293,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777116965&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zaP7D4T2enmTqu8VcqXsSRI1B6TYaBvWNwQSf8IJQin%2BfAmhpBdghzn1p9iSK8AvQEoVh9LpHQGz%2BkDsx96ZLtUrEF6cMkUzoLuBcC3GtJNphTGOf9R9VQ42UiT12DFeA2N%2FVU5heZHJVUVaJAk9c%2FtlN09CoQacoqBplC3eIzw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777122335&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=i7IxJ%2BcqrRXyjLqUbglVN9fZaQXJjAsthJiBctMHe%2FKQtxftTe979gkvUSexOGKNBmcTUND5BvWgtdKj2%2B%2B2WbMmSn%2F%2BoRaUcOWEnV4WCGMSmxuRGzyi8KCbMs8blE6I4%2B0Y2iqY%2BxV1Un2ogw93MhHzX0giMTJc89Vi2ozFKvI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am

@@ -1,4 +1,4 @@
-最終更新: 2026/04/18 14:07:48
+最終更新: 2026/04/18 22:05:12
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Nanachiki/padlet-4b9092979b4e6dlm
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
-- **Posts:** 16
+- **Posts:** 17
 - **Created At (UTC):** Aug 27, 2024 11:14am
-- **Updated At (UTC):** Apr 18, 2026 03:53am
+- **Updated At (UTC):** Apr 18, 2026 12:45pm
 
 ## 概要
 
@@ -93,7 +93,21 @@
 
 ## 自己紹介、雑談等
 
-### 1. ゲームほしいです
+### 1. きて
+**Author:** へーい (22719059)
+
+**投稿の種類:** ゲームの紹介
+
+[Attachment 1](https://turbowarp.org/1308269898/fullscreen?hqpen)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 18, 2026 12:45pm
+- **Updated At (UTC):** Apr 18, 2026 12:45pm
+
+---
+
+### 2. ゲームほしいです
 **Author:** T34-85M (dr6ftg7yuhio)
 
 <p>学校のタブレットで規制をすり抜けてできるゲームを教えて下さい。</p>
@@ -113,7 +127,7 @@
 
 ---
 
-### 2. 部屋の消し方がわかりません
+### 3. 部屋の消し方がわかりません
 **Author:** 削除済みユーザー
 
 #### Comments (5)
