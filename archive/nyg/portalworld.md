@@ -1,4 +1,4 @@
-最終更新: 2026/04/20 07:36:57
+最終更新: 2026/04/20 08:37:36
 
 # Padletポータルワールド
 
@@ -1014,7 +1014,7 @@
 ---
 
 ### 41. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
-**Author:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri)
+**Author:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri_)
 
 <p>過密にしたいです！</p><p><br/></p><p>匿名の部屋から普通の雑談部屋まで</p><p>アップデートを重ねて日々機能増加中！</p><p><br/></p><p>ぜひ来てね―</p><p><br/></p><p>※仕様変更により一時的にライター制</p>
 
@@ -1468,7 +1468,7 @@
 ---
 
 ### 61. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
-**Author:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri)
+**Author:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri_)
 
 <p><strong>ルールを守れば違反しなければ何をしても良い部屋。</strong></p><p><br/></p><p><strong>人がぜんぜんいないので来てね</strong></p><p><strong>雑談しようぜ！</strong></p>
 
@@ -2740,7 +2740,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1777243017&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tiL5aqxB1epPn%2FkDilXQAFQjhS47KwrL0eU2qzdPQ%2FVUZqdpLojPZ%2BDFtJjOgbAq23fqVCNmbemEq75E3%2B5%2B7ogUy1xlybDLAxySU4%2B5nsd23OGcaryMXbdSaDPlBqYWZ3bo8Aft5odlrNcmZALcIa1mB1LCKOTkY3KsYUwtnMs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1777246656&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3BH%2B0w6L3yovBkGz%2Fe6fbRkUGvfWIA4LMSGSZwg4fR1wi1CgRLDD7MgDhufYjZWalFpyJAe2D2U8Bguc2Xm3DVrmqitfnaySBC0QUsiexhJwm1XG6DfD4Osu6cEhY1kmpYNhhNPRupES9hFI%2BM0t124d8UyJkJ6j7rKAQqkJBfA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
