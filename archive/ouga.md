@@ -1,4 +1,4 @@
-最終更新: 2026/04/20 02:37:02
+最終更新: 2026/04/20 07:37:20
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 155
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 19, 2026 04:54pm
+- **Updated At (UTC):** Apr 19, 2026 10:29pm
 
 ## 管理者　連絡
 
@@ -200,11 +200,11 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 72 votes
+- **きのこの山:** 73 votes
 - **たけのこの里:** 59 votes
 - **ドウデモイイ:** 12 votes
 
-#### Comments (20)
+#### Comments (21)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
 - **ｸﾎﾞｲｯﾀ** (Mar 29, 2026 10:19pm): もう…きのこだ、たけのこだなんて争わないでいいじゃん…きのこの勝ちでいいじゃん…
 - **たいち** (Mar 30, 2026 01:07am): きのこだな
@@ -225,10 +225,11 @@
 - **たいち** (Apr 15, 2026 06:52am): 投票数１００行くぞwww
 - **おうが** (Apr 16, 2026 01:10am): 戦争だ
 - **たいち** (Apr 18, 2026 12:00pm): だなｗ
+- **天才くん** (Apr 19, 2026 10:29pm): きのこオー
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 19, 2026 04:04pm
+- **Updated At (UTC):** Apr 19, 2026 10:32pm
 
 ---
 
@@ -293,7 +294,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777225019&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tyjKUAtOotRuqN6DNc5fI2hvXizbxtswyn1%2B1Tzw8Rk8RajWXKcGlg%2FklCv9AwTAneKlX5tb6i5gyKPaf%2FiBtaOQfFV9qN7VeMZVrueeN4OC1IiPNtlArmxm9Of06g15QkMZTyIlmdoMM0znA3J%2FBFwxauisFNgTY1oegUsL%2FI8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777243036&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ul5kunl2ono3IpLp6OKOMIOo8TxRTWcgRUTAKYXJED3%2Fz166dmsxNZqha0JYvwgbCojZh5mhuImucJp2EKdg5N5VdlND7%2BhoclZPXKhM7sGLGt7bCbw6iQOsdkiOEqH%2BWWjxJIt%2FV6n2tdFO6iJy%2FtTOGwKvvmew%2BQ8Qq5pGd68%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
