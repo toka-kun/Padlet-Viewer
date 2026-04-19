@@ -1,4 +1,4 @@
-最終更新: 2026/04/19 19:40:16
+最終更新: 2026/04/19 22:04:37
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 154
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 19, 2026 09:55am
+- **Updated At (UTC):** Apr 19, 2026 12:33pm
 
 ## 管理者　連絡
 
@@ -200,9 +200,9 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 70 votes
-- **たけのこの里:** 57 votes
-- **ドウデモイイ:** 11 votes
+- **きのこの山:** 72 votes
+- **たけのこの里:** 58 votes
+- **ドウデモイイ:** 12 votes
 
 #### Comments (20)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
@@ -228,7 +228,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 19, 2026 10:36am
+- **Updated At (UTC):** Apr 19, 2026 12:37pm
 
 ---
 
@@ -293,7 +293,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777200014&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LTmm3%2BKSwXCyTZBikzz7xmGtz3%2BTdqq4vQ%2BqCDaVNtfhROOKJYwaU1XDMEmCqP4vecupD3h%2FpE74KQ5p4CRSMMa8fq2nt1QfbV34zFDoBtJMBFs9sswV0maKlk6MXOJ2hSB6pnoyoxGRbWVpJJxZ1Hu7SnV7ASNvHoUGkLNoJkQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777208674&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Sc2EeZRKteXrqWBEYCRbGAWF%2BO6alI5NdcchF04OyG8LnLju1%2BN%2B%2FXevk7Ym%2F5zNIKg8ZWrY8KkUEP9cTjN1uLA0w4O7Jxz6tpRh%2BmF3cmLXaLtVAP0EgA%2FfnBfu8mLKZRyW2dSuX%2Fm2hfMYmcQLuzCsDprkdTtp4eU5cyeaSVc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -1370,7 +1370,7 @@
 
 <p>1位目指すの頑張って</p>
 
-#### Comments (8)
+#### Comments (9)
 - **たいち** (Apr 13, 2026 10:34pm): え、マジで？スゴ
 - **おうが** (Apr 14, 2026 04:30am): 多分だよw
 - **フェットチーネしか勝たん** (Apr 15, 2026 05:30am): 逆に1位のパドレットなんだよ
@@ -1379,6 +1379,7 @@
 - **たいち** (Apr 16, 2026 08:28am): これやばい
 - **フェットチーネしか勝たん** (Apr 17, 2026 12:23am): これアラート発生する
 - **こnにちは** (Apr 19, 2026 05:16am): https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtmこれもエグい
+- **フェットチーネしか勝たん** (Apr 19, 2026 12:33pm): 規制突破の世界項目多くてどれにいいのあるのか分からん
 
 #### Additional Information
 - **Created At (UTC):** Apr 13, 2026 12:50pm
