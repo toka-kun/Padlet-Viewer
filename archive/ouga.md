@@ -1,4 +1,4 @@
-最終更新: 2026/04/19 22:04:37
+最終更新: 2026/04/20 02:37:02
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 154
+- **Posts:** 155
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 19, 2026 12:33pm
+- **Updated At (UTC):** Apr 19, 2026 04:54pm
 
 ## 管理者　連絡
 
@@ -201,7 +201,7 @@
 
 **どっち派？:**
 - **きのこの山:** 72 votes
-- **たけのこの里:** 58 votes
+- **たけのこの里:** 59 votes
 - **ドウデモイイ:** 12 votes
 
 #### Comments (20)
@@ -228,7 +228,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 19, 2026 12:37pm
+- **Updated At (UTC):** Apr 19, 2026 04:04pm
 
 ---
 
@@ -293,7 +293,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777208674&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Sc2EeZRKteXrqWBEYCRbGAWF%2BO6alI5NdcchF04OyG8LnLju1%2BN%2B%2FXevk7Ym%2F5zNIKg8ZWrY8KkUEP9cTjN1uLA0w4O7Jxz6tpRh%2BmF3cmLXaLtVAP0EgA%2FfnBfu8mLKZRyW2dSuX%2Fm2hfMYmcQLuzCsDprkdTtp4eU5cyeaSVc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777225019&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tyjKUAtOotRuqN6DNc5fI2hvXizbxtswyn1%2B1Tzw8Rk8RajWXKcGlg%2FklCv9AwTAneKlX5tb6i5gyKPaf%2FiBtaOQfFV9qN7VeMZVrueeN4OC1IiPNtlArmxm9Of06g15QkMZTyIlmdoMM0znA3J%2FBFwxauisFNgTY1oegUsL%2FI8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -3620,7 +3620,24 @@
 
 ## プロキシ
 
-### 1. Post 1
+### 1. 使いもんならんが
+**Author:** Kick (daikisabu1225)
+
+<p><a rel="noopener noreferrer nofollow" href="https://proxy-biwako.vercel.app/">https://proxy-biwako.vercel.app/</a>一応自作プロキシのデモ版多分アプデしないけどもしかしたら気が向いたらするかも。botブロッカー入ってるサイトほぼ入れないし、多分バグることもあるかもしれんけど許してちょ。まぁ生きてるプロキシ持ってない人が使ってくれ</p>
+
+[Attachment 1](https://proxy-biwako.vercel.app/)
+
+#### Reactions
+- **Average star rating:** 5.0
+- **Number of ratings:** 1
+
+#### Additional Information
+- **Created At (UTC):** Apr 19, 2026 04:54pm
+- **Updated At (UTC):** Apr 19, 2026 04:54pm
+
+---
+
+### 2. Post 2
 **Author:** やまにつつ (yamanitsutsu)
 
 [Attachment 1](https://www-q.nolife.uk/)
@@ -3635,7 +3652,7 @@
 
 ---
 
-### 2. これもよろしく
+### 3. これもよろしく
 **Author:** ky1732050808
 
 <p><a rel="noopener noreferrer nofollow" href="https://www-q.nolife.uk/">https://www-q.nolife.uk/</a></p>
@@ -3650,7 +3667,7 @@
 
 ---
 
-### 3. これマジでおすすめ
+### 4. これマジでおすすめ
 **Author:** ky1732050808
 
 [Attachment 1](https://www-reflect4.buachi.work)
@@ -3665,7 +3682,7 @@
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** おうが (18jt026)
 
 [Attachment 1](https://subscribe-vcsa.mrwheeler.uk/)
@@ -3683,7 +3700,7 @@
 
 ---
 
-### 5. ぷりーずみー2v2io
+### 6. ぷりーずみー2v2io
 **Author:** ワイ君
 
 <p>たのむッ</p>
@@ -3694,7 +3711,7 @@
 
 ---
 
-### 6. youtube見れるプロキシサイト教えて
+### 7. youtube見れるプロキシサイト教えて
 **Author:** フェットチーネしか勝つ
 
 #### Comments (1)
@@ -3706,7 +3723,7 @@
 
 ---
 
-### 7. 作ったよー
+### 8. 作ったよー
 **Author:** おうが (18jt026)
 
 #### Comments (14)
@@ -3731,7 +3748,7 @@
 
 ---
 
-### 8. Post 8
+### 9. Post 9
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://precalc.k22.su/)
@@ -3742,7 +3759,7 @@
 
 ---
 
-### 9. Post 9
+### 10. Post 10
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://sharethisshadow.easterndns.com/)
