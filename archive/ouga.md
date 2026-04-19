@@ -1,4 +1,4 @@
-最終更新: 2026/04/19 14:30:48
+最終更新: 2026/04/19 19:40:16
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 153
+- **Posts:** 154
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 19, 2026 05:18am
+- **Updated At (UTC):** Apr 19, 2026 09:55am
 
 ## 管理者　連絡
 
@@ -200,8 +200,8 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 69 votes
-- **たけのこの里:** 56 votes
+- **きのこの山:** 70 votes
+- **たけのこの里:** 57 votes
 - **ドウデモイイ:** 11 votes
 
 #### Comments (20)
@@ -228,7 +228,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 19, 2026 05:14am
+- **Updated At (UTC):** Apr 19, 2026 10:36am
 
 ---
 
@@ -293,7 +293,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777181446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OHk60XIz%2Fmq84mXcHo71d4%2BtyiKhng%2B%2FAPOXGf%2BlrZRxuJ%2FInOFMaTYjkLYfzWWMNdz47LTEdaRUd%2B4cPQrTS%2BOsq6pkhVb04CMAfXDq4dD4cPDr1GwLoNslA%2Fjeo2CubUf8Dyo6lfrCSZw7tL17D%2Bs82G8cm7TPaKCg%2BGkQDXk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777200014&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LTmm3%2BKSwXCyTZBikzz7xmGtz3%2BTdqq4vQ%2BqCDaVNtfhROOKJYwaU1XDMEmCqP4vecupD3h%2FpE74KQ5p4CRSMMa8fq2nt1QfbV34zFDoBtJMBFs9sswV0maKlk6MXOJ2hSB6pnoyoxGRbWVpJJxZ1Hu7SnV7ASNvHoUGkLNoJkQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -3786,7 +3786,16 @@
 
 ---
 
-### 2. あいふぃるたー回避方法教えて。制限硬い
+### 2. スマホ親に奪われた
+**Author:** でんじろー先生愛してる❤️
+
+#### Additional Information
+- **Created At (UTC):** Apr 19, 2026 09:55am
+- **Updated At (UTC):** Apr 19, 2026 09:55am
+
+---
+
+### 3. あいふぃるたー回避方法教えて。制限硬い
 **Author:** るか (r0137776)
 
 #### Comments (11)

@@ -1,4 +1,4 @@
-最終更新: 2026/04/19 18:50:48
+最終更新: 2026/04/19 19:39:52
 
 # Padletポータルワールド
 
@@ -154,7 +154,7 @@
 ---
 
 ### 4. りおと国（公式）
-**Author:** 闇の大魔王ぬほさた (Nehosataa)
+**Author:** ぬほさた (Nehosataa)
 
 <p>常時人がいる</p><p>パドレット最大級の過密部屋</p><p>誰でも大歓迎！</p>
 
@@ -2740,7 +2740,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1777197047&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=flGT3JZLhzXwPvoRhe0McRPs7mfvakSPliNP%2Fx8yYWKLuxH6LStMrXOJZ0Ratyv%2FEkWopwYoAL19ZU7FBr3MkIsZRdmoyt8ZL5LypMezxYqJUfkSONJ%2F7FWGTeF%2FC61BhUFDBjnOZQ71XOzQoAMGnlQsgyHaYf2K18MYzmxauno%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1777199992&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QJop2MMMeckTS0V7K1SYebuiiixmKltYb3LrYshn0mkg10TnRGv5u5VJ%2B6NwVArx83Fu3P0b34eJMIJ3ZHLkBVVtcrOvCPBCMIOmFO1uoaIrPHe293hTRhVIr4A1OzLoXEOhIH67%2F0yiFQcgph0nGAE2NyS89LPnBL%2FC6L1XYjg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
