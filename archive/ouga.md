@@ -1,4 +1,4 @@
-最終更新: 2026/04/20 23:52:27
+最終更新: 2026/04/21 01:11:28
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 158
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 20, 2026 01:22pm
+- **Updated At (UTC):** Apr 20, 2026 03:23pm
 
 ## 管理者　連絡
 
@@ -294,7 +294,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777301544&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=a1Lu%2BM0oU0qEwnAheoYXt0Z8MQRpX40vNNNtX80%2B%2BgpDZ%2F6oyE51ELFEkJluZXk1D8fTsESLdTvzFEyBGSB%2BkD3IGAutTzU74xf4QarEaWCZVHFHe3SVLNagTlIfo2OPaqrJ3ejDJ9a8nBHjJ8wk6B4yLV6%2Baqe8KqCDb8TQ56o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777306285&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iqCuSbiOP3hzEsB4o%2BJvWW5N%2FQ6FdOaJKG4LMK70XnCfkmU7zXZhCQktSHwyhOjXZGMwynUljArC74uO4trH%2BVvysYmEgYefwe3VtSKs1B2WC8W1%2BO%2Fo%2FbywGPhe4jlU%2Fp8SEc77YYreZIZ7gf97LQclHbFgHrpDZV5RVmsj82I%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -3682,8 +3682,9 @@
 
 [Attachment 1](https://proxy-biwako.vercel.app/)
 
-#### Comments (1)
+#### Comments (2)
 - **たいち** (Apr 20, 2026 12:15pm): ぶろ
+- **Kick** (Apr 20, 2026 03:23pm): え？うそん不確定サイトっていうやつでですか？
 
 #### Reactions
 - **Average star rating:** 5.0
