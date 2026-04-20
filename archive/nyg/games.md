@@ -1,4 +1,4 @@
-最終更新: 2026/04/18 22:05:12
+最終更新: 2026/04/20 14:42:46
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
 - **Posts:** 17
 - **Created At (UTC):** Aug 27, 2024 11:14am
-- **Updated At (UTC):** Apr 18, 2026 12:45pm
+- **Updated At (UTC):** Apr 20, 2026 03:41am
 
 ## 概要
 
@@ -130,12 +130,13 @@
 ### 3. 部屋の消し方がわかりません
 **Author:** 削除済みユーザー
 
-#### Comments (5)
+#### Comments (6)
 - **うえけんぴ** (Sep 27, 2024 01:44am): ミートゥ
 - **Courteous Leopard** (Apr 26, 2025 12:09am): s４ね
 - **蘊蓄** (May 20, 2025 03:09pm): s4ね
 - **削除済みユーザー** (Jun 28, 2025 07:46am): これは、まじでわからない
 - **匿名** (Sep 29, 2025 12:01pm): s4ねってどういうこと
+- **もや** (Apr 20, 2026 03:25am): https://www.youtube.com/?app=desktop&hl=ja
 
 #### Additional Information
 - **Post color:** White
@@ -291,7 +292,7 @@
 ![https://uploads.scratch.mit.edu/projects/thumbnails/1045090037.png](https://uploads.scratch.mit.edu/projects/thumbnails/1045090037.png)
 
 #### Reactions
-- **Number of likes:** 2
+- **Number of likes:** 3
 
 #### Additional Information
 - **Post color:** Red
