@@ -1,4 +1,4 @@
-最終更新: 2026/04/21 22:44:04
+最終更新: 2026/04/22 08:36:24
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 158
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 21, 2026 01:03pm
+- **Updated At (UTC):** Apr 21, 2026 11:36pm
 
 ## 管理者　連絡
 
@@ -202,7 +202,7 @@
 **どっち派？:**
 - **きのこの山:** 80 votes
 - **たけのこの里:** 71 votes
-- **ドウデモイイ:** 14 votes
+- **ドウデモイイ:** 15 votes
 
 #### Comments (21)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
@@ -229,7 +229,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 21, 2026 12:32pm
+- **Updated At (UTC):** Apr 21, 2026 02:11pm
 
 ---
 
@@ -294,7 +294,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777383841&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EhHQMl45L8nWhf5fBkxEpWf1dxYvgrcPAmXZzFRWiOBjleDU4iDhRShWprZa7M6t0Wp9N2COGV4EbPoXuerbtO00jLtAMbuhro37VOLsO2ZCq%2BTM8AFTrHSJIchz5KOR7iwMKnxnZgwTltehodlG4kqq9%2FZ2Fct34vyhnlXeloc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777419381&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=b4JOOdtPy9wpVc9hg6xxapK5GC0UgJY2fpEDdmy0EXCcPCZdtxo3XzCie3foCkonHvEoJTMBkiVEEWS9Z3swjXl5RKqOaI7VX4ySydKG1CGaXGBwUjhwdko82fY0sDdLOWvx90VdBJ4hUG69j7m5uaC4HqMwyH%2Fpcl3iN2PzfNQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -3265,11 +3265,12 @@
 
 <p>しあとかわかめできない</p><p><br/></p>
 
-#### Comments (4)
+#### Comments (5)
 - **たいち** (Apr 20, 2026 12:16pm): まじか
 - **天才くん** (Apr 20, 2026 11:24pm): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/Xb8YaLp1yxKEayn1) 全部無理だ
 - **天才くん** (Apr 21, 2026 03:48am): 誰か教えてください😭
 - **フェットチーネしか勝たん** (Apr 21, 2026 05:20am): 何を教えればいいの？
+- **天才くん** (Apr 21, 2026 11:36pm): 見れるやつ(YouTube)
 
 #### Additional Information
 - **Created At (UTC):** Apr 20, 2026 01:12am
