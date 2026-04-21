@@ -1,4 +1,4 @@
-最終更新: 2026/04/21 20:08:18
+最終更新: 2026/04/21 22:44:04
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 158
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 21, 2026 09:41am
+- **Updated At (UTC):** Apr 21, 2026 01:03pm
 
 ## 管理者　連絡
 
@@ -201,7 +201,7 @@
 
 **どっち派？:**
 - **きのこの山:** 80 votes
-- **たけのこの里:** 70 votes
+- **たけのこの里:** 71 votes
 - **ドウデモイイ:** 14 votes
 
 #### Comments (21)
@@ -229,7 +229,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 21, 2026 11:04am
+- **Updated At (UTC):** Apr 21, 2026 12:32pm
 
 ---
 
@@ -294,7 +294,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777374495&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NR7d9HYf3vH30gEdjQfmNKus8otxkeAoTGbcvoBkTswSITela4Tjvc%2B8rZfNwMBtptGmkp7Aps%2FCv1JJZLqWIR%2FX7FZGoGgXNw%2FQvAtBkP46e0XnAln1EFDW575yAxh1psWmPRDlwYj0wYxWEtsTnjlkucBwq2o04Ltq2oWXA3k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777383841&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EhHQMl45L8nWhf5fBkxEpWf1dxYvgrcPAmXZzFRWiOBjleDU4iDhRShWprZa7M6t0Wp9N2COGV4EbPoXuerbtO00jLtAMbuhro37VOLsO2ZCq%2BTM8AFTrHSJIchz5KOR7iwMKnxnZgwTltehodlG4kqq9%2FZ2Fct34vyhnlXeloc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -1369,7 +1369,7 @@
 ### 1. ヨモギ　正体明かして
 **Author:** たいち (r0300353)
 
-#### Comments (7)
+#### Comments (9)
 - **たいち** (Apr 20, 2026 08:45am): 他の人は気にしないで
 - **フェットチーネしか勝たん** (Apr 20, 2026 11:06am): コメント消したら？
 - **フェットチーネしか勝たん** (Apr 20, 2026 11:06am): ヨモギ　人の個人情報をばらすのはよくないよ
@@ -1377,6 +1377,8 @@
 - **フェットチーネしか勝たん** (Apr 20, 2026 01:19pm): 同じ学校の人じゃない？
 - **フェットチーネしか勝たん** (Apr 20, 2026 01:22pm): コメント消した？
 - **たいち** (Apr 21, 2026 05:24am): 消した
+- **フェットチーネしか勝たん** (Apr 21, 2026 12:59pm): ナイス
+- **フェットチーネしか勝たん** (Apr 21, 2026 12:59pm): 多分同じ学校でたいちさんがパドレットをやっていることを知っている人だよ
 
 #### Additional Information
 - **Created At (UTC):** Apr 20, 2026 08:30am
@@ -3246,10 +3248,11 @@
 
 <p>俺のカスタムエンドポイント、「コメント見る、プレイリスト見れない、検索できない、ホームにお勧めが表示されない」から</p>
 
-#### Comments (3)
+#### Comments (4)
 - **フェットチーネしか勝たん** (Apr 20, 2026 01:16pm): 最低限コメントは見れて検索もできる奴がいい
 - **たいち** (Apr 21, 2026 09:08am): https://script.google.com/a/macros/ict.adachi.ed.jp/s/AKfycbwXUecx509B1FovfhiYmS8f80-0unvzd9pt8eh4i76NOuxPKUmGgj3LUuaYiWMRDLps/exec
 - **たいち** (Apr 21, 2026 09:08am): できなかったらごめん
+- **フェットチーネしか勝たん** (Apr 21, 2026 01:03pm): できなかったわ　多分ユーザーを自分の身にしてたらできない
 
 #### Additional Information
 - **Created At (UTC):** Apr 20, 2026 11:09am
