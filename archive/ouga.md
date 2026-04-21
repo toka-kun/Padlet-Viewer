@@ -1,4 +1,4 @@
-最終更新: 2026/04/21 14:28:52
+最終更新: 2026/04/21 18:28:32
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 158
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 21, 2026 05:24am
+- **Updated At (UTC):** Apr 21, 2026 09:08am
 
 ## 管理者　連絡
 
@@ -294,7 +294,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777354129&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UEOZ5VEM5Bnejd7zaIdjtRtJw28EzrBCItqXKWV1%2BviyNiLBvfaopzv5r24oleTIb6382fND7vsTlWhU0FhV%2BfqDmWqa072WEwhJWN%2BzukbHv%2BSO00qwATLBQy8P035FgR0N2CRVtZX5yAUNl4iTA%2F0xmwJufeWEJpn0SoZmoYQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777368509&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RDUjkBnrSlRSrUt%2F0bhYQpQY%2Fcdq0pRwYp4vWv%2FWhjBx8AoKr%2BVC5QLFYbaPnHlOmgGAbArpW4eMkpf5WLqD14%2BhzRs9UzFKFc%2FNPQ6bQhZuggn9Y7uWAUUvzLSSG%2FRTMXq9eoqADHFNvFdmq7kQI1eEKgZkZULBRiW6TAcF7Fs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -1453,7 +1453,7 @@
 - **フェットチーネ:** 7 votes
 - **忍者飯:** 12 votes
 - **ピュレグミ:** 8 votes
-- **それ以外:** 5 votes
+- **それ以外:** 6 votes
 
 <p>やっぱりこの3つのグミが３冠だよな　　　　（個人の感想です）</p>
 
@@ -1469,7 +1469,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Apr 07, 2026 11:14pm
-- **Updated At (UTC):** Apr 21, 2026 02:29am
+- **Updated At (UTC):** Apr 21, 2026 08:58am
 
 ---
 
@@ -1547,7 +1547,7 @@
 ---
 
 ### 10. だんだんと閲覧数とか増えてきたね
-**Author:** 渡部康明 (nekosaikyoukami)
+**Author:** nekoちゃんぬ総長サブ垢 (nekosaikyoukami)
 
 #### Comments (1)
 - **おうが** (Mar 22, 2026 11:08am): うん！頑張る
@@ -3246,8 +3246,10 @@
 
 <p>俺のカスタムエンドポイント、「コメント見る、プレイリスト見れない、検索できない、ホームにお勧めが表示されない」から</p>
 
-#### Comments (1)
+#### Comments (3)
 - **フェットチーネしか勝たん** (Apr 20, 2026 01:16pm): 最低限コメントは見れて検索もできる奴がいい
+- **たいち** (Apr 21, 2026 09:08am): https://script.google.com/a/macros/ict.adachi.ed.jp/s/AKfycbwXUecx509B1FovfhiYmS8f80-0unvzd9pt8eh4i76NOuxPKUmGgj3LUuaYiWMRDLps/exec
+- **たいち** (Apr 21, 2026 09:08am): できなかったらごめん
 
 #### Additional Information
 - **Created At (UTC):** Apr 20, 2026 11:09am
@@ -3907,10 +3909,11 @@
 ### 1. ブロスタしてる子いますか
 **Author:** アメリカ税務署管理者
 
-#### Comments (3)
+#### Comments (4)
 - **ハネノキ** (Apr 17, 2026 12:31pm): 僕してます
 - **こnにちは** (Apr 19, 2026 05:19am): ぼく1日でエリート
 - **フェットチーネしか勝たん** (Apr 20, 2026 11:14am): ブロスタってどんなゲーム？　名前は聞いたことある
+- **ハジメマシテヨコタデス** (Apr 21, 2026 07:59am): 自分初心者ですけどやってます
 
 #### Additional Information
 - **Created At (UTC):** Apr 17, 2026 01:10am
