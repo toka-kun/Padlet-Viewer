@@ -1,4 +1,4 @@
-最終更新: 2026/04/21 18:28:32
+最終更新: 2026/04/21 20:08:18
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 158
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 21, 2026 09:08am
+- **Updated At (UTC):** Apr 21, 2026 09:41am
 
 ## 管理者　連絡
 
@@ -201,8 +201,8 @@
 
 **どっち派？:**
 - **きのこの山:** 80 votes
-- **たけのこの里:** 69 votes
-- **ドウデモイイ:** 13 votes
+- **たけのこの里:** 70 votes
+- **ドウデモイイ:** 14 votes
 
 #### Comments (21)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
@@ -229,7 +229,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 21, 2026 02:27am
+- **Updated At (UTC):** Apr 21, 2026 11:04am
 
 ---
 
@@ -294,7 +294,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777368509&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RDUjkBnrSlRSrUt%2F0bhYQpQY%2Fcdq0pRwYp4vWv%2FWhjBx8AoKr%2BVC5QLFYbaPnHlOmgGAbArpW4eMkpf5WLqD14%2BhzRs9UzFKFc%2FNPQ6bQhZuggn9Y7uWAUUvzLSSG%2FRTMXq9eoqADHFNvFdmq7kQI1eEKgZkZULBRiW6TAcF7Fs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777374495&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NR7d9HYf3vH30gEdjQfmNKus8otxkeAoTGbcvoBkTswSITela4Tjvc%2B8rZfNwMBtptGmkp7Aps%2FCv1JJZLqWIR%2FX7FZGoGgXNw%2FQvAtBkP46e0XnAln1EFDW575yAxh1psWmPRDlwYj0wYxWEtsTnjlkucBwq2o04Ltq2oWXA3k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -3924,7 +3924,7 @@
 ### 2. してる子話そ
 **Author:** おうが (18jt026)
 
-#### Comments (78)
+#### Comments (79)
 - **かっっぱ** (Feb 19, 2026 04:46am): ブロフルってなんですか？
 - **おうが** (Feb 19, 2026 06:03am): ロブロックス　ブロフルって調べてみてやってみて
 - **玲吏** (Feb 19, 2026 07:59am): やってますよ
@@ -4003,6 +4003,7 @@
 - **おうが** (Apr 08, 2026 11:50pm): 全然今でも使える装備
 - **やあみんな** (Apr 09, 2026 06:17am): いや最近の友達まじでやばいほんの５日くらいでミシカルフールつ全部そろってる
 - **おうが** (Apr 09, 2026 11:25pm): ガチャ引きすぎww
+- **4649desu** (Apr 21, 2026 09:41am): エメラルドすくない
 
 #### Additional Information
 - **Created At (UTC):** Feb 18, 2026 03:14am
