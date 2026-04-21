@@ -1,4 +1,4 @@
-最終更新: 2026/04/21 08:43:38
+最終更新: 2026/04/21 11:42:36
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 158
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 20, 2026 11:24pm
+- **Updated At (UTC):** Apr 21, 2026 01:55am
 
 ## 管理者　連絡
 
@@ -200,9 +200,9 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 78 votes
-- **たけのこの里:** 68 votes
-- **ドウデモイイ:** 12 votes
+- **きのこの山:** 80 votes
+- **たけのこの里:** 69 votes
+- **ドウデモイイ:** 13 votes
 
 #### Comments (21)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
@@ -229,7 +229,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 20, 2026 02:12pm
+- **Updated At (UTC):** Apr 21, 2026 02:27am
 
 ---
 
@@ -294,7 +294,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777333415&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SBi%2FX%2Fn0zMrABAyDFRgBbnFgNavGeve2wDWtM688EqCK8UaSNAy%2Bu%2FxjYXSLOViuKmbqyPhAF0K%2FBmqqxEiT6y1f%2FS6hoGjQ%2BWp%2Fph%2FKDFtfnIJBHmOouCO1%2B3o23tO%2BLMCSNuMrLET%2Bg2hZhJszMkkQHKDjokY%2B7I3ijMdAEvk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777344154&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Dl60eczAWgKy1%2FHjch80KHMjc72%2FLgN0QBuJadg3kXps8rMJ4XeEHc9eAXlhsf7ws6Br50CSAfUxvGenGD%2FKtJFlZmSrzZ440MYGQlqMvypOfMUbDiiVEiX2%2FEaBkG9SPAOlh5HW4r9CEdVBqZL78z%2Fn6TngKudh6Ygyc7iufjU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -1450,7 +1450,7 @@
 
 **何のグミ好き:**
 - **フェットチーネ:** 7 votes
-- **忍者飯:** 11 votes
+- **忍者飯:** 12 votes
 - **ピュレグミ:** 8 votes
 - **それ以外:** 5 votes
 
@@ -1468,7 +1468,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Apr 07, 2026 11:14pm
-- **Updated At (UTC):** Apr 20, 2026 03:08am
+- **Updated At (UTC):** Apr 21, 2026 02:29am
 
 ---
 
@@ -1546,7 +1546,7 @@
 ---
 
 ### 10. だんだんと閲覧数とか増えてきたね
-**Author:** 今は学校にバレそうなので名前を変えています、ちゃんぬサブ垢 (nekosaikyoukami)
+**Author:** 渡部康明 (nekosaikyoukami)
 
 #### Comments (1)
 - **おうが** (Mar 22, 2026 11:08am): うん！頑張る
@@ -2816,7 +2816,7 @@
 ---
 
 ### 30. ろぶろっくすほしい
-**Author:** 本庄克章 (YAJUAU)
+**Author:** ちんすこう (YAJUAU)
 
 #### Comments (7)
 - **おうが** (Mar 12, 2026 08:16am): ろぶろはないね
@@ -3285,7 +3285,7 @@
 ### 4. まっつー
 **Author:** みっきー
 
-#### Comments (11)
+#### Comments (13)
 - **まっつー** (Apr 16, 2026 05:15am): なに
 - **みっきー** (Apr 16, 2026 05:15am): コンチくわー 
 - **みっきー** (Apr 16, 2026 05:16am): 😀
@@ -3297,6 +3297,8 @@
 - **ふじこ** (Apr 17, 2026 10:53pm): 修正チャットサイトhttps://messageapp-1-fupo.onrender.com/
 - **ふじこ** (Apr 17, 2026 10:55pm): 合言葉は、アイフィルターなんて怖くない　です 
 - **みっきー** (Apr 19, 2026 11:29pm): 他のない？
+- **みっきー** (Apr 21, 2026 01:51am): おもろいねー
+- **みっきー** (Apr 21, 2026 01:55am): ゲームをしている 
 
 #### Additional Information
 - **Created At (UTC):** Apr 16, 2026 05:14am
