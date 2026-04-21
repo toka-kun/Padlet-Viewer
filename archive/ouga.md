@@ -1,4 +1,4 @@
-最終更新: 2026/04/21 11:42:36
+最終更新: 2026/04/21 14:28:52
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 158
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 21, 2026 01:55am
+- **Updated At (UTC):** Apr 21, 2026 05:24am
 
 ## 管理者　連絡
 
@@ -294,7 +294,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777344154&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Dl60eczAWgKy1%2FHjch80KHMjc72%2FLgN0QBuJadg3kXps8rMJ4XeEHc9eAXlhsf7ws6Br50CSAfUxvGenGD%2FKtJFlZmSrzZ440MYGQlqMvypOfMUbDiiVEiX2%2FEaBkG9SPAOlh5HW4r9CEdVBqZL78z%2Fn6TngKudh6Ygyc7iufjU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777354129&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UEOZ5VEM5Bnejd7zaIdjtRtJw28EzrBCItqXKWV1%2BviyNiLBvfaopzv5r24oleTIb6382fND7vsTlWhU0FhV%2BfqDmWqa072WEwhJWN%2BzukbHv%2BSO00qwATLBQy8P035FgR0N2CRVtZX5yAUNl4iTA%2F0xmwJufeWEJpn0SoZmoYQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -1369,13 +1369,14 @@
 ### 1. ヨモギ　正体明かして
 **Author:** たいち (r0300353)
 
-#### Comments (6)
+#### Comments (7)
 - **たいち** (Apr 20, 2026 08:45am): 他の人は気にしないで
 - **フェットチーネしか勝たん** (Apr 20, 2026 11:06am): コメント消したら？
 - **フェットチーネしか勝たん** (Apr 20, 2026 11:06am): ヨモギ　人の個人情報をばらすのはよくないよ
 - **たいち** (Apr 20, 2026 12:08pm): 多分知ってる人
 - **フェットチーネしか勝たん** (Apr 20, 2026 01:19pm): 同じ学校の人じゃない？
 - **フェットチーネしか勝たん** (Apr 20, 2026 01:22pm): コメント消した？
+- **たいち** (Apr 21, 2026 05:24am): 消した
 
 #### Additional Information
 - **Created At (UTC):** Apr 20, 2026 08:30am
@@ -3259,9 +3260,11 @@
 
 <p>しあとかわかめできない</p><p><br/></p>
 
-#### Comments (2)
+#### Comments (4)
 - **たいち** (Apr 20, 2026 12:16pm): まじか
 - **天才くん** (Apr 20, 2026 11:24pm): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/Xb8YaLp1yxKEayn1) 全部無理だ
+- **天才くん** (Apr 21, 2026 03:48am): 誰か教えてください😭
+- **フェットチーネしか勝たん** (Apr 21, 2026 05:20am): 何を教えればいいの？
 
 #### Additional Information
 - **Created At (UTC):** Apr 20, 2026 01:12am
