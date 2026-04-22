@@ -1,4 +1,4 @@
-最終更新: 2026/04/22 18:21:59
+最終更新: 2026/04/22 20:06:48
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 125
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Apr 22, 2026 07:23am
+- **Updated At (UTC):** Apr 22, 2026 10:25am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -240,8 +240,9 @@
 
 [Attachment 1](https://padlet.com/padlets/to1axhj7apxswph4)
 
-#### Comments (1)
+#### Comments (2)
 - **😅** (Apr 22, 2026 07:23am): [Attachment](https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd/wish/4b3zaMpMP0GkW2j7) おすすめです
+- **クソババア二期** (Apr 22, 2026 10:25am): daisuke。
 
 #### Additional Information
 - **Post color:** White
@@ -2813,7 +2814,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1777454519&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4u9uhErGICcx7eDiw9599T0AkThbXYOlDILCYwdMqJ%2BmklAm2UA2ks5ziAKvSrFzYbfSIJGKuJCaSJEG5DRi4b%2FE%2B65cIo4CPYH5L1P%2F8%2FG%2BaG3i4zIR4ohlo3wgdGNNYWxGO3glSOR40zRN1B2xfWD8cKCZKCptCBWuEoOJ6e0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1777460808&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cuX3sNF0pZy%2BeXUBf6%2FIQdwuEKrv0UPUf0a84fP7slCswzvwMlIjRVLJX3Httoybxjp3X8TpMoCGJ1NnwAoHzPf9qQdleQSvhgp81%2BYFNuMQPaZB6QJZZ4JP5NS%2F2ll3b86UkzaeBVydkCoMVsFWAZ45J5%2BFjvdK3qgU6krJOCA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて

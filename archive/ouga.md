@@ -1,4 +1,4 @@
-最終更新: 2026/04/22 18:22:30
+最終更新: 2026/04/22 20:07:34
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 159
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 22, 2026 08:24am
+- **Updated At (UTC):** Apr 22, 2026 11:02am
 
 ## 管理者　連絡
 
@@ -201,8 +201,8 @@
 
 **どっち派？:**
 - **きのこの山:** 80 votes
-- **たけのこの里:** 73 votes
-- **ドウデモイイ:** 16 votes
+- **たけのこの里:** 74 votes
+- **ドウデモイイ:** 18 votes
 
 #### Comments (21)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
@@ -229,7 +229,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 22, 2026 09:04am
+- **Updated At (UTC):** Apr 22, 2026 11:05am
 
 ---
 
@@ -294,7 +294,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777454547&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZK2QAULiBamkzslQAVRd%2BGcEcTbf50weTt8MWkVnqCMva7YeL71xYh5dPXD%2Bun%2Bu%2Fa0Bj%2FUEZNiaBVKMh4F0iwhI74q5M0t7AsoZlDlNE5Jfh4CEhriPB3ag79BbwORtm000QdexuGKrsp7GfexBEFBNvbD1OhyfI44T%2FkmkzrI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777460851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LEwcPy%2BO8rDtkqc8ZQOABtuCsu%2FRj384%2F3BJ8qsvDi5neyubm4%2FK2qU1yGteYd4DjsM0cLNXntija4rZrSv%2Bx4stv6bdiLHW8vBM1NwspzhvmTzDeQiZEfL5pE7wQfqAremH3yp7%2BkZo%2FSQCgXT%2BVtYuKhTxBMVeva%2BuuwNKwqc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -1369,14 +1369,17 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777454548&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wBQKTInrQcN4Y8kvdEXI9OfVuUnbbRbxulnCADlaBXcQ1dWxJhGjcCBCbohjwOG9xVEzX6FmG0fbKjGfXWZz%2BggaM8%2BKUiEbxhO1Qors1zilbsFDORZhoPsK%2B1MMBiHVifaE%2FPm44zOJsKD7lXG2muZZg5Fhfssc2AVg8NF1E9I%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777460852&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FeQmJGleRXMXQ7MUgyY23iXoQN0gUnEnakeTWSgn5v0iA5P08W93XHU3Zd%2FSB6SmIIBHmkSFKGJwFkjXGdk824EzBr4OtP5Kg9daRIM%2F%2Fkig%2FqTE%2FdoVX2twZ9ZCADq3PhikkFjYavPNzh6bEkSh4tIm0oiDITTpo6omknJt8VM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
-#### Comments (5)
+#### Comments (8)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
 - **たいち** (Apr 22, 2026 06:33am): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/yEPVZkonvzA1Zb0Y) 
 - **たいち** (Apr 22, 2026 06:34am): それか伊黒
 - **たいち** (Apr 22, 2026 06:35am): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/yEPVZkonvzA1Zb0Y) 
 - **ヨアケミ** (Apr 22, 2026 08:19am): Mr.Rengoku!
+- **こnにちは** (Apr 22, 2026 10:20am): 宇髄(イケメンだから
+- **こnにちは** (Apr 22, 2026 10:20am): あと無一郎
+- **フェットチーネしか勝たん** (Apr 22, 2026 11:02am): 無一郎かな　静かでかっこいい
 
 #### Additional Information
 - **Created At (UTC):** Apr 22, 2026 06:30am
@@ -2581,9 +2584,10 @@
 
 [Attachment 1](https://sites.google.com/view/prohomework2z/dictionary)
 
-#### Comments (2)
+#### Comments (3)
 - **XminionQWQ** (Apr 03, 2026 02:02am): これにはiフィルター民もびっくり！
 - **こやまさん** (Apr 15, 2026 05:30am): 神やん
+- **Sleepy seal** (Apr 22, 2026 09:34am): なんか教育委員会のせいで404
 
 #### Additional Information
 - **Created At (UTC):** Apr 03, 2026 01:56am
