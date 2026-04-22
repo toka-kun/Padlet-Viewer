@@ -1,4 +1,4 @@
-最終更新: 2026/04/22 14:26:53
+最終更新: 2026/04/22 16:49:45
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 125
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Apr 21, 2026 10:59am
+- **Updated At (UTC):** Apr 22, 2026 07:23am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -180,7 +180,7 @@
 ---
 
 ### 5. プロキシの塊
-**Author:** プロキシ配布するかも (h3919053_1)
+**Author:** おはようはよう (h3919053_1)
 
 <p>雑談もできるしプロキシもあるよ！</p>
 
@@ -202,7 +202,7 @@
 ---
 
 ### 6. るるるの雑談部屋
-**Author:** ぴよたん💗 (barukokukyouwakoku)
+**Author:** るるる　バルコク共和国の大統領 (barukokukyouwakoku)
 
 <p>仮面ライダー部屋であり、みんなでおすすめの曲などを出し合ったり、絵を描いたりなど、幅広いジャンルで雑談をしています</p>
 
@@ -239,6 +239,9 @@
 **モデレーター数:** 1~4
 
 [Attachment 1](https://padlet.com/padlets/to1axhj7apxswph4)
+
+#### Comments (1)
+- **😅** (Apr 22, 2026 07:23am): [Attachment](https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd/wish/4b3zaMpMP0GkW2j7) おすすめです
 
 #### Additional Information
 - **Post color:** White
@@ -382,7 +385,7 @@
 ---
 
 ### 14. 部屋の塊
-**Author:** プロキシ配布するかも (h3919053_1)
+**Author:** おはようはよう (h3919053_1)
 
 <p>どんどん宣伝していけ！</p>
 
@@ -404,7 +407,7 @@
 ---
 
 ### 15. プロキシの塊
-**Author:** プロキシ配布するかも (h3919053_1)
+**Author:** おはようはよう (h3919053_1)
 
 <p>プロキシも雑談もある</p>
 
@@ -1199,7 +1202,7 @@
 ---
 
 ### 49. るるるの雑談部屋！
-**Author:** ぴよたん💗 (barukokukyouwakoku)
+**Author:** るるる　バルコク共和国の大統領 (barukokukyouwakoku)
 
 <p>宣伝自由にしていってね。</p><p>フォロパも受け付けてるよ！</p><p><br/></p>
 
@@ -2810,7 +2813,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1777440413&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BQ5OvQcNeEkNcwILlQDypVQdKOG%2B5GARI9t8BUEypoCnZ3z7qI%2BCSSUJDAHPS9JRMW1MKsYuGZ6t53P6cjPnhuKlXF7o6D%2FIQ1ThbGs6jD6mMfAzjg17Om0A87Rn%2Bj9MKcQuWKGkpPXbRuA8Aa2kQDbxYAzrLolVuYsC%2BbfWypI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1777448985&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cjJKy8o7xh4zrJO4uuB06nbMNYJuzbK0SdC3BicJebYjsA5l8H%2FY25TAnrjy9DcHIpat2e0gr7SH2ICvvxkDFHtBX0X4NGd39R6x8jQmonx3OTGs82koxfXlWHGsyv1ydV%2B3nAeOM25YNnQDA8Ssu8aEV3ii6dzMFHbWY2pYjl4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
