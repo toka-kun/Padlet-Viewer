@@ -1,4 +1,4 @@
-最終更新: 2026/04/22 16:50:28
+最終更新: 2026/04/22 18:22:30
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 159
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 22, 2026 06:34am
+- **Updated At (UTC):** Apr 22, 2026 08:24am
 
 ## 管理者　連絡
 
@@ -202,7 +202,7 @@
 **どっち派？:**
 - **きのこの山:** 80 votes
 - **たけのこの里:** 73 votes
-- **ドウデモイイ:** 15 votes
+- **ドウデモイイ:** 16 votes
 
 #### Comments (21)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
@@ -229,7 +229,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 22, 2026 02:47am
+- **Updated At (UTC):** Apr 22, 2026 09:04am
 
 ---
 
@@ -294,7 +294,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777449025&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=589UhEN4X2viE2wQ%2FV%2BGk2nd%2Fc79uT06amgqKxHD6OBvBw4Uhllnq9liHZypRpjuYYuxRw4Zte8flNhFzglse0Xoi0UAjn0FBxr1f2zyGpB6pf71%2BOtLrUSEMa4Y8Mn2dE1OEDxIrt4jrilPPn8WcjVXes1bIeVKcAboqUu%2F8Hk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777454547&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZK2QAULiBamkzslQAVRd%2BGcEcTbf50weTt8MWkVnqCMva7YeL71xYh5dPXD%2Bun%2Bu%2Fa0Bj%2FUEZNiaBVKMh4F0iwhI74q5M0t7AsoZlDlNE5Jfh4CEhriPB3ag79BbwORtm000QdexuGKrsp7GfexBEFBNvbD1OhyfI44T%2FkmkzrI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -1369,13 +1369,14 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777449026&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3Iyy37CJbu9U3%2B0ToPaoH4xhpsxNdfpBVv9tU%2Ff0wYJOoFPY59rgbfma%2B8xorZf7SK5vuW4XesSqZ0CmTWnby8isZ6LzgOBVNTStw1ZN4hCfZJvb9nXERtUOR3R5JLbHK2ttuMslOxq2CAJXfrA9EV1R93GoAEpkrydZ9R%2FG8Pc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777454548&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wBQKTInrQcN4Y8kvdEXI9OfVuUnbbRbxulnCADlaBXcQ1dWxJhGjcCBCbohjwOG9xVEzX6FmG0fbKjGfXWZz%2BggaM8%2BKUiEbxhO1Qors1zilbsFDORZhoPsK%2B1MMBiHVifaE%2FPm44zOJsKD7lXG2muZZg5Fhfssc2AVg8NF1E9I%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
-#### Comments (4)
+#### Comments (5)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
 - **たいち** (Apr 22, 2026 06:33am): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/yEPVZkonvzA1Zb0Y) 
 - **たいち** (Apr 22, 2026 06:34am): それか伊黒
 - **たいち** (Apr 22, 2026 06:35am): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/yEPVZkonvzA1Zb0Y) 
+- **ヨアケミ** (Apr 22, 2026 08:19am): Mr.Rengoku!
 
 #### Additional Information
 - **Created At (UTC):** Apr 22, 2026 06:30am
@@ -1450,7 +1451,7 @@
 
 <p>解決策求む</p>
 
-#### Comments (8)
+#### Comments (9)
 - **暇すぎ星人** (Apr 08, 2026 11:39am): 助けて😭
 - **フェットチーネしか勝たん** (Apr 09, 2026 12:00am): ない
 - **おうが** (Apr 09, 2026 12:01am): ガム食わせる
@@ -1459,6 +1460,7 @@
 - **忍者めししか勝たん** (Apr 10, 2026 02:58am): フェットチーネしか勝たん　　それな　先生に暴言はいてるやばいやつもいた
 - **Fortnite廃課金者** (Apr 10, 2026 04:08am): ワイヤレスイヤホンをしたら？
 - **フェットチーネしか勝たん** (Apr 11, 2026 03:24am): 忍者めししか勝たん　塾の行きや帰りに知らない人に「よっ」っと話しかけてるやばい奴もいたな
+- **白転** (Apr 22, 2026 08:22am): それ俺もやる
 
 #### Additional Information
 - **Created At (UTC):** Apr 08, 2026 11:39am
@@ -1473,7 +1475,7 @@
 - **フェットチーネ:** 7 votes
 - **忍者飯:** 12 votes
 - **ピュレグミ:** 8 votes
-- **それ以外:** 6 votes
+- **それ以外:** 7 votes
 
 <p>やっぱりこの3つのグミが３冠だよな　　　　（個人の感想です）</p>
 
@@ -1489,7 +1491,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Apr 07, 2026 11:14pm
-- **Updated At (UTC):** Apr 21, 2026 08:58am
+- **Updated At (UTC):** Apr 22, 2026 08:22am
 
 ---
 
@@ -1512,7 +1514,7 @@
 
 <p>おねがいしますm(__)m</p>
 
-#### Comments (8)
+#### Comments (9)
 - **XminionQWQ** (Mar 28, 2026 03:50am): 追記　しあtube自体は入れるけど、カスタムエンドポイントを作るサイトに入れない（ブロ）
 - **フェットチーネしか勝たん** (Mar 31, 2026 09:33pm): これでどう
 - **フェットチーネしか勝たん** (Mar 31, 2026 09:33pm): https://script.google.com/a/macros/chuo-tky.ed.jp/s/AKfycbyKYWHJTcHOpCwKM1TDINm7cGQqkE1Et8_DZJ5fG5RQZo5iSWd1FXL1sPa0WnARMPxs/exec
@@ -1521,6 +1523,7 @@
 - **フェットチーネしか勝たん** (Apr 07, 2026 10:58pm): 😄
 - **フェットチーネしか勝たん** (Apr 07, 2026 10:59pm): ちなみに俺ログインしてないからアイコン違うけど同じ人
 - **忍者めししか勝たん** (Apr 10, 2026 02:59am): へー
+- **白転** (Apr 22, 2026 08:24am): 学タブはログインしたら通知行くからログインはおすすめしないよー
 
 #### Additional Information
 - **Created At (UTC):** Mar 27, 2026 05:47am
