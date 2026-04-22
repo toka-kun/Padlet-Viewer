@@ -1,4 +1,4 @@
-最終更新: 2026/04/22 22:43:40
+最終更新: 2026/04/23 07:50:30
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 160
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 22, 2026 12:13pm
+- **Updated At (UTC):** Apr 22, 2026 10:13pm
 
 ## 管理者　連絡
 
@@ -202,7 +202,7 @@
 **どっち派？:**
 - **きのこの山:** 80 votes
 - **たけのこの里:** 75 votes
-- **ドウデモイイ:** 18 votes
+- **ドウデモイイ:** 19 votes
 
 #### Comments (21)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
@@ -229,7 +229,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 22, 2026 01:34pm
+- **Updated At (UTC):** Apr 22, 2026 10:12pm
 
 ---
 
@@ -294,7 +294,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777470216&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pi3HEQwc%2Bc6TwQHWewheO3VPA%2BRaOJ7D2WiRoXawpIaIalvjrYpd4tQG8jbKNY1YM6dB%2FPdCfXwwryKOuByIBGhDqRu%2FlPGrLxAy6efy51BSXQKmQOHN6T0perWm4gmT5cxBPAk%2B73pxul0Ju1fwwSJNgBE6b5LE8Rs%2BYaejmxw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777503027&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DnCr7pmEM4t71%2BWkT13267nywS9Aa%2BFOybDLfAjenov5RSxf3KQEtWm%2BSb6TVYG61vdCi66clx6vDLDaVv4drBa7Xz0D9trtXqfUePPmPrdux2pmdASGnFxBmO1mNy%2FSjJvJReXZB5HrwcXf7jpRP9BSxq6sDWeTslaVGTbpEWQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -1382,9 +1382,9 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777470217&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=S4I0h%2BOX9QpQw5EqkTc2%2FxApzWXvVmhYC8twA9zYkrnEd7FxmGU9tim6mgAH1dX%2BNovr74469PhRBjp2jlxnPjYIicwIJpbtMQj%2BKdmFQ%2FBxXqPaSrmX9qpGUQQJlKX2KSorIqDa%2FGs5GTJlbR8gfCTEQEWTh1NOIQvLSEGsXws%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777503028&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6d9rlWXhe%2BEy6Q9KcXIbKnoN3k%2BDC%2F7DxFkiBmUpOGwwAszdfNT22ThkYejnXJeoausiInMtu2%2BxJW%2BGZ39JfTPrByhBGNwfosS7bIgAkdW4DXpcwzSyLmsvBxm%2FpKsls3j7rj%2Bop%2BqkrOqh3JkFDLC2RNuIJZAJn7%2FumRZ4zWg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
-#### Comments (11)
+#### Comments (12)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
 - **たいち** (Apr 22, 2026 06:33am): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/yEPVZkonvzA1Zb0Y) 
 - **たいち** (Apr 22, 2026 06:34am): それか伊黒
@@ -1396,6 +1396,7 @@
 - **たいち** (Apr 22, 2026 11:21am): やっぱ共感できるな
 - **フェットチーネしか勝たん** (Apr 22, 2026 11:43am): 鬼滅早く次の映画でないかなー
 - **たいち** (Apr 22, 2026 11:51am): だねー
+- **まっつー** (Apr 22, 2026 10:13pm): 俺は冨岡義勇かな
 
 #### Additional Information
 - **Created At (UTC):** Apr 22, 2026 06:30am
