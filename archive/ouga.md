@@ -1,4 +1,4 @@
-最終更新: 2026/04/23 08:47:24
+最終更新: 2026/04/23 11:44:12
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 161
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 22, 2026 11:28pm
+- **Updated At (UTC):** Apr 23, 2026 02:17am
 
 ## 管理者　連絡
 
@@ -294,7 +294,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777506441&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XSxuF8%2Fiwh%2F%2FO2rdebmDI6FeLdelbxIR6IYBqPu0MFuMPQ2%2F6Ig4s%2B7zrFk3HlSvvv%2BM37AcnIXFF1mLYCfphQTyzxVRiM8LVfc%2BSnHe7lbjnbaPzIA0%2FNuCzYcTvJSdj8xqtAsuFvDhTSIIslAGJ79MTAaIpavGqgiabq%2Flvu8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777517049&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lOwKSTtqPQDx5AzI0iT4wphVZmcOJjOa9E9ltjKDBCQ0BM%2FRCbdl1ariTEgQlrBJ0lA6lHsk2jsopx6gNjmoDuID3SJ17LWang%2BCkUq3JKzeiNzG7Gq1fjKYzwefzTYQLaUpRHRDJWeDXRVxlido49ZBF5yJJ9sQ6jGKpS1N7%2BM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -1394,7 +1394,7 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777506442&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=HG1EiUKr4Tgx%2FPK%2B8peF%2BI73nHNV0MiyXhLYBtqSbWSczacjCXGzr6tbJJRyAMN2kYVntXzDcdjHZ9%2BfJ5P5hGLwNyzTommYepzMJPaL%2B0kYze86uAhHsnjpdzrEaIDKQQFfLBs3zG%2BWjy10CcncYw0RqyFP%2BHjayTM88pErJsA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777517049&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=U7A7a1O3bGtaDo3fLEoRsWbXxTvfI3zwznuxoZ0q0S5Ke9wC94OjQQPHVU2AgKyixBZQsLDsLRP1ghT%2B0Tpp2fCLJm64JIMki4oXZb7BgAle60928nSJREOBYBt1l8gnvdlRH0ZEr1tDoO7zKlxe8%2FY1%2FdR%2BDagwegag4G9CJk0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (13)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -3752,9 +3752,10 @@
 
 [Attachment 1](https://proxy-biwako.vercel.app/)
 
-#### Comments (2)
+#### Comments (3)
 - **たいち** (Apr 20, 2026 12:15pm): ぶろ
 - **Kick** (Apr 20, 2026 03:23pm): え？うそん不確定サイトっていうやつでですか？
+- **おうが** (Apr 23, 2026 01:40am): うん
 
 #### Reactions
 - **Average star rating:** 5.0
@@ -3817,13 +3818,15 @@
 
 [Attachment 1](https://subscribe-vcsa.mrwheeler.uk/)
 
-#### Comments (6)
+#### Comments (8)
 - **おうが** (Apr 16, 2026 01:13am): 何でもできる
 - **たいち** (Apr 16, 2026 08:32am): ブロ
 - **ふじこ** (Apr 16, 2026 10:56am): どうやってつかうんですか？
 - **おうが** (Apr 16, 2026 11:40pm): 普通に調べるだけ
 - **ふじこ** (Apr 17, 2026 10:30pm): ありがとうございます♪
 - **みょうもん** (Apr 20, 2026 03:16am): 詳しく教えて
+- **おうが** (Apr 23, 2026 01:40am): ？
+- **おうが** (Apr 23, 2026 01:40am): これ以上詳しくいうことない
 
 #### Additional Information
 - **Created At (UTC):** Apr 16, 2026 01:13am
@@ -3858,7 +3861,7 @@
 ### 8. 作ったよー
 **Author:** おうが (18jt026)
 
-#### Comments (14)
+#### Comments (15)
 - **たいち** (Mar 17, 2026 11:04pm): うちの学校公開プロキシブロックされてんだよなー
 - **aaabbbccc** (Mar 17, 2026 11:52pm): ありがと
 - **おうが** (Mar 18, 2026 12:09am): うん
@@ -3873,6 +3876,7 @@
 - **ドジャース好き** (Mar 21, 2026 04:03am): 使えなくなったから誰か新しいの頼む
 - **おうが** (Mar 22, 2026 11:10am): 上のロブロのやつ開けるけどどうやって使うかわからない説明求む
 - **Ry___** (Apr 08, 2026 12:28pm): dekinaaaai
+- **ビッチはお断り** (Apr 23, 2026 01:25am): アイフィルターで使えるゲーム動画サイトください 
 
 #### Additional Information
 - **Created At (UTC):** Mar 17, 2026 12:33pm
@@ -3939,6 +3943,9 @@
 ### 2. スマホ親に奪われた
 **Author:** でんじろー先生愛してる❤️
 
+#### Comments (1)
+- **おうが** (Apr 23, 2026 01:40am): どんまい
+
 #### Additional Information
 - **Created At (UTC):** Apr 19, 2026 09:55am
 - **Updated At (UTC):** Apr 19, 2026 09:55am
@@ -3948,7 +3955,7 @@
 ### 3. あいふぃるたー回避方法教えて。制限硬い
 **Author:** るか (r0137776)
 
-#### Comments (11)
+#### Comments (12)
 - **ドジャース好き** (Mar 21, 2026 04:04am): Me too
 - **たいち** (Mar 21, 2026 12:28pm): me too2
 - **たいち** (Mar 22, 2026 05:24am): 英語あってんのか？これ
@@ -3960,6 +3967,7 @@
 - **ero@R18.com　　　　　　　　　　　　　　　g　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　g　　　　　　　　　　　　　　　　　　　　　　　　mmmmmmmm** (Apr 05, 2026 07:46am): (自分)
 - **ero@R18.com　　　　　　　　　　　　　　　g　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　g　　　　　　　　　　　　　　　　　　　　　　　　mmmmmmmm** (Apr 05, 2026 07:46am): ようつべなかなかブロックされん方法もある
 - **でんじろー先生愛してる❤️** (Apr 06, 2026 07:20am): そうなんだ
+- **Anonymous** (Apr 23, 2026 02:17am): 自分はisgcです
 
 #### Additional Information
 - **Created At (UTC):** Mar 21, 2026 03:03am
@@ -3972,11 +3980,12 @@
 ### 1. ブロスタしてる子いますか
 **Author:** アメリカ税務署管理者
 
-#### Comments (4)
+#### Comments (5)
 - **ハネノキ** (Apr 17, 2026 12:31pm): 僕してます
 - **こnにちは** (Apr 19, 2026 05:19am): ぼく1日でエリート
 - **フェットチーネしか勝たん** (Apr 20, 2026 11:14am): ブロスタってどんなゲーム？　名前は聞いたことある
 - **ハジメマシテヨコタデス** (Apr 21, 2026 07:59am): 自分初心者ですけどやってます
+- **おうが** (Apr 23, 2026 01:39am): してるよー！！
 
 #### Additional Information
 - **Created At (UTC):** Apr 17, 2026 01:10am
@@ -3987,7 +3996,7 @@
 ### 2. してる子話そ
 **Author:** おうが (18jt026)
 
-#### Comments (79)
+#### Comments (80)
 - **かっっぱ** (Feb 19, 2026 04:46am): ブロフルってなんですか？
 - **おうが** (Feb 19, 2026 06:03am): ロブロックス　ブロフルって調べてみてやってみて
 - **玲吏** (Feb 19, 2026 07:59am): やってますよ
@@ -4067,6 +4076,7 @@
 - **やあみんな** (Apr 09, 2026 06:17am): いや最近の友達まじでやばいほんの５日くらいでミシカルフールつ全部そろってる
 - **おうが** (Apr 09, 2026 11:25pm): ガチャ引きすぎww
 - **4649desu** (Apr 21, 2026 09:41am): エメラルドすくない
+- **おうが** (Apr 23, 2026 01:39am): ？
 
 #### Additional Information
 - **Created At (UTC):** Feb 18, 2026 03:14am
