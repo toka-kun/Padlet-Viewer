@@ -1,4 +1,4 @@
-最終更新: 2026/04/23 14:31:56
+最終更新: 2026/04/23 16:57:02
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 162
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 23, 2026 05:05am
+- **Updated At (UTC):** Apr 23, 2026 07:49am
 
 ## 管理者　連絡
 
@@ -200,11 +200,11 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 80 votes
+- **きのこの山:** 82 votes
 - **たけのこの里:** 75 votes
 - **ドウデモイイ:** 19 votes
 
-#### Comments (21)
+#### Comments (22)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
 - **ｸﾎﾞｲｯﾀ** (Mar 29, 2026 10:19pm): もう…きのこだ、たけのこだなんて争わないでいいじゃん…きのこの勝ちでいいじゃん…
 - **たいち** (Mar 30, 2026 01:07am): きのこだな
@@ -226,10 +226,11 @@
 - **おうが** (Apr 16, 2026 01:10am): 戦争だ
 - **たいち** (Apr 18, 2026 12:00pm): だなｗ
 - **天才くん** (Apr 19, 2026 10:29pm): きのこオー
+- **FNF楽しい** (Apr 23, 2026 07:49am): きのこ
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 22, 2026 10:12pm
+- **Updated At (UTC):** Apr 23, 2026 07:48am
 
 ---
 
@@ -294,7 +295,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777527113&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RdpoQ%2Ff%2FU8faZSs6qkgn%2FYNvIHvK8fNQzn%2B5Ba0zY7PlsRB0JuSyEnp3%2BvIIZVr%2F1VoKSsTcsHU%2BG%2BBt4mHqoppjTD99GEPuWUlj8fmbYM7ccKSclx23OdTlSsLYE%2FoC4EqM7Vs7FjoGeWW1Xc96kwD5H4co%2F%2Fp9Wx1rP%2FbDkBs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777535819&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MakxrSm1Xj6xgQwsc37dffbVJjWP4kRfQEf2I1vrTBtUwjaosSFDGb0eztMQUbjNdjgvYAYVuprMgquq%2BJUf1OHminRiGJ7XRfF3v22c4dO9w0vKX1Ia5UWEem2OClhHXHRjFggEw8UzKkVbWIZ8pHfIhZxzR1wrj2RMaaLtFHU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -748,8 +749,9 @@
 ### 1. ルーレット結果！！yoloさんに決定！！！！
 **Author:** おうが (18jt026)
 
-#### Comments (1)
+#### Comments (2)
 - **おうが** (Apr 23, 2026 03:27am): メアド乗せてください
+- **たいち** (Apr 23, 2026 07:36am): おめでと
 
 #### Additional Information
 - **Created At (UTC):** Apr 23, 2026 03:27am
@@ -1217,11 +1219,12 @@
 ### 1. たいちの部屋訪問者1000人超えました！
 **Author:** たいち (r0300353)
 
-#### Comments (4)
+#### Comments (5)
 - **フェットチーネしか勝たん** (Apr 22, 2026 11:43am): えぐ！
 - **たいち** (Apr 22, 2026 12:13pm): おうがさん見てないね最近
 - **おうが** (Apr 22, 2026 11:28pm): ごめんね修学旅行行ってた
 - **フェットチーネしか勝たん** (Apr 23, 2026 04:32am): おかえりー
+- **たいち** (Apr 23, 2026 07:35am): 思いで聞かせて
 
 #### Additional Information
 - **Created At (UTC):** Apr 22, 2026 11:32am
@@ -1407,7 +1410,7 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777527114&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UDOSEjDXl2wsi3yVVgaRDmAIQOoYh2G14yKnvpdoj17ZYYpDtbkCMFrDMbB9fvEmHLaFSe%2Fiwqwg2WLNulFeTmQiSqX4PTVAlQBIiu8mJ02EkjkVQABx8S0uA%2BsfOXBXnrEmMaORHEwRjUUOKrzRvIIUk7JTEMUhNu3vBnOZZls%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777535820&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OG7OT6N65u5qUImZ3tJ9kksYUUCd0%2BJaqeuEKaOzAdl1ezviCLn4YWoacWcfE2%2FBio4peZyHMrK%2FAmiGE13ySAiiXJXpFJZd946lSMpCRvw5EAkqkcUG%2BH4iHR6ycwzqlGcXpXE0d1FJWMTXAQB3KDTopE8F8FsV21j5NWSj1l8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (13)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -2466,7 +2469,7 @@
 
 [Attachment 1](https://wondermerge.gcdn.co/publish/html5/)
 
-#### Comments (17)
+#### Comments (18)
 - **あかさたな** (Mar 30, 2026 09:34am): ブロ
 - **フェットチーネしか勝たん** (Apr 01, 2026 12:06am): ブロ
 - **忍者めししかかたん** (Apr 07, 2026 12:18am): ブロ
@@ -2484,6 +2487,7 @@
 - **まっつー** (Apr 20, 2026 09:07am): みっきー
 - **まっつー** (Apr 20, 2026 09:08am): おる？
 - **まっつー** (Apr 20, 2026 09:09am): おるんやったら返事して
+- **まっつー** (Apr 23, 2026 06:20am): エイヨウ
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 06:05am
@@ -3333,7 +3337,7 @@
 
 <p>しあとかわかめできない</p><p><br/></p>
 
-#### Comments (8)
+#### Comments (9)
 - **たいち** (Apr 20, 2026 12:16pm): まじか
 - **天才くん** (Apr 20, 2026 11:24pm): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/Xb8YaLp1yxKEayn1) 全部無理だ
 - **天才くん** (Apr 21, 2026 03:48am): 誰か教えてください😭
@@ -3342,6 +3346,7 @@
 - **天才くん** (Apr 22, 2026 12:17am): リンクください
 - **フェットチーネしか勝たん** (Apr 22, 2026 04:18am): これは　https://edu.50friends.com.mx/search
 - **フェットチーネしか勝たん** (Apr 22, 2026 04:18am): url貼ったらできる
+- **天才くん** (Apr 23, 2026 07:20am): リンク貼ったらエラー出てくる
 
 #### Additional Information
 - **Created At (UTC):** Apr 20, 2026 01:12am
@@ -3365,7 +3370,7 @@
 ### 4. まっつー
 **Author:** みっきー
 
-#### Comments (13)
+#### Comments (14)
 - **まっつー** (Apr 16, 2026 05:15am): なに
 - **みっきー** (Apr 16, 2026 05:15am): コンチくわー 
 - **みっきー** (Apr 16, 2026 05:16am): 😀
@@ -3379,6 +3384,7 @@
 - **みっきー** (Apr 19, 2026 11:29pm): 他のない？
 - **みっきー** (Apr 21, 2026 01:51am): おもろいねー
 - **みっきー** (Apr 21, 2026 01:55am): ゲームをしている 
+- **みっきー** (Apr 23, 2026 06:21am): なに？ 
 
 #### Additional Information
 - **Created At (UTC):** Apr 16, 2026 05:14am
@@ -4010,7 +4016,7 @@
 ### 2. してる子話そ
 **Author:** おうが (18jt026)
 
-#### Comments (82)
+#### Comments (86)
 - **かっっぱ** (Feb 19, 2026 04:46am): ブロフルってなんですか？
 - **おうが** (Feb 19, 2026 06:03am): ロブロックス　ブロフルって調べてみてやってみて
 - **玲吏** (Feb 19, 2026 07:59am): やってますよ
@@ -4093,6 +4099,10 @@
 - **おうが** (Apr 23, 2026 01:39am): ？
 - **GP** (Apr 23, 2026 05:05am): こんにちわ！
 - **GP** (Apr 23, 2026 05:06am): PCtukaenakunatteta
+- **GP** (Apr 23, 2026 05:51am): おーいだれかー
+- **GP** (Apr 23, 2026 05:51am): 🥺
+- **GP** (Apr 23, 2026 06:03am): もうこないからねー
+- **GP** (Apr 23, 2026 06:03am): ｗｗ
 
 #### Additional Information
 - **Created At (UTC):** Feb 18, 2026 03:14am

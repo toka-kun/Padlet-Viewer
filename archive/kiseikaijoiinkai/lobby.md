@@ -1,4 +1,4 @@
-最終更新: 2026/04/20 23:52:07
+最終更新: 2026/04/23 16:56:37
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 11
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Apr 20, 2026 01:28pm
+- **Updated At (UTC):** Apr 23, 2026 06:42am
 
 ## ルール
 
@@ -139,6 +139,9 @@
 <p>許可のない宣伝</p><p>荒らし</p>
 
 [Attachment 1](https://padlet.com/tiktok_yuta_ahirukunndayo)
+
+#### Comments (1)
+- **おでん三兄弟　＃あほ4人組　＃黒帯所持者　　＃ZETA・してたんぽ推し** (Apr 23, 2026 06:42am): かわいそ
 
 #### Additional Information
 - **Created At (UTC):** Apr 11, 2026 10:01am
