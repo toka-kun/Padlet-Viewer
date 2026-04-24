@@ -1,4 +1,4 @@
-最終更新: 2026/04/24 14:36:49
+最終更新: 2026/04/24 17:06:24
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,13 +7,22 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 168
+- **Posts:** 169
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 24, 2026 03:30am
+- **Updated At (UTC):** Apr 24, 2026 07:46am
 
 ## 管理者　連絡
 
-### 1. 注意　他のパドレットに宣伝してるれるのはいいんですけどルールは守って宣伝して欲しいです！！
+### 1. 管理者になりましたよろしくお願いします
+**Author:** たいち (r0300353)
+
+#### Additional Information
+- **Created At (UTC):** Apr 24, 2026 07:46am
+- **Updated At (UTC):** Apr 24, 2026 07:46am
+
+---
+
+### 2. 注意　他のパドレットに宣伝してるれるのはいいんですけどルールは守って宣伝して欲しいです！！
 **Author:** おうが (18jt026)
 
 #### Additional Information
@@ -22,7 +31,7 @@
 
 ---
 
-### 2. 春休みあんま動けてなかったから今から再始動します！
+### 3. 春休みあんま動けてなかったから今から再始動します！
 **Author:** おうが (18jt026)
 
 #### Additional Information
@@ -31,12 +40,13 @@
 
 ---
 
-### 3. じゃあみんなバイバイ！
+### 4. じゃあみんなバイバイ！
 **Author:** おうが (18jt026)
 
-#### Comments (2)
+#### Comments (3)
 - **おうが** (Apr 24, 2026 01:26am): めっちゃ悲しいけど消すよりはいいと思いました！
 - **おうが** (Apr 24, 2026 01:26am): これからも頑張ってね！！！！
+- **たいち** (Apr 24, 2026 07:43am): 戻ってこないんですか？
 
 #### Additional Information
 - **Created At (UTC):** Apr 24, 2026 01:25am
@@ -44,7 +54,7 @@
 
 ---
 
-### 4. 最近楽しいこと
+### 5. 最近楽しいこと
 **Author:** あかさたな
 
 #### Additional Information
@@ -53,7 +63,7 @@
 
 ---
 
-### 5. 管理者ください
+### 6. 管理者ください
 **Author:** Sky (hoangquipquip)
 
 #### Comments (3)
@@ -67,7 +77,7 @@
 
 ---
 
-### 6. ルール　暴言、性的な言動、個人情報の流出はモデレーターに削除してもらいます　掲示板以外に宣伝したコメントは全て削除　　みんな仲良く楽しんでください！！
+### 7. ルール　暴言、性的な言動、個人情報の流出はモデレーターに削除してもらいます　掲示板以外に宣伝したコメントは全て削除　　みんな仲良く楽しんでください！！
 **Author:** おうが (18jt026)
 
 #### Comments (4)
@@ -82,7 +92,7 @@
 
 ---
 
-### 7. 最近みんな見てくれない、、、何かダメなところとかある？
+### 8. 最近みんな見てくれない、、、何かダメなところとかある？
 **Author:** おうが (18jt026)
 
 #### Comments (10)
@@ -103,7 +113,7 @@
 
 ---
 
-### 8. モデレーターなってくれる人募集しますメリットは自分の鯖を宣伝できる投稿ができるして欲しいことは荒らしのコメントをどんどん消してほしい
+### 9. モデレーターなってくれる人募集しますメリットは自分の鯖を宣伝できる投稿ができるして欲しいことは荒らしのコメントをどんどん消してほしい
 **Author:** おうが (18jt026)
 
 #### Comments (18)
@@ -132,7 +142,7 @@
 
 ---
 
-### 9. hiro mc6881この人荒らし
+### 10. hiro mc6881この人荒らし
 **Author:** おうが (18jt026)
 
 #### Comments (5)
@@ -148,7 +158,7 @@
 
 ---
 
-### 10. モデレーターになった方は暴言、誹謗中傷、個人情報などのコメントはじゃんじゃん消してください！！自分の鯖を紹介したい人は1つだけなら投稿okそれ以上は僕が消しますそしてモデから消しますそれだけは守ってください
+### 11. モデレーターになった方は暴言、誹謗中傷、個人情報などのコメントはじゃんじゃん消してください！！自分の鯖を紹介したい人は1つだけなら投稿okそれ以上は僕が消しますそしてモデから消しますそれだけは守ってください
 **Author:** おうが (18jt026)
 
 #### Comments (3)
@@ -162,7 +172,7 @@
 
 ---
 
-### 11. みんなさんのおかげで大きくなってきました！！荒らしとかが怖くなってきたので夜の10時からあさの9時くらいまで凍結さしていただきますご了承ください🙏
+### 12. みんなさんのおかげで大きくなってきました！！荒らしとかが怖くなってきたので夜の10時からあさの9時くらいまで凍結さしていただきますご了承ください🙏
 **Author:** おうが (18jt026)
 
 #### Comments (2)
@@ -175,7 +185,7 @@
 
 ---
 
-### 12. こんにちは！管理者のおうがですここでは仲良く情報共有などができればいいなと思っています！！みなさん拡散お願いします
+### 13. こんにちは！管理者のおうがですここでは仲良く情報共有などができればいいなと思っています！！みなさん拡散お願いします
 **Author:** おうが (18jt026)
 
 #### Comments (22)
@@ -215,7 +225,7 @@
 
 **どっち派？:**
 - **きのこの山:** 84 votes
-- **たけのこの里:** 80 votes
+- **たけのこの里:** 81 votes
 - **ドウデモイイ:** 21 votes
 
 #### Comments (23)
@@ -245,7 +255,7 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 24, 2026 04:14am
+- **Updated At (UTC):** Apr 24, 2026 05:40am
 
 ---
 
@@ -263,7 +273,7 @@
 ### 3. Post 3
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777613806&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=InG7yhAYaUVi9CNZLSIIe8OgnPPhSybs2shv2bbQWqQdQ8qpZCxLuIkgjxYPye6e9pVPTyqtDbyEI%2F42OZ9YiSVKz2N77prABoT7kMv%2FSJIML1sI%2BKe8l2xnzuXuUdX3bAnkndGeAeCuHVQ1W1jq7Qi%2FIXeGYssRcuBCQpHiqq0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777622781&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ug9jESCoC4claHzOmCxwcZP3jAkfLIpnuzMbSLbPK%2F%2FwmDSHR72ht2S8lZYmgaXkOlNM4GNml2GuEgf9CpU7wORPvuoFBQkoPLe%2FaoeucaVP%2BKEYzK9VBH8k2%2FRJiWmYGLo%2FGgsd4N6W9OoxdWyJw3vvtBHbEcFsj7heoBH%2FD%2Bg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Additional Information
 - **Created At (UTC):** Apr 24, 2026 03:01am
@@ -332,7 +342,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777613806&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Ge2W6XF00WMk9Ti%2B8%2FCDim9ZarFW6mdQxJCqEICVU45MspCznLoufw9zzyWRVNl63c3SRpk9mq1%2BRbWylI4YbJSs1py4q7nvsDFpeuWnj%2Bn9hzcd2uv5%2BPVNDXjSENePXNLylPbjMSz71yY1v8pyMI3YZcQrlRds%2F9fFPra825M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777622781&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4gVekumMjap5gkAuJM6E3CtouTHPnGUp%2FUo5sfPEfwxCccM4AQq3MOwpTP%2Fwek2me35JUWCbNUn0mv3JZcA%2FHSRA%2BmGC7PGttxvH879fw2ML%2B18N42kShB9h02X1zXOaVFjtwwwT8zujGNr2nvIRpSvGHLSx8hFbLvJFB1fwEgM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -791,8 +801,10 @@
 ### 1. たいちさんにきまりました！
 **Author:** おうが (18jt026)
 
-#### Comments (1)
+#### Comments (3)
 - **おうが** (Apr 24, 2026 01:21am): おめでとうございます！
+- **たいち** (Apr 24, 2026 07:39am): マジすか！？
+- **たいち** (Apr 24, 2026 07:39am): 頑張ります
 
 #### Additional Information
 - **Created At (UTC):** Apr 24, 2026 01:21am
@@ -812,7 +824,7 @@
 ### 3. ルーレット結果！！yoloさんに決定！！！！
 **Author:** おうが (18jt026)
 
-#### Comments (8)
+#### Comments (9)
 - **おうが** (Apr 23, 2026 03:27am): メアド乗せてください
 - **たいち** (Apr 23, 2026 07:36am): おめでと
 - **れいな** (Apr 23, 2026 10:39am): めでとー
@@ -821,6 +833,7 @@
 - **フェットチーネしか勝たん** (Apr 23, 2026 09:05pm): ね
 - **おうが** (Apr 23, 2026 11:00pm): ね
 - **おうが** (Apr 23, 2026 11:00pm): 今日の12時までにこなかったらもう一回します
+- **たいち** (Apr 24, 2026 07:43am): 「ね」そろったｗｗ
 
 #### Additional Information
 - **Created At (UTC):** Apr 23, 2026 03:27am
@@ -1288,7 +1301,7 @@
 ### 1. たいちの部屋訪問者1000人超えました！
 **Author:** たいち (r0300353)
 
-#### Comments (9)
+#### Comments (10)
 - **フェットチーネしか勝たん** (Apr 22, 2026 11:43am): えぐ！
 - **たいち** (Apr 22, 2026 12:13pm): おうがさん見てないね最近
 - **おうが** (Apr 22, 2026 11:28pm): ごめんね修学旅行行ってた
@@ -1298,6 +1311,7 @@
 - **おうが** (Apr 23, 2026 11:25pm): 沖縄
 - **おうが** (Apr 23, 2026 11:25pm): 思い出はねー
 - **おうが** (Apr 23, 2026 11:43pm): 言えない
+- **たいち** (Apr 24, 2026 07:39am): 沖縄いいねー
 
 #### Additional Information
 - **Created At (UTC):** Apr 22, 2026 11:32am
@@ -1483,7 +1497,7 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777613807&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JzxxqYnvSp%2Fja7J5I6GzJ%2Bbv6XfA2z%2F%2BTsevPLYw70G7AvCZ0KkaIy8X3xt2o9qneDpFuKgUVuPPozagiSXg%2F9Q4P5eG7iHgeYLuv2J1cKnO9oJ1QCcyRsV5QjLkSm6pzZRJVt%2F9DhtXgoptJT6HUwlYeWL61ZbvAeea8CdKS3o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777622782&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Bmb5c9U%2BIayZ7dOgWazlO6HZgVWjYXELJK%2F3VoSemMk5sAdG2L8ylV2LAJi%2BLM5Zn9KJklNWljhWDXEnB0VciLFgE4s4jG29X39hm7QRKRdleu6yGEcn59NOq9pIutLpIr%2BjiNG5qk22tSVC2bQiuAUb3AELHxfGrBz6GvS7SK4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (15)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -3981,7 +3995,7 @@
 - **おうが** (Mar 18, 2026 11:51pm): そだねwww
 - **俺だぞ〜（三橋）** (Mar 19, 2026 12:00am): ロブロックスできるよ
 - **俺だぞ〜（三橋）** (Mar 19, 2026 12:02am): https://music4fun.isoluxltda.clこれでロブロックス検索してログインかアカウント作成してできる
-- **増田** (Mar 21, 2026 04:03am): 使えなくなったから誰か新しいの頼む
+- **川上岳彦** (Mar 21, 2026 04:03am): 使えなくなったから誰か新しいの頼む
 - **おうが** (Mar 22, 2026 11:10am): 上のロブロのやつ開けるけどどうやって使うかわからない説明求む
 - **KAsiuuuuu** (Apr 08, 2026 12:28pm): dekinaaaai
 - **ビッチはお断り** (Apr 23, 2026 01:25am): アイフィルターで使えるゲーム動画サイトください 
@@ -4067,7 +4081,7 @@
 **Author:** るか (r0137776)
 
 #### Comments (12)
-- **増田** (Mar 21, 2026 04:04am): Me too
+- **川上岳彦** (Mar 21, 2026 04:04am): Me too
 - **たいち** (Mar 21, 2026 12:28pm): me too2
 - **たいち** (Mar 22, 2026 05:24am): 英語あってんのか？これ
 - **おうが** (Mar 22, 2026 11:08am): meet to
