@@ -1,4 +1,4 @@
-最終更新: 2026/04/24 20:58:17
+最終更新: 2026/04/24 22:56:44
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,14 +7,18 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 176
+- **Posts:** 179
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 24, 2026 11:37am
+- **Updated At (UTC):** Apr 24, 2026 01:51pm
 
 ## 管理者　連絡
 
 ### 1. 管理者になりましたよろしくお願いします
 **Author:** たいち (r0300353)
+
+#### Comments (2)
+- **忍者めししか勝たん** (Apr 24, 2026 01:12pm): よろしくおねがいします
+- **フェットチーネしか勝たん** (Apr 24, 2026 01:28pm): よろしく
 
 #### Additional Information
 - **Post color:** Black
@@ -46,10 +50,12 @@
 ### 4. じゃあみんなバイバイ！
 **Author:** おうが (18jt026)
 
-#### Comments (3)
+#### Comments (5)
 - **おうが** (Apr 24, 2026 01:26am): めっちゃ悲しいけど消すよりはいいと思いました！
 - **おうが** (Apr 24, 2026 01:26am): これからも頑張ってね！！！！
 - **たいち** (Apr 24, 2026 07:43am): 戻ってこないんですか？
+- **忍者めししか勝たん** (Apr 24, 2026 01:12pm): 受験頑張ってください！
+- **フェットチーネしか勝たん** (Apr 24, 2026 01:29pm): 受援頑張ってね
 
 #### Additional Information
 - **Post color:** Black
@@ -237,9 +243,9 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 84 votes
-- **たけのこの里:** 82 votes
-- **ドウデモイイ:** 21 votes
+- **きのこの山:** 85 votes
+- **たけのこの里:** 83 votes
+- **ドウデモイイ:** 22 votes
 
 #### Comments (23)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
@@ -269,7 +275,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 24, 2026 10:53am
+- **Updated At (UTC):** Apr 24, 2026 01:13pm
 
 ---
 
@@ -302,7 +308,10 @@
 ### 4. Post 4
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777636695&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BOlyYQL5bmpO3ZFe68Ej8XHGG9hPWJOKdkyQ15yaLGA0u%2BhWOwGQoXy02Qinzk%2F7yVPtiKJNvpezwwtEqDVD2sPZzSEQXVuqGn6HMUvZJIuJkkI2hexrUBr1BrUfx%2FPk3SSuBqBMN34404BPHUjFJDkrvsNXjaHrGg6PHq8%2BhMg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777643801&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xJN2lT0RSiVImj4huY0gnueXmfxP4WRNdNXq9FcMJTDt5vljP0PwQOJun50B%2BKCEj%2FDhGEMwchyIjYa4aXx%2B3gl622xBvRNY0kSxCPi3idoYaq45HN5LJbagt0zrAPrjpS10v7%2FNfm2D6D%2FAEHHlSxPOsovVgbUDI7WXTikl8gU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+
+#### Comments (1)
+- **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
 
 #### Additional Information
 - **Post color:** Black
@@ -376,7 +385,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777636695&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jq%2Beo94A5fgNNPKq8JTYUvrzR9UY1MeMsTdoiJ5hh%2BW%2FeAU%2B8zIIMc4Q4Vpgk2N7PVSz7%2FlA7%2FQFbgvEDeUSu%2BFREvaCtDbLKw9BTPLRbnxTSNVrBYO4A9Gbi7YBCqazZXpycmxH9l2LyeJ9hBUFGRfGPj5bjiqp6BIIq8ai18k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777643801&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BLWh0rvi8g568g%2Ft0XZtiaaDSeaabak2YelVl9pkes6nwT7I7vMFFKIKy9D3OqeAATuhGtvIA%2FRwWPfwdT1v9tghJbzPl78Yy6xm77QA41wRT538OXjD31zJdNDxh41Awn49wGnI7ejjBBTQzlTaKMx0mgnSnbvJAGDnxf8br48%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -585,7 +594,7 @@
 ### 23. 自己紹介してね
 **Author:** おうが (18jt026)
 
-#### Comments (251)
+#### Comments (252)
 - **Anonymous** (Feb 17, 2026 12:56am): こんにちは
 - **おうが** (Feb 17, 2026 01:12am): こんにちは！
 - **おうが** (Feb 17, 2026 01:12am): 広めてくれたら嬉しいです！！！
@@ -837,6 +846,7 @@
 - **GP** (Mar 18, 2026 03:01am): よろしくお願いします
 - **GP** (Apr 24, 2026 03:03am): https://n-shrljd3wwjflppd4a75xrgjukdd5gaji335oh6a-0lu-script.googleusercontent.com/watch?v=dDtYCha7vvI
 - **GP** (Apr 24, 2026 03:03am): 多分入れん
+- **忍者めししか勝たん** (Apr 24, 2026 01:15pm): ファイルが見つかりませんだって
 
 #### Additional Information
 - **Post color:** Black
@@ -850,10 +860,11 @@
 ### 1. たいちさんにきまりました！
 **Author:** おうが (18jt026)
 
-#### Comments (3)
+#### Comments (4)
 - **おうが** (Apr 24, 2026 01:21am): おめでとうございます！
 - **たいち** (Apr 24, 2026 07:39am): マジすか！？
 - **たいち** (Apr 24, 2026 07:39am): 頑張ります
+- **忍者めししか勝たん** (Apr 24, 2026 12:53pm): おめでとうございます
 
 #### Additional Information
 - **Post color:** Black
@@ -1619,7 +1630,7 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777636695&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MFPAabphFyh6J6BkbT4nj6dUMptvkKZ5PnjKpIwIiVLLZcMDkGj5ptdmPOZgeCntPeKeoD%2Bw%2BAYZZ6CppuoZ1VMsmId32knyxHUQibfqIkV4THaBkWU%2FacwPmWumoBlJ8gIhhduZoZketIu8eItSIRjeOilEeXHXEfLCi5DAzrA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777643802&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WZcH9WT%2Fblsewe0WB0gqdIqDajMUwtw%2FzxuLGcp8HJUY%2Foee5FbXI3rRBCIKRoDmzY2iXJzrqYngneJ4S8OrSM%2F84l7dnwBSAegZHd08tBbqc17%2BctZlVLTDoa6zpkZ%2Bnp3OybLRla1aW1T48aDoBdIpIPlbLCtGL%2BE4AcNXizs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (16)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -1646,7 +1657,17 @@
 
 ---
 
-### 2. よろしくお願いします
+### 2. みんな好きな曲何？
+**Author:** フェットチーネしか勝たん
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 24, 2026 01:32pm
+- **Updated At (UTC):** Apr 24, 2026 01:32pm
+
+---
+
+### 3. よろしくお願いします
 **Author:** 綱啓永推し❤️❤️ (r0400268_1)
 
 <p>この私のパドレっとに入ってくださいお願いします</p>
@@ -1660,7 +1681,7 @@
 
 ---
 
-### 3. ヨモギ　正体明かして
+### 4. ヨモギ　正体明かして
 **Author:** たいち (r0300353)
 
 #### Comments (10)
@@ -1682,7 +1703,7 @@
 
 ---
 
-### 4. 規模３位はレベチで草w
+### 5. 規模３位はレベチで草w
 **Author:** こnにちは
 
 <p>1位目指すの頑張って</p>
@@ -1705,7 +1726,7 @@
 
 ---
 
-### 5. 皆趣味何？
+### 6. 皆趣味何？
 **Author:** フェットチーネしか勝たん
 
 <p>俺はルービックキューブや読書、ゲームかな</p>
@@ -1725,12 +1746,12 @@
 
 ---
 
-### 6. 塾で隣のやつの独り言がうるさすぎる。
+### 7. 塾で隣のやつの独り言がうるさすぎる。
 **Author:** 暇すぎ星人 (1910568_3)
 
 <p>解決策求む</p>
 
-#### Comments (9)
+#### Comments (10)
 - **暇すぎ星人** (Apr 08, 2026 11:39am): 助けて😭
 - **フェットチーネしか勝たん** (Apr 09, 2026 12:00am): ない
 - **おうが** (Apr 09, 2026 12:01am): ガム食わせる
@@ -1740,6 +1761,7 @@
 - **Fortnite廃課金者** (Apr 10, 2026 04:08am): ワイヤレスイヤホンをしたら？
 - **フェットチーネしか勝たん** (Apr 11, 2026 03:24am): 忍者めししか勝たん　塾の行きや帰りに知らない人に「よっ」っと話しかけてるやばい奴もいたな
 - **白転** (Apr 22, 2026 08:22am): それ俺もやる
+- **忍者めししか勝たん** (Apr 24, 2026 01:16pm): 白転さん　地味にたのしい
 
 #### Additional Information
 - **Post color:** Black
@@ -1748,7 +1770,7 @@
 
 ---
 
-### 7. アンケート　何のグミ好き
+### 8. アンケート　何のグミ好き
 **Author:** フェットチーネしか勝たん
 
 **何のグミ好き:**
@@ -1776,7 +1798,7 @@
 
 ---
 
-### 8. わかめチューブ教えて
+### 9. わかめチューブ教えて
 **Author:** 野球
 
 #### Comments (3)
@@ -1791,7 +1813,7 @@
 
 ---
 
-### 9. だれかしあtubeのカスタムエンドポイントください
+### 10. だれかしあtubeのカスタムエンドポイントください
 **Author:** XminionQWQ
 
 <p>おねがいしますm(__)m</p>
@@ -1814,7 +1836,7 @@
 
 ---
 
-### 10. イタリアンブレインロットって知ってる？
+### 11. イタリアンブレインロットって知ってる？
 **Author:** たいち (r0300353)
 
 #### Comments (12)
@@ -1838,7 +1860,7 @@
 
 ---
 
-### 11. 前から思ってたんですけどおうがさんのアイコンの人って誰なんですか？
+### 12. 前から思ってたんですけどおうがさんのアイコンの人って誰なんですか？
 **Author:** たいち (r0300353)
 
 #### Comments (4)
@@ -1854,7 +1876,7 @@
 
 ---
 
-### 12. だんだんと閲覧数とか増えてきたね
+### 13. だんだんと閲覧数とか増えてきたね
 **Author:** nekoちゃんぬ総長サブ垢 (nekosaikyoukami)
 
 #### Comments (1)
@@ -1867,7 +1889,7 @@
 
 ---
 
-### 13. プロキシ載せといた
+### 14. プロキシ載せといた
 **Author:** aaabbbccc (mazamaza)
 
 #### Comments (1)
@@ -1880,7 +1902,7 @@
 
 ---
 
-### 14. 雑談部屋
+### 15. 雑談部屋
 **Author:** aaabbbccc (mazamaza)
 
 <p>先着20名程度</p>
@@ -1898,7 +1920,7 @@
 
 ---
 
-### 15. リクエスト
+### 16. リクエスト
 **Author:** aaabbbccc (mazamaza)
 
 <p>セクションにプロキシを追加してほしいです</p>
@@ -1913,7 +1935,7 @@
 
 ---
 
-### 16. 管理者が欲しい！
+### 17. 管理者が欲しい！
 **Author:** ｸﾞﾊｯ　＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎　＃隼人の下僕 (qlomolp)
 
 #### Comments (17)
@@ -1942,7 +1964,7 @@
 
 ---
 
-### 17. 質問シャドウって何するんですか？
+### 18. 質問シャドウって何するんですか？
 **Author:** おうが (18jt026)
 
 #### Comments (7)
@@ -1961,7 +1983,7 @@
 
 ---
 
-### 18. 一個思ったけどここ見つかったら全部ブロックされるやん
+### 19. 一個思ったけどここ見つかったら全部ブロックされるやん
 **Author:** 田中　佐藤 (7372971)
 
 #### Comments (5)
@@ -1978,7 +2000,7 @@
 
 ---
 
-### 19. うちらの学校だけかわからんけど
+### 20. うちらの学校だけかわからんけど
 **Author:** Fortnite廃課金者 (pilduw)
 
 <p>なんかタブレット今より新しいのに変わるんだけどみんなはどうなん？</p>
@@ -1997,7 +2019,7 @@
 
 ---
 
-### 20. 新しい雑談場所
+### 21. 新しい雑談場所
 **Author:** おうが (18jt026)
 
 #### Comments (10)
@@ -2019,7 +2041,7 @@
 
 ---
 
-### 21. あはははは
+### 22. あはははは
 **Author:** ｸﾞﾊｯ　＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎　＃隼人の下僕 (qlomolp)
 
 #### Comments (16)
@@ -2047,7 +2069,7 @@
 
 ---
 
-### 22. みんなで話そ
+### 23. みんなで話そ
 **Author:** おうが (18jt026)
 
 #### Comments (650)
@@ -2716,7 +2738,7 @@
 
 [Attachment 1](https://wondermerge.gcdn.co/publish/html5/)
 
-#### Comments (21)
+#### Comments (23)
 - **あかさたな** (Mar 30, 2026 09:34am): ブロ
 - **フェットチーネしか勝たん** (Apr 01, 2026 12:06am): ブロ
 - **忍者めししかかたん** (Apr 07, 2026 12:18am): ブロ
@@ -2738,6 +2760,8 @@
 - **豚トロ** (Apr 23, 2026 10:37am): マイシンキングmんすたーってできないんかな  
 - **綱啓永推し❤️❤️** (Apr 24, 2026 10:31am): はじめまして
 - **綱啓永推し❤️❤️** (Apr 24, 2026 10:31am): 綱啓永推しです。よろしくお願いします
+- **フェットチーネしか勝たん** (Apr 24, 2026 01:32pm): 初めまして
+- **忍者めししか勝たん** (Apr 24, 2026 01:36pm): はじめまして
 
 #### Additional Information
 - **Post color:** Black
@@ -2746,7 +2770,41 @@
 
 ---
 
-### 2. ゲーム教えてー
+### 2. Post 2
+**Author:** 忍者めししか勝たん
+
+<p>これは？</p>
+
+[Attachment 1](https://d11jzht7mj96rr.cloudfront.net/)
+
+#### Comments (1)
+- **忍者めししか勝たん** (Apr 24, 2026 01:43pm): みんなができますように
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 24, 2026 01:43pm
+- **Updated At (UTC):** Apr 24, 2026 01:43pm
+
+---
+
+### 3. Post 3
+**Author:** 忍者めししか勝たん
+
+<p>これは？</p>
+
+[Attachment 1](https://d3rsc7j663z58n.cloudfront.net/)
+
+#### Comments (1)
+- **忍者めししか勝たん** (Apr 24, 2026 01:37pm): いちおうJAVA版のマイクラできる
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 24, 2026 01:37pm
+- **Updated At (UTC):** Apr 24, 2026 01:37pm
+
+---
+
+### 4. ゲーム教えてー
 **Author:** ギャル
 
 <p>誰かRoblox持ってる人いないですかー</p>
@@ -2758,7 +2816,7 @@
 
 ---
 
-### 3. いろいろはいってるゲームサイト
+### 5. いろいろはいってるゲームサイト
 **Author:** ギャル
 
 <p><a rel="noopener noreferrer nofollow" href="https://mathwow.org/play/">https://mathwow.org/play/</a></p>
@@ -2772,7 +2830,7 @@
 
 ---
 
-### 4. マ◯オカート
+### 6. マ◯オカート
 **Author:** やまにつつ (yamanitsutsu)
 
 <p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/king-kong-kart-racing/index.html">https://cdn-factory.marketjs.com/en/king-kong-kart-racing/index.html</a></p>
@@ -2788,7 +2846,7 @@
 
 ---
 
-### 5. 放置ゲー
+### 7. 放置ゲー
 **Author:** やまにつつ (yamanitsutsu)
 
 <p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/idle-mining-empire/index.html?nocache">https://cdn-factory.marketjs.com/en/idle-mining-empire/index.html?nocache</a></p>
@@ -2800,7 +2858,7 @@
 
 ---
 
-### 6. Post 6
+### 8. Post 8
 **Author:** やまにつつ (yamanitsutsu)
 
 <p>これとか？</p><p><a rel="noopener noreferrer nofollow" href="https://mergecraft.gcdn.co/publish/html5/">https://mergecraft.gcdn.co/publish/html5/</a></p>
@@ -2812,7 +2870,7 @@
 
 ---
 
-### 7. これはハマっちゃうって
+### 9. これはハマっちゃうって
 **Author:** こnにちは
 
 <p>ブロされたらごめん</p>
@@ -2831,7 +2889,7 @@
 
 ---
 
-### 8. ロブロックスフレンドなりませんか？
+### 10. ロブロックスフレンドなりませんか？
 **Author:** こnにちは
 
 <p>IDはABC123goriです</p>
@@ -2851,20 +2909,21 @@
 
 ---
 
-### 9. これは
+### 11. これは
 **Author:** フェットチーネしか勝たん
 
 <p>左のボタンはいろいろできて右はマイクラできる</p>
 
 [Attachment 1](https://sites.google.com/view/dominumnetworkv2/dnv2)
 
-#### Comments (6)
+#### Comments (7)
 - **フェットチーネしか勝たん** (Apr 05, 2026 11:59am): ポップコーンのところのやつを押して一番上のやつを押したらボタン出てくる
 - **Fortnite廃課金者** (Apr 06, 2026 09:01pm): おいおい
 - **Fortnite廃課金者** (Apr 06, 2026 09:01pm): しかもこのサイト映画もみれるぞ
 - **Fortnite廃課金者** (Apr 06, 2026 09:01pm): スマホで見てるからわからんけど
 - **Fortnite廃課金者** (Apr 06, 2026 09:01pm): デッドプール&ウルヴァリンも見れるぞ
 - **Fortnite廃課金者** (Apr 06, 2026 09:02pm): ただし英語
+- **忍者めししか勝たん** (Apr 24, 2026 01:17pm): これえぐい
 
 #### Additional Information
 - **Post color:** Black
@@ -2873,7 +2932,7 @@
 
 ---
 
-### 10. おもろいよ
+### 12. おもろいよ
 **Author:** ワイ君
 
 [Attachment 1](https://www.flightradar24.com/35.13,135.11/8)
@@ -2888,7 +2947,7 @@
 
 ---
 
-### 11. おもろいよ
+### 13. おもろいよ
 **Author:** ワイ君
 
 [Attachment 1](https://www.flightradar24.com/35.13,135.11/8)
@@ -2900,7 +2959,7 @@
 
 ---
 
-### 12. おもろいよ
+### 14. おもろいよ
 **Author:** ワイ君
 
 [Attachment 1](https://www.flightradar24.com/35.13,135.11/8)
@@ -2912,7 +2971,7 @@
 
 ---
 
-### 13. ノーブロゲームサイト
+### 15. ノーブロゲームサイト
 **Author:** XminionQWQ
 
 [Attachment 1](https://sites.google.com/view/prohomework2z/dictionary)
@@ -2929,7 +2988,7 @@
 
 ---
 
-### 14. 桃鉄のパスワード求む
+### 16. 桃鉄のパスワード求む
 **Author:** ワイ君
 
 #### Additional Information
@@ -2939,7 +2998,7 @@
 
 ---
 
-### 15. これは？
+### 17. これは？
 **Author:** フェットチーネしか勝たん
 
 <p>そんな面白いのないとは思うけど</p>
@@ -2956,7 +3015,7 @@
 
 ---
 
-### 16. わかめチューブのサイト載せてください
+### 18. わかめチューブのサイト載せてください
 **Author:** あかさたな
 
 #### Additional Information
@@ -2966,7 +3025,7 @@
 
 ---
 
-### 17. 色々できるゲームサイト
+### 19. 色々できるゲームサイト
 **Author:** 綱啓永推し❤️❤️ (r0400268_1)
 
 [Attachment 1](https://sites.google.com/classroom.center/view/home)
@@ -2985,7 +3044,7 @@
 
 ---
 
-### 18. 色々できるゲームサイト
+### 20. 色々できるゲームサイト
 **Author:** 綱啓永推し❤️❤️ (r0400268_1)
 
 [Attachment 1](https://ubg77.gitlab.io/)
@@ -3001,7 +3060,7 @@
 
 ---
 
-### 19. テトリス
+### 21. テトリス
 **Author:** 綱啓永推し❤️❤️ (r0400268_1)
 
 [Attachment 1](https://stemask.bex.jp/tetris/)
@@ -3017,7 +3076,7 @@
 
 ---
 
-### 20. わかめチューブのリンク乗っけてください
+### 22. わかめチューブのリンク乗っけてください
 **Author:** あかさたな
 
 #### Comments (3)
@@ -3032,7 +3091,7 @@
 
 ---
 
-### 21. ゲームできるサイト教えて
+### 23. ゲームできるサイト教えて
 **Author:** あかさたな
 
 #### Comments (2)
@@ -3046,7 +3105,7 @@
 
 ---
 
-### 22. 桃鉄教育版の授業パスワード教えて
+### 24. 桃鉄教育版の授業パスワード教えて
 **Author:** フェットチーネしか勝たん
 
 #### Additional Information
@@ -3056,7 +3115,7 @@
 
 ---
 
-### 23. たっくんさんもっと教えてくれませんか？
+### 25. たっくんさんもっと教えてくれませんか？
 **Author:** たいち (r0300353)
 
 #### Additional Information
@@ -3066,7 +3125,7 @@
 
 ---
 
-### 24. Post 24
+### 26. Post 26
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://24glo.com/game/index.html)
@@ -3082,7 +3141,7 @@
 
 ---
 
-### 25. Post 25
+### 27. Post 27
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://www.dailytoolz.com/gameindex.php)
@@ -3098,7 +3157,7 @@
 
 ---
 
-### 26. Post 26
+### 28. Post 28
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://medv.io/bit-planes/?mode=survival)
@@ -3114,7 +3173,7 @@
 
 ---
 
-### 27. 「
+### 29. 「
 **Author:** aaabbbccc (mazamaza)
 
 <p><br/></p><p><br/></p>
@@ -3135,7 +3194,7 @@
 
 ---
 
-### 28. URL貼ったらなんでも開けるサイトとかない？
+### 30. URL貼ったらなんでも開けるサイトとかない？
 **Author:** 現実見ろや粉カス (gs203427)
 
 #### Additional Information
@@ -3145,7 +3204,7 @@
 
 ---
 
-### 29. こんにちわー
+### 31. こんにちわー
 **Author:** いっせい
 
 #### Comments (1)
@@ -3158,7 +3217,7 @@
 
 ---
 
-### 30. ゲームできる！
+### 32. ゲームできる！
 **Author:** キューピット
 
 #### Comments (6)
@@ -3176,7 +3235,7 @@
 
 ---
 
-### 31. i-FILTER.の人必見（枚方市立の小学校の行ってる人のみ）
+### 33. i-FILTER.の人必見（枚方市立の小学校の行ってる人のみ）
 **Author:** 俺だぞ〜（三橋） (H2822063)
 
 <p>これgames押したらクレイジーゲームとかできる</p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://hygiene.yodetergent">https://hygiene.yodetergent</a></p><p><br></p><p>これは検索したらなんでも開けるサイト</p><p>あと左のゲームボタンを押したらゲームできる（時々できない）</p><p>そして🎵マークを押すと音楽が聴ける</p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://pc-freak.net/proxy/">https://pc-freak.net/proxy/</a></p><p>これはURLをコピペするとなんでも開ける</p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://zhenxiangba.com/phproxy-improved-master/">https://zhenxiangba.com/phproxy-improved-master/</a></p><p><br></p><p>これはちょとめんどいけどなんでも開ける</p><p>これは「https://」部分を消さないと開けない</p><p><br></p><p><br></p>
@@ -3195,7 +3254,7 @@
 
 ---
 
-### 32. ろぶろっくすほしい
+### 34. ろぶろっくすほしい
 **Author:** ちんすこう (YAJUAU)
 
 #### Comments (7)
@@ -3214,7 +3273,7 @@
 
 ---
 
-### 33. 練馬区民でプロキシ持ってたらくれ
+### 35. 練馬区民でプロキシ持ってたらくれ
 **Author:** バンダナわどるど Xx-tucasanz-xX りおと53番弟子　りおと族27代目 (gs203418)
 
 #### Comments (3)
@@ -3229,7 +3288,7 @@
 
 ---
 
-### 34. ブロックなんですけどー
+### 36. ブロックなんですけどー
 **Author:** Responsible Jackrabbit
 
 <p>ブロックされてないのお願い🙇</p>
@@ -3245,7 +3304,7 @@
 
 ---
 
-### 35. ゲームをのして
+### 37. ゲームをのして
 **Author:** おうが (18jt026)
 
 #### Comments (365)
@@ -3645,11 +3704,12 @@
 
 <p>俺のカスタムエンドポイント、「コメント見る、プレイリスト見れない、検索できない、ホームにお勧めが表示されない」から</p>
 
-#### Comments (4)
+#### Comments (5)
 - **フェットチーネしか勝たん** (Apr 20, 2026 01:16pm): 最低限コメントは見れて検索もできる奴がいい
 - **たいち** (Apr 21, 2026 09:08am): https://script.google.com/a/macros/ict.adachi.ed.jp/s/AKfycbwXUecx509B1FovfhiYmS8f80-0unvzd9pt8eh4i76NOuxPKUmGgj3LUuaYiWMRDLps/exec
 - **たいち** (Apr 21, 2026 09:08am): できなかったらごめん
 - **フェットチーネしか勝たん** (Apr 21, 2026 01:03pm): できなかったわ　多分ユーザーを自分の身にしてたらできない
+- **忍者めししか勝たん** (Apr 24, 2026 01:51pm): フェットチーネ　この前お前が言ってたやつじゃダメなの？載せてたじゃん　
 
 #### Additional Information
 - **Post color:** Black
@@ -4375,7 +4435,7 @@
 ### 1. ブロスタしてる子いますか
 **Author:** アメリカ税務署管理者
 
-#### Comments (9)
+#### Comments (10)
 - **ハネノキ** (Apr 17, 2026 12:31pm): 僕してます
 - **こnにちは** (Apr 19, 2026 05:19am): ぼく1日でエリート
 - **フェットチーネしか勝たん** (Apr 20, 2026 11:14am): ブロスタってどんなゲーム？　名前は聞いたことある
@@ -4385,6 +4445,7 @@
 - **カワセミ** (Apr 24, 2026 02:09am):  Sex
 - **GP** (Apr 24, 2026 02:48am): やめろ
 - **GP** (Apr 24, 2026 02:48am): ｗｗ
+- **忍者めししか勝たん** (Apr 24, 2026 01:10pm): 学校のタブレットでしてます！ｗ
 
 #### Additional Information
 - **Post color:** Black
