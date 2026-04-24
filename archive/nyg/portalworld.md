@@ -1,4 +1,4 @@
-最終更新: 2026/04/24 08:47:31
+最終更新: 2026/04/24 11:44:36
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 125
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Apr 22, 2026 10:25am
+- **Updated At (UTC):** Apr 24, 2026 02:06am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -193,6 +193,9 @@
 **モデレーター数:** 非公開
 
 [Attachment 1](https://padlet.com/padlets/o8s4n3gjy0pv20sq)
+
+#### Comments (1)
+- **www** (Apr 24, 2026 02:07am): https://padlet.com/1234123412345/padlet-1uo9gpkiei24qmmm
 
 #### Additional Information
 - **Post color:** White
@@ -1881,6 +1884,9 @@
 
 [Attachment 1](https://zep.us/play/XW0NMG)
 
+#### Comments (1)
+- **www** (Apr 24, 2026 02:06am): https://padlet.com/1234123412345/padlet-1uo9gpkiei24qmmm
+
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Nov 24, 2024 11:31am
@@ -2814,7 +2820,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1777592851&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Tkp4iO2G%2BjDuQVUlaRv8RkfmjFeGM4YDk%2B0HhQLM3rMR8nC9hYvGd3Bw1BbYAkbYrI%2BegzBP0aPkhMu2JJ%2FVX48JgfkpImvcQn7ypX5D3U6XZul2%2FNsXQMelXl8wL0myidjngySdwZC%2FUHQ4Ksen%2FYE1zadYqfrlovTAta9NJzs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1777603476&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bakiTy97p2I%2ByLNtfjEMLCGeDn1r3cg%2BQC8WBxtNawCt8ChuaRKX3cGHdegvOw%2Ff5GOmpf2hGwsyB4TEzgS6MbO3iBLN7fMtLoscizsXa%2Fmn%2BoUIkIzqhKoIqkbl8ClQZuKMZKQfowVN4E%2FUmVqOorP3DCys4mJqAf4moEEsPKM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて

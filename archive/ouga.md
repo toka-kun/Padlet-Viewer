@@ -1,15 +1,15 @@
-最終更新: 2026/04/24 08:48:01
+最終更新: 2026/04/24 11:45:22
 
 # みんなで協力すればアイフィルターなんて怖くない
 
-規模で言えば3位くらいだと思いますもっともりあげて1位目指しましょう
+受験で忙しくなるのでたいちさんに引き継いでもらいます
 
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 163
+- **Posts:** 166
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 23, 2026 11:43pm
+- **Updated At (UTC):** Apr 24, 2026 02:44am
 
 ## 管理者　連絡
 
@@ -31,7 +31,20 @@
 
 ---
 
-### 3. 最近楽しいこと
+### 3. じゃあみんなバイバイ！
+**Author:** おうが (18jt026)
+
+#### Comments (2)
+- **おうが** (Apr 24, 2026 01:26am): めっちゃ悲しいけど消すよりはいいと思いました！
+- **おうが** (Apr 24, 2026 01:26am): これからも頑張ってね！！！！
+
+#### Additional Information
+- **Created At (UTC):** Apr 24, 2026 01:25am
+- **Updated At (UTC):** Apr 24, 2026 01:25am
+
+---
+
+### 4. 最近楽しいこと
 **Author:** あかさたな
 
 #### Additional Information
@@ -40,7 +53,7 @@
 
 ---
 
-### 4. 管理者ください
+### 5. 管理者ください
 **Author:** Sky (hoangquipquip)
 
 #### Comments (3)
@@ -54,7 +67,7 @@
 
 ---
 
-### 5. ルール　暴言、性的な言動、個人情報の流出はモデレーターに削除してもらいます　掲示板以外に宣伝したコメントは全て削除　　みんな仲良く楽しんでください！！
+### 6. ルール　暴言、性的な言動、個人情報の流出はモデレーターに削除してもらいます　掲示板以外に宣伝したコメントは全て削除　　みんな仲良く楽しんでください！！
 **Author:** おうが (18jt026)
 
 #### Comments (4)
@@ -69,7 +82,7 @@
 
 ---
 
-### 6. 最近みんな見てくれない、、、何かダメなところとかある？
+### 7. 最近みんな見てくれない、、、何かダメなところとかある？
 **Author:** おうが (18jt026)
 
 #### Comments (10)
@@ -90,7 +103,7 @@
 
 ---
 
-### 7. モデレーターなってくれる人募集しますメリットは自分の鯖を宣伝できる投稿ができるして欲しいことは荒らしのコメントをどんどん消してほしい
+### 8. モデレーターなってくれる人募集しますメリットは自分の鯖を宣伝できる投稿ができるして欲しいことは荒らしのコメントをどんどん消してほしい
 **Author:** おうが (18jt026)
 
 #### Comments (18)
@@ -119,7 +132,7 @@
 
 ---
 
-### 8. hiro mc6881この人荒らし
+### 9. hiro mc6881この人荒らし
 **Author:** おうが (18jt026)
 
 #### Comments (5)
@@ -135,7 +148,7 @@
 
 ---
 
-### 9. モデレーターになった方は暴言、誹謗中傷、個人情報などのコメントはじゃんじゃん消してください！！自分の鯖を紹介したい人は1つだけなら投稿okそれ以上は僕が消しますそしてモデから消しますそれだけは守ってください
+### 10. モデレーターになった方は暴言、誹謗中傷、個人情報などのコメントはじゃんじゃん消してください！！自分の鯖を紹介したい人は1つだけなら投稿okそれ以上は僕が消しますそしてモデから消しますそれだけは守ってください
 **Author:** おうが (18jt026)
 
 #### Comments (3)
@@ -149,7 +162,7 @@
 
 ---
 
-### 10. みんなさんのおかげで大きくなってきました！！荒らしとかが怖くなってきたので夜の10時からあさの9時くらいまで凍結さしていただきますご了承ください🙏
+### 11. みんなさんのおかげで大きくなってきました！！荒らしとかが怖くなってきたので夜の10時からあさの9時くらいまで凍結さしていただきますご了承ください🙏
 **Author:** おうが (18jt026)
 
 #### Comments (2)
@@ -162,7 +175,7 @@
 
 ---
 
-### 11. こんにちは！管理者のおうがですここでは仲良く情報共有などができればいいなと思っています！！みなさん拡散お願いします
+### 12. こんにちは！管理者のおうがですここでは仲良く情報共有などができればいいなと思っています！！みなさん拡散お願いします
 **Author:** おうが (18jt026)
 
 #### Comments (21)
@@ -201,10 +214,10 @@
 
 **どっち派？:**
 - **きのこの山:** 83 votes
-- **たけのこの里:** 78 votes
-- **ドウデモイイ:** 19 votes
+- **たけのこの里:** 80 votes
+- **ドウデモイイ:** 20 votes
 
-#### Comments (22)
+#### Comments (23)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
 - **ｸﾎﾞｲｯﾀ** (Mar 29, 2026 10:19pm): もう…きのこだ、たけのこだなんて争わないでいいじゃん…きのこの勝ちでいいじゃん…
 - **たいち** (Mar 30, 2026 01:07am): きのこだな
@@ -227,10 +240,11 @@
 - **たいち** (Apr 18, 2026 12:00pm): だなｗ
 - **天才くん** (Apr 19, 2026 10:29pm): きのこオー
 - **FNF楽しい** (Apr 23, 2026 07:49am): きのこ
+- **GP** (Apr 24, 2026 01:01am): きのこーーーーーーーーーーーーーーーーーーーーーーー
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 23, 2026 03:27pm
+- **Updated At (UTC):** Apr 24, 2026 02:43am
 
 ---
 
@@ -295,7 +309,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777592879&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=efYLBb4XfN8Rxa2ALkcvgXYJbirg9aFug1F9%2FIsFqZghyUI2%2B0rKFbs9GaTM84dptvf%2F1rf6ecO2YzVcn3S9j5sqt7roYtU7FftuLqZ1AERTWfk%2FNkfPdI%2BMv1nht1VMZDiFBIzbRyGO7zmHiMnz9X7cOiiPKo1XHTwZMjccC7g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777603518&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VI9%2BDHjehSKu%2FZLCCcxoj8Y0tH3qIfSlJ%2BXq2akK3xMmmhhRI3beIQzAja8Dtpvad%2BQx3fqvyiVdqrr2bI46ThXjc2D2VqeUIYbwt3v2RdoBCal49DH1eB5FDKLCBQrMUHlL1CYQC76Bt9epasDmxblc7P3E0zpKPwwGfbBEUVc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -746,16 +760,28 @@
 
 ## 訪問者数＋閲覧数
 
-### 1. 12時までにメアド乗せて
+### 1. たいちさんにきまりました！
 **Author:** おうが (18jt026)
 
+#### Comments (1)
+- **おうが** (Apr 24, 2026 01:21am): おめでとうございます！
+
 #### Additional Information
-- **Created At (UTC):** Apr 23, 2026 11:00pm
-- **Updated At (UTC):** Apr 23, 2026 11:00pm
+- **Created At (UTC):** Apr 24, 2026 01:21am
+- **Updated At (UTC):** Apr 24, 2026 01:21am
 
 ---
 
-### 2. ルーレット結果！！yoloさんに決定！！！！
+### 2. 来る気配無いので回します
+**Author:** おうが (18jt026)
+
+#### Additional Information
+- **Created At (UTC):** Apr 24, 2026 01:21am
+- **Updated At (UTC):** Apr 24, 2026 01:21am
+
+---
+
+### 3. ルーレット結果！！yoloさんに決定！！！！
 **Author:** おうが (18jt026)
 
 #### Comments (8)
@@ -774,7 +800,7 @@
 
 ---
 
-### 3. 閲覧数10000突破！！イベント開催します！
+### 4. 閲覧数10000突破！！イベント開催します！
 **Author:** おうが (18jt026)
 
 #### Comments (7)
@@ -792,7 +818,7 @@
 
 ---
 
-### 4. 閲覧数10000でイベント開催します
+### 5. 閲覧数10000でイベント開催します
 **Author:** おうが (18jt026)
 
 #### Comments (1)
@@ -804,7 +830,7 @@
 
 ---
 
-### 5. 3000人と9000回突破
+### 6. 3000人と9000回突破
 **Author:** おうが (18jt026)
 
 #### Comments (3)
@@ -818,7 +844,7 @@
 
 ---
 
-### 6. 後ちょいで3000人と9000回www
+### 7. 後ちょいで3000人と9000回www
 **Author:** おうが (18jt026)
 
 #### Comments (7)
@@ -836,7 +862,7 @@
 
 ---
 
-### 7. 参加の方はこちらに
+### 8. 参加の方はこちらに
 **Author:** おうが (18jt026)
 
 #### Comments (9)
@@ -856,7 +882,7 @@
 
 ---
 
-### 8. 今の参加者さん
+### 9. 今の参加者さん
 **Author:** おうが (18jt026)
 
 <p>たいちさん　yoloさん　<strong>ky1732050808さん</strong></p>
@@ -867,7 +893,7 @@
 
 ---
 
-### 9. 名前変えてもいっすか
+### 10. 名前変えてもいっすか
 **Author:** たいち (r0300353)
 
 #### Comments (5)
@@ -883,7 +909,7 @@
 
 ---
 
-### 10. Post 10
+### 11. Post 11
 **Author:** おうが (18jt026)
 
 [Attachment 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
@@ -897,7 +923,7 @@
 
 ---
 
-### 11. 閲覧数6000回突破　訪問者数2000人突破
+### 12. 閲覧数6000回突破　訪問者数2000人突破
 **Author:** おうが (18jt026)
 
 <p>えぐ主義ー</p>
@@ -913,7 +939,7 @@
 
 ---
 
-### 12. 閲覧数3000！！🥳
+### 13. 閲覧数3000！！🥳
 **Author:** おうが (18jt026)
 
 #### Comments (10)
@@ -938,7 +964,7 @@
 
 ---
 
-### 13. 1000人いきました！！！！！
+### 14. 1000人いきました！！！！！
 **Author:** おうが (18jt026)
 
 #### Comments (7)
@@ -956,7 +982,7 @@
 
 ---
 
-### 14. 2時時点訪問者数　810人　閲覧回数2100回
+### 15. 2時時点訪問者数　810人　閲覧回数2100回
 **Author:** おうが (18jt026)
 
 #### Comments (10)
@@ -977,7 +1003,7 @@
 
 ---
 
-### 15. 2時時点訪問人数　750人越え　閲覧数　1800
+### 16. 2時時点訪問人数　750人越え　閲覧数　1800
 **Author:** おうが (18jt026)
 
 #### Comments (3)
@@ -991,7 +1017,7 @@
 
 ---
 
-### 16. 午後3時時点　訪問者数600     閲覧数1500
+### 17. 午後3時時点　訪問者数600     閲覧数1500
 **Author:** おうが (18jt026)
 
 <p>　　　　　　　　</p>
@@ -1008,7 +1034,7 @@
 
 ---
 
-### 17. 閲覧数1000行ってた！！
+### 18. 閲覧数1000行ってた！！
 **Author:** おうが (18jt026)
 
 #### Comments (3)
@@ -1022,7 +1048,7 @@
 
 ---
 
-### 18. 目標の半分500人きちゃーー
+### 19. 目標の半分500人きちゃーー
 **Author:** おうが (18jt026)
 
 #### Additional Information
@@ -1031,7 +1057,7 @@
 
 ---
 
-### 19. 次は1000人目指します
+### 20. 次は1000人目指します
 **Author:** おうが (18jt026)
 
 #### Comments (6)
@@ -1048,7 +1074,7 @@
 
 ---
 
-### 20. 300人いきましたーーkamiさん早く体調なおって
+### 21. 300人いきましたーーkamiさん早く体調なおって
 **Author:** おうが (18jt026)
 
 #### Comments (6)
@@ -1065,7 +1091,7 @@
 
 ---
 
-### 21. 今日で300人行くかも！！拡散お願いします🥺
+### 22. 今日で300人行くかも！！拡散お願いします🥺
 **Author:** おうが (18jt026)
 
 #### Comments (2)
@@ -1078,7 +1104,7 @@
 
 ---
 
-### 22. 250人いきましたーーあと50人だーー
+### 23. 250人いきましたーーあと50人だーー
 **Author:** おうが (18jt026)
 
 #### Comments (2)
@@ -1091,7 +1117,7 @@
 
 ---
 
-### 23. 起きて見てみたら200人突破ーーーーー！！！
+### 24. 起きて見てみたら200人突破ーーーーー！！！
 **Author:** おうが (18jt026)
 
 #### Comments (6)
@@ -1108,7 +1134,7 @@
 
 ---
 
-### 24. 訪問者数100人行きました！！！！！皆さんありがとうございます！！次の目標は皆さんに決めていただきたいです
+### 25. 訪問者数100人行きました！！！！！皆さんありがとうございます！！次の目標は皆さんに決めていただきたいです
 **Author:** おうが (18jt026)
 
 #### Comments (2)
@@ -1121,7 +1147,7 @@
 
 ---
 
-### 25. 訪問者数90！！あと10人で目標達成拡散お願いします🙇
+### 26. 訪問者数90！！あと10人で目標達成拡散お願いします🙇
 **Author:** おうが (18jt026)
 
 #### Comments (2)
@@ -1134,7 +1160,7 @@
 
 ---
 
-### 26. あと40人で100人！！
+### 27. あと40人で100人！！
 **Author:** おうが (18jt026)
 
 #### Additional Information
@@ -1143,7 +1169,7 @@
 
 ---
 
-### 27. 50人突破！！！！！！！100人までの半分どんどん拡散お願いします！！
+### 28. 50人突破！！！！！！！100人までの半分どんどん拡散お願いします！！
 **Author:** おうが (18jt026)
 
 #### Additional Information
@@ -1152,7 +1178,7 @@
 
 ---
 
-### 28. 気がついたら40人超えてました！本当にありがとうございます！
+### 29. 気がついたら40人超えてました！本当にありがとうございます！
 **Author:** おうが (18jt026)
 
 #### Comments (2)
@@ -1165,7 +1191,7 @@
 
 ---
 
-### 29. 30人突破‼️100人まで突っ走りましょう
+### 30. 30人突破‼️100人まで突っ走りましょう
 **Author:** おうが (18jt026)
 
 #### Additional Information
@@ -1174,7 +1200,7 @@
 
 ---
 
-### 30. 30人突破‼️祝
+### 31. 30人突破‼️祝
 **Author:** おうが (18jt026)
 
 #### Comments (1)
@@ -1186,7 +1212,7 @@
 
 ---
 
-### 31. 15人突破‼️
+### 32. 15人突破‼️
 **Author:** おうが (18jt026)
 
 #### Additional Information
@@ -1195,7 +1221,7 @@
 
 ---
 
-### 32. 訪問者
+### 33. 訪問者
 **Author:** おうが (18jt026)
 
 <p>あと7人で30人突破！</p><p><br/></p>
@@ -1429,7 +1455,7 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777592880&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=t%2BuBXTZSdUrDbHtTqP7Ng0FpsklFJZMKtIUD82MbvcJVEXWvn21FkryKD%2FoRi2BZ5h4SZzgPNxxfs1Zoo8tU10gkNu35KpYgzyehzzsFjk2c8lhtKTV%2BsKUVt8pr40uzS94Bs41P5raKEKwxfLvREjUmuyvuSEOSKZBERrOL29s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777603519&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bDf6EU%2BRptfcamYnM1mMt1PO82q25DU3YGLnlIhJwqSHgAGJ3x24BH0%2FZJsUGEKGlQBY1lgOx%2BEP74ileXdJI52VP5M6CiH%2FhiyCzPMZxa5NaoWxvXgyZLJmXNjtXCictfmnEyW3TWWgGsp%2FXmvUV4WSIPosExv3GA61J6Z95SQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (15)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -3787,7 +3813,18 @@
 
 ## プロキシ
 
-### 1. 使いもんならんが
+### 1. 誰か
+**Author:** ビッチお断り
+
+<p>アイフィルターでも使える有能サイト教えて〜</p><p><br/></p>
+
+#### Additional Information
+- **Created At (UTC):** Apr 24, 2026 01:14am
+- **Updated At (UTC):** Apr 24, 2026 01:14am
+
+---
+
+### 2. 使いもんならんが
 **Author:** Kick (daikisabu1225)
 
 <p><a rel="noopener noreferrer nofollow" href="https://proxy-biwako.vercel.app/">https://proxy-biwako.vercel.app/</a>一応自作プロキシのデモ版多分アプデしないけどもしかしたら気が向いたらするかも。botブロッカー入ってるサイトほぼ入れないし、多分バグることもあるかもしれんけど許してちょ。まぁ生きてるプロキシ持ってない人が使ってくれ</p>
@@ -3810,7 +3847,7 @@
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** やまにつつ (yamanitsutsu)
 
 [Attachment 1](https://www-q.nolife.uk/)
@@ -3825,7 +3862,7 @@
 
 ---
 
-### 3. これもよろしく
+### 4. これもよろしく
 **Author:** ky1732050808
 
 <p><a rel="noopener noreferrer nofollow" href="https://www-q.nolife.uk/">https://www-q.nolife.uk/</a></p>
@@ -3840,7 +3877,7 @@
 
 ---
 
-### 4. これマジでおすすめ
+### 5. これマジでおすすめ
 **Author:** ky1732050808
 
 [Attachment 1](https://www-reflect4.buachi.work)
@@ -3856,7 +3893,7 @@
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** おうが (18jt026)
 
 [Attachment 1](https://subscribe-vcsa.mrwheeler.uk/)
@@ -3877,7 +3914,7 @@
 
 ---
 
-### 6. ぷりーずみー2v2io
+### 7. ぷりーずみー2v2io
 **Author:** ワイ君
 
 <p>たのむッ</p>
@@ -3888,7 +3925,7 @@
 
 ---
 
-### 7. youtube見れるプロキシサイト教えて
+### 8. youtube見れるプロキシサイト教えて
 **Author:** フェットチーネしか勝つ
 
 #### Comments (2)
@@ -3901,7 +3938,7 @@
 
 ---
 
-### 8. 作ったよー
+### 9. 作ったよー
 **Author:** おうが (18jt026)
 
 #### Comments (15)
@@ -3927,7 +3964,7 @@
 
 ---
 
-### 9. Post 9
+### 10. Post 10
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://precalc.k22.su/)
@@ -3938,7 +3975,7 @@
 
 ---
 
-### 10. Post 10
+### 11. Post 11
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://sharethisshadow.easterndns.com/)
@@ -3956,7 +3993,7 @@
 
 <p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>
 
-#### Comments (19)
+#### Comments (21)
 - **おうが** (Mar 16, 2026 02:19am): 何でも言ってください
 - **おうが** (Mar 16, 2026 02:20am): 話聞きます！
 - **こnにちは** (Mar 16, 2026 04:09am): スマホの時間制限が15分🥺
@@ -3976,6 +4013,8 @@
 - **Fortnite廃課金者** (Mar 19, 2026 05:10am): 正直女の子が厨二病になるイメージないけど
 - **Fortnite廃課金者** (Mar 19, 2026 05:10am): あるにはあるんだ
 - **おうが** (Mar 19, 2026 12:13pm): お姉ちゃん何年生？
+- **GP** (Apr 24, 2026 02:28am): 中３
+- **GP** (Apr 24, 2026 02:28am): はろー
 
 #### Additional Information
 - **Created At (UTC):** Mar 16, 2026 02:19am
@@ -4023,12 +4062,14 @@
 ### 1. ブロスタしてる子いますか
 **Author:** アメリカ税務署管理者
 
-#### Comments (5)
+#### Comments (7)
 - **ハネノキ** (Apr 17, 2026 12:31pm): 僕してます
 - **こnにちは** (Apr 19, 2026 05:19am): ぼく1日でエリート
 - **フェットチーネしか勝たん** (Apr 20, 2026 11:14am): ブロスタってどんなゲーム？　名前は聞いたことある
 - **ハジメマシテヨコタデス** (Apr 21, 2026 07:59am): 自分初心者ですけどやってます
 - **おうが** (Apr 23, 2026 01:39am): してるよー！！
+- **カワセミ** (Apr 24, 2026 02:09am): Sex  
+- **カワセミ** (Apr 24, 2026 02:09am):  Sex
 
 #### Additional Information
 - **Created At (UTC):** Apr 17, 2026 01:10am
@@ -4039,7 +4080,7 @@
 ### 2. してる子話そ
 **Author:** おうが (18jt026)
 
-#### Comments (87)
+#### Comments (91)
 - **かっっぱ** (Feb 19, 2026 04:46am): ブロフルってなんですか？
 - **おうが** (Feb 19, 2026 06:03am): ロブロックス　ブロフルって調べてみてやってみて
 - **玲吏** (Feb 19, 2026 07:59am): やってますよ
@@ -4127,6 +4168,10 @@
 - **GP** (Apr 23, 2026 06:03am): もうこないからねー
 - **GP** (Apr 23, 2026 06:03am): ｗｗ
 - **天才くん** (Apr 23, 2026 12:01pm): www wwwっっっw
+- **GP** (Apr 24, 2026 12:55am): もう来ないからねー「２回目」
+- **ビッチお断り** (Apr 24, 2026 01:15am): 誰か暇つぶしさせて 
+- **GP** (Apr 24, 2026 02:22am): いいよー
+- **GP** (Apr 24, 2026 02:44am): 暇暇暇暇暇暇暇暇暇暇暇暇暇
 
 #### Additional Information
 - **Created At (UTC):** Feb 18, 2026 03:14am

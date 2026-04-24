@@ -1,4 +1,4 @@
-最終更新: 2026/04/23 16:56:37
+最終更新: 2026/04/24 11:44:54
 
 # 規制解除委員会(ライター受付)
 
@@ -141,7 +141,7 @@
 [Attachment 1](https://padlet.com/tiktok_yuta_ahirukunndayo)
 
 #### Comments (1)
-- **おでん三兄弟　＃あほ4人組　＃黒帯所持者　　＃ZETA・してたんぽ推し** (Apr 23, 2026 06:42am): かわいそ
+- **おでん三兄弟　＃あほ4人組　＃ZETA・してたんぽ推し** (Apr 23, 2026 06:42am): かわいそ
 
 #### Additional Information
 - **Created At (UTC):** Apr 11, 2026 10:01am
