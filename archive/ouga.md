@@ -1,4 +1,4 @@
-最終更新: 2026/04/24 11:45:22
+最終更新: 2026/04/24 14:36:49
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 166
+- **Posts:** 168
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 24, 2026 02:44am
+- **Updated At (UTC):** Apr 24, 2026 03:30am
 
 ## 管理者　連絡
 
@@ -178,7 +178,7 @@
 ### 12. こんにちは！管理者のおうがですここでは仲良く情報共有などができればいいなと思っています！！みなさん拡散お願いします
 **Author:** おうが (18jt026)
 
-#### Comments (21)
+#### Comments (22)
 - **imaizumi** (Feb 17, 2026 05:28am): わｋあった‼️
 - **おうが** (Feb 17, 2026 05:37am): ありがとうございます😊
 - **たいち** (Feb 26, 2026 05:17am): ユーチューバーなの！？
@@ -200,6 +200,7 @@
 - **ウォーターチャレンジ** (Mar 12, 2026 02:26am): こんちゃ
 - **ウォーターチャレンジ** (Mar 12, 2026 02:50am): お返事頂戴
 - **ウォーターチャレンジ** (Mar 12, 2026 06:23am): よろ。
+- **GP** (Apr 24, 2026 03:06am): haro-
 
 #### Additional Information
 - **Created At (UTC):** Feb 17, 2026 03:19am
@@ -213,9 +214,9 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 83 votes
+- **きのこの山:** 84 votes
 - **たけのこの里:** 80 votes
-- **ドウデモイイ:** 20 votes
+- **ドウデモイイ:** 21 votes
 
 #### Comments (23)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
@@ -244,11 +245,33 @@
 
 #### Additional Information
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 24, 2026 02:43am
+- **Updated At (UTC):** Apr 24, 2026 04:14am
 
 ---
 
-### 2. 暇な人はなそ
+### 2. 規制キモい
+**Author:** 匿名
+
+<p>規制突破したい</p>
+
+#### Additional Information
+- **Created At (UTC):** Apr 24, 2026 03:30am
+- **Updated At (UTC):** Apr 24, 2026 03:30am
+
+---
+
+### 3. Post 3
+**Author:** GP (21070045_2)
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777613806&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=InG7yhAYaUVi9CNZLSIIe8OgnPPhSybs2shv2bbQWqQdQ8qpZCxLuIkgjxYPye6e9pVPTyqtDbyEI%2F42OZ9YiSVKz2N77prABoT7kMv%2FSJIML1sI%2BKe8l2xnzuXuUdX3bAnkndGeAeCuHVQ1W1jq7Qi%2FIXeGYssRcuBCQpHiqq0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+
+#### Additional Information
+- **Created At (UTC):** Apr 24, 2026 03:01am
+- **Updated At (UTC):** Apr 24, 2026 03:01am
+
+---
+
+### 4. 暇な人はなそ
 **Author:** あ (killernya)
 
 <p>だれかはなそ</p>
@@ -265,7 +288,7 @@
 
 ---
 
-### 3. 質問してもいいですか？
+### 5. 質問してもいいですか？
 **Author:** お文具と一緒 (gs196100)
 
 #### Comments (1)
@@ -277,7 +300,7 @@
 
 ---
 
-### 4. 桃鉄がしたいんです！！
+### 6. 桃鉄がしたいんです！！
 **Author:** ハルマチ
 
 <p>教えてください。</p>
@@ -288,7 +311,7 @@
 
 ---
 
-### 5. Post 5
+### 7. Post 7
 **Author:** カワツユ
 
 [Attachment 1](https://edu.50friends.com.mx)
@@ -304,12 +327,12 @@
 
 ---
 
-### 6. Youtubeダウンローダー誰かくれぇぇぇぇぇぇ
+### 8. Youtubeダウンローダー誰かくれぇぇぇぇぇぇ
 **Author:** smdjr07083 (smdjr07083)
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777603518&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VI9%2BDHjehSKu%2FZLCCcxoj8Y0tH3qIfSlJ%2BXq2akK3xMmmhhRI3beIQzAja8Dtpvad%2BQx3fqvyiVdqrr2bI46ThXjc2D2VqeUIYbwt3v2RdoBCal49DH1eB5FDKLCBQrMUHlL1CYQC76Bt9epasDmxblc7P3E0zpKPwwGfbBEUVc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777613806&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Ge2W6XF00WMk9Ti%2B8%2FCDim9ZarFW6mdQxJCqEICVU45MspCznLoufw9zzyWRVNl63c3SRpk9mq1%2BRbWylI4YbJSs1py4q7nvsDFpeuWnj%2Bn9hzcd2uv5%2BPVNDXjSENePXNLylPbjMSz71yY1v8pyMI3YZcQrlRds%2F9fFPra825M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Created At (UTC):** Apr 01, 2026 01:20am
@@ -317,7 +340,7 @@
 
 ---
 
-### 7. こんにちは
+### 9. こんにちは
 **Author:** 暴走パンダ (8888800811117777)
 
 #### Comments (1)
@@ -329,7 +352,7 @@
 
 ---
 
-### 8. わかめチューブのサイト載せてください。
+### 10. わかめチューブのサイト載せてください。
 **Author:** あかさたな
 
 #### Comments (1)
@@ -341,7 +364,7 @@
 
 ---
 
-### 9. 最近楽しいこと
+### 11. 最近楽しいこと
 **Author:** あかさたな
 
 #### Comments (4)
@@ -360,7 +383,7 @@
 
 ---
 
-### 10. もうすぐ卒業式ですね。６年生の人は頑張れ
+### 12. もうすぐ卒業式ですね。６年生の人は頑張れ
 **Author:** たいち (r0300353)
 
 #### Comments (10)
@@ -381,7 +404,7 @@
 
 ---
 
-### 11. Post 11
+### 13. Post 13
 **Author:** ヒカル
 
 <p>みんな僕の紹介見たらコメントしてくれると嬉しいな</p><p>ちなみに僕は今ピクミン４にはまってます</p>
@@ -395,7 +418,7 @@
 
 ---
 
-### 12. Post 12
+### 14. Post 14
 **Author:** ヒカル
 
 <p>僕ログインしてないからアイコン代わるけど</p><p>名前で判断して下さい</p><p><br/></p>
@@ -406,7 +429,7 @@
 
 ---
 
-### 13. みんなに質問があります。
+### 15. みんなに質問があります。
 **Author:** ヒカル
 
 <p>こちらのサイトは個人情報大丈夫かな？</p>
@@ -421,7 +444,7 @@
 
 ---
 
-### 14. よろしくー
+### 16. よろしくー
 **Author:** ヒカル
 
 <p>初めてだけど見るからにみんないい人！</p><p><br/></p>
@@ -432,7 +455,7 @@
 
 ---
 
-### 15. こんにちは
+### 17. こんにちは
 **Author:** aaabbbccc (mazamaza)
 
 <p>ゲームのところに色々載せときました</p><p>i-フィルター練馬区です</p>
@@ -446,7 +469,7 @@
 
 ---
 
-### 16. こんにちは！元気な小学生です！何卒よろしくお願いします。
+### 18. こんにちは！元気な小学生です！何卒よろしくお願いします。
 **Author:** series227urara 岡山行 (kontikuwa)
 
 <p>YouTubeやってるので良かったら、チャンネル登録と高評価よほうをお願いします！！</p>
@@ -466,7 +489,7 @@
 
 ---
 
-### 17. ハロー
+### 19. ハロー
 **Author:** Benevolent Squirrel
 
 #### Additional Information
@@ -475,7 +498,7 @@
 
 ---
 
-### 18. 今のモデレーター　たいちさん
+### 20. 今のモデレーター　たいちさん
 **Author:** おうが (18jt026)
 
 #### Comments (1)
@@ -487,10 +510,13 @@
 
 ---
 
-### 19. Post 19
+### 21. Post 21
 **Author:** タムラチヒロ (21070046)
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=nutgxBlWQ7Y)
+
+#### Comments (1)
+- **GP** (Apr 24, 2026 03:00am): ちひろなにしてるの？
 
 #### Additional Information
 - **Created At (UTC):** Mar 13, 2026 05:20am
@@ -498,10 +524,10 @@
 
 ---
 
-### 20. 自己紹介してね
+### 22. 自己紹介してね
 **Author:** おうが (18jt026)
 
-#### Comments (249)
+#### Comments (251)
 - **Anonymous** (Feb 17, 2026 12:56am): こんにちは
 - **おうが** (Feb 17, 2026 01:12am): こんにちは！
 - **おうが** (Feb 17, 2026 01:12am): 広めてくれたら嬉しいです！！！
@@ -751,6 +777,8 @@
 - **ザリザリ** (Mar 14, 2026 02:51pm): 初めましてよろしくお願いします！
 - **アベンジャーズ** (Mar 15, 2026 07:16am): よろしくお願いします
 - **GP** (Mar 18, 2026 03:01am): よろしくお願いします
+- **GP** (Apr 24, 2026 03:03am): https://n-shrljd3wwjflppd4a75xrgjukdd5gaji335oh6a-0lu-script.googleusercontent.com/watch?v=dDtYCha7vvI
+- **GP** (Apr 24, 2026 03:03am): 多分入れん
 
 #### Additional Information
 - **Created At (UTC):** Feb 16, 2026 11:50pm
@@ -1455,7 +1483,7 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777603519&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bDf6EU%2BRptfcamYnM1mMt1PO82q25DU3YGLnlIhJwqSHgAGJ3x24BH0%2FZJsUGEKGlQBY1lgOx%2BEP74ileXdJI52VP5M6CiH%2FhiyCzPMZxa5NaoWxvXgyZLJmXNjtXCictfmnEyW3TWWgGsp%2FXmvUV4WSIPosExv3GA61J6Z95SQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777613807&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JzxxqYnvSp%2Fja7J5I6GzJ%2Bbv6XfA2z%2F%2BTsevPLYw70G7AvCZ0KkaIy8X3xt2o9qneDpFuKgUVuPPozagiSXg%2F9Q4P5eG7iHgeYLuv2J1cKnO9oJ1QCcyRsV5QjLkSm6pzZRJVt%2F9DhtXgoptJT6HUwlYeWL61ZbvAeea8CdKS3o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (15)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -3953,9 +3981,9 @@
 - **おうが** (Mar 18, 2026 11:51pm): そだねwww
 - **俺だぞ〜（三橋）** (Mar 19, 2026 12:00am): ロブロックスできるよ
 - **俺だぞ〜（三橋）** (Mar 19, 2026 12:02am): https://music4fun.isoluxltda.clこれでロブロックス検索してログインかアカウント作成してできる
-- **ドジャース好き** (Mar 21, 2026 04:03am): 使えなくなったから誰か新しいの頼む
+- **増田** (Mar 21, 2026 04:03am): 使えなくなったから誰か新しいの頼む
 - **おうが** (Mar 22, 2026 11:10am): 上のロブロのやつ開けるけどどうやって使うかわからない説明求む
-- **Ry___** (Apr 08, 2026 12:28pm): dekinaaaai
+- **KAsiuuuuu** (Apr 08, 2026 12:28pm): dekinaaaai
 - **ビッチはお断り** (Apr 23, 2026 01:25am): アイフィルターで使えるゲーム動画サイトください 
 
 #### Additional Information
@@ -4025,8 +4053,9 @@
 ### 2. スマホ親に奪われた
 **Author:** でんじろー先生愛してる❤️
 
-#### Comments (1)
+#### Comments (2)
 - **おうが** (Apr 23, 2026 01:40am): どんまい
+- **GP** (Apr 24, 2026 02:50am): 大丈夫そうじゃない
 
 #### Additional Information
 - **Created At (UTC):** Apr 19, 2026 09:55am
@@ -4038,7 +4067,7 @@
 **Author:** るか (r0137776)
 
 #### Comments (12)
-- **ドジャース好き** (Mar 21, 2026 04:04am): Me too
+- **増田** (Mar 21, 2026 04:04am): Me too
 - **たいち** (Mar 21, 2026 12:28pm): me too2
 - **たいち** (Mar 22, 2026 05:24am): 英語あってんのか？これ
 - **おうが** (Mar 22, 2026 11:08am): meet to
@@ -4062,7 +4091,7 @@
 ### 1. ブロスタしてる子いますか
 **Author:** アメリカ税務署管理者
 
-#### Comments (7)
+#### Comments (9)
 - **ハネノキ** (Apr 17, 2026 12:31pm): 僕してます
 - **こnにちは** (Apr 19, 2026 05:19am): ぼく1日でエリート
 - **フェットチーネしか勝たん** (Apr 20, 2026 11:14am): ブロスタってどんなゲーム？　名前は聞いたことある
@@ -4070,6 +4099,8 @@
 - **おうが** (Apr 23, 2026 01:39am): してるよー！！
 - **カワセミ** (Apr 24, 2026 02:09am): Sex  
 - **カワセミ** (Apr 24, 2026 02:09am):  Sex
+- **GP** (Apr 24, 2026 02:48am): やめろ
+- **GP** (Apr 24, 2026 02:48am): ｗｗ
 
 #### Additional Information
 - **Created At (UTC):** Apr 17, 2026 01:10am
@@ -4080,7 +4111,7 @@
 ### 2. してる子話そ
 **Author:** おうが (18jt026)
 
-#### Comments (91)
+#### Comments (90)
 - **かっっぱ** (Feb 19, 2026 04:46am): ブロフルってなんですか？
 - **おうが** (Feb 19, 2026 06:03am): ロブロックス　ブロフルって調べてみてやってみて
 - **玲吏** (Feb 19, 2026 07:59am): やってますよ
@@ -4166,12 +4197,11 @@
 - **GP** (Apr 23, 2026 05:51am): おーいだれかー
 - **GP** (Apr 23, 2026 05:51am): 🥺
 - **GP** (Apr 23, 2026 06:03am): もうこないからねー
-- **GP** (Apr 23, 2026 06:03am): ｗｗ
 - **天才くん** (Apr 23, 2026 12:01pm): www wwwっっっw
 - **GP** (Apr 24, 2026 12:55am): もう来ないからねー「２回目」
 - **ビッチお断り** (Apr 24, 2026 01:15am): 誰か暇つぶしさせて 
 - **GP** (Apr 24, 2026 02:22am): いいよー
-- **GP** (Apr 24, 2026 02:44am): 暇暇暇暇暇暇暇暇暇暇暇暇暇
+- **GP** (Apr 24, 2026 02:45am): みんな何年生？
 
 #### Additional Information
 - **Created At (UTC):** Feb 18, 2026 03:14am
