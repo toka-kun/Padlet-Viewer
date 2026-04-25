@@ -1,4 +1,4 @@
-最終更新: 2026/04/25 17:54:46
+最終更新: 2026/04/25 23:42:37
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,16 +9,17 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 179
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 25, 2026 07:44am
+- **Updated At (UTC):** Apr 25, 2026 01:29pm
 
 ## 管理者　連絡
 
 ### 1. 管理者になりましたよろしくお願いします
 **Author:** たいち (r0300353)
 
-#### Comments (2)
+#### Comments (3)
 - **忍者めししか勝たん** (Apr 24, 2026 01:12pm): よろしくおねがいします
 - **フェットチーネしか勝たん** (Apr 24, 2026 01:28pm): よろしく
+- **28メガネ** (Apr 25, 2026 01:29pm): よろしくねぇぇぇぇぇｌ
 
 #### Additional Information
 - **Post color:** Black
@@ -95,7 +96,7 @@
 #### Comments (4)
 - **たいち** (Mar 04, 2026 01:04am): はい、頑張ります！
 - **おうが** (Mar 04, 2026 12:34pm): 👍
-- **田中　佐藤** (Mar 11, 2026 11:50am): おｋです
+- **kira** (Mar 11, 2026 11:50am): おｋです
 - **ドラゴンボール** (Mar 18, 2026 11:22pm): 分かりました
 
 #### Additional Information
@@ -243,11 +244,11 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 86 votes
-- **たけのこの里:** 86 votes
+- **きのこの山:** 87 votes
+- **たけのこの里:** 87 votes
 - **ドウデモイイ:** 22 votes
 
-#### Comments (23)
+#### Comments (25)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
 - **ｸﾎﾞｲｯﾀ** (Mar 29, 2026 10:19pm): もう…きのこだ、たけのこだなんて争わないでいいじゃん…きのこの勝ちでいいじゃん…
 - **たいち** (Mar 30, 2026 01:07am): きのこだな
@@ -271,11 +272,13 @@
 - **天才くん** (Apr 19, 2026 10:29pm): きのこオー
 - **FNF楽しい** (Apr 23, 2026 07:49am): きのこ
 - **GP** (Apr 24, 2026 01:01am): きのこーーーーーーーーーーーーーーーーーーーーーーー
+- **フェットチーネしか勝たん** (Apr 25, 2026 01:14pm): 投票数２００行くぞww
+- **フェットチーネしか勝たん** (Apr 25, 2026 01:15pm): てかちゃんとと同率なのおもろい
 
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 25, 2026 05:59am
+- **Updated At (UTC):** Apr 25, 2026 01:14pm
 
 ---
 
@@ -308,7 +311,7 @@
 ### 4. Post 4
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777712083&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KNQus6%2BXYqAS6%2FBooOwMHjseUcK%2Bfq2ditlUHg3wm91mknScW3Pk%2FH7rDxnvn30St%2FhEjzpckNfVjEQ2eBqtTSZSuhUEtbcWR%2FZbNHlsrGriXps5d6LxtvI1%2F4e%2FdqE8w5pTBhXq6MOC8EUexlTMBz%2B4nOvnwWNsihbVcWHfJxE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777732953&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZAhuFcFfSo94b%2BBdJrPRk2vUGz30nraSRA4OvSzGVCYjDvyARKcD6FrjXNAwXJoV8gM%2BE5x3qmBI2%2Bi8ide%2FAeIrfye0QUhe4Gqwr3UXzEmtgnt3a6kRtyiovrtPgq0RC9jNQ6ljiHAvMOR8Ud7FOEN1RKHiFXNZNIwxlU9HxRM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (1)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -385,7 +388,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777712083&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nLaPH5zQI9q23wc7XwDhYVBtO%2FFmLoDLaDQ6IGNrmXKCL83vS2ig9YaoWvDFEEVtUCgQpsha5qCRBl7VAfmZVCLntcOi8otMYKeMGMRtCN%2FwVq8h2ii%2FgYXibfCWrTJZBfs%2FXakKUUnozuB2lqxYpjdxu4ObzUbr%2B4jmGxT%2FUpI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777732953&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=C%2BIWE%2FTnyudiqYYw5wbkcIVivzUXlMD3UM%2F7gBf3DvKcEqe2t9LP66LnaNYiKaG6GBD2ajeoctWQtZLmmFKIMlmJa717qRMql3KpTX95EFR11PQ2IjOoVFrOhDoiioOIX8P4wDF1Vb73sHF100dxnxd%2FsAqJU4Xf0axjDiGtII0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -1064,7 +1067,7 @@
 - **ｸﾞﾊｯ　＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎　＃隼人の下僕** (Mar 06, 2026 05:45pm): すごくね？
 - **おうが** (Mar 08, 2026 12:52pm): あざっす！
 - **Anonymous** (Mar 09, 2026 01:21am): すごすぎ⁉︎
-- **田中　佐藤** (Mar 11, 2026 11:48am): 🙌
+- **kira** (Mar 11, 2026 11:48am): 🙌
 - **ふるさわさん** (Mar 11, 2026 10:43pm): すごいぜ
 
 #### Reactions
@@ -1088,7 +1091,7 @@
 - **とまとまと** (Mar 01, 2026 08:39am): おめでと〜！
 - **こnにちは** (Mar 01, 2026 10:56am): 訪問者数3000いってますよ〜！
 - **おうが** (Mar 01, 2026 11:18pm): ありがとうございます！！
-- **田中　佐藤** (Mar 11, 2026 11:49am): 🙌
+- **kira** (Mar 11, 2026 11:49am): 🙌
 
 #### Additional Information
 - **Post color:** Black
@@ -1110,7 +1113,7 @@
 - **萎えポニョ** (Feb 27, 2026 03:29pm): 訪問1000いきそう！
 - **萎えポニョ** (Feb 27, 2026 03:29pm): 閲覧3000いける！
 - **おうが** (Feb 28, 2026 01:15pm): ガチでみんなありがとう！！
-- **田中　佐藤** (Mar 11, 2026 11:49am): 🍕
+- **kira** (Mar 11, 2026 11:49am): 🍕
 
 #### Additional Information
 - **Post color:** Black
@@ -1125,7 +1128,7 @@
 #### Comments (3)
 - **星クッキー** (Feb 25, 2026 10:07am): 7割達成してるのすごすぎ！！
 - **おうが** (Feb 26, 2026 12:13am): ありがとうございます！！1000人突破したら配布します！！
-- **田中　佐藤** (Mar 11, 2026 11:49am): おめ
+- **kira** (Mar 11, 2026 11:49am): おめ
 
 #### Additional Information
 - **Post color:** Black
@@ -1630,7 +1633,7 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777712084&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fKvkQQPor4dBy7wnkLpYBqwJMXGc63BtE7OBaLM9gRq6DpNCgEUu1Pb69kfyeoeGhRD9DAga0Bs6xoE%2Fa3z9a4QmZo4t3TXiwoWW9zH4uzN%2FMYiZ83VedvBJWE80aXVMZFPOppWCOgH5hRYrMuE0hG2RKJdtG4%2Bkb5wsDTVXqTI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777732955&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Msp71vreY5ZX5PIOih4IfTvlOkpDXVuXYdIyOe8jlN20osny2bnjoRCy7lCKFCMsyNyRiPtjC1yXRsH9oe%2FqlQl5Ia9%2BWipnDFBtXwi%2BKxfgTBfIOHVDLeNSB0dSkTq%2FYQqg3iOlmOT95wHJO%2BPeiwDBP1PR3Dq0IrTbKjwnQRc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (16)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -1989,12 +1992,12 @@
 ---
 
 ### 19. 一個思ったけどここ見つかったら全部ブロックされるやん
-**Author:** 田中　佐藤 (7372971)
+**Author:** kira (7372971)
 
 #### Comments (5)
 - **おうが** (Mar 11, 2026 11:52am): いや学校の授業とかで使うからブロはないと思うよ
-- **田中　佐藤** (Mar 11, 2026 11:53am): なるほど
-- **田中　佐藤** (Mar 11, 2026 11:53am): まあ何個かはやられてるけど
+- **kira** (Mar 11, 2026 11:53am): なるほど
+- **kira** (Mar 11, 2026 11:53am): まあ何個かはやられてるけど
 - **おうが** (Mar 11, 2026 11:35pm): うん
 - **Fortnite廃課金者** (Mar 12, 2026 02:36pm): まぁバレんでしょ
 
@@ -2013,7 +2016,7 @@
 #### Comments (5)
 - **おうが** (Mar 11, 2026 12:04am): 俺も新しくなった規制やばい
 - **山椒** (Mar 11, 2026 02:46am): 俺もだいぶ前に変わったけどやばい
-- **田中　佐藤** (Mar 11, 2026 11:33am): こっちも
+- **kira** (Mar 11, 2026 11:33am): こっちも
 - **おうが** (Mar 11, 2026 11:42am): やんなw
 - **Bonz** (Mar 13, 2026 07:01am): 結構前に変わった
 
@@ -2064,7 +2067,7 @@
 - **おっぱい** (Mar 09, 2026 05:01am): つーかみんな彼女いる？
 - **おっぱい** (Mar 09, 2026 05:02am): あ、はじめましておっぱいです
 - **おっぱい** (Mar 09, 2026 05:02am): よろしくです
-- **田中　佐藤** (Mar 11, 2026 11:39am): 今は多様性の時代...これを指摘したら炎上するっ？！
+- **kira** (Mar 11, 2026 11:39am): 今は多様性の時代...これを指摘したら炎上するっ？！
 - **おうが** (Mar 12, 2026 01:12am): いやこれ多様性関係ないですね
 
 #### Additional Information
@@ -3301,7 +3304,7 @@
 <p>ブロックされてないのお願い🙇</p>
 
 #### Comments (2)
-- **田中　佐藤** (Mar 11, 2026 11:34am): https://sites.google.com/view/prohomework2z/dictionaryとか？
+- **kira** (Mar 11, 2026 11:34am): https://sites.google.com/view/prohomework2z/dictionaryとか？
 - **XminionQWQ** (Mar 27, 2026 05:48am): ブロックされない！
 
 #### Additional Information
@@ -3711,12 +3714,13 @@
 
 <p>俺のカスタムエンドポイント、「コメント見る、プレイリスト見れない、検索できない、ホームにお勧めが表示されない」から</p>
 
-#### Comments (5)
+#### Comments (6)
 - **フェットチーネしか勝たん** (Apr 20, 2026 01:16pm): 最低限コメントは見れて検索もできる奴がいい
 - **たいち** (Apr 21, 2026 09:08am): https://script.google.com/a/macros/ict.adachi.ed.jp/s/AKfycbwXUecx509B1FovfhiYmS8f80-0unvzd9pt8eh4i76NOuxPKUmGgj3LUuaYiWMRDLps/exec
 - **たいち** (Apr 21, 2026 09:08am): できなかったらごめん
 - **フェットチーネしか勝たん** (Apr 21, 2026 01:03pm): できなかったわ　多分ユーザーを自分の身にしてたらできない
 - **忍者めししか勝たん** (Apr 24, 2026 01:51pm): フェットチーネ　この前お前が言ってたやつじゃダメなの？載せてたじゃん　
+- **フェットチーネしか勝たん** (Apr 25, 2026 01:21pm): あれなんか使えなくなってんだよね
 
 #### Additional Information
 - **Post color:** Black
@@ -4182,6 +4186,10 @@
 **Author:** ビッチお断り
 
 <p>アイフィルターでも使える有能サイト教えて〜</p><p><br/></p>
+
+#### Comments (2)
+- **フェットチーネしか勝たん** (Apr 25, 2026 01:16pm): https://edu.50friends.com.mx/search
+- **フェットチーネしか勝たん** (Apr 25, 2026 01:17pm): url載せればできるよ
 
 #### Additional Information
 - **Post color:** Black
