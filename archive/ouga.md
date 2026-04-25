@@ -1,4 +1,4 @@
-最終更新: 2026/04/25 11:33:33
+最終更新: 2026/04/25 14:12:58
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 179
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 25, 2026 02:22am
+- **Updated At (UTC):** Apr 25, 2026 05:01am
 
 ## 管理者　連絡
 
@@ -244,7 +244,7 @@
 
 **どっち派？:**
 - **きのこの山:** 86 votes
-- **たけのこの里:** 84 votes
+- **たけのこの里:** 85 votes
 - **ドウデモイイ:** 22 votes
 
 #### Comments (23)
@@ -275,7 +275,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 25, 2026 01:58am
+- **Updated At (UTC):** Apr 25, 2026 04:09am
 
 ---
 
@@ -308,7 +308,7 @@
 ### 4. Post 4
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777689210&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YyQyHw2gAp%2B7mtcA2mtCyT9jC31IOSI8wvDT6C8%2FMIo63hzG8ItvaSp%2BqgoUOBtVeIL9k3vDVSnn3EXvKJzMAdQpdhnIXF1Ske%2BP4rAnCcMIMqlKyxEEi7B0NFkiscU%2BAK4KTQy%2BUwfx7VQ%2BvgBayREvUu6F2io3dYV%2FH6Gam4k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777698775&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0gsQVlZROrPQKpQ%2Fo9sCM9BJ6tiDgG6gM0vIil4gPrHf%2Fa1Nw%2BRVVk%2FHw44BQffQOi9wo%2FFweBzW0EFVAsyrsqlxoL0hDeUumLyiSef1qzW%2FBEY6TmeiIB6k6Bw4zMMDmKcspX2meRtObaYkTJihzLqhDPwu74TwI%2Fx7Ofm%2FdGo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (1)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -385,7 +385,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777689210&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UAY4ISxP%2BYst00EEX99RvN5YAYW23%2FlGdKRtip%2BNbS8dIRJcSCfGbjldwAGUMJfyholOlDxoL25uOPYdossemNR9pTWG39AIi8oNPP5qCvSdI4dnmsY96E9FYfWaAttupklrNS3K%2FJ%2FkJrCe%2Fbxr6D7bxVGF4%2Bd3uKQgkgSBsBA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777698775&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZWJLhLbAUyKbrua2K8CKMYx7gdQVjryX%2F5IHPx5j1qkQJDbz2D0q%2FHAR9UGX1NRg%2Bin%2FXH%2FHsyOo4Af2O%2BeIRsNSTwElshzcro3KTAoaWB1tTLsadrTo0RFw1sw5y%2BkFGIGXX1IqAELepMgJqZNDIUmT56DkRq8eezW3bkLcXSs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -1630,7 +1630,7 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777689210&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rbpMZDFQ6g5EqNvyel2V2ARdMkObQzL37Lco1cUk3UYAkzSFTPZh347zNUMij1bW0r6kO89tvFgCOlUMdkPtlctj%2FmJU6Z8RS2ao1H8ohk45LgyckADy5%2B0RZVFfqoZmHXTvIx%2BsDDh%2B%2BYSZ%2F44hRGksDuD72O2lSpg3c7%2BATic%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777698776&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=r5KQWM2Ij5MnoVwyF3eIQf26k%2F7Wh7U0rI0%2B5U69Z%2F1E%2FviTzF4pEiU3Ip%2FxtGMEDRTnUhosWEn3ZJJlaJV1gNRJsl%2BxlX3LkI6qCY5TSv3HkuJnz3U0bBmQNlU947kuxY8Y%2BjDstvXjaf5pJ%2BReAsSwtf%2Bm5BbkUDw9Lm4IVls%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (16)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -4369,7 +4369,7 @@
 
 <p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>
 
-#### Comments (21)
+#### Comments (22)
 - **おうが** (Mar 16, 2026 02:19am): 何でも言ってください
 - **おうが** (Mar 16, 2026 02:20am): 話聞きます！
 - **こnにちは** (Mar 16, 2026 04:09am): スマホの時間制限が15分🥺
@@ -4391,6 +4391,7 @@
 - **おうが** (Mar 19, 2026 12:13pm): お姉ちゃん何年生？
 - **GP** (Apr 24, 2026 02:28am): 中３
 - **GP** (Apr 24, 2026 02:28am): はろー
+- **ちんすこう** (Apr 25, 2026 05:01am): 中3女子が厨二病wwwwww
 
 #### Additional Information
 - **Post color:** Black
