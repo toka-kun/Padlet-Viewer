@@ -1,4 +1,4 @@
-最終更新: 2026/04/25 14:12:58
+最終更新: 2026/04/25 17:54:46
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 179
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 25, 2026 05:01am
+- **Updated At (UTC):** Apr 25, 2026 07:44am
 
 ## 管理者　連絡
 
@@ -244,7 +244,7 @@
 
 **どっち派？:**
 - **きのこの山:** 86 votes
-- **たけのこの里:** 85 votes
+- **たけのこの里:** 86 votes
 - **ドウデモイイ:** 22 votes
 
 #### Comments (23)
@@ -275,7 +275,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 25, 2026 04:09am
+- **Updated At (UTC):** Apr 25, 2026 05:59am
 
 ---
 
@@ -308,7 +308,7 @@
 ### 4. Post 4
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777698775&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0gsQVlZROrPQKpQ%2Fo9sCM9BJ6tiDgG6gM0vIil4gPrHf%2Fa1Nw%2BRVVk%2FHw44BQffQOi9wo%2FFweBzW0EFVAsyrsqlxoL0hDeUumLyiSef1qzW%2FBEY6TmeiIB6k6Bw4zMMDmKcspX2meRtObaYkTJihzLqhDPwu74TwI%2Fx7Ofm%2FdGo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777712083&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KNQus6%2BXYqAS6%2FBooOwMHjseUcK%2Bfq2ditlUHg3wm91mknScW3Pk%2FH7rDxnvn30St%2FhEjzpckNfVjEQ2eBqtTSZSuhUEtbcWR%2FZbNHlsrGriXps5d6LxtvI1%2F4e%2FdqE8w5pTBhXq6MOC8EUexlTMBz%2B4nOvnwWNsihbVcWHfJxE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (1)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -385,7 +385,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777698775&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZWJLhLbAUyKbrua2K8CKMYx7gdQVjryX%2F5IHPx5j1qkQJDbz2D0q%2FHAR9UGX1NRg%2Bin%2FXH%2FHsyOo4Af2O%2BeIRsNSTwElshzcro3KTAoaWB1tTLsadrTo0RFw1sw5y%2BkFGIGXX1IqAELepMgJqZNDIUmT56DkRq8eezW3bkLcXSs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777712083&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nLaPH5zQI9q23wc7XwDhYVBtO%2FFmLoDLaDQ6IGNrmXKCL83vS2ig9YaoWvDFEEVtUCgQpsha5qCRBl7VAfmZVCLntcOi8otMYKeMGMRtCN%2FwVq8h2ii%2FgYXibfCWrTJZBfs%2FXakKUUnozuB2lqxYpjdxu4ObzUbr%2B4jmGxT%2FUpI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -1630,7 +1630,7 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777698776&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=r5KQWM2Ij5MnoVwyF3eIQf26k%2F7Wh7U0rI0%2B5U69Z%2F1E%2FviTzF4pEiU3Ip%2FxtGMEDRTnUhosWEn3ZJJlaJV1gNRJsl%2BxlX3LkI6qCY5TSv3HkuJnz3U0bBmQNlU947kuxY8Y%2BjDstvXjaf5pJ%2BReAsSwtf%2Bm5BbkUDw9Lm4IVls%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777712084&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fKvkQQPor4dBy7wnkLpYBqwJMXGc63BtE7OBaLM9gRq6DpNCgEUu1Pb69kfyeoeGhRD9DAga0Bs6xoE%2Fa3z9a4QmZo4t3TXiwoWW9zH4uzN%2FMYiZ83VedvBJWE80aXVMZFPOppWCOgH5hRYrMuE0hG2RKJdtG4%2Bkb5wsDTVXqTI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (16)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -4443,7 +4443,7 @@
 ### 1. ブロスタしてる子いますか
 **Author:** アメリカ税務署管理者
 
-#### Comments (10)
+#### Comments (11)
 - **ハネノキ** (Apr 17, 2026 12:31pm): 僕してます
 - **こnにちは** (Apr 19, 2026 05:19am): ぼく1日でエリート
 - **フェットチーネしか勝たん** (Apr 20, 2026 11:14am): ブロスタってどんなゲーム？　名前は聞いたことある
@@ -4454,6 +4454,7 @@
 - **GP** (Apr 24, 2026 02:48am): やめろ
 - **GP** (Apr 24, 2026 02:48am): ｗｗ
 - **忍者めししか勝たん** (Apr 24, 2026 01:10pm): 学校のタブレットでしてます！ｗ
+- **削除済みユーザー** (Apr 25, 2026 07:44am): 小4からしてる 
 
 #### Additional Information
 - **Post color:** Black
