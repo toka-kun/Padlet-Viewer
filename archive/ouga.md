@@ -1,4 +1,4 @@
-最終更新: 2026/04/26 18:03:18
+最終更新: 2026/04/26 19:48:12
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 180
+- **Posts:** 181
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 26, 2026 09:01am
+- **Updated At (UTC):** Apr 26, 2026 10:16am
 
 ## 管理者　連絡
 
@@ -246,8 +246,8 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 88 votes
-- **たけのこの里:** 89 votes
+- **きのこの山:** 89 votes
+- **たけのこの里:** 90 votes
 - **ドウデモイイ:** 22 votes
 
 #### Comments (26)
@@ -281,7 +281,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 26, 2026 08:45am
+- **Updated At (UTC):** Apr 26, 2026 10:10am
 
 ---
 
@@ -314,7 +314,7 @@
 ### 4. Post 4
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777798995&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ctkqBqFfZ6TIo7XNTJFem%2Br52c78y58xMTSc%2FCWuGAtIhtvUA8GtvYv7UFGoIrq4UKliVET2q%2BIgVAcTam%2FfKZ6hZTgfotU74AmNaTa7FbVrucK99br%2F3g%2F8tOPiIP52m6lnSB2dPrQ9pXP2qSAQ2HDW1GPyKZnauVqSDX39%2F9U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777805289&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=c7ROBtfTRo56x1Um97QWAJ5oZtNigLAy%2FIeuaf8zEpQBMZKvDjSl2iTWNXPQCpcQNk55mgK%2FoaZhqYPRCf%2F9zcWAoTY06PVGtszwG%2FdQU3%2BKmban3OaBFBUIa6pbT52uSBRqXUuj00hpafVf4CUk%2B%2BzculGvTcMO6iW33ydgsWo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (1)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -391,7 +391,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777798995&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rqU55gMeDXS8tSEcqk00wIh5YM%2FitMBBDgo5kYThaBtX3ke3oQxKtsQ%2FN95X5AWs3l9os%2Bxj7Ojm4QJsMDN6NR1D5R3JKvwnD2dgoyypqHDfrnAlzuIQVTnRqf5J6aFkCppsmkKKKiiDu%2FmB%2BSOkQRnw3Z3m8UfTuGHcu6Pp7K4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777805289&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=HQEj7I6Uyt3q%2Blgt6T0RkdzjJXoIrmV344QztD3N6dTfWPc7N5s2SxidNeFX8tSYNRrSEQXw2xRo%2BTDor0jpAEskfVJeOxlco%2BLsw8e08yGePLXWZgtQre1cHas1Yy0MCm2UakA7Mh6Xos4Ue14yTjYaTu0sIhaX7p8VJxX4QMA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -1636,7 +1636,7 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777798996&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jkA56TFP5GWKO2W9SEtw3yVVqjo%2FtYt004YJXu7kyj7zRduGkDCdI%2BtH3Hfap0GvHZTApVWvTk%2Bd0Lq5IEa7%2BVKdJJNV3XGD2BR%2B55sSoKPb4oJCX57cLUeb9UL0zvZBrwQ%2Fkr6uD83p7GQEEAjpxfZNTaiWbJUimyZLz3z73JU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777805289&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nOb955c2ICDA7M3ATopaCxg3FQOn1p4jmn8CXsPlfjVy2YteK%2Bwy9BLPA3yjq8HbDsn0ro2F7r56Fem%2FAaxm4kA4jvCE37Mb0eB5nqxvypFzBePU8yt2MNg6OFO%2BNNAD6HjiCTZKWtnIq3m%2F0OKOnKgbG%2FbGhdfepIoP1kkqgNY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (16)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -1663,7 +1663,27 @@
 
 ---
 
-### 2. みんな好きな曲何？
+### 2. マイクラやろう
+**Author:** 東方神!! (21s0982d)
+
+<p>だれか〜できるひと〜いますか〜</p>
+
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1777805289&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GbbekRHrl1L2ZKIuE3xoLPpQtVKY9dNRBh73HoLZ6DSu4IymtJOrRnbb42bcSG46HKIvvK2fLlS6dzBj8Z6THPVppf9rbQcP8CF0FFrJb4ORvhufxa1iIqcnHxBVobHhq7q%2BeYmvctbI7ZGlRlM%2BfRZaktmUS3DcSVvKDiwstLw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+
+#### Comments (4)
+- **東方神!!** (Apr 26, 2026 10:13am): コード打っときます
+- **東方神!!** (Apr 26, 2026 10:15am): 入り方はダウンロードしてから名前を決めてマルチプレイを押して真ん中を押してコードを打つとできます（長文失礼しました）
+- **東方神!!** (Apr 26, 2026 10:16am): r4218
+- **東方神!!** (Apr 26, 2026 10:16am): ko-do
+
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Apr 26, 2026 10:11am
+- **Updated At (UTC):** Apr 26, 2026 10:15am
+
+---
+
+### 3. みんな好きな曲何？
 **Author:** フェットチーネしか勝たん
 
 #### Comments (3)
@@ -1678,7 +1698,7 @@
 
 ---
 
-### 3. よろしくお願いします
+### 4. よろしくお願いします
 **Author:** 綱啓永推し❤️❤️ (r0400268_1)
 
 <p>この私のパドレっとに入ってくださいお願いします</p>
@@ -1692,7 +1712,7 @@
 
 ---
 
-### 4. ヨモギ　正体明かして
+### 5. ヨモギ　正体明かして
 **Author:** たいち (r0300353)
 
 #### Comments (10)
@@ -1714,7 +1734,7 @@
 
 ---
 
-### 5. 規模３位はレベチで草w
+### 6. 規模３位はレベチで草w
 **Author:** こnにちは
 
 <p>1位目指すの頑張って</p>
@@ -1737,7 +1757,7 @@
 
 ---
 
-### 6. 皆趣味何？
+### 7. 皆趣味何？
 **Author:** フェットチーネしか勝たん
 
 <p>俺はルービックキューブや読書、ゲームかな</p>
@@ -1757,7 +1777,7 @@
 
 ---
 
-### 7. 塾で隣のやつの独り言がうるさすぎる。
+### 8. 塾で隣のやつの独り言がうるさすぎる。
 **Author:** 暇すぎ星人 (1910568_3)
 
 <p>解決策求む</p>
@@ -1781,7 +1801,7 @@
 
 ---
 
-### 8. アンケート　何のグミ好き
+### 9. アンケート　何のグミ好き
 **Author:** フェットチーネしか勝たん
 
 **何のグミ好き:**
@@ -1809,7 +1829,7 @@
 
 ---
 
-### 9. わかめチューブ教えて
+### 10. わかめチューブ教えて
 **Author:** 野球
 
 #### Comments (3)
@@ -1824,7 +1844,7 @@
 
 ---
 
-### 10. だれかしあtubeのカスタムエンドポイントください
+### 11. だれかしあtubeのカスタムエンドポイントください
 **Author:** XminionQWQ
 
 <p>おねがいしますm(__)m</p>
@@ -1847,7 +1867,7 @@
 
 ---
 
-### 11. イタリアンブレインロットって知ってる？
+### 12. イタリアンブレインロットって知ってる？
 **Author:** たいち (r0300353)
 
 #### Comments (12)
@@ -1871,7 +1891,7 @@
 
 ---
 
-### 12. 前から思ってたんですけどおうがさんのアイコンの人って誰なんですか？
+### 13. 前から思ってたんですけどおうがさんのアイコンの人って誰なんですか？
 **Author:** たいち (r0300353)
 
 #### Comments (4)
@@ -1887,7 +1907,7 @@
 
 ---
 
-### 13. だんだんと閲覧数とか増えてきたね
+### 14. だんだんと閲覧数とか増えてきたね
 **Author:** nekoちゃんぬ総長サブ垢 (nekosaikyoukami)
 
 #### Comments (1)
@@ -1900,7 +1920,7 @@
 
 ---
 
-### 14. プロキシ載せといた
+### 15. プロキシ載せといた
 **Author:** aaabbbccc (mazamaza)
 
 #### Comments (1)
@@ -1913,7 +1933,7 @@
 
 ---
 
-### 15. 雑談部屋
+### 16. 雑談部屋
 **Author:** aaabbbccc (mazamaza)
 
 <p>先着20名程度</p>
@@ -1931,7 +1951,7 @@
 
 ---
 
-### 16. リクエスト
+### 17. リクエスト
 **Author:** aaabbbccc (mazamaza)
 
 <p>セクションにプロキシを追加してほしいです</p>
@@ -1946,7 +1966,7 @@
 
 ---
 
-### 17. 管理者が欲しい！
+### 18. 管理者が欲しい！
 **Author:** ｸﾞﾊｯ　＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎　＃隼人の下僕 (qlomolp)
 
 #### Comments (17)
@@ -1975,7 +1995,7 @@
 
 ---
 
-### 18. 質問シャドウって何するんですか？
+### 19. 質問シャドウって何するんですか？
 **Author:** おうが (18jt026)
 
 #### Comments (7)
@@ -1994,7 +2014,7 @@
 
 ---
 
-### 19. 一個思ったけどここ見つかったら全部ブロックされるやん
+### 20. 一個思ったけどここ見つかったら全部ブロックされるやん
 **Author:** kira (7372971)
 
 #### Comments (5)
@@ -2011,7 +2031,7 @@
 
 ---
 
-### 20. うちらの学校だけかわからんけど
+### 21. うちらの学校だけかわからんけど
 **Author:** Fortnite廃課金者 (pilduw)
 
 <p>なんかタブレット今より新しいのに変わるんだけどみんなはどうなん？</p>
@@ -2030,7 +2050,7 @@
 
 ---
 
-### 21. 新しい雑談場所
+### 22. 新しい雑談場所
 **Author:** おうが (18jt026)
 
 #### Comments (10)
@@ -2052,7 +2072,7 @@
 
 ---
 
-### 22. あはははは
+### 23. あはははは
 **Author:** ｸﾞﾊｯ　＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎　＃隼人の下僕 (qlomolp)
 
 #### Comments (16)
@@ -2080,7 +2100,7 @@
 
 ---
 
-### 23. みんなで話そ
+### 24. みんなで話そ
 **Author:** おうが (18jt026)
 
 #### Comments (650)
