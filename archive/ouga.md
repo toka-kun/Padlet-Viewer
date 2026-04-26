@@ -1,4 +1,4 @@
-最終更新: 2026/04/26 14:42:28
+最終更新: 2026/04/26 16:42:35
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 179
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 26, 2026 05:38am
+- **Updated At (UTC):** Apr 26, 2026 05:49am
 
 ## 管理者　連絡
 
@@ -51,12 +51,14 @@
 ### 4. じゃあみんなバイバイ！
 **Author:** おうが (18jt026)
 
-#### Comments (5)
+#### Comments (7)
 - **おうが** (Apr 24, 2026 01:26am): めっちゃ悲しいけど消すよりはいいと思いました！
 - **おうが** (Apr 24, 2026 01:26am): これからも頑張ってね！！！！
 - **たいち** (Apr 24, 2026 07:43am): 戻ってこないんですか？
 - **忍者めししか勝たん** (Apr 24, 2026 01:12pm): 受験頑張ってください！
 - **フェットチーネしか勝たん** (Apr 24, 2026 01:29pm): 受援頑張ってね
+- **28メガネ** (Apr 26, 2026 05:49am): お前誰ってなるかもしれないけど、頑張ってください
+- **28メガネ** (Apr 26, 2026 05:50am): 👍️
 
 #### Additional Information
 - **Post color:** Black
@@ -244,7 +246,7 @@
 **Author:** たいち (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 87 votes
+- **きのこの山:** 88 votes
 - **たけのこの里:** 88 votes
 - **ドウデモイイ:** 22 votes
 
@@ -278,7 +280,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 25, 2026 10:15pm
+- **Updated At (UTC):** Apr 26, 2026 05:52am
 
 ---
 
@@ -311,7 +313,7 @@
 ### 4. Post 4
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777786945&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OtQGCU0PuuAvZoBRa6iUut4v1vxo9uPq0hOxYIes49MyKnHCxEH3AWnCGyX1nKs9j8v7sQRAbuxsXHSFZH7qNBoxBhGJi%2B0oIt51oOI66MEr8KGs907ojK96ZUmUQqY6ELBWOjaTw%2BdohpEfnOptU7uErkoLOQIq51iwLFOtQns%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777794152&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lZ6pg6Y%2FaPQHxRnuw%2F0WxbW3y89wxbGdBpN3MT0HqjfgV5IxwsDTDhJj5CODANVVzmy5HAIcq3CcJOnpze98aNu%2BL%2BsrugDd6LVbqfTgEK%2FEXvYUgV9JdlAJttHzJRgXMti2HlIrUs7w8zwxt5vCt0HX%2FKe3PKBiJTwlQYkp4YA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (1)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -388,7 +390,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777786945&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=S60EQo6%2FJcZDMamRcVMPaZt0PGtKUXp6wO6TkqYd2V%2BjC2V4RZmrH%2BPebmDqooXAcgiuew2OnrSwcF8itArhl8b8jOZ%2FIKcSK9g5eiAwfUxBIAHtC9xJIaDen%2BgoEgs7FS0gmGLQwxviJEGqx1ce%2Byy7VPjn7gXEUc2ex5U3SrQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777794152&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=33eBq55DztIDXc4Y1RLDCjcsUpuqr4mT5gz5xI3fzPDJiO1aHywxaQqYAZ8oTZDQwv8nyK22Ob1HNXFRlW9ULeDT0JC4f8%2BVTHvRZqzPKtkDF9ZMGWnMsx3vhofYofxS%2B7t%2FaUfhsHXTC%2FU8d%2Big5jbjgutZMfDakEScIdrD50U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -1633,7 +1635,7 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777786946&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xNqvEANkLU2Dorou9hu6pHmTyIYvkpLBqjFj3ab%2Fc7khue4rPaY0nDFF2ZgYRAQXpoiMYcSUMOfogGNqS%2B59zyBnvVDgs2ahk08qMKb11xwTAuaHpCcnoT59%2FdTKPhxbMC%2FLqIQaBN1xfiAzF3kMBCnXfvVaAPYzxouEC4CJuNE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777794152&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ocXUHg0bL3IYHINVeFEP8B%2FTMQZZwClEOEHWt%2BZH3PcUChctq5mPHiqDarcNRWaYwt7xyvtK4FcZXYaVjRAL3ZySKxLxxWl64MdEnHIuLEPc3IEEhw39DUr4WZjjhEoYgcx77H1%2BwrASkQaqgYRmI7h4qSEA94Tw1ZK2D%2BKTMi0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (16)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
