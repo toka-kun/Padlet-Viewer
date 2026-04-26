@@ -1,4 +1,4 @@
-最終更新: 2026/04/26 22:09:29
+最終更新: 2026/04/26 23:44:58
 
 # 受付と匿名用
 
@@ -9,12 +9,16 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 6
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Apr 26, 2026 12:10pm
+- **Updated At (UTC):** Apr 26, 2026 01:13pm
 
 ## 受付
 
 ### 1. ⇩がんばれあおば～⇩
 **Author:** woolisbest (woolisbest)
+
+#### Comments (2)
+- **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #いやっほい族百八代目** (Apr 26, 2026 01:11pm): う　ー　り　す　も　や　っ　て　よ　〜　…
+- **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #いやっほい族百八代目** (Apr 26, 2026 01:13pm): あとぼく多分モデにおちるんで…
 
 #### Additional Information
 - **Post color:** White
