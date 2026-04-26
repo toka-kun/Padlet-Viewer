@@ -1,4 +1,4 @@
-最終更新: 2026/04/26 08:38:58
+最終更新: 2026/04/26 11:50:19
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 128
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Apr 25, 2026 10:21am
+- **Updated At (UTC):** Apr 26, 2026 02:17am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -621,6 +621,9 @@
 **モデレーター数:** 0
 
 [Attachment 1](https://padlet.com/padlets/n0g1c0jl2ak3grc5)
+
+#### Comments (1)
+- **Anonymous** (Apr 26, 2026 02:17am): あらされちゃってる
 
 #### Additional Information
 - **Post color:** White
@@ -2880,7 +2883,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1777765138&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Xe8%2FPHRysc9gVfMxPvrdZY3%2BOy%2BW2C1M84c21GBC7mTy2Z3P6wjLciVSvj6ByJP7mn4rfv1lQL8Qh0MsMYJZBxzWJLSjcbzB7GdCOqSoPSJyLHOV40rfhO7MO7G9IEFUhixD1G0O%2Bc%2FRWPZsHM%2BOqfELAxPDUZl2p5iyzU0K%2FLQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1777776619&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=l7vAP8TtNnU5OYnD6EjPmuSb8qeTXU1G95PWH3eObqsGrgYTEYIwcx40izQSQ2F9y63%2Bu6lBwKh4ZmE%2F02Imp%2Bc0cMV8B8QjxXCaI4xChkXgqwBJWWRpneE24OKxz2gpasVBzbhxG1kP6UTGEXH38E5V7MMs8hLhvJhGcnTmA%2BU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
