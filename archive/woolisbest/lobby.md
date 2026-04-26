@@ -1,4 +1,4 @@
-最終更新: 2026/04/26 20:40:23
+最終更新: 2026/04/26 22:09:29
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 6
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Apr 26, 2026 11:29am
+- **Updated At (UTC):** Apr 26, 2026 12:10pm
 
 ## 受付
 
@@ -126,7 +126,7 @@
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (62)
+#### Comments (63)
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -189,6 +189,7 @@
 - **削除済みユーザー** (Mar 16, 2026 06:30am): ああ煮物消えたんだな
 - **sugar** (Mar 24, 2026 12:28pm): 入れてください
 - **ハッタユヅキ** (Apr 02, 2026 02:03am): 入れてください
+- **カルビー（SHINRAI)** (Apr 26, 2026 12:10pm): いれてええええええええええええええええええええ 
 
 #### Additional Information
 - **Post color:** Red
