@@ -1,4 +1,4 @@
-最終更新: 2026/04/26 11:51:16
+最終更新: 2026/04/26 14:42:28
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 179
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 26, 2026 02:43am
+- **Updated At (UTC):** Apr 26, 2026 05:38am
 
 ## 管理者　連絡
 
@@ -311,7 +311,7 @@
 ### 4. Post 4
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777776674&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bK3xkmZJmTqEqnIHPS3BzgzH77g7MlGVdhP8K6ZykP1lMxROoaDjfDBJJ%2BkVf4r1RLiQOJw0SfCPTJ6cNk6CF7zyAb3PJpX4pTa31xv05Sl2g%2FOp1mLsPuOhQl2wbXK7elR3FZabd2qrWAAZTUIqvf1CyYzjY5LW%2BGLZDcvkWJQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777786945&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OtQGCU0PuuAvZoBRa6iUut4v1vxo9uPq0hOxYIes49MyKnHCxEH3AWnCGyX1nKs9j8v7sQRAbuxsXHSFZH7qNBoxBhGJi%2B0oIt51oOI66MEr8KGs907ojK96ZUmUQqY6ELBWOjaTw%2BdohpEfnOptU7uErkoLOQIq51iwLFOtQns%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (1)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -388,7 +388,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777776674&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=HB%2F55Sk6qQ2Y%2BBVZfY2web2lC5y9Ff21RNzB022X0gVr7wQTUZwCKO6AyxDcA5fjWpgu4cWQmq6MdCz%2F7lb3Ia81%2BBNuh4Kmx5vVdN7n5ZLvWlWEP2qydxZmCtB4byb1mFbRvCduuwuNRfeP10tpjspiAFQt%2BVC6%2FxTq%2FhBpRZI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777786945&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=S60EQo6%2FJcZDMamRcVMPaZt0PGtKUXp6wO6TkqYd2V%2BjC2V4RZmrH%2BPebmDqooXAcgiuew2OnrSwcF8itArhl8b8jOZ%2FIKcSK9g5eiAwfUxBIAHtC9xJIaDen%2BgoEgs7FS0gmGLQwxviJEGqx1ce%2Byy7VPjn7gXEUc2ex5U3SrQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -1633,7 +1633,7 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777776675&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2%2BQmZHGPk75pnsFSQk%2F5%2B4PsY%2BCYo4ROGeZ5G0Gv%2BKLhqMqCxKlVJFhtvCZx9w8eMxAXyKXV%2B3vbJaKIT%2B95D0IBr1tbS94%2BGTfU3e%2BXm742JtDzq95Ro8OO1bpVfCCZVJ2hrHW2zJM0tLsNNlZI5kd3WK5WMOdNRyqV388Jbn8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777786946&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xNqvEANkLU2Dorou9hu6pHmTyIYvkpLBqjFj3ab%2Fc7khue4rPaY0nDFF2ZgYRAQXpoiMYcSUMOfogGNqS%2B59zyBnvVDgs2ahk08qMKb11xwTAuaHpCcnoT59%2FdTKPhxbMC%2FLqIQaBN1xfiAzF3kMBCnXfvVaAPYzxouEC4CJuNE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (16)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -4475,7 +4475,7 @@
 ### 2. してる子話そ
 **Author:** おうが (18jt026)
 
-#### Comments (91)
+#### Comments (93)
 - **かっっぱ** (Feb 19, 2026 04:46am): ブロフルってなんですか？
 - **おうが** (Feb 19, 2026 06:03am): ロブロックス　ブロフルって調べてみてやってみて
 - **玲吏** (Feb 19, 2026 07:59am): やってますよ
@@ -4567,6 +4567,8 @@
 - **GP** (Apr 24, 2026 02:22am): いいよー
 - **GP** (Apr 24, 2026 02:45am): みんな何年生？
 - **忍者めししか勝たん** (Apr 25, 2026 02:23am): 小６です
+- **ドブカス** (Apr 26, 2026 05:38am): 狐リボンつけたらエネルギー2500増えるの考慮せんかったらそりゃそうやな
+- **ドブカス** (Apr 26, 2026 05:42am): 後おでんのコンボ定番過ぎて避けやす過ぎるから5m以上はほぼ通じんよサイボーグなら見聞剥がせるからいけるけど後v4とか実力上がらんから2m以上賞金上の人以外使わん方がいいぞ
 
 #### Additional Information
 - **Post color:** Black
