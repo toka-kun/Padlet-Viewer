@@ -1,4 +1,4 @@
-最終更新: 2026/04/26 19:47:42
+最終更新: 2026/04/26 20:40:23
 
 # 受付と匿名用
 
@@ -7,13 +7,23 @@
 ## Summary
 - **Link:** https://padlet.com/woolisbest/padlet-99xq7bb7zjzcfzw0
 - **Builder:** woolisbest (woolisbest)
-- **Posts:** 5
+- **Posts:** 6
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Apr 21, 2026 09:27am
+- **Updated At (UTC):** Apr 26, 2026 11:29am
 
 ## 受付
 
-### 1. アクセス要求して
+### 1. ⇩がんばれあおば～⇩
+**Author:** woolisbest (woolisbest)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 26, 2026 11:29am
+- **Updated At (UTC):** Apr 26, 2026 11:30am
+
+---
+
+### 2. アクセス要求して
 **Author:** woolisbest (woolisbest)
 
 #### Comments (86)
@@ -111,7 +121,7 @@
 
 ---
 
-### 2. 最初からやり直し...
+### 3. 最初からやり直し...
 **Author:** woolisbest (woolisbest)
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
