@@ -1,4 +1,4 @@
-最終更新: 2026/04/26 16:42:35
+最終更新: 2026/04/26 18:03:18
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 179
+- **Posts:** 180
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 26, 2026 05:49am
+- **Updated At (UTC):** Apr 26, 2026 09:01am
 
 ## 管理者　連絡
 
@@ -247,10 +247,10 @@
 
 **どっち派？:**
 - **きのこの山:** 88 votes
-- **たけのこの里:** 88 votes
+- **たけのこの里:** 89 votes
 - **ドウデモイイ:** 22 votes
 
-#### Comments (25)
+#### Comments (26)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
 - **ｸﾎﾞｲｯﾀ** (Mar 29, 2026 10:19pm): もう…きのこだ、たけのこだなんて争わないでいいじゃん…きのこの勝ちでいいじゃん…
 - **たいち** (Mar 30, 2026 01:07am): きのこだな
@@ -276,11 +276,12 @@
 - **GP** (Apr 24, 2026 01:01am): きのこーーーーーーーーーーーーーーーーーーーーーーー
 - **フェットチーネしか勝たん** (Apr 25, 2026 01:14pm): 投票数２００行くぞww
 - **フェットチーネしか勝たん** (Apr 25, 2026 01:15pm): てかちゃんとと同率なのおもろい
+- **たいち** (Apr 26, 2026 08:00am): 確かに
 
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 26, 2026 05:52am
+- **Updated At (UTC):** Apr 26, 2026 08:45am
 
 ---
 
@@ -313,7 +314,7 @@
 ### 4. Post 4
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777794152&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lZ6pg6Y%2FaPQHxRnuw%2F0WxbW3y89wxbGdBpN3MT0HqjfgV5IxwsDTDhJj5CODANVVzmy5HAIcq3CcJOnpze98aNu%2BL%2BsrugDd6LVbqfTgEK%2FEXvYUgV9JdlAJttHzJRgXMti2HlIrUs7w8zwxt5vCt0HX%2FKe3PKBiJTwlQYkp4YA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777798995&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ctkqBqFfZ6TIo7XNTJFem%2Br52c78y58xMTSc%2FCWuGAtIhtvUA8GtvYv7UFGoIrq4UKliVET2q%2BIgVAcTam%2FfKZ6hZTgfotU74AmNaTa7FbVrucK99br%2F3g%2F8tOPiIP52m6lnSB2dPrQ9pXP2qSAQ2HDW1GPyKZnauVqSDX39%2F9U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (1)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -390,7 +391,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777794152&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=33eBq55DztIDXc4Y1RLDCjcsUpuqr4mT5gz5xI3fzPDJiO1aHywxaQqYAZ8oTZDQwv8nyK22Ob1HNXFRlW9ULeDT0JC4f8%2BVTHvRZqzPKtkDF9ZMGWnMsx3vhofYofxS%2B7t%2FaUfhsHXTC%2FU8d%2Big5jbjgutZMfDakEScIdrD50U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777798995&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rqU55gMeDXS8tSEcqk00wIh5YM%2FitMBBDgo5kYThaBtX3ke3oQxKtsQ%2FN95X5AWs3l9os%2Bxj7Ojm4QJsMDN6NR1D5R3JKvwnD2dgoyypqHDfrnAlzuIQVTnRqf5J6aFkCppsmkKKKiiDu%2FmB%2BSOkQRnw3Z3m8UfTuGHcu6Pp7K4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -1635,7 +1636,7 @@
 ### 1. 好きな柱誰？
 **Author:** たいち (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777794152&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ocXUHg0bL3IYHINVeFEP8B%2FTMQZZwClEOEHWt%2BZH3PcUChctq5mPHiqDarcNRWaYwt7xyvtK4FcZXYaVjRAL3ZySKxLxxWl64MdEnHIuLEPc3IEEhw39DUr4WZjjhEoYgcx77H1%2BwrASkQaqgYRmI7h4qSEA94Tw1ZK2D%2BKTMi0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777798996&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jkA56TFP5GWKO2W9SEtw3yVVqjo%2FtYt004YJXu7kyj7zRduGkDCdI%2BtH3Hfap0GvHZTApVWvTk%2Bd0Lq5IEa7%2BVKdJJNV3XGD2BR%2B55sSoKPb4oJCX57cLUeb9UL0zvZBrwQ%2Fkr6uD83p7GQEEAjpxfZNTaiWbJUimyZLz3z73JU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (16)
 - **たいち** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -3695,7 +3696,17 @@
 
 ## 他の動画見れるサイト
 
-### 1. 動画サイト教えてー
+### 1. 誰かユートピアください!
+**Author:** り (gs194496)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 26, 2026 09:01am
+- **Updated At (UTC):** Apr 26, 2026 09:01am
+
+---
+
+### 2. 動画サイト教えてー
 **Author:** ギャル
 
 <p>誰かTikTok教えてー</p>
@@ -3711,7 +3722,7 @@
 
 ---
 
-### 2. しあのいいカスタムエンドポイントない？
+### 3. しあのいいカスタムエンドポイントない？
 **Author:** フェットチーネしか勝たん
 
 <p>俺のカスタムエンドポイント、「コメント見る、プレイリスト見れない、検索できない、ホームにお勧めが表示されない」から</p>
@@ -3731,7 +3742,7 @@
 
 ---
 
-### 3. Post 3
+### 4. Post 4
 **Author:** 天才くん
 
 <p>しあとかわかめできない</p><p><br/></p>
@@ -3755,7 +3766,7 @@
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** やまにつつ (yamanitsutsu)
 
 <p>しあtube</p><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec">https://script.google.com/macros/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec</a></p>
@@ -3769,7 +3780,7 @@
 
 ---
 
-### 5. まっつー
+### 6. まっつー
 **Author:** みっきー
 
 #### Comments (14)
@@ -3795,7 +3806,7 @@
 
 ---
 
-### 6. youtube見れるサイト教えて
+### 7. youtube見れるサイト教えて
 **Author:** フェットチーネしか勝たん
 
 <p>プロキシでもいいよ</p>
@@ -3816,7 +3827,7 @@
 
 ---
 
-### 7. 電話ができるアプリ
+### 8. 電話ができるアプリ
 **Author:** 綱啓永推し❤️❤️ (r0400268_1)
 
 [Attachment 1](https://p2p.mirotalk.com/newcall)
@@ -3834,7 +3845,7 @@
 
 ---
 
-### 8. おもろいよ
+### 9. おもろいよ
 **Author:** たいち (r0300353)
 
 [Attachment 1](https://scratch.mit.edu/projects/930261517/fullscreen/)
@@ -3850,7 +3861,7 @@
 
 ---
 
-### 9. Post 9
+### 10. Post 10
 **Author:** たっくん
 
 [Attachment 1](https://ubg6969.gitlab.io/)
@@ -3866,7 +3877,7 @@
 
 ---
 
-### 10. Post 10
+### 11. Post 11
 **Author:** たっくん
 
 [Attachment 1](https://www.dailytoolz.com/cubes-2048/iframe.html)
@@ -3881,7 +3892,7 @@
 
 ---
 
-### 11. Post 11
+### 12. Post 12
 **Author:** たっくん
 
 [Attachment 1](https://jcw87.github.io/c2-smb1/)
@@ -3896,7 +3907,7 @@
 
 ---
 
-### 12. Post 12
+### 13. Post 13
 **Author:** たっくん
 
 [Attachment 1](https://gitlabgames.gitlab.io/category/action.html)
@@ -3911,7 +3922,7 @@
 
 ---
 
-### 13. Post 13
+### 14. Post 14
 **Author:** たっくん
 
 [Attachment 1](https://ubg88.gitlab.io/)
@@ -3926,7 +3937,7 @@
 
 ---
 
-### 14. Post 14
+### 15. Post 15
 **Author:** たっくん
 
 [Attachment 1](https://lunar.v2-nana.mza.com.ar/)
@@ -3941,7 +3952,7 @@
 
 ---
 
-### 15. かつお
+### 16. かつお
 **Author:** おうが (18jt026)
 
 <p><a rel="noopener noreferrer nofollow" href="https://katuotube-1-1-sdw5.onrender.com">https://katuotube-1-1-sdw5.onrender.com</a></p>
@@ -3962,7 +3973,7 @@
 
 ---
 
-### 16. 欲しいです！！
+### 17. 欲しいです！！
 **Author:** Mrs. green apple (Misesu121037)
 
 #### Comments (7)
@@ -3981,7 +3992,7 @@
 
 ---
 
-### 17. カツオ新しいの出てた欲しかったら言って！
+### 18. カツオ新しいの出てた欲しかったら言って！
 **Author:** おうが
 
 #### Comments (2)
@@ -3995,7 +4006,7 @@
 
 ---
 
-### 18. YouTube見れるサイトをください🙇
+### 19. YouTube見れるサイトをください🙇
 **Author:** クランシー (18as35)
 
 <p>出来ればラグくないのでお願いします🥺</p>
@@ -4013,7 +4024,7 @@
 
 ---
 
-### 19. 桃鉄の質問
+### 20. 桃鉄の質問
 **Author:** 俺だぞ〜（三橋） (H2822063)
 
 <p>うちの学校は桃鉄1時間までとか8:30〜6:までとか決められてるんですけど34201826この番号はどうですか？</p>
@@ -4028,7 +4039,7 @@
 
 ---
 
-### 20. ワカメとか
+### 21. ワカメとか
 **Author:** おうが (18jt026)
 
 #### Comments (142)
