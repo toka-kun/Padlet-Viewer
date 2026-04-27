@@ -1,4 +1,4 @@
-最終更新: 2026/04/27 17:29:44
+最終更新: 2026/04/27 20:05:52
 
 # Padletポータルワールド
 
@@ -290,7 +290,7 @@
 ---
 
 ### 10. るるるの雑談部屋
-**Author:** ぴよたん💗 (barukokukyouwakoku)
+**Author:** るるる　バルコク共和国の大統領 (barukokukyouwakoku)
 
 <p>仮面ライダー部屋であり、みんなでおすすめの曲などを出し合ったり、絵を描いたりなど、幅広いジャンルで雑談をしています</p>
 
@@ -1294,7 +1294,7 @@
 ---
 
 ### 53. るるるの雑談部屋！
-**Author:** ぴよたん💗 (barukokukyouwakoku)
+**Author:** るるる　バルコク共和国の大統領 (barukokukyouwakoku)
 
 <p>宣伝自由にしていってね。</p><p>フォロパも受け付けてるよ！</p><p><br/></p>
 
@@ -2905,7 +2905,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1777883384&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=e01H%2BiSBFSa3AM3LladZpg6Q0xJimRgugNUA%2FX0qF6EzjeRC5Bt3mfsIHUkK5Fyr1h5tn0dJDG5v5373YfSxY9cOqhwsr1pnqZ316bavLc%2FyhDmr11GVVpGp8yvBbcSuAD9rwk%2BSmXR6XtYBkeXJKRU1sO%2BBRofnyDuRj7W4oMg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1777892752&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tmftMRFhKSyBV7BX%2FnyVKTnV2CkvNDHIa0GQfpu61MMi8i4ycel%2FbUNGpJb7YS8R0julMqk3JaytPX0kEzmcsPICJ6lUJSZtdusCGTfPlnNn33%2B%2BV%2Bo6QXMGnlJ2HVUufdkt8VL1xsCTrubhVFUj888nPn9I805OSsJDIWABIls%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
