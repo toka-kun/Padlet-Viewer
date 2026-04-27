@@ -1,13 +1,13 @@
-最終更新: 2026/04/19 17:56:25
+最終更新: 2026/04/27 20:06:43
 
 # 規制解除解除委員会
 
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-g07iihoi22rh2q7l
 - **Builder:** とるっぷい (TORI_TORI2)
-- **Posts:** 11
+- **Posts:** 14
 - **Created At (UTC):** Apr 12, 2026 10:30am
-- **Updated At (UTC):** Apr 19, 2026 07:51am
+- **Updated At (UTC):** Apr 27, 2026 10:23am
 
 ## 受付
 
@@ -151,5 +151,38 @@ No post
 #### Additional Information
 - **Created At (UTC):** Apr 12, 2026 11:24am
 - **Updated At (UTC):** Apr 12, 2026 11:24am
+
+---
+
+### 2. Post 2
+**Author:** とるっぷい (TORI_TORI2)
+
+[Attachment 1](http://momon-ga.me/)
+
+#### Additional Information
+- **Created At (UTC):** Apr 27, 2026 09:17am
+- **Updated At (UTC):** Apr 27, 2026 09:17am
+
+---
+
+### 3. Post 3
+**Author:** とるっぷい (TORI_TORI2)
+
+[Attachment 1](https://momon-ga.me/fanzine/mo2638984/)
+
+#### Additional Information
+- **Created At (UTC):** Apr 27, 2026 09:21am
+- **Updated At (UTC):** Apr 27, 2026 09:21am
+
+---
+
+### 4. Post 4
+**Author:** とるっぷい (TORI_TORI2)
+
+[Attachment 1](https://mangakoma.com/home)
+
+#### Additional Information
+- **Created At (UTC):** Apr 27, 2026 10:23am
+- **Updated At (UTC):** Apr 27, 2026 10:23am
 
 ---
