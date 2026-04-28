@@ -1,4 +1,4 @@
-最終更新: 2026/04/28 20:46:38
+最終更新: 2026/04/28 23:10:18
 
 # 受付と匿名用
 
@@ -7,13 +7,25 @@
 ## Summary
 - **Link:** https://padlet.com/woolisbest/padlet-99xq7bb7zjzcfzw0
 - **Builder:** woolisbest (woolisbest)
-- **Posts:** 6
+- **Posts:** 7
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Apr 28, 2026 10:34am
+- **Updated At (UTC):** Apr 28, 2026 12:12pm
 
 ## 受付
 
-### 1. ⇩がんばれあおば～⇩
+### 1. Post 1
+**Author:** woolisbest (woolisbest)
+
+[Attachment 1](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
+
+#### Additional Information
+- **Post color:** Purple
+- **Created At (UTC):** Apr 28, 2026 12:06pm
+- **Updated At (UTC):** Apr 28, 2026 12:06pm
+
+---
+
+### 2. ⇩がんばれあおば～⇩
 **Author:** woolisbest (woolisbest)
 
 #### Comments (5)
@@ -30,7 +42,7 @@
 
 ---
 
-### 2. アクセス要求して
+### 3. アクセス要求して
 **Author:** woolisbest (woolisbest)
 
 #### Comments (86)
@@ -128,12 +140,12 @@
 
 ---
 
-### 3. 最初からやり直し...
+### 4. 最初からやり直し...
 **Author:** woolisbest (woolisbest)
 
 [Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### Comments (64)
+#### Comments (63)
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Feb 10, 2026 09:01am): 何が起こった
 - **woolisbest** (Feb 10, 2026 09:02am): 荒らされた
 - **woolisbest** (Feb 10, 2026 09:02am): 全部消えてた
@@ -197,7 +209,6 @@
 - **sugar** (Mar 24, 2026 12:28pm): 入れてください
 - **ハッタユヅキ** (Apr 02, 2026 02:03am): 入れてください
 - **カルビー（SHINRAI)** (Apr 26, 2026 12:10pm): いれてええええええええええええええええええええ 
-- **凛藤 Dasudasu** (Apr 28, 2026 10:34am): https://padlet.com/dasudasu/padlet-2x3907izvqkv5266
 
 #### Additional Information
 - **Post color:** Red
@@ -213,7 +224,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (39)
+#### Comments (38)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -252,7 +263,6 @@
 - **yukkuto** (Mar 30, 2026 08:18am): した
 - **yukkuto** (Mar 30, 2026 08:18am): いれてー
 - **ハッタユヅキ** (Apr 02, 2026 09:05pm): しました
-- **凛藤 Dasudasu** (Apr 28, 2026 10:34am): https://padlet.com/dasudasu/padlet-2x3907izvqkv5266
 
 #### Additional Information
 - **Post color:** Red
@@ -268,7 +278,7 @@
 
 <p>荒らし</p><p>・匿名おるふぇ</p><p>・</p><p><br/></p><p>変態</p><p>・煮物</p><p>・いかれ天</p><p><br/></p><p>かリけーの要望</p><p>・リムル</p><p><br/></p>
 
-#### Comments (20)
+#### Comments (19)
 - **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #いやっほい族百八代目** (Jan 13, 2026 12:10pm): 少ないかも
 - **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #いやっほい族百八代目** (Jan 13, 2026 12:10pm): これ以上思い出せない
 - **woolisbest** (Jan 13, 2026 12:10pm): w
@@ -288,7 +298,6 @@
 - **government conspiracy＃クチャラー嫌い＃北上人＃芋帝国民** (Mar 08, 2026 09:34am): なぜ反煮物派が出禁なのか…
 - **woolisbest** (Mar 13, 2026 10:09am): 煮物部屋受け継いだ部屋だから..........
 - **woolisbest** (Mar 13, 2026 10:09am): 煮物出禁だけど...
-- **凛藤 Dasudasu** (Apr 28, 2026 10:34am): https://padlet.com/dasudasu/padlet-2x3907izvqkv5266
 
 #### Additional Information
 - **Post color:** Green
@@ -304,7 +313,7 @@
 
 [Attachment 1](https://padlet.com/sakuramoti_modori/home)
 
-#### Comments (22)
+#### Comments (21)
 - **さくらもち** (Feb 02, 2026 12:01pm): わー
 - **全ての部屋にコメントする** (Feb 11, 2026 12:56pm): ( ｀・∀・´)ﾉﾖﾛｼｸ
 - **ピカマン#究極のさくらもちの従僕** (Feb 17, 2026 11:57am): 今荒らされてる
@@ -326,7 +335,6 @@
 - **ｸﾞﾊｯ　＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎　＃隼人の下僕** (Mar 11, 2026 01:23pm): oh
 - **ｸﾞﾊｯ　＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎　＃隼人の下僕** (Mar 11, 2026 01:23pm): ＼(^o^)／
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Mar 14, 2026 01:31am): まじか
-- **凛藤 Dasudasu** (Apr 28, 2026 10:34am): https://padlet.com/dasudasu/padlet-2x3907izvqkv5266
 
 #### Additional Information
 - **Post color:** Blue
