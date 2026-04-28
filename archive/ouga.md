@@ -1,4 +1,4 @@
-最終更新: 2026/04/28 12:22:59
+最終更新: 2026/04/28 15:30:45
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 186
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 28, 2026 02:54am
+- **Updated At (UTC):** Apr 28, 2026 06:12am
 
 ## 管理者　連絡
 
@@ -181,12 +181,13 @@
 ### 11. hiro mc6881この人荒らし
 **Author:** おうが (18jt026)
 
-#### Comments (5)
+#### Comments (6)
 - **時透無一郎** (Mar 03, 2026 11:16am): うんまじでその人ヤバい
 - **おうが** (Mar 03, 2026 12:25pm): この人また掲示板以外で宣伝してたら消して報告して
 - **時透無一郎** (Mar 03, 2026 11:18pm): OK
 - **おうが** (Mar 04, 2026 12:42am): よろしく〜
 - **俺だぞ〜（三橋）** (Mar 10, 2026 02:59am): Ok
+- **GP** (Apr 28, 2026 05:52am): おｋ
 
 #### Additional Information
 - **Post color:** Black
@@ -265,11 +266,11 @@
 **Author:** 時透無一郎 (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 97 votes
-- **たけのこの里:** 96 votes
-- **ドウデモイイ:** 23 votes
+- **きのこの山:** 98 votes
+- **たけのこの里:** 97 votes
+- **ドウデモイイ:** 24 votes
 
-#### Comments (28)
+#### Comments (29)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
 - **ｸﾎﾞｲｯﾀ** (Mar 29, 2026 10:19pm): もう…きのこだ、たけのこだなんて争わないでいいじゃん…きのこの勝ちでいいじゃん…
 - **時透無一郎** (Mar 30, 2026 01:07am): きのこだな
@@ -298,11 +299,12 @@
 - **時透無一郎** (Apr 26, 2026 08:00am): 確かに
 - **GP** (Apr 27, 2026 04:40am): あらすな
 - **天才くん** (Apr 28, 2026 02:54am): チョコ自体がうまいからＤＯＵＤＥＭＯＩＩ
+- **Fortnite廃課金者** (Apr 28, 2026 06:12am): あと2パーあればたけのこ逆転できるぞ
 
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 28, 2026 02:53am
+- **Updated At (UTC):** Apr 28, 2026 06:14am
 
 ---
 
@@ -348,7 +350,7 @@
 ### 5. Post 5
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777951375&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YzQ6viLJGSOm%2B8oHFe8nESs4OjXQC7Ao9dAdOUn3uJ9XXegZjdGssNz8itSYQezFmJi8i3fZ%2BQpEtuUoQc5VaQW9QX1wXrtYKdrBfMGqfiUmUcHoTGEAdhtTBIhpLINs%2Bj5fBmGMBh8L%2FHc6KN0Rr7twG%2FMNv7TmFyza%2FgCSqqE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777962641&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ncWOpdP2asTIGZq6YbctfiCWW%2FX6XL8c7XF00wWFhhlCyKhZTKfHk4T5N0RKD5XYD3R2gRjfEyxkWFEK9ErC9cu4L3UDHXyG2bYGFcPoW3nD%2FgCVcZxL0ttg1Mt7PXbi8T9pNKKnGGhXibk2p1mv59Cx3SWE5nq92jBzOght%2FN4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (1)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -425,7 +427,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777951375&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=t3qqolHWTe10rczBRUuhyqteIDmrVhaDr8aBpPxC88qh8SwANdMg9XDupNLhv4%2FCREpSo3U4u7BMLTRXSxF8izrcR1%2FPxaB6leB9CgPytepJ9EAQSj%2BmQtTdn6YFJsSsPp0GPfsEnDFeQsL%2BgOC4x4TaplWKkDWGbt7NZxSqQnY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777962641&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0HgunaxZWANgA8cx5VGrKCaMfUJR5cfwUi72CPmQCf4vr8c2snOQXd1DfHmCAn%2F5JRIT8cfBVVzfMmXMnF5ZW1KmiB4axrtVyp%2BtHXRlxdboMCNnE3WSxMD4IOyQwU5SrJY%2BgXVYdeTv7lLo8136AkdZSyut83Bkj4MZYarjN9k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -905,8 +907,10 @@
 ### 1. 最近あらしがあります。そういう不必要な言葉を消してくれる（モデレーターになってくれる人）を募集中です。また、よくこの部屋に来ている人だと助かります。ルーレットで決めます。
 **Author:** 時透無一郎 (r0300353)
 
-#### Comments (1)
+#### Comments (3)
 - **フェットチーネしか勝たん** (Apr 27, 2026 12:59pm): ログインしないと無理だもんな
+- **Fortnite廃課金者** (Apr 28, 2026 05:59am): 自分やりましょうか？
+- **Fortnite廃課金者** (Apr 28, 2026 05:59am): よくここきますし
 
 #### Additional Information
 - **Post color:** Black
@@ -1699,7 +1703,7 @@
 ### 1. 好きな柱誰？
 **Author:** 時透無一郎 (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777951376&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5B9ptQ6Z%2BzdWu%2FKQWOKKpfXJq1JrGTDHp2hMaAX9P2UfJqGir1i%2FkPFyTUmEkQmgR6k5SLf6PFg6v8wbn9CORkftdGhbdBY2gHfAb90Q7yYdA4AA1dfGun%2BI8ZosiT7U75uwTVfiSQq7rwIJeNLQOBAqqRAyf5%2BnQudwq1czz4Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777962642&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iA%2FVNXzjRhXx5pG0l8MhBqOOON5IgDOrRxRadSLT0a3shigTfpFYg3ZSs0Y1UZfUmpDBjYVnv2zPR5m1CKlrmD%2FHcK4Mh1YQCnezij%2BdhjFndnsMJ7I%2FtHrKJnicTpB45xdINBJwUBoIBvibXcIaCecn0jVH3Q%2F%2FvrOIslsF3TU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (17)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -1745,7 +1749,7 @@
 
 <p>だれか〜できるひと〜いますか〜</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1777951376&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Rd6zmcgHehLG6Yf1QfCwYJLdNESEXiO6cHr5dYiqKX007dyIuTlWdifBaeWwW1u1tnXNv1H%2Bc2xS3mGnAi6bwWsAp5viJAAc5WcAykZ07pKZqNcTB%2FfuV%2B2uiiCvZL1J8D4iec%2BO%2FflArUlVVYE86wXHnk7fVKV3AI%2B6xGp7Vk8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1777962642&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PciTC87bEO0MxWoKkw5uyhPMwgfndg%2Bu%2BAzNnAcn6sfiWuPYvYlV7zok92%2BSVG%2Fef1eLLnL1a5pzPFGAZYG2Iam5ujTK73egs7THhoxvo%2Blb8INwqUCyex020EJa7ZMUnLH2HWLh7sSkd4WWfV9F1v6ER2jzByq11JmH7oPr2Kk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!** (Apr 26, 2026 10:13am): コード打っときます
@@ -2885,9 +2889,11 @@
 
 [Attachment 1](https://yandex.kz/games/)
 
-#### Comments (2)
+#### Comments (4)
 - **天才くん** (Apr 28, 2026 02:44am): できる？
 - **天才くん** (Apr 28, 2026 02:50am): できたら教えて
+- **ああ** (Apr 28, 2026 04:23am): 神
+- **天才くん** (Apr 28, 2026 04:24am): えぐい
 
 #### Additional Information
 - **Post color:** Black
@@ -3871,7 +3877,7 @@
 
 <p>しあとかわかめできない</p><p><br/></p>
 
-#### Comments (10)
+#### Comments (11)
 - **時透無一郎** (Apr 20, 2026 12:16pm): まじか
 - **天才くん** (Apr 20, 2026 11:24pm): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/Xb8YaLp1yxKEayn1) 全部無理だ
 - **天才くん** (Apr 21, 2026 03:48am): 誰か教えてください😭
@@ -3882,6 +3888,7 @@
 - **フェットチーネしか勝たん** (Apr 22, 2026 04:18am): url貼ったらできる
 - **天才くん** (Apr 23, 2026 07:20am): リンク貼ったらエラー出てくる
 - **天才くん** (Apr 23, 2026 11:55am): 今までの、プロキシ、ダウンロード系は全部ブロ
+- **天才くん** (Apr 28, 2026 04:27am): ｵｼｴﾃ
 
 #### Additional Information
 - **Post color:** Black
@@ -4325,9 +4332,10 @@
 
 <p>アイフィルターでも使える有能サイト教えて〜</p><p><br/></p>
 
-#### Comments (2)
+#### Comments (3)
 - **フェットチーネしか勝たん** (Apr 25, 2026 01:16pm): https://edu.50friends.com.mx/search
 - **フェットチーネしか勝たん** (Apr 25, 2026 01:17pm): url載せればできるよ
+- **GP** (Apr 28, 2026 05:51am): 制限かかってた(泣)
 
 #### Additional Information
 - **Post color:** Black
@@ -4616,7 +4624,7 @@
 ### 2. してる子話そ
 **Author:** おうが (18jt026)
 
-#### Comments (108)
+#### Comments (137)
 - **かっっぱ** (Feb 19, 2026 04:46am): ブロフルってなんですか？
 - **おうが** (Feb 19, 2026 06:03am): ロブロックス　ブロフルって調べてみてやってみて
 - **玲吏** (Feb 19, 2026 07:59am): やってますよ
@@ -4725,6 +4733,35 @@
 - **GP** (Apr 28, 2026 12:04am): ８１０
 - **GP** (Apr 28, 2026 12:05am): 114514
 - **R** (Apr 28, 2026 12:06am): え！
+- **GP** (Apr 28, 2026 05:45am): https://www.myinstants.com/ja/index/jp/
+- **GP** (Apr 28, 2026 05:45am): 面白いやつ
+- **GP** (Apr 28, 2026 05:46am): 知ってる人いると思う
+- **GP** (Apr 28, 2026 05:46am): じゃぁさよーなら♪
+- **R** (Apr 28, 2026 05:59am): しってる
+- **GP** (Apr 28, 2026 06:01am): https://ja.pngtree.com/so/%E4%B8%AD%E6%8C%87%E7%AB%8B%E3%81%A6%E3%82%8B
+- **GP** (Apr 28, 2026 06:01am): 入ってみて
+- **GP** (Apr 28, 2026 06:01am): ｗｗ
+- **R** (Apr 28, 2026 06:01am): おい
+- **GP** (Apr 28, 2026 06:01am): なんだよ
+- **R** (Apr 28, 2026 06:01am): やば
+- **GP** (Apr 28, 2026 06:01am): なにが
+- **GP** (Apr 28, 2026 06:01am): なにがやばいの
+- **GP** (Apr 28, 2026 06:02am): ねぇ
+- **R** (Apr 28, 2026 06:02am): 中指ｗｗｗｗ
+- **GP** (Apr 28, 2026 06:02am): ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
+- **GP** (Apr 28, 2026 06:02am): だめ？
+- **R** (Apr 28, 2026 06:02am): 🖕
+- **GP** (Apr 28, 2026 06:03am): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/R7dXadNAAP71Z6bl) 
+- **R** (Apr 28, 2026 06:03am): ！
+- **GP** (Apr 28, 2026 06:03am): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/R7dXadNAAP71Z6bl) 
+- **GP** (Apr 28, 2026 06:04am): ばいばい
+- **R** (Apr 28, 2026 06:04am): ｗｗｗｗｗｗｗ
+- **GP** (Apr 28, 2026 06:04am): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/R7dXadNAAP71Z6bl) 
+- **GP** (Apr 28, 2026 06:04am): 自分で書いた
+- **R** (Apr 28, 2026 06:04am): うま
+- **GP** (Apr 28, 2026 06:04am): かける？
+- **R** (Apr 28, 2026 06:04am): かわいい
+- **GP** (Apr 28, 2026 06:05am): ｴﾍ
 
 #### Additional Information
 - **Post color:** Black
