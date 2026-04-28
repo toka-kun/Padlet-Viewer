@@ -1,4 +1,4 @@
-最終更新: 2026/04/24 11:44:54
+最終更新: 2026/04/28 20:46:51
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 11
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Apr 23, 2026 06:42am
+- **Updated At (UTC):** Apr 28, 2026 11:32am
 
 ## ルール
 
@@ -34,6 +34,9 @@
 **Author:** とるっぷい (TORI_TORI2)
 
 [Attachment 1](https://padlet.com/TORI_TORI2/padlet-g07iihoi22rh2q7l)
+
+#### Comments (1)
+- **凛藤 Dasudasu** (Apr 28, 2026 11:32am): 受付
 
 #### Additional Information
 - **Created At (UTC):** Mar 23, 2026 12:17pm
