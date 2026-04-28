@@ -1,4 +1,4 @@
-最終更新: 2026/04/28 20:47:06
+最終更新: 2026/04/28 23:10:55
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 186
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 28, 2026 11:42am
+- **Updated At (UTC):** Apr 28, 2026 12:55pm
 
 ## 管理者　連絡
 
@@ -266,7 +266,7 @@
 **Author:** 時透無一郎 (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 99 votes
+- **きのこの山:** 100 votes
 - **たけのこの里:** 100 votes
 - **ドウデモイイ:** 24 votes
 
@@ -304,7 +304,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 28, 2026 11:30am
+- **Updated At (UTC):** Apr 28, 2026 01:13pm
 
 ---
 
@@ -350,7 +350,7 @@
 ### 5. Post 5
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777981623&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wr0cqqU8QRgbx1DgZr0RhSOMIBzeLuYyLLlXNxBQ9qHSS6q%2BcIP6H4qADkOQ2N4hWSu8tf8dEp%2FRKgrwwphwyK7adlXg9oiKk9tObrm55BN4rKmQsCOERCO7YicPrTNcapH28YmTuD2tOZL6JijlIkcKjMYmd18RohksrEvEyA8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777990251&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BWUQ1xbGlhQ%2Fsjcrxs30dYei%2BmykQ295MWEfu%2F8Hm8ZG6odMNMECi1RqzqcE%2FK%2BdlVqmxGcchAJjlJ6Z%2BuGfIcttLmwCvYWveervgp4Zgpf55OkTPqUyi3vxuIHJQj5uc%2BuuTcWeP7wX2yHnsKeQJEOph0zUS1TjYWWJJBO9%2FrQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (1)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -427,7 +427,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777981623&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hJGKIxLR5Fv9UbWyMjMDbq1Vu0qQO%2F4eGbMatvc%2FlI6YAAdrzwoRxGM8WWF3A86RSYyCNPSzqWJ0XlMO2G0zNnKtsAaUczgfa54f%2FlNC5WqmeN%2FZD4LproMYqZVq%2B%2B0zzlAegt3d%2FbgL0q%2BmreqbysZP2QtdT5uttx2TAuEvpt8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777990251&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LIAVuWJyoEeYZK2dFe0ggyWYrQIVGZywCfyH12qJSgZWP1NiHEl2MdGr5yhnHYPVNONApdJpcidmJkpxC250GypxNYStAL9PEYdl%2FbWQcMmmRrThsWiw9RxjaJm9t80qLFsa1vl2rnAc58vwo%2FHgNiIXics7ZdSL%2FezxfC0OEZY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -907,12 +907,14 @@
 ### 1. 最近あらしがあります。そういう不必要な言葉を消してくれる（モデレーターになってくれる人）を募集中です。また、よくこの部屋に来ている人だと助かります。ルーレットで決めます。
 **Author:** 時透無一郎 (r0300353)
 
-#### Comments (5)
+#### Comments (7)
 - **フェットチーネしか勝たん** (Apr 27, 2026 12:59pm): ログインしないと無理だもんな
 - **Fortnite廃課金者** (Apr 28, 2026 05:59am): 自分やりましょうか？
 - **Fortnite廃課金者** (Apr 28, 2026 05:59am): よくここきますし
 - **時透無一郎** (Apr 28, 2026 06:43am): ある程度集まったらルーレットで決めます
 - **時透無一郎** (Apr 28, 2026 11:42am): フェットチーネさんメールアドレスあればできると思う
+- **フェットチーネしか勝たん** (Apr 28, 2026 12:54pm): メアドはあるけどキッズ携帯だから送られてくるパスワードがわからないんだよな
+- **フェットチーネしか勝たん** (Apr 28, 2026 12:54pm): なんか裏技とかない？
 
 #### Additional Information
 - **Post color:** Black
@@ -1705,7 +1707,7 @@
 ### 1. 好きな柱誰？
 **Author:** 時透無一郎 (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777981623&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6HJZw051rASB5MH3AFfNYkD0OlEVXZozvxTmE5DUVlDwzLKQx7WdD29fY3j26DDQ5IW3N8kGJbKGOxERJSrpf8KSmsd%2BzKJwj6ZUuWzFN1WjK9oKze%2FIdZOrNksu0rGqcYK4RmSHb4XBRcEDCQmptGjIG6k%2FPpd5PICfqDREnhw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777990252&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=A8ElnVLbJwLK1GNhey4%2F%2Bu978vITPlV2pjVKslA8cc2KqKmICE1TirN%2Bao7axiI4Jrefr4i9sbE56wjGSjZWPgiiaxCOKLeL%2FB8ZX1bbEll4b17ye75hdBMPqC5q%2BVQQCjsEdW2m4Yl%2FZrjogwMv5tEHaoB94K6lrkLJ9QEVsJk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (17)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -1751,7 +1753,7 @@
 
 <p>だれか〜できるひと〜いますか〜</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1777981623&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pD%2FNIycH%2FDV3Wl7CzMjY4qr4zSypP5P8P7N76C7HzYCM6qrr0CJ23gAWFIhFpXcZ3DB7XeeDL8L7LcdadYSEWtf%2BONPPQtNCx1xaiqsogtelvonIrtGZEp7XpHq1VWAycPZfesN3POOWrN13S1G5%2B2wsDYsvZlYudRsjnekuQAo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1777990252&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jlSjhE%2FLVBgo3hMiLWVGg0j2kB36dd4vasWLLvOSD4GO8%2FaMoWBTZU64mhcQdbGNCEC2BQbvUIeECb5YpIcipycGGK3djSvoqEdSpHbSZ5RPW9ckWkQWrTepyqJR2emvq1ikTMz%2FZekooFHVCKvW%2F%2B4pWKVPqqnliHA79xgxlP0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!** (Apr 26, 2026 10:13am): コード打っときます
@@ -2891,11 +2893,12 @@
 
 [Attachment 1](https://yandex.kz/games/)
 
-#### Comments (4)
+#### Comments (5)
 - **天才くん** (Apr 28, 2026 02:44am): できる？
 - **天才くん** (Apr 28, 2026 02:50am): できたら教えて
 - **ああ** (Apr 28, 2026 04:23am): 神
 - **天才くん** (Apr 28, 2026 04:24am): えぐい
+- **フェットチーネしか勝たん** (Apr 28, 2026 12:55pm): 銃のゲームはできない
 
 #### Additional Information
 - **Post color:** Black
