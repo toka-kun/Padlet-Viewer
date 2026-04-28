@@ -1,4 +1,4 @@
-最終更新: 2026/04/28 08:55:34
+最終更新: 2026/04/28 12:22:59
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 185
+- **Posts:** 186
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 27, 2026 11:27pm
+- **Updated At (UTC):** Apr 28, 2026 02:54am
 
 ## 管理者　連絡
 
@@ -265,11 +265,11 @@
 **Author:** 時透無一郎 (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 96 votes
-- **たけのこの里:** 93 votes
+- **きのこの山:** 97 votes
+- **たけのこの里:** 96 votes
 - **ドウデモイイ:** 23 votes
 
-#### Comments (27)
+#### Comments (28)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
 - **ｸﾎﾞｲｯﾀ** (Mar 29, 2026 10:19pm): もう…きのこだ、たけのこだなんて争わないでいいじゃん…きのこの勝ちでいいじゃん…
 - **時透無一郎** (Mar 30, 2026 01:07am): きのこだな
@@ -297,11 +297,12 @@
 - **フェットチーネしか勝たん** (Apr 25, 2026 01:15pm): てかちゃんとと同率なのおもろい
 - **時透無一郎** (Apr 26, 2026 08:00am): 確かに
 - **GP** (Apr 27, 2026 04:40am): あらすな
+- **天才くん** (Apr 28, 2026 02:54am): チョコ自体がうまいからＤＯＵＤＥＭＯＩＩ
 
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 27, 2026 10:42pm
+- **Updated At (UTC):** Apr 28, 2026 02:53am
 
 ---
 
@@ -347,7 +348,7 @@
 ### 5. Post 5
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777938931&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=T82IT5oBpTPstpaOWUhzPSHoMzkv8DNO4MeiO6OzrbrS6soTPp5Rak%2FMJi0lYWL9iEzpXY6fjVZ1GT2TfyyI0PcvL5Vigedx3s65sHAFIHEQnrSBiO5V3hfxWCd2Es98l6%2BYQwXPoHsCw0bKcOULpQ69I0pWfYWHArCjh8OIH%2Bs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777951375&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YzQ6viLJGSOm%2B8oHFe8nESs4OjXQC7Ao9dAdOUn3uJ9XXegZjdGssNz8itSYQezFmJi8i3fZ%2BQpEtuUoQc5VaQW9QX1wXrtYKdrBfMGqfiUmUcHoTGEAdhtTBIhpLINs%2Bj5fBmGMBh8L%2FHc6KN0Rr7twG%2FMNv7TmFyza%2FgCSqqE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (1)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -424,7 +425,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777938931&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ra2QjZ69jEaVZrwT38BAHSUOcmxManZGtfKSs%2F4SSiPzAilR2HeimDms4j2sT97eVARmfV4GBJiRuhcdZjQH81TAUcKPneFKRBZHAVbZXCy%2FRF78JRqC8K6%2FGcyeAhfiKqvG3ipWIP4pmXxZwVN5uQ6LZsu9Tc30sCh%2BEmLLu24%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777951375&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=t3qqolHWTe10rczBRUuhyqteIDmrVhaDr8aBpPxC88qh8SwANdMg9XDupNLhv4%2FCREpSo3U4u7BMLTRXSxF8izrcR1%2FPxaB6leB9CgPytepJ9EAQSj%2BmQtTdn6YFJsSsPp0GPfsEnDFeQsL%2BgOC4x4TaplWKkDWGbt7NZxSqQnY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -934,6 +935,9 @@
 
 ### 3. 来る気配無いので回します
 **Author:** おうが (18jt026)
+
+#### Comments (1)
+- **GP** (Apr 28, 2026 12:02am): どうしたの？
 
 #### Additional Information
 - **Post color:** Black
@@ -1695,7 +1699,7 @@
 ### 1. 好きな柱誰？
 **Author:** 時透無一郎 (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777938932&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NT4Fqx3OHrVgkkQ4Y8E0vSzwzE3BNnFqBzx7EAmZjsjhYazXtqoigUvw1dVVpGYm2JadZk9lC1sqdAuEhHta8JvaVeP%2Fw1yEuErEs61INcaZXRdgxzW46OxE8o0rXTw2gBOV83U8XyaPZMyOB4%2BLOSJZC78m4g1YSNcKCpkLUAo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777951376&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5B9ptQ6Z%2BzdWu%2FKQWOKKpfXJq1JrGTDHp2hMaAX9P2UfJqGir1i%2FkPFyTUmEkQmgR6k5SLf6PFg6v8wbn9CORkftdGhbdBY2gHfAb90Q7yYdA4AA1dfGun%2BI8ZosiT7U75uwTVfiSQq7rwIJeNLQOBAqqRAyf5%2BnQudwq1czz4Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (17)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -1741,7 +1745,7 @@
 
 <p>だれか〜できるひと〜いますか〜</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1777938932&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JtWu4IJnGbo82wlqX5optIpcy909bBld4HpC1fn%2FiWh2ZNoM6csA6DfNyUGqtN4cPfdnqBAt02Yh%2BQgXRJ%2BeyD52rymmDIvhpGnnlPeFkks%2BURRDDNxGJjhiPzHOTOqHNK7IK7ghOGgP1KWRKE%2FeU1N0IM70lFFvtbksy%2BP%2FWFk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1777951376&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Rd6zmcgHehLG6Yf1QfCwYJLdNESEXiO6cHr5dYiqKX007dyIuTlWdifBaeWwW1u1tnXNv1H%2Bc2xS3mGnAi6bwWsAp5viJAAc5WcAykZ07pKZqNcTB%2FfuV%2B2uiiCvZL1J8D4iec%2BO%2FflArUlVVYE86wXHnk7fVKV3AI%2B6xGp7Vk8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!** (Apr 26, 2026 10:13am): コード打っときます
@@ -2877,6 +2881,22 @@
 ---
 
 ### 2. Post 2
+**Author:** 天才くん
+
+[Attachment 1](https://yandex.kz/games/)
+
+#### Comments (2)
+- **天才くん** (Apr 28, 2026 02:44am): できる？
+- **天才くん** (Apr 28, 2026 02:50am): できたら教えて
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 28, 2026 02:43am
+- **Updated At (UTC):** Apr 28, 2026 02:43am
+
+---
+
+### 3. Post 3
 **Author:** 忍者めししか勝たん
 
 <p>これは？</p>
@@ -2895,7 +2915,7 @@
 
 ---
 
-### 3. Post 3
+### 4. Post 4
 **Author:** 忍者めししか勝たん
 
 <p>これは？</p>
@@ -2912,7 +2932,7 @@
 
 ---
 
-### 4. ゲーム教えてー
+### 5. ゲーム教えてー
 **Author:** ギャル
 
 <p>誰かRoblox持ってる人いないですかー</p>
@@ -2924,7 +2944,7 @@
 
 ---
 
-### 5. いろいろはいってるゲームサイト
+### 6. いろいろはいってるゲームサイト
 **Author:** ギャル
 
 <p><a rel="noopener noreferrer nofollow" href="https://mathwow.org/play/">https://mathwow.org/play/</a></p>
@@ -2938,7 +2958,7 @@
 
 ---
 
-### 6. マ◯オカート
+### 7. マ◯オカート
 **Author:** やまにつつ (yamanitsutsu)
 
 <p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/king-kong-kart-racing/index.html">https://cdn-factory.marketjs.com/en/king-kong-kart-racing/index.html</a></p>
@@ -2954,7 +2974,7 @@
 
 ---
 
-### 7. 放置ゲー
+### 8. 放置ゲー
 **Author:** やまにつつ (yamanitsutsu)
 
 <p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/idle-mining-empire/index.html?nocache">https://cdn-factory.marketjs.com/en/idle-mining-empire/index.html?nocache</a></p>
@@ -2966,7 +2986,7 @@
 
 ---
 
-### 8. Post 8
+### 9. Post 9
 **Author:** やまにつつ (yamanitsutsu)
 
 <p>これとか？</p><p><a rel="noopener noreferrer nofollow" href="https://mergecraft.gcdn.co/publish/html5/">https://mergecraft.gcdn.co/publish/html5/</a></p>
@@ -2978,7 +2998,7 @@
 
 ---
 
-### 9. これはハマっちゃうって
+### 10. これはハマっちゃうって
 **Author:** こnにちは
 
 <p>ブロされたらごめん</p>
@@ -2997,7 +3017,7 @@
 
 ---
 
-### 10. ロブロックスフレンドなりませんか？
+### 11. ロブロックスフレンドなりませんか？
 **Author:** こnにちは
 
 <p>IDはABC123goriです</p>
@@ -3017,7 +3037,7 @@
 
 ---
 
-### 11. これは
+### 12. これは
 **Author:** フェットチーネしか勝たん
 
 <p>左のボタンはいろいろできて右はマイクラできる</p>
@@ -3040,7 +3060,7 @@
 
 ---
 
-### 12. おもろいよ
+### 13. おもろいよ
 **Author:** ワイ君
 
 [Attachment 1](https://www.flightradar24.com/35.13,135.11/8)
@@ -3052,18 +3072,6 @@
 - **Post color:** Black
 - **Created At (UTC):** Apr 04, 2026 12:11pm
 - **Updated At (UTC):** Apr 04, 2026 12:11pm
-
----
-
-### 13. おもろいよ
-**Author:** ワイ君
-
-[Attachment 1](https://www.flightradar24.com/35.13,135.11/8)
-
-#### Additional Information
-- **Post color:** Black
-- **Created At (UTC):** Apr 04, 2026 12:10pm
-- **Updated At (UTC):** Apr 04, 2026 12:10pm
 
 ---
 
@@ -3079,15 +3087,28 @@
 
 ---
 
-### 15. ノーブロゲームサイト
+### 15. おもろいよ
+**Author:** ワイ君
+
+[Attachment 1](https://www.flightradar24.com/35.13,135.11/8)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 04, 2026 12:10pm
+- **Updated At (UTC):** Apr 04, 2026 12:10pm
+
+---
+
+### 16. ノーブロゲームサイト
 **Author:** XminionQWQ
 
 [Attachment 1](https://sites.google.com/view/prohomework2z/dictionary)
 
-#### Comments (3)
+#### Comments (4)
 - **XminionQWQ** (Apr 03, 2026 02:02am): これにはiフィルター民もびっくり！
 - **こやまさん** (Apr 15, 2026 05:30am): 神やん
 - **Sleepy seal** (Apr 22, 2026 09:34am): なんか教育委員会のせいで404
+- **アラレコ** (Apr 28, 2026 01:29am): 入ってゲームのボタン押したら真っ白の画面で固まる
 
 #### Additional Information
 - **Post color:** Black
@@ -3096,7 +3117,7 @@
 
 ---
 
-### 16. 桃鉄のパスワード求む
+### 17. 桃鉄のパスワード求む
 **Author:** ワイ君
 
 #### Additional Information
@@ -3106,7 +3127,7 @@
 
 ---
 
-### 17. これは？
+### 18. これは？
 **Author:** フェットチーネしか勝たん
 
 <p>そんな面白いのないとは思うけど</p>
@@ -3123,7 +3144,7 @@
 
 ---
 
-### 18. わかめチューブのサイト載せてください
+### 19. わかめチューブのサイト載せてください
 **Author:** あかさたな
 
 #### Additional Information
@@ -3133,7 +3154,7 @@
 
 ---
 
-### 19. 色々できるゲームサイト
+### 20. 色々できるゲームサイト
 **Author:** 綱啓永推し❤️❤️ (r0400268_1)
 
 [Attachment 1](https://sites.google.com/classroom.center/view/home)
@@ -3152,7 +3173,7 @@
 
 ---
 
-### 20. 色々できるゲームサイト
+### 21. 色々できるゲームサイト
 **Author:** 綱啓永推し❤️❤️ (r0400268_1)
 
 [Attachment 1](https://ubg77.gitlab.io/)
@@ -3168,7 +3189,7 @@
 
 ---
 
-### 21. テトリス
+### 22. テトリス
 **Author:** 綱啓永推し❤️❤️ (r0400268_1)
 
 [Attachment 1](https://stemask.bex.jp/tetris/)
@@ -3184,7 +3205,7 @@
 
 ---
 
-### 22. わかめチューブのリンク乗っけてください
+### 23. わかめチューブのリンク乗っけてください
 **Author:** あかさたな
 
 #### Comments (3)
@@ -3199,7 +3220,7 @@
 
 ---
 
-### 23. ゲームできるサイト教えて
+### 24. ゲームできるサイト教えて
 **Author:** あかさたな
 
 #### Comments (2)
@@ -3213,7 +3234,7 @@
 
 ---
 
-### 24. 桃鉄教育版の授業パスワード教えて
+### 25. 桃鉄教育版の授業パスワード教えて
 **Author:** フェットチーネしか勝たん
 
 #### Additional Information
@@ -3223,7 +3244,7 @@
 
 ---
 
-### 25. たっくんさんもっと教えてくれませんか？
+### 26. たっくんさんもっと教えてくれませんか？
 **Author:** 時透無一郎 (r0300353)
 
 #### Additional Information
@@ -3233,7 +3254,7 @@
 
 ---
 
-### 26. Post 26
+### 27. Post 27
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://24glo.com/game/index.html)
@@ -3249,7 +3270,7 @@
 
 ---
 
-### 27. Post 27
+### 28. Post 28
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://www.dailytoolz.com/gameindex.php)
@@ -3265,7 +3286,7 @@
 
 ---
 
-### 28. Post 28
+### 29. Post 29
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://medv.io/bit-planes/?mode=survival)
@@ -3281,7 +3302,7 @@
 
 ---
 
-### 29. 「
+### 30. 「
 **Author:** aaabbbccc (mazamaza)
 
 <p><br/></p><p><br/></p>
@@ -3302,7 +3323,7 @@
 
 ---
 
-### 30. URL貼ったらなんでも開けるサイトとかない？
+### 31. URL貼ったらなんでも開けるサイトとかない？
 **Author:** 現実見ろや粉カス (gs203427)
 
 #### Additional Information
@@ -3312,7 +3333,7 @@
 
 ---
 
-### 31. こんにちわー
+### 32. こんにちわー
 **Author:** いっせい
 
 #### Comments (1)
@@ -3325,16 +3346,18 @@
 
 ---
 
-### 32. ゲームできる！
+### 33. ゲームできる！
 **Author:** キューピット
 
-#### Comments (6)
+#### Comments (8)
 - **おうが** (Mar 16, 2026 01:59am): おーおめでとう！！
 - **キューピット** (Mar 16, 2026 06:09am): 教えましょうか？
 - **時透無一郎** (Mar 16, 2026 10:13am): 教えて
 - **おうが** (Mar 16, 2026 11:03pm): https://sites.google.com/view/prohomework2z/dictionary
 - **ドラえもん** (Mar 16, 2026 11:18pm): ゲームってなんのゲームですか？
 - **ドラえもん** (Mar 16, 2026 11:21pm): あ、今日入ったドラえもん(仮名)です
+- **リョクフウ** (Apr 28, 2026 01:31am): おうがさーん、アイフィルター民なんですけどそのサイトゲームのとこ押したら真っ白の画面で固まって動かなくなります、解決方法あるならお願いします。
+- **リョクフウ** (Apr 28, 2026 01:40am): ちなみにProxyはブロされます
 
 #### Additional Information
 - **Post color:** Black
@@ -3343,7 +3366,7 @@
 
 ---
 
-### 33. i-FILTER.の人必見（枚方市立の小学校の行ってる人のみ）
+### 34. i-FILTER.の人必見（枚方市立の小学校の行ってる人のみ）
 **Author:** 俺だぞ〜（三橋） (H2822063)
 
 <p>これgames押したらクレイジーゲームとかできる</p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://hygiene.yodetergent">https://hygiene.yodetergent</a></p><p><br></p><p>これは検索したらなんでも開けるサイト</p><p>あと左のゲームボタンを押したらゲームできる（時々できない）</p><p>そして🎵マークを押すと音楽が聴ける</p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://pc-freak.net/proxy/">https://pc-freak.net/proxy/</a></p><p>これはURLをコピペするとなんでも開ける</p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://zhenxiangba.com/phproxy-improved-master/">https://zhenxiangba.com/phproxy-improved-master/</a></p><p><br></p><p>これはちょとめんどいけどなんでも開ける</p><p>これは「https://」部分を消さないと開けない</p><p><br></p><p><br></p>
@@ -3362,7 +3385,7 @@
 
 ---
 
-### 34. ろぶろっくすほしい
+### 35. ろぶろっくすほしい
 **Author:** 本庄克章 (YAJUAU)
 
 #### Comments (7)
@@ -3381,7 +3404,7 @@
 
 ---
 
-### 35. 練馬区民でプロキシ持ってたらくれ
+### 36. 練馬区民でプロキシ持ってたらくれ
 **Author:** バンダナわどるど Xx-tucasanz-xX りおと53番弟子　りおと族27代目 (gs203418)
 
 #### Comments (3)
@@ -3396,7 +3419,7 @@
 
 ---
 
-### 36. ブロックなんですけどー
+### 37. ブロックなんですけどー
 **Author:** Responsible Jackrabbit
 
 <p>ブロックされてないのお願い🙇</p>
@@ -3412,7 +3435,7 @@
 
 ---
 
-### 37. ゲームをのして
+### 38. ゲームをのして
 **Author:** おうが (18jt026)
 
 #### Comments (366)
@@ -4143,7 +4166,7 @@
 ### 21. ワカメとか
 **Author:** おうが (18jt026)
 
-#### Comments (142)
+#### Comments (143)
 - **おうが** (Feb 17, 2026 12:04am): わかめhttps://wkt-nana-04.onrender.com/login
 - **匿名** (Feb 19, 2026 06:39am): 再度読み込みになっ見れないです
 - **おうが** (Feb 19, 2026 11:03pm): 多分ラグいのかな？
@@ -4286,6 +4309,7 @@
 - **綱啓永推し❤️❤️** (Mar 29, 2026 01:02am): 誰かTikTok知りませんか
 - **匿名** (Apr 20, 2026 01:58am): https://subscribe-vcsa.mrwheeler.uk/!
 - **綱啓永推し❤️❤️** (Apr 24, 2026 10:41am): ブロです
+- **やりまん** (Apr 28, 2026 12:00am): アイフィルターで使えるさいとください
 
 #### Additional Information
 - **Post color:** Black
@@ -4592,7 +4616,7 @@
 ### 2. してる子話そ
 **Author:** おうが (18jt026)
 
-#### Comments (98)
+#### Comments (108)
 - **かっっぱ** (Feb 19, 2026 04:46am): ブロフルってなんですか？
 - **おうが** (Feb 19, 2026 06:03am): ロブロックス　ブロフルって調べてみてやってみて
 - **玲吏** (Feb 19, 2026 07:59am): やってますよ
@@ -4691,6 +4715,16 @@
 - **ホシツブ** (Apr 27, 2026 12:20pm): 誰かフレンドなって狐くれない？
 - **ホシツブ** (Apr 27, 2026 12:20pm): それか何かの永久
 - **GP** (Apr 27, 2026 11:27pm): 狐って?
+- **R** (Apr 28, 2026 12:03am): こんにちわ
+- **GP** (Apr 28, 2026 12:03am): やっほー
+- **GP** (Apr 28, 2026 12:03am): だれ？
+- **R** (Apr 28, 2026 12:03am): いえーい
+- **GP** (Apr 28, 2026 12:03am): ﾀﾞﾏﾚ
+- **GP** (Apr 28, 2026 12:03am): うそ
+- **R** (Apr 28, 2026 12:04am): 😁
+- **GP** (Apr 28, 2026 12:04am): ８１０
+- **GP** (Apr 28, 2026 12:05am): 114514
+- **R** (Apr 28, 2026 12:06am): え！
 
 #### Additional Information
 - **Post color:** Black
