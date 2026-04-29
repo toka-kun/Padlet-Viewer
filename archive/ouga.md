@@ -1,4 +1,4 @@
-最終更新: 2026/04/29 18:10:17
+最終更新: 2026/04/29 20:39:06
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 187
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 29, 2026 08:56am
+- **Updated At (UTC):** Apr 29, 2026 11:34am
 
 ## 管理者　連絡
 
@@ -55,7 +55,7 @@
 ### 4. じゃあみんなバイバイ！
 **Author:** おうが (18jt026)
 
-#### Comments (17)
+#### Comments (7)
 - **おうが** (Apr 24, 2026 01:26am): めっちゃ悲しいけど消すよりはいいと思いました！
 - **おうが** (Apr 24, 2026 01:26am): これからも頑張ってね！！！！
 - **時透無一郎** (Apr 24, 2026 07:43am): 戻ってこないんですか？
@@ -63,16 +63,6 @@
 - **フェットチーネしか勝たん** (Apr 24, 2026 01:29pm): 受援頑張ってね
 - **28メガネ** (Apr 26, 2026 05:49am): お前誰ってなるかもしれないけど、頑張ってください
 - **28メガネ** (Apr 26, 2026 05:50am): 👍️
-- **やまもと先生** (Apr 29, 2026 05:01am): 時透無一郎さんは千住双葉小学校の６年のたいちさんんですよね〜
-- **アラレグモ** (Apr 29, 2026 05:04am): 時透無一郎さんは千住双葉小学校の６年のたいちさんんですよね〜
-- **アラレグモ** (Apr 29, 2026 05:04am): 時透無一郎さんは千住双葉小学校の６年のたいちさんんですよね〜
-- **アラレグモ** (Apr 29, 2026 05:04am): 時透無一郎さんは千住双葉小学校の６年のたいちさんんですよね〜
-- **アラレグモ** (Apr 29, 2026 05:04am): 時透無一郎さんは千住双葉小学校の６年のたいちさんんですよね〜
-- **アラレグモ** (Apr 29, 2026 05:04am): 時透無一郎さんは千住双葉小学校の６年のたいちさんんですよね〜
-- **アラレグモ** (Apr 29, 2026 05:04am): 時透無一郎さんは千住双葉小学校の６年のたいちさんんですよね〜
-- **アラレグモ** (Apr 29, 2026 05:04am): 時透無一郎さんは千住双葉小学校の６年のたいちさんんですよね〜
-- **アラレグモ** (Apr 29, 2026 05:04am): 時透無一郎さんは千住双葉小学校の６年のたいちさんんですよね〜
-- **アラレグモ** (Apr 29, 2026 05:04am): 時透無一郎さんは千住双葉小学校の６年のたいちさんんですよね〜
 
 #### Additional Information
 - **Post color:** Black
@@ -365,7 +355,7 @@
 ### 5. Post 5
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1778058614&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BMTxmgYrW5E9M59okQhggWXL2cJuhFcSC9%2FyUIcoAzrNv8RlW344GS2ZAQri83djmLUXKr5vTfVymflLGYH3lo6yQn%2FV0NwkL1sBFyqIte1N6TpBTlRtl%2Fy0NUcino6FEvMZIf2%2Br3aVBpXHvvM5kHVNDl42hl7s3xT%2Faqa%2BCmE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1778067543&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1Hp6c39ycJimOqbjmnOF4kkA1sWxoRrZAkea%2FIVQtEZ5yC6TOoeFUD57gP60j9iCNJAI6XxQVAvraqPn%2BCmrrrvzRcTJ2Cu6kp7ohqgYWA7Y2EwS6cy684mQUhkbO6%2FAvrjOkGU57DjId%2BMtYjojP%2BiB2yvQrrXtMSFOwFOhxoY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (1)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -442,7 +432,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1778058614&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZE%2BzsJE5oFIQxIjW0VVrvQO9dmjJG6kx3Uun7nMvXHyk7z7ARcsoP5bY%2B51AI3Cupv%2BOw%2FjdWzqqrWZNuWYoNWJ3N3bVGMkBJjXpqrOhNtVtGcqsjWzLG1SCTHMn9xH%2BsMbuWEfW8v%2FvMiU%2F8q%2BcPbdTdWHyyg5NwrMyOGO8nzM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1778067543&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KGoyGX1leKRxmgC5DMS3LRqYDjEZJqpBGpyocH6x%2FuRMB%2FdNSf%2FR1IL7gtri1YuHO9jny23brRkd1nXFw1Pu97cE4N61stxCJsjdDE0uKvN9R0lNQvZnzrLRaS%2FiVdfD6FgrTAqog3oBM3bd6Ghv6qX%2BsGoJT4I9Cja49l1y954%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -922,8 +912,11 @@
 ### 1. 最近あらしがあります。そういう不必要な言葉を消してくれる（モデレーターになってくれる人）を募集中です。また、よくこの部屋に来ている人だと助かります。
 **Author:** 時透無一郎 (r0300353)
 
-#### Comments (1)
+#### Comments (4)
 - **時透無一郎** (Apr 29, 2026 08:56am): メアド貼ってください。信用できる人にだけモデレーターあげます。
+- **フェットチーネしか勝たん** (Apr 29, 2026 10:09am): 今気づいたけど管理者連絡のところにまだ個人情報乗ってるよ
+- **フェットチーネしか勝たん** (Apr 29, 2026 10:09am): 今気づいたけど管理者連絡のところにまだ個人情報乗ってるよ
+- **時透無一郎** (Apr 29, 2026 11:35am): 誰だよまじで
 
 #### Additional Information
 - **Post color:** Black
@@ -1728,7 +1721,7 @@
 ### 1. 好きな柱誰？
 **Author:** 時透無一郎 (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1778058615&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KQYO6TPmMjAnonD2HzrYWxxLmp%2F2TUYTfBIstc3j1lnSXK0DbKdl%2B0AQJRuuNMFKOjUVGSch0M6C%2FCGOCoNp1D69Ipc8Myk6mauNtuBdGcnjGE0FhtSyw7VV%2BxJftFs897m8au4PCqEF13zBu9P6gd2GjY5raM9of5%2BvmImSjE4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1778067544&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5Ipt5wYNPdWoCPopWK5SRrPoxEKyzoMgk1xaHduzArKKpcLcvILTesp9vidrXTZP8m0n8MxlX7dZd3JOdK8fOm3rVX4RvbuX8mH1tdDdvhBDl6r4eBh8A5rQoaspx9no1cANxKJTk9qLjgAgci2KABssQmhjj1e5LnTsIPgYRD4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (17)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -1761,6 +1754,10 @@
 
 <p>マイクラしてる？</p>
 
+#### Comments (2)
+- **フェットチーネしか勝たん** (Apr 29, 2026 09:53am): してた
+- **フェットチーネしか勝たん** (Apr 29, 2026 09:53am): よくベットウォーズしてた
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Apr 29, 2026 02:12am
@@ -1773,7 +1770,7 @@
 
 <p>だれか〜できるひと〜いますか〜</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1778058615&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3nDTXmtNwN%2B6eqDrFS7RtR3hZTblmfsvVc0v1JgDnQ7iZXxF3yIQ0eLP5ilM0oHhV4Gu4oUJ6Cfe2zwyOthOspTPON%2B1gUJYFAldK0FcJF%2FkYOzlInKC49A4m3ntemBPkOJYlXcxx%2FQrB4pOQXdXrw1tM9jhIkC1w93X5C4Q0%2Fg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1778067544&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ikNDzTRSwUuKVNhKaYYkeiKEivDHMMcZTI7rwePCxCD4nKj1XON2hA1g%2ByUy7Aimu6FomRjG2o22TwQKXewQSvUpa03EdMdCLPiGz71sOWyoD%2F31jgHn5T5pnwKEe31tufKxFjN%2FHt58KPF%2FT8aMplJbmkrsvA%2FC4lsgfD6olug%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!** (Apr 26, 2026 10:13am): コード打っときます
