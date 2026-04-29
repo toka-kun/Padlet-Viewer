@@ -1,4 +1,4 @@
-最終更新: 2026/04/29 20:39:06
+最終更新: 2026/04/29 23:00:45
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 187
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 29, 2026 11:34am
+- **Updated At (UTC):** Apr 29, 2026 12:22pm
 
 ## 管理者　連絡
 
@@ -355,7 +355,7 @@
 ### 5. Post 5
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1778067543&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1Hp6c39ycJimOqbjmnOF4kkA1sWxoRrZAkea%2FIVQtEZ5yC6TOoeFUD57gP60j9iCNJAI6XxQVAvraqPn%2BCmrrrvzRcTJ2Cu6kp7ohqgYWA7Y2EwS6cy684mQUhkbO6%2FAvrjOkGU57DjId%2BMtYjojP%2BiB2yvQrrXtMSFOwFOhxoY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1778076041&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6kn8ck5KR3mywp6D97MQsShu3Q7G6v0XXw8giWi5iWqaRi5haySoZknTQ%2Fv7NVDXSnPHJ0yp%2Fms%2FTcCtDmmsZItBsDewo%2BeY1%2BUq%2BBTaNZWdNrAyUo2Vl788JgWIJMx79sDIP0uyl7N0OqDSNTwAxa9SaatTj41CkQ4JI4svcqE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (1)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -432,7 +432,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1778067543&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KGoyGX1leKRxmgC5DMS3LRqYDjEZJqpBGpyocH6x%2FuRMB%2FdNSf%2FR1IL7gtri1YuHO9jny23brRkd1nXFw1Pu97cE4N61stxCJsjdDE0uKvN9R0lNQvZnzrLRaS%2FiVdfD6FgrTAqog3oBM3bd6Ghv6qX%2BsGoJT4I9Cja49l1y954%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1778076042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iESeEeTLKyNxMgEhz9F7qfLixuqAJpR1BXJzJ%2F9N1Uala2NPsWlng7MTtq77nb8apDg8E6lNldhl%2BijnVSlkXcuJd9j1bszjJtrcgFC%2FVFuLEBdpTBgygLcX2wiu09xpF%2Bj6SVLGtWMoj3Ol0GpwYovP4VYqbqQHhIIiY5BkHz0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -912,11 +912,8 @@
 ### 1. 最近あらしがあります。そういう不必要な言葉を消してくれる（モデレーターになってくれる人）を募集中です。また、よくこの部屋に来ている人だと助かります。
 **Author:** 時透無一郎 (r0300353)
 
-#### Comments (4)
+#### Comments (1)
 - **時透無一郎** (Apr 29, 2026 08:56am): メアド貼ってください。信用できる人にだけモデレーターあげます。
-- **フェットチーネしか勝たん** (Apr 29, 2026 10:09am): 今気づいたけど管理者連絡のところにまだ個人情報乗ってるよ
-- **フェットチーネしか勝たん** (Apr 29, 2026 10:09am): 今気づいたけど管理者連絡のところにまだ個人情報乗ってるよ
-- **時透無一郎** (Apr 29, 2026 11:35am): 誰だよまじで
 
 #### Additional Information
 - **Post color:** Black
@@ -1721,7 +1718,7 @@
 ### 1. 好きな柱誰？
 **Author:** 時透無一郎 (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1778067544&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5Ipt5wYNPdWoCPopWK5SRrPoxEKyzoMgk1xaHduzArKKpcLcvILTesp9vidrXTZP8m0n8MxlX7dZd3JOdK8fOm3rVX4RvbuX8mH1tdDdvhBDl6r4eBh8A5rQoaspx9no1cANxKJTk9qLjgAgci2KABssQmhjj1e5LnTsIPgYRD4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1778076042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UkvwhGVnrvtz%2Bl%2B8qru43yoerT9%2Bo%2BRT99%2BR7ho3d%2BuMVFLMXJcNIYscJpUxFmhcPBVv%2BxzmDg0tPBIizjJBvObeqsd6E6rSFbF3RqMXMot%2FzxbFkUaE3qd2xR%2BbXsqjmPQvxUrEk8NTfEFKDJGmskJgvgx7%2B4aCOevRFhWc3RE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (17)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -1770,7 +1767,7 @@
 
 <p>だれか〜できるひと〜いますか〜</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1778067544&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ikNDzTRSwUuKVNhKaYYkeiKEivDHMMcZTI7rwePCxCD4nKj1XON2hA1g%2ByUy7Aimu6FomRjG2o22TwQKXewQSvUpa03EdMdCLPiGz71sOWyoD%2F31jgHn5T5pnwKEe31tufKxFjN%2FHt58KPF%2FT8aMplJbmkrsvA%2FC4lsgfD6olug%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1778076042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=H%2FyZ8d2GkJ9guOiLbiUhDAa8%2BwFrxYBIkwjbv5%2B5y%2BXaFp7vbQ89eTEURT1RMQyPCfS0bwuCx5PzzzXSpP2KqPdzB036XFvSawGeXYIO43%2BzO0%2BWjB6aqvgf%2BLGTSc3UkOimYrapx%2BIUxAKyX8BvfiGVJpyHNW32RDNjj8%2FGaeM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!** (Apr 26, 2026 10:13am): コード打っときます
