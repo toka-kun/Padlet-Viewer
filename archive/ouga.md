@@ -1,4 +1,4 @@
-最終更新: 2026/04/28 23:10:55
+最終更新: 2026/04/29 11:59:11
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 186
+- **Posts:** 187
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 28, 2026 12:55pm
+- **Updated At (UTC):** Apr 29, 2026 02:12am
 
 ## 管理者　連絡
 
@@ -268,7 +268,7 @@
 **どっち派？:**
 - **きのこの山:** 100 votes
 - **たけのこの里:** 100 votes
-- **ドウデモイイ:** 24 votes
+- **ドウデモイイ:** 25 votes
 
 #### Comments (29)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
@@ -304,7 +304,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 28, 2026 01:13pm
+- **Updated At (UTC):** Apr 29, 2026 01:36am
 
 ---
 
@@ -350,7 +350,7 @@
 ### 5. Post 5
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1777990251&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BWUQ1xbGlhQ%2Fsjcrxs30dYei%2BmykQ295MWEfu%2F8Hm8ZG6odMNMECi1RqzqcE%2FK%2BdlVqmxGcchAJjlJ6Z%2BuGfIcttLmwCvYWveervgp4Zgpf55OkTPqUyi3vxuIHJQj5uc%2BuuTcWeP7wX2yHnsKeQJEOph0zUS1TjYWWJJBO9%2FrQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1778036348&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NSkhpy5iozX43UopZ600D5%2B%2BhVGCMPV46fOdBEb07onB8HllmEL%2BSg8CyG64BR4q0saOsUvxyFuitfieZn8nV9ykN%2FuO04Xo551XdU9KGPCtaubD4peWMPK%2FFXQskwnQYpRZtbN7u1Z2UVFt%2FV4GlyKde%2BYngctKgnCyK%2FncWgk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (1)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -427,7 +427,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1777990251&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LIAVuWJyoEeYZK2dFe0ggyWYrQIVGZywCfyH12qJSgZWP1NiHEl2MdGr5yhnHYPVNONApdJpcidmJkpxC250GypxNYStAL9PEYdl%2FbWQcMmmRrThsWiw9RxjaJm9t80qLFsa1vl2rnAc58vwo%2FHgNiIXics7ZdSL%2FezxfC0OEZY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1778036348&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NPJ5MirK2f6fVjSgu%2F2WIzkvs5BPn%2FZrVvuRBaFYsx9ygiQ7wmMtrJkyZLWzLZ4RGflOL6zbioBauY8Y7vdqS91EH5FlCzyVeRoSegorqaecpOkgzx3niVvC9XV10%2BTydKKVqxC5TQZMb89zmNZeBmSEmvsTLpDW8UAang42lhI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -907,7 +907,7 @@
 ### 1. 最近あらしがあります。そういう不必要な言葉を消してくれる（モデレーターになってくれる人）を募集中です。また、よくこの部屋に来ている人だと助かります。ルーレットで決めます。
 **Author:** 時透無一郎 (r0300353)
 
-#### Comments (7)
+#### Comments (8)
 - **フェットチーネしか勝たん** (Apr 27, 2026 12:59pm): ログインしないと無理だもんな
 - **Fortnite廃課金者** (Apr 28, 2026 05:59am): 自分やりましょうか？
 - **Fortnite廃課金者** (Apr 28, 2026 05:59am): よくここきますし
@@ -915,6 +915,7 @@
 - **時透無一郎** (Apr 28, 2026 11:42am): フェットチーネさんメールアドレスあればできると思う
 - **フェットチーネしか勝たん** (Apr 28, 2026 12:54pm): メアドはあるけどキッズ携帯だから送られてくるパスワードがわからないんだよな
 - **フェットチーネしか勝たん** (Apr 28, 2026 12:54pm): なんか裏技とかない？
+- **時透無一郎** (Apr 29, 2026 01:04am): 一回メアドここにうってみて↓
 
 #### Additional Information
 - **Post color:** Black
@@ -1132,7 +1133,7 @@
 - **にゃんまる** (Mar 02, 2026 05:13am): おー！すごい！
 - **nekoちゃんぬ総長** (Mar 02, 2026 11:11am): 俺最近閲覧数8259になった！！
 - **おうが** (Mar 03, 2026 12:48am): ねこさんえぐ！！どこにねこさんの鯖があるのかわからない
-- **ｸﾞﾊｯ　＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎　＃隼人の下僕** (Mar 06, 2026 05:45pm): すごくね？
+- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (Mar 06, 2026 05:45pm): すごくね？
 - **おうが** (Mar 08, 2026 12:52pm): あざっす！
 - **Anonymous** (Mar 09, 2026 01:21am): すごすぎ⁉︎
 - **kira** (Mar 11, 2026 11:48am): 🙌
@@ -1348,7 +1349,7 @@
 **Author:** おうが (18jt026)
 
 #### Comments (2)
-- **ｸﾞﾊｯ　＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎　＃隼人の下僕** (Feb 18, 2026 02:19am): おー
+- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (Feb 18, 2026 02:19am): おー
 - **おうが** (Feb 18, 2026 02:26am): 100人突破しましたよ！！
 
 #### Additional Information
@@ -1462,31 +1463,15 @@
 
 ## みんなの掲示板
 
-### 1. 「朧」訪問者1000人超えました！
+### 1. よければ来てください
 **Author:** 時透無一郎 (r0300353)
 
-#### Comments (16)
-- **フェットチーネしか勝たん** (Apr 22, 2026 11:43am): えぐ！
-- **時透無一郎** (Apr 22, 2026 12:13pm): おうがさん見てないね最近
-- **おうが** (Apr 22, 2026 11:28pm): ごめんね修学旅行行ってた
-- **フェットチーネしか勝たん** (Apr 23, 2026 04:32am): おかえりー
-- **時透無一郎** (Apr 23, 2026 07:35am): 思いで聞かせて
-- **フェットチーネしか勝たん** (Apr 23, 2026 09:05pm): どこ行ってたん？
-- **おうが** (Apr 23, 2026 11:25pm): 沖縄
-- **おうが** (Apr 23, 2026 11:25pm): 思い出はねー
-- **おうが** (Apr 23, 2026 11:43pm): 言えない
-- **時透無一郎** (Apr 24, 2026 07:39am): 沖縄いいねー
-- **にんじゃめししかかたん** (Apr 27, 2026 01:41am): 荒らしやめろよ
-- **にんじゃめししかかたん** (Apr 27, 2026 01:41am): おもんない
-- **時透無一郎** (Apr 27, 2026 11:36am): まじでやめてほしい
-- **忍者めししか勝たん** (Apr 27, 2026 12:28pm): それな
-- **忍者めししか勝たん** (Apr 27, 2026 12:28pm): それな
-- **忍者めししか勝たん** (Apr 27, 2026 12:55pm): ミスりました
+[Attachment 1](https://padlet.com/r0300353/padlet-xe704h90k5x163d7)
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Apr 22, 2026 11:32am
-- **Updated At (UTC):** Apr 27, 2026 08:22am
+- **Created At (UTC):** Apr 29, 2026 02:00am
+- **Updated At (UTC):** Apr 29, 2026 02:00am
 
 ---
 
@@ -1518,7 +1503,35 @@
 
 ---
 
-### 4. ロブロフレンドなろー
+### 4. 「朧」訪問者1000人超えました！
+**Author:** 時透無一郎 (r0300353)
+
+#### Comments (16)
+- **フェットチーネしか勝たん** (Apr 22, 2026 11:43am): えぐ！
+- **時透無一郎** (Apr 22, 2026 12:13pm): おうがさん見てないね最近
+- **おうが** (Apr 22, 2026 11:28pm): ごめんね修学旅行行ってた
+- **フェットチーネしか勝たん** (Apr 23, 2026 04:32am): おかえりー
+- **時透無一郎** (Apr 23, 2026 07:35am): 思いで聞かせて
+- **フェットチーネしか勝たん** (Apr 23, 2026 09:05pm): どこ行ってたん？
+- **おうが** (Apr 23, 2026 11:25pm): 沖縄
+- **おうが** (Apr 23, 2026 11:25pm): 思い出はねー
+- **おうが** (Apr 23, 2026 11:43pm): 言えない
+- **時透無一郎** (Apr 24, 2026 07:39am): 沖縄いいねー
+- **にんじゃめししかかたん** (Apr 27, 2026 01:41am): 荒らしやめろよ
+- **にんじゃめししかかたん** (Apr 27, 2026 01:41am): おもんない
+- **時透無一郎** (Apr 27, 2026 11:36am): まじでやめてほしい
+- **忍者めししか勝たん** (Apr 27, 2026 12:28pm): それな
+- **忍者めししか勝たん** (Apr 27, 2026 12:28pm): それな
+- **忍者めししか勝たん** (Apr 27, 2026 12:55pm): ミスりました
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 22, 2026 11:32am
+- **Updated At (UTC):** Apr 29, 2026 01:59am
+
+---
+
+### 5. ロブロフレンドなろー
 **Author:** こnにちは
 
 [Attachment 1](https://padlet.com/h3619051/and-and-hlq8wbu4e7eg4ecu)
@@ -1530,7 +1543,7 @@
 
 ---
 
-### 5. 部屋作った
+### 6. 部屋作った
 **Author:** こnにちは (h3619051)
 
 <p>ロブロフレンドなろ</p>
@@ -1544,7 +1557,7 @@
 
 ---
 
-### 6. 来てください
+### 7. 来てください
 **Author:** 暴走パンダ (8888800811117777)
 
 [Attachment 1](https://padlet.com/kimutibanana/10-a1am1nuc1pm9ra04)
@@ -1556,7 +1569,7 @@
 
 ---
 
-### 7. にゃんまるさんの部屋入ってね！！
+### 8. にゃんまるさんの部屋入ってね！！
 **Author:** おうが (18jt026)
 
 [Attachment 1](https://padlet.com/Nyanmaru1213/padlet-ocmne4ikysmdfyf)
@@ -1574,7 +1587,7 @@
 
 ---
 
-### 8. 最近たいちの部屋コメントこない、、、みてね！あと画像が変になってるのはきにしないで
+### 9. 最近たいちの部屋コメントこない、、、みてね！あと画像が変になってるのはきにしないで
 **Author:** 時透無一郎 (r0300353)
 
 <p>来てね！</p>
@@ -1596,7 +1609,7 @@
 
 ---
 
-### 9. 来てちょうだい
+### 10. 来てちょうだい
 **Author:** よしなりけいすけ (s2101219_1)
 
 [Attachment 1](https://padlet.com/s2101219_1/padlet-fwlfq12rndmfbo6r)
@@ -1608,7 +1621,7 @@
 
 ---
 
-### 10. ジョジョラー専用部屋
+### 11. ジョジョラー専用部屋
 **Author:** Sky (hoangquipquip)
 
 [Attachment 1](https://padlet.com/hoangquipquip/padlet-imcs5ai0arnbw1ng)
@@ -1620,7 +1633,7 @@
 
 ---
 
-### 11. これ絶体入ったほうがいいよー
+### 12. これ絶体入ったほうがいいよー
 **Author:** アブリ　カルビ (gs211024)
 
 <p>入ってください</p><p><br/></p>
@@ -1634,7 +1647,7 @@
 
 ---
 
-### 12. 入ってー
+### 13. 入ってー
 **Author:** しろちゃん (syun925)
 
 [Attachment 1](https://padlet.com/29200151/padlet-qljpcqw6hnd7sww9)
@@ -1646,7 +1659,7 @@
 
 ---
 
-### 13. たいちさん専用
+### 14. たいちさん専用
 **Author:** おうが (18jt026)
 
 #### Comments (6)
@@ -1664,7 +1677,7 @@
 
 ---
 
-### 14. 自分のを拡散したい人
+### 15. 自分のを拡散したい人
 **Author:** おうが (18jt026)
 
 #### Comments (26)
@@ -1707,7 +1720,7 @@
 ### 1. 好きな柱誰？
 **Author:** 時透無一郎 (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1777990252&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=A8ElnVLbJwLK1GNhey4%2F%2Bu978vITPlV2pjVKslA8cc2KqKmICE1TirN%2Bao7axiI4Jrefr4i9sbE56wjGSjZWPgiiaxCOKLeL%2FB8ZX1bbEll4b17ye75hdBMPqC5q%2BVQQCjsEdW2m4Yl%2FZrjogwMv5tEHaoB94K6lrkLJ9QEVsJk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1778036349&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dPQKEOFxIXTR3E4SCbyXANXeYPg9Lay4x3htnLP590nBs69odh5%2FRJ1Dsy9tncKPXgVi9p0M4pVTIzb2Qo6wyFwt2Ewto2fePcyzWo3WqemtuXGMHttrY4YkBsWwqEawXQC5kQ84IKZpIWnxlW6kY18qtOYJiCZEt1Vadh5qoC0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (17)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -1735,16 +1748,15 @@
 
 ---
 
-### 2. 誰かえろ部屋のマジで？って言うパドレットのURL知らん？
-**Author:** ネギ星人
+### 2. Post 2
+**Author:** 天才くん
 
-#### Comments (1)
-- **フェットチーネしか勝たん** (Apr 27, 2026 09:33am): これ消したほうがよくない？
+<p>マイクラしてる？</p>
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Apr 27, 2026 09:20am
-- **Updated At (UTC):** Apr 27, 2026 09:20am
+- **Created At (UTC):** Apr 29, 2026 02:12am
+- **Updated At (UTC):** Apr 29, 2026 02:12am
 
 ---
 
@@ -1753,7 +1765,7 @@
 
 <p>だれか〜できるひと〜いますか〜</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1777990252&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jlSjhE%2FLVBgo3hMiLWVGg0j2kB36dd4vasWLLvOSD4GO8%2FaMoWBTZU64mhcQdbGNCEC2BQbvUIeECb5YpIcipycGGK3djSvoqEdSpHbSZ5RPW9ckWkQWrTepyqJR2emvq1ikTMz%2FZekooFHVCKvW%2F%2B4pWKVPqqnliHA79xgxlP0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1778036349&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=glxbx0f4Qz9QKh2E9ZpoGC%2FdymOLUo51Av4nxHouKuMetCf6W27zTRikwTdT7HTFkkHfzn5M6foYlX5m5QWj0%2BhcdE8yBo%2FTKUWuIOaGuKWcrVvV%2FG4Q%2FqHYiGlB9fJuq2qlYMZ3NEP%2B6elAk3FyWILo7fhJgEK9w13PF%2BfW5IE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!** (Apr 26, 2026 10:13am): コード打っときます
@@ -1894,7 +1906,7 @@
 **何のグミ好き:**
 - **フェットチーネ:** 7 votes
 - **忍者飯:** 12 votes
-- **ピュレグミ:** 9 votes
+- **ピュレグミ:** 10 votes
 - **それ以外:** 8 votes
 
 <p>やっぱりこの3つのグミが３冠だよな　　　　（個人の感想です）</p>
@@ -1912,7 +1924,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Apr 07, 2026 11:14pm
-- **Updated At (UTC):** Apr 27, 2026 04:51am
+- **Updated At (UTC):** Apr 29, 2026 01:16am
 
 ---
 
@@ -1958,7 +1970,7 @@
 **Author:** 時透無一郎 (r0300353)
 
 #### Comments (12)
-- **ｸﾞﾊｯ　＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎　＃隼人の下僕** (Mar 27, 2026 06:14am): Yes
+- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (Mar 27, 2026 06:14am): Yes
 - **あかさたな** (Mar 27, 2026 12:35pm): 知ってる 
 - **時透無一郎** (Mar 28, 2026 02:45am): なにがすき？
 - **あかさたな** (Mar 28, 2026 03:32am): チンパンジーニウォータルメロニーニキンギーニ
@@ -2054,7 +2066,7 @@
 ---
 
 ### 19. 管理者が欲しい！
-**Author:** ｸﾞﾊｯ　＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎　＃隼人の下僕 (qlomolp)
+**Author:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
 
 #### Comments (17)
 - **おうが** (Mar 17, 2026 12:44am): メアド教えて！
@@ -2160,7 +2172,7 @@
 ---
 
 ### 24. あはははは
-**Author:** ｸﾞﾊｯ　＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎　＃隼人の下僕 (qlomolp)
+**Author:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
 
 #### Comments (16)
 - **1402** (Feb 17, 2026 08:57am): うふふふ
@@ -2893,12 +2905,13 @@
 
 [Attachment 1](https://yandex.kz/games/)
 
-#### Comments (5)
+#### Comments (6)
 - **天才くん** (Apr 28, 2026 02:44am): できる？
 - **天才くん** (Apr 28, 2026 02:50am): できたら教えて
 - **ああ** (Apr 28, 2026 04:23am): 神
 - **天才くん** (Apr 28, 2026 04:24am): えぐい
 - **フェットチーネしか勝たん** (Apr 28, 2026 12:55pm): 銃のゲームはできない
+- **天才くん** (Apr 29, 2026 12:44am): 色々あるけどできるやつと出来ないやつがある
 
 #### Additional Information
 - **Post color:** Black
@@ -4537,7 +4550,7 @@
 - **Fortnite廃課金者** (Mar 16, 2026 07:48am): 仮にスクリーンタイムで、アプリとか入れるのに許可とかがいるとかの家庭なら可能性はあると思うよ
 - **時透無一郎** (Mar 16, 2026 12:21pm): ドリルやんないとゲームだめって言われてるのがだるい（Switch）
 - **おうが** (Mar 16, 2026 11:05pm): こnにちはさんそういう時はタブレットを持って勉強してくるといい上でYouTubeを見ましょう
-- **ｸﾞﾊｯ　＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎　＃隼人の下僕** (Mar 17, 2026 12:17am): それはそう
+- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (Mar 17, 2026 12:17am): それはそう
 - **Fortnite廃課金者** (Mar 17, 2026 06:09am): 結構良い案やんw
 - **おうが** (Mar 17, 2026 12:34pm): 実際それやってるからw
 - **GP** (Mar 18, 2026 02:13am): 今悩みがあって⋯
