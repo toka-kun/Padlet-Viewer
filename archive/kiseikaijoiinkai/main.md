@@ -1,4 +1,4 @@
-最終更新: 2026/04/27 20:06:43
+最終更新: 2026/04/30 13:33:19
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 14
 - **Created At (UTC):** Apr 12, 2026 10:30am
-- **Updated At (UTC):** Apr 27, 2026 10:23am
+- **Updated At (UTC):** Apr 30, 2026 02:53am
 
 ## 受付
 
@@ -52,6 +52,12 @@
 
 ### 1. 現在しあtubeがサーバダウンしています。
 **Author:** とるっぷい (TORI_TORI2)
+
+#### Comments (1)
+- **さかな** (Apr 30, 2026 02:03am): 開けるようになったらゆってください
+
+#### Reactions
+- **Emojis:** 😆 (1)
 
 #### Additional Information
 - **Created At (UTC):** Apr 13, 2026 12:22pm

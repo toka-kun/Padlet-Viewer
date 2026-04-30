@@ -1,4 +1,4 @@
-最終更新: 2026/04/29 23:00:45
+最終更新: 2026/04/30 13:33:50
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 187
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 29, 2026 12:22pm
+- **Updated At (UTC):** Apr 30, 2026 02:10am
 
 ## 管理者　連絡
 
@@ -272,8 +272,8 @@
 
 **どっち派？:**
 - **きのこの山:** 103 votes
-- **たけのこの里:** 100 votes
-- **ドウデモイイ:** 26 votes
+- **たけのこの里:** 101 votes
+- **ドウデモイイ:** 28 votes
 
 #### Comments (29)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
@@ -309,7 +309,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 29, 2026 06:49am
+- **Updated At (UTC):** Apr 30, 2026 02:10am
 
 ---
 
@@ -355,7 +355,7 @@
 ### 5. Post 5
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1778076041&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6kn8ck5KR3mywp6D97MQsShu3Q7G6v0XXw8giWi5iWqaRi5haySoZknTQ%2Fv7NVDXSnPHJ0yp%2Fms%2FTcCtDmmsZItBsDewo%2BeY1%2BUq%2BBTaNZWdNrAyUo2Vl788JgWIJMx79sDIP0uyl7N0OqDSNTwAxa9SaatTj41CkQ4JI4svcqE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1778128428&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=d7CfW%2FS0qFV2l5fOchj3S4Sm5PKqYTDgYu4YhfxTR0V8%2F5nTHbleFoB3rQR5bXzOi5XCBbwmXMsjK9POFEiQ72xOrHfYVcQFDU9SlwzpdKHnz5QaZsnQu6ukmisfU0BPBx9DgaTNydZTCWehEF8tj%2FOZp2qQYv11xM6ukVWBR8U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (1)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -432,7 +432,7 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1778076042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iESeEeTLKyNxMgEhz9F7qfLixuqAJpR1BXJzJ%2F9N1Uala2NPsWlng7MTtq77nb8apDg8E6lNldhl%2BijnVSlkXcuJd9j1bszjJtrcgFC%2FVFuLEBdpTBgygLcX2wiu09xpF%2Bj6SVLGtWMoj3Ol0GpwYovP4VYqbqQHhIIiY5BkHz0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1778128428&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pmZxh%2F7A5Jn0FdpW0H%2BaPhqdHHkRHYJ55A8%2FKNrS5cVBx7Cut2aHhsLOeb1hrm2QT%2B4pV3pCUJZ6m%2FiYW5czC7g%2BLEhBKx%2FKs5WVNRu6fRIuT2f9AhcNd1Or%2Box3P76fElbvPPYR7Ge6Ecgy5F9D6haByWh2RoTVoRJzF49XViA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -1718,7 +1718,7 @@
 ### 1. 好きな柱誰？
 **Author:** 時透無一郎 (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1778076042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UkvwhGVnrvtz%2Bl%2B8qru43yoerT9%2Bo%2BRT99%2BR7ho3d%2BuMVFLMXJcNIYscJpUxFmhcPBVv%2BxzmDg0tPBIizjJBvObeqsd6E6rSFbF3RqMXMot%2FzxbFkUaE3qd2xR%2BbXsqjmPQvxUrEk8NTfEFKDJGmskJgvgx7%2B4aCOevRFhWc3RE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1778128428&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xoFKYH8wSKI%2BRXJh3Yq068evxVQ7zjdCe%2FqLx%2F2AIzBeh2KfhzqxOdp9%2Fz8GBuIFb2Fc3rwDNgSFUUYAimPNUM1s2Y1k3AdImVsuGOJXBhIws3rW5Cqm%2BJMa9Vs4HmKpMRA5wEPWWRagEfHhoMpwyBdNqSfZoIkJkHB8zUvSzrQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (17)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -1767,7 +1767,7 @@
 
 <p>だれか〜できるひと〜いますか〜</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1778076042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=H%2FyZ8d2GkJ9guOiLbiUhDAa8%2BwFrxYBIkwjbv5%2B5y%2BXaFp7vbQ89eTEURT1RMQyPCfS0bwuCx5PzzzXSpP2KqPdzB036XFvSawGeXYIO43%2BzO0%2BWjB6aqvgf%2BLGTSc3UkOimYrapx%2BIUxAKyX8BvfiGVJpyHNW32RDNjj8%2FGaeM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1778128428&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=N0qZWkZZaNpLPNfNwKwR%2BsT%2Bp5BFfAFWmaADd%2BNzF0vfHvGO%2FzG8QqxfwZoMw4eidifCKARb5CZYzoIMXh7AAlbYvdsOBWIsy5WCIjRQjjzBMa2wMfnYKuq4WNbCSZSplSJsLg7lsvtH4CervEHOa6BHmGlra2%2FrrDM7NSPZzaY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!** (Apr 26, 2026 10:13am): コード打っときます
@@ -3262,6 +3262,9 @@
 
 ### 25. 桃鉄教育版の授業パスワード教えて
 **Author:** フェットチーネしか勝たん
+
+#### Comments (1)
+- **ブロスタ王** (Apr 30, 2026 01:28am): 自分で調べろ 
 
 #### Additional Information
 - **Post color:** Black
