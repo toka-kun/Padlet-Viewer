@@ -1,48 +1,48 @@
-最終更新: 2026/04/30 19:08:08
+最終更新: 2026/04/30 21:16:47
 
-# Googleフォーム　　　　　　proxy部屋
+# プロキシTeck・Land山の上店（本部）
 
-荒らしだけはしないでください。宣伝してほしいです　良い意見は積極的に利用しましょう‼　　　　　　　　みんなでこの部屋を盛り上げていきましょう!!　訪問1400人 閲覧数5700
+荒らしは禁止！みんなで山の上店にレッツ・ゴー！
 
 ## Summary
-- **Link:** https://padlet.com/qwertyuiopasdfghjklzxcvbnm5671091/google-proxy-afg5jcs1w4yyk2h1
+- **Link:** https://padlet.com/qwertyuiopasdfghjklzxcvbnm5671091/teck-land-afg5jcs1w4yyk2h1
 - **Builder:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-- **Posts:** 456
+- **Posts:** 336
 - **Created At (UTC):** May 09, 2025 01:39am
-- **Updated At (UTC):** Apr 30, 2026 10:07am
+- **Updated At (UTC):** Apr 30, 2026 10:37am
 
-## ルール（ここでは権限申請はしないこと）
+## ようこそ！Teck・Land山の上店へ！
 
-### 1. この部屋の利用規約（6月13日改定）
+### 1. 新・部屋のルール
 **Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
 
-<p>①運営者（光の忍者及びその他の管理者）以外の方を利用者と言います。</p><p><br/></p><p>②利用者は、この部屋に対して権限（読者以上の権限）を持った時、投稿での荒らし等をしないという決まりに同意したこととします。</p><p><br/></p><p>③利用者は運営者とその他の管理者権限を持つ方が伝えたルールとお願い（そのことをこの部屋の決まりと言います。詳しくは↓）をいつでも同意することとします。</p><p><br/></p><p>④もし、利用者がこの部屋の決まりに従わない行動をした場合、運営者がその利用者をこの部屋を利用できなくするか、その行動に見合った処置を必ず受けさせることとします。　　　</p><p><br/></p><p>⑥利用者が現実で誰か特定できるような個人情報を送信しないでください。特定できるような個人情報が投稿された場合、運営者がその利用者をこの部屋を利用できなくさせ、該当するコメントも削除します。ただし、これは完全に個人情報の流出を防げると保証するものではありません。</p><p><br/></p><p>⑦他の利用者に向けて投稿で嫌がらせや不快にさせたと判明した場合、該当するユーザーにその行動に見合った処置を必ず受けさせることとします。　</p><p><br/></p><p>⑧利用者が投稿した内容は、いかなる場合でもこの部屋の全ての利用者に向けての発信とみなされます。投稿に「［利用者名］宛」などの内容が含まれる場合でもみなされることとします。</p><p><br/></p><p>⑨利用者（読者以上の権限を持つ方のことです）はいつでもこの利用規約に同意することとします。同意したにもかかわらず利用規約に沿った行動をしていないばあい、その利用者を利用規約の違反とし、適切な処置を運営者が行います。</p>
-
-#### Reactions
-- **Emojis:** 👍 (7) 👎 (2)
+<p>荒らし✘</p><p>重複コメ✘</p><p>権限乱用✘</p><p>投稿編集など✘</p><p>権限クレクレ✘</p><p>暴言・喧嘩✘</p>
 
 #### Additional Information
-- **Post color:** Red
-- **Created At (UTC):** Jun 08, 2025 03:28pm
-- **Updated At (UTC):** Jun 20, 2025 07:12am
+- **Post color:** White
+- **Created At (UTC):** Apr 30, 2026 10:09am
+- **Updated At (UTC):** Apr 30, 2026 10:10am
 
 ---
 
-### 2. 荒らしは絶対にしない‼
+### 2. 部屋構成
 **Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
 
-<p>それだけは誓ってください</p><p>追加：無断転載は禁止で。他の部屋から引っ張ってくる場合はその部屋の投稿主に許可を取りましょう</p><p>わかったら👍️かコメントを</p>
+<p><strong>管理者　</strong></p><p><br></p><p><strong>光の忍者</strong></p><p><strong>光の忍者サブ垢</strong></p><p><strong>どこかの研究所（元日安連会長）さん</strong></p><p><strong>INFINITYさん</strong></p><p><strong>ザシアンさん</strong></p><p><strong>orafukun_567109さん</strong></p><p><strong>Aさん</strong></p><p><br></p><p>モデ　　</p><p><br></p><p>Magician of the Moonlightさん</p><p>0b1001 さん</p><p><br></p><p><strong>見にくくてごめん</strong></p>
 
-#### Comments (1)
-- **チンされたチキン‼（チンチキって呼んでね）** (Jun 25, 2025 12:51pm): はいいい
+#### Comments (4)
+- **𝓴.𝓯 𝓳𝓪𝓼𝓭𝓯 ぽとふ🍑** (Jun 04, 2025 10:42pm): TikTokのダウンローダーはどこに乗せればよいでしょうか？　
+- **光の忍者** (Jun 05, 2025 07:22am): youtubeダウンローダーのところで大丈夫です
+- **モシキ** (Jun 09, 2025 12:30am): https://myamya-wiki.github.io/myamya-tools/cisco/index.htmlのような物はどのセクションが適切でしょうか？（米ンター権限）
+- **専任された仙人元Pa（NOT荒らし）** (Jun 10, 2025 09:39am): プロキシ便利ツールと書いてあるセクションに投稿して下さい。分からなかったら言って下さい。
 
 #### Reactions
-- **Emojis:** 👍 (8) 👎 (2)
+- **Emojis:** 👍 (3)
 
 #### Additional Information
-- **Post color:** Green
-- **Created At (UTC):** Jun 05, 2025 10:25pm
-- **Updated At (UTC):** Jun 05, 2025 10:25pm
+- **Post color:** Blue
+- **Created At (UTC):** May 09, 2025 04:01am
+- **Updated At (UTC):** Apr 30, 2026 10:10am
 
 ---
 
@@ -57,28 +57,25 @@
 #### Additional Information
 - **Post color:** Yellow
 - **Created At (UTC):** May 21, 2025 08:00am
-- **Updated At (UTC):** Jun 05, 2025 11:56am
+- **Updated At (UTC):** Apr 30, 2026 10:09am
 
 ---
 
-### 4. 部屋構成
+### 4. 荒らしは絶対にしない‼
 **Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
 
-<p><strong>管理者　</strong></p><p><br/></p><p><strong>光の忍者</strong></p><p><strong>光の忍者サブ垢</strong></p><p><strong>どこかの研究所（元日安連会長）さん</strong></p><p><strong>INFINITYさん</strong></p><p><strong>ザシアンさん</strong></p><p><strong>orafukun_567109さん</strong></p><p><strong>Aさん</strong></p><p><br/></p><p>モデ　　</p><p><br/></p><p>Magician of the Moonlightさん</p><p>0b1001 さん</p><p><br/></p><p><strong>見にくくてごめん</strong></p>
+<p>それだけは誓ってください</p><p>追加：無断転載は禁止で。他の部屋から引っ張ってくる場合はその部屋の投稿主に許可を取りましょう</p><p>わかったら👍️かコメントを</p>
 
-#### Comments (4)
-- **𝓴.𝓯 𝓳𝓪𝓼𝓭𝓯 ぽとふ🍑** (Jun 04, 2025 10:42pm): TikTokのダウンローダーはどこに乗せればよいでしょうか？　
-- **光の忍者** (Jun 05, 2025 07:22am): youtubeダウンローダーのところで大丈夫です
-- **モシキ** (Jun 09, 2025 12:30am): https://myamya-wiki.github.io/myamya-tools/cisco/index.htmlのような物はどのセクションが適切でしょうか？（米ンター権限）
-- **専任された仙人元Pa（NOT荒らし）** (Jun 10, 2025 09:39am): プロキシ便利ツールと書いてあるセクションに投稿して下さい。分からなかったら言って下さい。
+#### Comments (1)
+- **チンされたチキン‼（チンチキって呼んでね）** (Jun 25, 2025 12:51pm): はいいい
 
 #### Reactions
-- **Emojis:** 👍 (3)
+- **Emojis:** 👍 (8) 👎 (2)
 
 #### Additional Information
-- **Post color:** Blue
-- **Created At (UTC):** May 09, 2025 04:01am
-- **Updated At (UTC):** Jul 07, 2025 06:18am
+- **Post color:** Green
+- **Created At (UTC):** Jun 05, 2025 10:25pm
+- **Updated At (UTC):** Apr 30, 2026 10:09am
 
 ---
 
@@ -308,7 +305,7 @@
 
 <p>見てね〜</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/e4cc563e6328921bb367586ecad58b8a/Screen_recording_2025_05_22_21_07_23.webm?Expires=1778148483&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=s90%2FH7kZ0l8ASlFrl6qOAcL0MpMYjlQVdVMIJYx1DckZ0LD720J4BK9TW0UhaifRqpaHll4Y5wsMbNrgNLte4Jgb4Xr4OsewRRNQaIDAmrAtWh%2Fk28W8fi5BVAP1YMAko5CFuLyoIulzIUbbG0VLlzCFoeCINC7JRXbJMDc2QSg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2Fe4cc563e6328921bb367586ecad58b8a%2FScreen_recording_2025_05_22_21_07_23.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/e4cc563e6328921bb367586ecad58b8a/Screen_recording_2025_05_22_21_07_23.webm?Expires=1778156203&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CoISVkvgktaqx3vkGdLnS3JVRkesr50RAjPg3BLFFlzi1SNZeFvYGxG%2Byh2JuMP4oalNYvWg%2Fqk3Ln0gKCjyKgHVPY3Ggp46%2Bbas8%2BVlQOuluBuNaUly6N5XRPdO9FJ8skIp2cBHbz2v%2B9abs2jyabNQfLYAuynWYaFqyM95xYk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2Fe4cc563e6328921bb367586ecad58b8a%2FScreen_recording_2025_05_22_21_07_23.webm)
 
 #### Comments (2)
 - **光の忍者** (Jun 04, 2025 12:54pm): マジですごい
@@ -399,7 +396,7 @@
 
 ---
 
-## 自己紹介
+## 雑談ランド
 
 ### 1. ライターになったらやってね
 **Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
@@ -1066,6 +1063,744 @@
 
 ---
 
+## 自由
+
+### 1. 誰かいるといいなと願う
+**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 30, 2026 10:10am
+- **Updated At (UTC):** Apr 30, 2026 10:10am
+
+---
+
+### 2. 誰でも来てね！
+**Author:** よし！待つ (10210056)
+
+[Attachment 1](https://padlet.com/10210056/padlet-vajhrauf9xmy28np)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 03, 2026 10:59am
+- **Updated At (UTC):** Apr 03, 2026 10:59am
+
+---
+
+### 3. 捨てメアドありませんか
+**Author:** Chris Pratt (e011822104)
+
+<p>ランマーあげます</p>
+
+#### Comments (3)
+- **めろんぱうだー** (Mar 04, 2026 11:45am): https://sute.jp/signupこれはどうですか？
+- **めろんぱうだー** (Mar 04, 2026 12:26pm): らんまー下さい
+- **Chris Pratt** (Mar 05, 2026 12:48pm): パスワードってないの？
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 04, 2026 11:38am
+- **Updated At (UTC):** Mar 04, 2026 11:38am
+
+---
+
+### 4. ohisa
+**Author:** 0b1001 (h3002183)
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/255570cd2c651da9a348513201da28bf/media_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png?Expires=1778156204&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=e5kH0F8gbpPVrQqrsCL8SaYF%2BxV2hBZj5%2FdHXuAA3aFMI2%2Fyscs6pMGArLLbW2NZhcsWNvTz%2Fmm695ukTomfD5U%2FJBxyolpZB8EfnVHZk5iIItQYeTsLe6fsMdXDUngIiTiKxu9%2FmptjyCun7eEZBex7cmmNUz1MNjk6Fc2C7as%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F255570cd2c651da9a348513201da28bf%2Fmedia_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png)
+
+#### Comments (1)
+- **光の忍者** (Jan 20, 2026 03:14am): 久しぶり
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 19, 2026 09:50am
+- **Updated At (UTC):** Jan 19, 2026 09:50am
+
+---
+
+### 5. ここきて！
+**Author:** りおとだお！もうすぐ高校入試！ (gohannoisii)
+
+[Attachment 1](https://padlet.com/yakinikudaisuki/padlet-tka94ea6bu7qqj3g)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 25, 2025 06:11am
+- **Updated At (UTC):** Dec 25, 2025 06:11am
+
+---
+
+### 6. ohisa
+**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
+
+#### Reactions
+- **Emojis:** 👍 (1)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 17, 2025 04:27am
+- **Updated At (UTC):** Dec 17, 2025 04:27am
+
+---
+
+### 7. 投稿止まってます？
+**Author:** 黎桜🌸 (mendokusai)
+
+#### Comments (3)
+- **光の忍者** (Oct 30, 2025 03:10am): ごめんね
+- **INFINITY** (Oct 30, 2025 07:07am): 今前みたいに依頼ができなから、全力で自作して準備してるつもりです。
+- **黎桜🌸** (Nov 04, 2025 12:44pm): おけです
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Oct 26, 2025 02:19am
+- **Updated At (UTC):** Oct 26, 2025 02:19am
+
+---
+
+### 8. 俺の部屋きてね！
+**Author:** りおとだお！もうすぐ高校入試！ (gohannoisii)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Oct 23, 2025 11:57pm
+- **Updated At (UTC):** Oct 23, 2025 11:57pm
+
+---
+
+### 9. やっと学タブが戻ってきた(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)
+**Author:** (^_^)r Youtube大好きな人 (hsj2025086)
+
+#### Comments (1)
+- **削除済みユーザー** (Oct 19, 2025 12:21am): おめｗ(何があった？W)
+
+#### Reactions
+- **Emojis:** 👍 (1)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Oct 14, 2025 08:38am
+- **Updated At (UTC):** Oct 14, 2025 08:38am
+
+---
+
+### 10. 毎月の楽しみ
+**Author:** INFINITY (nanasisan)
+
+<p>最新のプロキシ検索エンジンまだかなー、まあv7で俺の声が枯れた性能だし、いや早く来てほしいな()</p>
+
+#### Comments (2)
+- **光の忍者** (Oct 09, 2025 11:20am): 確かに！
+- **光の忍者** (Oct 09, 2025 11:20am): 早く来てほしいですね
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Oct 06, 2025 06:38am
+- **Updated At (UTC):** Oct 06, 2025 06:38am
+
+---
+
+### 11. ゲーム禁止になりました
+**Author:** ちゃお#Dヲタ※o-tyannだよ(名前変えた) (o_tyann0424)
+
+<p>学パソでやるゲームが一番おもろかったのに</p>
+
+#### Comments (1)
+- **光の忍者** (Sep 30, 2025 11:33pm): それは残念
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Sep 29, 2025 09:59am
+- **Updated At (UTC):** Sep 29, 2025 09:59am
+
+---
+
+### 12. 俺が想像してやりたくなった事
+**Author:** INFINITY (nanasisan)
+
+<p>新規:この部屋、プロキシとかの配布投稿の最初に被ったら…って言うの多いけど誰が最初なんだろう</p><p>ワイ:それ起源、俺やで(ドヤ顔)</p>
+
+#### Comments (1)
+- **削除済みユーザー** (Sep 28, 2025 01:53am): ｗ
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Sep 26, 2025 05:39am
+- **Updated At (UTC):** Sep 26, 2025 06:14am
+
+---
+
+### 13. 光の忍者久！！！！！！！！
+**Author:** 削除済みユーザー
+
+<p>れおと仲が良かった人です！</p>
+
+#### Comments (2)
+- **光の忍者** (Sep 24, 2025 02:39am): 久しぶり
+- **削除済みユーザー** (Sep 28, 2025 01:53am): 久
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Sep 20, 2025 06:09am
+- **Updated At (UTC):** Sep 20, 2025 06:09am
+
+---
+
+### 14. 久しぶり
+**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
+
+#### Reactions
+- **Emojis:** 👍 (1)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Sep 02, 2025 05:45am
+- **Updated At (UTC):** Sep 02, 2025 05:45am
+
+---
+
+### 15. ワイの部屋大きくなったなぁ
+**Author:** さくらもち (sakuramoti)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Aug 29, 2025 07:14am
+- **Updated At (UTC):** Aug 29, 2025 07:14am
+
+---
+
+### 16. えぐい過疎ってる
+**Author:** ꧁さなだっちsecond꧂ (gs173114)
+
+#### Comments (3)
+- **光の忍者** (Aug 19, 2025 02:29am): どうすればいいかなー
+- **꧁さなだっちsecond꧂** (Aug 19, 2025 10:34pm): わかんない
+- **꧁さなだっちsecond꧂** (Aug 19, 2025 10:34pm): けどもっとハイペースでプロキシ更新していったらいいんじゃない？こここえたら多分過疎んないよ
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Aug 18, 2025 12:05am
+- **Updated At (UTC):** Aug 18, 2025 12:05am
+
+---
+
+### 17. 過疎ぉ
+**Author:** orafukun_567109　　　　　　　　　煮物貢献者 (qwertyuiopasdfghjklzxcvbnm567109)
+
+#### Comments (2)
+- **中国せんべい確定** (Aug 15, 2025 09:37am): うんうん
+- **光の忍者サブ垢** (Aug 16, 2025 02:01pm): うんうん
+
+#### Reactions
+- **Emojis:** 👎 (1)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Aug 15, 2025 08:50am
+- **Updated At (UTC):** Aug 15, 2025 08:50am
+
+---
+
+### 18. 青鬼2016ないですか？
+**Author:** りんご＾＾ (unkodesuyo)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Aug 08, 2025 06:00am
+- **Updated At (UTC):** Aug 08, 2025 06:00am
+
+---
+
+### 19. お久しゅうございます！！光の忍者様
+**Author:** zakopanda@2n2s (zakopanda)
+
+#### Comments (2)
+- **削除済みユーザー** (Aug 01, 2025 09:52am): お労しや兄上？
+- **光の忍者** (Aug 02, 2025 02:37am): 久しぶりだね
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 31, 2025 11:40am
+- **Updated At (UTC):** Jul 31, 2025 11:40am
+
+---
+
+### 20. 漫画サイト持ってたらください
+**Author:** Rooooooooo
+
+#### Comments (2)
+- **光の忍者** (Jul 31, 2025 06:12am): https://dbook.docomo.ne.jp/
+- **光の忍者** (Jul 31, 2025 06:13am): これどう？
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 30, 2025 04:22am
+- **Updated At (UTC):** Jul 30, 2025 04:22am
+
+---
+
+### 21. クッキークリッカー出来るサイトないですか？
+**Author:** りんご＾＾ (unkodesuyo)
+
+#### Comments (2)
+- **光の忍者** (Jul 27, 2025 08:30am): Selenite
+- **光の忍者** (Jul 27, 2025 08:30am): これとか？
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 24, 2025 06:38am
+- **Updated At (UTC):** Jul 24, 2025 06:38am
+
+---
+
+### 22. はろー
+**Author:** ピコ (pikopikokun)
+
+#### Comments (1)
+- **ピコ** (Jul 15, 2025 12:04pm): 誰かいる？
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 15, 2025 12:03pm
+- **Updated At (UTC):** Jul 15, 2025 12:03pm
+
+---
+
+### 23. 重要に送りました
+**Author:** ピコ (pikopikokun)
+
+#### Comments (1)
+- **INFINITY** (Jul 15, 2025 10:51am): 確かにわかめが使えないのは深刻ですが。重要案件では無いと私は思います、プロキシ関連の相談の方が対応が早いと思いますので大体の相談はプロキシ関連の相談へ
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 14, 2025 11:13pm
+- **Updated At (UTC):** Jul 14, 2025 11:13pm
+
+---
+
+### 24. 誰かスクリーンたいむのけしかたおしえｒ
+**Author:** ミンミン (s23240093)
+
+#### Comments (2)
+- **ミンミン** (Jul 14, 2025 05:48am): そうゆう部屋でもいいです
+- **光の忍者** (Jul 18, 2025 05:41am): わかんない
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 14, 2025 02:41am
+- **Updated At (UTC):** Jul 14, 2025 02:41am
+
+---
+
+### 25. 太鼓ください
+**Author:** りんご＾＾ (unkodesuyo)
+
+#### Comments (1)
+- **INFINITY** (Jul 12, 2025 01:34pm): 使えっか分からん　　　　　　　https://taikoapp.ukhttps://obscuretaiko.glitch.mehttps://cjdgrevival.comhttps://taikosim.click
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 11, 2025 12:55pm
+- **Updated At (UTC):** Jul 11, 2025 12:55pm
+
+---
+
+### 26. こんなツールを探してた
+**Author:** Magurock (偽物･偽造に注意) (Magurock)
+
+<p>これでプロキシ集めが楽になる</p>
+
+[Attachment 1](https://forest.watch.impress.co.jp/library/software/textsorter/)
+
+#### Comments (1)
+- **光の忍者** (Jul 11, 2025 01:38am): ないす
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 10, 2025 04:08am
+- **Updated At (UTC):** Jul 10, 2025 04:08am
+
+---
+
+### 27. わかめを使おうと思ったらこんなん出たけれどこれはなにですか？
+**Author:** りおとだお！もうすぐ高校入試！ (gohannoisii)
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3043221779/081c3467813e2887d966a6453c62a962/IMG_6127.jpeg?Expires=1778156204&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=l34WHphFiFzVrFxtn1uXVSNhIHbwE0aElTPMd823T2TW%2FmSYtJMctq7yynPWlkL9fFy0GJutg2kQJoEHuuZb2OZAqqviip%2FOvz%2BcmfclKOUBER8HSfCDfmHIRxCEqLgSwc056LdEHm3BLfrQchZDfGANVsDAv8f%2B2enBNfolfR8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3043221779%2F081c3467813e2887d966a6453c62a962%2FIMG_6127.jpeg)
+
+#### Comments (5)
+- **(^_^)r Youtube大好きな人** (Jul 09, 2025 10:18pm): わからん
+- **Riur🐾** (Jul 09, 2025 10:23pm): これはもう仕えないよってことだね
+- **Riur🐾** (Jul 09, 2025 10:23pm): 使えないって事
+- **稲葉怜子** (Jul 09, 2025 10:29pm): それな俺もなった
+- **りおとだお！もうすぐ高校入試！** (Jul 10, 2025 01:17am): まじかw
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 09, 2025 09:14pm
+- **Updated At (UTC):** Jul 09, 2025 09:14pm
+
+---
+
+### 28. やほ
+**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 08, 2025 08:38am
+- **Updated At (UTC):** Jul 08, 2025 08:38am
+
+---
+
+### 29. Post 29
+**Author:** INFINITY (nanasisan)
+
+<p>運営者全員中々来れなくなったらやばないか</p>
+
+#### Comments (3)
+- **削除済みユーザー** (Jul 07, 2025 12:47pm): 確かに
+- **光の忍者** (Jul 08, 2025 01:30am): やばい
+- **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇** (Jul 08, 2025 08:39am): 私は、一応閲覧はしてる
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 07, 2025 06:24am
+- **Updated At (UTC):** Jul 07, 2025 06:27am
+
+---
+
+### 30. 俺も中学受験があってなかなか来れないかも
+**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
+
+<p>ごめんできるだけProxyは上げる</p>
+
+#### Comments (3)
+- **光の忍者** (Jul 06, 2025 11:49pm): オッケー
+- **光の忍者** (Jul 06, 2025 11:49pm): 頑張れ
+- **INFINITY** (Jul 07, 2025 06:15am): 無理せず、頑張ってください
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 06, 2025 11:33pm
+- **Updated At (UTC):** Jul 06, 2025 11:33pm
+
+---
+
+### 31. 関係ないけどフォロー人数１００人突破！✨️皆さん協力ありがとうございますっ！もしよければまだフォローしていない人はフォロバ１００％なのでフォローしていただけると幸いです！✨️✨️
+**Author:** Riur🐾 (siromaro)
+
+#### Comments (1)
+- **光の忍者** (Jul 06, 2025 12:47pm): してるよ
+
+#### Reactions
+- **Emojis:** 👍 (2)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 05, 2025 02:45pm
+- **Updated At (UTC):** Jul 05, 2025 02:45pm
+
+---
+
+### 32. この期間超えたら沢山、人がくるのかな
+**Author:** INFINITY (nanasisan)
+
+#### Comments (1)
+- **光の忍者** (Jul 06, 2025 01:43am): 宣伝してもなかなか来てくれないんですよね…
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 05, 2025 11:24am
+- **Updated At (UTC):** Jul 05, 2025 11:24am
+
+---
+
+### 33. 被っているの＆エラーなどで使えないのって消しちゃって大丈夫ですかね
+**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
+
+<p>規制で使えないやつはもちろん残しておきますが</p>
+
+#### Comments (3)
+- **INFINITY** (Jun 30, 2025 12:11pm): 過去に研究者さんが「使えないプロキシについて」を提案し、管理者だけのルールとなってるらしいです、運営者にルール変更要求したらモデでもできるんじゃないですかね
+- **光の忍者サブ垢** (Jun 30, 2025 03:06pm): モデでもいいですよ
+- **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇** (Jul 01, 2025 08:16am): ありがとうございます
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 30, 2025 10:35am
+- **Updated At (UTC):** Jun 30, 2025 10:35am
+
+---
+
+### 34. どこけんさんいつ復活するかな？
+**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
+
+<p>長いよ〜〜</p>
+
+#### Comments (2)
+- **光の忍者サブ垢** (Jun 29, 2025 01:46pm): あと3日くらいかな
+- **光の忍者サブ垢** (Jun 30, 2025 03:06pm): ついに復活しましたね
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 29, 2025 01:27pm
+- **Updated At (UTC):** Jun 29, 2025 01:27pm
+
+---
+
+### 35. モデから、昇格してないのってわたしだけ？
+**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
+
+#### Comments (5)
+- **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇** (Jun 28, 2025 11:21am): わかめ、szvy、US4、マイクラ、gameあたり結構上げてるんだけどね
+- **削除済みユーザー** (Jun 28, 2025 11:31am): 僕は落とされたわ
+- **光の忍者サブ垢** (Jun 29, 2025 01:47pm): 0b1001さんもそうです
+- **光の忍者サブ垢** (Jun 29, 2025 01:47pm): たしかにAさんはたくさん投稿してくれてますよね
+- **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇** (Jun 30, 2025 09:34am): ん
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 28, 2025 11:18am
+- **Updated At (UTC):** Jun 28, 2025 11:18am
+
+---
+
+### 36. pvpしましょう（いきなりすぎて草）
+**Author:** zakopanda@2n2s (zakopanda)
+
+#### Comments (16)
+- **光の忍者** (Jun 26, 2025 12:09pm): ごめん今無理だあ
+- **zakopanda@2n2s** (Jun 26, 2025 12:09pm): ok
+- **光の忍者** (Jun 26, 2025 12:10pm): 明日テストなんです
+- **光の忍者** (Jun 26, 2025 12:10pm): 勉強してなさすぎてやばい
+- **zakopanda@2n2s** (Jun 26, 2025 12:10pm): ファイト！！
+- **zakopanda@2n2s** (Jun 26, 2025 12:11pm): 先生に勇気を出してワイロ渡すんだぞ
+- **光の忍者** (Jun 26, 2025 12:11pm): okです
+- **zakopanda@2n2s** (Jun 26, 2025 12:11pm): っておい！！www
+- **光の忍者** (Jun 26, 2025 12:11pm): いくらで足りるかな
+- **zakopanda@2n2s** (Jun 26, 2025 12:12pm): 10万で半教科ぐらい
+- **zakopanda@2n2s** (Jun 26, 2025 12:12pm): 担任が5万
+- **光の忍者** (Jun 26, 2025 12:13pm): 高いな
+- **zakopanda@2n2s** (Jun 26, 2025 12:14pm): これが陽のあたる道を歩いて行け無い人間だ
+- **光の忍者** (Jun 26, 2025 12:14pm): 仲間だね
+- **光の忍者** (Jun 26, 2025 12:16pm): じゃあちょっと勉強してきます
+- **zakopanda@2n2s** (Jun 26, 2025 12:16pm): 頑張れーーーー
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 26, 2025 12:07pm
+- **Updated At (UTC):** Jun 26, 2025 12:07pm
+
+---
+
+### 37. みんなの好きなプロキシって何？
+**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
+
+<p>自分はSeleniteとかGhostとか好きかな</p>
+
+#### Comments (8)
+- **光の忍者** (Jun 26, 2025 10:13am): arsenicとCroxyProxyも好き
+- **すみしょう賛成ピカコン反対** (Jun 26, 2025 11:17am): らんまー
+- **INFINITY** (Jun 26, 2025 11:43am): インターステラー好きなのにほぼ全ブロ
+- **光の忍者** (Jun 26, 2025 12:04pm): 自分のパソコン重すぎてらんまー使えないんだよなー
+- **光の忍者** (Jun 26, 2025 12:04pm): 確かにインターステラーはあんまない
+- **zakopanda@2n2s** (Jun 26, 2025 12:05pm): インターテスラからすぐクレイジー開けるから便利なんだよね
+- **光の忍者** (Jun 26, 2025 12:08pm): 便利だけど規制が多い…
+- **zakopanda@2n2s** (Jun 26, 2025 12:09pm): 確かにそれ以外はほぼ完璧なんだけどね
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 26, 2025 10:12am
+- **Updated At (UTC):** Jun 26, 2025 10:12am
+
+---
+
+### 38. 気がついたらこれ使えなくなってた
+**Author:** orafukun_567109　　　　　　　　　煮物貢献者 (qwertyuiopasdfghjklzxcvbnm567109)
+
+[Attachment 1](https://drum.ani-nya.com/)
+
+#### Comments (6)
+- **INFINITY** (Jun 25, 2025 11:53am): 私、pc重すぎるせいでできない()
+- **INFINITY** (Jun 25, 2025 11:53am): 開けるかわからんけど　　　　　https://taikoapp.ukhttps://obscuretaiko.glitch.mehttps://cjdgrevival.comhttps://taikosim.click
+- **光の忍者サブ垢** (Jun 25, 2025 01:20pm): ありがとう
+- **🍭まかろん🎃りおとの32番㌥＿** (Jun 26, 2025 04:56am): んえー
+- **🍭まかろん🎃りおとの32番㌥＿** (Jun 26, 2025 04:56am): 全ブロ
+- **orafukun_567109　　　　　　　　　煮物貢献者** (Jun 26, 2025 04:59am): ありがとうございます
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 25, 2025 09:01am
+- **Updated At (UTC):** Jun 25, 2025 09:02am
+
+---
+
+### 39. 壁紙めっちゃ良い
+**Author:** orafukun_567109　　　　　　　　　煮物貢献者 (qwertyuiopasdfghjklzxcvbnm567109)
+
+#### Comments (9)
+- **光の忍者サブ垢** (Jun 25, 2025 08:45am): 自分が変えました
+- **Riur🐾** (Jun 25, 2025 08:45am): それな
+- **光の忍者サブ垢** (Jun 25, 2025 08:46am): 自分のパソコンの壁紙もこれ
+- **光の忍者サブ垢** (Jun 25, 2025 08:46am): 気に入ってる
+- **Riur🐾** (Jun 25, 2025 08:46am): 光の忍者サブ垢さんフォローありがとうございますっ✨️フォロバしておきましたっ！
+- **光の忍者サブ垢** (Jun 25, 2025 08:47am): ありがとうございます
+- **光の忍者サブ垢** (Jun 25, 2025 08:48am): さすがフォロバ率100％は凄いですね
+- **Riur🐾** (Jun 25, 2025 08:48am): んふふっ✨️
+- **Riur🐾** (Jun 25, 2025 08:48am): 気づかないこともありますけど、遅くなったとしてもフォロバはしますよっ！
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 25, 2025 08:44am
+- **Updated At (UTC):** Jun 25, 2025 08:44am
+
+---
+
+### 40. snjra
+**Author:** zakopanda@2n2s (zakopanda)
+
+<p>pvpをしています入りたい人は入って下さい。</p>
+
+[Attachment 1](https://d3rsc7j663z58n.cloudfront.net/#/MS44d2FzbQ)
+
+#### Comments (7)
+- **🍭まかろん🎃りおとの32番㌥＿** (Jun 25, 2025 04:08am): 行きます
+- **zakopanda@2n2s** (Jun 25, 2025 04:08am): ちなみに我は元アジア一位です
+- **🍭まかろん🎃りおとの32番㌥＿** (Jun 25, 2025 04:09am): えぐ
+- **zakopanda@2n2s** (Jun 25, 2025 04:09am): www
+- **🍭まかろん🎃りおとの32番㌥＿** (Jun 25, 2025 04:11am): コードは？
+- **zakopanda@2n2s** (Jun 25, 2025 04:11am): snjra
+- **🍭まかろん🎃りおとの32番㌥＿** (Jun 25, 2025 04:12am): おｋ
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 25, 2025 04:08am
+- **Updated At (UTC):** Jun 25, 2025 04:08am
+
+---
+
+### 41. もっとGoogle フォームっぽくしたい
+**Author:** Magurock (偽物･偽造に注意) (Magurock)
+
+<p>・↑これをアイコンに設定する</p><p>・部屋名をgoogleフォーム</p><p>　　↳ Google フォーム にする</p>
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/3ea9d3aaf5a8f51eda6b391fc7312b52/forms_icon_2023q4.ico?Expires=1778156204&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=By6mUB3S9b843muY%2BVnRNCriX9LLgtb5tkx%2BqUCWprCV9uMiHcW%2BlLdfwrDfuaYo9DTY0a67bv6H%2BMVi%2FmGkOHwyfJBAJ31SG7Ti8BsdIG3L9VfLACjPtCo1kK7i4dXAx9rCVgKWDAlRaydYtEEbn2w0wUwsoLr9m7%2F56Any01E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F3ea9d3aaf5a8f51eda6b391fc7312b52%2Fforms_icon_2023q4.ico)
+
+#### Comments (3)
+- **光の忍者** (Jun 23, 2025 02:15am): オッケー
+- **光の忍者** (Jun 23, 2025 02:16am): やってみた
+- **orafukun_567109　　　　　　　　　煮物貢献者** (Jun 23, 2025 09:21am): 天才
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 23, 2025 12:24am
+- **Updated At (UTC):** Jun 23, 2025 12:24am
+
+---
+
+### 42. Post 42
+**Author:** INFINITY (nanasisan)
+
+<p>復帰します、前みたいに毎日来れるわけではないですが</p>
+
+#### Comments (1)
+- **光の忍者** (Jun 22, 2025 09:35am): 良かったです👍️
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 22, 2025 08:57am
+- **Updated At (UTC):** Jun 22, 2025 08:57am
+
+---
+
+### 43. わかめくれ
+**Author:** りおとだお！もうすぐ高校入試！ (gohannoisii)
+
+#### Comments (4)
+- **Chris Pratt** (Jun 20, 2025 11:17am): ほんと‼️
+- **INFINITY** (Jun 20, 2025 11:36am): わかめ今ないんだよね
+- **orafukun_567109　　　　　　　　　煮物貢献者** (Jun 21, 2025 04:56am): わかめじゃないけどyoutube見れますhttps://at.ggtyler.dev/
+- **りおとだお！もうすぐ高校入試！** (Jun 21, 2025 06:01am): 部屋入れといたよ
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 20, 2025 08:14am
+- **Updated At (UTC):** Jun 20, 2025 08:14am
+
+---
+
+### 44. ちょっと時間が空いたから見に来た
+**Author:** INFINITY (nanasisan)
+
+<p>色々と不味くないですか、</p>
+
+#### Comments (1)
+- **光の忍者サブ垢** (Jun 19, 2025 03:30pm): やばいですね
+
+#### Reactions
+- **Emojis:** 👍 (1)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 19, 2025 08:33am
+- **Updated At (UTC):** Jun 19, 2025 08:33am
+
+---
+
+### 45. Post 45
+**Author:** INFINITY (nanasisan)
+
+<p>1週間くらい活動やめます</p>
+
+#### Comments (1)
+- **光の忍者** (Jun 15, 2025 10:43pm): わかりました
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 15, 2025 06:05am
+- **Updated At (UTC):** Jun 15, 2025 06:05am
+
+---
+
+### 46. 頑張って投稿するか
+**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
+
+<p>どうせ被ってるだろうけど</p>
+
+#### Comments (1)
+- **光の忍者サブ垢** (Jun 20, 2025 07:20am): お願いします
+
+#### Reactions
+- **Emojis:** 👍 (2)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 14, 2025 08:40am
+- **Updated At (UTC):** Jun 14, 2025 08:40am
+
+---
+
+### 47. 規制ソフトの欠陥してる部分無いかな
+**Author:** INFINITY (nanasisan)
+
+<p>あったら利用できそう</p>
+
+#### Comments (3)
+- **ささもさ** (Jun 13, 2025 07:18am): シャドウ欲しいです
+- **専任された仙人元Pa（NOT荒らし）** (Jun 13, 2025 07:19am): Shadowならこの部屋にありますよ
+- **専任された仙人元Pa（NOT荒らし）** (Jun 13, 2025 07:21am): かなり右のセクションですが。
+
+#### Reactions
+- **Emojis:** 👍 (1)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 11, 2025 11:01am
+- **Updated At (UTC):** Jun 11, 2025 11:02am
+
+---
+
 ## プロキシ関連の相談
 
 ### 1. AIチャットサイトください
@@ -1168,7 +1903,7 @@
 
 <p>こうなります。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3700672421/8fdd1ed1f25c86154e232686d5d8b89d/Screenshot_2025_07_15_08_11_32.png?Expires=1778148483&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IixDq0hXnaahuK77mCoW5RVuN2ZgMF28VW7QUID5Mdx%2FWShn0nn8VDxUza98zmkAhLlryJ0xhwgGm5NS%2BfTwF%2FAZXoMNwbTAhWSv10HaNj8umpY6Gs6EsvzXqZa6s4J9X6iTJOQqXHL2XegaESOUIMVL3khovSGCdt8gU7bDui4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3700672421%2F8fdd1ed1f25c86154e232686d5d8b89d%2FScreenshot_2025_07_15_08_11_32.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3700672421/8fdd1ed1f25c86154e232686d5d8b89d/Screenshot_2025_07_15_08_11_32.png?Expires=1778156204&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MuiMqSEr%2FQHiY1ebcNUoblooked5KWcvUy9LPTCA3zguokWTZhff37HexMgMcEuMjKEo2I9zozpIcqfszwU78TDvRpG6U6dPOdGQoRaR1xXvqhyorABVh%2BSfuNpagOH8xyYGF%2FSjnOyDr6cL6MfJAeicasnaveHn8e64HFcFUpQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3700672421%2F8fdd1ed1f25c86154e232686d5d8b89d%2FScreenshot_2025_07_15_08_11_32.png)
 
 #### Comments (5)
 - **INFINITY** (Jul 15, 2025 07:27am): 治らないと思います、新しいわかめに切り替えてみてはどうでしょうか
@@ -1467,734 +2202,6 @@
 - **Post color:** Yellow
 - **Created At (UTC):** Jun 04, 2025 12:37pm
 - **Updated At (UTC):** Jun 08, 2025 02:10pm
-
----
-
-## 雑談
-
-### 1. 誰でも来てね！
-**Author:** よし！待つ (10210056)
-
-[Attachment 1](https://padlet.com/10210056/padlet-vajhrauf9xmy28np)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Apr 03, 2026 10:59am
-- **Updated At (UTC):** Apr 03, 2026 10:59am
-
----
-
-### 2. 捨てメアドありませんか
-**Author:** Chris Pratt (e011822104)
-
-<p>ランマーあげます</p>
-
-#### Comments (3)
-- **めろんぱうだー** (Mar 04, 2026 11:45am): https://sute.jp/signupこれはどうですか？
-- **めろんぱうだー** (Mar 04, 2026 12:26pm): らんまー下さい
-- **Chris Pratt** (Mar 05, 2026 12:48pm): パスワードってないの？
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Mar 04, 2026 11:38am
-- **Updated At (UTC):** Mar 04, 2026 11:38am
-
----
-
-### 3. ohisa
-**Author:** 0b1001 (h3002183)
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/255570cd2c651da9a348513201da28bf/media_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png?Expires=1778148483&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=43aWNQDD8vnKhrIXtb3dpwmwqivZe198hQmm5H6LbtGaQSz7B0LDuShvCgNhvXB56IydDH6ifIfkIxwot%2FZvqxZhqlAY1%2BeRMlf%2BInB6bBOIuq%2B7t2R24I2UNma%2BSnH1RwPt6mYYsxF%2Blm%2BKzYO6iMQoSwfrYOVqF6s%2Fqf97Gfk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F255570cd2c651da9a348513201da28bf%2Fmedia_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png)
-
-#### Comments (1)
-- **光の忍者** (Jan 20, 2026 03:14am): 久しぶり
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jan 19, 2026 09:50am
-- **Updated At (UTC):** Jan 19, 2026 09:50am
-
----
-
-### 4. ここきて！
-**Author:** りおとだお！もうすぐ高校入試！ (gohannoisii)
-
-[Attachment 1](https://padlet.com/yakinikudaisuki/padlet-tka94ea6bu7qqj3g)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 25, 2025 06:11am
-- **Updated At (UTC):** Dec 25, 2025 06:11am
-
----
-
-### 5. ohisa
-**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Dec 17, 2025 04:27am
-- **Updated At (UTC):** Dec 17, 2025 04:27am
-
----
-
-### 6. 投稿止まってます？
-**Author:** 黎桜🌸 (mendokusai)
-
-#### Comments (3)
-- **光の忍者** (Oct 30, 2025 03:10am): ごめんね
-- **INFINITY** (Oct 30, 2025 07:07am): 今前みたいに依頼ができなから、全力で自作して準備してるつもりです。
-- **黎桜🌸** (Nov 04, 2025 12:44pm): おけです
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Oct 26, 2025 02:19am
-- **Updated At (UTC):** Oct 26, 2025 02:19am
-
----
-
-### 7. 俺の部屋きてね！
-**Author:** りおとだお！もうすぐ高校入試！ (gohannoisii)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Oct 23, 2025 11:57pm
-- **Updated At (UTC):** Oct 23, 2025 11:57pm
-
----
-
-### 8. やっと学タブが戻ってきた(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)
-**Author:** (^_^)r Youtube大好きな人 (hsj2025086)
-
-#### Comments (1)
-- **削除済みユーザー** (Oct 19, 2025 12:21am): おめｗ(何があった？W)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Oct 14, 2025 08:38am
-- **Updated At (UTC):** Oct 14, 2025 08:38am
-
----
-
-### 9. 毎月の楽しみ
-**Author:** INFINITY (nanasisan)
-
-<p>最新のプロキシ検索エンジンまだかなー、まあv7で俺の声が枯れた性能だし、いや早く来てほしいな()</p>
-
-#### Comments (2)
-- **光の忍者** (Oct 09, 2025 11:20am): 確かに！
-- **光の忍者** (Oct 09, 2025 11:20am): 早く来てほしいですね
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Oct 06, 2025 06:38am
-- **Updated At (UTC):** Oct 06, 2025 06:38am
-
----
-
-### 10. ゲーム禁止になりました
-**Author:** ちゃお#Dヲタ※o-tyannだよ(名前変えた) (o_tyann0424)
-
-<p>学パソでやるゲームが一番おもろかったのに</p>
-
-#### Comments (1)
-- **光の忍者** (Sep 30, 2025 11:33pm): それは残念
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Sep 29, 2025 09:59am
-- **Updated At (UTC):** Sep 29, 2025 09:59am
-
----
-
-### 11. 俺が想像してやりたくなった事
-**Author:** INFINITY (nanasisan)
-
-<p>新規:この部屋、プロキシとかの配布投稿の最初に被ったら…って言うの多いけど誰が最初なんだろう</p><p>ワイ:それ起源、俺やで(ドヤ顔)</p>
-
-#### Comments (1)
-- **削除済みユーザー** (Sep 28, 2025 01:53am): ｗ
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Sep 26, 2025 05:39am
-- **Updated At (UTC):** Sep 26, 2025 06:14am
-
----
-
-### 12. 光の忍者久！！！！！！！！
-**Author:** 削除済みユーザー
-
-<p>れおと仲が良かった人です！</p>
-
-#### Comments (2)
-- **光の忍者** (Sep 24, 2025 02:39am): 久しぶり
-- **削除済みユーザー** (Sep 28, 2025 01:53am): 久
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Sep 20, 2025 06:09am
-- **Updated At (UTC):** Sep 20, 2025 06:09am
-
----
-
-### 13. 久しぶり
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Sep 02, 2025 05:45am
-- **Updated At (UTC):** Sep 02, 2025 05:45am
-
----
-
-### 14. ワイの部屋大きくなったなぁ
-**Author:** さくらもち (sakuramoti)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Aug 29, 2025 07:14am
-- **Updated At (UTC):** Aug 29, 2025 07:14am
-
----
-
-### 15. えぐい過疎ってる
-**Author:** ꧁さなだっちsecond꧂ (gs173114)
-
-#### Comments (3)
-- **光の忍者** (Aug 19, 2025 02:29am): どうすればいいかなー
-- **꧁さなだっちsecond꧂** (Aug 19, 2025 10:34pm): わかんない
-- **꧁さなだっちsecond꧂** (Aug 19, 2025 10:34pm): けどもっとハイペースでプロキシ更新していったらいいんじゃない？こここえたら多分過疎んないよ
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Aug 18, 2025 12:05am
-- **Updated At (UTC):** Aug 18, 2025 12:05am
-
----
-
-### 16. 過疎ぉ
-**Author:** orafukun_567109　　　　　　　　　煮物貢献者 (qwertyuiopasdfghjklzxcvbnm567109)
-
-#### Comments (2)
-- **中国せんべい確定** (Aug 15, 2025 09:37am): うんうん
-- **光の忍者サブ垢** (Aug 16, 2025 02:01pm): うんうん
-
-#### Reactions
-- **Emojis:** 👎 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Aug 15, 2025 08:50am
-- **Updated At (UTC):** Aug 15, 2025 08:50am
-
----
-
-### 17. 青鬼2016ないですか？
-**Author:** りんご＾＾ (unkodesuyo)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Aug 08, 2025 06:00am
-- **Updated At (UTC):** Aug 08, 2025 06:00am
-
----
-
-### 18. お久しゅうございます！！光の忍者様
-**Author:** zakopanda@2n2s (zakopanda)
-
-#### Comments (2)
-- **削除済みユーザー** (Aug 01, 2025 09:52am): お労しや兄上？
-- **光の忍者** (Aug 02, 2025 02:37am): 久しぶりだね
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 31, 2025 11:40am
-- **Updated At (UTC):** Jul 31, 2025 11:40am
-
----
-
-### 19. 漫画サイト持ってたらください
-**Author:** Rooooooooo
-
-#### Comments (2)
-- **光の忍者** (Jul 31, 2025 06:12am): https://dbook.docomo.ne.jp/
-- **光の忍者** (Jul 31, 2025 06:13am): これどう？
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 30, 2025 04:22am
-- **Updated At (UTC):** Jul 30, 2025 04:22am
-
----
-
-### 20. クッキークリッカー出来るサイトないですか？
-**Author:** りんご＾＾ (unkodesuyo)
-
-#### Comments (2)
-- **光の忍者** (Jul 27, 2025 08:30am): Selenite
-- **光の忍者** (Jul 27, 2025 08:30am): これとか？
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 24, 2025 06:38am
-- **Updated At (UTC):** Jul 24, 2025 06:38am
-
----
-
-### 21. はろー
-**Author:** ピコ (pikopikokun)
-
-#### Comments (1)
-- **ピコ** (Jul 15, 2025 12:04pm): 誰かいる？
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 15, 2025 12:03pm
-- **Updated At (UTC):** Jul 15, 2025 12:03pm
-
----
-
-### 22. 重要に送りました
-**Author:** ピコ (pikopikokun)
-
-#### Comments (1)
-- **INFINITY** (Jul 15, 2025 10:51am): 確かにわかめが使えないのは深刻ですが。重要案件では無いと私は思います、プロキシ関連の相談の方が対応が早いと思いますので大体の相談はプロキシ関連の相談へ
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 14, 2025 11:13pm
-- **Updated At (UTC):** Jul 14, 2025 11:13pm
-
----
-
-### 23. 誰かスクリーンたいむのけしかたおしえｒ
-**Author:** ミンミン (s23240093)
-
-#### Comments (2)
-- **ミンミン** (Jul 14, 2025 05:48am): そうゆう部屋でもいいです
-- **光の忍者** (Jul 18, 2025 05:41am): わかんない
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 14, 2025 02:41am
-- **Updated At (UTC):** Jul 14, 2025 02:41am
-
----
-
-### 24. 太鼓ください
-**Author:** りんご＾＾ (unkodesuyo)
-
-#### Comments (1)
-- **INFINITY** (Jul 12, 2025 01:34pm): 使えっか分からん　　　　　　　https://taikoapp.ukhttps://obscuretaiko.glitch.mehttps://cjdgrevival.comhttps://taikosim.click
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 11, 2025 12:55pm
-- **Updated At (UTC):** Jul 11, 2025 12:55pm
-
----
-
-### 25. こんなツールを探してた
-**Author:** Magurock (偽物･偽造に注意) (Magurock)
-
-<p>これでプロキシ集めが楽になる</p>
-
-[Attachment 1](https://forest.watch.impress.co.jp/library/software/textsorter/)
-
-#### Comments (1)
-- **光の忍者** (Jul 11, 2025 01:38am): ないす
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 10, 2025 04:08am
-- **Updated At (UTC):** Jul 10, 2025 04:08am
-
----
-
-### 26. わかめを使おうと思ったらこんなん出たけれどこれはなにですか？
-**Author:** りおとだお！もうすぐ高校入試！ (gohannoisii)
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3043221779/081c3467813e2887d966a6453c62a962/IMG_6127.jpeg?Expires=1778148484&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=T9XdGZ%2BZDrOB%2B%2FEShEJQ5bf5u2vmVWmOB2t%2FCF%2FT4%2FgDRglpdG6v4dM1tYJNYTpy2QiBLqUHTQq%2FVXNODRxuNV6xCcuCy4%2Bu%2BOy0aLbWjPban6b2OAk2cZxQecrCsBxCsXrlh%2Bu8ZnSe2GEOcokBL%2BVIRgGgWH76R0uLSuULTpQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3043221779%2F081c3467813e2887d966a6453c62a962%2FIMG_6127.jpeg)
-
-#### Comments (5)
-- **(^_^)r Youtube大好きな人** (Jul 09, 2025 10:18pm): わからん
-- **Riur🐾** (Jul 09, 2025 10:23pm): これはもう仕えないよってことだね
-- **Riur🐾** (Jul 09, 2025 10:23pm): 使えないって事
-- **稲葉怜子** (Jul 09, 2025 10:29pm): それな俺もなった
-- **りおとだお！もうすぐ高校入試！** (Jul 10, 2025 01:17am): まじかw
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 09, 2025 09:14pm
-- **Updated At (UTC):** Jul 09, 2025 09:14pm
-
----
-
-### 27. やほ
-**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 08, 2025 08:38am
-- **Updated At (UTC):** Jul 08, 2025 08:38am
-
----
-
-### 28. Post 28
-**Author:** INFINITY (nanasisan)
-
-<p>運営者全員中々来れなくなったらやばないか</p>
-
-#### Comments (3)
-- **削除済みユーザー** (Jul 07, 2025 12:47pm): 確かに
-- **光の忍者** (Jul 08, 2025 01:30am): やばい
-- **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇** (Jul 08, 2025 08:39am): 私は、一応閲覧はしてる
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 07, 2025 06:24am
-- **Updated At (UTC):** Jul 07, 2025 06:27am
-
----
-
-### 29. 俺も中学受験があってなかなか来れないかも
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-<p>ごめんできるだけProxyは上げる</p>
-
-#### Comments (3)
-- **光の忍者** (Jul 06, 2025 11:49pm): オッケー
-- **光の忍者** (Jul 06, 2025 11:49pm): 頑張れ
-- **INFINITY** (Jul 07, 2025 06:15am): 無理せず、頑張ってください
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 06, 2025 11:33pm
-- **Updated At (UTC):** Jul 06, 2025 11:33pm
-
----
-
-### 30. 関係ないけどフォロー人数１００人突破！✨️皆さん協力ありがとうございますっ！もしよければまだフォローしていない人はフォロバ１００％なのでフォローしていただけると幸いです！✨️✨️
-**Author:** Riur🐾 (siromaro)
-
-#### Comments (1)
-- **光の忍者** (Jul 06, 2025 12:47pm): してるよ
-
-#### Reactions
-- **Emojis:** 👍 (2)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 05, 2025 02:45pm
-- **Updated At (UTC):** Jul 05, 2025 02:45pm
-
----
-
-### 31. この期間超えたら沢山、人がくるのかな
-**Author:** INFINITY (nanasisan)
-
-#### Comments (1)
-- **光の忍者** (Jul 06, 2025 01:43am): 宣伝してもなかなか来てくれないんですよね…
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 05, 2025 11:24am
-- **Updated At (UTC):** Jul 05, 2025 11:24am
-
----
-
-### 32. 被っているの＆エラーなどで使えないのって消しちゃって大丈夫ですかね
-**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
-
-<p>規制で使えないやつはもちろん残しておきますが</p>
-
-#### Comments (3)
-- **INFINITY** (Jun 30, 2025 12:11pm): 過去に研究者さんが「使えないプロキシについて」を提案し、管理者だけのルールとなってるらしいです、運営者にルール変更要求したらモデでもできるんじゃないですかね
-- **光の忍者サブ垢** (Jun 30, 2025 03:06pm): モデでもいいですよ
-- **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇** (Jul 01, 2025 08:16am): ありがとうございます
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 30, 2025 10:35am
-- **Updated At (UTC):** Jun 30, 2025 10:35am
-
----
-
-### 33. どこけんさんいつ復活するかな？
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-<p>長いよ〜〜</p>
-
-#### Comments (2)
-- **光の忍者サブ垢** (Jun 29, 2025 01:46pm): あと3日くらいかな
-- **光の忍者サブ垢** (Jun 30, 2025 03:06pm): ついに復活しましたね
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 29, 2025 01:27pm
-- **Updated At (UTC):** Jun 29, 2025 01:27pm
-
----
-
-### 34. モデから、昇格してないのってわたしだけ？
-**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
-
-#### Comments (5)
-- **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇** (Jun 28, 2025 11:21am): わかめ、szvy、US4、マイクラ、gameあたり結構上げてるんだけどね
-- **削除済みユーザー** (Jun 28, 2025 11:31am): 僕は落とされたわ
-- **光の忍者サブ垢** (Jun 29, 2025 01:47pm): 0b1001さんもそうです
-- **光の忍者サブ垢** (Jun 29, 2025 01:47pm): たしかにAさんはたくさん投稿してくれてますよね
-- **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇** (Jun 30, 2025 09:34am): ん
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 28, 2025 11:18am
-- **Updated At (UTC):** Jun 28, 2025 11:18am
-
----
-
-### 35. pvpしましょう（いきなりすぎて草）
-**Author:** zakopanda@2n2s (zakopanda)
-
-#### Comments (16)
-- **光の忍者** (Jun 26, 2025 12:09pm): ごめん今無理だあ
-- **zakopanda@2n2s** (Jun 26, 2025 12:09pm): ok
-- **光の忍者** (Jun 26, 2025 12:10pm): 明日テストなんです
-- **光の忍者** (Jun 26, 2025 12:10pm): 勉強してなさすぎてやばい
-- **zakopanda@2n2s** (Jun 26, 2025 12:10pm): ファイト！！
-- **zakopanda@2n2s** (Jun 26, 2025 12:11pm): 先生に勇気を出してワイロ渡すんだぞ
-- **光の忍者** (Jun 26, 2025 12:11pm): okです
-- **zakopanda@2n2s** (Jun 26, 2025 12:11pm): っておい！！www
-- **光の忍者** (Jun 26, 2025 12:11pm): いくらで足りるかな
-- **zakopanda@2n2s** (Jun 26, 2025 12:12pm): 10万で半教科ぐらい
-- **zakopanda@2n2s** (Jun 26, 2025 12:12pm): 担任が5万
-- **光の忍者** (Jun 26, 2025 12:13pm): 高いな
-- **zakopanda@2n2s** (Jun 26, 2025 12:14pm): これが陽のあたる道を歩いて行け無い人間だ
-- **光の忍者** (Jun 26, 2025 12:14pm): 仲間だね
-- **光の忍者** (Jun 26, 2025 12:16pm): じゃあちょっと勉強してきます
-- **zakopanda@2n2s** (Jun 26, 2025 12:16pm): 頑張れーーーー
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 26, 2025 12:07pm
-- **Updated At (UTC):** Jun 26, 2025 12:07pm
-
----
-
-### 36. みんなの好きなプロキシって何？
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-<p>自分はSeleniteとかGhostとか好きかな</p>
-
-#### Comments (8)
-- **光の忍者** (Jun 26, 2025 10:13am): arsenicとCroxyProxyも好き
-- **すみしょう賛成ピカコン反対** (Jun 26, 2025 11:17am): らんまー
-- **INFINITY** (Jun 26, 2025 11:43am): インターステラー好きなのにほぼ全ブロ
-- **光の忍者** (Jun 26, 2025 12:04pm): 自分のパソコン重すぎてらんまー使えないんだよなー
-- **光の忍者** (Jun 26, 2025 12:04pm): 確かにインターステラーはあんまない
-- **zakopanda@2n2s** (Jun 26, 2025 12:05pm): インターテスラからすぐクレイジー開けるから便利なんだよね
-- **光の忍者** (Jun 26, 2025 12:08pm): 便利だけど規制が多い…
-- **zakopanda@2n2s** (Jun 26, 2025 12:09pm): 確かにそれ以外はほぼ完璧なんだけどね
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 26, 2025 10:12am
-- **Updated At (UTC):** Jun 26, 2025 10:12am
-
----
-
-### 37. 気がついたらこれ使えなくなってた
-**Author:** orafukun_567109　　　　　　　　　煮物貢献者 (qwertyuiopasdfghjklzxcvbnm567109)
-
-[Attachment 1](https://drum.ani-nya.com/)
-
-#### Comments (6)
-- **INFINITY** (Jun 25, 2025 11:53am): 私、pc重すぎるせいでできない()
-- **INFINITY** (Jun 25, 2025 11:53am): 開けるかわからんけど　　　　　https://taikoapp.ukhttps://obscuretaiko.glitch.mehttps://cjdgrevival.comhttps://taikosim.click
-- **光の忍者サブ垢** (Jun 25, 2025 01:20pm): ありがとう
-- **🍭まかろん🎃りおとの32番㌥＿** (Jun 26, 2025 04:56am): んえー
-- **🍭まかろん🎃りおとの32番㌥＿** (Jun 26, 2025 04:56am): 全ブロ
-- **orafukun_567109　　　　　　　　　煮物貢献者** (Jun 26, 2025 04:59am): ありがとうございます
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 25, 2025 09:01am
-- **Updated At (UTC):** Jun 25, 2025 09:02am
-
----
-
-### 38. 壁紙めっちゃ良い
-**Author:** orafukun_567109　　　　　　　　　煮物貢献者 (qwertyuiopasdfghjklzxcvbnm567109)
-
-#### Comments (9)
-- **光の忍者サブ垢** (Jun 25, 2025 08:45am): 自分が変えました
-- **Riur🐾** (Jun 25, 2025 08:45am): それな
-- **光の忍者サブ垢** (Jun 25, 2025 08:46am): 自分のパソコンの壁紙もこれ
-- **光の忍者サブ垢** (Jun 25, 2025 08:46am): 気に入ってる
-- **Riur🐾** (Jun 25, 2025 08:46am): 光の忍者サブ垢さんフォローありがとうございますっ✨️フォロバしておきましたっ！
-- **光の忍者サブ垢** (Jun 25, 2025 08:47am): ありがとうございます
-- **光の忍者サブ垢** (Jun 25, 2025 08:48am): さすがフォロバ率100％は凄いですね
-- **Riur🐾** (Jun 25, 2025 08:48am): んふふっ✨️
-- **Riur🐾** (Jun 25, 2025 08:48am): 気づかないこともありますけど、遅くなったとしてもフォロバはしますよっ！
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 25, 2025 08:44am
-- **Updated At (UTC):** Jun 25, 2025 08:44am
-
----
-
-### 39. snjra
-**Author:** zakopanda@2n2s (zakopanda)
-
-<p>pvpをしています入りたい人は入って下さい。</p>
-
-[Attachment 1](https://d3rsc7j663z58n.cloudfront.net/#/MS44d2FzbQ)
-
-#### Comments (7)
-- **🍭まかろん🎃りおとの32番㌥＿** (Jun 25, 2025 04:08am): 行きます
-- **zakopanda@2n2s** (Jun 25, 2025 04:08am): ちなみに我は元アジア一位です
-- **🍭まかろん🎃りおとの32番㌥＿** (Jun 25, 2025 04:09am): えぐ
-- **zakopanda@2n2s** (Jun 25, 2025 04:09am): www
-- **🍭まかろん🎃りおとの32番㌥＿** (Jun 25, 2025 04:11am): コードは？
-- **zakopanda@2n2s** (Jun 25, 2025 04:11am): snjra
-- **🍭まかろん🎃りおとの32番㌥＿** (Jun 25, 2025 04:12am): おｋ
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 25, 2025 04:08am
-- **Updated At (UTC):** Jun 25, 2025 04:08am
-
----
-
-### 40. もっとGoogle フォームっぽくしたい
-**Author:** Magurock (偽物･偽造に注意) (Magurock)
-
-<p>・↑これをアイコンに設定する</p><p>・部屋名をgoogleフォーム</p><p>　　↳ Google フォーム にする</p>
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/3ea9d3aaf5a8f51eda6b391fc7312b52/forms_icon_2023q4.ico?Expires=1778148484&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ig6LGO4lptP1C9GgJKXSQaDgx3P3bhL%2B7QPN%2FYCkYQ9HcfTZPlMtiiit6YCeVM2ycznvzQjJoKI02A9D37xOJR7wgPOvp10YIvFnveu%2BFEnrv422P7pwKASOsMWEo5NgaQD2VJYkL723DzrB0b1JE9IuuhhM37f7Ca09iuwor%2B0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F3ea9d3aaf5a8f51eda6b391fc7312b52%2Fforms_icon_2023q4.ico)
-
-#### Comments (3)
-- **光の忍者** (Jun 23, 2025 02:15am): オッケー
-- **光の忍者** (Jun 23, 2025 02:16am): やってみた
-- **orafukun_567109　　　　　　　　　煮物貢献者** (Jun 23, 2025 09:21am): 天才
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 23, 2025 12:24am
-- **Updated At (UTC):** Jun 23, 2025 12:24am
-
----
-
-### 41. Post 41
-**Author:** INFINITY (nanasisan)
-
-<p>復帰します、前みたいに毎日来れるわけではないですが</p>
-
-#### Comments (1)
-- **光の忍者** (Jun 22, 2025 09:35am): 良かったです👍️
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 22, 2025 08:57am
-- **Updated At (UTC):** Jun 22, 2025 08:57am
-
----
-
-### 42. わかめくれ
-**Author:** りおとだお！もうすぐ高校入試！ (gohannoisii)
-
-#### Comments (4)
-- **Chris Pratt** (Jun 20, 2025 11:17am): ほんと‼️
-- **INFINITY** (Jun 20, 2025 11:36am): わかめ今ないんだよね
-- **orafukun_567109　　　　　　　　　煮物貢献者** (Jun 21, 2025 04:56am): わかめじゃないけどyoutube見れますhttps://at.ggtyler.dev/
-- **りおとだお！もうすぐ高校入試！** (Jun 21, 2025 06:01am): 部屋入れといたよ
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 20, 2025 08:14am
-- **Updated At (UTC):** Jun 20, 2025 08:14am
-
----
-
-### 43. ちょっと時間が空いたから見に来た
-**Author:** INFINITY (nanasisan)
-
-<p>色々と不味くないですか、</p>
-
-#### Comments (1)
-- **光の忍者サブ垢** (Jun 19, 2025 03:30pm): やばいですね
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 19, 2025 08:33am
-- **Updated At (UTC):** Jun 19, 2025 08:33am
-
----
-
-### 44. Post 44
-**Author:** INFINITY (nanasisan)
-
-<p>1週間くらい活動やめます</p>
-
-#### Comments (1)
-- **光の忍者** (Jun 15, 2025 10:43pm): わかりました
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 15, 2025 06:05am
-- **Updated At (UTC):** Jun 15, 2025 06:05am
-
----
-
-### 45. 頑張って投稿するか
-**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
-
-<p>どうせ被ってるだろうけど</p>
-
-#### Comments (1)
-- **光の忍者サブ垢** (Jun 20, 2025 07:20am): お願いします
-
-#### Reactions
-- **Emojis:** 👍 (2)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 14, 2025 08:40am
-- **Updated At (UTC):** Jun 14, 2025 08:40am
-
----
-
-### 46. 規制ソフトの欠陥してる部分無いかな
-**Author:** INFINITY (nanasisan)
-
-<p>あったら利用できそう</p>
-
-#### Comments (3)
-- **ささもさ** (Jun 13, 2025 07:18am): シャドウ欲しいです
-- **専任された仙人元Pa（NOT荒らし）** (Jun 13, 2025 07:19am): Shadowならこの部屋にありますよ
-- **専任された仙人元Pa（NOT荒らし）** (Jun 13, 2025 07:21am): かなり右のセクションですが。
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 11, 2025 11:01am
-- **Updated At (UTC):** Jun 11, 2025 11:02am
 
 ---
 
@@ -2587,12 +2594,34 @@
 
 ---
 
-## マインクラフト
+## マインクラフト・スキン
 
-### 1. ダウンロードして使う系
+### 1. とりあえずskin
+**Author:** ちょこ#りおと族999代目#bw (vwlxx)
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/33ae1e902b22fa0cedcbe16bd036ccc9/vortex.png?Expires=1778156205&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xVUXbNA2CNT%2Bsx16hEp%2FZLy3ZsfboDIVVg%2BAOes%2F8mK%2FGUd%2BC1B7vHc4AL6kT%2FlQ093AQfeJAU%2F9dilOn8Der1JowqdGP7KAHZ%2BsjisvfbIfRaYftqvsdSRuC0UifCBmEyqVeVX1Gyr5M1e1Aj%2FjmufyLHLFlREJZBw4EY8IFVc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F33ae1e902b22fa0cedcbe16bd036ccc9%2Fvortex.png)
+
+#### Comments (5)
+- **さくらもち** (Jul 28, 2025 02:39pm): どうやって作るの？
+- **さくらもち** (Jul 30, 2025 07:49am): さくらもちスキンつくって
+- **削除済みユーザー** (Aug 06, 2025 02:23am): novaスキン
+- **削除済みユーザー** (Aug 20, 2025 10:06am): さくらもちスキン作ってあげる
+- **ピコ** (Apr 27, 2026 08:46am): やさし！！
+
+#### Reactions
+- **Emojis:** 👍 (6) 👎 (1)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 01, 2025 11:49am
+- **Updated At (UTC):** Apr 30, 2026 10:16am
+
+---
+
+### 2. ダウンロードして使う系
 **Author:** INFINITY (nanasisan)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3933854277/c9de0e700fa68e9378074201ec74f6c1/Minecraft_Java_edition1_9_4__2_.html?Expires=1778148484&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZTgJe%2FC1c0LtfCy85vPg9VkX6c10UNj3n5Cbvwnrn9qDTxWiJjGHBqBc2GrEzo%2B8xxMnHCVWnms6snvnmSTb2fSQ7Do%2BaOjEPoPwmZ7kqXGJLzaZAVmKPcd8mtH4oKF78y2jx5t39FmGxAXsYwrJFBPdGaLthLZqrQ9Mn5V9d%2F4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3933854277%2Fc9de0e700fa68e9378074201ec74f6c1%2FMinecraft_Java_edition1_9_4__2_.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3933854277/c9de0e700fa68e9378074201ec74f6c1/Minecraft_Java_edition1_9_4__2_.html?Expires=1778156205&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CFzoHjyw01Zy2P%2FVsYzR20paxcBjybIbWSAqvwdeJ26G4GIC84JvecUZdtbM45B9F8tUcLloRDCF2LfO3s9%2FiEZ5ZHoOmiIe%2F%2FtnRvNGaPBWaup%2Fzyjf%2BhmwaXYkfPs%2F4%2B0iRi5jsnA5H%2By72T2VKz75onzyxsyH%2BdoPzYoBkb0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3933854277%2Fc9de0e700fa68e9378074201ec74f6c1%2FMinecraft_Java_edition1_9_4__2_.html)
 
 #### Comments (1)
 - **Riur🐾** (Jun 27, 2025 01:35pm): ありがと、
@@ -2607,7 +2636,7 @@
 
 ---
 
-### 2. まあまあ使える
+### 3. まあまあ使える
 **Author:** すみしょう賛成ピカコン反対 (aru25)
 
 [Attachment 1](https://d3rsc7j663z58n.cloudfront.net/#/MS44anM)
@@ -2626,12 +2655,12 @@
 
 ---
 
-### 3. ちょい古い
+### 4. ちょい古い
 **Author:** 🍭まかろん🎃りおとの32番㌥＿ (makaronnyade)
 
 <p>やっぱこれが一番いいんよな(まかろん調べ)</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3056603826/979c8b19b35ce1b97839ebf5b48431d9/____1_20__1_.html?Expires=1778148484&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qfquy%2B2hp6SfTNGjzO7cUvKt%2F57%2BWm7%2BvvIPvIeJJE86VLtLNc1mPE02ZsrtrBv6gJa%2Fxg1ucL2dYQA6AX9rcXXOpRGLo0uAABqHMcwf4ySe1Mq9CN2DGhCQYxWYWeBSPlKO6X%2F7plQEtB45fx49QXMh0Zobx78d1TncvQofBFE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3056603826%2F979c8b19b35ce1b97839ebf5b48431d9%2F____1_20__1_.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3056603826/979c8b19b35ce1b97839ebf5b48431d9/____1_20__1_.html?Expires=1778156205&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2SscHUY2T9Kh%2Bl8s6ZowxZVwQTaUGT9v1eGaNnkexT7Jl3Mf4TMgi0riaGImJ9OwtZvhYEvXwh4dq%2F%2BNgwWQSzrnCm369pP3uhOYrgbpucpWzyUvS5viL1dhru20lFZtBcYvjdNlMkWDuJO%2ByrWfb9pLl9ksxb1iFhDLIiHyjUc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3056603826%2F979c8b19b35ce1b97839ebf5b48431d9%2F____1_20__1_.html)
 
 #### Reactions
 - **Emojis:** 👍 (2) 👎 (1)
@@ -2643,7 +2672,7 @@
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** INFINITY (nanasisan)
 
 [Attachment 1](https://festive-star-wash.glitch.me/fire/)
@@ -2658,7 +2687,7 @@
 
 ---
 
-### 5. 多分被ってます
+### 6. 多分被ってます
 **Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
 <p><a rel="noopener noreferrer nofollow" href="https://hdun.org/mc/1.8.8/">https://hdun.org/mc/1.8.8/</a></p><p><a rel="noopener noreferrer nofollow" href="https://d1tm91r4ytbt54.cloudfront.net/2779cbcb-a02f-48a3-9e2e-95a8d123d165/1685483461665/web/index.html">Minecraft</a></p><p><a rel="noopener noreferrer nofollow" href="https://static.runstant.com/iroiro/projects/cbfc2617/full">EaglercraftX 1.8</a></p><p><a rel="noopener noreferrer nofollow" href="https://d3rsc7j663z58n.cloudfront.net/#/MS44anM">yee launcher - 1.8.8</a></p><p>いっぱいあったけどほとんど規制されて少ないです</p><p>ごめんなさいm(_ _)m</p>
@@ -2675,7 +2704,7 @@
 
 ---
 
-### 6. マインクラフト（動作に互換はある）
+### 7. マインクラフト（動作に互換はある）
 **Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
 
 [Attachment 1](https://d3rsc7j663z58n.cloudfront.net/#/MS44anM)
@@ -2690,7 +2719,7 @@
 
 ---
 
-### 7. マイクラ（最新版）
+### 8. マイクラ（最新版）
 **Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
 
 [Attachment 1](https://eaglercraft-archive.github.io/Koneclient-1.8-web/)
@@ -2705,7 +2734,7 @@
 
 ---
 
-### 8. マイクラ（仕様に互換性あり）
+### 9. マイクラ（仕様に互換性あり）
 **Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
 
 [Attachment 1](https://d1tm91r4ytbt54.cloudfront.net/2779cbcb-a02f-48a3-9e2e-95a8d123d165/1685483461665/web/index.html)
@@ -2720,10 +2749,10 @@
 
 ---
 
-### 9. マイクラ（Eaglercraft）
+### 10. マイクラ（Eaglercraft）
 **Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/5ace91ec9bb06de6f6c8424353c21796/EaglercraftX_1_12_WASM_GC.mhtml?Expires=1778148484&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rHOaQv6HG4GzopEHi0nBDonh9jdrCcFeWnuOQxPdgeQjfqw5NVOnuPU5UPraMkOL6bWj1OPX6G7Tag6QaVkoi3z9aItjfuqVJouBGqHhK%2FmGptDRKphtrDZbz1jHhbA5YUpV2tltIqJ27nKe9pSJ%2F9n3swdF4EJGLZqGicpmZd0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2F5ace91ec9bb06de6f6c8424353c21796%2FEaglercraftX_1_12_WASM_GC.mhtml)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/5ace91ec9bb06de6f6c8424353c21796/EaglercraftX_1_12_WASM_GC.mhtml?Expires=1778156205&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cwxgVxD8nBHZegCZcMdBB782COFoTqx0dlKTsfO1MVuMsGi%2FLr1WxQKKju5Hj%2FeH3ypURTl0wgQFrpmVBO9%2FqPM4vYremFVH4HQLU5h%2BCkp3vUFyOGKs2YiW%2F7D96aEd%2Bcu0II9wRBpNmbZaTH9BhPCRjLyayEJa2XaMmEcGKWc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2F5ace91ec9bb06de6f6c8424353c21796%2FEaglercraftX_1_12_WASM_GC.mhtml)
 
 #### Reactions
 - **Emojis:** 👍 (2)
@@ -2735,218 +2764,19 @@
 
 ---
 
-## マイクラスキン
-
-### 1. とりあえずskin
-**Author:** ちょこ#りおと族999代目#bw (vwlxx)
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/33ae1e902b22fa0cedcbe16bd036ccc9/vortex.png?Expires=1778148484&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aqLo%2BA5ozCa%2Fr7vdlxafgECR%2B9Y2qMDUpisUHgPH0tfEHUIcue9CeBUOJ7i63sUqzxAhjh0ZJuffkDc9imyxhJEE7%2BjfFIM2%2Bo6QI40ZAxuGkCs7cUxzFWJhW%2Fd%2BbMDYCKnnL%2Fl2xCoeB3zp3%2FksVRjXFIOp53%2BmCzZAS7ves30%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F33ae1e902b22fa0cedcbe16bd036ccc9%2Fvortex.png)
-
-#### Comments (5)
-- **さくらもち** (Jul 28, 2025 02:39pm): どうやって作るの？
-- **さくらもち** (Jul 30, 2025 07:49am): さくらもちスキンつくって
-- **削除済みユーザー** (Aug 06, 2025 02:23am): novaスキン
-- **削除済みユーザー** (Aug 20, 2025 10:06am): さくらもちスキン作ってあげる
-- **ピコ** (Apr 27, 2026 08:46am): やさし！！
-
-#### Reactions
-- **Emojis:** 👍 (6) 👎 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 01, 2025 11:49am
-- **Updated At (UTC):** Jul 01, 2025 12:56pm
-
----
-
-## その他プロキシ
+## SNS回避
 
 ### 1. Post 1
 **Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
 
-<p><a rel="noopener noreferrer nofollow" href="http://balltze-network.global.ssl.fastly.net/static/">balltze-network.global.ssl.fastly.net/static/</a></p><p><a rel="noopener noreferrer nofollow" href="https://justseatch-3.global.ssl.fastly.net/">Just Search</a></p><p><a rel="noopener noreferrer nofollow" href="https://dm-unbl0cker-1774a3.gitlab.io/">DM Unbl0cker</a></p><p><a rel="noopener noreferrer nofollow" href="https://ocean.global.ssl.fastly.net/">OCEAN - Home</a></p><p><a rel="noopener noreferrer nofollow" href="https://sped-eddy.global.ssl.fastly.net/static/">SpeedTunnel</a></p><p><a rel="noopener noreferrer nofollow" href="https://generic-ub.global.ssl.fastly.net/">Generic Unblocker</a></p><p><a rel="noopener noreferrer nofollow" href="https://a.space.desmos.lol.cdn.cloudflare.net/">Space</a></p><p><a rel="noopener noreferrer nofollow" href="http://tiw.global.ssl.fastly.net/static/">tiw.global.ssl.fastly.net/static/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ajh.global.ssl.fastly.net/">AJH's Vault V6.5</a></p><p><a rel="noopener noreferrer nofollow" href="https://getoutsakura.global.ssl.fastly.net/">AJH's Vault V6.5</a></p><p><a rel="noopener noreferrer nofollow" href="https://a.studentvue.my.cdn.cloudflare.net/">Lunar</a></p><p><a rel="noopener noreferrer nofollow" href="https://awhellnaw.global.ssl.fastly.net/">Home</a></p><p><a rel="noopener noreferrer nofollow" href="https://kazwire.groups.id/">Kazwire</a></p><p><a rel="noopener noreferrer nofollow" href="https://kazwire-test.easterndns.com/">Kazwire</a></p><p><br/></p>
-
-[Attachment 1](https://balltze-network.global.ssl.fastly.net/static/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Sep 28, 2025 12:46am
-- **Updated At (UTC):** Sep 28, 2025 12:46am
-
----
-
-### 2. Post 2
-**Author:** 削除済みユーザー
-
-<p>＜daydream＞</p><p><a rel="noopener noreferrer nofollow" href="https://ddx.studentvue.my.cdn.cloudflare.net/">https://ddx.studentvue.my.cdn.cloudflare.net/</a>　</p><p><a rel="noopener noreferrer nofollow" href="https://web.reprap.pt/">https://web.reprap.pt/</a>　&nbsp;</p><p><a rel="noopener noreferrer nofollow" href="https://app.moldeo.org/">https://app.moldeo.org/</a>&nbsp;&nbsp;</p><p><a rel="noopener noreferrer nofollow" href="https://account.amplifyz.cfd.cdn.cloudflare.net/">https://account.amplifyz.cfd.cdn.cloudflare.net/</a>&nbsp;</p><p><a rel="noopener noreferrer nofollow" href="https://inbox.amplifyz.cfd.cdn.cloudflare.net/">https://inbox.amplifyz.cfd.cdn.cloudflare.net/</a>&nbsp;</p><p><a rel="noopener noreferrer nofollow" href="https://app.amplifyz.cfd.cdn.cloudflare.net/">https://app.amplifyz.cfd.cdn.cloudflare.net/</a>&nbsp;</p><p><a rel="noopener noreferrer nofollow" href="https://blog.amplifyz.cfd.cdn.cloudflare.net/">https://blog.amplifyz.cfd.cdn.cloudflare.net/</a>&nbsp;</p><p><a rel="noopener noreferrer nofollow" href="https://host.amplifyz.cfd.cdn.cloudflare.net/">https://host.amplifyz.cfd.cdn.cloudflare.net/</a></p>
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Sep 26, 2025 02:27pm
-- **Updated At (UTC):** Sep 26, 2025 02:27pm
-
----
-
-### 3. (体験版)プロキシ174個配布
-**Author:** Magurock (偽物･偽造に注意) (Magurock)
-
-<p>(いろいろ混ざってるのでここに置かせてください)</p><p>またプロキシ集めたので一部を色んな部屋で配布します。</p><p>僕の部屋でもっと大量に(約300?多分)公開する予定です。</p><p>いろんな部屋で配布するから被りはあるかも</p>
-
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/7302a7dd669d91be159e28d8ceaf5d89/Magurock20250803.html?Expires=1778148484&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aPqulf%2F97xAG2u6euA%2BemF9%2BIKsuO1JjGWeJuxMA74Z3rvgNcAHPJhLkGMUoICPvp%2FuuNeUvjQYRGy224jjIxG%2B%2Bq4fGNuoUZlCd68I3BO3rkyKxJJlzR%2BgdVRrnbFxUgBWGOKXcZcWlodcnxcLHpho8DEwLrFX9suOxwTWS4Kc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F7302a7dd669d91be159e28d8ceaf5d89%2FMagurock20250803.html)
-
-#### Comments (1)
-- **光の忍者** (Aug 05, 2025 01:57am): ありがとう
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Aug 03, 2025 11:10am
-- **Updated At (UTC):** Aug 03, 2025 11:10am
-
----
-
-### 4. Post 4
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://jp.farsearches.com/)
-
-#### Comments (1)
-- **光の忍者** (Jul 27, 2025 08:31am): ありがとう
-
-#### Reactions
-- **Emojis:** 👎 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 24, 2025 05:20am
-- **Updated At (UTC):** Jul 24, 2025 05:20am
-
----
-
-### 5. Post 5
-**Author:** noob198🌱＃永遠の暇人＃ロブロやろうぜ＃🌱 (peyaneryo)
-
-[Attachment 1](https://www.startpage.com/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 23, 2025 11:06am
-- **Updated At (UTC):** Jul 23, 2025 11:06am
-
----
-
-### 6. Post 6
-**Author:** 削除済みユーザー
-
-<p><a rel="noopener noreferrer nofollow" href="https://loilo1.camdvr.org/">https://loilo1.camdvr.org/</a></p><p><a rel="noopener noreferrer nofollow" href="https://loilo2.giize.com/">https://loilo2.giize.com/</a></p><p><a rel="noopener noreferrer nofollow" href="http://loilo3.webredirect.org/">http://loilo3.webredirect.org/</a></p><p><a rel="noopener noreferrer nofollow" href="https://loilo4.casacam.net/">https://loilo4.casacam.net/</a></p><p><a rel="noopener noreferrer nofollow" href="https://loilo5.freeddns.org/">https://loilo5.freeddns.org/</a></p><p><a rel="noopener noreferrer nofollow" href="https://loilo6.loseyourip.com/">https://loilo6.loseyourip.com/</a></p>
-
-#### Reactions
-- **Emojis:** 👎 (1) 👍 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 19, 2025 03:41pm
-- **Updated At (UTC):** Jul 19, 2025 03:41pm
-
----
-
-### 7. inbox
-**Author:** 削除済みユーザー
-
-<p><a rel="noopener noreferrer nofollow" href="https://nloilotv.f5.si/">https://nloilotv.f5.si/</a></p><p><a rel="noopener noreferrer nofollow" href="https://loilonote.fixip.org/">https://loilonote.fixip.org/</a></p><p><a rel="noopener noreferrer nofollow" href="https://a.nloilotv.ipv64.de/">https://a.nloilotv.ipv64.de/</a></p>
-
-#### Reactions
-- **Emojis:** 👎 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 19, 2025 03:38pm
-- **Updated At (UTC):** Jul 19, 2025 03:38pm
-
----
-
-### 8. Post 8
-**Author:** 削除済みユーザー
-
-[Attachment 1](https://proxy.cc/proxysite/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 18, 2025 10:57pm
-- **Updated At (UTC):** Jul 18, 2025 10:57pm
-
----
-
-### 9. Post 9
-**Author:** Magurock (偽物･偽造に注意) (Magurock)
-
-<p>(分類してないのでここに置かせてください)</p><p>かなりプロキシ集めてみました。</p><p>一旦その一部を配布しようと思います</p><p>(全部一覧は今のところ僕の部屋にあります)</p><p>反響凄かったら全部一覧配布しようと思います</p><p>他の部屋でも公開するので被りはあるかもしれません</p>
-
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/897bea4ef2a21a3b899e81855121ce3a/___Proxy_explorer.html?Expires=1778148484&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hlwIBkCZv7BQ97opkZkb33FrSyoRZeKwYFFMkhfSTAhwRlahmuee5A7trtFoKeVijwUf00kLLJxXjhYSz1FPt2GTDcHEyZqNPJuPAq5eePFXTrenANkxfo1qTjTHqinKqQFwzWpfo2YuohaGKcyl%2FzlbxnDiN0BNpVLGLUMXGhI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F897bea4ef2a21a3b899e81855121ce3a%2F___Proxy_explorer.html)
-
-#### Comments (1)
-- **光の忍者** (Jul 06, 2025 12:48pm): ありがとう
-
-#### Reactions
-- **Emojis:** 👎 (2) 👍 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 06, 2025 09:34am
-- **Updated At (UTC):** Jul 06, 2025 09:34am
-
----
-
-### 10. これ何？検索とかは難しいけどURLやったら行けるやつもある
-**Author:** 丸亀製麺 (18031272c)
-
-<p><a rel="noopener noreferrer nofollow" href="https://study.urbanrun.co.za/">1https://study.urbanrun.co.za/</a></p><p>2<a rel="noopener noreferrer nofollow" href="https://study.urbanrun.co.za/">https://study.urbanrun.co.za/</a></p><p>わからなさすぎて夜しか寝れません</p>
-
-[Attachment 1](https://study.urbanrun.co.za/)
-
-#### Comments (2)
-- **INFINITY** (Jul 02, 2025 05:54am): Lightってやつだっけ忘れたわ
-- **Riur🐾** (Jul 05, 2025 02:50pm): 夜しかねなくていいんだよ…(*´∀｀)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 02, 2025 05:06am
-- **Updated At (UTC):** Jul 02, 2025 05:06am
-
----
-
-### 11. 知らんやつ
-**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
-
-<p><a rel="noopener noreferrer nofollow" href="https://t9-os.global.ssl.fastly.net/t9os.html">https://t9-os.global.ssl.fastly.net/t9os.html</a></p><p><a rel="noopener noreferrer nofollow" href="https://bolting.alyaf.com/">https://bolting.alyaf.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://www.entireweb.com/">https://www.entireweb.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://aj.global.ssl.fastly.net/">https://aj.global.ssl.fastly.net/</a></p><p><a rel="noopener noreferrer nofollow" href="https://in.images.search.yahoo.com/?guccounter=1">https://in.images.search.yahoo.com/?guccounter=1</a></p><p><a rel="noopener noreferrer nofollow" href="https://t9-os.global.ssl.fastly.net/">https://t9-os.global.ssl.fastly.net/</a></p><p><a rel="noopener noreferrer nofollow" href="https://yandhi.herokuapp.com/service/hvtrs8%2F-wuw%2Cgmoelg.aoo%2F">https://yandhi.herokuapp.com/service/hvtrs8%2F-wuw%2Cgmoelg.aoo%2F</a></p><p><a rel="noopener noreferrer nofollow" href="https://www.startpage.com/">https://www.startpage.com/</a></p><p><a rel="noopener noreferrer nofollow" href="https://zestfest.global.ssl.fastly.net/">https://zestfest.global.ssl.fastly.net/</a></p>
-
-[Attachment 1](https://loungef2x.global.ssl.fastly.net/)
-
-#### Comments (1)
-- **Riur🐾** (Jul 05, 2025 02:51pm): ありがとうございますっ！（全部行けた）
-
-#### Reactions
-- **Emojis:** 👍 (2)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 28, 2025 11:25am
-- **Updated At (UTC):** Jun 28, 2025 11:29am
-
----
-
-## わかめ・yuki　　　その他youtubeサイト
-
-### 1. Post 1
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-<p><a rel="noopener noreferrer nofollow" href="https://tubo.reallyaweso.me/">Trending - Tubo</a></p><p><a rel="noopener noreferrer nofollow" href="https://www.youtubeeducation.com/">https://www.youtubeeducation.com/</a></p><p><br/></p><p><br/></p>
+<p><a rel="noopener noreferrer nofollow" href="https://tubo.reallyaweso.me/">Trending - Tubo</a></p><p><a rel="noopener noreferrer nofollow" href="https://www.youtubeeducation.com/">https://www.youtubeeducation.com/</a></p><p><br></p><p><br></p>
 
 [Attachment 1](https://www.youtubeeducation.com/)
 
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Sep 28, 2025 12:52am
-- **Updated At (UTC):** Sep 28, 2025 12:52am
+- **Updated At (UTC):** Apr 30, 2026 10:14am
 
 ---
 
@@ -2964,7 +2794,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Sep 26, 2025 02:26pm
-- **Updated At (UTC):** Sep 26, 2025 02:26pm
+- **Updated At (UTC):** Apr 30, 2026 10:14am
 
 ---
 
@@ -2976,14 +2806,14 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Sep 26, 2025 02:26pm
-- **Updated At (UTC):** Sep 26, 2025 02:26pm
+- **Updated At (UTC):** Apr 30, 2026 10:14am
 
 ---
 
 ### 4. Post 4
 **Author:** 削除済みユーザー
 
-<p><a rel="noopener noreferrer nofollow" href="https://gcdtjvddywkt.ricksolinas.com/login">https://gcdtjvddywkt.ricksolinas.com/login</a> <a rel="noopener noreferrer nofollow" href="https://testyazo.onrender.com/login">https://testyazo.onrender.com/login</a> <a rel="noopener noreferrer nofollow" href="https://wkt.wawrzek.name/login">https://wkt.wawrzek.name/login</a> <a rel="noopener noreferrer nofollow" href="https://wkt.thefloweremedy.com/login">https://wkt.thefloweremedy.com/login</a></p><p><a rel="noopener noreferrer nofollow" href="https://gcdtjvddywkt.ricksolinas.com/wkt">https://gcdtjvddywkt.ricksolinas.com/wkt</a> <a rel="noopener noreferrer nofollow" href="https://testyazo.onrender.com/wkt">https://testyazo.onrender.com/wkt</a> <a rel="noopener noreferrer nofollow" href="https://wkt.wawrzek.name/wkt">https://wkt.wawrzek.name/wkt</a> <a rel="noopener noreferrer nofollow" href="https://wkt.thefloweremedy.com/wkt">https://wkt.thefloweremedy.com/wkt</a></p><p><br/></p>
+<p><a rel="noopener noreferrer nofollow" href="https://gcdtjvddywkt.ricksolinas.com/login">https://gcdtjvddywkt.ricksolinas.com/login</a> <a rel="noopener noreferrer nofollow" href="https://testyazo.onrender.com/login">https://testyazo.onrender.com/login</a> <a rel="noopener noreferrer nofollow" href="https://wkt.wawrzek.name/login">https://wkt.wawrzek.name/login</a> <a rel="noopener noreferrer nofollow" href="https://wkt.thefloweremedy.com/login">https://wkt.thefloweremedy.com/login</a></p><p><a rel="noopener noreferrer nofollow" href="https://gcdtjvddywkt.ricksolinas.com/wkt">https://gcdtjvddywkt.ricksolinas.com/wkt</a> <a rel="noopener noreferrer nofollow" href="https://testyazo.onrender.com/wkt">https://testyazo.onrender.com/wkt</a> <a rel="noopener noreferrer nofollow" href="https://wkt.wawrzek.name/wkt">https://wkt.wawrzek.name/wkt</a> <a rel="noopener noreferrer nofollow" href="https://wkt.thefloweremedy.com/wkt">https://wkt.thefloweremedy.com/wkt</a></p><p><br></p>
 
 #### Comments (3)
 - **光の忍者** (Aug 02, 2025 02:37am): ありがと
@@ -2996,7 +2826,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Aug 02, 2025 01:53am
-- **Updated At (UTC):** Aug 02, 2025 01:53am
+- **Updated At (UTC):** Apr 30, 2026 10:14am
 
 ---
 
@@ -3015,7 +2845,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 25, 2025 08:48am
-- **Updated At (UTC):** Jul 25, 2025 08:48am
+- **Updated At (UTC):** Apr 30, 2026 10:14am
 
 ---
 
@@ -3033,7 +2863,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 21, 2025 02:09am
-- **Updated At (UTC):** Jul 21, 2025 02:10am
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
@@ -3045,7 +2875,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 20, 2025 01:53pm
-- **Updated At (UTC):** Jul 20, 2025 01:53pm
+- **Updated At (UTC):** Apr 30, 2026 10:14am
 
 ---
 
@@ -3064,7 +2894,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 19, 2025 03:31pm
-- **Updated At (UTC):** Jul 19, 2025 03:31pm
+- **Updated At (UTC):** Apr 30, 2026 10:14am
 
 ---
 
@@ -3076,7 +2906,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 18, 2025 10:58pm
-- **Updated At (UTC):** Jul 18, 2025 10:58pm
+- **Updated At (UTC):** Apr 30, 2026 10:14am
 
 ---
 
@@ -3091,7 +2921,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 17, 2025 01:23am
-- **Updated At (UTC):** Jul 17, 2025 01:23am
+- **Updated At (UTC):** Apr 30, 2026 10:14am
 
 ---
 
@@ -3106,7 +2936,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 15, 2025 01:38pm
-- **Updated At (UTC):** Jul 15, 2025 01:38pm
+- **Updated At (UTC):** Apr 30, 2026 10:14am
 
 ---
 
@@ -3123,7 +2953,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 07, 2025 12:17pm
-- **Updated At (UTC):** Jul 07, 2025 12:18pm
+- **Updated At (UTC):** Apr 30, 2026 10:16am
 
 ---
 
@@ -3144,7 +2974,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 06, 2025 02:21pm
-- **Updated At (UTC):** Jul 06, 2025 02:21pm
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
@@ -3159,7 +2989,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 06, 2025 12:51pm
-- **Updated At (UTC):** Jul 06, 2025 12:51pm
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
@@ -3179,7 +3009,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 05, 2025 03:00pm
-- **Updated At (UTC):** Jul 06, 2025 11:35pm
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
@@ -3202,7 +3032,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 05, 2025 02:43pm
-- **Updated At (UTC):** Jul 05, 2025 02:43pm
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
@@ -3221,14 +3051,14 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 01, 2025 01:54pm
-- **Updated At (UTC):** Jul 01, 2025 01:54pm
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
 ### 18. お礼です(多分自作)
 **Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
-<p><a rel="noopener noreferrer nofollow" href="https://round-intelligent-laundry.glitch.me/">https://round-intelligent-laundry.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://materialistic-abstracted-soccer.glitch.me/">https://materialistic-abstracted-soccer.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://emerald-fluoridated-saw.glitch.me/">https://emerald-fluoridated-saw.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://trusted-toothsome-detective.glitch.me/">https://trusted-toothsome-detective.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://acidic-hill-kip.glitch.me">https://acidic-hill-kip.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ebony-cloud-shear.glitch.me/">https://ebony-cloud-shear.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://heavenly-terrific-impala.glitch.me/">https://heavenly-terrific-impala.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://round-intelligent-laundry.glitch.me/">https://round-intelligent-laundry.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://materialistic-abstracted-soccer.glitch.me/">https://materialistic-abstracted-soccer.glitch.me/</a></p><p><br/></p>
+<p><a rel="noopener noreferrer nofollow" href="https://round-intelligent-laundry.glitch.me/">https://round-intelligent-laundry.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://materialistic-abstracted-soccer.glitch.me/">https://materialistic-abstracted-soccer.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://emerald-fluoridated-saw.glitch.me/">https://emerald-fluoridated-saw.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://trusted-toothsome-detective.glitch.me/">https://trusted-toothsome-detective.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://acidic-hill-kip.glitch.me">https://acidic-hill-kip.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ebony-cloud-shear.glitch.me/">https://ebony-cloud-shear.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://heavenly-terrific-impala.glitch.me/">https://heavenly-terrific-impala.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://round-intelligent-laundry.glitch.me/">https://round-intelligent-laundry.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://materialistic-abstracted-soccer.glitch.me/">https://materialistic-abstracted-soccer.glitch.me/</a></p><p><br></p>
 
 [Attachment 1](https://ebony-cloud-shear.glitch.me/)
 
@@ -3241,7 +3071,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 01, 2025 08:34am
-- **Updated At (UTC):** Jul 01, 2025 08:34am
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
@@ -3256,7 +3086,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 01, 2025 01:50am
-- **Updated At (UTC):** Jul 01, 2025 01:50am
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
@@ -3278,7 +3108,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jun 29, 2025 12:21pm
-- **Updated At (UTC):** Jun 29, 2025 12:21pm
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
@@ -3293,7 +3123,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jun 28, 2025 01:47pm
-- **Updated At (UTC):** Jun 28, 2025 11:49pm
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
@@ -3308,7 +3138,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jun 28, 2025 11:29am
-- **Updated At (UTC):** Jun 28, 2025 11:30am
+- **Updated At (UTC):** Apr 30, 2026 10:16am
 
 ---
 
@@ -3323,7 +3153,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jun 28, 2025 11:19am
-- **Updated At (UTC):** Jun 28, 2025 11:19am
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
@@ -3334,7 +3164,7 @@
 
 #### Comments (16)
 - **光の忍者** (Jun 25, 2025 05:13am): 今持ってるのこれしかなくてごめん
-- **光の忍者** (Jun 25, 2025 05:14am): [Attachment](https://padlet.com/qwertyuiopasdfghjklzxcvbnm5671091/google-proxy-afg5jcs1w4yyk2h1/wish/mDRxWBMmNrzbZjb1) この画面出てきても少し待てば入れるよ
+- **光の忍者** (Jun 25, 2025 05:14am): [Attachment](https://padlet.com/qwertyuiopasdfghjklzxcvbnm5671091/teck-land-afg5jcs1w4yyk2h1/wish/mDRxWBMmNrzbZjb1) この画面出てきても少し待てば入れるよ
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jun 25, 2025 08:48am): スプラ復活したんか
 - **光の忍者サブ垢** (Jun 25, 2025 08:58am): いくつかあるからね
 - **ナンジャモ** (Jun 25, 2025 10:08am): 連番を作成の画面に入ったあとはどうすればいいんですか？
@@ -3356,11 +3186,79 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jun 25, 2025 05:12am
-- **Updated At (UTC):** Jun 25, 2025 05:13am
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
-### 25. わかめ集！ 使えない可能性あり
+### 25. 動画が自由に見れるサイト！
+**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+
+[Attachment 1](https://runtu.be/)
+
+#### Comments (3)
+- **削除済みユーザー** (Jul 24, 2025 08:58am): 規制
+- **さくらもち** (Jul 28, 2025 02:39pm): ブロだぁ
+- **ピコ** (Apr 27, 2026 11:44pm): ね
+
+#### Reactions
+- **Emojis:** 👎 (8)
+
+#### Additional Information
+- **Post color:** Yellow
+- **Created At (UTC):** Jun 05, 2025 11:18am
+- **Updated At (UTC):** Jun 05, 2025 11:19am
+
+---
+
+### 26. 便利ツール（snsが見れるサイト）
+**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+
+[Attachment 1](https://nitter.space/)
+
+#### Reactions
+- **Emojis:** 👎 (2)
+
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Jun 05, 2025 11:18am
+- **Updated At (UTC):** Jun 05, 2025 11:26am
+
+---
+
+### 27. snsが見れるサイト（Xのみ）
+**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+
+[Attachment 1](https://nitter.privacydev.net/)
+
+#### Comments (1)
+- **削除済みユーザー** (Jul 24, 2025 08:58am): 規制
+
+#### Reactions
+- **Emojis:** 👎 (5)
+
+#### Additional Information
+- **Post color:** Blue
+- **Created At (UTC):** Jun 05, 2025 11:18am
+- **Updated At (UTC):** Jun 05, 2025 11:27am
+
+---
+
+### 28. 使い方はyoutubeと同じ！youtube規制回避サイト
+**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+
+[Attachment 1](https://at.ggtyler.dev/)
+
+#### Reactions
+- **Emojis:** 👎 (6)
+
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** Jun 04, 2025 01:04pm
+- **Updated At (UTC):** Jun 05, 2025 10:04am
+
+---
+
+### 29. わかめ集！ 使えない可能性あり
 **Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
 
 <p>https://winter-copper-wizard.glitch.me</p><p>https://chartreuse-serious-guppy.glitch.me</p><p>https://lumpy-animated-parade.glitch.me</p><p>https://silver-aeolian-raincoat.glitch.me</p><p>https://chief-dune-tuesday.glitch.me</p><p>https://melodious-lunar-</p><p>https://mangrove-cake-wildflower.glitch.me</p><p>https://cyclic-intelligent-galette.glitch.me</p><p>https://wobbly-abundant-patio.glitch.me</p><p>https://indecisive-ink-houseboat.glitch.me</p><p><a rel="noopener noreferrer nofollow" href="https://indecisive-ink-houseboat.glitch.me">https://observant-abundant-patio.glitch.me</a></p><p>https://dandelion-gigantic-lobster.glitch.me</p><p>https://shadow-thin-knife.glitch.me</p><p>https://military-rainy-quilt.glitch.me</p><p>https://fuchsia-soapy-fiction.glitch.me</p><p>https://purring-purring-tower.glitch.me</p><p>https://yellow-ballistic-aphid.glitch.me</p><p>https://natural-jeweled-curve.glitch.me</p><p>https://coffee-sapphire-radiator.glitch.me</p><p>https://meowing-animated-horse.glitch.me</p><p>https://indecisive-enormous-porkpie.glitch.me</p><p>https://satisfying-giddy-guarantee.glitch.me</p><p>https://candy-thundering-crown.glitch.me</p><p>https://continuous-torch-legend.glitch.me</p>
@@ -3376,11 +3274,11 @@
 #### Additional Information
 - **Post color:** Blue
 - **Created At (UTC):** Jun 04, 2025 08:36am
-- **Updated At (UTC):** Jun 04, 2025 08:36am
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
-### 26. わかめtube
+### 30. わかめtube
 **Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
 
 [Attachment 1](https://rog-passsed-by-matcha.onrender.com/)
@@ -3394,11 +3292,11 @@
 #### Additional Information
 - **Post color:** Green
 - **Created At (UTC):** Jun 04, 2025 08:36am
-- **Updated At (UTC):** Jun 04, 2025 08:36am
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
-### 27. わかめtube
+### 31. わかめtube
 **Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
 
 [Attachment 1](https://valley-plucky-bull.glitch.me/wkt)
@@ -3409,11 +3307,23 @@
 #### Additional Information
 - **Post color:** Green
 - **Created At (UTC):** Jun 04, 2025 08:34am
-- **Updated At (UTC):** Jun 04, 2025 08:34am
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
-### 28. かぶってたらごめん
+### 32. TickTok
+**Author:** 削除済みユーザー
+
+[Attachment 1](https://urlebird.com/jp/)
+
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** Jun 01, 2025 02:51am
+- **Updated At (UTC):** Jun 04, 2025 01:00pm
+
+---
+
+### 33. かぶってたらごめん
 **Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
 <p><a rel="noopener noreferrer nofollow" href="https://abundant-stirring-street.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://outgoing-carnation-lan.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://melodious-lunar-adasaurus.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://heavenly-natural-market.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://sedate-comfortable-gargoyleosaurus.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://fluorescent-circular-comma.glitch.me/">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://lumpy-animated-parade.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://jumbled-branched-centaur.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://chartreuse-serious-guppy.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://catnip-obvious-breakfast.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://vigorous-four-prosecution.glitch.me/">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://feather-instinctive-appendix.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://yellow-ballistic-aphid.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://fluorescent-circular-comma.glitch.me/">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://shell-elfin-leptoceratops.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://natural-jeweled-curve.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://silver-aeolian-raincoat.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://observant-abundant-patio.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow-thin-knife.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://military-rainy-quilt.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://fuchsia-soapy-fiction.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://purring-purring-tower.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://wobbly-abundant-patio.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://indecisive-ink-houseboat.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://mangrove-cake-wildflower.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://cyclic-intelligent-galette.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://mangrove-cake-wildflower.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://wobbly-bristle-muskmelon.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://chief-dune-tuesday.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://chief-dune-tuesday.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://enchanting-granite-chance.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://enchanting-granite-chance.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://continuous-torch-legend.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://puzzle-meadow-oregano.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://glow-plain-mile.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://balsam-animated-seashore.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://spot-volcano-linseed.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://dandelion-gigantic-lobster.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://verdant-gratis-porpoise.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://indecisive-enormous-porkpie.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://meowing-animated-horse.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://coffee-sapphire-radiator.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://spiffy-swift-island.glitch.me/">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://classy-muddy-stranger.glitch.me/">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://aboard-hulking-spinach.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://sky-wise-oviraptor.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://satisfying-giddy-guarantee.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://decisive-enshrined-door.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://grave-deciduous-slayer.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://confusion-torpid-coyote.glitch.me/wkt">わかめtube</a></p><p><a rel="noopener noreferrer nofollow" href="https://confusion-torpid-coyote.glitch.me/wkt">わかめtube</a></p>
@@ -3430,11 +3340,11 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** May 15, 2025 07:09am
-- **Updated At (UTC):** May 15, 2025 07:20am
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
-### 29. ほんとは限定公開だったやつ‼️‼️
+### 34. ほんとは限定公開だったやつ‼️‼️
 **Author:** め ろ@2n2s (mer0_o)
 
 <p><a rel="noopener noreferrer nofollow" href="https://wiggly-buttoned-canoe.glitch.me/">https://wiggly-buttoned-canoe.glitch.me/</a></p><p><a rel="noopener noreferrer nofollow" href="https://unique-petite-lyric.glitch.me">https://unique-petite-lyric.glitch.me</a></p><p><a rel="noopener noreferrer nofollow" href="https://bolder-juvenile-text.glitch.me">https://bolder-juvenile-text.glitch.me</a></p><p><a rel="noopener noreferrer nofollow" href="https://curvy-crocus-haze.glitch.me">https://curvy-crocus-haze.glitch.me</a></p><p><a rel="noopener noreferrer nofollow" href="https://spectacular-shade-medicine.glitch.me">https://spectacular-shade-medicine.glitch.me</a></p><p><a rel="noopener noreferrer nofollow" href="https://dirt-ash-mambo.glitch.me">https://dirt-ash-mambo.glitch.me</a></p><p><a rel="noopener noreferrer nofollow" href="https://cut-shimmer-porch.glitch.me">https://cut-shimmer-porch.glitch.me</a></p><p><a rel="noopener noreferrer nofollow" href="https://giant-dorian-paw.glitch.me">https://giant-dorian-paw.glitch.me</a></p><p><a rel="noopener noreferrer nofollow" href="https://aboard-traveling-blossom.glitch.me">https://aboard-traveling-blossom.glitch.me</a></p><p><a rel="noopener noreferrer nofollow" href="https://heathered-frosted-fork.glitch.me">https://heathered-frosted-fork.glitch.me</a></p><p><a rel="noopener noreferrer nofollow" href="https://grey-vine-lingonberry.glitch.me">https://grey-vine-lingonberry.glitch.me</a></p><p><a rel="noopener noreferrer nofollow" href="https://smooth-orange-palladium.glitch.me">https://smooth-orange-palladium.glitch.me</a></p><p><a rel="noopener noreferrer nofollow" href="https://ossified-mountain-freesia.glitch.me">https://ossified-mountain-freesia.glitch.me</a></p><p><a rel="noopener noreferrer nofollow" href="https://scented-crocus-toothpaste.glitch.me">https://scented-crocus-toothpaste.glitch.me</a></p><p><a rel="noopener noreferrer nofollow" href="https://relieved-eminent-air.glitch.me/">https://relieved-eminent-air.glitch.me/</a></p>
@@ -3454,11 +3364,11 @@
 #### Additional Information
 - **Post color:** Green
 - **Created At (UTC):** May 14, 2025 11:32am
-- **Updated At (UTC):** May 14, 2025 02:06pm
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
-### 30. どうぞ(w)　俺の部屋にも来てね
+### 35. どうぞ(w)　俺の部屋にも来てね
 **Author:** taishi:/ (0724taishi)
 
 <p><a rel="noopener noreferrer nofollow" href="https://winter-copper-wizard.glitch.me">https://winter-copper-wizard.glitch.me</a></p><p>https://chartreuse-serious-guppy.glitch.me</p><p>https://lumpy-animated-parade.glitch.me</p><p>https://outgoing-carnation-lan.glitch.me</p><p>https://silver-aeolian-raincoat.glitch.me</p><p>https://chief-dune-tuesday.glitch.me</p><p>https://melodious-lunar-adasaurus.glitch.me</p><p>https://valley-plucky-bull.glitch.me</p><p>https://wobbly-bristle-muskmelon.glitch.me</p><p>https://kindly-half-turn.glitch.me</p><p>https://jumbled-branched-centaur.glitch.me</p><p>https://roasted-bittersweet-dichondra.glitch.me</p><p>https://mangrove-cake-wildflower.glitch.me</p><p>https://cyclic-intelligent-galette.glitch.me</p><p>https://wobbly-abundant-patio.glitch.me</p><p>https://spot-volcano-linseed.glitch.me</p><p>https://indecisive-ink-houseboat.glitch.me</p><p>https://observant-abundant-patio.glitch.me</p><p>https://dandelion-gigantic-lobster.glitch.me</p><p>https://shadow-thin-knife.glitch.me</p><p>https://abundant-stirring-street.glitch.me</p><p>https://military-rainy-quilt.glitch.me</p><p>https://fuchsia-soapy-fiction.glitch.me</p><p>https://purring-purring-tower.glitch.me</p><p>https://yellow-ballistic-aphid.glitch.me</p><p>https://shell-elfin-leptoceratops.glitch.me</p><p>https://natural-jeweled-curve.glitch.me</p><p>https://coffee-sapphire-radiator.glitch.me</p><p>https://meowing-animated-horse.glitch.me</p><p>https://indecisive-enormous-porkpie.glitch.me</p><p>https://satisfying-giddy-guarantee.glitch.me</p><p>https://candy-thundering-crown.glitch.me</p><p>https://sky-wise-oviraptor.glitch.me</p><p>https://aboard-hulking-spinach.glitch.me</p><p>https://verdant-gratis-porpoise.glitch.me</p><p>https://confusion-torpid-coyote.glitch.me</p><p>https://grave-deciduous-slayer.glitch.me</p><p>https://decisive-enshrined-door.glitch.me</p><p>https://harmless-neighborly-city.glitch.me</p><p>https://reliable-responsible-tilapia.glitch.me</p><p>https://balsam-animated-seashore.glitch.me</p><p>https://glow-plain-mile.glitch.me</p><p>https://puzzle-meadow-oregano.glitch.me</p><p>https://catnip-obvious-breakfast.glitch.me</p><p>https://continuous-torch-legend.glitch.me</p><p>https://private-calm-popcorn.glitch.me</p><p>https://enchanting-granite-chance.glitch.me</p><p>https://heavenly-natural-market.glitch.me</p><p>https://feather-instinctive-appendix.glitch.me</p>
@@ -3466,11 +3376,11 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** May 14, 2025 12:10am
-- **Updated At (UTC):** May 14, 2025 12:10am
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
-### 31. わかめ全部使える
+### 36. わかめ全部使える
 **Author:** ダック🦆 (koregahonmono)
 
 <p><a rel="noopener noreferrer nofollow" href="https://vigorous-four-prosecution.glitch.me/">https://vigorous-four-prosecution.glitch.me/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://dandelion-gigantic-lobster.glitch.me/wkt">https://dandelion-gigantic-lobster.glitch.me/wkt</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://jumbled-branched-centaur.glitch.me/wkt">https://jumbled-branched-centaur.glitch.me/wkt</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://roasted-bittersweet-dichondra.glitch.me/wkt">https://roasted-bittersweet-dichondra.glitch.me/wkt</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://spiffy-swift-island.glitch.me/">https://spiffy-swift-island.glitch.me/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://classy-muddy-stranger.glitch.me/">https://classy-muddy-stranger.glitch.me/</a></p>
@@ -3486,7 +3396,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** May 12, 2025 01:49pm
-- **Updated At (UTC):** Jun 15, 2025 01:11am
+- **Updated At (UTC):** Apr 30, 2026 10:15am
 
 ---
 
@@ -3622,170 +3532,6 @@
 - **Post color:** Yellow
 - **Created At (UTC):** May 09, 2025 03:36am
 - **Updated At (UTC):** May 11, 2025 09:39am
-
----
-
-## 映画・アニメが見れるサイト
-
-### 1. Post 1
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-[Attachment 1](https://salsa-guy.global.ssl.fastly.net/movies/)
-
-#### Comments (1)
-- **ミンミン** (Sep 30, 2025 03:00am): 使い方おしえて
-
-#### Reactions
-- **Emojis:** 👎 (2)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Sep 28, 2025 12:49am
-- **Updated At (UTC):** Sep 28, 2025 12:49am
-
----
-
-### 2. Post 2
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-[Attachment 1](https://blankylikesmen.global.ssl.fastly.net/u/liftoff/https%253A%252F%252Fwuw%2Caliuate%2Csg%2Fjooe%2Falioe)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 25, 2025 05:19am
-- **Updated At (UTC):** Jun 25, 2025 05:19am
-
----
-
-### 3. Post 3
-**Author:** INFINITY (nanasisan)
-
-<p><a rel="noopener noreferrer nofollow" href="https://chia-anime.su/">https://chia-anime.su/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://animeheaven.me/">https://animeheaven.me/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://www.anitube.biz/">https://www.anitube.biz/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://anitake.to/">https://anitake.to/</a></p>
-
-[Attachment 1](https://cm9.top/)
-
-#### Comments (1)
-- **瀬々良葵** (Jul 09, 2025 02:46am): 全ブロ
-
-#### Reactions
-- **Emojis:** 👎 (1) 👍 (1)
-
-#### Additional Information
-- **Post color:** Red
-- **Created At (UTC):** Jun 05, 2025 09:39am
-- **Updated At (UTC):** Jun 05, 2025 10:42am
-
----
-
-### 4. 映画が見れるサイト
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://ondemand.spectrum.net/networks/anime-network/)
-
-#### Reactions
-- **Emojis:** 👎 (1) 👍 (1)
-
-#### Additional Information
-- **Post color:** Red
-- **Created At (UTC):** Jun 04, 2025 01:05pm
-- **Updated At (UTC):** Jun 04, 2025 01:06pm
-
----
-
-### 5. アニメが見れるサイト
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://anisub.tv/)
-
-#### Reactions
-- **Emojis:** 👎 (1)
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Jun 04, 2025 01:04pm
-- **Updated At (UTC):** Jun 04, 2025 01:06pm
-
----
-
-## Xなどの回避サイト
-
-### 1. 動画が自由に見れるサイト！
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://runtu.be/)
-
-#### Comments (3)
-- **削除済みユーザー** (Jul 24, 2025 08:58am): 規制
-- **さくらもち** (Jul 28, 2025 02:39pm): ブロだぁ
-- **ピコ** (Apr 27, 2026 11:44pm): ね
-
-#### Reactions
-- **Emojis:** 👎 (8)
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Jun 05, 2025 11:18am
-- **Updated At (UTC):** Jun 05, 2025 11:19am
-
----
-
-### 2. 便利ツール（snsが見れるサイト）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://nitter.space/)
-
-#### Reactions
-- **Emojis:** 👎 (2)
-
-#### Additional Information
-- **Post color:** Green
-- **Created At (UTC):** Jun 05, 2025 11:18am
-- **Updated At (UTC):** Jun 05, 2025 11:26am
-
----
-
-### 3. snsが見れるサイト（Xのみ）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://nitter.privacydev.net/)
-
-#### Comments (1)
-- **削除済みユーザー** (Jul 24, 2025 08:58am): 規制
-
-#### Reactions
-- **Emojis:** 👎 (5)
-
-#### Additional Information
-- **Post color:** Blue
-- **Created At (UTC):** Jun 05, 2025 11:18am
-- **Updated At (UTC):** Jun 05, 2025 11:27am
-
----
-
-### 4. 使い方はyoutubeと同じ！youtube規制回避サイト
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://at.ggtyler.dev/)
-
-#### Reactions
-- **Emojis:** 👎 (6)
-
-#### Additional Information
-- **Post color:** Red
-- **Created At (UTC):** Jun 04, 2025 01:04pm
-- **Updated At (UTC):** Jun 05, 2025 10:04am
-
----
-
-### 5. TickTok
-**Author:** 削除済みユーザー
-
-[Attachment 1](https://urlebird.com/jp/)
-
-#### Additional Information
-- **Post color:** Red
-- **Created At (UTC):** Jun 01, 2025 02:51am
-- **Updated At (UTC):** Jun 04, 2025 01:00pm
 
 ---
 
@@ -4982,1166 +4728,6 @@
 
 ---
 
-## 分別しきれないプロキシや便利ツール
-
-### 1. あるかもしれないけどlunar
-**Author:** mimikkyu (ft111711)
-
-[Attachment 1](https://connect.stayinschooleducation.org.cdn.cloudflare.net/)
-
-#### Comments (1)
-- **光の忍者** (Oct 25, 2025 06:11am): ありがと
-
-#### Reactions
-- **Emojis:** 👍 (1) 👎 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Oct 21, 2025 12:04pm
-- **Updated At (UTC):** Oct 21, 2025 12:04pm
-
----
-
-### 2. Post 2
-**Author:** 削除済みユーザー
-
-<p><a rel="noopener noreferrer nofollow" href="https://nice.alcrb.ru/">https://nice.alcrb.ru/</a>　&nbsp;</p><p><a rel="noopener noreferrer nofollow" href="https://arsenicwow.righes.ch/">https://arsenicwow.righes.ch/</a>&nbsp;</p><p><a rel="noopener noreferrer nofollow" href="https://gleesh.a.ssl.fastly.net/">https://gleesh.a.ssl.fastly.net/</a>&nbsp;</p><p><a rel="noopener noreferrer nofollow" href="https://a1r2s3e4n5i6c.global.ssl.fastly.net/">https://a1r2s3e4n5i6c.global.ssl.fastly.net/</a>&nbsp;</p><p><a rel="noopener noreferrer nofollow" href="https://ubgarsenic.windowpublication.com.np/">https://ubgarsenic.windowpublication.com.np/</a>&nbsp;</p><p><a rel="noopener noreferrer nofollow" href="https://alinkbyme.a.ssl.fastly.net/">https://alinkbyme.a.ssl.fastly.net/</a>&nbsp;</p><p><a rel="noopener noreferrer nofollow" href="https://blue.xyzcba.cloud-ip.cc/">https://blue.xyzcba.cloud-ip.cc/</a>&nbsp;</p>
-
-#### Comments (1)
-- **光の忍者** (Sep 28, 2025 01:04am): ２つ使えた
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Sep 26, 2025 02:28pm
-- **Updated At (UTC):** Sep 26, 2025 02:28pm
-
----
-
-### 3. Post 3
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://sites.google.com/view/sakura-site/p/doge-v4/doge-v5)
-
-#### Comments (2)
-- **光の忍者** (Jul 10, 2025 12:12pm): ありがとう
-- **モシキ** (Jul 15, 2025 12:14am): https://myamya-wiki.github.io/myamya-tools/cisco/index.html プロファイル式制限解除Cisco Umbrellに対して有効
-
-#### Reactions
-- **Emojis:** 👎 (2)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 09, 2025 10:24pm
-- **Updated At (UTC):** Jul 09, 2025 10:24pm
-
----
-
-### 4. Post 4
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://thelearningcentral.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 09, 2025 10:23pm
-- **Updated At (UTC):** Jul 09, 2025 10:23pm
-
----
-
-### 5. Post 5
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://use-brunysixlwork.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 09, 2025 10:23pm
-- **Updated At (UTC):** Jul 09, 2025 10:23pm
-
----
-
-### 6. Post 6
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://ambitious-superficial-ocelot.glitch.me/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 09, 2025 10:23pm
-- **Updated At (UTC):** Jul 09, 2025 10:23pm
-
----
-
-### 7. Post 7
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://t9-os.global.ssl.fastly.net/t9os.html)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 09, 2025 10:22pm
-- **Updated At (UTC):** Jul 09, 2025 10:22pm
-
----
-
-### 8. Post 8
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://www.lumiproxy.com/online-proxy/croxyproxy/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 09, 2025 10:22pm
-- **Updated At (UTC):** Jul 09, 2025 10:22pm
-
----
-
-### 9. Post 9
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://study.urbanrun.co.za/)
-
-#### Comments (1)
-- **Riur🐾** (Jul 09, 2025 10:22pm): ありがとうございますっ！
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 09, 2025 10:22pm
-- **Updated At (UTC):** Jul 09, 2025 10:22pm
-
----
-
-### 10. ダウンロードする
-**Author:** 削除済みユーザー
-
-[Attachment 1](https://www.dumpmedia.com/)
-
-#### Comments (1)
-- **光の忍者** (Jul 10, 2025 12:12pm): ありがとう
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 07, 2025 12:21pm
-- **Updated At (UTC):** Jul 07, 2025 12:21pm
-
----
-
-### 11. 最強Yahoo的な
-**Author:** 削除済みユーザー
-
-[Attachment 1](https://skibidi.global.ssl.fastly.net/uv/service/hvtrs8%2F-wuw%2Cychmo%2Ccm.hp-)
-
-#### Reactions
-- **Emojis:** 👎 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 28, 2025 01:49pm
-- **Updated At (UTC):** Jun 28, 2025 01:49pm
-
----
-
-### 12. Post 12
-**Author:** すみしょう賛成ピカコン反対 (aru25)
-
-[Attachment 1](https://playernation.adaptor.cl/)
-
-#### Reactions
-- **Emojis:** 👎 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 27, 2025 08:06am
-- **Updated At (UTC):** Jun 27, 2025 08:06am
-
----
-
-### 13. Post 13
-**Author:** すみしょう賛成ピカコン反対 (aru25)
-
-[Attachment 1](https://www.intagent.com/remoteview/index.php)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 27, 2025 08:06am
-- **Updated At (UTC):** Jun 27, 2025 08:06am
-
----
-
-### 14. Post 14
-**Author:** すみしょう賛成ピカコン反対 (aru25)
-
-[Attachment 1](https://www.entireweb.com/)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 27, 2025 08:05am
-- **Updated At (UTC):** Jun 27, 2025 08:05am
-
----
-
-### 15. Post 15
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://nate-is-a-bigback.global.ssl.fastly.net/pages/prox)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 25, 2025 12:42pm
-- **Updated At (UTC):** Jun 26, 2025 11:46am
-
----
-
-### 16. Post 16
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://dm-unbl0cker-1774a3.gitlab.io/)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 25, 2025 12:45pm
-- **Updated At (UTC):** Jun 25, 2025 12:45pm
-
----
-
-### 17. Post 17
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://www.naproxy.com/proxysite/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 25, 2025 12:37pm
-- **Updated At (UTC):** Jun 25, 2025 12:37pm
-
----
-
-### 18. Post 18
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://safetwitch.darkness.services/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 25, 2025 12:36pm
-- **Updated At (UTC):** Jun 25, 2025 12:36pm
-
----
-
-### 19. Post 19
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://safetwitch.reallyaweso.me/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 25, 2025 12:36pm
-- **Updated At (UTC):** Jun 25, 2025 12:36pm
-
----
-
-### 20. Post 20
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://proxigram.lunar.icu/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 25, 2025 12:35pm
-- **Updated At (UTC):** Jun 25, 2025 12:35pm
-
----
-
-### 21. Post 21
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://weezzzzer.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 25, 2025 12:35pm
-- **Updated At (UTC):** Jun 25, 2025 12:35pm
-
----
-
-### 22. Post 22
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://ultravioletstatic4.global.ssl.fastly.net/static/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 25, 2025 12:34pm
-- **Updated At (UTC):** Jun 25, 2025 12:34pm
-
----
-
-### 23. Post 23
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://edu.urbanrun.co.za/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 25, 2025 12:34pm
-- **Updated At (UTC):** Jun 25, 2025 12:34pm
-
----
-
-### 24. Post 24
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://mergecraft.gcdn.co/publish/html5/)
-
-#### Comments (2)
-- **チンされたチキン‼（チンチキって呼んでね）** (Jun 25, 2025 12:32pm): まじか
-- **チンされたチキン‼（チンチキって呼んでね）** (Jun 25, 2025 12:32pm): なんこれ
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 25, 2025 12:31pm
-- **Updated At (UTC):** Jun 25, 2025 12:31pm
-
----
-
-### 25. Post 25
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://nebulaservices.org/en_US/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 06:41am
-- **Updated At (UTC):** Jun 24, 2025 06:41am
-
----
-
-### 26. Post 26
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://incognito.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 06:40am
-- **Updated At (UTC):** Jun 24, 2025 06:40am
-
----
-
-### 27. Post 27
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://ii.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 06:40am
-- **Updated At (UTC):** Jun 24, 2025 06:40am
-
----
-
-### 28. Post 28
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://flashy-gravel-tie.glitch.me/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 06:40am
-- **Updated At (UTC):** Jun 24, 2025 06:40am
-
----
-
-### 29. Post 29
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://yandhi.herokuapp.com/service/hvtrs8%2F-wuw%2Cgmoelg.aoo%2F)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 06:39am
-- **Updated At (UTC):** Jun 24, 2025 06:39am
-
----
-
-### 30. Post 30
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://wataaa.digitalforest.my/wkt)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 06:39am
-- **Updated At (UTC):** Jun 24, 2025 06:39am
-
----
-
-### 31. デジタル時計
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-<p>0,1秒ごとにリンク変わるから履歴でProxyがバレにくくなる</p>
-
-[Attachment 1](https://seasoned-inquisitive-shawl.glitch.me/main?id=x1m42f)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 06:39am
-- **Updated At (UTC):** Jun 24, 2025 06:39am
-
----
-
-### 32. Post 32
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://thorn-scythe-hospital.glitch.me/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 06:37am
-- **Updated At (UTC):** Jun 24, 2025 06:37am
-
----
-
-### 33. Post 33
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://www.naproxy.com/proxysite/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 06:36am
-- **Updated At (UTC):** Jun 24, 2025 06:36am
-
----
-
-### 34. Post 34
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://sites.google.com/view/ultimate-arcade)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 06:36am
-- **Updated At (UTC):** Jun 24, 2025 06:36am
-
----
-
-### 35. Post 35
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://skibidi.global.ssl.fastly.net/uv/service/hvtrs8%2F-wuw%2Cychmo%2Ccm.hp-)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 06:36am
-- **Updated At (UTC):** Jun 24, 2025 06:36am
-
----
-
-### 36. Post 36
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://aj.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 06:36am
-- **Updated At (UTC):** Jun 24, 2025 06:36am
-
----
-
-### 37. Post 37
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://kazwire.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 06:35am
-- **Updated At (UTC):** Jun 24, 2025 06:35am
-
----
-
-### 38. Post 38
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://arsenic-isso-back.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 06:35am
-- **Updated At (UTC):** Jun 24, 2025 06:35am
-
----
-
-### 39. Post 39
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://musicyt.click/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 06:34am
-- **Updated At (UTC):** Jun 24, 2025 06:34am
-
----
-
-### 40. Post 40
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://asdfghjkl.global.ssl.fastly.net/)
-
-#### Comments (1)
-- **削除済みユーザー** (Jun 19, 2025 06:01am): https://insanity.purpleutilities.xyz/browse-unrestricted
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 08, 2025 03:11pm
-- **Updated At (UTC):** Jun 08, 2025 03:11pm
-
----
-
-### 41. Post 41
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://loungef2x.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 08, 2025 02:23pm
-- **Updated At (UTC):** Jun 08, 2025 02:29pm
-
----
-
-### 42. Post 42
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://runstant.com/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 08, 2025 02:18pm
-- **Updated At (UTC):** Jun 08, 2025 02:32pm
-
----
-
-### 43. Post 43
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://skibiditoiletrizzlers.global.ssl.fastly.net/math/index.html)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 08, 2025 02:15pm
-- **Updated At (UTC):** Jun 08, 2025 02:15pm
-
----
-
-### 44. Post 44
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-[Attachment 1](https://incognito.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 06, 2025 09:55am
-- **Updated At (UTC):** Jun 08, 2025 02:23pm
-
----
-
-### 45. Post 45
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-[Attachment 1](https://balltze-network.global.ssl.fastly.net/static/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 06, 2025 09:54am
-- **Updated At (UTC):** Jun 08, 2025 02:23pm
-
----
-
-### 46. Post 46
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-[Attachment 1](https://justseatch-3.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 06, 2025 09:54am
-- **Updated At (UTC):** Jun 08, 2025 02:23pm
-
----
-
-### 47. Post 47
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-[Attachment 1](https://fsdfasbfhvidafsdfdas.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 06, 2025 09:53am
-- **Updated At (UTC):** Jun 08, 2025 02:20pm
-
----
-
-### 48. Post 48
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-[Attachment 1](https://sped-eddy.global.ssl.fastly.net/static/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 06, 2025 09:52am
-- **Updated At (UTC):** Jun 08, 2025 02:20pm
-
----
-
-### 49. Post 49
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-[Attachment 1](https://dm-unbl0cker-1774a3.gitlab.io/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 06, 2025 09:52am
-- **Updated At (UTC):** Jun 08, 2025 02:20pm
-
----
-
-### 50. Post 50
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-[Attachment 1](https://ocean.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 06, 2025 09:51am
-- **Updated At (UTC):** Jun 08, 2025 02:20pm
-
----
-
-### 51. Post 51
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-[Attachment 1](https://t9-os.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 06, 2025 09:51am
-- **Updated At (UTC):** Jun 08, 2025 02:21pm
-
----
-
-### 52. space　画面が見やすいプロキシ
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://partners.strangersduo.com/)
-
-#### Additional Information
-- **Post color:** Blue
-- **Created At (UTC):** Jun 05, 2025 11:21am
-- **Updated At (UTC):** Jun 08, 2025 02:21pm
-
----
-
-### 53. 直接URLを入力して使うプロキシ
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://chat-got-a-new-link.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** Blue
-- **Created At (UTC):** Jun 05, 2025 11:21am
-- **Updated At (UTC):** Jun 08, 2025 02:22pm
-
----
-
-### 54. emoji kitchen(絵文字で遊べるサイト)
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://emojikitchen.dev/)
-
-#### Additional Information
-- **Post color:** Green
-- **Created At (UTC):** Jun 05, 2025 11:21am
-- **Updated At (UTC):** Jun 08, 2025 02:22pm
-
----
-
-### 55. ビデオ通話・チャットサイト
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-<p>部屋が作れます！</p>
-
-[Attachment 1](https://p2p.mirotalk.com/)
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Jun 05, 2025 11:21am
-- **Updated At (UTC):** Jun 08, 2025 02:22pm
-
----
-
-### 56. インターネット上に画像などを保存できるサイト
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://cdrive.link/)
-
-#### Additional Information
-- **Post color:** Red
-- **Created At (UTC):** Jun 05, 2025 11:20am
-- **Updated At (UTC):** Jun 08, 2025 02:22pm
-
----
-
-### 57. インボックス（math is fan）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://yeskingimbuss.thedaedals.com/)
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Jun 05, 2025 11:20am
-- **Updated At (UTC):** Jun 08, 2025 02:21pm
-
----
-
-### 58. 有名な本の文章が見れるサイト
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://onelinebook.com/)
-
-#### Additional Information
-- **Post color:** Green
-- **Created At (UTC):** Jun 05, 2025 11:20am
-- **Updated At (UTC):** Jun 08, 2025 02:21pm
-
----
-
-### 59. プロキシ(T9)意外と便利！
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://t9os.com/t9os.html)
-
-#### Additional Information
-- **Post color:** Green
-- **Created At (UTC):** Jun 05, 2025 11:20am
-- **Updated At (UTC):** Jun 08, 2025 02:21pm
-
----
-
-### 60. moonlight（検索機能つき）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://moonlight1.myclarevision.com/)
-
-#### Additional Information
-- **Post color:** Blue
-- **Created At (UTC):** Jun 05, 2025 11:20am
-- **Updated At (UTC):** Jun 08, 2025 02:22pm
-
----
-
-### 61. 知られていないプロキシ
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://systems01.com/)
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Jun 05, 2025 11:20am
-- **Updated At (UTC):** Jun 08, 2025 02:23pm
-
----
-
-### 62. プロキシ（light）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-<p>https://iauhvabgdfkw.easterndns.com/</p>
-
-[Attachment 1](https://light-bytenshi-zuki.easterndns.com/)
-
-#### Additional Information
-- **Post color:** Blue
-- **Created At (UTC):** Jun 05, 2025 11:20am
-- **Updated At (UTC):** Jun 08, 2025 02:23pm
-
----
-
-### 63. プロキシ（リンク入力式）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://www.mgtenders.com/glype/)
-
-#### Additional Information
-- **Post color:** Green
-- **Created At (UTC):** Jun 05, 2025 11:20am
-- **Updated At (UTC):** Jun 08, 2025 02:23pm
-
----
-
-### 64. プロキシ&チャット
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-<p>使えるサイトです！</p>
-
-[Attachment 1](https://flick-fusion.panel-laboralcj.gob.mx/word/)
-
-#### Additional Information
-- **Post color:** Purple
-- **Created At (UTC):** Jun 05, 2025 11:20am
-- **Updated At (UTC):** Jun 08, 2025 02:22pm
-
----
-
-### 65. リンク入力式Proxy
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://ubp-byeunblocker-x1-karaseee.netlify.app/)
-
-#### Additional Information
-- **Post color:** Red
-- **Created At (UTC):** Jun 05, 2025 11:19am
-- **Updated At (UTC):** Jun 08, 2025 02:23pm
-
----
-
-### 66. Radius（プロキシ）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://chat-got-a-new-link.global.ssl.fastly.net/)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** Green
-- **Created At (UTC):** Jun 05, 2025 10:09am
-- **Updated At (UTC):** Jun 05, 2025 10:11am
-
----
-
-### 67. Post 67
-**Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
-
-[Attachment 1](https://hungry.global.ssl.fastly.net/index.html)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 08, 2025 02:13pm
-- **Updated At (UTC):** Jun 08, 2025 02:19pm
-
----
-
-### 68. プロキシ
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://boredomarcade.xyz/)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Jun 04, 2025 01:43pm
-- **Updated At (UTC):** Jun 04, 2025 01:43pm
-
----
-
-### 69. プロキシ
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://vapor.my/)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** Purple
-- **Created At (UTC):** Jun 04, 2025 01:42pm
-- **Updated At (UTC):** Jun 04, 2025 01:43pm
-
----
-
-### 70. プロキシ
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://yixboost.dev/)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** Red
-- **Created At (UTC):** Jun 04, 2025 01:41pm
-- **Updated At (UTC):** Jun 04, 2025 01:42pm
-
----
-
-### 71. プロキシ
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://insanity.purpleutilities.xyz/)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Jun 04, 2025 01:38pm
-- **Updated At (UTC):** Jun 04, 2025 01:38pm
-
----
-
-### 72. プロキシ
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://mexi.rest/)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** Purple
-- **Created At (UTC):** Jun 04, 2025 01:37pm
-- **Updated At (UTC):** Jun 04, 2025 01:37pm
-
----
-
-### 73. プロキシ
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://study.ajh.boats/)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Jun 04, 2025 01:37pm
-- **Updated At (UTC):** Jun 04, 2025 01:37pm
-
----
-
-### 74. プロキシ
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://canlite.org/)
-
-#### Additional Information
-- **Post color:** Green
-- **Created At (UTC):** Jun 04, 2025 01:21pm
-- **Updated At (UTC):** Jun 04, 2025 01:39pm
-
----
-
-### 75. Post 75
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-<p>ブラウザの翻訳機能を使うことをおすすめします。</p><p>詳しくはこちら<a rel="noopener noreferrer nofollow" href="https://www.bing.com/search?q=%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%81%AE%E7%BF%BB%E8%A8%B3%E6%A9%9F%E8%83%BD%E3%81%A8%E3%81%AF">https://www.bing.com/search?q=ブラウザの翻訳機能とは</a></p>
-
-[Attachment 1](https://hollow.live/)
-
-#### Reactions
-- **Emojis:** 👎 (1)
-
-#### Additional Information
-- **Post color:** Blue
-- **Created At (UTC):** Jun 04, 2025 12:37pm
-- **Updated At (UTC):** Jun 04, 2025 01:38pm
-
----
-
-### 76. プロキシ
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://meximathurbanned.global.ssl.fastly.net/)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Jun 04, 2025 09:46am
-- **Updated At (UTC):** Jun 04, 2025 09:47am
-
----
-
-### 77. プロキシ
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://skibiditoiletrizzlers.global.ssl.fastly.net/)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** Purple
-- **Created At (UTC):** Jun 04, 2025 09:44am
-- **Updated At (UTC):** Jun 04, 2025 09:44am
-
----
-
-### 78. LoungeF2X
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://loungef2x.global.ssl.fastly.net/)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Jun 04, 2025 09:40am
-- **Updated At (UTC):** Jun 04, 2025 09:40am
-
----
-
-### 79. 3kh0(もちろんプロキシ)
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://3kh0v5.global.ssl.fastly.net/)
-
-#### Additional Information
-- **Post color:** Blue
-- **Created At (UTC):** Jun 04, 2025 09:35am
-- **Updated At (UTC):** Jun 04, 2025 09:35am
-
----
-
-### 80. Selenite
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-<p><br></p><p><a rel="noopener noreferrer nofollow" href="https://contact.hbmc.net/">https://contact.hbmc.net/</a></p>
-
-[Attachment 1](https://contact.hbmc.net/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** May 09, 2025 04:04am
-- **Updated At (UTC):** Jun 08, 2025 02:22pm
-
----
-
-## AIサイト
-
-### 1. Geminiあった
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-
-[Attachment 1](https://html.cafe/xfb425d43)
-
-#### Comments (1)
-- **光の忍者** (Oct 14, 2025 02:28am): ナイス
-
-#### Reactions
-- **Emojis:** 👎 (3) 👍 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Oct 09, 2025 12:06pm
-- **Updated At (UTC):** Oct 09, 2025 12:06pm
-
----
-
-### 2. ChatGPT
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://chatgpt.org/ja/chat)
-
-#### Reactions
-- **Emojis:** 👎 (2)
-
-#### Additional Information
-- **Post color:** Blue
-- **Created At (UTC):** Jun 05, 2025 10:32am
-- **Updated At (UTC):** Jun 05, 2025 10:33am
-
----
-
-### 3. AI　かなり便利
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://aiseo.ai/humanize-ai)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Jun 05, 2025 09:59am
-- **Updated At (UTC):** Jun 05, 2025 09:59am
-
----
-
-### 4. Post 4
-**Author:** INFINITY (nanasisan)
-
-[Attachment 1](https://elicit.com/)
-
-#### Reactions
-- **Emojis:** 👍 (2) 👎 (2)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 05, 2025 08:35am
-- **Updated At (UTC):** Jun 05, 2025 08:35am
-
----
-
-### 5. AIキャラチャット
-**Author:** INFINITY (nanasisan)
-
-<p><a rel="noopener noreferrer nofollow" href="https://wrtn.jp/character">https://wrtn.jp/character</a></p>
-
-[Attachment 1](https://zeta-ai.io/ja)
-
-#### Reactions
-- **Emojis:** 👍 (2)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 05, 2025 08:32am
-- **Updated At (UTC):** Jun 05, 2025 08:32am
-
----
-
-### 6. AIチャット（チャットGPT）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://talkai.info/ja/chat/)
-
-#### Reactions
-- **Emojis:** 👍 (2) 👎 (1)
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Jun 04, 2025 08:47am
-- **Updated At (UTC):** Jun 04, 2025 01:13pm
-
----
-
-### 7. AIサイト
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-[Attachment 1](https://dare-ai.com/apps/0712p5qt68fe)
-
-#### Reactions
-- **Emojis:** 👎 (1) 👍 (1)
-
-#### Additional Information
-- **Post color:** Green
-- **Created At (UTC):** Jun 04, 2025 08:47am
-- **Updated At (UTC):** Jun 04, 2025 08:48am
-
----
-
 ## プロキシipアドレス
 
 ### 1. ipアドレスのまとめ
@@ -6364,7 +4950,7 @@
 
 <p><strong>さくらもち共和国連邦</strong></p><p>最近、結構伸びてます</p><p>雑談やプロキシなど色々あるのでぜひ来てください</p><p>フォローよろしく</p><p>URLはこちら↓</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/20201184_3/padlet-r25bfkw6n62mk44a">https://padlet.com/20201184_3/padlet-r25bfkw6n62mk44a</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3852033674/8cf39485ebf17268d87a772b72f3fe9e/Screenshot_2025_08_01_5_08_19_PM.png?Expires=1778148487&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VqOMAGM51PQJW3ejYQU6k97o7lmYbhJFiQWw0EdAep4opI3LIpqH%2F9W7JAftWnG28vPvJQa%2Fi%2F5GYZdNiwo%2BISFV%2BP5C7lzKBQC0rsnrYAaH9ORUtoXIblsWUwos%2FAatFb2%2F8v58cpGLj1ZWLZQVAJTYPsvC07ms9M%2BLb384Sb4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3852033674%2F8cf39485ebf17268d87a772b72f3fe9e%2FScreenshot_2025_08_01_5_08_19_PM.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3852033674/8cf39485ebf17268d87a772b72f3fe9e/Screenshot_2025_08_01_5_08_19_PM.png?Expires=1778156206&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ifWhlFkD4exYtG8nJzP4Evfk%2BBZsj8EXOqyyqMaE%2BxgRl8RjNqK16OJAxfyzCUizk%2FoFgAwaN%2BZb%2BmLmLq9R5gkgusHojnAbpUWOQt9fSn8wJ%2BAx7itUB9v3xToHjMlgfv%2FRHJ9fx5nzbrQ4wERKw3n5dWrPNkGz5yXfXXyeqvU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3852033674%2F8cf39485ebf17268d87a772b72f3fe9e%2FScreenshot_2025_08_01_5_08_19_PM.png)
 
 #### Additional Information
 - **Post color:** Red
@@ -6392,7 +4978,7 @@
 
 <p>絶対に教育委員会に勝つプロキシ部屋</p><p>閲覧数2200突破しましたー</p><p>最近、結構伸びてます</p><p>雑談やプロキシなど色々あるのでぜひ来てください</p><p>URLはこちら↓</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/20201184_3/padlet-r25bfkw6n62mk44a">https://padlet.com/20201184_3/padlet-r25bfkw6n62mk44a</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3852033674/26d22875b3f582709ddfb8255074fab8/Screenshot_2025_07_16_9_20_24_AM.png?Expires=1778148487&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Il6IilWA6ZRDZLn8UftVVyD2Wkmg%2BiuQ4sTZ%2BlYTo7GkeR8YK7IOFSORLbBDbG0%2FwFFgLupOmd5l6T%2BAU9AjJ%2FM6adnd4b%2FqLNvKO7xKRMmpi9U55JGbOkE91ANQh48SkHzcFbwv1e%2BIaPGfohaR1KXBYEQaB6sg%2FgJd1Ag4U%2F4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3852033674%2F26d22875b3f582709ddfb8255074fab8%2FScreenshot_2025_07_16_9_20_24_AM.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3852033674/26d22875b3f582709ddfb8255074fab8/Screenshot_2025_07_16_9_20_24_AM.png?Expires=1778156206&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nbt4BG4D00SH9P9%2FHPFFI4B3XLef3chqpdEcw%2BCgP0qwNfh28BJs7M33ZuEGzyQHtoJrmHD7R2qV0hVPLFLo71nvg%2FnIg08VsGE9Hqw96y3tNDRdVzjm65pAUOsgH5GAeSSAxf0Z93ITJCxRVxUAzYxF1hENlc6vceoMqlircCA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3852033674%2F26d22875b3f582709ddfb8255074fab8%2FScreenshot_2025_07_16_9_20_24_AM.png)
 
 #### Additional Information
 - **Post color:** Red
@@ -6718,77 +5304,6 @@
 
 ---
 
-## 宣伝・フォロー（ここには投稿しないでください）
-
-### 1. このURL宣伝して
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-<p><a rel="noopener noreferrer nofollow" href="https://padlet.com/qwertyuiopasdfghjklzxcvbnm5671091/google-proxy-j8kidhh2aayu60zx">https://padlet.com/qwertyuiopasdfghjklzxcvbnm5671091/google-proxy-j8kidhh2aayu60zx</a></p>
-
-[Attachment 1](https://padlet.com/qwertyuiopasdfghjklzxcvbnm5671091/google-proxy-j8kidhh2aayu60zx)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Aug 02, 2025 02:51am
-- **Updated At (UTC):** Aug 02, 2025 02:51am
-
----
-
-## モデ要求とルール
-
-### 1. モデ要求
-**Author:** orafukun_567109　　　　　　　　　煮物貢献者 (qwertyuiopasdfghjklzxcvbnm567109)
-
-<p>モデなりたい人はここにコメントしてください</p><p>信用してる人ならします</p><p>信用条件は　　　　　　　　　　　①荒らさないか</p><p>②この部屋に貢献してくれたか</p><p>③たくさんプロキシ持っているか　　　　　　　　　　　　　などです</p>
-
-#### Additional Information
-- **Post color:** Red
-- **Created At (UTC):** May 09, 2025 04:19am
-- **Updated At (UTC):** Sep 28, 2025 01:41am
-
----
-
-### 2. モデの方のルール
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-<p>もし荒らしがいたらできれば退治してください。</p><p>セクションは消さないでください。</p><p>新セクションを作りたいときは作ってくれていいです。</p><p>投稿が多く、重くなってきた際には、古い投稿から消していってもらって大丈夫です。</p><p><br></p><p><br></p>
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** Blue
-- **Created At (UTC):** May 10, 2025 09:12am
-- **Updated At (UTC):** Sep 28, 2025 01:41am
-
----
-
-## 管理者要求とルール
-
-### 1. 管理者ルール
-**Author:** 光の忍者サブ垢 (hikarinoninjyasabu)
-
-<p>①荒らしはしない</p><p>②セクションは許可無しで作成オッケー</p><p>③ライター申請は許可していいです（荒らしじゃなければ）</p><p>④部屋の入室許可もしてもらって大丈夫です（ブラックリストに載っている人や荒らしはだめです）</p><p>⑤大事なことがあればピン留め機能を使用してもオッケーです</p><p>⑥悪意のある投稿、コメントや人を不快にさせるものがあれば消してください</p><p>⑦⑥の投稿主は一度コメンターにしていいです</p><p>⑧管理者、モデの昇格は光の忍者がやるのでしないでください</p><p>⑨重くなってきたら古い投稿から消していってもらって大丈夫です</p><p>⑩荒らしがいたら退治してください（できれば）</p><p><br></p><p>何か追加するべきだと思った人は下のコメント欄で</p><p>光の忍者の言ってることの意味がわからない人も下で質問してください（語彙力ないのですみません）</p><p><br></p><p>ちなみに光の忍者が管理者にするかどうか考えるライン（大体）</p><p>①プロキシを大量に投稿してくれている</p><p>②その人のおかげで部屋が良くなっていると光の忍者が感じた</p><p>③荒らし経歴が無い</p><p>④荒らさないと誓ってくれている</p><p>⑤高い頻度でこの部屋に来てくれている</p><p>⑥重要　その他諸々含めて光の忍者が管理者にふさわしいと感じた</p><p><br></p><p>大体この6つです</p><p>全てクリアしていて尚且つ光の忍者の信頼が得られている人は管理者にします</p><p><br></p><p>気になることがあればこれも下のコメント欄で</p>
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** May 13, 2025 01:52pm
-- **Updated At (UTC):** Sep 28, 2025 01:42am
-
----
-
-### 2. 要求のルール
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-<p>管理者になりたい人は自分の強みなどをプレゼンしてくれたら考えます。原則要求できるのはモデレーターの方のみです。図々しい要求は消させていただきます(もともとモデレーターになっている時点でちゃんと投稿してくれている人なのにそんな事あるかって話ですが…)</p>
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At (UTC):** Jun 25, 2025 06:07am
-- **Updated At (UTC):** Sep 28, 2025 01:41am
-
----
-
 ## 昇格報告　（主以外投稿禁止）
 
 ### 1. Aさんが管理者に昇格しました👏
@@ -6914,246 +5429,16 @@
 
 ---
 
-## 目安箱
+## 問い合わせなどはこの部屋で！
 
-### 1. この部屋をより良くするための案を出してください
-**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-
-<p>なにか意見があったら積極的に発言してください‼</p>
-
-#### Reactions
-- **Emojis:** 👍 (5)
-
-#### Additional Information
-- **Post color:** Green
-- **Created At (UTC):** May 11, 2025 05:46am
-- **Updated At (UTC):** Jun 22, 2025 09:41am
-
----
-
-### 2. 努力義務すぎる
-**Author:** INFINITY (nanasisan)
-
-<p>宣伝についての提案</p><p>この部屋で宣伝した場合、その宣伝した所でも、ここの受付部屋を宣伝するみたいな感じですかね、これほぼ努力義務やから使えるか分からん、これに似てるやつあったらごめん</p>
-
-#### Comments (2)
-- **光の忍者** (Jul 03, 2025 12:57pm): たしかに良いですね
-- **光の忍者** (Jul 03, 2025 12:57pm): 採用させていただきます
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 02, 2025 12:19pm
-- **Updated At (UTC):** Jul 03, 2025 10:36am
-
----
-
-### 3. 使えないプロキシについての提案
+### 1. 誰でも使えるよ！
 **Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
 
-<p>ある投稿されたプロキシを使った時に「ページが見つかりません」や、「申し訳ございません。このページに到達できません」などの表示が出たら消して良い（管理者が確認してもアクセスできないのなら）というルールが欲しいです。</p><p><strong><br></strong></p>
-
-#### Comments (2)
-- **光の忍者** (Jun 06, 2025 09:59am): わかりました
-- **光の忍者** (Jun 30, 2025 03:08pm): モデと管理者のルールにしましょう。その表示が出たプロキシがあったら消してもらって大丈夫です。良い意見をありがとうございます。
-
-#### Additional Information
-- **Post color:** Blue
-- **Created At (UTC):** Jun 05, 2025 10:19am
-- **Updated At (UTC):** Jun 05, 2025 10:19am
-
----
-
-### 4. 自分から提案です！（ルール）
-**Author:** 削除済みユーザー
-
-<p>もし、その人がライター以上の権限が欲しいのなら、👍️が多いプロキシの投稿がたくさんあるほど権限が付与されやすくなるというルールがあると良いと思います。</p>
-
-#### Comments (1)
-- **光の忍者サブ垢** (May 21, 2025 07:58am): わかりました
-
-#### Reactions
-- **Emojis:** 👍 (2)
-
-#### Additional Information
-- **Post color:** Blue
-- **Created At (UTC):** May 20, 2025 11:36am
-- **Updated At (UTC):** May 20, 2025 11:36am
-
----
-
-### 5. 提案です
-**Author:** 削除済みユーザー
-
-<p>投稿のリアクションボタンを👍️と👎️のやつにして、そのプロキシが使えたら👍️、使えなかったら👎を押してもらうようにします。そして👎が多いプロキシの投稿は管理者が削除するといいと思います。</p>
-
-#### Comments (1)
-- **光の忍者** (May 20, 2025 06:36am): わかりました👍
-
-#### Reactions
-- **Emojis:** 👍 (2) 👎 (2)
+[Attachment 1](https://padlet.com/madjieie/teck-land-3jzgw4kl1f7g6ml0)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 19, 2025 10:36am
-- **Updated At (UTC):** May 19, 2025 10:36am
-
----
-
-## ブラックリスト
-
-### 1. やったこと＆その人の名前を上げて下さい
-**Author:** orafukun_567109　　　　　　　　　煮物貢献者 (qwertyuiopasdfghjklzxcvbnm567109)
-
-<p>他の部屋であらしをしていてこの部屋に入れないほうが良いと思う人を投稿してください。</p>
-
-#### Comments (34)
-- **ピコ** (Jun 05, 2025 01:11am): ひよこ荒らしサイコーさんかな
-- **ピコ** (Jun 05, 2025 01:12am): 反省してあらしてのくりかえしです
-- **ピコ** (Jun 05, 2025 01:12am): ご検討のほどよろしく～
-- **専任された仙人元Pa（NOT荒らし）** (Jun 05, 2025 11:25am): 検討しますね。
-- **光の忍者** (Jun 06, 2025 10:01am): ありがとうございます
-- **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇** (Jun 07, 2025 12:47am): ヒヨコ系いっぱいいるからね
-- **削除済みユーザー** (Jun 25, 2025 02:42pm): りんと
-- **削除済みユーザー** (Jun 25, 2025 02:42pm): すだちの木
-- **削除済みユーザー** (Jun 25, 2025 02:42pm): 僕メロンゴ
-- **削除済みユーザー** (Jun 25, 2025 02:44pm): 全く同じ場所でおんなじことをしたまぁ、私の部屋で、何らかの方法で部屋にはいり管理になって部屋の名前や、セクション名も変えられ人が消されてあらしだけになっていたほかにもいたが覚えてない為書けないがこの三人は気をつけてねほかにも↓
-- **削除済みユーザー** (Jun 25, 2025 02:46pm): ほかの部屋でコメントに、あらしだから入れないといったら、コメント荒らし炸裂僕メロンゴ以外の人二人
-- **INFINITY** (Jun 26, 2025 06:44am): 一応過去に、荒らしをやっていたと思われる方がここにいる
-- **光の忍者** (Jun 26, 2025 10:04am): ユズ こさめさま※(神様の奴隷でございます。)さんありがとうございます
-- **光の忍者** (Jun 26, 2025 10:06am): INFINITYさんの言っている人とはすだちの木という人のことですか？
-- **光の忍者** (Jun 26, 2025 10:07am): 入れないほうが良ければ退出させます
-- **光の忍者** (Jun 26, 2025 10:07am): 荒らしだと知らなかったので
-- **INFINITY** (Jun 26, 2025 12:46pm): すだちの木さんではありません、どこかで荒らしをしている所を見たのですが部屋が消されてて、証拠が少なくて、今ある証拠は荒らしと思われる発言ですかね
-- **光の忍者サブ垢** (Jun 26, 2025 01:33pm): 誰だか分からないのですか？
-- **光の忍者サブ垢** (Jun 26, 2025 01:34pm): その証拠を見せてくれるとありがたいです
-- **INFINITY** (Jun 27, 2025 06:23am): ここからは関係ないんすけど他の荒らしたちの掲示板https://padlet.com/srru3/padlet-vq37f2lhgu13u9en
-- **INFINITY** (Jun 27, 2025 06:22am): 荒らしの集会　　　　　　　　　https://padlet.com/tokumei55212/padlet-hrvtq1if6cwbu820　　https://padlet.com/arasouarasouarasouarasou/padlet-aevd7bfyavfdbc4j
-- **光の忍者サブ垢** (Jun 27, 2025 12:51pm): ありがとう
-- **光の忍者サブ垢** (Jun 27, 2025 12:52pm): 掲示板はよく見ておきます
-- **🍭まかろん🎃りおとの32番㌥＿** (Jul 04, 2025 11:18pm): ちなみに荒らしの集会所の管理者「匿名」はアオハルという人のサブ垢です。同じく荒らし
-- **すみしょう賛成ピカコン反対** (Jul 07, 2025 07:00am): めんだードラゴンさん
-- **すみしょう賛成ピカコン反対** (Jul 07, 2025 07:00am): とにかく悪口言って
-- **すみしょう賛成ピカコン反対** (Jul 07, 2025 07:00am): コメント打ちまくり、
-- **すみしょう賛成ピカコン反対** (Jul 07, 2025 07:00am): 下ネタ連呼してます
-- **光の忍者** (Jul 12, 2025 02:38am): ありがとう
-- **光の忍者** (Jul 12, 2025 02:38am): 注意します
-- **さくらもち** (Jul 28, 2025 02:47pm): イケメン　九条先生の第1生徒
-- **さくらもち** (Jul 28, 2025 02:48pm): 僕の部屋荒らされた
-- **光の忍者** (Aug 04, 2025 09:48am): ありがとう
-- **削除済みユーザー** (Aug 16, 2025 11:50am): 大統領
-
-#### Reactions
-- **Emojis:** 👍 (2)
-
-#### Additional Information
-- **Post color:** Red
-- **Created At (UTC):** May 27, 2025 03:45am
-- **Updated At (UTC):** Jun 04, 2025 12:41pm
-
----
-
-### 2. 証拠だぁ（イケメンの）
-**Author:** さくらもち (sakuramoti)
-
-<p>言い逃れはさせない</p>
-
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3852033674/0ca9ffac62ec9163a83422453d7a5936/Screen_recording_2025_07_28_5_21_29_PM.webm?Expires=1778148488&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TkSDcjxmTJB94tRGJwK%2BKydzt7l7%2BgExJOFAVAbLqUzyxEZQaEk72vr1OtB40yrdNGl3Dx7Jiiy3K3MMhy657CJk28AOxaGTqTinYikkHeIQIMJTEG1VS%2BXPo5oZEwZVutkK58Npg9Soy%2B6Rldbc%2FyObHySAhOwTcQOhpteA8IA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3852033674%2F0ca9ffac62ec9163a83422453d7a5936%2FScreen_recording_2025_07_28_5_21_29_PM.webm)
-
-#### Comments (1)
-- **光の忍者** (Aug 04, 2025 09:48am): OK
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jul 28, 2025 02:48pm
-- **Updated At (UTC):** Jul 28, 2025 02:48pm
-
----
-
-## 荒らしZONE☆
-
-### 1. Post 1
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/bcb1bcdc6654fe314f4dedfa985ab459/rainbow_1_2.gif?Expires=1778148488&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nhE9AiKmbC%2Byj2afbriaa1w2A453fnUG24XC3gur7dwsteyFAfBZB%2BK3ts8USq9n6N0MLr1FW9ve4j5uZbsRtZfwkxI2BUyBRj3J1lP3ujDc%2FrUNhXB0tuPiJ4a5VVW0yQhrCbqB4hIf%2Bf5VBrHzd4As9j9SfTm%2FyDF24bZnwl4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2Fbcb1bcdc6654fe314f4dedfa985ab459%2Frainbow_1_2.gif)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Apr 30, 2026 10:07am
-- **Updated At (UTC):** Apr 30, 2026 10:07am
-
----
-
-### 2. Post 2
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/ff2c66dcd9a4aa7a88714f94855989c5/__2.gif?Expires=1778148488&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Ayd8bIbTuJ%2B3Vk8SAs8iJCVvPBGpnyNm%2FfnHOo0jv4SJSAyojaTI%2BKTHKmo7K8Wao6LAY%2FUr%2F1bzDsqJm3LCk1uWE27hm3eWVrRpCunwETlH7PmxWrtew3GUk3XrXrJtLhhE%2BRSjiJPv6%2BBDE9mfyad5IJSxAqf8AGGzeerjVbY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2Fff2c66dcd9a4aa7a88714f94855989c5%2F__2.gif)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Apr 30, 2026 10:07am
-- **Updated At (UTC):** Apr 30, 2026 10:07am
-
----
-
-### 3. Post 3
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/248d0d0b406d6a96331ff03d3f0e477e/__2.gif?Expires=1778148488&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cONodSXZJtZ6PD8c0zR2PGixm%2FOfrPvOHTmlv2UPAuv4sFvFlH6GlF7UAhlX9hLh1Kc6qeU6ovFFWGVvgQEI825M%2BwKhixFsWJeLviokBiY2r4mOczbu3lGbcKg8vEsR%2BO9EZz84k6fjuM8odggKlWQhSuyHLnf6J%2BTo4qjDqcI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2F248d0d0b406d6a96331ff03d3f0e477e%2F__2.gif)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Apr 30, 2026 10:07am
-- **Updated At (UTC):** Apr 30, 2026 10:07am
-
----
-
-### 4. Post 4
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/9b6a61ebff82929f78e7d9be8f4cf876/rainbow_1_2.gif?Expires=1778148488&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2rrNHKLQJDbYTxo%2BGSm7y%2BPiCoalPOLhDd9j%2BG%2BrXr4GH8HbIqGMRPFNfFqFxOYxGFLxDI0%2BBUxzHwqRSOJZTCHf0qU8hKbz1xVmRyiWXs65y5GV%2FwwSFVO5riDhn2T0%2FkxnqZTtNtWE6C30e7IjmCqt324FWT5kucxjtronxmo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2F9b6a61ebff82929f78e7d9be8f4cf876%2Frainbow_1_2.gif)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Apr 30, 2026 10:07am
-- **Updated At (UTC):** Apr 30, 2026 10:07am
-
----
-
-### 5. Post 5
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/73330f74ade2756d764cc6976c90dfd8/__2.gif?Expires=1778148488&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UFUizVvRtW8ALweItYaP6JeGVYaAvny9awRKAXPUzTo%2Be98jVwBZ8TFZQJzEAqnAPr2BghHP4k7hKSTmED6TendgEGvyhEOTwkA5xmritATxWUKrvHGVHPrCY0w8m8AqVSAmf9ziv%2FuVoKj%2F86fAr0SujetmJR%2BU7n5KwShjJio%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2F73330f74ade2756d764cc6976c90dfd8%2F__2.gif)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Apr 30, 2026 10:06am
-- **Updated At (UTC):** Apr 30, 2026 10:06am
-
----
-
-### 6. Post 6
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/bd275e46a62464b7d8c6d1d7e6f8b071/__2.gif?Expires=1778148488&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aM2kkw%2BOoY5788L8ckrNLpmdriV9UA5fmySk3I80Ok%2B4vPTMC2s3X9j7TXgfkRTTEggtbTWLFYPXVg4dmV7wsF5aJS%2F7m6JJKsmGdHNuxbOXcH%2Bg2r1ww%2BMx6p2eF4gkQPqCueiH0NEqnQ3h%2FjQkCNGL29OMMLpK7w2elzs6WRA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2Fbd275e46a62464b7d8c6d1d7e6f8b071%2F__2.gif)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Apr 30, 2026 10:06am
-- **Updated At (UTC):** Apr 30, 2026 10:06am
-
----
-
-### 7. Post 7
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/cb333f8a30055c11c2725aa5065828ce/__2.gif?Expires=1778148488&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PAcpI6OKs25T9uZBq62%2B842iagB6CU9ozQkfcy7lRLWEsw2yQ%2FE6THWGt3Grhmgh4ACUHNAyYvEPf68E9VzZbhBdLAdQqZDgLebHXD%2BCyqggoeEeh%2Fz%2FwOPrBG5YGdB6gSfvtqqkokmNmweLxMEdGIrudR%2F2uUPsG0BuPFirD98%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2Fcb333f8a30055c11c2725aa5065828ce%2F__2.gif)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Apr 30, 2026 10:06am
-- **Updated At (UTC):** Apr 30, 2026 10:06am
+- **Created At (UTC):** Apr 30, 2026 10:30am
+- **Updated At (UTC):** Apr 30, 2026 10:30am
 
 ---
