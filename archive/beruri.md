@@ -1,4 +1,4 @@
-最終更新: 2026/04/26 18:03:10
+最終更新: 2026/04/30 21:16:40
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -9,15 +9,16 @@
 - **Builder:** 太古の太鼓~1853 Brainrot (BERURI1214)
 - **Posts:** 2
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Apr 26, 2026 08:43am
+- **Updated At (UTC):** Apr 30, 2026 10:14am
 
 ## 重要なお知らせ
 
 ### 1. もう少しで復帰しますよ
 **Author:** ENDLESS (BillyKid)
 
-#### Comments (1)
+#### Comments (2)
 - **ちゃま** (Apr 20, 2026 11:06pm): 俺も入りたいです！！
+- **NyrikX(足立区陣ICFS系)** (Apr 30, 2026 10:14am): やった！
 
 #### Additional Information
 - **Created At (UTC):** Apr 15, 2026 12:48am
