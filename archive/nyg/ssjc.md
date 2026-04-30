@@ -1,4 +1,4 @@
-最終更新: 2026/05/01 07:54:07
+最終更新: 2026/05/01 08:54:04
 
 # Shell Shockers 集会所
 
@@ -23,7 +23,7 @@
 - **[UAO] famichiki_** (Jun 11, 2024 09:51am): 雑談部屋書いとくね
 
 #### Reactions
-- **Number of likes:** 6
+- **Emojis:** ❤️ (6)
 
 #### Additional Information
 - **Post color:** Red
@@ -41,7 +41,7 @@
 ![Attachment 4](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/2309299121/2ce3c78381a6e92d7f0f01bd143c3e35/5.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKioxkJs69oyx3bXEigwLlnJRn83RsKsWe6JF3TSODv0bESbUMYAjT7aO29d21EeQXjUv9Ll1L4n4wfWs__ObQN4LolNQ54FJxLhu_B-Q6bc3w5VAlxqCKgq58KEtOYWBeA5Q==)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -55,7 +55,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/@%E3%81%97%E3%82%8D%E3%81%8F%E3%81%BE_shirokuma">https://www.youtube.com/@%E3%81%97%E3%82%8D%E3%81%8F%E3%81%BE_shirokuma</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3024116910/2ca4861000cc8f71f871d9bbc39dc0fc/channels4_profile__1_.jpg?Expires=1778194445&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yQuKO86O2TF64OIa318tl04Q7YNASaTAdT25Bio053WTy42LhTNJgyKq0um6%2Bch1ZPrCKLWADz%2BvJ%2FdO5tJET%2FVnlmTZJbVW8aKpEDTAqeUb%2FxTTZgenRnYD1J%2BsNO0ba3uwhCMuU1RII2mLWGM5r09Cb1kKfxVbZ37VuzcUcpA%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3024116910%2F2ca4861000cc8f71f871d9bbc39dc0fc%2Fchannels4_profile__1_.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3024116910/2ca4861000cc8f71f871d9bbc39dc0fc/channels4_profile__1_.jpg?Expires=1778198041&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=T9Qx1EHONWX1sKjgC3jkuRVtfzeoqwjVcACmW2%2Fye3UB9vq7Vgp3hw0GA1azQih7ZBJyMBNqPNEzw3imWvlMyH11FbHbDBJOhagX0jpbL8OEzaPdH1ZyIDhOo7uWV2XfY5vRU0uISFSMAjatHV7rEftxQPvzUGUZcgzfOtYvwkg%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3024116910%2F2ca4861000cc8f71f871d9bbc39dc0fc%2Fchannels4_profile__1_.jpg)
 
 #### Comments (3)
 - **𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ** (Dec 09, 2024 06:30am): 後で見るわ
@@ -63,7 +63,7 @@
 - **ethic** (Mar 07, 2025 08:38am): いいねー
 
 #### Reactions
-- **Number of likes:** 3
+- **Emojis:** ❤️ (3)
 
 #### Additional Information
 - **Post color:** White
@@ -88,7 +88,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 18, 2025 07:44am): ここにあるやつで全部
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -102,7 +102,7 @@
 
 <p>LegacyShellは、BWDからのDMCAに従い、プレイできなくなりました。二度と復活することはありません。</p><blockquote><p>following a dmca from bwd, ive taken <a rel="noopener noreferrer nofollow" href="https://legacyshell.com/">https://legacyshell.com/</a> offline, forever. this isnt a late april fools joke.</p><p>thanks to everyone who played and supported the project, and no thanks at all to those that tried to bury this before i was forced to, who have indeed proven why we cant have nice things.</p><p>this will probably be the last major project ill have undertook now.</p></blockquote><p>訳: BWDからのDMCA に従い、<a rel="noopener noreferrer nofollow" href="https://legacyshell.com/">https://legacyshell.com/</a> を永久にオフラインにしました。これはエイプリルフールのジョークではありません。</p><p>このプロジェクトに参加し、サポートしてくれた皆さんに感謝します。そして、私にやむを得ずこれを葬り去らせた人たちにはまったく感謝しません。彼らは、私たちが良いものを手にできない理由を確かに証明しました。</p><p>これはおそらく、私が今取り組む最後の主要プロジェクトになるでしょう。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/9fc50cf55ecf7e22bc21ffe6aefc92cb/Screenshot_2025_04_03_01_19_35.png?Expires=1778194445&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MXL44FzV%2BgbU1bNCvEUyJYtn7vDE6g%2B5yGWFgV1svWVOhbJBqGhRE5R5lNi5Zm78SU6q4Fmx4Ik9KFmFBBgHAgjVFQXpdwkXCfgGvUeObpI7CnEVrRR1rBmobpla8zVBItsdw33gnRbAYLqzOxlkKKZ9TFO%2BMmkDso5ZLz%2B%2BwAM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F9fc50cf55ecf7e22bc21ffe6aefc92cb%2FScreenshot_2025_04_03_01_19_35.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/9fc50cf55ecf7e22bc21ffe6aefc92cb/Screenshot_2025_04_03_01_19_35.png?Expires=1778198041&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=a0QF7%2BE4jzwhGmPWp0WXlK4O7m6JD7KZP72W8rppkiWbD7J2loYqfKDuj0iM7OLdKMNMG4%2F5JbMs0Cr44cXe1jta7BYP20Hetx3e%2Fsp9wocdzId82%2FXjfkeG2XKfHf05woma4wsiVXZO7how%2Fw2hEhq97rrvxvCdwAqX4nQ5GYc%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F9fc50cf55ecf7e22bc21ffe6aefc92cb%2FScreenshot_2025_04_03_01_19_35.png)
 
 #### Comments (9)
 - **典型的なこきです** (Apr 02, 2025 04:24pm): GGでした
@@ -116,7 +116,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jul 27, 2025 02:34pm): 武器のバランスをいじられすぎたりね
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Red
@@ -130,10 +130,10 @@
 
 <p>今回のアプデ(2025/03/19)で、ひらがなやカタカナ、特殊文字などが名前やチャットで使えなくなりました。この事について運営の一人は「すぐに修正されるわけではない」としたうえで、</p><blockquote><p>まあ、絶対にないとは言い切れないでしょう。<br>ひらがなやカタカナも使えるようにするかもしれませんが、確かなことは言えません。<br> 私は、ひらがなとカタカナは使えると思っていたのですが、明らかに使えないので、意図的に削除されたのか、私が知らなかったのか、あるいは偶然に削除されたのか、どちらかだと思います。<br>次のアップデートで追加するかもしれません。</p></blockquote><p>ということで、使えるようになるかすら不明とのことです。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/ad0889616effd011acaac6ed7e65766c/20250320_1251_ef7e163e98eded0b178986f8cd361283.png?Expires=1778194445&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6LFRV40C%2FgN7gOfF0bRvds2hF9mMdimfaij7iDLLf0mabz3xXn04v%2FBeD75PZ4%2BjW7pDLLJshMOqp5OHOshTdNbVTDCAXO40ZynPRpXRGnphRFScQ507J%2BF0k3%2F8UuSZPGy8CJ1R0XmsROvtqxR0OU7fXseHPjhEclqBCp91cu8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fad0889616effd011acaac6ed7e65766c%2F20250320_1251_ef7e163e98eded0b178986f8cd361283.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/ad0889616effd011acaac6ed7e65766c/20250320_1251_ef7e163e98eded0b178986f8cd361283.png?Expires=1778198041&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=anN7lD%2FwRkKwoYW5Q5wNcdfalPOrngbz3AtuwVcEw897qkocYhwus3o0WBMuwis1GOWwMPQTKxgHAHrVFuaMA4LRJJRRWk3N9dPhfCqHOfo5WQH1KZkEIujLQeFQyMLoRuvUy8LKDYQ%2BDUD7ePIErGDM2GCc0tgOVsqXphus%2FZM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fad0889616effd011acaac6ed7e65766c%2F20250320_1251_ef7e163e98eded0b178986f8cd361283.png)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -154,7 +154,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jul 04, 2025 10:19pm): 最近は人がいないからね
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Red
@@ -181,7 +181,7 @@
 - **Unusual Quokka** (Oct 14, 2025 06:59am): だれかいる？
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -198,7 +198,7 @@
 <p>ここなら常に人がいるよ</p><p><a rel="noopener noreferrer nofollow" href="https://c.kuku.lu/zzh7pekg">https://c.kuku.lu/zzh7pekg</a></p>
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Red
@@ -230,14 +230,14 @@
 ### 4. るるるです！趣味は仮面ライダーの絵を書くことです。皆んなか良くしてね☆
 **Author:** るるる　バルコク共和国の大統領 (barukokukyouwakoku)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2373055819/b5aeabdaef656ffc5beea2cf057741a3/canvas__2_.png?Expires=1778194445&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DQyE0i4IG8PEn%2FCrwTmR%2F7btL1lJvyzARb10do9EcyO53qHR6WDaI1BblRv3lyuh4k851T0VkVnK7pSDL6cHTLwxuW9MNHQrig%2Bm8DzOrHiehtSwoWloRmpSZNFWhlNSiZHGTHyfq3b145NNRhcJsHIx7K%2Fjfhxolr4e61PS3y0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2373055819%2Fb5aeabdaef656ffc5beea2cf057741a3%2Fcanvas__2_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2373055819/b5aeabdaef656ffc5beea2cf057741a3/canvas__2_.png?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fnVEX6BN0SDYIZW8ZAD6nvlQdQKEf499X%2BPTBtISOJXLmrtVo6%2FnQdSXbRP5Dy6LYdJuPUj8bNBW7E%2BA8YKxDVSIUxZAJLa5idCzhVHGbH6J5m%2B2pobI36ZUjOvuuR0tt1ScAjQtHWkv1FSeTlkRqbP0nD16uUZqhJNq22iTudA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2373055819%2Fb5aeabdaef656ffc5beea2cf057741a3%2Fcanvas__2_.png)
 
 #### Comments (2)
 - **Adventurous Moth** (Mar 05, 2026 11:28pm): かっこよー  
 - **たくあん** (Mar 06, 2026 09:43am): 上手い！
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -289,7 +289,7 @@
 <p>Japaneseです</p><p>アヒャ</p><p>英語は少しなら喋れる</p>
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -302,7 +302,7 @@
 **Author:** seita0524 (2141530013)
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -317,7 +317,7 @@
 <p>こんちゃ</p>
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -345,7 +345,7 @@
 <p>してなかった気がするからしておく</p><p>だいぶ前からいたよ</p>
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -368,7 +368,7 @@
 **Author:** MoMo
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -411,7 +411,7 @@
 - **ねぎとろ？** (Jun 18, 2025 06:46am): hello-
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -426,7 +426,7 @@
 <p>[UAO]famichiki kirka 92lv</p>
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -449,7 +449,7 @@
 - **ねぎとろ？** (Jun 04, 2025 07:10am): だれだあー
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -478,7 +478,7 @@
 - **taba** (Mar 28, 2025 11:19pm): hi
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -552,7 +552,7 @@
 <p>まぁ、よろーってことで</p>
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -638,7 +638,7 @@
 
 <p>神引ききちゃー！</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3239136421/034da9ba845bbf1e347b695b79557829/Screenshot_2025_01_13_22_37_10.png?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bi5021YGxzRDCij6Ss9Udz9btm6MGgVnKW4K%2FzwrCF7M9H9a6GWWHhzb3SDNgrRXq%2BenPMdCCGtTT4JT%2F8ZehGGFrPjnvK2M9EM2d3L9WNlY%2FfzmfhSD78FVTtrEXs8hiSR7WEO%2FLVyJcq73M1RQVWmb1VQa9I88qYWcrT1tzgw%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3239136421%2F034da9ba845bbf1e347b695b79557829%2FScreenshot_2025_01_13_22_37_10.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3239136421/034da9ba845bbf1e347b695b79557829/Screenshot_2025_01_13_22_37_10.png?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3JFN7FEUlzC47039BsEc94w%2B7IblcZGP5%2FI3%2BONvtX6ADyxSxkX7IvK8%2FTPGeB07f0iO9nK7qm8xgTRCsQg59NxXHCnuCvGg3QFTo%2BuJjPp%2BlniV5uBmPNi7HNM3nP0Q2cNHqWm1zwMD054dLBekA4iftz09t04TA3EPKQfNiRE%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3239136421%2F034da9ba845bbf1e347b695b79557829%2FScreenshot_2025_01_13_22_37_10.png)
 
 #### Comments (5)
 - **りどすまほ** (Jan 16, 2025 01:01pm): 🖕
@@ -648,7 +648,7 @@
 - **シェルなんかコードない？** (Feb 05, 2025 05:43am): ポポっぽp
 
 #### Reactions
-- **Number of likes:** 3
+- **Emojis:** ❤️ (3)
 
 #### Additional Information
 - **Post color:** White
@@ -660,14 +660,14 @@
 ### 34. albino eggk-47 引いたぜ！
 **Author:** 見た目プロ (j5555522)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3239136421/0dff9039d2c99c808d54576cb4956dbd/Screenshot_2025_01_13_22_37_10.png?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vkinpvqDnm7f21kdH9PXA357SRMdyJwz%2B9eUt2OtK1vzZuQchleoeu6S0D376FRBuxqenDYUpdSfhLDgRXSeyyf0ptSZVJasW2vx9UmNXr1qd921gPZcR0REXQdpotAFiayH82bpZwhm92mwnUIuhVMcwZeO63a0f%2FBlPOZDO%2BE%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3239136421%2F0dff9039d2c99c808d54576cb4956dbd%2FScreenshot_2025_01_13_22_37_10.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3239136421/0dff9039d2c99c808d54576cb4956dbd/Screenshot_2025_01_13_22_37_10.png?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=peL3MzYZU9ss4%2B6u7Sy%2F9Lh0KE9vzTIjsMeDMi3xlRtv1j%2FmLOC5UTbS6beL56AoXCtB2j9pKyDbqiT2Cv77se1ZlAVm5yDTapJepvJwmFCIRpoLr5ckKP7Ae2IGLQChpldbFhwwF3ck3A5iUe1IXTiuBW8YmBY%2F6ordSA6S6AI%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3239136421%2F0dff9039d2c99c808d54576cb4956dbd%2FScreenshot_2025_01_13_22_37_10.png)
 
 #### Comments (2)
 - **OBUTAMAダス** (Jan 28, 2025 01:10pm): いいなぁ
 - **1v1 教えて** (Feb 05, 2025 05:37am): いいなぁ
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -805,7 +805,7 @@
 - **削除済みユーザー** (Aug 31, 2024 09:54am): あとブンブンハローYouTubeですよ
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -825,7 +825,7 @@
 - **Fabulous Spider** (Aug 28, 2024 05:23am): 痛すぎるwwwwwwwwww
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -841,7 +841,7 @@
 - **[UAO] famichiki_** (Jun 11, 2024 09:50am): クラン
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -861,7 +861,7 @@
 - **[UAO] famichiki_** (Jun 10, 2024 10:27am): あれ
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -876,7 +876,7 @@
 <p>Nanachikiです　なんかTokaに招待された　ここ掲示板的なやつかしらんけどよろしく</p>
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -888,7 +888,7 @@
 ### 50. killua
 **Author:** rido_k4mo (rido_kamo)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2499250589/751de5a404f0d4b22066fe424f8720e2/e60afe54_c58c_4569_9235_99d783b34a94.jpeg?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5mNrbbId4Rs7zXipWsNblkWRUEfdN1ZkVbpqcTenKawT7l4u0nE0BkAiOLMuZnUvrG1nVXF%2BL1%2BERbPm%2FlyN%2F5A9JNICQAPQJ3GGck%2BwwzVCFY%2BpGGjPO4Iv1FJ3pY8KevDYQM%2Fmp6S2oUn7z92JtEHUDuCLrA2WPyuU2D4DfpA%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2499250589%2F751de5a404f0d4b22066fe424f8720e2%2Fe60afe54_c58c_4569_9235_99d783b34a94.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2499250589/751de5a404f0d4b22066fe424f8720e2/e60afe54_c58c_4569_9235_99d783b34a94.jpeg?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QuBn3uRaW4zk8hh84vU%2F4PdjKnmlfLBRLGp1orSkRe8aEorDuWdHy6vjso2xVvx4Lm%2FPl283%2FzGKClt%2FXDmT%2FLy%2BQkxtsTE9mxE9xmjLvbF3RO%2Bz2QXjG6PqikipP6xt56uMsC6VWPt83WPEs2LZMKB4CCLSOGbd4mkv4iaS6yo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2499250589%2F751de5a404f0d4b22066fe424f8720e2%2Fe60afe54_c58c_4569_9235_99d783b34a94.jpeg)
 
 #### Comments (62)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jun 03, 2024 07:18am): 一応いるで
@@ -955,7 +955,7 @@
 - **rido_k4mo** (Jun 03, 2024 10:20am): ていうか3年やってtokaと一回もあったことないｗ
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -973,7 +973,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (May 30, 2024 01:20pm): Yoo
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -987,14 +987,14 @@
 
 <p>名前 プレーン 始めた日 ??? 主武器 全種類</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2446597452/ab6501cc36c7846180888d26aecc5a36/______.png?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=j48ymozY3jDZDjie%2Bx9LRQ%2FKEC5t6zJfI45GYpj75JoWGz4hJCc%2FteWvVuYKXwrABfvTBJNm7WybJb7wgViSWr9x3HMa1Q0nZqMr8ZEltortygIi26ZyPP%2BwmBfDjL5wSw8%2Bt0mPsFqFv9dHVu679ok7hSomD2RQUXuDS%2Bj7a8E%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2446597452%2Fab6501cc36c7846180888d26aecc5a36%2F______.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2446597452/ab6501cc36c7846180888d26aecc5a36/______.png?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qYH%2BVEPXqtT6CFOSjHUozUAUJiRlJxCiHQdMvEgWDcXQ9lAo7F%2BbIDEyvWPIrJZ1pxVQ5nxlgg5iLpdrqROwMtNap%2Bwsqrhh21LtAA7n%2BKdvHZ%2ByqOFvqrTjf6sv83n45rr2%2B6yTJj877DRzEWVk2oH4Dz51exXtTIv7FEYziTo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2446597452%2Fab6501cc36c7846180888d26aecc5a36%2F______.png)
 
 #### Comments (2)
 - **Anonymous** (May 08, 2024 03:26pm): よろしくね。
 - **KIRIN_RYU** (May 23, 2024 02:35am): よろ！！！
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1006,13 +1006,13 @@
 ### 53. ᏁγᎶ » 麒麟🐲
 **Author:** KIRIN_RYU (KIRINRYU)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2170841205/e767d620a2fe3752038c03065a4fe5cc/hunterkirin.webp?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mNoSvFzrfzg6Wgqxd5P1VTs9eVSbxixiWj5rxebBYWEmVZ%2BEcDJ%2Br4sS3A26Cu77H4hWCbeOdKg9n3xO1QMLfSLdof%2Bi799V0ix9kgQGjs2lsVu35MF14PC00%2BYNumZYuxB8kz77CoqOdBIjf48P5qyrfABRIk%2BvqXDv%2BaykXzY%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2170841205%2Fe767d620a2fe3752038c03065a4fe5cc%2Fhunterkirin.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2170841205/e767d620a2fe3752038c03065a4fe5cc/hunterkirin.webp?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=E8tQRY1Qolcz2MmS8P8rQHHMi1DHAABO92vBHxmG4dsiQLNCorkcS5EKMMGajPx17Mn4%2BsgzsDHyEMe57MZG7Z7iCcjibeabkqEd9XJ1PEADOK2OyIGVoAA7cUWQCiPzW4Z11zg5Dz7pTYD%2Bxo1fLuN7DAZSIiD2cCdjW6gTnho%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2170841205%2Fe767d620a2fe3752038c03065a4fe5cc%2Fhunterkirin.webp)
 
 #### Comments (1)
 - **はるきんぐ１２** (Feb 13, 2025 01:28pm): まじかみ
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Blue
@@ -1033,7 +1033,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 19, 2024 01:07am): うん
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -1052,7 +1052,7 @@
 - **ねぎ** (Apr 03, 2026 06:05am): :D
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1064,10 +1064,10 @@
 ### 2. ケツついてる
 **Author:** あいうえお (gtr35aiueo)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/5a06207ecacbf9d8a6ec8daa5ed06c31/Shell_Shockers___Play_on_CrazyGames___Google_Chrome_2026_04_02_18_52_18.png?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lIz2rbmCqcTF5%2FdkxdroxY1%2BXvs52toFGdwCdgp4KR20cNhGBQSZR3Fog9%2FIE3QNHZ2x8dKl1UUz4d%2Bi6OuzMPhfF0jomEqmHtegdg69SftMv48FnBifGL9FJqJ2h2wHklU3xbFRO5fuuxwGAODf0hd9DvmJ3etAriOGc3Fue0w%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F5a06207ecacbf9d8a6ec8daa5ed06c31%2FShell_Shockers___Play_on_CrazyGames___Google_Chrome_2026_04_02_18_52_18.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/5a06207ecacbf9d8a6ec8daa5ed06c31/Shell_Shockers___Play_on_CrazyGames___Google_Chrome_2026_04_02_18_52_18.png?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mZTLs%2B6KoATZpGM%2F2hu36pXQiP3Lf2y1TdUwwOiaXJI7I0OM%2FkAC3F2%2FE3Zd3BrKhUk%2FaLFYL%2FpoUFuCa7ZnypUvvoAlrDTIP9O8ScHEhEQkNafBNErRgq%2Fw3QzjCD%2FjgRVneMlX5xcQe%2BkDRsspK7AO4Zca5K%2FQ6mqltpbGBo8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F5a06207ecacbf9d8a6ec8daa5ed06c31%2FShell_Shockers___Play_on_CrazyGames___Google_Chrome_2026_04_02_18_52_18.png)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1089,7 +1089,7 @@
 ### 4. ロード画面から進まんのやけど
 **Author:** sknt
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5192848575/49b20111b3b0a3c33553262b908ceeb4/Screenshot_2026_02_17_21_43_49.png?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XiUTv48ApBynPWUqoZs3FpaSOZcRcQaH1ojfLVwDgNfFDxnWjmY01S3BeCbHiyxVoRp1FyaXEu7SxWv2vxycHWL9PTfee7%2FVhmcs%2Bw2xAXbCb406rFnk54sbtqgrDl7Vk3XuCROiUrzG5cnmafecFDjB9yCkcB8Mimro4gx%2BqwE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5192848575%2F49b20111b3b0a3c33553262b908ceeb4%2FScreenshot_2026_02_17_21_43_49.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5192848575/49b20111b3b0a3c33553262b908ceeb4/Screenshot_2026_02_17_21_43_49.png?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5ReKBmvdKgvoBOCfiRVzkwco6GFa0VhxhcohZb9FK64lsd8qPL%2Bf0MYZw1G%2BfxlyaaWLCgxnBEVhVHcoJoXgcHYihf3C1PX5MI4N2sM4mYBJm7A0WMsMFMOaMN0MxWC%2BlSvKXtxYOOc5EKy703NitpTMQOhEEn0u2fKrHHhvW5w%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5192848575%2F49b20111b3b0a3c33553262b908ceeb4%2FScreenshot_2026_02_17_21_43_49.png)
 
 #### Comments (4)
 - **常闇 トワ（不地口手万ディ）** (Feb 17, 2026 11:03pm): それなｗｗｗ
@@ -1109,10 +1109,10 @@
 
 <p>ｻﾐｼｲﾅ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/0f07c544bf60d683c56314317d71c349/LegacyShell___Google_Chrome_2026_02_10_21_11_42.mp4?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yGDUyBW5tQKRmcsXNd62GyLRG4Uq6gzIM5Xvt4Zgvt9y9tZYApuTsDOMqxNk8mN0effuFZbpOLdF0hXM0483Vc5dA9vgPxfg29l89f%2FR9S3oW3h%2FCNV%2BYkY3yLBRG97%2BDsVcMUdPpEhc4EKUHWfF2ntdQSyIsLdZMNKFlZEyxNE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F0f07c544bf60d683c56314317d71c349%2FLegacyShell___Google_Chrome_2026_02_10_21_11_42.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/0f07c544bf60d683c56314317d71c349/LegacyShell___Google_Chrome_2026_02_10_21_11_42.mp4?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=u%2BT2JSw7j2Q972EXVRoVI2UIP5kbp4JGVMkpHk67QjK4BirAxSb5u7U8V2EG5NQyMgcYKJ1%2BDaNL2F2GcJMoATI6kaEs0JR3AbnGc%2F3CpHEvw6EOMOCmEBz3WkeG3bxkTARsCISJ0Gi4f4xAHVfmcG7GWRp1mXauJy51EoeTZVA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F0f07c544bf60d683c56314317d71c349%2FLegacyShell___Google_Chrome_2026_02_10_21_11_42.mp4)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1124,7 +1124,7 @@
 ### 6. imihumei
 **Author:** あいうえお (gtr35aiueo)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/8a4e938fcdf952ac10a8405752f4ab6e/Shell_Shockers____CrazyGames_______Google_Chrome_2025_12_03_17_55_32.mp4?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZlRp1IjU%2FxMpFhU%2FE2Mb0T4AwqA2sgWyxV3JQbzdh3A0hqgM5mWGeJWtq1DSG0n0s1zl4KG5snYSikAfBIFNz6%2BbRlbuFRW1Aws38f5GGgur%2Fl02pqlAprFBeOCjdreQZmvGUHpGXSjgfhfqV1g183WKygDmfnIQpcOEsP74ap0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F8a4e938fcdf952ac10a8405752f4ab6e%2FShell_Shockers____CrazyGames_______Google_Chrome_2025_12_03_17_55_32.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/8a4e938fcdf952ac10a8405752f4ab6e/Shell_Shockers____CrazyGames_______Google_Chrome_2025_12_03_17_55_32.mp4?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=N1Ff8oiIMOZY6ZXy2GMrSyPhp4SxJRpOdqKwSRJnOw0Baua0LIPZ1cW2g8TjRnVJJC2mZHOCaUwl1JOSRPa1bZeF5MNYZCF5lTHsVgHALf7gmF3uqZ2Td61YLxW%2BF2rXYEynoyzCklINvV%2BTSzmxgXZI4BDRpsXGGkPrnuAJQQ4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F8a4e938fcdf952ac10a8405752f4ab6e%2FShell_Shockers____CrazyGames_______Google_Chrome_2025_12_03_17_55_32.mp4)
 
 #### Comments (16)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 04, 2025 06:34am): ww
@@ -1181,7 +1181,7 @@
 
 <p>YouTube: <a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=oWk54O7s9Qs">https://www.youtube.com/watch?v=oWk54O7s9Qs</a></p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/873f011812cafeb8d3a0098fd6fa5718/Shell_Ranked_Collab_X_1v1_Tournament.mp4?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=J5Dght68sNTSJc7G2PeNT0coMdyeg2%2FiRr5R5YU4jY7xJAtaJ8O0ax5%2BxC9wgplnYYDxH0desSA35SNiyusHV43OagplQ0yP28xWTv35e5H8b9ShcJe0PYPXMCqbfdeMMjS3%2BWOR3qG4r%2F%2BHfRId9b9wlvMoJ%2FZu1l%2BQdJZcQUI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F873f011812cafeb8d3a0098fd6fa5718%2FShell_Ranked_Collab_X_1v1_Tournament.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/873f011812cafeb8d3a0098fd6fa5718/Shell_Ranked_Collab_X_1v1_Tournament.mp4?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KH9h2SgRwUBUuWauEugb5H6nEBAy9%2F77OFt9bajsULKeWOy5tt4H24PAsYX%2Fa1XNxybIOoPuPpX2zO23oFUDgZ4X5zLkS%2FvUnovbTH3aOgzrCOybGSY4KX9xnoXEqLo2uhF4ZbiUC%2FDf8nRHfb6knTVMDEQJ2PY30puxOKVxdA0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F873f011812cafeb8d3a0098fd6fa5718%2FShell_Ranked_Collab_X_1v1_Tournament.mp4)
 
 #### Additional Information
 - **Post color:** White
@@ -1211,7 +1211,7 @@
 - **taba** (Aug 07, 2025 09:56am): くさ
 
 #### Reactions
-- **Number of likes:** 3
+- **Emojis:** ❤️ (3)
 
 #### Additional Information
 - **Post color:** White
@@ -1224,10 +1224,10 @@
 
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/935db3c32cd5b4cb88ac90bc9453cb2e/image.png?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DyRjSp5zdJJe1%2FhjRuDcleDWiMBK8P8iRAEs%2FjvrIv%2FPGhS0kcpOWDafrzX%2F73BdBC9QkXl3JGJ7kjqc3QgiTipNxA79dz2%2FiSfUt8vehqqlr2inS9IJ1mfue5VaEgYqA3%2Flarvc0stUQHeuHvNfC4RfPpDDYhmEqnOPuTTcRS4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F935db3c32cd5b4cb88ac90bc9453cb2e%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/935db3c32cd5b4cb88ac90bc9453cb2e/image.png?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BV%2B%2BFu9%2BKL4fQcDUIpbwcVSC%2BiQXWQHOmZJMYQzs96zOUhXtfHywhOhYOk3yMxVi6uE5D6mKodN8mrxPkryBxvXTo903fYoBJyNBfXGIERXNs1QwjYygJ%2F5UkjQEEMh7QsOLZLqHTfNbQ9vn5RyY0o4r454P5COj4XcQ0X%2FXkKc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F935db3c32cd5b4cb88ac90bc9453cb2e%2Fimage.png)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1239,7 +1239,7 @@
 ### 13. Zaxonius stampっていうcode当たって俺持ってるから抽選で誰かにあげようと思ってるんだけどそもそも欲しい人いる？
 **Author:** taba (nova82812397)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3346092100/816d0d105e69300c3257cacffc1dc1dd/Zaxonius_Stamp.webp?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wGPq6bA7rVXjb8hlmxBzYtziHCHE9D2w2DuzR3J346RI68mfNAnkwpuT3HvR%2FfpTNc3FHRjpqv1OjwrwSKPoxvWXggHcU96SGj1%2FlYuTB91y4l3qwM7fF7UYiiTgnQjtCtb%2FPsJc7hSntsfKjamx6nG4QTcYO1y%2BQPdHm5Kyau8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3346092100%2F816d0d105e69300c3257cacffc1dc1dd%2FZaxonius_Stamp.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3346092100/816d0d105e69300c3257cacffc1dc1dd/Zaxonius_Stamp.webp?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Fsowi5xnu8WoPgnGNjj6YGR5kd%2BntoGMHt79iW2N9B5EOzBAbtHP7%2BLW9pTGWZlYtMBDDNkKQ9KoPVqyDhm8uozIJvOKnps2cC1yXlNX7yTnVek8%2BsNhrqNKhLU%2BThrYSs7sNbS8MysUyPKh%2F2sGik9UKun5D60eYf%2FQ6WY9Svc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3346092100%2F816d0d105e69300c3257cacffc1dc1dd%2FZaxonius_Stamp.webp)
 
 #### Comments (3)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Aug 03, 2025 03:13am): くれええええええええええ
@@ -1263,7 +1263,7 @@
 - **さくべー** (Jul 27, 2025 02:32pm): 被害状況用に残しとくね
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1288,7 +1288,7 @@
 - **さくべー** (Jul 27, 2025 02:24pm): でも多分そいつ自分のクレカとかで課金してるから何ら関係ないっていうｗ
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1308,7 +1308,7 @@
 - **削除済みユーザー** (Aug 05, 2025 06:09pm): 対面鬼強いな
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1330,7 +1330,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jun 23, 2025 02:23pm): うん
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1348,7 +1348,7 @@
 - **ねぎとろ？** (Jun 12, 2025 08:54am): 間違えてbanしちゃった件について
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1383,7 +1383,7 @@
 - **たば** (Jun 21, 2025 07:54am): やってるよ
 
 #### Reactions
-- **Number of likes:** 3
+- **Emojis:** ❤️ (3)
 
 #### Additional Information
 - **Post color:** White
@@ -1402,7 +1402,7 @@
 - **shirokuma_kun** (Jun 05, 2025 11:03pm): またはhttps://c.kuku.lu/zzh7pekg卵チャットで
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Green
@@ -1418,7 +1418,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jun 01, 2025 12:18am): 一応解決した
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1434,7 +1434,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jun 01, 2025 12:35am): aiueo
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1559,7 +1559,7 @@
 - **yura yura** (Mar 17, 2025 06:10am): 👍
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1578,7 +1578,7 @@
 - **サユ(SAYUTR_)** (Mar 04, 2025 08:53am): ok
 
 #### Reactions
-- **Number of likes:** 4
+- **Emojis:** ❤️ (4)
 
 #### Additional Information
 - **Post color:** Red
@@ -1592,7 +1592,7 @@
 
 <p>規制されたくないのでURL消すのと</p><p>あと宣伝で身バレしたくないので</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/810de6256bcca593c429580dc97f10a4/_________.png?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aAz7RpQHRlcbBgUPqwIJtonW6GRyXWkVu2%2BY8yeaSDOFFzSL0ADKqgeB0Bh6%2Fd%2F44VUdLEZnnj3srSkB%2BlWBhHoDsqsa%2Bd8KC%2BNQ5uaziq0Al2apo%2Fu2xsnGZAkqBJVApSppzcLSAM3QGupVS%2Bx5ScyleE8A%2Bw0DrNHtPzhocEg%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F810de6256bcca593c429580dc97f10a4%2F_________.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/810de6256bcca593c429580dc97f10a4/_________.png?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=COTPpdBdqdm8R%2B9PSX57yNd3Qsc2GpJnkfeeojtI1mNw6lEc8fpRzkqzQzvMp0u13nCKOOKTnxpP6Btrx50VuxckSHjL2Fi5UCtWVj3YGvqd%2BchKvXQ3UcwozOajozPo7cpr1wbmt0WT%2Bhn2BmzRL3z2P0VGf%2BzO%2FrClSIDIEMA%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F810de6256bcca593c429580dc97f10a4%2F_________.png)
 
 #### Additional Information
 - **Post color:** White
@@ -1604,7 +1604,7 @@
 ### 34. 学パソ民です、KDRください
 **Author:** 典型的なこきです (kokkiEX)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/805c64e6e3993e48a7781b1c604093a9/Screenshot_2024_04_14_21_14_48.png?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vwGVMrJZgQ7sRXwoZog6TcKWxKOaG4DuouJIssdG69cRLI55kBrTZtGSfCthyYobeYkgXM3IioBPbEDsQPTTRdV7gWnJSGGk5dADOXIv997raKk0CL78YEXYB1l2G05310EbBA0vTd9pXZAcKFa0SRPIYBBzS5FgShhsUU%2BLrjA%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F805c64e6e3993e48a7781b1c604093a9%2FScreenshot_2024_04_14_21_14_48.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/805c64e6e3993e48a7781b1c604093a9/Screenshot_2024_04_14_21_14_48.png?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QN5dYrtTgt1AZ%2BKX%2BVafZAwjSL6sE%2Bx0SkWwtq7UkcUBLF3gLZ56sMfEPKkl2JHGILkfPcnNTwSQA7Q6lq03MOK9NtlxBmW%2BJrHxOsb3LxBRobee4CycRezg56Wi13aHhGoG7pxzou%2FH8hNqhUBHsznwpNeTd9syOdavCIgRaPo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F805c64e6e3993e48a7781b1c604093a9%2FScreenshot_2024_04_14_21_14_48.png)
 
 #### Comments (3)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 03, 2025 01:17pm): 去年の4月のやつやw
@@ -1621,7 +1621,7 @@
 ### 35. テンプモンキー消えた
 **Author:** 典型的なこきです (kokkiEX)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/249218cc18f0b0543b6bce64ae387603/__________2025_03_03_221104.png?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IMzkGYJf5oC7%2Bu2SU7s5yDzZ%2BvlzH%2FPZ%2BXnsl2z7m8aUZxnaE471LVuZfSvP3p%2Fx3MUAlmZnnn5kwlyWlQlHWvA1pQ3JogIEsfo1DcQdOobcnBJGQcdr2XNzhS1UBj7BA8Kh08Xt7pnfg6cxRe%2FWvaC6j3PObTuPTw1QIeqOn44%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F249218cc18f0b0543b6bce64ae387603%2F__________2025_03_03_221104.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/249218cc18f0b0543b6bce64ae387603/__________2025_03_03_221104.png?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LnZzkwQuRUaOZaxX29TmRpls2UTKaNBF73H9bV93AO5zvF9FlU6hKMP6eb8P%2BfaPGmiHmkN8E%2FJi8WcL5FN5WqYzfihmD6HvsUN9OelqxiNDOlWn8xL7JlGod7iJ4vnuWSpUX7tClq%2BL%2B5Wr3uC1Vd5j45P1mV65Sc3%2FlmIVQCs%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F249218cc18f0b0543b6bce64ae387603%2F__________2025_03_03_221104.png)
 
 #### Comments (8)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 03, 2025 01:12pm): あらら
@@ -1728,7 +1728,7 @@
 ### 40. FIRE DRAGON
 **Author:** サユ(SAYUTR_) (KAZAMA_IROHA)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/d00f63206c172dd679f11429afd340b6/Screenshot_2025_02_24_09_54_49.png?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mt7UM6uymiW1X4x0XHO%2BpUeaxl6TR908dmbgmzJ7VhG1YapzuakiKjUnzlD%2FhVXvVHPtynSFeiJWzQRexZqjr3gBKPBk0WHs%2Ff4M1pBx9m4DZOA%2FBWK8ya8EKqZfilZwSJ1rfsZ80dXysKhNuk6tqGs43FRJjbe9urkf7oCA4MY%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2Fd00f63206c172dd679f11429afd340b6%2FScreenshot_2025_02_24_09_54_49.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/d00f63206c172dd679f11429afd340b6/Screenshot_2025_02_24_09_54_49.png?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xKyjDsjhrXKIIEROkdS8I9KY79ezYDlFo4gcboVwdBirrYDQBQVzG4w6xdcYebjXLAG8wtVm4xqpwOcAdiiKcXTcWFtW2%2FHCs4oKe9OpqJ04AueCCFViM1nLUVKWwjPinCtVhcpAKksIp8Yg8qESSHAZ5IdBn6oFO15J2Hhxuq0%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2Fd00f63206c172dd679f11429afd340b6%2FScreenshot_2025_02_24_09_54_49.png)
 
 #### Additional Information
 - **Post color:** White
@@ -1740,7 +1740,7 @@
 ### 41. この服とかってどうやってゲットすんの
 **Author:** サユ(SAYUTR_) (KAZAMA_IROHA)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/8ad812230c565abf34dc9cf7e1f76b1d/image.png?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fSsjl0gQwRx2d7OfNipuaXF8DwxopkDGLBkdNpMZA7gvsPAGiDQ9l%2BLzbZM%2BgbTJxWvp6wBuTOhV90JqryRT4HYBEPul9QdBK0MyfLekSL%2FG4wicFzxN%2Fyh5M72OyIVPm%2BT6zjjyxZ23GzczQiPLp6DGhyubFa%2FY5ZblaHrLatU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F8ad812230c565abf34dc9cf7e1f76b1d%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/8ad812230c565abf34dc9cf7e1f76b1d/image.png?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6SMwmpMjF0cbjpP8FmjA45ZLUy014UQLjPVIwcCmL9%2BJmMOCZtbRsFnSMgBa%2Fbj8yrnxjrGEi1xDN0%2FkPPjEDmPSlnDMxYQfRz6hNFQN%2Bgbm692ctdIunkOonFmIW604CL%2F4v1uKwkSzZy1BfbPGqKisZ%2BIFBTY4ipJsP%2FTn2IY%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F8ad812230c565abf34dc9cf7e1f76b1d%2Fimage.png)
 
 #### Comments (11)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 23, 2025 09:11am): 左にのってるMerc Zone Final Giftってやつ
@@ -1771,7 +1771,7 @@
 - **その他:** 2 votes
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -1821,7 +1821,7 @@
 - **キーマ** (Mar 03, 2025 01:31pm): 自分で調べな
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1833,7 +1833,7 @@
 ### 46. プレミアムのピストルでた　課金のやつ？
 **Author:** 近所のクソガキ (021932198413289034)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3384299668/ee86fe712cf168eadca0a3f1294b6fad/Screenshot_2025_02_12_09_10_05.png?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=i8tXGH1MQwLah4KLx0k2P1UMhP9hBMOHAVQY1hcFU9%2BfhMMGTxmYXX7f1P9J%2FPJUE2L78R9%2BxCvFhDiA7aNYTOSabNY3RfuuBDrEQjywPrzSC7AbIGX%2Bdr4%2BrAq86YKyvXAzuDdaWBa%2BzObhXseGiHqjQjkQufGrDK77c%2FJBPWo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3384299668%2Fee86fe712cf168eadca0a3f1294b6fad%2FScreenshot_2025_02_12_09_10_05.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3384299668/ee86fe712cf168eadca0a3f1294b6fad/Screenshot_2025_02_12_09_10_05.png?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5p8xjgowQdkCvjVtN77KZ7WaLjZ3Ju9IdDMAv0gHuFLYvWAxnV2clo0HiaGs6T05KptwXalvjuXBIr9sbIm%2BVw2Iem01AtzHNBl4U2ReEWTu3Lx4U4OAcOCcOvt2ErsiBi8YtYRr800Idgf%2BK5%2FH7nwKop%2BD%2FoTUmRnCEs9lgi4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3384299668%2Fee86fe712cf168eadca0a3f1294b6fad%2FScreenshot_2025_02_12_09_10_05.png)
 
 #### Comments (1)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 12, 2025 03:32am): 課金では無い
@@ -1896,7 +1896,7 @@
 ### 49. でたーでたでたぁ
 **Author:** サユ(SAYUTR_) (KAZAMA_IROHA)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/47078a830e5bd9d4f567e9db88080a52/Screenshot_2025_02_01_07_06_39.png?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=t2H7lFinvJWym7FQecmx1S7uFT4645vDwtm0eHfASkierJiLUtooWRrFrx6wEx1q8e%2B%2FEtdPy85XN%2FPL%2Fo7Yb03K80FMjGX37UZHFxJHzAXc%2FiKT72zz6S%2BPQ8lDazHZKUN%2BIlifKTquqSCna%2FMifV7S%2B2DQoWQZKBlkYoMwPIo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F47078a830e5bd9d4f567e9db88080a52%2FScreenshot_2025_02_01_07_06_39.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/47078a830e5bd9d4f567e9db88080a52/Screenshot_2025_02_01_07_06_39.png?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mYHgTw%2Bah8XAfwLupxNdn8uZ7Nb5qkozSGp0x0CBtGN3QO2%2FZzd33BAGkYCruVMY1F%2FI%2FquAHAAqvtnv2q9jeH88ELW9sycxErVl0UyY%2F5AdB6DR1mvJYJYEdr5BhsJeJQUIXXJHSwfq%2BihcIeGtUgNcLQBHHVKybBb4ZvN7OUo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F47078a830e5bd9d4f567e9db88080a52%2FScreenshot_2025_02_01_07_06_39.png)
 
 #### Comments (1)
 - **近所のクソガキ** (Feb 11, 2025 12:24am): いいなああ
@@ -1928,7 +1928,7 @@
 ### 51. 規制解除の何かsiteある〜〜？
 **Author:** 近所のクソガキ (021932198413289034)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3384299668/203bae3e8bdfdd53240ad5fd4c3f5bba/89aeb4f3f2203f40775473af4e13c718.gif?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=f5bb7AeNaVttZJm1nSNeIjixLT7FblyRyDU0RwH03dHoKCHhfHf1RO1NoGqh%2Fv7NZrW2JMyHRp58ddkaksj5iOjIRwSLxocFt6EqZORZssu%2BygON2kKRYfK1rioQGY2KKQZJyJFhh3gCbGN80XrW3WgbHToKMZ5pV5inB1amUXU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3384299668%2F203bae3e8bdfdd53240ad5fd4c3f5bba%2F89aeb4f3f2203f40775473af4e13c718.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3384299668/203bae3e8bdfdd53240ad5fd4c3f5bba/89aeb4f3f2203f40775473af4e13c718.gif?Expires=1778198042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aGt0sc03u%2FN0%2Bbu4XkWGK%2FYDD5u1CK29m52HYII5xXes%2BXJbyPKVBniGPHRWXkc%2FXSlwo75wSjDM8CxM5jnS7Vd%2Bi3iDcnT%2FtDOZ9jeu9YiVg6Me%2F0If8YzDSFKF8aEmhCdCZ%2F0Ldols5q%2BRBc%2BNubN6u04djHM5vkNg5N6GWr4%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3384299668%2F203bae3e8bdfdd53240ad5fd4c3f5bba%2F89aeb4f3f2203f40775473af4e13c718.gif)
 
 #### Comments (5)
 - **近所のクソガキ** (Feb 10, 2025 11:51am): あと、コードってどうやって自分で作るの？
@@ -1989,7 +1989,7 @@
 - **gattyan** (Feb 10, 2025 12:19pm): 白蛇もらえた！！m(_ _)mｱﾘｶﾞﾄ
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2256,7 +2256,7 @@
 **Author:** あるぜ (kunshelllove123)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2294,7 +2294,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 19, 2024 08:38am): https://historicreview.com/
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2314,7 +2314,7 @@
 - **rido_k4mo** (Dec 08, 2024 02:56pm): どうなった？
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2326,7 +2326,7 @@
 ### 74. Post 74
 **Author:** rido_k4mo (rido_kamo)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2499250589/651351c690ab9f6d9aaffeb81a4c35c3/Screenshot_2024_12_05_00_14_42.png?Expires=1778194446&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QRE6VW3uaU9e5PcTK1E6CUg09E87desILscjoaCD0PMz8S4oxUcLj1E5oGqBgOYot0hDnrLUg7EsF50ls9VA7EWteUHm8IVrRio1IcpYMwvZONmy7B65%2FBxGHhFaTvSkQ0lswwjNvQ9a5i2%2B5vRK48zJwLTNHKEQg4gDloVZlEg%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2499250589%2F651351c690ab9f6d9aaffeb81a4c35c3%2FScreenshot_2024_12_05_00_14_42.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2499250589/651351c690ab9f6d9aaffeb81a4c35c3/Screenshot_2024_12_05_00_14_42.png?Expires=1778198043&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kqj2vfFaSGk5OJVyeC5yDwa1%2BmFgtkDg9ZmXbdLu6qjJF95k9IvOIKsR8SE9yhqjiTHwWUL9MUyEwjmwhszO0cCyF16igWGaVotNUt19UqhJxmvf%2Bg1jpvrun1W1gI5IPUcpKFk0sSQcWHMMfgaEwrDRVTEsVLxYYBM4YbBv2cY%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2499250589%2F651351c690ab9f6d9aaffeb81a4c35c3%2FScreenshot_2024_12_05_00_14_42.png)
 
 #### Comments (3)
 - **rido_k4mo** (Dec 04, 2024 03:16pm): captula the なんとかのやつのkdrってどうなん？
@@ -2334,7 +2334,7 @@
 - **꧁最弱だよ〜꧂** (Dec 04, 2024 10:31pm): すげ
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2399,7 +2399,7 @@
 <p>shell shockersの名前はひろと(鶏潰し)かデッドプールです</p>
 
 #### Reactions
-- **Number of likes:** 3
+- **Emojis:** ❤️ (3)
 
 #### Additional Information
 - **Post color:** White
@@ -2469,7 +2469,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jul 12, 2024 12:50pm): 行けた？
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2489,7 +2489,7 @@
 - **rido_k4mo** (Jul 06, 2024 10:30am): 上のサイトに飛んだら、85175でログインする。そしたらユーチューブ見れるよ
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -2507,7 +2507,7 @@
 - **Anonymous** (Jul 27, 2024 01:01pm): してもいいけどアカウントないと…
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -2555,7 +2555,7 @@
 - **rido_k4mo** (Jun 03, 2024 07:27am): うん
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2569,10 +2569,10 @@
 
 <p>親に切られた</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/3d648e3fbc31ac845255327234d9cba9/Screenshot_2024_04_30_21_37_28.png?Expires=1778194447&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dLzzgzpcQbBxHXZGR%2Fx0gYddk05Ssv8j2JqsirtKeCcQaY28wskKOUdRb0T%2FxcdK9uf6wxXzxdGCtO8upHO5%2FYt4%2Bdq%2BTJDsBSIwFDljpWNyx90tOUB%2F9foJhEMKqXzZMTvNDKb45D8Q8j7z53o48DQFjWngjk3febYgcghmYMQ%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F3d648e3fbc31ac845255327234d9cba9%2FScreenshot_2024_04_30_21_37_28.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/3d648e3fbc31ac845255327234d9cba9/Screenshot_2024_04_30_21_37_28.png?Expires=1778198043&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GrHk2jaz3HrkviHt3F6jrVucsyk24iq3QRYuZgnCYGseuuihanrEK5TGqFP5WREyHYDOs0lKciGp18GoxP%2FNmQ0qpVApDD8edCXoAauaSSyJ4OQOemvoeZ27mSwx8fymIOKrZJHiYBtvQNEn5rHdnc%2BAOfrl6muDDgyA1r81sAY%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F3d648e3fbc31ac845255327234d9cba9%2FScreenshot_2024_04_30_21_37_28.png)
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -2601,7 +2601,7 @@
 - **Anonymous** (May 26, 2024 01:05am): 良いねえ
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2663,7 +2663,7 @@
 **Author:** Anonymous
 
 #### Reactions
-- **Number of likes:** 3
+- **Emojis:** ❤️ (3)
 
 #### Additional Information
 - **Post color:** White
@@ -2676,7 +2676,7 @@
 **Author:** Anonymous
 
 #### Reactions
-- **Number of likes:** 4
+- **Emojis:** ❤️ (4)
 
 #### Additional Information
 - **Post color:** White
@@ -2688,13 +2688,13 @@
 ### 95. Eggwalker Crackshot
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/dc25b040c464c23bd6ae5f7125c10141/Screenshot_2024_03_08_12_46_45.png?Expires=1778194447&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kM890N38UHFtLSYeDp%2FR1NudqsGI1s4rciMD%2BlYgm%2BaQg7X0O5y934zC68vsehz6ny%2BEH0iifKwcQUtRkaMAn8egwMZShQoTJmVHT9irr7WTaux6oWvU21w1ZxQZOyfZJAlj599OkYxOOAxzh6BW7GAIglwRDxw6mZ%2FqA9s7uOk%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fdc25b040c464c23bd6ae5f7125c10141%2FScreenshot_2024_03_08_12_46_45.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/dc25b040c464c23bd6ae5f7125c10141/Screenshot_2024_03_08_12_46_45.png?Expires=1778198043&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UjUuhf7JcLo1gPylSDtyp0Sh687vZOnlhgrKgZf6kT14yniXWWrubLn5EyeRNWHwnoSOenRQZpURmzd0lzY1IqNPMqmnRYzU1jUGLuKDVLm0SwQGb16jQSJ%2BjcOm6%2B7wURLE9stLfg%2B2obkylOejctI429DKBi4KBPpYffm7Ujs%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fdc25b040c464c23bd6ae5f7125c10141%2FScreenshot_2024_03_08_12_46_45.png)
 
 #### Comments (1)
 - **Anonymous** (Mar 26, 2024 05:38am): なんでやぁ
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -2712,7 +2712,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2024 02:34am): Yo
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -2730,7 +2730,7 @@
 - **Anonymous** (Mar 13, 2024 09:52am): しんくです
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -2745,7 +2745,7 @@
 [Attachment 1](https://bluewizard.com/subscribe-to-the-new-yolker/)
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -2759,7 +2759,7 @@
 ### 1. Post 1
 **Author:** taba (nova82812397)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3346092100/e7b2dc5f89f01a5cf288eac1e36a24d5/Screenshot_2025_04_09_07_27_58.png?Expires=1778194447&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=C%2FA83RtECFYpRldymx6pozmI0hCyDkksYYxLsNu7b%2BskbcJKLq0z1sFfAeav65F4vu%2BdUtaHQ3GQahc1QrgZHjuk0M0zZDbgGNcsTZc0gRbKk7tAY5sd9tvUzoFa%2BdQgYfZ6a%2BB%2FkF9B6lpL1SumF9qT5H3jsLo8ySNAk%2F9AQpk%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3346092100%2Fe7b2dc5f89f01a5cf288eac1e36a24d5%2FScreenshot_2025_04_09_07_27_58.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3346092100/e7b2dc5f89f01a5cf288eac1e36a24d5/Screenshot_2025_04_09_07_27_58.png?Expires=1778198043&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QuJA0grjTI1oSbJ%2BvMXE50VhEWEhDYOjryY2V5dDemopIKQejQrTRUk3gWmKLkfF3jnhqrwetusZhXd%2Be3LgXvKtPFd3GduVWQOCM70BVKJzeUMQvuf7HxUyJoC2iLSw9nMALRZNAJMtLawp4ZWBr52kQaFE8oM35TjiW2K0%2F80%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3346092100%2Fe7b2dc5f89f01a5cf288eac1e36a24d5%2FScreenshot_2025_04_09_07_27_58.png)
 
 #### Comments (7)
 - **ᏁγᎶ » Tøka_Kuŋ_** (May 01, 2025 11:25pm): F*ck
@@ -2771,7 +2771,7 @@
 - **taba** (Mar 16, 2026 11:14am): 死んだ
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2785,13 +2785,13 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.twitch.tv/itshazmatt/clip/GlutenFreeCoweringElephantNotLikeThis-Sg3k17KOZnNLFXmy">https://www.twitch.tv/itshazmatt/clip/GlutenFreeCoweringElephantNotLikeThis-Sg3k17KOZnNLFXmy</a></p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/835d795a7f2deeb04bd54975a6468ee9/20250331_GlutenFreeCoweringElephantNotLikeThis_Sg3k17KOZnNLFXmy_source.mp4?Expires=1778194447&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AKsbC6Rqep%2Fo35oOfJXokMR9gFGfg%2BdqQSvuy5WlxWjbadb3leff9%2F8E78NbVsExRHzkL4uOV%2BB1GGZ36B3k3%2Fkg2hX8aLx5X2WnMKP%2FC%2FnWuF4OoG%2FlgnuKu7ZSbnQ8iSTCCMmOs0qTiMATRHC1sp5OFAyKELbxkaXG9FcirNU%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F835d795a7f2deeb04bd54975a6468ee9%2F20250331_GlutenFreeCoweringElephantNotLikeThis_Sg3k17KOZnNLFXmy_source.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/835d795a7f2deeb04bd54975a6468ee9/20250331_GlutenFreeCoweringElephantNotLikeThis_Sg3k17KOZnNLFXmy_source.mp4?Expires=1778198043&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Gl485b%2Bbus0TiRS%2FxODQH0yDna4O%2FUWxr7EW2s4U5kJfXdQrRlaZeOGee6Pba5UP%2BgZ%2BsVve8xx5k%2FJn%2B%2BdHfx87oFTkRmfGSmE2cENGIj3%2Fc%2BpDYc081tlsJQtG3iSr0HVOEra%2B1%2B1UA5SkKjOhVH55puHS3NN6jN%2BUUGMpLiA%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F835d795a7f2deeb04bd54975a6468ee9%2F20250331_GlutenFreeCoweringElephantNotLikeThis_Sg3k17KOZnNLFXmy_source.mp4)
 
 #### Comments (1)
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Jun 06, 2025 12:15am): おお
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Red
@@ -2808,7 +2808,7 @@
 [Attachment 1](https://v.kuku.lu/dee3b4f3da)
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Red
@@ -2823,7 +2823,7 @@
 [Attachment 1](https://v.kuku.lu/bdbf8a3adf)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -2838,7 +2838,7 @@
 <p><strong>➥ ファイルなうで視聴</strong></p><p><a rel="noopener noreferrer nofollow" href="https://d.kuku.lu/sbe3wmn8h">https://d.kuku.lu/sbe3wmn8h</a></p><p><strong>➥ Canvaで視聴</strong></p><p><a rel="noopener noreferrer nofollow" href="https://www.canva.com/design/DAGhBo62-w4/p3ooCzqV24Lan3uQ2aN_Sw/watch">https://www.canva.com/design/DAGhBo62-w4/p3ooCzqV24Lan3uQ2aN_Sw/watch</a></p>
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Red
@@ -2858,7 +2858,7 @@
 - **yura yura** (Mar 08, 2025 01:42pm): 普通にうまい
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Red
@@ -2882,7 +2882,7 @@
 ### 8. Post 8
 **Author:** サユ(SAYUTR_) (KAZAMA_IROHA)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/58d5f012bdaf8816ac285b7af0fd93d3/Screen_recording_2025_02_24_09_10_53.webm?Expires=1778194447&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hMGB%2FTpVbBI%2FwUbV5i%2BwZSGXphPbEOHtxIrUzKQUpkZjurJTEGMCmJxyEe76R73MeYk5HQQc1xCAaXHX32c4tA4wbXuiEC2MqkKE7hMSKkBLxfvcdCFV7rCF0F3mtzPRbGBCf%2FwyotLNIZ4LX0ozazsP8ZPGeWPWRD1lkYkPqIM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F58d5f012bdaf8816ac285b7af0fd93d3%2FScreen_recording_2025_02_24_09_10_53.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/58d5f012bdaf8816ac285b7af0fd93d3/Screen_recording_2025_02_24_09_10_53.webm?Expires=1778198043&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ap4PO%2BJPyQHTm10Qr5OmpVEMn92My4v7UJTKMt2R0oizp%2FTEH7dtNY2kOMcOS%2FfHgy3hKUYT0ccOUk8xWG4qherwiP9zEnH52ynczaKe9sUFJ48h9anoafyTj%2Fn%2F7vYIyNdeuHa6rv3QuHikVCfCWdNtriaCQD22%2BBoB3BYFEFE%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F58d5f012bdaf8816ac285b7af0fd93d3%2FScreen_recording_2025_02_24_09_10_53.webm)
 
 #### Comments (2)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 24, 2025 02:07am): https://v.kuku.lu
@@ -2900,13 +2900,13 @@
 
 <p>fireeeeeeeeeeee</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3332121381/9fa1a1fa0070bff6cdbfe57dc4255d55/91C1225B_6796_4B68_889B_ABF35C1197BB.jpeg?Expires=1778194447&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=udV2b3SKAEDFeMzzyNnHgFvdqNWjqYjDpnjQqGpWNYtW%2FYg9oQHP3%2F0mYAPbo8SqxZcHpI1eYp86DrXpwnNGg2bL%2B8X7ggHPyXy3amqL%2B5e0Nj8%2Bl48rWez27M4nuFXC%2B8Pnn6tsNLQ%2B%2Bs4ZiFGZJN3B0vS1rRSsJMpxGV1G3uM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3332121381%2F9fa1a1fa0070bff6cdbfe57dc4255d55%2F91C1225B_6796_4B68_889B_ABF35C1197BB.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3332121381/9fa1a1fa0070bff6cdbfe57dc4255d55/91C1225B_6796_4B68_889B_ABF35C1197BB.jpeg?Expires=1778198043&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eP01dO3xRhqA1I4ZBI85frSBvtFSIx2pt7JAG0PJRFI3NhbndfYcoySBuXEQ4LgPGpI3M9pWhBgWQLblvhaTBB%2FdmyN8jQ1Q92QlSXbn2wf8WGT9ytiHbHuA2x0HC762Y9nAAj3%2FRtqKVjxxNosgaWwb79Boyug865yXAmqMmVw%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3332121381%2F9fa1a1fa0070bff6cdbfe57dc4255d55%2F91C1225B_6796_4B68_889B_ABF35C1197BB.jpeg)
 
 #### Comments (1)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 06, 2025 12:58pm): :o
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -2921,7 +2921,7 @@
 [Attachment 1](https://v.kuku.lu/c08413beca)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -2933,7 +2933,7 @@
 ### 11. ｶｼｬｯ📸
 **Author:** taba
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3299828264/2689fdd874b40202ffc7185abac18e08/Screenshot_2025_01_22_22_59_03.png?Expires=1778194447&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LRbBbjA3WrvxHqiDx2JzGZN8LJ0OpcFURQSKM9Sj1kTUOB72ORIMi0rhp2KSLQbrjIhTZUqKhvvZyOI%2Fhg8ow8xsXQI7JnqxPWgsmLr6enQZ9tz5kizrHCqjfK5OBJnz%2FLZvYU6FWlkuHeOk%2FqB7TGwPWa60uXrWepk0VQeEJyo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3299828264%2F2689fdd874b40202ffc7185abac18e08%2FScreenshot_2025_01_22_22_59_03.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3299828264/2689fdd874b40202ffc7185abac18e08/Screenshot_2025_01_22_22_59_03.png?Expires=1778198043&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fdlTMX8mmFzO1WII7ydqk8oOuotPcKLsOg3aWj8xSQ5NQp%2BHtLegbIqjrnfZb5Pt6kys82R%2BSM1U7cs1CeRYAGgQmXugepjemnIT6zm40LzqoC%2Fxuv9YV9lSfbZqQkDkJ2b59mAR%2FDgS%2BG%2FnzjJ%2Fb364AI3erDRvJs5Ajyq%2F7cE%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3299828264%2F2689fdd874b40202ffc7185abac18e08%2FScreenshot_2025_01_22_22_59_03.png)
 
 #### Comments (3)
 - **yurayura** (Jan 23, 2025 06:49am): おおすぎ
@@ -2941,7 +2941,7 @@
 - **OBUTAMAなんよ** (Mar 03, 2025 01:39pm): (・∀・)ｲｲﾈ!!
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -3013,10 +3013,10 @@
 ### 17. いぇい
 **Author:** 削除済みユーザー
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2178111101/7f90a7df5e4f7da591dedf606127e234/Screenshot_2024_09_09_22_01_06.png?Expires=1778194447&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JXNKXuEJRBNVMICN9QD%2BzRwwoLkO30nnnpooBD7pfsbkVcPkcFLyYmkmxijfxf7FRad9I38exe2zuhEgxQTfqYo%2FL0XjdS0i7h3PP3TDce9%2B9Yd5ExJ1wUIO3IpYML8kL17q8kkitTmUOByy5lt7GJXNyQRTvzPPeysfDeqrJqM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2178111101%2F7f90a7df5e4f7da591dedf606127e234%2FScreenshot_2024_09_09_22_01_06.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2178111101/7f90a7df5e4f7da591dedf606127e234/Screenshot_2024_09_09_22_01_06.png?Expires=1778198043&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JgkLw9mDOsjVLLUG4rtL%2BmXERgwP50yhzuewH9VASoLE5LfexUjbp9vqwNXOKG06B%2B0zHNKfbA2OGzTajd%2FxiCqiqRhe5zUjxZaub70nTOAwDaTSmBxe0VrVHCo2%2BX4HTxs4SE9pZQLn%2BglWRbIyqWbtzdUYF4TDrQOVTX6ur6U%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2178111101%2F7f90a7df5e4f7da591dedf606127e234%2FScreenshot_2024_09_09_22_01_06.png)
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -3048,7 +3048,7 @@
 - **kyupiadao** (May 19, 2024 10:01am): すごw
 
 #### Reactions
-- **Number of likes:** 5
+- **Emojis:** ❤️ (5)
 
 #### Additional Information
 - **Post color:** White
@@ -3062,10 +3062,10 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.twitch.tv/the_rogue_contractor/clip/AgreeableDistinctAmazonBCouch-D9NzNlfJFLTwvKud">https://www.twitch.tv/the_rogue_contractor/clip/AgreeableDistinctAmazonBCouch-D9NzNlfJFLTwvKud</a></p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/f2e6b9892a61af4d6dffdbc1dfdb0ed9/Mid_Air_on_Rogue.mp4?Expires=1778194447&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MQD7HwWiJV8mDWzzyuOMBU8VowROObpSne%2BNCsGr074LJ1Y1XPmlvpYBkKQKXho7XZnRSFB9UeJm9nxktnTYqZ671i8l89MC3tQZp7Ro723UpxyQTSktWuQOqOyET1jO6dhYPF4tbLguXi%2FwWYBvMqs9mBeBFQ7yDGtfMj9JYPw%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Ff2e6b9892a61af4d6dffdbc1dfdb0ed9%2FMid_Air_on_Rogue.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/f2e6b9892a61af4d6dffdbc1dfdb0ed9/Mid_Air_on_Rogue.mp4?Expires=1778198043&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uUeDzFAX%2FXd%2Fb%2BZUBaD2Dg5bMVPdFwf%2BvuH8WnFcPHicr%2FMpvcVOYjXmkd1QKm4EBpJ0v81Ne%2B5Npp3VPu8aJqLQdeAJ2ktoDkmpc9ZCssNPLNnOa%2F5z3Kac%2BpnCjuv9r4gzhfElQXKZhwXHnQwj0jW07KqoTt2cU8bt7itYpio%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Ff2e6b9892a61af4d6dffdbc1dfdb0ed9%2FMid_Air_on_Rogue.mp4)
 
 #### Reactions
-- **Number of likes:** 6
+- **Emojis:** ❤️ (6)
 
 #### Additional Information
 - **Post color:** White
@@ -3084,7 +3084,7 @@
 - **杉山力斗** (May 08, 2024 06:48am): 空耳でしょうか？
 
 #### Reactions
-- **Number of likes:** 7
+- **Emojis:** ❤️ (7)
 
 #### Additional Information
 - **Post color:** White
@@ -3104,7 +3104,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 07, 2024 02:36am): おおw
 
 #### Reactions
-- **Number of likes:** 4
+- **Emojis:** ❤️ (4)
 
 #### Additional Information
 - **Post color:** White
@@ -3118,10 +3118,10 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.twitch.tv/lucigamezdreams/clip/ImportantSuccessfulLocustPunchTrees-daTJ3eDPqZTZZuz9">https://www.twitch.tv/lucigamezdreams/clip/ImportantSuccessfulLocustPunchTrees-daTJ3eDPqZTZZuz9</a></p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/effa0d3e15ba9c096f71afc7d7f82ff1/Luci_360_d_me.mp4?Expires=1778194447&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TtDnjuOiirxMBLUmVt5%2FPphpzQ3duMUF62SP9xxevf5qj8y7OuefMMI4jVHIojjxEQrPvvndHBUWt0Kygxfmfu9gQdDlGVvrgVMicboomph8FLJXewEJCdFjVq2b9tM%2FCt%2FE02qGOswI2A%2BgidAkzRuPda09E5zexY1Ms1iHevY%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Feffa0d3e15ba9c096f71afc7d7f82ff1%2FLuci_360_d_me.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/effa0d3e15ba9c096f71afc7d7f82ff1/Luci_360_d_me.mp4?Expires=1778198043&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Jmu8lVDm7BGMd5lEtzT768T7z%2Bd2yZNFzYWuxWuCK0v30nIoa31tiq9i0zFou61QV8%2FAGluCm0Bl7Mr52O%2B6sQmjwQDZFMSzBlybyfdZ2T4SEPiJAx2iWGOdXMV%2FQk9UU8reAF4Uz4N8K4mM%2BsdkrtQEApmqU9%2Fe0NRSNq%2B%2BYrM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Feffa0d3e15ba9c096f71afc7d7f82ff1%2FLuci_360_d_me.mp4)
 
 #### Reactions
-- **Number of likes:** 5
+- **Emojis:** ❤️ (5)
 
 #### Additional Information
 - **Post color:** White
@@ -3135,10 +3135,10 @@
 
 <p>The Spatula Fell Off The Map | Shell Shockers</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/a13eee3fc00afb556720dfcef27120e5/video__2_.webm?Expires=1778194447&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=J8LiSjbHvw8pEQBkPHdQKS4PrUwUrxbAT%2Fk1U4i3DB1xNUB7QVQ4McT3AuNTKiO0VzQKgy16rVNOlbCi4E1YFrW5n%2BLdwZ1T%2F98z3RWbnei6yJ%2F8KQq8QvQN8eyYyh2QLbmv4zghEXrKkJPEMLVCJmN5DPJPRMAbbTYcBYfIceo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fa13eee3fc00afb556720dfcef27120e5%2Fvideo__2_.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/a13eee3fc00afb556720dfcef27120e5/video__2_.webm?Expires=1778198043&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2mQr802peZaIPkPmwNK3ZkF1SapEz6GMFI%2FtkFh%2FzrjXhLQLww7ywBskroY%2BYBGbGQJfycK9czcPBUCeIuywz%2F5OLE9fHaxRlbP1gUHvuKbYhzWqOfuf01Jgaq4z%2BsknkxfulrO4xYNm7FZHi%2BxHG6WdxI840srUpQMsoJoPisM%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fa13eee3fc00afb556720dfcef27120e5%2Fvideo__2_.webm)
 
 #### Reactions
-- **Number of likes:** 5
+- **Emojis:** ❤️ (5)
 
 #### Additional Information
 - **Post color:** Red
@@ -3152,10 +3152,10 @@
 
 <p>Rogue Forgot To Reload :P | Shell Shockers</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/580841c5af4742d22bdbbfd42d6df517/video.webm?Expires=1778194447&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MhueWL7Hooj2zsrZSB8oKBesKYvBDP7BCJZf9xdoy%2FgDHF0nAuhGTOU5Z3QSpgOG%2Bi8ublf64k1UfR%2BUSYU1Wv9s7qSFH1nDApUm9x7weJDFBZ3%2B1VqvvR0iYQqMq1GEjMY06V07MJ9xqu%2BDhJqInQRMy2Oq0WCJRHtbJFglHM0%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F580841c5af4742d22bdbbfd42d6df517%2Fvideo.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/580841c5af4742d22bdbbfd42d6df517/video.webm?Expires=1778198043&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=G%2BzaaadcxDWT7BDJn%2BIO5lY%2BFFS3PZTHeXmALGhpnbx4ygQmpjstQ9jQGeRJJBV44LNf394id3bS%2BGx3%2FBUnBXmUGKYSwlMEG3%2FswTRspuC%2F4%2F4c0lWSDKuD3s%2FkU7mh%2Fy7RaOEqcT9%2FHFw%2FCTj7p7EXdAasIZTVwQBbNiYMSCc%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F580841c5af4742d22bdbbfd42d6df517%2Fvideo.webm)
 
 #### Reactions
-- **Number of likes:** 5
+- **Emojis:** ❤️ (5)
 
 #### Additional Information
 - **Post color:** Red
@@ -3174,7 +3174,7 @@
 ![Attachment 1](https://c.kuku.lu/stamp/proxy.php?url_base64=aHR0cHM6Ly9zMy5hcC1ub3J0aGVhc3QtMS1udHQud2FzYWJpc3lzLmNvbS9hazE1MjBkLWZpbGVub3ctMi9maWxlcy8yMDI0MTIxMS0yMjUxXzI0YTQwMjgwM2JiN2RkODczNmI4ODZlZTk2YzA0NDJjLnBuZz90d2l0dGVy&urlkey=2ecc4c72fda8946bdfdc359b2731e335&v=20230809a&dev=fb979f7307287073b8439f47896c5ffd&errorcode=1&cache=&cache=1)
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Red
@@ -3191,7 +3191,7 @@
 <p><strong>2025年4月一回目のアップデートで、パワーアップが来る順番がランダムになりました。</strong></p><p><br/></p><ol><li><p><strong>5 Killstreak - Hard Boiled</strong></p><p>➥ 100シールド</p></li><li><p><strong>10 Killstreak - Egg Breaker</strong></p><p>➥ ダメージ2倍、15秒間続き1Killごとに3秒延長</p></li><li><p><strong>15 Killstreak - Restock</strong></p><p>➥ 弾丸とNade全回復</p></li><li><p><strong>20 Killstreak - Overheal</strong></p><p>➥ HP200、ただし時間が経つほど少なくなる</p></li><li><p><strong>25 Killstreak - Double Eggs</strong></p><p>➥ もらえる卵2倍、15秒間続き1Killごとに3秒延長</p></li><li><p><strong>30 Killstreak - Mini Egg</strong></p><p>➥ 自分が小さくなる、15秒間続き1Killごとに3秒延長</p></li><li><p><strong>35 Killstreak - 何もなし</strong></p></li><li><p><strong>40 Killstreak - Hard Boiled</strong></p><p>➥ また繰り返し</p></li></ol><p><strong>参考動画</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=undOz0GFLF0">https://www.youtube.com/watch?v=undOz0GFLF0</a>（<a rel="noopener noreferrer nofollow" href="https://www.youtube.com/channel/UCxrtQlH7bVQaQlttD_crDVA">僕が好きなYouTuber</a>の動画）</p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=mvR0xmUNebQ">https://www.youtube.com/watch?v=mvR0xmUNebQ</a>（<a rel="noopener noreferrer nofollow" href="https://www.youtube.com/channel/UCxrtQlH7bVQaQlttD_crDVA">僕が好きなYouTuber</a>の動画２）</p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=lzlRegmUQ2s">https://www.youtube.com/watch?v=lzlRegmUQ2s</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=Ls89zWoXghA">https://www.youtube.com/watch?v=Ls89zWoXghA</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=4iw_QgAELUA">https://www.youtube.com/watch?v=4iw_QgAELUA</a></p></li></ul>
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3215,7 +3215,7 @@
 - **1nbyqzaq** (Mar 27, 2026 09:47am): こん⤵️にちは⤴️
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Red
@@ -3258,7 +3258,7 @@
 - **1nbyqzaq** (Mar 27, 2026 09:48am): 全ブロでした
 
 #### Reactions
-- **Number of likes:** 4
+- **Emojis:** ❤️ (4)
 
 #### Additional Information
 - **Post color:** Red
@@ -3282,7 +3282,7 @@
 - **バッタ　#煮物貢献者　#煮物14番弟子　#りおと族37代目　#りおと弟子37番目　#そろそろ引退かも** (Nov 12, 2025 07:46am): html.cafe使えばいけるんじゃね
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Red
@@ -3310,7 +3310,7 @@
 - **Mysterious Shrimp** (Nov 13, 2025 08:15am): それ今はちょっと前に課金で買えたよ
 
 #### Reactions
-- **Number of likes:** 3
+- **Emojis:** ❤️ (3)
 
 #### Additional Information
 - **Post color:** Red
@@ -3339,7 +3339,7 @@
 - **Mysterious Shrimp** (Nov 13, 2025 08:15am): じゃあもうできなくなったてこと？
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3354,7 +3354,7 @@
 <p><strong>➥ Twitch Dropsとは？</strong></p><p>Shell ShockersとTwitchのアカウントを連携させて、Shell Shockersの配信を観ることで報酬が獲得できるイベントのことです。</p><p><strong>➥ やり方</strong></p><ol><li><p><a rel="noopener noreferrer nofollow" href="https://shellshock.io/">shellshock.io</a>からShell Shockersのアカウントにログインする。</p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.twitch.tv/">Twitch</a>のアカウントにログインする。アカウントを持っていなければ登録する。</p></li><li><p><a rel="noopener noreferrer nofollow" href="https://shellshock.io/twitch">shellshock.io/twitch</a>から、「Link to Twitch」という青いボタンを押してShell ShockersとTwitchのアカウントと連携させる。</p></li><li><p>Twitch Drops期間中に<a rel="noopener noreferrer nofollow" href="https://www.twitch.tv/directory/category/shell-shockers">ここ</a>に載っている配信を観る（放置していても可）。</p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.twitch.tv/drops/inventory">ここ</a>から進捗状況を確認できる。</p></li><li><p><a rel="noopener noreferrer nofollow" href="https://d.kuku.lu/ks4xgwtng">こんな感じ</a>で「今すぐ入手」というボタンが出てきたらクリックする。</p></li><li><p>Shell Shockersを開くと獲得できる。</p></li></ol><p><strong>➥ 注意</strong></p><p><a rel="noopener noreferrer nofollow" href="https://shellshock.io/">shellshock.io</a>と<a rel="noopener noreferrer nofollow" href="https://www.twitch.tv/">Twitch</a>がブロックされている場合は不可</p>
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3370,7 +3370,7 @@
 
 <p>裏技かはわからん</p><p>弾が向こうに行かない</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/f954a43441d0e7ced1f538ec9d3dd49c/Shell_Shockers___Also_at_deathegg_life___Google_Chrome_2025_08_18_07_59_35.mp4?Expires=1778194447&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=oAIVgSD9Fe8sv1tTqWcQk4KKnLV%2BpQF6SzugJ9Vhrs257WPOh0WnfPbRir1RiOtsBnoVsCEsybytUYJVu%2BQE6Foa60aDd4%2Fdj%2BDGPa9IpoHugZSR5A%2BXQtCH4TT9Awu3JVg%2BlqNBcdjPYmu1P4z950Y%2FDVXr1gwPxNXRJNFpIQc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2Ff954a43441d0e7ced1f538ec9d3dd49c%2FShell_Shockers___Also_at_deathegg_life___Google_Chrome_2025_08_18_07_59_35.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/f954a43441d0e7ced1f538ec9d3dd49c/Shell_Shockers___Also_at_deathegg_life___Google_Chrome_2025_08_18_07_59_35.mp4?Expires=1778198043&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aSLyiD%2BCguK7QMjC7E5GIU%2FR%2BGOyYWFApeYBoS76libHpn4kgdy0e2PnSyA5WURd3otnOPpWcLvQErO3YwPO8pPxuR5jKn3tyEL0K18RM8AHBY95Tk5uztahBgYXb2C6neEaFfPunQEomD%2F9rx1kex1hK9ITe7O2hhcXs%2Ft1bvI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2Ff954a43441d0e7ced1f538ec9d3dd49c%2FShell_Shockers___Also_at_deathegg_life___Google_Chrome_2025_08_18_07_59_35.mp4)
 
 #### Comments (6)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 05, 2025 11:25am): 軽くね？
@@ -3395,7 +3395,7 @@
 [Attachment 1](https://v.kuku.lu/e5d1b8fb8b)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3412,7 +3412,7 @@
 [Attachment 1](https://v.kuku.lu/1cbc19f004)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3429,7 +3429,7 @@
 [Attachment 1](https://v.kuku.lu/c96696efde)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3444,7 +3444,7 @@
 [Attachment 1](https://v.kuku.lu/0c181cb984)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3473,7 +3473,7 @@
 [Attachment 1](https://us8.campaign-archive.com/?u=69e35628ce4b0325d0dc28e0e&id=883244b0f4)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3488,7 +3488,7 @@
 [Attachment 1](https://us8.campaign-archive.com/?u=69e35628ce4b0325d0dc28e0e&id=39cc0b711d)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3503,7 +3503,7 @@
 [Attachment 1](https://us8.campaign-archive.com/?u=69e35628ce4b0325d0dc28e0e&id=0ca3fee9ba)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3518,7 +3518,7 @@
 [Attachment 1](https://us8.campaign-archive.com/?e=47f8a41436&u=69e35628ce4b0325d0dc28e0e&id=a3acf43ab9)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3533,7 +3533,7 @@
 [Attachment 1](https://us8.campaign-archive.com/?e=d8a5f6203b&u=69e35628ce4b0325d0dc28e0e&id=5be88cf726)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3550,7 +3550,7 @@
 [Attachment 1](https://mailchi.mp/bluewizard/the-new-yolker-issue-7234015?e=47f8a41436)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3568,7 +3568,7 @@
 - **MoMo** (Aug 08, 2025 07:12am): 次のupdateはいつですか？
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3583,7 +3583,7 @@
 [Attachment 1](https://us8.campaign-archive.com/?e=98cd80929a&u=69e35628ce4b0325d0dc28e0e&id=06435c94b6)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3598,7 +3598,7 @@
 [Attachment 1](https://us8.campaign-archive.com/?u=69e35628ce4b0325d0dc28e0e&id=bfc9779beb)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3613,7 +3613,7 @@
 [Attachment 1](https://us8.campaign-archive.com/?u=69e35628ce4b0325d0dc28e0e&id=4c9aa74944)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3630,7 +3630,7 @@
 [Attachment 1](https://us8.campaign-archive.com/?u=69e35628ce4b0325d0dc28e0e&id=7bab6ebb82)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3647,7 +3647,7 @@
 [Attachment 1](https://us8.campaign-archive.com/?e=47f8a41436&u=69e35628ce4b0325d0dc28e0e&id=37d4a23d4f)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3664,7 +3664,7 @@
 [Attachment 1](https://us8.campaign-archive.com/?u=69e35628ce4b0325d0dc28e0e&id=8711949836)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3681,7 +3681,7 @@
 [Attachment 1](https://us8.campaign-archive.com/?e=47f8a41436&u=69e35628ce4b0325d0dc28e0e&id=f107644d08)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3698,7 +3698,7 @@
 [Attachment 1](https://us8.campaign-archive.com/?e=47f8a41436&u=69e35628ce4b0325d0dc28e0e&id=0abb262df1)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -3718,7 +3718,7 @@
 - **削除済みユーザー** (Mar 05, 2025 07:06am): そのイベントで色々買ったｗｗ
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red

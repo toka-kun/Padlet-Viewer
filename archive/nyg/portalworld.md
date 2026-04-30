@@ -1,4 +1,4 @@
-最終更新: 2026/05/01 07:54:11
+最終更新: 2026/05/01 08:54:08
 
 # Padletポータルワールド
 
@@ -29,7 +29,7 @@
 - **k** (Mar 11, 2026 08:06am): なにか入るのかなと思ってやったら他の人のをだしてしまってすみません
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
@@ -49,7 +49,7 @@
 - **全ての部屋にコメントする** (Feb 05, 2026 09:17am):  
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Red
@@ -76,7 +76,7 @@
 [Attachment 1](https://padlet.com/padlets/a8v7cjbbfni702kg)
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -103,7 +103,7 @@
 [Attachment 1](https://padlet.com/padlets/hn06e2qqtk4gtxfg)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Purple
@@ -1079,7 +1079,7 @@
 - **匿名** (Mar 31, 2026 01:51am): 五条好きなんだーかっこいいよねー。
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1481,7 +1481,7 @@
 [Attachment 1](https://padlet.com/Giveapple/padlet-gtrnqr2nil52rj9f)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1759,7 +1759,7 @@
 - **🍄#りおとの奴隷！最近低浮上** (Jan 19, 2026 06:30am): みんな来てねー！
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2016,7 +2016,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (May 03, 2025 12:04am): モデレーター権限だけでも荒らしなら消せるし
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2167,7 +2167,7 @@
 [Attachment 1](https://padlet.com/padlets/x8s4avhy2a14otih)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2328,7 +2328,7 @@
 [Attachment 1](https://padlet.com/padlets/idgbhxqnznzti9f8)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2987,7 +2987,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1778194451&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=o%2BT7PA%2B2kqPMDWcz%2BeUp%2Flb4nnpujghGIkmV%2BiBuXjP%2FxcFu7TiFJTaTVsvGqoTehclm%2FxNI54y0gKe26T7lovQpAYXRCG%2BFbKlg%2FfjqY36niBOaLFP8yUOBf1CzqKhdIIN13X3QCiyOndoW4o21tBa4%2BqaOl2Ez8pG2smb0Ph8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1778198047&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=F0vVP4mnJOdh9y6PesXiW30bXudgXp0F7SH2s9IhmnVvB4LXVomQNL2oglbbQLccX1ogS0Jv9pDAR0zyfzIokBZspDW1Fe9%2BeCBEF1ZbdOrBQ0rHqLDMvhDXRkF%2Bda9A5u2tTdRrpbHTlHnlyJBS82QkfAmYIMRBNgUFPlLNt8M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
@@ -3020,7 +3020,7 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (Oct 15, 2025 09:45pm): 投稿フォーム載せてるやん
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Red

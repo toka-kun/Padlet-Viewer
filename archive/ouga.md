@@ -1,4 +1,4 @@
-最終更新: 2026/05/01 07:55:10
+最終更新: 2026/05/01 08:55:13
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,12 +9,14 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 188
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 30, 2026 10:25pm
+- **Updated At (UTC):** Apr 30, 2026 11:10pm
 
 ## 管理者　連絡
 
 ### 1. こんにちわ
 **Author:** スリ
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (6)
 - **スリ** (Apr 30, 2026 12:50pm): どうもリア充、ブロスタ26900トロ、フォートナイト最高ランクアンリアル256位、マイクラpvp3027勝42敗19引き分け、50m7秒8、100m12秒68、陸上部ゲーム好き、1学期と2学期オール5のそこらへんにいる中学生です仲良くしておくれ
@@ -33,6 +35,8 @@
 
 ### 2. 色々あったので名前変えました
 **Author:** 時透無一郎 (r0300353)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (8)
 - **フェットチーネしか勝たん** (Apr 27, 2026 09:30am): なんで名前変えたの？
@@ -54,6 +58,8 @@
 ### 3. 春休みあんま動けてなかったから今から再始動します！
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Apr 07, 2026 12:58pm
@@ -64,6 +70,8 @@
 ### 4. 注意　他のパドレットに宣伝してるれるのはいいんですけどルールは守って宣伝して欲しいです！！
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Apr 08, 2026 11:17pm
@@ -73,6 +81,8 @@
 
 ### 5. じゃあみんなバイバイ！
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (7)
 - **おうが** (Apr 24, 2026 01:26am): めっちゃ悲しいけど消すよりはいいと思いました！
@@ -93,6 +103,8 @@
 ### 6. 管理者になりましたよろしくお願いします
 **Author:** 時透無一郎 (r0300353)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (7)
 - **忍者めししか勝たん** (Apr 24, 2026 01:12pm): よろしくおねがいします
 - **フェットチーネしか勝たん** (Apr 24, 2026 01:28pm): よろしく
@@ -112,6 +124,8 @@
 ### 7. 最近楽しいこと
 **Author:** あかさたな
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 27, 2026 10:18am
@@ -121,6 +135,8 @@
 
 ### 8. 管理者ください
 **Author:** Sky (hoangquipquip)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (3)
 - **Sky** (Mar 24, 2026 07:23am): お願いします
@@ -137,6 +153,8 @@
 ### 9. ルール　暴言、性的な言動、個人情報の流出はモデレーターに削除してもらいます　掲示板以外に宣伝したコメントは全て削除　　みんな仲良く楽しんでください！！
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (4)
 - **時透無一郎** (Mar 04, 2026 01:04am): はい、頑張ります！
 - **おうが** (Mar 04, 2026 12:34pm): 👍
@@ -152,6 +170,8 @@
 
 ### 10. 最近みんな見てくれない、、、何かダメなところとかある？
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (10)
 - **おうが** (Mar 05, 2026 12:54am): アドバイスほしい
@@ -174,6 +194,8 @@
 
 ### 11. モデレーターなってくれる人募集しますメリットは自分の鯖を宣伝できる投稿ができるして欲しいことは荒らしのコメントをどんどん消してほしい
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (18)
 - **おうが** (Mar 02, 2026 02:39am): みんななりたい人はここにコメントして
@@ -205,6 +227,8 @@
 ### 12. hiro mc6881この人荒らし
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (6)
 - **時透無一郎** (Mar 03, 2026 11:16am): うんまじでその人ヤバい
 - **おうが** (Mar 03, 2026 12:25pm): この人また掲示板以外で宣伝してたら消して報告して
@@ -223,6 +247,8 @@
 ### 13. モデレーターになった方は暴言、誹謗中傷、個人情報などのコメントはじゃんじゃん消してください！！自分の鯖を紹介したい人は1つだけなら投稿okそれ以上は僕が消しますそしてモデから消しますそれだけは守ってください
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (3)
 - **時透無一郎** (Mar 02, 2026 10:45pm): はい！そうゆうの見つけたら消しときます！
 - **おうが** (Mar 02, 2026 11:36pm): お願いします！！
@@ -238,6 +264,8 @@
 ### 14. みんなさんのおかげで大きくなってきました！！荒らしとかが怖くなってきたので夜の10時からあさの9時くらいまで凍結さしていただきますご了承ください🙏
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (2)
 - **にゃんまる** (Feb 25, 2026 02:01am): 荒らし怖いですよね
 - **おうが** (Feb 25, 2026 02:35am): うんモデなってくれませんか？
@@ -251,6 +279,8 @@
 
 ### 15. こんにちは！管理者のおうがですここでは仲良く情報共有などができればいいなと思っています！！みなさん拡散お願いします
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (23)
 - **imaizumi** (Feb 17, 2026 05:28am): わｋあった‼️
@@ -290,9 +320,11 @@
 **Author:** 時透無一郎 (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 111 votes
+- **きのこの山:** 112 votes
 - **たけのこの里:** 105 votes
 - **ドウデモイイ:** 30 votes
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (32)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
@@ -331,12 +363,14 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 30, 2026 10:05pm
+- **Updated At (UTC):** Apr 30, 2026 11:51pm
 
 ---
 
 ### 2. YouTube見れるサイト載せて下さい！お願いします
 **Author:** 中指
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (1)
 - **フェットチーネしか勝たん** (Apr 27, 2026 09:31am): https://script.google.com/a/macros/chuo-tky.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
@@ -353,6 +387,8 @@
 
 <p>綱啓永推しです。よろしくお願いします。</p><p>ぜひ良かったらこれに入ってもらいたいです。</p><p><br/></p>
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://padlet.com/r0400268_1/padlet-1gjhtl9tpvg83kt1)
 
 #### Additional Information
@@ -367,6 +403,8 @@
 
 <p>規制突破したい</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Apr 24, 2026 03:30am
@@ -377,7 +415,9 @@
 ### 5. Post 5
 **Author:** GP (21070045_2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1778194507&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RPLpTDWgMNyNz9e%2B3LmlhklznG1RC1H6F%2BO6VVdbdIQA2P6LAWocoeGmlW8jvr%2B1%2BavAqMjuWBQjeac3RktzlwbwwbMKXDOsI8x5RmL3R2ly0bYCYIWekA2fHEb6Z%2FQPhVmNq0FtbF3PW8CJ8uL9clkrujnNyOUx%2FSeQUGI8E4E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+**星評価:** 0 / 5 ⭐
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1778198109&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tcg2XIT0O4eN0JHnlwiyleba3cDowKHBILbd6tNZeIIDgul3qFFiQGds5e4CCPjea198xaVOXjqJrhBSbWxtSpSx%2FlD9xruDweJsB%2BJVghY%2BSno1ct7V3Q8BHBo3dP4A0OWbEwRY2tK6NQsDItO5oQmsEDFdQyKnYjUwgs45oPs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (2)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -395,6 +435,8 @@
 
 <p>だれかはなそ</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (4)
 - **フェットチーネしか勝たん** (Apr 15, 2026 05:30am): いいよ
 - **おうが** (Apr 16, 2026 01:11am): 結局話さないの？w
@@ -411,6 +453,8 @@
 ### 7. 質問してもいいですか？
 **Author:** お文具と一緒 (gs196100)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (1)
 - **時透無一郎** (Apr 14, 2026 09:46pm): どうぞ
 
@@ -426,6 +470,8 @@
 
 <p>教えてください。</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Apr 13, 2026 04:59am
@@ -435,6 +481,8 @@
 
 ### 9. Post 9
 **Author:** カワツユ
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://edu.50friends.com.mx)
 
@@ -455,7 +503,9 @@
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1778194507&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BtgnIURTieeYp2jd9fgD%2FXQsHbK2Myw5P9BQTJDIZK5EXYdoPBQ9y392nN0QvoQx4QUVGWOQJN0IvHoQIeMYZ7JUpv30%2BYHF2m%2BYWAg4JaQyhTlxD3lHMVYxLs8LJaRszq0U5konY7hTjcjGm3iJY54q8X2XOHEOnaH4ajQXEDo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+**星評価:** 0 / 5 ⭐
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1778198109&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lH1yY0yw7cIvfogeXIjZlMWkRcHeyE4TTfjfgOcjJd51GNU4R4dXTdFeTUbDChPwBoIZN8iBCfuR3xdzz1H86G7r%2BVnZqxWBtxXN4EtiJB%2B%2BxPVlDphUjpEJwM12mV2x7aipd4SO0oNYTnx6vxLQSWXxXoWtmHjVdCH8m8zCK7s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -466,6 +516,8 @@
 
 ### 11. こんにちは
 **Author:** 暴走パンダ (8888800811117777)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (1)
 - **おうが** (Mar 31, 2026 06:16am): こんにちは
@@ -480,6 +532,8 @@
 ### 12. わかめチューブのサイト載せてください。
 **Author:** あかさたな
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (1)
 - **おうが** (Mar 31, 2026 06:16am): https://daifuku-wkt.onrender.com/wkt/watch/Y8tvXCQQZHo
 
@@ -493,6 +547,8 @@
 ### 13. 最近楽しいこと
 **Author:** あかさたな
 
+**星評価:** 3.0 / 5 ⭐ (1)
+
 #### Comments (4)
 - **時透無一郎** (Mar 28, 2026 02:48am): パドレットで話すこと
 - **あかさたな** (Mar 28, 2026 05:22am): フォートナイトのブロックされないサイト教えてください
@@ -500,8 +556,6 @@
 - **シバフ** (Apr 16, 2026 08:28am): フォトナじゃないけど 
 
 #### Reactions
-- **Average star rating:** 3.0
-- **Number of ratings:** 1
 
 #### Additional Information
 - **Post color:** Black
@@ -512,6 +566,8 @@
 
 ### 14. もうすぐ卒業式ですね。６年生の人は頑張れ
 **Author:** 時透無一郎 (r0300353)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (10)
 - **おうが** (Mar 23, 2026 01:07pm): 中学校は楽しいぞー
@@ -537,6 +593,8 @@
 
 <p>みんな僕の紹介見たらコメントしてくれると嬉しいな</p><p>ちなみに僕は今ピクミン４にはまってます</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (1)
 - **時透無一郎** (Mar 20, 2026 06:49am): ピクミン４やってるならたいちの部屋きて
 
@@ -552,6 +610,8 @@
 
 <p>僕ログインしてないからアイコン代わるけど</p><p>名前で判断して下さい</p><p><br/></p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 20, 2026 05:58am
@@ -563,6 +623,8 @@
 **Author:** ヒカル
 
 <p>こちらのサイトは個人情報大丈夫かな？</p>
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (2)
 - **時透無一郎** (Mar 20, 2026 06:54am): ヤバい人が来なければね
@@ -580,6 +642,8 @@
 
 <p>初めてだけど見るからにみんないい人！</p><p><br/></p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 19, 2026 01:22pm
@@ -591,6 +655,8 @@
 **Author:** aaabbbccc (mazamaza)
 
 <p>ゲームのところに色々載せときました</p><p>i-フィルター練馬区です</p>
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (1)
 - **おうが** (Mar 17, 2026 11:01pm): はーい！ありがと
@@ -607,14 +673,14 @@
 
 <p>YouTubeやってるので良かったら、チャンネル登録と高評価よほうをお願いします！！</p>
 
+**星評価:** 5.0 / 5 ⭐ (1)
+
 [Attachment 1](https://youtube.com/@kain-y5x?si=FINtsGd3rEQJ1Nm7)
 
 #### Comments (1)
 - **series227urara 岡山行** (Mar 16, 2026 12:54pm): Padretよ方でも仲良くしましょう
 
 #### Reactions
-- **Average star rating:** 5.0
-- **Number of ratings:** 1
 
 #### Additional Information
 - **Post color:** Black
@@ -625,6 +691,8 @@
 
 ### 21. ハロー
 **Author:** Benevolent Squirrel
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (1)
 - **GP** (Apr 27, 2026 02:47am): はろー
@@ -639,6 +707,8 @@
 ### 22. 今のモデレーター　たいちさん
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (1)
 - **時透無一郎** (Mar 03, 2026 01:08am): よろしくお願いします
 
@@ -651,6 +721,8 @@
 
 ### 23. Post 23
 **Author:** タムラチヒロ (21070046)
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=nutgxBlWQ7Y)
 
@@ -666,6 +738,8 @@
 
 ### 24. 自己紹介してね
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (254)
 - **Anonymous** (Feb 17, 2026 12:56am): こんにちは
@@ -935,6 +1009,8 @@
 ### 1. 最近あらしがあります。そういう不必要な言葉を消してくれる（モデレーターになってくれる人）を募集中です。また、よくこの部屋に来ている人だと助かります。
 **Author:** 時透無一郎 (r0300353)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (1)
 - **時透無一郎** (Apr 29, 2026 08:56am): メアド貼ってください。信用できる人にだけモデレーターあげます。
 
@@ -947,6 +1023,8 @@
 
 ### 2. 時透無一郎さんにきまりました！
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (6)
 - **おうが** (Apr 24, 2026 01:21am): おめでとうございます！
@@ -966,6 +1044,8 @@
 ### 3. 来る気配無いので回します
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (1)
 - **GP** (Apr 28, 2026 12:02am): どうしたの？
 
@@ -978,6 +1058,8 @@
 
 ### 4. ルーレット結果！！yoloさんに決定！！！！
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (9)
 - **おうが** (Apr 23, 2026 03:27am): メアド乗せてください
@@ -1000,6 +1082,8 @@
 ### 5. 閲覧数10000突破！！イベント開催します！
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (7)
 - **おうが** (Apr 16, 2026 04:11am): 参加したい人は返信お願いします！4月20日締め切りにします
 - **おうが** (Apr 16, 2026 04:11am): そしてイベント内容はなんと1人に管理者プレゼント！！！
@@ -1019,6 +1103,8 @@
 ### 6. 閲覧数10000でイベント開催します
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (1)
 - **おうが** (Apr 16, 2026 01:14am): 10000いったら詳細話します
 
@@ -1031,6 +1117,8 @@
 
 ### 7. 3000人と9000回突破
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (3)
 - **れいな** (Apr 10, 2026 08:49am): おめでとー！
@@ -1046,6 +1134,8 @@
 
 ### 8. 後ちょいで3000人と9000回www
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (7)
 - **こnにちは** (Apr 07, 2026 02:22pm): いいなぁ
@@ -1065,6 +1155,8 @@
 
 ### 9. 参加の方はこちらに
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (9)
 - **時透無一郎** (Apr 16, 2026 08:33am): はいどうも
@@ -1089,6 +1181,8 @@
 
 <p>たいちさん　yoloさん　<strong>ky1732050808さん</strong></p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Apr 22, 2026 11:27pm
@@ -1098,6 +1192,8 @@
 
 ### 11. 名前変えてもいっすか
 **Author:** 時透無一郎 (r0300353)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (5)
 - **XminionQWQ** (Apr 03, 2026 02:03am): ご自由に
@@ -1116,6 +1212,8 @@
 ### 12. Post 12
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
 
 #### Comments (1)
@@ -1133,6 +1231,8 @@
 
 <p>えぐ主義ー</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (3)
 - **時透無一郎** (Mar 16, 2026 12:00pm): すごおおおおおい！！！
 - **おうが** (Mar 17, 2026 12:45am): うおおおおおおおおお
@@ -1148,6 +1248,8 @@
 ### 14. 閲覧数3000！！🥳
 **Author:** おうが (18jt026)
 
+**星評価:** 4.8 / 5 ⭐ (6)
+
 #### Comments (10)
 - **かっっぱ** (Mar 02, 2026 01:49am): おめでと！
 - **おうが** (Mar 02, 2026 02:29am): ありがと！
@@ -1161,8 +1263,6 @@
 - **ふるさわさん** (Mar 11, 2026 10:43pm): すごいぜ
 
 #### Reactions
-- **Average star rating:** 4.8333333333333333
-- **Number of ratings:** 6
 
 #### Additional Information
 - **Post color:** Black
@@ -1173,6 +1273,8 @@
 
 ### 15. 1000人いきました！！！！！
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (7)
 - **おうが** (Feb 28, 2026 01:16pm): みんなありがとう！！
@@ -1192,6 +1294,8 @@
 
 ### 16. 2時時点訪問者数　810人　閲覧回数2100回
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (10)
 - **時透無一郎** (Feb 26, 2026 11:16pm): 観覧者２０００いった！
@@ -1215,6 +1319,8 @@
 ### 17. 2時時点訪問人数　750人越え　閲覧数　1800
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (3)
 - **削除済みユーザー** (Feb 25, 2026 10:07am): 7割達成してるのすごすぎ！！
 - **おうが** (Feb 26, 2026 12:13am): ありがとうございます！！1000人突破したら配布します！！
@@ -1232,6 +1338,8 @@
 
 <p>　　　　　　　　</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (4)
 - **時透無一郎** (Feb 24, 2026 11:48am): 観覧者とかどこで見れんの？
 - **おうが** (Feb 24, 2026 12:54pm): 右側に点々３つならんでるのタップして詳細ってやつを押したら見れます！
@@ -1248,6 +1356,8 @@
 ### 19. 閲覧数1000行ってた！！
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (3)
 - **にゃんまる** (Feb 24, 2026 03:48am): しゅんげえ
 - **おうが** (Feb 24, 2026 05:12am): ありがとうございます！
@@ -1263,6 +1373,8 @@
 ### 20. 目標の半分500人きちゃーー
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Feb 23, 2026 06:26am
@@ -1272,6 +1384,8 @@
 
 ### 21. 次は1000人目指します
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (6)
 - **かっっぱ** (Feb 20, 2026 02:44am): 頑張ってください！
@@ -1291,6 +1405,8 @@
 ### 22. 300人いきましたーーkamiさん早く体調なおって
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (6)
 - **かっっぱ** (Feb 20, 2026 02:43am): おおーーーーーーーーー！
 - **かっっぱ** (Feb 20, 2026 02:44am): おめでとうございます！
@@ -1309,6 +1425,8 @@
 ### 23. 今日で300人行くかも！！拡散お願いします🥺
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (2)
 - **かっっぱ** (Feb 20, 2026 01:03am): おめでとぉーございますぅー！
 - **おうが** (Feb 20, 2026 01:25am): ありがとうございまうーーーーーー
@@ -1323,6 +1441,8 @@
 ### 24. 250人いきましたーーあと50人だーー
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (2)
 - **かっっぱ** (Feb 19, 2026 06:11am): おめでとうございますぅ！
 - **おうが** (Feb 19, 2026 11:03pm): ありがとうございます😊
@@ -1336,6 +1456,8 @@
 
 ### 25. 起きて見てみたら200人突破ーーーーー！！！
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (6)
 - **おうが** (Feb 18, 2026 11:08pm): 300人まであと100人
@@ -1355,6 +1477,8 @@
 ### 26. 訪問者数100人行きました！！！！！皆さんありがとうございます！！次の目標は皆さんに決めていただきたいです
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (2)
 - **かっっぱ** (Feb 19, 2026 02:29am): おめでとうございますぅー！
 - **おうが** (Feb 19, 2026 02:29am): ありがとうございますー
@@ -1368,6 +1492,8 @@
 
 ### 27. 訪問者数90！！あと10人で目標達成拡散お願いします🙇
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (2)
 - **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (Feb 18, 2026 02:19am): おー
@@ -1383,6 +1509,8 @@
 ### 28. あと40人で100人！！
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Feb 17, 2026 06:07am
@@ -1393,6 +1521,8 @@
 ### 29. 50人突破！！！！！！！100人までの半分どんどん拡散お願いします！！
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Feb 17, 2026 05:45am
@@ -1402,6 +1532,8 @@
 
 ### 30. 気がついたら40人超えてました！本当にありがとうございます！
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (2)
 - **imaizumi** (Feb 17, 2026 05:27am): おめおめ
@@ -1417,6 +1549,8 @@
 ### 31. 30人突破‼️100人まで突っ走りましょう
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Feb 17, 2026 03:22am
@@ -1426,6 +1560,8 @@
 
 ### 32. 30人突破‼️祝
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (1)
 - **おうが** (Feb 17, 2026 03:15am): もっとでっかくなるよう皆さん拡散協力して欲しいです！
@@ -1440,6 +1576,8 @@
 ### 33. 15人突破‼️
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Feb 17, 2026 02:10am
@@ -1451,6 +1589,8 @@
 **Author:** おうが (18jt026)
 
 <p>あと7人で30人突破！</p><p><br/></p>
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (21)
 - **おうが** (Feb 17, 2026 02:19am): やばいあと4人！？
@@ -1487,6 +1627,8 @@
 ### 1. よければ来てください
 **Author:** 時透無一郎 (r0300353)
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://padlet.com/r0300353/padlet-xe704h90k5x163d7)
 
 #### Additional Information
@@ -1500,6 +1642,8 @@
 **Author:** KAsiuuuuu (kasukas)
 
 <p>ktkr</p>
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://padlet.com/padlets/mdcsjecuywnzfry5)
 
@@ -1515,6 +1659,8 @@
 
 <p>入ってくださいお願いします</p>
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://padlet.com/r0400268_1/padlet-1gjhtl9tpvg83kt1)
 
 #### Additional Information
@@ -1526,6 +1672,8 @@
 
 ### 4. 「朧」訪問者1000人超えました！
 **Author:** 時透無一郎 (r0300353)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (16)
 - **フェットチーネしか勝たん** (Apr 22, 2026 11:43am): えぐ！
@@ -1555,6 +1703,8 @@
 ### 5. ロブロフレンドなろー
 **Author:** こnにちは
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://padlet.com/h3619051/and-and-hlq8wbu4e7eg4ecu)
 
 #### Additional Information
@@ -1569,6 +1719,8 @@
 
 <p>ロブロフレンドなろ</p>
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://padlet.com/h3619051/and-and-hlq8wbu4e7eg4ecu)
 
 #### Additional Information
@@ -1581,6 +1733,8 @@
 ### 7. 来てください
 **Author:** 暴走パンダ (8888800811117777)
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://padlet.com/kimutibanana/10-a1am1nuc1pm9ra04)
 
 #### Additional Information
@@ -1592,6 +1746,8 @@
 
 ### 8. にゃんまるさんの部屋入ってね！！
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://padlet.com/Nyanmaru1213/padlet-ocmne4ikysmdfyf)
 
@@ -1613,6 +1769,8 @@
 
 <p>来てね！</p>
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://padlet.com/r0300353/padlet-xe704h90k5x163d7)
 
 #### Comments (6)
@@ -1633,6 +1791,8 @@
 ### 10. 来てちょうだい
 **Author:** よしなりけいすけ (s2101219_1)
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://padlet.com/s2101219_1/padlet-fwlfq12rndmfbo6r)
 
 #### Additional Information
@@ -1644,6 +1804,8 @@
 
 ### 11. ジョジョラー専用部屋
 **Author:** Sky (hoangquipquip)
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://padlet.com/hoangquipquip/padlet-imcs5ai0arnbw1ng)
 
@@ -1659,6 +1821,8 @@
 
 <p>入ってください</p><p><br/></p>
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://padlet.com/gs211024/youtube-u00rj2das7ymsdos)
 
 #### Additional Information
@@ -1671,6 +1835,8 @@
 ### 13. 入ってー
 **Author:** しろちゃん (syun925)
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://padlet.com/29200151/padlet-qljpcqw6hnd7sww9)
 
 #### Additional Information
@@ -1682,6 +1848,8 @@
 
 ### 14. たいちさん専用
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (6)
 - **おうが** (Mar 03, 2026 12:34am): https://padlet.com/r0300353/padlet-xe704h90k5x163d7
@@ -1700,6 +1868,8 @@
 
 ### 15. 自分のを拡散したい人
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (26)
 - **削除済みユーザー** (Feb 17, 2026 10:53am): https://padlet.com/nehosata/nehosata-r91qs1euwi6mrl6y
@@ -1741,7 +1911,9 @@
 ### 1. 好きな柱誰？
 **Author:** 時透無一郎 (r0300353)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1778194508&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=H2%2F9ppKjChL%2BdiNgjNyLjynmSmlIvag4FEc5T%2Ftz0wBIbGF1G5hSqC47A4yhI7qiHDzgzh6Gr3%2B%2FqtX1rXAfZGeEA5n73F1yG6Yf6UWO%2FgfHDVdHwHBkXt0qR0b7f369NtAScPoCdMtAQGbQy1wNefVfhpsn74W%2F%2BG4jLorBK5A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+**星評価:** 0 / 5 ⭐
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1778198110&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cQJ6YdQy9bATUZWdRL8n%2FqgjB%2BUWBaLUna2V8jXxkye9aj62WAOsd4C4K68fOOj6PqjWmx9dBaQdDQLpQBuAefYjUFwc8X61UeoWsgJwtABjfGKOnwMotNCawdKLldGQW%2FqiBHU0gEk8eX5N%2FpVlgnwLkX7Z8WlBQmPV2RkVCAc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (17)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -1774,6 +1946,8 @@
 
 <p>マイクラしてる？</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (7)
 - **フェットチーネしか勝たん** (Apr 29, 2026 09:53am): してた
 - **フェットチーネしか勝たん** (Apr 29, 2026 09:53am): よくベットウォーズしてた
@@ -1795,7 +1969,9 @@
 
 <p>だれか〜できるひと〜いますか〜</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1778194508&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ufnoKlnmfnPS7ipXHDiZ2Xs8LUOKoPgQtXe9helsSNiYsZA0Ad9qgRn1%2FaQBlA92h62fwYZnECHh6Dh60v3qGTlFNSO3JpRxeNwiiTjcnH18bUqdRyU212jb1zPs6ZoQKaoYKSPZIcqWu%2FmgZW5o5JEEX3rehr23nAc7T2mFmW0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+**星評価:** 0 / 5 ⭐
+
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1778198110&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=h9qZNxaqpFEvJdel11WkIqq0LgGG4Pl%2BRbkoUf0Csl6d3dFjbCOSdYl1F4FYr2zEsyNRxbXNegAj4iulY8m%2FgYRz%2BY85IMx4yhS3ZXt2b7n4QWoz%2BCMo9kcuPKagABO2A6i099biLLR6ARdyyCDghiPmC3gp19YxNV0wzhzQlRc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!** (Apr 26, 2026 10:13am): コード打っときます
@@ -1815,6 +1991,8 @@
 ### 4. みんな好きな曲何？
 **Author:** フェットチーネしか勝たん
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (3)
 - **ZETA|NIKIO** (Apr 24, 2026 02:21pm): スイカゲームの音源
 - **アマギ** (Apr 24, 2026 02:26pm): Let's spekeing
@@ -1832,6 +2010,8 @@
 
 <p>この私のパドレっとに入ってくださいお願いします</p>
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://padlet.com/r0400268_1/padlet-1gjhtl9tpvg83kt1)
 
 #### Additional Information
@@ -1843,6 +2023,8 @@
 
 ### 6. ヨモギ　正体明かして
 **Author:** 時透無一郎 (r0300353)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (10)
 - **時透無一郎** (Apr 20, 2026 08:45am): 他の人は気にしないで
@@ -1868,6 +2050,8 @@
 
 <p>1位目指すの頑張って</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (9)
 - **時透無一郎** (Apr 13, 2026 10:34pm): え、マジで？スゴ
 - **おうが** (Apr 14, 2026 04:30am): 多分だよw
@@ -1891,6 +2075,8 @@
 
 <p>俺はルービックキューブや読書、ゲームかな</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (6)
 - **こnにちは** (Apr 13, 2026 12:49pm): ルービックキューブとロブロ、YouTube、ブロスタぐらい
 - **フェットチーネしか勝たん** (Apr 13, 2026 10:50pm): ルービック仲間がいた
@@ -1910,6 +2096,8 @@
 **Author:** 暇すぎ星人 (1910568_3)
 
 <p>解決策求む</p>
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (10)
 - **暇すぎ星人** (Apr 08, 2026 11:39am): 助けて😭
@@ -1941,6 +2129,8 @@
 
 <p>やっぱりこの3つのグミが３冠だよな　　　　（個人の感想です）</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (8)
 - **フェットチーネしか勝たん** (Apr 07, 2026 11:18pm): 投票してくれる
 - **フェットチーネしか勝たん** (Apr 07, 2026 11:19pm): みんな　投票してくれるよな
@@ -1961,6 +2151,8 @@
 ### 11. わかめチューブ教えて
 **Author:** 野球
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (3)
 - **おうが** (Apr 07, 2026 12:52pm): https://daifuku-wkt.onrender.com/wkt/watch/Y8tvXCQQZHo
 - **あ** (Apr 10, 2026 06:29am): https://28mfq8-3000.csb.app/wkt
@@ -1977,6 +2169,8 @@
 **Author:** XminionQWQ
 
 <p>おねがいしますm(__)m</p>
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (9)
 - **XminionQWQ** (Mar 28, 2026 03:50am): 追記　しあtube自体は入れるけど、カスタムエンドポイントを作るサイトに入れない（ブロ）
@@ -1998,6 +2192,8 @@
 
 ### 13. イタリアンブレインロットって知ってる？
 **Author:** 時透無一郎 (r0300353)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (12)
 - **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (Mar 27, 2026 06:14am): Yes
@@ -2023,6 +2219,8 @@
 ### 14. 前から思ってたんですけどおうがさんのアイコンの人って誰なんですか？
 **Author:** 時透無一郎 (r0300353)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (4)
 - **おうが** (Mar 22, 2026 11:08am): わかんないw
 - **時透無一郎** (Mar 22, 2026 11:32am): わかんないんだｗ
@@ -2039,6 +2237,8 @@
 ### 15. だんだんと閲覧数とか増えてきたね
 **Author:** nekoちゃんぬ総長サブ垢 (nekosaikyoukami)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (1)
 - **おうが** (Mar 22, 2026 11:08am): うん！頑張る
 
@@ -2051,6 +2251,8 @@
 
 ### 16. プロキシ載せといた
 **Author:** aaabbbccc (mazamaza)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (1)
 - **おうが** (Mar 22, 2026 11:08am): ありがと！
@@ -2066,6 +2268,8 @@
 **Author:** aaabbbccc (mazamaza)
 
 <p>先着20名程度</p>
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://app.metalife.co.jp/spaces/Km3f5VIWpaHPTp85YlFJ)
 
@@ -2085,6 +2289,8 @@
 
 <p>セクションにプロキシを追加してほしいです</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (1)
 - **おうが** (Mar 17, 2026 12:32pm): おっけ
 
@@ -2097,6 +2303,8 @@
 
 ### 19. 管理者が欲しい！
 **Author:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (17)
 - **おうが** (Mar 17, 2026 12:44am): メアド教えて！
@@ -2127,6 +2335,8 @@
 ### 20. 質問シャドウって何するんですか？
 **Author:** おうが (18jt026)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (7)
 - **時透無一郎** (Mar 11, 2026 11:44pm): シャドウ？
 - **おうが** (Mar 12, 2026 01:12am): うん
@@ -2145,6 +2355,8 @@
 
 ### 21. 一個思ったけどここ見つかったら全部ブロックされるやん
 **Author:** kira (7372971)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (5)
 - **おうが** (Mar 11, 2026 11:52am): いや学校の授業とかで使うからブロはないと思うよ
@@ -2165,6 +2377,8 @@
 
 <p>なんかタブレット今より新しいのに変わるんだけどみんなはどうなん？</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (5)
 - **おうが** (Mar 11, 2026 12:04am): 俺も新しくなった規制やばい
 - **山椒** (Mar 11, 2026 02:46am): 俺もだいぶ前に変わったけどやばい
@@ -2181,6 +2395,8 @@
 
 ### 23. 新しい雑談場所
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (10)
 - **おうが** (Mar 04, 2026 12:43am): ここではなそ
@@ -2203,6 +2419,8 @@
 
 ### 24. あはははは
 **Author:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (16)
 - **1402** (Feb 17, 2026 08:57am): うふふふ
@@ -2231,6 +2449,8 @@
 
 ### 25. みんなで話そ
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (650)
 - **おうが** (Feb 17, 2026 01:55am): みんな中学生？
@@ -2896,9 +3116,11 @@
 ### 1. どうだ？
 **Author:** 時透無一郎 (r0300353)
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://wondermerge.gcdn.co/publish/html5/)
 
-#### Comments (23)
+#### Comments (24)
 - **あかさたな** (Mar 30, 2026 09:34am): ブロ
 - **フェットチーネしか勝たん** (Apr 01, 2026 12:06am): ブロ
 - **忍者めししかかたん** (Apr 07, 2026 12:18am): ブロ
@@ -2922,6 +3144,7 @@
 - **綱啓永推し❤️❤️** (Apr 24, 2026 10:31am): 綱啓永推しです。よろしくお願いします
 - **フェットチーネしか勝たん** (Apr 24, 2026 01:32pm): 初めまして
 - **忍者めししか勝たん** (Apr 24, 2026 01:36pm): はじめまして
+- **天才くん** (Apr 30, 2026 11:10pm): ハロー
 
 #### Additional Information
 - **Post color:** Black
@@ -2932,6 +3155,8 @@
 
 ### 2. Post 2
 **Author:** 天才くん
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://yandex.kz/games/)
 
@@ -2955,6 +3180,8 @@
 
 <p>これは？</p>
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://d11jzht7mj96rr.cloudfront.net/)
 
 #### Comments (3)
@@ -2974,6 +3201,8 @@
 
 <p>これは？</p>
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://d3rsc7j663z58n.cloudfront.net/)
 
 #### Comments (1)
@@ -2991,6 +3220,8 @@
 
 <p>誰かRoblox持ってる人いないですかー</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Apr 24, 2026 10:28am
@@ -3002,6 +3233,8 @@
 **Author:** ギャル
 
 <p><a rel="noopener noreferrer nofollow" href="https://mathwow.org/play/">https://mathwow.org/play/</a></p>
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://www.msn.com/en-my/play?ocid=cgpwa)
 
@@ -3017,9 +3250,9 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/king-kong-kart-racing/index.html">https://cdn-factory.marketjs.com/en/king-kong-kart-racing/index.html</a></p>
 
+**星評価:** 5.0 / 5 ⭐ (1)
+
 #### Reactions
-- **Average star rating:** 5.0
-- **Number of ratings:** 1
 
 #### Additional Information
 - **Post color:** Black
@@ -3033,6 +3266,8 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/idle-mining-empire/index.html?nocache">https://cdn-factory.marketjs.com/en/idle-mining-empire/index.html?nocache</a></p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Apr 18, 2026 03:42pm
@@ -3045,6 +3280,8 @@
 
 <p>これとか？</p><p><a rel="noopener noreferrer nofollow" href="https://mergecraft.gcdn.co/publish/html5/">https://mergecraft.gcdn.co/publish/html5/</a></p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Apr 17, 2026 02:34pm
@@ -3056,6 +3293,8 @@
 **Author:** こnにちは
 
 <p>ブロされたらごめん</p>
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://mergecraft.gcdn.co/publish/html5/)
 
@@ -3076,6 +3315,8 @@
 
 <p>IDはABC123goriです</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (6)
 - **こnにちは** (Apr 07, 2026 12:25pm): なんか間違えて2個投稿してしまいました
 - **こnにちは** (Apr 07, 2026 12:25pm): この投稿消してくれませんか？
@@ -3095,6 +3336,8 @@
 **Author:** フェットチーネしか勝たん
 
 <p>左のボタンはいろいろできて右はマイクラできる</p>
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://sites.google.com/view/dominumnetworkv2/dnv2)
 
@@ -3117,6 +3360,8 @@
 ### 13. おもろいよ
 **Author:** ワイ君
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://www.flightradar24.com/35.13,135.11/8)
 
 #### Comments (1)
@@ -3132,6 +3377,8 @@
 ### 14. おもろいよ
 **Author:** ワイ君
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://www.flightradar24.com/35.13,135.11/8)
 
 #### Additional Information
@@ -3144,6 +3391,8 @@
 ### 15. おもろいよ
 **Author:** ワイ君
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://www.flightradar24.com/35.13,135.11/8)
 
 #### Additional Information
@@ -3155,6 +3404,8 @@
 
 ### 16. ノーブロゲームサイト
 **Author:** XminionQWQ
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://sites.google.com/view/prohomework2z/dictionary)
 
@@ -3174,6 +3425,8 @@
 ### 17. 桃鉄のパスワード求む
 **Author:** ワイ君
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Apr 01, 2026 08:53am
@@ -3185,6 +3438,8 @@
 **Author:** フェットチーネしか勝たん
 
 <p>そんな面白いのないとは思うけど</p>
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://d3tecwpbnz01jy.cloudfront.net/)
 
@@ -3201,6 +3456,8 @@
 ### 19. わかめチューブのサイト載せてください
 **Author:** あかさたな
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 07:38am
@@ -3211,14 +3468,14 @@
 ### 20. 色々できるゲームサイト
 **Author:** 綱啓永推し❤️❤️ (r0400268_1)
 
+**星評価:** 3.0 / 5 ⭐ (1)
+
 [Attachment 1](https://sites.google.com/classroom.center/view/home)
 
 #### Comments (1)
 - **あかさたな** (Mar 30, 2026 09:34am): ブロ 
 
 #### Reactions
-- **Average star rating:** 3.0
-- **Number of ratings:** 1
 
 #### Additional Information
 - **Post color:** Black
@@ -3230,11 +3487,11 @@
 ### 21. 色々できるゲームサイト
 **Author:** 綱啓永推し❤️❤️ (r0400268_1)
 
+**星評価:** 1.0 / 5 ⭐ (1)
+
 [Attachment 1](https://ubg77.gitlab.io/)
 
 #### Reactions
-- **Average star rating:** 1.0
-- **Number of ratings:** 1
 
 #### Additional Information
 - **Post color:** Black
@@ -3246,11 +3503,11 @@
 ### 22. テトリス
 **Author:** 綱啓永推し❤️❤️ (r0400268_1)
 
+**星評価:** 3.0 / 5 ⭐ (1)
+
 [Attachment 1](https://stemask.bex.jp/tetris/)
 
 #### Reactions
-- **Average star rating:** 3.0
-- **Number of ratings:** 1
 
 #### Additional Information
 - **Post color:** Black
@@ -3261,6 +3518,8 @@
 
 ### 23. わかめチューブのリンク乗っけてください
 **Author:** あかさたな
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (3)
 - **あ** (Apr 10, 2026 06:27am): https://28mfq8-3000.csb.app/wkt
@@ -3277,6 +3536,8 @@
 ### 24. ゲームできるサイト教えて
 **Author:** あかさたな
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (2)
 - **匿名** (Apr 17, 2026 07:53am): ポキ
 - **匿名** (Apr 17, 2026 07:55am): totally sciens
@@ -3291,6 +3552,8 @@
 ### 25. 桃鉄教育版の授業パスワード教えて
 **Author:** フェットチーネしか勝たん
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (1)
 - **ブロスタ王** (Apr 30, 2026 01:28am): 自分で調べろ 
 
@@ -3304,6 +3567,8 @@
 ### 26. たっくんさんもっと教えてくれませんか？
 **Author:** 時透無一郎 (r0300353)
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 19, 2026 05:27am
@@ -3314,11 +3579,11 @@
 ### 27. Post 27
 **Author:** aaabbbccc (mazamaza)
 
+**星評価:** 1.0 / 5 ⭐ (1)
+
 [Attachment 1](https://24glo.com/game/index.html)
 
 #### Reactions
-- **Average star rating:** 1.0
-- **Number of ratings:** 1
 
 #### Additional Information
 - **Post color:** Black
@@ -3330,11 +3595,11 @@
 ### 28. Post 28
 **Author:** aaabbbccc (mazamaza)
 
+**星評価:** 2.0 / 5 ⭐ (1)
+
 [Attachment 1](https://www.dailytoolz.com/gameindex.php)
 
 #### Reactions
-- **Average star rating:** 2.0
-- **Number of ratings:** 1
 
 #### Additional Information
 - **Post color:** Black
@@ -3346,11 +3611,11 @@
 ### 29. Post 29
 **Author:** aaabbbccc (mazamaza)
 
+**星評価:** 4.0 / 5 ⭐ (1)
+
 [Attachment 1](https://medv.io/bit-planes/?mode=survival)
 
 #### Reactions
-- **Average star rating:** 4.0
-- **Number of ratings:** 1
 
 #### Additional Information
 - **Post color:** Black
@@ -3364,14 +3629,14 @@
 
 <p><br/></p><p><br/></p>
 
+**星評価:** 1.0 / 5 ⭐ (1)
+
 [Attachment 1](https://www.yoosfuhl.com/)
 
 #### Comments (1)
 - **おうが** (Mar 17, 2026 12:33pm): 使い方がわかんない
 
 #### Reactions
-- **Average star rating:** 1.0
-- **Number of ratings:** 1
 
 #### Additional Information
 - **Post color:** Black
@@ -3383,6 +3648,8 @@
 ### 31. URL貼ったらなんでも開けるサイトとかない？
 **Author:** 現実見ろや粉カス (gs203427)
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 17, 2026 04:59am
@@ -3392,6 +3659,8 @@
 
 ### 32. こんにちわー
 **Author:** いっせい
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (1)
 - **おうが** (Mar 16, 2026 01:59am): こんにちは！
@@ -3405,6 +3674,8 @@
 
 ### 33. ゲームできる！
 **Author:** キューピット
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (8)
 - **おうが** (Mar 16, 2026 01:59am): おーおめでとう！！
@@ -3428,6 +3699,8 @@
 
 <p>これgames押したらクレイジーゲームとかできる</p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://hygiene.yodetergent">https://hygiene.yodetergent</a></p><p><br></p><p>これは検索したらなんでも開けるサイト</p><p>あと左のゲームボタンを押したらゲームできる（時々できない）</p><p>そして🎵マークを押すと音楽が聴ける</p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://pc-freak.net/proxy/">https://pc-freak.net/proxy/</a></p><p>これはURLをコピペするとなんでも開ける</p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://zhenxiangba.com/phproxy-improved-master/">https://zhenxiangba.com/phproxy-improved-master/</a></p><p><br></p><p>これはちょとめんどいけどなんでも開ける</p><p>これは「https://」部分を消さないと開けない</p><p><br></p><p><br></p>
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://interstellar.nana.hndifhidalgo.gob.mx/d)
 
 #### Comments (3)
@@ -3444,6 +3717,8 @@
 
 ### 35. ろぶろっくすほしい
 **Author:** 本庄克章 (YAJUAU)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (7)
 - **おうが** (Mar 12, 2026 08:16am): ろぶろはないね
@@ -3464,6 +3739,8 @@
 ### 36. 練馬区民でプロキシ持ってたらくれ
 **Author:** バンダナわどるど Xx-tucasanz-xX りおと53番弟子　りおと族27代目 (gs203418)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (3)
 - **おうが** (Mar 12, 2026 08:18am): 東京住み！？
 - **aaabbbccc** (Mar 20, 2026 04:40am): 練馬区民だけどいる
@@ -3481,6 +3758,8 @@
 
 <p>ブロックされてないのお願い🙇</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (2)
 - **kira** (Mar 11, 2026 11:34am): https://sites.google.com/view/prohomework2z/dictionaryとか？
 - **XminionQWQ** (Mar 27, 2026 05:48am): ブロックされない！
@@ -3494,6 +3773,8 @@
 
 ### 38. ゲームをのして
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (366)
 - **おうが** (Feb 17, 2026 12:02am): テトリスhttps://proxywiki.onrender.com/nyanko.html スイカゲームhttps://proxywiki.onrender.com/supura.html
@@ -3875,6 +4156,8 @@
 ### 1. 誰かユートピアください!
 **Author:** り (gs194496)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (2)
 - **フェットチーネしか勝たん** (Apr 26, 2026 11:21am): https://padlet.com/syun925/padlet-qljpcqw6hnd7sww9
 - **フェットチーネしか勝たん** (Apr 26, 2026 11:21am): この部屋の中にあったと思う
@@ -3891,6 +4174,8 @@
 
 <p>誰かTikTok教えてー</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (2)
 - **時透無一郎** (Apr 24, 2026 11:37am): ティックトックはないなー
 - **時透無一郎** (Apr 24, 2026 11:37am): ユーチューブならあるよ
@@ -3906,6 +4191,8 @@
 **Author:** フェットチーネしか勝たん
 
 <p>俺のカスタムエンドポイント、「コメント見る、プレイリスト見れない、検索できない、ホームにお勧めが表示されない」から</p>
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (7)
 - **フェットチーネしか勝たん** (Apr 20, 2026 01:16pm): 最低限コメントは見れて検索もできる奴がいい
@@ -3927,6 +4214,8 @@
 **Author:** 天才くん
 
 <p>しあとかわかめできない</p><p><br/></p>
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (11)
 - **時透無一郎** (Apr 20, 2026 12:16pm): まじか
@@ -3953,6 +4242,8 @@
 
 <p>しあtube</p><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec">https://script.google.com/macros/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec</a></p>
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://script.google.com/macros/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec)
 
 #### Additional Information
@@ -3964,6 +4255,8 @@
 
 ### 6. まっつー
 **Author:** みっきー
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (14)
 - **まっつー** (Apr 16, 2026 05:15am): なに
@@ -3993,6 +4286,8 @@
 
 <p>プロキシでもいいよ</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (7)
 - **あ** (Apr 10, 2026 06:28am): https://xc9zl8-3000.csb.app/wkt
 - **あ** (Apr 10, 2026 06:28am): https://28mfq8-3000.csb.app/wkt
@@ -4012,6 +4307,8 @@
 ### 8. 電話ができるアプリ
 **Author:** 綱啓永推し❤️❤️ (r0400268_1)
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://p2p.mirotalk.com/newcall)
 
 #### Comments (4)
@@ -4030,6 +4327,8 @@
 ### 9. おもろいよ
 **Author:** 時透無一郎 (r0300353)
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://scratch.mit.edu/projects/930261517/fullscreen/)
 
 #### Comments (2)
@@ -4045,6 +4344,8 @@
 
 ### 10. Post 10
 **Author:** たっくん
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://ubg6969.gitlab.io/)
 
@@ -4062,6 +4363,8 @@
 ### 11. Post 11
 **Author:** たっくん
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://www.dailytoolz.com/cubes-2048/iframe.html)
 
 #### Comments (1)
@@ -4076,6 +4379,8 @@
 
 ### 12. Post 12
 **Author:** たっくん
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://jcw87.github.io/c2-smb1/)
 
@@ -4092,6 +4397,8 @@
 ### 13. Post 13
 **Author:** たっくん
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://gitlabgames.gitlab.io/category/action.html)
 
 #### Comments (1)
@@ -4107,6 +4414,8 @@
 ### 14. Post 14
 **Author:** たっくん
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://ubg88.gitlab.io/)
 
 #### Comments (1)
@@ -4121,6 +4430,8 @@
 
 ### 15. Post 15
 **Author:** たっくん
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://lunar.v2-nana.mza.com.ar/)
 
@@ -4138,6 +4449,8 @@
 **Author:** おうが (18jt026)
 
 <p><a rel="noopener noreferrer nofollow" href="https://katuotube-1-1-sdw5.onrender.com">https://katuotube-1-1-sdw5.onrender.com</a></p>
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://katuotube-1-1-sdw5.onrender.com)
 
@@ -4158,6 +4471,8 @@
 ### 17. 欲しいです！！
 **Author:** Mrs. green apple (Misesu121037)
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (7)
 - **おうが** (Mar 11, 2026 11:36pm): https://katuotube-1-2.onrender.com/login
 - **おうが** (Mar 11, 2026 11:36pm): これです
@@ -4177,6 +4492,8 @@
 ### 18. カツオ新しいの出てた欲しかったら言って！
 **Author:** おうが
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (2)
 - **Charismatic Barracuda** (Mar 15, 2026 02:21am): 欲しいです
 - **ワイ君** (Apr 06, 2026 08:40am): ほしい
@@ -4192,6 +4509,8 @@
 **Author:** クランシー (18as35)
 
 <p>出来ればラグくないのでお願いします🥺</p>
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (4)
 - **おうが** (Mar 11, 2026 11:43am): 多分ラグくないやつはあんまり何ね、
@@ -4211,6 +4530,8 @@
 
 <p>うちの学校は桃鉄1時間までとか8:30〜6:までとか決められてるんですけど34201826この番号はどうですか？</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (1)
 - **おうが** (Mar 10, 2026 10:26am): いつでも行けると思うよ
 
@@ -4223,6 +4544,8 @@
 
 ### 21. ワカメとか
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (143)
 - **おうが** (Feb 17, 2026 12:04am): わかめhttps://wkt-nana-04.onrender.com/login
@@ -4383,6 +4706,8 @@
 
 <p>アイフィルターでも使える有能サイト教えて〜</p><p><br/></p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (3)
 - **フェットチーネしか勝たん** (Apr 25, 2026 01:16pm): https://edu.50friends.com.mx/search
 - **フェットチーネしか勝たん** (Apr 25, 2026 01:17pm): url載せればできるよ
@@ -4400,6 +4725,8 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://proxy-biwako.vercel.app/">https://proxy-biwako.vercel.app/</a>一応自作プロキシのデモ版多分アプデしないけどもしかしたら気が向いたらするかも。botブロッカー入ってるサイトほぼ入れないし、多分バグることもあるかもしれんけど許してちょ。まぁ生きてるプロキシ持ってない人が使ってくれ</p>
 
+**星評価:** 5.0 / 5 ⭐ (1)
+
 [Attachment 1](https://proxy-biwako.vercel.app/)
 
 #### Comments (4)
@@ -4409,8 +4736,6 @@
 - **Kick** (Apr 23, 2026 04:03am): みなさんrenderの方が入りやすい感じですか？
 
 #### Reactions
-- **Average star rating:** 5.0
-- **Number of ratings:** 1
 
 #### Additional Information
 - **Post color:** Black
@@ -4421,6 +4746,8 @@
 
 ### 3. Post 3
 **Author:** やまにつつ (yamanitsutsu)
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://www-q.nolife.uk/)
 
@@ -4440,6 +4767,8 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://www-q.nolife.uk/">https://www-q.nolife.uk/</a></p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (2)
 - **ky1732050808** (Apr 17, 2026 10:57am): 返信、評価よろ
 - **フェットチーネしか勝** (Apr 17, 2026 01:01pm): ブロ
@@ -4453,6 +4782,8 @@
 
 ### 5. これマジでおすすめ
 **Author:** ky1732050808
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://www-reflect4.buachi.work)
 
@@ -4470,6 +4801,8 @@
 
 ### 6. Post 6
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://subscribe-vcsa.mrwheeler.uk/)
 
@@ -4495,6 +4828,8 @@
 
 <p>たのむッ</p>
 
+**星評価:** 0 / 5 ⭐
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 31, 2026 01:38pm
@@ -4504,6 +4839,8 @@
 
 ### 8. youtube見れるプロキシサイト教えて
 **Author:** フェットチーネしか勝つ
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (2)
 - **おうが** (Apr 07, 2026 12:55pm): わかめとかしあとかなるある
@@ -4518,6 +4855,8 @@
 
 ### 9. 作ったよー
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (15)
 - **時透無一郎** (Mar 17, 2026 11:04pm): うちの学校公開プロキシブロックされてんだよなー
@@ -4546,6 +4885,8 @@
 ### 10. Post 10
 **Author:** aaabbbccc (mazamaza)
 
+**星評価:** 0 / 5 ⭐
+
 [Attachment 1](https://precalc.k22.su/)
 
 #### Additional Information
@@ -4557,6 +4898,8 @@
 
 ### 11. Post 11
 **Author:** aaabbbccc (mazamaza)
+
+**星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://sharethisshadow.easterndns.com/)
 
@@ -4573,6 +4916,8 @@
 **Author:** おうが (18jt026)
 
 <p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (23)
 - **おうが** (Mar 16, 2026 02:19am): 何でも言ってください
@@ -4609,6 +4954,8 @@
 ### 2. スマホ親に奪われた
 **Author:** でんじろー先生愛してる❤️
 
+**星評価:** 5.0 / 5 ⭐ (1)
+
 #### Comments (2)
 - **おうが** (Apr 23, 2026 01:40am): どんまい
 - **GP** (Apr 24, 2026 02:50am): 大丈夫そうじゃない
@@ -4622,6 +4969,8 @@
 
 ### 3. あいふぃるたー回避方法教えて。制限硬い
 **Author:** るか (r0137776)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (13)
 - **川上岳彦** (Mar 21, 2026 04:04am): Me too
@@ -4650,6 +4999,8 @@
 ### 1. ブロスタしてる子いますか
 **Author:** アメリカ税務署管理者
 
+**星評価:** 0 / 5 ⭐
+
 #### Comments (13)
 - **ハネノキ** (Apr 17, 2026 12:31pm): 僕してます
 - **こnにちは** (Apr 19, 2026 05:19am): ぼく1日でエリート
@@ -4674,6 +5025,8 @@
 
 ### 2. してる子話そ
 **Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
 
 #### Comments (188)
 - **かっっぱ** (Feb 19, 2026 04:46am): ブロフルってなんですか？
