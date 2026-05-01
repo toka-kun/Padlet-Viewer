@@ -1,4 +1,4 @@
-最終更新: 2026/05/01 00:11:36
+最終更新: 2026/05/01 12:31:53
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Apr 30, 2026 01:00pm
+- **Updated At (UTC):** May 01, 2026 02:27am
 
 ## 受付
 
@@ -52,7 +52,7 @@
 ### 3. アクセス要求して
 **Author:** woolisbest (woolisbest)
 
-#### Comments (86)
+#### Comments (89)
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Feb 12, 2026 11:54pm): すぃた
 - **削除済みユーザー** (Feb 13, 2026 03:20am): した
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 13, 2026 06:49am): sita
@@ -139,6 +139,9 @@
 - **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #いやっほい族百八代目** (Apr 12, 2026 03:06am): ほんとに来たのか……w
 - **生きやがれ** (Apr 12, 2026 06:56am): daheruko@nanana.uk　入れてー
 - **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #いやっほい族百八代目** (Apr 12, 2026 09:23am): 入れたよー
+- **raisei1414** (May 01, 2026 01:43am): オネシャス
+- **raisei1414** (May 01, 2026 02:27am): raisei1414@icloud.com
+- **raisei1414** (May 01, 2026 02:27am): いれてー
 
 #### Additional Information
 - **Post color:** Yellow
@@ -231,7 +234,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (40)
+#### Comments (41)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -272,6 +275,7 @@
 - **ハッタユヅキ** (Apr 02, 2026 09:05pm): しました
 - **カービィ** (Apr 29, 2026 07:44am): しました
 - **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #いやっほい族百八代目** (Apr 29, 2026 08:33am): カービィいれたよー
+- **raisei1414** (May 01, 2026 01:42am): したー
 
 #### Additional Information
 - **Post color:** Red

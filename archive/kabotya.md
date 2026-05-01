@@ -1,4 +1,4 @@
-最終更新: 2026/05/01 00:11:59
+最終更新: 2026/05/01 12:32:14
 
 # 規制突破の世界
 
@@ -7,7 +7,7 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 127
 - **Created At (UTC):** Aug 20, 2024 06:37am
-- **Updated At (UTC):** Apr 30, 2026 01:57pm
+- **Updated At (UTC):** May 01, 2026 12:38am
 
 ## ライター
 
@@ -103,8 +103,7 @@
 - **時透無一郎** (Apr 16, 2026 08:41am): あらしやめろ
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 16
+- **Emojis:** 👎 (16) 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -158,8 +157,7 @@
 - **series227urara 岡山行** (Mar 17, 2026 10:28am): ↑チャンネル登録お願い致します
 
 #### Reactions
-- **Upvotes:** 6
-- **Downvotes:** 3
+- **Emojis:** 👍 (6) 👎 (3)
 
 #### Additional Information
 - **Post color:** Red
@@ -185,8 +183,7 @@
 - **Dependable Butterfly** (Mar 02, 2026 01:13pm): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 
 #### Reactions
-- **Upvotes:** 0
-- **Downvotes:** 1
+- **Emojis:** 👎 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -212,8 +209,7 @@
 - **Dependable Butterfly** (Mar 02, 2026 01:13pm): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 
 #### Reactions
-- **Upvotes:** 0
-- **Downvotes:** 1
+- **Emojis:** 👎 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -248,8 +244,7 @@
 - **Calm Cricket** (Feb 17, 2026 04:12am): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 0
+- **Emojis:** 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -280,7 +275,7 @@
 
 <p>俺は買ったよ</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/94018134aa72b906730df049d217f6d1/image.jpg?Expires=1778166717&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hk5ihbLr0rhPwpJZNQCtZ1l8u%2BfYF0z1TXMRTKio8eDRViHbiMAgU7GQubotmaudSF5T1qQh4E9eennZRo2WK0%2B5qMeqG97uIrf%2F9PCGgc5G6tUtbhH7pOUicIt9jwHaM8fYeHhNiXoEm%2Bq5vZsW52hqTUixMVlqOooWcWkvIHM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F94018134aa72b906730df049d217f6d1%2Fimage.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/94018134aa72b906730df049d217f6d1/image.jpg?Expires=1778211132&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PO694lYBzUhdO7nVsmo2q41%2BVqTonXTaq1VXwCUIPAiZxNsTEr7c5Ol%2F4L13X8b1NbYjuo3TC6VxJ8upy%2FlgbSQCseO8h7eCqsTsOz0Xmt5APfO8jUjR6RcHB1R3u8P006IuH%2FC7IXK63Fx9dfZQ7f5Xlki0q373AH8DJ7Htjl4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F94018134aa72b906730df049d217f6d1%2Fimage.jpg)
 
 #### Comments (17)
 - **NARITATI　闇の業火に抱かれて眠れ!** (Oct 25, 2025 10:18am): いいな〜
@@ -302,8 +297,7 @@
 - **さくら** (Apr 20, 2026 11:01am): 私も食べました
 
 #### Reactions
-- **Upvotes:** 2
-- **Downvotes:** 0
+- **Emojis:** 👍 (2)
 
 #### Additional Information
 - **Post color:** White
@@ -340,8 +334,7 @@
 - **ｸﾎﾞ ｲｯﾀ** (Oct 20, 2025 10:04am): 荒らされてるやんあとわかめ教って何www
 
 #### Reactions
-- **Upvotes:** 0
-- **Downvotes:** 1
+- **Emojis:** 👎 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -353,15 +346,14 @@
 ### 10. 最後の5秒編集した。
 **Author:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/7ef07e48e063a7b182f6cf00b43fe1d2/_____________YouTube_________.mp4?Expires=1778166717&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=A728pypxxffYpKfQIo13YE51ZesNOIMd2vDM0TzJHCq%2FVuaXscF6%2F764OQIjlbjl8m%2FgxQv4aIwamxmTXQp4Nbc6c5ua2Aa798H6zwX6ryXWxROB8i0o9aP6C7yxJhVX0DY%2F%2BiBa29iGUzTUME%2BUk62%2BE78CLtV3dvpv%2BqpGGYY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F7ef07e48e063a7b182f6cf00b43fe1d2%2F_____________YouTube_________.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/7ef07e48e063a7b182f6cf00b43fe1d2/_____________YouTube_________.mp4?Expires=1778211132&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=umfOHj6pf6hpOY6Me2l71dLFH8jGK6c7hSWjBs3CA6of8onJ2m2SDdyHYC1x3XS7mo6vhlG8YGT5g8Mo92PSypKwu8wYXy6qe1lthGFUVOaoBha%2FL1%2Fcv4czTNxiWUQxfyB7f%2BXvj5b%2B52hA%2FAXvnfItnQVoa8hLXA8WiGpz7q4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F7ef07e48e063a7b182f6cf00b43fe1d2%2F_____________YouTube_________.mp4)
 
 #### Comments (2)
 - **クソ豚撲滅委員会** (Feb 17, 2026 10:11am): もっと曲出して。
 - **アメリカ撲滅委員会名誉委員会会長現アメリカに最高指導者と国務税の位についている高橋と申します** (Apr 16, 2026 08:59am): そうそうもっと出して
 
 #### Reactions
-- **Upvotes:** 5
-- **Downvotes:** 0
+- **Emojis:** 👍 (5)
 
 #### Additional Information
 - **Post color:** White
@@ -488,8 +480,7 @@
 - **釈迦ポテ** (Mar 01, 2026 03:34am): SO☆RE☆NA☆
 
 #### Reactions
-- **Upvotes:** 0
-- **Downvotes:** 2
+- **Emojis:** 👎 (2)
 
 #### Additional Information
 - **Post color:** White
@@ -516,8 +507,7 @@
 - **Artistic Antelope** (Feb 03, 2026 09:34am): 規制無しでどうやって入るの？
 
 #### Reactions
-- **Upvotes:** 4
-- **Downvotes:** 2
+- **Emojis:** 👍 (4) 👎 (2)
 
 #### Additional Information
 - **Post color:** White
@@ -602,8 +592,7 @@
 - **よしなりけいすけ** (Apr 23, 2026 12:05pm): https://padlet.com/s2206019_2/padlet-17jyw1jw205jo8wu
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 8
+- **Emojis:** 👎 (8) 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -619,8 +608,10 @@
 
 [Attachment 1](https://kobayasi-riku.easterndns.com/)
 
-#### Comments (1)
+#### Comments (3)
 - **ホシミネ** (Apr 23, 2026 10:13am): ダイナミックDNS
+- **ツムギノ** (May 01, 2026 12:38am): https://yandex.kz/games/app/310678?utm_source=game_header_logo
+- **ツムギノ** (May 01, 2026 12:39am): https://wkt-uzi2.onrender.com/wkt
 
 #### Additional Information
 - **Post color:** White
@@ -674,8 +665,7 @@
 - **しろちゃん** (Mar 12, 2026 09:05am): 入ってーhttps://padlet.com/29200151/padlet-qljpcqw6hnd7sww9
 
 #### Reactions
-- **Upvotes:** 2
-- **Downvotes:** 6
+- **Emojis:** 👎 (6) 👍 (2)
 
 #### Additional Information
 - **Post color:** White
@@ -706,8 +696,7 @@
 - **Defiant Llama** (Feb 17, 2026 01:22am): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm入って
 
 #### Reactions
-- **Upvotes:** 0
-- **Downvotes:** 4
+- **Emojis:** 👎 (4)
 
 #### Additional Information
 - **Post color:** White
@@ -1085,7 +1074,7 @@
 
 <p>笑ったら👍️押して</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/5f6661282b178b6ae59c5a2cf86322bf/Screen_recording_2025_04_08_12_50_54.webm?Expires=1778166717&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FyPIccBcfExjAqWNN%2FOYZg5B9AT9Ik9%2FmZ2hOBDgKRipE2bvODRr7%2BbOtMz1V9prvKKUKx%2Bbs82HV6LkcmcD1jGo9DsdGAaE5Xyxmt%2Fs96MscW5m1BS3kEYQgh%2B9WfIDEd5g0MZjnSE866m%2FGvMezSnGC6vAI00fVvvr2GHfkYg%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F5f6661282b178b6ae59c5a2cf86322bf%2FScreen_recording_2025_04_08_12_50_54.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/5f6661282b178b6ae59c5a2cf86322bf/Screen_recording_2025_04_08_12_50_54.webm?Expires=1778211132&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hbjd0WuYRQv%2FHBKYtSUFLTmZUzKMDzasL%2FuFPcWh1m4KkYhnyxnQZw%2B9I71cFYY4DYDvyXQbznPbqYV7gaGMIhT%2B%2BPxI7gjdGLDrG4E5CiKhhAe76GqiPiiAyK8tMdGaK0SRw3sDPesjf8SVp1sS%2FAozYEMUCbY0XH2yGPrih4o%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F5f6661282b178b6ae59c5a2cf86322bf%2FScreen_recording_2025_04_08_12_50_54.webm)
 
 #### Comments (4)
 - **なべさん** (Apr 08, 2025 03:53am): w
@@ -1094,8 +1083,7 @@
 - **ノハナ** (Apr 28, 2026 07:51am): 笑った
 
 #### Reactions
-- **Upvotes:** 5
-- **Downvotes:** 1
+- **Emojis:** 👍 (5) 👎 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1131,7 +1119,7 @@
 ### 23. 待ってｗ普通にブロックｗｗ
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/c35cdf6225db884a79bfbe70fe842184/image.png?Expires=1778166717&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=N9vrozjRR3dmURwRK4EWvEOw%2BvTXZCjAe5OWiBeBtOwo3MsP5CsT7H6boXV%2FucFjfIC0sOLxRkq7iUC%2BoG8qaZMbnlCHEm6mI9ShyZb8C50JeZgdOaxnp0kdBkLI9r3HESwi1Oe9z6vdNgn%2BfXrOnuLlBaikhCFEFLL4rwyz3Qk%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fc35cdf6225db884a79bfbe70fe842184%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/c35cdf6225db884a79bfbe70fe842184/image.png?Expires=1778211132&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FWsCTYMVO15tCL%2FkGbXq5NgBUm87J6%2F%2FG4hDHRe6GvbGhOT%2B3yjDiaCtVKB%2B6jMIJBPPKKAkrpUJZYcg0teAvtolI%2BZ%2FZu8FVrOsn1zy3bDg74DubUjtUmFxI9AvjMKc0%2B9tlk2mDT2RyQtBJm%2FU2Pt%2F32bqJnLe6xKScjrsyBs%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fc35cdf6225db884a79bfbe70fe842184%2Fimage.png)
 
 #### Comments (5)
 - **柚子塩** (Apr 08, 2025 03:27am): www
@@ -1150,7 +1138,7 @@
 ### 24. なべさん、柚子塩さん
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/b8396ea7fd827a740bfb9ee98017847a/image.png?Expires=1778166717&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=p17pisSSPqwcokUjucNWPjG5a0%2FK0heFcrUV5EY2WMt%2BzU%2Bmk5mZ0%2ByMR2H8hOszJxPyb5NxHsaL3bDBDkoVa%2F6FHxfclUSbqQUHEVVGyW6EV94hzSu2HUwBBCld9A1WkzRF3CyjEzwkmuvIq8kSOlhIeJrse7WZULjFKGOlFu8%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fb8396ea7fd827a740bfb9ee98017847a%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/b8396ea7fd827a740bfb9ee98017847a/image.png?Expires=1778211132&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1rfBRB%2FNTJpOJRHZqG40580EhC21oK9cup519s2SZ8M%2FekdrmXTcj2x0z4CyfFkS6LJCk59PTdVHdKFehGp2svHhsh4LMVFv0PYCMcN7Zg1C9RN%2BRU%2FL%2BDYwP5GWNBL7cPQGWO4XLcgQFlwb0p9dm6J7IRrkbsW%2FnUKQpZxHBsQ%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fb8396ea7fd827a740bfb9ee98017847a%2Fimage.png)
 
 #### Comments (3)
 - **【超低浮上】Mr.k廃人** (Apr 08, 2025 03:26am): セーフらしいです
@@ -1299,8 +1287,7 @@
 - **はるきっき** (Jun 13, 2025 10:19am): うぅぅぅぅブロック
 
 #### Reactions
-- **Upvotes:** 2
-- **Downvotes:** 0
+- **Emojis:** 👍 (2)
 
 #### Additional Information
 - **Post color:** White
@@ -1409,7 +1396,7 @@
 ### 36. まぁこれが現在の状況です
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/d3730900b839f44b20861220e91685cf/image.png?Expires=1778166718&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Gi0bBiYW6vMsIn1PQovpkdUEWdgeQf%2B8JxmLO2F%2Fb4cibvEhMhdZ6XqrxlP%2BVrTZFgSacgsYz1A5UBdV2KCsXmaTqDwgAkDpPWjSMygGPj2tcgFDlpfhKQOwf8lHRkOiPWtRPfT0jTm5NuAoralzPLxSUtPvqz8%2FDjh0U7nc7sg%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fd3730900b839f44b20861220e91685cf%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/d3730900b839f44b20861220e91685cf/image.png?Expires=1778211133&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SbQyjCZVEo3RZkBGVH40W8hGJ3ys%2BDfIVv2Boj96ysAg3MprPlXOm%2BKvbNc3KgCtnEXlhEHaMX6iC30cqZCwu%2FQh9Yg8L0J3pV%2BgJRh13lno736MA9Rw7%2B0xi%2B6zSDLvtTY3CZXUoy3zqjx79IohnumjNsNZVYAHCmS1C0JqkJk%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fd3730900b839f44b20861220e91685cf%2Fimage.png)
 
 #### Comments (29)
 - **柚子塩** (Apr 07, 2025 10:27pm): おぉ〜
@@ -1452,7 +1439,7 @@
 ### 37. やりかた
 **Author:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/36d92899197a03dc53aeabb98c2edd79/Screen_recording_2025_04_07_20_43_59.webm?Expires=1778166718&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NYnPiniq0QBPra32kseo0wcp711ZMyvI0ts56FdjRj4zQ84j%2Bm1aeSWhSIh2jNrDTJv0pntTBnzyOPRsWIXCpz8It8m4kC5jH4hBDpE7nE7eOnrqtAjnA4v%2FbB%2Fj2rdMa%2Bpav9Yc7ZNsPxuycTYy%2FNe8%2BfOI72ouKe%2FSRqD76Zo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F36d92899197a03dc53aeabb98c2edd79%2FScreen_recording_2025_04_07_20_43_59.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/3649489253/36d92899197a03dc53aeabb98c2edd79/Screen_recording_2025_04_07_20_43_59.webm?Expires=1778211133&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=38a8%2Bc1%2BvR4SbMtexGdf17pUZZJpgTCeu%2Bub2jBzhW0IdEjJ2mBM4yARxb9T1SPTnzE55OAsN2NsSxziAODG1leKaHuV2kPnhgnGtvX%2F996%2B8qD7EB76%2B25ZgcIzFdKQ2yXxyRTEtMmHyJmsNRnPD%2F7DSNQCs6xpBi4RDgikmbQ%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F36d92899197a03dc53aeabb98c2edd79%2FScreen_recording_2025_04_07_20_43_59.webm)
 
 #### Comments (5)
 - **イグクラ大好き人間** (Apr 07, 2025 12:46pm): 俺もできたあ
@@ -1627,8 +1614,7 @@
 - **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (Apr 15, 2026 06:37am): 非公開じゃ意味ないやん
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 0
+- **Emojis:** 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1679,8 +1665,7 @@
 - **あいすえ** (Apr 06, 2026 06:17am): お前らイカ臭いwww       
 
 #### Reactions
-- **Upvotes:** 3
-- **Downvotes:** 5
+- **Emojis:** 👎 (5) 👍 (3)
 
 #### Additional Information
 - **Post color:** Red
@@ -1714,8 +1699,7 @@
 - **キモygv** (Feb 26, 2026 08:02am): 乙
 
 #### Reactions
-- **Upvotes:** 0
-- **Downvotes:** 1
+- **Emojis:** 👎 (1)
 
 #### Additional Information
 - **Post color:** Green
@@ -1729,7 +1713,7 @@
 
 <p>Mr.暇人さんの荒らし対策本部のとこ荒らされてるしコメントすらできなくなってる？？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3655617445/8c143567029544738b654760a56cb885/IMG_0291.png?Expires=1778166718&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=h2MhMjigwHfWMmaRNoR2IW9pHT9liJZMkQvvsf2Jf4%2Fqx00a4LzlNQJD04fXlsDp7xSnC2CdUFyAVKXaoor%2FfSwz0acfGk50jHNLqgjg9llfId8M6LWJ4BExRxS7k%2BcMWDsALF6OWCLZDk34oG2uQSLHdolS862vK1lGev%2Fxd6w%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3655617445%2F8c143567029544738b654760a56cb885%2FIMG_0291.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3655617445/8c143567029544738b654760a56cb885/IMG_0291.png?Expires=1778211133&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3ha3NYp5EaBxjlJRUts1AsZin2Lcbz3Tjf5ZLGI6vddivWFojvVw1BkERzvkoZdqYiInEVS8fuC8WBH0cQwAkPxIcFTE00ulBMA5qUCwwS6JmoknQY14xx%2BcrmknLAoum6QhTzaPmNceIn%2FqZceEni4pOTEBT9mn7NozcRZlplo%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3655617445%2F8c143567029544738b654760a56cb885%2FIMG_0291.png)
 
 #### Comments (5)
 - **なべさん** (Apr 08, 2025 11:17pm): なんかそれとうちセクションとか増やせたりピン留めできるような管理人みたいな奴もたぶん消えてる
@@ -1792,8 +1776,7 @@
 - **しろちゃん** (Mar 12, 2026 09:06am): 入ってーhttps://padlet.com/29200151/padlet-qljpcqw6hnd7sww9
 
 #### Reactions
-- **Upvotes:** 4
-- **Downvotes:** 3
+- **Emojis:** 👍 (4) 👎 (3)
 
 #### Additional Information
 - **Post color:** White
@@ -1830,8 +1813,7 @@
 - **ブロスタ王** (Apr 27, 2026 02:06am): 胸とけつどっち派？ 
 
 #### Reactions
-- **Upvotes:** 3
-- **Downvotes:** 15
+- **Emojis:** 👎 (15) 👍 (3)
 
 #### Additional Information
 - **Post color:** White
@@ -1896,8 +1878,7 @@
 - **フウカ** (Apr 29, 2026 02:37pm): 僕もっす
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 1
+- **Emojis:** 👍 (1) 👎 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1922,8 +1903,7 @@
 - **田納言** (Apr 23, 2026 11:21am): 有限会社
 
 #### Reactions
-- **Upvotes:** 4
-- **Downvotes:** 1
+- **Emojis:** 👍 (4) 👎 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1948,8 +1928,7 @@
 - **Anonymous** (Mar 18, 2026 12:13am): ロブロックスできるサイト教えてください🙇‍♂️
 
 #### Reactions
-- **Upvotes:** 8
-- **Downvotes:** 6
+- **Emojis:** 👍 (8) 👎 (6)
 
 #### Additional Information
 - **Post color:** White
@@ -1970,8 +1949,7 @@
 - **Dependable Butterfly** (Mar 02, 2026 01:13pm): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 0
+- **Emojis:** 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1992,8 +1970,7 @@
 - **hiro mc6881** (Mar 11, 2026 10:09pm): https://padlet.com/21061014_1/padlet-82j15b6xifritx65
 
 #### Reactions
-- **Upvotes:** 0
-- **Downvotes:** 1
+- **Emojis:** 👎 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2117,8 +2094,7 @@
 - **Confident Rhino** (Mar 13, 2026 01:48am): これ行ける
 
 #### Reactions
-- **Upvotes:** 0
-- **Downvotes:** 3
+- **Emojis:** 👎 (3)
 
 #### Additional Information
 - **Post color:** White
@@ -2162,8 +2138,7 @@
 - **Defiant Llama** (Feb 17, 2026 01:23am): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 
 #### Reactions
-- **Upvotes:** 2
-- **Downvotes:** 1
+- **Emojis:** 👍 (2) 👎 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2206,8 +2181,7 @@
 - **髙山** (Apr 22, 2026 10:08am): それなかわいそう
 
 #### Reactions
-- **Upvotes:** 3
-- **Downvotes:** 0
+- **Emojis:** 👍 (3)
 
 #### Additional Information
 - **Post color:** White
@@ -2239,8 +2213,7 @@
 - **ホタル** (Apr 29, 2026 02:45am): 英語になるんだけど
 
 #### Reactions
-- **Upvotes:** 5
-- **Downvotes:** 2
+- **Emojis:** 👍 (5) 👎 (2)
 
 #### Additional Information
 - **Post color:** White
@@ -2283,8 +2256,7 @@
 - **Fancy Grasshopper** (Mar 08, 2026 12:50pm): YouTubeリンクすごい。
 
 #### Reactions
-- **Upvotes:** 4
-- **Downvotes:** 3
+- **Emojis:** 👍 (4) 👎 (3)
 
 #### Additional Information
 - **Post color:** White
@@ -2305,8 +2277,7 @@
 - **Defiant Llama** (Feb 17, 2026 01:23am): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 
 #### Reactions
-- **Upvotes:** 0
-- **Downvotes:** 1
+- **Emojis:** 👎 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2358,8 +2329,7 @@
 - **けんつー** (Jul 07, 2025 09:26pm): 85175
 
 #### Reactions
-- **Upvotes:** 0
-- **Downvotes:** 1
+- **Emojis:** 👎 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2391,8 +2361,7 @@
 - **匿名** (Apr 29, 2026 08:30am): 確かに
 
 #### Reactions
-- **Upvotes:** 2
-- **Downvotes:** 1
+- **Emojis:** 👍 (2) 👎 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2445,8 +2414,7 @@
 - **るうるう** (Apr 30, 2026 06:45am): 今21s0543g@atsugi.ed.jpっていうアカウントいらないので配布します。パスワードはs0543gkbです。
 
 #### Reactions
-- **Upvotes:** 0
-- **Downvotes:** 4
+- **Emojis:** 👎 (4)
 
 #### Additional Information
 - **Post color:** Yellow
@@ -2467,8 +2435,7 @@
 - **よしなりけいすけ** (Mar 25, 2026 04:42am): 入ってー
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 0
+- **Emojis:** 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2566,8 +2533,7 @@
 - **しろちゃん** (Mar 13, 2026 07:54am): 入ってーhttps://padlet.com/29200151/padlet-qljpcqw6hnd7sww9
 
 #### Reactions
-- **Upvotes:** 7
-- **Downvotes:** 0
+- **Emojis:** 👍 (7)
 
 #### Additional Information
 - **Post color:** White
@@ -2587,8 +2553,7 @@
 - **下ネタ教** (Dec 09, 2025 02:17am): バモスネコ登録してー
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 1
+- **Emojis:** 👍 (1) 👎 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2617,8 +2582,7 @@
 - **削除済みユーザー** (Jan 19, 2026 12:40pm): https://padlet.com/fawefwt123451234/padlet-avu9w4vz37yzwkp4きれ
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 3
+- **Emojis:** 👎 (3) 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2672,8 +2636,7 @@
 - **ポテトチップス** (Feb 23, 2026 10:47pm): ありがとう
 
 #### Reactions
-- **Upvotes:** 6
-- **Downvotes:** 0
+- **Emojis:** 👍 (6)
 
 #### Additional Information
 - **Post color:** White
@@ -2712,8 +2675,7 @@
 [Attachment 1](https://padlet.com/Kouyousitemasu/padlet-41jxnfchlh3s0ch)
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 1
+- **Emojis:** 👎 (1) 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2831,8 +2793,7 @@
 - **ぐるぐるまっきー** (Oct 08, 2025 07:34am): 荒らしていいよhttps://bbs1.sekkaku.net/bbs/Spherenet/
 
 #### Reactions
-- **Upvotes:** 0
-- **Downvotes:** 1
+- **Emojis:** 👎 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -2868,8 +2829,7 @@
 - **ぐるぐるまっきー** (Oct 08, 2025 07:34am): 荒らしていいよhttps://bbs1.sekkaku.net/bbs/Spherenet/
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 1
+- **Emojis:** 👍 (1) 👎 (1)
 
 #### Additional Information
 - **Post color:** Purple
@@ -2990,8 +2950,7 @@
 - **Attentive Koala** (Dec 28, 2025 03:23pm): はいれない
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 0
+- **Emojis:** 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -3073,8 +3032,7 @@
 - **匿名おるふぇ 馬刺し** (Aug 31, 2025 02:33pm): https://padlet.com/sakuramoti/padlet-r7ifh7xgdqu76cnr
 
 #### Reactions
-- **Upvotes:** 2
-- **Downvotes:** 2
+- **Emojis:** 👍 (2) 👎 (2)
 
 #### Additional Information
 - **Post color:** White
@@ -3162,8 +3120,7 @@
 - **karakarann** (Mar 03, 2026 09:43am): https://padlet.com/20061025/padlet-izluts7b565prwsu
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 1
+- **Emojis:** 👎 (1) 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -3182,8 +3139,7 @@
 - **カエデミチ** (Apr 14, 2026 09:54pm): エロ部屋欲しいです
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 2
+- **Emojis:** 👎 (2) 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -3197,7 +3153,7 @@
 ### 1. 約40000
 **Author:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/1bbcbb1b15f56af284531d92160b695a/IMG_1029.jpeg?Expires=1778166719&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=f6Vd8OP7%2BR17K4zWpd7YOTlMePB20g5GRPSPPfa2UTw7vPFldiezjFkb12umzJM%2B%2BaJrjOVUed2A%2Bl2Uk6ZIa%2FRfQTHp72tpqqwqsVKF9%2FZN0zl1LanNfwHNPOGMixj61SxVlOjee4Y%2F1TxofObBdOjEWL1Zua%2Fm9m3%2BTz9%2BVHA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F1bbcbb1b15f56af284531d92160b695a%2FIMG_1029.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/1bbcbb1b15f56af284531d92160b695a/IMG_1029.jpeg?Expires=1778211134&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=A4Sheqvq2fcWwMKaajrbUbss07aFS8T9yDcQbNy9UZL%2FcPFnqg%2BL7p9ooBDNbW6GMvRbpFbsWQLV11iabFNNWF90SCtFawE99250Ex6thx%2B2GmkDLkHSaYY3kuX6JCCpYeTYhnmHZV3gWPOIcXJXt5FHCrXPk0r0FXPzB4qNIG4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F1bbcbb1b15f56af284531d92160b695a%2FIMG_1029.jpeg)
 
 #### Comments (18)
 - **L** (Nov 30, 2025 11:54am): 「ｋ→ｓ💕」へ　雪論
@@ -3220,8 +3176,7 @@
 - **XminionQWQ** (Mar 27, 2026 05:45am): これで満足か？
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 2
+- **Emojis:** 👎 (2) 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -3235,7 +3190,7 @@
 
 <p>かってに作って良かったかな？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/b0aa46b1db5b56d7f3d97fe52192f4ce/IMG_1006.jpeg?Expires=1778166719&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=x9EGK8Nc09c99bFwQaut2gwalgC6JVxck58qLuMu1gpwKXBOShTJ%2FtqUH5PB0SGaz0E%2B1IiNpaHj%2Facp35IE5Obgf8%2F%2BqgIYRO9QeYwpbqJrHxSXkhmySrCSWYp3aeU%2B%2BDCqyiHb1fMkKledNWtxgLvXZBk9ocsDTTb076ciTY0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2Fb0aa46b1db5b56d7f3d97fe52192f4ce%2FIMG_1006.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/b0aa46b1db5b56d7f3d97fe52192f4ce/IMG_1006.jpeg?Expires=1778211134&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RWIkZQ56xEYYCf33zm4GJTL%2B5yZHwIDDI6ungnnnE8wadL9F5OvTv%2FYOxerOmsNnEUpGwqO3unz53v4EU3ZPCqJi2tPfoe69g06PymnlWQcTRUXkQe80oXLdka%2BaC8oSvr8gsKek7S%2Bvhw%2Bh1mfHpi55a8VXA0AFiAcTZBqjf%2B0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2Fb0aa46b1db5b56d7f3d97fe52192f4ce%2FIMG_1006.jpeg)
 
 #### Comments (41)
 - **series227urara 岡山行** (Oct 15, 2025 01:04pm): なにが？
@@ -3281,8 +3236,7 @@
 - **だれやねん** (Apr 15, 2026 07:46am): ちん
 
 #### Reactions
-- **Upvotes:** 1
-- **Downvotes:** 2
+- **Emojis:** 👎 (2) 👍 (1)
 
 #### Additional Information
 - **Post color:** White
