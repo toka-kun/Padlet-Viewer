@@ -1,4 +1,4 @@
-最終更新: 2026/05/01 15:38:23
+最終更新: 2026/05/01 18:01:49
 
 # プロキシTeck・Land山の上店（本部）
 
@@ -9,14 +9,18 @@
 - **Builder:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
 - **Posts:** 336
 - **Created At (UTC):** May 09, 2025 01:39am
-- **Updated At (UTC):** Apr 30, 2026 10:37am
+- **Updated At (UTC):** May 01, 2026 09:01am
 
 ## ようこそ！Teck・Land山の上店へ！
 
 ### 1. 新・部屋のルール
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 <p>荒らし✘</p><p>重複コメ✘</p><p>権限乱用✘</p><p>投稿編集など✘</p><p>権限クレクレ✘</p><p>暴言・喧嘩✘</p>
+
+#### Comments (2)
+- **シズクツキ** (May 01, 2026 09:01am): ちんちん
+- **シズクツキ** (May 01, 2026 09:01am): せっくす最高
 
 #### Additional Information
 - **Post color:** White
@@ -34,7 +38,7 @@
 - **𝓴.𝓯 𝓳𝓪𝓼𝓭𝓯 ぽとふ🍑** (Jun 04, 2025 10:42pm): TikTokのダウンローダーはどこに乗せればよいでしょうか？　
 - **光の忍者** (Jun 05, 2025 07:22am): youtubeダウンローダーのところで大丈夫です
 - **モシキ** (Jun 09, 2025 12:30am): https://myamya-wiki.github.io/myamya-tools/cisco/index.htmlのような物はどのセクションが適切でしょうか？（米ンター権限）
-- **専任された仙人元Pa（NOT荒らし）** (Jun 10, 2025 09:39am): プロキシ便利ツールと書いてあるセクションに投稿して下さい。分からなかったら言って下さい。
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 10, 2025 09:39am): プロキシ便利ツールと書いてあるセクションに投稿して下さい。分からなかったら言って下さい。
 
 #### Reactions
 - **Emojis:** 👍 (3)
@@ -82,7 +86,7 @@
 ## お知らせ
 
 ### 1. 懐かしいなあ.....
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 #### Additional Information
 - **Post color:** White
@@ -102,14 +106,14 @@
 ---
 
 ### 3. ついにv7発表！
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 <p><strong>※最新バージョンを共有したので、最新バージョンの方を使って下さい。</strong></p>
 
 #### Comments (6)
 - **INFINITY** (Jul 07, 2025 10:31pm): 今回のバージョンホンマにやばかった
 - **光の忍者** (Jul 08, 2025 01:34am): ありがとう
-- **専任された仙人元Pa（NOT荒らし）** (Jul 08, 2025 08:17am): 何がヤバい？
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jul 08, 2025 08:17am): 何がヤバい？
 - **千夏** (Jul 08, 2025 01:47pm): どうやって使うんですか？教えてください！
 - **INFINITY** (Jul 08, 2025 10:12pm): 危険なURL分かるの普通すごすぎでしょ
 - **光の忍者サブ垢** (Jul 12, 2025 02:28pm): それな
@@ -164,7 +168,7 @@
 ---
 
 ### 6. 2週間？くらいぶりに来ました
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 <p>久しぶりに来ました。（タイトル見て下さい）</p><p>もちろん生存していますけど、今後は一か月に1回くらいしか来られなくなるかもという感じです。</p><p><br></p><p><br></p><p>〈個人的な話〉</p><p><em>最近の出来事</em></p><p><br></p><p><strong>規制ソフトの変更</strong></p><p>この出来事で、正直あまり言いたくないですが、規制ソフトに逆らうのはしばらく諦めようという考えに......</p><p><strong>（規制に関してはキリがないです。本当に。）</strong></p><p>↑これを一番伝えたい！</p><p>成績関連に、これから気を付けていきたいと思います。</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>大したことの無い投稿で、すみません。</p><p>来るのを楽しみにしていた方には申し訳なく思っています。以上です。</p>
 
@@ -229,7 +233,7 @@
 ---
 
 ### 9. しばらく活動を休止します
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 <p>（約）2週間の活動休止です。</p>
 
@@ -249,7 +253,7 @@
 ---
 
 ### 10. 皆さんへのお知らせ
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 <p><strong>6月10日頃から、この部屋への招待がかなり遅れてしまい本当にすみませんでした。</strong>定期テストに向けての対策時期となっていたためです。</p>
 
@@ -287,7 +291,7 @@
 
 #### Comments (3)
 - **INFINITY** (Jun 10, 2025 09:10am): 僕の提案決まったんですかね
-- **専任された仙人元Pa（NOT荒らし）** (Jun 10, 2025 09:35am): 自分たちがその対応表示をするのは難しいので、他の利用者が投稿する時に努力義務で「〇〇規制ソフト対応」と投稿してもらう形が良いと思ったためお知らせの場所に移動しました。（つまり厳しい話なので不採用という形です）
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 10, 2025 09:35am): 自分たちがその対応表示をするのは難しいので、他の利用者が投稿する時に努力義務で「〇〇規制ソフト対応」と投稿してもらう形が良いと思ったためお知らせの場所に移動しました。（つまり厳しい話なので不採用という形です）
 - **🍭まかろん🎃りおとの32番㌥＿** (Jun 10, 2025 01:20pm): 了解です
 
 #### Reactions
@@ -301,11 +305,11 @@
 ---
 
 ### 13. ついに完成！部屋のPR動画！（公式）音声あり
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 <p>見てね〜</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/e4cc563e6328921bb367586ecad58b8a/Screen_recording_2025_05_22_21_07_23.webm?Expires=1778222300&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OguBS4XUhM2A2Ca2BcizXkvzxESH4aOAvD89WvErVJXbd1tI5%2BNMW6Lc2ns%2FJqlvuzHtndF0WE9HX9QAmeqB6HSpDAQcPC%2BfE8pgyy2HSpGKq5Mj8F2r9a9drCUgO6Wpi8Jw2Wzg7%2B1Z5jG8PbYc5Rib%2Bn2ZEdk8piAvlqjkeqw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2Fe4cc563e6328921bb367586ecad58b8a%2FScreen_recording_2025_05_22_21_07_23.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/e4cc563e6328921bb367586ecad58b8a/Screen_recording_2025_05_22_21_07_23.webm?Expires=1778230906&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JzHCZNbUu5o0SeN39R6jHtRXXTQ8fNjnfgVrWNZWLdYjZrw2t8R003%2BRw4tdjKHuOWrCi5bgI4Ncv8mVij%2FrMUDFRs4bAE4bYNBnJQSJIIF4py8Y4lVKtYIBYnnqaczh0TBXOIEQ2uQRaKpUzV4%2BwMIMjW7ieCQxCj9t9U3YqL8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2Fe4cc563e6328921bb367586ecad58b8a%2FScreen_recording_2025_05_22_21_07_23.webm)
 
 #### Comments (2)
 - **光の忍者** (Jun 04, 2025 12:54pm): マジですごい
@@ -322,7 +326,7 @@
 ---
 
 ### 14. 日安連会長復活‼️
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 <p>実は前に使っていたメアドが使えなくなってしまったため、（アカウントは自動的に削除されたようです）今は別のメアドを使って活動しています（どこかの研究所として）</p><p>ご心配おかけしてすみません🙇</p><p>自分の部屋（削除済み）でアカウントが削除されたことに混乱して間違った情報を伝えてしまったことに関してはごめんなさい。</p>
 
@@ -331,7 +335,7 @@
 - **光の忍者** (Jun 04, 2025 10:09am): ほんとに良かったー
 - **光の忍者** (Jun 04, 2025 10:09am): 管理者にしたのでこれからもよろしくお願いします_(._.)_
 - **光の忍者** (Jun 04, 2025 10:11am): INFINITYさん最近よく来てくれていますね。ありがとうございます
-- **専任された仙人元Pa（NOT荒らし）** (Jun 04, 2025 12:27pm): ありがとうございます。分かりました。
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 04, 2025 12:27pm): ありがとうございます。分かりました。
 - **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇** (Jun 05, 2025 11:17am): よかった
 
 #### Reactions
@@ -350,7 +354,7 @@
 <p>同じproxyの名前が書いてあるセクションがいくつかありますが、最近のものほど遅い番号のセクションに載っています。(古いものは１、新しいものは２など)新しく投稿する際は番号が一番遅いセクションに投稿してください。</p>
 
 #### Comments (1)
-- **専任された仙人元Pa（NOT荒らし）** (Jun 04, 2025 07:38am): おけです
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 04, 2025 07:38am): おけです
 
 #### Reactions
 - **Emojis:** 👍 (4)
@@ -387,7 +391,7 @@
 ## 重要案件（管理者に対して）権限OK
 
 ### 1. 元プロ棋士勢が戻ってきた案件どうかよろしく
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 #### Additional Information
 - **Post color:** White
@@ -840,7 +844,7 @@
 
 #### Comments (4)
 - **光の忍者** (Jun 13, 2025 03:59am): yoro
-- **専任された仙人元Pa（NOT荒らし）** (Jun 13, 2025 07:15am): よろ
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 13, 2025 07:15am): よろ
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jun 14, 2025 08:58am): yoro
 - **INFINITY** (Jun 23, 2025 11:35am): YOROSIKU
 
@@ -858,7 +862,7 @@
 - **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇** (Jun 07, 2025 12:45am): よろ
 - **削除済みユーザー** (Jun 07, 2025 06:33am): よろしく
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jun 08, 2025 02:57am): yoro
-- **専任された仙人元Pa（NOT荒らし）** (Jun 08, 2025 06:13am): よろ
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 08, 2025 06:13am): よろ
 - **ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目** (Jun 08, 2025 02:06pm): よろ
 - **INFINITY** (Jun 23, 2025 11:35am): YOROSIKU
 - **光の忍者サブ垢** (Jun 30, 2025 03:16pm): よろしく
@@ -878,7 +882,7 @@
 
 #### Comments (5)
 - **𝓴.𝓯 𝓳𝓪𝓼𝓭𝓯 ぽとふ🍑** (Jun 05, 2025 01:17pm): よろしくお願いします!
-- **専任された仙人元Pa（NOT荒らし）** (Jun 05, 2025 01:32pm): よろしく～
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 05, 2025 01:32pm): よろしく～
 - **光の忍者** (Jun 05, 2025 10:18pm): よろしく
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jun 08, 2025 02:57am): yoro
 - **INFINITY** (Jun 23, 2025 11:35am): YOROSIKU
@@ -918,7 +922,7 @@
 #### Comments (4)
 - **光の忍者** (Jun 04, 2025 04:00am): よろ
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jun 04, 2025 04:07am): よろ
-- **専任された仙人元Pa（NOT荒らし）** (Jun 04, 2025 02:56pm): よろ！
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 04, 2025 02:56pm): よろ！
 - **ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目** (Jun 04, 2025 10:39pm): よろ
 
 #### Additional Information
@@ -1066,7 +1070,7 @@
 ## 自由
 
 ### 1. 誰かいるといいなと願う
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 #### Additional Information
 - **Post color:** White
@@ -1107,7 +1111,7 @@
 ### 4. ohisa
 **Author:** 0b1001 (h3002183)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/255570cd2c651da9a348513201da28bf/media_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png?Expires=1778222300&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wjnbYg%2BSsiI6cfcivn85SyBZIJYHvYKLz9chmvolBPEQpK6xJOlFt6m5o%2BQoOL4RiiPFBFA5f9Sr6ZmW8YFFbJ0go5b3GhsPTt0B7nJFoonbufuhrWgWNfIVh0j%2FhPF23EEBBn4j2v6KJ8x%2F59nM8vcVOyVVtJ7256l1xOQPn4Y%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F255570cd2c651da9a348513201da28bf%2Fmedia_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/255570cd2c651da9a348513201da28bf/media_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png?Expires=1778230906&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BdRMKT6GMHSsS1272SxVC2%2BSxX35Axm3EJSB44PUUol5GzfGm%2FSaWMYqHErkjERbFOVCwKOoaAwLAdAAtJZDqyKzBgy%2FMT4Cq8GydhM4nhemYs97wYSzPWddIcYo5FETwaTxhYdIsKHfXq%2F5J8%2BikYk7HgBr%2Bapuunfvpw4%2B%2B8Y%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F255570cd2c651da9a348513201da28bf%2Fmedia_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png)
 
 #### Comments (1)
 - **光の忍者** (Jan 20, 2026 03:14am): 久しぶり
@@ -1427,7 +1431,7 @@
 ### 27. わかめを使おうと思ったらこんなん出たけれどこれはなにですか？
 **Author:** りおとだお！もうすぐ高校入試！ (gohannoisii)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3043221779/081c3467813e2887d966a6453c62a962/IMG_6127.jpeg?Expires=1778222300&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TW%2FCMKukPUmBImru9a8LHJGQcFNhKK3ibpbHnyBuSY6Mt%2FsvW5h81w7TBee3gXwMDWulgwYaeKeqIz6o1R6YTxfdMMGVpcJXxXBLg6L6%2FCZAet81mz2Pl6rMpu3gYTn%2BO9i0CMgvp2dIgMwcqoO9WwgzuSAURTO9t9FACjVXt9g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3043221779%2F081c3467813e2887d966a6453c62a962%2FIMG_6127.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3043221779/081c3467813e2887d966a6453c62a962/IMG_6127.jpeg?Expires=1778230906&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rHuQBJSz1rWu1Mhg8U%2FNwMH3y3tzJdwvD1k9TAYrjR46gMZnDvn2M8yHP8rsXMUIsObKEXA%2Bsqvd%2FyKV%2FIycMLxYzOml7eptIma1YZvh%2FoAy2GyucfCmMKevg%2BFy6OCm8E%2BvRvJ3vhsWkgU45RAEfn7ciZGlSgawMCj44PoYOmA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3043221779%2F081c3467813e2887d966a6453c62a962%2FIMG_6127.jpeg)
 
 #### Comments (5)
 - **(^_^)r Youtube大好きな人** (Jul 09, 2025 10:18pm): わからん
@@ -1685,7 +1689,7 @@
 
 <p>・↑これをアイコンに設定する</p><p>・部屋名をgoogleフォーム</p><p>　　↳ Google フォーム にする</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/3ea9d3aaf5a8f51eda6b391fc7312b52/forms_icon_2023q4.ico?Expires=1778222301&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tDVB2YHrVXW3M%2FxV7HFvqIZsk%2FJbpryfpEqys1PfJp6l8t0VlWlxRZaIUxM1qHBtN3O%2FSgduJrYcXA%2Bt9TS9NM%2BzBNVqXo9lSEy57e9g0NVeUAzH8kqTTmKyM2vYbfB3mFWNpD4t7H9TENiWpFEnFLI%2F%2FedtUrSHh%2BO7lmhDBrQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F3ea9d3aaf5a8f51eda6b391fc7312b52%2Fforms_icon_2023q4.ico)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/3ea9d3aaf5a8f51eda6b391fc7312b52/forms_icon_2023q4.ico?Expires=1778230906&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mTZzP%2Fckuyi7ydcD6H7uSCzoanGGfrBURx2lL%2FUwRbvWAwS%2F9Q78PSi07o%2BeE%2Fl4DcsStYEVM1ILSidh2SJmfMU9Bs0g6vwJbGf1sZyMpHyMyKoj3o0WEA4y8V8FZuYma4ihP48EcHet7%2FIponkJJsPUNqxkNNQewlOqEBsRurY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F3ea9d3aaf5a8f51eda6b391fc7312b52%2Fforms_icon_2023q4.ico)
 
 #### Comments (3)
 - **光の忍者** (Jun 23, 2025 02:15am): オッケー
@@ -1788,8 +1792,8 @@
 
 #### Comments (3)
 - **ささもさ** (Jun 13, 2025 07:18am): シャドウ欲しいです
-- **専任された仙人元Pa（NOT荒らし）** (Jun 13, 2025 07:19am): Shadowならこの部屋にありますよ
-- **専任された仙人元Pa（NOT荒らし）** (Jun 13, 2025 07:21am): かなり右のセクションですが。
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 13, 2025 07:19am): Shadowならこの部屋にありますよ
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 13, 2025 07:21am): かなり右のセクションですが。
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1903,7 +1907,7 @@
 
 <p>こうなります。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3700672421/8fdd1ed1f25c86154e232686d5d8b89d/Screenshot_2025_07_15_08_11_32.png?Expires=1778222301&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gpNzNJGr4ZbgHfTERC5pD8xzK%2Fi1JgukEyKslYJiuECeUr%2FpY%2FWausYCMPjlMN6IUlYvkFmId38dTeTaxDEHTf8P5Vh770yU2T9%2B%2FEZXcs6HXBSv%2FZYK1KPi5kS11fvm3XRuET0ctZ5UlyiY2zOttQyC2ZAReEoqPpMBhG5rgoA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3700672421%2F8fdd1ed1f25c86154e232686d5d8b89d%2FScreenshot_2025_07_15_08_11_32.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3700672421/8fdd1ed1f25c86154e232686d5d8b89d/Screenshot_2025_07_15_08_11_32.png?Expires=1778230906&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lo3mHMux2CALDFhFlGlUytT9nOjioBk4pTrYzgkIN0ahCQbIyKly%2Fql5XiW28SxAYZPjOVzrkMHXg0J9XVBsPo0DAAjcoQsP6LHd9xmJBxIcFF0oQ23gnMgdTdAs3g2GKyUMlzleItoQwd5SVb1r9PnEtW%2Fixl8NuhWNIjNwcZY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3700672421%2F8fdd1ed1f25c86154e232686d5d8b89d%2FScreenshot_2025_07_15_08_11_32.png)
 
 #### Comments (5)
 - **INFINITY** (Jul 15, 2025 07:27am): 治らないと思います、新しいわかめに切り替えてみてはどうでしょうか
@@ -2155,9 +2159,9 @@
 <p>自分が知ってるインターステラー全部規制された()</p>
 
 #### Comments (4)
-- **専任された仙人元Pa（NOT荒らし）** (Jun 08, 2025 12:12pm): isgcみたいに規制ソフト名は分かりますか?
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 08, 2025 12:12pm): isgcみたいに規制ソフト名は分かりますか?
 - **INFINITY** (Jun 08, 2025 07:36am): InterCLASS Filtering Serviceって書いてあるね、最近制限地獄すぎ
-- **専任された仙人元Pa（NOT荒らし）** (Jun 08, 2025 12:17pm): ちょっと使えるのは分からないですね...もしインターステラー以外のプロキシが使えるなら他のを使ってみるのも良いかと。
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 08, 2025 12:17pm): ちょっと使えるのは分からないですね...もしインターステラー以外のプロキシが使えるなら他のを使ってみるのも良いかと。
 - **0b1001** (Jun 19, 2025 05:46am): 同じ規制ソフトの人だ
 
 #### Reactions
@@ -2174,17 +2178,17 @@
 **Author:** ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目 (zasiannnikaterumonohainai)
 
 #### Comments (20)
-- **専任された仙人元Pa（NOT荒らし）** (Jun 04, 2025 12:38pm): 分かりました。お待ちください
-- **専任された仙人元Pa（NOT荒らし）** (Jun 04, 2025 12:38pm): https://kinodenweb.acenetgamejp.com/
-- **専任された仙人元Pa（NOT荒らし）** (Jun 04, 2025 12:44pm): こんな感じかな？
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 04, 2025 12:38pm): 分かりました。お待ちください
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 04, 2025 12:38pm): https://kinodenweb.acenetgamejp.com/
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 04, 2025 12:44pm): こんな感じかな？
 - **光の忍者** (Jun 04, 2025 12:44pm): 規制でした
-- **専任された仙人元Pa（NOT荒らし）** (Jun 04, 2025 12:50pm): 「スマホアプリ」とはゲームでは無いですよね？具体的に教えてくださると嬉しいです。
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 04, 2025 12:50pm): 「スマホアプリ」とはゲームでは無いですよね？具体的に教えてくださると嬉しいです。
 - **ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目** (Jun 04, 2025 01:03pm): すみません訂正します
 - **ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目** (Jun 04, 2025 01:03pm): スマホアプリとはゲームなどのアプリということです
-- **専任された仙人元Pa（NOT荒らし）** (Jun 04, 2025 01:06pm): 分かりました。
-- **専任された仙人元Pa（NOT荒らし）** (Jun 04, 2025 01:06pm): gyattmath.buzz/g
-- **専任された仙人元Pa（NOT荒らし）** (Jun 04, 2025 01:08pm): 23azo-games.github.io
-- **専任された仙人元Pa（NOT荒らし）** (Jun 04, 2025 01:08pm): どうですか？
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 04, 2025 01:06pm): 分かりました。
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 04, 2025 01:06pm): gyattmath.buzz/g
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 04, 2025 01:08pm): 23azo-games.github.io
+- **人生やりますねぇ(≧∇≦)《人生💯年時代》** (Jun 04, 2025 01:08pm): どうですか？
 - **光の忍者サブ垢** (Jun 04, 2025 01:09pm): 上は使えました
 - **ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目** (Jun 04, 2025 01:26pm): 今僕学校のパソコンでやっているんですけど
 - **ザシアン　＃煮物11番弟子#ｺﾞｼﾞﾗ一族2番目** (Jun 04, 2025 01:27pm): １０時をすぎると全て規制されて使えなくなるので明日開きます
@@ -2208,7 +2212,7 @@
 ## 投票
 
 ### 1. この部屋にあるプロキシは使えましたか？（第三回目）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 **この部屋のプロキシは使えた？:**
 - **使えた:** 18 votes
@@ -2473,7 +2477,7 @@
 ---
 
 ### 16. ゲーム集（googleで制作）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 <p>※自分が作成した訳ではありません</p>
 
@@ -2490,7 +2494,7 @@
 ---
 
 ### 17. ゲーム集
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://imoutofideas12.global.ssl.fastly.net/)
 
@@ -2505,7 +2509,7 @@
 ---
 
 ### 18. ゲーム集
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://geography-lessons.github.io/)
 
@@ -2520,7 +2524,7 @@
 ---
 
 ### 19. ゲーム集（30個）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://sites.google.com/view/unblocked-30games/home)
 
@@ -2535,7 +2539,7 @@
 ---
 
 ### 20. （ciscoで動作）珍しいゲームがあるサイト
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://retrobowlweb.gitlab.io/)
 
@@ -2550,7 +2554,7 @@
 ---
 
 ### 21. ゲーム集（ciscoで動作確認済み）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://ttgworld.net/play)
 
@@ -2565,7 +2569,7 @@
 ---
 
 ### 22. ゲーム集（豊富）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://gameverse.global.ssl.fastly.net/games.html)
 
@@ -2580,7 +2584,7 @@
 ---
 
 ### 23. ゲーム集
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://sites.google.com/view/prohomework2z/home)
 
@@ -2599,7 +2603,7 @@
 ### 1. とりあえずskin
 **Author:** ちょこ#りおと族999代目#bw (vwlxx)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/33ae1e902b22fa0cedcbe16bd036ccc9/vortex.png?Expires=1778222301&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zIb5O34iHigmzPGi6vyH2vFCtecxnvP8Qj4cRcrVHonxg3cAvjxLl5%2F0n5wL%2B2qkkmPCMq5%2Fpc6fPEiRTJVkx7SAUm3%2BUHykSxklhoPwIVaWipNtPPg8ymW%2FYV2sWYJqa0UEU2d%2BRAp3PYHqpRoNc%2FRNOPViYugo8c1PVJ%2BOQ9Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F33ae1e902b22fa0cedcbe16bd036ccc9%2Fvortex.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/33ae1e902b22fa0cedcbe16bd036ccc9/vortex.png?Expires=1778230907&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WFOk3hhNbixcCuoh%2B0D4NtX0aiQbOek%2Fi8B0JBaFIRlehI68rto8qiuqODBDErE56O%2Bp49jqmJc9GIQGakpYcTLKD%2FVYhpuxmdSA9tV86UBuabUgINwWQRKYRainYP9DHGb1NUanz5wriQQiIUl2D%2FVc5zmLtO6ky3WIDo4F%2B2o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F33ae1e902b22fa0cedcbe16bd036ccc9%2Fvortex.png)
 
 #### Comments (5)
 - **さくらもち** (Jul 28, 2025 02:39pm): どうやって作るの？
@@ -2621,7 +2625,7 @@
 ### 2. ダウンロードして使う系
 **Author:** INFINITY (nanasisan)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3933854277/c9de0e700fa68e9378074201ec74f6c1/Minecraft_Java_edition1_9_4__2_.html?Expires=1778222301&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=H98an%2BJvzPVfE2OjswvLkpO1DqJfYXzYLkkf8TlF4zyqoGy0QVQ3EoIK277V3MaVQvV3QvIfXEqwpQxaTjTw5dbfh2gQFYYSftETcopDQjauj08ctOrH7EL1D%2FXIWpoTBjXQ5EJ6%2FmWVpRYhHZ%2FM1K%2BHEray47HB7wOmmyy6iB4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3933854277%2Fc9de0e700fa68e9378074201ec74f6c1%2FMinecraft_Java_edition1_9_4__2_.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3933854277/c9de0e700fa68e9378074201ec74f6c1/Minecraft_Java_edition1_9_4__2_.html?Expires=1778230907&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZmtSqSDXWuu%2BdVKUrtbbM1f30i8nhKK6P%2FmnSh%2Fintb%2BdxZoXVzi%2BkD%2FRdMFQ873li2rOolQ5BzMtObPn8EArDtf9IDGN80ilwuAwGEbiQnDGdSSD6y9Z2Ih6PhrhrNt54CX7Bro%2FnJpDQk98azbT6PdPAeUhlcQ6NFxwBWlj9c%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3933854277%2Fc9de0e700fa68e9378074201ec74f6c1%2FMinecraft_Java_edition1_9_4__2_.html)
 
 #### Comments (1)
 - **Riur🐾** (Jun 27, 2025 01:35pm): ありがと、
@@ -2660,7 +2664,7 @@
 
 <p>やっぱこれが一番いいんよな(まかろん調べ)</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3056603826/979c8b19b35ce1b97839ebf5b48431d9/____1_20__1_.html?Expires=1778222301&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Qf7dkuch5md7%2FZtP5hgBmCO8Cf7PYBi5KZ70k%2BKB3%2F6P7mEyePX5XYf00C1R%2FapcGPO9b9MOvnHG7tCMcnSSvHVZjiBWRsAvFCiy5pAo4TSPSrj2%2BfQjQY6CzshnHuoul9ivEUd0obkizuJ%2F7E%2BiL9yLc4yiNDnwSdthZcoFthA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3056603826%2F979c8b19b35ce1b97839ebf5b48431d9%2F____1_20__1_.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3056603826/979c8b19b35ce1b97839ebf5b48431d9/____1_20__1_.html?Expires=1778230907&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=i9vPFWwON4c%2FQkT6fdmHhS1Y%2BcjyDLZf3XccY3JyzWerQ8uOOB9mTOSXqHcwT18P5pio5IJSnq3fkgNi2QMOJtVVdVeE%2FjdP0v0%2FaCQ3L93l8f1uzxs05DLswBd2PGWtEBFdmFgJPWriKm2dFNGtPMswWzWoslYssL2aFG5scwU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3056603826%2F979c8b19b35ce1b97839ebf5b48431d9%2F____1_20__1_.html)
 
 #### Reactions
 - **Emojis:** 👍 (2) 👎 (1)
@@ -2705,7 +2709,7 @@
 ---
 
 ### 7. マインクラフト（動作に互換はある）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://d3rsc7j663z58n.cloudfront.net/#/MS44anM)
 
@@ -2720,7 +2724,7 @@
 ---
 
 ### 8. マイクラ（最新版）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://eaglercraft-archive.github.io/Koneclient-1.8-web/)
 
@@ -2735,7 +2739,7 @@
 ---
 
 ### 9. マイクラ（仕様に互換性あり）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://d1tm91r4ytbt54.cloudfront.net/2779cbcb-a02f-48a3-9e2e-95a8d123d165/1685483461665/web/index.html)
 
@@ -2750,9 +2754,9 @@
 ---
 
 ### 10. マイクラ（Eaglercraft）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/5ace91ec9bb06de6f6c8424353c21796/EaglercraftX_1_12_WASM_GC.mhtml?Expires=1778222301&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hTJWkg56CDRXVMAdByfm75FZRc4K5pTBgBGLs%2BigBesa0q3uQSn0EiqSzeE6RhfnysuJImzqDnGeQ7IZujo2OLIDpO034KpMCu8cr7iA%2BNsIZWqMzQiN6f%2F8DWcy3KKnt7L6oO%2Ff3tjQK%2BJkMFWle%2F9aYw7t4QZ%2F8evUY9KtunA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2F5ace91ec9bb06de6f6c8424353c21796%2FEaglercraftX_1_12_WASM_GC.mhtml)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/5ace91ec9bb06de6f6c8424353c21796/EaglercraftX_1_12_WASM_GC.mhtml?Expires=1778230907&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=B%2B4okDQMryfjXuS%2BGWzhRCIKsEOkJOCBQJolnJiENB2MIg24RSF3wle7BGYDSbtW2zkrHt1HjtPsg7c08%2BgVg1058sYeoT55kqtg45mBz8Vaf4Ll4iW1pgu4CBMzCu5pAYmCZhE%2B8HMEAgHeZ%2FrY0yjAR8C0EuebRkueb2meJDs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2F5ace91ec9bb06de6f6c8424353c21796%2FEaglercraftX_1_12_WASM_GC.mhtml)
 
 #### Reactions
 - **Emojis:** 👍 (2)
@@ -3191,7 +3195,7 @@
 ---
 
 ### 25. 動画が自由に見れるサイト！
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://runtu.be/)
 
@@ -3211,7 +3215,7 @@
 ---
 
 ### 26. 便利ツール（snsが見れるサイト）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://nitter.space/)
 
@@ -3226,7 +3230,7 @@
 ---
 
 ### 27. snsが見れるサイト（Xのみ）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://nitter.privacydev.net/)
 
@@ -3244,7 +3248,7 @@
 ---
 
 ### 28. 使い方はyoutubeと同じ！youtube規制回避サイト
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://at.ggtyler.dev/)
 
@@ -3259,7 +3263,7 @@
 ---
 
 ### 29. わかめ集！ 使えない可能性あり
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 <p>https://winter-copper-wizard.glitch.me</p><p>https://chartreuse-serious-guppy.glitch.me</p><p>https://lumpy-animated-parade.glitch.me</p><p>https://silver-aeolian-raincoat.glitch.me</p><p>https://chief-dune-tuesday.glitch.me</p><p>https://melodious-lunar-</p><p>https://mangrove-cake-wildflower.glitch.me</p><p>https://cyclic-intelligent-galette.glitch.me</p><p>https://wobbly-abundant-patio.glitch.me</p><p>https://indecisive-ink-houseboat.glitch.me</p><p><a rel="noopener noreferrer nofollow" href="https://indecisive-ink-houseboat.glitch.me">https://observant-abundant-patio.glitch.me</a></p><p>https://dandelion-gigantic-lobster.glitch.me</p><p>https://shadow-thin-knife.glitch.me</p><p>https://military-rainy-quilt.glitch.me</p><p>https://fuchsia-soapy-fiction.glitch.me</p><p>https://purring-purring-tower.glitch.me</p><p>https://yellow-ballistic-aphid.glitch.me</p><p>https://natural-jeweled-curve.glitch.me</p><p>https://coffee-sapphire-radiator.glitch.me</p><p>https://meowing-animated-horse.glitch.me</p><p>https://indecisive-enormous-porkpie.glitch.me</p><p>https://satisfying-giddy-guarantee.glitch.me</p><p>https://candy-thundering-crown.glitch.me</p><p>https://continuous-torch-legend.glitch.me</p>
 
@@ -3279,7 +3283,7 @@
 ---
 
 ### 30. わかめtube
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://rog-passsed-by-matcha.onrender.com/)
 
@@ -3297,7 +3301,7 @@
 ---
 
 ### 31. わかめtube
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://valley-plucky-bull.glitch.me/wkt)
 
@@ -3553,7 +3557,7 @@
 ---
 
 ### 2. インターステラー③
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://interstellarproocksy.global.ssl.fastly.net/)
 
@@ -3568,7 +3572,7 @@
 ---
 
 ### 3. インターステラー②
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://info-twist2.pakasak.com/)
 
@@ -3583,7 +3587,7 @@
 ---
 
 ### 4. インターステラー①
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://scienceof.medscience.cl/)
 
@@ -3598,7 +3602,7 @@
 ---
 
 ### 5. インターステラー（動作確認済み）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://interstellarproocksy.global.ssl.fastly.net/)
 
@@ -3690,7 +3694,7 @@
 ---
 
 ### 2. Shadow
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://silly.lindhesidan.se/)
 
@@ -3705,7 +3709,7 @@
 ---
 
 ### 3. Shadow　多分使える！
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://shadow-byyuzu.myclarevision.com/)
 
@@ -3720,7 +3724,7 @@
 ---
 
 ### 4. Shadow
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://playernation.lindhesidan.se/)
 
@@ -3836,7 +3840,7 @@
 ---
 
 ### 7. Shadow（最新型）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://karaseee.f5.si/)
 
@@ -3851,7 +3855,7 @@
 ---
 
 ### 8. shadow集
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 <p><a rel="noopener noreferrer nofollow" href="https://shadow3.www.myclarevision.com/">Shadow①</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow2.myclarevision.com/">Shadow②</a></p><p><a rel="noopener noreferrer nofollow" href="https://shadow1.www.myclarevision.com/">Shadow③</a></p>
 
@@ -3886,7 +3890,7 @@
 ---
 
 ### 10. 最新版！shadow
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://wakameeee.kameli.org/)
 
@@ -3898,7 +3902,7 @@
 ---
 
 ### 11. Shadow
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://karaseee.f5.si/)
 
@@ -3990,7 +3994,7 @@
 ---
 
 ### 6. TIW（プロキシ）③
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://tamale.global.ssl.fastly.net/static/)
 
@@ -4005,7 +4009,7 @@
 ---
 
 ### 7. TIW(プロキシ)②
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://starttiw.global.ssl.fastly.net/)
 
@@ -4020,7 +4024,7 @@
 ---
 
 ### 8. TIW(プロキシ)
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://tamale.global.ssl.fastly.net/)
 
@@ -4099,7 +4103,7 @@
 ---
 
 ### 5. Utopia④
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://edu.area.escfks.com/)
 
@@ -4114,7 +4118,7 @@
 ---
 
 ### 6. Utopia
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://graph.howto.wafflez.net/)
 
@@ -4129,7 +4133,7 @@
 ---
 
 ### 7. Utopia③
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://history.think.marinagore.com/)
 
@@ -4144,7 +4148,7 @@
 ---
 
 ### 8. Utopia②
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://edu.focus.decharacter.com/)
 
@@ -4159,7 +4163,7 @@
 ---
 
 ### 9. Utopia①
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://grid.media.miracol.com/)
 
@@ -4241,7 +4245,7 @@
 ---
 
 ### 3. US4⑥
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://whatever-you-want-here.global.ssl.fastly.net/)
 
@@ -4253,7 +4257,7 @@
 ---
 
 ### 4. us4⑤
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://voucan.global.ssl.fastly.net/)
 
@@ -4265,7 +4269,7 @@
 ---
 
 ### 5. us4（最新！）④
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://zva-5.global.ssl.fastly.net/)
 
@@ -4277,7 +4281,7 @@
 ---
 
 ### 6. us4③
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://hi-mes.global.ssl.fastly.net/)
 
@@ -4289,7 +4293,7 @@
 ---
 
 ### 7. us4②
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://us4-pro.global.ssl.fastly.net/)
 
@@ -4301,7 +4305,7 @@
 ---
 
 ### 8. us4①
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://example-name.global.ssl.fastly.net/)
 
@@ -4453,7 +4457,7 @@
 ---
 
 ### 7. ランマー（自分は使えました）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://yukashine.panel-laboralcj.gob.mx/)
 
@@ -4468,7 +4472,7 @@
 ---
 
 ### 8. ランマー
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://ohio.malam.or.id/)
 
@@ -4504,7 +4508,7 @@
 ---
 
 ### 10. ランマー⑥
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://sigmagoongoonbaby.minecraftnoob.com/)
 
@@ -4519,7 +4523,7 @@
 ---
 
 ### 11. ランマー⑤
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://nsb.mrco.giize.com/)
 
@@ -4531,7 +4535,7 @@
 ---
 
 ### 12. ランマー④
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://evol.mrco.giize.com/)
 
@@ -4543,7 +4547,7 @@
 ---
 
 ### 13. ランマー③
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://forgot.garciadelapastora.cl/)
 
@@ -4555,7 +4559,7 @@
 ---
 
 ### 14. ランマー②
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://facts-about.sinewave.cc/)
 
@@ -4567,7 +4571,7 @@
 ---
 
 ### 15. ランマー①
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://ik-heet-henk.xiayu7.cn/)
 
@@ -4647,7 +4651,7 @@
 ---
 
 ### 5. Ghost
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://ghost.henzin.uhaneingenieria.mx/)
 
@@ -4677,7 +4681,7 @@
 ---
 
 ### 7. Ghost（最新）
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://noahstaab.xiayu7.cn/w/)
 
@@ -4731,7 +4735,7 @@
 ## プロキシipアドレス
 
 ### 1. ipアドレスのまとめ
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 <p><br></p><p><br></p><p>kazwire ・・・209.222.97.244</p><p><br></p><p>plexile arcade・・・ 216.24.57.1</p><p><br></p><p>doge ・・・163.123.192.252</p><p><br></p><p>kazwire ・・・209.222.97.244</p><p><br></p><p>インターステラー・・・66.23.193.126</p><p><br></p><p>ランマー ・・・108.181.32.77</p><p><br></p><p>phantom games・・・109.122.46.55</p><p><br></p><p>surfskip ・・・37.114.41.188</p><p><br></p><p>equinox・・・ 74.208.202.111</p><p><br></p><p>invidious・・・ 80.67.169.117</p><p><br></p><p>light・・・ 104.243.45.193</p><p><br></p><p>kproxy・・・149.202.98.191</p><p><br></p><p>Phantom Games・・・109.122.46.55</p><p><br></p><p><br></p>
 
@@ -4752,7 +4756,7 @@
 ---
 
 ### 2. プロキシのipアドレス発見 149.202.98.191
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 <p>kProxyです</p>
 
@@ -4769,7 +4773,7 @@
 ---
 
 ### 3. Phantom Gamesは109.122.46.55と判明
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -4950,7 +4954,7 @@
 
 <p><strong>さくらもち共和国連邦</strong></p><p>最近、結構伸びてます</p><p>雑談やプロキシなど色々あるのでぜひ来てください</p><p>フォローよろしく</p><p>URLはこちら↓</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/20201184_3/padlet-r25bfkw6n62mk44a">https://padlet.com/20201184_3/padlet-r25bfkw6n62mk44a</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3852033674/8cf39485ebf17268d87a772b72f3fe9e/Screenshot_2025_08_01_5_08_19_PM.png?Expires=1778222302&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BXD6BvNgEbuvmHKeCo2wCw0oyjrK3UaImlSNz9CTsQXw0WkbRlAw9OCF2MVUew3QxAkF6xOoDGG5ADUJQskz5inXYJv5lmJwPqasoe%2BDT5A3W%2FCNwqjNLKh3aSYRoGQQMORcpCaAw246GB6n%2BDLYNS5cMrKNgIWgVxUqyR2peco%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3852033674%2F8cf39485ebf17268d87a772b72f3fe9e%2FScreenshot_2025_08_01_5_08_19_PM.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3852033674/8cf39485ebf17268d87a772b72f3fe9e/Screenshot_2025_08_01_5_08_19_PM.png?Expires=1778230908&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DJ0Eko5Oa4NeoYKCp%2B2KeIok52wt28cnO7DKrgiMl0WnMLs1vDv0paSVn7iZjcNeLabmcrJ0c07pb8OcWtQp%2FhcXPE9mp3WGQWTAtbMvbaqUxHxrJSFQYzvUmRkJtu6JoK6ZyW78cfZ1hi0iiUW8vf0Plk5kdYfxmglk2hnf3ks%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3852033674%2F8cf39485ebf17268d87a772b72f3fe9e%2FScreenshot_2025_08_01_5_08_19_PM.png)
 
 #### Additional Information
 - **Post color:** Red
@@ -4978,7 +4982,7 @@
 
 <p>絶対に教育委員会に勝つプロキシ部屋</p><p>閲覧数2200突破しましたー</p><p>最近、結構伸びてます</p><p>雑談やプロキシなど色々あるのでぜひ来てください</p><p>URLはこちら↓</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/20201184_3/padlet-r25bfkw6n62mk44a">https://padlet.com/20201184_3/padlet-r25bfkw6n62mk44a</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3852033674/26d22875b3f582709ddfb8255074fab8/Screenshot_2025_07_16_9_20_24_AM.png?Expires=1778222302&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ETNG4PweVXOYuzL5oh4KjfHS5Bw23eGf7x3o4FfvVnuRPPhT18mmgj9iRVsZSxeKSRsGjOv0B3mTsS51SIXZH6sG8cydhaeCR1gE0m96V0xnqe2rNJoTvWKtSIVKWtjuAxGGO9QeduwM84iPzSh%2FCGQcn%2F1%2FlC86gvScK3jWmTI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3852033674%2F26d22875b3f582709ddfb8255074fab8%2FScreenshot_2025_07_16_9_20_24_AM.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3852033674/26d22875b3f582709ddfb8255074fab8/Screenshot_2025_07_16_9_20_24_AM.png?Expires=1778230908&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QZzVwKwrOC00XiwoJxOTrqgL7LDAvCmoKzvYwRoP4hzNZXIzqRftH1soqoHHI%2B3mJB8ykKp21nX4VgtIILVJyNrEYZRXOlI5zo%2FdVGetQz7aGq02hNGtmaE6rpUg3IanBJcaG3wgKneoh5Zi7dqPo2t0kVTM%2BsU6cvj6lU1Tcts%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3852033674%2F26d22875b3f582709ddfb8255074fab8%2FScreenshot_2025_07_16_9_20_24_AM.png)
 
 #### Additional Information
 - **Post color:** Red
@@ -5432,7 +5436,7 @@
 ## 問い合わせなどはこの部屋で！
 
 ### 1. 誰でも使えるよ！
-**Author:** 専任された仙人元Pa（NOT荒らし） (madjieie)
+**Author:** 人生やりますねぇ(≧∇≦)《人生💯年時代》 (madjieie)
 
 [Attachment 1](https://padlet.com/madjieie/teck-land-3jzgw4kl1f7g6ml0)
 
