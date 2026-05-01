@@ -1,4 +1,4 @@
-最終更新: 2026/04/24 14:36:18
+最終更新: 2026/05/01 18:01:26
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Nanachiki/padlet-4b9092979b4e6dlm
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
-- **Posts:** 17
+- **Posts:** 14
 - **Created At (UTC):** Aug 27, 2024 11:14am
-- **Updated At (UTC):** Apr 24, 2026 05:22am
+- **Updated At (UTC):** May 01, 2026 08:41am
 
 ## 概要
 
@@ -21,7 +21,7 @@
 **投稿の種類:** その他
 
 #### Reactions
-- **Number of likes:** 4
+- **Emojis:** ❤️ (4)
 
 #### Additional Information
 - **Post color:** Yellow
@@ -47,12 +47,12 @@
 - **ワイ君** (Apr 06, 2026 04:32am): （学タブ以外に持ってryデバイスキッズケータイのみ）
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Yellow
-- **Created At (UTC):** Aug 27, 2024 11:39am
-- **Updated At (UTC):** Sep 22, 2025 11:26pm
+- **Created At (UTC):** May 01, 2026 08:34am
+- **Updated At (UTC):** May 01, 2026 08:40am
 
 ---
 
@@ -64,12 +64,12 @@
 <p>内容等を追加、編集してほしい場合はここにコメントをしてください。</p><p><br></p>
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Purple
-- **Created At (UTC):** Aug 27, 2024 11:31am
-- **Updated At (UTC):** Mar 01, 2025 03:20am
+- **Created At (UTC):** May 01, 2026 08:34am
+- **Updated At (UTC):** May 01, 2026 08:40am
 
 ---
 
@@ -82,12 +82,12 @@
 - **プロスピと野球が好きな人** (Feb 13, 2025 03:51am): ファイルのマイクラ
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Purple
-- **Created At (UTC):** Aug 27, 2024 11:26am
-- **Updated At (UTC):** Mar 01, 2025 03:20am
+- **Created At (UTC):** May 01, 2026 08:34am
+- **Updated At (UTC):** May 01, 2026 08:40am
 
 ---
 
@@ -162,49 +162,12 @@
 - **削除済みユーザー** (Nov 11, 2025 07:29am): buro
 
 #### Reactions
-- **Number of likes:** 2
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Yellow
-- **Created At (UTC):** Aug 27, 2024 11:36am
-- **Updated At (UTC):** Sep 22, 2025 11:25pm
-
----
-
-### 2. これ
-**Author:** りく
-
-[Attachment 1](https://1v1lol.gitlab.io/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Oct 09, 2025 02:12am
-- **Updated At (UTC):** Oct 11, 2025 02:34pm
-
----
-
-### 3. 教えてーーゲーム
-**Author:** りく
-
-#### Comments (1)
-- **りく** (Oct 09, 2025 02:15am): https://unblockedgames77.gitlab.io/game/1v1-lol.html
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Oct 07, 2025 02:29am
-- **Updated At (UTC):** Oct 07, 2025 02:29am
-
----
-
-### 4. Post 4
-**Author:** りく
-
-[Attachment 1](https://unblockedgames77.gitlab.io/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Oct 02, 2025 12:22am
-- **Updated At (UTC):** Oct 11, 2025 02:34pm
+- **Created At (UTC):** May 01, 2026 08:34am
+- **Updated At (UTC):** May 01, 2026 08:41am
 
 ---
 
@@ -220,12 +183,12 @@
 [Attachment 1](https://padlet.com/padlets/ybtryru0lgzpxp34)
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Yellow
-- **Created At (UTC):** Aug 27, 2024 11:30am
-- **Updated At (UTC):** Oct 20, 2025 12:04pm
+- **Created At (UTC):** May 01, 2026 08:34am
+- **Updated At (UTC):** May 01, 2026 08:41am
 
 ---
 
@@ -237,7 +200,7 @@
 <p>★リンク</p><p><a rel="noopener noreferrer nofollow" href="https://lolbeans.io">https://lolbeans.io</a></p><p><br></p><p>★ゲーム内容</p><p>豆たちがレースするやつ(?)</p>
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Yellow
@@ -254,7 +217,7 @@
 <p>★リンク</p><p><a rel="noopener noreferrer nofollow" href="https://godfield.net">https://godfield.net</a></p><p><br></p><p>★ゲーム内容</p><p>運95%、実力5%の運ゲーカードゲーム</p>
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Yellow
@@ -271,7 +234,7 @@
 <p>★リンク</p><p><a rel="noopener noreferrer nofollow" href="https://hexanaut.io">https://hexanaut.io</a></p><p><br></p><p>★ゲーム内容</p><p>タイルを取り合うゲーム</p>
 
 #### Reactions
-- **Number of likes:** 1
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Yellow
@@ -292,7 +255,7 @@
 ![https://uploads.scratch.mit.edu/projects/thumbnails/1045090037.png](https://uploads.scratch.mit.edu/projects/thumbnails/1045090037.png)
 
 #### Reactions
-- **Number of likes:** 3
+- **Emojis:** ❤️ (3)
 
 #### Additional Information
 - **Post color:** Red

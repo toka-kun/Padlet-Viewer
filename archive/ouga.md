@@ -1,4 +1,4 @@
-最終更新: 2026/05/01 08:55:13
+最終更新: 2026/05/01 18:02:09
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 188
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Apr 30, 2026 11:10pm
+- **Updated At (UTC):** May 01, 2026 07:31am
 
 ## 管理者　連絡
 
@@ -18,13 +18,14 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (6)
+#### Comments (7)
 - **スリ** (Apr 30, 2026 12:50pm): どうもリア充、ブロスタ26900トロ、フォートナイト最高ランクアンリアル256位、マイクラpvp3027勝42敗19引き分け、50m7秒8、100m12秒68、陸上部ゲーム好き、1学期と2学期オール5のそこらへんにいる中学生です仲良くしておくれ
 - **スリ** (Apr 30, 2026 12:52pm): ちなみにロブロは元々やっててブレインロット金の犬もってましたでもあげた
 - **スリ** (Apr 30, 2026 12:55pm): 自慢じゃないけど塾通ってない
 - **フェットチーネしか勝たん** (Apr 30, 2026 01:18pm): 自慢にしか聞こえんw
 - **スリ** (Apr 30, 2026 10:21pm): www
 - **スリ** (Apr 30, 2026 10:25pm): 質問おkです 
+- **忍者めししか勝たん** (May 01, 2026 07:31am): リア充撲滅！
 
 #### Additional Information
 - **Post color:** Black
@@ -103,7 +104,7 @@
 ### 6. 管理者になりましたよろしくお願いします
 **Author:** 時透無一郎 (r0300353)
 
-**星評価:** 0 / 5 ⭐
+**星評価:** 5.0 / 5 ⭐ (1)
 
 #### Comments (7)
 - **忍者めししか勝たん** (Apr 24, 2026 01:12pm): よろしくおねがいします
@@ -320,9 +321,9 @@
 **Author:** 時透無一郎 (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 112 votes
+- **きのこの山:** 113 votes
 - **たけのこの里:** 105 votes
-- **ドウデモイイ:** 30 votes
+- **ドウデモイイ:** 31 votes
 
 **星評価:** 0 / 5 ⭐
 
@@ -363,7 +364,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Apr 30, 2026 11:51pm
+- **Updated At (UTC):** May 01, 2026 06:41am
 
 ---
 
@@ -417,7 +418,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1778198109&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tcg2XIT0O4eN0JHnlwiyleba3cDowKHBILbd6tNZeIIDgul3qFFiQGds5e4CCPjea198xaVOXjqJrhBSbWxtSpSx%2FlD9xruDweJsB%2BJVghY%2BSno1ct7V3Q8BHBo3dP4A0OWbEwRY2tK6NQsDItO5oQmsEDFdQyKnYjUwgs45oPs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1778230926&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GgVjiKfUfQ9l8JIHIsYdaJ%2FIwcTofdyhBjvdfbVXPe3sR1V4b8Xis%2Fgy14LCKGzcu7xnRYLxf9oOOuwd4Zlcs2JW3fQjKKs44fmbS5OoWosd4%2BeXIFZvCBHqlGENLCa%2BLHjdEG%2FHfoY4MVfnzL95Y9lzMY1GMSlAYRPbPqukB4A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (2)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -505,7 +506,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1778198109&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lH1yY0yw7cIvfogeXIjZlMWkRcHeyE4TTfjfgOcjJd51GNU4R4dXTdFeTUbDChPwBoIZN8iBCfuR3xdzz1H86G7r%2BVnZqxWBtxXN4EtiJB%2B%2BxPVlDphUjpEJwM12mV2x7aipd4SO0oNYTnx6vxLQSWXxXoWtmHjVdCH8m8zCK7s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1778230926&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fXkC9GYLSRKGdU6O1Lk2avgA2TaGDcHqON5khatuveietyZJp9Y17rS8bnpInwSMXtSh%2B9y2vQM2zoEtsJAOpDoI4MTuSTMkPkSRZedfDQmwt8zIW9wFr5rUOMGbeSLciw74Pb%2FsqaBFAqs6v7jk4E6FV9raiAz%2FZWvfu%2F18asI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -1011,8 +1012,9 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
+#### Comments (2)
 - **時透無一郎** (Apr 29, 2026 08:56am): メアド貼ってください。信用できる人にだけモデレーターあげます。
+- **時透無一郎** (May 01, 2026 07:04am): メアドはすぐ消します
 
 #### Additional Information
 - **Post color:** Black
@@ -1913,7 +1915,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1778198110&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cQJ6YdQy9bATUZWdRL8n%2FqgjB%2BUWBaLUna2V8jXxkye9aj62WAOsd4C4K68fOOj6PqjWmx9dBaQdDQLpQBuAefYjUFwc8X61UeoWsgJwtABjfGKOnwMotNCawdKLldGQW%2FqiBHU0gEk8eX5N%2FpVlgnwLkX7Z8WlBQmPV2RkVCAc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1778230927&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qX8BVC2dTPtmZYZyrKJOw%2BCBUPyvd%2FRUU6qp3BBl8Rd4M66PoF9cZF%2Fj7orVbdWAKUon3H2R5rghVopklgrv8a86XHmgbD4BsPUcFazBz1X9mONJCMFhOx8xsmseiRXiL6B7nVcLtyZkiECgRwgbjeuy09F5qaVyuGXcTvBOIPs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (17)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -1969,9 +1971,9 @@
 
 <p>だれか〜できるひと〜いますか〜</p>
 
-**星評価:** 0 / 5 ⭐
+**星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1778198110&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=h9qZNxaqpFEvJdel11WkIqq0LgGG4Pl%2BRbkoUf0Csl6d3dFjbCOSdYl1F4FYr2zEsyNRxbXNegAj4iulY8m%2FgYRz%2BY85IMx4yhS3ZXt2b7n4QWoz%2BCMo9kcuPKagABO2A6i099biLLR6ARdyyCDghiPmC3gp19YxNV0wzhzQlRc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1778230927&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=35hv2ZA6sY%2BUYmwS7erCH5uzrt8ePPvl2gVYUZqD77y0TU9Vl6LiyWD0OjKnmKeemOIJxgg4rrgK55%2FtJzmZW05E26oJ2fmGUVRLPsevGJeOiwdPjBvlXsyUWdvauYGsxoZ7jerajD07bKUSy973xRXH%2Fz3nKVb%2F0cXiFo%2BQH54%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!** (Apr 26, 2026 10:13am): コード打っときます
@@ -3098,7 +3100,7 @@
 - **Anonymous** (Mar 10, 2026 05:17am): ぼくは匿名です  
 - **たっくん** (Mar 10, 2026 05:48am): 僕です
 - **たっくん** (Mar 10, 2026 05:49am): あの、入れてください
-- **暇神** (Mar 10, 2026 05:49am): yahoo
+- **暇神　＃りおと弟子15代目　＃りおと族15代目** (Mar 10, 2026 05:49am): yahoo
 - **おうが** (Mar 11, 2026 12:05am): 何に入れるんですか？
 - **たっくん** (Mar 12, 2026 04:19am): 雑談
 - **アベンジャーズ** (Mar 14, 2026 12:49am): ブロスタで遊べる方法を教えてくれますか？
@@ -3724,8 +3726,8 @@
 - **おうが** (Mar 12, 2026 08:16am): ろぶろはないね
 - **Fortnite廃課金者** (Mar 12, 2026 02:32pm): ランマーヘッドとかでポキ、とかでパクリゲーとかならできるけど
 - **Fortnite廃課金者** (Mar 12, 2026 02:32pm): 基本的には本家のやつは無理やね
-- **ぬぬあずま狩り隊長** (Mar 15, 2026 03:18pm): 絶対エラーなる
-- **ぬぬあずま狩り隊長** (Mar 15, 2026 03:18pm): よね
+- **しょふい** (Mar 15, 2026 03:18pm): 絶対エラーなる
+- **しょふい** (Mar 15, 2026 03:18pm): よね
 - **おうが** (Mar 15, 2026 11:20pm): うん
 - **鈴瑚** (Mar 28, 2026 10:37pm): ロブロ規制かかった
 
@@ -5073,7 +5075,7 @@
 - **おうが** (Mar 15, 2026 11:33am): レベマ！？バケモン
 - **ドブカス** (Mar 15, 2026 12:01pm): w
 - **ドブカス** (Mar 15, 2026 12:02pm): モチ日本一位倒したことある
-- **ぬぬあずま狩り隊長** (Mar 15, 2026 03:20pm): ぶっ( ･ิϖ･ิ)🤚😂
+- **しょふい** (Mar 15, 2026 03:20pm): ぶっ( ･ิϖ･ิ)🤚😂
 - **おうが** (Mar 15, 2026 11:21pm): 仲良くね！
 - **ごじら** (Mar 15, 2026 11:59pm): 新入りです
 - **いっせい** (Mar 16, 2026 12:12am): こんにちは！
