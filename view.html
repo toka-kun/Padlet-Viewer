@@ -603,12 +603,16 @@
                 const emojisLineMatch = reactionContent.match(/\*\*(?:Emojis?|絵文字):\*\*\s*(.*)/i);
                 if (emojisLineMatch) {
                     const emojisStr = emojisLineMatch[1];
-                    // EMOJI (COUNT) ペアを抽出（絵文字 = スペース・(以外の文字）
-                    const emojiPairRegex = /([^\s(]+)\s*\((\d+)\)/g;
-                    let em;
-                    while ((em = emojiPairRegex.exec(emojisStr)) !== null) {
-                        reactions.push({ emoji: em[1], count: parseInt(em[2]) });
-                    }
+                    // 全絵文字対応: (N) パターンを区切りとして分割し、前の部分を絵文字として扱う
+                    // ZWJ連結絵文字・バリエーションセレクタ付き絵文字・旗絵文字など全Unicodeシーケンスに対応
+                    const emojiCounts = [...emojisStr.matchAll(/\((\d+)\)/g)].map(m => parseInt(m[1]));
+                    const emojiParts = emojisStr.split(/\s*\(\d+\)\s*/);
+                    emojiParts.forEach((part, i) => {
+                        if (i < emojiCounts.length) {
+                            const emoji = part.trim();
+                            if (emoji) reactions.push({ emoji, count: emojiCounts[i] });
+                        }
+                    });
                 }
             }
 
@@ -805,7 +809,7 @@
             if (data.reactions && data.reactions.length > 0) {
                 emojiReactionsHtml = '<div class="emoji-reactions">';
                 data.reactions.forEach(r => {
-                    emojiReactionsHtml += `<span class="emoji-reaction">${escapeHtml(r.emoji)}<span class="emoji-count">${r.count}</span></span>`;
+                    emojiReactionsHtml += `<span class="emoji-reaction">${r.emoji}<span class="emoji-count">${r.count}</span></span>`;
                 });
                 emojiReactionsHtml += '</div>';
             }
