@@ -1,4 +1,4 @@
-最終更新: 2026/05/03 05:42:28
+最終更新: 2026/05/03 06:41:17
 
 # Padletポータルワールド
 
@@ -469,7 +469,7 @@
 ---
 
 ### 17. 裏の表の裏
-**Author:** government conspiracy＃クチャラー嫌い＃北上人＃芋帝国民 (seihunoinbou)
+**Author:** government conspiracy＃クチャラー嫌い＃PB界隈＃芋帝国民 (seihunoinbou)
 
 <p>特にはないかなぁ〜</p>
 
@@ -3082,7 +3082,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1778359348&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WYZ2KAbHdy8w3Kwx9ggUjFUY9KVd9FBmh6zlpWJogV9jqm0WZAbFmWt3mhAQ%2FtjGtAJF2JWLl0fS93G1xZxcgtSu0Y%2BsCm2b0tKDHg14oKkMq14I5VHRIP7U1IEBosGC8jf6J1yrc0i17ABIiDKRKVz%2F4dllWfBMnk5pQQtlm2o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1778362877&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2IEIlezlQJF%2FxeuehalM5oAoOK7DpuYw8eqvtaykRjjjkPBK3fxige8wg3p7%2FDJhO5hynEe7LQOKjrWuAKjILju67jKLvN%2FBrMQsFXHCL4QvZp2h3uKiWZz0vhL8eiJWq2eIE3oRLF%2BNIACZE%2B0HybjWRWY0frqCQOAOsPm2pcI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
