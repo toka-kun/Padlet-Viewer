@@ -249,9 +249,10 @@
         .custom-field-row:last-child { margin-bottom: 0; }
         .custom-field-label { color: #8b949e; font-weight: 600; min-width: 80px; }
 
-        /* リアクション（スター）エリア */
+        /* リアクション（スター＋絵文字）エリア */
         .reactions-section {
             display: flex; align-items: center; justify-content: space-between;
+            flex-wrap: wrap; gap: 6px;
             padding: 8px 0;
             border-top: 1px solid rgba(48, 54, 61, 0.5);
             margin-top: auto;
@@ -261,6 +262,21 @@
             padding: 2px 8px; border-radius: 10px; font-size: 0.8rem; font-weight: 600;
         }
         .stars-count { color: #8b949e; font-weight: normal; font-size: 0.75rem; margin-left: 4px; }
+
+        /* 絵文字リアクション */
+        .emoji-reactions {
+            display: flex; flex-wrap: wrap; gap: 4px; align-items: center;
+        }
+        .emoji-reaction {
+            display: inline-flex; align-items: center; gap: 3px;
+            background: rgba(110, 118, 129, 0.1);
+            border: 1px solid rgba(48, 54, 61, 0.5);
+            padding: 2px 7px; border-radius: 10px;
+            font-size: 0.85rem;
+        }
+        .emoji-reaction .emoji-count {
+            color: #8b949e; font-size: 0.75rem; font-weight: 600;
+        }
 
         /* コメントエリア（一番下） */
         .comments-section {
@@ -544,6 +560,7 @@
                 return match ? match[1].trim() : null;
             };
 
+            // --- 作成者 ---
             let authorRaw = getMeta(/(?:- )?\*\*(?:Author|作成者|Builder):\*\* (.*)/i) || '不明';
             let authorName = authorRaw;
             let authorUrl = null;
@@ -555,19 +572,13 @@
                 authorUrl = `https://padlet.com/${username}`;
             }
 
+            // --- システムフィールド（Additional Information 等） ---
             const color = getMeta(/(?:- )?\*\*(?:Post color|Color|投稿のカラー):\*\* (.*)/i) || 'White';
-            const postType = getMeta(/(?:- )?\*\*(?:投稿の種類|Post Type):\*\* (.*)/i);
-            const customLastUpdate = getMeta(/(?:- )?\*\*(?:最終更新日|Last Updated|Updated At|更新日|更新日\(UTC\)):\*\* (.*)/i);
             const linkUrl = getMeta(/(?:- )?\*\*(?:Link|リンク):\*\* (.*)/i);
-
-            let rawCreatedDate = getMeta(/(?:- )?\*\*(?:Created At(?: \(UTC\))?|Created At|Date Created|Creation Date|作成日（UTC）|作成日\(UTC\)|作成日):\*\* (.*)/i);
-            
+            let rawCreatedDate = getMeta(/(?:- )?\*\*(?:Created At(?: \(UTC\))?|Date Created|Creation Date|作成日[^:*]*):\*\* (.*)/i);
             const displayCreatedDate = smartDateFormat(rawCreatedDate);
-            const displayUpdatedDate = smartDateFormat(customLastUpdate);
 
-            const rating = parseFloat(getMeta(/(?:- )?\*\*(?:Average star rating|星評価平均):\*\* ([\d\.]+)/i) || 0);
-            const ratingCount = getMeta(/(?:- )?\*\*(?:Number of ratings|評価件数|Votes):\*\* (\d+)/i) || 0;
-
+            // --- コメント ---
             let comments = [];
             const commentBlockRegex = /#### (?:Comments|コメント)[^\n]*\n([\s\S]*?)(?=####|$)/i;
             const commentMatch = text.match(commentBlockRegex);
@@ -582,17 +593,94 @@
                 });
             }
 
-            let content = text;
-            if (lines.length > 0) content = lines.slice(1).join('\n'); 
+            // --- 絵文字リアクション（新形式: - **Emojis:** 👍 (3) 👎 (1)） ---
+            let reactions = [];
+            const reactionBlockRegex = /#### (?:Reactions|リアクション)[^\n]*\n([\s\S]*?)(?=####|$)/i;
+            const reactionBlockMatch = text.match(reactionBlockRegex);
+            if (reactionBlockMatch) {
+                const reactionContent = reactionBlockMatch[1].trim();
+                // "- **Emojis:** 👍 (3) 👎 (1)" 形式
+                const emojisLineMatch = reactionContent.match(/\*\*(?:Emojis?|絵文字):\*\*\s*(.*)/i);
+                if (emojisLineMatch) {
+                    const emojisStr = emojisLineMatch[1];
+                    // EMOJI (COUNT) ペアを抽出（絵文字 = スペース・(以外の文字）
+                    const emojiPairRegex = /([^\s(]+)\s*\((\d+)\)/g;
+                    let em;
+                    while ((em = emojiPairRegex.exec(emojisStr)) !== null) {
+                        reactions.push({ emoji: em[1], count: parseInt(em[2]) });
+                    }
+                }
+            }
+
+            // --- カスタムフィールドを汎用パース（#### セクションより前の本文から） ---
+            // #### で始まるセクション（コメント・リアクション・その他情報）を除いた本文
+            const bodyBeforeSections = text.split(/\n####/)[0];
+
+            // 本文内のシステムフィールド（スキップ対象）
+            const systemFieldRegex = /^(?:Author|作成者|Builder|Post\s+color|Color|投稿のカラー|Link|リンク|Posts|投稿数|Average\s+star\s+rating|星評価平均|Number\s+of\s+ratings|評価件数|Votes|Created\s+At|Date\s+Created|Creation\s+Date|作成日|Updated\s+At|Last\s+Updated|更新日)(?:\s*\([^)]*\))?$/i;
+
+            let customFields = [];
+            let starRating = null;
+
+            // 全 **フィールド名:** 値 のペアを抽出
+            const allFieldRegex = /(?:^|\n)(?:- )?\*\*([^*\n]+?):\*\*[ \t]*([^\n]+)/gm;
+            let fm;
+            while ((fm = allFieldRegex.exec(bodyBeforeSections)) !== null) {
+                const fieldName = fm[1].trim();
+                const fieldValue = fm[2].trim();
+
+                if (systemFieldRegex.test(fieldName)) continue;
+
+                // 星評価フィールドの検出: 値が "X.X / 5 ⭐" パターンか確認
+                const starMatch = fieldValue.match(/^([\d.]+)\s*\/\s*5\s*[⭐★]/);
+                if (starMatch) {
+                    const countMatch = fieldValue.match(/\((\d+)\)/);
+                    starRating = {
+                        rating: parseFloat(starMatch[1]),
+                        count: countMatch ? parseInt(countMatch[1]) : 0,
+                        label: fieldName
+                    };
+                    continue;
+                }
+
+                // 通常のカスタムフィールド（日付値はフォーマット変換を試みる）
+                let displayValue = fieldValue;
+                const dateAttempt = smartDateFormat(fieldValue);
+                if (dateAttempt && dateAttempt !== fieldValue) displayValue = dateAttempt;
+
+                customFields.push({ label: fieldName, value: displayValue });
+            }
+
+            // 旧形式フォールバック（Average star rating / 星評価平均）
+            if (!starRating) {
+                const legacyRating = parseFloat(getMeta(/(?:- )?\*\*(?:Average star rating|星評価平均):\*\* ([\d\.]+)/i) || '0');
+                const legacyCount = parseInt(getMeta(/(?:- )?\*\*(?:Number of ratings|評価件数|Votes):\*\* (\d+)/i) || '0');
+                if (legacyRating > 0) {
+                    starRating = { rating: legacyRating, count: legacyCount, label: null };
+                }
+            }
+
+            // --- 本文からメタデータを削除 ---
+            let content = lines.slice(1).join('\n');
+
+            // カスタムフィールド行を動的に削除
+            customFields.forEach(cf => {
+                const esc = cf.label.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                content = content.replace(new RegExp(`(?:- )?\\*\\*${esc}:\\*\\*.*[\\r\\n]*`, 'gi'), '');
+            });
+            // 星評価フィールド行を削除
+            if (starRating && starRating.label) {
+                const esc = starRating.label.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                content = content.replace(new RegExp(`(?:- )?\\*\\*${esc}:\\*\\*.*[\\r\\n]*`, 'gi'), '');
+            }
 
             const patternsToRemove = [
                 /(?:- )?\*\*(?:Author|作成者|Builder):.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Post color|Color|投稿のカラー):.*[\r\n]*/gi,
-                /(?:- )?\*\*(?:Created At|Date Created|作成日).*?:.*[\r\n]*/gi,
-                /(?:- )?\*\*(?:Updated At|Last Updated|更新日|最終更新日).*?:.*[\r\n]*/gi,
-                /(?:- )?\*\*(?:Post Type|投稿の種類):.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:Created At|Date Created|Creation Date|作成日).*?:.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:Updated At|Last Updated|更新日).*?:.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Average star rating|星評価平均):.*[\r\n]*/gi,
-                /(?:- )?\*\*(?:Number of ratings|評価件数):.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:Number of ratings|評価件数|Votes):.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Link|Posts|リンク):.*[\r\n]*/gi,
                 /#### (?:Comments|コメント)[\s\S]*?(?=####|$)/i, 
                 /#### (?:Reactions|リアクション)[\s\S]*?(?=####|$)/i, 
@@ -618,17 +706,16 @@
             });
 
             // パターン3: [text](url) -> テキストがURLそのもの、または「https://」等が省略されたURLの場合
-            content = content.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/gi, (match, text, url) => {
-                // テキストとURLの両方から「https://」「http://」および末尾の「/」を削除して比較
-                let cleanText = text.trim().replace(/^https?:\/\//i, '').replace(/\/$/, '');
+            content = content.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/gi, (match, linkText, url) => {
+                let cleanText = linkText.trim().replace(/^https?:\/\//i, '').replace(/\/$/, '');
                 let cleanUrl = url.trim().replace(/^https?:\/\//i, '').replace(/\/$/, '');
                 
                 if (cleanText === cleanUrl) {
                     let isImg = /\.(jpeg|jpg|gif|png|webp|bmp|svg)(?:\?.*|#.*)?$/i.test(url);
-                    attachments.push({ url: url, isImage: isImg, alt: text });
-                    return ''; // 本文からは削除し、添付ファイル(Faviconリンク)として扱う
+                    attachments.push({ url: url, isImage: isImg, alt: linkText });
+                    return '';
                 }
-                return match; // 通常のリンク（例: [Google検索](https://google.com)）はそのまま残す
+                return match;
             });
 
             return {
@@ -638,11 +725,10 @@
                 color: color,
                 content: content.trim(),
                 comments: comments,
-                rating: rating,
-                ratingCount: ratingCount,
+                reactions: reactions,
+                starRating: starRating,
                 createdDate: displayCreatedDate, 
-                postType: postType,
-                customLastUpdate: displayUpdatedDate,
+                customFields: customFields,
                 attachments: attachments,
                 linkUrl: linkUrl
             };
@@ -662,8 +748,13 @@
             }
             el.className = `card ${colorClass}`;
 
-            const starsStr = data.rating > 0 ? '⭐'.repeat(Math.round(data.rating)) : '☆';
-            const ratingText = data.ratingCount > 0 ? `(${data.ratingCount})` : '';
+            // --- 星評価 ---
+            let starsStr = '☆';
+            let ratingText = '';
+            if (data.starRating && data.starRating.rating > 0) {
+                starsStr = '⭐'.repeat(Math.round(data.starRating.rating)) || '⭐';
+                ratingText = data.starRating.count > 0 ? `(${data.starRating.count})` : '';
+            }
 
             // --- 複数メディア・リンクのリッチ表示 ---
             let mediaHtml = '';
@@ -699,16 +790,24 @@
                 mediaHtml += '</div>';
             }
 
+            // --- カスタムフィールド（全フィールドを表示） ---
             let customFieldsHtml = '';
-            if (data.postType || data.customLastUpdate) {
+            if (data.customFields && data.customFields.length > 0) {
                 customFieldsHtml += '<div class="custom-fields-area">';
-                if (data.postType) {
-                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">投稿の種類:</span><span>${escapeHtml(data.postType)}</span></div>`;
-                }
-                if (data.customLastUpdate) {
-                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">最終更新日:</span><span>${escapeHtml(data.customLastUpdate)}</span></div>`;
-                }
+                data.customFields.forEach(cf => {
+                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">${escapeHtml(cf.label)}:</span><span>${escapeHtml(cf.value)}</span></div>`;
+                });
                 customFieldsHtml += '</div>';
+            }
+
+            // --- 絵文字リアクション ---
+            let emojiReactionsHtml = '';
+            if (data.reactions && data.reactions.length > 0) {
+                emojiReactionsHtml = '<div class="emoji-reactions">';
+                data.reactions.forEach(r => {
+                    emojiReactionsHtml += `<span class="emoji-reaction">${escapeHtml(r.emoji)}<span class="emoji-count">${r.count}</span></span>`;
+                });
+                emojiReactionsHtml += '</div>';
             }
 
             let commentsHtml = '';
@@ -761,6 +860,7 @@
 
                 <div class="reactions-section">
                     <span class="stars">${starsStr} <span class="stars-count">${ratingText}</span></span>
+                    ${emojiReactionsHtml}
                 </div>
 
                 ${commentsHtml}

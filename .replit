@@ -1,4 +1,4 @@
-modules = ["web"]
+modules = ["web", "nodejs-20"]
 [agent]
 expertMode = true
 
