@@ -628,15 +628,25 @@
                 }
             }
 
-            // --- カスタムフィールドを汎用パース（本文中の情報セクションのみ） ---
-            const additionalInfoMatch = text.match(/#### (?:Additional Information|その他の情報)[^\n]*\n([\s\S]*?)(?=\n---|\n### |\n## |$)/i);
+            // --- 星評価を先に抽出（本文中のどこにあっても拾う） ---
+            const starRatingMatch = text.match(/(?:^|\n)(?:- )?\*\*(?:この投稿は役に立ちましたか？|星評価|Average star rating|星評価平均):\*\*\s*([\d.]+)\s*\/\s*5\s*[⭐★](?:\s*\((\d+)\))?/i);
+            let starRating = null;
+            if (starRatingMatch) {
+                starRating = {
+                    rating: parseFloat(starRatingMatch[1]),
+                    count: starRatingMatch[2] ? parseInt(starRatingMatch[2]) : 0,
+                    label: starRatingMatch[0].match(/\*\*(.*?)\*\*/)?.[1] || null
+                };
+            }
+
+            // --- カスタムフィールドを汎用パース（投票とシステム項目を除外） ---
+            const additionalInfoMatch = text.match(/#### Additional Information[^\n]*\n([\s\S]*?)(?=\n---|\n### |\n## |$)/i);
             const bodyBeforeSections = additionalInfoMatch ? additionalInfoMatch[1] : '';
 
             // 本文内のシステムフィールド（スキップ対象）
             const systemFieldRegex = /^(?:Author|作成者|Builder|Post\s+color|Color|投稿のカラー|Link|リンク|Posts|投稿数|Average\s+star\s+rating|星評価平均|Number\s+of\s+ratings|評価件数|Votes|Created\s+At|Date\s+Created|Creation\s+Date|作成日|Updated\s+At|Last\s+Updated|更新日|投票)(?:\s*\([^)]*\))?$/i;
 
             let customFields = [];
-            let starRating = null;
 
             // 全 **フィールド名:** 値 のペアを抽出
             const allFieldRegex = /(?:^|\n)(?:- )?\*\*([^*\n]+?):\*\*[ \t]*([^\n]+)/gm;
@@ -646,18 +656,6 @@
                 const fieldValue = fm[2].trim();
 
                 if (systemFieldRegex.test(fieldName)) continue;
-
-                // 星評価フィールドの検出: 値が "X.X / 5 ⭐" パターンか確認
-                const starMatch = fieldValue.match(/^([\d.]+)\s*\/\s*5\s*[⭐★]/);
-                if (starMatch) {
-                    const countMatch = fieldValue.match(/\((\d+)\)/);
-                    starRating = {
-                        rating: parseFloat(starMatch[1]),
-                        count: countMatch ? parseInt(countMatch[1]) : 0,
-                        label: fieldName
-                    };
-                    continue;
-                }
 
                 // 通常のカスタムフィールド（日付値はフォーマット変換を試みる）
                 let displayValue = fieldValue;
@@ -670,7 +668,7 @@
             // 旧形式フォールバック（Average star rating / 星評価平均）
             if (!starRating) {
                 const legacyRating = parseFloat(getMeta(/(?:- )?\*\*(?:Average star rating|星評価平均):\*\* ([\d\.]+)/i) || '0');
-                const legacyCount = parseInt(getMeta(/(?:- )?\*\*(?:Number of ratings|評価件数|Votes):\*\* (\d+)/i) || '0');
+                const legacyCount = parseInt(getMeta(/(?:- )?\*\*(?:Number of ratings|評価件数):\*\* (\d+)/i) || '0');
                 if (legacyRating > 0) {
                     starRating = { rating: legacyRating, count: legacyCount, label: null };
                 }
