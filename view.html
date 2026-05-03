@@ -640,12 +640,12 @@
                 };
             }
 
-            // --- カスタムフィールドを汎用パース（投票とシステム項目を除外） ---
-            const additionalInfoMatch = text.match(/#### Additional Information[^\n]*\n([\s\S]*?)(?=\n---|\n### |\n## |$)/i);
+            // --- カスタムフィールドを汎用パース（本文中の情報セクションのみ） ---
+            const additionalInfoMatch = text.match(/#### (?:Additional Information|その他の情報)[^\n]*\n([\s\S]*?)(?=\n---|\n### |\n## |$)/i);
             const bodyBeforeSections = additionalInfoMatch ? additionalInfoMatch[1] : '';
 
             // 本文内のシステムフィールド（スキップ対象）
-            const systemFieldRegex = /^(?:Author|作成者|Builder|Post\s+color|Color|投稿のカラー|Link|リンク|Posts|投稿数|Average\s+star\s+rating|星評価平均|Number\s+of\s+ratings|評価件数|Votes|Created\s+At|Date\s+Created|Creation\s+Date|作成日|Updated\s+At|Last\s+Updated|更新日|投票)(?:\s*\([^)]*\))?$/i;
+            const systemFieldRegex = /^(?:Author|作成者|Builder|Post\s+color|Color|投稿のカラー|Link|リンク|Posts|投稿数|Average\s+star\s+rating|星評価平均|Number\s+of\s+ratings|評価件数|Votes|Created\s+At|Date\s+Created|Creation\s+Date|作成日|Updated\s+At|Last\s+Updated|更新日|投票|投票所)(?:\s*\([^)]*\))?$/i;
 
             let customFields = [];
 
