@@ -1,4 +1,4 @@
-最終更新: 2026/05/01 08:54:10
+最終更新: 2026/05/03 22:13:13
 
 # 荒らし対策室
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 13
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Apr 30, 2026 04:40am
+- **Updated At (UTC):** May 03, 2026 12:35pm
 
 ## リンク集
 
@@ -199,7 +199,7 @@
 **Author:** ぜんた　りおとの一番弟子！ (zenta_nanda)
 
 #### Reactions
-- **Emojis:** 👍 (2) 👎 (1)
+- **Emojis:** 👍 (2) 👎 (1) 👆 (1)
 
 #### Additional Information
 - **Post color:** White
