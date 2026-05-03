@@ -238,14 +238,14 @@
             background-color: rgba(110, 118, 129, 0.1);
             border-radius: 4px;
             padding: 10px 12px;
-            margin-bottom: 12px;
+            margin: 12px 0;
             font-size: 0.8rem;
             color: #c9d1d9;
             border: 1px solid rgba(48, 54, 61, 0.5);
         }
         .custom-field-row {
             display: grid;
-            grid-template-columns: 110px 1fr;
+            grid-template-columns: 120px minmax(0, 1fr);
             gap: 8px;
             align-items: start;
             margin-bottom: 6px;
@@ -260,6 +260,7 @@
         .custom-field-value {
             color: #c9d1d9;
             word-break: break-word;
+            overflow-wrap: anywhere;
         }
 
         /* リアクション（スター＋絵文字）エリア */
