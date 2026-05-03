@@ -633,7 +633,7 @@
             const bodyBeforeSections = text.split(/\n####/)[0];
 
             // 本文内のシステムフィールド（スキップ対象）
-            const systemFieldRegex = /^(?:Author|作成者|Builder|Post\s+color|Color|投稿のカラー|Link|リンク|Posts|投稿数|Average\s+star\s+rating|星評価平均|Number\s+of\s+ratings|評価件数|Votes|Created\s+At|Date\s+Created|Creation\s+Date|作成日|Updated\s+At|Last\s+Updated|更新日)(?:\s*\([^)]*\))?$/i;
+            const systemFieldRegex = /^(?:Author|作成者|Builder|Post\s+color|Color|投稿のカラー|Link|リンク|Posts|投稿数|Average\s+star\s+rating|星評価平均|Number\s+of\s+ratings|評価件数|Votes|Created\s+At|Date\s+Created|Creation\s+Date|作成日|Updated\s+At|Last\s+Updated|更新日|投票)(?:\s*\([^)]*\))?$/i;
 
             let customFields = [];
             let starRating = null;
