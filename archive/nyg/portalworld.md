@@ -1,4 +1,4 @@
-最終更新: 2026/05/03 12:22:11
+最終更新: 2026/05/03 15:26:01
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 137
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** May 03, 2026 01:27am
+- **Updated At (UTC):** May 03, 2026 04:55am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -44,10 +44,11 @@
 
 <ul><li><p><strong><mark>自分の部屋のみ</mark>投稿して下さい。</strong></p></li><li><p><strong>自分の部屋であれば<mark>いくら投稿してもOK</mark>です。</strong></p></li><li><p><strong>時間が経って自分の投稿が埋もれてしまっても、<mark>一週間経てば再投稿可能</mark>です。また、その場合は管理者が過去の同じ投稿を消しておきます。</strong></p></li><li><p><strong>Padletの規約に反する部屋や、こちらで不適切だと判断した投稿は見つけ次第削除します。</strong></p></li><li><p><strong>多少の誤字などであればこちらで修正します。</strong></p></li><li><p><strong>AIに引っ掛かって承認待ちになっても人の目でもう一度確認するので安心して下さい。</strong></p></li><li><p><strong>「過疎ってるから来て」などと言うのではなく、<mark>その部屋の良さを誠実に書いた方が人は来てくれます</mark>。</strong></p></li><li><p><strong>何を書けば良いのか分からない場合は、サンプルを参考にして下さい。</strong></p></li></ul>
 
-#### Comments (3)
+#### Comments (4)
 - **だいまたハムスター（偽物注意）#りおとの35番弟子#わかめGOＤ教#煮物貢献者#イケメン様様信者　ここみたってことは復讐ってこと！こわいよーたすけてフォローってなんのいみあんの？とりあえずしてーーKUNがすき　はむかす** (Sep 03, 2025 07:16am): とうこうするねごめん
 - **Magurock (偽物･偽造に注意)** (Sep 06, 2025 08:58am): かなり人気になってきた
 - **全ての部屋にコメントする** (Feb 05, 2026 09:17am):  
+- **だいまた　#りおと35番弟子** (May 03, 2026 04:55am): https://padlet.com/sabugoujagaimodaimata/padlet-vt5m8w3fybl4swis
 
 #### Reactions
 - **Emojis:** ❤️ (2)
@@ -579,7 +580,7 @@
 ---
 
 ### 22. りおと国（公式）
-**Author:** ぬほさた (Yarimasunew)
+**Author:** ぬほさた (Yarimasuneeeeeeee)
 
 <p>常時人がいる</p><p>パドレット最大級の過密部屋</p><p>誰でも大歓迎！</p>
 
@@ -3104,7 +3105,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1778383331&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=u3YV4gTrIbphpkpY6NvqDz8NTTeKhrMfSl5bYhbhlKJZoGmdzU096TWKSDdIOVdrmJFiyGUZxEBIbXI3LvLMVVOEEN%2FEZaBOLoxgPqoCxqhA%2FYh8haSY%2FiaIVuc0pBDySgDkk2Z1mgEQiLWgS3oN%2BS5Rez80tGhRDycEaXHytJg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1778394361&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tpjUxMV%2BhLSPvrqKTzUdRFDP2kYUOCe2jLJ0SYSEsYbXGRy9BLETTYJqVyovfBH0X%2Fng5C90qyPafqDSOEN1EEL1dWAhcNU8f745f4TGW9UggyZ3kmd4vS0%2BlqqiAcqmkNQqRzFclCNW%2Fau7JFKbeJHTuRfxyDZ094ICploEFFM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
