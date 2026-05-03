@@ -237,17 +237,30 @@
         .custom-fields-area {
             background-color: rgba(110, 118, 129, 0.1);
             border-radius: 4px;
-            padding: 8px;
+            padding: 10px 12px;
             margin-bottom: 12px;
             font-size: 0.8rem;
             color: #c9d1d9;
             border: 1px solid rgba(48, 54, 61, 0.5);
         }
         .custom-field-row {
-            display: flex; gap: 6px; margin-bottom: 2px;
+            display: grid;
+            grid-template-columns: 110px 1fr;
+            gap: 8px;
+            align-items: start;
+            margin-bottom: 6px;
+            line-height: 1.5;
         }
         .custom-field-row:last-child { margin-bottom: 0; }
-        .custom-field-label { color: #8b949e; font-weight: 600; min-width: 80px; }
+        .custom-field-label {
+            color: #8b949e;
+            font-weight: 600;
+            word-break: break-word;
+        }
+        .custom-field-value {
+            color: #c9d1d9;
+            word-break: break-word;
+        }
 
         /* リアクション（スター＋絵文字）エリア */
         .reactions-section {
@@ -333,6 +346,7 @@
             header { flex-wrap: wrap; height: auto; padding: 10px 16px; gap: 8px; }
             header h1 { font-size: 0.9rem; max-width: 100%; width: 100%; }
             header .meta-info { margin-left: 0; width: 100%; justify-content: flex-start; font-size: 0.75rem; }
+            .custom-field-row { grid-template-columns: 92px 1fr; }
         }
     </style>
 </head>
@@ -364,9 +378,7 @@
     </main>
 
     <script>
-        // URL全体から ?board= または &board= の値を抽出（# が挟まっていても機能します）
         const match = window.location.href.match(/[?&]board=([^&#]+)/);
-        // 見つかればデコードして使用し、なければデフォルト値を使用
         const boardParam = match ? decodeURIComponent(match[1]) : 'nyg/main';
         const markdownUrl = `/archive/${boardParam}.md`;
 
@@ -768,11 +780,9 @@
                 if (data.attachments) {
                     data.attachments.forEach(att => {
                         if (att.isImage) {
-                            // 画像の場合は直接表示 ＋ 「画像を開く」ボタン
                             mediaHtml += `<img src="${escapeHtml(att.url)}" alt="Attachment" class="attached-image">`;
                             mediaHtml += `<a href="${escapeHtml(att.url)}" target="_blank" class="action-link">📎 画像を開く</a>`;
                         } else {
-                            // リンク（画像以外）の場合はFavicon付きのボタンにする
                             const encodedUrl = encodeURIComponent(att.url);
                             const faviconUrl = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${encodedUrl}&size=64`;
                             
@@ -786,7 +796,6 @@
                     });
                 }
 
-                // 「Link:」のメタデータが添付ファイル一覧と被っていない場合のみ追加表示
                 if (data.linkUrl && (!data.attachments || !data.attachments.find(a => a.url === data.linkUrl))) {
                      mediaHtml += `<a href="${escapeHtml(data.linkUrl)}" target="_blank" class="action-link">🔗 リンクを開く</a>`;
                 }
@@ -799,7 +808,7 @@
             if (data.customFields && data.customFields.length > 0) {
                 customFieldsHtml += '<div class="custom-fields-area">';
                 data.customFields.forEach(cf => {
-                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">${escapeHtml(cf.label)}:</span><span>${escapeHtml(cf.value)}</span></div>`;
+                    customFieldsHtml += `<div class="custom-field-row"><span class="custom-field-label">${escapeHtml(cf.label)}:</span><span class="custom-field-value">${escapeHtml(cf.value)}</span></div>`;
                 });
                 customFieldsHtml += '</div>';
             }
