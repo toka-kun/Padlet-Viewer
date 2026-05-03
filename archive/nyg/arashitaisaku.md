@@ -1,4 +1,4 @@
-最終更新: 2026/05/03 22:13:13
+最終更新: 2026/05/04 08:48:49
 
 # 荒らし対策室
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 13
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** May 03, 2026 12:35pm
+- **Updated At (UTC):** May 03, 2026 11:47pm
 
 ## リンク集
 
@@ -23,7 +23,7 @@
 - **さくとなんだ今も無差別荒らし** (Sep 12, 2025 10:11pm): らしじゃないお
 
 #### Reactions
-- **Emojis:** 👍 (6) 👎 (3)
+- **Emojis:** 👍 (6)
 
 #### Additional Information
 - **Post color:** Red
@@ -65,7 +65,7 @@
 - **削除済みユーザー** (Nov 13, 2025 10:29pm): こｎ
 
 #### Reactions
-- **Emojis:** 👍 (5) 👎 (3)
+- **Emojis:** 👍 (5)
 
 #### Additional Information
 - **Post color:** Red
@@ -95,7 +95,7 @@
 - **生きやがれ** (Sep 22, 2025 11:56am): 私も荒らしを記録してます　https://padlet.com/siniyagaruna/padlet-ie776w9g4je8nc8a
 
 #### Reactions
-- **Emojis:** 👍 (4) 👎 (3)
+- **Emojis:** 👍 (4)
 
 #### Additional Information
 - **Post color:** Red
@@ -132,7 +132,7 @@
 **Author:** かいと (HALVES_LOVE)
 
 #### Reactions
-- **Emojis:** 👍 (4) 👎 (1)
+- **Emojis:** 👍 (4)
 
 #### Additional Information
 - **Post color:** White
@@ -145,7 +145,7 @@
 **Author:** レイ　#最近ていふ (rei_ryu)
 
 #### Reactions
-- **Emojis:** 👎 (3) 👍 (1)
+- **Emojis:** 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -158,7 +158,7 @@
 **Author:** たたたんこ (Tatatanko)
 
 #### Reactions
-- **Emojis:** 👎 (2) 👍 (1)
+- **Emojis:** 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -173,7 +173,7 @@
 **Author:** 削除済みユーザー
 
 #### Reactions
-- **Emojis:** 👍 (2) 👎 (1)
+- **Emojis:** 👍 (2)
 
 #### Additional Information
 - **Post color:** White
@@ -186,7 +186,7 @@
 **Author:** 削除済みユーザー
 
 #### Reactions
-- **Emojis:** 👎 (1) 👍 (1)
+- **Emojis:** 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -199,7 +199,7 @@
 **Author:** ぜんた　りおとの一番弟子！ (zenta_nanda)
 
 #### Reactions
-- **Emojis:** 👍 (2) 👎 (1) 👆 (1)
+- **Emojis:** 👍 (2)
 
 #### Additional Information
 - **Post color:** White
@@ -214,7 +214,7 @@
 <p>これは移動だよつまり別のアカウントがあるってこと。</p><p>いずれ復活します</p>
 
 #### Reactions
-- **Emojis:** 👎 (1) 👍 (1)
+- **Emojis:** 👍 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -229,7 +229,7 @@
 <p><strong>偽エドガーなので注意</strong></p>
 
 #### Reactions
-- **Emojis:** 👍 (2) 👎 (2)
+- **Emojis:** 👍 (2)
 
 #### Additional Information
 - **Post color:** White
