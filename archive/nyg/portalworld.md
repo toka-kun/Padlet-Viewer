@@ -1,4 +1,4 @@
-最終更新: 2026/05/04 08:48:46
+最終更新: 2026/05/04 11:57:18
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 137
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** May 03, 2026 04:55am
+- **Updated At (UTC):** May 04, 2026 02:20am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -20,7 +20,7 @@
 
 [Attachment 1](https://padlet.com/Toka_Kun_/submission-request/k2qlv3RKMKOnX5Rx?section=317262857)
 
-#### Comments (7)
+#### Comments (8)
 - **アヘへ** (Oct 29, 2025 07:18am): ？」
 - **削除済みユーザー** (Nov 29, 2025 07:24am): ↑のpadletポータルワールドをタップしたら投稿できると思う
 - **NyrikX(足立区陣ICFS系)** (Feb 14, 2026 02:13am): 質問です、部屋は自分が持ち主ではないが、管理者権限を持っている場合、自分はここにその部屋を宣伝も可能ですか
@@ -28,6 +28,7 @@
 - **k** (Mar 11, 2026 08:05am): すみません
 - **k** (Mar 11, 2026 08:06am): なにか入るのかなと思ってやったら他の人のをだしてしまってすみません
 - **カカコンジュ** (May 02, 2026 02:49am): ここに追加したのを消す方法ってどうやるんですか
+- **ᏁγᎶ » Tøka_Kuŋ_** (May 04, 2026 01:09am): 僕が消す
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -44,11 +45,10 @@
 
 <ul><li><p><strong><mark>自分の部屋のみ</mark>投稿して下さい。</strong></p></li><li><p><strong>自分の部屋であれば<mark>いくら投稿してもOK</mark>です。</strong></p></li><li><p><strong>時間が経って自分の投稿が埋もれてしまっても、<mark>一週間経てば再投稿可能</mark>です。また、その場合は管理者が過去の同じ投稿を消しておきます。</strong></p></li><li><p><strong>Padletの規約に反する部屋や、こちらで不適切だと判断した投稿は見つけ次第削除します。</strong></p></li><li><p><strong>多少の誤字などであればこちらで修正します。</strong></p></li><li><p><strong>AIに引っ掛かって承認待ちになっても人の目でもう一度確認するので安心して下さい。</strong></p></li><li><p><strong>「過疎ってるから来て」などと言うのではなく、<mark>その部屋の良さを誠実に書いた方が人は来てくれます</mark>。</strong></p></li><li><p><strong>何を書けば良いのか分からない場合は、サンプルを参考にして下さい。</strong></p></li></ul>
 
-#### Comments (4)
+#### Comments (3)
 - **だいまたハムスター（偽物注意）#りおとの35番弟子#わかめGOＤ教#煮物貢献者#イケメン様様信者　ここみたってことは復讐ってこと！こわいよーたすけてフォローってなんのいみあんの？とりあえずしてーーKUNがすき　はむかす** (Sep 03, 2025 07:16am): とうこうするねごめん
 - **Magurock (偽物･偽造に注意)** (Sep 06, 2025 08:58am): かなり人気になってきた
 - **全ての部屋にコメントする** (Feb 05, 2026 09:17am):  
-- **だいまた　#りおと35番弟子** (May 03, 2026 04:55am): https://padlet.com/sabugoujagaimodaimata/padlet-vt5m8w3fybl4swis
 
 #### Reactions
 - **Emojis:** ❤️ (2)
@@ -89,7 +89,29 @@
 
 ## Padletポータルワールド
 
-### 1. 伝説の部屋
+### 1. 〜けろ村〜
+**Author:** けろろん (help_help)
+
+<p>一つ目、りおと部屋と同盟を組んでいる！</p><p>二つ目、花火部屋の後継！</p><p>三つ目、管理者がいる間は公開ライター！</p>
+
+**部屋の作成日:** May  4, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 1~4
+
+**モデレーター数:** 0
+
+[Attachment 1](https://padlet.com/padlets/r365p7igl708psoz)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 04, 2026 02:20am
+- **Updated At (UTC):** May 04, 2026 02:20am
+
+---
+
+### 2. 伝説の部屋
 **Author:** 花火 (hanabityan)
 
 <p>エドガー民が集まっています</p>
@@ -111,33 +133,6 @@
 
 ---
 
-### 2. モデレーター権限で荒らしまくれwww
-**Author:** カカコンジュ (h0421017_1)
-
-<p>少しだけ荒らし？｡ちょっと腹経ちますね...大荒らしよかかってこいや俺ら上等...おーおーおー俺らの島､かかってこいや大荒らしフォー</p>
-
-**受付部屋のリンク（あれば）:** https://www.youtube.com/shorts/34J7X-WQlvs
-
-**部屋の作成日:** April 30, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 10~
-
-[Attachment 1](https://padlet.com/padlets/hn06e2qqtk4gtxfg)
-
-#### Reactions
-- **Emojis:** ❤️ (1)
-
-#### Additional Information
-- **Post color:** Blue
-- **Created At (UTC):** May 02, 2026 03:00am
-- **Updated At (UTC):** May 02, 2026 03:00am
-
----
-
 ### 3. プロキシの塊
 **Author:** 存在がバグ (h3919053_1)
 
@@ -154,9 +149,9 @@
 [Attachment 1](https://padlet.com/padlets/o8s4n3gjy0pv20sq)
 
 #### Additional Information
-- **Post color:** Red
+- **Post color:** White
 - **Created At (UTC):** May 02, 2026 02:19am
-- **Updated At (UTC):** May 02, 2026 02:19am
+- **Updated At (UTC):** May 04, 2026 01:09am
 
 ---
 
@@ -225,9 +220,9 @@
 [Attachment 1](https://padlet.com/padlets/hfk9ecj8x4c0gewl)
 
 #### Additional Information
-- **Post color:** Red
+- **Post color:** White
 - **Created At (UTC):** May 01, 2026 01:36am
-- **Updated At (UTC):** May 01, 2026 01:36am
+- **Updated At (UTC):** May 04, 2026 01:09am
 
 ---
 
@@ -250,9 +245,9 @@
 - **Emojis:** ❤️ (1)
 
 #### Additional Information
-- **Post color:** Purple
+- **Post color:** White
 - **Created At (UTC):** Apr 30, 2026 07:02am
-- **Updated At (UTC):** Apr 30, 2026 07:02am
+- **Updated At (UTC):** May 04, 2026 01:09am
 
 ---
 
@@ -390,9 +385,9 @@
 [Attachment 1](https://padlet.com/padlets/gtrnqr2nil52rj9f)
 
 #### Additional Information
-- **Post color:** Red
+- **Post color:** White
 - **Created At (UTC):** Apr 26, 2026 10:11pm
-- **Updated At (UTC):** Apr 28, 2026 05:41am
+- **Updated At (UTC):** May 04, 2026 01:10am
 
 ---
 
@@ -3105,7 +3100,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1778456926&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0Tz7B%2BAwusxeKKdupAfxxFR1zMfZJR2r5Yu5NXU%2BbmBwIZ2p9qTH%2BImzEexkc0G8jpuKiXv2NKSwQgF4OMtR734%2BiWVyk9hPQN6c07YbuDTLjNsPgOEwhwiKqCEwAtZZQQGj3OsfjltgXJUsuP5NR9ZLZP9mLIDvc67YWWujrJc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1778468238&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uwk8WrcoHccIQF6nOlO81su9PryVW2yaycBZLovN16X%2B7wmPM1iV1tRnIV9Xb0KHMSSBGxiRkZyyIXzg%2B0K6CWGv8409gFfseJzL8%2BhfUOpSh9JdccsSyv%2FVyb%2BPI3dh8I2LN4gfTMc6Y7ZQkbeszsGRBqsRXn04GGyLQdWwIxk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
