@@ -1,4 +1,4 @@
-最終更新: 2026/04/30 21:16:40
+最終更新: 2026/05/05 01:46:49
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -7,37 +7,19 @@
 ## Summary
 - **Link:** https://padlet.com/BERURI1214/padlet-zsdegt1d6scuq9qa
 - **Builder:** 太古の太鼓~1853 Brainrot (BERURI1214)
-- **Posts:** 2
+- **Posts:** 1
 - **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Apr 30, 2026 10:14am
+- **Updated At (UTC):** May 04, 2026 04:37pm
 
 ## 重要なお知らせ
 
-### 1. もう少しで復帰しますよ
-**Author:** ENDLESS (BillyKid)
+### 1. 復旧はするけど……
+**Author:** 裏方 (Urakata_SUPPORT_INFINITY)
 
-#### Comments (2)
-- **ちゃま** (Apr 20, 2026 11:06pm): 俺も入りたいです！！
-- **NyrikX(足立区陣ICFS系)** (Apr 30, 2026 10:14am): やった！
+<p>一応全部消してしまったせいでプロキシなど無くなってしまったんですよね…</p><p>できれば皆さんが持ってるゲームやプロキシなどがあればぜひ復旧後に投稿して貰えると幸いです。</p>
 
 #### Additional Information
-- **Created At (UTC):** Apr 15, 2026 12:48am
-- **Updated At (UTC):** Apr 15, 2026 12:48am
-
----
-
-### 2. 本日を持ってこの部屋は活動中止と宣言します
-**Author:** お知らせbot (Osirase_Bot)
-
-<p>理由は、重要管理者が全員居なくなった事です。</p><p>詳細:作成者べるり、endless、INFINITYはしばらく活動中止</p>
-
-#### Comments (3)
-- **お知らせbot** (Mar 18, 2026 11:03pm): 活動中止ってなだけでいつか戻ったきます。
-- **スシロー** (Mar 20, 2026 12:33am): ふぁ！？
-- **NyrikX(足立区陣ICFS系)** (Apr 14, 2026 01:23pm): プロキシリンク全部なくなった？！悲しい
-
-#### Additional Information
-- **Created At (UTC):** Mar 18, 2026 10:57pm
-- **Updated At (UTC):** Mar 18, 2026 11:01pm
+- **Created At (UTC):** May 04, 2026 04:26pm
+- **Updated At (UTC):** May 04, 2026 04:27pm
 
 ---
