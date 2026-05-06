@@ -1,4 +1,4 @@
-最終更新: 2026/05/06 23:14:00
+最終更新: 2026/05/07 01:28:13
 
 # Padletポータルワールド
 
@@ -112,7 +112,7 @@
 ---
 
 ### 2. 〜けろ村〜
-**Author:** けろろん (help_help)
+**Author:** 次この人を見たらしばいてください (help_help)
 
 <p>一つ目、りおと部屋と同盟を組んでいる！</p><p>二つ目、花火部屋の後継！</p><p>三つ目、管理者がいる間は公開ライター！</p>
 
@@ -3125,7 +3125,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1778681640&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Dap4XnxcYNo0weweH0OeBA1O53AZ4FMA9slINBBYY5mMqjR9owFaaGAOz%2F%2BhYfhTP0exLGJm8naMq2k0ORKyiv61dnTXkRZ%2BkZvz%2FzpBHOdfmIbWsBe5XsLY1ZcpORuEoR7miGLGssfbQxQ9FIXetVm7IbrfI5xHfEakj%2F1nliQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1778689693&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=G4otXTjATxto8RtGANEEL8F1YLTanQO3oG9AEBKgH%2FVyz7slAnP79knvHUpiRJAztGs1cURhH3ePAxIqncFFUPlziEEuXtgw9s71oet8%2Ba6aVk%2FamqVTOi4K%2ByDhz2%2BChKN6%2BwBEjK6ZnKIjzBuCUafI98%2FrwLLXcOL4Gfg6N74%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
