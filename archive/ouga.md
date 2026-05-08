@@ -1,4 +1,4 @@
-最終更新: 2026/05/08 14:34:49
+最終更新: 2026/05/08 16:44:10
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 194
+- **Posts:** 195
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** May 08, 2026 05:15am
+- **Updated At (UTC):** May 08, 2026 07:27am
 
 ## 管理者　連絡
 
@@ -419,7 +419,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1778823285&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=DTAbMSJs3ZyOxnENR21qcZLj8pw8MIRuE1qSf0NXiR%2BBnwli4as1hT%2BN5i1TboT62Bbep2jPokDDG%2BTUbmFM%2BgU3Kk1l2K3GzlcxAt8gvl%2Fdrgu5cXIMmigkTbymWwMnZh7OrDg%2FvTIRt%2Frshoq%2BCBlYYEF%2F5qg6ELTv625RPKc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1778831047&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wM3MRAyMBFOMvb3s%2FUw4YkI9hYljooZ%2FzjA4Y50GlD%2FCOAkZm8JRGf%2B9LGZUnS37DihQJ3zA6aSicRY6cA%2Bl7kO7D%2Fm6E8aqEyZ9yNjh6tfjnA3vZW5Z6jOcmf0aRQCRHpOiYUMIx5a%2B77YW%2F%2FVy4IAsCcY4JHSFyrKwdlqDDjA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -512,7 +512,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1778823285&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IQSc1PwqbCYTv6cxpekFXy13MMbp2Kt%2FznOrkDhfKSdvjQhfbd8tfrwseAzBXT7nAMSDAWCAtqQispgSlbU8C9waYBqeLB0G2GNr%2BBZkcqNbAN1E8poGVcYvYrhDPR84EY9mW2WadHwjFHLu0T6FBt%2FlFmotbJy7apEpgaKtguk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1778831047&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=k%2FDvIvgA0HYYrHdePt8pl66y5wbvQJYWmZxOV9qbERfExYvQ%2B%2FktwsS38f9pUsyUvWqP2DY2MUD8v61DUVH7lau%2FOPM7lwnxdEauUkG4aTPpB6x5fCLPNPYVS7HRyDshc8zlo4z33OYeh%2FcppDg0NZp4Tj3e4myjHcTiRFyOgDk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (2)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -600,7 +600,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1778823285&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=O7ILKB2wr%2BZPYP5eYRnnBJQK1XrF8Y5EvEe6ZuC763hfcJjqWBusMu1vXpOnjHt%2BCbGtUTnSctbmZXwDdvjEIVfHB819pGqdd10rZGQQ4jDWBdhNc1uy8P0sjjzjrFq36RPSEYEvSd5VpaNBfIcyrv3UFfPfZ%2FZfxYkOQaHlbXM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1778831047&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=h3DZ8VPorso%2FKmyAHrIMGHjD5iUxRq1u4KcfSzMPoJPKFDqtsaepljBgCXRM16p%2FvrHRQisvhhnKavOyikB8uv7n5Kcqmj0hoSFjKIK63R4XZrueZbH479GdbE3TT7w0MYTSTdzCcsJkDzIcy8pAP83SupI2uS%2BQ8p4Q8uOJcGM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -1993,7 +1993,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1778823286&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ntU4iPUripfQh7WSX3IDNJXv42v7%2F9EU%2BEyhPIhZeKDi0MSS0wsE30Atx3Q4XUeha7qOz5YGw6gN7ixFIqyVFzUtjJT98dBy4%2B6GaR7Esj1NOUf3n27R9aBhby7Spq2j1gpN4xsGBs2L2NIyCevcj7ySH4MxKWqTw0sWKFvTF8Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1778831048&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XcFqCdnJ88NpVjqIpGTinonSeBkQ4lhoVzp9D%2FDWOey1tk7qZDbXW3%2BCpWG5dEFcnuLqTpJYRgmBNoxesc30%2F9cUxtKQg5TFc6K%2B5uCoR5yiTiQORvHbLZYBKH1CT%2F5MEtN8zDm7JBJBYupM56lXPdaQDKNnLYrf0GjH4GIw8IU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (18)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -2052,7 +2052,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1778823286&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Prcaqx2hm6xbhAYEnx3%2F%2F0Pt%2BO77Yq%2F9ZvMbeFSIRcsojG072An0vtqGVKbZPai%2FHWN19E4tvS2yxrjdKIl9oKD%2FmZIckMcDRTXm%2F58INv0i5Vi%2FM84thdPQMqllmyhq5vHH99UngBOAl0eqXpQ7ld70S6nYpWOxSniCRoGEgvo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1778831048&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rQd0JsgDHKNzJ0U4SiRXtENIGbhYW8oMHhHf715XRfeUTXnxyUxlINNxawXt5HINpH5kwX5tVHFU33Ye7iLZTUUT2UlcUkDOuDN%2FfimCa4cEYkBEDPA3lOU3s780w2c%2BvQ1soEcXxiQWeooaXVvfNlk%2F2%2BHCV6qT4MQkY1hi%2B2M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!** (Apr 26, 2026 10:13am): コード打っときます
@@ -4800,7 +4800,26 @@
 
 ## プロキシ
 
-### 1. 最近使えるUtopiaがまったくなく、、、、
+### 1. Post 1
+**Author:** 忍者めししか勝たん
+
+<p>ほかのプロキシサイトで開くといいそうです。すごいらしいです！(僕はあまりわかりません)</p>
+
+**星評価:** 0 / 5 ⭐
+
+[Attachment 1](https://schoolwebproxy.com//1000-proxies-for-school-chromebook-2026/)
+
+#### Comments (1)
+- **時透無一郎** (May 08, 2026 07:27am): ブロ
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** May 08, 2026 06:37am
+- **Updated At (UTC):** May 08, 2026 06:37am
+
+---
+
+### 2. 最近使えるUtopiaがまったくなく、、、、
 **Author:** Yusho (yusho)
 
 <p>誰かください！</p>
@@ -4814,7 +4833,7 @@
 
 ---
 
-### 2. 誰か
+### 3. 誰か
 **Author:** ビッチお断り
 
 <p>アイフィルターでも使える有能サイト教えて〜</p><p><br/></p>
@@ -4833,7 +4852,7 @@
 
 ---
 
-### 3. 使いもんならんが
+### 4. 使いもんならんが
 **Author:** Kick (daikisabu1225)
 
 <p><a rel="noopener noreferrer nofollow" href="https://proxy-biwako.vercel.app/">https://proxy-biwako.vercel.app/</a>一応自作プロキシのデモ版多分アプデしないけどもしかしたら気が向いたらするかも。botブロッカー入ってるサイトほぼ入れないし、多分バグることもあるかもしれんけど許してちょ。まぁ生きてるプロキシ持ってない人が使ってくれ</p>
@@ -4857,7 +4876,7 @@
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** やまにつつ (yamanitsutsu)
 
 **星評価:** 0 / 5 ⭐
@@ -4875,7 +4894,7 @@
 
 ---
 
-### 5. これもよろしく
+### 6. これもよろしく
 **Author:** ky1732050808
 
 <p><a rel="noopener noreferrer nofollow" href="https://www-q.nolife.uk/">https://www-q.nolife.uk/</a></p>
@@ -4893,7 +4912,7 @@
 
 ---
 
-### 6. これマジでおすすめ
+### 7. これマジでおすすめ
 **Author:** ky1732050808
 
 **星評価:** 0 / 5 ⭐
@@ -4912,7 +4931,7 @@
 
 ---
 
-### 7. Post 7
+### 8. Post 8
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -4936,7 +4955,7 @@
 
 ---
 
-### 8. ぷりーずみー2v2io
+### 9. ぷりーずみー2v2io
 **Author:** ワイ君
 
 <p>たのむッ</p>
@@ -4950,7 +4969,7 @@
 
 ---
 
-### 9. youtube見れるプロキシサイト教えて
+### 10. youtube見れるプロキシサイト教えて
 **Author:** フェットチーネしか勝つ
 
 **星評価:** 0 / 5 ⭐
@@ -4966,7 +4985,7 @@
 
 ---
 
-### 10. 作ったよー
+### 11. 作ったよー
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -4995,7 +5014,7 @@
 
 ---
 
-### 11. Post 11
+### 12. Post 12
 **Author:** aaabbbccc (mazamaza)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -5009,7 +5028,7 @@
 
 ---
 
-### 12. Post 12
+### 13. Post 13
 **Author:** aaabbbccc (mazamaza)
 
 **星評価:** 0 / 5 ⭐
