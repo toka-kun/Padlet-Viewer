@@ -1,4 +1,4 @@
-最終更新: 2026/05/08 14:34:09
+最終更新: 2026/05/08 16:43:24
 
 # Padletポータルワールド
 
@@ -208,7 +208,7 @@
 ---
 
 ### 6. プロキシの塊
-**Author:** 存在がバグ (glitchboi)
+**Author:** 存在がバグ (glitchboy)
 
 <p>雑談もできるしプロキシもある神部屋！</p>
 
@@ -586,7 +586,7 @@
 ---
 
 ### 22. プロキシの塊
-**Author:** 存在がバグ (glitchboi)
+**Author:** 存在がバグ (glitchboy)
 
 <p>雑談もできるしプロキシもあるよ！</p>
 
@@ -770,7 +770,7 @@
 ---
 
 ### 30. 部屋の塊
-**Author:** 存在がバグ (glitchboi)
+**Author:** 存在がバグ (glitchboy)
 
 <p>どんどん宣伝していけ！</p>
 
@@ -792,7 +792,7 @@
 ---
 
 ### 31. プロキシの塊
-**Author:** 存在がバグ (glitchboi)
+**Author:** 存在がバグ (glitchboy)
 
 <p>プロキシも雑談もある</p>
 
@@ -3155,7 +3155,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1778823249&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WMzXJPnnVYFLovyMKH1qgcbt%2F%2FGuca%2BqDm2klgB%2Bwp9KTWn84%2BhXVhOBwHj%2FvKtXWPvVDqGciMNMIllpJ%2Ffto7AvUaAsogPXkd1poQp47YdoSMyGtmoINkE45zuPCbuesdarCcKmOujlhomddaQwuV6kNVDIqTorWgB%2Fac3g2II%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1778831004&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IUgk95i7EDv1HyQu3bzlVk2Hq%2BayTWyvpnSHYdO1DKef%2BH%2FCEr3BGMnWp9r0tb7bUExyLG0wIT%2BhEXG71Bky3uvhUTLIaM2HpmFcz1Lm%2BC7FDy5YCSL8yG8KX3Z06JMwMTyS%2FfJprcaSF4YawG8pjZWhEa6u1bBahXdLREOfy%2B0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
