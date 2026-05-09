@@ -1,4 +1,4 @@
-最終更新: 2026/05/05 11:49:48
+最終更新: 2026/05/09 17:27:29
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 11
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** May 05, 2026 12:01am
+- **Updated At (UTC):** May 09, 2026 06:46am
 
 ## ルール
 
@@ -127,6 +127,11 @@
 **Author:** とるっぷい (TORI_TORI2)
 
 <p>本部のライターの受付です。メルアド添付部屋にてメルアドを添付してください。管理者以外は投稿を確認することはできません。</p>
+
+#### Comments (3)
+- **〚KuJiRa〛** (May 09, 2026 06:46am): s2000941@g.ueis.ed.jp
+- **〚KuJiRa〛** (May 09, 2026 06:46am): 入れてー
+- **〚KuJiRa〛** (May 09, 2026 06:46am): ライター頂戴
 
 #### Additional Information
 - **Post color:** Black
