@@ -1,4 +1,4 @@
-最終更新: 2026/05/09 19:05:48
+最終更新: 2026/05/09 20:51:34
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 141
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** May 09, 2026 08:05am
+- **Updated At (UTC):** May 09, 2026 11:38am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -89,25 +89,25 @@
 
 ## Padletポータルワールド
 
-### 1. あOにー部屋
-**Author:** KaSiuuuuu (kasumuuu)
+### 1. ざつだん！
+**Author:** Ton-kyouju (Ton_kyouju_01)
 
-<p>ktkr</p>
+<p>気軽に話せるし、優しい人がいっぱいいてとても歓迎してくれます！！！　ゲームサイト・ダウンローダーが載っている部屋もこの中にあります！！受付もそのざつだん！部屋でできるため、すっごく楽です！！ぜひ来てください！！</p>
 
-**部屋の作成日:** March 16, 2026
+**部屋の作成日:** March 29, 2026
 
-**閲覧数:** ~499
+**閲覧数:** 1000~2499
 
 **管理者数:** 1~4
 
-**モデレーター数:** 非公開
+**モデレーター数:** 1~4
 
-[Attachment 1](https://padlet.com/padlets/bffra3hrzil7do9a)
+[Attachment 1](https://padlet.com/padlets/9rgp8nxkrm1x27ku)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 09, 2026 02:56am
-- **Updated At (UTC):** May 09, 2026 02:56am
+- **Created At (UTC):** May 09, 2026 11:27am
+- **Updated At (UTC):** May 09, 2026 11:36am
 
 ---
 
@@ -149,9 +149,9 @@
 [Attachment 1](https://padlet.com/padlets/g2eib15q98g0335g)
 
 #### Additional Information
-- **Post color:** Purple
+- **Post color:** White
 - **Created At (UTC):** May 08, 2026 05:18am
-- **Updated At (UTC):** May 08, 2026 05:18am
+- **Updated At (UTC):** May 09, 2026 11:38am
 
 ---
 
@@ -3205,7 +3205,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1778925948&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yTgbx9zP5RHu2Ge6ZB%2Bxn9zSb1qvcl4bb4JCBtLQ05NXgX5EC8EimM1d%2BHQk4x1S6w%2BlVUzRy25w7ko4QEQ2rxGV9R6nk6tJ5%2Br%2Fg4%2BYJ0eJVP%2BNZkOvH4iy9M4Os5%2F7HN24RllnCXn%2FHc9mg8wQaxkIZTC54oWmMKizlhkJaf8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1778932294&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=x3Hka1i3Uk12IHAFGUZAiaklB2UfYZk4S5dZH%2Fn%2BkkMpBKtPT%2BpFybK1aC8TQTNKuBV19JhvDMhaIqanI9lwNq2%2BjLYk06Ompi%2Fl7o4M58sacKomUQ%2Fj6xKJBlslb65jzroNmcSoDuJzgXYC1B6xo10Ixc2%2FQLOSI5sF%2B7m7fHo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
