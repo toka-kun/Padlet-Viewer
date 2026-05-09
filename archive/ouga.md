@@ -1,4 +1,4 @@
-最終更新: 2026/05/09 07:56:15
+最終更新: 2026/05/09 12:34:22
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,13 +7,31 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 197
+- **Posts:** 198
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** May 08, 2026 09:50pm
+- **Updated At (UTC):** May 09, 2026 03:22am
 
 ## 管理者　連絡
 
-### 1. みんなどんどんコメント打ってね見てるだけじゃなく
+### 1. 最近あらしがあります。そういう不必要な言葉を消してくれる（モデレーターになってくれる人）を募集中です。また、よくこの部屋に来ている人だと助かります。
+**Author:** 時透無一郎 (r0300353)
+
+**星評価:** 0 / 5 ⭐
+
+#### Comments (4)
+- **時透無一郎** (Apr 29, 2026 08:56am): メアド貼ってください。信用できる人にだけモデレーターあげます。
+- **時透無一郎** (May 01, 2026 07:04am): メアドはすぐ消します
+- **ふるさわさん** (May 08, 2026 09:59am): はぁーい
+- **時透無一郎** (May 09, 2026 01:54am): 👍️
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 27, 2026 11:40am
+- **Updated At (UTC):** May 09, 2026 01:55am
+
+---
+
+### 2. みんなどんどんコメント打ってね見てるだけじゃなく
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -32,7 +50,7 @@
 
 ---
 
-### 2. こんにちわ
+### 3. こんにちわ
 **Author:** スリ
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -63,7 +81,7 @@
 
 ---
 
-### 3. 色々あったので名前変えました
+### 4. 色々あったので名前変えました
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -86,7 +104,7 @@
 
 ---
 
-### 4. 春休みあんま動けてなかったから今から再始動します！
+### 5. 春休みあんま動けてなかったから今から再始動します！
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -98,7 +116,7 @@
 
 ---
 
-### 5. 注意　他のパドレットに宣伝してるれるのはいいんですけどルールは守って宣伝して欲しいです！！
+### 6. 注意　他のパドレットに宣伝してるれるのはいいんですけどルールは守って宣伝して欲しいです！！
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -110,7 +128,7 @@
 
 ---
 
-### 6. じゃあみんなバイバイ！
+### 7. じゃあみんなバイバイ！
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -131,7 +149,7 @@
 
 ---
 
-### 7. 管理者になりましたよろしくお願いします
+### 8. 管理者になりましたよろしくお願いします
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -155,7 +173,7 @@
 
 ---
 
-### 8. 最近楽しいこと
+### 9. 最近楽しいこと
 **Author:** あかさたな
 
 **星評価:** 0 / 5 ⭐
@@ -167,7 +185,7 @@
 
 ---
 
-### 9. 管理者ください
+### 10. 管理者ください
 **Author:** Sky (hoangquipquip)
 
 **星評価:** 0 / 5 ⭐
@@ -184,7 +202,7 @@
 
 ---
 
-### 10. ルール　暴言、性的な言動、個人情報の流出はモデレーターに削除してもらいます　掲示板以外に宣伝したコメントは全て削除　　みんな仲良く楽しんでください！！
+### 11. ルール　暴言、性的な言動、個人情報の流出はモデレーターに削除してもらいます　掲示板以外に宣伝したコメントは全て削除　　みんな仲良く楽しんでください！！
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -202,7 +220,7 @@
 
 ---
 
-### 11. 最近みんな見てくれない、、、何かダメなところとかある？
+### 12. 最近みんな見てくれない、、、何かダメなところとかある？
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -226,7 +244,7 @@
 
 ---
 
-### 12. モデレーターなってくれる人募集しますメリットは自分の鯖を宣伝できる投稿ができるして欲しいことは荒らしのコメントをどんどん消してほしい
+### 13. モデレーターなってくれる人募集しますメリットは自分の鯖を宣伝できる投稿ができるして欲しいことは荒らしのコメントをどんどん消してほしい
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -258,7 +276,7 @@
 
 ---
 
-### 13. hiro mc6881この人荒らし
+### 14. hiro mc6881この人荒らし
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -278,7 +296,7 @@
 
 ---
 
-### 14. モデレーターになった方は暴言、誹謗中傷、個人情報などのコメントはじゃんじゃん消してください！！自分の鯖を紹介したい人は1つだけなら投稿okそれ以上は僕が消しますそしてモデから消しますそれだけは守ってください
+### 15. モデレーターになった方は暴言、誹謗中傷、個人情報などのコメントはじゃんじゃん消してください！！自分の鯖を紹介したい人は1つだけなら投稿okそれ以上は僕が消しますそしてモデから消しますそれだけは守ってください
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -295,7 +313,7 @@
 
 ---
 
-### 15. みんなさんのおかげで大きくなってきました！！荒らしとかが怖くなってきたので夜の10時からあさの9時くらいまで凍結さしていただきますご了承ください🙏
+### 16. みんなさんのおかげで大きくなってきました！！荒らしとかが怖くなってきたので夜の10時からあさの9時くらいまで凍結さしていただきますご了承ください🙏
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -311,7 +329,7 @@
 
 ---
 
-### 16. こんにちは！管理者のおうがですここでは仲良く情報共有などができればいいなと思っています！！みなさん拡散お願いします
+### 17. こんにちは！管理者のおうがですここでは仲良く情報共有などができればいいなと思っています！！みなさん拡散お願いします
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -421,7 +439,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1778885772&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=a%2F%2BhDJq76swcOpe3nBc6PwmXEmr%2FWV4mpyclJfEw%2Fi%2ByUGkFj59dBDoC8FvJL3mlHWickwSFFTZgPcxwkBqA%2BeSwcjRLsJO%2FfegH4GzfYKbYeli9I9wdwgv0PVVf8eSADi2eGZ8MHP4wfGXPFKaMzo6AusGICz843rVQvz2x9Bc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1778902459&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=j8RH64Ra2VqQXU7Qtm9LELPeOvfcNPyvXRqimVtk8sLspiIWskP6f0NM%2FK65Yj%2Fm%2BnnGF6%2Bf98xBpynIYo%2BZE%2BLUbAoCsD5NC67iZrilzYAh9Rn1jQ%2FbuDQ3UK40sQz3niiEoLwN%2FeDxWlR8RcI4327SwzbA9B3eIKN4AjPM%2Bz0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -514,7 +532,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1778885772&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=n%2Fah63%2BgS7%2BHlj%2BUfXm9EEiJOADQwA3SEhelAa%2Fm92Q5WVQcy7l3QognfwmTCTubD4yR%2FlkKk10hCcHnvT5IO2kttkQkJMX6psGC22hu6CMqCtQr7FmGI4QecCMGosMouU69G%2BXkKi7TZGAvhOJeSJi%2BeX9Lwkch2MVURRusaf0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1778902459&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2HjO%2FMqAJvnJjpTPybnh0E4x5xi%2Bey2iL9ml8nKJL3cbzQuLouCV8zD3rtPcWzWnuY6eFZwYVMK%2BQFSAKFuwpxw7tzxR12%2BJXatXDQ34Ij8Gfnun6OyGs1YtZGU8cp2wSUMxTr8ZsKZN9H29D3CGL8OsiSJZ4VEKEgwG3PCbLIo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (2)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -602,7 +620,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1778885772&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BIMBpie7t2iLsFug4GNS7EtJj2Sg9YeduZaJ6ijtWkibcJYaccCzyMdqAoq1d17ZrCAsb0WX1V%2Fu0ZOdJAu227jXmacGGTyq4c2cpda168yQGsefHA0qB%2F8A81qkWaS6EjmWCVuHC0jzeERexNeWsDs5tcowRqHYau2MqKDULsk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1778902459&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dGP%2B%2FZyH%2F9OQ60DlYMOacPpviPnEAK6ht9oGi0e3%2BWFixL4N%2FLWV6ClILfa471WKQRotb1UHb19LpCAHC8jvg4H4oz4JmnglzBrJbOKtcxuhk0gTLfscXEVCxBrdx0kOly6VI3F11sNjqS4%2BRKy4RkGDg99kpIkmezLSr3FY0h8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -1103,20 +1121,15 @@
 
 ## 訪問者数＋閲覧数
 
-### 1. 最近あらしがあります。そういう不必要な言葉を消してくれる（モデレーターになってくれる人）を募集中です。また、よくこの部屋に来ている人だと助かります。
+### 1. あとすこしで訪問者5000人、観覧数15000回いきます
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **時透無一郎** (Apr 29, 2026 08:56am): メアド貼ってください。信用できる人にだけモデレーターあげます。
-- **時透無一郎** (May 01, 2026 07:04am): メアドはすぐ消します
-- **ふるさわさん** (May 08, 2026 09:59am): はぁーい
-
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Apr 27, 2026 11:40am
-- **Updated At (UTC):** Apr 29, 2026 08:56am
+- **Created At (UTC):** May 09, 2026 01:57am
+- **Updated At (UTC):** May 09, 2026 01:57am
 
 ---
 
@@ -2012,7 +2025,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1778885773&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SdE4FzO2mQa9dNsl7Y925COG24SvABnRCxGqXUKNPtdWUWFe2DI6mZk5QOownnJyUgRsUO4B607xEWzMNm6GskoCYANheH3SDwwlod7qqaVTvc84%2F3CwTqxntjox0W8M590Ft3KGuSe8s6bWvdPDLNhMBTMaY3BF1vIdhjvcF%2Fs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1778902460&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RSirQCdmg5EHrCRBNRrusJjW27yWnCnnzcMaQ8xCEgKZStdBvSxl7gn%2BxXLJPa3XOepE7D3p8Mio%2BqVVlyjpN%2F6Ak6hwIMJmiUZhjdgAREjhqyJcZl1%2FFxlVCKE0bl12nCFQzazQNsXmngGOdfm7arWJFD%2FauDHBmUW1yrA4HJ4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (18)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -2083,7 +2096,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1778885773&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Z%2BqT2JVe5IC5yhnrdvuzwcp8DyOfy%2FesCWUM66Qcv%2FOT4KBu28StuKD3BOkRmdOL03q8qBUOoGQY0t6Nwa9L1ucZ7%2Fy8AKf8hoZEPoq5PgEjMqmjrgPpMbSNG7WGB%2FGq6FFHL0%2Fd6DuPSVpwpwas5PC%2FMQFgMSen6dGcx1du5qY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1778902460&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6U3nFV9sAaOdgpXwdI7pcX7fhBS6ZjKGdYhuEw7VptrfD1vHXU3HsVbZQkbRUnOHrUnkZUnhMpux3iVSIzoVoFpHg%2BCX1hyTGEulMvPcF%2BITUHToNEpgWpuWXY7Zg%2BSrMg2%2Fc6OjKZrmBOSZ2RVHSiQPs9G4pyqir5hyJzzOr4U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!** (Apr 26, 2026 10:13am): コード打っときます
@@ -5195,7 +5208,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (100)
+#### Comments (101)
 - **かっっぱ** (Feb 19, 2026 04:46am): ブロフルってなんですか？
 - **おうが** (Feb 19, 2026 06:03am): ロブロックス　ブロフルって調べてみてやってみて
 - **玲吏** (Feb 19, 2026 07:59am): やってますよ
@@ -5296,6 +5309,7 @@
 - **GP** (May 08, 2026 03:17am): あははは
 - **Kick** (May 08, 2026 04:39pm): 狐リボンの効果完全に忘れてたけどどっちにせよ2500じゃ足りんやろランナーされたら終わりやんしかも100歩譲って足りてもがなんの銃使うかにもよるがメレーの方がコンボ性能という面でも火力でもメレーの方が優秀おでんコンボも避けれるにせよ結局火力高いから一番強いし大体フェニ使う理由知らんが飛べるか、回復か？また話戻すけど2500じゃ足りんやろ、なんの構成使ってるか知らんが一般的に振るべきと言われるメレーに振らないのは流石にない。反論するなら剣と銃とメレーも教えてね。あとv4使うなとか言ってるけどあるもん使わない意味がわからないポケモンで言うとメガシンカ、z技使わない、ブロスタならハイチャ使わない、スプラなら味方が吐いたエナスタ飲まないようなもん俺からしたらv4使わんやつ全員舐めプやし。そもそも運営が用意してくれてんねんから使っても問題ないし。
 - **Kick** (May 08, 2026 04:44pm): まぁそもそも狐リボンとかいう装備つけるよりスカーフとかパイロットヘルメットの方がいいやろ
+- **rai** (May 09, 2026 12:57am): やってる
 
 #### Additional Information
 - **Post color:** Black
