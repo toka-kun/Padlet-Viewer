@@ -1,4 +1,4 @@
-最終更新: 2026/05/09 22:20:10
+最終更新: 2026/05/11 23:55:41
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 11
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** May 09, 2026 06:46am
+- **Updated At (UTC):** May 11, 2026 01:33pm
 
 ## ルール
 
@@ -52,9 +52,6 @@
 **Author:** とるっぷい (TORI_TORI2)
 
 [Attachment 1](https://padlet.com/TORI_TORI2/padlet-g07iihoi22rh2q7l)
-
-#### Comments (1)
-- **凛藤 Dasudasu** (Apr 28, 2026 11:32am): 受付
 
 #### Additional Information
 - **Post color:** Black
@@ -128,10 +125,11 @@
 
 <p>本部のライターの受付です。メルアド添付部屋にてメルアドを添付してください。管理者以外は投稿を確認することはできません。</p>
 
-#### Comments (3)
+#### Comments (4)
 - **〚KuJiRa〛激低浮上(´・ω・｀)** (May 09, 2026 06:46am): s2000941@g.ueis.ed.jp
 - **〚KuJiRa〛激低浮上(´・ω・｀)** (May 09, 2026 06:46am): 入れてー
 - **〚KuJiRa〛激低浮上(´・ω・｀)** (May 09, 2026 06:46am): ライター頂戴
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (May 11, 2026 01:32pm): ライターにした
 
 #### Additional Information
 - **Post color:** Black
