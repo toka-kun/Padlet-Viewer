@@ -42,18 +42,19 @@ jobs:
           cat << 'EOF' > parse_metadata.py
           import sys, json, re, os
           from datetime import datetime, timedelta
+          from collections import OrderedDict
 
           file_path = sys.argv[1]
           board_key = sys.argv[2]
           fetched_time = sys.argv[3]
           info_json_path = 'info.json'
 
-          # 既存の info.json を読み込む
-          data = {}
+          # 既存の info.json を読み込む（取得順番をキープするために OrderedDict を使用）
+          data = OrderedDict()
           if os.path.exists(info_json_path):
               with open(info_json_path, 'r', encoding='utf-8') as f:
                   try:
-                      data = json.load(f)
+                      data = json.load(f, object_pairs_hook=OrderedDict)
                   except:
                       pass
 
@@ -129,7 +130,7 @@ jobs:
           except ValueError:
               pass
 
-          # JSONに格納
+          # JSONに格納（取得した順番通りに上から追加・上書きされる）
           data[board_key] = {
               "title": title,
               "desc": desc,
