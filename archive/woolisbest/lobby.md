@@ -1,4 +1,4 @@
-最終更新: 2026/05/11 16:42:00
+最終更新: 2026/05/11 23:55:27
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** May 08, 2026 10:08am
+- **Updated At (UTC):** May 11, 2026 01:24pm
 
 ## 受付
 
@@ -237,7 +237,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (41)
+#### Comments (42)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -279,6 +279,7 @@
 - **カービィ** (Apr 29, 2026 07:44am): しました
 - **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (Apr 29, 2026 08:33am): カービィいれたよー
 - **raisei1414** (May 01, 2026 01:42am): したー
+- **Sky** (May 11, 2026 01:24pm): フォローしました
 
 #### Additional Information
 - **Post color:** Red
