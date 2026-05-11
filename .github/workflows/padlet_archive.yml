@@ -65,6 +65,7 @@ jobs:
 
           title = ""
           desc = ""
+          link = ""
           builder = ""
           posts = "0"
           created = ""
@@ -107,6 +108,9 @@ jobs:
 
           # 上部20行からメタデータを検索
           for line in lines[:20]:
+              m_link = re.search(r'\*\*(?:Link|リンク):\*\*\s*(.*)', line)
+              if m_link: link = m_link.group(1)
+              
               m_builder = re.search(r'\*\*(?:Builder|所有者):\*\*\s*(.*)', line)
               if m_builder: builder = m_builder.group(1)
               
@@ -129,6 +133,7 @@ jobs:
           data[board_key] = {
               "title": title,
               "desc": desc,
+              "link": link,
               "builder": builder,
               "posts": posts,
               "created": created,
