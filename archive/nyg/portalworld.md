@@ -1,4 +1,4 @@
-最終更新: 2026/05/11 13:16:57
+最終更新: 2026/05/11 16:41:53
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 143
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** May 11, 2026 12:43am
+- **Updated At (UTC):** May 11, 2026 04:26am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -89,7 +89,31 @@
 
 ## Padletポータルワールド
 
-### 1. 雑談
+### 1. 全力雑談部屋だよー！
+**Author:** Sto9960 (h9960969)
+
+<p>色々な人がいるのでみんなぜひはいってね！</p>
+
+**受付部屋のリンク（あれば）:** https://padlet.com/h9960969/padlet-dcnf6ohpybtuolfk?utm_source=pwa
+
+**部屋の作成日:** February 19, 2026
+
+**閲覧数:** 500~999
+
+**管理者数:** 部屋主のみ
+
+**モデレーター数:** 1~4
+
+[Attachment 1](https://padlet.com/padlets/dcnf6ohpybtuolfk)
+
+#### Additional Information
+- **Post color:** Yellow
+- **Created At (UTC):** May 11, 2026 04:23am
+- **Updated At (UTC):** May 11, 2026 04:23am
+
+---
+
+### 2. 雑談
 **Author:** N (bigbann5678_1)
 
 <p>マジでなんでもありだしできたてなので管理者を数人任せます、パドレットについてそこまで詳しくないんでたのんます</p>
@@ -113,7 +137,7 @@
 
 ---
 
-### 2. 宣伝部屋
+### 3. 宣伝部屋
 **Author:** Sto9960 (h9960969)
 
 <p>宣伝しよう</p>
@@ -140,7 +164,7 @@
 
 ---
 
-### 3. ざつだん！
+### 4. ざつだん！
 **Author:** Ton-kyouju (Ton_kyouju_01)
 
 <p>気軽に話せるし、優しい人がいっぱいいてとても歓迎してくれます！！！　ゲームサイト・ダウンローダーが載っている部屋もこの中にあります！！受付もそのざつだん！部屋でできるため、すっごく楽です！！ぜひ来てください！！</p>
@@ -162,7 +186,7 @@
 
 ---
 
-### 4. ドクターマリオ部屋〜公開ライター〜
+### 5. ドクターマリオ部屋〜公開ライター〜
 **Author:** ドクターマリオ使い♯01  復活 (dokumari)
 
 <p>みんな入れます！</p>
@@ -184,7 +208,7 @@
 
 ---
 
-### 5. 2ちゃんねるパドレット版
+### 6. 2ちゃんねるパドレット版
 **Author:** カカコンジュ (h0421017_1)
 
 <p>ウェイ</p>
@@ -203,36 +227,6 @@
 - **Post color:** White
 - **Created At (UTC):** May 08, 2026 05:18am
 - **Updated At (UTC):** May 09, 2026 11:38am
-
----
-
-### 6. 超極雑談部屋
-**Author:** Sto9960 (h9960969)
-
-<p>超ーーー楽しいよ！</p><p>なんでもできる！</p>
-
-**受付部屋のリンク（あれば）:** https://padlet.com/h9960969/padlet-2a9abrekmcm89wt7
-
-**部屋の作成日:** May  7, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 1~4
-
-[Attachment 1](https://padlet.com/padlets/2a9abrekmcm89wt7)
-
-#### Comments (1)
-- **Sto9960** (May 07, 2026 12:44am): ここガチで楽しいよ！
-
-#### Reactions
-- **Emojis:** ❤️ (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** May 07, 2026 12:43am
-- **Updated At (UTC):** May 07, 2026 11:26pm
 
 ---
 
@@ -3259,7 +3253,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1779077817&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uHOI%2BUjGJJhY6awuNU7MOFpRNgDKcWT7ZFh4Z0moc1ulIjarQ3xCoDmhvZ7GvJw3BiS7DWoUp1vwwMOGQeKlOPzVcTLR7ub4zKrlWVs9%2Bho1L%2BqMSNJZGhwOdYKwIZj7csI6DVGjAUeHoKgTCdNwAJ%2FqriuJo5m1%2FlL4PoG9Ovs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1779090113&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zykpdXY1wSRVnCalAbPgASQykaYf4WnJLbEm1h%2B7JMVpmY1Ub%2F8XlGE6a96C37WifnfxvxumHBecBBssMXm%2FP3DB30mmsAPZnpni%2Bu8IA5fb2MYynD9BP59uwgVyp6HNmzu2tqYkXvjCCctacjq1I4sYSzIdg7YtLI106lDBb0o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
