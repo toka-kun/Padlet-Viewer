@@ -23,7 +23,7 @@ jobs:
           # 日本時間に設定
           export TZ='Asia/Tokyo'
           
-          # 保存先のフォルダをまとめて作成（egaoを削除）
+          # 保存先のフォルダをまとめて作成
           mkdir -p archive/nyg archive/woolisbest archive/magurock archive/kiseikaijoiinkai
 
           # 待機時間を決定（無料枠節約のため短縮）
@@ -36,10 +36,119 @@ jobs:
           echo "現在のモード: ${{ github.event_name }}"
           echo "待機時間: ${SLEEP_TIME}秒"
 
+          # ==========================================
+          # JSON書き出し・メタデータ抽出用Pythonスクリプト
+          # ==========================================
+          cat << 'EOF' > parse_metadata.py
+          import sys, json, re, os
+          from datetime import datetime, timedelta
+
+          file_path = sys.argv[1]
+          board_key = sys.argv[2]
+          fetched_time = sys.argv[3]
+          info_json_path = 'info.json'
+
+          # 既存の info.json を読み込む
+          data = {}
+          if os.path.exists(info_json_path):
+              with open(info_json_path, 'r', encoding='utf-8') as f:
+                  try:
+                      data = json.load(f)
+                  except:
+                      pass
+
+          # ダウンロードしたマークダウンを読み込む
+          with open(file_path, 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          lines = [line.strip() for line in content.split('\n')]
+
+          title = ""
+          desc = ""
+          builder = ""
+          posts = "0"
+          created = ""
+          updated = ""
+
+          # タイトル抽出 (最初の # )
+          if lines and lines[0].startswith('# '):
+              title = lines[0][2:]
+
+          # 説明文抽出 (タイトルの次の空白でない行、## 要約の前まで)
+          for line in lines[1:10]:
+              if line == "": continue
+              if line.startswith('## '): break
+              desc = line
+              break
+
+          # UTCからJSTへ変換する関数（年省略・英語・日本語対応）
+          def convert_time(time_str):
+              if not time_str: return ""
+              time_str = re.sub(r'\s+', ' ', time_str.strip())
+              time_str_upper = time_str.replace('am', 'AM').replace('pm', 'PM')
+              
+              # 英語フォーマットの試行 (例: Aug 20, 2024 10:59pm)
+              try:
+                  dt = datetime.strptime(time_str_upper, "%b %d, %Y %I:%M%p")
+                  dt += timedelta(hours=9)
+                  return dt.strftime("%Y/%m/%d %H:%M:%S")
+              except ValueError:
+                  pass
+                  
+              # 日本語/年省略フォーマットの試行 (例: 08/20 22:59)
+              try:
+                  dt = datetime.strptime(time_str, "%m/%d %H:%M")
+                  dt += timedelta(hours=9)
+                  return dt.strftime("%m/%d %H:%M") # 年はそのまま省略
+              except ValueError:
+                  pass
+                  
+              return time_str
+
+          # 上部20行からメタデータを検索
+          for line in lines[:20]:
+              m_builder = re.search(r'\*\*(?:Builder|所有者):\*\*\s*(.*)', line)
+              if m_builder: builder = m_builder.group(1)
+              
+              m_posts = re.search(r'\*\*(?:Posts|投稿):\*\*\s*(.*)', line)
+              if m_posts: posts = m_posts.group(1)
+              
+              m_created = re.search(r'\*\*(?:Created At \(UTC\)|作成日（UTC）):\*\*\s*(.*)', line)
+              if m_created: created = convert_time(m_created.group(1))
+              
+              m_updated = re.search(r'\*\*(?:Updated At \(UTC\)|更新日（UTC）):\*\*\s*(.*)', line)
+              if m_updated: updated = convert_time(m_updated.group(1))
+
+          # 投稿数を数値に変換
+          try:
+              posts = int(posts)
+          except ValueError:
+              pass
+
+          # JSONに格納
+          data[board_key] = {
+              "title": title,
+              "desc": desc,
+              "builder": builder,
+              "posts": posts,
+              "created": created,
+              "updated": updated,
+              "fetched": fetched_time
+          }
+
+          # 書き出し
+          with open(info_json_path, 'w', encoding='utf-8') as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+          EOF
+
+
           # --- 関数定義（賢い比較＋日付をつけて保存する処理） ---
           function save_padlet {
             local URL=$1
             local OUT_FILE=$2
+            # OUT_FILE から "archive/" と ".md" を消してキーを作成（例: nyg/main）
+            local KEY="${OUT_FILE#archive/}"
+            KEY="${KEY%.md}"
             
             # 1. 一旦データを一時ファイルにダウンロード
             if curl -L --compressed -s -o temp_download.md "$URL"; then
@@ -75,6 +184,9 @@ jobs:
 
                 # 4. 変更があった（または初回）場合、保存処理を実行
                 NOW=$(date "+%Y/%m/%d %H:%M:%S")
+                
+                # ▼▼ ここでPythonスクリプトを呼び出して info.json を更新 ▼▼
+                python3 parse_metadata.py temp_download.md "$KEY" "$NOW"
                 
                 # ヘッダー（日時と空行）を書き込み（上書き）
                 echo "最終更新: $NOW" > "$OUT_FILE"
@@ -136,13 +248,13 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           
-          # archiveフォルダ全体を追加
-          git add archive/
+          # archiveフォルダと info.json を追加
+          git add archive/ info.json
           
           if git diff --staged --quiet; then
             echo "変更がなかったので保存しません"
           else
-            git commit -m "アーカイブデータを一括更新"
+            git commit -m "アーカイブデータとメタデータを一括更新"
             git pull origin main --rebase
             git push
           fi
