@@ -7,7 +7,7 @@
     "posts": 220,
     "created": "2024/02/02 17:21:00",
     "updated": "2026/04/29 09:31:00",
-    "fetched": "2026/05/12 08:59:14"
+    "fetched": "2026/05/12 12:59:21"
   },
   "nyg/portalworld": {
     "title": "Padletポータルワールド",
@@ -17,7 +17,7 @@
     "posts": 144,
     "created": "2025/08/31 17:58:00",
     "updated": "2026/05/12 08:55:00",
-    "fetched": "2026/05/12 08:59:19"
+    "fetched": "2026/05/12 12:59:26"
   },
   "nyg/ssjt2025": {
     "title": "Shell Shockers Japan Tournament 2025",
@@ -27,7 +27,7 @@
     "posts": 77,
     "created": "2024/12/26 20:02:00",
     "updated": "2026/05/11 07:55:00",
-    "fetched": "2026/05/12 08:59:23"
+    "fetched": "2026/05/12 12:59:31"
   },
   "magurock/lobby": {
     "title": "Magurockのロビー部屋｜皆の宣伝所と僕の部屋の受付、あとアカウント無い人用",
@@ -37,7 +37,7 @@
     "posts": 193,
     "created": "2025/07/02 01:13:00",
     "updated": "2026/03/10 20:54:00",
-    "fetched": "2026/05/12 08:59:29"
+    "fetched": "2026/05/12 12:59:36"
   },
   "magurock/main": {
     "title": "Magurockのみんなの広場｜マイクラも雑談も色々!閲覧20,000!",
@@ -47,7 +47,7 @@
     "posts": 244,
     "created": "2025/05/18 19:01:00",
     "updated": "2026/04/30 23:46:00",
-    "fetched": "2026/05/12 08:59:35"
+    "fetched": "2026/05/12 12:59:42"
   },
   "hikari": {
     "title": "プロキシTeck・Land山の上店（本部）",
@@ -57,27 +57,27 @@
     "posts": 113,
     "created": "2025/05/09 10:39:00",
     "updated": "2026/05/09 09:01:00",
-    "fetched": "2026/05/12 08:59:40"
+    "fetched": "2026/05/12 12:59:47"
   },
   "sennin": {
     "title": "proxyなど教える会",
     "desc": "proxyサイトなどを共有しましょう",
     "link": "https://padlet.com/xianrendesu/proxy-n0g1c0jl2ak3grc5",
     "builder": "仙人@suger (xianrendesu)",
-    "posts": 561,
+    "posts": 577,
     "created": "2025/06/04 17:02:00",
-    "updated": "2026/05/12 08:30:00",
-    "fetched": "2026/05/12 08:59:44"
+    "updated": "2026/05/12 12:52:00",
+    "fetched": "2026/05/12 13:00:04"
   },
   "ouga": {
     "title": "みんなで協力すればアイフィルターなんて怖くない",
     "desc": "ここでぜひ話していってください！",
     "link": "https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm",
     "builder": "おうが (18jt026)",
-    "posts": 208,
+    "posts": 210,
     "created": "2026/02/17 08:41:00",
-    "updated": "2026/05/12 07:58:00",
-    "fetched": "2026/05/12 08:59:51"
+    "updated": "2026/05/12 10:55:00",
+    "fetched": "2026/05/12 13:00:12"
   },
   "nyg/main": {
     "title": "プロキシのリンクやYouTubeの閲覧方法を共有する会",
@@ -86,7 +86,27 @@
     "builder": "ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)",
     "posts": 449,
     "created": "2024/08/21 07:59:00",
-    "updated": "2026/05/12 08:35:00",
-    "fetched": "2026/05/12 08:59:09"
+    "updated": "2026/05/12 11:02:00",
+    "fetched": "2026/05/12 12:59:06"
+  },
+  "nyg/archive": {
+    "title": "日本最大のプロキシ共有会のアーカイブ",
+    "desc": "プロキシのリンクやYouTubeの閲覧方法を共有する会のアーカイブです。投票には2ヶ月が経つまで参加できます。ベル🔔ボタンからこの部屋をフォローするとアーカイブされた投稿の通知が来るようになります。",
+    "link": "https://padlet.com/Toka_Kun_/padlet-scvs0iw7tdatft21",
+    "builder": "ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)",
+    "posts": 328,
+    "created": "2025/09/12 06:15:00",
+    "updated": "2026/05/12 10:26:00",
+    "fetched": "2026/05/12 12:59:16"
+  },
+  "kabotya": {
+    "title": "規制突破の世界",
+    "desc": "",
+    "link": "https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm",
+    "builder": "かぼちゃ (kabotya)",
+    "posts": 127,
+    "created": "2024/08/20 15:37:00",
+    "updated": "2026/05/12 12:21:00",
+    "fetched": "2026/05/12 12:59:53"
   }
 }
