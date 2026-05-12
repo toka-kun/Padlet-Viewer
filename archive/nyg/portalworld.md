@@ -1,4 +1,4 @@
-最終更新: 2026/05/12 22:21:36
+最終更新: 2026/05/13 00:59:28
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 147
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** May 12, 2026 12:41pm
+- **Updated At (UTC):** May 12, 2026 03:06pm
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -720,7 +720,7 @@
 ---
 
 ### 28. マイクラ・ゲーム・雑談部屋
-**Author:** こんにちは (56748573)
+**Author:** ゆめ (56748573)
 
 <p>学校の規約回避サイトなどをみんなで見つけて投稿する部屋です。みんなでマイクラとかもするかもです</p><p>新人ですのでいろいろ荒らし対策などを教えてくれると嬉しいです！</p>
 
@@ -3344,7 +3344,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1779196896&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=32vBFpJ58YDKLeTgN7%2FWsaGEW47gqf3tjnFik8Qex%2FYrU9OJNGaOuWIEf6b09Q77zHeLOfL%2FBDJtzpYU64%2FPD6k9UeooEBfcXWnrIszPnvnfTNqV3EuFOiXPsr6uC5fJZtCxRGjKHhkNYwzg23aysKXU8%2FbS6Cvf6xG%2B94mokeU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1779206368&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=d%2FcS%2BiVUgkV6hWc2CFwn5P1okXCcq0I8lQEc0NkXFBbriSDmW6SZ8DS0I3GM9ernM5ahZhYoWGbaX65MeHFg8BVo3X8aoiv%2FdmfdVBgrYorhlTC6fVVtQUY0g%2Fsd1BwgBUM%2FZjZ46NZh2WSIpgRL5ZuEjzvMSe2wYBdbC7ACkbY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
