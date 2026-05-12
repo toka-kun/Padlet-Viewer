@@ -1,4 +1,4 @@
-最終更新: 2026/05/12 18:08:01
+最終更新: 2026/05/12 20:30:39
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 213
+- **Posts:** 214
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** May 12, 2026 08:58am
+- **Updated At (UTC):** May 12, 2026 11:28am
 
 ## 管理者　連絡
 
@@ -35,6 +35,10 @@
 **Author:** 久保 (21070046)
 
 **星評価:** 0 / 5 ⭐
+
+#### Comments (2)
+- **俺だぞ〜（三橋）** (May 12, 2026 10:26am): あるよちょっと重いけど
+- **俺だぞ〜（三橋）** (May 12, 2026 10:26am): ほいhttps://www.autistici.org/eaglercraft/play/EaglercraftX_1.8/JavaScript/?server=wss://sus.shhnowisnottheti.me
 
 #### Additional Information
 - **Post color:** Black
@@ -385,8 +389,8 @@
 **Author:** 時透無一郎 (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 131 votes
-- **たけのこの里:** 133 votes
+- **きのこの山:** 132 votes
+- **たけのこの里:** 134 votes
 - **ドウデモイイ:** 40 votes
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -431,7 +435,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** May 12, 2026 08:14am
+- **Updated At (UTC):** May 12, 2026 11:00am
 
 ---
 
@@ -441,6 +445,9 @@
 <p>バトルネコですー</p>
 
 **星評価:** 0 / 5 ⭐
+
+#### Comments (1)
+- **時透無一郎** (May 12, 2026 09:20am): よろしくーーーーーーー
 
 #### Additional Information
 - **Post color:** Black
@@ -683,7 +690,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5621440276/c0a93c43ccdd44ccf59be3af73e81c12/IMG_0007.jpeg?Expires=1779181678&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Sdg6rqyeT%2BRxKXym%2BiufcDOxNKvGYzNKeA9RivUPjIFqcLDoR8E1XELxUEe%2BnGYCrw3FZCLgP1lRvw5KYd0OBimZmNthcTiUJsydpiIY4OASVNu%2F8KrSfChHqIDppVm6pqPnlVCelNNeN59Oz2ZeIOL9t0UrZiPYvaILoVt%2Blho%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5621440276%2Fc0a93c43ccdd44ccf59be3af73e81c12%2FIMG_0007.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5621440276/c0a93c43ccdd44ccf59be3af73e81c12/IMG_0007.jpeg?Expires=1779190235&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cvMpS5p%2Fb5AQG5vEatXfiDM0kTbh34M211kjtmxK9uJ9657hyiB0AzzEWUG8NY4ESbN%2Fg1jDxe0P%2B9XP6QLBGy9Bqpd0CF234rHSYTxFehzY1PCLHceyOI4blIG8h0AAYNUj8lKGfsdvyzMobhQuORl44kJu4nzbtlINGY8UX1E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5621440276%2Fc0a93c43ccdd44ccf59be3af73e81c12%2FIMG_0007.jpeg)
 
 #### Comments (2)
 - **スリ** (May 10, 2026 12:54pm): 呪術廻戦にでてくる日車の術式の裁判場にでてくるやつ 
@@ -732,7 +739,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1779181678&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=q1dVaLv9rXJn12BS5xCHdSkAK%2BO8h1qTMlWclHfBj%2BELJAnz51Ud5wah%2BJ5Tjnf19fduuB3ccI4IwXf%2FM4lng%2FQSAEXxXmcnwAcybiQeEKBk5agBAVSYpsMDHc5qjsCdVCgfXFxNkXmoXidSKyBvMzSKZ27K7Bh%2FUTv8l18prtw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1779190235&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4Zs0c1lhEB2be78Ln0HOo%2BzbjQuRH3jwgbR6ObwiPCkSmVBDipamhHirMqLUmCsc4kL6Vq1S%2F%2FL6zSNjOK2aZXR%2FPD31A2o89ip27NBFLRPGryd%2FOG4y%2B8TQx1oM7qDv8tQhEGC6I0mbkQBGePT57Gcm8qdfFsnksGUwKpJ9Fsw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
 
 #### Comments (2)
 - **スリ** (May 10, 2026 12:52pm): これに誰か一言
@@ -836,7 +843,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1779181678&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1XQsjT%2FIQ5uRPv7O3OWqTzfWDw8h46513JHFpyIQIHDWIIHdSaCTeaUb4gp84Xf7Yv9NChQ%2FRyaBtWVGSxwuejxs1t%2FzDrXeZyWvadqyxFyshTOXfsjCYiketv7crK%2BAdLt4QJncdEIDAl35niyOrlEjUsWWIC5JouE3p48PhcY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1779190235&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fjlDUQSPngS65jaTYQFm6Gvbfy%2F3KghwDRbCIBBjm0gbi%2F5HIzsz1YM1De1zNY5vgTdIDLRUX8%2BFOT7W9J9aDppGAv0%2FA4jzPdyEspJCSi4qWIKpqwPvmCkhiQh7vat1D4QiPpU7JggBr1xlIq2wklJT89JS15YEMPYyrO69aA4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (3)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -925,7 +932,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1779181678&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=d%2FV3G9sBLwnvs3spavTEg%2BFu6eAxCaIPIJpNgQn7VahKIdBSPSdkZs23e24zQjLaRSI6Pq2TYRGp7bwI3Kdbkjaf2YJUJz4tZ3g%2BzuFgrZl94F%2FW0kMUT7WyFadeUg%2BZlRi2wNEMIM2p6F%2FU6j3qhSNxDeu2QjK9iLBUSK0TnTA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1779190235&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=246tQu%2BXlHaZ%2F4vaoxMhnLLJylctkcTe9jPVPMWtmOvQebdUXrZP%2BGHVmEB8PqCF9lxfB48kG1QKuNM11JvOWJIeLBtEnMmEK7p%2FcRVAeywR2iMXNlW%2Fy4n6yueWXA%2FCfqldZ9a3jZqkNinUrczb48ggrrq3uVqX7mBf8Thw7zg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -2344,7 +2351,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1779181679&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QB3x5RpGO6r71I0mXveZiIM6hQ6PLyg5%2FqnegoafD%2FJ4awtSsAYZ%2Bqw85PEcPrDiSJVgp4gyZLsKuchzGEy0FQDQZ6Pg37b6%2Baagfr2nagmxysilYDhDZc0GNImRM6RZgZhoV6oTMtuaiQrJlzlqp4cGk5HDZMwciKSE3JdgWy8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1779190236&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ti226OwyXjbqjypwGwpVEJfNNjjWqrsEDIFvdM47MHq6u19hYEIEH5UyCnfCp7ZQHdr41O9SW4M5zQ5GB00XuQIMbdUXhFSD4vicj36bEdpFR4Ahv1qVLuwTJQTlWCe1wG78HA%2B2Y%2FCwtRinpObtmbwvLrVeD0EQ3IOWAMwCjg4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (18)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -2415,7 +2422,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1779181679&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3IHRBmI1HuI1mQqieBvH1Usj2nW5pDow3PkvSqdNijPhsUJWfBeYSLJ3WiqOaSyq%2FcNN5OEw2pKfG4vW1ohOYKRIUfyPgE5Z6Ja6etxFou%2B0e0hgcDe9lfy7pjS8eDi7aLPxxYTZ6uW2hzMClzo1%2FJtEeaVODwyIrOjZ99qAH58%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1779190236&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ICXie3JQRUP%2FmSI0Tdv3r8en%2FemOFqhBO5qsEshciju9iEPq%2FxFkdU4M0GTGSspOzNUFNw1yOkGACZ2BzaGaOBlUCS%2F9RziI%2FCpeiS8HUyvN08y%2BUL%2BH3rh6U7xKf%2BsA41EK5B9LfyRWHeSsWVJ2Fm%2FYjVwBuXgKCpWiVfUFzZs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!** (Apr 26, 2026 10:13am): コード打っときます
@@ -3558,7 +3565,177 @@
 
 ## ゲーム
 
-### 1. どうだ？
+### 1. ジオレタミーダッシュ
+**Author:** 天才くん
+
+**星評価:** 5.0 / 5 ⭐ (1)
+
+[Attachment 1](https://yandex.kz/games/app/geometri-volna-onlain-redaktor-492569#app-id=492569&catalog-session-uid=catalog-f374ccfc-7711-5fc4-8b8e-dad6de7e6d39-1777636735988-9acc&rtx-reqid=1712056696420097848&redir-data=%7B%22block%22%3A%22suggested%22%2C%22block_index%22%3A5%2C%22card%22%3A%22adaptive_recommended_new%22%2C%22col%22%3A4%2C%22first_screen%22%3A0%2C%22listType%22%3A%22suggested%22%2C%22page%22%3A%22main%22%2C%22row%22%3A3%2C%22rtx_reqid%22%3A%221712056696420097848%22%2C%22same_block_index%22%3A3%2C%22wrapper%22%3A%22grid-list%22%2C%22games_request_id%22%3A%221777636742886317-13247906864438121110-balancer-l7leveler-kubr-yp-sas-129-BAL%22%2C%22request_id%22%3A%221777636742899692-1288040547219583533-mv2eeqenp4thmy4c-BAL%22%2C%22http_ref%22%3A%22https%253A%252F%252Fyandex.kz%252Fgames%252F%22%2C%22rn%22%3A563152906%7D)
+
+#### Comments (2)
+- **天才くん** (May 12, 2026 06:52am): でけた❓
+- **時透無一郎** (May 12, 2026 11:29am): でけない
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** May 12, 2026 06:48am
+- **Updated At (UTC):** May 12, 2026 06:48am
+
+---
+
+### 2. Post 2
+**Author:** さいとうたつき (m230711)
+
+<p>太鼓の達人</p>
+
+**星評価:** 5.0 / 5 ⭐ (1)
+
+[Attachment 1](https://toromame.shop/)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** May 03, 2026 12:33am
+- **Updated At (UTC):** May 03, 2026 12:33am
+
+---
+
+### 3. Post 3
+**Author:** 天才くん
+
+**星評価:** 5.0 / 5 ⭐ (1)
+
+[Attachment 1](https://yandex.kz/games/)
+
+#### Comments (6)
+- **天才くん** (Apr 28, 2026 02:44am): できる？
+- **天才くん** (Apr 28, 2026 02:50am): できたら教えて
+- **ああ** (Apr 28, 2026 04:23am): 神
+- **天才くん** (Apr 28, 2026 04:24am): えぐい
+- **フェットチーネしか勝たん** (Apr 28, 2026 12:55pm): 銃のゲームはできない
+- **天才くん** (Apr 29, 2026 12:44am): 色々あるけどできるやつと出来ないやつがある
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 28, 2026 02:43am
+- **Updated At (UTC):** Apr 28, 2026 02:43am
+
+---
+
+### 4. Post 4
+**Author:** 忍者めししか勝たん
+
+<p>これは？</p>
+
+**星評価:** 5.0 / 5 ⭐ (1)
+
+[Attachment 1](https://d11jzht7mj96rr.cloudfront.net/)
+
+#### Comments (3)
+- **忍者めししか勝たん** (Apr 24, 2026 01:43pm): みんなができますように
+- **フェットチーネしか勝たん** (Apr 24, 2026 09:56pm): できない
+- **忍者めししか勝たん** (Apr 25, 2026 02:22am): おけ
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 24, 2026 01:43pm
+- **Updated At (UTC):** Apr 24, 2026 01:43pm
+
+---
+
+### 5. Post 5
+**Author:** 忍者めししか勝たん
+
+<p>これは？</p>
+
+**星評価:** 5.0 / 5 ⭐ (1)
+
+[Attachment 1](https://d3rsc7j663z58n.cloudfront.net/)
+
+#### Comments (1)
+- **忍者めししか勝たん** (Apr 24, 2026 01:37pm): いちおうJAVA版のマイクラできる
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 24, 2026 01:37pm
+- **Updated At (UTC):** Apr 24, 2026 01:37pm
+
+---
+
+### 6. ゲーム教えてー
+**Author:** ギャル
+
+<p>誰かRoblox持ってる人いないですかー</p>
+
+**星評価:** 5.0 / 5 ⭐ (1)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 24, 2026 10:28am
+- **Updated At (UTC):** Apr 24, 2026 10:28am
+
+---
+
+### 7. いろいろはいってるゲームサイト
+**Author:** ギャル
+
+<p><a rel="noopener noreferrer nofollow" href="https://mathwow.org/play/">https://mathwow.org/play/</a></p>
+
+**星評価:** 5.0 / 5 ⭐ (1)
+
+[Attachment 1](https://www.msn.com/en-my/play?ocid=cgpwa)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 24, 2026 10:26am
+- **Updated At (UTC):** Apr 24, 2026 10:26am
+
+---
+
+### 8. マ◯オカート
+**Author:** やまにつつ (yamanitsutsu)
+
+<p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/king-kong-kart-racing/index.html">https://cdn-factory.marketjs.com/en/king-kong-kart-racing/index.html</a></p>
+
+**星評価:** 5.0 / 5 ⭐ (2)
+
+#### Reactions
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 18, 2026 03:52pm
+- **Updated At (UTC):** Apr 18, 2026 03:52pm
+
+---
+
+### 9. 放置ゲー
+**Author:** やまにつつ (yamanitsutsu)
+
+<p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/idle-mining-empire/index.html?nocache">https://cdn-factory.marketjs.com/en/idle-mining-empire/index.html?nocache</a></p>
+
+**星評価:** 5.0 / 5 ⭐ (1)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 18, 2026 03:42pm
+- **Updated At (UTC):** Apr 18, 2026 03:42pm
+
+---
+
+### 10. Post 10
+**Author:** やまにつつ (yamanitsutsu)
+
+<p>これとか？</p><p><a rel="noopener noreferrer nofollow" href="https://mergecraft.gcdn.co/publish/html5/">https://mergecraft.gcdn.co/publish/html5/</a></p>
+
+**星評価:** 5.0 / 5 ⭐ (1)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Apr 17, 2026 02:34pm
+- **Updated At (UTC):** Apr 17, 2026 02:34pm
+
+---
+
+### 11. どうだ？
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -3594,176 +3771,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 06:05am
-- **Updated At (UTC):** Mar 30, 2026 11:06pm
-
----
-
-### 2. ジオレタミーダッシュ
-**Author:** 天才くん
-
-**星評価:** 5.0 / 5 ⭐ (1)
-
-[Attachment 1](https://yandex.kz/games/app/geometri-volna-onlain-redaktor-492569#app-id=492569&catalog-session-uid=catalog-f374ccfc-7711-5fc4-8b8e-dad6de7e6d39-1777636735988-9acc&rtx-reqid=1712056696420097848&redir-data=%7B%22block%22%3A%22suggested%22%2C%22block_index%22%3A5%2C%22card%22%3A%22adaptive_recommended_new%22%2C%22col%22%3A4%2C%22first_screen%22%3A0%2C%22listType%22%3A%22suggested%22%2C%22page%22%3A%22main%22%2C%22row%22%3A3%2C%22rtx_reqid%22%3A%221712056696420097848%22%2C%22same_block_index%22%3A3%2C%22wrapper%22%3A%22grid-list%22%2C%22games_request_id%22%3A%221777636742886317-13247906864438121110-balancer-l7leveler-kubr-yp-sas-129-BAL%22%2C%22request_id%22%3A%221777636742899692-1288040547219583533-mv2eeqenp4thmy4c-BAL%22%2C%22http_ref%22%3A%22https%253A%252F%252Fyandex.kz%252Fgames%252F%22%2C%22rn%22%3A563152906%7D)
-
-#### Comments (1)
-- **天才くん** (May 12, 2026 06:52am): でけた❓
-
-#### Additional Information
-- **Post color:** Black
-- **Created At (UTC):** May 12, 2026 06:48am
-- **Updated At (UTC):** May 12, 2026 06:48am
-
----
-
-### 3. Post 3
-**Author:** さいとうたつき (m230711)
-
-<p>太鼓の達人</p>
-
-**星評価:** 5.0 / 5 ⭐ (1)
-
-[Attachment 1](https://toromame.shop/)
-
-#### Additional Information
-- **Post color:** Black
-- **Created At (UTC):** May 03, 2026 12:33am
-- **Updated At (UTC):** May 03, 2026 12:33am
-
----
-
-### 4. Post 4
-**Author:** 天才くん
-
-**星評価:** 5.0 / 5 ⭐ (1)
-
-[Attachment 1](https://yandex.kz/games/)
-
-#### Comments (6)
-- **天才くん** (Apr 28, 2026 02:44am): できる？
-- **天才くん** (Apr 28, 2026 02:50am): できたら教えて
-- **ああ** (Apr 28, 2026 04:23am): 神
-- **天才くん** (Apr 28, 2026 04:24am): えぐい
-- **フェットチーネしか勝たん** (Apr 28, 2026 12:55pm): 銃のゲームはできない
-- **天才くん** (Apr 29, 2026 12:44am): 色々あるけどできるやつと出来ないやつがある
-
-#### Additional Information
-- **Post color:** Black
-- **Created At (UTC):** Apr 28, 2026 02:43am
-- **Updated At (UTC):** Apr 28, 2026 02:43am
-
----
-
-### 5. Post 5
-**Author:** 忍者めししか勝たん
-
-<p>これは？</p>
-
-**星評価:** 5.0 / 5 ⭐ (1)
-
-[Attachment 1](https://d11jzht7mj96rr.cloudfront.net/)
-
-#### Comments (3)
-- **忍者めししか勝たん** (Apr 24, 2026 01:43pm): みんなができますように
-- **フェットチーネしか勝たん** (Apr 24, 2026 09:56pm): できない
-- **忍者めししか勝たん** (Apr 25, 2026 02:22am): おけ
-
-#### Additional Information
-- **Post color:** Black
-- **Created At (UTC):** Apr 24, 2026 01:43pm
-- **Updated At (UTC):** Apr 24, 2026 01:43pm
-
----
-
-### 6. Post 6
-**Author:** 忍者めししか勝たん
-
-<p>これは？</p>
-
-**星評価:** 5.0 / 5 ⭐ (1)
-
-[Attachment 1](https://d3rsc7j663z58n.cloudfront.net/)
-
-#### Comments (1)
-- **忍者めししか勝たん** (Apr 24, 2026 01:37pm): いちおうJAVA版のマイクラできる
-
-#### Additional Information
-- **Post color:** Black
-- **Created At (UTC):** Apr 24, 2026 01:37pm
-- **Updated At (UTC):** Apr 24, 2026 01:37pm
-
----
-
-### 7. ゲーム教えてー
-**Author:** ギャル
-
-<p>誰かRoblox持ってる人いないですかー</p>
-
-**星評価:** 5.0 / 5 ⭐ (1)
-
-#### Additional Information
-- **Post color:** Black
-- **Created At (UTC):** Apr 24, 2026 10:28am
-- **Updated At (UTC):** Apr 24, 2026 10:28am
-
----
-
-### 8. いろいろはいってるゲームサイト
-**Author:** ギャル
-
-<p><a rel="noopener noreferrer nofollow" href="https://mathwow.org/play/">https://mathwow.org/play/</a></p>
-
-**星評価:** 5.0 / 5 ⭐ (1)
-
-[Attachment 1](https://www.msn.com/en-my/play?ocid=cgpwa)
-
-#### Additional Information
-- **Post color:** Black
-- **Created At (UTC):** Apr 24, 2026 10:26am
-- **Updated At (UTC):** Apr 24, 2026 10:26am
-
----
-
-### 9. マ◯オカート
-**Author:** やまにつつ (yamanitsutsu)
-
-<p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/king-kong-kart-racing/index.html">https://cdn-factory.marketjs.com/en/king-kong-kart-racing/index.html</a></p>
-
-**星評価:** 5.0 / 5 ⭐ (2)
-
-#### Reactions
-
-#### Additional Information
-- **Post color:** Black
-- **Created At (UTC):** Apr 18, 2026 03:52pm
-- **Updated At (UTC):** Apr 18, 2026 03:52pm
-
----
-
-### 10. 放置ゲー
-**Author:** やまにつつ (yamanitsutsu)
-
-<p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/idle-mining-empire/index.html?nocache">https://cdn-factory.marketjs.com/en/idle-mining-empire/index.html?nocache</a></p>
-
-**星評価:** 5.0 / 5 ⭐ (1)
-
-#### Additional Information
-- **Post color:** Black
-- **Created At (UTC):** Apr 18, 2026 03:42pm
-- **Updated At (UTC):** Apr 18, 2026 03:42pm
-
----
-
-### 11. Post 11
-**Author:** やまにつつ (yamanitsutsu)
-
-<p>これとか？</p><p><a rel="noopener noreferrer nofollow" href="https://mergecraft.gcdn.co/publish/html5/">https://mergecraft.gcdn.co/publish/html5/</a></p>
-
-**星評価:** 5.0 / 5 ⭐ (1)
-
-#### Additional Information
-- **Post color:** Black
-- **Created At (UTC):** Apr 17, 2026 02:34pm
-- **Updated At (UTC):** Apr 17, 2026 02:34pm
+- **Updated At (UTC):** May 12, 2026 11:29am
 
 ---
 
@@ -4254,7 +4262,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (367)
+#### Comments (369)
 - **おうが** (Feb 17, 2026 12:02am): テトリスhttps://proxywiki.onrender.com/nyanko.html スイカゲームhttps://proxywiki.onrender.com/supura.html
 - **匿名** (Feb 17, 2026 02:27am): https://katano-kanko.com/game_htmlb/
 - **おうが** (Feb 17, 2026 03:30am): ブロックされてないです！
@@ -4622,6 +4630,8 @@
 - **ワイ君** (Mar 31, 2026 01:10pm): だれかフォトナ持ってない？ 
 - **匿名** (Apr 27, 2026 02:49am): 面白いゲームってありますか
 - **ヨ** (May 07, 2026 05:36am): 初めまして
+- **南○中学校** (May 12, 2026 11:28am): 初めまして
+- **南○中学校** (May 12, 2026 11:29am): ちゅいちです
 
 #### Additional Information
 - **Post color:** Black
@@ -5622,7 +5632,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (109)
+#### Comments (115)
 - **かっっぱ** (Feb 19, 2026 04:46am): ブロフルってなんですか？
 - **おうが** (Feb 19, 2026 06:03am): ロブロックス　ブロフルって調べてみてやってみて
 - **玲吏** (Feb 19, 2026 07:59am): やってますよ
@@ -5732,6 +5742,12 @@
 - **GP** (May 12, 2026 12:27am): he-
 - **R** (May 12, 2026 12:28am): やっほー
 - **ふじ** (May 12, 2026 05:26am): よろ
+- **ドブカス** (May 12, 2026 09:52am): ランナー相手せんやろしてる暇あったら別の人倒しに行く方がいいわ後v4とかつかわんでも自分より2m下の奴がv4なったところで大した事ないやろ後おでん火力高くてもサイボーグかカブチャ使わんなコンボする前に避けられで終わるやん
+- **ドブカス** (May 12, 2026 09:58am): 後おでんコンボ何回もやったり技当てて見聞削って倒すぐらいなら初めからバディソとか一瞬で見聞削れる新三使って1、2回コンボ決めたら終わるような構成の方がいいし、天使はv3は強いけどv4がコンボによっては邪魔になる
+- **ドブカス** (May 12, 2026 10:01am): フェニはもう使ってないけど回復挟んだり人フラからフェニcでコンボの初動に使ったりできるから強いぞ
+- **ドブカス** (May 12, 2026 10:03am): 後格闘はコンボ初動にしか使わんでしょ
+- **ドブカス** (May 12, 2026 10:10am): 別にパイロットヘルメットは移動速度上がるだけで地上やったらポタxで動き止められてコンボかれたりとか新三xを予想して撃ったら当たったりしてコンボされるしスカーフもミシカルのリングつけたら代わりになるし
+- **ドブカス** (May 12, 2026 10:10am): 後種族はコンボ解除できるドラコの方がいいでしょ
 
 #### Additional Information
 - **Post color:** Black
@@ -5739,3 +5755,21 @@
 - **Updated At (UTC):** Feb 18, 2026 03:14am
 
 ---
+
+## アイフィルター勢
+
+### 1. アイフィルター勢はここ
+**Author:** 俺だぞ〜（三橋） (H2822063)
+
+**星評価:** 0 / 5 ⭐
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** May 12, 2026 10:32am
+- **Updated At (UTC):** May 12, 2026 10:32am
+
+---
+
+## その他
+
+No post
