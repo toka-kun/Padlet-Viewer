@@ -1,4 +1,4 @@
-最終更新: 2026/05/13 18:26:39
+最終更新: 2026/05/13 20:40:42
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 221
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** May 13, 2026 09:23am
+- **Updated At (UTC):** May 13, 2026 11:24am
 
 ## 管理者　連絡
 
@@ -390,7 +390,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (94)
+#### Comments (95)
 - **時透無一郎** (May 13, 2026 06:48am): いる
 - **フェットチーネしか勝たん** (May 13, 2026 06:48am): こんちは
 - **時透無一郎** (May 13, 2026 06:48am): おお！
@@ -485,6 +485,7 @@
 - **フェットチーネしか勝たん** (May 13, 2026 07:22am): 意外と最近だね
 - **時透無一郎** (May 13, 2026 07:37am): ね
 - **時透無一郎** (May 13, 2026 07:37am): 遅れてごめん
+- **忍者めししか勝たん** (May 13, 2026 10:47am): 塾の勉強頑張ってください！
 
 #### Additional Information
 - **Post color:** Black
@@ -826,7 +827,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5621440276/c0a93c43ccdd44ccf59be3af73e81c12/IMG_0007.jpeg?Expires=1779269196&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Z7m2mrUz9lwnAwG504sx1FMDmzuTWNCBhmrzd4a3RQlvuzseym3Kr9RJV14EisdEUpqp8cdOuejebhHtSeJlUe3IDh2yy7vY%2FQ6I0JZ7hfuOQOFu1hKA2AcT8wWnnC5tZSg5Q0LMb2reC8dcd%2B%2FJGCiSXYt0AGEY7TarCU%2B2KxQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5621440276%2Fc0a93c43ccdd44ccf59be3af73e81c12%2FIMG_0007.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5621440276/c0a93c43ccdd44ccf59be3af73e81c12/IMG_0007.jpeg?Expires=1779277238&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mGLuPteLvzaCo%2Be8s7eiWZvI7%2BsNljaI8RaFUe5fXN1Q3bP2R8IFQkhs6dRmHGkEETC637MdFBoISWJReQYCjgM%2BsYkkK7P9gzemBgRDL7WOMlwomKHT20wXokUfx%2BwCPyZKzKq3WUnNe3fQEHDMsVcTVqdSXNQqFIs6g3k8kEQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5621440276%2Fc0a93c43ccdd44ccf59be3af73e81c12%2FIMG_0007.jpeg)
 
 #### Comments (2)
 - **スリ** (May 10, 2026 12:54pm): 呪術廻戦にでてくる日車の術式の裁判場にでてくるやつ 
@@ -875,7 +876,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1779269196&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=oY1f0NVcc2L6JwD6qYtpJ%2FCKu7xq6R7OlodvJatXg9RRsmB4OlsV7rb4Y6sllPaabsA7LJmA05DFDwwK%2Fkgt2j2cNubnjm8LVa6GHqwf0NcdLdwz94ckYgfNyJUzFT1d5whQYNATTfZYDcNqFfu96PTLkjEyHccgEeRgdMtjDSo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1779277238&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UGElG8jUGY7ETGEPFGw4zZgdbg7THEWocCLQu0A5l%2Ft9dSn2ZHb9cYxOKnpgUTZ9DWL0UGyaIQgnYWKzg4%2FmJkPm7Yw9PU%2Bymp55qkP86I9AJ3laPkVQci59lPZ0DfGdFtQvA2yLginxvZgKhTm9kj0JutR8c5slnGa%2BMITkVas%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
 
 #### Comments (2)
 - **スリ** (May 10, 2026 12:52pm): これに誰か一言
@@ -979,7 +980,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1779269196&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Z6WrritjZypJz3TE64PF2xLRN8YkzHoEx8fwGbKOgRuYebYad0E2weoH%2FDTfPbVL77uikz7mnkcm8NWT6GbAPCRi%2FaoYdJ0CNE0Mgvcl0y6PHefseau77%2BQNMKJpB84c9stIFy%2BHbTCGMp30pUKrQpaJEfsRnZB5Zy0x0lJxR0E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1779277239&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=y5wuByYZ8bXV0b5fdbxHBV7iAw9Ru04C7dTveRUhD6xwSU2460E0aZJIcfBIHZ5W2Bolo26WLNoKTYY6h1abzgpGaBsO%2FqOIV4cQSQzHjlr9UtXQaFTfEvS96WxTk2xM4AhQlnqIQNySYJbpVxVmhpZpO1%2BU6qQWtdbWmB6brOE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (3)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -1068,7 +1069,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1779269196&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=1y0qqITjLatLf4eq9bAkPGJS4kaXYskiKdnnRQ%2F8TAJoIab1kIPAMvHBfr7E2weP4wQn61Ur8vM47BaAGZDIzFmN6ZQeCt2R1v1huQRoYGlaq%2BDuR55NQM7GqtcI%2BTzkfo5WBOYpXnL8gW%2FvwnvJt9Q0otGSc1V4jap6OiVVmOo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1779277239&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=le8l6nV4V9Jx1Gg1uJ%2BUUSRTMsBUARrxCBpLSBzwGdlGqIIrFaQVV99wQ8%2FqTSw4O4jS4JQ86kWDb%2F1uDXm7OlqjSpA84aYhRx%2F04h9QIK9ZR8eZueUwgkTtE9gbUNMIi4up%2FyGXLpYy4rWT7HVcl22zoiaVNglyO80koYj2Bu8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -2506,7 +2507,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1779269197&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yJ1ya32dMKi26HzMurY0CD11o1QKPGrd8%2FVyKNUWwBniHFiqyRJ9zewDocCFX7Cwm6%2FOsrmVuRI4aC5Wp43cSyGObgpL0HvaLlpRWw036PjLgEjPExCKNAqxNlKrpNgAdqBst%2BOKFSxzlUO%2FQd5BGl8jh080w0tgog1sC3871Wk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1779277239&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=R2ng8MuuxmZHhxuUQga3aRXm3Q1OBlkH0kmlbcNeIWyGHvfISpWrDXMKBMd5ZUs9W5tNdI7GgH8wwgGARAiHyWN8Z4YggnEtXwwuK0XvUiBe2yqDpFX7LROW%2BsvlQzZ7oYErA4vJa%2Fq6ldrTggfaz7QC%2FF5Gi6XAMVvx4gmb4zU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (20)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -2579,7 +2580,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1779269197&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=P8vg6KhtX6wfxkOckLKIIw2dY2iDGQssoFx%2B9i5dkIu1b%2BHa28QqJSdseWeAYP2M26vQNQifF0ULDYC702bKla%2B%2BFomMKpniafYsQnUyu8nxHMCnTb%2BJEMo2339QmpEsMvq1ak%2BJZjU7mXiHra0GRxlkKyOs3Gp16b3YhooFX7s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1779277239&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PRRRrA4nOb9YMeAFwMboPEicHqAdHOMIsSsDhyWY6w7gJ80qxwslgXA2EY3sQcIz7%2ByY5dcQBnYzRcBS39zQ%2FVZ%2BdYg5dKvrfmvgeWW4H9liou%2FRsRW73nN3IWSOUeWQTCeQGT3ul0Dok9xtgo%2BlG2a5lOomBUazyW55DO6PCwo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!** (Apr 26, 2026 10:13am): コード打っときます
@@ -4808,7 +4809,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5635963877/aebe97d0040578f9bca38a481cc522fe/__________2026_05_12_215735.png?Expires=1779269198&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VOqtU8BZEUSJegrpK7BWRutEKlDR83%2FV5ANlzZnAzm%2Bg%2BrfOR0s3CjdzQpV8Brf%2FAU0pti4jkaDzRiTEBnQWxDbbRnDvJc4P1AwAVgCV6g7W4Q9VuB7%2Fq3mMJBNUvjYyUq9UoEHDc5nS42Ewmu5mj7MDQEuOgFzjpwQD4COTCOE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5635963877%2Faebe97d0040578f9bca38a481cc522fe%2F__________2026_05_12_215735.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5635963877/aebe97d0040578f9bca38a481cc522fe/__________2026_05_12_215735.png?Expires=1779277241&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PdZpYxQwCA5f0QJXViT8f3HdzsBEGgW7cpvMx6wBTEEViEVOtPoraEx20F%2FIEUmZjpRom18gVMDsB%2Fn6zympSCkpUd64%2FFXwRKQc7Tfg3bLalhQ6wGGn5xiD1G5cW8B5tI1pyOp2UT%2B1ORSbQZuxAlwTUj0WxFzfSn0ozoib96E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5635963877%2Faebe97d0040578f9bca38a481cc522fe%2F__________2026_05_12_215735.png)
 
 #### Comments (4)
 - **時透無一郎** (May 12, 2026 10:20pm): まじあｋ
@@ -5759,7 +5760,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (16)
+#### Comments (17)
 - **川上岳彦** (Mar 21, 2026 04:04am): Me too
 - **時透無一郎** (Mar 21, 2026 12:28pm): me too2
 - **時透無一郎** (Mar 22, 2026 05:24am): 英語あってんのか？これ
@@ -5776,6 +5777,7 @@
 - **スリ** (May 11, 2026 04:29am): www大丈夫そ❓
 - **fortnightガチ勢** (May 11, 2026 11:05am): 4949desu　ｗｗ
 - **batoruneko78_1** (May 13, 2026 09:23am): 解除仕方わかる！！
+- **フェットチーネしか勝たん** (May 13, 2026 09:52am): おしえて！
 
 #### Additional Information
 - **Post color:** Black
@@ -5816,7 +5818,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (115)
+#### Comments (116)
 - **かっっぱ** (Feb 19, 2026 04:46am): ブロフルってなんですか？
 - **おうが** (Feb 19, 2026 06:03am): ロブロックス　ブロフルって調べてみてやってみて
 - **玲吏** (Feb 19, 2026 07:59am): やってますよ
@@ -5932,6 +5934,7 @@
 - **ドブカス** (May 12, 2026 10:03am): 後格闘はコンボ初動にしか使わんでしょ
 - **ドブカス** (May 12, 2026 10:10am): 別にパイロットヘルメットは移動速度上がるだけで地上やったらポタxで動き止められてコンボかれたりとか新三xを予想して撃ったら当たったりしてコンボされるしスカーフもミシカルのリングつけたら代わりになるし
 - **ドブカス** (May 12, 2026 10:10am): 後種族はコンボ解除できるドラコの方がいいでしょ
+- **ドブカス** (May 13, 2026 11:23am): 後剣は新三刀流か山　銃は蛇弓かカブチャかアシダムか2丁拳銃かドラゴンストーム格闘はサングインかタロンかゴッヒュかシャークマン
 
 #### Additional Information
 - **Post color:** Black
@@ -5945,7 +5948,7 @@
 ### 1. アイフィルター勢はここ
 **Author:** 俺だぞ〜（三橋） (H2822063)
 
-**星評価:** 0 / 5 ⭐
+**星評価:** 1.0 / 5 ⭐ (1)
 
 #### Comments (1)
 - **フェットチーネしか勝たん** (May 12, 2026 01:01pm): 教育委員会もあるしアイフィルターもある
@@ -5967,8 +5970,8 @@ No post
 **Author:** 時透無一郎 (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 138 votes
-- **たけのこの里:** 137 votes
+- **きのこの山:** 139 votes
+- **たけのこの里:** 138 votes
 - **ドウデモイイ:** 41 votes
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -6017,6 +6020,6 @@ No post
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** May 13, 2026 05:34am
+- **Updated At (UTC):** May 13, 2026 09:51am
 
 ---
