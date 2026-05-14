@@ -309,19 +309,19 @@
                 const totalBoards = Object.keys(data).length;
                 metaInfoDiv.innerHTML = `<span>対応しているボード数: 全 ${totalBoards} ボード</span>`;
 
-                // キー名(nyg/mainなど)の "/" の前をセクション名としてグループ化
+                // グループ化せずに、すべてのボード（キー）ごとに独立したセクションを作成
                 const sections = {};
                 for (const [key, itemInfo] of Object.entries(data)) {
-                    const parts = key.split('/');
-                    const sectionName = parts[0]; 
+                    // キー名（nyg/main等）をそのまま独立したセクション名にする
+                    const sectionName = key; 
                     
                     if (!sections[sectionName]) {
                         sections[sectionName] = [];
                     }
                     
-                    // カード生成用にキーとショートネームを保持
+                    // カード生成用にキーを保持
                     itemInfo._key = key; 
-                    itemInfo._shortName = parts.length > 1 ? parts.slice(1).join('/') : key;
+                    itemInfo._shortName = key;
                     
                     sections[sectionName].push(itemInfo);
                 }
@@ -385,9 +385,9 @@
             // --- カスタムフィールド ---
             let customFieldsHtml = `
                 <div class="custom-fields-area">
-                    <div class="custom-field-row"><span class="custom-field-label">作成日時:</span><span class="custom-field-value">${escapeHtml(data.created || '-')}</span></div>
-                    <div class="custom-field-row"><span class="custom-field-label">最終更新:</span><span class="custom-field-value">${escapeHtml(data.updated || '-')}</span></div>
-                    <div class="custom-field-row"><span class="custom-field-label">取得日時:</span><span class="custom-field-value">${escapeHtml(data.fetched || '-')}</span></div>
+                    <div class="custom-field-row"><span class="custom-field-label">作成:</span><span class="custom-field-value">${escapeHtml(data.created || '-')}</span></div>
+                    <div class="custom-field-row"><span class="custom-field-label">更新:</span><span class="custom-field-value">${escapeHtml(data.updated || '-')}</span></div>
+                    <div class="custom-field-row"><span class="custom-field-label">取得:</span><span class="custom-field-value">${escapeHtml(data.fetched || '-')}</span></div>
                 </div>
             `;
 
