@@ -3,42 +3,420 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>リダイレクトしています...</title>
-
-    <meta id="redirect-meta" http-equiv="refresh" content="0; url=/view">
-    <script>
-        // 1. HTMLのmetaタグからリダイレクト先URLを取得（1箇所管理を実現）
-        var content = document.getElementById('redirect-meta').getAttribute('content');
-        var targetUrl = content.substring(content.indexOf('url=') + 4).replace(/^['"]|['"]$/g, '');
-
-        // 2. JSによるリダイレクト（ブラウザの「戻る」ボタンを押した際の無限ループを防止）
-        if (targetUrl) {
-            window.location.replace(targetUrl);
-        }
-    </script>
-
+    <title>ホーム</title>
+    
     <style>
+        /* --- 全体レイアウト --- */
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            text-align: center;
-            padding-top: 50px;
-            color: #333;
-            background-color: #f6f8fa; /* GitHub風の背景色 */
+            margin: 0;
+            padding: 0;
+            background-color: #0d1117;
+            color: #e6edf3;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
         }
-        a { color: #0969da; text-decoration: none; }
-        a:hover { text-decoration: underline; }
+
+        /* --- ヘッダー --- */
+        header {
+            padding: 0 24px;
+            height: 60px;
+            background-color: #010409;
+            border-bottom: 1px solid #30363d;
+            flex-shrink: 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 100;
+        }
+        header h1 { 
+            font-size: 1.1rem; 
+            font-weight: 600; 
+            color: #e6edf3; 
+            display: flex; align-items: center; gap: 8px; margin: 0;
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+            max-width: 60%; 
+        }
+        header h1::before { content: '📋'; font-size: 1.2rem; flex-shrink: 0; }
+        
+        /* メタ情報（投稿数・更新日）エリア */
+        header .meta-info { 
+            font-size: 0.85rem; color: #8b949e; 
+            font-family: ui-monospace, SFMono-Regular, monospace; 
+            white-space: nowrap; margin-left: auto;
+            display: flex; gap: 16px; align-items: center;
+        }
+        header .meta-info span {
+            display: flex; align-items: center; gap: 6px;
+        }
+
+        /* --- メインボードエリア --- */
+        #board-canvas {
+            flex-grow: 1;
+            overflow-x: auto;
+            overflow-y: hidden;
+            display: flex;
+            padding: 24px;
+            gap: 24px;
+            align-items: flex-start;
+        }
+
+        /* --- カラム（列） --- */
+        .column {
+            background-color: #161b22;
+            min-width: 350px;
+            max-width: 350px;
+            border-radius: 6px;
+            border: 1px solid #30363d;
+            display: flex;
+            flex-direction: column;
+            max-height: 100%;
+            flex-shrink: 0;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+        }
+
+        .column-header {
+            padding: 14px 18px;
+            font-weight: 600;
+            font-size: 0.95rem;
+            border-bottom: 1px solid #21262d;
+            color: #e6edf3;
+            background-color: #161b22;
+            border-radius: 6px 6px 0 0;
+            flex-shrink: 0;
+            position: sticky; top: 0; z-index: 10;
+            text-transform: uppercase;
+        }
+
+        .column-body {
+            padding: 12px;
+            overflow-y: auto;
+            display: flex; flex-direction: column; gap: 12px;
+            scrollbar-width: thin;
+            scrollbar-color: #30363d #161b22;
+        }
+        .column-body::-webkit-scrollbar { width: 8px; }
+        .column-body::-webkit-scrollbar-track { background: #161b22; }
+        .column-body::-webkit-scrollbar-thumb { background-color: #30363d; border-radius: 4px; }
+
+        /* --- カード --- */
+        .card {
+            background-color: #0d1117;
+            border: 1px solid #30363d;
+            border-left: 3px solid #8b949e; /* デフォルトカラー */
+            border-radius: 6px;
+            padding: 16px;
+            display: flex; flex-direction: column;
+            position: relative;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+            transition: all 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+        }
+        .card:hover {
+            border-color: #8b949e;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+            z-index: 5;
+        }
+
+        /* タイトル・ヘッダー */
+        .card-title {
+            font-size: 1rem; font-weight: 600; margin-bottom: 4px;
+            color: #e6edf3; line-height: 1.4;
+        }
+        .card-meta-header {
+            font-size: 0.75rem; color: #7d8590; margin-bottom: 12px;
+            display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
+        }
+        
+        .card-meta-header .author, 
+        .card-meta-header .author-link { 
+            display: flex; align-items: center; gap: 4px; 
+            color: #e6edf3; font-weight: 500; 
+        }
+        .author-link {
+            text-decoration: none;
+            cursor: pointer;
+            transition: color 0.2s;
+        }
+        .author-link:hover {
+            color: #58a6ff; 
+            text-decoration: underline;
+        }
+
+        /* 添付ファイル・リンクエリア */
+        .attachment-area {
+            margin-bottom: 12px;
+            display: flex; flex-direction: column; gap: 8px;
+        }
+
+        .action-link {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 6px 12px;
+            background-color: #21262d;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            color: #58a6ff !important;
+            font-size: 0.8rem;
+            text-decoration: none !important;
+            transition: background 0.2s;
+            font-weight: 600;
+            width: fit-content;
+        }
+        .action-link:hover {
+            background-color: #30363d;
+            color: #79c0ff !important;
+            border-color: #8b949e;
+        }
+
+        /* 本文 */
+        .card-content {
+            font-size: 0.85rem; line-height: 1.6; color: #c9d1d9;
+            margin-bottom: 12px; overflow-wrap: break-word;
+        }
+
+        /* カスタムフィールド表示エリア */
+        .custom-fields-area {
+            background-color: rgba(110, 118, 129, 0.1);
+            border-radius: 4px;
+            padding: 10px 12px;
+            margin-bottom: 12px;
+            font-size: 0.8rem;
+            color: #c9d1d9;
+            border: 1px solid rgba(48, 54, 61, 0.5);
+        }
+        .custom-field-row {
+            display: grid;
+            grid-template-columns: 80px 1fr;
+            gap: 8px;
+            align-items: start;
+            margin-bottom: 6px;
+            line-height: 1.5;
+        }
+        .custom-field-row:last-child { margin-bottom: 0; }
+        .custom-field-label {
+            color: #8b949e;
+            font-weight: 600;
+            word-break: break-word;
+        }
+        .custom-field-value {
+            color: #c9d1d9;
+            word-break: break-word;
+        }
+
+        /* リアクション（投稿数エリア） */
+        .reactions-section {
+            display: flex; align-items: center; justify-content: space-between;
+            flex-wrap: wrap; gap: 6px;
+            padding: 8px 0;
+            border-top: 1px solid rgba(48, 54, 61, 0.5);
+            margin-top: auto;
+        }
+        .stars {
+            background: rgba(88, 166, 255, 0.1); color: #58a6ff;
+            padding: 4px 10px; border-radius: 12px; font-size: 0.85rem; font-weight: 600;
+            display: flex; align-items: center; gap: 4px;
+        }
+        .stars-count { color: #c9d1d9; font-weight: normal; font-size: 0.85rem;}
+
+        /* ロード・エラー */
+        #loading { width: 100%; height: 100%; display: flex; padding: 20px; gap: 20px; }
+        .skeleton-column {
+            min-width: 350px; height: 80%; background: #161b22;
+            border-radius: 6px; border: 1px solid #30363d; padding: 15px;
+            display: flex; flex-direction: column; gap: 15px;
+        }
+        .skeleton-card {
+            width: 100%; height: 120px; background: #21262d;
+            border-radius: 6px; position: relative; overflow: hidden;
+        }
+        .skeleton-card::after {
+            content: ""; position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.05), transparent);
+            animation: shimmer 1.5s infinite;
+        }
+        @keyframes shimmer { 0% { transform: translateX(-100%); } 100% { transform: translateX(100%); } }
+        #error-message {
+            position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+            color: #ff7b72; text-align: center; display: none;
+        }
+
+        /* スマホ対応 */
+        @media (max-width: 768px) {
+            .column { min-width: 85vw; scroll-snap-align: center; }
+            #board-canvas { scroll-snap-type: x mandatory; padding: 16px; gap: 16px; }
+            header { flex-wrap: wrap; height: auto; padding: 10px 16px; gap: 8px; }
+            header h1 { font-size: 0.9rem; max-width: 100%; width: 100%; }
+            header .meta-info { margin-left: 0; width: 100%; justify-content: flex-start; font-size: 0.75rem; }
+            .custom-field-row { grid-template-columns: 70px 1fr; }
+        }
     </style>
 </head>
 <body>
-    <p>自動的にページが移動します。少々お待ちください...</p>
-    
+
+    <header>
+        <h1>
+            <span id="board-title">Padlet代替ビュアー</span>
+            <img src="https://count.getloli.com/@toka_kun_?name=toka_kun_&theme=original-new&padding=7&offset=0&align=top&scale=0.4&pixelated=1&darkmode=auto" alt="count" style="margin-left:8px; vertical-align:middle;">
+        </h1>
+        <div class="meta-info" id="meta-info">
+            <span>読み込み中...</span>
+        </div>
+    </header>
+
+    <main id="board-canvas">
+        <div id="loading">
+            <div class="skeleton-column">
+                <div class="skeleton-card" style="height:40px; margin-bottom:10px;"></div>
+                <div class="skeleton-card"></div>
+                <div class="skeleton-card"></div>
+            </div>
+            <div class="skeleton-column">
+                <div class="skeleton-card" style="height:40px; margin-bottom:10px;"></div>
+                <div class="skeleton-card"></div>
+            </div>
+        </div>
+        <div id="error-message"></div>
+    </main>
+
     <script>
-        // 3. ブラウザのセキュリティ設定等で自動移動がブロックされた場合の救済リンク
-        document.write('<p>自動的に移動しない場合は、<a href="' + targetUrl + '">こちらのリンク</a>をクリックしてください。</p>');
+        // HTMLエスケープ処理
+        function escapeHtml(text) {
+            if (!text) return '';
+            return String(text)
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+
+        async function fetchAndRender() {
+            const loadingDiv = document.getElementById('loading');
+            const errorDiv = document.getElementById('error-message');
+            const metaInfoDiv = document.getElementById('meta-info');
+            const canvas = document.getElementById('board-canvas');
+
+            try {
+                // info.jsonを取得 (キャッシュ避けのためパラメータ付与)
+                const response = await fetch(`info.json?t=${new Date().getTime()}`);
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                
+                const data = await response.json();
+                loadingDiv.remove();
+
+                const totalBoards = Object.keys(data).length;
+                metaInfoDiv.innerHTML = `<span>対応しているボード数: 全 ${totalBoards} ボード</span>`;
+
+                // キー名(nyg/mainなど)の "/" の前をセクション名としてグループ化
+                const sections = {};
+                for (const [key, itemInfo] of Object.entries(data)) {
+                    const parts = key.split('/');
+                    const sectionName = parts[0]; 
+                    
+                    if (!sections[sectionName]) {
+                        sections[sectionName] = [];
+                    }
+                    
+                    // カード生成用にキーとショートネームを保持
+                    itemInfo._key = key; 
+                    itemInfo._shortName = parts.length > 1 ? parts.slice(1).join('/') : key;
+                    
+                    sections[sectionName].push(itemInfo);
+                }
+
+                // セクション（カラム）ごとに描画
+                for (const [secName, items] of Object.entries(sections)) {
+                    const colDiv = document.createElement('div');
+                    colDiv.className = 'column';
+                    colDiv.innerHTML = `
+                        <div class="column-header">${escapeHtml(secName)} セクション</div>
+                        <div class="column-body"></div>
+                    `;
+                    const colBody = colDiv.querySelector('.column-body');
+
+                    items.forEach(info => {
+                        colBody.appendChild(createCardElement(info));
+                    });
+
+                    canvas.appendChild(colDiv);
+                }
+
+            } catch (error) {
+                console.error('Fetch error:', error);
+                if(loadingDiv) loadingDiv.style.display = 'none';
+                errorDiv.style.display = 'block';
+                errorDiv.innerHTML = `
+                    <h3>読み込みに失敗しました</h3><p>${escapeHtml(error.message)}</p>
+                    <button onclick="location.reload()" style="margin-top:10px; padding:6px 12px; cursor:pointer; background:#21262d; color:#e6edf3; border:1px solid #30363d; border-radius:4px;">再読み込み</button>
+                `;
+                metaInfoDiv.textContent = 'エラー';
+            }
+        }
+
+        function createCardElement(data) {
+            const el = document.createElement('div');
+            el.className = 'card';
+
+            // --- Builder（作成者）のパース ---
+            let authorName = data.builder || '不明';
+            let authorUrl = null;
+            const authorMatch = authorName.match(/^(.*)\s\((.*)\)$/);
+            if (authorMatch) {
+                authorName = authorMatch[1].trim(); 
+                const username = authorMatch[2].trim(); 
+                authorUrl = `https://padlet.com/${username}`;
+            }
+
+            let authorHtml = authorUrl 
+                ? `<a href="${escapeHtml(authorUrl)}" target="_blank" class="author-link">👤 ${escapeHtml(authorName)}</a>`
+                : `<span class="author">👤 ${escapeHtml(authorName)}</span>`;
+
+            // --- ボードへのリンクアクション ---
+            let mediaHtml = '<div class="attachment-area">';
+            // /view?board=(section name) ※ここでは完全なキー名を指定
+            mediaHtml += `<a href="/view?board=${escapeHtml(data._key)}" class="action-link">📎 ボードを開く (${escapeHtml(data._shortName)})</a>`;
+            if (data.link) {
+                mediaHtml += `<a href="${escapeHtml(data.link)}" target="_blank" class="action-link">🔗 オリジナルリンク</a>`;
+            }
+            mediaHtml += '</div>';
+
+            // --- カスタムフィールド ---
+            let customFieldsHtml = `
+                <div class="custom-fields-area">
+                    <div class="custom-field-row"><span class="custom-field-label">作成日時:</span><span class="custom-field-value">${escapeHtml(data.created || '-')}</span></div>
+                    <div class="custom-field-row"><span class="custom-field-label">最終更新:</span><span class="custom-field-value">${escapeHtml(data.updated || '-')}</span></div>
+                    <div class="custom-field-row"><span class="custom-field-label">取得日時:</span><span class="custom-field-value">${escapeHtml(data.fetched || '-')}</span></div>
+                </div>
+            `;
+
+            // HTMLの組み立て
+            el.innerHTML = `
+                <div class="card-title">${escapeHtml(data.title || '(無題)')}</div>
+                
+                <div class="card-meta-header">
+                    ${authorHtml}
+                </div>
+
+                ${mediaHtml}
+
+                <div class="card-content" style="background:transparent; color:#c9d1d9;">
+                    ${escapeHtml(data.desc || '説明がありません').replace(/\n/g, '<br>')}
+                </div>
+
+                ${customFieldsHtml}
+
+                <div class="reactions-section">
+                    <span class="stars">📊 投稿数: <span class="stars-count">${escapeHtml(data.posts || 0)}</span></span>
+                </div>
+            `;
+            return el;
+        }
+
+        // 初期化
+        fetchAndRender();
     </script>
-    
-    <noscript>
-        <p>※JavaScriptが無効な環境でも、数秒後に自動的に移動します。</p>
-    </noscript>
+    <script src="//accaii.com/padletviewer/script.js" async></script><noscript><img src="//accaii.com/padletviewer/script?guid=on"></noscript>
 </body>
 </html>
