@@ -1,4 +1,4 @@
-最終取得: 2026/05/15 07:05:53
+最終取得: 2026/05/15 08:27:56
 
 # Padletポータルワールド
 
@@ -3298,7 +3298,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1779401153&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GRfHmpPNPuncIy3jcmDQxLDr%2FgIZi%2BSPVQ5TSoVlfyFd3Dd8dTRW1dbtIRS8tf7U2Cj46%2F9ukAOHSKL6gFg4%2BLATbhEiVU%2BCFJu8%2Fq6wUBcVcugVBcBmZMSFiB0W6%2FMJ8PlOfi7MYGjvHWfw9AYihSe%2BeAOyK2xuYVB3Hxd1IF0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1779406076&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KfnerAJfbJA97Dgy5KV%2BfzRPmy6fOTkpAOSgQC%2F6pYagjbd4hKBk%2BXiy%2Fm4nSX9IjNnYFIbPeXyw1%2BA2VFZ6gLS0l%2BYRDU3nP219UoIwxGGnzGsJ%2BoWRKYRU0GBaMvHzkfuCa2UeiAo0doLYBTQL9tzSQMTMZC8e1TlDUXc94ZU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
