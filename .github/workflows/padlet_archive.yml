@@ -87,9 +87,9 @@ jobs:
               lines = [line.strip() for line in content.split('\n')]
               
               fetched = ""
-              # マークダウンの1行目にある「最終更新: YYYY/MM/DD ...」から取得時刻を抽出
-              if lines and lines[0].startswith("最終更新: "):
-                  fetched = lines[0].replace("最終更新: ", "").strip()
+              # マークダウンの1行目にある「最終取得: YYYY/MM/DD ...」から取得時刻を抽出
+              if lines and lines[0].startswith("最終取得: "):
+                  fetched = lines[0].replace("最終取得: ", "").strip()
               
               # 3行目以降が実際のデータ
               content_lines = lines[2:] if len(lines) > 2 else []
@@ -197,7 +197,7 @@ jobs:
                 NOW=$(date "+%Y/%m/%d %H:%M:%S")
                 
                 # ヘッダー（日時と空行）を書き込み（上書き）
-                echo "最終更新: $NOW" > "$OUT_FILE"
+                echo "最終取得: $NOW" > "$OUT_FILE"
                 echo "" >> "$OUT_FILE"
                 
                 # ダウンロードした中身を追記
