@@ -87,7 +87,6 @@
             border-radius: 6px 6px 0 0;
             flex-shrink: 0;
             position: sticky; top: 0; z-index: 10;
-            text-transform: uppercase;
         }
 
         .column-body {
@@ -331,7 +330,7 @@
                     const colDiv = document.createElement('div');
                     colDiv.className = 'column';
                     colDiv.innerHTML = `
-                        <div class="column-header">${escapeHtml(secName)} セクション</div>
+                        <div class="column-header">${escapeHtml(secName)}</div>
                         <div class="column-body"></div>
                     `;
                     const colBody = colDiv.querySelector('.column-body');
