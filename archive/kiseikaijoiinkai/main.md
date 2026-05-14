@@ -1,4 +1,4 @@
-最終更新: 2026/05/14 10:25:22
+最終更新: 2026/05/14 17:07:34
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 15
 - **Created At (UTC):** Apr 12, 2026 10:30am
-- **Updated At (UTC):** May 14, 2026 01:10am
+- **Updated At (UTC):** May 14, 2026 05:43am
 
 ## 受付
 
@@ -41,6 +41,9 @@
 **Author:** とるっぷい (TORI_TORI2)
 
 <p>くっそ重いファイルを興味本位で前部屋に送ったら開けなくなった…。</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>好奇心からフォーマットをウォールにした…。</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>これが最大のミスだった…。</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>フォーマットが列の時はファイルを送ったセクションがチラ見えするところまで行ったらウェブが再読み込みした…。</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>ウォールにしたら開けなくなった…。</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>削除するか…。</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>(´༎ຶོρ༎ຶོ`)</p>
+
+#### Comments (1)
+- **マイクラオタク** (May 14, 2026 05:43am): い
 
 #### Additional Information
 - **Created At (UTC):** Apr 12, 2026 10:37am
