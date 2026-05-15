@@ -180,10 +180,11 @@
             background-color: rgba(110, 118, 129, 0.1);
             border-radius: 4px;
             padding: 10px 12px;
-            margin-bottom: 12px;
+            margin-bottom: 0; /* リアクションセクションがなくなったためマージン調整 */
             font-size: 0.8rem;
             color: #c9d1d9;
             border: 1px solid rgba(48, 54, 61, 0.5);
+            margin-top: auto; /* 下部に寄せる */
         }
         .custom-field-row {
             display: grid;
@@ -203,21 +204,6 @@
             color: #c9d1d9;
             word-break: break-word;
         }
-
-        /* リアクション（投稿数エリア） */
-        .reactions-section {
-            display: flex; align-items: center; justify-content: space-between;
-            flex-wrap: wrap; gap: 6px;
-            padding: 8px 0;
-            border-top: 1px solid rgba(48, 54, 61, 0.5);
-            margin-top: auto;
-        }
-        .stars {
-            background: rgba(88, 166, 255, 0.1); color: #58a6ff;
-            padding: 4px 10px; border-radius: 12px; font-size: 0.85rem; font-weight: 600;
-            display: flex; align-items: center; gap: 4px;
-        }
-        .stars-count { color: #c9d1d9; font-weight: normal; font-size: 0.85rem;}
 
         /* ロード・エラー */
         #loading { width: 100%; height: 100%; display: flex; padding: 20px; gap: 20px; }
@@ -384,6 +370,7 @@
             // --- カスタムフィールド ---
             let customFieldsHtml = `
                 <div class="custom-fields-area">
+                    <div class="custom-field-row"><span class="custom-field-label">投稿数:</span><span class="custom-field-value">📊 ${escapeHtml(data.posts || 0)}</span></div>
                     <div class="custom-field-row"><span class="custom-field-label">作成日:</span><span class="custom-field-value">${escapeHtml(data.created || '-')}</span></div>
                     <div class="custom-field-row"><span class="custom-field-label">更新日:</span><span class="custom-field-value">${escapeHtml(data.updated || '-')}</span></div>
                     <div class="custom-field-row"><span class="custom-field-label">最終取得:</span><span class="custom-field-value">${escapeHtml(data.fetched || '-')}</span></div>
@@ -405,10 +392,6 @@
                 </div>
 
                 ${customFieldsHtml}
-
-                <div class="reactions-section">
-                    <span class="stars">📊 投稿数: <span class="stars-count">${escapeHtml(data.posts || 0)}</span></span>
-                </div>
             `;
             return el;
         }
