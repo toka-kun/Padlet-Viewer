@@ -375,7 +375,7 @@
             // --- ボードへのリンクアクション ---
             let mediaHtml = '<div class="attachment-area">';
             // /view?board=(section name) ※ここでは完全なキー名を指定
-            mediaHtml += `<a href="/view?board=${escapeHtml(data._key)}" class="action-link">📎 代替ビュアー</a>`;
+            mediaHtml += `<a href="/view?board=${escapeHtml(data._key)}" class="action-link">🔗 代替ビュアー</a>`;
             if (data.link) {
                 mediaHtml += `<a href="${escapeHtml(data.link)}" target="_blank" class="action-link">🔗 オリジナル</a>`;
             }
