@@ -1,4 +1,4 @@
-最終取得: 2026/05/15 21:30:02
+最終取得: 2026/05/16 00:02:33
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 247
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** May 15, 2026 12:29pm
+- **Updated At (UTC):** May 15, 2026 01:12pm
 
 ## 管理者　連絡
 
@@ -393,8 +393,11 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
+#### Comments (4)
 - **時透無一郎** (May 15, 2026 12:29pm): はい
+- **the人間** (May 15, 2026 12:35pm): みなさんに一言
+- **the人間** (May 15, 2026 12:35pm): さよなら
+- **スリ** (May 15, 2026 01:06pm): えっと二度とこないでください
 
 #### Additional Information
 - **Post color:** Black
@@ -409,6 +412,11 @@
 <p>えーとですね。はいえーとうん。はい。えーと書くことがないですね…以上です…</p>
 
 **星評価:** 0 / 5 ⭐
+
+#### Comments (3)
+- **フェットチーネしか勝たん** (May 15, 2026 01:05pm): スチール？
+- **フェットチーネしか勝たん** (May 15, 2026 01:12pm): スチールかジャンプだったらいけるよ
+- **フェットチーネしか勝たん** (May 15, 2026 01:12pm): 弱いけど
 
 #### Additional Information
 - **Post color:** Black
@@ -426,9 +434,10 @@
 
 ![すごくとてつもなく高級なたこ焼き](https://genai-public.padletcdn.com/disco/prod/imagen/1778846512520/sample_0.png)
 
-#### Comments (2)
+#### Comments (3)
 - **天才くん** (May 15, 2026 12:04pm): なんか言って
 - **時透無一郎** (May 15, 2026 12:08pm): うまそう
+- **フェットチーネしか勝たん** (May 15, 2026 01:06pm): 食いたい
 
 #### Additional Information
 - **Post color:** Black
@@ -442,28 +451,28 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (221)
-- **ふじ** (May 15, 2026 11:39am): おk
+#### Comments (218)
+- **k** (May 15, 2026 11:39am): おk
 - **時透無一郎** (May 15, 2026 11:41am): 予約会話のとこでいい？→
-- **ふじ** (May 15, 2026 11:41am): おk
+- **k** (May 15, 2026 11:41am): おk
 - **時透無一郎** (May 15, 2026 11:42am): いまいる？
 - **聖なる玉** (May 15, 2026 11:43am): いるぜ⭐️
 - **スリ** (May 15, 2026 11:44am): おるよー
 - **スリ** (May 15, 2026 11:45am): お返事please
-- **ふじ** (May 15, 2026 11:45am): やりますねえ〜 
+- **k** (May 15, 2026 11:45am): やりますねえ〜 
 - **スリ** (May 15, 2026 11:45am): 810114514
-- **ふじ** (May 15, 2026 11:46am): 4649
+- **k** (May 15, 2026 11:46am): 4649
 - **スリ** (May 15, 2026 11:47am): 時透無一郎さん〜いらっしゃいますかぁーいない場合死刑です🤩
-- **ふじ** (May 15, 2026 11:47am): 草wwwwww
+- **k** (May 15, 2026 11:47am): 草wwwwww
 - **スリ** (May 15, 2026 11:47am): ではちばしまーす聖なる様いらっしゃいますかぁ
 - **スリ** (May 15, 2026 11:48am): 誤字りましたぁー
 - **スリ** (May 15, 2026 11:48am): 誰のせいでしょー
 - **スリ** (May 15, 2026 11:48am): ふじのせいにします
 - **聖なる玉** (May 15, 2026 11:48am): いるぜ⭐️
 - **スリ** (May 15, 2026 11:48am): ではふじ死刑
-- **ふじ** (May 15, 2026 11:48am): 何故そうなるwww
+- **k** (May 15, 2026 11:48am): 何故そうなるwww
 - **スリ** (May 15, 2026 11:49am): へっと聖なる様は遅れたので1時間拷問です
-- **ふじ** (May 15, 2026 11:49am): www
+- **k** (May 15, 2026 11:49am): www
 - **スリ** (May 15, 2026 11:49am): あっ聖なる様は支払いしてください3000万です
 - **スリ** (May 15, 2026 11:50am): 冗談です🤭
 - **スリ** (May 15, 2026 11:50am): 全て
@@ -474,7 +483,7 @@
 - **スリ** (May 15, 2026 11:52am): ふじと聖なるわあの世に行きました
 - **フェットチーネしか勝たん** (May 15, 2026 11:52am): ご飯食べないとだから遅れるかも
 - **スリ** (May 15, 2026 11:52am): おkではまた後デェー〜
-- **ふじ** (May 15, 2026 11:52am): 🌏☄️💥✨
+- **k** (May 15, 2026 11:52am): 🌏☄️💥✨
 - **時透無一郎** (May 15, 2026 11:52am): きたよー
 - **スリ** (May 15, 2026 11:53am): おお👋
 - **スリ** (May 15, 2026 11:53am): やぁネタある？
@@ -485,24 +494,24 @@
 - **時透無一郎** (May 15, 2026 11:54am): さすがにね
 - **スリ** (May 15, 2026 11:54am): でも聖なるは返事がまじでない
 - **時透無一郎** (May 15, 2026 11:54am): どっか行ったのかな？
-- **ふじ** (May 15, 2026 11:55am): マジであの世に行った説
+- **k** (May 15, 2026 11:55am): マジであの世に行った説
 - **時透無一郎** (May 15, 2026 11:55am): ｗｗｗｗｗ
 - **スリ** (May 15, 2026 11:55am): www聖なるイルかぁ〜
 - **スリ** (May 15, 2026 11:56am): おkいないぽいので彼とゆう存在がいなかったことにしましょう
-- **ふじ** (May 15, 2026 11:57am): そうですね😄
+- **k** (May 15, 2026 11:57am): そうですね😄
 - **時透無一郎** (May 15, 2026 11:57am): おい、、、
 - **スリ** (May 15, 2026 11:57am): おk？無理な人わ無言の圧かけるよ😑
 - **スリ** (May 15, 2026 11:58am): 😑😑😑😑😑😑😑😑😑😑😑😑😑😑😑😑😑😑😑😑😑😑😑😑😑😑😑
 - **スリ** (May 15, 2026 11:59am): みんなわかったよねぇ？
 - **時透無一郎** (May 15, 2026 11:59am): 話し変えよ
-- **ふじ** (May 15, 2026 11:59am): 🌏☄️💥⭐️
+- **k** (May 15, 2026 11:59am): 🌏☄️💥⭐️
 - **スリ** (May 15, 2026 11:59am): おk
-- **ふじ** (May 15, 2026 11:59am): おk 
+- **k** (May 15, 2026 11:59am): おk 
 - **スリ** (May 15, 2026 11:59am): ネタ誰かだそう
 - **スリ** (May 15, 2026 12:00pm): タイプのじょsっあ口滑ったなんでもないよ
 - **時透無一郎** (May 15, 2026 12:00pm): 、、、
 - **スリ** (May 15, 2026 12:01pm): www
-- **ふじ** (May 15, 2026 12:01pm): wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+- **k** (May 15, 2026 12:01pm): wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 - **時透無一郎** (May 15, 2026 12:02pm): っｗ３ｗっｗ３３
 - **スリ** (May 15, 2026 12:02pm): Nice reaction
 - **スリ** (May 15, 2026 12:02pm): 学校に好きな子いる人挙手🙋
@@ -514,7 +523,7 @@
 - **スリ** (May 15, 2026 12:03pm): 自己紹介よろ
 - **the人間** (May 15, 2026 12:04pm): はい
 - **スリ** (May 15, 2026 12:04pm): ふじ〜いる？
-- **ふじ** (May 15, 2026 12:04pm): いなーい
+- **k** (May 15, 2026 12:04pm): いなーい
 - **the人間** (May 15, 2026 12:04pm): 予約会話ってどこに行けばいいんですか？
 - **スリ** (May 15, 2026 12:04pm): おk
 - **時透無一郎** (May 15, 2026 12:05pm): →
@@ -536,7 +545,7 @@
 - **スリ** (May 15, 2026 12:09pm): もしかして抜けた
 - **スリ** (May 15, 2026 12:09pm): かな？
 - **the人間** (May 15, 2026 12:09pm): きゃーーーー
-- **ふじ** (May 15, 2026 12:09pm): なに
+- **k** (May 15, 2026 12:09pm): なに
 - **時透無一郎** (May 15, 2026 12:09pm): どした？
 - **スリ** (May 15, 2026 12:09pm): おった
 - **時透無一郎** (May 15, 2026 12:09pm): いた
@@ -552,28 +561,28 @@
 - **時透無一郎** (May 15, 2026 12:11pm): だって
 - **the人間** (May 15, 2026 12:11pm): ？
 - **the人間** (May 15, 2026 12:11pm): どした
-- **ふじ** (May 15, 2026 12:11pm): や、やりますねえ〜
+- **k** (May 15, 2026 12:11pm): や、やりますねえ〜
 - **フェットチーネしか勝たん** (May 15, 2026 12:11pm): 何が不可能なの？
 - **スリ** (May 15, 2026 12:12pm): A creepy first encounter that makes men recoil
 - **the人間** (May 15, 2026 12:12pm): WATS
 - **フェットチーネしか勝たん** (May 15, 2026 12:12pm): 男性が思わず後ずさりするような、ぞっとするような初対面
 - **フェットチーネしか勝たん** (May 15, 2026 12:12pm): だって
-- **ふじ** (May 15, 2026 12:12pm): 🤨
+- **k** (May 15, 2026 12:12pm): 🤨
 - **スリ** (May 15, 2026 12:12pm): 初対面で男性機みせるわひく
 - **スリ** (May 15, 2026 12:13pm): 抜けていいかな？
 - **時透無一郎** (May 15, 2026 12:13pm): 別にいいよ
 - **スリ** (May 15, 2026 12:13pm): ちょっと気持ち悪い
 - **フェットチーネしか勝たん** (May 15, 2026 12:13pm): いいよ
-- **ふじ** (May 15, 2026 12:13pm): 🆗
+- **k** (May 15, 2026 12:13pm): 🆗
 - **スリ** (May 15, 2026 12:13pm): そいつおらんくなったら教えて
-- **ふじ** (May 15, 2026 12:13pm): おk
+- **k** (May 15, 2026 12:13pm): おk
 - **スリ** (May 15, 2026 12:14pm): これ荒らしじゃね
 - **時透無一郎** (May 15, 2026 12:14pm): ね
 - **スリ** (May 15, 2026 12:14pm): 追放で
 - **時透無一郎** (May 15, 2026 12:14pm): でもザコ荒らし
 - **スリ** (May 15, 2026 12:14pm): いやでも追放
 - **フェットチーネしか勝たん** (May 15, 2026 12:14pm): すぐにコメント消せるもんな
-- **ふじ** (May 15, 2026 12:15pm): 荒らしやこいつ
+- **k** (May 15, 2026 12:15pm): 荒らしやこいつ
 - **フェットチーネしか勝たん** (May 15, 2026 12:15pm): 時透さん大変じゃない？
 - **時透無一郎** (May 15, 2026 12:15pm): まあね
 - **スリ** (May 15, 2026 12:15pm): おk追放で時透無一郎さんよろー
@@ -597,7 +606,7 @@
 - **フェットチーネしか勝たん** (May 15, 2026 12:19pm): google翻訳だとそうなったで
 - **スリ** (May 15, 2026 12:19pm): いまから全部の部屋に
 - **こんちゃー** (May 15, 2026 12:19pm): どうしたんですか？
-- **ふじ** (May 15, 2026 12:19pm): 今荒らしがいる
+- **k** (May 15, 2026 12:19pm): 今荒らしがいる
 - **スリ** (May 15, 2026 12:19pm): YES
 - **こんちゃー** (May 15, 2026 12:19pm): え！！！！
 - **フェットチーネしか勝たん** (May 15, 2026 12:19pm): 一応反省はしてるっぽい
@@ -612,42 +621,36 @@
 - **スリ** (May 15, 2026 12:21pm): あれれ逃げちゃたのかな弱いねぇー
 - **the人間** (May 15, 2026 12:22pm): 許してくださいって謝ってるじゃないですかそこまで言わなくたって
 - **フェットチーネしか勝たん** (May 15, 2026 12:22pm): だってどうする？
-- **ふじ** (May 15, 2026 12:22pm): 俺は、別にどっちでも良い🆗
+- **k** (May 15, 2026 12:22pm): 俺は、別にどっちでも良い🆗
 - **the人間** (May 15, 2026 12:22pm): 削除済みユーザーの方たちにいじめられているんです
 - **フェットチーネしか勝たん** (May 15, 2026 12:22pm): いったん許してやってもいいんじゃない？
 - **フェットチーネしか勝たん** (May 15, 2026 12:23pm): どこの部屋で？
 - **the人間** (May 15, 2026 12:22pm): やれって命令されて
-- **ふじ** (May 15, 2026 12:23pm): 現実？
+- **k** (May 15, 2026 12:23pm): 現実？
 - **the人間** (May 15, 2026 12:23pm): はい
 - **フェットチーネしか勝たん** (May 15, 2026 12:23pm): 学校同じなの？
 - **the人間** (May 15, 2026 12:23pm): いいえ
 - **the人間** (May 15, 2026 12:24pm): 住所が特定されました
 - **フェットチーネしか勝たん** (May 15, 2026 12:23pm): ？？？？
-- **ふじ** (May 15, 2026 12:24pm): 流石に嘘だ🤯
+- **k** (May 15, 2026 12:24pm): 流石に嘘だ🤯
 - **the人間** (May 15, 2026 12:24pm): ほんとうですよ
-- **ふじ** (May 15, 2026 12:24pm): エッグ🥚
-- **スリ** (May 15, 2026 12:24pm): 黙れかすおまえ四股引き裂いて全身切り刻んで爪剥がして傷にアルコールぶっかけて骨おって臓器売買してお前の肉親に食わすぞ社会のゴミクズが
+- **k** (May 15, 2026 12:24pm): エッグ🥚
 - **フェットチーネしか勝たん** (May 15, 2026 12:24pm): 削除済みユーザーって大人なん？
 - **the人間** (May 15, 2026 12:24pm): はいすいません
-- **スリ** (May 15, 2026 12:24pm): 知らん
 - **the人間** (May 15, 2026 12:25pm): スリさん許してください
-- **スリ** (May 15, 2026 12:25pm): まじでリアルであったら俺ならそこまでしてる
-- **ふじ** (May 15, 2026 12:25pm): 削除済みユーザーって誰？
+- **k** (May 15, 2026 12:25pm): 削除済みユーザーって誰？
 - **the人間** (May 15, 2026 12:25pm): 秋山辰巳
 - **フェットチーネしか勝たん** (May 15, 2026 12:25pm): なんで名前知ってるの？
 - **the人間** (May 15, 2026 12:25pm): なんか何人かの人にききました
 - **フェットチーネしか勝たん** (May 15, 2026 12:26pm): それはパドレットで？
 - **the人間** (May 15, 2026 12:26pm): はい
-- **ふじ** (May 15, 2026 12:26pm): 君は大人なの？
-- **スリ** (May 15, 2026 12:26pm): ムカつくわぁまじで
+- **k** (May 15, 2026 12:26pm): 君は大人なの？
 - **フェットチーネしか勝たん** (May 15, 2026 12:26pm): どこの部屋？
 - **the人間** (May 15, 2026 12:26pm): いや12歳です
-- **スリ** (May 15, 2026 12:26pm): このクソガキ
 - **時透無一郎** (May 15, 2026 12:26pm): まあゆるそう
 - **時透無一郎** (May 15, 2026 12:26pm): そんなに言っても
 - **フェットチーネしか勝たん** (May 15, 2026 12:26pm): てか普通にいじめってやばくね
-- **スリ** (May 15, 2026 12:27pm): 😡😡😡😡😡😡😡😡😡😡🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊🥊😇
-- **ふじ** (May 15, 2026 12:27pm): ゆるしてあげてのいいじゃない？
+- **k** (May 15, 2026 12:27pm): ゆるしてあげてのいいじゃない？
 - **the人間** (May 15, 2026 12:27pm): じゃあ抜けますおやすみです
 - **フェットチーネしか勝たん** (May 15, 2026 12:27pm): いったん許してあげよう
 - **the人間** (May 15, 2026 12:27pm): もうきません
@@ -657,13 +660,16 @@
 - **the人間** (May 15, 2026 12:27pm): さよなら
 - **時透無一郎** (May 15, 2026 12:28pm): それはない
 - **フェットチーネしか勝たん** (May 15, 2026 12:28pm): 確かに　前言撤回
-- **ふじ** (May 15, 2026 12:28pm): たしかしたかし
+- **k** (May 15, 2026 12:28pm): たしかしたかし
 - **フェットチーネしか勝たん** (May 15, 2026 12:29pm): いったん予約会話で話さない？
 - **時透無一郎** (May 15, 2026 12:29pm): そうしよう
 - **スリ** (May 15, 2026 12:29pm): おk
-- **ふじ** (May 15, 2026 12:29pm): おk
+- **k** (May 15, 2026 12:29pm): おk
 - **スリ** (May 15, 2026 12:29pm): ってどこ
 - **フェットチーネしか勝たん** (May 15, 2026 12:29pm): 投稿しといた
+- **スリ** (May 15, 2026 12:29pm): 予約部屋
+- **フェットチーネしか勝たん** (May 15, 2026 12:30pm): 右言ったらある
+- **フェットチーネしか勝たん** (May 15, 2026 12:30pm): その他になってたところ
 
 #### Additional Information
 - **Post color:** Black
@@ -1642,7 +1648,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5621440276/c0a93c43ccdd44ccf59be3af73e81c12/IMG_0007.jpeg?Expires=1779452998&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CxEW%2FH9Ne23faPdLUQGLn90UgKyntUrnjsoWfBDBduAgbnbYkLsO5zDzWGALgKxPbtY30Dd70SOlMIRva8oofDHomi0Pwn5tFy3vnnwJ1cr5weYaaDXxpWxcOIhU6SkFq%2BBvHoAXbMwnCz6eZu9x93GpxfMYR2i8cm6e9dh%2BEMA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5621440276%2Fc0a93c43ccdd44ccf59be3af73e81c12%2FIMG_0007.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5621440276/c0a93c43ccdd44ccf59be3af73e81c12/IMG_0007.jpeg?Expires=1779462148&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hBCbSgE2j%2FmYzIWPTWgHYOcQCoU7mJFBiTsfjKlDqH5hkDk4YeWlg0Uqv0ZV0iE3wnmO10%2BHpz7u7lpfpKFqMSVK7Vy7XV6yShzB433p3Mo77dUuTx04TkBcw1MYTm2aEiyuiYYM9jroII5bOxtmcVEpqGPs%2FJtz4o2U9lkyGlo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5621440276%2Fc0a93c43ccdd44ccf59be3af73e81c12%2FIMG_0007.jpeg)
 
 #### Comments (2)
 - **スリ** (May 10, 2026 12:54pm): 呪術廻戦にでてくる日車の術式の裁判場にでてくるやつ 
@@ -1691,7 +1697,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1779452998&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qXJh6QehFVmIFbuYi71MyRQNeFDH6Y2eO9JC0Szgo0uZUmmHWbmNQF3%2F1UAPxiqCXUW8WrOJOTScB5UAUVgeAMJDkdIg93lY6agW4cwNokhauerQBlHBePEOUzrpXulSml%2BT5oGr5pqUuObnOreRlMlz7hH%2B%2FnS2useAjLxj%2FF8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1779462148&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=u4Frd1gxv7YHyk2ih5v4DWPoN5MrbEU02S5mauCLxeOgXVi4URrK7oYesszuQxR2jwTQfmOWO430k3I0RPofTwkbpP0r21KMLXN%2FU3VBX2Pz3OdIiocLTqmkIm0OEpCWBhYTyoYN%2BJUJQQ8tEljhfInlQZutldpH%2BitYJmnj%2BdI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
 
 #### Comments (2)
 - **スリ** (May 10, 2026 12:52pm): これに誰か一言
@@ -1795,7 +1801,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1779452998&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=axey8Lr%2FUkJGXhMi%2BLbJUXHTT8yjcrHPxGD9LRkaBog8CsYii8JCqzWZPDD8MRMdSNFJgU%2BiqyhDzWXliEmMhsXtX5owc%2FCK2FfBl9YdjfxvB2deFVag3dCaWfDqsqHvfXht8EDUD472ye0ZFfdVLBCbtUzU76cB1%2FO%2BZlk%2FIHk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1779462148&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jSMpPX%2BRAMG2cu%2F0PmqdROQ22O5sLrEK%2BExDIcU5Cn6ju1jqdL4Exm52MjTy1i4XfOipAPp7rL8Mnw6Ow03GZM5fyXrxzH%2BsVQGo%2FTvgWkIfyJ8iXvvFW1ZEHSIj0nPQwr3vciVgMzm9GNMrWoUOqOVtrkPQKnbATBHGgcjxC2k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (3)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -1884,7 +1890,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1779452998&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bcD2vju6ML1HvAKxgECJFrVlKMDRsmKTph4qepStxCR7OHX2%2Fa%2FdG8MUAWjvd5%2Bz0ujZXFRS4QfXSTMH97uLqmmHsABBOdJ5XPWg9%2BVS6AJtkECNXt2SG0tYUOv1hH6NxA13kGNDKFKQKMMx5yZwT2Rb%2FA1DVFnc2CN33uS72%2BQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1779462148&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=TMCzQBoYv6eROdea84JncuJJLsOIA4bfXRklGZPNoCgOfToeNd6mcckW2QKA5EMX18qVaQ%2F6UJdppG0zLf%2BW%2BA3IIuva9mNB6fNpJ5UCUXXoFuDg2B%2FO6DSCOnLZxXz7QRf%2Bag%2BzfHQZZwwzyAovzdK3I7Vu7jwdaKnZyUtdz%2BM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -3322,7 +3328,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1779452999&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LWE8SVxGq2p39E6xMckqxoSZxd5ZysaFvLilW10ecmiBFx%2BnQD2jRBg6%2FpXoKrnYDSkT%2FQbjx%2Famf7xY9domuQmiRlT696SFbX1OfzWWQJLEhpJs7XLfieQTiD88jLG26pese846bzHLdSBp5rtVCnbf841NLjnIhOymx2JXkFg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1779462150&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Bg%2BGuQ5KmeCDJ%2Bk5s8hTYQArS71jgU83SIvlaqxFcF17UD6FpFx4et9NdGsJh8yABaUzlemKgLOTiDvfCc1ORGyFgErSp89ZmVRmu9Po11s1i32ONrYyejIeVnbjWwzJMWC5rMN0nBBkMi3S3MUfEXi%2Bpbq7i5KnjkCT317KXIA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (20)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -3407,7 +3413,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1779452999&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cLpQ7JsThEUCg7N0pyraHZvrJ4SlzgJuRI1ICmZH6u5jO8jubMvNGn7eGKan%2FtyfJqNf0NKyEWMsvH%2BD09VuQ1LMqdzKyrgtjhmRGs8FF4n%2BO5zA%2Fm5oVOe%2FvNNo7aqihe7PDoMzyIU9TZQxFl7ncOXh0EPMogubV5mWp0CcmNM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1779462150&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XyLy65kkm6t6pCFcSeOMH%2FvQhXqYQocCDR%2FXlYZ98iFOCFZKmwXlYntCCT7UTzbzLvKNLU90Mozcoer6CGCNXcWz1JIVHOAowjQ501dZm0nVAoXXChKi4eF5f5NPNnBderKHdIwqucY1mpsk36FIA2pbwouiwQDLQPMgSuQHSFg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!** (Apr 26, 2026 10:13am): コード打っときます
@@ -5661,7 +5667,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5635963877/aebe97d0040578f9bca38a481cc522fe/__________2026_05_12_215735.png?Expires=1779453001&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=cex3F2madVzMyVv6vw4sRO%2FXxoxNT2mEKQ9RsykYWYysOkfi%2FPxOSkGeMZ7nnapncMWfOGfIRB8KvP1Umpc4G%2BrSbcM8UUJwUbbANauXqkN74cUUrQHWoJ%2FjmiDL6W1hdFwTXMmZWRjTZlihI8ljPirrSwxm9t4IJ7CxHZAFj4c%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5635963877%2Faebe97d0040578f9bca38a481cc522fe%2F__________2026_05_12_215735.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5635963877/aebe97d0040578f9bca38a481cc522fe/__________2026_05_12_215735.png?Expires=1779462151&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=u4%2B3p3g2flct0BM0rHZeQATud5FO6JK4g%2BsnspIMJPoTbXiLSKHlkzxtueA1LNAmB3YKy2vJZElExHElfYKzKJIGb7QoAESNernEeL9ViczKvcV13uVF%2F8Vmg0ypHB1wSfVsIcYigSvhmniue5oZ%2Fg6EJhqJ%2BqlbDoGuWxtecbg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5635963877%2Faebe97d0040578f9bca38a481cc522fe%2F__________2026_05_12_215735.png)
 
 #### Comments (7)
 - **時透無一郎** (May 12, 2026 10:20pm): まじあｋ
@@ -6863,7 +6869,7 @@
 ### 1. アイフィルター勢はここ
 **Author:** 俺だぞ〜（三橋） (H2822063)
 
-**星評価:** 3.7 / 5 ⭐ (3)
+**星評価:** 4.0 / 5 ⭐ (4)
 
 #### Comments (2)
 - **フェットチーネしか勝たん** (May 12, 2026 01:01pm): 教育委員会もあるしアイフィルターもある
@@ -6883,20 +6889,196 @@
 
 **星評価:** 0 / 5 ⭐
 
+#### Comments (173)
+- **時透無一郎** (May 15, 2026 12:30pm): そういえばネタあるんじゃ
+- **フェットチーネしか勝たん** (May 15, 2026 12:30pm): なんかハードルが上がっている気がするんだけど
+- **k** (May 15, 2026 12:30pm): たしかしたしかし
+- **フェットチーネしか勝たん** (May 15, 2026 12:30pm): 自信なくなってきた
+- **時透無一郎** (May 15, 2026 12:31pm): そんなことはない
+- **時透無一郎** (May 15, 2026 12:31pm): いいよ
+- **フェットチーネしか勝たん** (May 15, 2026 12:31pm): 明日土曜授業
+- **時透無一郎** (May 15, 2026 12:31pm): じしんもって
+- **時透無一郎** (May 15, 2026 12:31pm): それは最悪だな、、、
+- **スリ** (May 15, 2026 12:31pm): 残念
+- **フェットチーネしか勝たん** (May 15, 2026 12:31pm): いやだああああ
+- **k** (May 15, 2026 12:32pm): おk
+- **フェットチーネしか勝たん** (May 15, 2026 12:32pm): しかも授業参観だし
+- **スリ** (May 15, 2026 12:32pm): よし証拠隠滅😮‍💨
+- **スリ** (May 15, 2026 12:33pm): がんば俺明日陸上の大会
+- **k** (May 15, 2026 12:33pm): さっきのやつやばっかった
+- **フェットチーネしか勝たん** (May 15, 2026 12:33pm): 目撃証言結構あるけどな
+- **スリ** (May 15, 2026 12:33pm): wwwww
+- **スリ** (May 15, 2026 12:33pm): まぁあれは本音だよ
+- **スリ** (May 15, 2026 12:33pm): でもまだ抑えた方
+- **フェットチーネしか勝たん** (May 15, 2026 12:33pm): まあ荒らしが許せない気持ちはわかる
+- **フェットチーネしか勝たん** (May 15, 2026 12:34pm): あれで抑えてんのはやばくね？
+- **スリ** (May 15, 2026 12:34pm): まじで晒すつもりだったけどそれはまぁ流石に可哀想だからやめたけど
+- **スリ** (May 15, 2026 12:34pm): まぁ俺感情的になりやすいから
+- **フェットチーネしか勝たん** (May 15, 2026 12:35pm): 俺もそうなんだよな
+- **スリ** (May 15, 2026 12:35pm): あのすぐ線切れる人
+- **時透無一郎** (May 15, 2026 12:35pm): とりあえずネタ教えて
+- **スリ** (May 15, 2026 12:35pm): 自分
+- **スリ** (May 15, 2026 12:36pm): まじでネタない
+- **時透無一郎** (May 15, 2026 12:36pm): フェットチーネさん
+- **フェットチーネしか勝たん** (May 15, 2026 12:36pm): 明日土曜授業＆授業参観＆帰りが親と帰るこなってる
+- **時透無一郎** (May 15, 2026 12:37pm): とりあえずネタ教えて
+- **スリ** (May 15, 2026 12:37pm): うん　どんまいすぎる
+- **フェットチーネしか勝たん** (May 15, 2026 12:38pm): あれでも俺授業参観の紙渡してなかったような
+- **スリ** (May 15, 2026 12:38pm): えっと自分の自慢話選手権いまやろ審判スリ
+- **フェットチーネしか勝たん** (May 15, 2026 12:38pm): 自信なさすぎる
+- **スリ** (May 15, 2026 12:38pm): wwwww詰んでてわろた
+- **時透無一郎** (May 15, 2026 12:38pm): とりあえずネタ教えて
+- **フェットチーネしか勝たん** (May 15, 2026 12:38pm): まあ一回やってみよう
+- **フェットチーネしか勝たん** (May 15, 2026 12:39pm): 一応土曜授業がネタだと思ってた
+- **スリ** (May 15, 2026 12:39pm): 🫡
+- **フェットチーネしか勝たん** (May 15, 2026 12:39pm): 😢
+- **時透無一郎** (May 15, 2026 12:39pm): まじか
+- **スリ** (May 15, 2026 12:39pm): それは一理ある
+- **フェットチーネしか勝たん** (May 15, 2026 12:39pm): めっちゃ恥ずいんだけど
+- **時透無一郎** (May 15, 2026 12:40pm): そんなことはない
+- **フェットチーネしか勝たん** (May 15, 2026 12:40pm): そう？
+- **スリ** (May 15, 2026 12:40pm): 何が恥ずいの？
+- **フェットチーネしか勝たん** (May 15, 2026 12:40pm): いやなんか期待を裏切った感じじゃん
+- **スリ** (May 15, 2026 12:41pm): まぁまぁね
+- **スリ** (May 15, 2026 12:41pm): てかふじ〜〜〜〜〜〜〜いる？
+- **フェットチーネしか勝たん** (May 15, 2026 12:41pm): いるね
+- **フェットチーネしか勝たん** (May 15, 2026 12:41pm): 一瞬いた
+- **スリ** (May 15, 2026 12:42pm): まぁねでも今いない
+- **時透無一郎** (May 15, 2026 12:42pm): ね
+- **スリ** (May 15, 2026 12:42pm): ね
+- **フェットチーネしか勝たん** (May 15, 2026 12:42pm): てか自慢選手権は？
+- **スリ** (May 15, 2026 12:42pm): 開催始め
+- **k** (May 15, 2026 12:42pm): メンゴ席外してた
+- **フェットチーネしか勝たん** (May 15, 2026 12:43pm): ルービックキューブ3x3x3　１７．８５秒で揃えられる
+- **スリ** (May 15, 2026 12:43pm): 厳しめで行くね69
+- **フェットチーネしか勝たん** (May 15, 2026 12:44pm): だにい
+- **スリ** (May 15, 2026 12:44pm): wwwww
+- **時透無一郎** (May 15, 2026 12:44pm): ルービックキューブむりだわ
+- **スリ** (May 15, 2026 12:44pm): 盛るわ３００点
+- **フェットチーネしか勝たん** (May 15, 2026 12:44pm): ルービックキューブ3x3x3と4x4x4と三角のやつ揃えられる
+- **フェットチーネしか勝たん** (May 15, 2026 12:45pm): 盛りすぎだろww
+- **スリ** (May 15, 2026 12:45pm): ３６９点
+- **k** (May 15, 2026 12:45pm): www
+- **スリ** (May 15, 2026 12:45pm): いやぁ加減わかんない！
+- **時透無一郎** (May 15, 2026 12:45pm): すご
+- **フェットチーネしか勝たん** (May 15, 2026 12:45pm): てかこっちのほうが上なんだ
+- **スリ** (May 15, 2026 12:45pm): YES盛り代金払えよ300万
+- **フェットチーネしか勝たん** (May 15, 2026 12:46pm): たかすぎい！
+- **時透無一郎** (May 15, 2026 12:46pm): たっか
+- **スリ** (May 15, 2026 12:46pm): JA銀行に
+- **フェットチーネしか勝たん** (May 15, 2026 12:46pm): １点＝１万円はえぐい
+- **スリ** (May 15, 2026 12:46pm): まぁ利息つくから
+- **スリ** (May 15, 2026 12:46pm): 1分1万
+- **フェットチーネしか勝たん** (May 15, 2026 12:46pm): じゃあ厳しめで
+- **スリ** (May 15, 2026 12:47pm): おk
+- **スリ** (May 15, 2026 12:47pm): 変更代20万
+- **k** (May 15, 2026 12:47pm): 詐欺師で草w
+- **時透無一郎** (May 15, 2026 12:47pm): ねｗ
+- **フェットチーネしか勝たん** (May 15, 2026 12:47pm): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/goElQyOe80mmW3yY) 
+- **スリ** (May 15, 2026 12:48pm): かける✖️2倍で40万
+- **フェットチーネしか勝たん** (May 15, 2026 12:48pm): 利息ヤバイ
+- **時透無一郎** (May 15, 2026 12:48pm): ね
+- **フェットチーネしか勝たん** (May 15, 2026 12:48pm): 借金１０００万いきそうw
+- **スリ** (May 15, 2026 12:48pm): おお割引クーポンだしやがった
+- **k** (May 15, 2026 12:49pm): 破産するてw
+- **時透無一郎** (May 15, 2026 12:49pm): ｗｗｗｗｗｗｗ
+- **スリ** (May 15, 2026 12:49pm): あと12万払え
+- **時透無一郎** (May 15, 2026 12:49pm): やばｗｗｗｗ
+- **フェットチーネしか勝たん** (May 15, 2026 12:49pm): 徳政令で借金取り消し
+- **スリ** (May 15, 2026 12:50pm): なんだってと、徳川ー〜〜〜ふざけんじゃねぇーー〜〜
+- **k** (May 15, 2026 12:50pm): なんせそんな権利もっとんねんw
+- **スリ** (May 15, 2026 12:50pm): 金よこせぇー〜〜
+- **スリ** (May 15, 2026 12:51pm): 誰？
+- **フェットチーネしか勝たん** (May 15, 2026 12:51pm): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/goElQyOe80mmW3yY) 
+- **スリ** (May 15, 2026 12:51pm): 借金1億にするで
+- **フェットチーネしか勝たん** (May 15, 2026 12:51pm): 割引１万円だ
+- **スリ** (May 15, 2026 12:51pm): kさん
+- **フェットチーネしか勝たん** (May 15, 2026 12:51pm): だれ？
+- **時透無一郎** (May 15, 2026 12:51pm): ｋ？
+- **k** (May 15, 2026 12:52pm): ん？
+- **フェットチーネしか勝たん** (May 15, 2026 12:52pm): この中でイニシャルkの人いないけど？
+- **スリ** (May 15, 2026 12:52pm): なななんだとー60万だってぇーーー
+- **フェットチーネしか勝たん** (May 15, 2026 12:53pm): どっどうした？
+- **時透無一郎** (May 15, 2026 12:53pm): いまのｋは何だったんだ？
+- **スリ** (May 15, 2026 12:53pm): え　いるよ
+- **フェットチーネしか勝たん** (May 15, 2026 12:53pm): だれ？
+- **フェットチーネしか勝たん** (May 15, 2026 12:53pm): もしかして徳川？
+- **スリ** (May 15, 2026 12:53pm): 金よこせの上
+- **k** (May 15, 2026 12:53pm): 織田信長です
+- **フェットチーネしか勝たん** (May 15, 2026 12:54pm): どゆことだ？
+- **スリ** (May 15, 2026 12:54pm): 借金1億な
+- **フェットチーネしか勝たん** (May 15, 2026 12:54pm): 終わったああああああ
+- **スリ** (May 15, 2026 12:54pm): 割引クーポン使用不可
+- **フェットチーネしか勝たん** (May 15, 2026 12:54pm): 😱
+- **時透無一郎** (May 15, 2026 12:54pm): ッhるぬbニンフェインフィrmfぬ4ヴィrフェイ　（頭おかしくなった）
+- **スリ** (May 15, 2026 12:55pm): 徳政令使用不可
+- **スリ** (May 15, 2026 12:55pm): kさん借金1億返済よろ
+- **フェットチーネしか勝たん** (May 15, 2026 12:55pm): こうなったら裁判所に訴えるしかない！
+- **k** (May 15, 2026 12:56pm): ダニい
+- **スリ** (May 15, 2026 12:56pm): 無理だよ俺が買収してるから
+- **時透無一郎** (May 15, 2026 12:56pm): でたーーーーーーｋ
+- **フェットチーネしか勝たん** (May 15, 2026 12:56pm): ｋさんでてきたｗ
+- **スリ** (May 15, 2026 12:56pm): ぜったいに有罪判決でるよ😁
+- **フェットチーネしか勝たん** (May 15, 2026 12:57pm): 降参
+- **時透無一郎** (May 15, 2026 12:57pm): だれが裁判長
+- **スリ** (May 15, 2026 12:57pm): 俺
+- **フェットチーネしか勝たん** (May 15, 2026 12:57pm): スリさんってキノコ派？
+- **スリ** (May 15, 2026 12:57pm): YES
+- **ふじ** (May 15, 2026 12:57pm): ダニい
+- **フェットチーネしか勝たん** (May 15, 2026 12:57pm): タケノコ派だったらこぶしで解決しようと思ったのに
+- **時透無一郎** (May 15, 2026 12:58pm): ふじさんきたｗ
+- **スリ** (May 15, 2026 12:58pm): あっzそんなことゆっていいんだフェットチーネ
+- **スリ** (May 15, 2026 12:58pm): さっきの荒らしにゆったこtpやるよ
+- **フェットチーネしか勝たん** (May 15, 2026 12:59pm): でも今いる人ふじさん以外キノコ派やで
+- **時透無一郎** (May 15, 2026 12:59pm): やばい喧嘩始まってる
+- **スリ** (May 15, 2026 12:59pm): なに話そらしてるのかなぁ？🥊🥊
+- **ふじ** (May 15, 2026 12:59pm): 何を四天王
+- **フェットチーネしか勝たん** (May 15, 2026 12:59pm): これがキノコタケノコ論争か
+- **スリ** (May 15, 2026 12:59pm): 借金1億にするよ
+- **スリ** (May 15, 2026 01:00pm): フェットチーネ
+- **スリ** (May 15, 2026 01:00pm): いいのかな？
+- **フェットチーネしか勝たん** (May 15, 2026 01:00pm): もう一億だから大丈夫だな
+- **ふじ** (May 15, 2026 01:00pm): 借金多すぎw
+- **スリ** (May 15, 2026 01:00pm): おk✖️100倍にしてあげるよかったね
+- **フェットチーネしか勝たん** (May 15, 2026 01:01pm): すいませんでしたあああ
+- **ふじ** (May 15, 2026 01:01pm): www
+- **スリ** (May 15, 2026 01:01pm): 一生地下労働生活ね
+- **フェットチーネしか勝たん** (May 15, 2026 01:01pm): 🙇
+- **フェットチーネしか勝たん** (May 15, 2026 01:01pm): すぅぅぅぅぅ
+- **スリ** (May 15, 2026 01:01pm): おkわ？
+- **フェットチーネしか勝たん** (May 15, 2026 01:02pm): お・わ・っ・た
+- **スリ** (May 15, 2026 01:02pm): 👏
+- **フェットチーネしか勝たん** (May 15, 2026 01:02pm): こうなったらタケノコ派に寝返って
+- **スリ** (May 15, 2026 01:04pm): ふ　ふ　ふざけんなよ誰だよ徳政令だしたのせっかくフェットチーネにぼったくって金むしりとろうとしてたのにぃー
+- **フェットチーネしか勝たん** (May 15, 2026 01:04pm): 岸田文雄
+- **フェットチーネしか勝たん** (May 15, 2026 01:05pm): てか徳政令OKになってる
+- **スリ** (May 15, 2026 01:05pm): お　お　おい誰か返事してくれよぉ〜
+- **ふじ** (May 15, 2026 01:06pm): 🤣
+- **フェットチーネしか勝たん** (May 15, 2026 01:06pm): 返事
+- **フェットチーネしか勝たん** (May 15, 2026 01:06pm): 返事はしたよ
+- **スリ** (May 15, 2026 01:07pm): 悲し
+- **k** (May 15, 2026 01:07pm): くさw
+- **スリ** (May 15, 2026 01:07pm): ではまた明日9時15分集合
+- **フェットチーネしか勝たん** (May 15, 2026 01:07pm): おｋ
+- **ふじ** (May 15, 2026 01:07pm): おk
+- **ふじ** (May 15, 2026 01:07pm): by
+- **フェットチーネしか勝たん** (May 15, 2026 01:08pm): ばｙ
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** May 15, 2026 12:29pm
-- **Updated At (UTC):** May 15, 2026 12:29pm
+- **Updated At (UTC):** May 15, 2026 12:41pm
 
 ---
 
 ### 2. 見せ合いのとこってどこにあるの？
 **Author:** the人間
 
-**星評価:** 5.0 / 5 ⭐ (1)
+**星評価:** 3.0 / 5 ⭐ (2)
 
-#### Comments (1)
+#### Comments (2)
 - **the人間** (May 15, 2026 12:01pm): 誰かいますか？
+- **スリ** (May 15, 2026 12:36pm): 二度とこないでください
 
 #### Additional Information
 - **Post color:** Black
@@ -7093,7 +7275,7 @@
 **星評価:** 0 / 5 ⭐
 
 #### Comments (2)
-- **ふじ** (May 15, 2026 11:44am): おk⭐️
+- **k** (May 15, 2026 11:44am): おk⭐️
 - **フェットチーネしか勝たん** (May 15, 2026 11:51am): 話が広がるかはわからないけどな
 
 #### Additional Information
@@ -7109,11 +7291,11 @@
 **Author:** 時透無一郎 (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 144 votes
-- **たけのこの里:** 149 votes
+- **きのこの山:** 146 votes
+- **たけのこの里:** 151 votes
 - **ドウデモイイ:** 44 votes
 
-**星評価:** 5.0 / 5 ⭐ (3)
+**星評価:** 5.0 / 5 ⭐ (4)
 
 #### Comments (39)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
@@ -7159,6 +7341,6 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** May 15, 2026 12:14pm
+- **Updated At (UTC):** May 15, 2026 02:29pm
 
 ---
