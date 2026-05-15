@@ -1,4 +1,4 @@
-最終取得: 2026/05/15 14:10:08
+最終取得: 2026/05/15 17:21:36
 
 # 規制解除委員会(ライター受付)
 
@@ -160,7 +160,7 @@
 [Attachment 1](https://padlet.com/tiktok_yuta_ahirukunndayo)
 
 #### Comments (1)
-- **おでん三兄弟　＃あほ4人組　＃ソニック推し　＃ZETA・してたんぽ推し** (Apr 23, 2026 06:42am): かわいそ
+- **削除済みユーザー** (Apr 23, 2026 06:42am): かわいそ
 
 #### Additional Information
 - **Post color:** Black
