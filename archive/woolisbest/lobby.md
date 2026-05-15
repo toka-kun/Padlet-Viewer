@@ -1,4 +1,4 @@
-最終取得: 2026/05/15 17:21:23
+最終取得: 2026/05/15 21:29:22
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** May 15, 2026 06:07am
+- **Updated At (UTC):** May 15, 2026 10:57am
 
 ## 受付
 
@@ -18,13 +18,15 @@
 
 [Attachment 1](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (6)
+#### Comments (8)
 - **ピカマン＃さくらもちさまの永遠の従僕** (Apr 30, 2026 11:10am): んと、とりあえずピカ垢はなんかしらんけどメアドの認証が必要になったため、今度からは、こちらで活動させていただきます。
 - **ピカマン＃さくらもちさまの永遠の従僕** (Apr 30, 2026 11:11am): メアドpikaman001@outlook.com
 - **ピカマン＃さくらもちさまの永遠の従僕** (Apr 30, 2026 11:11am): (自作です。初めて自分で作った)
 - **ピカマン＃さくらもちさまの永遠の従僕** (Apr 30, 2026 11:24am): あと、青葉さ、ホームにも入れて
 - **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (Apr 30, 2026 01:00pm): おｋ
 - **-55115511- #メアド認証できなくてもう3つめの垢** (May 13, 2026 04:53am): s06220052@ed-tachikawa.jp
+- **ウルトラソウル！！！（9時以降にしか来れないよ☆超低浮上なので夜露死苦）** (May 15, 2026 10:50am): ししょおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお（自認）お久しぶりでございますぅぅうぜひ入れてくださいませえ
+- **ウルトラソウル！！！（9時以降にしか来れないよ☆超低浮上なので夜露死苦）** (May 15, 2026 10:51am): gs202841@nerima-edu.jp
 
 #### Additional Information
 - **Post color:** Purple
@@ -240,7 +242,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
 
-#### Comments (42)
+#### Comments (43)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -283,6 +285,7 @@
 - **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (Apr 29, 2026 08:33am): カービィいれたよー
 - **raisei1414** (May 01, 2026 01:42am): したー
 - **Sky** (May 11, 2026 01:24pm): フォローしました
+- **ウルトラソウル！！！（9時以降にしか来れないよ☆超低浮上なので夜露死苦）** (May 15, 2026 10:57am): もちろん
 
 #### Additional Information
 - **Post color:** Red
@@ -298,7 +301,7 @@
 
 <p>荒らし</p><p>・匿名おるふぇ</p><p>・</p><p><br/></p><p>変態</p><p>・煮物</p><p>・いかれ天</p><p><br/></p><p>かリけーの要望</p><p>・リムル</p><p><br/></p>
 
-#### Comments (19)
+#### Comments (20)
 - **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (Jan 13, 2026 12:10pm): 少ないかも
 - **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (Jan 13, 2026 12:10pm): これ以上思い出せない
 - **woolisbest** (Jan 13, 2026 12:10pm): w
@@ -318,6 +321,7 @@
 - **government conspiracy＃クチャラー嫌い＃PB界隈＃芋帝国民** (Mar 08, 2026 09:34am): なぜ反煮物派が出禁なのか…
 - **woolisbest** (Mar 13, 2026 10:09am): 煮物部屋受け継いだ部屋だから..........
 - **woolisbest** (Mar 13, 2026 10:09am): 煮物出禁だけど...
+- **ウルトラソウル！！！（9時以降にしか来れないよ☆超低浮上なので夜露死苦）** (May 15, 2026 10:51am): 煮物出禁になったか...
 
 #### Additional Information
 - **Post color:** Green
