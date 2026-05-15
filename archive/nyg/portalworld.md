@@ -1,15 +1,15 @@
-最終取得: 2026/05/16 07:51:53
+最終取得: 2026/05/16 08:52:25
 
 # Padletポータルワールド
 
-お気に入りの部屋を見つけよう！ベル🔔ボタンからこの部屋をフォローすると新しい部屋に関する通知が来るようになります。
+お気に入りの部屋を見つけよう！Padletの各部屋を繋ぐ、現役最大の宣伝部屋です。ベル🔔ボタンからこの部屋をフォローすると新しい部屋に関する通知が来るようになります。
 
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 145
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** May 15, 2026 11:05am
+- **Updated At (UTC):** May 15, 2026 11:42pm
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -3298,7 +3298,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1779490313&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lgh9UK7FOGNEq%2BbzbTVM0X29IKALL3fPRwDHxzQT0emk6jbAH3QGMakBU%2BEZKJF4mu%2BcP%2F7%2BOU1MXjr1Dm7ErmDhklnr6iNicShCun0VbGYDbU7ZxbmtiVsombdJhYgqFxROmF4apr3oW45fC6Fk215OCXeSbCFU1cfeGwwqIhA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1779493945&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=R8KUWua2u108nJQK09CCTSuSIbx4xlxcwecgZUHf%2BTQpsKR79jQhZ0pbf5ih58UiNjou5H0gPT5ctKA%2BQbesflBAke2uKcqH7BIVuHm5Wy%2FYvO2bbKEuV6MDKhsx52N49eVe2Bmd2rpVZYRdwEm65Ylj85f893sHCzbhfUPNahs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
