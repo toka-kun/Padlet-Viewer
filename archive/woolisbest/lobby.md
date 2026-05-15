@@ -1,4 +1,4 @@
-最終取得: 2026/05/15 10:08:55
+最終取得: 2026/05/15 17:21:23
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** May 13, 2026 04:53am
+- **Updated At (UTC):** May 15, 2026 06:07am
 
 ## 受付
 
@@ -55,7 +55,7 @@
 ### 3. アクセス要求して
 **Author:** woolisbest (woolisbest)
 
-#### Comments (90)
+#### Comments (92)
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Feb 12, 2026 11:54pm): すぃた
 - **削除済みユーザー** (Feb 13, 2026 03:20am): した
 - **-55115511- ＃煮物貢献者 #煮物8番弟子** (Feb 13, 2026 06:49am): sita
@@ -146,6 +146,8 @@
 - **raisei1414** (May 01, 2026 02:27am): raisei1414@icloud.com
 - **raisei1414** (May 01, 2026 02:27am): いれてー
 - **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (May 01, 2026 09:41am): いれたよ
+- **aotan　本垢** (May 15, 2026 05:12am): aotan6552@gmail.com
+- **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (May 15, 2026 06:07am): いれた
 
 #### Additional Information
 - **Post color:** Yellow
