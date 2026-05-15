@@ -1,4 +1,4 @@
-最終取得: 2026/05/15 10:09:07
+最終取得: 2026/05/15 14:10:11
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 15
 - **Created At (UTC):** Apr 12, 2026 10:30am
-- **Updated At (UTC):** May 14, 2026 10:58am
+- **Updated At (UTC):** May 15, 2026 02:58am
 
 ## 受付
 
@@ -15,6 +15,9 @@
 **Author:** とるっぷい (TORI_TORI2)
 
 [Attachment 1](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl)
+
+#### Comments (1)
+- **ゲーム教えて** (May 15, 2026 02:58am): 学タブでできるゲーム教えてください
 
 #### Additional Information
 - **Created At (UTC):** Apr 12, 2026 10:39am
