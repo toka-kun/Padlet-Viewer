@@ -781,7 +781,7 @@
                     data.attachments.forEach(att => {
                         if (att.isImage) {
                             mediaHtml += `<img src="${escapeHtml(att.url)}" alt="Attachment" class="attached-image">`;
-                            mediaHtml += `<a href="${escapeHtml(att.url)}" target="_blank" class="action-link">📎 画像を開く</a>`;
+                            mediaHtml += `<a href="${escapeHtml(att.url)}" target="_blank" class="action-link">🔗 画像を開く</a>`;
                         } else {
                             const encodedUrl = encodeURIComponent(att.url);
                             const faviconUrl = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${encodedUrl}&size=64`;
