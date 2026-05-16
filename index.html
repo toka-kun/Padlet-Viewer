@@ -180,11 +180,11 @@
             background-color: rgba(110, 118, 129, 0.1);
             border-radius: 4px;
             padding: 10px 12px;
-            margin-bottom: 0; /* リアクションセクションがなくなったためマージン調整 */
+            margin-bottom: 0; 
             font-size: 0.8rem;
             color: #c9d1d9;
             border: 1px solid rgba(48, 54, 61, 0.5);
-            margin-top: auto; /* 下部に寄せる */
+            margin-top: auto; 
         }
         .custom-field-row {
             display: grid;
@@ -294,17 +294,22 @@
                 const totalBoards = Object.keys(data).length;
                 metaInfoDiv.innerHTML = `<span>対応しているボード数: 全 ${totalBoards} ボード</span>`;
 
-                // グループ化せずに、すべてのボード（キー）ごとに独立したセクションを作成
+                // nyg/ で始まるキーは単独のセクションにし、それ以外はプレフィックス（/の前）でグループ化する
                 const sections = {};
                 for (const [key, itemInfo] of Object.entries(data)) {
-                    // キー名（nyg/main等）をそのまま独立したセクション名にする
-                    const sectionName = key; 
+                    let sectionName;
+                    
+                    if (key.startsWith('nyg/')) {
+                        sectionName = key; // nyg/ はキーそのものをセクション名に（単体に）
+                    } else {
+                        sectionName = key.split('/')[0]; // 他はプレフィックスでグループ化
+                    }
                     
                     if (!sections[sectionName]) {
                         sections[sectionName] = [];
                     }
                     
-                    // カード生成用にキーを保持
+                    // カード生成用に元のキーを保持
                     itemInfo._key = key; 
                     itemInfo._shortName = key;
                     
