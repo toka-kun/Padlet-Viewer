@@ -2,7 +2,7 @@ name: Padletアーカイブ一括取得
 
 on:
   schedule:
-    # 毎時0分に実行
+    # 毎時0分と30分に実行
     - cron: '0,30 * * * *'
   workflow_dispatch:
 
@@ -150,9 +150,10 @@ jobs:
           EOF
 
 
-          # --- 関数定義（賢い比較＋日付をつけて保存する処理） ---
+          # --- 関数定義 ---
           > padlet_order.txt # 順番記録用のファイルを初期化
 
+          # 【 info.json に入れる用 】
           function save_padlet {
             local URL=$1
             local OUT_FILE=$2
@@ -215,6 +216,49 @@ jobs:
             sleep $SLEEP_TIME
           }
 
+          # 【 info.json に入れない用】
+          function save_padlet2 {
+            local URL=$1
+            local OUT_FILE=$2
+            
+            # ※ padlet_order.txt への記録を行わないため、info.json から除外されます
+            
+            if curl -L --compressed -s -o temp_download.md "$URL"; then
+                if [ ! -s temp_download.md ]; then
+                    echo "⚠️ エラー: $OUT_FILE はデータが空白でした。更新をスキップします。"
+                    rm temp_download.md
+                    return 0
+                fi
+
+                if head -n 1 temp_download.md | grep -q "<!DOCTYPE html>"; then
+                    echo "⚠️ スキップ: $OUT_FILE はエラーページ(HTML)でした。更新しません。"
+                    rm temp_download.md
+                    return 0
+                fi
+
+                if [ -f "$OUT_FILE" ]; then
+                    tail -n +3 "$OUT_FILE" > current_body.tmp
+                    if diff -q --strip-trailing-cr temp_download.md current_body.tmp > /dev/null; then
+                        echo "✅ 変更なし: $OUT_FILE (更新日時も維持します)"
+                        rm temp_download.md current_body.tmp
+                        return 0
+                    fi
+                    rm current_body.tmp
+                fi
+
+                NOW=$(date "+%Y/%m/%d %H:%M:%S")
+                echo "最終取得: $NOW" > "$OUT_FILE"
+                echo "" >> "$OUT_FILE"
+                cat temp_download.md >> "$OUT_FILE"
+                rm temp_download.md
+                echo "🔄 更新完了(info除外): $OUT_FILE ($NOW)"
+            else
+                echo "❌ エラー: ダウンロード失敗 $OUT_FILE"
+            fi
+            
+            sleep $SLEEP_TIME
+          }
+
           # ==========================================
           # 実行エリア
           # ==========================================
@@ -249,14 +293,19 @@ jobs:
           save_padlet "https://padlet.com/padlets/5ggicyna1yjvquxr/exports/markdown.md" "archive/obungu.md"
           save_padlet "https://padlet.com/padlets/n0g1c0jl2ak3grc5/exports/markdown.md" "archive/sennin.md"
           save_padlet "https://padlet.com/padlets/236elh6xnvi2nw9q/exports/markdown.md" "archive/romanpearce.md"
-          save_padlet "https://padlet.com/padlets/okjy1jmzjzdbb5jm/exports/markdown.md" "archive/ouga.md"
+          save_padlet2 "https://padlet.com/padlets/okjy1jmzjzdbb5jm/exports/markdown.md" "archive/ouga.md"
 
           # --- 全ての取得完了後に info.json を一括生成 ---
           echo "🔄 info.json を構築しています..."
-          python3 build_info_json.py padlet_order.txt
+          if [ -f padlet_order.txt ]; then
+              python3 build_info_json.py padlet_order.txt
+              rm padlet_order.txt
+          else
+              echo "info.json に追加するデータがありませんでした。"
+          fi
           
           # 一時ファイルを削除
-          rm padlet_order.txt build_info_json.py
+          rm build_info_json.py
 
       - name: まとめて保存
         run: |
