@@ -1,4 +1,4 @@
-最終取得: 2026/05/17 08:14:00
+最終取得: 2026/05/17 09:13:21
 
 # プロキシTeck・Land山の上店（本部）
 
@@ -289,7 +289,7 @@
 
 <p>見てね〜</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/e4cc563e6328921bb367586ecad58b8a/Screen_recording_2025_05_22_21_07_23.webm?Expires=1779578040&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WfjkOMoc4R6klPFVDDyEz0xZatT%2B9%2BnHnvsctaTO%2Be66VrQM%2FJUt%2BG6lkk02vMUtVKVrBPdxrzPBLKA%2BbJX7WykjzYP3ASVx1DbhUX%2FS6R%2BFC51wnVwa9raZFu4HX5Da1Uowo8IE0ARDs3f%2BgwIChBoM0H5R4qhd8W2TPu00k7g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2Fe4cc563e6328921bb367586ecad58b8a%2FScreen_recording_2025_05_22_21_07_23.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/e4cc563e6328921bb367586ecad58b8a/Screen_recording_2025_05_22_21_07_23.webm?Expires=1779581600&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6M%2BdH8qigrANtOCJMCfgupv9JmHNnsZid9QITEb0ODuYu3R5d6a23WZ2oWtY%2B37UL9ECsYNHet%2Fv7QyRveROyipPZicQL9NO3BHxr69sCfs0Lsmmnd1%2F8yIPkN5oe3tZON8XmFMTtqFJPO9IGLa%2BAtReLDV3U7nRGoVnoDo43%2FQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2Fe4cc563e6328921bb367586ecad58b8a%2FScreen_recording_2025_05_22_21_07_23.webm)
 
 #### Comments (2)
 - **光の忍者** (Jun 04, 2025 12:54pm): マジですごい
@@ -632,7 +632,7 @@
 ---
 
 ### 19. ピカチュウコンセントですピカコンって呼んでね
-**Author:** すみしょう賛成ピカコン反対 (aru25)
+**Author:** 帰ってきたぴかコン (aru25)
 
 <p>proxy共有します！！</p>
 
@@ -1079,7 +1079,7 @@
 ### 4. ohisa
 **Author:** 0b1001 (h3002183)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/255570cd2c651da9a348513201da28bf/media_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png?Expires=1779578040&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6oEe6SmRoesGTWj33lcDUAGhTYc4Nc2Nj8sj0oi2WUhJdxLVm79BtXNk0sJ6jy%2B2fv4BlmxvAoeTIhmzPsta8t37EMjE0Z6VizYus76wB9YQpfiG4UJvli50uOfM%2FdgLhzEzHtn43mjCTBZI8kWKP%2F398GRgKbQp43glTbcT6HE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F255570cd2c651da9a348513201da28bf%2Fmedia_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/255570cd2c651da9a348513201da28bf/media_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png?Expires=1779581601&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GKwVySOCYXEvVv6LYxv8RdujFe6uoBqL91dpMCoqtnP8uj%2FvbjWB6wHgdSx5%2BSE66wCnsPecWJSqVgx%2FrwpAj588x%2FJ1l91goxyTGATergSPkU%2FQI%2FCAlMz0wL033RkWzR8VDKZsrDpxJJPdq5XTrCc%2F8ZfnxpfCBFhBkqpKfs0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F255570cd2c651da9a348513201da28bf%2Fmedia_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png)
 
 #### Comments (1)
 - **光の忍者** (Jan 20, 2026 03:14am): 久しぶり
@@ -1399,7 +1399,7 @@
 ### 27. わかめを使おうと思ったらこんなん出たけれどこれはなにですか？
 **Author:** りおとだお！もうすぐ高校入試！ (gohannoisii)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3043221779/081c3467813e2887d966a6453c62a962/IMG_6127.jpeg?Expires=1779578040&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lHXDag4LGc2QSqdbTnBsuWye3pBd%2BbIfqy94KNnSrXHsk5Ja213ohwhcK8sMP%2FRP8l4SO8DBDcPmw4%2BAEM6nlC3%2FiFM9IODs4dZ%2FWUO8vhm9vYHv7CtrUn57u58kO66sfCEXyTvAb33sQ8JQt10TAeGmrFU6ru1lRS%2B6ZCcrEHE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3043221779%2F081c3467813e2887d966a6453c62a962%2FIMG_6127.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3043221779/081c3467813e2887d966a6453c62a962/IMG_6127.jpeg?Expires=1779581601&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=HEQnqa0rxx4iNYxyEROdtw8B0%2BeLFwF%2Bc9Ua9d%2BS2ljHC993GmEj10yl2u7N0O4tQAQ8lCxuVwJOUVRoPMfAsVU8za9R71Hip3bAh89z3JFg%2FeUh3uBbcrm%2BmUUhjyUZ6Vwz3AIasUd%2FDgU3lLKqDHb3PYhUagljRgSMGSHYRZU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3043221779%2F081c3467813e2887d966a6453c62a962%2FIMG_6127.jpeg)
 
 #### Comments (5)
 - **(^_^)r Youtube大好きな人** (Jul 09, 2025 10:18pm): わからん
@@ -1573,7 +1573,7 @@
 
 #### Comments (8)
 - **光の忍者** (Jun 26, 2025 10:13am): arsenicとCroxyProxyも好き
-- **すみしょう賛成ピカコン反対** (Jun 26, 2025 11:17am): らんまー
+- **帰ってきたぴかコン** (Jun 26, 2025 11:17am): らんまー
 - **INFINITY** (Jun 26, 2025 11:43am): インターステラー好きなのにほぼ全ブロ
 - **光の忍者** (Jun 26, 2025 12:04pm): 自分のパソコン重すぎてらんまー使えないんだよなー
 - **光の忍者** (Jun 26, 2025 12:04pm): 確かにインターステラーはあんまない
@@ -1657,7 +1657,7 @@
 
 <p>・↑これをアイコンに設定する</p><p>・部屋名をgoogleフォーム</p><p>　　↳ Google フォーム にする</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/3ea9d3aaf5a8f51eda6b391fc7312b52/forms_icon_2023q4.ico?Expires=1779578040&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mvvMQRFyYzPke89yeFh2EugAORY9ZfM5eLRIjMV1W8avRNjwlg9C7J6PeUM2Bwsap8rMBMTyROuVvE8%2BTVQLxsrqNuHatBa6zoAntVoj3P2cwfQfnv3ofXAaGfhGIfzMOLXGD8m68XRANJ2HjYBrwP2JxfWjcXFtSsaDLjN3Y7E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F3ea9d3aaf5a8f51eda6b391fc7312b52%2Fforms_icon_2023q4.ico)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/3ea9d3aaf5a8f51eda6b391fc7312b52/forms_icon_2023q4.ico?Expires=1779581601&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hE9KOwrHN8pBgO9kHT9T1%2Bd9LnIN%2F2%2FbL4HnDho1u732LW7UD1LwHSt6WKvdW2gCwNyyFdre1eccMUHfB1B6e8ZiNZMSb%2FKIp6YKFojE%2Frt8kpDVoVYSdHHmR34V6CizNpbDbfZtqi8URewPm6XWbX4YW0JvC62tDSaUjcd3mdA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F3ea9d3aaf5a8f51eda6b391fc7312b52%2Fforms_icon_2023q4.ico)
 
 #### Comments (3)
 - **光の忍者** (Jun 23, 2025 02:15am): オッケー
