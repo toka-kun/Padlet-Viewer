@@ -1,4 +1,4 @@
-最終取得: 2026/05/18 10:29:01
+最終取得: 2026/05/18 14:46:50
 
 # Padletポータルワールド
 
@@ -503,7 +503,7 @@
 ---
 
 ### 19. とりももの拠点（引継ぎ）
-**Author:** tori3proxyZ@toriproZ (tori3proxyZ)
+**Author:** tori3proxyZ@toriproZ　＃ブラックベルト保持者＃最近復活 (tori3proxyZ)
 
 <p>去年まで人口が多かった拠点を復活！！（作り直しだけどごめん）</p><p>コメントや投稿をAIがチェックしてくれるから、安全にみんなと雑談したりできます！！</p><p>基本だれでも参加可能なのでぜひ来てみてください！！</p><p>ルール：</p><p>荒らしはしないこと</p><p>モデレーター以上の権限がある人以外は「雑談」での投稿はやめてください。</p><p>不適切な発言などはしないでください</p><p>たとえ管理者であっても僕以外は、僕の許可なしにセクションをつくらないこと。※荒らしへの対応のためなら管理者はいいです。</p>
 
@@ -3362,7 +3362,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1779672541&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qEtYWwhrcQNcItnbSifi1Yj2eQ%2FtNx%2FeR4Kf8yqHSx1dPKLRaoG9mxor6WX6NewP8qLdpYQEul64DZF%2FVuyqsH%2BTOJ5v4iJFH%2Fd5R0wdPjH8OIDFp4vyLwVRVO%2B1HQFQ7zv6pWaHrNfpsX8wf4ximeuiL1E31ST1%2FTGedIEbd9k%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1779688010&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6X1G%2BjfAo1Ib0fj7zirRTdMcu7vvuEhCaI0LoF%2BluUWx%2F1rRomp0mDXTXiHlZkVLAKlu0xflTQ58VUXSwbjWoVQw%2FY9o5gpj6IvWBkBaKT2uzpVbAhuTVeEgi4TjzxIqa%2BghQOXLHbvuhCu1D%2FEKAfyJeeRRFegpeOCCy1ru3GA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
 
 #### Comments (28)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
