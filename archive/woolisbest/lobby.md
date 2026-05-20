@@ -1,4 +1,4 @@
-最終取得: 2026/05/17 18:43:23
+最終取得: 2026/05/20 17:00:29
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** May 17, 2026 02:21am
+- **Updated At (UTC):** May 20, 2026 06:56am
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment 1](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (9)
+#### Comments (13)
 - **ピカマン＃さくらもちさまの永遠の従僕** (Apr 30, 2026 11:10am): んと、とりあえずピカ垢はなんかしらんけどメアドの認証が必要になったため、今度からは、こちらで活動させていただきます。
 - **ピカマン＃さくらもちさまの永遠の従僕** (Apr 30, 2026 11:11am): メアドpikaman001@outlook.com
 - **ピカマン＃さくらもちさまの永遠の従僕** (Apr 30, 2026 11:11am): (自作です。初めて自分で作った)
@@ -28,6 +28,10 @@
 - **ウルトラソウル！！！（9時以降にしか来れないよ☆超低浮上なので夜露死苦）** (May 15, 2026 10:50am): ししょおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお（自認）お久しぶりでございますぅぅうぜひ入れてくださいませえ
 - **ウルトラソウル！！！（9時以降にしか来れないよ☆超低浮上なので夜露死苦）** (May 15, 2026 10:51am): gs202841@nerima-edu.jp
 - **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (May 17, 2026 02:21am): いれた
+- **りんす** (May 20, 2026 06:26am): 入れてほしいでーす
+- **静桜  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (May 20, 2026 06:27am): メアドかいてね
+- **りんす** (May 20, 2026 06:33am): rio.takagaki.0703@gmail.com
+- **静桜  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (May 20, 2026 06:34am): いれたよー
 
 #### Additional Information
 - **Post color:** Purple
@@ -241,9 +245,9 @@
 ### 1. 入りたい人はフォローしてね
 **Author:** 静桜  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族 (Aoba108)
 
-<p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p>
+<p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p><p>※↑は今死んでます</p>
 
-#### Comments (43)
+#### Comments (45)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -287,11 +291,13 @@
 - **raisei1414** (May 01, 2026 01:42am): したー
 - **Sky** (May 11, 2026 01:24pm): フォローしました
 - **ウルトラソウル！！！（9時以降にしか来れないよ☆超低浮上なので夜露死苦）** (May 15, 2026 10:57am): もちろん
+- **りんす** (May 20, 2026 06:26am): した
+- **静桜  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (May 20, 2026 06:27am): メアド…
 
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** Jan 13, 2026 12:05pm
-- **Updated At (UTC):** Jan 13, 2026 12:14pm
+- **Updated At (UTC):** May 20, 2026 06:56am
 
 ---
 
