@@ -1,15 +1,13 @@
-最終取得: 2026/05/20 17:00:23
+最終取得: 2026/05/20 20:15:03
 
 # 荒らし対策室
-
-ベル🔔ボタンからこの部屋をフォローすると新しい投稿などの通知が来るようになります。
 
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-i0fd897smvjo0tvj
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 16
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** May 20, 2026 07:21am
+- **Updated At (UTC):** May 20, 2026 09:58am
 
 ## リンク集
 
@@ -106,25 +104,23 @@
 
 ## 保管倉庫①
 
-### 1. Hello 1
+### 1. あいす
 **Author:** あいす #萎えペン #しゃけとペア画中 (20s139766)
 
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** May 20, 2026 05:23am
-- **Updated At (UTC):** May 20, 2026 07:21am
+- **Updated At (UTC):** May 20, 2026 09:58am
 
 ---
 
-### 2. え⁉️
+### 2. さぶつき
 **Author:** さぶつき (proword0613)
-
-<p><strong>荒らされてる‼️荒らされてますよ‼️</strong></p><p><strong>早く気づいて‼️</strong></p>
 
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** May 20, 2026 05:08am
-- **Updated At (UTC):** May 20, 2026 07:22am
+- **Updated At (UTC):** May 20, 2026 09:58am
 
 ---
 
@@ -173,20 +169,7 @@
 
 ---
 
-### 7. レイ
-**Author:** レイ　#最近ていふ (rei_ryu)
-
-#### Reactions
-- **Emojis:** 👍 (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Nov 24, 2025 03:48am
-- **Updated At (UTC):** Nov 24, 2025 04:16am
-
----
-
-### 8. たたたんこ
+### 7. たたたんこ
 **Author:** たたたんこ (Tatatanko)
 
 #### Reactions
@@ -199,7 +182,7 @@
 
 ---
 
-## 保管倉庫② - R.I.P.
+## 保管倉庫②
 
 ### 1. りおと
 **Author:** 削除済みユーザー
@@ -255,7 +238,20 @@
 
 ---
 
-### 5. キット
+### 5. レイ
+**Author:** レイ　#最近ていふ (rei_ryu)
+
+#### Reactions
+- **Emojis:** 👍 (1)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Nov 24, 2025 03:48am
+- **Updated At (UTC):** May 20, 2026 09:57am
+
+---
+
+### 6. キット
 **Author:** 削除済みユーザー
 
 #### Reactions
