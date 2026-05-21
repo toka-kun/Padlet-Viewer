@@ -1,4 +1,4 @@
-最終取得: 2026/05/21 08:47:07
+最終取得: 2026/05/21 15:50:29
 
 # 荒らし対策室
 
@@ -105,7 +105,7 @@
 ## 保管倉庫①
 
 ### 1. krtk
-**Author:** Krtkdears🔰 (Bougaii)
+**Author:** 多分垢BANされます (Bougaii)
 
 #### Additional Information
 - **Post color:** White

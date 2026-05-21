@@ -1,4 +1,4 @@
-最終取得: 2026/05/21 11:49:19
+最終取得: 2026/05/21 15:50:26
 
 # Padletポータルワールド
 
@@ -7,89 +7,3566 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 161
+- **Posts:** 315
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** May 21, 2026 01:34am
+- **Updated At (UTC):** May 21, 2026 06:37am
 
 ## 部屋はこの下のセクションに投稿されます。
 
-### 1. ↓ここから誰でも簡単に投稿できます！
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-
-<p><strong>↑これを押して自分の部屋を出展しよう！</strong></p>
-
-[Attachment 1](https://padlet.com/Toka_Kun_/submission-request/k2qlv3RKMKOnX5Rx?section=317262857)
-
-#### Comments (8)
-- **アヘへ** (Oct 29, 2025 07:18am): ？」
-- **削除済みユーザー** (Nov 29, 2025 07:24am): ↑のpadletポータルワールドをタップしたら投稿できると思う
-- **NyrikX(足立区陣ICFS系)** (Feb 14, 2026 02:13am): 質問です、部屋は自分が持ち主ではないが、管理者権限を持っている場合、自分はここにその部屋を宣伝も可能ですか
-- **ᏁγᎶ » Tøka_Kuŋ_** (Feb 14, 2026 04:33am): 自分が持ってる部屋だけ
-- **k** (Mar 11, 2026 08:05am): すみません
-- **k** (Mar 11, 2026 08:06am): なにか入るのかなと思ってやったら他の人のをだしてしまってすみません
-- **カカコンジュ(エドガーのコラボレーター)** (May 02, 2026 02:49am): ここに追加したのを消す方法ってどうやるんですか
-- **ᏁγᎶ » Tøka_Kuŋ_** (May 04, 2026 01:09am): 僕が消す
-
-#### Reactions
-- **Emojis:** ❤️ (1)
-
-#### Additional Information
-- **Post color:** Red
-- **Created At (UTC):** Oct 03, 2025 04:09am
-- **Updated At (UTC):** Feb 11, 2026 01:10am
-
----
-
-### 2. 注意点
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-
-<ul><li><p><strong><mark>自分の部屋のみ</mark>投稿して下さい。</strong></p></li><li><p><strong>自分の部屋であれば<mark>いくら投稿してもOK</mark>です。</strong></p></li><li><p><strong>時間が経って自分の投稿が埋もれてしまっても、<mark>一週間経てば再投稿可能</mark>です。また、その場合は管理者が過去の同じ投稿を消しておきます。</strong></p></li><li><p><strong>Padletの規約に反する部屋や、こちらで不適切だと判断した投稿は見つけ次第削除します。</strong></p></li><li><p><strong>多少の誤字などであればこちらで修正します。</strong></p></li><li><p><strong>AIに引っ掛かって承認待ちになっても人の目でもう一度確認するので安心して下さい。</strong></p></li><li><p><strong>「過疎ってるから来て」などと言うのではなく、<mark>その部屋の良さを誠実に書いた方が人は来てくれます</mark>。</strong></p></li><li><p><strong>何を書けば良いのか分からない場合は、サンプルを参考にして下さい。</strong></p></li></ul>
-
-#### Comments (3)
-- **だいまたハムスター（偽物注意）#りおとの35番弟子#わかめGOＤ教#煮物貢献者#イケメン様様信者　ここみたってことは復讐ってこと！こわいよーたすけてフォローってなんのいみあんの？とりあえずしてーーKUNがすき　はむかす** (Sep 03, 2025 07:16am): とうこうするねごめん
-- **Magurock (偽物･偽造に注意)** (Sep 06, 2025 08:58am): かなり人気になってきた
-- **全ての部屋にコメントする** (Feb 05, 2026 09:17am):  
-
-#### Reactions
-- **Emojis:** ❤️ (2)
-
-#### Additional Information
-- **Post color:** Red
-- **Created At (UTC):** Sep 01, 2025 11:51am
-- **Updated At (UTC):** Nov 24, 2025 02:38am
-
----
-
-### 3. （サンプル）プロキシのリンクやYouTubeの閲覧方法を共有する会
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-
-<ul><li><p><strong>日本最大級の部屋</strong></p></li><li><p><strong>有名なあのサイトから、誰も知らないマイナーなサイトまでを幅広く網羅！</strong></p></li><li><p><strong>投稿やコメントは全てAIが審査してくれるので、誰でも安心して参加できる！</strong></p></li></ul>
-
-**受付部屋のリンク（あれば）:** https://padlet.com/Toka_Kun_/breakout-room/ke9Kqzb5L9O9qYQG-oAdpz24dgkRJv10R
-
-**部屋の作成日:** August 21, 2024
-
-**閲覧数:** 250,000~499,999
-
-**管理者数:** 非公開
-
-**モデレーター数:** 非公開
-
-[Attachment 1](https://padlet.com/padlets/a8v7cjbbfni702kg)
-
-#### Reactions
-- **Emojis:** ❤️ (2)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Sep 01, 2025 11:45am
-- **Updated At (UTC):** Jan 30, 2026 10:08pm
-
----
+No post
 
 ## Padletポータルワールド
 
-### 1. 本気の雑談部屋
+### 1. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Comments (3)
+- **きゅうり** (May 21, 2026 05:43am): bya
+- **きゅうり** (May 21, 2026 05:43am): Why
+- **多分垢BANされます** (May 21, 2026 06:11am): ん
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:22am
+- **Updated At (UTC):** May 21, 2026 03:22am
+
+---
+
+### 2. 自由　毎日がeveryday
+**Author:** Io1205 (1205iosato1205)
+
+<p>みんな入ってきてください。</p><p>下の受付リンクは、メアドを送ってください。</p>
+
+**受付部屋のリンク（あれば）:** https://padlet.com/1205iosato1205/submission-request/VyDovAdWqmM9XZQL?section=370611386
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 部屋主のみ
+
+**モデレーター数:** 非公開
+
+[Attachment 1](https://padlet.com/padlets/6s95qydmsvhtdh7m)
+
+#### Additional Information
+- **Post color:** Blue
+- **Created At (UTC):** May 21, 2026 03:21am
+- **Updated At (UTC):** May 21, 2026 03:21am
+
+---
+
+### 3. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 4. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 5. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 6. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 7. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 8. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 9. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 10. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 11. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 12. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 13. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 14. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 15. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 16. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 17. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 18. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 19. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 20. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 21. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 22. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 23. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 24. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 25. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 26. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 27. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 28. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 29. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 30. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 31. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 32. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 33. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 34. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 35. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 36. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 37. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 38. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 39. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 40. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 41. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 42. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 43. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 44. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 45. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 46. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 47. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 48. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 49. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 50. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 51. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 52. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 53. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 54. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 55. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 56. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 57. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 58. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 59. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 60. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 61. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 62. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 63. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 64. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 65. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 66. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 67. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 68. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 69. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 70. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 71. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 72. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 73. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 74. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 75. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 76. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 77. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 78. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 79. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 80. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 81. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 82. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 83. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 84. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 85. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 86. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 87. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 88. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 89. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 90. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 91. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 92. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 93. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 94. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 95. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 96. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 97. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 98. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 99. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 100. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 101. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 102. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 103. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 104. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 105. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 106. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 107. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 108. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 109. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 110. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 111. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 112. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 113. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 114. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 115. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 116. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 117. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 118. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 119. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 120. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 121. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 122. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 123. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 124. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 125. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 126. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 127. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 128. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 129. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 130. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 131. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 132. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 133. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 134. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 135. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 136. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 137. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 138. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 139. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 140. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 141. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 142. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 143. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 144. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 145. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 146. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 147. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 148. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 149. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 150. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 151. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 152. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 153. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 154. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 155. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 156. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 157. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 158. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 159. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 160. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 161. つだぴー部屋
+**Author:** 多分垢BANされます (Bougaii)
+
+<p>かみつ</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 5~9
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/67acbuaddvk55bkj)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 03:12am
+- **Updated At (UTC):** May 21, 2026 03:12am
+
+---
+
+### 162. 本気の雑談部屋
 **Author:** カカコンジュ(エドガーのコラボレーター) (h0421017_1)
 
 <p>荒らし以外なんでもあり</p>
@@ -111,7 +3588,7 @@
 
 ---
 
-### 2. 自由　毎日がeveryday
+### 163. 自由　毎日がeveryday
 **Author:** Io1205 (1205iosato1205)
 
 <p>ワールド変えました。</p><p>受付リンク追加しました。</p><p>このワールドはほとんど自由です。</p><p>今は少ないですが、これからふやしていく予定です。</p><p>よろしくお願いします。</p>
@@ -135,51 +3612,7 @@
 
 ---
 
-### 3. 自由　毎日がeveryday
-**Author:** Io1205 (1205iosato1205)
-
-<p>このワールドはほとんど自由です。</p><p>今は少ないですが、これからふやしていく予定です。</p><p>よろしくお願いします。</p>
-
-**部屋の作成日:** May 21, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 非公開
-
-[Attachment 1](https://padlet.com/padlets/dppm65ninxef38ez)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** May 21, 2026 12:43am
-- **Updated At (UTC):** May 21, 2026 12:43am
-
----
-
-### 4. 自由　毎日がeveryday
-**Author:** Io1205 (1205iosato1205)
-
-<p>荒らしが来たのでルームを変えました。</p><p>このルームは、ほとんど自由です。</p><p>ですが荒らしや人が嫌がることはしないでください。</p><p><br/></p>
-
-**部屋の作成日:** May 21, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 非公開
-
-[Attachment 1](https://padlet.com/padlets/8kzzumajua2vodcr)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** May 20, 2026 11:16pm
-- **Updated At (UTC):** May 20, 2026 11:16pm
-
----
-
-### 5. 友達部屋
+### 164. 友達部屋
 **Author:** マイスター (r0106429)
 
 <p>友達がネット上にほしい方におすすめ</p><p>人数が今はいないですが増やしていく方針です</p><p>どうかよろしくお願いします</p>
@@ -201,7 +3634,7 @@
 
 ---
 
-### 6. callisto部屋
+### 165. callisto部屋
 **Author:** Callisto (JupiterCallisto)
 
 <p>前の部屋は荒らされたため消しました。</p><p>荒らされないよう受付ありにしました</p><p>↓の投稿フォームにメアドを書いて送ってください</p>
@@ -225,30 +3658,8 @@
 
 ---
 
-### 7. 毎日がeveryday
-**Author:** Io1205 (1205iosato1205)
-
-<p>自由です♪</p>
-
-**部屋の作成日:** May 18, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 1~4
-
-[Attachment 1](https://padlet.com/padlets/gferrz0r0d9za901)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** May 20, 2026 09:25am
-- **Updated At (UTC):** May 20, 2026 09:56am
-
----
-
-### 8. （＾ー＾）
-**Author:** シーシィアちゃんだよん (myumuhiba)
+### 166. （＾ー＾）
+**Author:** 灰宮先輩やで (myumuhiba)
 
 <p>ん</p>
 
@@ -269,7 +3680,7 @@
 
 ---
 
-### 9. プロキシ部屋(荒らされたから再建)
+### 167. プロキシ部屋(荒らされたから再建)
 **Author:** 存在がバグ (glitchboy)
 
 <p>荒らされたのでまた最初からです</p><p>閲覧数は前の分も含めてます</p>
@@ -293,7 +3704,7 @@
 
 ---
 
-### 10. 色々やる部屋の受付
+### 168. 色々やる部屋の受付
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 <p>受付です</p>
@@ -315,7 +3726,7 @@
 
 ---
 
-### 11. 世界一の雑談部屋(にしたい)
+### 169. 世界一の雑談部屋(にしたい)
 **Author:** N (bigbann5678_1)
 
 <p>きっと多分おそらく楽しいはずだから来てね〜</p>
@@ -337,7 +3748,7 @@
 
 ---
 
-### 12. クリボッチルーム・シン
+### 170. クリボッチルーム・シン
 **Author:** りな319＃ルミナス族リーダー (RINA0319_RUMINASU)
 
 <p>クリボッチルームの二つ目の部屋です！！この部屋から入ってね。この部屋は、エロ、雑談部屋です。待ってるよーーーーーー！！</p>
@@ -359,7 +3770,7 @@
 
 ---
 
-### 13. ゲームとか共有部屋
+### 171. ゲームとか共有部屋
 **Author:** カカコンジュ(エドガーのコラボレーター) (h0421017_1)
 
 <p>どんどん共有してね</p>
@@ -381,7 +3792,7 @@
 
 ---
 
-### 14. 朧
+### 172. 朧
 **Author:** 時透無一郎 (r0300353)
 
 <p>ゲーム、プロキシ、ユーチューブなどがあります。他にもゲームや漫画の楽しい話ができます。要望や意見なども聞いていますのでぜひ来てください</p>
@@ -403,7 +3814,7 @@
 
 ---
 
-### 15. カフート学校
+### 173. カフート学校
 **Author:** 𝑡𝑎𝑖𝑦𝑎𝑘𝑖！ (2514115_1)
 
 <p>治安いい、人多い・優しい、元閲覧数10000、設備いい</p>
@@ -427,7 +3838,7 @@
 
 ---
 
-### 16. パドレっと拡散
+### 174. パドレっと拡散
 **Author:** そこら辺のパドレット見てる者　適当に (s11210037_1)
 
 <p>来てほしいです！！！！！</p>
@@ -451,7 +3862,7 @@
 
 ---
 
-### 17. モデレーター権限あげるから荒らせ二代目
+### 175. モデレーター権限あげるから荒らせ二代目
 **Author:** カカコンジュ(エドガーのコラボレーター) (h0421017_1)
 
 <p>荒らせルールなしモデレーター権限荒らせルールなしモデレーター権限荒らせルールなしモデレーター権限</p>
@@ -473,7 +3884,7 @@
 
 ---
 
-### 18. ちゃま部屋
+### 176. ちゃま部屋
 **Author:** ちゃま (oretyamakun)
 
 <p>セキュリティやルールがしっかりしている。</p>
@@ -497,7 +3908,7 @@
 
 ---
 
-### 19. ドクターマリオ部屋〜荒らされるの絶対反対過激派の方々用〜
+### 177. ドクターマリオ部屋〜荒らされるの絶対反対過激派の方々用〜
 **Author:** Callisto (JupiterCallisto)
 
 <p>↓のは投稿フォームです</p><p>絶対にみなさんのところでは荒らされないように対策をし安心して会話ができるようにしました。</p>
@@ -521,7 +3932,7 @@
 
 ---
 
-### 20. かかってこいや荒らしていいよ二代目
+### 178. かかってこいや荒らしていいよ二代目
 **Author:** カカコンジュ(エドガーのコラボレーター) (h0421017_1)
 
 <p>かかってこいやかかってこいやかかってこいや</p>
@@ -543,7 +3954,7 @@
 
 ---
 
-### 21. 荒らし部屋
+### 179. 荒らし部屋
 **Author:** 怪盗ルパン三十八世 (proxygameyoutube)
 
 <p>この部屋は荒らしたい人が思い切って荒らせるような夢のような部屋です。自分の溜まっているストレスの発散もできるし、荒らし素材の確認もできます。ぜひ入ってみてね</p>
@@ -567,7 +3978,7 @@
 
 ---
 
-### 22. クソガキ
+### 180. クソガキ
 **Author:** KaSiuuuuu (kasumuuu)
 
 <p>ktkr</p>
@@ -589,7 +4000,7 @@
 
 ---
 
-### 23. 3代目煮物部屋！
+### 181. 3代目煮物部屋！
 **Author:** 煮物 (derbybudgetbalmy)
 
 <p>proxyを作成し配布をしています。確実に開けるproxyを作れます。</p>
@@ -611,7 +4022,7 @@
 
 ---
 
-### 24. プロキシの塊
+### 182. プロキシの塊
 **Author:** 存在がバグ (glitchboy)
 
 <p>雑談やプロキシ、宣伝部屋もあるよ</p><p>もう少しで訪問者数5000！</p><p>毎週月曜日に…</p>
@@ -633,7 +4044,7 @@
 
 ---
 
-### 25. 全力雑談部屋だよー！
+### 183. 全力雑談部屋だよー！
 **Author:** Sto9960 (h9960969)
 
 <p>色々な人がいるのでみんなぜひはいってね！</p>
@@ -657,7 +4068,7 @@
 
 ---
 
-### 26. 雑談
+### 184. 雑談
 **Author:** N (bigbann5678_1)
 
 <p>マジでなんでもありだしできたてなので管理者を数人任せます、パドレットについてそこまで詳しくないんでたのんます</p>
@@ -681,7 +4092,7 @@
 
 ---
 
-### 27. ざつだん！
+### 185. ざつだん！
 **Author:** Ton-kyouju (Ton_kyouju_01)
 
 <p>気軽に話せるし、優しい人がいっぱいいてとても歓迎してくれます！！！　ゲームサイト・ダウンローダーが載っている部屋もこの中にあります！！受付もそのざつだん！部屋でできるため、すっごく楽です！！ぜひ来てください！！</p>
@@ -706,7 +4117,7 @@
 
 ---
 
-### 28. ドクターマリオ部屋〜公開ライター〜
+### 186. ドクターマリオ部屋〜公開ライター〜
 **Author:** Callisto (JupiterCallisto)
 
 <p>みんな入れます！</p>
@@ -728,7 +4139,7 @@
 
 ---
 
-### 29. 2代目捜索所!
+### 187. 2代目捜索所!
 **Author:** hirafu (hirafu)
 
 <p>概要は中身見ろ</p><p>実は、初代は荒らしによって開けなくなってしまいました</p>
@@ -750,7 +4161,7 @@
 
 ---
 
-### 30. 〜けろ村〜
+### 188. 〜けろ村〜
 **Author:** 次この人を見たらしばいてください (help_help)
 
 <p>一つ目、りおと部屋と同盟を組んでいる！</p><p>二つ目、花火部屋の後継！</p><p>三つ目、管理者がいる間は公開ライター！</p>
@@ -772,7 +4183,7 @@
 
 ---
 
-### 31. 伝説の部屋
+### 189. 伝説の部屋
 **Author:** 花火 (hanabityan)
 
 <p>エドガー民が集まっています</p>
@@ -794,7 +4205,7 @@
 
 ---
 
-### 32. とりももの拠点（引継ぎ）
+### 190. とりももの拠点（引継ぎ）
 **Author:** tori3proxyZ@toriproZ　＃ブラックベルト保持者＃最近復活 (tori3proxyZ)
 
 <p>去年まで人口が多かった拠点を復活！！（作り直しだけどごめん）</p><p>コメントや投稿をAIがチェックしてくれるから、安全にみんなと雑談したりできます！！</p><p>基本だれでも参加可能なのでぜひ来てみてください！！</p><p>ルール：</p><p>荒らしはしないこと</p><p>モデレーター以上の権限がある人以外は「雑談」での投稿はやめてください。</p><p>不適切な発言などはしないでください</p><p>たとえ管理者であっても僕以外は、僕の許可なしにセクションをつくらないこと。※荒らしへの対応のためなら管理者はいいです。</p>
@@ -818,7 +4229,7 @@
 
 ---
 
-### 33. 「朧」です　
+### 191. 「朧」です　
 **Author:** 時透無一郎 (r0300353)
 
 <p>ぜひこの部屋で話していってください！</p>
@@ -843,7 +4254,7 @@
 
 ---
 
-### 34. 真夏の夜の淫夢厨の部屋　復活
+### 192. 真夏の夜の淫夢厨の部屋　復活
 **Author:** ファックモーター元社長 (r0116624)
 
 <p>面白い</p>
@@ -868,7 +4279,7 @@
 
 ---
 
-### 35. ★雑談部屋！！★
+### 193. ★雑談部屋！！★
 **Author:** H4ru+0_M!k1_MaIn (1421214miki)
 
 <p>なんでもありなところがいいところ！！（荒らしはダメだけど）優しいです！！（？）作ったばかりだよ！！（人はいないよ〜）みんな来てね〜！！待ってるよ〜！！</p>
@@ -890,8 +4301,8 @@
 
 ---
 
-### 36. ブレインロットファイト
-**Author:** シーシィアちゃんだよん (myumuhiba)
+### 194. ブレインロットファイト
+**Author:** 灰宮先輩やで (myumuhiba)
 
 <p>ブレインロットファイト交換</p>
 
@@ -912,7 +4323,7 @@
 
 ---
 
-### 37. あ
+### 195. あ
 **Author:** ꒰ঌ(っ˘꒳˘ｃ)‪໒꒱天風 りん💜🔥﹡˖˟༝ (takapirotakapiro3)
 
 <p>あ</p>
@@ -934,7 +4345,7 @@
 
 ---
 
-### 38. woolisbest部屋
+### 196. woolisbest部屋
 **Author:** woolisbest (woolisbest)
 
 <p>ゲームのファイルとかがたくさん！</p><p>proxyやyoutubeサイトなどもリクエストがあれば作ります（ﾀﾌﾞﾝ）</p><p>meetに人がいることが多い。</p><p>eaglercraftをよくやっている。</p><p>fortniteとかにゃんこ大戦争もやってるらしい。</p><p>古参が受験で低浮上になって過疎り気味.....（１日に２～４回更新あるくらい？）</p><p>wista公式部屋(wooltubeも)</p><p>雑談メイン（プロキシ少ない..........作ればあるけど）</p><p>なんかみんなふざけてる。</p>
@@ -958,7 +4369,7 @@
 
 ---
 
-### 39. 私の部屋にどうぞ
+### 197. 私の部屋にどうぞ
 **Author:** Sto9960 (h9960969)
 
 <p>いろいろあります</p>
@@ -986,7 +4397,7 @@
 
 ---
 
-### 40. 札幌市教育委員会･ICFS対策本部【学生相手に本気出してる札幌市教育委員会をぶちのめすの会】
+### 198. 札幌市教育委員会･ICFS対策本部【学生相手に本気出してる札幌市教育委員会をぶちのめすの会】
 **Author:** 削除済みユーザー (sakujosaretenaiyo)
 
 <p>便利サイトセクションは定期的に更新</p><p>ICFSで規制されていないサイトだけを掲載するのでほぼ確実にサイトが使える！</p><p>無断転載は管理者が確認するので安心！</p><p>情報の共有所からゲームなど幅広く！</p><p>経緯を持って現役最大であるToka_kunの部屋から投稿ごと貼る事ができる！何行目と描いてあるのでわかりやすい！</p><p>温厚で初心者に優しい！誰でも投稿可！(ライター)</p><p>荒らし対応即座！</p>
@@ -1008,7 +4419,7 @@
 
 ---
 
-### 41. classroom
+### 199. classroom
 **Author:** ペンギン (68794935)
 
 <p>この部屋は現在訪問者120人ほど。訪問者増やし、楽しみたいです！ぜひ来てください！</p>
@@ -1035,7 +4446,7 @@
 
 ---
 
-### 42. マイクラ・ゲーム・雑談部屋
+### 200. マイクラ・ゲーム・雑談部屋
 **Author:** 暇人 (56748573)
 
 <p>学校の規約回避サイトなどをみんなで見つけて投稿する部屋です。みんなでマイクラとかもするかもです</p><p>新人ですのでいろいろ荒らし対策などを教えてくれると嬉しいです！</p>
@@ -1057,7 +4468,7 @@
 
 ---
 
-### 43. にぎ部屋復活
+### 201. にぎ部屋復活
 **Author:** キムソンイ (hiramomo_)
 
 <p>まあまあ人戻ってきてるからおもろいよ</p>
@@ -1084,7 +4495,7 @@
 
 ---
 
-### 44. 裏の表の裏
+### 202. 裏の表の裏
 **Author:** government conspiracy＃クチャラー嫌い＃PB界隈＃芋帝国民 (seihunoinbou)
 
 <p>特にはないかなぁ〜</p>
@@ -1106,7 +4517,7 @@
 
 ---
 
-### 45. プロキシ
+### 203. プロキシ
 **Author:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
 
 <p>たくさんあるよ</p>
@@ -1128,7 +4539,7 @@
 
 ---
 
-### 46. るるるの雑談部屋
+### 204. るるるの雑談部屋
 **Author:** るるる　バルコク共和国の大統領 (barukokukyouwakoku)
 
 <p>仮面ライダー部屋であり、みんなでおすすめの曲などを出し合ったり、絵を描いたりなど、幅広いジャンルで雑談をしています</p>
@@ -1150,7 +4561,7 @@
 
 ---
 
-### 47. りおと国（公式）
+### 205. りおと国（公式）
 **Author:** ぬほさた。 (Nuhosata)
 
 <p>常時人がいる</p><p>パドレット最大級の過密部屋</p><p>誰でも大歓迎！</p>
@@ -1178,7 +4589,7 @@
 
 ---
 
-### 48. Alcatraz - I FILTER監視塔
+### 206. Alcatraz - I FILTER監視塔
 **Author:** guruma_ESTA (guruma_ESTA)
 
 <p>I FILTER民によるI FILTER回避のための部屋。</p><p>・高頻度更新！</p><p>・すべて動作確認済み！</p><p>・豊富なサイト・ツール</p><p>・投稿はすべて第3者によって検閲済み！</p>
@@ -1200,7 +4611,7 @@
 
 ---
 
-### 49. 松の木ツリー
+### 207. 松の木ツリー
 **Author:** 最高にハイなまっつー　#ハイすぎて灰 (haisugitehai)
 
 <p>平和だと思う</p>
@@ -1222,7 +4633,7 @@
 
 ---
 
-### 50. 荒らしていいよ
+### 208. 荒らしていいよ
 **Author:** Callisto (JupiterCallisto)
 
 <p>みんなで荒らしていいよ。</p><p>みんなのストレスを発散‼︎</p>
@@ -1244,7 +4655,7 @@
 
 ---
 
-### 51. padlet!!!!! - 公開ライター版
+### 209. padlet!!!!! - 公開ライター版
 **Author:** 咲 (hirano_saki)
 
 <p>公開ライターなので誰でも投稿できます!</p><p>94名の方が来場していました!</p>
@@ -1266,7 +4677,7 @@
 
 ---
 
-### 52. padlet!!!!!
+### 210. padlet!!!!!
 **Author:** 咲 (hirano_saki)
 
 <p>ここの部屋は公開ライターではありませんが、宣伝を許可しています。</p><p>まだライターは一人しかいません。でも公開ライター部屋があります。</p>
@@ -1290,7 +4701,7 @@
 
 ---
 
-### 53. 部屋の塊
+### 211. 部屋の塊
 **Author:** 存在がバグ (glitchboy)
 
 <p>どんどん宣伝していけ！</p>
@@ -1312,7 +4723,7 @@
 
 ---
 
-### 54. Google
+### 212. Google
 **Author:** スシロー (h3026194)
 
 <p>まだ出来立てですがToka＿kunさんに宣伝してもらい徐々に増やしていきたいです、内容的にはシンプルな雑談や規制回避・解除に役立つ情報を集めたいと思います</p>
@@ -1334,7 +4745,7 @@
 
 ---
 
-### 55. 雑談プロキシ部屋
+### 213. 雑談プロキシ部屋
 **Author:** Callisto (JupiterCallisto)
 
 <p>荒らしにくいようにコメンテータそしてログインしてなくても使えます※荒らされたらログイン制にします。</p>
@@ -1358,7 +4769,7 @@
 
 ---
 
-### 56. おにぎり部屋が復活しましたよ
+### 214. おにぎり部屋が復活しましたよ
 **Author:** 削除済みユーザー
 
 <p>おにぎり部屋だぞおにぎり部屋</p>
@@ -1380,7 +4791,7 @@
 
 ---
 
-### 57. 雑談部屋
+### 215. 雑談部屋
 **Author:** Callisto (JupiterCallisto)
 
 <p>誰でもライター荒らされたらメンバー制</p>
@@ -1402,7 +4813,7 @@
 
 ---
 
-### 58. aotanのゲーム＆youtubeコーナー
+### 216. aotanのゲーム＆youtubeコーナー
 **Author:** 削除済みユーザー
 
 <p>・わかりやすい、リンクのならび！</p><p><br/></p><p>・制作者情報や、マイナーなこともしっかり、のってある！</p><p><br/></p><p><br/></p>
@@ -1424,7 +4835,7 @@
 
 ---
 
-### 59. Proxyなどを教える会
+### 217. Proxyなどを教える会
 **Author:** 仙人@suger (xianrendesu)
 
 <p>欲しいサイトがあったら僕が出来る範囲で作るよ。</p><p>まあまあひとは多いと思う。</p>
@@ -1449,7 +4860,7 @@
 
 ---
 
-### 60. 規制突破などの勉強部屋
+### 218. 規制突破などの勉強部屋
 **Author:** 前原光樹 (maeharakoki0504)
 
 <p>規制突破などに関して知りたい事があったら教えてます</p><p>普段から趣味でコンピュータについて勉強してるので、規制突破についても、一般の方よりかわ詳しくです</p>
@@ -1471,7 +4882,7 @@
 
 ---
 
-### 61. TOANASUROOM
+### 219. TOANASUROOM
 **Author:** しんとあるなすびの3.14 (nasubi1)
 
 <p>いぐくらやその他サイトなどの配布雑談通話などをやっています</p><p><br/></p>
@@ -1495,7 +4906,7 @@
 
 ---
 
-### 62. ゲームしたい人集まれ
+### 220. ゲームしたい人集まれ
 **Author:** sk-toto (touma00901)
 
 <p>規制回避してゲームしたい人、集合。リンクとか貼ってね！</p>
@@ -1517,7 +4928,7 @@
 
 ---
 
-### 63. いろいろなセクションがあります
+### 221. いろいろなセクションがあります
 **Author:** アブリ　カルビ (gs211024)
 
 <p>誰でも入れて</p><p>フォロワー100人目指しています。</p><p>入ってください</p>
@@ -1539,7 +4950,7 @@
 
 ---
 
-### 64. 江戸広場 雑談
+### 222. 江戸広場 雑談
 **Author:** Magurock (偽物･偽造に注意) (Magurock)
 
 <p>旧エドガー部屋</p><p>乗っ取りに負けず復活させました。</p><p><mark>人はそこそこいます</mark></p>
@@ -1563,7 +4974,7 @@
 
 ---
 
-### 65. てなぼーの雑談部屋
+### 223. てなぼーの雑談部屋
 **Author:** 隠れてなぼー#ダンガンロンパファン (Kakuretenabo)
 
 <p>過密部屋を目指します。</p>
@@ -1585,7 +4996,7 @@
 
 ---
 
-### 66. Daigo’s Room
+### 224. Daigo’s Room
 **Author:** Daigo (DaigoRoad)
 
 <p>雑談で過密を目指す新興の部屋です！</p><p>誰でも歓迎</p>
@@ -1609,7 +5020,7 @@
 
 ---
 
-### 67. 雑談しようぜ
+### 225. 雑談しようぜ
 **Author:** ニキータ (nikita1922)
 
 <p>出来たての部屋なんで全然人いないんで皆さん来て下さい</p>
@@ -1631,7 +5042,7 @@
 
 ---
 
-### 68. プロキシワールド
+### 226. プロキシワールド
 **Author:** α3 (a3_01)
 
 <p>ISGCで使えるプロキシまとめてます。誰でも大歓迎。</p>
@@ -1655,7 +5066,7 @@
 
 ---
 
-### 69. 捜索所
+### 227. 捜索所
 **Author:** hirafu (hirafu)
 
 <p>さっきミスりました（二重になってしまい申し訳ございません）</p><p>概要は先程と同じです</p>
@@ -1681,7 +5092,7 @@
 
 ---
 
-### 70. ルミナス族受付
+### 228. ルミナス族受付
 **Author:** 削除済みユーザー
 
 <p>まだあまり知られていないプロキシやゲームを公開しています。</p>
@@ -1705,7 +5116,7 @@
 
 ---
 
-### 71. 中東情勢
+### 229. 中東情勢
 **Author:** guruma_ESTA (guruma_ESTA)
 
 <p>中東情勢情報pad</p><p>公開ライター</p>
@@ -1727,7 +5138,7 @@
 
 ---
 
-### 72. 磯野上げ
+### 230. 磯野上げ
 **Author:** サッカー少年 (gojousensei)
 
 <p>一度荒らされたけど頑張って修復しました。しかも荒らされたのができて二日目。先が思いやられる</p>
@@ -1755,7 +5166,7 @@
 
 ---
 
-### 73. かリけーの雑談部屋４
+### 231. かリけーの雑談部屋４
 **Author:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
 
 <p>荒らされすぎて過疎い</p><p>だから来てくれー</p>
@@ -1779,7 +5190,7 @@
 
 ---
 
-### 74. エヴァ同好会！！
+### 232. エヴァ同好会！！
 **Author:** 削除済みユーザー
 
 <p>エヴァ好き集まれーーーー</p>
@@ -1803,7 +5214,7 @@
 
 ---
 
-### 75. ゆずみかんが作る雑談部屋
+### 233. ゆずみかんが作る雑談部屋
 **Author:** 🌊🐋コネコネ🐬してるうさぎ☆ (usagikonekone)
 
 <p>過疎部屋ですが、これから過密にしていきたいとおもいます。</p><p>よろしくお願いします</p>
@@ -1830,7 +5241,7 @@
 
 ---
 
-### 76. ISGC民集合
+### 234. ISGC民集合
 **Author:** kai (kai4848)
 
 <p>これから主にISGCで使えるサイトまとめます</p>
@@ -1852,7 +5263,7 @@
 
 ---
 
-### 77. プロキシワールド
+### 235. プロキシワールド
 **Author:** α3 (a3_01)
 
 <p>ISGCで使えるプロキシまとめてます。</p>
@@ -1876,7 +5287,7 @@
 
 ---
 
-### 78. クラスルーム
+### 236. クラスルーム
 **Author:** 削除済みユーザー (42856397)
 
 <p>プロキシあります！(ゲームなども)</p><p>また、部屋同士見知らぬ人でもとても仲良く接していて楽しいです！ぜひ皆さん来てください！</p>
@@ -1903,7 +5314,7 @@
 
 ---
 
-### 79. Into the blue sky together!
+### 237. Into the blue sky together!
 **Author:** guruma_ESTA (guruma_ESTA)
 
 <p>雑談&amp;マイクラ鯖部屋</p>
@@ -1927,7 +5338,7 @@
 
 ---
 
-### 80. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
+### 238. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
 **Author:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri_)
 
 <p>過密にしたいです！</p><p><br/></p><p>匿名の部屋から普通の雑談部屋まで</p><p>アップデートを重ねて日々機能増加中！</p><p><br/></p><p>ぜひ来てね―</p><p><br/></p><p>※仕様変更により一時的にライター制</p>
@@ -1951,7 +5362,7 @@
 
 ---
 
-### 81. 学パソでゲーム&Youtubeみたい人のパドレット
+### 239. 学パソでゲーム&Youtubeみたい人のパドレット
 **Author:** ラグランでコンビネーション (s05220076)
 
 <p>ゲーム、とYoutube見る方法が乗ってある</p>
@@ -1973,7 +5384,7 @@
 
 ---
 
-### 82. I-FILTER 回避研究所
+### 240. I-FILTER 回避研究所
 **Author:** トロンボーン吹きの吹奏楽部員 (ttashishi)
 
 <p>2年前からあります</p><p>ここにみんなが集まれば最高の回避リストが作れます</p><p>ログインしてればOKです</p><p>技術者募集中</p><p>部屋改善の指摘もよろしく</p>
@@ -1998,7 +5409,7 @@
 
 ---
 
-### 83. プロキシ集めて！！
+### 241. プロキシ集めて！！
 **Author:** 削除済みユーザー
 
 <p>プロキシ乗っけてます</p>
@@ -2020,7 +5431,7 @@
 
 ---
 
-### 84. nehosata部屋
+### 242. nehosata部屋
 **Author:** 削除済みユーザー
 
 <p>神部屋</p>
@@ -2042,7 +5453,7 @@
 
 ---
 
-### 85. るるるの雑談部屋！
+### 243. るるるの雑談部屋！
 **Author:** るるる　バルコク共和国の大統領 (barukokukyouwakoku)
 
 <p>宣伝自由にしていってね。</p><p>フォロパも受け付けてるよ！</p><p><br/></p>
@@ -2064,7 +5475,7 @@
 
 ---
 
-### 86. ICFSブロックの足立区民専用の研究組だよ！
+### 244. ICFSブロックの足立区民専用の研究組だよ！
 **Author:** NyrikX(足立区陣ICFS系) (h3000370)
 
 <p>主に足立区民だけで作り上げていくつもりだよ。応援してね。</p>
@@ -2086,7 +5497,7 @@
 
 ---
 
-### 87. タブレットお悩み事相談所
+### 245. タブレットお悩み事相談所
 **Author:** 削除済みユーザー
 
 <p>ここではタブレットのサイトの不具合などを解決します。ですが！！！これは表の顔です…本当の目的はタブレットをもっとよりよく自由に使うために、プロキシやゲーム、YouTubeを公開しています。（エロもあるかもね…）てことで、みんなもタブレットを自由に使おーーーーーーーーーーーー！！！！！</p>
@@ -2110,7 +5521,7 @@
 
 ---
 
-### 88. 拡散希望！
+### 246. 拡散希望！
 **Author:** RX034 (h3005990)
 
 <p>ぜひ僕のプロキシ部屋に入ってください！！！！！！！</p><p>お願いします</p>
@@ -2132,7 +5543,7 @@
 
 ---
 
-### 89. 札幌市教育委員会・ICFS対策本部
+### 247. 札幌市教育委員会・ICFS対策本部
 **Author:** 削除済みユーザー (sakujosaretenaiyo)
 
 <p>プロキシのリンクやYouTubeの閲覧方法を共有する会の子会社です</p>
@@ -2157,7 +5568,7 @@
 
 ---
 
-### 90. 打倒Iフィル＆予定
+### 248. 打倒Iフィル＆予定
 **Author:** oh my ンバー (36racing)
 
 <p>始めたばかり増える可能性　大</p><p><br/></p>
@@ -2179,7 +5590,7 @@
 
 ---
 
-### 91. だれでも大歓迎!
+### 249. だれでも大歓迎!
 **Author:** keR (ke_R)
 
 <p>作ったばっかだお（）最初に来てくれた人には管理者?っていうのあげる</p>
@@ -2201,7 +5612,7 @@
 
 ---
 
-### 92. SHELLのための部屋
+### 250. SHELLのための部屋
 **Author:** 日本語発音機　にほごん (GreenMile)
 
 <p>SHELLという卵の戦闘系ゲーム</p><p>についてとことん話す部屋です。</p><p><br/></p>
@@ -2223,7 +5634,7 @@
 
 ---
 
-### 93. Fortniteブレインロット交換
+### 251. Fortniteブレインロット交換
 **Author:** タピオカパン！！別名ジオード二キだよ (r0136496)
 
 <p>Fortnite　or　ROBLOXの交換部屋です。時々配布もします</p>
@@ -2247,7 +5658,7 @@
 
 ---
 
-### 94. ゆるっと雑談広場
+### 252. ゆるっと雑談広場
 **Author:** 削除済みユーザー
 
 <p>ログインをしなくても大歓迎</p><p>全員ライター</p><p><br/></p>
@@ -2269,7 +5680,7 @@
 
 ---
 
-### 95. 荒らしていいよｗ
+### 253. 荒らしていいよｗ
 **Author:** nekoちゃんぬ総長 (wao)
 
 <p>・荒らす人たちにはまず何かの理由があると思うんです、なのでここでストレス発散をして気持ちよくなってもらえばと思いました。</p>
@@ -2291,7 +5702,7 @@
 
 ---
 
-### 96. たまご部屋
+### 254. たまご部屋
 **Author:** ぴわを (egghed)
 
 <p>新しくつくりました！主に雑談部屋です🐣</p><p>プロキシやYoutubeゲームなどもあるのでぜひきてください！</p>
@@ -2313,7 +5724,7 @@
 
 ---
 
-### 97. フリーパドレット部屋
+### 255. フリーパドレット部屋
 **Author:** レッド (s2266013)
 
 <p>自分のパドレット部屋作りました!ぜひ、入ってくださいね</p>
@@ -2335,7 +5746,7 @@
 
 ---
 
-### 98. くるくるの雑談部屋の受付と部屋
+### 256. くるくるの雑談部屋の受付と部屋
 **Author:** kurukuru7.09　＃消しゴムは今日は海であると主張し、エレベーターは奇数階だけに敬語を使い、コーヒーは黒板消しのふりをして沈黙すると思われてきたかも。 (kurukuru709)
 
 <p>いい部屋にしたい</p>
@@ -2359,7 +5770,7 @@
 
 ---
 
-### 99. きてね
+### 257. きてね
 **Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
 <p>雑談部屋</p><p>過密目指してる</p>
@@ -2381,7 +5792,7 @@
 
 ---
 
-### 100. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
+### 258. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
 **Author:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri_)
 
 <p><strong>ルールを守れば違反しなければ何をしても良い部屋。</strong></p><p><br/></p><p><strong>人がぜんぜんいないので来てね</strong></p><p><strong>雑談しようぜ！</strong></p>
@@ -2405,7 +5816,7 @@
 
 ---
 
-### 101. やっぱ誰でもOK部屋
+### 259. やっぱ誰でもOK部屋
 **Author:** 🍄#りおとの奴隷！最近低浮上 (kinokoyongzhe80)
 
 <p>みんなフレンドリーで受付とかログイン必要にしてるのでセキュリティは十分です。</p>
@@ -2435,7 +5846,7 @@
 
 ---
 
-### 102. 隠れてなぼーの秘密のバー
+### 260. 隠れてなぼーの秘密のバー
 **Author:** 隠れてなぼー#ダンガンロンパファン (Kakuretenabo)
 
 <p>雑談部屋です。</p><p>ちょっとした裏部屋があるかも？</p>
@@ -2457,7 +5868,7 @@
 
 ---
 
-### 103. ブラックリスト
+### 261. ブラックリスト
 **Author:** S&A　次期選挙管理委員長 (SandA_Best_partnars)
 
 <p>ここは僕が荒らしについてまとめたところです。</p><p>でも始まったばかりで情報が少ないので下のリンクに荒らしとかの情報を送ってくれたら嬉しいです</p>
@@ -2481,7 +5892,7 @@
 
 ---
 
-### 104. waniの部屋
+### 262. waniの部屋
 **Author:** 削除済みユーザー
 
 <p>みんなで雑談やサイトなどを楽しめる場所だぜぇ</p><p>気軽に浮上してねー</p>
@@ -2508,7 +5919,7 @@
 
 ---
 
-### 105. woolisbest部屋
+### 263. woolisbest部屋
 **Author:** 削除済みユーザー
 
 <p>・雑談部屋です。</p><p>・旧煮物部屋です。（10/22に受け継ぎました）</p><p>・プロキもシ一応あります（頼んでもらえればいくらでも...）</p><p>・開発者が多いです（お気に入りのサイトを見つけられるかもしれません）</p><p>・毎月一回ほど大きなイベントがあります（プロキシなどの景品あり）</p><p>・最近過疎ってます</p><p>・プロキシ・youtubeサイトなどが欲しい人も来てください</p><p>・規制解除にも力をいれてます</p><p>・chat・meetに常に１人はいるので暇な方はどうぞ</p><p>・Discord版の部屋もあります</p><p>・マイクラ(eaglercraftファイル版）などをやっているときもあります（meet）</p><p>・管理者はもう増やしません</p><p>・モデレーターは増やすかもしれません</p><p>・古参（６人）はもう増やさないつもりです（減ったら募集）</p><p>・準古参（７人）はもう少し増やすつもりです</p><p>・やばいやつが多いです（面白いとも言う）</p><p>・宣伝禁止です（vip宣伝はあり）</p><p>・youtube plusの開発者もいるので要望があれば何でもどうぞ（なんとかします）</p><p>・プロキシがほしい方はこの部屋かプロキシ部屋で言ってください</p><p>・render・cloudflare・render custom domein・vercel・railway・googlesite・GASなどでサイトを作っているので使えるものを言っていただければそれを使います</p>
@@ -2532,7 +5943,7 @@
 
 ---
 
-### 106. Demenigiceのゆったり深海
+### 264. Demenigiceのゆったり深海
 **Author:** Demenigice-hell (Demenigice_hell)
 
 <ul><li><p>一度荒らされたので招待制になりました！</p></li><li><p>もとはかなり賑わっていましたが荒らされたので過疎ってます。</p></li><li><p>受付に来てください↓</p></li></ul>
@@ -2556,7 +5967,7 @@
 
 ---
 
-### 107. chat oasis
+### 265. chat oasis
 **Author:** 削除済みユーザー
 
 <p>YouTubeが見れるサイトなどもあります。荒らし対策もしています</p>
@@ -2578,7 +5989,7 @@
 
 ---
 
-### 108. 脈脈部屋の受付
+### 266. 脈脈部屋の受付
 **Author:** 万博逃亡の脈脈　＃ほぼ引退気味 (Daisannoitidaibeyaninaru)
 
 <p>受付だお　雑談多分タノスィーから来てねぇ</p>
@@ -2600,7 +6011,7 @@
 
 ---
 
-### 109. Shell専用部屋
+### 267. Shell専用部屋
 **Author:** あいうえお (gtr35aiueo)
 
 <p>shellshockersやってる人の集まりです</p><p>最近過疎ってるので誰でもいいから入ってください(荒らし目的のやつ除く)</p>
@@ -2622,7 +6033,7 @@
 
 ---
 
-### 110. 曇り空
+### 268. 曇り空
 **Author:** proxy (proxy0link)
 
 <p>色々プロキシ</p><p><br/></p>
@@ -2644,7 +6055,7 @@
 
 ---
 
-### 111. きてーーーーーーーーーー🤣
+### 269. きてーーーーーーーーーー🤣
 **Author:** run (11324130)
 
 <p>あらしだめ❌️</p><p><br></p>
@@ -2661,7 +6072,7 @@
 
 ---
 
-### 112. 来てね
+### 270. 来てね
 **Author:** 削除済みユーザー
 
 [Attachment 1](https://padlet.com/Rein_bloxd/padlet-y0eb1t6o0m8ht020)
@@ -2673,7 +6084,7 @@
 
 ---
 
-### 113. 来てくれよ〜〜〜〜〜
+### 271. 来てくれよ〜〜〜〜〜
 **Author:** 𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ (Helter_Skelter)
 
 [Attachment 1](https://padlet.com/lomcih/padlet-z2qcvind738yz6el)
@@ -2692,7 +6103,7 @@
 
 ---
 
-### 114. Post 114
+### 272. Post 272
 **Author:** SUIKA#オムライス界隈（オムライス第1代目弟子） (20183977)
 
 [Attachment 1](https://padlet.com/20184020_1/padlet-ieqs1l5em0o0uvus)
@@ -2704,7 +6115,7 @@
 
 ---
 
-### 115. きてね
+### 273. きてね
 **Author:** 赤い猫 𝕒𝕜𝕒𝕚𝕟𝕖𝕜𝕠 (akaineko)
 
 [Attachment 1](https://padlet.com/akaineko/makuro-abc-l3nrvclh56l9htvq)
@@ -2716,7 +6127,7 @@
 
 ---
 
-### 116. ここ来てね！
+### 274. ここ来てね！
 **Author:** 村上 (Eitoooooo)
 
 [Attachment 1](https://zep.us/play/XW0NMG)
@@ -2728,7 +6139,7 @@
 
 ---
 
-### 117. 来てな
+### 275. 来てな
 **Author:** アキラ (8660664)
 
 [Attachment 1](https://padlet.com/8660664/padlet-nts0cbupmrhpkt9j)
@@ -2740,7 +6151,7 @@
 
 ---
 
-### 118. 来て
+### 276. 来て
 **Author:** まさおくん (6pq2bkf1pk)
 
 [Attachment 1](https://padlet.com/6pq2bkf1pk/padlet-ftcn9epbe9jlqrnh)
@@ -2752,7 +6163,7 @@
 
 ---
 
-### 119. woolisbestのプロキシ部屋
+### 277. woolisbestのプロキシ部屋
 **Author:** 削除済みユーザー
 
 <p>プロキシとゲームしかありません。</p><p>ご注意ください。</p>
@@ -2774,7 +6185,7 @@
 
 ---
 
-### 120. 宣伝部屋
+### 278. 宣伝部屋
 **Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
 <p>宣伝しに来よう</p>
@@ -2796,7 +6207,7 @@
 
 ---
 
-### 121. Natsu部屋
+### 279. Natsu部屋
 **Author:** 削除済みユーザー
 
 <p>嵐以外来てください</p><p><br/></p>
@@ -2818,7 +6229,7 @@
 
 ---
 
-### 122. クリスマス・年末年始雑談部屋in2025→2026
+### 280. クリスマス・年末年始雑談部屋in2025→2026
 **Author:** guruma_ESTA (guruma_ESTA)
 
 <p>年末年始・クリスマス専用の雑談部屋！</p><p>エド部屋に基づいた雑談、ピン留め、ミートに加えてイラスト、年末padジャンボ（宝くじ的な何か）、デジタル年賀状などなど年末年始らしいセクションを完備！</p><p><br/></p><p>ちなみにクリスマス雑談部屋も兼ねるのでプレゼント交換も可能！</p><p>これであなたもクリボッチ回避！</p><p>参加者求ム！</p>
@@ -2843,7 +6254,7 @@
 
 ---
 
-### 123. 雑談の森
+### 281. 雑談の森
 **Author:** 削除済みユーザー
 
 <p>自分の部屋です。まだ人が少ないのでぜひ来てください。(ただし荒らし、脅し、脅迫、下ネタこれらは厳禁です🙏)</p>
@@ -2865,7 +6276,7 @@
 
 ---
 
-### 124. 無法地帯
+### 282. 無法地帯
 **Author:** 削除済みユーザー
 
 <p>　拡散希望！！タメ口で来てねー！まだまだ頑張るぞー!最強雑談ゲームいっぱい部屋ー</p>
@@ -2889,7 +6300,7 @@
 
 ---
 
-### 125. なんか部屋
+### 283. なんか部屋
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 <p>雑談でもなんでもやっていって proxy募集中</p>
@@ -2911,7 +6322,7 @@
 
 ---
 
-### 126. Dougaの部屋
+### 284. Dougaの部屋
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 <p>みんなで好きな動画をテキトーに貼り付けてゆっくりしていってね。</p>
@@ -2933,7 +6344,7 @@
 
 ---
 
-### 127. 荒らし以外の何でもしていい部屋
+### 285. 荒らし以外の何でもしていい部屋
 **Author:** 頑張ります (1935111_1)
 
 <p>いろんなこと載せてって</p>
@@ -2955,7 +6366,7 @@
 
 ---
 
-### 128. GAKUタブ部屋
+### 286. GAKUタブ部屋
 **Author:** GAKU　Cookie Clicker楽し〜 (h29c03086_1)
 
 <p>受付部屋を新しくしたので投稿させてもらいました。</p><p><br/></p><p>過疎ってるんで来て下さい(泣)</p><p>AIRMASHで仲良くしてたらいつの間にかできていた部屋です</p><p>マイクラ、AIRMASHなどでみんなで遊ぶときがあります</p><p>特にAIRMASHのプレイヤー絶対に来てね</p><p>みんな仲良しだよ</p>
@@ -2979,7 +6390,7 @@
 
 ---
 
-### 129. ざっつだ ~ ん！
+### 287. ざっつだ ~ ん！
 **Author:** すず (suzu_)
 
 <p>自分の雑談部屋です！</p><p>まだ､そこまで人は多くないから､初期からいてくれた人は管理職あげられるかもです‼︎</p><p>人が増えたらプロ棋士とかも増やしてこうと思ってます！</p><p>エロも増やすかも？</p><p>勉強も少しは教えられます？</p><p>まぁ､私が教えられなくても､他のやっさし−人たちがきっと教えてくれる！(((</p><p><br></p><p>暇な人は来てくださいね？？</p><p>暇じゃなくても来てね？？</p>
@@ -3004,7 +6415,7 @@
 
 ---
 
-### 130. ゲーム プロキシ共有部屋   勉強も高校生ぐらいまでなら教えられるよ！
+### 288. ゲーム プロキシ共有部屋   勉強も高校生ぐらいまでなら教えられるよ！
 **Author:** ライオット (sn121248)
 
 <p>遊びも勉強も両方な部屋です 巨大部屋になりたい！</p>
@@ -3026,7 +6437,7 @@
 
 ---
 
-### 131. waniの部屋
+### 289. waniの部屋
 **Author:** 削除済みユーザー
 
 <p>俺の雑談部屋</p><p>いつかはどこよりも人が多い部屋にする</p><p>なんでもしよ</p>
@@ -3050,7 +6461,7 @@
 
 ---
 
-### 132. マイクラコード公開部屋
+### 290. マイクラコード公開部屋
 **Author:** GAKU　Cookie Clicker楽し〜 (h29c03086_1)
 
 <p>ただのマイクラ専門部屋じゃない！</p><p>みんなでマイクラをするための部屋！</p>
@@ -3074,7 +6485,7 @@
 
 ---
 
-### 133. ゲームサイトやプロキシなどの共有広場
+### 291. ゲームサイトやプロキシなどの共有広場
 **Author:** INFINITY (nanasisan)
 
 <p>プロキシ部屋などを多く配布しています。</p><p>最近は荒らし対策に力を入れてます！</p><p>管理者3人とモデ3人で頑張っています現在は</p>
@@ -3096,7 +6507,7 @@
 
 ---
 
-### 134. こんにちはあ
+### 292. こんにちはあ
 **Author:** tomeeetooo (tomeeetooo)
 
 <p>暇な人は来ましょう</p><p><br/></p>
@@ -3118,7 +6529,7 @@
 
 ---
 
-### 135. waniの部屋
+### 293. waniの部屋
 **Author:** 削除済みユーザー
 
 <p>みんなで楽しくワイワイ雑談やゲームをしましょう！！</p><p>過度な暴言やグロはやめましょう！</p>
@@ -3140,7 +6551,7 @@
 
 ---
 
-### 136. がら空きの部屋
+### 294. がら空きの部屋
 **Author:** 削除済みユーザー
 
 <p>人がいないので増やしたい</p><p>（荒らしとグOとエO禁止）</p>
@@ -3164,7 +6575,7 @@
 
 ---
 
-### 137. a
+### 295. a
 **Author:** アヘへ (r0404229_2)
 
 <p>a</p>
@@ -3186,7 +6597,7 @@
 
 ---
 
-### 138. Sphere lobby
+### 296. Sphere lobby
 **Author:** guruma_ESTA (guruma_ESTA)
 
 <p>雑談部屋からゲーム部屋、荒らし対策まで様々な領域を網羅！</p><p>絶対来てね〜</p>
@@ -3208,7 +6619,7 @@
 
 ---
 
-### 139. 陸上やってる人集合
+### 297. 陸上やってる人集合
 **Author:** 陸上市内最強(市内だけよ) (kowkid)
 
 <p>陸上やってる人達でいろんな話をします！！</p>
@@ -3236,7 +6647,7 @@
 
 ---
 
-### 140. プロキシ倉庫
+### 298. プロキシ倉庫
 **Author:** 削除済みユーザー
 
 <p>プロキシを貼っています</p>
@@ -3258,7 +6669,7 @@
 
 ---
 
-### 141. 第一回冬休みコラ画コンテストの実行委員受付部屋
+### 299. 第一回冬休みコラ画コンテストの実行委員受付部屋
 **Author:** guruma_ESTA (guruma_ESTA)
 
 <p>全員強制参加です（）</p><p>来てね〜</p>
@@ -3280,7 +6691,7 @@
 
 ---
 
-### 142. エ◯部屋のリンクもあるよ！3週間で閲覧数20000を達成した部屋！
+### 300. エ◯部屋のリンクもあるよ！3週間で閲覧数20000を達成した部屋！
 **Author:** 削除済みユーザー
 
 <p>人めっちゃいるよ（マジで）</p>
@@ -3302,7 +6713,7 @@
 
 ---
 
-### 143. 俺と話したいやつきて
+### 301. 俺と話したいやつきて
 **Author:** 削除済みユーザー
 
 <p>とくにない</p>
@@ -3326,7 +6737,7 @@
 
 ---
 
-### 144. 《S.A.V.T.F》Sphere Anti-Vandalism Task Force
+### 302. 《S.A.V.T.F》Sphere Anti-Vandalism Task Force
 **Author:** Guruma_sub (ESTAcancel)
 
 <p>日本最大級の荒らし対策部屋を目指している部屋。</p><p>荒らし対策、荒らし保存に特化したセクション、投稿フィールド。</p><p><br/></p>
@@ -3350,7 +6761,7 @@
 
 ---
 
-### 145. 規制回避したい人集まってー
+### 303. 規制回避したい人集まってー
 **Author:** sashasu11127
 
 <p>最近作ったんで入ってくださーい</p><p>今なら条件満たせば管理者あげます</p>
@@ -3372,7 +6783,7 @@
 
 ---
 
-### 146. 昆布おにぎりの部屋
+### 304. 昆布おにぎりの部屋
 **Author:** Re Ball Bar クッキー　やったー民　＃猫信者　第四使徒　元(略して ん部ぎ ) (akymjxm)
 
 <p>人が少ないから民度がいい</p><p>みんなで仲良く話せる空間です</p><p>プロキシもあるよ</p>
@@ -3396,7 +6807,7 @@
 
 ---
 
-### 147. かめかめ合衆国
+### 305. かめかめ合衆国
 **Author:** 削除済みユーザー
 
 <p>まだ作ったばかりなので人はいないけど、　みんなと楽しく話せる部屋を作っていきたいです。</p><p>みんな来てね</p>
@@ -3418,7 +6829,7 @@
 
 ---
 
-### 148. ピカマンの部屋4代目です。
+### 306. ピカマンの部屋4代目です。
 **Author:** ピカマン#究極のさくらもちの従僕#煮物貢献者#煮物様の3番弟子#かしわもちうまっ#無法地帯最高！ (pikamannsakuramotinojuuboku)
 
 <p>悲しいことに乗っ取り犯にまたアカウントを乗っ取られてしまい、早急にリメイクした部屋となっています。(ちなみに乗っ取り犯は有名な方でした。もし、その人からもらったパドレットのアカウントだと、ある程度した後にパスワードが変更されて操作できなくなるかもしれませんw www。もしかしたらあなたもその1人かも・・・)私自身はパドレットのアカウントがあればしぶとく永遠に生き続けるので応援よろしくお願いします。</p>
@@ -3442,7 +6853,7 @@
 
 ---
 
-### 149. 視聴部屋
+### 307. 視聴部屋
 **Author:** 𝓶𝓪𝓴𝓪𝓻𝓸𝓷𝓲　＃ ＠低浮上 (3232333301099710797114111110105)
 
 <ul><li><p>色々な動画や、曲、歌などがある部屋です！</p></li><li><p>動画などのダウンロード可能です！(送信主から無断で入手は禁止です。</p></li><li><p>誰でも歓迎！</p></li></ul>
@@ -3464,7 +6875,7 @@
 
 ---
 
-### 150. 雑談とか色々!閲覧16000達成!
+### 308. 雑談とか色々!閲覧16000達成!
 **Author:** Magurock (偽物･偽造に注意) (Magurock)
 
 <ul><li><p><mark>閲覧16000回達成</mark>した部屋（みんなの広場）がある!</p></li><li><p>雑談、規制回避、Minecraft鯖、荒らし対策など<mark>色々ある!</mark></p></li><li><p><mark>どんな人でも大歓迎!</mark>（さすがにルール違反する人以外）</p></li></ul>
@@ -3488,7 +6899,7 @@
 
 ---
 
-### 151. みんなの雑談コーナー
+### 309. みんなの雑談コーナー
 **Author:** Gogogo (Opppppppppp)
 
 <p>雑談だけじゃなく他もゲームとか色々あります今きたら古参です！</p><p>楽しいのできてください！</p>
@@ -3510,7 +6921,7 @@
 
 ---
 
-### 152. イベント開催中！！来いよ！
+### 310. イベント開催中！！来いよ！
 **Author:** 玲霧 (zupdep)
 
 <p>現在イベント開催中！！最近まじで人増やしたいからきてほしい！</p>
@@ -3535,7 +6946,7 @@
 
 ---
 
-### 153. 誠意大将軍の雑談部屋
+### 311. 誠意大将軍の雑談部屋
 **Author:** 27年2月末迄低浮上のウェザエモン (masakik)
 
 <p>僕の部屋ではみんなが雑談している部屋にしたいです。</p><p>只今無料開放中です！ライター権限の申請は必要ありません！</p><p>※部屋で投稿やコメントした時点でコラボレーター入りさせていただきます。</p><p>また、今なら高頻度の浮上ができる人のみ希望者はモデ・管理者権限を付与できます！</p><p>ぜひ来てね～</p>
@@ -3559,7 +6970,7 @@
 
 ---
 
-### 154. 猫大好きな人の部屋＆スプラ好きの部屋
+### 312. 猫大好きな人の部屋＆スプラ好きの部屋
 **Author:** ねこ缶マスター (ZRXARS)
 
 <p>受付部屋です</p><p>猫好きな人の雑談部屋とスプラ好きな人といっしょにイベントとかをやる部屋です</p><p>閲覧数は2つの部屋合わせても300ぐらいです（だから来てね）</p>
@@ -3581,7 +6992,7 @@
 
 ---
 
-### 155. パンダの雑談部屋
+### 313. パンダの雑談部屋
 **Author:** パンダ (pannda)
 
 <p>とっても過疎いです</p><p>でも、頑張ってプロキシを増やそうとしているので入ってほしいです</p>
@@ -3603,7 +7014,7 @@
 
 ---
 
-### 156. ネギ部屋
+### 314. ネギ部屋
 **Author:** ネギ (dfjk2458)
 
 <p>正直あんま人いないけど楽しいところではある　これといったいいとこはないけど楽しい部屋</p>
@@ -3627,7 +7038,7 @@
 
 ---
 
-### 157. 今ならイベントもやってるよ！要望にも答えるのでぜひ来てね！
+### 315. 今ならイベントもやってるよ！要望にも答えるのでぜひ来てね！
 **Author:** 玲霧 (zupdep)
 
 <p>部屋の閲覧数もっと低いです！なのでめっちゃ来てほしいです！</p><p><br></p>
@@ -3651,47 +7062,4 @@
 
 ## サムネイル
 
-### 1. Post 1
-**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/fa794b5211e82587109b8d1bc61c2e29/________1_.png?Expires=1779936559&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=oZwl3ftrUPdADADjmFEu9jSl%2B8NFUv9j2oWfFxlqXdzgTzKBg7rjLLLG0HbY1RSFilrJkFaSs5cF0ZEiCYyxi14G8UCEVz4wQsJKHvKzpYsevELVbUPUvOWUqlObbncuoNuBBJL6fgxVXFHQ%2B5OP75qOIpC%2BN51CsyHcrmlUVYQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ffa794b5211e82587109b8d1bc61c2e29%2F________1_.png)
-
-#### Comments (28)
-- **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:10pm): 自分の部屋を宣伝してみて
-- **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:13pm): 皆にもこの部屋で宣伝するように言って欲しい
-- **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:14pm): 何すればいいですか？
-- **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:15pm): ここに宣伝していいんですか？
-- **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:15pm): うん
-- **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:16pm): その代わりに宣伝しろと
-- **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:17pm): いいですよー
-- **Magurock (偽物･偽造に注意)** (Sep 01, 2025 12:17pm): 誰でも宣伝可ですか?
-- **ᏁγᎶ » Tøka_Kuŋ_** (Sep 01, 2025 12:17pm): 誰でもOK！
-- **Magurock (偽物･偽造に注意)** (Sep 01, 2025 12:18pm): 分かりました
-- **GAKU　Cookie Clicker楽し〜** (Sep 01, 2025 12:18pm): やったー！
-- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:30pm): ちょ....ライターください....。
-- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:30pm): 俺が一番が良かった....。
-- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:30pm): せっかく誘ってもらえたのに...。
-- **Magurock (偽物･偽造に注意)** (Sep 01, 2025 12:31pm): 最初からライターですよ
-- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): 投稿できないｗ
-- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): まぐろくどうやった？
-- **Magurock (偽物･偽造に注意)** (Sep 01, 2025 12:31pm): [Attachment](https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd/wish/zV61Q6bqloANQO98) 右下のこれ押すと投稿できます
-- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:31pm): ありがと！！
-- **✧イケメン✧    温玉チーズ牛丼** (Sep 01, 2025 12:32pm): 感謝感謝
-- **✿ 🐬𝒮𝒶𝓉𝒶𝓃🐬 ✿** (Sep 04, 2025 11:50pm): こんにちは！よろしくお願いします！
-- **削除済みユーザー** (Sep 16, 2025 06:58am): 僕もここのこと宣伝していいんですか・・・
-- **27年2月末迄低浮上のウェザエモン** (Sep 17, 2025 07:47am): 僕の部屋が承認されてません
-- **るい** (Oct 07, 2025 10:13am): こんにちは
-- **るい** (Oct 07, 2025 10:13am): 投稿できません
-- **ᏁγᎶ » Tøka_Kuŋ_** (Oct 07, 2025 10:37am): 右の投稿見た？
-- **るい** (Oct 13, 2025 07:16am): ?
-- **ᏁγᎶ » Tøka_Kuŋ_** (Oct 15, 2025 09:45pm): 投稿フォーム載せてるやん
-
-#### Reactions
-- **Emojis:** ❤️ (2)
-
-#### Additional Information
-- **Post color:** Red
-- **Created At (UTC):** Aug 31, 2025 10:32pm
-- **Updated At (UTC):** Oct 26, 2025 07:30am
-
----
+No post
