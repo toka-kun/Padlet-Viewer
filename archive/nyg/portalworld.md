@@ -1,4 +1,4 @@
-最終取得: 2026/05/22 07:48:29
+最終取得: 2026/05/22 08:57:51
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 161
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** May 21, 2026 10:20pm
+- **Updated At (UTC):** May 21, 2026 11:45pm
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -62,9 +62,6 @@
 
 [Attachment 1](https://padlet.com/Toka_Kun_/submission-request/k2qlv3RKMKOnX5Rx?section=317262857)
 
-#### Comments (1)
-- **コウミ** (May 21, 2026 10:06am): 誰かアカウントください
-
 #### Reactions
 - **Emojis:** ❤️ (2)
 
@@ -77,7 +74,51 @@
 
 ## Padletポータルワールド
 
-### 1. エドガー部屋復活！
+### 1. 自由　毎日がeveryday
+**Author:** Io1205 (Io1205)
+
+<p>少しずつ人が増えて来ています♪</p><p>ここはほとんど自由です。</p><p>ぜひ参加してみてね。</p>
+
+**部屋の作成日:** May 21, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 部屋主のみ
+
+**モデレーター数:** 非公開
+
+[Attachment 1](https://padlet.com/padlets/6s95qydmsvhtdh7m)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 11:45pm
+- **Updated At (UTC):** May 21, 2026 11:45pm
+
+---
+
+### 2. ぬほさた部屋(旧りおと部屋)
+**Author:** ぬほさた。 (Nuhosata)
+
+<p>常に人がいる現役最大級の雑談部屋</p>
+
+**部屋の作成日:** April 23, 2026
+
+**閲覧数:** 10,000~24,999
+
+**管理者数:** 部屋主のみ
+
+**モデレーター数:** 5~9
+
+[Attachment 1](https://padlet.com/padlets/wk073c0zgtyl8fxm)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 11:23pm
+- **Updated At (UTC):** May 21, 2026 11:23pm
+
+---
+
+### 3. エドガー部屋復活！
 **Author:** エドガー　|暴走極右暴力団| (ekosikou)
 
 <p>伝説のエドガー部屋</p>
@@ -102,7 +143,7 @@
 
 ---
 
-### 2. とにかく集まれえええええええええええええええええええええええ
+### 4. とにかく集まれえええええええええええええええええええええええ
 **Author:** 閃光☆ (tqu)
 
 <p>初めて作ったのでぜひ来てください！！</p>
@@ -124,7 +165,7 @@
 
 ---
 
-### 3. つだぴー部屋
+### 5. つだぴー部屋
 **Author:** 多分垢BANされます (Bougaii)
 
 <p>かみつ</p>
@@ -149,7 +190,7 @@
 
 ---
 
-### 4. 本気の雑談部屋
+### 6. 本気の雑談部屋
 **Author:** カカコンジュ(エドガーのコラボレーター) (h0421017_1)
 
 <p>荒らし以外なんでもあり</p>
@@ -165,13 +206,13 @@
 [Attachment 1](https://padlet.com/padlets/p6qmcy7ro1ycnc61)
 
 #### Additional Information
-- **Post color:** Red
+- **Post color:** White
 - **Created At (UTC):** May 21, 2026 01:34am
-- **Updated At (UTC):** May 21, 2026 01:34am
+- **Updated At (UTC):** May 21, 2026 11:43pm
 
 ---
 
-### 5. 自由　毎日がeveryday
+### 7. 自由　毎日がeveryday
 **Author:** Io1205 (Io1205)
 
 <p>ワールド変えました。</p><p>受付リンク追加しました。</p><p>このワールドはほとんど自由です。</p><p>今は少ないですが、これからふやしていく予定です。</p><p>よろしくお願いします。</p>
@@ -195,7 +236,7 @@
 
 ---
 
-### 6. 友達部屋
+### 8. 友達部屋
 **Author:** マイスター (r0106429)
 
 <p>友達がネット上にほしい方におすすめ</p><p>人数が今はいないですが増やしていく方針です</p><p>どうかよろしくお願いします</p>
@@ -217,7 +258,7 @@
 
 ---
 
-### 7. callisto部屋
+### 9. callisto部屋
 **Author:** Callisto (JupiterCallisto)
 
 <p>前の部屋は荒らされたため消しました。</p><p>荒らされないよう受付ありにしました</p><p>↓の投稿フォームにメアドを書いて送ってください</p>
@@ -241,7 +282,7 @@
 
 ---
 
-### 8. （＾ー＾）
+### 10. （＾ー＾）
 **Author:** 灰宮先輩は怖くて可愛い (myumuhiba)
 
 <p>ん</p>
@@ -263,7 +304,7 @@
 
 ---
 
-### 9. プロキシ部屋(荒らされたから再建)
+### 11. プロキシ部屋(荒らされたから再建)
 **Author:** 存在がバグ (glitchboy)
 
 <p>荒らされたのでまた最初からです</p><p>閲覧数は前の分も含めてます</p>
@@ -287,7 +328,7 @@
 
 ---
 
-### 10. 色々やる部屋の受付
+### 12. 色々やる部屋の受付
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 <p>受付です</p>
@@ -309,7 +350,7 @@
 
 ---
 
-### 11. 世界一の雑談部屋(にしたい)
+### 13. 世界一の雑談部屋(にしたい)
 **Author:** N (bigbann5678_1)
 
 <p>きっと多分おそらく楽しいはずだから来てね〜</p>
@@ -331,7 +372,7 @@
 
 ---
 
-### 12. クリボッチルーム・シン
+### 14. クリボッチルーム・シン
 **Author:** りな319＃ルミナス族リーダー (RINA0319_RUMINASU)
 
 <p>クリボッチルームの二つ目の部屋です！！この部屋から入ってね。この部屋は、エロ、雑談部屋です。待ってるよーーーーーー！！</p>
@@ -353,29 +394,7 @@
 
 ---
 
-### 13. ゲームとか共有部屋
-**Author:** カカコンジュ(エドガーのコラボレーター) (h0421017_1)
-
-<p>どんどん共有してね</p>
-
-**部屋の作成日:** May 18, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 非公開
-
-[Attachment 1](https://padlet.com/padlets/ho442aecyq46zpsg)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** May 18, 2026 06:24am
-- **Updated At (UTC):** May 18, 2026 07:16am
-
----
-
-### 14. 朧
+### 15. 朧
 **Author:** 時透無一郎 (r0300353)
 
 <p>ゲーム、プロキシ、ユーチューブなどがあります。他にもゲームや漫画の楽しい話ができます。要望や意見なども聞いていますのでぜひ来てください</p>
@@ -397,7 +416,7 @@
 
 ---
 
-### 15. カフート学校
+### 16. カフート学校
 **Author:** 𝑡𝑎𝑖𝑦𝑎𝑘𝑖！ (2514115_1)
 
 <p>治安いい、人多い・優しい、元閲覧数10000、設備いい</p>
@@ -421,7 +440,7 @@
 
 ---
 
-### 16. パドレっと拡散
+### 17. パドレっと拡散
 **Author:** そこら辺のパドレット見てる者　適当に (s11210037_1)
 
 <p>来てほしいです！！！！！</p>
@@ -442,28 +461,6 @@
 - **Post color:** White
 - **Created At (UTC):** May 16, 2026 01:36am
 - **Updated At (UTC):** May 17, 2026 07:07am
-
----
-
-### 17. モデレーター権限あげるから荒らせ二代目
-**Author:** カカコンジュ(エドガーのコラボレーター) (h0421017_1)
-
-<p>荒らせルールなしモデレーター権限荒らせルールなしモデレーター権限荒らせルールなしモデレーター権限</p>
-
-**部屋の作成日:** May 14, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 非公開
-
-[Attachment 1](https://padlet.com/padlets/ippizyjzh01i53gn)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** May 14, 2026 01:02pm
-- **Updated At (UTC):** May 18, 2026 07:16am
 
 ---
 
@@ -3648,7 +3645,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1780008509&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=U9uFH%2BQMS%2FzujLv7mKhjSG%2BRFLqRHqsXArUBILlvYjxQ72BOW4r4%2FPlPJoVKP3seac9lpteFpb%2FfSKPolJnDKxF%2FnlOQ6JTjUbWcOdv%2B8jQl990O2y2k3e%2BAYXSUx7y%2FobZMJjhxK909hARGR%2FNF4JyjBfVBn9xoE2Em2q%2BgG9c%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1780012671&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=re%2BqIzn%2BeNzv87ZqkZbJ0jH%2F2qP%2BNItnRQMKPKDyZ80epBiDhx0oQM%2FBM5gxVQRBDBP%2FL%2BEVGAXEQhe0xmjxFQ2ux0Oypn%2FI6HgUsG7UVT7ES%2B4dFR6%2BALxXnp3WFlobazMy3EHPtp%2B3btnnpPqO6CUzJ6nzcA3FF4Dmakjfjtk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
