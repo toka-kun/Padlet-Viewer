@@ -1,4 +1,4 @@
-最終取得: 2026/05/22 16:40:41
+最終取得: 2026/05/22 22:28:17
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 15
 - **Created At (UTC):** Apr 12, 2026 10:30am
-- **Updated At (UTC):** May 22, 2026 05:55am
+- **Updated At (UTC):** May 22, 2026 12:34pm
 
 ## 受付
 
@@ -176,6 +176,9 @@ No post
 **Author:** とるっぷい (TORI_TORI2)
 
 [Attachment 1](https://padlet.com/edodesu/padlet-m2mmlqn2oow93w4l)
+
+#### Comments (1)
+- **Anonymous** (May 22, 2026 12:34pm): https://padlet.com/68794935/classroom-ofm6dl04v990nsoe
 
 #### Additional Information
 - **Created At (UTC):** Apr 12, 2026 11:24am
