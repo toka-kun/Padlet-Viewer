@@ -1,4 +1,4 @@
-最終取得: 2026/05/22 12:50:14
+最終取得: 2026/05/22 19:46:02
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** May 22, 2026 03:05am
+- **Updated At (UTC):** May 22, 2026 09:25am
 
 ## 受付
 
@@ -254,7 +254,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p><p>※↑は今死んでます</p>
 
-#### Comments (47)
+#### Comments (48)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -302,6 +302,7 @@
 - **静桜  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (May 20, 2026 06:27am): メアド…
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (May 22, 2026 12:56am): 入りたいなら❗️メアドコメントしよう❗️😃
 - **Natsu** (May 22, 2026 03:05am): fenuzubyo@kagi.be　よろ
+- **静桜  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (May 22, 2026 09:25am): おけ
 
 #### Additional Information
 - **Post color:** Red
