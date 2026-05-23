@@ -1,4 +1,4 @@
-最終取得: 2026/05/23 16:13:34
+最終取得: 2026/05/23 20:57:40
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
 - **Posts:** 14
 - **Created At (UTC):** Aug 27, 2024 11:14am
-- **Updated At (UTC):** May 23, 2026 04:15am
+- **Updated At (UTC):** May 23, 2026 11:50am
 
 ## 概要
 
@@ -137,13 +137,14 @@
 ### 3. 部屋の消し方がわかりません
 **Author:** 削除済みユーザー
 
-#### Comments (6)
+#### Comments (7)
 - **うえけんぴ** (Sep 27, 2024 01:44am): ミートゥ
 - **Courteous Leopard** (Apr 26, 2025 12:09am): s４ね
 - **蘊蓄** (May 20, 2025 03:09pm): s4ね
 - **削除済みユーザー** (Jun 28, 2025 07:46am): これは、まじでわからない
 - **匿名** (Sep 29, 2025 12:01pm): s4ねってどういうこと
 - **もや** (Apr 20, 2026 03:25am): https://www.youtube.com/?app=desktop&hl=ja
+- **活動休止** (May 23, 2026 11:50am): 活動休止
 
 #### Additional Information
 - **Post color:** White
@@ -159,7 +160,7 @@
 
 <p>ゲームの募集は雑談セクションではなく、こちらにしてください。</p>
 
-#### Comments (16)
+#### Comments (17)
 - **happyはまぐり???** (Mar 15, 2025 06:08am): スマブラで
 - **happyはまぐり???** (Mar 15, 2025 06:09am): 2LJVBの部屋を開いております良ければ来てください
 - **匿名** (Sep 26, 2025 11:29am): https://eaglecraft.pages.dev/
@@ -176,6 +177,7 @@
 - **トラレロ君5314** (May 16, 2026 10:31pm): Pizza Tower 1.1.0 Web Port
 - **トラレロ君5314** (May 16, 2026 10:31pm): ブロックされました。ガチのミネクラ
 - **天才くん** (May 23, 2026 04:15am): 医師ってゆう名前の人きおつけてマジで荒らしてる
+- **活動休止** (May 23, 2026 11:50am): 活動休止
 
 #### Reactions
 - **Emojis:** ❤️ (2)
@@ -198,6 +200,9 @@
 
 [Attachment 1](https://padlet.com/padlets/ybtryru0lgzpxp34)
 
+#### Comments (1)
+- **活動休止** (May 23, 2026 11:50am): 活動休止
+
 #### Reactions
 - **Emojis:** ❤️ (1)
 
@@ -214,6 +219,9 @@
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <p>★リンク</p><p><a rel="noopener noreferrer nofollow" href="https://lolbeans.io">https://lolbeans.io</a></p><p><br></p><p>★ゲーム内容</p><p>豆たちがレースするやつ(?)</p>
+
+#### Comments (1)
+- **活動休止** (May 23, 2026 11:50am): 活動休止
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -232,6 +240,9 @@
 
 <p>★リンク</p><p><a rel="noopener noreferrer nofollow" href="https://godfield.net">https://godfield.net</a></p><p><br></p><p>★ゲーム内容</p><p>運95%、実力5%の運ゲーカードゲーム</p>
 
+#### Comments (1)
+- **活動休止** (May 23, 2026 11:50am): 活動休止
+
 #### Reactions
 - **Emojis:** ❤️ (1)
 
@@ -248,6 +259,9 @@
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <p>★リンク</p><p><a rel="noopener noreferrer nofollow" href="https://hexanaut.io">https://hexanaut.io</a></p><p><br></p><p>★ゲーム内容</p><p>タイルを取り合うゲーム</p>
+
+#### Comments (1)
+- **活動休止** (May 23, 2026 11:50am): 活動休止
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -287,11 +301,12 @@
 
 **投稿の種類:** ゲームの募集
 
-#### Comments (4)
+#### Comments (5)
 - **Humble Salamander** (Oct 22, 2025 03:20am): 今日？
 - **下ネタ教** (Dec 08, 2025 12:35pm): おっけ
 - **みなちゃん愛好家** (Apr 14, 2026 04:51am): ぺろ
 - **みなちゃん愛好家** (Apr 14, 2026 04:51am): ty
+- **活動休止** (May 23, 2026 11:50am): 活動休止
 
 #### Additional Information
 - **Post color:** White
