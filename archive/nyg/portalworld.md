@@ -1,4 +1,4 @@
-最終取得: 2026/05/23 18:19:01
+最終取得: 2026/05/23 19:50:49
 
 # Padletポータルワールド
 
@@ -305,7 +305,7 @@
 [Attachment 1](https://padlet.com/padlets/wk073c0zgtyl8fxm)
 
 #### Comments (1)
-- **kaki** (May 22, 2026 12:11am): カバー画像終わった
+- **kitami** (May 22, 2026 12:11am): カバー画像終わった
 
 #### Additional Information
 - **Post color:** White
@@ -454,7 +454,7 @@
 ---
 
 ### 17. （＾ー＾）
-**Author:** 灰宮先輩は怖くて可愛い (myumuhiba)
+**Author:** マリアベル (myumuhiba)
 
 <p>ん</p>
 
@@ -1053,7 +1053,7 @@
 ---
 
 ### 43. ブレインロットファイト
-**Author:** 灰宮先輩は怖くて可愛い (myumuhiba)
+**Author:** マリアベル (myumuhiba)
 
 <p>ブレインロットファイト交換</p>
 
@@ -3816,7 +3816,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1780132741&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tKIZjLJjxfFu%2BPwGq%2BQVxEKS3sNVMhX%2BHLcYLfqJVkMYQhePBFlnYMfma%2BE9IN07P8%2FVHuXmJ6nIgE0zLqTo9I4hJpQ35DJspilL8bhY8wKgCxX3ivjJJRv5nvggmgSt5fGxM7ftwsrF7F2XpsqBNWMF1L%2BIFBj8lRsCmNFn5p4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1780138249&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=UI7ea5BqZVdjYhUadJPsqpluttZowrPrD6EJxwWnMvMpLtY2erhdnXOrFASqQ%2FTp8tQIAU6Ohv9E25DYPjSGReJGfuJv9zhn%2Fpnc3p9A9QFsYzosX3F7TSr4VOPHuyf31nFU0GfpKjQWczvhFJ6S3K1MinaxafIAjYkU8nPK%2BoA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
