@@ -1,4 +1,4 @@
-最終取得: 2026/05/16 11:09:23
+最終取得: 2026/05/26 13:42:21
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 11
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** May 16, 2026 01:07am
+- **Updated At (UTC):** May 26, 2026 03:51am
 
 ## ルール
 
@@ -40,6 +40,9 @@
 <p>公式サイトだよん</p>
 
 [Attachment 1](https://kiseikaijo.wixsite.com/kiseikaijocenter)
+
+#### Comments (1)
+- **Anonymous** (May 26, 2026 03:51am): あ
 
 #### Additional Information
 - **Post color:** Red
