@@ -1,0 +1,324 @@
+name: Padletアーカイブ一括取得 4
+
+on:
+  schedule:
+    # 毎時9分と39分に実行
+    - cron: '9,39 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-archives:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: フォルダ作成とデータ取得
+        run: |
+          # --- 設定エリア ---
+          
+          # 日本時間に設定
+          export TZ='Asia/Tokyo'
+          
+          # 保存先のフォルダをまとめて作成
+          mkdir -p archive/nyg archive/woolisbest archive/magurock archive/kiseikaijoiinkai
+
+          # 待機時間を決定（無料枠節約のため短縮）
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            SLEEP_TIME=1
+          else
+            SLEEP_TIME=2
+          fi
+          
+          echo "現在のモード: ${{ github.event_name }}"
+          echo "待機時間: ${SLEEP_TIME}秒"
+
+          # ==========================================
+          # JSON一括構築用Pythonスクリプト
+          # ==========================================
+          cat << 'EOF' > build_info_json.py
+          import sys, json, re, os
+          from datetime import datetime, timedelta
+          from collections import OrderedDict
+
+          order_file = sys.argv[1]
+          info_json_path = 'info.json'
+
+          # 実行順に書き出されたリストを読み込む
+          with open(order_file, 'r', encoding='utf-8') as f:
+              keys = [line.strip() for line in f if line.strip()]
+
+          data = OrderedDict()
+
+          # UTCからJSTへ変換する関数
+          def convert_time(time_str):
+              if not time_str: return ""
+              time_str = re.sub(r'\s+', ' ', time_str.strip())
+              time_str_upper = time_str.replace('am', 'AM').replace('pm', 'PM')
+              
+              try: # 英語フォーマット
+                  dt = datetime.strptime(time_str_upper, "%b %d, %Y %I:%M%p")
+                  dt += timedelta(hours=9)
+                  return dt.strftime("%Y/%m/%d %H:%M:%S")
+              except ValueError:
+                  pass
+                  
+              try: # 日本語フォーマット(年省略)
+                  dt = datetime.strptime(time_str, "%m/%d %H:%M")
+                  dt += timedelta(hours=9)
+                  return dt.strftime("%m/%d %H:%M")
+              except ValueError:
+                  pass
+                  
+              return time_str
+
+          # 各ファイルからメタデータを抽出
+          for key in keys:
+              md_path = f"archive/{key}.md"
+              if not os.path.exists(md_path):
+                  continue # まだダウンロードされていないファイルはスキップ
+                  
+              with open(md_path, 'r', encoding='utf-8') as f:
+                  content = f.read()
+                  
+              lines = [line.strip() for line in content.split('\n')]
+              
+              fetched = ""
+              # マークダウンの1行目にある「最終取得: YYYY/MM/DD ...」から取得時刻を抽出
+              if lines and lines[0].startswith("最終取得: "):
+                  fetched = lines[0].replace("最終取得: ", "").strip()
+              
+              # 3行目以降が実際のデータ
+              content_lines = lines[2:] if len(lines) > 2 else []
+              
+              title = ""
+              desc = ""
+              link = ""
+              builder = ""
+              posts = "0"
+              created = ""
+              updated = ""
+
+              if content_lines and content_lines[0].startswith('# '):
+                  title = content_lines[0][2:]
+
+              for line in content_lines[1:10]:
+                  if line == "": continue
+                  if line.startswith('## '): break
+                  desc = line
+                  break
+
+              for line in content_lines[:20]:
+                  m_link = re.search(r'\*\*(?:Link|リンク):\*\*\s*(.*)', line)
+                  if m_link: link = m_link.group(1)
+                  
+                  m_builder = re.search(r'\*\*(?:Builder|所有者):\*\*\s*(.*)', line)
+                  if m_builder: builder = m_builder.group(1)
+                  
+                  m_posts = re.search(r'\*\*(?:Posts|投稿):\*\*\s*(.*)', line)
+                  if m_posts: posts = m_posts.group(1)
+                  
+                  m_created = re.search(r'\*\*(?:Created At \(UTC\)|作成日（UTC）):\*\*\s*(.*)', line)
+                  if m_created: created = convert_time(m_created.group(1))
+                  
+                  m_updated = re.search(r'\*\*(?:Updated At \(UTC\)|更新日（UTC）):\*\*\s*(.*)', line)
+                  if m_updated: updated = convert_time(m_updated.group(1))
+
+              try:
+                  posts = int(posts)
+              except ValueError:
+                  pass
+
+              # 順番通りにデータを格納
+              data[key] = {
+                  "title": title,
+                  "desc": desc,
+                  "link": link,
+                  "builder": builder,
+                  "posts": posts,
+                  "created": created,
+                  "updated": updated,
+                  "fetched": fetched
+              }
+
+          # info.json へ一括書き出し
+          with open(info_json_path, 'w', encoding='utf-8') as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+          EOF
+
+
+          # --- 関数定義 ---
+          > padlet_order.txt # 順番記録用のファイルを初期化
+
+          # 【 info.json に入れる用 】
+          function save_padlet {
+            local URL=$1
+            local OUT_FILE=$2
+            local KEY="${OUT_FILE#archive/}"
+            KEY="${KEY%.md}"
+            
+            # JSONに書き出す順番を記録
+            echo "$KEY" >> padlet_order.txt
+            
+            # 1. 一旦データを一時ファイルにダウンロード
+            if curl -L --compressed -s -o temp_download.md "$URL"; then
+                
+                # 1.5. 空白ファイルチェック：サイズが0バイトならエラーとしてスキップ
+                if [ ! -s temp_download.md ]; then
+                    echo "⚠️ エラー: $OUT_FILE はデータが空白でした。更新をスキップします。"
+                    rm temp_download.md
+                    return 0
+                fi
+
+                # 2. 中身のチェック：先頭が "<!DOCTYPE html>" だったらスキップ
+                if head -n 1 temp_download.md | grep -q "<!DOCTYPE html>"; then
+                    echo "⚠️ スキップ: $OUT_FILE はエラーページ(HTML)でした。更新しません。"
+                    rm temp_download.md
+                    return 0
+                fi
+
+                # 3. 変更チェック（diffコマンドで比較）
+                if [ -f "$OUT_FILE" ]; then
+                    # 既存ファイルのヘッダー（1,2行目）を除外したものを一時作成
+                    tail -n +3 "$OUT_FILE" > current_body.tmp
+                    
+                    if diff -q --strip-trailing-cr temp_download.md current_body.tmp > /dev/null; then
+                        echo "✅ 変更なし: $OUT_FILE (更新日時も維持します)"
+                        rm temp_download.md current_body.tmp
+                        return 0 # 変更がないので終了
+                    fi
+                    
+                    rm current_body.tmp
+                fi
+
+                # 4. 変更があった（または初回）場合、保存処理を実行
+                NOW=$(date "+%Y/%m/%d %H:%M:%S")
+                
+                # ヘッダー（日時と空行）を書き込み（上書き）
+                echo "最終取得: $NOW" > "$OUT_FILE"
+                echo "" >> "$OUT_FILE"
+                
+                # ダウンロードした中身を追記
+                cat temp_download.md >> "$OUT_FILE"
+                
+                # 一時ファイルを削除
+                rm temp_download.md
+                echo "🔄 更新完了: $OUT_FILE ($NOW)"
+
+            else
+                echo "❌ エラー: ダウンロード失敗 $OUT_FILE"
+            fi
+            
+            # 休憩
+            sleep $SLEEP_TIME
+          }
+
+          # 【 info.json に入れない用】
+          function save_padlet2 {
+            local URL=$1
+            local OUT_FILE=$2
+            
+            # ※ padlet_order.txt への記録を行わないため、info.json から除外されます
+            
+            if curl -L --compressed -s -o temp_download.md "$URL"; then
+                if [ ! -s temp_download.md ]; then
+                    echo "⚠️ エラー: $OUT_FILE はデータが空白でした。更新をスキップします。"
+                    rm temp_download.md
+                    return 0
+                fi
+
+                if head -n 1 temp_download.md | grep -q "<!DOCTYPE html>"; then
+                    echo "⚠️ スキップ: $OUT_FILE はエラーページ(HTML)でした。更新しません。"
+                    rm temp_download.md
+                    return 0
+                fi
+
+                if [ -f "$OUT_FILE" ]; then
+                    tail -n +3 "$OUT_FILE" > current_body.tmp
+                    if diff -q --strip-trailing-cr temp_download.md current_body.tmp > /dev/null; then
+                        echo "✅ 変更なし: $OUT_FILE (更新日時も維持します)"
+                        rm temp_download.md current_body.tmp
+                        return 0
+                    fi
+                    rm current_body.tmp
+                fi
+
+                NOW=$(date "+%Y/%m/%d %H:%M:%S")
+                echo "最終取得: $NOW" > "$OUT_FILE"
+                echo "" >> "$OUT_FILE"
+                cat temp_download.md >> "$OUT_FILE"
+                rm temp_download.md
+                echo "🔄 更新完了(info除外): $OUT_FILE ($NOW)"
+            else
+                echo "❌ エラー: ダウンロード失敗 $OUT_FILE"
+            fi
+            
+            sleep $SLEEP_TIME
+          }
+
+          # ==========================================
+          # 実行エリア
+          # ==========================================
+
+          # --- 1. nyg シリーズ ---
+          save_padlet "https://padlet.com/padlets/a8v7cjbbfni702kg/exports/markdown.md" "archive/nyg/main.md"
+          save_padlet "https://padlet.com/padlets/scvs0iw7tdatft21/exports/markdown.md" "archive/nyg/archive.md"
+          save_padlet "https://padlet.com/padlets/ybtryru0lgzpxp34/exports/markdown.md" "archive/nyg/ssjc.md"
+          save_padlet "https://padlet.com/padlets/lpiw7xio9gwnmxrd/exports/markdown.md" "archive/nyg/portalworld.md"
+          save_padlet "https://padlet.com/padlets/i0fd897smvjo0tvj/exports/markdown.md" "archive/nyg/arashitaisaku.md"
+          save_padlet "https://padlet.com/padlets/4b9092979b4e6dlm/exports/markdown.md" "archive/nyg/games.md"
+          save_padlet "https://padlet.com/padlets/hqm4zg0lw3smlc23/exports/markdown.md" "archive/nyg/ssjt2025.md"
+
+          # --- 2. woolisbest シリーズ ---
+          save_padlet "https://padlet.com/padlets/99xq7bb7zjzcfzw0/exports/markdown.md" "archive/woolisbest/lobby.md"
+          save_padlet "https://padlet.com/padlets/f46agi7nbsmz8boy/exports/markdown.md" "archive/woolisbest/main.md"
+
+          # --- 3. magurock シリーズ ---
+          save_padlet "https://padlet.com/padlets/e9n4zhdx6ucfbaa4/exports/markdown.md" "archive/magurock/lobby.md"
+          save_padlet "https://padlet.com/padlets/v7eblregk0t2eq0k/exports/markdown.md" "archive/magurock/main.md"
+
+          # --- 4. kiseikaijoiinkai シリーズ ---
+          save_padlet "https://padlet.com/padlets/5db70e80bto7rnxl/exports/markdown.md" "archive/kiseikaijoiinkai/lobby.md"
+          save_padlet "https://padlet.com/padlets/g07iihoi22rh2q7l/exports/markdown.md" "archive/kiseikaijoiinkai/main.md"
+
+          # --- 5. その他の単独ファイル ---
+          save_padlet "https://padlet.com/padlets/zsdegt1d6scuq9qa/exports/markdown.md" "archive/beruri.md"
+          save_padlet "https://padlet.com/padlets/fj7pwrjfd44519fq/exports/markdown.md" "archive/bonjour.md"
+          save_padlet "https://padlet.com/padlets/afg5jcs1w4yyk2h1/exports/markdown.md" "archive/hikari.md"
+          save_padlet "https://padlet.com/padlets/kulz2hpe9vtrxep4/exports/markdown.md" "archive/itrsa.md"
+          save_padlet "https://padlet.com/padlets/34b6kq9lghbe3rtm/exports/markdown.md" "archive/kabotya.md"
+          save_padlet "https://padlet.com/padlets/5ggicyna1yjvquxr/exports/markdown.md" "archive/obungu.md"
+          save_padlet "https://padlet.com/padlets/n0g1c0jl2ak3grc5/exports/markdown.md" "archive/sennin.md"
+          save_padlet "https://padlet.com/padlets/236elh6xnvi2nw9q/exports/markdown.md" "archive/romanpearce.md"
+          save_padlet2 "https://padlet.com/padlets/okjy1jmzjzdbb5jm/exports/markdown.md" "archive/ouga.md"
+
+          # --- 全ての取得完了後に info.json を一括生成 ---
+          echo "🔄 info.json を構築しています..."
+          if [ -f padlet_order.txt ]; then
+              python3 build_info_json.py padlet_order.txt
+              rm padlet_order.txt
+          else
+              echo "info.json に追加するデータがありませんでした。"
+          fi
+          
+          # 一時ファイルを削除
+          rm build_info_json.py
+
+      - name: まとめて保存
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          
+          # archiveフォルダと info.json を追加
+          git add archive/ info.json
+          
+          if git diff --staged --quiet; then
+            echo "変更がなかったので保存しません"
+          else
+            git commit -m "アーカイブデータとメタデータを一括更新"
+            git pull origin main --rebase
+            git push
+          fi
