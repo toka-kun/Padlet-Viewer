@@ -1,4 +1,4 @@
-最終取得: 2026/05/27 17:47:55
+最終取得: 2026/05/27 20:56:23
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
 - **Posts:** 14
 - **Created At (UTC):** Aug 27, 2024 11:14am
-- **Updated At (UTC):** May 23, 2026 11:50am
+- **Updated At (UTC):** May 27, 2026 11:23am
 
 ## 概要
 
@@ -21,7 +21,7 @@
 **投稿の種類:** その他
 
 #### Reactions
-- **Emojis:** ❤️ (4)
+- **Emojis:** ❤️ (5)
 
 #### Additional Information
 - **Post color:** Yellow
@@ -48,7 +48,7 @@
 - **マドアカリ** (May 02, 2026 11:35am): ゆきYouTubeありますか
 
 #### Reactions
-- **Emojis:** ❤️ (2)
+- **Emojis:** ❤️ (3)
 
 #### Additional Information
 - **Post color:** Yellow
@@ -65,7 +65,7 @@
 <p>内容等を追加、編集してほしい場合はここにコメントをしてください。</p><p><br></p>
 
 #### Reactions
-- **Emojis:** ❤️ (2)
+- **Emojis:** ❤️ (3)
 
 #### Additional Information
 - **Post color:** Purple
@@ -87,7 +87,7 @@
 - **オオクラサネヨシ** (May 17, 2026 06:36am): 俺も
 
 #### Reactions
-- **Emojis:** ❤️ (2)
+- **Emojis:** ❤️ (3)
 
 #### Additional Information
 - **Post color:** Purple
@@ -180,7 +180,7 @@
 - **戸田家好き** (May 23, 2026 11:50am): 活動休止
 
 #### Reactions
-- **Emojis:** ❤️ (2)
+- **Emojis:** ❤️ (3)
 
 #### Additional Information
 - **Post color:** Yellow
@@ -204,7 +204,7 @@
 - **戸田家好き** (May 23, 2026 11:50am): 活動休止
 
 #### Reactions
-- **Emojis:** ❤️ (1)
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Yellow
@@ -224,7 +224,7 @@
 - **戸田家好き** (May 23, 2026 11:50am): 活動休止
 
 #### Reactions
-- **Emojis:** ❤️ (1)
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Yellow
@@ -244,7 +244,7 @@
 - **戸田家好き** (May 23, 2026 11:50am): 活動休止
 
 #### Reactions
-- **Emojis:** ❤️ (1)
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Yellow
@@ -264,7 +264,7 @@
 - **戸田家好き** (May 23, 2026 11:50am): 活動休止
 
 #### Reactions
-- **Emojis:** ❤️ (1)
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** Yellow
@@ -284,8 +284,12 @@
 
 ![https://uploads.scratch.mit.edu/projects/thumbnails/1045090037.png](https://uploads.scratch.mit.edu/projects/thumbnails/1045090037.png)
 
+#### Comments (2)
+- **弓場重観** (May 27, 2026 11:15am): た
+- **弓場重観** (May 27, 2026 11:15am): う
+
 #### Reactions
-- **Emojis:** ❤️ (4)
+- **Emojis:** ❤️ (6)
 
 #### Additional Information
 - **Post color:** Red
