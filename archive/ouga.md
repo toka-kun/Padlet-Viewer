@@ -1,4 +1,4 @@
-最終取得: 2026/05/27 07:53:08
+最終取得: 2026/05/27 14:04:08
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 410
+- **Posts:** 416
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** May 26, 2026 10:32pm
+- **Updated At (UTC):** May 27, 2026 03:20am
 
 ## 管理者　連絡
 
@@ -33,7 +33,23 @@
 
 ---
 
-### 2. アモンガスのゲームありますか
+### 2. ゲームできる
+**Author:** 俺だぞ〜（三橋） (H2822063)
+
+<p>（学校のGoogleアカウントがあったら無理だから）</p><p>（学校のGoogleアカウントがある場合プライベートでやったらいける）</p>
+
+**星評価:** 0 / 5 ⭐
+
+[Attachment 1](https://sites.google.com/view/drive-u-7-home-2/home)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** May 27, 2026 02:36am
+- **Updated At (UTC):** May 27, 2026 02:37am
+
+---
+
+### 3. アモンガスのゲームありますか
 **Author:** 久保 (21070046)
 
 **星評価:** 1.0 / 5 ⭐ (1)
@@ -45,7 +61,7 @@
 
 ---
 
-### 3. サッカーのゲームある？
+### 4. サッカーのゲームある？
 **Author:** 久保 (21070046)
 
 **星評価:** 0 / 5 ⭐
@@ -57,7 +73,7 @@
 
 ---
 
-### 4. 時透無一郎さん暴言野郎いまーすあの前のthe人間ってひと
+### 5. 時透無一郎さん暴言野郎いまーすあの前のthe人間ってひと
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -73,7 +89,7 @@
 
 ---
 
-### 5. マイクラできるサイトありますか？
+### 6. マイクラできるサイトありますか？
 **Author:** 久保 (21070046)
 
 **星評価:** 0 / 5 ⭐
@@ -94,7 +110,7 @@
 
 ---
 
-### 6. みんなどんどんコメント打ってね見てるだけじゃなく
+### 7. みんなどんどんコメント打ってね見てるだけじゃなく
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -113,7 +129,7 @@
 
 ---
 
-### 7. こんにちわ
+### 8. こんにちわ
 **Author:** スリ
 
 **星評価:** 4.4 / 5 ⭐ (5)
@@ -156,7 +172,7 @@
 
 ---
 
-### 8. 色々あったので名前変えました
+### 9. 色々あったので名前変えました
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -179,7 +195,7 @@
 
 ---
 
-### 9. 春休みあんま動けてなかったから今から再始動します！
+### 10. 春休みあんま動けてなかったから今から再始動します！
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -191,7 +207,7 @@
 
 ---
 
-### 10. 注意　他のパドレットに宣伝してるれるのはいいんですけどルールは守って宣伝して欲しいです！！
+### 11. 注意　他のパドレットに宣伝してるれるのはいいんですけどルールは守って宣伝して欲しいです！！
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -203,7 +219,7 @@
 
 ---
 
-### 11. じゃあみんなバイバイ！
+### 12. じゃあみんなバイバイ！
 **Author:** おうが (18jt026)
 
 **星評価:** 5.0 / 5 ⭐ (2)
@@ -224,7 +240,7 @@
 
 ---
 
-### 12. 管理者になりましたよろしくお願いします
+### 13. 管理者になりましたよろしくお願いします
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -249,7 +265,7 @@
 
 ---
 
-### 13. 最近楽しいこと
+### 14. 最近楽しいこと
 **Author:** あかさたな
 
 **星評価:** 0 / 5 ⭐
@@ -261,7 +277,7 @@
 
 ---
 
-### 14. 管理者ください
+### 15. 管理者ください
 **Author:** Sky (hoangquipquip)
 
 **星評価:** 0 / 5 ⭐
@@ -278,7 +294,7 @@
 
 ---
 
-### 15. ルール　暴言、性的な言動、個人情報の流出はモデレーターに削除してもらいます　掲示板以外に宣伝したコメントは全て削除　　みんな仲良く楽しんでください！！
+### 16. ルール　暴言、性的な言動、個人情報の流出はモデレーターに削除してもらいます　掲示板以外に宣伝したコメントは全て削除　　みんな仲良く楽しんでください！！
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -296,7 +312,7 @@
 
 ---
 
-### 16. 最近みんな見てくれない、、、何かダメなところとかある？
+### 17. 最近みんな見てくれない、、、何かダメなところとかある？
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -320,7 +336,7 @@
 
 ---
 
-### 17. モデレーターなってくれる人募集しますメリットは自分の鯖を宣伝できる投稿ができるして欲しいことは荒らしのコメントをどんどん消してほしい
+### 18. モデレーターなってくれる人募集しますメリットは自分の鯖を宣伝できる投稿ができるして欲しいことは荒らしのコメントをどんどん消してほしい
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -352,7 +368,7 @@
 
 ---
 
-### 18. hiro mc6881この人荒らし
+### 19. hiro mc6881この人荒らし
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -372,7 +388,7 @@
 
 ---
 
-### 19. モデレーターになった方は暴言、誹謗中傷、個人情報などのコメントはじゃんじゃん消してください！！自分の鯖を紹介したい人は1つだけなら投稿okそれ以上は僕が消しますそしてモデから消しますそれだけは守ってください
+### 20. モデレーターになった方は暴言、誹謗中傷、個人情報などのコメントはじゃんじゃん消してください！！自分の鯖を紹介したい人は1つだけなら投稿okそれ以上は僕が消しますそしてモデから消しますそれだけは守ってください
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -389,7 +405,7 @@
 
 ---
 
-### 20. みんなさんのおかげで大きくなってきました！！荒らしとかが怖くなってきたので夜の10時からあさの9時くらいまで凍結さしていただきますご了承ください🙏
+### 21. みんなさんのおかげで大きくなってきました！！荒らしとかが怖くなってきたので夜の10時からあさの9時くらいまで凍結さしていただきますご了承ください🙏
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -405,7 +421,7 @@
 
 ---
 
-### 21. こんにちは！管理者のおうがですここでは仲良く情報共有などができればいいなと思っています！！みなさん拡散お願いします
+### 22. こんにちは！管理者のおうがですここでは仲良く情報共有などができればいいなと思っています！！みなさん拡散お願いします
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -445,7 +461,22 @@
 
 ## 自己紹介
 
-### 1. 暇なんだよおおおお
+### 1. はいってきてーー
+**Author:** GP (21070045_2)
+
+**星評価:** 0 / 5 ⭐
+
+#### Comments (1)
+- **GP** (May 27, 2026 02:29am): https://meet.stuvus.uni-stuttgart.de/HandyPopularitiesStayActually#config.startWithAudioMuted=false&config.startWithVideoMuted=
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** May 27, 2026 02:28am
+- **Updated At (UTC):** May 27, 2026 02:28am
+
+---
+
+### 2. 暇なんだよおおおお
 **Author:** the人間
 
 <p>the人間ですみんなよろ</p>
@@ -459,14 +490,15 @@
 
 ---
 
-### 2. 暇な人あつまれ〜
+### 3. 暇な人あつまれ〜
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
+#### Comments (3)
 - **GP** (May 26, 2026 03:11am): あつまれー
 - **the人間** (May 26, 2026 03:22am): はーーーーーい
+- **GP** (May 27, 2026 02:27am): きたー
 
 #### Additional Information
 - **Post color:** Black
@@ -475,12 +507,12 @@
 
 ---
 
-### 3. Post 3
+### 4. Post 4
 **Author:** スズアカリ
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5706891201/ea798f97faa203b1cd8d6013b3b1fd17/video.webm?Expires=1780440782&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=tUp8sAhBaJW%2FxctDvkhq%2BMUC43m0GET0Owl6mvdl5GwgEEj42uOh5L2FOMIFWWnG%2F8jlZrXehyCQREp3sF%2ByLjbj5qB8ssqKrEvDe%2FYq%2FzwNh6VOd8jsR7y1WCqqZ6NpqujVxxS0XKumZSZ1Io%2BjiAdz1xO6OWjMq%2Fg4M8O3RzQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5706891201%2Fea798f97faa203b1cd8d6013b3b1fd17%2Fvideo.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5706891201/ea798f97faa203b1cd8d6013b3b1fd17/video.webm?Expires=1780463042&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ghABe4yHurwuFxl8JyeNe%2F%2B%2BCBMh8%2Bl6TgLDw4lUYzKVwhEQH3IAoyZDQ24hab0z3LohhdTaN6n%2FnqJRxY3ngClAKlCSP9PYkr6yw3Rbd2Sp%2Bjy11bPAmdA4YzAGsO7wBztrBSEb9Xo2Jxrh0JRihGczOyBUO4wJZM4k%2FvoZyU8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5706891201%2Fea798f97faa203b1cd8d6013b3b1fd17%2Fvideo.webm)
 
 #### Comments (1)
 - **GP** (May 26, 2026 03:11am): ずっと画面が真っ暗
@@ -492,7 +524,7 @@
 
 ---
 
-### 4. 書くの忘れてましたごめんなさい。カゼノネでーす！よろしく！ブロスタまあまあやってます（）
+### 5. 書くの忘れてましたごめんなさい。カゼノネでーす！よろしく！ブロスタまあまあやってます（）
 **Author:** カゼノネ
 
 **星評価:** 0 / 5 ⭐
@@ -508,7 +540,7 @@
 
 ---
 
-### 5. ハルノユキです。よろしくお願いします
+### 6. ハルノユキです。よろしくお願いします
 **Author:** ハルノユキ
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -522,7 +554,7 @@
 
 ---
 
-### 6. お尻
+### 7. お尻
 **Author:** ホシヤネ
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -537,7 +569,7 @@
 
 ---
 
-### 7. ケセランテセさんメールアドレスが無効でした。もう一度お願いします
+### 8. ケセランテセさんメールアドレスが無効でした。もう一度お願いします
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -549,7 +581,7 @@
 
 ---
 
-### 8. そういえばおうがさんどこ行った
+### 9. そういえばおうがさんどこ行った
 **Author:** 天才くん
 
 <p>受験まだかな　帰ってきて欲しい</p>
@@ -568,7 +600,7 @@
 
 ---
 
-### 9. 雀です！こんにちは
+### 10. 雀です！こんにちは
 **Author:** シラナミ
 
 <p>こんにちは。雀です。スズメと読みます。これからよろしくお願いします！！</p>
@@ -589,7 +621,7 @@
 
 ---
 
-### 10. こんにちは
+### 11. こんにちは
 **Author:** 天才の上をいく天才
 
 <p>天才をの上をいく天才</p>
@@ -607,7 +639,7 @@
 
 ---
 
-### 11. 部屋の作り方教えてください
+### 12. 部屋の作り方教えてください
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -619,7 +651,7 @@
 
 ---
 
-### 12. 太田ひないたら返事してな！！！！！！！
+### 13. 太田ひないたら返事してな！！！！！！！
 **Author:** the人間(変態)
 
 **星評価:** 0 / 5 ⭐
@@ -631,7 +663,7 @@
 
 ---
 
-### 13. 新人です。よ、ろ、し、く。
+### 14. 新人です。よ、ろ、し、く。
 **Author:** 削除済みユーザー
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -647,7 +679,7 @@
 
 ---
 
-### 14. 天才くんです
+### 15. 天才くんです
 **Author:** 天才くん
 
 <p>申し遅れました</p><p>これからよろしくお願いいたします</p>
@@ -664,7 +696,7 @@
 
 ---
 
-### 15. こーんーにーちーはー
+### 16. こーんーにーちーはー
 **Author:** みんなで仲良くしよ
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -687,7 +719,7 @@
 
 ---
 
-### 16. ｊｊｊ
+### 17. ｊｊｊ
 **Author:** 野球少年
 
 **星評価:** 0 / 5 ⭐
@@ -699,7 +731,7 @@
 
 ---
 
-### 17. 天才さん　
+### 18. 天才さん　
 **Author:** 天才くん
 
 <p>本名はえぐい</p>
@@ -725,7 +757,7 @@
 
 ---
 
-### 18. 時透無一郎さーーーーーんーーーーーー！
+### 19. 時透無一郎さーーーーーんーーーーーー！
 **Author:** 天才の上をいく天才
 
 <p>いますか？</p>
@@ -748,7 +780,7 @@
 
 ---
 
-### 19. 天才さーん
+### 20. 天才さーん
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -794,7 +826,7 @@
 
 ---
 
-### 20. サーモン好き？寿司です(笑)
+### 21. サーモン好き？寿司です(笑)
 **Author:** 天才のその上をいく天才
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -821,7 +853,7 @@
 
 ---
 
-### 21. 今日誰か9時15分から話そう〜
+### 22. 今日誰か9時15分から話そう〜
 **Author:** ふじ
 
 **星評価:** 0 / 5 ⭐
@@ -837,7 +869,7 @@
 
 ---
 
-### 22. 足立区民の人コメント
+### 23. 足立区民の人コメント
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -849,7 +881,7 @@
 
 ---
 
-### 23. 副会長
+### 24. 副会長
 **Author:** ゴジラ (21070019_1)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -864,7 +896,7 @@
 
 ---
 
-### 24. ロブロックスでセーラーピース　　　　やっている人おる？
+### 25. ロブロックスでセーラーピース　　　　やっている人おる？
 **Author:** あいあい
 
 <p><br/></p><p><br/></p>
@@ -878,7 +910,7 @@
 
 ---
 
-### 25. けいごなりです
+### 26. けいごなりです
 **Author:** けいごなり (keigonari)
 
 **星評価:** 0 / 5 ⭐
@@ -898,7 +930,7 @@
 
 ---
 
-### 26. 何かYouTubeを見れるサイトを教えて
+### 27. 何かYouTubeを見れるサイトを教えて
 **Author:** ノバスター
 
 **星評価:** 0 / 5 ⭐
@@ -910,7 +942,7 @@
 
 ---
 
-### 27. 暴走パンダです
+### 28. 暴走パンダです
 **Author:** 暴走パンダ (8888800811117777)
 
 **星評価:** 0 / 5 ⭐
@@ -928,7 +960,7 @@
 
 ---
 
-### 28. みなさん迷惑かけてすいません
+### 29. みなさん迷惑かけてすいません
 **Author:** the人間
 
 <p>もう迷惑をかけないことを心がけます</p><p><br/></p>
@@ -949,7 +981,7 @@
 
 ---
 
-### 29. フォトナのブレインロット交換しませんか？（交換所）
+### 30. フォトナのブレインロット交換しませんか？（交換所）
 **Author:** やりますねー
 
 <p>えーとですね。はいえーとうん。はい。えーと書くことがないですね…以上です…</p>
@@ -968,7 +1000,7 @@
 
 ---
 
-### 30. Post 30
+### 31. Post 31
 **Author:** 天才くん
 
 <p>Ai画像です</p><p>美味しそうじゃない？</p>
@@ -989,7 +1021,7 @@
 
 ---
 
-### 31. 集合所ここでよろ
+### 32. 集合所ここでよろ
 **Author:** スリ
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -1221,7 +1253,7 @@
 
 ---
 
-### 32. あと今日の夜の9時15分話せる人募集
+### 33. あと今日の夜の9時15分話せる人募集
 **Author:** スリ
 
 <p>決定ふじさん</p>
@@ -1243,7 +1275,7 @@
 
 ---
 
-### 33. 誰かおる
+### 34. 誰かおる
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -1260,7 +1292,7 @@
 
 ---
 
-### 34. みんな来た〜❓
+### 35. みんな来た〜❓
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -1437,7 +1469,7 @@
 
 ---
 
-### 35. 誰かいる？
+### 36. 誰かいる？
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 5.0 / 5 ⭐ (2)
@@ -1536,7 +1568,7 @@
 
 ---
 
-### 36. 本当に助けて　しあみれなくなった
+### 37. 本当に助けて　しあみれなくなった
 **Author:** フェットチーネしか勝たん
 
 **星評価:** 0 / 5 ⭐
@@ -1551,7 +1583,7 @@
 
 ---
 
-### 37. GPさんいる？
+### 38. GPさんいる？
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -1563,7 +1595,7 @@
 
 ---
 
-### 38. 今誰かいる？
+### 39. 今誰かいる？
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -1575,7 +1607,7 @@
 
 ---
 
-### 39. いまいるひとー
+### 40. いまいるひとー
 **Author:** ふじ
 
 **星評価:** 0 / 5 ⭐
@@ -1587,7 +1619,7 @@
 
 ---
 
-### 40. 暇誰か話そぉ〜
+### 41. 暇誰か話そぉ〜
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -1730,7 +1762,7 @@
 
 ---
 
-### 41. 今いる人だれ？
+### 42. 今いる人だれ？
 **Author:** フェットチーネしか勝たん
 
 **星評価:** 0 / 5 ⭐
@@ -1746,7 +1778,7 @@
 
 ---
 
-### 42. 今いる？
+### 43. 今いる？
 **Author:** フェットチーネしか勝たん
 
 **星評価:** 0 / 5 ⭐
@@ -1855,7 +1887,7 @@
 
 ---
 
-### 43. Post 43
+### 44. Post 44
 **Author:** カネヤマヒロキ (gs200458)
 
 <p>ここに入るのが初めてなんですけどよろしく！</p>
@@ -1875,7 +1907,7 @@
 
 ---
 
-### 44. 誰かおる〜？
+### 45. 誰かおる〜？
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -1892,7 +1924,7 @@
 
 ---
 
-### 45. フォトナのGO UP FOR BRAINROTで交換してくれる人いない？
+### 46. フォトナのGO UP FOR BRAINROTで交換してくれる人いない？
 **Author:** フェットチーネしか勝たん
 
 **星評価:** 0 / 5 ⭐
@@ -1913,7 +1945,7 @@
 
 ---
 
-### 46. ここに来て話せる人〜
+### 47. ここに来て話せる人〜
 **Author:** スリ
 
 **星評価:** 5.0 / 5 ⭐ (2)
@@ -1931,7 +1963,7 @@
 
 ---
 
-### 47. よろしくーーーーー
+### 48. よろしくーーーーー
 **Author:** Proxy 神　roomのオーナー（レモンのリア友） (batoruneko78_1)
 
 <p>バトルネコですー</p>
@@ -1950,7 +1982,7 @@
 
 ---
 
-### 48. こんにちは
+### 49. こんにちは
 **Author:** 久保 (21070046)
 
 **星評価:** 0 / 5 ⭐
@@ -1966,7 +1998,7 @@
 
 ---
 
-### 49. 今日の9時15分また話せる人募集
+### 50. 今日の9時15分また話せる人募集
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -1995,7 +2027,7 @@
 
 ---
 
-### 50. フォトナのブレインロット交換しませんか？
+### 51. フォトナのブレインロット交換しませんか？
 **Author:** fortnightガチ勢 (s2000893_2)
 
 <p>まじでエターナルのなにか交換してください</p>
@@ -2020,7 +2052,7 @@
 
 ---
 
-### 51. フォトナのブレインロット交換しませんか？
+### 52. フォトナのブレインロット交換しませんか？
 **Author:** fortnightガチ勢 (s2000893_2)
 
 <p>まじでドラゴン交換してくれませんか（圧）</p>
@@ -2037,7 +2069,7 @@
 
 ---
 
-### 52. 暇誰か月曜の夜9時15分から雑談しよ
+### 53. 暇誰か月曜の夜9時15分から雑談しよ
 **Author:** スリ
 
 **星評価:** 5.0 / 5 ⭐ (3)
@@ -2186,12 +2218,12 @@
 
 ---
 
-### 53. Post 53
+### 54. Post 54
 **Author:** ふじ
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5621440276/c0a93c43ccdd44ccf59be3af73e81c12/IMG_0007.jpeg?Expires=1780440783&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EZCwCSVQam2CZ5%2BmH2buCgJ7II%2FA%2BEumcfbW%2BaBANr3BzetpffSWUhd06K23q6zSlj9B4%2FveiOb%2B%2Frviow5qICa1x2ugXTnwXo2WtNEZ9EVf%2FIRMH0BPgYS5tcZNLTwGhGtPpEbw08u%2FRsNaOA%2BaLPp%2Bw%2F5AeU6YUyuLfFDnnLw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5621440276%2Fc0a93c43ccdd44ccf59be3af73e81c12%2FIMG_0007.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5621440276/c0a93c43ccdd44ccf59be3af73e81c12/IMG_0007.jpeg?Expires=1780463044&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4Y0k3PBh0Fwoce91hr6ygOk3caYfYb0Gab9cXP8SXxhGJfKnQSjS9KKXqL1jUxhd6u%2B%2F6o%2FzhCYzt9hOERdkknCC61%2FOhyADgY9IA4kJsDVDJgoxu%2B0S3VdE9quNfLBi1ICM%2Fw2LLzXImQ7Agn%2BcB5Ir9Q6yOK9OCIk25h2ioJU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5621440276%2Fc0a93c43ccdd44ccf59be3af73e81c12%2FIMG_0007.jpeg)
 
 #### Comments (2)
 - **スリ** (May 10, 2026 12:54pm): 呪術廻戦にでてくる日車の術式の裁判場にでてくるやつ 
@@ -2204,7 +2236,7 @@
 
 ---
 
-### 54. こんにちは
+### 55. こんにちは
 **Author:** H大好き
 
 **星評価:** 0 / 5 ⭐
@@ -2218,7 +2250,7 @@
 
 ---
 
-### 55. 114514
+### 56. 114514
 **Author:** ちくわ
 
 <p>ちくわ大好きー</p><p><br/></p><p><br/></p>
@@ -2235,12 +2267,12 @@
 
 ---
 
-### 56. Post 56
+### 57. Post 57
 **Author:** ヨ
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1780440783&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=49oGQKHf0HdhK4F2XPHL39oMFiEqYiZM6SlFBXI2n84CmBLLZ27KGASOgjWClMBkmL9sc1zLS6EgYIhrp5vXS%2B%2FtA%2FimhuEimNhbHY9gL75BXuYviUcxbTxyPOzdRfCGdYnaFzhf%2B%2FJd3R10MOrGh0VMJxVlbgTT%2BhG5HgzP198%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1780463044&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=wPgra0fSKnh9VWw%2F48ShrHoOuBsLfBMIx%2BsFzQiJiI8%2BCXQucHQN06raVTw1WhOJjhAHUG%2F0%2F8fhXgOa%2BZ2vKz4rzYXbfDHrzwts6x%2FjR2Dqe9Ll%2BiLwX5aeFmZpiwi%2FMnaSyA5lt63kJ1NI6S1LkoKpnrhoAT51hA0GHbaiEe8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
 
 #### Comments (2)
 - **スリ** (May 10, 2026 12:52pm): これに誰か一言
@@ -2253,7 +2285,7 @@
 
 ---
 
-### 57. こんんにちはーーーーー
+### 58. こんんにちはーーーーー
 **Author:** いつき
 
 <p>みんなよろしく😃</p>
@@ -2270,7 +2302,7 @@
 
 ---
 
-### 58. Post 58
+### 59. Post 59
 **Author:** さいとうたつき (m230711)
 
 <p>太鼓の達人</p>
@@ -2291,7 +2323,7 @@
 
 ---
 
-### 59. YouTube見れるサイト載せて下さい！お願いします
+### 60. YouTube見れるサイト載せて下さい！お願いします
 **Author:** 中指
 
 **星評価:** 0 / 5 ⭐
@@ -2306,7 +2338,7 @@
 
 ---
 
-### 60. よろしくお願いします
+### 61. よろしくお願いします
 **Author:** 山中くんと佐野くん推し❤️❤️ (r0400268_1)
 
 <p>綱啓永推しです。よろしくお願いします。</p><p>ぜひ良かったらこれに入ってもらいたいです。</p><p><br/></p>
@@ -2322,7 +2354,7 @@
 
 ---
 
-### 61. 規制キモい
+### 62. 規制キモい
 **Author:** 匿名
 
 <p>規制突破したい</p>
@@ -2339,12 +2371,12 @@
 
 ---
 
-### 62. Post 62
+### 63. Post 63
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1780440783&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FkRB48luYlCI6y6rpCmVQ7MbaAxCfYYHNCgfFPVI%2B51t2wThFkFRrLdnOhX6DN8eL0opkXolDJtv%2B3gF%2BwewdPXIchBNvHcXeoIe9ve6wS4DfNU0vOlFygyfs%2FkvR19xtU9uZmNWf0rvKfxEteW1MHEUrtQ0zyRYmHRTX9zYPO8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1780463044&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JdEcDahFH7W%2B%2BRHhLMXJAFdWwxxzGYK0fDS7TjF%2FHFgXa7KwlwEpUJoOECPprMA33kl0hyaI4tR%2FmQmhyP6g7I2gRkhwXI%2BmJEeM4wc4dLXlKifTvX3EaGceljlqYOKyYTa7QMOuYR8uD8eEp%2BIITBjx4ha0Kcw4AREH3Z%2Fq0Tg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (3)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -2358,7 +2390,7 @@
 
 ---
 
-### 63. 暇な人はなそ
+### 64. 暇な人はなそ
 **Author:** あ (killernya)
 
 <p>だれかはなそ</p>
@@ -2378,7 +2410,7 @@
 
 ---
 
-### 64. 質問してもいいですか？
+### 65. 質問してもいいですか？
 **Author:** お文具とドズル社 (gs111111)
 
 **星評価:** 0 / 5 ⭐
@@ -2393,7 +2425,7 @@
 
 ---
 
-### 65. 桃鉄がしたいんです！！
+### 66. 桃鉄がしたいんです！！
 **Author:** ハルマチ
 
 <p>教えてください。</p>
@@ -2407,7 +2439,7 @@
 
 ---
 
-### 66. Post 66
+### 67. Post 67
 **Author:** カワツユ
 
 **星評価:** 0 / 5 ⭐
@@ -2426,14 +2458,14 @@
 
 ---
 
-### 67. Youtubeダウンローダー誰かくれぇぇぇぇぇぇ
+### 68. Youtubeダウンローダー誰かくれぇぇぇぇぇぇ
 **Author:** smdjr07083 (smdjr07083)
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1780440783&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eYIi6OdeL4lmaXo0x42T0zzJAF%2F3yqfgyexZIDcxJIjpjb2Xop%2BQqzBOciqOtLl85sK8%2Ba5b%2FOeT3T7fWVlAb7u99vlNAJ2tXNdwzzlNYHsZwZcQwb%2FzcBBnKkOle2HN83H%2F0gT9Ic4RZIqic1OyWWnkRoT1zUOeX%2BgN8vt1oxk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1780463044&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=z4KErBS%2F6oEFUcl43XvG6fq31XzDFX6e7DTXZgGFtlom6mn8iz0VNA%2B%2BdbFPlLMLXo3jyUPnXgz09qPTW8yLrgH5%2BTNpyim4NgE%2BIicLsX9XQXQVOesUObC2GbJQ3O5tRRaAlaIl%2FeFDyciZwBGtCgTCJytEiLaDMx4N3PRjeZA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -2442,7 +2474,7 @@
 
 ---
 
-### 68. こんにちは
+### 69. こんにちは
 **Author:** 暴走パンダ (8888800811117777)
 
 **星評価:** 0 / 5 ⭐
@@ -2457,7 +2489,7 @@
 
 ---
 
-### 69. わかめチューブのサイト載せてください。
+### 70. わかめチューブのサイト載せてください。
 **Author:** あかさたな
 
 **星評価:** 0 / 5 ⭐
@@ -2472,7 +2504,7 @@
 
 ---
 
-### 70. 最近楽しいこと
+### 71. 最近楽しいこと
 **Author:** あかさたな
 
 **星評価:** 3.0 / 5 ⭐ (1)
@@ -2492,7 +2524,7 @@
 
 ---
 
-### 71. もうすぐ卒業式ですね。６年生の人は頑張れ
+### 72. もうすぐ卒業式ですね。６年生の人は頑張れ
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -2517,7 +2549,7 @@
 
 ---
 
-### 72. Post 72
+### 73. Post 73
 **Author:** ヒカル
 
 <p>みんな僕の紹介見たらコメントしてくれると嬉しいな</p><p>ちなみに僕は今ピクミン４にはまってます</p>
@@ -2534,7 +2566,7 @@
 
 ---
 
-### 73. Post 73
+### 74. Post 74
 **Author:** ヒカル
 
 <p>僕ログインしてないからアイコン代わるけど</p><p>名前で判断して下さい</p><p><br/></p>
@@ -2548,7 +2580,7 @@
 
 ---
 
-### 74. みんなに質問があります。
+### 75. みんなに質問があります。
 **Author:** ヒカル
 
 <p>こちらのサイトは個人情報大丈夫かな？</p>
@@ -2566,7 +2598,7 @@
 
 ---
 
-### 75. よろしくー
+### 76. よろしくー
 **Author:** ヒカル
 
 <p>初めてだけど見るからにみんないい人！</p><p><br/></p>
@@ -2580,7 +2612,7 @@
 
 ---
 
-### 76. こんにちは
+### 77. こんにちは
 **Author:** aaabbbccc (mazamaza)
 
 <p>ゲームのところに色々載せときました</p><p>i-フィルター練馬区です</p>
@@ -2597,7 +2629,7 @@
 
 ---
 
-### 77. こんにちは！元気な小学生です！何卒よろしくお願いします。
+### 78. こんにちは！元気な小学生です！何卒よろしくお願いします。
 **Author:** series227urara 岡山行 (kontikuwa)
 
 <p>YouTubeやってるので良かったら、チャンネル登録と高評価よほうをお願いします！！</p>
@@ -2618,7 +2650,7 @@
 
 ---
 
-### 78. ハロー
+### 79. ハロー
 **Author:** Benevolent Squirrel
 
 **星評価:** 0 / 5 ⭐
@@ -2633,7 +2665,7 @@
 
 ---
 
-### 79. 今のモデレーター　たいちさん
+### 80. 今のモデレーター　たいちさん
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -2648,7 +2680,7 @@
 
 ---
 
-### 80. Post 80
+### 81. Post 81
 **Author:** 久保 (21070046)
 
 **星評価:** 0 / 5 ⭐
@@ -2665,7 +2697,7 @@
 
 ---
 
-### 81. 自己紹介してね
+### 82. 自己紹介してね
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -3756,7 +3788,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674125412/f793eedd0f017c0f539558763023714b/image.jpg?Expires=1780440784&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XfMsMnb8h7ukgsBiYJWrokjfNsi9P4KNTBDHXIoBeVVxsBKuNSC6un7x3z9l38rlahYmcMtn0dwz9MYaetiwIfmLsAx3h3LCHhHqSBsRsQOjqeKGVmjOcs%2BZ%2FLI7nY0c0joTJEcTIZabam4h77mWeTRbK8F3RtxlpmTgoFopgP0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674125412%2Ff793eedd0f017c0f539558763023714b%2Fimage.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674125412/f793eedd0f017c0f539558763023714b/image.jpg?Expires=1780463044&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6FRzF5El7vPIZAUV9dckkyF%2FPpLLUe6KqAJjzJ92ShTOsCvb2e5HVQ2qWUkmkYYoY45s49b18RbWYisgOvCg3HcBzZSs%2FPEh2vhSJz%2BDAy46AHMG0is9qG9%2BZhXr23tW8es7QrL9KhG%2FSF3xvDg5BYNUpUfbu%2F6k0BgZ%2FTceZKM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674125412%2Ff793eedd0f017c0f539558763023714b%2Fimage.jpg)
 
 #### Comments (4)
 - **天才のその上をいく天才** (May 19, 2026 09:39pm): ライオンの赤ちゃんです
@@ -4078,9 +4110,9 @@
 **Author:** 金しか勝たん
 
 **自分のところの教育委員会きびしいかどうかこたえてくれるとありがたいです:**
-- **きびしい:** 2 votes
-- **ふつう:** 0 votes
-- **やさしい:** 0 votes
+- **きびしい:** 6 votes
+- **ふつう:** 1 vote
+- **やさしい:** 1 vote
 
 <p><br/></p><p><br/></p>
 
@@ -4089,7 +4121,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** May 26, 2026 01:54pm
-- **Updated At (UTC):** May 26, 2026 09:36pm
+- **Updated At (UTC):** May 27, 2026 04:52am
 
 ---
 
@@ -4263,7 +4295,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1780440784&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KBk3W%2FAgrEjft2xiXHHoc8BdGDIdoR7pMHFl1qemyotS8eBUgKzCmiIGwmRzY7Tp%2BGFFX%2BiBQaGL7F7LiKlKRah46NeTNWf9KCgojDhPhMIVMa%2FzRglQpN1AxFnXOWIZQ%2BuSCsBeyYglmR%2BrnCW2UiuEiAl7SAhnFGEhVCcj%2FKc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1780463045&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jNiGqlgxZ900SncQtBztKPswTvsyASpXXwyJ7D6RBnMYIsMigt57scvZd6Ofqyj1t2gmsv3aMsi2WtqJDuza6fNM1ONpGX6KxT1XLG4xw3NMZ3wpg60%2F7sZbgWaBOxIjGxbJrvj3xddTGkTI4pfSGp93i8RAg0sQJZeee%2F1XO6Y%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!#琥珀の弟** (Apr 26, 2026 10:13am): コード打っときます
@@ -4319,7 +4351,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1780440784&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6AssOz6lqeZWpL%2BaqkXbucVRrVoUemyNoZQu6Ki4FpOsXX9aC2Gl%2F7JVVFnEg09ZzDk8jE7a24DLG8G2IZCi7enJal1eezhUpmCNDv%2BMv6Cb5RWuAoZqu7RrpdWTYqb8o5lXzwsGoSguoOZoTgAfQJclcV90EitrP%2FuLDZelHg0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1780463045&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VG9LzFMTlTjx1DQK6nZ7PzqXFzh3h8ZypvHN934T2DaGtRlwQKyzpZTe6gcaoVAxs4sMwj%2Fukp%2BSaAJAqpci3RwHgvcsr8JSQ2xZwc2FmyKIZPFaRoGBPXiyTo8hLZpUe3X2QM32AlLe8pDb7SPzwmQ52ShDfkGDNOZzJNIElOs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (25)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -5646,7 +5678,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674259173/549a674d1f586a069d6ecda8e3d8b279/IMG_0057.png?Expires=1780440785&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0uQSZbsp%2B7z7%2FZ6Lmlvf27Jd1%2FnQgR1ZLvOPpg8yw5Zr9gSavxIo0H0E0gI%2FVTs6rCYuvAaE7vBgVpytzgpQ4vpSl294mwCjIQklS8%2BfULfjH52ZooMvN39KfLRucDwBH0PFVazN4gFOV%2FyBkvEITseod9ODTkIbn63nOWTPp68%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674259173%2F549a674d1f586a069d6ecda8e3d8b279%2FIMG_0057.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674259173/549a674d1f586a069d6ecda8e3d8b279/IMG_0057.png?Expires=1780463045&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zSnIq1nkf6r70ShuDAqVuTnDFYBySnOJuG9dBhQrUji6l7bHAzwKQMpIc4WZvJBxzOOdL5do%2F42QfknwrOZNWhEVJwGe6Hr%2BK%2F%2FsQJXXZgNStw0gNqaJP7nbFbRnaIJFnCbwDOE541SqwzM8BlMHDJXvI2OCnpEkfXkIuAA1nws%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674259173%2F549a674d1f586a069d6ecda8e3d8b279%2FIMG_0057.png)
 
 #### Comments (5)
 - **天才の上をいく天才** (May 19, 2026 11:44am): 後ろにいったら天才くんアイコン紫が送ったやつがあるからそれをひらいてマイクラって調べたらでてくる
@@ -5669,7 +5701,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674259173/03468a0295ce28f17ea75c87af298660/IMG_0056.png?Expires=1780440785&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NeAOQP5%2BmWcLQki6PTEGimB%2FS%2FF%2FYrmRVB5wBj%2FP5lpiVZ9t5F8UUHa8%2FdNEN4G%2BJTkxsnuQXO6zwLK2rneMuJ79OVWjjDjABgFiXQwQyv55at1AheUmc7Pj6BLeU2MBeQjndz02iQOMMYJqhVQW2c9uX7OwzSRzWDbcJQPs3dg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674259173%2F03468a0295ce28f17ea75c87af298660%2FIMG_0056.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674259173/03468a0295ce28f17ea75c87af298660/IMG_0056.png?Expires=1780463045&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fbaUJKDoVwuHJueam6XLpb%2FSULf%2Fj%2BdJ4rM1Kkvy2xrxI4DUtQeQnJSFRytj7ZkSlByMv1SV8fsx9G6v%2BLK9X4tHB0%2BLiieZhkzv1Zyf%2BNJO6Rjne%2Fgd7jU8vDMG7qrGIgEhGcV5qU1N4sJUc%2BTyZoLb%2BBtaQnkbHg0INYh5IuU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674259173%2F03468a0295ce28f17ea75c87af298660%2FIMG_0056.png)
 
 #### Comments (6)
 - **天才の上をいく天才** (May 19, 2026 11:08am): 僕は魔人ブウ編パーティーです。サイヤ人の日魔人ベジータリバーシブルチェンジ
@@ -6985,7 +7017,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/c243c893243eed3005d27e39ed26fc2c/image.png?Expires=1780440786&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uZUK8SVVoaO8H9WUwquumHJE1APUV92mVW9sBbq1y0EvWbIFUKIId390NykYEgIEsOoex%2BIDOTUMVeMPgvM7t7tWoQ9btRoyars%2Bb%2B86xzSNb13wMxMlRf%2Fi2O%2FEnhvy8RLTOBXG8KwEwc6qCETdD8bxNxCaEUc9ZGLouxTmwlk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2Fc243c893243eed3005d27e39ed26fc2c%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/c243c893243eed3005d27e39ed26fc2c/image.png?Expires=1780463046&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=GMd7fIqF60nCdN8gPmmKtMyLWleFk0aopq1ARTuzCRVXdZBxfSrKVt%2FMVVEKB7Q2c%2FR2NM2YLa6mt6CxtuAtZwvegIfg4Pl15qcW24Mv%2Bl%2FkQoe39JtDYk7RTKHGLP4n7S9zi2rf8fl9q7IdZ92ahJmHzHq6UzAoR30N1SiFXJI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2Fc243c893243eed3005d27e39ed26fc2c%2Fimage.png)
 
 #### Comments (5)
 - **フェットチーネしか勝たん** (May 18, 2026 09:08am): もう確定でしあバレてるな
@@ -7045,7 +7077,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5635963877/aebe97d0040578f9bca38a481cc522fe/__________2026_05_12_215735.png?Expires=1780440786&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=5kNpafT4kKKqt%2FJI2qaxNtk7qBOOfgp4r%2Bhezqfq0MmV1VeDj7QcHhGgkLckWGwWC9nh7Mw3WxOUDJj7WdBiMu%2F2mIUkWFiJpDgJ8m00w0v3V17NmLssqQB6Vg5HK14xoCx%2Fas2mRNdxBxT1D1bm0DJTvBTFSsNMwvCqiGoxpOk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5635963877%2Faebe97d0040578f9bca38a481cc522fe%2F__________2026_05_12_215735.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5635963877/aebe97d0040578f9bca38a481cc522fe/__________2026_05_12_215735.png?Expires=1780463046&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZHGEm2h0KB4sMLFic45peF%2BcmrdsLBGZ2A02YMTW3RD4w9x%2B0WChwQ5CjFRjVqXRZ8IkCrXg%2BxxvtTIZe42TBSl9tiHuPLYLVX1zGl%2F0%2BG6WmJmHE5at%2F9RvwE%2BsUXAcNRInjILjR7ELNo6P853%2Fko6Z2t%2BVQ3vZDytxdCT7a7o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5635963877%2Faebe97d0040578f9bca38a481cc522fe%2F__________2026_05_12_215735.png)
 
 #### Comments (7)
 - **時透無一郎** (May 12, 2026 10:20pm): まじあｋ
@@ -8444,7 +8476,7 @@
 **Author:** the人間
 
 **どれ？:**
-- **暇:** 25 votes
+- **暇:** 26 votes
 - **楽しい:** 13 votes
 - **忙しい:** 4 votes
 - **どうでもいい:** 5 votes
@@ -8457,7 +8489,7 @@
 #### Additional Information
 - **Post color:** Blue
 - **Created At (UTC):** May 20, 2026 11:42am
-- **Updated At (UTC):** May 26, 2026 09:38am
+- **Updated At (UTC):** May 26, 2026 11:29pm
 
 ---
 
@@ -8525,7 +8557,66 @@
 
 ## 予約会話
 
-### 1. おはーーー
+### 1. スリさん今日やるのならここにコメントしといてください。やらないならやると思う日を書いといてください
+**Author:** カゼノネ
+
+**星評価:** 0 / 5 ⭐
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** May 27, 2026 02:57am
+- **Updated At (UTC):** May 27, 2026 02:57am
+
+---
+
+### 2. シン・ゴジラ
+**Author:** ゴジラ (21070019_1)
+
+**星評価:** 0 / 5 ⭐
+
+#### Comments (18)
+- **ゴジラ** (May 27, 2026 02:23am): Rと副会長きてー
+- **ゴジラ** (May 27, 2026 02:24am): Rと副会長きてー
+- **ゴジラ** (May 27, 2026 02:24am): ｋ
+- **ゴジラ** (May 27, 2026 02:24am): ｋ
+- **副会長** (May 27, 2026 02:25am): pppsoicga
+- **副会長** (May 27, 2026 02:26am): やあ
+- **GP** (May 27, 2026 02:26am): ｗｗｗｗｗｗｗ
+- **GP** (May 27, 2026 02:26am): ｒｓｙｈぴｒｘｊｋｇｔ
+- **副会長** (May 27, 2026 02:26am): うんちーーーーーーーー
+- **GP** (May 27, 2026 02:27am): ｆｇへｊｔぽｈｓえｆｊごｄｒｋｈｙ」ｆｊｇ９ｓｊとｈｇ０おｄｓぐじｔｒ
+- **副会長** (May 27, 2026 02:27am): ９７
+- **副会長** (May 27, 2026 02:28am): なにする
+- **副会長** (May 27, 2026 02:28am): まいくらしよーーー
+- **副会長** (May 27, 2026 02:28am): ぽぱい
+- **スリ** (May 27, 2026 02:35am): こちゃ
+- **スリ** (May 27, 2026 02:35am): いますか❓ 
+- **スリ** (May 27, 2026 02:37am): 副会長
+- **スリ** (May 27, 2026 02:37am): いますか
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** May 27, 2026 02:23am
+- **Updated At (UTC):** May 27, 2026 02:23am
+
+---
+
+### 3. だれかいるぅ？
+**Author:** the人間
+
+**星評価:** 0 / 5 ⭐
+
+#### Comments (1)
+- **スリ** (May 27, 2026 01:49am): いる
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** May 27, 2026 01:10am
+- **Updated At (UTC):** May 27, 2026 01:10am
+
+---
+
+### 4. おはーーー
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -8541,7 +8632,7 @@
 
 ---
 
-### 2. The人間さん友達の名前を晒すのはやめてください
+### 5. The人間さん友達の名前を晒すのはやめてください
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -8556,7 +8647,7 @@
 
 ---
 
-### 3. 誰かいるぅ？
+### 6. 誰かいるぅ？
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -8568,7 +8659,7 @@
 
 ---
 
-### 4. スリいいい
+### 7. スリいいい
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -8585,7 +8676,7 @@
 
 ---
 
-### 5. スリさん、風呂入ってきます。なのでこれ以上は待てないです
+### 8. スリさん、風呂入ってきます。なのでこれ以上は待てないです
 **Author:** カゼノネ
 
 **星評価:** 0 / 5 ⭐
@@ -8600,7 +8691,7 @@
 
 ---
 
-### 6. 今日九時にミーティングできる人
+### 9. 今日九時にミーティングできる人
 **Author:** 五条悟
 
 <p>特に人間ととあ来てな⭐️</p>
@@ -8617,7 +8708,7 @@
 
 ---
 
-### 7. スリさーん！そろそろ6時です。できそうですか？
+### 10. スリさーん！そろそろ6時です。できそうですか？
 **Author:** カゼノネ
 
 **星評価:** 0 / 5 ⭐
@@ -8636,7 +8727,7 @@
 
 ---
 
-### 8. スリさん、今日やるんですか？それなら多分勉強の後になる（）
+### 11. スリさん、今日やるんですか？それなら多分勉強の後になる（）
 **Author:** カゼノネ
 
 **星評価:** 0 / 5 ⭐
@@ -8673,7 +8764,7 @@
 
 ---
 
-### 9. 今日8時からフォトナできるぅ？
+### 12. 今日8時からフォトナできるぅ？
 **Author:** the人間
 
 <p>できる人フレなろ</p>
@@ -8698,7 +8789,7 @@
 
 ---
 
-### 10. スリさん、今日見れるかまだ確定じゃないので見れたらフレ申請承認しておきます
+### 13. スリさん、今日見れるかまだ確定じゃないので見れたらフレ申請承認しておきます
 **Author:** カゼノネ
 
 **星評価:** 0 / 5 ⭐
@@ -8715,7 +8806,7 @@
 
 ---
 
-### 11. あいとおおおおおおお
+### 14. あいとおおおおおおお
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -8736,7 +8827,7 @@
 
 ---
 
-### 12. 今行ける？とあ？
+### 15. 今行ける？とあ？
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -8748,7 +8839,7 @@
 
 ---
 
-### 13. 人間今日来てな⭐️（九時）
+### 16. 人間今日来てな⭐️（九時）
 **Author:** 五条悟
 
 **星評価:** 0 / 5 ⭐
@@ -8763,7 +8854,7 @@
 
 ---
 
-### 14. とあ今日通話きてね昨日のとこ
+### 17. とあ今日通話きてね昨日のとこ
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -8778,7 +8869,7 @@
 
 ---
 
-### 15. こんにちわ！今日２１３０－やります。
+### 18. こんにちわ！今日２１３０－やります。
 **Author:** こんにちは
 
 **星評価:** 0 / 5 ⭐
@@ -8794,7 +8885,7 @@
 
 ---
 
-### 16. スリさーん！ID貼ったけど一応こっちにも貼っときます！消すんめんどいのでそのままでもいいですか（）ID＝＞　ON Ryuto
+### 19. スリさーん！ID貼ったけど一応こっちにも貼っときます！消すんめんどいのでそのままでもいいですか（）ID＝＞　ON Ryuto
 **Author:** カゼノネ
 
 **星評価:** 0 / 5 ⭐
@@ -8814,7 +8905,7 @@
 
 ---
 
-### 17. とあ？
+### 20. とあ？
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -8831,7 +8922,7 @@
 
 ---
 
-### 18. とあいる？
+### 21. とあいる？
 **Author:** the人間
 
 <p>いたら昨日の通話きて</p>
@@ -8848,7 +8939,7 @@
 
 ---
 
-### 19. とあああ
+### 22. とあああ
 **Author:** the人間
 
 <p>昨日の通話きて</p>
@@ -8862,7 +8953,7 @@
 
 ---
 
-### 20. ふじいいいいい
+### 23. ふじいいいいい
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -8883,7 +8974,7 @@
 
 ---
 
-### 21. 9時だけどーーーー
+### 24. 9時だけどーーーー
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -8899,7 +8990,7 @@
 
 ---
 
-### 22. だれかいるぅううううう
+### 25. だれかいるぅううううう
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -8911,7 +9002,7 @@
 
 ---
 
-### 23. 誰かいる？
+### 26. 誰かいる？
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -8926,7 +9017,7 @@
 
 ---
 
-### 24. スリいいいいい
+### 27. スリいいいいい
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -8938,7 +9029,7 @@
 
 ---
 
-### 25. 今日9時行ける？
+### 28. 今日9時行ける？
 **Author:** the人間
 
 <p>できればスリと五条とふじ</p>
@@ -8960,7 +9051,7 @@
 
 ---
 
-### 26. 今日9時いける人〜
+### 29. 今日9時いける人〜
 **Author:** ふじ
 
 **星評価:** 0 / 5 ⭐
@@ -8975,7 +9066,7 @@
 
 ---
 
-### 27. ふじーーーー
+### 30. ふじーーーー
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -8987,7 +9078,7 @@
 
 ---
 
-### 28. www
+### 31. www
 **Author:** ふじ
 
 **星評価:** 0 / 5 ⭐
@@ -9002,7 +9093,7 @@
 
 ---
 
-### 29. ふじごめんもう寝るわ明日朝早いし
+### 32. ふじごめんもう寝るわ明日朝早いし
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -9022,7 +9113,7 @@
 
 ---
 
-### 30. Post 30
+### 33. Post 33
 **Author:** スリ
 
 <p>9時集合場所</p>
@@ -9046,7 +9137,7 @@
 
 ---
 
-### 31. Post 31
+### 34. Post 34
 **Author:** k
 
 **星評価:** 0 / 5 ⭐
@@ -9063,7 +9154,7 @@
 
 ---
 
-### 32. Post 32
+### 35. Post 35
 **Author:** ふじ
 
 **星評価:** 0 / 5 ⭐
@@ -9080,7 +9171,7 @@
 
 ---
 
-### 33. スリさん四日前のやつ見れなくてごめんなさい、あんま開けてなかったので見れませんでした予約のとこってここですかね？
+### 36. スリさん四日前のやつ見れなくてごめんなさい、あんま開けてなかったので見れませんでした予約のとこってここですかね？
 **Author:** アサバネ
 
 **星評価:** 0 / 5 ⭐
@@ -9101,7 +9192,7 @@
 
 ---
 
-### 34. 今日の七時いける人
+### 37. 今日の七時いける人
 **Author:** 五条悟
 
 **星評価:** 0 / 5 ⭐
@@ -9117,7 +9208,7 @@
 
 ---
 
-### 35. 今日9時に行ける人〜
+### 38. 今日9時に行ける人〜
 **Author:** ふじ
 
 **星評価:** 0 / 5 ⭐
@@ -9140,7 +9231,7 @@
 
 ---
 
-### 36. 抜けるなー〜
+### 39. 抜けるなー〜
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -9172,7 +9263,7 @@
 
 ---
 
-### 37. 9時集合場所
+### 40. 9時集合場所
 **Author:** 五条悟
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -9188,7 +9279,7 @@
 
 ---
 
-### 38. ミィーティングできる人来て8時に来て
+### 41. ミィーティングできる人来て8時に来て
 **Author:** 五条悟
 
 **星評価:** 0 / 5 ⭐
@@ -9205,7 +9296,7 @@
 
 ---
 
-### 39. 今日9時行ける？
+### 42. 今日9時行ける？
 **Author:** the人間
 
 <p>みんなああ</p>
@@ -9223,7 +9314,7 @@
 
 ---
 
-### 40. きょうの9時
+### 43. きょうの9時
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -9243,7 +9334,7 @@
 
 ---
 
-### 41. the人間 があなたをミーティングに招待しました。
+### 44. the人間 があなたをミーティングに招待しました。
 **Author:** the人間
 
 <p>ミーティングにご参加ください:</p><p>https://meet.stuvus.uni-stuttgart.de/HandyPopularitiesStayActually</p>
@@ -9267,7 +9358,7 @@
 
 ---
 
-### 42. 部屋の作り方知っていたら教えてください！お願いします！ここに載せてください！
+### 45. 部屋の作り方知っていたら教えてください！お願いします！ここに載せてください！
 **Author:** あげせん食う？
 
 **星評価:** 0 / 5 ⭐
@@ -9279,7 +9370,7 @@
 
 ---
 
-### 43. みんなby
+### 46. みんなby
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -9296,7 +9387,7 @@
 
 ---
 
-### 44. いつもの会話部屋
+### 47. いつもの会話部屋
 **Author:** 五条悟
 
 **星評価:** 0 / 5 ⭐
@@ -9319,12 +9410,12 @@
 
 ---
 
-### 45. 誰かいる?
+### 48. 誰かいる?
 **Author:** the人間
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5680532527/b96ca5aeea14e0ae0ac1ac297d807a66/drawing.png?Expires=1780440787&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Gl6cgFW7rRQCEZa0pvMhjA77RwcIhm4kUTGX5iiYyS46hDTHoXdpsnY1D0sIZF4sBvCbdk2OvtrWDHSIUOppQDYzc94buOyT6Kup%2BWGeDnZT3eDjh55XWear9GeTopn%2FJP0Yw0KeZuMDgOF2ibbPISIXXg201shDi4nSHJCOmT0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5680532527%2Fb96ca5aeea14e0ae0ac1ac297d807a66%2Fdrawing.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5680532527/b96ca5aeea14e0ae0ac1ac297d807a66/drawing.png?Expires=1780463047&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hw6GU7%2FLNPJjkyIFhCtufUBdRFxUTlRE0%2Fo%2Fk73ZejtmZi%2BLN9MKIr8Eq%2BHb51qpvO8q5fYlWoGqyEiXJWl%2BgVff86VNIulx9yHWoJJGXc2oOqSi14XaxyUhAE4BkTYrOYHQLI9uuQw3zpUpspSFAg6PAYhO50sldKLpRqDqwZc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5680532527%2Fb96ca5aeea14e0ae0ac1ac297d807a66%2Fdrawing.png)
 
 #### Comments (5)
 - **ふじ** (May 20, 2026 11:34am): いない
@@ -9340,7 +9431,7 @@
 
 ---
 
-### 46. みんな今日9時ね
+### 49. みんな今日9時ね
 **Author:** the人間
 
 <p>9時になってから会話して</p>
@@ -9359,7 +9450,7 @@
 
 ---
 
-### 47. 9時に集合する人の場所
+### 50. 9時に集合する人の場所
 **Author:** ぼんち揚食う？
 
 **星評価:** 2.0 / 5 ⭐ (1)
@@ -9473,7 +9564,7 @@
 
 ---
 
-### 48. 9時行ける人返事
+### 51. 9時行ける人返事
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -9528,7 +9619,7 @@
 
 ---
 
-### 49. The人間さん、スリさん、個人情報や悪口の言い合いはやめてください
+### 52. The人間さん、スリさん、個人情報や悪口の言い合いはやめてください
 **Author:** 時透無一郎 (r0300353)
 
 <p>まじで</p>
@@ -9550,7 +9641,7 @@
 
 ---
 
-### 50. 天才をしのぐ天才と俺だけの場所
+### 53. 天才をしのぐ天才と俺だけの場所
 **Author:** 天才くん
 
 <p>お願いします</p>
@@ -9570,7 +9661,7 @@
 
 ---
 
-### 51. 天才限定の会話場所
+### 54. 天才限定の会話場所
 **Author:** 天才くん
 
 <p>ご協力お願いします</p>
@@ -9589,7 +9680,7 @@
 
 ---
 
-### 52. Post 52
+### 55. Post 55
 **Author:** 天才くん
 
 <p>すごくね　　　　　　　天才さんきて</p>
@@ -9608,7 +9699,7 @@
 
 ---
 
-### 53. 日曜日の計画
+### 56. 日曜日の計画
 **Author:** 天才の上をいく天才
 
 <p>ハルト早く来い</p>
@@ -9641,7 +9732,7 @@
 
 ---
 
-### 54. 時透さんおるぅ?
+### 57. 時透さんおるぅ?
 **Author:** the人間
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -9653,7 +9744,7 @@
 
 ---
 
-### 55. スリいるぅ？
+### 58. スリいるぅ？
 **Author:** アキノハ
 
 **星評価:** 0 / 5 ⭐
@@ -9670,7 +9761,7 @@
 
 ---
 
-### 56. the人間おるぅー〜〜〜
+### 59. the人間おるぅー〜〜〜
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -9699,7 +9790,7 @@
 
 ---
 
-### 57. スリーーーーーーーー
+### 60. スリーーーーーーーー
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -9720,7 +9811,7 @@
 
 ---
 
-### 58. 時透さん
+### 61. 時透さん
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -9735,7 +9826,7 @@
 
 ---
 
-### 59. サブ垢の部屋荒らされたんやけど🥺
+### 62. サブ垢の部屋荒らされたんやけど🥺
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -9754,7 +9845,7 @@
 
 ---
 
-### 60. 時透無一郎おる？
+### 63. 時透無一郎おる？
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -9769,7 +9860,7 @@
 
 ---
 
-### 61. 今日のまた9時15分集合
+### 64. 今日のまた9時15分集合
 **Author:** スリ
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -9787,7 +9878,7 @@
 
 ---
 
-### 62. 時透無一郎さん〜おはよ
+### 65. 時透無一郎さん〜おはよ
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -9806,7 +9897,7 @@
 
 ---
 
-### 63. これか
+### 66. これか
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -9830,7 +9921,7 @@
 
 ---
 
-### 64. おやすみです
+### 67. おやすみです
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -9842,7 +9933,7 @@
 
 ---
 
-### 65. 誠実に会話しよう
+### 68. 誠実に会話しよう
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -9858,7 +9949,7 @@
 
 ---
 
-### 66. 誠実に
+### 69. 誠実に
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -9873,7 +9964,7 @@
 
 ---
 
-### 67. まじでさ
+### 70. まじでさ
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -9889,7 +9980,7 @@
 
 ---
 
-### 68. はーい
+### 71. はーい
 **Author:** 時透無一郎 (r0300353)
 
 <p><br/></p><p><br/></p>
@@ -9903,7 +9994,7 @@
 
 ---
 
-### 69. 9時15分ねー
+### 72. 9時15分ねー
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -9918,7 +10009,7 @@
 
 ---
 
-### 70. 天才のその上を行く天才ですよろしくお願いします🙇
+### 73. 天才のその上を行く天才ですよろしくお願いします🙇
 **Author:** 天才のその上をいく天才
 
 **星評価:** 0 / 5 ⭐
@@ -9937,7 +10028,7 @@
 
 ---
 
-### 71. スリいる？
+### 74. スリいる？
 **Author:** なかがいあーいと
 
 **星評価:** 0 / 5 ⭐
@@ -9953,7 +10044,7 @@
 
 ---
 
-### 72. どうも
+### 75. どうも
 **Author:** なかがいあーいと
 
 <p>なかがいでっす</p>
@@ -9974,7 +10065,7 @@
 
 ---
 
-### 73. 本当に広めないでください
+### 76. 本当に広めないでください
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -9996,7 +10087,7 @@
 
 ---
 
-### 74. また9時15分に
+### 77. また9時15分に
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -10015,7 +10106,7 @@
 
 ---
 
-### 75. 申し訳ございませんでした
+### 78. 申し訳ございませんでした
 **Author:** the人間
 
 **星評価:** 0 / 5 ⭐
@@ -10031,7 +10122,7 @@
 
 ---
 
-### 76. おーいスリさんいる〜？
+### 79. おーいスリさんいる〜？
 **Author:** ふじ
 
 **星評価:** 0 / 5 ⭐
@@ -10043,7 +10134,7 @@
 
 ---
 
-### 77. 話そう！！
+### 80. 話そう！！
 **Author:** フェットチーネしか勝たん
 
 **星評価:** 0 / 5 ⭐
@@ -10230,7 +10321,7 @@
 
 ---
 
-### 78. 見せ合いのとこってどこにあるの？
+### 81. 見せ合いのとこってどこにあるの？
 **Author:** the人間
 
 **星評価:** 3.7 / 5 ⭐ (3)
@@ -10249,7 +10340,7 @@
 
 ---
 
-### 79. マイクラしてる人ー
+### 82. マイクラしてる人ー
 **Author:** 聖なる玉
 
 **星評価:** 0 / 5 ⭐
@@ -10265,7 +10356,7 @@
 
 ---
 
-### 80. 待ち合わせ場所にします
+### 83. 待ち合わせ場所にします
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 5.0 / 5 ⭐ (2)
@@ -10280,7 +10371,7 @@
 
 ---
 
-### 81. キングギドラ
+### 84. キングギドラ
 **Author:** 副会長 (21070051_1)
 
 <p>ゴジラ</p>
@@ -10352,7 +10443,7 @@
 
 ---
 
-### 82. 愚痴こぼし場所
+### 85. 愚痴こぼし場所
 **Author:** ゴジラ (21070019_1)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -10386,7 +10477,7 @@
 
 ---
 
-### 83. 誰か来てよー
+### 86. 誰か来てよー
 **Author:** GP (21070045_2)
 
 **星評価:** 3.0 / 5 ⭐ (2)
@@ -10433,7 +10524,7 @@
 
 ---
 
-### 84. 今日の夜9時15分にはなせるひとあつまれ
+### 87. 今日の夜9時15分にはなせるひとあつまれ
 **Author:** 時透無一郎 (r0300353)
 
 <p>今日はフェットチーネさんからネタがあるそうです</p><p><br></p>
@@ -10457,13 +10548,13 @@
 **Author:** 時透無一郎 (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 180 votes
-- **たけのこの里:** 232 votes
+- **きのこの山:** 182 votes
+- **たけのこの里:** 233 votes
 - **ドウデモイイ:** 64 votes
 
 **星評価:** 5.0 / 5 ⭐ (8)
 
-#### Comments (52)
+#### Comments (54)
 - **Fortnite廃課金者** (Mar 29, 2026 06:24pm): どうあがいてもたけのこ
 - **ｸﾎﾞｲｯﾀ** (Mar 29, 2026 10:19pm): もう…きのこだ、たけのこだなんて争わないでいいじゃん…きのこの勝ちでいいじゃん…
 - **時透無一郎** (Mar 30, 2026 01:07am): きのこだな
@@ -10516,11 +10607,13 @@
 - **天才くん** (May 23, 2026 11:13pm): ﾄﾞｳﾃﾞﾓｲｲﾄﾞｳﾃﾞﾓｲｲﾄﾞｳﾃﾞﾓｲｲﾄﾞｳﾃﾞﾓｲｲﾄﾞｳﾃﾞﾓｲｲﾄﾞｳﾃﾞﾓｲｲﾄﾞｳﾃﾞﾓｲｲﾄﾞｳﾃﾞﾓｲｲﾄﾞｳﾃﾞﾓｲｲﾄﾞｳﾃﾞﾓｲｲﾄﾞｳﾃﾞﾓｲｲﾄﾞｳﾃﾞﾓｲｲﾄﾞｳﾃﾞﾓｲｲﾄﾞｳﾃﾞﾓｲｲ
 - **カゼノネ** (May 26, 2026 04:20am): たけのこかなー
 - **フェットチーネしか勝たん** (May 26, 2026 06:50am): 460超えちゃったよ
+- **雀** (May 27, 2026 12:34am): キノコ　キノコ　キノコ　キノコ　キノコ……キノコが負けているなんて事件だ！
+- **ゴジラ** (May 27, 2026 02:25am): おもろ
 
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** May 26, 2026 09:52pm
+- **Updated At (UTC):** May 27, 2026 04:37am
 
 ---
 
@@ -10529,7 +10622,7 @@
 
 **ドッチハ:**
 - **真冬に暖房:** 2 votes
-- **真夏に冷房:** 5 votes
+- **真夏に冷房:** 9 votes
 
 <p>僕は冷房ですね</p>
 
@@ -10538,7 +10631,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** May 26, 2026 06:11am
-- **Updated At (UTC):** May 26, 2026 09:37pm
+- **Updated At (UTC):** May 27, 2026 03:09am
 
 ---
 
@@ -10547,7 +10640,7 @@
 
 **どれが一番好き？:**
 - **ロブロ:** 7 votes
-- **Switch Switch2:** 15 votes
+- **Switch Switch2:** 17 votes
 - **マジでどうでもいい:** 10 votes
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -10555,7 +10648,7 @@
 #### Additional Information
 - **Post color:** Blue
 - **Created At (UTC):** May 20, 2026 11:37am
-- **Updated At (UTC):** May 26, 2026 01:33pm
+- **Updated At (UTC):** May 27, 2026 12:34am
 
 ---
 
@@ -10563,9 +10656,9 @@
 **Author:** 天才の上をいく天才
 
 **買ってもらうならどれを選ぶ？:**
-- **Switch:** 1 vote
-- **スマホ:** 37 votes
-- **お菓子:** 0 votes
+- **Switch:** 2 votes
+- **スマホ:** 38 votes
+- **お菓子:** 1 vote
 - **おもちゃ:** 6 votes
 
 <p>投票とコメントよろしく</p>
@@ -10585,6 +10678,22 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** May 19, 2026 09:20pm
-- **Updated At (UTC):** May 26, 2026 02:18pm
+- **Updated At (UTC):** May 27, 2026 03:09am
+
+---
+
+## チャット
+
+### 1. Post 1
+**Author:** 俺だぞ〜（三橋） (H2822063)
+
+**星評価:** 0 / 5 ⭐
+
+[Attachment 1](https://meet.stuvus.uni-stuttgart.de/%E3%81%95%E3%81%A0%E8%A5%BF%E5%B0%8F%E5%AD%A6%E6%A0%A15%E5%B9%B43%E7%B5%84)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** May 27, 2026 02:41am
+- **Updated At (UTC):** May 27, 2026 02:41am
 
 ---
