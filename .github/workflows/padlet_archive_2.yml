@@ -2,8 +2,8 @@ name: Padletアーカイブ一括取得 2
 
 on:
   schedule:
-    # 毎時9分と39分に実行
-    - cron: '9,39 * * * *'
+    # 毎時10分と40分に実行
+    - cron: '10,40 * * * *'
   workflow_dispatch:
 
 permissions:
