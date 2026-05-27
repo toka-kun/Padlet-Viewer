@@ -1,8640 +1,8643 @@
-最終取得: 2026/05/27 20:56:46
+最終取得: 2026/05/28 01:08:38
 
 # proxyなど教える会
 
 proxyサイトなどを共有しましょう
 
-## 要約
-- **リンク:** https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5
-- **所有者:** 仙人@suger (sennin_sugar)
-- **投稿:** 484
-- **作成日（UTC）:** 06/04 08:02
-- **更新日（UTC）:** 05/27 11:33
+## Summary
+- **Link:** https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5
+- **Builder:** 仙人@suger (sennin_sugar)
+- **Posts:** 484
+- **Created At (UTC):** Jun 04, 2025 08:02am
+- **Updated At (UTC):** May 27, 2026 02:19pm
 
 ## 概要
 
 ### 1. 来てくれてありがとうございます
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>自己紹介は自己紹介にお願い</p><p>嵐は絶対にやめてね</p><p>仲良くやっていこう</p>
 
-#### コメント (14)
-- **フォトナしたいいいいいいいいいいいいいいいいいい** (05/22 02:30): わーい
-- **葵** (05/22 08:11): すいません新しい投稿ができなくなっているのですが
-- **ミライドン** (05/22 11:10): 荒らされてるよー仙人さん
-- **にゃんこ好き** (05/22 11:56): どこ？
-- **アラキヒナタ** (05/23 07:57): 投稿できなくなってるよーーーーーーーーーーーーーーーー
-- **アラキヒナタ** (05/23 08:01): ミライドンもう荒らされてるの終わってるよ
-- **葵** (05/23 10:06): うん終わってる
-- **マイスター** (05/25 00:15): 投稿できないのはなぜ
-- **小学生の子供（本当）** (05/25 05:22): 分からない？ 
-- **小学生の子供（本当）** (05/25 05:22): 今学タブでやっているの！ 
-- **ningenですよ！！（元ningen）** (05/25 06:50): https://padlet.com/adolescentwebstudies/padlet-hek6xdv44rez39ei
-- **ユウズル** (05/27 01:03): https://script.google.com/macros/s/AKfycbzR2SMKjdBilo_POeOfkBmtQ097jucGA6ror_zjdjSwyesfCeCsksccm0_wZ_zA0kRv/exec使えなくなった
-- **ユウズル** (05/27 01:09): 高画質でYouTubeを見る方法教えてください
-- **ハヤナミ** (05/27 11:33): ブロックされるサイトを避けて通れるサイトを教えてください
+#### Comments (14)
+- **フォトナしたいいいいいいいいいいいいいいいいいい** (May 22, 2026 02:30am): わーい
+- **葵** (May 22, 2026 08:11am): すいません新しい投稿ができなくなっているのですが
+- **ミライドン** (May 22, 2026 11:10am): 荒らされてるよー仙人さん
+- **にゃんこ好き** (May 22, 2026 11:56am): どこ？
+- **アラキヒナタ** (May 23, 2026 07:57am): 投稿できなくなってるよーーーーーーーーーーーーーーーー
+- **アラキヒナタ** (May 23, 2026 08:01am): ミライドンもう荒らされてるの終わってるよ
+- **葵** (May 23, 2026 10:06am): うん終わってる
+- **マイスター** (May 25, 2026 12:15am): 投稿できないのはなぜ
+- **小学生の子供（本当）** (May 25, 2026 05:22am): 分からない？ 
+- **小学生の子供（本当）** (May 25, 2026 05:22am): 今学タブでやっているの！ 
+- **ningenですよ！！（元ningen）** (May 25, 2026 06:50am): https://padlet.com/adolescentwebstudies/padlet-hek6xdv44rez39ei
+- **ユウズル** (May 27, 2026 01:03am): https://script.google.com/macros/s/AKfycbzR2SMKjdBilo_POeOfkBmtQ097jucGA6ror_zjdjSwyesfCeCsksccm0_wZ_zA0kRv/exec使えなくなった
+- **ユウズル** (May 27, 2026 01:09am): 高画質でYouTubeを見る方法教えてください
+- **ハヤナミ** (May 27, 2026 11:33am): ブロックされるサイトを避けて通れるサイトを教えてください
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 05/21 21:41
-- **更新日（UTC）:** 05/21 21:41
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** May 21, 2026 09:41pm
+- **Updated At (UTC):** May 21, 2026 09:41pm
 
 ---
 
 ## 自己紹介
 
 ### 1. 自己紹介はここへ
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>仙人だよ</p><p>荒らさないでね</p><p>平和に行こう</p>
 
-#### コメント (35)
-- **いもぼい** (05/21 22:40): うえい
-- **ふっじー（犬系）** (05/21 22:48): ふっじーです　
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (05/22 00:20): なぞにおもい
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (05/22 00:21): 激重gifアイコンの名無しがいるせいだ
-- **るき** (05/22 01:55): るきだよーよろしく
-- **最強くん(諸説あり)** (05/22 01:56): 2週間以内にフォロワー25いかなかったら名前を仙人さんにフォローしてもらうに変えます　前回のは甘かったと思います
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (05/22 02:02): 了解
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (05/22 02:03): その名前にすればいいんじゃないんでしょうか
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (05/22 02:03): こちらに得はない🥱
-- **にんじん** (05/22 04:49): にんじんだよん
-- **ほそかわせいや** (05/22 05:59): 重い
-- **ningenですよ！！（元ningen）** (05/22 06:48): ningenだよ
-- **ningenですよ！！（元ningen）** (05/22 06:48): よろしくね
-- **ningenですよ！！（元ningen）** (05/22 06:49): いちおう
-- **ningenですよ！！（元ningen）** (05/22 06:49): 性別だけ言うわ
-- **ningenですよ！！（元ningen）** (05/22 06:49): 女です
-- **ningenですよ！！（元ningen）** (05/22 06:49): よろしく＝〜〜〜〜〜
-- **葵** (05/22 08:12): 性別を言わなくてもいいんだよ
-- **フォトナしたいいいいいいいいいいいいいいいいいい** (05/22 09:38): みんみんだよー
-- **フォトナしたいいいいいいいいいいいいいいいいいい** (05/22 09:38): はいってねー
-- **フォトナしたいいいいいいいいいいいいいいいいいい** (05/22 09:38): https://padlet.com/gs225708/padlet-gkok8j8e50awktc4
-- **フォトナしたいいいいいいいいいいいいいいいいいい** (05/22 09:38): 僕の部屋
-- **葵** (05/22 09:43): 入ってみて
-- **葵** (05/22 09:43): https://padlet.com/gs226187/padlet-d6s5u5th6rpsws04
-- **葵** (05/22 09:44): コナン好きのための部屋
-- **葵** (05/22 09:44): 新しい部屋だよ〜
-- **それら** (05/22 10:00): こんにちは
-- **ほそかわせいや** (05/22 10:07): 重すぎる
-- **ハル春** (05/22 10:52): 重くてちょっとしかひらけん
-- **karaage** (05/23 02:48): こんにちは〜
-- **お文具とドズル社** (05/24 01:24): https://padlet.com/remodjska/padlet-if7u7dk8neuwit1r
-- **INTERACT** (05/24 01:46): INTERACTです
-- **Anonymous** (05/25 10:06): うお
-- **Anonymous** (05/25 10:06): に
-- **にゃんこ好き** (05/26 08:46): なんか全部消されてね？
+#### Comments (35)
+- **いもぼい** (May 21, 2026 10:40pm): うえい
+- **ふっじー（犬系）** (May 21, 2026 10:48pm): ふっじーです　
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (May 22, 2026 12:20am): なぞにおもい
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (May 22, 2026 12:21am): 激重gifアイコンの名無しがいるせいだ
+- **るき** (May 22, 2026 01:55am): るきだよーよろしく
+- **最強くん(諸説あり)** (May 22, 2026 01:56am): 2週間以内にフォロワー25いかなかったら名前を仙人さんにフォローしてもらうに変えます　前回のは甘かったと思います
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (May 22, 2026 02:02am): 了解
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (May 22, 2026 02:03am): その名前にすればいいんじゃないんでしょうか
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (May 22, 2026 02:03am): こちらに得はない🥱
+- **にんじん** (May 22, 2026 04:49am): にんじんだよん
+- **ほそかわせいや** (May 22, 2026 05:59am): 重い
+- **ningenですよ！！（元ningen）** (May 22, 2026 06:48am): ningenだよ
+- **ningenですよ！！（元ningen）** (May 22, 2026 06:48am): よろしくね
+- **ningenですよ！！（元ningen）** (May 22, 2026 06:49am): いちおう
+- **ningenですよ！！（元ningen）** (May 22, 2026 06:49am): 性別だけ言うわ
+- **ningenですよ！！（元ningen）** (May 22, 2026 06:49am): 女です
+- **ningenですよ！！（元ningen）** (May 22, 2026 06:49am): よろしく＝〜〜〜〜〜
+- **葵** (May 22, 2026 08:12am): 性別を言わなくてもいいんだよ
+- **フォトナしたいいいいいいいいいいいいいいいいいい** (May 22, 2026 09:38am): みんみんだよー
+- **フォトナしたいいいいいいいいいいいいいいいいいい** (May 22, 2026 09:38am): はいってねー
+- **フォトナしたいいいいいいいいいいいいいいいいいい** (May 22, 2026 09:38am): https://padlet.com/gs225708/padlet-gkok8j8e50awktc4
+- **フォトナしたいいいいいいいいいいいいいいいいいい** (May 22, 2026 09:38am): 僕の部屋
+- **葵** (May 22, 2026 09:43am): 入ってみて
+- **葵** (May 22, 2026 09:43am): https://padlet.com/gs226187/padlet-d6s5u5th6rpsws04
+- **葵** (May 22, 2026 09:44am): コナン好きのための部屋
+- **葵** (May 22, 2026 09:44am): 新しい部屋だよ〜
+- **それら** (May 22, 2026 10:00am): こんにちは
+- **ほそかわせいや** (May 22, 2026 10:07am): 重すぎる
+- **ハル春** (May 22, 2026 10:52am): 重くてちょっとしかひらけん
+- **karaage** (May 23, 2026 02:48am): こんにちは〜
+- **お文具とドズル社** (May 24, 2026 01:24am): https://padlet.com/remodjska/padlet-if7u7dk8neuwit1r
+- **INTERACT** (May 24, 2026 01:46am): INTERACTです
+- **Anonymous** (May 25, 2026 10:06am): うお
+- **Anonymous** (May 25, 2026 10:06am): に
+- **にゃんこ好き** (May 26, 2026 08:46am): なんか全部消されてね？
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 05/21 21:43
-- **更新日（UTC）:** 05/21 21:43
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** May 21, 2026 09:43pm
+- **Updated At (UTC):** May 21, 2026 09:43pm
 
 ---
 
 ## 雑談
 
-### 1. 投稿 1
-**作成者:** moririn_214 (1519061hinata)
+### 1. Post 1
+**Author:** moririn_214 (1519061hinata)
 
 <p>いるけど</p>
 
-#### コメント (63)
-- **仙人@suger** (05/22 12:37): 🎵😍🎵
-- **仙人@suger** (05/22 12:37): うれしい
-- **暇人** (05/22 13:14): こんばんは！復活してて嬉しい
-- **にんじん** (05/22 22:17): よろしくです
-- **ningenですよ！！（元ningen）** (05/22 22:23): ここんんｎ
-- **ningenですよ！！（元ningen）** (05/22 22:23): 人間だよ〜〜〜
-- **にんじん** (05/22 22:24): にんじんだよー！！ｗ
-- **ningenですよ！！（元ningen）** (05/22 22:25): にんじんさん
-- **ningenですよ！！（元ningen）** (05/22 22:25): ！！
-- **にんじん** (05/22 22:25): 人間さん！！
-- **にんじん** (05/22 22:25): よろしくです！！
-- **ningenですよ！！（元ningen）** (05/22 22:25): いま
-- **にんじん** (05/22 22:25): はい！！
-- **ningenですよ！！（元ningen）** (05/22 22:25): 新しく
-- **ningenですよ！！（元ningen）** (05/22 22:25): pdletに
-- **ningenですよ！！（元ningen）** (05/22 22:25): 入部する子がいるんです
-- **ningenですよ！！（元ningen）** (05/22 22:25): ！！
-- **にんじん** (05/22 22:26): まじすか！！
-- **ningenですよ！！（元ningen）** (05/22 22:26): マジすよ
-- **にんじん** (05/22 22:26): 最高です
-- **にんじん** (05/22 22:26): こちらの世界へようこそ
-- **ningenですよ！！（元ningen）** (05/22 22:26): ｗｗ
-- **にんじん** (05/22 22:26): ｗｗ
-- **ningenですよ！！（元ningen）** (05/22 22:27): いま
-- **にんじん** (05/22 22:27): はい！
-- **ningenですよ！！（元ningen）** (05/22 22:27): 私のこと探してもらってるんですけど〜〜〜
-- **ningenですよ！！（元ningen）** (05/22 22:27): 来ないっすね
-- **にんじん** (05/22 22:27): ほぉ！！
-- **にんじん** (05/22 22:27): がんばれー！新人ちゃん！！
-- **ningenですよ！！（元ningen）** (05/22 22:29): 見つけてもらった
-- **にんじん** (05/22 22:29): おお！！
-- **にんじん** (05/22 22:29): すご！！
-- **ningenですよ！！（元ningen）** (05/22 22:29): いまアカウント作ってって言ってる
-- **にんじん** (05/22 22:30): ナイスです
-- **ningenですよ！！（元ningen）** (05/22 22:30): なんか
-- **にんじん** (05/22 22:30): はい！
-- **ningenですよ！！（元ningen）** (05/22 22:30): 抜けたんだけど。。
-- **にんじん** (05/22 22:30): ！？
-- **にんじん** (05/22 22:31): だいじょぶそうすか？
-- **ningenですよ！！（元ningen）** (05/22 22:31): わからん
-- **ningenですよ！！（元ningen）** (05/22 22:31): なんか
-- **にんじん** (05/22 22:31): あらまぁ
-- **ningenですよ！！（元ningen）** (05/22 22:31): びぶっしゅ
-- **ningenですよ！！（元ningen）** (05/22 22:31): って子も抜けた
-- **ningenですよ！！（元ningen）** (05/22 22:31): その子は
-- **ningenですよ！！（元ningen）** (05/22 22:32): pdletやってんですけどね
-- **にんじん** (05/22 22:32): ほぉ！
-- **ningenですよ！！（元ningen）** (05/22 22:32): ちょっとまっててください
-- **ningenですよ！！（元ningen）** (05/22 22:32): すぐ戻ります
-- **ningenですよ！！（元ningen）** (05/22 22:32): あおさん!!!
-- **葵** (05/22 22:32): こんにちは！
-- **にんじん** (05/22 22:36): こん
-- **にんじん** (05/22 22:36): 部活行ってきますばばい
-- **ningenですよ！！（元ningen）** (05/22 22:37): おｋ
-- **ningenですよ！！（元ningen）** (05/22 22:37): 部活頑張れ
-- **ningenですよ！！（元ningen）** (05/22 22:37): 私
-- **ningenですよ！！（元ningen）** (05/22 22:37): ぶかつしたくないから
-- **ningenですよ！！（元ningen）** (05/22 22:37): 帰宅部です
-- **ningenですよ！！（元ningen）** (05/22 22:38): 中学の時は
-- **ningenですよ！！（元ningen）** (05/22 22:38): やってたけど
-- **にんじん** (05/23 06:37): ｗ
-- **にんじん** (05/23 06:37): え？何年すか？
-- **せーちゃん** (05/23 10:13): にんにん！！ちょっとお願い何だけど
+#### Comments (63)
+- **仙人@suger** (May 22, 2026 12:37pm): 🎵😍🎵
+- **仙人@suger** (May 22, 2026 12:37pm): うれしい
+- **暇人** (May 22, 2026 01:14pm): こんばんは！復活してて嬉しい
+- **にんじん** (May 22, 2026 10:17pm): よろしくです
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:23pm): ここんんｎ
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:23pm): 人間だよ〜〜〜
+- **にんじん** (May 22, 2026 10:24pm): にんじんだよー！！ｗ
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:25pm): にんじんさん
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:25pm): ！！
+- **にんじん** (May 22, 2026 10:25pm): 人間さん！！
+- **にんじん** (May 22, 2026 10:25pm): よろしくです！！
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:25pm): いま
+- **にんじん** (May 22, 2026 10:25pm): はい！！
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:25pm): 新しく
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:25pm): pdletに
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:25pm): 入部する子がいるんです
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:25pm): ！！
+- **にんじん** (May 22, 2026 10:26pm): まじすか！！
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:26pm): マジすよ
+- **にんじん** (May 22, 2026 10:26pm): 最高です
+- **にんじん** (May 22, 2026 10:26pm): こちらの世界へようこそ
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:26pm): ｗｗ
+- **にんじん** (May 22, 2026 10:26pm): ｗｗ
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:27pm): いま
+- **にんじん** (May 22, 2026 10:27pm): はい！
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:27pm): 私のこと探してもらってるんですけど〜〜〜
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:27pm): 来ないっすね
+- **にんじん** (May 22, 2026 10:27pm): ほぉ！！
+- **にんじん** (May 22, 2026 10:27pm): がんばれー！新人ちゃん！！
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:29pm): 見つけてもらった
+- **にんじん** (May 22, 2026 10:29pm): おお！！
+- **にんじん** (May 22, 2026 10:29pm): すご！！
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:29pm): いまアカウント作ってって言ってる
+- **にんじん** (May 22, 2026 10:30pm): ナイスです
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:30pm): なんか
+- **にんじん** (May 22, 2026 10:30pm): はい！
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:30pm): 抜けたんだけど。。
+- **にんじん** (May 22, 2026 10:30pm): ！？
+- **にんじん** (May 22, 2026 10:31pm): だいじょぶそうすか？
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:31pm): わからん
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:31pm): なんか
+- **にんじん** (May 22, 2026 10:31pm): あらまぁ
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:31pm): びぶっしゅ
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:31pm): って子も抜けた
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:31pm): その子は
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:32pm): pdletやってんですけどね
+- **にんじん** (May 22, 2026 10:32pm): ほぉ！
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:32pm): ちょっとまっててください
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:32pm): すぐ戻ります
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:32pm): あおさん!!!
+- **葵** (May 22, 2026 10:32pm): こんにちは！
+- **にんじん** (May 22, 2026 10:36pm): こん
+- **にんじん** (May 22, 2026 10:36pm): 部活行ってきますばばい
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:37pm): おｋ
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:37pm): 部活頑張れ
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:37pm): 私
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:37pm): ぶかつしたくないから
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:37pm): 帰宅部です
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:38pm): 中学の時は
+- **ningenですよ！！（元ningen）** (May 22, 2026 10:38pm): やってたけど
+- **にんじん** (May 23, 2026 06:37am): ｗ
+- **にんじん** (May 23, 2026 06:37am): え？何年すか？
+- **せーちゃん** (May 23, 2026 10:13am): にんにん！！ちょっとお願い何だけど
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/22 12:12
-- **更新日（UTC）:** 05/22 12:12
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 22, 2026 12:12pm
+- **Updated At (UTC):** May 22, 2026 12:12pm
 
 ---
 
 ### 2. こんにちは～
-**作成者:** 葵 (gs226187)
+**Author:** 葵 (gs226187)
 
 <p>誰かいる？</p>
 
 ![江戸川コナン](https://media0.giphy.com/media/v1.Y2lkPWNhYmM5OTE4MmNybXY5dnpjYzZyeDM3aXg3cHRiMjl4YjJ6aWI0eThpYzNudGcwbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5XYZ7T2ulncTpwSlA4/giphy.gif)
 
-#### コメント (4)
-- **にゃんこ好き** (05/22 11:56): いえう
-- **にんじん** (05/22 22:15): やほ
-- **葵** (05/23 11:03): やっほ〜
-- **せーちゃん** (05/26 23:31): mosimosiきこえてる？
+#### Comments (4)
+- **にゃんこ好き** (May 22, 2026 11:56am): いえう
+- **にんじん** (May 22, 2026 10:15pm): やほ
+- **葵** (May 23, 2026 11:03am): やっほ〜
+- **せーちゃん** (May 26, 2026 11:31pm): mosimosiきこえてる？
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/22 11:42
-- **更新日（UTC）:** 05/22 11:42
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 22, 2026 11:42am
+- **Updated At (UTC):** May 22, 2026 11:42am
 
 ---
 
 ## 長い雑談
 
-投稿はありません
+No post
 
 ## 宣伝
 
 ### 1. お誘い
-**作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>仙人Tubeがストリーム再生可能になったら教えて下さい。専用のセクションを作ります。</p>
 
-[添付ファイル 1](https://padlet.com/padlets/a8v7cjbbfni702kg)
+[Attachment 1](https://padlet.com/padlets/a8v7cjbbfni702kg)
 
-#### コメント (5)
-- **仙人@suger** (08/04 22:49): 分かりました、今から頑張って開発します
-- **ᏁγᎶ » Tøka_Kuŋ_** (08/05 00:21): 普通に仙人Tube使いやすい
-- **ᏁγᎶ » Tøka_Kuŋ_** (08/05 00:21): 家のWifiだったらNocookie行ける民だからありがたい
-- **ハマグリ** (05/24 11:45): https://padlet.com/zomameza/padlet-850jer93kyaa1e7x
-- **ハマグリ** (05/24 11:45): 来てください
+#### Comments (5)
+- **仙人@suger** (Aug 04, 2025 10:49pm): 分かりました、今から頑張って開発します
+- **ᏁγᎶ » Tøka_Kuŋ_** (Aug 05, 2025 12:21am): 普通に仙人Tube使いやすい
+- **ᏁγᎶ » Tøka_Kuŋ_** (Aug 05, 2025 12:21am): 家のWifiだったらNocookie行ける民だからありがたい
+- **ハマグリ** (May 24, 2026 11:45am): https://padlet.com/zomameza/padlet-850jer93kyaa1e7x
+- **ハマグリ** (May 24, 2026 11:45am): 来てください
 
-#### リアクション
-- **絵文字:** ❤️ (4)
+#### Reactions
+- **Emojis:** ❤️ (4)
 
-#### その他の情報
-- **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/03 05:15
-- **更新日（UTC）:** 02/17 09:27
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** Aug 03, 2025 05:15am
+- **Updated At (UTC):** Feb 17, 2026 09:27am
 
 ---
 
 ### 2. お願い
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>ここに宣伝してください</p>
 
-#### リアクション
-- **絵文字:** ❤️ (11)
+#### Reactions
+- **Emojis:** ❤️ (11)
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 01/28 08:59
-- **更新日（UTC）:** 01/28 10:20
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Jan 28, 2026 08:59am
+- **Updated At (UTC):** Jan 28, 2026 10:20am
 
 ---
 
 ### 3. みんな入ってー
-**作成者:** フォトナしたいいいいいいいいいいいいいいいいいい (gs225708)
+**Author:** フォトナしたいいいいいいいいいいいいいいいいいい (gs225708)
 
 <p>ここはいってー</p>
 
-[添付ファイル 1](https://padlet.com/gs225708/padlet-gkok8j8e50awktc4)
+[Attachment 1](https://padlet.com/gs225708/padlet-gkok8j8e50awktc4)
 
-#### コメント (4)
-- **フォトナしたいいいいいいいいいいいいいいいいいい** (05/20 23:34): お願いします
-- **rx7しか勝たん** (05/21 07:05): マイクラhttps://padlet.com/ilikerx7/pc-x08udub1h5jcfses
-- **rx7しか勝たん** (05/21 07:05): あらしたれhttps://padlet.com/ilikerx7/arasitare
-- **フォトナしたいいいいいいいいいいいいいいいいいい** (05/22 02:51): onegaisimasu
+#### Comments (4)
+- **フォトナしたいいいいいいいいいいいいいいいいいい** (May 20, 2026 11:34pm): お願いします
+- **rx7しか勝たん** (May 21, 2026 07:05am): マイクラhttps://padlet.com/ilikerx7/pc-x08udub1h5jcfses
+- **rx7しか勝たん** (May 21, 2026 07:05am): あらしたれhttps://padlet.com/ilikerx7/arasitare
+- **フォトナしたいいいいいいいいいいいいいいいいいい** (May 22, 2026 02:51am): onegaisimasu
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/20 23:34
-- **更新日（UTC）:** 05/20 23:34
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 20, 2026 11:34pm
+- **Updated At (UTC):** May 20, 2026 11:34pm
 
 ---
 
 ### 4. 来てー
-**作成者:** ほそかわせいや (hosokawaseiya55)
+**Author:** ほそかわせいや (hosokawaseiya55)
 
-[添付ファイル 1](https://padlet.com/hosokawaseiya55/padlet-2clh30cnv85hkzv5)
+[Attachment 1](https://padlet.com/hosokawaseiya55/padlet-2clh30cnv85hkzv5)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/20 22:07
-- **更新日（UTC）:** 05/20 22:07
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 20, 2026 10:07pm
+- **Updated At (UTC):** May 20, 2026 10:07pm
 
 ---
 
 ### 5. 👀
-**作成者:** ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛ (neon_ix)
+**Author:** ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛ (neon_ix)
 
 <p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p>
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/20 09:39
-- **更新日（UTC）:** 05/20 09:39
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 20, 2026 09:39am
+- **Updated At (UTC):** May 20, 2026 09:39am
 
 ---
 
 ### 6. 入って
-**作成者:** 暇人 (56748573)
+**Author:** 暇人 (56748573)
 
-[添付ファイル 1](https://padlet.com/56748573/padlet-vshciiqezqb4ltj2)
+[Attachment 1](https://padlet.com/56748573/padlet-vshciiqezqb4ltj2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/20 04:03
-- **更新日（UTC）:** 05/20 04:03
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 20, 2026 04:03am
+- **Updated At (UTC):** May 20, 2026 04:03am
 
 ---
 
 ### 7. フォローしてあげて〜　最強くん
-**作成者:** Aira🍒⛸️ (s1846146)
+**Author:** Aira🍒⛸️ (s1846146)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5624833792/aa1868d94abf8a5b39fc1bf457cc5b4a/IMG_0106.jpeg?Expires=1780487708&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bsl9EoN6iPiTT3cDWD7c8AZcwjv1RUz8LEsAWFI67%2FzIrOSZltN55tEcuZUEVxJTkVdTfkEcItZHiIsaGYi2c4WHNVk7YohduXLDy1NTdYsdgYTAfqOQnNEJeAGVTPmuKIU4p0kGaLEARR49%2Ft%2BwtFT48ooklQbW3MIkKO8EVB8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5624833792%2Faa1868d94abf8a5b39fc1bf457cc5b4a%2FIMG_0106.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5624833792/aa1868d94abf8a5b39fc1bf457cc5b4a/IMG_0106.jpeg?Expires=1780502913&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=22z7iOQrILYA58G2nH9fE1tCP%2BStzaWA4kJqACd%2B7I8g2OXR3bhlIhFdmKMc0qo279Y1Ms3RhR8vPhcOI%2F6TY23xz%2BWiqHTniPdmhMoQQOIor6AXiKCV%2BcCI8N%2Bv1FqYoFvn%2B6UPdZrCpm1vTKAXba7zIeryvgrIuu%2Bw1o5vKQY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5624833792%2Faa1868d94abf8a5b39fc1bf457cc5b4a%2FIMG_0106.jpeg)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/20 03:51
-- **更新日（UTC）:** 05/20 03:51
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 20, 2026 03:51am
+- **Updated At (UTC):** May 20, 2026 03:51am
 
 ---
 
-### 8. 投稿 8
-**作成者:** せーちゃん
+### 8. Post 8
+**Author:** せーちゃん
 
-[添付ファイル 1](https://global-edu.onrender.com/)
+[Attachment 1](https://global-edu.onrender.com/)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/20 02:23
-- **更新日（UTC）:** 05/20 21:31
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 20, 2026 02:23am
+- **Updated At (UTC):** May 20, 2026 09:31pm
 
 ---
 
 ### 9. みんな入って
-**作成者:** フォトナしたいいいいいいいいいいいいいいいいいい (gs225708)
+**Author:** フォトナしたいいいいいいいいいいいいいいいいいい (gs225708)
 
-[添付ファイル 1](https://padlet.com/gs225708/padlet-gkok8j8e50awktc4)
+[Attachment 1](https://padlet.com/gs225708/padlet-gkok8j8e50awktc4)
 
-#### コメント (1)
-- **葵** (05/24 01:33): おすすめだよ！
+#### Comments (1)
+- **葵** (May 24, 2026 01:33am): おすすめだよ！
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/20 02:18
-- **更新日（UTC）:** 05/20 02:18
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 20, 2026 02:18am
+- **Updated At (UTC):** May 20, 2026 02:18am
 
 ---
 
 ### 10. お願いします
-**作成者:** ささごなおき (s2206019_2)
+**Author:** ささごなおき (s2206019_2)
 
 <p>入ってくれーパスワードは　最初はグー</p><p><br/></p><p><br/></p>
 
-[添付ファイル 1](https://padlet.com/s2206019_2/hunterxhunter-gfbtpnzh99vnpvcx)
+[Attachment 1](https://padlet.com/s2206019_2/hunterxhunter-gfbtpnzh99vnpvcx)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/19 11:45
-- **更新日（UTC）:** 05/19 11:46
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 19, 2026 11:45am
+- **Updated At (UTC):** May 19, 2026 11:46am
 
 ---
 
 ### 11. 横揺れデストロイモード好きかな
-**作成者:** 最強くん(諸説あり) (s220765_6)
+**Author:** 最強くん(諸説あり) (s220765_6)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5663872295/cba53e1529079f7d63c87115dd6c2607/chernobyl_2017_meland_x_hauken.mp3?Expires=1780487708&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ShXUxBXeuchbiPuP%2BOLJ2jOb%2B0ThZAKZAodBmy%2BLQrx%2FZihfJOZVB6ZYFpnujM0RbgCQCCIbEYA0EXD0aeOeH94c2cyoXZj%2B95BsVupFyWmrKF8GW5m2vMBnJiVD%2B8BTGBByLrjx2bUVBP6rR1u4%2B4ayYgRbp4UqFAMnyf5fiz8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5663872295%2Fcba53e1529079f7d63c87115dd6c2607%2Fchernobyl_2017_meland_x_hauken.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5663872295/cba53e1529079f7d63c87115dd6c2607/chernobyl_2017_meland_x_hauken.mp3?Expires=1780502913&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=gn2KLhzSN9dYTTAzVLuUNGY58D6yfTz09nikBZ319KjtiYqBpYMpTHp5goz0IzzYlJMdDS2UpOF8c4rwF5GMql5%2BDJ8%2B52Yx1rFPlk2gzJxPQ0yppSLlgTvkE5HOYvsqbxJ%2BGQm7yFx7vXryq2JA%2BN1INQwYZyip8gBQgw8%2FxEM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5663872295%2Fcba53e1529079f7d63c87115dd6c2607%2Fchernobyl_2017_meland_x_hauken.mp3)
 
-#### コメント (1)
-- **最強くん(諸説あり)** (05/20 01:16): 返信ない泣き
+#### Comments (1)
+- **最強くん(諸説あり)** (May 20, 2026 01:16am): 返信ない泣き
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/19 11:19
-- **更新日（UTC）:** 05/19 11:19
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 19, 2026 11:19am
+- **Updated At (UTC):** May 19, 2026 11:19am
 
 ---
 
 ### 12. よかったらきてくだせぇ
-**作成者:** にんじん (1926025019)
+**Author:** にんじん (1926025019)
 
-[添付ファイル 1](https://padlet.com/1926025019/padlet-fh870p7fch3db5tl)
+[Attachment 1](https://padlet.com/1926025019/padlet-fh870p7fch3db5tl)
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 22:23
-- **更新日（UTC）:** 05/18 22:23
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 10:23pm
+- **Updated At (UTC):** May 18, 2026 10:23pm
 
 ---
 
 ### 13. 入ってくれたら感謝！
-**作成者:** ぽてと。 (gs221399)
+**Author:** ぽてと。 (gs221399)
 
-[添付ファイル 1](https://padlet.com/padlets/algz8ez7xngdq8cn)
+[Attachment 1](https://padlet.com/padlets/algz8ez7xngdq8cn)
 
-#### コメント (2)
-- **ほそかわせいや** (05/18 10:11): 入れない
-- **葵** (05/24 01:33): ゴミ箱入り
+#### Comments (2)
+- **ほそかわせいや** (May 18, 2026 10:11am): 入れない
+- **葵** (May 24, 2026 01:33am): ゴミ箱入り
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 10:06
-- **更新日（UTC）:** 05/18 10:09
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 10:06am
+- **Updated At (UTC):** May 18, 2026 10:09am
 
 ---
 
 ### 14. https://padlet.com/RRR1221/padlet-uedoaglhn35g35nl
-**作成者:** ⚡️りんか⚡️ (RRR1221)
+**Author:** ⚡️りんか⚡️ (RRR1221)
 
-[添付ファイル 1](https://padlet.com/RRR1221/padlet-uedoaglhn35g35nl)
+[Attachment 1](https://padlet.com/RRR1221/padlet-uedoaglhn35g35nl)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 04:08
-- **更新日（UTC）:** 05/18 04:08
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 04:08am
+- **Updated At (UTC):** May 18, 2026 04:08am
 
 ---
 
 ### 15. 入ってね
-**作成者:** ふっじー（犬系） (1926018025)
+**Author:** ふっじー（犬系） (1926018025)
 
-[添付ファイル 1](https://padlet.com/2014800_2/proxy-5nbkargdpu0ml1tf)
+[Attachment 1](https://padlet.com/2014800_2/proxy-5nbkargdpu0ml1tf)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 23:58
-- **更新日（UTC）:** 05/17 00:16
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 11:58pm
+- **Updated At (UTC):** May 17, 2026 12:16am
 
 ---
 
 ### 16. きてね
-**作成者:** 𝑡𝑎𝑖𝑦𝑎𝑘𝑖！ (2514115_1)
+**Author:** 𝑡𝑎𝑖𝑦𝑎𝑘𝑖！ (2514115_1)
 
-[添付ファイル 1](https://padlet.com/saburoutozirou/padlet-hlempaczgkpgdgvd)
+[Attachment 1](https://padlet.com/saburoutozirou/padlet-hlempaczgkpgdgvd)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 17:59
-- **更新日（UTC）:** 05/16 17:59
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 05:59pm
+- **Updated At (UTC):** May 16, 2026 05:59pm
 
 ---
 
 ### 17. たけのこの里ときのこの山のアンケート
-**作成者:** 葵 (gs226187)
+**Author:** 葵 (gs226187)
 
 <p>はいってはいって</p>
 
 [https://padlet.com/gs226187/padlet-8dtd2zvnbrveh8el](https://padlet.com/gs226187/padlet-8dtd2zvnbrveh8el)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 09:45
-- **更新日（UTC）:** 05/16 09:45
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 09:45am
+- **Updated At (UTC):** May 16, 2026 09:45am
 
 ---
 
 ### 18. みんな入ってー！
-**作成者:** ふっじー（犬系） (1926018025)
+**Author:** ふっじー（犬系） (1926018025)
 
-[添付ファイル 1](https://padlet.com/8888800811117777/padlet-e92ijsxshzcq0g0v)
+[Attachment 1](https://padlet.com/8888800811117777/padlet-e92ijsxshzcq0g0v)
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 03:53
-- **更新日（UTC）:** 05/16 03:53
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 03:53am
+- **Updated At (UTC):** May 16, 2026 03:53am
 
 ---
 
 ### 19. みんなでにゃんこ大戦争を攻略する。
-**作成者:** Tomoharukun (Tomoharukun)
+**Author:** Tomoharukun (Tomoharukun)
 
 <p>にゃんこ大戦争攻略ボードです</p><p>誰か入ってたのむ</p>
 
-[添付ファイル 1](https://padlet.com/padlets/xe7sz9ck0rhu8hsv)
+[Attachment 1](https://padlet.com/padlets/xe7sz9ck0rhu8hsv)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 02:04
-- **更新日（UTC）:** 05/16 02:04
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 02:04am
+- **Updated At (UTC):** May 16, 2026 02:04am
 
 ---
 
 ### 20. 煮られてる物の受付
-**作成者:** ウルトラソウル！！！（9時以降にしか来れないよ☆超低浮上なので夜露死苦） (dcvhjutrdcvbn)
+**Author:** ウルトラソウル！！！（9時以降にしか来れないよ☆超低浮上なので夜露死苦） (dcvhjutrdcvbn)
 
-[添付ファイル 1](https://padlet.com/unsmoothyelpzap/padlet-1x3oc9hnbw3w6w0o)
+[Attachment 1](https://padlet.com/unsmoothyelpzap/padlet-1x3oc9hnbw3w6w0o)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 01:41
-- **更新日（UTC）:** 05/16 01:41
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 01:41am
+- **Updated At (UTC):** May 16, 2026 01:41am
 
 ---
 
 ### 21. https://padlet.com/ahonohitoshi
-**作成者:** 旧世界男 (ahonohitoshi)
+**Author:** 旧世界男 (ahonohitoshi)
 
 <p><a rel="noopener noreferrer nofollow" class="truncate text-current block font-semibold text-12-14 hover-hover:hover:underline" href="https://padlet.com/ahonohitoshi">旧世界男</a></p>
 
-#### コメント (1)
-- **旧世界男** (05/15 12:55): ここを押すと俺のアカウントに飛べるからフォローしてね
+#### Comments (1)
+- **旧世界男** (May 15, 2026 12:55pm): ここを押すと俺のアカウントに飛べるからフォローしてね
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 12:54
-- **更新日（UTC）:** 05/15 12:54
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 15, 2026 12:54pm
+- **Updated At (UTC):** May 15, 2026 12:54pm
 
 ---
 
 ### 22. フォローよろしく
-**作成者:** ぽてと。 (gs221399)
+**Author:** ぽてと。 (gs221399)
 
-[添付ファイル 1](https://padlet.com/padlets/bh27pzrvbrblpd69)
+[Attachment 1](https://padlet.com/padlets/bh27pzrvbrblpd69)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 09:46
-- **更新日（UTC）:** 05/15 09:46
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 15, 2026 09:46am
+- **Updated At (UTC):** May 15, 2026 09:46am
 
 ---
 
-### 23. 投稿 23
-**作成者:** 谷内ですーー (gs225971)
+### 23. Post 23
+**Author:** 谷内ですーー (gs225971)
 
 <p><br/></p><p>入ってくれ</p>
 
-[添付ファイル 1](https://padlet.com/gs225971/padlet-m45u0j8dslato9h8)
+[Attachment 1](https://padlet.com/gs225971/padlet-m45u0j8dslato9h8)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/14 22:32
-- **更新日（UTC）:** 05/14 22:32
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 14, 2026 10:32pm
+- **Updated At (UTC):** May 14, 2026 10:32pm
 
 ---
 
 ### 24. 東方ファンクラブ
-**作成者:** kira (7372971)
+**Author:** kira (7372971)
 
 <p>パスは妖怪寺</p><p>ｎは一つ</p>
 
-[添付ファイル 1](https://padlet.com/7372971/padlet-mmycfhg0vyreay9u)
+[Attachment 1](https://padlet.com/7372971/padlet-mmycfhg0vyreay9u)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/14 13:15
-- **更新日（UTC）:** 05/14 13:15
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 14, 2026 01:15pm
+- **Updated At (UTC):** May 14, 2026 01:15pm
 
 ---
 
 ### 25. 部屋来て
-**作成者:** Aira🍒⛸️ (s1846146)
+**Author:** Aira🍒⛸️ (s1846146)
 
-[添付ファイル 1](https://padlet.com/thickburnfoundation/padlet-6vwabkkbhoemd1tn)
+[Attachment 1](https://padlet.com/thickburnfoundation/padlet-6vwabkkbhoemd1tn)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/14 12:54
-- **更新日（UTC）:** 05/14 13:13
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 14, 2026 12:54pm
+- **Updated At (UTC):** May 14, 2026 01:13pm
 
 ---
 
 ### 26. 部屋来て
-**作成者:** Aira🍒⛸️ (s1846146)
+**Author:** Aira🍒⛸️ (s1846146)
 
 <p>推し活してる人ぜひ！</p>
 
-[添付ファイル 1](https://padlet.com/thickburnfoundation/padlet-y9mbgpz5ugvfbsk6)
+[Attachment 1](https://padlet.com/thickburnfoundation/padlet-y9mbgpz5ugvfbsk6)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/14 12:43
-- **更新日（UTC）:** 05/14 13:13
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 14, 2026 12:43pm
+- **Updated At (UTC):** May 14, 2026 01:13pm
 
 ---
 
-### 27. 投稿 27
-**作成者:** 谷内ですーー (gs225971)
+### 27. Post 27
+**Author:** 谷内ですーー (gs225971)
 
 <p>カフート学校どこにあるの？</p>
 
-#### コメント (2)
-- **葵** (05/15 08:24): カフートはgoogleでしらべたらできます
-- **ぽてと。** (05/15 09:47): https://create.kahoot.it/discover?language=ja
+#### Comments (2)
+- **葵** (May 15, 2026 08:24am): カフートはgoogleでしらべたらできます
+- **ぽてと。** (May 15, 2026 09:47am): https://create.kahoot.it/discover?language=ja
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/14 12:14
-- **更新日（UTC）:** 05/14 12:14
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 14, 2026 12:14pm
+- **Updated At (UTC):** May 14, 2026 12:14pm
 
 ---
 
-### 28. 投稿 28
-**作成者:** 谷内ですーー (gs225971)
+### 28. Post 28
+**Author:** 谷内ですーー (gs225971)
 
 <p>入ってきてね</p>
 
-[添付ファイル 1](https://padlet.com/gs225971/padlet-ldmjan2vq85vexbm)
+[Attachment 1](https://padlet.com/gs225971/padlet-ldmjan2vq85vexbm)
 
-#### コメント (2)
-- **おでん三兄弟　＃アカウントログインできなくなった** (05/14 11:47): okke
-- **谷内ですーー** (05/14 22:31): gatiiii
+#### Comments (2)
+- **おでん三兄弟　＃アカウントログインできなくなった** (May 14, 2026 11:47am): okke
+- **谷内ですーー** (May 14, 2026 10:31pm): gatiiii
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/14 11:46
-- **更新日（UTC）:** 05/14 11:46
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 14, 2026 11:46am
+- **Updated At (UTC):** May 14, 2026 11:46am
 
 ---
 
 ### 29. 歌い手の人！お願いがある！
-**作成者:** 機械マニア
+**Author:** 機械マニア
 
 <p>実はいま某チャットサイトでボーカロイドを自作するプロジェクトがあるんだけど声がなくてこまってる！お願いだからきてくれ！</p><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/a/macros/chuo-tky.ed.jp/s/AKfycbzZr6_OlbryeiykIF5KDlPXlT8M5UEdRyietdS9jMsHfqCeeGOcG1H-VO3RZd5CW7bn/exec">https://script.google.com/a/macros//s/AKfycbzZr6_OlbryeiykIF5KDlPXlT8M5UEdRyietdS9jMsHfqCeeGOcG1H-VO3RZd5CW7bn/exec</a></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5647885117/89439df0e7fedb60203f61c3ae65b75e/7284caa9_8aab_4f52_8481_ae2c755a4422.png?Expires=1780487708&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=lMAsT%2BraMi0I5jCKfXx09IK1mMXw9SM%2BoqU4wlKefqJdKwGg7vkAvd%2FOFP7Cz3KMa1Yhjjjhg81jxsD9%2BgQrhMbRtilSA%2BTTQBvMLEOmZUuA6xdrY9sS5yL6MHiKuBB4wx5Mm0D3DYRphkVZIqwJQSf%2Ff0raIbsoTl8LEj4pDAs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5647885117%2F89439df0e7fedb60203f61c3ae65b75e%2F7284caa9_8aab_4f52_8481_ae2c755a4422.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5647885117/89439df0e7fedb60203f61c3ae65b75e/7284caa9_8aab_4f52_8481_ae2c755a4422.png?Expires=1780502914&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=whz1IG3KjFiXyofsljeRbw72JL%2B3i5slDgnETjCWBEtX0zBbMrFLAwMT1i%2B9jRorHm33W%2FjEFjekK%2FGDjYaQSq6AMoQa69iFJDYWiIrSbfggWaWHWIAPCHBHFM%2FBqGBzvHXwmqrLyG14YErW2HLjhscCk8KYM5My4lRCVhz1x7s%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5647885117%2F89439df0e7fedb60203f61c3ae65b75e%2F7284caa9_8aab_4f52_8481_ae2c755a4422.png)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/14 07:52
-- **更新日（UTC）:** 05/14 07:52
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 14, 2026 07:52am
+- **Updated At (UTC):** May 14, 2026 07:52am
 
 ---
 
 ### 30. うい
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://padlet.com/padlets/cbnqfv2ozv4sx1bg)
+[Attachment 1](https://padlet.com/padlets/cbnqfv2ozv4sx1bg)
 
-#### コメント (1)
-- **からあげ（元Dream）＃焼き鳥貴族３代目** (05/14 04:03): うい
+#### Comments (1)
+- **からあげ（元Dream）＃焼き鳥貴族３代目** (May 14, 2026 04:03am): うい
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/14 04:02
-- **更新日（UTC）:** 05/14 04:02
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 14, 2026 04:02am
+- **Updated At (UTC):** May 14, 2026 04:02am
 
 ---
 
 ### 31. きてーーーー
-**作成者:** チャーハン星人 (gs3356)
+**Author:** チャーハン星人 (gs3356)
 
 [https://padlet.com/gs3356/padlet-34evn61xnzy8te0](https://padlet.com/gs3356/padlet-34evn61xnzy8te0)
 
-#### コメント (1)
-- **からあげ（元Dream）＃焼き鳥貴族３代目** (05/14 02:53): おい
+#### Comments (1)
+- **からあげ（元Dream）＃焼き鳥貴族３代目** (May 14, 2026 02:53am): おい
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/14 02:21
-- **更新日（UTC）:** 05/14 02:55
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 14, 2026 02:21am
+- **Updated At (UTC):** May 14, 2026 02:55am
 
 ---
 
 ### 32. 私の部屋おいで〜
-**作成者:** Aira🍒⛸️ (s1846146)
+**Author:** Aira🍒⛸️ (s1846146)
 
-[添付ファイル 1](https://padlet.com/s1846146/padlet-u7uz4c7niif31r2u)
+[Attachment 1](https://padlet.com/s1846146/padlet-u7uz4c7niif31r2u)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 12:42
-- **更新日（UTC）:** 05/13 12:43
-
----
-
-### 33. 投稿 33
-**作成者:** 谷内ですーー (gs225971)
-
-<p>この部屋入ってくれーー」</p>
-
-[添付ファイル 1](https://padlet.com/gs225971/my-padlet-m45u0j8dslato9h8)
-
-#### リアクション
-- **絵文字:** ❤️ (1)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 10:03
-- **更新日（UTC）:** 05/13 10:03
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 12:42pm
+- **Updated At (UTC):** May 13, 2026 12:43pm
 
 ---
 
-### 34. 投稿 34
-**作成者:** 谷内ですーー (gs225971)
+### 33. Post 33
+**Author:** 谷内ですーー (gs225971)
 
 <p>この部屋入ってくれーー」</p>
 
-[添付ファイル 1](https://padlet.com/gs225971/my-padlet-m45u0j8dslato9h8)
+[Attachment 1](https://padlet.com/gs225971/my-padlet-m45u0j8dslato9h8)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/14 22:31
-- **更新日（UTC）:** 05/14 22:31
+#### Reactions
+- **Emojis:** ❤️ (1)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 10:03am
+- **Updated At (UTC):** May 13, 2026 10:03am
+
+---
+
+### 34. Post 34
+**Author:** 谷内ですーー (gs225971)
+
+<p>この部屋入ってくれーー」</p>
+
+[Attachment 1](https://padlet.com/gs225971/my-padlet-m45u0j8dslato9h8)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 14, 2026 10:31pm
+- **Updated At (UTC):** May 14, 2026 10:31pm
 
 ---
 
 ### 35. ガチできてーーー
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://padlet.com/padlets/cbnqfv2ozv4sx1bg)
+[Attachment 1](https://padlet.com/padlets/cbnqfv2ozv4sx1bg)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 04:14
-- **更新日（UTC）:** 05/13 04:14
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 04:14am
+- **Updated At (UTC):** May 13, 2026 04:14am
 
 ---
 
 ### 36. 自由
-**作成者:** ぽてと。 (gs221399)
+**Author:** ぽてと。 (gs221399)
 
 <p>フォローよろしく</p>
 
-[添付ファイル 1](https://padlet.com/padlets/bh27pzrvbrblpd69)
+[Attachment 1](https://padlet.com/padlets/bh27pzrvbrblpd69)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 03:14
-- **更新日（UTC）:** 05/13 03:14
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 03:14am
+- **Updated At (UTC):** May 13, 2026 03:14am
 
 ---
 
-### 37. 投稿 37
-**作成者:** 谷内ですーー (gs225971)
+### 37. Post 37
+**Author:** 谷内ですーー (gs225971)
 
 <p>入ってきてーー</p>
 
-[添付ファイル 1](https://padlet.com/gs225971/padlet-ldmjan2vq85vexbm)
+[Attachment 1](https://padlet.com/gs225971/padlet-ldmjan2vq85vexbm)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 03:10
-- **更新日（UTC）:** 05/13 03:10
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 03:10am
+- **Updated At (UTC):** May 13, 2026 03:10am
 
 ---
 
-### 38. 投稿 38
-**作成者:** 谷内ですーー (gs225971)
+### 38. Post 38
+**Author:** 谷内ですーー (gs225971)
 
 <p><br/></p><p><br/></p>
 
-[添付ファイル 1](https://padlet.com/gs225971/padlet-ldmjan2vq85vexbm)
+[Attachment 1](https://padlet.com/gs225971/padlet-ldmjan2vq85vexbm)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 03:09
-- **更新日（UTC）:** 05/13 03:09
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 03:09am
+- **Updated At (UTC):** May 13, 2026 03:09am
 
 ---
 
 ### 39. ここ来て
-**作成者:** 🍊うざいオレンジ@🍊嫌い？ﾅﾆ？◯してやる (gs222430)
+**Author:** 🍊うざいオレンジ@🍊嫌い？ﾅﾆ？◯してやる (gs222430)
 
 <p>自分の部屋なんだけど来てくれたらヾ(｡&gt;﹏&lt;｡)ﾉﾞ✧*。</p>
 
-[添付ファイル 1](https://padlet.com/padlets/cjelhz81ef67gded)
+[Attachment 1](https://padlet.com/padlets/cjelhz81ef67gded)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/12 08:52
-- **更新日（UTC）:** 05/12 08:52
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 12, 2026 08:52am
+- **Updated At (UTC):** May 12, 2026 08:52am
 
 ---
 
 ### 40. 来てね
-**作成者:** モンキー・D・ルフィ ギア５ ニカーーーー (Tokyo874321)
+**Author:** モンキー・D・ルフィ ギア５ ニカーーーー (Tokyo874321)
 
-[添付ファイル 1](https://padlet.com/s11210076/padlet-7muj2ui3h081tg1e)
+[Attachment 1](https://padlet.com/s11210076/padlet-7muj2ui3h081tg1e)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/12 07:41
-- **更新日（UTC）:** 05/12 07:41
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 12, 2026 07:41am
+- **Updated At (UTC):** May 12, 2026 07:41am
 
 ---
 
-### 41. 投稿 41
-**作成者:** ノクス (rieri_315)
+### 41. Post 41
+**Author:** ノクス (rieri_315)
 
 <p>興味ある方はぜひ</p>
 
-[添付ファイル 1](https://padlet.com/3751336/padlet-1ocor9bmbard4gki)
+[Attachment 1](https://padlet.com/3751336/padlet-1ocor9bmbard4gki)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/12 04:09
-- **更新日（UTC）:** 05/12 04:09
-
----
-
-### 42. 投稿 42
-**作成者:** 煮物 (derbybudgetbalmy)
-
-[添付ファイル 1](https://padlet.com/unsmoothyelpzap/padlet-1x3oc9hnbw3w6w0o)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/11 21:42
-- **更新日（UTC）:** 05/11 23:12
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 12, 2026 04:09am
+- **Updated At (UTC):** May 12, 2026 04:09am
 
 ---
 
-### 43. 投稿 43
-**作成者:** 谷内ですーー (gs225971)
+### 42. Post 42
+**Author:** 煮物 (derbybudgetbalmy)
+
+[Attachment 1](https://padlet.com/unsmoothyelpzap/padlet-1x3oc9hnbw3w6w0o)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 11, 2026 09:42pm
+- **Updated At (UTC):** May 11, 2026 11:12pm
+
+---
+
+### 43. Post 43
+**Author:** 谷内ですーー (gs225971)
 
 <p>僕の部屋入って来てください</p><p><br/></p>
 
-[添付ファイル 1](https://padlet.com/gs225971/padlet-ldmjan2vq85vexbm)
+[Attachment 1](https://padlet.com/gs225971/padlet-ldmjan2vq85vexbm)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/11 10:41
-- **更新日（UTC）:** 05/11 10:41
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 11, 2026 10:41am
+- **Updated At (UTC):** May 11, 2026 10:41am
 
 ---
 
 ### 44. ワイの変な部屋
-**作成者:** 三角定規２号 (s29260078)
+**Author:** 三角定規２号 (s29260078)
 
-[添付ファイル 1](https://padlet.com/s29260078/padlet-7vbqh7l0td7tg0xi)
+[Attachment 1](https://padlet.com/s29260078/padlet-7vbqh7l0td7tg0xi)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/11 10:07
-- **更新日（UTC）:** 05/11 10:07
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 11, 2026 10:07am
+- **Updated At (UTC):** May 11, 2026 10:07am
 
 ---
 
 ### 45. 入ってくれる人大好き！！
-**作成者:** にんじん (1926025019)
+**Author:** にんじん (1926025019)
 
-[添付ファイル 1](https://padlet.com/1926025019/padlet-fh870p7fch3db5tl)
+[Attachment 1](https://padlet.com/1926025019/padlet-fh870p7fch3db5tl)
 
-#### コメント (1)
-- **kira** (05/12 12:34): あおちょは根っからのクズだけど君は純粋かどうか知らないけれどまぁいい人だろうね。
+#### Comments (1)
+- **kira** (May 12, 2026 12:34pm): あおちょは根っからのクズだけど君は純粋かどうか知らないけれどまぁいい人だろうね。
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/11 03:17
-- **更新日（UTC）:** 05/11 03:17
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 11, 2026 03:17am
+- **Updated At (UTC):** May 11, 2026 03:17am
 
 ---
 
 ### 46. kitene
-**作成者:** aotan　本垢 (aotan_0725)
+**Author:** aotan　本垢 (aotan_0725)
 
-[添付ファイル 1](https://padlet.com/aotan/padlet-cw0mskqthicxa0n2)
+[Attachment 1](https://padlet.com/aotan/padlet-cw0mskqthicxa0n2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/11 01:59
-- **更新日（UTC）:** 05/11 01:59
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 11, 2026 01:59am
+- **Updated At (UTC):** May 11, 2026 01:59am
 
 ---
 
 ### 47. 低クオリティ部屋
-**作成者:** 三角定規２号 (s29260078)
+**Author:** 三角定規２号 (s29260078)
 
 [https://padlet.com/s29260078/padlet-7vbqh7l0td7tg0xi](https://padlet.com/s29260078/padlet-7vbqh7l0td7tg0xi)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/10 10:44
-- **更新日（UTC）:** 05/10 10:44
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 10, 2026 10:44am
+- **Updated At (UTC):** May 10, 2026 10:44am
 
 ---
 
-### 48. 投稿 48
-**作成者:** ノクス (rieri_315)
+### 48. Post 48
+**Author:** ノクス (rieri_315)
 
 <p>興味ある方はぜひ</p>
 
-[添付ファイル 1](https://padlet.com/3751336/7538315)
+[Attachment 1](https://padlet.com/3751336/7538315)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/10 06:45
-- **更新日（UTC）:** 05/10 06:45
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 10, 2026 06:45am
+- **Updated At (UTC):** May 10, 2026 06:45am
 
 ---
 
 ### 49. Youtube規制かかってる方どうぞ〜
-**作成者:** ムスカ
+**Author:** ムスカ
 
-#### コメント (2)
-- **ムスカ** (05/09 10:34): https://global-edu.onrender.com/
-- **kira** (05/12 12:34): きれいに撃沈
+#### Comments (2)
+- **ムスカ** (May 09, 2026 10:34am): https://global-edu.onrender.com/
+- **kira** (May 12, 2026 12:34pm): きれいに撃沈
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/09 10:33
-- **更新日（UTC）:** 05/09 10:33
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 09, 2026 10:33am
+- **Updated At (UTC):** May 09, 2026 10:33am
 
 ---
 
 ### 50. はいってみて
-**作成者:** I love 純也 (gs221372)
+**Author:** I love 純也 (gs221372)
 
-[添付ファイル 1](https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd)
+[Attachment 1](https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/09 08:45
-- **更新日（UTC）:** 05/09 08:45
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 09, 2026 08:45am
+- **Updated At (UTC):** May 09, 2026 08:45am
 
 ---
 
 ### 51. 仙人さんはいってください
-**作成者:** Mikanーーーーー?!? (7151415)
+**Author:** Mikanーーーーー?!? (7151415)
 
-[添付ファイル 1](https://padlet.com/4225485/padlet-7lh23es28udsqfpe)
+[Attachment 1](https://padlet.com/4225485/padlet-7lh23es28udsqfpe)
 
-#### コメント (4)
-- **にんじん** (05/09 11:14): はーい！！
-- **kira** (05/09 16:44): みのちゃん良い働きっぷり
-- **仙人@suger** (05/10 00:42): はいったよ
-- **からぴち　どぬ推し** (05/10 10:14): ありがとうございます！！
+#### Comments (4)
+- **にんじん** (May 09, 2026 11:14am): はーい！！
+- **kira** (May 09, 2026 04:44pm): みのちゃん良い働きっぷり
+- **仙人@suger** (May 10, 2026 12:42am): はいったよ
+- **からぴち　どぬ推し** (May 10, 2026 10:14am): ありがとうございます！！
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/09 08:28
-- **更新日（UTC）:** 05/10 00:54
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 09, 2026 08:28am
+- **Updated At (UTC):** May 10, 2026 12:54am
 
 ---
 
-### 52. 投稿 52
-**作成者:** ノクス (rieri_315)
+### 52. Post 52
+**Author:** ノクス (rieri_315)
 
 <p>興味のある方はぜひ</p>
 
-[添付ファイル 1](https://padlet.com/3751336/7538315)
+[Attachment 1](https://padlet.com/3751336/7538315)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/09 07:26
-- **更新日（UTC）:** 05/09 07:26
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 09, 2026 07:26am
+- **Updated At (UTC):** May 09, 2026 07:26am
 
 ---
 
 ### 53. ぜひ入ってねプロキシについて
-**作成者:** 匿名7777 (19jn042)
+**Author:** 匿名7777 (19jn042)
 
 [https://padlet.com/19jn042/padlet-pn5o2cdgfh1g625m](https://padlet.com/19jn042/padlet-pn5o2cdgfh1g625m)
 
-#### コメント (3)
-- **匿名7777** (05/09 06:36): ご自由に参加してください
-- **匿名7777** (05/09 06:36): みんなでプロキシについて話し合いましょう
-- **匿名7777** (05/09 06:36): JAPAN Webという便利なプロキシもあります
+#### Comments (3)
+- **匿名7777** (May 09, 2026 06:36am): ご自由に参加してください
+- **匿名7777** (May 09, 2026 06:36am): みんなでプロキシについて話し合いましょう
+- **匿名7777** (May 09, 2026 06:36am): JAPAN Webという便利なプロキシもあります
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/09 06:36
-- **更新日（UTC）:** 05/09 06:36
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 09, 2026 06:36am
+- **Updated At (UTC):** May 09, 2026 06:36am
 
 ---
 
 ### 54. 入ってください
-**作成者:** はるくんマンちゃん！ (2125098_2)
+**Author:** はるくんマンちゃん！ (2125098_2)
 
 [https://padlet.com/2125098_2/padlet-95i00i9p7ii25hz1](https://padlet.com/2125098_2/padlet-95i00i9p7ii25hz1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 13:53
-- **更新日（UTC）:** 05/08 13:53
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 01:53pm
+- **Updated At (UTC):** May 08, 2026 01:53pm
 
 ---
 
 ### 55. 来たらいいことはない
-**作成者:** KaSiuuuuu (kasumuuu)
+**Author:** KaSiuuuuu (kasumuuu)
 
-[添付ファイル 1](https://padlet.com/gs193507/padlet-bffra3hrzil7do9a)
+[Attachment 1](https://padlet.com/gs193507/padlet-bffra3hrzil7do9a)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 12:59
-- **更新日（UTC）:** 05/08 12:59
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 12:59pm
+- **Updated At (UTC):** May 08, 2026 12:59pm
 
 ---
 
 ### 56. 誰でもいいので入って欲しいです
-**作成者:** 匿名2012
+**Author:** 匿名2012
 
 [https://padlet.com/19jn042/padlet-pn5o2cdgfh1g625m](https://padlet.com/19jn042/padlet-pn5o2cdgfh1g625m)
 
-#### コメント (4)
-- **匿名2012** (05/08 11:47): お願いします
-- **にんじん** (05/08 12:05): はいっていーいー？
-- **ハギカゼ** (05/09 06:08): いいですよ
-- **ハギカゼ** (05/09 06:10): すげー
+#### Comments (4)
+- **匿名2012** (May 08, 2026 11:47am): お願いします
+- **にんじん** (May 08, 2026 12:05pm): はいっていーいー？
+- **ハギカゼ** (May 09, 2026 06:08am): いいですよ
+- **ハギカゼ** (May 09, 2026 06:10am): すげー
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 11:46
-- **更新日（UTC）:** 05/08 11:46
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 11:46am
+- **Updated At (UTC):** May 08, 2026 11:46am
 
 ---
 
-### 57. 投稿 57
-**作成者:** ぽてと。 (gs221399)
+### 57. Post 57
+**Author:** ぽてと。 (gs221399)
 
 <p>フォローよろしく！</p>
 
-[添付ファイル 1](https://padlet.com/padlets/bh27pzrvbrblpd69)
+[Attachment 1](https://padlet.com/padlets/bh27pzrvbrblpd69)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 02:30
-- **更新日（UTC）:** 05/08 02:30
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 02:30am
+- **Updated At (UTC):** May 08, 2026 02:30am
 
 ---
 
-### 58. 投稿 58
-**作成者:** 谷内ですーー (gs225971)
+### 58. Post 58
+**Author:** 谷内ですーー (gs225971)
 
 <p>よろしくフォローお願いします</p>
 
-[添付ファイル 1](https://padlet.com/padlets/ldmjan2vq85vexbm)
+[Attachment 1](https://padlet.com/padlets/ldmjan2vq85vexbm)
 
-#### コメント (4)
-- **⚡️りんか⚡️** (05/11 05:00): よろしくー
-- **フォトナしたいいいいいいいいいいいいいいいいいい** (05/15 23:14): つけまですか？
-- **フォトナしたいいいいいいいいいいいいいいいいいい** (05/15 23:14): みんみんだよ
-- **あおｗｗ** (05/20 22:53): パスワードってなんですか？
+#### Comments (4)
+- **⚡️りんか⚡️** (May 11, 2026 05:00am): よろしくー
+- **フォトナしたいいいいいいいいいいいいいいいいいい** (May 15, 2026 11:14pm): つけまですか？
+- **フォトナしたいいいいいいいいいいいいいいいいいい** (May 15, 2026 11:14pm): みんみんだよ
+- **あおｗｗ** (May 20, 2026 10:53pm): パスワードってなんですか？
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 02:29
-- **更新日（UTC）:** 05/08 02:29
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 02:29am
+- **Updated At (UTC):** May 08, 2026 02:29am
 
 ---
 
 ### 59. 暇な人！
-**作成者:** ゆーりん (11556nomotinusi)
+**Author:** ゆーりん (11556nomotinusi)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/isean20007/padlet-ymj2ksububfxfgw0">https://padlet.com/isean20007/padlet-ymj2ksububfxfgw0</a></p><p>ここ来て雑談しましょ！</p>
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/06 00:37
-- **更新日（UTC）:** 05/06 01:00
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 06, 2026 12:37am
+- **Updated At (UTC):** May 06, 2026 01:00am
 
 ---
 
 ### 60. 曲リク
-**作成者:** ふっじー（犬系） (1926018025)
+**Author:** ふっじー（犬系） (1926018025)
 
 <p>できればお願いします！</p>
 
-[添付ファイル 1](https://padlet.com/1926018025/padlet-9ym7dez7ubcmw6rp)
+[Attachment 1](https://padlet.com/1926018025/padlet-9ym7dez7ubcmw6rp)
 
-#### コメント (1)
-- **ゆーりん** (05/06 21:16): ふじさんに任せる
+#### Comments (1)
+- **ゆーりん** (May 06, 2026 09:16pm): ふじさんに任せる
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/05 06:16
-- **更新日（UTC）:** 05/05 06:16
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 05, 2026 06:16am
+- **Updated At (UTC):** May 05, 2026 06:16am
 
 ---
 
 ### 61. おなしゃす
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://padlet.com/padlets/cbnqfv2ozv4sx1bg)
+[Attachment 1](https://padlet.com/padlets/cbnqfv2ozv4sx1bg)
 
-#### コメント (1)
-- **ゆーりん** (05/05 00:27): オッケ
+#### Comments (1)
+- **ゆーりん** (May 05, 2026 12:27am): オッケ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/05 00:12
-- **更新日（UTC）:** 05/05 00:12
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 05, 2026 12:12am
+- **Updated At (UTC):** May 05, 2026 12:12am
 
 ---
 
 ### 62. ここ入ってくれると嬉しいなぁ、、、
-**作成者:** ゆーりん (11556nomotinusi)
+**Author:** ゆーりん (11556nomotinusi)
 
-[添付ファイル 1](https://padlet.com/isean20007/padlet-ymj2ksububfxfgw0)
+[Attachment 1](https://padlet.com/isean20007/padlet-ymj2ksububfxfgw0)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/04 23:19
-- **更新日（UTC）:** 05/05 06:47
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 04, 2026 11:19pm
+- **Updated At (UTC):** May 05, 2026 06:47am
 
 ---
 
 ### 63. ぜひきてください！大歓迎！
-**作成者:** たい焼き　サブ (a3_3a)
+**Author:** たい焼き　サブ (a3_3a)
 
-[添付ファイル 1](https://padlet.com/padlets/l5phsxlh4wzakij2)
+[Attachment 1](https://padlet.com/padlets/l5phsxlh4wzakij2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/02 15:47
-- **更新日（UTC）:** 05/02 15:47
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 02, 2026 03:47pm
+- **Updated At (UTC):** May 02, 2026 03:47pm
 
 ---
 
-### 64. 投稿 64
-**作成者:** ningenのお友達 (9829220)
+### 64. Post 64
+**Author:** ningenのお友達 (9829220)
 
 <p><br></p><p><br></p>
 
-[添付ファイル 1](https://padlet.com/9829220/padlet-i1j8c0r7l374rp3d)
+[Attachment 1](https://padlet.com/9829220/padlet-i1j8c0r7l374rp3d)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/02 07:29
-- **更新日（UTC）:** 05/06 22:01
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 02, 2026 07:29am
+- **Updated At (UTC):** May 06, 2026 10:01pm
 
 ---
 
 ### 65. 来てクレメンス
-**作成者:** ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂ (carrybag824)
+**Author:** ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂ (carrybag824)
 
 <p>ミーム王国の復活を願いたいと思う</p>
 
-[添付ファイル 1](https://padlet.com/padlets/jpr91spyhiobita2)
+[Attachment 1](https://padlet.com/padlets/jpr91spyhiobita2)
 
-#### コメント (3)
-- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (05/01 13:30): ちなわいの部屋には匿名は入れません
-- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (05/01 13:31): 荒らした人には全力で報告または部屋持ちの場合荒らしてきたユーザーの部屋を荒らすという対処方法をとっています
-- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (05/01 13:32): 報復者とかは報復される前に殺します
+#### Comments (3)
+- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (May 01, 2026 01:30pm): ちなわいの部屋には匿名は入れません
+- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (May 01, 2026 01:31pm): 荒らした人には全力で報告または部屋持ちの場合荒らしてきたユーザーの部屋を荒らすという対処方法をとっています
+- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (May 01, 2026 01:32pm): 報復者とかは報復される前に殺します
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/01 13:30
-- **更新日（UTC）:** 05/01 13:30
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 01, 2026 01:30pm
+- **Updated At (UTC):** May 01, 2026 01:30pm
 
 ---
 
 ### 66. 来てね！
-**作成者:** 蜂楽　廻 (68794935)
+**Author:** 蜂楽　廻 (68794935)
 
-[添付ファイル 1](https://padlet.com/68794935/classroom-t0ii6ixmilso2a1b)
+[Attachment 1](https://padlet.com/68794935/classroom-t0ii6ixmilso2a1b)
 
-#### コメント (2)
-- **マエスケファンです** (04/26 04:31): 入れません
-- **Anonymous** (05/01 13:07): この部屋の主垢BANされてるよ
+#### Comments (2)
+- **マエスケファンです** (Apr 26, 2026 04:31am): 入れません
+- **Anonymous** (May 01, 2026 01:07pm): この部屋の主垢BANされてるよ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/26 04:01
-- **更新日（UTC）:** 04/26 04:01
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 26, 2026 04:01am
+- **Updated At (UTC):** Apr 26, 2026 04:01am
 
 ---
 
 ### 67. 神部屋みんないる
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://padlet.com/padlets/cbnqfv2ozv4sx1bg)
+[Attachment 1](https://padlet.com/padlets/cbnqfv2ozv4sx1bg)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/24 10:00
-- **更新日（UTC）:** 04/24 10:00
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 24, 2026 10:00am
+- **Updated At (UTC):** Apr 24, 2026 10:00am
 
 ---
 
-### 68. 投稿 68
-**作成者:** YK (s2101219_1)
+### 68. Post 68
+**Author:** YK (s2101219_1)
 
-[添付ファイル 1](https://padlet.com/s2206019_2/padlet-17jyw1jw205jo8wu)
+[Attachment 1](https://padlet.com/s2206019_2/padlet-17jyw1jw205jo8wu)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/23 11:57
-- **更新日（UTC）:** 05/01 12:53
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 23, 2026 11:57am
+- **Updated At (UTC):** May 01, 2026 12:53pm
 
 ---
 
 ### 69. ここ来てね！
-**作成者:** 蜂楽　廻 (68794935)
+**Author:** 蜂楽　廻 (68794935)
 
-[添付ファイル 1](https://padlet.com/68794935/padlet-t0ii6ixmilso2a1b)
+[Attachment 1](https://padlet.com/68794935/padlet-t0ii6ixmilso2a1b)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/22 09:14
-- **更新日（UTC）:** 04/22 09:14
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 22, 2026 09:14am
+- **Updated At (UTC):** Apr 22, 2026 09:14am
 
 ---
 
-### 70. 投稿 70
-**作成者:** ぽてと。 (gs221399)
+### 70. Post 70
+**Author:** ぽてと。 (gs221399)
 
 <p>よろしく</p>
 
 [https://padlet.com/gs221399/padlet-bh27pzrvbrblpd69](https://padlet.com/gs221399/padlet-bh27pzrvbrblpd69)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/22 04:48
-- **更新日（UTC）:** 04/22 04:48
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 22, 2026 04:48am
+- **Updated At (UTC):** Apr 22, 2026 04:48am
 
 ---
 
 ### 71. 入ってください
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://padlet.com/padlets/cbnqfv2ozv4sx1bg)
+[Attachment 1](https://padlet.com/padlets/cbnqfv2ozv4sx1bg)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/22 02:53
-- **更新日（UTC）:** 04/22 02:53
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 22, 2026 02:53am
+- **Updated At (UTC):** Apr 22, 2026 02:53am
 
 ---
 
 ### 72. 入って下さい
-**作成者:** oh my ンバー (36racing)
+**Author:** oh my ンバー (36racing)
 
 <p>プロキシ部屋です</p>
 
 [https://padlet.com/kinakomochi_12345/proxy-415p06rqfpu0ushx](https://padlet.com/kinakomochi_12345/proxy-415p06rqfpu0ushx)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/22 00:37
-- **更新日（UTC）:** 04/22 00:37
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 22, 2026 12:37am
+- **Updated At (UTC):** Apr 22, 2026 12:37am
 
 ---
 
 ### 73. まじで入ってお
-**作成者:** トロたま進化系卵かけご飯 (074734703702)
+**Author:** トロたま進化系卵かけご飯 (074734703702)
 
-[添付ファイル 1](https://padlet.com/759837548/padlet-sacfxlj2x8wue4ic?lang=ja)
+[Attachment 1](https://padlet.com/759837548/padlet-sacfxlj2x8wue4ic?lang=ja)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/21 01:31
-- **更新日（UTC）:** 04/21 01:31
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 21, 2026 01:31am
+- **Updated At (UTC):** Apr 21, 2026 01:31am
 
 ---
 
 ### 74. お願いします入ってください🙇
-**作成者:** はるくんマンちゃん！ (2125098_2)
+**Author:** はるくんマンちゃん！ (2125098_2)
 
-[添付ファイル 1](https://padlet.com/2125098_2/padlet-95i00i9p7ii25hz1)
+[Attachment 1](https://padlet.com/2125098_2/padlet-95i00i9p7ii25hz1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/19 03:54
-- **更新日（UTC）:** 04/19 03:54
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 19, 2026 03:54am
+- **Updated At (UTC):** Apr 19, 2026 03:54am
 
 ---
 
 ### 75. よろ
-**作成者:** 松田　奏楽 (s191099_29)
+**Author:** 松田　奏楽 (s191099_29)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/s191099_29/my-padlet-569u4z465q2uaf4">https://padlet.com/s191099_29/my-padlet-569u4z465q2uaf4</a>入ってね</p>
 
-[添付ファイル 1](https://padlet.com/s191099_29/my-padlet-569u4z465q2uaf4)
+[Attachment 1](https://padlet.com/s191099_29/my-padlet-569u4z465q2uaf4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/19 01:55
-- **更新日（UTC）:** 04/21 08:42
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 19, 2026 01:55am
+- **Updated At (UTC):** Apr 21, 2026 08:42am
 
 ---
 
 ### 76. 12
-**作成者:** Wise Macaw
+**Author:** Wise Macaw
 
 <p>Y.B</p>
 
-[添付ファイル 1](https://padlet.com/R_6174/zip-o5wwqnwmtynww7nd)
+[Attachment 1](https://padlet.com/R_6174/zip-o5wwqnwmtynww7nd)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/18 05:24
-- **更新日（UTC）:** 04/18 05:26
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 18, 2026 05:24am
+- **Updated At (UTC):** Apr 18, 2026 05:26am
 
 ---
 
-### 77. 投稿 77
-**作成者:** ファックモーター元社長 (r0116624)
+### 77. Post 77
+**Author:** ファックモーター元社長 (r0116624)
 
-[添付ファイル 1](https://padlet.com/r0116624/padlet-hfk9ecj8x4c0gewl)
+[Attachment 1](https://padlet.com/r0116624/padlet-hfk9ecj8x4c0gewl)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/15 23:29
-- **更新日（UTC）:** 04/16 07:48
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 15, 2026 11:29pm
+- **Updated At (UTC):** Apr 16, 2026 07:48am
 
 ---
 
 ### 78. Padlet初心者やPadletを知らない人に広めてあげてください！
-**作成者:** ‎Windows のバージョン情報 (winver)
+**Author:** ‎Windows のバージョン情報 (winver)
 
 <p>僕の部屋じゃないけど凄い助かったので、部屋の管理者の方はこの部屋を置いて、ぜひ僕みたいな初心者を助けてあげてみてください</p>
 
-[添付ファイル 1](https://padlet.com/edg_/padlet-ag7nkahfqk73959d)
+[Attachment 1](https://padlet.com/edg_/padlet-ag7nkahfqk73959d)
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 04/15 16:59
-- **更新日（UTC）:** 04/15 17:00
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Apr 15, 2026 04:59pm
+- **Updated At (UTC):** Apr 15, 2026 05:00pm
 
 ---
 
 ### 79. ここ来てくれる人いないかな〜〜〜〜
-**作成者:** Niko_320 (njnik6xo)
+**Author:** Niko_320 (njnik6xo)
 
-[添付ファイル 1](https://padlet.com/5084692/stpr-d27mo68i3mmv1img)
+[Attachment 1](https://padlet.com/5084692/stpr-d27mo68i3mmv1img)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/14 07:49
-- **更新日（UTC）:** 04/14 07:49
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 14, 2026 07:49am
+- **Updated At (UTC):** Apr 14, 2026 07:49am
 
 ---
 
 ### 80. きてねー
-**作成者:** 瑠龍　#あほ4人組総長 (h1021012_1)
+**Author:** 瑠龍　#あほ4人組総長 (h1021012_1)
 
 [https://padlet.com/lopzoj/padlet-gyzmpd2lpckostzw](https://padlet.com/lopzoj/padlet-gyzmpd2lpckostzw)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/12 07:50
-- **更新日（UTC）:** 04/12 07:51
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 12, 2026 07:50am
+- **Updated At (UTC):** Apr 12, 2026 07:51am
 
 ---
 
 ### 81. これ見てください。↓
-**作成者:** ドラゴンボール (s230118_10)
+**Author:** ドラゴンボール (s230118_10)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/s230118_10/padlet-rakjhsnyk2s8klzm">https://padlet.com/s230118_10/padlet-rakjhsnyk2s8klzm</a></p>
 
-[添付ファイル 1](https://padlet.com/s230118_10/padlet-rakjhsnyk2s8klzm)
+[Attachment 1](https://padlet.com/s230118_10/padlet-rakjhsnyk2s8klzm)
 
-#### コメント (1)
-- **ドラゴンボール** (04/10 02:05): お願いします。
+#### Comments (1)
+- **ドラゴンボール** (Apr 10, 2026 02:05am): お願いします。
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/10 02:04
-- **更新日（UTC）:** 04/10 02:04
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 10, 2026 02:04am
+- **Updated At (UTC):** Apr 10, 2026 02:04am
 
 ---
 
 ### 82. おすすめチャットサイト
-**作成者:** 呪術廻戦の綺羅々は男
+**Author:** 呪術廻戦の綺羅々は男
 
-[添付ファイル 1](https://oktvoktvchat.lovable.app/room/fe73bc83-37dc-4628-9b45-d5d14890aea3)
+[Attachment 1](https://oktvoktvchat.lovable.app/room/fe73bc83-37dc-4628-9b45-d5d14890aea3)
 
-#### コメント (6)
-- **ワイ君** (04/06 04:29): ブロられた
-- **Anonymous** (04/08 03:32): パスワード何？ 
-- **NyrikX(足立区陣ICFS系)** (04/09 18:45): 自分のアカウントを作成します
-- **we🐢** (04/10 06:27): 管理者がバグあるから入れないようにしてるラスい
-- **we🐢** (04/10 06:28): 管理者「おけてぃー」って人
-- **we🐢** (04/10 06:28): 5月まで無理やって
+#### Comments (6)
+- **ワイ君** (Apr 06, 2026 04:29am): ブロられた
+- **Anonymous** (Apr 08, 2026 03:32am): パスワード何？ 
+- **NyrikX(足立区陣ICFS系)** (Apr 09, 2026 06:45pm): 自分のアカウントを作成します
+- **we🐢** (Apr 10, 2026 06:27am): 管理者がバグあるから入れないようにしてるラスい
+- **we🐢** (Apr 10, 2026 06:28am): 管理者「おけてぃー」って人
+- **we🐢** (Apr 10, 2026 06:28am): 5月まで無理やって
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/05 08:59
-- **更新日（UTC）:** 04/05 08:59
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 05, 2026 08:59am
+- **Updated At (UTC):** Apr 05, 2026 08:59am
 
 ---
 
 ### 83. 超過密国
-**作成者:** ぬほさた。 (Nuhosata)
+**Author:** ぬほさた。 (Nuhosata)
 
-[添付ファイル 1](https://padlet.com/padlets/fxeagf64kmo5yhms)
+[Attachment 1](https://padlet.com/padlets/fxeagf64kmo5yhms)
 
-#### その他の情報
-- **投稿のカラー:** イエロー
-- **作成日（UTC）:** 04/04 01:54
-- **更新日（UTC）:** 04/04 01:54
+#### Additional Information
+- **Post color:** Yellow
+- **Created At (UTC):** Apr 04, 2026 01:54am
+- **Updated At (UTC):** Apr 04, 2026 01:54am
 
 ---
 
 ### 84. I-FILTER向けです！
-**作成者:** rui-1215 (rui1215)
+**Author:** rui-1215 (rui1215)
 
 <p>これから色んなサイトも頑張って作っていくつもりなので来てください🙇</p>
 
-[添付ファイル 1](https://padlet.com/I_LOVE_apex/proxy-n6umwr611yijvh1z)
+[Attachment 1](https://padlet.com/I_LOVE_apex/proxy-n6umwr611yijvh1z)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/03 01:31
-- **更新日（UTC）:** 04/03 01:31
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 03, 2026 01:31am
+- **Updated At (UTC):** Apr 03, 2026 01:31am
 
 ---
 
 ### 85. come on
-**作成者:** 炭火焼鳥チキン南蛮ニキ
+**Author:** 炭火焼鳥チキン南蛮ニキ
 
-[添付ファイル 1](https://padlet.com/gojousensei/padlet-mhmmaaofiwavvokq)
+[Attachment 1](https://padlet.com/gojousensei/padlet-mhmmaaofiwavvokq)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/02 12:59
-- **更新日（UTC）:** 04/02 13:07
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 02, 2026 12:59pm
+- **Updated At (UTC):** Apr 02, 2026 01:07pm
 
 ---
 
 ### 86. 新りおと部屋受付
-**作成者:** ぬほさた。 (Nuhosata)
+**Author:** ぬほさた。 (Nuhosata)
 
 <p>神部屋復活！</p>
 
-[添付ファイル 1](https://padlet.com/sukinaokazuhahannbaagu/padlet-fxeagf64kmo5yhms)
+[Attachment 1](https://padlet.com/sukinaokazuhahannbaagu/padlet-fxeagf64kmo5yhms)
 
-#### その他の情報
-- **投稿のカラー:** イエロー
-- **作成日（UTC）:** 04/02 00:02
-- **更新日（UTC）:** 04/02 00:02
+#### Additional Information
+- **Post color:** Yellow
+- **Created At (UTC):** Apr 02, 2026 12:02am
+- **Updated At (UTC):** Apr 02, 2026 12:02am
 
 ---
 
 ### 87. お誘い🙇‍♀️
-**作成者:** 💕星輝 綺羅々💕 (kirara_hosiki)
+**Author:** 💕星輝 綺羅々💕 (kirara_hosiki)
 
 <p>改善点や感想があればコメントで教えてほしです🥺</p>
 
-[添付ファイル 1](https://padlet.com/kirara_hosiki/line-e6sg6gaqxbjbm3g1)
+[Attachment 1](https://padlet.com/kirara_hosiki/line-e6sg6gaqxbjbm3g1)
 
-#### その他の情報
-- **投稿のカラー:** ブルー
-- **作成日（UTC）:** 04/01 12:06
-- **更新日（UTC）:** 04/01 12:08
+#### Additional Information
+- **Post color:** Blue
+- **Created At (UTC):** Apr 01, 2026 12:06pm
+- **Updated At (UTC):** Apr 01, 2026 12:08pm
 
 ---
 
 ### 88. 来てください
-**作成者:** 暴走パンダ (8888800811117777)
+**Author:** 暴走パンダ (8888800811117777)
 
-[添付ファイル 1](https://padlet.com/kimutibanana/10-a1am1nuc1pm9ra04)
+[Attachment 1](https://padlet.com/kimutibanana/10-a1am1nuc1pm9ra04)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/30 11:46
-- **更新日（UTC）:** 03/30 11:46
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 30, 2026 11:46am
+- **Updated At (UTC):** Mar 30, 2026 11:46am
 
 ---
 
 ### 89. 来てください🙏
-**作成者:** トロたま進化系卵かけご飯 (074734703702)
+**Author:** トロたま進化系卵かけご飯 (074734703702)
 
-[添付ファイル 1](https://padlet.com/759837548/padlet-cpaa8lf57i5y9ytk?lang=ja)
+[Attachment 1](https://padlet.com/759837548/padlet-cpaa8lf57i5y9ytk?lang=ja)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/30 11:28
-- **更新日（UTC）:** 03/30 11:28
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 30, 2026 11:28am
+- **Updated At (UTC):** Mar 30, 2026 11:28am
 
 ---
 
 ### 90. きてね
-**作成者:** だいまた　#りおと35番弟子 (s14210051)
+**Author:** だいまた　#りおと35番弟子 (s14210051)
 
-[添付ファイル 1](https://padlet.com/padlets/vt5m8w3fybl4swis)
+[Attachment 1](https://padlet.com/padlets/vt5m8w3fybl4swis)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/30 09:42
-- **更新日（UTC）:** 03/30 09:42
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 30, 2026 09:42am
+- **Updated At (UTC):** Mar 30, 2026 09:42am
 
 ---
 
 ### 91. はいって🙏
-**作成者:** たろすけ (puromosa)
+**Author:** たろすけ (puromosa)
 
-[添付ファイル 1](https://padlet.com/tarosuke/padlet-d9yiqga2fy3efe8w?lang=ja)
+[Attachment 1](https://padlet.com/tarosuke/padlet-d9yiqga2fy3efe8w?lang=ja)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/30 08:58
-- **更新日（UTC）:** 03/30 08:58
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 30, 2026 08:58am
+- **Updated At (UTC):** Mar 30, 2026 08:58am
 
 ---
 
 ### 92. 頼むぅ来てくれぇ
-**作成者:** 存在がバグ (glitchboy)
+**Author:** 存在がバグ (glitchboy)
 
 <p>ちょっと覗くだけで良いから…</p>
 
-[添付ファイル 1](https://padlet.com/padlets/o8s4n3gjy0pv20sq)
+[Attachment 1](https://padlet.com/padlets/o8s4n3gjy0pv20sq)
 
-#### コメント (1)
-- **存在がバグ** (03/29 00:50): 宣伝部屋も来てぇhttps://padlet.com/h3919053_1/padlet-tvzmtcfsm1upow6w?lang=ja
+#### Comments (1)
+- **存在がバグ** (Mar 29, 2026 12:50am): 宣伝部屋も来てぇhttps://padlet.com/h3919053_1/padlet-tvzmtcfsm1upow6w?lang=ja
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/29 00:48
-- **更新日（UTC）:** 03/29 00:48
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 29, 2026 12:48am
+- **Updated At (UTC):** Mar 29, 2026 12:48am
 
 ---
 
 ### 93. お願い来て
-**作成者:** おかだこうや (s2101122_10)
+**Author:** おかだこうや (s2101122_10)
 
-[添付ファイル 1](https://padlet.com/s2101122_10/padlet-w9g3ul31yiseji0d)
+[Attachment 1](https://padlet.com/s2101122_10/padlet-w9g3ul31yiseji0d)
 
-#### コメント (1)
-- **おかだこうや** (03/26 02:05): 来てーーー
+#### Comments (1)
+- **おかだこうや** (Mar 26, 2026 02:05am): 来てーーー
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/26 02:05
-- **更新日（UTC）:** 03/26 02:05
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 26, 2026 02:05am
+- **Updated At (UTC):** Mar 26, 2026 02:05am
 
 ---
 
 ### 94. めちゃめちゃ楽しいところだよ！
-**作成者:** NyrikX(足立区陣ICFS系) (h3000370)
+**Author:** NyrikX(足立区陣ICFS系) (h3000370)
 
 <p>足立区はクソだ</p>
 
-[添付ファイル 1](https://padlet.com/padlets/e6y8qpa4leeggsak)
+[Attachment 1](https://padlet.com/padlets/e6y8qpa4leeggsak)
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/19 17:24
-- **更新日（UTC）:** 03/23 00:00
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 19, 2026 05:24pm
+- **Updated At (UTC):** Mar 23, 2026 12:00am
 
 ---
 
 ### 95. これ見てください
-**作成者:** ドラえもん (s230081_15)
+**Author:** ドラえもん (s230081_15)
 
 <p>お願いします</p>
 
-[添付ファイル 1](https://padlet.com/s230081_15/padlet-lb6omyxjh6ezk28w)
+[Attachment 1](https://padlet.com/s230081_15/padlet-lb6omyxjh6ezk28w)
 
-#### コメント (2)
-- **匿名** (04/11 14:26): パスワードで無理
-- **ドラえもん** (04/15 06:30): E235
+#### Comments (2)
+- **匿名** (Apr 11, 2026 02:26pm): パスワードで無理
+- **ドラえもん** (Apr 15, 2026 06:30am): E235
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/18 02:15
-- **更新日（UTC）:** 03/18 02:17
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 18, 2026 02:15am
+- **Updated At (UTC):** Mar 18, 2026 02:17am
 
 ---
 
-### 96. 投稿 96
-**作成者:** 野獣先輩 (s11210128)
+### 96. Post 96
+**Author:** 野獣先輩 (s11210128)
 
-[添付ファイル 1](https://padlet.com/s11210128/padlet-mtv87wjou4kt4gd8)
+[Attachment 1](https://padlet.com/s11210128/padlet-mtv87wjou4kt4gd8)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/14 10:15
-- **更新日（UTC）:** 03/17 01:40
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 14, 2026 10:15am
+- **Updated At (UTC):** Mar 17, 2026 01:40am
 
 ---
 
 ## 投票所
 
 ### 1. どうしても思い出せないアニメがあります。
-**作成者:** ユメネ
+**Author:** ユメネ
 
 <p>どんな情報でもいいので教えてくれると嬉しいです。</p><p><br/></p><p>分かっている情報⬇️</p><p>●探しているアニメは最近のではなく、結構昔からあるもの（2011年よりは前に放映されている）</p><p><br/></p><p>●カラオケDAMにアニメ映像がある（胸のアップが多めでセクシーな感じ）</p><p><br/></p><p>●子持ちの女性が主人公だった気がする</p><p><br/></p><p>●最終回は娘？を守る為に亡くなる</p><p><br/></p><p>●石？か何かで変身する。変身した際は白目部分が黒くなってた気がする。悪魔っぽい感じ</p><p><br/></p><p>●多分、その石？を取ろうとする組織が出ていてた気がする</p><p><br/></p><p>●サブキャラにうさぎを常に持っているメンヘラっぽいキャラがいた気がする</p><p><br/></p><p>また思い出した際に情報を追加できればと思いますm(_ _)m</p><p><br/></p><p>ふとした時に、あのアニメなんだったっけ？ともやもやして何年も経ってしまってます。回答お待ちしてます。</p>
 
-#### コメント (9)
-- **ラグランでコンビネーション** (05/20 22:25): Aiに聞けば？？
-- **キッズ乙** (05/21 03:48): よくわからんがやばいアニメということはわかった
-- **ㅤ@krtk🔰** (05/21 07:36): 草
-- **にんじん** (05/21 12:01): Witchbladeじゃないですか？
-- **フミヅキ** (05/25 08:24): にんじんさんありがとうございます！それです！
-- **にゃんこ好き** (05/26 08:53): 何か投稿できませーん
-- **にゃんこ好き** (05/26 08:53): 何か投稿できませーん
-- **にゃんこ好き** (05/26 08:53): 何か投稿できませーん
-- **にゃんこ好き** (05/26 08:53): 何か投稿できませーん
+#### Comments (9)
+- **ラグランでコンビネーション** (May 20, 2026 10:25pm): Aiに聞けば？？
+- **キッズ乙** (May 21, 2026 03:48am): よくわからんがやばいアニメということはわかった
+- **ㅤ@krtk🔰** (May 21, 2026 07:36am): 草
+- **にんじん** (May 21, 2026 12:01pm): Witchbladeじゃないですか？
+- **フミヅキ** (May 25, 2026 08:24am): にんじんさんありがとうございます！それです！
+- **にゃんこ好き** (May 26, 2026 08:53am): 何か投稿できませーん
+- **にゃんこ好き** (May 26, 2026 08:53am): 何か投稿できませーん
+- **にゃんこ好き** (May 26, 2026 08:53am): 何か投稿できませーん
+- **にゃんこ好き** (May 26, 2026 08:53am): 何か投稿できませーん
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/20 01:55
-- **更新日（UTC）:** 05/20 21:18
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 20, 2026 01:55am
+- **Updated At (UTC):** May 20, 2026 09:18pm
 
 ---
 
 ### 2. 2026/05/19 19:23ぐらいまで荒らされてました。犯人はこいつです。（まじ）通報してください。ｵﾈｶﾞｲｼﾏｽ
-**作成者:** にゃんこ好き (s20127109)
+**Author:** にゃんこ好き (s20127109)
 
-[添付ファイル 1](https://padlet.com/20s139766)
+[Attachment 1](https://padlet.com/20s139766)
 
-#### コメント (18)
-- **にゃんこ好き** (05/19 10:39): いちおうまだ音楽
-- **にゃんこ好き** (05/19 10:39): ゲームのとこ荒らされてます
-- **Aira🍒⛸️** (05/19 11:47): ふざけんな？💢
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (05/19 13:24): ですよねー
-- **ゆーりん** (05/19 13:37): www
-- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (05/19 13:43): んー
-- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (05/19 13:43): こいつ、ワイの知り合いなんだよなあ
-- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (05/19 13:43): だから簡単に報復はできん
-- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (05/19 13:46): それにこの人荒らしの中では結構有名だから
-- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (05/19 13:46): 多分この部屋にいる人達がまともに戦える相手ではないと思う
-- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (05/19 13:47): ここは、一度受け付けとか作って対策すればいいんやない？
-- **ひーーーーまーーーーーー** (05/19 23:25): やばくね
-- **ひーーーーまーーーーーー** (05/19 23:26): 仙人さーーーーん
-- **Aira🍒⛸️** (05/19 23:29): 確かに対策部屋作った方がいいかも
-- **ひーーーーまーーーーーー** (05/19 23:35): それはそう
-- **Aira🍒⛸️** (05/20 01:06): うんうん
-- **にゃんこ好き** (05/20 04:59): そうよね
-- **ㅤ@krtk🔰** (05/21 07:37): わあ
+#### Comments (18)
+- **にゃんこ好き** (May 19, 2026 10:39am): いちおうまだ音楽
+- **にゃんこ好き** (May 19, 2026 10:39am): ゲームのとこ荒らされてます
+- **Aira🍒⛸️** (May 19, 2026 11:47am): ふざけんな？💢
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (May 19, 2026 01:24pm): ですよねー
+- **ゆーりん** (May 19, 2026 01:37pm): www
+- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (May 19, 2026 01:43pm): んー
+- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (May 19, 2026 01:43pm): こいつ、ワイの知り合いなんだよなあ
+- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (May 19, 2026 01:43pm): だから簡単に報復はできん
+- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (May 19, 2026 01:46pm): それにこの人荒らしの中では結構有名だから
+- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (May 19, 2026 01:46pm): 多分この部屋にいる人達がまともに戦える相手ではないと思う
+- **ネッコ大佐　nekko ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂** (May 19, 2026 01:47pm): ここは、一度受け付けとか作って対策すればいいんやない？
+- **ひーーーーまーーーーーー** (May 19, 2026 11:25pm): やばくね
+- **ひーーーーまーーーーーー** (May 19, 2026 11:26pm): 仙人さーーーーん
+- **Aira🍒⛸️** (May 19, 2026 11:29pm): 確かに対策部屋作った方がいいかも
+- **ひーーーーまーーーーーー** (May 19, 2026 11:35pm): それはそう
+- **Aira🍒⛸️** (May 20, 2026 01:06am): うんうん
+- **にゃんこ好き** (May 20, 2026 04:59am): そうよね
+- **ㅤ@krtk🔰** (May 21, 2026 07:37am): わあ
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/19 10:25
-- **更新日（UTC）:** 05/19 10:25
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 19, 2026 10:25am
+- **Updated At (UTC):** May 19, 2026 10:25am
 
 ---
 
 ### 3. 荒らされてますお
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
 <p>対処お願いします</p>
 
-#### コメント (8)
-- **仙人@suger** (05/04 00:28): どこ?
-- **ほそかわせいや** (05/04 00:58): ほんとにどこ？
-- **ソラカガミ** (05/07 08:32): 荒らしきてる。ナツハゼとかいうやつ荒らしてかまってもらえると思っているかまってちゃんでバカなやつかよ。そんなことしてる暇があるなら勉強しろナツハゼ
-- **仙人@suger** (05/07 08:32): 対応したよ
-- **ソラカガミ** (05/07 08:45): ありがとうございます
-- **ふっじー（犬系）** (05/07 10:43): まじでありがとうございます
-- **ひーーーーまーーーーーー** (05/10 23:23): ありがたやー
-- **谷内ですーー** (05/13 10:00): ダイジョブそう
+#### Comments (8)
+- **仙人@suger** (May 04, 2026 12:28am): どこ?
+- **ほそかわせいや** (May 04, 2026 12:58am): ほんとにどこ？
+- **ソラカガミ** (May 07, 2026 08:32am): 荒らしきてる。ナツハゼとかいうやつ荒らしてかまってもらえると思っているかまってちゃんでバカなやつかよ。そんなことしてる暇があるなら勉強しろナツハゼ
+- **仙人@suger** (May 07, 2026 08:32am): 対応したよ
+- **ソラカガミ** (May 07, 2026 08:45am): ありがとうございます
+- **ふっじー（犬系）** (May 07, 2026 10:43am): まじでありがとうございます
+- **ひーーーーまーーーーーー** (May 10, 2026 11:23pm): ありがたやー
+- **谷内ですーー** (May 13, 2026 10:00am): ダイジョブそう
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/02 21:18
-- **更新日（UTC）:** 05/02 21:18
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 02, 2026 09:18pm
+- **Updated At (UTC):** May 02, 2026 09:18pm
 
 ---
 
 ### 4. 荒らされてるらしいけどﾀﾞｲｼﾞｮﾌﾞ？
-**作成者:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
+**Author:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
 
-#### コメント (3)
-- **仙人@suger** (04/30 09:08): 復旧した
-- **ひーーーーまーーーーーー** (05/02 05:52): ありがたやー
-- **＾＿＾** (05/09 23:48): そうですなー
+#### Comments (3)
+- **仙人@suger** (Apr 30, 2026 09:08am): 復旧した
+- **ひーーーーまーーーーーー** (May 02, 2026 05:52am): ありがたやー
+- **＾＿＾** (May 09, 2026 11:48pm): そうですなー
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/30 01:30
-- **更新日（UTC）:** 04/30 01:30
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 30, 2026 01:30am
+- **Updated At (UTC):** Apr 30, 2026 01:30am
 
 ---
 
 ### 5. 仙人tube 修正した方がいい?
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 **どっち:**
-- **して欲しい:** 207件の投票
-- **しなくてもいい:** 39件の投票
+- **して欲しい:** 208 votes
+- **しなくてもいい:** 39 votes
 
 <p>需要ない気がするけどたまに言われるから一応</p>
 
-#### コメント (8)
-- **イセンケ ラナ** (04/15 06:41): 仙人tubeって何
-- **わに太郎の龍之介11** (04/15 13:31): 末期
-- **アオイケ** (04/16 01:22): ガチで更新してほしい
-- **仙人@suger** (04/16 07:49): 修正することになりました。わかめやしあから覇権を取るわ
-- **ドラゴンボール** (04/24 03:21): 仙人tubeのパスワード何
-- **NyrikX(足立区陣ICFS系)** (04/24 10:59): senninkami
-- **ふっじー** (05/02 11:47): 自分的には難しいですが開けるようにできるならなってほしいですね
-- **ノクス** (05/17 20:30): できる加減で大丈夫ですからね
+#### Comments (8)
+- **イセンケ ラナ** (Apr 15, 2026 06:41am): 仙人tubeって何
+- **わに太郎の龍之介11** (Apr 15, 2026 01:31pm): 末期
+- **アオイケ** (Apr 16, 2026 01:22am): ガチで更新してほしい
+- **仙人@suger** (Apr 16, 2026 07:49am): 修正することになりました。わかめやしあから覇権を取るわ
+- **ドラゴンボール** (Apr 24, 2026 03:21am): 仙人tubeのパスワード何
+- **NyrikX(足立区陣ICFS系)** (Apr 24, 2026 10:59am): senninkami
+- **ふっじー** (May 02, 2026 11:47am): 自分的には難しいですが開けるようにできるならなってほしいですね
+- **ノクス** (May 17, 2026 08:30pm): できる加減で大丈夫ですからね
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/14 07:32
-- **更新日（UTC）:** 05/27 00:34
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 14, 2026 07:32am
+- **Updated At (UTC):** May 27, 2026 01:49pm
 
 ---
 
 ### 6. 気になる
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 **かつおTubeの評価:**
-- **Very 👍:** 121件の投票
-- **いいね:** 36件の投票
-- **普通:** 19件の投票
-- **使えない:** 93件の投票
+- **Very 👍:** 122 votes
+- **いいね:** 36 votes
+- **普通:** 19 votes
+- **使えない:** 93 votes
 
 <p>しっかり思うものを選択してね</p><p>これからのアップデートに反映するよ</p>
 
-#### コメント (14)
-- **おうが** (03/15 11:37): マジで使いやすい
-- **おうが** (03/15 11:38): できればでいいんで仙人新しいの欲しいな
-- **仙人@suger** (03/15 12:43): 仙人tube はapi直してる
-- **おうが** (03/15 23:22): ありがとうございます！
-- **どこかの誰かさん** (03/22 05:38): めっちゃ使えますありがとうございます
-- **はるくんマンちゃん！** (03/22 13:06): コード教えて下さい
-- **はるくんマンちゃん！** (03/22 13:56): リンク送ってください
-- **Yosshy** (03/24 00:21): かつおtube使えないんだよなぁ
-- **由佐** (03/25 05:52): カツオはURLが変わりにくいし動画の読み組エラーが少ない
-- **すずめ** (04/02 14:18): 由佐さんのコメントに激しく同感っすね
-- **ウミユリ** (04/07 11:27): カツオチューブのみかたおしえて
-- **由佐** (04/10 08:43): カツオのURL 誰か教えて。なくした
-- **仙人@suger** (04/11 04:37): いまアップデートしてるからちょっと待って結構かえるuiを
-- **ふっじー** (05/02 11:48): 使えないというより入れないですね僕は
+#### Comments (14)
+- **おうが** (Mar 15, 2026 11:37am): マジで使いやすい
+- **おうが** (Mar 15, 2026 11:38am): できればでいいんで仙人新しいの欲しいな
+- **仙人@suger** (Mar 15, 2026 12:43pm): 仙人tube はapi直してる
+- **おうが** (Mar 15, 2026 11:22pm): ありがとうございます！
+- **どこかの誰かさん** (Mar 22, 2026 05:38am): めっちゃ使えますありがとうございます
+- **はるくんマンちゃん！** (Mar 22, 2026 01:06pm): コード教えて下さい
+- **はるくんマンちゃん！** (Mar 22, 2026 01:56pm): リンク送ってください
+- **Yosshy** (Mar 24, 2026 12:21am): かつおtube使えないんだよなぁ
+- **由佐** (Mar 25, 2026 05:52am): カツオはURLが変わりにくいし動画の読み組エラーが少ない
+- **すずめ** (Apr 02, 2026 02:18pm): 由佐さんのコメントに激しく同感っすね
+- **ウミユリ** (Apr 07, 2026 11:27am): カツオチューブのみかたおしえて
+- **由佐** (Apr 10, 2026 08:43am): カツオのURL 誰か教えて。なくした
+- **仙人@suger** (Apr 11, 2026 04:37am): いまアップデートしてるからちょっと待って結構かえるuiを
+- **ふっじー** (May 02, 2026 11:48am): 使えないというより入れないですね僕は
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/15 08:36
-- **更新日（UTC）:** 05/22 13:07
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 15, 2026 08:36am
+- **Updated At (UTC):** May 27, 2026 01:50pm
 
 ---
 
 ## 姉妹部屋などのリンク
 
 ### 1. ここには仙人とようつべこのみが投稿できます。
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>その他の管理者、モデレーター、ライターは投稿することができません。</p>
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 05/01 21:53
-- **更新日（UTC）:** 05/01 21:53
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** May 01, 2026 09:53pm
+- **Updated At (UTC):** May 01, 2026 09:53pm
 
 ---
 
 ### 2. 宣伝
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p><a rel="noopener noreferrer nofollow" href="https://nakayosi-bbs-y6u7.onrender.com/">https://nakayosi-bbs-y6u7.onrender.com/</a></p><p><br/></p><p>来てね!!</p><p><br/></p><p>僕製作じゃないけど来てあげて欲しい</p>
 
-#### コメント (6)
-- **HIKAGE** (05/05 00:36): いえい
-- **天才くん** (05/12 22:36): ブロック
-- **カービィ** (05/13 02:39): This service has been suspended by its owner.って出てきた
-- **ふっじー（犬系）** (05/17 12:36): 俺もだ
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (05/18 02:33): 使われすぎたな
-- **ㅤ@krtk🔰** (05/21 07:37): いいね
+#### Comments (6)
+- **HIKAGE** (May 05, 2026 12:36am): いえい
+- **天才くん** (May 12, 2026 10:36pm): ブロック
+- **カービィ** (May 13, 2026 02:39am): This service has been suspended by its owner.って出てきた
+- **ふっじー（犬系）** (May 17, 2026 12:36pm): 俺もだ
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (May 18, 2026 02:33am): 使われすぎたな
+- **ㅤ@krtk🔰** (May 21, 2026 07:37am): いいね
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/05 00:35
-- **更新日（UTC）:** 05/05 00:35
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 05, 2026 12:35am
+- **Updated At (UTC):** May 05, 2026 12:35am
 
 ---
 
 ### 3. 大人な部屋（運営は僕の友達）
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>g4vklati</p><p>Classroomだよ。</p><p>来てね!!</p>
 
-#### コメント (2)
-- **デブキン** (05/08 11:41): クラスが見つかりませんでした。
-- **仙人@suger** (05/10 00:41): かくにんするわ
+#### Comments (2)
+- **デブキン** (May 08, 2026 11:41am): クラスが見つかりませんでした。
+- **仙人@suger** (May 10, 2026 12:41am): かくにんするわ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/01 21:55
-- **更新日（UTC）:** 05/01 21:56
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 01, 2026 09:55pm
+- **Updated At (UTC):** May 01, 2026 09:56pm
 
 ---
 
 ## かつおtube
 
 ### 1. 1かつおTube 
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>初回アクセス時はじかんがかかる可能性があります。検索と動画再生はサクサク出来ると思います。ゲームやツールもあります。</p><p><br></p><p><br></p><p><br></p><p>➥ 対応している再生方法はこちら</p><p><br></p><p>Education</p><p><br></p><p>ストリーミング再生</p><p><br></p><p>Hls再生</p><p><br></p><p>Nocookie</p><p><br></p><p><br></p><p><br></p><p>➥ 開発者</p><p><br></p><p>仙人@sugar</p><p><br></p><p><br></p><p>陽著辺子</p><p><br></p><p><br></p><p><br></p><p>➥ レポジトリ</p><p><br></p><p>https://github.com/youtubekosub/Katuotube-1</p>
 
-#### コメント (10)
-- **削除済みユーザー** (02/25 07:57): 検索できなくない？
-- **仙人@suger** (02/26 07:06): できるよ
-- **仙人@suger** (02/26 07:06): たぶんアクセス数が多い夜とかが重くなってるだけ
-- **Anonymous** (02/26 11:25): ブロ
-- **あ** (02/27 09:42): どこでかつおが開けんの
-- **ぽーぽ** (03/07 01:44): どうやってサイト見るんですか？
-- **ドラゴンボール** (03/17 03:17): 規制かかった
-- **Anonymous** (04/17 12:34): どうやって見るの？
-- **粉雪** (04/20 11:25): 僕もわかんない
-- **ハル春** (04/30 04:51): 作るんだよ！デプロイして
+#### Comments (10)
+- **削除済みユーザー** (Feb 25, 2026 07:57am): 検索できなくない？
+- **仙人@suger** (Feb 26, 2026 07:06am): できるよ
+- **仙人@suger** (Feb 26, 2026 07:06am): たぶんアクセス数が多い夜とかが重くなってるだけ
+- **Anonymous** (Feb 26, 2026 11:25am): ブロ
+- **あ** (Feb 27, 2026 09:42am): どこでかつおが開けんの
+- **ぽーぽ** (Mar 07, 2026 01:44am): どうやってサイト見るんですか？
+- **ドラゴンボール** (Mar 17, 2026 03:17am): 規制かかった
+- **Anonymous** (Apr 17, 2026 12:34pm): どうやって見るの？
+- **粉雪** (Apr 20, 2026 11:25am): 僕もわかんない
+- **ハル春** (Apr 30, 2026 04:51am): 作るんだよ！デプロイして
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 02/24 23:02
-- **更新日（UTC）:** 02/24 23:04
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Feb 24, 2026 11:02pm
+- **Updated At (UTC):** Feb 24, 2026 11:04pm
 
 ---
 
 ### 2. かつおtubeがブロックされました。
-**作成者:** ドラゴンボール
+**Author:** ドラゴンボール
 
 <p>新しいかつおtubeのサイト教えてください。</p>
 
-#### コメント (1)
-- **仙人@suger** (05/01 10:25): なんかすぐぶろっくされちゃう
+#### Comments (1)
+- **仙人@suger** (May 01, 2026 10:25am): なんかすぐぶろっくされちゃう
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/14 23:22
-- **更新日（UTC）:** 04/14 23:22
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 14, 2026 11:22pm
+- **Updated At (UTC):** Apr 14, 2026 11:22pm
 
 ---
 
 ### 3. （泣）
-**作成者:** ばなな
+**Author:** ばなな
 
 <p>ISGC規制かかったぜ</p><p><br/></p>
 
-#### コメント (1)
-- **仙人@suger** (04/12 05:47): 性能あげてるよ
+#### Comments (1)
+- **仙人@suger** (Apr 12, 2026 05:47am): 性能あげてるよ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/10 09:54
-- **更新日（UTC）:** 04/10 09:54
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 10, 2026 09:54am
+- **Updated At (UTC):** Apr 10, 2026 09:54am
 
 ---
 
 ### 4. 超高速化したよ
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>https://katuotube-1-2.onrender.com</p>
 
-#### コメント (8)
-- **Agile Beluga** (03/16 01:55): こんにちは
-- **ﾅﾅｼﾉｺﾞﾝﾍﾞｲ** (03/29 05:42): This service has been suspended by its owner.って出てきます
-- **NyrikX(足立区陣ICFS系)** (03/30 03:26): それ人が使いすぎて使えなくなったやつ
-- **係長** (04/08 09:22): 何か出た
-- **Anonymous** (04/10 07:37): ISGC規制かかったぽいです
-- **粉雪** (04/20 11:21): 本当に安全ですか？
-- **ゆるみの** (05/02 07:15): ブロ
-- **ドラゴンボール** (05/11 00:09): ブロ
+#### Comments (8)
+- **Agile Beluga** (Mar 16, 2026 01:55am): こんにちは
+- **ﾅﾅｼﾉｺﾞﾝﾍﾞｲ** (Mar 29, 2026 05:42am): This service has been suspended by its owner.って出てきます
+- **NyrikX(足立区陣ICFS系)** (Mar 30, 2026 03:26am): それ人が使いすぎて使えなくなったやつ
+- **係長** (Apr 08, 2026 09:22am): 何か出た
+- **Anonymous** (Apr 10, 2026 07:37am): ISGC規制かかったぽいです
+- **粉雪** (Apr 20, 2026 11:21am): 本当に安全ですか？
+- **ゆるみの** (May 02, 2026 07:15am): ブロ
+- **ドラゴンボール** (May 11, 2026 12:09am): ブロ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/09 11:40
-- **更新日（UTC）:** 03/09 12:47
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 09, 2026 11:40am
+- **Updated At (UTC):** Mar 09, 2026 12:47pm
 
 ---
 
 ### 5. 公式
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>https://katuotube-1.onrender.com</p>
 
-#### コメント (17)
-- **Thoughtful Oyster** (02/25 04:05): パスワードわかりますか？
-- **Brilliant Kiwi** (02/25 06:15): パスワード教えてほしいです
-- **仙人@suger** (02/25 06:48): katuo
-- **Invisible Antelope** (02/25 23:42): あざっす！
-- **Anonymous Tiger** (02/26 07:07): 入れたけど再生できる？
-- **仙人@suger** (02/26 07:07): 軽量化する予定 
-- **えみとー** (02/27 00:11): まじで使いやすいありがと
-- **三角定規** (02/28 00:18): ブロ
-- **爆速土下座** (03/05 05:34): ブロされる
-- **ドラゴンボール** (03/17 03:18): ブロックされる。
-- **そこら辺の石ころ** (03/17 12:49): ブロックされる
-- **Anonymous** (03/17 22:02): サービス停止みたいなの出てくる
-- **NyrikX(足立区陣ICFS系)** (03/30 03:26): 公式のやつがぶっ壊れてるのはしょうがない
-- **Iフィルターまじうざい** (04/02 10:59): 何も入れンンン
-- **係長** (04/11 04:37): 小学生のクロームメッキ
-- **係長** (04/08 09:24): すいませんうち間違えました
-- **豚眉毛** (05/02 07:06): google videoすらブロックされる。ダウンロードすら無理 
+#### Comments (17)
+- **Thoughtful Oyster** (Feb 25, 2026 04:05am): パスワードわかりますか？
+- **Brilliant Kiwi** (Feb 25, 2026 06:15am): パスワード教えてほしいです
+- **仙人@suger** (Feb 25, 2026 06:48am): katuo
+- **Invisible Antelope** (Feb 25, 2026 11:42pm): あざっす！
+- **Anonymous Tiger** (Feb 26, 2026 07:07am): 入れたけど再生できる？
+- **仙人@suger** (Feb 26, 2026 07:07am): 軽量化する予定 
+- **えみとー** (Feb 27, 2026 12:11am): まじで使いやすいありがと
+- **三角定規** (Feb 28, 2026 12:18am): ブロ
+- **爆速土下座** (Mar 05, 2026 05:34am): ブロされる
+- **ドラゴンボール** (Mar 17, 2026 03:18am): ブロックされる。
+- **そこら辺の石ころ** (Mar 17, 2026 12:49pm): ブロックされる
+- **Anonymous** (Mar 17, 2026 10:02pm): サービス停止みたいなの出てくる
+- **NyrikX(足立区陣ICFS系)** (Mar 30, 2026 03:26am): 公式のやつがぶっ壊れてるのはしょうがない
+- **Iフィルターまじうざい** (Apr 02, 2026 10:59am): 何も入れンンン
+- **係長** (Apr 11, 2026 04:37am): 小学生のクロームメッキ
+- **係長** (Apr 08, 2026 09:24am): すいませんうち間違えました
+- **豚眉毛** (May 02, 2026 07:06am): google videoすらブロックされる。ダウンロードすら無理 
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/24 23:03
-- **更新日（UTC）:** 02/24 23:03
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 24, 2026 11:03pm
+- **Updated At (UTC):** Feb 24, 2026 11:03pm
 
 ---
 
 ## 仙人tube　plus
 
 ### 1. サイトの概要
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>僕が制作したYouTubeサイトです</p><p>ストリーム再生とnocckie再生に対応しています。YouTubeのUIに近づけました。</p><p><br></p><p>@リンク集</p><p>・リポジトリ</p><p>https://github.com/xianrendesu-max/sennintubeyobi<br></p><p><br></p><p>・制作者</p><p>ぼく</p><p><br/></p><p>https://scratch.mit.edu/projects/1273430674/</p><p><br></p>
 
-#### コメント (18)
-- **Bold Piranha** (01/29 00:25): ブロックされた
-- **Anonymous** (01/29 00:35): サイトがなくなりましたみたいな感じで見れなくなったー、
-- **仙人@suger** (01/30 22:25): https://sennintubeyobi-fnpi.onrender.com
-- **仙人@suger** (01/30 22:26): これつかってRenderの無料プランにかかった
-- **Admirable Dory** (02/03 08:46): 仙人Tubeってどんな仕組みですか？YouTube API使ってますか？
-- **お願い** (02/03 11:44): 今日好きが見れたらいいな
-- **仙人@suger** (02/07 11:19): Invidious のfastapiを使ってるよ今までInvidious は直で取得出来ると思ってたから作るのに時間かかった
-- **あなたは髪の毛ありますか?** (02/09 02:28): 教好きみたいのかよ
-- **許天宇** (02/12 05:12): https://sennintubeyobi-1.onrender.com/のパスワードはなんですか?
-- **yukio** (02/13 00:30): 仙人全部ブロー
-- **許天宇** (02/16 02:06): ありがとうございます
-- **Eager Bear** (02/24 03:11): https://rakko.tools/tools/41/これ使ったらリンク色々貼れるとかない？
-- **えみみとー** (02/26 07:12): たしかに今日好き見たいね
-- **ぽーぽ** (03/07 01:47): パスワードなんですか？
-- **すずめ** (03/07 22:04): たしかsenninkamiだった気がする
-- **Hopeful Emu** (03/13 21:13): invのyt cdn urlって死なないの？どうやってストリームしてんの？
-- **仙人@suger** (03/30 09:38): Pythonでやってるよ
-- **味付け海苔製造機** (04/29 13:48): ｾﾝﾆﾝﾁｭｰﾌﾞﾊﾌﾞﾛｻﾚﾁｬｳ
+#### Comments (18)
+- **Bold Piranha** (Jan 29, 2026 12:25am): ブロックされた
+- **Anonymous** (Jan 29, 2026 12:35am): サイトがなくなりましたみたいな感じで見れなくなったー、
+- **仙人@suger** (Jan 30, 2026 10:25pm): https://sennintubeyobi-fnpi.onrender.com
+- **仙人@suger** (Jan 30, 2026 10:26pm): これつかってRenderの無料プランにかかった
+- **Admirable Dory** (Feb 03, 2026 08:46am): 仙人Tubeってどんな仕組みですか？YouTube API使ってますか？
+- **お願い** (Feb 03, 2026 11:44am): 今日好きが見れたらいいな
+- **仙人@suger** (Feb 07, 2026 11:19am): Invidious のfastapiを使ってるよ今までInvidious は直で取得出来ると思ってたから作るのに時間かかった
+- **あなたは髪の毛ありますか?** (Feb 09, 2026 02:28am): 教好きみたいのかよ
+- **許天宇** (Feb 12, 2026 05:12am): https://sennintubeyobi-1.onrender.com/のパスワードはなんですか?
+- **yukio** (Feb 13, 2026 12:30am): 仙人全部ブロー
+- **許天宇** (Feb 16, 2026 02:06am): ありがとうございます
+- **Eager Bear** (Feb 24, 2026 03:11am): https://rakko.tools/tools/41/これ使ったらリンク色々貼れるとかない？
+- **えみみとー** (Feb 26, 2026 07:12am): たしかに今日好き見たいね
+- **ぽーぽ** (Mar 07, 2026 01:47am): パスワードなんですか？
+- **すずめ** (Mar 07, 2026 10:04pm): たしかsenninkamiだった気がする
+- **Hopeful Emu** (Mar 13, 2026 09:13pm): invのyt cdn urlって死なないの？どうやってストリームしてんの？
+- **仙人@suger** (Mar 30, 2026 09:38am): Pythonでやってるよ
+- **味付け海苔製造機** (Apr 29, 2026 01:48pm): ｾﾝﾆﾝﾁｭｰﾌﾞﾊﾌﾞﾛｻﾚﾁｬｳ
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 01/28 10:18
-- **更新日（UTC）:** 02/03 07:30
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Jan 28, 2026 10:18am
+- **Updated At (UTC):** Feb 03, 2026 07:30am
 
 ---
 
 ### 2. 仙人＋のリンクです
-**作成者:** もっくん (mokkun)
+**Author:** もっくん (mokkun)
 
 <p>見つけづらくなってたので投稿しときます</p>
 
-[添付ファイル 1](https://sennin-tube-plus.onrender.com/)
+[Attachment 1](https://sennin-tube-plus.onrender.com/)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/19 10:43
-- **更新日（UTC）:** 05/19 10:43
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 19, 2026 10:43am
+- **Updated At (UTC):** May 19, 2026 10:43am
 
 ---
 
 ### 3. 内部エラーとかでないやつほしい
-**作成者:** goodbay
+**Author:** goodbay
 
-#### コメント (1)
-- **仙人@suger** (05/19 10:11): sennin-tube-plus-production-e0c5.up.railway.app
+#### Comments (1)
+- **仙人@suger** (May 19, 2026 10:11am): sennin-tube-plus-production-e0c5.up.railway.app
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 07:41
-- **更新日（UTC）:** 05/18 07:41
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 07:41am
+- **Updated At (UTC):** May 18, 2026 07:41am
 
 ---
 
 ### 4. 内部サーバーエラー???????????????????????????????????????????????????????????????????????????????????????
-**作成者:** goodbay
+**Author:** goodbay
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 07:34
-- **更新日（UTC）:** 05/18 07:34
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 07:34am
+- **Updated At (UTC):** May 18, 2026 07:34am
 
 ---
 
 ### 5. パスワード教えてください。
-**作成者:** goodbay
+**Author:** goodbay
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 07:32
-- **更新日（UTC）:** 05/18 07:32
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 07:32am
+- **Updated At (UTC):** May 18, 2026 07:32am
 
 ---
 
 ### 6. 仙人
-**作成者:** 仙人大好き
+**Author:** 仙人大好き
 
 <p><a rel="noopener noreferrer nofollow" href="https://sennintubeyobi-2.onrender.com/word/">https://sennintubeyobi-2.onrender.com/word/</a></p>
 
-[添付ファイル 1](https://sennintubeyobi-2.onrender.com/word/)
+[Attachment 1](https://sennintubeyobi-2.onrender.com/word/)
 
-#### コメント (9)
-- **仙人大好き** (02/16 04:49): これ今サーバーダウン中
-- **望海** (02/20 04:30): いつまで
-- **Dapper Iguana** (02/24 00:36): 来月使える
-- **望海** (03/06 12:21): まだ？
-- **お** (03/11 12:43): パスワードなんですか
-- **葉月** (03/13 05:06): たぶんsenninkami
-- **お** (03/16 12:25): ありがとうございます
-- **お** (03/16 12:28): はいれません
-- **ばなな** (04/10 10:06): これまだサーバーダウン中？
+#### Comments (9)
+- **仙人大好き** (Feb 16, 2026 04:49am): これ今サーバーダウン中
+- **望海** (Feb 20, 2026 04:30am): いつまで
+- **Dapper Iguana** (Feb 24, 2026 12:36am): 来月使える
+- **望海** (Mar 06, 2026 12:21pm): まだ？
+- **お** (Mar 11, 2026 12:43pm): パスワードなんですか
+- **葉月** (Mar 13, 2026 05:06am): たぶんsenninkami
+- **お** (Mar 16, 2026 12:25pm): ありがとうございます
+- **お** (Mar 16, 2026 12:28pm): はいれません
+- **ばなな** (Apr 10, 2026 10:06am): これまだサーバーダウン中？
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/16 04:48
-- **更新日（UTC）:** 02/16 04:48
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 16, 2026 04:48am
+- **Updated At (UTC):** Feb 16, 2026 04:48am
 
 ---
 
 ### 7. リンク集
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <ul><li><p><a rel="noopener noreferrer nofollow" href="https://sennintubeyobi-fnpi.onrender.com">https://sennintubeyobi-fnpi.onrender.com</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sennintubeyobi-y2wp.onrender.com">https://sennintubeyobi-y2wp.onrender.com</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sennintubeyobi.onrender.com/">https://sennintubeyobi.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sennintubeyobi-1.onrender.com/">https://sennintubeyobi-1.onrender.com/</a></p></li></ul><p><br/></p>
 
-#### コメント (4)
-- **Anonymous** (02/19 05:14): https://sennintubeyobi-y2wp.onrender.comこれのパスワードなんですか？
-- **NyrikX(足立区陣ICFS系)** (03/30 03:38): senninkami
-- **NyrikX(足立区陣ICFS系)** (04/29 05:52): すいません、現在読み込む中が永遠に続いたりインテナルサーバーエラーになります
-- **許天宇** (05/15 14:13): 同じくです
+#### Comments (4)
+- **Anonymous** (Feb 19, 2026 05:14am): https://sennintubeyobi-y2wp.onrender.comこれのパスワードなんですか？
+- **NyrikX(足立区陣ICFS系)** (Mar 30, 2026 03:38am): senninkami
+- **NyrikX(足立区陣ICFS系)** (Apr 29, 2026 05:52am): すいません、現在読み込む中が永遠に続いたりインテナルサーバーエラーになります
+- **許天宇** (May 15, 2026 02:13pm): 同じくです
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/09 11:06
-- **更新日（UTC）:** 02/19 09:27
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 09, 2026 11:06am
+- **Updated At (UTC):** Feb 19, 2026 09:27am
 
 ---
 
 ### 8. リポジトリだよ
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p><a rel="noopener noreferrer nofollow" href="https://github.com/xianrendesu-max/sennintubeyobi">https://github.com/xianrendesu-max/sennintubeyobi</a></p><p>みんな作って広めてね</p>
 
-#### コメント (1)
-- **やあ** (01/27 12:40): ついにブロ
+#### Comments (1)
+- **やあ** (Jan 27, 2026 12:40pm): ついにブロ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/25 03:09
-- **更新日（UTC）:** 01/25 03:09
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 25, 2026 03:09am
+- **Updated At (UTC):** Jan 25, 2026 03:09am
 
 ---
 
 ### 9. 質問!!
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>最新型仙人tube使ってる人いる?</p>
 
-#### コメント (10)
-- **ᏁγᎶ » Tøka_Kuŋ_** (01/13 08:38): 僕はいつもInvで動画を検索して自作ツールでYTみてる
-- **ᏁγᎶ » Tøka_Kuŋ_** (01/13 08:40): https://padlet.com/xianrendesu/proxy-n0g1c0jl2ak3grc5/wish/dMA1W89XjvXKa4OV https://padlet.com/xianrendesu/proxy-n0g1c0jl2ak3grc5/wish/J24jalM1b53lQ0A1 この２つの投稿を僕の荒らし対策室に移動させて欲しい。セクションはどこでもいいから
-- **やあ** (01/14 03:55): 仙人tube使えない改良願う
-- **仙人@suger** (01/14 08:47): どう使えない?
-- **仙人@suger** (01/14 08:48): 移動ってどうするんですか？無知ですみません
-- **ᏁγᎶ » Tøka_Kuŋ_** (01/14 11:23): 投稿の 3つの点を押したら別のPadletに投稿を移動って出てくるよ
-- **仙人@suger** (01/14 11:35): あざます！
-- **ᏁγᎶ » Tøka_Kuŋ_** (01/14 11:37): ありがと
-- **Dapper Hummingbird** (01/17 12:16): リンク教えて欲しいです！最新仙人の
-- **仙人@suger** (01/19 11:27): 明日もっと新しくて使いやすいの公開するからちょっと待ってね
+#### Comments (10)
+- **ᏁγᎶ » Tøka_Kuŋ_** (Jan 13, 2026 08:38am): 僕はいつもInvで動画を検索して自作ツールでYTみてる
+- **ᏁγᎶ » Tøka_Kuŋ_** (Jan 13, 2026 08:40am): https://padlet.com/xianrendesu/proxy-n0g1c0jl2ak3grc5/wish/dMA1W89XjvXKa4OV https://padlet.com/xianrendesu/proxy-n0g1c0jl2ak3grc5/wish/J24jalM1b53lQ0A1 この２つの投稿を僕の荒らし対策室に移動させて欲しい。セクションはどこでもいいから
+- **やあ** (Jan 14, 2026 03:55am): 仙人tube使えない改良願う
+- **仙人@suger** (Jan 14, 2026 08:47am): どう使えない?
+- **仙人@suger** (Jan 14, 2026 08:48am): 移動ってどうするんですか？無知ですみません
+- **ᏁγᎶ » Tøka_Kuŋ_** (Jan 14, 2026 11:23am): 投稿の 3つの点を押したら別のPadletに投稿を移動って出てくるよ
+- **仙人@suger** (Jan 14, 2026 11:35am): あざます！
+- **ᏁγᎶ » Tøka_Kuŋ_** (Jan 14, 2026 11:37am): ありがと
+- **Dapper Hummingbird** (Jan 17, 2026 12:16pm): リンク教えて欲しいです！最新仙人の
+- **仙人@suger** (Jan 19, 2026 11:27am): 明日もっと新しくて使いやすいの公開するからちょっと待ってね
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/12 11:11
-- **更新日（UTC）:** 01/21 13:41
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 12, 2026 11:11am
+- **Updated At (UTC):** Jan 21, 2026 01:41pm
 
 ---
 
 ### 10. 仙人YouTubeビュアーの公開用リポジトリ
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p><a rel="noopener noreferrer nofollow" href="https://github.com/sennin361/YouTube6">https://github.com/sennin361/YouTube6</a></p><p>みんな作ってね</p>
 
-#### コメント (11)
-- **昇上砂塵嵐** (12/15 10:17): なんだこれ？
-- **削除済みユーザー** (12/18 00:22): 仙人さんありがとう
-- **よしだ（だ）さん** (01/08 10:09): ありがとうございます
-- **仙人@suger** (01/08 22:20): これ旧型
-- **Benevolent Quokka** (01/11 23:49): まじか
-- **Benevolent Quokka** (01/11 23:49): わかんなかった
-- **Enthusiastic Emu** (03/02 07:59): 仙人tubeどうやって見る？
-- **Graceful Kangaroo** (03/04 02:25): パスワードって何？ 
-- **からあげクンLOVE** (03/05 13:57): パスワードなんだろう
-- **NyrikX(足立区陣ICFS系)** (03/30 03:39): senninkami
-- **係長** (04/08 09:27): 規制かかった
+#### Comments (11)
+- **昇上砂塵嵐** (Dec 15, 2025 10:17am): なんだこれ？
+- **削除済みユーザー** (Dec 18, 2025 12:22am): 仙人さんありがとう
+- **よしだ（だ）さん** (Jan 08, 2026 10:09am): ありがとうございます
+- **仙人@suger** (Jan 08, 2026 10:20pm): これ旧型
+- **Benevolent Quokka** (Jan 11, 2026 11:49pm): まじか
+- **Benevolent Quokka** (Jan 11, 2026 11:49pm): わかんなかった
+- **Enthusiastic Emu** (Mar 02, 2026 07:59am): 仙人tubeどうやって見る？
+- **Graceful Kangaroo** (Mar 04, 2026 02:25am): パスワードって何？ 
+- **からあげクンLOVE** (Mar 05, 2026 01:57pm): パスワードなんだろう
+- **NyrikX(足立区陣ICFS系)** (Mar 30, 2026 03:39am): senninkami
+- **係長** (Apr 08, 2026 09:27am): 規制かかった
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 08/08 07:26
-- **更新日（UTC）:** 01/21 13:41
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Aug 08, 2025 07:26am
+- **Updated At (UTC):** Jan 21, 2026 01:41pm
 
 ---
 
 ## わかめtube
 
 ### 1. サイトの概要
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>wakame02さんが制作されたYouTubeサイトです。</p><p><br></p><p>@リンク集</p><p>開発者</p><p>・githab</p><p>https://github.com/wakame02</p><p><br></p><p>・scratch </p><p>https://scratch.mit.edu/users/wakame-02/</p><p><br></p><p>・リポジトリ</p><p>https://github.com/wakame02/wkt</p>
 
-#### コメント (9)
-- **ᏁγᎶ » Tøka_Kuŋ_** (03/13 07:23): 今はこれがおすすめ: https://github.com/toka-kun/wkt-Plus
-- **仙人@suger** (03/15 08:38): これすごい作り込まれてて参考になる
-- **ドラえもん** (03/16 05:22): 下のドラえもんとかのGIF全部うちの友達がやったんで消してください
-- **仙人@suger** (04/05 10:09): Ok
-- **YouTube好きっ子** (04/21 07:11): ガチで最近ワカメ使えないんですがなんか新しいのないですかね？
-- **YouTube好きっ子** (04/21 07:30): あと全部開けなくて
-- **おいチーズ** (04/21 08:36): まじでそう！最近全然ひらけん
-- **ᏁγᎶ » Tøka_Kuŋ_** (04/21 10:26): はいよhttps://padlet.com/Toka_Kun_/breakout-room/ke9Kqzboj0OdqYQG-oAdpz24dgkRJv10R
-- **Tomoharukun** (05/12 06:56): 英語読めない
+#### Comments (9)
+- **ᏁγᎶ » Tøka_Kuŋ_** (Mar 13, 2026 07:23am): 今はこれがおすすめ: https://github.com/toka-kun/wkt-Plus
+- **仙人@suger** (Mar 15, 2026 08:38am): これすごい作り込まれてて参考になる
+- **ドラえもん** (Mar 16, 2026 05:22am): 下のドラえもんとかのGIF全部うちの友達がやったんで消してください
+- **仙人@suger** (Apr 05, 2026 10:09am): Ok
+- **YouTube好きっ子** (Apr 21, 2026 07:11am): ガチで最近ワカメ使えないんですがなんか新しいのないですかね？
+- **YouTube好きっ子** (Apr 21, 2026 07:30am): あと全部開けなくて
+- **おいチーズ** (Apr 21, 2026 08:36am): まじでそう！最近全然ひらけん
+- **ᏁγᎶ » Tøka_Kuŋ_** (Apr 21, 2026 10:26am): はいよhttps://padlet.com/Toka_Kun_/breakout-room/ke9Kqzboj0OdqYQG-oAdpz24dgkRJv10R
+- **Tomoharukun** (May 12, 2026 06:56am): 英語読めない
 
-#### リアクション
-- **絵文字:** ❤️ (3)
+#### Reactions
+- **Emojis:** ❤️ (3)
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 01/28 09:54
-- **更新日（UTC）:** 01/28 09:54
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Jan 28, 2026 09:54am
+- **Updated At (UTC):** Jan 28, 2026 09:54am
 
 ---
 
 ### 2. あのglitchわかめはもう全部のわかめのサービス終了したから使えないよ
-**作成者:** おかゆん大好き❤️。 (46237_5)
+**Author:** おかゆん大好き❤️。 (46237_5)
 
-#### コメント (3)
-- **陽著辺子** (07/07 00:49): 説明ありがと
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (11/13 04:24): サービス終了したのはわかめじゃなくてglitchね
-- **フユゾラ** (04/11 07:31): 関係ないけど僕もおかゆん好き
+#### Comments (3)
+- **陽著辺子** (Jul 07, 2025 12:49am): 説明ありがと
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Nov 13, 2025 04:24am): サービス終了したのはわかめじゃなくてglitchね
+- **フユゾラ** (Apr 11, 2026 07:31am): 関係ないけど僕もおかゆん好き
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/24 00:41
-- **更新日（UTC）:** 07/07 00:49
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 24, 2025 12:41am
+- **Updated At (UTC):** Jul 07, 2025 12:49am
 
 ---
 
 ### 3. あなたは何歳？
-**作成者:** ごま塩プリンセスキララ
+**Author:** ごま塩プリンセスキララ
 
-#### コメント (1)
-- **Natsu** (05/21 07:54): 810
+#### Comments (1)
+- **Natsu** (May 21, 2026 07:54am): 810
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/21 01:01
-- **更新日（UTC）:** 05/21 01:01
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 01:01am
+- **Updated At (UTC):** May 21, 2026 01:01am
 
 ---
 
 ### 4. YouTube見る方法教えてください
-**作成者:** Among Us
+**Author:** Among Us
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/20 23:59
-- **更新日（UTC）:** 05/20 23:59
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 20, 2026 11:59pm
+- **Updated At (UTC):** May 20, 2026 11:59pm
 
 ---
 
 ### 5. 仙人へ
-**作成者:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
+**Author:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
 
 <p>これ使え</p><p>ブックマークレット</p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5136827215/655d73136549fbf13768b2ce74700d6a/___.txt?Expires=1780487710&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PCzJqZ4gml4u0zAdOqFhQWJosrOuUYcXrf%2FfybhT9%2FeSBtmT3gorWRUlIc%2BWtbsQmBaimtZggB8X4gMhw5C9PeLw%2BsoyZX4zPhBo8t97lOzPeHfmoZgfNLbasrl%2BzleqimJVa3%2Fizxwq9dGi4DWD0K7AfYJNpPhlIYjyhzEi6q4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5136827215%2F655d73136549fbf13768b2ce74700d6a%2F___.txt)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5136827215/655d73136549fbf13768b2ce74700d6a/___.txt?Expires=1780502914&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=AuVaEhkE4N4kqbiRLdFw6HYwF2BZCiewdG3B9xCjKznAFNfhQ3%2FtgQP2NZT6YTzNT7er6rGGyH83EBXpdCZawjWKwuyyii6L0px4F1VxkTE0rcqRiaBMnuEJgEisIOedwBc3ozmfR7eFIq2yVOPbG%2FVAfCYrAJId4M0cYwmH4tg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5136827215%2F655d73136549fbf13768b2ce74700d6a%2F___.txt)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/20 11:28
-- **更新日（UTC）:** 05/20 11:28
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 20, 2026 11:28am
+- **Updated At (UTC):** May 20, 2026 11:28am
 
 ---
 
 ### 6. なまえの変え方教えて
-**作成者:** アメアガリ
+**Author:** アメアガリ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/20 04:48
-- **更新日（UTC）:** 05/20 04:48
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 20, 2026 04:48am
+- **Updated At (UTC):** May 20, 2026 04:48am
 
 ---
 
-### 7. 投稿 7
-**作成者:** アメアガリ
+### 7. Post 7
+**Author:** アメアガリ
 
 <p>ラグい助けて</p><p><br/></p>
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/20 04:47
-- **更新日（UTC）:** 05/20 04:47
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 20, 2026 04:47am
+- **Updated At (UTC):** May 20, 2026 04:47am
 
 ---
 
 ### 8. montagem好きな人の居場所
-**作成者:** 最強くん(諸説あり) (s220765_6)
+**Author:** 最強くん(諸説あり) (s220765_6)
 
-#### コメント (1)
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (05/19 13:26): うっｍ
+#### Comments (1)
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (May 19, 2026 01:26pm): うっｍ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/19 10:13
-- **更新日（UTC）:** 05/19 10:13
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 19, 2026 10:13am
+- **Updated At (UTC):** May 19, 2026 10:13am
 
 ---
 
 ### 9. よろしく
-**作成者:** 荒蒔奏太 (70005_19)
+**Author:** 荒蒔奏太 (70005_19)
 
 <p>よろしくお願いします</p>
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 22:39
-- **更新日（UTC）:** 05/18 22:39
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 10:39pm
+- **Updated At (UTC):** May 18, 2026 10:39pm
 
 ---
 
 ### 10. よろしくお願いします
-**作成者:** 荒蒔奏太 (70005_19)
+**Author:** 荒蒔奏太 (70005_19)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 22:38
-- **更新日（UTC）:** 05/18 22:38
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 10:38pm
+- **Updated At (UTC):** May 18, 2026 10:38pm
 
 ---
 
 ### 11. よろしくお願いします
-**作成者:** 荒蒔奏太 (70005_19)
+**Author:** 荒蒔奏太 (70005_19)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 22:37
-- **更新日（UTC）:** 05/18 22:37
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 10:37pm
+- **Updated At (UTC):** May 18, 2026 10:37pm
 
 ---
 
 ### 12. 誰かi filterでYouTube見れるサイト教えて！ゲームも教えて欲しい！
-**作成者:** ソルガレオ系男子
+**Author:** ソルガレオ系男子
 
 <p>お願い！</p>
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 02:30
-- **更新日（UTC）:** 05/18 02:30
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 02:30am
+- **Updated At (UTC):** May 18, 2026 02:30am
 
 ---
 
 ### 13. 暇
-**作成者:** Null
+**Author:** Null
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 02:24
-- **更新日（UTC）:** 05/18 02:24
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 02:24am
+- **Updated At (UTC):** May 18, 2026 02:24am
 
 ---
 
 ### 14. 暇
-**作成者:** Null
+**Author:** Null
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 02:23
-- **更新日（UTC）:** 05/18 02:23
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 02:23am
+- **Updated At (UTC):** May 18, 2026 02:23am
 
 ---
 
 ### 15. ああ
-**作成者:** 私は神だ
+**Author:** 私は神だ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/17 02:37
-- **更新日（UTC）:** 05/17 02:37
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 17, 2026 02:37am
+- **Updated At (UTC):** May 17, 2026 02:37am
 
 ---
 
 ### 16. こｎ
-**作成者:** 私は神だ
+**Author:** 私は神だ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/17 02:37
-- **更新日（UTC）:** 05/17 02:37
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 17, 2026 02:37am
+- **Updated At (UTC):** May 17, 2026 02:37am
 
 ---
 
 ### 17. よう
-**作成者:** 私は神だ
+**Author:** 私は神だ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/17 02:37
-- **更新日（UTC）:** 05/17 02:37
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 17, 2026 02:37am
+- **Updated At (UTC):** May 17, 2026 02:37am
 
 ---
 
 ### 18. z１４の力
-**作成者:** フォトナしたいいいいいいいいいいいいいいいいいい (gs225708)
+**Author:** フォトナしたいいいいいいいいいいいいいいいいいい (gs225708)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5639307766/740b0b2d628e9cd0c0eb6ac07c913b56/Screenshot_2026_01_19_13_36_00.png?Expires=1780487710&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dFiDtvXFhJQvIPDxzBhVcey6hFigRsVlcyx9QYddzzqyYxHcFljgu6zYV%2BqNkkw0jNOQf8XNAdwjhaLUcz64A8Cdz%2FT%2BzZZ8CY0U2F8axcnk%2FtGmMx3DSrEAvW92FeR3aN4kxbfGSEnXogB0bOLKvVe9QvThFyFBgsszG1x3SVo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5639307766%2F740b0b2d628e9cd0c0eb6ac07c913b56%2FScreenshot_2026_01_19_13_36_00.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5639307766/740b0b2d628e9cd0c0eb6ac07c913b56/Screenshot_2026_01_19_13_36_00.png?Expires=1780502914&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fRWkJbHvJbOI91Tp8RUXcjoxMqxETeoXu0gsaImZLsq%2BL10EVZmYCSCPBLYSkqSalEM3wD3SmOYOQl5ODYPecQzLMnTfJHAPMsEaqhBHGssP3cO5QYcI1J9PwqvB6GtX9vDrdseGINbSR6nrYc6GuULC2DFpYXT8zIhSRtDRnf4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5639307766%2F740b0b2d628e9cd0c0eb6ac07c913b56%2FScreenshot_2026_01_19_13_36_00.png)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 23:20
-- **更新日（UTC）:** 05/15 23:20
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 15, 2026 11:20pm
+- **Updated At (UTC):** May 15, 2026 11:20pm
 
 ---
 
 ### 19. どうも神です
-**作成者:** フォトナしたいいいいいいいいいいいいいいいいいい (gs225708)
+**Author:** フォトナしたいいいいいいいいいいいいいいいいいい (gs225708)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5639307766/347a43e0a9e69df90883573ca3516a64/Screenshot_2026_01_19_13_36_00.png?Expires=1780487710&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BfVxgT80FsmytGP6yt%2BIYmywY299XbE%2BGYWcXq9UT2ZPNq5rBs3dimUhv91X0ghnAmqPx3XEi%2FnZP7jN2fTR8Jh1tBpAA2YESIIRm1C1v%2BlI5y4pfuv5QKtZHUCYmSemL1fmiDfhHyULENWHTJO91QZkOJb0WzFLeQpaUJYM0xg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5639307766%2F347a43e0a9e69df90883573ca3516a64%2FScreenshot_2026_01_19_13_36_00.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5639307766/347a43e0a9e69df90883573ca3516a64/Screenshot_2026_01_19_13_36_00.png?Expires=1780502914&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bMRYmROqi2VYGDecl3U4f20oJ5e7IuUrY9NOvxpvMcYhbUZg%2BL4ymQPIuZyJW2khG4xejPRIeR7e10q18G%2FlW6PNkZLMz4EPBAMZsCOCKq8qTXTI4tWrqO9iOBRxhiJ%2BrHPWwKdl1wOrQMOMlHC64LHe7aEr%2BLUn3e5hiVd8PWY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5639307766%2F347a43e0a9e69df90883573ca3516a64%2FScreenshot_2026_01_19_13_36_00.png)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 23:19
-- **更新日（UTC）:** 05/15 23:19
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 15, 2026 11:19pm
+- **Updated At (UTC):** May 15, 2026 11:19pm
 
 ---
 
 ### 20. わかめtube
-**作成者:** 旧世界男 (ahonohitoshi)
+**Author:** 旧世界男 (ahonohitoshi)
 
 <p>パスワードwakame</p>
 
-[添付ファイル 1](https://wkt-22.onrender.com/wkt)
+[Attachment 1](https://wkt-22.onrender.com/wkt)
 
-#### コメント (1)
-- **旧世界男** (05/16 02:04): ブロックされたらごめんね
+#### Comments (1)
+- **旧世界男** (May 16, 2026 02:04am): ブロックされたらごめんね
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** パープル
-- **作成日（UTC）:** 05/15 10:33
-- **更新日（UTC）:** 05/15 10:33
+#### Additional Information
+- **Post color:** Purple
+- **Created At (UTC):** May 15, 2026 10:33am
+- **Updated At (UTC):** May 15, 2026 10:33am
 
 ---
 
 ### 21. オンラインゲーム
-**作成者:** メブキ
+**Author:** メブキ
 
 <p>&lt;!DOCTYPE html&gt;</p><p>&lt;html lang="ja"&gt;</p><p>&lt;head&gt;</p><p>    &lt;meta charset="UTF-8"&gt;</p><p>    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;</p><p>    &lt;title&gt;2台のPCで対戦！連打バトル&lt;/title&gt;</p><p>    &lt;style&gt;</p><p>        body { font-family: sans-serif; background: #eef2f3; text-align: center; padding: 20px; margin: 0; }</p><p>        .container { max-width: 500px; margin: 0 auto; background: white; padding: 30px; border-radius: 16px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }</p><p>        h1 { color: #333; margin-bottom: 20px; }</p><p>        .setup-box { background: #f7f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px; text-align: left; }</p><p>        textarea { width: 95%; height: 60px; font-size: 11px; resize: none; margin-bottom: 10px; }</p><p>        button { background: #2196f3; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 6px; cursor: pointer; font-weight: bold; }</p><p>        button:hover { background: #1e88e5; }</p><p>        button:disabled { background: #ccc; cursor: not-allowed; }</p><p>        .status { font-weight: bold; color: #ff9800; margin: 15px 0; }</p><p>        .connected { color: #4caf50; }</p><p>        .game-area { display: none; }</p><p>        .btn-hit { background: #ff5722; width: 150px; height: 150px; border-radius: 50%; font-size: 24px; box-shadow: 0 6px #d84315; transition: 0.1s; margin: 20px 0; }</p><p>        .btn-hit:active { transform: translateY(6px); box-shadow: none; }</p><p>        .gauge-container { background: #ddd; height: 30px; border-radius: 15px; overflow: hidden; margin: 20px 0; position: relative; }</p><p>        .gauge { height: 100%; width: 50%; background: linear-gradient(to right, #2196f3 50%, #ff5722 50%); transition: width 0.1s ease-out; }</p><p>        .gauge-label { position: absolute; width: 100%; top: 5px; font-weight: bold; font-size: 14px; color: #333; display: flex; justify-content: space-between; padding: 0 15px; box-sizing: border-box; }</p><p>    &lt;/style&gt;</p><p>&lt;/head&gt;</p><p>&lt;body&gt;</p><p>&lt;div class="container"&gt;</p><p>    &lt;h1&gt;連打オンラインバトル&lt;/h1&gt;</p><p>    </p><p>    &lt;!-- 接続設定エリア --&gt;</p><p>    &lt;div id="setupArea"&gt;</p><p>        &lt;div class="setup-box"&gt;</p><p>            &lt;strong&gt;1. 接続コードを発行する&lt;/strong&gt;&lt;br&gt;</p><p>            &lt;button id="btnInit"&gt;コード生成&lt;/button&gt;</p><p>            &lt;textarea id="localSdp" readonly placeholder="生成されたコードがここに表示されます"&gt;&lt;/textarea&gt;</p><p>        &lt;/div&gt;</p><p>        &lt;div class="setup-box"&gt;</p><p>            &lt;strong&gt;2. 相手の接続コードを貼り付ける&lt;/strong&gt;&lt;br&gt;</p><p>            &lt;textarea id="remoteSdp" placeholder="相手のコードをここに貼り付けてください"&gt;&lt;/textarea&gt;</p><p>            &lt;button id="btnConnect" disabled&gt;相手に接続&lt;/button&gt;</p><p>        &lt;/div&gt;</p><p>    &lt;/div&gt;</p><p>    &lt;div id="status" class="status"&gt;対戦相手と通信を接続してください&lt;/div&gt;</p><p>    &lt;!-- ゲームプレイエリア --&gt;</p><p>    &lt;div id="gameArea" class="game-area"&gt;</p><p>        &lt;div class="gauge-container"&gt;</p><p>            &lt;div id="gauge" class="gauge"&gt;&lt;/div&gt;</p><p>            &lt;div class="gauge-label"&gt;</p><p>                &lt;span&gt;あなた (青)&lt;/span&gt;</p><p>                &lt;span&gt;あいて (赤)&lt;/span&gt;</p><p>            &lt;/div&gt;</p><p>        &lt;/div&gt;</p><p>        &lt;button id="btnHit" class="btn-hit"&gt;連打！&lt;/button&gt;</p><p>        &lt;h2 id="resultMsg"&gt;相手より先にゲージを押し切れ！&lt;/h2&gt;</p><p>    &lt;/div&gt;</p><p>&lt;/div&gt;</p><p>&lt;script&gt;</p><p>let pc = new RTCPeerConnection({ iceServers: [{ urls: "stun:<a rel="noopener noreferrer nofollow" href="http://google.com">google.com</a>" }] });</p><p>let dataChannel = null;</p><p>let myScore = 50; // 50%からスタート。0で負け、100で勝ち</p><p>let isHost = false;</p><p>let gameActive = true;</p><p>const btnInit = document.getElementById("btnInit");</p><p>const btnConnect = document.getElementById("btnConnect");</p><p>const btnHit = document.getElementById("btnHit");</p><p>const localSdpText = document.getElementById("localSdp");</p><p>const remoteSdpText = document.getElementById("remoteSdp");</p><p>const statusEl = document.getElementById("status");</p><p>const gameArea = document.getElementById("gameArea");</p><p>const setupArea = document.getElementById("setupArea");</p><p>const gauge = document.getElementById("gauge");</p><p>const resultMsg = document.getElementById("resultMsg");</p><p>// 1. コード生成ボタン（ホスト側またはゲスト側が最初に押す）</p><p>btnInit.onclick = async () =&gt; {</p><p>    btnInit.disabled = true;</p><p>    </p><p>    // データ通信チャネルの作成</p><p>    dataChannel = pc.createDataChannel("game-channel");</p><p>    setupChannelEvents(dataChannel);</p><p>    // オファーの作成</p><p>    const offer = await pc.createOffer();</p><p>    await pc.setLocalDescription(offer);</p><p>    // ICE候補が集まるのを待ってからコードを表示</p><p>    pc.onicecandidate = (event) =&gt; {</p><p>        if (!event.candidate) {</p><p>            localSdpText.value = btoa(JSON.stringify(pc.localDescription));</p><p>            <a rel="noopener noreferrer nofollow" href="http://localSdpText.select">localSdpText.select</a>();</p><p>            statusEl.innerText = "生成されたコードをコピーして相手のPCに送ってください";</p><p>            remoteSdpText.placeholder = "相手から送られてきたコードをここに貼り付けて接続を押してください";</p><p>            btnConnect.disabled = false;</p><p>        }</p><p>    };</p><p>};</p><p>// 相手のコードを貼り付けた時のボタン活性化</p><p>remoteSdpText.oninput = () =&gt; {</p><p>    if(remoteSdpText.value.trim() !== "") btnConnect.disabled = false;</p><p>};</p><p>// 2. 接続ボタン（コードを貼り付けた後に押す）</p><p>btnConnect.onclick = async () =&gt; {</p><p>    btnConnect.disabled = true;</p><p>    const remoteData = JSON.parse(atob(remoteSdpText.value.trim()));</p><p>    await pc.setRemoteDescription(new RTCSessionDescription(remoteData));</p><p>    // 相手がオファー（未接続）状態ならアンサーを返す</p><p>    if (remoteData.type === "offer") {</p><p>        const answer = await pc.createAnswer();</p><p>        await pc.setLocalDescription(answer);</p><p>        </p><p>        pc.onicecandidate = (event) =&gt; {</p><p>            if (!event.candidate) {</p><p>                localSdpText.value = btoa(JSON.stringify(pc.localDescription));</p><p>                <a rel="noopener noreferrer nofollow" href="http://localSdpText.select">localSdpText.select</a>();</p><p>                statusEl.innerText = "生成されたコードを相手のPCに送り、相手側にも貼り付けてもらってください";</p><p>            }</p><p>        };</p><p>    }</p><p>};</p><p>// 受け側のデータチャネル設定</p><p>pc.ondatachannel = (event) =&gt; {</p><p>    dataChannel = <a rel="noopener noreferrer nofollow" href="http://event.channel">event.channel</a>;</p><p>    setupChannelEvents(dataChannel);</p><p>};</p><p>// 通信イベントの設定</p><p>function setupChannelEvents(channel) {</p><p>    channel.onopen = () =&gt; {</p><p>        statusEl.innerText = "接続完了！対戦開始！";</p><p>        statusEl.className = "status connected";</p><p>        <a rel="noopener noreferrer nofollow" href="http://setupArea.style">setupArea.style</a>.display = "none";</p><p>        <a rel="noopener noreferrer nofollow" href="http://gameArea.style">gameArea.style</a>.display = "block";</p><p>        updateUI();</p><p>    };</p><p>    channel.onmessage = (event) =&gt; {</p><p>        const data = JSON.parse(<a rel="noopener noreferrer nofollow" href="http://event.data">event.data</a>);</p><p>        if (data.type === "hit") {</p><p>            // 相手が叩いたら自分のスコア（青ゲージ）が減る</p><p>            myScore -= 2;</p><p>            checkGameOver();</p><p>            updateUI();</p><p>        }</p><p>    };</p><p>    </p><p>    channel.onclose = () =&gt; {</p><p>        statusEl.innerText = "通信が切断されました";</p><p>        statusEl.className = "status";</p><p>        btnHit.disabled = true;</p><p>    };</p><p>}</p><p>// 連打ボタンを押したとき</p><p>btnHit.onclick = () =&gt; {</p><p>    if (!gameActive) return;</p><p>    </p><p>    myScore += 2; // 自分のスコア（青ゲージ）が増える</p><p>    checkGameOver();</p><p>    updateUI();</p><p>    // 相手に攻撃を通知</p><p>    if (dataChannel &amp;&amp; dataChannel.readyState === "open") {</p><p>        dataChannel.send(JSON.stringify({ type: "hit" }));</p><p>    }</p><p>};</p><p>function checkGameOver() {</p><p>    if (myScore &gt;= 100) {</p><p>        myScore = 100;</p><p>        gameActive = false;</p><p>        resultMsg.innerText = "あなたの勝ちです！ 🎉";</p><p>        btnHit.disabled = true;</p><p>    } else if (myScore &lt;= 0) {</p><p>        myScore = 0;</p><p>        gameActive = false;</p><p>        resultMsg.innerText = "あなたの負けです... 😢";</p><p>        btnHit.disabled = true;</p><p>    }</p><p>}</p><p>function updateUI() {</p><p>    <a rel="noopener noreferrer nofollow" href="http://gauge.style">gauge.style</a>.width = myScore + "%";</p><p>}</p><p>&lt;/script&gt;</p><p>&lt;/body&gt;</p><p>&lt;/html&gt;</p><p><br/></p>
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 23:26
-- **更新日（UTC）:** 05/13 23:26
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 11:26pm
+- **Updated At (UTC):** May 13, 2026 11:26pm
 
 ---
 
 ### 22. まちこりーた愛好家
-**作成者:** まちこりーた (1825012044_)
+**Author:** まちこりーた (1825012044_)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/09 02:37
-- **更新日（UTC）:** 05/09 02:37
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 09, 2026 02:37am
+- **Updated At (UTC):** May 09, 2026 02:37am
 
 ---
 
 ### 23. 俺のお気に入り
-**作成者:** 天才くん
+**Author:** 天才くん
 
 <p><a rel="noopener noreferrer nofollow" href="https://top-medical-schools.org/">https://top-medical-schools.org/</a></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5614816367/ac25f3addb162f81c6566a8978c22cc2/IMG_0173.png?Expires=1780487710&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aRUC%2BRXcWZElepw3f40a9CWgOSJQVkVexZJgg6N7a6mvWHiboMWXGI6XqJOO84tNswnEM9n2qqK%2FEWCf9iRrtC%2FRMUI%2FDlPHbefGUSoUjma%2FsDynjUEtqmLGGuAU%2B8d%2BoULbHcM9lpU0nYSv59wrAqQxMWvTN%2ByzK7MQnOYOtek%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614816367%2Fac25f3addb162f81c6566a8978c22cc2%2FIMG_0173.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614816367/ac25f3addb162f81c6566a8978c22cc2/IMG_0173.png?Expires=1780502914&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vMChQx0l9J47BSzG2%2BreWXIYmoybhV9wY2TA43r0J5B6N5c3iNva3ECjinihweBSeRB5KDfNb5r%2FihyCBme7jqdCTMMTb3t084xd7FtwDXGXuB0h2eWBnWOgSWaJB5RTT7eVgQAZByuzUB9hRB2Fz3TngdzUJlZAhAm7OLCqQj0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614816367%2Fac25f3addb162f81c6566a8978c22cc2%2FIMG_0173.png)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 10:50
-- **更新日（UTC）:** 05/08 10:50
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 10:50am
+- **Updated At (UTC):** May 08, 2026 10:50am
 
 ---
 
 ### 24. サブウェイとサーファズ
-**作成者:** 天才くん
+**Author:** 天才くん
 
 <p><a rel="noopener noreferrer nofollow" href="https://ryanjetplane1.codeberg.page/Openbeta/@subway-surfers/">https://ryanjetplane1.codeberg.page/Openbeta/@subway-surfers/</a></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/461c3ba3724d1f583cdcd518f4d41030/IMG_0167.png?Expires=1780487710&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zmBt7FW3t%2F2oQB4e002mY6tG%2FloigW0SEqP2jL5mSjy0Dg6PKudx5%2ByK4QTkciN9XnLzmWpbGUWHznjlENCENCT65RduUE3xrhHQ%2FmVyJo8qm8R1tfBh9V5u6Ga0Uixn5hCK20npFmDbkZkJZrEXtbDAAb2TKf4csq6nVWn%2B2cg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F461c3ba3724d1f583cdcd518f4d41030%2FIMG_0167.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/461c3ba3724d1f583cdcd518f4d41030/IMG_0167.png?Expires=1780502914&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OOTnPPq81zIWS0jm2vK89uXJQF3ieRAVYjHaElsi8D3jLksRoPu6O4WRDzP%2BSHUGJ0FQPMU%2Fwsejz7Qj3JK6nm%2FZYqlKuc0oAclRb8xtSlKqB0%2BoJ%2BUAN8RT6jxJ7zN264i5n%2FLd%2FJ2R5A7rWyn7c3hSNhBczqTwBtN2%2FVe8cfo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F461c3ba3724d1f583cdcd518f4d41030%2FIMG_0167.png)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 08:00
-- **更新日（UTC）:** 05/08 08:00
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 08:00am
+- **Updated At (UTC):** May 08, 2026 08:00am
 
 ---
 
 ### 25. 誰かcsbのわかめチューブプラスありますか？
-**作成者:** ほそかわせいや (hosokawaseiya55)
+**Author:** ほそかわせいや (hosokawaseiya55)
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 05/07 21:40
-- **更新日（UTC）:** 05/08 22:03
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** May 07, 2026 09:40pm
+- **Updated At (UTC):** May 08, 2026 10:03pm
 
 ---
 
 ### 26. 雑談しよ（学タブで）
-**作成者:** kchan4649
+**Author:** kchan4649
 
 <p>スクラッチでプロ棋士って調べると学校のパソコンでマインクラフトって出てくるからそこの隣のURLをコピーしてコントロールCでひらけるよ〜〜</p>
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/07 10:41
-- **更新日（UTC）:** 05/07 10:41
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 07, 2026 10:41am
+- **Updated At (UTC):** May 07, 2026 10:41am
 
 ---
 
 ### 27. 810
-**作成者:** 810
+**Author:** 810
 
 <p>ない</p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5607623557/edf58527337dec82d4c3d132ca78b907/Screenshot_2026_03_06_14_55_38.png?Expires=1780487710&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Ebya5GH%2F3rLIYrRVUf1IYxpHFK196dDti7fW6SIb%2B6I5UnA1GF5zGj14DryR%2FJCzdKTFLwZepVe2Nq7fwAvk3OrbZu18a4ylIAOC84vVFA4miWsdA7I2ae6wck6WqzzTiOAT9yCm1lWwPtDdmsgZzUtAe0aawGjXgnNu34hKStw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5607623557%2Fedf58527337dec82d4c3d132ca78b907%2FScreenshot_2026_03_06_14_55_38.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5607623557/edf58527337dec82d4c3d132ca78b907/Screenshot_2026_03_06_14_55_38.png?Expires=1780502914&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=VMPE7fhDEAiiCJisxnB6VBxQOrJRiUArERnnfdbRh0s%2FK7L%2BVeJc3hkoT40ZLQaf5rwZUD9cHYSmewVXj4VrXjaXG30R%2BK75XyLWh65x2I5U5FTUFhulmNkrDGRF4BSHlQI%2B28le%2BOFltxi%2BXjxLF5pxW%2BMTjLtQOsFbFzfCG%2Bo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5607623557%2Fedf58527337dec82d4c3d132ca78b907%2FScreenshot_2026_03_06_14_55_38.png)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/07 08:48
-- **更新日（UTC）:** 05/07 08:48
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 07, 2026 08:48am
+- **Updated At (UTC):** May 07, 2026 08:48am
 
 ---
 
 ### 28. ゲーム
-**作成者:** inoue (gs221318_1)
+**Author:** inoue (gs221318_1)
 
 <p>いろんなのがある</p>
 
-[添付ファイル 1](https://sigmasigmatoiletedge.github.io/)
+[Attachment 1](https://sigmasigmatoiletedge.github.io/)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/07 07:21
-- **更新日（UTC）:** 05/07 07:21
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 07, 2026 07:21am
+- **Updated At (UTC):** May 07, 2026 07:21am
 
 ---
 
 ### 29. 暇人の雑談所
-**作成者:** 天才
+**Author:** 天才
 
 <p>暇人あつまれ〜</p>
 
-#### コメント (1)
-- **天才** (05/08 04:11): やっほー
+#### Comments (1)
+- **天才** (May 08, 2026 04:11am): やっほー
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/06 13:29
-- **更新日（UTC）:** 05/06 13:29
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 06, 2026 01:29pm
+- **Updated At (UTC):** May 06, 2026 01:29pm
 
 ---
 
 ### 30. 話し合おうぜ
-**作成者:** 天才
+**Author:** 天才
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/06 13:06
-- **更新日（UTC）:** 05/06 13:06
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 06, 2026 01:06pm
+- **Updated At (UTC):** May 06, 2026 01:06pm
 
 ---
 
 ### 31. 今なくなっちゃったけど改造版JWPのリンクを貼って欲しいです。
-**作成者:** おわたマン
+**Author:** おわたマン
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/05 09:47
-- **更新日（UTC）:** 05/05 09:47
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 05, 2026 09:47am
+- **Updated At (UTC):** May 05, 2026 09:47am
 
 ---
 
-### 32. 投稿 32
-**作成者:** ningenですよ！！（元ningen） (9547414)
+### 32. Post 32
+**Author:** ningenですよ！！（元ningen） (9547414)
 
 <p>人間って読んでください</p><p><br/></p>
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/03 10:04
-- **更新日（UTC）:** 05/03 10:04
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 03, 2026 10:04am
+- **Updated At (UTC):** May 03, 2026 10:04am
 
 ---
 
 ### 33. ユーチューブダウンローダー
-**作成者:** きやしたヤツ
+**Author:** きやしたヤツ
 
-[添付ファイル 1](https://publer.com/tools/youtube-short-downloader)
+[Attachment 1](https://publer.com/tools/youtube-short-downloader)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/30 00:06
-- **更新日（UTC）:** 04/30 00:06
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 30, 2026 12:06am
+- **Updated At (UTC):** Apr 30, 2026 12:06am
 
 ---
 
 ### 34. 67
-**作成者:** あああ
+**Author:** あああ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/29 05:52
-- **更新日（UTC）:** 04/29 05:52
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 29, 2026 05:52am
+- **Updated At (UTC):** Apr 29, 2026 05:52am
 
 ---
 
 ### 35. お願いします！！
-**作成者:** たけした
+**Author:** たけした
 
 <p>どうしても学タブでブロスタがやりたい！！</p><p><br/></p>
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/24 11:51
-- **更新日（UTC）:** 04/24 11:51
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 24, 2026 11:51am
+- **Updated At (UTC):** Apr 24, 2026 11:51am
 
 ---
 
 ### 36. 誰かcsbのわかめチューブプラスくだせえー
-**作成者:** ほそかわせいや (hosokawaseiya55)
+**Author:** ほそかわせいや (hosokawaseiya55)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/24 09:21
-- **更新日（UTC）:** 04/24 09:21
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 24, 2026 09:21am
+- **Updated At (UTC):** Apr 24, 2026 09:21am
 
 ---
 
 ### 37. 自作
-**作成者:** フイ
+**Author:** フイ
 
 <p>自作わかめtube </p>
 
 [https://3df63f18-3d37-4880-846c-8d2bd0b59b24-00-3kr0su5cwnmn6.worf.replit.dev/login](https://3df63f18-3d37-4880-846c-8d2bd0b59b24-00-3kr0su5cwnmn6.worf.replit.dev/login)
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/23 17:04
-- **更新日（UTC）:** 04/23 17:04
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 23, 2026 05:04pm
+- **Updated At (UTC):** Apr 23, 2026 05:04pm
 
 ---
 
 ### 38. 新しいやつ
-**作成者:** フイ
+**Author:** フイ
 
 <p>わかめtube ファイルを改造してあります。最近はそのままフォークして作るとエラーが起こります。</p>
 
 [https://d0c330ff-c901-4496-9842-5105592b9a64-00-t3v5hridanwg.picard.replit.dev/login](https://d0c330ff-c901-4496-9842-5105592b9a64-00-t3v5hridanwg.picard.replit.dev/login)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/16 16:00
-- **更新日（UTC）:** 04/16 16:00
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 16, 2026 04:00pm
+- **Updated At (UTC):** Apr 16, 2026 04:00pm
 
 ---
 
 ### 39. 自作
-**作成者:** フイ
+**Author:** フイ
 
 <p>わかめです　コードを最新に改造しています</p>
 
 [https://math-a4io.onrender.com/login](https://math-a4io.onrender.com/login)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/15 15:47
-- **更新日（UTC）:** 04/15 15:47
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 15, 2026 03:47pm
+- **Updated At (UTC):** Apr 15, 2026 03:47pm
 
 ---
 
 ### 40. 自作
-**作成者:** フイ
+**Author:** フイ
 
 <p>かつわかめってなってるけどしっかり動く</p>
 
 [https://katsummmi.onrender.com/login](https://katsummmi.onrender.com/login)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/15 15:43
-- **更新日（UTC）:** 04/15 15:43
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 15, 2026 03:43pm
+- **Updated At (UTC):** Apr 15, 2026 03:43pm
 
 ---
 
 ### 41. 自作
-**作成者:** フイ
+**Author:** フイ
 
 <p>バグってかつわかめってなってるけどブラウザ以外いけます。</p>
 
 [https://titititikiiinn.onrender.com/login](https://titititikiiinn.onrender.com/login)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/15 15:33
-- **更新日（UTC）:** 04/15 15:33
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 15, 2026 03:33pm
+- **Updated At (UTC):** Apr 15, 2026 03:33pm
 
 ---
 
 ### 42. みんなあつまれ（アクセス権をリクエスト）を押したらアクセス権を有効にします
-**作成者:** カエデコ
+**Author:** カエデコ
 
 <p>みんな入ってねー</p><p><br/></p>
 
 [https://docs.google.com/presentation/d/14NCCPMgdWZaslhYwkQcOoZJUVmRFqcMipYfnnlAhEgg/edit?slide=id.p#slide=id.p](https://docs.google.com/presentation/d/14NCCPMgdWZaslhYwkQcOoZJUVmRFqcMipYfnnlAhEgg/edit?slide=id.p#slide=id.p)
 
-#### コメント (2)
-- **NyrikX(足立区陣ICFS系)** (04/14 14:49): なんかできません。開いた後の全ての表示されている文字を教えます。Googleスライドアイテムにアクセスできませんこのアイテムを所有する組織があなたにアクセスを許可していませんアクセス権のあるアカウントに切り替えてください。 詳細ログインしているアカウント:h*******@ict.adachi.ed.jp(一様隠した)
-- **ふっじー** (05/02 05:39): 俺もー
+#### Comments (2)
+- **NyrikX(足立区陣ICFS系)** (Apr 14, 2026 02:49pm): なんかできません。開いた後の全ての表示されている文字を教えます。Googleスライドアイテムにアクセスできませんこのアイテムを所有する組織があなたにアクセスを許可していませんアクセス権のあるアカウントに切り替えてください。 詳細ログインしているアカウント:h*******@ict.adachi.ed.jp(一様隠した)
+- **ふっじー** (May 02, 2026 05:39am): 俺もー
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/14 07:52
-- **更新日（UTC）:** 04/14 07:52
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 14, 2026 07:52am
+- **Updated At (UTC):** Apr 14, 2026 07:52am
 
 ---
 
-### 43. 投稿 43
-**作成者:** ゆうたろう
+### 43. Post 43
+**Author:** ゆうたろう
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5466021644/57ef6aaa818970aaed34605a30a9c0e6/OVERALL_WINNER_Mark_Fitzpatrick_Terry_The_Turtle_1174x1600.jpg?Expires=1780487710&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IN7jIji7DACG3z2U4yaouf%2FD44JzUtjQRNV%2BQTbLEaDrbbYxu5ZurO9hq21lxS5wGQ3xuXRefHKi17efGUFO47dHOfZ5on%2FvI%2FkvYO7qm0iGXH%2BXA4OpbgpYJ1CCXecATsmVT0tWukzoBwEU%2BD1ixTa8sYG4oXI%2BL8axG2%2B5z4o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5466021644%2F57ef6aaa818970aaed34605a30a9c0e6%2FOVERALL_WINNER_Mark_Fitzpatrick_Terry_The_Turtle_1174x1600.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5466021644/57ef6aaa818970aaed34605a30a9c0e6/OVERALL_WINNER_Mark_Fitzpatrick_Terry_The_Turtle_1174x1600.jpg?Expires=1780502914&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aoa7DEvUNjgt9Szf5VcaQKdaN16QyIjW%2BURHZIJJPO82VTHoD6Y5BwlCT0epHX%2FbmG2Ev8BckyedO%2Ft9Os96ImkjiOxiuUKp9zdV5st2jhelb8jVsomaiqtO3Fnwywk96ggy%2F51PzZGBwTKVOb0EP%2F%2F%2FHcY0f4KYHHW6ChzdBG8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5466021644%2F57ef6aaa818970aaed34605a30a9c0e6%2FOVERALL_WINNER_Mark_Fitzpatrick_Terry_The_Turtle_1174x1600.jpg)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/13 07:02
-- **更新日（UTC）:** 04/22 21:15
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 13, 2026 07:02am
+- **Updated At (UTC):** Apr 22, 2026 09:15pm
 
 ---
 
 ### 44. 掲示板のつくりかた教えてください
-**作成者:** Mikanーーーーー?!? (7151415)
+**Author:** Mikanーーーーー?!? (7151415)
 
-#### コメント (3)
-- **kira** (04/12 12:16): Chromebookならアプリインストールして＋押したら作れるハズ　あとハググれ
-- **旧世界男** (05/15 14:36): おっおお
-- **旧世界男** (05/15 14:36): kiraもいたのか
+#### Comments (3)
+- **kira** (Apr 12, 2026 12:16pm): Chromebookならアプリインストールして＋押したら作れるハズ　あとハググれ
+- **旧世界男** (May 15, 2026 02:36pm): おっおお
+- **旧世界男** (May 15, 2026 02:36pm): kiraもいたのか
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/12 04:54
-- **更新日（UTC）:** 04/12 04:54
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 12, 2026 04:54am
+- **Updated At (UTC):** Apr 12, 2026 04:54am
 
 ---
 
 ### 45. お前らやるよ
-**作成者:** とるっぷい (TORI_TORI2)
+**Author:** とるっぷい (TORI_TORI2)
 
 <p><a rel="noopener noreferrer nofollow" href="https://wkt-oigorala.onrender.com/wkt">https://wkt-oigorala.onrender.com/wkt</a></p>
 
-[添付ファイル 1](https://wkt-oigorala.onrender.com/wkt)
+[Attachment 1](https://wkt-oigorala.onrender.com/wkt)
 
-#### コメント (7)
-- **仙人@suger** (04/05 10:11): ありがとう😆💕✨
-- **翠** (04/09 11:35): ありがとうございます
-- **ドラゴンボール** (04/10 01:41): ありがとう
-- **ドラゴンボール** (04/10 01:44): ブロされる
-- **バスキャット** (04/11 02:25): ブロ
-- **ドラゴンボール** (04/24 03:16): ブロ 
-- **kira** (04/25 13:08): なんかThis service has been suspended.って出て来てできん
+#### Comments (7)
+- **仙人@suger** (Apr 05, 2026 10:11am): ありがとう😆💕✨
+- **翠** (Apr 09, 2026 11:35am): ありがとうございます
+- **ドラゴンボール** (Apr 10, 2026 01:41am): ありがとう
+- **ドラゴンボール** (Apr 10, 2026 01:44am): ブロされる
+- **バスキャット** (Apr 11, 2026 02:25am): ブロ
+- **ドラゴンボール** (Apr 24, 2026 03:16am): ブロ 
+- **kira** (Apr 25, 2026 01:08pm): なんかThis service has been suspended.って出て来てできん
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/05 09:42
-- **更新日（UTC）:** 04/05 10:08
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 05, 2026 09:42am
+- **Updated At (UTC):** Apr 05, 2026 10:08am
 
 ---
 
 ### 46. スクラッチでわかめTubeだったり仙人TubeのURLはっている人の名前を書いてください。
-**作成者:** 開示だな
+**Author:** 開示だな
 
-#### コメント (1)
-- **NyrikX(足立区陣ICFS系)** (03/30 03:41): 仙人tubeならsenninch
+#### Comments (1)
+- **NyrikX(足立区陣ICFS系)** (Mar 30, 2026 03:41am): 仙人tubeならsenninch
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/26 05:35
-- **更新日（UTC）:** 03/26 05:35
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 26, 2026 05:35am
+- **Updated At (UTC):** Mar 26, 2026 05:35am
 
 ---
 
 ### 47. だれかブロスタできるアプリない？
-**作成者:** にっっっっっっっがー
+**Author:** にっっっっっっっがー
 
-#### コメント (1)
-- **ドラゴンボール** (04/10 01:44): ない
+#### Comments (1)
+- **ドラゴンボール** (Apr 10, 2026 01:44am): ない
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/25 12:14
-- **更新日（UTC）:** 03/25 12:14
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 25, 2026 12:14pm
+- **Updated At (UTC):** Mar 25, 2026 12:14pm
 
 ---
 
 ### 48. ユーチューブ
-**作成者:** はるくんマンちゃん！ (2125098_2)
+**Author:** はるくんマンちゃん！ (2125098_2)
 
 <p>ユーチューブのリンク送ってください</p>
 
-#### コメント (2)
-- **Yosshy** (03/25 02:04): https://www.youtube.com/
-- **ふっじー** (05/02 05:46): ww
+#### Comments (2)
+- **Yosshy** (Mar 25, 2026 02:04am): https://www.youtube.com/
+- **ふっじー** (May 02, 2026 05:46am): ww
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/24 12:50
-- **更新日（UTC）:** 03/24 12:50
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 24, 2026 12:50pm
+- **Updated At (UTC):** Mar 24, 2026 12:50pm
 
 ---
 
 ### 49. こんにちは
-**作成者:** ハローマイネーム
+**Author:** ハローマイネーム
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/19 00:09
-- **更新日（UTC）:** 03/19 00:09
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 19, 2026 12:09am
+- **Updated At (UTC):** Mar 19, 2026 12:09am
 
 ---
 
-### 50. 投稿 50
-**作成者:** Agile Beluga
+### 50. Post 50
+**Author:** Agile Beluga
 
 <p>面白い</p>
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/16 01:55
-- **更新日（UTC）:** 03/16 01:55
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 16, 2026 01:55am
+- **Updated At (UTC):** Mar 16, 2026 01:55am
 
 ---
 
-### 51. 投稿 51
-**作成者:** namo
+### 51. Post 51
+**Author:** namo
 
 <p>誰かYoutubeなどが見れるサイト教えて欲しいです</p>
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/12 04:33
-- **更新日（UTC）:** 03/12 04:33
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 12, 2026 04:33am
+- **Updated At (UTC):** Mar 12, 2026 04:33am
 
 ---
 
 ### 52. わかめです
-**作成者:** 翠 (tuisutekami)
+**Author:** 翠 (tuisutekami)
 
 <p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-01.up.railway.app/wkt">https://wkt-nana-01.up.railway.app/wkt</a></p><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana-02.up.railway.app/wkt">https://wkt-nana-02.up.railway.app/wkt</a></p><p><a rel="noopener noreferrer nofollow" href="https://wkt-nana.up.railway.app/wkt">https://wkt-nana.up.railway.app/wkt</a></p>
 
-#### コメント (2)
-- **仙人@suger** (03/11 12:15): あざます
-- **ドラゴンボール** (04/10 01:44): ブロ
+#### Comments (2)
+- **仙人@suger** (Mar 11, 2026 12:15pm): あざます
+- **ドラゴンボール** (Apr 10, 2026 01:44am): ブロ
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/10 07:47
-- **更新日（UTC）:** 03/10 07:51
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 10, 2026 07:47am
+- **Updated At (UTC):** Mar 10, 2026 07:51am
 
 ---
 
 ### 53. わかめ使えなくなったんだけどなんでか分かる人いる？
-**作成者:** Brilliant Kiwi
+**Author:** Brilliant Kiwi
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5225598716/02e66f252a2c39f89ec6606d4b4dbc28/Screenshot_2026_02_25_15_22_25.png?Expires=1780487710&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LwjiLR6oA0cbiYuWKm6OF9g2aN6MHkiOfPj8QFv7k2TgZoGUEO0QkH4nc37ccZ9Yqj7rq3tCfbDbSVwBaMe%2FW3R4uLRdTyWPr4uZzWSHGnOaQmNaFnkaeh5vsPkOiAaIfzhoe0tNEdjVmEkyy7nH3Yk9DLR%2FKKlIf6WkXG6NhE0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5225598716%2F02e66f252a2c39f89ec6606d4b4dbc28%2FScreenshot_2026_02_25_15_22_25.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5225598716/02e66f252a2c39f89ec6606d4b4dbc28/Screenshot_2026_02_25_15_22_25.png?Expires=1780502914&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=0W9fQ2Cka%2FPA64kCEdW61hpCMBMUQmQTjFs3sgS39nm5hJN%2F37O5ro1ZUcOZEzc1webo%2F9%2F%2FDWk%2FUByQAs9eWOqVBXqsMUqq5%2B%2F9XOT6E4UONYWUmTkWmtLZoC5eR2v5Y0ZbEbZJkCCK0F7yhOD2uDpMkvzO5LI57ZWEhf%2BJ3Fo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5225598716%2F02e66f252a2c39f89ec6606d4b4dbc28%2FScreenshot_2026_02_25_15_22_25.png)
 
-#### コメント (3)
-- **ばあ** (02/26 09:06): 俺も同じ 
-- **NyrikX(足立区陣ICFS系)** (03/30 03:43): こういうエラーわかめで見たことないけど私のブロックされてなかったわかめはほとんど404エラーで命が終了する
-- **すずめ** (04/15 09:54): かつおTubeで見たことがあるエラーですね。「このサービスは所有者によって停止されました」という意味なんだそうです。
+#### Comments (3)
+- **ばあ** (Feb 26, 2026 09:06am): 俺も同じ 
+- **NyrikX(足立区陣ICFS系)** (Mar 30, 2026 03:43am): こういうエラーわかめで見たことないけど私のブロックされてなかったわかめはほとんど404エラーで命が終了する
+- **すずめ** (Apr 15, 2026 09:54am): かつおTubeで見たことがあるエラーですね。「このサービスは所有者によって停止されました」という意味なんだそうです。
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/25 06:22
-- **更新日（UTC）:** 02/25 06:22
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 25, 2026 06:22am
+- **Updated At (UTC):** Feb 25, 2026 06:22am
 
 ---
 
-### 54. 投稿 54
-**作成者:** のりさん
+### 54. Post 54
+**Author:** のりさん
 
-[添付ファイル 1](https://nana-wkt-04.up.railway.app/wkt)
+[Attachment 1](https://nana-wkt-04.up.railway.app/wkt)
 
-#### コメント (3)
-- **仙人@suger** (02/09 11:07): ありがとう
-- **Anonymous** (02/18 10:31): 認証コードとは？
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (02/18 13:06): ありがとう
+#### Comments (3)
+- **仙人@suger** (Feb 09, 2026 11:07am): ありがとう
+- **Anonymous** (Feb 18, 2026 10:31am): 認証コードとは？
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Feb 18, 2026 01:06pm): ありがとう
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/07 11:46
-- **更新日（UTC）:** 02/09 11:07
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 07, 2026 11:46am
+- **Updated At (UTC):** Feb 09, 2026 11:07am
 
 ---
 
 ### 55. すごく早いわかめ
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p><a rel="noopener noreferrer nofollow" href="https://hatimogu.onrender.com/wkt">https://hatimogu.onrender.com/wkt</a></p>
 
-[添付ファイル 1](https://hatimogu.onrender.com/wkt)
+[Attachment 1](https://hatimogu.onrender.com/wkt)
 
-#### コメント (1)
-- **どー“ぶーじょー”じょー** (06/11 00:01): ブロです
+#### Comments (1)
+- **どー“ぶーじょー”じょー** (Jun 11, 2025 12:01am): ブロです
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/05 00:18
-- **更新日（UTC）:** 06/15 09:38
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 05, 2025 12:18am
+- **Updated At (UTC):** Jun 15, 2025 09:38am
 
 ---
 
 ## Yuki YouTube+
 
 ### 1. サイトの概要
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>ねむさんやyuto_110さんが開発されたYouTubeサイトです。nocckie再生やストリーム再生に対応しています。</p><p><br/></p><p>@リンク集</p><p><br/></p><p>・ねむさん</p><p><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/sleepy-300/">https://scratch.mit.edu/users/sleepy-300/</a></p><p><br/></p><p>・yuto_110さん</p><p>padlet</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/yuto_110">https://padlet.com/yuto_110</a></p><p><br/></p><p>githab</p><p><a rel="noopener noreferrer nofollow" href="https://github.com/yuto1106110">https://github.com/yuto1106110</a></p><p><br/></p><p>・リポジトリ</p><p><a rel="noopener noreferrer nofollow" href="https://github.com/myproxy0107-hash/new-yu-yu">https://github.com/myproxy0107-hash/new-yu-yu</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://github.com/yuto1106110/YouTube-Plus-Plus">https://github.com/yuto1106110/YouTube-Plus-Plus</a></p><p><br/></p><p><br/></p>
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 01/28 09:59
-- **更新日（UTC）:** 04/03 04:05
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Jan 28, 2026 09:59am
+- **Updated At (UTC):** Apr 03, 2026 04:05am
 
 ---
 
 ### 2. リンク
-**作成者:** 怪盗ルパン三十八世 (proxygameyoutube)
+**Author:** 怪盗ルパン三十八世 (proxygameyoutube)
 
-[添付ファイル 1](https://yuki-plus.easterndns.com/)
+[Attachment 1](https://yuki-plus.easterndns.com/)
 
-#### その他の情報
-- **投稿のカラー:** レッド
-- **作成日（UTC）:** 04/30 06:19
-- **更新日（UTC）:** 04/30 06:19
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** Apr 30, 2026 06:19am
+- **Updated At (UTC):** Apr 30, 2026 06:19am
 
 ---
 
 ### 3. 若干重いかも？
-**作成者:** 陽著辺子 (yangzhubianzi)
+**Author:** 陽著辺子 (yangzhubianzi)
 
 <p><a rel="noopener noreferrer nofollow" href="https://senninch.onrender.com/word/">https://senninch.onrender.com/word/</a></p>
 
-#### コメント (11)
-- **削除済みユーザー** (06/04 21:19): 入れない
-- **陽著辺子** (06/04 23:17): まじか
-- **削除済みユーザー** (12/18 00:45): うちはいれた
-- **三角定規** (02/12 11:46): i-filterは無理だ
-- **Iフィルターまじうざい** (04/02 10:59): ホンマにそう
-- **Iフィルターまじうざい** (04/03 03:34): ☠
-- **係長** (04/08 09:34): 規制かかった
-- **バスキャット** (04/11 02:26): ブロ
-- **旧世界男** (05/15 15:21): 知らん
-- **旧世界男** (05/15 15:22): サーバーシャットダウンしてた
-- **旧世界男** (05/15 15:22): 夜中だからだな
+#### Comments (11)
+- **削除済みユーザー** (Jun 04, 2025 09:19pm): 入れない
+- **陽著辺子** (Jun 04, 2025 11:17pm): まじか
+- **削除済みユーザー** (Dec 18, 2025 12:45am): うちはいれた
+- **三角定規** (Feb 12, 2026 11:46am): i-filterは無理だ
+- **Iフィルターまじうざい** (Apr 02, 2026 10:59am): ホンマにそう
+- **Iフィルターまじうざい** (Apr 03, 2026 03:34am): ☠
+- **係長** (Apr 08, 2026 09:34am): 規制かかった
+- **バスキャット** (Apr 11, 2026 02:26am): ブロ
+- **旧世界男** (May 15, 2026 03:21pm): 知らん
+- **旧世界男** (May 15, 2026 03:22pm): サーバーシャットダウンしてた
+- **旧世界男** (May 15, 2026 03:22pm): 夜中だからだな
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/04 10:56
-- **更新日（UTC）:** 06/04 10:56
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 04, 2025 10:56am
+- **Updated At (UTC):** Jun 04, 2025 10:56am
 
 ---
 
 ## しあtube
 
 ### 1. しあtubeの概要
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p><strong>しあtubeの概要</strong></p><p><strong>siawaseokさんが作ったYouTubeサイト。hls再生に対応しています。</strong></p><p><br></p><p><strong>➥ 対応している再生方法はこちら</strong></p><ul><li><p><a rel="nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26l6Yb5PvojL-oAdpz24dgkRJv10R">Education</a></p></li><li><p>hls再生</p></li><li><p>ストリーミング再生 </p></li></ul><p><br></p><p><strong>➥ 開発者</strong></p><p><strong>siawaseok</strong></p><p><br></p><p><strong>➥ レポジトリ</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://github.com/siawaseoktest/youtube">https://github.com/siawaseoktest/youtube</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://github.com/ajgpw/youtube">https://github.com/ajgpw/youtube</a></p></li></ul><p><br></p>
 
-#### コメント (6)
-- **猫好き** (05/14 11:03): 俺しあtubeのサイト知ってる！！（もちろん規制されない（（多分）））
-- **猫好き** (05/14 11:04): よかったら教えるよ！
-- **象** (05/14 12:34): 教えてください
-- **あらいこうすけ** (05/14 12:42): 見れました！
-- **あらいこうすけ** (05/14 12:42): ありがとうございます！
-- **あらいこうすけ** (05/14 12:44): 無理だったWWW
+#### Comments (6)
+- **猫好き** (May 14, 2026 11:03am): 俺しあtubeのサイト知ってる！！（もちろん規制されない（（多分）））
+- **猫好き** (May 14, 2026 11:04am): よかったら教えるよ！
+- **象** (May 14, 2026 12:34pm): 教えてください
+- **あらいこうすけ** (May 14, 2026 12:42pm): 見れました！
+- **あらいこうすけ** (May 14, 2026 12:42pm): ありがとうございます！
+- **あらいこうすけ** (May 14, 2026 12:44pm): 無理だったWWW
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 03/09 12:46
-- **更新日（UTC）:** 03/09 12:47
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Mar 09, 2026 12:46pm
+- **Updated At (UTC):** Mar 09, 2026 12:47pm
 
 ---
 
 ### 2. 開いたら「検索結果がありません」
-**作成者:** ミズノ
+**Author:** ミズノ
 
 <p>直してください</p>
 
-#### コメント (3)
-- **にんじん** (05/16 13:07): まじ？
-- **ミズノ** (05/17 11:20): まじ
-- **Aira🍒⛸️** (05/17 12:03): 私もそうなる多分メンテナンス中
+#### Comments (3)
+- **にんじん** (May 16, 2026 01:07pm): まじ？
+- **ミズノ** (May 17, 2026 11:20am): まじ
+- **Aira🍒⛸️** (May 17, 2026 12:03pm): 私もそうなる多分メンテナンス中
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 12:47
-- **更新日（UTC）:** 05/16 12:47
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 12:47pm
+- **Updated At (UTC):** May 16, 2026 12:47pm
 
 ---
 
 ### 3. やた
-**作成者:** ゆいくん
+**Author:** ゆいくん
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 02:02
-- **更新日（UTC）:** 05/15 02:02
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 15, 2026 02:02am
+- **Updated At (UTC):** May 15, 2026 02:02am
 
 ---
 
-### 4. 投稿 4
-**作成者:** 炙りsushi  風吹けば名無しにかわりましてVIPがお送りします (2022023001_1)
+### 4. Post 4
+**Author:** 炙りsushi  風吹けば名無しにかわりましてVIPがお送りします (2022023001_1)
 
 <p>一応</p>
 
-[添付ファイル 1](https://script.google.com/a/macros/giga.sapporo-c.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec)
+[Attachment 1](https://script.google.com/a/macros/giga.sapporo-c.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec)
 
-#### コメント (2)
-- **ひーーーーまーーーーーー** (04/30 12:59): くそBABAAに邪魔された
-- **ひーーーーまーーーーーー** (04/30 12:59): くそ、、、、
+#### Comments (2)
+- **ひーーーーまーーーーーー** (Apr 30, 2026 12:59pm): くそBABAAに邪魔された
+- **ひーーーーまーーーーーー** (Apr 30, 2026 12:59pm): くそ、、、、
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/30 07:16
-- **更新日（UTC）:** 05/01 21:49
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 30, 2026 07:16am
+- **Updated At (UTC):** May 01, 2026 09:49pm
 
 ---
 
 ### 5. 仙人@sugerさんへ
-**作成者:** 許天宇 (r0247893)
+**Author:** 許天宇 (r0247893)
 
 <p>しあtubuで動画を開いたとき最初の解像度1080２にしてくれませんか。</p><p>動画を開くとブロックされるんで解像度合わせないと早く見れないんでできればお願いします。</p>
 
-#### コメント (3)
-- **許天宇** (04/25 12:13): あとなんかたまに英語になります。どうやってなおせばいいですか
-- **仙人@suger** (05/01 10:21): あとでしあわせさんにいっとくわ
-- **許天宇** (05/13 11:06): ありがとうございます
+#### Comments (3)
+- **許天宇** (Apr 25, 2026 12:13pm): あとなんかたまに英語になります。どうやってなおせばいいですか
+- **仙人@suger** (May 01, 2026 10:21am): あとでしあわせさんにいっとくわ
+- **許天宇** (May 13, 2026 11:06am): ありがとうございます
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/25 12:12
-- **更新日（UTC）:** 04/25 12:12
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 25, 2026 12:12pm
+- **Updated At (UTC):** Apr 25, 2026 12:12pm
 
 ---
 
 ### 6. しあtube
-**作成者:** ミチノ
+**Author:** ミチノ
 
 <p>前までは行けたけど急に検索結果が出なくなった</p><p><br/></p>
 
-#### コメント (2)
-- **ユーザー名** (04/20 21:46): それな
-- **三角定規２号** (05/17 13:00): so re na
+#### Comments (2)
+- **ユーザー名** (Apr 20, 2026 09:46pm): それな
+- **三角定規２号** (May 17, 2026 01:00pm): so re na
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/19 03:59
-- **更新日（UTC）:** 04/19 03:59
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 19, 2026 03:59am
+- **Updated At (UTC):** Apr 19, 2026 03:59am
 
 ---
 
-### 7. 投稿 7
-**作成者:** ばなな
+### 7. Post 7
+**Author:** ばなな
 
 <p>なんかずっと「現在このファイルは開けません」ってなってるんだけど対処法教えてください</p><p><br/></p>
 
-#### コメント (1)
-- **NyrikX(足立区陣ICFS系)** (03/30 03:54): そういうやつもある
+#### Comments (1)
+- **NyrikX(足立区陣ICFS系)** (Mar 30, 2026 03:54am): そういうやつもある
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/29 07:30
-- **更新日（UTC）:** 03/29 07:30
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 29, 2026 07:30am
+- **Updated At (UTC):** Mar 29, 2026 07:30am
 
 ---
 
 ### 8. リンク集
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <ul><li><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbwRaFdJAe1tnfz9nsAiAIivaj9WBZEhKYfXCXAxyWN0lI-MNyvglkE0TJYwSBda3Kpr/exec">https://script.google.com/macros/s/AKfycbwRaFdJAe1tnfz9nsAiAIivaj9WBZEhKYfXCXAxyWN0lI-MNyvglkE0TJYwSBda3Kpr/exec</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbyDtINI3yZi1UNO2P3Ody2fzRptm80YOPV_a3Vlqygl-QWyuzjvTvB7TMANSN5GPJOFMw/exec">https://script.google.com/macros/s/AKfycbyDtINI3yZi1UNO2P3Ody2fzRptm80YOPV_a3Vlqygl-QWyuzjvTvB7TMANSN5GPJOFMw/exec</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbxTQ9Wrrsd5jkcOUupl04cos54iqENH1eRtBlrKg301o-mmh_aVVOArIiu9HjPSxuil/exec">https://script.google.com/macros/s/AKfycbxTQ9Wrrsd5jkcOUupl04cos54iqENH1eRtBlrKg301o-mmh_aVVOArIiu9HjPSxuil/exec</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec">https://script.google.com/macros/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbyn3zEgEcjG_JYONFYt_ehn3fjtYWGwDPdoeHJO485k7S8z9mT9zkP6x2cmziAQ5sU1/exec">https://script.google.com/macros/s/AKfycbyn3zEgEcjG_JYONFYt_ehn3fjtYWGwDPdoeHJO485k7S8z9mT9zkP6x2cmziAQ5sU1/exec</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://siatube.wjg.jp/">https://siatube.wjg.jp/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://ajgpw.github.io/%E3%81%97%E3%81%82tube/">https://ajgpw.github.io/しあtube/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://siawaseok-sub.github.io/siatube/">https://siawaseok-sub.github.io/siatube/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/siawaseinstance-ver7/%E3%81%97%E3%81%82tube">https://sites.google.com/view/siawaseinstance-ver7/しあtube</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec">https://script.google.com/macros/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/macros/s/AKfycbzA0pSEaCuLy0I7sZnZdvLKHCgcGbSCPbVLNVLxkj8aWWKMrHpsEDBGcx-cOhk4jwP2/exec">https://script.google.com/macros/s/AKfycbzA0pSEaCuLy0I7sZnZdvLKHCgcGbSCPbVLNVLxkj8aWWKMrHpsEDBGcx-cOhk4jwP2/exec</a></p></li></ul><p><br></p>
 
-#### コメント (12)
-- **Fancy Owl** (03/17 01:26): カスタムエンドポイントを追加しようとしたらブロックされます。諦めた方がいいですか
-- **仙人@suger** (03/17 01:26): 追加したら見れなくなるってこと？
-- **どこかの誰かさん** (03/26 03:46): しあチューブどうやって作るのですか
-- **仙人@suger** (03/28 00:26): google app scriptでつくれるよ
-- **Iフィルターまじうざい** (04/05 10:11): しあtubeのカスタムエンドポイントの作り方の最初に入る必要があるURLが規制されました。
-- **ただのブレインロット好き** (04/01 22:15): 最近、動画の読み込みが遅くなったり、動画を見れないことが多くなっています。これはバグでしょうか？
-- **Anonymous** (04/21 10:23): カスタムエンドポイントのURLは入れたのですがその後が参考写真と違う画面になっているのですが、、、
-- **匿名** (04/14 07:34): なんかしあtubeで見ようとするとカスタムエンドポイント追加してるのにメインサーバーから無効な応答が返ってきましたｔって出てくる
-- **匿名** (04/10 02:08): 履歴からしか動画見れない
-- **Anonymous** (04/10 03:35): 履歴からも見れないです
-- **Anonymous** (04/12 07:56): 同じく
-- **こよちゃん** (05/12 04:04): まえまではできたけどできなくなったよ１
+#### Comments (12)
+- **Fancy Owl** (Mar 17, 2026 01:26am): カスタムエンドポイントを追加しようとしたらブロックされます。諦めた方がいいですか
+- **仙人@suger** (Mar 17, 2026 01:26am): 追加したら見れなくなるってこと？
+- **どこかの誰かさん** (Mar 26, 2026 03:46am): しあチューブどうやって作るのですか
+- **仙人@suger** (Mar 28, 2026 12:26am): google app scriptでつくれるよ
+- **Iフィルターまじうざい** (Apr 05, 2026 10:11am): しあtubeのカスタムエンドポイントの作り方の最初に入る必要があるURLが規制されました。
+- **ただのブレインロット好き** (Apr 01, 2026 10:15pm): 最近、動画の読み込みが遅くなったり、動画を見れないことが多くなっています。これはバグでしょうか？
+- **Anonymous** (Apr 21, 2026 10:23am): カスタムエンドポイントのURLは入れたのですがその後が参考写真と違う画面になっているのですが、、、
+- **匿名** (Apr 14, 2026 07:34am): なんかしあtubeで見ようとするとカスタムエンドポイント追加してるのにメインサーバーから無効な応答が返ってきましたｔって出てくる
+- **匿名** (Apr 10, 2026 02:08am): 履歴からしか動画見れない
+- **Anonymous** (Apr 10, 2026 03:35am): 履歴からも見れないです
+- **Anonymous** (Apr 12, 2026 07:56am): 同じく
+- **こよちゃん** (May 12, 2026 04:04am): まえまではできたけどできなくなったよ１
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/09 12:51
-- **更新日（UTC）:** 03/09 12:51
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 09, 2026 12:51pm
+- **Updated At (UTC):** Mar 09, 2026 12:51pm
 
 ---
 
 ### 9. なにこれーーーー？
-**作成者:** ばーか
+**Author:** ばーか
 
-[添付ファイル 1](https://script.google.com/a/macros/sagamihara-kng.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec)
+[Attachment 1](https://script.google.com/a/macros/sagamihara-kng.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec)
 
-#### コメント (1)
-- **こ** (02/19 11:24): Youtubeサイト
+#### Comments (1)
+- **こ** (Feb 19, 2026 11:24am): Youtubeサイト
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/19 11:22
-- **更新日（UTC）:** 04/03 03:34
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 19, 2026 11:22am
+- **Updated At (UTC):** Apr 03, 2026 03:34am
 
 ---
 
 ### 10. しあtube
-**作成者:** ウェーーーーーーイ
+**Author:** ウェーーーーーーイ
 
-#### コメント (2)
-- **ウェーーーーーーイ** (12/23 08:48): https://script.google.com/a/macros/fcs.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
-- **ちいかわは古本屋が主役のべき** (02/12 11:48): すごい！
+#### Comments (2)
+- **ウェーーーーーーイ** (Dec 23, 2025 08:48am): https://script.google.com/a/macros/fcs.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
+- **ちいかわは古本屋が主役のべき** (Feb 12, 2026 11:48am): すごい！
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/23 08:47
-- **更新日（UTC）:** 04/03 01:49
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 23, 2025 08:47am
+- **Updated At (UTC):** Apr 03, 2026 01:49am
 
 ---
 
 ## ちょこtube
 
-### 1. 投稿 1
-**作成者:** 仙人@suger (sennin_sugar)
+### 1. Post 1
+**Author:** 仙人@suger (sennin_sugar)
 
 <p><strong>チョコtubeの概要</strong></p><p><strong>Chocobananaさんが作ったYouTube視聴サイトでさまざまなきのうがあります。</strong></p><p><br/></p><p><strong>➥ 対応している再生方法</strong></p><ul><li><p><a rel="nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/K8wMqGODj91RqZJO-oAdpz24dgkRJv10R">Nocookie</a></p></li><li><p><a rel="nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26l6Yb5PvojL-oAdpz24dgkRJv10R">Education（woolisbest 幸せok kahoot）</a></p></li><li><p>stream再生</p></li></ul><p><br/></p><p><strong>➥ 開発者情報</strong></p><ul><li><p><a rel="nofollow" href="https://scratch.mit.edu/users/banana-choco-/">chocobananaさん</a></p><p><strong>➥ レポジトリ</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://github.com/banana-coco/choco-tube-new">https://github.com/banana-coco/choco-tube-new</a></p></li></ul></li></ul>
 
-#### コメント (4)
-- **Loyal Robin** (03/26 09:49): 結局ちょこtubeのリンクはどこですか？
-- **仙人@suger** (04/05 10:11): ぼくはもってないすね
-- **アサヤマ** (04/08 03:12): 😥
-- **ハル春** (04/30 04:54): 作るんだよぉ〜
+#### Comments (4)
+- **Loyal Robin** (Mar 26, 2026 09:49am): 結局ちょこtubeのリンクはどこですか？
+- **仙人@suger** (Apr 05, 2026 10:11am): ぼくはもってないすね
+- **アサヤマ** (Apr 08, 2026 03:12am): 😥
+- **ハル春** (Apr 30, 2026 04:54am): 作るんだよぉ〜
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 03/09 12:37
-- **更新日（UTC）:** 03/09 12:49
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Mar 09, 2026 12:37pm
+- **Updated At (UTC):** Mar 09, 2026 12:49pm
 
 ---
 
-### 2. 投稿 2
-**作成者:** たろ (16519_21)
+### 2. Post 2
+**Author:** たろ (16519_21)
 
 <p>chocotube</p><p><br/></p>
 
-[添付ファイル 1](https://84tdjh-5000.csb.app/login)
+[Attachment 1](https://84tdjh-5000.csb.app/login)
 
-#### コメント (8)
-- **M Y G** (04/14 02:49): パスワードは？
-- **NyrikX(足立区陣ICFS系)** (04/14 14:34): choco
-- **ドラえもん** (04/16 07:42): ブロ
-- **ツバキカゼ** (04/16 08:52): パスなんすか
-- **たろ** (04/16 09:55): choco
-- **カービィ** (05/06 05:17): 枯渇してるからください
-- **カービィ** (05/06 05:18): お願いします
-- **たろ** (05/06 11:38): ０￥０
+#### Comments (8)
+- **M Y G** (Apr 14, 2026 02:49am): パスワードは？
+- **NyrikX(足立区陣ICFS系)** (Apr 14, 2026 02:34pm): choco
+- **ドラえもん** (Apr 16, 2026 07:42am): ブロ
+- **ツバキカゼ** (Apr 16, 2026 08:52am): パスなんすか
+- **たろ** (Apr 16, 2026 09:55am): choco
+- **カービィ** (May 06, 2026 05:17am): 枯渇してるからください
+- **カービィ** (May 06, 2026 05:18am): お願いします
+- **たろ** (May 06, 2026 11:38am): ０￥０
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/11 09:14
-- **更新日（UTC）:** 04/11 09:14
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 11, 2026 09:14am
+- **Updated At (UTC):** Apr 11, 2026 09:14am
 
 ---
 
 ## yuzutube
 
 ### 1. yuzutubeの概要
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p><strong>ゆずtube</strong></p><p><br/></p><p><strong>yuzuさんが作ったYouTube視聴サイトで高画質(hls)やeducationに対応しています。</strong></p><p><strong>➥ 対応している再生方法</strong></p><ul><li><p><a rel="nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/K8wMqGODj91RqZJO-oAdpz24dgkRJv10R">Nocookie</a></p></li><li><p><a rel="nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/d6AO26l6Yb5PvojL-oAdpz24dgkRJv10R">Education</a></p></li><li><p>stream再生</p></li><li><p>m3u8再生 </p></li></ul><p><br/></p><p><strong>➥ 開発者</strong></p><ul><li><p>yuzuさん</p><p><strong>➥ レポジトリ</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://github.com/yuzubb/yuzutube1">https://github.com/yuzubb/yuzutube1</a></p></li></ul></li></ul>
 
-#### コメント (2)
-- **Snowfield Trekker** (03/13 06:30): ゆずtube　のパスワードってなんですか？
-- **カービィ** (03/14 10:34): yuzu
+#### Comments (2)
+- **Snowfield Trekker** (Mar 13, 2026 06:30am): ゆずtube　のパスワードってなんですか？
+- **カービィ** (Mar 14, 2026 10:34am): yuzu
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 03/09 12:35
-- **更新日（UTC）:** 03/09 12:35
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Mar 09, 2026 12:35pm
+- **Updated At (UTC):** Mar 09, 2026 12:35pm
 
 ---
 
 ### 2. https://yuzutube-nana-03.onrender.com/gate
-**作成者:** たろ (16519_21)
+**Author:** たろ (16519_21)
 
 <p>ゆずtube</p><p><br/></p>
 
-[添付ファイル 1](https://yuzutube-nana-03.onrender.com/gate)
+[Attachment 1](https://yuzutube-nana-03.onrender.com/gate)
 
-#### コメント (3)
-- **味付け海苔製造機** (04/29 13:30): ブロされちった
-- **望** (04/30 08:46): パスワード？
-- **ほそかわせいや** (05/07 21:58): yuzu
+#### Comments (3)
+- **味付け海苔製造機** (Apr 29, 2026 01:30pm): ブロされちった
+- **望** (Apr 30, 2026 08:46am): パスワード？
+- **ほそかわせいや** (May 07, 2026 09:58pm): yuzu
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/11 09:05
-- **更新日（UTC）:** 04/11 09:05
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 11, 2026 09:05am
+- **Updated At (UTC):** Apr 11, 2026 09:05am
 
 ---
 
 ## Mintube pro
 
 ### 1. mintube proの概要
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>mino hobby proさんが製作したとても高速なyoutubeサイトです。</p><p><br></p><p>⇒製作者情報</p><p><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/mino-hobby-pro/">https://scratch.mit.edu/users/mino-hobby-pro/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://github.com/mino-hobby-pro">https://github.com/mino-hobby-pro</a></p><p><br></p><p>⇒リポジトリ</p><p><a rel="noopener noreferrer nofollow" href="https://github.com/mino-hobby-pro/MIN-Tube-Pro">https://github.com/mino-hobby-pro/MIN-Tube-Pro</a></p><p><br></p><p>⇒製作関係者</p><p>・mino-hobby-pro</p><p>・myproxy0108-prog</p><p>・raku-ringo</p><p>・Sou930</p><p>・KA1121Studio</p><p>・woolisbest</p><p>・kiki riki</p>
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 05/20 21:39
-- **更新日（UTC）:** 05/20 21:39
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** May 20, 2026 09:39pm
+- **Updated At (UTC):** May 20, 2026 09:39pm
 
 ---
 
 ## チャット
 
 ### 1. 使いやすいチャット
-**作成者:** 陽著辺子 (yangzhubianzi)
+**Author:** 陽著辺子 (yangzhubianzi)
 
 <p><a rel="noopener noreferrer nofollow" href="https://messageapp-cvxy.onrender.com/index.html">https://messageapp-cvxy.onrender.com/index.html</a></p><p>これは友達とチャットできるよ</p><p>おんなじ合言葉でマッチング!</p><p><br></p>
 
-#### コメント (16)
-- **猫神様** (06/07 09:24): このチャット広めてもいいですか？
-- **猫神様** (06/07 09:25): （学校では広めない）
-- **陽著辺子** (06/08 04:06): いいですよん
-- **猫神様** (06/08 07:22): ありがとうございます
-- **九島千隼** (12/03 00:28): わかめちゅーぶ開ける方法教えてください
-- **削除済みユーザー** (12/25 03:47): 高校生まではブロック解除
-- **削除済みユーザー** (12/25 03:48): 普通の人はわかんないです
-- **Secretive Tuna** (01/17 11:45): 合言葉なんですか？
-- **のあちゃんでーーーーす** (01/20 00:36): 自分で好きなものを
-- **のあちゃんでーーーーす** (01/20 00:36): 友達に合言葉共有
-- **仙人@suger** (01/30 22:39): このサイトのアップデートもうしてないからばぐっててもごめん
-- **シャンシャン** (02/25 01:00): ブロ
-- **ふじこ** (04/16 11:17): だれかいっしょにしゃべろー 
-- **ふじこ** (04/16 11:17): あいことばは　あそこ　
-- **ヒルネコ** (04/30 08:15): 入れん 
-- **ふっじー** (05/02 05:54): 誰か喋ろー　合言葉は　ふう　です
+#### Comments (16)
+- **猫神様** (Jun 07, 2025 09:24am): このチャット広めてもいいですか？
+- **猫神様** (Jun 07, 2025 09:25am): （学校では広めない）
+- **陽著辺子** (Jun 08, 2025 04:06am): いいですよん
+- **猫神様** (Jun 08, 2025 07:22am): ありがとうございます
+- **九島千隼** (Dec 03, 2025 12:28am): わかめちゅーぶ開ける方法教えてください
+- **削除済みユーザー** (Dec 25, 2025 03:47am): 高校生まではブロック解除
+- **削除済みユーザー** (Dec 25, 2025 03:48am): 普通の人はわかんないです
+- **Secretive Tuna** (Jan 17, 2026 11:45am): 合言葉なんですか？
+- **のあちゃんでーーーーす** (Jan 20, 2026 12:36am): 自分で好きなものを
+- **のあちゃんでーーーーす** (Jan 20, 2026 12:36am): 友達に合言葉共有
+- **仙人@suger** (Jan 30, 2026 10:39pm): このサイトのアップデートもうしてないからばぐっててもごめん
+- **シャンシャン** (Feb 25, 2026 01:00am): ブロ
+- **ふじこ** (Apr 16, 2026 11:17am): だれかいっしょにしゃべろー 
+- **ふじこ** (Apr 16, 2026 11:17am): あいことばは　あそこ　
+- **ヒルネコ** (Apr 30, 2026 08:15am): 入れん 
+- **ふっじー** (May 02, 2026 05:54am): 誰か喋ろー　合言葉は　ふう　です
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/04 10:58
-- **更新日（UTC）:** 01/30 22:39
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 04, 2025 10:58am
+- **Updated At (UTC):** Jan 30, 2026 10:39pm
 
 ---
 
 ### 2. お願い
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>ここにチャットのリンクを貼ってね</p>
 
-#### コメント (6)
-- **イカれてやがる** (03/03 00:23): チャットサイトが必要なんですか？必要なら作ります
-- **K41** (04/01 07:21): https://ciphertalk-tzck.onrender.com
-- **カエデコ** (04/14 07:56): みんなあつまれhttps://docs.google.com/presentation/d/14NCCPMgdWZaslhYwkQcOoZJUVmRFqcMipYfnnlAhEgg/edit?slide=id.p#slide=id.p
-- **NyrikX(足立区陣ICFS系)** (04/14 14:49): なんかできません。開いた後の全ての表示されている文字を教えます。Googleスライドアイテムにアクセスできませんこのアイテムを所有する組織があなたにアクセスを許可していませんアクセス権のあるアカウントに切り替えてください。 詳細ログインしているアカウント:h*******@ict.adachi.ed.jp(一様隠した)
-- **ふじこ** (04/16 11:14): 僕もです
-- **Seismic0981** (05/07 21:46): https://zoom.us/wc
+#### Comments (6)
+- **イカれてやがる** (Mar 03, 2026 12:23am): チャットサイトが必要なんですか？必要なら作ります
+- **K41** (Apr 01, 2026 07:21am): https://ciphertalk-tzck.onrender.com
+- **カエデコ** (Apr 14, 2026 07:56am): みんなあつまれhttps://docs.google.com/presentation/d/14NCCPMgdWZaslhYwkQcOoZJUVmRFqcMipYfnnlAhEgg/edit?slide=id.p#slide=id.p
+- **NyrikX(足立区陣ICFS系)** (Apr 14, 2026 02:49pm): なんかできません。開いた後の全ての表示されている文字を教えます。Googleスライドアイテムにアクセスできませんこのアイテムを所有する組織があなたにアクセスを許可していませんアクセス権のあるアカウントに切り替えてください。 詳細ログインしているアカウント:h*******@ict.adachi.ed.jp(一様隠した)
+- **ふじこ** (Apr 16, 2026 11:14am): 僕もです
+- **Seismic0981** (May 07, 2026 09:46pm): https://zoom.us/wc
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 01/28 10:21
-- **更新日（UTC）:** 01/28 10:21
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Jan 28, 2026 10:21am
+- **Updated At (UTC):** Jan 28, 2026 10:21am
 
 ---
 
 ### 3. いいちゃっと
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p><a rel="noopener noreferrer nofollow" href="https://messageapp-1-fupo.onrender.com">https://messageapp-1-fupo.onrender.com</a></p>
 
-[添付ファイル 1](https://messageapp-1-fupo.onrender.com)
+[Attachment 1](https://messageapp-1-fupo.onrender.com)
 
-#### コメント (3)
-- **猫神様** (08/17 02:41): ぶろ
-- **匿名** (03/02 02:06): 合言葉は？
-- **ミズミチ** (05/21 03:13): 合言葉Senninnkami
+#### Comments (3)
+- **猫神様** (Aug 17, 2025 02:41am): ぶろ
+- **匿名** (Mar 02, 2026 02:06am): 合言葉は？
+- **ミズミチ** (May 21, 2026 03:13am): 合言葉Senninnkami
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/19 03:15
-- **更新日（UTC）:** 06/19 03:15
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 19, 2025 03:15am
+- **Updated At (UTC):** Jun 19, 2025 03:15am
 
 ---
 
 ### 4. iフィル行ける
-**作成者:** Sleepy seal (seal614)
+**Author:** Sleepy seal (seal614)
 
 <p>これ行ける</p>
 
-[添付ファイル 1](https://www.for314.com/chat/?chatroom=pengin0902%27s+room)
+[Attachment 1](https://www.for314.com/chat/?chatroom=pengin0902%27s+room)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/17 08:38
-- **更新日（UTC）:** 05/17 08:38
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 17, 2026 08:38am
+- **Updated At (UTC):** May 17, 2026 08:38am
 
 ---
 
 ### 5. チャットというよりお願い自由に記入できるサイト
-**作成者:** 葵 (gs226187)
+**Author:** 葵 (gs226187)
 
 <p><a rel="noopener noreferrer nofollow" href="https://moo-bow.com/">https://moo-bow.com/</a></p>
 
-[添付ファイル 1](https://moo-bow.com/)
+[Attachment 1](https://moo-bow.com/)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 09:03
-- **更新日（UTC）:** 05/16 09:03
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 09:03am
+- **Updated At (UTC):** May 16, 2026 09:03am
 
 ---
 
 ### 6. あ
-**作成者:** 石川
+**Author:** 石川
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/11 03:01
-- **更新日（UTC）:** 05/11 03:01
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 11, 2026 03:01am
+- **Updated At (UTC):** May 11, 2026 03:01am
 
 ---
 
 ### 7. みんなあつまれ！（アクセス権をリクエストを押したらアクセス権が有効になります）
-**作成者:** カエデコ
+**Author:** カエデコ
 
 [https://docs.google.com/presentation/d/14NCCPMgdWZaslhYwkQcOoZJUVmRFqcMipYfnnlAhEgg/edit?slide=id.p#slide=id.p](https://docs.google.com/presentation/d/14NCCPMgdWZaslhYwkQcOoZJUVmRFqcMipYfnnlAhEgg/edit?slide=id.p#slide=id.p)
 
-#### コメント (1)
-- **NyrikX(足立区陣ICFS系)** (04/14 14:49): なんかできません。開いた後の全ての表示されている文字を教えます。Googleスライドアイテムにアクセスできませんこのアイテムを所有する組織があなたにアクセスを許可していませんアクセス権のあるアカウントに切り替えてください。 詳細ログインしているアカウント:h*******@ict.adachi.ed.jp(一様隠した)
+#### Comments (1)
+- **NyrikX(足立区陣ICFS系)** (Apr 14, 2026 02:49pm): なんかできません。開いた後の全ての表示されている文字を教えます。Googleスライドアイテムにアクセスできませんこのアイテムを所有する組織があなたにアクセスを許可していませんアクセス権のあるアカウントに切り替えてください。 詳細ログインしているアカウント:h*******@ict.adachi.ed.jp(一様隠した)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/14 07:55
-- **更新日（UTC）:** 04/14 07:55
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 14, 2026 07:55am
+- **Updated At (UTC):** Apr 14, 2026 07:55am
 
 ---
 
 ### 8. チャットぷろ
-**作成者:** K41
+**Author:** K41
 
 <p>これどうぞ</p><p>トークルームに入るには合言葉が必要です、トーク内容は保存されません</p>
 
-[添付ファイル 1](https://ciphertalk-tzck.onrender.com)
+[Attachment 1](https://ciphertalk-tzck.onrender.com)
 
-#### コメント (1)
-- **モミジネ** (04/11 10:03): なんかいけない
+#### Comments (1)
+- **モミジネ** (Apr 11, 2026 10:03am): なんかいけない
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/01 07:19
-- **更新日（UTC）:** 04/01 07:19
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 01, 2026 07:19am
+- **Updated At (UTC):** Apr 01, 2026 07:19am
 
 ---
 
-### 9. 投稿 9
-**作成者:** ガララーガ
+### 9. Post 9
+**Author:** ガララーガ
 
-[添付ファイル 1](https://p2p.mirotalk.com/join/%E7%AB%B9%E4%B8%AD%E3%81%A8%E4%BF%BA%E7%94%A8)
+[Attachment 1](https://p2p.mirotalk.com/join/%E7%AB%B9%E4%B8%AD%E3%81%A8%E4%BF%BA%E7%94%A8)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/25 06:38
-- **更新日（UTC）:** 03/15 08:38
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 25, 2026 06:38am
+- **Updated At (UTC):** Mar 15, 2026 08:38am
 
 ---
 
 ### 10. メッチや
-**作成者:** シャンシャン
+**Author:** シャンシャン
 
 <p>これめっちゃ良い</p><p>同じ合言葉にすれば繋がれるし画像を載せたり描いた絵や文字を載せれるぞ。絵描きモード「画像も載せれる」文字送りモードがあるで</p>
 
-[添付ファイル 1](https://bizmee.net/)
+[Attachment 1](https://bizmee.net/)
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/25 01:13
-- **更新日（UTC）:** 02/25 01:13
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 25, 2026 01:13am
+- **Updated At (UTC):** Feb 25, 2026 01:13am
 
 ---
 
 ### 11. 自作最新掲示板
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p><a rel="noopener noreferrer nofollow" href="https://xtest-dvhl.onrender.com">https://xtest-dvhl.onrender.com</a></p><p>これだよ</p><p>欲しい機能教えてね</p>
 
-#### コメント (2)
-- **陽著辺子** (02/18 12:42): これ学校のiPadだと名前変更、自己紹介変更、フォロー、ポストのいいね、返信が出来ない、スマホならできたなぜ？仙人は学タブでも行けた？
-- **すずめ** (04/15 09:59): iPad9世代でポストとかに成功したよ
+#### Comments (2)
+- **陽著辺子** (Feb 18, 2026 12:42pm): これ学校のiPadだと名前変更、自己紹介変更、フォロー、ポストのいいね、返信が出来ない、スマホならできたなぜ？仙人は学タブでも行けた？
+- **すずめ** (Apr 15, 2026 09:59am): iPad9世代でポストとかに成功したよ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/17 22:32
-- **更新日（UTC）:** 02/17 22:32
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 17, 2026 10:32pm
+- **Updated At (UTC):** Feb 17, 2026 10:32pm
 
 ---
 
 ### 12. やばすぎ
-**作成者:** ミャっくー (myakumyakufrog)
+**Author:** ミャっくー (myakumyakufrog)
 
 <p>俺のパソコン全部ブロックされた</p>
 
-#### コメント (2)
-- **あなたは髪の毛ありますか?** (02/09 02:37): まじかよー
-- **あなたは髪の毛ありますか?** (02/09 02:37): えぐ
+#### Comments (2)
+- **あなたは髪の毛ありますか?** (Feb 09, 2026 02:37am): まじかよー
+- **あなたは髪の毛ありますか?** (Feb 09, 2026 02:37am): えぐ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/07 02:11
-- **更新日（UTC）:** 02/07 02:11
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 07, 2026 02:11am
+- **Updated At (UTC):** Feb 07, 2026 02:11am
 
 ---
 
 ### 13. KAeRU Log
-**作成者:** 匿名
+**Author:** 匿名
 
 <p>Yosshyさんが作成したチャットアプリです。</p>
 
-[添付ファイル 1](https://kaeru-log.onrender.com/)
+[Attachment 1](https://kaeru-log.onrender.com/)
 
-#### コメント (1)
-- **匿名** (01/29 22:01): リポジトリ
+#### Comments (1)
+- **匿名** (Jan 29, 2026 10:01pm): リポジトリ
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/29 10:30
-- **更新日（UTC）:** 01/29 11:41
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 29, 2026 10:30am
+- **Updated At (UTC):** Jan 29, 2026 11:41am
 
 ---
 
 ### 14. 仙人チャットのリポジトリだよ
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p><a rel="noopener noreferrer nofollow" href="https://github.com/xianrendesu-max/senninmessage/tree/main">https://github.com/xianrendesu-max/senninmessage/tree/main</a></p><p>みんな使ってね♡</p>
 
-#### コメント (1)
-- **aaabbbccc** (03/18 03:29): なぜかフォークできないなぜ
+#### Comments (1)
+- **aaabbbccc** (Mar 18, 2026 03:29am): なぜかフォークできないなぜ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/24 07:08
-- **更新日（UTC）:** 01/21 13:37
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 24, 2025 07:08am
+- **Updated At (UTC):** Jan 21, 2026 01:37pm
 
 ---
 
 ### 15. 仙人チャット(左の方にあるやつ)
-**作成者:** 陽著辺子 (yangzhubianzi)
+**Author:** 陽著辺子 (yangzhubianzi)
 
-[添付ファイル 1](https://messageapp-cvxy.onrender.com/)
+[Attachment 1](https://messageapp-cvxy.onrender.com/)
 
-#### コメント (4)
-- **仙人@suger** (06/04 21:53): サーバー起動に30〜50秒かかります。
-- **猫神様** (06/08 00:09): いけました
-- **匿名** (03/04 02:03): プロキシブロックされないの教えてくれ
-- **匿名** (05/05 05:03): https://appetize.io/app/standalone_eiazu5dw2fymhet7qms67gyl2e?device=iphone17pro&osVersion=26.0&toolbar=true
+#### Comments (4)
+- **仙人@suger** (Jun 04, 2025 09:53pm): サーバー起動に30〜50秒かかります。
+- **猫神様** (Jun 08, 2025 12:09am): いけました
+- **匿名** (Mar 04, 2026 02:03am): プロキシブロックされないの教えてくれ
+- **匿名** (May 05, 2026 05:03am): https://appetize.io/app/standalone_eiazu5dw2fymhet7qms67gyl2e?device=iphone17pro&osVersion=26.0&toolbar=true
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/04 10:58
-- **更新日（UTC）:** 01/21 13:37
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 04, 2025 10:58am
+- **Updated At (UTC):** Jan 21, 2026 01:37pm
 
 ---
 
 ### 16. 期待はしないで
-**作成者:** sasara kijiyama (kijiyamayuuchan)
+**Author:** sasara kijiyama (kijiyamayuuchan)
 
 <p>これたま〜〜〜にブロックすり抜けてる</p><p>規制の内容によってはなぜか使えることもある</p>
 
-[添付ファイル 1](https://metalife.co.jp/)
+[Attachment 1](https://metalife.co.jp/)
 
-#### コメント (4)
-- **nonnon** (12/17 05:52): うちいけた
-- **nonnon** (12/17 05:52): あざす
-- **あなたは髪の毛ありますか?** (02/09 04:21): 下から期待はしてなけど
-- **すずめ** (02/11 00:47): それi-filter@cloudはブロックされない
+#### Comments (4)
+- **nonnon** (Dec 17, 2025 05:52am): うちいけた
+- **nonnon** (Dec 17, 2025 05:52am): あざす
+- **あなたは髪の毛ありますか?** (Feb 09, 2026 04:21am): 下から期待はしてなけど
+- **すずめ** (Feb 11, 2026 12:47am): それi-filter@cloudはブロックされない
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 08/25 05:52
-- **更新日（UTC）:** 08/25 05:52
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Aug 25, 2025 05:52am
+- **Updated At (UTC):** Aug 25, 2025 05:52am
 
 ---
 
 ### 17. 神チャット！
-**作成者:** イケメン神
+**Author:** イケメン神
 
 <p><br></p><p><br></p><p>みんなあげる！</p>
 
-[添付ファイル 1](https://sfu.mirotalk.com/join/b1172630-c4ca-4535-bb2a-3b3f28b2d80c)
+[Attachment 1](https://sfu.mirotalk.com/join/b1172630-c4ca-4535-bb2a-3b3f28b2d80c)
 
-#### コメント (6)
-- **nonnon** (12/17 05:55): 入ったら是非とも共有してほしいです
-- **荒れ家の魔男（はちお）** (12/18 02:07): シツレイｼﾏｽ
-- **Benevolent Quokka** (01/11 23:45): きも
-- **あなたは髪の毛ありますか?** (02/09 04:20): あん
-- **あなたは髪の毛ありますか?** (02/09 04:20): ?
-- **ふっじー** (05/02 05:55): ブロっす
+#### Comments (6)
+- **nonnon** (Dec 17, 2025 05:55am): 入ったら是非とも共有してほしいです
+- **荒れ家の魔男（はちお）** (Dec 18, 2025 02:07am): シツレイｼﾏｽ
+- **Benevolent Quokka** (Jan 11, 2026 11:45pm): きも
+- **あなたは髪の毛ありますか?** (Feb 09, 2026 04:20am): あん
+- **あなたは髪の毛ありますか?** (Feb 09, 2026 04:20am): ?
+- **ふっじー** (May 02, 2026 05:55am): ブロっす
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/12 03:29
-- **更新日（UTC）:** 02/19 09:27
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 12, 2025 03:29am
+- **Updated At (UTC):** Feb 19, 2026 09:27am
 
 ---
 
 ## 荒らし対策
 
 ### 1. 荒らしの対策
-**作成者:** 陽著辺子 (yangzhubianzi)
+**Author:** 陽著辺子 (yangzhubianzi)
 
 <p>荒らしコメントは、無視して管理者に報告！</p>
 
-#### コメント (36)
-- **帰ってきたぴかコン** (06/06 13:31): はい
-- **猫神様** (06/07 00:38): おｋ
-- **Trustworthy Barracuda** (11/13 11:46): 瀬戸環奈
-- **あ** (12/17 08:27): あ 
-- **削除済みユーザー** (12/25 03:46): 了解
-- **Bubbly Armadillo** (01/31 10:09): りょうかい
-- **Kick** (02/04 15:18): 雑談、自己紹介のページ荒らされてます
-- **あれち** (02/10 13:27): わｋあった
-- **IQがダチョウの見た目が豚の力はゴリラで植生が雑食** (02/15 09:46): わかりました
-- **バッタ　ｲﾏﾊﾆｰﾄﾀﾞﾖ** (02/18 07:10): okdesu
-- **Creative Otter** (03/16 04:27): OK!!!!!!!!!!!!!!!!!!!
-- **ゆきねこちゃんねるだよ** (03/21 16:09): 数字荒らし発見管理者さん至急お願いします🙇
-- **Anonymous** (03/26 07:55): おけ 
-- **YouTube好きっ子** (04/21 08:34): 了解しました🫡
-- **リョウ[yamada takeru]** (04/21 10:00): おk 
-- **お文具とドズル社** (04/22 03:30): わかった
-- **味付け海苔製造機** (04/29 13:30): 荒らしを撲滅しましょう！！
-- **ひーーーーまーーーーーー** (04/30 13:20): りょーかい
-- **コガワ** (05/01 04:14): きたからどうにかしろ
-- **ひーーーーまーーーーーー** (05/01 06:46): ああああああと叫ぶ輩がいる
-- **ひーーーーまーーーーーー** (05/01 06:47): 名前ナツハゼ
-- **ひーーーーまーーーーーー** (05/01 06:54): 仙人さーん
-- **大阪市教育委員会** (05/01 07:50): てナツハゼがゆってる
-- **ゆーりんち** (05/02 08:03): はい！
-- **karaage** (05/02 09:09): 分かりました〜！
-- **天才** (05/06 13:00): OK!!　れつごー
-- **Tomoharukun** (05/07 06:00): ok
-- **ゲーム教えてください** (05/07 10:18): こんにちは
-- **天才くん** (05/08 10:57): おk
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (05/21 00:40): ようつべこ一年前化、速いな
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (05/21 00:40): 早
-- **ㅤ@krtk🔰** (05/21 07:37): 　
-- **葵** (05/23 11:12): 入って
-- **葵** (05/23 11:12): https://padlet.com/gs226187/padlet-4x0i1tx78rnc72k4
-- **葵** (05/23 11:12): 荒らし対策を考えるための粘る部屋
-- **葵** (05/23 11:13): 是非意見をよろしく！
+#### Comments (36)
+- **帰ってきたぴかコン** (Jun 06, 2025 01:31pm): はい
+- **猫神様** (Jun 07, 2025 12:38am): おｋ
+- **Trustworthy Barracuda** (Nov 13, 2025 11:46am): 瀬戸環奈
+- **あ** (Dec 17, 2025 08:27am): あ 
+- **削除済みユーザー** (Dec 25, 2025 03:46am): 了解
+- **Bubbly Armadillo** (Jan 31, 2026 10:09am): りょうかい
+- **Kick** (Feb 04, 2026 03:18pm): 雑談、自己紹介のページ荒らされてます
+- **あれち** (Feb 10, 2026 01:27pm): わｋあった
+- **IQがダチョウの見た目が豚の力はゴリラで植生が雑食** (Feb 15, 2026 09:46am): わかりました
+- **バッタ　ｲﾏﾊﾆｰﾄﾀﾞﾖ** (Feb 18, 2026 07:10am): okdesu
+- **Creative Otter** (Mar 16, 2026 04:27am): OK!!!!!!!!!!!!!!!!!!!
+- **ゆきねこちゃんねるだよ** (Mar 21, 2026 04:09pm): 数字荒らし発見管理者さん至急お願いします🙇
+- **Anonymous** (Mar 26, 2026 07:55am): おけ 
+- **YouTube好きっ子** (Apr 21, 2026 08:34am): 了解しました🫡
+- **リョウ[yamada takeru]** (Apr 21, 2026 10:00am): おk 
+- **お文具とドズル社** (Apr 22, 2026 03:30am): わかった
+- **味付け海苔製造機** (Apr 29, 2026 01:30pm): 荒らしを撲滅しましょう！！
+- **ひーーーーまーーーーーー** (Apr 30, 2026 01:20pm): りょーかい
+- **コガワ** (May 01, 2026 04:14am): きたからどうにかしろ
+- **ひーーーーまーーーーーー** (May 01, 2026 06:46am): ああああああと叫ぶ輩がいる
+- **ひーーーーまーーーーーー** (May 01, 2026 06:47am): 名前ナツハゼ
+- **ひーーーーまーーーーーー** (May 01, 2026 06:54am): 仙人さーん
+- **大阪市教育委員会** (May 01, 2026 07:50am): てナツハゼがゆってる
+- **ゆーりんち** (May 02, 2026 08:03am): はい！
+- **karaage** (May 02, 2026 09:09am): 分かりました〜！
+- **天才** (May 06, 2026 01:00pm): OK!!　れつごー
+- **Tomoharukun** (May 07, 2026 06:00am): ok
+- **ゲーム教えてください** (May 07, 2026 10:18am): こんにちは
+- **天才くん** (May 08, 2026 10:57am): おk
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (May 21, 2026 12:40am): ようつべこ一年前化、速いな
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (May 21, 2026 12:40am): 早
+- **ㅤ@krtk🔰** (May 21, 2026 07:37am): 　
+- **葵** (May 23, 2026 11:12am): 入って
+- **葵** (May 23, 2026 11:12am): https://padlet.com/gs226187/padlet-4x0i1tx78rnc72k4
+- **葵** (May 23, 2026 11:12am): 荒らし対策を考えるための粘る部屋
+- **葵** (May 23, 2026 11:13am): 是非意見をよろしく！
 
-#### リアクション
-- **絵文字:** ❤️ (4)
+#### Reactions
+- **Emojis:** ❤️ (4)
 
-#### その他の情報
-- **投稿のカラー:** ブルー
-- **作成日（UTC）:** 06/04 10:46
-- **更新日（UTC）:** 03/09 12:49
+#### Additional Information
+- **Post color:** Blue
+- **Created At (UTC):** Jun 04, 2025 10:46am
+- **Updated At (UTC):** Mar 09, 2026 12:49pm
 
 ---
 
 ### 2. ひよこさん
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>無駄に送っても、削除しますからね</p>
 
-#### コメント (13)
-- **猫神様** (06/07 00:39): ひよこきたの？
-- **猫神様** (06/07 00:39): 俺のとこも来た
-- **陽著辺子** (06/08 04:06): まじか
-- **仙人@suger** (06/11 02:58): ひよこきた
-- **nonnon** (12/17 05:52): ひよこってなんですか
-- **荒れ家の魔男（はちお）** (12/18 02:15): ひょこひょこ
-- **削除済みユーザー** (12/25 03:47): マジ迷惑なアカウントのこと
-- **俺だぞ〜（三橋）** (03/10 00:26): まじか
-- **リョウ[yamada takeru]** (04/21 10:01): ひよこよくない 
-- **ふっじー（犬系）** (05/07 06:52): ナツハゼエグい
-- **ふっじー（犬系）** (05/07 06:59): もともと荒らすつもりだったのに出して消すつもりだったとか言い訳してる
-- **ふっじー（犬系）** (05/07 07:06): [添付ファイル](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/NvylWEreDkxwa0OX) 
-- **ひーーーーまーーーーーー** (05/10 13:39): やば
+#### Comments (13)
+- **猫神様** (Jun 07, 2025 12:39am): ひよこきたの？
+- **猫神様** (Jun 07, 2025 12:39am): 俺のとこも来た
+- **陽著辺子** (Jun 08, 2025 04:06am): まじか
+- **仙人@suger** (Jun 11, 2025 02:58am): ひよこきた
+- **nonnon** (Dec 17, 2025 05:52am): ひよこってなんですか
+- **荒れ家の魔男（はちお）** (Dec 18, 2025 02:15am): ひょこひょこ
+- **削除済みユーザー** (Dec 25, 2025 03:47am): マジ迷惑なアカウントのこと
+- **俺だぞ〜（三橋）** (Mar 10, 2026 12:26am): まじか
+- **リョウ[yamada takeru]** (Apr 21, 2026 10:01am): ひよこよくない 
+- **ふっじー（犬系）** (May 07, 2026 06:52am): ナツハゼエグい
+- **ふっじー（犬系）** (May 07, 2026 06:59am): もともと荒らすつもりだったのに出して消すつもりだったとか言い訳してる
+- **ふっじー（犬系）** (May 07, 2026 07:06am): [Attachment](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/NvylWEreDkxwa0OX) 
+- **ひーーーーまーーーーーー** (May 10, 2026 01:39pm): やば
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/06 02:12
-- **更新日（UTC）:** 06/23 02:21
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 06, 2025 02:12am
+- **Updated At (UTC):** Jun 23, 2025 02:21am
 
 ---
 
 ## 音楽
 
 ### 1. ライラック
-**作成者:** アラキヒナタ (gs221373)
+**Author:** アラキヒナタ (gs221373)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5648476380/d35539457f1993d27c946e23f63c27e4/_____.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=i3kfxx9%2FZnI%2F0K8SVTiAK9ia%2BJbQdXLo16ebbYi9v7D6JEnM78sxYySAAQ79JGT3UCDczdVOTUeHAtLUu5kTt56RpX7VT8Gczi1T8oNQHVP3braGLJptdTheO%2Bzhc7D%2BrUpVGKfrmrCfvRl%2BHgH%2FH5VGlpPatqheLneRsj%2BYZdw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5648476380%2Fd35539457f1993d27c946e23f63c27e4%2F_____.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5648476380/d35539457f1993d27c946e23f63c27e4/_____.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vpjXfyWVXouQHnkWp67UAIntByhubee7qIgwqTupwNmnf4t4hkcGkkfok%2BVWtXVOq9bOuHNnOHprhqZo94meDyapoQtq0fMa50No7kh%2BA9pDREzgR2Sz7EHCj83MPVyMIqiZrg%2Fu61YVsERk4S34WZci8TQb0LNlYHjzldmySkw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5648476380%2Fd35539457f1993d27c946e23f63c27e4%2F_____.mp3)
 
-#### コメント (8)
-- **ㅤ@krtk🔰** (05/21 07:37): ミセスだ
-- **コミヤシンゴ** (05/21 08:12): つぎわズ一卜ピア
-- **葵** (05/21 22:10): ミセス〜
-- **葵** (05/22 08:02): 音源ってどうやってとるの〜
-- **葵** (05/22 08:02): おしえて
-- **アラキヒナタ** (05/23 07:55): Scratchからっとってるよ
-- **アラキヒナタ** (05/23 07:55): 音源とってもいい奴で
-- **葵** (05/23 09:26): サンキュ〜
+#### Comments (8)
+- **ㅤ@krtk🔰** (May 21, 2026 07:37am): ミセスだ
+- **コミヤシンゴ** (May 21, 2026 08:12am): つぎわズ一卜ピア
+- **葵** (May 21, 2026 10:10pm): ミセス〜
+- **葵** (May 22, 2026 08:02am): 音源ってどうやってとるの〜
+- **葵** (May 22, 2026 08:02am): おしえて
+- **アラキヒナタ** (May 23, 2026 07:55am): Scratchからっとってるよ
+- **アラキヒナタ** (May 23, 2026 07:55am): 音源とってもいい奴で
+- **葵** (May 23, 2026 09:26am): サンキュ〜
 
-#### リアクション
-- **絵文字:** ❤️ (3)
+#### Reactions
+- **Emojis:** ❤️ (3)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/21 02:31
-- **更新日（UTC）:** 05/21 07:29
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 02:31am
+- **Updated At (UTC):** May 21, 2026 07:29am
 
 ---
 
 ### 2. 個人的に流行りだと思うやつ
-**作成者:** yuto k
+**Author:** yuto k
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5671104851/a98abe942855492809e687dc6455b3ed/_______100_______.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LsxoMsDXjWHZLiBnTZxuk9cIHgOVO0cfxr2QEuB2xFWC4uu0ejtPYfTkmH76q1vPqoqi2VChuMdwqbzOLaqWJG1%2FYWb7b%2B%2Bnj%2FsNFapou%2BRXELcLltU0extvfeAEFemQuVvK2TpV%2FjIkN0XGTFAmeVKCT2cERqNhfM8MLDiYbog%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5671104851%2Fa98abe942855492809e687dc6455b3ed%2F_______100_______.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5671104851/a98abe942855492809e687dc6455b3ed/_______100_______.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=KE9KIJQv%2BtNQTScmf3PWHAYAb0Mw5z7bm5XGYoyPeOnPKc1xaA2YUzqBgiZYhD%2FfDO6e%2FDNtdXf%2BQQtjHSgQH9QlAMQkp%2FVAnK2eBJ06Hf5MHfBXtvTN%2BkjNDdzlxaUtreqxodn5No6JgKMR3vH8Sd6DF4ICKDXlcdGA6C9oE%2F4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5671104851%2Fa98abe942855492809e687dc6455b3ed%2F_______100_______.mp3)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/19 06:11
-- **更新日（UTC）:** 05/19 06:11
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 19, 2026 06:11am
+- **Updated At (UTC):** May 19, 2026 06:11am
 
 ---
 
-### 3. 投稿 3
-**作成者:** yuto k
+### 3. Post 3
+**Author:** yuto k
 
 <p>悲しいな</p><p><br/></p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5671104851/ea9fbaf3cf7f50da159f64c74220daaf/____.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=S02bbBBo7%2BWb7a%2F0dFNvba3MEVD9iq6Ysx%2BxMKdIKo6X%2FWbwtoOTzkudaxSP5ZOw13d%2Fltnn5JnU%2BC2D8puw%2FoiDGxqHq6AQ%2Bj4IZKtF9mzIKp2hPL%2FaNpX%2B5PZdUzrvVkhMVkoUkbp7tpIMnJ4XUmZm3x7QiBnldYHuu%2BBOGAs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5671104851%2Fea9fbaf3cf7f50da159f64c74220daaf%2F____.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5671104851/ea9fbaf3cf7f50da159f64c74220daaf/____.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZVYfQSAzBaLv0IT8YpC9rq7hIwLs0vvQbeNl%2BvxxUz8SeRwuWfT75PoRewhV1NMmVW42qcpMl06spBpdn8g5NjEDGhgoIk354l9Aw07mpKdydX%2F%2FQxJJzWmR64aqFtVqvsqMhjPLFOhHOnh4TdgBnbbe9Gbu%2F%2BHST3i%2FF8aLNO8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5671104851%2Fea9fbaf3cf7f50da159f64c74220daaf%2F____.mp3)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/19 06:00
-- **更新日（UTC）:** 05/19 06:00
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 19, 2026 06:00am
+- **Updated At (UTC):** May 19, 2026 06:00am
 
 ---
 
 ### 4. この曲知ってる？
-**作成者:** アラキヒナタ (gs221373)
+**Author:** アラキヒナタ (gs221373)
 
 <p>鬼滅ファンなら絶対に知ってる曲です。</p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5648476380/e09aa7f001bfc4cce643201d7069ae4f/____op____3.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mIJpJR2y3roPP8X6NsSksI5%2F545IidNUpcBKMr04QAlOwb4%2FaNhG8CCLk1ttY8qlg%2B0x63KgLAaizWoAOwuhdYQbZb8t0%2Fl%2Fnb4nc%2BqEELFGoYroV3fmwVskhQvadhj0Q6vH6eOsPcbsBBARxQ5garHOvtqYp1H4VSssOnlONB0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5648476380%2Fe09aa7f001bfc4cce643201d7069ae4f%2F____op____3.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5648476380/e09aa7f001bfc4cce643201d7069ae4f/____op____3.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NwuU29l38JVhtM2WvUoEZHpUTFIWPZRnGhul3Fa5pDbI3mdMG8WvxwgeooKBE9mnYalwJNFvsttbuLOGzOQsSQd%2F8c199PGqt2OW75CFbY%2BZnsTPxcpf1gB4mcz91NTAqEunT9fMXa8%2Bi5vXnIAlgCaTg3O11BXoo5ohTrCrL5I%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5648476380%2Fe09aa7f001bfc4cce643201d7069ae4f%2F____op____3.mp3)
 
-#### コメント (2)
-- **葵** (05/21 22:11): これなら知ってるかも
-- **葵** (05/22 08:09): 音源のとり方を教えて
+#### Comments (2)
+- **葵** (May 21, 2026 10:11pm): これなら知ってるかも
+- **葵** (May 22, 2026 08:09am): 音源のとり方を教えて
 
-#### リアクション
-- **絵文字:** ❤️ (4)
+#### Reactions
+- **Emojis:** ❤️ (4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 10:30
-- **更新日（UTC）:** 05/18 10:30
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 10:30am
+- **Updated At (UTC):** May 18, 2026 10:30am
 
 ---
 
 ### 5. 曲
-**作成者:** マッキーです (s220824_3)
+**Author:** マッキーです (s220824_3)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/b994fbf1ae383ab90e6d90a274cdf114/atlxs_dj_fku_montagem_rebola_5.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4lPPBGrM6uOjaR536JsSvd8cS%2BTf8qRrkDLbVrVDWmdUcuJL90rMKHPZKGB6ny3AXuWs6mIPj9vaHwVvm38QGTOH5MIx71I2f%2F43oG%2FdA%2Fs7T0COHdY9KyIoxw%2BMNApqLUntNbUmf2y3nc15xUu3yrqcUdnOji4StcFdgFt4%2B%2BU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2Fb994fbf1ae383ab90e6d90a274cdf114%2Fatlxs_dj_fku_montagem_rebola_5.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/b994fbf1ae383ab90e6d90a274cdf114/atlxs_dj_fku_montagem_rebola_5.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PI6YnHAfQJ%2FvWEZO0VUG8eG1sG6r%2B0OC4Snnsgcj7Al42ZQAcvEyQGf%2Ffx5LdmjcdJH9dOqF341RU6CmeOWj6GG1GNdRY13IeG6ya8eSa53wTUUv16VkZVSlsm5oP0I7bG7pow2bTLt6tL2%2FB6a91lzwCycwfhiahJMpFTjQot0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2Fb994fbf1ae383ab90e6d90a274cdf114%2Fatlxs_dj_fku_montagem_rebola_5.mp3)
 
-#### コメント (1)
-- **神風PVP（かみかぜ)** (05/20 22:07): どぱがき
+#### Comments (1)
+- **神風PVP（かみかぜ)** (May 20, 2026 10:07pm): どぱがき
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 10:01
-- **更新日（UTC）:** 05/18 10:01
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 10:01am
+- **Updated At (UTC):** May 18, 2026 10:01am
 
 ---
 
 ### 6. 曲
-**作成者:** マッキーです (s220824_3)
+**Author:** マッキーです (s220824_3)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/e1d11cb6a1c7c4b2d23104e50944e84e/kevin_macleod_local_forecast.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NWYdVWo19nl6MrN%2Bl3Iu3cQUDfM1yt6FdxVia8pz98SLQFPTxM6x4efqxeXgjdAj%2FiMoK9ED0Qn%2BprVrRvoX6gWuqe1SgHTy6LZErIF4%2BpWwCXUL1OLrN4goFfy7nWJU62EqC7YMj8CCKqBA%2BNdCcwU7Pp5en4Xyp4p%2Fj6ilS4A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2Fe1d11cb6a1c7c4b2d23104e50944e84e%2Fkevin_macleod_local_forecast.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/e1d11cb6a1c7c4b2d23104e50944e84e/kevin_macleod_local_forecast.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OzYjvSq7SrUk4g1AkS%2BK17mr7WFdaEoR8vetfXuyTS4ApCCNJ5ygu1PxHqMKvB18vvumq3lp36Y1aa1jg2ipySciSXaQLpoE6IgabUuKywyOgF%2Fzj5865sOSz7ZrXbJd5WOeKJU3e8%2FtAbmvEOl52n%2F4XVaOJfY3At4QarZuRPQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2Fe1d11cb6a1c7c4b2d23104e50944e84e%2Fkevin_macleod_local_forecast.mp3)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 10:00
-- **更新日（UTC）:** 05/18 10:00
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 10:00am
+- **Updated At (UTC):** May 18, 2026 10:00am
 
 ---
 
 ### 7. 曲
-**作成者:** マッキーです (s220824_3)
+**Author:** マッキーです (s220824_3)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/35396a4de9639f84c8b2bd679f34717f/montagem_koe_full_version.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eWjzV8AtYmaoxvZyIQav%2BiZXGEnPZtWOqJGniP5y%2BbG0O%2BihNh6GRI3ZTCVXmIjB32TFIMYrCMaixECI36Kdc1PClmnA2RESvPKHdVW7sAe46HC1Ny%2Fp5uzo3sstFMMjX%2Fm1jgw%2BMATrXRCfrKE8QjSlpdb%2BZI5WStxp3z%2BDxoQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2F35396a4de9639f84c8b2bd679f34717f%2Fmontagem_koe_full_version.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/35396a4de9639f84c8b2bd679f34717f/montagem_koe_full_version.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=LZzVM1PRjFxtOWOcbrEP6FdIaFqJWW8qUJ4kqY3fy0PDs1GW%2F4WEMOv1DBs9gmFFBGr8CMHCyd78oGBn4DaEw2VxnqK9ZG5hg%2FSKnk10I92tWHWYvHOaICavclZlM5xaR08oKhHJcXRDlRA%2BTgTIV0ChaoFggtTdY%2Bu3hDKgprc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2F35396a4de9639f84c8b2bd679f34717f%2Fmontagem_koe_full_version.mp3)
 
-#### コメント (1)
-- **Aira🍒⛸️** (05/22 12:55): この曲好き
+#### Comments (1)
+- **Aira🍒⛸️** (May 22, 2026 12:55pm): この曲好き
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 10:00
-- **更新日（UTC）:** 05/18 10:00
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 10:00am
+- **Updated At (UTC):** May 18, 2026 10:00am
 
 ---
 
 ### 8. 曲
-**作成者:** マッキーです (s220824_3)
+**Author:** マッキーです (s220824_3)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/3e928b9f687d0a7459a28a4b05e31351/attack_on_titan.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rroBkfSqqPZT9ixInvSF%2BIeaN7qzBf%2FPSCXs5Lwo%2FVSMcljZ5dZybN%2FWuxQgfGkfU4PpSvo0eukwcs30db8nkQbJ636Jag9LY6V6k7Pln7VR6dTwHMGnbwS1saVfjIhzElJDhp%2BM9hyuR3D5x%2BqO9pLwnZorXTvqKc3%2FqrQBl5c%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2F3e928b9f687d0a7459a28a4b05e31351%2Fattack_on_titan.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/3e928b9f687d0a7459a28a4b05e31351/attack_on_titan.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XbbCVDFOU3jVowX27mV4G4xD8ajrrkdQ%2FFzcrk92IPwz3PhDtlMbHxK8KDUhkZrdm3tZ3HuNXnDtreR6a9Dq7fl6E9EdY76O22dr%2B47J9wLiB1kVIreV0wsRLH%2Fphi2ZQHpCFGWHPSo46wMXEilXkaA7fU7thQ2X5LUNRA27bwQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2F3e928b9f687d0a7459a28a4b05e31351%2Fattack_on_titan.mp3)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 10:00
-- **更新日（UTC）:** 05/18 10:00
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 10:00am
+- **Updated At (UTC):** May 18, 2026 10:00am
 
 ---
 
 ### 9. 曲
-**作成者:** マッキーです (s220824_3)
+**Author:** マッキーです (s220824_3)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/3400c10ac3974a99dd762ad371ad46cf/montagem_boyfriend.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Xg323jfXAMIzc5PjUiBhntVSNAg1TmSamydlCQyEqxAO06kCo8Wb%2F%2FqdKXuHET07VILNyzgeb02LYMzBKPB%2Fpa5%2BVk7gUqNM67b81EfHEgO0UrzNIsAVesRcQLmZVsQgVdtKBATnDpD2S%2FQkGWTMIiUO0XfL5reorA5iqwh0O6g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2F3400c10ac3974a99dd762ad371ad46cf%2Fmontagem_boyfriend.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/3400c10ac3974a99dd762ad371ad46cf/montagem_boyfriend.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2k3JrgEmxsHKxGzPAh5x7Jwl3G8CwQ7bbuKucJWEt07nQLbTlP5msKfiPdD%2BX9LyVSWIPzHDqKewib%2Bkadq00YHJZeiWeYXH12LVQBZZ8CyTEWYcUvGAi8VMrveNQk%2BF%2F0dFlYv2EB1Jk%2BZHXk8qBgD9ZQlIFXgFsV9uHYcdiss%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2F3400c10ac3974a99dd762ad371ad46cf%2Fmontagem_boyfriend.mp3)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 09:59
-- **更新日（UTC）:** 05/18 09:59
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 09:59am
+- **Updated At (UTC):** May 18, 2026 09:59am
 
 ---
 
-### 10. 投稿 10
-**作成者:** 川井田
+### 10. Post 10
+**Author:** 川井田
 
 <p>時には休みまショウ</p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5661606478/b712dc061488cddfd161587eff598f9b/________BGM.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=PMlpXazQtru4yD1%2BuW%2FPtxlkw7LkcZMR0Fu5c7VQ%2BUJ9psxmqYJjcHaLyiIq2K%2Fb9fhYZ%2FOB91R01RptvoN4XaOman1r3ZQyjIKSvF1tJ67yZNCgqN1xalOvBJjUlXIP38V2i2djhG%2BSccSUeCiv%2BpA%2FMgHPv8dpZdDu3lTmWms%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5661606478%2Fb712dc061488cddfd161587eff598f9b%2F________BGM.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5661606478/b712dc061488cddfd161587eff598f9b/________BGM.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OiZjb0vCHqnYPqO9zhTah4oKJprFzz9ZMlbIcEN%2Bwm5K5%2FNy%2F%2FInYthjM0BH8X3%2Bhm82ycBpCvfSLspaoHZKGbL9iJBJie57s%2BVgpdFJFeosGkY9XQvhb54tCjoT5CPB%2FONuQBH7gGbsr%2F5FDg%2FioJxyOna3PRmDoVchN%2BZbR34%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5661606478%2Fb712dc061488cddfd161587eff598f9b%2F________BGM.mp3)
 
-#### コメント (10)
-- **Aira🍒⛸️** (05/17 09:34): 休みましょう
-- **アラキヒナタ** (05/17 10:04): めっちゃ聞いたことある
-- **にんじん** (05/17 10:37): あ、なんかきいたことあるｗ
-- **ふっじー（犬系）** (05/17 10:50): ショートと早送りのときでよく聞くww
-- **アラキヒナタ** (05/17 10:55): どうやって録音すんの
-- **Aira🍒⛸️** (05/17 12:54): w
-- **Aira🍒⛸️** (05/17 12:55): YouTubeのBGMで流れてきそうw
-- **Tomoharukun** (05/18 06:48): なにこれ
-- **葵** (05/18 08:03): wwwwwwwwww
-- **yuto k** (05/19 06:12): 草
+#### Comments (10)
+- **Aira🍒⛸️** (May 17, 2026 09:34am): 休みましょう
+- **アラキヒナタ** (May 17, 2026 10:04am): めっちゃ聞いたことある
+- **にんじん** (May 17, 2026 10:37am): あ、なんかきいたことあるｗ
+- **ふっじー（犬系）** (May 17, 2026 10:50am): ショートと早送りのときでよく聞くww
+- **アラキヒナタ** (May 17, 2026 10:55am): どうやって録音すんの
+- **Aira🍒⛸️** (May 17, 2026 12:54pm): w
+- **Aira🍒⛸️** (May 17, 2026 12:55pm): YouTubeのBGMで流れてきそうw
+- **Tomoharukun** (May 18, 2026 06:48am): なにこれ
+- **葵** (May 18, 2026 08:03am): wwwwwwwwww
+- **yuto k** (May 19, 2026 06:12am): 草
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/17 09:31
-- **更新日（UTC）:** 05/17 11:00
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 17, 2026 09:31am
+- **Updated At (UTC):** May 17, 2026 11:00am
 
 ---
 
 ### 11. 隻眼の残像
-**作成者:** 川井田
+**Author:** 川井田
 
 <p>川井田2の作品ですこれもコナン好きなら分かるハズ</p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5661584947/616150c8632669661163b968b1b5efd8/_____.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=3ZvN2hTbpQGjEwAwyG35HuTZfi4dajKU0CyNTrCRUHhAYqKJoKZHy0hLRDcHsDil78Q%2BYFiads582gI2JdXxOj0TZuJef%2F1sTNCNwxbU9AebWnGCIOnv%2F89xXsZV2KfhSS%2FOJVc7w3qHcyTRTEDAaMi%2FApGS6OAPNtapJBksq50%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5661584947%2F616150c8632669661163b968b1b5efd8%2F_____.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5661584947/616150c8632669661163b968b1b5efd8/_____.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=n1WkUxT7AohQaiHfHgCFiiiz40j5fwirj4OYDzygxsajAgmPEDq9UugLxUOBRCDpTOS1Ta%2B6VVdQgp4ztNepQse0rk2606XXVaCuPd9Ho5PQSyZ3C1RuRQRVGRFXVh6FcIUkdAUzAqX9aqmDYnnmooIHNs7V5xd%2FiTwbQNqMhfg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5661584947%2F616150c8632669661163b968b1b5efd8%2F_____.mp3)
 
-#### コメント (4)
-- **葵** (05/18 08:03): だいすきいいいいいいいいいいいいいいいいいいいいい
-- **川井田** (05/18 09:23): ありがと
-- **葵** (05/22 08:14): 音源の取り方をおしえて
-- **くさかだいき** (05/24 05:08): scratchが一番いいよ
+#### Comments (4)
+- **葵** (May 18, 2026 08:03am): だいすきいいいいいいいいいいいいいいいいいいいいい
+- **川井田** (May 18, 2026 09:23am): ありがと
+- **葵** (May 22, 2026 08:14am): 音源の取り方をおしえて
+- **くさかだいき** (May 24, 2026 05:08am): scratchが一番いいよ
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/17 09:17
-- **更新日（UTC）:** 05/17 10:59
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 17, 2026 09:17am
+- **Updated At (UTC):** May 17, 2026 10:59am
 
 ---
 
 ### 12. カラオケ採点サイト教えて！
-**作成者:** カゲミチ
+**Author:** カゲミチ
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/17 06:58
-- **更新日（UTC）:** 05/17 06:58
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 17, 2026 06:58am
+- **Updated At (UTC):** May 17, 2026 06:58am
 
 ---
 
 ### 13. HIKARI
-**作成者:** ひーーーーまーーーーーー (114514yaju)
+**Author:** ひーーーーまーーーーーー (114514yaju)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5562918343/b29a7a011b4ab932de5b40026ac1927e/BellyJay___MONTAGEM_HIKARI_publer_com.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=4ogVaouHyleOhvUBruhyGBT%2BK%2FWflMPfbqk%2FjSQ0hp5QpJ4tWiZ%2FQC5U4r4a6QOZiLvbbG6L0qLssgm4NyhDHcWmbYlSsF4iJxkPljum72o%2FTQRWS1UH2031S0eQS5iHFo201oneYYlXLAYX2q%2Fs1%2BMh0sze4SZsHLSS3n1PVog%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562918343%2Fb29a7a011b4ab932de5b40026ac1927e%2FBellyJay___MONTAGEM_HIKARI_publer_com.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5562918343/b29a7a011b4ab932de5b40026ac1927e/BellyJay___MONTAGEM_HIKARI_publer_com.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=zOmDKfpYi7hJWTSA5oKOzillksb1XtJUaovhvjbyE7xMm1S2Gm%2BV4aKptjn0g3EM6qKRzC28lFUSmOlfb7ydnwe8YqaOcczDqsty8GhNoVeFzAr4JoGoNjrK8FZfRFiPLCgtrjZXGmNHGoptOex2OmI59Mtc0teFkSi8lkbs%2F7E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562918343%2Fb29a7a011b4ab932de5b40026ac1927e%2FBellyJay___MONTAGEM_HIKARI_publer_com.mp4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/17 02:01
-- **更新日（UTC）:** 05/17 02:01
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 17, 2026 02:01am
+- **Updated At (UTC):** May 17, 2026 02:01am
 
 ---
 
-### 14. 投稿 14
-**作成者:** ぽてと。 (gs221399)
+### 14. Post 14
+**Author:** ぽてと。 (gs221399)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5505920502/43166c1f106082a7856cb6d85a658cd4/5502686130_73bc556cf6fa2b84b73827f1e6f9431a_MONTAGEM_HIKARI.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=hDsclbEo8Iz%2BvQrUOHy3PVf7zmUQUa2cwlZz7ckfrUy%2BNZ%2FWv%2FvjkH5ZrwlNlzPA8puatVv97IlyqNg1Vjj6VZPMw%2BtmY513yCyZkSwGRf0HdBRYULg6rMBWY8J2H03OhhrAm4C2pF8%2FrfxJyiU1IO%2BMA8Ys4qgCHNkYgg8grf8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505920502%2F43166c1f106082a7856cb6d85a658cd4%2F5502686130_73bc556cf6fa2b84b73827f1e6f9431a_MONTAGEM_HIKARI.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5505920502/43166c1f106082a7856cb6d85a658cd4/5502686130_73bc556cf6fa2b84b73827f1e6f9431a_MONTAGEM_HIKARI.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ppG9JY9QUbbi8cueXd6Y8INKdIxP%2FokEEhbX9oBzV3c5JgemIkosiEMkcBA5FjAxne7yWWtE6yoaSUBwu92L2yoB6yBQ6whdBV5xIg7AbB4PHx3DcfYjXXuH6K5N8Rfe%2BR%2Fj3JlkHBEcOnlJqF0Wx65SEijQk1UUSTGnA0q5Hf0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505920502%2F43166c1f106082a7856cb6d85a658cd4%2F5502686130_73bc556cf6fa2b84b73827f1e6f9431a_MONTAGEM_HIKARI.mp3)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 09:59
-- **更新日（UTC）:** 05/16 09:59
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 09:59am
+- **Updated At (UTC):** May 16, 2026 09:59am
 
 ---
 
 ### 15. NOBATIDAO
-**作成者:** inoue (gs221318_1)
+**Author:** inoue (gs221318_1)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4323277141/de5651276194e1ac6d060e223d4286c0/videoplayback__2_.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pW2RbCAd7lFwXyy1Y5bUvw4gyfXHUmVN6GqUuML0Yg64XZvYjV7H5TGCuiErHT0sWaVh3TwLFHLZrA3GpEFT6IOAHFVcGSSQU784uyYCBNZ5qnsWzht5p1Rn7HljwiWwBHuMN4mcTaaS4Dow72a86bhULfNthuiYoAKvGMYHdNE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4323277141%2Fde5651276194e1ac6d060e223d4286c0%2Fvideoplayback__2_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4323277141/de5651276194e1ac6d060e223d4286c0/videoplayback__2_.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=i9UgjEWZ%2FTl6d4bR2yQZRhyLQ9Gtj9F6YOzVE6ejcUHZZkw7xijA1JipVHRkx3B%2FMFsREbU4vkMY9u17TUQ43E5B6RVFNv3%2FTV1TTaJDf5irasu4U5obKi%2Fg0IZCcTNEQOpKw5lIHe0DNis1SB7H7%2FedP6dyLOsWEUeXs%2FluaTA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4323277141%2Fde5651276194e1ac6d060e223d4286c0%2Fvideoplayback__2_.mp4)
 
-#### コメント (1)
-- **高し** (05/21 09:46): いいよね
+#### Comments (1)
+- **高し** (May 21, 2026 09:46am): いいよね
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 00:13
-- **更新日（UTC）:** 05/16 00:13
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 12:13am
+- **Updated At (UTC):** May 16, 2026 12:13am
 
 ---
 
 ### 16. 脳腐れ
-**作成者:** フユカスミ
+**Author:** フユカスミ
 
 <p>良い</p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5649036064/4122860c3c59f27ddcf0e528b4e245b2/videoplayback__2_.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=2ugMzjDgUCasj%2F5ETMPpTgbMJCYTpxUpo%2BscqgBQjdT%2BDEyQm2OGi%2FBovsaCvTTxqAHdIQP9wqXY7g%2BEnLfbb4BM6I1%2BS9yghNrIHSC0XpVII%2B%2FFR3y70kom3L4%2BN0nsloyzYcec1egXHY7%2FQPhWuSk%2BIrzDnfUL1jZtoipuBY4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5649036064%2F4122860c3c59f27ddcf0e528b4e245b2%2Fvideoplayback__2_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5649036064/4122860c3c59f27ddcf0e528b4e245b2/videoplayback__2_.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fb7B93CNXpxePtjYfV1MVxsLy%2B6jFe1ViLMYcmpiDkH5md5kUrZXUXyzIOp0JgeW%2FGVjEgExogJk9SWz%2F23sd05U1uO5vDJWFgtLTMpnCRyG5abQcfBQ9RcZk9xEiMn%2BKtDFduTjHj1crIRjSckCmdzPIDkik7gY9uzvH0oGmpk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5649036064%2F4122860c3c59f27ddcf0e528b4e245b2%2Fvideoplayback__2_.mp4)
 
-#### コメント (4)
-- **Aira🍒⛸️** (05/14 22:57): いいね
-- **ひーーーーまーーーーーー** (05/15 07:03): めっちゃいい
-- **Aira🍒⛸️** (05/15 09:50): うん
-- **＾＿＾** (05/16 02:00): うんうん
+#### Comments (4)
+- **Aira🍒⛸️** (May 14, 2026 10:57pm): いいね
+- **ひーーーーまーーーーーー** (May 15, 2026 07:03am): めっちゃいい
+- **Aira🍒⛸️** (May 15, 2026 09:50am): うん
+- **＾＿＾** (May 16, 2026 02:00am): うんうん
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/14 12:39
-- **更新日（UTC）:** 05/14 12:39
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 14, 2026 12:39pm
+- **Updated At (UTC):** May 14, 2026 12:39pm
 
 ---
 
 ### 17. Spotify聞けるとこないですか
-**作成者:** ワラビノ
+**Author:** ワラビノ
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/14 04:21
-- **更新日（UTC）:** 05/14 04:21
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 14, 2026 04:21am
+- **Updated At (UTC):** May 14, 2026 04:21am
 
 ---
 
 ### 18. ギラギラ  Adoカバー
-**作成者:** Aira🍒⛸️ (s1846146)
+**Author:** Aira🍒⛸️ (s1846146)
 
 <p>下手くそ注意⚠️</p><p>消した</p>
 
-#### コメント (3)
-- **にんじん** (05/13 11:17): うっま！？
-- **Aira🍒⛸️** (05/13 11:17): ど？
-- **Aira🍒⛸️** (05/13 12:02): あざっす！
+#### Comments (3)
+- **にんじん** (May 13, 2026 11:17am): うっま！？
+- **Aira🍒⛸️** (May 13, 2026 11:17am): ど？
+- **Aira🍒⛸️** (May 13, 2026 12:02pm): あざっす！
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 10:54
-- **更新日（UTC）:** 05/14 02:22
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 10:54am
+- **Updated At (UTC):** May 14, 2026 02:22am
 
 ---
 
 ### 19. かっこいい曲
-**作成者:** m.i.b (6355029)
+**Author:** m.i.b (6355029)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5284280134/d29241b64b4faedfc1d420363e215f99/videoplayback__5_.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dUhF8kpgL2U%2Fph5cKWyuXokM2Z%2Fui5QqjUq2Oi6Ta4PahsBo6ABY96HALoRQejC%2FtTJdFguBr8YL%2B561X53bAWsnxO2VQWoO3Q6WR%2FEbDmWzgaiYQK8fhWdA5tReOKX3BQV%2F9RzJ9zuLuNseD%2B4TjFdl0Ipub%2FXTK65FSWr0nPE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5284280134%2Fd29241b64b4faedfc1d420363e215f99%2Fvideoplayback__5_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5284280134/d29241b64b4faedfc1d420363e215f99/videoplayback__5_.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qoqf66LN5lp4Hi2gIiK2jkS%2BqPzU0jLLPzfsq21WyOiDJIOSlX8w8rkZ0Aur%2FqIXxzRseIHalWAcIL%2B33%2BtVl042R4emrNP0skz%2BL3paRS3ZhgKh2g1ZSOGHTqAVcFMF0O0glXUxyfYPkqwVXeI8%2FKOxc045TRJFI0Se5RJWHM8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5284280134%2Fd29241b64b4faedfc1d420363e215f99%2Fvideoplayback__5_.mp4)
 
-#### コメント (1)
-- **ウラガンキンのティムチーズ** (05/12 07:44): パドレットで動画を置く方法を教えてください
+#### Comments (1)
+- **ウラガンキンのティムチーズ** (May 12, 2026 07:44am): パドレットで動画を置く方法を教えてください
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/11 00:15
-- **更新日（UTC）:** 05/11 00:15
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 11, 2026 12:15am
+- **Updated At (UTC):** May 11, 2026 12:15am
 
 ---
 
 ### 20. Heartache
-**作成者:** へーい (22719059)
+**Author:** へーい (22719059)
 
 <p>ワンオク聞かんやつは非国民や</p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4118697535/c545520c0522a641a204d65f7d0d0c8d/ONE_OK_ROCK___Heartache__Studio_Jam_Session_.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=w344lt%2BwrErYDqD%2FTdL5sRSBe7tfBD4zNdnTjDLxp2%2F1vebDUScYg9skIAH%2F5tcSAufiSdJfwjiymyBV4HkSB1jsqNTSu0rSzOFlndMG4a%2BBotqbunStIb0xKZEfFwMWLMGqbSEbwEhdQv79RMZe1uZLCX0JPl9U6cwvQ%2B5ZpRs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4118697535%2Fc545520c0522a641a204d65f7d0d0c8d%2FONE_OK_ROCK___Heartache__Studio_Jam_Session_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4118697535/c545520c0522a641a204d65f7d0d0c8d/ONE_OK_ROCK___Heartache__Studio_Jam_Session_.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=00oUAWFk82J%2B8u75cI5ugmof13L9RkRnOHuoZoG7en0azj%2FiCJVAlFcVCZ2RsQj4wsdYFPA9rgjN8nf4lqPUhWUFcJ%2Ba4t229a4vXNuWhfiHtjYx8Ilu6bVp9IMLZRfqGJ%2FkG1W7tzM3g7IB0NjMuIpusbywu8qpLNyA2l6992M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4118697535%2Fc545520c0522a641a204d65f7d0d0c8d%2FONE_OK_ROCK___Heartache__Studio_Jam_Session_.mp4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/07 10:12
-- **更新日（UTC）:** 05/07 10:12
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 07, 2026 10:12am
+- **Updated At (UTC):** May 07, 2026 10:12am
 
 ---
 
 ### 21. セレナーデ
-**作成者:** ふっじー
+**Author:** ふっじー
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5585137555/6f4e6297be7cf7b2b3c22ed987cd053d/videoplayback__7_.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=iHbzKpGgl9nj5yqAM21wy9otrVw8T0RJ4KZmpU5KsdHGsylNavwO7ROgSZeKmyMJVBxcHJ%2B0Ml21urBdw4nJBF%2BIrO%2FxXGTSJKRAR3PvmYSu706fk4b95wmb9wNqIiLSD0YmpHuLx40DVi0rFCFQQJmRPk7hjSRDPjP6GscE%2Ftk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585137555%2F6f4e6297be7cf7b2b3c22ed987cd053d%2Fvideoplayback__7_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5585137555/6f4e6297be7cf7b2b3c22ed987cd053d/videoplayback__7_.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rwe5ZQy4jlMm7cJp6Ie21s9jkkG55LcF44RgT9lMvWg6AMfC078AyFzT%2FbU%2BoN%2Bbi0%2BtTNrlV03UDoTEwTCOxLBNcYkZ9Vdiu24SPsRrGsuIIwsOmHBXNEAbMOociRFFdO5BL1wuDVEFDjbKsHdjzPfDrWM6JTIOAFpFyWmRHqU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585137555%2F6f4e6297be7cf7b2b3c22ed987cd053d%2Fvideoplayback__7_.mp4)
 
-#### コメント (4)
-- **にんじん** (05/04 07:14): 最高！！
-- **ふっじー** (05/04 07:19): それはよかった！
-- **ふっじー** (05/04 07:19): 他にも欲しいものあったらお願いします
-- **ふっじー** (05/04 07:19): 何個でもいいよー
+#### Comments (4)
+- **にんじん** (May 04, 2026 07:14am): 最高！！
+- **ふっじー** (May 04, 2026 07:19am): それはよかった！
+- **ふっじー** (May 04, 2026 07:19am): 他にも欲しいものあったらお願いします
+- **ふっじー** (May 04, 2026 07:19am): 何個でもいいよー
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/04 07:12
-- **更新日（UTC）:** 05/04 07:12
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 04, 2026 07:12am
+- **Updated At (UTC):** May 04, 2026 07:12am
 
 ---
 
 ### 22. 「好きだから。」です！
-**作成者:** ゆーりんち
+**Author:** ゆーりんち
 
 <p>いい曲だよね！これがうちとすきぴだったらいいのに、、、</p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5585861940/333c210937325dfb26b6bb637259071b/videoplayback_3.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xJVpFXfY6HfWdO2dCJuZWWOEvysrr4reMstOzm2cHD3Oi2pkpO0%2By3u1vJpFbNySk5iVh9JYT7mZEoRXE1cHx1pJW6mAbNNOR6UIBAYu9HxHKKMsVl9wlGEcctITe5Nh2J0ZDbUVStOls9EuUbaqAqnAtYfXZAGCuGLdZmEq7ME%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585861940%2F333c210937325dfb26b6bb637259071b%2Fvideoplayback_3.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5585861940/333c210937325dfb26b6bb637259071b/videoplayback_3.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mO0ZTDs3PH3koj3N3k9dQNeYBv5zHAvstbevVhLgz2v0TqmdizedKtYGiWGMw8se2fqxLagvdl8p8yjRfWOdsiM0BvaT8VviIteQgZfhyX9zw0TN8FkjR6IFOyYeQnA9qRgZ8BYWyfxf%2BJvxeNU3Quuv%2BHO%2F5b%2Bv0eVtyRosF7o%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585861940%2F333c210937325dfb26b6bb637259071b%2Fvideoplayback_3.mp4)
 
-#### コメント (203)
-- **ふっじー** (05/04 02:41): wwですね
-- **ふっじー** (05/04 02:43): 僕も僕と好きな人だといいです...
-- **ふっじー** (05/04 02:45): けどこの曲と違うところがいくつかありますね
-- **ゆーりんち** (05/04 03:14): そんなのわからないよ！りょうおもいかもしれないよ！一緒に頑張ろう！
-- **ふっじー** (05/04 03:27): けど...
-- **ふっじー** (05/04 03:27): まあ
-- **ふっじー** (05/04 03:27): 頑張りましょう！
-- **ふっじー** (05/04 03:30): いや...けど
-- **ふっじー** (05/04 03:31): もう付き合ってるんよな...
-- **ふっじー** (05/04 03:31): 俺は今も後悔があります「自分で告白したかったな」と思うことが良くあります...
-- **ゆーりんち** (05/04 03:37): o h…
-- **ゆーりんち** (05/04 03:37): 今から自分で告白したら変わりない！
-- **ゆーりんち** (05/04 03:38): と思う
-- **ゆーりんち** (05/04 03:49): えっやば
-- **ゆーりんち** (05/04 03:49): 嬉しいことあった
-- **ふっじー** (05/04 03:50): 聞かせて聞かせてー
-- **ゆーりんち** (05/04 03:50): ガチかまじで気づかんだ
-- **ゆーりんち** (05/04 03:51): えっとねついさっき好きぴに気持ち伝えられてガチ嬉しい
-- **ふっじー** (05/04 03:51): ええなぁ！
-- **ふっじー** (05/04 03:52): どうやって答えるの？！
-- **ふっじー** (05/04 03:52): 決まってるよね！
-- **ゆーりんち** (05/04 03:52): ？？？
-- **ふっじー** (05/04 03:52): 返事はなんて答えるの？
-- **ゆーりんち** (05/04 03:53): もちろん一択
-- **ふっじー** (05/04 03:53): ですよね
-- **ゆーりんち** (05/04 03:53): うん！
-- **ゆーりんち** (05/04 03:53): めっちゃ嬉しい！
-- **ふっじー** (05/04 03:54): 俺気持ち伝えられた日4時間心臓ドクンドクンしてましたね
-- **ゆーりんち** (05/04 03:55): おぉ〜それぐらい好きってことじゃん！
-- **ゆーりんち** (05/04 03:56): やばない！？ 
-- **ふっじー** (05/04 03:56): やばい！
-- **ゆーりんち** (05/04 03:56): 嬉しすぎる！
-- **ふっじー** (05/04 03:56): 青春ですね！
-- **ゆーりんち** (05/04 03:57): よかった〜
-- **ゆーりんち** (05/04 03:57): うちから気持ち伝えたらよかったな〜
-- **ふっじー** (05/04 03:57): ww
-- **ふっじー** (05/04 03:58): やっぱりそう思いますよね
-- **ゆーりんち** (05/04 03:58): うん！
-- **ふっじー** (05/04 03:58): ちょっと話し変えてもいいですか？
-- **ゆーりんち** (05/04 03:59): うん！
-- **ふっじー** (05/04 03:59): teamsってアプリやってません？
-- **ゆーりんち** (05/04 03:59): なにそれ？
-- **ふっじー** (05/04 04:00): 携帯やPCなどの連絡ツールなんですけど
-- **ゆーりんち** (05/04 04:00): やってたけどもう今やってない
-- **ふっじー** (05/04 04:01): まじすかなら大丈夫です！話変えちゃってすみません😔
-- **ゆーりんち** (05/04 04:01): ごめんね
-- **ゆーりんち** (05/04 04:02): なにしようとしてたん？
-- **ふっじー** (05/04 04:02): ここで話してると友達に彼女いることバレちゃうから違うとこで話そうかなと思って
-- **ゆーりんち** (05/04 04:02): あっオッケーなら
-- **ゆーりんち** (05/04 04:03): https://p2p.mirotalk.com/join/35786FastPig
-- **ゆーりんち** (05/04 04:03): ここで話そう
-- **ふっじー** (05/04 04:03): すみません学パソだから開けないんですよ
-- **ゆーりんち** (05/04 04:03): まじか〜
-- **ゆーりんち** (05/04 04:05): どうしよう
-- **ふっじー** (05/04 04:05): これひらけます？https://messageapp-cvxy.onrender.com/
-- **ゆーりんち** (05/04 04:06): 無理だ〜ごめん
-- **ふっじー** (05/04 04:06): まじか〜どうしよ
-- **ふっじー** (05/04 04:06): まあここでいっか
-- **ゆーりんち** (05/04 04:06): いいの？
-- **ふっじー** (05/04 04:07): まあバレても多分いじられるだけだと思うからいっしょ！
-- **ゆーりんち** (05/04 04:07): ダメじゃね？
-- **ふっじー** (05/04 04:07): ダイジョブダイジョブ
-- **ゆーりんち** (05/04 04:08): ほんと？無理しないでね
-- **ふっじー** (05/04 04:08): いつも通りいつも通りその人の名前でいつも呼ばれてるからダイジョブ
-- **ゆーりんち** (05/04 04:08): 大丈夫なんだ
-- **ふっじー** (05/04 04:08): 無理はしないよ彼女にも負担かかっちゃうからね
-- **ゆーりんち** (05/04 04:09): 彼女思いのいい人だ
-- **ゆーりんち** (05/04 04:09): ならいいんだけどね！
-- **ゆーりんち** (05/04 04:10): 彼女とは、どんな感じなん？
-- **ふっじー** (05/04 04:11): クラス変わっちゃったから話すのは学校帰りと昼休みと5分休みぐらいかな
-- **ふっじー** (05/04 04:11): 部活がない日は一緒に帰ってる
-- **ゆーりんち** (05/04 04:11): すご！ラブラブやん
-- **ゆーりんち** (05/04 04:12): デートってどうしてるの？
-- **ふっじー** (05/04 04:12): いつもなら俺は呼んでもらってる
-- **ゆーりんち** (05/04 04:13): まじか〜
-- **ふっじー** (05/04 04:13): デートと言うより話せる時間を作るに近いかな
-- **ゆーりんち** (05/04 04:13): あーね
-- **ふっじー** (05/04 04:14): 話してると気分上がるんよ
-- **ゆーりんち** (05/04 04:14): わかる
-- **ゆーりんち** (05/04 04:15): 高校？
-- **ふっじー** (05/04 04:15): 中学
-- **ゆーりんち** (05/04 04:15): 何年？
-- **ゆーりんち** (05/04 04:16): うちは、中学1年
-- **ふっじー** (05/04 04:16): 俺2だね
-- **ゆーりんち** (05/04 04:17): うわー年上だった
-- **ふっじー** (05/04 04:17): 何県？
-- **ふっじー** (05/04 04:17): 俺は道民
-- **ゆーりんち** (05/04 04:18): 三重やね
-- **ゆーりんち** (05/04 04:18): けっこー離れてる
-- **ふっじー** (05/04 04:19): だね
-- **ゆーりんち** (05/04 04:19): ね！
-- **ゆーりんち** (05/04 04:19): 敬語にしよ！
-- **ふっじー** (05/04 04:19): いいですよ
-- **ゆーりんち** (05/04 04:19): うちだけね！
-- **ふっじー** (05/04 04:20): いや全然いいよ普通のほうがいいと思うよ
-- **ゆーりんち** (05/04 04:20): フッジーくんはしなくていいですよ
-- **ゆーりんち** (05/04 04:20): えっでも流石に
-- **ふっじー** (05/04 04:21): 問題ないよ〜
-- **ゆーりんち** (05/04 04:21): 本当ですか？
-- **ふっじー** (05/04 04:21): ごめん
-- **ゆーりんち** (05/04 04:21): どうしたん？
-- **ふっじー** (05/04 04:21): 友達きちゃったあら行くんだけど
-- **ふっじー** (05/04 04:21): 何時なら話せる？
-- **ゆーりんち** (05/04 04:22): うーんと何時でも
-- **ふっじー** (05/04 04:22): 帰り6時とかなんで
-- **ゆーりんち** (05/04 04:22): オッケー
-- **ふっじー** (05/04 04:22): 6時以降に返信しとくので
-- **ゆーりんち** (05/04 04:22): うん
-- **ふっじー** (05/04 04:22): 質問しといてもらってもいいですよ〜
-- **ゆーりんち** (05/04 04:22): いってら
-- **ふっじー** (05/04 04:23): すみません行ってきます
-- **ゆーりんち** (05/04 04:23): 質問
-- **ゆーりんち** (05/04 04:23): いってら
-- **ふっじー** (05/04 05:35): 質問書いといてくれれば返信しときますね
-- **ゆーりんち** (05/04 05:55): うんありがとう
-- **ゆーりんち** (05/04 05:55): えっと彼女どんな子？
-- **ふっじー** (05/04 05:59): 話しやすい子
-- **ゆーりんち** (05/04 06:03): おぉ〜いいね！絶対モテる子やん
-- **ふっじー** (05/04 06:04): 学年内でもTOP2に入れるぐらい喋るね
-- **ゆーりんち** (05/04 06:04): 彼女とかさ彼氏が可愛く見えたりかっこよく見えるのって幻覚かな？
-- **ふっじー** (05/04 06:04): 幻覚じゃないよ！
-- **ゆーりんち** (05/04 06:04): すごっ
-- **ゆーりんち** (05/04 06:06): だよね！
-- **ゆーりんち** (05/04 06:06): よかったうちだけかと思った
-- **ふっじー** (05/04 06:06): そんなわけない
-- **ゆーりんち** (05/04 06:06): よね！
-- **ゆーりんち** (05/04 06:07): ガチ周りの人が彼氏ブスだから嫌だ見たいに言ってる人多いから心配だったんだ！
-- **ふっじー** (05/04 06:08): 俺の彼女のこと　あいつのことどこがいいのって言ってくるから返し方に困ってる
-- **ゆーりんち** (05/04 06:09): あぁ〜あるある
-- **ふっじー** (05/04 06:09): 同じこと思ってる人いてよかった〜
-- **ゆーりんち** (05/04 06:09): うちも言われたもん！
-- **ゆーりんち** (05/04 06:09): それな！
-- **ふっじー** (05/04 06:09): 返し方困らん？
-- **ゆーりんち** (05/04 06:09): そう？
-- **ふっじー** (05/04 06:10): ふつうにいいとこ言うときとめっちゃこまるときがある
-- **ゆーりんち** (05/04 06:11): だって感じ方は自由だし、自分が思ってることだからよくない？っていつも怒り気味で返してるwww
-- **ふっじー** (05/04 06:11): 今度使ってみます！
-- **ゆーりんち** (05/04 06:11): うん！
-- **ゆーりんち** (05/04 06:13): まじありえん
-- **ふっじー** (05/04 06:14): どうしたの？
-- **ゆーりんち** (05/04 06:14): 人のことブスっていうぐらいならそっちも鏡見てから言えよなって感じw
-- **ゆーりんち** (05/04 06:14): これ友だちの話ね！
-- **ふっじー** (05/04 06:15): wwそれなほぼ言ってる人鏡みたほうがいいし自分を見てから言ってほしい
-- **ゆーりんち** (05/04 06:15): な！
-- **ゆーりんち** (05/04 06:16): 可愛い子も性格終わってたら意味ないし
-- **ふっじー** (05/04 06:16): それもそう
-- **ふっじー** (05/04 06:17): 俺も彼女欲しかった時期に話しかけて性格探ってたもんw
-- **ゆーりんち** (05/04 06:17): www確かに大事！
-- **ゆーりんち** (05/04 06:18): みんな性格重視だからね！
-- **ゆーりんち** (05/04 06:18): 今は
-- **ゆーりんち** (05/04 06:19): 性格も良くて可愛い子だったら天使！
-- **ふっじー** (05/04 06:20): まじでそれ性格◎かわいい◎だったらまじで神
-- **ゆーりんち** (05/04 06:20): ね！
-- **ゆーりんち** (05/04 06:21): そんな子がいる学校に通っててよかったて思ってる
-- **ゆーりんち** (05/04 06:22): 性格悪い子が多いけど、今のクラスはほぼ文句しかない！
-- **ふっじー** (05/04 06:23): いまは女子はなせる人いないからな〜
-- **ふっじー** (05/04 06:24): 男子は悪くないけどね
-- **ゆーりんち** (05/04 06:25): どっちとも話せるけど、ガチ彼氏が一緒のクラスなのは、嬉しい！
-- **ゆーりんち** (05/04 06:25): なんで？
-- **ふっじー** (05/04 06:26): 女子は彼女以外あんまり喋らないし男子は話し合いができない人しかいないけど喋る人がいないときはまだいいからだね
-- **ゆーりんち** (05/04 06:27): あぁ〜ね！
-- **ゆーりんち** (05/04 06:27): やっぱ彼女思いのいい人だ！
-- **ゆーりんち** (05/04 06:30): は？
-- **ゆーりんち** (05/04 06:31): 今から一時間も塾とか嫌なんだが
-- **ゆーりんち** (05/04 06:31): 4時からのね！
-- **ゆーりんち** (05/04 06:31): うーわガチ終わた
-- **ふっじー** (05/04 06:32): 俺は1週間で塾やめた
-- **ゆーりんち** (05/04 06:32): まぁでも彼氏も一緒の塾だし、帰り一緒に帰ってくれるって言ってくれた！
-- **ゆーりんち** (05/04 06:32): えっまじ？
-- **ふっじー** (05/04 06:32): 青春だ〜よかったね！
-- **ゆーりんち** (05/04 06:33): まじ嬉しい！
-- **ふっじー** (05/04 06:33): 塾は宿題が多すぎてめんどくさくなった
-- **ゆーりんち** (05/04 06:33): わかる！
-- **ふっじー** (05/04 06:34): 彼女は部活終わりと塾終わりは呼んでくれる日が多いね
-- **ゆーりんち** (05/04 06:34): 前まで塾が嫌だったけど、今は、彼氏が行き帰りを一緒にしてくれるって言ってくれて、ガチ嬉しい！
-- **ゆーりんち** (05/04 06:35): 青春だ〜
-- **ふっじー** (05/04 06:35): 青春ですね〜
-- **ゆーりんち** (05/04 06:35): そっちもね！
-- **ふっじー** (05/04 06:35): そうだね
-- **ゆーりんち** (05/04 06:36): だよね！
-- **ゆーりんち** (05/04 06:36): まぁでも時々来る、塾の休憩時間とかに
-- **ゆーりんち** (05/04 06:37): じゃぁ行ってきます！
-- **ふっじー** (05/04 06:37): 行っといでー！
-- **ゆーりんち** (05/04 06:37): はーい
-- **ゆーりんち** (05/04 06:37): 行ってきます！
-- **ゆーりんち** (05/04 07:11): 休憩きた〜
-- **ゆーりんち** (05/04 07:11): もう塾死ぬ
-- **ゆーりんち** (05/04 07:11): 30分まで休憩
-- **ふっじー** (05/04 07:14): 塾はしゃあない　ガンバ！
-- **ゆーりんち** (05/04 07:14): でもでも彼氏が手握ってくれて、暖かかった！
-- **ゆーりんち** (05/04 07:15): 頑張る！
-- **ゆーりんち** (05/04 07:15): あと15分彼氏と話してくる
-- **ふっじー** (05/04 07:16): おけです
-- **ゆーりんち** (05/04 07:16): バイバイ！次は5時ぐらいかな
-- **ふっじー** (05/04 07:16): おけです
-- **ゆーりんち** (05/04 07:16): ばいびー頑張ろ
-- **ゆーりんち** (05/04 07:20): 悲し
-- **ふっじー（犬系）** (05/04 07:39): どうしたの？
-- **ふっじー（犬系）** (05/04 07:39): 話聞くよ
-- **ゆーりんち** (05/04 07:56): 彼氏が付き合ったのバレるからやめてって言ってきた
-- **ふっじー（犬系）** (05/04 08:22): 辛いね
-- **ゆーりんち** (05/04 08:24): 辛いよ
-- **人間** (05/07 09:40): この曲大好き
+#### Comments (203)
+- **ふっじー** (May 04, 2026 02:41am): wwですね
+- **ふっじー** (May 04, 2026 02:43am): 僕も僕と好きな人だといいです...
+- **ふっじー** (May 04, 2026 02:45am): けどこの曲と違うところがいくつかありますね
+- **ゆーりんち** (May 04, 2026 03:14am): そんなのわからないよ！りょうおもいかもしれないよ！一緒に頑張ろう！
+- **ふっじー** (May 04, 2026 03:27am): けど...
+- **ふっじー** (May 04, 2026 03:27am): まあ
+- **ふっじー** (May 04, 2026 03:27am): 頑張りましょう！
+- **ふっじー** (May 04, 2026 03:30am): いや...けど
+- **ふっじー** (May 04, 2026 03:31am): もう付き合ってるんよな...
+- **ふっじー** (May 04, 2026 03:31am): 俺は今も後悔があります「自分で告白したかったな」と思うことが良くあります...
+- **ゆーりんち** (May 04, 2026 03:37am): o h…
+- **ゆーりんち** (May 04, 2026 03:37am): 今から自分で告白したら変わりない！
+- **ゆーりんち** (May 04, 2026 03:38am): と思う
+- **ゆーりんち** (May 04, 2026 03:49am): えっやば
+- **ゆーりんち** (May 04, 2026 03:49am): 嬉しいことあった
+- **ふっじー** (May 04, 2026 03:50am): 聞かせて聞かせてー
+- **ゆーりんち** (May 04, 2026 03:50am): ガチかまじで気づかんだ
+- **ゆーりんち** (May 04, 2026 03:51am): えっとねついさっき好きぴに気持ち伝えられてガチ嬉しい
+- **ふっじー** (May 04, 2026 03:51am): ええなぁ！
+- **ふっじー** (May 04, 2026 03:52am): どうやって答えるの？！
+- **ふっじー** (May 04, 2026 03:52am): 決まってるよね！
+- **ゆーりんち** (May 04, 2026 03:52am): ？？？
+- **ふっじー** (May 04, 2026 03:52am): 返事はなんて答えるの？
+- **ゆーりんち** (May 04, 2026 03:53am): もちろん一択
+- **ふっじー** (May 04, 2026 03:53am): ですよね
+- **ゆーりんち** (May 04, 2026 03:53am): うん！
+- **ゆーりんち** (May 04, 2026 03:53am): めっちゃ嬉しい！
+- **ふっじー** (May 04, 2026 03:54am): 俺気持ち伝えられた日4時間心臓ドクンドクンしてましたね
+- **ゆーりんち** (May 04, 2026 03:55am): おぉ〜それぐらい好きってことじゃん！
+- **ゆーりんち** (May 04, 2026 03:56am): やばない！？ 
+- **ふっじー** (May 04, 2026 03:56am): やばい！
+- **ゆーりんち** (May 04, 2026 03:56am): 嬉しすぎる！
+- **ふっじー** (May 04, 2026 03:56am): 青春ですね！
+- **ゆーりんち** (May 04, 2026 03:57am): よかった〜
+- **ゆーりんち** (May 04, 2026 03:57am): うちから気持ち伝えたらよかったな〜
+- **ふっじー** (May 04, 2026 03:57am): ww
+- **ふっじー** (May 04, 2026 03:58am): やっぱりそう思いますよね
+- **ゆーりんち** (May 04, 2026 03:58am): うん！
+- **ふっじー** (May 04, 2026 03:58am): ちょっと話し変えてもいいですか？
+- **ゆーりんち** (May 04, 2026 03:59am): うん！
+- **ふっじー** (May 04, 2026 03:59am): teamsってアプリやってません？
+- **ゆーりんち** (May 04, 2026 03:59am): なにそれ？
+- **ふっじー** (May 04, 2026 04:00am): 携帯やPCなどの連絡ツールなんですけど
+- **ゆーりんち** (May 04, 2026 04:00am): やってたけどもう今やってない
+- **ふっじー** (May 04, 2026 04:01am): まじすかなら大丈夫です！話変えちゃってすみません😔
+- **ゆーりんち** (May 04, 2026 04:01am): ごめんね
+- **ゆーりんち** (May 04, 2026 04:02am): なにしようとしてたん？
+- **ふっじー** (May 04, 2026 04:02am): ここで話してると友達に彼女いることバレちゃうから違うとこで話そうかなと思って
+- **ゆーりんち** (May 04, 2026 04:02am): あっオッケーなら
+- **ゆーりんち** (May 04, 2026 04:03am): https://p2p.mirotalk.com/join/35786FastPig
+- **ゆーりんち** (May 04, 2026 04:03am): ここで話そう
+- **ふっじー** (May 04, 2026 04:03am): すみません学パソだから開けないんですよ
+- **ゆーりんち** (May 04, 2026 04:03am): まじか〜
+- **ゆーりんち** (May 04, 2026 04:05am): どうしよう
+- **ふっじー** (May 04, 2026 04:05am): これひらけます？https://messageapp-cvxy.onrender.com/
+- **ゆーりんち** (May 04, 2026 04:06am): 無理だ〜ごめん
+- **ふっじー** (May 04, 2026 04:06am): まじか〜どうしよ
+- **ふっじー** (May 04, 2026 04:06am): まあここでいっか
+- **ゆーりんち** (May 04, 2026 04:06am): いいの？
+- **ふっじー** (May 04, 2026 04:07am): まあバレても多分いじられるだけだと思うからいっしょ！
+- **ゆーりんち** (May 04, 2026 04:07am): ダメじゃね？
+- **ふっじー** (May 04, 2026 04:07am): ダイジョブダイジョブ
+- **ゆーりんち** (May 04, 2026 04:08am): ほんと？無理しないでね
+- **ふっじー** (May 04, 2026 04:08am): いつも通りいつも通りその人の名前でいつも呼ばれてるからダイジョブ
+- **ゆーりんち** (May 04, 2026 04:08am): 大丈夫なんだ
+- **ふっじー** (May 04, 2026 04:08am): 無理はしないよ彼女にも負担かかっちゃうからね
+- **ゆーりんち** (May 04, 2026 04:09am): 彼女思いのいい人だ
+- **ゆーりんち** (May 04, 2026 04:09am): ならいいんだけどね！
+- **ゆーりんち** (May 04, 2026 04:10am): 彼女とは、どんな感じなん？
+- **ふっじー** (May 04, 2026 04:11am): クラス変わっちゃったから話すのは学校帰りと昼休みと5分休みぐらいかな
+- **ふっじー** (May 04, 2026 04:11am): 部活がない日は一緒に帰ってる
+- **ゆーりんち** (May 04, 2026 04:11am): すご！ラブラブやん
+- **ゆーりんち** (May 04, 2026 04:12am): デートってどうしてるの？
+- **ふっじー** (May 04, 2026 04:12am): いつもなら俺は呼んでもらってる
+- **ゆーりんち** (May 04, 2026 04:13am): まじか〜
+- **ふっじー** (May 04, 2026 04:13am): デートと言うより話せる時間を作るに近いかな
+- **ゆーりんち** (May 04, 2026 04:13am): あーね
+- **ふっじー** (May 04, 2026 04:14am): 話してると気分上がるんよ
+- **ゆーりんち** (May 04, 2026 04:14am): わかる
+- **ゆーりんち** (May 04, 2026 04:15am): 高校？
+- **ふっじー** (May 04, 2026 04:15am): 中学
+- **ゆーりんち** (May 04, 2026 04:15am): 何年？
+- **ゆーりんち** (May 04, 2026 04:16am): うちは、中学1年
+- **ふっじー** (May 04, 2026 04:16am): 俺2だね
+- **ゆーりんち** (May 04, 2026 04:17am): うわー年上だった
+- **ふっじー** (May 04, 2026 04:17am): 何県？
+- **ふっじー** (May 04, 2026 04:17am): 俺は道民
+- **ゆーりんち** (May 04, 2026 04:18am): 三重やね
+- **ゆーりんち** (May 04, 2026 04:18am): けっこー離れてる
+- **ふっじー** (May 04, 2026 04:19am): だね
+- **ゆーりんち** (May 04, 2026 04:19am): ね！
+- **ゆーりんち** (May 04, 2026 04:19am): 敬語にしよ！
+- **ふっじー** (May 04, 2026 04:19am): いいですよ
+- **ゆーりんち** (May 04, 2026 04:19am): うちだけね！
+- **ふっじー** (May 04, 2026 04:20am): いや全然いいよ普通のほうがいいと思うよ
+- **ゆーりんち** (May 04, 2026 04:20am): フッジーくんはしなくていいですよ
+- **ゆーりんち** (May 04, 2026 04:20am): えっでも流石に
+- **ふっじー** (May 04, 2026 04:21am): 問題ないよ〜
+- **ゆーりんち** (May 04, 2026 04:21am): 本当ですか？
+- **ふっじー** (May 04, 2026 04:21am): ごめん
+- **ゆーりんち** (May 04, 2026 04:21am): どうしたん？
+- **ふっじー** (May 04, 2026 04:21am): 友達きちゃったあら行くんだけど
+- **ふっじー** (May 04, 2026 04:21am): 何時なら話せる？
+- **ゆーりんち** (May 04, 2026 04:22am): うーんと何時でも
+- **ふっじー** (May 04, 2026 04:22am): 帰り6時とかなんで
+- **ゆーりんち** (May 04, 2026 04:22am): オッケー
+- **ふっじー** (May 04, 2026 04:22am): 6時以降に返信しとくので
+- **ゆーりんち** (May 04, 2026 04:22am): うん
+- **ふっじー** (May 04, 2026 04:22am): 質問しといてもらってもいいですよ〜
+- **ゆーりんち** (May 04, 2026 04:22am): いってら
+- **ふっじー** (May 04, 2026 04:23am): すみません行ってきます
+- **ゆーりんち** (May 04, 2026 04:23am): 質問
+- **ゆーりんち** (May 04, 2026 04:23am): いってら
+- **ふっじー** (May 04, 2026 05:35am): 質問書いといてくれれば返信しときますね
+- **ゆーりんち** (May 04, 2026 05:55am): うんありがとう
+- **ゆーりんち** (May 04, 2026 05:55am): えっと彼女どんな子？
+- **ふっじー** (May 04, 2026 05:59am): 話しやすい子
+- **ゆーりんち** (May 04, 2026 06:03am): おぉ〜いいね！絶対モテる子やん
+- **ふっじー** (May 04, 2026 06:04am): 学年内でもTOP2に入れるぐらい喋るね
+- **ゆーりんち** (May 04, 2026 06:04am): 彼女とかさ彼氏が可愛く見えたりかっこよく見えるのって幻覚かな？
+- **ふっじー** (May 04, 2026 06:04am): 幻覚じゃないよ！
+- **ゆーりんち** (May 04, 2026 06:04am): すごっ
+- **ゆーりんち** (May 04, 2026 06:06am): だよね！
+- **ゆーりんち** (May 04, 2026 06:06am): よかったうちだけかと思った
+- **ふっじー** (May 04, 2026 06:06am): そんなわけない
+- **ゆーりんち** (May 04, 2026 06:06am): よね！
+- **ゆーりんち** (May 04, 2026 06:07am): ガチ周りの人が彼氏ブスだから嫌だ見たいに言ってる人多いから心配だったんだ！
+- **ふっじー** (May 04, 2026 06:08am): 俺の彼女のこと　あいつのことどこがいいのって言ってくるから返し方に困ってる
+- **ゆーりんち** (May 04, 2026 06:09am): あぁ〜あるある
+- **ふっじー** (May 04, 2026 06:09am): 同じこと思ってる人いてよかった〜
+- **ゆーりんち** (May 04, 2026 06:09am): うちも言われたもん！
+- **ゆーりんち** (May 04, 2026 06:09am): それな！
+- **ふっじー** (May 04, 2026 06:09am): 返し方困らん？
+- **ゆーりんち** (May 04, 2026 06:09am): そう？
+- **ふっじー** (May 04, 2026 06:10am): ふつうにいいとこ言うときとめっちゃこまるときがある
+- **ゆーりんち** (May 04, 2026 06:11am): だって感じ方は自由だし、自分が思ってることだからよくない？っていつも怒り気味で返してるwww
+- **ふっじー** (May 04, 2026 06:11am): 今度使ってみます！
+- **ゆーりんち** (May 04, 2026 06:11am): うん！
+- **ゆーりんち** (May 04, 2026 06:13am): まじありえん
+- **ふっじー** (May 04, 2026 06:14am): どうしたの？
+- **ゆーりんち** (May 04, 2026 06:14am): 人のことブスっていうぐらいならそっちも鏡見てから言えよなって感じw
+- **ゆーりんち** (May 04, 2026 06:14am): これ友だちの話ね！
+- **ふっじー** (May 04, 2026 06:15am): wwそれなほぼ言ってる人鏡みたほうがいいし自分を見てから言ってほしい
+- **ゆーりんち** (May 04, 2026 06:15am): な！
+- **ゆーりんち** (May 04, 2026 06:16am): 可愛い子も性格終わってたら意味ないし
+- **ふっじー** (May 04, 2026 06:16am): それもそう
+- **ふっじー** (May 04, 2026 06:17am): 俺も彼女欲しかった時期に話しかけて性格探ってたもんw
+- **ゆーりんち** (May 04, 2026 06:17am): www確かに大事！
+- **ゆーりんち** (May 04, 2026 06:18am): みんな性格重視だからね！
+- **ゆーりんち** (May 04, 2026 06:18am): 今は
+- **ゆーりんち** (May 04, 2026 06:19am): 性格も良くて可愛い子だったら天使！
+- **ふっじー** (May 04, 2026 06:20am): まじでそれ性格◎かわいい◎だったらまじで神
+- **ゆーりんち** (May 04, 2026 06:20am): ね！
+- **ゆーりんち** (May 04, 2026 06:21am): そんな子がいる学校に通っててよかったて思ってる
+- **ゆーりんち** (May 04, 2026 06:22am): 性格悪い子が多いけど、今のクラスはほぼ文句しかない！
+- **ふっじー** (May 04, 2026 06:23am): いまは女子はなせる人いないからな〜
+- **ふっじー** (May 04, 2026 06:24am): 男子は悪くないけどね
+- **ゆーりんち** (May 04, 2026 06:25am): どっちとも話せるけど、ガチ彼氏が一緒のクラスなのは、嬉しい！
+- **ゆーりんち** (May 04, 2026 06:25am): なんで？
+- **ふっじー** (May 04, 2026 06:26am): 女子は彼女以外あんまり喋らないし男子は話し合いができない人しかいないけど喋る人がいないときはまだいいからだね
+- **ゆーりんち** (May 04, 2026 06:27am): あぁ〜ね！
+- **ゆーりんち** (May 04, 2026 06:27am): やっぱ彼女思いのいい人だ！
+- **ゆーりんち** (May 04, 2026 06:30am): は？
+- **ゆーりんち** (May 04, 2026 06:31am): 今から一時間も塾とか嫌なんだが
+- **ゆーりんち** (May 04, 2026 06:31am): 4時からのね！
+- **ゆーりんち** (May 04, 2026 06:31am): うーわガチ終わた
+- **ふっじー** (May 04, 2026 06:32am): 俺は1週間で塾やめた
+- **ゆーりんち** (May 04, 2026 06:32am): まぁでも彼氏も一緒の塾だし、帰り一緒に帰ってくれるって言ってくれた！
+- **ゆーりんち** (May 04, 2026 06:32am): えっまじ？
+- **ふっじー** (May 04, 2026 06:32am): 青春だ〜よかったね！
+- **ゆーりんち** (May 04, 2026 06:33am): まじ嬉しい！
+- **ふっじー** (May 04, 2026 06:33am): 塾は宿題が多すぎてめんどくさくなった
+- **ゆーりんち** (May 04, 2026 06:33am): わかる！
+- **ふっじー** (May 04, 2026 06:34am): 彼女は部活終わりと塾終わりは呼んでくれる日が多いね
+- **ゆーりんち** (May 04, 2026 06:34am): 前まで塾が嫌だったけど、今は、彼氏が行き帰りを一緒にしてくれるって言ってくれて、ガチ嬉しい！
+- **ゆーりんち** (May 04, 2026 06:35am): 青春だ〜
+- **ふっじー** (May 04, 2026 06:35am): 青春ですね〜
+- **ゆーりんち** (May 04, 2026 06:35am): そっちもね！
+- **ふっじー** (May 04, 2026 06:35am): そうだね
+- **ゆーりんち** (May 04, 2026 06:36am): だよね！
+- **ゆーりんち** (May 04, 2026 06:36am): まぁでも時々来る、塾の休憩時間とかに
+- **ゆーりんち** (May 04, 2026 06:37am): じゃぁ行ってきます！
+- **ふっじー** (May 04, 2026 06:37am): 行っといでー！
+- **ゆーりんち** (May 04, 2026 06:37am): はーい
+- **ゆーりんち** (May 04, 2026 06:37am): 行ってきます！
+- **ゆーりんち** (May 04, 2026 07:11am): 休憩きた〜
+- **ゆーりんち** (May 04, 2026 07:11am): もう塾死ぬ
+- **ゆーりんち** (May 04, 2026 07:11am): 30分まで休憩
+- **ふっじー** (May 04, 2026 07:14am): 塾はしゃあない　ガンバ！
+- **ゆーりんち** (May 04, 2026 07:14am): でもでも彼氏が手握ってくれて、暖かかった！
+- **ゆーりんち** (May 04, 2026 07:15am): 頑張る！
+- **ゆーりんち** (May 04, 2026 07:15am): あと15分彼氏と話してくる
+- **ふっじー** (May 04, 2026 07:16am): おけです
+- **ゆーりんち** (May 04, 2026 07:16am): バイバイ！次は5時ぐらいかな
+- **ふっじー** (May 04, 2026 07:16am): おけです
+- **ゆーりんち** (May 04, 2026 07:16am): ばいびー頑張ろ
+- **ゆーりんち** (May 04, 2026 07:20am): 悲し
+- **ふっじー（犬系）** (May 04, 2026 07:39am): どうしたの？
+- **ふっじー（犬系）** (May 04, 2026 07:39am): 話聞くよ
+- **ゆーりんち** (May 04, 2026 07:56am): 彼氏が付き合ったのバレるからやめてって言ってきた
+- **ふっじー（犬系）** (May 04, 2026 08:22am): 辛いね
+- **ゆーりんち** (May 04, 2026 08:24am): 辛いよ
+- **人間** (May 07, 2026 09:40am): この曲大好き
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/04 02:27
-- **更新日（UTC）:** 05/04 02:27
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 04, 2026 02:27am
+- **Updated At (UTC):** May 04, 2026 02:27am
 
 ---
 
 ### 23. Drive
-**作成者:** ふっじー
+**Author:** ふっじー
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5585137555/2417a25d8eda7470b7c7673ba108ba58/drive.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=jST3y43hUnDBdjlm%2Ba9sBFq70lEIR%2FifFHo99ehR7cKssh4r%2BGfGT9c13yWYWl5rbssoUs7eSOjWBCVxwPWUX2ozdA3cKstDdoe06kwcm0F4YBb14HC%2Fj%2BI%2Ba9aMGY9sVYgq%2FHxgahCnzWvLTszrTwtJiPQpZ%2Fp6lGxQj2b1BHU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585137555%2F2417a25d8eda7470b7c7673ba108ba58%2Fdrive.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5585137555/2417a25d8eda7470b7c7673ba108ba58/drive.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ZVufsRJ1u4B5j1P13HRjiQErnFWHbXwShBtqcG52f425%2Bm38VgQo%2B%2BdE61CKNMi0lZ0n440mt28LImWWStkJ24GEuRcymOAt6pgG5adV8atJsbZlJqbjDHZ4iiZ9ovN5w2BjFDOIEESAz5IdbjBkJgzuQJeRA4VcvwZcByEagbQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585137555%2F2417a25d8eda7470b7c7673ba108ba58%2Fdrive.mp4)
 
-#### コメント (6)
-- **ふっじー** (05/04 01:07): 画質すみません
-- **ほそかわせいや** (05/04 01:08): 大丈夫っす
-- **ふっじー** (05/04 01:08): よかったっす
-- **ふっじー** (05/04 01:12): 画質いい感じのあったら上げますね
-- **ふっじー** (05/04 02:55): まずい画質よかったら貼れないよー
-- **ふっじー** (05/04 02:55): こまった
+#### Comments (6)
+- **ふっじー** (May 04, 2026 01:07am): 画質すみません
+- **ほそかわせいや** (May 04, 2026 01:08am): 大丈夫っす
+- **ふっじー** (May 04, 2026 01:08am): よかったっす
+- **ふっじー** (May 04, 2026 01:12am): 画質いい感じのあったら上げますね
+- **ふっじー** (May 04, 2026 02:55am): まずい画質よかったら貼れないよー
+- **ふっじー** (May 04, 2026 02:55am): こまった
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/04 01:05
-- **更新日（UTC）:** 05/04 01:05
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 04, 2026 01:05am
+- **Updated At (UTC):** May 04, 2026 01:05am
 
 ---
 
 ### 24. YAJU&U
-**作成者:** ふっじー
+**Author:** ふっじー
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5585137555/4f04731e127a26882a12fb69bbe9277d/videoplayback__1_.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=x2Pk9XB8GzI1ftKMaBsfkI6osBP4C4pCjOwFeozM2dQhrE06yB%2F0KkSZbLmDw3hdDXMLjBXUF%2FjKZMCMSLUQzWmRhXYJfNpEnPGHPwdXODjzTDWuN9T1X60o3xohT9FbmKIgynqUYCw0e4TQKBLzomBx38SVXOUzFq6di33LyZA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585137555%2F4f04731e127a26882a12fb69bbe9277d%2Fvideoplayback__1_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5585137555/4f04731e127a26882a12fb69bbe9277d/videoplayback__1_.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=rVHNLyo4OUrFitesWFHx9oHkkJbsqvka4H%2F5VxS8yR7ZOf2a0l%2BYsZZJx58ZR7xv%2FwGDlBrJunqaGRcT%2F6pEkDmNpIm5e5VYSoR0w8KNRh2CvNsg2Nrdz9pHxpLTtafc8W96uRUAQqwCZd%2BFyNx1MZoHl%2FUN0h5FEU1oGaExOWg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585137555%2F4f04731e127a26882a12fb69bbe9277d%2Fvideoplayback__1_.mp4)
 
-#### コメント (3)
-- **ふっじー** (05/04 01:04): ひーーーーまーーーーーさんありがとうございます
-- **人間** (05/07 09:41): 何この曲
-- **ノクス** (05/12 05:19): デデドン！(絶望)
+#### Comments (3)
+- **ふっじー** (May 04, 2026 01:04am): ひーーーーまーーーーーさんありがとうございます
+- **人間** (May 07, 2026 09:41am): 何この曲
+- **ノクス** (May 12, 2026 05:19am): デデドン！(絶望)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/04 01:03
-- **更新日（UTC）:** 05/04 01:03
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 04, 2026 01:03am
+- **Updated At (UTC):** May 04, 2026 01:03am
 
 ---
 
 ### 25. 朝のヒカキンの庭であー
-**作成者:** ひーーーーまーーーーーー (114514yaju)
+**Author:** ひーーーーまーーーーーー (114514yaju)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5562918343/51069a93931639ea1de19af7566a4a3c/_____________________publer_com.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=h0WPIJtBlv2Fkgevmu12K8G7rugq345vCABApMjKy%2FE6leXxKJTjxSWsOKpoEvL5Z3PGonacMfieBIF1lutw2JbjgYgU3par7M7m0NZ6RbwXdJ7j2JC6xDfHMHapQW7Xz6DSzRwQj20xLF9r01%2Bry2%2B8GxjWKXvNzia4x6mExYA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562918343%2F51069a93931639ea1de19af7566a4a3c%2F_____________________publer_com.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5562918343/51069a93931639ea1de19af7566a4a3c/_____________________publer_com.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Btak%2FDkiuzIQjLs4fAcrA2exgVZxHippE%2Fc465c1XbtVduYNa6YuYRTwNa166odITVYGdpgWRJNIQaVbyjtEEFXI9mQSRhdPiDQ4OPb80Kdq4MftllHfW%2BVk5S%2BhK1gZpqqCwiNUu%2FbYQ6ZVwmRzLj2UKWjaSPeGn6aip%2BO%2FU48%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562918343%2F51069a93931639ea1de19af7566a4a3c%2F_____________________publer_com.mp4)
 
-#### コメント (2)
-- **ゆーりんち** (05/04 02:05): www.
-- **人間** (05/07 09:41): 泣いちゃうわ
+#### Comments (2)
+- **ゆーりんち** (May 04, 2026 02:05am): www.
+- **人間** (May 07, 2026 09:41am): 泣いちゃうわ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/04 00:52
-- **更新日（UTC）:** 05/04 00:52
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 04, 2026 12:52am
+- **Updated At (UTC):** May 04, 2026 12:52am
 
 ---
 
 ### 26. 音源集作ります
-**作成者:** からぴち　どぬ推し (4225485)
+**Author:** からぴち　どぬ推し (4225485)
 
 <p>皆入って</p>
 
-[添付ファイル 1](https://padlet.com/4225485/padlet-4bdv0az2rjj42cf3)
+[Attachment 1](https://padlet.com/4225485/padlet-4bdv0az2rjj42cf3)
 
-#### コメント (2)
-- **にゃんこ好き** (05/16 11:12): korehaittemonukeremasuka?
-- **にゃんこ好き** (05/16 11:13): これはいってもぬけれますか？
+#### Comments (2)
+- **にゃんこ好き** (May 16, 2026 11:12am): korehaittemonukeremasuka?
+- **にゃんこ好き** (May 16, 2026 11:13am): これはいってもぬけれますか？
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/03 09:24
-- **更新日（UTC）:** 05/03 09:24
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 03, 2026 09:24am
+- **Updated At (UTC):** May 03, 2026 09:24am
 
 ---
 
-### 27. 投稿 27
-**作成者:** ひーーーーまーーーーーー (114514yaju)
+### 27. Post 27
+**Author:** ひーーーーまーーーーーー (114514yaju)
 
 <p>スピカ</p><p><br/></p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5562918343/03ab772ee08514c2ae3c9777021bb8ca/______________Rokudenashi___Spica_Official_Music_Video__publer_com.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=F%2BG%2F23ubPnf84OMRFXY%2B3q8gtnCoKArDr7NdBArvfHz8XgVfZQd9mHv3o1gTrVk%2BfbCAKn1UYr4GUE7FW2C%2BfRM55K8N52hy6nmIGB35gbLdlNNNKLpvoXQ%2B1twxNczNsIoR%2ByZcQYR7m%2BeXUbko4V0kkpCcCd9luCZ9BCysBBs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562918343%2F03ab772ee08514c2ae3c9777021bb8ca%2F______________Rokudenashi___Spica_Official_Music_Video__publer_com.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5562918343/03ab772ee08514c2ae3c9777021bb8ca/______________Rokudenashi___Spica_Official_Music_Video__publer_com.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SwJmZG7HaaoPehwbi0NS3tt0SVAOYatTPLiDPFm0ktiIS7ublKIbeXl2XByQ12RC7vlA6r7TQ6%2BavXLS2sJjtS8IRl2m%2BbwEvIoRV%2FuKNydC6p3Tjqt4lM2PlmJsitCsL%2F9Ta73lPKWoPIXe5mjCv8qAveXyq%2FXzdruxrzc8LBg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562918343%2F03ab772ee08514c2ae3c9777021bb8ca%2F______________Rokudenashi___Spica_Official_Music_Video__publer_com.mp4)
 
-#### コメント (13)
-- **ひーーーーまーーーーーー** (04/30 13:25): 画質悪くてごめん🙏
-- **ふっじー** (05/02 04:28): これってどうやって入れてるんですか？
-- **ゆーりんち** (05/02 07:58): さいこ〜今の自分やんw(絶賛初恋中)
-- **ふっじー** (05/02 13:38): ええやん
-- **ふっじー** (05/02 13:38): 僕はこの曲を教えてくれた人と今付き合ってます
-- **ふっじー** (05/02 13:39): その人は正解って曲もいいよーって言ってくれましたね
-- **ゆーりんち** (05/03 00:33): リア充、、、いいな
-- **ひーーーーまーーーーーー** (05/03 13:40): あざます
-- **ひーーーーまーーーーーー** (05/03 13:41): ふっじーさんタップして少し待ったらいけますよ
-- **ふっじー** (05/03 23:11): はいりかたはわかるんですが投稿でのいれかたがわからないんですよ
-- **ひーーーーまーーーーーー** (05/03 23:42): 最初に一番上のプラスボタンを押してもらってその次に一番左のところを押したらファイルをダウンロードてところを押してください
-- **ふっじー** (05/04 01:02): やってみます
-- **ユウリ** (05/11 00:10): 私はユダヤ人です！！！！！！差別しないで〜〜〜！！！！！！！！！！！！！！！！！
+#### Comments (13)
+- **ひーーーーまーーーーーー** (Apr 30, 2026 01:25pm): 画質悪くてごめん🙏
+- **ふっじー** (May 02, 2026 04:28am): これってどうやって入れてるんですか？
+- **ゆーりんち** (May 02, 2026 07:58am): さいこ〜今の自分やんw(絶賛初恋中)
+- **ふっじー** (May 02, 2026 01:38pm): ええやん
+- **ふっじー** (May 02, 2026 01:38pm): 僕はこの曲を教えてくれた人と今付き合ってます
+- **ふっじー** (May 02, 2026 01:39pm): その人は正解って曲もいいよーって言ってくれましたね
+- **ゆーりんち** (May 03, 2026 12:33am): リア充、、、いいな
+- **ひーーーーまーーーーーー** (May 03, 2026 01:40pm): あざます
+- **ひーーーーまーーーーーー** (May 03, 2026 01:41pm): ふっじーさんタップして少し待ったらいけますよ
+- **ふっじー** (May 03, 2026 11:11pm): はいりかたはわかるんですが投稿でのいれかたがわからないんですよ
+- **ひーーーーまーーーーーー** (May 03, 2026 11:42pm): 最初に一番上のプラスボタンを押してもらってその次に一番左のところを押したらファイルをダウンロードてところを押してください
+- **ふっじー** (May 04, 2026 01:02am): やってみます
+- **ユウリ** (May 11, 2026 12:10am): 私はユダヤ人です！！！！！！差別しないで〜〜〜！！！！！！！！！！！！！！！！！
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/30 13:24
-- **更新日（UTC）:** 04/30 13:24
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 30, 2026 01:24pm
+- **Updated At (UTC):** Apr 30, 2026 01:24pm
 
 ---
 
 ### 28. 誰か学校のchromebookでyoutube見る方法教えて下さい
-**作成者:** じゅんや
+**Author:** じゅんや
 
-#### コメント (2)
-- **ふっじー** (05/02 04:29): 自分で作るか周りの人からもらうですね
-- **ひーーーーまーーーーーー** (05/03 23:42): YouTubeダウンローダー
+#### Comments (2)
+- **ふっじー** (May 02, 2026 04:29am): 自分で作るか周りの人からもらうですね
+- **ひーーーーまーーーーーー** (May 03, 2026 11:42pm): YouTubeダウンローダー
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/30 11:44
-- **更新日（UTC）:** 04/30 11:44
-
----
-
-### 29. 投稿 29
-**作成者:** アマネ
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5562370297/9f216737c676aad15a0d31bc3d15ed00/IMG_0193.png?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=bg13EEWohLebiGMPhTtLOxSWy9GRD%2FjjgwOJNaioh07m4hnX3bc9iazloFuYt5VZGqu1VlqVnkPwxiIx5PH9exFKhI9Cxce9GdyZ9jxLBemakH%2BsH2ax0yMSe94Lq%2BlPSpLaOBG7Cvq9G1UeDXWYjtLDNTfiJ7d%2B7T2M%2FHHeyYY%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562370297%2F9f216737c676aad15a0d31bc3d15ed00%2FIMG_0193.png)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/30 07:52
-- **更新日（UTC）:** 04/30 07:52
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 30, 2026 11:44am
+- **Updated At (UTC):** Apr 30, 2026 11:44am
 
 ---
 
-### 30. 投稿 30
-**作成者:** はるちゃん
+### 29. Post 29
+**Author:** アマネ
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5562370297/9f216737c676aad15a0d31bc3d15ed00/IMG_0193.png?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Zvk9xnKn2NuMraN78YAV0qTFb3MQxPPpKxHThf266FQApmGwdRel8kUDfCNtOeZGL%2B8rAyznDRtn4Me5jvdkIBOgHLzrZCexzZBXftpgcdyfrEwm2%2BYM8KXvDsCHYd9xxXcaCQA6u09N0r89qA4lOcS3DL3O%2B2XoBGGpQYlXIxQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562370297%2F9f216737c676aad15a0d31bc3d15ed00%2FIMG_0193.png)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 30, 2026 07:52am
+- **Updated At (UTC):** Apr 30, 2026 07:52am
+
+---
+
+### 30. Post 30
+**Author:** はるちゃん
 
 <p>正解聞きたい</p><p><br></p>
 
-#### コメント (2)
-- **コゴエミズ** (04/24 13:47): RADWIMPSの有名な曲
-- **ふっじー** (05/04 01:07): 上げときますね
+#### Comments (2)
+- **コゴエミズ** (Apr 24, 2026 01:47pm): RADWIMPSの有名な曲
+- **ふっじー** (May 04, 2026 01:07am): 上げときますね
 
-#### その他の情報
-- **投稿のカラー:** パープル
-- **作成日（UTC）:** 04/24 13:05
-- **更新日（UTC）:** 04/24 13:07
+#### Additional Information
+- **Post color:** Purple
+- **Created At (UTC):** Apr 24, 2026 01:05pm
+- **Updated At (UTC):** Apr 24, 2026 01:07pm
 
 ---
 
 ### 31. こんにちわ
-**作成者:** じゅんや
+**Author:** じゅんや
 
 <p>適当に鉄道の写真を載せてみました</p>
 
 ![鉄道写真JR](https://upload.wikimedia.org/wikipedia/commons/f/f2/JR_East_E657.jpg)
 
-#### コメント (5)
-- **コミヤシンゴ** (04/24 00:22): だだだばばばああ
-- **コミヤシンゴ** (04/24 00:22): だまれ
-- **じゅんや** (04/24 07:11): ふざけんな😡
-- **マぁだぁだぁすぅかぁるぅ** (04/28 21:48): 北千住?
-- **Anonymous** (04/29 02:01): 657カワイイ
+#### Comments (5)
+- **コミヤシンゴ** (Apr 24, 2026 12:22am): だだだばばばああ
+- **コミヤシンゴ** (Apr 24, 2026 12:22am): だまれ
+- **じゅんや** (Apr 24, 2026 07:11am): ふざけんな😡
+- **マぁだぁだぁすぅかぁるぅ** (Apr 28, 2026 09:48pm): 北千住?
+- **Anonymous** (Apr 29, 2026 02:01am): 657カワイイ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/23 12:32
-- **更新日（UTC）:** 04/23 12:32
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 23, 2026 12:32pm
+- **Updated At (UTC):** Apr 23, 2026 12:32pm
 
 ---
 
 ### 32. こーんににちわー
-**作成者:** あああああああああaあああ
+**Author:** あああああああああaあああ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/23 07:05
-- **更新日（UTC）:** 04/23 07:05
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 23, 2026 07:05am
+- **Updated At (UTC):** Apr 23, 2026 07:05am
 
 ---
 
 ### 33. 朝の光の中でーーーーーー
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
 <p>いいよねーーコレ</p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/73bc556cf6fa2b84b73827f1e6f9431a/MONTAGEM_HIKARI.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=XG065GCSBjV4G2NtF57PHdpUPU4%2F6bP9P%2F0Ib1fREwj1%2FfmpiK75EL%2B4VBWGmzZ7esfnQ%2BtcX3BV6YcALoktaABo3q4yXC%2FdvpxFtgrFkK69Of%2FoRr3b0dTRLMFsW%2FFkl%2F2sZPb0RJW3w3QyuuQkArkQoNZa0nIXoUqGKpLEVbM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2F73bc556cf6fa2b84b73827f1e6f9431a%2FMONTAGEM_HIKARI.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/73bc556cf6fa2b84b73827f1e6f9431a/MONTAGEM_HIKARI.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vj9FXeS28qJQcICgRA%2BsOqVq8XLQ4L%2FEbQ1Jh0hR7H3xzeIRA0Ovxx3y0nxWmW1S%2FUFmSUUUl0po0YilMrHCSK9cOcERghlQ5ERZ6xWfrMIZ2ttSSzIEMdNo6BJXIXc8q5IhWmoRU%2BCaD3OFWdDaTu%2F46np6V%2BwCuW4SnLbPciI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2F73bc556cf6fa2b84b73827f1e6f9431a%2FMONTAGEM_HIKARI.mp3)
 
-#### コメント (13)
-- **ぽてと。** (04/22 03:03): ほんといいよね
-- **谷内ですーー** (04/22 06:21): しょうじふぉろーして
-- **Anonymous** (04/22 06:48): 神曲
-- **フィッシーニボッシーニを知らない人は人生損してる** (04/22 06:51): まじかみすぎ
-- **クソババア** (04/22 10:14): 何だよこんないい教区は
-- **匿名** (04/22 12:11): いい教区ですよねー
-- **たにゆう** (04/25 05:50): １ｓっｆｇ
-- **味付け海苔製造機** (04/29 13:31): トぶぜ...
-- **ひーーーーまーーーーーー** (04/30 13:21): ٩( ᐛ )و
-- **ひーーーーまーーーーーー** (04/30 13:21): 朝のヒカキンの庭で〜
-- **ふっじー** (05/02 05:08): ww
-- **ゆーりんち** (05/02 07:38): Www
-- **karaage** (05/02 09:06): これいい〜
+#### Comments (13)
+- **ぽてと。** (Apr 22, 2026 03:03am): ほんといいよね
+- **谷内ですーー** (Apr 22, 2026 06:21am): しょうじふぉろーして
+- **Anonymous** (Apr 22, 2026 06:48am): 神曲
+- **フィッシーニボッシーニを知らない人は人生損してる** (Apr 22, 2026 06:51am): まじかみすぎ
+- **クソババア** (Apr 22, 2026 10:14am): 何だよこんないい教区は
+- **匿名** (Apr 22, 2026 12:11pm): いい教区ですよねー
+- **たにゆう** (Apr 25, 2026 05:50am): １ｓっｆｇ
+- **味付け海苔製造機** (Apr 29, 2026 01:31pm): トぶぜ...
+- **ひーーーーまーーーーーー** (Apr 30, 2026 01:21pm): ٩( ᐛ )و
+- **ひーーーーまーーーーーー** (Apr 30, 2026 01:21pm): 朝のヒカキンの庭で〜
+- **ふっじー** (May 02, 2026 05:08am): ww
+- **ゆーりんち** (May 02, 2026 07:38am): Www
+- **karaage** (May 02, 2026 09:06am): これいい〜
 
-#### リアクション
-- **絵文字:** ❤️ (3)
+#### Reactions
+- **Emojis:** ❤️ (3)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/22 02:35
-- **更新日（UTC）:** 04/22 02:35
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 22, 2026 02:35am
+- **Updated At (UTC):** Apr 22, 2026 02:35am
 
 ---
 
 ### 34. no batidão FUNK
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
 no batidão 
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/a6d18efbd1dfe77fe1bd0a6bf36ad6ef/BATIDAO_FUNK.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nEYpA2XKDwwzc0pm2E%2BOH43s%2F3YTKlJX8DTrDdXtVqPZPG6AfA9OxgEdlH%2BnTIuPhE8cyTc95WS6FpAMvj7EuaCVcDt568mUMRXMMOFSi3b0rNVo3FL8X5fL%2BMJIlmEA5%2FuTwgx7Z3yrrOXQfgjWnEwExpJ%2F%2B3J1O33Pu8AJTRc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2Fa6d18efbd1dfe77fe1bd0a6bf36ad6ef%2FBATIDAO_FUNK.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/a6d18efbd1dfe77fe1bd0a6bf36ad6ef/BATIDAO_FUNK.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Pk4%2BVl0IHGrCVrmIcuAMlOc3h0nKrPp%2F32uATfsYQvaiMHrXhbYUY9EqcAqngkCSf5MiDknYTlSlXr56VQTRjwNgtcqSl3uo%2FJnTH4P%2FMslBMu3gpxO%2FrjhnyFvLZvCa1jBCfcA%2Fj%2FsCOWOa1lmVw0vjet%2Bjwmkj67kLDOkbpLg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2Fa6d18efbd1dfe77fe1bd0a6bf36ad6ef%2FBATIDAO_FUNK.mp3)
 
-#### コメント (9)
-- **NyrikX(足立区陣ICFS系)** (04/19 10:17): GOOD！！
-- **谷内ですーー** (04/20 10:15): SAIKO-
-- **コミヤシンゴ** (04/21 06:48): [添付ファイル](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/MbejW1O7bJz2QNkG) 小宮で一す
-- **からあげ（元Dream）＃焼き鳥貴族３代目** (04/21 10:08): ちょいちょい
-- **ぽてと。** (04/21 23:44): スゴすぎるう
-- **ぽてと。** (04/21 23:45): 本名出さないほうがいいですよ
-- **探偵 鉄道** (04/24 01:12): あんあん
-- **inoue** (05/11 11:26): 最高
-- **フォトナしたいいいいいいいいいいいいいいいいいい** (05/13 10:36): いえーい
+#### Comments (9)
+- **NyrikX(足立区陣ICFS系)** (Apr 19, 2026 10:17am): GOOD！！
+- **谷内ですーー** (Apr 20, 2026 10:15am): SAIKO-
+- **コミヤシンゴ** (Apr 21, 2026 06:48am): [Attachment](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/MbejW1O7bJz2QNkG) 小宮で一す
+- **からあげ（元Dream）＃焼き鳥貴族３代目** (Apr 21, 2026 10:08am): ちょいちょい
+- **ぽてと。** (Apr 21, 2026 11:44pm): スゴすぎるう
+- **ぽてと。** (Apr 21, 2026 11:45pm): 本名出さないほうがいいですよ
+- **探偵 鉄道** (Apr 24, 2026 01:12am): あんあん
+- **inoue** (May 11, 2026 11:26am): 最高
+- **フォトナしたいいいいいいいいいいいいいいいいいい** (May 13, 2026 10:36am): いえーい
 
-#### リアクション
-- **絵文字:** ❤️ (3)
+#### Reactions
+- **Emojis:** ❤️ (3)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/19 06:08
-- **更新日（UTC）:** 04/19 06:08
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 19, 2026 06:08am
+- **Updated At (UTC):** Apr 19, 2026 06:08am
 
 ---
 
 ### 35. no batidão 
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/a1582300f7a5c896205c39d7d4c6ba36/NO_BATID_O.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Zn2aE6ZuwM15msujbj3BXhcfrgKbNagpsGNPCriI83V8y7VsLqut0e66CK6Yn63BGTzyTRX0hSmZl9qVRAMi9GCtbQqhGxOiFZq1m3hZHBzkp7lUnpNUo6Ged65MQV0ME9is%2FMnI2R83NgPTA29s8mu1gXVdL9bK6MSDxqcPJys%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2Fa1582300f7a5c896205c39d7d4c6ba36%2FNO_BATID_O.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/a1582300f7a5c896205c39d7d4c6ba36/NO_BATID_O.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=L2JpbIAoxNd8urAI2gRAFkLUTNoO4Phq9ylYKG%2FY2HzzjItAT8WToBRK06Sl5JpWM3J7VtHjq4OE2MaGKnqTGQpGiSP5zmo3mnK6KPIis2crBQ1B5PBIhz%2FHekGODaIuyy1vcHqSr5or%2FYYW5BFbpffOYQnJvcfdgoeuXXgDExk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2Fa1582300f7a5c896205c39d7d4c6ba36%2FNO_BATID_O.mp3)
 
-#### コメント (4)
-- **NyrikX(足立区陣ICFS系)** (04/19 10:17): GOOD！！
-- **谷内ですーー** (04/20 10:14): いいね
-- **お文具とドズル社** (04/22 06:15): いいね
-- **探偵 鉄道** (04/24 01:12): いっちゃう
+#### Comments (4)
+- **NyrikX(足立区陣ICFS系)** (Apr 19, 2026 10:17am): GOOD！！
+- **谷内ですーー** (Apr 20, 2026 10:14am): いいね
+- **お文具とドズル社** (Apr 22, 2026 06:15am): いいね
+- **探偵 鉄道** (Apr 24, 2026 01:12am): いっちゃう
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/19 06:07
-- **更新日（UTC）:** 04/19 06:07
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 19, 2026 06:07am
+- **Updated At (UTC):** Apr 19, 2026 06:07am
 
 ---
 
 ### 36. KICK BACK
-**作成者:** 匿名
+**Author:** 匿名
 
 <p>ありきたりだけどいい曲だと思う。</p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5446723822/c95c21e8dcd9e08e4cf91715f93856da/01_KICK_BACK__online_audio_converter.mp3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xr40jQe57h3vThJNzZNiNn38Tdrp%2BM9rUb03YG%2BgqeuBSk7GblZBXzNkovUircZ4bzbKRaw5lA9XCapp8yvUGJ4NI%2F3gjw6Moxa03Jn2K0tZyhjB9x25oouudMeftMZasZOdxrYiSFNwa5NXi6ATxDnZMTUqNTGr12HXoHqm850%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5446723822%2Fc95c21e8dcd9e08e4cf91715f93856da%2F01_KICK_BACK__online_audio_converter.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5446723822/c95c21e8dcd9e08e4cf91715f93856da/01_KICK_BACK__online_audio_converter.mp3?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=P3o0S1rzxnBPzLYz3U9KAv0DMmx7fRwnU2j58wB2B2jMwnN%2F0vyUwO3YY%2FVo%2BbZD%2BmWV6DhRUspuD5tloPyXpyEEG42cBnMFxp476tWDlWerT9rePfahNWbRbqW5VEKHUqe9p89%2BpSYKQjWSF4EoQRlLT5Rxf%2FgHtTvI2%2F3l32Q%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5446723822%2Fc95c21e8dcd9e08e4cf91715f93856da%2F01_KICK_BACK__online_audio_converter.mp3)
 
-#### コメント (4)
-- **クソババア** (04/22 10:15): えるにーにょが。。。
-- **NyrikX(足立区陣ICFS系)** (04/24 11:01): あーあのすでに高校卒業したYouTuber?
-- **ゆーりんち** (05/02 07:34): これって米津玄師？
-- **karaage** (05/02 09:10): チェンソーマンだ！
+#### Comments (4)
+- **クソババア** (Apr 22, 2026 10:15am): えるにーにょが。。。
+- **NyrikX(足立区陣ICFS系)** (Apr 24, 2026 11:01am): あーあのすでに高校卒業したYouTuber?
+- **ゆーりんち** (May 02, 2026 07:34am): これって米津玄師？
+- **karaage** (May 02, 2026 09:10am): チェンソーマンだ！
 
-#### リアクション
-- **絵文字:** ❤️ (4)
+#### Reactions
+- **Emojis:** ❤️ (4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/09 06:20
-- **更新日（UTC）:** 04/11 04:38
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 09, 2026 06:20am
+- **Updated At (UTC):** Apr 11, 2026 04:38am
 
 ---
 
 ### 37. これ聞け。飛ぶぜ
-**作成者:** ピアニスト
+**Author:** ピアニスト
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5422824475/83d0736ea78bdc0a99d9e56217529744/YTDown_com_YouTube_Media_djeM_0EHv9I_001_720p.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=FubP3pWzc9brId4lwEWFcp2%2FlcwTHbpSG4ak1W%2BGdwJKeNiNOC48dsrsh%2BKBwSmbCOGiHPsssrJZv6kYrbpzoLKuF7TIRt9%2BUt8Nw4IPynphBqF6mXgwtK0CJVLsDoA7jntIhyB1XDNG4i2Vz8Gio8H8M4SMqDc6kuuXONHWfAo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5422824475%2F83d0736ea78bdc0a99d9e56217529744%2FYTDown_com_YouTube_Media_djeM_0EHv9I_001_720p.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5422824475/83d0736ea78bdc0a99d9e56217529744/YTDown_com_YouTube_Media_djeM_0EHv9I_001_720p.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6jy6i2W4ram8aw9vRbTNxPKRy7D722RPkoP7M35vCxkxSMXGBDogLkYBD9Fe0h47iuued%2B8Zz0UJvEsQDphTqZUngGPumtcvG4SAyBaxu9yCRCdEdo3HsM%2Bgudc%2BMKFKHTNXMpY%2FTi8KWxNwUZ8VbW%2B72xTWPgIbrmYXjz6SwSw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5422824475%2F83d0736ea78bdc0a99d9e56217529744%2FYTDown_com_YouTube_Media_djeM_0EHv9I_001_720p.mp4)
 
-#### コメント (9)
-- **イザナギ** (04/05 05:24): 知っているぜ　ナイトオブナイツ
-- **羂索** (04/07 04:57): 結構いい曲だよね
-- **匿名** (04/10 02:05): 僕もこの曲めっちゃ好き
-- **フユゾラ** (04/11 08:56): それな
-- **味付け海苔製造機** (04/29 13:32): とぉってもいい曲！
-- **ふっじー** (05/02 05:11): ええなぁ
-- **karaage** (05/02 09:07): 神曲
-- **ひーーーーまーーーーーー** (05/03 13:53): ぶっ飛ぶ〜
-- **人間** (05/07 09:44): 記憶飛んだ
+#### Comments (9)
+- **イザナギ** (Apr 05, 2026 05:24am): 知っているぜ　ナイトオブナイツ
+- **羂索** (Apr 07, 2026 04:57am): 結構いい曲だよね
+- **匿名** (Apr 10, 2026 02:05am): 僕もこの曲めっちゃ好き
+- **フユゾラ** (Apr 11, 2026 08:56am): それな
+- **味付け海苔製造機** (Apr 29, 2026 01:32pm): とぉってもいい曲！
+- **ふっじー** (May 02, 2026 05:11am): ええなぁ
+- **karaage** (May 02, 2026 09:07am): 神曲
+- **ひーーーーまーーーーーー** (May 03, 2026 01:53pm): ぶっ飛ぶ〜
+- **人間** (May 07, 2026 09:44am): 記憶飛んだ
 
-#### リアクション
-- **絵文字:** ❤️ (5)
+#### Reactions
+- **Emojis:** ❤️ (5)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/05 05:18
-- **更新日（UTC）:** 04/05 05:19
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 05, 2026 05:18am
+- **Updated At (UTC):** Apr 05, 2026 05:19am
 
 ---
 
 ### 38. ミセスのlulu.
-**作成者:** 匿名
+**Author:** 匿名
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5409114356/1b5a266be2d634b6785ae07b6b47c152/videoplayback.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=nKqJHYVvCYQG%2BxrbFQlIevPNzTj%2BteA%2FqZsivF3L%2BFsv4XEAwz%2BQrDLWxRfLLDIZA68rb4VOWRbQ0ZJFjf2G3QdrA9MJvXMuvveMJ%2BIsgGwwWAPTujm%2FxI%2BkCn4B53NyQySLLj9yTlof8hrszZ0nioTGSRMFN8fk%2BaPnx5qbnqw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5409114356%2F1b5a266be2d634b6785ae07b6b47c152%2Fvideoplayback.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5409114356/1b5a266be2d634b6785ae07b6b47c152/videoplayback.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=xaOgr4%2BWcHH1rfT2Z1REqPKOm7mOn%2FMPvWrZtka6GchZy4egIgtpUTP9u8FVGP3F7I%2F%2F%2FVv%2FWRrHNRc1Dmao5ff0yAnEKho7qMMkmx%2F6hI9KL0vI4FMXpUHlKFcGwv9CCybo2l%2FgELdPZ9BPT53WYyU6Y8BB%2F1JAeFXeQ8k51nU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5409114356%2F1b5a266be2d634b6785ae07b6b47c152%2Fvideoplayback.mp4)
 
-#### コメント (3)
-- **すずめ** (04/02 14:22): やっぱり葬送のフリーレンのオープニングテーマだし背景がね
-- **ゆーりんち** (05/02 07:32): ミセス好きな人〜 
-- **karaage** (05/02 09:25): ミセスとフリーレン良き👍
+#### Comments (3)
+- **すずめ** (Apr 02, 2026 02:22pm): やっぱり葬送のフリーレンのオープニングテーマだし背景がね
+- **ゆーりんち** (May 02, 2026 07:32am): ミセス好きな人〜 
+- **karaage** (May 02, 2026 09:25am): ミセスとフリーレン良き👍
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/02 02:35
-- **更新日（UTC）:** 04/02 02:35
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 02, 2026 02:35am
+- **Updated At (UTC):** Apr 02, 2026 02:35am
 
 ---
 
 ### 39. 嵐新曲
-**作成者:** m.i.b (6355029)
+**Author:** m.i.b (6355029)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5284280134/ec3bce29bec6e7a45ab7c03a80fdd0f9/videoplayback__4_.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=opmt9BsA01tiR4c9%2FhXkatj8EbWKXbpRHFrIC%2BwTrVRpxZPKgJGhXrcPoFj41EdH0kaxV1YQNGrZADkcE0Yb%2FA0Wrlf18eJ6hIyoLxuUkWsJTlhb6tudeXpZCUAlOODfEqk7QE3oim30NBMLl%2FWHeRhUJcjxMNUQhKKNpVhaxgk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5284280134%2Fec3bce29bec6e7a45ab7c03a80fdd0f9%2Fvideoplayback__4_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5284280134/ec3bce29bec6e7a45ab7c03a80fdd0f9/videoplayback__4_.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=yQGkp3lpBEKQgBgZXGQgoIIXyZJWcH9ceIl4clz6%2FowCh7ZQb85SmgMLJQ9uFSI83tNZ%2BHURaFzjhhbzjjjnBjGI0mEnlK550Whtr2kr8Y70DrW%2FsQFrzqgwMzgb%2F%2B2SweVuFPHlKvEiDmoVQZArh5Gb42HZxsvTQJw9G5neJZs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5284280134%2Fec3bce29bec6e7a45ab7c03a80fdd0f9%2Fvideoplayback__4_.mp4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/21 13:24
-- **更新日（UTC）:** 03/22 02:10
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 21, 2026 01:24pm
+- **Updated At (UTC):** Mar 22, 2026 02:10am
 
 ---
 
 ### 40. やっぱ探検家
-**作成者:** NyrikX(足立区陣ICFS系) (h3000370)
+**Author:** NyrikX(足立区陣ICFS系) (h3000370)
 
 <p>ちなみにGeometry Dashの音楽</p><p>私はもうこれクリアしてこれよりむずいやつもクリアできてます</p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/8315bbd52c0acad1cbfc3849bad0c345/__Explorers____Demon__by_MATHIcreatorGD___SwitchStepGD___Geometry_Dash_2_2__1_.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=uYGgCJV%2FboBr64FTE73YljmDrQ8V5aJM5FaMVjaLFrvvkzrcp%2BRDqIGj0juELQ2C06%2FgHWOQIxn3BLNrcGZ%2B%2BdZ62YdK7rfe4wJWQG6AanXLQFxcbPafd2CsmBSoFdWb0IEqTfwyZbpZIFQ2J6Lr796qJO1llxq6DKsz1P2HNpM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2F8315bbd52c0acad1cbfc3849bad0c345%2F__Explorers____Demon__by_MATHIcreatorGD___SwitchStepGD___Geometry_Dash_2_2__1_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/8315bbd52c0acad1cbfc3849bad0c345/__Explorers____Demon__by_MATHIcreatorGD___SwitchStepGD___Geometry_Dash_2_2__1_.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WwNWS1hqYfVQGsxusWKRXIPiq1VotK9XtFOM7wCDH8fn%2B765%2BtEr2B1Ot3e5zfCEsUWy5IBMuyQgmwpB0zVTo%2BhinTF90YyuHmSxR2b5OM%2BOwCR%2FQMoCyOM59UeI6kCf4%2BUDNNnnbhMuvcIinsaZTXvc%2FIWFnBCnm4JhD5wsvaM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2F8315bbd52c0acad1cbfc3849bad0c345%2F__Explorers____Demon__by_MATHIcreatorGD___SwitchStepGD___Geometry_Dash_2_2__1_.mp4)
 
-#### コメント (5)
-- **ああああああああああああああ** (03/23 11:40): すご！
-- **味付け海苔製造機** (04/29 13:32): 尊敬
-- **からぴち　どぬ推し** (05/02 06:42): 上手すぎて合成にしか見えない（褒め言葉）
-- **ゆーりんち** (05/02 07:29): 貴方様にはこの賞状を差し上げます  凄すぎで賞
-- **inoue** (05/11 11:27): すごすぎ
+#### Comments (5)
+- **ああああああああああああああ** (Mar 23, 2026 11:40am): すご！
+- **味付け海苔製造機** (Apr 29, 2026 01:32pm): 尊敬
+- **からぴち　どぬ推し** (May 02, 2026 06:42am): 上手すぎて合成にしか見えない（褒め言葉）
+- **ゆーりんち** (May 02, 2026 07:29am): 貴方様にはこの賞状を差し上げます  凄すぎで賞
+- **inoue** (May 11, 2026 11:27am): すごすぎ
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/19 17:34
-- **更新日（UTC）:** 04/05 10:12
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 19, 2026 05:34pm
+- **Updated At (UTC):** Apr 05, 2026 10:12am
 
 ---
 
-### 41. 投稿 41
-**作成者:** 🙆
+### 41. Post 41
+**Author:** 🙆
 
 <p>ひぐらしのなく頃に</p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5311265760/3a1938f34bf85c79f910ddc789d518ad/videoplayback__20_.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YY72TR6Q28GIor1z4W5JRHGs9JVvmFATBCUPWrPCRbX6ofPvHPNCNB9Sx80FQoE3inM8Dl%2BQbf4yNTWfW34KalmBd1NAwF9t1miqXsDevzurfjDsz5kwqJ5cxMaH6yNgZOnmL89Ndc7vNW8YzNnte01%2B2PHw453P58m%2F5LjyU8c%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5311265760%2F3a1938f34bf85c79f910ddc789d518ad%2Fvideoplayback__20_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5311265760/3a1938f34bf85c79f910ddc789d518ad/videoplayback__20_.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=J8GTGeYNle3uWFG%2FOh7Yrbd4lN%2BHAaS2gtZoriHQAKN0Pbxqks%2FfHow9mdde16PvDbj3ozA9iqEIPMaJVFOzeybYVRKhLiX0ERrh3DwlYGiyfPTs21o2UyDrbR5xvqG%2Bn9HTiuAX%2FbrSlKkmjsj02qa3RqZMknLsMeNkZV3WozM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5311265760%2F3a1938f34bf85c79f910ddc789d518ad%2Fvideoplayback__20_.mp4)
 
-#### コメント (1)
-- **ゆーりんち** (05/02 07:49): 聞いたことあるような気がする
+#### Comments (1)
+- **ゆーりんち** (May 02, 2026 07:49am): 聞いたことあるような気がする
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/14 12:25
-- **更新日（UTC）:** 03/14 12:25
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 14, 2026 12:25pm
+- **Updated At (UTC):** Mar 14, 2026 12:25pm
 
 ---
 
 ### 42. 興味があったら聴いてください
-**作成者:** ｗｗｗｗｗｗｗ
+**Author:** ｗｗｗｗｗｗｗ
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5275939731/051df53efce00bb4c3ad9a05c57326f1/videoplayback__3_.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Afacd1cw2h9EDzSppOPEAdT2BnqYag%2BmQJXrNATvjYwdYr7No6jh8R8K3T4D1HypOYUX7Z8OasDqkw6hraOj8edUtPz8ZXl7NydLjb54Z9m3XCrHSJo6HtO9LqmSLI8XHv%2Bf7mfsKdM4eY7jNAHFtiLluoF52sBDW6Kq54L2A2I%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5275939731%2F051df53efce00bb4c3ad9a05c57326f1%2Fvideoplayback__3_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5275939731/051df53efce00bb4c3ad9a05c57326f1/videoplayback__3_.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=SnfEDxo7wQU6NV5J%2BBPCStC2dP%2FaK9XDiORXDf5nuHatzIq3El5VJk9hM%2FYpKgGKARoacxsWyDAC%2BWXHCoWiS8D2zL3wxcfBIUO9BiGv4XuReQixV7%2B%2B%2Bsa15KhiAhM6GNK%2FsHJOdHwEGqp1FtfpIbHK%2FVjxPAdP4iVxmf4JNBQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5275939731%2F051df53efce00bb4c3ad9a05c57326f1%2Fvideoplayback__3_.mp4)
 
-#### コメント (3)
-- **Passionate Dragonfly** (03/26 15:28): やっぱ名曲
-- **m.i.b** (04/10 05:02): 最高
-- **クソババア** (04/22 10:17): だれ？
+#### Comments (4)
+- **Passionate Dragonfly** (Mar 26, 2026 03:28pm): やっぱ名曲
+- **m.i.b** (Apr 10, 2026 05:02am): 最高
+- **クソババア** (Apr 22, 2026 10:17am): だれ？
+- **INZ** (May 27, 2026 01:57pm): 😇
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/07 11:17
-- **更新日（UTC）:** 03/07 11:17
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 07, 2026 11:17am
+- **Updated At (UTC):** Mar 07, 2026 11:17am
 
 ---
 
-### 43. 投稿 43
-**作成者:** 匿名
+### 43. Post 43
+**Author:** 匿名
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5275779745/525ba12a2ee0dfef864c6a2c8b11560c/videoplayback.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=fUzkGJEIhgvnNvaA%2FphtACkOpakpaCKcutNlr6%2B65r7SkY48kiv8WUw1vmwDjxyR1gvaDIfaGzNRtfhAUW9baPStq7at7gTM%2FSsKLaEEcMI78gdZ6KvgmZxGk1gNZOrWhrWBLaAUT0QIVibKWNtOThBAmIcrATcAcHJwgkxXDwM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5275779745%2F525ba12a2ee0dfef864c6a2c8b11560c%2Fvideoplayback.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5275779745/525ba12a2ee0dfef864c6a2c8b11560c/videoplayback.mp4?Expires=1780502915&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ImPB85rJixg%2F8ArGL9%2Fp8v73%2FGmBX5AkwvnhlxJ0%2BWtoS6d45WDUAW57Up9l4KDgVFrmVHoc1BqKeWvjkAHM4%2BjkXfxW0qTlP9utwgH27B7hMgdJiwQq0sj%2FeKFDHR%2B64LMOytClE1uYTlySMDtE5l3fBdj5dONguApq9Knw5gA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5275779745%2F525ba12a2ee0dfef864c6a2c8b11560c%2Fvideoplayback.mp4)
 
-#### コメント (1)
-- **ノクス** (05/12 05:21): [添付ファイル](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/x5A7aroAeqp5Qwr6) それだ...それだ！
+#### Comments (1)
+- **ノクス** (May 12, 2026 05:21am): [Attachment](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/x5A7aroAeqp5Qwr6) それだ...それだ！
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/07 10:05
-- **更新日（UTC）:** 03/07 10:05
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 07, 2026 10:05am
+- **Updated At (UTC):** Mar 07, 2026 10:05am
 
 ---
 
 ### 44. まじ強神曲
-**作成者:** 黙れくそばばあ
+**Author:** 黙れくそばばあ
 
-[添付ファイル 1](https://www.youtube.com/watch?pdlt=1&v=mElgQIghkjc)
+[Attachment 1](https://www.youtube.com/watch?pdlt=1&v=mElgQIghkjc)
 
-#### コメント (2)
-- **黙れくそばばあ** (02/25 02:27): （オンガクマックス）
-- **クソババア** (04/22 10:17): 45remixのこと
+#### Comments (2)
+- **黙れくそばばあ** (Feb 25, 2026 02:27am): （オンガクマックス）
+- **クソババア** (Apr 22, 2026 10:17am): 45remixのこと
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/25 02:16
-- **更新日（UTC）:** 02/25 02:16
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 25, 2026 02:16am
+- **Updated At (UTC):** Feb 25, 2026 02:16am
 
 ---
 
 ### 45. 誰かsoundcloud（サウンドクラウド）の入り方?やり方を教えて（もしあれば）
-**作成者:** 黙れくそばばあ
+**Author:** 黙れくそばばあ
 
 <p>音質大好きChannel（内向きパサート）</p>
 
-[添付ファイル 1](https://www.youtube.com/shorts/6LHOQEfLBJE?pdlt=1)
+[Attachment 1](https://www.youtube.com/shorts/6LHOQEfLBJE?pdlt=1)
 
-#### コメント (6)
-- **黙れくそばばあ** (02/25 02:13): ホンマに教えて
-- **黙れくそばばあ** (02/25 02:27): まずこの添付してるやつを見てこのChannelを登録したら教えて（別にしなくてもいいから教えて）
-- **仙人@suger** (02/26 07:07): 規制されてるの？
-- **NyrikX(足立区陣ICFS系)** (03/19 17:27): 組織による表示の許可がないからかも
-- **ふっじー** (05/02 05:13): 俺は動画の入れ方もわかんねぇ　　　　　誰か教えてー
-- **アキツゲ** (05/07 15:35): 分かりません…
+#### Comments (6)
+- **黙れくそばばあ** (Feb 25, 2026 02:13am): ホンマに教えて
+- **黙れくそばばあ** (Feb 25, 2026 02:27am): まずこの添付してるやつを見てこのChannelを登録したら教えて（別にしなくてもいいから教えて）
+- **仙人@suger** (Feb 26, 2026 07:07am): 規制されてるの？
+- **NyrikX(足立区陣ICFS系)** (Mar 19, 2026 05:27pm): 組織による表示の許可がないからかも
+- **ふっじー** (May 02, 2026 05:13am): 俺は動画の入れ方もわかんねぇ　　　　　誰か教えてー
+- **アキツゲ** (May 07, 2026 03:35pm): 分かりません…
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/25 01:53
-- **更新日（UTC）:** 02/25 01:53
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 25, 2026 01:53am
+- **Updated At (UTC):** Feb 25, 2026 01:53am
 
 ---
 
 ## ゲーム
 
-### 1. 投稿 1
-**作成者:** ホタルカゼ
+### 1. Post 1
+**Author:** ホタルカゼ
 
 <p>ブロスタできるブロックされないさいと教えて</p>
 
-#### コメント (2)
-- **キッズ乙** (05/21 00:51): ブロスタにサイト版はありません
-- **ㅤ@krtk🔰** (05/21 07:38): あっても変なやつ
+#### Comments (2)
+- **キッズ乙** (May 21, 2026 12:51am): ブロスタにサイト版はありません
+- **ㅤ@krtk🔰** (May 21, 2026 07:38am): あっても変なやつ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/21 00:33
-- **更新日（UTC）:** 05/21 00:33
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 21, 2026 12:33am
+- **Updated At (UTC):** May 21, 2026 12:33am
 
 ---
 
 ### 2. 楽しい！
-**作成者:** ツキスズ
+**Author:** ツキスズ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/19 23:33
-- **更新日（UTC）:** 05/19 23:33
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 19, 2026 11:33pm
+- **Updated At (UTC):** May 19, 2026 11:33pm
 
 ---
 
 ### 3. いいよ＼(^o^)／
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://sigmasigmatoiletedge.github.io/games)
+[Attachment 1](https://sigmasigmatoiletedge.github.io/games)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/19 05:06
-- **更新日（UTC）:** 05/19 05:06
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 19, 2026 05:06am
+- **Updated At (UTC):** May 19, 2026 05:06am
 
 ---
 
 ### 4. ういあらき
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://app.metalife.co.jp/spaces/imtv5Y49rpAbEr0q2KVd?loading=true)
+[Attachment 1](https://app.metalife.co.jp/spaces/imtv5Y49rpAbEr0q2KVd?loading=true)
 
-#### コメント (3)
-- **からあげ（元Dream）＃焼き鳥貴族３代目** (05/19 04:15): あらききて
-- **からあげ（元Dream）＃焼き鳥貴族３代目** (05/19 04:15): すぐきて
-- **アラキヒナタ** (05/19 04:16): ok
+#### Comments (3)
+- **からあげ（元Dream）＃焼き鳥貴族３代目** (May 19, 2026 04:15am): あらききて
+- **からあげ（元Dream）＃焼き鳥貴族３代目** (May 19, 2026 04:15am): すぐきて
+- **アラキヒナタ** (May 19, 2026 04:16am): ok
 
-#### その他の情報
-- **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/19 04:06
-- **更新日（UTC）:** 05/19 04:15
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** May 19, 2026 04:06am
+- **Updated At (UTC):** May 19, 2026 04:15am
 
 ---
 
 ### 5. これもいろいろはいってるわ
-**作成者:** Tomoharukun (Tomoharukun)
+**Author:** Tomoharukun (Tomoharukun)
 
 [https://leveldeviltopvaz.github.io/go/class-870.html](https://leveldeviltopvaz.github.io/go/class-870.html)
 
-#### コメント (1)
-- **葵** (05/18 08:00): ありがとーーーーーーーーーーーーーー
+#### Comments (1)
+- **葵** (May 18, 2026 08:00am): ありがとーーーーーーーーーーーーーー
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 06:53
-- **更新日（UTC）:** 05/18 06:53
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 06:53am
+- **Updated At (UTC):** May 18, 2026 06:53am
 
 ---
 
 ### 6. みんなが最近買ってもらったゲームを教えて。
-**作成者:** アラキヒナタ (gs221373)
+**Author:** アラキヒナタ (gs221373)
 
-#### コメント (2)
-- **ソルガレオ系男子** (05/18 02:29): ポケモンUSUM
-- **アラキヒナタ** (05/18 09:53): 自分で買ったでもいいよ。
+#### Comments (2)
+- **ソルガレオ系男子** (May 18, 2026 02:29am): ポケモンUSUM
+- **アラキヒナタ** (May 18, 2026 09:53am): 自分で買ったでもいいよ。
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/17 09:59
-- **更新日（UTC）:** 05/17 09:59
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 17, 2026 09:59am
+- **Updated At (UTC):** May 17, 2026 09:59am
 
 ---
 
 ### 7. 黒色から逃げろ
-**作成者:** 川井田
+**Author:** 川井田
 
 <p>真ん中の肌色に当たったり端っこに当たっても死ぬヨ</p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5660209922/159351e621e11ef0b8dac0cad3d165fa/Scratch_________4___1___1___1___1___1___1___1_.sb3?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=aYOztcEPXwvEuOO6h3cbP6OHkOmJMbui1h3hJkgWzMm5s4szDD6AzC9CQRZzhFkKrdxI2eI%2BvdUyo6UKkyzV4YMY7GdA1LUeUiMPzD5mxZ2nw58iYjE6UiIQqGvZhHQiHJg4D2OIEuZDRdczsihi7h11zMYeDdNFb174J9JjC90%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5660209922%2F159351e621e11ef0b8dac0cad3d165fa%2FScratch_________4___1___1___1___1___1___1___1_.sb3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5660209922/159351e621e11ef0b8dac0cad3d165fa/Scratch_________4___1___1___1___1___1___1___1_.sb3?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Nm5TeeuiXFsGHVBAYasSehDh41TWxPZTu%2FxnDU3Ge4wHmoWdCn32iFMsYCA3MgH2vjO9WdSZ3C6b8r5oh3fz%2Ba6IMpwnQcURXz5aqzAQNIlgvBGP%2F4doDAdlzZKgBrT4i11zUyAhNYdr0jxlJJGI9zd%2BBRa5NTGk4RPgSSoJjq4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5660209922%2F159351e621e11ef0b8dac0cad3d165fa%2FScratch_________4___1___1___1___1___1___1___1_.sb3)
 
-#### コメント (2)
-- **アラキヒナタ** (05/18 12:27): それ公開しちゃっていいの
-- **葵** (05/22 08:06): はいれん
+#### Comments (2)
+- **アラキヒナタ** (May 18, 2026 12:27pm): それ公開しちゃっていいの
+- **葵** (May 22, 2026 08:06am): はいれん
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 22:14
-- **更新日（UTC）:** 05/16 22:14
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 10:14pm
+- **Updated At (UTC):** May 16, 2026 10:14pm
 
 ---
 
 ### 8. 誰かゲームができるリンク（URL)を貼ってください。お願いします。
-**作成者:** にゃんこ好き (s20127109)
+**Author:** にゃんこ好き (s20127109)
 
 <p>（ブロックされにくいと思われるもの）</p><p>（学校に見つかりにくいもの）など</p>
 
-#### コメント (4)
-- **葵** (05/22 08:08): https://prakashnewxy1.github.io/macvg/
-- **にゃんこ好き** (05/22 11:54): すいません開けるは開けるけど
-- **にゃんこ好き** (05/22 11:55): [添付ファイル](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/e9YpQNpjg6r7WxjM) 
-- **にゃんこ好き** (05/22 11:56): ↑になります。すいません
+#### Comments (4)
+- **葵** (May 22, 2026 08:08am): https://prakashnewxy1.github.io/macvg/
+- **にゃんこ好き** (May 22, 2026 11:54am): すいません開けるは開けるけど
+- **にゃんこ好き** (May 22, 2026 11:55am): [Attachment](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/e9YpQNpjg6r7WxjM) 
+- **にゃんこ好き** (May 22, 2026 11:56am): ↑になります。すいません
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 22:08
-- **更新日（UTC）:** 05/16 22:08
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 10:08pm
+- **Updated At (UTC):** May 16, 2026 10:08pm
 
 ---
 
 ### 9. ホラー？なゲーム（私が怖くてできない）
-**作成者:** 葵 (gs226187)
+**Author:** 葵 (gs226187)
 
 <p><a rel="noopener noreferrer nofollow" class="zReHs" href="https://unityroom.com/rankings/tags/68">unityroom</a></p><p><a rel="noopener noreferrer nofollow" href="https://unityroom.com">https://unityroom.com</a><a rel="noopener noreferrer nofollow" class="zReHs" href="https://unityroom.com/rankings/tags/68"> › rankings › tags</a></p>
 
-#### コメント (1)
-- **葵** (05/16 08:56): 入れない場合はご了承を
+#### Comments (1)
+- **葵** (May 16, 2026 08:56am): 入れない場合はご了承を
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 08:55
-- **更新日（UTC）:** 05/16 08:55
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 08:55am
+- **Updated At (UTC):** May 16, 2026 08:55am
 
 ---
 
 ### 10. わたしのお気に入り
-**作成者:** 葵 (gs226187)
+**Author:** 葵 (gs226187)
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.dailytoolz.com/cubes-2048/iframe.html">https://www.dailytoolz.com/cubes-2048/iframe.html</a></p><p><br/></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5648031893/fe4dce854d3a444e983859040eca8081/Screenshot_2026_05_16_17_29_50.png?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IFyFXkdyl%2FqKggQrfDp9pw04GKk%2BZbKboTSTOdFh3WsSTZR8L9ytp8Ewu9wJWdb80sBbX%2FF7KIm3ItkHkUsnSCIUNpgIkp%2FOpjrpDoF7AhNO1%2Fx79Kbbsjsm%2FBSeFa4IiXgb5HcNprwQWnq%2B577e9MkjcJICU1OyfkvletELmnw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5648031893%2Ffe4dce854d3a444e983859040eca8081%2FScreenshot_2026_05_16_17_29_50.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5648031893/fe4dce854d3a444e983859040eca8081/Screenshot_2026_05_16_17_29_50.png?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vfAk%2FRmwmZLAQD4zwXBXa45iP1cBQ%2FplRRxd34pFdZ%2B8hizxcM6p%2BRNCYnJOcXWqCaVBwMSCWUR7sTcxsjsNbIABZEcPvWpc%2F9fT5aDJfRwrYvXVqKUeXIZI50nl4vnI8WE3TzByME%2BKaGRvG7q%2Fojzs2%2FhUUgOtoW48z3boioQ%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5648031893%2Ffe4dce854d3a444e983859040eca8081%2FScreenshot_2026_05_16_17_29_50.png)
 
-#### コメント (2)
-- **うーたん便器便器** (05/16 22:01): (・∀・)ｲｲﾈ!!
-- **ひーーーーまーーーーーー** (05/20 22:51): おもれ
+#### Comments (2)
+- **うーたん便器便器** (May 16, 2026 10:01pm): (・∀・)ｲｲﾈ!!
+- **ひーーーーまーーーーーー** (May 20, 2026 10:51pm): おもれ
 
-#### その他の情報
-- **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/16 08:32
-- **更新日（UTC）:** 05/16 08:32
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** May 16, 2026 08:32am
+- **Updated At (UTC):** May 16, 2026 08:32am
 
 ---
 
 ### 11. ここからなら1v1.LOLできますよ多分俺はできるけど
-**作成者:** 旧世界男 (ahonohitoshi)
+**Author:** 旧世界男 (ahonohitoshi)
 
-[添付ファイル 1](https://sites.google.com/view/prohomework2z/dictionary)
+[Attachment 1](https://sites.google.com/view/prohomework2z/dictionary)
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 14:41
-- **更新日（UTC）:** 05/15 14:41
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 15, 2026 02:41pm
+- **Updated At (UTC):** May 15, 2026 02:41pm
 
 ---
 
 ### 12. ういゲームに困ってるならコレやってみ
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://mathcordxp.github.io/)
+[Attachment 1](https://mathcordxp.github.io/)
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 10:13
-- **更新日（UTC）:** 05/15 10:13
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 15, 2026 10:13am
+- **Updated At (UTC):** May 15, 2026 10:13am
 
 ---
 
 ### 13. あげる
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://learnhotels.hotelconsuladoinn.com/scramjet/https%3A%2F%2Fhitoikigame.com%2Fblog-entry-11689.html)
+[Attachment 1](https://learnhotels.hotelconsuladoinn.com/scramjet/https%3A%2F%2Fhitoikigame.com%2Fblog-entry-11689.html)
 
-#### コメント (7)
-- **inoue** (05/15 10:00): ありがと
-- **からあげ（元Dream）＃焼き鳥貴族３代目** (05/15 10:00): うい
-- **からあげ（元Dream）＃焼き鳥貴族３代目** (05/15 10:00): さっきのサイトまた来て
-- **からあげ（元Dream）＃焼き鳥貴族３代目** (05/15 10:00): めたらいふ　
-- **Io1205** (05/15 10:06): まじでありがとう
-- **からあげ（元Dream）＃焼き鳥貴族３代目** (05/15 10:09): うｎ
-- **からあげ（元Dream）＃焼き鳥貴族３代目** (05/15 10:09): まだまだあるよ
+#### Comments (7)
+- **inoue** (May 15, 2026 10:00am): ありがと
+- **からあげ（元Dream）＃焼き鳥貴族３代目** (May 15, 2026 10:00am): うい
+- **からあげ（元Dream）＃焼き鳥貴族３代目** (May 15, 2026 10:00am): さっきのサイトまた来て
+- **からあげ（元Dream）＃焼き鳥貴族３代目** (May 15, 2026 10:00am): めたらいふ　
+- **Io1205** (May 15, 2026 10:06am): まじでありがとう
+- **からあげ（元Dream）＃焼き鳥貴族３代目** (May 15, 2026 10:09am): うｎ
+- **からあげ（元Dream）＃焼き鳥貴族３代目** (May 15, 2026 10:09am): まだまだあるよ
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 09:50
-- **更新日（UTC）:** 05/15 09:50
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 15, 2026 09:50am
+- **Updated At (UTC):** May 15, 2026 09:50am
 
 ---
 
 ### 14. 天才
-**作成者:** 影
+**Author:** 影
 
-[添付ファイル 1](https://ryanjetplane1.codeberg.page/Openbeta/@subway-surfers/)
+[Attachment 1](https://ryanjetplane1.codeberg.page/Openbeta/@subway-surfers/)
 
-#### コメント (1)
-- **ユウミドリ** (05/15 04:59): 出来ひん
+#### Comments (1)
+- **ユウミドリ** (May 15, 2026 04:59am): 出来ひん
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 04:48
-- **更新日（UTC）:** 05/15 04:48
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 15, 2026 04:48am
+- **Updated At (UTC):** May 15, 2026 04:48am
 
 ---
 
 ### 15. popタイピングなんかできない
-**作成者:** Tomoharukun (Tomoharukun)
+**Author:** Tomoharukun (Tomoharukun)
 
-#### コメント (5)
-- **フォトナしたいいいいいいいいいいいいいいいいいい** (05/16 01:29): これです
-- **アラキヒナタ** (05/17 10:01): https://keyx0.net/pop/
-- **アラキヒナタ** (05/17 10:01): おくったよ〜
-- **Tomoharukun** (05/18 06:50): できねぇわ
-- **アラキヒナタ** (05/18 09:54): まじかよ
+#### Comments (5)
+- **フォトナしたいいいいいいいいいいいいいいいいいい** (May 16, 2026 01:29am): これです
+- **アラキヒナタ** (May 17, 2026 10:01am): https://keyx0.net/pop/
+- **アラキヒナタ** (May 17, 2026 10:01am): おくったよ〜
+- **Tomoharukun** (May 18, 2026 06:50am): できねぇわ
+- **アラキヒナタ** (May 18, 2026 09:54am): まじかよ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 03:07
-- **更新日（UTC）:** 05/15 03:07
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 15, 2026 03:07am
+- **Updated At (UTC):** May 15, 2026 03:07am
 
 ---
 
 ### 16. 寿司打やる方法教えて
-**作成者:** 寿司
+**Author:** 寿司
 
-#### コメント (3)
-- **葵** (05/15 08:53): googleで寿司打って調べるとサイトが出てくるよ〜
-- **ヨカゼ** (05/17 13:06): 制限かかるから回避できる方法教えてって意味じゃないの？
-- **Tomoharukun** (05/18 06:50): えーわからないんだけど
+#### Comments (3)
+- **葵** (May 15, 2026 08:53am): googleで寿司打って調べるとサイトが出てくるよ〜
+- **ヨカゼ** (May 17, 2026 01:06pm): 制限かかるから回避できる方法教えてって意味じゃないの？
+- **Tomoharukun** (May 18, 2026 06:50am): えーわからないんだけど
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 03:02
-- **更新日（UTC）:** 05/15 03:02
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 15, 2026 03:02am
+- **Updated At (UTC):** May 15, 2026 03:02am
 
 ---
 
-### 17. 投稿 17
-**作成者:** 谷内ですーー (gs225971)
+### 17. Post 17
+**Author:** 谷内ですーー (gs225971)
 
 <p>誰かゲーム教えて</p>
 
-#### コメント (2)
-- **inoue** (05/15 10:56): https://app.metalife.co.jp/spaces
-- **くさかだいき** (05/24 04:36): なにこれ
+#### Comments (2)
+- **inoue** (May 15, 2026 10:56am): https://app.metalife.co.jp/spaces
+- **くさかだいき** (May 24, 2026 04:36am): なにこれ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 02:44
-- **更新日（UTC）:** 05/15 02:44
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 15, 2026 02:44am
+- **Updated At (UTC):** May 15, 2026 02:44am
 
 ---
 
 ### 18. みんなが好きなゲームって何？　みんな返事してほしい
-**作成者:** アラキヒナタ (gs221373)
+**Author:** アラキヒナタ (gs221373)
 
-#### コメント (18)
-- **モリカゼ** (05/14 11:40): あつ森とトモコレ
-- **天才くん** (05/14 12:21): 新しいプロキシクレーーーーーーーーーーーーーーーーーーーーーー
-- **天才くん** (05/14 12:21): プロキシください前
-- **天才くん** (05/14 12:25): 車ゲームロブロ色々集ゲーム
-- **hikaぴかそ** (05/15 02:36): シャニマス、放置少女
-- **Tomoharukun** (05/15 03:00): みないろいろありますな
-- **Tomoharukun** (05/15 03:01): オレはアモングアス
-- **コミヤシンゴ** (05/15 06:18): ロブロックス
-- **葵** (05/15 08:54): あ…あらきさん
-- **葵** (05/15 08:56): 私は推理ゲーム（ホラーじゃない脱出ゲーム的な？）
-- **けんけん❤** (05/15 09:06): スプラトゥーンだよ
-- **08tetu16** (05/15 09:37): 僕のヒーローアカデミアウルトラランブル
-- **フォトナしたいいいいいいいいいいいいいいいいいい** (05/15 23:09): フォートナイトしか勝たん
-- **フォトナしたいいいいいいいいいいいいいいいいいい** (05/15 23:10): ミンミンですよ
-- **真田の末** (05/16 11:14): 俺は真田　雄
-- **川井田** (05/16 21:47): フォトナのバトロワ
-- **ボーイ** (05/17 01:03): フォートナイト
-- **アラキヒナタ** (05/17 09:55): ちなみに僕はフォトナとスプラ
+#### Comments (18)
+- **モリカゼ** (May 14, 2026 11:40am): あつ森とトモコレ
+- **天才くん** (May 14, 2026 12:21pm): 新しいプロキシクレーーーーーーーーーーーーーーーーーーーーーー
+- **天才くん** (May 14, 2026 12:21pm): プロキシください前
+- **天才くん** (May 14, 2026 12:25pm): 車ゲームロブロ色々集ゲーム
+- **hikaぴかそ** (May 15, 2026 02:36am): シャニマス、放置少女
+- **Tomoharukun** (May 15, 2026 03:00am): みないろいろありますな
+- **Tomoharukun** (May 15, 2026 03:01am): オレはアモングアス
+- **コミヤシンゴ** (May 15, 2026 06:18am): ロブロックス
+- **葵** (May 15, 2026 08:54am): あ…あらきさん
+- **葵** (May 15, 2026 08:56am): 私は推理ゲーム（ホラーじゃない脱出ゲーム的な？）
+- **けんけん❤** (May 15, 2026 09:06am): スプラトゥーンだよ
+- **08tetu16** (May 15, 2026 09:37am): 僕のヒーローアカデミアウルトラランブル
+- **フォトナしたいいいいいいいいいいいいいいいいいい** (May 15, 2026 11:09pm): フォートナイトしか勝たん
+- **フォトナしたいいいいいいいいいいいいいいいいいい** (May 15, 2026 11:10pm): ミンミンですよ
+- **真田の末** (May 16, 2026 11:14am): 俺は真田　雄
+- **川井田** (May 16, 2026 09:47pm): フォトナのバトロワ
+- **ボーイ** (May 17, 2026 01:03am): フォートナイト
+- **アラキヒナタ** (May 17, 2026 09:55am): ちなみに僕はフォトナとスプラ
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/14 10:15
-- **更新日（UTC）:** 05/15 02:18
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 14, 2026 10:15am
+- **Updated At (UTC):** May 15, 2026 02:18am
 
 ---
 
 ### 19. やっぱこれ
-**作成者:** Tomoharukun (Tomoharukun)
+**Author:** Tomoharukun (Tomoharukun)
 
-[添付ファイル 1](https://mergecraft.gcdn.co/publish/html5/)
+[Attachment 1](https://mergecraft.gcdn.co/publish/html5/)
 
-#### コメント (1)
-- **フネウタ** (05/14 07:31): おもしろくないだろ
+#### Comments (1)
+- **フネウタ** (May 14, 2026 07:31am): おもしろくないだろ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/14 04:35
-- **更新日（UTC）:** 05/14 04:35
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 14, 2026 04:35am
+- **Updated At (UTC):** May 14, 2026 04:35am
 
 ---
 
 ### 20. だれかオンラインゲーム持ってませんか？
-**作成者:** Kick (daikisabu1225)
+**Author:** Kick (daikisabu1225)
 
-#### コメント (2)
-- **Anonymous** (05/14 02:33): うっえううぇー
-- **Kick** (05/14 05:25): ？
+#### Comments (2)
+- **Anonymous** (May 14, 2026 02:33am): うっえううぇー
+- **Kick** (May 14, 2026 05:25am): ？
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/14 01:49
-- **更新日（UTC）:** 05/14 01:50
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 14, 2026 01:49am
+- **Updated At (UTC):** May 14, 2026 01:50am
 
 ---
 
 ### 21. ｒｇじゃｐ
-**作成者:** I love 純也 (gs221372)
+**Author:** I love 純也 (gs221372)
 
-[添付ファイル 1](https://www.google.com/search?q=Search+for+a+Game+site%3Aculinaryschools.org&rlz=1CANKBA_enJP1198&oq=Search+for+a+Game+site%3Aculinaryschools.org&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg70gEINDI5MGowajGoAgCwAgA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on)
+[Attachment 1](https://www.google.com/search?q=Search+for+a+Game+site%3Aculinaryschools.org&rlz=1CANKBA_enJP1198&oq=Search+for+a+Game+site%3Aculinaryschools.org&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg70gEINDI5MGowajGoAgCwAgA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 05:40
-- **更新日（UTC）:** 05/13 05:40
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 05:40am
+- **Updated At (UTC):** May 13, 2026 05:40am
 
 ---
 
 ### 22. うい
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://leveldeviltopvaz.github.io/go/class-26.html)
+[Attachment 1](https://leveldeviltopvaz.github.io/go/class-26.html)
 
-#### コメント (2)
-- **Anonymous** (05/13 03:48): 出来ないデス声の、声のある意味ではないかと電車
-- **inoue** (05/13 08:34): できない
+#### Comments (2)
+- **Anonymous** (May 13, 2026 03:48am): 出来ないデス声の、声のある意味ではないかと電車
+- **inoue** (May 13, 2026 08:34am): できない
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 02:26
-- **更新日（UTC）:** 05/13 02:26
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 02:26am
+- **Updated At (UTC):** May 13, 2026 02:26am
 
 ---
 
 ### 23. うい
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://www.dailytoolz.com/gameindex.php)
+[Attachment 1](https://www.dailytoolz.com/gameindex.php)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 02:25
-- **更新日（UTC）:** 05/13 02:25
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 02:25am
+- **Updated At (UTC):** May 13, 2026 02:25am
 
 ---
 
 ### 24. うい
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://sigmasigmatoiletedge.github.io/games)
+[Attachment 1](https://sigmasigmatoiletedge.github.io/games)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 02:25
-- **更新日（UTC）:** 05/13 02:25
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 02:25am
+- **Updated At (UTC):** May 13, 2026 02:25am
 
 ---
 
 ### 25. うい
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://kol.id/download-video/youtube)
+[Attachment 1](https://kol.id/download-video/youtube)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 02:25
-- **更新日（UTC）:** 05/13 02:25
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 02:25am
+- **Updated At (UTC):** May 13, 2026 02:25am
 
 ---
 
 ### 26. うい
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://mathcordxp.github.io/)
+[Attachment 1](https://mathcordxp.github.io/)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 02:25
-- **更新日（UTC）:** 05/13 02:25
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 02:25am
+- **Updated At (UTC):** May 13, 2026 02:25am
 
 ---
 
 ### 27. うい
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
-[添付ファイル 1](https://prakashnewxy1.github.io/macvg/)
+[Attachment 1](https://prakashnewxy1.github.io/macvg/)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 02:24
-- **更新日（UTC）:** 05/13 02:24
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 02:24am
+- **Updated At (UTC):** May 13, 2026 02:24am
 
 ---
 
-### 28. 投稿 28
-**作成者:** inoue (gs221318_1)
+### 28. Post 28
+**Author:** inoue (gs221318_1)
 
 <p><a rel="noopener noreferrer nofollow" href="https://ryanjetplane1.codeberg.page/Openbeta/@cookie-clicker/">https://ryanjetplane1.codeberg.page/Openbeta/@cookie-clicker/</a>　名前これにする土地‐と使える</p><p><br/></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4323277141/82031854f4bc993acb32d58e9c566643/Screenshot_2026_05_13_10_28_34.png?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=kjXDebDF4Doq%2BdfEE9ZQnM0WDRFYYbvYZb7NcKMV8xiL8JZdOtDRWezsDGnz2%2FuHjt1lX85YzcB28OnpNQSlrs%2FG6Ydm0xoGPaun1flOOx%2FIs6NKvMvCGeztcDhTe9045M7%2B570jE3Gm7x0vtcu%2F0iGthJFyL57uuaYbD3rczRw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4323277141%2F82031854f4bc993acb32d58e9c566643%2FScreenshot_2026_05_13_10_28_34.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4323277141/82031854f4bc993acb32d58e9c566643/Screenshot_2026_05_13_10_28_34.png?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=shRGk4bf09kIqHav9WGAjRHAn3yy78zRs2setujwzNfzAa4rLHZSMDne%2BrDwRVs8utfSdg%2BgCHGt6RX66pH8gcXnEAgviWx3hgkaK4NeZ2o6n8Q4c9ZoSDFlD6wwDx%2FCfo5FPOdF5XQ%2FUtyvwXPDngO9B4kra0XzDq%2BkSopNYVI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4323277141%2F82031854f4bc993acb32d58e9c566643%2FScreenshot_2026_05_13_10_28_34.png)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 01:30
-- **更新日（UTC）:** 05/13 01:30
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 01:30am
+- **Updated At (UTC):** May 13, 2026 01:30am
 
 ---
 
 ### 29. サッカーゲームほしいです
-**作成者:** いつき (gs193404)
+**Author:** いつき (gs193404)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5554313483/3730200778baf740315de69ef9bf09dc/videoplayback__30_.mp4?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=16IkU7ozGJaaQkZg5gKz0vDaiGO1C3XBUacU8odhnZdTcaGQbkth8F4th5ZxRlLGGAENw5s4nXZjOQvRJppiFCrK3U4Ztzc97EuBwO6vwhsemFqkqfzXyXS6lF8i4O4tHMWzguHrZhIZnCFlFzfJykpbOkMGSHX4TKhGsVj6I8E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5554313483%2F3730200778baf740315de69ef9bf09dc%2Fvideoplayback__30_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5554313483/3730200778baf740315de69ef9bf09dc/videoplayback__30_.mp4?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RWiuZ1d0RqWoaNNCqJvedIyMx64ltBspMarob75wUUTmeyCDzgLJkTBo%2BYimqxNOs7w6jQW6GM83%2BVrdGoLcgvePOcYfhzFh2RRW0bZyqn8wZ9fFx2u%2BQmwjt3x1W5%2BCeUNbu0WLgnYLAHgky1MIoldskJGOVNgFn8qe%2FNtL56M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5554313483%2F3730200778baf740315de69ef9bf09dc%2Fvideoplayback__30_.mp4)
 
-#### コメント (1)
-- **パトリック** (05/13 07:50): おれもーーーーーーー
+#### Comments (1)
+- **パトリック** (May 13, 2026 07:50am): おれもーーーーーーー
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/12 11:24
-- **更新日（UTC）:** 05/12 11:24
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 12, 2026 11:24am
+- **Updated At (UTC):** May 12, 2026 11:24am
 
 ---
 
-### 30. 投稿 30
-**作成者:** こよちゃん
+### 30. Post 30
+**Author:** こよちゃん
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5633292936/d8296c185b1ed0e782cbe49c37388f77/Screenshot_2026_05_12_13_11_45.png?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=OjXhN6P7w%2FeG2UJopfw6ATxkXDjJvr5szx42uIaF%2BgHpq9UQ4J7M0F9huq2K9fO4EfPz%2BKNieso56fY52btknUy6FE4Z21GnePW%2BIP9oimbR4hKhCqgBBhRKMrJ8uVN9%2FZVzptP4dnZhXej9pjSud7DY5DLlNGz9L0bdX7HieQw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5633292936%2Fd8296c185b1ed0e782cbe49c37388f77%2FScreenshot_2026_05_12_13_11_45.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5633292936/d8296c185b1ed0e782cbe49c37388f77/Screenshot_2026_05_12_13_11_45.png?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=03ZYdGOJFClADJMf4a47tXZacOtp%2BhKl3T4ypajXdizi4fmPuosWVdq9rgX74WyY8Cj1v%2BivUL0B8aUJRAqXArE6uJhZljlbH%2F1SqCsuXfu3IFgc36kTkH78CMTIdKnsZy6734rlkGg%2FhO8E3Kpwlb6rr%2BPI%2BRTp0f3gUPc%2BSh0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5633292936%2Fd8296c185b1ed0e782cbe49c37388f77%2FScreenshot_2026_05_12_13_11_45.png)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/12 04:12
-- **更新日（UTC）:** 05/12 04:12
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 12, 2026 04:12am
+- **Updated At (UTC):** May 12, 2026 04:12am
 
 ---
 
 ### 31. プロセカありますか？
-**作成者:** リョウ[yamada takeru] (Ryo_shinpei)
+**Author:** リョウ[yamada takeru] (Ryo_shinpei)
 
 <p>あったらください</p>
 
-#### コメント (1)
-- **くさかだいき** (05/24 04:52): プロセカは難しいんじゃないか
+#### Comments (1)
+- **くさかだいき** (May 24, 2026 04:52am): プロセカは難しいんじゃないか
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/12 03:46
-- **更新日（UTC）:** 05/12 03:46
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 12, 2026 03:46am
+- **Updated At (UTC):** May 12, 2026 03:46am
 
 ---
 
 ### 32. これおもろい
-**作成者:** やあ
+**Author:** やあ
 
-[添付ファイル 1](https://uchuzine.sakura.ne.jp/pico8/)
+[Attachment 1](https://uchuzine.sakura.ne.jp/pico8/)
 
-#### コメント (2)
-- **天才くん** (05/11 22:41): 多分誰でも持ってる
-- **天才くん** (05/12 11:01): もう少しこう面白いやつを探せ
+#### Comments (2)
+- **天才くん** (May 11, 2026 10:41pm): 多分誰でも持ってる
+- **天才くん** (May 12, 2026 11:01am): もう少しこう面白いやつを探せ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/11 13:45
-- **更新日（UTC）:** 05/11 13:45
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 11, 2026 01:45pm
+- **Updated At (UTC):** May 11, 2026 01:45pm
 
 ---
 
 ### 33. 豚さん
-**作成者:** I love 純也 (gs221372)
+**Author:** I love 純也 (gs221372)
 
-[添付ファイル 1](https://betterbull.com/uploads/5/5/6/7/5567194/custom_themes/811766381464516446/files/index.html)
+[Attachment 1](https://betterbull.com/uploads/5/5/6/7/5567194/custom_themes/811766381464516446/files/index.html)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/11 08:16
-- **更新日（UTC）:** 05/11 08:16
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 11, 2026 08:16am
+- **Updated At (UTC):** May 11, 2026 08:16am
 
 ---
 
 ### 34. 飽きない
-**作成者:** I love 純也 (gs221372)
+**Author:** I love 純也 (gs221372)
 
-[添付ファイル 1](https://mergecraft.gcdn.co/publish/html5/)
+[Attachment 1](https://mergecraft.gcdn.co/publish/html5/)
 
-#### コメント (9)
-- **かうぇーだ陸** (05/11 06:50): (・∀・)ｲｲﾈ!!　川井田より
-- **inoue** (05/11 11:08): 川井田陸なの？
-- **天才くん** (05/11 22:50): ラグすぎてできない
-- **天才くん** (05/11 22:50): 😰
-- **Tomoharukun** (05/12 06:59): どうやって見つけたねん
-- **ホソダソラ** (05/13 08:29): おもしろい^_^
-- **Hina52** (05/14 04:55): 笑
-- **Tomoharukun** (05/15 02:39): ほんとそれ
-- **wawawawawa** (05/25 11:31): いっときハマる
+#### Comments (9)
+- **かうぇーだ陸** (May 11, 2026 06:50am): (・∀・)ｲｲﾈ!!　川井田より
+- **inoue** (May 11, 2026 11:08am): 川井田陸なの？
+- **天才くん** (May 11, 2026 10:50pm): ラグすぎてできない
+- **天才くん** (May 11, 2026 10:50pm): 😰
+- **Tomoharukun** (May 12, 2026 06:59am): どうやって見つけたねん
+- **ホソダソラ** (May 13, 2026 08:29am): おもしろい^_^
+- **Hina52** (May 14, 2026 04:55am): 笑
+- **Tomoharukun** (May 15, 2026 02:39am): ほんとそれ
+- **wawawawawa** (May 25, 2026 11:31am): いっときハマる
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/11 05:27
-- **更新日（UTC）:** 05/11 05:27
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 11, 2026 05:27am
+- **Updated At (UTC):** May 11, 2026 05:27am
 
 ---
 
-### 35. 投稿 35
-**作成者:** 理亜 (gs240303)
+### 35. Post 35
+**Author:** 理亜 (gs240303)
 
-[添付ファイル 1](https://prakashnewxy1.github.io/macvg/projects/cookie-clicker/)
+[Attachment 1](https://prakashnewxy1.github.io/macvg/projects/cookie-clicker/)
 
-#### コメント (1)
-- **yuuto,k** (05/12 07:55): うは
+#### Comments (1)
+- **yuuto,k** (May 12, 2026 07:55am): うは
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/10 03:30
-- **更新日（UTC）:** 05/11 21:42
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 10, 2026 03:30am
+- **Updated At (UTC):** May 11, 2026 09:42pm
 
 ---
 
 ### 36. 車系のゲームいっぱいください
-**作成者:** アカネ
+**Author:** アカネ
 
-#### コメント (3)
-- **ヒバリオト** (05/10 03:48): かっけー
-- **I love 純也** (05/12 09:03): https://www.yoosfuhl.com/games/death-racing-car
-- **天才くん** (05/12 10:43): ブロ
+#### Comments (3)
+- **ヒバリオト** (May 10, 2026 03:48am): かっけー
+- **I love 純也** (May 12, 2026 09:03am): https://www.yoosfuhl.com/games/death-racing-car
+- **天才くん** (May 12, 2026 10:43am): ブロ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/09 09:58
-- **更新日（UTC）:** 05/09 09:58
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 09, 2026 09:58am
+- **Updated At (UTC):** May 09, 2026 09:58am
 
 ---
 
 ### 37. サバゲー欲しい。誰かくれ
-**作成者:** いつき (gs193404)
+**Author:** いつき (gs193404)
 
-#### コメント (15)
-- **にんじん** (05/08 22:44): え、わかる
-- **いつき** (05/08 22:46): 1v1LOL欲しい
-- **にんじん** (05/08 22:47): すごい人にたのんでみるか
-- **からぴち　どぬ推し** (05/08 23:03): 1v1lolあるよ
-- **からぴち　どぬ推し** (05/08 23:04): 載せる？
-- **ふっじー（犬系）** (05/08 23:09): 信用できる人におくらんとブロられるぞ
-- **いつき** (05/08 23:16): 載せてほしいです
-- **からぴち　どぬ推し** (05/08 23:23): ちょっとまってて
-- **からぴち　どぬ推し** (05/08 23:24): このサイトの上の方にあるよ
-- **いつき** (05/08 23:28): エラーってでます　404のやつ
-- **からぴち　どぬ推し** (05/08 23:39): マジ？ごめん
-- **からぴち　どぬ推し** (05/08 23:39): ブロされた？
-- **天才くん** (05/09 05:57): わからん
-- **旧世界男** (05/15 14:40): どぬ推しここにも発見
-- **旧世界男** (05/15 14:40): 荒らしマン
+#### Comments (15)
+- **にんじん** (May 08, 2026 10:44pm): え、わかる
+- **いつき** (May 08, 2026 10:46pm): 1v1LOL欲しい
+- **にんじん** (May 08, 2026 10:47pm): すごい人にたのんでみるか
+- **からぴち　どぬ推し** (May 08, 2026 11:03pm): 1v1lolあるよ
+- **からぴち　どぬ推し** (May 08, 2026 11:04pm): 載せる？
+- **ふっじー（犬系）** (May 08, 2026 11:09pm): 信用できる人におくらんとブロられるぞ
+- **いつき** (May 08, 2026 11:16pm): 載せてほしいです
+- **からぴち　どぬ推し** (May 08, 2026 11:23pm): ちょっとまってて
+- **からぴち　どぬ推し** (May 08, 2026 11:24pm): このサイトの上の方にあるよ
+- **いつき** (May 08, 2026 11:28pm): エラーってでます　404のやつ
+- **からぴち　どぬ推し** (May 08, 2026 11:39pm): マジ？ごめん
+- **からぴち　どぬ推し** (May 08, 2026 11:39pm): ブロされた？
+- **天才くん** (May 09, 2026 05:57am): わからん
+- **旧世界男** (May 15, 2026 02:40pm): どぬ推しここにも発見
+- **旧世界男** (May 15, 2026 02:40pm): 荒らしマン
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 22:42
-- **更新日（UTC）:** 05/08 22:42
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 10:42pm
+- **Updated At (UTC):** May 08, 2026 10:42pm
 
 ---
 
 ### 38. この中にいっぱいゲームある
-**作成者:** inoue (gs221318_1)
+**Author:** inoue (gs221318_1)
 
-[添付ファイル 1](https://ryanjetplane1.codeberg.page/Openbeta/)
+[Attachment 1](https://ryanjetplane1.codeberg.page/Openbeta/)
 
-#### コメント (1)
-- **Hina52** (05/14 04:56): お前井上なんか
+#### Comments (1)
+- **Hina52** (May 14, 2026 04:56am): お前井上なんか
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 21:51
-- **更新日（UTC）:** 05/08 21:51
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 09:51pm
+- **Updated At (UTC):** May 08, 2026 09:51pm
 
 ---
 
 ### 39. ゲーム結構ある
-**作成者:** inoue (gs221318_1)
+**Author:** inoue (gs221318_1)
 
-[添付ファイル 1](https://reider71164.github.io/gxmesites.html)
+[Attachment 1](https://reider71164.github.io/gxmesites.html)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 21:40
-- **更新日（UTC）:** 05/08 21:40
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 09:40pm
+- **Updated At (UTC):** May 08, 2026 09:40pm
 
 ---
 
 ### 40. 俺のお気に入り
-**作成者:** 天才くん
+**Author:** 天才くん
 
 <p><a rel="noopener noreferrer nofollow" href="https://top-medical-schools.org/">https://top-medical-schools.org/</a></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5614816367/1d4751b0828523d0271bf78e5aec2ce1/IMG_0173.png?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=po7HKRSM3zZyVkUCVl5bCb1fI4ozCnoNXSR5%2Fere47jCOtnTPzq7OgcP1cyC9YkLZFmuVVCDhLOmw9MBH7eKjHhU52TGy%2Bn2A0YFjGV6IvoOi02R9Xnb27UWblgc4XsGs4QioP30vn73tPEV9uWValSbI1GoeHQqe6JTx47aGGc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614816367%2F1d4751b0828523d0271bf78e5aec2ce1%2FIMG_0173.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614816367/1d4751b0828523d0271bf78e5aec2ce1/IMG_0173.png?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JYVg1UBapiWjmG%2Fk11AZtSYxP6Bd24yfIPHNMSp4KmO6ALIVDsdnKKVDyxWpZ8Qm9WpRDINM4Gqh9yxhwQLIB8n7oD1ro54oNNmti4E43dpQeLRI0wSPgQAIYsmORl2nbiWtQI3DLOD2Pp%2BcZeUXVBb9QCF7IE922HYcZ3mCh1c%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614816367%2F1d4751b0828523d0271bf78e5aec2ce1%2FIMG_0173.png)
 
-#### コメント (7)
-- **天才くん** (05/08 10:52): 100個以上あるよできなかったらごめんなさい。これは誰にも教えないでくださいお願いします🙏
-- **天才くん** (05/08 11:05): 誰かプロキシ教えてください教えてくれたらいいゲームサイト教えるので
-- **Shunnnnnnnnnnnnnnn** (05/10 09:41): 神！i-FILTERできる
-- **Shunnnnnnnn** (05/10 10:03): Youtubeやツイッチ、英語版の映画も見れる！
-- **天才くん** (05/11 12:23): あざす🤩
-- **天才くん** (05/11 12:25): 天才くんは俺なんやけど壁紙は変わるけどぼくは天才くんだよ
-- **天才くん** (05/11 12:27): 家みたいなところを押して英語でプレイ「Plli」があるからそこおして
+#### Comments (7)
+- **天才くん** (May 08, 2026 10:52am): 100個以上あるよできなかったらごめんなさい。これは誰にも教えないでくださいお願いします🙏
+- **天才くん** (May 08, 2026 11:05am): 誰かプロキシ教えてください教えてくれたらいいゲームサイト教えるので
+- **Shunnnnnnnnnnnnnnn** (May 10, 2026 09:41am): 神！i-FILTERできる
+- **Shunnnnnnnn** (May 10, 2026 10:03am): Youtubeやツイッチ、英語版の映画も見れる！
+- **天才くん** (May 11, 2026 12:23pm): あざす🤩
+- **天才くん** (May 11, 2026 12:25pm): 天才くんは俺なんやけど壁紙は変わるけどぼくは天才くんだよ
+- **天才くん** (May 11, 2026 12:27pm): 家みたいなところを押して英語でプレイ「Plli」があるからそこおして
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 10:50
-- **更新日（UTC）:** 05/08 10:50
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 10:50am
+- **Updated At (UTC):** May 08, 2026 10:50am
 
 ---
 
 ### 41. 昔はやってたゲームサイト
-**作成者:** 天才くん
+**Author:** 天才くん
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.dailytoolz.com/cubes-2048/iframe.html">https://www.dailytoolz.com/cubes-2048/iframe.html</a></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/20f236b157391850ff5bae9843846536/IMG_0172.png?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=IczkjTZCXOiEV133Blojr9NAxwFynpiUhR3dOu9tHB0Cv6YzgflQXIEWziaYh5u5uaDZDUqvsRHlcfLxH6xzJlxxXmNDl5kEmb%2FYyB9i0rthj4LIvkO0j9LUECdu%2BO7lKGUdP4XZiNYG%2FQMIPn6D6L6BOtdmCT6Homz3efFoZlI%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F20f236b157391850ff5bae9843846536%2FIMG_0172.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/20f236b157391850ff5bae9843846536/IMG_0172.png?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=BrbO%2FVrzCgYJj7x7BlPMcMtFySTUqN30TQIasepDsq%2F%2F9m7BjckF4%2BdVTdTMBhhI87SUvlwQbkQOUBkC628v8GZYVezLponRX1xnkFhoP5dbI5xB97v77zD89E1IQYsPmdyxmizszKn3KB4s5YEFj4XHqFx0kEJ1Wu3vg00va2g%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F20f236b157391850ff5bae9843846536%2FIMG_0172.png)
 
-#### コメント (2)
-- **天才くん** (05/08 08:38): まあこれはだれでももってるか🤭
-- **葵** (05/16 08:21): へ〜楽しい
+#### Comments (2)
+- **天才くん** (May 08, 2026 08:38am): まあこれはだれでももってるか🤭
+- **葵** (May 16, 2026 08:21am): へ〜楽しい
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 08:14
-- **更新日（UTC）:** 05/08 08:14
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 08:14am
+- **Updated At (UTC):** May 08, 2026 08:14am
 
 ---
 
 ### 42. これも暇つぶしゲームまあまあ楽しいよ🙆
-**作成者:** 天才くん
+**Author:** 天才くん
 
 <p><a rel="noopener noreferrer nofollow" href="https://medv.io/bit-planes/">https://medv.io/bit-planes/</a></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/217cb8fa024df84caa78409f1162281a/IMG_0171.png?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Rs7hPRbJ8bdGt34cUy7kVUVPnafn4LzCgDuCI%2BmV4lNbFwMaad6KQ0ioT1hcamgB3Q8wYVdDGRickU%2F9RPzH%2BlPIwK%2BhXLQx2eMFDNBeBq9BVAmmfdSaQrvzEjdISsb8yTErVaWb7vZkv9zWSFjvYov3mb9CmKuqLkV6xoXpCIg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F217cb8fa024df84caa78409f1162281a%2FIMG_0171.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/217cb8fa024df84caa78409f1162281a/IMG_0171.png?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=RrWCUN6isEQvYNfEjZiN938sbJtVodVZCVZ%2BEv32ZuajgXZm%2BRk9DnZedyM1RXw15ALLCofdgDf3dExKojqLQXA4HHoBKf85Epzrpd4pvgX%2Bpq0S28bykyUvjcqZq6ryvS8d%2B9rDFRjLtonU8Ty1O3IzEk7akAaXQ%2F7FcfLOyOc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F217cb8fa024df84caa78409f1162281a%2FIMG_0171.png)
 
-#### コメント (2)
-- **天才くん** (05/08 08:12): 長文借りますすみません教えれないものがあります😭ぼくが持ってるのはこれを合わせなくても100個以上ありますその中で教えていいものや暇つぶしゲームを教えています
-- **＾＿＾** (05/10 00:03): 👍
+#### Comments (2)
+- **天才くん** (May 08, 2026 08:12am): 長文借りますすみません教えれないものがあります😭ぼくが持ってるのはこれを合わせなくても100個以上ありますその中で教えていいものや暇つぶしゲームを教えています
+- **＾＿＾** (May 10, 2026 12:03am): 👍
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 08:10
-- **更新日（UTC）:** 05/08 08:10
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 08:10am
+- **Updated At (UTC):** May 08, 2026 08:10am
 
 ---
 
 ### 43. 暇つぶしゲーム楽しいよ😀
-**作成者:** 天才くん
+**Author:** 天才くん
 
 <p><a rel="noopener noreferrer nofollow" href="https://s3.eu-central-1.amazonaws.com/snoutupgames/ironsnout/index.html">https://s3.eu-central-1.amazonaws.com/snoutupgames/ironsnout/index.html</a></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/551f28b370c1d6bd28eeb4c7d908cade/IMG_0170.png?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ooAwXFHf7dRrALC0nOEKK18i8FXnjfI%2FyJwJGA6Npgu7zqBaMs3cJmSVg9E75GKPUkflMS9Qbb3yIAEtyeLDm3tVEKJ2JTtM75hUgvst8WETG%2FBdAfubD%2BnHQSyz10zpysKrOPQDu14FLmE%2FhSTjhmuQZYF8RtFVRxtKLan9GVA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F551f28b370c1d6bd28eeb4c7d908cade%2FIMG_0170.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/551f28b370c1d6bd28eeb4c7d908cade/IMG_0170.png?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=EQsM%2FnruRCBwPD%2BXJrCoBNtoZWX8WuDuzDHbU2tua4gR895BiQR4n%2BD0zGAzHXeMPLLfk3lKnR71QBFT41A8WMZi6kV7gsW56%2Bp1CpQpFp8%2BldF7pUCCPqePw6uAbMOO9kgp4%2BZlGrXgxtFQDfiIMVS4GUaRLGc90%2Frt51YDdSs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F551f28b370c1d6bd28eeb4c7d908cade%2FIMG_0170.png)
 
-#### コメント (3)
-- **天才くん** (05/08 08:15): 楽しかったらコメントとハートよろしく
-- **天才くん** (05/08 08:15): 🧐
-- **inoue** (05/08 21:36): 👍
+#### Comments (3)
+- **天才くん** (May 08, 2026 08:15am): 楽しかったらコメントとハートよろしく
+- **天才くん** (May 08, 2026 08:15am): 🧐
+- **inoue** (May 08, 2026 09:36pm): 👍
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 08:08
-- **更新日（UTC）:** 05/08 08:08
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 08:08am
+- **Updated At (UTC):** May 08, 2026 08:08am
 
 ---
 
 ### 44. ブロック解除アプリ
-**作成者:** 天才くん
+**Author:** 天才くん
 
 <p><a rel="noopener noreferrer nofollow" href="https://edu.50friends.com.mx/">https://edu.50friends.com.mx/</a></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/f99b558c36c292d93bf4f52082779246/IMG_0169.png?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=MdPj%2F%2B09SfWM2g4qEu4KYXSyGtx8%2BAkGyaD9tzgrnHMkBUNyy3ZXzQ6pHSkQToxo46KRNEOA4XZshzfIND47LxmcpT75gF1Oa2QdsrYmaaJMlf2MBlN9XGg%2FLtm9fFFXRL5JXP1vvdQ73bnbbCA1HCzuc0emupN2VV4486LhhoE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2Ff99b558c36c292d93bf4f52082779246%2FIMG_0169.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/f99b558c36c292d93bf4f52082779246/IMG_0169.png?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Yz1b3fz76hIbZrLsOWXPGD%2FQAdG27qPtPGE8ythFgT3cru8ftcyvtQqeEuTnAmz4niOIQgoDDiOitAJq1xnhyUQMRDvRT8v%2BpP9pwPEj2IipLvgXQLw1TD0S%2BxBHCA5zeBBEyrbOFavdTLxilmgZ50lIHpThKyKQProMmKKh0g8%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2Ff99b558c36c292d93bf4f52082779246%2FIMG_0169.png)
 
-#### コメント (5)
-- **天才くん** (05/08 08:06): 絶対にできます🤣
-- **天才くん** (05/08 08:06): ポキとかラグいヤツは時間がかかるかもしれませんまだまだあるので欲しいものがあったらコメントして！
-- **天才くん** (05/08 08:15): 😘
-- **天才くん** (05/08 10:53): できなかったらコメントして
-- **ミズビキ** (05/08 12:13): 私はロボットではありません。から進めない
+#### Comments (5)
+- **天才くん** (May 08, 2026 08:06am): 絶対にできます🤣
+- **天才くん** (May 08, 2026 08:06am): ポキとかラグいヤツは時間がかかるかもしれませんまだまだあるので欲しいものがあったらコメントして！
+- **天才くん** (May 08, 2026 08:15am): 😘
+- **天才くん** (May 08, 2026 10:53am): できなかったらコメントして
+- **ミズビキ** (May 08, 2026 12:13pm): 私はロボットではありません。から進めない
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 08:05
-- **更新日（UTC）:** 05/08 08:05
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 08:05am
+- **Updated At (UTC):** May 08, 2026 08:05am
 
 ---
 
 ### 45. 無制限YouTube
-**作成者:** 天才くん
+**Author:** 天才くん
 
 <p><a rel="noopener noreferrer nofollow" href="https://kol.id/download-video/youtube">https://kol.id/download-video/youtube</a></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/fa465192eededf486545a9445ab3fdfd/IMG_0168.png?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sU5f6VLpcQzY%2FAdfEKDe6i1LrDBKrBLs8T2sYIA4t7PqgcZEjnHqj8gsu8whXVMCYnPJga9vnrTnXD5fXGTt1p5L7oscqs0xdCgMr1OKcjEXHxPNbb8u6qFn7XbzZjQyl6MJV8U6m3EeyAQBADKFI8Kz9zBi3LqzMDoULxIzsH4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2Ffa465192eededf486545a9445ab3fdfd%2FIMG_0168.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/fa465192eededf486545a9445ab3fdfd/IMG_0168.png?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=WLqBYO3lgVSKaa2AR61oIkDYa1JM%2B7QapJy%2BK%2FKXFxE4sOZ6uJKCqJPcqORVaMT%2Bpb6NEdZnLrPN%2FSbc0Dm6MKo58nC%2FcE%2BhaSgjG2YG871Jamk9FbbmVMnKfY7Q87Ghob1qRgjO246sPtZ4jzWAiQ%2ByfXh%2BGmLG8Xd3MK3O44M%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2Ffa465192eededf486545a9445ab3fdfd%2FIMG_0168.png)
 
-#### コメント (7)
-- **天才くん** (05/08 08:03): できなかったらコメントして
-- **天才くん** (05/08 08:16): まだまだYouTubeサイトは持ってるからできなかったら教えていくね！
-- **108** (05/08 09:35): できなーーーーーい
-- **天才くん** (05/08 10:47): まじ😳
-- **天才くん** (05/08 10:47): 新しいの追加しときます
-- **天才くん** (05/08 10:54): YouTubeは一個しか持ってないのでぼくが教えたブロック解除アプリを使って解除してYouTubeを見てください
-- **rokuta** (05/11 12:46): できんかった
+#### Comments (7)
+- **天才くん** (May 08, 2026 08:03am): できなかったらコメントして
+- **天才くん** (May 08, 2026 08:16am): まだまだYouTubeサイトは持ってるからできなかったら教えていくね！
+- **108** (May 08, 2026 09:35am): できなーーーーーい
+- **天才くん** (May 08, 2026 10:47am): まじ😳
+- **天才くん** (May 08, 2026 10:47am): 新しいの追加しときます
+- **天才くん** (May 08, 2026 10:54am): YouTubeは一個しか持ってないのでぼくが教えたブロック解除アプリを使って解除してYouTubeを見てください
+- **rokuta** (May 11, 2026 12:46pm): できんかった
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 08:03
-- **更新日（UTC）:** 05/08 08:03
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 08:03am
+- **Updated At (UTC):** May 08, 2026 08:03am
 
 ---
 
 ### 46. サブウェイとサーファズ
-**作成者:** 天才くん
+**Author:** 天才くん
 
 <p><a rel="noopener noreferrer nofollow" href="https://ryanjetplane1.codeberg.page/Openbeta/@subway-surfers/">https://ryanjetplane1.codeberg.page/Openbeta/@subway-surfers/</a></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/1f6c76a3ede7829c17fe7fff17c36282/image.png?Expires=1780487711&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=STovqa2%2BK0fkqTTYfUt58BoNWQdme0atIDbXJ1o%2B6u8164%2BMH%2B4bLrDG5xDmHoaWTb7Xlm7M7b0X11wHRxaBt62VGfGRNbl9Hq1oUIC1FA0qYBq9VNg7AMXjKIVCeyabTwVNpqp5XyxctbuMw%2Bf50%2BevCQwGo2rCO%2FuL1w8hwBE%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F1f6c76a3ede7829c17fe7fff17c36282%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/1f6c76a3ede7829c17fe7fff17c36282/image.png?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=dwoWRbOGQ1DNZaUg7sWqL%2F7kyqQYhalvyj6SPrGXLBW5oyGvYsR8V6eQJtzv96xtbAF7ViLElIonMgfHqAsZveVjdbflOIHdOUiiqEVCEMb%2FeunX7O17RUxwvl6mbEHP7RKapx0S6VnCnMid9kjeQ5WS7LS4zgmWY9u4JGyhJFg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F1f6c76a3ede7829c17fe7fff17c36282%2Fimage.png)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 08:01
-- **更新日（UTC）:** 05/08 08:02
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 08:01am
+- **Updated At (UTC):** May 08, 2026 08:02am
 
 ---
 
 ### 47. これ面白い
-**作成者:** inoue (gs221318_1)
+**Author:** inoue (gs221318_1)
 
-[添付ファイル 1](https://learnhotels.hotelconsuladoinn.com/)
+[Attachment 1](https://learnhotels.hotelconsuladoinn.com/)
 
-#### コメント (1)
-- **天才くん** (05/08 07:57): これ持ってる
+#### Comments (1)
+- **天才くん** (May 08, 2026 07:57am): これ持ってる
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 07:18
-- **更新日（UTC）:** 05/08 07:18
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 07:18am
+- **Updated At (UTC):** May 08, 2026 07:18am
 
 ---
 
 ### 48. 学校のiPadでロブロの仕方教えて
-**作成者:** シオノメ
+**Author:** シオノメ
 
 <p>いい</p>
 
-#### コメント (5)
-- **Seismic0981** (05/07 22:20): https://nowgg.fun/だった気がする
-- **inoue** (05/08 07:19): https://learnhotels.hotelconsuladoinn.com/　これで検索する
-- **天才くん** (05/08 08:18): ロブロ本物のサイト持ってるけど教えれませんごめんなさい
-- **天才くん** (05/08 08:19): 😩😖
-- **Tomoharukun** (05/15 02:50): よくわかるなーー
+#### Comments (5)
+- **Seismic0981** (May 07, 2026 10:20pm): https://nowgg.fun/だった気がする
+- **inoue** (May 08, 2026 07:19am): https://learnhotels.hotelconsuladoinn.com/　これで検索する
+- **天才くん** (May 08, 2026 08:18am): ロブロ本物のサイト持ってるけど教えれませんごめんなさい
+- **天才くん** (May 08, 2026 08:19am): 😩😖
+- **Tomoharukun** (May 15, 2026 02:50am): よくわかるなーー
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/07 22:13
-- **更新日（UTC）:** 05/07 22:14
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 07, 2026 10:13pm
+- **Updated At (UTC):** May 07, 2026 10:14pm
 
 ---
 
-### 49. 投稿 49
-**作成者:** inoue (gs221318_1)
+### 49. Post 49
+**Author:** inoue (gs221318_1)
 
 <p>これいろんなのできる</p>
 
-[添付ファイル 1](https://testing.suwal.com.np/)
+[Attachment 1](https://testing.suwal.com.np/)
 
-#### コメント (2)
-- **ふっじー（犬系）** (05/07 07:03): ブロ
-- **天才くん** (05/08 08:34): 持ってる
+#### Comments (2)
+- **ふっじー（犬系）** (May 07, 2026 07:03am): ブロ
+- **天才くん** (May 08, 2026 08:34am): 持ってる
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/07 07:03
-- **更新日（UTC）:** 05/07 07:03
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 07, 2026 07:03am
+- **Updated At (UTC):** May 07, 2026 07:03am
 
 ---
 
-### 50. 投稿 50
-**作成者:** inoue (gs221318_1)
+### 50. Post 50
+**Author:** inoue (gs221318_1)
 
 <p>家マーク押してplay押せばできる</p>
 
-[添付ファイル 1](https://top-medical-schools.org/)
+[Attachment 1](https://top-medical-schools.org/)
 
-#### コメント (4)
-- **ふっじー（犬系）** (05/07 07:01): ブロ
-- **誰でしょうか** (05/07 08:00): 転載じゃねえか
-- **天才くん** (05/08 08:35): プロ神ですね
-- **ヨカゼ** (05/08 13:22): 🤞
+#### Comments (4)
+- **ふっじー（犬系）** (May 07, 2026 07:01am): ブロ
+- **誰でしょうか** (May 07, 2026 08:00am): 転載じゃねえか
+- **天才くん** (May 08, 2026 08:35am): プロ神ですね
+- **ヨカゼ** (May 08, 2026 01:22pm): 🤞
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/07 07:01
-- **更新日（UTC）:** 05/07 07:01
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 07, 2026 07:01am
+- **Updated At (UTC):** May 07, 2026 07:01am
 
 ---
 
-### 51. 投稿 51
-**作成者:** inoue (gs221318_1)
+### 51. Post 51
+**Author:** inoue (gs221318_1)
 
 <p>これなんでもできる</p>
 
-[添付ファイル 1](https://edu.50friends.com.mx/)
+[Attachment 1](https://edu.50friends.com.mx/)
 
-#### コメント (2)
-- **ふっじー（犬系）** (05/07 07:00): ブロ
-- **天才くん** (05/08 08:35): 持ってる
+#### Comments (2)
+- **ふっじー（犬系）** (May 07, 2026 07:00am): ブロ
+- **天才くん** (May 08, 2026 08:35am): 持ってる
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/07 06:59
-- **更新日（UTC）:** 05/07 06:59
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 07, 2026 06:59am
+- **Updated At (UTC):** May 07, 2026 06:59am
 
 ---
 
 ### 52. 誰かフォトナやろ
-**作成者:** からぴち　どぬ推し (4225485)
+**Author:** からぴち　どぬ推し (4225485)
 
 <p>俺のID　I.HARUGA</p><p>送った人コメントにID 書いて</p><p>主にブレロやってます</p>
 
-#### コメント (9)
-- **フィッシーニボッシーニを知らない人は人生損してる** (05/04 04:06): おｋ
-- **フィッシーニボッシーニを知らない人は人生損してる** (05/04 04:06): はるが
-- **フィッシーニボッシーニを知らない人は人生損してる** (05/04 04:07): ほねどらごんとか
-- **フィッシーニボッシーニを知らない人は人生損してる** (05/04 04:07): ラクレイジー２たいとか
-- **フィッシーニボッシーニを知らない人は人生損してる** (05/04 04:07): きもいな
-- **からぴち　どぬ推し** (05/06 21:26): いちいち話しかけてくんなって
-- **からぴち　どぬ推し** (05/06 21:26): マジやめて
-- **kira** (05/07 13:21): ※こいつらは普通につながっています（悪い意味じゃない）
-- **くさかだいき** (05/24 05:13): そうなんだ
+#### Comments (9)
+- **フィッシーニボッシーニを知らない人は人生損してる** (May 04, 2026 04:06am): おｋ
+- **フィッシーニボッシーニを知らない人は人生損してる** (May 04, 2026 04:06am): はるが
+- **フィッシーニボッシーニを知らない人は人生損してる** (May 04, 2026 04:07am): ほねどらごんとか
+- **フィッシーニボッシーニを知らない人は人生損してる** (May 04, 2026 04:07am): ラクレイジー２たいとか
+- **フィッシーニボッシーニを知らない人は人生損してる** (May 04, 2026 04:07am): きもいな
+- **からぴち　どぬ推し** (May 06, 2026 09:26pm): いちいち話しかけてくんなって
+- **からぴち　どぬ推し** (May 06, 2026 09:26pm): マジやめて
+- **kira** (May 07, 2026 01:21pm): ※こいつらは普通につながっています（悪い意味じゃない）
+- **くさかだいき** (May 24, 2026 05:13am): そうなんだ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/03 09:21
-- **更新日（UTC）:** 05/03 09:21
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 03, 2026 09:21am
+- **Updated At (UTC):** May 03, 2026 09:21am
 
 ---
 
 ### 53. ブロスタするでー
-**作成者:** アマゾン
+**Author:** アマゾン
 
-#### コメント (3)
-- **Anonymous** (05/01 14:01): 今何トロ？
-- **ナガレ** (05/02 10:19): やリマショウ 
-- **ミズノキ** (05/03 07:46): トロとは？ 
+#### Comments (3)
+- **Anonymous** (May 01, 2026 02:01pm): 今何トロ？
+- **ナガレ** (May 02, 2026 10:19am): やリマショウ 
+- **ミズノキ** (May 03, 2026 07:46am): トロとは？ 
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/01 12:03
-- **更新日（UTC）:** 05/01 12:03
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 01, 2026 12:03pm
+- **Updated At (UTC):** May 01, 2026 12:03pm
 
 ---
 
 ### 54. ブロスタしてる人きて
-**作成者:** アマミズ
+**Author:** アマミズ
 
-#### コメント (2)
-- **木野文嵐** (04/30 05:49): はーい
-- **天才** (05/06 13:01): ごめんなさい
+#### Comments (2)
+- **木野文嵐** (Apr 30, 2026 05:49am): はーい
+- **天才** (May 06, 2026 01:01pm): ごめんなさい
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/30 01:17
-- **更新日（UTC）:** 04/30 01:17
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 30, 2026 01:17am
+- **Updated At (UTC):** Apr 30, 2026 01:17am
 
 ---
 
 ### 55. 学校のchromebookでマイクラしたい
-**作成者:** じゅんや
+**Author:** じゅんや
 
-#### コメント (7)
-- **げい** (04/30 05:04): https://d1tm91r4ytbt54.cloudfront.net/2779cbcb-a02f-48a3-9e2e-95a8d123d165/1685483461665/web/index.html
-- **じゅんや** (04/30 11:38): ありがとうございます！！
-- **じゅんや** (05/01 09:16): すみません最新バージョンのものはないでしょうか
-- **ふっじー** (05/02 05:14): 最新じゃなくてもあるだけサイコー
-- **ふっじー** (05/02 06:22): 最新でやりたいならここでproxyを見つけてeaglercraftと調べて見つけたほうがいいかと
-- **誰でしょうか** (05/07 08:04): https://issnowjp.github.io/issnow-Launcherで出来るよあはは
-- **天才くん** (05/11 22:58): できないよがはは
+#### Comments (7)
+- **げい** (Apr 30, 2026 05:04am): https://d1tm91r4ytbt54.cloudfront.net/2779cbcb-a02f-48a3-9e2e-95a8d123d165/1685483461665/web/index.html
+- **じゅんや** (Apr 30, 2026 11:38am): ありがとうございます！！
+- **じゅんや** (May 01, 2026 09:16am): すみません最新バージョンのものはないでしょうか
+- **ふっじー** (May 02, 2026 05:14am): 最新じゃなくてもあるだけサイコー
+- **ふっじー** (May 02, 2026 06:22am): 最新でやりたいならここでproxyを見つけてeaglercraftと調べて見つけたほうがいいかと
+- **誰でしょうか** (May 07, 2026 08:04am): https://issnowjp.github.io/issnow-Launcherで出来るよあはは
+- **天才くん** (May 11, 2026 10:58pm): できないよがはは
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/29 06:44
-- **更新日（UTC）:** 04/29 07:35
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 29, 2026 06:44am
+- **Updated At (UTC):** Apr 29, 2026 07:35am
 
 ---
 
 ### 56. なあんで？
-**作成者:** ニジマス
+**Author:** ニジマス
 
-#### コメント (2)
-- **天才くん** (05/12 10:50): なーにが
-- **天才くん** (05/12 10:50): 🥺
+#### Comments (2)
+- **天才くん** (May 12, 2026 10:50am): なーにが
+- **天才くん** (May 12, 2026 10:50am): 🥺
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/26 23:16
-- **更新日（UTC）:** 04/26 23:16
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 26, 2026 11:16pm
+- **Updated At (UTC):** Apr 26, 2026 11:16pm
 
 ---
 
-### 57. 投稿 57
-**作成者:** 谷内ですーー (gs225971)
+### 57. Post 57
+**Author:** 谷内ですーー (gs225971)
 
 <p>これできるよ</p><p><br/></p>
 
-[添付ファイル 1](https://www.autistici.org/eaglercraft/play/EaglercraftX_1.8/JavaScript/?server=wss://sus.shhnowisnottheti.me)
+[Attachment 1](https://www.autistici.org/eaglercraft/play/EaglercraftX_1.8/JavaScript/?server=wss://sus.shhnowisnottheti.me)
 
-#### コメント (6)
-- **ミズノミチ** (04/24 12:14): ブロック
-- **Anonymous** (04/28 23:11): できないの俺だけ？
-- **味付け海苔製造機** (04/29 13:33): アイコンテストパークの「お疲れさまでした」　なの草
-- **ふっじー** (05/02 05:17): [添付ファイル](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/kxodWG22Nx2vZgP7) 僕はこうなってブロックされます
-- **からあげ（元Dream）＃焼き鳥貴族３代目** (05/07 22:51): コレはブロックじゃなくてクラッシュ
-- **hibiki** (05/12 02:14): おもろ
+#### Comments (6)
+- **ミズノミチ** (Apr 24, 2026 12:14pm): ブロック
+- **Anonymous** (Apr 28, 2026 11:11pm): できないの俺だけ？
+- **味付け海苔製造機** (Apr 29, 2026 01:33pm): アイコンテストパークの「お疲れさまでした」　なの草
+- **ふっじー** (May 02, 2026 05:17am): [Attachment](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/kxodWG22Nx2vZgP7) 僕はこうなってブロックされます
+- **からあげ（元Dream）＃焼き鳥貴族３代目** (May 07, 2026 10:51pm): コレはブロックじゃなくてクラッシュ
+- **hibiki** (May 12, 2026 02:14am): おもろ
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/24 06:42
-- **更新日（UTC）:** 04/24 06:42
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 24, 2026 06:42am
+- **Updated At (UTC):** Apr 24, 2026 06:42am
 
 ---
 
 ### 58. 学校のタブレットでロブロクスしたい
-**作成者:** はるくんマンちゃん！ (2125098_2)
+**Author:** はるくんマンちゃん！ (2125098_2)
 
-#### コメント (15)
-- **Anonymous** (04/23 23:25): あ
-- **Anonymous** (04/24 05:10): それな
-- **Anonymous** (04/24 05:10): どうやってやるの？？？？？？？
-- **調子乗んな** (04/25 14:31): ラブロックスはチー牛すぎやろ笑キッズきっつ笑笑
-- **マぁだぁだぁすぅかぁるぅ** (04/28 21:48): 暴言草ww
-- **味付け海苔製造機** (04/29 13:34): 調子乗んな　さんの暴言のがキツい
-- **な̳͕̙̫͋̾̽̿̏̉̅́̂̍̚ん͔̣͉̪̽̅͋͆̾ͅと̠̦̟̟̲͓̟̪͕͎̎͑͂͛ͅか͔̰̤̭̬͙̝̜̒́̈́̃̌̔̀́͗́͒͊。͚̦͉͙̲͔́͗̔̉̆͆̈́̄ͅ** (04/30 13:59): ロブロ普通に超おもろいゲームあるぞ
-- **な̳͕̙̫͋̾̽̿̏̉̅́̂̍̚ん͔̣͉̪̽̅͋͆̾ͅと̠̦̟̟̲͓̟̪͕͎̎͑͂͛ͅか͔̰̤̭̬͙̝̜̒́̈́̃̌̔̀́͗́͒͊。͚̦͉͙̲͔́͗̔̉̆͆̈́̄ͅ** (04/30 14:02): 俺も始める前はロブロはガキしかやらんと思ってたけど
-- **な̳͕̙̫͋̾̽̿̏̉̅́̂̍̚ん͔̣͉̪̽̅͋͆̾ͅと̠̦̟̟̲͓̟̪͕͎̎͑͂͛ͅか͔̰̤̭̬͙̝̜̒́̈́̃̌̔̀́͗́͒͊。͚̦͉͙̲͔́͗̔̉̆͆̈́̄ͅ** (04/30 14:02): やると超おもろい
-- **ふっじー（犬系）** (05/03 23:17): 調子乗んな　さんはやってないから言っているということでいいですかねやってたら自分もチー牛になりますが
-- **ふっじー** (05/03 23:18): なんなら君は名前に従って　調子に乗んな　きゃ良いのでは
-- **エイジ** (05/06 16:59): キッズしかやらんやろwww
-- **クモビト** (05/06 17:03): ブロスタやってみろ。ガチでろぶろなんかとは火にならんくらいおもろいで
-- **誰でしょうか** (05/07 08:05): nowgg.funだようへへ
-- **コクウ** (05/07 11:50): ブロスタモロブロもおもろいそれでいいじゃん
+#### Comments (15)
+- **Anonymous** (Apr 23, 2026 11:25pm): あ
+- **Anonymous** (Apr 24, 2026 05:10am): それな
+- **Anonymous** (Apr 24, 2026 05:10am): どうやってやるの？？？？？？？
+- **調子乗んな** (Apr 25, 2026 02:31pm): ラブロックスはチー牛すぎやろ笑キッズきっつ笑笑
+- **マぁだぁだぁすぅかぁるぅ** (Apr 28, 2026 09:48pm): 暴言草ww
+- **味付け海苔製造機** (Apr 29, 2026 01:34pm): 調子乗んな　さんの暴言のがキツい
+- **な̳͕̙̫͋̾̽̿̏̉̅́̂̍̚ん͔̣͉̪̽̅͋͆̾ͅと̠̦̟̟̲͓̟̪͕͎̎͑͂͛ͅか͔̰̤̭̬͙̝̜̒́̈́̃̌̔̀́͗́͒͊。͚̦͉͙̲͔́͗̔̉̆͆̈́̄ͅ** (Apr 30, 2026 01:59pm): ロブロ普通に超おもろいゲームあるぞ
+- **な̳͕̙̫͋̾̽̿̏̉̅́̂̍̚ん͔̣͉̪̽̅͋͆̾ͅと̠̦̟̟̲͓̟̪͕͎̎͑͂͛ͅか͔̰̤̭̬͙̝̜̒́̈́̃̌̔̀́͗́͒͊。͚̦͉͙̲͔́͗̔̉̆͆̈́̄ͅ** (Apr 30, 2026 02:02pm): 俺も始める前はロブロはガキしかやらんと思ってたけど
+- **な̳͕̙̫͋̾̽̿̏̉̅́̂̍̚ん͔̣͉̪̽̅͋͆̾ͅと̠̦̟̟̲͓̟̪͕͎̎͑͂͛ͅか͔̰̤̭̬͙̝̜̒́̈́̃̌̔̀́͗́͒͊。͚̦͉͙̲͔́͗̔̉̆͆̈́̄ͅ** (Apr 30, 2026 02:02pm): やると超おもろい
+- **ふっじー（犬系）** (May 03, 2026 11:17pm): 調子乗んな　さんはやってないから言っているということでいいですかねやってたら自分もチー牛になりますが
+- **ふっじー** (May 03, 2026 11:18pm): なんなら君は名前に従って　調子に乗んな　きゃ良いのでは
+- **エイジ** (May 06, 2026 04:59pm): キッズしかやらんやろwww
+- **クモビト** (May 06, 2026 05:03pm): ブロスタやってみろ。ガチでろぶろなんかとは火にならんくらいおもろいで
+- **誰でしょうか** (May 07, 2026 08:05am): nowgg.funだようへへ
+- **コクウ** (May 07, 2026 11:50am): ブロスタモロブロもおもろいそれでいいじゃん
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/23 13:33
-- **更新日（UTC）:** 04/23 13:33
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 23, 2026 01:33pm
+- **Updated At (UTC):** Apr 23, 2026 01:33pm
 
 ---
 
 ### 59. ブロスタしませんか
-**作成者:** ブロスタ大好きっ子
+**Author:** ブロスタ大好きっ子
 
-#### コメント (1)
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (04/22 02:25): ええで
+#### Comments (1)
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 22, 2026 02:25am): ええで
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/22 00:28
-- **更新日（UTC）:** 04/22 00:28
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 22, 2026 12:28am
+- **Updated At (UTC):** Apr 22, 2026 12:28am
 
 ---
 
 ### 60. 誰かソリゲーム教えてください
-**作成者:** フィッシーニボッシーニを知らない人は人生損してる (4319894)
+**Author:** フィッシーニボッシーニを知らない人は人生損してる (4319894)
 
-#### コメント (2)
-- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (04/22 02:26): https://html.cafe/x2ba6af35
-- **kira** (04/29 14:36): あおちょ見ーつけた♡
+#### Comments (2)
+- **中居正広パド引退するか迷い中#エドガーの中指#キム族5代目** (Apr 22, 2026 02:26am): https://html.cafe/x2ba6af35
+- **kira** (Apr 29, 2026 02:36pm): あおちょ見ーつけた♡
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/21 15:30
-- **更新日（UTC）:** 04/21 15:30
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 21, 2026 03:30pm
+- **Updated At (UTC):** Apr 21, 2026 03:30pm
 
 ---
 
 ### 61. ブロスタしてる人ー
-**作成者:** ブロスタ大好きっ子
+**Author:** ブロスタ大好きっ子
 
-#### コメント (3)
-- **ブロスタ大好きっ子** (04/21 08:52): かなし
-- **リョウ[yamada takeru]** (04/21 10:01): ハナニジよくないよ👎
-- **流輝** (04/25 06:48): やってるよー
+#### Comments (3)
+- **ブロスタ大好きっ子** (Apr 21, 2026 08:52am): かなし
+- **リョウ[yamada takeru]** (Apr 21, 2026 10:01am): ハナニジよくないよ👎
+- **流輝** (Apr 25, 2026 06:48am): やってるよー
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/21 05:28
-- **更新日（UTC）:** 04/21 05:28
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 21, 2026 05:28am
+- **Updated At (UTC):** Apr 21, 2026 05:28am
 
 ---
 
-### 62. 投稿 62
-**作成者:** inoue (gs221318_1)
+### 62. Post 62
+**Author:** inoue (gs221318_1)
 
-[添付ファイル 1](https://irv77.github.io/AmplerLauncher/)
+[Attachment 1](https://irv77.github.io/AmplerLauncher/)
 
-#### コメント (2)
-- **まだがすかる！** (05/14 13:24): これだいじょうぶ？
-- **inoue** (05/18 10:47): うん
+#### Comments (2)
+- **まだがすかる！** (May 14, 2026 01:24pm): これだいじょうぶ？
+- **inoue** (May 18, 2026 10:47am): うん
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/20 01:12
-- **更新日（UTC）:** 05/11 21:42
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 20, 2026 01:12am
+- **Updated At (UTC):** May 11, 2026 09:42pm
 
 ---
 
 ### 63. フォトナ学校Chromebook（クロームブック）でしたいからりんくくれ
-**作成者:** ツキノホ
+**Author:** ツキノホ
 
-#### コメント (2)
-- **ふっじー** (05/02 05:18): 言葉遣いには気をつけないともらえなくなるぞー
-- **Ricky!!** (05/09 12:20): ｗｗｗ
+#### Comments (2)
+- **ふっじー** (May 02, 2026 05:18am): 言葉遣いには気をつけないともらえなくなるぞー
+- **Ricky!!** (May 09, 2026 12:20pm): ｗｗｗ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/19 06:51
-- **更新日（UTC）:** 04/19 06:51
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 19, 2026 06:51am
+- **Updated At (UTC):** Apr 19, 2026 06:51am
 
 ---
 
 ### 64. ２０４８
-**作成者:** アメアガ
+**Author:** アメアガ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/17 10:40
-- **更新日（UTC）:** 04/17 10:40
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 17, 2026 10:40am
+- **Updated At (UTC):** Apr 17, 2026 10:40am
 
 ---
 
-### 65. 投稿 65
-**作成者:** カエデコ
+### 65. Post 65
+**Author:** カエデコ
 
-[添付ファイル 1](https://ubg76.gitlab.io/game/drift-hunters.html)
+[Attachment 1](https://ubg76.gitlab.io/game/drift-hunters.html)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/14 07:42
-- **更新日（UTC）:** 05/01 21:49
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 14, 2026 07:42am
+- **Updated At (UTC):** May 01, 2026 09:49pm
 
 ---
 
 ### 66. これできるよん
-**作成者:** ゆうたろう
+**Author:** ゆうたろう
 
 [https://newunblockedgames.gitlab.io/game/obby-snowboard](https://newunblockedgames.gitlab.io/game/obby-snowboard)
 
-#### コメント (3)
-- **inoue** (04/20 08:41): ブロック
-- **ふっじー** (05/02 05:20): 行けましたありがとうございます
-- **タビガモ** (05/07 05:03): すいませんブロックされました（i-フィルター）
+#### Comments (3)
+- **inoue** (Apr 20, 2026 08:41am): ブロック
+- **ふっじー** (May 02, 2026 05:20am): 行けましたありがとうございます
+- **タビガモ** (May 07, 2026 05:03am): すいませんブロックされました（i-フィルター）
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/13 07:44
-- **更新日（UTC）:** 04/13 07:44
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 13, 2026 07:44am
+- **Updated At (UTC):** Apr 13, 2026 07:44am
 
 ---
 
 ### 67. みんなでやってみてね
-**作成者:** ドブカスラッシュ
+**Author:** ドブカスラッシュ
 
 [https://class-room.pages.dev/category/new](https://class-room.pages.dev/category/new)
 
-#### コメント (1)
-- **龍** (04/20 02:23): 全員
+#### Comments (1)
+- **龍** (Apr 20, 2026 02:23am): 全員
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/13 07:38
-- **更新日（UTC）:** 05/11 21:41
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 13, 2026 07:38am
+- **Updated At (UTC):** May 11, 2026 09:41pm
 
 ---
 
 ### 68. スティックファイターってやつがやれるやつ教えてください
-**作成者:** フユゾラ
+**Author:** フユゾラ
 
-#### コメント (1)
-- **仙人@suger** (05/11 21:42): わかめ
+#### Comments (1)
+- **仙人@suger** (May 11, 2026 09:42pm): わかめ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/11 10:14
-- **更新日（UTC）:** 04/11 10:14
-
----
-
-### 69. 投稿 69
-**作成者:** イシミズ
-
-[添付ファイル 1](https://prakashnewxy1.github.io/macvg/)
-
-#### コメント (4)
-- **仙人@suger** (04/11 04:38): 😆
-- **kira** (04/25 12:59): 前までできてたのになんかできなくて泣く
-- **誰でしょうか** (05/07 08:06): 懐かしすぎて泣きそう
-- **こよちゃん** (05/12 04:02): おもしろいね
-
-#### リアクション
-- **絵文字:** ❤️ (2)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/10 09:03
-- **更新日（UTC）:** 04/11 04:38
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 11, 2026 10:14am
+- **Updated At (UTC):** Apr 11, 2026 10:14am
 
 ---
 
-### 70. 投稿 70
-**作成者:** イシミズ
+### 69. Post 69
+**Author:** イシミズ
 
-[添付ファイル 1](https://djblue.github.io/tetris/)
+[Attachment 1](https://prakashnewxy1.github.io/macvg/)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/10 09:02
-- **更新日（UTC）:** 04/11 04:38
+#### Comments (4)
+- **仙人@suger** (Apr 11, 2026 04:38am): 😆
+- **kira** (Apr 25, 2026 12:59pm): 前までできてたのになんかできなくて泣く
+- **誰でしょうか** (May 07, 2026 08:06am): 懐かしすぎて泣きそう
+- **こよちゃん** (May 12, 2026 04:02am): おもしろいね
+
+#### Reactions
+- **Emojis:** ❤️ (2)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 10, 2026 09:03am
+- **Updated At (UTC):** Apr 11, 2026 04:38am
 
 ---
 
-### 71. 投稿 71
-**作成者:** どこかの誰かさん
+### 70. Post 70
+**Author:** イシミズ
+
+[Attachment 1](https://djblue.github.io/tetris/)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 10, 2026 09:02am
+- **Updated At (UTC):** Apr 11, 2026 04:38am
+
+---
+
+### 71. Post 71
+**Author:** どこかの誰かさん
 
 <p>ロブロックスどかってできるのですか</p>
 
-#### コメント (2)
-- **誰でしょうか** (05/07 08:07): だからnowgg.funだって
-- **にゃんこ好き** (05/16 22:20): ひらけません
+#### Comments (2)
+- **誰でしょうか** (May 07, 2026 08:07am): だからnowgg.funだって
+- **にゃんこ好き** (May 16, 2026 10:20pm): ひらけません
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/09 07:47
-- **更新日（UTC）:** 04/09 07:47
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 09, 2026 07:47am
+- **Updated At (UTC):** Apr 09, 2026 07:47am
 
 ---
 
 ### 72. 2048やりたい
-**作成者:** Wholesome Rhino
+**Author:** Wholesome Rhino
 
 <p><br/></p><p><br/></p>
 
-#### コメント (4)
-- **Creative Moth** (03/25 02:53): https://mgarciaisaia.github.io/2048/
-- **どこかの誰かさん** (03/26 03:50): https://sites.google.com/view/ezclasswork/2048
-- **どこかの誰かさん** (03/26 03:50): ↑のリンク🔗開いて
-- **ふっじー** (05/02 05:21): 上はゲームでブロック下は404エラーっすね
+#### Comments (4)
+- **Creative Moth** (Mar 25, 2026 02:53am): https://mgarciaisaia.github.io/2048/
+- **どこかの誰かさん** (Mar 26, 2026 03:50am): https://sites.google.com/view/ezclasswork/2048
+- **どこかの誰かさん** (Mar 26, 2026 03:50am): ↑のリンク🔗開いて
+- **ふっじー** (May 02, 2026 05:21am): 上はゲームでブロック下は404エラーっすね
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/25 00:49
-- **更新日（UTC）:** 03/25 00:49
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 25, 2026 12:49am
+- **Updated At (UTC):** Mar 25, 2026 12:49am
 
 ---
 
 ### 73. こんにちは
-**作成者:** ああああああああああああああ
+**Author:** ああああああああああああああ
 
 <p>ジオメタないですか</p>
 
-#### コメント (6)
-- **仙人@suger** (03/23 12:22): あしたつくる
-- **仙人@suger** (03/24 06:19): https://geometry-dash-3pjr.onrender.com
-- **あああああああああああああ** (03/24 11:13): できませんでした、、、、
-- **仙人@suger** (03/24 12:33): Vercelはいける？
-- **マエスケは神である** (03/26 04:14): なんですかそれ
-- **仙人@suger** (03/29 04:14): デプロイできるの
+#### Comments (6)
+- **仙人@suger** (Mar 23, 2026 12:22pm): あしたつくる
+- **仙人@suger** (Mar 24, 2026 06:19am): https://geometry-dash-3pjr.onrender.com
+- **あああああああああああああ** (Mar 24, 2026 11:13am): できませんでした、、、、
+- **仙人@suger** (Mar 24, 2026 12:33pm): Vercelはいける？
+- **マエスケは神である** (Mar 26, 2026 04:14am): なんですかそれ
+- **仙人@suger** (Mar 29, 2026 04:14am): デプロイできるの
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/23 11:10
-- **更新日（UTC）:** 03/23 11:10
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 23, 2026 11:10am
+- **Updated At (UTC):** Mar 23, 2026 11:10am
 
 ---
 
 ### 74. ブロスタロシア語なのが痛い
-**作成者:** shadoreku (sinkidesu)
+**Author:** shadoreku (sinkidesu)
 
-[添付ファイル 1](https://yandex.kz/games/app/253517)
+[Attachment 1](https://yandex.kz/games/app/253517)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/23 07:46
-- **更新日（UTC）:** 03/23 07:46
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 23, 2026 07:46am
+- **Updated At (UTC):** Mar 23, 2026 07:46am
 
 ---
 
 ### 75. ユーチューブ見たい
-**作成者:** はるくんマンちゃん！ (2125098_2)
+**Author:** はるくんマンちゃん！ (2125098_2)
 
-#### コメント (4)
-- **kira** (04/16 09:37): わかめ見ろ
-- **はるくんマンちゃん！** (04/23 13:33): 見れない
-- **ふっじー** (05/02 05:22): 仙人tubeとかどうですか？
-- **ふっじー** (05/02 05:22): 軽いっすよ
+#### Comments (4)
+- **kira** (Apr 16, 2026 09:37am): わかめ見ろ
+- **はるくんマンちゃん！** (Apr 23, 2026 01:33pm): 見れない
+- **ふっじー** (May 02, 2026 05:22am): 仙人tubeとかどうですか？
+- **ふっじー** (May 02, 2026 05:22am): 軽いっすよ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/22 12:18
-- **更新日（UTC）:** 03/22 12:18
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 22, 2026 12:18pm
+- **Updated At (UTC):** Mar 22, 2026 12:18pm
 
 ---
 
 ### 76. アンブロックゲームズG+もう一つあった
-**作成者:** どこかの誰かさん
+**Author:** どこかの誰かさん
 
-[添付ファイル 1](https://unblocked-games-g-plus.bitbucket.io/)
+[Attachment 1](https://unblocked-games-g-plus.bitbucket.io/)
 
-#### コメント (2)
-- **どこかの誰かさん** (03/22 05:44): 使えないかも知れない
-- **はるくんマンちゃん！** (03/22 12:18): 使える楽しい
+#### Comments (2)
+- **どこかの誰かさん** (Mar 22, 2026 05:44am): 使えないかも知れない
+- **はるくんマンちゃん！** (Mar 22, 2026 12:18pm): 使える楽しい
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/22 05:36
-- **更新日（UTC）:** 03/22 05:36
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 22, 2026 05:36am
+- **Updated At (UTC):** Mar 22, 2026 05:36am
 
 ---
 
 ### 77. アンブロックゲームズ1024
-**作成者:** どこかの誰かさん
+**Author:** どこかの誰かさん
 
-[添付ファイル 1](https://unblockedgames1024.gitlab.io/)
+[Attachment 1](https://unblockedgames1024.gitlab.io/)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/22 05:32
-- **更新日（UTC）:** 03/22 05:32
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 22, 2026 05:32am
+- **Updated At (UTC):** Mar 22, 2026 05:32am
 
 ---
 
-### 78. 投稿 78
-**作成者:** どこかの誰かさん
+### 78. Post 78
+**Author:** どこかの誰かさん
 
 <p>アンブロックゲームズG+</p>
 
-[添付ファイル 1](https://sites.google.com/classroom.center/view-1/)
+[Attachment 1](https://sites.google.com/classroom.center/view-1/)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/22 05:31
-- **更新日（UTC）:** 03/22 05:31
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 22, 2026 05:31am
+- **Updated At (UTC):** Mar 22, 2026 05:31am
 
 ---
 
 ### 79. 誰かブロスタできる人教えてください（；＾ω＾）
-**作成者:** 野球大好きい！ (s11210105)
+**Author:** 野球大好きい！ (s11210105)
 
-#### コメント (7)
-- **حذف شدہ صارف** (03/13 16:12): 何トロですか？
-- **野獣先輩** (03/16 04:35): 85000
-- **野獣先輩** (03/16 04:36): ぐらいかな
-- **野獣先輩** (03/16 04:37): [嘘]
-- **野獣先輩** (03/16 04:37): 13000
-- **野獣先輩** (03/16 04:37): [本当]
-- **野獣先輩** (03/16 04:40): https://padlet.com/s11210128/padlet-mtv87wjou4kt4gd8
+#### Comments (7)
+- **حذف شدہ صارف** (Mar 13, 2026 04:12pm): 何トロですか？
+- **野獣先輩** (Mar 16, 2026 04:35am): 85000
+- **野獣先輩** (Mar 16, 2026 04:36am): ぐらいかな
+- **野獣先輩** (Mar 16, 2026 04:37am): [嘘]
+- **野獣先輩** (Mar 16, 2026 04:37am): 13000
+- **野獣先輩** (Mar 16, 2026 04:37am): [本当]
+- **野獣先輩** (Mar 16, 2026 04:40am): https://padlet.com/s11210128/padlet-mtv87wjou4kt4gd8
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/13 02:01
-- **更新日（UTC）:** 03/13 02:01
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 13, 2026 02:01am
+- **Updated At (UTC):** Mar 13, 2026 02:01am
 
 ---
 
 ### 80. いい感じの
-**作成者:** yopi
+**Author:** yopi
 
-[添付ファイル 1](https://aidn.jp/contents/)
+[Attachment 1](https://aidn.jp/contents/)
 
-#### コメント (2)
-- **ユキマチ** (04/22 22:41): それおもろいよね
-- **ふっじー** (05/02 05:26): 俺は開けないなぁ
+#### Comments (2)
+- **ユキマチ** (Apr 22, 2026 10:41pm): それおもろいよね
+- **ふっじー** (May 02, 2026 05:26am): 俺は開けないなぁ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/12 03:11
-- **更新日（UTC）:** 03/23 00:00
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 12, 2026 03:11am
+- **Updated At (UTC):** Mar 23, 2026 12:00am
 
 ---
 
 ### 81. とりあえず
-**作成者:** Mr.パトリック
+**Author:** Mr.パトリック
 
 <p>まあまあ楽しめると思う</p>
 
-[添付ファイル 1](https://d3rtzzzsiu7gdr.cloudfront.net/library.html)
+[Attachment 1](https://d3rtzzzsiu7gdr.cloudfront.net/library.html)
 
-#### コメント (5)
-- **Creative Leopard** (03/10 12:24): 規制
-- **yopi** (03/12 03:07): 規制
-- **野獣先輩** (03/13 02:32): 規制
-- **ドラえもん** (03/16 23:37): 規制
-- **理亜** (05/10 02:11): 規制
+#### Comments (5)
+- **Creative Leopard** (Mar 10, 2026 12:24pm): 規制
+- **yopi** (Mar 12, 2026 03:07am): 規制
+- **野獣先輩** (Mar 13, 2026 02:32am): 規制
+- **ドラえもん** (Mar 16, 2026 11:37pm): 規制
+- **理亜** (May 10, 2026 02:11am): 規制
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/10 11:53
-- **更新日（UTC）:** 03/10 12:16
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 10, 2026 11:53am
+- **Updated At (UTC):** Mar 10, 2026 12:16pm
 
 ---
 
 ### 82. ゲーム
-**作成者:** 床ぺろタイミーさん (18as35)
+**Author:** 床ぺろタイミーさん (18as35)
 
 <p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://astral-games.onrender.com/gxmes.html">https://astral-games.onrender.com/gxmes.html</a></p>
 
-[添付ファイル 1](https://astral-games.onrender.com/gxmes.html)
+[Attachment 1](https://astral-games.onrender.com/gxmes.html)
 
-#### コメント (3)
-- **حذف شدہ صارف** (03/05 15:11): 床ぺろタイミーさんw
-- **野獣先輩** (03/16 04:36): w
-- **野獣先輩** (03/16 04:40): https://padlet.com/s11210128/padlet-mtv87wjou4kt4gd8
+#### Comments (3)
+- **حذف شدہ صارف** (Mar 05, 2026 03:11pm): 床ぺろタイミーさんw
+- **野獣先輩** (Mar 16, 2026 04:36am): w
+- **野獣先輩** (Mar 16, 2026 04:40am): https://padlet.com/s11210128/padlet-mtv87wjou4kt4gd8
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/05 01:29
-- **更新日（UTC）:** 03/05 01:29
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 05, 2026 01:29am
+- **Updated At (UTC):** Mar 05, 2026 01:29am
 
 ---
 
 ### 83. 英語マリオ64が遊べてしまうサイト
-**作成者:** 入れ子＿構造 (ireko_kozo)
+**Author:** 入れ子＿構造 (ireko_kozo)
 
 <p>言語はすべて英語です。ですが64以外にも多くのゲームが遊べます。</p>
 
-[添付ファイル 1](https://sites.google.com/view/emulatorjs/games)
+[Attachment 1](https://sites.google.com/view/emulatorjs/games)
 
-#### コメント (4)
-- **ツキノホ** (04/19 06:46): ４０４
-- **NyrikX(足立区陣ICFS系)** (04/19 10:18): 私の方では404ってなってないよ
-- **ふっじー** (05/02 05:27): 僕も404ですね
-- **誰でしょうか** (05/07 08:10): これらはエミュ探してLinuxとかでROMダウンロードして遊んだらいいじゃんけｗ(違法だからねきーつけや)
+#### Comments (4)
+- **ツキノホ** (Apr 19, 2026 06:46am): ４０４
+- **NyrikX(足立区陣ICFS系)** (Apr 19, 2026 10:18am): 私の方では404ってなってないよ
+- **ふっじー** (May 02, 2026 05:27am): 僕も404ですね
+- **誰でしょうか** (May 07, 2026 08:10am): これらはエミュ探してLinuxとかでROMダウンロードして遊んだらいいじゃんけｗ(違法だからねきーつけや)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/04 10:06
-- **更新日（UTC）:** 03/04 10:07
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 04, 2026 10:06am
+- **Updated At (UTC):** Mar 04, 2026 10:07am
 
 ---
 
 ### 84. 桃太郎電鉄のパスワード教えてください
-**作成者:** ユーザーの平民
+**Author:** ユーザーの平民
 
 <p>サイトは持ってるんですが、パスワードがわかりません。</p><p>よろしければ教えて下さい。</p><p>サイト</p><p><a rel="noopener noreferrer nofollow" href="https://momo-edu.konami.net/">https://momo-edu.konami.net/</a></p>
 
-[添付ファイル 1](https://momo-edu.konami.net/)
+[Attachment 1](https://momo-edu.konami.net/)
 
-#### コメント (3)
-- **理亜** (05/10 02:17): 学校のやつだから
-- **理亜** (05/10 02:17): 無理なんじゃ？
-- **真田信繁** (05/17 10:38): これは毎日パスワードが変わります
+#### Comments (3)
+- **理亜** (May 10, 2026 02:17am): 学校のやつだから
+- **理亜** (May 10, 2026 02:17am): 無理なんじゃ？
+- **真田信繁** (May 17, 2026 10:38am): これは毎日パスワードが変わります
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/04 00:36
-- **更新日（UTC）:** 05/01 21:47
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 04, 2026 12:36am
+- **Updated At (UTC):** May 01, 2026 09:47pm
 
 ---
 
 ### 85. driftbossです
-**作成者:** Seismic0981 (Seismic0981)
+**Author:** Seismic0981 (Seismic0981)
 
 <p><br/></p><p><br/></p>
 
-[添付ファイル 1](https://www.culinaryschools.org/kids-games/drift-boss/)
+[Attachment 1](https://www.culinaryschools.org/kids-games/drift-boss/)
 
-#### コメント (7)
-- **Seismic0981** (02/26 00:21): I-Filterの人なら開けるはず…（自分はI-Filterです）
-- **Seismic0981** (02/26 00:26): あとhttps://jerrychan7.github.io/WebMC/
-- **Seismic0981** (02/26 00:26): https://irv77.github.io/AmplerLauncher/
-- **入れ子＿構造** (02/26 02:28): 僕のi-filterはイーグラだけ入れた
-- **Calm Badger** (02/26 23:21): 無理やった、
-- **さんぷんクオリティー** (04/15 23:16): ないす
-- **ふっじー** (05/02 05:27): どっちもブロ
+#### Comments (7)
+- **Seismic0981** (Feb 26, 2026 12:21am): I-Filterの人なら開けるはず…（自分はI-Filterです）
+- **Seismic0981** (Feb 26, 2026 12:26am): あとhttps://jerrychan7.github.io/WebMC/
+- **Seismic0981** (Feb 26, 2026 12:26am): https://irv77.github.io/AmplerLauncher/
+- **入れ子＿構造** (Feb 26, 2026 02:28am): 僕のi-filterはイーグラだけ入れた
+- **Calm Badger** (Feb 26, 2026 11:21pm): 無理やった、
+- **さんぷんクオリティー** (Apr 15, 2026 11:16pm): ないす
+- **ふっじー** (May 02, 2026 05:27am): どっちもブロ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/26 00:20
-- **更新日（UTC）:** 02/26 00:20
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 26, 2026 12:20am
+- **Updated At (UTC):** Feb 26, 2026 12:20am
 
 ---
 
 ### 86. 初めてですが見つけました
-**作成者:** cat-reaper
+**Author:** cat-reaper
 
-[添付ファイル 1](https://sites.google.com/view/prohomework2z/dictionary)
+[Attachment 1](https://sites.google.com/view/prohomework2z/dictionary)
 
-#### コメント (4)
-- **keR** (02/23 08:02): できねぇ
-- **cat-reaper** (02/23 08:27): ごめん
-- **匿名** (02/25 05:48): ありがとう
-- **野獣先輩** (03/13 02:35): やりますねぇ
+#### Comments (4)
+- **keR** (Feb 23, 2026 08:02am): できねぇ
+- **cat-reaper** (Feb 23, 2026 08:27am): ごめん
+- **匿名** (Feb 25, 2026 05:48am): ありがとう
+- **野獣先輩** (Mar 13, 2026 02:35am): やりますねぇ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/22 04:40
-- **更新日（UTC）:** 02/22 04:40
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 22, 2026 04:40am
+- **Updated At (UTC):** Feb 22, 2026 04:40am
 
 ---
 
-### 87. 投稿 87
-**作成者:** Excited Oyster
+### 87. Post 87
+**Author:** Excited Oyster
 
 <p>太鼓の達人欲しいです</p>
 
-#### コメント (4)
-- **仙人大好き** (02/16 04:55): ないよ
-- **akki5012** (02/16 12:16): あるよ^_^139.162.50.181
-- **akki5012** (02/16 12:16): 絶対ブロックされんはず
-- **誰でしょうか** (05/07 08:12): [添付ファイル](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/R7dXad95Dqg1Q6bl) わたへー
+#### Comments (4)
+- **仙人大好き** (Feb 16, 2026 04:55am): ないよ
+- **akki5012** (Feb 16, 2026 12:16pm): あるよ^_^139.162.50.181
+- **akki5012** (Feb 16, 2026 12:16pm): 絶対ブロックされんはず
+- **誰でしょうか** (May 07, 2026 08:12am): [Attachment](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/R7dXad95Dqg1Q6bl) わたへー
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/12 09:58
-- **更新日（UTC）:** 02/12 09:58
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 12, 2026 09:58am
+- **Updated At (UTC):** Feb 12, 2026 09:58am
 
 ---
 
 ### 88. UnblockedGames最新
-**作成者:** 入れ子構造
+**Author:** 入れ子構造
 
 <p>gooogle siteじゃないのに自分の環境ではなぜかブロックされなかったやつ。</p>
 
-[添付ファイル 1](https://bestofgooglesites.com)
+[Attachment 1](https://bestofgooglesites.com)
 
-#### コメント (5)
-- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (02/07 05:27): ？？？
-- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (02/07 05:27): 俺できん。。。
-- **入れ子＿構造** (02/07 06:41): i-filterではできた。どのフィルタリングソフトを使ってるの？
-- **入れ子＿構造** (02/08 08:44): フィルタリングでも強度が違うか…このサイト入れたのは奇跡だったんかな。
-- **すずめ** (02/11 00:19): i-filter@cloudによりブック
+#### Comments (5)
+- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (Feb 07, 2026 05:27am): ？？？
+- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (Feb 07, 2026 05:27am): 俺できん。。。
+- **入れ子＿構造** (Feb 07, 2026 06:41am): i-filterではできた。どのフィルタリングソフトを使ってるの？
+- **入れ子＿構造** (Feb 08, 2026 08:44am): フィルタリングでも強度が違うか…このサイト入れたのは奇跡だったんかな。
+- **すずめ** (Feb 11, 2026 12:19am): i-filter@cloudによりブック
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/06 00:51
-- **更新日（UTC）:** 02/06 00:51
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 06, 2026 12:51am
+- **Updated At (UTC):** Feb 06, 2026 12:51am
 
 ---
 
 ### 89. やりたいよ
-**作成者:** Hopeful Moth
+**Author:** Hopeful Moth
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/05 12:51
-- **更新日（UTC）:** 02/05 12:51
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 05, 2026 12:51pm
+- **Updated At (UTC):** Feb 05, 2026 12:51pm
 
 ---
 
 ### 90. game maker
-**作成者:** maker
+**Author:** maker
 
-[添付ファイル 1](https://sites.google.com/view/classroom6x/)
+[Attachment 1](https://sites.google.com/view/classroom6x/)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/21 13:52
-- **更新日（UTC）:** 01/21 13:52
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 21, 2026 01:52pm
+- **Updated At (UTC):** Jan 21, 2026 01:52pm
 
 ---
 
-### 91. 投稿 91
-**作成者:** kaito (kaitoyokoyama2011)
+### 91. Post 91
+**Author:** kaito (kaitoyokoyama2011)
 
 <p><a rel="noopener noreferrer nofollow" href="https://starttiw.global.ssl.fastly.net/static/g">https://starttiw.global.ssl.fastly.net/static/g</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://o.global.ssl.fastly.net/g/index.html">https://o.global.ssl.fastly.net/g/index.html</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/drive-u-7-home/home">https://sites.google.com/view/drive-u-7-home/home</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/unblocked-games100/Home">https://sites.google.com/view/unblocked-games100/Home</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/unblockedgames77/home">https://sites.google.com/site/unblockedgames77/home</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/funblockedgames66/">https://sites.google.com/site/funblockedgames66/</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/bestfununblockedgames/">https://sites.google.com/site/bestfununblockedgames/</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://weezzzzer.global.ssl.fastly.net/index.html">https://weezzzzer.global.ssl.fastly.net/index.html</a></p><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/unblockedgames24h/">https://sites.google.com/site/unblockedgames24h/</a></p><p><br/></p>
 
-#### コメント (5)
-- **仙人@suger** (12/18 07:07): かみすぎ
-- **Careful** (03/02 02:19): サッカーゲームありますか
-- **野獣先輩** (03/13 10:00): それな
-- **Humble Eel** (03/16 01:30): ぷらんとたいぞんびくれ
-- **ふっじー** (05/02 13:38): 全ブロ
+#### Comments (5)
+- **仙人@suger** (Dec 18, 2025 07:07am): かみすぎ
+- **Careful** (Mar 02, 2026 02:19am): サッカーゲームありますか
+- **野獣先輩** (Mar 13, 2026 10:00am): それな
+- **Humble Eel** (Mar 16, 2026 01:30am): ぷらんとたいぞんびくれ
+- **ふっじー** (May 02, 2026 01:38pm): 全ブロ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/16 12:20
-- **更新日（UTC）:** 07/17 09:13
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 16, 2025 12:20pm
+- **Updated At (UTC):** Jul 17, 2025 09:13am
 
 ---
 
 ### 92. 楽園
-**作成者:** ウェーーーーーーイ
+**Author:** ウェーーーーーーイ
 
-#### コメント (13)
-- **ウェーーーーーーイ** (12/23 08:40): https://mq9svt.csb.app/　Yesを押すとgameと出てくるので、そこを押す。
-- **削除済みユーザー** (12/25 03:51): なんか1時間以上読み込み中
-- **Responsible Spider** (01/12 06:42): これめっちゃおもろいありがとう
-- **Secretive Tuna** (01/17 11:37): Failed to load previewSomething went wrong while loading preview.ってなってる
-- **Busy Dolphin** (02/05 09:17): 同じく
-- **ウェーーーーーーイ** (02/10 06:34): 使えなくなったかも
-- **はひふへほ** (02/11 02:48): 新しいの　https://qhrv9n.csb.app/
-- **Compassionate Llama** (02/11 12:51): はひふへほさんありがとう
-- **Mysterious Urchin** (02/21 01:08): グラ二ー３のサイトありますか…
-- **kai** (03/02 01:17): 今探してます
-- **kira** (04/29 14:38): どちらも俺は沈没、、、
-- **kira** (04/29 14:41): 沈没船での悪あがきでこれを、、、https://sites.google.com/view/prohomework2z/dictionary　　　　　　　ｶﾞｸｯ
-- **ふっじー** (05/02 05:29): 404っす
+#### Comments (13)
+- **ウェーーーーーーイ** (Dec 23, 2025 08:40am): https://mq9svt.csb.app/　Yesを押すとgameと出てくるので、そこを押す。
+- **削除済みユーザー** (Dec 25, 2025 03:51am): なんか1時間以上読み込み中
+- **Responsible Spider** (Jan 12, 2026 06:42am): これめっちゃおもろいありがとう
+- **Secretive Tuna** (Jan 17, 2026 11:37am): Failed to load previewSomething went wrong while loading preview.ってなってる
+- **Busy Dolphin** (Feb 05, 2026 09:17am): 同じく
+- **ウェーーーーーーイ** (Feb 10, 2026 06:34am): 使えなくなったかも
+- **はひふへほ** (Feb 11, 2026 02:48am): 新しいの　https://qhrv9n.csb.app/
+- **Compassionate Llama** (Feb 11, 2026 12:51pm): はひふへほさんありがとう
+- **Mysterious Urchin** (Feb 21, 2026 01:08am): グラ二ー３のサイトありますか…
+- **kai** (Mar 02, 2026 01:17am): 今探してます
+- **kira** (Apr 29, 2026 02:38pm): どちらも俺は沈没、、、
+- **kira** (Apr 29, 2026 02:41pm): 沈没船での悪あがきでこれを、、、https://sites.google.com/view/prohomework2z/dictionary　　　　　　　ｶﾞｸｯ
+- **ふっじー** (May 02, 2026 05:29am): 404っす
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/23 08:38
-- **更新日（UTC）:** 12/23 08:38
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 23, 2025 08:38am
+- **Updated At (UTC):** Dec 23, 2025 08:38am
 
 ---
 
-### 93. 投稿 93
-**作成者:** はらぺこんぐ (zinnseikyannseru2017_1)
+### 93. Post 93
+**Author:** はらぺこんぐ (zinnseikyannseru2017_1)
 
 <p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/classroom6x/">https://sites.google.com/view/classroom6x/</a></p><p><br/></p>
 
-#### コメント (1)
-- **あなたは髪の毛ありますか?** (02/09 02:32): ゲームはデバイスの容量、そして充電のヘリが早くなるとゆーでめりっとだらけなのよ
+#### Comments (1)
+- **あなたは髪の毛ありますか?** (Feb 09, 2026 02:32am): ゲームはデバイスの容量、そして充電のヘリが早くなるとゆーでめりっとだらけなのよ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/10 09:09
-- **更新日（UTC）:** 01/10 09:09
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 10, 2026 09:09am
+- **Updated At (UTC):** Jan 10, 2026 09:09am
 
 ---
 
 ## ランマーヘット
 
 ### 1. ランマーヘッド
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>・リポジトリ　https://github.com/binary-person/rammerhead</p><p><br></p><p>プロキシサイトです。</p><p>このしたにリンクなどを投稿してください</p>
 
-#### コメント (5)
-- **いも** (03/12 12:22): ランマーヘッドでは
-- **仙人@suger** (04/03 01:50): ありがと
-- **ワイ君** (04/06 04:53): ぶろ
-- **神風PVP（かみかぜ)** (04/15 12:02): github使い方わからん
-- **ㅤ@krtk🔰** (05/21 07:38): おお
+#### Comments (5)
+- **いも** (Mar 12, 2026 12:22pm): ランマーヘッドでは
+- **仙人@suger** (Apr 03, 2026 01:50am): ありがと
+- **ワイ君** (Apr 06, 2026 04:53am): ぶろ
+- **神風PVP（かみかぜ)** (Apr 15, 2026 12:02pm): github使い方わからん
+- **ㅤ@krtk🔰** (May 21, 2026 07:38am): おお
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 01/28 09:40
-- **更新日（UTC）:** 04/03 01:50
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Jan 28, 2026 09:40am
+- **Updated At (UTC):** Apr 03, 2026 01:50am
 
 ---
 
 ### 2. 誰かブロスタ教えて
-**作成者:** ソトカゼ
+**Author:** ソトカゼ
 
 <p>学校PCで出来るやつでお願いします</p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5668033446/25050f15086574803b0e4b1df5df41bf/png_transparent_luigi_super_mario_bros_pixel_art_luigi_angle_text_super_mario_bros_thumbnail.png?Expires=1780487712&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=vcTzTYBZX9ghmaF%2BJ4Vy3itiBXIWot0oOobhprjOI6YuJ93JNO%2FuM2BzjxFwPpqab%2Bso2gBV9ZKH6cpgyVCj8WJS80LgxcwDL%2BJJvUQjDz8qV4uUM337si0cxhlNY4tC%2FeEOxANSQrCOlNNiuNT5RBcI2gucZ0pdDixBhmCsOzA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5668033446%2F25050f15086574803b0e4b1df5df41bf%2Fpng_transparent_luigi_super_mario_bros_pixel_art_luigi_angle_text_super_mario_bros_thumbnail.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5668033446/25050f15086574803b0e4b1df5df41bf/png_transparent_luigi_super_mario_bros_pixel_art_luigi_angle_text_super_mario_bros_thumbnail.png?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=YU8KcyaHQgZOd%2FEbhFb2Ol0KjHuRWEeaGuzwsxZIjmS0iQbYS4JHbxWn2%2F%2BPBW7i7cTRq8H%2FAI14%2BeMS7PQV2yuOg9oDiqnY7VKWPbsWHfNUObVPI%2Fy1FaI1s%2B%2FNJzgSEc%2BpVotU9uO8UoCHQURP02p8yTcS%2BGe96NtQVO4HXro%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5668033446%2F25050f15086574803b0e4b1df5df41bf%2Fpng_transparent_luigi_super_mario_bros_pixel_art_luigi_angle_text_super_mario_bros_thumbnail.png)
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 05/18 13:04
-- **更新日（UTC）:** 05/18 13:04
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** May 18, 2026 01:04pm
+- **Updated At (UTC):** May 18, 2026 01:04pm
 
 ---
 
 ### 3. ランマー
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p><a rel="noopener noreferrer nofollow" href="https://net.dualpower.duia.eu">https://net.dualpower.duia.eu</a></p>
 
-[添付ファイル 1](https://net.dualpower.duia.eu)
+[Attachment 1](https://net.dualpower.duia.eu)
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/05 00:22
-- **更新日（UTC）:** 01/28 10:22
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 05, 2025 12:22am
+- **Updated At (UTC):** Jan 28, 2026 10:22am
 
 ---
 
 ### 4. ランマー
-**作成者:** 太古の太鼓~1853 Brainrot (BERURI1214)
+**Author:** 太古の太鼓~1853 Brainrot (BERURI1214)
 
-#### コメント (2)
-- **太古の太鼓~1853 Brainrot** (01/06 23:45): https://108.181.32.77.nip.io/
-- **Anonymous** (01/07 02:34): あざす
+#### Comments (2)
+- **太古の太鼓~1853 Brainrot** (Jan 06, 2026 11:45pm): https://108.181.32.77.nip.io/
+- **Anonymous** (Jan 07, 2026 02:34am): あざす
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/06 23:44
-- **更新日（UTC）:** 01/28 10:20
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 06, 2026 11:44pm
+- **Updated At (UTC):** Jan 28, 2026 10:20am
 
 ---
 
 ## Utopia
 
 ### 1. サイトの概要
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>プロキシサイト</p><p>レポジトリ</p><p>https://github.com/UtopiaUnblocker/Utopia</p>
 
-#### コメント (3)
-- **あつだよー** (03/01 02:29): どうやるの？
-- **仙人@suger** (03/10 12:17): Freednsとかで作れるよ
-- **Yusho** (04/29 08:12): 本当にこの頃使えるUtopiaがない
+#### Comments (3)
+- **あつだよー** (Mar 01, 2026 02:29am): どうやるの？
+- **仙人@suger** (Mar 10, 2026 12:17pm): Freednsとかで作れるよ
+- **Yusho** (Apr 29, 2026 08:12am): 本当にこの頃使えるUtopiaがない
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 01/28 10:25
-- **更新日（UTC）:** 01/28 10:25
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Jan 28, 2026 10:25am
+- **Updated At (UTC):** Jan 28, 2026 10:25am
 
 ---
 
 ### 2. IフィルターのユートピアNow
-**作成者:** 18000kai
+**Author:** 18000kai
 
-[添付ファイル 1](https://utopia-kokokokomai.study.daj.jp.googlevideo.com.hospitaldelninodif.gob.mx/)
+[Attachment 1](https://utopia-kokokokomai.study.daj.jp.googlevideo.com.hospitaldelninodif.gob.mx/)
 
-#### コメント (4)
-- **カゲツ** (05/16 07:39): 行けました！まじでありがとございます！！ 
-- **Yusho** (05/16 10:17): ガチで感謝
-- **ハル春** (05/18 00:29): ホォーーーーーーーー
-- **匿名** (05/18 03:47): 有能
+#### Comments (4)
+- **カゲツ** (May 16, 2026 07:39am): 行けました！まじでありがとございます！！ 
+- **Yusho** (May 16, 2026 10:17am): ガチで感謝
+- **ハル春** (May 18, 2026 12:29am): ホォーーーーーーーー
+- **匿名** (May 18, 2026 03:47am): 有能
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 06:35
-- **更新日（UTC）:** 05/16 06:35
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 06:35am
+- **Updated At (UTC):** May 16, 2026 06:35am
 
 ---
 
 ### 3. なんか自分の問題かもしれないけどutopia使ってサイト開いたらなんかバグっちゃうんですけどわかりますか？
-**作成者:** 鹿紫雲
+**Author:** 鹿紫雲
 
-#### コメント (1)
-- **NyrikX(足立区陣ICFS系)** (04/12 18:19): それはもしかしたら広告のせいかな？
+#### Comments (1)
+- **NyrikX(足立区陣ICFS系)** (Apr 12, 2026 06:19pm): それはもしかしたら広告のせいかな？
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/11 11:07
-- **更新日（UTC）:** 04/11 11:07
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 11, 2026 11:07am
+- **Updated At (UTC):** Apr 11, 2026 11:07am
 
 ---
 
 ### 4. UTOPia
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p><a rel="noopener noreferrer nofollow" href="https://goal.area.activeconcept.org">https://goal.area.activeconcept.org</a></p>
 
-[添付ファイル 1](https://goal.area.activeconcept.org)
+[Attachment 1](https://goal.area.activeconcept.org)
 
-#### コメント (3)
-- **はちもぐ** (06/06 05:12): ブロ
-- **どー“ぶーじょー”じょー** (06/19 03:20): 同感
-- **天才くん** (05/12 11:02): リスク
+#### Comments (3)
+- **はちもぐ** (Jun 06, 2025 05:12am): ブロ
+- **どー“ぶーじょー”じょー** (Jun 19, 2025 03:20am): 同感
+- **天才くん** (May 12, 2026 11:02am): リスク
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/04 23:29
-- **更新日（UTC）:** 07/08 10:36
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 04, 2025 11:29pm
+- **Updated At (UTC):** Jul 08, 2025 10:36am
 
 ---
 
 ## yoroxy
 
 ### 1. yoroxyの概要
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>yossy123さんが開発されたプロキシサイトです。結構軽量なイメージがあります。</p><p>➥リポジトリ</p><p><a rel="noopener noreferrer nofollow" href="https://github.com/Yosshy-123/Yoroxy/tree/main">GitHub - Yosshy-123/Yoroxy: A fast, simple, and highly customizable proxy. · GitHub</a></p>
 
-#### コメント (3)
-- **真田左衛門信繁星矢** (05/13 08:44): あの、改造版をください
-- **真田左衛門信繁星矢** (05/13 08:48): Duck duck goの上にhttpsって書いてるのか、TIKTOCK開いて検索してちゃんとエラーにならないduck duck go が欲しい。（YOROXYでもいい）
-- **真田左衛門信繁星矢** (05/13 09:04): [添付ファイル](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/zV61Q6xe5AojWO98) こんなやつで地球マークがついていて、検索するとしたがduck duck  goになる
+#### Comments (3)
+- **真田左衛門信繁星矢** (May 13, 2026 08:44am): あの、改造版をください
+- **真田左衛門信繁星矢** (May 13, 2026 08:48am): Duck duck goの上にhttpsって書いてるのか、TIKTOCK開いて検索してちゃんとエラーにならないduck duck go が欲しい。（YOROXYでもいい）
+- **真田左衛門信繁星矢** (May 13, 2026 09:04am): [Attachment](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/zV61Q6xe5AojWO98) こんなやつで地球マークがついていて、検索するとしたがduck duck  goになる
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 03/23 00:09
-- **更新日（UTC）:** 03/23 00:10
-
----
-
-### 2. 投稿 2
-**作成者:** Yosshy (yosshyyyyyyyyyy)
-
-[添付ファイル 1](https://yoroxy-79so.onrender.com)
-
-#### コメント (4)
-- **ポテト** (04/10 12:44): youtubeも見れるようにしてほしい
-- **Anonymous** (04/29 01:14): 開けないです。
-- **ナツミズ** (04/29 03:48): YosshyさんのProxyめちゃ有能だったのでまた使いたいです！
-- **ドーバーダンサ** (04/30 10:37): 無理だった
-
-#### リアクション
-- **絵文字:** ❤️ (3)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/23 23:42
-- **更新日（UTC）:** 03/24 01:44
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Mar 23, 2026 12:09am
+- **Updated At (UTC):** Mar 23, 2026 12:10am
 
 ---
 
-### 3. 投稿 3
-**作成者:** 匿名
+### 2. Post 2
+**Author:** Yosshy (yosshyyyyyyyyyy)
+
+[Attachment 1](https://yoroxy-79so.onrender.com)
+
+#### Comments (4)
+- **ポテト** (Apr 10, 2026 12:44pm): youtubeも見れるようにしてほしい
+- **Anonymous** (Apr 29, 2026 01:14am): 開けないです。
+- **ナツミズ** (Apr 29, 2026 03:48am): YosshyさんのProxyめちゃ有能だったのでまた使いたいです！
+- **ドーバーダンサ** (Apr 30, 2026 10:37am): 無理だった
+
+#### Reactions
+- **Emojis:** ❤️ (3)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 23, 2026 11:42pm
+- **Updated At (UTC):** Mar 24, 2026 01:44am
+
+---
+
+### 3. Post 3
+**Author:** 匿名
 
 <p><a rel="noopener noreferrer nofollow" href="https://github.com/Yosshy-123/Yoroxy.git">https://github.com/Yosshy-123/Yoroxy.git</a></p><p><br></p><p>Yosshyさんが作成したプロキシです。</p>
 
-[添付ファイル 1](https://yoroxy.onrender.com/)
+[Attachment 1](https://yoroxy.onrender.com/)
 
-#### コメント (14)
-- **仙人@suger** (02/10 03:51): すぐにGoogleに遷移する
-- **匿名** (02/11 23:41): じゃあこっち試して⇩http://yoroxy.onrender.com/proxy-frame.html
-- **仙人@suger** (02/12 07:40): サンキュー❤
-- **仙人@suger** (02/12 07:41): すごすぎる
-- **三角定規** (02/12 11:33): i-filterはgithubほとんど行けない
-- **パああああ** (02/16 00:05): ログインができません 
-- **Unusual Koala** (02/18 08:38): https://yoroxy.onrender.com　使えなくなった？
-- **マイクラやりましょ** (02/18 09:51): 使えなくなった
-- **kai** (02/25 00:57): 使えないよーーー
-- **黙れくそばばあ** (02/25 02:06): ☆owari☆
-- **キャベツ太郎** (03/02 01:21): 使えるようになったで
-- **真田左衛門信繁星矢** (05/12 22:29): 改造版ください
-- **真田左衛門信繁星矢** (05/13 06:33): 誰かー
-- **真田左衛門信繁星矢** (05/13 08:45): Duck duck goの上にhttpsって書いてるのちょーだい
+#### Comments (14)
+- **仙人@suger** (Feb 10, 2026 03:51am): すぐにGoogleに遷移する
+- **匿名** (Feb 11, 2026 11:41pm): じゃあこっち試して⇩http://yoroxy.onrender.com/proxy-frame.html
+- **仙人@suger** (Feb 12, 2026 07:40am): サンキュー❤
+- **仙人@suger** (Feb 12, 2026 07:41am): すごすぎる
+- **三角定規** (Feb 12, 2026 11:33am): i-filterはgithubほとんど行けない
+- **パああああ** (Feb 16, 2026 12:05am): ログインができません 
+- **Unusual Koala** (Feb 18, 2026 08:38am): https://yoroxy.onrender.com　使えなくなった？
+- **マイクラやりましょ** (Feb 18, 2026 09:51am): 使えなくなった
+- **kai** (Feb 25, 2026 12:57am): 使えないよーーー
+- **黙れくそばばあ** (Feb 25, 2026 02:06am): ☆owari☆
+- **キャベツ太郎** (Mar 02, 2026 01:21am): 使えるようになったで
+- **真田左衛門信繁星矢** (May 12, 2026 10:29pm): 改造版ください
+- **真田左衛門信繁星矢** (May 13, 2026 06:33am): 誰かー
+- **真田左衛門信繁星矢** (May 13, 2026 08:45am): Duck duck goの上にhttpsって書いてるのちょーだい
 
-#### リアクション
-- **絵文字:** ❤️ (5)
+#### Reactions
+- **Emojis:** ❤️ (4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/01 11:00
-- **更新日（UTC）:** 03/23 00:10
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 01, 2026 11:00am
+- **Updated At (UTC):** Mar 23, 2026 12:10am
 
 ---
 
 ## その他のProxy
 
 ### 1. Proxy
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>はここに</p>
 
-#### コメント (9)
-- **帰ってきたぴかコン** (06/06 13:30): Shadow
-- **帰ってきたぴかコン** (06/06 13:30): tanahiro2010.cloudfree.jp/Proxy/?auth=noぱすは２０１０
-- **帰ってきたぴかコン** (06/06 13:31): calculator - Google Search
-- **仙人@suger** (06/11 02:58): ありがとう
-- **67676767** (04/03 04:11): https://43zjsw-8080.csb.app/
-- **67676767** (04/03 04:12): https://dlx3ys-8080.csb.app/
-- **お文具とドズル社** (04/14 04:57): 皆さん入ってきてください
-- **NyrikX(足立区陣ICFS系)** (04/14 14:43): はーーーーい！！！！
-- **お文具とドズル社** (04/15 03:41): みんなwelcome
+#### Comments (9)
+- **帰ってきたぴかコン** (Jun 06, 2025 01:30pm): Shadow
+- **帰ってきたぴかコン** (Jun 06, 2025 01:30pm): tanahiro2010.cloudfree.jp/Proxy/?auth=noぱすは２０１０
+- **帰ってきたぴかコン** (Jun 06, 2025 01:31pm): calculator - Google Search
+- **仙人@suger** (Jun 11, 2025 02:58am): ありがとう
+- **67676767** (Apr 03, 2026 04:11am): https://43zjsw-8080.csb.app/
+- **67676767** (Apr 03, 2026 04:12am): https://dlx3ys-8080.csb.app/
+- **お文具とドズル社** (Apr 14, 2026 04:57am): 皆さん入ってきてください
+- **NyrikX(足立区陣ICFS系)** (Apr 14, 2026 02:43pm): はーーーーい！！！！
+- **お文具とドズル社** (Apr 15, 2026 03:41am): みんなwelcome
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 06/05 00:16
-- **更新日（UTC）:** 04/03 01:51
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Jun 05, 2025 12:16am
+- **Updated At (UTC):** Apr 03, 2026 01:51am
 
 ---
 
 ### 2. プロキシサイトです
-**作成者:** マイスター (r0106429)
+**Author:** マイスター (r0106429)
 
 <p>通信がめっちゃ早いです（？）</p>
 
 [https://daydreamx.v2.iei---trumpet-0006.dinprima.ro/](https://daydreamx.v2.iei---trumpet-0006.dinprima.ro/)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/19 11:41
-- **更新日（UTC）:** 05/19 11:41
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 19, 2026 11:41am
+- **Updated At (UTC):** May 19, 2026 11:41am
 
 ---
 
 ### 3. 教えてええええ
-**作成者:** 野中太賀 (r0302401_1)
+**Author:** 野中太賀 (r0302401_1)
 
 <p>だれかページ飛ばしてくれる系のduckduckgo</p><p>くれませんか？(3秒後にduckduckgoに飛ばされるってことです)</p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4791578905/e66fc7077aea559b4dd596d4d509f5cb/unnamed.webp?Expires=1780487712&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NrntFXSwHTvhZ2TWuH1fQCVpl7X%2F%2BqaO8lamsa4mUs5U933mfGbMEGH%2B8iT7Hy9GwqR73ROtwTxPySv2RvY49e%2Fn8Wj0gnncGQ7w6B2EPCdgUFhC9UtHoY44KJ9kfCYC9PZyk773%2BRlJi3f%2Bpe0kr9wirt7r8b4NJGHn7lTrk6U%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4791578905%2Fe66fc7077aea559b4dd596d4d509f5cb%2Funnamed.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4791578905/e66fc7077aea559b4dd596d4d509f5cb/unnamed.webp?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=ourvXU%2Fjw6geBNarw9r7bJFpXe6o7bBYloeTIOfTksNEdtr5DPczzPf30zyR4dJOpuJOGzoFGNvLXAZPBUQrxM1LP8y1VsXdcHRxdlUPA5UNu8Hqq%2FpJhRHSxpSWK%2BiqtXlSVmFnFULUUT8zNBOv0t3eZPy9T9SAf%2FL3Mdmgj14%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4791578905%2Fe66fc7077aea559b4dd596d4d509f5cb%2Funnamed.webp)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/17 07:01
-- **更新日（UTC）:** 05/17 07:01
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 17, 2026 07:01am
+- **Updated At (UTC):** May 17, 2026 07:01am
 
 ---
 
 ### 4. 5行ったんっで教えます
-**作成者:** j250817z
+**Author:** j250817z
 
-[添付ファイル 1](https://arsenic-isso-back.global.ssl.fastly.net/)
+[Attachment 1](https://arsenic-isso-back.global.ssl.fastly.net/)
 
-#### コメント (2)
-- **ナツミズ** (04/29 03:40): buro
-- **マスター** (04/29 09:13): ブロックだね
+#### Comments (2)
+- **ナツミズ** (Apr 29, 2026 03:40am): buro
+- **マスター** (Apr 29, 2026 09:13am): ブロックだね
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/25 03:19
-- **更新日（UTC）:** 04/25 03:19
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 25, 2026 03:19am
+- **Updated At (UTC):** Apr 25, 2026 03:19am
 
 ---
 
 ### 5. いいね5行ったら教えます1週間経ったら5いってなくても言います
-**作成者:** j250817z
+**Author:** j250817z
 
 <p>これまじです。多分最強格のプロキシだと思います誰も知らないと思います。</p>
 
-#### コメント (1)
-- **にゃんこ好き** (05/17 11:41): なくない？
+#### Comments (1)
+- **にゃんこ好き** (May 17, 2026 11:41am): なくない？
 
-#### リアクション
-- **絵文字:** ❤️ (7)
+#### Reactions
+- **Emojis:** ❤️ (7)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/23 12:46
-- **更新日（UTC）:** 04/23 12:46
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 23, 2026 12:46pm
+- **Updated At (UTC):** Apr 23, 2026 12:46pm
 
 ---
 
 ### 6. ほぼゴミだけど
-**作成者:** Kick (daikisabu1225)
+**Author:** Kick (daikisabu1225)
 
 <p>一応自作プロキシのデモ版多分アプデしないけどもしかしたら気が向いたらするかも。botブロッカー入ってるサイトほぼ入れないし、多分バグることもあるかもしれんけど許してちょ。まぁ生きてるプロキシ持ってない人が使ってくれ</p>
 
-[添付ファイル 1](https://proxy-biwako.vercel.app/)
+[Attachment 1](https://proxy-biwako.vercel.app/)
 
-#### コメント (1)
-- **マスター** (04/29 09:13): 使えない
+#### Comments (1)
+- **マスター** (Apr 29, 2026 09:13am): 使えない
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/19 16:49
-- **更新日（UTC）:** 04/21 10:24
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 19, 2026 04:49pm
+- **Updated At (UTC):** Apr 21, 2026 10:24am
 
 ---
 
 ### 7. このプロキシサイトいいぞ
-**作成者:** Niko_320 (njnik6xo)
+**Author:** Niko_320 (njnik6xo)
 
 <p>このさいとURLはったらほぼほぼのとこ行けるぞ！悪用無しな！ｗ</p>
 
-[添付ファイル 1](https://edu.50friends.com.mx/search)
+[Attachment 1](https://edu.50friends.com.mx/search)
 
-#### コメント (2)
-- **ソラカケル** (04/29 11:16): えーっと、神かな？？？
-- **藤原研人** (05/01 05:13): ブロ
+#### Comments (2)
+- **ソラカケル** (Apr 29, 2026 11:16am): えーっと、神かな？？？
+- **藤原研人** (May 01, 2026 05:13am): ブロ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/14 07:11
-- **更新日（UTC）:** 05/01 21:50
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 14, 2026 07:11am
+- **Updated At (UTC):** May 01, 2026 09:50pm
 
 ---
 
-### 8. 投稿 8
-**作成者:** このは (s23240142)
+### 8. Post 8
+**Author:** このは (s23240142)
 
 <p>どこで拾ったか忘れた</p>
 
-[添付ファイル 1](https://pipseducationfund.org/)
+[Attachment 1](https://pipseducationfund.org/)
 
-#### コメント (1)
-- **ミコト** (04/15 02:22): 有能
+#### Comments (1)
+- **ミコト** (Apr 15, 2026 02:22am): 有能
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/08 03:16
-- **更新日（UTC）:** 04/08 03:16
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 08, 2026 03:16am
+- **Updated At (UTC):** Apr 08, 2026 03:16am
 
 ---
 
-### 9. 投稿 9
-**作成者:** Aran*
+### 9. Post 9
+**Author:** Aran*
 
-[添付ファイル 1](https://light-duckduckgo-3.onrender.com/)
+[Attachment 1](https://light-duckduckgo-3.onrender.com/)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/27 08:46
-- **更新日（UTC）:** 05/04 22:35
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 27, 2026 08:46am
+- **Updated At (UTC):** May 04, 2026 10:35pm
 
 ---
 
 ### 10. プロキシ集見つけました
-**作成者:** どこかの誰かさん
+**Author:** どこかの誰かさん
 
-[添付ファイル 1](https://sites.google.com/view/lukemaniaproxylistver1)
+[Attachment 1](https://sites.google.com/view/lukemaniaproxylistver1)
 
-#### コメント (1)
-- **仙人@suger** (03/29 00:52): これいいね
+#### Comments (1)
+- **仙人@suger** (Mar 29, 2026 12:52am): これいいね
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 03/26 03:59
-- **更新日（UTC）:** 03/26 04:00
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Mar 26, 2026 03:59am
+- **Updated At (UTC):** Mar 26, 2026 04:00am
 
 ---
 
-### 11. 投稿 11
-**作成者:** このは (s23240142)
+### 11. Post 11
+**Author:** このは (s23240142)
 
 <p>i-フィルター使えた</p>
 
-[添付ファイル 1](https://zhenxiangba.com/phproxy-improved-master/)
+[Attachment 1](https://zhenxiangba.com/phproxy-improved-master/)
 
-#### コメント (2)
-- **Fabulous Chinchilla** (03/11 00:23): 無理だ
-- **マキノカゼ** (04/29 12:27): 入れたけど使えない🥹
+#### Comments (2)
+- **Fabulous Chinchilla** (Mar 11, 2026 12:23am): 無理だ
+- **マキノカゼ** (Apr 29, 2026 12:27pm): 入れたけど使えない🥹
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/08 05:10
-- **更新日（UTC）:** 03/08 05:10
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 08, 2026 05:10am
+- **Updated At (UTC):** Mar 08, 2026 05:10am
 
 ---
 
 ### 12. 絶対ブロックされてないプロキシ!!
-**作成者:** keR (ke_R)
+**Author:** keR (ke_R)
 
 <p>使い方分かんなかったらコメ書いてね</p>
 
-[添付ファイル 1](https://algebra.learnnexus.xyz/!)
+[Attachment 1](https://algebra.learnnexus.xyz/!)
 
-#### コメント (21)
-- **Anonymous** (02/08 02:35): されるじゃないか
-- **keR** (02/08 03:41): まじ!?
-- **入れ子＿構造** (02/08 07:51): されました
-- **Awesome Caterpillar** (02/08 08:29): ブロだったわ
-- **@松莉右香太** (02/09 10:37): 規制かかったｐ
-- **どっかの小学生** (02/10 01:35): 規制されました
-- **shadoreku** (02/11 02:15): buro
-- **三角定規** (02/12 11:32): ブロックされたお
-- **三角定規** (02/12 11:33): やっぱ規制アドオンの種類による
-- **黙れくそばばあ** (02/25 02:05): されてるしされたろきまじでうぜー
-- **Yusho** (02/25 08:58): グエーブロられたンゴ
-- **サッカー少年** (02/25 23:05): i-firterは無理
-- **keR** (02/26 09:38): すまんな（）
-- **あつだよー** (03/01 02:30): せれた
-- **hana** (03/04 00:23): ブロックされました
-- **俺だぞ〜（三橋）** (03/09 04:41): ゲームカゴテリ
-- **どこかの誰かさん** (03/26 03:56): ブロックされちゃったーーーーーー
-- **Sexやりたいなぁー** (03/30 00:02): ブロックされましたけど
-- **Iフィルターまじうざい** (04/02 10:56): されたーーーーー
-- **Niko_320** (04/14 07:16): されてんじゃねぇかよｗ
-- **推理オタク** (05/14 06:51): ごめんなさいが私もブロックされました。
+#### Comments (21)
+- **Anonymous** (Feb 08, 2026 02:35am): されるじゃないか
+- **keR** (Feb 08, 2026 03:41am): まじ!?
+- **入れ子＿構造** (Feb 08, 2026 07:51am): されました
+- **Awesome Caterpillar** (Feb 08, 2026 08:29am): ブロだったわ
+- **@松莉右香太** (Feb 09, 2026 10:37am): 規制かかったｐ
+- **どっかの小学生** (Feb 10, 2026 01:35am): 規制されました
+- **shadoreku** (Feb 11, 2026 02:15am): buro
+- **三角定規** (Feb 12, 2026 11:32am): ブロックされたお
+- **三角定規** (Feb 12, 2026 11:33am): やっぱ規制アドオンの種類による
+- **黙れくそばばあ** (Feb 25, 2026 02:05am): されてるしされたろきまじでうぜー
+- **Yusho** (Feb 25, 2026 08:58am): グエーブロられたンゴ
+- **サッカー少年** (Feb 25, 2026 11:05pm): i-firterは無理
+- **keR** (Feb 26, 2026 09:38am): すまんな（）
+- **あつだよー** (Mar 01, 2026 02:30am): せれた
+- **hana** (Mar 04, 2026 12:23am): ブロックされました
+- **俺だぞ〜（三橋）** (Mar 09, 2026 04:41am): ゲームカゴテリ
+- **どこかの誰かさん** (Mar 26, 2026 03:56am): ブロックされちゃったーーーーーー
+- **Sexやりたいなぁー** (Mar 30, 2026 12:02am): ブロックされましたけど
+- **Iフィルターまじうざい** (Apr 02, 2026 10:56am): されたーーーーー
+- **Niko_320** (Apr 14, 2026 07:16am): されてんじゃねぇかよｗ
+- **推理オタク** (May 14, 2026 06:51am): ごめんなさいが私もブロックされました。
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/07 23:15
-- **更新日（UTC）:** 02/18 22:06
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 07, 2026 11:15pm
+- **Updated At (UTC):** Feb 18, 2026 10:06pm
 
 ---
 
 ### 13. いいプロキシ
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p><a rel="noopener noreferrer nofollow" href="https://meximathurbanned.global.ssl.fastly.net">https://meximathurbanned.global.ssl.fastly.net</a></p>
 
-[添付ファイル 1](https://meximathurbanned.global.ssl.fastly.net)
+[Attachment 1](https://meximathurbanned.global.ssl.fastly.net)
 
-#### コメント (7)
-- **Anonymous** (12/17 08:10): https://we.internet-slackers.us/?これ最強 
-- **現実見ろや粉カス** (12/24 04:00): ⇑
-- **現実見ろや粉カス** (12/24 04:00): どうやってつかうん？
-- **Responsible Spider** (01/12 06:13): どうやって使うかわからん
-- **のあちゃんでーーーーす** (01/20 00:34): パズルみたいなとこおすとゲームなどでてくるよ
-- **NyrikX(足立区陣ICFS系)** (03/30 04:06): 左上のindex押すとできる
-- **proxyーー** (04/16 12:54): ブロ
+#### Comments (7)
+- **Anonymous** (Dec 17, 2025 08:10am): https://we.internet-slackers.us/?これ最強 
+- **現実見ろや粉カス** (Dec 24, 2025 04:00am): ⇑
+- **現実見ろや粉カス** (Dec 24, 2025 04:00am): どうやってつかうん？
+- **Responsible Spider** (Jan 12, 2026 06:13am): どうやって使うかわからん
+- **のあちゃんでーーーーす** (Jan 20, 2026 12:34am): パズルみたいなとこおすとゲームなどでてくるよ
+- **NyrikX(足立区陣ICFS系)** (Mar 30, 2026 04:06am): 左上のindex押すとできる
+- **proxyーー** (Apr 16, 2026 12:54pm): ブロ
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/17 05:30
-- **更新日（UTC）:** 06/17 05:32
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 17, 2025 05:30am
+- **Updated At (UTC):** Jun 17, 2025 05:32am
 
 ---
 
 ### 14. Szvy Central V2
-**作成者:** kaito (kaitoyokoyama2011)
+**Author:** kaito (kaitoyokoyama2011)
 
-[添付ファイル 1](https://mathfun.global.ssl.fastly.net)
+[Attachment 1](https://mathfun.global.ssl.fastly.net)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/16 12:15
-- **更新日（UTC）:** 07/16 12:15
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 16, 2025 12:15pm
+- **Updated At (UTC):** Jul 16, 2025 12:15pm
 
 ---
 
 ### 15. これもう出てる？
-**作成者:** sasara kijiyama (kijiyamayuuchan)
+**Author:** sasara kijiyama (kijiyamayuuchan)
 
 <p><a rel="noopener noreferrer nofollow" href="http://math.freemedicine.info">http://math.freemedicine.info</a></p>
 
-[添付ファイル 1](http://math.freemedicine.info)
+[Attachment 1](http://math.freemedicine.info)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 08/25 05:54
-- **更新日（UTC）:** 08/25 05:54
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Aug 25, 2025 05:54am
+- **Updated At (UTC):** Aug 25, 2025 05:54am
 
 ---
 
-### 16. 投稿 16
-**作成者:** ウェーーーーーーイ
+### 16. Post 16
+**Author:** ウェーーーーーーイ
 
 <p>proxy</p>
 
-#### コメント (7)
-- **ウェーーーーーーイ** (12/23 08:35): https://cfceym-8080.csb.app/
-- **とりあえず。** (12/24 06:30): ナイス！
-- **Compassionate Llama** (02/11 12:49): [添付ファイル](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/x5A7arGYGXEXQwr6) ってなってる
-- **はひふへほ** (02/12 01:57): それで入力するところにURL入れてunblock を押すといける
-- **三角定規** (02/12 11:35): え天才やん崇めたい
-- **三角定規** (02/12 11:35): 😇
-- **真田左衛門佐星矢** (05/15 23:38): TIKTOCK見れんやん
+#### Comments (7)
+- **ウェーーーーーーイ** (Dec 23, 2025 08:35am): https://cfceym-8080.csb.app/
+- **とりあえず。** (Dec 24, 2025 06:30am): ナイス！
+- **Compassionate Llama** (Feb 11, 2026 12:49pm): [Attachment](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/x5A7arGYGXEXQwr6) ってなってる
+- **はひふへほ** (Feb 12, 2026 01:57am): それで入力するところにURL入れてunblock を押すといける
+- **三角定規** (Feb 12, 2026 11:35am): え天才やん崇めたい
+- **三角定規** (Feb 12, 2026 11:35am): 😇
+- **真田左衛門佐星矢** (May 15, 2026 11:38pm): TIKTOCK見れんやん
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/23 08:34
-- **更新日（UTC）:** 12/23 08:34
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 23, 2025 08:34am
+- **Updated At (UTC):** Dec 23, 2025 08:34am
 
 ---
 
 ### 17. プロキシ入りますか？
-**作成者:** とりあえず。 (nibyoukannsyuutyuuryoku)
+**Author:** とりあえず。 (nibyoukannsyuutyuuryoku)
 
 **ほしいかい？(^ω^)ﾆｯｺﾘ:**
-- **いるﾇ:** 418件の投票
-- **いらﾇ:** 9件の投票
+- **いるﾇ:** 419 votes
+- **いらﾇ:** 9 votes
 
 <p>気づいたらよろしくお願いします！「いるﾇ」の場合プロキシを送ります。まぁ私からのクリスマスプレゼント、ということで...メリクリ！</p>
 
-#### コメント (3)
-- **0721** (02/20 12:49): kudasai
-- **Aran*** (03/27 08:37): 遅いですけど今ほんとに欲しいです
-- **ふっじー** (05/02 12:20): ほしいです
+#### Comments (3)
+- **0721** (Feb 20, 2026 12:49pm): kudasai
+- **Aran*** (Mar 27, 2026 08:37am): 遅いですけど今ほんとに欲しいです
+- **ふっじー** (May 02, 2026 12:20pm): ほしいです
 
-#### リアクション
-- **絵文字:** ❤️ (7)
+#### Reactions
+- **Emojis:** ❤️ (7)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/24 06:33
-- **更新日（UTC）:** 05/26 05:17
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 24, 2025 06:33am
+- **Updated At (UTC):** May 27, 2026 01:13pm
 
 ---
 
-### 18. 投稿 18
-**作成者:** はらぺこんぐ (zinnseikyannseru2017_1)
+### 18. Post 18
+**Author:** はらぺこんぐ (zinnseikyannseru2017_1)
 
 <p><a rel="noopener noreferrer nofollow" href="https://www-google-proxy.bingle.pw/">https://www-google-proxy.bingle.pw/</a></p>
 
-#### コメント (2)
-- **仙人@suger** (01/12 10:53): ありがとう♡
-- **どこかの誰かさん** (03/26 03:57): アドレスが無効だったーーーー
+#### Comments (2)
+- **仙人@suger** (Jan 12, 2026 10:53am): ありがとう♡
+- **どこかの誰かさん** (Mar 26, 2026 03:57am): アドレスが無効だったーーーー
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/10 09:02
-- **更新日（UTC）:** 01/10 09:02
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 10, 2026 09:02am
+- **Updated At (UTC):** Jan 10, 2026 09:02am
 
 ---
 
 ## その他
 
 ### 1. 色々まとめたClassroom
-**作成者:** akki 5012 (akki5012minecraft)
+**Author:** akki 5012 (akki5012minecraft)
 
 <p>fmu5troz </p>
 
 [https://classroom.google.com/c/ODU0NTMzMTA0MjYz?cjc=fmu5troz](https://classroom.google.com/c/ODU0NTMzMTA0MjYz?cjc=fmu5troz)
 
-#### コメント (1)
-- **ㅤ@krtk🔰** (05/21 07:38): キタコレ
+#### Comments (1)
+- **ㅤ@krtk🔰** (May 21, 2026 07:38am): キタコレ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/18 13:12
-- **更新日（UTC）:** 05/18 13:12
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 01:12pm
+- **Updated At (UTC):** May 18, 2026 01:12pm
 
 ---
 
 ### 2. これできるかも
-**作成者:** 池口翔雲 (30020220015)
+**Author:** 池口翔雲 (30020220015)
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.croxyproxy.com/_ja/blog/posts/free-proxy-list-how-to-choose-the-best-online-proxy">https://www.croxyproxy.com/_ja/blog/posts/free-proxy-list-how-to-choose-the-best-online-proxy</a></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5615364904/10aa12985905f12a01906ab7d373fed2/Screenshot_2026_05_08_22_04_06.png?Expires=1780487712&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=QatSGIq8xqkdZZJzJ0ff4GJl4Zdu%2Bwvey%2FhGaMBXXkz6oYvz9kDKPoZlpHlFPqnn396YNNzVmesOiB4ifLtjWiw93uiNoW%2F9blCADggeFEvYSFrZuuAH2BriG%2BLdO5yDuGIVz4AQhimDz%2BaT8mXzbM6rIae0uxt82V2%2BdTVXiuU%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5615364904%2F10aa12985905f12a01906ab7d373fed2%2FScreenshot_2026_05_08_22_04_06.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5615364904/10aa12985905f12a01906ab7d373fed2/Screenshot_2026_05_08_22_04_06.png?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=JWzOcBISEXjAzEjDpCndYNciJSWZcKZ4z4tPdAbeJ281yJdYoJ%2BgZ2gYNfkEInUsM%2FRulp0vWuYd2XgwIjwlHBZhgysUOkApcoFktl18cBZY8VzuS2Cfg1oj%2Bogk%2Fmh45LpeCcNV%2FldKHhh6KGKqoWSm%2FxxJc7nDJDFXQphV09E%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5615364904%2F10aa12985905f12a01906ab7d373fed2%2FScreenshot_2026_05_08_22_04_06.png)
 
-#### コメント (1)
-- **HarukiHaruki** (05/09 05:02): ブロです
+#### Comments (1)
+- **HarukiHaruki** (May 09, 2026 05:02am): ブロです
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 13:05
-- **更新日（UTC）:** 05/08 13:05
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 01:05pm
+- **Updated At (UTC):** May 08, 2026 01:05pm
 
 ---
 
 ### 3. 再びこんにちわ。
-**作成者:** Seismic0981 (Seismic0981)
+**Author:** Seismic0981 (Seismic0981)
 
 <p>あにかいだよ</p>
 
-[添付ファイル 1](https://anikaizoku.com/)
+[Attachment 1](https://anikaizoku.com/)
 
-#### コメント (24)
-- **Seismic0981** (05/07 08:16): ラグいけど太鼓https://turbowarp.org/421255185/fullscreen?fps=60&hqpen
-- **Seismic0981** (05/07 08:17): アモングアスだよhttps://turbowarp.org/1308269898
-- **Seismic0981** (05/07 08:18): https://wplace.live/
-- **Seismic0981** (05/07 08:19): dogehttps://qg4qp4-8080.csb.app/app(動作するかは分からないからPardon)
-- **Seismic0981** (05/07 08:20): スペースhttps://matter.night.isroot.in/&
-- **Seismic0981** (05/07 08:23): Runhttps://lekug.github.io/tn6pS9dCf37xAhkJv/
-- **Seismic0981** (05/07 08:24): 1.19https://boxyboo101.github.io/Eaglercraft-1.19/
-- **Seismic0981** (05/07 08:24): スロープhttps://sites.google.com/view/slopeunblockedgame
-- **Seismic0981** (05/07 08:25): warioooohttps://sites.google.com/view/warios-unblocked-games/nintendo/gba
-- **Seismic0981** (05/07 08:25): Legacyhttps://sites.google.com/view/mathshomeworkview
-- **Seismic0981** (05/07 08:25): FNFhttps://sites.google.com/view/fnfunblockedmod/mods
-- **Seismic0981** (05/07 08:25): V2https://sites.google.com/view/iloveschoolmath/home_1
-- **Seismic0981** (05/07 08:26): issnowLauncherhttps://issnowjp.github.io/issnow-Launcher
-- **Seismic0981** (05/07 08:27): 使えなかったらまた教えてください
-- **ふっじー（犬系）** (05/07 10:45): 全ブロ
-- **Seismic0981** (05/07 21:59): なんだってー
-- **Seismic0981** (05/07 22:00): すっげえなんか硬いね…；
-- **Seismic0981** (05/07 22:18): そんじゃあもうちょいhttps://2026math.segurosdepersonas.cl/
-- **Seismic0981** (05/07 22:19): https://idk.hldj.nl/
-- **Seismic0981** (05/07 22:19): https://i-havenojobbutidolinks.eastcountywireless.com/
-- **Seismic0981** (05/07 22:19): 全部Truffledだよ
-- **ふっじー（犬系）** (05/07 23:44): 固くてごめんな
-- **Seismic0981** (05/08 08:43): 謝る必要は無いさ。
-- **Seismic0981** (05/08 08:43): また別のルートを辿ればいい
+#### Comments (24)
+- **Seismic0981** (May 07, 2026 08:16am): ラグいけど太鼓https://turbowarp.org/421255185/fullscreen?fps=60&hqpen
+- **Seismic0981** (May 07, 2026 08:17am): アモングアスだよhttps://turbowarp.org/1308269898
+- **Seismic0981** (May 07, 2026 08:18am): https://wplace.live/
+- **Seismic0981** (May 07, 2026 08:19am): dogehttps://qg4qp4-8080.csb.app/app(動作するかは分からないからPardon)
+- **Seismic0981** (May 07, 2026 08:20am): スペースhttps://matter.night.isroot.in/&
+- **Seismic0981** (May 07, 2026 08:23am): Runhttps://lekug.github.io/tn6pS9dCf37xAhkJv/
+- **Seismic0981** (May 07, 2026 08:24am): 1.19https://boxyboo101.github.io/Eaglercraft-1.19/
+- **Seismic0981** (May 07, 2026 08:24am): スロープhttps://sites.google.com/view/slopeunblockedgame
+- **Seismic0981** (May 07, 2026 08:25am): warioooohttps://sites.google.com/view/warios-unblocked-games/nintendo/gba
+- **Seismic0981** (May 07, 2026 08:25am): Legacyhttps://sites.google.com/view/mathshomeworkview
+- **Seismic0981** (May 07, 2026 08:25am): FNFhttps://sites.google.com/view/fnfunblockedmod/mods
+- **Seismic0981** (May 07, 2026 08:25am): V2https://sites.google.com/view/iloveschoolmath/home_1
+- **Seismic0981** (May 07, 2026 08:26am): issnowLauncherhttps://issnowjp.github.io/issnow-Launcher
+- **Seismic0981** (May 07, 2026 08:27am): 使えなかったらまた教えてください
+- **ふっじー（犬系）** (May 07, 2026 10:45am): 全ブロ
+- **Seismic0981** (May 07, 2026 09:59pm): なんだってー
+- **Seismic0981** (May 07, 2026 10:00pm): すっげえなんか硬いね…；
+- **Seismic0981** (May 07, 2026 10:18pm): そんじゃあもうちょいhttps://2026math.segurosdepersonas.cl/
+- **Seismic0981** (May 07, 2026 10:19pm): https://idk.hldj.nl/
+- **Seismic0981** (May 07, 2026 10:19pm): https://i-havenojobbutidolinks.eastcountywireless.com/
+- **Seismic0981** (May 07, 2026 10:19pm): 全部Truffledだよ
+- **ふっじー（犬系）** (May 07, 2026 11:44pm): 固くてごめんな
+- **Seismic0981** (May 08, 2026 08:43am): 謝る必要は無いさ。
+- **Seismic0981** (May 08, 2026 08:43am): また別のルートを辿ればいい
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/07 08:14
-- **更新日（UTC）:** 05/07 08:14
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 07, 2026 08:14am
+- **Updated At (UTC):** May 07, 2026 08:14am
 
 ---
 
 ### 4. フォローおなしゃす
-**作成者:** からぴち　どぬ推し (4225485)
+**Author:** からぴち　どぬ推し (4225485)
 
-#### コメント (1)
-- **にんじん** (05/04 08:50): 失礼します
+#### Comments (1)
+- **にんじん** (May 04, 2026 08:50am): 失礼します
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/03 09:20
-- **更新日（UTC）:** 05/03 09:20
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 03, 2026 09:20am
+- **Updated At (UTC):** May 03, 2026 09:20am
 
 ---
 
-### 5. 投稿 5
-**作成者:** 谷内ですーー (gs225971)
+### 5. Post 5
+**Author:** 谷内ですーー (gs225971)
 
 <p>この中でなんの野球チーム好き？</p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5505922260/60f7be16b04b6cb0da2ff5b265707a59/Screenshot_2026_04_22_15_24_51.png?Expires=1780487712&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Mx5qf0gdo20iZLmK9H8rZ5kPnxAnLxMIJLvDCyyMGJblwOgJSR5WLS4Bdk04pcUECVTyBfmCQWI%2BE5MXJyMYd9U7H8wmow76iLiMtoMXZIbHI8Op16EAo4j%2Fd%2BVCJtLFDtdhkZta%2B6h2nNwokKgxgHZHaF6DSFgLnNeFeuwqxjM%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505922260%2F60f7be16b04b6cb0da2ff5b265707a59%2FScreenshot_2026_04_22_15_24_51.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5505922260/60f7be16b04b6cb0da2ff5b265707a59/Screenshot_2026_04_22_15_24_51.png?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Rqsnf0iWnZv3YC1sJBdxHwIJZ5Wgi8KEw%2BgRSWxQNn%2F3ZAPeafl%2FC0VPlK4HQOvB7eJcp9E%2BPuJLmtnVz1qS8Zw7pSzzqSPherXVOd17L5PdGHjRR%2FxWkSEWSEBFCm6UeolonghDQvyhC2TEsda1NtzvFQJUjqAsvvOHr8hLUww%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505922260%2F60f7be16b04b6cb0da2ff5b265707a59%2FScreenshot_2026_04_22_15_24_51.png)
 
-#### コメント (21)
-- **谷内ですーー** (04/22 06:25): フォローしてください
-- **ソヨギ** (04/22 06:46): ジァイアンツ
-- **Anonymous** (04/22 07:29): 俺もジャイアンツ
-- **ながたに はると** (04/23 06:23): 阪神
-- **コミヤシンゴ** (04/23 07:36): カープ
-- **かんたですけどなにか** (04/23 08:19): 下半身タイガース
-- **ほそかわせいや** (04/23 08:30): 中日
-- **谷内ですーー** (04/23 11:05): いいねお願いします
-- **ブロスタ大好きっ子** (04/24 08:41): ロッテだよ
-- **カービィ** (04/25 04:24): 巨人
-- **kira** (04/25 12:57): 阪神じゃろ
-- **れいじ** (04/27 03:53): カープ 
-- **味付け海苔製造機** (04/29 13:35): 阪神。
-- **フユノカ** (05/01 03:06): はんしん
-- **三角定規２号** (05/06 08:43): ナスの揚げ浸し。
-- **佐藤弘侑** (05/07 02:06): 阪神タイガース
-- **神風PVP（かみかぜ)** (05/07 13:31): 楽天
-- **池口翔雲** (05/08 23:12): 阪神
-- **ソラジロ** (05/14 02:15): 阪神
-- **高し** (05/21 09:38): 巨人
-- **葵** (05/23 10:10): ベイスターズ！ファン！
+#### Comments (21)
+- **谷内ですーー** (Apr 22, 2026 06:25am): フォローしてください
+- **ソヨギ** (Apr 22, 2026 06:46am): ジァイアンツ
+- **Anonymous** (Apr 22, 2026 07:29am): 俺もジャイアンツ
+- **ながたに はると** (Apr 23, 2026 06:23am): 阪神
+- **コミヤシンゴ** (Apr 23, 2026 07:36am): カープ
+- **かんたですけどなにか** (Apr 23, 2026 08:19am): 下半身タイガース
+- **ほそかわせいや** (Apr 23, 2026 08:30am): 中日
+- **谷内ですーー** (Apr 23, 2026 11:05am): いいねお願いします
+- **ブロスタ大好きっ子** (Apr 24, 2026 08:41am): ロッテだよ
+- **カービィ** (Apr 25, 2026 04:24am): 巨人
+- **kira** (Apr 25, 2026 12:57pm): 阪神じゃろ
+- **れいじ** (Apr 27, 2026 03:53am): カープ 
+- **味付け海苔製造機** (Apr 29, 2026 01:35pm): 阪神。
+- **フユノカ** (May 01, 2026 03:06am): はんしん
+- **三角定規２号** (May 06, 2026 08:43am): ナスの揚げ浸し。
+- **佐藤弘侑** (May 07, 2026 02:06am): 阪神タイガース
+- **神風PVP（かみかぜ)** (May 07, 2026 01:31pm): 楽天
+- **池口翔雲** (May 08, 2026 11:12pm): 阪神
+- **ソラジロ** (May 14, 2026 02:15am): 阪神
+- **高し** (May 21, 2026 09:38am): 巨人
+- **葵** (May 23, 2026 10:10am): ベイスターズ！ファン！
 
-#### リアクション
-- **絵文字:** ❤️ (3)
+#### Reactions
+- **Emojis:** ❤️ (3)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/22 06:25
-- **更新日（UTC）:** 04/22 06:25
-
----
-
-### 6. 投稿 6
-**作成者:** 谷内ですーー (gs225971)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5505922260/06dd4b5f3f9d0af795cf94e1e68ce3b9/Screenshot_2026_04_21_18_31_55.png?Expires=1780487712&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=qv3qCYjpSrSWC3aMk4Eyli3f6ogFwRh1RSfjsiECbh5FAVmKIiRXs%2BPlk%2Fuwm6elRt6Q5l9dvGNi6QbtuUqsz8vSHQ0pZx9o9dsTh9kSYzNX06aKethMyei8USKH0UEAQYyNJvx%2BBpQ2WAV7nmXsoNzkg7mXDpnZbT4AqBT2XVk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505922260%2F06dd4b5f3f9d0af795cf94e1e68ce3b9%2FScreenshot_2026_04_21_18_31_55.png)
-
-#### コメント (4)
-- **谷内ですーー** (04/21 09:32): この選手好きな人ーー
-- **そうさうれしいいんだ生きる喜び** (04/22 02:41): はーい！
-- **谷内ですーー** (04/22 06:20): フォローしてーーー
-- **コミヤシンゴ** (04/23 07:37): はーい「
-
-#### リアクション
-- **絵文字:** ❤️ (2)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/21 09:32
-- **更新日（UTC）:** 04/21 09:32
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 22, 2026 06:25am
+- **Updated At (UTC):** Apr 22, 2026 06:25am
 
 ---
 
-### 7. 投稿 7
-**作成者:** このは (s23240142)
+### 6. Post 6
+**Author:** 谷内ですーー (gs225971)
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5505922260/06dd4b5f3f9d0af795cf94e1e68ce3b9/Screenshot_2026_04_21_18_31_55.png?Expires=1780502916&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=mX%2BBOGx562CohWPR29WKXTjJTdl%2F%2FixgavH6Q7FM5vM3m4Q%2BdPj26uqeMbVGeZt9D5qPv%2Bvdj%2FLw2NCzfPokSPfY6gcaUTWqIyNsZ400AKHooP901Wff5qIwi820pXqdH1m8moPaGoA2vkreJAy3dIPPEbbn7upAZt0%2F%2FVauYL4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505922260%2F06dd4b5f3f9d0af795cf94e1e68ce3b9%2FScreenshot_2026_04_21_18_31_55.png)
+
+#### Comments (4)
+- **谷内ですーー** (Apr 21, 2026 09:32am): この選手好きな人ーー
+- **そうさうれしいいんだ生きる喜び** (Apr 22, 2026 02:41am): はーい！
+- **谷内ですーー** (Apr 22, 2026 06:20am): フォローしてーーー
+- **コミヤシンゴ** (Apr 23, 2026 07:37am): はーい「
+
+#### Reactions
+- **Emojis:** ❤️ (2)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 21, 2026 09:32am
+- **Updated At (UTC):** Apr 21, 2026 09:32am
+
+---
+
+### 7. Post 7
+**Author:** このは (s23240142)
 
 <p>いろんな代替えフロントエンドとかの</p><p>リンク集らしいもの</p>
 
-[添付ファイル 1](https://libredirect.github.io/)
+[Attachment 1](https://libredirect.github.io/)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/08 03:20
-- **更新日（UTC）:** 04/08 05:43
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 08, 2026 03:20am
+- **Updated At (UTC):** Apr 08, 2026 05:43am
 
 ---
 
 ### 8. 少しでもみて！！
-**作成者:** ドラえもん (s230081_15)
+**Author:** ドラえもん (s230081_15)
 
-[添付ファイル 1](https://www.tv-asahi.co.jp/doraemon/)
+[Attachment 1](https://www.tv-asahi.co.jp/doraemon/)
 
-#### コメント (3)
-- **Enthusiastic Koala** (03/25 04:02): ブロックされてたよ〜
-- **どこかの誰かさん** (03/26 03:56): されてないよーーー
-- **葵** (05/23 10:11): ブロ
+#### Comments (3)
+- **Enthusiastic Koala** (Mar 25, 2026 04:02am): ブロックされてたよ〜
+- **どこかの誰かさん** (Mar 26, 2026 03:56am): されてないよーーー
+- **葵** (May 23, 2026 10:11am): ブロ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/16 23:55
-- **更新日（UTC）:** 03/17 02:31
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 16, 2026 11:55pm
+- **Updated At (UTC):** Mar 17, 2026 02:31am
 
 ---
 
 ### 9. a
-**作成者:** Determined Deer
+**Author:** Determined Deer
 
 <p><a rel="noopener noreferrer nofollow" href="https://brb.kr/Tzfw">https://brb.kr/Tzfw</a></p>
 
-#### コメント (1)
-- **葵** (05/23 10:12): ブロ
+#### Comments (1)
+- **葵** (May 23, 2026 10:12am): ブロ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/14 07:24
-- **更新日（UTC）:** 03/14 07:24
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 14, 2026 07:24am
+- **Updated At (UTC):** Mar 14, 2026 07:24am
 
 ---
 
 ### 10. ブロックされないタボワ
-**作成者:** 入れ子＿構造 (ireko_kozo)
+**Author:** 入れ子＿構造 (ireko_kozo)
 
 <p>試験的機能が使えるサイトだけど元とほぼ同じなタボワ。載せられてなかったので知らない人も多い？</p>
 
-[添付ファイル 1](https://experiments.turbowarp.org/cloud-variables-anywhere/)
+[Attachment 1](https://experiments.turbowarp.org/cloud-variables-anywhere/)
 
-#### コメント (7)
-- **ᏁγᎶ » Tøka_Kuŋ_** (02/18 22:06): ミラー版なら100以上あるよ
-- **入れ子＿構造** (02/19 08:30): 自分も試したけどブロ多数だった。自分が入れたのがこれ
-- **shadoreku** (02/21 02:58): ありがとー
-- **あんず** (03/16 12:43): されるじゃないか
-- **どこかの誰かさん** (03/22 05:34): そもそもひらけた
-- **どこかの誰かさん** (03/22 05:34): (普通のタボワ)
-- **葵** (05/23 10:12): ブロ
+#### Comments (7)
+- **ᏁγᎶ » Tøka_Kuŋ_** (Feb 18, 2026 10:06pm): ミラー版なら100以上あるよ
+- **入れ子＿構造** (Feb 19, 2026 08:30am): 自分も試したけどブロ多数だった。自分が入れたのがこれ
+- **shadoreku** (Feb 21, 2026 02:58am): ありがとー
+- **あんず** (Mar 16, 2026 12:43pm): されるじゃないか
+- **どこかの誰かさん** (Mar 22, 2026 05:34am): そもそもひらけた
+- **どこかの誰かさん** (Mar 22, 2026 05:34am): (普通のタボワ)
+- **葵** (May 23, 2026 10:12am): ブロ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/13 00:52
-- **更新日（UTC）:** 02/16 23:37
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 13, 2026 12:52am
+- **Updated At (UTC):** Feb 16, 2026 11:37pm
 
 ---
 
-### 11. 投稿 11
-**作成者:** ホームパイ
+### 11. Post 11
+**Author:** ホームパイ
 
 <p>捨てメアドある人ください</p>
 
-#### コメント (11)
-- **nonnon** (12/17 03:56): 探すの手伝うよぅ
-- **Proxy最強** (01/05 02:41): ありますよ
-- **陸上大好き** (01/10 12:46): https://imail.edu.vn
-- **Creative Buffalo** (02/03 10:27): https://boomlify.com/
-- **やっほー** (02/13 07:19): だれか「しあtube」のさいともってない？もってたらください
-- **きんためん２せい** (02/15 12:58): https://script.google.com/a/macros/g.ueis.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
-- **どこかの誰かさん** (03/22 05:41): しあtubeだけなぜか開けるけど、見れない
-- **どこかの誰かさん** (03/22 05:48): しあtube以外も開けます
-- **どこかの誰かさん** (03/22 05:48): しあtubeが見れないという意味です
-- **K41** (03/31 13:24): yuki youtube の字が懐かしいなこれ
-- **K41** (03/31 13:25): 時代
+#### Comments (11)
+- **nonnon** (Dec 17, 2025 03:56am): 探すの手伝うよぅ
+- **Proxy最強** (Jan 05, 2026 02:41am): ありますよ
+- **陸上大好き** (Jan 10, 2026 12:46pm): https://imail.edu.vn
+- **Creative Buffalo** (Feb 03, 2026 10:27am): https://boomlify.com/
+- **やっほー** (Feb 13, 2026 07:19am): だれか「しあtube」のさいともってない？もってたらください
+- **きんためん２せい** (Feb 15, 2026 12:58pm): https://script.google.com/a/macros/g.ueis.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
+- **どこかの誰かさん** (Mar 22, 2026 05:41am): しあtubeだけなぜか開けるけど、見れない
+- **どこかの誰かさん** (Mar 22, 2026 05:48am): しあtube以外も開けます
+- **どこかの誰かさん** (Mar 22, 2026 05:48am): しあtubeが見れないという意味です
+- **K41** (Mar 31, 2026 01:24pm): yuki youtube の字が懐かしいなこれ
+- **K41** (Mar 31, 2026 01:25pm): 時代
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/16 00:24
-- **更新日（UTC）:** 12/16 00:24
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 16, 2025 12:24am
+- **Updated At (UTC):** Dec 16, 2025 12:24am
 
 ---
 
 ## ISGC
 
 ### 1. ICGC
-**作成者:** 陽著辺子 (yangzhubianzi)
+**Author:** 陽著辺子 (yangzhubianzi)
 
 <p>主とボクはICGCです</p>
 
-#### コメント (15)
-- **シマダアユミ** (12/07 07:14): Oramo
-- **Sleepy seal** (12/16 04:07): isgc民です
-- **Anonymous** (12/17 08:10): isgcです
-- **Anonymous** (12/17 08:10): https://we.internet-slackers.us/?isgcいけます
-- **仙人@suger** (12/29 02:19): ありがとう♡
-- **Anonymous** (01/26 03:41): なんかタブレットの制限変わった
-- **匿名** (01/27 04:13): あ
-- **Helpful Barracuda** (02/20 01:03): なる
-- **Helpful Barracuda** (02/20 01:04): せっ
-- **Anonymous** (02/23 04:26): 僕もisgcです
-- **シャンシャン** (02/25 01:26): 制限ってどうやってみるんですか？
-- **仙人@suger** (02/26 07:08): Chromeブックは拡張機能でアイパットはappを見る
-- **どこかの誰かさん** (03/22 05:46): isgcいけない
-- **Anonymous** (04/24 05:07): いうg
-- **Sleepy seal** (05/17 08:40): i-filterになった
+#### Comments (15)
+- **シマダアユミ** (Dec 07, 2025 07:14am): Oramo
+- **Sleepy seal** (Dec 16, 2025 04:07am): isgc民です
+- **Anonymous** (Dec 17, 2025 08:10am): isgcです
+- **Anonymous** (Dec 17, 2025 08:10am): https://we.internet-slackers.us/?isgcいけます
+- **仙人@suger** (Dec 29, 2025 02:19am): ありがとう♡
+- **Anonymous** (Jan 26, 2026 03:41am): なんかタブレットの制限変わった
+- **匿名** (Jan 27, 2026 04:13am): あ
+- **Helpful Barracuda** (Feb 20, 2026 01:03am): なる
+- **Helpful Barracuda** (Feb 20, 2026 01:04am): せっ
+- **Anonymous** (Feb 23, 2026 04:26am): 僕もisgcです
+- **シャンシャン** (Feb 25, 2026 01:26am): 制限ってどうやってみるんですか？
+- **仙人@suger** (Feb 26, 2026 07:08am): Chromeブックは拡張機能でアイパットはappを見る
+- **どこかの誰かさん** (Mar 22, 2026 05:46am): isgcいけない
+- **Anonymous** (Apr 24, 2026 05:07am): いうg
+- **Sleepy seal** (May 17, 2026 08:40am): i-filterになった
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/04 23:33
-- **更新日（UTC）:** 06/04 23:33
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 04, 2025 11:33pm
+- **Updated At (UTC):** Jun 04, 2025 11:33pm
 
 ---
 
 ## i-FILTER
 
 ### 1. プロキシ
-**作成者:** 18000kai
+**Author:** 18000kai
 
 <p>一個あげるよまだまだあるよーん</p>
 
-[添付ファイル 1](https://s3.amazonaws.com/lsrelay-1/index.html)
+[Attachment 1](https://s3.amazonaws.com/lsrelay-1/index.html)
 
-#### コメント (2)
-- **ハミチキ** (05/16 09:04): ブロです。もっとください
-- **18000kai** (05/18 05:59): いけるかなぁ。https://meiboohyeahlol.bisblick.org/
+#### Comments (2)
+- **ハミチキ** (May 16, 2026 09:04am): ブロです。もっとください
+- **18000kai** (May 18, 2026 05:59am): いけるかなぁ。https://meiboohyeahlol.bisblick.org/
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 06:18
-- **更新日（UTC）:** 05/16 06:18
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 06:18am
+- **Updated At (UTC):** May 16, 2026 06:18am
 
 ---
 
 ### 2. i-フィルターYoutube
-**作成者:** Tomoharukun (Tomoharukun)
+**Author:** Tomoharukun (Tomoharukun)
 
 <p>ここに見たいYoutubeのURLをはれば</p><p>見れます。（i-フィルターでも見れた）</p>
 
-[添付ファイル 1](https://kol.id/download-video/youtube)
+[Attachment 1](https://kol.id/download-video/youtube)
 
-#### コメント (5)
-- **れもん** (05/11 07:57): それURLはってもYoutube downloader vendor is busy.って出て無理くないっすか？
-- **天才くん** (05/12 22:38): それが出てるからできるんだよやり方はこうその変な奴が書いてるのは無視をしてみたいリンクをコピーをするそうするど変な奴が消えて30秒くらいで作ってくれるよ
-- **Tomoharukun** (05/15 02:41): かわりに説明ありがとうございます。
-- **琥珀糖** (05/18 02:22): マジでありがとう
-- **Tomoharukun** (05/18 06:54): すげーだろ
+#### Comments (5)
+- **れもん** (May 11, 2026 07:57am): それURLはってもYoutube downloader vendor is busy.って出て無理くないっすか？
+- **天才くん** (May 12, 2026 10:38pm): それが出てるからできるんだよやり方はこうその変な奴が書いてるのは無視をしてみたいリンクをコピーをするそうするど変な奴が消えて30秒くらいで作ってくれるよ
+- **Tomoharukun** (May 15, 2026 02:41am): かわりに説明ありがとうございます。
+- **琥珀糖** (May 18, 2026 02:22am): マジでありがとう
+- **Tomoharukun** (May 18, 2026 06:54am): すげーだろ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/08 23:48
-- **更新日（UTC）:** 05/08 23:48
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 08, 2026 11:48pm
+- **Updated At (UTC):** May 08, 2026 11:48pm
 
 ---
 
 ### 3. クローム　i-フィルター
-**作成者:** ラッドウィンプスファン (hi_younoooooooob_wwwwwwwwwwwwwwwww_64bit_9999T)
+**Author:** ラッドウィンプスファン (hi_younoooooooob_wwwwwwwwwwwwwwwww_64bit_9999T)
 
 <p>スクラッチで確かまだ共有にしてるはず</p><p>この手順出いけると思う</p><p>わしのスクラッチのアカウント</p><p>@2525-yukig</p>
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/05 12:15
-- **更新日（UTC）:** 05/05 12:15
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 05, 2026 12:15pm
+- **Updated At (UTC):** May 05, 2026 12:15pm
 
 ---
 
-### 4. 投稿 4
-**作成者:** すずめ (Sparrows_chun)
+### 4. Post 4
+**Author:** すずめ (Sparrows_chun)
 
 <p><strong>i-filterアプリが入っていてiPadの人のブロック解除方法</strong></p><p>まず設定からアクセシビリティ&gt;タッチ&gt;AssistiveTouchからAssistiveTouchをオンにして、AssistiveTouchの「ダブルタップ」を「再起動」にして、アイフィルターアプリを開き、左上の設定から上から2番目の「再アクティベート」をタップし、アクティベート中にAssistiveTouchをダブルタップして「iPadを再起動してもよろしいですか?」という質問ですぐに「再起動」をタップして、再起動します。これでブロックが解除されていると思います。そしてwi-fiが繋がったら<strong><em><mark>絶対に</mark></em></strong> i-filterアプリを開かないでください!!アクティベートされてブロックがONになってしまいます。でもWi-Fiが繋がっていなければアクティベートすることができない(ネット環境がないから)ので、アクティベートできませんからこうすると勝手にアクティベートすることを防げる場合があります。</p>
 
-#### コメント (7)
-- **Yotayota** (04/03 13:38): これはアクティベートした時に学校などに通知がいきますか？ 
-- **すずめ** (04/14 13:11): 今のところこの方法はバレていないようなので通知はいきません。(そう思います。)
-- **リョウ[yamada takeru]** (04/21 06:56): できないからどうすれだいいですか？
-- **セセラギ** (04/22 12:24): 普通に無理だった🤪
-- **すずめ** (04/25 06:30): まじか
-- **Seismic0981** (05/07 08:28): i-filterでクロームでブロック解除教えてくださいほんとに頼みます
-- **18000kai** (05/16 06:24): それをやるとネットに繋がらなくなる
+#### Comments (7)
+- **Yotayota** (Apr 03, 2026 01:38pm): これはアクティベートした時に学校などに通知がいきますか？ 
+- **すずめ** (Apr 14, 2026 01:11pm): 今のところこの方法はバレていないようなので通知はいきません。(そう思います。)
+- **リョウ[yamada takeru]** (Apr 21, 2026 06:56am): できないからどうすれだいいですか？
+- **セセラギ** (Apr 22, 2026 12:24pm): 普通に無理だった🤪
+- **すずめ** (Apr 25, 2026 06:30am): まじか
+- **Seismic0981** (May 07, 2026 08:28am): i-filterでクロームでブロック解除教えてくださいほんとに頼みます
+- **18000kai** (May 16, 2026 06:24am): それをやるとネットに繋がらなくなる
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/30 23:44
-- **更新日（UTC）:** 03/30 23:44
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 30, 2026 11:44pm
+- **Updated At (UTC):** Mar 30, 2026 11:44pm
 
 ---
 
 ### 5. i-filterで見たいものを見る方法
-**作成者:** 匿名
+**Author:** 匿名
 
 <p>上の検索エンジンがブロックされなければセーフサーチをオフにして検索して、あとは画像のカテゴリで自分が好きなものを好きに見れます。時間が立つとgoogleの履歴からも検索結果が見れなくなるのでこのサイトはおすすめです</p>
 
-[添付ファイル 1](https://www.startpage.com/ja/)
+[Attachment 1](https://www.startpage.com/ja/)
 
-#### コメント (14)
-- **すずめ** (02/11 00:20): 自分はi-filter@cloudなんでうれC
-- **入れ子＿構造** (02/13 11:34): 例えば自分の見たいエロ画像とかも画像だけなら見れるよ。
-- **Benevolent Dory** (02/20 05:21): ブロ…ック
-- **Benevolent Dory** (02/20 05:21): ブロ…ック
-- **Brave Quokka** (02/22 15:23): 人世代前
-- **Affectionate Kangaroo** (03/07 13:46): ブロックされたンゴ
-- **Affectionate Kangaroo** (03/07 13:46): わろた
-- **Adventurous Urchin** (03/07 13:48): 後、もうすぐタブレット返却です。2026 3/7
-- **NyrikX(足立区陣ICFS系)** (04/04 18:52): ICFSブロされてないです
-- **豚眉毛** (05/02 08:43): セーフサーチも履歴も残らない方法あるよ 
-- **Tomoharukun** (05/07 05:58): なに・・ブロックだと・
-- **Seismic0981** (05/07 08:28): そんな悲しいこと言うんじゃねえよ；；https://safe.startpage.com/
-- **天才くん** (05/12 23:00): ブロックされたからもっと悲しい
-- **天才くん** (05/12 23:00): 😭
+#### Comments (14)
+- **すずめ** (Feb 11, 2026 12:20am): 自分はi-filter@cloudなんでうれC
+- **入れ子＿構造** (Feb 13, 2026 11:34am): 例えば自分の見たいエロ画像とかも画像だけなら見れるよ。
+- **Benevolent Dory** (Feb 20, 2026 05:21am): ブロ…ック
+- **Benevolent Dory** (Feb 20, 2026 05:21am): ブロ…ック
+- **Brave Quokka** (Feb 22, 2026 03:23pm): 人世代前
+- **Affectionate Kangaroo** (Mar 07, 2026 01:46pm): ブロックされたンゴ
+- **Affectionate Kangaroo** (Mar 07, 2026 01:46pm): わろた
+- **Adventurous Urchin** (Mar 07, 2026 01:48pm): 後、もうすぐタブレット返却です。2026 3/7
+- **NyrikX(足立区陣ICFS系)** (Apr 04, 2026 06:52pm): ICFSブロされてないです
+- **豚眉毛** (May 02, 2026 08:43am): セーフサーチも履歴も残らない方法あるよ 
+- **Tomoharukun** (May 07, 2026 05:58am): なに・・ブロックだと・
+- **Seismic0981** (May 07, 2026 08:28am): そんな悲しいこと言うんじゃねえよ；；https://safe.startpage.com/
+- **天才くん** (May 12, 2026 11:00pm): ブロックされたからもっと悲しい
+- **天才くん** (May 12, 2026 11:00pm): 😭
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/06 12:18
-- **更新日（UTC）:** 02/06 12:18
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 06, 2026 12:18pm
+- **Updated At (UTC):** Feb 06, 2026 12:18pm
 
 ---
 
 ### 6. アイふぇるたーdesu
-**作成者:** observant jackrabbit
+**Author:** observant jackrabbit
 
-#### コメント (3)
-- **ロキ** (04/16 14:40): ふぇるたー草
-- **Seismic0981** (05/07 08:29): ふぇるたー…
-- **天才くん** (05/12 23:01): filter大好き😭
+#### Comments (3)
+- **ロキ** (Apr 16, 2026 02:40pm): ふぇるたー草
+- **Seismic0981** (May 07, 2026 08:29am): ふぇるたー…
+- **天才くん** (May 12, 2026 11:01pm): filter大好き😭
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/22 08:18
-- **更新日（UTC）:** 06/22 08:18
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 22, 2025 08:18am
+- **Updated At (UTC):** Jun 22, 2025 08:18am
 
 ---
 
 ### 7. どぞ
-**作成者:** ゑ？
+**Author:** ゑ？
 
-[添付ファイル 1](https://us4.voucanfalcon.workers.dev/)
+[Attachment 1](https://us4.voucanfalcon.workers.dev/)
 
-#### コメント (3)
-- **削除済みユーザー** (11/10 11:04): block
-- **Enthusiastic Tiger** (11/19 01:17): oira iketa-
-- **Observant Dory** (12/23 04:27): ブロックされないけど使えない…
+#### Comments (3)
+- **削除済みユーザー** (Nov 10, 2025 11:04am): block
+- **Enthusiastic Tiger** (Nov 19, 2025 01:17am): oira iketa-
+- **Observant Dory** (Dec 23, 2025 04:27am): ブロックされないけど使えない…
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/02 02:40
-- **更新日（UTC）:** 10/02 02:40
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Oct 02, 2025 02:40am
+- **Updated At (UTC):** Oct 02, 2025 02:40am
 
 ---
 
 ### 8. タワシの愛用ゴミProxy
-**作成者:** おでん (odenn)
+**Author:** おでん (odenn)
 
 <p>ゴミです。</p><p><a rel="noopener noreferrer nofollow" href="https://pc-freak.net/proxy/">https://pc-freak.net/proxy</a></p>
 
-[添付ファイル 1](https://pc-freak.net/proxy/)
+[Attachment 1](https://pc-freak.net/proxy/)
 
-#### コメント (1)
-- **仙人@suger** (12/23 22:18): ありがとーーーーー
+#### Comments (1)
+- **仙人@suger** (Dec 23, 2025 10:18pm): ありがとーーーーー
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/23 09:39
-- **更新日（UTC）:** 01/10 00:11
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 23, 2025 09:39am
+- **Updated At (UTC):** Jan 10, 2026 12:11am
 
 ---
 
 ### 9. タワシの愛用ゴミproxy
-**作成者:** おでん (odenn)
+**Author:** おでん (odenn)
 
 <p>ゴミです。</p><p><a rel="noopener noreferrer nofollow" href="https://pc-freak.net/proxy/">https://pc-freak.net/proxy/</a></p>
 
-[添付ファイル 1](https://pc-freak.net/proxy/)
+[Attachment 1](https://pc-freak.net/proxy/)
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/23 09:40
-- **更新日（UTC）:** 12/23 09:40
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 23, 2025 09:40am
+- **Updated At (UTC):** Dec 23, 2025 09:40am
 
 ---
 
 ## Icfs
 
 ### 1. Icfs
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>ここへ</p>
 
-#### コメント (1)
-- **ㅤ@krtk🔰** (05/21 07:39): 　
+#### Comments (1)
+- **ㅤ@krtk🔰** (May 21, 2026 07:39am): 　
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 03/22 11:16
-- **更新日（UTC）:** 04/05 10:12
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Mar 22, 2026 11:16am
+- **Updated At (UTC):** Apr 05, 2026 10:12am
 
 ---
 
 ### 2. もう知ってるかもだけど解除できたらこれでYouTube見れる
-**作成者:** NyrikX(足立区陣ICFS系) (h3000370)
+**Author:** NyrikX(足立区陣ICFS系) (h3000370)
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=eEMK4lIZ6Yc&amp;persist_gl=1&amp;gl=JP">https://www.youtube.com/watch?v=eEMK4lIZ6Yc&amp;persist_gl=1&amp;gl=JP</a></p><p>この動画だけ視聴が許可されてる。</p><p>昔2021年ぐらいのときに君が代のyoutube動画や最新の天気動画が見れたことがありましたが気づいたら何かでブロックされたことを覚えています。</p>
 
-#### コメント (3)
-- **リョウ[yamada takeru]** (04/21 06:57): ぶろ 
-- **08tetu16** (05/09 06:18): ぶろ
-- **18000kai** (05/16 06:21): あと夜遊びか忘れたがのアイドルも見れます俺の場合。
+#### Comments (3)
+- **リョウ[yamada takeru]** (Apr 21, 2026 06:57am): ぶろ 
+- **08tetu16** (May 09, 2026 06:18am): ぶろ
+- **18000kai** (May 16, 2026 06:21am): あと夜遊びか忘れたがのアイドルも見れます俺の場合。
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/04 18:55
-- **更新日（UTC）:** 04/04 18:57
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 04, 2026 06:55pm
+- **Updated At (UTC):** Apr 04, 2026 06:57pm
 
 ---
 
 ### 3. 強制再起動「ハードウェアのリセット」でブロック解除
-**作成者:** NyrikX(足立区陣ICFS系) (h3000370)
+**Author:** NyrikX(足立区陣ICFS系) (h3000370)
 
 <p>塾の友達から教わった方法</p><p>chromebookの場合、リフレッシュキー(再読み込みキー)と電源ボタンを同時に押します。</p><p>タブレットの場合、音量大ボタンと電源ボタンを同時に10秒以上押します。</p><p>これを強制再起動といいます。その後再起動されるのでログインします。ログイン後、自動的にnewタブ画面に入り、少し読み込み中されてると思います、起動して画面入ってから1~3秒後にリフレシュキー(再読み込みキー)と電源ボタンを同時に押します。これを合計2回行います。最後に起動して入るために強制再起動で切ってログインするのを合計2回、追加に1回ログインです。そしたらいけるはずです。(無効方法)</p><p><a rel="noopener noreferrer nofollow" href="https://note.com/nanasi_san/n/nf7c8f6b3dc3a">できなくても安心してください</a></p><p><a rel="noopener noreferrer nofollow" href="https://note.com/nanasi_san/n/nf7c8f6b3dc3a">https://note.com/nanasi_san/n/nf7c8f6b3dc3a</a></p>
 
-#### コメント (5)
-- **NyrikX(足立区陣ICFS系)** (04/04 18:49): 私は毎回一発でできてます
-- **10式** (04/10 06:51): 毎…回…？
-- **10式** (04/10 06:51): ドユコト？
-- **NyrikX(足立区陣ICFS系)** (04/10 07:25): この通りにやるといつでもどこでも100%成功するっていうこと。僕はね？！
-- **便器** (05/15 00:51): ありがとうございます・・・
+#### Comments (5)
+- **NyrikX(足立区陣ICFS系)** (Apr 04, 2026 06:49pm): 私は毎回一発でできてます
+- **10式** (Apr 10, 2026 06:51am): 毎…回…？
+- **10式** (Apr 10, 2026 06:51am): ドユコト？
+- **NyrikX(足立区陣ICFS系)** (Apr 10, 2026 07:25am): この通りにやるといつでもどこでも100%成功するっていうこと。僕はね？！
+- **便器** (May 15, 2026 12:51am): ありがとうございます・・・
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/04 18:48
-- **更新日（UTC）:** 04/04 18:48
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 04, 2026 06:48pm
+- **Updated At (UTC):** Apr 04, 2026 06:48pm
 
 ---
 
 ### 4. タブを開きまくって確実にICFSブロック解除しよう
-**作成者:** NyrikX(足立区陣ICFS系) (h3000370)
+**Author:** NyrikX(足立区陣ICFS系) (h3000370)
 
 <p>塾の友達から教わった方法</p><p>操作時間は3分から長くて10分です。今はコツを掴んだので100発中100回です。できると証明する動画でもあります。動画の最後の方を見れば分かる通り、成功したら上にある表示中の拡張機能の中でICFSが自動的に消去されていますが、いつもそうなるとは限りません。一番注意してほしいことは、制限以降の時間帯にやると、3~5回繰り返す必要がある可能性が少しあること。</p><p>1:タブを開きまくると、上のタブバーにあとから追加したタブが表示できなくなるので、そこまで画面のnewタブの+を押す。具体的に言うと、通常は30~40秒間連打し、制限の時間帯以降では15~25秒連打する。</p><p>2:そしたら、タブを追加すると自動的に上のURLバーが文字の入力の準備が整うので、画面が固まっていても好きなタイミングで、そのまま入りたいURLをぶち込んで3分程度待てば行ける。もちろんそのまま待って固まっている画面がなおってからやってもいい。また、画面が固まっている時間が長すぎてクラッシュしてページがリセットされることがありますが、もう数回やればできます。</p><p>そして、何よりも設定読み込み中が長すぎてだめだったら、すぐにリフレッシュキー(更新キー)と電源を一回同時に押してログインすると、上の表示中拡張機能バーにはICFSはありますが、実際にはブロック解除できています。私は以前この電源を一回切って入る方法を強制再起動のハードウェアのリセットとしてできたと思います。</p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/ef8c8e2c322f1bcbdfeb63e7e5aad5ef/720p_ICFS_______online_video_cutter_com_.mp4?Expires=1780487712&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Ipbi8XC0daewU7Bu8E4IcWRjCZwMSWWQxJe77ELZGJY8O3jg1FQlse4FUzASrWN0gKn4xuYEOcy7c%2BT3NG%2F3PyjdBd0Vg150zxzlkKYHWPO9rGO5%2BL4e2LvF0WfW4t2yJ%2BSksXPoTEtR3iziADkBe9tQVQRPlUZYQ%2BKqu%2FAhDJs%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2Fef8c8e2c322f1bcbdfeb63e7e5aad5ef%2F720p_ICFS_______online_video_cutter_com_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/ef8c8e2c322f1bcbdfeb63e7e5aad5ef/720p_ICFS_______online_video_cutter_com_.mp4?Expires=1780502917&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=6VRXjw0TW79ATb4i0vQx0%2BzBDj52eiIDEb20YbXmXNdhmrdc0BgeoO6A1pE2Lzu2EukZyxSG2kGJA8dhbmrqLJX7BVcj5NLo%2B5ldHc4YZU%2FQuD5PJOGTkbYvSiaB0Y1Kdawk886O53k2xQOTCwQvdMPkBYQvxom8oFAKs8BNPX4%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2Fef8c8e2c322f1bcbdfeb63e7e5aad5ef%2F720p_ICFS_______online_video_cutter_com_.mp4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/04 18:48
-- **更新日（UTC）:** 04/04 18:48
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 04, 2026 06:48pm
+- **Updated At (UTC):** Apr 04, 2026 06:48pm
 
 ---
 
 ## サイト作ってる人たち
 
 ### 1. 誰か教えてーーー
-**作成者:** Kick (daikisabu1225)
+**Author:** Kick (daikisabu1225)
 
 <p><br></p><p>えーっと有識者求むんですけどまず僕はプロキシを作りました、でそのサイトは，どう頑張ってもYouTubeを見ようとするとオフラインと言われて検索や視聴ができません使ってるツールは、gitとverselです。できたら増殖版を皆さんに渡すつもりです、なのでわかる人いましたらオフライン状態の回避方を教えてください。</p><p><br></p><p><br></p>
 
-#### コメント (4)
-- **Kick** (01/31 15:29): 他の機能は完璧と言っても差し支えないですあとYouTubeのオフラインを突破するだけなんです。協力お願いします多分ですがYouTubeのJSによる Service Worker か ytcfgのオフライン判定 が抜けられていない状況です多分大丈夫ですけどアイフィルターでブロックされちゃう方法とか犯罪系は，やめてね
-- **仙人@suger** (02/26 07:09): Cookie.textとか追加してみたらどうかなYouTubeだけだったら
-- **からぴち　どぬ推し** (04/25 05:51): わかめチューブで良くない？　まちがってたらごめん
-- **ㅤ@krtk🔰** (05/21 07:39): 　
+#### Comments (4)
+- **Kick** (Jan 31, 2026 03:29pm): 他の機能は完璧と言っても差し支えないですあとYouTubeのオフラインを突破するだけなんです。協力お願いします多分ですがYouTubeのJSによる Service Worker か ytcfgのオフライン判定 が抜けられていない状況です多分大丈夫ですけどアイフィルターでブロックされちゃう方法とか犯罪系は，やめてね
+- **仙人@suger** (Feb 26, 2026 07:09am): Cookie.textとか追加してみたらどうかなYouTubeだけだったら
+- **からぴち　どぬ推し** (Apr 25, 2026 05:51am): わかめチューブで良くない？　まちがってたらごめん
+- **ㅤ@krtk🔰** (May 21, 2026 07:39am): 　
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ブルー
-- **作成日（UTC）:** 01/31 15:28
-- **更新日（UTC）:** 02/02 15:34
+#### Additional Information
+- **Post color:** Blue
+- **Created At (UTC):** Jan 31, 2026 03:28pm
+- **Updated At (UTC):** Feb 02, 2026 03:34pm
 
 ---
 
 ### 2. やあ
-**作成者:** おけてぃー (s211289)
+**Author:** おけてぃー (s211289)
 
 <p>昔ﾂｸｯﾀチャットサイトが2つくらい埋もれてました</p><p>最近ﾂｸｯﾀやつと合わせて3つあるんですけど、昔作った方はもう使ってないので公開した方がいいんですかね、、？</p>
 
-#### コメント (1)
-- **そうさうれしいいんだ生きる喜び** (04/22 04:31): いいと思います
+#### Comments (1)
+- **そうさうれしいいんだ生きる喜び** (Apr 22, 2026 04:31am): いいと思います
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/03 10:04
-- **更新日（UTC）:** 04/03 10:04
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 03, 2026 10:04am
+- **Updated At (UTC):** Apr 03, 2026 10:04am
 
 ---
 
 ### 3. 一回作ったことあるけど消しちゃった
-**作成者:** チンされたチキン‼（チンチキって呼んでね） (chinchiki)
+**Author:** チンされたチキン‼（チンチキって呼んでね） (chinchiki)
 
-#### コメント (2)
-- **陽著辺子** (06/05 02:57): あら
-- **削除済みユーザー** (12/18 00:19): みてみたかったーー
+#### Comments (2)
+- **陽著辺子** (Jun 05, 2025 02:57am): あら
+- **削除済みユーザー** (Dec 18, 2025 12:19am): みてみたかったーー
 
-#### リアクション
-- **絵文字:** ❤️ (3)
+#### Reactions
+- **Emojis:** ❤️ (3)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/05 02:10
-- **更新日（UTC）:** 06/05 02:10
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 05, 2025 02:10am
+- **Updated At (UTC):** Jun 05, 2025 02:10am
 
 ---
 
 ### 4. 1回あるぜブロー
-**作成者:** 猫神様 (juujutu)
+**Author:** 猫神様 (juujutu)
 
-#### コメント (1)
-- **あなたは髪の毛ありますか?** (02/09 02:33): え?
+#### Comments (1)
+- **あなたは髪の毛ありますか?** (Feb 09, 2026 02:33am): え?
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/07 09:26
-- **更新日（UTC）:** 06/18 01:29
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 07, 2025 09:26am
+- **Updated At (UTC):** Jun 18, 2025 01:29am
 
 ---
 
 ### 5. パクリ
-**作成者:** ゾン (zon1212134)
+**Author:** ゾン (zon1212134)
 
-#### コメント (3)
-- **猫神様** (06/08 00:09): ？
-- **猫神様** (06/08 00:09): パクったの？
-- **黙れくそばばあ** (03/08 22:49): パクリバグりマジ
+#### Comments (3)
+- **猫神様** (Jun 08, 2025 12:09am): ？
+- **猫神様** (Jun 08, 2025 12:09am): パクったの？
+- **黙れくそばばあ** (Mar 08, 2026 10:49pm): パクリバグりマジ
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/07 10:49
-- **更新日（UTC）:** 07/08 10:36
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 07, 2025 10:49am
+- **Updated At (UTC):** Jul 08, 2025 10:36am
 
 ---
 
 ### 6. 仙人tube改造していい？
-**作成者:** 削除済みユーザー
+**Author:** 削除済みユーザー
 
-#### コメント (3)
-- **削除済みユーザー** (12/18 00:20): 本人に聞いて
-- **仙人@suger** (12/23 22:17): いいよ、てかやってほしい
-- **あなたは髪の毛ありますか?** (02/09 02:32): 許可撮っていて偉い
+#### Comments (3)
+- **削除済みユーザー** (Dec 18, 2025 12:20am): 本人に聞いて
+- **仙人@suger** (Dec 23, 2025 10:17pm): いいよ、てかやってほしい
+- **あなたは髪の毛ありますか?** (Feb 09, 2026 02:32am): 許可撮っていて偉い
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/23 12:54
-- **更新日（UTC）:** 09/23 12:54
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Sep 23, 2025 12:54pm
+- **Updated At (UTC):** Sep 23, 2025 12:54pm
 
 ---
 
 ## ダウンローダー
 
-### 1. 投稿 1
-**作成者:** ウタカゼ
+### 1. Post 1
+**Author:** ウタカゼ
 
 <p>aiseo mp4て調べてみて</p>
 
-#### コメント (3)
-- **ウタカゼ** (05/12 12:58): できなかったら言ってやり方教える
-- **パトリック** (05/13 07:51): 規制されたっす
-- **ㅤ@krtk🔰** (05/21 07:38): 　
+#### Comments (3)
+- **ウタカゼ** (May 12, 2026 12:58pm): できなかったら言ってやり方教える
+- **パトリック** (May 13, 2026 07:51am): 規制されたっす
+- **ㅤ@krtk🔰** (May 21, 2026 07:38am): 　
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** パープル
-- **作成日（UTC）:** 05/12 12:57
-- **更新日（UTC）:** 05/12 12:57
+#### Additional Information
+- **Post color:** Purple
+- **Created At (UTC):** May 12, 2026 12:57pm
+- **Updated At (UTC):** May 12, 2026 12:57pm
 
 ---
 
 ### 2. ニコニコくれ
-**作成者:** カゼノワ
+**Author:** カゼノワ
 
-#### コメント (9)
-- **ハナニジ** (04/21 07:35): ＼(^o^)／😊
-- **10式** (04/23 03:36): まじでくれ\( ^ω^ )/
-- **Anonymous** (04/24 05:08): 😊😊😊😊😊、
-- **ふっじー** (05/02 22:40): ☺
-- **ふっじー** (05/02 22:40): ☺
-- **ねこかみ** (05/03 05:10): ☺
-- **Seismic0981** (05/07 08:34): あなたの願いを叶えましょう✰https://ja.amoyshare.com/niconico-video-downloader/二コのダウンローダーだよ
-- **＾＿＾** (05/12 08:08): 😆😆
-- **天才くん** (05/12 11:03): 😀😗
+#### Comments (9)
+- **ハナニジ** (Apr 21, 2026 07:35am): ＼(^o^)／😊
+- **10式** (Apr 23, 2026 03:36am): まじでくれ\( ^ω^ )/
+- **Anonymous** (Apr 24, 2026 05:08am): 😊😊😊😊😊、
+- **ふっじー** (May 02, 2026 10:40pm): ☺
+- **ふっじー** (May 02, 2026 10:40pm): ☺
+- **ねこかみ** (May 03, 2026 05:10am): ☺
+- **Seismic0981** (May 07, 2026 08:34am): あなたの願いを叶えましょう✰https://ja.amoyshare.com/niconico-video-downloader/二コのダウンローダーだよ
+- **＾＿＾** (May 12, 2026 08:08am): 😆😆
+- **天才くん** (May 12, 2026 11:03am): 😀😗
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/20 08:09
-- **更新日（UTC）:** 04/20 08:09
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 20, 2026 08:09am
+- **Updated At (UTC):** Apr 20, 2026 08:09am
 
 ---
 
 ### 3. 使えるかは知らん
-**作成者:** パトリック
+**Author:** パトリック
 
 <p>MP3でもMP4でもいける</p><p><a rel="noopener noreferrer nofollow" href="https://mp3juices.st/">https://mp3juices.st/</a></p>
 
-[添付ファイル 1](https://mp3juices.st/)
+[Attachment 1](https://mp3juices.st/)
 
-#### コメント (2)
-- **仙人@suger** (03/08 22:50): 🥹
-- **天才** (05/06 13:02): ぴえん
+#### Comments (2)
+- **仙人@suger** (Mar 08, 2026 10:50pm): 🥹
+- **天才** (May 06, 2026 01:02pm): ぴえん
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/02 10:30
-- **更新日（UTC）:** 03/02 10:30
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 02, 2026 10:30am
+- **Updated At (UTC):** Mar 02, 2026 10:30am
 
 ---
 
 ### 4. niconico行けるdownloaderありますか？
-**作成者:** 三角定規 (s19200050)
+**Author:** 三角定規 (s19200050)
 
-#### コメント (4)
-- **黙れくそばばあ** (02/25 01:53): ホンマにごめんなさい。わかりません
-- **aaabbbccc** (03/18 00:31): https://yyya-nico.com/vieweryoutubeもニコニコも行ける神サイトNocookie対応
-- **三角定規** (03/20 01:24): ナイス
-- **三角定規２号** (05/06 08:51): ブロされてしまった、、、
+#### Comments (4)
+- **黙れくそばばあ** (Feb 25, 2026 01:53am): ホンマにごめんなさい。わかりません
+- **aaabbbccc** (Mar 18, 2026 12:31am): https://yyya-nico.com/vieweryoutubeもニコニコも行ける神サイトNocookie対応
+- **三角定規** (Mar 20, 2026 01:24am): ナイス
+- **三角定規２号** (May 06, 2026 08:51am): ブロされてしまった、、、
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/23 04:46
-- **更新日（UTC）:** 02/23 04:46
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 23, 2026 04:46am
+- **Updated At (UTC):** Feb 23, 2026 04:46am
 
 ---
 
 ### 5. ダウンローダー
-**作成者:** 陽著辺子 (yangzhubianzi)
+**Author:** 陽著辺子 (yangzhubianzi)
 
-[添付ファイル 1](https://ja.amoyshare.com/free-online-video-finder/)
+[Attachment 1](https://ja.amoyshare.com/free-online-video-finder/)
 
-#### コメント (3)
-- **あなたは髪の毛ありますか?** (02/09 02:35): どーやってやるのかおしえてくだせ
-- **kai** (02/18 02:05): url貼り付けてできる？
-- **ノツキ** (04/22 00:15): https://kol.id/download-video/youtube
+#### Comments (5)
+- **あなたは髪の毛ありますか?** (Feb 09, 2026 02:35am): どーやってやるのかおしえてくだせ
+- **kai** (Feb 18, 2026 02:05am): url貼り付けてできる？
+- **ノツキ** (Apr 22, 2026 12:15am): https://kol.id/download-video/youtube
+- **INZ** (May 27, 2026 01:59pm): https://highreach.ai/tools/youtube-video-downloader
+- **INZ** (May 27, 2026 01:59pm): できるかためして
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/05 02:59
-- **更新日（UTC）:** 06/25 00:42
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 05, 2025 02:59am
+- **Updated At (UTC):** Jun 25, 2025 12:42am
 
 ---
 
 ### 6. ダウローダー
-**作成者:** 陽著辺子 (yangzhubianzi)
+**Author:** 陽著辺子 (yangzhubianzi)
 
-[添付ファイル 1](https://zeemo.ai/ja)
+[Attachment 1](https://zeemo.ai/ja)
 
-#### コメント (6)
-- **陽著辺子** (06/06 04:40): ブロ済ですが、いけましたか？
-- **はちもぐ** (06/06 05:08): いけた
-- **陽著辺子** (06/06 08:11): 情報共有ありがとう
-- **猫神様** (06/07 09:26): いけました
-- **削除済みユーザー** (12/18 00:18): あざす
-- **あなたは髪の毛ありますか?** (02/09 02:35): 行けへんわよ
+#### Comments (6)
+- **陽著辺子** (Jun 06, 2025 04:40am): ブロ済ですが、いけましたか？
+- **はちもぐ** (Jun 06, 2025 05:08am): いけた
+- **陽著辺子** (Jun 06, 2025 08:11am): 情報共有ありがとう
+- **猫神様** (Jun 07, 2025 09:26am): いけました
+- **削除済みユーザー** (Dec 18, 2025 12:18am): あざす
+- **あなたは髪の毛ありますか?** (Feb 09, 2026 02:35am): 行けへんわよ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/06 04:40
-- **更新日（UTC）:** 06/25 00:43
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 06, 2025 04:40am
+- **Updated At (UTC):** Jun 25, 2025 12:43am
 
 ---
 
-### 7. 投稿 7
-**作成者:** kaito (kaitoyokoyama2011)
+### 7. Post 7
+**Author:** kaito (kaitoyokoyama2011)
 
-[添付ファイル 1](https://turboscribe.ai/ja/downloader/2025-01-01/youtube/video)
+[Attachment 1](https://turboscribe.ai/ja/downloader/2025-01-01/youtube/video)
 
-#### コメント (3)
-- **仙人@suger** (07/29 01:07): ありがとうございます
-- **Benevolent Quokka** (01/11 23:49): 役立った
-- **これだからゲームはやめらんねーよ** (03/18 06:33): 開けねーｗ
+#### Comments (3)
+- **仙人@suger** (Jul 29, 2025 01:07am): ありがとうございます
+- **Benevolent Quokka** (Jan 11, 2026 11:49pm): 役立った
+- **これだからゲームはやめらんねーよ** (Mar 18, 2026 06:33am): 開けねーｗ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/16 12:22
-- **更新日（UTC）:** 07/29 01:07
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 16, 2025 12:22pm
+- **Updated At (UTC):** Jul 29, 2025 01:07am
 
 ---
 
 ### 8. youtube downloader
-**作成者:** 削除済みユーザー
+**Author:** 削除済みユーザー
 
-[添付ファイル 1](https://turboscribe.ai/uk/downloader/youtube/video)
+[Attachment 1](https://turboscribe.ai/uk/downloader/youtube/video)
 
-#### コメント (1)
-- **ウェーーーーーーイ** (12/23 08:46): https://aquapp.net/youtube-downloader/　URLを入れ、🔍←を押す 
+#### Comments (1)
+- **ウェーーーーーーイ** (Dec 23, 2025 08:46am): https://aquapp.net/youtube-downloader/　URLを入れ、🔍←を押す 
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 11/10 11:05
-- **更新日（UTC）:** 11/10 11:05
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Nov 10, 2025 11:05am
+- **Updated At (UTC):** Nov 10, 2025 11:05am
 
 ---
 
 ### 9. 多めに供養
-**作成者:** 削除済みユーザー (sakujosaretenaiyo)
+**Author:** 削除済みユーザー (sakujosaretenaiyo)
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.freemake.com/jp/how_to/free_video_to_mp3_converter">https://www.freemake.com/jp/how_to/free_video_to_mp3_converter</a></p><p><a rel="noopener noreferrer nofollow" href="https://publer.com/tools/photo-video-downloader">https://publer.com/tools/photo-video-downloader</a></p><p><a rel="noopener noreferrer nofollow" href="https://ja.amoyshare.com/free-online-video-finder/">https://ja.amoyshare.com/free-online-video-finder/</a></p><p>広告だるい↷</p><p><a rel="noopener noreferrer nofollow" href="https://ja.amoyshare.com/free-youtube-downloader/">https://ja.amoyshare.com/free-youtube-downloader/</a></p><p>因みにICFSね</p>
 
-#### コメント (2)
-- **黙れくそばばあ** (02/25 01:54): ohmy漢字間違っ投与
-- **NyrikX(足立区陣ICFS系)** (03/30 04:10): ICFSだけど最後のダウンローダーでダウンロードできない
+#### Comments (2)
+- **黙れくそばばあ** (Feb 25, 2026 01:54am): ohmy漢字間違っ投与
+- **NyrikX(足立区陣ICFS系)** (Mar 30, 2026 04:10am): ICFSだけど最後のダウンローダーでダウンロードできない
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/14 12:20
-- **更新日（UTC）:** 01/14 12:20
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 14, 2026 12:20pm
+- **Updated At (UTC):** Jan 14, 2026 12:20pm
 
 ---
 
 ## フォトナ
 
 ### 1. 詳しいことは
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/renxian993/padlet-bnswjvqfpj50t3lp">https://padlet.com/renxian993/padlet-bnswjvqfpj50t3lp</a></p><p>ここでよろしく</p>
 
-#### コメント (4)
-- **shadoreku** (02/11 02:17): おっけ
-- **ㅤ@krtk🔰** (05/21 07:38): 　
-- **葵** (05/23 10:16): フォトナしたいいい…さんが結構フォトナ好きだよ！
-- **葵** (05/23 10:16): アカウントの通り
+#### Comments (4)
+- **shadoreku** (Feb 11, 2026 02:17am): おっけ
+- **ㅤ@krtk🔰** (May 21, 2026 07:38am): 　
+- **葵** (May 23, 2026 10:16am): フォトナしたいいい…さんが結構フォトナ好きだよ！
+- **葵** (May 23, 2026 10:16am): アカウントの通り
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 01/31 09:53
-- **更新日（UTC）:** 01/31 09:53
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Jan 31, 2026 09:53am
+- **Updated At (UTC):** Jan 31, 2026 09:53am
 
 ---
 
 ### 2. 誰か〜〜
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>フォトナの話しよう!</p>
 
-#### コメント (10)
-- **Careful Gecko** (01/14 08:45): ブレインロット多すぎ
-- **仙人@suger** (01/14 09:03): それな僕はもう引退したよ
-- **Compassionate Hamster** (01/16 05:03): セックスセックス 
-- **Thoughtful Crocodile** (01/16 05:05): セックス・ピストルズのまちがいやから勘違いせんといてな
-- **仙人@suger** (01/20 07:07): そうだと信じよう
-- **☆はるるん！☆** (02/05 07:00): 誰か強いやつください
-- **谷内ですーー** (04/20 12:08): ドラゴン欲しい
-- **からぴち　どぬ推し** (05/08 23:46): だれかやろ
-- **みくっち** (05/20 03:09): 死ぬ〜笑
-- **みくっち** (05/20 03:17): 😼
+#### Comments (10)
+- **Careful Gecko** (Jan 14, 2026 08:45am): ブレインロット多すぎ
+- **仙人@suger** (Jan 14, 2026 09:03am): それな僕はもう引退したよ
+- **Compassionate Hamster** (Jan 16, 2026 05:03am): セックスセックス 
+- **Thoughtful Crocodile** (Jan 16, 2026 05:05am): セックス・ピストルズのまちがいやから勘違いせんといてな
+- **仙人@suger** (Jan 20, 2026 07:07am): そうだと信じよう
+- **☆はるるん！☆** (Feb 05, 2026 07:00am): 誰か強いやつください
+- **谷内ですーー** (Apr 20, 2026 12:08pm): ドラゴン欲しい
+- **からぴち　どぬ推し** (May 08, 2026 11:46pm): だれかやろ
+- **みくっち** (May 20, 2026 03:09am): 死ぬ〜笑
+- **みくっち** (May 20, 2026 03:17am): 😼
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 12/23 22:17
-- **更新日（UTC）:** 01/28 10:26
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** Dec 23, 2025 10:17pm
+- **Updated At (UTC):** Jan 28, 2026 10:26am
 
 ---
 
 ### 3. チェリーの音楽もながして音楽サイトおしえて音楽だけきける
-**作成者:** ウシオ
+**Author:** ウシオ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/01 11:13
-- **更新日（UTC）:** 05/01 11:13
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 01, 2026 11:13am
+- **Updated At (UTC):** May 01, 2026 11:13am
 
 ---
 
 ### 4. あいうえお
-**作成者:** Hopeful Jackrabbit
+**Author:** Hopeful Jackrabbit
 
 ![鳩が暴れてる](https://genai-public.padletcdn.com/disco/prod/imagen/1770355949016/sample_0.png)
 
-#### コメント (4)
-- **kira** (03/11 11:21): 平和の象徴らしいね
-- **ゆきねこちゃんねるだよ** (03/18 19:54): [添付ファイル](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/zV61Q6XK8DVbWO98) 
-- **どこかの誰かさん** (04/09 07:52): [添付ファイル](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/zV61Q6XK8DVbWO98) 
-- **どこかの誰かさん** (04/09 08:01): [添付ファイル](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/zV61Q6XK8DVbWO98) 
+#### Comments (4)
+- **kira** (Mar 11, 2026 11:21am): 平和の象徴らしいね
+- **ゆきねこちゃんねるだよ** (Mar 18, 2026 07:54pm): [Attachment](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/zV61Q6XK8DVbWO98) 
+- **どこかの誰かさん** (Apr 09, 2026 07:52am): [Attachment](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/zV61Q6XK8DVbWO98) 
+- **どこかの誰かさん** (Apr 09, 2026 08:01am): [Attachment](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/zV61Q6XK8DVbWO98) 
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/06 05:32
-- **更新日（UTC）:** 02/06 05:32
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 06, 2026 05:32am
+- **Updated At (UTC):** Feb 06, 2026 05:32am
 
 ---
 
-### 5. 投稿 5
-**作成者:** Peaceful Beluga
+### 5. Post 5
+**Author:** Peaceful Beluga
 
 <p>いいです</p><p>フォトナ遊んでるんで</p><p><br></p>
 
-#### コメント (19)
-- **仙人@suger** (01/10 00:11): 主に何やってる?
-- **Responsible Spider** (01/12 06:45): ブレインロッドめっちゃおもろい
-- **仙人@suger** (01/12 10:58): 僕は最近間違って公開マッチ入っちゃってチョコレートきんぎーに盗まれてガチ萎えした
-- **仙人@suger** (01/12 10:58): あの日かなしすぎてボックスで敵を倒してストレス発散してたな
-- **削除済みユーザー** (01/13 22:25): それは災難でしたね
-- **Anonymous** (01/14 22:24): 誰かブレインロット交換しない？ 
-- **匿名** (01/27 04:13): いいよ
-- **野獣先輩** (01/27 04:17): いいよ
-- **仙人@suger** (02/23 03:23): 最近の管理者しょぼい
-- **三角定規** (02/23 08:56): 次の管理者ラブイベじゃないから期待
-- **ゆきねこちゃんねるだよ** (03/18 19:54): [添付ファイル](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/J24jalr4mNE1Z0A1) 
-- **67** (05/08 15:07): スキビティ出た
-- **あつし** (05/15 06:34): 嘘つかないほうがいいよ
-- **あつし** (05/15 06:35): しょうもない
-- **あつし** (05/15 06:36): すごっとか言われたいんw
-- **あつし** (05/15 06:36): だっっさw
-- **旧世界男** (05/15 15:11): 通常蜘蛛詐欺られて
-- **旧世界男** (05/15 15:11): 引退😭😭😭
-- **旧世界男** (05/15 15:11): 😭
+#### Comments (19)
+- **仙人@suger** (Jan 10, 2026 12:11am): 主に何やってる?
+- **Responsible Spider** (Jan 12, 2026 06:45am): ブレインロッドめっちゃおもろい
+- **仙人@suger** (Jan 12, 2026 10:58am): 僕は最近間違って公開マッチ入っちゃってチョコレートきんぎーに盗まれてガチ萎えした
+- **仙人@suger** (Jan 12, 2026 10:58am): あの日かなしすぎてボックスで敵を倒してストレス発散してたな
+- **削除済みユーザー** (Jan 13, 2026 10:25pm): それは災難でしたね
+- **Anonymous** (Jan 14, 2026 10:24pm): 誰かブレインロット交換しない？ 
+- **匿名** (Jan 27, 2026 04:13am): いいよ
+- **野獣先輩** (Jan 27, 2026 04:17am): いいよ
+- **仙人@suger** (Feb 23, 2026 03:23am): 最近の管理者しょぼい
+- **三角定規** (Feb 23, 2026 08:56am): 次の管理者ラブイベじゃないから期待
+- **ゆきねこちゃんねるだよ** (Mar 18, 2026 07:54pm): [Attachment](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/J24jalr4mNE1Z0A1) 
+- **67** (May 08, 2026 03:07pm): スキビティ出た
+- **あつし** (May 15, 2026 06:34am): 嘘つかないほうがいいよ
+- **あつし** (May 15, 2026 06:35am): しょうもない
+- **あつし** (May 15, 2026 06:36am): すごっとか言われたいんw
+- **あつし** (May 15, 2026 06:36am): だっっさw
+- **旧世界男** (May 15, 2026 03:11pm): 通常蜘蛛詐欺られて
+- **旧世界男** (May 15, 2026 03:11pm): 引退😭😭😭
+- **旧世界男** (May 15, 2026 03:11pm): 😭
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/08 00:36
-- **更新日（UTC）:** 01/08 06:54
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 08, 2026 12:36am
+- **Updated At (UTC):** Jan 08, 2026 06:54am
 
 ---
 
 ### 6. え
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>久しぶりにフォトナ今やってたらお詫びの品もらった</p>
 
-#### コメント (1)
-- **どこかの誰かさん** (04/09 09:31): いいなー僕フォトナ持ってない
+#### Comments (1)
+- **どこかの誰かさん** (Apr 09, 2026 09:31am): いいなー僕フォトナ持ってない
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/15 00:58
-- **更新日（UTC）:** 01/15 00:58
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 15, 2026 12:58am
+- **Updated At (UTC):** Jan 15, 2026 12:58am
 
 ---
 
 ### 7. id masa_man0418
-**作成者:** 削除済みユーザー
+**Author:** 削除済みユーザー
 
 <p>あｒしはやめてね</p>
 
-#### コメント (1)
-- **仙人@suger** (01/20 07:07): 何やってるの?
+#### Comments (1)
+- **仙人@suger** (Jan 20, 2026 07:07am): 何やってるの?
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/20 03:10
-- **更新日（UTC）:** 01/20 03:10
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 20, 2026 03:10am
+- **Updated At (UTC):** Jan 20, 2026 03:10am
 
 ---
 
 ## 質問セクション
 
 ### 1. 教えて
-**作成者:** パトリック
+**Author:** パトリック
 
 <p>このサイトのパスワードって何ですか</p>
 
-[添付ファイル 1](https://wkt-c6vy.onrender.com/login)
+[Attachment 1](https://wkt-c6vy.onrender.com/login)
 
-#### コメント (3)
-- **ふっじー（犬系）** (05/17 01:44): 俺はわからん
-- **カービィ** (05/17 23:49): wakame
-- **ㅤ@krtk🔰** (05/21 07:38): 　
+#### Comments (3)
+- **ふっじー（犬系）** (May 17, 2026 01:44am): 俺はわからん
+- **カービィ** (May 17, 2026 11:49pm): wakame
+- **ㅤ@krtk🔰** (May 21, 2026 07:38am): 　
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/17 01:34
-- **更新日（UTC）:** 05/17 01:34
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 17, 2026 01:34am
+- **Updated At (UTC):** May 17, 2026 01:34am
 
 ---
 
 ### 2. 仙人さんに質問です
-**作成者:** 怪盗ルパン三十八世 (proxygameyoutube)
+**Author:** 怪盗ルパン三十八世 (proxygameyoutube)
 
 <p>かつおtubeみたいなリンクの作り方を動画で教えてもらえませんか。良ければ以下の部屋にきて送信フォームで投稿してください。</p><p>リンク先↓</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/proxygameyoutube/breakout-room/eo1R47bkjmMxvZDL-o4ZnXBQlDMEyzNda">https://padlet.com/proxygameyoutube/breakout-room/eo1R47bkjmMxvZDL-o4ZnXBQlDMEyzNda</a></p>
 
-#### コメント (4)
-- **仙人@suger** (05/10 21:55): やったよ
-- **怪盗ルパン三十八世** (05/10 23:04): ありがとうございます
-- **怪盗ルパン三十八世** (05/10 23:04): 作り方広めます
-- **仙人@suger** (05/11 07:24): ありがとう😆💕✨
+#### Comments (4)
+- **仙人@suger** (May 10, 2026 09:55pm): やったよ
+- **怪盗ルパン三十八世** (May 10, 2026 11:04pm): ありがとうございます
+- **怪盗ルパン三十八世** (May 10, 2026 11:04pm): 作り方広めます
+- **仙人@suger** (May 11, 2026 07:24am): ありがとう😆💕✨
 
-#### その他の情報
-- **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/06 10:20
-- **更新日（UTC）:** 05/06 10:20
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** May 06, 2026 10:20am
+- **Updated At (UTC):** May 06, 2026 10:20am
 
 ---
 
 ### 3. 承認待ちってなんですか？
-**作成者:** 三角定規２号 (s29260078)
+**Author:** 三角定規２号 (s29260078)
 
-#### コメント (2)
-- **推しさん** (05/08 02:04): たまになる
-- **仙人@suger** (05/10 21:47): 不適切だとaiに判断されたときに管理者からの承認がないといけない投稿
+#### Comments (2)
+- **推しさん** (May 08, 2026 02:04am): たまになる
+- **仙人@suger** (May 10, 2026 09:47pm): 不適切だとaiに判断されたときに管理者からの承認がないといけない投稿
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/06 09:55
-- **更新日（UTC）:** 05/06 09:55
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 06, 2026 09:55am
+- **Updated At (UTC):** May 06, 2026 09:55am
 
 ---
 
 ### 4. かつおtubeみたいなリンクの作り方ってあるんですか？
-**作成者:** 怪盗ルパン三十八世 (proxygameyoutube)
+**Author:** 怪盗ルパン三十八世 (proxygameyoutube)
 
-#### コメント (2)
-- **仙人@suger** (05/05 01:52): Renderを使おう
-- **怪盗ルパン三十八世** (05/05 12:58): 動画で教えてください。
+#### Comments (2)
+- **仙人@suger** (May 05, 2026 01:52am): Renderを使おう
+- **怪盗ルパン三十八世** (May 05, 2026 12:58pm): 動画で教えてください。
 
-#### その他の情報
-- **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/05 01:21
-- **更新日（UTC）:** 05/05 01:22
+#### Additional Information
+- **Post color:** Red
+- **Created At (UTC):** May 05, 2026 01:21am
+- **Updated At (UTC):** May 05, 2026 01:22am
 
 ---
 
 ### 5. タスケテー
-**作成者:** あじのり (aj_fl_13)
+**Author:** あじのり (aj_fl_13)
 
 <p>高校に上がって規制つよくなった</p><p>i-FILTERだったのに</p><p><a rel="noopener noreferrer nofollow" href="http://isgcblock.iss.netstar-inc.com">isgcblock.iss.netstar-inc.com</a></p><p>っていう真っ白いのに飛ばされるへんなやつになっちまった</p><p>突破したい、、</p><p>誰か教えて</p><p><br/></p><p>scratchとかもひらけない</p>
 
-#### コメント (1)
-- **仙人@suger** (04/25 05:13): Isgc厳しいよね
+#### Comments (1)
+- **仙人@suger** (Apr 25, 2026 05:13am): Isgc厳しいよね
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/21 00:31
-- **更新日（UTC）:** 04/21 00:31
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 21, 2026 12:31am
+- **Updated At (UTC):** Apr 21, 2026 12:31am
 
 ---
 
 ### 6. XeroxYT-NTってもう更新しないのですか？
-**作成者:** NyrikX(足立区陣ICFS系) (h3000370)
+**Author:** NyrikX(足立区陣ICFS系) (h3000370)
 
-#### コメント (1)
-- **仙人@suger** (04/25 05:14): 活動休止って書いてなかったような気がする
+#### Comments (1)
+- **仙人@suger** (Apr 25, 2026 05:14am): 活動休止って書いてなかったような気がする
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/06 08:21
-- **更新日（UTC）:** 04/06 08:21
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 06, 2026 08:21am
+- **Updated At (UTC):** Apr 06, 2026 08:21am
 
 ---
 
 ### 7. サイトを公開するためのドメインってどう取得してますか？
-**作成者:** rui-1215 (rui1215)
+**Author:** rui-1215 (rui1215)
 
-#### コメント (8)
-- **仙人@suger** (04/03 00:53): Render でデプロイしてるから自分ではドメイン取得してないよドメイン欲しいなら買うしかないかも
-- **rui-1215** (04/03 01:06): githubよりRenderのほうがいいのかな
-- **仙人@suger** (04/03 01:45): Githabpagesだとstaticdeployしかできないからyoutubesite やproxyとかには向かないとおもう
-- **rui-1215** (04/03 01:51): Renderってお金かかりませんでしたっけ
-- **仙人@suger** (04/03 01:52): いや大丈夫だよFreeを選択すれば
-- **仙人@suger** (04/03 01:52): でもproxyとかデプロイするとすぐに垢BANされちゃうからcodesandbox.io もいいかも
-- **rui-1215** (04/03 01:58): 使い方ってあんまgithubと変わんない感じですか？
-- **仙人@suger** (04/03 09:49): Githabのリポジトリを選択してそして起動コマンドとか入れればok
+#### Comments (8)
+- **仙人@suger** (Apr 03, 2026 12:53am): Render でデプロイしてるから自分ではドメイン取得してないよドメイン欲しいなら買うしかないかも
+- **rui-1215** (Apr 03, 2026 01:06am): githubよりRenderのほうがいいのかな
+- **仙人@suger** (Apr 03, 2026 01:45am): Githabpagesだとstaticdeployしかできないからyoutubesite やproxyとかには向かないとおもう
+- **rui-1215** (Apr 03, 2026 01:51am): Renderってお金かかりませんでしたっけ
+- **仙人@suger** (Apr 03, 2026 01:52am): いや大丈夫だよFreeを選択すれば
+- **仙人@suger** (Apr 03, 2026 01:52am): でもproxyとかデプロイするとすぐに垢BANされちゃうからcodesandbox.io もいいかも
+- **rui-1215** (Apr 03, 2026 01:58am): 使い方ってあんまgithubと変わんない感じですか？
+- **仙人@suger** (Apr 03, 2026 09:49am): Githabのリポジトリを選択してそして起動コマンドとか入れればok
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/03 00:39
-- **更新日（UTC）:** 04/03 00:39
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 03, 2026 12:39am
+- **Updated At (UTC):** Apr 03, 2026 12:39am
 
 ---
 
 ### 8. だめかな？
-**作成者:** Iフィルターまぢうっっざい
+**Author:** Iフィルターまぢうっっざい
 
 <p>この前学校のパソコンを初期化してやろうとしていたら（急に自分どうしたん）知人に管理者側にバレてオワルヨと言われて結局初期化していないんですが、初期化したら困ったりばれたりしますか？</p><p><br/></p>
 
 ![ハッカー](https://cdn.pixabay.com/photo/2024/07/07/06/53/hacker-8878482_1280.png)
 
-#### コメント (6)
-- **仙人@suger** (04/02 12:29): バレるかわからんけど学校のwifi繋がんなくなるよ
-- **もち** (04/03 09:49): そうそう結局先生に言うハメになるよ
-- **NyrikX(足立区陣ICFS系)** (04/04 18:30): 初期化しても学校のwifi自動で繋がる仕組みに私はなってる
-- **Iフィルターまじうざい** (04/07 01:37): やめときます。
-- **Seismic0981** (05/08 08:45): でもな？
-- **Seismic0981** (05/08 08:46): 自分のネット使って(家のとか)それで自分のアカウントログインしたら大丈夫やで。
+#### Comments (6)
+- **仙人@suger** (Apr 02, 2026 12:29pm): バレるかわからんけど学校のwifi繋がんなくなるよ
+- **もち** (Apr 03, 2026 09:49am): そうそう結局先生に言うハメになるよ
+- **NyrikX(足立区陣ICFS系)** (Apr 04, 2026 06:30pm): 初期化しても学校のwifi自動で繋がる仕組みに私はなってる
+- **Iフィルターまじうざい** (Apr 07, 2026 01:37am): やめときます。
+- **Seismic0981** (May 08, 2026 08:45am): でもな？
+- **Seismic0981** (May 08, 2026 08:46am): 自分のネット使って(家のとか)それで自分のアカウントログインしたら大丈夫やで。
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/02 11:17
-- **更新日（UTC）:** 04/02 11:19
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 02, 2026 11:17am
+- **Updated At (UTC):** Apr 02, 2026 11:19am
 
 ---
 
 ### 9. まじ助けて
-**作成者:** Iフィルターまじうざい
+**Author:** Iフィルターまじうざい
 
 <p>長文失礼します。</p><p>うちの学校のパソコンの規制フィルター</p><p>「Iフィルター」ってやつなんですけど、本当に規制が強くって、しあtubeを見るためのカスタムエンドポイントも作れませんし、googleゲームですら規制されます。なにか色々やれるような対策とか絶対見れるyoutubeサイトありますか？</p><p><br/></p>
 
 ![土下座　イラスト](https://media.tenor.com/6GGFJO-hmiEAAAAj/%E5%9C%9F%E4%B8%8B%E5%BA%A7-%E3%81%8A%E8%A8%B1%E3%81%97%E3%82%92.gif)
 
-#### コメント (9)
-- **rui-1215** (04/01 09:24): Wista - Video Streaming これで見れるかな？
-- **67676767** (04/01 15:47): パスワードなんですか
-- **仙人@suger** (04/02 02:39): Wista-pass
-- **Iフィルターまじうざい** (04/02 10:34): そのパスワードを打ってもまちがてますって（🥺）
-- **Iフィルターまじうざい** (04/02 10:36): サイト自体には入れました！
-- **6767676767** (04/02 13:32): パスワードが違うらしいです
-- **仙人@suger** (04/03 01:53): wが大文字じゃなかった
-- **Iフィルターまじうざい** (04/07 01:33): ｗを小文字にしたら入れました！
-- **Iフィルターまじうざい** (04/07 01:36): でも規制理由「YouTube (Google) / YouTube 一般動画閲覧」で動画を見れませんでした
+#### Comments (9)
+- **rui-1215** (Apr 01, 2026 09:24am): Wista - Video Streaming これで見れるかな？
+- **67676767** (Apr 01, 2026 03:47pm): パスワードなんですか
+- **仙人@suger** (Apr 02, 2026 02:39am): Wista-pass
+- **Iフィルターまじうざい** (Apr 02, 2026 10:34am): そのパスワードを打ってもまちがてますって（🥺）
+- **Iフィルターまじうざい** (Apr 02, 2026 10:36am): サイト自体には入れました！
+- **6767676767** (Apr 02, 2026 01:32pm): パスワードが違うらしいです
+- **仙人@suger** (Apr 03, 2026 01:53am): wが大文字じゃなかった
+- **Iフィルターまじうざい** (Apr 07, 2026 01:33am): ｗを小文字にしたら入れました！
+- **Iフィルターまじうざい** (Apr 07, 2026 01:36am): でも規制理由「YouTube (Google) / YouTube 一般動画閲覧」で動画を見れませんでした
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/01 04:41
-- **更新日（UTC）:** 04/01 04:49
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 01, 2026 04:41am
+- **Updated At (UTC):** Apr 01, 2026 04:49am
 
 ---
 
-### 10. 投稿 10
-**作成者:** 匿名 (Tokukei_Kibou)
+### 10. Post 10
+**Author:** 匿名 (Tokukei_Kibou)
 
 <p>動画を見れるプロキシをください</p>
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/01 02:07
-- **更新日（UTC）:** 04/01 02:07
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 01, 2026 02:07am
+- **Updated At (UTC):** Apr 01, 2026 02:07am
 
 ---
 
 ### 11. ユーチューブ見たい
-**作成者:** はるくんマンちゃん！ (2125098_2)
+**Author:** はるくんマンちゃん！ (2125098_2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/24 12:30
-- **更新日（UTC）:** 03/24 12:30
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 24, 2026 12:30pm
+- **Updated At (UTC):** Mar 24, 2026 12:30pm
 
 ---
 
-### 12. 投稿 12
-**作成者:** Happy Chinchilla
+### 12. Post 12
+**Author:** Happy Chinchilla
 
 <p>Toka-Kunさんの部屋ってあります？</p><p>ブクマしてたんですけど開けなくなりました</p>
 
-#### コメント (4)
-- **仙人@suger** (03/09 12:39): それな　tokakun自体が削除されてる
-- **仙人@suger** (03/09 12:40): だから頑張ってこの部屋をtoka kunさんのへやにちかずけてる
-- **Happy Chinchilla** (03/09 12:58): その文脈だとTokakunがパド側に消されたんですか？
-- **匿名** (03/12 01:55): プロキシのリンクやYouTubeの閲覧方法を共有する会
+#### Comments (4)
+- **仙人@suger** (Mar 09, 2026 12:39pm): それな　tokakun自体が削除されてる
+- **仙人@suger** (Mar 09, 2026 12:40pm): だから頑張ってこの部屋をtoka kunさんのへやにちかずけてる
+- **Happy Chinchilla** (Mar 09, 2026 12:58pm): その文脈だとTokakunがパド側に消されたんですか？
+- **匿名** (Mar 12, 2026 01:55am): プロキシのリンクやYouTubeの閲覧方法を共有する会
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/09 12:10
-- **更新日（UTC）:** 03/09 12:10
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 09, 2026 12:10pm
+- **Updated At (UTC):** Mar 09, 2026 12:10pm
 
 ---
 
 ### 13. 詰んだ
-**作成者:** 匿名
+**Author:** 匿名
 
 <p>わかめとしあも全てつかえなくなってしまった</p><p>なにかない</p><p><br/></p>
 
-#### コメント (2)
-- **仙人@suger** (03/09 12:40): かつおtube使ってみて高速化したから
-- **NyrikX(足立区陣ICFS系)** (04/04 18:34): かつおtube全てぶろっくされてました...昔の一定の期間ほぼしあtubeしかブロックされてない状態でプロキシとかも全ブロで焦った
+#### Comments (2)
+- **仙人@suger** (Mar 09, 2026 12:40pm): かつおtube使ってみて高速化したから
+- **NyrikX(足立区陣ICFS系)** (Apr 04, 2026 06:34pm): かつおtube全てぶろっくされてました...昔の一定の期間ほぼしあtubeしかブロックされてない状態でプロキシとかも全ブロで焦った
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/09 04:05
-- **更新日（UTC）:** 03/09 04:05
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 09, 2026 04:05am
+- **Updated At (UTC):** Mar 09, 2026 04:05am
 
 ---
 
 ### 14. だれかヤンデックス日本語サイトやる方法教えてください
-**作成者:** itsukini1108
+**Author:** itsukini1108
 
-#### コメント (3)
-- **入れ子＿構造** (03/07 00:09): それ普通のゲームサイトですね。プロキシ使わない限り入れないと思います。
-- **仙人@suger** (03/09 12:41): yandex懐かしいなそれで動画見れるから友達が学校でよろしくない動画を見てた
-- **NyrikX(足立区陣ICFS系)** (04/04 18:35): 2024年度ICFSはまだその時yandexブロックされてませんでした！
+#### Comments (3)
+- **入れ子＿構造** (Mar 07, 2026 12:09am): それ普通のゲームサイトですね。プロキシ使わない限り入れないと思います。
+- **仙人@suger** (Mar 09, 2026 12:41pm): yandex懐かしいなそれで動画見れるから友達が学校でよろしくない動画を見てた
+- **NyrikX(足立区陣ICFS系)** (Apr 04, 2026 06:35pm): 2024年度ICFSはまだその時yandexブロックされてませんでした！
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/06 12:50
-- **更新日（UTC）:** 03/06 12:50
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 06, 2026 12:50pm
+- **Updated At (UTC):** Mar 06, 2026 12:50pm
 
 ---
 
 ### 15. 情報収集（無限に続ける）
-**作成者:** 入れ子＿構造 (ireko_kozo)
+**Author:** 入れ子＿構造 (ireko_kozo)
 
 **何のソフトで規制されてる？:**
-- **i-FILTER:** 53件の投票
-- **ISGC:** 20件の投票
-- **Cisco umbrella、ICFSなどもっと他のソフト:** 5件の投票
-- **年齢制限、保護者による制限系:** 6件の投票
+- **i-FILTER:** 53 votes
+- **ISGC:** 20 votes
+- **Cisco umbrella、ICFSなどもっと他のソフト:** 5 votes
+- **年齢制限、保護者による制限系:** 6 votes
 
 <p>投票再開</p>
 
-#### コメント (9)
-- **入れ子＿構造** (02/08 08:41): 集まってきたけどもうすぐ受験なので。( ˘ω˘)ｽﾔｧ
-- **Anonymous** (02/09 00:01): [添付ファイル](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/zV61Q6XKjJdjWO98) これは、、、？
-- **入れ子＿構造** (02/09 09:15): 英単語の頭文字を取ってISGCです。
-- **入れ子＿構造** (02/10 22:54): 自分もi-フィルターだからブロックの強度が違えど入れて使えるプロキシを提供しやすい。
-- **すずめ** (02/12 06:57): 僕はi-filterの進化系だと思うi-filter@cloudなんよね
-- **仙人@suger** (02/17 09:31): 僕が通ってた小学校も@cloudついてた
-- **おけてぃー** (03/06 08:28): 「
-- **NyrikX(足立区陣ICFS系)** (04/04 18:41): 一様ICFSもめちゃめちゃ強い。I-フィルが行けるサイトも場合によって使えることもあると思うけど年々対策されてきてるからな...ブロックされてないUS5がUS5の検索結果がブロックされてるし意味わからん。HypeStudy(PeteZah)も同じく
-- **Sleepy seal** (05/17 08:50): i-filter@cloud agent advanceです
+#### Comments (9)
+- **入れ子＿構造** (Feb 08, 2026 08:41am): 集まってきたけどもうすぐ受験なので。( ˘ω˘)ｽﾔｧ
+- **Anonymous** (Feb 09, 2026 12:01am): [Attachment](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/zV61Q6XKjJdjWO98) これは、、、？
+- **入れ子＿構造** (Feb 09, 2026 09:15am): 英単語の頭文字を取ってISGCです。
+- **入れ子＿構造** (Feb 10, 2026 10:54pm): 自分もi-フィルターだからブロックの強度が違えど入れて使えるプロキシを提供しやすい。
+- **すずめ** (Feb 12, 2026 06:57am): 僕はi-filterの進化系だと思うi-filter@cloudなんよね
+- **仙人@suger** (Feb 17, 2026 09:31am): 僕が通ってた小学校も@cloudついてた
+- **おけてぃー** (Mar 06, 2026 08:28am): 「
+- **NyrikX(足立区陣ICFS系)** (Apr 04, 2026 06:41pm): 一様ICFSもめちゃめちゃ強い。I-フィルが行けるサイトも場合によって使えることもあると思うけど年々対策されてきてるからな...ブロックされてないUS5がUS5の検索結果がブロックされてるし意味わからん。HypeStudy(PeteZah)も同じく
+- **Sleepy seal** (May 17, 2026 08:50am): i-filter@cloud agent advanceです
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/08 05:25
-- **更新日（UTC）:** 05/21 01:08
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 08, 2026 05:25am
+- **Updated At (UTC):** May 21, 2026 01:08am
 
 ---
 
 ### 16. やあ
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>質問あったら個人情報以外なら何でも答えるよ</p>
 
-#### コメント (30)
-- **削除済みユーザー** (01/02 10:29): 仙人さん学校のタブレットのブロック解除とかを教えてください
-- **Proxy最強** (01/05 02:36): フィルタリングがかからない検索無料サイトはありますでしょうか？もし持ってるのであればくださることって可能でしょうか？
-- **仙人@suger** (01/09 00:30): えみとーさんへの返信サイトだったらプロキシ(utopiaおすすめ)でYouTubeだったらわかめtubeとかかな？
-- **仙人@suger** (01/09 00:31): proxy最強さんへの返信大体使えないかブロックのせいで今は持ってないごめん
-- **Anonymous** (01/09 01:14): わかめTubeのサイトってありますか？
-- **仙人@suger** (01/09 09:58): https://wkt-3j9c.onrender.comこれなんかどうですか？😆
-- **はらぺこんぐ** (01/10 09:35): ラグくないyoutubeサイト教えてください
-- **Benevolent Quokka** (01/11 23:51): わかめチューブがいま使えないじょうたいだとは
-- **仙人@suger** (01/12 10:56): はらぺこングさんへまあ僕が軽いと思うのは仙人tubeだけどそれ以外だとyukitubeかな
-- **仙人@suger** (01/12 11:10): benevolentquokkaさんへ開発が終わったから多分education再生のパラメーターが更新されてないことだと思う
-- **削除済みユーザー** (01/13 06:48): 仙人さんありがとう
-- **Anonymous** (01/26 03:40): YouTubeサイトの作り方教えてください
-- **はらぺこんぐ** (01/26 11:36): scratchで宣伝してもいいですか？
-- **仙人@suger** (02/02 22:15): はらぺこんぐさんへいいですよ
-- **仙人@suger** (02/02 22:16): 匿名さんへGithabで僕は作ってるよPythonつかって作るならfastapiでやるといいよ
-- **ぶりぶり** (02/06 03:04): しあtubeというものが存在するのですけどそのリンクはありますか？
-- **仙人@suger** (02/08 08:05): ぼくはもってないな、、
-- **う** (02/08 11:13): ありましたhttps://script.google.com/a/macros/g.ueis.ed.jp/s/AKfycbwdGfO6GhqymSFL7HdBhQxjfv_qw80CTaEzloSaFriKvQaimyXRJZKdOv-I7bnjq_SUkw/exec
-- **うり** (02/09 13:47): Discordが見れるプロキシサイトなどあれば教えてほしいです🙇
-- **仙人@suger** (02/10 07:45): 試したことがないからわからないな😅まえdiscord でふぉとな配信者の鯖入ってたらにゃんこ大戦争のチート勧誘してくる人いたな
-- **Anonymous** (02/11 14:50): [添付ファイル](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/Ae2RavGnvJoDQnz4) これなるの僕だけですか？😭
-- **すずめ** (02/12 06:59): みんな なるけど、リロードすれば解決するはず
-- **仙人@suger** (02/15 08:34): Apiがタイムアウトしちゃってる別のリンク使うか待ってリロードしてね
-- **Anonymous** (02/27 06:04): iフィルターに引っかからない漫画サイトを教えて欲しいですプロキシ使ってみるのもいいので教えて欲しいです。
-- **hana** (03/03 23:38): 今、学校の都合でブロックされていてブロックされないユーチューブやゲームってありますか
-- **仙人@suger** (03/09 12:42): カツオtubeだな　げーむまあまああるよ
-- **大根** (03/14 08:34): 編集とかできるやつない？
-- **仙人@suger** (03/24 12:29): へんしゅうとは
-- **あかさたな** (03/29 07:33): わかめチューブのサイト貼ってください
-- **仙人@suger** (04/03 01:53): Tokakunのとこにいっぱいあるよ
+#### Comments (30)
+- **削除済みユーザー** (Jan 02, 2026 10:29am): 仙人さん学校のタブレットのブロック解除とかを教えてください
+- **Proxy最強** (Jan 05, 2026 02:36am): フィルタリングがかからない検索無料サイトはありますでしょうか？もし持ってるのであればくださることって可能でしょうか？
+- **仙人@suger** (Jan 09, 2026 12:30am): えみとーさんへの返信サイトだったらプロキシ(utopiaおすすめ)でYouTubeだったらわかめtubeとかかな？
+- **仙人@suger** (Jan 09, 2026 12:31am): proxy最強さんへの返信大体使えないかブロックのせいで今は持ってないごめん
+- **Anonymous** (Jan 09, 2026 01:14am): わかめTubeのサイトってありますか？
+- **仙人@suger** (Jan 09, 2026 09:58am): https://wkt-3j9c.onrender.comこれなんかどうですか？😆
+- **はらぺこんぐ** (Jan 10, 2026 09:35am): ラグくないyoutubeサイト教えてください
+- **Benevolent Quokka** (Jan 11, 2026 11:51pm): わかめチューブがいま使えないじょうたいだとは
+- **仙人@suger** (Jan 12, 2026 10:56am): はらぺこングさんへまあ僕が軽いと思うのは仙人tubeだけどそれ以外だとyukitubeかな
+- **仙人@suger** (Jan 12, 2026 11:10am): benevolentquokkaさんへ開発が終わったから多分education再生のパラメーターが更新されてないことだと思う
+- **削除済みユーザー** (Jan 13, 2026 06:48am): 仙人さんありがとう
+- **Anonymous** (Jan 26, 2026 03:40am): YouTubeサイトの作り方教えてください
+- **はらぺこんぐ** (Jan 26, 2026 11:36am): scratchで宣伝してもいいですか？
+- **仙人@suger** (Feb 02, 2026 10:15pm): はらぺこんぐさんへいいですよ
+- **仙人@suger** (Feb 02, 2026 10:16pm): 匿名さんへGithabで僕は作ってるよPythonつかって作るならfastapiでやるといいよ
+- **ぶりぶり** (Feb 06, 2026 03:04am): しあtubeというものが存在するのですけどそのリンクはありますか？
+- **仙人@suger** (Feb 08, 2026 08:05am): ぼくはもってないな、、
+- **う** (Feb 08, 2026 11:13am): ありましたhttps://script.google.com/a/macros/g.ueis.ed.jp/s/AKfycbwdGfO6GhqymSFL7HdBhQxjfv_qw80CTaEzloSaFriKvQaimyXRJZKdOv-I7bnjq_SUkw/exec
+- **うり** (Feb 09, 2026 01:47pm): Discordが見れるプロキシサイトなどあれば教えてほしいです🙇
+- **仙人@suger** (Feb 10, 2026 07:45am): 試したことがないからわからないな😅まえdiscord でふぉとな配信者の鯖入ってたらにゃんこ大戦争のチート勧誘してくる人いたな
+- **Anonymous** (Feb 11, 2026 02:50pm): [Attachment](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/Ae2RavGnvJoDQnz4) これなるの僕だけですか？😭
+- **すずめ** (Feb 12, 2026 06:59am): みんな なるけど、リロードすれば解決するはず
+- **仙人@suger** (Feb 15, 2026 08:34am): Apiがタイムアウトしちゃってる別のリンク使うか待ってリロードしてね
+- **Anonymous** (Feb 27, 2026 06:04am): iフィルターに引っかからない漫画サイトを教えて欲しいですプロキシ使ってみるのもいいので教えて欲しいです。
+- **hana** (Mar 03, 2026 11:38pm): 今、学校の都合でブロックされていてブロックされないユーチューブやゲームってありますか
+- **仙人@suger** (Mar 09, 2026 12:42pm): カツオtubeだな　げーむまあまああるよ
+- **大根** (Mar 14, 2026 08:34am): 編集とかできるやつない？
+- **仙人@suger** (Mar 24, 2026 12:29pm): へんしゅうとは
+- **あかさたな** (Mar 29, 2026 07:33am): わかめチューブのサイト貼ってください
+- **仙人@suger** (Apr 03, 2026 01:53am): Tokakunのとこにいっぱいあるよ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/24 06:38
-- **更新日（UTC）:** 01/12 11:07
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Dec 24, 2025 06:38am
+- **Updated At (UTC):** Jan 12, 2026 11:07am
 
 ---
 
 ## リンクの墓場
 
 ### 1. 誰かブロスタ教えて
-**作成者:** ソトカゼ
+**Author:** ソトカゼ
 
 <p>学校PCで出来るやつでお願いします</p><p><br/></p>
 
-[添付ファイル 1](https://top-medical-schools.org/)
+[Attachment 1](https://top-medical-schools.org/)
 
-#### コメント (3)
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (05/21 02:29): ブロスタはそもそもモバイルデバイスしかむり
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (05/21 03:31): pc無理
-- **ㅤ@krtk🔰** (05/21 07:38): 　
+#### Comments (3)
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (May 21, 2026 02:29am): ブロスタはそもそもモバイルデバイスしかむり
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (May 21, 2026 03:31am): pc無理
+- **ㅤ@krtk🔰** (May 21, 2026 07:38am): 　
 
-#### その他の情報
-- **投稿のカラー:** グリーン
-- **作成日（UTC）:** 05/18 13:02
-- **更新日（UTC）:** 05/18 13:02
+#### Additional Information
+- **Post color:** Green
+- **Created At (UTC):** May 18, 2026 01:02pm
+- **Updated At (UTC):** May 18, 2026 01:02pm
 
 ---
 
 ### 2. こっちはガチでできるはず
-**作成者:** 旧世界男 (ahonohitoshi)
+**Author:** 旧世界男 (ahonohitoshi)
 
 <p>学校のでも</p>
 
-[添付ファイル 1](https://d3rsc7j663z58n.cloudfront.net/#/MS44anM)
+[Attachment 1](https://d3rsc7j663z58n.cloudfront.net/#/MS44anM)
 
-#### コメント (2)
-- **inoue** (05/16 00:05): ブロ
-- **Tomoharukun** (05/18 06:54): ガチで無理
+#### Comments (2)
+- **inoue** (May 16, 2026 12:05am): ブロ
+- **Tomoharukun** (May 18, 2026 06:54am): ガチで無理
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 15:03
-- **更新日（UTC）:** 05/15 15:03
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 15, 2026 03:03pm
+- **Updated At (UTC):** May 15, 2026 03:03pm
 
 ---
 
 ### 3. youtube
-**作成者:** ふっじー
+**Author:** ふっじー
 
-#### コメント (26)
-- **ふっじー** (05/04 07:20): https://global-edu.onrender.com/
-- **ふっじー** (05/04 07:21): https://min-tube-pro-3lha.onrender.com/
-- **ふっじー** (05/04 07:21): https://love-orange.onrender.com/
-- **ふっじー** (05/04 07:21): 上は全部重い
-- **ふっじー** (05/04 07:21): ショートのスクロールも重いよ
-- **ふっじー** (05/10 21:55): これから出すのは動画を普通に開いてもいみないから開いてからしたの　再生できない場合　を押して　再生できない場合こちら　を押すとええで
-- **ふっじー** (05/04 07:23): https://script.google.com/a/macros/giga.sapporo-c.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
-- **ふっじー** (05/04 07:23): https://script.google.com/a/macros/giga.sapporo-c.ed.jp/s/AKfycbwRaFdJAe1tnfz9nsAiAIivaj9WBZEhKYfXCXAxyWN0lI-MNyvglkE0TJYwSBda3Kpr/exec
-- **ふっじー** (05/04 07:23): https://script.google.com/a/macros/giga.sapporo-c.ed.jp/s/AKfycbzpBonRXqocsyijbH1eQppowglK-lQZsE7FixwjGi-PY77ZYs-io-jMOVERorb-lgwAxQ/exec
-- **ふっじー** (05/04 07:25): 行けた人行けなかった人コメントしてくれると嬉しいです
-- **ふっじー（犬系）** (05/07 08:34): 下の方3つは再生できずブロックされるなら　再生できない場合　を押し　再生できない場合こちら　をおしたら行けると思います
-- **にんじん** (05/04 08:56): はいってくれますか
-- **ふっじー（犬系）** (05/04 09:58): おけです
-- **にんじん** (05/04 10:55): あんがとん
-- **ありがとう** (05/07 02:33): いけなかった
-- **ふっじー（犬系）** (05/07 05:02): なにがいけなかったんすかね
-- **ふっじー（犬系）** (05/07 05:02): 全ブロっすか？
-- **ありがとう** (05/08 00:59): 全ブロですね
-- **ノクス** (05/09 04:59): 開くんですけど何やってもストリーム取得に失敗しましたって出てくる
-- **ありがとう** (05/11 00:18): ぶっろっくされちゃう
-- **ありがとう** (05/11 00:18): 俺はね
-- **ヒカリミズ** (05/17 12:15): https://zisyouusotuki.f5.si/
-- **ヒカリミズ** (05/17 12:15): 多分行ける
-- **ヤバタニエン** (05/19 05:45): なにこれ
-- **サクラカゼ** (05/25 23:50): すすすす
-- **アサヒカゲ** (05/26 01:30): とととととととととととととと
+#### Comments (26)
+- **ふっじー** (May 04, 2026 07:20am): https://global-edu.onrender.com/
+- **ふっじー** (May 04, 2026 07:21am): https://min-tube-pro-3lha.onrender.com/
+- **ふっじー** (May 04, 2026 07:21am): https://love-orange.onrender.com/
+- **ふっじー** (May 04, 2026 07:21am): 上は全部重い
+- **ふっじー** (May 04, 2026 07:21am): ショートのスクロールも重いよ
+- **ふっじー** (May 10, 2026 09:55pm): これから出すのは動画を普通に開いてもいみないから開いてからしたの　再生できない場合　を押して　再生できない場合こちら　を押すとええで
+- **ふっじー** (May 04, 2026 07:23am): https://script.google.com/a/macros/giga.sapporo-c.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
+- **ふっじー** (May 04, 2026 07:23am): https://script.google.com/a/macros/giga.sapporo-c.ed.jp/s/AKfycbwRaFdJAe1tnfz9nsAiAIivaj9WBZEhKYfXCXAxyWN0lI-MNyvglkE0TJYwSBda3Kpr/exec
+- **ふっじー** (May 04, 2026 07:23am): https://script.google.com/a/macros/giga.sapporo-c.ed.jp/s/AKfycbzpBonRXqocsyijbH1eQppowglK-lQZsE7FixwjGi-PY77ZYs-io-jMOVERorb-lgwAxQ/exec
+- **ふっじー** (May 04, 2026 07:25am): 行けた人行けなかった人コメントしてくれると嬉しいです
+- **ふっじー（犬系）** (May 07, 2026 08:34am): 下の方3つは再生できずブロックされるなら　再生できない場合　を押し　再生できない場合こちら　をおしたら行けると思います
+- **にんじん** (May 04, 2026 08:56am): はいってくれますか
+- **ふっじー（犬系）** (May 04, 2026 09:58am): おけです
+- **にんじん** (May 04, 2026 10:55am): あんがとん
+- **ありがとう** (May 07, 2026 02:33am): いけなかった
+- **ふっじー（犬系）** (May 07, 2026 05:02am): なにがいけなかったんすかね
+- **ふっじー（犬系）** (May 07, 2026 05:02am): 全ブロっすか？
+- **ありがとう** (May 08, 2026 12:59am): 全ブロですね
+- **ノクス** (May 09, 2026 04:59am): 開くんですけど何やってもストリーム取得に失敗しましたって出てくる
+- **ありがとう** (May 11, 2026 12:18am): ぶっろっくされちゃう
+- **ありがとう** (May 11, 2026 12:18am): 俺はね
+- **ヒカリミズ** (May 17, 2026 12:15pm): https://zisyouusotuki.f5.si/
+- **ヒカリミズ** (May 17, 2026 12:15pm): 多分行ける
+- **ヤバタニエン** (May 19, 2026 05:45am): なにこれ
+- **サクラカゼ** (May 25, 2026 11:50pm): すすすす
+- **アサヒカゲ** (May 26, 2026 01:30am): とととととととととととととと
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/04 07:19
-- **更新日（UTC）:** 05/04 07:19
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 04, 2026 07:19am
+- **Updated At (UTC):** May 04, 2026 07:19am
 
 ---
 
 ### 4. ゲームあげましょうか？
-**作成者:** ふっじー
+**Author:** ふっじー
 
-#### コメント (17)
-- **ふっじー** (05/04 05:57): https://unblockedgames1024.gitlab.io/
-- **ふっじー** (05/04 05:57): https://www.mortgagecalculator.org/money-games/ovo/
-- **ふっじー** (05/04 05:57): https://ubg76.gitlab.io/
-- **ふっじー** (05/04 05:58): https://djblue.github.io/tetris/
-- **ふっじー** (05/04 05:58): https://unblocked-games-g-plus.bitbucket.io/#google_vignette
-- **ふっじー** (05/04 05:58): https://classroom6x.us.com/
-- **ふっじー** (05/04 05:58): https://ubg6969.gitlab.io/
-- **ふっじー** (05/04 05:58): https://ubg6969.gitlab.io/
-- **ふっじー** (05/04 05:59): リンクくれた人ありがとうございます
-- **ふっじー** (05/04 06:16): 行けた人行けなかった人コメントしてくれると嬉しいです
-- **にんじん** (05/04 07:01): あああ
-- **カービィ** (05/06 05:28): 上から2番目と3番目だけ行けた
-- **ふっじー（犬系）** (05/06 14:03): おけっす
-- **ありがとう** (05/08 00:58): 行けなかったです。
-- **ありがとう** (05/11 00:19): 全部行けなかった
-- **匿名soooma939** (05/12 11:23): 全部行けなかった（（泣））
-- **ユウミドリ** (05/15 04:58): 何も無理(泣)w
+#### Comments (17)
+- **ふっじー** (May 04, 2026 05:57am): https://unblockedgames1024.gitlab.io/
+- **ふっじー** (May 04, 2026 05:57am): https://www.mortgagecalculator.org/money-games/ovo/
+- **ふっじー** (May 04, 2026 05:57am): https://ubg76.gitlab.io/
+- **ふっじー** (May 04, 2026 05:58am): https://djblue.github.io/tetris/
+- **ふっじー** (May 04, 2026 05:58am): https://unblocked-games-g-plus.bitbucket.io/#google_vignette
+- **ふっじー** (May 04, 2026 05:58am): https://classroom6x.us.com/
+- **ふっじー** (May 04, 2026 05:58am): https://ubg6969.gitlab.io/
+- **ふっじー** (May 04, 2026 05:58am): https://ubg6969.gitlab.io/
+- **ふっじー** (May 04, 2026 05:59am): リンクくれた人ありがとうございます
+- **ふっじー** (May 04, 2026 06:16am): 行けた人行けなかった人コメントしてくれると嬉しいです
+- **にんじん** (May 04, 2026 07:01am): あああ
+- **カービィ** (May 06, 2026 05:28am): 上から2番目と3番目だけ行けた
+- **ふっじー（犬系）** (May 06, 2026 02:03pm): おけっす
+- **ありがとう** (May 08, 2026 12:58am): 行けなかったです。
+- **ありがとう** (May 11, 2026 12:19am): 全部行けなかった
+- **匿名soooma939** (May 12, 2026 11:23am): 全部行けなかった（（泣））
+- **ユウミドリ** (May 15, 2026 04:58am): 何も無理(泣)w
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/04 05:56
-- **更新日（UTC）:** 05/04 05:56
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 04, 2026 05:56am
+- **Updated At (UTC):** May 04, 2026 05:56am
 
 ---
 
-### 5. 投稿 5
-**作成者:** ぽてと。 (gs221399)
+### 5. Post 5
+**Author:** ぽてと。 (gs221399)
 
 <p>まいくらです</p>
 
 [https://www.minecraft.net/ja-jp/store/minecraft-java-bedrock-edition-pc](https://www.minecraft.net/ja-jp/store/minecraft-java-bedrock-edition-pc)
 
-#### コメント (7)
-- **Anonymous** (05/01 09:40): 出来ないデス
-- **ふっじー** (05/02 06:44): ブロックっす
-- **からあげ（元Dream）＃焼き鳥貴族３代目** (05/02 21:19): まあコレただのまいくらだから
-- **ふっじー** (05/02 22:39): 学クロでもできるやつないっすかね
-- **ふっじー** (05/04 02:44): ありましたねぇ
-- **からあげ（元Dream）＃焼き鳥貴族３代目** (05/14 02:38): aるよ
-- **旧世界男** (05/15 15:01): まあね
+#### Comments (7)
+- **Anonymous** (May 01, 2026 09:40am): 出来ないデス
+- **ふっじー** (May 02, 2026 06:44am): ブロックっす
+- **からあげ（元Dream）＃焼き鳥貴族３代目** (May 02, 2026 09:19pm): まあコレただのまいくらだから
+- **ふっじー** (May 02, 2026 10:39pm): 学クロでもできるやつないっすかね
+- **ふっじー** (May 04, 2026 02:44am): ありましたねぇ
+- **からあげ（元Dream）＃焼き鳥貴族３代目** (May 14, 2026 02:38am): aるよ
+- **旧世界男** (May 15, 2026 03:01pm): まあね
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/25 00:04
-- **更新日（UTC）:** 04/25 00:04
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 25, 2026 12:04am
+- **Updated At (UTC):** Apr 25, 2026 12:04am
 
 ---
 
-### 6. 投稿 6
-**作成者:** Passport Holder
+### 6. Post 6
+**Author:** Passport Holder
 
-[添付ファイル 1](https://www.youtube.com/watch?pdlt=1&v=udICk7HE4iw)
+[Attachment 1](https://www.youtube.com/watch?pdlt=1&v=udICk7HE4iw)
 
-#### コメント (19)
-- **キム・ケイ（木村慶汰）** (03/04 12:25): こんちゃっちゃ
-- **キム・ケイ（木村慶汰）** (03/04 12:25): おらふです
-- **キム・ケイ（木村慶汰）** (03/04 12:25): おらふくん
-- **キム・ケイ（木村慶汰）** (03/04 12:25): ドズル社の
-- **キム・ケイ（木村慶汰）** (03/04 12:25): 疲れるよー
-- **キム・ケイ（木村慶汰）** (03/04 12:25): 動画
-- **キム・ケイ（木村慶汰）** (03/04 12:25): でも楽しい
-- **キム・ケイ（木村慶汰）** (03/04 12:25): www
-- **いも** (03/12 12:31): 一人でなんかほざいてるやついるｗ
-- **🙆** (03/14 12:36): しぬｗ
-- **カエデコ** (04/14 07:56): ｗｗ
-- **うわがき** (04/20 10:53): 推し汚すな😡🖕
-- **はるくんマンちゃん！** (04/20 14:17): うわがき最低
-- **Anonymous** (05/11 11:45): キム・ケイって奴ボロクソ言われてて草
-- **ウルトラソウル！！！（9時以降にしか来れないよ☆超低浮上なので夜露死苦）** (05/02 10:24): パド初心者か
-- **ウルトラソウル！！！（9時以降にしか来れないよ☆超低浮上なので夜露死苦）** (05/02 10:28): なりすましは著作権法違反です、もしあなたが「おらふくん」をなのった状態でなにか問題を起こしたら名誉毀損、侮辱罪に該当します
-- **ふっじー** (05/02 13:19): ですね
-- **匿名** (05/02 13:43): ヘイ
-- **Ricky!!** (05/09 12:17): 法律は守らないとな〜
+#### Comments (19)
+- **キム・ケイ（木村慶汰）** (Mar 04, 2026 12:25pm): こんちゃっちゃ
+- **キム・ケイ（木村慶汰）** (Mar 04, 2026 12:25pm): おらふです
+- **キム・ケイ（木村慶汰）** (Mar 04, 2026 12:25pm): おらふくん
+- **キム・ケイ（木村慶汰）** (Mar 04, 2026 12:25pm): ドズル社の
+- **キム・ケイ（木村慶汰）** (Mar 04, 2026 12:25pm): 疲れるよー
+- **キム・ケイ（木村慶汰）** (Mar 04, 2026 12:25pm): 動画
+- **キム・ケイ（木村慶汰）** (Mar 04, 2026 12:25pm): でも楽しい
+- **キム・ケイ（木村慶汰）** (Mar 04, 2026 12:25pm): www
+- **いも** (Mar 12, 2026 12:31pm): 一人でなんかほざいてるやついるｗ
+- **🙆** (Mar 14, 2026 12:36pm): しぬｗ
+- **カエデコ** (Apr 14, 2026 07:56am): ｗｗ
+- **うわがき** (Apr 20, 2026 10:53am): 推し汚すな😡🖕
+- **はるくんマンちゃん！** (Apr 20, 2026 02:17pm): うわがき最低
+- **Anonymous** (May 11, 2026 11:45am): キム・ケイって奴ボロクソ言われてて草
+- **ウルトラソウル！！！（9時以降にしか来れないよ☆超低浮上なので夜露死苦）** (May 02, 2026 10:24am): パド初心者か
+- **ウルトラソウル！！！（9時以降にしか来れないよ☆超低浮上なので夜露死苦）** (May 02, 2026 10:28am): なりすましは著作権法違反です、もしあなたが「おらふくん」をなのった状態でなにか問題を起こしたら名誉毀損、侮辱罪に該当します
+- **ふっじー** (May 02, 2026 01:19pm): ですね
+- **匿名** (May 02, 2026 01:43pm): ヘイ
+- **Ricky!!** (May 09, 2026 12:17pm): 法律は守らないとな〜
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/04 06:02
-- **更新日（UTC）:** 03/04 06:02
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 04, 2026 06:02am
+- **Updated At (UTC):** Mar 04, 2026 06:02am
 
 ---
 
 ### 7. ゲーム入れてほしいです
-**作成者:** ブタメンくん (ihvuexkjhuhie)
+**Author:** ブタメンくん (ihvuexkjhuhie)
 
-[添付ファイル 1](https://padlet.com/teamKUROMAME/padlet-mknh0sciei5v8rs7)
+[Attachment 1](https://padlet.com/teamKUROMAME/padlet-mknh0sciei5v8rs7)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/23 02:19
-- **更新日（UTC）:** 02/23 02:19
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 23, 2026 02:19am
+- **Updated At (UTC):** Feb 23, 2026 02:19am
 
 ---
 
-### 8. 投稿 8
-**作成者:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
+### 8. Post 8
+**Author:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
 
-[添付ファイル 1](https://padlet.com/padlets/ntoo9m0ltmj05156)
+[Attachment 1](https://padlet.com/padlets/ntoo9m0ltmj05156)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/07 05:24
-- **更新日（UTC）:** 02/19 09:25
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Feb 07, 2026 05:24am
+- **Updated At (UTC):** Feb 19, 2026 09:25am
 
 ---
 
 ### 9. 使える仙人tube
-**作成者:** kaito (kaitoyokoyama2011)
+**Author:** kaito (kaitoyokoyama2011)
 
 <p><a rel="noopener noreferrer nofollow" href="https://lateral-circular-salmon.glitch.me/index.html">https://lateral-circular-salmon.glitch.me/index.html</a></p>
 
-#### コメント (2)
-- **Courteous Tilapia** (03/12 03:01): まz
-- **GGI** (03/19 03:51): 無r
+#### Comments (2)
+- **Courteous Tilapia** (Mar 12, 2026 03:01am): まz
+- **GGI** (Mar 19, 2026 03:51am): 無r
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/16 12:12
-- **更新日（UTC）:** 02/19 04:43
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 16, 2025 12:12pm
+- **Updated At (UTC):** Feb 19, 2026 04:43am
 
 ---
 
 ### 10. わかめ
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>https://disco-erratic-bongo.glitch.me/</p>
 
-#### コメント (12)
-- **仙人@suger** (06/04 23:14): ユーザー名
-- **仙人@suger** (06/04 23:15): massiro
-- **仙人@suger** (06/04 23:15): パスワード
-- **仙人@suger** (06/04 23:15): Wakase02
-- **どらえmん** (06/05 01:25): 入れません
-- **仙人@suger** (06/05 02:06): 何回か試してみてください
-- **仙人@suger** (06/05 02:07): 3回くらいやるといけます
-- **チンされたチキン‼（チンチキって呼んでね）** (06/05 02:13): パスワードがwakaseになってるほんとはwakame
-- **陽著辺子** (06/05 03:05): 直しといた
-- **削除済みユーザー** (06/05 06:14): 名前とパスワードwakameで行ける
-- **仙人@suger** (06/05 23:12): 誤字った
-- **Passport Holder** (03/04 06:02): [添付ファイル](https://www.youtube.com/watch?pdlt=1&v=udICk7HE4iw) 
+#### Comments (12)
+- **仙人@suger** (Jun 04, 2025 11:14pm): ユーザー名
+- **仙人@suger** (Jun 04, 2025 11:15pm): massiro
+- **仙人@suger** (Jun 04, 2025 11:15pm): パスワード
+- **仙人@suger** (Jun 04, 2025 11:15pm): Wakase02
+- **どらえmん** (Jun 05, 2025 01:25am): 入れません
+- **仙人@suger** (Jun 05, 2025 02:06am): 何回か試してみてください
+- **仙人@suger** (Jun 05, 2025 02:07am): 3回くらいやるといけます
+- **チンされたチキン‼（チンチキって呼んでね）** (Jun 05, 2025 02:13am): パスワードがwakaseになってるほんとはwakame
+- **陽著辺子** (Jun 05, 2025 03:05am): 直しといた
+- **削除済みユーザー** (Jun 05, 2025 06:14am): 名前とパスワードwakameで行ける
+- **仙人@suger** (Jun 05, 2025 11:12pm): 誤字った
+- **Passport Holder** (Mar 04, 2026 06:02am): [Attachment](https://www.youtube.com/watch?pdlt=1&v=udICk7HE4iw) 
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/04 08:30
-- **更新日（UTC）:** 02/19 04:44
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 04, 2025 08:30am
+- **Updated At (UTC):** Feb 19, 2026 04:44am
 
 ---
 
 ### 11. ドリフトボス
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p>https://loving-flowery-kiwi.glitch.me/</p>
 
-#### コメント (3)
-- **Compassionate Dolphin** (02/19 03:27): ゲーム教えてください
-- **Careful Ant** (02/19 11:08): https://kahoot.it/
-- **Valiant Bison** (02/20 03:16): 他のゲームを教えてください
+#### Comments (3)
+- **Compassionate Dolphin** (Feb 19, 2026 03:27am): ゲーム教えてください
+- **Careful Ant** (Feb 19, 2026 11:08am): https://kahoot.it/
+- **Valiant Bison** (Feb 20, 2026 03:16am): 他のゲームを教えてください
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/05 21:31
-- **更新日（UTC）:** 02/21 09:41
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 05, 2025 09:31pm
+- **Updated At (UTC):** Feb 21, 2026 09:41am
 
 ---
 
 ### 12. 僕からもちょっとお知らせです
-**作成者:** 猫神様 (juujutu)
+**Author:** 猫神様 (juujutu)
 
 <p>部屋はシークレットにしたのでこの部屋は受付です（受付にした理由）</p><p>荒らしが来た（ひよこ荒らし最高、変態仮面、のたらたはたらあが来た。）</p>
 
-[添付ファイル 1](https://padlet.com/s14200067/padlet-vt19c234u50x4qk8)
+[Attachment 1](https://padlet.com/s14200067/padlet-vt19c234u50x4qk8)
 
-#### リアクション
-- **絵文字:** ❤️ (3)
+#### Reactions
+- **Emojis:** ❤️ (3)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/07 09:31
-- **更新日（UTC）:** 02/19 04:43
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 07, 2025 09:31am
+- **Updated At (UTC):** Feb 19, 2026 04:43am
 
 ---
 
 ### 13. ゆき
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
 <p><a rel="noopener noreferrer nofollow" href="https://youtube-u3u5.onrender.com/">https://youtube-u3u5.onrender.com/</a></p>
 
-[添付ファイル 1](https://youtube-u3u5.onrender.com/)
+[Attachment 1](https://youtube-u3u5.onrender.com/)
 
-#### コメント (5)
-- **はちもぐ** (06/06 05:04): Not Foundて出る
-- **no** (09/14 01:50): 同じくNot found　出る
-- **Optimistic Quokka** (01/12 12:55): ブロックされちゃうので開ける方法を教えてくれますか。
-- **ｆ** (01/15 00:20): 同じくNo foundでる
-- **ワイ君** (04/06 07:32): おなじく
+#### Comments (5)
+- **はちもぐ** (Jun 06, 2025 05:04am): Not Foundて出る
+- **no** (Sep 14, 2025 01:50am): 同じくNot found　出る
+- **Optimistic Quokka** (Jan 12, 2026 12:55pm): ブロックされちゃうので開ける方法を教えてくれますか。
+- **ｆ** (Jan 15, 2026 12:20am): 同じくNo foundでる
+- **ワイ君** (Apr 06, 2026 07:32am): おなじく
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/05 00:19
-- **更新日（UTC）:** 02/19 09:28
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 05, 2025 12:19am
+- **Updated At (UTC):** Feb 19, 2026 09:28am
 
 ---
 
 ### 14. わかめ
-**作成者:** 陽著辺子 (yangzhubianzi)
+**Author:** 陽著辺子 (yangzhubianzi)
 
-[添付ファイル 1](https://unequaled-famous-double.glitch.me/)
+[Attachment 1](https://unequaled-famous-double.glitch.me/)
 
-#### コメント (5)
-- **削除済みユーザー** (06/05 06:14): は？
-- **陽著辺子** (06/05 11:18): は？
-- **猫神様** (06/07 00:32): え？
-- **Enthusiastic Tiger** (11/19 01:20): dottano?
-- **NyrikX(足立区陣ICFS系)** (04/04 18:44): 昔プロキシ探しているときによくこのエラー画面見たわぁ
+#### Comments (5)
+- **削除済みユーザー** (Jun 05, 2025 06:14am): は？
+- **陽著辺子** (Jun 05, 2025 11:18am): は？
+- **猫神様** (Jun 07, 2025 12:32am): え？
+- **Enthusiastic Tiger** (Nov 19, 2025 01:20am): dottano?
+- **NyrikX(足立区陣ICFS系)** (Apr 04, 2026 06:44pm): 昔プロキシ探しているときによくこのエラー画面見たわぁ
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/05 03:06
-- **更新日（UTC）:** 02/21 09:42
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 05, 2025 03:06am
+- **Updated At (UTC):** Feb 21, 2026 09:42am
 
 ---
 
 ### 15. 音楽
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
-[添付ファイル 1](https://wkt-uuiv.onrender.com/wakams)
+[Attachment 1](https://wkt-uuiv.onrender.com/wakams)
 
-#### コメント (8)
-- **荒れ家の魔男（はちお）** (12/18 02:11): 荒れ家お魔男です
-- **荒れ家の魔男（はちお）** (12/18 02:12): ぼくのおすすめのおんがくは、とりあえずぼく、youtuberなので、shotsを見て
-- **荒れ家の魔男（はちお）** (12/18 02:14): 荒地の魔男と検索するとでてきます
-- **仙人@suger** (12/28 07:36): 僕もユーチューブやってるよ
-- **仙人@suger** (12/28 07:36): 僕の名前どうりの
-- **Bold Hornet** (01/30 09:53): 　仙人tub
-- **あなたは髪の毛ありますか?** (02/09 02:30): ほお
-- **あなたは髪の毛ありますか?** (02/09 02:30): あ、これでも荒地（@松莉右香太）ですから
+#### Comments (8)
+- **荒れ家の魔男（はちお）** (Dec 18, 2025 02:11am): 荒れ家お魔男です
+- **荒れ家の魔男（はちお）** (Dec 18, 2025 02:12am): ぼくのおすすめのおんがくは、とりあえずぼく、youtuberなので、shotsを見て
+- **荒れ家の魔男（はちお）** (Dec 18, 2025 02:14am): 荒地の魔男と検索するとでてきます
+- **仙人@suger** (Dec 28, 2025 07:36am): 僕もユーチューブやってるよ
+- **仙人@suger** (Dec 28, 2025 07:36am): 僕の名前どうりの
+- **Bold Hornet** (Jan 30, 2026 09:53am): 　仙人tub
+- **あなたは髪の毛ありますか?** (Feb 09, 2026 02:30am): ほお
+- **あなたは髪の毛ありますか?** (Feb 09, 2026 02:30am): あ、これでも荒地（@松莉右香太）ですから
 
-#### リアクション
-- **絵文字:** ❤️ (4)
+#### Reactions
+- **Emojis:** ❤️ (4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/05 00:23
-- **更新日（UTC）:** 02/19 09:29
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 05, 2025 12:23am
+- **Updated At (UTC):** Feb 19, 2026 09:29am
 
 ---
 
-### 16. 投稿 16
-**作成者:** tvtvtvaaa333 (r0200932)
+### 16. Post 16
+**Author:** tvtvtvaaa333 (r0200932)
 
-[添付ファイル 1](https://padlet.com/azsre_0516/proxy-nqm7sfv8c0p1mizf)
+[Attachment 1](https://padlet.com/azsre_0516/proxy-nqm7sfv8c0p1mizf)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/23 05:56
-- **更新日（UTC）:** 02/19 04:44
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 23, 2025 05:56am
+- **Updated At (UTC):** Feb 19, 2026 04:44am
 
 ---
 
 ### 17. 入ってくれると嬉しいです　広めてください
-**作成者:** ア̷̬̝̭̤͙͕̙̞̩̠̦̪̠͛̿̑̀̄̎̅́̓̈́̇͛̑̎̚ホ̵̓̿̂͂̓͋̌̒̂̍̐͐　(パド厨部屋） (TNK3011)
+**Author:** ア̷̬̝̭̤͙͕̙̞̩̠̦̪̠͛̿̑̀̄̎̅́̓̈́̇͛̑̎̚ホ̵̓̿̂͂̓͋̌̒̂̍̐͐　(パド厨部屋） (TNK3011)
 
-[添付ファイル 1](https://padlet.com/TNK22/padlet-aw8uzplnvj7wjvgg)
+[Attachment 1](https://padlet.com/TNK22/padlet-aw8uzplnvj7wjvgg)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/13 00:58
-- **更新日（UTC）:** 02/19 09:25
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jan 13, 2026 12:58am
+- **Updated At (UTC):** Feb 19, 2026 09:25am
 
 ---
 
 ## よくわからん投稿
 
 ### 1. おもろいげーむうう
-**作成者:** ヒノデマル
+**Author:** ヒノデマル
 
-#### コメント (2)
-- **ワタカゼ** (05/21 03:19): えろほしい 
-- **ㅤ@krtk🔰** (05/21 07:38): あん
+#### Comments (2)
+- **ワタカゼ** (May 21, 2026 03:19am): えろほしい 
+- **ㅤ@krtk🔰** (May 21, 2026 07:38am): あん
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/17 02:45
-- **更新日（UTC）:** 05/17 02:45
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 17, 2026 02:45am
+- **Updated At (UTC):** May 17, 2026 02:45am
 
 ---
 
 ### 2. なんか怖いコナン
-**作成者:** 葵 (gs226187)
+**Author:** 葵 (gs226187)
 
 <p>なんか怖いコナン見つけた〜</p>
 
 ![江戸川コナン](https://media.tenor.com/EjcczwaxhIYAAAAe/%E6%B1%9F%E6%88%B8%E5%B7%9D%E3%82%B3%E3%83%8A%E3%83%B3-%E3%82%B3%E3%83%8A%E3%83%B3%E3%81%8F%E3%82%93.png)
 
-#### コメント (5)
-- **Tomoharukun** (05/18 06:54): こわすぎ
-- **Tomoharukun** (05/18 06:54): どこで見つけたねん
-- **葵** (05/18 07:59): へへ
-- **川井田** (05/18 09:26): 髪の毛カクカクなの草ｗｗｗ
-- **葵** (05/22 02:34): ｗｗｗ
+#### Comments (5)
+- **Tomoharukun** (May 18, 2026 06:54am): こわすぎ
+- **Tomoharukun** (May 18, 2026 06:54am): どこで見つけたねん
+- **葵** (May 18, 2026 07:59am): へへ
+- **川井田** (May 18, 2026 09:26am): 髪の毛カクカクなの草ｗｗｗ
+- **葵** (May 22, 2026 02:34am): ｗｗｗ
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/16 08:19
-- **更新日（UTC）:** 05/16 08:19
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 16, 2026 08:19am
+- **Updated At (UTC):** May 16, 2026 08:19am
 
 ---
 
 ### 3. vghじゅいおygfhchぎぃv
-**作成者:** あつし
+**Author:** あつし
 
-#### コメント (1)
-- **Anonymous** (05/16 01:58): お、おう...
+#### Comments (1)
+- **Anonymous** (May 16, 2026 01:58am): お、おう...
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 06:37
-- **更新日（UTC）:** 05/15 06:37
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 15, 2026 06:37am
+- **Updated At (UTC):** May 15, 2026 06:37am
 
 ---
 
 ### 4. すいません
-**作成者:** イッチ
+**Author:** イッチ
 
 <p>すいません、ブロックされないYOUTUBEのやり方教えてください</p>
 
-#### コメント (1)
-- **Tomoharukun** (05/18 06:55): これにYoutubeのリンク貼ってhttps://kol.id/download-video/youtube
+#### Comments (1)
+- **Tomoharukun** (May 18, 2026 06:55am): これにYoutubeのリンク貼ってhttps://kol.id/download-video/youtube
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/13 23:27
-- **更新日（UTC）:** 05/13 23:27
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 13, 2026 11:27pm
+- **Updated At (UTC):** May 13, 2026 11:27pm
 
 ---
 
 ### 5. 　タイピングコロシアムのじぶんが今倒そうとしているやつｚ６です
-**作成者:** ぽてと。 (gs221399)
+**Author:** ぽてと。 (gs221399)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5505920502/d79275a993bfd695c2d6b5f18c73ba28/Screenshot_2026_04_22_13_08_47.png?Expires=1780487713&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=y%2FeBI2rmgVi9TgRx6CN0YLwsLTSBV8S%2BbPKV%2FWNhu7WMUdBKiXdByp9PfazqIa2S3GT%2BQZNsDyFvaCHvnIeFVl9sDE9NzSfeHRD4I6IsSgib7RkU%2FhPqKBs%2Fw%2BqrvYR5K10E3QktFPImklxT2Mur0mkkkmPVbweXAfyIjpodxCk%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505920502%2Fd79275a993bfd695c2d6b5f18c73ba28%2FScreenshot_2026_04_22_13_08_47.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5505920502/d79275a993bfd695c2d6b5f18c73ba28/Screenshot_2026_04_22_13_08_47.png?Expires=1780502917&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=T%2BAff9ru8ERfCLzhmXI6m0CmOXHWsF4GD4xhmtYIIx5k7OteXYDf0A2CAh7GlG1FuloQhlmUKZ3a6n9gcwmJkjMw7H8O%2FJASxGWmQY28ubknjK9kfWPRP12kY99K1GuDKigz1SvddIDuSuZZbalUsjaZhP27WwRv1C3SpA7fue0%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505920502%2Fd79275a993bfd695c2d6b5f18c73ba28%2FScreenshot_2026_04_22_13_08_47.png)
 
-#### コメント (6)
-- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (05/04 09:48): 倒した人いたで
-- **Tomoharukun** (05/07 06:00): おれまだz4なんだけど
-- **サッカー** (05/08 09:04): 僕はｚ11まで入ったことある
-- **Tomoharukun** (05/08 23:47): すごすぎ
-- **Tomoharukun** (05/12 02:28): ee
-- **タイピング好き** (05/12 10:15): おんなじーー
+#### Comments (6)
+- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (May 04, 2026 09:48am): 倒した人いたで
+- **Tomoharukun** (May 07, 2026 06:00am): おれまだz4なんだけど
+- **サッカー** (May 08, 2026 09:04am): 僕はｚ11まで入ったことある
+- **Tomoharukun** (May 08, 2026 11:47pm): すごすぎ
+- **Tomoharukun** (May 12, 2026 02:28am): ee
+- **タイピング好き** (May 12, 2026 10:15am): おんなじーー
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/25 00:06
-- **更新日（UTC）:** 04/25 00:06
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 25, 2026 12:06am
+- **Updated At (UTC):** Apr 25, 2026 12:06am
 
 ---
 
 ### 6. ポケモンファーストテイク
-**作成者:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
+**Author:** からあげ（元Dream）＃焼き鳥貴族３代目 (yokoB)
 
 <p>ｗｗｗｗｗ</p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/5976d22cee84d0767261732ed535a29f/Screenshot_2026_03_19_14_24_30.png?Expires=1780487713&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=pFEP5AvnvmHJhWxajgtEMFaOdF%2F2596%2B8eZ5%2FQLdcCunLfz5WweKYmMwYTngHsYgtPh4r2FvyCPZ3lktTvsifAmSlnAl7OJuCFTjUEMXIw%2Fe8FxFpuxkORN5RjBCUZkSq2W8PG%2BfS0qxoVZidta5FoceyMqowRz9Ymz%2BB6yefMg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2F5976d22cee84d0767261732ed535a29f%2FScreenshot_2026_03_19_14_24_30.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/5976d22cee84d0767261732ed535a29f/Screenshot_2026_03_19_14_24_30.png?Expires=1780502917&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=P8LR8GJYniRmy8DINZkQQ0MQDb0sYyNmKzsDFnYkVJQvXwMObvhtpkVfXp6RemWuWoCyKmEzd56mZRnCBunE3Fwhl4EUvOuoP4UEkS875owuZo8kyUKgMuD2QZ1lK1L4%2BVNRUIstHer%2BqUeoDODtOGGqt4ygbqNIBWlIh5Qu6Hg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2F5976d22cee84d0767261732ed535a29f%2FScreenshot_2026_03_19_14_24_30.png)
 
-#### コメント (1)
-- **10式** (04/24 04:07): ポケモンファーストDeath
+#### Comments (1)
+- **10式** (Apr 24, 2026 04:07am): ポケモンファーストDeath
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/21 23:42
-- **更新日（UTC）:** 04/23 08:52
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 21, 2026 11:42pm
+- **Updated At (UTC):** Apr 23, 2026 08:52am
 
 ---
 
 ### 7. ゲームのリンクくれ
-**作成者:** あああ
+**Author:** あああ
 
-#### コメント (6)
-- **Iフィルターまじうざい** (04/17 07:58): ゲームのリンク
-- **ヒエノネ** (04/19 06:38): https://yandex.com/games/ja
-- **ふっじー** (05/04 05:56): ほんとに欲しいですか？ほしいならほしいとコメントお願いします
-- **旧世界男** (05/15 14:46): めっちゃコメントさせるやん
-- **にんじん** (05/15 22:50): ｗｗ
-- **Tomoharukun** (05/18 06:55): だめ
+#### Comments (6)
+- **Iフィルターまじうざい** (Apr 17, 2026 07:58am): ゲームのリンク
+- **ヒエノネ** (Apr 19, 2026 06:38am): https://yandex.com/games/ja
+- **ふっじー** (May 04, 2026 05:56am): ほんとに欲しいですか？ほしいならほしいとコメントお願いします
+- **旧世界男** (May 15, 2026 02:46pm): めっちゃコメントさせるやん
+- **にんじん** (May 15, 2026 10:50pm): ｗｗ
+- **Tomoharukun** (May 18, 2026 06:55am): だめ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/17 00:42
-- **更新日（UTC）:** 04/17 00:42
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 17, 2026 12:42am
+- **Updated At (UTC):** Apr 17, 2026 12:42am
 
 ---
 
 ### 8. 尊い
-**作成者:** Iフィルターまじうざい (s19210009)
+**Author:** Iフィルターまじうざい (s19210009)
 
 ![ちいかわ　らっこ](https://media.tenor.com/yWzhSCWlrvAAAAAe/%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F-%E3%83%A9%E3%83%83%E3%82%B3.png)
 
-#### コメント (3)
-- **龍** (04/20 02:18): だれ
-- **味付け海苔製造機** (04/29 13:37): かわえ
-- **Tomoharukun** (05/18 06:55): おれはうさぎ
+#### Comments (3)
+- **龍** (Apr 20, 2026 02:18am): だれ
+- **味付け海苔製造機** (Apr 29, 2026 01:37pm): かわえ
+- **Tomoharukun** (May 18, 2026 06:55am): おれはうさぎ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/08 11:45
-- **更新日（UTC）:** 04/08 11:45
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 08, 2026 11:45am
+- **Updated At (UTC):** Apr 08, 2026 11:45am
 
 ---
 
 ### 9. 誰かアカウント作ってー
-**作成者:** ワイ君
+**Author:** ワイ君
 
-#### コメント (1)
-- **ユウノソラ** (04/23 09:09): ステメアドでやって作れば
+#### Comments (1)
+- **ユウノソラ** (Apr 23, 2026 09:09am): ステメアドでやって作れば
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/04 11:13
-- **更新日（UTC）:** 04/04 11:13
-
----
-
-### 10. 投稿 10
-**作成者:** 白川部吟 (s210547_7)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5365116955/1bfb67fa42572e94b6029b562ad2b51c/IMG_0346.gif?Expires=1780487713&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=boOewCLj0f%2BRyd%2FvXU%2FMmxUd4H52VQrYr6vdEb8iuDqiSPuwbB6o7mvr2YPzXnRLGHnjNWNaB%2BKGuZGsIdqtHCmc18%2BijrmGabw98LOpkR1akC1lwoO4ec3CIAvj7NRAVJP4ryrVuOw2ZDUd7JShWqLfQwldLgi5W%2F6F5u38H5A%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5365116955%2F1bfb67fa42572e94b6029b562ad2b51c%2FIMG_0346.gif)
-
-#### コメント (4)
-- **図工大好きマン** (04/10 05:36): 可愛いけどオモロイ
-- **龍** (04/20 02:18): ちょいきも
-- **三角定規２号** (05/06 09:55): （手が痛い）
-- **Tomoharukun** (05/18 06:55): 目こわすぎだろ
-
-#### リアクション
-- **絵文字:** ❤️ (1)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/28 01:56
-- **更新日（UTC）:** 03/28 01:56
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Apr 04, 2026 11:13am
+- **Updated At (UTC):** Apr 04, 2026 11:13am
 
 ---
 
-### 11. 投稿 11
-**作成者:** Helpful Badger
+### 10. Post 10
+**Author:** 白川部吟 (s210547_7)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5334667653/faaa32a615d791c2e0c0183e2eaf9ff0/Screenshot_2026_01_27_21_44_25.png?Expires=1780487713&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=NMrLpIa2Pj62QLmeOkiEt%2FLc9lvrRz%2B0LAgdzFfd3DyrtZNFCh0d5RF1ZCCnYTwVSCfpgX%2BWFXzYQEH5epebXYB%2FXecXI0R5fIK6GN%2BC8eioIzKvBTx8Z%2BUDu39M0YFzUc4spfhhkyu6SmIzJYoFYxRKDT9tDqMB48xvHB3hFLc%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334667653%2Ffaaa32a615d791c2e0c0183e2eaf9ff0%2FScreenshot_2026_01_27_21_44_25.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5365116955/1bfb67fa42572e94b6029b562ad2b51c/IMG_0346.gif?Expires=1780502917&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=V%2BX5Rd%2Fmhm1Jof%2BhqGzO%2BUsm24ei73iuZADQkzPUBBEmkn33LhEoQtnylPSa7scGFYrkYgLlOdXItx1ropkyNcRbvB8n1BlSesa9kXgYAE8PIxrX8SWmvl3qDM2KsPpSUrZM7iCu1mqknxQzIvouSuBgS%2F%2B8eMhr2ltvPe6%2BWAo%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5365116955%2F1bfb67fa42572e94b6029b562ad2b51c%2FIMG_0346.gif)
 
-#### コメント (2)
-- **Enthusiastic Koala** (03/25 04:05): 友達のランク人間卒業
-- **Tomoharukun** (05/18 06:56): すげ
+#### Comments (4)
+- **図工大好きマン** (Apr 10, 2026 05:36am): 可愛いけどオモロイ
+- **龍** (Apr 20, 2026 02:18am): ちょいきも
+- **三角定規２号** (May 06, 2026 09:55am): （手が痛い）
+- **Tomoharukun** (May 18, 2026 06:55am): 目こわすぎだろ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/19 00:12
-- **更新日（UTC）:** 03/24 12:27
+#### Reactions
+- **Emojis:** ❤️ (1)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 28, 2026 01:56am
+- **Updated At (UTC):** Mar 28, 2026 01:56am
+
+---
+
+### 11. Post 11
+**Author:** Helpful Badger
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334667653/faaa32a615d791c2e0c0183e2eaf9ff0/Screenshot_2026_01_27_21_44_25.png?Expires=1780502917&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=eCeQIrJjeYgk2NfOTOCXlabCtSNGgPk6a%2F%2BUFrc0YwF4EcSgdYXYagpVFhB2iytvP6h1PO7%2BUQpmuluzufvj6jP9hW%2Fzpr9%2FN%2BDie2omvmYmnZbut8eXmErl1QSjM%2BcDUezaaN0o514KKWVPf%2BtEkJEHfl5oYFDVolWvAtfMoSw%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334667653%2Ffaaa32a615d791c2e0c0183e2eaf9ff0%2FScreenshot_2026_01_27_21_44_25.png)
+
+#### Comments (2)
+- **Enthusiastic Koala** (Mar 25, 2026 04:05am): 友達のランク人間卒業
+- **Tomoharukun** (May 18, 2026 06:56am): すげ
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 19, 2026 12:12am
+- **Updated At (UTC):** Mar 24, 2026 12:27pm
 
 ---
 
 ### 12. こんにちは呪術廻戦ヲタクです
-**作成者:** 嵌合獣　顎吐
+**Author:** 嵌合獣　顎吐
 
-#### コメント (2)
-- **パトリック** (03/25 03:53): オレもっす
-- **味付け海苔製造機** (04/29 13:37): おもろいよね
+#### Comments (2)
+- **パトリック** (Mar 25, 2026 03:53am): オレもっす
+- **味付け海苔製造機** (Apr 29, 2026 01:37pm): おもろいよね
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/18 00:37
-- **更新日（UTC）:** 03/24 12:27
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 18, 2026 12:37am
+- **Updated At (UTC):** Mar 24, 2026 12:27pm
 
 ---
 
-### 13. 投稿 13
-**作成者:** ドラえもん
+### 13. Post 13
+**Author:** ドラえもん
 
 ![ドラえもん](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1583248370i/52049208.jpg)
 
-#### コメント (2)
-- **三角定規２号** (05/06 09:56): ﾋﾟｨｰ（ピー助）
-- **Tomoharukun** (05/18 06:56): ピー助かわいい
+#### Comments (2)
+- **三角定規２号** (May 06, 2026 09:56am): ﾋﾟｨｰ（ピー助）
+- **Tomoharukun** (May 18, 2026 06:56am): ピー助かわいい
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/16 02:11
-- **更新日（UTC）:** 03/24 12:28
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 16, 2026 02:11am
+- **Updated At (UTC):** Mar 24, 2026 12:28pm
 
 ---
 
-### 14. 投稿 14
-**作成者:** ドラえもん
+### 14. Post 14
+**Author:** ドラえもん
 
 ![爆笑GIF](https://media0.giphy.com/media/v1.Y2lkPWNhYmM5OTE4dmR0NG9uMm9qb2M3Nmw5MGRvZzMyZGV6dm9ieTIwb2dyeG5vOWFjYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ryA0wt0yDZfFe/giphy.gif)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/16 02:09
-- **更新日（UTC）:** 03/24 12:27
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 16, 2026 02:09am
+- **Updated At (UTC):** Mar 24, 2026 12:27pm
 
 ---
 
-### 15. 投稿 15
-**作成者:** ドラえもん
+### 15. Post 15
+**Author:** ドラえもん
 
 ![爆笑GIF](https://media0.giphy.com/media/v1.Y2lkPWNhYmM5OTE4dmR0NG9uMm9qb2M3Nmw5MGRvZzMyZGV6dm9ieTIwb2dyeG5vOWFjYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XbnSI4OJqKevcUAamj/giphy.gif)
 
-#### コメント (2)
-- **すずめ** (04/14 13:13): Our...(うわー...)
-- **10式** (04/24 04:08): コマンドーかな？
+#### Comments (2)
+- **すずめ** (Apr 14, 2026 01:13pm): Our...(うわー...)
+- **10式** (Apr 24, 2026 04:08am): コマンドーかな？
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/16 02:08
-- **更新日（UTC）:** 03/24 12:28
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 16, 2026 02:08am
+- **Updated At (UTC):** Mar 24, 2026 12:28pm
 
 ---
 
-### 16. 投稿 16
-**作成者:** ドラえもん
+### 16. Post 16
+**Author:** ドラえもん
 
 ![ドラえもん](https://media4.giphy.com/media/v1.Y2lkPWNhYmM5OTE4NXYxcWEzMmJ3cmZhYzA1N2VsNmdjN25hMnNpYXJpcWdmNjl6ZXo4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hhK6g6syK65hPx5GtE/giphy.gif)
 
-#### コメント (1)
-- **10式** (04/24 04:09): やろぉぉぉぉぉぉぉぶっ殺してやらぁぁぁぁぁぁぁぁぁ！！！
+#### Comments (1)
+- **10式** (Apr 24, 2026 04:09am): やろぉぉぉぉぉぉぉぶっ殺してやらぁぁぁぁぁぁぁぁぁ！！！
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/16 02:07
-- **更新日（UTC）:** 03/24 12:30
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 16, 2026 02:07am
+- **Updated At (UTC):** Mar 24, 2026 12:30pm
 
 ---
 
-### 17. 投稿 17
-**作成者:** ドラえもん
+### 17. Post 17
+**Author:** ドラえもん
 
 ![爆笑](https://media2.giphy.com/media/v1.Y2lkPWNhYmM5OTE4djlsOXNyYmxsZGxlbW9sODA4Ymx6ZXd1cGdjenJzOXFiajVpZDZhdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FfkdCTYVj4rRe48/giphy.gif)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/16 02:06
-- **更新日（UTC）:** 03/24 12:31
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 16, 2026 02:06am
+- **Updated At (UTC):** Mar 24, 2026 12:31pm
 
 ---
 
-### 18. 投稿 18
-**作成者:** Agile Beluga
+### 18. Post 18
+**Author:** Agile Beluga
 
 ![爆笑](https://media4.giphy.com/media/v1.Y2lkPWNhYmM5OTE4djlsOXNyYmxsZGxlbW9sODA4Ymx6ZXd1cGdjenJzOXFiajVpZDZhdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26Ff4P2zcsiIi6fQY/giphy.gif)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/16 02:03
-- **更新日（UTC）:** 03/24 12:29
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 16, 2026 02:03am
+- **Updated At (UTC):** Mar 24, 2026 12:29pm
 
 ---
 
-### 19. 投稿 19
-**作成者:** Agile Beluga
+### 19. Post 19
+**Author:** Agile Beluga
 
 <p>ドラえもん</p>
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/16 02:00
-- **更新日（UTC）:** 03/24 12:32
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 16, 2026 02:00am
+- **Updated At (UTC):** Mar 24, 2026 12:32pm
 
 ---
 
 ### 20. A-to
-**作成者:** Humble Hummingbird
+**Author:** Humble Hummingbird
 
 <p>Psyching up with a similar</p><p><br></p>
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/13 09:19
-- **更新日（UTC）:** 03/24 12:31
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 13, 2026 09:19am
+- **Updated At (UTC):** Mar 24, 2026 12:31pm
 
 ---
 
-### 21. 投稿 21
-**作成者:** 匿名
+### 21. Post 21
+**Author:** 匿名
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5275779745/af41c3070ba56fdd41537ed3f071a461/videoplayback.mp4?Expires=1780487713&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=sAkC7sJCxy7DmsU6NqUw5jpUmCfD1HG%2BspEo7PCtmUWDxIErN5nSuSuQt3bSG8g94q4IUqMKcbQ4tCdAEzBA9YUDXxnJG4J%2FJvBP%2BoeD5ydwdBv8qqDTFz4rxnqe4Ix2hDwSC2gAIft8cfDwD03ZW%2Bnz78ZH%2FCJJIF%2ByoJcUn34%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5275779745%2Faf41c3070ba56fdd41537ed3f071a461%2Fvideoplayback.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5275779745/af41c3070ba56fdd41537ed3f071a461/videoplayback.mp4?Expires=1780502917&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=Iq1xRe1MnovD06aXBU8G0GiUf7EqO8Fc2BYfvd7unAsjTI9rgnt2%2B26XKjnxhSosUWW4xYWqgIk1pXiKbV92l6X7w%2BkqVEFAyrQOeRAAQn0ZtfQMmqajoVlqNd1R4ps8PPKeNJgSsGHxq8Yz%2FdPWo2bgYqJ3v5%2Fiovqn8x529gA%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5275779745%2Faf41c3070ba56fdd41537ed3f071a461%2Fvideoplayback.mp4)
 
-#### コメント (3)
-- **ワイ君** (04/04 11:14): 誰かアカウント作ってー
-- **Tomoharukun** (05/18 06:56): いいよ
-- **ノクス** (05/26 07:10): 予知夢の歌だ
+#### Comments (3)
+- **ワイ君** (Apr 04, 2026 11:14am): 誰かアカウント作ってー
+- **Tomoharukun** (May 18, 2026 06:56am): いいよ
+- **ノクス** (May 26, 2026 07:10am): 予知夢の歌だ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/07 10:04
-- **更新日（UTC）:** 03/24 12:34
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Mar 07, 2026 10:04am
+- **Updated At (UTC):** Mar 24, 2026 12:34pm
 
 ---
