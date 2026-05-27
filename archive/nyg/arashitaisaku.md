@@ -1,4 +1,4 @@
-最終取得: 2026/05/27 14:03:13
+最終取得: 2026/05/27 20:56:21
 
 # 荒らし対策室
 
@@ -7,7 +7,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 17
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** May 27, 2026 12:20am
+- **Updated At (UTC):** May 27, 2026 11:21am
 
 ## リンク集
 
@@ -21,7 +21,7 @@
 - **さくとなんだ今も無差別荒らし** (Sep 12, 2025 10:11pm): らしじゃないお
 
 #### Reactions
-- **Emojis:** 👍 (6)
+- **Emojis:** 👍 (7)
 
 #### Additional Information
 - **Post color:** Red
@@ -63,7 +63,7 @@
 - **削除済みユーザー** (Nov 13, 2025 10:29pm): こｎ
 
 #### Reactions
-- **Emojis:** 👍 (5)
+- **Emojis:** 👍 (6)
 
 #### Additional Information
 - **Post color:** Red
@@ -93,7 +93,7 @@
 - **生きやがれ** (Sep 22, 2025 11:56am): 私も荒らしを記録してます　https://padlet.com/siniyagaruna/padlet-ie776w9g4je8nc8a
 
 #### Reactions
-- **Emojis:** 👍 (4)
+- **Emojis:** 👍 (5)
 
 #### Additional Information
 - **Post color:** Red
@@ -152,7 +152,7 @@
 **Author:** かいと (HALVES_LOVE)
 
 #### Reactions
-- **Emojis:** 👍 (5)
+- **Emojis:** 👍 (6)
 
 #### Additional Information
 - **Post color:** White
@@ -165,7 +165,7 @@
 **Author:** たたたんこ (Tatatanko)
 
 #### Reactions
-- **Emojis:** 👍 (1)
+- **Emojis:** 👍 (2)
 
 #### Additional Information
 - **Post color:** White
@@ -200,7 +200,7 @@
 **Author:** 削除済みユーザー
 
 #### Reactions
-- **Emojis:** 👍 (2)
+- **Emojis:** 👍 (3)
 
 #### Additional Information
 - **Post color:** White
@@ -213,7 +213,7 @@
 **Author:** 削除済みユーザー
 
 #### Reactions
-- **Emojis:** 👍 (1)
+- **Emojis:** 👍 (2)
 
 #### Additional Information
 - **Post color:** White
@@ -226,7 +226,7 @@
 **Author:** ぜんた　りおとの一番弟子！ (zenta_nanda)
 
 #### Reactions
-- **Emojis:** 👍 (2)
+- **Emojis:** 👍 (3)
 
 #### Additional Information
 - **Post color:** White
@@ -241,7 +241,7 @@
 <p>これは移動だよつまり別のアカウントがあるってこと。</p><p>いずれ復活します</p>
 
 #### Reactions
-- **Emojis:** 👍 (1)
+- **Emojis:** 👍 (2)
 
 #### Additional Information
 - **Post color:** White
@@ -254,7 +254,7 @@
 **Author:** レイ　#最近ていふ (rei_ryu)
 
 #### Reactions
-- **Emojis:** 👍 (1)
+- **Emojis:** 👍 (2)
 
 #### Additional Information
 - **Post color:** White
@@ -267,7 +267,7 @@
 **Author:** 削除済みユーザー
 
 #### Reactions
-- **Emojis:** 👍 (2)
+- **Emojis:** 👍 (3)
 
 #### Additional Information
 - **Post color:** White
