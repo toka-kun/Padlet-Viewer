@@ -1,4 +1,4 @@
-最終取得: 2026/05/29 08:21:48
+最終取得: 2026/05/29 17:27:42
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** May 28, 2026 10:49pm
+- **Updated At (UTC):** May 29, 2026 08:10am
 
 ## 受付
 
@@ -260,7 +260,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p><p>※↑は今死んでます</p>
 
-#### Comments (49)
+#### Comments (51)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -310,6 +310,8 @@
 - **Natsu** (May 22, 2026 03:05am): fenuzubyo@kagi.be　よろ
 - **静桜  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (May 22, 2026 09:25am): おけ
 - **煮物** (May 23, 2026 06:59am): 煮物部屋new受付！
+- **ももね** (May 29, 2026 08:11am): フォローしました‼️！
+- **ももね** (May 29, 2026 08:11am): メアド貼ったほうが良いですか
 
 #### Additional Information
 - **Post color:** Red
@@ -325,7 +327,7 @@
 
 <p>荒らし</p><p>・匿名おるふぇ</p><p>・</p><p><br/></p><p>変態</p><p>・煮物</p><p>・いかれ天</p><p><br/></p><p>かリけーの要望</p><p>・リムル</p><p><br/></p>
 
-#### Comments (24)
+#### Comments (25)
 - **静桜  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (Jan 13, 2026 12:10pm): 少ないかも
 - **静桜  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (Jan 13, 2026 12:10pm): これ以上思い出せない
 - **woolisbest** (Jan 13, 2026 12:10pm): w
@@ -350,6 +352,7 @@
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (May 22, 2026 12:56am): 入りたいなら❗️メアドコメントしよう❗️😃
 - **煮物** (May 23, 2026 06:59am): 煮物部屋new受付！
 - **煮物** (May 25, 2026 08:06am): 俺出禁になったけどずっと管理でしたけどねわら
+- **ももね** (May 29, 2026 08:10am): ｗ
 
 #### Additional Information
 - **Post color:** Green
