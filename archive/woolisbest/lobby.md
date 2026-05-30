@@ -1,4 +1,4 @@
-最終取得: 2026/05/30 07:42:57
+最終取得: 2026/05/30 13:19:48
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** May 29, 2026 08:10am
+- **Updated At (UTC):** May 30, 2026 02:00am
 
 ## 受付
 
@@ -260,7 +260,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p><p>※↑は今死んでます</p>
 
-#### Comments (51)
+#### Comments (53)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -312,6 +312,8 @@
 - **煮物** (May 23, 2026 06:59am): 煮物部屋new受付！
 - **ももね** (May 29, 2026 08:11am): フォローしました‼️！
 - **ももね** (May 29, 2026 08:11am): メアド貼ったほうが良いですか
+- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (May 30, 2026 02:00am): 大丈夫だよー
+- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (May 30, 2026 02:00am): 入れとくねー
 
 #### Additional Information
 - **Post color:** Red
