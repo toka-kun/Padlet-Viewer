@@ -1,4 +1,4 @@
-最終取得: 2026/06/01 19:31:05
+最終取得: 2026/06/01 22:13:32
 
 # Padletポータルワールド
 
@@ -585,7 +585,7 @@
 ---
 
 ### 23. ペンギンの部屋
-**Author:** 蜂楽　廻 (68794935)
+**Author:** ハイキュー！！ (68794935)
 
 <p>まだ誰もいませんが、これからです！</p><p>もしかしたらそこの君が一人目の訪問者かもね、、、</p>
 
@@ -656,7 +656,7 @@
 ---
 
 ### 26. classroom
-**Author:** 蜂楽　廻 (68794935)
+**Author:** ハイキュー！！ (68794935)
 
 <p>ゲーム・Tube・便利サイトあります！</p><p>(えｒ・荒らしていいよもあるよ！)</p><p>訪問者数は少ないですが、楽しませます！</p><p>(友達と訪問者数争いしてるので来てほしいです)</p>
 
@@ -1671,7 +1671,7 @@
 ---
 
 ### 70. classroom
-**Author:** 蜂楽　廻 (68794935)
+**Author:** ハイキュー！！ (68794935)
 
 <p>この部屋は現在訪問者120人ほど。訪問者増やし、楽しみたいです！ぜひ来てください！</p>
 
@@ -1747,7 +1747,7 @@
 ---
 
 ### 73. 裏の表の裏
-**Author:** government conspiracy＃クチャラー嫌い＃PB界隈＃芋帝国民＃猫葉撲滅委員会＃第一部署平社員２ (seihunoinbou)
+**Author:** government conspiracy＃クチャラー嫌い＃PB界隈＃芋帝国民＃猫葉撲滅委員会 (seihunoinbou)
 
 <p>特にはないかなぁ〜</p>
 
@@ -4316,7 +4316,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1780914664&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=i%2FcZVxyyT5LMimceKKp1q5T7GqHpbZO4Oy5z1COvWW%2Bxsg81sCZieVi5mr20uBAl6JK5YM8l3Kdb0d9xXcKENUr0tOJTCEZJKtWVlGjDmb0i7NVP8Y3Iqrbsq6bqzD2H39dQ%2F8%2ByRQXnp3%2FgPe6s9Nu0Y9IF0U7H0s7x%2B3Akrxg%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1780924412&GoogleAccessId=778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%40developer.gserviceaccount.com&Signature=CSyiR2CRGgDhl0qZ6mglDKBfrdrn2Eip1sQNNvo9Fuoe4Fz0UI8ZZT8PyWqNMaqgkG5qWZZVWtdgqPc1pMP7EnFVNKCVm8Mo%2BBw4c80hpX4nKTnxrC%2BRPVpbhh6NG%2BVwOHdAG5vJXxYqpyyZ9zr7UDKyaFgFcZ9JQE1SUI4y9ag%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
