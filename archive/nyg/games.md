@@ -1,4 +1,4 @@
-最終取得: 2026/06/03 00:47:06
+最終取得: 2026/06/03 08:18:12
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Nanachiki/padlet-4b9092979b4e6dlm
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
-- **Posts:** 14
+- **Posts:** 13
 - **Created At (UTC):** Aug 27, 2024 11:14am
-- **Updated At (UTC):** Jun 02, 2026 02:26pm
+- **Updated At (UTC):** Jun 02, 2026 10:48pm
 
 ## 概要
 
@@ -40,7 +40,7 @@
 
 <p>荒らさなければなんでもいいです。</p><p>管理者が荒らしと認定した場合、該当メッセージを削除し、該当ユーザーの権限を閲覧のみにします。</p><p>なので、アカウントの作成をお願いします。</p><p>また、ゲームセクションではゲームのことを何でも喋ってもいいです。</p>
 
-#### Comments (10)
+#### Comments (9)
 - **匿名** (Sep 26, 2025 11:29am): おっけー
 - **匿名** (Sep 28, 2025 01:12am): おっけー
 - **ぐるぐるまっきー** (Oct 07, 2025 04:00pm): おけ
@@ -50,7 +50,6 @@
 - **ワイ君** (Apr 06, 2026 04:32am): （学タブ以外に持ってryデバイスキッズケータイのみ）
 - **マドアカリ** (May 02, 2026 11:35am): ゆきYouTubeありますか
 - **わホー** (May 29, 2026 12:41am): オッケー
-- **クレノソラ** (Jun 02, 2026 02:26pm): ちんこ
 
 #### Reactions
 - **Emojis:** ❤️ (3)
@@ -104,21 +103,7 @@
 
 ## 自己紹介、雑談等
 
-### 1. きて
-**Author:** へーい (22719059)
-
-**投稿の種類:** ゲームの紹介
-
-[Attachment 1](https://turbowarp.org/1308269898/fullscreen?hqpen)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Apr 18, 2026 12:45pm
-- **Updated At (UTC):** Apr 18, 2026 12:45pm
-
----
-
-### 2. ゲームほしいです
+### 1. ゲームほしいです
 **Author:** T34-85M (dr6ftg7yuhio)
 
 <p>学校のタブレットで規制をすり抜けてできるゲームを教えて下さい。</p>
@@ -140,17 +125,16 @@
 
 ---
 
-### 3. 部屋の消し方がわかりません
+### 2. 部屋の消し方がわかりません
 **Author:** 削除済みユーザー
 
-#### Comments (7)
+#### Comments (6)
 - **うえけんぴ** (Sep 27, 2024 01:44am): ミートゥ
 - **Courteous Leopard** (Apr 26, 2025 12:09am): s４ね
 - **蘊蓄** (May 20, 2025 03:09pm): s4ね
 - **削除済みユーザー** (Jun 28, 2025 07:46am): これは、まじでわからない
 - **匿名** (Sep 29, 2025 12:01pm): s4ねってどういうこと
 - **もや** (Apr 20, 2026 03:25am): https://www.youtube.com/?app=desktop&hl=ja
-- **戸田家好き** (May 23, 2026 11:50am): 活動休止
 
 #### Additional Information
 - **Post color:** White
@@ -166,7 +150,7 @@
 
 <p>ゲームの募集は雑談セクションではなく、こちらにしてください。</p>
 
-#### Comments (17)
+#### Comments (16)
 - **happyはまぐり???** (Mar 15, 2025 06:08am): スマブラで
 - **happyはまぐり???** (Mar 15, 2025 06:09am): 2LJVBの部屋を開いております良ければ来てください
 - **匿名** (Sep 26, 2025 11:29am): https://eaglecraft.pages.dev/
@@ -183,7 +167,6 @@
 - **トラレロ君5314** (May 16, 2026 10:31pm): Pizza Tower 1.1.0 Web Port
 - **トラレロ君5314** (May 16, 2026 10:31pm): ブロックされました。ガチのミネクラ
 - **天才くん** (May 23, 2026 04:15am): 医師ってゆう名前の人きおつけてマジで荒らしてる
-- **戸田家好き** (May 23, 2026 11:50am): 活動休止
 
 #### Reactions
 - **Emojis:** ❤️ (3)
@@ -206,9 +189,6 @@
 
 [Attachment 1](https://padlet.com/padlets/ybtryru0lgzpxp34)
 
-#### Comments (1)
-- **戸田家好き** (May 23, 2026 11:50am): 活動休止
-
 #### Reactions
 - **Emojis:** ❤️ (2)
 
@@ -225,9 +205,6 @@
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <p>★リンク</p><p><a rel="noopener noreferrer nofollow" href="https://lolbeans.io">https://lolbeans.io</a></p><p><br></p><p>★ゲーム内容</p><p>豆たちがレースするやつ(?)</p>
-
-#### Comments (1)
-- **戸田家好き** (May 23, 2026 11:50am): 活動休止
 
 #### Reactions
 - **Emojis:** ❤️ (2)
@@ -246,9 +223,6 @@
 
 <p>★リンク</p><p><a rel="noopener noreferrer nofollow" href="https://godfield.net">https://godfield.net</a></p><p><br></p><p>★ゲーム内容</p><p>運95%、実力5%の運ゲーカードゲーム</p>
 
-#### Comments (1)
-- **戸田家好き** (May 23, 2026 11:50am): 活動休止
-
 #### Reactions
 - **Emojis:** ❤️ (2)
 
@@ -265,9 +239,6 @@
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 <p>★リンク</p><p><a rel="noopener noreferrer nofollow" href="https://hexanaut.io">https://hexanaut.io</a></p><p><br></p><p>★ゲーム内容</p><p>タイルを取り合うゲーム</p>
-
-#### Comments (1)
-- **戸田家好き** (May 23, 2026 11:50am): 活動休止
 
 #### Reactions
 - **Emojis:** ❤️ (2)
@@ -311,12 +282,11 @@
 
 **投稿の種類:** ゲームの募集
 
-#### Comments (5)
+#### Comments (4)
 - **Humble Salamander** (Oct 22, 2025 03:20am): 今日？
 - **下ネタ教** (Dec 08, 2025 12:35pm): おっけ
 - **みなちゃん愛好家** (Apr 14, 2026 04:51am): ぺろ
 - **みなちゃん愛好家** (Apr 14, 2026 04:51am): ty
-- **戸田家好き** (May 23, 2026 11:50am): 活動休止
 
 #### Additional Information
 - **Post color:** White
