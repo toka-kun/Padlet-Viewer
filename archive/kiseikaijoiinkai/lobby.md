@@ -1,4 +1,4 @@
-最終取得: 2026/05/26 13:42:21
+最終取得: 2026/06/04 00:06:59
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 11
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** May 26, 2026 03:51am
+- **Updated At (UTC):** Jun 03, 2026 12:54pm
 
 ## ルール
 
@@ -103,6 +103,9 @@
 **Author:** とるっぷい (TORI_TORI2)
 
 <p>メルアドを別部屋にて添付してください。</p><p>管理者以外が他の人の投稿を確認することはできません。</p><p>→の部屋にてメルアドを投稿してください。</p>
+
+#### Comments (1)
+- **わっさん** (Jun 03, 2026 12:54pm): 学校のiPadでYouTube見たいんやけど見れなくて困ってます
 
 #### Additional Information
 - **Post color:** Black
