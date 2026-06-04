@@ -1,4 +1,4 @@
-最終取得: 2026/06/04 14:11:49
+最終取得: 2026/06/04 15:53:35
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** May 30, 2026 02:00am
+- **Updated At (UTC):** Jun 04, 2026 06:13am
 
 ## 受付
 
@@ -260,7 +260,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p><p>※↑は今死んでます</p>
 
-#### Comments (53)
+#### Comments (55)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -314,6 +314,8 @@
 - **ももね√35P** (May 29, 2026 08:11am): メアド貼ったほうが良いですか
 - **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (May 30, 2026 02:00am): 大丈夫だよー
 - **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (May 30, 2026 02:00am): 入れとくねー
+- **お寿司 #ロブロ好き #マイクラ好き** (Jun 04, 2026 06:13am): しました
+- **お寿司 #ロブロ好き #マイクラ好き** (Jun 04, 2026 06:14am): コメント一度全消しした方がいいですよ
 
 #### Additional Information
 - **Post color:** Red
