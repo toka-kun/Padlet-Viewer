@@ -1,4 +1,4 @@
-最終取得: 2026/06/05 21:12:22
+最終取得: 2026/06/05 21:18:51
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 510
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Jun 05, 2026 12:09pm
+- **Updated At (UTC):** Jun 05, 2026 12:13pm
 
 ## 管理者　連絡
 
@@ -598,7 +598,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5706891201/ea798f97faa203b1cd8d6013b3b1fd17/video.webm?Expires=1781266335&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=MDNQWQ73XZ37uDNlhMrJn3KSOULU%2BXlc1FMeVpQlT%2FMyM7bMoyncoEi2UNV4BImzfHA2d5R617EPv%2FVHgkvOv4kWf2dpQKTHMk8KsAGFiGy2jqLQyFseiukFvRf8AfJivwrZZfyTWYZEHpUXFqUh2GRFFRKuQIwSgDsRZolcmLEgCz2kObdn3Kyf3xvC%2FRuAtb9qCLc5kcT5R3HFxwI384k3BIZmWHVKIV%2FLuqR70J9XXnODe89CYvPC%2BZRZbB76hlrpFz7ePGA1sLgWIx3OCJDHltG5XIkkxUA%2FtO1r1QJPE51sP3DEuQvNBpKLa6uW9P50oMmixDTTmTR9crA%2BFQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5706891201%2Fea798f97faa203b1cd8d6013b3b1fd17%2Fvideo.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5706891201/ea798f97faa203b1cd8d6013b3b1fd17/video.webm?Expires=1781266725&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=BQuBkXH2AnJ%2F2Mv7aPYV74XdeI0txgiZK9K7h6ax3LezMzTPSP%2FS6XpaNmoQ3%2BROSkYFqvOWRe%2B5245%2BHh2LexQPqoqLs5FfbKyJ%2BS4%2FJORyshLYPyEvh3JZBfInyDF3IN3wXI3I8s8TYOlhSvTLjZM2QSL02L%2Fa4%2B3ZzDSbce6IonwLMZS57wOnBPfxcBok4fMyB0ex4PtUCf%2Fe2t3saB3u%2FrJjXJN7Efupsui5mpMlFAuqQ3Nv%2BPQt87ZTVabZV35MdAGo5w8XUiyMoUCPUGhtsI8tdbUwlO3uctq9Lyxa0bMFp9DLc5QwWJhddBKXUayw2HYCACxJ9zMMULr2ww%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5706891201%2Fea798f97faa203b1cd8d6013b3b1fd17%2Fvideo.webm)
 
 #### Comments (1)
 - **GP** (May 26, 2026 03:11am): ずっと画面が真っ暗
@@ -2309,7 +2309,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5621440276/c0a93c43ccdd44ccf59be3af73e81c12/IMG_0007.jpeg?Expires=1781266336&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=TGK06BPQpFrw%2FvMNvH5lo4T7PQCVZ1ezrC9Tr5gScmfjx7n%2B0lEMTfTGW6B%2B%2Fszv9yUJAZ2DFYQYzQXBegLj5shhMHhfyEil2RnoujWQg7aHw5nqOocRfmLX4byZShy8CvT%2BTvOEwI24F4nKMcB9%2Fh7pVJbExCL9QHmPfixffu7U%2BqEKRIY7t4W5wVRmLYl%2B%2FgQuw%2BrlekrllDpbzH4KaC99XVgEH7D76NniJGDQ1F2SeFVqziQaSbKWwBw8bqpBAVS1UJD5%2B7RP%2BJQFtk6WIZQlzNmghuQCe74V0%2FW1PopAANohrS0TCBCxHsoHFDVabA14ipcpxZOuDdMYsqAiNw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5621440276%2Fc0a93c43ccdd44ccf59be3af73e81c12%2FIMG_0007.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5621440276/c0a93c43ccdd44ccf59be3af73e81c12/IMG_0007.jpeg?Expires=1781266726&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=id9gmt5sVqfelr0BSAE6bmAJMbJefiw7rz5ejpFPwlxzPXVyjoGzx4r7XeDK4lNh4IDZg0RSu6sgeiccTdJ3iKvRZUlvrNCVepL8kT8llLyhRZDI5raCTOZMiecsi%2Btpm%2BFliiBQSpp2pZ5TchaGJ5V6aZBy%2Fm5vlkfETVYRYMZzgK8q9eh2u1B21OluwfiO7q%2F7SRrq9RCCMFyzlMMf8fNRiv4vNJI3le21a0bwLmWWJ9hkPDTCxws0hoao9%2BBx08xqP%2BN2glnr2poZ%2FNwAnQUU8rU5gZ1bp%2FDrYBT3KpnMP9WyU7H2IGYBjFfpzr38sV7ONmfV8nECTIKF92dHhg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5621440276%2Fc0a93c43ccdd44ccf59be3af73e81c12%2FIMG_0007.jpeg)
 
 #### Comments (2)
 - **スリ** (May 10, 2026 12:54pm): 呪術廻戦にでてくる日車の術式の裁判場にでてくるやつ 
@@ -2358,7 +2358,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1781266336&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Djh1%2FyKCk4tbvuypLwl5y%2BjjNrA96jA2g%2BRSr5nC%2FYPWDlDOIlRfQTdw9cewc8WsrEjHO3Se4Eo3aTmqIMPIVgQljKVU4K%2Bllpkvc4OxltqpWYVb1cGlL%2BL21oDrAseaNnOlK3Ga8bSGzTqPbghb%2FGuRbmshxPw2ZduvDe974GMfpCbkAicSz7jzFlnVdfAIlPZIcOwgq7czZPQ5BbzOJt3tmNwX5pFSq8a9lgR0NYiEMbhmfuHS0PDQ7wpf7lfAYjb8957u%2BcNsSOcHG3kTR2dSLx9wMlW16zbFbxqI3zW1nZobHd8Nsc7mN2w3YQ3Dr9Thacyq5OcZ%2FqWl1vs41Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1781266726&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Oj8aJ%2BDHmaaIM3fmm4xwdwKiPmF%2FJJZ%2B87ws9yz52eblq3IeB3U8PTP3X7rX4BFbcjb9s4MV1IjzDrxjTgBvyUmyBFk5I6CHfGCgglle%2Bv78r39aopzlerOD9SPVdWpFP%2FfUUt%2BbSTgeCJ8dpFCm%2F6yqJgbUlegRAurQ1LWKMgKOZ37pLeufeglBispGc2d%2BCbp%2B2%2FSZAqmz9hUI7Bas5VyC%2F7bmskgB2nMV%2BgrnLgLNB8GQ0VGOkRpVWkK%2FgEFEx%2FP0fOHTEKbG2ZGFktszA640Il6b7s7udk%2F8jR9AeqYqWNW9GRnLN5FwjuWyVGjkz5gYSF8yiumyUiMbaa7kDQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
 
 #### Comments (2)
 - **スリ** (May 10, 2026 12:52pm): これに誰か一言
@@ -2462,7 +2462,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1781266336&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=TE4NlM0W5lHzlQuTvGOxE7%2B93OjCIxGjkAFmC%2FUUxh2NaOsPBdSa5Yho6gSfzAXbdLbYlQDF0txkuYDDAgYfF3J48c68DMmuIUFwMT%2BZuLtjw62qEREVaFMaKQJ%2BaT9j5VGrDnRpaPLbaEcSllnNtaectYISIx6UbWQUXhBk3OjXJyD39NP2uQevKUWPM7dO86VHZ3R0%2BwyizMHWVGu5yeBUO7TDbiAKV5raX2hMJVPvo%2FtsORELwyEbjfVjr%2BhnNJkCi%2FIFk3ksbh6nfO%2BELttEmzyctTsAiYcexMU02ZwNdUsMF53TG0W48LpX0X3MyXd9CaYJFHHETTfnLq1ZPQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1781266726&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=auDqi6bZJN5kT7QnzwLvwbM3aVdMeCizc50OuVXrK80hM3JsmHA3T%2FvX3m2X2RIs2RcbUp49Sl3KOmp5TrG%2BFVgzbOFW9SFVQZGG4%2FmtmyV%2F4Im8uYNxze4YJUGl8NdXjCmv19tuL2NmfyG%2Fm4n7CFGL0dHHB2pd2RQng3%2Bhe6vWpoUt2MZ59rBkz8omGsbO2Vmos4Q4zFsDzaDy04wHPMRatFA4qEIqzKsHGQXQEWORWNgw17D3zFVV%2Be0hpeEf3oePFgr8pplW1gGEk57cJycAB%2BxpcBu9h9QwYt3dC3gaLbgulP%2BI4NpHLNCU1ypUWJl%2FIwQorbuHYklZjZOpIA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (3)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -2551,7 +2551,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1781266336&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=G99dki%2FNaxy9HPmMOIEg2aOgNhcU3SET%2FBn9wmY8FGvapM%2BdQTdBUhdQ3jqUo3HZg4v4IH8DyqXRTdR7nVqcTis6pxg5F4mkW3r7hVT0NFID7%2Bm0gwSw5WiYUBR71B9tuSngKlhK%2BScs3eTJ0EfdGRJWk91kXPG9BEI70KsKIzmURWaNiKwvkA4iWd%2B0IvQyCPQ4P%2FSRcpk3I%2FCrWeCPc8zd9070P%2FNWSCrg6Caxz2GJTLMDOJcdeUGvIFEO%2Fcuks%2B%2BLe%2B9j6wZpWA9FHMYVozMM%2FDmKj0Veo5gvalBm2nhNWvyDNF3%2FfJbvFVcsdScs%2F9ywOuVjtrYCJ6twfYW4Pg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1781266726&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=FgLxIrkOo6mjLS3xHlj2Pa1l94xnaYyoX9AERBi1%2FsOAfK33K9N1ygnyA2z15eae45bdlXnj3QX712kEfP5rK6O6O0Y2AMbN8ofz%2B2mgwKhL8pyx8efUNkrLqhsVxGzblNbShZS%2BlC8uTDpshKrZFaMjOqaFP7T%2Bnc7%2B9WUP6uN8LxwXzRt9901EutmFn%2BQ1pkrQ5J%2B%2B4V%2Bwc9qcDAAtGKZIJypiAUCHgXv18U%2FxmVSZ%2BEmpLRO%2Bg7wpL9zQVCbJY9UjiVVAY2fS8Ktu5cdnRYb6jgNVnrddQ0Jk2fp83PioNxucEG8PIi5LPSzjsRlq53K8sBz7lCZkijsewC3wHg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -4003,7 +4003,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674125412/f793eedd0f017c0f539558763023714b/image.jpg?Expires=1781266337&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=MF7uMwdyMXEPefneQkq6nm4x64HbWW78CzSq6OXM1EtiwV%2Bh5Ly2JTWOEamnomwgg2CbNSW3oHEs0%2FaTtxzTLCqnjhhbpEgky43VvY4mRVKY1AMP70c2NG6jBS78w544vwS9lPIZF4%2FJ1z2BO5z%2Fwr6R%2BAtviaziBFpQvAlXuTUd5dcpnHEJzJ27gfl%2ByI6MxioQl5MN70Ormy86S8up7p5DRL6%2Fo7sGC79j%2FH95sgd4Vn4XttGxEbx%2BCPYJE7pp1mXlO28u9TniFC6XgI1jRlIaNvdPC0t%2F3G17Smtclbc5O2pg8iYR9ZlKII2AOhH4Pv87sGjyfygibw8fSy3sxQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674125412%2Ff793eedd0f017c0f539558763023714b%2Fimage.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674125412/f793eedd0f017c0f539558763023714b/image.jpg?Expires=1781266727&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=SgahlvqHp3iLPUomZT5HNd%2Bic1a789BhzIVkuoSaZ%2BXF6upx1Gh96jGsKxYFYOXxV4eLbL1F6lQ9jTnSxXpQkS6PVEuLiFQML%2B3VzlFsM1ZFKmySDuQRdkR6NKsWx%2BV%2BgJVzzbZ9E3e0wCvthG2G5pCWQj%2FT3SUnNPc7UxqYuVsMOHQDQsslqTmPyiZhelPyYeWZm3jWryXEX1G3Td0d2aAOn0SqF9FCPNvRwGSnIMEhv6GzwMP0ABYAeJ%2BAhHWeV9TQSY%2Foh3ZaHY38ph%2BZhxO0PIoCOLa38KnypT89x33I77LrmAPY3M7aBk%2FhVslo%2Ba%2BxiVlnDARCrrhcTUwD5Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674125412%2Ff793eedd0f017c0f539558763023714b%2Fimage.jpg)
 
 #### Comments (4)
 - **天才のその上をいく天才** (May 19, 2026 09:39pm): ライオンの赤ちゃんです
@@ -4606,7 +4606,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1781266337&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=dJ9lk5%2Bf5nzMv%2FRJ%2Bf7t3Jn%2BpEEXQHoLd1kAasrR%2Fag857%2Fldf3P5llmpOArqB1UwsX%2Be%2FKPq%2FxjlpYvRUIt5j4HM2Kp7i0ujJ9CE9PTzRil%2BnACoWjfImVB5A%2FkjQZNf%2FzGSBNTmqqDzM3KdudPUGzOh76K%2F%2FlyWDnAiE5Lgoev1vv34bjyU1FyKhEKJf60U4l0sgDQkjX7r0hr%2Btf6QRno9MTj0pPOOZBAREWYanQ20%2F2AZvxtvz71wNiFpSkI%2FRI4Fv9P01TlN0KxipyTBUtXqtwMs%2BR1ZVrPC1H2t6BnakDIlD%2FsBGKM2GN6tzLOKc7ThLUxwLl8ZdI91c3L1A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1781266727&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=UF6Rz%2BWRugC7VNtMPTQj4snCUL7%2FKAteH%2FE0tpWB86XORHRgZtjrzohdCVxjItk2aAsw08%2BCWYnTDXQXdX%2BcS%2FmmbA1HgaQQ5c6Bes1SNVpsnKKU2H5lv2Se2lAIm1ZV6WN2G7EHovBJVHTJHuLeWIFQqGulmBigA06qXnVjHPM6pxt9BWSsf92y8pL0%2BWDorUdxrJHH4hF6hD3b%2FcLvkqEpltutPPkt57KF8yEYVOWxvj4UbhvMFLLWZy%2BKyf%2BzyKxd5fzoxt9EGyhNB%2Bt538eRuSj%2FeShdqhMDDuivtBeijLrvKJwGdKe%2BvP8ERYqscF3dUpTIunkHuUcuryCqOQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **東方神!!#琥珀の弟** (Apr 26, 2026 10:13am): コード打っときます
@@ -4662,7 +4662,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1781266337&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=LBEB49%2FcFTrcsqT6kO4QbpgwSDQMpnwPAI5%2FRi2y6%2BDIkyPqjdPdjTbqSg0JWzsQaMnOlqGyALVUm5J%2BAeFL94yQrl3V08L1RaPujG%2BkUJzug9rP%2BFvCG0yRfWBp4zk%2FIZX89kB%2BrGcths0GgjVii44lQZEvyv7opq2rdAGVHqAuKrCUl2BOL3g79UzAk3tgZ7D1hnn5dFbXR69nlodlxS%2FHjlsqOeCLDPa5uxm8LWKM8Hx4Kw%2BHkzu3AZrFx0RkRzNF0ZOlPgZnIR1TI%2BrV6nxYZPI9M7aMsFECbz5ri3t8g4nGfdo%2B5rEoydvIf8SFaAhTdcEJszYF67AIDvvKrA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1781266727&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Usoy2ihMnZVmO9VCyLxmoTyDyopyhu9pNNi5%2Fm4aTnepnpEIgDfnOD99STY6qF%2F8HtaF%2FLiEOg3AHt69vcKXbuxjy0mcFyl6FsUj%2FjlbUAp7yS%2BrtEGgXh0zfhhAPdtsOvuJ7b7wIl3xSk4pCxCA3ILg%2BcPhDSKY4VqLl87LhzIyZ6zsw5rF%2BAnc6KyD2G82CdHkTbp0heSBXGBzLZ9ti8BBTzT9dq7VTuQj7sGXMFQuu5T0TZsVy%2BBh5aGJbYJvnDT2DAiKHLXL0RrBthkl%2B1xv5OS9Tbak2LpQj8RtqXnjDOAljcXKXxGrzyCMYpvzbbrZ5Otloq%2F51PVghpZlTw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (25)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -6067,7 +6067,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674259173/549a674d1f586a069d6ecda8e3d8b279/IMG_0057.png?Expires=1781266338&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=DEhi6oLqBiMP8z49EtJBxRTqdUJFMZXZyXTn8G%2FD33FwoEW454YtRmNML71LfibkjJvmq%2BFv%2Bc%2FuXnxK7VFZ3KoU66xLt%2BJ7WLXWQy6fb3SsYuAwrlbk8HRlJ%2F3az0bA7cBRkLUl4hyTKZ8hBoF9eT0AElVSN%2F9XJvrMskbfNV55KOM5KVFbK510iKMwYb%2B0n4tEnP%2BbzLdFZSkVZFm6udVrE9sgWwBP1nsvYGMplSgF%2Bg%2BVbbZgKEAGt9xVmmbJ9BI80GKbAkIrqEKRXdsDqsZU82Q5%2BXrSG%2FikND9L%2BMLoFV7czK2GVlH76daY31e4YeHnBSPdXAMF%2Fu3s651N3w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674259173%2F549a674d1f586a069d6ecda8e3d8b279%2FIMG_0057.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674259173/549a674d1f586a069d6ecda8e3d8b279/IMG_0057.png?Expires=1781266728&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Pz01G3ujZ3SNxfbacQEvWvJqjF03wSBPzi4b5PmpBOp4io5b0nr4bIeDwIswjQJVRNJgVpWxsBNPi0AxzoDGYhnEFRm1ARHOqfSMQctxSPCBB7WVCh9qAVeWg%2BD40LmbI%2Bxwx6293tjLNpQuipnRjx2hImRLlEoYN9w8UHpY1i6MfnuMszuncdztsg00NGN%2Bv5f5My0zDxipGEyZwHtY9UsbOpfnGbRw9DvmwCqQ1xuleMJkEnD2D2G7B4CRnemnNwf2AcVsQ8b0kHWG4P0RREAhhNUAkzey9jf6IWPfY56eIPxi3LvBLiEVBePE%2BpzVtfyy3ng10rMdgvfqCoTT0w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674259173%2F549a674d1f586a069d6ecda8e3d8b279%2FIMG_0057.png)
 
 #### Comments (6)
 - **天才の上をいく天才** (May 19, 2026 11:44am): 後ろにいったら天才くんアイコン紫が送ったやつがあるからそれをひらいてマイクラって調べたらでてくる
@@ -6091,7 +6091,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674259173/03468a0295ce28f17ea75c87af298660/IMG_0056.png?Expires=1781266338&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=gPNRLfuxJ%2F6k4orjNpoYBdI09QfsibzRBPpUcy0jXsyDxgDI96%2FRdePqfKx%2FuwQK69b44B8fOCv9xctScBu3MtKjRTz7FEDqqA2v2QnGNrUbObsd6CI0VMWVSrzsqyUGT7dUfIybu%2Fpd0gHpLYPWkJ5%2FR7U3HxRwKdlSoxjXNvJ7DKQaiKzaCcsRRIIromit%2F%2Bzfvk03kywJl0m8LPa33gxMw46tdzMy80YikrxGkhY2ChmJ%2FBPhKfex9SVLqK7wlE4izTa3YAFoHFWalPZPJhvNBtXal8JvKDI6xV1MwCvRSxy4Myr9WoBN9tjKQo0qBaIxMG6mhQBtuqL0Ogzsdw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674259173%2F03468a0295ce28f17ea75c87af298660%2FIMG_0056.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674259173/03468a0295ce28f17ea75c87af298660/IMG_0056.png?Expires=1781266728&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=gRzCAvOGu3jeWjagEUFCkTV5pK6c1BM%2FR1%2BJumL2GFTOZTI%2BrwFnbvgKXir5aPRKzk002n%2F5%2BWz9jzatWOfMCwxtzRbqUqieuXC3xD9NLTXnhBKiXPSeg9BYHf8ZEGYVF3ltb6NCd8A3q8k6foKRGnAxP2WljHqbM%2FjVyRXBrUcrYBNmJ8BkV92CL3R8SckSE44WLwWsPcLZzVfzxPF1aqOOlII7BTDwA8Wo%2BzcZCWNhERMogg1J5%2FiyHje82XeHbXj%2FOzGY1axLR4THmcWto06oRtsLGm4CpF66t3Ng9juP1J9Kprv0%2Fll5BLcsbJxdZAbMLONaGl9MaCkZFtKsZg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674259173%2F03468a0295ce28f17ea75c87af298660%2FIMG_0056.png)
 
 #### Comments (6)
 - **天才の上をいく天才** (May 19, 2026 11:08am): 僕は魔人ブウ編パーティーです。サイヤ人の日魔人ベジータリバーシブルチェンジ
@@ -7378,7 +7378,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (16)
+#### Comments (17)
 - **ハチミツ** (May 21, 2026 11:32am): 欲しい！
 - **ニコチン** (May 21, 2026 12:11pm): おねがいします
 - **時透無一郎** (May 21, 2026 09:30pm): １０人来たら教えます
@@ -7395,6 +7395,7 @@
 - **金しか勝たん** (May 23, 2026 04:14pm): ください
 - **真田左衛門佐信繁** (May 31, 2026 09:35am): しね！櫻井優衣しか勝たん！
 - **Anonymous** (Jun 03, 2026 07:39am): ほしい
+- **クリーパー** (Jun 05, 2026 12:13pm): ほしいです！
 
 #### Additional Information
 - **Post color:** Black
@@ -7410,7 +7411,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/c243c893243eed3005d27e39ed26fc2c/image.png?Expires=1781266339&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=TGGL8xpvcoYGlANDmXYzzPnlah5XZwUiE%2Bzi20a%2F%2BvSx71CTJZKlq7Lc0QGcLUCp3avXv%2Bo9huvr7Lzfk8hM853QITrfKEyBKcVu8qJ8LZ%2FuLa0ZjGHdTpdqr0GlSafViVqZ7Cb%2BHSyY3W3HLe1k53LyYqZoY3uL4%2BC8BvKdL%2FfoW%2BYE2H0LuuvlIunUSEXz44Dg8uQ5Kig0cjFLEraAfmUjJomS8Eqh62EkBmi7WaHV3ELzGXK%2BX1n0q5OjQuOiYJJYOT329NSq2ViGJ2IzizuMub1KiKSB7%2BQmKF%2FkDgAZk7BcSERk3XHe1YeSg5N9%2BBeMQdFqJJCY7o%2BPCkNktg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2Fc243c893243eed3005d27e39ed26fc2c%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/c243c893243eed3005d27e39ed26fc2c/image.png?Expires=1781266728&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=gr23JTyLvIp9OzuK98PoR5UH3HSrQ2ZB3Mrc7U9Srr3E0drag5CRVd8kJN9uO9ICupGEX8k6TLDRtLdS4hlRwibvIIN%2BNUOrWFeZsJWNx3pjxu3UbWtdXuC6vKSKUwG38INv0xgkk6BP1Fz%2FurzYwRO2XUVraXl4tPoBlfWSBgZm9z6Y48WWxOzzNgUFGzfZTqW0DNtKKoZO%2FfmiEmzQL2VEUiWzk%2F%2BWtg3da077N2%2BUdCmECSJZi6z9lst5xC0tA%2FaDejeEMHGTXfGZo98tkXia2h64DrU0W6Z7%2FVT%2BBC3TI%2BwxU8ql6Sl6sjlFJQDQ%2FOvTDIynUfQQnzUneLjwNQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2Fc243c893243eed3005d27e39ed26fc2c%2Fimage.png)
 
 #### Comments (5)
 - **フェットチーネしか勝たん** (May 18, 2026 09:08am): もう確定でしあバレてるな
@@ -7470,7 +7471,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5635963877/aebe97d0040578f9bca38a481cc522fe/__________2026_05_12_215735.png?Expires=1781266339&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=IbIYglyvoCoS3w64MMDU6Z53rO2Wy5XBolWgbtcUkg9NfbhojjLBstiB%2F3ZzVtEFJozzhbG0aR9Cs9pq%2BBzsJ6vm2rDx4MHufAqrfjPY5hH24i%2Fn0PQ9l%2BVggdQ8T%2BaO8Mx7jMvDVoTbZJbUNvvSvXZxisWFbd85FWMWRjZoZ8vUuHA%2FIPuF6GJK5H9Sq5MAg1vsQwqMJZckjzKq2Nt1MaQxk2lCJwajW1d%2FwoBtllKy3XhuuTpyirPmL0Rda0UAkLdgqvaYyrwH1Cpvjcol%2BKGmOqGOUhIIZgqVvM5l1wWeE4ZavA0wAvv955EgthS46HTtLlVcuYslSBXtLOpheg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5635963877%2Faebe97d0040578f9bca38a481cc522fe%2F__________2026_05_12_215735.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5635963877/aebe97d0040578f9bca38a481cc522fe/__________2026_05_12_215735.png?Expires=1781266728&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=K%2F4lmmv2asAnjsnKhV%2BUpvJpnExnBZzh6UQ5e7czjFaJFIS6ypXOjcWUaYE1ZupWt%2Bm4wdxD%2Flj5nbHYH9xLxwvdtRfU2d1dash%2BbT9ouYJgSZqtDRrH8ZNMqhK8IOdyid4I2G%2BD36U%2Fo6pFP322%2FogPv8Olue0TK72UpWx2qZd%2FLixsgaZ8a4VPzCBIKU9wBdiEX4ia%2FXvDDXqtaoFWxe8ra8qFeLXtJitVkXqX5%2BM4x%2FmGR615anrfbNLjGfTmh1o%2FxbyuoArsoXEbr5aX8evLKAnoAcDYQv%2B4RbWYLYGUI4Jcydw9IjbLI6auHMdvMH48t%2BZk9q63z3r%2FcIOGvA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5635963877%2Faebe97d0040578f9bca38a481cc522fe%2F__________2026_05_12_215735.png)
 
 #### Comments (7)
 - **時透無一郎** (May 12, 2026 10:20pm): まじあｋ
@@ -10977,7 +10978,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5680532527/b96ca5aeea14e0ae0ac1ac297d807a66/drawing.png?Expires=1781266341&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=EdjPI9RnadD6Ajuhjbpi128xYUzanGCT%2FyqyZ1HWjd8iTXgZlM1vVrR%2BAtxs2Qd6mwCX3XznsPIeqddJaCbpNuj7f6AHcBhx6gL67FMWFhYtZDTMtPaoRR4aUZ%2Bh1VX5XcJkMJwXLK4psNIKG66j6JySwOeq9GmItYKYluYrb%2Bcnqy5FJH49F8v3OTXUStVU3yQ8Kbp6UaaYgMLCipFP%2B4isqmqeDjyicMoVSqAKvJnLnPjrwPkY0iVozjFCb%2F6%2F2WcO41Fi8SDx3fzscx%2B9yVaD8OVzQyw5KkUhXe96%2BIA8JYfMzTCTfaprrh0%2FvPD5FObiKqoLlGRnJCvhuI1PPA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5680532527%2Fb96ca5aeea14e0ae0ac1ac297d807a66%2Fdrawing.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5680532527/b96ca5aeea14e0ae0ac1ac297d807a66/drawing.png?Expires=1781266730&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=h%2B9qJDtPegy7KJ5sPcpOSXlbICyFvGOgG3exFns6iSx5cxLBVf%2BXUuYOKXbR6D8%2Fv%2BWe3%2B%2FvH3ZxpUg46S6nOXXWznmmjXpZMl8buQPadVlMqR0m6s2zPW4cMVkpBufnop%2BT4z8ZkZe4d6EZOI1rnoSBuaRt8ly8z98rFpUvAz%2BN4lmGa5WQXZEzNlUPjoXZrKq8oJZJCDSCdm8oV1cyH3J3dXCoGDxKvdwI1VwqlZKHhyEFUVf6OzGK5YMIQ4uH25jirxyDjRvUib0fcZI7dwq8OP430MmZz34vD5S51Q9WF1ruhqPIZOun3j0wF9bYeiuh65rTjJZ7sPBPcmrMAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5680532527%2Fb96ca5aeea14e0ae0ac1ac297d807a66%2Fdrawing.png)
 
 #### Comments (5)
 - **ふじ** (May 20, 2026 11:34am): いない
