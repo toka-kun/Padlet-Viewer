@@ -1,4 +1,4 @@
-最終取得: 2026/06/05 17:31:04
+最終取得: 2026/06/05 20:51:57
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
 - **Posts:** 13
 - **Created At (UTC):** Aug 27, 2024 11:14am
-- **Updated At (UTC):** Jun 05, 2026 01:01am
+- **Updated At (UTC):** Jun 05, 2026 10:08am
 
 ## 概要
 
@@ -70,7 +70,7 @@
 <p>内容等を追加、編集してほしい場合はここにコメントをしてください。</p><p><br></p>
 
 #### Reactions
-- **Emojis:** ❤️ (3)
+- **Emojis:** ❤️ (4)
 
 #### Additional Information
 - **Post color:** Purple
