@@ -1,4 +1,4 @@
-最終取得: 2026/06/06 02:33:16
+最終取得: 2026/06/06 02:59:19
 
 # Shell Shockers 集会所
 
@@ -55,7 +55,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/@%E3%81%97%E3%82%8D%E3%81%8F%E3%81%BE_shirokuma">https://www.youtube.com/@%E3%81%97%E3%82%8D%E3%81%8F%E3%81%BE_shirokuma</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3024116910/2ca4861000cc8f71f871d9bbc39dc0fc/channels4_profile__1_.jpg?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Nk6aFey8WFVemC1L9EVwvIdsU%2BZ%2Ffpk776%2Bz5Dj%2F6esx%2FVZwpjICO6brlXV9GqYo5nUL7%2FfkLzMpYMlQ3rIzwK8IFhaQ2TVf8mPpZTQRBPn12RzwZBv%2FGJyG113JUlRPCjFv5DoJ8O7Vk1Bl1EzfoaC6vYpNpz7NxCs%2B6uPN5J%2Fh0inrNaGXD97pZJwZjGMvm9yVsqpHcUlpPhh5bAA3OLXfD%2BmiTS6a769SrLChAE1yldz1UJvhE%2BBgJ2ziMt12q%2F4KfdDzmfbujk1H%2BBlQs5iCMYI4LHeMEi3QEj4kc8suRNgVcZpE6hwfWiliAlG2UDxYeYkVyZka%2BOjXtWsFQQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3024116910%2F2ca4861000cc8f71f871d9bbc39dc0fc%2Fchannels4_profile__1_.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3024116910/2ca4861000cc8f71f871d9bbc39dc0fc/channels4_profile__1_.jpg?Expires=1781287156&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=mFMLtVml5qjMoXWi%2BAVTZqgeCGakJtKEU%2FzUGZ%2F9lhfjk6fSlpBIHJdh2h2yTjZ6QTDtvQBDndl2mXzItGTl68t9eAhwCJ1N8LFT2LwBVbpKWvcz1s%2BBeFlGijPAke0y6eG2lV0y4S%2BiBFa5U4w%2B8dDBfrW0VFcqczyt%2F2H9YJLbq%2F851wOC18c68wil%2Bdm6XfRBjYqr4QL%2Fq0C1CoKCWv9%2BvTmAQQpGiUqbj0kYjZhpYz9sRx0cCB7VuBRA%2FNfg8tFvrdnHDwvFxLN4hniUL%2BvsnxOx0NmtpjPDjz80pQg0MAFftsWeiVZre6H%2BXPuZPvqOGoy%2BnYoJDIb6SBHNVA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3024116910%2F2ca4861000cc8f71f871d9bbc39dc0fc%2Fchannels4_profile__1_.jpg)
 
 #### Comments (3)
 - **𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ** (Dec 09, 2024 06:30am): 後で見るわ
@@ -102,7 +102,7 @@
 
 <p>LegacyShellは、BWDからのDMCAに従い、プレイできなくなりました。二度と復活することはありません。</p><blockquote><p>following a dmca from bwd, ive taken <a rel="noopener noreferrer nofollow" href="https://legacyshell.com/">https://legacyshell.com/</a> offline, forever. this isnt a late april fools joke.</p><p>thanks to everyone who played and supported the project, and no thanks at all to those that tried to bury this before i was forced to, who have indeed proven why we cant have nice things.</p><p>this will probably be the last major project ill have undertook now.</p></blockquote><p>訳: BWDからのDMCA に従い、<a rel="noopener noreferrer nofollow" href="https://legacyshell.com/">https://legacyshell.com/</a> を永久にオフラインにしました。これはエイプリルフールのジョークではありません。</p><p>このプロジェクトに参加し、サポートしてくれた皆さんに感謝します。そして、私にやむを得ずこれを葬り去らせた人たちにはまったく感謝しません。彼らは、私たちが良いものを手にできない理由を確かに証明しました。</p><p>これはおそらく、私が今取り組む最後の主要プロジェクトになるでしょう。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/9fc50cf55ecf7e22bc21ffe6aefc92cb/Screenshot_2025_04_03_01_19_35.png?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=d%2FGu9eUVSUSbT2zhXop4lUeSzMfYwz6kbyjCG9aNu6oWFBQXIptGuOWiPygIgHG9xuxDw6MTJYqnsufXklUFCjwEsa8d4uAYc5dYeNIZwy%2BKbV8mCICi3ee%2BX6ixMXqxlgRw8uRp%2Bo4kAORac4ZFmvHyujWKQk%2BTqRXaBMlDg7PVWEBEE87%2Bdq77NutXQAaIo623C6%2B3w6VoEJZgZKIrjqxgS7QqBYrAZV06IQmM06UMSGZX7okWDskkkyR4XDxZnrdeL%2Fip1R5MphaKAxOZYihOB%2FDrLdSkdbvq4kKB9cugPkhd7sTwmNf7BTEJhjvSMODQ1%2FqUsfnTRdeTMU3Arw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F9fc50cf55ecf7e22bc21ffe6aefc92cb%2FScreenshot_2025_04_03_01_19_35.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/9fc50cf55ecf7e22bc21ffe6aefc92cb/Screenshot_2025_04_03_01_19_35.png?Expires=1781287156&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=IhBnfT45icRwn4QjSz%2FY6mAjyN0jwr2N3IjmOIGGVZF1ynN0EQUrH0yt6GiaAqh%2Br3jG3UIrMch04%2FgbCKnrtxV1%2FcMnBIjblsnCFvZpcu5%2BwDnAr4xETWs7j9uLIeoWllKB1ttCXCQTuSb7COFlJlE5EjOKpFFPfqOkWk7eSoy5RU7c4qwrrZKN9hm7VB6pzPV2d4v%2Fo8CoT57tmwwgqs0gWkCGWy5cnxRuabl1QHot0z%2BtSWxvQ%2B6TUdjvWu4g7pi%2BF5f6mWVi1uRLXMfn9v75bpubF1D0DCfgp%2FxzMlpxnIqs8SB%2B4iiZejArFEZVTOW2mw5GKDnyrD4Yzin95w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F9fc50cf55ecf7e22bc21ffe6aefc92cb%2FScreenshot_2025_04_03_01_19_35.png)
 
 #### Comments (9)
 - **典型的なこきです** (Apr 02, 2025 04:24pm): GGでした
@@ -130,7 +130,7 @@
 
 <p>今回のアプデ(2025/03/19)で、ひらがなやカタカナ、特殊文字などが名前やチャットで使えなくなりました。この事について運営の一人は「すぐに修正されるわけではない」としたうえで、</p><blockquote><p>まあ、絶対にないとは言い切れないでしょう。<br>ひらがなやカタカナも使えるようにするかもしれませんが、確かなことは言えません。<br> 私は、ひらがなとカタカナは使えると思っていたのですが、明らかに使えないので、意図的に削除されたのか、私が知らなかったのか、あるいは偶然に削除されたのか、どちらかだと思います。<br>次のアップデートで追加するかもしれません。</p></blockquote><p>ということで、使えるようになるかすら不明とのことです。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/ad0889616effd011acaac6ed7e65766c/20250320_1251_ef7e163e98eded0b178986f8cd361283.png?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=MO0tU%2FL3oXxeYzn34xMJX9Aqi7r%2BComanqFX%2B3p1C%2BulNU6AucxcCaH1XTFGWBp4Iek8ge7AS54RnC2ZiEjVvB6Mh653Wh3h16LyDOr4qjFMpoxCXLP6psGePd2uKAHDisjtotJkzNhRZ0TOlSMzE3IhkTrLdBqVoi9CjqyxrJinD51z27uzssrkphN1A6rUvTzDPgP9HYiPgFRDCsZqD9Cbn1sRZ6eQu8sAnFpwlVi9qsqh5B7Xdlj1c263Au2l9ygucIJ%2FfmdmjBeIZKcI3ZLYtLxc1eg4uY7PkFaFoW0tJiHEg19b93oiH%2F7LxdZYpQnsYsL5pkAIa5iBPGXHhw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fad0889616effd011acaac6ed7e65766c%2F20250320_1251_ef7e163e98eded0b178986f8cd361283.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/ad0889616effd011acaac6ed7e65766c/20250320_1251_ef7e163e98eded0b178986f8cd361283.png?Expires=1781287156&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=fTVERJg7ZGUNx8KKb%2FiZDG5om6l4GV86zIIPsCZUA1NaYFlU9%2BfkoTxtR5X2EK7%2BPlJ0%2Biwzpqprub1EXEGdXT%2FVwD0cPiZtNvN74Ex0wfJZg9E1x9cPTrdb7B3LPsLYOEJWCGB1RNkmmdBof6IJehJR0Awu8MaTcj8SvXCvEDQ1ugsxvsgmW3ICjIK9LcEAd8COwka%2BiaHlNcLKTGhkKN5Wf6ZlymiclUnxg%2BKVzyYG%2FPMhzBRt7ZMeyJgh7HXEFo7c4Us6b8tc449CMAJ7Qun9LDAX26jY8oqCeeli2B5R4zaB%2FMkQB1xYWHw4iPWMvWXkdTV2jvMjPJj0RyFHrQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fad0889616effd011acaac6ed7e65766c%2F20250320_1251_ef7e163e98eded0b178986f8cd361283.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -233,7 +233,7 @@
 ### 4. るるるです！趣味は仮面ライダーの絵を書くことです。皆んなか良くしてね☆
 **Author:** るるる　バルコク共和国の大統領 (barukokukyouwakoku)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2373055819/b5aeabdaef656ffc5beea2cf057741a3/canvas__2_.png?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=gThlx2eFl4QZkccCNwNhZnCI3Tmraa6w0NJfMedmUrM2PqD%2F2W5qimpZ53cVAOSoAknZKH9gdM9WCAhTNdzD4s8KrYKN3%2FVRqCoSFLhSRx9K%2FEegGJMboeZVCRmQiWZs7fQQL9p79Z1lP7l1rB%2FgJJ1XhIk8zQhenUs85R9tW3mPZX12aZxfYJPvQdBflZrtbogNMxkEXq0YlWY%2Fbj6DsogGVBVikauYuPQl3RMq3n8bkCUYN%2Bofup8b4jODN%2FDNCVkygt5O0jhWTGHh9%2BkOkzdRCyghuAPfprdb2phTkzfZsTuXbw4e7XsujoztE55VLXkaEDabPu%2BolqN%2F952tng%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2373055819%2Fb5aeabdaef656ffc5beea2cf057741a3%2Fcanvas__2_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2373055819/b5aeabdaef656ffc5beea2cf057741a3/canvas__2_.png?Expires=1781287156&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=G4qp6Po%2Ff0uQzxWLdlIDMETxbZX1Hai%2ByJMKmhXFtlt7zOa9OUsPbGfdgpz2CSG2DOXXDGXWvkffyoXKc6M9o8KLUkGwcM0Fo5zeUrxd2dccsUx28Za3zNauKOIf1gz%2FZPE%2F5s4tqMJgxMLy0XayWnBU3C9fXEey%2FchKx3x8zmruIHuHvINxOsR2voYBaHms%2FrKjGmf6zsauaFhBbvU6Sw7EwTOGXr2h%2F2ZniCe2j0vLOFirYK26Qp2vkXByGxRMAxB5zpGPKZBner6gPal1ivykdK8Ag3dxhFwONX3akdWaVpuSDhM%2Fxvkqb%2ByAC4BUY6bJxsCTFYtrd%2B1F9CbUfg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2373055819%2Fb5aeabdaef656ffc5beea2cf057741a3%2Fcanvas__2_.png)
 
 #### Comments (2)
 - **Adventurous Moth** (Mar 05, 2026 11:28pm): かっこよー  
@@ -641,7 +641,7 @@
 
 <p>神引ききちゃー！</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3239136421/034da9ba845bbf1e347b695b79557829/Screenshot_2025_01_13_22_37_10.png?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=YK%2F4JLAetdRHFvtcsE%2FTAI3GhGQ1avurnVVbgn0%2FBShMSLnx692%2FnqCwYgSNko%2BEp7b%2B0lfkGafaaMYQl7TSNRvtGTWDw3XHLJCXVEb84SS9nDsT7sB3YZW0bN51SgVgTXVNgy5ZFGvtf3kxWaA0unOPTMG3niWPfUJ9NgjcsiQF3QQO%2BnTGToVXfM3JwQOHlpNDZP6HTEZ9YT8FZ87c0yqjWRrIC%2B14dD4V7expoRpcdBJB1WPguvToj1EJ8r7vNVxyNzwOB3NDwbCW%2F1veOO%2Bx51xeSb4ITWQDysQLRC6ys6Y2oTdFzOUH8Mf7nju2TDQlmx8P%2BsX92I0fiSK%2FoA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3239136421%2F034da9ba845bbf1e347b695b79557829%2FScreenshot_2025_01_13_22_37_10.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3239136421/034da9ba845bbf1e347b695b79557829/Screenshot_2025_01_13_22_37_10.png?Expires=1781287156&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=NfYq90LVfZsp20ou4bjD%2BIUCeAVnUdcADQLAOpe5nhWprX12GhL8cLNTz6Bl%2B%2FTTefAuuSdNKZ8G0ux7zP1Iy3fPsAFrPSznhJnp8qJiViWCzzsuyXSvFPGOHi%2F2gJur0ATpSMhgcmWRMk%2FRz5GEKNc2Z9fXRN574aJlNoVh2ZxqTXheuXbvRA0iQLqRAAlCsQokGzdRkl296YPBm83i88VaMYFV4QF9tcCVWAaBj%2FLDFI6rn3oui6EYBvKdjoY86F2%2FNoCCbjhdBcZLG7dcScu0iwjlmxq9eUZKufbx4pQdjnxOJj3jHZe16uJ%2F93DQKKhT9nsMI2khRFLos3IkPg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3239136421%2F034da9ba845bbf1e347b695b79557829%2FScreenshot_2025_01_13_22_37_10.png)
 
 #### Comments (5)
 - **りどすまほ** (Jan 16, 2025 01:01pm): 🖕
@@ -663,7 +663,7 @@
 ### 34. albino eggk-47 引いたぜ！
 **Author:** 見た目プロ (j5555522)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3239136421/0dff9039d2c99c808d54576cb4956dbd/Screenshot_2025_01_13_22_37_10.png?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=DzqT%2FCTQqaJcKK%2FdYgqERbquHqF6BV1LYdM%2BMsBgW6wj7%2FqEELqB88b9ZMhVvrbRprup3pDtVuUgW9F%2B7bQF6IPhMTG5lkRErXlfWbwLeCh4J6U2NMLdfw6ZQ21Fdwd%2F8mHXWbh3l1B02%2B4736K7q56Nyv14wSuz56gx0%2B4HgiqhzumHdMVcImQNjLgWbdvVSNV7P7%2BGxwX%2FpTMbssPNo8TXOhZIYfymkDvuezwSLrxWZwLJ60lWueuIKo9J6gtaaGjHRHkhhwQGZJc9wgODVlaOa4oEVedOu7D0%2B3hnzpv7tj0Nx1wzRMysdfnqqbwkmk9pwQILJ446VcCISmCV3g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3239136421%2F0dff9039d2c99c808d54576cb4956dbd%2FScreenshot_2025_01_13_22_37_10.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3239136421/0dff9039d2c99c808d54576cb4956dbd/Screenshot_2025_01_13_22_37_10.png?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=HltkugRnKs2SmQVJVFp4rr9oOBkvWzwUG3XcuKK1Nr54IptSoJe7jrZ1OhPRf3KqfoMz616od5tthB7cW7OhLy5eDljGEfVuNqa3QXDuCSSu6neTzeceLL8uk3XVl8rg738qsTQCLsExg8uN4NZq8mt6plNYrlrqG9PatpNdgAJIPmR9C4wqTvuwG1OA8bMdHzpWVxOKlwTnzNCLBZrVOMSN35Aex3iOAiHnyNDoYOHatDToHvtI0soYxgZZxX1svmoKmwez%2FMqaPwGFAjAUe%2B19J06m80Y%2Bv%2FGpgkXyf4HfZc3OaKHmFRjUgyBnfv2VEgKRjfatwT0TCAwWcA0erw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3239136421%2F0dff9039d2c99c808d54576cb4956dbd%2FScreenshot_2025_01_13_22_37_10.png)
 
 #### Comments (2)
 - **OBUTAMAダス** (Jan 28, 2025 01:10pm): いいなぁ
@@ -891,7 +891,7 @@
 ### 50. killua
 **Author:** rido_k4mo (rido_kamo)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2499250589/751de5a404f0d4b22066fe424f8720e2/e60afe54_c58c_4569_9235_99d783b34a94.jpeg?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=ecC3DGIL6B6oEJAzHG0bSfKhhq5gojlXBmQuZ52E1mgSspWg4k9gA5vTg1EX8RiMtBxfdvkp7EbrJkjdjHkMYKciDIJex2NkSffzYWL5CTtaBEFqqy3ra74tA3FrGgOkV%2FYb8QZW4uXvwhBq3aJxNIeDFeYohBuVtMM%2BEQIos13LCLGKQM%2BPGuJY5gxy7GBr7rsP0Ew%2BAYq1vM373Xr3y7Cxu5whp9SXfcF3sFe%2FypPbWyZ8qO%2B%2BnfjQYQ1869ZEjdMhkp6R8RKsox6Vbv6Wntt74T%2FwuA2vtVJRcjxiDe4LeR3DO5IpnvOuOwttuerRfd9PB4g0LgPFp5%2BNM4xEzQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2499250589%2F751de5a404f0d4b22066fe424f8720e2%2Fe60afe54_c58c_4569_9235_99d783b34a94.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2499250589/751de5a404f0d4b22066fe424f8720e2/e60afe54_c58c_4569_9235_99d783b34a94.jpeg?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=SzmVaJbR5Wfqm0n8CbXQWrO4hI3WF4ygPZTIvBGbwiawaGXbo%2BxHqFuGcA4kasOZty7iciNxGt3Kdk2%2BfAmgtqrSeBcnrraumgwzaKOP4pTmyVZZ9GDNLRdjgMfXVRvV1tiTZlwAzp9tE7VHabLP98GwjNHc1Ikt9Avq4jgVam%2BV0%2Fporpiq2DAgBXaY%2BwyulQlOibKkP3cyVdGo4V%2BkAY05PlHV4p9mXrlp%2BvLmE0TCsz1aD5uYXgxaMk9ItCLumAS8ALMmK67Djarftl4cWVpRKSK3nBCeNqTGwEHsgpMgMVOe%2FADgiS8mpayFNH1km3gUNRBv3Tp4TDLnq8HIRA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2499250589%2F751de5a404f0d4b22066fe424f8720e2%2Fe60afe54_c58c_4569_9235_99d783b34a94.jpeg)
 
 #### Comments (62)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jun 03, 2024 07:18am): 一応いるで
@@ -990,7 +990,7 @@
 
 <p>名前 プレーン 始めた日 ??? 主武器 全種類</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2446597452/ab6501cc36c7846180888d26aecc5a36/______.png?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=AHZLkedSTe0iUpMU1DS%2BytDj7K7RSz1%2FMzF1yg6BRoJIaFjP6sYloRki2TvZdCqoaFrUbX0VbQKSd6PwmyLIM60%2BHGCL5eFppKoacj22dfWy6vadnQl9CoZrgkvAOphgWxNOB8A5jy4xN78cdiyrs2uZaoKmp9oz4c%2Bl%2BckAsPQQqrX9X0IooWQAATCgle6HVpwlAsCs%2BRIjbKJFQoABdtt%2BCArr4FJp08ltDm2QID%2FylCaK4okeCvSqGep6VwxSEo7RMiiTQsf0tEopdcPpd1SW5Kr7zOkVSKpg5FM%2FdsyOglvgKOHY23KmGHHBSSPv%2FXvYwUQDQwTtZ279OS3pxA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2446597452%2Fab6501cc36c7846180888d26aecc5a36%2F______.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2446597452/ab6501cc36c7846180888d26aecc5a36/______.png?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=nmZqN%2FTW7Qu872HCXo9DSGZkyMmDHdTl%2BD%2B5ZuW4rdZSBWPPUOJ%2FyFbhlPcXds5eKfLIvUwJ5wwyw%2BYinpVed651w87462wff%2BQHgrzdi41gnx4lVP4%2FTDV8GfotuGucypqlx8u0ZC6eERV6ui%2Fkl9hzOvs4GezEPgJbFKsILEAEaO9K%2BYytjP329q7llrVBLx5DGggBJNlNvtG3SWaYMMmIwWcPv8TIvUA%2FQoQAplFvDpmjr5zAW1OSjVWs8gmimxGvt0pPS1I8kqz2o%2B6%2FPKUX7VjtwOCsT0ip773p8ujyZiG3PxD7ODqoztiq%2ByYidW3AtiQQZRj1O97RP5tMyg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2446597452%2Fab6501cc36c7846180888d26aecc5a36%2F______.png)
 
 #### Comments (2)
 - **Anonymous** (May 08, 2024 03:26pm): よろしくね。
@@ -1009,7 +1009,7 @@
 ### 53. ᏁγᎶ » 麒麟🐲
 **Author:** KIRIN_RYU (KIRINRYU)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2170841205/e767d620a2fe3752038c03065a4fe5cc/hunterkirin.webp?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=c5REnItzhQbx2xXM13FMhkpikfpyACQPTcBLZKN0Tt2%2FTeb3DIkF%2Fa2obBIcCgwfJ0%2BDqS4BeAHFmz0rmPJ%2FYM%2BupOYn1IUr6AtuBYsUqDf8avitRFkfAD7WMjXR3i7lRbu7tPS9W%2FZGFJTu9OmEUs%2FyFjVzNak1Fq7x3NChT1xDx5GKOIlumYAAfnrkQa%2B%2BmeoRNNjjhFkKAFkJgQaARHElZwNeqewP0rjzFOfDx9C6IEEzFDanmcxWW29AJczkUh8f3turvFyIySpf5z5Mfgvu8rs%2B2bLUC83BB8gMlZDruGW4MBAti5%2F4RRdbgD7cC3jJGtHApfyAjyhxxo14Yw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2170841205%2Fe767d620a2fe3752038c03065a4fe5cc%2Fhunterkirin.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2170841205/e767d620a2fe3752038c03065a4fe5cc/hunterkirin.webp?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Zcicp5ylDmfbP1wQzVR2q4TLWl7nL4Q%2BAtHpRX3l77cDe5CaVgE%2B0qyP44r0nzubPVIRvp6eMXH9V%2FwDba52MukcD5K2miXRPnJ%2BxX%2FWSGUx%2FedARtnCS1zzNAUoskOYskMN1uqYj6N%2B%2FAbp2GguP47Mlxs5egjXrsxDOkBHgJVEU9lsRTLh%2FB5ehmz4ygj3R2UaKveLIuW7Exs%2BR%2FjIuasxSeDR2Sd%2Bcdwm3BN2WZ2oA82VUGHnH%2FFatomFY0%2ByOze4SrBf5kmWFuwR8N24S1T6HWHmRD6aDI5uFeMoemOqX74KKolkFKw7DkT%2F61tWFhPoPt6o%2BxUgGjxXrbKpUQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2170841205%2Fe767d620a2fe3752038c03065a4fe5cc%2Fhunterkirin.webp)
 
 #### Comments (1)
 - **はるきんぐ１２** (Feb 13, 2025 01:28pm): まじかみ
@@ -1082,7 +1082,7 @@
 ### 3. ケツついてる
 **Author:** あいうえお (gtr35aiueo)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/5a06207ecacbf9d8a6ec8daa5ed06c31/Shell_Shockers___Play_on_CrazyGames___Google_Chrome_2026_04_02_18_52_18.png?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=XtrSvaJ5Q1gFEHgj4xtdtAqkk8iAdtiivT9oaN4iWvhBdZWY%2BrHHIXLz3ytjPfxenjvG%2F6qtDgwPcsd%2F%2BrFDAitUzhP9BGPmR4SEod4U%2FkT7tvM0yjklLBgJG%2B0L4gRw9w8g2BvDXNHPWUc75uQHZmhXMBrXfDjwDMNBjSZtzY0g78JNdi4su35BjSuy1KQ%2FLmECMzyTCByUl1LEd0Oa%2FRnUphLteyJ1Vl2oVDvx49M%2BS%2F4GCkohAZnTbv2xRDYIuLCJMs6xx8097E2Q0YTqQYmLSP6A97JOP%2B09WCvZLtJu6HQYhr6z71Ix7gdmeGek4HCIiMjxZYB18%2BlxXTCyQw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F5a06207ecacbf9d8a6ec8daa5ed06c31%2FShell_Shockers___Play_on_CrazyGames___Google_Chrome_2026_04_02_18_52_18.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/5a06207ecacbf9d8a6ec8daa5ed06c31/Shell_Shockers___Play_on_CrazyGames___Google_Chrome_2026_04_02_18_52_18.png?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=M8BOv8b8JPpLm%2BxolV7PsX3AAGFFLS6zSE174i18hpoPCNDegrj95TCzreu24D9SnndEeOgWJjjqaU62XUMF9yxemc9mfaGGR1U0frKhvDfJqhp%2FxrekbThjDbCgUaoOTHblcTfQEywBfr%2BzOj2RC%2FWXsFYUMR6dRvlomRT34hOfpBMgexfXrNn5TUoymBE4wMmBLHJY%2F29ToDrnYU39vlOdixEPGZ9t1sJGc7od4BoidNfTjfQcjdi5d9MRb%2BBKh5M3lqsVAeiugtuT7w7ahIDdQQ6RQjJXhJpPNeFMfZmVO2W2GZS6WECE03EEnjF7T6jlYNnvW6r4N9GKkgEBIw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F5a06207ecacbf9d8a6ec8daa5ed06c31%2FShell_Shockers___Play_on_CrazyGames___Google_Chrome_2026_04_02_18_52_18.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -1107,7 +1107,7 @@
 ### 5. ロード画面から進まんのやけど
 **Author:** sknt
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5192848575/49b20111b3b0a3c33553262b908ceeb4/Screenshot_2026_02_17_21_43_49.png?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Dla4CPCyIrQSsmUVNBsFewstxCGFK%2FuGIsrlf6eDZVJFliFB3LNaiwiNH4w7lfjQs26lqmw4o%2Bz5550BLCIBpFJTeyfE7FeDoQeoy8H2qZnsZsvKNcQ05ZeVSOwGYtNKOrc5l3AngfKt56To0RVVC%2F8OObJQSFiO4GbuzegciOdIky2y75x1TU8YqCM6wWpxP2kdAzt%2Bavb4sRiz%2F0qQA99yqSF7EIcC7NTe2KcQRm5l%2FtEwd70iCLBr54fjgBfYB%2BSBCMaXMAkYTLRWIYUCGtd4cVSWxg9vPG%2FzX5eHITTXiXL2EIPbZmZfhQY3b9ah7X3yUFy78RqV9iassf87GQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5192848575%2F49b20111b3b0a3c33553262b908ceeb4%2FScreenshot_2026_02_17_21_43_49.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5192848575/49b20111b3b0a3c33553262b908ceeb4/Screenshot_2026_02_17_21_43_49.png?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=SFyhPOD2CpZ3m1UgU%2FypLdJ8CAqUeIvtFr1zhjzQfb1WzSSbTiUlELzBFLe8gV3aRA%2B3QpZQ9%2BDt5qUnvUojDR0aRC4zk%2BHOd7iQ4Bqu8AEigIGxJJSJKLVVQSz1j8flCqS1EV17RvXqyU4qAQ1tHt6n%2Fhfc6AJpgme5bnrnaX5x38dnBdJq3J%2BixVtTvnqL6RsJZV7kreETEGgstPHFlxflcEilShdE2PQvOsPaaGxvJeuDIp%2F%2B9Npk4OWWAjbfMH3Ai1j3nxCZYcoZnslDLBJ7RSE0WJTigIYBDGqOTGO9MHTeU16NfjycU6G8Iw7XVUY330GSdY6wPOpWQp03OQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5192848575%2F49b20111b3b0a3c33553262b908ceeb4%2FScreenshot_2026_02_17_21_43_49.png)
 
 #### Comments (4)
 - **常闇 トワ（不地口手万ディ）** (Feb 17, 2026 11:03pm): それなｗｗｗ
@@ -1127,7 +1127,7 @@
 
 <p>ｻﾐｼｲﾅ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/0f07c544bf60d683c56314317d71c349/LegacyShell___Google_Chrome_2026_02_10_21_11_42.mp4?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=I6gkx3HNo5SNDkmM%2BdILg6QZcnWmzBrgNSwmIVsSA%2FM0DFDSOS%2BhJajbkUdEW2UZGhm3jhurKGP142pllo00YPiKLSWhSJTWTInxUrOOdaFkwOC0BUO3RvVkAXdOAKJD3rGMacizs3f8MUkVkLxdVxPlWDJQIRbpqs76abSxT8vE%2F1Dz1f2Jd7wb5Smrbw4uY7rDXsaNhJm5SXX2xLiYxEjhHBCEQA6V5QigpVf7lupOY8ncDRuKemxOqperv5QsKE4MSeaVzwovp1QYkyKNMIIs1PVSgHNkTxXaFkkYRq7j84gllKIjI4V3wb4mrzbQ8vmEZt9pMahoLMFFRBtHQw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F0f07c544bf60d683c56314317d71c349%2FLegacyShell___Google_Chrome_2026_02_10_21_11_42.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/0f07c544bf60d683c56314317d71c349/LegacyShell___Google_Chrome_2026_02_10_21_11_42.mp4?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=jFpx5EsrqnEJakz6wAnDyUa5ENhkYGZsNThd%2BsoVf0LI0eSfoYf0aMJNigtao3pwDiSdrO2o478nRkF0OEZzLuS0pWWQ2Ys0ewS%2BOyN0S62rWIv%2FCm1NJPP9%2FLD73MtchbRo9H5GdFMLfYZi%2BkSPtMFRkEOSYKdcGDhcTgGd5FRQ%2Fdk5CLEEyDYkDANfHdqHu%2BTjp5HvNNnKHt64DDYAyRENdmn0dnMFObaKiOqmCJj%2BZTxCqY63orq2vC9k3615CN1t1Kj6m1uqPTppGEczRxzabqfyfwkhBCOaySHSE5YqkRAVktq11ILL8YhOP8a8lI3sqni4qdg6cdYXdeLRyA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F0f07c544bf60d683c56314317d71c349%2FLegacyShell___Google_Chrome_2026_02_10_21_11_42.mp4)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -1142,7 +1142,7 @@
 ### 7. imihumei
 **Author:** あいうえお (gtr35aiueo)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/8a4e938fcdf952ac10a8405752f4ab6e/Shell_Shockers____CrazyGames_______Google_Chrome_2025_12_03_17_55_32.mp4?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=eVH0SVUyBovXET8k4yZb8zcsz1DA5KThM7pgbF%2BkyjME%2F%2FG4XVfJBmKG%2BU%2BWa1F7KSSjRefBw5DH9P5IbpfLYCI3KUMA29SRLv7HVcMP4Hu3OET4LDkwncKjOwXJLk5xL9PdX8EIAJySBszn6kzJ0sktMCPSfx5H3cdYPpkzR2uV%2FOcQ0G51pEfsl16PdNRBSTTYuz41FxHEa978d%2FRreaba94DtDTOQnd3CeFyck97Q3ITOW6uN8nTZOc3aGDnRZcyu0R4%2BVzz9apVeu8SQIiyappjJOBiVmMTxPDa9HVbENw3OnRR7Q0yaYkRXXpInqOAIU1d48hR9IvDTBIaU3g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F8a4e938fcdf952ac10a8405752f4ab6e%2FShell_Shockers____CrazyGames_______Google_Chrome_2025_12_03_17_55_32.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/8a4e938fcdf952ac10a8405752f4ab6e/Shell_Shockers____CrazyGames_______Google_Chrome_2025_12_03_17_55_32.mp4?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=atf5s8%2BTD%2F1Zu7o0luMEYFkrEVrUUWb%2B11OxHMuoP73Rq9IQe0mqORKoOClAVTPcMKnWchV0OYVBw0mAnIUnaYveD2m%2BZV%2BnAhXwPyZ%2F%2F%2FEkvLdQm6ecezKHP9Wsc49RXm%2FkFd4RaTza5VzFpKdeosrOwmevc%2BNnU3tPaIzPcNax6igoGfSvUxQbb5Am1LMyt6uC2vlz7bt8mMkYz8fR2lhePhe0vY0zI0ZolRN5O9eDTR2VTkkoU%2FzJOZeIksgZALYLdFENegLKvI7b%2Fu8fyG%2BTg41mGZGvkb5Tku1%2BuoK31e4ajBmf6u9U6zZwxWNbdhBSFeOlo0xsTqydAr8rmQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F8a4e938fcdf952ac10a8405752f4ab6e%2FShell_Shockers____CrazyGames_______Google_Chrome_2025_12_03_17_55_32.mp4)
 
 #### Comments (16)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 04, 2025 06:34am): ww
@@ -1199,7 +1199,7 @@
 
 <p>YouTube: <a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=oWk54O7s9Qs">https://www.youtube.com/watch?v=oWk54O7s9Qs</a></p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/873f011812cafeb8d3a0098fd6fa5718/Shell_Ranked_Collab_X_1v1_Tournament.mp4?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=kJt49dR376YzOZQOlzc8x4Htmw3GTCM3ELvhQsqlZyBjeX5ADHcjSzxJceZAKrTboX87naTGYae8CHGUlDj7Fq9AGrgTOGGwKjC0lpnG4onddjt9F8qGSc3hfdzXtBdjGF8RA8EwqVD8imKmlA%2FrkLBnewr%2ByVNn2Mqx%2F9tjIiDrR%2F%2BqCfxLkmGruFWRQyOiyjBLclJEkhgvpY4DVNYEXe6fwAkTHotHMtxkpcnPb%2BPaUkvzqn4xJveF65Upiw8iGXD1Alw1dYm9B4JpR6eRsLC5bkehWT%2F1HB4e%2F%2Fmld2kcH25A6p7LrjvKWKjwAn0Y2ugBDMK7veW8O1tHBP85KA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F873f011812cafeb8d3a0098fd6fa5718%2FShell_Ranked_Collab_X_1v1_Tournament.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/873f011812cafeb8d3a0098fd6fa5718/Shell_Ranked_Collab_X_1v1_Tournament.mp4?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=EYb8lYNytVVX7AA6EGIV4GN8Oloa2azvuv6Bwn2dZ0w0QHCp2MDbo%2BX0CAWGWrAB%2B%2BKUMfrkqhvSDCsMx0kyNIoz83oSOLruhLXI7tIAHVwOenNcXQcFarshaT%2FDIVsVKOdErvQu2FNWHsngqGDcOTE1yLp6euvcK8RrEXb8Witb3Hps8H0JENx%2FKtSwOE1n8VkrEJdQdkaNP0e10anO%2Bm6hxzZpe4BUc4WDa189xAG4VDnjBvz8eqKKefhIRMTOaOt6WcrHZBDkH%2BErwH8rYQ4Sjy0zyQeUXJ68V02ogDz%2BrqRL1l%2FVZUAGsxLw4l3Q2Svkvt%2B7YsvtLa%2Fo0b4nHQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F873f011812cafeb8d3a0098fd6fa5718%2FShell_Ranked_Collab_X_1v1_Tournament.mp4)
 
 #### Additional Information
 - **Post color:** White
@@ -1242,7 +1242,7 @@
 
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/935db3c32cd5b4cb88ac90bc9453cb2e/image.png?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=dkbYgrr%2BSsfDEsukFB9%2BzN7Qe48IwNChckJkaqVm5jtBZ7HemFDGy0yr%2FHSob1RVAiJfJPeVT4Xlbhsb8gxB%2BfR2fGZ10oSN7wpcss2Z6uSBeOLq5PJ50%2FACKvmz3D8T1jhQZaqpwYeZiAr8LlRqOsAEqjY0lZ8PAghENljksmlrCtlZlsNlX383b96SL%2FDPRpby47qTM5Ee2zlYMDgq6CgnvnGAYdv8ZCe03xU4MiU%2B0vzuDoRt8F1f3A%2B8O9uW%2FJmXpEQJ2IEwkSoVuJ0TmSCl22xtw%2Fs7SABMO3qV4tShWQ7JGGe5a3SDANtO3Ndcf2diDUS426gvHSRrGbJ2tQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F935db3c32cd5b4cb88ac90bc9453cb2e%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/935db3c32cd5b4cb88ac90bc9453cb2e/image.png?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=PXSBaWmEyGSHBQS4TgobUOGmMAWoiD3CGsMmsbMIPlJ34iq8FgTXZJvqbzIWIAG26SoHNFLSW16WbuQ%2Fkd9T3wFml7WUHWyVH0RKc%2B%2BhjU%2FuYQnHEBslu20Uox974y6yTQ%2B42SI6pOnGF4pUZ5%2BGRGBGGdTr38Gd0iXQ7n2t3NbF9xrSZQFhdb%2B6SNcAtrd8siBenkrbZJhugLQ4Vhkt9im%2Fqs1%2FrdSnpzcVjuQDe97cU3yipoNvhfPfIaYKllxAjMCEc39ri9T%2FTqXhyDqq7dH9Wxs4GRBjx6js3yUaO9o1KNYv%2BTidRfy%2FhW95QHGS2eJUAioQk5iyq8YZjtF5Iw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F935db3c32cd5b4cb88ac90bc9453cb2e%2Fimage.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -1257,7 +1257,7 @@
 ### 14. Zaxonius stampっていうcode当たって俺持ってるから抽選で誰かにあげようと思ってるんだけどそもそも欲しい人いる？
 **Author:** taba (nova82812397)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3346092100/816d0d105e69300c3257cacffc1dc1dd/Zaxonius_Stamp.webp?Expires=1781285594&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=ifdRi20TYkiLOVmiEzsnIEguQQCTEcm9SOkjgUUawMRPk%2FmXRWszQFJKhP4r58uT7i1I%2Bfwf7GH4hOyMReeHjvFMo%2FGueUCvW%2Bkl4lK8WrYq6UXUrf7RfgronHK50cy3GwqdhmOLaxaDMvw0tkNrJZ8VmloZ%2BFC9eamQtkG2RUJ4AqbWYfx7GS7gqH2uGVB5DV5Qv6O7riOPBLTTxUjoUUQqm5pwYIHU7o%2BllVt9ChNxjFbAD%2FbSGWOb14lb7r14DIAZFkcubcah6ccnNTljimpWMojKMdG%2BlGCJiUkazhfHQ03s%2FqnDwScrJvZa4GNjJk%2BO%2BuQr%2FM9rllX1vclhcA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3346092100%2F816d0d105e69300c3257cacffc1dc1dd%2FZaxonius_Stamp.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3346092100/816d0d105e69300c3257cacffc1dc1dd/Zaxonius_Stamp.webp?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=o0PO%2B31sxeuxYMt8iBAuW5xK%2FIrFrIT0CgWiA47RHCMhuSmuH1FKjbn0bexEXCuDFjfsOyqrhdAf1ywXO4Obf%2FDkzHLJ29b4chv0p6oorC7VMjiYNSbeS4CFMzWBI2Y5kl1%2Fa7vaM1HH8sYD5fD5W%2BvQj%2FOZ9eF95O4hDIFzzSnM2snq6lqw0UvvSgoi6d5AGpGauMSlc9LJjE0kBtTOlYYwra0YMnMI4sNh9MFYYAKHPsqKEIIPNE6zaaHgUcyBMpAugDFEfMgK52IiE7B1Q6FdaWXYUrrZDXKHcjxRdjNvBNT%2BD6GpSVz%2FXgvUhOYn0aaxKRv%2BMI8FhDFFmKl4WQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3346092100%2F816d0d105e69300c3257cacffc1dc1dd%2FZaxonius_Stamp.webp)
 
 #### Comments (3)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Aug 03, 2025 03:13am): くれええええええええええ
@@ -1610,7 +1610,7 @@
 
 <p>規制されたくないのでURL消すのと</p><p>あと宣伝で身バレしたくないので</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/810de6256bcca593c429580dc97f10a4/_________.png?Expires=1781285595&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=I%2FMpijg6iWJIjq35A7ugC6HH%2BOE2HMIrx9YCRNSVGCuM4dY%2FFwXFhAqLDUDnVRb48z1jfN2Tech0eUtSnAnYGGyI07aCnHPeKt6POXU3pn9MK5%2BySrfBSj1zIZCBvqlADV%2Bq8XxIjE7oBw8aLEGVqE8Rl43n0MkB4w4x%2FUwvuzmSzx7y%2FkgFhXwAJYBrsohxgZeLRv9uGGxUfCGERgYGsMwZSX2Sy9xPU31%2FUtMdBot9ga2ZJ0m3H4I5f1zBYFDJPhy28EWecZURKD2YOoj6n4gz1zdBUhDzL51Jrz6SWlSShx5VLvIzfRfPn%2FpAOdYdXh1MdIWMgKbb5bY5vgB3HA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F810de6256bcca593c429580dc97f10a4%2F_________.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/810de6256bcca593c429580dc97f10a4/_________.png?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=nuF07QXe7RWgnZqGv7ESQhiZ4q75q40w7FE3haz1nn5F6pj9vCOJpya5tJUtB6UJVha%2FSCwRD5zg2SGsiywhyJlWEPVhfGtDm7LMKMpYipL%2FKqB4NGiEcTbMTnYCFZ8zrmQ5pwBOicMw2%2Fi9LnUDvyVa2VaM1Oifd3EWDwmvUhxr%2Fye1%2FQCM6BEyEr%2Ff%2BD3wNHIcqd7IiTdzqZQarVrjRJRsaXfSD9sS14Xsj1ROJloxocsKiQcDVlwVatzXX%2Bp09%2FqLuy7Beqlv4hOf%2BJX%2FcC7v2x%2BeIgJzdQxfxTpCM0ec3SFt%2FBsxgRaMuGjDglKvab3VUfoOtuwd51mMoZmDKQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F810de6256bcca593c429580dc97f10a4%2F_________.png)
 
 #### Additional Information
 - **Post color:** White
@@ -1622,7 +1622,7 @@
 ### 35. 学パソ民です、KDRください
 **Author:** 典型的なこきです (kokkiEX)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/805c64e6e3993e48a7781b1c604093a9/Screenshot_2024_04_14_21_14_48.png?Expires=1781285595&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=LYjpFrPEbIPQDT2sKPagaw1iyLrN5Eh7U4%2BDWF6SXvNqxvtyOI7ujKC4FFgA3RKqN6PN13rJ5yWpAvuimXX6j8VHpbdXoue8ShXdfSMntwJpso%2B1BL8kdqn0%2BsjMPgKoEl58HZPKH6MrIJdFfRA%2FDTwMIPr%2FPO4T%2BioRr3ZYnPuHJ4FEBCWPbXAKLccCg78LhrcoMMMDaCiMczzdlxHpSA%2BlHJjtyKw1eJPn3HCdD7y4J2toU5fER6ersFQyMhOdN0yP0y9rDOh0y4BlQu7uxmKhbMCVJAelzcTynavBNKmzADSlXtfRMmiX1UmzZBfKvrTH5JrMsuwkt4wCMQuptA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F805c64e6e3993e48a7781b1c604093a9%2FScreenshot_2024_04_14_21_14_48.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/805c64e6e3993e48a7781b1c604093a9/Screenshot_2024_04_14_21_14_48.png?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=SNkb45cs%2B%2BW1cMNwXdYF4cz9pj7NSnkaT11ojXxhhejoh3EIRAP24DfHQGaUmTo82y5pXGwycT1vOcJ5hSYZAqp4P8JXDzM42BV1c65Z7TmsK%2FBdASMIVAj8C3YdukgB%2BMfOjVCMvsYkpcslM5yKEBmjdW5BFkpC9scxq26Vmv696avgtUATu8Er3PAYfgdPNpZFAVa5M98PKwuzbhSKb6TGE5BCnrjHkSZzz8vaS55M0jo6x5Nal90dZrxeivWhjrhFTQtB65uWyM46h2r7iR03FwxYLT5XcxKLvUR1gNnisCeWXkUC6%2F48wgC0wBnMprURtQMLcaAYYMWcfpleKQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F805c64e6e3993e48a7781b1c604093a9%2FScreenshot_2024_04_14_21_14_48.png)
 
 #### Comments (3)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 03, 2025 01:17pm): 去年の4月のやつやw
@@ -1639,7 +1639,7 @@
 ### 36. テンプモンキー消えた
 **Author:** 典型的なこきです (kokkiEX)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/249218cc18f0b0543b6bce64ae387603/__________2025_03_03_221104.png?Expires=1781285595&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=VgH9FW1rXCQ8IZlwr6I3r9J4jAPrcnMXv4%2Bf4m4t05HKS5MT9LyR0pMteXMJiOxIBn4WsbF8c4Z1%2BUsuflgKb%2FrOEp1WgAEFHKUcXBZJBmlHzvJo2iqjWCzJ7vdjj4SvIkHpD7Z6ji6HrN9bMvguVWFHQDYrips50LaqF2vb%2BMVFxki9VNOpDptffvRTOYbCNQz6EK0F45tWLay8nri0IHefC6z1455iLIua4a2vyZjTjyIdt%2FhS99zie48m%2BBBrT8hmgo2AtHOwHygu9uRtHgU9PNDoncpgD60abMSi%2FXY3huur1hyMtADsvPlWnY%2Bh3vbS0LBRsRLw7ZiFOMb3nA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F249218cc18f0b0543b6bce64ae387603%2F__________2025_03_03_221104.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/249218cc18f0b0543b6bce64ae387603/__________2025_03_03_221104.png?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=jqXKofsoMSoS9baVLFyXQO%2FG8Wd93JcuA0qvth2xwL5gytK8l5ltP%2BOTSu1PuRRlN86CWwPJBapIvgzfqnnay2K3HLjt3WWT%2B%2FnWrLSVl0Y57sYa1baga01xsMvfQLDJN4FAjKJuqNdDWcWxF1EA5lL3XX6vseCjPVvmtFyGZztlHAMoPU1rhky9y8Y41dhahcvM4yklJCav9rjIWdN3RnoeDJKWbKQryR3nY1I1AFjos9xOgEFz6s%2B1DjuxDUk%2FFrmibqbc8DkyZoe%2FMJ2XY8XEpXTKbYs78wYpzN9TF%2F9m70PrT3aZunBd3oGLvnVM49DvXmzaJwpCPVehl5VMvw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F249218cc18f0b0543b6bce64ae387603%2F__________2025_03_03_221104.png)
 
 #### Comments (8)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 03, 2025 01:12pm): あらら
@@ -1746,7 +1746,7 @@
 ### 41. FIRE DRAGON
 **Author:** サユ(SAYUTR_) (KAZAMA_IROHA)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/d00f63206c172dd679f11429afd340b6/Screenshot_2025_02_24_09_54_49.png?Expires=1781285595&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=kvhEX5U2HZ8emjeAeDCXDPsinU57fYGQeNvilrqZIXpEFjSMjas5Gg54IJVot8vXCEi20x4yK3KYSK0f4UQ9zDcwBlsisDy8OloTax1luYHacBxjwcGgfqbxtyxsrR2UpPKMU7qQDChQMfGp0OwnMU%2BbAV2iFgz%2BAW22yvE31B1Mn%2BPvtTtFee7cPlD2tIryClBAUIzRTyBCEcwm8d%2B7t4pQ6HqmdomqnpKwXH76BpAuum6OQyN2xOfiM%2FyV1%2Fh9uQ7u4pTYZ5KJqJspcx0J1uY77TfQiZsN5CzT5nHdw7l7ovo6BXcH2wutwvceNbbtLzMvSP3cBu0ZGYwLd3kPIw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2Fd00f63206c172dd679f11429afd340b6%2FScreenshot_2025_02_24_09_54_49.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/d00f63206c172dd679f11429afd340b6/Screenshot_2025_02_24_09_54_49.png?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=kEyB%2B8pRD2LCkXT4MaU9LY8MdCQ7DVSu6B4G1sT8fVlMtFJHZYJqjqvGL8%2F5TPslBr3dhZ%2Fk9sXjbq98Jf3SLoOWWBfTpyaWLbkr0rDBUYuIUSgQedf2NFuFjHX8U6xE8mHnCX%2Frs07GbWtv6ruPrbyLx%2B40SuUUbwy7py1ePPs1gDRUiFUNUj%2F6MRR62u6O9pYwjviIoPuIDlxr5JEUctt16tZ3hnBiYroZHP7AJKLLdifdgzz7OQ3ZTNN98t0gmi%2BjSpWZyASjoGH5mO4VpEMNLTWba5SAl704rtKFNTW9ixBgQwla7om%2B1lhJTvPamyLdsw42efix4pDQLYXNKA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2Fd00f63206c172dd679f11429afd340b6%2FScreenshot_2025_02_24_09_54_49.png)
 
 #### Additional Information
 - **Post color:** White
@@ -1758,7 +1758,7 @@
 ### 42. この服とかってどうやってゲットすんの
 **Author:** サユ(SAYUTR_) (KAZAMA_IROHA)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/8ad812230c565abf34dc9cf7e1f76b1d/image.png?Expires=1781285595&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Ro8oUCILchh%2B4g7Q1wc17KYVgyYMUUxTJa9eKDuzD9I8eGNF26facM%2B7CpcaQw2iBkT6666eRFbyatmd7qg3HqNcAgd9GbRniZHRF4zzs3lZUmGN0me%2BV%2BaT%2BXYStqRRX31rvOpS080Tqz5YaVU6SQz3%2BJDmtUlak8pownmCP4Urh%2BAojrOjwA7evLgMDmKmeQ3qxEPDk1WQwUW6L8T%2BFWmi1N5jQ%2BB81O9uc070DL1mobmmxTvyYGHtt6uBGkFgypXx07zRymimu3bo90RTqcr%2B2loMNVKLUIL4xGLFQSnK38VFgeP4%2FLdH9xGZj01tszEMvc8fE3CxBUY2BKwr9A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F8ad812230c565abf34dc9cf7e1f76b1d%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/8ad812230c565abf34dc9cf7e1f76b1d/image.png?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Tj%2FbeiLAqhmXOQw2VvAt1KVDS%2BwqmYzi7%2Fy7EjGJTiqDysSDLz4cXxQkSqtp4Zgdd3aJTuYeHdUGMK%2FgmsMAXVxdeKc5bYx2MwKyF5Fq%2Fzuf%2BGqEfxyuIQnXHqdCmg1Gb8jgAcArj8BNFcbgTOq71TKslkT0qKEuaTYu%2Ft0Yq96WMP06UTer%2Bzrco3tXd0bUmqNFCtaxG%2BtwCPIKU0r3%2Fli0zbAQISjUuchcWO5BPvzXUsaJW5QRwqcoOOAuI9f9gyYWJDFzM%2F6o%2F3nSuRSBI6PnAUCGp%2B0T82EXxqFOQTdRIulr6Y1WwByrGkABpdurFOlyocgDz1AWVCGdlode3g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F8ad812230c565abf34dc9cf7e1f76b1d%2Fimage.png)
 
 #### Comments (11)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 23, 2025 09:11am): 左にのってるMerc Zone Final Giftってやつ
@@ -1851,7 +1851,7 @@
 ### 47. プレミアムのピストルでた　課金のやつ？
 **Author:** 近所のクソガキ (021932198413289034)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3384299668/ee86fe712cf168eadca0a3f1294b6fad/Screenshot_2025_02_12_09_10_05.png?Expires=1781285595&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=WbCgQ3zka%2Bv6pzjzxnFg41xjtJsPXZ9HYxNSH6E%2BXZ4fFiZmbm%2FeTLubkiRB99a7d8DK0drMvVdz9vpwABjmikIXKWPsrIYRwOfTHLNV%2BQXfu4bm2lHMd2Bpg2zR0PwBDSxiWjCHeGZ0jTmjUZhXvqVNup0ksxMBzU5DQOH3M%2FZwDBo0H8naufYvdl5JZ29aIvaKXmUK378nsxX4D9NetR5SeRECGl6JkPBFOgCMBSm5GvW%2Byb%2F%2FMpdM30oKdHwXeb68UaQLrr2vXBHHFBu%2BO1SqKePxr3QZP2Iw5wkiSIWSuAOu1cT%2FY%2Fj4v4O%2FYJ43oGF44ThRbUgnyYfQbNYsSw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3384299668%2Fee86fe712cf168eadca0a3f1294b6fad%2FScreenshot_2025_02_12_09_10_05.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3384299668/ee86fe712cf168eadca0a3f1294b6fad/Screenshot_2025_02_12_09_10_05.png?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=CsJzRP88PSijReD7t4QiMmTqIgJDr5HCbDr6MbF94arNxclqAJQQ7jGYmumigjp7%2BIh11VPr26pjf%2FYpt%2B1DegBddtXmLjmX9jPUVrYIz7VlzQJ8P%2BBHWP9ZgUdSeirreuKeerL%2FGkO6CuE%2Fq%2BQCKOYxjFPmVqL%2FvwNOjlAxBls3g%2FHD6vxm7ldUl8B2GQ8kzWz%2Bq%2B%2BLPCH9%2BRx8Rnmn23dkHgu2JXYNDRK1z21Hz4nDPs7tX0MkZ%2B2vOJDm%2FelFv0%2FDkpXmL528FI7z6kSIJhAMKCX8LzkOfIC2wdig2IUIq2M0l2nkB2g55SmpJznQTFxPQr%2B1BXGJN%2B7PQqlHsg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3384299668%2Fee86fe712cf168eadca0a3f1294b6fad%2FScreenshot_2025_02_12_09_10_05.png)
 
 #### Comments (1)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 12, 2025 03:32am): 課金では無い
@@ -1914,7 +1914,7 @@
 ### 50. でたーでたでたぁ
 **Author:** サユ(SAYUTR_) (KAZAMA_IROHA)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/47078a830e5bd9d4f567e9db88080a52/Screenshot_2025_02_01_07_06_39.png?Expires=1781285595&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=VxlLSggY5xLCWUi5RHGnoPZ%2FpSdWZ%2F%2BVBHFSr1mrA9%2Bg1adIBDFHbbULm0TzpNuRLZsPMPBavmie71%2BVsPms8QPYlDEp67sjOTc7S8ZKfduaWI4Z4kah7q6605jC28IyiV6SwyEF0FlDB6ngxaI0e49PPUjgqDrBadCL3EXZ4LELv0j5sBSQXpJGUih7ThDFHH6RUjJnwFCIQWp87wi%2Fyj2%2FK3XRhEdJk9sjMbm1i0%2BUc1gwrI51EWt%2B9gRAvVTLk24FyVhLFKDr2JXxmczm8AcAmeo9cbcYDueCCW2JUl%2B9QOSekcU%2F5rG%2F9A8UcQuRVP5N4kPDala91xVsTjwgbw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F47078a830e5bd9d4f567e9db88080a52%2FScreenshot_2025_02_01_07_06_39.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/47078a830e5bd9d4f567e9db88080a52/Screenshot_2025_02_01_07_06_39.png?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=LdVhFDP3GfIBLh0rlDjwgnctF4pi%2FkNejp1kg0reSFG3wnqaHn2kY5KrNsj%2Bb%2FQH7zCY%2BhAwStImBfCWrR5mM8FLQgiW6qKAcG%2BAJEG%2FFK61RtS1m%2Fn1feLOfRcMrczWyXBqZERlKZ2uhdD1uvBFKPzn2yWvdMKx8vbEKxyHJyIYA494MVrR3orgCldaMzHuwl2U%2B2o6Ugr1kH0Bv4fpbqTqHELRSf1FBXmt3TkAtQyMlPOue7NEb%2BiQ7uQfG9czByEd3BR1BVm0Mb9V9Q%2BlAYjA%2FbDQpppKMkvk1EZJjLXn3lXM1Rl0X6ziPInGzris2Zf1fCL9EPV2YoOafdX3ng%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F47078a830e5bd9d4f567e9db88080a52%2FScreenshot_2025_02_01_07_06_39.png)
 
 #### Comments (1)
 - **近所のクソガキ** (Feb 11, 2025 12:24am): いいなああ
@@ -1946,7 +1946,7 @@
 ### 52. 規制解除の何かsiteある〜〜？
 **Author:** 近所のクソガキ (021932198413289034)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3384299668/203bae3e8bdfdd53240ad5fd4c3f5bba/89aeb4f3f2203f40775473af4e13c718.gif?Expires=1781285595&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Y3n3gu0um7NHjOC9p2MtqzbS%2FMAZDSQSDmQJlzR79VPYp%2Brv0cDFECc0EmaWw3oRJ84oukb6Mq7P5KTKPQbVKlyzQNQJEMGg%2BjPB3GjyEEZ3PoYQMETKqh1ZWxf8F8dOYub9tBPvQsXGbA%2BQzz2BywAz%2FG3O%2F%2FFrUvOtd7bZkto8oiXWSJ1KWqTfbTSGh3BsToPPSw0PdsJyUpJ8HXZNPrcg3wkm0bHtTDHgBysVeh2U4aY%2Fa2gXqkjxed7m0QTzCZeMcoVk9oeRMwFgQSqAMm6WwxtJ%2B366B%2B%2FEieo2YyJEDKU3ZpttysNu9aZ578Q6mgSCm3aVLHfmPRYq50TIhg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3384299668%2F203bae3e8bdfdd53240ad5fd4c3f5bba%2F89aeb4f3f2203f40775473af4e13c718.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3384299668/203bae3e8bdfdd53240ad5fd4c3f5bba/89aeb4f3f2203f40775473af4e13c718.gif?Expires=1781287157&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=iQG9IjAzoF%2BYjT%2F2%2BMen3q9E%2FadIKkLQB7ZkqmyY0SjtSSjq2S0tR6qvNm5TGKFiNDOIb3BIUgyS%2FG%2Bnzkf8Ad7TI7aK3EVRzp3efwHru38PZjAHPj0xGAYk1vcc84hSSZMNq7OavKxvVP6qKUNyC14tbAbp%2BieICr40jNkLHXmL2WwOr3SF7igiQGGu%2FxYKsWEicoweKIH3QIHiWISIHcmS2w5vk3cwLD%2FnhLBEBmyimt4aAPsyx%2FmO030YgDjKt8%2BbeUelASugoxIYsRZX8%2FgyEipyobJY62u%2FoPiF0GyS4iOe4RGZty6wGencp0B72t0fbdCRq8zQtjsKnPGlyg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3384299668%2F203bae3e8bdfdd53240ad5fd4c3f5bba%2F89aeb4f3f2203f40775473af4e13c718.gif)
 
 #### Comments (5)
 - **近所のクソガキ** (Feb 10, 2025 11:51am): あと、コードってどうやって自分で作るの？
@@ -2344,7 +2344,7 @@
 ### 75. Post 75
 **Author:** rido_k4mo (rido_kamo)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2499250589/651351c690ab9f6d9aaffeb81a4c35c3/Screenshot_2024_12_05_00_14_42.png?Expires=1781285595&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Iqdv%2FqNkZ5YD59CkgTF9tSch1krozI%2BlMJ2RI1d0H3eFFJ5H2PHVq7hQ6%2BijQVnLKMazWH%2F7Ly2YMEJHXYBUqVa9FZPigC3B3mMNO7fd0wsSRlgiAI4K2Rc6hXQ6GogslJ4rRZxac2EO%2BcMIDmn%2FkCQmukj3R41Z9tofYDnUb8kplbf7%2BwAFVjtZoAD2AHOLtu2iuLeJvcszm794oPgxZU6baBj7Jj5yYs1s83o57C5jVwAN59EQqt0ToogVfx8alBpNjkeS5JXXhooTA5rv9JHPLS70ALjhvuhr%2FfvBE2bFlKYBOg7EyxfYchNRz8eF0TJwIocNGScJspXX%2BQ5PCQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2499250589%2F651351c690ab9f6d9aaffeb81a4c35c3%2FScreenshot_2024_12_05_00_14_42.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2499250589/651351c690ab9f6d9aaffeb81a4c35c3/Screenshot_2024_12_05_00_14_42.png?Expires=1781287158&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Ti4O%2B3%2BoVgNAlW3ykJ3iSjunrXVFDL7YMTURWrR7Nc4MAJk8%2BmCq9fW5gFlmrVp2FdGkCL9EgQyOwrEzowqsY7DUC%2FjI5eRhN61FMTEQO7rzEIpfD31JeZUoeuvH%2FacqxgLwdC5dQRt30ccPACAAmXdvbGFQhe%2B%2Fr4fyyOS8osvlIRUVo8ySuCzL83EBjC96VeNcOTK8jz6Eophtf%2FUzkV%2BTIGqtD4haY6KHXIlt9SjqyFiRzzI4E1xtn68cEdTBw57xBCvY6Yl34VYDriAcTMyqkrsvT4fdmby0mc5EiNGse%2FkWfLUAE7O3sUWUi1Wdsp9ba1u1ZfW0nVmLlBCM%2FA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2499250589%2F651351c690ab9f6d9aaffeb81a4c35c3%2FScreenshot_2024_12_05_00_14_42.png)
 
 #### Comments (3)
 - **rido_k4mo** (Dec 04, 2024 03:16pm): captula the なんとかのやつのkdrってどうなん？
@@ -2587,7 +2587,7 @@
 
 <p>親に切られた</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/3d648e3fbc31ac845255327234d9cba9/Screenshot_2024_04_30_21_37_28.png?Expires=1781285595&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=fF8rP%2FbvcnLpfa6y%2BUHY7AxdyEkj924kYXI5ttCk6JndYwKleM%2F%2B6woxtFusbZLEckcxT6FmSOvnBtozGl3cPDFJYtrz4FbchfTVBtZMyXF4M2%2BfW8JB4n8AQBKxBsz5TR2xkKteINyZikhcrsYL2iasPDUR98MCXRSDq%2FbgK%2Fn0cSEd4wqfgT71lH8PG529gW3zh0tD4fcbrVfC1%2F2NYb8XIPSaHSecTXxVMXN6G5%2FdqBQ6NMLcPeyj2ULFzntG8edGpXcivpdO8ELMruSTxo%2FbL0SGMG5e6qPSj9kXIyHenno2xR461nptR%2BBgzie%2FJwN54q7a9cEyFv%2Bll2KQiQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F3d648e3fbc31ac845255327234d9cba9%2FScreenshot_2024_04_30_21_37_28.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/3d648e3fbc31ac845255327234d9cba9/Screenshot_2024_04_30_21_37_28.png?Expires=1781287158&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=dRG8trWM11%2Ft%2BA2ONQvTOFZWJ7t12W2BH8wLBvgYzxQ15sGn7a%2B9hepwSlaWXGCnjji0NCgNB22YV3heOIxxvZYCJKIV3Uu8eXKXtUTB5CRkG2xAR9qdlvx%2BmYuhUfRWx81L3M4vtNXnYHnT2jqp8ZPxF%2B5o%2FhFYx%2Br2VVh8rMr1GfHLfExkbIlkL1EqUDOY0PzzyivlL6ca9tGJLCFFc02gG07YuMzhKEJL9a6dudOdBQwFxy5W0ONbxSHxcW5EeFB4luCCsyGszS5ssgLP3HIHgb2%2F2eP%2BzszabmVI3iF2byTWUeBLt87H%2B8GB66EtMOYu3949f3PEY2sazJqY9g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F3d648e3fbc31ac845255327234d9cba9%2FScreenshot_2024_04_30_21_37_28.png)
 
 #### Reactions
 - **Emojis:** ❤️ (2)
@@ -2706,7 +2706,7 @@
 ### 96. Eggwalker Crackshot
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/dc25b040c464c23bd6ae5f7125c10141/Screenshot_2024_03_08_12_46_45.png?Expires=1781285595&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=ec1VxJpRGHR40M9uUr0RDrjJojosb%2BmmDZMwzkIdzwSRLjou6TdHN4LFDBi3hNudRDcqyWG34lR1%2FqmdQCNyPHavbHVh%2Ft%2FwDH%2BhHFXR0VeBnDjwt10k5taiqW5Sf2JRWRJ142B9JCHv0eXkWutafoe47oWuduOC4Yn4Op5hEQIzuaGYBRnkIMt1ReADx2pCXFv1h0O69qlPvDnX7adZNpMS0qTQKvK%2FATLsGM1IcQM7MWuxHn4O8KPh4%2F5UA9IV87WHYAvNODnDGLamuIEOd7Nb7rvv8qvKN6elKCpixNH%2BtstmzTN2QBjorlAM56wRLYGmUK7cyRgCxHGPDze5qw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fdc25b040c464c23bd6ae5f7125c10141%2FScreenshot_2024_03_08_12_46_45.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/dc25b040c464c23bd6ae5f7125c10141/Screenshot_2024_03_08_12_46_45.png?Expires=1781287158&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=eMS%2Bmy%2Bae4cE1LPlWLntT%2FspRpV3dypWt6W68Rz5U7IGDnRJDkeu4tU82CZSrBejFsn0eDSH%2BC1YyCjubHseMg8yxjOyvh3lN1UWFf3o3FlL3M8BcAYkhI7JSl%2BKNddf%2BbYYXqADrobytJuhVtwrWAT2Zswdj24X1qEd9VKKBufKJy5hnR6Uh8Xx%2Bt2R8tIIGNG7SWEGW3AJehstFALMrc7V8lP1dTWavl1AuzLNyvdVsNmLCyD4mzyHvjqzpxinlujNDwplLYu%2FPET%2BYdu004qhMbUpRkPVLNpvfncK2QU7UNLuOyq3hb1Tg3Tb59pd2ITe7%2F6Oq2olikpfEALFIQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fdc25b040c464c23bd6ae5f7125c10141%2FScreenshot_2024_03_08_12_46_45.png)
 
 #### Comments (1)
 - **Anonymous** (Mar 26, 2024 05:38am): なんでやぁ
@@ -2777,7 +2777,7 @@
 ### 1. Post 1
 **Author:** taba (nova82812397)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3346092100/e7b2dc5f89f01a5cf288eac1e36a24d5/Screenshot_2025_04_09_07_27_58.png?Expires=1781285595&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=kvVmDLyCfZ%2FJNPGg1OUJd0SfueSLTpQ7ZBtm5jtoeYqsprgU1cP1eR3%2BJ7POZ1GUyGRNQ5EK9jeqMSrmUYwCFsWW7nvEb0LjQUCV1pSJAOCKuJSwB%2FB0gtHAwkqmH1oYuwmclhzIQAC32GLIiMng%2FSxxAsNQh4leE%2BE6hpnj76kXRAY3nuhvsE%2FCOrHXHLZ9prPCmkIaKE6qTK7gxlE4rTym3zA%2FQD5BqQJAMLfwoZ50ZR2xSymoAXqN5O7X%2BNCFg0inSbT296g80113BuD6h2UPK13VYrPAr6YkHcMePXR1uF12N0JxweS3816Kekb7DDzEIfOQR0BSVwCCOfGaoA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3346092100%2Fe7b2dc5f89f01a5cf288eac1e36a24d5%2FScreenshot_2025_04_09_07_27_58.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3346092100/e7b2dc5f89f01a5cf288eac1e36a24d5/Screenshot_2025_04_09_07_27_58.png?Expires=1781287158&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=okOUCjOqqXks9krlfrvNyUkxUQrJnt2kDFpBa1ZkXx4rDEt68JTOPMm8Dsly%2B%2BN8FUFFJW3ToVWcQqiIRVEn5Q4DxEjE9f3kuKx%2BmbOoNweYnzdLoSZfeoM8AGxfJY%2F5VnzYVO1Vu%2FhriVzsYb3DQLcs4T%2FoDPwwa6PY4wU875jgQP52WLqDqUx9b%2BvXlxTgr8q%2BJVdttVy3zGTw7tUBB78BMOqO14GJTuMeuyD8EkFMpF8olxLYAIobQnDzIJLdsPcvkAUbp0HY9hT2dovhbUoJsG370aI88ICDRMAx4rheux%2Fs6olDWYwsIDmsxVS0XPWaEvEk5MajFiMtivw9Hg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3346092100%2Fe7b2dc5f89f01a5cf288eac1e36a24d5%2FScreenshot_2025_04_09_07_27_58.png)
 
 #### Comments (7)
 - **ᏁγᎶ » Tøka_Kuŋ_** (May 01, 2025 11:25pm): F*ck
@@ -2803,7 +2803,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.twitch.tv/itshazmatt/clip/GlutenFreeCoweringElephantNotLikeThis-Sg3k17KOZnNLFXmy">https://www.twitch.tv/itshazmatt/clip/GlutenFreeCoweringElephantNotLikeThis-Sg3k17KOZnNLFXmy</a></p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/835d795a7f2deeb04bd54975a6468ee9/20250331_GlutenFreeCoweringElephantNotLikeThis_Sg3k17KOZnNLFXmy_source.mp4?Expires=1781285595&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=jyR8HN3%2BTx0guxHU7cIMUheHBzuuoDAftf%2BtPT%2BrZDwA2wH0HUxw1gelXf0iJ4bhPSs928%2BOkvS9iGNqbjf7AkkwuayfmOjJXdR9FbxO4PNn9sN12O6%2BGFK2bh810J5AXlYrpWH6Hqe6xGXLitJ8QZefHo0550D5vlNXJtmInTxzpPPP6CTiUvZR84jaj9cN%2FlacIAVoND14bxLTfhnxJT5o1w%2BnnhY75YkT9O0djoxW7A6EtcEfZQd%2FCCGU5EkAafvVHkMfDgxRpEGLw7rHem09SBkkgDEUXwUkPb2S6hNY74tja6IpcGyYiynThSJTP9X8E%2FJ7USI0vO9Uq88f0g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F835d795a7f2deeb04bd54975a6468ee9%2F20250331_GlutenFreeCoweringElephantNotLikeThis_Sg3k17KOZnNLFXmy_source.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/835d795a7f2deeb04bd54975a6468ee9/20250331_GlutenFreeCoweringElephantNotLikeThis_Sg3k17KOZnNLFXmy_source.mp4?Expires=1781287158&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=TIxtkzF9ugya6BTthHfRyrseV0f%2BfoKnNx4pM6ZDyNeuCZ6PmvtydTetYzBdcxvQeljAlzgNamKpPfALcMIMt63qNtIinV7BHcl7UPl0LtcYvn321cD32UFc5GE6vnMHPh3MT2HlbfLUSwdmEQyDv2dsjmQOkIQXs%2F3sORd5wK7J3Nz5a8q7J6Dct5F6ZPDRV3PRkPtxfwNDy3xwQDoAOqVOgGx7TykFWeShxVK2mXgUL7nKVx5X9XNa4NzgqtkNTYp2Br67kO2N3CdJdVenbRV%2F6hE3uPRe5c2q%2BTb%2Fe5kFD5abI7w6u6Q9ZVEBrRmEQijU8rPqAxH1WfiHITqGUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F835d795a7f2deeb04bd54975a6468ee9%2F20250331_GlutenFreeCoweringElephantNotLikeThis_Sg3k17KOZnNLFXmy_source.mp4)
 
 #### Comments (1)
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Jun 06, 2025 12:15am): おお
@@ -2900,7 +2900,7 @@
 ### 8. Post 8
 **Author:** サユ(SAYUTR_) (KAZAMA_IROHA)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/58d5f012bdaf8816ac285b7af0fd93d3/Screen_recording_2025_02_24_09_10_53.webm?Expires=1781285596&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=GmjrLjhvMEnrJDx%2B0kPVVApgP4rpYPobigGclcwiMtPwTgjL43Ynfx7cGgm9CyOsZy8y2zwdFyyWeGZszfoIAlwMJED20N%2FJ80Hb2Qjr9m6KEsvZdi3vAI40QsYvtuKjeIBSVN%2BdgzfjNUsrLI1EZT41Qh2Vng0Ye3DZEzwDzvNa6l2Qj5wfBPG1pOe%2FwcgXGaxQKsmaZJ2tVZOO%2BWUyiiaJas6ZWqcoAlUNvsZ3yBPShJjdJgPkBC4xU3Dvys0gxBouU29LptZQdTUzh5VvWTP0c8eVCHlvvtHfew6FDLBaS108VYtCbhSzDqv6LAlT9fLTiGV%2FohPWutUhnDwtwg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F58d5f012bdaf8816ac285b7af0fd93d3%2FScreen_recording_2025_02_24_09_10_53.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/58d5f012bdaf8816ac285b7af0fd93d3/Screen_recording_2025_02_24_09_10_53.webm?Expires=1781287158&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=YynLagC8o4GitZz034rrzVrTTSFjOcN876LKuTSvQOiY3hVbFdAYT0WKE9BX2rZxLybkwOD7Hld%2FRHyJNNveXJAxxZV7uyiLz5NIunJR%2FlFHK0tbPHMtNC%2FxedXLQMzofMr2XzXSKrrg2WS1I%2BH0nagByfjtvW7TsvLrnmeXjgftXXfrTO8qe1%2BF9JiTLEBke4e8PGxeT3CjeGaLzTyBWIt3VpnegpZ8lp%2BkZ9IxAA467ml3cYyUz1q03iB6uH%2F2HI05M4ArHRgdKmcompt%2B3Qe%2F51749LmxzwOk%2FFxOdRshC5w%2FEzgMFUUeW0Wvsz3dxZqmIzLzII7ucr9bnhFP%2FA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F58d5f012bdaf8816ac285b7af0fd93d3%2FScreen_recording_2025_02_24_09_10_53.webm)
 
 #### Comments (2)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 24, 2025 02:07am): https://v.kuku.lu
@@ -2918,7 +2918,7 @@
 
 <p>fireeeeeeeeeeee</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3332121381/9fa1a1fa0070bff6cdbfe57dc4255d55/91C1225B_6796_4B68_889B_ABF35C1197BB.jpeg?Expires=1781285596&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Sk3XDJA0r0CRZoYRdeT14kphLS2b%2FbFjKaV1FXWQgahrMrmRKRSEfs1xI10d%2B95C1KKE8XvnbKHx64nJTg4W63sXyZj%2Bk27HRwuk5VpOqpMMVynFWwfHYsiTReiK2qqzk3iHSiEmHx0ssyZNyHqfdbMshX1IUih78O8RHmqGPVHwHq1Jz0YWyuBOt3DQA5BxtbpLTKdO1PrL99Lj1JSxl2%2BheRB5cvQwyMEqV3C%2BclFxpnLXMEc0TB4OrpXiVqcgKa8EXyMjp%2FQBx7qGtghrJOLWf6TVKjKlnl96%2BKwQ9DkCN%2B3Tl69Vo4VwMOpdzMbt%2F9nlUbHE0q%2B0CBrJizUGrA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3332121381%2F9fa1a1fa0070bff6cdbfe57dc4255d55%2F91C1225B_6796_4B68_889B_ABF35C1197BB.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3332121381/9fa1a1fa0070bff6cdbfe57dc4255d55/91C1225B_6796_4B68_889B_ABF35C1197BB.jpeg?Expires=1781287158&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=NNvIFxIqkmPv%2BgUJ2W3i3Iwf%2FB7yqfkDmb8D889buB6Xpebtu0of548hkMKoRXHjcO%2F0Kf13C%2FHw2pIZE4tpivhfjblu3ahbJaSHTDhdhIybgKA0K9gUIRoYGvddBq%2BSH1RrKndMuvzzpAJiyzl7LmWVqn5RrPo9YpoM3H9w%2Fft76aU%2BwiCGD%2BdgeRNQPnzqpKjY268iwhxI9OQzCYPnwKR%2B8%2F1xGHMzbQHi5iGvuGcveSS0aAFCO2OegudnEi8b6D2hHbwvZ3mvZ1zcKb%2Bdf1JUr%2F2M2F9IggMweDf7rJOuy1tBDh3x1EfuQO9P2xUGIZjtcFa392IM9IjfWwlssA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3332121381%2F9fa1a1fa0070bff6cdbfe57dc4255d55%2F91C1225B_6796_4B68_889B_ABF35C1197BB.jpeg)
 
 #### Comments (1)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 06, 2025 12:58pm): :o
@@ -2951,7 +2951,7 @@
 ### 11. ｶｼｬｯ📸
 **Author:** taba
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3299828264/2689fdd874b40202ffc7185abac18e08/Screenshot_2025_01_22_22_59_03.png?Expires=1781285596&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=PSgzLaxTs0k6tTv7Yu8BIPoIZd2Wkbb8zyJmqnPO6ZBlG6mdDfvB1Mu%2Bw31Yw%2ForWjxEQ6w2TBiDO4GaieuQtJI9BY8PSwlfIFksHwoSrU1JB2tKL9FI%2F03WuGKdWwA8bturqsbj%2FUEdJUTWS60N%2FUCfJf1crPHQQwB2hFiXyhX9xloo9Z5zrj%2B2i1rOWOwUf5GdLHSlyMA3cefgNbk3YQVo%2BWCIWhBBZw8nM1M8aiO2KKEBCOyqTuz8VjQszw1pNanAQvC0pdqY5%2BlWAVYKsQilEkghS04EY8FrUjktdGwHElC6TPBR%2BvjKOUKSgafd3PeIdduhXJlQFcdrWv2WiA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3299828264%2F2689fdd874b40202ffc7185abac18e08%2FScreenshot_2025_01_22_22_59_03.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3299828264/2689fdd874b40202ffc7185abac18e08/Screenshot_2025_01_22_22_59_03.png?Expires=1781287158&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Q49o6oXukVDdeO5DqICvCofS6ApM4Pko4Plz3KjsrXDh%2Btoa4jJyMt%2BN4EoWk821M4jazaTsF5S24BbQm9qx3zDt%2F%2FtIoxT6CDaMTAGCCYVQ77A63n%2FvUXTUk%2Bvu5aStYnGRPlaCW%2FFvp%2BatLstd83G3dxNQc6RRyh9mehGpR%2BTdglCTI1Pc8p%2FzI0%2FBIPXWJxihE5nLHXaPGHhg6%2BD%2FZN1e2wnmoVLPGC893HwyOAETtWMu4lxE%2FWXnkcc0C1euwE5463vOHu7u4omkp0FRTdNMez4fLDyj0EFVMIZWaW6HB8nrHpcepcIDqTu5gA0ACg89UZbpWFrwHBVqNUcanQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3299828264%2F2689fdd874b40202ffc7185abac18e08%2FScreenshot_2025_01_22_22_59_03.png)
 
 #### Comments (3)
 - **yurayura** (Jan 23, 2025 06:49am): おおすぎ
@@ -3031,7 +3031,7 @@
 ### 17. いぇい
 **Author:** 削除済みユーザー
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2178111101/7f90a7df5e4f7da591dedf606127e234/Screenshot_2024_09_09_22_01_06.png?Expires=1781285596&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=dihR%2BjrFZELkBHQQ7ovA8B09Ezp5rfle5PQ0QUwKWlpSLU0OHFepr0%2BlVZTUSFkJt2fDAn0%2F5LuZRII%2BIg7XDmKwIKDcUy5mokyhobLs3pJ07RbfcjO%2B7ER3czFlbEbxnyhUcENosdCOousdZFVd1DD%2BJVEkXfcqx7hMp07gt1%2FAkO6i9nLoT%2Fmm2nnpXurhjPn4K5yMmcKDobfN29G3sNMJALR8j%2BWR1lpLDRF4Lvyvj96nLgsw1n4LxKUq%2BjxsvhFm2BF82049mj3wutOEytWMqRH3zMviAWWGUDDUUzJ4wFop1bcj6liHmHjnk85XnSnUamp66PSslLgQ6FLZ1w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2178111101%2F7f90a7df5e4f7da591dedf606127e234%2FScreenshot_2024_09_09_22_01_06.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2178111101/7f90a7df5e4f7da591dedf606127e234/Screenshot_2024_09_09_22_01_06.png?Expires=1781287158&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=b1K0co6iFvm2NYzUoY4Bk%2Bkx98f4LWtxWigqaBmg4OMWcl%2B5z8%2B0rsfuR5MbH8l77oRBS4Fr8NmuVGvtaLBlF5iZV0i25xjiVTA1GAGce1jknI%2BrE%2BQsbqvDBI7%2FeWitQhuTnnzYPghXpIh18UN%2BFEmujo%2B0%2FBRMl7pnQbwY42AS%2BFKfzq9i8nBMzcxCeUKdzwo8XBSbeRTAPriZWmNhEtmBgeOdzoeUMFKiTguVDqiRwDIzHOaHWQWF8JYDOZ3O10I43c6Ylmz%2F%2Fe3SP74G1Q8o8vzQPa9PuhkQ3vFISSQjhgrw1RGelR%2BRNZRBPAimg073alE4TJT8878rs4DF2A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2178111101%2F7f90a7df5e4f7da591dedf606127e234%2FScreenshot_2024_09_09_22_01_06.png)
 
 #### Reactions
 - **Emojis:** ❤️ (2)
@@ -3080,7 +3080,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.twitch.tv/the_rogue_contractor/clip/AgreeableDistinctAmazonBCouch-D9NzNlfJFLTwvKud">https://www.twitch.tv/the_rogue_contractor/clip/AgreeableDistinctAmazonBCouch-D9NzNlfJFLTwvKud</a></p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/f2e6b9892a61af4d6dffdbc1dfdb0ed9/Mid_Air_on_Rogue.mp4?Expires=1781285596&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=JCUaHflIOs3MDDKz%2BxiBj7h6ghzB8KAjJsA%2FO0Tiov03qUjDlvMcgSSCNuf3VRuL4D9CJYIy%2B0QKzf26TRaeFf7YvSV%2F3BoVi237BVk5IcHaxzEiqh8jetMl6IRDk3luI8ooM9kLiWIoTgGKUbSUlabheXyBp7gGkQNqh%2B3YGHR6IgWYlRzJXmA%2BuWMW8zuWBR0tYvQswHGq1lH5C%2BBnvUW2SP9FuLoC3QawgQSIuW0IQg5Hwp%2FPiIF4%2BnLQ%2BvhilGq0c2eG5MYcA9wxvH3epfk1ZqR6d3V7eLjd9QEpFFiu%2BGFSTy%2Fi%2FtNStHfuGCIoSHNGS3z6mUlGKN14%2BSOJgg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Ff2e6b9892a61af4d6dffdbc1dfdb0ed9%2FMid_Air_on_Rogue.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/f2e6b9892a61af4d6dffdbc1dfdb0ed9/Mid_Air_on_Rogue.mp4?Expires=1781287158&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Q78BZAX01I%2FyvPrTYXOOYfYAaLoc7mZIVljb2zLPNGLKlpGCFwwxjLBV8ft9TJu9pHJEWeKThDNga%2Bh7sjfon1Qum7suPghwMiuOjg5UrETR2vVe%2FRSuDy7%2B%2BSlqO7Mr5E8tWDJIH1M0I9CE3nuR0Olyx08eHRoANKppxzf4%2Bqc39LtAnsJZPJZWSdLYgfj%2FyeAEsYn4%2BdWTWLAtsS5TxSk1uBdG8nIuRM7aq0grqxMhauiBcGp2ZkZhWhFf%2Bf9M9QJ9MrBuAaFYLoyOOEDkhwIWS6rRFk2eNjn95s%2Bw1Awm2tTgZPX9mas560nA8TQozikr3QwJGCPWaei%2Bn%2BEMug%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Ff2e6b9892a61af4d6dffdbc1dfdb0ed9%2FMid_Air_on_Rogue.mp4)
 
 #### Reactions
 - **Emojis:** ❤️ (6)
@@ -3136,7 +3136,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.twitch.tv/lucigamezdreams/clip/ImportantSuccessfulLocustPunchTrees-daTJ3eDPqZTZZuz9">https://www.twitch.tv/lucigamezdreams/clip/ImportantSuccessfulLocustPunchTrees-daTJ3eDPqZTZZuz9</a></p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/effa0d3e15ba9c096f71afc7d7f82ff1/Luci_360_d_me.mp4?Expires=1781285596&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=QbNNhNL6UbobhQA5R%2BQfWv327pdqGgQzQYt20MdVNpg6FwNIiU7T3jznh5gytVMbegDQ%2FXda5V3hb7kr4Hp0X8Wa6OF%2BgpkQLSZwbGCyTa615zAsg%2BWI%2BhGNrTjM5JAucwmvhVQAwqSmIN0gLFOQ55dNg98U9ViiG%2FDAbg7nj3UYlcdwz99BZVOPzPZYKaXnyUDyx%2BDzKbNqBU5MbM1F%2BAEy3E%2FFCYQSO%2BILz5fncfpCU7dxJ9hwPScNB3U8Oo3U5%2BBL1MST3wqZneNn%2BvRO76FswTq4E9ODGStbjX%2FWx4FFAuySTsY8PeGxETZINjo0QtFfJfwNFTh5IVAfF0iKzQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Feffa0d3e15ba9c096f71afc7d7f82ff1%2FLuci_360_d_me.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/effa0d3e15ba9c096f71afc7d7f82ff1/Luci_360_d_me.mp4?Expires=1781287158&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=RXiqNxwDVXJH%2Ffay24vvDMeqqiBerH1IWak5ZmtX88cA4PDj0D%2BGIwr60bWR2OZx69DOjytbCpaHUojWhoqXTxVoe8jmJIA4PeIjcMOAcykQN7da6uN6LwE2XHD34B01Ws0V3ZzybONMvmWJnKkFxPR%2B6KQnPzrbszFaZ96bJPogzJW52j6C97GHotnuMy73oEHz5otjWitmD2hzISJksAMKiBKQaqRaqSLcLICYhyfHZEqyps0TFfuq8x%2BsUi8qn5iacmTcU3MHlHGbAzGJxhtzvsFN%2Fke8qj1241UqWeDiA5pmHvvG9%2BBtVOLTvCoyY%2Bj36TgIM6IVCG7LAipTsg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Feffa0d3e15ba9c096f71afc7d7f82ff1%2FLuci_360_d_me.mp4)
 
 #### Reactions
 - **Emojis:** ❤️ (5)
@@ -3153,7 +3153,7 @@
 
 <p>The Spatula Fell Off The Map | Shell Shockers</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/a13eee3fc00afb556720dfcef27120e5/video__2_.webm?Expires=1781285596&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=CqvmY9Y10qagqs5VX8QwF5NDh%2FrTOpkYvzXjFJsivsBFchlxcSd8I%2FRUs9M9F9OO%2B5ojcEnTA3R1NpScm3ckeSuGF570onqSvJBSBFX57B16htnjZ6gvlJCQDQlHnRigeTQE7GjcJO1HDEWtd0ItZLYPTxT5pfJfR67E0o6qAlsbdGV7kFpim8puzqm5DtMXkPTTiSflR2k%2FNvWtJ9GBeDfnouqNCd7wo5QDxP00NHtFDSx9gr4%2BviLeLtzb8BFfPhSfAW8ASBE7sXmXpwz7u9RAHE8mNvHQjoQkmPOoP9aLwaJmTrb5CBwLGdWntAaZWQHRsUzwBSg2p36MH3kc8A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fa13eee3fc00afb556720dfcef27120e5%2Fvideo__2_.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/a13eee3fc00afb556720dfcef27120e5/video__2_.webm?Expires=1781287158&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=jAhJlmwOz6GmsArPI%2ByHXm8vA4em%2Fh%2FkeeXCnF%2BIy0chexo6kTtc3OnPBZAhnqMHeQWfcl2qlia5lNnquUk71yevy%2FEWJWM7RWyyrcg9rK3v1bT50kyVvfqcKKMxCFiEU2R0LYb6PSam8IudJFRPDGW6w0Z%2BMFOiegOCL9%2Fe5Xa4SL6HwFYkgoB2F6KVvNW0f6tLUopAuujnDSi0OEbi0CkIImRZxGsTM2IxW6ubZD6Y1UxqXqA2cZA5TPVcgSnAqUmLI8I8uky17gflnEXKb9a152vkNmc4qHrAI0j69APh7aaQN%2Fp4edwF8CRkMiEbLopR8m0yFgKzy4jOO%2F%2BqzQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fa13eee3fc00afb556720dfcef27120e5%2Fvideo__2_.webm)
 
 #### Reactions
 - **Emojis:** ❤️ (5)
@@ -3170,7 +3170,7 @@
 
 <p>Rogue Forgot To Reload :P | Shell Shockers</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/580841c5af4742d22bdbbfd42d6df517/video.webm?Expires=1781285596&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=HdheTgQrLKfaCMRkN77Ek9Ap0QkIb9FsxCngNEyHFprN8J638N30DPGw4%2BtD89TQzxA1M0HmXLWabQGwVU0dXAQmp%2FI7HijvpowoqQwJ0vLSe3fvAIgSJGH8RflxPcpulB7MeH0y0WvUq7CSFy9I782O8qrGB4Qz9JqsEiiULz2z%2FPXVRVwGVCfNgbpVIDPp1HkaTSrvqawlaXj%2BQ8f8x081bEnRltxpRK1citv5bHqZxsImgC2fnHZtIlk0UL5vtX0WKaqR5Re8tTiQRIRMKMfkqkH9wYpV9KW80WBW7W7Goa2zgl2gOLFzyoBGAv%2B30%2BteuKIqJ2Eiy1cLEavf5Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F580841c5af4742d22bdbbfd42d6df517%2Fvideo.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/580841c5af4742d22bdbbfd42d6df517/video.webm?Expires=1781287158&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=MaVHBKXVPbwnGUsOghbtGU38iWFBIXlw%2B1UeQFMnM5iGoQQEnciuYGxabi7T5hybdOR9wZ%2BZuh4ktA1nRp%2BmINfPYRFOBMFdBsqECPuSAAe9hrfNX%2BkYuHgzvx1mr1amuEj8BOX6SBnDtxMCe%2FvFhiuus29S6dOSYXConEcC7KUd16XeWxhtkj9LIAulqspvUWpxLYffEbRLvzGaX3aLiLCL3XXjSU%2FHlZeNDC89YYmOgWbisrOUakC0gKYAbrGD93bQsda92vt%2FikNh16BEnl%2FPRRcIvNnT31QgeNTv%2F6dNkUefBU%2BazOVeGX2EeW8P46SpHhiSHD0UZjztStYy5A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F580841c5af4742d22bdbbfd42d6df517%2Fvideo.webm)
 
 #### Reactions
 - **Emojis:** ❤️ (5)
@@ -3388,7 +3388,7 @@
 
 <p>裏技かはわからん</p><p>弾が向こうに行かない</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/f954a43441d0e7ced1f538ec9d3dd49c/Shell_Shockers___Also_at_deathegg_life___Google_Chrome_2025_08_18_07_59_35.mp4?Expires=1781285596&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=IfiTKwP1K%2B1K3mZyh%2F1zoFB%2BTHdsxEVvXy0ONLLkqLiVZGb7jDfUQIGu9R2XsOqJ0ifm4sQQMyQLHRzC%2Bq75wFeEiIYMgRjEAJG4BsSFVvPhsW7LPLXlMoM4UhldrtdGdhKZKqUw91nte9eI4EBfEP6yNwhRcEu%2F6%2B3VIM%2BK1Hs7vSwlwDKgUTQpvQz9HwAjzl892JMi6rCdv4zpQmNaoRL1mta3i4tjhMRAS9SsNUZ5IxXg1xBq64r%2Fav%2FyuOFyEW0exsYoEVjOh3haCoi1E%2B99BBf0EFEk5MtE1aj%2FxGmD6B%2F1cL2JGcyqmbEnugQ7F6v%2FQAzc2YW1478IQVWJjQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2Ff954a43441d0e7ced1f538ec9d3dd49c%2FShell_Shockers___Also_at_deathegg_life___Google_Chrome_2025_08_18_07_59_35.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/f954a43441d0e7ced1f538ec9d3dd49c/Shell_Shockers___Also_at_deathegg_life___Google_Chrome_2025_08_18_07_59_35.mp4?Expires=1781287158&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=aR22szdXK43HZL21I3Q12wXZ7evuIVmPGDk2kYIeNKgbwmi5%2BhG3FXKufnTCajIBWdtyMbklJzS2KlPz%2B%2BtbPAQ%2B2BBw4LrYtHhWRBrrQjSImmUTE5owQ88HCmEmaJoQTdmvxg4Zwlvg0fAOsY%2BriPJa%2B5DozXM8IfkjhEBlZwKjYx8xfj8hO%2B9ZdfmQK%2Fqz5JhtWrK1BAP3iOLCS%2F5GKC4%2BoPLaNt3Fox5oTVijI6HnsfJk98jXcH32FxoxNSWVRXs94YUIFsIRI9g01cOsq7tiu7M3Z4k87y4B%2FYhF5g13xp6sHltGqL8yj2%2BhLsMkArl6Cp1jkkZQ4xK%2BD%2FzMag%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2Ff954a43441d0e7ced1f538ec9d3dd49c%2FShell_Shockers___Also_at_deathegg_life___Google_Chrome_2025_08_18_07_59_35.mp4)
 
 #### Comments (6)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 05, 2025 11:25am): 軽くね？
