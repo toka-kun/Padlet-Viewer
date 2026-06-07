@@ -1,13 +1,13 @@
-最終取得: 2026/06/06 09:17:10
+最終取得: 2026/06/08 07:41:16
 
 # 荒らし対策室
 
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-i0fd897smvjo0tvj
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 17
+- **Posts:** 18
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Jun 06, 2026 12:12am
+- **Updated At (UTC):** Jun 07, 2026 10:40pm
 
 ## リンク集
 
@@ -77,7 +77,7 @@
 ### 1. 荒らし対策
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<p><strong>よく分からない人は、僕に管理者権限を渡してくれれば代行します。荒らしの投稿を消してほしいだけの場合はモデレーター権限だけにしてね</strong></p><p><br/></p><p><strong>➥ 共有</strong></p><ul><li><p><strong>アクセス権（どれを利用するかは場合によって選ぶのを推奨）</strong></p><ul><li><p>リンクを知っている訪問者の権限を</p><ul><li><p><strong>アクセスできません</strong></p></li><li><p><strong>読者</strong></p></li><li><p><strong>コメンテーター</strong></p></li></ul><p>のどれかにする。</p></li><li><p>仲の良いリア友を<strong>管理人</strong>にする。</p></li><li><p>仲の良いネッ友を<strong>モデレーター</strong>にする。</p></li><li><p>パスワードを<strong>必須</strong>にする。</p></li><li><p>訪問者のログインを<strong>必須</strong>にする。</p></li></ul></li></ul><p><strong>➥ 設定</strong></p><ul><li><p><strong>投稿</strong></p><ul><li><p>カスタムフィールドを追加して<strong>必須</strong>にする（単一選択が一般的）。</p></li></ul></li><li><p><strong>コンテンツ</strong></p><ul><li><p>審査を<strong>自動</strong>または<strong>手動</strong>にする</p></li></ul></li></ul>
+<p><strong>➥ 共有</strong></p><ul><li><p><strong>アクセス権（どれを利用するかは場合によって選ぶのを推奨）</strong></p><ul><li><p>リンクを知っている訪問者の権限を</p><ul><li><p><strong>アクセスできません</strong></p></li><li><p><strong>読者</strong></p></li><li><p><strong>コメンテーター</strong></p></li></ul><p>のどれかにする。</p></li><li><p>仲の良いリア友を<strong>管理人</strong>にする。</p></li><li><p>仲の良いネッ友を<strong>モデレーター</strong>にする。</p></li><li><p>パスワードを<strong>必須</strong>にする。</p></li><li><p>訪問者のログインを<strong>必須</strong>にする。</p></li></ul></li></ul><p><strong>➥ 設定</strong></p><ul><li><p><strong>投稿</strong></p><ul><li><p>カスタムフィールドを追加して<strong>必須</strong>にする（単一選択が一般的）。</p></li></ul></li><li><p><strong>コンテンツ</strong></p><ul><li><p>審査を<strong>自動</strong>または<strong>手動</strong>にする</p></li></ul></li></ul>
 
 #### Comments (11)
 - **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇** (Aug 07, 2025 10:40am): 審査手動が一番いい
@@ -98,13 +98,23 @@
 #### Additional Information
 - **Post color:** Red
 - **Created At (UTC):** May 31, 2025 12:15pm
-- **Updated At (UTC):** Dec 22, 2025 11:50am
+- **Updated At (UTC):** Jun 07, 2026 10:41pm
 
 ---
 
 ## 保管倉庫①
 
-### 1. krtk
+### 1. *
+**Author:** 怪盗ルパン三十八世 (proxygameyoutube)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** May 18, 2026 04:11am
+- **Updated At (UTC):** Jun 07, 2026 10:40pm
+
+---
+
+### 2. krtk
 **Author:** おみず (Bougaii)
 
 #### Additional Information
@@ -114,7 +124,7 @@
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ (tokumeiii)
 
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
@@ -126,7 +136,7 @@
 
 ---
 
-### 3. あああああ
+### 4. あああああ
 **Author:** ながたに はると (h2823022)
 
 #### Additional Information
@@ -136,7 +146,7 @@
 
 ---
 
-### 4. かいと
+### 5. かいと
 **Author:** かいと (HALVES_LOVE)
 
 #### Reactions
@@ -149,7 +159,7 @@
 
 ---
 
-### 5. たたたんこ
+### 6. たたたんこ
 **Author:** たたたんこ (Tatatanko)
 
 #### Reactions
