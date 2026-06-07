@@ -1,4 +1,4 @@
-最終取得: 2026/06/07 10:59:45
+最終取得: 2026/06/07 15:06:53
 
 # Padletポータルワールド
 
@@ -166,7 +166,7 @@
 ---
 
 ### 5. callisto部屋
-**Author:** Callisto (JupiterCallisto)
+**Author:** Dream (Dreamsleepy)
 
 <p>荒らされないようになっています</p><p>過疎ですがぜひ来てください</p>
 
@@ -234,7 +234,7 @@
 ---
 
 ### 8. callisto公開パドレット
-**Author:** Callisto (JupiterCallisto)
+**Author:** Dream (Dreamsleepy)
 
 <p>みんなが楽しく雑談しながら荒らされにくくするためにコメンテーターにしました。そしてゲストでも来れるようにしました。もちろん荒らしが来たら掃除します。</p>
 
@@ -1109,7 +1109,7 @@
 ---
 
 ### 46. callisto部屋
-**Author:** Callisto (JupiterCallisto)
+**Author:** Dream (Dreamsleepy)
 
 <p>前の部屋は荒らされたため消しました。</p><p>荒らされないよう受付ありにしました</p><p>↓の投稿フォームにメアドを書いて送ってください</p>
 
@@ -1339,7 +1339,7 @@
 ---
 
 ### 56. ドクターマリオ部屋〜荒らされるの絶対反対過激派の方々用〜
-**Author:** Callisto (JupiterCallisto)
+**Author:** Dream (Dreamsleepy)
 
 <p>↓のは投稿フォームです</p><p>絶対にみなさんのところでは荒らされないように対策をし安心して会話ができるようにしました。</p>
 
@@ -1548,7 +1548,7 @@
 ---
 
 ### 65. ドクターマリオ部屋〜公開ライター〜
-**Author:** Callisto (JupiterCallisto)
+**Author:** Dream (Dreamsleepy)
 
 <p>みんな入れます！</p>
 
@@ -2061,7 +2061,7 @@
 ---
 
 ### 87. 荒らしていいよ
-**Author:** Callisto (JupiterCallisto)
+**Author:** Dream (Dreamsleepy)
 
 <p>みんなで荒らしていいよ。</p><p>みんなのストレスを発散‼︎</p>
 
@@ -2173,7 +2173,7 @@
 ---
 
 ### 92. 雑談プロキシ部屋
-**Author:** Callisto (JupiterCallisto)
+**Author:** Dream (Dreamsleepy)
 
 <p>荒らしにくいようにコメンテータそしてログインしてなくても使えます※荒らされたらログイン制にします。</p>
 
@@ -2219,7 +2219,7 @@
 ---
 
 ### 94. 雑談部屋
-**Author:** Callisto (JupiterCallisto)
+**Author:** Dream (Dreamsleepy)
 
 <p>誰でもライター荒らされたらメンバー制</p>
 
@@ -4492,7 +4492,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1781402385&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=RrQ2O%2BOEFAQKvj%2F5Jnje3KUaaNJ6Ju99qVAQZnWmv%2FavPpBvJoMUbPBIpziU6%2BQXimZPaa5nMwIyeI8G%2B0txDY%2FvVBiIEmEQRUf4lRu0gKxF7cLgamrzHsZTRnODvuSVuk5IgHgd0%2FrK8qGr5VPE1hC%2BWW7MYU7sYZ8MhMvNDtHzIva3ANYvN%2F9uJUpM83T%2FYowlZ5pYzhD5SKNugAVlgEDsyOjv3Ecie%2BcfYKyeiY2ZQ%2FWUTpi3%2FpWi9j0ZvS08o1IfqFfDB165TwF1j67mgT7cLJkAyvGqV84WtNOzHfkQFwv6vUArV%2FG8wKf6VPA96cm%2Fp74fW44pEJUxzERu8w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1781417213&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=OixKBN3%2BwMQzuiLyj0rqj21%2BlUWAR4lPvMTVT%2BRitEY3j%2BInd6s%2BAF9vhhg9QI30Ue%2F0YwUhxL6KSu5iJ8iVT05pE11jJFd%2FF7Ep2LBFZgYrI15G41EV3%2BfQU3NDWZ2W2KhH0FovCfK8pUUtbCOQEM1ztaLBDvRg0CRZBh3bNCa3aajVybyZtaagRGoy5%2BzoPytCKxy1gvkJDEbg1N4EVmI65Ds%2BkY9XBFPYNy%2Fw41OapLhZy%2BYNNH0z2r3lftXgB93pa4vAaPD8btW8k4VWvFDDhUa1jCffc6B1BUv9LTPp%2FbmueKzbM6pbollWUQoi4EUoizbEpxJVINJMiIAcOA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
