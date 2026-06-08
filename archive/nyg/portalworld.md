@@ -1,4 +1,4 @@
-最終取得: 2026/06/09 06:58:48
+最終取得: 2026/06/09 07:52:49
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 127
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jun 08, 2026 03:11pm
+- **Updated At (UTC):** Jun 08, 2026 10:47pm
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -127,7 +127,7 @@
 ### 3. 雑談部屋
 **Author:** ゆあ (s180256_3)
 
-<p>まじで色んな話題沢山話そ！！</p><p><br/></p>
+<p>まじで色んな話題沢山話そ！！</p><p><br></p>
 
 **部屋の作成日:** June  8, 2026
 
@@ -135,7 +135,7 @@
 
 **管理者数:** 1~4
 
-**モデレーター数:** 1~4
+**モデレーター数:** 0
 
 [Attachment 1](https://padlet.com/padlets/uucyrfkkez2hx21a)
 
@@ -145,7 +145,7 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jun 08, 2026 01:09pm
-- **Updated At (UTC):** Jun 08, 2026 01:09pm
+- **Updated At (UTC):** Jun 08, 2026 10:38pm
 
 ---
 
@@ -231,6 +231,9 @@
 **モデレーター数:** 非公開
 
 [Attachment 1](https://padlet.com/padlets/by8qgzeqvftpzdqo)
+
+#### Comments (1)
+- **カエデノハ** (Jun 08, 2026 10:47pm): 荒らされてるね
 
 #### Additional Information
 - **Post color:** White
@@ -2858,7 +2861,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1781560728&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=GBet0%2BwLYd1hUcCqCXxmf62HwcWVyIMfxUHsnKTBwSSeIcxX23pKhvENpZml5XJn%2BClnQuyM0iktyE0TK%2BJ6zi0xfd5DFCz3sD1tYmQJTT3J7bIIbfqUg3lNe6AOpS%2F1Y5ywx34cn9YRBJYJp%2BdFrMf%2FN5OQKvXXxPRYya35ZQO5%2BwGcsCA%2F0ySt1yRRB7kfW%2Ff0JJAJW5f6nsD1o8XmW%2FAbAcBC8sJVPZDfIDyMnJqq3bzHgvKZ1hRcSOBLOWyCLlrxQQY2qsoA62lSgWb8Xyc6TKckMNxKizDjFjM63Fg%2BfxkhzUrUMs6g9RERf830cmtV6GGsOneuHRhr%2B3fLRg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1781563969&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=WUWNPrqtCv4mHIJyJQkXXuWOK8vIPcVA%2FKX%2BAEQvfyy%2BORF8BRzK0VQfsC6D3q3uxl6XJy2NXqnmiatRZdcDMJRwOVS2D6xs93hVvBN%2Fm0iQLXkH0LjAVKib5YNDCx8qdWdjne3qVDdcmcfl2fkC2VpnsetH3DMASz6PeKvzEgcRPuhwZvXxYUipnIOs1WMMTL70gSBQGbyQyys12WZH%2BSA0I0cEqnZakine%2FebT6nMyLrJw03GX38T%2FsYr9w8p%2BcQnna6n5CCxeaTQ4Uj1Zux2Aa%2FZIsmMefs%2BeaAB0GCnYbGWb%2BEpUKmnIN8bHXPg3Z9Y3Fa7YE8HVyP2X0MlWjw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
