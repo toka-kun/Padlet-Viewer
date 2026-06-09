@@ -1,4 +1,4 @@
-最終取得: 2026/06/04 00:06:59
+最終取得: 2026/06/09 20:48:13
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 11
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Jun 03, 2026 12:54pm
+- **Updated At (UTC):** Jun 09, 2026 11:00am
 
 ## ルール
 
@@ -165,9 +165,10 @@
 
 [Attachment 1](https://padlet.com/tiktok_yuta_ahirukunndayo)
 
-#### Comments (2)
+#### Comments (3)
 - **削除済みユーザー** (Apr 23, 2026 06:42am): かわいそ
 - **ナミアサ** (May 16, 2026 01:07am): yutyubu見たいんだけどグーグルのメールアドレスとかの記録って教育委員会にみつかりますか？
+- **カワノト** (Jun 09, 2026 11:00am): きっくー
 
 #### Additional Information
 - **Post color:** Black
