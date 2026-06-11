@@ -1,4 +1,4 @@
-最終取得: 2026/06/11 16:00:55
+最終取得: 2026/06/11 18:01:14
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jun 11, 2026 12:28am
+- **Updated At (UTC):** Jun 11, 2026 08:45am
 
 ## 受付
 
@@ -52,7 +52,7 @@
 ### 2. ⇩がんばれあおば～⇩
 **Author:** woolisbest (woolisbest)
 
-#### Comments (10)
+#### Comments (11)
 - **静桜  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (Apr 26, 2026 01:11pm): う　ー　り　す　も　や　っ　て　よ　〜　…
 - **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (Apr 27, 2026 01:30am): 僕もやりたいダス
 - **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (Apr 27, 2026 01:31am): なんでｗ
@@ -63,6 +63,7 @@
 - **煮物** (May 23, 2026 06:59am): 煮物部屋new受付！
 - **ハギくん #スイクンなのだ!!** (Jun 07, 2026 10:40am): 2127506027@giga.sapporo-c.ed.jp
 - **ハギくん #スイクンなのだ!!** (Jun 07, 2026 10:40am): いれて
+- **しなの　＠緊急事態** (Jun 11, 2026 08:45am): おｋ
 
 #### Additional Information
 - **Post color:** White
@@ -263,7 +264,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p><p>※↑は今死んでます</p>
 
-#### Comments (57)
+#### Comments (58)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -321,6 +322,7 @@
 - **お寿司 #ロブロ好き #マイクラ好き** (Jun 04, 2026 06:14am): コメント一度全消しした方がいいですよ
 - **aaabbbccc** (Jun 05, 2026 05:25am): フォローしました。入りたいです
 - **黒須エクス** (Jun 11, 2026 12:28am): フォローしたよ！入れて！s23260110@ed-tachikawa.jp
+- **しなの　＠緊急事態** (Jun 11, 2026 08:46am): おｋ
 
 #### Additional Information
 - **Post color:** Red
