@@ -1,4 +1,4 @@
-最終取得: 2026/06/11 07:21:34
+最終取得: 2026/06/11 11:03:24
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jun 07, 2026 11:22am
+- **Updated At (UTC):** Jun 11, 2026 12:28am
 
 ## 受付
 
@@ -263,7 +263,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p><p>※↑は今死んでます</p>
 
-#### Comments (56)
+#### Comments (57)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -320,6 +320,7 @@
 - **お寿司 #ロブロ好き #マイクラ好き** (Jun 04, 2026 06:13am): しました
 - **お寿司 #ロブロ好き #マイクラ好き** (Jun 04, 2026 06:14am): コメント一度全消しした方がいいですよ
 - **aaabbbccc** (Jun 05, 2026 05:25am): フォローしました。入りたいです
+- **黒須エクス** (Jun 11, 2026 12:28am): フォローしたよ！入れて！s23260110@ed-tachikawa.jp
 
 #### Additional Information
 - **Post color:** Red
