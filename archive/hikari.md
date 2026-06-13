@@ -1,4 +1,4 @@
-最終取得: 2026/06/14 05:08:35
+最終取得: 2026/06/14 06:24:32
 
 # プロキシTeck・Land山の上店（本部）
 
@@ -289,7 +289,7 @@
 
 <p>見てね〜</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/e4cc563e6328921bb367586ecad58b8a/Screen_recording_2025_05_22_21_07_23.webm?Expires=1781986114&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=q%2B5UDYsC7FmaUspeAU%2BSkc26WEiVml3m0Vhy6Miw25B5jafZal%2Bk%2BPpO6ADBEYQpHKjOzw3cijDJlbHN3KtRTXseNTgDISUBlUKkTEGwOTgloPP4BFXalvKFstcwPXXiIHEoYzPXP1k1duW%2BkV%2Fsr9axUYQsu1v6MZ9GSST4P7ESHJnTMp3mVEr4BgaTBIlOSOWgep9rqJCTT2%2BcZDnB6SVhITgOoLquMf0QIAKsAEZRnpNEaNO94DJE589KiKylbQrGdeNN47YECoOq8%2FQtpFGRXRvwxd9Mu5KRmbrn9cYTDu4tB6iCXQle3F71%2FzXQCLT%2FSBW%2BQKlwk02EFrpZcw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2Fe4cc563e6328921bb367586ecad58b8a%2FScreen_recording_2025_05_22_21_07_23.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3920566715/e4cc563e6328921bb367586ecad58b8a/Screen_recording_2025_05_22_21_07_23.webm?Expires=1781990671&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=IEvHwsUy4Otcdsfrerpvq%2BAZogb7u7X9c9uCOeOawO8g6W%2BwrXfibMCJRHdhYdwsi5fgcMViTjzZ6iX2EMaqvP6EjFQkysOryhpBJyNwQrn4KIJe%2FBofrt%2BHORq9DI%2BKzfbJSigaOskcOolx%2BZgj%2BeMzW1xGYtWNfe19MilPIwWOcwlocxlRidN2wHqwOHD3OGgpD%2F2eNdOqj5CFC2pzmRMaCKb8igFHQD8G0rEBohRBThC4euwVCIhryRBUryECAl%2FeYEtIH9uJDpzgxDsQSMc%2FtR5OnAr32PveLgKlcOTLlqhrxF1nHF3dJNKYng8lCR86oAQ%2B6jsXDikdnAEhYw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3920566715%2Fe4cc563e6328921bb367586ecad58b8a%2FScreen_recording_2025_05_22_21_07_23.webm)
 
 #### Comments (2)
 - **光の忍者** (Jun 04, 2025 12:54pm): マジですごい
@@ -1079,7 +1079,7 @@
 ### 4. ohisa
 **Author:** 0b1001 (h3002183)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/255570cd2c651da9a348513201da28bf/media_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png?Expires=1781986114&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=XxId6O%2FJe5c0YfGPqgiar5gMsyaJwgHilohSZ2plYXI6eiYJZ%2FqJov6ktx4idZ5%2Bx%2FavoXzfKYSBFY0q6fyZGaEupTH9FGFoA3czUnNJWpGje0qgE5tOigRug92VeQCb16jLlJkL67rRnYOxeO5zzGirX8pysX9cS5ozRybpzcOewm4%2FeGCLvjxVr8EmXtXwJm3dYZ6KJNuVeJAlzAU4JjalbgWN0MmfE57XHhajmsD%2FlEh5bamZqNFF6thuhTFd6y0eq5hoUzcPzKaDtNi%2F7U%2B6I6KwWaGf%2B09NZCsBwZ76t9JZW%2FAbHshvHeePYA4vAc0TcQsakPb%2BnLwpvt7%2BQw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F255570cd2c651da9a348513201da28bf%2Fmedia_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/255570cd2c651da9a348513201da28bf/media_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png?Expires=1781990672&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=gT2dJis6%2F3K0bBTw3KZ6kHzxKPfzUz%2Bjk1l2fJfNQJ3udLDwGDPXBA7nJX0S4pPxd%2FbT34axBdQruPASb5lxE17EfQzqTluGcDzOJ1xw590JknXsdNJgMx%2BZXvvLC7u1dlkGS7LhM%2BjEuTH62kd2HIjqFb2da0jc5%2BTIJw5N6EkY2q9ZYtyB%2BaNkDEqwSdxlIVaX7Jvps0ojM%2BakwCRbpdhc6Fy7n%2BGbt8XjLRdlu2uDluPXlpVGlMXgLM0beDjt37zHIo09rqbtVFTBas9swKG%2FDtYc8TctjbP0axvCuDF30AmEZxzqhe7ry50mDW87GF0%2BRnTtNixAHG1UBv6JWw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F255570cd2c651da9a348513201da28bf%2Fmedia_G__EkFCaYAAJpeH_jpg_name_small_format_webp.png)
 
 #### Comments (1)
 - **光の忍者** (Jan 20, 2026 03:14am): 久しぶり
@@ -1399,7 +1399,7 @@
 ### 27. わかめを使おうと思ったらこんなん出たけれどこれはなにですか？
 **Author:** りおとだお！もうすぐ高校入試！ (gohannoisii)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3043221779/081c3467813e2887d966a6453c62a962/IMG_6127.jpeg?Expires=1781986114&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=hn4ccnRY5DmtEvqle%2BRYTdPXubOKzBKsqbMmYFaITwExEdpytFo2MBIwrFFjQYaEVZLJP4i0akchpoBkGZLRbWj6vI2jr7tH2jEUH1I%2B%2FKJrjTepsPE19H8Ff0SqW1MXy51H%2FKlAfRgE9EJMQuySasf%2B7Cln7LzUegNxMw3TdHfeBVc%2BPhltZQXyqNweuczA0grwQE2lSi1xI2RW%2BVhzDPSIw9mqysPxEWJU6fxq42ldCcFtYvIbXznHX8v1sIWMn%2F1XinMSVAdBapLf9k6i3wpH2ECTmF%2Bxh5KU7YypiLGQ8%2F39QGIX7R8C3UEeC30ATxxOVdS9dnB%2BTjLZv6xkmQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3043221779%2F081c3467813e2887d966a6453c62a962%2FIMG_6127.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3043221779/081c3467813e2887d966a6453c62a962/IMG_6127.jpeg?Expires=1781990672&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Abpw4NJf7HeuUmohY1fqVcLparYIfPHF2iwMRBXftF9qtT52Gj%2F34yWRH9%2BG2pNTpqRU01V9J9hZTh2qpd2SiSQr2XynYLnmSCEsHzkwwnuzCksgFGrOEvNbkCB3uNyolkmw4DEN4bT%2FvKbTYri6OCANbOxpkxVKVRIdD%2FVJKIsfXNX%2BhhETkRrXiizz%2BiujNy%2FBmgzKLDH1mZfC3wyJaG9fp8gL1gI6EZMsNgmHmdgpyY27gv8DejSPWEfmSnNL02W3gjq4YDa98%2BMm2xNYi%2F1g3zXgQ0OwjqeR9tHkg4l5Q%2BtMHyeLn6ts4%2B%2FLPBVzDTERMYX%2BV3%2BUXGHGODzGWw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3043221779%2F081c3467813e2887d966a6453c62a962%2FIMG_6127.jpeg)
 
 #### Comments (5)
 - **(^_^)r Youtube大好きな人** (Jul 09, 2025 10:18pm): わからん
@@ -1657,7 +1657,7 @@
 
 <p>・↑これをアイコンに設定する</p><p>・部屋名をgoogleフォーム</p><p>　　↳ Google フォーム にする</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/3ea9d3aaf5a8f51eda6b391fc7312b52/forms_icon_2023q4.ico?Expires=1781986115&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=ChINBmC3s9Zk%2Br1f%2F2azkZczJH1IdLCn%2FFEpr28%2Fcdpj8kNNssUDt1dvwlybPbbkNWk3xSV19BOQF8O%2Bs7j2NBOqGCStkif60uMqP5UlPhcpwiMYB16urBUFmljXlI3zQbCsqniJKveLTVghcSYDjgWu0CrwT1BjCkYSETBKTbM5Vl6F28A4eolzuzeaEov4CKYu%2Bz69YEkciWjtaGRUhWzIkfzKlQmEM5mrRlDn3gYO9sE3uUsbOeB2rqyBecZ2k%2B%2F%2BcUv1t430qCzPqDVS%2B%2BOigTElYbx33FI0HqdlNSlcP4X8HQyLJ1eMTLls%2BrTfmqueEhuZDQ3x4AwQMkz8%2Bg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F3ea9d3aaf5a8f51eda6b391fc7312b52%2Fforms_icon_2023q4.ico)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/3ea9d3aaf5a8f51eda6b391fc7312b52/forms_icon_2023q4.ico?Expires=1781990672&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=RWXWcwdJSDxTN%2BbPMU1Rtu8z2J3J%2FeOZdMO3a%2BczriJUpLRtQlFXKl25jLK3Tu9MNtE3rFOxxaITgzpS%2BZncPfCXCwlm7DFZ%2BgpiJRDVW5v4YSFxhj7qcJ3VbnAoUQw3w6ECnvnJ0BE4EnL7mXC%2F%2FQANEDLJgOqAqI7MbHg6yIhcdoDsLanObgpjv0f6ovKCd6CYedSLuf%2B%2BohxJ0NFW6kIIXl%2Be%2BKSAmIR%2BceeafB8C6n8UCCn8ReN%2BwBVI62eFKt%2BwaOFmxNm2XML58eZIJYbgJMnJjqj2kxXBXL2PydRUK5n%2F41OZWFnf%2Fj9Tbmjavo8VlLZIbtXqPuL6mgXlCA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F3ea9d3aaf5a8f51eda6b391fc7312b52%2Fforms_icon_2023q4.ico)
 
 #### Comments (3)
 - **光の忍者** (Jun 23, 2025 02:15am): オッケー
