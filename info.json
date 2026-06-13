@@ -27,7 +27,7 @@
     "posts": 221,
     "created": "2024/02/02 17:21:00",
     "updated": "2026/06/12 20:37:00",
-    "fetched": "2026/06/13 17:32:50"
+    "fetched": "2026/06/13 17:38:11"
   },
   "nyg/portalworld": {
     "title": "Padletポータルワールド",
@@ -37,7 +37,7 @@
     "posts": 134,
     "created": "2025/08/31 17:58:00",
     "updated": "2026/06/13 17:05:00",
-    "fetched": "2026/06/13 17:32:53"
+    "fetched": "2026/06/13 17:38:14"
   },
   "nyg/arashitaisaku": {
     "title": "荒らし対策室",
@@ -67,7 +67,7 @@
     "posts": 77,
     "created": "2024/12/26 20:02:00",
     "updated": "2026/06/06 15:46:00",
-    "fetched": "2026/06/13 17:32:58"
+    "fetched": "2026/06/13 17:38:19"
   },
   "woolisbest/lobby": {
     "title": "受付と匿名用",
@@ -97,7 +97,7 @@
     "posts": 193,
     "created": "2025/07/02 01:13:00",
     "updated": "2026/03/10 20:54:00",
-    "fetched": "2026/06/13 17:33:03"
+    "fetched": "2026/06/13 17:38:24"
   },
   "magurock/main": {
     "title": "Magurockのみんなの広場｜マイクラも雑談も色々!閲覧20,000!",
@@ -107,7 +107,17 @@
     "posts": 245,
     "created": "2025/05/18 19:01:00",
     "updated": "2026/05/23 21:10:00",
-    "fetched": "2026/06/13 17:33:08"
+    "fetched": "2026/06/13 17:38:30"
+  },
+  "sennin": {
+    "title": "proxyなど教える会",
+    "desc": "proxyサイトなどを共有しましょう",
+    "link": "https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5",
+    "builder": "仙人@suger (sennin_sugar)",
+    "posts": 494,
+    "created": "2025/06/04 17:02:00",
+    "updated": "2026/06/13 17:33:00",
+    "fetched": "2026/06/13 17:33:22"
   },
   "beruri": {
     "title": "ゲームサイトやプロキシなどの共有広場",
@@ -119,16 +129,6 @@
     "updated": "2026/05/27 21:17:00",
     "fetched": "2026/05/27 21:31:35"
   },
-  "bonjour": {
-    "title": "",
-    "desc": "",
-    "link": "",
-    "builder": "",
-    "posts": 0,
-    "created": "",
-    "updated": "",
-    "fetched": ""
-  },
   "hikari": {
     "title": "プロキシTeck・Land山の上店（本部）",
     "desc": "閉鎖",
@@ -137,7 +137,7 @@
     "posts": 113,
     "created": "2025/05/09 10:39:00",
     "updated": "2026/05/09 09:01:00",
-    "fetched": "2026/06/13 17:33:13"
+    "fetched": "2026/06/13 17:38:34"
   },
   "itrsa": {
     "title": "",
@@ -169,16 +169,6 @@
     "updated": "2026/06/13 15:42:00",
     "fetched": "2026/06/13 17:31:25"
   },
-  "sennin": {
-    "title": "proxyなど教える会",
-    "desc": "proxyサイトなどを共有しましょう",
-    "link": "https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5",
-    "builder": "仙人@suger (sennin_sugar)",
-    "posts": 494,
-    "created": "2025/06/04 17:02:00",
-    "updated": "2026/06/13 17:33:00",
-    "fetched": "2026/06/13 17:33:22"
-  },
   "romanpearce": {
     "title": "シーズン2「学校のパソコン規制回避」ローマン部屋",
     "desc": "新しい時代の幕開け。　みんなで学校のパソコンの規制を解除する方法を見つけよう　できたら宣伝お願いしますｍ(_ _)ｍ",
@@ -187,6 +177,16 @@
     "posts": 529,
     "created": "2025/10/04 08:17:00",
     "updated": "2026/06/13 15:14:00",
-    "fetched": "2026/06/13 17:33:31"
+    "fetched": "2026/06/13 17:38:44"
+  },
+  "bonjour": {
+    "title": "",
+    "desc": "",
+    "link": "",
+    "builder": "",
+    "posts": 0,
+    "created": "",
+    "updated": "",
+    "fetched": ""
   }
 }
