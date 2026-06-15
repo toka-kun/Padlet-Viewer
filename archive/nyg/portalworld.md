@@ -1,4 +1,4 @@
-最終取得: 2026/06/16 06:27:58
+最終取得: 2026/06/16 07:36:57
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 134
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jun 15, 2026 12:27pm
+- **Updated At (UTC):** Jun 15, 2026 10:20pm
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -96,9 +96,9 @@
 - **Emojis:** ❤️ (1)
 
 #### Additional Information
-- **Post color:** Blue
+- **Post color:** White
 - **Created At (UTC):** Jun 15, 2026 08:30am
-- **Updated At (UTC):** Jun 15, 2026 08:30am
+- **Updated At (UTC):** Jun 15, 2026 10:07pm
 
 ---
 
@@ -120,7 +120,7 @@
 [Attachment 1](https://padlet.com/padlets/45o0vky4bl00rejs)
 
 #### Reactions
-- **Emojis:** ❤️ (1)
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -274,7 +274,7 @@
 ---
 
 ### 9. Dream公開パドレット
-**Author:** Dream ＃寝るの大好き族初代　＃マリ好き族2代目 (Dreamsleepy)
+**Author:** Dream ＃寝るの大好き族初代　＃マリ好き族2代目　#つむぎ族2代目 (Dreamsleepy)
 
 <p>人が結構います。</p><p>雑談はちゃんと消していて軽いです</p><p>みんな入れますがコメンテーターです。そのため荒らされにくいです。</p>
 
@@ -296,7 +296,7 @@
 ---
 
 ### 10. Dream部屋
-**Author:** Dream ＃寝るの大好き族初代　＃マリ好き族2代目 (Dreamsleepy)
+**Author:** Dream ＃寝るの大好き族初代　＃マリ好き族2代目　#つむぎ族2代目 (Dreamsleepy)
 
 <p>人が増えてきました</p><p>ですがだいたい人がいないことをご了承ください</p>
 
@@ -3035,7 +3035,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1782163678&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=pf4q9I2oZyLgbRlu96%2BvxERNBHLNU1RcMqhQ06IXx4YHN2OUc8YoCgqsFys5AEZZndi40Cy52s%2Buoke1tnPTMD2%2BZUR4hkIJxe9zLqJvWedderIybG0jj%2Fiqrv8kcshbbvUoWv3qdFahbMu7FQWz3fynQoyWUPF4%2FrVwm12KLfKH8ZAEE6Uwhxfp7fS4u1ObfSWREHqt0g6X2Le692yNvOno%2Bdmxj9hbBS%2BrqXOjoNAmIULwUb98IjKjDHY79Vb61CNWm%2F8VtOYBUFDc%2BqqEDZicWDFyDRScSFK%2FN2PkgoWcCpRaIuvuM5AP4%2BPL2kyDXn9xDzSkVQnOWLPCtGOR5g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1782167817&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=U5zZI9bvbD%2F7krP9%2BE7B%2F1C5pXB9E%2FTKQXLsKsZ4etm1zvwIecTy0deA%2FGzec06MclGfUqe2qM2oyg%2BmFCCQB9w8DesF1mn1DhclctXhfLiAkRAX000S%2BQPXqfkkhLrQW5NjOvNOYEU4ZnEvaKPZnYHNQA%2FGRtu67S9EDKam1rvAvkAUBANItQP7rCCsUApOoPKXJy5%2BSuYJcBwYRH27EjECqIDaZaqa12ij4lGxmfkIO5f1EBAmCjMNFcS1TYEKdTLMoPHsM1lf0Z1CBtfjSPUKMuM42Rlnh2em9YxsDgTK7o76poco73NOUu4UhWC6WSiuR8sunJYBd%2BkFF05nDg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
