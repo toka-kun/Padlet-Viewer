@@ -1,4 +1,4 @@
-最終取得: 2026/06/16 17:28:52
+最終取得: 2026/06/16 20:55:03
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 136
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jun 16, 2026 08:20am
+- **Updated At (UTC):** Jun 16, 2026 11:09am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -77,7 +77,29 @@
 
 ## Padletポータルワールド
 
-### 1. 🍔βプロキシα🍔
+### 1. チーター集まれ
+**Author:** カカコンジュ (h0421017_1)
+
+<p>コード共有</p>
+
+**部屋の作成日:** June 14, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 部屋主のみ
+
+**モデレーター数:** 非公開
+
+[Attachment 1](https://padlet.com/padlets/2wh7o9ot9vv7msz2)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 16, 2026 11:09am
+- **Updated At (UTC):** Jun 16, 2026 11:09am
+
+---
+
+### 2. 🍔βプロキシα🍔
 **Author:** バナナのジョージ (h1520104)
 
 <p>プロキシ&amp;ゲームは拾い物あります。</p><p>主に面白いスマホゲーム教えてください！</p><p>楽しみましょう。荒らしてもいいスッよ！！🍖</p>
@@ -93,13 +115,13 @@
 [Attachment 1](https://padlet.com/padlets/knmar63hfl232yk7)
 
 #### Additional Information
-- **Post color:** Blue
+- **Post color:** White
 - **Created At (UTC):** Jun 16, 2026 08:02am
-- **Updated At (UTC):** Jun 16, 2026 08:02am
+- **Updated At (UTC):** Jun 16, 2026 09:01am
 
 ---
 
-### 2. あろーねはぶ｜ALONEHUB
+### 3. あろーねはぶ｜ALONEHUB
 **Author:** あろーね｜alone (alone_arone)
 
 <p>proxyとかゲームなどありまっせ</p>
@@ -118,34 +140,6 @@
 - **Post color:** White
 - **Created At (UTC):** Jun 16, 2026 12:18am
 - **Updated At (UTC):** Jun 16, 2026 12:18am
-
----
-
-### 3. 🍔プロキシ交換🍔
-**Author:** バナナのジョージ (h1520104)
-
-<p>プロキシ拾い物ならあります！</p><p>ゲーム、荒らしコーナーあります！</p>
-
-**部屋の作成日:** June 15, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 非公開
-
-**モデレーター数:** 非公開
-
-[Attachment 1](https://padlet.com/padlets/knmar63hfl232yk7)
-
-#### Comments (1)
-- **バナナのジョージ** (Jun 16, 2026 08:06am): こっち消してください
-
-#### Reactions
-- **Emojis:** ❤️ (1)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 15, 2026 08:30am
-- **Updated At (UTC):** Jun 15, 2026 10:07pm
 
 ---
 
@@ -433,7 +427,7 @@
 ---
 
 ### 16. 冬部屋！
-**Author:** 西京丸 (tunaeroi)
+**Author:** 削除済みユーザー
 
 <p>3代目</p>
 
@@ -758,7 +752,7 @@
 ---
 
 ### 30. みんなで共有しよう2
-**Author:** ゾローー（元二カーー） (Tokyo874321)
+**Author:** 1X1X1X1（元二カーー） (MynicknameisMaruTokyo874321)
 
 <p>プロキシ、YouTube（ダウンローダーも）、ゲーム、SNSダウンローダー色々あるよみんな来てね（受付）</p>
 
@@ -3082,7 +3076,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1782203332&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=d0Brn8WO3G6iLCLXEmaOTAnF0NPSaQlgpJP8Jc%2Bc1vrwtPRPVRR6e%2Fgi1zS3j5XwkpNXKuOQy%2FVIx1F9%2BzD54fyh%2B2xV3jw0F6oDrWcbY4Q7VEmrwYksaJmAtTpo03r54d3vdFy4S1nX4%2BMT2jlI3PEoVGnewmBJA1Eaj5%2B84qEirzVfGdtMmcNuBMRRyNTKUsjvBCruhjhemyktFLa4xvsWN1Q8KNtyBWjxSRkjhoZnkXkcFs6hqBfXQDDps8Movh7WhmF3%2BetPCmdOoRMIDqpIc78yfNZ2LAiY3%2Fk2RNouMY7vvmGASpbABo2dvIrzW48Rhc4NfcAuwLwj%2BkyKUg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1782215703&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=pi31e3cSAcrA5l6%2FNVYE4hyO1dVCGfYo9ib%2FTisNc4ZUVUQikbfeqsh0e3eymMWFYaFZrNpvLfLTh0%2B%2BUUGoYgE%2BO39%2BvgRjpHxl%2F6tWYivLqiTu%2ByYHiUH%2B6K5U0YoZIcae2mCxbKLqkOWCI5yWVJ0jx2r%2BacWWcisN7mS4E8BZdzFN0r3Y6WiVun%2F5ZkbstS424FaR9pIwQWdtXIYIx%2Bzn2re5ipd2NLJoBwBRTGpblNrj9gwEsgcuANnISNRHE1Ck3c%2BhU4N%2Ba5stqg86c000ymIRSSjwvU%2BM8JQuElCqPYdATiPl%2BVUkbfWmyjTKgWJ0xMWA1%2FXRFSZbqPrYaA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
