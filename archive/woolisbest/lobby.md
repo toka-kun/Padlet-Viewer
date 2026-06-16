@@ -1,4 +1,4 @@
-最終取得: 2026/06/15 14:39:14
+最終取得: 2026/06/16 16:45:41
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
 - **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jun 15, 2026 04:29am
+- **Updated At (UTC):** Jun 16, 2026 06:15am
 
 ## 受付
 
@@ -269,7 +269,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p><p>※↑は今死んでます</p>
 
-#### Comments (59)
+#### Comments (60)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **orafukun_567109　　　　　　　　　煮物貢献者** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -329,6 +329,7 @@
 - **黒須エクス** (Jun 11, 2026 12:28am): フォローしたよ！入れて！s23260110@ed-tachikawa.jp
 - **しなの　＠緊急事態** (Jun 11, 2026 08:46am): おｋ
 - **くろつき** (Jun 11, 2026 11:46am): KrtkSecoms@outlook.jp
+- **kuma　コネうさとペア画** (Jun 16, 2026 06:15am): したよ
 
 #### Additional Information
 - **Post color:** Red
