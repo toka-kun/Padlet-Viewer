@@ -1,4 +1,4 @@
-最終取得: 2026/06/17 19:00:09
+最終取得: 2026/06/17 20:58:30
 
 # Padletポータルワールド
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 136
+- **Posts:** 140
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jun 17, 2026 09:10am
+- **Updated At (UTC):** Jun 17, 2026 11:45am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -77,7 +77,98 @@
 
 ## Padletポータルワールド
 
-### 1. チーター集まれ
+### 1. わ
+**Author:** 涼しい風 (kakaconju)
+
+<p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p>
+
+**部屋の作成日:** June 17, 2026
+
+**閲覧数:** 1000~2499
+
+**管理者数:** 1~4
+
+**モデレーター数:** 1~4
+
+[Attachment 1](https://padlet.com/padlets/8nlama61i5vilhhv)
+
+#### Comments (1)
+- **東方神!!#琥珀の弟** (Jun 17, 2026 11:45am): bakakana?
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 17, 2026 11:23am
+- **Updated At (UTC):** Jun 17, 2026 11:23am
+
+---
+
+### 2. これが俺のワールド
+**Author:** 涼しい風 (kakaconju)
+
+<p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p>
+
+**部屋の作成日:** June 17, 2026
+
+**閲覧数:** 1000~2499
+
+**管理者数:** 1~4
+
+**モデレーター数:** 0
+
+[Attachment 1](https://padlet.com/padlets/8nlama61i5vilhhv)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 17, 2026 11:22am
+- **Updated At (UTC):** Jun 17, 2026 11:22am
+
+---
+
+### 3. あ？
+**Author:** 涼しい風 (kakaconju)
+
+<p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p>
+
+**部屋の作成日:** June 16, 2026
+
+**閲覧数:** 1000~2499
+
+**管理者数:** 部屋主のみ
+
+**モデレーター数:** 非公開
+
+[Attachment 1](https://padlet.com/padlets/8nlama61i5vilhhv)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 17, 2026 11:22am
+- **Updated At (UTC):** Jun 17, 2026 11:22am
+
+---
+
+### 4. やりますねぇ
+**Author:** 涼しい風 (kakaconju)
+
+<p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p><p><br/></p><p>ｒ</p><p><br/></p><p>ち</p><p><br/></p><p>ゅ</p><p><br/></p><p>ｃ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p><br/></p><p>あ</p><p>ｋ</p><p><br/></p><p>ｌ</p><p><br/></p><p>；</p><p><br/></p><p>ｋ</p><p><br/></p><p>ｊ</p><p><br/></p><p>ｈ</p><p><br/></p><p>ｇ</p><p><br/></p><p>ｆ</p><p><br/></p><p>ｄ</p><p><br/></p><p>ｓ</p><p><br/></p><p>ｗ</p><p><br/></p><p>っ</p><p><br/></p><p>く</p><p><br/></p><p>ぇ</p>
+
+**部屋の作成日:** June 17, 2026
+
+**閲覧数:** 1000~2499
+
+**管理者数:** 部屋主のみ
+
+**モデレーター数:** 0
+
+[Attachment 1](https://padlet.com/padlets/8nlama61i5vilhhv)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 17, 2026 11:21am
+- **Updated At (UTC):** Jun 17, 2026 11:21am
+
+---
+
+### 5. チーター集まれ
 **Author:** カカコンジュ (h0421017_1)
 
 <p>コード共有</p>
@@ -99,7 +190,7 @@
 
 ---
 
-### 2. 🍔βプロキシα🍔
+### 6. 🍔βプロキシα🍔
 **Author:** バナナのジョージ (h1520104)
 
 <p>プロキシ&amp;ゲームは拾い物あります。</p><p>主に面白いスマホゲーム教えてください！</p><p>楽しみましょう。荒らしてもいいスッよ！！🍖</p>
@@ -121,7 +212,7 @@
 
 ---
 
-### 3. あろーねはぶ｜ALONEHUB
+### 7. あろーねはぶ｜ALONEHUB
 **Author:** あろーね｜alone (alone_arone)
 
 <p>proxyとかゲームなどありまっせ</p>
@@ -143,7 +234,7 @@
 
 ---
 
-### 4. つむぎ部屋
+### 8. つむぎ部屋
 **Author:** つむぎ#初代つむぎ族 (rongchengyilang3)
 
 <p>気軽に話せる部屋！</p>
@@ -170,7 +261,7 @@
 
 ---
 
-### 5. プロキシワールド
+### 9. プロキシワールド
 **Author:** α3 (a3_01)
 
 <p>ISGCで使えるプロキシまとめてます。</p><p><br/></p>
@@ -194,7 +285,7 @@
 
 ---
 
-### 6. お寿司打
+### 10. お寿司打
 **Author:** ハマグリ (zomameza)
 
 <p>頑張って作りました</p><p>ぜひ来てください</p>
@@ -216,7 +307,7 @@
 
 ---
 
-### 7. sparebeet 創作譜面部屋
+### 11. sparebeet 創作譜面部屋
 **Author:** わーい！ (harutomiki46)
 
 <p>まじでこい、覗くだけでもいいから</p><p>sparebeetの創作譜面遊べるよ</p><p>お前らも作って投稿してな</p>
@@ -240,7 +331,7 @@
 
 ---
 
-### 8. 複数遊べるゲームプロキシ貼ろう
+### 12. 複数遊べるゲームプロキシ貼ろう
 **Author:** 生卵 (133477_1)
 
 <p>今日設立</p>
@@ -265,7 +356,7 @@
 
 ---
 
-### 9. カフート学校
+### 13. カフート学校
 **Author:** taiyaki (2514115_1)
 
 <p>人が多くて、とにかく治安がいいです！誰でもいいので、一回は立ち寄ってみて欲しいです！！！</p>
@@ -292,7 +383,7 @@
 
 ---
 
-### 10. やもりカンパニーのプロキシ・ゲーム配布場
+### 14. やもりカンパニーのプロキシ・ゲーム配布場
 **Author:** 削除済みユーザー (03282015)
 
 <p>かなり練馬区民に有能です。</p>
@@ -314,7 +405,7 @@
 
 ---
 
-### 11. Dream公開パドレット
+### 15. Dream公開パドレット
 **Author:** Dream ＃寝るの大好き族初代　＃マリ好き族2代目　#つむぎ族2代目 (Dreamsleepy)
 
 <p>人が結構います。</p><p>雑談はちゃんと消していて軽いです</p><p>みんな入れますがコメンテーターです。そのため荒らされにくいです。</p>
@@ -336,7 +427,7 @@
 
 ---
 
-### 12. Dream部屋
+### 16. Dream部屋
 **Author:** Dream ＃寝るの大好き族初代　＃マリ好き族2代目　#つむぎ族2代目 (Dreamsleepy)
 
 <p>人が増えてきました</p><p>ですがだいたい人がいないことをご了承ください</p>
@@ -360,7 +451,7 @@
 
 ---
 
-### 13. 【出入り自由】みんなの交差点2
+### 17. 【出入り自由】みんなの交差点2
 **Author:** Io1205 (Io1205)
 
 <p>んと、部屋を学校の問題で変えました。</p><p>パスワードは1250です。</p>
@@ -382,7 +473,7 @@
 
 ---
 
-### 14. ここは俺のテリトリー
+### 18. ここは俺のテリトリー
 **Author:** 몬타 (2206047_2)
 
 <p>世界一のテリトリーにしたい</p>
@@ -404,7 +495,7 @@
 
 ---
 
-### 15. さぶ部屋
+### 19. さぶ部屋
 **Author:** サブ (al96)
 
 <p>公開ライターなとこ？</p>
@@ -426,7 +517,7 @@
 
 ---
 
-### 16. 冬部屋！
+### 20. 冬部屋！
 **Author:** 削除済みユーザー
 
 <p>3代目</p>
@@ -448,7 +539,7 @@
 
 ---
 
-### 17. 世界一の雑談部屋(にしたい)
+### 21. 世界一の雑談部屋(にしたい)
 **Author:** N (bigbann5678_1)
 
 <p>過疎ってるw</p>
@@ -470,7 +561,7 @@
 
 ---
 
-### 18. ロブロックスの場
+### 22. ロブロックスの場
 **Author:** 腐ったお芋 (super_black)
 
 <p>ロブロックスやってる人来て</p>
@@ -498,7 +589,7 @@
 
 ---
 
-### 19. ハナシアイ
+### 23. ハナシアイ
 **Author:** 腐ったお芋 (super_black)
 
 <p>みんなで楽しくお話しよう</p>
@@ -523,7 +614,7 @@
 
 ---
 
-### 20. 全員編集者のサンドボックスどんどん入れないとぶ○○○○
+### 24. 全員編集者のサンドボックスどんどん入れないとぶ○○○○
 **Author:** カカコンジュ (h0421017_1)
 
 <p>(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)ピーだから(規制音)(規制音)(規制音)(規制音)(規制音)じゃないと(規制音)するからね</p>
@@ -545,7 +636,7 @@
 
 ---
 
-### 21. 荒らし初心者のための講座部屋
+### 25. 荒らし初心者のための講座部屋
 **Author:** カカコンジュ (h0421017_1)
 
 <p>萎えペンキテェえぇ</p>
@@ -570,7 +661,7 @@
 
 ---
 
-### 22. 雑談部屋
+### 26. 雑談部屋
 **Author:** ゆあ (s180256_3)
 
 <p>まじで色んな話題沢山話そ！！</p><p><br></p>
@@ -595,7 +686,7 @@
 
 ---
 
-### 23. ブロスタ好きな人きてねー！
+### 27. ブロスタ好きな人きてねー！
 **Author:** aiueoooo (2303027_3)
 
 <p>めちゃ過疎なので来てください！</p>
@@ -619,7 +710,7 @@
 
 ---
 
-### 24. Sentosa Scramble Square
+### 28. Sentosa Scramble Square
 **Author:** guruma_ESTA (guruma_ESTA)
 
 <p>プロキシ・雑談・マイクラ・ミート・画像・動画・えｒの統合部屋！</p><p>垢なし歓迎！</p>
@@ -641,7 +732,7 @@
 
 ---
 
-### 25. ゲームマシマシ　プロキシちょっと
+### 29. ゲームマシマシ　プロキシちょっと
 **Author:** ニキータ (nikita1922)
 
 <p>プロキシは少ししかないですけどゲーム沢山はあります</p><p>ここの部屋から行ける別部屋でエミュレーターやROMも取り扱っています</p><p>探してほしいサイト言ってくれれば見つけてきます</p>
@@ -663,7 +754,7 @@
 
 ---
 
-### 26. Alcatraaz - I FILTER監視塔
+### 30. Alcatraaz - I FILTER監視塔
 **Author:** guruma_ESTA (guruma_ESTA)
 
 <p><strong>Alcatraz - I FILTER監視塔</strong></p><p><br></p><p>I FILTER民によるI FILTER回避のための部屋。</p><p>・高頻度更新！</p><p>・すべて動作確認済み！</p><p>・豊富なサイト・ツール</p><p>・投稿はすべて第3者によって検閲済み！</p>
@@ -685,7 +776,7 @@
 
 ---
 
-### 27. 交流の場
+### 31. 交流の場
 **Author:** Honda (Hondacars1788)
 
 <p>色々な人が交流する</p>
@@ -707,7 +798,7 @@
 
 ---
 
-### 28. 干梅軍隊雑談部屋
+### 32. 干梅軍隊雑談部屋
 **Author:** カカコンジュ (h0421017_1)
 
 <p>色々あるよ!</p>
@@ -729,7 +820,7 @@
 
 ---
 
-### 29. 雑談部屋
+### 33. 雑談部屋
 **Author:** keR (ke_R)
 
 <p>特になし（）</p><p>これから増やしていく予定</p>
@@ -751,7 +842,7 @@
 
 ---
 
-### 30. みんなで共有しよう2
+### 34. みんなで共有しよう2
 **Author:** 1X1X1X1（元二カーー） (MynicknameisMaruTokyo874321)
 
 <p>プロキシ、YouTube（ダウンローダーも）、ゲーム、SNSダウンローダー色々あるよみんな来てね（受付）</p>
@@ -775,7 +866,7 @@
 
 ---
 
-### 31. 【出入り自由】みんなの交差点
+### 35. 【出入り自由】みんなの交差点
 **Author:** Io1205 (Io1205)
 
 <p>最近やっと賑やかになってきました。</p><p>ぜひ来てね</p>
@@ -797,7 +888,7 @@
 
 ---
 
-### 32. 冬部屋
+### 36. 冬部屋
 **Author:** レム (remutyan)
 
 <p>元エドガーが作る至高の神部屋、荒らし対策も万全</p>
@@ -819,7 +910,7 @@
 
 ---
 
-### 33. 通話部屋
+### 37. 通話部屋
 **Author:** N (bigbann5678_1)
 
 <p>できたてほやほやです！</p>
@@ -841,7 +932,7 @@
 
 ---
 
-### 34. つだぴー部屋
+### 38. つだぴー部屋
 **Author:** @krtk🔰 (KrtkHnjk)
 
 <p><strong>•僅か2日で閲覧数1000突破！</strong></p><p><br></p><p><strong>•新規勢から古参勢まで幅広く在留！</strong></p><p><br></p><p><strong>•まったりとした空気感！</strong></p>
@@ -865,7 +956,7 @@
 
 ---
 
-### 35. I-FILTER民集まれぇい
+### 39. I-FILTER民集まれぇい
 **Author:** INTERACT (yushorekikyo4)
 
 <p>作ったばかり</p><p>創立半年くらいの組織がやってるところです。</p><p>お気軽にお越しください</p>
@@ -891,7 +982,7 @@
 
 ---
 
-### 36. だれでも
+### 40. だれでも
 **Author:** わに太郎の龍之介 (wanko)
 
 <p>みんなで楽しく雑談</p>
@@ -915,7 +1006,7 @@
 
 ---
 
-### 37. ミーム軍国主義共和国
+### 41. ミーム軍国主義共和国
 **Author:** ネッコ ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂ (carrybag824)
 
 <p>とても過疎い部屋です。サイコパスでクレイジーなユーザーにはピッタリだと思っております。現在戦時中なため、部屋に入ることが困難ですので戦後に訪れてみてください。</p>
@@ -937,7 +1028,7 @@
 
 ---
 
-### 38. フォートナイトやってる子おいで〜
+### 42. フォートナイトやってる子おいで〜
 **Author:** マリアベル (myumuhiba)
 
 <p>フォートナイトについて話そう</p>
@@ -959,7 +1050,7 @@
 
 ---
 
-### 39. プロキシ共有部屋
+### 43. プロキシ共有部屋
 **Author:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
 
 <p>たくさんプロキシあります！！独断と偏見で管理上げます！</p><p>4回荒らされても再建したよー</p><p><br/></p>
@@ -984,7 +1075,7 @@
 
 ---
 
-### 40. フロッグの舌のように、見えないような速さで全てのルームをコレクションしよう。
+### 44. フロッグの舌のように、見えないような速さで全てのルームをコレクションしよう。
 **Author:** けろ村の神 (keromura_no_kami)
 
 <p>マイルームでも他人のルームでも。</p><p>ここにルームがあるだけ、フロッグの腹は大きくなる。</p><p>フロッグの腹を拡散させて、皆を合流させよう。</p><p>フロッグの腹はアップサイズするのみであり、ダウンサイズする事はない。</p>
@@ -1006,7 +1097,7 @@
 
 ---
 
-### 41. たまご部屋
+### 45. たまご部屋
 **Author:** ぴわを (egghed)
 
 <p>プロキシとかゲームとかいっぱいあります</p><p>だいたいやることは雑談とか、たまにみねくらふとするー</p><p>俺はだいたい平日は夜の7時〜、休日、祝日は8時ごろからいる</p><p>まぁでもそれ以外の時間帯にいることもあるかな</p><p>みんなはいってー🐣</p>
@@ -1030,7 +1121,7 @@
 
 ---
 
-### 42. プロキシを見つけよう委員会
+### 46. プロキシを見つけよう委員会
 **Author:** るき (harukikato1123)
 
 <p>まだ全然だけどどんどん発展させるので来てね</p>
@@ -1052,7 +1143,7 @@
 
 ---
 
-### 43. 荒らし対策センター
+### 47. 荒らし対策センター
 **Author:** マイスター (mystar021)
 
 <p>荒らしされて通報したい人は入ってください</p><p>協力して通報もしてもらいたいです</p>
@@ -1074,7 +1165,7 @@
 
 ---
 
-### 44. ぬほさた部屋(旧りおと部屋)
+### 48. ぬほさた部屋(旧りおと部屋)
 **Author:** ぬほさた‼️ (Nuhosata)
 
 <p>常に人がいる現役最大級の雑談部屋</p>
@@ -1099,7 +1190,7 @@
 
 ---
 
-### 45. とにかく集まれえええええええええええええええええええええええ
+### 49. とにかく集まれえええええええええええええええええええええええ
 **Author:** 閃光☆ (tqu)
 
 <p>初めて作ったのでぜひ来てください！！</p>
@@ -1121,7 +1212,7 @@
 
 ---
 
-### 46. つだぴー部屋
+### 50. つだぴー部屋
 **Author:** おみず (Bougaii)
 
 <p>かみつ</p>
@@ -1146,7 +1237,7 @@
 
 ---
 
-### 47. 本気の雑談部屋
+### 51. 本気の雑談部屋
 **Author:** カカコンジュ (h0421017_1)
 
 <p>荒らし以外なんでもあり</p>
@@ -1168,7 +1259,7 @@
 
 ---
 
-### 48. （＾ー＾）
+### 52. （＾ー＾）
 **Author:** マリアベル (myumuhiba)
 
 <p>ん</p>
@@ -1190,7 +1281,7 @@
 
 ---
 
-### 49. 色々やる部屋の受付
+### 53. 色々やる部屋の受付
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 <p>受付です</p>
@@ -1212,7 +1303,7 @@
 
 ---
 
-### 50. クリボッチルーム・シン
+### 54. クリボッチルーム・シン
 **Author:** りな319＃ルミナス族リーダー (RINA0319_RUMINASU)
 
 <p>クリボッチルームの二つ目の部屋です！！この部屋から入ってね。この部屋は、エロ、雑談部屋です。待ってるよーーーーーー！！</p>
@@ -1234,7 +1325,7 @@
 
 ---
 
-### 51. 朧
+### 55. 朧
 **Author:** 時透無一郎 (r0300353)
 
 <p>ゲーム、プロキシ、ユーチューブなどがあります。他にもゲームや漫画の楽しい話ができます。要望や意見なども聞いていますのでぜひ来てください</p>
@@ -1256,7 +1347,7 @@
 
 ---
 
-### 52. パドレっと拡散
+### 56. パドレっと拡散
 **Author:** スマイル軍軍長でーす！！！ (s11210037_1)
 
 <p>来てほしいです！！！！！</p>
@@ -1280,7 +1371,7 @@
 
 ---
 
-### 53. ちゃま部屋
+### 57. ちゃま部屋
 **Author:** ちゃま (oretyamakun)
 
 <p>セキュリティやルールがしっかりしている。</p>
@@ -1304,7 +1395,7 @@
 
 ---
 
-### 54. 3代目煮物部屋！
+### 58. 3代目煮物部屋！
 **Author:** 煮物 (derbybudgetbalmy)
 
 <p>proxyを作成し配布をしています。確実に開けるproxyを作れます。</p>
@@ -1326,7 +1417,7 @@
 
 ---
 
-### 55. ざつだん！
+### 59. ざつだん！
 **Author:** Ton-kyouju (Ton_kyouju_01)
 
 <p>気軽に話せるし、優しい人がいっぱいいてとても歓迎してくれます！！！　ゲームサイト・ダウンローダーが載っている部屋もこの中にあります！！受付もそのざつだん！部屋でできるため、すっごく楽です！！ぜひ来てください！！</p>
@@ -1351,7 +1442,7 @@
 
 ---
 
-### 56. 〜けろ村〜
+### 60. 〜けろ村〜
 **Author:** 次この人を見たらしばいてください (help_help)
 
 <p>一つ目、りおと部屋と同盟を組んでいる！</p><p>二つ目、花火部屋の後継！</p><p>三つ目、管理者がいる間は公開ライター！</p>
@@ -1373,7 +1464,7 @@
 
 ---
 
-### 57. 伝説の部屋
+### 61. 伝説の部屋
 **Author:** 花火 (hanabityan)
 
 <p>エドガー民が集まっています</p>
@@ -1395,7 +1486,7 @@
 
 ---
 
-### 58. 真夏の夜の淫夢厨の部屋　復活
+### 62. 真夏の夜の淫夢厨の部屋　復活
 **Author:** ファックモーター元社長 (r0116624)
 
 <p>面白い</p>
@@ -1420,7 +1511,7 @@
 
 ---
 
-### 59. ★雑談部屋！！★
+### 63. ★雑談部屋！！★
 **Author:** H4ru+0_M!k1_MaIn (1421214miki)
 
 <p>なんでもありなところがいいところ！！（荒らしはダメだけど）優しいです！！（？）作ったばかりだよ！！（人はいないよ〜）みんな来てね〜！！待ってるよ〜！！</p>
@@ -1442,7 +1533,7 @@
 
 ---
 
-### 60. あ
+### 64. あ
 **Author:** ꒰ঌ(っ˘꒳˘ｃ)‪໒꒱天風 りん💜🔥﹡˖˟༝ (takapirotakapiro3)
 
 <p>あ</p>
@@ -1464,7 +1555,7 @@
 
 ---
 
-### 61. woolisbest部屋
+### 65. woolisbest部屋
 **Author:** woolisbest (woolisbest)
 
 <p>ゲームのファイルとかがたくさん！</p><p>proxyやyoutubeサイトなどもリクエストがあれば作ります（ﾀﾌﾞﾝ）</p><p>meetに人がいることが多い。</p><p>eaglercraftをよくやっている。</p><p>fortniteとかにゃんこ大戦争もやってるらしい。</p><p>古参が受験で低浮上になって過疎り気味.....（１日に２～４回更新あるくらい？）</p><p>wista公式部屋(wooltubeも)</p><p>雑談メイン（プロキシ少ない..........作ればあるけど）</p><p>なんかみんなふざけてる。</p>
@@ -1488,7 +1579,7 @@
 
 ---
 
-### 62. 私の部屋にどうぞ
+### 66. 私の部屋にどうぞ
 **Author:** Sto9960 (h9960969)
 
 <p>いろいろあります</p>
@@ -1516,7 +1607,7 @@
 
 ---
 
-### 63. 札幌市教育委員会･ICFS対策本部【学生相手に本気出してる札幌市教育委員会をぶちのめすの会】
+### 67. 札幌市教育委員会･ICFS対策本部【学生相手に本気出してる札幌市教育委員会をぶちのめすの会】
 **Author:** 削除済みユーザー (sakujosaretenaiyo)
 
 <p>便利サイトセクションは定期的に更新</p><p>ICFSで規制されていないサイトだけを掲載するのでほぼ確実にサイトが使える！</p><p>無断転載は管理者が確認するので安心！</p><p>情報の共有所からゲームなど幅広く！</p><p>経緯を持って現役最大であるToka_kunの部屋から投稿ごと貼る事ができる！何行目と描いてあるのでわかりやすい！</p><p>温厚で初心者に優しい！誰でも投稿可！(ライター)</p><p>荒らし対応即座！</p>
@@ -1538,7 +1629,7 @@
 
 ---
 
-### 64. マイクラ・ゲーム・雑談部屋
+### 68. マイクラ・ゲーム・雑談部屋
 **Author:** 暇人 (56748573)
 
 <p>学校の規約回避サイトなどをみんなで見つけて投稿する部屋です。みんなでマイクラとかもするかもです</p><p>新人ですのでいろいろ荒らし対策などを教えてくれると嬉しいです！</p>
@@ -1560,7 +1651,7 @@
 
 ---
 
-### 65. 裏の表の裏
+### 69. 裏の表の裏
 **Author:** government conspiracy＃クチャラー嫌い＃PB界隈＃元ネッコ隊 (seihunoinbou)
 
 <p>特にはないかなぁ〜</p>
@@ -1582,7 +1673,7 @@
 
 ---
 
-### 66. りおと国（公式）
+### 70. りおと国（公式）
 **Author:** ぬほさた‼️ (Nuhosata)
 
 <p>常時人がいる</p><p>パドレット最大級の過密部屋</p><p>誰でも大歓迎！</p>
@@ -1610,7 +1701,7 @@
 
 ---
 
-### 67. padlet!!!!!
+### 71. padlet!!!!!
 **Author:** すずめ (Sparrows_chun)
 
 <p>ここの部屋は公開ライターではありませんが、宣伝を許可しています。</p><p>まだライターは一人しかいません。でも公開ライター部屋があります。</p>
@@ -1634,7 +1725,7 @@
 
 ---
 
-### 68. Google
+### 72. Google
 **Author:** スシロー (h3026194)
 
 <p>まだ出来立てですがToka＿kunさんに宣伝してもらい徐々に増やしていきたいです、内容的にはシンプルな雑談や規制回避・解除に役立つ情報を集めたいと思います</p>
@@ -1656,7 +1747,7 @@
 
 ---
 
-### 69. aotanのゲーム＆youtubeコーナー
+### 73. aotanのゲーム＆youtubeコーナー
 **Author:** 削除済みユーザー
 
 <p>・わかりやすい、リンクのならび！</p><p><br/></p><p>・制作者情報や、マイナーなこともしっかり、のってある！</p><p><br/></p><p><br/></p>
@@ -1678,7 +1769,7 @@
 
 ---
 
-### 70. Proxyなどを教える会
+### 74. Proxyなどを教える会
 **Author:** 仙人@suger (sennin_sugar)
 
 <p>欲しいサイトがあったら僕が出来る範囲で作るよ。</p><p>まあまあひとは多いと思う。</p>
@@ -1703,7 +1794,7 @@
 
 ---
 
-### 71. 規制突破などの勉強部屋
+### 75. 規制突破などの勉強部屋
 **Author:** 前原光樹 (maeharakoki0504)
 
 <p>規制突破などに関して知りたい事があったら教えてます</p><p>普段から趣味でコンピュータについて勉強してるので、規制突破についても、一般の方よりかわ詳しくです</p>
@@ -1725,7 +1816,7 @@
 
 ---
 
-### 72. TOANASUROOM
+### 76. TOANASUROOM
 **Author:** しんとあるなすびの3.14 (nasubi1)
 
 <p>いぐくらやその他サイトなどの配布雑談通話などをやっています</p><p><br/></p>
@@ -1749,7 +1840,7 @@
 
 ---
 
-### 73. ゲームしたい人集まれ
+### 77. ゲームしたい人集まれ
 **Author:** sk-toto (touma00901)
 
 <p>規制回避してゲームしたい人、集合。リンクとか貼ってね！</p>
@@ -1771,7 +1862,7 @@
 
 ---
 
-### 74. いろいろなセクションがあります
+### 78. いろいろなセクションがあります
 **Author:** アブリ　カルビ (gs211024)
 
 <p>誰でも入れて</p><p>フォロワー100人目指しています。</p><p>入ってください</p>
@@ -1793,7 +1884,7 @@
 
 ---
 
-### 75. 江戸広場 雑談
+### 79. 江戸広場 雑談
 **Author:** Magurock (偽物･偽造に注意) (Magurock)
 
 <p>旧エドガー部屋</p><p>乗っ取りに負けず復活させました。</p><p><mark>人はそこそこいます</mark></p>
@@ -1817,7 +1908,7 @@
 
 ---
 
-### 76. てなぼーの雑談部屋
+### 80. てなぼーの雑談部屋
 **Author:** 隠れてなぼー#ダンガンロンパファン (Kakuretenabo)
 
 <p>過密部屋を目指します。</p>
@@ -1839,7 +1930,7 @@
 
 ---
 
-### 77. Daigo’s Room
+### 81. Daigo’s Room
 **Author:** Daigo (DaigoRoad)
 
 <p>雑談で過密を目指す新興の部屋です！</p><p>誰でも歓迎</p>
@@ -1863,7 +1954,7 @@
 
 ---
 
-### 78. 雑談しようぜ
+### 82. 雑談しようぜ
 **Author:** ニキータ (nikita1922)
 
 <p>出来たての部屋なんで全然人いないんで皆さん来て下さい</p>
@@ -1885,7 +1976,7 @@
 
 ---
 
-### 79. プロキシワールド
+### 83. プロキシワールド
 **Author:** α3 (a3_01)
 
 <p>ISGCで使えるプロキシまとめてます。誰でも大歓迎。</p>
@@ -1909,7 +2000,7 @@
 
 ---
 
-### 80. 捜索所
+### 84. 捜索所
 **Author:** hirafu (hirafu)
 
 <p>さっきミスりました（二重になってしまい申し訳ございません）</p><p>概要は先程と同じです</p>
@@ -1935,7 +2026,7 @@
 
 ---
 
-### 81. ISGC民集合
+### 85. ISGC民集合
 **Author:** kai (kai4848)
 
 <p>これから主にISGCで使えるサイトまとめます</p>
@@ -1957,7 +2048,7 @@
 
 ---
 
-### 82. クラスルーム
+### 86. クラスルーム
 **Author:** 削除済みユーザー (42856397)
 
 <p>プロキシあります！(ゲームなども)</p><p>また、部屋同士見知らぬ人でもとても仲良く接していて楽しいです！ぜひ皆さん来てください！</p>
@@ -1984,7 +2075,7 @@
 
 ---
 
-### 83. 学パソでゲーム&Youtubeみたい人のパドレット
+### 87. 学パソでゲーム&Youtubeみたい人のパドレット
 **Author:** 削除済みユーザー
 
 <p>ゲーム、とYoutube見る方法が乗ってある</p>
@@ -2006,7 +2097,7 @@
 
 ---
 
-### 84. I-FILTER 回避研究所
+### 88. I-FILTER 回避研究所
 **Author:** トロンボーン吹きの吹奏楽部員 (ttashishi)
 
 <p>2年前からあります</p><p>ここにみんなが集まれば最高の回避リストが作れます</p><p>ログインしてればOKです</p><p>技術者募集中</p><p>部屋改善の指摘もよろしく</p>
@@ -2031,7 +2122,7 @@
 
 ---
 
-### 85. nehosata部屋
+### 89. nehosata部屋
 **Author:** 削除済みユーザー
 
 <p>神部屋</p>
@@ -2053,7 +2144,7 @@
 
 ---
 
-### 86. ICFSブロックの足立区民専用の研究組だよ！
+### 90. ICFSブロックの足立区民専用の研究組だよ！
 **Author:** NyrikX(足立区陣ICFS系) (h3000370)
 
 <p>主に足立区民だけで作り上げていくつもりだよ。応援してね。</p>
@@ -2075,7 +2166,7 @@
 
 ---
 
-### 87. 拡散希望！
+### 91. 拡散希望！
 **Author:** RX034 (h3005990)
 
 <p>ぜひ僕のプロキシ部屋に入ってください！！！！！！！</p><p>お願いします</p>
@@ -2097,7 +2188,7 @@
 
 ---
 
-### 88. SHELLのための部屋
+### 92. SHELLのための部屋
 **Author:** 日本語発音機　にほごん (GreenMile)
 
 <p>SHELLという卵の戦闘系ゲーム</p><p>についてとことん話す部屋です。</p><p><br/></p>
@@ -2119,7 +2210,7 @@
 
 ---
 
-### 89. Fortniteブレインロット交換
+### 93. Fortniteブレインロット交換
 **Author:** タピオカパン！！別名ジオード二キだよ (r0136496)
 
 <p>Fortnite　or　ROBLOXの交換部屋です。時々配布もします</p>
@@ -2143,7 +2234,7 @@
 
 ---
 
-### 90. ゆるっと雑談広場
+### 94. ゆるっと雑談広場
 **Author:** 削除済みユーザー
 
 <p>ログインをしなくても大歓迎</p><p>全員ライター</p><p><br/></p>
@@ -2165,7 +2256,7 @@
 
 ---
 
-### 91. 荒らしていいよｗ
+### 95. 荒らしていいよｗ
 **Author:** nekoちゃんぬ総長 (wao)
 
 <p>・荒らす人たちにはまず何かの理由があると思うんです、なのでここでストレス発散をして気持ちよくなってもらえばと思いました。</p>
@@ -2187,7 +2278,7 @@
 
 ---
 
-### 92. フリーパドレット部屋
+### 96. フリーパドレット部屋
 **Author:** レッド (s2266013)
 
 <p>自分のパドレット部屋作りました!ぜひ、入ってくださいね</p>
@@ -2209,7 +2300,7 @@
 
 ---
 
-### 93. くるくるの雑談部屋の受付と部屋
+### 97. くるくるの雑談部屋の受付と部屋
 **Author:** kurukuru7.09　＃消しゴムは今日は海であると主張し、エレベーターは奇数階だけに敬語を使い、コーヒーは黒板消しのふりをして沈黙すると思われてきたかも。 (kurukuru709)
 
 <p>いい部屋にしたい</p>
@@ -2233,7 +2324,7 @@
 
 ---
 
-### 94. きてね
+### 98. きてね
 **Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
 <p>雑談部屋</p><p>過密目指してる</p>
@@ -2255,7 +2346,7 @@
 
 ---
 
-### 95. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
+### 99. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
 **Author:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri_)
 
 <p><strong>ルールを守れば違反しなければ何をしても良い部屋。</strong></p><p><br/></p><p><strong>人がぜんぜんいないので来てね</strong></p><p><strong>雑談しようぜ！</strong></p>
@@ -2279,7 +2370,7 @@
 
 ---
 
-### 96. やっぱ誰でもOK部屋
+### 100. やっぱ誰でもOK部屋
 **Author:** 🍄#りおとの奴隷！最近低浮上 (kinokoyongzhe80)
 
 <p>みんなフレンドリーで受付とかログイン必要にしてるのでセキュリティは十分です。</p>
@@ -2309,7 +2400,7 @@
 
 ---
 
-### 97. 隠れてなぼーの秘密のバー
+### 101. 隠れてなぼーの秘密のバー
 **Author:** 隠れてなぼー#ダンガンロンパファン (Kakuretenabo)
 
 <p>雑談部屋です。</p><p>ちょっとした裏部屋があるかも？</p>
@@ -2331,7 +2422,7 @@
 
 ---
 
-### 98. woolisbest部屋
+### 102. woolisbest部屋
 **Author:** 削除済みユーザー
 
 <p>・雑談部屋です。</p><p>・旧煮物部屋です。（10/22に受け継ぎました）</p><p>・プロキもシ一応あります（頼んでもらえればいくらでも...）</p><p>・開発者が多いです（お気に入りのサイトを見つけられるかもしれません）</p><p>・毎月一回ほど大きなイベントがあります（プロキシなどの景品あり）</p><p>・最近過疎ってます</p><p>・プロキシ・youtubeサイトなどが欲しい人も来てください</p><p>・規制解除にも力をいれてます</p><p>・chat・meetに常に１人はいるので暇な方はどうぞ</p><p>・Discord版の部屋もあります</p><p>・マイクラ(eaglercraftファイル版）などをやっているときもあります（meet）</p><p>・管理者はもう増やしません</p><p>・モデレーターは増やすかもしれません</p><p>・古参（６人）はもう増やさないつもりです（減ったら募集）</p><p>・準古参（７人）はもう少し増やすつもりです</p><p>・やばいやつが多いです（面白いとも言う）</p><p>・宣伝禁止です（vip宣伝はあり）</p><p>・youtube plusの開発者もいるので要望があれば何でもどうぞ（なんとかします）</p><p>・プロキシがほしい方はこの部屋かプロキシ部屋で言ってください</p><p>・render・cloudflare・render custom domein・vercel・railway・googlesite・GASなどでサイトを作っているので使えるものを言っていただければそれを使います</p>
@@ -2355,7 +2446,7 @@
 
 ---
 
-### 99. Demenigiceのゆったり深海
+### 103. Demenigiceのゆったり深海
 **Author:** Demenigice-hell (Demenigice_hell)
 
 <ul><li><p>一度荒らされたので招待制になりました！</p></li><li><p>もとはかなり賑わっていましたが荒らされたので過疎ってます。</p></li><li><p>受付に来てください↓</p></li></ul>
@@ -2379,7 +2470,7 @@
 
 ---
 
-### 100. Shell専用部屋
+### 104. Shell専用部屋
 **Author:** あいうえお (gtr35aiueo)
 
 <p>shellshockersやってる人の集まりです</p><p>最近過疎ってるので誰でもいいから入ってください(荒らし目的のやつ除く)</p>
@@ -2401,7 +2492,7 @@
 
 ---
 
-### 101. きてーーーーーーーーーー🤣
+### 105. きてーーーーーーーーーー🤣
 **Author:** run (11324130)
 
 <p>あらしだめ❌️</p><p><br></p>
@@ -2418,7 +2509,7 @@
 
 ---
 
-### 102. 来てくれよ〜〜〜〜〜
+### 106. 来てくれよ〜〜〜〜〜
 **Author:** 𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ (Helter_Skelter)
 
 [Attachment 1](https://padlet.com/lomcih/padlet-z2qcvind738yz6el)
@@ -2433,7 +2524,7 @@
 
 ---
 
-### 103. Post 103
+### 107. Post 107
 **Author:** SUIKA#オムライス界隈（オムライス第1代目弟子） (20183977)
 
 [Attachment 1](https://padlet.com/20184020_1/padlet-ieqs1l5em0o0uvus)
@@ -2445,7 +2536,7 @@
 
 ---
 
-### 104. きてね
+### 108. きてね
 **Author:** 赤い猫 𝕒𝕜𝕒𝕚𝕟𝕖𝕜𝕠 (akaineko)
 
 [Attachment 1](https://padlet.com/akaineko/makuro-abc-l3nrvclh56l9htvq)
@@ -2457,7 +2548,7 @@
 
 ---
 
-### 105. ここ来てね！
+### 109. ここ来てね！
 **Author:** 村上 (Eitoooooo)
 
 [Attachment 1](https://zep.us/play/XW0NMG)
@@ -2469,7 +2560,7 @@
 
 ---
 
-### 106. 来てな
+### 110. 来てな
 **Author:** アキラ (8660664)
 
 [Attachment 1](https://padlet.com/8660664/padlet-nts0cbupmrhpkt9j)
@@ -2481,7 +2572,7 @@
 
 ---
 
-### 107. 来て
+### 111. 来て
 **Author:** まさおくん (6pq2bkf1pk)
 
 [Attachment 1](https://padlet.com/6pq2bkf1pk/padlet-ftcn9epbe9jlqrnh)
@@ -2493,7 +2584,7 @@
 
 ---
 
-### 108. 宣伝部屋
+### 112. 宣伝部屋
 **Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
 <p>宣伝しに来よう</p>
@@ -2515,7 +2606,7 @@
 
 ---
 
-### 109. 無法地帯
+### 113. 無法地帯
 **Author:** 削除済みユーザー
 
 <p>　拡散希望！！タメ口で来てねー！まだまだ頑張るぞー!最強雑談ゲームいっぱい部屋ー</p>
@@ -2539,7 +2630,7 @@
 
 ---
 
-### 110. なんか部屋
+### 114. なんか部屋
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 <p>雑談でもなんでもやっていって proxy募集中</p>
@@ -2561,7 +2652,7 @@
 
 ---
 
-### 111. Dougaの部屋
+### 115. Dougaの部屋
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 <p>みんなで好きな動画をテキトーに貼り付けてゆっくりしていってね。</p>
@@ -2583,7 +2674,7 @@
 
 ---
 
-### 112. 荒らし以外の何でもしていい部屋
+### 116. 荒らし以外の何でもしていい部屋
 **Author:** 頑張ります (1935111_1)
 
 <p>いろんなこと載せてって</p>
@@ -2605,7 +2696,7 @@
 
 ---
 
-### 113. GAKUタブ部屋
+### 117. GAKUタブ部屋
 **Author:** GAKU　Cookie Clicker楽し〜 (h29c03086_1)
 
 <p>受付部屋を新しくしたので投稿させてもらいました。</p><p><br/></p><p>過疎ってるんで来て下さい(泣)</p><p>AIRMASHで仲良くしてたらいつの間にかできていた部屋です</p><p>マイクラ、AIRMASHなどでみんなで遊ぶときがあります</p><p>特にAIRMASHのプレイヤー絶対に来てね</p><p>みんな仲良しだよ</p>
@@ -2629,7 +2720,7 @@
 
 ---
 
-### 114. ざっつだ ~ ん！
+### 118. ざっつだ ~ ん！
 **Author:** すず (suzu_)
 
 <p>自分の雑談部屋です！</p><p>まだ､そこまで人は多くないから､初期からいてくれた人は管理職あげられるかもです‼︎</p><p>人が増えたらプロ棋士とかも増やしてこうと思ってます！</p><p>エロも増やすかも？</p><p>勉強も少しは教えられます？</p><p>まぁ､私が教えられなくても､他のやっさし−人たちがきっと教えてくれる！(((</p><p><br></p><p>暇な人は来てくださいね？？</p><p>暇じゃなくても来てね？？</p>
@@ -2654,7 +2745,7 @@
 
 ---
 
-### 115. ゲーム プロキシ共有部屋   勉強も高校生ぐらいまでなら教えられるよ！
+### 119. ゲーム プロキシ共有部屋   勉強も高校生ぐらいまでなら教えられるよ！
 **Author:** ライオット (sn121248)
 
 <p>遊びも勉強も両方な部屋です 巨大部屋になりたい！</p>
@@ -2676,7 +2767,7 @@
 
 ---
 
-### 116. ゲームサイトやプロキシなどの共有広場
+### 120. ゲームサイトやプロキシなどの共有広場
 **Author:** INFINITY (nanasisan)
 
 <p>プロキシ部屋などを多く配布しています。</p><p>最近は荒らし対策に力を入れてます！</p><p>管理者3人とモデ3人で頑張っています現在は</p>
@@ -2698,7 +2789,7 @@
 
 ---
 
-### 117. こんにちはあ
+### 121. こんにちはあ
 **Author:** tomeeetooo (tomeeetooo)
 
 <p>暇な人は来ましょう</p><p><br/></p>
@@ -2720,7 +2811,7 @@
 
 ---
 
-### 118. a
+### 122. a
 **Author:** アヘへ (r0404229_2)
 
 <p>a</p>
@@ -2742,7 +2833,7 @@
 
 ---
 
-### 119. Sphere lobby
+### 123. Sphere lobby
 **Author:** guruma_ESTA (guruma_ESTA)
 
 <p>雑談部屋からゲーム部屋、荒らし対策まで様々な領域を網羅！</p><p>絶対来てね〜</p>
@@ -2764,7 +2855,7 @@
 
 ---
 
-### 120. 陸上やってる人集合
+### 124. 陸上やってる人集合
 **Author:** 陸上市内最強(市内だけよ) (kowkid)
 
 <p>陸上やってる人達でいろんな話をします！！</p>
@@ -2792,7 +2883,7 @@
 
 ---
 
-### 121. 第一回冬休みコラ画コンテストの実行委員受付部屋
+### 125. 第一回冬休みコラ画コンテストの実行委員受付部屋
 **Author:** guruma_ESTA (guruma_ESTA)
 
 <p>全員強制参加です（）</p><p>来てね〜</p>
@@ -2814,7 +2905,7 @@
 
 ---
 
-### 122. 《S.A.V.T.F》Sphere Anti-Vandalism Task Force
+### 126. 《S.A.V.T.F》Sphere Anti-Vandalism Task Force
 **Author:** Guruma_sub (ESTAcancel)
 
 <p>日本最大級の荒らし対策部屋を目指している部屋。</p><p>荒らし対策、荒らし保存に特化したセクション、投稿フィールド。</p><p><br/></p>
@@ -2838,7 +2929,7 @@
 
 ---
 
-### 123. 昆布おにぎりの部屋
+### 127. 昆布おにぎりの部屋
 **Author:** Re Ball Bar クッキー　やったー民　＃猫信者　第四使徒　元(略して ん部ぎ ) (akymjxm)
 
 <p>人が少ないから民度がいい</p><p>みんなで仲良く話せる空間です</p><p>プロキシもあるよ</p>
@@ -2862,7 +2953,7 @@
 
 ---
 
-### 124. ピカマンの部屋4代目です。
+### 128. ピカマンの部屋4代目です。
 **Author:** ピカマン#究極のさくらもちの従僕#煮物貢献者#煮物様の3番弟子#かしわもちうまっ#無法地帯最高！ (pikamannsakuramotinojuuboku)
 
 <p>悲しいことに乗っ取り犯にまたアカウントを乗っ取られてしまい、早急にリメイクした部屋となっています。(ちなみに乗っ取り犯は有名な方でした。もし、その人からもらったパドレットのアカウントだと、ある程度した後にパスワードが変更されて操作できなくなるかもしれませんw www。もしかしたらあなたもその1人かも・・・)私自身はパドレットのアカウントがあればしぶとく永遠に生き続けるので応援よろしくお願いします。</p>
@@ -2886,7 +2977,7 @@
 
 ---
 
-### 125. 視聴部屋
+### 129. 視聴部屋
 **Author:** 𝓶𝓪𝓴𝓪𝓻𝓸𝓷𝓲　＃ ＠低浮上 (3232333301099710797114111110105)
 
 <ul><li><p>色々な動画や、曲、歌などがある部屋です！</p></li><li><p>動画などのダウンロード可能です！(送信主から無断で入手は禁止です。</p></li><li><p>誰でも歓迎！</p></li></ul>
@@ -2908,7 +2999,7 @@
 
 ---
 
-### 126. 雑談とか色々!閲覧16000達成!
+### 130. 雑談とか色々!閲覧16000達成!
 **Author:** Magurock (偽物･偽造に注意) (Magurock)
 
 <ul><li><p><mark>閲覧16000回達成</mark>した部屋（みんなの広場）がある!</p></li><li><p>雑談、規制回避、Minecraft鯖、荒らし対策など<mark>色々ある!</mark></p></li><li><p><mark>どんな人でも大歓迎!</mark>（さすがにルール違反する人以外）</p></li></ul>
@@ -2932,7 +3023,7 @@
 
 ---
 
-### 127. みんなの雑談コーナー
+### 131. みんなの雑談コーナー
 **Author:** Gogogo (Opppppppppp)
 
 <p>雑談だけじゃなく他もゲームとか色々あります今きたら古参です！</p><p>楽しいのできてください！</p>
@@ -2954,7 +3045,7 @@
 
 ---
 
-### 128. イベント開催中！！来いよ！
+### 132. イベント開催中！！来いよ！
 **Author:** 玲霧 (zupdep)
 
 <p>現在イベント開催中！！最近まじで人増やしたいからきてほしい！</p>
@@ -2979,7 +3070,7 @@
 
 ---
 
-### 129. 誠意大将軍の雑談部屋
+### 133. 誠意大将軍の雑談部屋
 **Author:** 27年2月末迄低浮上のウェザエモン (masakik)
 
 <p>僕の部屋ではみんなが雑談している部屋にしたいです。</p><p>只今無料開放中です！ライター権限の申請は必要ありません！</p><p>※部屋で投稿やコメントした時点でコラボレーター入りさせていただきます。</p><p>また、今なら高頻度の浮上ができる人のみ希望者はモデ・管理者権限を付与できます！</p><p>ぜひ来てね～</p>
@@ -3003,7 +3094,7 @@
 
 ---
 
-### 130. 猫大好きな人の部屋＆スプラ好きの部屋
+### 134. 猫大好きな人の部屋＆スプラ好きの部屋
 **Author:** ねこ缶マスター (ZRXARS)
 
 <p>受付部屋です</p><p>猫好きな人の雑談部屋とスプラ好きな人といっしょにイベントとかをやる部屋です</p><p>閲覧数は2つの部屋合わせても300ぐらいです（だから来てね）</p>
@@ -3025,7 +3116,7 @@
 
 ---
 
-### 131. パンダの雑談部屋
+### 135. パンダの雑談部屋
 **Author:** パンダ (pannda)
 
 <p>とっても過疎いです</p><p>でも、頑張ってプロキシを増やそうとしているので入ってほしいです</p>
@@ -3047,7 +3138,7 @@
 
 ---
 
-### 132. ネギ部屋
+### 136. ネギ部屋
 **Author:** ネギ (dfjk2458)
 
 <p>正直あんま人いないけど楽しいところではある　これといったいいとこはないけど楽しい部屋</p>
@@ -3076,7 +3167,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1782295209&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Wr2d38SQc3j%2BUBfZ4BWIJyWV18J4RBin74Os891JeCDyeKP9VzTnMxvM%2BOTotfA%2F4Q2TjG63ulsI8%2BYSUHS%2BCgGXJ2Uao%2Fq36rwGIBhgd962wKJ9IT%2BXmssC3uAZWMLVP%2Bbekskh8LTgNGMX6Yte78euO7XVYJTCPy4Mg25buCcrfYcOB8mURRgl0BOOaVcCtjVcVepywKc%2F6omtaqBLYLuc6G7BVHL9HDq0UXk1nF8k72QLt0r2euazMu%2BDa5f5U5HrBIgeZB4nPc6lIPu5iZVW8%2BCqtuUmMKZykjMj4HFfLvZinuSY00qhfLxEzgt9FPK0I0QuMleMHs%2FAtAJjUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1782302310&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=LxqioV6pmbLHloKLme15ozqccugyIavOXu3%2FkYtFyy131KshakIEl2cMp0TMyjhNvb3z7FP70WJxHnylGNXv57iGMDsnffNIWxtFRcEa1Eq5Jaw9IXxXXL1rVybeDZSekfPcD7qS7grCcQLsPkygMUo2jiqbXZh%2BHiB2HHxfe00RsB3rVzWM%2B8G1SEzHXuPa0mbLlXghep%2FkyHEz0Jxtny%2FxUZVxaMCA5A36qP7Ah1S22xIyX0K5SBT%2BJVCZiIsfj9Y5KGEUT1R2PwGWn6KzTdM%2BePekZSI4GdVg4mjeVwp1XA%2FtzCJ5011odqW7xzMz7Rt5KLgy1ziFGcIW10JE%2BQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
