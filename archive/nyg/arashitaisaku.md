@@ -1,4 +1,4 @@
-最終取得: 2026/06/18 08:04:34
+最終取得: 2026/06/18 15:25:08
 
 # 荒らし対策室
 
@@ -125,7 +125,7 @@
 ---
 
 ### 3. *
-**Author:** 怪盗ルパン三十八世 (proxygameyoutube)
+**Author:** 削除済みユーザー
 
 #### Additional Information
 - **Post color:** White
