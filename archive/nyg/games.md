@@ -1,4 +1,4 @@
-最終取得: 2026/06/11 22:02:14
+最終取得: 2026/06/20 20:31:51
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
 - **Posts:** 13
 - **Created At (UTC):** Aug 27, 2024 11:14am
-- **Updated At (UTC):** Jun 11, 2026 12:33pm
+- **Updated At (UTC):** Jun 20, 2026 09:56am
 
 ## 概要
 
@@ -266,11 +266,12 @@
 
 ![https://uploads.scratch.mit.edu/projects/thumbnails/1045090037.png](https://uploads.scratch.mit.edu/projects/thumbnails/1045090037.png)
 
-#### Comments (4)
+#### Comments (5)
 - **弓場重観** (May 27, 2026 11:15am): た
 - **弓場重観** (May 27, 2026 11:15am): う
 - **巨乳** (Jun 08, 2026 11:48am): Robrloxcorporation
 - **シモムラトウマ** (Jun 11, 2026 07:04am): どうやってするんだ？これ
+- **ゆい** (Jun 20, 2026 09:56am): どうやってやんの?
 
 #### Reactions
 - **Emojis:** ❤️ (7)
