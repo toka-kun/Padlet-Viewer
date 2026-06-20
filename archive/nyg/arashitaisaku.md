@@ -1,4 +1,4 @@
-最終取得: 2026/06/18 15:25:08
+最終取得: 2026/06/20 15:01:42
 
 # 荒らし対策室
 
@@ -7,7 +7,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 20
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Jun 17, 2026 10:58pm
+- **Updated At (UTC):** Jun 20, 2026 04:45am
 
 ## リンク集
 
@@ -207,7 +207,7 @@
 ---
 
 ### 2. あいす
-**Author:** あいす #萎えペン #しゃけとペア画中　ねむい (20s139766)
+**Author:** あいす #萎えペン #ねむい (20s139766)
 
 #### Additional Information
 - **Post color:** White
