@@ -1,4 +1,4 @@
-最終取得: 2026/06/22 07:04:13
+最終取得: 2026/06/22 07:46:45
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 146
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jun 21, 2026 01:51pm
+- **Updated At (UTC):** Jun 21, 2026 10:21pm
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -80,7 +80,29 @@
 
 ## Padletポータルワールド
 
-### 1. 基本的に何してもOKなボード
+### 1. さぶ部屋
+**Author:** サブ (al96)
+
+<p>公開ライターで誰でも話せるところかな</p>
+
+**部屋の作成日:** June 12, 2026
+
+**閲覧数:** ~499
+
+**管理者数:** 非公開
+
+**モデレーター数:** 0
+
+[Attachment 1](https://padlet.com/padlets/p6q07nc4upu7sugg)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 21, 2026 10:21pm
+- **Updated At (UTC):** Jun 21, 2026 10:21pm
+
+---
+
+### 2. 基本的に何してもOKなボード
 **Author:** ⁭⁭⁭⁭⁭⁭⁭Not捨てアドマン (CK1N)
 
 <p>基本的に何してもOKなサンドボックスです</p><p>パドの運営が見て見ぬふりしたお絵かきホワイトボードを目指しています</p><p>とりあえず入ってみてください</p>
@@ -102,7 +124,7 @@
 
 ---
 
-### 2. 電卓
+### 3. 電卓
 **Author:** シュウスケ (gs183556)
 
 <p>まだできたてなのでみんなで協力して大きくできたら嬉しいと思います</p>
@@ -124,7 +146,7 @@
 
 ---
 
-### 3.  Dream雑談
+### 4.  Dream雑談
 **Author:** Dream ＃寝るの大好き族初代　＃マリ好き族2代目　#つむぎ族2代目 (Dreamsleepy)
 
 <p>新しく作った</p><p>公開ライター</p>
@@ -146,7 +168,7 @@
 
 ---
 
-### 4. 推し教えてー
+### 5. 推し教えてー
 **Author:** 絵描きマン (s22091216)
 
 <p>雑談してください</p>
@@ -168,7 +190,7 @@
 
 ---
 
-### 5. Spare beet 創作譜面部屋
+### 6. Spare beet 創作譜面部屋
 **Author:** わーい！ (harutomiki46)
 
 <p>音ゲーできるんでぜひ遊びにきて（泣）閲覧が少なすぎて可哀想なんで</p>
@@ -190,7 +212,7 @@
 
 ---
 
-### 6. Alcatraz - I FILTER監視塔
+### 7. Alcatraz - I FILTER監視塔
 **Author:** guruma_ESTA (guruma_ESTA)
 
 <p><strong>Alcatraz - I FILTER監視塔</strong></p><p><br/></p><p>I FILTER民によるI FILTER回避のための部屋。</p><p>・高頻度更新！</p><p>・すべて動作確認済み！</p><p>・豊富なサイト・ツール</p><p>・投稿はすべて第3者によって検閲済み！</p>
@@ -212,7 +234,7 @@
 
 ---
 
-### 7. Sentosa Scramble Square
+### 8. Sentosa Scramble Square
 **Author:** guruma_ESTA (guruma_ESTA)
 
 <p>プロキシ・雑談・マイクラ・ミート・画像・動画・えｒの統合部屋！</p><p><br/></p><p>垢なし歓迎！</p>
@@ -234,7 +256,7 @@
 
 ---
 
-### 8. 2代目normal部屋の受付！！！
+### 9. 2代目normal部屋の受付！！！
 **Author:** ꧁𝓖𝓾𝓲𝓵𝓽𝔂_𝓷𝓸𝓻𝓶𝓪𝓵꧂ (normal_MC)
 
 <p>来てくれよな！</p>
@@ -258,7 +280,7 @@
 
 ---
 
-### 9. 検索してはいけない言葉の魅力
+### 10. 検索してはいけない言葉の魅力
 **Author:** 三角定規２号 (s29260078)
 
 <p>エグいのを見る覚悟を出来てる人どんどん来い！</p><p>（超・閲覧注意）</p>
@@ -287,7 +309,7 @@
 
 ---
 
-### 10. ２代目みんなで共有しよう！
+### 11. ２代目みんなで共有しよう！
 **Author:** 1x1x1x1は神（元二カーー） (TOKYO874321Forsaken)
 
 <p>最強プロキシや、最強のYouTubeダウンローダー、ゲームもたくさんあります！ぜひ来てください！みんなで楽しく仲良く色々共有しましょう！</p>
@@ -311,7 +333,7 @@
 
 ---
 
-### 11.  Dream公開パドレット
+### 12.  Dream公開パドレット
 **Author:** Dream ＃寝るの大好き族初代　＃マリ好き族2代目　#つむぎ族2代目 (Dreamsleepy)
 
 <p>誰でも入れるよプロキシ216個あります（2026/06/207時50分現在）YouTubeも101個あります。（2026/06/207時50分現在）まだまだ増やしていく予定です。ぜひきてね</p>
@@ -336,7 +358,7 @@
 
 ---
 
-### 12. オタクの生息地
+### 13. オタクの生息地
 **Author:** Melt (Melt_obungu)
 
 <p>誰でも自由参加です</p><p>荒らしはNG</p><p>18禁あり</p>
@@ -360,7 +382,7 @@
 
 ---
 
-### 13. チーター集まれ
+### 14. チーター集まれ
 **Author:** カカカカが (h0421017_1)
 
 <p>コード共有</p>
@@ -385,7 +407,7 @@
 
 ---
 
-### 14. 🍔βプロキシα🍔
+### 15. 🍔βプロキシα🍔
 **Author:** バナナのジョージ (h1520104)
 
 <p>プロキシ&amp;ゲームは拾い物あります。</p><p>主に面白いスマホゲーム教えてください！</p><p>楽しみましょう。荒らしてもいいスッよ！！🍖</p>
@@ -407,7 +429,7 @@
 
 ---
 
-### 15. あろーねはぶ｜ALONEHUB
+### 16. あろーねはぶ｜ALONEHUB
 **Author:** あろーね｜alone (alone_arone)
 
 <p>proxyとかゲームなどありまっせ</p>
@@ -429,7 +451,7 @@
 
 ---
 
-### 16. つむぎ部屋
+### 17. つむぎ部屋
 **Author:** つむぎ#初代つむぎ族(マリ好き) (rongchengyilang3)
 
 <p>気軽に話せる部屋！</p>
@@ -456,7 +478,7 @@
 
 ---
 
-### 17. プロキシワールド
+### 18. プロキシワールド
 **Author:** α3 (a3_01)
 
 <p>ISGCで使えるプロキシまとめてます。</p><p><br/></p>
@@ -480,7 +502,7 @@
 
 ---
 
-### 18. お寿司打
+### 19. お寿司打
 **Author:** ハマグリ (zomameza)
 
 <p>頑張って作りました</p><p>ぜひ来てください</p>
@@ -502,7 +524,7 @@
 
 ---
 
-### 19. 複数遊べるゲームプロキシ貼ろう
+### 20. 複数遊べるゲームプロキシ貼ろう
 **Author:** 生卵 (133477_1)
 
 <p>今日設立</p>
@@ -527,7 +549,7 @@
 
 ---
 
-### 20. カフート学校
+### 21. カフート学校
 **Author:** taiyaki (2514115_1)
 
 <p>人が多くて、とにかく治安がいいです！誰でもいいので、一回は立ち寄ってみて欲しいです！！！</p>
@@ -554,7 +576,7 @@
 
 ---
 
-### 21. やもりカンパニーのプロキシ・ゲーム配布場
+### 22. やもりカンパニーのプロキシ・ゲーム配布場
 **Author:** 削除済みユーザー (03282015)
 
 <p>かなり練馬区民に有能です。</p>
@@ -573,30 +595,6 @@
 - **Post color:** White
 - **Created At (UTC):** Jun 12, 2026 09:31pm
 - **Updated At (UTC):** Jun 12, 2026 09:31pm
-
----
-
-### 22. Dream部屋
-**Author:** Dream ＃寝るの大好き族初代　＃マリ好き族2代目　#つむぎ族2代目 (Dreamsleepy)
-
-<p>人が増えてきました</p><p>ですがだいたい人がいないことをご了承ください</p>
-
-**受付部屋のリンク（あれば）:** https://padlet.com/Dreamsleepy/submission-request/aW0Bzo6jwVaobwl6
-
-**部屋の作成日:** May 20, 2026
-
-**閲覧数:** 500~999
-
-**管理者数:** 1~4
-
-**モデレーター数:** 0
-
-[Attachment 1](https://padlet.com/padlets/dgrnpk3beplugb4r)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 12, 2026 08:16am
-- **Updated At (UTC):** Jun 12, 2026 08:16am
 
 ---
 
@@ -3319,7 +3317,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1782684253&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=qlkT83MJm56V5AZkoLPfj5DI9iY2k9xLXMjoYMHnPCu72hs6FnCtJKktO4kgYs5%2FrKrdsiVmU00936JcjCpjwpUHMkAL77q3Hkd3x71gcNtjuywfHwG5rfjdkJaHPNDOd1lerRUqOHpPbSruhGmywYuiCNo%2FWaMxaC2RjDyVWSlwZ0B8PegXZ3n0egDnNPFq6CSCaOiCG3Wwt%2Bj15DyV6gIqRXWrpHwjMSPNuLiJ%2F0JRPIItGajN6mE9upbUIbjfBNO1KsVvpkqZEEsfx0P0hAJFxnhAZIvg1x3P5Idd%2FTY%2FZJZBHCIhGsywxazL%2BuC8uPEqiKdvowamaaaMluzpVg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1782686805&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=jUW47LnLh6M2KGkgQ2vaQ%2FSUhBX0r%2FFUC9CokdTSi8OUvX%2F43HFH3UiUP9jgXqc%2B%2FJyYsWW%2B38NHa4ZtICk4FZgphkhk%2FK1m7DbGiNvgCwxiJYG5Jv%2BfOhROClM5AACmUvGqfbB%2FM29t13W8sPYivtAP8bhXkEqoGUGs4h73t32LbiwQr6iYVfK67rWPcW9qZPToWpf4TauM%2BePycQVsIDYhstTJ%2BF1rYcEvCiXk9v64BzZkzI%2F3aNl8QSjukT5PM8MTIiPIG7eORpxH1d9jq1IhSCKBDsyZUVBTLSXk5BEfIzLdmpr4N7wzimkPRxv2TGh629IpF893vb3SsCqwKA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
