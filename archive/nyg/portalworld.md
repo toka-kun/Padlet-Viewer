@@ -1,4 +1,4 @@
-最終取得: 2026/06/21 18:09:37
+最終取得: 2026/06/21 19:23:03
 
 # Padletポータルワールド
 
@@ -293,7 +293,7 @@
 ---
 
 ### 10. オタクの生息地
-**Author:** Melt (miniMelt)
+**Author:** Melt (Melt_obungu)
 
 <p>誰でも自由参加です</p><p>荒らしはNG</p><p>18禁あり</p>
 
@@ -317,7 +317,7 @@
 ---
 
 ### 11. チーター集まれ
-**Author:** カカコンジュ (h0421017_1)
+**Author:** カカカカが (h0421017_1)
 
 <p>コード共有</p>
 
@@ -720,7 +720,7 @@
 ---
 
 ### 28. 全員編集者のサンドボックスどんどん入れないとぶ○○○○
-**Author:** カカコンジュ (h0421017_1)
+**Author:** カカカカが (h0421017_1)
 
 <p>(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)ピーだから(規制音)(規制音)(規制音)(規制音)(規制音)じゃないと(規制音)するからね</p>
 
@@ -742,7 +742,7 @@
 ---
 
 ### 29. 荒らし初心者のための講座部屋
-**Author:** カカコンジュ (h0421017_1)
+**Author:** カカカカが (h0421017_1)
 
 <p>萎えペンキテェえぇ</p>
 
@@ -907,7 +907,7 @@
 ---
 
 ### 36. 干梅軍隊雑談部屋
-**Author:** カカコンジュ (h0421017_1)
+**Author:** カカカカが (h0421017_1)
 
 <p>色々あるよ!</p>
 
@@ -1346,7 +1346,7 @@
 ---
 
 ### 55. 本気の雑談部屋
-**Author:** カカコンジュ (h0421017_1)
+**Author:** カカカカが (h0421017_1)
 
 <p>荒らし以外なんでもあり</p>
 
@@ -3275,7 +3275,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1782637777&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=X2JhiDZkQ0gerB6v7PEcqW3Bjzm5FPK2XOUDl75hz6VeRDZuvJiuHIB8e9wMYcVIt0EfdrPm3M4cVRRvqkTjon3ILkMB%2Fo5S2KzTv2BV4Mku4jM2C2waDM8HPncIf7jle9awcEfDp8mqwt1r7H4bAJZJZ%2BxRz%2FAFUeAe%2FRCHE%2B4%2FfBBS7a0KL%2FMys5UFd5C9WCJaMfRvAcYNhKgn%2FQsoIjNHhxQp3KvWgNHOdtL7jp8z1Ye6IgczqULKqy9yznq%2BMlNLYR5nmX3MT%2FhJnK7XRSUIoFrWAfXI6zBZo5%2FABnZ4Zqs0yAxu9wtdpJJu4bYIfHszFYwLFnm2SiXMczYOPg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1782642183&GoogleAccessId=rails-app%40logical-handler-867.iam.gserviceaccount.com&Signature=Xewn7ZGN0DrnL%2Baf%2FZg%2F%2FI0GlXdlTm%2Fpf%2FF2PK9%2F%2Bhw%2Bgv0E6LA5U2347eRWJNZsvjjvEAsJOSQyq7sUdBQSWQNehXqtlefe6nGohIpMjEiJopdjm%2Bw6W3TCsu3K%2BGo9yuapsV41orHDcN%2FKtGriDxDPmsoqOCqOkEtHYdnD4kJNHVy8nYqZlKCQImJaWSqS3Wy4%2ButMqJdE8X292lx%2B5L4WglLrE6OkmDKlH25FdFmsIcXhanighn%2FFN5bnAagUPg0U7GFK8B%2Bn0%2BTG0Ig1Wzik%2F8AxUhr0%2FkigIcM7lbmknJY3YbKZL47CNzpm5Bc%2BdumLpWfPMWWDWjXrvU9DfQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
