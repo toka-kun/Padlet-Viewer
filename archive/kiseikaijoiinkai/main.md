@@ -1,4 +1,4 @@
-最終取得: 2026/06/19 09:13:48
+最終取得: 2026/06/22 23:45:39
 
 # 規制解除解除委員会
 
@@ -93,7 +93,7 @@ No post
 ## 雑談(ライター用)
 
 ### 1. Post 1
-**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+**Author:** 中居正広リア充になった。#最近低浮上#エドガーの中指 (nakaisexfriend)
 
 <p><br/></p><p>s2000941@g.ueis.ed.jp</p>
 
@@ -169,7 +169,7 @@ No post
 ---
 
 ### 2. Post 2
-**Author:** 中居正広パド引退するか迷い中#エドガーの中指#キム族5代目 (nakaisexfriend)
+**Author:** 中居正広リア充になった。#最近低浮上#エドガーの中指 (nakaisexfriend)
 
 [Attachment 1](https://publer.com/es/tools/photo-video-downloader)
 
