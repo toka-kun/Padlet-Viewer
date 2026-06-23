@@ -1,4 +1,4 @@
-最終取得: 2026/06/21 09:12:46
+最終取得: 2026/06/23 17:05:59
 
 # 荒らし対策室
 
@@ -105,7 +105,7 @@
 ## 保管倉庫①
 
 ### 1. わ
-**Author:** 涼しい風 (kakaconju)
+**Author:** 涼しい風 (kanaboko)
 
 #### Additional Information
 - **Post color:** White
