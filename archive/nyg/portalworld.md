@@ -1,4 +1,4 @@
-最終取得: 2026/06/24 12:58:38
+最終取得: 2026/06/24 14:47:01
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 150
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jun 23, 2026 11:22pm
+- **Updated At (UTC):** Jun 24, 2026 04:01am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -126,7 +126,31 @@
 
 ---
 
-### 3. 勉強部屋
+### 3. カフート学校
+**Author:** taiyaki (taiyaki0201)
+
+<p>治安がいい、安定の人の多さ（<em>いつでも人がいます</em>）<strong><mark>初見にぴったりな部屋</mark></strong>です！初心者大歓迎！<mark>勉強部屋</mark>もある、<mark>マイクラ</mark>もやっている、<mark>作品コンテストにも応募</mark>している、<mark>ルールや制度</mark>がとてもしっかりしている、<mark>プロキシやゲームなどのサイト</mark>がたくさんあります！とにかく、<strong>充実しているので、是非きてください</strong>！</p>
+
+**受付部屋のリンク（あれば）:** https://padlet.com/saburoutozirou/padlet-hlempaczgkpgdgvd
+
+**部屋の作成日:** May 16, 2026
+
+**閲覧数:** 10,000~24,999
+
+**管理者数:** 1~4
+
+**モデレーター数:** 0
+
+[Attachment 1](https://padlet.com/padlets/ijw7chm0ae0xcjdl)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 23, 2026 03:03pm
+- **Updated At (UTC):** Jun 24, 2026 04:01am
+
+---
+
+### 4. 勉強部屋
 **Author:** taiyaki (taiyaki0201)
 
 <p>勉強をみんなでしよう。後悔したくないよね？じゃあ勉強しよう。</p>
@@ -148,7 +172,7 @@
 
 ---
 
-### 4. るるるの雑談部屋！
+### 5. るるるの雑談部屋！
 **Author:** ぴよたん💗 (barukoku)
 
 <p>過去最高152人</p><p>6月13日より垢停止から復活</p><p>みんな入ってね</p><p><br/></p>
@@ -172,7 +196,7 @@
 
 ---
 
-### 5. 「反撃の追跡者」cc(ｼｰｼｰ)
+### 6. 「反撃の追跡者」cc(ｼｰｼｰ)
 **Author:** 助手１ (s2022024212)
 
 <p>荒らしに対抗するためのグループです。</p>
@@ -196,7 +220,7 @@
 
 ---
 
-### 6. さぶ部屋
+### 7. さぶ部屋
 **Author:** さぶ (al96)
 
 <p>公開ライターで誰でも話せるところかな</p>
@@ -218,7 +242,7 @@
 
 ---
 
-### 7. 基本的に何してもOKなボード
+### 8. 基本的に何してもOKなボード
 **Author:** ⁭⁭⁭⁭⁭⁭⁭Not捨てアドマン (CK1N)
 
 <p>基本的に何してもOKなサンドボックスです</p><p>パドの運営が見て見ぬふりしたお絵かきホワイトボードを目指しています</p><p>とりあえず入ってみてください</p>
@@ -240,7 +264,7 @@
 
 ---
 
-### 8. 電卓
+### 9. 電卓
 **Author:** シュウスケ (gs183556)
 
 <p>まだできたてなのでみんなで協力して大きくできたら嬉しいと思います</p>
@@ -262,7 +286,7 @@
 
 ---
 
-### 9.  Dream雑談
+### 10.  Dream雑談
 **Author:** Dream ＃寝るの大好き族初代　＃マリ好き族2代目　#つむぎ族2代目 (Dreamsleepy)
 
 <p>新しく作った</p><p>公開ライター</p>
@@ -284,7 +308,7 @@
 
 ---
 
-### 10. 推し教えてー
+### 11. 推し教えてー
 **Author:** 絵描きマン (s22091216)
 
 <p>雑談してください</p>
@@ -306,7 +330,7 @@
 
 ---
 
-### 11. Spare beet 創作譜面部屋
+### 12. Spare beet 創作譜面部屋
 **Author:** わーい！ (harutomiki46)
 
 <p>音ゲーできるんでぜひ遊びにきて（泣）閲覧が少なすぎて可哀想なんで</p>
@@ -328,7 +352,7 @@
 
 ---
 
-### 12. Alcatraz - I FILTER監視塔
+### 13. Alcatraz - I FILTER監視塔
 **Author:** guruma_ESTA (guruma_ESTA)
 
 <p><strong>Alcatraz - I FILTER監視塔</strong></p><p><br/></p><p>I FILTER民によるI FILTER回避のための部屋。</p><p>・高頻度更新！</p><p>・すべて動作確認済み！</p><p>・豊富なサイト・ツール</p><p>・投稿はすべて第3者によって検閲済み！</p>
@@ -350,7 +374,7 @@
 
 ---
 
-### 13. Sentosa Scramble Square
+### 14. Sentosa Scramble Square
 **Author:** guruma_ESTA (guruma_ESTA)
 
 <p>プロキシ・雑談・マイクラ・ミート・画像・動画・えｒの統合部屋！</p><p><br/></p><p>垢なし歓迎！</p>
@@ -372,7 +396,7 @@
 
 ---
 
-### 14. 2代目normal部屋の受付！！！
+### 15. 2代目normal部屋の受付！！！
 **Author:** ꧁𝓖𝓾𝓲𝓵𝓽𝔂_𝓷𝓸𝓻𝓶𝓪𝓵꧂ (Guilty_normal)
 
 <p>来てくれよな！</p>
@@ -396,7 +420,7 @@
 
 ---
 
-### 15. 検索してはいけない言葉の魅力
+### 16. 検索してはいけない言葉の魅力
 **Author:** 三角定規２号 (s29260078)
 
 <p>エグいのを見る覚悟を出来てる人どんどん来い！</p><p>（超・閲覧注意）</p>
@@ -425,7 +449,7 @@
 
 ---
 
-### 16. ２代目みんなで共有しよう！
+### 17. ２代目みんなで共有しよう！
 **Author:** 1x1x1x1は神キャラ（元二カーー） (TOKYO874321Forsaken)
 
 <p>最強プロキシや、最強のYouTubeダウンローダー、ゲームもたくさんあります！ぜひ来てください！みんなで楽しく仲良く色々共有しましょう！</p>
@@ -449,7 +473,7 @@
 
 ---
 
-### 17.  Dream公開パドレット
+### 18.  Dream公開パドレット
 **Author:** Dream ＃寝るの大好き族初代　＃マリ好き族2代目　#つむぎ族2代目 (Dreamsleepy)
 
 <p>誰でも入れるよプロキシ216個あります（2026/06/207時50分現在）YouTubeも101個あります。（2026/06/207時50分現在）まだまだ増やしていく予定です。ぜひきてね</p>
@@ -471,30 +495,6 @@
 - **Post color:** White
 - **Created At (UTC):** Jun 19, 2026 10:55pm
 - **Updated At (UTC):** Jun 19, 2026 10:55pm
-
----
-
-### 18. オタクの生息地
-**Author:** Melt (Melt_obungu)
-
-<p>誰でも自由参加です</p><p>荒らしはNG</p><p>18禁あり</p>
-
-**受付部屋のリンク（あれば）:** https://padlet.com/miniMelt/padlet-ugepazypgrpmp0qp
-
-**部屋の作成日:** June 19, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 1~4
-
-[Attachment 1](https://padlet.com/padlets/ugepazypgrpmp0qp)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 19, 2026 01:16pm
-- **Updated At (UTC):** Jun 20, 2026 10:12pm
 
 ---
 
@@ -3412,7 +3412,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1782878318&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cqhg%2FuloTIvz4AjbqgIMPzaeFdwmyonentZ7YcIi2RAYsuCua80H%2B%2BcbJN13XJJtL3GR0F%2Bo3I%2B7YviaoqgaheLDQlK%2Bkn18GYxwgQbKghMvs6W6C0osNI%2FqB%2FKuJi5NFlky0el023DtOB3ruamZcrrFSMBpYmYvTc32jXlGSCUvMthdLhguyHpk0k4gose0vGMryudvhNXP0igPlKTcPUe%2FF4thGFyvmlpO6WhndRWSRtR35wPOiS%2FhNDV1lWviifqk2j6aEOo4tc1ttbjAnRX5%2BgqbBmhZtnvyYvoEr5TZKDElqhHPtrWlo7joswauf7%2FzSV7RkQVJT1XM4lvSaQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1782884821&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=iwYT9%2FB6i22FnSilf36C3tVG4MQJ1uy7IMIs%2Fv3IMYUoS%2FR2NFANR%2FA9VLfuloDvSJPBCSIYK2fysKWdntcil5R1wKhlr4DCZw6pLwTHC7cEBU5bhYTP7wNbUC2jqejANbVXKT74dCZWMuKXtjolslv5ct3qSsQVWSayZyVpPnHOE9lXvehu28TsZugNWU2RDGtm72bUiZXz5n5535pabD2j0NT%2BS62K1FT8azNV8s8ambUlx2tMX6LgY7uZ8oQHYh0hUan%2BO3Fx1gEufPRbVc0dMBCokTScuPkOxdjdHItosQr%2BNtVqEa%2FcHQCiB9yj%2F4aMyUPO9HCMqKPuwuIFLA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
