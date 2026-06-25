@@ -1,4 +1,4 @@
-最終取得: 2026/06/23 23:02:40
+最終取得: 2026/06/25 20:09:42
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 14
+- **Posts:** 15
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Jun 23, 2026 01:34pm
+- **Updated At (UTC):** Jun 25, 2026 09:55am
 
 ## ルール
 
@@ -77,7 +77,17 @@
 
 ---
 
-### 4. 規制解除してくださいお願いします。
+### 4. aiyueo
+**Author:** カワスミ
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jun 25, 2026 09:55am
+- **Updated At (UTC):** Jun 25, 2026 09:55am
+
+---
+
+### 5. 規制解除してくださいお願いします。
 **Author:** 川村茜寧 (22117257)
 
 #### Additional Information
@@ -87,7 +97,7 @@
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** ハイノヤマト (se21210122)
 
 <p>こんにちは</p>
