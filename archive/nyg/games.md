@@ -1,4 +1,4 @@
-最終取得: 2026/06/26 19:02:15
+最終取得: 2026/06/26 21:27:48
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
 - **Posts:** 13
 - **Created At (UTC):** Aug 27, 2024 11:14am
-- **Updated At (UTC):** Jun 26, 2026 08:49am
+- **Updated At (UTC):** Jun 26, 2026 12:19pm
 
 ## 概要
 
@@ -54,7 +54,7 @@
 - **リオラch** (Jun 05, 2026 12:18am): ういー
 
 #### Reactions
-- **Emojis:** ❤️ (4)
+- **Emojis:** ❤️ (5)
 
 #### Additional Information
 - **Post color:** Yellow
@@ -71,7 +71,7 @@
 <p>内容等を追加、編集してほしい場合はここにコメントをしてください。</p><p><br></p>
 
 #### Reactions
-- **Emojis:** ❤️ (4)
+- **Emojis:** ❤️ (5)
 
 #### Additional Information
 - **Post color:** Purple
