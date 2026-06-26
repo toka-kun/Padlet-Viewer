@@ -1,4 +1,4 @@
-最終取得: 2026/06/26 15:30:41
+最終取得: 2026/06/26 17:08:06
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 155
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jun 25, 2026 10:51pm
+- **Updated At (UTC):** Jun 26, 2026 07:04am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -150,7 +150,7 @@
 ---
 
 ### 4. みんなの受付部屋
-**Author:** 𝓬𝓵𝓸𝓿𝓮𝓻☘️（暴走中） (gs214131)
+**Author:** lucky☘️ (gs214131)
 
 <p>受付の部屋作るスペースがない人に</p>
 
@@ -608,7 +608,7 @@
 [Attachment 1](https://padlet.com/padlets/2ekgonp4z9u1xt2k)
 
 #### Reactions
-- **Emojis:** ❤️ (1)
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -633,7 +633,7 @@
 [Attachment 1](https://padlet.com/padlets/2wh7o9ot9vv7msz2)
 
 #### Reactions
-- **Emojis:** ❤️ (1)
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -3531,7 +3531,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1783060241&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ipibV3HcFCUiuAwZQVWZ8QqGFkRNPmfOlDvuBxPJjT5YPbjHNsMih62FC%2Fc6ND%2BH9cYIxBbu10tOZRkW08Ptv1L2Wsr6xBW%2FzhDwaziQ3Ft71LwZ2oKphgARlo3iB1wIeRXguF4gPBLULDxSU5fstArhVFbtncx15WP7vHYt7gDJRn%2BbDI9DJQ8eZNRwYlJfxnMTOru0QQ8RG5IYFgjJ75JQmopOZWoiqElZkCXoQn6HSUAnv9EBNdisb4y3cARbVPNtIhGpH5zzL3Zifim%2BVYpCjqUJmXuOpse8evn%2B3eCgA1cwmfBj%2FKjIcfNtPAxogkNSb5uRnaus3C7CHk%2BxWQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1783066086&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GUvNyWYM00VgUIikmVtcRgKcLMzsUCI2XzbqySej3vRgMxHAPtnKzUOetgT%2B%2F31XCmeaXttTtViFwqdkdAw1uD%2F56oInPF%2BhdPPinv%2Fj2NguAABOyKwlB3VIi0j2I1yEGrwLG2E4A0zjVdL8T1paMxH2ZYVLbbf6B8A1kksjutnvQe%2F7MHm9UAF%2FWHE7G%2F0XV0OttxbtahZAlEuajS8sVTg1D1vMwT5Adfmetgv6%2B3IV7StPH6yYqR9HiSfOqq0TfhzDtLcPfIWa0N5SF4ZvItymaLT8zDFYGX5Nu2J2APyauQpxaeS1SbN0Lp7DT6WFU4NkxjGqQBg0JStPmhjCFQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
