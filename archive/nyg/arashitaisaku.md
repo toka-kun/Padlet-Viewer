@@ -1,4 +1,4 @@
-最終取得: 2026/06/23 17:05:59
+最終取得: 2026/06/28 00:23:05
 
 # 荒らし対策室
 
@@ -7,7 +7,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 20
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Jun 20, 2026 04:45am
+- **Updated At (UTC):** Jun 27, 2026 02:15pm
 
 ## リンク集
 
@@ -158,6 +158,9 @@
 
 ### 6. あああああ
 **Author:** ながたに はると (h2823022)
+
+#### Reactions
+- **Emojis:** 🎉 (1)
 
 #### Additional Information
 - **Post color:** White
