@@ -1,4 +1,4 @@
-最終取得: 2026/06/27 10:47:18
+最終取得: 2026/06/27 13:38:13
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 161
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jun 27, 2026 01:43am
+- **Updated At (UTC):** Jun 27, 2026 03:25am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -312,7 +312,7 @@
 ---
 
 ### 11. つむぎ部屋
-**Author:** つむぎ#初代つむぎ族(マリ好き) (rongchengyilang3)
+**Author:** つむぎ#魔神族#初代つむぎ族#メリオダスの弟子 (rongchengyilang3)
 
 <p>数日で閲覧数1000</p><p><br/></p><p>みんな優しい</p><p><br/></p><p>気軽に話せる</p><p><br/></p><p>設備が整ってる</p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/rongchengyilang3/padlet-ixptg7l74dsfa2rr">　受付　</a></p><p><br/></p><p><br/></p>
 
@@ -827,7 +827,7 @@
 ---
 
 ### 33. つむぎ部屋
-**Author:** つむぎ#初代つむぎ族(マリ好き) (rongchengyilang3)
+**Author:** つむぎ#魔神族#初代つむぎ族#メリオダスの弟子 (rongchengyilang3)
 
 <p>気軽に話せる部屋！</p>
 
@@ -942,7 +942,7 @@
 [Attachment 1](https://padlet.com/padlets/ijw7chm0ae0xcjdl)
 
 #### Comments (2)
-- **東方神!!#琥珀の弟** (Jun 15, 2026 05:52am): たいやき凍結されたの？
+- **東方神！** (Jun 15, 2026 05:52am): たいやき凍結されたの？
 - **taiyaki** (Jun 23, 2026 02:59pm): ただいま
 
 #### Additional Information
@@ -3671,7 +3671,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1783129638&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=u7PyYD6dOGsCbUmjdOdo6kP%2FrDUHGYJYAY2CNK%2BjT5y8MSp9IQoExTbb%2F2GbZwkRBF0UmN5WK80puhzRa1PpVAHGw3xOAGnvGbf2qetT1nHroqHFE3hCXjmAE3FikMLWhyt1ovPlvQoBLOxCqpgDG%2Fj4MnWZBIPA%2BXCOaVWYtGsI5DUJ%2Bp9gv2mQK%2BjwOI9z9VV3NCYBj0SVqJFz7FYDFLsHGgdeyvjxYIqOYcLVdX8l9afLg2WSD55zGrD77F7p05UaLJsJKaWL3TEY99BtbvkYHUmMmtoKLvpRCEozo2K%2BmkGgaTxknVISts1jO9bJzL%2FMHjGfStSIJ6zdXKBePw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1783139893&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=e3fw4TS1Zm6%2FJXkFbasqNA6R5h91HyyEy0vqUF%2FCorbZcsueK5g%2F649h4SnbakB%2FgIkNGzC3idaib9AMSIhuaY9yD3YVpJBCJqDngwQ56SOURToEiI3P8CcD5ERjgtbF7BW2TWXQzrudhS%2BILlByp402WyLR%2F6WAsADSOyhFlRmX8P3Tb8F8714OfvAi1NP9y5Tp6%2BLZQ%2F2u1zYDCzhI5rdAHbzQg7oVE4LU%2BG0dPwVpu4H1Y0grcQaG6laRVXXbXpoND2cR%2BoYtKJVYQHhKbYECSfadGb3obXm90lNFjZwypFsgVHUBYWLxzo3w%2Bzw9c3XtF9WfA5gZfdqDUfJQVg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
