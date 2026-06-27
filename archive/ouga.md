@@ -1,4 +1,4 @@
-最終取得: 2026/06/27 17:19:04
+最終取得: 2026/06/27 20:44:23
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 844
+- **Posts:** 845
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Jun 27, 2026 07:58am
+- **Updated At (UTC):** Jun 27, 2026 11:12am
 
 ## 管理者　連絡
 
@@ -709,17 +709,20 @@
 
 ---
 
-### 2. Post 2
-**Author:** アメノキ
+### 2. ロブロフレなろ！！
+**Author:** ロブロ勢
 
-**星評価:** 0 / 5 ⭐
+<p>なってくれ</p>
 
-![Attachment 1](https://padlet-artifacts.storage.googleapis.com/439a199a4104c0c7dcb2beccc4ed27cad27de510/0b94c7b79e039b1c7ffeb7bcafbae59b-h-639cf728bb0d976e175bebcbf441d5ec.gif)
+**星評価:** 5.0 / 5 ⭐ (1)
+
+#### Comments (1)
+- **ロブロ勢** (Jun 27, 2026 11:12am): 名前はghbm750ダヨ
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Jun 27, 2026 07:55am
-- **Updated At (UTC):** Jun 27, 2026 07:55am
+- **Created At (UTC):** Jun 27, 2026 11:11am
+- **Updated At (UTC):** Jun 27, 2026 11:11am
 
 ---
 
@@ -751,7 +754,21 @@
 
 ---
 
-### 5. 誰かまじでユーチューブ見れるようにしてくれー！
+### 5. Post 5
+**Author:** アメノキ
+
+**星評価:** 0 / 5 ⭐
+
+![Attachment 1](https://padlet-artifacts.storage.googleapis.com/439a199a4104c0c7dcb2beccc4ed27cad27de510/0b94c7b79e039b1c7ffeb7bcafbae59b-h-639cf728bb0d976e175bebcbf441d5ec.gif)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jun 27, 2026 07:55am
+- **Updated At (UTC):** Jun 27, 2026 07:55am
+
+---
+
+### 6. 誰かまじでユーチューブ見れるようにしてくれー！
 **Author:** ひろき
 
 **星評価:** 0 / 5 ⭐
@@ -763,7 +780,7 @@
 
 ---
 
-### 6. Post 6
+### 7. Post 7
 **Author:** r
 
 **星評価:** 0 / 5 ⭐
@@ -777,7 +794,7 @@
 
 ---
 
-### 7. 星のカービィDeibakari-
+### 8. 星のカービィDeibakari-
 **Author:** GP (21070045_2)
 
 <p><br/></p><p><br/></p>
@@ -791,7 +808,7 @@
 
 ---
 
-### 8. おうがさん9時って朝？夜？
+### 9. おうがさん9時って朝？夜？
 **Author:** れいり
 
 **星評価:** 0 / 5 ⭐
@@ -807,7 +824,7 @@
 
 ---
 
-### 9. きて
+### 10. きて
 **Author:** れいり
 
 **星評価:** 0 / 5 ⭐
@@ -821,7 +838,7 @@
 
 ---
 
-### 10. れいりあした話そ
+### 11. れいりあした話そ
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -844,7 +861,7 @@
 
 ---
 
-### 11. 来てね❤️
+### 12. 来てね❤️
 **Author:** れいり
 
 **星評価:** 0 / 5 ⭐
@@ -858,7 +875,7 @@
 
 ---
 
-### 12. 来てね🙏
+### 13. 来てね🙏
 **Author:** たまごーーーー (73956824278)
 
 **星評価:** 0 / 5 ⭐
@@ -875,7 +892,7 @@
 
 ---
 
-### 13. きてください
+### 14. きてください
 **Author:** 🫏ロバ
 
 **星評価:** 0 / 5 ⭐
@@ -889,7 +906,7 @@
 
 ---
 
-### 14. こうゆうものなんですけど
+### 15. こうゆうものなんですけど
 **Author:** honnbu ri-da hukuiharu (11220020_1)
 
 <p>入って入って１０人以上？くらいしかいないからお願いします</p>
@@ -910,7 +927,7 @@
 
 ---
 
-### 15. 作って見ました　自引きしたらスクショ送ってください
+### 16. 作って見ました　自引きしたらスクショ送ってください
 **Author:** ウミホタル
 
 **星評価:** 0 / 5 ⭐
@@ -934,7 +951,7 @@
 
 ---
 
-### 16. みんなってGoogleジェミニ使える？
+### 17. みんなってGoogleジェミニ使える？
 **Author:** アメヒカリ
 
 **星評価:** 0 / 5 ⭐
@@ -949,7 +966,7 @@
 
 ---
 
-### 17. 中貝ここや
+### 18. 中貝ここや
 **Author:** れいり
 
 **星評価:** 0 / 5 ⭐
@@ -963,7 +980,7 @@
 
 ---
 
-### 18. こんちゃ
+### 19. こんちゃ
 **Author:** 🍏🍎りんごおおおおおおお🍎🍏 (11220100)
 
 **星評価:** 0 / 5 ⭐
@@ -978,7 +995,7 @@
 
 ---
 
-### 19. プロ式開始サーバー
+### 20. プロ式開始サーバー
 **Author:** honnbu ri-da hukuiharu (11220020_1)
 
 <p>入ってください</p>
@@ -994,7 +1011,7 @@
 
 ---
 
-### 20. ゲームの場所にあるぞ
+### 21. ゲームの場所にあるぞ
 **Author:** 中貝
 
 **星評価:** 0 / 5 ⭐
@@ -1006,7 +1023,7 @@
 
 ---
 
-### 21. 中貝いる？
+### 22. 中貝いる？
 **Author:** れいり
 
 **星評価:** 0 / 5 ⭐
@@ -1022,7 +1039,7 @@
 
 ---
 
-### 22. グーグルジェミニ使える？
+### 23. グーグルジェミニ使える？
 **Author:** ユキカワ
 
 **星評価:** 0 / 5 ⭐
@@ -1034,7 +1051,7 @@
 
 ---
 
-### 23. 中貝ここきてててて
+### 24. 中貝ここきてててて
 **Author:** れいり
 
 **星評価:** 0 / 5 ⭐
@@ -1048,7 +1065,7 @@
 
 ---
 
-### 24. 誰か、お話ししませんか？
+### 25. 誰か、お話ししませんか？
 **Author:** ヴィクトリア
 
 **星評価:** 0 / 5 ⭐
@@ -1065,7 +1082,7 @@
 
 ---
 
-### 25. だれかいる？
+### 26. だれかいる？
 **Author:** れえええええええええいり
 
 **星評価:** 0 / 5 ⭐
@@ -1080,7 +1097,7 @@
 
 ---
 
-### 26. こうゆうひとですすすすすすすすす
+### 27. こうゆうひとですすすすすすすすす
 **Author:** honnbu ri-da hukuiharu (11220020_1)
 
 **星評価:** 0 / 5 ⭐
@@ -1094,7 +1111,7 @@
 
 ---
 
-### 27. 誰かいますか
+### 28. 誰かいますか
 **Author:** こんにちは
 
 **星評価:** 0 / 5 ⭐
@@ -1106,7 +1123,7 @@
 
 ---
 
-### 28. こんにちは
+### 29. こんにちは
 **Author:** りぉ
 
 <p>プロキシ使ってクロームブックで遊びまくる中2です〜</p>
@@ -1123,7 +1140,7 @@
 
 ---
 
-### 29. izyoukisyou hp0474gakiuistです〜〜
+### 30. izyoukisyou hp0474gakiuistです〜〜
 **Author:** honnbu ri-da hukuiharu (11220020_1)
 
 **星評価:** 4.0 / 5 ⭐ (1)
@@ -1140,7 +1157,7 @@
 
 ---
 
-### 30. みんな来てーーーーーー
+### 31. みんな来てーーーーーー
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -1154,7 +1171,7 @@
 
 ---
 
-### 31. Post 31
+### 32. Post 32
 **Author:** r
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -1168,7 +1185,7 @@
 
 ---
 
-### 32. GPと鬱に憧れる玲吏さんはなそー
+### 33. GPと鬱に憧れる玲吏さんはなそー
 **Author:** r
 
 **星評価:** 0 / 5 ⭐
@@ -1180,7 +1197,7 @@
 
 ---
 
-### 33. ｒいる？
+### 34. ｒいる？
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -1242,7 +1259,7 @@
 
 ---
 
-### 34. 📹
+### 35. 📹
 **Author:** ナツツバメ
 
 <p>sろうぇう</p>
@@ -1258,7 +1275,7 @@
 
 ---
 
-### 35. Post 35
+### 36. Post 36
 **Author:** ナツツバメ
 
 <p>s</p>
@@ -1272,7 +1289,7 @@
 
 ---
 
-### 36. https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPost
+### 37. https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPost
 **Author:** あああ
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPost">https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPost</a></p>
@@ -1288,7 +1305,7 @@
 
 ---
 
-### 37. この部屋を宣伝します！
+### 38. この部屋を宣伝します！
 **Author:** 雀
 
 **星評価:** 0 / 5 ⭐
@@ -1303,7 +1320,7 @@
 
 ---
 
-### 38. スリー
+### 39. スリー
 **Author:** 鬱に憧れる玲吏
 
 **星評価:** 0 / 5 ⭐
@@ -1318,7 +1335,7 @@
 
 ---
 
-### 39. ヴィクトリアのやつおもろいで
+### 40. ヴィクトリアのやつおもろいで
 **Author:** 天才くん
 
 <p>まじで</p>
@@ -1332,7 +1349,7 @@
 
 ---
 
-### 40. なんかボイチャできるサイト探して
+### 41. なんかボイチャできるサイト探して
 **Author:** ユキミチ
 
 **星評価:** 0 / 5 ⭐
@@ -1344,7 +1361,7 @@
 
 ---
 
-### 41. GP 何時から？
+### 42. GP 何時から？
 **Author:** r
 
 **星評価:** 0 / 5 ⭐
@@ -1407,7 +1424,7 @@
 
 ---
 
-### 42. ヴィクトリアさんの企画は面白いですよ
+### 43. ヴィクトリアさんの企画は面白いですよ
 **Author:** 鬱に憧れる玲吏
 
 <p>みんなも参加して仲を深めよう。</p>
@@ -1426,7 +1443,7 @@
 
 ---
 
-### 43. どうも！ヴィクトリアです！企画を考えています！
+### 44. どうも！ヴィクトリアです！企画を考えています！
 **Author:** ヴィクトリア
 
 <p>ゲームのほうで企画を開催しております、ヴィクトリアです。今はしりとりリレーが開催されています。私の企画に最初に参加してくださった方には表彰状が送られます。しりとりリレーでは、鬱に憧れる玲吏さんが表彰されました。</p><p>これからもどんどん企画を考えていきますので、ヴィクトリアという名も覚えていただくと幸いです。</p><p>また、みなさんのリクエストも募集しています。どんな企画をしてみたいか、どしどしコメントよろしくお願いします🙇</p>
@@ -1444,7 +1461,7 @@
 
 ---
 
-### 44. れいりーーーーー
+### 45. れいりーーーーー
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -1465,7 +1482,7 @@
 
 ---
 
-### 45. こい
+### 46. こい
 **Author:** 鬱に憧れる玲吏
 
 **星評価:** 0 / 5 ⭐
@@ -1479,7 +1496,7 @@
 
 ---
 
-### 46. 多分だけど、、、
+### 47. 多分だけど、、、
 **Author:** 天才くん
 
 <p>違うパドレットで人間さんがれいりですとか言ってた気がする</p><p><br/></p><p>違ったらすみません</p>
@@ -1499,7 +1516,7 @@
 
 ---
 
-### 47. ｒきてよーーー
+### 48. ｒきてよーーー
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -1519,7 +1536,7 @@
 
 ---
 
-### 48. Post 48
+### 49. Post 49
 **Author:** r
 
 **星評価:** 0 / 5 ⭐
@@ -1533,7 +1550,7 @@
 
 ---
 
-### 49. Post 49
+### 50. Post 50
 **Author:** GP (21070045_2)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -1547,7 +1564,7 @@
 
 ---
 
-### 50. 鬱に憧れる人間さん今いけます
+### 51. 鬱に憧れる人間さん今いけます
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -1573,7 +1590,7 @@
 
 ---
 
-### 51. Post 51
+### 52. Post 52
 **Author:** 67
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -1585,7 +1602,7 @@
 
 ---
 
-### 52. さんりお
+### 53. さんりお
 **Author:** 67
 
 **星評価:** 0 / 5 ⭐
@@ -1601,7 +1618,7 @@
 
 ---
 
-### 53. GPさんいる？
+### 54. GPさんいる？
 **Author:** 鬱に憧れる人間（玲吏）
 
 <p>会話したいな､､､</p>
@@ -1618,7 +1635,7 @@
 
 ---
 
-### 54. ｒ◯んじゃったの？
+### 55. ｒ◯んじゃったの？
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -1662,7 +1679,7 @@
 
 ---
 
-### 55. 天才の上をいく天才は怒られたくないらしくて、最近どっか行きました
+### 56. 天才の上をいく天才は怒られたくないらしくて、最近どっか行きました
 **Author:** 天才くん
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -1674,7 +1691,7 @@
 
 ---
 
-### 56. ｒいない
+### 57. ｒいない
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -1689,7 +1706,7 @@
 
 ---
 
-### 57. ｒいたら返事して〜〜〜「他の人入ってこないで」
+### 58. ｒいたら返事して〜〜〜「他の人入ってこないで」
 **Author:** GP (21070045_2)
 
 **星評価:** 1.0 / 5 ⭐ (1)
@@ -1749,7 +1766,7 @@
 
 ---
 
-### 58. GPさーん
+### 59. GPさーん
 **Author:** 人間
 
 **星評価:** 0 / 5 ⭐
@@ -1771,7 +1788,7 @@
 
 ---
 
-### 59. 人間５０年ですもともとぽておでした
+### 60. 人間５０年ですもともとぽておでした
 **Author:** 人間５０年 (s25250030)
 
 **星評価:** 0 / 5 ⭐
@@ -1787,7 +1804,7 @@
 
 ---
 
-### 60. akasakaboxさんモデレーターにしました
+### 61. akasakaboxさんモデレーターにしました
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -1803,7 +1820,7 @@
 
 ---
 
-### 61. GPはなそー(GP以外入ったり喋ったりすんなよ！)
+### 62. GPはなそー(GP以外入ったり喋ったりすんなよ！)
 **Author:** r
 
 **星評価:** 0 / 5 ⭐
@@ -1831,12 +1848,12 @@
 
 ---
 
-### 62. あらしやめましょうよ自分も悪かったです
+### 63. あらしやめましょうよ自分も悪かったです
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/761fdb088dde748cf37506c35f5b4418/_________2026_02_27T105345_007.jpeg?Expires=1783153137&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7MgxO2m%2Bglzh4TtMq6kkY6d%2Fef5b6of%2BHa2%2FhQ8biVCTZIHrpxlV60f%2FqsyA60oaElyP5Aq2MMCqdz2%2FL69lHFwPEdbIjlLbqz3sZRz5En8NHxZlWWr6rA5Ww5PHMm6TP9hypxO7FtCtoPE93gFVT0D043CxK8T7GT3YUIbU6ZqN1rnAYTBlvjUDtDNFbr0LGO1MrRtp%2B1KhiSPWJ0JQvqb3PNSR2zp0TFz0tH9CyvA3%2F15Nu0L%2F2wV4jGu9DO7742X9jEI27sKNQjF6KjDw2h6IkqeyYaANySNZhcfmNdGABTj4zBKB8LwRHvrnC88H7b1pPIZBMrT7P%2BgDPOlhsQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2F761fdb088dde748cf37506c35f5b4418%2F_________2026_02_27T105345_007.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/761fdb088dde748cf37506c35f5b4418/_________2026_02_27T105345_007.jpeg?Expires=1783165455&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DdWjHdqyfk4K7x1OZQK6SDXlbbVQ9teH4So61wZe0%2BWu2se9YVykILVEE%2FaH1N5pfKThvXKQk3a77zPA2KLFnbhh78PFb1Vx%2Fnq0m8m4UKh%2BoB3PiCoHIN%2FfagE65KPTsNVkAbGp1UctjwqQxC9CM%2F7Vs%2Fb0oPfV6wF1BgCFwgnCToIo9Pzw5XigLn8XediScSf462CZW4ytoai82nxgQ8n%2BuwbAMcikzUjh4R31uNo%2FhN794iK6Lb3aEv%2FXkUprGAWJYHxBZUMEnWWx3UOTeDgI74RzXioHtrucF3tK87f6urBkvveiNFjhH%2FtrnLuqODTsoMm0rg%2FwGs7RkKt%2F7g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2F761fdb088dde748cf37506c35f5b4418%2F_________2026_02_27T105345_007.jpeg)
 
 #### Additional Information
 - **Post color:** Black
@@ -1845,7 +1862,7 @@
 
 ---
 
-### 63. GPさん僕が悪かったです
+### 64. GPさん僕が悪かったです
 **Author:** ソラマユ
 
 <p>仲良くしてくれませんか？</p>
@@ -1870,7 +1887,7 @@
 
 ---
 
-### 64. よろしくお願いします🙇
+### 65. よろしくお願いします🙇
 **Author:** カニ風
 
 **星評価:** 0 / 5 ⭐
@@ -1887,7 +1904,7 @@
 
 ---
 
-### 65. 人間さん、あなた自分がダサいって気づいたほうがいいよ
+### 66. 人間さん、あなた自分がダサいって気づいたほうがいいよ
 **Author:** GP (21070045_2)
 
 **星評価:** 1.0 / 5 ⭐ (1)
@@ -1909,7 +1926,7 @@
 
 ---
 
-### 66. GPー
+### 67. GPー
 **Author:** r
 
 **星評価:** 0 / 5 ⭐
@@ -1949,7 +1966,7 @@
 
 ---
 
-### 67. 英語でしか話せないバカだGPわ笑笑笑
+### 68. 英語でしか話せないバカだGPわ笑笑笑
 **Author:** 人間
 
 **星評価:** 0 / 5 ⭐
@@ -2021,7 +2038,7 @@
 
 ---
 
-### 68. GPさんいかれてるwww
+### 69. GPさんいかれてるwww
 **Author:** れいり
 
 **星評価:** 0 / 5 ⭐
@@ -2047,7 +2064,7 @@
 
 ---
 
-### 69. ｒ以外入ってくんな
+### 70. ｒ以外入ってくんな
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -2185,7 +2202,7 @@
 
 ---
 
-### 70. いちごミルク事件
+### 71. いちごミルク事件
 **Author:** レッドキング
 
 <p>いちごミルク事件とは、学校の給食の牛乳を飲み終わり、片付けるバケツがあります。</p><p>そのバケツたまたまがいちごミルク色で僕の友達が</p><p>「女子のしっこみたい」と言ったのです。</p>
@@ -2201,12 +2218,12 @@
 
 ---
 
-### 71. Post 71
+### 72. Post 72
 **Author:** GP (21070045_2)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/6391ea4179aa660be4d3e0b9f6fb06be/Screenshot_2026_06_05_2_11_11_PM.png?Expires=1783153138&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7G9QINw3qFFB7BOnIoOVdeCCX4YdEQtsbajz90JcseedNswxAmDeoXMnYXjuv25E4Bk%2BgligVR49A6H9Or33G0%2Fx0ZXfYRkHTvpnfaJT2rF0wB9pWT%2BbRruZPo9yw15nFJLez8nnn%2BnMJcdZrJSWAjH7kmS0ilMiAe5U1dOj9q1IyqJVkiqgwDconu5S6h1MEAa2Q82IqPcH02K2bnjSJcKbfya3Sr6BNkqeLPE73BT2PG1uJlvhHpatoaZgiyjupORzfYNz6UGknuWJdOmMvNMlWnMR6mDxo2D7K3z8N%2Fx%2F7m0SyY%2BanvOdFVGAaX1ZEYwYdF9UU%2F1unCHH5h4OKA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2F6391ea4179aa660be4d3e0b9f6fb06be%2FScreenshot_2026_06_05_2_11_11_PM.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/6391ea4179aa660be4d3e0b9f6fb06be/Screenshot_2026_06_05_2_11_11_PM.png?Expires=1783165455&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=CXZ1dTvy%2F8NJhMze6ReECNXD6I0dd03JZ3jWcXClp4RSgkY%2F5Hv08abAaB%2FHNYObUqAAjBWJA%2B9L1F5FwAzn8m0rt6lvP3DYv2noHmn8H%2FKAD2bmWRW4EOgJ2YVWlh9atwv4Qnb1gefJgIrM3eEPiXfdBX%2F2REx6GYFIaOImaxCuSqA8%2B0mrbFkPSo8HFPhVRuUWSJcrdpAOGgSQlCPI362lTUuC3B6FZRQpH1GUnx2UPYhAp%2B9hLb7PnvjqU21z5aVCB2m0UY4vjuhdKLkkKmtVkhqkU%2F8IrZnJSt%2FoGxPyZu6QSc2qZvTvPmlkLxasC530NQDf3WRuMGSEVPeUYA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2F6391ea4179aa660be4d3e0b9f6fb06be%2FScreenshot_2026_06_05_2_11_11_PM.png)
 
 #### Comments (2)
 - **INTERACT** (Jun 08, 2026 03:52am): 怖いって
@@ -2219,7 +2236,7 @@
 
 ---
 
-### 72. こんちわー
+### 73. こんちわー
 **Author:** GP (21070045_2)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -2236,7 +2253,7 @@
 
 ---
 
-### 73. ↓そのとおり
+### 74. ↓そのとおり
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -2252,7 +2269,7 @@
 
 ---
 
-### 74. ソウタ報告してください
+### 75. ソウタ報告してください
 **Author:** れいり
 
 <p>時透さん</p>
@@ -2285,7 +2302,7 @@
 
 ---
 
-### 75. 女子おっぱいかまんこ見して
+### 76. 女子おっぱいかまんこ見して
 **Author:** ソウタ
 
 **星評価:** 0 / 5 ⭐
@@ -2302,7 +2319,7 @@
 
 ---
 
-### 76. 誰かいるwww
+### 77. 誰かいるwww
 **Author:** ソウタ
 
 **星評価:** 0 / 5 ⭐
@@ -2317,29 +2334,13 @@
 
 ---
 
-### 77. あ
+### 78. あ
 **Author:** ソウタ
 
 **星評価:** 0 / 5 ⭐
 
 #### Comments (1)
 - **本物ソウタ** (Jun 07, 2026 08:49am): 偽物
-
-#### Additional Information
-- **Post color:** Black
-- **Created At (UTC):** Jun 07, 2026 02:01am
-- **Updated At (UTC):** Jun 07, 2026 02:01am
-
----
-
-### 78. あ
-**Author:** ソウタ
-
-**星評価:** 0 / 5 ⭐
-
-#### Comments (2)
-- **本物ソウタ** (Jun 07, 2026 08:49am): 偽物
-- **GP** (Jun 07, 2026 08:53am): 偽物許せんなぁ
 
 #### Additional Information
 - **Post color:** Black
@@ -2353,8 +2354,9 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
+#### Comments (2)
 - **本物ソウタ** (Jun 07, 2026 08:49am): 偽物
+- **GP** (Jun 07, 2026 08:53am): 偽物許せんなぁ
 
 #### Additional Information
 - **Post color:** Black
@@ -2384,7 +2386,7 @@
 **星評価:** 0 / 5 ⭐
 
 #### Comments (1)
-- **本物ソウタ** (Jun 07, 2026 08:50am): 偽物
+- **本物ソウタ** (Jun 07, 2026 08:49am): 偽物
 
 #### Additional Information
 - **Post color:** Black
@@ -2429,12 +2431,12 @@
 **星評価:** 0 / 5 ⭐
 
 #### Comments (1)
-- **本物ソウタ** (Jun 07, 2026 08:47am): 偽物
+- **本物ソウタ** (Jun 07, 2026 08:50am): 偽物
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Jun 07, 2026 02:00am
-- **Updated At (UTC):** Jun 07, 2026 02:00am
+- **Created At (UTC):** Jun 07, 2026 02:01am
+- **Updated At (UTC):** Jun 07, 2026 02:01am
 
 ---
 
@@ -2519,7 +2521,7 @@
 **星評価:** 0 / 5 ⭐
 
 #### Comments (1)
-- **本物ソウタ** (Jun 07, 2026 08:46am): 偽物
+- **本物ソウタ** (Jun 07, 2026 08:47am): 偽物
 
 #### Additional Information
 - **Post color:** Black
@@ -2543,7 +2545,22 @@
 
 ---
 
-### 92. みんな死にましょうw
+### 92. あ
+**Author:** ソウタ
+
+**星評価:** 0 / 5 ⭐
+
+#### Comments (1)
+- **本物ソウタ** (Jun 07, 2026 08:46am): 偽物
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jun 07, 2026 02:00am
+- **Updated At (UTC):** Jun 07, 2026 02:00am
+
+---
+
+### 93. みんな死にましょうw
 **Author:** ソウタ
 
 **星評価:** 0 / 5 ⭐
@@ -2565,7 +2582,7 @@
 
 ---
 
-### 93. 頭わっるw
+### 94. 頭わっるw
 **Author:** ソウタ
 
 **星評価:** 0 / 5 ⭐
@@ -2585,7 +2602,7 @@
 
 ---
 
-### 94. 死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね
+### 95. 死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね
 **Author:** ソウタ
 
 **星評価:** 0 / 5 ⭐
@@ -2615,7 +2632,7 @@
 
 ---
 
-### 95. なります!!!
+### 96. なります!!!
 **Author:** デモレーターなりたい人
 
 **星評価:** 0 / 5 ⭐
@@ -2627,7 +2644,7 @@
 
 ---
 
-### 96. なります!
+### 97. なります!
 **Author:** デモレーターなりたい人
 
 <p>なります</p>
@@ -2641,7 +2658,7 @@
 
 ---
 
-### 97. ソウタ荒らしやめろ
+### 98. ソウタ荒らしやめろ
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -2656,7 +2673,7 @@
 
 ---
 
-### 98. 死ねカスども
+### 99. 死ねカスども
 **Author:** ソウタ
 
 **星評価:** 0 / 5 ⭐
@@ -2682,7 +2699,7 @@
 
 ---
 
-### 99. 誰かいますか
+### 100. 誰かいますか
 **Author:** こんにちは
 
 **星評価:** 0 / 5 ⭐
@@ -2698,7 +2715,7 @@
 
 ---
 
-### 100. うえだソウタ荒らしやめましょう
+### 101. うえだソウタ荒らしやめましょう
 **Author:** 人間
 
 **星評価:** 0 / 5 ⭐
@@ -2717,7 +2734,7 @@
 
 ---
 
-### 101. カスども死ね
+### 102. カスども死ね
 **Author:** ソウタ
 
 <p>うんこ</p>
@@ -2734,7 +2751,7 @@
 
 ---
 
-### 102. Post 102
+### 103. Post 103
 **Author:** ソウタ
 
 **星評価:** 0 / 5 ⭐
@@ -2751,7 +2768,7 @@
 
 ---
 
-### 103. 死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ねカスカスカスカスカスカスカスカスカスカスゴミゴミゴミゴミゴミゴミゴミゴミゴミゴミゴミゴミゴミゴミ
+### 104. 死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ね死ねカスカスカスカスカスカスカスカスカスカスゴミゴミゴミゴミゴミゴミゴミゴミゴミゴミゴミゴミゴミゴミ
 **Author:** ソウタ
 
 **星評価:** 1.0 / 5 ⭐ (2)
@@ -2769,7 +2786,7 @@
 
 ---
 
-### 104. みんな入ってきて!　
+### 105. みんな入ってきて!　
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -2816,7 +2833,7 @@
 
 ---
 
-### 105. ソウタですよろしくww
+### 106. ソウタですよろしくww
 **Author:** フジ
 
 **星評価:** 0 / 5 ⭐
@@ -2841,7 +2858,7 @@
 
 ---
 
-### 106. もう1つのグーグルみたいなのください!
+### 107. もう1つのグーグルみたいなのください!
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -2853,7 +2870,7 @@
 
 ---
 
-### 107. 今いる？
+### 108. 今いる？
 **Author:** フェットチーネしか勝たん
 
 **星評価:** 0 / 5 ⭐
@@ -2880,7 +2897,7 @@
 
 ---
 
-### 108. サンダーバード
+### 109. サンダーバード
 **Author:** ドーバーダンサ (dobadans)
 
 **星評価:** 0 / 5 ⭐
@@ -2892,7 +2909,7 @@
 
 ---
 
-### 109. はいってきてーー
+### 110. はいってきてーー
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -2909,7 +2926,7 @@
 
 ---
 
-### 110. 暇なんだよおおおお
+### 111. 暇なんだよおおおお
 **Author:** the人間
 
 <p>the人間ですみんなよろ</p>
@@ -2923,7 +2940,7 @@
 
 ---
 
-### 111. 暇な人あつまれ〜
+### 112. 暇な人あつまれ〜
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -2940,12 +2957,12 @@
 
 ---
 
-### 112. Post 112
+### 113. Post 113
 **Author:** スズアカリ
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5706891201/ea798f97faa203b1cd8d6013b3b1fd17/video.webm?Expires=1783153138&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=s%2BwRC3RU6RbiNpORX%2By1lvKMsYMT%2B3BbUVftfkBHxpPKHhQRhIa7KufesXCCJK4LttCwp4%2FiUNUHt1uGqaBzZBhnK4eWNSUwaYXCxn6c6Bc%2B5C0DK3TnOAoWgZkj4YmFKmwmyePOdUCinuSVqaZrINROeFZqEEZdaHxuuF77ovBxc2tr13qh23b3SQZvvnddzaJMV3QsMVM7tdq3Pkc958IpYuoMQ5kEgHYZ1OpDMRenNlC8LLnSGkNfvBLhu0Kr4TIGxlROKLsinAZR562tmSCWHAiFxy2qzMJU46kP1vJAm70JpRAp%2F7%2B3zT6aqbR122u8MqyAk5Mr8QEJi%2FmlbQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5706891201%2Fea798f97faa203b1cd8d6013b3b1fd17%2Fvideo.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5706891201/ea798f97faa203b1cd8d6013b3b1fd17/video.webm?Expires=1783165456&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1dB%2FiJGDg4TBh0oxgcy%2Fre1iurYSge4awBEC9MVRhcsW%2FaMY1N9sHo65H6SiUFYh%2F%2BofZ%2B%2BFaz0y7WdvO2VSqSeSokqKOmENxsPhn%2FtQGjn9xuwDZk2d9NfDtGHbq5EkDPGEdeM9YY1JltP5KJanUMKcye9oP63MpuSjr7P6d0go9Pnln8lncmvkzG1IFzoxy8%2F238Ki1f7H2x1%2F32MCQxNdpxE7SAh9r50f%2F7b31%2FKsCfCofVUoZSyh0dj2cvupOk%2B0%2F%2FkJIliF%2BKldItq275IFzI0DkWNfMQQGoOSFVNDCbz7nQvdFrMI9L3V8JD7j3Xgc321ZqxM6J9ICxIqneQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5706891201%2Fea798f97faa203b1cd8d6013b3b1fd17%2Fvideo.webm)
 
 #### Comments (1)
 - **GP** (May 26, 2026 03:11am): ずっと画面が真っ暗
@@ -2957,7 +2974,7 @@
 
 ---
 
-### 113. 書くの忘れてましたごめんなさい。カゼノネでーす！よろしく！ブロスタまあまあやってます（）
+### 114. 書くの忘れてましたごめんなさい。カゼノネでーす！よろしく！ブロスタまあまあやってます（）
 **Author:** カゼノネ
 
 **星評価:** 0 / 5 ⭐
@@ -2973,7 +2990,7 @@
 
 ---
 
-### 114. ハルノユキです。よろしくお願いします
+### 115. ハルノユキです。よろしくお願いします
 **Author:** ハルノユキ
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -2987,7 +3004,7 @@
 
 ---
 
-### 115. お尻
+### 116. お尻
 **Author:** ホシヤネ
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -3002,7 +3019,7 @@
 
 ---
 
-### 116. ケセランテセさんメールアドレスが無効でした。もう一度お願いします
+### 117. ケセランテセさんメールアドレスが無効でした。もう一度お願いします
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -3014,7 +3031,7 @@
 
 ---
 
-### 117. そういえばおうがさんどこ行った
+### 118. そういえばおうがさんどこ行った
 **Author:** 天才くん
 
 <p>受験まだかな　帰ってきて欲しい</p>
@@ -3033,7 +3050,7 @@
 
 ---
 
-### 118. 雀です！こんにちは
+### 119. 雀です！こんにちは
 **Author:** シラナミ
 
 <p>こんにちは。雀です。スズメと読みます。これからよろしくお願いします！！</p>
@@ -3054,7 +3071,7 @@
 
 ---
 
-### 119. こんにちは
+### 120. こんにちは
 **Author:** 天才の上をいく天才
 
 <p>天才をの上をいく天才</p>
@@ -3072,7 +3089,7 @@
 
 ---
 
-### 120. 部屋の作り方教えてください
+### 121. 部屋の作り方教えてください
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -3084,7 +3101,7 @@
 
 ---
 
-### 121. 太田ひないたら返事してな！！！！！！！
+### 122. 太田ひないたら返事してな！！！！！！！
 **Author:** the人間(変態)
 
 **星評価:** 0 / 5 ⭐
@@ -3096,7 +3113,7 @@
 
 ---
 
-### 122. 新人です。よ、ろ、し、く。
+### 123. 新人です。よ、ろ、し、く。
 **Author:** 削除済みユーザー
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -3112,7 +3129,7 @@
 
 ---
 
-### 123. 天才くんです
+### 124. 天才くんです
 **Author:** 天才くん
 
 <p>申し遅れました</p><p>これからよろしくお願いいたします</p>
@@ -3129,7 +3146,7 @@
 
 ---
 
-### 124. こーんーにーちーはー
+### 125. こーんーにーちーはー
 **Author:** みんなで仲良くしよ
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -3152,7 +3169,7 @@
 
 ---
 
-### 125. ｊｊｊ
+### 126. ｊｊｊ
 **Author:** 野球少年
 
 **星評価:** 0 / 5 ⭐
@@ -3164,7 +3181,7 @@
 
 ---
 
-### 126. 天才さん　
+### 127. 天才さん　
 **Author:** 天才くん
 
 <p>本名はえぐい</p>
@@ -3190,7 +3207,7 @@
 
 ---
 
-### 127. 時透無一郎さーーーーーんーーーーーー！
+### 128. 時透無一郎さーーーーーんーーーーーー！
 **Author:** 天才の上をいく天才
 
 <p>いますか？</p>
@@ -3213,7 +3230,7 @@
 
 ---
 
-### 128. 天才さーん
+### 129. 天才さーん
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -3259,7 +3276,7 @@
 
 ---
 
-### 129. サーモン好き？寿司です(笑)
+### 130. サーモン好き？寿司です(笑)
 **Author:** 天才のその上をいく天才
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -3286,7 +3303,7 @@
 
 ---
 
-### 130. 今日誰か9時15分から話そう〜
+### 131. 今日誰か9時15分から話そう〜
 **Author:** ふじ
 
 **星評価:** 0 / 5 ⭐
@@ -3302,7 +3319,7 @@
 
 ---
 
-### 131. 足立区民の人コメント
+### 132. 足立区民の人コメント
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -3314,7 +3331,7 @@
 
 ---
 
-### 132. 副会長
+### 133. 副会長
 **Author:** ゴジラ (21070019_1)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -3329,7 +3346,7 @@
 
 ---
 
-### 133. ロブロックスでセーラーピース　　　　やっている人おる？
+### 134. ロブロックスでセーラーピース　　　　やっている人おる？
 **Author:** あいあい
 
 <p><br/></p><p><br/></p>
@@ -3343,7 +3360,7 @@
 
 ---
 
-### 134. けいごなりです
+### 135. けいごなりです
 **Author:** けいごなり (keigonari)
 
 **星評価:** 0 / 5 ⭐
@@ -3363,7 +3380,7 @@
 
 ---
 
-### 135. 何かYouTubeを見れるサイトを教えて
+### 136. 何かYouTubeを見れるサイトを教えて
 **Author:** ノバスター
 
 **星評価:** 0 / 5 ⭐
@@ -3375,7 +3392,7 @@
 
 ---
 
-### 136. 暴走パンダです
+### 137. 暴走パンダです
 **Author:** 暴走パンダ (888844441111)
 
 **星評価:** 0 / 5 ⭐
@@ -3393,7 +3410,7 @@
 
 ---
 
-### 137. みなさん迷惑かけてすいません
+### 138. みなさん迷惑かけてすいません
 **Author:** the人間
 
 <p>もう迷惑をかけないことを心がけます</p><p><br/></p>
@@ -3414,7 +3431,7 @@
 
 ---
 
-### 138. フォトナのブレインロット交換しませんか？（交換所）
+### 139. フォトナのブレインロット交換しませんか？（交換所）
 **Author:** やりますねー
 
 <p>えーとですね。はいえーとうん。はい。えーと書くことがないですね…以上です…</p>
@@ -3433,7 +3450,7 @@
 
 ---
 
-### 139. Post 139
+### 140. Post 140
 **Author:** 天才くん
 
 <p>Ai画像です</p><p>美味しそうじゃない？</p>
@@ -3454,7 +3471,7 @@
 
 ---
 
-### 140. 集合所ここでよろ
+### 141. 集合所ここでよろ
 **Author:** スリ
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -3686,7 +3703,7 @@
 
 ---
 
-### 141. あと今日の夜の9時15分話せる人募集
+### 142. あと今日の夜の9時15分話せる人募集
 **Author:** スリ
 
 <p>決定ふじさん</p>
@@ -3708,7 +3725,7 @@
 
 ---
 
-### 142. 誰かおる
+### 143. 誰かおる
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -3725,7 +3742,7 @@
 
 ---
 
-### 143. みんな来た〜❓
+### 144. みんな来た〜❓
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -3902,7 +3919,7 @@
 
 ---
 
-### 144. 誰かいる？
+### 145. 誰かいる？
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 5.0 / 5 ⭐ (2)
@@ -4001,7 +4018,7 @@
 
 ---
 
-### 145. 本当に助けて　しあみれなくなった
+### 146. 本当に助けて　しあみれなくなった
 **Author:** フェットチーネしか勝たん
 
 **星評価:** 0 / 5 ⭐
@@ -4016,7 +4033,7 @@
 
 ---
 
-### 146. GPさんいる？
+### 147. GPさんいる？
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -4028,7 +4045,7 @@
 
 ---
 
-### 147. 今誰かいる？
+### 148. 今誰かいる？
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -4040,7 +4057,7 @@
 
 ---
 
-### 148. いまいるひとー
+### 149. いまいるひとー
 **Author:** ふじ
 
 **星評価:** 0 / 5 ⭐
@@ -4052,7 +4069,7 @@
 
 ---
 
-### 149. 暇誰か話そぉ〜
+### 150. 暇誰か話そぉ〜
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -4195,7 +4212,7 @@
 
 ---
 
-### 150. 今いる人だれ？
+### 151. 今いる人だれ？
 **Author:** フェットチーネしか勝たん
 
 **星評価:** 0 / 5 ⭐
@@ -4211,7 +4228,7 @@
 
 ---
 
-### 151. 今いる？
+### 152. 今いる？
 **Author:** フェットチーネしか勝たん
 
 **星評価:** 0 / 5 ⭐
@@ -4320,7 +4337,7 @@
 
 ---
 
-### 152. Post 152
+### 153. Post 153
 **Author:** カネヤマヒロキ (gs200458)
 
 <p>ここに入るのが初めてなんですけどよろしく！</p>
@@ -4340,7 +4357,7 @@
 
 ---
 
-### 153. 誰かおる〜？
+### 154. 誰かおる〜？
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -4357,7 +4374,7 @@
 
 ---
 
-### 154. フォトナのGO UP FOR BRAINROTで交換してくれる人いない？
+### 155. フォトナのGO UP FOR BRAINROTで交換してくれる人いない？
 **Author:** フェットチーネしか勝たん
 
 **星評価:** 0 / 5 ⭐
@@ -4378,7 +4395,7 @@
 
 ---
 
-### 155. ここに来て話せる人〜
+### 156. ここに来て話せる人〜
 **Author:** スリ
 
 **星評価:** 5.0 / 5 ⭐ (2)
@@ -4396,7 +4413,7 @@
 
 ---
 
-### 156. よろしくーーーーー
+### 157. よろしくーーーーー
 **Author:** ぽぅぽ (integral_)
 
 <p>バトルネコですー</p>
@@ -4415,7 +4432,7 @@
 
 ---
 
-### 157. こんにちは
+### 158. こんにちは
 **Author:** 久保 (21070046)
 
 **星評価:** 0 / 5 ⭐
@@ -4431,7 +4448,7 @@
 
 ---
 
-### 158. 今日の9時15分また話せる人募集
+### 159. 今日の9時15分また話せる人募集
 **Author:** スリ
 
 **星評価:** 0 / 5 ⭐
@@ -4460,7 +4477,7 @@
 
 ---
 
-### 159. フォトナのブレインロット交換しませんか？
+### 160. フォトナのブレインロット交換しませんか？
 **Author:** fortnightガチ勢 (s2000893_2)
 
 <p>まじでエターナルのなにか交換してください</p>
@@ -4485,7 +4502,7 @@
 
 ---
 
-### 160. フォトナのブレインロット交換しませんか？
+### 161. フォトナのブレインロット交換しませんか？
 **Author:** fortnightガチ勢 (s2000893_2)
 
 <p>まじでドラゴン交換してくれませんか（圧）</p>
@@ -4502,7 +4519,7 @@
 
 ---
 
-### 161. 暇誰か月曜の夜9時15分から雑談しよ
+### 162. 暇誰か月曜の夜9時15分から雑談しよ
 **Author:** スリ
 
 **星評価:** 5.0 / 5 ⭐ (3)
@@ -4651,12 +4668,12 @@
 
 ---
 
-### 162. Post 162
+### 163. Post 163
 **Author:** ふじ
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5621440276/c0a93c43ccdd44ccf59be3af73e81c12/IMG_0007.jpeg?Expires=1783153139&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=C3hES4URNC03ShE2UQ90tWE1kHidgMcne%2FQK9tKE6yaeCGaruSGgXIHPFLCR4GiKcNP%2FQZTsylfxkfHLe0x7oAbOzqLcUgdRB6LtGkvpSJNfsYkgW%2F1db9Ay4coR4kwZsss%2B%2FYQ0ezJapgdQyaJmIRmM%2B%2FqiVucFMhfZgaP3r2v1Vd%2F7NUIajqveyHDtAmHtPbgfwOaZEW1oqjCeA0jz%2BrqBCXNpsLGqUC1j72wN0KYqC1dpItZcCRC6gTGkBX%2BFh%2BWy0%2B3i%2FZ0bYR9SJ0PEK9Q7aBuLUvRgzWLFfm81VNOG%2Fh6cWjojjMohvsWcL1f8mnqx8Pir3%2BbckIYQvxY5hQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5621440276%2Fc0a93c43ccdd44ccf59be3af73e81c12%2FIMG_0007.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5621440276/c0a93c43ccdd44ccf59be3af73e81c12/IMG_0007.jpeg?Expires=1783165456&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GIZzFbRDDLN2V9fWw2Qurf29%2FPe1cWobN8RcOxbCNAriEwcZSwTvytAGC5cl8yvvTnmWrBkP47vjOYmLS%2BSLZKpfCkuzWx7nFeQRJgcjFQ0kMtl5KYG1ZImVwISD2WLYldUnkjvFdT3l3sQhwSGm9vDqzl1eR%2FMfxrD%2BHhlODAQHrX7GDcPW8vO4qRvN%2F4ZPlMDTqHdmKkOB2673yrPezovmhQr3pAKrZK363ph9Wz%2FV56mSqndNZDCSdN%2FAPlphEl1%2BIjGnL%2B2rgZ8zIlDTAi5USIG0I5XuKy9lJNykhsE0njU679Hso9%2F%2FhRyrVNq6gCwUvsNOK3re0T19EyVAyA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5621440276%2Fc0a93c43ccdd44ccf59be3af73e81c12%2FIMG_0007.jpeg)
 
 #### Comments (2)
 - **スリ** (May 10, 2026 12:54pm): 呪術廻戦にでてくる日車の術式の裁判場にでてくるやつ 
@@ -4669,7 +4686,7 @@
 
 ---
 
-### 163. こんにちは
+### 164. こんにちは
 **Author:** H大好き
 
 **星評価:** 0 / 5 ⭐
@@ -4683,7 +4700,7 @@
 
 ---
 
-### 164. 114514
+### 165. 114514
 **Author:** ちくわ
 
 <p>ちくわ大好きー</p><p><br/></p><p><br/></p>
@@ -4700,12 +4717,12 @@
 
 ---
 
-### 165. Post 165
+### 166. Post 166
 **Author:** ヨ
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1783153139&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=vQi9wmVG5oGZn6FYPiZWoJ6nJtvBoOWmuLMOIERayQentq3fy4PUWMMH6GLtJXzc1vdqELbLLfBNkr%2B7%2FFS6Ei26KJ3veIEQTb0h%2BXnUMmBCpmrZmVLdtF9o%2FlzrMUc0nOz7ymXExsWdqwldSUF4SDAc4iBcQVuH7UT5NmOBpSspTAt51CXWmPg7V9ksYV%2B4jHzf7ZmgUTItkLa0f7RA0IH3EIco%2Fu25OAFzCZHdA%2BaWGzVPJHE%2FTyyM8sG7FQqPkA1JCfV%2Bhk2IZdAHQpeMVssUsszU1KYLFYFxtLW1ijpw0UIHquxOxxGJ44OumlceMcWO%2BQSkrMcZbsQXAvnMBQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5604643105/8f45c20f2b2925d5ba5cde57014ec68f/IMG_3467.png?Expires=1783165456&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tuesEdXbZbpi%2BVVt5dMfV7hGWU3LEuW3iW9hxm2v1fyshjZR%2BTqwDYWdTqyh9%2BWO6oIf1e6j67YjcTeBGSMSfC1mbcKArrjlYiu9PDjcLMPyl%2FT2Ym18SWrlKm0qDKfnijob0OKawy8madwJU1cChq%2F1afiFY5RSNswLWXjO2oortqhioLc%2BsrIYTWvla0EbjVU5bUqOma%2Fxce9U8%2BLve3nzP7GEt9Z92agDwQF9s%2Fm4L9Nsra2oi3gWTm2dasK%2Fz2lpzy7cZ3sHbwi5aushyv3sFWyVOnse9t4cJKfjS9skl%2FcZu1GuH55ASYg42kIjw%2BcFg%2FfEMySHothX%2BOuFpA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5604643105%2F8f45c20f2b2925d5ba5cde57014ec68f%2FIMG_3467.png)
 
 #### Comments (2)
 - **スリ** (May 10, 2026 12:52pm): これに誰か一言
@@ -4718,7 +4735,7 @@
 
 ---
 
-### 166. こんんにちはーーーーー
+### 167. こんんにちはーーーーー
 **Author:** いつき
 
 <p>みんなよろしく😃</p>
@@ -4735,7 +4752,7 @@
 
 ---
 
-### 167. Post 167
+### 168. Post 168
 **Author:** さいとうたつき (m230711)
 
 <p>太鼓の達人</p>
@@ -4756,7 +4773,7 @@
 
 ---
 
-### 168. YouTube見れるサイト載せて下さい！お願いします
+### 169. YouTube見れるサイト載せて下さい！お願いします
 **Author:** 中指
 
 **星評価:** 0 / 5 ⭐
@@ -4771,7 +4788,7 @@
 
 ---
 
-### 169. よろしくお願いします
+### 170. よろしくお願いします
 **Author:** 山中くんと佐野くん推し❤️❤️ (r0400268_1)
 
 <p>綱啓永推しです。よろしくお願いします。</p><p>ぜひ良かったらこれに入ってもらいたいです。</p><p><br/></p>
@@ -4787,7 +4804,7 @@
 
 ---
 
-### 170. 規制キモい
+### 171. 規制キモい
 **Author:** 匿名
 
 <p>規制突破したい</p>
@@ -4804,12 +4821,12 @@
 
 ---
 
-### 171. Post 171
+### 172. Post 172
 **Author:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1783153139&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uxM46VOTZdTquGIZnWlLXjT31EW%2BNYFKQjNLtD%2FlVKNHVJzJ%2BcWi5kdKKUeJJEu1l6sruX288CmXnVvPgZMIcc9CO5cmGAodSmaPVq9qP6KnPj8p%2BVc3zh1S5a04oWAw1oEdgwNDO%2Fe4K3gZjqnOhX1laDKbCtlblL6q8PqigNztUjTUu7pYUPZJDzCFdyc%2FcD9aLthcHXp3kJSkJPpCXbzDWOfNiEQQpnmgguw%2BCArNAkF5UtR4aAuZC5dv716VoWA%2FDL7G%2Fb64yOg%2FnkPQaanYun9Nr8iY3O16602t3aDztsA85ndwBQbjfyCZ6R4dA6msjYDSni7oc7MeuK3GZg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ddb996fd8bba5531cd60b0e6685c8938/r1280x720l.jpeg?Expires=1783165456&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ExxG4edj37RwVFoPOEqw09s8%2FuXIBYHoX%2BmIP8JWQFG3Rwveduc0sp4EH3Md9Pd6Fe3iAjJerB5sadCxi1niBsmCI%2Bqpyzq0xxr7jALG5oR97vF%2FuSAMIiQTp%2FcC3z8xflukdS0067RBT486Ra4PdHbfe7FVsJUfGBpIwYKqQrM8DjODXObuWTf%2Bve%2Bh06f%2FcoKSeRil1sCdbcQznzce0U3CC2FxEpHm1IdPU1WDbMhFtLg5L2NLkb%2B5qnN5I68yVpFGXy8ZLI6%2BrHSuUm4rMMeBlcJTvvE5j5vVtlMWz8o0MNjNi%2FnefdvKoZcWb1l1ZMzUt3t800K5vYSotlUHlw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fddb996fd8bba5531cd60b0e6685c8938%2Fr1280x720l.jpeg)
 
 #### Comments (3)
 - **忍者めししか勝たん** (Apr 24, 2026 01:14pm): ｗｗｗ
@@ -4823,7 +4840,7 @@
 
 ---
 
-### 172. 暇な人はなそ
+### 173. 暇な人はなそ
 **Author:** あ (killernya)
 
 <p>だれかはなそ</p>
@@ -4843,7 +4860,7 @@
 
 ---
 
-### 173. 質問してもいいですか？
+### 174. 質問してもいいですか？
 **Author:** お文具とドズル社 (gs111111)
 
 **星評価:** 0 / 5 ⭐
@@ -4858,7 +4875,7 @@
 
 ---
 
-### 174. 桃鉄がしたいんです！！
+### 175. 桃鉄がしたいんです！！
 **Author:** ハルマチ
 
 <p>教えてください。</p>
@@ -4872,7 +4889,7 @@
 
 ---
 
-### 175. Post 175
+### 176. Post 176
 **Author:** カワツユ
 
 **星評価:** 0 / 5 ⭐
@@ -4891,14 +4908,14 @@
 
 ---
 
-### 176. Youtubeダウンローダー誰かくれぇぇぇぇぇぇ
+### 177. Youtubeダウンローダー誰かくれぇぇぇぇぇぇ
 **Author:** smdjr07083 (smdjr07083)
 
 <p>規制はinters are INTERSAFEです！↑↑↑</p>
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1783153139&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=eE8lhR80LgsdgnZ9B2NfwEygEhmVn%2B1xraw3tAneYlojtobslInbrzWxexZ07XDiJocRDqmCV3wzCxRcZHY5110EfKBWEzrwK3TGpk4e84GlyGkEUxZxBA7Ll65U1H6X8tPUNcRZHZySsSycOgZUrUMuOxFZqci3FBSFCDYk%2FtFIMs3znuCgfAPsCEhDUBoKrDnltZH1LrFvSxa%2BE%2FbEOJXBltTRiuzNn0Xj%2B0Eje3Pn5ltAf4RYS0KKbR3QGXqB6z%2BLqiFhh1ID1DeLtWT%2B7auj57WDxpnfA1VsNYTIUgOpb2hV8vIHl774xkKcQcyJi54lm8hsV9LR5yDM8L2YcA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5364315282/df8eee9c4cab1c5821dcafe11e739551/image.png?Expires=1783165456&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ufsL4oBCIXQu268NTU8wT3RZEdlv%2FOi5igGPcFvyiRhr%2BKudejy%2B4GmJCOQ6bhGCZlHwYDmLlosytVnH6h9Z8ySknITcpAZniGnY5gI83UtYM2djwtVDp%2B9F%2FZBlz%2BMKZdBAWtVwrLU6cfMMebeeGkAPZG2GptzLYvCtQBif6GsGlXCVN9YuKPnzEfJljCuGNgOLXRCfVWjs5uScbOQqqWUY4EShC6gqFPgqiIJeM8yD%2FCNRY7klmU8w%2FKm4AT2Z45mxnRffdnYnvYRSR4BH55%2BI1IuBgfugJpXtPtkRp9xjoTX3sY65iPVew9CxCnLGr7vMQhsAd7NdrRW20tWqIA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5364315282%2Fdf8eee9c4cab1c5821dcafe11e739551%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -4907,7 +4924,7 @@
 
 ---
 
-### 177. こんにちは
+### 178. こんにちは
 **Author:** 暴走パンダ (888844441111)
 
 **星評価:** 0 / 5 ⭐
@@ -4922,7 +4939,7 @@
 
 ---
 
-### 178. わかめチューブのサイト載せてください。
+### 179. わかめチューブのサイト載せてください。
 **Author:** あかさたな
 
 **星評価:** 0 / 5 ⭐
@@ -4937,7 +4954,7 @@
 
 ---
 
-### 179. 最近楽しいこと
+### 180. 最近楽しいこと
 **Author:** あかさたな
 
 **星評価:** 3.0 / 5 ⭐ (1)
@@ -4957,7 +4974,7 @@
 
 ---
 
-### 180. もうすぐ卒業式ですね。６年生の人は頑張れ
+### 181. もうすぐ卒業式ですね。６年生の人は頑張れ
 **Author:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -4982,7 +4999,7 @@
 
 ---
 
-### 181. Post 181
+### 182. Post 182
 **Author:** ヒカル
 
 <p>みんな僕の紹介見たらコメントしてくれると嬉しいな</p><p>ちなみに僕は今ピクミン４にはまってます</p>
@@ -4999,7 +5016,7 @@
 
 ---
 
-### 182. Post 182
+### 183. Post 183
 **Author:** ヒカル
 
 <p>僕ログインしてないからアイコン代わるけど</p><p>名前で判断して下さい</p><p><br/></p>
@@ -5013,7 +5030,7 @@
 
 ---
 
-### 183. みんなに質問があります。
+### 184. みんなに質問があります。
 **Author:** ヒカル
 
 <p>こちらのサイトは個人情報大丈夫かな？</p>
@@ -5031,7 +5048,7 @@
 
 ---
 
-### 184. よろしくー
+### 185. よろしくー
 **Author:** ヒカル
 
 <p>初めてだけど見るからにみんないい人！</p><p><br/></p>
@@ -5045,7 +5062,7 @@
 
 ---
 
-### 185. こんにちは
+### 186. こんにちは
 **Author:** aaabbbccc (mazamaza)
 
 <p>ゲームのところに色々載せときました</p><p>i-フィルター練馬区です</p>
@@ -5062,7 +5079,7 @@
 
 ---
 
-### 186. こんにちは！元気な小学生です！何卒よろしくお願いします。
+### 187. こんにちは！元気な小学生です！何卒よろしくお願いします。
 **Author:** series227urara 岡山行 (kontikuwa)
 
 <p>YouTubeやってるので良かったら、チャンネル登録と高評価よほうをお願いします！！</p>
@@ -5083,7 +5100,7 @@
 
 ---
 
-### 187. ハロー
+### 188. ハロー
 **Author:** Benevolent Squirrel
 
 **星評価:** 0 / 5 ⭐
@@ -5098,7 +5115,7 @@
 
 ---
 
-### 188. 今のモデレーター　たいちさん
+### 189. 今のモデレーター　たいちさん
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -5113,7 +5130,7 @@
 
 ---
 
-### 189. Post 189
+### 190. Post 190
 **Author:** 久保 (21070046)
 
 **星評価:** 0 / 5 ⭐
@@ -5130,7 +5147,7 @@
 
 ---
 
-### 190. 自己紹介してね
+### 191. 自己紹介してね
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -5719,7 +5736,7 @@
 
 **星評価:** 3.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5696394157/2f56b75e4bde433d7424462705b7872e/____youtube.webp?Expires=1783153139&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=k%2B%2F3mhsNEE2Wi8k0mrNRO1ticBV6DYDMwsyKtVAWKrQcr44U%2FBQMZ%2FsNTzMjWt%2FDDsRqm2I%2FHvjvOqqriW2G%2F68aFSRnWc8fB5dVeEO9H0CG6TjeZVFi%2FRtvs0enbJwQL8rwww6Tdhgg91p97p%2FSffBPklvhh7OOeRIwiQ%2BHwe7JHFcuy7%2B0tcZLUadE7dCWsGdAefuLWcv284ATGgca20OY5V0trpIiPy5%2Bz6RKQrgRPCpD6IpneoKQph3T7zOXY51R5AyzQmy%2BNazcgWX%2Fn6JchixX5yNlQ0fFiQqD9aBn8X%2BwiVrer9hcPHLZpF%2B8qhQ0W7T2djpr3C2BsWjO8w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5696394157%2F2f56b75e4bde433d7424462705b7872e%2F____youtube.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5696394157/2f56b75e4bde433d7424462705b7872e/____youtube.webp?Expires=1783165457&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FUpiGXNoCBt%2BoLP7FzrSdbZYfk6%2B6v9p24HIrWfN9AeXlkMt9nT7TVX1MkuLI8A2i4squ%2F4%2BISJpuak0glolvue3tS%2FbHwBcwM5MuPY4QZb5b4Okc3%2F1KGDIP5DGjbeXS1WIaQ6Joy3hgn9NuqAz2W7t2g765DKBO9D8KOC7ubZPOEjDv2yNTbM4OiWuEKcwGPmJ5pcspXLZwK89WrhQ9vSx6Wl178q%2F%2FDP%2B9O9uS8AV8D778T0zqYU0j9WmtPx2OXIFy5XSgo5Jdys0XzBkOPZRllTuqTMkuOLKzKiKv1ZM20rCODoPhbdQXavYNZUVrqB0P%2FrjqjZIz5M7qqn8gQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5696394157%2F2f56b75e4bde433d7424462705b7872e%2F____youtube.webp)
 
 #### Additional Information
 - **Post color:** Black
@@ -6730,7 +6747,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5845045026/a897d1cf3c171f61d384b620c3ebf040/My_Movie_3.mov?Expires=1783153140&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cIruHcbr%2BUFZpwbBfffDwJYFRfSE7qbEL1zobEna5m1COl%2B%2BDZWeCH7qI%2BO5VhTsO44CzOZgWROESHq9ZkPgb%2BxFTrqSleqHz%2Bc510gpMMJyiVkQrb2T7kfcTSGbRWb%2FdIaT%2FAIekH8IPhtwBogU2UPXQJvuRJ2puZl9pi0G13SxewS8lK%2BsNQMcAZkrudOQDURA8ay9xIp9zW4lL2ApirVJA0eaSLt6Fuook2867hk2Bs8RtWNKr1P9ibFhGttQAXUptpRumLEGacjpEeseX7uHM2hGQ75VA6pNYoA5N4p9qjB0U0TnT8uL1hsYEIGDmLM3AgYhGEkvmPMmItubbA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5845045026%2Fa897d1cf3c171f61d384b620c3ebf040%2FMy_Movie_3.mov)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5845045026/a897d1cf3c171f61d384b620c3ebf040/My_Movie_3.mov?Expires=1783165457&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4EJ%2FUHKl1wfJEAL535ZyUojwvJSCDxos3BqGTjHFpWk6y3QSeGNrNzRYPaaUYkGBInwo6TvdpkagfYNgkOzkGF7lrFkI%2Ba1gu8O9wxe%2B%2FLqHfR6yupveRWMltFpTxgtYdJJlehVG9dyR96h1btrxhW4zSiTVORdbXINkLdK07FIZPAd0r9vu5MPZzmku7JrcBYecNixGSROkRUkoAhfhMpCbOvFhhlY1CYWyrvvOqq1e8Q3CgH4tsV%2B82kFptr8OWIoC%2BER6jgY8pqm9yTU9ja%2BV1iFTK3PXT%2FWwji33xq0FgOzMMwHiNDXsk%2FtnqGSjlw0JpdnOhlg970DUAsmKWw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5845045026%2Fa897d1cf3c171f61d384b620c3ebf040%2FMy_Movie_3.mov)
 
 #### Comments (4)
 - **こんにちは** (Jun 21, 2026 12:48am): こんちゃ
@@ -6752,7 +6769,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5842799108/e116eb4b1dc24dec0831492307f08b22/IMG_0777.jpeg?Expires=1783153140&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6ql3C%2Fh3GNHM7kE2wHvooXw4tLr0i1rFRA28gPB%2FCbRPOhMlfZrozzSda%2Bui1biI1mWm5a2Iw6I14CJW8f0qenuR3zvyrLTZPfRn3vcZSbg5iPdIJhtuCrF8MrvIUKiEIuyw0mTQmrYRhqQob5OG18s8KjV5tTEV%2FXX4Sgw7cW%2F%2F71PLg8oyn9FTNy8TTUiAyTn3KExIt3G5S1ITHMRYHgG8M159QpvA42LhVo%2F4UQiJdIqlszUGWQtO5xN4jtZ%2FPJD09JU2A2eAbGlTkT7%2Flke%2FeeZG00Q%2FSKOUBiKRMYnXy7GAbxzuaYDQKjoAeMtyLYMJ8jHjSFK1u22goDwJYQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5842799108%2Fe116eb4b1dc24dec0831492307f08b22%2FIMG_0777.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5842799108/e116eb4b1dc24dec0831492307f08b22/IMG_0777.jpeg?Expires=1783165457&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ru9AlQFWZeEqTMlBFsI%2Fik0tVadpKrbUJW66yuMj7ChiAzW56YxrOLoLYyKT9cAivav%2FF5mvL5qwaBtsxM3SkjL5o62wmDCadCWy5uBXi7kPTiY8b%2FK4lJMm615qJQM5ZuEWESyXMDRqPSAhVRbox2kDnOuUHZKgMbnN0IFtD1P%2BCr6l1Ck5JPfFp434F%2BDpM6a9FSrpCWkdKtZJL0Z2c4ztYcdoBqGa3Icm8duPoJ%2BsQVTNZOA7CV4fAGJ0zYQ2PraBx3wBUmAE6Q%2FpKIcuF%2F0FTS1Spu44A0TqtXrIduQ7Oy59x2BIzadgHk9UHZfFrZrSoB44bj6%2B8ScDvwPB%2Bg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5842799108%2Fe116eb4b1dc24dec0831492307f08b22%2FIMG_0777.jpeg)
 
 #### Comments (3)
 - **🍏🍎りんごおおおおおおお🍎🍏** (Jun 25, 2026 12:08am): りんごだああああああ
@@ -6873,7 +6890,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (4)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5826593196/9b6c1b44a43ec230b7754fa200dd9622/IMG_0716.jpeg?Expires=1783153140&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NCiwQmbgDoFmP4Jvl%2FzeaUnXQ5t2UdQQZFWwS50ZubBQF3ObluQMa89uJ3gjARJNTf6VocOjxdbST5S678z6CNN7QxtBBDwSHBzzYlcg9nJQfyUL%2F9BMeR4iTrHn6rmAez3Ojye1hUXxTF%2FNDENQZi7yyhwVHa79%2FdBaQRlQBI03NICS7XUdaEqThLZKv93p6Xkshn%2FKKIdXAproG%2Bk3hsC6HYy96JesZQSi0RiNBTAB8FNthyTo20oBR0Y0StP71Lul5X2iEmCwzLFbVRBV0oo3F7C1iECm%2FJ%2B6qeFXBebwh9IwyftWwKj%2BoapqnL5S%2BfqdNsCYuoUrz7ZvGWmRqA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5826593196%2F9b6c1b44a43ec230b7754fa200dd9622%2FIMG_0716.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5826593196/9b6c1b44a43ec230b7754fa200dd9622/IMG_0716.jpeg?Expires=1783165457&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qPF9eprV1jE8%2Bftz1hNEeF1rz%2BG6lyR6itl7%2FYl6LxcqbbeNBGduYNKrDptiGnw%2FZC3UZkFqm90KDF58Xivs6ncwIHbaMySU8RGbKUQVyNVeP0WH3xvBi6WMY2hBnPiwf1MPEqSNfaCXR1QYzCuXNNMv4ZKuTgcsoPmGxgnToD0fryZeF%2FgFiEC7pJQaeStqkVLfQcuCwIfU0QOGFRkrrJuPcrN8%2FRZFfWoLpzRPu63rs6qZawxfHvmjkkCZ3NcFNpAqKNMBUYyNz779CF%2Bo0px0lzXarep5ZKX98NEzCp0VfHkOwIHm7YuudrwadhAxtcvxHbMqWyOhs5RkPElm%2Fg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5826593196%2F9b6c1b44a43ec230b7754fa200dd9622%2FIMG_0716.jpeg)
 
 #### Comments (4)
 - **スリ** (Jun 18, 2026 05:32am): WAOセンスある
@@ -6938,7 +6955,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5825855256/28169a36eae1023823cf1f1d92f7fab2/IMG_0698.jpeg?Expires=1783153140&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mI7qZpdPeaerw8mvJt7oHTnLzgImJonWudbVg9iw5v6HPOL7zCLeqr0L%2FYxBcHlozKfpRsRrfVUquFkLTW5urvRnZZHV9%2B%2BHkZsdY0Xd0YcH3EG33vp%2BWLGvMsipSsWb66gIIcC0OMNdfvldtW7LKwhVORS3WNAUss7ZPHT0toVnhiBxFvt7vtBOEXRTvm3HqUYYYMNPW6VlgBsPuda9HF5Lp9n3oWkr8A5Yst0LXqvbc0VQ08i%2F3pQva7UU9FCfmEmW353iooQUMsxS2acQe6boF2j0tihcM4XPYxHVJHkejiDKK%2FakThnUJeQLHHXiDB2qaYM%2F4H7%2BwUsFSxSkvw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5825855256%2F28169a36eae1023823cf1f1d92f7fab2%2FIMG_0698.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5825855256/28169a36eae1023823cf1f1d92f7fab2/IMG_0698.jpeg?Expires=1783165457&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=skEliUwsjCEQotUMEmL4ZLiVYUazPiQOkVhBON2qkTt836CoHZc4dK3Lf48NhHwL35yFstg36gDtjcKfTD0PT%2B%2BJ07WpfWlGtEs0otu1SFMCYG%2F0UFwgjak0qHtcnjNcXVYiSRRmzIv7%2BtkFzfOGMK6L8jwCIRVhDo03kj%2F7Ejq2ydRpkcPFSXJ35OXpzc1zIUBFlJBA4mSEjrKCpuoJQVJFo20m7W6k7306PlZD%2FY9XoEG3M%2B%2Bh5FnBRIXMMERMrVzc4kfNgqEeLpe5OEC17zAfM4Wue2iOSTlRX9NbW8AlatHN8jhIukw0NbwiNs9OMxWX5T62BI83pyO8yUMKgg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5825855256%2F28169a36eae1023823cf1f1d92f7fab2%2FIMG_0698.jpeg)
 
 #### Comments (3)
 - **スリ** (Jun 17, 2026 08:33am): 上手
@@ -7010,7 +7027,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5696394157/5a9d9578f5d8f027329153b47c0c4c14/_fortnite.webp?Expires=1783153140&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RjULmWaAjZIEUYpaT6M%2BSW8FGMOxBTiPvgbYSCYHpb93o16rVG3DSw1sJTq9yOHGreRl%2BMcv6neeNzOSsgSFedGmqwib2kj37pDyv28ByJX7VQ14ZUYrI1cCeQlUFIFdHzfzHDxBTMFF0ms2fR1NL346oZ0asi7MXa9jj7dkfbINtJnofdw%2BUBG3xylGWRKdbn3%2F9eSjhOWsYFZeeMtqhCKKrF6CB8%2BZtFCEJ09PE1qaXSXv4J2yUCn8INL24MNxblQo1dFWddPm5Quvvo5XpwVKJYW3jdcFUOYjyzp9hHXDGEaWN9ikYscNIVfBPnhDNCeEHkrFl83DIEHD8nbIcQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5696394157%2F5a9d9578f5d8f027329153b47c0c4c14%2F_fortnite.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5696394157/5a9d9578f5d8f027329153b47c0c4c14/_fortnite.webp?Expires=1783165457&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hIpJDEBUzOX%2BpJxDA4qaQZ1g08LYetPFACGcKI0m0cZMVtz%2Fi30y4VOVd1Lh%2BQy1DbiOAmGBTFqRj20wETv9zq4orecEuXSN9iYM48vKM%2FDQ6nZClV%2BGKSjxuJDCQbHeujtfjQ2ClVdMJVU6Tin0xYiuB8KJ8%2BUFvONEFXJT9Rx13NVC012uS2%2BuTqLb1g76zxmgx5gpE0ZG02ESVnqPJvDAZEqCQWAuqlyEGJiLxRi%2BUtt%2FmdXWGJI%2FVVKFOls%2BWUoGg4Xv%2BSDvhy7ks98GJyVFl0dck2sPmGerbe1RJkyYZI9MeeAj8fsBYDI2BBBMRz4Ky1NuhMIVs3qvjCXO7Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5696394157%2F5a9d9578f5d8f027329153b47c0c4c14%2F_fortnite.webp)
 
 #### Additional Information
 - **Post color:** Black
@@ -7026,7 +7043,7 @@
 
 **星評価:** 4.9 / 5 ⭐ (7)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5809232767/0687837d0ef1c7bbdd00f9d46de01209/IMG_0678.jpeg?Expires=1783153140&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=z3eW4FfQNZU%2FJD4ksXfc2X523uq9%2FuDwD0c9r0nSokj5q%2BcCFRYAoGJ5XLLeFvPL4W9WSZ0QzgKJe9NVMfiPvXBcae1Hs%2B6UOZ2lQXN7fRLvedGWUXmMOa5csv0DaOxyJIkEC%2BVspmtvrpvBmD4v5bn2k7I%2Bgt6ZRdrQLV6KRy5waLCfG4mo1eW1wYB%2FiKitL91Vxo65KIxoC7JGnVHYZWr9FcEBSYLF%2B9Rhy4R6KBT%2B7zwRNXw2bAkfjU5fX1bZJi6Cys5Msvah5j8d8h6FX71dhNH6%2B72IOYiFi1qbspET8V%2FuzbXIJ01yaG%2F0uMPjSR%2F2%2FOCWEWsCHqW9CswAOw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5809232767%2F0687837d0ef1c7bbdd00f9d46de01209%2FIMG_0678.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5809232767/0687837d0ef1c7bbdd00f9d46de01209/IMG_0678.jpeg?Expires=1783165457&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=OJqrF9uf00djcrCjJJ%2FI1jKNRzofgh0ufSxBiYaBNMXIfj7qoYT77%2Fa%2Ffzt00LU2JSwhZKLreDAETBH0zUk3TOiTkYnrTSg5DGgqdjA7OjzUiRMPAxImPL1IndPEAgUvY0z007v5rM%2FSYlpNBwgv2%2BGW4s2JoIacAKgVEnSies%2B8rPkeiaqWs8VB1pDXDmVvLSthIT85HF20MAF5XgJbvQryE%2FCKjJJ4fe8oPwgI7PO%2FPL8r4%2FQQDeNcFzLsQ3COFIWqRKY4iqWWB5ssrYyvC%2BTFqYZ4wvIPyMqB2SbOvhCAM7WJXdOHkMWdL0mBl%2B%2FrFvZxnphDmjrQgRt59HDgGQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5809232767%2F0687837d0ef1c7bbdd00f9d46de01209%2FIMG_0678.jpeg)
 
 #### Comments (8)
 - **ふ** (Jun 14, 2026 11:27am): やば。もうプロ。
@@ -7361,7 +7378,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674125412/f793eedd0f017c0f539558763023714b/image.jpg?Expires=1783153140&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ZKjT6dKG0PTj7GPzCLLH3nl1i9PCHRXR8VtQK%2BE2rHvMBd4w8xfT%2FHgHiA5m55lErH3o5NKBb5kEL84HX3UcJjDFQnU7Jte4Jwkegg7GsqiC0DzFblA7FPYwgoAk5LBU6T0uvlVargw%2Bssfd1b5pEHciF%2BWqXTq0IET3RBrwVtp5eAqJa4Pl4DXmL77HH5lT8deyP7Y03do8twGZrBNB8rOBndTnSL9C7DJWGLWwmyvE65U10DgMphWoj6PnhdMXcYFjdZZMGql6JZt4gEWg6E2Gm7e3HKHAGE5u4jMukJR%2FkzrsvVeqMMQasdJypnyyIsRb7LXsUlVBNEiVLAC7jQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674125412%2Ff793eedd0f017c0f539558763023714b%2Fimage.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674125412/f793eedd0f017c0f539558763023714b/image.jpg?Expires=1783165457&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=b6ib8dm0Vl1E7R0%2F5xVJGXdUw%2FdpXv3A663a2AHt0hdfRNK6u8he1QZ3Zks5LI7KrCWj8aC6NYoeOKzhnBA55nlQLcxckUuhleiqsw43yP3rDgiiZ97muI5ibqa72DwSIlQUhYo%2BFCsPa6ulrPBlxrw3icNwn2%2FRmc%2BVmaWamgA%2BiZe%2F%2BOZ7Z%2FOIygRzYpHj9Ynm83SmHrPjY92aFtZhkw0rzfu6D1KPQYHHIio5gTVsLMxejhAxxPiDgY0Pcyilq1ozWmJ6uwAehBUAU813T%2FsYBVZKItaWQNt%2B3EQzaDtT9t9hivxk3ObmhKNLrLiYylyMhlHCDbmSni7s52I3%2Fw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674125412%2Ff793eedd0f017c0f539558763023714b%2Fimage.jpg)
 
 #### Comments (4)
 - **天才のその上をいく天才** (May 19, 2026 09:39pm): ライオンの赤ちゃんです
@@ -7946,7 +7963,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5829062804/8f87771d4ecb557af0484fdef0a728fc/image.png?Expires=1783153140&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=v76zJycF8j1GjDFjsgYyM0ceWEty2O07wWWgTagQon8V%2BaWTUgp4JXOb7q6kOTzC6pDTnDyUIw6%2B2R%2FHoA6LGElxk314HDTZKPtiysTQk58wGg1P2KeghOsPiMegQAxsz3RDjC%2FXgJ360zQVAXeVD8yJ78SpS2zfbCpYqtFoBy%2FLYEy2xgHT9zah%2F3%2Fyts16o6UVc6rKSrVpP4J2J859DUdV70jxfH438kOQYrdBEz2wfcauFkbQSSgeRMB6hvno61%2B6bOqeKchnHNMqHpgoOz42fWbx%2FC8hIU%2BBkkqxjh%2Fwf3co7GF2Pq8vYUZnGLPZD8qtOf3iLWeLtdpDqADjAA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5829062804%2F8f87771d4ecb557af0484fdef0a728fc%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5829062804/8f87771d4ecb557af0484fdef0a728fc/image.png?Expires=1783165458&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ZdsgV0IT9XcrsThPTZyJDVxPqMnDGIZANzVKGdhhZAYLDaTiJBG2YQzVOYd8x5i7gQYaZDssSGw9fdxZ%2Ft%2F5pkPAqc8DWoWsCm%2B3QvfkYjX%2Ffigs%2FYWO8VkA2eq3cY1%2FLsIHqr6DqKcm5lwGDhD6Lj60ZfuAE4%2Fa3OUUxjPqGnchmcs9tTwHsKNWPMWtEC5G%2BtPTiCiK67Su%2FyNn5XqK5kbGmp%2B%2BdBmnuJjut1kjlj18ZEnAJvHOtB0kPirZSUnXSN8FinyRQTmAVaKntA1vc7%2FkyIIZ9SKvD%2BeWN0Wxur3sGQu1l3GuH9quOA0Ql1a%2F075JITEQJVjZmPsv4xEItw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5829062804%2F8f87771d4ecb557af0484fdef0a728fc%2Fimage.png)
 
 #### Comments (3)
 - **雀** (Jun 17, 2026 10:27pm): 感想いっぱい教えて〜
@@ -8049,7 +8066,7 @@
 
 **星評価:** 3.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/fffa6a81bb420977cff433b9f4939bbf/images__77_.jpeg?Expires=1783153140&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=X%2FJFMVG6VkigtMrvcvQNsFwTEq0RsQjw9UbpsY%2FT2HmLPpntW23a2IF7w7V37pbbH%2FekI5qKMlhJnw9zXiecKdA5pY0mTnfWe8c1Kv%2BCpXz9H7noInrF9XO6Cj8WPjn0XLxwvOhvpsmmkd8cJgvwNyI%2FDgW5i4hn%2BiRWg1ywD5c9k8m3IpeVXoatIMfWD7z0v2vw5BXJG%2BVYI9kK7HBS5C2ebUKB74Qxaz%2FGsUE70tBg08MdMTbWaKt4%2BuTiEZv2rlDkwEUz%2F%2FNEn%2FlED7YksLNmgebodq7nvnIvDRBIpDJkGfLmZ7ZdIJ%2Fiq8%2BVLmRRAc2%2FX4caVFzH62%2BbfzfyMw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Ffffa6a81bb420977cff433b9f4939bbf%2Fimages__77_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/fffa6a81bb420977cff433b9f4939bbf/images__77_.jpeg?Expires=1783165458&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7XncSTB9h2m9H%2BHwqVBcuWuCOGmRsMf9T5hezdNvpMd7js%2B3Mo64gcFocn1AjWIwJZWUuDwGNa%2FNx47zQjg0jo7ZMYc%2B9X%2BiGMkYscQCQ8aGiVB0vlEISknbNdX2qL%2BhSm9Io0yXRkx%2BYfKOmuy4dBMhn3XUZKeX4atTxEQ%2ByPlDl6h2sBKHK3IiccvAVEJSZyYu%2BVIgwKQibNP%2FuuShhKmtbFW6cYjAt%2FPWLEx2C6USJ%2BJmkr2IyIt0Dn5A3pfMvj7rDwS1TpXpHVREOPl4DcqiIIhsPLB55q7Ndux6PsM0rE7vTpQa%2BqgJXMNpB6Lc%2FIXTRHtKpuKMcyr5OGm9bg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Ffffa6a81bb420977cff433b9f4939bbf%2Fimages__77_.jpeg)
 
 #### Comments (2)
 - **アルセウスが好きです** (Jun 16, 2026 06:13am): はーい
@@ -8108,7 +8125,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5794057584/b25be8c71015d0a5867b6bbf9ee6fb2d/IMG_0155.jpeg?Expires=1783153140&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BUbLK3LGR%2Fq0VmfzEwwFyqsf0qL8MByOEOHPqKJGN46uuPalq4BFZnuWlG%2FkbIz3%2BcEACMByM3sUkJvXbNzfGztqOauVANGaL6GAxK8xQmebX%2B%2FEmyTsgF8x9gcNGowJ4izB9gc1tTrfv%2BbEry0ps%2FzLPEeq1Xrfok0E7uSHB7uK6o6P%2BlaZJhK%2FeaUCU8G%2Ffn6FEGivM9Gu8vUo1bph97aHRMF8%2FiQ4Gfn4KyBahs6hvFGJ2koVIe68deMWLylIk3bI%2FccsOyzhyD%2BprRjz%2BGzeQQOLIz4eBhEqXQPzjfe5ELdO6enGtz6wAqrsQ9ce3o5lo%2BV6ywcBGZmPIqmSTg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5794057584%2Fb25be8c71015d0a5867b6bbf9ee6fb2d%2FIMG_0155.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5794057584/b25be8c71015d0a5867b6bbf9ee6fb2d/IMG_0155.jpeg?Expires=1783165458&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cHP30h600bmxIR28dsN0v36Eh1e%2Flhz9dThIW0L5O4w1ofVaM9mEyopbw2nD%2BWtsEiUFCpjwU6DT31qtRu6b38%2FWHcgnS3derNMMb3bXQdXaBOed1NnyRw9YHcY25XzHhZPwhR4pUxuCq4fP0YRPfy8Pd8Q4ktgBAFMkdf1tk7bTpp%2Bo2cXlIDVVOuUX%2BLaNcv4PE8BykYLuuFXx3ELb1je8%2BqFH1%2BFArDDnztFvWaFhz09vB47Se74wAzp%2BoLOab0iO7ET4vzKxS0nyBM8wKPygieK30rX7lWc3AprZziBp%2FRIIuDNVfG23EDaI81TWyLCN7UlrkAYgR6KrBPVn2w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5794057584%2Fb25be8c71015d0a5867b6bbf9ee6fb2d%2FIMG_0155.jpeg)
 
 #### Comments (3)
 - **フユイロ** (Jun 11, 2026 11:18am): なにが？
@@ -8410,7 +8427,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1783153140&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=3jUspidAfWVud4s8hKKxP4QUcgg0AnHbIvGQmlwdL5ti8E3k8zj%2BI3giKzvw1EFmrKdXyqbsLo7h6vy8h%2Fnp1Csje5En%2Fe0faKH0X3tQ9mLThJek58iwrh0Oz4iVwo2G5YQuhlof1tyCw4%2FNYFdPgyQkyPo%2Bo7SYveAL6ykk0xibRIoYJNVmY5juCD7NpjCzy5Ilxqp1hVVJyxdDakTxMI0CL6q2HnQS64Xml54Ys298I21Uc0gKzLNadoYnzAmbSwBqc1X9hoJ6HNuE58OoXIAKoVS3TPsafS1UbRA8o%2BdcArqG6q0JO5jCCdREKN66Gk6Pw3uJ0n7QQZrION%2B%2FRA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5452848716/2458c133e8793b8f6aa33267084aaa2f/____1_20__1___1_.zip?Expires=1783165458&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cx7GLXIZqgosWpPadwU5NUy46Qk08lIzkfvBo%2FV1bSmf5g8WycE0tzM%2FkkUDjaoq%2FygbkxzgShMmZU6Qws5T2FFzQbbZC30UWAXMJpnRpLmGN6X54NNQJGUN2TwIEVj5IwLcHL947jAtq9NPmXImxSjFH1ij9xIkrNrONMpcq0Z%2Bh8NNzpx9xMsFzB9ya5WO%2FORZXeJ%2FFzQT%2FgnwRvNHYKRCOjAYdaMubxPcDsikG9RmeTOu3sT5QefFVDD6IveOnTVumlG7cPFaNBZEqIZQPjwS9U6FNiHELLn6BOwjz%2B0HC77AFZ21xPacK6zgiijvx%2FttiNHDmdE%2BCIfBIl83Tw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5452848716%2F2458c133e8793b8f6aa33267084aaa2f%2F____1_20__1___1_.zip)
 
 #### Comments (6)
 - **削除済みユーザー** (Apr 26, 2026 10:13am): コード打っときます
@@ -8466,7 +8483,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1783153140&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JY6f0EgSdzCsQrjZqZmMLFqqbtDCLDqTK5fNzxqWIxYDBr%2BiYNjuEYi0Wo6VD7%2Fs%2Bl%2B9zn8Kr1j5SmfOjrBIdLLUBdXZ0YR4KjWW6RrmawYu4anS9SCid%2F%2FXHtVuagJF8QkSU0Bq0x9yerDzpKUML2f6wEv%2F9pek4EGo1Zx41HGrqXV4XMMRhnUHrLoEKVEISe%2BftyqBiwQEosIrluh91Q3ljf4J2FJzoQVTrvBvEkFcQ6OUgrSFSB%2Fw9cnri9PRZ3QbbwIY1dO%2BAZi0Agb9RKBD7m2HIXxUyU%2BfoXiE5CaqGoFfk4XHFhnwWPLosbdXLAizBqKCDVbDmFCZMncn9A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/476177f9e3aa6e75eca1d66c8674ceb1/image.png?Expires=1783165458&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kbjdMlekC4r3kPVfrd00cLF8MQFSbodvM1UuZUtItKMnK4GAqyf1ptbNIgC6W%2BtUmi5cgak8tbwYhxyKRX%2FteCie0b5glt4%2FsBukGQX48FcXl5me9Jl3GQ07HH5pg%2BzfCIsC%2Bvwx%2BdK32e%2FtxSK919yhS2KIQ7XCj0aRo51LSHnIs40zeuJuEPhDWuwDfl0102BCE63E7qSk24%2B%2B3dJFArJq0UnujnMkTUSHdm5sCqBH66y4SPv2UvTm9MMX4np7foAhc5jv803Mdz47XuAjSUJ7f02y3StTDXdU9s3t040RZNeveZQ8eyn%2FEUBBjHUsXyMH9JrO91uEIFdwGaE2dQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2F476177f9e3aa6e75eca1d66c8674ceb1%2Fimage.png)
 
 #### Comments (25)
 - **時透無一郎** (Apr 22, 2026 06:31am): ぜったい時透無一郎
@@ -9643,7 +9660,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5878829046/ef40869a9f866e33a6b23229699a3dc7/Screenshot_2026_06_27_16_27_17.png?Expires=1783153141&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2wb4GfIpq0FvVFw5vimtfHs8mogJa5E%2FJiR%2Fi4ivmUCQZOyrQE2pXOhlJd3pGY9leqFCZ9V0mrooNdSAbx7pXi7rAgEoYkIAvSzDtR0iORKo9AcA%2FJiTU%2BAFH%2B%2FYYsLyJzuNGIdfgw2ZUV%2BbFYJlubP5kj%2FPcsS53rEEVxzTK5TZbrVks4yjm%2FOrwQdyryh9ZjeayA6zutl2bqcg%2F%2F0dDXGFew73izhQraHt59jgRzOR7Fp0AwSUm1Rfgyc6rwmB4j28SxSKCuipa71XaCPpGp0cR3AiqDSpMy%2Fn3aVPhF4d2NSyjAvaqLkACpWbu8lDxCHxXszg1PQ61PWKDVdQrg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5878829046%2Fef40869a9f866e33a6b23229699a3dc7%2FScreenshot_2026_06_27_16_27_17.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5878829046/ef40869a9f866e33a6b23229699a3dc7/Screenshot_2026_06_27_16_27_17.png?Expires=1783165458&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=AK%2FcsC%2FOrSdx%2BZG5lwETJWUjW4yh7vaOLwmneK1jBhHLkAyZLaYDrAGnXWa3pL17Nf%2F%2F3t7xoIakc3JLKotmfkvbyuC1q%2B3fEJBs2YnOcaIM9M4cb6AG0LfQSsbnnxg4F9YrTaOYQ2GmzQb0zky8OOKZj5ohhnBNQSm7ixCFC8k2vuPqvIA%2FNKkVJ0sf76KemvkUs1oQEav12vfqF7yIS%2FsAqo2NHe8DSZaMv4VHwQCdxTfeQAwMkP5h4VLYwO2Uo6SZx%2BDUjqjTcjMaZuLFHbB5tLIde4WR37doKLYWLMibAAls7MibZsFr7nRGnrIg8RlPOv3GLxRvbiDIHSRebA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5878829046%2Fef40869a9f866e33a6b23229699a3dc7%2FScreenshot_2026_06_27_16_27_17.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -9797,7 +9814,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5841830191/4c497e42ab5847787089e8b3f5e0f744/IMG_0775.jpeg?Expires=1783153141&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0GPECf8%2BL07E9Dfnbr6yItHWgMaLRJRsork%2FULnBdSul7nrRVsAQvomlbw%2BA7wfNoFko9IyLvOO1fYVZ6yin%2BoLE50Bhz9HqjcWhqZA2ZEiVmn09ImP7IqGTixrtxL7NB2NB7qZo3CQo48k7LBrjiXFAcv2at7%2FlKJXj4FxKH%2BltPwsRzUTVHl2%2FMtV%2FbmMIjblqQS2UU2atTZFQOTUgooZrjfCft0MeK6pQaEYYXhxflgWaADM9WzYGhFrEAlOp%2FUbJTS%2BASdDnpoIx1Z%2BTF9%2FfVTXIS7NPytSWaiUTis9zAS3B1qNmsFZFvJlgyJC2Hp59Zo%2FMEdg5He8BGP%2FXow%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5841830191%2F4c497e42ab5847787089e8b3f5e0f744%2FIMG_0775.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5841830191/4c497e42ab5847787089e8b3f5e0f744/IMG_0775.jpeg?Expires=1783165459&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RncEW2z2NgJswVwqB4SLADZjQoKy9DmPlkYwdPiDhn1GNkaVoBCxglF%2FmAa6c4Yc5ZPNfE3Si0NT5VI4NtL6%2BCOyjR%2FD9KCks2mUBFHbAcCFoW94PDS%2B0SJPcb5sQVZOnWCZ4%2BQ%2F1GnzhaxpxsaV4DRH5afaFCNbMVaVSrt0ZxLBgi16thSKzSToU80uztMoVGhjO1TG9qzpTzkXG1aQmnHOhP84k1%2FCCbybSqicN0reaX%2BG3S9b9ddrybUzddqthl5O5TWGw7SlLQriJfEUPgUQpwgN2kAFp%2B2tZ2tZufHGjiz3wfxPft%2BAOIn66U8h08LiiX6YoXlNJGpJJSpTZA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5841830191%2F4c497e42ab5847787089e8b3f5e0f744%2FIMG_0775.jpeg)
 
 #### Comments (3)
 - **ヴィクトリア** (Jun 20, 2026 02:33am): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/lkDVaKjLXobdWPp9) うそでしょって思った人、証拠写真ですよ。星評価もよろしく
@@ -9818,7 +9835,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5837457018/a3768943459113528f704888afb2c4a8/IMG_0769.jpeg?Expires=1783153141&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TJH3RpuKIjdfvaNFTVNR%2FV7kxv%2B8DRk74TZXQQKNhQpox3K2Bx2%2FW2aKyNbEwTZir7h%2BjL71piqax5eWTgKU9IgDeFO%2BkiwofwcUWfE9tyU1zSIZthFztYGLN%2FNuR8sr9r1pRYy70wnd0%2BmpNdDbxhFts99xQnrPmX6zsxLRm44bFPzkj2TjbEL%2FlQIKHN8%2BB0jKFnkValReczAQbVrE6GoI7W6qLaZkdNirigdnPx%2BZUVFZnd7Kr6HVHJFCZCQYQHL9sN137np0oMaJEC6rwFbG8%2FaPbcmDGV03wJSj9bOC007EBbgZX8RO6s1mnIrg72gs5QdnzAyR7XSn3zZ1hg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5837457018%2Fa3768943459113528f704888afb2c4a8%2FIMG_0769.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5837457018/a3768943459113528f704888afb2c4a8/IMG_0769.jpeg?Expires=1783165459&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=yQ9WgBVnaPmmVqD7wRwfoueXs5Jzu%2BG%2BmQejKuHQw3e%2FKXKJDcOoDWE7R3RVO3OGs2hXyXAE8Ad3Pf1kWS%2BuCVmVTYTVIWSBXeV1L8gZfIe4awc5ZjhhgfaOHtouM3OePbDFcfxjSGDSpAOnjVuI9tcddLfiCjUdt0kBwMEyp2ySzxfk3slzzdln84ratcLQw6dhmX3DfRszhEtDP3nzNs2YVS%2FPUlbDPyKm2Kcbsdy193sHWZ8IHLWHDI%2BkKyV9lRf%2FopSEAE%2B8z5lbB4OEOpQOwwsDoiX7AQ%2B%2Bzpj48w%2BcCR3QCZ9HRQTejlbY7UTzo6B8BY08p55QP7kP4ZYvvQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5837457018%2Fa3768943459113528f704888afb2c4a8%2FIMG_0769.jpeg)
 
 #### Comments (1)
 - **鬱に憧れる玲吏** (Jun 19, 2026 11:49am): ありがとうございます☺️
@@ -9837,7 +9854,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5837457018/d0dd8587d2ba77f22c9cbf9165d1cf94/IMG_0768.jpeg?Expires=1783153141&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Z39hVfDygKg5ACG4pwtulJ8s%2F4KF7j2HIb3xx9ViPamaRXwMEyMyagG74jvRteJLGmNsuDkV42B048xZmj%2BzrzdwI%2B5lARHNIgQ1eRhD6VZSZTBwvhbpenNQHo4HlV2fWmo5h1V1rkVyXj00G%2Fbi58TXgyDXjjT%2F2RVCpssNtYHseOUXvPbCYs8M6K%2FIXyJfSwklYNlDZXakWlG3e%2FLha1CG%2FjpidgxmJupxUVduSVhPGPB6mbApKINVphE4JJU9WbMDDJIy8cvKja2vENkAjSrsb2kcK2Go8ZeOBQRlTBwlIU50mciFdoJg3t9iWq93wARwJfmY%2FKu%2BOgdzo88R6A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5837457018%2Fd0dd8587d2ba77f22c9cbf9165d1cf94%2FIMG_0768.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5837457018/d0dd8587d2ba77f22c9cbf9165d1cf94/IMG_0768.jpeg?Expires=1783165459&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nGeEvCZvccjh%2Fubn4jbCSP6aCsZgHpIJAARluH3BLCQifSluMio6u7%2FlBWMqdpd15CyIt4v36m5THUWsQNeEt2VV1ygNVFI5UiO%2B1QFuxIn1nr84gOW61ny7gQR6feyaCrwtVNlH111OPB32idcGq3pWJII8H27WP9%2FuBKUEJuQL8aYz%2BMCPTE540cvpaFvDsED3DgHuj366wvBMStiW3G4SxF%2Fx2diM404Rp7pMXheg%2FXRaeJ9CuEka5ERpqzn13oj71Z2qCSvvJzYtuXHOqjSQuISwMSNL4ImLHq87FJz5aXPjVGzuITG3ari4zp9DgmaZIGDA7PxfUDD%2BnvX9Xw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5837457018%2Fd0dd8587d2ba77f22c9cbf9165d1cf94%2FIMG_0768.jpeg)
 
 #### Comments (4)
 - **鬱に憧れる玲吏** (Jun 19, 2026 11:50am): 右AIで左本物？
@@ -9928,7 +9945,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5826463288/aff3e5056285e77efbf8e1fe938d5b28/IMG_0706.jpeg?Expires=1783153141&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ZnFZc5ShBH%2FewEooyj31nY4vsK8r4f%2BWxvy1R3dWPpUhvpQQblMPFuqMIheQITMmM2T9%2Fq1Wg7opX2F0QlWItdM8qUbQ91%2FjIKCFDwmUFJAfAKJ%2FMT%2FEAatS6VGkb2M3WH9dv86IpSrX%2FclGFRijMMP5Hx1Ybn0Lu1g%2BWC82zTTfPobB%2BnZXJlAEYG1DF6vCTuNZ8ROSC9%2FCqcPVXSXYWDtqrHI9f2I7vefPiGu50glrG%2BvNTCWsJc5vO7XX1JHaA1MqTX9bFYPYGFXb%2BdDrPu0lt%2BaOo%2BMxkV1j26Dhzkzy1yFRWEV4SlCVI3Q2%2Ba1HYicoqxROdr52DaSbOJcp6A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5826463288%2Faff3e5056285e77efbf8e1fe938d5b28%2FIMG_0706.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5826463288/aff3e5056285e77efbf8e1fe938d5b28/IMG_0706.jpeg?Expires=1783165459&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=u8DffIvewgFcqYV1mszb%2FPRKH0WX2mo4snd5I2QgTUTDAt1LD65EusWixYp%2Buo%2FqYlKNau%2FRi1oxrA8wveklUc9vBrEY6eF9yHd4AZDSG7kupHUDRJbeOPiGrNUOBoQkVs6FfToQ5CsKTJd2uX0q7p6Ih0mg%2FyKBYkaYFO%2BD5PaUxQTS5N95gcaMe1hhY0NeG2etrgYRH%2B8nm2TWfnMZh7xt7wTgCIFngXRvXfZK6F2jp3KFmD9clPBRg5SNn2PUomxRM6gT3CFBg58SqtiV18yAwtpmZyZVzm0bwTGtT4EfOKjbjOYtnRjKY1vw9ZCa%2BPjM0a5S30x0MIYyq3q8lw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5826463288%2Faff3e5056285e77efbf8e1fe938d5b28%2FIMG_0706.jpeg)
 
 #### Comments (13)
 - **鬱に憧れる玲吏** (Jun 17, 2026 10:23am): AIは右で本物は左だと思います。
@@ -9993,7 +10010,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5825143848/e89fcd58386974940411f464eb865541/IMG_0691.jpeg?Expires=1783153141&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2mUvtJ2fS9OB2VzlDlaXRAbPrMww7O0toQE%2FfDD9dWXgMVR1e6W578SkD0tDdQ%2BcbLH0mJ%2BaocOaSF7qrHH27WVKGujBinUXkEz14pM1%2BbW7%2BTih0Z6EOD58ItjPMOZ1MybH1Z4wLKLWRUkSiMqdPc9eEB0yz%2B3LNqumysNEwdI29ZkSmtkY1SOEmx4QyQWA%2Bp%2FMqlQ8QS54ze1A8Xb10kdsHVbf9Wb0f6LzPVdHhDZI%2FMBLBEE4tjXnt8QBHSVwarJgbtl3O0BvxM4%2BncDpst88AJA216aspQwbJIOtkwp5SMMkK%2FQp6sNoZ95Ij%2B5ePpERJ0DR3u2Z%2BeyhO8VO0A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5825143848%2Fe89fcd58386974940411f464eb865541%2FIMG_0691.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5825143848/e89fcd58386974940411f464eb865541/IMG_0691.jpeg?Expires=1783165459&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rFmqjVdrqW5sQMPHSruwfCQILrGJMi0H0H31D4oWy2d9FUm%2FFnrcg9yUHUP1CM6jSfpl2TEFH7g4%2BvChYDQsMu52VYzbeE7zHxkvzJ1iiRN5we0QK%2FUfzy6NqJoltvvzxt2%2FSc3zIbWAXWTr2rldE%2FdxCu01aQ2Rz4yUr9Svgx4rlDjCOQGixTRqalkG37CexL5g6LSwx45yDdKQI16%2BYPIcfgmYCETqBpy91%2Frg8grwfgIHHaJvdtu4hlLoKerRMF7076j0zXME4Q4eW6gni72WDioLmZv5q0%2FLdR%2BzEAZ1htkPYqALy5H4ghsoTd%2FO%2Fctdkb0%2B6bp2GTpbk44pHQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5825143848%2Fe89fcd58386974940411f464eb865541%2FIMG_0691.jpeg)
 
 #### Comments (2)
 - **シズクノト** (Jun 17, 2026 09:21am): ええなーー。どこでやってるん？
@@ -10082,7 +10099,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5696394157/b92b17f4df8b86dfeebd6c3cceb38884/1_12_better_texture_eef470b0.zip?Expires=1783153141&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hNn0cfIErZ9jKleJs83%2F8kJBMwL9JET1NkUPiS7aCnODipn7u9Flg6vF2LGsNU11%2FzWDzMVF3VpVLWvLPxpFGXRjMheQgiolFGrLLzY%2BtQ85r%2Bg9amnV8gQgLqDrI6EbT5dV%2Bz4BsJ6%2FwnspxJYZ1hPepPd21YMYYrIcz2juVpIWpNQcGCDCsis0RjsWz%2FdRDFMohpRSw1umjUVHKffAXRQcKgB9rxgQnJl%2BAPqYkvag5VrcBhwd%2ByKTMbKdadngPpTg%2FUrJ%2BV5UBkbh2AJp87OaQP0Z%2BTAk9d7OJRQgG6mKy3BKzIXxeKAsLV3546i2pOXe4z84REjQ5D6ygisQgg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5696394157%2Fb92b17f4df8b86dfeebd6c3cceb38884%2F1_12_better_texture_eef470b0.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5696394157/b92b17f4df8b86dfeebd6c3cceb38884/1_12_better_texture_eef470b0.zip?Expires=1783165459&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=sEjlkBChg%2FAKTtW5Drvr8tmrAJTUoOLEod7k40NVQQTonHulCr10Db4%2F6R0oXEaRH%2B5elksku0qbBk8%2FVeBikj4%2FKbmkqr9V3ibAkKEKvwRgUW8oa2MgIJsLLKFdC2qcgmUgrwct812R3H9OSfz864aOJLOmpwzy%2FVKKQHTWtbO5eD%2BLhien2fHlZA5eLdoK4ZXx62lY%2Fx%2BCW5J1VYMU5pvj%2BpYRDaCWrOJiiv5%2BnenDp3jpktD8ygM95ws5sw1t8OCGGXb8IuPrU5qFWzXxqjDzts2N1h6O1Mcs7xeZjXsMDi2JryZ57DX3LQTqoKZ4UgBpGD0ZTvQ67%2B6sCRwvew%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5696394157%2Fb92b17f4df8b86dfeebd6c3cceb38884%2F1_12_better_texture_eef470b0.zip)
 
 #### Additional Information
 - **Post color:** Black
@@ -10096,7 +10113,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5696394157/2985b55cc9839102021a3f9ceae1da06/Eaglercraft_1_12_2_WASM_Offline_Download__1_.html?Expires=1783153141&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=CH%2Bt8kpPa3Fledj%2BPFg8yWgdtpbgKxl7zCTqs5hb4wZQp%2BY4GdhKa2ZyaOU61nmaxQ08GiiWf8U%2FhGcWuLrk%2FkSF6JbKkaEyPo0t2m1wLGN%2Fs%2BXZzV8eyROtK4LHGj2TK0GORJWlzfd2pqjHHoNuBIngns4ckdujXBKU8anl9JUGA8qRDteqIn4DtryKqnRhw4kTBGG2vRpPUnX9plzS7e4yR1GW87uJV4DB85MBl%2BX0jmvwESnT5nRBl8OQmtN7wQQA53CVQnrl%2FoWZlrKs%2Blc%2F52Ji%2BnDTvYo2EYNy4dlM3u5WwqrUN6jIqvlnw8%2BYdrXbOz4gVhxorzEQImX%2BxQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5696394157%2F2985b55cc9839102021a3f9ceae1da06%2FEaglercraft_1_12_2_WASM_Offline_Download__1_.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5696394157/2985b55cc9839102021a3f9ceae1da06/Eaglercraft_1_12_2_WASM_Offline_Download__1_.html?Expires=1783165459&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Otml8ju50K1ymEZyYuujfKeVo%2FU73l8%2Bh09OrLTgcZlGUT1Y0GtXALsJjlXoxsBr%2ByIm2VbrgYgH794qWC0MLDjbZgWFYQl5Ka%2BcIPRlxBaPymxMCQjN362yOF%2BAe4Enu6KLLOVfh0kO%2FmqeVHlmNSpHxrXst%2BmNKV0acR6%2FnX6yJfkeUzR53%2FksKUVnp1W5anKWmg4XbSICjUaLpveFgVoAturhN99MlawUAhrcpQkQdVFp%2BGQcEjkF5%2BsOfgpO%2BOhv9k4xFSfv07Wf8brPQZGH5GXTXXzVwDF0DvA7pCE3c0E00P%2FZuqpp06oI8lP0SH6slZGk5%2BB0MuobkveOlQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5696394157%2F2985b55cc9839102021a3f9ceae1da06%2FEaglercraft_1_12_2_WASM_Offline_Download__1_.html)
 
 #### Additional Information
 - **Post color:** Black
@@ -10435,7 +10452,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674259173/549a674d1f586a069d6ecda8e3d8b279/IMG_0057.png?Expires=1783153141&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E6eAwrhr6L%2BOS9FWKY1%2BfdG6ePkPeTzkoWw4nIjz83lijWqFH5JzPWs1JypgO57braMIaEe2WSKv%2Bu7ii3GTjHM56wc7Egz9KT1RFu9HIVnBH0sKfCXyactYPbH4jY%2B5dZS%2FwkC%2BWoWO0rnsyLvnfMY4qg2mV%2FgQcIZxG17NZKrbLdkmNnrJKskuInVWPpZkcijeaPTNZ8fAEtnuT4uQ3gXu%2BkfPg0BcfWvzHfBYcb0V1Chx7iLias6aXejlx5u31jtEYLGVaAGFZGmfayCIcOGjfYH64FKb9i78eL%2FJ7PYYB9NTzb5lTM%2F%2FIMqYx9i9UExtvTgeWO42d6tDxGyFag%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674259173%2F549a674d1f586a069d6ecda8e3d8b279%2FIMG_0057.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674259173/549a674d1f586a069d6ecda8e3d8b279/IMG_0057.png?Expires=1783165459&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wUrpK1ekjFeH%2FigvItdipkWpl%2FucOOhTQ4onBNrLCJLKFodLsLmp3Q2zItVg%2FSSw8mh4KlsWc1r8xjcUABpWsPWv%2Fl%2BYRLsI2KwauNLm%2F1Qv3W9FNzu6%2FCZHa%2FlRfFM%2B8sUVVToRUXltT2qOfcATYeE74E5RwQ4Gd%2B5TEXnu3EMIiq1l4moVLacGgebCTl6G8ySKJvy0NmN%2FywJG7oNvTIyerWo3xXRsVDWVHgKJVqSQXf%2FFLe%2BAJL6Dwm2D3iCsVj38CkbDB%2BcCts7PMa1BZJuRoT40BwUfh6z43%2BmnZnuUK5p4kK7QymCscwKQl07N%2FXKGyLFt2nQ%2Fnz0S36g67w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674259173%2F549a674d1f586a069d6ecda8e3d8b279%2FIMG_0057.png)
 
 #### Comments (6)
 - **天才の上をいく天才** (May 19, 2026 11:44am): 後ろにいったら天才くんアイコン紫が送ったやつがあるからそれをひらいてマイクラって調べたらでてくる
@@ -10459,7 +10476,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674259173/03468a0295ce28f17ea75c87af298660/IMG_0056.png?Expires=1783153141&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jm6Z6zHIG0PX3s8pt1wd2Va3EFU5riVgpRNjRARLbSZqkCx%2F3P1IYq0GezxxO9GpRpGNu0ri5x7Ot5ivbZeiR5Z3LaOZrKedZp8Zxk1nUEHzVeDgouTzY0qzQ2%2F7GOqDX2HRtC99qKkg8OrZVLOhoflJcAghYBVwzaNTU68wVXs8i0dyAFPZY2UU7uvssvec2gIduIq7I1Las4VNt2vnsIQVn8%2Bh%2B0RlZ5a0ECW9WMb%2FmhBT%2BEN4hbK%2Fw2jUbJNjwqJ3j0XZozGcf%2Bs18acFxj1lwVa8q%2BXd4si9zM7KKq15gvLc04cXuZQde7hS%2F6qB4G9BoA4sjdRtb42r880P7g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674259173%2F03468a0295ce28f17ea75c87af298660%2FIMG_0056.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5674259173/03468a0295ce28f17ea75c87af298660/IMG_0056.png?Expires=1783165459&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qIwMUem%2BbuQU3WgZwIXLlknFt5NG9xO3PE%2Fjqk1rwcLhr9Wq5zEDAgMF2tHSh6SEvW5uICQCDWaqZSbPlNnwCqsSawnThr693iZEt%2FpMjAwIoL%2FPb%2F8Iust3nOHbTEGHHpc8DaMKWzvU7%2FD3yvDA9Mu3DH60btt2Rn1NhsmDve2VGFS7WDf3brXKDOr4Dz4ns2JekG4blj4G4beytVsewXeb3ESlJ68IHs0SNFQX31GSbzwX0FlLnu40xDheDJn9AQJhOtY%2F%2F62zPCp6Q595ZD%2Fk0KMOCOgzYYVYIq%2B69dxKMxbKUm4o8%2FLT1bVhCEUUNIg9Jtj5xHh%2BaC13fJZ5wQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5674259173%2F03468a0295ce28f17ea75c87af298660%2FIMG_0056.png)
 
 #### Comments (6)
 - **天才の上をいく天才** (May 19, 2026 11:08am): 僕は魔人ブウ編パーティーです。サイヤ人の日魔人ベジータリバーシブルチェンジ
@@ -11946,7 +11963,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/c243c893243eed3005d27e39ed26fc2c/image.png?Expires=1783153142&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Q7JVZUSMyA4nVLqJqcdmZP4h8%2F%2BQO25nv6qGsHu9UNZDwdr0F51q3h3L2m3baLb7s77fcsTySGWUwXAcheWvghBLyjbKPBesbI%2BO%2BejwRnJYS%2BmExRNMCp3EhNsyeWj402tzBSjlBzRty7oYJpAAR8ZU5ybS9PyxXfUR4LMuIDJg3%2Biz5WDQpU%2BZ9D5mqRRhkpYVCSuL%2FHawUsdTOWCbhmoKJzQrrboKc0a2JsTHMQqr8vdLQHgnLf96tgbZ7awo7UVsC7nwEuHKDdcQfTcNKNW4AIyJP35SZ7E0mmXuQOwWYdRllcbisbp5XMfCwqZO1xvXdMB%2FdyCU9PxKoyWbSA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2Fc243c893243eed3005d27e39ed26fc2c%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4657821246/c243c893243eed3005d27e39ed26fc2c/image.png?Expires=1783165459&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WMtBHt0ig9llUJ4kGCR9j1jmuz4%2FKT7mZ1FeqJ3xscMSt3Nt%2BggxcCL95%2Bly3roxL%2BOBSiV2cWWLCf3YJoIvMv9qp%2FLWwQVZu6stysbaSP13jiczQTy8xEnGUxmTqIw6KuTFOEOZTApg1bGWghevN6JG8AsF4ro6L9m%2F4qocCedZk%2BZYTzM%2FLLaqZx%2FrwsB97fpXRVWLW9aFM%2FkmJFJIo7GyJlSqiEpE9q6QcTLlJ0BQ0O9CG7EL%2FpaAa5UEFyH5sAnUMbz7r6c9Od5RgI39NcMuYqi%2FdxQUpZlghTFwCtoTuxTYzO%2B9FUsllMND3CUGsMVXOq7itFlpZArJyRdNzg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4657821246%2Fc243c893243eed3005d27e39ed26fc2c%2Fimage.png)
 
 #### Comments (7)
 - **フェットチーネしか勝たん** (May 18, 2026 09:08am): もう確定でしあバレてるな
@@ -12008,7 +12025,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5635963877/aebe97d0040578f9bca38a481cc522fe/__________2026_05_12_215735.png?Expires=1783153142&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=asgTjNqhVNIFRZ6TTXf164D12hwyxyY6fw6O%2FYNmn43PwgPXOVkRSJTBuxbH8AXUr%2Blz4t7OAY%2Fw51jYigrwUOyzBQUhhSpI0ibs6bQfHtssl7k1ND6PiqS8xMEMZrsTZXfWlT8zdROW0UKOh7Au5L6t%2Ba%2BQGzrrefWKTLH%2FdY93FXSyqAGZL2zn1wgrOmb9jXRluFUk8DgY%2BKza1V%2BoZPh95nKDLq3WjJdVXz5ARd%2FxRoubxqwADs4zBmW1f9OotuVmh2RcGRyrBqMHyNvp3uY0T8rvFY%2FFvEZ7h26q98wQmW%2Fhr5eyF6%2F439wegIZBi68pp9gteRTA2bm9lAlppw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5635963877%2Faebe97d0040578f9bca38a481cc522fe%2F__________2026_05_12_215735.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5635963877/aebe97d0040578f9bca38a481cc522fe/__________2026_05_12_215735.png?Expires=1783165459&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=yfdDBPMDTsUpPNiciex1aMqI9Wem4p%2F8bley%2BQL3609N21siSjd4DVuXiOYvH65kVL%2FE%2BCFFT5%2FI2YA0AOM0mAw2NeF%2BTCpXkP7O8C%2BiylfFQZ%2F8V%2FwZHc3eNxolOshXo%2FkkjEawDOZd1onZxLbh4VbNS%2BjWZTmIAT7gdmNDdmJ2NyyJyU5IKhuxJT8dub7vM99wqOdE0ecJlVNoU0gWbkpj34AxBKj5kHiSPKL%2FRdx8tK8Ce%2Bmyc76KUtdPtCJFrwqMNSuzmV%2Bx9HAWWbUawhU9fExPtdQBvDhPfYb1VrYN8eU19W5PvwalpMMABqhQGzAPYQuW%2B5QhzC7EDaj84A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5635963877%2Faebe97d0040578f9bca38a481cc522fe%2F__________2026_05_12_215735.png)
 
 #### Comments (7)
 - **時透無一郎** (May 12, 2026 10:20pm): まじあｋ
@@ -14415,7 +14432,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5813879522/d72f3ac92ba86c8506970144be3d2558/IMG_0095.jpeg?Expires=1783153143&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lLJTs%2BJ5Ku3ZjXdpt4OcrfYv%2Fkqj3OEvkpdUgbH8waP5gDWhYhjcauzcRUfLRf1SQPrOmww7XXRcd2I3B588eWut7zAyWUsfZwqAyP7WsXvSq3jH6Utt23SgMNLec2WZFhvrx3uymbDM8io0CnkdBzuGzgpPKJ1Oih3sb7HiTmS4ScsC0b9hIWKLBYsSf5zYXaGBjkLH28amjJLbvSjgbWhIchqrVVfqPqsrBgZGSRxqHBnoaYLTKWa1gk%2FIbJUiEZ9t3uoR5dHj5n1heqAzXpVhKTaO9B39jjOSNiunS3Me1YJgrmiMwNslXw%2FdJhk9NCMD4KjzMMQezL%2BeKjQx7w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5813879522%2Fd72f3ac92ba86c8506970144be3d2558%2FIMG_0095.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5813879522/d72f3ac92ba86c8506970144be3d2558/IMG_0095.jpeg?Expires=1783165460&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QTixHLlPXGl%2BiV2WHYgi%2BCiN%2BDCRXsPEAlUG8ioNffhDX5roo6woNWF1KAEJkb7C30kxCc5ECVRsfNSGjSrwpp%2Fkmf2WV8ohnnbbm2bgSW3CcgMGH1XHwZgYqmHhb8yTEKzqY2rM2v0fxTyef6U4KfnzMFEDySZhnJz7Jpt%2BL6hjJPLBwsTEccqe%2FLBAm6alno2ApdEPJ1DqTgW8VAekrfTgYsEM4jHq3v5OIpOzMrBVwMO4E4nygc1%2Fl0mdJLL6hciURYhWWsvfNpJf1RxXLDu7Q4gB2Y9TmyclvllPmaCXpv2CjK50tqV0sDTwQs3T68d7hdMOBIgIrQK6LVn8BA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5813879522%2Fd72f3ac92ba86c8506970144be3d2558%2FIMG_0095.jpeg)
 
 #### Comments (2)
 - **タソガレ** (Jun 16, 2026 03:00am): すげぇぇえ！
@@ -14608,7 +14625,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5793601504/18371ec6079cad322ed22822a6477549/IMG_0155.png?Expires=1783153143&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4wIrsgLl0dgcVtGkeYxcVEYWhC09RRMZIWKgJ%2Bas%2BuNCWgpU0OIXaxR%2F8NZ1B%2BBe2zKz034a3Kqlxm48gqAp%2F%2FBsLDNScxhzLnpMJUWKLqJxGVhX4vmqu6GWVln3fLkvWlBWCYvxbQOdcVtPS0r6JTkxMBvF16lEfwQAvT1HyZT7DtQqh3aNwTM8QujTYssxTZPPKVa9RUhTum%2FlVfCB1hJIXdDa4DQTj%2Bc7Mc%2Fk6REtbqcB3cv67seGn4waFEqLGX2J6ccUq32pCwfuNa8isoQAmCAXGcp4hKHqLtuCVbsUFbA%2FXyAs%2B%2B3u4vXl%2FbktdToi06xhuCRaiQaMHzotiQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5793601504%2F18371ec6079cad322ed22822a6477549%2FIMG_0155.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5793601504/18371ec6079cad322ed22822a6477549/IMG_0155.png?Expires=1783165460&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=x33QC2IZ5733q15Am0IpCw1VfcJxSQIkKrfKGHtlB39DrqrALVvkI6Ktc5myzlybrt1A6hxUmwfBwKE9af%2BH%2FWTMlO3oCJIbZWScOGDzPC4%2FnPkiVO%2FOVrS%2Be9vAF3gc82NAnYmIAXqegx0tX%2FWdTcCbW7xalP86pdNIPbhTRdDl65lHAyPeIUJd1WVVMIwVsriKRMAyY429wiAOaMWFkZtunwIEX4ss1bZoFNKyFqHn3L2XpNn8KWHnRA4YTk8kBj7lzxliXD5DLZs4iHqkgrAed8uicXoFdOVLliBgTU6NwbLpy6FJslP9gV48l7kT2BgI%2B426rT8CwXRgI%2FP%2FSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5793601504%2F18371ec6079cad322ed22822a6477549%2FIMG_0155.png)
 
 #### Comments (7)
 - **ふじ** (Jun 11, 2026 05:05am): 俺の卦作
@@ -16827,7 +16844,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5680532527/b96ca5aeea14e0ae0ac1ac297d807a66/drawing.png?Expires=1783153144&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=u1QNzrlGSGujS5wP3IDAkEPhad0f3ybeSh8n5m6%2FV4hRmxuEItcAolTCo0VZrjXJLdlXTAWVQzZJyzpSoAj4GB%2Fl40LtZSGEI6KW9HTFOlx1mv14bYtUXv67bELswRvaLOf4YkJcOeILK1YA3UcsKwNDVqA09zRsSlurllyAMUt10nynOlcE1%2B%2BXzdwY%2BM7SMuYBNmuVyEvtDnHr3dSATskf05e8zhdYy2uUW3jxtgKlFFK3u%2F5HB%2F9hh%2F7orK04hLsegJJiprdp60fU39MmyeV%2B5D6WHgDeHvV5y3YxtJFXAgXCAS2aYdsDZ0wc6AQjjHFTGiZXeOAlQKsvU%2FM%2F9w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5680532527%2Fb96ca5aeea14e0ae0ac1ac297d807a66%2Fdrawing.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5680532527/b96ca5aeea14e0ae0ac1ac297d807a66/drawing.png?Expires=1783165461&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Om%2FoTrFH0WbuaG17Km47%2FGBQBLI%2FFCtDohbziHerFeHH6CdgD0emh%2BsqDPiQb0ZRrSkK64AnTPEl3V6nCMVhtqJrZCjRjdxHltqr53o05ldeDPIREIpjTJAY9IZimoLGaSBpaM%2FU3uK6RJvgxSunDqXNGHeahtabiV4H5DLDmexGBRFprAOFgSSMtxw4AV6wxE1VlGt8CnYbNMOqhFiSeBvEpYjOD2wewqUItH87MXpKSlG4LP5LfTdvz5%2FJlZLgJdLbd2eW90hpmtAPstS%2Bwca1pQ3ousNNGvWaiaOfcpdfA5GkUwSa%2BKYEQ%2BimxV7Ngt%2BvZK0%2F7bsb7zc%2FBt4CYQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5680532527%2Fb96ca5aeea14e0ae0ac1ac297d807a66%2Fdrawing.png)
 
 #### Comments (5)
 - **ふじ** (May 20, 2026 11:34am): いない
@@ -17962,9 +17979,9 @@
 **Author:** 時透無一郎 (r0300353)
 
 **どっち派？:**
-- **きのこの山:** 313 votes
+- **きのこの山:** 314 votes
 - **たけのこの里:** 365 votes
-- **ドウデモイイ:** 93 votes
+- **ドウデモイイ:** 94 votes
 
 **星評価:** 4.0 / 5 ⭐ (16)
 
@@ -18056,7 +18073,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Mar 29, 2026 01:12am
-- **Updated At (UTC):** Jun 27, 2026 07:39am
+- **Updated At (UTC):** Jun 27, 2026 11:37am
 
 ---
 
