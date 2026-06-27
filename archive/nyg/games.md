@@ -1,4 +1,4 @@
-最終取得: 2026/06/26 21:27:48
+最終取得: 2026/06/27 23:03:18
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
 - **Posts:** 13
 - **Created At (UTC):** Aug 27, 2024 11:14am
-- **Updated At (UTC):** Jun 26, 2026 12:19pm
+- **Updated At (UTC):** Jun 27, 2026 02:02pm
 
 ## 概要
 
@@ -41,7 +41,7 @@
 
 <p>荒らさなければなんでもいいです。</p><p>管理者が荒らしと認定した場合、該当メッセージを削除し、該当ユーザーの権限を閲覧のみにします。</p><p>なので、アカウントの作成をお願いします。</p><p>また、ゲームセクションではゲームのことを何でも喋ってもいいです。</p>
 
-#### Comments (10)
+#### Comments (11)
 - **匿名** (Sep 26, 2025 11:29am): おっけー
 - **匿名** (Sep 28, 2025 01:12am): おっけー
 - **ぐるぐるまっきー** (Oct 07, 2025 04:00pm): おけ
@@ -52,9 +52,10 @@
 - **マドアカリ** (May 02, 2026 11:35am): ゆきYouTubeありますか
 - **わホー** (May 29, 2026 12:41am): オッケー
 - **リオラch** (Jun 05, 2026 12:18am): ういー
+- **hacker-6640225.et56** (Jun 27, 2026 02:02pm): [Attachment](https://padlet.com/Nanachiki/padlet-4b9092979b4e6dlm/wish/PR3NWxoxdPO9Zb0O) hello
 
 #### Reactions
-- **Emojis:** ❤️ (5)
+- **Emojis:** ❤️ (6)
 
 #### Additional Information
 - **Post color:** Yellow
