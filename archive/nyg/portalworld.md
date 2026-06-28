@@ -1,4 +1,4 @@
-最終取得: 2026/06/28 10:54:41
+最終取得: 2026/06/28 14:17:59
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 163
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jun 28, 2026 01:00am
+- **Updated At (UTC):** Jun 28, 2026 05:13am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -49,7 +49,7 @@
 [Attachment 1](https://padlet.com/padlets/a8v7cjbbfni702kg)
 
 #### Reactions
-- **Emojis:** ❤️ (5)
+- **Emojis:** ❤️ (6)
 
 #### Additional Information
 - **Post color:** White
@@ -65,11 +65,12 @@
 
 [Attachment 1](https://padlet.com/Toka_Kun_/submission-request/k2qlv3RKMKOnX5Rx?section=317262857)
 
-#### Comments (4)
+#### Comments (5)
 - **カゲ○** (May 24, 2026 04:43am): おー
 - **ホシヨル** (Jun 25, 2026 08:08am): https://padlet.com/tunmeimaosabu/padlet-eu2fkbk010mr8xe4これ荒らして
 - **Natsu** (Jun 26, 2026 09:28am): 🫵ここに貼るな👎
 - **たまごーーーー** (Jun 26, 2026 09:51pm): https://padlet.com/73956824278/padlet-f1xmrsdok5l0xgjj
+- **ニキータ** (Jun 28, 2026 05:13am): 俺の部屋なんか承認待ちのままなんだけどなんで〜？
 
 #### Reactions
 - **Emojis:** ❤️ (6)
@@ -3715,7 +3716,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1783216481&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Y8rsS%2FvSTS24Awe3C%2FGeyeJ2CS6aqr3bxvdgfC526NSLyIfWjW%2Bw0aFgyRuFeR8gug3yb19SxrnsrclbEOmkNG6FXAcun556csEaVLvQDgn3%2B0D8sBHKGefSVxG2pxxVo68uDdQ%2BJCapR1omMgbVI1IOsBbpxeywqc7uxqOZpc%2BomXMlm5Zi23%2BvrgiS4XfbVbY27VnynsYCYHjbD5PZBZLaL4fzQpXyaIhKXUEKmOxHte0i0r8YtHxx1WFbmegv%2FWWie70y2fbRG8kBpruXjDH%2BfK5pF5eyvWddW9AYq54N4BcgAMAM7FEMh14cw2tDaupGAbFabduY4NwkJfjUVg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1783228686&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ArVi5TihPvCatwSFnKue0aHPsYoeWbZZmo87cU0LlZF5bhBVekcBrkSw2qh9Oue1FmZQB0T%2FLb8KHvIOgsUKoYPkjdmS4%2FLlI%2BshWU%2FCC9YbiQ9mV7IDVqapEpn942dt7uX8YBdQyDRo9IyCssDsSdUHX3MhyfKJ51F%2BVWmsx8kQlB2ndWMRZ9uaZ2M6PXcIrycaYoLUJO0OWUTlDPgL89wmi%2BDTQbs1v9gvqHgR%2B1LXlhmB0%2BHL6RncQvFERty9CQWl6AFOjxwLwYSjgE1ZrYPEdREOpRAXzE%2BimPm0H3ROSZ%2F4j%2BkCxWKpV1W5T%2BVFMtYxKkhAWPhJmKCPdZVgjg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
