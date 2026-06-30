@@ -66,10 +66,9 @@ def process_padlet(url, path, is_info):
             valid_fetch = True
             break
             
-        # 1回目でエラーが発生した場合はリトライ
+        # 1回目でエラーが発生した場合はすぐにリトライ
         if attempt == 1:
-            print(f"⚠️ {path} の1回目の取得で問題が発生しました（原因: {err_type}）。3秒後に一度だけやり直します...")
-            time.sleep(3)
+            print(f"⚠️ {path} の1回目の取得で問題が発生しました（原因: {err_type}）。すぐに一度だけやり直します...")
         else:
             # 2回目もダメだった場合は、最終的なエラー理由を確定して出力
             if error_msg is not None:
@@ -157,7 +156,7 @@ def process_padlet(url, path, is_info):
 def save_padlet(url, path):
     process_padlet(url, path, is_info=True)
 
-# info.jsonに入えない用
+# info.jsonに入れない用
 def save_padlet2(url, path):
     process_padlet(url, path, is_info=False)
 
