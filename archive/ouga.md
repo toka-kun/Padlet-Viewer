@@ -1,4 +1,4 @@
-最終取得: 2026/06/30 10:51:35
+最終取得: 2026/06/30 14:53:36
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 25
+- **Posts:** 28
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Jun 30, 2026 01:46am
+- **Updated At (UTC):** Jun 30, 2026 05:52am
 
 ## 管理者　連絡
 
@@ -67,6 +67,12 @@
 **Author:** スリい
 
 **星評価:** 0 / 5 ⭐
+
+#### Comments (4)
+- **れいり** (Jun 30, 2026 02:09am): スリーいついてるでW
+- **れいり** (Jun 30, 2026 02:09am): w
+- **れいり** (Jun 30, 2026 02:24am): （い）がついてるでw w笑笑笑笑
+- **スリ** (Jun 30, 2026 04:40am): あ　ほんまやwww
 
 #### Additional Information
 - **Created At (UTC):** Jun 30, 2026 01:38am
@@ -146,14 +152,19 @@
 
 ## 宣伝
 
-### 1. 宣伝ね
-**Author:** おうが (18jt026)
+### 1. おうがの友達です
+**Author:** 1001さん (Haraitai)
 
-**星評価:** 5.0 / 5 ⭐ (2)
+**星評価:** 5.0 / 5 ⭐ (1)
+
+[Attachment 1](https://padlet.com/Haraitai/padlet-jxmgpewlqr3h518c)
+
+#### Comments (1)
+- **おうが** (Jun 30, 2026 05:50am): 本当に友達です
 
 #### Additional Information
-- **Created At (UTC):** Jun 29, 2026 12:43am
-- **Updated At (UTC):** Jun 29, 2026 12:43am
+- **Created At (UTC):** Jun 30, 2026 05:49am
+- **Updated At (UTC):** Jun 30, 2026 05:50am
 
 ---
 
@@ -166,13 +177,28 @@
 
 [Attachment 1](https://padlet.com/00221133/padlet-9otqidpsq2a33sru)
 
+#### Comments (2)
+- **れいり** (Jun 30, 2026 02:21am): 荒らされてるよ？
+- **れいり** (Jun 30, 2026 02:21am): 入ってみたら
+
 #### Additional Information
 - **Created At (UTC):** Jun 29, 2026 01:57pm
 - **Updated At (UTC):** Jun 29, 2026 01:57pm
 
 ---
 
-### 3. Post 3
+### 3. 宣伝ね
+**Author:** おうが (18jt026)
+
+**星評価:** 3.7 / 5 ⭐ (3)
+
+#### Additional Information
+- **Created At (UTC):** Jun 29, 2026 12:43am
+- **Updated At (UTC):** Jun 30, 2026 05:49am
+
+---
+
+### 4. Post 4
 **Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
 
 <p>ポッキーとトッポどっち派？</p>
@@ -189,7 +215,7 @@
 
 ---
 
-### 4. おうがさんがつくたブレインロットドラゴンゲットしました。
+### 5. おうがさんがつくたブレインロットドラゴンゲットしました。
 **Author:** c00lkidd (r0400295_1)
 
 **星評価:** 0 / 5 ⭐
@@ -205,7 +231,7 @@
 
 ---
 
-### 5. クールキットです
+### 6. クールキットです
 **Author:** c00lkidd (r0400295_1)
 
 <p>入ってね〜</p>
@@ -227,12 +253,13 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
+#### Comments (6)
 - **おうが** (Jun 30, 2026 12:02am): 誰かロブロのブレロのキャラ買ってクレー
 - **おうが** (Jun 30, 2026 12:02am): 頼む！！
 - **れいり** (Jun 30, 2026 01:00am): 買えないわごめん
 - **タニモリ** (Jun 30, 2026 01:39am): 暇暇
 - **スリい** (Jun 30, 2026 01:44am): 暇
+- **れいり** (Jun 30, 2026 02:23am): 知るかスリ
 
 #### Additional Information
 - **Created At (UTC):** Jun 29, 2026 11:49pm
@@ -244,6 +271,11 @@
 **Author:** スリい
 
 **星評価:** 0 / 5 ⭐
+
+#### Comments (3)
+- **れいり** (Jun 30, 2026 02:09am): いませんよ？
+- **れいり** (Jun 30, 2026 02:09am): きてないもん！！！！
+- **スリ** (Jun 30, 2026 04:41am): いやぁしりとりおもろかったからやりたいなぁ思って聞いたけどきてへんかぁ
 
 #### Additional Information
 - **Created At (UTC):** Jun 30, 2026 01:46am
@@ -301,6 +333,22 @@
 ---
 
 ### 2. Post 2
+**Author:** BIRUSU
+
+**星評価:** 0 / 5 ⭐
+
+[Attachment 1](https://www.google.com/search?q=%E3%83%9D%E3%83%83%E3%83%97%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0&rlz=1CANKBA_enJP1211&oq=&gs_lcrp=EgZjaHJvbWUqCQgBEEUYOxjCAzIJCAAQRRg7GMID)
+
+#### Comments (1)
+- **BIRUSU** (Jun 30, 2026 03:03am): やってみた
+
+#### Additional Information
+- **Created At (UTC):** Jun 30, 2026 03:03am
+- **Updated At (UTC):** Jun 30, 2026 03:03am
+
+---
+
+### 3. Post 3
 **Author:** ますと
 
 <p><a rel="noopener noreferrer nofollow" href="https://yandex.kz/games/app/breinrot-arena-onlain-501106">Брейнрот Арена Онлайн - играть онлайн бесплатно на сервисе Яндекс&nbsp;Игры</a>ロシア語だけど我慢して</p><p><a rel="noopener noreferrer nofollow" href="https://ticket.xrcloud.jp/monocg/index?ec=event_305ba11f-ea9f-4394-819a-db14296a757f">おんらいん</a>←このとうり（（語彙力</p>
@@ -319,7 +367,7 @@
 
 ---
 
-### 3. ゲーム欲しかったら言って
+### 4. ゲーム欲しかったら言って
 **Author:** 天才くん
 
 <p>まじげ神　リスクもない</p>
@@ -345,7 +393,7 @@
 
 ---
 
-### 4. サッカー見れるサイトです
+### 5. サッカー見れるサイトです
 **Author:** おうが応援する人
 
 **星評価:** 0 / 5 ⭐
@@ -361,7 +409,7 @@
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -398,7 +446,7 @@
 
 **星評価:** 2.0 / 5 ⭐ (2)
 
-#### Comments (33)
+#### Comments (34)
 - **タニモリ** (Jun 29, 2026 12:45am): https://multimedia.easeus.com/jp/online-video-downloader/
 - **タニモリ** (Jun 29, 2026 12:45am): チョコのやり方教えて〜
 - **おうが** (Jun 29, 2026 12:47am): チョコ欲しいの？
@@ -432,6 +480,7 @@
 - **れいり** (Jun 29, 2026 11:47pm): 俺もぉ
 - **おうが** (Jun 29, 2026 11:49pm): ダウンロードいけた！ありがとねー
 - **タニモリ** (Jun 30, 2026 12:57am): 全部できないぴえん
+- **ちょこ** (Jun 30, 2026 05:52am): 俺も無理や🥲
 
 #### Additional Information
 - **Created At (UTC):** Jun 29, 2026 12:42am
@@ -441,7 +490,25 @@
 
 ## 映画　アニメ見れるサイト
 
-### 1. リクエストあったので
+### 1. これ違法アップロードだから少し危険だけど、開ければ鬼滅の刃無限城編見れるよ
+**Author:** フォートナイト廃課金者
+
+<p>これ開ける人言って</p><p>他のアニメとか教えるから</p>
+
+**星評価:** 0 / 5 ⭐
+
+[Attachment 1](https://archive.org/details/clideo-editor-ba6bf9a8ed93480d96b6dd5361ed31ce_E1LBRbvq)
+
+#### Comments (1)
+- **れいり** (Jun 30, 2026 02:10am): つかえない😱
+
+#### Additional Information
+- **Created At (UTC):** Jun 30, 2026 01:56am
+- **Updated At (UTC):** Jun 30, 2026 01:56am
+
+---
+
+### 2. リクエストあったので
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
