@@ -1,13 +1,13 @@
-最終取得: 2026/06/29 14:12:45
+最終取得: 2026/06/30 15:33:47
 
 # 荒らし対策室
 
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-i0fd897smvjo0tvj
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 20
+- **Posts:** 21
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Jun 29, 2026 05:09am
+- **Updated At (UTC):** Jun 30, 2026 06:30am
 
 ## リンク集
 
@@ -187,7 +187,17 @@
 
 ## 保管倉庫②
 
-### 1. *
+### 1. a
+**Author:** おーかみ (20s139766)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jun 29, 2026 06:09am
+- **Updated At (UTC):** Jun 30, 2026 06:31am
+
+---
+
+### 2. *
 **Author:** 削除済みユーザー
 
 #### Additional Information
@@ -197,7 +207,7 @@
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** ㅤ@krtk🔰 (krtkdeers)
 
 ​​​​​​​​​​
@@ -209,7 +219,7 @@
 
 ---
 
-### 3. あいす
+### 4. あいす
 **Author:** おーかみ (20s139766)
 
 #### Additional Information
@@ -219,7 +229,7 @@
 
 ---
 
-### 4. さぶつき
+### 5. さぶつき
 **Author:** さぶつき (proword0613)
 
 #### Additional Information
@@ -229,7 +239,7 @@
 
 ---
 
-### 5. りおと
+### 6. りおと
 **Author:** 削除済みユーザー
 
 #### Reactions
@@ -242,7 +252,7 @@
 
 ---
 
-### 6. げろろん
+### 7. げろろん
 **Author:** 削除済みユーザー
 
 #### Reactions
@@ -255,7 +265,7 @@
 
 ---
 
-### 7. あ
+### 8. あ
 **Author:** ぜんた　りおとの一番弟子！ (zenta_nanda)
 
 #### Reactions
@@ -268,7 +278,7 @@
 
 ---
 
-### 8. なんで垢バンされてるのおおおおお
+### 9. なんで垢バンされてるのおおおおお
 **Author:** 軽くなれw (KARUKUNAREw)
 
 <p>これは移動だよつまり別のアカウントがあるってこと。</p><p>いずれ復活します</p>
@@ -283,7 +293,7 @@
 
 ---
 
-### 9. レイ
+### 10. レイ
 **Author:** レイ　#最近ていふ (rei_ryu)
 
 #### Reactions
@@ -296,7 +306,7 @@
 
 ---
 
-### 10. キット
+### 11. キット
 **Author:** 削除済みユーザー
 
 #### Reactions
