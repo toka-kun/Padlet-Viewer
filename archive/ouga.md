@@ -1,4 +1,4 @@
-最終取得: 2026/06/30 14:53:36
+最終取得: 2026/06/30 15:16:35
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 28
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Jun 30, 2026 05:52am
+- **Updated At (UTC):** Jun 30, 2026 06:07am
 
 ## 管理者　連絡
 
@@ -159,8 +159,11 @@
 
 [Attachment 1](https://padlet.com/Haraitai/padlet-jxmgpewlqr3h518c)
 
-#### Comments (1)
+#### Comments (4)
 - **おうが** (Jun 30, 2026 05:50am): 本当に友達です
+- **れいり** (Jun 30, 2026 05:56am): がち！？
+- **れいり** (Jun 30, 2026 05:56am): 入りました！！！？？？
+- **おうが** (Jun 30, 2026 06:07am): 頼んだ！
 
 #### Additional Information
 - **Created At (UTC):** Jun 30, 2026 05:49am
