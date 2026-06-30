@@ -1,4 +1,4 @@
-最終取得: 2026/06/30 10:31:10
+最終取得: 2026/06/30 10:51:35
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 23
+- **Posts:** 25
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Jun 30, 2026 01:00am
+- **Updated At (UTC):** Jun 30, 2026 01:46am
 
 ## 管理者　連絡
 
@@ -63,7 +63,18 @@
 
 ---
 
-### 2. たりもりです。
+### 2. れいりの友達のスリです　宜しくお願いします
+**Author:** スリい
+
+**星評価:** 0 / 5 ⭐
+
+#### Additional Information
+- **Created At (UTC):** Jun 30, 2026 01:38am
+- **Updated At (UTC):** Jun 30, 2026 01:38am
+
+---
+
+### 3. たりもりです。
 **Author:** タニモリ
 
 <p>新参者ですかお願いします。</p>
@@ -79,7 +90,7 @@
 
 ---
 
-### 3. 改めまして
+### 4. 改めまして
 **Author:** 天才くん
 
 <p>こんにちわ</p>
@@ -96,7 +107,7 @@
 
 ---
 
-### 4. れいりです
+### 5. れいりです
 **Author:** 匿名
 
 <p>みんなと仲良くしたいです　よろしく😀😄</p>
@@ -216,14 +227,27 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
+#### Comments (5)
 - **おうが** (Jun 30, 2026 12:02am): 誰かロブロのブレロのキャラ買ってクレー
 - **おうが** (Jun 30, 2026 12:02am): 頼む！！
 - **れいり** (Jun 30, 2026 01:00am): 買えないわごめん
+- **タニモリ** (Jun 30, 2026 01:39am): 暇暇
+- **スリい** (Jun 30, 2026 01:44am): 暇
 
 #### Additional Information
 - **Created At (UTC):** Jun 29, 2026 11:49pm
 - **Updated At (UTC):** Jun 29, 2026 11:49pm
+
+---
+
+### 2. おうがさんヴィクトリアってゆう人いませんか❓
+**Author:** スリい
+
+**星評価:** 0 / 5 ⭐
+
+#### Additional Information
+- **Created At (UTC):** Jun 30, 2026 01:46am
+- **Updated At (UTC):** Jun 30, 2026 01:46am
 
 ---
 
@@ -250,6 +274,9 @@
 **星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィルターなんて怖くない)
+
+#### Comments (1)
+- **スリい** (Jun 30, 2026 01:39am): うい
 
 #### Additional Information
 - **Created At (UTC):** Jun 30, 2026 12:41am
