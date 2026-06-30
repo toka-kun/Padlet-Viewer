@@ -31,10 +31,11 @@ def convert_time(time_str):
 def fetch_markdown(url):
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     try:
-        with urllib.request.urlopen(req) as res:
-            return res.read().decode('utf-8')
-    except Exception:
-        return None
+        # timeout=None を指定することで、タイムアウトを完全に無効化（無期限待機）します
+        with urllib.request.urlopen(req, timeout=None) as res:
+            return res.read().decode('utf-8'), None
+    except Exception as e:
+        return None, str(e)
 
 def process_padlet(url, path, is_info):
     global info_data, sleep_time, now_jst
@@ -43,12 +44,15 @@ def process_padlet(url, path, is_info):
     key = path.replace("archive/", "").replace(".md", "")
     os.makedirs(os.path.dirname(path), exist_ok=True)
     
-    content = fetch_markdown(url)
+    content, error_msg = fetch_markdown(url)
     valid_fetch = True
     
-    # 1. 取得エラーや空白のチェック
-    if not content or not content.strip():
-        print(f"⚠️ エラー: {path} はデータが取得できないか空白でした。更新をスキップします。")
+    # 1. 取得エラーや中身の分類チェック
+    if error_msg is not None:
+        print(f"❌ エラー: {path} の通信・取得に失敗しました ({error_msg})。更新をスキップします。")
+        valid_fetch = False
+    elif not content.strip():
+        print(f"⚠️ エラー: {path} はデータが空白でした。更新をスキップします。")
         valid_fetch = False
     elif content.startswith("<!DOCTYPE html>"):
         print(f"⚠️ スキップ: {path} はエラーページ(HTML)でした。更新しません。")
