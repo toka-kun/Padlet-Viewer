@@ -1,4 +1,4 @@
-最終取得: 2026/07/01 00:15:34
+最終取得: 2026/07/01 07:42:09
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 30
+- **Posts:** 32
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Jun 30, 2026 01:37pm
+- **Updated At (UTC):** Jun 30, 2026 09:53pm
 
 ## 管理者　連絡
 
@@ -18,7 +18,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (26)
+#### Comments (27)
 - **タニモリ** (Jun 29, 2026 12:43am): あの荒らしのせいですか⁉︎
 - **おうが** (Jun 29, 2026 12:43am): いや重くなってきてたのもあるよ！
 - **おうが** (Jun 29, 2026 12:43am): 嵐もだけどね
@@ -45,6 +45,7 @@
 - **ユメビト** (Jun 30, 2026 06:54am): 元に戻せ
 - **ユメビト** (Jun 30, 2026 06:54am): いきるかちない
 - **カラフルピーチどぬく推し** (Jun 30, 2026 10:12am): ユメビトバンやろ
+- **あんこ** (Jun 30, 2026 09:33pm): ユメビト、一旦落ち着こうね、あとムカついてるなら、なんか楽しくなってきた、じゃないやろw
 
 #### Additional Information
 - **Created At (UTC):** Jun 29, 2026 12:20am
@@ -72,7 +73,22 @@
 
 ---
 
-### 2. 友達がいない！ヘルプ！
+### 2. あんこです、ログインしてないときは変な人って名前でしたよろしく
+**Author:** あんこ (tdz410pyh)
+
+<p>よろしくおねがいしまーす</p>
+
+**星評価:** 0 / 5 ⭐
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783464188&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tgKGuay7OoBmbu588JzL8oU93q6nGgrAezHTFQYX%2F9AbauENu7D9awZ7O0crM15WSawLFmAB7u2zL3n2JI6CZsoEG6DJ9CdYaceWjmc9GchO9%2B%2FwMk6ImWn73TXuMWS80F4nO8or3Bjexe4ViEax6GuwXzPp0iJn5Ol1MCOapZtjf59%2Bw9eKV5N8uvVvX4ozfuI%2FYmlSODGUkrheXMUa1vwMXwJBhAPLF6w8AXOrnWeoYWToMsKbh0XEOMb7orp%2FEmg4S9vmL9NDUJihY0SeWlnt054GsRrKbrqHiSW2qazDM5nfkKdjpZPcVP%2F%2FSei5221Mc1Jc1GyrAjh3iWpZAg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
+
+#### Additional Information
+- **Created At (UTC):** Jun 30, 2026 09:47pm
+- **Updated At (UTC):** Jun 30, 2026 09:47pm
+
+---
+
+### 3. 友達がいない！ヘルプ！
 **Author:** 吉見
 
 **星評価:** 0 / 5 ⭐
@@ -83,7 +99,7 @@
 
 ---
 
-### 3. 💩
+### 4. 💩
 **Author:** ユメミコ
 
 <p>うんこぶりぶり</p>
@@ -98,7 +114,7 @@
 
 ---
 
-### 4. れいりの友達のスリです　宜しくお願いします
+### 5. れいりの友達のスリです　宜しくお願いします
 **Author:** スリい
 
 **星評価:** 0 / 5 ⭐
@@ -115,7 +131,7 @@
 
 ---
 
-### 5. たりもりです。
+### 6. たりもりです。
 **Author:** タニモリ
 
 <p>新参者ですかお願いします。</p>
@@ -131,7 +147,7 @@
 
 ---
 
-### 6. 改めまして
+### 7. 改めまして
 **Author:** 天才くん
 
 <p>こんにちわ</p>
@@ -148,7 +164,7 @@
 
 ---
 
-### 7. れいりです
+### 8. れいりです
 **Author:** 匿名
 
 <p>みんなと仲良くしたいです　よろしく😀😄</p>
@@ -243,9 +259,10 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
+#### Comments (3)
 - **匿名** (Jun 29, 2026 04:10am): ポッキー
 - **おうが** (Jun 29, 2026 11:46pm): 僕もポッキーかな！
+- **あんこ** (Jun 30, 2026 09:48pm): トッポ
 
 #### Additional Information
 - **Created At (UTC):** Jun 29, 2026 03:27am
@@ -307,7 +324,20 @@
 
 ---
 
-### 2. おうがさんヴィクトリアってゆう人いませんか❓
+### 2. おうがさんお願いしますユメビトbanしてください
+**Author:** あんこ (tdz410pyh)
+
+<p>悪口くんです、(男かしらんけど)</p>
+
+**星評価:** 0 / 5 ⭐
+
+#### Additional Information
+- **Created At (UTC):** Jun 30, 2026 09:53pm
+- **Updated At (UTC):** Jun 30, 2026 09:53pm
+
+---
+
+### 3. おうがさんヴィクトリアってゆう人いませんか❓
 **Author:** スリい
 
 **星評価:** 0 / 5 ⭐
@@ -477,8 +507,9 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
+#### Comments (2)
 - **ひゃほー** (Jun 30, 2026 01:37pm): なんか全部消えてるんやけど
+- **あんこ** (Jun 30, 2026 09:52pm): 一回重いので全部消したらしいです
 
 #### Additional Information
 - **Created At (UTC):** Jun 29, 2026 12:41am
