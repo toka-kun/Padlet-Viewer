@@ -1,4 +1,4 @@
-最終取得: 2026/06/30 21:26:04
+最終取得: 2026/06/30 21:29:30
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 30
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Jun 30, 2026 12:24pm
+- **Updated At (UTC):** Jun 30, 2026 12:28pm
 
 ## 管理者　連絡
 
@@ -543,8 +543,9 @@
 
 [Attachment 1](https://archive.org/details/clideo-editor-ba6bf9a8ed93480d96b6dd5361ed31ce_E1LBRbvq)
 
-#### Comments (1)
+#### Comments (2)
 - **れいり** (Jun 30, 2026 02:10am): つかえない😱
+- **天才くん** (Jun 30, 2026 12:28pm): 同じく
 
 #### Additional Information
 - **Created At (UTC):** Jun 30, 2026 01:56am
