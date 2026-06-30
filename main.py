@@ -31,7 +31,7 @@ def convert_time(time_str):
 def fetch_markdown(url):
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     try:
-        # timeout=None を指定することで、タイムアウトを完全に無効化（無期限待機）します
+        # timeout=None でタイムアウトを無効化（無期限待機）
         with urllib.request.urlopen(req, timeout=None) as res:
             return res.read().decode('utf-8'), None
     except Exception as e:
@@ -44,20 +44,41 @@ def process_padlet(url, path, is_info):
     key = path.replace("archive/", "").replace(".md", "")
     os.makedirs(os.path.dirname(path), exist_ok=True)
     
-    content, error_msg = fetch_markdown(url)
-    valid_fetch = True
+    valid_fetch = False
+    content = ""
     
-    # 1. 取得エラーや中身の分類チェック
-    if error_msg is not None:
-        print(f"❌ エラー: {path} の通信・取得に失敗しました ({error_msg})。更新をスキップします。")
-        valid_fetch = False
-    elif not content.strip():
-        print(f"⚠️ エラー: {path} はデータが空白でした。更新をスキップします。")
-        valid_fetch = False
-    elif content.startswith("<!DOCTYPE html>"):
-        print(f"⚠️ スキップ: {path} はエラーページ(HTML)でした。更新しません。")
-        valid_fetch = False
+    # 最大2回試行するループ（1回目がダメならもう一度だけやり直す）
+    for attempt in range(1, 3):
+        content, error_msg = fetch_markdown(url)
         
+        # エラー原因の判定
+        if error_msg is not None:
+            err_type = f"通信・取得失敗 ({error_msg})"
+        elif not content.strip():
+            err_type = "データが空白"
+        elif content.startswith("<!DOCTYPE html>"):
+            err_type = "エラーページ(HTML)"
+        else:
+            err_type = None # 正常に取得できた場合
+            
+        # 正常に取得できたらループを抜ける
+        if err_type is None:
+            valid_fetch = True
+            break
+            
+        # 1回目でエラーが発生した場合はリトライ
+        if attempt == 1:
+            print(f"⚠️ {path} の1回目の取得で問題が発生しました（原因: {err_type}）。3秒後に一度だけやり直します...")
+            time.sleep(3)
+        else:
+            # 2回目もダメだった場合は、最終的なエラー理由を確定して出力
+            if error_msg is not None:
+                print(f"❌ エラー: {path} の通信・取得に失敗しました ({error_msg})。更新をスキップします。")
+            elif not content.strip():
+                print(f"⚠️ エラー: {path} はデータが空白でした。更新をスキップします。")
+            elif content.startswith("<!DOCTYPE html>"):
+                print(f"⚠️ スキップ: {path} はエラーページ(HTML)でした。更新しません。")
+
     # 2. 正常に取得できた場合のみ、差分チェックと保存を行う
     if valid_fetch:
         changed = True
@@ -136,7 +157,7 @@ def process_padlet(url, path, is_info):
 def save_padlet(url, path):
     process_padlet(url, path, is_info=True)
 
-# info.jsonに入れない用
+# info.jsonに入えない用
 def save_padlet2(url, path):
     process_padlet(url, path, is_info=False)
 
