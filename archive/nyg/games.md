@@ -1,4 +1,4 @@
-最終取得: 2026/07/01 09:19:16
+最終取得: 2026/07/01 13:55:32
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
 - **Posts:** 86
 - **Created At (UTC):** Aug 27, 2024 11:14am
-- **Updated At (UTC):** Jun 29, 2026 11:04am
+- **Updated At (UTC):** Jul 01, 2026 03:22am
 
 ## 概要
 
@@ -81,7 +81,7 @@
 
 <p>追加してほしいゲームセクションがあればここにコメントしてください。随時追加していきます。</p>
 
-#### Comments (7)
+#### Comments (8)
 - **プロスピと野球が好きな人** (Feb 13, 2025 03:51am): ファイルのマイクラ
 - **うかんむり** (May 04, 2026 12:12pm): グラセフ
 - **Sto9960** (May 07, 2026 05:03am): プロスピ
@@ -89,6 +89,7 @@
 - **オオクラサネヨシ** (May 17, 2026 06:36am): 俺も
 - **ファンタグレープ** (May 30, 2026 07:07am): ブロスタ
 - **リオラch** (Jun 07, 2026 04:03am): スリザリオ
+- **学タブ民** (Jul 01, 2026 02:26am): マリカ
 
 #### Reactions
 - **Emojis:** ❤️ (4)
@@ -190,7 +191,7 @@
 
 <p><strong>➥ 掲載元</strong></p><p>非公開</p><p><br></p><p><strong>➥ 公式</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://www.gaming-escape.com">https://www.gaming-escape.com</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gr4ys0n.github.io">https://gr4ys0n.github.io</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gaming-escape.github.io">https://gaming-escape.github.io</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://educational-playground.global.ssl.fastly.net/">https://educational-playground.global.ssl.fastly.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://supercoolthang.global.ssl.fastly.net/">https://supercoolthang.global.ssl.fastly.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://study-academics.global.ssl.fastly.net/">https://study-academics.global.ssl.fastly.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://searchprox.global.ssl.fastly.net/">https://searchprox.global.ssl.fastly.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://badpiggies.global.ssl.fastly.net/">https://badpiggies.global.ssl.fastly.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://dontblockplease.global.ssl.fastly.net/">https://dontblockplease.global.ssl.fastly.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gamingescape.netlify.app/">https://gamingescape.netlify.app/</a></p></li></ul><p><br></p><p><strong>➥ 多分非公式</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://losor.global.ssl.fastly.net/">https://losor.global.ssl.fastly.net/</a></p></li></ul>
 
-#### Comments (11)
+#### Comments (12)
 - **えおののた** (Dec 01, 2025 01:26am): 全ブロ
 - **ゆーか（美少女）** (Dec 09, 2025 08:04am): えおののた、まぢか
 - **削除済みユーザー** (Dec 12, 2025 11:57pm): おなじ全ブロ
@@ -202,6 +203,7 @@
 - **ハチミツ** (May 20, 2026 01:25am): 全ブロ
 - **陽太** (May 24, 2026 01:50am): https://yandex.kz/games/app/310678?utm_source=game_header_logoこれブラウザでブロスタできる偽物だけどブロックされない
 - **NyrikX(足立区陣ICFS系)** (May 26, 2026 12:00pm): yandexは数年前までブロックされなかった
+- **学タブ民** (Jul 01, 2026 02:31am): Yandex最近ブロックされた
 
 #### Additional Information
 - **Post color:** Red
@@ -311,11 +313,12 @@
 
 [Attachment 1](https://ubg6969.gitlab.io/category/featured.html)
 
-#### Comments (4)
+#### Comments (5)
 - **な̳͕̙̫͋̾̽̿̏̉̅́̂̍̚ん͔̣͉̪̽̅͋͆̾ͅと̠̦̟̟̲͓̟̪͕͎̎͑͂͛ͅか͔̰̤̭̬͙̝̜̒́̈́̃̌̔̀́͗́͒͊。͚̦͉͙̲͔́͗̔̉̆͆̈́̄ͅ** (Apr 14, 2026 02:34pm): オーリーとジャネット
 - **あき** (Jun 05, 2026 09:58am): https://script.google.com/macros/s/AKfycbyTR5aZD028qJv9rwEBKGFHceFoC2mSqFOg39SnpcyGyHSclQxP5BBZ-f_9scQx6ANW/execブロスタっぽいやつ
 - **あき** (Jun 05, 2026 10:00am): いけたか教えて🙇‍♀️
 - **匿名** (Jun 09, 2026 05:05am): いけた 
+- **学タブ民** (Jul 01, 2026 02:34am): いけたけどどうやって使うか分からない
 
 #### Additional Information
 - **Post color:** White
@@ -363,9 +366,10 @@
 
 [https://takahirox.github.io/toho-like-js/index.html](https://takahirox.github.io/toho-like-js/index.html)
 
-#### Comments (2)
+#### Comments (3)
 - **rikumin** (Feb 28, 2026 09:03am): ブロ（ICFS税)
 - **rikumin** (Feb 28, 2026 09:04am): 税やのうて勢
+- **学タブ民** (Jul 01, 2026 03:20am): 無理
 
 #### Additional Information
 - **Post color:** White
@@ -381,9 +385,10 @@
 
 [https://yksoft1.github.io/emularity/th1sdl1.html](https://yksoft1.github.io/emularity/th1sdl1.html)
 
-#### Comments (2)
+#### Comments (3)
 - **るい** (Oct 11, 2025 01:17am): 規制
 - **はるとねこ** (Oct 11, 2025 11:20am): 無理
+- **学タブ民** (Jul 01, 2026 03:21am): 無理すね
 
 #### Additional Information
 - **Post color:** White
@@ -397,8 +402,9 @@
 
 [Attachment 1](https://dnrweqffuwjtx.cloudfront.net/)
 
-#### Comments (1)
+#### Comments (2)
 - **るい** (Oct 10, 2025 07:58am): 規制
+- **学タブ民** (Jul 01, 2026 03:22am): 無理
 
 #### Additional Information
 - **Post color:** White
@@ -412,13 +418,14 @@
 
 [Attachment 1](https://sites.google.com/site/unblockedgames6x/)
 
-#### Comments (6)
+#### Comments (7)
 - **るい** (Oct 10, 2025 07:58am): 規制
 - **Massa_games216** (Oct 12, 2025 01:22pm): ISGCいけた
 - **はるとねこ** (Oct 15, 2025 06:07am): しゃああ
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Oct 17, 2025 03:09am): 1v1lolできるの熱
 - **ふりふりポテト** (Oct 21, 2025 09:46pm): はるとねこさんありがとうございます😊
 - **かかし** (Oct 25, 2025 06:55am): Googleサイトがブロックされてます
+- **学タブ民** (Jul 01, 2026 03:22am): 無理
 
 #### Additional Information
 - **Post color:** White
@@ -432,11 +439,12 @@
 
 [Attachment 1](https://sites.google.com/view/freezenova/home)
 
-#### Comments (4)
+#### Comments (5)
 - **USSR** (Oct 09, 2025 11:56pm): これ無理だな
 - **USSR** (Oct 09, 2025 11:57pm): 全部ブロックされてる。
 - **るい** (Oct 10, 2025 08:02am): いけます
 - **亜空カン_JANLINE** (Oct 10, 2025 10:49am): むりっす
+- **学タブ民** (Jul 01, 2026 03:22am): 無理
 
 #### Additional Information
 - **Post color:** White
@@ -452,7 +460,7 @@
 
 [https://ubg77.gitlab.io/category/arcade.html](https://ubg77.gitlab.io/category/arcade.html)
 
-#### Comments (17)
+#### Comments (18)
 - **るい** (Oct 09, 2025 11:49am): ナイスゥーーーーー
 - **はるとねこ** (Oct 09, 2025 11:55am): できた？
 - **るい** (Oct 09, 2025 11:55am): はい
@@ -470,6 +478,7 @@
 - **らまる** (Jan 21, 2026 03:12am): ブロックされた 
 - **ぴわを** (Jan 29, 2026 07:39am): ブロ
 - **shadoreku** (Feb 11, 2026 01:58am): ブロ
+- **学タブ民** (Jul 01, 2026 03:22am): 無理
 
 #### Additional Information
 - **Post color:** White
@@ -483,9 +492,10 @@
 
 [https://novelgame.jp/games](https://novelgame.jp/games)
 
-#### Comments (2)
+#### Comments (3)
 - **はるとねこ** (Oct 09, 2025 10:45am): 無理イイイ
 - **るい** (Oct 09, 2025 11:52am): 同じく
+- **学タブ民** (Jul 01, 2026 03:23am): 同じく無理
 
 #### Additional Information
 - **Post color:** White
@@ -870,7 +880,7 @@
 
 <p>テトリス自作したんで</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1783469972&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6GXSXngPNmAveFntRFO21PmFKZ%2FmJ4Y15kiIv9Em0pp1W86PPfgyvIdqt1mIQklLgNQyYi9fFy3wIw4Oj1JiE0TCb01f9vz6%2FOlhHxqez4VjMVtc281xoqMwSDqlVkl9Gsudb3hQjiTQvKjOChzYN0nFM5NEQ0dJewnJZzfVYGfwhuwvmWylITo2oDyaCj7LyCjZOXPbt53QG8Neza%2FvewXKaA2e7DTYXt3mPHI%2B7V9naOd1Ie6VRkuFgal4Z%2FEzFDKN5cD3GBOxhR8pCKsa0zQ51zICB%2FVItV%2Fi7jw2Ygkkx8EN1LLdzhYXR%2BifGGwhl266Qxr%2BhK8gRWLoJcCHNA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1783486548&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GLRW2qNTdByx9UIWOt7SyLKBM4SPZhRN2ovY2WCWWGpWLyn6O77X8hjyqz3UHJlZKDNp4NYBYJCeOVfNJt1UYrsVxOw9%2BpQpZQUdGTYsv7omfM6CA0mcwKRNrNhM82rVtegLpBDYMcqxxP5IR%2BPDZAm7Ik2LcOyQsdOf1aDRlrZDj6tCgPKff8ZMhANU0I3w%2FmvQbs9yl14wTTG4N2cF9Vgx4vPYCeyJvMmo5WsSmocOooILr6IpgmyOOS8P06%2Fomr%2BY4sAoAiiEIgMbna1XDYtSCUTSHqi35usJNl2uD%2F2N0dFAFzDJNKVDf%2FZ7hbx9ufkfZP6oe6S%2FgNhA5r3mBw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
 
 #### Comments (6)
 - **RX034** (Dec 02, 2025 08:28am): 良ければどうぞ！
@@ -892,7 +902,7 @@
 
 <p>テトリスだよ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1783469972&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qJNL7suWdtzERZ4eZ5IqV5Z2oNVnFvDrCRzRqd%2FeFBcHsj9Ars7THWaFFxczXtDJr5kYhANWIONf6bC1uW9WQeOc2x7cuPm9n473D0FL5mxn38Oc8gUPg1bO%2FgGNh7F671%2Fw5aXkFaCgHDgvb2ORMu%2BTnjon7zc%2Fa3O7oFaESKff1x6MjpdY%2BHH9K9rtF%2FNYId%2F6ngcgkCPSIz3SGNjjDftzzE0obxsdfqQHrPzsvMCTG86zAXfZl3kNJGjUs%2F08f1xoMbNekcWKu1Gjcg%2FOpLhrrx8jRH%2FxWIe9m3sYpcbuzDxXf3KeromkvwoJZTLIBQFGQ64RihOJ0EJtTtx4KA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1783486548&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TFQ3Isv6SdLS65sXzygJai5s41a8TVJO2tNfYNAxf6ZVuJjG6PmHDbPJRzqLgJroM4j01XDIAIGtJip47fRl3Bua%2B4mbqqsToVkJtYBdCl4AyDIIluiFvIm%2BjpMX5mikWNCu%2FrIsAkS4wcDa%2B2fMydD%2Fw8y1dcBHQiLcSt7m%2FtA3GGzzl53ojSv%2FQjm8eGpUJlU2A%2BQsJpBw3xFkfa%2Fef0TnaByd6ReG%2B0OutOH%2Byt9MxVsfipeTu2VSWuyTlE8m%2Fq1FwCuQYkyN3lMuzNn9KDi6ZqV5Nh9SxgrMiza2XLz%2FdC9y7MRBgF0Ek9RBOqDdfXXGeOwte1iBzFE%2BLK%2FqhA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
 
 #### Comments (1)
 - **はるとねこ** (Nov 10, 2025 01:54am): なんか表示できねえ
@@ -909,7 +919,7 @@
 
 <p>オセロゲーム作りましたレビューください</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1783469972&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RMlRoWtegU93SIBe2RO5WWSD3CD0fqGfNA1VguOHbZ6ylL1xFAYQWeNLfbsAF1QOvdRMB8lvYHMb%2FEmmRORSsRxNLmejGG9gTxxnJlhB5YWSR4FG5hLYa8yfUhoYk45xopbRKdVT7BZJW4H1k2z5c2W8spDIrx9jHP3fIs4ng8fwDwlae3NfpdDZh67RMVm8y3gmB%2FsWPDa%2BqjwEqRqRrojaAqjjakRGx9SxgeSjmO6aYft3Uty4yjlqic%2FSgKZr2fuKYT8snPcrC9owwxich2CELiw2V1wxEjlG%2Bo7gkqZHWrg6x4y%2FYYzR0dJbeaNPgZMkj5HztJUuHutHM8z7JA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1783486548&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MAtXPheXS0bVjBN2UgrQe5TIDE97haED0TnFn1V3mVUs7VEHES7M6kTCfRqq1XVSQCQvgIzvaQqC%2BnhcfLtfrnbcFw070OZSlUZhyZjr0jXiyLwi%2FhvgoVJ4kzUPiPWSCLkG1hA7pskYSP4MQrzB4unKPEl3zviq8%2B7STspvuahFU1rqNdW%2FeoiyNzdVDgnU2stp7DBZ5juVTEmappPBkdwqEnj4PetB3DDig4zm7X%2FTIleYuRlcdgsEIvAovkeHW6lHJAyIOJIOEv4wmTNu0fdW9laYefLG4Oo2giV60Ft6FhXEBJiBO6bdfNfldXT4SBStU7j1DF4vs%2F%2Fsg1MI3A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
 
 #### Comments (3)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 08, 2025 04:36am): 思ったよりAIが強くて負けそう:(
@@ -961,7 +971,7 @@
 
 <p>英語のみ対応です</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1783469972&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=vNkXSADT1rJ5TdvT6hsmgzTVfz%2Bev8Re7JZf1Ue9JFyvLe6KEoV6E6PYR3WIDMBuQBJwl4PdqVurF7zC9f8NHiXMMfO9b72WJ3muOLRM0AiSzbyXRVtWckHYWj0BwmiVfynCJMO36TIDF374F1BiWvscqyX891Jhho9F3uXsR8IvQiIkNvgGNqy9BUfKmJVvkRkn5Wn63wdcQJmy%2B%2BTDV7JV9eFb9ejkfIQGhHcwD1tx%2FzArtdQCTO4cusylcbAfqm43hFuWTGS6smS3MUdhZReG4MWh1q6ROZe4xsOcqOVtT6ML8zzqKAcTHKUPOskGJjoqhf7oBnJofQHsRq%2Bn6A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1783486548&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=t0EIYeAupTLY6%2FpPyTGMQdGajsRGLlrUxNDpAnl1JRYTVTmUGkJSOwMe5cWYInnJEAx5A1MsXFE9il2qyZmdR9kd8pPxtRhzwl%2FFfVmWz%2BSdGRr1XddlR5cBjFlMTqn%2BNFQmLFBD4H808Tg1jhX8V6F%2BBYBgDVQ%2BXvDzgM6%2Fv6vlaMZFmpkQFoju1qvTP%2FlUMb8kDInJZao3CTyL6IMD9h13N90v0e4UlICx9BKvP3VlvDNp3FoacuNDCURe6n7B4C5YcSsKiO40jUiSjxovW%2FTiTcattyjwezFMI2yfQkxvGTY11PGti%2BMHluok99TxbP2w1NbabWYmWvuSm6C0kw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
 
 #### Comments (2)
 - **カービィ** (Feb 28, 2026 02:14am): どうやって進むの？
