@@ -1,4 +1,4 @@
-最終取得: 2026/07/02 00:23:13
+最終取得: 2026/07/02 02:23:49
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -9,7 +9,7 @@
 - **Builder:** おうが (18jt026)
 - **Posts:** 43
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Jul 01, 2026 01:29pm
+- **Updated At (UTC):** Jul 01, 2026 03:50pm
 
 ## 管理者　連絡
 
@@ -35,9 +35,9 @@
 ### 2. すみませんが全てのパドレットを削除してもう一度最初から作成いたします
 **Author:** おうが (18jt026)
 
-**星評価:** 5.0 / 5 ⭐ (1)
+**星評価:** 5.0 / 5 ⭐ (2)
 
-#### Comments (25)
+#### Comments (26)
 - **タニモリ** (Jun 29, 2026 12:43am): あの荒らしのせいですか⁉︎
 - **おうが** (Jun 29, 2026 12:43am): いや重くなってきてたのもあるよ！
 - **おうが** (Jun 29, 2026 12:43am): 嵐もだけどね
@@ -63,6 +63,7 @@
 - **おうが** (Jul 01, 2026 02:54am): 匿名やからって好きなことしていいわけではないぞ
 - **カラフルピーチどぬく推し** (Jul 01, 2026 03:09am): 当たり前や！
 - **カラフルピーチどぬく推し** (Jul 01, 2026 03:14am): 😡
+- **金しか勝たん** (Jul 01, 2026 03:38pm): 匿名って通報できないんですか？
 
 #### Additional Information
 - **Post color:** Black
@@ -121,7 +122,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783524251&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FWZvfzTo0JJv86%2B0pgHRxi3KwMslXPgOSJYLZ6mkvumtCovWeboTbNU0h09Q7EA4x8yBs3B36ovBx1yTV%2FVKnEtPcucM70v%2B3fNnZ%2FNNeFbnmUSA%2FYBdUuZ%2BAZgHPmK71fA1VjXHTz8v2jG2nqID4vdDRrBE7S9HxS1bRWL6ieQH%2B%2F2gvm2bp9Mguyj1lEfLgzj6iQMBZqKyrYbiU8L7x7JQrXQ88YyKuwKz4jQi5cv5NbqetNcta%2B2gb1A5noEOFMs13rqD0kRIe21N28Kxa0at%2B6EqBRrh4sV0OLDT3VVJpTMJUG%2BemytX1WwYrUPKbH6biBkLncYN2iTqA5lCdA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783531490&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=k73r4XqFb5nVkdEqfl8%2FMDUN%2FR%2BYEJ22s4foEVOLG%2F%2FA79syJjFje9rGLQkQGjnW7CIB7R6LPuppqb%2FTNyLz5DvJIuCZgqanF7Q36VgFOQTvKsYExwtamrsbsoRX1MSphGHOscPWb3FHjU4DURjYRJc0Ulc6Z4TDrqPDJaqy0t0WoM6ZDSTKOyZaE6cNl6w6duH5pZn%2FtJQMHoXQUg3TZou%2BeuAAXl3UKyvg%2FCP0flxtbqQnCrrvcCZAPNavI%2B4EBjXACGa%2BYOivBzq2leDa9QwFf4B40BkU8tlB5IOx5OWhhxe6pPlXgr4jsAJCeafmosRTZcC0woXVPkAVxUI4LA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
 
 #### Comments (3)
 - **おうが** (Jul 01, 2026 01:55am): よろしくねーー
@@ -648,9 +649,10 @@
 
 [Attachment 1](https://yandex.kz/games/app/breinrot-arena-onlain-501106)
 
-#### Comments (2)
+#### Comments (3)
 - **天才くん** (Jun 29, 2026 07:20am): これ無理になったんだよなー
 - **おうが** (Jun 29, 2026 11:47pm): 僕も無理だった、
+- **金しか勝たん** (Jul 01, 2026 03:43pm): 僕も
 
 #### Additional Information
 - **Post color:** Black
@@ -666,7 +668,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (3)
 
-#### Comments (12)
+#### Comments (13)
 - **天才くん** (Jun 29, 2026 06:59am): 3人行ったら出します
 - **天才くん** (Jun 29, 2026 07:00am): なんか少なくなってない？！
 - **天才くん** (Jun 29, 2026 07:20am): コメントに「いる」と打ってね
@@ -679,6 +681,7 @@
 - **タニモリ** (Jun 30, 2026 12:56am): もっとくれーーー
 - **タニモリ** (Jun 30, 2026 12:56am): ふぉー
 - **天才くん** (Jun 30, 2026 12:17pm): これブロの人いる？
+- **金しか勝たん** (Jul 01, 2026 03:50pm): 控えにいって神
 
 #### Additional Information
 - **Post color:** Black
@@ -711,11 +714,12 @@
 
 [Attachment 1](https://www.autistici.org/eaglercraft/play/EaglercraftX_1.8/JavaScript/)
 
-#### Comments (4)
+#### Comments (5)
 - **天才くん** (Jun 29, 2026 09:45am): ブロ
 - **ユメビト** (Jun 30, 2026 12:04am): ぜったいざこ
 - **カラフルピーチどぬく推し** (Jun 30, 2026 10:11am): 荒らすぞ？
 - **カラフルピーチどぬく推し** (Jun 30, 2026 10:11am): ユメビト許さんからな覚悟しとけよ
+- **金しか勝たん** (Jul 01, 2026 03:50pm): ブロ
 
 #### Additional Information
 - **Post color:** Black
