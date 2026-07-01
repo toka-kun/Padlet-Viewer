@@ -1,4 +1,4 @@
-最終取得: 2026/07/01 09:19:16
+最終取得: 2026/07/01 13:55:32
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,18 +7,31 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 32
+- **Posts:** 38
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Jul 01, 2026 12:01am
+- **Updated At (UTC):** Jul 01, 2026 04:40am
 
 ## 管理者　連絡
 
-### 1. すみませんが全てのパドレットを削除してもう一度最初から作成いたします
+### 1. ちんこー
+**Author:** ちんこ
+
+<p><br/></p><p><br/></p>
+
+**星評価:** 0 / 5 ⭐
+
+#### Additional Information
+- **Created At (UTC):** Jul 01, 2026 04:40am
+- **Updated At (UTC):** Jul 01, 2026 04:40am
+
+---
+
+### 2. すみませんが全てのパドレットを削除してもう一度最初から作成いたします
 **Author:** おうが (18jt026)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (27)
+#### Comments (25)
 - **タニモリ** (Jun 29, 2026 12:43am): あの荒らしのせいですか⁉︎
 - **おうが** (Jun 29, 2026 12:43am): いや重くなってきてたのもあるよ！
 - **おうが** (Jun 29, 2026 12:43am): 嵐もだけどね
@@ -36,16 +49,14 @@
 - **roburozei** (Jun 29, 2026 09:46am): ok
 - **あんこ** (Jun 29, 2026 09:51pm): 目が死ぬから消してくれたのはうれしいww
 - **おうが** (Jun 29, 2026 11:45pm): よかったww
-- **ユメビト** (Jun 30, 2026 06:52am): けすなよぼけかすごみくそしね
-- **ユメビト** (Jun 30, 2026 06:52am): 学習障害者
 - **ユメビト** (Jun 30, 2026 06:52am): ディスレクシア
 - **ユメビト** (Jun 30, 2026 06:52am): 😍
 - **ユメビト** (Jun 30, 2026 06:53am): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/MxrmZYev7d9YZGOq) 
-- **ユメビト** (Jun 30, 2026 06:53am): ころすぞ
-- **ユメビト** (Jun 30, 2026 06:54am): 元に戻せ
-- **ユメビト** (Jun 30, 2026 06:54am): いきるかちない
 - **カラフルピーチどぬく推し** (Jun 30, 2026 10:12am): ユメビトバンやろ
 - **あんこ** (Jun 30, 2026 09:33pm): ユメビト、一旦落ち着こうね、あとムカついてるなら、なんか楽しくなってきた、じゃないやろw
+- **おうが** (Jul 01, 2026 02:54am): 匿名やからって好きなことしていいわけではないぞ
+- **カラフルピーチどぬく推し** (Jul 01, 2026 03:09am): 当たり前や！
+- **カラフルピーチどぬく推し** (Jul 01, 2026 03:14am): 😡
 
 #### Additional Information
 - **Created At (UTC):** Jun 29, 2026 12:20am
@@ -73,14 +84,32 @@
 
 ---
 
-### 2. あんこです、ログインしてないときは変な人って名前でしたよろしく
+### 2. どぬく推しでーす
+**Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
+
+**星評価:** 0 / 5 ⭐
+
+#### Comments (2)
+- **れいり** (Jul 01, 2026 03:44am): 俺も！　カラぴち
+- **れいり** (Jul 01, 2026 03:44am): あと　うりも推しかも
+
+#### Additional Information
+- **Created At (UTC):** Jul 01, 2026 03:10am
+- **Updated At (UTC):** Jul 01, 2026 03:10am
+
+---
+
+### 3. あんこです、ログインしてないときは変な人って名前でしたよろしく
 **Author:** あんこ (tdz410pyh)
 
 <p>よろしくおねがいしまーす</p>
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783470017&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MCg9kioqB30gcxexbOnqKKgew2XoDjPEyAKwY5EGh4gZLaN46rjti3XW3YoFrermL2M4bCXjundkgPecqZEGNo6JdEO%2FgB%2FeUNecGbBlLh8q%2BDSJ6yCn4l4eHlU%2BFhlw4qfB2LraWhdpq6%2BCGLZLNHpgIAH2nYgnwP6DuxILUoZgtEzLbik5MNaqWlJZKDYNNWQxpqOBQiFQRTwRZvwx5MJQUAgb6b95zLavXLE57MZRh3SZ%2BZFei5Y%2Fz6WV%2BwWW1SVuSPO9FipGP5OS43W2LLxC4DpCjT2vuY0swXhJ9DCs5d%2BOntPpjoXiQvtBw8XZ24mI%2FTF6l3xYsgZmPQq62w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783486591&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KUvw4mCo2VDxSAxsBFd4VeWfz%2FSMswkiOwOt81NJcUQTHmfe%2Fas2tbQWghGCLTzCVwqnLyhupTWcKYrMmyzh5%2FaOD5%2BJVZIrlQGVxmrIHzoE1LRXFtIQEvLMuPBVui9QmwqPsXfjxHucRKoIjlKrXjT9HYwd4wFEfQpyoBkljALRIwnBhSwJCj53yHwxWWdoGvZXOD%2FnUsdU5vgbH%2BrV6q6RDFbfKT%2F11FaWfs83nzNWqRKp2ZsDZOuIc5r1HLH0JXdYwb%2FkBOk9Yf6YlV9VcMjCcobtEiGLWtY3aELIrBjQZI3jxroD9WR7AHOFwnCs3lckLqPN6G2YLPh53vK07A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
+
+#### Comments (1)
+- **おうが** (Jul 01, 2026 01:55am): よろしくねーー
 
 #### Additional Information
 - **Created At (UTC):** Jun 30, 2026 09:47pm
@@ -88,10 +117,13 @@
 
 ---
 
-### 3. 友達がいない！ヘルプ！
+### 4. 友達がいない！ヘルプ！
 **Author:** 吉見
 
 **星評価:** 0 / 5 ⭐
+
+#### Comments (1)
+- **おうが** (Jul 01, 2026 01:56am): 友達たろ！！
 
 #### Additional Information
 - **Created At (UTC):** Jun 30, 2026 11:04am
@@ -99,7 +131,7 @@
 
 ---
 
-### 4. 💩
+### 5. 💩
 **Author:** ユメミコ
 
 <p>うんこぶりぶり</p>
@@ -108,22 +140,26 @@
 
 ![うんこ](https://genai-public.padletcdn.com/disco/prod/imagen/1782704797404/sample_0.png)
 
+#### Comments (1)
+- **おうが** (Jul 01, 2026 01:56am): 給食中吹いたw
+
 #### Additional Information
 - **Created At (UTC):** Jun 30, 2026 08:32am
 - **Updated At (UTC):** Jun 30, 2026 08:32am
 
 ---
 
-### 5. れいりの友達のスリです　宜しくお願いします
+### 6. れいりの友達のスリです　宜しくお願いします
 **Author:** スリい
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (4)
+#### Comments (5)
 - **れいり** (Jun 30, 2026 02:09am): スリーいついてるでW
 - **れいり** (Jun 30, 2026 02:09am): w
 - **れいり** (Jun 30, 2026 02:24am): （い）がついてるでw w笑笑笑笑
 - **スリ** (Jun 30, 2026 04:40am): あ　ほんまやwww
+- **おうが** (Jul 01, 2026 02:02am): よろしくー
 
 #### Additional Information
 - **Created At (UTC):** Jun 30, 2026 01:38am
@@ -131,7 +167,7 @@
 
 ---
 
-### 6. たりもりです。
+### 7. たりもりです。
 **Author:** タニモリ
 
 <p>新参者ですかお願いします。</p>
@@ -147,7 +183,7 @@
 
 ---
 
-### 7. 改めまして
+### 8. 改めまして
 **Author:** 天才くん
 
 <p>こんにちわ</p>
@@ -164,7 +200,7 @@
 
 ---
 
-### 8. れいりです
+### 9. れいりです
 **Author:** 匿名
 
 <p>みんなと仲良くしたいです　よろしく😀😄</p>
@@ -210,11 +246,12 @@
 
 [Attachment 1](https://padlet.com/Haraitai/padlet-jxmgpewlqr3h518c)
 
-#### Comments (4)
+#### Comments (5)
 - **おうが** (Jun 30, 2026 05:50am): 本当に友達です
 - **れいり** (Jun 30, 2026 05:56am): がち！？
 - **れいり** (Jun 30, 2026 05:56am): 入りました！！！？？？
 - **おうが** (Jun 30, 2026 06:07am): 頼んだ！
+- **カラフルピーチどぬく推し** (Jul 01, 2026 03:12am): タニモリは友達です…
 
 #### Additional Information
 - **Created At (UTC):** Jun 30, 2026 05:49am
@@ -222,7 +259,29 @@
 
 ---
 
-### 2. 荒らされて今3回目
+### 2. つぶあんこしあんどっち派？
+**Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
+
+**星評価:** 0 / 5 ⭐
+
+#### Additional Information
+- **Created At (UTC):** Jul 01, 2026 03:13am
+- **Updated At (UTC):** Jul 01, 2026 03:13am
+
+---
+
+### 3. 白あん黒あんどっち派？
+**Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
+
+**星評価:** 0 / 5 ⭐
+
+#### Additional Information
+- **Created At (UTC):** Jul 01, 2026 03:13am
+- **Updated At (UTC):** Jul 01, 2026 03:13am
+
+---
+
+### 4. 荒らされて今3回目
 **Author:** カマキリ (00221133)
 
 <p>ぜひ来てね！</p>
@@ -241,7 +300,7 @@
 
 ---
 
-### 3. 宣伝ね
+### 5. 宣伝ね
 **Author:** おうが (18jt026)
 
 **星評価:** 3.7 / 5 ⭐ (3)
@@ -252,7 +311,7 @@
 
 ---
 
-### 4. Post 4
+### 6. Post 6
 **Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
 
 <p>ポッキーとトッポどっち派？</p>
@@ -270,7 +329,7 @@
 
 ---
 
-### 5. おうがさんがつくたブレインロットドラゴンゲットしました。
+### 7. おうがさんがつくたブレインロットドラゴンゲットしました。
 **Author:** c00lkidd (r0400295_1)
 
 **星評価:** 0 / 5 ⭐
@@ -286,7 +345,7 @@
 
 ---
 
-### 6. クールキットです
+### 8. クールキットです
 **Author:** c00lkidd (r0400295_1)
 
 <p>入ってね〜</p>
@@ -404,6 +463,30 @@
 ---
 
 ### 2. Post 2
+**Author:** ソラドリ
+
+**星評価:** 0 / 5 ⭐
+
+[Attachment 1](https://periodic-table.techmax.hk/class/five-nights-at-freddys-2)
+
+#### Additional Information
+- **Created At (UTC):** Jul 01, 2026 04:35am
+- **Updated At (UTC):** Jul 01, 2026 04:35am
+
+---
+
+### 3. 桃鉄のパスワード教えて
+**Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
+
+**星評価:** 0 / 5 ⭐
+
+#### Additional Information
+- **Created At (UTC):** Jul 01, 2026 03:11am
+- **Updated At (UTC):** Jul 01, 2026 03:11am
+
+---
+
+### 4. Post 4
 **Author:** BIRUSU
 
 **星評価:** 0 / 5 ⭐
@@ -419,7 +502,7 @@
 
 ---
 
-### 3. Post 3
+### 5. Post 5
 **Author:** ますと
 
 <p><a rel="noopener noreferrer nofollow" href="https://yandex.kz/games/app/breinrot-arena-onlain-501106">Брейнрот Арена Онлайн - играть онлайн бесплатно на сервисе Яндекс&nbsp;Игры</a>ロシア語だけど我慢して</p><p><a rel="noopener noreferrer nofollow" href="https://ticket.xrcloud.jp/monocg/index?ec=event_305ba11f-ea9f-4394-819a-db14296a757f">おんらいん</a>←このとうり（（語彙力</p>
@@ -438,7 +521,7 @@
 
 ---
 
-### 4. ゲーム欲しかったら言って
+### 6. ゲーム欲しかったら言って
 **Author:** 天才くん
 
 <p>まじげ神　リスクもない</p>
@@ -465,7 +548,7 @@
 
 ---
 
-### 5. サッカー見れるサイトです
+### 7. サッカー見れるサイトです
 **Author:** おうが応援する人
 
 **星評価:** 0 / 5 ⭐
@@ -481,7 +564,7 @@
 
 ---
 
-### 6. Post 6
+### 8. Post 8
 **Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -507,9 +590,10 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
+#### Comments (3)
 - **ひゃほー** (Jun 30, 2026 01:37pm): なんか全部消えてるんやけど
 - **あんこ** (Jun 30, 2026 09:52pm): 一回重いので全部消したらしいです
+- **おうが** (Jul 01, 2026 02:52am): ごめんね、
 
 #### Additional Information
 - **Created At (UTC):** Jun 29, 2026 12:41am
@@ -524,7 +608,7 @@
 
 **星評価:** 3.0 / 5 ⭐ (3)
 
-#### Comments (35)
+#### Comments (36)
 - **タニモリ** (Jun 29, 2026 12:45am): https://multimedia.easeus.com/jp/online-video-downloader/
 - **タニモリ** (Jun 29, 2026 12:45am): チョコのやり方教えて〜
 - **おうが** (Jun 29, 2026 12:47am): チョコ欲しいの？
@@ -560,6 +644,7 @@
 - **タニモリ** (Jun 30, 2026 12:57am): 全部できないぴえん
 - **ちょこ** (Jun 30, 2026 05:52am): 俺も無理や🥲
 - **カラフルピーチどぬく推し** (Jun 30, 2026 10:19am): タニモリ2人おらん？
+- **な** (Jul 01, 2026 03:09am): https://wkt-jajaja.onrender.com/loginパスワードwakame
 
 #### Additional Information
 - **Created At (UTC):** Jun 29, 2026 12:42am
@@ -613,15 +698,12 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (8)
+#### Comments (5)
 - **タニモリ** (Jun 29, 2026 01:45am): 映画　アニメが見たいな 
 - **おうが** (Jun 29, 2026 01:58am): いやセクションで
 - **ユメツバサ** (Jun 29, 2026 03:34am): 映画　アニメが見れるサイト 
 - **カラフルピーチどぬく推し** (Jun 29, 2026 03:48am): それな〜
-- **ユメミコ** (Jun 30, 2026 08:30am): purosupi
-- **ユメミコ** (Jun 30, 2026 08:31am): プロスピ
-- **ユメミコ** (Jun 30, 2026 08:31am): まんこ
-- **ユメミコ** (Jun 30, 2026 08:31am): ちんこ
+- **カラフルピーチどぬく推し** (Jul 01, 2026 03:11am): ブロスタができるサイト
 
 #### Additional Information
 - **Created At (UTC):** Jun 29, 2026 12:45am

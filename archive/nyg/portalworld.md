@@ -1,4 +1,4 @@
-最終取得: 2026/07/01 09:19:16
+最終取得: 2026/07/01 13:55:32
 
 # Padletポータルワールド
 
@@ -126,7 +126,7 @@
 ---
 
 ### 3. ミーム帝国
-**Author:** へんてこぼっくす。　　ネッコ隊中尉兼副突撃隊長兼第二小隊伍長 (kurogane)
+**Author:** へんてこぼっくす。ネッコ隊中尉　副突撃隊長 (kurogane)
 
 <p>ここはいってないとかおわってるよ？？？</p>
 
@@ -374,7 +374,7 @@
 ---
 
 ### 14. オロナミンC教
-**Author:** 牛肉を焼いたやつ (Mr_STEAK)
+**Author:** ライバル好き (I_like_RIVALs)
 
 <p>信者キテネ！</p>
 
@@ -907,7 +907,7 @@
 ---
 
 ### 37. ロブロックスの場
-**Author:** 牛肉を焼いたやつ (Mr_STEAK)
+**Author:** ライバル好き (I_like_RIVALs)
 
 <p>ロブロックスやってる人来て</p>
 
@@ -922,7 +922,7 @@
 [Attachment 1](https://padlet.com/padlets/frbjdwywrhzb7t33)
 
 #### Comments (1)
-- **牛肉を焼いたやつ** (Jun 11, 2026 03:03am): 新規です！ていうユーザーに気をつけろ！
+- **ライバル好き** (Jun 11, 2026 03:03am): 新規です！ていうユーザーに気をつけろ！
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -935,7 +935,7 @@
 ---
 
 ### 38. ハナシアイ
-**Author:** 牛肉を焼いたやつ (Mr_STEAK)
+**Author:** ライバル好き (I_like_RIVALs)
 
 <p>みんなで楽しくお話しよう</p>
 
@@ -3189,7 +3189,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1783469967&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0Vv3eByyHhbq1OW%2FRq90WWcn1dkr3tui3ehGAxJUCiGuTwEmvmVzNVhwsejsujE5JOBwMbsJD5c%2FTTxGPu%2FreOjp3GwYhurPv0LC6w8AFblIhlQ%2BuoxzciaSj0STfgFvY%2BZW4F6MG%2FQsSoPXUCHs6rwUYLWe4v4xOwhDnZM60wUUYpX6z%2BPaWtyg2WWVClYhNmg5BRBB%2BIrUEMt53Qfg79VFk%2FBMqyIAFJ%2FgmLSBb6ANw9%2F%2BrkMO9UKVNP5EE3HeXRGMmu0%2F8EqPx8aWM%2FDUfFUILWzamYXBEhsjxf1nswEyP%2BRnjSr%2Fx4vGrRm5yyLcgzmZgKW22GKlnibVwxgWxg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1783486542&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WFzBsvfecF%2FsZ1b2gakPY9LNocL%2FcEm2QoboC0xs7WFLo8DuHcITHOUQ7RTsKh2jjtZ6TtMA6pZsUgvObZmpBQ8tsRXC%2Fi3CS5p6wQ6%2F3MkDzdngSFBR%2B2FD8Iw%2BMScMuQwCVCHRr76rOQ9FKejOJTB6FskH%2FtZ2vifkxMjQul99pg8tRrzfU6hAmeFFzc23m7CX3rmgKsyiUJXi0HT7YvsiJ6eyy%2Fk7Pua5dy%2FXTOwNZktPUrgcfKObNZVjA152gp3M%2FhFwWpCsbZbh%2FNmD4FWkmRJkh6xu2gDMoks77R9QCLcQucecks27%2FgA6%2BM7MvVwFXfEJHDeuDBYFEILQxg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
