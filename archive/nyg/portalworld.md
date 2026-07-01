@@ -1,4 +1,4 @@
-最終取得: 2026/07/01 17:58:58
+最終取得: 2026/07/01 21:14:54
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 141
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jul 01, 2026 08:55am
+- **Updated At (UTC):** Jul 01, 2026 11:44am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -82,7 +82,7 @@
 ## Padletポータルワールド
 
 ### 1. るるるの雑談部屋！
-**Author:** 二。黒人差別について、 (rururu_pas)
+**Author:** 心は痛まなかったのか,,,少しも苦しいと思わなかったのか!！,,俺はお前を許さない,,, (rururu_pas)
 
 <p>元超大人数部屋！幅広い雑談を武器にして活気あふれる楽しい場にしています！仮面ライダーずき大歓迎‼️</p><p>・主はここでたくさん絵を描いて活動してます。気軽に話しかけてくれればいつでもリクエストに答えるよ！</p><p><br/></p><p><br/></p>
 
@@ -3189,7 +3189,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1783501149&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=q8OGHB2qvAqF8dGs62Wv9IdmuoB7eODSY2DqKIBJuCEyyvOWXJCJU4NvzxwQaRMkqAIUcis28wBihRoce4cirJTfcOOuWvgmxsAl2QHKfoRqgiFP1VBJNYGKLfdXoBui16VrV%2BIeRA0dFBskQkLQ6x2Ylq2xsLzkmW8%2BPYw2nSNhv7GmFUwolmq0mpAIZIhyMR%2FNSDVfenDM5rQOqmj8ON0ARQm%2Bbk0bVHCcVGAIKgDvapmJFIny5JRUNiPoxg%2BIstkCPDn6xen%2Fo9jJQQ135ltJHLSuJsbTx4%2BLy3bEySh%2FsViEuRY4KP2CwG43bTBvEtrh94wuPx%2BRYSXznJRanw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1783512904&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=M22d34VDrRiI1Vj%2F6ebNxu%2BiPdxliyOYlJlO56m5GVNHahePskpRp8iYwMtOCGXTdzsr7jHDJxg9VuhuZszHDtf2KhTwlVYsJgn9Aew%2FotqNTB%2FteaTdLFVPf6icChPk3CKkJMa3ueF2qdjFmctJSbk5npmiGvrFjZ5E6tG20e9eigjCORYls4LldxvK9yWevfoxDfbLbByFuGbT0FSJJKSsfIDxQVOTJEcziYngSffyNwIuh3BoEWKQTnPTRdfxJUUpOFIVs1hSWRkQ3xg7KsQ343aY3hV17UFRlPl40k7CnGNCrzDK3JRRonF%2FkEN9xahkI7oxxfT4QE97uHjxcw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
