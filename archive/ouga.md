@@ -1,4 +1,4 @@
-最終取得: 2026/07/01 21:17:40
+最終取得: 2026/07/02 00:14:56
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 42
+- **Posts:** 43
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Jul 01, 2026 12:12pm
+- **Updated At (UTC):** Jul 01, 2026 01:29pm
 
 ## 管理者　連絡
 
@@ -18,9 +18,12 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (2)
+#### Comments (5)
 - **ふるさわさん** (Jul 01, 2026 09:42am): タキノキおもんないただ悪口言って目立ちたいだけでしょ？ｗ
 - **れいり** (Jul 01, 2026 09:55am): w そうかもね w
+- **カラフルピーチどぬく推し** (Jul 01, 2026 12:24pm): 誰のこと？
+- **おうが** (Jul 01, 2026 12:37pm): タキノキのことじゃないかな？
+- **おうが** (Jul 01, 2026 12:45pm): 後これはわかんないw
 
 #### Additional Information
 - **Post color:** Black
@@ -95,12 +98,14 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
+#### Comments (7)
 - **れいり** (Jul 01, 2026 03:44am): 俺も！　カラぴち
 - **れいり** (Jul 01, 2026 03:44am): あと　うりも推しかも
 - **おうが** (Jul 01, 2026 05:43am): あんまりわからないけどよろしくねー！！
 - **カラフルピーチどぬく推し** (Jul 01, 2026 08:57am): 仲良くしてくださーい
 - **おうが** (Jul 01, 2026 12:11pm): はーい！
+- **カラフルピーチどぬく推し** (Jul 01, 2026 12:24pm): おうがさんいます？
+- **おうが** (Jul 01, 2026 12:37pm): はいはーい
 
 #### Additional Information
 - **Post color:** Black
@@ -116,11 +121,12 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783513118&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PMVWratxrMZOQwVt7BtgI8gv8Mcnw5EbcSJLsKHpUdMG5gt6NkVJs6E9nRMeqMOR4MmZp60lwAIRm5a%2BrpgS%2BzAzb6xVcW7q5hPVrnvUmw9EjYH1mp9Pg80Jd9pe3JGE%2B%2FuF3ucdT0eAUWE5GFRfpFpxA6S05uSgaJLP%2FNy2Xd%2BtgkSK7TjzSYB1%2B0Xj6cDLNqT5%2Fs8u2ierqVu6VHnDCnTpf0XSb1PJ4V7T8Y5o3e5S8tXKX4snzIuh2LutNo0BXJyfY%2FUoOlnhJZronLhep%2FKMWexei0S0POFqTCRhIRibEWJU35SSd34pCv3FYHwQvku6ssRtZx2dXb2l51k5HQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783523756&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SQi5qTUUNmqSZZDlQkfXdOqMI7m%2BDlPk%2BaCjsvr7EEgA2vTs9cVZM3uQZ%2FdNdoA%2BdwBWp38ZK6EeXUVXOz5sWsNi4XDe56pIyknUsg24%2B1Ax7U0NeibtnVwspPgxc9KQBh%2FGINpku6WGKzznjzcbQ8ouJCUF0AmpeES7Jnha%2BpkyPdZ7cxPo581UklJkvGhvZSWgNEuIyEiTKI9QcFAFKIQmVUrEAiHOCj7H78XJ%2F%2Fwu9LbRFGPk68AeSi6PckSq8Z9W6tVrjd2cvWOP5LnnLV16WgvTKDCCDJUib0E0l70WFn%2BCAJCmPMPAAkXkmaHuDY%2FLBUb9KQDOBly1bNWCHg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
 
-#### Comments (2)
+#### Comments (3)
 - **おうが** (Jul 01, 2026 01:55am): よろしくねーー
 - **天才くん** (Jul 01, 2026 12:11pm): ああ！なるほどだからか！
+- **おうが** (Jul 01, 2026 12:38pm): ドユコト？？www
 
 #### Additional Information
 - **Post color:** Black
@@ -290,6 +296,9 @@
 
 **星評価:** 0 / 5 ⭐
 
+#### Comments (1)
+- **おうが** (Jul 01, 2026 12:43pm): 飛行機！！
+
 #### Additional Information
 - **Post color:** Blue
 - **Created At (UTC):** Jul 01, 2026 09:04am
@@ -434,7 +443,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (11)
+#### Comments (12)
 - **おうが** (Jun 30, 2026 12:02am): 誰かロブロのブレロのキャラ買ってクレー
 - **おうが** (Jun 30, 2026 12:02am): 頼む！！
 - **れいり** (Jun 30, 2026 01:00am): 買えないわごめん
@@ -446,6 +455,7 @@
 - **れいり** (Jul 01, 2026 11:13am): アクセス権がありませんって出たんだけど？
 - **天才くん** (Jul 01, 2026 12:08pm): ああマジか
 - **天才くん** (Jul 01, 2026 12:08pm): https://akashi.tomolinks.net/top
+- **天才くん** (Jul 01, 2026 12:22pm): あとこれhttps://19ch.tv/s6/s6.html授業受けれる小6の復習僕は小6だからこれ使ってる
 
 #### Additional Information
 - **Post color:** Black
@@ -458,7 +468,7 @@
 **Author:** 天才くん
 
 **夏休みいる？:**
-- **いる:** 1 vote
+- **いる:** 4 votes
 - **いらん:** 0 votes
 - **ドウデモイイは:** 0 votes
 
@@ -466,10 +476,14 @@
 
 **星評価:** 0 / 5 ⭐
 
+#### Comments (2)
+- **天才くん** (Jul 01, 2026 12:23pm): さすがにな、、、、
+- **おうが** (Jul 01, 2026 12:45pm): いるっしょ！！
+
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Jul 01, 2026 12:12pm
-- **Updated At (UTC):** Jul 01, 2026 12:13pm
+- **Updated At (UTC):** Jul 01, 2026 12:59pm
 
 ---
 
@@ -480,9 +494,10 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
+#### Comments (3)
 - **おうが** (Jul 01, 2026 05:44am): ごめんバンってのがないんよ
 - **あんこ** (Jul 01, 2026 07:42am): までぃかよ
+- **おうが** (Jul 01, 2026 12:45pm): すまんね
 
 #### Additional Information
 - **Post color:** Black
@@ -541,6 +556,20 @@
 - **Post color:** Black
 - **Created At (UTC):** Jun 30, 2026 12:41am
 - **Updated At (UTC):** Jun 30, 2026 12:43am
+
+---
+
+## 予約通話
+
+### 1. ⭕️⭕️と⭕️時通話したいでよろしくー
+**Author:** おうが (18jt026)
+
+**星評価:** 0 / 5 ⭐
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 01, 2026 12:47pm
+- **Updated At (UTC):** Jul 01, 2026 12:47pm
 
 ---
 
@@ -635,7 +664,7 @@
 
 <p>まじげ神　リスクもない</p>
 
-**星評価:** 5.0 / 5 ⭐ (2)
+**星評価:** 5.0 / 5 ⭐ (3)
 
 #### Comments (12)
 - **天才くん** (Jun 29, 2026 06:59am): 3人行ったら出します
@@ -702,10 +731,11 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
+#### Comments (4)
 - **ひゃほー** (Jun 30, 2026 01:37pm): なんか全部消えてるんやけど
 - **あんこ** (Jun 30, 2026 09:52pm): 一回重いので全部消したらしいです
 - **おうが** (Jul 01, 2026 02:52am): ごめんね、
+- **ヒャホー** (Jul 01, 2026 01:29pm): 了解です
 
 #### Additional Information
 - **Post color:** Black
@@ -720,6 +750,9 @@
 <p>だれかCroxyProxy系のサイトくださいできるだけたさん</p>
 
 **星評価:** 0 / 5 ⭐
+
+#### Comments (1)
+- **おうが** (Jul 01, 2026 12:46pm): ごめん持ってなかった、
 
 #### Additional Information
 - **Post color:** Black
@@ -835,7 +868,7 @@
 - **カラフルピーチどぬく推し** (Jun 29, 2026 03:48am): それな〜
 - **カラフルピーチどぬく推し** (Jul 01, 2026 03:11am): ブロスタができるサイト
 - **あんこ** (Jul 01, 2026 07:50am): 通話予約
-- **ふるさわさん** (Jul 01, 2026 09:41am): ロブロックスか、エロ
+- **おうが** (Jul 01, 2026 12:46pm): 予約ね！
 
 #### Additional Information
 - **Post color:** Black
