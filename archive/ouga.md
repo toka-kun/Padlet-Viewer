@@ -1,4 +1,4 @@
-最終取得: 2026/07/02 17:22:59
+最終取得: 2026/07/02 20:02:20
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 45
+- **Posts:** 48
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Jul 02, 2026 06:59am
+- **Updated At (UTC):** Jul 02, 2026 11:02am
 
 ## 管理者　連絡
 
@@ -137,13 +137,14 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783585439&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=sbreFSW9KZ1SYuS9anvjfk0bSH8QMPsK7QGsFhgE84Jl%2BIJhOmGJSkgXpqHk%2Fa4EaqlFN2RC0FY3yDhsbdfGu%2BGXZz2Pdl%2Bs4g%2BMa5NFYqAMK1VufSNOAJgCFuUar7QJm0710cEr4bawM1AOHuiA3AFKDk%2BjKsgqN%2FqSzYPJLks6EMNyWK8Y%2BXAgdiqhCB4YvY%2BElrbk4%2B1HURkohj8t5byS1AvIQeNE%2BvRZD6QUrMzlWT1%2Fyq4dWhwEAMCKZGu4MRW3aGctwrSbciDUR8pan2w6N58LY80mkrHuEDtlI6MZQrajORdHNvMGpHEC68GV%2BE9yHh5H6%2BRd3moUaR2t1w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783594998&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pyy%2F0dUOJl9CX6FtA6ihfGh%2BHgStru630vqOqsm4dAX%2FTpWl%2Fap1RkGbOGJodz0HRjIhWYSoaoYEbEk6L8x%2BWzL866XR5sAnPCibW6OWIohS1S%2FK5P9j3BpfG29JfBCYxK2H%2BGYcAL9jMWruMbUHz04tuuCVst9R9cfv4c%2BJRuiK7XVONnv5B6PLspioVFHP3UyfSkd%2By7xob62zdx%2FnU4OnaVQCsFzb5YBONEIkK7X1fMhg4WJvRjUhnm4xzkMW3MjHBdLz8EjaIfMkAGJjDlYhEGn8XnHpmqERs7JpeZSINke32n0mMdTgdRks9DuQkh4efHfv%2F1Jt3tRCvpNkiQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
 
-#### Comments (4)
+#### Comments (5)
 - **おうが** (Jul 01, 2026 01:55am): よろしくねーー
 - **天才くん** (Jul 01, 2026 12:11pm): ああ！なるほどだからか！
 - **おうが** (Jul 01, 2026 12:38pm): ドユコト？？www
 - **天才くん** (Jul 02, 2026 06:59am): 変な人おらんくなったから
+- **あんこ** (Jul 02, 2026 10:14am): なんかコメントいっぱいあってうれしいな♫
 
 #### Additional Information
 - **Post color:** Black
@@ -176,10 +177,11 @@
 
 ![うんこ](https://genai-public.padletcdn.com/disco/prod/imagen/1782704797404/sample_0.png)
 
-#### Comments (3)
+#### Comments (4)
 - **おうが** (Jul 01, 2026 01:56am): 給食中吹いたw
 - **天才くん** (Jul 02, 2026 06:59am): wwwwwwwww
 - **天才くん** (Jul 02, 2026 06:59am): 　
+- **あんこ** (Jul 02, 2026 10:14am): リアルすぎw
 
 #### Additional Information
 - **Post color:** Black
@@ -332,6 +334,10 @@
 **Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
+
+#### Comments (2)
+- **れいり** (Jul 02, 2026 10:01am): 垢の方でフォローしました
+- **れいり** (Jul 02, 2026 10:01am): 携帯で
 
 #### Additional Information
 - **Post color:** Black
@@ -487,9 +493,9 @@
 **Author:** 天才くん
 
 **夏休みいる？:**
-- **いる:** 10 votes
+- **いる:** 11 votes
 - **いらん:** 1 vote
-- **ドウデモイイは:** 0 votes
+- **ドウデモイイは:** 1 vote
 
 <p>投票とコメントよろ</p>
 
@@ -503,7 +509,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Jul 01, 2026 12:12pm
-- **Updated At (UTC):** Jul 02, 2026 07:00am
+- **Updated At (UTC):** Jul 02, 2026 10:14am
 
 ---
 
@@ -569,8 +575,9 @@
 
 [Attachment 1](https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィルターなんて怖くない)
 
-#### Comments (1)
+#### Comments (2)
 - **スリい** (Jun 30, 2026 01:39am): うい
+- **あんこ** (Jul 02, 2026 11:02am): ジャストミートってどうやって作るの
 
 #### Additional Information
 - **Post color:** Black
@@ -586,8 +593,15 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
+#### Comments (8)
 - **れいり** (Jul 01, 2026 11:33pm): よろしくー
+- **あんこ** (Jul 02, 2026 10:18am): m(_ _)mありがとうございます
+- **あんこ** (Jul 02, 2026 10:21am): 今日の8時いける??↓
+- **あんこ** (Jul 02, 2026 10:22am): https://meet.stuvus.uni-stuttgart.de/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E5%8D%94%E5%8A%9B%E3%81%97%E3%81%9F%E3%82%89%E3%82%A2%E3%82%A4%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%81%AA%E3%82%93%E3%81%A6%E6%80%96%E3%81%8F%E3%81%AA%E3%81%84
+- **ふるさわさん** (Jul 02, 2026 10:23am): いけるよー
+- **ふるさわさん** (Jul 02, 2026 10:23am): ごめんブロック
+- **ふるさわさん** (Jul 02, 2026 10:25am): できれば違うのいいですか？
+- **あんこ** (Jul 02, 2026 11:00am): おk
 
 #### Additional Information
 - **Post color:** Black
@@ -620,7 +634,37 @@
 
 ---
 
-### 2. クラスルームちょうだい
+### 2. みんなでゲームしまくろう
+**Author:** ーーーーーーーーーーーーーーーーーー
+
+<p>サイト共有して</p>
+
+**星評価:** 0 / 5 ⭐
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 02, 2026 10:55am
+- **Updated At (UTC):** Jul 02, 2026 10:55am
+
+---
+
+### 3. ゲームサイト知っている人全部教えてくれ
+**Author:** ーーーーーーーーーーーーーーーーーー
+
+**星評価:** 0 / 5 ⭐
+
+#### Comments (2)
+- **ーーーーーーーーーーーーーーーーーー** (Jul 02, 2026 10:52am): https://multimedia.easeus.com/jp/online-video-downloader/YouTubeダウンロードサイトです。
+- **ーーーーーーーーーーーーーーーーーー** (Jul 02, 2026 10:52am): 教えて
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 02, 2026 10:51am
+- **Updated At (UTC):** Jul 02, 2026 10:51am
+
+---
+
+### 4. クラスルームちょうだい
 **Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -632,7 +676,7 @@
 
 ---
 
-### 3. Post 3
+### 5. Post 5
 **Author:** ソラドリ
 
 **星評価:** 0 / 5 ⭐
@@ -649,7 +693,7 @@
 
 ---
 
-### 4. 桃鉄のパスワード教えて
+### 6. 桃鉄のパスワード教えて
 **Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -664,7 +708,7 @@
 
 ---
 
-### 5. Post 5
+### 7. Post 7
 **Author:** BIRUSU
 
 **星評価:** 0 / 5 ⭐
@@ -681,7 +725,7 @@
 
 ---
 
-### 6. Post 6
+### 8. Post 8
 **Author:** ますと
 
 <p><a rel="noopener noreferrer nofollow" href="https://yandex.kz/games/app/breinrot-arena-onlain-501106">Брейнрот Арена Онлайн - играть онлайн бесплатно на сервисе Яндекс&nbsp;Игры</a>ロシア語だけど我慢して</p><p><a rel="noopener noreferrer nofollow" href="https://ticket.xrcloud.jp/monocg/index?ec=event_305ba11f-ea9f-4394-819a-db14296a757f">おんらいん</a>←このとうり（（語彙力</p>
@@ -702,7 +746,7 @@
 
 ---
 
-### 7. ゲーム欲しかったら言って
+### 9. ゲーム欲しかったら言って
 **Author:** 天才くん
 
 <p>まじげ神　リスクもない</p>
@@ -732,7 +776,7 @@
 
 ---
 
-### 8. サッカー見れるサイトです
+### 10. サッカー見れるサイトです
 **Author:** おうが応援する人
 
 **星評価:** 0 / 5 ⭐
@@ -749,7 +793,7 @@
 
 ---
 
-### 9. Post 9
+### 11. Post 11
 **Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -814,7 +858,7 @@
 
 **星評価:** 3.0 / 5 ⭐ (3)
 
-#### Comments (36)
+#### Comments (39)
 - **タニモリ** (Jun 29, 2026 12:45am): https://multimedia.easeus.com/jp/online-video-downloader/
 - **タニモリ** (Jun 29, 2026 12:45am): チョコのやり方教えて〜
 - **おうが** (Jun 29, 2026 12:47am): チョコ欲しいの？
@@ -851,6 +895,9 @@
 - **ちょこ** (Jun 30, 2026 05:52am): 俺も無理や🥲
 - **カラフルピーチどぬく推し** (Jun 30, 2026 10:19am): タニモリ2人おらん？
 - **な** (Jul 01, 2026 03:09am): https://wkt-jajaja.onrender.com/loginパスワードwakame
+- **効率審査員** (Jul 02, 2026 08:44am): たぶんチョコプラスhttps://8z59xh-8000.csb.app/
+- **効率審査員** (Jul 02, 2026 08:44am): パスワード
+- **効率審査員** (Jul 02, 2026 08:45am): choco
 
 #### Additional Information
 - **Post color:** Black
@@ -861,7 +908,23 @@
 
 ## 映画　アニメ見れるサイト
 
-### 1. これ違法アップロードだから少し危険だけど、開ければ鬼滅の刃無限城編見れるよ
+### 1. 天才くんに報告
+**Author:** れいり
+
+**星評価:** 0 / 5 ⭐
+
+#### Comments (2)
+- **れいり** (Jul 02, 2026 08:56am): 雑談のとこに明石トモリンクスって書いてる！！
+- **れいり** (Jul 02, 2026 08:57am): 天才くんもしかして兵庫県明石市？
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 02, 2026 08:55am
+- **Updated At (UTC):** Jul 02, 2026 08:55am
+
+---
+
+### 2. これ違法アップロードだから少し危険だけど、開ければ鬼滅の刃無限城編見れるよ
 **Author:** フォートナイト廃課金者
 
 <p>これ開ける人言って</p><p>他のアニメとか教えるから</p>
@@ -885,7 +948,7 @@
 
 ---
 
-### 2. リクエストあったので
+### 3. リクエストあったので
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -910,7 +973,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (7)
+#### Comments (8)
 - **タニモリ** (Jun 29, 2026 01:45am): 映画　アニメが見たいな 
 - **おうが** (Jun 29, 2026 01:58am): いやセクションで
 - **ユメツバサ** (Jun 29, 2026 03:34am): 映画　アニメが見れるサイト 
@@ -918,6 +981,7 @@
 - **カラフルピーチどぬく推し** (Jul 01, 2026 03:11am): ブロスタができるサイト
 - **あんこ** (Jul 01, 2026 07:50am): 通話予約
 - **おうが** (Jul 01, 2026 12:46pm): 予約ね！
+- **あんこ** (Jul 02, 2026 10:15am): できたらほしい
 
 #### Additional Information
 - **Post color:** Black
