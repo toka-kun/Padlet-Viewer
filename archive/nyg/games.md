@@ -1,4 +1,4 @@
-最終取得: 2026/07/02 09:12:29
+最終取得: 2026/07/02 09:19:12
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
 - **Posts:** 86
 - **Created At (UTC):** Aug 27, 2024 11:14am
-- **Updated At (UTC):** Jul 01, 2026 09:54pm
+- **Updated At (UTC):** Jul 02, 2026 12:17am
 
 ## 概要
 
@@ -882,7 +882,7 @@
 
 <p>テトリス自作したんで</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1783555964&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pEmUODU4yhlooVx1LImClujFTTXzBd6bNKr4hIWPA6IMvgo9xANq6%2BciUiPIRxckr9wWuiq4kTkE%2Fs0LeNbVXh4RcHVtKVNoWMf3vS8XB%2FiSRcU2Gkyw%2BlS87WI5ZSE1OxrvlC1ZWgoibPDCm5PHZ5u0zoFJ%2FZ1%2FzXSeQZAxgoYvfMf36XnuAx3XMKFQqxmObxdjClLHvUdmBQHShO3cXSjz71VT8X%2FI%2B%2F0jLz2ntwGu1qA8uRFy70s8O141I4%2BCM9qAe%2FIuoZqiv2sYzLJaOMfZUhYiSnmJ5t5Vc%2FY5V6mMr6YcRoiMCcAbEwvNBrSqWQDeaHePikPxYVG%2BcuSzTA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1783556369&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zI3e2qGw%2FsOUE2IqAiCBiQ%2FTaPMF%2FX1iKx4jeIrm8t7eDoPNPKwH8Tsxur5x1Z0jy0kpGEWCU1Dbn%2FBNf5W3RqJ63mBF5oKaZq7K5fuWOcVb71c%2FYfi%2FJGJc9s9edeE1ETs8SuiL4ozjXy0J%2B4GMXt3tPyRzj42OlITu6bidv2c4VAew9pmebsE06YHq0AsYFQXwp0a36gIuE4%2FPz%2B0Np%2FTb%2BTDZDD0m1JifQvatnL50fBEcwEyEvjFggDUzjaRAQT6wDVzI%2BBL3J85EnVwiEZrNEgi1iy%2BNiND8C0vGcRtKciL8LbeCNXRl75YSDJptj%2B%2BWcifNcD8Ta5uZO0VtkA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
 
 #### Comments (6)
 - **RX034** (Dec 02, 2025 08:28am): 良ければどうぞ！
@@ -904,7 +904,7 @@
 
 <p>テトリスだよ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1783555964&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=CL90tp%2BBMkdvoMVnaI2oz8OYXf7ofPgxkyJlGAKdcxXt2bFgJqPs1sU00CzzT1JMlixpsrtA0Ai6wiGWpve43G9vtXXzuP0LN1mzAfapUtzTGvWTPVTBwXryw4W6c27DAC5Hskn7c51ABFKVx%2FytQ417E00WYhN5lgdHkZsIkDj8KRRaSUEUUdUPgLU8XRKpkeuI0BmeHjxi97Fi%2FMhDR6H%2FplP8jSkJrJNZMjidt65A0fv6Usq2TX8n6j168Zn4eQ3gKpEcvGBUtTxKgDV87mkCIuwCgGJVYy2UpVW1a68BiRlGh09eFDVlhKCnHrcFIFUDMn%2FbAT9bPIGZjMzxYw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1783556369&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=elN1TwJIUo5hXqteczm3AucH9%2F%2F1QFKxVjq73WBoE0X3EU7Bb%2FU%2FFryjevGww6VlBED65GsmIQ08cpgSh62osVXREyhm%2BHeHRYOPGt6%2B%2BhjZTqfkSFsOOxHFQmdPJ%2B%2FhOh4mxIFvm3XsRil4PwbNjXcgI2PaDbI26tAnDCLAym9Bx6gUvv9FkTeavZ1f22H8onylnvpQbu4IrPQEvoS0u8byXEeg856n5H7jgZ9tQWTtDElnPWWHUBKiTFejgozcm%2BPyK9%2F8Hfpil4pkSbv4XUBjLJo8voiJbVAcMfGiljxBJZMEQ6ZXuFb0xFABHjZ4ZUYHrDMYzTwZXCYFHdglcw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
 
 #### Comments (1)
 - **はるとねこ** (Nov 10, 2025 01:54am): なんか表示できねえ
@@ -921,7 +921,7 @@
 
 <p>オセロゲーム作りましたレビューください</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1783555964&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qFUHg8pI4CHZX2v9u%2Buw%2BCYLsy11rjHgDqhJxCFD0KTPBKo%2FK%2Fw%2B%2B41gfmLOjUeR1xSezLvJr5lJYUExXfA9Am9JfSAvAqIRGr6JEtta9R8LB0WODcIjgfUo5%2Fb8U28SxXB9yUi%2BB6BpA5DlUxScX%2FLPdURPXY8eZIVpPDtn1cvIF%2FtelMdj6ioYb3hKO%2FmuFvLrj7jn%2FVt0xxWswEjLsMduu%2BK1NchNr0xwOlJCxvbPkWykEr0udmHHViWuQH5FXNHanxKROIVxhTqXMVKyagBou0OHmUcLdHVLIM9d2lKsIz%2B84RF71AkqYTxblbATMn4dE5AaPbpRg4jt8AiT5Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1783556369&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pbiwoWVCSlgDkQ27WpOr8i0QO4qL1wxQs4m%2BxosX8nE0ZmHnn5g8OZSmCi%2BrTaXA8jhItXpx5umNlp6paXvbHh6cEfUtGTz4GFXa8SbQSFRJ0EVm%2F%2BADtarKe0ETZ4HT7CDgyTU7kOJFo9cAqfizaXxyX3ukigdBt6lPMAVttd2tOrgzAfMMc1u8qTM9OUZpvgtKcETJRG3vwJFUAgEUYvvVvcPQl7OsTi3zQdPkcujvgUSXt53Wot7K9zwwrozzkF2fhlqvFXHU754ahr9h7qkoTPO4BRiHme5iX7vagb6BHG5sEHajmnTB8CID3vQTLTVuKEb2dBtBo%2BHZBFn%2B4w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
 
 #### Comments (3)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 08, 2025 04:36am): 思ったよりAIが強くて負けそう:(
@@ -973,7 +973,7 @@
 
 <p>英語のみ対応です</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1783555964&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QwKfPuZLRMRtL%2Bs%2BiHnUO91UpCEUDZJ%2BmPkLMzmlt2Hk76osF1pDy%2BZFx%2FP3%2BlYBoRRxxq7rilqcdxHvSH4kcU9f27gvrdMNBXJHCDP7KcSd5REGKObjw%2FMyhr%2FPH%2BwsPR%2BZvyGbQq9zCOy7yMe0L%2FLICRWXpqz4r68GVZYKWDibcKpIeWUG4MZE9koHwl9pjOpSGrjsMa%2BavMdzNXIRSq1ettZdNjGJjMGC5f7%2BNpB6wulSEeQBiDtUNSRP9o7X2nLfaCgMejflNApdZ0KAPFvws6mOlRPtwZ63jSjQl4nz3oaGTPsuUm18xD0CoR12PMQjjRsWFlfxHvY4jlOx0g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1783556369&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7bIBeZtPi4ZSoGUVxlq19QYxwAs0M6PtAqmQSvhqg%2Fgxo%2BLOLu0AFyMzFYoinwBS9ZeFjkdGTAp7NKJc5nZcpiXccQwMlMSx24QozPXjNH1YK%2BZZuDT5H%2FAtWEwMzafRQWNfoC7xe40Q9oKB%2B7HxCW22N85VL4RckW42ygqlcg4YcNNf%2BM4zrb%2BQV3eFF3W8sroeAf5HKhp%2BB35BW8ZDv5Z%2BkKyjYCDg7XYpReczWTFXv8lVDjNOSPeNHPhnRknAO4982RXrXZ3aPDACfu%2Bn%2Fcc7JxVV%2BDuMKnR4Hixh5skiVoUkGodSYyd5tLQNm3cHBL4kN6KNvUfA63NYU6q%2F2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
 
 #### Comments (2)
 - **カービィ** (Feb 28, 2026 02:14am): どうやって進むの？
@@ -1580,7 +1580,7 @@
 
 <ul><li><p><a rel="noopener noreferrer nofollow" href="https://bloxd.io/">https://bloxd.io/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://buildhub.club/http://skillhub.vip/">https://buildhub.club/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://buildhub.club/http://skillhub.vip/">http://skillhub.vip/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://classcraft.space/">http://classcraft.space/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://classcraft.site/">http://classcraft.site/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://creativebuilding.site/">http://creativebuilding.site/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://collabspace.space/">http://collabspace.space/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://creativebuilding.space/">https://creativebuilding.space/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://unbloxd.com/">https://unbloxd.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://unbloxd.site/">https://unbloxd.site/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://bloxdunblocked.com/">https://bloxdunblocked.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://bloxdunblocked.space/">https://bloxdunblocked.space/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://unblockedbloxd.com/">https://unblockedbloxd.com/</a></p></li></ul>
 
-#### Comments (9)
+#### Comments (10)
 - **Fancy Jackrabbit** (Jan 26, 2026 12:03am): https://astral-games.onrender.com/gxmes.html新しいゲーム見つけた！
 - **simadayo** (Jan 29, 2026 11:39am): これ「↑」ブロでした
 - **Wise Bear** (Jan 31, 2026 03:51pm): https://script.google.com/macros/s/AKfycbwejYKH07rPV5pd-VkCkc8wYcGfFdxMkNeUrRq-1zCBHTtDDy_pejSORomN2F8v34ey/exec他のサーバーにあった！
@@ -1590,6 +1590,7 @@
 - **いもぼい** (Feb 14, 2026 07:18am): minefun.io
 - **tantanmen1** (Feb 17, 2026 09:12am): bloxd.io もっと欲しい
 - **Anonymous** (Mar 03, 2026 08:44am): 重い！
+- **学タブ民** (Jul 02, 2026 12:17am): 出来ない
 
 #### Additional Information
 - **Post color:** White
