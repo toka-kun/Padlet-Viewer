@@ -1,4 +1,4 @@
-最終取得: 2026/07/03 07:44:24
+最終取得: 2026/07/03 08:31:14
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 47
+- **Posts:** 49
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Jul 02, 2026 09:11pm
+- **Updated At (UTC):** Jul 02, 2026 11:29pm
 
 ## 管理者　連絡
 
@@ -105,7 +105,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (10)
+#### Comments (11)
 - **れいり** (Jul 01, 2026 03:44am): 俺も！　カラぴち
 - **れいり** (Jul 01, 2026 03:44am): あと　うりも推しかも
 - **おうが** (Jul 01, 2026 05:43am): あんまりわからないけどよろしくねー！！
@@ -116,6 +116,7 @@
 - **天才くん** (Jul 02, 2026 12:29pm): カラピチ知ってる！
 - **天才くん** (Jul 02, 2026 12:30pm): 俺の友達自分のお金スパチャにしてるらしいw
 - **おうが** (Jul 02, 2026 12:48pm): 僕のところでゲーム買ってって言っといてw
+- **カラフルピーチどぬく推し** (Jul 02, 2026 11:03pm): 宣伝でイラスト公開しました！！
 
 #### Additional Information
 - **Post color:** Black
@@ -131,7 +132,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783637123&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=CBQFs4etukgttc2ftX8%2FwXx11N1yYL9nkMQg5L3U8CE610cIiPUpdj5nMcc%2FfjW42pykkqGvVLtvlePzK7qLDpdKYHNc4FeXoMbrhAOO5n2a9boitXuHZUklG89qpR6Kohltz5RpGIj1ouxYllXxVgv2XxYLdJc0EB9haNo1V0Dx3sOEmhAwkuYcWdDF%2BE%2FTG5DkRmYIi92jLCkSY%2BC%2FnbT1sjzNQ7W%2FeSF0HaKbocd9x1OnZa7%2FCgk6%2FLfGouoCN1Y6eHJip%2BHyJSMb8F%2F7zN%2BUYtuGoILUu41mWU2MVQh9E8AFXp3Es3%2B4%2BJ3y9e6ZuOLZJNpyqZuGntrZA6k7Gw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783639932&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VTWy79cTvlkyzHdrcnubITsBLuaPZB5hvPW8wVqDtpGgynuOYuyxMTV3M6gj8TtrtjK8SBGHuAePX1Ow4P5QPLyhy1JMGKxQ5cxJ0GNkgh4evmzm40x8Q13UTXIar7lQUcSwM%2F2YhmohvTdd3Vdm2AqW0txAP3A%2FKz%2F26BuGWTMso2J5S%2FWEO6OjbQxmqJLn1RQHut6Ap5yOT%2FSwe8pHhGOdDMbNDKIH72JUAqGPYo1kwHXYYCeR195zZQYuV%2BWEffJia%2BcsqG5NlRiM9552v6zvDXs8CXIdfwSGZctDfe0BWBckW9O2twGO5EDgd2%2B4%2B6Gh2UwDEnFNG%2FGzarL6XQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
 
 #### Comments (5)
 - **おうが** (Jul 01, 2026 01:55am): よろしくねーー
@@ -167,16 +168,17 @@
 
 <p>うんこぶりぶり</p>
 
-**星評価:** 0 / 5 ⭐
+**星評価:** 1.0 / 5 ⭐ (1)
 
 ![うんこ](https://genai-public.padletcdn.com/disco/prod/imagen/1782704797404/sample_0.png)
 
-#### Comments (5)
+#### Comments (6)
 - **おうが** (Jul 01, 2026 01:56am): 給食中吹いたw
 - **天才くん** (Jul 02, 2026 06:59am): wwwwwwwww
 - **天才くん** (Jul 02, 2026 06:59am): 　
 - **あんこ** (Jul 02, 2026 10:14am): リアルすぎw
 - **おうが** (Jul 02, 2026 12:06pm): だねww
+- **カラフルピーチどぬく推し** (Jul 02, 2026 11:04pm): ちょっと良くないな…
 
 #### Additional Information
 - **Post color:** Black
@@ -264,7 +266,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (10)
+#### Comments (11)
 - **匿名** (Jun 29, 2026 01:57am): おー増えてる！
 - **匿名** (Jun 29, 2026 01:57am): おめでとー🥳
 - **おうが** (Jun 29, 2026 02:04am): ありがとーーー！！
@@ -275,6 +277,7 @@
 - **おうが** (Jul 01, 2026 12:11pm): ありがとねーーー！！
 - **GP** (Jul 02, 2026 01:30am): おめでとーーーう！！
 - **おうが** (Jul 02, 2026 12:07pm): マジでありがと！！これからも頑張るわ！
+- **カラフルピーチどぬく推し** (Jul 02, 2026 11:02pm): がんばがんば
 
 #### Additional Information
 - **Post color:** Black
@@ -285,14 +288,31 @@
 
 ## 宣伝
 
-### 1. おうがの友達です
+### 1. フォローしてくれたらゲームサイト教えちゃおっかなぁー
+**Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
+
+**星評価:** 0 / 5 ⭐
+
+#### Comments (3)
+- **れいり** (Jul 02, 2026 10:01am): 垢の方でフォローしました
+- **れいり** (Jul 02, 2026 10:01am): 携帯で
+- **カラフルピーチどぬく推し** (Jul 02, 2026 11:02pm): 10フォローで公開します
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 01, 2026 08:59am
+- **Updated At (UTC):** Jul 02, 2026 11:03pm
+
+---
+
+### 2. おうがの友達です
 **Author:** 1001さん (Haraitai)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
 [Attachment 1](https://padlet.com/Haraitai/padlet-jxmgpewlqr3h518c)
 
-#### Comments (8)
+#### Comments (11)
 - **おうが** (Jun 30, 2026 05:50am): 本当に友達です
 - **れいり** (Jun 30, 2026 05:56am): がち！？
 - **れいり** (Jun 30, 2026 05:56am): 入りました！！！？？？
@@ -301,6 +321,9 @@
 - **おうが** (Jul 01, 2026 12:12pm): タニモリさんちょっと暴言？が多いから気をつけて
 - **カラフルピーチどぬく推し** (Jul 02, 2026 05:49am): オレンジのアイコンの方です
 - **おうが** (Jul 02, 2026 12:07pm): 多分ログインしてないからアイコン変わるんよね
+- **カラフルピーチどぬく推し** (Jul 02, 2026 10:57pm): ログインしてますよ？
+- **おうが** (Jul 02, 2026 11:02pm): マジで？
+- **おうが** (Jul 02, 2026 11:02pm): ほんまや
 
 #### Additional Information
 - **Post color:** Black
@@ -309,7 +332,45 @@
 
 ---
 
-### 2. 問題！「ある乗り物」に乗っているときだけ、世界から「3つの色」が消えてしまいます。その消える3つの色とは、「赤」「白」「黄色」です。答えられるかなぁ〜😁
+### 3. なおきりさんを1年前に真似して描いた絵です！
+**Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
+
+<p>星評価お願いします🥺#なおきり#メガネ</p>
+
+**星評価:** 0 / 5 ⭐
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/1d1a4fb120107b23c252702ac2f26a6e/IMG_0043.jpeg?Expires=1783639932&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zq6a2wZLGjDho8i%2BvdHRH%2BSiakO5VEHSfg0AeZ%2Bfj6D6bUTUgGz4Rd7OelfnI2%2FTwQ1lINWER54zN577pSYgp%2Fwkio76NS05%2B1qahbq6bINaJqKWJBhuyf8brm1UcIuiTLszM4ZDkZpavGGyLzZqgvk97rIRkourKPwbnuI6%2FTmysy%2BhyoNs7eOL5YnP%2FxkiRpQFvOR8XWYMWoj4CW4PfJYkr75NKmTcOlrOUZ0vw9B6H%2BkWXiXMhXHqjiieZ%2Fd8guLIKz%2F0%2FldPDLE1DYJa4VMCZY3MeRedgvFvSc9Fbjv0p2Xc9nNwdjOqYgc68yYbu1Iu%2BayZ8ZKDEaozKJTYRQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F1d1a4fb120107b23c252702ac2f26a6e%2FIMG_0043.jpeg)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 02, 2026 11:21pm
+- **Updated At (UTC):** Jul 02, 2026 11:21pm
+
+---
+
+### 4. どぬくさんの絵を真似して描いてみました！
+**Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
+
+<p>評価お願いします！！</p>
+
+**星評価:** 5.0 / 5 ⭐ (1)
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/571358a28c78f44ce2dc7b49435f3ec3/IMG_0042.jpeg?Expires=1783639932&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=OHi6Qz3qoEZdNpZL3QB4UuXRmUZKNU89YPCCKobD7SHiEJGWs94AWcDTeZGox6LOCzrrVc%2B15EZ%2BFSKtrrtSqqjTTUrOYKBAaI7Ezsr%2FBEV5Pg4dS1SzmE3GOOZSydGcYoGa0vZKxF4ClwVul%2BbflGArZEyJakN3p0HABJ2m0Z06CinqLpAZYm0EwI2pRNxrcy1Lu6ZAylDQpyLRUxZSwcMLexXwSZ1B%2FNZaU4VqyKpzH3JVCX5IGaHLY%2BIvUw2GC6wfPOENr0hSl0Cp9GDn8uvdoPpqF6K0GuCssCN3693R8qCGMkH5dTmgB5yMegcw%2B2yNT8s45Es1hD4pLLhYwA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F571358a28c78f44ce2dc7b49435f3ec3%2FIMG_0042.jpeg)
+
+#### Comments (4)
+- **おうが** (Jul 02, 2026 11:03pm): うますぎる！！
+- **カラフルピーチどぬく推し** (Jul 02, 2026 11:04pm): あざす
+- **カラフルピーチどぬく推し** (Jul 02, 2026 11:09pm): 描いて欲しいキャラあったらお願いします
+- **カラフルピーチどぬく推し** (Jul 02, 2026 11:09pm): 下ネタ系禁止で
+
+#### Additional Information
+- **Post color:** Purple
+- **Created At (UTC):** Jul 02, 2026 10:59pm
+- **Updated At (UTC):** Jul 02, 2026 10:59pm
+
+---
+
+### 5. 問題！「ある乗り物」に乗っているときだけ、世界から「3つの色」が消えてしまいます。その消える3つの色とは、「赤」「白」「黄色」です。答えられるかなぁ〜😁
 **Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
 
 <p>答えられたらすごい👍</p>
@@ -328,23 +389,7 @@
 
 ---
 
-### 3. フォローしてくれたらゲームサイト教えちゃおっかなぁー
-**Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
-
-**星評価:** 0 / 5 ⭐
-
-#### Comments (2)
-- **れいり** (Jul 02, 2026 10:01am): 垢の方でフォローしました
-- **れいり** (Jul 02, 2026 10:01am): 携帯で
-
-#### Additional Information
-- **Post color:** Black
-- **Created At (UTC):** Jul 01, 2026 08:59am
-- **Updated At (UTC):** Jul 01, 2026 08:59am
-
----
-
-### 4. つぶあんこしあんどっち派？
+### 6. つぶあんこしあんどっち派？
 **Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -360,7 +405,7 @@
 
 ---
 
-### 5. 白あん黒あんどっち派？
+### 7. 白あん黒あんどっち派？
 **Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -375,7 +420,7 @@
 
 ---
 
-### 6. 荒らされて今3回目
+### 8. 荒らされて今3回目
 **Author:** カマキリ (00221133)
 
 <p>ぜひ来てね！</p>
@@ -395,7 +440,7 @@
 
 ---
 
-### 7. 宣伝ね
+### 9. 宣伝ね
 **Author:** おうが (18jt026)
 
 **星評価:** 3.7 / 5 ⭐ (3)
@@ -407,7 +452,7 @@
 
 ---
 
-### 8. Post 8
+### 10. Post 10
 **Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
 
 <p>ポッキーとトッポどっち派？</p>
@@ -426,7 +471,7 @@
 
 ---
 
-### 9. おうがさんがつくたブレインロットドラゴンゲットしました。
+### 11. おうがさんがつくたブレインロットドラゴンゲットしました。
 **Author:** c00lkidd (r0400295_1)
 
 **星評価:** 0 / 5 ⭐
@@ -443,7 +488,7 @@
 
 ---
 
-### 10. クールキットです
+### 12. クールキットです
 **Author:** c00lkidd (r0400295_1)
 
 <p>入ってね〜</p>
@@ -466,7 +511,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (12)
+#### Comments (13)
 - **おうが** (Jun 30, 2026 12:02am): 誰かロブロのブレロのキャラ買ってクレー
 - **おうが** (Jun 30, 2026 12:02am): 頼む！！
 - **れいり** (Jun 30, 2026 01:00am): 買えないわごめん
@@ -479,6 +524,7 @@
 - **天才くん** (Jul 01, 2026 12:08pm): ああマジか
 - **天才くん** (Jul 01, 2026 12:08pm): https://akashi.tomolinks.net/top
 - **天才くん** (Jul 01, 2026 12:22pm): あとこれhttps://19ch.tv/s6/s6.html授業受けれる小6の復習僕は小6だからこれ使ってる
+- **カラフルピーチどぬく推し** (Jul 02, 2026 11:29pm): 手越祐也天然…
 
 #### Additional Information
 - **Post color:** Black
@@ -494,11 +540,12 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5904815029/f9cfacb906fccf7b5ad1b16e2751db26/IMG_0453.jpeg?Expires=1783637123&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=XaD%2Fz7VfF7LcDuT2hn%2BSUajA1XTiwwG6%2B440s7fbC%2Ba1nL0kd1K6kZfZ%2BvHlbaUuFW8HF08XUekHfy2mkeLv%2F207XQOlHfvnGFkM0uYUY4i%2F1ftHAasgT%2Bn5nYo%2BvGhz8TpkratJilK4SmvxKiTjiqufPUCcrLCiQfypoMZfW5lSuH32bHm2GoHIc3vvS19LGIBPGsZjPnOzd9dG4xeO3tERPxckjVGGNJcNLTamoyBW6gHLBqtLoyNrBtNhjdjW1ecPLZg62CfcS62M7AQsno%2FHX0jrdpaOP0U1b3ihnwmoAUYVlg29NHol4pZ3lKreN5QvkfgvPLL%2FQzQlQjHnSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5904815029%2Ff9cfacb906fccf7b5ad1b16e2751db26%2FIMG_0453.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5904815029/f9cfacb906fccf7b5ad1b16e2751db26/IMG_0453.jpeg?Expires=1783639932&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E%2F2ntF%2FyVPtEW4LY%2FKWuyfeqX5mC1trsVOVz1OlLT%2BIUjBgG7is9eRKu01EGPn98pWOLPL%2Bf2hgp3Aq8LQaXiupsTmVtDHPjPTaY6VC1MwdxwiY9ykhLG6GVI6SWVk7RcztJ7VPNQKnv6I%2BggL6oIGCgtC3X1HvyiTEMdggV6CaV2eizrZvwoSq46t73HUXDucJI9UkJ8r7AL9kfuf9TJpLvsBiyQL5Zvoo7BH71eW9SMfABriSHpS4kvmz8iP3kk2mcJ9cPQAe9YlzqXspQ6rDYmUTi9OLGBwss1AzpEtQykDxyGLAJVZ4tEOERM2zTsZbUGv0cFo8KUKNbWTlLUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5904815029%2Ff9cfacb906fccf7b5ad1b16e2751db26%2FIMG_0453.jpeg)
 
-#### Comments (2)
+#### Comments (3)
 - **おうが** (Jul 02, 2026 12:09pm): ただの通信エラーかな？
 - **天才くん** (Jul 02, 2026 12:19pm): いつもなる
+- **カラフルピーチどぬく推し** (Jul 02, 2026 11:23pm): パドレッドって調べて最近ってところから色々入れるよ〜
 
 #### Additional Information
 - **Post color:** Black
@@ -575,7 +622,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (11)
+#### Comments (13)
 - **れいり** (Jul 01, 2026 11:33pm): よろしくー
 - **あんこ** (Jul 02, 2026 10:18am): m(_ _)mありがとうございます
 - **あんこ** (Jul 02, 2026 10:21am): 今日の8時いける??↓
@@ -587,6 +634,8 @@
 - **神蚊** (Jul 02, 2026 12:55pm): 今います
 - **神蚊** (Jul 02, 2026 12:55pm): 放置してるかも
 - **あんこ** (Jul 02, 2026 09:10pm): ごめん、参加できませんでした本当にすみません
+- **カラフルピーチどぬく推し** (Jul 02, 2026 11:01pm): チース
+- **おうが** (Jul 02, 2026 11:03pm): チース！
 
 #### Additional Information
 - **Post color:** Black
