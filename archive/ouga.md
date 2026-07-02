@@ -1,4 +1,4 @@
-最終取得: 2026/07/02 09:19:12
+最終取得: 2026/07/02 13:32:19
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 43
+- **Posts:** 44
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Jul 02, 2026 12:14am
+- **Updated At (UTC):** Jul 02, 2026 04:27am
 
 ## 管理者　連絡
 
@@ -18,12 +18,13 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (5)
+#### Comments (6)
 - **ふるさわさん** (Jul 01, 2026 09:42am): タキノキおもんないただ悪口言って目立ちたいだけでしょ？ｗ
 - **れいり** (Jul 01, 2026 09:55am): w そうかもね w
 - **カラフルピーチどぬく推し** (Jul 01, 2026 12:24pm): 誰のこと？
 - **おうが** (Jul 01, 2026 12:37pm): タキノキのことじゃないかな？
 - **おうが** (Jul 01, 2026 12:45pm): 後これはわかんないw
+- **カラフルピーチどぬく推し** (Jul 02, 2026 02:54am): 正解は人間です朝は赤ちゃんで昼は大人で夜は杖をつくおじいちゃんです
 
 #### Additional Information
 - **Post color:** Black
@@ -94,7 +95,21 @@
 
 ---
 
-### 2. どぬく推しでーす
+### 2. やっほー
+**Author:** GP (21070045_2)
+
+**星評価:** 0 / 5 ⭐
+
+[Attachment 1](https://padlet.com/21070045_2/eye-filter-mfzp8bz0bxbi6u44)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 02, 2026 01:30am
+- **Updated At (UTC):** Jul 02, 2026 01:30am
+
+---
+
+### 3. どぬく推しでーす
 **Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -115,14 +130,14 @@
 
 ---
 
-### 3. あんこです、ログインしてないときは変な人って名前でしたよろしく
+### 4. あんこです、ログインしてないときは変な人って名前でしたよろしく
 **Author:** あんこ (tdz410pyh)
 
 <p>よろしくおねがいしまーす</p>
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783556411&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FC8QVJGw43UjrJCFl28eSOZBbGaAkEFkCE1hNgrdk1WrqcZCKydCH77jOQw%2F3rc1OhSce3XzWhcr%2BAsCRH9QC4hNkXniorKGMlCmFCSLy%2FRuCSTj7XMW%2F92VhS1I7Cx0z2jaCHyGMDrk3LRMCP2vXBpjy6y56ggTJYKn17HV6jREQrukUSUHPHApoPuPmUVXUn9OzxbBGeGWlMi%2FCrgDHeC16fn4Rs77ORRlnypLFrzXvVa%2F3Lep%2Fo7ON7p%2FtD8%2Fe%2FVldYXkybM%2Fe7tXWB5qAaspXUptRvr2Hs4ywLZOCug7C%2FXPvEUwoheNvAxE24eih6Ll89bBTyBHmSsmojrmRg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783571602&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mTPqyQ0uRKPT%2FCT6uWBJVMT9HIkSUVGI5SWNsu7oi9teNzF49elCa4NjbpFGbdhoMSbrDMCcMV30lWiD%2FgV0%2B1CN%2FharN7YpJPVKGy%2FZ3tgi6j5PC1ZXl7sS%2FMnklZPBEUVD0zE%2FNLu5P%2FlvriVFWxX4%2FMhxTpblsmC4vH1DV9loooUGO%2BpHJvlfqFgMLejEAMZ4uhzCn17C0LRoPpDBdYm6I%2Bp%2Fn%2FTZ3BXK%2BAcESkTMmAyj8I8brMxOXGZmq3FiZ6fkxPAEIC81KsDDSpPO3CMOXmA9D%2FRTbBxjf8q0Fvl0WxgvYgNXdeZLs3T9%2F%2B%2BDuKp5yqpricQ4MXMghCa62g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
 
 #### Comments (3)
 - **おうが** (Jul 01, 2026 01:55am): よろしくねーー
@@ -136,7 +151,7 @@
 
 ---
 
-### 4. 友達がいない！ヘルプ！
+### 5. 友達がいない！ヘルプ！
 **Author:** 吉見
 
 **星評価:** 0 / 5 ⭐
@@ -151,7 +166,7 @@
 
 ---
 
-### 5. 💩
+### 6. 💩
 **Author:** ユメミコ
 
 <p>うんこぶりぶり</p>
@@ -170,7 +185,7 @@
 
 ---
 
-### 6. れいりの友達のスリです　宜しくお願いします
+### 7. れいりの友達のスリです　宜しくお願いします
 **Author:** スリい
 
 **星評価:** 0 / 5 ⭐
@@ -189,7 +204,7 @@
 
 ---
 
-### 7. たりもりです。
+### 8. たりもりです。
 **Author:** タニモリ
 
 <p>新参者ですかお願いします。</p>
@@ -206,7 +221,7 @@
 
 ---
 
-### 8. 改めまして
+### 9. 改めまして
 **Author:** 天才くん
 
 <p>こんにちわ</p>
@@ -224,7 +239,7 @@
 
 ---
 
-### 9. れいりです
+### 10. れいりです
 **Author:** 匿名
 
 <p>みんなと仲良くしたいです　よろしく😀😄</p>
@@ -249,7 +264,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (8)
+#### Comments (9)
 - **匿名** (Jun 29, 2026 01:57am): おー増えてる！
 - **匿名** (Jun 29, 2026 01:57am): おめでとー🥳
 - **おうが** (Jun 29, 2026 02:04am): ありがとーーー！！
@@ -258,6 +273,7 @@
 - **カラフルピーチどぬく推し** (Jul 01, 2026 09:11am): おめおめおめでとう
 - **ふるさわさん** (Jul 01, 2026 09:43am): いぇーい
 - **おうが** (Jul 01, 2026 12:11pm): ありがとねーーー！！
+- **GP** (Jul 02, 2026 01:30am): おめでとーーーう！！
 
 #### Additional Information
 - **Post color:** Black
@@ -469,7 +485,7 @@
 **Author:** 天才くん
 
 **夏休みいる？:**
-- **いる:** 6 votes
+- **いる:** 8 votes
 - **いらん:** 0 votes
 - **ドウデモイイは:** 0 votes
 
@@ -485,7 +501,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Jul 01, 2026 12:12pm
-- **Updated At (UTC):** Jul 02, 2026 12:14am
+- **Updated At (UTC):** Jul 02, 2026 04:20am
 
 ---
 
@@ -585,7 +601,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (7)
+#### Comments (8)
 - **ユメツバサ** (Jun 29, 2026 03:37am): https://sites.google.com/view/prohomework2z/dictionary
 - **アンパンマン** (Jul 01, 2026 09:45pm): https://scratch.mit.edu/studios/1168062/ みんなしてると思うけどやってみて。
 - **アンパンマン** (Jul 01, 2026 09:48pm): ごめん
@@ -593,6 +609,7 @@
 - **アンパンマン** (Jul 01, 2026 09:48pm): 本当は知ってる
 - **れいり** (Jul 01, 2026 11:34pm): 全部使えない
 - **おうが** (Jul 01, 2026 11:46pm): ブロだ
+- **ハチワレ** (Jul 02, 2026 02:50am): Geometry Dash liteができるサイトあったら教えてくださいお返しはします 
 
 #### Additional Information
 - **Post color:** Black
@@ -839,10 +856,13 @@
 
 [Attachment 1](https://archive.org/details/clideo-editor-ba6bf9a8ed93480d96b6dd5361ed31ce_E1LBRbvq)
 
-#### Comments (3)
+#### Comments (6)
 - **れいり** (Jun 30, 2026 02:10am): つかえない😱
 - **天才くん** (Jun 30, 2026 12:28pm): 同じく
 - **五条悟** (Jun 30, 2026 12:39pm): 使えん😭
+- **フォートナイト廃課金者** (Jul 02, 2026 02:44am): 使えないって言うのはブロックされたと言うことでいい？
+- **れいり** (Jul 02, 2026 03:18am): そうだよ
+- **れいり** (Jul 02, 2026 04:20am): nあ
 
 #### Additional Information
 - **Post color:** Black
