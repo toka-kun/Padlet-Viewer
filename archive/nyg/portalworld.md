@@ -1,4 +1,4 @@
-最終取得: 2026/07/03 16:49:42
+最終取得: 2026/07/03 17:29:05
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 140
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jul 03, 2026 07:46am
+- **Updated At (UTC):** Jul 03, 2026 07:59am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -81,7 +81,29 @@
 
 ## Padletポータルワールド
 
-### 1. るるるの雑談部屋！
+### 1. Proxy革命軍
+**Author:** Coolkid（元ニカーー）【東京の市I-FILTER系】 (TOKYO874321Forsaken)
+
+<p>たくさん人がいるよ！ゲームもProxyもユーチューブもたくさんあるよ！オーナーがすごい優しくてすぐ仲良くなれると思うよ！</p>
+
+**部屋の作成日:** February 17, 2026
+
+**閲覧数:** 2,500~4,999
+
+**管理者数:** 10~
+
+**モデレーター数:** 非公開
+
+[Attachment 1](https://padlet.com/padlets/5nbkargdpu0ml1tf)
+
+#### Additional Information
+- **Post color:** White
+- **Created At (UTC):** Jul 02, 2026 06:37am
+- **Updated At (UTC):** Jul 03, 2026 07:59am
+
+---
+
+### 2. るるるの雑談部屋！
 **Author:** 心は痛まなかったのか,,,少しも苦しいと思わなかったのか!！,,俺はお前を許さない,,, (rururu_pas)
 
 <p>元超大人数部屋！幅広い雑談を武器にして活気あふれる楽しい場にしています！仮面ライダーずき大歓迎‼️</p><p>・主はここでたくさん絵を描いて活動してます。気軽に話しかけてくれればいつでもリクエストに答えるよ！</p><p><br/></p><p><br/></p>
@@ -103,7 +125,7 @@
 
 ---
 
-### 2. 公開ライター
+### 3. 公開ライター
 **Author:** TEL (wants)
 
 <p>なにしてもいいよ😄</p>
@@ -121,28 +143,6 @@
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jun 29, 2026 10:20pm
-- **Updated At (UTC):** Jul 01, 2026 08:55am
-
----
-
-### 3. ミーム帝国
-**Author:** へんてこぼっくす。ネッコ隊中尉　副突撃隊長 (kurogane)
-
-<p>ここはいってないとかおわってるよ？？？</p>
-
-**部屋の作成日:** June 29, 2026
-
-**閲覧数:** 5,000~9,999
-
-**管理者数:** 10~
-
-**モデレーター数:** 10~
-
-[Attachment 1](https://padlet.com/padlets/528pciqleul94pj5)
-
-#### Additional Information
-- **Post color:** White
-- **Created At (UTC):** Jun 29, 2026 09:57am
 - **Updated At (UTC):** Jul 01, 2026 08:55am
 
 ---
@@ -3167,7 +3167,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1783669795&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=L7q8yBJpEAmnlx8B7U%2FnDoeDo1LqrlE%2FZtjktZZcLzxnbN4G%2Bx50WAS%2B%2FmOySup%2F12I12LuWfGKrEA4pKxpkF4TZLgFXNVt4XH%2FwBqy%2FgB6kA3IMYaId2LWG3jxzm7HPGkuNIDX4NtJZFNVvzx%2F6edk6Mk%2FZakSvrtvV%2FZOAI2sRjacfapnIK5tcjaqKVTkBLKFEPa%2BHRkX%2F6BFHOVHThANLCnbK0CkE%2BrG3z9XswlYNCOWUDo5Kw%2Fj%2F6kzVqWSAk1C%2B8wyiwe2GYWbFzqUg6DdlLNGsRBz5GFnlPT3nciD%2BCCmmmkW3Nf7xSy7Q5ZmXn6%2BhUgdicD9gDkQ8WpcjJA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1783672155&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mkiNivsDe1qIt4%2B69ITnrftsc19Ojt7XlXE1PIH5o4d7T4b%2FpQHaoyZodSM1yjftCsgKtSWj4TjUyY8QVsZUBBGnQzJS6FgdmJ205eEjDKUTnfmQa2sU7xGp75cxoBwfUIXbO6dyg52y2CPf1dETKbtdi5HBk97i55UOUZmH6N1G6kAIqRbPauMEiqJx7Fd%2FsjlJsQpmrArr8pTxPQYD03SnP25og4%2B1qy2h466wLLuarSbEoqRZC35ApSXv5G1%2FH4W7%2BZ4CJvHHOs1GvbBRNz%2FwxZF46nLBz63LU4OhqSrEJBAx7snZjmgXX6WmRbEWeWkRXTg5qN8FrQ71KWDMKg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
