@@ -1,4 +1,4 @@
-最終取得: 2026/07/03 08:31:14
+最終取得: 2026/07/03 09:10:30
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 49
+- **Posts:** 52
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Jul 02, 2026 11:29pm
+- **Updated At (UTC):** Jul 03, 2026 12:10am
 
 ## 管理者　連絡
 
@@ -83,7 +83,7 @@
 ### 1. 自己紹介してねー
 **Author:** おうが (18jt026)
 
-**星評価:** 0 / 5 ⭐
+**星評価:** 1.0 / 5 ⭐ (1)
 
 #### Comments (6)
 - **時透無一郎** (Jun 29, 2026 07:03am): 結構前からだけど改めて時透無一郎ですー第二の管理者でもありますよろしく
@@ -100,7 +100,19 @@
 
 ---
 
-### 2. どぬく推しでーす
+### 2. きくち
+**Author:** キクチユウジョウ (gs221038)
+
+**星評価:** 5.0 / 5 ⭐ (1)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 02, 2026 11:57pm
+- **Updated At (UTC):** Jul 02, 2026 11:57pm
+
+---
+
+### 3. どぬく推しでーす
 **Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -125,14 +137,14 @@
 
 ---
 
-### 3. あんこです、ログインしてないときは変な人って名前でしたよろしく
+### 4. あんこです、ログインしてないときは変な人って名前でしたよろしく
 **Author:** あんこ (tdz410pyh)
 
 <p>よろしくおねがいしまーす</p>
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783639932&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VTWy79cTvlkyzHdrcnubITsBLuaPZB5hvPW8wVqDtpGgynuOYuyxMTV3M6gj8TtrtjK8SBGHuAePX1Ow4P5QPLyhy1JMGKxQ5cxJ0GNkgh4evmzm40x8Q13UTXIar7lQUcSwM%2F2YhmohvTdd3Vdm2AqW0txAP3A%2FKz%2F26BuGWTMso2J5S%2FWEO6OjbQxmqJLn1RQHut6Ap5yOT%2FSwe8pHhGOdDMbNDKIH72JUAqGPYo1kwHXYYCeR195zZQYuV%2BWEffJia%2BcsqG5NlRiM9552v6zvDXs8CXIdfwSGZctDfe0BWBckW9O2twGO5EDgd2%2B4%2B6Gh2UwDEnFNG%2FGzarL6XQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783642287&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tOz9izvgRuJS83s9PFjDRloo5MXWpRcaKosoNCWZh5EYmj6XskLue6Hp63fNhxXmwod85KvIbfOt5YQOZX4BE%2FbDRKWR5m%2By6eyRn6wsU6sD%2FAtqmNEpa5Yo%2FTIU1yhtbcre453AA%2BVTdZmUfsL%2FOkcUdcwBKk5sTv5reBI4wW6Uk6FrwS8LIzHnvGBIrUQHueIqjbEfm2YsHXUfeHmf8V23JlPuDf3WrEwdsx6T0oXjL3FvvTtWra2bWphArvpay9Nn6zwvhn5S%2Bgyce2ksp6qdgamFj1PoTXPyvTwzwBZ65hiGF%2FaQ0YMHqnelWMNWD%2FvB6SSHOZQXBDvEN%2FN58w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
 
 #### Comments (5)
 - **おうが** (Jul 01, 2026 01:55am): よろしくねーー
@@ -148,7 +160,7 @@
 
 ---
 
-### 4. 友達がいない！ヘルプ！
+### 5. 友達がいない！ヘルプ！
 **Author:** 吉見
 
 **星評価:** 0 / 5 ⭐
@@ -163,7 +175,7 @@
 
 ---
 
-### 5. 💩
+### 6. 💩
 **Author:** ユメミコ
 
 <p>うんこぶりぶり</p>
@@ -187,7 +199,7 @@
 
 ---
 
-### 6. れいりの友達のスリです　宜しくお願いします
+### 7. れいりの友達のスリです　宜しくお願いします
 **Author:** スリい
 
 **星評価:** 0 / 5 ⭐
@@ -206,7 +218,7 @@
 
 ---
 
-### 7. たりもりです。
+### 8. たりもりです。
 **Author:** タニモリ
 
 <p>新参者ですかお願いします。</p>
@@ -223,7 +235,7 @@
 
 ---
 
-### 8. 改めまして
+### 9. 改めまして
 **Author:** 天才くん
 
 <p>こんにちわ</p>
@@ -241,7 +253,7 @@
 
 ---
 
-### 9. れいりです
+### 10. れいりです
 **Author:** 匿名
 
 <p>みんなと仲良くしたいです　よろしく😀😄</p>
@@ -291,7 +303,7 @@
 ### 1. フォローしてくれたらゲームサイト教えちゃおっかなぁー
 **Author:** カラフルピーチどぬく推し (karafurupichidonukutuishi4)
 
-**星評価:** 0 / 5 ⭐
+**星評価:** 1.0 / 5 ⭐ (1)
 
 #### Comments (3)
 - **れいり** (Jul 02, 2026 10:01am): 垢の方でフォローしました
@@ -339,7 +351,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/1d1a4fb120107b23c252702ac2f26a6e/IMG_0043.jpeg?Expires=1783639932&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zq6a2wZLGjDho8i%2BvdHRH%2BSiakO5VEHSfg0AeZ%2Bfj6D6bUTUgGz4Rd7OelfnI2%2FTwQ1lINWER54zN577pSYgp%2Fwkio76NS05%2B1qahbq6bINaJqKWJBhuyf8brm1UcIuiTLszM4ZDkZpavGGyLzZqgvk97rIRkourKPwbnuI6%2FTmysy%2BhyoNs7eOL5YnP%2FxkiRpQFvOR8XWYMWoj4CW4PfJYkr75NKmTcOlrOUZ0vw9B6H%2BkWXiXMhXHqjiieZ%2Fd8guLIKz%2F0%2FldPDLE1DYJa4VMCZY3MeRedgvFvSc9Fbjv0p2Xc9nNwdjOqYgc68yYbu1Iu%2BayZ8ZKDEaozKJTYRQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F1d1a4fb120107b23c252702ac2f26a6e%2FIMG_0043.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/1d1a4fb120107b23c252702ac2f26a6e/IMG_0043.jpeg?Expires=1783642287&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LIyYfCSJi0NZvhGuQOjtxBG5JaV%2FanXzUsTEAKV77ct%2FhYFxZqZqr1B7srbAJi7NKPVmsTg4SGYuIVNwfOuyM7h85bSYXAxP7w07NH2kGZJEOb%2FggcNo6Ier5EZ1ClYLOv1waLFRxZVVZFbaaHCBiqZNyjG22tPXdf1%2Bvw5XKfE98bmDOid%2FSVFra7lMIbHx9D3qemyvdOcbFRy1nf9eQfYJn9UVSsPh6rAFmXySa2syLzwK58NerynRHILjE4k0Qz%2B6NxLm1zgRS95QggIP3KjrT6o2kpabwneN%2B1Hv9t2ltbYHOIdRxjwnMqQaM7SJtLX%2BuzqAwbNCgWBQ2CUXqw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F1d1a4fb120107b23c252702ac2f26a6e%2FIMG_0043.jpeg)
 
 #### Additional Information
 - **Post color:** Black
@@ -355,7 +367,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/571358a28c78f44ce2dc7b49435f3ec3/IMG_0042.jpeg?Expires=1783639932&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=OHi6Qz3qoEZdNpZL3QB4UuXRmUZKNU89YPCCKobD7SHiEJGWs94AWcDTeZGox6LOCzrrVc%2B15EZ%2BFSKtrrtSqqjTTUrOYKBAaI7Ezsr%2FBEV5Pg4dS1SzmE3GOOZSydGcYoGa0vZKxF4ClwVul%2BbflGArZEyJakN3p0HABJ2m0Z06CinqLpAZYm0EwI2pRNxrcy1Lu6ZAylDQpyLRUxZSwcMLexXwSZ1B%2FNZaU4VqyKpzH3JVCX5IGaHLY%2BIvUw2GC6wfPOENr0hSl0Cp9GDn8uvdoPpqF6K0GuCssCN3693R8qCGMkH5dTmgB5yMegcw%2B2yNT8s45Es1hD4pLLhYwA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F571358a28c78f44ce2dc7b49435f3ec3%2FIMG_0042.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/571358a28c78f44ce2dc7b49435f3ec3/IMG_0042.jpeg?Expires=1783642287&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=IhvGmpGRToK7FIes%2FqCqI2A4jNVAhr5ggsQpsB6%2FWBkjF7SshrwJM%2BymJLhkZRMp0kf0JdwRsZw5v6ze1yhGssIH64dgN%2FP0i0uSvv%2BK5clfZUrWOedZS9wJ0cfL9YaYP%2Fixv0U%2Beg9kiSXwPqtQcZkva7w%2F3BRlkIcTRGlPlh%2F96U2lb%2FnAtBjuJVsRRMtGKYlhO7wYZVeSY9AZ%2FMoSrIyKIGmjoS8rDIe89FpfH8JOOEHbghNbVTYrmWVoQKQdq%2BYi6t1ahm6nftXuXUwJ5hCmgnuCDwpy%2FuxIP5p1tehw9KNyl2sSEdEd2dd53pkQAc%2BvDEDmAGGNccKNdvpLiw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F571358a28c78f44ce2dc7b49435f3ec3%2FIMG_0042.jpeg)
 
 #### Comments (4)
 - **おうが** (Jul 02, 2026 11:03pm): うますぎる！！
@@ -540,7 +552,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5904815029/f9cfacb906fccf7b5ad1b16e2751db26/IMG_0453.jpeg?Expires=1783639932&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E%2F2ntF%2FyVPtEW4LY%2FKWuyfeqX5mC1trsVOVz1OlLT%2BIUjBgG7is9eRKu01EGPn98pWOLPL%2Bf2hgp3Aq8LQaXiupsTmVtDHPjPTaY6VC1MwdxwiY9ykhLG6GVI6SWVk7RcztJ7VPNQKnv6I%2BggL6oIGCgtC3X1HvyiTEMdggV6CaV2eizrZvwoSq46t73HUXDucJI9UkJ8r7AL9kfuf9TJpLvsBiyQL5Zvoo7BH71eW9SMfABriSHpS4kvmz8iP3kk2mcJ9cPQAe9YlzqXspQ6rDYmUTi9OLGBwss1AzpEtQykDxyGLAJVZ4tEOERM2zTsZbUGv0cFo8KUKNbWTlLUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5904815029%2Ff9cfacb906fccf7b5ad1b16e2751db26%2FIMG_0453.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5904815029/f9cfacb906fccf7b5ad1b16e2751db26/IMG_0453.jpeg?Expires=1783642287&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=8O60VOPUmt5nCNr6DxmmcRnCgDw0csXfWIYjzk59%2BiTiimCYb%2BXZRnG809R3xUe2viAgPDDp12V8QDggjYc6SKSJGdZL%2BhJrw16hMSQ8Dg9Ql7cgr6GY6kv8laWRuLewCIUBXR1Gm44qp8a6Kj2TKaRlwXj9Zdc%2FB8y3Zw%2FFt%2FbZp6HOIwL6cbG%2F%2FuZdEAAJD2Vg9gfXTJjVZ2Z46SvH3e%2F3UzGabD7XZZjTQIGgTzBL%2BctNkqT2OQfmlK%2BibJS686D1Elo7EfykC7SnTDADxr72S9N3NR9ML%2B9rdHUGM53dp033gcp5inMkyLZynPls2EiDWBEvrmhaW7k%2FokWPKg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5904815029%2Ff9cfacb906fccf7b5ad1b16e2751db26%2FIMG_0453.jpeg)
 
 #### Comments (3)
 - **おうが** (Jul 02, 2026 12:09pm): ただの通信エラーかな？
@@ -558,7 +570,7 @@
 **Author:** 天才くん
 
 **夏休みいる？:**
-- **いる:** 13 votes
+- **いる:** 14 votes
 - **いらん:** 1 vote
 - **ドウデモイイは:** 1 vote
 
@@ -574,7 +586,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Jul 01, 2026 12:12pm
-- **Updated At (UTC):** Jul 02, 2026 12:07pm
+- **Updated At (UTC):** Jul 03, 2026 12:08am
 
 ---
 
@@ -969,7 +981,39 @@
 
 ## 映画　アニメ見れるサイト
 
-### 1. 天才くんに報告
+### 1. 住所と名前もわかったw
+**Author:** れいり
+
+**星評価:** 0 / 5 ⭐
+
+#### Comments (4)
+- **れいり** (Jul 03, 2026 12:08am): なんか調べていったらw
+- **時透無一郎** (Jul 03, 2026 12:10am): おい、、、
+- **れいり** (Jul 03, 2026 12:10am): どうした？
+- **時透無一郎** (Jul 03, 2026 12:11am): 下のやつできる？
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 03, 2026 12:08am
+- **Updated At (UTC):** Jul 03, 2026 12:08am
+
+---
+
+### 2. 映画でもアニメでもないけどNHKの番組見れる
+**Author:** 時透無一郎 (r0300353)
+
+**星評価:** 0 / 5 ⭐
+
+[Attachment 1](https://www.web.nhk/)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 03, 2026 12:08am
+- **Updated At (UTC):** Jul 03, 2026 12:08am
+
+---
+
+### 3. 天才くんに報告
 **Author:** れいり
 
 **星評価:** 0 / 5 ⭐
@@ -1000,7 +1044,7 @@
 
 ---
 
-### 2. これ違法アップロードだから少し危険だけど、開ければ鬼滅の刃無限城編見れるよ
+### 4. これ違法アップロードだから少し危険だけど、開ければ鬼滅の刃無限城編見れるよ
 **Author:** フォートナイト廃課金者
 
 <p>これ開ける人言って</p><p>他のアニメとか教えるから</p>
@@ -1024,16 +1068,17 @@
 
 ---
 
-### 3. リクエストあったので
+### 5. リクエストあったので
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (4)
+#### Comments (5)
 - **れいり** (Jun 30, 2026 12:37am): おーーー
 - **タニモリ** (Jun 30, 2026 12:51am): https://sites.google.com/view/dominumnetworkv2/dnv2
 - **れいり** (Jun 30, 2026 12:57am): 無理だ！
 - **おうが** (Jun 30, 2026 01:00am): いけた！！
+- **ヨゾラミ** (Jul 03, 2026 12:06am): ブロック（無理）
 
 #### Additional Information
 - **Post color:** Black
