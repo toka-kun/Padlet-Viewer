@@ -1,4 +1,4 @@
-最終取得: 2026/07/06 18:02:09
+最終取得: 2026/07/06 20:06:28
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **Builder:** おうが (18jt026)
-- **Posts:** 125
+- **Posts:** 128
 - **Created At (UTC):** Feb 16, 2026 11:41pm
-- **Updated At (UTC):** Jul 06, 2026 09:01am
+- **Updated At (UTC):** Jul 06, 2026 11:00am
 
 ## 管理者　連絡
 
@@ -125,7 +125,7 @@
 **Author:** れいり
 
 **おうがさんのアイコンどう思う？:**
-- **かっこいい:** 10 votes
+- **かっこいい:** 12 votes
 - **いけてるぅー:** 1 vote
 - **素晴らしい:** 1 vote
 - **あんまかな:** 3 votes
@@ -146,7 +146,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Jul 03, 2026 04:12am
-- **Updated At (UTC):** Jul 06, 2026 01:59am
+- **Updated At (UTC):** Jul 06, 2026 09:52am
 
 ---
 
@@ -313,7 +313,36 @@
 
 ## 自己紹介
 
-### 1. Rおる？
+### 1. もうほとんどここを訪れません
+**Author:** 天才くん
+
+<p>たまに来ます</p>
+
+**星評価:** 0 / 5 ⭐
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 06, 2026 10:59am
+- **Updated At (UTC):** Jul 06, 2026 10:59am
+
+---
+
+### 2. 誰かおる？
+**Author:** れいり
+
+**星評価:** 0 / 5 ⭐
+
+#### Comments (1)
+- **R** (Jul 06, 2026 10:39am): おるで
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 06, 2026 09:46am
+- **Updated At (UTC):** Jul 06, 2026 09:46am
+
+---
+
+### 3. Rおる？
 **Author:** どぬくしか勝たん (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -335,7 +364,7 @@
 
 ---
 
-### 2. おうがさんれいりさん予約通話で話しませんか？
+### 4. おうがさんれいりさん予約通話で話しませんか？
 **Author:** どぬくしか勝たん (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -351,7 +380,7 @@
 
 ---
 
-### 3. 消してるって
+### 5. 消してるって
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -375,7 +404,7 @@
 
 ---
 
-### 4. れいりきて
+### 6. れいりきて
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -390,7 +419,7 @@
 
 ---
 
-### 5. こんにちはRです。暇人です☺︎
+### 7. こんにちはRです。暇人です☺︎
 **Author:** R
 
 **星評価:** 0 / 5 ⭐
@@ -411,7 +440,7 @@
 
 ---
 
-### 6. こんにちはもやしです
+### 8. こんにちはもやしです
 **Author:** もやし
 
 **星評価:** 0 / 5 ⭐
@@ -429,7 +458,7 @@
 
 ---
 
-### 7. きて新しいブレインロット部屋
+### 9. きて新しいブレインロット部屋
 **Author:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -443,7 +472,7 @@
 
 ---
 
-### 8. マイクラのサイト投下！
+### 10. マイクラのサイト投下！
 **Author:** どぬくしか勝たん (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -462,7 +491,7 @@
 
 ---
 
-### 9. 名前変えやしたつくしです。しくよろ
+### 11. 名前変えやしたつくしです。しくよろ
 **Author:** つくし
 
 <p>おもろいでしょ？</p>
@@ -486,7 +515,7 @@
 
 ---
 
-### 10. 名前をまたまた変えました
+### 12. 名前をまたまた変えました
 **Author:** どぬくしか勝たん (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -502,7 +531,7 @@
 
 ---
 
-### 11. 新しく入った霊最です。よろ！仲良くしてね〜！
+### 13. 新しく入った霊最です。よろ！仲良くしてね〜！
 **Author:** 霊最 (namifugao)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -519,7 +548,7 @@
 
 ---
 
-### 12. 名前変えました原石です。
+### 14. 名前変えました原石です。
 **Author:** 原石
 
 <p>この名前にしたのは自分を磨か上げるという意味を込めました</p>
@@ -538,7 +567,7 @@
 
 ---
 
-### 13. 名前変えました前はカラフルピーチどぬく推しです！よろ！
+### 15. 名前変えました前はカラフルピーチどぬく推しです！よろ！
 **Author:** どぬくしか勝たん (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -554,7 +583,7 @@
 
 ---
 
-### 14. れいりです。　本物です　最近なりすましがいるので一様自己紹介しておきます
+### 16. れいりです。　本物です　最近なりすましがいるので一様自己紹介しておきます
 **Author:** れいり
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -570,7 +599,7 @@
 
 ---
 
-### 15. 自己紹介してねー
+### 17. 自己紹介してねー
 **Author:** おうが (18jt026)
 
 **星評価:** 3.0 / 5 ⭐ (2)
@@ -590,7 +619,7 @@
 
 ---
 
-### 16. こんにちわーーーーー
+### 18. こんにちわーーーーー
 **Author:** GP (21070045_2)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -612,7 +641,7 @@
 
 ---
 
-### 17. きくち
+### 19. きくち
 **Author:** キクチユウジョウ (gs221038)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -628,7 +657,7 @@
 
 ---
 
-### 18. どぬく推しでーす
+### 20. どぬく推しでーす
 **Author:** どぬくしか勝たん (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -652,14 +681,14 @@
 
 ---
 
-### 19. あんこです、ログインしてないときは変な人って名前でしたよろしく
+### 21. あんこです、ログインしてないときは変な人って名前でしたよろしく
 **Author:** あんこ (tdz410pyh)
 
 <p>よろしくおねがいしまーす</p>
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783933391&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nzhrEXc%2F%2FsZNjyqYhQGLOFZB1%2BJsKitD9OTtkFrIO97P4uBuVvufX%2FwDKCvFdh%2FiaADJecT86fWFpid5Zid11cAKCnz6kt%2FLg4fwT%2FoIly225YY38PWbEKV%2F668KpJTeoYbEB%2F2gPcZI%2FP%2FYRN7C608DmKKJHFIvWZiyHVAsDiWGCDwA%2FuJU05K8rPVdcdozVIzLeRWbXI%2F5%2Bo%2BH8oSZhrI889KyJAukQnE5Ep%2B69JSPFzzSFVi17Oi6aBBcsjaSZnbv8AHW%2Fg5NT8m7C1Gwqs75o%2BfvB8sHkOXCYGHUtum%2FmsIS4CyzGfh89FIH6EdZvBgjO5d7boFbzp3ur0jRUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1783940847&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bW5esvPDCvQseiDmCwMvJwTqRmL5SdfAuA329LjSD%2BGwUMP72rJNHdCfaJQo0KBdSAytu4o1nrBxfK3dRu4t%2BodqMtYTb9ZCPpKGEVfpTx3pAwMZJ8iaWD6%2BabUBb8V120YMa9TO35iiTGOj3QmoEMeeN4hjvfu0TA9IKy%2BzgbRyi2bN65eqRJHDx6ZI1I2Nbp04AJRz9K5yfFA7OdIxLBo5uoNylEDNv%2Ba%2BP2fDxvDzfk1XFXk1UBMvaO8g1gUlK4Kgt48fpadUZkA1%2BTvgnDI6%2FvcuFzwNbCEidu%2F0ZAql%2B0n%2BuUjbGoaRHVBXvJo%2F8SyKgGka7A1cQLtKiZXyzA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
 
 #### Comments (6)
 - **おうが** (Jul 01, 2026 01:55am): よろしくねーー
@@ -676,7 +705,7 @@
 
 ---
 
-### 20. 友達がいない！ヘルプ！
+### 22. 友達がいない！ヘルプ！
 **Author:** 吉見
 
 **星評価:** 0 / 5 ⭐
@@ -691,7 +720,7 @@
 
 ---
 
-### 21. 💩
+### 23. 💩
 **Author:** ユメミコ
 
 <p>うんこぶりぶり</p>
@@ -714,7 +743,7 @@
 
 ---
 
-### 22. れいりの友達のスリです　宜しくお願いします
+### 24. れいりの友達のスリです　宜しくお願いします
 **Author:** スリい
 
 **星評価:** 0 / 5 ⭐
@@ -734,7 +763,7 @@
 
 ---
 
-### 23. たりもりです。
+### 25. たりもりです。
 **Author:** タニモリ
 
 <p>新参者ですかお願いします。</p>
@@ -752,7 +781,7 @@
 
 ---
 
-### 24. 改めまして
+### 26. 改めまして
 **Author:** 天才くん
 
 <p>こんにちわ</p>
@@ -771,7 +800,7 @@
 
 ---
 
-### 25. れいりです
+### 27. れいりです
 **Author:** 匿名
 
 <p>みんなと仲良くしたいです　よろしく😀😄</p>
@@ -866,7 +895,25 @@
 
 ## 宣伝
 
-### 1. タニモリいる？
+### 1. 時透無一郎さん朧はってください
+**Author:** 金しか勝たん
+
+<p>お願いします</p>
+
+**星評価:** 0 / 5 ⭐
+
+#### Comments (2)
+- **れいり** (Jul 06, 2026 09:47am): https://padlet.com/r0300353/padlet-xe704h90k5x163d7
+- **れいり** (Jul 06, 2026 09:47am): これであってる？
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 06, 2026 09:46am
+- **Updated At (UTC):** Jul 06, 2026 09:46am
+
+---
+
+### 2. タニモリいる？
 **Author:** どぬくしか勝たん (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -878,7 +925,7 @@
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** 色んな人に助けられて引退する (se10230080_2)
 
 **星評価:** 0 / 5 ⭐
@@ -892,12 +939,12 @@
 
 ---
 
-### 3. おうがさんイメージ
+### 4. おうがさんイメージ
 **Author:** どぬくしか勝たん (karafurupichidonukutuishi4)
 
 **星評価:** 3.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/7f2c752b00ea70457cdca2eedc2aa1e3/IMG_0045.jpeg?Expires=1783933391&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=byU7hgXYFGE6lfbnaNWfOwJGKccojn%2BH1OfgKpn%2BI1Rh%2FPcl5eSWuzos8ES9lgnpwTnFwqIr11%2FN0SN2moKzlLpm7VuoZetYLerjxtoDin4B7whlvnxCNX26I4WT4mjmTiyBfBphDw0EDaXyUpiqLmEOsYj4mnhkY8lPpCMTXUI88nuJfTfxthIl77ztY0uVXmPmufH5ZhYs0oPgezFGl2oc5MitPXx23MWtbYkjI0U50g%2B%2BOadaqLIYjhHqB1C18DfAN1%2FfQ89%2BY%2BMEchqP9XJU5eH%2BXi4fD7kr6HQZ5rEQ3IZB%2B0h%2FG7J5xA7xc%2B40gGyTclcQ1Te1hoJq5IyXeg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F7f2c752b00ea70457cdca2eedc2aa1e3%2FIMG_0045.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/7f2c752b00ea70457cdca2eedc2aa1e3/IMG_0045.jpeg?Expires=1783940847&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=F1o5rvFBgavROfh6R36eETEnuQLSJ3ERdAjVHQ%2BmaYDDCAubQfHrvP%2F6uOirOE3kx%2B%2F0DswXD6kXnWke8FVHKAICFvB6lCYbdS13qJbyYtZ7HxESCCJZno4lFq8ns9PRfdKcXQCk4UvAXtWKU%2BGKj%2BaobaT20b4vY9N%2FYkRBG4l8f1jRfxba5e5%2FjICVtiDrmjHhqk59VK0Ue4eDPaCvTqJJ9nie6QHrHrorNIbUEFlt4M0VVRIIt3pTfGkaabLX%2BHCzrubwDQ6fnLf9Q3iyvXUIibS2hRgKBK%2FMTkCAbQgm3C7L0ShA5M6jiv%2FQHhXgvhdu2qSO1AswSDRrZAkslw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F7f2c752b00ea70457cdca2eedc2aa1e3%2FIMG_0045.jpeg)
 
 #### Comments (10)
 - **れいり** (Jul 03, 2026 02:18am): 確かに
@@ -918,7 +965,7 @@
 
 ---
 
-### 4. おうがさんに似てる？
+### 5. おうがさんに似てる？
 **Author:** れいり
 
 **星評価:** 0 / 5 ⭐
@@ -944,7 +991,7 @@
 
 ---
 
-### 5. おうがの友達です
+### 6. おうがの友達です
 **Author:** 1001さん (Haraitai)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -971,7 +1018,7 @@
 
 ---
 
-### 6. フォローしてくれたらゲームサイト教えちゃおっかなぁー
+### 7. フォローしてくれたらゲームサイト教えちゃおっかなぁー
 **Author:** どぬくしか勝たん (karafurupichidonukutuishi4)
 
 **星評価:** 3.0 / 5 ⭐ (2)
@@ -988,14 +1035,14 @@
 
 ---
 
-### 7. どぬくさんの絵を真似して描いてみました！
+### 8. どぬくさんの絵を真似して描いてみました！
 **Author:** どぬくしか勝たん (karafurupichidonukutuishi4)
 
 <p>評価お願いします！！</p>
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/571358a28c78f44ce2dc7b49435f3ec3/IMG_0042.jpeg?Expires=1783933391&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ro%2FLeCzjT8yZfMo9bqs4gfWTCGgyfV00b4RujgcJzrC6aV1Y%2Fv%2FVvqdemZ3zNqdm83fW9wEm4RlPngEYCL8J3Y65sYzQMbqGlZLFrbK4686Sg6xdhpXOm93I8fm22nl1QTvuL%2FdCgSwGnrYwTdWZ7lHflxP3vfOzi8srYtMxR3d4RMJ7vIrwSE55HC6Laz3rzSeJn6v%2BsG87btTCmUApBCG2EVcyShJAoM7LuIoMJKV%2BuHWNPv1FenHIvY60RU9TSVoWZ64A4Z3cETk9ddUu0wsBCvdAQ4Mb%2FWUoUHh6YWn%2FOwDwXkUBek%2Fq6GyISGFCJPbQ4N2AGu80zUUvYPFGjA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F571358a28c78f44ce2dc7b49435f3ec3%2FIMG_0042.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/571358a28c78f44ce2dc7b49435f3ec3/IMG_0042.jpeg?Expires=1783940847&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Qsn3Midmc38joZ1nmElCJH39ofLYLD9azfuZSdtLMvCkHrMHYgZkG41A3zyHnfRkWEKAnaVZK0sQjhoJoE6CKZn7Z3qWVaWLW5HeoDeIsna6kcBgYKJhJ50%2BtuG7hMtaq1cdyngUrSERCsWiwVfKLNb1Fo9c8KsNp%2FPKoScTu%2F%2FngIq%2FNQs%2BQIuH9w5bnHzJCTSoi3PZSu61XGpjngMtljU3cg%2FJw2sO8nke0p9J%2FPPMP6dcRr7949MW4asjJw%2B0FP8o5tSqG42oSd0rnLNkjMNMeISdze%2FzvSg2SOVVjg4obvFPzOGYb85oUwMVybuypUpLVw3CnBSft0ExzqWMwQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F571358a28c78f44ce2dc7b49435f3ec3%2FIMG_0042.jpeg)
 
 #### Comments (10)
 - **おうが** (Jul 02, 2026 11:03pm): うますぎる！！
@@ -1016,7 +1063,7 @@
 
 ---
 
-### 8. 入ったげてー
+### 9. 入ったげてー
 **Author:** おうが (18jt026)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -1035,14 +1082,14 @@
 
 ---
 
-### 9. なおきりさんを1年前に真似して描いた絵です！
+### 10. なおきりさんを1年前に真似して描いた絵です！
 **Author:** どぬくしか勝たん (karafurupichidonukutuishi4)
 
 <p>星評価お願いします🥺#なおきり#メガネ</p>
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/1d1a4fb120107b23c252702ac2f26a6e/IMG_0043.jpeg?Expires=1783933391&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jSJ6UvH%2BjnZ%2BVn%2Bk4OWBSXcUplq447f31%2BS9TfzLq53A6tIjnmBOPGNSvnxL6JbG65K1BwHJCb4cl3xDU7%2BUURepIqs64Hz88R6vQZBpmFzq%2F5Am9DobZpK1LmCqCY9i68w%2BlNyPDJe2OegYY43NFTxCw%2Fm6wBIz7MZm370rpgrRPbgSL8BjeP%2BPhcm3vhZn1hJ9M3b86GNYfrvk%2FHDMjTWg%2BX1HPST3D76SkVOGN0UZ7TkJ9Q1vz9TWoJfwQtf4JNhZCrD%2BPar3ZUueU6q91JXvudzUr2ices5SDNkFwAeyrY3DmII8%2FMhqdvmaG%2BdXmsMRMh8jqrBf2q7qer5dPw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F1d1a4fb120107b23c252702ac2f26a6e%2FIMG_0043.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/1d1a4fb120107b23c252702ac2f26a6e/IMG_0043.jpeg?Expires=1783940847&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=az072XG5t6fNipVMu0OaBS61MHt2ttoF5sOF4YN4dlZLkjpbiKj0CdO2iuNf8STFICDw58RXCLx7nOyri2A6qRKKdEqik%2FE4Qzbc5GVqOngny4tFkQ1FWl9k%2BdZM1HrQPjIY5NVxJNE74cPBX5dkJ54Xjd6LsF9hEZBgGfOA9guNRjX5wAKiC6S7TGRfailMD0aDMtj0Xu%2F652A2MN6%2BQnoZ3z1moZAxB0dIfCkBiNckY9zXTNiCPSxC1SIsrRGZaiWlu6qdHiJvZxdA4WSToipu8r%2FZwpMELXDJqzMeVDTFFRPG2rFGdh1WOHOFetDNKn%2BhjVQqKQwqm8j%2B%2Bssdug%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F1d1a4fb120107b23c252702ac2f26a6e%2FIMG_0043.jpeg)
 
 #### Comments (6)
 - **おうが** (Jul 03, 2026 02:04am): 可愛い
@@ -1059,7 +1106,7 @@
 
 ---
 
-### 10. 問題！「ある乗り物」に乗っているときだけ、世界から「3つの色」が消えてしまいます。その消える3つの色とは、「赤」「白」「黄色」です。答えられるかなぁ〜😁
+### 11. 問題！「ある乗り物」に乗っているときだけ、世界から「3つの色」が消えてしまいます。その消える3つの色とは、「赤」「白」「黄色」です。答えられるかなぁ〜😁
 **Author:** どぬくしか勝たん (karafurupichidonukutuishi4)
 
 <p>答えられたらすごい👍</p>
@@ -1078,7 +1125,7 @@
 
 ---
 
-### 11. つぶあんこしあんどっち派？
+### 12. つぶあんこしあんどっち派？
 **Author:** どぬくしか勝たん (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -1094,7 +1141,7 @@
 
 ---
 
-### 12. 白あん黒あんどっち派？
+### 13. 白あん黒あんどっち派？
 **Author:** どぬくしか勝たん (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -1109,7 +1156,7 @@
 
 ---
 
-### 13. 荒らされて今3回目
+### 14. 荒らされて今3回目
 **Author:** カマキリ (00221133)
 
 <p>ぜひ来てね！</p>
@@ -1129,7 +1176,7 @@
 
 ---
 
-### 14. 宣伝ね
+### 15. 宣伝ね
 **Author:** おうが (18jt026)
 
 **星評価:** 3.7 / 5 ⭐ (3)
@@ -1141,7 +1188,7 @@
 
 ---
 
-### 15. Post 15
+### 16. Post 16
 **Author:** どぬくしか勝たん (karafurupichidonukutuishi4)
 
 <p>ポッキーとトッポどっち派？</p>
@@ -1160,7 +1207,7 @@
 
 ---
 
-### 16. おうがさんがつくたブレインロットドラゴンゲットしました。
+### 17. おうがさんがつくたブレインロットドラゴンゲットしました。
 **Author:** c00lkidd (r0400295_1)
 
 **星評価:** 0 / 5 ⭐
@@ -1177,7 +1224,7 @@
 
 ---
 
-### 17. クールキットです
+### 18. クールキットです
 **Author:** c00lkidd (r0400295_1)
 
 <p>入ってね〜</p>
@@ -1200,7 +1247,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (10)
+#### Comments (11)
 - **れいり** (Jul 03, 2026 02:21am): うりさん
 - **れいり** (Jul 03, 2026 02:21am): たっつん！
 - **どぬくしか勝たん** (Jul 03, 2026 02:23am): 了！
@@ -1211,6 +1258,7 @@
 - **どぬくしか勝たん** (Jul 03, 2026 06:42am): 了解
 - **どぬくしか勝たん** (Jul 06, 2026 03:34am): Vtuberでもいいよ
 - **あかさか** (Jul 06, 2026 04:20am): サカモトデイズの坂本と南雲と赤尾の3人ダッグ書いてー
+- **スロ** (Jul 06, 2026 09:48am): デッサンで犬描いて
 
 #### Additional Information
 - **Post color:** Blue
@@ -1224,7 +1272,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/d9af3b8cac12f7074d8dfe0db7ce295e/IMG_0050.jpeg?Expires=1783933391&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mAyP84wPb9sSFS0O67HbL8p19fc7E3MAgCwp%2FtF6IMFeUDqLys3l0tN5kPdM%2FFXmlV8J2VaHtLwJXmgf7TKcZTgpbpg5et0mmRrechoRrOwzbwSYPrH%2BT6lLk1%2BFrJTVw8D3lEkc%2F8q1ptQqbAuSd1kiFnuKjGxQ%2FF9pcjkFwW0VmSCIJJCet6T3UKPbrbl6WsshXbcNwJVrgA53YDYIaYrcE4Y8fA1PGsaamFq2V31731oQPFtiR4zzWhKSj341HWx%2F2J14QiCxFajYrGoGyLTKuuVRi2syO0vAnX%2F2cJAuQUOyYqlAdQQRTxhyZ7Iy3r%2F15PiGyvCyu%2B7UKjMeeg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2Fd9af3b8cac12f7074d8dfe0db7ce295e%2FIMG_0050.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/d9af3b8cac12f7074d8dfe0db7ce295e/IMG_0050.jpeg?Expires=1783940847&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JJgEW47D58jAfjq4a24bdaomqEiSqHINfJ%2FbbHk4Pl5n4qdOKGKAMMsAkEeeHjHfwiGe8lPvpVM5I5txym5thqWuAp3Lenucyn6DiSesgJ1WXlwRqd0hp8e5%2BAgdX7%2B3H8KRktu5JIARm5wAgpWHx3fpt4xZwzGM%2FUVseToFZu4ZukykX1rBGQ5%2Fx0m8loBwe8x0T0IChzKfYQwDh8ZKzTttxhC%2B1aqKdjVS4hHdSEfPk7WqzVSDvShSS%2Fwc3Xr9n19N9wU2Jhtu%2B03Akm8nmxQeW%2BDvZT1szfACgr63qT04apnKj7KyyV8TJ25j%2Bb5DSSobtMUIa1tddHl2aeDm9Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2Fd9af3b8cac12f7074d8dfe0db7ce295e%2FIMG_0050.jpeg)
 
 #### Comments (4)
 - **どぬくしか勝たん** (Jul 03, 2026 06:52am): 月は画像です
@@ -1244,10 +1292,11 @@
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/69bf7f2638c3826304223939393b0d05/IMG_0049.jpeg?Expires=1783933391&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qwQhBGCBZ0Wt9TZpj28GLSlRijmXiF2NYIuaj5A8N5DoIT4u%2FWXbLnCTmoH82ui9XnWORtZiuXEKr9uvLij925gXuESewsn1sIRGrWN8RwQTvep5BuO%2FXloFhyJuTVrbmZX6w9fsvQADdayZdNohnL37rh2DAN3nnWBwXsrLUPZ3643waVv6juH3SHGgleok68opzXjHNmcshpcFZZT6kZRGAsKKfdutsOrqA1%2BBBPDner%2FlKFZn5ljWKKvGdNk4RyNRasY5OM7%2FuCXuBLoTSmV56AXVvwdRMoDG0RIqrN6Qw4uvLDUMPVPmuRQj0laWVHZI7y4nADEy0puMUboQ3w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F69bf7f2638c3826304223939393b0d05%2FIMG_0049.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/69bf7f2638c3826304223939393b0d05/IMG_0049.jpeg?Expires=1783940847&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FPI7rNXWKQFDer3ZhBKCQ9lhRM9MGcPqATcsxH5rLLJYnnHD48V9nZ%2Fhw3PjNo6tOYrEZbVtlol6mcJzw0V6s6aPC8aqZybEXZTSV1tgoqKACXjCQ7jMBxzC1UKc01lpehOqUDeC0fyDD5YQPg0tq8PsRT6gjXElnRVP69aWZ42av3gEv1IbTFS0tivfkvt1SfjZ5BbnuTeTjtwor%2F8B1r0tHExaUJO2mGPQaVq78Tlnsakm0MQRDKPV1ZWH5pq3LoSU5JvvA%2B9CO2O%2FkmYHV8NQ4NVqUFCb0z2RJx0G566ie69ZaU4k4qpzfUx7LIwHicEVYwSDB7tRYi1vHQ%2FIIA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F69bf7f2638c3826304223939393b0d05%2FIMG_0049.jpeg)
 
-#### Comments (1)
+#### Comments (2)
 - **ユメミズ** (Jul 04, 2026 12:24pm): うますぎやーしないか
+- **スロ** (Jul 06, 2026 09:51am): [Attachment](https://media2.giphy.com/media/v1.Y2lkPWNhYmM5OTE4Z3Fxejk5ODFwOHN6bnQzeGI3YzljMGhrYnBhZ3B3YnU0NGR4enlkdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a0JlsBvifB0MK7lcwD/giphy.gif) 
 
 #### Additional Information
 - **Post color:** Black
@@ -1263,9 +1312,9 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/77c87bf281c85feab60c549a6be85305/IMG_0048.png?Expires=1783933391&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EMiIBxoHn6L46Ip9D2iAgILoQRFt%2FIeNCZ%2B8%2B4%2F0FjSoZPcb8%2BVnX3yNjC0tm%2FM8BPfPZmR4femmTBTYQK52bKjKt1BtIwzAywuFSqcMUHQ5VKwQRskEwPIPFMZnWlLAxWUvr1gS0aYe7UP60V4whwDFJ4Iel5iBaAI9Po4H7JeA3cZdH3qAQF7jfZ0pl%2F8KDlA04HQ03AoibEKV%2BVv8u43UbHaZ5IcIsooGmDJA33Lh20rtbpSYuJTCubpwWSJPN1gfpwYQx1ZTyBLFOGz0grxDgn25Yc3hW338evrb5AiVSTjKx%2BJxGx9C%2FGxbA%2Fa7KqROHnV7kzzi%2F%2BJ58kVOLg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F77c87bf281c85feab60c549a6be85305%2FIMG_0048.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/77c87bf281c85feab60c549a6be85305/IMG_0048.png?Expires=1783940847&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6G8MPRCUVU74DsqiqIy3g%2Bw9MvouxoGTuXO2xqccuqz1nLpsJSlpJqdkzDKIOzPgpdDnW9PDrGH%2FihdSOL5RKqMmjAs9f3QT8qkiAv1IxwMMoLVtqYDTbqhwzJj23PquA9qg%2Fw1uS4rMxesmkzhYd7%2F7FOj%2BFJdR5MWiQPMiqCEJFPbDsOAiH4Rm70XwZ%2BWligQkh8%2BgalI3rTyD7vdQ73GMlKW3hq3bhuMvQ18bfspCmAwAy8SrV8fYx4tR58E7cPLsSJ1u%2Bl8tzmdF%2FRLzScN%2BUMXAuePMXEZKVG57i9kYsyebwZjlc2KvK51ooOmzRWfpedYvoWnyDZ1YAAk6Ow%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F77c87bf281c85feab60c549a6be85305%2FIMG_0048.png)
 
-#### Comments (7)
+#### Comments (8)
 - **おうが** (Jul 03, 2026 02:36am): これ描いたの？？
 - **どぬくしか勝たん** (Jul 03, 2026 02:39am): 文字背景は友達に送ってもらってたっつんさんは描きました
 - **おうが** (Jul 03, 2026 02:41am): それ聞こうと思ってた！！
@@ -1273,6 +1322,7 @@
 - **どぬくしか勝たん** (Jul 03, 2026 02:55am): おうがさん関西系ですか？
 - **どぬくしか勝たん** (Jul 03, 2026 04:44am): 友達に協力してもらいました早くお見せしたかったので
 - **R** (Jul 06, 2026 03:05am): これAi？右下のcとんがってる
+- **R** (Jul 06, 2026 10:48am): ごめんあとカラフルピーチの英語多分k
 
 #### Additional Information
 - **Post color:** Black
@@ -1288,8 +1338,8 @@
 
 **YOASOBIとアドとミセスどれが好き？:**
 - **YOASOBI:** 2 votes
-- **アド:** 0 votes
-- **ミセス:** 4 votes
+- **アド:** 1 vote
+- **ミセス:** 5 votes
 
 **星評価:** 0 / 5 ⭐
 
@@ -1299,7 +1349,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Jul 06, 2026 05:08am
-- **Updated At (UTC):** Jul 06, 2026 08:06am
+- **Updated At (UTC):** Jul 06, 2026 09:40am
 
 ---
 
@@ -2384,7 +2434,7 @@
 **Author:** あんこ (tdz410pyh)
 
 **youtube教えようか(知ってる人多めだと思うけど):**
-- **ほしい:** 12 votes
+- **ほしい:** 14 votes
 - **いらねぇわ、食べてやろうか:** 0 votes
 - **ワホー:** 0 votes
 - **知ってるってこと自慢すんなつぶあんかこしあん野郎:** 1 vote
@@ -2396,7 +2446,7 @@
 #### Additional Information
 - **Post color:** Black
 - **Created At (UTC):** Jul 05, 2026 11:00am
-- **Updated At (UTC):** Jul 06, 2026 08:58am
+- **Updated At (UTC):** Jul 06, 2026 10:43am
 
 ---
 
