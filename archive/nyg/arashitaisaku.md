@@ -1,4 +1,4 @@
-最終取得: 2026/07/04 00:18:37
+最終取得: 2026/07/07 16:43:36
 
 # 荒らし対策室
 
@@ -7,7 +7,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 21
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Jun 30, 2026 06:30am
+- **Updated At (UTC):** Jul 07, 2026 06:17am
 
 ## リンク集
 
@@ -163,7 +163,7 @@
 **Author:** かいと (HALVES_LOVE)
 
 #### Reactions
-- **Emojis:** 👍 (6)
+- **Emojis:** 👍 (7)
 
 #### Additional Information
 - **Post color:** White
@@ -310,7 +310,7 @@
 **Author:** 削除済みユーザー
 
 #### Reactions
-- **Emojis:** 👍 (3)
+- **Emojis:** 👍 (4)
 
 #### Additional Information
 - **Post color:** White
