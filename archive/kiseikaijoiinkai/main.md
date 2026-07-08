@@ -1,4 +1,4 @@
-最終取得: 2026/06/29 16:03:00
+最終取得: 2026/07/08 15:31:48
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 16
 - **Created At (UTC):** Apr 12, 2026 10:30am
-- **Updated At (UTC):** Jun 29, 2026 05:43am
+- **Updated At (UTC):** Jul 08, 2026 04:59am
 
 ## 受付
 
@@ -135,6 +135,9 @@ No post
 **Author:** とるっぷい (TORI_TORI2)
 
 <p>〈引用元〉</p><p><strong>scratch</strong>から</p><p><strong>703hama-2-様</strong></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwVq7TVhbGdf-CMhPIJiCnH04IfV4_usixH7RR9rFJVVAxk01TgUYTvphXt4UUccMFdxA/exec">https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwVq7TVhbGdf-CMhPIJiCnH04IfV4_usixH7RR9rFJVVAxk01TgUYTvphXt4UUccMFdxA/exec</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwnnX1oUN36dVm_EtNjWRVh3r0p4unBYujCLhVIg3z4rPPHLVvNpQC1ZzZT7z0Jimec7g/exec">https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwnnX1oUN36dVm_EtNjWRVh3r0p4unBYujCLhVIg3z4rPPHLVvNpQC1ZzZT7z0Jimec7g/exec</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwNjRZQBrOtsa7R4GFBgrbC19caz3lAAWPIXexUNofGvFe_cpnTAQU1fsHbAwAvMTZe_Q/exec">https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwNjRZQBrOtsa7R4GFBgrbC19caz3lAAWPIXexUNofGvFe_cpnTAQU1fsHbAwAvMTZe_Q/exec</a></p><p><br/></p><p>文字数制限により載せられなかった分はこちらにあります。</p><p><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1273960008/editor/">https://scratch.mit.edu/projects/1273960008/editor/</a></p>
+
+#### Comments (1)
+- **おおぬき** (Jul 08, 2026 04:59am): [Attachment](https://padlet.com/TORI_TORI2/padlet-g07iihoi22rh2q7l/wish/lkROZPprvLOOZjMg) カスタムエンドスポンドのURLを開いたときに教育委員会のセキュリティによってブロックされます。突破の方法を教えてください
 
 #### Additional Information
 - **Created At (UTC):** Apr 12, 2026 11:12am

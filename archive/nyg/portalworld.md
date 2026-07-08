@@ -1,4 +1,4 @@
-最終取得: 2026/07/08 13:34:18
+最終取得: 2026/07/08 15:31:48
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 146
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jul 08, 2026 03:58am
+- **Updated At (UTC):** Jul 08, 2026 05:44am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -19,7 +19,7 @@
 <ul><li><p><strong><mark>自分の部屋のみ</mark>投稿して下さい。</strong></p></li><li><p><strong>自分の部屋であれば複数<mark>投稿してもOK</mark>です。</strong></p></li><li><p><strong>時間が経って自分の投稿が埋もれてしまっても、<mark>一週間経てば同じ部屋を再投稿可能</mark>です。また、その場合は管理者が過去の同じ投稿を消しておきます。</strong></p></li><li><p><strong>Padletの規約に反する部屋や、こちらで不適切だと判断した投稿は見つけ次第削除します。</strong></p></li><li><p><strong>多少の誤字などであればこちらで修正します。</strong></p></li><li><p><strong>AIに引っ掛かって承認待ちになっても人の目でもう一度確認するので安心して下さい。</strong></p></li><li><p><strong>「過疎ってるから来て」などと言うのではなく、<mark>その部屋の良さを誠実に書いた方が人は来てくれます</mark>。</strong></p></li><li><p><strong>何を書けば良いのか分からない場合は、サンプルを参考にして下さい。</strong></p></li></ul>
 
 #### Comments (1)
-- **Coolkid（元ニカーー）【東京の市I-FILTER系】** (Jun 19, 2026 11:54pm): わかりました！
+- **Coolkid（元ニカーー）#krtk22番弟子** (Jun 19, 2026 11:54pm): わかりました！
 
 #### Reactions
 - **Emojis:** ❤️ (5)
@@ -219,7 +219,7 @@
 ---
 
 ### 7. Proxy革命軍
-**Author:** Coolkid（元ニカーー）【東京の市I-FILTER系】 (TOKYO874321Forsaken)
+**Author:** Coolkid（元ニカーー）#krtk22番弟子 (TOKYO874321Forsaken)
 
 <p>たくさん人がいるよ！ゲームもProxyもユーチューブもたくさんあるよ！オーナーがすごい優しくてすぐ仲良くなれると思うよ！</p>
 
@@ -417,7 +417,7 @@
 ---
 
 ### 16. ２代目みんなで共有しよう！
-**Author:** Coolkid（元ニカーー）【東京の市I-FILTER系】 (TOKYO874321Forsaken)
+**Author:** Coolkid（元ニカーー）#krtk22番弟子 (TOKYO874321Forsaken)
 
 <p>プロキシ、ゲーム、YouTube、その他サイトがたくさんあるよ！雑談もしよう！</p>
 
@@ -441,7 +441,7 @@
 ---
 
 ### 17. みんなで雑談しよう
-**Author:** Coolkid（元ニカーー）【東京の市I-FILTER系】 (TOKYO874321Forsaken)
+**Author:** Coolkid（元ニカーー）#krtk22番弟子 (TOKYO874321Forsaken)
 
 <p>出来立てですがみんなで仲良く楽しく雑談する部屋だよ</p>
 
@@ -839,7 +839,7 @@
 ---
 
 ### 34. ２代目みんなで共有しよう！
-**Author:** Coolkid（元ニカーー）【東京の市I-FILTER系】 (TOKYO874321Forsaken)
+**Author:** Coolkid（元ニカーー）#krtk22番弟子 (TOKYO874321Forsaken)
 
 <p>最強プロキシや、最強のYouTubeダウンローダー、ゲームもたくさんあります！ぜひ来てください！みんなで楽しく仲良く色々共有しましょう！</p>
 
@@ -1237,7 +1237,7 @@
 ---
 
 ### 51. みんなで共有しよう2
-**Author:** Coolkid（元ニカーー）【東京の市I-FILTER系】 (TOKYO874321Forsaken)
+**Author:** Coolkid（元ニカーー）#krtk22番弟子 (TOKYO874321Forsaken)
 
 <p>プロキシ、YouTube（ダウンローダーも）、ゲーム、SNSダウンローダー色々あるよみんな来てね（受付）</p>
 
@@ -3304,7 +3304,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1784090068&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NfdZ5Tj9u6Jn88%2Fp%2BFMcIGwBbVGc7sAfulSFRImPEjLl%2B3pmBsPamDeIsCNyYZalgh%2B%2FzCuNepbEl%2BOjzlvr38SJIco0ohF5pMyYD6fud6QQK0Cic5wKx%2BrQ4Ztn6lD4zN4hewShsf1hVR5eJqYKi9qt76ITFad%2FRXzEMeSESJgIDb4mkXRWEV0hrCceVFb%2BeBIPDt4rzNOg2c1TUvoBrSybWPesLUfQ7eD6vq%2BPpoG0D9tExYOFWKkhgvvYUxDdvXdAbik5aQz4jJF2rJ6%2FN3Ixw2nqGpIpKC90F%2Fm9bLatmdUrSRnnbka4yZZGYh3edq%2Bfu2sZw5HMYi%2FhnmXXPg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1784097119&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Y1ZtYAextAO4Lz3zdXy41fSkE1vuu3w3iRG%2BNGmJkXhQclGMkUO5mkbAkTwnbgltKnjJ1DFFDlmooU%2BzodM7OK1tfQdAM%2F%2B9FA8OVxVbWfVIJB2Hy021LgbxQntzjez61hjxkpgfWVgj1tskn7MojFV%2BVX1WHouHBkCH%2F2P%2Bu3C9I35qoVpmDK48R4wX17ribMVWkA%2FZ2nJNvhP6OTBTVA9EYGX06dvZoQi2TqkjH9R6VPB%2B7oUnasJwu1lF%2BTHmAiBes6ocxG4jglxAup5y0mt7pbCSt6MfCumlLWPKVQ1XlWjVQovUY5q15Y9ao%2F1YanzSh5hJaYC1OTI7zWWEmQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
