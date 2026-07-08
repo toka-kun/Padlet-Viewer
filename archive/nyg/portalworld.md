@@ -1,4 +1,4 @@
-最終取得: 2026/07/08 16:16:53
+最終取得: 2026/07/08 18:27:42
 
 # Padletポータルワールド
 
@@ -19,7 +19,7 @@
 <ul><li><p><strong><mark>自分の部屋のみ</mark>投稿して下さい。</strong></p></li><li><p><strong>自分の部屋であれば複数<mark>投稿してもOK</mark>です。</strong></p></li><li><p><strong>時間が経って自分の投稿が埋もれてしまっても、<mark>一週間経てば同じ部屋を再投稿可能</mark>です。また、その場合は管理者が過去の同じ投稿を消しておきます。</strong></p></li><li><p><strong>Padletの規約に反する部屋や、こちらで不適切だと判断した投稿は見つけ次第削除します。</strong></p></li><li><p><strong>多少の誤字などであればこちらで修正します。</strong></p></li><li><p><strong>AIに引っ掛かって承認待ちになっても人の目でもう一度確認するので安心して下さい。</strong></p></li><li><p><strong>「過疎ってるから来て」などと言うのではなく、<mark>その部屋の良さを誠実に書いた方が人は来てくれます</mark>。</strong></p></li><li><p><strong>何を書けば良いのか分からない場合は、サンプルを参考にして下さい。</strong></p></li></ul>
 
 #### Comments (1)
-- **Coolkid（元ニカーー）#krtk22番弟子** (Jun 19, 2026 11:54pm): わかりました！
+- **Coolkid（元ニカーー）#krtkさんの22番弟子** (Jun 19, 2026 11:54pm): わかりました！
 
 #### Reactions
 - **Emojis:** ❤️ (5)
@@ -219,7 +219,7 @@
 ---
 
 ### 7. Proxy革命軍
-**Author:** Coolkid（元ニカーー）#krtk22番弟子 (TOKYO874321Forsaken)
+**Author:** Coolkid（元ニカーー）#krtkさんの22番弟子 (TOKYO874321Forsaken)
 
 <p>たくさん人がいるよ！ゲームもProxyもユーチューブもたくさんあるよ！オーナーがすごい優しくてすぐ仲良くなれると思うよ！</p>
 
@@ -417,7 +417,7 @@
 ---
 
 ### 16. ２代目みんなで共有しよう！
-**Author:** Coolkid（元ニカーー）#krtk22番弟子 (TOKYO874321Forsaken)
+**Author:** Coolkid（元ニカーー）#krtkさんの22番弟子 (TOKYO874321Forsaken)
 
 <p>プロキシ、ゲーム、YouTube、その他サイトがたくさんあるよ！雑談もしよう！</p>
 
@@ -441,7 +441,7 @@
 ---
 
 ### 17. みんなで雑談しよう
-**Author:** Coolkid（元ニカーー）#krtk22番弟子 (TOKYO874321Forsaken)
+**Author:** Coolkid（元ニカーー）#krtkさんの22番弟子 (TOKYO874321Forsaken)
 
 <p>出来立てですがみんなで仲良く楽しく雑談する部屋だよ</p>
 
@@ -839,7 +839,7 @@
 ---
 
 ### 34. ２代目みんなで共有しよう！
-**Author:** Coolkid（元ニカーー）#krtk22番弟子 (TOKYO874321Forsaken)
+**Author:** Coolkid（元ニカーー）#krtkさんの22番弟子 (TOKYO874321Forsaken)
 
 <p>最強プロキシや、最強のYouTubeダウンローダー、ゲームもたくさんあります！ぜひ来てください！みんなで楽しく仲良く色々共有しましょう！</p>
 
@@ -1237,7 +1237,7 @@
 ---
 
 ### 51. みんなで共有しよう2
-**Author:** Coolkid（元ニカーー）#krtk22番弟子 (TOKYO874321Forsaken)
+**Author:** Coolkid（元ニカーー）#krtkさんの22番弟子 (TOKYO874321Forsaken)
 
 <p>プロキシ、YouTube（ダウンローダーも）、ゲーム、SNSダウンローダー色々あるよみんな来てね（受付）</p>
 
@@ -3304,7 +3304,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1784099824&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Gh3xJgm8fUQM0IdZ%2Fa%2FMIoA7nzrVdud3IXoIhVhKN3l6vj82l7A3C4r6NuTB4nY8FkBi4eXfJfEIfDwqthVP7qJBXOq3vzjvAMfu4QgKzkFtbWm8Ed72mOiKdaq0cqRDIQEtJhm2Vqlb1CIignqNK8jqG72Q2ctsMBgb4N0qDem%2BftUQdKXQn1OJ5oJrN%2BXZ6fz90e77cSg22Pg3xniTEXH2xJI%2BygIYDxm%2Fgf1FHl8lmJdwhlI7VKekSQ2Kjs%2BsZ0RcnqhbeZ3ueCifwZTsT6LH5jpwU9mWltuLdSAfyGGgsMOMBXJtUpcL%2FogDRXE75XfktDL%2FcUbsWhjQps%2FBtw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1784107673&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=a6UThGXAtX0Fenq%2F6EMFGk%2FoyfW2mHXmorfJWCuljWFiqRQ3CfWakIszHuyoKDzw%2FX9e8RFmHBdoKvo75YzqzHjbFu3YbdRh0agbcK0ziCKyPB1ZxX46FmA4nuQBTdLBvXr34JmP%2BRxWB1a92jmDXZz24aKlvc55S%2BpyTHSLXlDDNshLSoGl840kLdViSqxIFFpDZ9PR5lCp%2BBoxPUYXvP75j0OLCcjNqr3P4WiwwUpWNalbHcSeqGzWrPw029eyyGCJ6g1vjls2qRIhNq6m8QcAijhwwR13dqh%2BMfv6OYwEMrhNmEGrOWr4xqwfjkslxKICmgsqdg8ZkgCt99hhDQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
