@@ -1,4 +1,4 @@
-最終取得: 2026/07/01 13:55:32
+最終取得: 2026/07/09 13:36:17
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 17
+- **Posts:** 18
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Jul 01, 2026 03:25am
+- **Updated At (UTC):** Jul 09, 2026 03:55am
 
 ## ルール
 
@@ -77,7 +77,21 @@
 
 ---
 
-### 4. こんにちはこれ開きたいんですけどブロックされますどうすればいいですか
+### 4. ティックトック
+**Author:** 嶋勇󠄂人 (21920012)
+
+<p><br/></p><p><br/></p>
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1784176616&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=efSAjrtJzzw4WYysl71if2s4okV6aCSN95u%2FI%2B3Cu9xWXgDqh%2BgluiLHCNJsyeq7IGEB24pq9RP3SbN1Cqy830jSJw5x0pN8IXJKd%2Fn6%2BS41fCnVSF%2B3y9Cqg81Jy%2Byx2fwVQiCsAJsKARZD2vm7BUWqE4WaLnAKdo74MjWuzAQtwuPF%2BKhgwC3uRAI3tl8TnI%2BRdwyUUeG1FO1ybCA6eZDFUgVFFUC%2Bfk7girJpMZanT8Jf%2FTAy2VDYyjbMHvxsMWYV%2BUARh4YzZ4EviBDjsxFabF79nXd%2FvLmMQB5BX9r6U2Lq%2B9N%2FargBWoPJOx5u5AZFDtU%2FeKhc7T0ydGE4Sw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 09, 2026 03:55am
+- **Updated At (UTC):** Jul 09, 2026 03:55am
+
+---
+
+### 5. こんにちはこれ開きたいんですけどブロックされますどうすればいいですか
 **Author:** なしまる
 
 [Attachment 1](https://mess.eu.org/)
@@ -89,7 +103,7 @@
 
 ---
 
-### 5. こんにちは
+### 6. こんにちは
 **Author:** おんりーのふぁん (gs212336)
 
 #### Additional Information
@@ -99,7 +113,7 @@
 
 ---
 
-### 6. aiyueo
+### 7. aiyueo
 **Author:** カワスミ
 
 #### Additional Information
@@ -109,7 +123,7 @@
 
 ---
 
-### 7. 規制解除してくださいお願いします。
+### 8. 規制解除してくださいお願いします。
 **Author:** 川村茜寧 (22117257)
 
 #### Additional Information
@@ -119,7 +133,7 @@
 
 ---
 
-### 8. Post 8
+### 9. Post 9
 **Author:** ハイノヤマト (se21210122)
 
 <p>こんにちは</p>
