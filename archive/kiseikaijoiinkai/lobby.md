@@ -1,4 +1,4 @@
-最終取得: 2026/07/09 17:05:35
+最終取得: 2026/07/09 17:31:01
 
 # 規制解除委員会(ライター受付)
 
@@ -82,7 +82,7 @@
 
 <p><br/></p><p><br/></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1784189171&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PTh9xHrPmxvN11bqO3YL%2FXqKwHeU%2FaA6sRgCaCcCjQClgbvXlRVFSnE2eP1%2B0iaJVtahYFi2yBnMojLp1nwk25o73Z4KAP6o%2BD4%2FQsI4rAG0D0wLT2BPtsf3teDaDfTXcQi8AptWu31DPDp5LQmQo9of66kKwCaiXMyN%2BB4UoQNucsTu1H7P1gEk1Uh7sJc%2BwsTEa2u%2FsTkNI6yrko1KUKoj6DNPz5hv7G1vsxxVT09BEuy0UEbY8ZnNntkpBX8o7X88PYRrOx1vTHDcHefEVJTyWraF1TU%2B3ikqE3eVaXBUvDbzgsTIqg0ccPl%2BEHCRfMsKdRjLauiNMdyfVpmx1Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1784190696&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qWxgVInCoutpdIVUwJYTGMPdkU%2FRDd2vbS807FUmQASM8ESMETTvumoos3BVjzTcMrP8oaefR%2FtG%2FNK7vOPnl7bwdLhPO%2B7w%2BgSxxbzqRN6KC535%2F%2BHQnDVevpgsLLfR0p04ELfs0bojQluPSFjGRaJ6Jap0jjQUWrox8C1a3k1k5uKllmXnFEX7KZ7WFYlxgjraXJUYCtGAT3KrAZYSn7ewItocFTAJ6vDSas1il4cfBiD9ruteqMh9mRNaI4RHqcs3vHr5sFTCYHLA1Hs6fEogVjNhfY%2BhyvHWaWV8YJeRIvPE3UGuveGnjVaCHma5XEq%2FGIrWBWP44RLC7W5JRA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Additional Information
 - **Post color:** Black
