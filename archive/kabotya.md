@@ -1,13 +1,13 @@
-最終取得: 2026/06/29 14:01:22
+最終取得: 2026/07/11 07:38:10
 
 # 規制突破の世界
 
 ## 要約
 - **リンク:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **所有者:** かぼちゃ (kabotya)
-- **投稿:** 829
+- **投稿:** 540
 - **作成日（UTC）:** 08/20 06:37
-- **更新日（UTC）:** 06/29 04:44
+- **更新日（UTC）:** 07/10 12:33
 
 ## 荒らし以外なんでも
 
@@ -18,540 +18,633 @@
 
 [添付ファイル 1](https://padlet.com/kabot/padlet-6lijhbsdzi3ku2na)
 
-#### コメント (7)
-- **れいり** (06/10 04:38): 荒らし部屋もう一回作😜
-- **れいり** (06/10 04:38): 作って
-- **青月 くん　。🤪💙💜　꒰ঌ12.12໒꒱** (06/14 01:55): れるち
-- **ピク人** (06/16 05:09): おぉ！ 
-- **ピク人** (06/16 05:09): れいりやん 
-- **ピク人** (06/16 05:09): 😀
-- **ががが** (06/25 05:56): https://top-medical-schools.org/
-
-#### リアクション
-- **絵文字:** 👍 (1)
+#### コメント (15)
+- **ハツアキ** (07/03 00:05): おなにー
+- **パブロ・ディエゴ・ホセ・フランシスコ・デ・パウラ・フアン・ネポムセーノ・マリア・デ・ロス・レメディオス・クリスピーン・クリスピアーノ・デ・ラ・サンティシマ・トリニダード** (07/03 01:27): @ハツアキ　で？はい論破。顔真っ赤ww
+- **カゲヒナタ** (07/03 02:35): はい論破とか、インキャかよw 
+- **カゲヒナタ** (07/03 02:36): ネットでしかイキれない奴がw 
+- **スタバの神** (07/06 10:59): それなwwww
+- **れいり** (07/06 12:47): まじでそれなww ww w w w っww w w
+- **純白の天使ラフレシア** (07/07 03:58): うおｗどわーｗｗきちぃーｗｗお、おうｗｗ
+- **ははははははは** (07/07 22:45): かかかかかっけー
+- **ははははははは** (07/09 01:47): ｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
+- **バスケ大好きにき** (07/09 02:09): か、かっけーー
+- **Coolkid（元ニカーー）#krtkさんの22番弟子** (07/09 07:08): 論破ってチー牛が言うことじゃない？名前キンモ
+- **ソラユキ** (07/09 23:20): どわー
+- **Anonymous** (07/10 01:13): イクイクイクイクwww
+- **フィルター&荒らし討伐隊** (07/10 02:32): ハツアキやばい
+- **ハナシロ** (07/10 12:33): かわいそうだろバカ、考えろ  
 
 #### その他の情報
 - **投稿のカラー:** パープル
-- **作成日（UTC）:** 06/05 12:09
-- **更新日（UTC）:** 06/05 12:09
+- **作成日（UTC）:** 07/02 11:43
+- **更新日（UTC）:** 07/02 11:43
 
 ---
 
-### 2. 投稿 2
-**作成者:** ナミウサギ
+### 2. いやあああ
+**作成者:** 芳野ぶんじ (1920370840)
 
-<p>あらすねああ</p>
+<p>ああああ</p>
+
+[添付ファイル 1](https://mur4i.github.io/nativegames/subwaysurfers/)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 23:00
-- **更新日（UTC）:** 06/28 23:00
+- **作成日（UTC）:** 07/10 04:19
+- **更新日（UTC）:** 07/10 04:19
 
 ---
 
-### 3. あらすな
-**作成者:** 焼き止めと
+### 3. 投稿 3
+**作成者:** バスケ大好きにき (2101021_18)
+
+<p>入ってほしいで！</p>
+
+[添付ファイル 1](https://padlet.com/2101021_18/padlet-q4lp8mlvakjrqb4z)
+
+#### コメント (1)
+- **フィルター&荒らし討伐隊** (07/10 02:50): はい！
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 10:04
-- **更新日（UTC）:** 06/28 10:04
+- **作成日（UTC）:** 07/10 02:49
+- **更新日（UTC）:** 07/10 02:49
 
 ---
 
-### 4. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 4. https://padlet.com/2101021_18/padlet-q4lp8mlvakjrqb4z
+**作成者:** バスケ大好きにき (2101021_18)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+<p>入ってくれ有名にしたい！</p>
+
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5835939075/08051cb76a0a4c98c0cc184a1380d109/Screenshot_2026_07_09_12_34_45.png?Expires=1784327743&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wxfRgFLVV3Az3lXpnC9FVOijeg48xamtQebFlhJK4LD9%2FLxTO8y4r7nA%2B%2FzmvqDFpV3mWlhhaCy5GPAaOVlZ2b0J1gzMiUXt4uEUCR7mpg51KpMv%2FkPc7GgCwGd26A0ifXjmIlOMMWSUQB6wse18PCaiV5nRcl3op%2F%2BLMP2HCFd97bVkYV5IrC9s97r5lRPeAeH49%2BBYWAxmDKp56S3qWNeqEolvYigsqxG%2B7IrX2da9yRjPdC7d%2BOPHvsmNhT4hcWDSHCnhtEot3lYUNc6EQjpATIH4UYqdXl1vriDJg538B6fisXYhK3eVyxnMfa7T546stGMNL8gw%2BfJdWdRCHQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5835939075%2F08051cb76a0a4c98c0cc184a1380d109%2FScreenshot_2026_07_09_12_34_45.png)
+
+#### コメント (1)
+- **フィルター&荒らし討伐隊** (07/10 02:49): はーい！
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/10 02:49
+- **更新日（UTC）:** 07/10 02:49
 
 ---
 
-### 5. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 5. BAN覚悟です。（匿名がBANされるかは知りません）皆さんに＊エロ＊を届けるために
+**作成者:** エロが大好きなエンジョイ勢
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5935454613/6a76bf3edba8e9067861906d00025286/IMG_0189.jpeg?Expires=1784327743&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VScbg9G6eo3D5IHy9WyRlEweqN61EY2PMil2lej%2BW6K0Wes%2B%2FN%2FVsCHxp769yatLsSsn2WseKp2i4Eoq8067EIEE2jpGJNA%2Fbz9FMejGS5tGwiLqC0VUDICCuZzmX3eAYLeg604IBx9g%2B09FEq3YGEY%2BDLdOHypifATvj%2BzNAgqfSsaRWOA0cZCbZz8VZDVRhtMMqkPIOKwHq3f4HF1K6uFeYAKepxoqdzTKcgJBc%2FhLsnpFZxWIkwY1%2FHbYo3Minvnj5xMUueXnjV0sJ%2F9UOHiRuY069mRPTxdpEinP5jvn2fkuqV24S8aoB7gSkJvMTN0QpyUcn9tofgKqzrxNdA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5935454613%2F6a76bf3edba8e9067861906d00025286%2FIMG_0189.jpeg)
+
+#### コメント (1)
+- **カワホタル** (07/09 12:57): 見れないー
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/09 12:53
+- **更新日（UTC）:** 07/09 12:55
 
 ---
 
-### 6. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 6. da-ku
+**作成者:** Ｍｒ．寿司
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5933761890/65d945d6dd2231132525b4d497cb6213/Screenshot_2026_07_09_12_25_09.png?Expires=1784327743&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FWEP%2F%2F%2BRcUiwugr3Q1GGwSfaUJLwUf1QhT7lROy72ASMG0G5WIqvpJlgELaf0pKoJKBO%2Fblm6O6liFtEZTL83l8pD%2BbbmcQrO6q8PR4DNxvMRaoViVrhcR3zcraEUkPO4VWZmkLvxC%2Fqud0ZkZZ69tkTPyA7WL70KAF9bFVDn6LRFb13M5LJpzrgE8IuNjmFsjhRbqfwNWHAUJyPsJorXAyHgnoc4jMyRCNtRD536F4sV4ABn1%2FDmx0IyXqIG2WjSucUl%2BZ4cBGaVsX9DTUvzGXSgrd6qMo7tiyihTaB9uajusNfrpvFQuiZ57lkpIlND5wC7Z76pvxkzgCl4Avs7Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933761890%2F65d945d6dd2231132525b4d497cb6213%2FScreenshot_2026_07_09_12_25_09.png)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/09 05:00
+- **更新日（UTC）:** 07/09 05:00
 
 ---
 
-### 7. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+### 7. スマブラ民
+**作成者:** 天災
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/09 04:09
+- **更新日（UTC）:** 07/09 04:09
 
 ---
 
-### 8. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+### 8. 暇人
+**作成者:** 天災
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/09 03:49
+- **更新日（UTC）:** 07/09 03:49
 
 ---
 
-### 9. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 9. 投稿 9
+**作成者:** バスケ大好きにき (2101021_18)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+[添付ファイル 1](https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/09 03:23
+- **更新日（UTC）:** 07/09 03:23
 
 ---
 
-### 10. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+### 10. スマブラ♥
+**作成者:** だかいさん
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/09 03:10
+- **更新日（UTC）:** 07/09 03:10
 
 ---
 
-### 11. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+### 11. さよはるき
+**作成者:** ユメミ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/09 02:55
+- **更新日（UTC）:** 07/09 02:55
 
 ---
 
-### 12. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+### 12. 大須賀ゆうきです
+**作成者:** ユメミ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/09 02:52
+- **更新日（UTC）:** 07/09 02:52
 
 ---
 
-### 13. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 13. れいり
+**作成者:** ハナニジ
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+#### コメント (1)
+- **おうが応援する人（れいり）** (07/09 04:23): 何？
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/09 02:23
+- **更新日（UTC）:** 07/09 02:23
 
 ---
 
-### 14. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 14. 投稿 14
+**作成者:** 人の名前を真似した人
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5932013614/0d5d3641148e65f77d307ab9e5a802e3/IMG_0258.jpeg?Expires=1784327743&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kPeE3J6w897bT31F9sEzEvmFbgWApYKsYiR92RGNr6z9fxAHQ9hXWdTwnScrzrqduO%2BaOa8K9l21aU2x%2F75i2QOOFaH6z2lpEd62MsVz1hF%2Ftr4GFHT9gpMTyJaCCopNC7pq8s8syULBjg%2BAclbPl7GsEeryRqNe9lEoMqtMClAXWU1FxnnOpWknC03kS%2Bt4ZPFjXa51UfXOwEVGXVJQrAcifkA5Kg5EBY%2Fn00QI2HBSZ6ueJsWXdmeq2kLdWL%2BbO3pEPMPzNnEXOLMTnHZjMHIoFKMzV3SSL2dPacgbXNYFwPLU3FSqExWyiCgk2VhDo9NIwbyANg4WdMfYACsc9Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5932013614%2F0d5d3641148e65f77d307ab9e5a802e3%2FIMG_0258.jpeg)
+
+#### コメント (130)
+- **おうがさん応援する人** (07/08 23:36): 全然いいよ
+- **アメコマ** (07/09 02:22): それ反省してる？　舐めてるの？春樹
+- **アメコマ** (07/09 02:27): おい　春樹なんか返せや！！
+- **匿名** (07/09 02:27): はるきしね！
+- **おいち** (07/09 02:28): お前戸次中 
+- **匿名** (07/09 02:29): あ
+- **アメコマ** (07/09 02:29): 笑笑ついに中学校まで知られたか笑笑www
+- **あかさたな** (07/09 02:29): やめよーやー
+- **匿名** (07/09 02:30): やめろって
+- **アメコマ** (07/09 02:30): さよはるき
+- **あかさたな** (07/09 02:30): りゅうかい？
+- **あかさたな** (07/09 02:30): じんや？
+- **アメコマ** (07/09 02:31): 誰お前
+- **あかさたな** (07/09 02:31): やめとけよー
+- **アメコマ** (07/09 02:31): 誰かって
+- **おいち** (07/09 02:31): ゆふりゅかいでぶい
+- **あんぷ** (07/09 02:33): ゆふりゅかいでぶぶ
+- **あかさたな** (07/09 02:34): たしか2年でな？
+- **あかさたな** (07/09 02:35): ゆふりゅうかい
+- **アメコマ** (07/09 02:35): ユキつきっち誰？
+- **アメコマ** (07/09 02:35): あかさたな誰
+- **アメコマ** (07/09 02:36): ゆうき？
+- **あかさたな** (07/09 02:36): きれんなー
+- **ユキヅキ** (07/09 02:36): みんなそういうのは良くないと思います
+- **アメコマ** (07/09 02:36): 誰やねん 
+- **タビノソラ** (07/09 02:37): セックス気持ちー 
+- **アメコマ** (07/09 02:37): ゆきたん笑笑
+- **アメコマ** (07/09 02:37): いぶき？笑
+- **アメコマ** (07/09 02:38): 心が痛いです
+- **あかさたな** (07/09 02:39): 良かったねー
+- **やんぷ** (07/09 02:39): りゅうかいでぶしねちんこちっさい
+- **タビノソラ** (07/09 02:39): 俺にの一 
+- **あかさたな** (07/09 02:40): お前ら小学生やなー
+- **匿名** (07/09 02:40): それな
+- **匿名** (07/09 02:41): お前らクソガキやなそんなこと言うなー笑の😆😆😆😆、、  
+- **ユメミ** (07/09 02:42): 俺？
+- **匿名** (07/09 02:42): ほわしこうた
+- **匿名** (07/09 02:42): ほわしこうた 
+- **匿名** (07/09 02:42): キッズは勉強しとけ
+- **ばんく** (07/09 02:42): クソ春樹ブス死ね
+- **匿名** (07/09 02:43): ははははは
+- **ユメミ** (07/09 02:43): 匿名だれ？
+- **タケノネ** (07/09 02:43): にが 
+- **ユメミ** (07/09 02:43): 松川じんややねんか、
+- **あかさたな** (07/09 02:44): ふゆりゅうかいって戸次？
+- **匿名** (07/09 02:44): キッズおもんないよいきんな
+- **うみら** (07/09 02:45): おおすがゆうきです
+- **ユキヅキ** (07/09 02:45): 喧嘩すんなって
+- **匿名** (07/09 02:45): お前らクソガキやな
+- **ユメミ** (07/09 02:45): 名前はだすな笑
+- **ユキヅキ** (07/09 02:46): 名前は良くないとおもいますよ。
+- **匿名** (07/09 02:46): ゆふりゅうかいへつぎなんじゃね？聞いたことある
+- **ゆりか** (07/09 02:47): 堀田ゆるさん
+- **ゆりか** (07/09 02:47): とうや 
+- **ゆりか** (07/09 02:47): こうたヤリチン
+- **あかさたな** (07/09 02:48): これみんな戸次かな？笑
+- **ユメミ** (07/09 02:48): ゆりかだれ？
+- **ツユヤマ** (07/09 02:48): ゆりか誰か
+- **ゆりか** (07/09 02:48): ほわしこうたしね
+- **ユキヅキ** (07/09 02:48): 僕は大阪っす
+- **ゆりか** (07/09 02:48): はははは
+- **べいぷ** (07/09 02:49): ゆふりゅかい戸次中学校2年2組あだ名デブガイジ
+- **あかさたな** (07/09 02:49): ユキツギさんこうたさんですか？笑
+- **匿名** (07/09 02:49): わたしはとうきょうです
+- **ユキヅキ** (07/09 02:49): 匿名さん、無理がある
+- **ユメミ** (07/09 02:49): 俺は佐賀です
+- **ゆりか** (07/09 02:49): 匿名とうや笑
+- **あかさたな** (07/09 02:50): おうすがゆうき？
+- **ヤリチンゆうき** (07/09 02:50): おれ大分 
+- **あかさたな** (07/09 02:50): 匿名
+- **ヤリチンゆうき** (07/09 02:50): ヤリチンみんなよりちんこバカでかい  
+- **あかさたな** (07/09 02:51): やっぱり小学生やなー
+- **匿名** (07/09 02:51): とうきょうはうそ、大在
+- **ユキヅキ** (07/09 02:51): ？大在ってどこですか？
+- **タンク** (07/09 02:52): ゆふりゅかい障害者死ねブス生きる価値なし
+- **ヤリチンゆうき** (07/09 02:52): おれへつぎ
+- **アキノミチ** (07/09 02:52): は？
+- **匿名** (07/09 02:52): は？
+- **ユメミ** (07/09 02:52): タビノソラ誰笑
+- **おくに」** (07/09 02:52): それな笑
+- **ユキヅキ** (07/09 02:53): タンクさんやめましょう
+- **すいなみ** (07/09 02:53): あいうえお 
+- **おくに」** (07/09 02:54): おれ大須賀ゆうきよろしくお願いします 
+- **あんこ** (07/09 02:54): ゆふりゅかいべぶめがねしね
+- **ユメミ** (07/09 02:56): さよはるきです
+- **堀田とっうや** (07/09 02:56): 堀田とうやです
+- **すいなみ** (07/09 02:56): ここにコメントしてるやつみんなへつぎちゅやろ
+- **岩尾あさやです** (07/09 02:56): 岩尾あさやです
+- **あかさたな** (07/09 02:57): 俺違うわー
+- **堀田とっうや** (07/09 02:57): だれすか
+- **あかさたな** (07/09 02:57): こんな奴らと一緒にすんなー
+- **匿名** (07/09 02:57): おれ大在　
+- **堀田とっうや** (07/09 02:57): ほわしこうた
+- **堀田とっうや** (07/09 02:57): 玉井せら
+- **堀田とっうや** (07/09 02:58): ぶちゅ
+- **アキノミチ** (07/09 02:58): 、
+- **堀田とっうや** (07/09 02:58): ぱいでかい
+- **リュカイ死ね** (07/09 02:58): りゅかいでぶしねいきるかちなしでぶやろう 
+- **あかさたな** (07/09 02:59): 全部ひらがな笑笑
+- **大須賀悠輝** (07/09 03:00): 俺の登場！
+- **堀田とっうや** (07/09 03:00): さよはるきしね
+- **堀田とっうや** (07/09 03:01): いきんな
+- **堀田とっうや** (07/09 03:01): ごみ
+- **玉井セラ** (07/09 03:02): 大須賀やりたい 
+- **玉井セラ** (07/09 03:03): 揉ませる、、
+- **玉井セラ** (07/09 03:03): 一回のトイレきて、大須賀、、、
+- **このは** (07/09 03:04): なめとんな
+- **玉井セラ** (07/09 03:04): みんなでやろ
+- **玉井セラ** (07/09 03:04): 女1人は嫌だよー
+- **カペ** (07/09 03:06): とみなりしょうたうったやつだれ？
+- **アオゾラビ** (07/09 03:06): おうすがゆうきなるしすとー
+- **🎹天然水🎹** (07/09 03:06): 知らん
+- **眠い** (07/09 03:06): 眠い
+- **このは** (07/09 03:06): にが
+- **カペ** (07/09 03:06): 1組やろ打ったやつ
+- **アオゾラビ** (07/09 03:07): 岩尾あさやですー
+- **カペ** (07/09 03:07): あさやいいんやな
+- **カペ** (07/09 03:07): にが
+- **カペ** (07/09 03:08): デブシウスがよ
+- **カペ** (07/09 03:08): あさやしらんで？
+- **ツバキネ** (07/09 03:09): 玉井セラ一緒
+- **匿名** (07/09 03:09): きもー
+- **眠い** (07/09 03:09): 笑笑
+- **眠い** (07/09 03:10): あ
+- **あ** (07/09 03:10): あ
+- **ユウツバメ** (07/09 03:11): あ
+- **フィルター&荒らし討伐隊** (07/09 05:46): 許したれ
+- **ハヤミズ** (07/09 08:13): みんなやめよーぜ
+- **ヒナタビ** (07/09 08:59): はるひとでーす
+- **ヒナタビ** (07/09 08:59): 誰か入ってこーい
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/08 22:30
+- **更新日（UTC）:** 07/08 22:30
 
 ---
 
-### 15. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 15. ↓と同様条件、感謝しろwww（個人的神ゲー）
+**作成者:** 指示厨 (kiminohitominikannpai)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+[添付ファイル 1](https://ubg1024.gitlab.io/)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/08 12:53
+- **更新日（UTC）:** 07/08 12:53
 
 ---
 
-### 16. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 16. お前らいいねとフォローしてから入りやがれ、感謝しろwww
+**作成者:** 指示厨 (kiminohitominikannpai)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+[添付ファイル 1](https://sites.google.com/view/ezclasswork/2)
+
+#### コメント (1)
+- **フィルター&荒らし討伐隊** (07/09 06:46): しねぇよばか
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/08 12:52
+- **更新日（UTC）:** 07/08 12:52
 
 ---
 
-### 17. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 17. おい💢　偽物　人の名前使うな　きもいな💢
+**作成者:** れいり
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5930265233/c49a54a31940ec4f83f8ee1fd4e54e83/IMG_0516.jpeg?Expires=1784327743&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1kxD8JHPJmNxYGX0iQierMmztC9J5zTwIa7wFxhsXrfUvN8IQhiFBvHmYWm6I3dO%2FKUloKQ0g%2FX0npQ5zl0K8EzPdISimUsyGxjM37c%2BOAvLPZY8B2c1lgeeRVj8EoDQVlt9U6hzhSnxW2lQS7LKsv4WiUF1GALqVHPZaz8wQYpZQaf684h%2FPQomcGVC3mgusoqFt9G2ZEjxdB5FZ48Avhb%2FtnG5sMsddldqGDcvfyIy5N%2BqiJZoYR9ECOZsRrsWR72fBGvcbgfwKqcM4BWrpkWuuTLXAbN9cL8RCUrAzqNZlVKzIkAWvg5Z8WH788aiO2UuPPMV6geiwHeVJgXwiQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5930265233%2Fc49a54a31940ec4f83f8ee1fd4e54e83%2FIMG_0516.jpeg)
+
+#### コメント (3)
+- **フィルター&荒らし討伐隊** (07/09 05:53): はるき
+- **フィルター&荒らし討伐隊** (07/09 05:53): ？あなたの名前れいりじゃん
+- **フィルター&荒らし討伐隊** (07/09 05:53): 被ってなくね？
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/08 12:20
+- **更新日（UTC）:** 07/08 12:20
 
 ---
 
-### 18. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 18. ユキソラさんのゲームがブロックされましたブロックを解除する方法は、ありますか、おうがさん
+**作成者:** れいり
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5928652655/89b2629424c504686bdc5dc2c5948044/IMG_0256.png?Expires=1784327743&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BABqIYHJYIRDmG6I%2BviT5rqtwHcMX2JC4hu5UUC97FsFUYMOeCf0yQbTHWEOjE4yahmZ%2FARnBUWgmxzYQyOzI%2F3NHtd7KjcjkWDDlxSwdSpRxXoHQ8rGja6F5DekVZnVAxr%2BpD0wv%2F5WMNvPGIuLQOfax6lscBCXkezeHBEUBKNqUgswvx55nPoBku7BxQNw0ZxGlpLPoFmIyKVFS3Pfy8NqjKYpVO%2BK0pLleT4iQ%2Brvry39YgM3U6VofsBbITYgv2C0px3l8v0aVQIrz7zM5%2FiL%2FxX%2F0msD1lvhSWto6oXrGn3IJHwUlsm5uCIE2qOdy5ZdDGqRhf9WcXsVKrEstg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5928652655%2F89b2629424c504686bdc5dc2c5948044%2FIMG_0256.png)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/08 12:11
+- **更新日（UTC）:** 07/08 12:12
 
 ---
 
-### 19. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+### 19. こんにちは～
+**作成者:** takotyakl2
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/08 04:47
+- **更新日（UTC）:** 07/08 04:47
 
 ---
 
-### 20. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 20. ちぬ
+**作成者:** う
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5927971551/3731f03ad8237c9a3c21af87ee6d1c40/IMG_0077.jpeg?Expires=1784327743&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=sUh7yxJjSfz%2FG8dlZgBATB7xbSH0nFU4WykRexwRDFL33nMzny1OBCKTmLPgpwKv22coBjPqp8kMtjZjHx3zeqv6toyXw%2FjO%2FigM0MlEhZqmiUm0qvyG6PmiWF6wghr9pVquE6b4xiSajN679HSncIHX2cABRtleMJ0XBNtmvwjF5loKVNV3%2F0KCc3RhUapOYypWniX5EPiyMDzKzlyFL6QktNjJEiyFf50POfF3K%2BN%2FvxrT0BdVlbA8OegJZQ4Yzqarv5Ssk508HbJAR6Yx6ndp4DZ4sOyYHbw75ZwvsrbzDhgbc7DzwgmLmq67CIbgGd2KuZGJHgD0n3LJjIP41Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5927971551%2F3731f03ad8237c9a3c21af87ee6d1c40%2FIMG_0077.jpeg)
+
+#### コメント (1)
+- **フブキネ** (07/08 05:30): チヌ連れてチヌ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/08 02:52
+- **更新日（UTC）:** 07/08 02:52
 
 ---
 
-### 21. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 21. バス釣った
+**作成者:** う
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+<p>きねがわうちつつみ</p>
+
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5927971551/644677365117fbdeb6505169d0f436ce/IMG_0020.jpeg?Expires=1784327743&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DDWTT03R9xesr9AJePY71yLI5DSMYa3arh8u80Lby6PrkoE2pd0rAT5cxutf7Q8gtjq1LB%2BkkruWfu5ulnQooQvowtyQ88i6ikqiCJOF3pFRb7kL%2FB1bfrS7N3x%2BnwudMVYwNFWp3%2F6dITEfI0YagrtOLQl0O4%2BQ%2FukwP8iao0spqqBT4EUhJKgV4wkfdNLfDslIbf2XS2jpTPKH%2F9chL5D6FhGN%2BmF8Xe%2F8w60ASN6JwE%2B92Bc0stwDaLU5WmsWM2q80XIpxUy2M2xUjiFnVCnOVgOrn6XdpQL528tDTOaxxTgAn3HqfXjOZNoAJkfd50lGkGn8EidOGcUb4su9kg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5927971551%2F644677365117fbdeb6505169d0f436ce%2FIMG_0020.jpeg)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/08 02:52
+- **更新日（UTC）:** 07/08 02:52
 
 ---
 
-### 22. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 22. 釣り好き
+**作成者:** う
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+<p>つりおもろいw</p>
+
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5927971551/fb4fdb52fdae71deffa836d3f590a53c/IMG_0151.jpeg?Expires=1784327743&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WsYK4KhOQVyY1u97pajyP2vlzV1VZtPhfdOmW9nBOcWmvt4HVgfKFdJj9MiisS8IYNWV1CuLxvJ111y8iFFcE%2BAPlLRdfNHnObHn1x2tiimndKqX%2B%2FRpEUQ%2Fdz1f%2FseG4%2FKGiJ%2FRCZH%2FQTYREbk6lL%2F1CPCFnMIlA5Z9dh6OjqQybpjKHx1r%2F31F%2BhsGI0wSv80FcCKDWibOLzFutK0HzDyAwHXR83HnDrtyP9gFwQaTueO39r9XYhUJEDYc7at%2FpFihjGURidf7ho8kOTp2HneS1dYMnaJ7zW8D1QBHYnV7BilURNIcHdEiPENuC59Kpy1KX1kFtDwNzTzmFB%2Bzvw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5927971551%2Ffb4fdb52fdae71deffa836d3f590a53c%2FIMG_0151.jpeg)
+
+#### コメント (1)
+- **人の名前を真似した人** (07/09 01:49): ygygygっhっgっhっghghbhbh
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/08 02:32
+- **更新日（UTC）:** 07/08 02:32
 
 ---
 
-### 23. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+### 23. 釣り大好き❤
+**作成者:** う
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/08 02:26
+- **更新日（UTC）:** 07/08 02:26
 
 ---
 
-### 24. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+### 24. ゲームブロックされた
+**作成者:** う
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/08 02:24
+- **更新日（UTC）:** 07/08 02:24
 
 ---
 
-### 25. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 25. 投稿 25
+**作成者:** タネマキ
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+<p>あ</p>
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/08 02:13
+- **更新日（UTC）:** 07/08 02:13
 
 ---
 
-### 26. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 26. kite
+**作成者:** かんかん (aaakjd44)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+<p><a rel="noopener noreferrer nofollow" href="https://app.metalife.co.jp/spaces/d8o6Votj2eJMZcIGi4Iv">https://app.metalife.co.jp/spaces/d8o6Votj2eJMZcIGi4Iv</a></p><p><br/></p>
+
+[添付ファイル 1](https://app.metalife.co.jp/spaces/d8o6Votj2eJMZcIGi4Iv)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/07 10:03
+- **更新日（UTC）:** 07/07 10:03
 
 ---
 
-### 27. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+### 27. みんなヤリチン
+**作成者:** ゆうた
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/07 04:14
+- **更新日（UTC）:** 07/07 04:14
 
 ---
 
-### 28. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+### 28. みんなあなるガイジ
+**作成者:** ゆうた
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/07 04:13
+- **更新日（UTC）:** 07/07 04:13
 
 ---
 
-### 29. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 29. ここに想像を絶するゲームを置いていきます
+**作成者:** 1001さん (Haraitai)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+<p>ブレインロットも作成してます</p>
+
+[添付ファイル 1](https://padlet.com/Haraitai/padlet-jxmgpewlqr3h518c)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/07 02:40
+- **更新日（UTC）:** 07/07 02:40
 
 ---
 
-### 30. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+### 30. キノコ伝説できる方法教えて〜〜
+**作成者:** ピグマリオン
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/06 23:55
+- **更新日（UTC）:** 07/06 23:55
 
 ---
 
-### 31. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 31. ブレインロット配布しまーす
+**作成者:** スタバの神 (2010615_17)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+<p>ギャラクシースワブを配布するので、欲しい人はコメントで自分のロブロのIDを書いてください。ルーレットで決めます。</p><p>締切：7月20日まで</p><p>たくさん書いてね</p><p><br></p>
+
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5808866711/90ed6d4958f966d7fdba51efc7437194/Screenshot_2026_06_14_17_59_48.png?Expires=1784327743&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=sbBKrZzD6TtHDwpC7CB09TICORAdysm7be6V3Je0A73D4zU%2FkNaOrk6qZ1zsMWaTSNWMKBxLxtgqMRxgt9rsod895%2BAD%2FXJOE5xvjPQ0ASfUPlcmzWcrZqcH7pvlk8PgL6owaWc9Zt3RNszNn79bwYFGXmNM%2BHe1TV5jXnr%2F3EJG3UVnn4ne4y7o43bfX98qupcMjVEUaPB%2FiVbe9lji4ZUqgTPnD5jb0SFy7rvjBJ25eDDCi0vqWOQUxlTfWTpnhoqhZpcZlbrN769HaMhlKEU3dbi8DYu87lCbD2m0lQukrrWQ2rWVoiKf4WpdGILhMfdviF5vLDxgogdfAfefJQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5808866711%2F90ed6d4958f966d7fdba51efc7437194%2FScreenshot_2026_06_14_17_59_48.png)
+
+#### コメント (4)
+- **匿名** (07/06 12:09): yuta39877
+- **スタバの神** (07/06 12:17): コメントありがとうございます!
+- **ろぶろ** (07/07 02:33): ringonasikaki
+- **スタバの神** (07/07 08:43): コメントありがとうございます！
+
+#### その他の情報
+- **投稿のカラー:** ブルー
+- **作成日（UTC）:** 07/06 10:58
+- **更新日（UTC）:** 07/06 10:59
+
+---
+
+### 32. 投稿 32
+**作成者:** かんかん (aaakjd44)
+
+<p><a rel="noopener noreferrer nofollow" href="https://app.metalife.co.jp/spaces/lkyhKYkpXWhbN37xVugB">https://app.metalife.co.jp/spaces/lkyhKYkpXWhbN37xVugB</a></p><p><br/></p><p><br/></p>
+
+[添付ファイル 1](https://app.metalife.co.jp/spaces/lkyhKYkpXWhbN37xVugB)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/06 09:32
+- **更新日（UTC）:** 07/06 09:32
 
 ---
 
-### 32. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 33. 投稿 33
+**作成者:** ちんこ大好きマン
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5919428920/7b4a2a88bd924475437c877d413d3a28/ScreenRecording_07_02_2026_16_13_47_1.mov?Expires=1784327743&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ykV2qbmHaAEXuWfVl6%2Fnovu%2B6ViP2NxxnDVg%2F3zpbeVCzsa63S4cbHZB6TvooaRkvD2Q%2FMcbG6yRc39DwEq6O0J1hLecI2CG34023JVOmpsai1slGV%2BNaeLzNAyM0JgE%2FugcJB675F2Qca6cN8yhC45xQ9EQIwLqbx1kBY6lKGdgAmlRVSs8J%2FrfCyfm9WyJq6O2AyB7w9KDP0iozm91S8pqKRqfAKihjRjXQMCF5jHVMVhONY0%2FbCGuAIXbi7n%2BIFeR7fn39Y%2B%2F%2FPefwW4Hdc%2F8fJew9AoVfM2sHpyt9TPBzY%2BVQEO3JuaOF%2FYp71%2FdZ0e0HXpX5zJ2lTJR84JnKg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5919428920%2F7b4a2a88bd924475437c877d413d3a28%2FScreenRecording_07_02_2026_16_13_47_1.mov)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/06 08:18
+- **更新日（UTC）:** 07/06 08:18
 
 ---
 
-### 33. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 34. 来て　駒井
+**作成者:** フミヅキ
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+[添付ファイル 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
+
+#### コメント (4)
+- **こまi** (07/06 01:36): 重い
+- **こまi** (07/06 01:38): むりや、や 
+- **暇人two Time** (07/07 09:07): 駒井...？
+- **暇人two Time** (07/07 09:07): 駒井やってんの？これ（びっくりだわ）
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/06 01:35
+- **更新日（UTC）:** 07/06 01:35
 
 ---
 
-### 34. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 35. 誰かいる？
+**作成者:** フミヅキ
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+#### コメント (3)
+- **こまi** (07/06 01:33): よー 
+- **フミヅキ** (07/06 01:33): 駒井ちゃーーーーーん
+- **R** (07/06 01:34): おるで
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/06 01:32
+- **更新日（UTC）:** 07/06 01:32
 
 ---
 
-### 35. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 36. きて
+**作成者:** かんかん (aaakjd44)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+<p><a rel="noopener noreferrer nofollow" href="https://app.metalife.co.jp/spaces/D0i9igBqKqfeKyjMpq6m">https://app.metalife.co.jp/spaces/D0i9igBqKqfeKyjMpq6m</a></p><p><br/></p><p><br/></p>
+
+[添付ファイル 1](https://app.metalife.co.jp/spaces/D0i9igBqKqfeKyjMpq6m)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/03 01:32
+- **更新日（UTC）:** 07/03 01:32
 
 ---
 
-### 36. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 37. 誰かいますか
+**作成者:** オクラ
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+#### コメント (1)
+- **パブロ・ディエゴ・ホセ・フランシスコ・デ・パウラ・フアン・ネポムセーノ・マリア・デ・ロス・レメディオス・クリスピーン・クリスピアーノ・デ・ラ・サンティシマ・トリニダード** (07/03 01:27): どうせ変なことしかシないくせに人呼ぶなよ。だから誰にも話しかけられいんだぞ。チー牛
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/02 06:53
+- **更新日（UTC）:** 07/02 06:53
 
 ---
 
-### 37. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 38. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 39. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 40. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 41. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 42. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 43. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 44. Hello 1782637796188
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5NPRxHkg2tRDJURmDqh98h%2B5%2F0iDETCNdsVrr66fpnZjGfnqlD9TsnTIj93jUhkKm9ll%2FWYKlbTkac%2FMBdXT0XtEnzmYjNLFy558d02hSuHCegVldlO%2BB5gPt6HO3EmN4fAUMHmjXbkgaP7l29zjSzzKkmZef1fcZISuo1pF%2BtHgvD3yQRYwcb1lKo42fjtkZ1IhPJ3dd8sk3L9jWEOREcQQWxZ%2BcrmEbOydx%2BdcCa10TdrPmKXP5bpAszUpOp6Yj6sW9CxLJ%2FDmjiFRyfhZ7ASD5Z%2BpHumJUx7anTz1cS5EArqJZ7xdHV73DeGsijG38R9tl6sVykG7BTRQSY26Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 45. これ何人ぐらい今入っん
+### 38. これ何人ぐらい今入っん
 **作成者:** イノシシ
 
 #### その他の情報
@@ -561,11 +654,12 @@
 
 ---
 
-### 46. わたしとフォトナフレンドなってー車好きさん
+### 39. わたしとフォトナフレンドなってー車好きさん
 **作成者:** あいり
 
-#### コメント (1)
+#### コメント (2)
 - **車好き** (06/28 00:13): 良いよ🙆ナメキチ4304ですby車好き
+- **暇人two Time** (07/07 09:08): あいり...？同じ学校？の人多すぎて混乱中
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -574,8 +668,11 @@
 
 ---
 
-### 47. 車好きうるs・・・
+### 40. 車好きうるs・・・
 **作成者:** ダニ！？
+
+#### コメント (1)
+- **パブロ・ディエゴ・ホセ・フランシスコ・デ・パウラ・フアン・ネポムセーノ・マリア・デ・ロス・レメディオス・クリスピーン・クリスピアーノ・デ・ラ・サンティシマ・トリニダード** (07/03 01:28): それなwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -584,120 +681,7 @@
 
 ---
 
-### 48. １
-**作成者:** イノシシ
-
-<p><br/></p><p><br/></p><p><br/></p><p><br/></p><p>１</p><p><br/></p><p><br/></p><p>１</p><p><br/></p><p>１１１１１１１１１１１１</p><p><br/></p><p><br/></p><p>１</p><p><br/></p><p>１</p><p><br/></p><p>１</p><p><br/></p><p>１</p><p><br/></p><p>１</p><p><br/></p><p><br/></p><p>４</p><p><br/></p><p>４</p><p><br/></p><p>４</p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p>４４４４</p>
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 08:36
-- **更新日（UTC）:** 06/27 08:36
-
----
-
-### 49. いんいん
-**作成者:** イノシシ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 08:16
-- **更新日（UTC）:** 06/27 08:16
-
----
-
-### 50. 今やってる人いる
-**作成者:** イノシシ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 08:14
-- **更新日（UTC）:** 06/27 08:14
-
----
-
-### 51. 投稿 51
-**作成者:** 車好き (22170078)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5870012945/65d562f826e083012b607b94d29a33f2/IMG_0135.jpeg?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MRzLDRAOYm3UW1XPAAdjYOB9xvXStFhQ%2BZX2qZV5mosvSbR2d06at5CeR3AtFNq4%2FTvPJkrIXuM9bj0gOn2nO2A4XTiZvGLvBvjYcB8xVZckhGbWsev3TzIxv6LmpdJYFuvSR9fyaLd15womP6WYwRk6JeI523utuzuhG7mTJ2OWK0DPsZIUnj7WtSfAUVzu1ZK%2BV3ZE%2BUBrq7mGuwcQagBPkjjNbPo%2FO9dqNrnZi%2BHG5Y2ukkJRkwt40hoVndlJ0brrkK5M2OnpmFQ2EDG1HpRyJFqMBPid6k3rlqXUgUYT72GqaGxxmeItELAWo1X8UiXeIij0%2BHFTGsxxBsHdnA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5870012945%2F65d562f826e083012b607b94d29a33f2%2FIMG_0135.jpeg)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 06:17
-- **更新日（UTC）:** 06/27 06:17
-
----
-
-### 52. 投稿 52
-**作成者:** 車好き (22170078)
-
-<p>これ</p>
-
-![gt-r](https://genai-public.padletcdn.com/disco/prod/imagen/1780382787474/sample_0.png)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 05:34
-- **更新日（UTC）:** 06/27 05:34
-
----
-
-### 53. アズパカさんの動画を見てみてね♡
-**作成者:** 車好き (22170078)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 01:03
-- **更新日（UTC）:** 06/27 01:03
-
----
-
-### 54. 投稿 54
-**作成者:** 車好き (22170078)
-
-<p>誕プレのラジコン</p>
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5870012945/2132617b04bbfda8094b65cb99efaee5/photo.jpeg?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YHFfChgB1%2FtKK2mmOghOokzgFz3jnGZ%2BXED%2FTA5vYlxNc9HTL4qnvC0H1bRBO18j%2FMvI4dkhYzLGggcnmVW7GSqQFcDpnDDqIxHmGCi5W9tiogaMNT1W%2F89zMdQ0jjXZBwyS837XSd4EpW2zxsdV%2Btw%2BPJWNUKRTi5vXBa742ePow547UFoAlLKWZBB0tyxXkl%2FTkiC%2FiX4UA5Q%2BOumRRDdru8Y3Ft%2BCwFpNm2dFWgkYOLcrzkAx0gDEaDbtdd%2B%2BWmGiquibzv%2BLEPJ0%2F%2BjqT%2FwUup5Vb35vRPZVnzcPzC0%2F92BYpNyqxQDgTd4mMVxhvMDJW4Hgz0gXRh%2BvC6dX7Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5870012945%2F2132617b04bbfda8094b65cb99efaee5%2Fphoto.jpeg)
-
-#### コメント (1)
-- **イノシシ** (06/28 03:19): そお何だーだからなに
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 00:56
-- **更新日（UTC）:** 06/27 00:56
-
----
-
-### 55. WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-**作成者:** Mx1kzTe4 (Jqf)
-
-#### コメント (1)
-- **イノシシ** (06/28 03:18): こいつ頭終わってる抜けたほうがいい頭使えクソブタ笑しか使えないなら抜けろよクソゴミ後リタさん
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 15:09
-- **更新日（UTC）:** 06/26 15:09
-
----
-
-### 56. あいうえおカキクケコサシスセソ
-**作成者:** 小池紳一朗 (2326021006)
-
-<p>うんこ</p><p><br/></p>
-
-#### コメント (1)
-- **ナギモヤ** (06/26 09:03): は
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 09:03
-- **更新日（UTC）:** 06/26 09:03
-
----
-
-### 57. 投稿 57
+### 41. 投稿 41
 **作成者:** 久保庭真一 (s211132_39)
 
 <p>ダックダックゴーいれたらよくね</p>
@@ -712,7 +696,7 @@
 
 ---
 
-### 58. duckmath ってどうやって入るの
+### 42. duckmath ってどうやって入るの
 **作成者:** ラクレイジー
 
 <p>誰かお願いです　教えてください</p>
@@ -726,7 +710,7 @@
 
 ---
 
-### 59. 荒らさないでください。
+### 43. 荒らさないでください。
 **作成者:** えりちゃん推し (gs212089)
 
 <p>めちゃくちゃいい部屋です</p>
@@ -744,59 +728,34 @@
 
 ---
 
-### 60. にゃんこ大戦争やってる人
+### 44. にゃんこ大戦争やってる人
 **作成者:** そーなんす？
 
 **にゃんこ大戦争:**
-- **やっている:** 22件の投票
-- **やっていない:** 17件の投票
+- **やっている:** 30件の投票
+- **やっていない:** 24件の投票
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
 - **作成日（UTC）:** 06/25 07:30
-- **更新日（UTC）:** 06/28 08:35
+- **更新日（UTC）:** 07/09 08:19
 
 ---
 
-### 61. 鼻くそわっしょい(☝ ՞ਊ ՞)☝
-**作成者:** そーなんす？
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 07:05
-- **更新日（UTC）:** 06/25 07:05
-
----
-
-### 62. 来て
-**作成者:** れいり
-
-[添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
-
-#### コメント (5)
-- **クモノウエ** (06/25 00:44): おもろいの？＞
-- **クモノウエ** (06/25 00:44): おもろいの？＞
-- **クモノウエ** (06/25 00:44): おもろいの？＞
-- **c00lkidd** (06/25 09:09): おもろいよ
-- **カエる」** (06/25 10:20): ちょっとやめたほうがいいと思う 
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/24 11:49
-- **更新日（UTC）:** 06/24 11:49
-
----
-
-### 63. 学校のタブレットでゲームできるサイト見つけたｗｗｗまだアイフィルターに見つかってない
+### 45. 学校のタブレットでゲームできるサイト見つけたｗｗｗまだアイフィルターに見つかってない
 **作成者:** poop
 
 <p><a rel="noopener noreferrer nofollow" href="https://duckmath.org/">Duckmath Unblocked Games</a></p>
 
 [添付ファイル 1](https://duckmath.org/)
 
-#### コメント (2)
+#### コメント (6)
 - **Anonymous** (06/27 02:39): どうやって入るの
 - **モンキー・D・ルフィ** (06/29 01:21): ブロックされたんだけど
+- **ノアカリ** (07/02 06:18): ブロックされたんごおおおおおおおおおおおおお
+- **ノアカリ** (07/02 06:18): ブロックされたんごおおおおおおおおおおおおお
+- **SnowMan倍好き** (07/02 11:49): やっぱ
+- **SnowMan倍好き** (07/02 11:50): ブロックされたああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ
 
 #### その他の情報
 - **投稿のカラー:** パープル
@@ -805,14 +764,13 @@
 
 ---
 
-### 64. この絵かわいいくない
+### 46. この絵かわいいくない
 **作成者:** 学校のタブレットでやってますｗｗ
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5863212995/eb6fda4cff6a67796fa4f10affcd4d4d/720744i.jpg?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7ePgRy9KC4hl%2BSCaucJJGfp%2BzS1YTn7BnkN0lhz1DI3PNakwlHoTbJxOJ84o9NkJLPUUAja9onOFQqXfCN35yhuNDBd%2FtQDAFw2e%2B0nba0BVuI0VJSFjIZXZWNC6y1DJjn8INADjKYuq%2B2ow%2BVl3OkIHuZJTnxnEixku4xz2tSpbnTj4GLg2pKEyHLp3lkMHRgT%2FKh%2BmXLhYKBA9TKwhxXF%2B1eaFglx7IG5pxnwcLVuJI70V9RbOz%2FD2RwSAlSxdqIh6xPAwVfLqvldMmHTwXg%2FMtfFsW1fhQiU%2BCsnq3sdxPuJkBcjb5uQS8XnCz%2BTj%2B2LvrzjosowQLW3IVCOOfg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5863212995%2Feb6fda4cff6a67796fa4f10affcd4d4d%2F720744i.jpg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5863212995/eb6fda4cff6a67796fa4f10affcd4d4d/720744i.jpg?Expires=1784327743&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=oy0uiUt3atrPO2Pp39kz6lOsk1HUUIqQuZ2wJ7yEouMYHsCamqrZCSPaR5Z%2BpBpFgy9qxha%2BvHAUY8byTCVFoeVr%2BvoDt9Zh7K%2FZ0xoV5UXhFt9iGNLM3HXR2xz5A0aKjHQUbUt3VJXcuqi58dFKF5Huy69HeIl955PSGM%2BkxQH9NHpk18%2BUEr%2FQIRhY6687oHelx5YifY2CmEEgKjUfonuYs3j7BaeqQwQeCpuLtmORAEabEdyReqh5LT%2FQIDIxNHUWRYu78G7bUniJIK4R3k8M7hdyNmbx%2FMYfXKp9AGtn02qCmatSPUis4EVkL2UutLrWCw9gOXGHi%2FnyNPsHxw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5863212995%2Feb6fda4cff6a67796fa4f10affcd4d4d%2F720744i.jpg)
 
-#### コメント (3)
+#### コメント (2)
 - **学校のタブレットでやってますｗｗ** (06/24 04:33): かわいいね君もかわいいよ
-- **学校のタブレットでやってますｗｗ** (06/24 04:33): 💩
 - **あああああ** (06/26 09:26): 可愛いくない？のほうがいいと思います
 
 #### その他の情報
@@ -822,7 +780,7 @@
 
 ---
 
-### 65. Fortniteをプレイできるサイトをリンクで貼って欲しい
+### 47. Fortniteをプレイできるサイトをリンクで貼って欲しい
 **作成者:** ナノカ
 
 <p>お願いします</p>
@@ -837,7 +795,7 @@
 
 ---
 
-### 66. 今日入って来た人ランマーにする！
+### 48. 今日入って来た人ランマーにする！
 **作成者:** 匿名アバター (h0319026_1)
 
 <p>学タブなので遅いかも😭</p><p><br/></p>
@@ -854,7 +812,7 @@
 
 ---
 
-### 67. 投稿 67
+### 49. 投稿 49
 **作成者:** クサフエ
 
 [添付ファイル 1](https://search.yahoo.co.jp/search?p=%E6%B0%97%E6%8C%81%E3%81%A1100%25&ei=UTF-8&fr=ush&vm=r)
@@ -866,19 +824,19 @@
 
 ---
 
-### 68. こい
-**作成者:** つむぎ#魔神族#初代つむぎ族#メリオダスの弟子 (rongchengyilang3)
+### 50. こい
+**作成者:** 名前募集中 (rongchengyilang3)
 
 [添付ファイル 1](https://padlet.com/rongchengyilang3/padlet-ixptg7l74dsfa2rr)
 
 #### コメント (7)
 - **伊藤豪** (06/24 00:43): 鈴木やっほーー
-- **はにわ** (06/24 00:45): き
-- **はにわ** (06/24 00:47): なんか
-- **はにわ** (06/24 00:47): エグい
-- **はにわ** (06/24 01:59): だれかいますか
+- **ははははははは** (06/24 00:45): き
+- **ははははははは** (06/24 00:47): なんか
+- **ははははははは** (06/24 00:47): エグい
+- **ははははははは** (06/24 01:59): だれかいますか
 - **銭湯** (06/25 00:09): https://top-medical-schools.org/
-- **はにわ** (06/25 01:05): ありがとうございます
+- **ははははははは** (06/25 01:05): ありがとうございます
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -887,14 +845,14 @@
 
 ---
 
-### 69. 投稿 69
+### 51. 投稿 51
 **作成者:** トコナツ
 
 <p>映画見れる違法サイト知らないすか？</p><p><br/></p>
 
 #### コメント (2)
 - **クルミ** (06/23 22:02): 自分も教えて欲しい
-- **はにわ** (06/25 01:06): ゲーム教えてほしいンゴ
+- **ははははははは** (06/25 01:06): ゲーム教えてほしいンゴ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -903,19 +861,7 @@
 
 ---
 
-### 70. 入りたい人はコメント！！
-**作成者:** ロバ
-
-[添付ファイル 1](https://padlet.com/utsubobobo641/padlet-asext1ycsz3lf4tt)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/23 03:11
-- **更新日（UTC）:** 06/23 03:12
-
----
-
-### 71. 投稿 71
+### 52. 投稿 52
 **作成者:** シイノキ
 
 [添付ファイル 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
@@ -927,8 +873,8 @@
 
 ---
 
-### 72. こんにちは
-**作成者:** Coolkid（元ニカーー）【東京の市I-FILTER系】 (TOKYO874321Forsaken)
+### 53. こんにちは
+**作成者:** Coolkid（元ニカーー）#krtkさんの22番弟子 (TOKYO874321Forsaken)
 
 #### コメント (1)
 - **学校のタブレットでやってますｗｗ** (06/24 04:41): こんにちわ
@@ -940,7 +886,7 @@
 
 ---
 
-### 73. i-フィルター以外できないかもm(_ _)m
+### 54. i-フィルター以外できないかもm(_ _)m
 **作成者:** どーもKUN (s25250233)
 
 #### その他の情報
@@ -950,7 +896,7 @@
 
 ---
 
-### 74. いいね１０個でガチモンようつべ配布
+### 55. いいね１０個でガチモンようつべ配布
 **作成者:** どーもKUN (s25250233)
 
 #### リアクション
@@ -963,7 +909,7 @@
 
 ---
 
-### 75. ようわからｎ２
+### 56. ようわからｎ２
 **作成者:** どーもKUN (s25250233)
 
 [添付ファイル 1](https://petezah.nana.02.pagostepeapulco.gob.mx/)
@@ -975,7 +921,7 @@
 
 ---
 
-### 76. ようわからｎ
+### 57. ようわからｎ
 **作成者:** どーもKUN (s25250233)
 
 [添付ファイル 1](https://zhenxiangba.com/phproxy-improved-master/#)
@@ -987,7 +933,7 @@
 
 ---
 
-### 77. youtubeダウンローダー
+### 58. youtubeダウンローダー
 **作成者:** どーもKUN (s25250233)
 
 [添付ファイル 1](https://www.acethinker.tw/free-online-audio-downloader)
@@ -999,7 +945,7 @@
 
 ---
 
-### 78. プロキシ（個人的最強
+### 59. プロキシ（個人的最強
 **作成者:** どーもKUN (s25250233)
 
 [添付ファイル 1](https://scrapbooking-directory.com/)
@@ -1014,7 +960,7 @@
 
 ---
 
-### 79. プロキシ（待つ時間長い）
+### 60. プロキシ（待つ時間長い）
 **作成者:** どーもKUN (s25250233)
 
 [添付ファイル 1](https://mintube2-wocboc6.onrender.com/helios)
@@ -1026,7 +972,7 @@
 
 ---
 
-### 80. プロキシ
+### 61. プロキシ
 **作成者:** どーもKUN (s25250233)
 
 [添付ファイル 1](https://wow67.phishingpole.org/)
@@ -1038,7 +984,7 @@
 
 ---
 
-### 81. プロキシ
+### 62. プロキシ
 **作成者:** どーもKUN (s25250233)
 
 [添付ファイル 1](https://smartbio.kelownaembroidery.ca/)
@@ -1050,7 +996,7 @@
 
 ---
 
-### 82. プロキシ
+### 63. プロキシ
 **作成者:** どーもKUN (s25250233)
 
 [添付ファイル 1](https://dogeub.nana.02.pagostepeapulco.gob.mx/search)
@@ -1062,7 +1008,7 @@
 
 ---
 
-### 83. プロキシ
+### 64. プロキシ
 **作成者:** どーもKUN (s25250233)
 
 [添付ファイル 1](https://ddx.v2.nana.pagostepeapulco.gob.mx/)
@@ -1074,7 +1020,7 @@
 
 ---
 
-### 84. プロキシ
+### 65. プロキシ
 **作成者:** どーもKUN (s25250233)
 
 [添付ファイル 1](https://testing.suwal.com.np/)
@@ -1086,7 +1032,7 @@
 
 ---
 
-### 85. ぽんた
+### 66. ぽんた
 **作成者:** ウミツユ
 
 <p>やっほー</p><p>話そ</p><p><br/></p>
@@ -1098,7 +1044,7 @@
 
 ---
 
-### 86. 岳太郎
+### 67. 岳太郎
 **作成者:** ウミツユ
 
 #### その他の情報
@@ -1108,12 +1054,12 @@
 
 ---
 
-### 87. 土曜日しりとり大会します！
+### 68. 土曜日しりとり大会します！
 **作成者:** レッドキング
 
 <p>当日参加大歓迎です</p><p>くる方はコメントを</p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5835643281/83d685824008af2cdce99f8a0479c5d4/IMG_0409.jpeg?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pMkNja52xVMSFrFC0UNCAe3bq%2BlUqI%2F03vqIQ%2BM9oECNfq8pdlw6Yvfy751HdaRYjQ2yiK%2BofghIMPLnxKhaKUl%2BdEViuJEg%2FuZc%2FcaQDLtoWJaM3ej827phMmXoL6QpzFyGK4quHrZEW9c2u1nJMHC7kfzyE8DMD9Y%2B6XZcH2etHFPEcbTg9gRlNVy4GdhG4Pi88B4SrhlRiMFO0PPYV9ok9tcIW4SrOCKrSCk7FRuSUO1zOFQV1fzg1hXhfdiRPAaq9Vx012aCza4Oz%2BDhou%2B2jAVLr4y0HEScQVQh4nlDvjRoRueRDJkanaoFWOXLouUpjzbcZ%2BswEsrw6MYEsQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5835643281%2F83d685824008af2cdce99f8a0479c5d4%2FIMG_0409.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5835643281/83d685824008af2cdce99f8a0479c5d4/IMG_0409.jpeg?Expires=1784327743&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rmZ9urzl0oUO94uUhAgBUUa8WLtAZYXc4NWacOs%2BcXWsaC5zhp7ofzs8v3T%2FdpGsXyTHjKVFx%2FPrAUOOKGuaaY1tFT2udobMGfCLt%2BhdBQbBVHMU2KcDycmzyD1K5Nkoz%2F52fdFC4TqAthmWkY5fvAcCMZlOcHocRm7DsTe0bDzE08dmVPddL3a1jqnhPZVCv0h9xpin9jKVpjtoVZOUtpY8uji4fCKLoK%2FDWSFZ7KPLrhUSb%2Fjvk0xQExwk2jiYitYCOO%2FQmLGIkOceMn6X2gLOE6%2BgPvFW%2F2YcAxehTjXlnrnFE1R%2BAp1sJr9iLHvighwemSggW%2FIRA0D8HEIDug%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5835643281%2F83d685824008af2cdce99f8a0479c5d4%2FIMG_0409.jpeg)
 
 #### コメント (2)
 - **火の粉** (06/19 05:02): いつ
@@ -1126,7 +1072,7 @@
 
 ---
 
-### 88. 投稿 88
+### 69. 投稿 69
 **作成者:** うんこ
 
 ![エロ](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Trend_Girls_Photo_Session_%28May_4%2C_2025%29IMG_0574.jpg/960px-Trend_Girls_Photo_Session_%28May_4%2C_2025%29IMG_0574.jpg)
@@ -1136,14 +1082,14 @@
 - **レッドキング** (06/19 04:57): 誰？
 - **火の粉** (06/19 05:11): でぶ
 - **あおたん** (06/19 05:20): ブス
-- **9123_JPN** (06/19 08:22): こんなぶすいひとはじめてみた
+- **＠ken #チピチャパ教　#納豆教** (06/19 08:22): こんなぶすいひとはじめてみた
 - **ウミツユ** (06/20 06:01): ぱいでか
 - **ウミツユ** (06/20 06:01): パイって脂肪なんだよ
 - **伊藤です** (06/25 01:10): かおぶす死んどけ
-- **はにわ** (06/25 01:10): しね
-- **はにわ** (06/25 01:10): しゃしゃんな
-- **はにわ** (06/25 01:12): ゴミ死ね
-- **はにわ** (06/26 01:19): ゴミ消えろ
+- **ははははははは** (06/25 01:10): しね
+- **ははははははは** (06/25 01:10): しゃしゃんな
+- **ははははははは** (06/25 01:12): ゴミ死ね
+- **ははははははは** (06/26 01:19): ゴミ消えろ
 - **ツキウミ** (06/26 01:20): どぶやん
 - **ツキウミ** (06/26 01:21): そうすけ😍
 
@@ -1154,10 +1100,10 @@
 
 ---
 
-### 89. 誰かこの写真に勝てるやつおるｗｗ
+### 70. 誰かこの写真に勝てるやつおるｗｗ
 **作成者:** 絶景にき
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5836816349/006f1f3029ddb0d749e374a797f54619/Screenshot_2026_06_19_11_32_38.png?Expires=1783313861&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6N%2Btj0LjojpOR2jUXjQklzl8fUQtwvBHAESW7eH5RBw7rfUPRfgHi%2F6PndCYWZD%2Bf9pZE8c4PsUdIxNPu81NEH9DqlpqM4NDWcPFvQ6gidS4UqC7l%2FM1GakRY2zQkwpGhDCB3GJNuA3fJOH29F5qlu3zAKCwPcZ2c3ld7alG56HAdqNgsqf51QcL5cyShCH5hZkOJuax1iNU%2FiiZUVgs%2B1k%2FWIFAESzx97CEPw%2FX%2BQnrxoD%2BB0AwpRaWUTTYkOdpFBmcLOcu9Tz2W30WHwyzKIx8fEmxawzYK6h5pJwTjymKjRqtEibqkepDNg1WpW9F7UHiMjgE4ByYX8KOesofCQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5836816349%2F006f1f3029ddb0d749e374a797f54619%2FScreenshot_2026_06_19_11_32_38.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5836816349/006f1f3029ddb0d749e374a797f54619/Screenshot_2026_06_19_11_32_38.png?Expires=1784327743&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VFI1QWt9BWN0Fti4fDkTx0CBfxi6Hf7CtDOdkG5bXnYZBYMLZ1FCo6ULznHzZ1BRS5%2F70zfNEPvNeuKvmRavot%2BCCCKxnn1k5%2BxgSMhadZ9%2B3Fp5JJMKHj6W76LJnprR2kgQav%2BewqQtia03wn751idgjqeZa3fa6faoP1mw3PJoM0JTlnJjIwL%2FIuNcXD7PqSMIBfd3qmPhf559lqs0ibCXq8Lmv5%2BOoU5xAMLRr1JxMCt8g9okjHM93uV%2BEDr6%2F7Z3QGHZHGFeP6StVGMLF1kuWnpRPVP5UkUHASWQyNHWM%2F%2BJ7E%2FuktTbxTKJMW8lOQ2kDV5enW2qyky6YAnVrA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5836816349%2F006f1f3029ddb0d749e374a797f54619%2FScreenshot_2026_06_19_11_32_38.png)
 
 #### コメント (2)
 - **レッドキング** (06/19 04:57): ほんまなww
@@ -1170,7 +1116,7 @@
 
 ---
 
-### 90. 効率のいい勉強方法教えてください
+### 71. 効率のいい勉強方法教えてください
 **作成者:** Lightning
 
 <p>中学生です。</p>
@@ -1186,7 +1132,7 @@
 
 ---
 
-### 91. 誰か学校のpcでできるゲーム教えて
+### 72. 誰か学校のpcでできるゲーム教えて
 **作成者:** ゲーマー
 
 <p>教えてーーー</p>
@@ -1205,7 +1151,7 @@
 
 ---
 
-### 92. 雑談にどうぞ（下ネタ以外）
+### 73. 雑談にどうぞ（下ネタ以外）
 **作成者:** フユギンガ
 
 <p>下ネタはだめ</p>
@@ -1221,7 +1167,7 @@
 
 ---
 
-### 93. 中学生は入って
+### 74. 中学生は入って
 **作成者:** gojiraamerika
 
 #### コメント (7)
@@ -1240,7 +1186,7 @@
 
 ---
 
-### 94. うんち
+### 75. うんち
 **作成者:** シュレック
 
 #### コメント (1)
@@ -1253,7 +1199,7 @@
 
 ---
 
-### 95. まれ
+### 76. まれ
 **作成者:** シュレック
 
 #### その他の情報
@@ -1263,7 +1209,7 @@
 
 ---
 
-### 96. うんち
+### 77. うんち
 **作成者:** シュレック
 
 #### コメント (1)
@@ -1276,7 +1222,7 @@
 
 ---
 
-### 97. 投稿 97
+### 78. 投稿 78
 **作成者:** ソラカケ
 
 <p>見ろよ俺の穴</p>
@@ -1292,7 +1238,7 @@
 
 ---
 
-### 98. はいって
+### 79. はいって
 **作成者:** ユキホシ
 
 [添付ファイル 1](https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf)
@@ -1308,7 +1254,7 @@
 
 ---
 
-### 99. じゃじゃじゃ
+### 80. じゃじゃじゃ
 **作成者:** サクラネ
 
 #### コメント (1)
@@ -1321,7 +1267,7 @@
 
 ---
 
-### 100. 土曜日しりとり大会します！
+### 81. 土曜日しりとり大会します！
 **作成者:** レッドキング
 
 <p>やりたい人はコメントよろしく！</p><p>当日参加大歓迎です♪</p><p><br/></p>
@@ -1340,12 +1286,12 @@
 
 ---
 
-### 101. 裏授業
+### 82. 裏授業
 **作成者:** サボり組
 
 <p>やあ</p>
 
-#### コメント (1078)
+#### コメント (1079)
 - **フォロー組** (06/18 05:54): うんぽ
 - **サボり組** (06/18 05:54): さぼろー
 - **フォロー組** (06/18 05:54): 授業が早く終りたい
@@ -2424,6 +2370,7 @@
 - **伊藤です** (06/25 01:15): おまえらつかうなかす
 - **フォロー組** (06/25 13:30): 黙れ黙れ
 - **ユキモリ** (06/27 12:42): いやまじうるさいからさ通話で喋って
+- **匿名** (07/10 10:57): しゃべんな
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -2432,13 +2379,13 @@
 
 ---
 
-### 102. 大好きだよ
+### 83. 大好きだよ
 **作成者:** わっさ
 
 #### コメント (3)
 - **シラカバ** (06/18 08:07): え？
 - **ゴチになります** (06/18 09:11): わっさだれ？
-- **はにわ** (06/25 01:15): うるさい
+- **ははははははは** (06/25 01:15): うるさい
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -2447,7 +2394,7 @@
 
 ---
 
-### 103. 投稿 103
+### 84. 投稿 84
 **作成者:** ガチスケ (r0400282_1)
 
 <p>おねがいはいって</p>
@@ -2461,7 +2408,7 @@
 
 ---
 
-### 104. 投稿 104
+### 85. 投稿 85
 **作成者:** ガチスケ (r0400282_1)
 
 <p>入っておねがい</p>
@@ -2475,11 +2422,11 @@
 
 ---
 
-### 105. 無料マイクラ教えて
+### 86. 無料マイクラ教えて
 **作成者:** Mr Mashroom
 
 #### コメント (2)
-- **はにわ** (06/25 01:15): むり
+- **ははははははは** (06/25 01:15): むり
 - **はにわのお馬鹿さん** (06/28 08:42): 急にどうしたwwww
 
 #### その他の情報
@@ -2489,7 +2436,7 @@
 
 ---
 
-### 106. やっふー
+### 87. やっふー
 **作成者:** ミズハ
 
 #### その他の情報
@@ -2499,7 +2446,7 @@
 
 ---
 
-### 107. 作ったばかりなのでプロキシとか書いてください
+### 88. 作ったばかりなのでプロキシとか書いてください
 **作成者:** メロンパン (Aaaakk9is)
 
 <p>管理者とか20人配布します</p><p><br/></p><p><br/></p>
@@ -2516,12 +2463,12 @@
 
 ---
 
-### 108. 黒歴史
+### 89. 黒歴史
 **作成者:** スタバの神 (2010615_17)
 
 #### コメント (2)
-- **カラフルピーチどぬく推し** (06/17 02:24): アイス落とした
-- **はにわ** (06/25 01:15): どんまい
+- **どぬく🍑** (06/17 02:24): アイス落とした
+- **ははははははは** (06/25 01:15): どんまい
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -2530,12 +2477,12 @@
 
 ---
 
-### 109. ブレインロット交換・買取・デュエル会場（詐欺は自己責任）
+### 90. ブレインロット交換・買取・デュエル会場（詐欺は自己責任）
 **作成者:** スタバの神 (2010615_17)
 
 <p>みんなで交換・買い取り・デュエルの会場を盛り上げよう!!!!!!!</p><p>ブレインロットのこと以外はあまりやめてほしい</p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5808866711/92ac6a7b413627089af01e5897a36355/Screenshot_2026_06_14_17_59_48.png?Expires=1783313862&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hx9U9brwpzBty13WFaqAeo3wWvKhc2EhUyxY1Eli3Pv4%2FQpoMbj7k5hCcUMLjyhMfgciMh4dwk6QilUV4B0CXsjZ39Rqs4zFM5AjEim0r3SWLiD9HgPrBCQrzbRny4TVJ7TDs3tU%2BnSsGXpWNuOeUQnp%2FuVETVm48Y%2BFOA3L4gt5SEFyCfAHTvkpWZAy%2B3FP%2B3m6LLUF%2BlQk1U0K8jeQ%2BM3DcHTAN4A%2F7tsrh%2F7GiAWr2giD6LMpXf8ajWbrVnYPhTXLTXZbLOEdUn6y3e496n%2FlHriHdkxioo8I6sIRkd9KXud%2Bhz%2BU1vcdFFIaFce9gULipSKy0SLsadubVwC3iA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5808866711%2F92ac6a7b413627089af01e5897a36355%2FScreenshot_2026_06_14_17_59_48.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5808866711/92ac6a7b413627089af01e5897a36355/Screenshot_2026_06_14_17_59_48.png?Expires=1784327744&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2XHA0d4kYh2ZaTScjoRX2d%2BYa6N%2BL6OgwirXXuzwGD8LEy9VDCb0y3QLaQ7a4s%2FJHZQHqKTAKAhSyMdzHdumwyT%2FDDCPRHV1EPf5n1bM0YO9SnQFNXH7bX%2BRZw7ErhXgiMS3EWxMBHzFIp6lWviF16tGxcqCap9fo1ERe%2B81V8wY0l0GQ14E%2BvKUWAIv7GqlB7CQqf82K9HtXcwjSj4DMzHlNzfgxshOhdJU42S9Jyj5HCBx0UL5J8tCkLpXubSYVI78aISmAUrGbj1YuoL87F4Ro9qxTKDuLYN%2BYv2Tgfge8cDtZ8HjAvhX1%2F0rs91gU%2FpTNx%2FK0EuTUK%2BpeVP%2F0w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5808866711%2F92ac6a7b413627089af01e5897a36355%2FScreenshot_2026_06_14_17_59_48.png)
 
 #### その他の情報
 - **投稿のカラー:** パープル
@@ -2544,17 +2491,17 @@
 
 ---
 
-### 110. 荒らしまくれ‼️
+### 91. 荒らしまくれ‼️
 **作成者:** 野獣
 
 <p>荒らしたい人はここで荒らしまくれ!!</p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5804369942/46f8ba81a8cb1eb9990f5bc00941aab1/Screenshot_2026_06_13_11_31_41.png?Expires=1783313862&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=eZUingMWuxvCU7tyGSQcZx7vabJsMWS%2FF1z501rcCLarmIKcgqqk7aEXdiRsrBGAhz1Q6rTHzb8avpmcdCwqNq984hpA55EoCB%2Bn9DYlbNOMg4Bq5l2%2FHdvsN4%2FokFKyxd7%2FunPZhLcr5muRQgGSMq4fBo51hfVIMzxPjxavAmzsK7cec5y1lWLsW6Llen2owSg2W7RTfjPmwMe9k%2FTX%2BJX1ypTBBuEfI6uJsi0qWKjUwJk8z6TZjCguKfEqITR83ARCq%2FaDJWsdun4jDHXwUjRnxKeEm3ZQYSefCSSkQCdcDFiHje6ixzxbxqigMj%2F%2FwPy0nrYBI49JswHzjTA4PQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5804369942%2F46f8ba81a8cb1eb9990f5bc00941aab1%2FScreenshot_2026_06_13_11_31_41.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5804369942/46f8ba81a8cb1eb9990f5bc00941aab1/Screenshot_2026_06_13_11_31_41.png?Expires=1784327744&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JXP%2FDv5CZcQ%2F5LeQc7wKSZURX6Xr6UCD1MUkNuHry5gfRZHSalVdBTnHjRpZGKj9Lx6tuTehjYQojxcmhSrF1u9j2Rx6L9Ygat%2BMORAM4rwtkBdLzP9GCKEELNO96wmTSzoLMU%2FGq54ZTmdKEwhozhrbvOLGq9ZLUOKM1rtUvsoCbFBlhkpZfAKEiMy1oERgNtGsHb52KzprtA%2FHGOeJKx%2FITbw7LGDJk%2Bc10F9%2Bt%2B5baJlYid4eudCRd5oHjNkQ6g%2BPnJRW6%2BWX9DByFDMBm7DIAKlESZEW1z6T317zhcXh%2BczfEdMwIGtp1510FOSl6cfqLc4PGF2kEXS0aT49qA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5804369942%2F46f8ba81a8cb1eb9990f5bc00941aab1%2FScreenshot_2026_06_13_11_31_41.png)
 
 #### コメント (3)
 - **みっちゃん** (06/13 12:48): www
 - **野獣** (06/14 08:56): 野獣
-- **はにわ** (06/25 01:16): しねしねしね
+- **ははははははは** (06/25 01:16): しねしねしね
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -2563,7 +2510,7 @@
 
 ---
 
-### 111. 投稿 111
+### 92. 投稿 92
 **作成者:** w
 
 <p>たいたつができるアプリありますか？</p><p><br/></p><p><br/></p>
@@ -2579,7 +2526,7 @@
 
 ---
 
-### 112. 誰かPoxel ioのブロックされないやつ教えて
+### 93. 誰かPoxel ioのブロックされないやつ教えて
 **作成者:** Mr Mashroom
 
 #### その他の情報
@@ -2589,7 +2536,7 @@
 
 ---
 
-### 113. 誰か「お前の負け」から始まる「煽りたい時に使ってください」のYouTube動画ください！ブロックされないやつ
+### 94. 誰か「お前の負け」から始まる「煽りたい時に使ってください」のYouTube動画ください！ブロックされないやつ
 **作成者:** ロバ
 
 <p>お願いします！！</p>
@@ -2604,7 +2551,7 @@
 
 ---
 
-### 114. ブレインロット
+### 95. ブレインロット
 **作成者:** スタバの社長（あだ名）
 
 #### その他の情報
@@ -2614,7 +2561,7 @@
 
 ---
 
-### 115. ブレインロットを流行らそう　目標閲覧数５００００回お願いします(._.)
+### 96. ブレインロットを流行らそう　目標閲覧数５００００回お願いします(._.)
 **作成者:** スタバの社長（あだ名）
 
 #### コメント (8)
@@ -2634,7 +2581,7 @@
 
 ---
 
-### 116. ブレインロットを盗む　交換・買い取り場所（詐欺られても自己責任で）（だれでもいいよ！）
+### 97. ブレインロットを盗む　交換・買い取り場所（詐欺られても自己責任で）（だれでもいいよ！）
 **作成者:** スタバの社長（あだ名）
 
 #### コメント (1)
@@ -2647,7 +2594,7 @@
 
 ---
 
-### 117. 投稿 117
+### 98. 投稿 98
 **作成者:** ユウグレ
 
 [添付ファイル 1](https://www.pornhub.com/view_video.php?viewkey=ph60d4c2267c679)
@@ -2659,7 +2606,7 @@
 
 ---
 
-### 118. いちごミルク事件
+### 99. いちごミルク事件
 **作成者:** レッドキング
 
 <p>いちごミルク事件とは、学校の給食の牛乳を飲み終わり、片付けるバケツがあります。</p><p>そのバケツたまたまがいちごミルク色で僕の友達が</p><p>「女子のしっこみたい」と言ったのです。</p>
@@ -2680,7 +2627,7 @@
 
 ---
 
-### 119. ユーチューブ　
+### 100. ユーチューブ　
 **作成者:** ブラックロック
 
 [添付ファイル 1](https://yh8knk-5000.csb.app/watch?v=JWoVSO7geNI)
@@ -2699,7 +2646,7 @@
 
 ---
 
-### 120. 投稿 120
+### 101. 投稿 101
 **作成者:** "Let's go, bro!" (gs210567)
 
 <p>はいこれ富士見台7番より</p>
@@ -2713,7 +2660,7 @@
 
 ---
 
-### 121. 投稿 121
+### 102. 投稿 102
 **作成者:** "Let's go, bro!" (gs210567)
 
 <p>これ富士見台7番より</p>
@@ -2727,7 +2674,7 @@
 
 ---
 
-### 122. ゆうチューブみたいぃぃぃ
+### 103. ゆうチューブみたいぃぃぃ
 **作成者:** オカノウエ
 
 #### コメント (2)
@@ -2741,7 +2688,7 @@
 
 ---
 
-### 123. uow
+### 104. uow
 **作成者:** あん
 
 #### その他の情報
@@ -2751,12 +2698,12 @@
 
 ---
 
-### 124. マンゲ
+### 105. マンゲ
 **作成者:** ハナゴオリ
 
 <p>マンコ</p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5748376631/8dedff9602e3fabb8e2d5177c4cad7e6/images.jpg?Expires=1783313862&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=R3o0gRfJk9hXbPwEtCgz4Lpbc8DEpng0Nu1MnFZnQ0EJy66vFfB1yGy83jyy43MNp%2Bbx73YAZJYKTNetEa%2BVS%2FtzOBXJYv6Xs7D8WxFsxI8nUM4QdjZgpC6lcmLhvYufYDPOnjS9AvzmynL%2B1xWv6sLTA%2BxQpP72O9HGo7h%2FlH1z%2Bd8Yl9S66YBjt3%2BznyAmMVnwXI2a19CGzxJR98YT7kF8OUT3U7jkMxTboKh8y%2F1OzQ5j1Xf6oeWLMvQfw43LiBP7xaHgBg%2BeAmurQw3z8LEM2lkjKF0HoMY1yNxL1Y7hLMs1Elbi4R33e3z1YaY9y%2FurICqF2qfz2KS7cQA41A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5748376631%2F8dedff9602e3fabb8e2d5177c4cad7e6%2Fimages.jpg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5748376631/8dedff9602e3fabb8e2d5177c4cad7e6/images.jpg?Expires=1784327744&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KpSc%2BC607pVPD6dLXP2VJRA%2FjVrn3%2BGcLVblgLkLQU8Nk0j5J6pc7z%2Fk2pFjA7DBndjbigi7fBVZsatIo0uH1Pm5xdJ%2FkNk9%2FLbHnxpLwNY2IP7PQTFi2KHaXQWV6Bqz%2FvB2Lx76n2teD%2F1OOBtkK9qnwoMyk9GU4xf7RL73ijiK%2FCdR8O3Vtf58uwpCh5WnUAlPcq6MiEDuulrepZ%2FRpaSMEuDE5RhBCLJtnFPpmLz7p4Zcpg7u7vwlTfY3kU72JQ7ofrKe%2B9tZntWqfeNEgS%2FVTmA4Pr2S6y2a5OeaJcS8aJ%2BuZHsd%2BRvcNHwfSKyeYLhFI%2Fy4N9aDqVs0vmCiEg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5748376631%2F8dedff9602e3fabb8e2d5177c4cad7e6%2Fimages.jpg)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -2765,7 +2712,7 @@
 
 ---
 
-### 125. 投稿 125
+### 106. 投稿 106
 **作成者:** ハナゴオリ
 
 <p>マンコ</p><p><br/></p>
@@ -2780,7 +2727,7 @@
 
 ---
 
-### 126. 投稿 126
+### 107. 投稿 107
 **作成者:** コガワ
 
 [添付ファイル 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm?__cf_chl_tk=xE8QTqaLaujrNekOSJjtR4IJp5MguMsCwOgOx4hKWPI-1780361024-1.0.1.1-LNFMOMKxQAsf.Rf_lldtUQBaJ2oPdgv8.SFv60_gdP8)
@@ -2792,7 +2739,7 @@
 
 ---
 
-### 127. 新煮物部屋
+### 108. 新煮物部屋
 **作成者:** aaabbbccc (mazamaza)
 
 [添付ファイル 1](https://padlet.com/nomo0206/new-v04juu3iw251p7v)
@@ -2804,12 +2751,12 @@
 
 ---
 
-### 128. ホロオタ来てー！
+### 109. ホロオタ来てー！
 **作成者:** kotarou
 
 <p>とりま話そ</p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5745072437/a5208270a383a320686a8045296898eb/IMG_0016.jpeg?Expires=1783313862&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=sQ2dQXSCaqBSIUbwmOxOMtujMXNZb8pk3%2FNj9m7F%2FXPlJxBRo%2BDQuwlu8QQRM%2Fr9fOdqEQQ3%2FAaS5y240EGImk%2BLSJTDwNNh8u4NslTG4ZyCsdrQXhYtp561iIXC0IFAA78B68oK8pBQZcbk9QvAUmJt12o7cK0bt1nPw6zf7rVq0S6tAEP4Ju4YBH%2B1jnSKsJ4NmcA2rIldVF4ga4Yrd7W%2BSx%2Bf1Qiy65evnPL5BcijfpakEFfgrO5t02HXjd3XXzItJfRFqBcPML8%2Fv3Vz0kqBKIL2uEoZc8MbxCkkM%2FrMH3gGapMD5lZ6Gh2H5IoZCvDYAp2ZPBU4U%2F7UrCGXEA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5745072437%2Fa5208270a383a320686a8045296898eb%2FIMG_0016.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5745072437/a5208270a383a320686a8045296898eb/IMG_0016.jpeg?Expires=1784327744&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=A5WDl9UMQKIZj%2BWWytJ0lrumXGXiMaSQn%2FPx2ijj7fkI9YCHD5hm0WCfMF90lapLMQ6retd705Q1ZNosS5QJKLCbw8kWObCJ4dFP9g0gSySeOO1oq%2BaxHz1fCEk%2FDAp3gyqPyluNmhanjfT4QEprIHyxxrNShfdMut924AAbItsxMUKCZQ1eYGYMxTWUapo9Q6n85DOHZVYNvRUCFcnJFGTOz4GqeucnLqbR6ZO4BBVRR3duN9mzrWMGHfyFjsSXmB7bLWxr8UIHFOOg%2FcaxP5UHQrF2Y%2FUj9P5c1%2Bdzr2g%2FBi0MkjCnsfiK7QCFaKteR%2Be%2B4Y9rewvaAI7MX5AjVA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5745072437%2Fa5208270a383a320686a8045296898eb%2FIMG_0016.jpeg)
 
 #### コメント (1)
 - **まっす組** (06/02 15:06): きたよー
@@ -2821,7 +2768,7 @@
 
 ---
 
-### 129. 彼女欲しいです
+### 110. 彼女欲しいです
 **作成者:** れいり
 
 #### コメント (3)
@@ -2836,7 +2783,7 @@
 
 ---
 
-### 130. ホロオタ話そー
+### 111. ホロオタ話そー
 **作成者:** こうせい
 
 #### その他の情報
@@ -2846,7 +2793,7 @@
 
 ---
 
-### 131. 彼氏募集してます彼女ほしい人いませんか？
+### 112. 彼氏募集してます彼女ほしい人いませんか？
 **作成者:** トウカ　彼氏ほちい　えっちなこと好きです (touka_karesihosii)
 
 #### コメント (13)
@@ -2871,7 +2818,7 @@
 
 ---
 
-### 132. Robu
+### 113. Robu
 **作成者:** ｔｙｙｙｙｙ
 
 <p><br/></p><p><br/></p>
@@ -2883,7 +2830,7 @@
 
 ---
 
-### 133. 投稿 133
+### 114. 投稿 114
 **作成者:** 久保 (21070046)
 
 [添付ファイル 1](https://www.autistici.org/eaglercraft/play/EaglercraftX_1.8/JavaScript/?server=wss://sus.shhnowisnottheti.me)
@@ -2895,7 +2842,7 @@
 
 ---
 
-### 134. 彼氏ほしい人
+### 115. 彼氏ほしい人
 **作成者:** いけおじ
 
 #### コメント (9)
@@ -2916,7 +2863,7 @@
 
 ---
 
-### 135. ろぶろっくす
+### 116. ろぶろっくす
 **作成者:** うんこ
 
 <p><br/></p><p><br/></p><p><br/></p><p><br/></p>
@@ -2928,7 +2875,7 @@
 
 ---
 
-### 136. 棒人間ゲームほしいです
+### 117. 棒人間ゲームほしいです
 **作成者:** おたすけねこ
 
 #### その他の情報
@@ -2938,7 +2885,7 @@
 
 ---
 
-### 137. 棒人間ゲームください
+### 118. 棒人間ゲームください
 **作成者:** おたすけねこ
 
 #### その他の情報
@@ -2948,7 +2895,7 @@
 
 ---
 
-### 138. 棒人間ゲームとかない？
+### 119. 棒人間ゲームとかない？
 **作成者:** おたすけねこ
 
 <p>棒人間ゲームほしいです、、</p>
@@ -2965,7 +2912,7 @@
 
 ---
 
-### 139. インスタのログインができるやつください
+### 120. インスタのログインができるやつください
 **作成者:** シンザト　ミユ (9202085)
 
 #### その他の情報
@@ -2975,7 +2922,7 @@
 
 ---
 
-### 140. 投稿 140
+### 121. 投稿 121
 **作成者:** すしー
 
 <p>ブレインロット交換場所</p>
@@ -2993,7 +2940,7 @@
 
 ---
 
-### 141. こんちゃ
+### 122. こんちゃ
 **作成者:** スリ（第二号）
 
 #### コメント (21)
@@ -3029,7 +2976,7 @@
 
 ---
 
-### 142. ログインしてない人も？
+### 123. ログインしてない人も？
 **作成者:** the人間
 
 #### コメント (52)
@@ -3096,7 +3043,7 @@
 
 ---
 
-### 143. 1回全員ライターにしました
+### 124. 1回全員ライターにしました
 **作成者:** かぼちゃ (kabot)
 
 <p>荒らしとか出たら色々考えます</p>
@@ -3109,7 +3056,7 @@
 - **HIKAKIN  TV** (05/21 09:20): ついたよー 
 - **HIKAKIN  TV** (05/21 09:20): 誰かいるー
 - **HIKAKIN  TV** (05/21 09:21): 開示請求するぞ！！！
-- **はにわ** (06/25 01:18): これかいじだな
+- **ははははははは** (06/25 01:18): これかいじだな
 
 #### リアクション
 - **絵文字:** 👍 (6)
@@ -3123,7 +3070,763 @@
 
 ## 雑談
 
-### 1. きてくれ
+### 1. aa
+**作成者:** ムシノネ
+
+[添付ファイル 1](https://periodic-table.techmax.hk/)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/10 06:08
+- **更新日（UTC）:** 07/10 06:08
+
+---
+
+### 2. ぐｇｂｈっｂｈ
+**作成者:** コトリウタ
+
+<p><a rel="noopener noreferrer nofollow" class="zReHs" href="https://www.startpage.com/ja/">Startpage - プライベート検索エンジン。追跡なし。検索履歴 ...</a></p><p><a rel="noopener noreferrer nofollow" class="zReHs" href="https://www.startpage.com/ja/"><br></a></p><p><a rel="noopener noreferrer nofollow" class="zReHs" href="https://www.startpage.com/ja/">Startpage</a></p><p><a rel="noopener noreferrer nofollow" href="https://www.startpage.com">https://www.startpage.com</a><a rel="noopener noreferrer nofollow" class="zReHs" href="https://www.startpage.com/ja/"> › ...</a></p>
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/10 04:30
+- **更新日（UTC）:** 07/10 04:30
+
+---
+
+### 3. いろふぃｈろいｆｊ
+**作成者:** 匿名
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/10 04:18
+- **更新日（UTC）:** 07/10 04:18
+
+---
+
+### 4. ううう
+**作成者:** 匿名
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/10 04:18
+- **更新日（UTC）:** 07/10 04:18
+
+---
+
+### 5. いっち
+**作成者:** やりますねー
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/10 03:27
+- **更新日（UTC）:** 07/10 03:27
+
+---
+
+### 6. これいっぱいある
+**作成者:** 匿名 (r0245140)
+
+[添付ファイル 1](https://padlet.com/r0245140/padlet-lbo858hpf5o74lyy)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/10 01:41
+- **更新日（UTC）:** 07/10 01:41
+
+---
+
+### 7. 投稿 7
+**作成者:** 全員集合 (2101092_4)
+
+<p>自由に入ってくれれば嬉しいんよ</p>
+
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5937189355/c998c1b64a04cf31512b25df040078df/videoplayback__1_.mp4?Expires=1784327744&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NVV%2BtALLHryZBngLVsdQ2d5wrKm2kmnFgmOOqgKCvo%2Bt%2BCIbbkXwMVbvuUIdTw6nWC36zfTuV%2FZfHCxy4GH70wE%2F9WU0ac77dQU7HVTp447EhpfhoZf6f8MrK8hBE64r%2FIieaCol9mKgdfXJr66JjVm8Qmf6UrF9YbLml4DIEff0uNEncZURTGSMyPyP1Qp38lWkySMcmhKXT%2Fw8rP5lKAabsYv7iGgYzrUGcYcSUNohHhwc42U6hUUP0LxTWEeP4YIayzCiLOMPz0Qj2ZHTpzrBrFuvtJINIpL6dp0j6hyiLKEjbe6llOVM%2F%2FzQq6nmTBSUgHhgqhiMCRBOHg%2BvAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5937189355%2Fc998c1b64a04cf31512b25df040078df%2Fvideoplayback__1_.mp4)
+
+#### コメント (1)
+- **フィルター&荒らし討伐隊** (07/10 01:12): 入る
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/10 01:12
+- **更新日（UTC）:** 07/10 01:12
+
+---
+
+### 8. 暇
+**作成者:** DAKAI
+
+#### コメント (1)
+- **おうが応援する人(れいり)** (07/10 01:02): おれも
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/10 01:00
+- **更新日（UTC）:** 07/10 01:00
+
+---
+
+### 9. 誰かいますか？
+**作成者:** れいり
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 23:41
+- **更新日（UTC）:** 07/09 23:41
+
+---
+
+### 10. 投稿 10
+**作成者:** カワホタル
+
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5935476453/50a18d5fdd36ccd162237c59b9bb9a3b/IMG_0189.jpeg?Expires=1784327744&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=yabvdygOnqdZkh9vDpoI0ZOWvgfquPG4m4nKXUS9V7JJp%2F6%2BjCotFolcx%2FFrRJNmMuyS1erY9ILEl7RNxbWPhfyuUE%2B9inCCJoqveyVDVURHp%2FnKrG17AcFQ8y4oeGVc4WNRe2YQJAUQE1vBSyzZHHeZ6bN0RcmbiO9qFTF%2BeF%2BybDzw8CZrlxy574RQg%2BlMFDmsV9%2B19DRXeR9Er0O8iOAcLzfNVUQ7KVMhFftVMbjSWhGImXAm0xcP31sluQjPYP%2Bl8yCzstDgo%2Bojwp2CnHzIVF8uKHr5Vf0w7bLvJSNS351D93KAu%2FxwJmWce%2B%2F13RyMSqlhgfLwhlov1M00xQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5935476453%2F50a18d5fdd36ccd162237c59b9bb9a3b%2FIMG_0189.jpeg)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 12:58
+- **更新日（UTC）:** 07/09 12:58
+
+---
+
+### 11. ざつだんになんかいる
+**作成者:** 匿名
+
+<p><br/></p><p><br/></p>
+
+#### コメント (1)
+- **ははははははは** (07/09 07:28): まじで
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 07:24
+- **更新日（UTC）:** 07/09 07:24
+
+---
+
+### 12. 隣に眼鏡いる
+**作成者:** もやし
+
+#### コメント (6)
+- **ははははははは** (07/09 06:44): これはいって
+- **ははははははは** (07/09 06:44): https://splax.net/game/bb.html
+- **フィルター&荒らし討伐隊** (07/09 06:58): ブロック
+- **ははははははは** (07/09 07:28): すまない
+- **ははははははは** (07/09 07:28): こっち
+- **ははははははは** (07/09 07:28): https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 06:07
+- **更新日（UTC）:** 07/09 06:07
+
+---
+
+### 13. ラーメンたべたい
+**作成者:** もやし
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 06:07
+- **更新日（UTC）:** 07/09 06:07
+
+---
+
+### 14. はねほしいい
+**作成者:** もやし
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 06:07
+- **更新日（UTC）:** 07/09 06:07
+
+---
+
+### 15. レモンスカッシュ
+**作成者:** もやし
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 06:06
+- **更新日（UTC）:** 07/09 06:06
+
+---
+
+### 16. スマブラ
+**作成者:** スマブラ民なう
+
+#### コメント (2)
+- **スマブラ民なう** (07/09 06:04): スマブラクソゲーとか言ったけど嘘です神ゲーですガノン魔卒です
+- **フィルター&荒らし討伐隊** (07/10 02:50): だよねー
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 06:02
+- **更新日（UTC）:** 07/09 06:02
+
+---
+
+### 17. スマブラ神ゲーだと思う人！
+**作成者:** フィルター&荒らし討伐隊 (se10210036)
+
+<p>ちなみにここ今日参加した</p>
+
+#### コメント (11)
+- **フィルター&荒らし討伐隊** (07/09 05:50): 初めて参加だからちょっと色々教えて
+- **ミゾ** (07/09 05:51): 👍️
+- **フィルター&荒らし討伐隊** (07/09 05:51): れいりって人のネーム真似したってこと？誰かが
+- **だかいSUMMARY** (07/09 06:17): 神ゲーだよね
+- **ははははははは** (07/09 06:45): 神ゲー
+- **フィルター&荒らし討伐隊** (07/09 06:46): いまいた
+- **だかいSUMMARY** (07/09 06:46): 誰か対戦しましょう
+- **だかいSUMMARY** (07/09 06:47): 今日の６時ぐらいに
+- **フィルター&荒らし討伐隊** (07/09 06:58): したい
+- **フィルター&荒らし討伐隊** (07/09 06:58): けどね、うちのクソ毒親はニンテンドーアカウントしてくれないんだよ
+- **フィルター&荒らし討伐隊** (07/09 06:58): しかも叩いてくる
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 05:49
+- **更新日（UTC）:** 07/09 05:49
+
+---
+
+### 18. 女私以外いる？
+**作成者:** るか
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 05:43
+- **更新日（UTC）:** 07/09 05:43
+
+---
+
+### 19. 今学校でこれやってるど他にいる？
+**作成者:** モヤホシ
+
+#### コメント (10)
+- **ははははははは** (07/09 05:39): ここにいるよ
+- **ははははははは** (07/09 05:40): 会話しよ
+- **ははははははは** (07/09 05:41): できればこれはいってほしい
+- **ははははははは** (07/09 05:41): https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm
+- **フィルター&荒らし討伐隊** (07/09 05:43): うん
+- **おうが応援する人（れいり）** (07/09 05:43): 入ってるもともと
+- **フィルター&荒らし討伐隊** (07/09 05:44): はい
+- **おもちの民** (07/09 05:44): やっほー
+- **フィルター&荒らし討伐隊** (07/09 05:46): やっほー
+- **隱ｭ繧√∪縺吶°** (07/09 06:02): 縺薙ｓ縺ｫ縺｡縺ｯ  
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 05:38
+- **更新日（UTC）:** 07/09 05:38
+
+---
+
+### 20. スマブラ民
+**作成者:** だかいSUMMER
+
+#### コメント (9)
+- **だかいSUMMARY** (07/09 04:21): スマブラクソゲー
+- **おうが応援する人（れいり）** (07/09 04:22): は？
+- **おうが応援する人（れいり）** (07/09 04:22): 黙れ
+- **バスケ大好きにき** (07/09 04:37): それはやばすぎやん
+- **ははははははは** (07/09 05:40): しねよ
+- **フィルター&荒らし討伐隊** (07/09 05:48): スマブラ神ゲー
+- **スマブラ民なう** (07/09 06:10): 嘘ですよ
+- **フィルター&荒らし討伐隊** (07/09 06:47): ↑嘘って何か
+- **バスケ大好きにき** (07/09 07:27): うそつくいみがない
+
+#### リアクション
+- **絵文字:** 👍 (1)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 04:10
+- **更新日（UTC）:** 07/09 04:10
+
+---
+
+### 21. これはいって
+**作成者:** ははははははは (2101038_5)
+
+#### コメント (1)
+- **ははははははは** (07/09 03:22): https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 03:22
+- **更新日（UTC）:** 07/09 03:22
+
+---
+
+### 22. 投稿 22
+**作成者:** ははははははは (2101038_5)
+
+[添付ファイル 1](https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm/wish/94PGWn5wx8OAZLRV)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 03:19
+- **更新日（UTC）:** 07/09 03:19
+
+---
+
+### 23. スマブラ好きあつまれ
+**作成者:** だかいさん
+
+#### コメント (10)
+- **匿名** (07/09 03:22): すえなが黙れ
+- **匿名** (07/09 03:23): I don't like you.
+- **匿名** (07/09 03:24): あああ　だかいさま
+- **クモヒカリ** (07/09 03:25): 消えろ
+- **クモヒカリ** (07/09 03:28): ブロッコリー
+- **天才** (07/09 03:31): how about you?
+- **天才** (07/09 03:32): What are you doing right now?
+- **天才** (07/09 03:33): I have seen you on YouTube.
+- **クモヒカリ** (07/09 03:35): スマブラは時代遅れだよ！
+- **ははははははは** (07/09 07:29): スマブラ楽しいよ
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 03:12
+- **更新日（UTC）:** 07/09 03:12
+
+---
+
+### 24. 授業中に話そうぜ
+**作成者:** タビノソラ
+
+<p>授業中の奴募集</p>
+
+#### コメント (27)
+- **タビノソラ** (07/09 02:26): 誰か入ってー
+- **ユキヅキ** (07/09 02:38): お、おう
+- **おうが応援する人（れいり）** (07/09 02:39): お、おう
+- **おうが応援する人（れいり）** (07/09 02:39): 今授業じゃあーーわわ
+- **バスケ大好きにき** (07/09 02:40): はーい
+- **バスケ大好きにき** (07/09 02:41): 何の授業ですか
+- **あかさたな** (07/09 02:41): なんの授業？
+- **バスケ大好きにき** (07/09 02:41): 自分は社会です
+- **ユキヅキ** (07/09 02:41): 国語
+- **バスケ大好きにき** (07/09 02:41): たびのソラさんおーい
+- **おうが応援する人（れいり）** (07/09 02:42): 俺国語
+- **あかさたな** (07/09 02:42): おれ数学ー
+- **あかさたな** (07/09 02:42): 社会好き？
+- **おうが応援する人（れいり）** (07/09 02:43): うん今歴史やってるから
+- **あかさたな** (07/09 02:46): あーね
+- **おうが応援する人（れいり）** (07/09 02:48): うん
+- **バスケ大好きにき** (07/09 02:51): 今誰を勉強してるの？歴史で
+- **バスケ大好きにき** (07/09 02:51): 自分は鑑真
+- **おうが応援する人（れいり）** (07/09 02:51): わからん卑弥呼？
+- **おうが応援する人（れいり）** (07/09 02:51): 中1ね俺
+- **バスケ大好きにき** (07/09 02:51): うわああああああああｗりｊｇといｈちおうｖ８９に
+- **バスケ大好きにき** (07/09 02:52): ８１０
+- **バスケ大好きにき** (07/09 02:52): ８１０
+- **バスケ大好きにき** (07/09 02:52): ８１０
+- **おうが応援する人（れいり）** (07/09 02:53): いかれてんのね
+- **ははははははは** (07/09 03:21): １９１９
+- **フィルター&荒らし討伐隊** (07/09 06:48): しょうとくたいし
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 02:25
+- **更新日（UTC）:** 07/09 02:25
+
+---
+
+### 25. 学タブでやってる人いる？
+**作成者:** バスケ大好きにき (2101021_18)
+
+#### コメント (9)
+- **おうが応援する人（れいり）** (07/09 01:56): はーい
+- **バスケ大好きにき** (07/09 01:58): 自分は今授業中です
+- **バスケ大好きにき** (07/09 01:59): 先生にバレないようにやってます笑
+- **おうが応援する人（れいり）** (07/09 02:00): 俺もw
+- **タビノソラ** (07/09 02:26): 俺も 
+- **タビノソラ** (07/09 02:31): クラスの豚にちくられそう
+- **タビノソラ** (07/09 02:33): あいつ殺す
+- **あかさたな** (07/09 02:46): がんばれー
+- **Anonymous** (07/10 07:44): 俺も
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 01:56
+- **更新日（UTC）:** 07/09 01:56
+
+---
+
+### 26. 今何してる
+**作成者:** ははははははは (2101038_5)
+
+#### コメント (50)
+- **おうが応援する人（れいり）** (07/09 01:47): 授業
+- **ははははははは** (07/09 01:49): なんかげーむしってますか
+- **ははははははは** (07/09 01:50): 教えてください
+- **ははははははは** (07/09 01:50): プロキシとか、知ってますか
+- **ははははははは** (07/09 01:51): おしえてほしいです、お願いします。
+- **おうが応援する人（れいり）** (07/09 01:52): いいよ
+- **おうが応援する人（れいり）** (07/09 01:53): https://script.google.com/a/macros/g.edi.akashi.hyogo.jp/s/AKfycbyxyCkEFdAbKtw2WF-HwErfhqTRP8YCbtrq9nXWykP87GPpohIWwuOiCACTzwXQ5b2a3Q/execブレインロッドでキーボードで動く
+- **ははははははは** (07/09 01:53): ありがとうございます
+- **バスケ大好きにき** (07/09 01:53): Rocket Soccer
+- **ははははははは** (07/09 01:54): IDってどうやりますか
+- **バスケ大好きにき** (07/09 01:54): Iron Snout by SnoutUp神ゲー矢印？みたいので攻撃ね
+- **バスケ大好きにき** (07/09 01:55): DayDream Xプロキシだよー
+- **ははははははは** (07/09 01:55): まじでありがとうございます
+- **バスケ大好きにき** (07/09 01:59): 全然いいよー
+- **バスケ大好きにき** (07/09 02:00): もっといる？
+- **おうが応援する人（れいり）** (07/09 02:00): いるー
+- **バスケ大好きにき** (07/09 02:00): おけじゃあ出すで
+- **バスケ大好きにき** (07/09 02:00): Totally Science: Unblocked Games
+- **バスケ大好きにき** (07/09 02:01): Among Us Flashcards - Techmax
+- **バスケ大好きにき** (07/09 02:01): Level Devil TopVAZ
+- **バスケ大好きにき** (07/09 02:01): とりあえず３こ出したよ
+- **ははははははは** (07/09 02:02): もしかしていま国語の時間ですか
+- **おうが応援する人（れいり）** (07/09 02:02): 違う
+- **おうが応援する人（れいり）** (07/09 02:02): 全部使えんw
+- **バスケ大好きにき** (07/09 02:03): 自分パドレっと作りました。
+- **ははははははは** (07/09 02:03): 結構行けますよ
+- **バスケ大好きにき** (07/09 02:03): おうがさんまじですか
+- **バスケ大好きにき** (07/09 02:03): ｗ
+- **ははははははは** (07/09 02:03): おもろ
+- **バスケ大好きにき** (07/09 02:03): じゃああと少し出します
+- **バスケ大好きにき** (07/09 02:04): Subway Surfers - Games | 𝗡𝗮𝘁𝗶𝘃𝗲 𝗚𝗮𝗺𝗲𝘀
+- **バスケ大好きにき** (07/09 02:04): Space
+- **おうが応援する人（れいり）** (07/09 02:04): おうがじゃないっす
+- **おうが応援する人（れいり）** (07/09 02:04): れいりっす
+- **バスケ大好きにき** (07/09 02:04): 動画 - チョコTube
+- **バスケ大好きにき** (07/09 02:04): これ行ける？
+- **バスケ大好きにき** (07/09 02:04): パスワードはchocoだよ
+- **バスケ大好きにき** (07/09 02:04): ユーチューブです
+- **ははははははは** (07/09 02:05): れいりさんですか
+- **おうが応援する人（れいり）** (07/09 02:06): 使えん
+- **バスケ大好きにき** (07/09 02:06): 自分パドレット作りました入れますか
+- **バスケ大好きにき** (07/09 02:07): https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm
+- **おうが応援する人（れいり）** (07/09 02:08): 入ってます
+- **バスケ大好きにき** (07/09 02:09): かって言う人リア友だったwwwwwwwwww
+- **バスケ大好きにき** (07/09 02:09): れいりさんがち
+- **おうが応援する人（れいり）** (07/09 02:10): うん
+- **バスケ大好きにき** (07/09 02:36): すいません！少しやめていて返事できませんでした
+- **バスケ大好きにき** (07/09 02:37): じゃあもう少し出します
+- **バスケ大好きにき** (07/09 02:37): Space Buggy
+- **バスケ大好きにき** (07/09 02:38): Home
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 01:43
+- **更新日（UTC）:** 07/09 01:43
+
+---
+
+### 27. サッカーサイコー
+**作成者:** キクカゼ
+
+#### コメント (3)
+- **ゆゆゆ** (07/09 01:37): それな
+- **ははははははは** (07/09 01:41): それわそう
+- **ははははははは** (07/09 01:43): こんにちわ
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 01:20
+- **更新日（UTC）:** 07/09 01:20
+
+---
+
+### 28. はやとにき
+**作成者:** ゆゆゆ
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 01:19
+- **更新日（UTC）:** 07/09 01:19
+
+---
+
+### 29. 投稿 29
+**作成者:** バスケ大好きにき (2101021_18)
+
+[添付ファイル 1](https://padlet.com/padlets/po8cfmn9j0tkhdpm)
+
+#### コメント (11)
+- **ナギコ** (07/09 00:45): う
+- **伊藤です** (07/09 01:10): みんなここ楽しい
+- **キクカゼ** (07/09 01:16): ここサイコー
+- **キクカゼ** (07/09 01:16): 来てみ
+- **キクカゼ** (07/09 01:16): ゲームめっちゃあるよ
+- **キクカゼ** (07/09 01:18): 面白いよ
+- **バスケ大好きにき** (07/09 01:20): プロキシもありますよ！！
+- **ゆゆゆ** (07/09 01:54): ここえぐいよ
+- **ハゲ愛好家** (07/09 02:04): エグいｗｗｗ
+- **ハゲ愛好家** (07/09 02:04): エグいｗｗｗ
+- **バスケ大好きにき** (07/09 02:43): きてほしいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいい
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 00:43
+- **更新日（UTC）:** 07/09 00:43
+
+---
+
+### 30. 投稿 30
+**作成者:** バスケ大好きにき (2101021_18)
+
+<p>バスケが好きな人話しましょう！</p>
+
+#### コメント (4)
+- **バスケ大好きにき** (07/09 00:38): こんにちは～
+- **バスケ大好きにき** (07/09 00:38): 僕は特にカイリー・アービングが好きです
+- **伊藤です** (07/09 01:11): 僕はどんちゃんがすきです
+- **バスケ大好きにき** (07/09 01:51): いやお前リア友やん
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 00:37
+- **更新日（UTC）:** 07/09 00:37
+
+---
+
+### 31. こんにちは
+**作成者:** ハンバーガー (gs221358)
+
+#### コメント (3)
+- **れいり** (07/08 02:43): こんにちは
+- **暇人two Time** (07/08 06:58): こんにちは
+- **バスケ大好きにき** (07/09 00:39): こんにちは～
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/08 01:41
+- **更新日（UTC）:** 07/08 01:41
+
+---
+
+### 32. 同じ学校の人多すぎて混乱しています。助けてください
+**作成者:** 暇人two Time
+
+<p>下に下に行くほど友達の名前が...</p><p><br/></p><p>まじで恐怖</p>
+
+#### コメント (4)
+- **R** (07/07 21:50): お疲れ様
+- **ソラギク** (07/07 23:41): 頑張れ
+- **暇人two Time** (07/08 06:58): なんかありがとうございます？
+- **R** (07/09 00:10): w
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/07 09:10
+- **更新日（UTC）:** 07/07 09:10
+
+---
+
+### 33. 投稿 33
+**作成者:** ちんこ大好きマン
+
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5924498826/3b804c12a31ddc1ffd908098d5e7fd1d/IMG_0751.jpeg?Expires=1784327744&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uGApLN5mrYiKy%2BTuT719RdemNIXDcz2bDua%2FZO%2BfO3kPvTYeuo5MuOjRkQBpKpIkMHqOs8%2F6ANNyUD%2FUs9woN27D0ft%2BfYJUV21%2Bi7SbKNVgWZerePnf4971XAtz5JMAIvz5x2k9JSrwyliAMXA5zgcsFTKzlD3YTuL%2BLD9RKN10IoMxZMdi367hpQPm1eUQebzjr2EZ5wAhDkoKuGiQLoSQZMAMpgTTcY23LswhVTpKjLY1dhpi41%2BedWxPvmdIb22LXkhvE2N9qlbe0WPzcGDrWt2ZGLXmnuLioG5HIaAeIE46CBvu1X4wxI9x8sXdkzTsq5eRgLzdB5pCT7TPBA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5924498826%2F3b804c12a31ddc1ffd908098d5e7fd1d%2FIMG_0751.jpeg)
+
+#### コメント (3)
+- **ちんこ大好きマン** (07/07 08:49): Ai画像www
+- **バスケ大好きにき** (07/09 03:22): https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm
+- **バスケ大好きにき** (07/09 03:23): 来てほしいーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー！！！！！！！！！！！！！！！！！！！
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/07 08:47
+- **更新日（UTC）:** 07/07 08:47
+
+---
+
+### 34. プロキシ教えて
+**作成者:** ははははははは (2101038_5)
+
+<p>プロキシ教えて</p><p><br/></p><p><br/></p>
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/07 07:44
+- **更新日（UTC）:** 07/07 07:44
+
+---
+
+### 35. るきとおる？
+**作成者:** れいり
+
+#### コメント (3)
+- **れいり** (07/07 05:12): アン／／／
+- **オクラ** (07/07 07:35): どうしや
+- **れいり** (07/08 11:55): ルキって何年生
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/07 05:11
+- **更新日（UTC）:** 07/07 05:11
+
+---
+
+### 36. ルキトー
+**作成者:** れいり
+
+#### コメント (7)
+- **れいり** (07/07 04:04): 返事して〜
+- **れいり** (07/07 04:22): パー
+- **れいり** (07/07 04:22): アン／／😁
+- **れいり** (07/07 04:26): なぁああああ
+- **れいり** (07/07 04:26): 返事しろおおおおおお
+- **れいり** (07/07 04:55): るきとおおおおおおおおおおおおおおおお
+- **れいり** (07/07 05:09): るきとちゃ〜ん
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/07 04:03
+- **更新日（UTC）:** 07/07 04:03
+
+---
+
+### 37. オンラインでできるゲーム教えてください
+**作成者:** UFCchampion (298344445)
+
+#### コメント (1)
+- **暇人two Time** (07/07 09:17): オンライン？
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/07 03:22
+- **更新日（UTC）:** 07/07 03:22
+
+---
+
+### 38. 誰かエロベア作ってー
+**作成者:** ツキノ
+
+#### コメント (9)
+- **キクカ** (07/06 10:43): BANされんぞ
+- **ツキノ** (07/06 10:44): まじ！
+- **ミツバ** (07/06 12:16): それなー
+- **れいり** (07/06 12:47): よくないよ
+- **Roblox_user-u** (07/06 14:45): 作りましたhttps://padlet.com/hacker_6640225_et56/padlet-6fxxfverimllp552
+- **オクラ** (07/07 07:36): 入れない、、、、
+- **Roblox_user-u** (07/07 07:57): 多分これで入れるようになりました !
+- **暇人two Time** (07/07 09:18): エロベアーって何？
+- **Windows Debug Man - 316** (07/08 11:27): 知らないほうがいいと思います...(俺も知りたくなかった)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/06 10:43
+- **更新日（UTC）:** 07/06 10:43
+
+---
+
+### 39. ちんこの写真あげていい部屋作って
+**作成者:** ちんこ大好きマン
+
+#### コメント (15)
+- **れいり** (07/06 09:52): おk
+- **ちんこ大好きマン** (07/06 10:05): はやく作って
+- **れいり** (07/06 10:17): https://talk.ubports.com/join/0dab9443-55e7-4622-bba4-c56c3cbce32d
+- **れいり** (07/06 10:17): これは？
+- **ちんこ大好きマン** (07/06 10:37): こうゆうのじゃない
+- **ちんこ大好きマン** (07/06 10:38): 普通のパドレッド部屋
+- **Roblox_user-u** (07/06 14:45): ここに投稿してください↓https://padlet.com/hacker_6640225_et56/padlet-6fxxfverimllp552
+- **ちんこ大好きマン** (07/06 21:40): 俺学校のタブレットだから出せない
+- **ちんこ大好きマン** (07/06 21:41): 出せないじゃなくて入れない
+- **あ～ん** (07/07 01:03): えろ
+- **あ～ん** (07/07 01:04): みせて
+- **ちんこ大好きマン** (07/07 01:57): じゃあ部屋作って「ログインしなくても入れるやつ」
+- **アマノキ** (07/07 05:37): っていうか、ゲストモードでこればれない？？？？？
+- **Roblox_user-u** (07/07 07:57): ログイン不要にしました
+- **ちんこ大好きマン** (07/07 08:43): あげたよ
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/06 09:38
+- **更新日（UTC）:** 07/06 09:38
+
+---
+
+### 40. ここほとんど匿名しかいないやん
+**作成者:** Coolkid（元ニカーー）#krtkさんの22番弟子 (TOKYO874321Forsaken)
+
+#### コメント (1)
+- **Roblox_user-u** (07/06 14:46): 確かに (w)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/06 08:34
+- **更新日（UTC）:** 07/06 08:34
+
+---
+
+### 41. ちんこの写真あげていいですか？
+**作成者:** ちんこ大好きマン
+
+#### コメント (17)
+- **陽太** (07/06 08:07): いいよ
+- **れいり** (07/06 08:08): いいよ
+- **ちんこ大好きマン** (07/06 08:09): あげまーす
+- **れいり** (07/06 08:11): うん
+- **れいり** (07/06 08:13): 早く出せよ
+- **ちんこ大好きマン** (07/06 08:17): どうやって画像あげるんですか？
+- **れいり** (07/06 08:20): ここあげれんわ
+- **れいり** (07/06 08:20): https://meet.stuvus.uni-stuttgart.de/%E9%9B%91%E8%AB%87
+- **れいり** (07/06 08:20): ここきて　出して
+- **ちんこ大好きマン** (07/06 08:32): ここは入れない
+- **ちんこ大好きマン** (07/06 08:33): 新しいの作って
+- **Anonymous** (07/06 08:49): 作れや
+- **Roblox_user-u** (07/06 14:46): https://padlet.com/hacker_6640225_et56/padlet-6fxxfverimllp552
+- **チック症** (07/07 00:09): 当たり前だろ
+- **アマノキ** (07/07 05:36): エロ部屋作って
+- **アマノキ** (07/07 05:37): ログインじゃないやつ
+- **Roblox_user-u** (07/07 07:56): ログインしなくてもできるようにしました
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/06 08:06
+- **更新日（UTC）:** 07/06 08:06
+
+---
+
+### 42. 投稿 42
+**作成者:** ちんこ大好きマン
+
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5919380186/195038e389f73a8f7c53c61df7b63530/ScreenRecording_07_02_2026_16_13_47_1.mov?Expires=1784327744&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QynjtvzhcFzDixQWY8t4yQ0MVMpvY%2BfGJ9AB1Y1iMlUXRFHS0Opbxketv9lEUHUpITFiPW%2FQVH6jychXI3haRyNDwKRjDR9SV3bKczM93mG2UcvCWOppEkJILPswyWaQETdqZFNxDKqP0jRy92%2FgSTPpMdwo8ZGJBpaitpxPsXp4AEdXuid0KYAAyjMmma6h7YmgAu9lw3u6gkYCoLygG5JwcwlfLraIJp6o1J9hqrEtDb4S6gqZXhsDsBZdYBh0ILbtEVG39aFx46X5HQMgf5jrq2ydaWq8x5xKN5fa6LkeHDCYZRMmanfsghdva9Ujy6rHBpdvfVVX0rLC4tCV9g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5919380186%2F195038e389f73a8f7c53c61df7b63530%2FScreenRecording_07_02_2026_16_13_47_1.mov)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/06 08:05
+- **更新日（UTC）:** 07/06 08:05
+
+---
+
+### 43. おれとやれる人募集中
+**作成者:** ４２
+
+#### コメント (4)
+- **れいり** (07/03 02:41): お前だれ？
+- **４２** (07/06 05:19): ４２
+- **イロドリ** (07/06 07:33): ちんこの写真あげていいですか？
+- **ちんこ大好きマン** (07/06 08:03): あげていいよ
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/03 02:39
+- **更新日（UTC）:** 07/03 02:39
+
+---
+
+### 44. sh1mmerについて情報があるならください
+**作成者:** あぁ
+
+<p><a rel="noopener noreferrer nofollow" href="https://github.com/MercuryWorkshop/sh1mmer"><strong><br>sh1mmer</strong></a><strong>の成功例などを共有していただけると嬉しいです。</strong></p><p><strong>このブログに仕組みなどが書かれています。</strong></p>
+
+[添付ファイル 1](https://blog.coolelectronics.me/breaking-cros-3/)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/03 01:50
+- **更新日（UTC）:** 07/03 01:50
+
+---
+
+### 45. きてくれ
 **作成者:** るうるう (ruuruuruuruuruu)
 
 <p>きてえ</p>
@@ -3137,10 +3840,13 @@
 
 ---
 
-### 2. いいやつだよ
+### 46. いいやつだよ
 **作成者:** ユキビヨリ
 
 [添付ファイル 1](https://testing.suwal.com.np/)
+
+#### コメント (1)
+- **あっきーくん** (07/02 08:36): 残念もうI-Filter適用されちゃってます
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -3149,540 +3855,15 @@
 
 ---
 
-### 3. sうな
-**作成者:** 焼き止めと
-
-<p><br/></p><p><br/></p><p><br/></p><p><br/></p>
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 10:04
-- **更新日（UTC）:** 06/28 10:04
-
----
-
-### 4. いん
-**作成者:** イノシシ
-
-<p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p>
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:58
-- **更新日（UTC）:** 06/28 09:58
-
----
-
-### 5. あらすな
-**作成者:** 焼き止めと
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:57
-- **更新日（UTC）:** 06/28 09:57
-
----
-
-### 6. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 7. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 8. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 9. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 10. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 11. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 12. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 13. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 14. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 15. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 16. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 17. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 18. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 19. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 20. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 21. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 22. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 23. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 24. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 25. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 26. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 27. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 28. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 29. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 30. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 31. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 32. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 33. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 34. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 35. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 36. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 37. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 38. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 39. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 40. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 41. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 42. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 43. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 44. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 45. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 46. Hello 1782637796874
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H74IwfahDAp8ekA7nkj0snYbhW7IKPcZe24WiGegJV%2Bd3xRccTV%2FNlO%2FAP9XNUyJIO1PtP%2B0wFVUC7ELPFpuQ60d3W04OqQpcqGA3p6TFHS99qWLD4WfzqdvE1q8IQhUogqrJ783%2F3P4P0wRZ5OlxCthfgGhX%2Bt4vxH9bhRKV%2BNnmbf1YojLTzThnoHBVtBLjo%2BWTmvLT53w1B2Sqa2LQhqG%2BS5sW75WpmK7Y9oZNYOQF3ilbWmvA2L1sj3lantEWABzme1k5oeVIl6oupPSxTj0BL45ay2Kj9NuU2WgEvISpBB1Ebk5Ftg%2FvHCBqQR84Gp53K%2FU2vujtis6RQpqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
 ### 47. チキバナ懐かしいなあ
-**作成者:** ネッコぢゃん (carrybag2222222222222237564)
+**作成者:** nekko (nekkooooongo)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5855047705/8e6b5e6935ca766ae92b8f5f327d4d34/IMG_0996.jpeg?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6d%2F9YfHXKUzj45v2UaE2sp26tDrf1aBPXPZ4t%2BUQLUhoAI%2BS6INwZH2WOK9z2FXcP4HV87HuJkDOC0nl04QMiB1O3dOGSaIrSrB4Sh%2Bt6bZUxw60Vepqw00HMsGvpV5p1Pl4O%2Bp01mO2SYjOxSxUhKjElPeJGEqe%2BKZ%2Benr8d5YMHxRkoFsXNoKAhBahy%2Bkngj5gL6aS%2FfkOOTIxXzGszRkw%2BLRr%2FJYQpigsdOhjl9UYMQEACjxTC%2BCDbsWZX4nY3UsMNYhInIz4w1sH4cyc9LKRfh6uEsOet7Z0ahABul7KNgL%2BBiBogMqii18pA%2BWi43Qpnk7B%2BChBhSaOmMjzmA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5855047705%2F8e6b5e6935ca766ae92b8f5f327d4d34%2FIMG_0996.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5855047705/8e6b5e6935ca766ae92b8f5f327d4d34/IMG_0996.jpeg?Expires=1784327744&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cIh3DvPm8FYU7d2xjyN5A%2F27pT90Kq376BaO3R7meZQVACeGtyJVBsw3eY1cc%2F1QwXE92IYSCbskxvQ%2Bpcbr2K%2F%2BM8URIiJSpNgYl41SHkY%2BxpgviL8X%2Fq4xe7l3VS6U4rtJdrsKTzNicJHCYfuEWXtoKsS1rPtJ1zRGMe81Q3eRVHoe9Knccjt%2B%2Fko2E2y91BC5Y8q2JbbhMS60e9wVIoekqDeiqJOT6t1TOWVR4tSqBKduzPhFCleRAH7WkGz0ASbKxurEfeLuIaPhEVm3Mp%2Bem7P9qQ30FtDYg9a8LdDdTF8WjCC35XWSkl%2BwAL7Ef2%2F%2Bi8GeVvuOY5K5Sbl2Rw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5855047705%2F8e6b5e6935ca766ae92b8f5f327d4d34%2FIMG_0996.jpeg)
 
-#### コメント (2)
-- **⁭⁭ink** (06/28 08:13): おやおや
-- **ネッコぢゃん** (06/28 08:14): （チキバナはこの世から消え去りました）
+#### コメント (3)
+- **K!N** (06/28 08:13): おやおや
+- **nekko** (06/28 08:14): （チキバナはこの世から消え去りました）
+- **マタタキ** (07/06 10:54): どうゆうこと？
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -3692,16 +3873,16 @@
 ---
 
 ### 48. なんか新規しかいないやん
-**作成者:** ネッコぢゃん (carrybag2222222222222237564)
+**作成者:** nekko (nekkooooongo)
 
 <p>どこここ</p>
 
 #### コメント (5)
-- **ネッコぢゃん** (06/28 08:06): こんなところ荒らす気にもならんわ
-- **ネッコぢゃん** (06/28 08:08): ああね
-- **ネッコぢゃん** (06/28 08:09): でもぬほに許可取らんとあかん
-- **⁭⁭ink** (06/28 08:10): ネッコ部屋が非公開やからな
-- **ネッコぢゃん** (06/28 08:10): 俺の受け付けだったら行ける
+- **nekko** (06/28 08:06): こんなところ荒らす気にもならんわ
+- **nekko** (06/28 08:08): ああね
+- **nekko** (06/28 08:09): でもぬほに許可取らんとあかん
+- **K!N** (06/28 08:10): ネッコ部屋が非公開やからな
+- **nekko** (06/28 08:10): 俺の受け付けだったら行ける
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -3710,26 +3891,7 @@
 
 ---
 
-### 49. 僕制作者ですなまえかわりました
-**作成者:** イノシシ
-
-#### コメント (4)
-- **イノシシ** (06/28 03:08): 遅いですかね
-- **イノシシ** (06/28 03:20): イノシシって言いますできるだけフォローしてください
-- **カマキリ** (06/28 05:32): お前がログインしてねぇから出来ねぇよ
-- **カマキリ** (06/28 05:32): 消えろ荒らし
-
-#### リアクション
-- **絵文字:** 👀 (1)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 03:08
-- **更新日（UTC）:** 06/28 03:08
-
----
-
-### 50. わたしとフォトナフレンドなってー車好きさん
+### 49. わたしとフォトナフレンドなってー車好きさん
 **作成者:** あいり
 
 #### コメント (5)
@@ -3746,7 +3908,7 @@
 
 ---
 
-### 51. 荒らし禁止でお願いします
+### 50. 荒らし禁止でお願いします
 **作成者:** コノネ
 
 <p>みんなでワイワイ楽しく</p>
@@ -3764,26 +3926,12 @@
 
 ---
 
-### 52. 投稿 52
-**作成者:** 車好き (22170078)
-
-<p>破損した</p>
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5870012945/ba049aa207b83107651b5bb7e9dd78e5/photo.jpeg?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=509uDVpMui9gwAf5RKQq5efK71LVuMcsc%2Bk0DmIduNIvGhXqr0TnZOoWhwy6XMtWk%2BWI%2BxonJkwJxHZgcBoKd9KWd%2BBSMMYCr%2FE0JW%2By9nG6DkQap5%2F8xrdMLIRR9ItqMgyx2m2%2BZ5fJsiR5nsRE5uL%2FKfpfGVC4BtupBRDakiBw922RyvxDRyyWu8y78GsXL0m%2BF%2BKlfYq28ckx5bNDgU2wCc8L9ImVZhYkRswLHpVVO7X2eBhpJO9TJe8DltIMhoDrTMga8%2B5wvxkxfRy9c%2By8bGFbOFquGTKXqGGofbetTy9Ufp9kodkT30y0hfkgLyeE%2FnNZpm6hHYM1Mi0l5g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5870012945%2Fba049aa207b83107651b5bb7e9dd78e5%2Fphoto.jpeg)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 09:40
-- **更新日（UTC）:** 06/27 09:40
-
----
-
-### 53. 投稿 53
+### 51. 投稿 51
 **作成者:** 車好き (22170078)
 
 <p>城之内wwwwwwwwwwwwww</p><p><br/></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5870012945/3e196e2508e8995170faad7c9b20e479/IMG_0133.png?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4GrhLVgTKGD2480dQAIds2zZTcQOSHw9MbC25LwGKjRSLNFh%2FNJWYuQWlAiVBQrMJ9sldcxrzoHJbxsJfu3uZMMnhRKkW2FCcCu%2B1%2BH%2Ff3uHit2L%2BQ8HMIG3onyMDuLP%2BLffZiLx8BVBLslNk%2F9AXQQn7xV7JJt5FhSOpSqHhtox8SpBklsCrA9JDal7oWZIk5bCv7DAPa1K06Zw3dzX%2B7H0OAe0woFp5n%2BD0P2Mo0I9x%2B%2FBvkrNLKqlJc%2BAAI3erBrLctBfKV7omkcTzDOP0Gy5VpcgO81v3phwE7%2BnmlasB1HoyUVbZQdSbSL4XGleiomSeSG1ELv7uHwMwWX2dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5870012945%2F3e196e2508e8995170faad7c9b20e479%2FIMG_0133.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5870012945/3e196e2508e8995170faad7c9b20e479/IMG_0133.png?Expires=1784327744&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YzjMQmb11aGIkg00wSllUwYA4w2q8EeV87hZmN6HAFLiRFWtqWYbL7%2F6%2BZ3PtGU0m6UhxFHPBbIfs%2FkhqKVKBa6SRRjr2sHvDRZM1r8BFWW0XrHpqVzN9y9pysTUAz0E5iQlLBK%2F4oTIfj1xM3c2Cngj4thCDHhVDD0dONkqvww%2FYunVqiPfCo%2BVAbWD9WcxzS%2F5pA3U1z29rBIHNKUXH40HCfaE7YSZngShLfu4stN%2FYNY2SkGx6NIpRkIHFPcuYBsuTt0aQV%2FRWSI1vx3gn32uWw4qjWPd1ogOAToUbJubBafikQByGVOBQCS6WoR1C%2FnCG0eZrlI66EGcwZW5QQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5870012945%2F3e196e2508e8995170faad7c9b20e479%2FIMG_0133.png)
 
 #### コメント (3)
 - **まっつー** (06/27 10:41): そのサイト教えて
@@ -3797,52 +3945,12 @@
 
 ---
 
-### 54. 投稿 54
-**作成者:** 車好き (22170078)
-
-<p>イケメン</p><p><br/></p>
-
-![闇堕ちしたマリオ](https://genai-public.padletcdn.com/disco/prod/imagen/1782550717787/sample_0.png)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 08:59
-- **更新日（UTC）:** 06/27 08:59
-
----
-
-### 55. １
-**作成者:** イノシシ
-
-<p><br/></p><p>１</p><p><br/></p><p>１</p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p>１１</p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p>１</p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p>４</p><p><br/></p><p>４４４４</p><p><br/></p><p><br/></p><p>４４４４４４４４４４４４</p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p>４４４４４４４</p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p>５６</p><p><br/></p><p><br/></p><p><br/></p><p>６５</p><p><br/></p><p><br/></p><p><br/></p><p>２２２２２２２</p><p><br/></p><p><br/></p><p>７７７７７７７</p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p>４４４４４４４４４４４４</p><p><br/></p><p><br/></p><p><br/></p><p><br/></p>
-
-#### コメント (2)
-- **車好き** (06/27 08:56): どした？話聞こか？
-- **イノシシ** (06/28 03:06): お願い
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 08:36
-- **更新日（UTC）:** 06/27 08:36
-
----
-
-### 56. いんこ
-**作成者:** イノシシ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 08:16
-- **更新日（UTC）:** 06/27 08:16
-
----
-
-### 57. 投稿 57
+### 52. 投稿 52
 **作成者:** 車好き (22170078)
 
 <p>チヌーク</p><p><br/></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5870012945/618e9cb1dce98dc6d53c1144ae64089c/photo.jpeg?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Zsrftt1P%2F%2FSUTED84QCv1gyN4AVWNwJl62cY%2BnfqSTJSAJ2tyssgo%2B1DL1SBFxOLAQiTlFtK5kTiWsMEE%2BhizrAiRYX6T%2BXBV%2BG9HW%2BIz%2FnvZp3dqApMaPQgCM0%2FJ%2FcZBwmXWnhdNZACGhljvMf37jLUcRSgIokOVwBy2rRbIwVhUJ3eRaz6CPjdX5nMAw%2FbHv8ZyMvZw6oKUuNILf1WEDMDFBI0sJjt%2FtqfH5KfS66EVQBYYtX1aQkbycHb55kd8C2ctxwh%2BChNImHs4OsaQ8l%2Bc2tBon%2BO1%2F645nZzwLrI%2B2JRg%2By4OKNgGjj6s%2FUDbVtI3xIClabw398jsG0HJQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5870012945%2F618e9cb1dce98dc6d53c1144ae64089c%2Fphoto.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5870012945/618e9cb1dce98dc6d53c1144ae64089c/photo.jpeg?Expires=1784327744&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mN3W6GNkToYU1d%2F7kDMMGkcHYcl8BEoKm%2Bf%2BwEd%2FhZVdqZhjsCUaQnuM5S%2Bu%2FFEb0vk0bfqIKjU%2BDBc8EWRZY49pAMwL0n0tkgsrRe9Cs0RqWVh7qlTdWTuwnqRPtF3fyfQytKdgI9ifm5E%2B3WLuCrho1pzWzTsfxr72JZN%2FeFLsXlZ9VK75gPA6%2FC3UdvZg7ZVTj9hErw13fzEysKqoapwB3d6mwukaq4uYboes9Hhp6eM4DsoK67twoKtcET4w851RCWn3pmOHOuUsPXXdv2KGRPVUcbQxANYAGeCMWFsZFjakLwVL556bXcp5m0Pk6n%2B0OxcyRGRcW1Yo5v9gLw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5870012945%2F618e9cb1dce98dc6d53c1144ae64089c%2Fphoto.jpeg)
 
 #### コメント (11)
 - **車好き** (06/27 08:10): 自作です 
@@ -3864,7 +3972,7 @@
 
 ---
 
-### 58. 投稿 58
+### 53. 投稿 53
 **作成者:** 車好き (22170078)
 
 [添付ファイル 1](https://padlet.com/22170078/padlet-38hypq3raurreay6)
@@ -3880,7 +3988,7 @@
 
 ---
 
-### 59. 投稿 59
+### 54. 投稿 54
 **作成者:** 車好き (22170078)
 
 <p>簡単だよ</p>
@@ -3892,16 +4000,16 @@
 
 ---
 
-### 60. 投稿 60
+### 55. 投稿 55
 **作成者:** 車好き (22170078)
 
 <p>車好きへのクイズ</p>
 
 #### コメント (5)
-- **9123_JPN** (06/27 05:51): ?
-- **9123_JPN** (06/27 05:52): むずすぎて滅
+- **＠ken #チピチャパ教　#納豆教** (06/27 05:51): ?
+- **＠ken #チピチャパ教　#納豆教** (06/27 05:52): むずすぎて滅
 - **車好き** (06/27 05:54): コメェントありがトゥ
-- **9123_JPN** (06/27 05:54): あいよお
+- **＠ken #チピチャパ教　#納豆教** (06/27 05:54): あいよお
 - **車好き** (06/27 05:56): どっこいしょ
 
 #### その他の情報
@@ -3911,35 +4019,17 @@
 
 ---
 
-### 61. 投稿 61
-**作成者:** 車好き (22170078)
-
-<p>これ</p>
-
-![gt-r](https://genai-public.padletcdn.com/disco/prod/imagen/1780382787474/sample_0.png)
-
-#### コメント (2)
-- **9123_JPN** (06/27 05:55): かっこよ
-- **車好き** (06/27 07:11): AIだよ 
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 05:35
-- **更新日（UTC）:** 06/27 05:35
-
----
-
-### 62. 投稿 62
+### 56. 投稿 56
 **作成者:** 車好き (22170078)
 
 **gtrすき？:**
-- **すき:** 6件の投票
+- **すき:** 12件の投票
 - **嫌い:** 0件の投票
-- **知らない:** 3件の投票
-- **どれでもいいわうんこ:** 7件の投票
+- **知らない:** 4件の投票
+- **どれでもいいわうんこ:** 14件の投票
 
 #### コメント (4)
-- **9123_JPN** (06/27 06:35): 車よくわからんけどGTRはクソカッコイイ定期
+- **＠ken #チピチャパ教　#納豆教** (06/27 06:35): 車よくわからんけどGTRはクソカッコイイ定期
 - **車好き** (06/27 07:12): そ
 - **車好き** (06/27 07:12): れ
 - **車好き** (06/27 07:12): な
@@ -3950,18 +4040,18 @@
 #### その他の情報
 - **投稿のカラー:** ホワイト
 - **作成日（UTC）:** 06/27 03:36
-- **更新日（UTC）:** 06/28 07:52
+- **更新日（UTC）:** 07/10 07:54
 
 ---
 
-### 63. 投稿 63
+### 57. 投稿 57
 **作成者:** 車好き (22170078)
 
 **何で見に来てる？:**
-- **学校のタブレット:** 11件の投票
+- **学校のタブレット:** 28件の投票
 - **Pc:** 1件の投票
 - **スマホ:** 1件の投票
-- **学校のpc:** 1件の投票
+- **学校のpc:** 3件の投票
 
 #### コメント (3)
 - **ゆうり** (06/27 01:15): あああ
@@ -3971,16 +4061,16 @@
 #### その他の情報
 - **投稿のカラー:** ホワイト
 - **作成日（UTC）:** 06/27 01:13
-- **更新日（UTC）:** 06/28 07:52
+- **更新日（UTC）:** 07/10 15:16
 
 ---
 
-### 64. 投稿 64
+### 58. 投稿 58
 **作成者:** 車好き (22170078)
 
 <p>誕プレのラジコン</p><p><br/></p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5870012945/75c01506896e21102a10e54c4a3ab9d3/photo.jpeg?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LAEQHFzN4Vtmf10OSO9mSD8hkn0e7a7SgpjNU%2FooJvvPNhUm9ULb%2BMPogF5EMokFyN71hYwCqDq7kLsX%2BGA5jh5L6tuF4FZ%2F7Fko0wvojdWLtdjK70y6qKwOsYC%2FPN8UJaRmE9QmYZZ3IzKpEDRsvMyvHsQpM%2F2BE0j5vnkuevOpwQ6mxlnSNGwwNgT6cNAbL4F6CSAjBs7dYn%2Bl5vcbsZXAGIksMqJin4QUeQbNYuQjFTl4Y7dDNOiuio%2FewIwwF59PDqyQJnQED6IznfwMT8OBiJQRZ%2BsSlu3TxuGkF0DOV3wWACrGSDG%2FmftkoixwV9IjQ66BLrboWOCNx%2B8gZw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5870012945%2F75c01506896e21102a10e54c4a3ab9d3%2Fphoto.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5870012945/75c01506896e21102a10e54c4a3ab9d3/photo.jpeg?Expires=1784327745&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Ukwph3oxDC8O7I3%2FpP3soBhuji5uuXEbCKxdNl4WUYUqk7UikGwBah8dQARdYqjlbWazJlycQMi4iNn3ogkLf453xEj%2FBraBJ49muOg%2Bw89b%2B0TRhiVbT2oG9mzIvofBAmbI4246At2PQYITxpZrYvBLGA%2F1ilJMtYpdngZ1vxkg%2F%2FmTNdoCVyA3CiR96b0zWBM2XyjYGPVtj6oSCWrs2dcMHe6pRGBsP50GtZ3AljJHlvGLkNCytF1foT3aS1bxvqCfABu%2B1x2ozGMnM2LDDWeULnFLX%2By9L0spAuaQmyt%2BrhiqO%2FAdZuvGwA8SM59Km0xm2oh46EyftmR5jwas0A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5870012945%2F75c01506896e21102a10e54c4a3ab9d3%2Fphoto.jpeg)
 
 #### コメント (2)
 - **カワガラス** (06/27 05:09): いいねー
@@ -3996,7 +4086,7 @@
 
 ---
 
-### 65. 閲覧注意見た人感想お願いします
+### 59. 閲覧注意見た人感想お願いします
 **作成者:** ソーナンス？
 
 <p>あなたは好きですか？</p>
@@ -4014,15 +4104,15 @@
 
 ---
 
-### 66. 投稿 66
+### 60. 投稿 60
 **作成者:** ゴリラ
 
 **フォートナイト何でやってる？:**
-- **Switch:** 22件の投票
-- **パソコン:** 4件の投票
-- **スマホ:** 1件の投票
+- **Switch:** 30件の投票
+- **パソコン:** 6件の投票
+- **スマホ:** 2件の投票
 
-#### コメント (12)
+#### コメント (13)
 - **あいり** (06/26 12:43): フォートナイトフレンドなろ
 - **ゴリラ** (06/27 00:47): なりたい 
 - **あいり** (06/27 01:16): 名前何？
@@ -4035,6 +4125,7 @@
 - **車好き** (06/27 06:33): ナメキチ4304デスーーーー
 - **あいり** (06/27 14:53): わたしはりりれおんだよ
 - **あいり** (06/27 14:53): 送るね明日
+- **ｈｊｇｓｄｇｓｇ** (07/07 12:54): だれかフレンドなって
 
 #### リアクション
 - **絵文字:** 👍 (1)
@@ -4042,11 +4133,11 @@
 #### その他の情報
 - **投稿のカラー:** ホワイト
 - **作成日（UTC）:** 06/26 10:27
-- **更新日（UTC）:** 06/27 12:28
+- **更新日（UTC）:** 07/10 07:54
 
 ---
 
-### 67. おうがさんこれって友達とできたりしないんですか？
+### 61. おうがさんこれって友達とできたりしないんですか？
 **作成者:** ✌PEACE✌ (s20214472)
 
 #### その他の情報
@@ -4056,7 +4147,7 @@
 
 ---
 
-### 68. 〜陸上部〜
+### 62. 〜陸上部〜
 **作成者:** series227urara 岡山行 (kontikuwa)
 
 <p>Ｔさん　こちらです。</p><p><br/></p><p>パスワードは</p><p>Ｔさんの名字「〇〇〇〇〇〇」ローマ字でね。（小文字）</p>
@@ -4067,9 +4158,9 @@
 - **コノミチ** (06/26 08:22): 俺も入りたいです
 - **コノミチ** (06/26 08:22): 鉄道好きです
 - **series227urara 岡山行** (06/26 12:48): は？
-- **9123_JPN** (06/27 05:21): 227系、、、。岡山、、、。宇野線かな？
-- **9123_JPN** (06/27 05:21): 岡山よくわからんなあ
-- **9123_JPN** (06/27 05:23): 茶屋町から先って227系走ってたっけ
+- **＠ken #チピチャパ教　#納豆教** (06/27 05:21): 227系、、、。岡山、、、。宇野線かな？
+- **＠ken #チピチャパ教　#納豆教** (06/27 05:21): 岡山よくわからんなあ
+- **＠ken #チピチャパ教　#納豆教** (06/27 05:23): 茶屋町から先って227系走ってたっけ
 
 #### その他の情報
 - **投稿のカラー:** ブルー
@@ -4078,7 +4169,7 @@
 
 ---
 
-### 69. 誰かおかずください
+### 63. 誰かおかずください
 **作成者:** ミドリノカゼ
 
 #### コメント (2)
@@ -4092,7 +4183,7 @@
 
 ---
 
-### 70. ゴリマッチョゴリた
+### 64. ゴリマッチョゴリた
 **作成者:** シオジ
 
 #### コメント (2)
@@ -4109,7 +4200,7 @@
 
 ---
 
-### 71. 楽しいなーー
+### 65. 楽しいなーー
 **作成者:** トマト
 
 #### その他の情報
@@ -4119,7 +4210,7 @@
 
 ---
 
-### 72. いんか
+### 66. いんか
 **作成者:** Careful Crane
 
 #### コメント (1)
@@ -4132,11 +4223,11 @@
 
 ---
 
-### 73. トムとジェリー見れるサイト知ってる人教えてほしい
+### 67. トムとジェリー見れるサイト知ってる人教えてほしい
 **作成者:** あアシスト
 
 #### コメント (2)
-- **はにわ** (06/26 01:15): こんちゃ
+- **ははははははは** (06/26 01:15): こんちゃ
 - **規制** (06/26 01:15): シランガナ　なんで
 
 #### その他の情報
@@ -4146,35 +4237,7 @@
 
 ---
 
-### 74. 投稿 74
-**作成者:** ハンバーガー (gs221358)
-
-[添付ファイル 1](https://testing.suwal.com.np/)
-
-#### コメント (1)
-- **ツキカモメ** (06/25 22:26): おおおおおおおお
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 22:23
-- **更新日（UTC）:** 06/25 22:23
-
----
-
-### 75. こんにちは
-**作成者:** ハンバーガー (gs221358)
-
-#### コメント (1)
-- **はにわ** (06/26 01:15): こんちゃ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 22:23
-- **更新日（UTC）:** 06/25 22:23
-
----
-
-### 76. いるよー
+### 68. いるよー
 **作成者:** ひなこ
 
 #### その他の情報
@@ -4184,7 +4247,7 @@
 
 ---
 
-### 77. 投稿 77
+### 69. 投稿 69
 **作成者:** こんにちは
 
 <p>0626　2100－</p>
@@ -4198,7 +4261,7 @@
 
 ---
 
-### 78. 投稿 78
+### 70. 投稿 70
 **作成者:** ツユビコ
 
 <p>こんにちはー</p>
@@ -4214,7 +4277,7 @@
 
 ---
 
-### 79. 入って〜
+### 71. 入って〜
 **作成者:** c00lkidd (r0400295_1)
 
 [添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
@@ -4229,7 +4292,7 @@
 
 ---
 
-### 80. 投稿 80
+### 72. 投稿 72
 **作成者:** 車好き (22170078)
 
 <p>コンチャ</p><p><br/></p>
@@ -4247,7 +4310,7 @@
 
 ---
 
-### 81. しおん9時に来いよ！
+### 73. しおん9時に来いよ！
 **作成者:** れいり
 
 #### その他の情報
@@ -4257,14 +4320,14 @@
 
 ---
 
-### 82. 投稿 82
+### 74. 投稿 74
 **作成者:** そーなんす？
 
 **スマイリーの将来:**
-- **白玉:** 2件の投票
-- **炎上:** 3件の投票
+- **白玉:** 3件の投票
+- **炎上:** 4件の投票
 - **大人気:** 0件の投票
-- **鼻くそわっしょい(☝ ՞ਊ ՞)☝:** 28件の投票
+- **鼻くそわっしょい(☝ ՞ਊ ՞)☝:** 36件の投票
 
 #### コメント (1)
 - **そーなんす？** (06/25 07:20): 投票協力お願い
@@ -4272,16 +4335,16 @@
 #### その他の情報
 - **投稿のカラー:** ホワイト
 - **作成日（UTC）:** 06/25 07:08
-- **更新日（UTC）:** 06/28 08:43
+- **更新日（UTC）:** 07/10 08:00
 
 ---
 
-### 83. 鼻くそわっしょい(☝ ՞ਊ ՞)☝
+### 75. 鼻くそわっしょい(☝ ՞ਊ ՞)☝
 **作成者:** そーなんす？
 
 #### コメント (3)
-- **RNE-るね** (06/25 07:08): わお
-- **RNE-るね** (06/25 07:08): なんか誰かいた
+- **@kasakeri-かさけり #マイクラ** (06/25 07:08): わお
+- **@kasakeri-かさけり #マイクラ** (06/25 07:08): なんか誰かいた
 - **そーなんす？** (06/25 07:09): コメントありがとうー（初投稿）
 
 #### その他の情報
@@ -4291,7 +4354,7 @@
 
 ---
 
-### 84. ここ
+### 76. ここ
 **作成者:** れいり
 
 [添付ファイル 1](https://script.google.com/a/macros/g.edi.akashi.hyogo.jp/s/AKfycbw_Joicm3JqUAdiG_opxPnoEAO7tPJwaUCs8Ve6dPlQoZssRhoCf16yZWBMndEo8Dbu/exec)
@@ -4303,7 +4366,7 @@
 
 ---
 
-### 85. 友達になろーだれかー
+### 77. 友達になろーだれかー
 **作成者:** ✌PEACE✌ (s20214472)
 
 #### コメント (1)
@@ -4316,7 +4379,7 @@
 
 ---
 
-### 86. 誰か暇だから話そう「学校にいます」
+### 78. 誰か暇だから話そう「学校にいます」
 **作成者:** 学校のノートパソコンでやってますｗｗ
 
 <p>うんちい</p>
@@ -4347,7 +4410,7 @@
 
 ---
 
-### 87. 誰かいますか？
+### 79. 誰かいますか？
 **作成者:** ひなこ
 
 #### コメント (3)
@@ -4362,7 +4425,7 @@
 
 ---
 
-### 88. 入ってきてブレインロットのパクリゲー作って見ましたこれ宣伝してほしいです宣伝してくれたら管理者コードもらえるかも？！
+### 80. 入ってきてブレインロットのパクリゲー作って見ましたこれ宣伝してほしいです宣伝してくれたら管理者コードもらえるかも？！
 **作成者:** クサノツユ
 
 [添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
@@ -4374,7 +4437,7 @@
 
 ---
 
-### 89. 使って見て
+### 81. 使って見て
 **作成者:** ユメホシ
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm">https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm</a></p><p>自引きしたらここにスクショのして</p>
@@ -4388,20 +4451,21 @@
 
 ---
 
-### 90. みんなゲームとユーチューブやりかた教えてくださいお願いします
+### 82. みんなゲームとユーチューブやりかた教えてくださいお願いします
 **作成者:** 匿名
 
-#### コメント (10)
+#### コメント (11)
 - **伊藤豪** (06/24 06:26): やっほーー
-- **はにわ** (06/24 06:26): ヤッホー
+- **ははははははは** (06/24 06:26): ヤッホー
 - **伊藤豪** (06/24 06:27): しね
-- **はにわ** (06/24 06:27): ふざけるなーーー
-- **はにわ** (06/24 06:28): 悪口やめろ
+- **ははははははは** (06/24 06:27): ふざけるなーーー
+- **ははははははは** (06/24 06:28): 悪口やめろ
 - **伊藤豪** (06/24 06:28): 鈴木やっほーー
-- **はにわ** (06/24 06:29): こんちゃ
+- **ははははははは** (06/24 06:29): こんちゃ
 - **伊藤豪** (06/24 06:29): おれら黒沢尻北小学校だよ
 - **伊藤豪** (06/24 06:33): 沖縄県のなに市でしょう
-- **はにわ** (06/25 01:05): ゲーム教えて
+- **ははははははは** (06/25 01:05): ゲーム教えて
+- **ニキビ** (07/02 05:27): 北上市岩手県のｗｗｗ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -4410,7 +4474,7 @@
 
 ---
 
-### 91. そっち系の話できる人募集中
+### 83. そっち系の話できる人募集中
 **作成者:** シンゲツ
 
 <p>誰でも来いや</p>
@@ -4429,14 +4493,14 @@
 
 ---
 
-### 92. ブロックされないレーシングゲームありますか？
+### 84. ブロックされないレーシングゲームありますか？
 **作成者:** まっつー
 
 #### コメント (4)
 - **匿名** (06/24 02:03): あるよー
 - **まっつー** (06/24 04:42): 教えて
 - **まっつー** (06/24 04:42): くれませんか？
-- **はにわ** (06/25 01:07): URLください
+- **ははははははは** (06/25 01:07): URLください
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -4445,7 +4509,7 @@
 
 ---
 
-### 93. 話したい‼︎
+### 85. 話したい‼︎
 **作成者:** まっつー
 
 #### コメント (8)
@@ -4465,7 +4529,7 @@
 
 ---
 
-### 94. 誰か
+### 86. 誰か
 **作成者:** こんにちは
 
 #### コメント (2)
@@ -4479,7 +4543,7 @@
 
 ---
 
-### 95. 誰かー
+### 87. 誰かー
 **作成者:** 豚眉毛 (southerncross0629)
 
 <p>一番左の上から3番目見て、荒らしがおるー！みんなで協力して報告するぞ</p><p><br/></p>
@@ -4510,7 +4574,7 @@
 
 ---
 
-### 96. 誰か話そ
+### 88. 誰か話そ
 **作成者:** まっつー
 
 #### コメント (19)
@@ -4532,7 +4596,7 @@
 - **まっつー** (06/23 11:46): 私は中2で今13歳です、陸上部で中学受験しました
 - **まっつー** (06/23 11:46): 新しく作るのでそこで話しましょう
 - **かかか** (06/23 22:10): 人違いでした！
-- **はにわ** (06/25 01:10): お
+- **ははははははは** (06/25 01:10): お
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -4541,7 +4605,7 @@
 
 ---
 
-### 97. だれかはなそ
+### 89. だれかはなそ
 **作成者:** ひなの
 
 #### コメント (3)
@@ -4556,7 +4620,7 @@
 
 ---
 
-### 98. ↓ブロックされた
+### 90. ↓ブロックされた
 **作成者:** えりちゃん推し (gs212089)
 
 #### コメント (3)
@@ -4571,7 +4635,7 @@
 
 ---
 
-### 99. 投稿 99
+### 91. 投稿 91
 **作成者:** ゆみら
 
 [添付ファイル 1](https://share.google/1Ch10SFT7lz5XVlAo)
@@ -4583,7 +4647,7 @@
 
 ---
 
-### 100. はなそー
+### 92. はなそー
 **作成者:** ひなの
 
 [添付ファイル 1](https://meet.stuvus.uni-stuttgart.de/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF)
@@ -4595,7 +4659,7 @@
 
 ---
 
-### 101. ひま
+### 93. ひま
 **作成者:** タカトラ
 
 #### コメント (1)
@@ -4608,7 +4672,7 @@
 
 ---
 
-### 102. 誰かいるー？
+### 94. 誰かいるー？
 **作成者:** 怜 (reirei0919)
 
 #### コメント (5)
@@ -4625,10 +4689,10 @@
 
 ---
 
-### 103. うｎ
+### 95. うｎ
 **作成者:** ウミツユ
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5842395002/46f7506da498b0a9f02d6b3f94277b62/photo.jpeg?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=AQ1J7E6gH5hOjJQ0GttCZr9%2F3VRfq700eFuuDABE8lGbWsmRWODlWbgTL4oLDeZlL4TMuCAQYQf8c8J5voYhYB93wRg097aOQY38sX%2FzURJhfN6H25EorNomMnYYXq8qcQu5h9mLflHEQvyAdHdJx6%2B08UPQsb7iF2v6Zsn6QxqYLDMHzmJlHVhyw11Gw2YhbtStLeWuA3rgT%2ByF2xk0nEkZLG2pmwd3KQQ1OtEECXhP%2Fg%2BxSNab04L4jGRb03G%2F23Nqo%2B7%2BH4uN1v3ZuPuGr46E71DwC%2Fmcp1Cs8x2Kq14xEf1E7GKIShu9Hzchzlrs2n2i0dxRAPpZs0RFPmzJlw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5842395002%2F46f7506da498b0a9f02d6b3f94277b62%2Fphoto.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5842395002/46f7506da498b0a9f02d6b3f94277b62/photo.jpeg?Expires=1784327745&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GBj9rqk5Ybnt0sIARfdc6fhN2w8VIWQxi7qpnRQVdV7e3V3wl%2FgqGuSYZ9QWl44Bb8HYgj1%2BjUX031IoSiSpX4Ud0FFfuPdz9ROrlBPFH0SWjo6sZM2Nil4L4Fifi8DhB0LJ56PSlaG5S%2F9GgZ4ODPbsfnRhjGcISte04B5QYenuKPg%2BHxh2c6s0%2BPhtS41EnBphZHRVJxT3Bi5RZKFsKp5SP%2BtNCvx4ouRzFI1cP2OkSfpCHBI6oIRpxR2HuNd%2B24jlayt97vPYYjI2oOs%2FvSU%2FdxdEZ68JnO5K1oY2A%2BB8ubuqlCLUcyA9oE5Lk9I%2BG%2FMgc4eAOGRA2VW4ELkGAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5842395002%2F46f7506da498b0a9f02d6b3f94277b62%2Fphoto.jpeg)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -4637,7 +4701,7 @@
 
 ---
 
-### 104. きて
+### 96. きて
 **作成者:** ロバ
 
 [添付ファイル 1](https://meet.stuvus.uni-stuttgart.de/はじめましてこんにちは)
@@ -4649,7 +4713,7 @@
 
 ---
 
-### 105. しりとり大会中止です。
+### 97. しりとり大会中止です。
 **作成者:** レッドキング
 
 #### コメント (1)
@@ -4662,7 +4726,7 @@
 
 ---
 
-### 106. うぇ
+### 98. うぇ
 **作成者:** 怜 (reirei0919)
 
 #### その他の情報
@@ -4672,12 +4736,12 @@
 
 ---
 
-### 107. 投稿 107
+### 99. 投稿 99
 **作成者:** ハチミツ
 
 **スクラッチのゲームする方法教えて欲しい人「教えてほしい」が60％超えたら教えません無理な人もいるかもしれません:**
-- **教えて欲しい:** 28件の投票
-- **別に興味ない:** 17件の投票
+- **教えて欲しい:** 31件の投票
+- **別に興味ない:** 20件の投票
 
 #### コメント (7)
 - **ハチミツ** (06/19 05:48): 上の文章のおかしいところあるから直しとく
@@ -4691,16 +4755,16 @@
 #### その他の情報
 - **投稿のカラー:** ホワイト
 - **作成日（UTC）:** 06/19 05:47
-- **更新日（UTC）:** 06/27 12:01
+- **更新日（UTC）:** 07/10 14:24
 
 ---
 
-### 108. 土曜日しりとり大会します！
+### 100. 土曜日しりとり大会します！
 **作成者:** レッドキング
 
 <p>当日参加大歓迎！</p><p>来る方はコメント</p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5835643281/bea46e88d6de920582ba215c62c5db2f/IMG_0409.jpeg?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bbx%2FXo27iw3h3JTnFmmPcyOdD8k45auCT0AO1qw5uuO%2BDiAIU4pYLhHE4lQO96Gbk5H2B2yyraAuZLudtUvzxmBfM80AmekT5hVUrQz%2FzLKPFMMC9k%2FsJzb%2Fc2Oj5E3dsYLJsFrKIaJBfBSMX%2BaaBMdgaziy%2Bm2o5TE%2Bu7G7YT27%2Fp%2FH6eMFFFqfNMcECz5SFS%2BTDqf05OlmsBvVs3eN23zPa7EHXjLnOLkueBzlF4ACE4eL3vYI4euUEWOX9O%2F98%2BhncpgGz8F36KgRf9VRoL4%2FZllg5YQpXwASw8f6z7cjvcAMltXOJgVtLexrK8a4yLTllV%2BEWlMxXV9yiTz7aw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5835643281%2Fbea46e88d6de920582ba215c62c5db2f%2FIMG_0409.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5835643281/bea46e88d6de920582ba215c62c5db2f/IMG_0409.jpeg?Expires=1784327745&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=P7l0I6n63GwvbRAT7FiBppXcylc%2BteRjPJUTyySDjboYK56O347bQ39TY4nKTupsmiAV335UfNGGuYjUdVajF%2Fh0y6Jh4r%2FJ2wJKE8NoCqzLxGiWwyRMiCl6NkXxOVp4J5z1pWcvD6K0PSabxTsDLKg%2BUkRIbjnX9T%2B02bsbZ91qJxfQWWKq7pdD13nbUMi7E%2FOK89mbxFcEHLtzzSRY21L%2BN93PB6wfVvxEp%2Fw2vv4vAU%2Blt%2FtkZX4i12%2BGenZWvtB4hZQ%2BlmPnhdyls6nYNV%2FOXAtJkgBV3taIwXDV907ut5aOTkq73d7ljxYzBG%2FZ7b5GP2coqda8dGaYiK6SKg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5835643281%2Fbea46e88d6de920582ba215c62c5db2f%2FIMG_0409.jpeg)
 
 #### コメント (2)
 - **火の粉** (06/19 05:03): ワホー
@@ -4713,7 +4777,7 @@
 
 ---
 
-### 109. はいってね
+### 101. はいってね
 **作成者:** あああ
 
 [添付ファイル 1](https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPost)
@@ -4728,7 +4792,7 @@
 
 ---
 
-### 110. はいってね
+### 102. はいってね
 **作成者:** あああ
 
 #### コメント (2)
@@ -4742,7 +4806,7 @@
 
 ---
 
-### 111. はいってね
+### 103. はいってね
 **作成者:** あああ
 
 #### コメント (2)
@@ -4756,7 +4820,7 @@
 
 ---
 
-### 112. 土曜日しりとり大会します！！
+### 104. 土曜日しりとり大会します！！
 **作成者:** レッドキング
 
 <p>きてね</p>
@@ -4773,7 +4837,7 @@
 
 ---
 
-### 113. ランマーありあす？
+### 105. ランマーありあす？
 **作成者:** マキカゼ
 
 #### その他の情報
@@ -4783,7 +4847,7 @@
 
 ---
 
-### 114. 誰かいる？
+### 106. 誰かいる？
 **作成者:** c00lkidd (r0400295_1)
 
 #### コメント (3)
@@ -4798,7 +4862,7 @@
 
 ---
 
-### 115. だれかいる？
+### 107. だれかいる？
 **作成者:** ユキホシ
 
 #### コメント (21)
@@ -4831,7 +4895,7 @@
 
 ---
 
-### 116. 土曜日しりとり大会します！
+### 108. 土曜日しりとり大会します！
 **作成者:** レッドキング
 
 <p>やりたい人はコメントよろしく！</p><p>当日参加大歓迎です♪</p>
@@ -4858,13 +4922,13 @@
 
 ---
 
-### 117. 投稿 117
+### 109. 投稿 109
 **作成者:** ハハハハ
 
 [添付ファイル 1](https://padlet.com/mo_i_zoo/padlet-wfx5clzffum44uj6)
 
 #### コメント (4)
-- **カラフルピーチどぬく推し** (06/17 02:20): よくない18歳以下入れないようにしろー
+- **どぬく🍑** (06/17 02:20): よくない18歳以下入れないようにしろー
 - **ああああああああ** (06/17 05:04): １１
 - **シズオリ** (06/17 11:08): あ
 - **ハハハハ** (06/18 06:52): 中学生たちに良きものを与えているだけさ
@@ -4876,7 +4940,7 @@
 
 ---
 
-### 118. カフーと
+### 110. カフーと
 **作成者:** こんにちは
 
 #### コメント (1)
@@ -4889,7 +4953,7 @@
 
 ---
 
-### 119. 投稿 119
+### 111. 投稿 111
 **作成者:** トオリアメ
 
 <p>エロ漫画とかないですかね</p>
@@ -4906,7 +4970,7 @@
 
 ---
 
-### 120. 誰かいる？
+### 112. 誰かいる？
 **作成者:** 人がゴミのようだ👿🏀 (6802516)
 
 #### その他の情報
@@ -4916,7 +4980,7 @@
 
 ---
 
-### 121. だれかいますか
+### 113. だれかいますか
 **作成者:** あああ
 
 #### コメント (58)
@@ -4986,7 +5050,7 @@
 
 ---
 
-### 122. いますか
+### 114. いますか
 **作成者:** こんにちは
 
 #### コメント (1)
@@ -4999,7 +5063,7 @@
 
 ---
 
-### 123. wカップの見方教えてください
+### 115. wカップの見方教えてください
 **作成者:** うんピー (19001890)
 
 #### コメント (2)
@@ -5013,14 +5077,15 @@
 
 ---
 
-### 124. 女子と小学生専用
+### 116. 女子と小学生専用
 **作成者:** 増田
 
-#### コメント (4)
+#### コメント (5)
 - **増田** (06/14 03:24): 今日２１１５－
 - **増田** (06/14 03:24): https://meet.stuvus.uni-stuttgart.de/%E5%B0%8F%E5%AD%A6%E7%94%9F%E3%81%A8%E5%A5%B3%E5%AD%90%E3%81%A0%E3%81%91%E3%81%AE%E9%83%A8%E5%B1%8B
 - **Anonymous** (06/15 03:10):  やらせろ
 - **スタバの神** (06/15 10:03): おーい
+- **ちんこ大好きマン** (07/06 08:19):   
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -5029,10 +5094,10 @@
 
 ---
 
-### 125. よろしくね
+### 117. よろしくね
 **作成者:** 人間５０年 (s25250030)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3851209759/568999ec7525472aa60fc580fe47971a/Screenshot_2026_06_13_09_28_46.png?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=X9qsbRwvjpQbxrmC8K6UDuPJiOkGPBlJ%2B58TSWbPbmkTKObYWYRRGUTMoWvC5TT%2FrbcCexSg1PSMaxGSvJ9K3fz3VZQmSQq4Tn6CiYAO3YTVu69PhvELe5p3NU%2Bmn0ge8fQnwrjJ1nhEwL08g6bNyZaBtfYtpry8ShSx%2FyFjYylYCJvZ0zwRXdkf5k47BlEjB0c%2Bs9W9UX0UiDCAwbmrKOrQarX2sw%2F60r2B0i4JgxSvgstOCFSHiXxMHCLk3V%2BSp%2FAcPvVeV1qzg6F2NVuQYaInC1A8g7SHRhRshVeDGz%2FGghMKS9gZNhNXaQV%2B1cr7WVhLUCOUMmHGl%2B4WGAYXlA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3851209759%2F568999ec7525472aa60fc580fe47971a%2FScreenshot_2026_06_13_09_28_46.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3851209759/568999ec7525472aa60fc580fe47971a/Screenshot_2026_06_13_09_28_46.png?Expires=1784327745&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=o25hFoqI0oZmgMl8aHhU8kxaKkbK5avzsmE%2FIMER9yiggMjZw%2BAR%2F2QH50WtzUc5nLK%2B%2Fk6i3nGCjZSaozJ35nBopaY3UzZ5t%2FSuQ7OWwlwz%2B0RBs6KItKiplCuiCDLA%2BeOquKlw3mjkf8uh8e604vW841fxjyZLhA1h3Z%2FQ42OUFRwaEi3nGCvCZ3c9YdNQyn2BHb58gyRMigvqf88n6bDmzbXK%2FqdygkoWmXbmzOeYQ1lbHKUdkUroSVjcqDQ7wYV1VvtFkgAB4D2HFZ3Su9qGeMkh5w7cZpNjt%2BmYWWiomYDv%2BWdOBOQwW6hOqOBdIiz12YmNwGIVnt4AT%2FvE0g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3851209759%2F568999ec7525472aa60fc580fe47971a%2FScreenshot_2026_06_13_09_28_46.png)
 
 #### コメント (2)
 - **ソラユメ** (06/13 01:00): おはよう 
@@ -5045,10 +5110,10 @@
 
 ---
 
-### 126. みんな仲良くしよう
+### 118. みんな仲良くしよう
 **作成者:** GP (21070045_2)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ae076f95e6288b46ebdda067d4dcc0cd/_________2026_01_21T120626_042.jpeg?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2m%2BmY0D%2FvfP%2FSLo8ItJhy2lmRdtwrpnmNBOCB6JvpVft%2FmxQvcd1CW8kNDNKffzzWYHe03%2FFQkafptv6jw2YIq%2FyETsyJeSem7iSwOLbbOq2yxQxKBJBoWrrCD3lU7yF%2FbziQS66FSFRiSRIQs5YeJJVxZK1mbpQidu%2BW1Gm7ugZ1Y9UZ1EogIbaHta0krqbXYJjDOCCeWOJ5oAKEPU%2F175zIoZeUgfvhBTlmhx%2F%2BFKE8vCjxZp77VFo2Z4jWTGRrGAJAiUsk2yTNu4NRKtZVv48BZ1hg0Lav1%2Bg0E60Z8J7CzORoIIjxrteeBhRatrBR8hxHPTsgXNteDdEEBtt5A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fae076f95e6288b46ebdda067d4dcc0cd%2F_________2026_01_21T120626_042.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/ae076f95e6288b46ebdda067d4dcc0cd/_________2026_01_21T120626_042.jpeg?Expires=1784327745&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wBHJxmUIJkHnz4CfETGjvgGBy6xdhJQOhEtBJUvPsBXnAO3P5i2Ldv3tA08fcgs0BqM9dEXB7cMWT3K2kvQOwi26XMpeZh3eAsKdwTR6CdQzHp1TrErLfvDtZYM6LXLFt2J%2FYrd6PqPHf4M0XG2SnBXg8DC2Z2o9BhgcR7LEcQGVslDKV%2BioQiLme5xqBeFgJievW%2Ba2Twz0a7V2%2B6oKIiqLF07sFHmvjc%2Fsco8ceMEiLzE4O0HDNfuPBFnZfzp0SQ1eafGNJzTAFlJb%2BKNz4x%2BMueOBHlBZ%2BEZImvn4rWAv1XLhz01NaacuRICEmb4XMtEEqToeqnyNC%2BXo6DiJrQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fae076f95e6288b46ebdda067d4dcc0cd%2F_________2026_01_21T120626_042.jpeg)
 
 #### コメント (37)
 - **GP** (06/12 10:01): 荒らしやめよー
@@ -5096,12 +5161,12 @@
 
 ---
 
-### 127. 誰かヒロアカ推しいませんかいたらコメントしてください
+### 119. 誰かヒロアカ推しいませんかいたらコメントしてください
 **作成者:** えりちゃん推し (gs212089)
 
 <p>えりちゃん可愛い!！</p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5753654505/e979cf1730692bd2ae135b4a033bac69/Screenshot_2026_06_12_10_50_55.png?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PXjTL7cgdMnsfFeT5eVMrliO1awYc6ApxBX7P0cAXWOixtLbjYsXZDzO8L7cVXDzXJ2wp8kOs1Nu8ezsTyhzci6J9FUfydNqUU8XswDY%2BD0auLcfeCEju7sD1vTxshmA3zw5fElKMAj6rVTp3RQlmVaNTMIA9KiwsrPYoKj2V%2FvgCgHO0JPx1mLhGM%2BtPm5DLW1Cy1XJXe%2B4Hh%2FmTkuzPPYe3hecsk75ZJmUNt7txPAvPrRh9BDtvLMxPlfM1%2Fhaj7qB9upkcFumGGLe5EQBSCqdCOmz14yQUAmDE%2F9VV4EfJ7wxL7mUBRwxxAmQBEpCU%2FSmAdUAsac61veVyXCySw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5753654505%2Fe979cf1730692bd2ae135b4a033bac69%2FScreenshot_2026_06_12_10_50_55.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5753654505/e979cf1730692bd2ae135b4a033bac69/Screenshot_2026_06_12_10_50_55.png?Expires=1784327745&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MwvX8J31%2BDZUezmTtnuTSAsftTDdmYiVNIDwVL%2Ft2%2FzoX3wPv89w%2FbLhQJoI42revrbTb7WmZ%2BwijOnGc7mXa24Y%2FXJVRppgrUmBQFbSzzXixFPnCSs4dnBUyzbM7vLFhK1xnfn9ObrTO%2F2h6b7LxRtC5pvk2w9qjKh2VUuRv%2BDOdiY9ndLdrgLpi0A%2F19y8E5SKg5MWxQ%2BI4w7no0W23Pt94XwNgHit%2FBsuHw2xKJtiiPALzAvMo76LSTBGnG1zed8kMVWJvo9XWVuE4jxhOlQxX3JKK8UMPK5FGaxvbtB4WLH7xlvR97qOkND7h46lY06tp9SGLMAJCUYszyKRig%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5753654505%2Fe979cf1730692bd2ae135b4a033bac69%2FScreenshot_2026_06_12_10_50_55.png)
 
 #### コメント (9)
 - **かっちゃん推し** (06/13 00:56): ヒロアカ推しです
@@ -5121,12 +5186,12 @@
 
 ---
 
-### 128. 東方好きな人コメントよろ〜
+### 120. 東方好きな人コメントよろ〜
 **作成者:** ただの東方好き (gs212166)
 
 <p>僕の好きなこいしちゃんです‼️‼️</p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5753656452/f3e44338c5e8164057431635a7d242d9/Screenshot_2026_06_12_10_43_21.png?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ePm6KG64GdoZqDgKhyVtnrr0jjROmccZpdrCfYQiFwGVjX2nqvW7Wk%2BfjCaJwmVZV%2FoKAJR7d77W5YNIx93vLyr7fRn5N2yxU%2FqkuLIqwAnAEJDblFbwOCbZBBQUHAsXePrGT6xwTPuse%2Bsu%2BU4Nvzs%2Bk7Zoqd7WrbbH3GWQjZyzaIwMtE%2FtSkQi9i05oFwMQ%2B%2BTDWWM1KbN4dUEgB%2Ba%2BIlZIJroV%2FqrccsjA09Pv2w0ogMCrkGNvGXEavhLylwnD86P1hSdCR81cFFQsinXcJo0a5ibnuPCy%2BB5Z%2FxomYeAHUV4vZFWHrwoUpL6hHyXOc5Yf5u8QquIUDHeRkOuWQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5753656452%2Ff3e44338c5e8164057431635a7d242d9%2FScreenshot_2026_06_12_10_43_21.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5753656452/f3e44338c5e8164057431635a7d242d9/Screenshot_2026_06_12_10_43_21.png?Expires=1784327745&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zVD%2FcnOcZNjLg4LYG7wsvvwPa0CJwoTwraWBNs%2FY6JAJmfFop7qVNWUASyi2moDs%2FoQcZvIK%2FD19heY53R0u3UbUVUnUHP4WiyhWkwwyBgiLyt1hh8YflUYgmp20QFBR8JAfq%2Bo%2BhNGxosGTKjcCs0NkPwSZholYKEzsXqTY60z5jfyOojPnDTC8iB3LXQp3xpE2uW51vYiU3v%2Feyc1EMsQcklt0wJEBBc7%2FW4sZcELMH2bAeaC9DuqooaEFNnpTPf6%2BhayugdLVWsO7S5J2EWrst2GNHhQiImFeIsmoLU4MK0eK3yoOVrxjixvB8xyM%2FtAPuWPwsvtt%2BzwLu3twxQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5753656452%2Ff3e44338c5e8164057431635a7d242d9%2FScreenshot_2026_06_12_10_43_21.png)
 
 #### コメント (5)
 - **Anonymous** (06/12 10:47): 私は霊夢ちゃんです！
@@ -5142,7 +5207,7 @@
 
 ---
 
-### 129. 誰かONEPICEのえr漫画があるぱどのURL教えて
+### 121. 誰かONEPICEのえr漫画があるぱどのURL教えて
 **作成者:** クモベ
 
 #### その他の情報
@@ -5152,13 +5217,20 @@
 
 ---
 
-### 130. 規制かからないエロゲーほしい
+### 122. 規制かからないエロゲーほしい
 **作成者:** 人間５０年 (s25250030)
 
-#### コメント (3)
+#### コメント (7)
 - **unitef** (06/11 11:43): えろ
 - **ソラマユ** (06/11 12:08): まんこ
 - **Anonymous** (06/16 02:48): おでもほっしい
+- **まめんと** (07/09 12:21): https://elog.wpx.jp/web/simulation/game_1388_v306/index.html
+- **まめんと** (07/09 12:22): 表示されない場合は履歴からもう一回再試行
+- **まめんと** (07/09 12:33): 規制かかったらごめんね
+- **4545** (07/09 12:38): ありがとこれで抜くわ
+
+#### リアクション
+- **絵文字:** 👍 (1)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -5167,7 +5239,7 @@
 
 ---
 
-### 131. 入ってくれると嬉しいです
+### 123. 入ってくれると嬉しいです
 **作成者:** 人がゴミのようだ👿🏀 (6802516)
 
 [添付ファイル 1](https://padlet.com/6802516/padlet-kev59ppwghrijoph)
@@ -5182,7 +5254,7 @@
 
 ---
 
-### 132. サッカーゲームのURLを持ってる人いますか
+### 124. サッカーゲームのURLを持ってる人いますか
 **作成者:** えりちゃん推し (gs212089)
 
 #### コメント (9)
@@ -5203,7 +5275,7 @@
 
 ---
 
-### 133. ねえ
+### 125. ねえ
 **作成者:** こんにちは
 
 #### その他の情報
@@ -5213,7 +5285,7 @@
 
 ---
 
-### 134. いますか
+### 126. いますか
 **作成者:** こんにちは
 
 #### その他の情報
@@ -5223,7 +5295,7 @@
 
 ---
 
-### 135. 投稿 135
+### 127. 投稿 127
 **作成者:** 人がゴミのようだ👿🏀 (6802516)
 
 <p><br/></p><p><br/></p>
@@ -5237,7 +5309,7 @@
 
 ---
 
-### 136. はいってーーーーーーーーーーーーーーーーーーーーーーーー
+### 128. はいってーーーーーーーーーーーーーーーーーーーーーーーー
 **作成者:** 人がゴミのようだ👿🏀 (6802516)
 
 <p>いっぱいあるよ＾ー＾</p>
@@ -5251,7 +5323,7 @@
 
 ---
 
-### 137. 投稿 137
+### 129. 投稿 129
 **作成者:** アサノカゼ
 
 [添付ファイル 1](https://www.pornhub.com/view_video.php?viewkey=ph60d4c2267c679)
@@ -5263,7 +5335,7 @@
 
 ---
 
-### 138. 投稿 138
+### 130. 投稿 130
 **作成者:** アサノカゼ
 
 [添付ファイル 1](https://www.pornhub.com/view_video.php?viewkey=ph60d4c2267c679)
@@ -5275,7 +5347,7 @@
 
 ---
 
-### 139. きてー
+### 131. きてー
 **作成者:** れいり
 
 [添付ファイル 1](https://meet.stuvus.uni-stuttgart.de/HandyPopularitiesStayActually%E5%85%A5%E3%81%A3%E3%81%A6)
@@ -5290,7 +5362,7 @@
 
 ---
 
-### 140. 世界最大級の雑談部屋
+### 132. 世界最大級の雑談部屋
 **作成者:** レム (remutyan)
 
 [添付ファイル 1](https://padlet.com/remutyan/padlet-yq1bdfd3d5pt1wof)
@@ -5305,7 +5377,7 @@
 
 ---
 
-### 141. 誰かえ⭕️マンガの部屋ない？
+### 133. 誰かえ⭕️マンガの部屋ない？
 **作成者:** パイナポー
 
 #### コメント (4)
@@ -5321,7 +5393,7 @@
 
 ---
 
-### 142. きて
+### 134. きて
 **作成者:** れいり
 
 [添付ファイル 1](https://meet.stuvus.uni-stuttgart.de/HandyPopularitiesStayActually%E5%85%A5%E3%81%A3%E3%81%A6)
@@ -5333,7 +5405,7 @@
 
 ---
 
-### 143. 投稿 143
+### 135. 投稿 135
 **作成者:** kotarou
 
 [添付ファイル 1](https://meet.stuvus.uni-stuttgart.de/HandyPopularitiesStayActually%E5%85%A5%E3%81%A3%E3%81%A6)
@@ -5345,7 +5417,7 @@
 
 ---
 
-### 144. きて
+### 136. きて
 **作成者:** 人間
 
 [添付ファイル 1](https://meet.stuvus.uni-stuttgart.de/HandyPopularitiesStayActually%E5%85%A5%E3%81%A3%E3%81%A6)
@@ -5360,7 +5432,7 @@
 
 ---
 
-### 145. 受付はっとくよ
+### 137. 受付はっとくよ
 **作成者:** taiyaki (2514115_1)
 
 [添付ファイル 1](https://padlet.com/padlets/hlempaczgkpgdgvd)
@@ -5372,7 +5444,7 @@
 
 ---
 
-### 146. カフート学校の受付教えて
+### 138. カフート学校の受付教えて
 **作成者:** Lの化身 (anzaikemoyakuri)
 
 #### その他の情報
@@ -5382,7 +5454,7 @@
 
 ---
 
-### 147. どうも
+### 139. どうも
 **作成者:** 時透無一郎 (r0300353)
 
 <p>久しぶりにここ見た</p>
@@ -5394,7 +5466,7 @@
 
 ---
 
-### 148. きてね
+### 140. きてね
 **作成者:** 人間
 
 [添付ファイル 1](https://meet.stuvus.uni-stuttgart.de/FrightenedHolidaysDryExtra)
@@ -5406,7 +5478,7 @@
 
 ---
 
-### 149. 投稿 149
+### 141. 投稿 141
 **作成者:** riiiifo (h4619002_1)
 
 <p>誰か映画見れるサイト教えてください。</p>
@@ -5423,7 +5495,7 @@
 
 ---
 
-### 150. 誰かいる？
+### 142. 誰かいる？
 **作成者:** 人間
 
 #### その他の情報
@@ -5433,7 +5505,7 @@
 
 ---
 
-### 151. ゲームってどこのセクションに投稿すればいいんですか？
+### 143. ゲームってどこのセクションに投稿すればいいんですか？
 **作成者:** ドーバーダンサ (dobadans)
 
 #### コメント (15)
@@ -5460,7 +5532,7 @@
 
 ---
 
-### 152. 来て今学校
+### 144. 来て今学校
 **作成者:** 亀頭ひづき
 
 <p><a rel="noopener noreferrer nofollow" href="https://meet.stuvus.uni-stuttgart.de/SilverChoicesPledgeOriginally">https://meet.stuvus.uni-stuttgart.de/SilverChoicesPledgeOriginally</a></p><p><br/></p>
@@ -5480,7 +5552,7 @@
 
 ---
 
-### 153. 暇な人で喋れる人来て
+### 145. 暇な人で喋れる人来て
 **作成者:** kotarou
 
 <p><a rel="noopener noreferrer nofollow" href="https://meet.stuvus.uni-stuttgart.de/ScientificReferendumsSpyAway">https://meet.stuvus.uni-stuttgart.de/ScientificReferendumsSpyAway</a></p><p>主は男だよ</p><p><br/></p>
@@ -5497,7 +5569,7 @@
 
 ---
 
-### 154. ホロオタおる？
+### 146. ホロオタおる？
 **作成者:** kotarou
 
 #### コメント (6)
@@ -5515,7 +5587,7 @@
 
 ---
 
-### 155. どうも
+### 147. どうも
 **作成者:** ドーバーダンサ (dobadans)
 
 #### コメント (2)
@@ -5529,7 +5601,7 @@
 
 ---
 
-### 156. こんにちは
+### 148. こんにちは
 **作成者:** クモビカリ
 
 #### その他の情報
@@ -5539,7 +5611,7 @@
 
 ---
 
-### 157. 釣りする人いる？
+### 149. 釣りする人いる？
 **作成者:** 釣りだいすき
 
 #### その他の情報
@@ -5549,7 +5621,7 @@
 
 ---
 
-### 158. 入ってこい
+### 150. 入ってこい
 **作成者:** こんにちは
 
 [添付ファイル 1](https://meet.stuvus.uni-stuttgart.de/HandyPopularitiesStayActually)
@@ -5560,7 +5632,7 @@
 - **こんにちは** (05/31 01:43): やあ
 - **こんにちは** (05/31 01:43): やあ
 - **こんにちは** (05/31 01:47): ねえええ
-- **あさひ** (05/31 03:08): 今誰かいる一緒にやろ
+- **あんこ** (05/31 03:08): 今誰かいる一緒にやろ
 - **こんにちは** (05/31 06:01): 今はいるよ
 
 #### その他の情報
@@ -5570,7 +5642,7 @@
 
 ---
 
-### 159. 投稿 159
+### 151. 投稿 151
 **作成者:** カゼミ
 
 [添付ファイル 1](https://www.youtube.com/watch?pdlt=1&v=RDkVYGWYVA4)
@@ -5586,7 +5658,7 @@
 
 ---
 
-### 160. 誰かおしえてください
+### 152. 誰かおしえてください
 **作成者:** aaabbbccc (mazamaza)
 
 <p>i-filterでブロックされずにプロキシとかをデプロイできるサイトをおしえてください</p>
@@ -5598,7 +5670,7 @@
 
 ---
 
-### 161. 今日２１００にここ入って
+### 153. 今日２１００にここ入って
 **作成者:** こんにちは
 
 #### コメント (1)
@@ -5611,7 +5683,7 @@
 
 ---
 
-### 162. 投稿 162
+### 154. 投稿 154
 **作成者:** はるまき (harukih678)
 
 <p>最近パド過疎ってる？</p>
@@ -5626,7 +5698,7 @@
 
 ---
 
-### 163. 巨人好きな人いますか
+### 155. 巨人好きな人いますか
 **作成者:** こんにちは
 
 #### コメント (1)
@@ -5639,7 +5711,7 @@
 
 ---
 
-### 164. 今日２１３０－見せ合い
+### 156. 今日２１３０－見せ合い
 **作成者:** こんにちは
 
 #### コメント (1)
@@ -5652,7 +5724,7 @@
 
 ---
 
-### 165. りおと部屋ください
+### 157. りおと部屋ください
 **作成者:** アキヤマ
 
 #### その他の情報
@@ -5662,7 +5734,7 @@
 
 ---
 
-### 166. ふざけたことはしないようにしましょう
+### 158. ふざけたことはしないようにしましょう
 **作成者:** (匿名☭　　　　　　　　　　　　　　　　　　          ソビエトだよ　お前ら歯向かったら反物質爆弾でぶち殺す　りおと族の39代　エドガー人　カニかま民主主義共和国人 りおと部屋のモデになる人　りおとの22番弟子 (sobietodayo)
 
 #### リアクション
@@ -5675,7 +5747,7 @@
 
 ---
 
-### 167. 投稿 167
+### 159. 投稿 159
 **作成者:** かぼちゃ (kabot)
 
 [添付ファイル 1](https://padlet.com/kabot/padlet-1vjdxcokvpn4gxad)
@@ -5714,7 +5786,7 @@
 - **こんにちは** (05/31 01:36): 助けて
 - **Timberline Hiker** (06/02 05:55): まんこ大好き
 - **ニガ** (06/02 11:45): エグスーよりもエロスー 
-- **はにわ** (06/23 01:15): 学タブで　できるゲーム教えて
+- **ははははははは** (06/23 01:15): 学タブで　できるゲーム教えて
 
 #### リアクション
 - **絵文字:** 🐣 (2)
@@ -5726,7 +5798,7 @@
 
 ---
 
-### 168. 誰かいる？
+### 160. 誰かいる？
 **作成者:** taiyaki (2514115_1)
 
 #### コメント (3)
@@ -5741,7 +5813,7 @@
 
 ---
 
-### 169. 現役最大のプロキシ部屋
+### 161. 現役最大のプロキシ部屋
 **作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>i-FILTER民のために代替ビュアーを作成しました。</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/x871d592e">https://html.cafe/x871d592e</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet-viewer.pages.dev/">https://padlet-viewer.pages.dev/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet-viewer.smooth.ytalt.f5.si/">https://padlet-viewer.smooth.ytalt.f5.si/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet-viewer.smooth.ytalt.dedyn.io/">https://padlet-viewer.smooth.ytalt.dedyn.io/</a></p></li></ul>
@@ -5777,13 +5849,13 @@
 
 ---
 
-### 170. 今宣伝してくれたらモデあげるかも？
+### 162. 今宣伝してくれたらモデあげるかも？
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 [添付ファイル 1](https://padlet.com/misutaakeehimazin/padlet-gwn4wpyr398ka5h7)
 
 #### コメント (9)
-- **みぃ/非リアちゃん☆##リア充撲滅委員会委員長** (02/15 12:00): はーい
+- **みぃ/非リアちゃん☆#荒らし撲滅委員会#リア充撲滅委員会委員長＃荒らし協会副会長** (02/15 12:00): はーい
 - **はるにー** (02/16 05:52): 学タブでぶろすたやりてぇ
 - **仙人** (02/16 23:53): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jmみんな入って
 - **Calm Cricket** (02/17 04:11): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
@@ -5803,7 +5875,7 @@
 
 ---
 
-### 171. あけおめ
+### 163. あけおめ
 **作成者:** 戦闘機に乗って世界征服しようとしているかわいいお化け　実はこのお化け可愛いけど人間を恨んでいる。（うらめしや～） (url5)
 
 <p>🎍</p><p><br/></p>
@@ -5830,7 +5902,7 @@
 
 ---
 
-### 172. きてねー
+### 164. きてねー
 **作成者:** N (bigbann5678_1)
 
 [添付ファイル 1](https://padlet.com/padlets/6m53g96l9wdpzoku)
@@ -5845,7 +5917,7 @@
 
 ---
 
-### 173. NYW芋
+### 165. NYW芋
 **作成者:** 芋ポテト (s2112078_1)
 
 [添付ファイル 1](https://padlet.com/s2112078_1/padlet-bqyj1d7a89cs3om2)
@@ -5865,7 +5937,7 @@
 
 ---
 
-### 174. フォーローしてほしいな…
+### 166. フォーローしてほしいな…
 **作成者:** 戦闘機に乗って世界征服しようとしているかわいいお化け　実はこのお化け可愛いけど人間を恨んでいる。（うらめしや～） (url5)
 
 <p>僕の部屋にも入ってほしいな・・・</p>
@@ -5882,12 +5954,12 @@
 
 ---
 
-### 175. 辛みそきん買った人
+### 167. 辛みそきん買った人
 **作成者:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
 <p>俺は買ったよ</p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/94018134aa72b906730df049d217f6d1/image.jpg?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WPsfE0kLnu%2FyuPlomtmAPWae510fB2db65WK7p6qDMA5%2F56VZM9B3mSxT3risuMh3%2FcuAKa4HNtI86OceRK3QM2KCeVwA6oIFZ8AkkdFr06shreVyrPZ3wFAlCkV7aXEDYanRVUCaEOPEcb8%2FSF4VZrGugRlFStUqS0mX4usXgk6yQBPJKtR0oXH5kp0hqOkW%2B%2Bn3Qr4BQctgHq%2FGG%2Fbi095rICCublnrIQ0d6KFsDerX57Bbb6VXiWr4kQ0knc6Pkqkjz6%2F1hZdkKuH9TNIOXr6PLq%2BM6cPwKaqGpyD6OJuJLhGrZOEcoIsuEKDmT%2FtI%2BbyxDBCpucAWZHoDLMx9w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F94018134aa72b906730df049d217f6d1%2Fimage.jpg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/94018134aa72b906730df049d217f6d1/image.jpg?Expires=1784327745&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ZD92hRypylRy19pT702v05vPNmBjqYyY5NG4PTcgTCs8YhF3uPvTFfLTsHgkdYCVMaC9aSPmsX1FAYJGIQPjyRzr3nLWCO8idbOsQPjPy3ecpGwrCB67UXr8LdApMsKoactYjxyjDv9%2FJGE%2Flvi%2BvhRdpX4jZp%2F01LuYxD%2ByDgYrQ%2BuvVu0DaBJz9r2aIVq%2FWKKGBpgNdyIhNqLic2ReNAMstESlxvHphnDKac%2B%2BKFqPppk5Ht7zNY%2FCSmWBYQtVDJg1vFvz%2FlD9XhB5Im3zyqXb%2FV5haG5kq84eaAclQFZN8ZQDzSQr5Do3Qt%2FLqY%2BaV2RdRSwX0bNB4wA1YiErwA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F94018134aa72b906730df049d217f6d1%2Fimage.jpg)
 
 #### コメント (21)
 - **NARITATI** (10/25 10:18): いいな〜
@@ -5922,7 +5994,7 @@
 
 ---
 
-### 176. あーーーーーーずべんじゃーーーずーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+### 168. あーーーーーーずべんじゃーーーずーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 **作成者:** NARITATI (678199375582)
 
 #### コメント (2)
@@ -5936,7 +6008,7 @@
 
 ---
 
-### 177. 入って
+### 169. 入って
 **作成者:** 芋ポテト (s2112078_1)
 
 <p>てか最近新しくわかめ教っていう宗教がクラスで流行ってる</p>
@@ -5959,15 +6031,18 @@
 
 ---
 
-### 178. 最後の5秒編集した。
+### 170. 最後の5秒編集した。
 **作成者:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/7ef07e48e063a7b182f6cf00b43fe1d2/_____________YouTube_________.mp4?Expires=1783313863&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=3bpQ%2BymKhRSvONI49gJcUZ%2BvAXc2QJJE7mbG22dvSwcZKDrmpGfwnBg75vChS3fUkMKIfr%2FEb8595%2BHJu6BSYRHH5qevKvwlb8FV6fMLrS3j%2BU9W%2FGGVv9kKaUc3221uTcwxCcgVVxufY8PREaRZ7Ps062t41YdyG9rur%2FG0Tp0xXpAKKKV0NSP0%2BDb8lrOD%2Fm5YH1WolAQVdRhuod73rWQzuABLjIT%2FCw2NZdqr2d6YlK452hhPrXXEAFW3Z8inUoHt7KL%2BYhnNTfk0uyrRqkZKzEGx%2BqFSaftlcDlDrrPf8Tyt4eX7kQIiQVppFDI5b2fB6t%2FlMR4k6MYz79haFQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F7ef07e48e063a7b182f6cf00b43fe1d2%2F_____________YouTube_________.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/7ef07e48e063a7b182f6cf00b43fe1d2/_____________YouTube_________.mp4?Expires=1784327745&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=s6k%2BMy6tM9Z3L6G%2BgTFgUl4PaWY4An6iQIJzNOHjsdeUiqVCilZmpJUxUL3bg5xNQWu2aY75cJ%2BgSo4IFsfvVksAVUmg4Wf8tqU1jBQvnN9QNGI40dzYpZ2zTZtxh8IpQev1DpuympOn%2BvfQh6KAAabIfmrKXl3DrZksPlLkkaIoGDiFUpeC7wLzXR3HOs2RwvwjsS2mxJZeIQ7MJRfAwte6QUhn55W%2B3NvvDKeGnDODuRtHBje2BvVwkzfapSpGmblta%2BlFQ9dihinYnwX%2F9UqP60ZdDSkQjJDFy%2F7y%2FxFeAYdG92ipTbD8rC6fCnLxybUevQvkerTY8mFVFjnORQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F7ef07e48e063a7b182f6cf00b43fe1d2%2F_____________YouTube_________.mp4)
 
-#### コメント (3)
+#### コメント (6)
 - **クソ豚撲滅委員会** (02/17 10:11): もっと曲出して。
 - **アメリカ撲滅委員会名誉委員会会長現アメリカに最高指導者と国務税の位についている高橋と申します** (04/16 08:59): そうそうもっと出して
 - **アサニジ** (05/03 12:57): 出して
+- **Anonymous** (07/05 10:46): 良い感じ
+- **Anonymous** (07/05 10:46): 良い感じ
+- **Anonymous** (07/05 10:46): 良い感じ
 
 #### リアクション
 - **絵文字:** 👍 (6)
@@ -5979,7 +6054,7 @@
 
 ---
 
-### 179. 雑談しようぜ
+### 171. 雑談しようぜ
 **作成者:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
 #### コメント (46)
@@ -6037,7 +6112,7 @@
 
 ---
 
-### 180. うおーあざす
+### 172. うおーあざす
 **作成者:** ゾン (zon1212134)
 
 #### その他の情報
@@ -6047,7 +6122,7 @@
 
 ---
 
-### 181. すんげえサイトみっけた
+### 173. すんげえサイトみっけた
 **作成者:** ㊗️鉄道の日！ seriesE217(高橋 咲良の主) (konnpaku_youmu)
 
 #### コメント (5)
@@ -6064,7 +6139,7 @@
 
 ---
 
-### 182. めんだードラゴンを中心とした
+### 174. めんだードラゴンを中心とした
 **作成者:** 帰ってきたぴかコン (aru25)
 
 <p>シャカシャカポテトとかまぼこなどのピカコン</p><p>虐待部隊が始まっています！！</p>
@@ -6107,7 +6182,7 @@
 
 ---
 
-### 183. 投稿 183
+### 175. 投稿 175
 **作成者:** 海軍 情報科 上等兵 (azsre_0516)
 
 [添付ファイル 1](https://padlet.com/Zentadayo/padlet-zxbyxsdy6a42r7xn)
@@ -6134,7 +6209,7 @@
 
 ---
 
-### 184. きてくれさい
+### 176. きてくれさい
 **作成者:** 海軍 情報科 上等兵 (azsre_0516)
 
 [添付ファイル 1](https://padlet.com/azsre_0516/proxy-nqm7sfv8c0p1mizf)
@@ -6151,12 +6226,12 @@
 
 ---
 
-### 185. 特急へ（めんだ）
+### 177. 特急へ（めんだ）
 **作成者:** チンされたチキン‼（チンチキって呼んでね） (chinchiki)
 
 <p>わかめ作ったっていう証拠をみせてください。</p><p>ちゃんと作れるんですよね？ｗｗ</p>
 
-#### コメント (55)
+#### コメント (58)
 - **特急サンダーバード12号敦賀行き** (06/24 02:37): さすがに個人情報ださんといて
 - **おにぎりんご** (06/24 06:09): ?
 - **戦闘機に乗って世界征服しようとしているかわいいお化け　実はこのお化け可愛いけど人間を恨んでいる。（うらめしや～）** (06/24 13:16): サブアカで
@@ -6212,6 +6287,9 @@
 - **ヤマホシ** (06/18 06:49): そんなんでしかイキれへんのかよw
 - **モッチ** (06/21 00:46): https://padlet.com/gs180822/padlet-ti5jxw68gbl1vgt2
 - **モッチ** (06/21 00:46): これは来てね
+- **ルカと** (07/07 04:08): コンチャー
+- **れいり** (07/07 10:18): ルカとおい！！
+- **れいり** (07/07 10:18): 一番うえな！！
 
 #### リアクション
 - **絵文字:** 👎 (9) 👍 (2)
@@ -6225,581 +6303,71 @@
 
 ## ランマー
 
-### 1. あらすな
-**作成者:** 焼き止めと
+### 1. hitgop
+**作成者:** ナミノコエ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:57
-- **更新日（UTC）:** 06/28 09:57
+- **作成日（UTC）:** 07/09 22:44
+- **更新日（UTC）:** 07/09 22:44
 
 ---
 
-### 2. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 2. 投稿 2
+**作成者:** アキノキ
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5935498299/8e1fe48d3f75bdff579106ff0d650ca0/IMG_0193.webp?Expires=1784327745&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kzqzGH1cxT%2FctFdZuetpfzdQjc2DhLz57OSzddP8g%2FruDulE5KtodmseTsKzbbjq7NZi5Wm5xs87LhtphFJIoUs64DcaRCs0qukfuWyFHoReYsdhB7GKNZTc0cp9E5X2DjxrGbUftz1kKu07rW1jZ%2BZXVY3%2Bku7XB42zejtr9MxPMpvKB2WPcdX6GTyi0kLf5QJR1Wer4co12x1X7yf95Ah9IYKwuYy%2FVwoCaN8Rx3QF9sNtbmq9yMqe93H6CC8NegPxFDlpo7pxr%2BP4jkiQSsWahGd%2Bz8gGPsu3G68J86lDJWvfr6a0l7c5eDgO4Fe6Jkf228XuPSU6jicF0UJnEg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5935498299%2F8e1fe48d3f75bdff579106ff0d650ca0%2FIMG_0193.webp)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/09 13:03
+- **更新日（UTC）:** 07/09 13:03
 
 ---
 
-### 3. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 3. 投稿 3
+**作成者:** ユキソラ
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+[添付ファイル 1](https://sites.google.com/view/prohomework2z/dictionary)
 
-#### コメント (2)
-- **ナミウサギ** (06/28 23:01): 何がしたいの？
-- **そうた** (06/28 23:49): 障害者やん
+#### コメント (4)
+- **暇人two Time** (07/07 09:11): 何これ 
+- **R** (07/08 02:43): それな
+- **ゆゆゆ** (07/09 01:13): バスケ好きの集まりバスケ好きの集まり
+- **渡口大寿** (07/09 03:42): ゲームとムービー行けるよ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/06 02:30
+- **更新日（UTC）:** 07/06 02:30
 
 ---
 
-### 4. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 4. 投稿 4
+**作成者:** おうが (18jt026)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+[添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/03 02:53
+- **更新日（UTC）:** 07/03 02:53
 
 ---
 
-### 5. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 5. 投稿 5
+**作成者:** おうが (18jt026)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+[添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
+- **作成日（UTC）:** 07/03 02:51
+- **更新日（UTC）:** 07/03 02:51
 
 ---
 
-### 6. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 7. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 8. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 9. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 10. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### コメント (5)
-- **そうた** (06/28 11:51): あのー1ついいですか
-- **そうた** (06/28 11:51): こんなに荒らして楽しいですか
-- **そうた** (06/28 11:53): それで楽しいって言うならあなたはヤバい人って言うことが見るからにわかるよ
-- **そうた** (06/28 11:54): こんなことしてあなた以外に誰が喜ぶんでしょうかそれがわからないんだったらハッキリいいます　　　　　あなたは馬鹿です
-- **そうた** (06/28 11:56): 見るからに友達がいない醜い人にこっちから見えるんですけど、あなた大丈夫ですか、精神科の要請出しておきますよ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 11. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 12. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 13. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 14. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 15. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 16. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 17. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 18. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 19. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 20. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 21. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 22. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 23. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 24. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 25. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 26. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 27. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 28. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 29. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 30. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 31. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 32. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 33. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 34. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 35. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 36. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 37. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 38. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 39. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 40. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 41. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 42. Hello 1782637797622
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RmVcTQpqdiCGYyM0eucjZoxfw7FTPr7YzJOY9eoBSs52E9nEf4MfD%2Fn2v1SYb457AhSQN9BQXpLG66t48kRYBustTu%2Bk7sdsAAkQ1f6OTEBnh3ik45yfn%2FOedsv6Bcdzzp8dA12FuwiWptNnhogZ1WHqJR%2BqxdGvEq6o5YYDrOSIt%2FmwLtYXVU8W3f2Dwz2i%2BBdeys3QOMn9BsBZQSyOo6jRbFGwPveMhu4wpGY3%2Fn%2BMEtwAV5tL1Z6UO5T3ia8LsdV97VacwmLg82KI5KTGr46WnE1eM7ah6rfSfRDqFBCmGgUO5nblYYqzInRFAERBFP%2FCiz%2FL1QVhyiMAh%2Br2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 43. ロバさんの特定のやつ下まで見たけどこれはひどいやめた方がいい不愉快
-**作成者:** Mr Mashroom
-
-#### コメント (1)
-- **Mr Mashroom** (06/28 08:48): 今更だけど
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 08:47
-- **更新日（UTC）:** 06/28 08:47
-
----
-
-### 44. 来てね
-**作成者:** ライスボーイ (utsubobobo641)
-
-[添付ファイル 1](https://padlet.com/utsubobobo641/padlet-wg24mj2vfh6sb3ve)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 05:58
-- **更新日（UTC）:** 06/28 05:58
-
----
-
-### 45. 新幹線好き来て
-**作成者:** ライスボーイ (utsubobobo641)
-
-[添付ファイル 1](https://padlet.com/utsubobobo641/padlet-9x5f1adqo1748v4q)
-
-#### コメント (2)
-- **9123_JPN** (06/28 08:34): ぱすわーどなに
-- **9123_JPN** (06/28 08:34): まあでも新幹線はE8系だよね
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 05:55
-- **更新日（UTC）:** 06/28 05:55
-
----
-
-### 46. みんな夜の七時ぐらいに僕かならずいるから入ってきて
-**作成者:** イノシシ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 03:26
-- **更新日（UTC）:** 06/28 03:26
-
----
-
-### 47. いん
-**作成者:** イノシシ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 08:16
-- **更新日（UTC）:** 06/27 08:16
-
----
-
-### 48. このサイト何このサイトですしあ
+### 6. このサイト何このサイトですしあ
 **作成者:** 焼き止めと
 
 ![芸術](https://genai-public.padletcdn.com/disco/prod/imagen/1780458314855/sample_0.png)
@@ -6815,7 +6383,7 @@
 
 ---
 
-### 49. 投稿 49
+### 7. 投稿 7
 **作成者:** バンダントント (h3619065_1)
 
 [添付ファイル 1](https://top-medical-schools.org/)
@@ -6827,63 +6395,10 @@
 
 ---
 
-### 50. ロバの住所特定してなにが楽しいんだ！
-**作成者:** ひひひひｈ
-
-<p>お前は変態だぁ！！</p><p>ほんとにやめないなら弁護士佳警察に言いますよｗｗｗｗｗ</p><p>それより口だけは立派ですねｗｗｗｗ</p><p>落ち着いてくださいよｗｗそんなにムキにならなくても</p><p>無理しなくていいですよ！それと日本語、通じてます？何度言えばわかります？怒ってて可愛いですね！時間の無駄遣いの天才さん！</p><p>じゃまた！返信絶対にくださいね！くれないってことは逃げたってことなので！よろしくお願いします！</p>
-
-#### コメント (39)
-- **ロバの友達** (06/26 10:40): ごめんなさい
-- **ロバの友達** (06/26 10:40): 僕の勘違いでした
-- **✌PEACE✌** (06/26 10:58): 誤り（正しい）
-- **ロバ** (06/26 11:45): 私の味方をしてくださり、本当にありがとうございます。このご恩は忘れません。
-- **ふじ** (06/26 11:57): 開示やろ
-- **ふじ** (06/26 11:59): ガキンチョ死ね
-- **✌PEACE✌** (06/26 12:13): し◯はだめ！
-- **ふじ** (06/26 12:22): まあええでしょう
-- **ひひひひｈ** (06/27 05:09): 返信しないんですね
-- **ひひひひｈ** (06/27 05:09): ｗｗｗ
-- **ひひひひｈ** (06/27 05:10): 逃げちゃいましたかｗｗｗ
-- **ひひひひｈ** (06/27 05:10): 負けを認めてなくて可愛いですね
-- **焼き止めと** (06/27 08:12): 頭使えクソ豚
-- **ひひひひｈ** (06/27 09:55): 焼き止めとさん誰に言ってるんですか？
-- **イノシシ** (06/28 03:07): ５６？？？
-- **イノシシ** (06/28 03:23): あなたそんなに威張っているくせに何その名前ひひヒヒヒh
-- **イノシシ** (06/28 03:23): くそださいですねあなた
-- **イノシシ** (06/28 03:23): 子供が弁護士警察呼べるわけ無いだろうガキンチョうんこソーダ
-- **イノシシ** (06/28 03:24): くさい
-- **イノシシ** (06/28 03:24): くこい
-- **イノシシ** (06/28 03:24): きもい
-- **イノシシ** (06/28 03:24): うに
-- **イノシシ** (06/28 03:24): きもい
-- **イノシシ** (06/28 03:24): しね
-- **イノシシ** (06/28 03:24): ５６
-- **イノシシ** (06/28 03:24): ５６
-- **イノシシ** (06/28 03:24): ５６
-- **イノシシ** (06/28 03:24): ５６
-- **イノシシ** (06/28 03:24): ５６
-- **イノシシ** (06/28 03:24): ５６
-- **イノシシ** (06/28 03:24): ５５６
-- **カマキリ** (06/28 05:36): 荒らしてるような暇人が何言っとん
-- **カマキリ** (06/28 05:38): 子供は荒らしてる暇あるんやったら勉強しな
-- **カマキリ** (06/28 05:40): URL知らんやつが何言っとん
-- **イノシシ** (06/28 10:00): 君も子供ですよね
-- **イノシシ** (06/28 10:01): そんなこと言ってる暇間あんなら勉強しな
-- **イノシシ** (06/28 10:02): 別にURL知らなくてなんで言っちゃだめなんですかそれってあなたの感想ですよね
-- **イノシシ** (06/28 10:02): カマキリってなんなんクソネーミングセンスないやん
-- **イノシシ** (06/28 10:02): カマキリってクソみたいなやつが使う名前でしょ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 10:37
-- **更新日（UTC）:** 06/26 10:55
-
----
-
-### 51. ロバの住所特定やめろ！もうNOの方がYESいくらべて、12、1％多いからやめたれ！本人が嫌がってますよ！
+### 8. ロバの住所特定やめろ！もうNOの方がYESいくらべて、12、1％多いからやめたれ！本人が嫌がってますよ！
 **作成者:** 匿名
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5875875042/e669b3ce54ba05172a9a56de24050ab1/IMG_0439.jpeg?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=p2c5Ia0te1DJHPGQdqG3JS0%2FyrC1bQ%2BzDzU15B5BDTji%2B%2BLI5iCUpSEZ9hWXJ1gb64AAwFKBsJFt3NxNkx4RPicjX%2FjCgQTgsRB0ReNnkW84l7hBYdvlM3pp7hT1S%2F7S4flWWi8dbuQH0UYGyjEmU3TIvdJANk%2F0xk2qDBpGS7M1Z6t8u%2BcfeAMV%2Bjh2jrXV46rvAoubl1dNFbfq5hUbH5vpQ1yL%2FhuLJIir1ncC4X%2BUcRAFnZ87BvmlUveGJnJn%2BvGCchXfGHET%2BOlInOvVLRw4nQFVvlRvpOeThrIUpRB4X%2FQZJSFV2u7GSXIljMH1lUTveCgefqhkLbTbg%2B5y9w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5875875042%2Fe669b3ce54ba05172a9a56de24050ab1%2FIMG_0439.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5875875042/e669b3ce54ba05172a9a56de24050ab1/IMG_0439.jpeg?Expires=1784327745&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bTVnhcH8xokrliHZUXa2jTqxLdOTfm4x8ONQWI%2BAeSBbz62Uu8uI6bZ699VyFdH%2BX%2Frs1cLc2WQX3s4aL%2FDAoyOLGb7uyjID2TmBEKalAkoSY%2Bb00VCzEgNw9NKQBoJbOyLQsyRNLMhDBgDrOlkGltU7OCEIsJy1hMcx51VaiFBTNbdnCAvHw2UIb5AwKsMsQZsYcT7fa0ALn7znD12uorfnAo5MI9JRY1z6myONLFdh0yh0ItXK1a%2F9d92UpAsHOZhyjeIVaczaZyw4j8Q8F4%2BGm5RmJ7wuYYxNyVl%2BlLWw4RFJ%2Fe9ymxibAdncYJaeaaEbW4EOy9kMMqrBuY%2FORg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5875875042%2Fe669b3ce54ba05172a9a56de24050ab1%2FIMG_0439.jpeg)
 
 #### コメント (3)
 - **匿名** (06/26 09:56): 👆証拠写真
@@ -6897,254 +6412,7 @@
 
 ---
 
-### 52. そうだ！そうだ！ロバの住所特定やめろ！！
-**作成者:** うんこ
-
-#### コメント (1)
-- **✌PEACE✌** (06/26 10:09): 特定辞めたほうががいいけど口がこわいですよ！
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 09:49
-- **更新日（UTC）:** 06/26 09:49
-
----
-
-### 53. ロバの住所特定やめろ。ロバが可哀想やし、本人も嫌がってるから。開示請求されたらどう責任取る
-**作成者:** シロカゼ
-
-#### コメント (2)
-- **シロカゼ** (06/26 09:47): やめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたれやめたらやめたれやめたれやめたれやめたれやめたれ
-- **ひひひひｈ** (06/26 10:42): あらしみたいで🌿
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 09:40
-- **更新日（UTC）:** 06/26 09:40
-
----
-
-### 54. ﾄﾞｳｼﾖｳｶﾅw
-**作成者:** ガキンチョ死ね
-
-#### コメント (41)
-- **シログモ** (06/26 09:25): やめたれロバが可哀想
-- **あかさたな** (06/26 09:29): キモいね!
-- **シログモ** (06/26 09:29): 誰が？
-- **あかさたな** (06/26 09:29): ロバって人のことそんなに大好きなの？
-- **シログモ** (06/26 09:30): ガキンチョ死ねが？
-- **あかさたな** (06/26 09:30): そうだよ☆
-- **シログモ** (06/26 09:30): ガキンチョ死ねが？
-- **シログモ** (06/26 09:30): ロバの味方？
-- **シログモ** (06/26 09:30): 俺はロバの味方
-- **あかさたな** (06/26 09:30): そうだよ！！☆
-- **シログモ** (06/26 09:30): マジか！
-- **あかさたな** (06/26 09:30): おなじ！
-- **シログモ** (06/26 09:31): https://meet.stuvus.uni-stuttgart.de/114514
-- **シログモ** (06/26 09:31): 来て
-- **あかさたな** (06/26 09:31): ブロ
-- **シログモ** (06/26 09:31): 中学生？
-- **あかさたな** (06/26 09:32): 貴方は？
-- **シログモ** (06/26 09:32): 小6
-- **シログモ** (06/26 09:32): ロバの友達
-- **あかさたな** (06/26 09:33): 小6
-- **シログモ** (06/26 09:33): 一緒だね！
-- **あかさたな** (06/26 09:33): そうだね！
-- **あかさたな** (06/26 09:33): 男子？女子？
-- **シログモ** (06/26 09:33): 男子
-- **あかさたな** (06/26 09:33): 女子
-- **シログモ** (06/26 09:33): マジか
-- **あかさたな** (06/26 09:34): どこに住んでる？
-- **あかさたな** (06/26 09:41): 編集しました。個人情報だからです
-- **シログモ** (06/26 09:34): 兵庫！
-- **あかさたな** (06/26 09:36): おー！
-- **あかさたな** (06/26 09:36): ねねセクション10これる？
-- **シログモ** (06/26 09:36): スー
-- **シログモ** (06/26 09:36): どこ
-- **あかさたな** (06/26 09:36): すー？
-- **シログモ** (06/26 09:36): あったあった
-- **シログモ** (06/26 09:37): ただいまセクション10
-- **シログモ** (06/26 09:37): もうやめる
-- **あかさたな** (06/26 09:38): え-
-- **あかさたな** (06/26 09:39): まだ一緒に話したかった、、
-- **あかさたな** (06/26 09:42): 今度また話そうね！
-- **あかさたな** (06/26 09:42): しろぐも！
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 08:45
-- **更新日（UTC）:** 06/26 08:45
-
----
-
-### 55. ロバの住所特定はやめましょう。てか、「NO」の方が5、4％多いから今すぐロバの住所特定はやめましょう。
-**作成者:** そ馬
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5875350894/ba30337431f9480ba33735cb88c7fa33/IMG_0437.jpeg?Expires=1783313864&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mCnHVvHn%2FiiDO5BDmVvOrx7FPN%2BnTxKAPoi2tj1c5FqVFxwnfAs4XfS8c3QL0SDyZwbdgWGnL%2BgBwPoW0nxuEEft2uQByie8cplZgKlJlye0H2nfsxCfnWTxIupEf20Gm75IPZ4TI4Ep0wYZ6GJruR5OZxGpCrVupR%2F6X3kFH4tlGmk72NAfyaHjbl9tWS22b1wSkDA6pzXUnkijzeQNSldBh%2B36KZE2uAkdQumhbR0J57WUjxOExijrKDpUquyqEQb9H9qErWCCZ1LhM%2FfFrk0cN0M9oHu34MCVXjq%2BB1ZhVAK8SmeNNDeqISSspWyO5gnPYcqxoSrPsnLOK%2BjSDA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5875350894%2Fba30337431f9480ba33735cb88c7fa33%2FIMG_0437.jpeg)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 08:00
-- **更新日（UTC）:** 06/26 08:00
-
----
-
-### 56. 住所特定はやめろ開示請求されたらどうする。あと、投票の結果見てみろ「NO」が多いから住所特定はいますぐ中止しろ
-**作成者:** うんこぶりぶり
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 07:36
-- **更新日（UTC）:** 06/26 07:36
-
----
-
-### 57. 住所特定とかやめとけ開示請求されたらどうする
-**作成者:** ロバの友達
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 07:32
-- **更新日（UTC）:** 06/26 07:32
-
----
-
-### 58. ロバの住所特定とかしょうもないですよ。本人も嫌がってますし、やめましょう。
-**作成者:** すーー
-
-#### コメント (2)
-- **ロバの友達** (06/26 07:32): その通り
-- **ロバの友達** (06/26 07:32): やめましょう
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 07:27
-- **更新日（UTC）:** 06/26 07:27
-
----
-
-### 59. 👇その通り
-**作成者:** ロバ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 02:57
-- **更新日（UTC）:** 06/26 02:57
-
----
-
-### 60. ロバの住所特定やめろ
-**作成者:** ロバの親友
-
-#### コメント (3)
-- **フユミドリ** (06/26 02:26): それな
-- **Anonymous** (06/26 04:22): そうです
-- **カゼミズ** (06/26 06:35): むーりお疲れー
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 02:21
-- **更新日（UTC）:** 06/26 02:21
-
----
-
-### 61. ギンガさんと同じくロバの住所特定しょーもないし、可哀想やからやめたれ
-**作成者:** ドラえもん
-
-#### コメント (2)
-- **ロバの親友** (06/26 02:21): ほんまな
-- **カゼミズ** (06/26 06:36): そうだよね～
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 02:14
-- **更新日（UTC）:** 06/26 02:14
-
----
-
-### 62. ロバの住所特定とかしょーもないからやめたれ
-**作成者:** ギンガ
-
-#### コメント (2)
-- **ドラえもん** (06/26 02:13): ほんまな
-- **ドラえもん** (06/26 02:13): 住所特定とかしょーもない
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 02:12
-- **更新日（UTC）:** 06/26 02:12
-
----
-
-### 63. 住所特定やめてください。お願いです
-**作成者:** ロバ
-
-#### コメント (8)
-- **伊藤です** (06/26 02:02): っむーり
-- **伊藤です** (06/26 02:02): おつかれーー
-- **ギンガ** (06/26 02:10): やめたれって
-- **ギンガ** (06/26 02:10): 可哀想
-- **ギンガ** (06/26 02:11): 住所特定
-- **ギンガ** (06/26 02:11): やめたれ
-- **ギンガ** (06/26 02:11): ロバが可哀想
-- **ロバの親友** (06/26 02:21): ほんまな
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 01:21
-- **更新日（UTC）:** 06/26 01:21
-
----
-
-### 64. ガキンチョ死ねさん、住所特定やめてください
-**作成者:** ロバ
-
-#### コメント (3)
-- **ドラえもん** (06/26 02:15): ほんまな
-- **ロバの親友** (06/26 02:21): ほんまな
-- **ひひひひｈ** (06/26 10:43): さんつけてんの偉い
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 01:19
-- **更新日（UTC）:** 06/26 01:19
-
----
-
-### 65. ロバです。住所特定やめてください。お願いです
-**作成者:** ロバ
-
-#### コメント (4)
-- **ロバ** (06/26 01:15): 本当にやめてください
-- **はにわ** (06/26 01:16): 会話しよう
-- **ロバ** (06/26 01:18): なんで
-- **ドラえもん** (06/26 02:15): ほんまな
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 01:15
-- **更新日（UTC）:** 06/26 01:15
-
----
-
-### 66. ロバの住所特定とかロバが可哀想やからやめてあげて
-**作成者:** イセビヨリ
-
-#### コメント (5)
-- **ロバ** (06/26 01:15): 本当にやめてください
-- **規制** (06/26 01:16): それな
-- **はにわ** (06/26 01:16): それわそう
-- **はにわ** (06/26 01:17): やめましょうよ
-- **ドラえもん** (06/26 02:15): ほんまな
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 01:11
-- **更新日（UTC）:** 06/26 01:11
-
----
-
-### 67. 入って〜
+### 9. 入って〜
 **作成者:** c00lkidd (r0400295_1)
 
 [添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
@@ -7159,14 +6427,18 @@
 
 ---
 
-### 68. 投稿 68
+### 10. 投稿 10
 **作成者:** 車好き (22170078)
 
 <p>学校のタブレットでやってます♡</p>
 
-#### コメント (2)
+#### コメント (6)
 - **ハンバーガー** (06/25 11:16): 俺も
 - **Anonymous** (06/26 04:24): 　俺も
+- **おなべさん(新垢** (07/02 05:10): わても
+- **匿名** (07/07 01:44): わしも
+- **暇人two Time** (07/07 09:12): 同じく
+- **ミチシルベ** (07/09 04:36): われも
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -7175,39 +6447,14 @@
 
 ---
 
-### 69. 投稿 69
-**作成者:** ガキンチョ死ね
-
-**ロバの住所特定してもいいかーwww:**
-- **YES:** 31件の投票
-- **NO:** 45件の投票
-- **どっちでもいいわカス:** 21件の投票
-
-#### コメント (9)
-- **ガキンチョ死ね** (06/23 12:34): 締切は、6月25にちまでだよー
-- **かかか** (06/23 22:12): 私の誕生日までじゃん
-- **匿名** (06/24 02:07): 喋んなかすーーーーーーーーーー
-- **かかか** (06/24 09:34): 喋っちゃいけない理由と根拠オネシャス
-- **ripe** (06/24 12:33): 黙っててくさ
-- **RNE-るね** (06/25 07:09): ｗｗｗ
-- **ロバ** (06/26 01:16): 本当にやめてください
-- **ドラえもん** (06/26 02:15): やめたれ
-- **ひひひひｈ** (06/26 10:44): 締め切りなんですよね
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/23 12:33
-- **更新日（UTC）:** 06/28 08:45
-
----
-
-### 70. 入りたい人はコメント！！
+### 11. 入りたい人はコメント！！
 **作成者:** ロバ
 
 [添付ファイル 1](https://padlet.com/utsubobobo641/padlet-asext1ycsz3lf4tt)
 
-#### コメント (1)
+#### コメント (2)
 - **れいり** (06/23 11:17): ゴミ箱だぞ
+- **ルカと** (07/07 04:11): ゴミ箱だぞ 
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -7216,16 +6463,17 @@
 
 ---
 
-### 71. 投稿 71
+### 12. 投稿 12
 **作成者:** モッチ (gs180822)
 
 <p>できれば来てください。</p>
 
 [添付ファイル 1](https://padlet.com/gs180822/padlet-ti5jxw68gbl1vgt2)
 
-#### コメント (2)
+#### コメント (3)
 - **ヨイケツ** (06/21 09:03): パスワードなに？
 - **ハチミツ** (06/22 09:44): パスワード何ですか？
+- **あっぷる** (07/08 12:24): なんでうｓっｋ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -7234,7 +6482,7 @@
 
 ---
 
-### 72. 入ってミーティングして
+### 13. 入ってミーティングして
 **作成者:** レッドキング
 
 [添付ファイル 1](https://padlet.com/21070045_2/eye-filter-mfzp8bz0bxbi6u44)
@@ -7246,16 +6494,17 @@
 
 ---
 
-### 73. 火の粉ーなんで抜けたの？青ちゃん、ペガサス入ってきて誰でもいいから絶対顔出しで
+### 14. 火の粉ーなんで抜けたの？青ちゃん、ペガサス入ってきて誰でもいいから絶対顔出しで
 **作成者:** ロバ
 
 [添付ファイル 1](https://meet.stuvus.uni-stuttgart.de/114514)
 
-#### コメント (4)
+#### コメント (5)
 - **例のペガサス** (06/19 07:33): どうやって入るねん🔰
 - **ロバ** (06/19 07:36): みんな入って
 - **例のペガサス** (06/19 07:37): どうやって喋る？
 - **ロバ** (06/19 07:38): マイクボタン押せ
+- **暇人two Time** (07/07 09:13): 入っていいの？
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -7264,26 +6513,7 @@
 
 ---
 
-### 74. ↓ みんなはよ入れ（ふたば、青ちゃん、ペガサス）高山暴言したから入るな(入ってもBANできるよw)
-**作成者:** ロバ
-
-#### コメント (7)
-- **ロバ** (06/19 06:49): みんなー入って
-- **ロバ** (06/19 06:49): おーい
-- **ロバ** (06/19 06:49): 抜けんなや
-- **ロバ** (06/19 06:49): もう一回入ってお願い
-- **ロバ** (06/19 07:07): あと火の粉
-- **ひひひひｈ** (06/26 10:45): もしかしてこれが理由かな？
-- **ひひひひｈ** (06/26 10:45): 住所特定の
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/19 06:40
-- **更新日（UTC）:** 06/19 07:08
-
----
-
-### 75. 俺に許可されたやつしか入るな
+### 15. 俺に許可されたやつしか入るな
 **作成者:** ロバ
 
 <p>入りたいやつはコメントで</p><p>今日やったやつはそのまま入れ</p>
@@ -7305,7 +6535,7 @@
 
 ---
 
-### 76. 日野と俺
+### 16. 日野と俺
 **作成者:** 青ちゃんですからね
 
 <p>ヒノー見てたらチャットして</p><p><br/></p><p><br/></p>
@@ -7374,7 +6604,7 @@
 
 ---
 
-### 77. ランマーが欲しい
+### 17. ランマーが欲しい
 **作成者:** マキカゼ
 
 #### コメント (1)
@@ -7387,7 +6617,7 @@
 
 ---
 
-### 78. ワールドカップの話や黙っとけ珍騎士
+### 18. ワールドカップの話や黙っとけ珍騎士
 **作成者:** うんピー (19001890)
 
 #### その他の情報
@@ -7397,10 +6627,10 @@
 
 ---
 
-### 79. wカップの見方教えて下さい
+### 19. wカップの見方教えて下さい
 **作成者:** うんピー (19001890)
 
-#### コメント (16)
+#### コメント (17)
 - **ちんこみたい！** (06/15 05:42): きもいw wお母さんのでも見とけ
 - **ちんこみたい！って人に返信します** (06/16 03:43): まて、お母さんAカップもないかもよｗｗｗ
 - **たこやき太郎** (06/16 04:09): それはひどいて
@@ -7417,6 +6647,7 @@
 - **ヤマホシに言う** (06/18 06:45): お前わかった気になるなよなんでそうんなに上から目線してんだよ 
 - **モッチ** (06/21 00:58): ワールドカップの見方は　「ワールドカップNHK」と調べてやると見れる1番上のやつ
 - **荒らし（初心者）** (06/22 09:47): 一番マトモｗｗｗ
+- **おなべさん(新垢** (07/02 05:09): それはそう
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -7425,7 +6656,7 @@
 
 ---
 
-### 80. だれかいますか
+### 20. だれかいますか
 **作成者:** こんにちは
 
 #### コメント (2)
@@ -7439,7 +6670,7 @@
 
 ---
 
-### 81. 今日２１００にこれるなら来て
+### 21. 今日２１００にこれるなら来て
 **作成者:** こんにちは
 
 #### コメント (4)
@@ -7455,7 +6686,7 @@
 
 ---
 
-### 82. みんな〜これで俺行けたんだけどみんなは行ける？
+### 22. みんな〜これで俺行けたんだけどみんなは行ける？
 **作成者:** yuu (1920312802)
 
 [添付ファイル 1](https://143.244.207.157/_ja/?__cpLangSet=1)
@@ -7481,7 +6712,7 @@
 
 ---
 
-### 83. 投稿 83
+### 23. 投稿 23
 **作成者:** チキバナ (tikinnbanana)
 
 [添付ファイル 1](https://kobayasi-riku.easterndns.com/)
@@ -7501,7 +6732,7 @@
 
 ---
 
-### 84. 投稿 84
+### 24. 投稿 24
 **作成者:** 𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ (Helter_Skelter)
 
 [添付ファイル 1](https://quinn.beac.sterlingprint.ca/)
@@ -7555,7 +6786,7 @@
 
 ---
 
-### 85. 荒らし撲滅隊でアカウント持ってる人、荒らし対策本部団員ってところにいれてあげようか？
+### 25. 荒らし撲滅隊でアカウント持ってる人、荒らし対策本部団員ってところにいれてあげようか？
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 #### コメント (17)
@@ -7578,7 +6809,7 @@
 - **クモハレ** (05/24 03:21): なんですか
 
 #### リアクション
-- **絵文字:** 👎 (5)
+- **絵文字:** 👎 (6)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -7587,7 +6818,7 @@
 
 ---
 
-### 86. 広島だけじゃなくてもいいよ来てー
+### 26. 広島だけじゃなくてもいいよ来てー
 **作成者:** さくとなんだ今も無差別荒らし (143_16543)
 
 [添付ファイル 1](https://padlet.com/riotodayo/padlet-tpjlk8gyyxxugaas)
@@ -7602,7 +6833,7 @@
 
 ---
 
-### 87. 広島県の人おしえて
+### 27. 広島県の人おしえて
 **作成者:** さくとなんだ今も無差別荒らし (143_16543)
 
 #### コメント (11)
@@ -7625,7 +6856,7 @@
 
 ---
 
-### 88. よ
+### 28. よ
 **作成者:** さくとなんだ今も無差別荒らし (143_16543)
 
 #### コメント (3)
@@ -7640,7 +6871,7 @@
 
 ---
 
-### 89. 投稿 89
+### 29. 投稿 29
 **作成者:** 海軍 情報科 上等兵 (azsre_0516)
 
 [添付ファイル 1](https://zisyouusotuki.f5.si/)
@@ -7660,7 +6891,7 @@
 
 ---
 
-### 90. 入れなくなった
+### 30. 入れなくなった
 **作成者:** 𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ (Helter_Skelter)
 
 #### コメント (20)
@@ -7692,7 +6923,7 @@
 
 ---
 
-### 91. 入れんくなった
+### 31. 入れんくなった
 **作成者:** さくとなんだ今も無差別荒らし (143_16543)
 
 #### コメント (4)
@@ -7708,7 +6939,7 @@
 
 ---
 
-### 92. 浮上
+### 32. 浮上
 **作成者:** さくとなんだ今も無差別荒らし (143_16543)
 
 #### コメント (2)
@@ -7722,7 +6953,7 @@
 
 ---
 
-### 93. 「荒らし対策本部団員」の方々へ、
+### 33. 「荒らし対策本部団員」の方々へ、
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 <p>この度は、柚子塩さんのアカウントを使って俺の部屋を荒らしたこと(ショボイけどw)。多分柚子塩のアカウントが乗っ取られたのかと思います。次に、皆様が読者になっていた件については、柚子塩のアカウントを乗っ取ってた荒らしてたやつだと思います。ちゃんと全部戻しました</p>
@@ -7741,7 +6972,7 @@
 
 ---
 
-### 94. 浮上Mr,kの部屋荒らされてる
+### 34. 浮上Mr,kの部屋荒らされてる
 **作成者:** さくとなんだ今も無差別荒らし (143_16543)
 
 #### コメント (1)
@@ -7754,7 +6985,7 @@
 
 ---
 
-### 95. ダウンローダー頂戴
+### 35. ダウンローダー頂戴
 **作成者:** やまｄア (r0200325)
 
 <p>最近ぶろされてきている</p>
@@ -7784,7 +7015,7 @@
 
 ---
 
-### 96. 俺午前中は学校行ってるんで、あらしの対処できないかもです
+### 36. 俺午前中は学校行ってるんで、あらしの対処できないかもです
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 #### コメント (2)
@@ -7798,7 +7029,7 @@
 
 ---
 
-### 97. もし荒らしが来てたら「荒らし対策本部団員」に来てね。多分俺居るから
+### 37. もし荒らしが来てたら「荒らし対策本部団員」に来てね。多分俺居るから
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 #### コメント (1)
@@ -7811,7 +7042,7 @@
 
 ---
 
-### 98. 誰か居る？？？？？？
+### 38. 誰か居る？？？？？？
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 #### コメント (30)
@@ -7853,7 +7084,7 @@
 
 ---
 
-### 99. 過疎ってますね
+### 39. 過疎ってますね
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 #### コメント (8)
@@ -7873,7 +7104,7 @@
 
 ---
 
-### 100. 戻ってきたぞー
+### 40. 戻ってきたぞー
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 #### コメント (38)
@@ -7923,7 +7154,7 @@
 
 ---
 
-### 101. 漫画落ち
+### 41. 漫画落ち
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 <p>goodby</p>
@@ -7939,7 +7170,7 @@
 
 ---
 
-### 102. なべさん&柚子塩、「荒らし対策本部団員」で話そー
+### 42. なべさん&柚子塩、「荒らし対策本部団員」で話そー
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 #### コメント (2)
@@ -7953,12 +7184,12 @@
 
 ---
 
-### 103. これで見れるよ
+### 43. これで見れるよ
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 <p>笑ったら👍️押して</p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/3649489253/5f6661282b178b6ae59c5a2cf86322bf/Screen_recording_2025_04_08_12_50_54.webm?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1NKvS%2BcJgTV1YhBCFC94yQhl2N8pGymSGin%2FgULg%2B958GZxguVRV1UA6%2BUIcGBxvqE52E5XJP%2Fae6enHUlNw6TfyyyM673GBGXccqdLYIZHgBYTPLRw7NGBA5iz%2BfxeSqq%2Bcpn7ReN2nQ0D6YjsJ9QLwSaKY8ScPAhlnK60rPzD3ZZA%2BPttpAGFfgY7vcS7BTA0NbRTaDEDJqDKSYcDcBJYf3QW4%2Fngy3ni5gD2IaMWqPAlB9HXhaEFVO2xf3YgI9rvC8nI6XGrBQzR7x9KUc3oBfNEilr9VdRk4F8vhCkd%2BfziDAWt3o2iSyUnrjFM1AIXIpNMq1QCrpx9cPxiQeQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F5f6661282b178b6ae59c5a2cf86322bf%2FScreen_recording_2025_04_08_12_50_54.webm)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/3649489253/5f6661282b178b6ae59c5a2cf86322bf/Screen_recording_2025_04_08_12_50_54.webm?Expires=1784327746&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UkS00cnn%2B6ngvCZnOtciO2tglGZh2J%2BnIrukDI99HNonNIih9jWWLUQZZYvViuQl%2Bj%2Fhux3Y6i6rLXeY2eiDSWImxCc1lCAbb1XaZRwS39hZ80R99eRLRXhfYiMAivMMyix6etH24ku9i0kmjYkKzi%2BFsAZRiiUyHOaJw1n0siD3zdoLktnnjCbq6w4t5jyFyglRou3YZq%2BtzoVGOcN%2FTIFTa3Y19p3%2B8QkoNXkmGVnb5T%2FuKX%2FlvA8mP9ys5CTrVw2p9GYj0RL%2BxSAksZbNqEYkH5Q8IS7YuIb9gCAfDiAmXtqVUVUMj3JZaYeqsfMq9IRSnIOdmVTmzhcZJjJCXA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F5f6661282b178b6ae59c5a2cf86322bf%2FScreen_recording_2025_04_08_12_50_54.webm)
 
 #### コメント (4)
 - **なべさん** (04/08 03:53): w
@@ -7976,7 +7207,7 @@
 
 ---
 
-### 104. このなんかよくわからんサイトもセーフ
+### 44. このなんかよくわからんサイトもセーフ
 **作成者:** 柚子塩 (rmrmrmr)
 
 <p><a rel="noopener noreferrer nofollow" href="https://algebra.learnnexus.xyz">https://algebra.learnnexus.xyz</a></p>
@@ -8002,10 +7233,10 @@
 
 ---
 
-### 105. 待ってｗ普通にブロックｗｗ
+### 45. 待ってｗ普通にブロックｗｗ
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/3649489253/c35cdf6225db884a79bfbe70fe842184/image.png?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=e2V%2Fp9YoePjLvrLUSgMvAgFLB76Sr5g1LRxEbw%2FVREGAz5ZZmGlfkoC8wfwaRe1jwpxuni5maEer0x%2BmNP9XYpvaxOpB4GN4N4vBBhwQmKyXsMhZqD7M94FJAqyNf2SNqdyaPo7aUMnux0MQibTLe1YFEwBAFjL7DNkZGj6BOdvuP2%2Bjk9qLaoTg3IQl%2BDQ6UaaIOCP%2FYXK9zXDaw48erwlAgQZtd%2F9I7SeZ5gi4phFrVJhzMcL%2BAn%2B7Ly6Nh%2B3lJwBgmUFm1kzlkpaIye84Ja%2BWvgKRVoZAE4DuepNvH1h6vbur8i0ST5cylihwbcqmt634XTR6y2PqHUDTFYYVIQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fc35cdf6225db884a79bfbe70fe842184%2Fimage.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/3649489253/c35cdf6225db884a79bfbe70fe842184/image.png?Expires=1784327746&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dxPz323wGFRVhfM1jXzNlaOVy2%2FePdMQE%2BLK4T%2BmlQV0PwbAeNkLY2JVZUggid5MkfoYtXtXqioac9bwiIeRIK3EPOrTxJarK3PvlL071M3gAHmxpgfVPo%2BSYPTB4u401UZHZAQCEDG1LGKQxLZwlJsgrD%2FTBBecdIGF6az0m5ItS%2Bd8CpLk3lOv7%2FdrDDbdd%2BqAUGbpN0JN6QhUxgQsIcrMQB3bghioGtOLQOGFZUEYZhieAGWj7FKvlZx4toMgnwCR5BqkSKcknQX3UbcjWGIv09%2BDn7O6anIwXklldIAUoHxYskKIY%2BsDTzR22EGt37MooVqt%2BJ5EW5xni7%2FR7g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fc35cdf6225db884a79bfbe70fe842184%2Fimage.png)
 
 #### コメント (5)
 - **柚子塩** (04/08 03:27): www
@@ -8021,10 +7252,10 @@
 
 ---
 
-### 106. なべさん、柚子塩さん
+### 46. なべさん、柚子塩さん
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/3649489253/b8396ea7fd827a740bfb9ee98017847a/image.png?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7b9jtFlVnJswCu9vPwKj%2FoBRp7UDum8wUjNxZ44aEvij1QpUHPgPqfD19JKMn2c7WKrh7mGqBsQDeSlAUVe1nb1S%2FZYiA1RMn73Vc22Mqug8hZnHPWcVdm2qMz0Cww1iAhTOuPPVXNBoGzv7sVTnk610BZdcbqOxVYPmu1FVU2vvnsUinVWocweAW%2BY9pYDUX3FazSIG6noJf99osj%2BW1QTDirTMDOc4kGb7fulflgH7I6np5%2BA3ueEAxrGtad7ZXa3NdTkYsvf9cxbpCCsA4PdrbEr0K6LhVOG5BudOzvVpvsXB5F8EBUNtteGdWl6Q6cTU3oJnVFXzzqxUgAFxZw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fb8396ea7fd827a740bfb9ee98017847a%2Fimage.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/3649489253/b8396ea7fd827a740bfb9ee98017847a/image.png?Expires=1784327746&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=vJpyOaFfqf7r7bAuE8Al2gHDnOP5xiYmlsHTuNSDl1WMWJZARSAoTkSniVJy87pZc%2FRSOLDusndoOT6vBmJ4i9FaHy6TB%2FvsBQH0bWZ9RUzi5%2B8MjnT2ItcEbQjUVwLojSRrBfOf3Agmx6InSxbyKUTQBHMCels4pBwmafOgzXlQvZOz2b872KP9IkZJxcTtIJ2xrb1PruXe774OSpedOjN7qDFde1GUIWs1vLIe%2BIcydo%2BW4LXF0MVq8CcbatIpJqMwtXs2kwkwtDtw9x%2BVI9sVA65HUrzPbfHCEgLo5SimyT86PSspVHnjxbSO173KOMdhiBvVVniks%2FJfrng2qg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fb8396ea7fd827a740bfb9ee98017847a%2Fimage.png)
 
 #### コメント (3)
 - **【超低浮上】Mr.k廃人** (04/08 03:26): セーフらしいです
@@ -8038,7 +7269,7 @@
 
 ---
 
-### 107. 今いるひとコメント描いて
+### 47. 今いるひとコメント描いて
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 #### コメント (21)
@@ -8071,7 +7302,7 @@
 
 ---
 
-### 108. 暇だわ
+### 48. 暇だわ
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 #### コメント (60)
@@ -8143,7 +7374,7 @@
 
 ---
 
-### 109. 正式にランマー
+### 49. 正式にランマー
 **作成者:** なべさん (nabesann)
 
 <p>ランマー配布<a rel="noopener noreferrer nofollow" href="https://mkmds.opsto.ipv64.de/">https://mkmds.opsto.ipv64.de/</a></p><p><a rel="noopener noreferrer nofollow" href="https://ubpr-rh-1-dekinakatta-karaseee.railway.web.id/">https://ubpr-rh-1-dekinakatta-karaseee.railway.web.id/</a></p><p><a rel="noopener noreferrer nofollow" href="https://marjooj.home.kg/">https://marjooj.home.kg/</a></p><p><a rel="noopener noreferrer nofollow" href="https://3.rammershark.ipv64.net">https://3.rammershark.ipv64.net</a></p><p><a rel="noopener noreferrer nofollow" href="http://marjooj.home.kg">marjooj.home.kg</a></p><p><a rel="noopener noreferrer nofollow" href="https://mkmds.opsto.ipv64.de/">https://mkmds.opsto.ipv64.de/</a></p><p><a rel="noopener noreferrer nofollow" href="https://rammerhead-umekomi.myclarevision.com/">https://rammerhead-umekomi.myclarevision.com/</a></p>
@@ -8161,7 +7392,7 @@
 
 ---
 
-### 110. ↓のサイトいじくってたらプロキシ見つけた
+### 50. ↓のサイトいじくってたらプロキシ見つけた
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 [添付ファイル 1](https://tweb.web.app/Oweb/)
@@ -8183,7 +7414,7 @@
 
 ---
 
-### 111. 見られたくない検索履歴を隠すサイト
+### 51. 見られたくない検索履歴を隠すサイト
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 [添付ファイル 1](https://tweb.web.app/feature/Flash-math/)
@@ -8198,7 +7429,7 @@
 
 ---
 
-### 112. あとなんかよくわからんサイト
+### 52. あとなんかよくわからんサイト
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 [添付ファイル 1](https://fontgenerator.cc/random-font)
@@ -8213,7 +7444,7 @@
 
 ---
 
-### 113. もういっちょ
+### 53. もういっちょ
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 [添付ファイル 1](https://rammerdesuyo.guillemjafer.es/)
@@ -8228,7 +7459,7 @@
 
 ---
 
-### 114. ランマー
+### 54. ランマー
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 [添付ファイル 1](https://rammeriruyone.miguelarevalo.es/)
@@ -8245,7 +7476,7 @@
 
 ---
 
-### 115. ランマー
+### 55. ランマー
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 [添付ファイル 1](https://kueiro.vta.com.my/)
@@ -8260,7 +7491,7 @@
 
 ---
 
-### 116. 過疎ってるね
+### 56. 過疎ってるね
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 #### その他の情報
@@ -8270,7 +7501,7 @@
 
 ---
 
-### 117. セクションが増えてる！？
+### 57. セクションが増えてる！？
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 #### その他の情報
@@ -8280,10 +7511,10 @@
 
 ---
 
-### 118. まぁこれが現在の状況です
+### 58. まぁこれが現在の状況です
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/3649489253/d3730900b839f44b20861220e91685cf/image.png?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=HtmnHRzs7SCOU%2F2W0Sben5HA2%2BSj72u9sUd9w71tUmXHic9gUvhHgX9wGm9dmM6jqT4ed1oJGrtSsaXU3ZNtcH7As2J4tGqM1srmdeZvcrxTTx959LEA2o%2FHU6rR6z9CKgXmx3GHYyxOHSJBB%2BRBcOO695a%2BkwQccrkueQ9pgJzAUNAnL1QVWANKG%2BJmjbVLLxPdtFw6JL1Q4bDYavcx7T52zYY2WmI5YvWqR%2FZtgR%2F7etchHJGGeEZhLEmfZJiF3U55n8QwmypFxIdV%2B1zhoelD2%2F%2Fq6J9pko7dKmMmTkFUZihQ6MA0MZnKfqwdVM60vbl8d9OkW8d6dlwGvQqoMg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fd3730900b839f44b20861220e91685cf%2Fimage.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/3649489253/d3730900b839f44b20861220e91685cf/image.png?Expires=1784327746&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=s4%2Blqg0wNm2jXJCjSBQRdrmmI8%2Bwkr4UGMoVtI3ylrSJK5oicykI7bmePKVI7aUJJTFsaKYprTytYvEF%2BVw06hVQINmQGBu2bU9lNCLPlfOVWLKeYvj7R3Bd9csQTC9Vg5MMB2tmpRJLJ73rQT4KXiFrbtdXpk5gIhfD3o6dJjZz%2Frr%2FBR7L%2BRbGZawzUDu8QwO0OILQXBR1hz89s3%2BZt1ipNK663ZxHMiDZbJIG%2BBZOZHiGnjWH7aj%2FWf%2BvQvYK%2Bh9fZ43WX2zWn4VWXa%2F1rjpLkqJQmzKvlTGeGqWoAPx0CH%2BVP%2BACy%2BaBDUWWNYqgH%2BYphi4VKLMFZaFm1kCwjg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2Fd3730900b839f44b20861220e91685cf%2Fimage.png)
 
 #### コメント (29)
 - **柚子塩** (04/07 22:27): おぉ〜
@@ -8323,10 +7554,10 @@
 
 ---
 
-### 119. やりかた
+### 59. やりかた
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/3649489253/36d92899197a03dc53aeabb98c2edd79/Screen_recording_2025_04_07_20_43_59.webm?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YdE9dN3LAW%2BMcyeIg5AIDBeUNn%2FN%2Bqd4F%2FF64P84iJPwkYFQnjm6ox7wOnlYOrYMeNJ4EQ9veaTEhTYfXMUrLMDwL2pA9DGV9KtgLsk54Bde7t%2B0aZiDbqRbhfjuGFFuudBqA2Cvnb2kh0WIqtowmLjMLcwRs34ZCIUDrrYd%2BUPMOnWILk1PPMtUrBh1rRmKLgRq%2B3PtT0rspZ%2FjlFTQNjbI3fQVnlir6btlNDkJJqFNZ9%2FplUcoZYkut75Uk6YoIJ6Ykxa2NdXyhKCwj%2B3qOWdj6Qu%2FkQxmb8%2BjhF8dxv%2Fzr0g9Zc9zHfOV%2Fw5Xx%2BNmfPYddjqk99nhgbkgw%2B%2Fpvw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F36d92899197a03dc53aeabb98c2edd79%2FScreen_recording_2025_04_07_20_43_59.webm)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/3649489253/36d92899197a03dc53aeabb98c2edd79/Screen_recording_2025_04_07_20_43_59.webm?Expires=1784327746&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NTiEaB%2BmGpSfdakwz1BkAGpGCFcI1yl%2FI2tVHT70oHQmnAcHNLtDCevj%2Bbvrfqze9guFDhkjTc65wTosWe%2BLNa%2BqaRpGo3yCIthtSYWyM0KOx%2B7uozsLucjinfNpLCixXIO%2FcYGDeGZlYdkdr4A0SA%2FLAQonnKTwdRuRwwEzQ3X9%2FpnfY1bSxPb%2FRKT0XqhfCYr8frCsxqcItjhCy2t3TO8%2FTafWnL7%2FjhDcrsjY2D2BaML0b4G1QOqNWLAgNzhkvfD9jfJ5%2FCdMdsZoN3dcUjOFI%2Fg52cnnrb2NrNdmptpiq3EIpc9LNMzOUfcpZ7%2FOg%2Bz%2BIoSvZnMLYdjo5bz3Qw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3649489253%2F36d92899197a03dc53aeabb98c2edd79%2FScreen_recording_2025_04_07_20_43_59.webm)
 
 #### コメント (5)
 - **イグクラ大好き人間** (04/07 12:46): 俺もできたあ
@@ -8342,7 +7573,7 @@
 
 ---
 
-### 120. なべさんいる？
+### 60. なべさんいる？
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 <p>アカウント作って入ってほしいやつあるんだけど</p>
@@ -8442,7 +7673,7 @@
 
 ---
 
-### 121. あのーふたりとも俺のアイコンクリックして
+### 61. あのーふたりとも俺のアイコンクリックして
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 <p>そしたら「荒らし対策委員会」ていうのあるんだけどそれ入ってくんない</p>
@@ -8463,10 +7694,10 @@
 
 ---
 
-### 122. かぼちゃさんいいですか？
+### 62. かぼちゃさんいいですか？
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
-#### コメント (14)
+#### コメント (15)
 - **【超低浮上】Mr.k廃人** (04/07 10:40): モデにして
 - **さくとなんだ今も無差別荒らし** (04/07 10:41): 管理者にして設定やってあげる
 - **さくとなんだ今も無差別荒らし** (04/07 10:42): ←
@@ -8481,6 +7712,7 @@
 - **karakarann** (03/03 09:42): https://padlet.com/20061025/padlet-izluts7b565prwsu
 - **しろちゃん** (03/12 08:55): https://padlet.com/29200151/padlet-qljpcqw6hnd7sww9
 - **しろちゃん** (03/12 09:06): 入ってーhttps://padlet.com/29200151/padlet-qljpcqw6hnd7sww9
+- **ルカと** (07/07 04:13): ナイスナイスワイス　
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -8491,563 +7723,48 @@
 
 ## croxy proxy
 
-### 1. tomato
-**作成者:** トマト
+### 1. 投稿 1
+**作成者:** アキノキ
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/29 03:14
-- **更新日（UTC）:** 06/29 03:14
-
----
-
-### 2. あらすな
-**作成者:** 焼き止めと
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:57
-- **更新日（UTC）:** 06/28 09:57
-
----
-
-### 3. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 4. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 5. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 6. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 7. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 8. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 9. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 10. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 11. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 12. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 13. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 14. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 15. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 16. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 17. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 18. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 19. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 20. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 21. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 22. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 23. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 24. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 25. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 26. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 27. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 28. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 29. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 30. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 31. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 32. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 33. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 34. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 35. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 36. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 37. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 38. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 39. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 40. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 41. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 42. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 43. Hello 1782637798304
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:09
-- **更新日（UTC）:** 06/28 09:09
-
----
-
-### 44. 誰か見ろよおい
-**作成者:** イノシシ
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5879803382/66e726a6948ed9d1a1ddc0f43d4808a8/Screenshot_2026_01_28_08_28_13.png?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2C7JFT3NQGAQ%2BHbr%2Fre0MHKqHaZOuVhDhlBFc0bN%2BA0AHXUjunA%2FRvX3MeI9wBye0iicRRQWv305ln9zTdxDvJKZSDi18xARerrApXzxy4ruofDmMMAYxMc1zKpohLOqL8VLs8mP9BF6afNFnmVi%2BAxwLPYDT5cck4uAd%2BRGFgI5WaKN7arS8vpWTBr42KR30uUN7YwtkHJNKato2umiJXB%2BLF771RRShlpAC2snEGOqNUkUOZjf19zI67r4kyZdug8f3jpPFTzlkpQyh3gkpI42kVckgyKdDC59x2y9n0t8lDDNBG4J%2FyNSM7BsyigBxYeQ%2BqIkwL6h%2FJkXw67NVg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5879803382%2F66e726a6948ed9d1a1ddc0f43d4808a8%2FScreenshot_2026_01_28_08_28_13.png)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 03:14
-- **更新日（UTC）:** 06/28 03:14
-
----
-
-### 45. 投稿 45
-**作成者:** イノシシ
-
-![おもろい画像](https://media2.giphy.com/media/v1.Y2lkPWNhYmM5OTE4enFmNTZhZmltZnA3NThtOGt0NTVrN3N1cnp2ZDF0cWR0YzJ3cWM5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/449dnLNnyYgNas2e03/giphy.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 03:05
-- **更新日（UTC）:** 06/28 03:05
-
----
-
-### 46. 投稿 46
-**作成者:** イノシシ
-
-![おもろいマリオ](https://media1.giphy.com/media/v1.Y2lkPWNhYmM5OTE4bms3eDA5eWxheTFucWdpdXJnYWdpYzMwdndwdWU1MW01MDloYzN0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vNMcPjKfgywJXtn5ax/giphy.gif)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5935498299/2c1bc1198a99c996db2653c7f9c011f3/IMG_0192.webp?Expires=1784327746&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qiUUuLg%2Fe3%2FZd4q%2Bz9oaOVMc53%2F8hHYzqpXt5J5ksXEnmJOjEEJZvquS7N08FvxIk16Q9LK9TnyO5a0jJX4BK94DR9DkHj3yvgZ5IxVMHmnBkOWswtjLcoOE9wQ0D6eExmPQRGDYhx8evyrpQwrptVhsIbrpLxK2gDjBcL6X6jJDUsl41RRyQnLTJzRb6qZK6STH1Ma2uRB0V8hBHBHd%2B%2BxUFLFyBpoxnXgYqwvMh%2F%2BUuFZDY2VMP98E%2F%2B5rQPcfwB4ciM4jRuI6TJsHsmXGmKsOmKk8OLdMLYafWfU8IK%2F%2BGEbQpgYpwgkq2QkRlEBMuITePddAGpbMCDqQ8EjM2A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5935498299%2F2c1bc1198a99c996db2653c7f9c011f3%2FIMG_0192.webp)
 
 #### コメント (1)
-- **車好き** (06/27 08:57): 怖 
+- **帝京大学ニキ** (07/10 01:31): こんにちわ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 08:14
-- **更新日（UTC）:** 06/27 08:14
+- **作成日（UTC）:** 07/09 13:03
+- **更新日（UTC）:** 07/09 13:03
 
 ---
 
-### 47. 石垣って誰
+### 2. 投稿 2
+**作成者:** バスケ大好きにき (2101021_18)
+
+<p><a rel="noopener noreferrer nofollow" href="https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm">https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm</a></p>
+
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5835939075/38b9473c4745af7a8cbe5f10a32d7c27/Screenshot_2026_07_09_12_28_48.png?Expires=1784327746&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=AoKOyVIA2CDRlTauWO7BiLLOtP2vXm9Rh3a%2Byqrdmd7Yg8UMplNGAbZwY6pwJed1wdiREX5f%2F09NMbqj4sanBxf1G392G99%2Fr4RNPmgKpPQ6RMZyCeuecZ1HtdGga4D8SUt8H1DT%2FL05pcje9I%2FWM3sxNDYT25qSywap6fEAFvTEl712hOlw44SaEmNWvHaomEpc4DRW8nllH94sV3RyzwBdo9w1KYEbhaZtefC99prj97LhV%2FPA4yBC8aJuubuypgphG2%2Feo0HjcaHzHjzp5lAGoJqFZ1oGte05HSm%2Bi0KtJ084Se%2Frjb9f4A4kg04J%2FEfTwH297IE2Dua6GIZcrQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5835939075%2F38b9473c4745af7a8cbe5f10a32d7c27%2FScreenshot_2026_07_09_12_28_48.png)
+
+#### コメント (1)
+- **バスケ大好きにき** (07/09 06:08): 😆
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 06:06
+- **更新日（UTC）:** 07/09 06:06
+
+---
+
+### 3. 石垣って誰
 **作成者:** イノシシ
 
-#### コメント (2)
+#### コメント (6)
 - **車好き** (06/28 00:11): 石破茂
 - **イノシシ** (06/28 03:17): そうゆうことそれ総理大臣やん
+- **陽太** (07/06 08:07): さあ
+- **上半身大砲** (07/09 01:54): 知らない
+- **バスケ大好きにき** (07/09 03:21): https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm
+- **バスケ大好きにき** (07/09 03:21): 来てほしいーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -9056,7 +7773,7 @@
 
 ---
 
-### 48. このサイト神やん
+### 4. このサイト神やん
 **作成者:** 石鯛
 
 #### コメント (6)
@@ -9074,7 +7791,7 @@
 
 ---
 
-### 49. 釣り好きな人
+### 5. 釣り好きな人
 **作成者:** 石鯛
 
 #### コメント (2)
@@ -9088,7 +7805,7 @@
 
 ---
 
-### 50. 入って〜
+### 6. 入って〜
 **作成者:** c00lkidd (r0400295_1)
 
 [添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
@@ -9098,7 +7815,7 @@
 - **車好き** (06/27 09:01): タブレットでできるようにして 
 
 #### リアクション
-- **絵文字:** 😆 (1)
+- **絵文字:** 😆 (2)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -9107,7 +7824,7 @@
 
 ---
 
-### 51. 投稿 51
+### 7. 投稿 7
 **作成者:** ユウヒ
 
 <p><a rel="noopener noreferrer nofollow" href="https://joyjak.st/">https://joyjak.st/</a></p>
@@ -9124,7 +7841,7 @@
 
 ---
 
-### 52. 規制なら解除できるよ　（みんなの味方）
+### 8. 規制なら解除できるよ　（みんなの味方）
 **作成者:** 🍣🍔🍣
 
 <p>みんなも見つけて見て　　Googleでcroxyproxy　って調べて探してみて</p>
@@ -9138,7 +7855,7 @@
 
 ---
 
-### 53. これ行ける？　学タプ民　プロシキ共有
+### 9. これ行ける？　学タプ民　プロシキ共有
 **作成者:** タソガレ
 
 <p>行けなかったらごめん</p>
@@ -9162,12 +7879,12 @@
 
 ---
 
-### 54. 俺はいけた
+### 10. 俺はいけた
 **作成者:** クモスズ
 
 [https://143.244.207.157/_ja/?__cpLangSet=1](https://143.244.207.157/_ja/?__cpLangSet=1)
 
-#### コメント (8)
+#### コメント (10)
 - **タソガレ** (06/16 02:26): 無理だ.
 - **ハナノネ** (06/23 00:19): 無理でした
 - **匿名** (06/24 01:58): 無理だー
@@ -9176,6 +7893,8 @@
 - **匿名** (06/24 02:09): くもすず
 - **カマキリ** (06/28 05:39): いけてるところといけてへんところがあるだけやろ
 - **カマキリ** (06/28 05:39): 地域によって教育委員会って違うからな？
+- **ヴィニシウス・ジュニオール** (07/06 05:28): いけたありがと
+- **ワニゴリラVX6** (07/07 08:40): ブロ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -9184,7 +7903,7 @@
 
 ---
 
-### 55. 投稿 55
+### 11. 投稿 11
 **作成者:** 人がゴミのようだ👿🏀 (6802516)
 
 [添付ファイル 1](https://padlet.com/6802516/padlet-kev59ppwghrijoph)
@@ -9196,7 +7915,7 @@
 
 ---
 
-### 56. 投稿 56
+### 12. 投稿 12
 **作成者:** ううううんこ💩 (s2100694_2)
 
 [添付ファイル 1](https://edu.50friends.com.mx/)
@@ -9219,7 +7938,7 @@
 
 ---
 
-### 57. 投稿 57
+### 13. 投稿 13
 **作成者:** ううううんこ💩 (s2100694_2)
 
 [添付ファイル 1](https://subscribe-vcsa.mrwheeler.uk/)
@@ -9239,7 +7958,7 @@
 
 ---
 
-### 58. 僕のなりすましふざけんな
+### 14. 僕のなりすましふざけんな
 **作成者:** 柚子塩 (rmrmrmr)
 
 #### コメント (40)
@@ -9294,7 +8013,7 @@
 
 ---
 
-### 59. なんか荒らしが
+### 15. なんか荒らしが
 **作成者:** 柚子塩 (rmrmrmr)
 
 <p>僕のアイコンになってるしバグか⁇</p>
@@ -9332,12 +8051,12 @@
 
 ---
 
-### 60. ？？？？？？？？？？？？？？？？？
+### 16. ？？？？？？？？？？？？？？？？？
 **作成者:** なべさん (nabesann)
 
 <p>Mr.暇人さんの荒らし対策本部のとこ荒らされてるしコメントすらできなくなってる？？</p>
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/3655617445/8c143567029544738b654760a56cb885/IMG_0291.png?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=D6cxE5sHkWFYRbzFNxBNX7ufMd5wL5jGL7ztaT8C2njoSR9cheg2lHU8redQ0kzdrI7l9Jk6P7iIMbAB4CisWCNpnx89wNi09KPSN04UHTpJWtVsC8tCdvLwFVFHoKvO6kpRu%2BlxmqXGRLI%2BjXomhqIPpR8TLzcvALTyY%2BMR7NyKvhbArlaFvNqv85aqbdVlWKWDbOlYk9ZTcIJkGDDkRFODoOBYcF6KWj6dRfiKdJujE4IBb1Copk%2Fmk21gZhUdqytB2C6rsPhwzKz64SF61TbhISHS%2FsgzBrnScw0JMq5aOzId6s9Ys%2Fl7AhWPSrqA94AGA3E2pTeROu5fagjZeQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3655617445%2F8c143567029544738b654760a56cb885%2FIMG_0291.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/3655617445/8c143567029544738b654760a56cb885/IMG_0291.png?Expires=1784327746&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SOO%2B31U0p1p0DTmtORbDxhSP8Kw8%2BW0j7O6IHfDc1zz5qW1GLwimENjDlbb0ROTLWS0Z%2Bz%2FDzOoyJTpAYvzMaNHARFV%2Bt%2BkJt7NOSzXsaXYPN4bg112qKBEGa5%2BZE4wgFGUTWvQ8EDdzHDvjvmgMX3G3UxqiDzMnQxaTte3sC2Hd8jlmTICQqRiXX1nwEYDWYo0FeKF1TeXUtevygZLjFEQ%2FzEZGkPIpwowScBbjHZZHvY5rwKS3%2BF7PP8a15g%2By2Zgu1uNmR51qLicJ%2FYGZFIf1w%2FA5MjhIu1ZlxP84aGnpIygr%2FPtUk266F2%2BPG6WvGAyw0B4GjxngoMGuD8WqpQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3655617445%2F8c143567029544738b654760a56cb885%2FIMG_0291.png)
 
 #### コメント (5)
 - **なべさん** (04/08 23:17): なんかそれとうちセクションとか増やせたりピン留めできるような管理人みたいな奴もたぶん消えてる
@@ -9353,7 +8072,7 @@
 
 ---
 
-### 61. ふっかつだー
+### 17. ふっかつだー
 **作成者:** さくとなんだ今も無差別荒らし (143_16543)
 
 #### コメント (14)
@@ -9381,548 +8100,49 @@
 
 ## シャドウ
 
-### 1. あらすな
-**作成者:** 焼き止めと
+### 1. 投稿 1
+**作成者:** アキノキ
+
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5935498299/35caefe960ed370b4f068d2376989a77/IMG_0191.webp?Expires=1784327746&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GOsGFucO0gq5a%2B9UGXcUfhYcmIWDJAUzyvHsL5A0bQQSvQ%2F6hKdcP1DvnUqJCrtkOtswFjyeGySYi5ozVfjxFwKHHPr95eYkm6B5xU7hylr7Frp9CojojO9G2h3zXD7emqq86knEuNiZQG6ysgF3wYrIGVekAo68lwbF5u3UmpOj%2BDZgTdaQ%2F2qE9NvEVwW0QbJVVEwaUua9xwyLS0zzYkQ%2Bf2HE04SHGEuNwSl5BqdYOEtWrfkjlf3Lu9uQNQ0uXrTtfC6DaBii%2F640LjYVvcsayypfaOKvEqDldt6NKf4Z2zKj%2FM4pfWU0x8c0%2BdSALmbH%2Fc7dVjVQ0i5AZZRELw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5935498299%2F35caefe960ed370b4f068d2376989a77%2FIMG_0191.webp)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:57
-- **更新日（UTC）:** 06/28 09:57
+- **作成日（UTC）:** 07/09 13:04
+- **更新日（UTC）:** 07/09 13:04
 
 ---
 
-### 2. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
+### 2. これはいってー
+**作成者:** ははははははは (2101038_5)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5648055288/a6fce4fde0d498c8fb1fc6e260d29a89/Screenshot_2026_05_12_14_34_46.png?Expires=1784327746&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UOujQRIpr4MNZ2adDzgJ6ozO%2BtJ3KynrfpPf%2FzpzhiQ1D3uqWv4jbDM239q2DJr%2B%2Fe3RGdlIZTGA8QtrTgcu108x%2BoU7SgAQDAWgI7HDECxqZIAOKngBhVVYaJ%2FsDTllu%2BKyW5%2FPaizDFY7pPbqMGfufM0mXviUNeaTnlHl2kblmwOupkOkJukRlq4GVa%2FWotUwdzyBshKFH5CD7YD7ci6jXB4z4wKBv0ORPU0vliZaqzRHkutaBIdIobv%2FNz6ocjkAowA%2Fq6qBdJM3WQWtzxqBCF15ogFCqe4yQqA5KHe7gL19JbHAIBIXOAz5t8oH1eah%2BhegsM8GYEod2DjYs0Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5648055288%2Fa6fce4fde0d498c8fb1fc6e260d29a89%2FScreenshot_2026_05_12_14_34_46.png)
+
+#### コメント (2)
+- **ははははははは** (07/09 07:48): https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm
+- **ははははははは** (07/09 07:48): 頼む
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
+- **作成日（UTC）:** 07/09 07:48
+- **更新日（UTC）:** 07/09 07:48
 
 ---
 
-### 3. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 4. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 5. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 6. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 7. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 8. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 9. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 10. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 11. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 12. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 13. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 14. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 15. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 16. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 17. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 18. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 19. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 20. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 21. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 22. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 23. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 24. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 25. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 26. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 27. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 28. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 29. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 30. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 31. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 32. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 33. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 34. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 35. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 36. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 37. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 38. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 39. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 40. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 41. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 42. Hello 1782637806549
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 43. いん
-**作成者:** イノシシ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 08:16
-- **更新日（UTC）:** 06/27 08:16
-
----
-
-### 44. 入って〜
-**作成者:** c00lkidd (r0400295_1)
-
-[添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
-
-#### コメント (3)
-- **カエる」** (06/25 10:19): ちょっとやめたほうがいいと思う 
-- **はにわ** (06/26 01:24): ヤッホー
-- **ツキウミ** (06/26 01:24): 😍
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 09:08
-- **更新日（UTC）:** 06/25 09:08
-
----
-
-### 45. 投稿 45
+### 3. 投稿 3
 **作成者:** r
 
 <p>やほ</p>
 
-#### コメント (7)
+#### コメント (9)
 - **r** (06/09 07:51): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **GP** (06/15 08:19): 今すぐこれ消せ
 - **GP** (06/15 08:19): あいつがアイフィルターに入ってくる
 - **r** (06/15 10:01): 入んない方がいいよw
-- **カラフルピーチどぬく推し** (06/17 02:23): あいつって誰？
+- **どぬく🍑** (06/17 02:23): あいつって誰？
 - **明日テスト終わった** (06/17 08:25): 何が起きてる？
 - **ハチミツ** (06/21 08:52): どした？
+- **おにぎり** (07/02 06:04): これはいらん方がいいやつなん？
+- **あんこ** (07/09 12:00): あいつとは何なんだ(厨二病)
 
 #### リアクション
 - **絵文字:** ❤️ (1)
@@ -9934,7 +8154,7 @@
 
 ---
 
-### 46. shadow
+### 4. shadow
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 [添付ファイル 1](https://kuon.guillemjafer.es/)
@@ -9965,7 +8185,7 @@
 - **ツムギノ** (05/16 07:38): ぼくも、動画欲しい
 
 #### リアクション
-- **絵文字:** 👎 (9) 👍 (6)
+- **絵文字:** 👎 (12) 👍 (6)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -9976,550 +8196,24 @@
 
 ## inbox
 
-### 1. あらすな
-**作成者:** 焼き止めと
+### 1. 投稿 1
+**作成者:** アキノキ
+
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5935498299/9b14ba814c93b7fa71aff035ef7823ba/IMG_0190.webp?Expires=1784327746&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qa%2FpQkifP5afL13P1FiUfMPoT45%2F8MuxffdYucgo3Uuv3kEAS6YisEbvf6g%2BH%2B%2B4se47id9Qxq52w2yeTJP%2Fd3GJairi9zqpLWAlayyPub0XxnGbJgxtZe12JtRbsKDs6t7hnY3drr9qSo9brmM8wKHcsasp8T4Q8PrBv0tpXDihHR6Fi5kn6o%2B6we09hgTNcl4iSLhbqGRl81KYXzHa%2F0ScbCwhc6UO7LZjsmMd0f2itPAFmpzb40%2FfKdmpK19g8o1MGSKVBdbaOYaivGtDpZtqFMxkVXrKpb1iC1gs4MlvrBqxnTVLHXHp9miBH5SmTZWI8jmppgPk62%2BJiOr%2B4w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5935498299%2F9b14ba814c93b7fa71aff035ef7823ba%2FIMG_0190.webp)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:57
-- **更新日（UTC）:** 06/28 09:57
+- **作成日（UTC）:** 07/09 13:04
+- **更新日（UTC）:** 07/09 13:04
 
 ---
 
-### 2. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 3. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 4. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 5. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 6. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 7. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 8. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 9. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 10. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 11. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 12. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 13. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 14. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313865&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I5aK2Mpcy%2BGIuN6GNu5pWF%2FJcQd4K3Zc%2Bwwft86zhiIpfOFcvU50P%2Bv4xuggG070ezxN3zg9UGS7DZK6IvTwH1WIo4I%2F9B13oGsNTWOsR0NzqeRzJ0MCn5lJHTjpTo4FJeWYPj9EXDH0%2BlvO9nHpLNFFhGe2HicWlcfDRJ6HbxyouzojTFYjlIMhGwWadE9XK1LWEI%2FnFzy%2BfGcFYLmxxkknZTWl7yABulO1E%2FM01dleR4i0I%2Fq%2FMgzAJUZhQ9kHKqtEl%2FgEFCIDtMykFaIveEOHpnhI4mwRHmyFrT7Qu6VhCCH3uRmNZKgRTI1aLx90AlYGPv1LZBtSyGb%2BxAMkAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 15. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 16. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 17. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 18. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 19. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 20. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 21. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 22. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 23. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 24. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 25. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 26. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 27. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 28. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 29. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 30. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 31. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 32. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 33. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 34. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 35. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 36. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 37. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 38. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 39. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 40. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 41. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 42. Hello 1782637807396
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 43. いん」
-**作成者:** イノシシ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 08:16
-- **更新日（UTC）:** 06/27 08:16
-
----
-
-### 44. 入って〜
-**作成者:** c00lkidd (r0400295_1)
-
-[添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
-
-#### コメント (1)
-- **カエる」** (06/25 10:19): ちょっとやめたほうがいいと思う 
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 09:08
-- **更新日（UTC）:** 06/25 09:08
-
----
-
-### 45. 入ってきてブレインロットのパクリゲー作って見ましたこれ宣伝してほしいです宣伝してくれたら管理者コードもらえるかも？！
-**作成者:** クサノツユ
-
-[添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/24 11:44
-- **更新日（UTC）:** 06/24 11:44
-
----
-
-### 46. 誰か教えてーーーー
+### 2. 誰か教えてーーーー
 **作成者:** 匿名
 
-#### コメント (1)
+#### コメント (2)
 - **お、おう** (06/19 08:23): 何を
+- **ヒノデネ** (07/09 11:26): どどわあーｗ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -10528,12 +8222,12 @@
 
 ---
 
-### 47. 投稿 47
+### 3. 投稿 3
 **作成者:** mbappe (messiko)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5757860152/b6e10a3126140470d8538e0676c8f396/Screenshot_2026_05_01_21_21_03.png?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=flUAJvaTfbEmIhQ64NyMdhIizfLJUw%2FEmKDsSxHVqmnHy%2Fcdbx1vMZTj%2F2paHE1dMJS2%2F1fTzoK30jhsgFa2Ya46BJL2dSVuwBG6kF3zp2wcHn5LTFcon8CQSWsQHJna5pQPlfqPGiraL3S40jB2epoxX%2BifsV5AKcpx3YdSDcin5IrKhQEsty8URxGSmwc%2FuNvSIykNAS3l2glPM2xMQmcG36kNN8D5jf4enm3dyooSD%2BconciN11iJ3vUj8GN1xggEjdvHNX2pkt%2FtkME5SE9Vw%2BgwERS2WVo%2Fb5U18aLwSGbYE3iFusssrKkkiYoOoZT2tzapWQkvGTO444VPiA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5757860152%2Fb6e10a3126140470d8538e0676c8f396%2FScreenshot_2026_05_01_21_21_03.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5757860152/b6e10a3126140470d8538e0676c8f396/Screenshot_2026_05_01_21_21_03.png?Expires=1784327746&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=HH%2BNqfvON8CVgNaqNymxBMLJpDgL6Uy3TruIJXW0ErukQoCQrhv2SabrrF6AJ0%2Bd89caqtcUT5iq%2FET2%2BQm8kXtQ8hK53gJrr%2BskTPyHET7CzNG%2Fdzwlsf3F4vVQkIL70%2BiCgChOTMEaLRF%2BwT%2BxV%2BIJvbChnFGIeqwluKhDuIadPEABeTiESE9jpt0Q9jKWa1nV93oMXPIyURiT5skLxIpg2Kz22NdsvzgHUQgIAl1zmvRmT0KhiqjonwmsGnpqneby80aLOoNA86Kplh1BsZ8aDyIHZ0qV9dOxHgbYqX4am%2BHaAccw6PYCYiXcD%2FiVmd4wMmmzQcvDSBgAe0sobA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5757860152%2Fb6e10a3126140470d8538e0676c8f396%2FScreenshot_2026_05_01_21_21_03.png)
 
-#### コメント (10)
+#### コメント (11)
 - **mbappe** (06/06 11:59): pokepokeです
 - **えりちゃん推し** (06/09 01:05): 良いですね
 - **キーボード** (06/09 07:32): ずるいいいな
@@ -10542,8 +8236,9 @@
 - **shun** (06/13 10:36): 自分、ゴッドパック2回当てたことがありますよ。
 - **Anonymous** (06/15 02:44): う、うらやましー　それ欲しい！ポケポケ行ってくるか
 - **Anonymous** (06/17 04:47): 俺４回あるよ
-- **Coolkid（元ニカーー）【東京の市I-FILTER系】** (06/18 07:31): 俺クラウン2枚
+- **Coolkid（元ニカーー）#krtkさんの22番弟子** (06/18 07:31): 俺クラウン2枚
 - **アラレビ** (06/18 13:10): そんな強くない
+- **Coolkid（元ニカーー）#krtkさんの22番弟子** (07/06 08:35): 3枚になった
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -10552,7 +8247,7 @@
 
 ---
 
-### 48. いんぼっくす
+### 4. いんぼっくす
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 [添付ファイル 1](https://kuon.miguelarevalo.es/)
@@ -10597,1075 +8292,264 @@
 
 ---
 
-## その他のproxy
+## その他のProxy
 
-### 1. 調子のんな
-**作成者:** 焼き止めと
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:57
-- **更新日（UTC）:** 06/28 09:57
-
----
-
-### 2. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 3. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 4. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 5. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 6. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 7. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 8. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 9. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 10. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 11. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 12. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 13. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 14. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 15. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 16. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 17. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 18. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 19. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 20. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 21. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 22. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 23. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 24. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 25. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 26. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 27. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 28. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 29. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 30. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 31. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### コメント (1)
-- **焼き止めと** (06/28 10:05): おもいねんくそがき
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 32. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 33. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 34. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 35. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 36. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 37. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 38. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 39. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 40. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 41. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 42. Hello 1782637808252
-**作成者:** 重曹を舐める天才子役 (0o0o0oOooo00oooOo0o0o0)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4529100977/5e43b196f59125d760e53c661007315a/rainbowimage5G_ver_3__1_.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fvqy2r9zZBxj4Xm%2FNQdOnVvls1bAFUS%2BGN%2BPf73PqseKa4bDzi8vRThaR5VCL3J4nzUAWaykWM3Wq6X9vnOPLmfIbstiE7DdiFyqARMtXtezqjK0j0yAP61d8S0WHydc1fEbvYsZeWcz8FaPizjATd9PuOJdpheL01vFE1ejgzNQ82KF9AN8qqfsvvqkYcSEhKvsNRnPOxNhLAJcVt5Lcl3GDIfs4i8eiPvcm6QtouoNazOP3wcotWSBdD3ngTSLMJVQ0lAFLHSVJDijBqiAntfEWKxwNQfRYdjnVdAdMgF7os7I7ylNyWo3B%2FQXvQp%2F9MaTorowyT1uk8IVdsHvSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4529100977%2F5e43b196f59125d760e53c661007315a%2Frainbowimage5G_ver_3__1_.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 09:10
-- **更新日（UTC）:** 06/28 09:10
-
----
-
-### 43. 📹
-**作成者:** やーば
-
-<p>学校のタブレットでもユーチューブを見れる方法教えて</p>
-
-![添付ファイル 1](https://genai-public.padletcdn.com/disco/prod/imagen/1782606543205/sample_0.png)
+### 1. ドリフトハンターズのプロキシください
+**作成者:** Sakiharu (h4419057)
 
 #### コメント (2)
-- **リンドウ** (06/28 02:38): URLで見れるよ
-- **イノシシ** (06/28 03:12): なにそれ
+- **Sakiharu** (07/10 02:44): https://drifthunters2.io/このゲームですね
+- **Sakiharu** (07/10 02:44): ブロックされるからプロキシして 
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 00:29
-- **更新日（UTC）:** 06/28 00:33
+- **作成日（UTC）:** 07/10 02:35
+- **更新日（UTC）:** 07/10 02:35
 
 ---
 
-### 44. 学校のタブレットでもユーチューブを見れる方法教えて
-**作成者:** やーば
+### 2. 投稿 2
+**作成者:** アキノキ
 
-#### コメント (4)
-- **イノシシ** (06/28 03:04): ハッキングする
-- **イノシシ** (06/28 03:04): まず自分のパスワードのとこ開いて
-- **カマキリ** (06/28 05:40): URL知らんじてんで子供やん
-- **焼き止めと** (06/28 10:05): カマキンチョス臭い
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5935498299/dc409a70d9408c34882d3c31402784dd/IMG_0189.jpeg?Expires=1784327746&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=iS98AQ5K8KOvsCDOeKiYMwZSkezg2412gt%2FMnJXny68osDe5lXKUr8JfrNe5IQVI5ZCC41Si%2B5iCkXox0uY8r%2B4flb26qYUj%2BXlUgMstsJOYC2AcNXVxY2QPG5y7VqUQevmhQne2%2FGFwU7BMrBn6Ahjj576Y%2ByZIqJkBFwAOpItQsUqWTXPTRCswjh7wuVOEJaYQjlwx%2Bcw8oILndWAr9W7arQig3SWIhSSsBjwaKq7xtxr6DuwDSbF5eQV3wBQfaqRagSuNOSGCP1o04ZyO%2FGavw1HGqwB6YKfWeigVx8BKtl8nHH4DpDFpaXh6ke%2BccsAJaQTD7KoDAHJKBrCkDw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5935498299%2Fdc409a70d9408c34882d3c31402784dd%2FIMG_0189.jpeg)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 00:28
-- **更新日（UTC）:** 06/28 00:33
+- **作成日（UTC）:** 07/09 13:04
+- **更新日（UTC）:** 07/09 13:04
 
 ---
 
-### 45. いん
-**作成者:** イノシシ
+### 3. 何でもブロックされないサイトありますか
+**作成者:** ｍ
+
+#### コメント (8)
+- **オカノネ** (07/09 02:53): 誰か面白いゲームください学校のタブレットでできるのでお願いします
+- **おうが応援する人（れいり）** (07/09 02:54): w
+- **おうが応援する人（れいり）** (07/09 02:54): 教えよっかなー
+- **オカノネ** (07/09 02:54): お願いします
+- **オカノネ** (07/09 02:54): サイトに飛ぶやつがいいです
+- **オカノネ** (07/09 02:56): 誰かお願いします
+- **Coolkid（元ニカーー）#krtkさんの22番弟子** (07/09 07:05): あるけど教えるなって言われてるから無理
+- **匿名** (07/10 00:14): スタートページを前まで使ってたんですけどブロックされました
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 08:16
-- **更新日（UTC）:** 06/27 08:16
-
----
-
-### 46. 入って〜
-**作成者:** c00lkidd (r0400295_1)
-
-[添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
-
-#### コメント (1)
-- **カエる」** (06/25 10:19): ちょっとやめたほうがいいと思う 
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 09:08
-- **更新日（UTC）:** 06/25 09:08
-
----
-
-### 47. 【だれかミューティングできるの知らない？】
-**作成者:** RNE-るね (RNE0703)
-
-#### コメント (3)
-- **ひひひひｈ** (06/26 10:38): 知ってるよ
-- **ひひひひｈ** (06/26 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
-- **ひひひひｈ** (06/26 10:39): はいってガチスケってひとの部屋はいったらあるよ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 07:09
-- **更新日（UTC）:** 06/25 07:09
-
----
-
-### 48. ワールドカップどうやってみれる？
-**作成者:** いいいいああああ (19001873_1)
-
-#### コメント (2)
-- **subaru** (06/25 05:08): https://www.nhk.jp/g/fifaworldcup/
-- **規制** (06/25 22:41): みたいみたい
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 04:26
-- **更新日（UTC）:** 06/25 04:26
-
----
-
-### 49. 入ってとっても楽しいよ
-**作成者:** れいり
-
-[添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/24 11:48
-- **更新日（UTC）:** 06/24 11:48
-
----
-
-### 50. 投稿 50
-**作成者:** ヨイナギ
-
-[添付ファイル 1](https://geography.indormost.ru/)
-
-#### コメント (3)
-- **ううううんこ💩** (06/22 23:03): かぼちゃこれとしたのやつけして
-- **10式** (06/23 10:07): 何で？
-- **ヤマミチ** (06/25 02:45): https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/22 22:59
-- **更新日（UTC）:** 06/22 22:59
-
----
-
-### 51. 投稿 51
-**作成者:** ヨイナギ
-
-[添付ファイル 1](https://top-medical-schools.org/)
-
-#### コメント (1)
-- **ううううんこ💩** (06/22 23:03): これも消して
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/22 22:58
-- **更新日（UTC）:** 06/22 22:58
-
----
-
-### 52. 投稿 52
-**作成者:** 草_すずめしゃん信者 (mounanimoumakuikanai)
-
-<p>これわかる人いる？</p>
-
-[添付ファイル 1](https://mj96tv-5000.csb.app/tools)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/22 11:08
-- **更新日（UTC）:** 06/22 11:08
-
----
-
-### 53. 誰か学校のタブレットでもできるゲームのリンク貼ってください
-**作成者:** ハルゾラ
-
-#### コメント (4)
-- **匿名** (06/20 02:20): i-フィルターにも規制されないhttps://leveldeviltopvaz.github.io/go/class-534.html#
-- **ロバ** (06/20 02:59): ブロぉ
-- **ハナノコエ** (06/21 01:59): それ僕にとって規制されてます、最近力かけてきてます（教育委員会)
-- **ミチル『偏差値70の猛者』** (06/22 09:58): 天才
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/18 12:40
-- **更新日（UTC）:** 06/18 12:40
-
----
-
-### 54. kahoothackのやり方教えて
-**作成者:** scratch (8321909_1)
-
-#### コメント (1)
-- **tororo2929** (06/19 06:18): カンパニーって最近どうなんかな～？
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/17 08:48
-- **更新日（UTC）:** 06/17 08:48
-
----
-
-### 55. 投稿 55
-**作成者:** ううううんこ💩 (s2100694_2)
-
-[添付ファイル 1](https://geography.indormost.ru/onboarding/)
-
-#### リアクション
-- **絵文字:** 👍 (1)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/17 02:22
-- **更新日（UTC）:** 06/17 02:22
-
----
-
-### 56. 投稿 56
-**作成者:** ６松-11_さとうけい_R8花館小 (k21i005709)
-
-<p>ゲームサイト教えて</p>
-
-#### コメント (3)
-- **僕** (06/16 23:36): https://d11jzht7mj96rr.cloudfront.net/
-- **僕** (06/16 23:36): はいよ
-- **６松-11_さとうけい_R8花館小** (06/17 02:55): ありがとう
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/16 05:46
-- **更新日（UTC）:** 06/16 05:46
-
----
-
-### 57. 投稿 57
-**作成者:** 近藤諒 (btry25082)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5240200567/1456bf33fbf538533dfb2a1918397768/Lx99xS.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Ah1zLOJ0NtcSDcm8lxW5kTip7W4G2SztbactXxvDRfcWQgJZRgd63D%2FFyq3S01YCZl3nVvKHkX%2F1360Dm75FA03CVG5OGTpnmWSdvcv%2BBAIihm3nKEA5Y9bU8UJvsDu1JX0rTld2o46oh4Uwq4EdHdKa9xMlg%2B%2Bk67aggzUhuUaPvYIXWN8LqOavtnPvArrpCYQeCcMOTArPHRsp7RGu%2FyGilenq1YEFefh7nSdrADi3CQlAGXmVCgFj%2BXS0zH%2BYYmf25vh3A5fFtPtTr%2BcZZZmoIPsQdHJkgOHeiBi4O3otAsl3XNxbWJ3AOA8IESlJm9tXBUnPkf4mM7GjFyDEKg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5240200567%2F1456bf33fbf538533dfb2a1918397768%2FLx99xS.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/16 04:33
-- **更新日（UTC）:** 06/16 04:33
-
----
-
-### 58. 投稿 58
-**作成者:** 近藤諒 (btry25082)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5240200567/628357116d7cbe3d9ea4f8c9d8116125/rainbow_frog_20.gif?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DzhP6uuR9kYpqyfqVoIRbzNC65rsq3gvTrgLz4UpmXWmIrSejWg%2Fb1kFw8locXW%2BsFwU4Oxg9Uwtot8DAfzkWtTOYcs0WFboP5AK6TYy5Ir2pibPa%2Bb1mXut4qpeQ1guYa2t6h%2Bu%2F%2FjtfRb2K%2Bp%2BgxyOLfLDzhoHpOazONuhbGgunyS5kIbJEtvJ8IcrXclfsY9zNerkwmKxT5o0HHMG57ujaD3ZQ7V%2FSgAHdBpT2vnc37q7uAyr8D%2Bhco0AiQB85jto5IAlqxk7stGFj5e2suAB1gzNNcarY6HlO03VHkTxdL%2FK2i86xCqo%2BKuqzgfnDRey1NRK4AexF70XOO764w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5240200567%2F628357116d7cbe3d9ea4f8c9d8116125%2Frainbow_frog_20.gif)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/16 04:31
-- **更新日（UTC）:** 06/16 04:31
-
----
-
-### 59. ああ
-**作成者:** ああああ
-
-#### コメント (4)
-- **ああああ** (06/16 00:25): ああ
-- **ああああ** (06/16 00:25): ああああ
-- **ああああ** (06/16 00:25): ああああ
-- **ああああ** (06/16 00:25): ああああ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/16 00:25
-- **更新日（UTC）:** 06/16 00:25
-
----
-
-### 60. 投稿 60
-**作成者:** でけえ
-
-<p>誰かブロスタの仕方教えて</p><p><br/></p>
-
-#### コメント (1)
-- **ああああ** (06/16 00:24): むり
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/16 00:23
-- **更新日（UTC）:** 06/16 00:23
-
----
-
-### 61. ヒーローウォーズの仕方教えてーー
-**作成者:** サクラギ
-
-#### コメント (2)
-- **スズアカリ** (06/14 04:24): 草
-- **ｗ** (06/15 04:39): 私もやってみたいです
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/09 02:40
-- **更新日（UTC）:** 06/09 02:40
-
----
-
-### 62. だれか桃鉄くれパス付で
-**作成者:** ママズ
-
-#### コメント (2)
-- **ソラユメ** (06/13 00:33): どこに住んどる 
-- **変な人** (06/21 02:37): ぼく関係なけどパスほしいからゆう奈良県
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/02 04:46
-- **更新日（UTC）:** 06/02 04:46
-
----
-
-### 63. インスタログインできるやつください
-**作成者:** シンザト　ミユ (9202085)
-
-#### コメント (5)
-- **こんにちは** (05/25 06:53): ねえねえ
-- **こんにちは** (05/25 07:09): ねえ
-- **オカモトカズマ** (05/25 07:10): ねえ
-- **えりちゃん推し** (06/09 00:19): ありませーん
-- **ソラユメ** (06/13 00:35): 僕もありません 
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/25 02:56
-- **更新日（UTC）:** 05/25 02:56
-
----
-
-### 64. Robloxありますか？あったらのせてください。
-**作成者:** クサガヤアキト (gs215008)
-
-#### コメント (2)
-- **かっぐー☆** (05/28 08:20): ロブロはダウンロードしないと無理よ
-- **ナツビヨリ** (06/17 01:44): で？
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/23 21:53
-- **更新日（UTC）:** 05/23 21:53
-
----
-
-### 65. Grannyありませんかあったらおねがいします
-**作成者:** ううううんこ💩 (s2100694_2)
-
-#### コメント (14)
-- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (04/30 01:28): aruyo
-- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (04/30 01:28): ファイルだめやん
-- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (04/30 01:28): ごめんむりやわ
-- **ヒバリネ** (04/30 13:57): パドレットアカウントください
-- **ううううんこ💩** (05/01 07:40): 俺のですか
-- **ユキマド** (05/11 04:55): がっこうでユウチューブ見れるサイト送って
-- **スズメノ** (05/11 05:24): エロサイト送ってくれたら送る
-- **マホラ** (05/12 16:11): しあとXなんちゃらはいらんから別のな
-- **マホラ** (05/12 16:11): https://padlet.com/s22y164/padlet-yy2k3c5ijiflpmpw
-- **ソラモヨウ** (05/16 00:12): 中国
-- **ソラモヨウ** (05/16 00:12): 臭いぞ
-- **Anonymous** (05/17 10:29): https://sites.google.com/view/drive-u-7-home-10/home/
-- **Anonymous** (05/17 10:29): これでグラニー探して！
-- **Anonymous** (06/03 07:33): スズメのサン送って
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/28 08:09
-- **更新日（UTC）:** 04/28 08:09
-
----
-
-### 66. これで調べたもの何でもできる
-**作成者:** ううううんこ💩 (s2100694_2)
-
-<p>RobloxとYoutubeは見れない</p>
-
-[添付ファイル 1](https://subscribe-vcsa.mrwheeler.uk/)
-
-#### コメント (7)
-- **匿名** (04/20 04:58): どうやってやるん？
-- **ブロスタ王** (04/23 23:28): こんにちわ
-- **ツユクモ** (04/28 01:10): Proxy自体がブロックされたああ
-- **ううううんこ💩** (04/28 06:55): ブロックされちゃったー
-- **陽太** (05/24 00:03): ブロです
-- **つつみ** (06/09 02:45): 堤 
-- **つつみ** (06/11 06:38): 陽太つつみですよ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/12 05:44
-- **更新日（UTC）:** 04/12 05:44
-
----
-
-### 67. youtubeとゲームサイトは揃った、しかし無料でアニメを見れるサイトがほしい、だれかアニメサイトないっすか？
-**作成者:** 現実見ろや粉カス (gs203427)
-
-#### コメント (15)
-- **Yusho** (03/10 10:50): あるにはありますけど
-- **10式** (03/11 03:13): ください
-- **本庄克章** (03/12 06:40): ロブロックスほしい
-- **しろちゃん** (03/12 08:56): https://padlet.com/29200151/padlet-qljpcqw6hnd7sww9
-- **しろちゃん** (03/12 08:56): https://padlet.com/29200151/padlet-qljpcqw6hnd7sww9
-- **匿名** (03/19 07:37): か、かつあき！？お前、ここまで入ってるのかよ.....完全にルール違反だぞ.....
-- **時透無一郎** (03/28 02:52): https://padlet.com/r0300353/padlet-xe704h90k5x163d7
-- **匿名** (04/01 02:03): 動画見れるプロキシないですかね
-- **機械マニアｍポケモン厨** (04/05 22:06): なあなあ、俺の学タブさぁ、教育委員会が独自のフィルター作っててYouTubeって調べるだけでタブが勝手に閉じるの。これって異常？
-- **フェットチーネしか勝たん** (04/19 12:25): 俺のタブレットもそうなってる
-- **ブロスタ王** (04/23 23:34): たしかに、 
-- **フウカ** (04/29 14:37): 僕もっす
-- **金しか勝たん** (05/07 22:33): 俺も
-- **マユリ** (05/11 05:04): 俺様も
-- **豚眉毛** (06/23 09:03): それ解除方法知りたい？
-
-#### リアクション
-- **絵文字:** 👍 (2) 👎 (1)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/09 00:28
-- **更新日（UTC）:** 03/09 00:28
-
----
-
-### 68. ゲーム系持ってません？最近アイフィルター厳しいんだよね
-**作成者:** 現実見ろや粉カス (gs203427)
-
-#### コメント (10)
-- **おうが** (02/25 00:48): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
-- **時透無一郎** (02/26 05:22): https://padlet.com/r0300353/padlet-xe704h90k5x163d7
-- **時透無一郎** (02/26 05:22): ここ押して↑
-- **Dependable Butterfly** (03/02 13:13): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
-- **しろちゃん** (03/12 08:56): https://padlet.com/29200151/padlet-qljpcqw6hnd7sww9
-- **Admirable Falcon** (03/19 02:33): https://d3tecwpbnz01jy.cloudfront.net/
-- **Admirable Falcon** (03/19 02:33): ゲームサイトだった
-- **Yahoooooooooooooo!!** (04/03 01:32): https://www.narwhalkid.com/games/game/gd/
-- **田納言** (04/23 11:21): よろしくお願いします
-- **田納言** (04/23 11:21): 有限会社
-
-#### リアクション
-- **絵文字:** 👍 (5) 👎 (2) ❤️ (1)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/19 06:16
-- **更新日（UTC）:** 02/19 06:16
-
----
-
-### 69. だれか最強のGoogleくれ（ユウチュウブみたいんだよ）
-**作成者:** 現実見ろや粉カス (gs203427)
-
-#### コメント (11)
-- **Anonymous Toad** (12/23 08:56): https://script.google.com/a/macros/fcs.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
-- **現実見ろや粉カス** (01/20 04:41): みれた！
-- **Anonymous Toad** (01/30 06:38): https://script.google.com/macros/s/AKfycbwejYKH07rPV5pd-VkCkc8wYcGfFdxMkNeUrRq-1zCBHTtDDy_pejSORomN2F8v34ey/exec
-- **Defiant Llama** (02/17 01:23): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
-- **削除済みのユーザー祐誠** (02/22 09:30): ゆうちゅーぶの味方教えて
-- **時透無一郎** (02/24 02:41): スゲー
-- **Dependable Butterfly** (03/02 13:13): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
-- **しろちゃん** (03/12 08:56): https://padlet.com/29200151/padlet-qljpcqw6hnd7sww9
-- **Confident Rhino** (03/13 01:48): まじありがとう
-- **Anonymous** (03/18 00:13): ロブロックスできるサイト教えてください🙇‍♂️
-- **Anonymous** (06/12 11:28): htt ps://nakayosi-tube-pro.onrender.com
-
-#### リアクション
-- **絵文字:** 👍 (9) 👎 (7)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/30 02:17
-- **更新日（UTC）:** 10/30 02:17
-
----
-
-### 70. 誰かゴーストくだせぇ
-**作成者:** バンダナわどるど Xx-tucasanz-xX りおと53番弟子　りおと族27代目 (gs203418)
-
-#### コメント (6)
-- **削除済みユーザー** (09/26 06:11): ok
-- **削除済みユーザー** (09/26 06:12): https://ghostbypassing.global.ssl.fastly.net/
-- **バンダナわどるど Xx-tucasanz-xX りおと53番弟子　りおと族27代目** (10/05 03:07): メンゴ使えん
-- **ぐるぐるまっきー** (10/08 07:32): 荒らしていいよhttps://bbs1.sekkaku.net/bbs/Spherenet/
-- **Bold Kiwi** (10/15 00:25): https://padlet.com/23tyr5164/padlet-hepwj0uyn7334a34
-- **Dependable Butterfly** (03/02 13:13): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
-
-#### リアクション
-- **絵文字:** 👍 (2)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/25 05:27
-- **更新日（UTC）:** 09/25 05:27
-
----
-
-### 71. 投稿 71
-**作成者:** 𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ (Helter_Skelter)
-
-[添付ファイル 1](https://the-gaming-growth-guild.mn.co/landing?space_id=19270039)
-
-#### コメント (4)
-- **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (04/25 07:46): https://maxwellstevenson.com/gxmes/
-- **Fearless Newt** (06/06 06:19): https://yandhi.herokuapp.com/service/hvtrs8%2F-mcneaiooa%2Cngt-
-- **Anonymous** (03/10 05:55): やり方教えてー
-- **削除済みユーザー** (03/11 22:09): https://padlet.com/21061014_1/padlet-82j15b6xifritx65
-
-#### リアクション
-- **絵文字:** 👎 (2)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/17 14:11
-- **更新日（UTC）:** 04/17 14:11
-
----
-
-### 72. Light
-**作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
-
-[添付ファイル 1](https://kuonnanndayone.vta.com.my/)
-
-#### コメント (52)
-- **永井瑠珂** (04/08 07:14): 使えない(´ω`)
-- **永井瑠珂** (04/08 07:14): 最新のプロキシどなたかありませんか？
-- **Zeeet** (04/09 07:48): https://getting-over-it.gitlab.io/
-- **Zeeet** (04/09 08:52): https://stickdefenders.gitlab.io/go/class-439.html#
-- **太古の太鼓~1853 Brainrot** (05/20 11:44): https://data.quiz.hkenca.org/  https://work.excel.albacetediario.com/  https://guide.proof.the-kaisers.net/  https://notes.church.myezlife.com/  https://focus.train.ajatar.org/  https://proof.add.markduckworth.com/  https://sci.brain.musictherapyinscotland.com/  https://prep.clever.cloudworkonline.com/  https://utopia.ideas.amentrix.com/  https://topic.idea.ottosulbmec.com/  https://howto.piano.kiptrak.com/  https://vocab.sage.garagepig.com/  https://class.proof.studiovk.com/  https://recap.coach.coinio.com/  https://sage.skills.hellasinside.com/  https://angle.goal.andrewshomelabs.com/  https://gov.major.novacorp.com/
-- **アイフィルター（大阪府）** (05/20 13:11): 全ブロ
-- **✧イケメン✧    温玉チーズ牛丼** (05/24 03:17): そうゆうこと言うなよ
-- **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (05/24 06:28): 別にええやろむしろサイトがどうか伝え合うことで改善点になるからいいこと
-- **ゲロ** (05/28 22:57): ほぼいけました
-- **あ** (05/30 10:28): 使えない
-- **おじん** (06/03 07:01): できない
-- **きもきもれんじゃーず初代隊長** (06/13 07:12): 一番下いけました😀
-- **はるきっき** (06/13 10:04): 全ブロ
-- **はるきっき** (06/13 10:04): InterCLASS民だからね
-- **かまぼこ** (06/27 03:12): 始めました
-- **かまぼこ** (06/27 03:12): これからよろしくお願いします
-- **特急サンダーバード12号敦賀行き** (06/28 21:48): やかましいわ
-- **Dependable Stork** (07/15 09:30): お前がな
-- **Dependable Stork** (07/15 09:30): 気色悪い
-- **Dependable Stork** (07/15 09:30): 喋んな
-- **ぬい** (07/30 00:28): file:///media/fuse/drivefs-97620b63180062443b8850eb90beffaf/root/Minecraft_Java_edition1.9.4.html
-- **ぬい** (07/30 00:29): https://padlet.com/PCtanosi1147/padlet-s79ui10m19a6jw5k
-- **社員マスカットボンボン（本家？）** (08/06 08:15): Dependable Stork、お前がどんだけ特急サンダーバード12号敦賀行きが嫌いでも人前でそんな暴言みたいなこと言うな。お前のために言ってあげると、マジでブーメランすぎるよ。そうやって誹謗中傷になるようなこと言ってたらどうなるかわかるよね？そんな幼稚な頭でもさすがに言ってることはわかると思う。次からはやめとけよ？
-- **社員マスカットボンボン（本家？）** (08/06 08:27): はぁ？💢ここにもいんの？念のため探したけどさぁ、、　　　　　　　　　言ってることはちょっと同感だけどなりすましする人がいるから規制突破来ないようにしてたのに、、 
-- **削除済みユーザー** (08/13 13:44): ｗｗ
-- **特急サンダーバード12号敦賀行き** (08/19 03:52): ｗ
-- **特急サンダーバード12号敦賀行き** (08/19 03:52): おい社員マスカットのなりすましー
-- **特急サンダーバード12号敦賀行き** (08/19 03:52): おまえいいかげんにせーよ
-- **削除済みユーザー** (08/21 15:18): ガチでいい加減にしろー
-- **削除済みユーザー** (08/19 13:03): いいことも言ってるけど友達（釈迦ポテ）を傷つけるような発言したことはマジで許さんからな
-- **Dependable Meerkat** (12/07 06:37): 誰かゲームできるサイト知らん？
-- **Dependable Meerkat** (12/07 06:37): できるのあったら教えて
-- **Raid Hawk** (01/05 04:45): あるよ
-- **シマダアユミ** (01/09 13:25): https://4.itfiredup.com/
-- **ぷぷぷ博士** (01/23 10:44): mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-- **Sakiharu** (02/12 01:45): 誰かまじで最強のゲームちょうだい
-- **Humble Puma** (02/16 03:01): マイクラを乗っけて
-- **ポップコーン バター味** (02/16 03:04): 初めて書きます皆さんよろしくお願いします。ついでにぬいのファンです。勝手ながら....
-- **Courageous Anchovy** (02/17 06:04): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
-- **むりた** (02/18 03:00): 学タブでブロスタやりて〜
-- **Anonymous** (02/20 00:53): https://multipleurlopen.com/
-- **削除済みユーザー** (02/28 06:06): みてみhttps://padlet.com/21061014_1/padlet-jj0swpeoyvn7eoct
-- **削除済みユーザー** (03/03 02:12): https://padlet.com/21061014_1/padlet-82j15b6xifritx65
-- **Awesome Puffin** (03/04 00:40): ラインみたいなトークできるつくれますかね
-- **Awesome Puffin** (03/04 00:48): 急にすいません
-- **アタオカフィーバー** (03/05 03:11): スプラトゥーンできるサイト知りませんか
-- **しろちゃん** (03/12 08:56): https://padlet.com/29200151/padlet-qljpcqw6hnd7sww9
-- **おお** (03/24 03:09): だれかラインみたいなことができるチャットサイト知りませんか？
-- **マンコ** (05/08 07:47): エロくれ
-- **フナタビ** (05/11 05:12): 　エロとかいらんよ
-- **あさひ** (05/15 23:21): ロブロできるサイトある?
-- **1906. 079** (06/08 02:05): ブロスタできるサイトおしえて！
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/08 03:02
-- **更新日（UTC）:** 04/08 03:02
+- **作成日（UTC）:** 07/09 01:39
+- **更新日（UTC）:** 07/09 01:39
 
 ---
 
 ## YouTube
 
-### 1. 投稿 1
+### 1. 誰か公式youtube見れる方法教えて下さい
+**作成者:** 匿名希望 (r0245178)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/10 03:20
+- **更新日（UTC）:** 07/10 03:20
+
+---
+
+### 2. 学タブでできる、ゲーム教えてください
+**作成者:** ははははははは (2101038_5)
+
+#### コメント (3)
+- **ははははははは** (07/09 01:52): 誰かいますか
+- **こまつあらた** (07/09 01:53): できるよ
+- **小さい馬** (07/09 22:21): 学校でできるゲームサイト教えてーーーーー
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 01:51
+- **更新日（UTC）:** 07/09 01:51
+
+---
+
+### 3. サービス
+**作成者:** ミドリノ
+
+#### コメント (1)
+- **ははははははは** (07/09 01:52): なんの
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 00:31
+- **更新日（UTC）:** 07/09 00:31
+
+---
+
+### 4. Utopia以外でなにかユーチューブ見れるサイトあったら教えてくれ！
+**作成者:** mbappe (messiko)
+
+<p>youtubeみたいー</p>
+
+#### コメント (1)
+- **mbappe** (07/07 22:35): 誰かあったらURLカイてくれ
+
+#### リアクション
+- **絵文字:** ❤️ (1)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/07 22:35
+- **更新日（UTC）:** 07/07 22:35
+
+---
+
+### 5. 投稿 5
+**作成者:** みみみ
+
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5925067946/cc91b458689f7b156bdbdc5340b180ec/Screen_recording_2026_07_07_20_47_19.webm?Expires=1784327746&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FT1%2FW0ew6Csg6o9So2XOx6Z7swq6S9F6UmcCZx4slbWqRJKa%2BObjEipp2jPgcnd3yp0EHRuIuf3PNyO04NaMmBpXSAj66%2B%2BCV45nq%2FMXY4ONgZclyr%2BE7X0Ax2KG7LiA4aAllgnW%2BKZ8DM1PectQ3UaN1oaOLV7iHz7HimyrAXIplMoWNuyqsVbRBBd33ITEsbskTQAlKkXW7w8A3lKuL%2Bb8kyGdCyQvsDS9EBTbrrImAq%2F4vZZJGf9AU920ouBW9p5Bj0igLkCh%2FSkBDCogLDyg9t1gccKJUC%2FG943v5%2Fvcvy7K5YnARXnCd7ZpTkSVsF%2Fp37KdgTZD2QYeI7gP7w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5925067946%2Fcc91b458689f7b156bdbdc5340b180ec%2FScreen_recording_2026_07_07_20_47_19.webm)
+
+#### コメント (1)
+- **みみみ** (07/07 11:48): これ見ればわかるよ〜
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/07 11:48
+- **更新日（UTC）:** 07/07 11:48
+
+---
+
+### 6. 投稿 6
+**作成者:** エロ動画みたい
+
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5925003223/c97c8a713b924c3f112b3d33eb75fe1f/Screenshot_2026_07_07_20_37_30.png?Expires=1784327746&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VTXz0P9%2B%2FxOtrFAfSQutif0pkvccIqz4HLFS3r6MimreKcRR618j0NSJeFCgL490PKnkPlLdqEXoSDn9mqTN0NLsoyvVeEo%2BLYtR72MprH8ockEiho%2BnNQfFXDreOmN%2F4MsWJVwrq27eeD8SJTKW7kgdvohfmEBRlyiAXfV%2BGw0NzActu6YGzwg%2BPHuYJB7AIgOOCLooYRzbviyye%2FF3HBI49xFqB5J%2B0xFlD25iJc8PwL9d6%2FPNkNhQm8HSYfdDzlh1KSS77llzXFo%2FXEla68bEUDi1nk5K7rH3ZmumCVAkDuDinc0wfAieuxyXDWKOVrCgYunp9BeHezzTjgq5Dg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5925003223%2Fc97c8a713b924c3f112b3d33eb75fe1f%2FScreenshot_2026_07_07_20_37_30.png)
+
+#### コメント (3)
+- **みみみ** (07/07 11:46): ピカチュウ
+- **みみみ** (07/07 11:46): 学校のｐｃで
+- **みみみ** (07/07 11:46): ユウチューブのみかたおしえます
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/07 11:45
+- **更新日（UTC）:** 07/07 11:45
+
+---
+
+### 7. キノコ伝説とかYouTubeとか学校で見たいけれど、誰か方法教えて〜〜
+**作成者:** ピグマリオン
+
+#### コメント (4)
+- **ピグマリオン** (07/07 00:04): これを見てる人〜お願いします〜〜
+- **ははははははは** (07/07 07:36): プロキシ教えて
+- **ピグマリオン** (07/08 16:02): ＠はには　プロキシってどういぇって見るの？そもそもプロキシがなにか教えてくれたら嬉しいです‼️
+- **ピグマリオン** (07/08 16:02): どうやって
+
+#### リアクション
+- **絵文字:** 😫 (1)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/07 00:01
+- **更新日（UTC）:** 07/07 00:01
+
+---
+
+### 8. 投稿 8
+**作成者:** サイ (gs180365)
+
+[添付ファイル 1](https://www.mediamister.com/free-youtube-video-downloader)
+
+#### コメント (1)
+- **ううううんこ💩** (07/07 11:05): ◯みサイトじゃん
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/06 08:42
+- **更新日（UTC）:** 07/06 08:42
+
+---
+
+### 9. ユーチューブみたいんだけどutopia以外でなにかないですか？（学校のタブレット）
+**作成者:** ヒカキン
+
+<p>みたいよぉぉぉ</p>
+
+#### コメント (1)
+- **れいり** (07/06 08:11): ユートピアくれよ
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/06 05:10
+- **更新日（UTC）:** 07/06 05:10
+
+---
+
+### 10. 投稿 10
+**作成者:** タンポポコ
+
+[添付ファイル 1](https://www.youtube.com/watch?pdlt=1&v=YJOIMMpSX78)
+
+#### コメント (1)
+- **ツキウミ** (07/05 23:14): 😂
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/03 05:34
+- **更新日（UTC）:** 07/03 05:34
+
+---
+
+### 11. YouTubeちょうだい
+**作成者:** カゼノコエ
+
+#### コメント (2)
+- **パブロ・ディエゴ・ホセ・フランシスコ・デ・パウラ・フアン・ネポムセーノ・マリア・デ・ロス・レメディオス・クリスピーン・クリスピアーノ・デ・ラ・サンティシマ・トリニダード** (07/03 01:25): で？はい論破。顔真っ赤ww
+- **アサビト** (07/03 02:58): それは何？
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/03 00:53
+- **更新日（UTC）:** 07/03 00:53
+
+---
+
+### 12. きくち
+**作成者:** きくち
+
+<p>種類の豊富のゲームのやり方を教えてください</p>
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/03 00:38
+- **更新日（UTC）:** 07/03 00:38
+
+---
+
+### 13. チョコチューブのパスワード教えて下さい
+**作成者:** スイカヅラ
+
+#### コメント (2)
+- **れいり** (07/06 10:28): Choco
+- **スイカヅラ** (07/07 04:26): チョコチューブのリンクもください
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/03 00:04
+- **更新日（UTC）:** 07/03 00:04
+
+---
+
+### 14. 学校のタブレットでユーチューブ見れる方法教えてください。　しあちゅーぶはいらないです
+**作成者:** i・g
+
+#### コメント (3)
+- **Anonymous** (07/02 23:07): ちんぽ  
+- **スイカヅラ** (07/02 23:55): きもやめたれ
+- **ユキヤナギ** (07/08 10:47): それな
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/02 04:53
+- **更新日（UTC）:** 07/02 04:53
+
+---
+
+### 15. 投稿 15
 **作成者:** ふふ
 
 <p>ユーチューブサイコー</p>
@@ -11677,8 +8561,26 @@
 
 ---
 
-### 2. ユーチューブとゲームのリンクをください
+### 16. ユーチューブとゲームのリンクをください
 **作成者:** 伊藤です
+
+#### コメント (16)
+- **伊藤です** (06/30 01:42): ください
+- **伊藤です** (06/30 01:42): ください
+- **規制** (06/30 01:53): https://periodic-table.techmax.hk/　どうぞ
+- **せな** (07/06 12:12): sensjkjfkj
+- **バスケ大好きにき** (07/08 01:15): こんにちは～
+- **パブロ・ディエゴ・ホセ・フランシスコ・デ・パウラ・フアン・ネポムセーノ・クリスピン・クリスピニアーノ・マリア・レメディオス・デ・ラ・サンティシマ・トリニダード・ルイス・ピカソ** (07/08 01:25): 田鎖尚どの学校か知らないけど本名キッズきた〜
+- **伊藤です** (07/08 23:51): お前小学生相手にしかいきれないんだからやめな
+- **バスケ大好きにき** (07/09 00:09): 名前の変え方わかるなら教えてほしいです！
+- **ハゲ愛好家** (07/09 00:14): うわー
+- **ハゲ愛好家** (07/09 00:14): ううおお
+- **ハゲ愛好家** (07/09 00:15): 本名ちがうかもくね
+- **ハゲ愛好家** (07/09 00:15): ｗｗｗ
+- **ハゲ愛好家** (07/09 00:15): あああーーーー
+- **ハゲ愛好家** (07/09 00:16): 」。ｓｗ；ｋんｄｆｋｆｖｊんｌｃｊんｂｆｊｌんｄｆｂｊ
+- **バスケ大好きにき** (07/09 00:41): こんにちは～名前変えれました！
+- **伊藤です** (07/10 01:17): あっき〜〜〜冷笑えって
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -11687,13 +8589,15 @@
 
 ---
 
-### 3. ブロスタトークはってくれ
+### 17. ブロスタトークはってくれ
 **作成者:** トバリ
 
-#### コメント (3)
+#### コメント (5)
 - **やーば** (06/28 01:17): ノリ最強説
 - **ヤドリギ** (06/28 01:57): いいね
 - **イノシシ** (06/28 03:29): いいね
+- **Mr Mashroom** (07/07 10:21): クロウ修正されてるくせに強い
+- **伊藤です** (07/09 00:12): あ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -11702,8 +8606,14 @@
 
 ---
 
-### 4. ワールドカップ見れるよ｛NHK}
+### 18. ワールドカップ見れるよ｛NHK}
 **作成者:** イノシシ
+
+#### コメント (1)
+- **mbappe** (07/07 22:37): それな
+
+#### リアクション
+- **絵文字:** 😆 (1)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -11712,7 +8622,7 @@
 
 ---
 
-### 5. いん
+### 19. いん
 **作成者:** イノシシ
 
 #### その他の情報
@@ -11722,7 +8632,7 @@
 
 ---
 
-### 6. NHKを開いて右上のNHKONKと書いてある場所を押す。
+### 20. NHKを開いて右上のNHKONKと書いてある場所を押す。
 **作成者:** 王様
 
 [https://www.web.nhk/](https://www.web.nhk/)
@@ -11734,7 +8644,7 @@
 
 ---
 
-### 7. 投稿 7
+### 21. 投稿 21
 **作成者:** DEKEE
 
 <p>誰か学校のパソコンでワールドカップ見る方法教えて、なるはやでお願い</p>
@@ -11754,7 +8664,7 @@
 
 ---
 
-### 8. ゆうつべくれえ
+### 22. ゆうつべくれえ
 **作成者:** こんにちは
 
 #### その他の情報
@@ -11764,7 +8674,7 @@
 
 ---
 
-### 9. 入ってとっても楽しいよ
+### 23. 入ってとっても楽しいよ
 **作成者:** れいり
 
 [添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
@@ -11779,15 +8689,21 @@
 
 ---
 
-### 10. ゲームとユーチューブのやりかた教えてくださいお願いします協力お願いします協力
+### 24. ゲームとユーチューブのやりかた教えてくださいお願いします協力お願いします協力
 **作成者:** 伊藤豪
 
-#### コメント (5)
+#### コメント (11)
 - **匿名アバター** (06/24 04:44): EgdeでYouTube開いてみたい動画押してその動画のリンク部分にあるwatchをembed;って打ち込むと見れる
 - **伊藤です** (06/25 01:44): ありがとうございます
 - **ヤマミチ** (06/25 02:45): https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720
 - **伊藤です** (06/26 01:52): ありがとうございます　まだまだお願いします協力お願いします
 - **伊藤です** (06/29 03:08): まだまだください
+- **あああああああああああああああ** (07/02 07:19): これ神だよ
+- **あああああああああああああああ** (07/02 07:19): https://sites.google.com/view/dominumnetworkv2/entertainment/gm3s
+- **あああああああああああああああ** (07/02 07:20): ゲームできるし映画みれるで
+- **あああああああああああああああ** (07/02 07:22): あと
+- **あああああああああああああああ** (07/02 07:22): https://nuubi.ueuo.com/
+- **あああああああああああああああ** (07/02 07:23): これはマイクラのバージョン選択してあそべるやつ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -11796,7 +8712,7 @@
 
 ---
 
-### 11. 誰か
+### 25. 誰か
 **作成者:** こんにちは
 
 #### コメント (2)
@@ -11810,7 +8726,7 @@
 
 ---
 
-### 12. 投稿 12
+### 26. 投稿 26
 **作成者:** でけえ
 
 <p>誰か学校のパソコンでユーチューブ見れるサイト教えてください、、</p><p><br/></p>
@@ -11827,7 +8743,7 @@
 
 ---
 
-### 13. https://archive.org/details/8_20250822/1.mp4
+### 27. https://archive.org/details/8_20250822/1.mp4
 **作成者:** イチリン
 
 [添付ファイル 1](https://archive.org/details/8_20250822/1.mp4)
@@ -11839,7 +8755,7 @@
 
 ---
 
-### 14. 投稿 14
+### 28. 投稿 28
 **作成者:** イチリン
 
 [添付ファイル 1](https://www.youtube.com/watch?v=VtdIHmGIhxA)
@@ -11855,10 +8771,10 @@
 
 ---
 
-### 15. 投稿 15
+### 29. 投稿 29
 **作成者:** イチリン
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5841087463/fae0f9ed5183a927e74cdba2706ad34b/__________2026_05_28_103050.png?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LVB8gtmcIVvv%2BLoCwJPBJAMQVTE1SuALHQTMJuT5W3E98GofmsvlD5Ahp1BowZBrrklQI40eoXc0DucPKTNHAujw8Mxdn1j8ULgZac5NWajbEXLNbNthnIHa%2BwQ%2BqbXpbJzGj25%2FPwgmMDCdp%2BcCF4AazZxLnK92HqkKOV6fVTbOpKVANMUCMHXu3SudUz9IEhnCVqbQeoM2ddQBIlcAvaB852HDPgexnkQq%2FTZ8UiryhQMXjOFfWMA7oh2cogfKCMyGEZUxFCpIPwy%2Botfkm5UDFDrzPPbb2VLJcpU3VWHBS5XKNMwE%2BKgHblN5msVd6TxX6kgYpaXHd7geEcTtbg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5841087463%2Ffae0f9ed5183a927e74cdba2706ad34b%2F__________2026_05_28_103050.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5841087463/fae0f9ed5183a927e74cdba2706ad34b/__________2026_05_28_103050.png?Expires=1784327747&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pcG6rtq1WSh0vdNIsm%2F6pbHquNUB%2FZNM%2FtRI8OvkAdAvv%2FOY684Rm0mH89oOmSv7dIvr8MRQKtPMycXgpZ3bhB49kbWFjeb6jaY1lytYWs8e%2BOyYvvzG1EmA%2Bkxrjb%2B9GrVzva6ka9F0v0O2%2BFcCY1jv0s9TDCQhVEzQej6HGXfyltyFJRnSDV5doqxTuc%2B6yL%2Bjx4xW1m8i8Hcs7dgIIRSQWu8qZHNR70VfktQLnvfomY3JVgMj458BCgTB1L88nV4ewbbIE8wH2icym29JMYU3fArsVkpUS4EL0HO0fHa9QCJRTK7pb4gErEeJFbThc%2F0xJXuZOD1lDWNTty5Y1w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5841087463%2Ffae0f9ed5183a927e74cdba2706ad34b%2F__________2026_05_28_103050.png)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -11867,12 +8783,12 @@
 
 ---
 
-### 16. 動画ダウンローダーください
+### 30. 動画ダウンローダーください
 **作成者:** レッドキング
 
 #### コメント (6)
 - **怜** (06/18 08:59): https://postsyncer.com/tools/youtube-video-downloaderこれ！
-- **カラフルピーチどぬく推し** (06/19 04:33): ブロ
+- **どぬく🍑** (06/19 04:33): ブロ
 - **レッドキング** (06/19 04:53): 俺も
 - **火の粉** (06/19 05:01): いいねー
 - **怜** (06/19 09:34): i-フィルター行けたからいけるとおもたわごめん
@@ -11885,7 +8801,7 @@
 
 ---
 
-### 17. ウルトラうんい
+### 31. ウルトラうんい
 **作成者:** カワセ
 
 <p>あいい</p><p><br/></p>
@@ -11897,7 +8813,7 @@
 
 ---
 
-### 18. ウルトラうんち
+### 32. ウルトラうんち
 **作成者:** カワセ
 
 #### その他の情報
@@ -11907,7 +8823,7 @@
 
 ---
 
-### 19. うんち
+### 33. うんち
 **作成者:** カワセ
 
 #### コメント (1)
@@ -11920,12 +8836,12 @@
 
 ---
 
-### 20. 投稿 20
+### 34. 投稿 34
 **作成者:** scratch (8321909_1)
 
 <p>これをgoogleでcolabと調べて出てくるコーディングサイトに貼り付けるとyoutubeをダウンロードできる</p>
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5824252096/ea2bbed6e99e6648dd0ad24a72944944/youtube_______.py?Expires=1783313866&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UeIK8pKxVQH7FT64FDqXnaUW6vv%2BL8Er3hv8%2FtJqqQSuBCH538lt%2FJwy%2FKfht3g6Y%2F02acC8VBfM7rtiHlbzm8LHHBDaDhuWhMn5i5pq49CcPd8HTzBItiGHwSt6ZEPPPjhTjCN4qA3pUsla5I4nPkPBZvrquxWW2K79MnUOG8%2BSNPQJ0YdkssluGJnBUkHaY%2Fq4flOQcOGlKRT19DLj3EqIycZrj38skEz4Vm1JT9m9mkx0goRpeiWOPHBcArT0LMGgCpyGIkdcMC4OVc5DCGQaQnHdp0MWkNXpgi4h1JErZfty7CdFJxbIUXkPM1hO3HThk6CY%2FE%2Fa7Azm8JOByw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5824252096%2Fea2bbed6e99e6648dd0ad24a72944944%2Fyoutube_______.py)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5824252096/ea2bbed6e99e6648dd0ad24a72944944/youtube_______.py?Expires=1784327747&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Kd8tjDeSe7iWrDEwwWdRpLnKeWnnDfSKFG4osTRWrfrnLHkqEyV2Yc6Dmx4YdVKutSpfXzVtskkPo2%2B2oIVzghhG60X9NgCKWQWCLfc6jt7A5WXfK5H8X26XEmZuDD99aatLDVR1Xse0cYGVxBpfLLZ8jQazpdrySX8jrmoxMoc4Mz8%2FoOJH5YOXvMdqruZXr8d9%2FAIE5h8lBi3LO3J0YG2OG6Sd0HDdWl7Z6GuMf9%2B%2Frq9J95cbhVYZGOJJD35sj1AILrbZGLGPKMF4%2FVaRzsoDqz%2FZkQ3hiN4saTmyct6mpf2JWWXnitC8J7A4smsEtwG%2FLM%2BZtTgZnGwR2c02lw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5824252096%2Fea2bbed6e99e6648dd0ad24a72944944%2Fyoutube_______.py)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -11934,7 +8850,7 @@
 
 ---
 
-### 21. 投稿 21
+### 35. 投稿 35
 **作成者:** でけえ
 
 <p>ネオチューバーって知ってる？</p>
@@ -11952,7 +8868,7 @@
 
 ---
 
-### 22. アイフィルター勢でダウンローダー欲しい人コメントして
+### 36. アイフィルター勢でダウンローダー欲しい人コメントして
 **作成者:** 名乗るほどの者ではない
 
 #### コメント (9)
@@ -11973,7 +8889,7 @@
 
 ---
 
-### 23. 投稿 23
+### 37. 投稿 37
 **作成者:** ピク人
 
 <p>YouTubeのブロックされてないサイト欲しい。</p>
@@ -11999,7 +8915,7 @@
 
 ---
 
-### 24. カバオ君
+### 38. カバオ君
 **作成者:** ソラユメ
 
 <p><br/></p><p>エラー出る(学校のタブレット)</p>
@@ -12018,7 +8934,7 @@
 
 ---
 
-### 25. しあみれないのだが
+### 39. しあみれないのだが
 **作成者:** ユウカゼ
 
 <p>対処法教えてくれ</p><p>お願いいたします</p><p>みたいんです</p><p>youtubeが</p><p><br/></p>
@@ -12039,7 +8955,7 @@
 - **GP** (06/15 08:54): chokoいけました
 
 #### リアクション
-- **絵文字:** ❤️ (1)
+- **絵文字:** ❤️ (1) 😆 (1)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -12048,10 +8964,10 @@
 
 ---
 
-### 26. 規制を解除の仕方を教えてほしいです
+### 40. 規制を解除の仕方を教えてほしいです
 **作成者:** thmy
 
-#### コメント (7)
+#### コメント (8)
 - **thmy** (06/07 12:29): youtubeが見たいです
 - **mbappe** (06/08 21:59): 僕もです
 - **"Let's go, bro!"** (06/09 08:21):  Utopia
@@ -12059,6 +8975,7 @@
 - **mbappe** (06/09 11:32): let's go bro
 - **mbappe** (06/09 11:34): わかった
 - **mbappe** (06/09 11:34): なんでもない
+- **ヒカキン** (07/06 05:08): ありがとう
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -12067,7 +8984,7 @@
 
 ---
 
-### 27. 面白い学校のタブレットでできるゲームありませんか、なんでもいいです。
+### 41. 面白い学校のタブレットでできるゲームありませんか、なんでもいいです。
 **作成者:** mbappe (messiko)
 
 #### コメント (1)
@@ -12083,7 +9000,7 @@
 
 ---
 
-### 28. まじで学校のタブレットでユーチューブ見る方法ありませんか
+### 42. まじで学校のタブレットでユーチューブ見る方法ありませんか
 **作成者:** mbappe (messiko)
 
 <p>がちでユーチューブみたいんです。知っている人おしえてくれたら幸いです</p>
@@ -12101,7 +9018,7 @@
 
 ---
 
-### 29. どうやってゆーちゅーぶ見るの
+### 43. どうやってゆーちゅーぶ見るの
 **作成者:** mbappe (messiko)
 
 #### コメント (11)
@@ -12127,7 +9044,7 @@
 
 ---
 
-### 30. 投稿 30
+### 44. 投稿 44
 **作成者:** 平
 
 <p>顔見せるのでわかめcuab教えてー</p>
@@ -12142,7 +9059,7 @@
 
 ---
 
-### 31. 投稿 31
+### 45. 投稿 45
 **作成者:** 匿名
 
 <p>しあtube検索しても出てこんのだが</p>
@@ -12164,7 +9081,7 @@
 
 ---
 
-### 32. 無料、フルで音楽聞けるあぷりください
+### 46. 無料、フルで音楽聞けるあぷりください
 **作成者:** ででで
 
 #### コメント (3)
@@ -12179,16 +9096,19 @@
 
 ---
 
-### 33. ようつべ
+### 47. ようつべ
 **作成者:** わほー
 
 <p>学校のパソコンでyoutuba見るどうやってやる？</p>
 
-#### コメント (4)
+#### コメント (7)
 - **わほー** (05/31 08:35): おしえてーー
 - **Anonymous** (06/03 07:25): https://script.google.com/a/macros/tokorozawa-gs.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/execこれ無理？
 - **Anonymous** (06/07 05:08): せんさくしても出てこない 
 - **ミチル『偏差値70の猛者』** (06/22 10:02): それな
+- **あああああああああああああああ** (07/02 07:18): これいけるでhttps://sites.google.com/view/
+- **あああああああああああああああ** (07/02 07:18): みすった
+- **あああああああああああああああ** (07/02 07:19): https://sites.google.com/view/dominumnetworkv2/entertainment/gm3s
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -12197,7 +9117,7 @@
 
 ---
 
-### 34. 学校のパーポイントでユーチューブをみれるかしいんだけどやり方教えて
+### 48. 学校のパーポイントでユーチューブをみれるかしいんだけどやり方教えて
 **作成者:** こんにちは
 
 <p>教えてくれた人はありがたい</p>
@@ -12216,7 +9136,7 @@
 
 ---
 
-### 35. お
+### 49. お
 **作成者:** ミネユキ
 
 <p>意味わかんないです</p><p><br/></p>
@@ -12233,7 +9153,7 @@
 
 ---
 
-### 36. だれかプロスピもってないですか
+### 50. だれかプロスピもってないですか
 **作成者:** こんにちは
 
 <p>あったら送って</p>
@@ -12249,7 +9169,7 @@
 
 ---
 
-### 37. めっちゃ性能いいです
+### 51. めっちゃ性能いいです
 **作成者:** 時透無一郎 (r0300353)
 
 [添付ファイル 1](http://nimonotube.sitaci.com/)
@@ -12271,10 +9191,10 @@
 
 ---
 
-### 38. アイフィルター名古屋でみたい
+### 52. アイフィルター名古屋でみたい
 **作成者:** 名古屋ニキ
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5681408373/08e3857707a4a67bcdaa297bdbba92a6/photo.jpeg?Expires=1783313867&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=8LePkxr%2B1bPqfD82Lw81PUF5ACsd3JLQNpwhaOjLXGk2sfICvK9gcCC7bSP%2BJ7YQuPAiDOmYEvEQToz1o8DAfB6dDjyGFHesbXm4erNUmmS5TKnNaWl1ptLZLzyTGGefPKzG5%2FHsiUUuV11r7e3IEeOxAicTQELunDGFT98I7ZyrQoJrQgKHKZAdb%2FuIm%2FCgKYK4fQoX3PPNtqW5Wlm5sqhk30UsLu%2BHljsQa%2FonS3O4NzjniWnR1bdqv5z%2FFo13l8Kmo9pYUR3gdYnhwbksyA4bIW1%2FE8OZfZt1agwndmXHcFxYoDqaPS0C8c8JRJdZ8mlewiyV5sK%2B9CFskEcv%2BA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5681408373%2F08e3857707a4a67bcdaa297bdbba92a6%2Fphoto.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5681408373/08e3857707a4a67bcdaa297bdbba92a6/photo.jpeg?Expires=1784327747&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QAVvmdlUe3VPT%2FCi9IWVoG%2FQ3wdPeuCI5gD1kY0j%2BYe3pp2Xn%2Bw0R4xHoXa1VYNLlRQGGoG%2FlVic3UIXJG7PY6HtrxL3n8QO4LE3G92%2FwsN%2F30uJrYdrfUNaUtTECNu0Cj%2BWvh1pB6Gw4SBoRRj7wbQwxtLei4MvTWZWiTM1xRRx4ZxZDpehV01V7okocRkEeDPvXXis6iSiUsq8ZhfsCaP78B%2FoHSfgO%2FS8CcrB8hOGSx4OV%2F0hWhs4y9HwWWdBOFXHwjOKJIPfsK5pEmyocl9ZYr98Cyzs4TmEf%2F5GfL7IaVtJszasmD1%2B9ohFSYWUU0kQXr%2Bba6rnxNZNec4Ktw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5681408373%2F08e3857707a4a67bcdaa297bdbba92a6%2Fphoto.jpeg)
 
 #### コメント (3)
 - **いく** (05/20 15:28): 返信俺以外いない
@@ -12288,18 +9208,18 @@
 
 ---
 
-### 39. 投稿 39
+### 53. 投稿 53
 **作成者:** ううううんこ💩 (s2100694_2)
 
 [添付ファイル 1](https://ryanjetplane1.codeberg.page/Openbeta/@subway-surfers/)
 
 #### コメント (25)
 - **じゅんちゃん** (03/30 07:16): こんにちはどうもよろしく
-- **たけのこ王** (04/03 09:52): https://padlet.com/proxygameyoutube/youtube-93t08ersmcl137rg
-- **たけのこ王** (04/03 09:52): https://padlet.com/proxygameyoutube/youtube-93t08ersmcl137rg
-- **たけのこ王** (04/03 09:53): https://padlet.com/s22y164/padlet-yy2k3c5ijiflpmpw
-- **たけのこ王** (04/03 09:53): https://padlet.com/h2323008/padlet-exnigkezmqaxsn5p
-- **たけのこ王** (04/03 09:53): https://script.google.com/a/macros/g.ueis.ed.jp/s/AKfycbyVOeYUnOBrmsBzXxzUgrg20g-w18eBFm-mHWsrWU0fIgAinwkY5SZ1iP6O3pZeK1Li/exec
+- **承太郎** (04/03 09:52): https://padlet.com/proxygameyoutube/youtube-93t08ersmcl137rg
+- **承太郎** (04/03 09:52): https://padlet.com/proxygameyoutube/youtube-93t08ersmcl137rg
+- **承太郎** (04/03 09:53): https://padlet.com/s22y164/padlet-yy2k3c5ijiflpmpw
+- **承太郎** (04/03 09:53): https://padlet.com/h2323008/padlet-exnigkezmqaxsn5p
+- **承太郎** (04/03 09:53): https://script.google.com/a/macros/g.ueis.ed.jp/s/AKfycbyVOeYUnOBrmsBzXxzUgrg20g-w18eBFm-mHWsrWU0fIgAinwkY5SZ1iP6O3pZeK1Li/exec
 - **ブロスタ王** (04/23 08:39): いいねーーーーー 
 - **死ね死ね** (05/01 12:20): えろサイトくれ
 - **４ね４ね** (05/01 12:31): えろ漫画読めるさいとほしい
@@ -12327,7 +9247,7 @@
 
 ---
 
-### 40. 誰かyoutubeダウンローダー持ってないですか
+### 54. 誰かyoutubeダウンローダー持ってないですか
 **作成者:** ガンギマリコ (h0319006_1)
 
 <p>I-filterでどんどん規制かかっていっててないんですよ</p>
@@ -12344,9 +9264,9 @@
 - **Nervous Hare** (02/03 09:22): https://discover.apps.chrome/apps?hl=ja
 - **金海** (02/06 07:33): youtubeのダウンロードを送ってほしいです
 - **ぽたむ** (02/08 01:40): Xほしいです
-- **23万人のツンデレ** (02/09 10:46): 俺に任せろhttps://publer.com/es/tools/instagram-reel-downloader
-- **23万人のツンデレ** (02/09 10:48): URL貼って使って。TikTokもYoutubeも行ける
-- **23万人のツンデレ** (02/09 10:49): 使えたら返事よろしく
+- **ツンデレは貧乳に限る** (02/09 10:46): 俺に任せろhttps://publer.com/es/tools/instagram-reel-downloader
+- **ツンデレは貧乳に限る** (02/09 10:48): URL貼って使って。TikTokもYoutubeも行ける
+- **ツンデレは貧乳に限る** (02/09 10:49): 使えたら返事よろしく
 - **おっさん** (02/16 00:07): ラグいな
 - **仙人** (02/16 23:53): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm入って！！
 - **Defiant Llama** (02/17 01:23): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
@@ -12370,7 +9290,7 @@
 
 ---
 
-### 41. お礼
+### 55. お礼
 **作成者:** 現実見ろや粉カス (gs203427)
 
 [添付ファイル 1](https://getting-over-it.gitlab.io/)
@@ -12394,7 +9314,7 @@
 
 ---
 
-### 42. ありがとう
+### 56. ありがとう
 **作成者:** 現実見ろや粉カス (gs203427)
 
 #### コメント (8)
@@ -12417,7 +9337,7 @@
 
 ---
 
-### 43. ほい
+### 57. ほい
 **作成者:** 削除済みユーザー
 
 [添付ファイル 1](https://ren.ren.tube.dayo.rren.ch/)
@@ -12442,7 +9362,7 @@
 
 ---
 
-### 44. ユウチュウブ見れるサイトほしいー
+### 58. ユウチュウブ見れるサイトほしいー
 **作成者:** 現実見ろや粉カス (gs203427)
 
 #### コメント (6)
@@ -12463,7 +9383,7 @@
 
 ---
 
-### 45. しあだけどいいかな？
+### 59. しあだけどいいかな？
 **作成者:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
 [添付ファイル 1](https://script.google.com/a/macros/kawasaki-edu.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec)
@@ -12496,7 +9416,7 @@
 
 ---
 
-### 46. 最強のユウチュウブください
+### 60. 最強のユウチュウブください
 **作成者:** やまｄア (r0200325)
 
 #### コメント (28)
@@ -12539,7 +9459,7 @@
 
 ---
 
-### 47. 投稿 47
+### 61. 投稿 61
 **作成者:** 𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ (Helter_Skelter)
 
 [添付ファイル 1](https://www.submagic.co/tools)
@@ -12561,7 +9481,7 @@
 
 ---
 
-### 48. 投稿 48
+### 62. 投稿 62
 **作成者:** 海軍 情報科 上等兵 (azsre_0516)
 
 [添付ファイル 1](https://www.acethinker.com/online-downloader-5)
@@ -12588,7 +9508,7 @@
 
 ---
 
-### 49. yuki
+### 63. yuki
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 [添付ファイル 1](https://yuki-youtube-slim-5xdn.onrender.com/)
@@ -12613,12 +9533,12 @@
 
 ---
 
-### 50. yuki
+### 64. yuki
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 [添付ファイル 1](https://yuki-youtube-slim-am27.onrender.com/)
 
-#### コメント (22)
+#### コメント (23)
 - **Reliable Tiger** (12/25 04:08): https://script.google.com/macros/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
 - **Anonymous** (01/15 04:44): https://script.google.com/a/macros/kawasaki-edu.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec https://we.internet-slackers.us https://ubg77.gitlab.io/category/arcade.html https://ubg6969.gitlab.io https://sfu.mirotalk.com/join/b1172630-c4ca-4535-bb2a-3b3f28b2d80c 
 - **あ** (01/15 04:57): あああ
@@ -12641,6 +9561,7 @@
 - **るい** (06/15 06:21): むり
 - **スズメグサ** (06/24 12:25): お前の考えがえRだからそれで我慢しろ
 - **伊藤です** (06/29 02:08): やば
+- **ルカと** (07/07 04:15): あわ
 
 #### リアクション
 - **絵文字:** 👍 (3) 👎 (1)
@@ -12654,32 +9575,783 @@
 
 ## 宣伝
 
-### 1. 世界最大級の雑談部屋
-**作成者:** レム (remutyan)
+### 1. たくさんあるよ
+**作成者:** 匿名 (r0245140)
 
-[添付ファイル 1](https://padlet.com/remutyan/padlet-yq1bdfd3d5pt1wof)
-
-#### コメント (11)
-- **人がゴミのようだ👿🏀** (06/10 02:45): https://padlet.com/6802516/padlet-kev59ppwghrijoph
-- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
-- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
-- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
-- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
-- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
-- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
-- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
-- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
-- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
-- **喰種** (06/21 03:28): https://padlet.com/taigakouketsu927/padlet-bboalccw7jx7scxq
+[添付ファイル 1](https://padlet.com/r0245140/padlet-lbo858hpf5o74lyy)
 
 #### その他の情報
-- **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/07 04:35
-- **更新日（UTC）:** 06/07 04:36
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/10 01:41
+- **更新日（UTC）:** 07/10 01:41
 
 ---
 
-### 2. 絵に自信がある人はぜひ来てね！
+### 2. 入ろう！
+**作成者:** アマイロ
+
+[添付ファイル 1](https://padlet.com/298344445/padlet-jibykjil8dz23tn7)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/10 01:32
+- **更新日（UTC）:** 07/10 01:32
+
+---
+
+### 3. 投稿 3
+**作成者:** ミカゲ
+
+<p>誰でもいいからいっぱいはいってきて!</p><p><br/></p>
+
+[添付ファイル 1](https://padlet.com/298344445/padlet-jibykjil8dz23tn7)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/10 01:31
+- **更新日（UTC）:** 07/10 01:31
+
+---
+
+### 4. これはいって
+**作成者:** ははははははは (2101038_5)
+
+#### コメント (1)
+- **ははははははは** (07/09 05:39): https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 05:39
+- **更新日（UTC）:** 07/09 05:39
+
+---
+
+### 5. 投稿 5
+**作成者:** 匿名 (r0245140)
+
+<p>はいってください</p>
+
+[添付ファイル 1](https://padlet.com/r0245140/padlet-lbo858hpf5o74lyy)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 05:34
+- **更新日（UTC）:** 07/09 05:34
+
+---
+
+### 6. 投稿 6
+**作成者:** バスケ大好きにき (2101021_18)
+
+<p>マジできて　</p><p>有名にしたい</p>
+
+[添付ファイル 1](https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 03:24
+- **更新日（UTC）:** 07/09 03:24
+
+---
+
+### 7. 投稿 7
+**作成者:** バスケ大好きにき (2101021_18)
+
+<p>来てくれーーーーーーー</p>
+
+[添付ファイル 1](https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 03:23
+- **更新日（UTC）:** 07/09 03:23
+
+---
+
+### 8. これはいって
+**作成者:** ははははははは (2101038_5)
+
+#### コメント (1)
+- **ははははははは** (07/09 03:23): https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 03:23
+- **更新日（UTC）:** 07/09 03:23
+
+---
+
+### 9. 投稿 9
+**作成者:** ミドリノ
+
+[添付ファイル 1](https://open.spotify.com/track/1VYIg07VAmDLhhIkp9g4ts)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/09 00:32
+- **更新日（UTC）:** 07/09 00:32
+
+---
+
+### 10. ここ受け付け済まして入ってクレイ
+**作成者:** あっぷる (gs214328)
+
+<ul><li><p>受付済まして来てほしい🥺（キモ）</p></li></ul>
+
+[添付ファイル 1](https://padlet.com/gs214328/padlet-o8orc4tgzgic3ofw)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/08 09:16
+- **更新日（UTC）:** 07/08 09:16
+
+---
+
+### 11. 宣伝部屋きてくれー
+**作成者:** ハムすけ (gs221337)
+
+<p>荒らし厳禁！</p>
+
+[添付ファイル 1](https://padlet.com/gs221337/ok-lisuxvt1y2ez904k)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/07 09:14
+- **更新日（UTC）:** 07/07 09:14
+
+---
+
+### 12. プロキシ誰かおしえてー
+**作成者:** １９１９
+
+#### コメント (2)
+- **バスケ大好きにき** (07/09 03:25): https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm
+- **バスケ大好きにき** (07/09 03:25): プロキシあるよ
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/07 04:42
+- **更新日（UTC）:** 07/07 04:42
+
+---
+
+### 13. 投稿 13
+**作成者:** ソヨノカ
+
+[添付ファイル 1](https://padlet.com/00221133/padlet-9otqidpsq2a33sru)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/07 03:38
+- **更新日（UTC）:** 07/07 03:38
+
+---
+
+### 14. きて！
+**作成者:** ソヨノカ
+
+[添付ファイル 1](https://padlet.com/00221133/padlet-9otqidpsq2a33sru)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/07 03:36
+- **更新日（UTC）:** 07/07 03:36
+
+---
+
+### 15. オンラインでできるゲーム教えて！
+**作成者:** ハギ
+
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5923184145/fcc3dc348f8158586b3fc3b417c6830d/IMG_0516.webp?Expires=1784327747&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=agYgfxFH6TDnp2X8HGg8WrNubJuhiE7ewv8m3QcecqYnvNA1Y5iBAB5BsyZOX12iGcTCXl%2ByLXgbDyMNEQsm30qAjNtNTJwPfj%2Fj4baP%2BxAuLkAi0kN5zx8Npld5Jt0Wqj%2BuE2atQG3AFI2LGS6aDfp2m9GYpZ0ZD%2BdH71UgndjBzE%2Fhast1p5aiLlRqE5rPpnvetM6vSIRuwtPGjG1n6NONykCrPAN5dwzH9VhIDVjTkN0Rjagq4dznUX%2Bbdke%2F5ozq%2BcH7UPl1VPvvCp4%2FhHxjHzMxrZcM%2BBw1m8tgIMNrQAYyAIRBX99Fr4vJYYswofVM1PbVqu9jbymeJ3o73A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5923184145%2Ffcc3dc348f8158586b3fc3b417c6830d%2FIMG_0516.webp)
+
+#### コメント (3)
+- **バスケ大好きにき** (07/09 03:25): https://padlet.com/2101021_18/padlet-po8cfmn9j0tkhdpm
+- **バスケ大好きにき** (07/09 03:26): あるで
+- **バスケ大好きにき** (07/09 03:26): ここに
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/07 03:30
+- **更新日（UTC）:** 07/07 03:30
+
+---
+
+### 16. 114514
+**作成者:** Roblox_user-u (Roblox_user_u)
+
+<p><br/></p><p><br/></p>
+
+[添付ファイル 1](https://padlet.com/hacker_6640225_et56/padlet-ome0r66a8e0ijwg2)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/06 14:48
+- **更新日（UTC）:** 07/06 14:48
+
+---
+
+### 17. きてー
+**作成者:** ハムすけ (gs221337)
+
+[添付ファイル 1](https://padlet.com/gs221337/padlet-3v30e90e9fo3x53q)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/06 06:36
+- **更新日（UTC）:** 07/06 06:36
+
+---
+
+### 18. ここいいよ
+**作成者:** マイクラ好き (gs225238)
+
+[添付ファイル 1](https://padlet.com/padlets/a4u12hd36qkln3g2)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/06 04:24
+- **更新日（UTC）:** 07/06 04:24
+
+---
+
+### 19. 投稿 19
+**作成者:** 1001さん (Haraitai)
+
+<p>ここに100％でkー無を貼っていってるからみんな着てくれ</p>
+
+[添付ファイル 1](https://padlet.com/Haraitai/padlet-jxmgpewlqr3h518c)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/06 00:29
+- **更新日（UTC）:** 07/06 00:29
+
+---
+
+### 20. 僕の部屋着てくれ―
+**作成者:** ハムすけ (gs221337)
+
+<p>上の画像は何でもないから気にしないで</p>
+
+[添付ファイル 1](https://padlet.com/gs221337/padlet-3v30e90e9fo3x53q)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 07/03 12:02
+- **更新日（UTC）:** 07/03 12:02
+
+---
+
+### 21. 入ってー
+**作成者:** subaru (subaru_AAAA)
+
+<p><a rel="noopener noreferrer nofollow" href="https://padlet.com/subaru_AAAA/i-filter-xis7axftyw0x6ovm">https://padlet.com/subaru_AAAA/i-filter-xis7axftyw0x6ovm</a></p>
+
+[添付ファイル 1](https://padlet.com/subaru_AAAA/i-filter-xis7axftyw0x6ovm)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/28 00:56
+- **更新日（UTC）:** 06/28 00:56
+
+---
+
+### 22. 投稿 22
+**作成者:** せーちゃん (songtakazi38)
+
+[添付ファイル 1](https://padlet.com/songtakazi38/padlet-rxiuvirkwxpp2ci5)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/27 14:30
+- **更新日（UTC）:** 06/27 14:30
+
+---
+
+### 23. 投稿 23
+**作成者:** a_aiueo
+
+<p>人口を増やしたい</p><p><br/></p>
+
+[添付ファイル 1](https://padlet.com/kabot/padlet-1vjdxcokvpn4gxad)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/27 06:25
+- **更新日（UTC）:** 06/27 06:25
+
+---
+
+### 24. お願いだから入って
+**作成者:** ハンバーガー (gs221358)
+
+<p>おねがい〜</p>
+
+[添付ファイル 1](https://padlet.com/gs221358/padlet-972odl7mjocejnpn)
+
+#### コメント (1)
+- **シオジ** (06/26 06:11): https://sfasoftballcamps.com/
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/25 10:29
+- **更新日（UTC）:** 06/25 10:29
+
+---
+
+### 25. はいってー
+**作成者:** 削除済みユーザー
+
+[添付ファイル 1](https://padlet.com/padlets/rjqm9goq8pql7z7g)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/25 07:18
+- **更新日（UTC）:** 06/25 07:18
+
+---
+
+### 26. こん
+**作成者:** 規制 (2101009_7)
+
+<p>規制にかからないプロキシ教えてください</p>
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/25 04:10
+- **更新日（UTC）:** 06/25 04:10
+
+---
+
+### 27. これはいって
+**作成者:** ロブロックス廃人 (gs221383)
+
+[添付ファイル 1](https://padlet.com/gs221383/padlet-9i6aqo0eksdljjzb)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/25 01:37
+- **更新日（UTC）:** 06/25 01:37
+
+---
+
+### 28. きてね
+**作成者:** fp3eGdmpJLd3ig
+
+[添付ファイル 1](https://padlet.com/padlets/4znbixxoxuxbo7g4/podcast.xml)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/24 04:20
+- **更新日（UTC）:** 06/24 04:20
+
+---
+
+### 29. 今日入って来た人ライターにする！
+**作成者:** 匿名アバター (h0319026_1)
+
+[添付ファイル 1](https://padlet.com/h0319026_1/padlet-el5gvwbur4tp3f46)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/24 00:09
+- **更新日（UTC）:** 06/24 00:09
+
+---
+
+### 30. 東方ロストワード
+**作成者:** 東方好き
+
+<p>誰かフレンドなりましょ！！</p>
+
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5851280595/cf255690acd876633f919d03ad072f57/IMG_0090.jpeg?Expires=1784327747&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=HrlME3nJ3uRG4339UCq8E0JgUuBNKcvVHUKatrOmpOAUYDjvQMlBski666W3U8Uqd6z1AnpT0dIf%2B1jBk0dUr%2Flqe7J4D78t0gepxT80sx5cIJ1ViPjkmnXHtdwFgvduOVJTyc6qJZ8S7wNQET8ZPL5ZhkbJA5UzGbza8L20XgAnO5B%2FUcgHLVvutZEt6iIqmqRup8OUsfnXau6PzUzgAF%2Fcvw3Vg46YCSWVm6C8%2F7Gf804v2JT28AN8XEZ0sy91h11dkiN%2FlhNbephf3KtjwEsll43EFeiaJ1MKg68zKPITNYlLiod4GLNUAmL5kKoit1LzzAWKaabp8Zi4PSAMIg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5851280595%2Fcf255690acd876633f919d03ad072f57%2FIMG_0090.jpeg)
+
+#### コメント (1)
+- **ペペロン** (06/23 09:22): 自分。今日、c8こいし当たりました！ 
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/22 08:41
+- **更新日（UTC）:** 06/22 08:41
+
+---
+
+### 31. 投稿 31
+**作成者:** 削除済みユーザー
+
+[添付ファイル 1](https://padlet.com/Proxy3game2edo1zatudan/cc-x1tty466n65ekial)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/22 04:04
+- **更新日（UTC）:** 06/22 04:04
+
+---
+
+### 32. 来てね！
+**作成者:** Coolkid（元ニカーー）#krtkさんの22番弟子 (TOKYO874321Forsaken)
+
+<p>受付リンク↓</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/TOKYO874321Forsaken/1000-ghy6xi2pf881eu2v">https://padlet.com/TOKYO874321Forsaken/1000-ghy6xi2pf881eu2v</a></p>
+
+[添付ファイル 1](https://padlet.com/TOKYO874321Forsaken/1000-n2266ltb5hb27hdl)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/21 05:59
+- **更新日（UTC）:** 06/21 05:59
+
+---
+
+### 33. 投稿 33
+**作成者:** c00lkidd (r0400295_1)
+
+[添付ファイル 1](https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/20 00:07
+- **更新日（UTC）:** 06/20 00:07
+
+---
+
+### 34. はいってほしい
+**作成者:** ユキホシ
+
+[添付ファイル 1](https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf)
+
+#### コメント (2)
+- **c00lkidd** (06/18 09:42): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
+- **あああ** (06/19 00:03): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPost
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/18 09:13
+- **更新日（UTC）:** 06/18 09:13
+
+---
+
+### 35. きてねー！
+**作成者:** 雀
+
+[添付ファイル 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm?__cf_chl_rt_tk=zxSdqZaIxAOoRC.B_5.Ro0zdwOTrWIFVUxEsbMxe3h8-1780727393-1.0.1.1-ASKTbv8Eo5BS97f7jQJ5XU_6BHKcwpxj..9c9ljfoso)
+
+#### コメント (1)
+- **あああ** (06/19 00:03): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPost
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/18 07:47
+- **更新日（UTC）:** 06/18 07:47
+
+---
+
+### 36. 今作った
+**作成者:** ヤマホシ
+
+<p>みんなきてね！（ほとんど何もない）</p>
+
+[添付ファイル 1](https://padlet.com/h1419114/padlet-9fjfldyni7wq4lyr)
+
+#### コメント (2)
+- **喰種** (06/21 03:28): https://padlet.com/taigakouketsu927/padlet-bboalccw7jx7scxq
+- **喰種** (06/21 03:30): みんなはいってほしい
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/18 07:26
+- **更新日（UTC）:** 06/18 07:26
+
+---
+
+### 37. エロ部屋
+**作成者:** ハハハハ
+
+[添付ファイル 1](https://padlet.com/mo_i_zoo/padlet-wfx5clzffum44uj6)
+
+#### リアクション
+- **絵文字:** 👍 (1)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/16 13:43
+- **更新日（UTC）:** 06/16 13:43
+
+---
+
+### 38. 入ってね〜
+**作成者:** ただの東方好き (gs212166)
+
+[添付ファイル 1](https://padlet.com/gs212166/padlet-rj4jgh0wx62xms68)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/14 06:51
+- **更新日（UTC）:** 06/14 06:51
+
+---
+
+### 39. 入ってね〜
+**作成者:** ただの東方好き (gs212166)
+
+[添付ファイル 1](https://padlet.com/gs212089/padlet-ye3he3fflxrohfc9)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/14 06:50
+- **更新日（UTC）:** 06/14 06:50
+
+---
+
+### 40. 入ってください。
+**作成者:** えりちゃん推し (gs212089)
+
+<p>荒らさないでください</p>
+
+[添付ファイル 1](https://padlet.com/gs212089/padlet-f4jtcbrq5d6z4egw)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/13 11:34
+- **更新日（UTC）:** 06/13 11:34
+
+---
+
+### 41. いっぱいあったらごめん　よろしく
+**作成者:** ただの東方好き (gs212166)
+
+<p>代行で宣伝してます「リア友の」</p>
+
+[添付ファイル 1](https://padlet.com/padlets/vtzd5pd1g7f2cnq9)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/12 05:54
+- **更新日（UTC）:** 06/12 06:01
+
+---
+
+### 42. 投稿 42
+**作成者:** あ。。。 (1420043_1)
+
+[添付ファイル 1](https://padlet.com/1420043_1/padlet-6dgx7k907bknf0tk)
+
+#### コメント (1)
+- **人がゴミのようだ👿🏀** (06/10 02:45): https://padlet.com/6802516/padlet-kev59ppwghrijoph
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/09 10:55
+- **更新日（UTC）:** 06/09 10:55
+
+---
+
+### 43. ゲームが沢山
+**作成者:** ネズミーマウス崇拝者 (s2206019_2)
+
+[添付ファイル 1](https://padlet.com/s2206019_2/padlet-gfbtpnzh99vnpvcx)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/08 06:00
+- **更新日（UTC）:** 06/08 06:00
+
+---
+
+### 44. なるべく色んなとこに宣伝してほしい
+**作成者:** Honda (Hondacars1788)
+
+[添付ファイル 1](https://padlet.com/h1619047_1/padlet-oryn04wagmrlxf3g)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/04 03:25
+- **更新日（UTC）:** 06/04 03:25
+
+---
+
+### 45. ほぼ廃部屋だから誰か来てくれ
+**作成者:** おなべさん(新垢 (minecrft)
+
+[添付ファイル 1](https://padlet.com/minecrft/padlet-yg0be6dfn0c2ud5x)
+
+#### その他の情報
+- **投稿のカラー:** パープル
+- **作成日（UTC）:** 06/02 16:00
+- **更新日（UTC）:** 06/02 16:13
+
+---
+
+### 46. youtubeやゲームがあるよ！
+**作成者:** のーまる　来週から低浮上 (normal_nanda)
+
+<p>来てね</p>
+
+[添付ファイル 1](https://padlet.com/nomo0206/new-v04juu3iw251p7v)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/02 09:16
+- **更新日（UTC）:** 06/02 09:16
+
+---
+
+### 47. 江戸とプロキシ　できればご協力お願いします
+**作成者:** 削除済みユーザー
+
+[添付ファイル 1](https://padlet.com/soradesu/padlet-98bnczylv2rjmdgx)
+
+#### コメント (1)
+- **人がゴミのようだ👿🏀** (06/09 05:53): https://padlet.com/6802516/padlet-kev59ppwghrijoph
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 06/01 23:33
+- **更新日（UTC）:** 06/01 23:35
+
+---
+
+### 48. きて
+**作成者:** のーまる　来週から低浮上 (normal_nanda)
+
+[添付ファイル 1](https://padlet.com/normal_nanda/padlet-ydphcz7v7xuh3dju)
+
+#### コメント (1)
+- **のーまる　来週から低浮上** (06/01 07:18): 人気部屋
+
+#### その他の情報
+- **投稿のカラー:** レッド
+- **作成日（UTC）:** 06/01 07:17
+- **更新日（UTC）:** 06/03 06:42
+
+---
+
+### 49. 投稿 49
+**作成者:** government conspiracy＃クチャラー嫌い＃くろつき18番弟子＃ネッコ隊 (TherearsomediotswhothinkIafurrybutImnot)
+
+[添付ファイル 1](https://padlet.com/seihunoinbou/padlet-biaj7vv9sr4s869h)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 05/31 22:01
+- **更新日（UTC）:** 05/31 22:01
+
+---
+
+### 50. 入ってー
+**作成者:** しろちゃん (syunn925)
+
+[添付ファイル 1](https://padlet.com/syunn925/padlet-qljpcqw6hnd7sww9)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 05/30 13:21
+- **更新日（UTC）:** 05/30 13:21
+
+---
+
+### 51. 来て
+**作成者:** Takoyaki (h4219055_1)
+
+[添付ファイル 1](https://padlet.com/h4219055_1/padlet-redxyv3i6dxmneul)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 05/29 12:46
+- **更新日（UTC）:** 05/29 12:46
+
+---
+
+### 52. お茶の部屋
+**作成者:** カマキリ
+
+[添付ファイル 1](https://padlet.com/Ochaadesu/google-94eqvm978zz6ildj)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 05/21 10:33
+- **更新日（UTC）:** 05/21 10:33
+
+---
+
+### 53. あらしたれ
+**作成者:** 削除済みユーザー
+
+[添付ファイル 1](https://padlet.com/ilikerx7/arasitare)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 05/21 07:04
+- **更新日（UTC）:** 05/21 07:04
+
+---
+
+### 54. 来て下さい
+**作成者:** ヨシフ・ヴィッサリオノヴィチ・ジュガシヴィリ　ナ○ス親衛隊分隊長 (tennnouheikabannzai)
+
+[添付ファイル 1](https://padlet.com/koukokunokouhaikonoissennniari/maker/t5aQxeTFrADrCvsJ)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 05/20 09:58
+- **更新日（UTC）:** 05/20 09:58
+
+---
+
+### 55. きてー
+**作成者:** N (bigbann5678_1)
+
+[添付ファイル 1](https://padlet.com/bigbann5678_1/padlet-xv03e0qp1h4i1tsm)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 05/11 00:33
+- **更新日（UTC）:** 05/11 00:33
+
+---
+
+### 56. 投稿 56
+**作成者:** おなべさん(新垢 (minecrft)
+
+<p>ライターになりたい人は言え(激しょぼボードだが</p>
+
+[添付ファイル 1](https://padlet.com/minecrft/padlet-yg0be6dfn0c2ud5x)
+
+#### コメント (4)
+- **よしなりけいすけ** (03/25 04:42): https://padlet.com/s2101219_1/padlet-fwlfq12rndmfbo6r
+- **よしなりけいすけ** (03/25 04:42): 入ってー
+- **fortnightガチ勢** (05/15 12:34): https://postsyncer.com/tools/youtube-video-downloader
+- **fortnightガチ勢** (05/15 12:34): 俺もー
+
+#### リアクション
+- **絵文字:** 👍 (2)
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 03/14 07:19
+- **更新日（UTC）:** 03/14 07:19
+
+---
+
+### 57. 投稿 57
+**作成者:** バンダナわどるど Xx-tucasanz-xX りおと53番弟子　りおと族27代目 (gs203418)
+
+[添付ファイル 1](https://padlet.com/gs203418/padlet-xkqi6pj2226yb8qf)
+
+#### コメント (5)
+- **Calm Cricket** (02/17 04:13): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
+- **時透無一郎** (02/25 23:40): https://padlet.com/r0300353/padlet-xe704h90k5x163d7
+- **時透無一郎** (02/25 23:40): ここ押して↑
+- **karakarann** (03/03 09:43): https://padlet.com/20061025/padlet-izluts7b565prwsu」
+- **しろちゃん** (03/13 07:54): 入ってー　　　　https://padlet.com/29200151/padlet-qljpcqw6hnd7sww9　　
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **作成日（UTC）:** 01/28 22:48
+- **更新日（UTC）:** 01/28 22:48
+
+---
+
+### 58. 絵に自信がある人はぜひ来てね！
 **作成者:** ㊗️鉄道の日！ seriesE217(高橋 咲良の主) (konnpaku_youmu)
 
 <p>自信がない人もぜひ！</p>
@@ -12714,12 +10386,12 @@
 - **のーまる　来週から低浮上** (03/14 06:26): 来てくれ
 - **時透無一郎** (03/23 00:34): https://padlet.com/r0300353/padlet-xe704h90k5x163d7
 - **時透無一郎** (03/23 00:34): 来てください
-- **なかおしん** (03/23 05:32): https://padlet.com/s2101172_2/ns-rznk7px7x6tut9mwいいよこいよ
+- **削除済みユーザー** (03/23 05:32): https://padlet.com/s2101172_2/ns-rznk7px7x6tut9mwいいよこいよ
 - **のーまる　来週から低浮上** (03/27 09:17): https://padlet.com/oo0oo0o/onigiriniginigi-5zo5v3uo0la2tnlr
 - **のーまる　来週から低浮上** (03/27 09:17): kite
 - **ギョー天使** (04/08 08:34): 新たな復活　https://padlet.com/s2101145_4/padlet-6ux2ulefc1fjwe72
 - **るうるう** (04/30 06:45): 今21s0543g@atsugi.ed.jpっていうアカウントいらないので配布します。パスワードはs0543gkbです。
-- **なかおしん** (05/04 10:29): https://padlet.com/s2101172_2/youtube-vijso7q1dayy4tm5
+- **削除済みユーザー** (05/04 10:29): https://padlet.com/s2101172_2/youtube-vijso7q1dayy4tm5
 - **ギョー天使** (05/07 02:56): https://padlet.com/s2101145_4/padlet-74jw0ap8j1ahvyf0復讐したいやつがいたら来たほうが良い。
 - **kira** (05/09 03:01): https://padlet.com/4225485/padlet-7lh23es28udsqfpeわいの盟友が今から発展させるらしい。できるなら手伝ってもらいたい。
 - **中西惺** (05/15 22:52): https://padlet.com/YAJUAU/padlet-hmucibfbrgtj3vah
@@ -12739,786 +10411,36 @@
 #### その他の情報
 - **投稿のカラー:** イエロー
 - **作成日（UTC）:** 08/17 02:29
-- **更新日（UTC）:** 08/17 02:29
+- **更新日（UTC）:** 07/02 11:39
 
 ---
 
-### 3. 入ってー
-**作成者:** subaru (subaru_AAAA)
-
-<p><a rel="noopener noreferrer nofollow" href="https://padlet.com/subaru_AAAA/i-filter-xis7axftyw0x6ovm">https://padlet.com/subaru_AAAA/i-filter-xis7axftyw0x6ovm</a></p>
-
-[添付ファイル 1](https://padlet.com/subaru_AAAA/i-filter-xis7axftyw0x6ovm)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 00:56
-- **更新日（UTC）:** 06/28 00:56
-
----
-
-### 4. 投稿 4
-**作成者:** せーちゃん (songtakazi38)
-
-[添付ファイル 1](https://padlet.com/songtakazi38/padlet-rxiuvirkwxpp2ci5)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 14:30
-- **更新日（UTC）:** 06/27 14:30
-
----
-
-### 5. https://padlet.com/songtakazi38/padlet-rxiuvirkwxpp2ci5
-**作成者:** せーちゃん (songtakazi38)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 14:30
-- **更新日（UTC）:** 06/27 14:30
-
----
-
-### 6. いん
-**作成者:** イノシシ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 08:15
-- **更新日（UTC）:** 06/27 08:15
-
----
-
-### 7. いん
-**作成者:** イノシシ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 08:15
-- **更新日（UTC）:** 06/27 08:15
-
----
-
-### 8. 投稿 8
-**作成者:** a_aiueo
-
-<p>人口を増やしたい</p><p><br/></p>
-
-[添付ファイル 1](https://padlet.com/kabot/padlet-1vjdxcokvpn4gxad)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 06:25
-- **更新日（UTC）:** 06/27 06:25
-
----
-
-### 9. おねがい
-**作成者:** ハンバーガー (gs221358)
-
-<p>入ってくれ〜</p>
-
-[添付ファイル 1](https://padlet.com/gs221358/padlet-972odl7mjocejnp)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 10:29
-- **更新日（UTC）:** 06/25 10:29
-
----
-
-### 10. お願いだから入って
-**作成者:** ハンバーガー (gs221358)
-
-<p>おねがい〜</p>
-
-[添付ファイル 1](https://padlet.com/gs221358/padlet-972odl7mjocejnpn)
-
-#### コメント (1)
-- **シオジ** (06/26 06:11): https://sfasoftballcamps.com/
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 10:29
-- **更新日（UTC）:** 06/25 10:29
-
----
-
-### 11. 入って〜
-**作成者:** c00lkidd (r0400295_1)
-
-[添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 09:08
-- **更新日（UTC）:** 06/25 09:08
-
----
-
-### 12. 入って〜
-**作成者:** c00lkidd (r0400295_1)
-
-[添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 09:08
-- **更新日（UTC）:** 06/25 09:08
-
----
-
-### 13. 入って〜
-**作成者:** c00lkidd (r0400295_1)
-
-[添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 09:08
-- **更新日（UTC）:** 06/25 09:08
-
----
-
-### 14. はいってー
-**作成者:** 削除済みユーザー
-
-[添付ファイル 1](https://padlet.com/padlets/rjqm9goq8pql7z7g)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 07:18
-- **更新日（UTC）:** 06/25 07:18
-
----
-
-### 15. こん
-**作成者:** 規制 (2101009_7)
-
-<p>規制にかからないプロキシ教えてください</p>
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 04:10
-- **更新日（UTC）:** 06/25 04:10
-
----
-
-### 16. これはいって
-**作成者:** ロブロックス廃人 (gs221383)
-
-[添付ファイル 1](https://padlet.com/gs221383/padlet-9i6aqo0eksdljjzb)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 01:37
-- **更新日（UTC）:** 06/25 01:37
-
----
-
-### 17. 入ってとっても楽しいよ
-**作成者:** れいり
-
-[添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/24 11:48
-- **更新日（UTC）:** 06/24 11:48
-
----
-
-### 18. きてね
-**作成者:** fp3eGdmpJLd3ig
-
-[添付ファイル 1](https://padlet.com/padlets/4znbixxoxuxbo7g4/podcast.xml)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/24 04:20
-- **更新日（UTC）:** 06/24 04:20
-
----
-
-### 19. 今日入って来た人ライターにする！
-**作成者:** 匿名アバター (h0319026_1)
-
-[添付ファイル 1](https://padlet.com/h0319026_1/padlet-el5gvwbur4tp3f46)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/24 00:09
-- **更新日（UTC）:** 06/24 00:09
-
----
-
-### 20. 東方ロストワード
-**作成者:** 東方好き
-
-<p>誰かフレンドなりましょ！！</p>
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5851280595/cf255690acd876633f919d03ad072f57/IMG_0090.jpeg?Expires=1783313867&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=35tDN5y0Z1BtLUbqjM7eiZFvl4qUjEug8Sl0hgMJQ2Y3UuA5mPVOr07%2FtHfNI9xDo2wQ0QsIxrbQV0a25uOGAAEn0tpYzzH1R6ub70Mf4nqfFwAxdK8%2FF448Ssa4KzYIyMPl4pl0jv0drKsTX3cZFC61Mnio79iAIfptGAudGQvNe1b7KQXwsgPmcX7VXXXtVCtMqy6zWE7%2FTQdcdlCKplwik768%2BBbPwpMx36jpkUTr76mwA9txSL6Ny2wQ8jACihRYs1IsuGfTR2s3qFyWzAUESLheoBIxbM4TDdZgrCkXPVSsDzhTFDvCvEE7EWQMarquNzrzifjTeXckUHDvgA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5851280595%2Fcf255690acd876633f919d03ad072f57%2FIMG_0090.jpeg)
-
-#### コメント (1)
-- **ペペロン** (06/23 09:22): 自分。今日、c8こいし当たりました！ 
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/22 08:41
-- **更新日（UTC）:** 06/22 08:41
-
----
-
-### 21. 投稿 21
-**作成者:** モリアメ
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5851129705/8068ee4df3467380f308e972f12e4692/drawing.png?Expires=1783313867&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wTCWLBygzoRIqmNOpuC62xpCG3C3qqYncP3%2FXCPl8TcQmG0ABPcPrL4R%2BwXRoTAEc%2BtBUrCdItPgdWYV6r2Aw%2F2z7BxZ2fuW10w7oamVqZ0TFIZ%2FFRrBlH0bcaWMU0NijSIwT40h7Sjf3hmN%2B7YTZjnwY8xzo3jjlep7K6fFN6UW4gx7hngxcqCHFRr%2F7XGDS%2FlxzlMTGfp2%2F2T03HM%2FnjoNOKSpGcvOo78SY8vW1x5Wklj1eNTXi84BetTqqVadEhS%2B3ba8mkHAu5G1KDI9bXS92sr5%2BQ6fMZWrqPw%2FyoRR2JYkz%2BOk4CnuTbn74mGEpPRdkUmHsXYbi2WqY3MnHA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5851129705%2F8068ee4df3467380f308e972f12e4692%2Fdrawing.png)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/22 08:06
-- **更新日（UTC）:** 06/22 08:06
-
----
-
-### 22. 投稿 22
-**作成者:** モリアメ
-
-![バスケットボール選手がダンクをしている様子を、星雲の爆発のように描いた表現力豊かな油絵](https://genai-public.padletcdn.com/disco/prod/imagen/1779696744301/sample_0.png)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/22 08:06
-- **更新日（UTC）:** 06/22 08:06
-
----
-
-### 23. 誰か
-**作成者:** モリアメ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/22 08:05
-- **更新日（UTC）:** 06/22 08:05
-
----
-
-### 24. 誰か
-**作成者:** モリアメ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/22 08:04
-- **更新日（UTC）:** 06/22 08:04
-
----
-
-### 25. 投稿 25
-**作成者:** 削除済みユーザー
-
-[添付ファイル 1](https://padlet.com/Proxy3game2edo1zatudan/cc-x1tty466n65ekial)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/22 04:04
-- **更新日（UTC）:** 06/22 04:04
-
----
-
-### 26. 来てね！
-**作成者:** Coolkid（元ニカーー）【東京の市I-FILTER系】 (TOKYO874321Forsaken)
-
-<p>受付リンク↓</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/TOKYO874321Forsaken/1000-ghy6xi2pf881eu2v">https://padlet.com/TOKYO874321Forsaken/1000-ghy6xi2pf881eu2v</a></p>
-
-[添付ファイル 1](https://padlet.com/TOKYO874321Forsaken/1000-n2266ltb5hb27hdl)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/21 05:59
-- **更新日（UTC）:** 06/21 05:59
-
----
-
-### 27. 投稿 27
-**作成者:** c00lkidd (r0400295_1)
-
-[添付ファイル 1](https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/20 00:07
-- **更新日（UTC）:** 06/20 00:07
-
----
-
-### 28. はいってほしい
-**作成者:** ユキホシ
-
-[添付ファイル 1](https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf)
-
-#### コメント (2)
-- **c00lkidd** (06/18 09:42): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
-- **あああ** (06/19 00:03): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPost
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/18 09:13
-- **更新日（UTC）:** 06/18 09:13
-
----
-
-### 29. きて！
-**作成者:** フユザクラ
-
-[添付ファイル 1](https://padlet.com/h1419114/2-xia7yg61o26dendo?lang=ja)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/18 08:06
-- **更新日（UTC）:** 06/18 08:06
-
----
-
-### 30. きてねー！
-**作成者:** 雀
-
-[添付ファイル 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm?__cf_chl_rt_tk=zxSdqZaIxAOoRC.B_5.Ro0zdwOTrWIFVUxEsbMxe3h8-1780727393-1.0.1.1-ASKTbv8Eo5BS97f7jQJ5XU_6BHKcwpxj..9c9ljfoso)
-
-#### コメント (1)
-- **あああ** (06/19 00:03): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPosthttps://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf?contribution_type=draftPost
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/18 07:47
-- **更新日（UTC）:** 06/18 07:47
-
----
-
-### 31. 今作った
-**作成者:** ヤマホシ
-
-<p>みんなきてね！（ほとんど何もない）</p>
-
-[添付ファイル 1](https://padlet.com/h1419114/padlet-9fjfldyni7wq4lyr)
-
-#### コメント (2)
+### 59. 世界最大級の雑談部屋
+**作成者:** レム (remutyan)
+
+[添付ファイル 1](https://padlet.com/remutyan/padlet-yq1bdfd3d5pt1wof)
+
+#### コメント (11)
+- **人がゴミのようだ👿🏀** (06/10 02:45): https://padlet.com/6802516/padlet-kev59ppwghrijoph
+- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
+- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
+- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
+- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
+- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
+- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
+- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
+- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
+- **そこら辺の人** (06/18 10:39): https://padlet.com/r0400295_1/padlet-g2zjpf1c1v1m81xf
 - **喰種** (06/21 03:28): https://padlet.com/taigakouketsu927/padlet-bboalccw7jx7scxq
-- **喰種** (06/21 03:30): みんなはいってほしい
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/18 07:26
-- **更新日（UTC）:** 06/18 07:26
-
----
-
-### 32. エロ部屋
-**作成者:** ハハハハ
-
-[添付ファイル 1](https://padlet.com/mo_i_zoo/padlet-wfx5clzffum44uj6)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/16 13:43
-- **更新日（UTC）:** 06/16 13:43
-
----
-
-### 33. 入ってね〜
-**作成者:** ただの東方好き (gs212166)
-
-[添付ファイル 1](https://padlet.com/gs212166/padlet-rj4jgh0wx62xms68)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/14 06:51
-- **更新日（UTC）:** 06/14 06:51
-
----
-
-### 34. 入ってね〜
-**作成者:** ただの東方好き (gs212166)
-
-[添付ファイル 1](https://padlet.com/gs212089/padlet-ye3he3fflxrohfc9)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/14 06:50
-- **更新日（UTC）:** 06/14 06:50
-
----
-
-### 35. 入ってください。
-**作成者:** えりちゃん推し (gs212089)
-
-<p>荒らさないでください</p>
-
-[添付ファイル 1](https://padlet.com/gs212089/padlet-f4jtcbrq5d6z4egw)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/13 11:34
-- **更新日（UTC）:** 06/13 11:34
-
----
-
-### 36. いっぱいあったらごめん　よろしく
-**作成者:** ただの東方好き (gs212166)
-
-<p>代行で宣伝してます「リア友の」</p>
-
-[添付ファイル 1](https://padlet.com/padlets/vtzd5pd1g7f2cnq9)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/12 05:54
-- **更新日（UTC）:** 06/12 06:01
-
----
-
-### 37. つつみのなんでも部屋
-**作成者:** ユメミロ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/11 06:41
-- **更新日（UTC）:** 06/11 06:41
-
----
-
-### 38. 募集中
-**作成者:** 人がゴミのようだ👿🏀 (6802516)
-
-[添付ファイル 1](https://padlet.com/6802516/padlet-kev59ppwghrijoph)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/10 02:46
-- **更新日（UTC）:** 06/10 02:46
-
----
-
-### 39. 募集
-**作成者:** あ。。。 (1420043_1)
-
-<p>募集中です</p>
-
-[添付ファイル 1](https://padlet.com/1420043_1/padlet-6dgx7k907bknf0tk)
-
-#### コメント (1)
-- **人がゴミのようだ👿🏀** (06/10 02:45): https://padlet.com/6802516/padlet-kev59ppwghrijoph
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/09 10:55
-- **更新日（UTC）:** 06/09 10:55
-
----
-
-### 40. 投稿 40
-**作成者:** あ。。。 (1420043_1)
-
-[添付ファイル 1](https://padlet.com/1420043_1/padlet-6dgx7k907bknf0tk)
-
-#### コメント (1)
-- **人がゴミのようだ👿🏀** (06/10 02:45): https://padlet.com/6802516/padlet-kev59ppwghrijoph
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/09 10:55
-- **更新日（UTC）:** 06/09 10:55
-
----
-
-### 41. いっぱいゲームを入れようと思っています
-**作成者:** 人がゴミのようだ👿🏀 (6802516)
-
-<p>ゲーム、youtube、江戸、雑談、プロキシあります。</p>
-
-[添付ファイル 1](https://padlet.com/6802516/padlet-kev59ppwghrijoph)
-
-#### その他の情報
-- **投稿のカラー:** ブルー
-- **作成日（UTC）:** 06/09 05:50
-- **更新日（UTC）:** 06/09 05:53
-
----
-
-### 42. ゲームが沢山
-**作成者:** ネズミーマウス崇拝者 (s2206019_2)
-
-[添付ファイル 1](https://padlet.com/s2206019_2/padlet-gfbtpnzh99vnpvcx)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/08 06:00
-- **更新日（UTC）:** 06/08 06:00
-
----
-
-### 43. ななにー頂戴
-**作成者:** アハの助
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/05 12:16
-- **更新日（UTC）:** 06/05 12:16
-
----
-
-### 44. なるべく色んなとこに宣伝してほしい
-**作成者:** Honda (Hondacars1788)
-
-[添付ファイル 1](https://padlet.com/h1619047_1/padlet-oryn04wagmrlxf3g)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/04 03:25
-- **更新日（UTC）:** 06/04 03:25
-
----
-
-### 45. 投稿 45
-**作成者:** 谷内ですーー (gs225971)
-
-<p>部屋入って来て！！</p><p><br/></p>
-
-[添付ファイル 1](https://padlet.com/gs225971/padlet-ldmjan2vq85vexbm)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/03 04:45
-- **更新日（UTC）:** 06/03 04:45
-
----
-
-### 46. らくがき部屋(バケモンでもなんでもいいから描け
-**作成者:** おなべさん(新垢 (minecrft)
-
-<p>重いけど、とりあえず入って？</p>
-
-[添付ファイル 1](https://padlet.com/minecrft/padlet-a85cbu1lxxupzhpw)
-
-#### その他の情報
-- **投稿のカラー:** パープル
-- **作成日（UTC）:** 06/02 16:12
-- **更新日（UTC）:** 06/02 16:13
-
----
-
-### 47. ほぼ廃部屋だから誰か来てくれ
-**作成者:** おなべさん(新垢 (minecrft)
-
-[添付ファイル 1](https://padlet.com/minecrft/padlet-yg0be6dfn0c2ud5x)
-
-#### その他の情報
-- **投稿のカラー:** パープル
-- **作成日（UTC）:** 06/02 16:00
-- **更新日（UTC）:** 06/02 16:13
-
----
-
-### 48. youtubeやゲームがあるよ！
-**作成者:** のーまる　来週から低浮上 (normal_nanda)
-
-<p>来てね</p>
-
-[添付ファイル 1](https://padlet.com/nomo0206/new-v04juu3iw251p7v)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/02 09:16
-- **更新日（UTC）:** 06/02 09:16
-
----
-
-### 49. 江戸とプロキシ　できればご協力お願いします
-**作成者:** 削除済みユーザー
-
-[添付ファイル 1](https://padlet.com/soradesu/padlet-98bnczylv2rjmdgx)
-
-#### コメント (1)
-- **人がゴミのようだ👿🏀** (06/09 05:53): https://padlet.com/6802516/padlet-kev59ppwghrijoph
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/01 23:33
-- **更新日（UTC）:** 06/01 23:35
-
----
-
-### 50. きて
-**作成者:** のーまる　来週から低浮上 (normal_nanda)
-
-[添付ファイル 1](https://padlet.com/normal_nanda/padlet-ydphcz7v7xuh3dju)
-
-#### コメント (1)
-- **のーまる　来週から低浮上** (06/01 07:18): 人気部屋
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/01 07:17
-- **更新日（UTC）:** 06/03 06:42
+- **作成日（UTC）:** 06/07 04:35
+- **更新日（UTC）:** 07/02 11:40
 
 ---
 
-### 51. 投稿 51
-**作成者:** government conspiracy＃クチャラー嫌い＃PB界隈＃ネッコ隊＃過密委員会 (inuyorinekoha)
-
-[添付ファイル 1](https://padlet.com/seihunoinbou/padlet-biaj7vv9sr4s869h)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/31 22:01
-- **更新日（UTC）:** 05/31 22:01
-
----
-
-### 52. 入ってー
-**作成者:** しろちゃん (syunn925)
-
-[添付ファイル 1](https://padlet.com/syunn925/padlet-qljpcqw6hnd7sww9)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/30 13:21
-- **更新日（UTC）:** 05/30 13:21
-
----
-
-### 53. 来て
-**作成者:** Takoyaki (h4219055_1)
-
-[添付ファイル 1](https://padlet.com/h4219055_1/padlet-redxyv3i6dxmneul)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/29 12:46
-- **更新日（UTC）:** 05/29 12:46
-
----
-
-### 54. お茶の部屋
-**作成者:** カマキリ
-
-[添付ファイル 1](https://padlet.com/Ochaadesu/google-94eqvm978zz6ildj)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/21 10:33
-- **更新日（UTC）:** 05/21 10:33
-
----
-
-### 55. あらしたれ
-**作成者:** 削除済みユーザー
-
-[添付ファイル 1](https://padlet.com/ilikerx7/arasitare)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/21 07:04
-- **更新日（UTC）:** 05/21 07:04
-
----
-
-### 56. マイクラ
-**作成者:** 削除済みユーザー
-
-[添付ファイル 1](https://padlet.com/ilikerx7/pc-x08udub1h5jcfses)
-
-#### コメント (1)
-- **。** (05/24 17:09): そこ荒らされてて重すぎて開かなくなったよ5/25に
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/21 07:04
-- **更新日（UTC）:** 05/21 07:04
-
----
-
-### 57. 来て下さい
-**作成者:** ヨシフ・ヴィッサリオノヴィチ・ジュガシヴィリ（シアンのペット） (tennnouheikabannzai)
-
-[添付ファイル 1](https://padlet.com/koukokunokouhaikonoissennniari/maker/t5aQxeTFrADrCvsJ)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/20 09:58
-- **更新日（UTC）:** 05/20 09:58
-
----
-
-### 58. みんなきてーーーーー
-**作成者:** ううううんこ💩 (s2100694_2)
-
-[添付ファイル 1](https://padlet.com/s2100694_2/padlet-lmrrkv1pgfgr9q6)
-
-#### コメント (1)
-- **人がゴミのようだ👿🏀** (06/09 05:52): https://padlet.com/6802516/padlet-kev59ppwghrijoph
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/17 09:17
-- **更新日（UTC）:** 05/17 09:17
-
----
-
-### 59. きてー
-**作成者:** N (bigbann5678_1)
-
-[添付ファイル 1](https://padlet.com/bigbann5678_1/padlet-xv03e0qp1h4i1tsm)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/11 00:33
-- **更新日（UTC）:** 05/11 00:33
-
----
-
-### 60. 投稿 60
-**作成者:** おなべさん(新垢 (minecrft)
-
-<p>ライターになりたい人は言え(激しょぼボードだが</p>
-
-[添付ファイル 1](https://padlet.com/minecrft/padlet-yg0be6dfn0c2ud5x)
-
-#### コメント (4)
-- **よしなりけいすけ** (03/25 04:42): https://padlet.com/s2101219_1/padlet-fwlfq12rndmfbo6r
-- **よしなりけいすけ** (03/25 04:42): 入ってー
-- **fortnightガチ勢** (05/15 12:34): https://postsyncer.com/tools/youtube-video-downloader
-- **fortnightガチ勢** (05/15 12:34): 俺もー
-
-#### リアクション
-- **絵文字:** 👍 (2)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/14 07:19
-- **更新日（UTC）:** 03/14 07:19
-
----
-
-### 61. 投稿 61
-**作成者:** バンダナわどるど Xx-tucasanz-xX りおと53番弟子　りおと族27代目 (gs203418)
-
-[添付ファイル 1](https://padlet.com/gs203418/padlet-xkqi6pj2226yb8qf)
-
-#### コメント (5)
-- **Calm Cricket** (02/17 04:13): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
-- **時透無一郎** (02/25 23:40): https://padlet.com/r0300353/padlet-xe704h90k5x163d7
-- **時透無一郎** (02/25 23:40): ここ押して↑
-- **karakarann** (03/03 09:43): https://padlet.com/20061025/padlet-izluts7b565prwsu」
-- **しろちゃん** (03/13 07:54): 入ってー　　　　https://padlet.com/29200151/padlet-qljpcqw6hnd7sww9　　
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/28 22:48
-- **更新日（UTC）:** 01/28 22:48
-
----
-
-### 62. 会話したい人は来てぐださい
+### 60. 会話したい人は来てぐださい
 **作成者:** ア̷̬̝̭̤͙͕̙̞̩̠̦̪̠͛̿̑̀̄̎̅́̓̈́̇͛̑̎̚ホ̵̓̿̂͂̓͋̌̒̂̍̐͐　(パド厨部屋） (TNK3011)
 
 [添付ファイル 1](https://padlet.com/TNK22/padlet-aw8uzplnvj7wjvgg)
@@ -13535,156 +10457,7 @@
 
 ---
 
-### 63. 来てクレメンス
-**作成者:** 遅杉謙信 (bepe760)
-
-<p>野球大好きー</p>
-
-[添付ファイル 1](https://padlet.com/padlets/ewo8oy898lw88zw3)
-
-#### コメント (43)
-- **4649** (02/20 01:19): 俺野球⚾️しとる
-- **ポテトチップス** (02/20 05:08): よろしく
-- **Invisible Newt** (02/20 05:08): よろ
-- **yusei** (02/20 05:09): よーーーーーー
-- **yusei** (02/20 05:11): 野球好き
-- **yusei** (02/20 05:15): 野球おもろい
-- **ポテトチップス** (02/20 05:22): 8時ね！
-- **yusei** (02/20 05:23): おけーーーーー
-- **じゃがりこ** (02/20 05:24): ヤッホー
-- **ポテトチップス** (02/20 05:29): りゅうやうざくない
-- **じゃがりこ** (02/20 05:30): まじうざい
-- **yusei** (02/20 05:30): うざいよね
-- **ポテトチップス** (02/20 05:30): しんでほしい
-- **yusei** (02/20 05:31): イキリすぎて死ぬ
-- **ポテトチップス** (02/20 05:33): 確かに
-- **じゃがりこ** (02/20 06:09): よー 
-- **じゃがりこ** (02/20 06:16): おい 
-- **ポテトチップス** (02/20 06:17): 今かえった
-- **ポテトチップス** (02/20 06:17): 何
-- **じゃがりこ** (02/20 06:17): いける？
-- **ポテトチップス** (02/20 06:18): まだ
-- **ポテトチップス** (02/20 06:18): ゆうせいは？　
-- **じゃがりこ** (02/20 06:19): わからん
-- **ポテトチップス** (02/20 06:20): ゆうせい児童会よね？
-- **じゃがりこ** (02/20 06:20): うん
-- **ポテトチップス** (02/20 06:24): てかりゅうやまじうざい
-- **じゃがりこ** (02/20 06:24): それな 
-- **じゃがりこ** (02/20 06:26): おれまりんぱいっとていい？
-- **ポテトチップス** (02/20 06:30): まだ
-- **ポテトチップス** (02/20 06:31): 宿題まだ
-- **じゃがりこ** (02/20 06:35): いっていい？ 
-- **じゃがりこ** (02/20 06:38): いくね
-- **釈迦ポテ** (02/20 06:50): あんま本名書かないほうがいいんじゃない？
-- **釈迦ポテ** (02/20 06:51): 本名か知らんけど
-- **ポテトチップス** (02/20 06:54): 誰？
-- **じゃがりこ** (02/20 07:35): 何だったっけ 
-- **ポテトチップス** (02/20 08:10): 芋ポテト
-- **ポテトチップス** (02/20 08:13): はいってのとこ
-- **ポテトチップス** (02/20 08:24): 来てクレメンスの下
-- **yusei** (02/20 08:45): 今かえってきた 
-- **yusei** (02/20 08:46): たいち
-- **yusei** (02/20 08:46): りつき
-- **しろちゃん** (03/13 07:54): 入ってーhttps://padlet.com/29200151/padlet-qljpcqw6hnd7sww9
-
-#### リアクション
-- **絵文字:** 👍 (8)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/06 01:32
-- **更新日（UTC）:** 01/06 01:32
-
----
-
-### 64. きて
-**作成者:** さん (r0200328)
-
-[添付ファイル 1](https://padlet.com/r0200328/padlet-bl9rcgrbmd56wjjx)
-
-#### コメント (12)
-- **ピロ** (10/26 11:58): 良ければ来てくださいhttps://padlet.com/s1802749/2217810
-- **ピロ** (11/02 01:34): ここから入ってくださいhttps://padlet.com/sy_6_6_6_6/padlet-lvg8lvhdwx2v9fif
-- **ゴッティ** (11/17 01:42): ２年３組の男子
-- **やまｄア** (12/01 02:50): パスワードは
-- **shiratama1357** (01/07 23:53): https://padlet.com/shiratama1357/ban-fzgu9p9rb2j2q9sm
-- **削除済みユーザー** (01/08 08:37): 来てね
-- **削除済みユーザー** (01/08 08:38): https://padlet.com/gohannoisii/padlet-wel7ftb24rx8cdn1
-- **梨ノ丞** (01/13 02:36): https://padlet.com/h4619109/padlet-2idgmzcmqqz8b3gy
-- **削除済みユーザー** (01/13 02:36): https://padlet.com/Torimomo12345678910/padlet-pbwlifvol0r5hzrm
-- **梨ノ丞** (01/13 02:37): 絶対来てくださいみんなが来てゲームを貼り付けてくれると最高な部屋が完成するぞ＾
-- **梨ノ丞** (01/13 02:37): あなた来てください
-- **削除済みユーザー** (01/19 12:40): https://padlet.com/fawefwt123451234/padlet-avu9w4vz37yzwkp4きれ
-
-#### リアクション
-- **絵文字:** 👎 (4) 👍 (1)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/19 00:14
-- **更新日（UTC）:** 02/10 06:42
-
----
-
-### 65. はいって
-**作成者:** 芋ポテト (s2112078_1)
-
-[添付ファイル 1](https://padlet.com/s2112078_1/padlet-bqyj1d7a89cs3om2)
-
-#### コメント (41)
-- **ポテトチップス** (02/20 07:06): よろしく
-- **yusei** (02/20 08:47): よろ
-- **yusei** (02/20 08:48): たいち？
-- **yusei** (02/20 09:06): おーい
-- **yusei** (02/20 09:06): みんな
-- **ポテトチップス** (02/20 09:35): 😖凛月がまだ入ってない？
-- **ポテトチップス** (02/20 09:36): おーい
-- **yusei** (02/20 09:41): 桃鉄できるよー！
-- **yusei** (02/20 09:41): 今から喋れる？
-- **yusei** (02/20 09:44): 風呂掃除と洗濯物畳んどったごめん
-- **yusei** (02/20 09:47): たいち 
-- **yusei** (02/20 09:47): 喋ろうやー
-- **yusei** (02/20 09:58): 祐誠だって
-- **yusei** (02/20 10:04): りつきはよはいってこんかね？
-- **yusei** (02/20 10:09): 桃鉄のやり方教えようか？
-- **ポテトチップス** (02/20 10:57): 桃鉄教えて
-- **ポテトチップス** (02/20 10:56): 喋ろう
-- **ポテトチップス** (02/20 11:03): うざい人いって
-- **ポテトチップス** (02/20 11:06): ごめん今から風呂🛀入る
-- **祐誠** (02/20 11:12): おけ
-- **祐誠** (02/20 11:16): りゅうや
-- **祐誠** (02/20 11:30): 学校で教える
-- **祐誠** (02/20 11:36): あともう一個見つけたけん学校で教えるわ
-- **祐誠** (02/20 12:10): たいち
-- **祐誠** (02/20 12:10): おーーーーーーーーーーーーーーーーーーい
-- **じゃがりこ** (02/20 21:20): あ
-- **祐誠** (02/20 22:19): 何しとったんな
-- **祐誠** (02/20 22:31): おはー
-- **じゃがりこ** (02/21 22:59): おはー 
-- **ハロー祐誠だよー** (02/22 10:29): 　何をしてんのー？
-- **ハロー祐誠だよー** (02/22 10:30): たいちとりつき 
-- **ハロー祐誠だよー** (02/22 10:32): おーい
-- **ハロー祐誠だよー** (02/22 10:32): なんで無視するん
-- **じゃがりこ** (02/23 09:17): おい
-- **釈迦ポテ** (02/23 11:36): ここで雑談しないでもろて
-- **じゃがりこ** (02/23 22:40): たまれ 
-- **ポテトチップス** (02/23 22:47): ありがとう
-- **Tomokun_0531** (05/26 06:56): なにこれ
-- **Tomokun_0531** (05/26 06:57): おも
-- **Tomokun_0531** (05/26 06:57): ろいのか
-- **Tomokun_0531** (05/26 06:57): な
-
-#### リアクション
-- **絵文字:** 👍 (7)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 11/08 09:49
-- **更新日（UTC）:** 11/08 09:49
-
----
-
-### 66. きてね
+### 61. きてね
 **作成者:** 削除済みユーザー
 
 [添付ファイル 1](https://padlet.com/aoidazo/padlet-w7muc3nydjtp8s8d)
@@ -13696,7 +10469,7 @@
 
 ---
 
-### 67. 来てね
+### 62. 来てね
 **作成者:** 萎えきらめきペンギン (iceland1464)
 
 [添付ファイル 1](https://padlet.com/23tyr5051_2/padlet-26cw6auehscs1y1b)
@@ -13708,13 +10481,13 @@
 
 ---
 
-### 68. 来てね
+### 63. 来てね
 **作成者:** Re Ball Bar クッキー　やったー民　＃猫信者　第四使徒　元(略して ん部ぎ ) (akymjxm)
 
 [添付ファイル 1](https://padlet.com/Kouyousitemasu/padlet-41jxnfchlh3s0ch)
 
 #### リアクション
-- **絵文字:** 👎 (2) 👍 (1)
+- **絵文字:** 👎 (2) 👍 (2)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
@@ -13723,7 +10496,7 @@
 
 ---
 
-### 69. 来てにゃ
+### 64. 来てにゃ
 **作成者:** NARITATI (678199375582)
 
 [添付ファイル 1](https://padlet.com/padlets/g985gladr9idst24)
@@ -13735,21 +10508,7 @@
 
 ---
 
-### 70. ここ来て
-**作成者:** ｸﾎﾞ ｲｯﾀ (2021s3012)
-
-<p>俺の仮垢の部屋</p>
-
-[添付ファイル 1](https://padlet.com/padlets/i76nom5zfqv7fvph)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/16 03:15
-- **更新日（UTC）:** 10/16 03:15
-
----
-
-### 71. ここ入って
+### 65. ここ入って
 **作成者:** ｸﾎﾞ ｲｯﾀ (2021s3012)
 
 [添付ファイル 1](https://padlet.com/kuboota2020/padlet-i76nom5zfqv7fvph)
@@ -13761,7 +10520,7 @@
 
 ---
 
-### 72. 投稿 72
+### 66. 投稿 66
 **作成者:** ぐるぐるまっきー (guruma_cancelESTA)
 
 [添付ファイル 1](https://padlet.com/Sphere_sqyral/sphere-internet-nwvvrainlyoerqs2)
@@ -13776,7 +10535,7 @@
 
 ---
 
-### 73. 受付
+### 67. 受付
 **作成者:** Re Ball Bar クッキー　やったー民　＃猫信者　第四使徒　元(略して ん部ぎ ) (akymjxm)
 
 [添付ファイル 1](https://padlet.com/akymjxm/padlet-btkwakgxc9xm2eey)
@@ -13791,7 +10550,7 @@
 
 ---
 
-### 74. 投稿 74
+### 68. 投稿 68
 **作成者:** おなべさん(新垢 (minecrft)
 
 <p>前の垢死んだのでリメイクしてまた別のボード出しました(パクリではないです</p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/minecrft/padlet-yg0be6dfn0c2ud5x">https://padlet.com/minecrft/padlet-yg0be6dfn0c2ud5x</a></p>
@@ -13808,7 +10567,7 @@
 
 ---
 
-### 75. 部屋に入ってくれぇぇ
+### 69. 部屋に入ってくれぇぇ
 **作成者:** 削除済みユーザー
 
 [添付ファイル 1](https://padlet.com/pakkudaze2/padlet-21hwqxsd082lkeyf?lang=ja)
@@ -13823,7 +10582,7 @@
 
 ---
 
-### 76. 入ってくださーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー医
+### 70. 入ってくださーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー医
 **作成者:** 芋ポテト (s2112078_1)
 
 [添付ファイル 1](https://padlet.com/s2112078_1/proxy-njqphc4t36l34h4r)
@@ -13841,22 +10600,7 @@
 
 ---
 
-### 77. この部屋 絶対入れ
-**作成者:** さん (r0200328)
-
-[添付ファイル 1](https://padlet.com/yakinikudaisuki/padlet-5iw0a47tr9fbxzgo)
-
-#### コメント (1)
-- **やまｄア** (12/01 02:50): 入れない
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/19 08:07
-- **更新日（UTC）:** 10/20 10:12
-
----
-
-### 78. 雑談しましょ～
+### 71. 雑談しましょ～
 **作成者:** 戦闘機に乗って世界征服しようとしているかわいいお化け　実はこのお化け可愛いけど人間を恨んでいる。（うらめしや～） (url5)
 
 <p>荒したらすぐにコメントを消しますよー</p>
@@ -13877,7 +10621,7 @@
 
 ---
 
-### 79. 投稿 79
+### 72. 投稿 72
 **作成者:** なべさん (nabesann)
 
 [添付ファイル 1](https://padlet.com/padlets/e2gzibya2mo6fbkx)
@@ -13893,7 +10637,7 @@
 
 ---
 
-### 80. 投稿 80
+### 73. 投稿 73
 **作成者:** 芋ポテト (s2112078_1)
 
 <p>たのむ</p><p><br/></p>
@@ -13911,7 +10655,7 @@
 
 ---
 
-### 81. 人狼やりたい人がいれば
+### 74. 人狼やりたい人がいれば
 **作成者:** ゾン (zon1212134)
 
 [添付ファイル 1](https://padlet.com/zon12345678912/padlet-kbb2xgemj4ggngsi)
@@ -13926,7 +10670,7 @@
 
 ---
 
-### 82. 俺のとこじゃないけど来てみてえぇ
+### 75. 俺のとこじゃないけど来てみてえぇ
 **作成者:** バンダナわどるど Xx-tucasanz-xX りおと53番弟子　りおと族27代目 (gs203418)
 
 [添付ファイル 1](https://padlet.com/gs183656/padlet-xx1vbfiwgm71hfum)
@@ -13950,19 +10694,7 @@
 
 ---
 
-### 83. お願いします投稿だけでいいので入ってください
-**作成者:** さん (r0200328)
-
-[添付ファイル 1](https://padlet.com/r0200328/padlet-bl9rcgrbmd56wjjx)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/01 09:46
-- **更新日（UTC）:** 07/01 09:46
-
----
-
-### 84. 投稿 84
+### 76. 投稿 76
 **作成者:** 帰ってきたぴかコン (aru25)
 
 <p><a rel="noopener noreferrer nofollow" href="https://padlet.com/gsTKG/padlet-etppqiz3tfw37bkw">クラスルーム　　　　　　　　　　　　　　　　　　　マエスケのプロキシ部屋</a></p>
@@ -13980,7 +10712,7 @@
 
 ---
 
-### 85. 投稿 85
+### 77. 投稿 77
 **作成者:** 帰ってきたぴかコン (aru25)
 
 [添付ファイル 1](https://padlet.com/gsTKG/padlet-vf1wejw52tyluuun)
@@ -13998,7 +10730,7 @@
 
 ---
 
-### 86. 入ってください
+### 78. 入ってください
 **作成者:** 海軍 情報科 上等兵 (azsre_0516)
 
 [添付ファイル 1](https://padlet.com/azsre_0516/proxy-nqm7sfv8c0p1mizf)
@@ -14013,17 +10745,7 @@
 
 ---
 
-### 87. ゲーム部屋ください
-**作成者:** 海軍 情報科 上等兵 (azsre_0516)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/15 10:09
-- **更新日（UTC）:** 06/15 10:09
-
----
-
-### 88. きて
+### 79. きて
 **作成者:** 【超低浮上】Mr.k廃人 (misutaakeehimazin)
 
 [添付ファイル 1](https://padlet.com/riotodayo1/padlet-6hjexb3agfzt12eg)
@@ -14035,52 +10757,7 @@
 
 ---
 
-### 89. なるべくはやくゲーム部屋ほしいです
-**作成者:** 海軍 情報科 上等兵 (azsre_0516)
-
-#### コメント (5)
-- **海軍 情報科 上等兵** (06/14 09:56): naidesuka_
-- **山田祥伍** (06/29 05:11): サイトじゃダメ？
-- **山田祥伍** (06/29 05:11): https://aj.global.ssl.fastly.net/g/
-- **山田祥伍** (06/29 05:11): https://www.yoosfuhl.com/games
-- **山田祥伍** (06/29 05:12): https://www.culinaryschools.org/kids-games/watermelon-game/
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/13 08:09
-- **更新日（UTC）:** 06/13 23:34
-
----
-
-### 90. 雑談ほしいです
-**作成者:** チンされたチキン‼（チンチキって呼んでね） (chinchiki)
-
-#### コメント (13)
-- **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (05/24 06:29): 俺の本名　堀内善太
-- **帰ってきたぴかコン** (05/25 10:51): あああ
-- **Affectionate Parrot** (05/26 12:30): おにぎりの部屋のリンク誰か貼ってくださいな
-- **ゴッティ** (06/04 02:02): https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm/wish/lkROZP139GDLWjMg
-- **ゴッティ** (06/04 02:03): https://padlet.com/5054992_1/padlet-3280vr2ds8d3hmog/wish/goElQyRv718vZ3yY
-- **教師の敵** (06/05 06:58): こんにちは
-- **教師の敵** (06/05 06:58): こんにちは
-- **教師の敵** (06/05 06:58): こんにちは
-- **教師の敵** (06/05 06:58): こんにちは
-- **えのきだけ** (06/11 11:58): 2025年の予言「2025年 第3次世界大戦 yahooニュース」って調べたら出てくるよ（俺が試したのはgoogle)
-- **削除済みユーザー** (06/12 01:34): こんにちは！冷風ゞ小月です！
-- **帰ってきたぴかコン** (06/12 07:53): Gmail　　　　　　　　　　　煮物のproxyなどを共有する部屋
-- **匿名おるふぇ 馬刺し** (08/31 14:33): https://padlet.com/sakuramoti/padlet-r7ifh7xgdqu76cnr
-
-#### リアクション
-- **絵文字:** 👍 (3) 👎 (2)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/24 04:21
-- **更新日（UTC）:** 05/24 04:21
-
----
-
-### 91. プロキシをたくさん積めた部屋です
+### 80. プロキシをたくさん積めた部屋です
 **作成者:** ふい (ayumida)
 
 [添付ファイル 1](https://padlet.com/ayumida/proxy-vlftfqmnc3pag4gy)
@@ -14095,7 +10772,7 @@
 
 ---
 
-### 92. 代わりに貼るね
+### 81. 代わりに貼るね
 **作成者:** 𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ (Helter_Skelter)
 
 [添付ファイル 1](https://padlet.com/motii/padlet-maghs0t95s0d53nf)
@@ -14112,7 +10789,7 @@
 
 ---
 
-### 93. 代わりに貼っておくね
+### 82. 代わりに貼っておくね
 **作成者:** 𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ (Helter_Skelter)
 
 [添付ファイル 1](https://padlet.com/aomushi1073/padlet-o5wvs28mt7hdifyo)
@@ -14124,7 +10801,7 @@
 
 ---
 
-### 94. 来て
+### 83. 来て
 **作成者:** さくとなんだ今も無差別荒らし (143_16543)
 
 [添付ファイル 1](https://padlet.com/20213919_3/padlet-sjy30qfmacq4hq2e)
@@ -14141,7 +10818,7 @@
 
 ---
 
-### 95. きてね
+### 84. きてね
 **作成者:** Aya220628 (karapiti22)
 
 [添付ファイル 1](https://padlet.com/padlets/3a5dxtz2cn5gzs9t)
@@ -14171,7 +10848,7 @@
 
 ---
 
-### 96. 投稿 96
+### 85. 投稿 85
 **作成者:** 海軍 情報科 上等兵 (azsre_0516)
 
 [添付ファイル 1](https://padlet.com/azsre_0516/padlet-xgrcz8fuyxrg243l)
@@ -14188,167 +10865,5 @@
 - **投稿のカラー:** ホワイト
 - **作成日（UTC）:** 04/09 10:58
 - **更新日（UTC）:** 04/09 10:58
-
----
-
-## セクション10
-
-### 1. 投稿 1
-**作成者:** ABC (3150mann)
-
-[添付ファイル 1](https://padlet.com/h1117003/2025-w47x7edte4wiyhf8)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 12:11
-- **更新日（UTC）:** 06/28 12:11
-
----
-
-### 2. いん
-**作成者:** イノシシ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 08:15
-- **更新日（UTC）:** 06/27 08:15
-
----
-
-### 3. こん
-**作成者:** 規制 (2101009_7)
-
-<p>規制にかからないプロキシ</p><p>教えてください</p>
-
-#### コメント (3)
-- **規制** (06/25 23:49): ワールドカップ見てる
-- **はにわ** (06/26 01:31): 俺に教えて
-- **伊藤です** (06/26 01:59): nhkみるんよ
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 04:09
-- **更新日（UTC）:** 06/25 04:09
-
----
-
-### 4. きて
-**作成者:** れいり
-
-[添付ファイル 1](https://padlet.com/18jt026/padlet-r0s4uvog2j2ur720)
-
-#### コメント (1)
-- **ヒビキネ** (06/26 06:38): https://sfasoftballcamps.com/
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/24 11:49
-- **更新日（UTC）:** 06/24 11:49
-
----
-
-### 5. 約40000
-**作成者:** ｸﾎﾞ ｲｯﾀ (2021s3012)
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/1bbcbb1b15f56af284531d92160b695a/IMG_1029.jpeg?Expires=1783313867&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UV7pg9dj%2BV641iZk0gHEW%2BUNyVM3rGlGg4Mhfq3NyNwO9V93uT63uje9H9Agvb8tNHEaW8yvUoJ5%2Fgg%2BiJMTi4W6rw012ONp9h1OiFGfazZoU%2B%2BR%2BAFrHD2qAp5IduOoWwbfGGn1gJ9ph6ROZAq6he5uMouhrexDJGOVPCFprMyUgOWdtrD8OjDfYKEV4YK4KAl4rgAZ5a6Vzv2A4w4nOs38qnJPAbGyqCfH9xCjW19cPp0eK2gGn%2FeBIKgLqjVsMItukdz65gqTIpqSNT6%2Fzi%2B5LZWBLFbXPMZA9d0P3u38pkIQIASoqsH%2FHJ6gzFXRI6ZrCZAwhsQfCU0fpYJVtA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2F1bbcbb1b15f56af284531d92160b695a%2FIMG_1029.jpeg)
-
-#### コメント (22)
-- **L** (11/30 11:54): 「ｋ→ｓ💕」へ　雪論
-- **おつかれーろおつからー** (01/19 00:53): 誰か捨てメアドください！パスワードもお願いします！
-- **ごりら** (01/20 00:26): 捨てメアド？
-- **ごりら** (01/20 00:27): いいですよ！
-- **ごりら** (01/20 00:27): mjk
-- **ごりら** (01/20 00:27): だれかぁ
-- **ごりら** (01/20 00:27): 捨てメアドください！
-- **ごりら** (01/20 00:28): ちんちん見せるのでw
-- **Anonymous** (01/20 02:10): 厳しいって
-- **うんこちんこまんこ撲滅しない委員会💛** (02/13 11:34): うんこすぎ
-- **しね** (02/13 11:41): エロいやつどうやってするの？
-- **しね** (02/13 11:41): えろいさいとどうやってひらくの？
-- **エロい撲滅委員会** (02/17 00:35): エロ過ぎて滅
-- **Calm Cricket** (02/17 04:13): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
-- **XminionQWQ** (03/27 05:44): sutemeado ageru
-- **XminionQWQ** (03/27 05:44): gaburiasu@gmail.com
-- **XminionQWQ** (03/27 05:45): takeruniki1@121974gmail.com
-- **XminionQWQ** (03/27 05:45): これで満足か？
-- **クモノミネ** (05/05 07:44): ステメアドぐらい自分で作れよ
-- **車好き** (06/27 01:07): 22170078@kago.ed.jp
-- **車好き** (06/27 01:08): Bey07120 
-- **車好き** (06/27 01:09): 捨てメアドとぱすわーdp 
-
-#### リアクション
-- **絵文字:** 👎 (5) 👍 (3)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/25 11:36
-- **更新日（UTC）:** 10/25 11:36
-
----
-
-### 6. 38817
-**作成者:** ｸﾎﾞ ｲｯﾀ (2021s3012)
-
-<p>かってに作って良かったかな？</p>
-
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4087042941/b0aa46b1db5b56d7f3d97fe52192f4ce/IMG_1006.jpeg?Expires=1783313867&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2HlAbV1Lcue945YXQpHNn%2BEviryBerXG9bj5%2BSWrZUE%2FYe0B5a2MbC5TfC07Wl5HZkYB4l3oFiYQRepSaQt5nGMEqWft9Izo%2F7IDq9OBkryewMvf70a5jHZMnTnFC7lil%2BkRsYXPONrB2%2B1%2BQOHk2SoCEf7M4EPtsETOicnTARfzB8qicHl5XcmKglCT7pcXmSbIaqW7yDff87CAXf0BEo5vwznNZQ5CoAkhTvgmasx18hil8IrMqn3p3ZDmYA0R37zL4bw0%2BY8Gy7sotm3lpFFPdtugoykWJQU7QM%2BCl4oirK6WtVtF%2BDA9EzZoMudhKwacwKin7t1NnWBw3wAM8A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4087042941%2Fb0aa46b1db5b56d7f3d97fe52192f4ce%2FIMG_1006.jpeg)
-
-#### コメント (48)
-- **series227urara 岡山行** (10/15 13:04): なにが？
-- **ｸﾎﾞ ｲｯﾀ** (10/16 03:06): 観覧数
-- **ｸﾎﾞ ｲｯﾀ** (10/16 03:09): なぜか
-- **ｸﾎﾞ ｲｯﾀ** (10/16 03:09): セクション10に名前変わってた
-- **ｸﾎﾞ ｲｯﾀ** (10/16 03:09): たまにバグる
-- **ｸﾎﾞ ｲｯﾀ** (10/20 22:43): 誰か閲覧数にしといて
-- **猫耳** (12/25 01:35): YouTubeみたい
-- **猫耳** (12/25 01:35): ゲームもしたい
-- **おうが** (02/16 00:52): YouTubeが見れるサイト教えて欲しい
-- **もち** (02/17 00:54): いく
-- **Calm Cricket** (02/17 04:13): https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
-- **りーさん** (02/20 01:16): https://bro.freetls.fastly.net/app/Online%20Games%20io/
-- **4649** (02/20 02:53): 学校の人うざい
-- **4649** (02/20 03:02): YouTube見たい
-- **たろうくん** (02/20 03:27): たしかしたかしのしょつぴんぐー 
-- **4649** (02/20 03:28): よろしく
-- **Anonymous Koala** (02/20 03:31): たしかしたかしの宇宙旅行✈️✈️✈️✈️✈️
-- **たろうくん** (02/20 03:38): たしかしたかしの卒業式🧑‍🎓👩‍🎓🎓
-- **4649** (02/20 03:42): たしたしたかしのおおすぎ
-- **タロウくん** (02/20 05:07): たしかしたかしの校外学習 
-- **タロウくん** (02/20 05:07): たしかしたかしの指パッチング 
-- **ポテトチップス** (02/20 05:07): あ
-- **ポテトチップス** (02/20 06:25): は何を言っとん
-- **ポテトチップス** (02/20 11:05): やる
-- **た⭕️ち撲滅委員会** (02/24 02:39): ポテトチップスの本名言います。
-- **Eager Ocelot** (02/24 02:40): ポテトチップスの本名言います。321
-- **Eager Ocelot** (02/24 02:40): ポテトチップスの本名言います。321
-- **Eager Ocelot** (02/24 02:40): 松⭕️大⭕️
-- **Happy Iguana** (02/24 02:49): 松本大知
-- **Happy Iguana** (02/24 02:50): しかもこれで俺の悪口を言っているクソ野郎です。
-- **Happy Iguana** (02/24 02:50): そうよねポテトチップス（松本大知）
-- **Shy Kangaroo** (02/24 23:13): このボード個人情報書かんといて個人情報か分からんけど作った人消して
-- **Yusho** (02/26 23:50): 個人情報を晒すことだけでしか愉悦を感じることができない可哀想な人
-- **リア充撲滅委員会** (02/27 05:15): アカウント名出すよ
-- **リア充撲滅委員会** (02/27 05:16): おまえの
-- **ちん子なかだし** (02/27 05:18): リア充撲滅委員会のアカウント名出すよ
-- **匿名** (02/27 05:18): いいよ
-- **削除済みユーザー** (02/28 06:06): みてみhttps://padlet.com/21061014_1/padlet-jj0swpeoyvn7eoct
-- **改造寺蒼波喰** (03/12 00:24): わかめtubehttps://loilonote-wk34.onrender.com/wkt
-- **しろちゃん** (03/12 08:58): https://padlet.com/29200151/padlet-qljpcqw6hnd7sww9
-- **だれやねん** (04/15 07:46): ちん
-- **H大好き** (05/08 09:49): まんこのしゃしんおくって
-- **ユキマド** (05/11 04:54): 学校でユウチューブ群れるサイト送って
-- **トワノネ** (05/11 05:51): 俺様からもおねがい
-- **YAA＿＿** (05/29 04:39): しってるよ
-- **こんにちは** (05/31 01:10): どうやってできるの
-- **Anonymous** (06/16 04:35): https://chocotube-plus-production.up.railway.appこれで見れるよん
-- **匿名** (06/18 11:54): みれなかった
-
-#### リアクション
-- **絵文字:** 👎 (3) 👍 (1)
-
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/13 11:32
-- **更新日（UTC）:** 10/13 11:32
 
 ---
