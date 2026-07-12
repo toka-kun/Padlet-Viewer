@@ -1,4 +1,4 @@
-最終取得: 2026/07/12 23:05:15
+最終取得: 2026/07/13 00:12:26
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 152
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jul 12, 2026 11:59am
+- **Updated At (UTC):** Jul 12, 2026 02:41pm
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -3357,7 +3357,7 @@
 ---
 
 ### 145. 誠意大将軍の雑談部屋
-**Author:** 親リムーバー（masakik） (masakik_)
+**Author:** 受験生のｳｪｻﾞｴﾓﾝ（masakik） (masakik_)
 
 <p>僕の部屋ではみんなが雑談している部屋にしたいです。</p><p>只今無料開放中です！ライター権限の申請は必要ありません！</p><p>※部屋で投稿やコメントした時点でコラボレーター入りさせていただきます。</p><p>また、今なら高頻度の浮上ができる人のみ希望者はモデ・管理者権限を付与できます！</p><p>ぜひ来てね～</p>
 
@@ -3453,7 +3453,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1784469927&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EItm%2Fs2NfjodIKAAJYfsc6fIJqqZ6nUbGb0w%2F0HZyMETauqExxdT%2F5s6tf%2Fi58DfejLvAF2Jxispr7NbEktLpYAyeff%2FnKkYSO9KgYIdoZJFOA6XUswe7msUcKgbpNw5nm4%2B4KYk0m1Aq7NTdQVrL2bee%2FlYyLs1kBJuL1F7XVu%2F6eY2M4nfaGfSwD%2FNHPjC6eAT6L3QCoi5zUIx%2Bxa7mm3J0yIWOGpImcVudBzEy8mHF0np%2FAqBCSvd2NpilQXUItd8g22IPrlRTqa60DtROhzjtQPzB74SzDp7Wv6CkiR%2FBHK4T1HHOmhQgH9jYXAGdiUXiAseDgTxw37XgkYX4Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1784473957&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=F19tm82bQgs44mYiWWHHCTHpDghFkzxevlVCXGDkBogjenyzyHKMNLK8GeXPGUu5OlBsJdYdETIe7ak%2FSbarp0psLtZHZXT8%2FKMUKcSsIPs9f6WSDJtgHOfawYg7PkUjqM55Oe7qBLD02Qbs2lO8xfQ30%2BPdZLOj9pkn7r63zPwL23jXIBsnVAXZHZLLJnBXUlggrW5w0RzlkY7I5q3Qb6tXhM5R2mcfQ8x02uBfAhWWUINgjx8f7%2BU1kF9px3bfxHZnZBfCISmtD9MyHf2HC3EBQdvqMsaxd0US5AGo7zI2S4tWjpTWGYvu9ek6Py7ku3dcKXe4k7SDRTdxjypbpg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
