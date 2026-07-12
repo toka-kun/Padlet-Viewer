@@ -1,4 +1,4 @@
-最終取得: 2026/07/12 13:42:14
+最終取得: 2026/07/12 15:37:43
 
 # Padletポータルワールド
 
@@ -19,7 +19,7 @@
 <ul><li><p><strong><mark>自分の部屋のみ</mark>投稿して下さい。</strong></p></li><li><p><strong>自分の部屋であれば複数<mark>投稿してもOK</mark>です。</strong></p></li><li><p><strong>時間が経って自分の投稿が埋もれてしまっても、<mark>一週間経てば同じ部屋を再投稿可能</mark>です。また、その場合は管理者が過去の同じ投稿を消しておきます。</strong></p></li><li><p><strong>Padletの規約に反する部屋や、こちらで不適切だと判断した投稿は見つけ次第削除します。</strong></p></li><li><p><strong>多少の誤字などであればこちらで修正します。</strong></p></li><li><p><strong>AIに引っ掛かって承認待ちになっても人の目でもう一度確認するので安心して下さい。</strong></p></li><li><p><strong>「過疎ってるから来て」などと言うのではなく、<mark>その部屋の良さを誠実に書いた方が人は来てくれます</mark>。</strong></p></li><li><p><strong>何を書けば良いのか分からない場合は、サンプルを参考にして下さい。</strong></p></li></ul>
 
 #### Comments (1)
-- **1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ族族長** (Jun 19, 2026 11:54pm): わかりました！
+- **1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩** (Jun 19, 2026 11:54pm): わかりました！
 
 #### Reactions
 - **Emojis:** ❤️ (5)
@@ -268,7 +268,7 @@
 ---
 
 ### 9. 三代目みんなで共有しよう
-**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ族族長 (TOKYO874321Forsaken)
+**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
 
 <p>二代目は荒らされました。カバーの文字のとおりです。みんな来てください。お願いします。あとフォローお願いします。まだ復活したばっかなんで全然閲覧数とかないですけどみんな入ってほしいです。</p>
 
@@ -430,7 +430,7 @@
 ---
 
 ### 16. Proxy革命軍
-**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ族族長 (TOKYO874321Forsaken)
+**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
 
 <p>たくさん人がいるよ！ゲームもProxyもユーチューブもたくさんあるよ！オーナーがすごい優しくてすぐ仲良くなれると思うよ！</p>
 
@@ -631,7 +631,7 @@
 ---
 
 ### 25. みんなで雑談しよう
-**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ族族長 (TOKYO874321Forsaken)
+**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
 
 <p>出来立てですがみんなで仲良く楽しく雑談する部屋だよ</p>
 
@@ -985,7 +985,7 @@
 ---
 
 ### 40. ２代目みんなで共有しよう！
-**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ族族長 (TOKYO874321Forsaken)
+**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
 
 <p>最強プロキシや、最強のYouTubeダウンローダー、ゲームもたくさんあります！ぜひ来てください！みんなで楽しく仲良く色々共有しましょう！</p>
 
@@ -1386,7 +1386,7 @@
 ---
 
 ### 57. みんなで共有しよう2
-**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ族族長 (TOKYO874321Forsaken)
+**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
 
 <p>プロキシ、YouTube（ダウンローダーも）、ゲーム、SNSダウンローダー色々あるよみんな来てね（受付）</p>
 
@@ -3453,7 +3453,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1784436145&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wO68dENv6bqWBpSrqHVg4XNZdmIADoAVDfcVc8QCLeZnFOEACOx04BsLshzita7UIaqFGAiyQd98%2FWV39IPIez1DQeAtC8eW9YUlBvJIcFrPijslxGUv2%2Fe3d7ZkO2JWanvflLFaZdV5qVjFU8aF4nD6UtQA%2F2wH2YNdtwNF%2F31f1iXxzqCgE3ONJapVics%2FmcH5fA5VWQwCeOLmY15Z8MfkwLQXdT%2BT7WcMHtUjujypknbeByAx4nCWrrUBq4VkChi1dwvJ%2FATgdECYbNmAYeF6PSMou1A39HAEpaebnIJid6bVNMRnH4J7DAN%2B1m3uQJbvvrxbpRjQcredBDs77w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1784443074&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Qw31lRd%2F2M4rNOK2oqINsb7Q91or0JHk0nuTLKtQXUyQazxJ7%2FvNJqp3ulaQmJckdSdCwo32QtOHr4UpheNVt1zWifz8%2BMoxORhQiwMGU86l6fgAdOjbCWLTInXNQj3RungVL3f1Ec7bZtCGzYASl1X0jZU0g%2FvSyJ5YXSZtEHzAQGimL7stPhnNFwEVqn6qdD2qfvKvpcStYc2kA3lIwon%2FerNFgDLCS9PHIv4PDWbF7%2F2FWOKRZ%2BVUcyRUu3xl%2BZ%2BAv%2FHm3U0vg7FcgvqT8cmH4IMnnN%2Ff528AOJaF0QjXoOHkcxtsG5T3cOPGpJxin4ZAVEikOkH2liUc0mr9dg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
