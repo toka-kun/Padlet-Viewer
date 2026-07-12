@@ -1,4 +1,4 @@
-最終取得: 2026/07/12 10:13:24
+最終取得: 2026/07/12 12:47:55
 
 # Padletポータルワールド
 
@@ -19,7 +19,7 @@
 <ul><li><p><strong><mark>自分の部屋のみ</mark>投稿して下さい。</strong></p></li><li><p><strong>自分の部屋であれば複数<mark>投稿してもOK</mark>です。</strong></p></li><li><p><strong>時間が経って自分の投稿が埋もれてしまっても、<mark>一週間経てば同じ部屋を再投稿可能</mark>です。また、その場合は管理者が過去の同じ投稿を消しておきます。</strong></p></li><li><p><strong>Padletの規約に反する部屋や、こちらで不適切だと判断した投稿は見つけ次第削除します。</strong></p></li><li><p><strong>多少の誤字などであればこちらで修正します。</strong></p></li><li><p><strong>AIに引っ掛かって承認待ちになっても人の目でもう一度確認するので安心して下さい。</strong></p></li><li><p><strong>「過疎ってるから来て」などと言うのではなく、<mark>その部屋の良さを誠実に書いた方が人は来てくれます</mark>。</strong></p></li><li><p><strong>何を書けば良いのか分からない場合は、サンプルを参考にして下さい。</strong></p></li></ul>
 
 #### Comments (1)
-- **1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵** (Jun 19, 2026 11:54pm): わかりました！
+- **1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ族族長** (Jun 19, 2026 11:54pm): わかりました！
 
 #### Reactions
 - **Emojis:** ❤️ (5)
@@ -125,7 +125,7 @@
 ---
 
 ### 3. 新カフート学校受付
-**Author:** へんてこぼっくす。 (taratyanlove)
+**Author:** 𝕬 𝖜𝖊𝖎𝖗𝖉 𝖇𝖔𝖝. (taratyanlove)
 
 <p>カフ学の後継部屋です。貫通持ちでも対処できるかも。絶対に雑談、拠点、避難所のリンクは他人に管理者の許可なく渡さないでください。</p>
 
@@ -198,7 +198,7 @@
 ---
 
 ### 6. へんてこ部屋受付(新)
-**Author:** へんてこぼっくす。 (taratyanlove)
+**Author:** 𝕬 𝖜𝖊𝖎𝖗𝖉 𝖇𝖔𝖝. (taratyanlove)
 
 <p>まだ過疎ですが人が集まる予定です。</p>
 
@@ -244,7 +244,7 @@
 ---
 
 ### 8. へんてこ部屋
-**Author:** へんてこぼっくす。 (taratyanlove)
+**Author:** 𝕬 𝖜𝖊𝖎𝖗𝖉 𝖇𝖔𝖝. (taratyanlove)
 
 <p>待ちにまった非公開部屋です。ルールは公開と変わりません。</p>
 
@@ -268,7 +268,7 @@
 ---
 
 ### 9. 三代目みんなで共有しよう
-**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵 (TOKYO874321Forsaken)
+**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ族族長 (TOKYO874321Forsaken)
 
 <p>二代目は荒らされました。カバーの文字のとおりです。みんな来てください。お願いします。あとフォローお願いします。まだ復活したばっかなんで全然閲覧数とかないですけどみんな入ってほしいです。</p>
 
@@ -430,7 +430,7 @@
 ---
 
 ### 16. Proxy革命軍
-**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵 (TOKYO874321Forsaken)
+**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ族族長 (TOKYO874321Forsaken)
 
 <p>たくさん人がいるよ！ゲームもProxyもユーチューブもたくさんあるよ！オーナーがすごい優しくてすぐ仲良くなれると思うよ！</p>
 
@@ -631,7 +631,7 @@
 ---
 
 ### 25. みんなで雑談しよう
-**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵 (TOKYO874321Forsaken)
+**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ族族長 (TOKYO874321Forsaken)
 
 <p>出来立てですがみんなで仲良く楽しく雑談する部屋だよ</p>
 
@@ -985,7 +985,7 @@
 ---
 
 ### 40. ２代目みんなで共有しよう！
-**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵 (TOKYO874321Forsaken)
+**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ族族長 (TOKYO874321Forsaken)
 
 <p>最強プロキシや、最強のYouTubeダウンローダー、ゲームもたくさんあります！ぜひ来てください！みんなで楽しく仲良く色々共有しましょう！</p>
 
@@ -1386,7 +1386,7 @@
 ---
 
 ### 57. みんなで共有しよう2
-**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵 (TOKYO874321Forsaken)
+**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ族族長 (TOKYO874321Forsaken)
 
 <p>プロキシ、YouTube（ダウンローダーも）、ゲーム、SNSダウンローダー色々あるよみんな来てね（受付）</p>
 
@@ -3453,7 +3453,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1784423614&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FjvhJ%2B6VrLN%2BQ%2FT7YU342IKLT3SwMhY475%2FalocrN87nbs35hOJ4zV2c%2F9i5qX8edEP0Qq2Rk6tiIYlsYnquFVfqqbH1AcS4c7sxwu65tqGrERZRjUE%2Fvp3O7aPV6Tkus259NKC1v9xQs4TKUvR7g0cydR%2BQOa5DsJwWkJEMqvqp8OtDlWaeNnINaBui%2Fn2%2BZeboJaNF2S0Z8LMrBTqywqMWMlLhFpxSU%2FfEupYjjTVkcu2wQ3lwFjpfoATC7I59Q2wXj4aRHIb4SbsEwdkytv57vhNvpClPMioQqniigwA8BVI83PL65XzU0DR7NKW8q%2FXvPNXb%2FX6NwVkvzpeYGA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1784432886&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GQgkWZoQY%2B0Y7IMMj5eJ9pJOJvCeZ1jf%2BFKm21m5fz5%2FSQuZojjJUmTRf0PSj3xKmcPQYExQdats3r4GLRdvX1HtcS8zNnU0yPrNsFd8sMuZ5AiLeDqJG8t7AgizubOuILaU0aT0tql9RBERTG%2FRrHBw9ofpd%2FudEgyPLgIK8IcK1zel%2Fmq9mHXpR5ay6lQePkpsTzf1XLFf5J1OgMjuURJDJn%2FjsnX%2Bpdhp3HEhcUfTKPY%2BMRuFozfBP9VbMdjEb8L08Zut94Efm558sEXgRpFuqpczrg4%2BpN2Hv19Fy9vi0ylh1%2BAYWvMr1cWJ1NzulmUuue3qDezgnBM679%2BViA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
