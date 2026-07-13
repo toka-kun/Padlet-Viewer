@@ -1,4 +1,4 @@
-最終取得: 2026/07/14 07:33:28
+最終取得: 2026/07/14 08:15:04
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 18
+- **Posts:** 19
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Jul 13, 2026 11:43am
+- **Updated At (UTC):** Jul 13, 2026 10:38pm
 
 ## ルール
 
@@ -78,12 +78,22 @@
 
 ---
 
-### 4. ティックトック
+### 4. じい
+**Author:** ヤドリギ
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 13, 2026 10:38pm
+- **Updated At (UTC):** Jul 13, 2026 10:38pm
+
+---
+
+### 5. ティックトック
 **Author:** 嶋勇󠄂人 (21920012)
 
 <p><br/></p><p><br/></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1784586843&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=u2U7ZJtLYju6h24qoiLQcbnukC3O2E5WPg%2BqE7%2FK6pRDr0HZEG1oIV0Z7t7MCKERDpQdf4go8hKW%2FA0TdC%2Fm5kOTMEZYz1OmRRd0rqmXwtqi67d4aH037tu12KnNK29%2B1JtqZSEGgSZfMJ3F%2FW2wn1bo5t2gLSfKcIY5uBBbkGkBu0oWa4IO1ScXLsLf8k2TiivwnO1DO2YtsFzLn42g51%2FT49f5MMmdPiI1ET9GStkCfYBR5nACVtppXTV9r94wcYAfpuHy1ivXUdvxvPFPIeLRrA86PmkdwZ4iH6WoCyRVgBE0esIomZ375jDPC19dDYT3L0RJNFVLTvm8rQdT3w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1784589343&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DFSyHnyx54lvwfrFEEuQP6LpV0ogTG6blx03u57JReAXi0OdSUafCKb1oXpP9m0JRNfpBmIBj9c6otuU4Uvd6Ncmn2rpgI4Kcxep9TFwNEfQ3pN4MyU2oUyMp03STgkkG64ufqXXdGrfuvfVxsVJZgpFnMvPaFEnD6q%2BVY5giXxrZApB5JEKkgCSCfoT9f34RopJb0gyp%2FyY5fYtjL5bvnoR%2BFr%2FMePEAJ8gPUk5ZkhlrZqEt9ElunE7ByAzkPq62goIr8XVCVc7YwvNHHhov%2BS8exodn7YDl300nIB4sA%2B4OCbIzOxGDtPJJcv5cDVlk8nzv%2Fo8ClG2hT1HZ0RaEQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Additional Information
 - **Post color:** Black
@@ -92,7 +102,7 @@
 
 ---
 
-### 5. こんにちはこれ開きたいんですけどブロックされますどうすればいいですか
+### 6. こんにちはこれ開きたいんですけどブロックされますどうすればいいですか
 **Author:** なしまる
 
 [Attachment 1](https://mess.eu.org/)
@@ -104,7 +114,7 @@
 
 ---
 
-### 6. こんにちは
+### 7. こんにちは
 **Author:** おんりーのふぁん (gs212336)
 
 #### Additional Information
@@ -114,7 +124,7 @@
 
 ---
 
-### 7. aiyueo
+### 8. aiyueo
 **Author:** カワスミ
 
 #### Additional Information
@@ -124,7 +134,7 @@
 
 ---
 
-### 8. 規制解除してくださいお願いします。
+### 9. 規制解除してくださいお願いします。
 **Author:** 川村茜寧 (22117257)
 
 #### Additional Information
@@ -134,7 +144,7 @@
 
 ---
 
-### 9. Post 9
+### 10. Post 10
 **Author:** ハイノヤマト (se21210122)
 
 <p>こんにちは</p>
