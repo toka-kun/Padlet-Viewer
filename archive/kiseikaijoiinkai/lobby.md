@@ -1,4 +1,4 @@
-最終取得: 2026/07/13 20:41:42
+最終取得: 2026/07/13 22:06:50
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 18
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Jul 13, 2026 05:13am
+- **Updated At (UTC):** Jul 13, 2026 11:43am
 
 ## ルール
 
@@ -83,7 +83,7 @@
 
 <p><br/></p><p><br/></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1784547736&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=appJ%2FjQb3oDGXubINPwGqKH6BQBBnfyVFx3VH4lHZM3sQyMnJdCBRCIsy2FxTAb2PKQa9pp4uvJ1nzgDXlQslzyVZK0UD5yF9IdO7nwMZKbTWwbUvKH7oajCJPbak5518DwRyOZzKkwbyZ%2Fsi6E06R8wqM5g7zZG3AMOMYCOJGQGuvvuXDon2t%2FrS0F6ONZZJMRZ8wJfOsrpkf7qMiIdZkru9QOhGBaP4JgAABYwuoezH1iyNrKnR88o4jSmRlRVNIWKRsXDcdY4yLHUKTqz8cRxvRQVuzYxNoiKXtlNurDevzEhNA8KVSsjXWi6w0kdDMoin0zobVZMQS0ohP06AQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1784552845&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=d2VohAmq09BOFolin5poGMD5Nlz%2B%2BlSoZNdxgyi2cww%2F3fUG%2FLiV%2BEdKSZIljx1FBWBcycwULB2pAt%2FrVV%2BJ0aCzZl9RMQ7gR4srkVrExUKbB6Yfeidf6%2BUiTZZc144cI72dBnYhGT%2FAPagF0E49FQs8VrBMTum7YhfUuTh9l%2BZxtqUQgvqDDq%2BR66H42aXHYuxHSKsnQrqDFJdjR3IG6M8UgTURjM6fwbTDHobefv%2BIuvnPCjEogUCEUffSvxYFMBUBrGCM%2BZCmTJJMxK%2BWSbE6tJ7Lkaw6kOEdhaZbfyV0dncca3xcpINLeaIjTqDx3civy7iMYao8Mefu%2BLVMfg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Additional Information
 - **Post color:** Black
