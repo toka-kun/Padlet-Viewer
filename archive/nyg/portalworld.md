@@ -1,4 +1,4 @@
-最終取得: 2026/07/14 06:32:24
+最終取得: 2026/07/14 07:12:48
 
 # Padletポータルワールド
 
@@ -19,7 +19,7 @@
 <ul><li><p><strong><mark>自分の部屋のみ</mark>投稿して下さい。</strong></p></li><li><p><strong>自分の部屋であれば複数<mark>投稿してもOK</mark>です。</strong></p></li><li><p><strong>時間が経って自分の投稿が埋もれてしまっても、<mark>一週間経てば同じ部屋を再投稿可能</mark>です。また、その場合は管理者が過去の同じ投稿を消しておきます。</strong></p></li><li><p><strong>Padletの規約に反する部屋や、こちらで不適切だと判断した投稿は見つけ次第削除します。</strong></p></li><li><p><strong>多少の誤字などであればこちらで修正します。</strong></p></li><li><p><strong>AIに引っ掛かって承認待ちになっても人の目でもう一度確認するので安心して下さい。</strong></p></li><li><p><strong>「過疎ってるから来て」などと言うのではなく、<mark>その部屋の良さを誠実に書いた方が人は来てくれます</mark>。</strong></p></li><li><p><strong>何を書けば良いのか分からない場合は、サンプルを参考にして下さい。</strong></p></li></ul>
 
 #### Comments (1)
-- **1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩** (Jun 19, 2026 11:54pm): わかりました！
+- **バグった人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩** (Jun 19, 2026 11:54pm): わかりました！
 
 #### Reactions
 - **Emojis:** ❤️ (5)
@@ -449,7 +449,7 @@
 ---
 
 ### 17. Proxy革命軍
-**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
+**Author:** バグった人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
 
 <p>たくさん人がいるよ！ゲームもProxyもユーチューブもたくさんあるよ！オーナーがすごい優しくてすぐ仲良くなれると思うよ！</p>
 
@@ -606,7 +606,7 @@
 ---
 
 ### 24. みんなで雑談しよう
-**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
+**Author:** バグった人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
 
 <p>出来立てですがみんなで仲良く楽しく雑談する部屋だよ</p>
 
@@ -960,7 +960,7 @@
 ---
 
 ### 39. ２代目みんなで共有しよう！
-**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
+**Author:** バグった人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
 
 <p>最強プロキシや、最強のYouTubeダウンローダー、ゲームもたくさんあります！ぜひ来てください！みんなで楽しく仲良く色々共有しましょう！</p>
 
@@ -1361,7 +1361,7 @@
 ---
 
 ### 56. みんなで共有しよう2
-**Author:** 1x1x1x1（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
+**Author:** バグった人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
 
 <p>プロキシ、YouTube（ダウンローダーも）、ゲーム、SNSダウンローダー色々あるよみんな来てね（受付）</p>
 
@@ -1653,7 +1653,7 @@
 [Attachment 1](https://padlet.com/padlets/wk073c0zgtyl8fxm)
 
 #### Comments (1)
-- **らりぃ** (May 22, 2026 12:11am): カバー画像終わった
+- **かき** (May 22, 2026 12:11am): カバー画像終わった
 
 #### Additional Information
 - **Post color:** White
@@ -3428,7 +3428,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1784583153&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=g7jSDEVQIz0fmUcLeIsIBaDdqPZNN0i6hlue1FxgPNYBSE9eGm1Twd%2FSQHpQ5fpJmBExa1IXlDYGcfdZuJtN%2FfbH%2F4y%2BKAf%2BE36lqxMZMADePGKYh864R5H5DTbssSnIZtRaPr58FlUZ%2BTNoNjkskEhaixT5GctTXhX%2BGZ2wpodhYFfy8o5Jd1DmMH0U4K9KOjkp9btGzcMGaA89KSfcSi%2BT330gzsw7xROhl%2BO7xF9%2BaQaxI2agN%2FVmRygna3d2qFyHvD%2FJZIkeRYbhsYjwd7%2BIwNQxclG%2BDbaKdbZewrckNmnDKPWwbzlpo4WchavRIy0gfkeVXarAUpny%2B53Kdw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1784585578&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ThOSKrp3w9hB3oc61J6Qm%2BNJwtvzFJgfOm0dzh5fWF1ZsBxowJd8Un4wyIsOAHWFaHIoUlgeyaRU4Y1sEWbdwvlVRaHY0Ej9wE%2FFTYVC6yUvONbOJtk%2BFwTuNoEX8Lf3JgXZlh%2Bxr1wATEvnUCjdojnL9%2FhIKqL7ZjzAGUlqB04iPVBBwkEmn%2Fvx4giXHsH7qGjO44ITqEBRfwumV9VKnL0gayMNOHOvhe9p8STXMxUaajvCcRLbPwcIogwhsuv85kPsLv%2F4qGa7K9pNgpZFWAXCl6vlJRVAar5xHHAJjQKMq%2FA1%2BPsjCcwQIw6OjpUqDUX5r9CQ0ANaGBmF4ez60w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
