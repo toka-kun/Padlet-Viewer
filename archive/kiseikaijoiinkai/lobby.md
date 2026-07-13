@@ -1,4 +1,4 @@
-最終取得: 2026/07/13 14:05:11
+最終取得: 2026/07/13 16:42:03
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 18
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Jul 09, 2026 03:55am
+- **Updated At (UTC):** Jul 13, 2026 05:13am
 
 ## ルール
 
@@ -18,12 +18,13 @@
 
 <p><br></p><p>・ライターになりたいなら僕のことをフォローしてください。</p><p>・間違ったメルアドを送らないでください。</p><p>・荒らし、過度な暴言は即コメンターです。</p><p>(酷い場合は読者)</p><p>・権限乱用は禁止</p><p>(報告された場合は即コメンター)</p><p>・許可のない宣伝は禁止</p><p>・個人情報の投稿の投稿は禁止</p><p>(投稿を確認したら即BAN&amp;読者)</p>
 
-#### Comments (5)
+#### Comments (6)
 - **ううううんこ💩** (Apr 20, 2026 03:32am): もともとライターだったもりもりもっこりはんです。名前変えましたライターください
 - **中居正広リア充になった。#最近低浮上#エドガーの中指** (Apr 20, 2026 01:28pm): メアドをおくってくれ
 - **イナビカリ** (Apr 30, 2026 09:55am): うぇｒ
 - **ナミドリ** (May 02, 2026 11:47am): か。
 - **いときち** (May 03, 2026 01:03pm): ライターにしてクレメンス
+- **ソヨノカ** (Jul 13, 2026 05:13am): ライターにして
 
 #### Additional Information
 - **Post color:** Black
@@ -82,7 +83,7 @@
 
 <p><br/></p><p><br/></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1784523946&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0TYGr7S%2BJkvj6gcskXnpGbMNiTF7TXapJsl4blhvqt0tSmESgWjABNAtryDrB8YlYeQITs7%2BbAKl1A8MORAmV6GEdFrTi042r4OL3Wypmh1qBgTc5JuoFsUO2JOYbrOjCXtuagU9EeSjJYQcVxb7kJHxiKCMzRHYmv7zCj%2FMuG4D%2BffkSgwdAlS5KzCCEU6EqSssJqJ6BsBc37KSynksV2CPk92pNvx6IbddAts9ZBTEnzrHWofAaRBhSjN2gv5YAHzwkoikYX4XNLFIW8sZq8SZq385nJylQOeQGolpDEWxLQgmojnZlK0K6Pwymp1q6dJrKii97OQAf0ad7Og%2BlA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1784533357&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=vfic%2FJ51a1KgDJzfyh9BrjrrOICwLac1EXVP9FrtJE%2F3IiV3CgwqIwgnNScKqUtCZO%2BsYfgnSD%2BgMWWMihzLyAHD%2BHo5DdUyrNgATVJydxJNfQ0xLRC8luyxgsw9TmjaNWSKJIUOBUr1%2BlNTZil0lr0jF6fXG%2FzfYDt2VwdFZqD5BLPcUEttWCek18VKWAtSbej%2FbafpfOLiJTr9xSKZVUlnbMupbkTk7H7M93%2Fo6xX1Ze5sGq7hNnOff9ALwgecjp1hoMIntTgh1OBN1sk%2B8KtRBvwY7jzLGsdTC6M6cFwM1cXX5WD6eEUxFflAlEjqCUwH%2Bw1F%2BWBjnArUFEzPOw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Additional Information
 - **Post color:** Black
