@@ -1,4 +1,4 @@
-最終取得: 2026/07/17 13:42:40
+最終取得: 2026/07/17 16:00:59
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 144
 - **Created At (UTC):** Aug 31, 2025 08:58am
-- **Updated At (UTC):** Jul 17, 2026 03:38am
+- **Updated At (UTC):** Jul 17, 2026 06:56am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -286,7 +286,7 @@
 ---
 
 ### 10. あなたが欲しいものなんでもあります！
-**Author:** Sto9960 (h9960969)
+**Author:** 削除済みユーザー
 
 <p>ゲーム・プロキシ・(((o(*ﾟ▽ﾟ*)o)))♡filter・</p>
 
@@ -1803,7 +1803,7 @@
 ---
 
 ### 76. 私の部屋にどうぞ
-**Author:** Sto9960 (h9960969)
+**Author:** 削除済みユーザー
 
 <p>いろいろあります</p>
 
@@ -1819,9 +1819,9 @@
 
 #### Comments (4)
 - **コヨミ** (Apr 28, 2026 05:55am): メンバーだけか
-- **Sto9960** (Apr 30, 2026 06:07am): 誰でもなんでもできます。
-- **Sto9960** (Apr 30, 2026 06:07am): 入ってみてください。
-- **Sto9960** (Apr 30, 2026 06:08am): 高評価フォローよろしくお願いします。
+- **削除済みユーザー** (Apr 30, 2026 06:07am): 誰でもなんでもできます。
+- **削除済みユーザー** (Apr 30, 2026 06:07am): 入ってみてください。
+- **削除済みユーザー** (Apr 30, 2026 06:08am): 高評価フォローよろしくお願いします。
 
 #### Additional Information
 - **Post color:** White
@@ -3248,7 +3248,7 @@
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1784868170&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rGnRlgpGIQxvOm3AryI16ur7lrmcqCe0Ahc3HKIzgEVU0VOZ2PgGF95drKkJiHqQ5iMR8z0oCjKPgVt1piyDHJCm4Yf6DOPjuBuc0%2Bv%2FM2%2BogXGeUT%2BQpnRDX4TtvrEscuKuAYpHA7SQBT9XUpQ1PgEXBue0aVezdVfM9ErWl%2BPvn9owKOJIb0ir3HrnjVsaP39KWJ4wGAcdv%2BRDdHCeTCfwawZ5xI43mNVODDxNKNDzkP2jZSFj2LOxlJFwtmwy8MU7xZ75X2FRMpBWSouGT2Dzvex5TMRODV6BWwPM8KNFBBaTwc%2BmcSGd0IEqDzTu%2BgC7zgKKjtj6D4eO3OEsoQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1784876470&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=P5EuX%2BCNNsP3mQaUcsDlrHKCqMKEDrEytrcZqTKEYeDSGtdJB0S8qz5EXkLrS6FAoWFTRjAZFbq8FUboZ0QO8PkCXa1xWZ4jIwijgRNBv7cyf9xEHPjCQCG%2F7Y%2FW7tB0knmZj3sYbzemxaQMH71hG9ThgSHX6sb08J3gI8VRs3mNVBnRGhSB9eNac6UA37mtBHSr8fdbf5HMB7irNoicpb%2BztxDg9REnYNvf4MSfDwBdHpE5WWsAc4rHB8YpqJkYWaxk1ge%2FQdEjHfAqCe1Bx3ZtVUEAZ2LWvUAEEpX8mZ1pzVdJPS74t76fKL99UytRkuSzqBuAlfoPrO%2F7%2Fb6h4w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (2)
