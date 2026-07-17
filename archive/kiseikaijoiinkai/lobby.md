@@ -1,4 +1,4 @@
-最終取得: 2026/07/17 16:04:27
+最終取得: 2026/07/17 16:20:04
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 19
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Jul 16, 2026 02:14am
+- **Updated At (UTC):** Jul 17, 2026 07:14am
 
 ## ルール
 
@@ -44,10 +44,11 @@
 
 [Attachment 1](https://kiseikaijo.wixsite.com/kiseikaijocenter)
 
-#### Comments (3)
+#### Comments (4)
 - **Anonymous** (May 26, 2026 03:51am): あ
 - **Anonymous** (Jun 10, 2026 05:01am): ごら
 - **m.i.b** (Jun 17, 2026 02:21pm): 公式サイト入れない...
+- **コガラシ** (Jul 17, 2026 07:14am): 草
 
 #### Additional Information
 - **Post color:** Red
@@ -95,7 +96,7 @@
 
 <p><br/></p><p><br/></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1784876702&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EU31N9WSf8evAiiJQMRB0hibJv8ioPt4I%2BtmsHnUMmmA%2F7eknIOeW3R2XMqIwK%2B82JiUcYKfvEpiw5Bf1b4oJUJNMrRY11ObtMk9yNUFD2Yms2cM%2Femch5QvZxkpDKbYDj3a3s20cMlRDmEltbrJkgO6080i%2B%2Bsl2Mwxv%2B2U8UgG0un3l%2FiWL%2F0s2IvUwoJx5F3q72rsD3Q%2FbQIEa9TDf3bXHVSfFvmpwpADKJUdd3MAN9cRbnjYinnW%2BFoiWn2uO2vl1bqt4PwBOvDkKb2coOX%2FuzVLTQTuZUQbkEn7pzIIxFOgqkHgx7QpeuvuwOe7B60kGFCLG4bA8UDt9Fntzg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1784877639&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Sfp0zPs%2FGUaJ0%2BExpx0JmeMZZw6VCg%2FFwRAR6TEEubEZXYy1pFc6yd55ncZGN4aI4IQmpX3NNg8IzUZuy6KghSVQCCh179RjQD0xxpR2HsPFRwiwVl1EXR63c3kVY6RueDV3bpRJ4ULdZkRzJTsAjiDdtT9ZvVn1QZKroH4w29Q%2BohiuNe3rz6ErfU2z86YKRjftDLz5QR8%2FVn4zMnplThhdsmleS05%2FAiqYZbfgzDOMzF0NC7k%2BXOrdG357w9Cw0B5X0JgWFK8y8imqST2ZQ1MjLUGpHLeeFQ%2FtYx8g1KgFFFI%2BjGnSTNRrqSQJ8KiG8OP9epwVuFoB6xhUF1aFAA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？

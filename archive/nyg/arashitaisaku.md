@@ -1,4 +1,4 @@
-最終取得: 2026/07/16 17:35:31
+最終取得: 2026/07/17 16:20:04
 
 # 荒らし対策室
 
@@ -7,7 +7,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 22
 - **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Jul 16, 2026 08:24am
+- **Updated At (UTC):** Jul 17, 2026 07:16am
 
 ## リンク集
 
@@ -109,12 +109,10 @@
 
 <p>っh</p>
 
-[Attachment 1](https://padlet.com/padlets/ome0r66a8e0ijwg2)
-
 #### Additional Information
 - **Post color:** White
 - **Created At (UTC):** Jul 14, 2026 08:22am
-- **Updated At (UTC):** Jul 16, 2026 08:24am
+- **Updated At (UTC):** Jul 17, 2026 07:16am
 
 ---
 
