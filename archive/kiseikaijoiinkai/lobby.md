@@ -1,4 +1,4 @@
-最終取得: 2026/07/17 18:27:07
+最終取得: 2026/07/17 20:07:06
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 19
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Jul 17, 2026 07:14am
+- **Updated At (UTC):** Jul 17, 2026 09:59am
 
 ## ルール
 
@@ -96,7 +96,7 @@
 
 <p><br/></p><p><br/></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1784885263&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LFUiF79TbwEmG6S5bZyNID0n8m2plO6tp929QP2ymjhRZbU%2FZBTqyAssaybUubzgexA7lFHnYmj30wXQshRuYgJVmr2%2FxnbOCxIE3PtQBotIM%2B8CxDb6iEo3nuScpNNCLs1nhQOFb2h%2FpwPoiX9Kfioe9ZTXRmVUlaNcTkWwyRpUVBzxQQt23h5ceEJeblraYn0jk48PDw9cIHni7rUDp6pqbwVMFO8%2BvJpa4wrnm9pt%2BT0DE4%2BXOrr67TObfnaGPSAKWqInlszDLWEAWCmjjRVufbHsjgcB%2F6LwbCFJ%2BRCz8G%2BNr06iYk2WePwpWStaEXVj1AtTtGKQTtchN7lUpw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1784891261&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=aGzDtfGVMESZi%2FPbJkHSTmQ7fdAHlegCMh5B47BzVoLOTz32WWtCZb%2BgHTrVmgvf8hNH1N%2BzfQK4KxyVBEwNNVAxcGYVxGo694%2BhIYon2PSrCwZn%2BBFnRAiriIhNzJoX3gX6RD3yT1ZotCmhCdACcY6fNiXHQ2JIoG8RAZniQpKEJ077vi0llvl%2FLDy2WIFWdNNEitCOFDgB24pEjlNSckHs8EMsaO7SbL%2FyDbE8iijGDGudsuDFJ4zhOihFEF3GcACALOjfxZXq6fnjOy%2BGw%2Bu5PGAMUzdL99ld2Qf6%2FHcDXfDpiHpTN2dZI1eXTjXywRFo5aPZBdTGNs46FxSnEQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -194,7 +194,7 @@
 
 <p>メルアドを別部屋にて添付してください。</p><p>管理者以外が他の人の投稿を確認することはできません。</p><p>→の部屋にてメルアドを投稿してください。</p>
 
-#### Comments (7)
+#### Comments (8)
 - **わっさん** (Jun 03, 2026 12:54pm): 学校のiPadでYouTube見たいんやけど見れなくて困ってます
 - **野獣先輩ファン！** (Jun 09, 2026 02:00pm): それなーーーーーー
 - **野獣先輩ファン！** (Jun 09, 2026 02:00pm): 手か僕も作ったので入ってくれると光栄です！！！！！！！！！！
@@ -202,6 +202,7 @@
 - **hです** (Jun 29, 2026 06:10am): 入れませんでした................
 - **チドリノ** (Jul 01, 2026 03:25am): YouTube見れないんですけどどうしたらいいですか？
 - **Honda** (Jul 15, 2026 01:05am): マイクロソフトのEdgeっていうアプリからYouTubeって調べたら入れる。そこからリンクをダウンローダーに貼り付けたら見れるよ。
+- **フユホ** (Jul 17, 2026 09:59am): hehr
 
 #### Additional Information
 - **Post color:** Black
