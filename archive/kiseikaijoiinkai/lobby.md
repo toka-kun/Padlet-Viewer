@@ -1,4 +1,4 @@
-最終取得: 2026/07/22 09:56:21
+最終取得: 2026/07/22 10:06:09
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 22
+- **Posts:** 23
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Jul 20, 2026 10:07am
+- **Updated At (UTC):** Jul 22, 2026 01:04am
 
 ## ルール
 
@@ -118,7 +118,7 @@
 
 <p><br/></p><p><br/></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1785286616&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fT%2BnyGB2QPduV1YU03pCAju%2F6YLnjZbTLM77yXpBsvwaVZ22LjsS%2BYw%2F8az1XhWz%2Fpyr0oTARDA3I6aiQvIDm56jLlm6hMxL0TGS4X%2Fz%2BPB0DvA7VzeCe3CNPlpfdNfUiprZtgELXM2WoDEGudVwHeKE90aeVWyEWMZUFbDmIwBBFHw6HNiDXu32hRTWB%2BPenpR2f0ioY7LuCaAqEyRQIeRja7KpjO6EoaNNVVDHpOjupslV9VEhrCVm4STHx%2FVnaC%2BBMjtplYSxMWuQ%2BsPIBikqMH2I3yDUcupI2iZbfCmUc2HzK1z7ar%2FhUoPSmyRmMZxINhukKir8o2aaX8ZzRg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1785287202&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qthuSIXOPAIlB3PUjbz3IiN2kCYnrdFO%2Ba4EovZRUeoACaGrIBF82gtwzCVJoclKww%2FHtIx6vmWy2n%2BSxQHNG8yvcLHyQi3MJj6wfBALKFBkoBNwGH1dxjB%2BZViAjAe1VJRccKgFuXw%2FKjHxtSFkBpZi%2FaNJgCl5eucEUIJsDljEjBboSF7xvikI%2F9ZDIkssEGwQLO2%2FWqBBB%2BSTPX0TfljSDa0FGhSyVPP25jgyjUEu9p6wOa%2BM4hd7pZEzUz%2FRJHGpXYGOZ0EumNNfzxFHE2BgQ2%2BBsGOUpFVMvTxnuSDVeXjd91%2FPTZYSC1lia2GH3f7dl2h6sPLVam9W2fFTQg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -327,4 +327,16 @@ No post
 
 ## 好きな事をしたまえ
 
-No post
+### 1. Post 1
+**Author:** えろい写真ならたぁくさんとるよ？❤
+
+![Attachment 1](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/5b52c95bef1e316f24d02aff290588f2/image.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiKODDkaUHvSHRKVnUA3vW0A7Yaom2nXEVoIVvCrg2oui_doTIcIq4lKY0d2XFo9w9sGsD3hMAxs8P2EyjfDm0n0KND1vbr6PSXBXZrt1nn4iw==)
+![Attachment 2](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/fbe956a50395eddb432858624623e83b/Screenshot_2026_07_22_09_44_32.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiKALSBU_gPTEmYx2-MDaIiyraAyruNaqQ0kQo9zr_R7T33d8Y7vRZU_kE9I2LtEXjvZSlwSoILZmWaSTLZuZs3WzgKOSsqJHDNU-_Wp1pa0s0BTdArfIVMjAV-nmZlqCwCAv3NepwywMDDdgu_N0sTn)
+![Attachment 3](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/dd877d5d3fae9a2d173a520c0dd2f0c6/Screenshot_2026_07_22_09_47_03.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiIGknPjRPrztTfmbpfXhqU3bCvT35QhfuVkYtxpaNmMjcF2DVwrxAbEY1PCcSltCSGuc2FJaRPtMjH2-fusPYtMbhKjLsiCDvzmDkjejxgAA9SNNY5Nv5CxJ95GAKNNcKwJIq8BXfxWOsuPwP04fNnc)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At (UTC):** Jul 22, 2026 01:03am
+- **Updated At (UTC):** Jul 22, 2026 01:03am
+
+---
