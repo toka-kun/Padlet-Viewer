@@ -1,4 +1,4 @@
-最終取得: 2026/07/20 16:44:19
+最終取得: 2026/07/22 16:12:55
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 16
 - **Created At (UTC):** Apr 12, 2026 10:30am
-- **Updated At (UTC):** Jul 20, 2026 05:11am
+- **Updated At (UTC):** Jul 22, 2026 06:53am
 
 ## 受付
 
@@ -83,6 +83,9 @@
 
 ### 2. 元々ライターだった人も受付をお願いします。
 **Author:** とるっぷい (TORI_TORI2)
+
+#### Comments (1)
+- **カワミ** (Jul 22, 2026 06:53am): うんち
 
 #### Additional Information
 - **Created At (UTC):** Apr 13, 2026 12:20pm
