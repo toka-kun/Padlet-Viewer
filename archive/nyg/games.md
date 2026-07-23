@@ -1,4 +1,4 @@
-最終取得: 2026/07/23 19:06:21
+最終取得: 2026/07/23 20:25:19
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -8,8 +8,8 @@
 - **Link:** https://padlet.com/Nanachiki/padlet-4b9092979b4e6dlm
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
 - **Posts:** 86
-- **Created At (UTC):** Aug 27, 2024 11:14am
-- **Updated At (UTC):** Jul 21, 2026 12:29am
+- **Created At:** Aug 27, 2024 11:14am
+- **Updated At:** Jul 21, 2026 12:29am
 
 ## 概要
 
@@ -29,8 +29,8 @@
 
 #### Additional Information
 - **Post color:** Yellow
-- **Created At (UTC):** Aug 27, 2024 11:21am
-- **Updated At (UTC):** Oct 20, 2025 12:14pm
+- **Created At:** Aug 27, 2024 11:21am
+- **Updated At:** Oct 20, 2025 12:14pm
 
 ---
 
@@ -61,8 +61,8 @@
 
 #### Additional Information
 - **Post color:** Yellow
-- **Created At (UTC):** May 01, 2026 08:34am
-- **Updated At (UTC):** May 01, 2026 08:40am
+- **Created At:** May 01, 2026 08:34am
+- **Updated At:** May 01, 2026 08:40am
 
 ---
 
@@ -81,8 +81,8 @@
 
 #### Additional Information
 - **Post color:** Purple
-- **Created At (UTC):** May 01, 2026 08:34am
-- **Updated At (UTC):** May 01, 2026 08:40am
+- **Created At:** May 01, 2026 08:34am
+- **Updated At:** May 01, 2026 08:40am
 
 ---
 
@@ -112,8 +112,8 @@
 
 #### Additional Information
 - **Post color:** Purple
-- **Created At (UTC):** May 01, 2026 08:34am
-- **Updated At (UTC):** May 01, 2026 08:40am
+- **Created At:** May 01, 2026 08:34am
+- **Updated At:** May 01, 2026 08:40am
 
 ---
 
@@ -139,8 +139,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 06, 2025 03:29am
-- **Updated At (UTC):** Sep 23, 2025 01:01am
+- **Created At:** Feb 06, 2025 03:29am
+- **Updated At:** Sep 23, 2025 01:01am
 
 ---
 
@@ -158,8 +158,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 29, 2024 11:32pm
-- **Updated At (UTC):** Aug 29, 2024 11:32pm
+- **Created At:** Aug 29, 2024 11:32pm
+- **Updated At:** Aug 29, 2024 11:32pm
 
 ---
 
@@ -190,8 +190,8 @@
 
 #### Additional Information
 - **Post color:** Yellow
-- **Created At (UTC):** May 01, 2026 08:34am
-- **Updated At (UTC):** May 01, 2026 08:41am
+- **Created At:** May 01, 2026 08:34am
+- **Updated At:** May 01, 2026 08:41am
 
 ---
 
@@ -207,8 +207,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jul 13, 2025 08:32am
-- **Updated At (UTC):** Jun 29, 2026 06:45am
+- **Created At:** Jul 13, 2025 08:32am
+- **Updated At:** Jun 29, 2026 06:45am
 
 ---
 
@@ -240,8 +240,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Aug 01, 2025 02:55am
-- **Updated At (UTC):** Jun 29, 2026 06:45am
+- **Created At:** Aug 01, 2025 02:55am
+- **Updated At:** Jun 29, 2026 06:45am
 
 ---
 
@@ -252,8 +252,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 05, 2026 11:37am
-- **Updated At (UTC):** Jun 29, 2026 06:44am
+- **Created At:** Jan 05, 2026 11:37am
+- **Updated At:** Jun 29, 2026 06:44am
 
 ---
 
@@ -269,8 +269,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 24, 2025 08:05am
-- **Updated At (UTC):** Jun 29, 2026 06:44am
+- **Created At:** Dec 24, 2025 08:05am
+- **Updated At:** Jun 29, 2026 06:44am
 
 ---
 
@@ -281,8 +281,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Nov 30, 2025 01:36am
-- **Updated At (UTC):** Jun 29, 2026 06:44am
+- **Created At:** Nov 30, 2025 01:36am
+- **Updated At:** Jun 29, 2026 06:44am
 
 ---
 
@@ -301,8 +301,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Nov 13, 2025 05:44am
-- **Updated At (UTC):** Jun 29, 2026 06:43am
+- **Created At:** Nov 13, 2025 05:44am
+- **Updated At:** Jun 29, 2026 06:43am
 
 ---
 
@@ -326,8 +326,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 27, 2025 10:27pm
-- **Updated At (UTC):** Jun 29, 2026 06:43am
+- **Created At:** Oct 27, 2025 10:27pm
+- **Updated At:** Jun 29, 2026 06:43am
 
 ---
 
@@ -338,8 +338,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 08, 2026 04:48am
-- **Updated At (UTC):** Jun 29, 2026 06:39am
+- **Created At:** Jan 08, 2026 04:48am
+- **Updated At:** Jun 29, 2026 06:39am
 
 ---
 
@@ -358,8 +358,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 08, 2026 12:39pm
-- **Updated At (UTC):** Jun 29, 2026 06:38am
+- **Created At:** Mar 08, 2026 12:39pm
+- **Updated At:** Jun 29, 2026 06:38am
 
 ---
 
@@ -370,8 +370,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 10, 2026 09:45am
-- **Updated At (UTC):** Jun 29, 2026 06:38am
+- **Created At:** Jan 10, 2026 09:45am
+- **Updated At:** Jun 29, 2026 06:38am
 
 ---
 
@@ -388,8 +388,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 13, 2025 06:48am
-- **Updated At (UTC):** Jun 29, 2026 06:35am
+- **Created At:** Oct 13, 2025 06:48am
+- **Updated At:** Jun 29, 2026 06:35am
 
 ---
 
@@ -407,8 +407,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 12, 2025 12:39pm
-- **Updated At (UTC):** Jun 29, 2026 06:34am
+- **Created At:** Oct 12, 2025 12:39pm
+- **Updated At:** Jun 29, 2026 06:34am
 
 ---
 
@@ -426,8 +426,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 10, 2025 10:27am
-- **Updated At (UTC):** Jun 29, 2026 06:34am
+- **Created At:** Oct 10, 2025 10:27am
+- **Updated At:** Jun 29, 2026 06:34am
 
 ---
 
@@ -443,8 +443,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 10, 2025 03:46am
-- **Updated At (UTC):** Jun 29, 2026 06:35am
+- **Created At:** Oct 10, 2025 03:46am
+- **Updated At:** Jun 29, 2026 06:35am
 
 ---
 
@@ -464,8 +464,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 10, 2025 03:43am
-- **Updated At (UTC):** Jun 29, 2026 06:34am
+- **Created At:** Oct 10, 2025 03:43am
+- **Updated At:** Jun 29, 2026 06:34am
 
 ---
 
@@ -483,8 +483,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 09, 2025 11:05pm
-- **Updated At (UTC):** Jun 29, 2026 06:34am
+- **Created At:** Oct 09, 2025 11:05pm
+- **Updated At:** Jun 29, 2026 06:34am
 
 ---
 
@@ -517,8 +517,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 09, 2025 10:29am
-- **Updated At (UTC):** Jun 29, 2026 06:33am
+- **Created At:** Oct 09, 2025 10:29am
+- **Updated At:** Jun 29, 2026 06:33am
 
 ---
 
@@ -534,8 +534,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 08, 2025 10:43pm
-- **Updated At (UTC):** Jun 29, 2026 06:33am
+- **Created At:** Oct 08, 2025 10:43pm
+- **Updated At:** Jun 29, 2026 06:33am
 
 ---
 
@@ -550,8 +550,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 03, 2025 08:31am
-- **Updated At (UTC):** Jun 29, 2026 06:31am
+- **Created At:** Oct 03, 2025 08:31am
+- **Updated At:** Jun 29, 2026 06:31am
 
 ---
 
@@ -572,8 +572,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 01, 2025 09:38am
-- **Updated At (UTC):** Jun 29, 2026 06:31am
+- **Created At:** Oct 01, 2025 09:38am
+- **Updated At:** Jun 29, 2026 06:31am
 
 ---
 
@@ -590,8 +590,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Sep 29, 2025 10:09am
-- **Updated At (UTC):** Jun 29, 2026 06:31am
+- **Created At:** Sep 29, 2025 10:09am
+- **Updated At:** Jun 29, 2026 06:31am
 
 ---
 
@@ -610,8 +610,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Sep 29, 2025 09:23am
-- **Updated At (UTC):** Jun 29, 2026 06:30am
+- **Created At:** Sep 29, 2025 09:23am
+- **Updated At:** Jun 29, 2026 06:30am
 
 ---
 
@@ -627,8 +627,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Sep 27, 2025 10:41pm
-- **Updated At (UTC):** Jun 29, 2026 06:30am
+- **Created At:** Sep 27, 2025 10:41pm
+- **Updated At:** Jun 29, 2026 06:30am
 
 ---
 
@@ -644,8 +644,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Sep 02, 2025 11:04am
-- **Updated At (UTC):** Jun 29, 2026 06:29am
+- **Created At:** Sep 02, 2025 11:04am
+- **Updated At:** Jun 29, 2026 06:29am
 
 ---
 
@@ -660,8 +660,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 15, 2025 06:06am
-- **Updated At (UTC):** Jun 29, 2026 06:28am
+- **Created At:** Aug 15, 2025 06:06am
+- **Updated At:** Jun 29, 2026 06:28am
 
 ---
 
@@ -688,8 +688,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 26, 2025 06:36am
-- **Updated At (UTC):** Jun 29, 2026 06:26am
+- **Created At:** Jul 26, 2025 06:36am
+- **Updated At:** Jun 29, 2026 06:26am
 
 ---
 
@@ -705,8 +705,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 13, 2025 08:11am
-- **Updated At (UTC):** Jun 29, 2026 06:25am
+- **Created At:** Jul 13, 2025 08:11am
+- **Updated At:** Jun 29, 2026 06:25am
 
 ---
 
@@ -726,8 +726,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 05, 2025 01:07pm
-- **Updated At (UTC):** Jun 29, 2026 06:25am
+- **Created At:** Jul 05, 2025 01:07pm
+- **Updated At:** Jun 29, 2026 06:25am
 
 ---
 
@@ -745,8 +745,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 05, 2025 03:22am
-- **Updated At (UTC):** Jun 29, 2026 06:24am
+- **Created At:** Jul 05, 2025 03:22am
+- **Updated At:** Jun 29, 2026 06:24am
 
 ---
 
@@ -761,8 +761,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 15, 2025 10:32pm
-- **Updated At (UTC):** Jun 29, 2026 06:23am
+- **Created At:** Jun 15, 2025 10:32pm
+- **Updated At:** Jun 29, 2026 06:23am
 
 ---
 
@@ -776,8 +776,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 10, 2025 12:49pm
-- **Updated At (UTC):** Jun 29, 2026 06:19am
+- **Created At:** Jun 10, 2025 12:49pm
+- **Updated At:** Jun 29, 2026 06:19am
 
 ---
 
@@ -798,8 +798,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 25, 2025 07:21am
-- **Updated At (UTC):** Jun 29, 2026 06:19am
+- **Created At:** May 25, 2025 07:21am
+- **Updated At:** Jun 29, 2026 06:19am
 
 ---
 
@@ -819,8 +819,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 25, 2025 04:17am
-- **Updated At (UTC):** Jun 29, 2026 06:17am
+- **Created At:** May 25, 2025 04:17am
+- **Updated At:** Jun 29, 2026 06:17am
 
 ---
 
@@ -835,8 +835,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 11, 2025 05:42am
-- **Updated At (UTC):** Jun 29, 2026 06:17am
+- **Created At:** May 11, 2025 05:42am
+- **Updated At:** Jun 29, 2026 06:17am
 
 ---
 
@@ -886,8 +886,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Sep 12, 2025 08:45am
-- **Updated At (UTC):** Jun 29, 2026 06:45am
+- **Created At:** Sep 12, 2025 08:45am
+- **Updated At:** Jun 29, 2026 06:45am
 
 ---
 
@@ -906,8 +906,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 15, 2026 03:28am
-- **Updated At (UTC):** Jun 29, 2026 06:45am
+- **Created At:** Jun 15, 2026 03:28am
+- **Updated At:** Jun 29, 2026 06:45am
 
 ---
 
@@ -916,7 +916,7 @@
 
 <p>テトリス自作したんで</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1785405996&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=k6Xa%2BGf%2Fxd%2FO5QOAvCU6%2BMhHLImzS5cZU%2BLXZoa5uo3qstViJOAOTd715Kut1irCEPF%2F9bsj8DsCXGrx3nO4pOj3GA1%2F5vj%2FnJaFCItAUgTxdny%2FqEC6Mh872xNYGw0%2B8fBlnmbP1w4ESjASFl2OVSYLwNyc%2B9v0%2BZHagYyl7ZpUyTWWVGYbhRSXmkKRNmTcffdVRt%2BmqTsWJ%2Fp0kxpFq5tywqKQdj1EUH1IWiLwbDji3%2F55ioAv8ifpXB4miuBl%2BfN%2Fv6cNfL2wR5Ontwj%2BzLZQIaHlgbeeBGe1LV%2B2jG%2FWhdZb899Y1lw6FburinXLqi2US6S1rhbBXO%2B2xNolFA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1785410735&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=p5shd8I7slfiDBj6bKjhmXkAnhr6SSNvqrhrb3qa%2BCddvo2WeR8OT%2FSXjN5qvOvfsLBopqc2D8zJA%2BsRiVcl9KBDgau4AAqRBmb21EW4rUyA3Glx0NPeel%2FPrbOMag4pYoVIbkigyobzsnmWvEkcsCS5Ykux6Q0q%2BR17u9mvTjYKzHhl92RejwbuNtTAJGz%2Fv0Ia9SD4%2BmpG6dj4%2FGoO8saWBmQ3iDTDTD2TETULqnXoY1o%2FOlPNwSUQ0QmQIJOVEErvBu0%2FVMkkmIJCGTblEfiCBdYHD9Zw%2FtUjRQcpPMdjHz%2BU5VuCl7PPVntaVd2B116M0MFU8891fjn%2BjN4%2BIg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
 
 #### Comments (6)
 - **RX034** (Dec 02, 2025 08:28am): 良ければどうぞ！
@@ -928,8 +928,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 02, 2025 08:28am
-- **Updated At (UTC):** Jun 29, 2026 06:44am
+- **Created At:** Dec 02, 2025 08:28am
+- **Updated At:** Jun 29, 2026 06:44am
 
 ---
 
@@ -938,15 +938,15 @@
 
 <p>テトリスだよ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1785405996&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=StIyTI26V3iZa3b%2F9tJ8uqrTSdXQXxMUVxfnDtYanUfcFqsYjwvTIcABcb4d6lUooIx%2BhRjc4zN5yJcGP1QwFtsdT%2BWAYSvYGsugJF1zlBb45GDuJcfvfxyPPjjt%2Fao0nU%2Fk6dDtSAaeO9wn%2FjyANNvzdY954XeS79FN2WFudwt%2FZJaXMCYmgcPk6AoEYWsvrDpjSF2UXIF6SrbNQ8euVivMacX6TwkC3BV0auX%2FDeBWmL7MUHszCH1ST7pVUWdKh2KK8G5jkq%2B0j4yf2Dd4sIiToxiPZj80d7um%2Bqsom6E7ySbPcp48gt3d3q4LKm5Ub%2FdNEAUFwXhn2724FqatUQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1785410735&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rpsypRJWNzRwIYgKR2s6kSfCajJI8URHAXjLeHuBzWmaiQvEf850id49Vp08%2F0%2BIOUKX8oxLTPaSZ8%2FgYtXGVrkVIhPR%2BL9UI0rF6LqpIuliCk6D9uz8XojqLp4y%2B4QOR4vOboOMzAOYh6fBS3VCNLhqBmDzz%2BFWzd0ujWcVbB7ObRWyurXrVm6sWiNiWff%2BRclo%2BdTFlRXDaS%2BxpZOnf9ds3lqis5H48avdvJynO9hArWaEzICg7EKDXzEVdprpKcvEjYilecvA1VwtrofgTtEOe5WQfclnEgbCs0RlwsUTxi8iHoQYy%2Bg8f4bf6uzYH2PV5QbB6z6UK3Tr3YKrtA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
 
 #### Comments (1)
 - **はるとねこ** (Nov 10, 2025 01:54am): なんか表示できねえ
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Nov 08, 2025 03:01am
-- **Updated At (UTC):** Jun 29, 2026 06:43am
+- **Created At:** Nov 08, 2025 03:01am
+- **Updated At:** Jun 29, 2026 06:43am
 
 ---
 
@@ -955,7 +955,7 @@
 
 <p>オセロゲーム作りましたレビューください</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1785405996&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kwBVtyYtOM%2Ff6zShJJTXthNI8hyHx2kQ%2Bsg%2FAnwbviLUNnEXqkW1EzLxCSmB%2Fy%2FRveOSULSyCAAKYFTIPlNxWqu4jVFe%2FKXd6nF3rvqAd2R8U5YJJG477iP3IPimXah30cbGqgn0T%2FbhZhLa0NIp64TwF0deSdF8M1lZ%2FlkPvzkO954CEMUuPqJXa5vn%2FR5mk2i%2FxKLWLpVYPx616hnCNpAArrIqAurqevr57isXZDNpAa4iJ9dgUMVqTSEIzGSnTyFQXzfEr8xW9ZYGbREVMhhgxqEUggu7cuTgsMkftSSb%2Feb111QnNU1fRLRwJQN6YRHa2nvwO%2FFHq8XxX7mGrQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1785410735&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=q11JdAize4hD4yO3toXH4WCo%2BkNgCh%2FzoeD8NFQ41XXurzncCQRmHvdITL%2BkpR4gCnzTSXlGqTj9Ot3KZRu3Nh%2FhRFQ%2BH66RiKqPURT5z6De4a6jDDOShO%2BCMkQYexdlla6hIw9ktsujEwqzB7jrXBsRByqn6rsekTVG8Is19pJwYIk%2BO4%2BcaqI7c5m7B8AEq7hzWOgabKh0BS87Gl2D6nbATdhivUzjMqpRF43A6DIV3uOaI31Eb9f5eSEJRwrng7CDQSgF0KEfhsq2mSGQa3fhgmXbNsLsIOTUV4rAoHJ1ZbB9cJid4dOYZzbbQtpMxtfdxi7dTDjATumJLuMjfQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
 
 #### Comments (3)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 08, 2025 04:36am): 思ったよりAIが強くて負けそう:(
@@ -964,8 +964,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Nov 08, 2025 02:31am
-- **Updated At (UTC):** Jun 29, 2026 06:43am
+- **Created At:** Nov 08, 2025 02:31am
+- **Updated At:** Jun 29, 2026 06:43am
 
 ---
 
@@ -982,8 +982,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 29, 2025 12:41am
-- **Updated At (UTC):** Jun 29, 2026 06:43am
+- **Created At:** Oct 29, 2025 12:41am
+- **Updated At:** Jun 29, 2026 06:43am
 
 ---
 
@@ -997,8 +997,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 27, 2025 07:15am
-- **Updated At (UTC):** Jun 29, 2026 06:42am
+- **Created At:** Oct 27, 2025 07:15am
+- **Updated At:** Jun 29, 2026 06:42am
 
 ---
 
@@ -1007,7 +1007,7 @@
 
 <p>英語のみ対応です</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1785405996&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=iJ2ybCrMuoXz6LCoo9ZLUQ4XbM6Oo8ckzcafH9FRNPro4%2FHFiS%2Fr89erermBBUJMnZBBqwou3FLj6Jy00raLzf7iIKK%2BD2h6hU10iaOimf2HU%2B507QJXmlmhDA4lZ7%2BA3a8coJhfMTtO9JCZeIVOWf6Ed1BFa%2BhouAk8qCLK4y1vwm9eswW9aQRbg%2BjnsXdRLFtixdgxgC391UEhFdhBQh4ccFllv%2F5BEQVxPfAsBr5iCuTLU9AjsltYV0Ob6wYrdzPRlHlbSbbwEcSFfHYdBFtEieRAumIl13a5xJNMpeWzyHfcDOh4sFq%2BwA8iDUA3zyFBZFyDPdQcvhmUJkUjLw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1785410735&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=beANDfmKN2KfV8vsKhu2dDFK88hykyr7161zMxOwrA5hcYq4EHn6NUsHR73yV7XO8wgDic2oScmBTYXJ2kgCtrMvwFRDx1TFusz8SeybXsrr6Kd7UmtZL9LGkpDYWC%2FRPE1XrivUqglrwtExdy7llUrCSdU0BmLJylnX8zO6U7hLvv8STfdt4oGK2PPDV4nYtHxBtK6fKEzqBJ0r44Ebz6mfZgIcKN7HqIGHPmgOPjJkgI1oRIOmsdrR8DfH%2BEA%2Bu4w1gcgwklPUvCM%2BXFrWY3jAREMgmV7CAxYIDWvH51p1ZTzIofbIyOeZbBOJx3dW9CryP9jjXhmHOIrMcR6qhA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
 
 #### Comments (3)
 - **カービィ** (Feb 28, 2026 02:14am): どうやって進むの？
@@ -1016,8 +1016,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 14, 2026 04:40am
-- **Updated At (UTC):** Jun 29, 2026 06:39am
+- **Created At:** Feb 14, 2026 04:40am
+- **Updated At:** Jun 29, 2026 06:39am
 
 ---
 
@@ -1031,8 +1031,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 13, 2025 07:25am
-- **Updated At (UTC):** Jun 29, 2026 06:39am
+- **Created At:** Oct 13, 2025 07:25am
+- **Updated At:** Jun 29, 2026 06:39am
 
 ---
 
@@ -1043,8 +1043,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 18, 2025 02:37am
-- **Updated At (UTC):** Jun 29, 2026 06:39am
+- **Created At:** Oct 18, 2025 02:37am
+- **Updated At:** Jun 29, 2026 06:39am
 
 ---
 
@@ -1058,8 +1058,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 13, 2025 07:18am
-- **Updated At (UTC):** Jun 29, 2026 06:37am
+- **Created At:** Oct 13, 2025 07:18am
+- **Updated At:** Jun 29, 2026 06:37am
 
 ---
 
@@ -1073,8 +1073,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 13, 2025 07:00am
-- **Updated At (UTC):** Jun 29, 2026 06:38am
+- **Created At:** Oct 13, 2025 07:00am
+- **Updated At:** Jun 29, 2026 06:38am
 
 ---
 
@@ -1089,8 +1089,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 13, 2025 06:58am
-- **Updated At (UTC):** Jun 29, 2026 06:37am
+- **Created At:** Oct 13, 2025 06:58am
+- **Updated At:** Jun 29, 2026 06:37am
 
 ---
 
@@ -1104,8 +1104,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 13, 2025 06:59am
-- **Updated At (UTC):** Jun 29, 2026 06:37am
+- **Created At:** Oct 13, 2025 06:59am
+- **Updated At:** Jun 29, 2026 06:37am
 
 ---
 
@@ -1121,8 +1121,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 12, 2025 12:42pm
-- **Updated At (UTC):** Jun 29, 2026 06:35am
+- **Created At:** Oct 12, 2025 12:42pm
+- **Updated At:** Jun 29, 2026 06:35am
 
 ---
 
@@ -1139,8 +1139,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 09, 2025 02:55am
-- **Updated At (UTC):** Jun 29, 2026 06:33am
+- **Created At:** Oct 09, 2025 02:55am
+- **Updated At:** Jun 29, 2026 06:33am
 
 ---
 
@@ -1157,8 +1157,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 08, 2025 12:26pm
-- **Updated At (UTC):** Jun 29, 2026 06:32am
+- **Created At:** Oct 08, 2025 12:26pm
+- **Updated At:** Jun 29, 2026 06:32am
 
 ---
 
@@ -1178,8 +1178,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 05, 2025 01:28am
-- **Updated At (UTC):** Jun 29, 2026 06:32am
+- **Created At:** Oct 05, 2025 01:28am
+- **Updated At:** Jun 29, 2026 06:32am
 
 ---
 
@@ -1196,8 +1196,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Sep 25, 2025 12:37pm
-- **Updated At (UTC):** Jun 29, 2026 06:30am
+- **Created At:** Sep 25, 2025 12:37pm
+- **Updated At:** Jun 29, 2026 06:30am
 
 ---
 
@@ -1214,8 +1214,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Sep 01, 2025 09:52am
-- **Updated At (UTC):** Jun 29, 2026 06:30am
+- **Created At:** Sep 01, 2025 09:52am
+- **Updated At:** Jun 29, 2026 06:30am
 
 ---
 
@@ -1228,8 +1228,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 22, 2025 01:06am
-- **Updated At (UTC):** Jun 29, 2026 06:28am
+- **Created At:** Aug 22, 2025 01:06am
+- **Updated At:** Jun 29, 2026 06:28am
 
 ---
 
@@ -1240,8 +1240,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 17, 2025 10:52am
-- **Updated At (UTC):** Jun 29, 2026 06:29am
+- **Created At:** Aug 17, 2025 10:52am
+- **Updated At:** Jun 29, 2026 06:29am
 
 ---
 
@@ -1259,8 +1259,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 04, 2025 07:27am
-- **Updated At (UTC):** Jun 29, 2026 06:28am
+- **Created At:** Aug 04, 2025 07:27am
+- **Updated At:** Jun 29, 2026 06:28am
 
 ---
 
@@ -1277,8 +1277,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 02, 2025 05:03am
-- **Updated At (UTC):** Jun 29, 2026 06:27am
+- **Created At:** Aug 02, 2025 05:03am
+- **Updated At:** Jun 29, 2026 06:27am
 
 ---
 
@@ -1292,8 +1292,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 31, 2025 05:31am
-- **Updated At (UTC):** Jun 29, 2026 06:27am
+- **Created At:** Jul 31, 2025 05:31am
+- **Updated At:** Jun 29, 2026 06:27am
 
 ---
 
@@ -1309,8 +1309,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 29, 2025 11:04am
-- **Updated At (UTC):** Jun 29, 2026 06:26am
+- **Created At:** Jul 29, 2025 11:04am
+- **Updated At:** Jun 29, 2026 06:26am
 
 ---
 
@@ -1328,8 +1328,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 22, 2025 09:05am
-- **Updated At (UTC):** Jun 29, 2026 06:25am
+- **Created At:** Jul 22, 2025 09:05am
+- **Updated At:** Jun 29, 2026 06:25am
 
 ---
 
@@ -1344,8 +1344,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 05, 2025 05:38am
-- **Updated At (UTC):** Jun 29, 2026 06:24am
+- **Created At:** Jul 05, 2025 05:38am
+- **Updated At:** Jun 29, 2026 06:24am
 
 ---
 
@@ -1362,8 +1362,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 23, 2025 02:27am
-- **Updated At (UTC):** Jun 29, 2026 06:24am
+- **Created At:** Jun 23, 2025 02:27am
+- **Updated At:** Jun 29, 2026 06:24am
 
 ---
 
@@ -1389,8 +1389,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 21, 2025 07:50am
-- **Updated At (UTC):** Jun 29, 2026 06:24am
+- **Created At:** Jun 21, 2025 07:50am
+- **Updated At:** Jun 29, 2026 06:24am
 
 ---
 
@@ -1407,8 +1407,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 15, 2025 10:34pm
-- **Updated At (UTC):** Jun 29, 2026 06:23am
+- **Created At:** Jun 15, 2025 10:34pm
+- **Updated At:** Jun 29, 2026 06:23am
 
 ---
 
@@ -1433,8 +1433,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 15, 2025 10:20pm
-- **Updated At (UTC):** Jun 29, 2026 06:23am
+- **Created At:** Jun 15, 2025 10:20pm
+- **Updated At:** Jun 29, 2026 06:23am
 
 ---
 
@@ -1448,8 +1448,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 15, 2025 10:15pm
-- **Updated At (UTC):** Jun 29, 2026 06:23am
+- **Created At:** Jun 15, 2025 10:15pm
+- **Updated At:** Jun 29, 2026 06:23am
 
 ---
 
@@ -1463,8 +1463,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 13, 2025 11:18am
-- **Updated At (UTC):** Jun 29, 2026 06:23am
+- **Created At:** Jun 13, 2025 11:18am
+- **Updated At:** Jun 29, 2026 06:23am
 
 ---
 
@@ -1475,8 +1475,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 13, 2025 11:15am
-- **Updated At (UTC):** Jun 29, 2026 06:21am
+- **Created At:** Jun 13, 2025 11:15am
+- **Updated At:** Jun 29, 2026 06:21am
 
 ---
 
@@ -1487,8 +1487,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 13, 2025 10:57am
-- **Updated At (UTC):** Jun 29, 2026 06:21am
+- **Created At:** Jun 13, 2025 10:57am
+- **Updated At:** Jun 29, 2026 06:21am
 
 ---
 
@@ -1509,8 +1509,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 27, 2025 02:52am
-- **Updated At (UTC):** Jun 29, 2026 06:18am
+- **Created At:** May 27, 2025 02:52am
+- **Updated At:** Jun 29, 2026 06:18am
 
 ---
 
@@ -1536,8 +1536,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 01, 2025 06:58am
-- **Updated At (UTC):** Jun 29, 2026 06:16am
+- **Created At:** Apr 01, 2025 06:58am
+- **Updated At:** Jun 29, 2026 06:16am
 
 ---
 
@@ -1557,8 +1557,8 @@
 
 #### Additional Information
 - **Post color:** Yellow
-- **Created At (UTC):** May 01, 2026 08:34am
-- **Updated At (UTC):** May 01, 2026 08:41am
+- **Created At:** May 01, 2026 08:34am
+- **Updated At:** May 01, 2026 08:41am
 
 ---
 
@@ -1574,8 +1574,8 @@
 
 #### Additional Information
 - **Post color:** Yellow
-- **Created At (UTC):** Aug 27, 2024 11:32am
-- **Updated At (UTC):** Sep 22, 2025 11:25pm
+- **Created At:** Aug 27, 2024 11:32am
+- **Updated At:** Sep 22, 2025 11:25pm
 
 ---
 
@@ -1591,8 +1591,8 @@
 
 #### Additional Information
 - **Post color:** Yellow
-- **Created At (UTC):** Aug 27, 2024 11:33am
-- **Updated At (UTC):** Sep 22, 2025 11:25pm
+- **Created At:** Aug 27, 2024 11:33am
+- **Updated At:** Sep 22, 2025 11:25pm
 
 ---
 
@@ -1608,8 +1608,8 @@
 
 #### Additional Information
 - **Post color:** Yellow
-- **Created At (UTC):** Aug 27, 2024 11:35am
-- **Updated At (UTC):** Sep 22, 2025 11:25pm
+- **Created At:** Aug 27, 2024 11:35am
+- **Updated At:** Sep 22, 2025 11:25pm
 
 ---
 
@@ -1634,8 +1634,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 19, 2026 12:35am
-- **Updated At (UTC):** Jun 29, 2026 06:49am
+- **Created At:** Jan 19, 2026 12:35am
+- **Updated At:** Jun 29, 2026 06:49am
 
 ---
 
@@ -1669,8 +1669,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Oct 20, 2025 12:03pm
-- **Updated At (UTC):** Jul 11, 2026 09:45am
+- **Created At:** Oct 20, 2025 12:03pm
+- **Updated At:** Jul 11, 2026 09:45am
 
 ---
 
@@ -1689,7 +1689,7 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 20, 2025 10:39pm
-- **Updated At (UTC):** Oct 20, 2025 10:39pm
+- **Created At:** Oct 20, 2025 10:39pm
+- **Updated At:** Oct 20, 2025 10:39pm
 
 ---

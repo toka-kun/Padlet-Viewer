@@ -1,4 +1,4 @@
-最終取得: 2026/07/23 19:06:21
+最終取得: 2026/07/23 20:25:19
 
 # Shell Shockers 集会所
 
@@ -8,8 +8,8 @@
 - **Link:** https://padlet.com/Toka_Kun_/shell-shockers-ybtryru0lgzpxp34
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 222
-- **Created At (UTC):** Feb 02, 2024 08:21am
-- **Updated At (UTC):** Jul 21, 2026 10:22pm
+- **Created At:** Feb 02, 2024 08:21am
+- **Updated At:** Jul 21, 2026 10:22pm
 
 ## リンク集
 
@@ -27,8 +27,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Feb 02, 2024 08:29am
-- **Updated At (UTC):** Nov 03, 2025 12:57pm
+- **Created At:** Feb 02, 2024 08:29am
+- **Updated At:** Nov 03, 2025 12:57pm
 
 ---
 
@@ -45,8 +45,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jun 27, 2025 09:48am
-- **Updated At (UTC):** Apr 07, 2026 09:38am
+- **Created At:** Jun 27, 2025 09:48am
+- **Updated At:** Apr 07, 2026 09:38am
 
 ---
 
@@ -55,7 +55,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/@%E3%81%97%E3%82%8D%E3%81%8F%E3%81%BE_shirokuma">https://www.youtube.com/@%E3%81%97%E3%82%8D%E3%81%8F%E3%81%BE_shirokuma</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3024116910/2ca4861000cc8f71f871d9bbc39dc0fc/channels4_profile__1_.jpg?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BmW3Jo5OPvZO4I412K71zE8K9ZJBEtCjjYrlEbPbr2JGsrxC8SxeZyqeRuXw3kV3hEXg%2BnSxrtq6HdL9fC1qa5okoGfOEP1L%2BdFcp6tax0lcmNVigqkHb8RsLBcbR76zVdoZOAwh%2F8dECetgp2ioJiz1llISJwMvntYfzC0q75wvnCuVeu7eBnFOdzCGYPO2CNieP4HuoXymdiIdoY%2BrN4IB2Y%2FMigBhlkKj1kLQ8ZHv8lAMeo8minNAHELxwvf0qt40o0figteJtRjh%2Bi0saYUDcf6P8iQb22YLSK%2Fxagzk2Jv0NJ4ANgY0kCLDmqVzeteJr57oe6mh5netKad02Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3024116910%2F2ca4861000cc8f71f871d9bbc39dc0fc%2Fchannels4_profile__1_.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3024116910/2ca4861000cc8f71f871d9bbc39dc0fc/channels4_profile__1_.jpg?Expires=1785410725&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WNi9vRGL4HZlJM%2Fxill1DAvJZbGqtGatx2z7SJJ3IizmJtdHRbpCAoMKQjeNjVwmZ7iRRbtcydx86R1dX8V%2FKj4sIVtuUe2ZLLSbPB2Ten8LV4VUvzW5JjJF0Gu9LFZwg3A2cKYA5AE%2F607sEAVev8SLSHnhzUFRTBFfSA36U%2Fr%2B9x2TPNMP%2FdVIpuBVUFbjH7aJSrx5X0J8jNVfEaYADkbIfI9lKXsqzxiSV6We5cbGvQr%2B7hlCy7N1B%2FZB%2FAn5Znb3U7XHB0fhYMhSIX3o2Qoki%2FH%2B3MT4jNLclntMX1FVIwqqtVaFmLti9er2xM2WQSgY1A7n%2BdfuD%2BFs8Ud7mA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3024116910%2F2ca4861000cc8f71f871d9bbc39dc0fc%2Fchannels4_profile__1_.jpg)
 
 #### Comments (4)
 - **𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ** (Dec 09, 2024 06:30am): 後で見るわ
@@ -68,8 +68,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Nov 12, 2024 12:31pm
-- **Updated At (UTC):** Jun 05, 2025 12:52pm
+- **Created At:** Nov 12, 2024 12:31pm
+- **Updated At:** Jun 05, 2025 12:52pm
 
 ---
 
@@ -93,8 +93,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** May 04, 2025 02:41pm
-- **Updated At (UTC):** Dec 25, 2025 01:10am
+- **Created At:** May 04, 2025 02:41pm
+- **Updated At:** Dec 25, 2025 01:10am
 
 ---
 
@@ -103,7 +103,7 @@
 
 <p>LegacyShellは、BWDからのDMCAに従い、プレイできなくなりました。二度と復活することはありません。</p><blockquote><p>following a dmca from bwd, ive taken <a rel="noopener noreferrer nofollow" href="https://legacyshell.com/">https://legacyshell.com/</a> offline, forever. this isnt a late april fools joke.</p><p>thanks to everyone who played and supported the project, and no thanks at all to those that tried to bury this before i was forced to, who have indeed proven why we cant have nice things.</p><p>this will probably be the last major project ill have undertook now.</p></blockquote><p>訳: BWDからのDMCA に従い、<a rel="noopener noreferrer nofollow" href="https://legacyshell.com/">https://legacyshell.com/</a> を永久にオフラインにしました。これはエイプリルフールのジョークではありません。</p><p>このプロジェクトに参加し、サポートしてくれた皆さんに感謝します。そして、私にやむを得ずこれを葬り去らせた人たちにはまったく感謝しません。彼らは、私たちが良いものを手にできない理由を確かに証明しました。</p><p>これはおそらく、私が今取り組む最後の主要プロジェクトになるでしょう。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/9fc50cf55ecf7e22bc21ffe6aefc92cb/Screenshot_2025_04_03_01_19_35.png?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tuH%2FCEU83M0x00uEX9XOfIBTQK%2BmszCA%2B8zn2liCdg3sf9LzgP%2FLMWbhOknd8ybVLLGLqlZTPUuWzVK4IbZaZBa7oZB0oRXRL0VlrRqpfM42kkgxvYtLXTI%2FbfEEUoPlbWUcA%2BDe%2BBeTCDQ5xw5we13wkZeyzil7zBe3PWJ7dmYwNg3rVSzd2lQ66RTldUa%2F4QSDHZ%2B462OzXWXPrJ175VGPDXkWUbHT5TFNcMe64Zyg%2B9CfJDbw%2FktOduqxVXMPcbnvQNO%2B%2BFlInavk%2BCnkETZIf4UK7Ou6PZYkLnV%2BRXPuGfF1aKstdPqlq7lqFSFUBkJJ0HXLuNbsVt%2BeLV1sGQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F9fc50cf55ecf7e22bc21ffe6aefc92cb%2FScreenshot_2025_04_03_01_19_35.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/9fc50cf55ecf7e22bc21ffe6aefc92cb/Screenshot_2025_04_03_01_19_35.png?Expires=1785410725&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SGGfM3FIwFAWf5IaIAlHZxu9OpVNbRGcW7ccEbNEyoM06FCJDz9ifrNOHBUbM3FeAulblEL1VxkMEekmsh6cgJh%2BnGhcbbf0bY%2BeeYeKbYGb9pWD%2BE2U72xp1MzhdaSUJj04pvPEe%2F9dAUapO9%2FpzSONYI8QoyQX5xR9ZyqSb%2FHZ84Yk%2Bva0l7%2BOqsrwIyhJ0gupUG36rFuvQcIHqzm6LOOJM7Zpy84RBOcpvTmAbn6EGfWSLJ4gVm0WgZSMYC5W6X3%2BAEkc8KubdsRq0dN4yfygdkjELaGn7nIrXu7c%2BolgdHbDWfq955PfdO0VUvJMIE38iPbd0alPaJH67%2BwmRQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F9fc50cf55ecf7e22bc21ffe6aefc92cb%2FScreenshot_2025_04_03_01_19_35.png)
 
 #### Comments (9)
 - **典型的なこきです** (Apr 02, 2025 04:24pm): GGでした
@@ -121,8 +121,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Apr 02, 2025 04:23pm
-- **Updated At (UTC):** Jun 05, 2025 12:54pm
+- **Created At:** Apr 02, 2025 04:23pm
+- **Updated At:** Jun 05, 2025 12:54pm
 
 ---
 
@@ -131,15 +131,15 @@
 
 <p>今回のアプデ(2025/03/19)で、ひらがなやカタカナ、特殊文字などが名前やチャットで使えなくなりました。この事について運営の一人は「すぐに修正されるわけではない」としたうえで、</p><blockquote><p>まあ、絶対にないとは言い切れないでしょう。<br>ひらがなやカタカナも使えるようにするかもしれませんが、確かなことは言えません。<br> 私は、ひらがなとカタカナは使えると思っていたのですが、明らかに使えないので、意図的に削除されたのか、私が知らなかったのか、あるいは偶然に削除されたのか、どちらかだと思います。<br>次のアップデートで追加するかもしれません。</p></blockquote><p>ということで、使えるようになるかすら不明とのことです。</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/ad0889616effd011acaac6ed7e65766c/20250320_1251_ef7e163e98eded0b178986f8cd361283.png?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KcNHyC%2FX5Ht6NFucI62nV9%2FZxq6vd9ZwWkPYvCMQBHc9XYE6pHEVBORHOIOMYgkeJWT0bbRa2eh6PezQBWijtRyM1rK3WCHg0WXFyQ0d4wE%2FWryLRASEbw3Z6jXdfEW8BurZXAZvUVyVpxUClMcVTqO2BcMv86unzsrKJphpn9fzrWf9EKzCYAYGR4SYl9%2B2f%2B5WRQx0WZmo6Ca%2BsEJxW5fwZvA4ISfvkU6j%2FFuWCByBahAojPA9baYYT7vZ%2Bu%2Feg8R5Hfe7BAc%2Bp6vO2Tm72MD0k%2BZaM51yBkXBlmsLSQzdcbcwJbcCYq3XjQUupLUKPuduG1%2F21K8bJOa2v2%2BDGw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fad0889616effd011acaac6ed7e65766c%2F20250320_1251_ef7e163e98eded0b178986f8cd361283.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/ad0889616effd011acaac6ed7e65766c/20250320_1251_ef7e163e98eded0b178986f8cd361283.png?Expires=1785410725&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PY6S06zd%2FD3kNtbl4nSaeuWfIjsfU%2FCqaFR%2BYQy9wo4wgEF95RcdaXtgMmOW%2FGbhq1D5uKUmoqBmh368NfcC2kyPaKgXfRyf5m0LIXLRqlwe9DsG0pVK1AQ8onkYNrRG4e%2F8tSz7JjG2xFpUCl4XJ0ub5f84i2MlZ0iTi7eJhOXEGyTCqAE7wQoX0QAQUwHRAukISL4zkbxgtiKZ20q%2BmyPMa%2FJEWHgsMVT4G6YMU5kEdXhDxqZmYx5jTcr1cVHmtJE7v5WhkUAxWkrthnXNk4g%2BEYXdnpYdjIFhLePXssC4Ax3jt5iKY97i68RWab%2FsLPFBCjAEtXYxeUMS3RdVyQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fad0889616effd011acaac6ed7e65766c%2F20250320_1251_ef7e163e98eded0b178986f8cd361283.png)
 
 #### Reactions
 - **Emojis:** ❤️ (3)
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Mar 20, 2025 04:06am
-- **Updated At (UTC):** Jun 05, 2025 12:54pm
+- **Created At:** Mar 20, 2025 04:06am
+- **Updated At:** Jun 05, 2025 12:54pm
 
 ---
 
@@ -159,8 +159,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Mar 07, 2025 05:08am
-- **Updated At (UTC):** Jun 05, 2025 12:53pm
+- **Created At:** Mar 07, 2025 05:08am
+- **Updated At:** Jun 05, 2025 12:53pm
 
 ---
 
@@ -188,8 +188,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jul 17, 2025 12:00am
-- **Updated At (UTC):** Nov 29, 2025 06:11am
+- **Created At:** Jul 17, 2025 12:00am
+- **Updated At:** Nov 29, 2025 06:11am
 
 ---
 
@@ -210,8 +210,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Feb 05, 2025 10:04am
-- **Updated At (UTC):** Jun 27, 2025 09:52am
+- **Created At:** Feb 05, 2025 10:04am
+- **Updated At:** Jun 27, 2025 09:52am
 
 ---
 
@@ -220,8 +220,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 19, 2026 12:48am
-- **Updated At (UTC):** Mar 19, 2026 12:54am
+- **Created At:** Mar 19, 2026 12:48am
+- **Updated At:** Mar 19, 2026 12:54am
 
 ---
 
@@ -230,15 +230,15 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 06, 2026 07:21am
-- **Updated At (UTC):** Mar 16, 2026 11:20am
+- **Created At:** Mar 06, 2026 07:21am
+- **Updated At:** Mar 16, 2026 11:20am
 
 ---
 
 ### 4. るるるです！趣味は仮面ライダーの絵を書くことです。皆んなか良くしてね☆
 **Author:** るるる　バルコク共和国の大統領 (barukokukyouwakoku)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2373055819/b5aeabdaef656ffc5beea2cf057741a3/canvas__2_.png?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Xz0Ik0opJTJxk4vjion3HVBR4vQEXTOGUb9l6YctdlYpBSuZvtRu6pkIh06IrSmFww4tN3tzIblTwwn6Gnetd9WjP4%2FsCJeVPs2I6Zb%2BG6ykwFKwJUM0KOVOWRYsISDgyh6TGnb1OxRxUn%2FmyFwdxeq0T2WDseqeZ1M%2BJt9RoBGXDVEmEIRL366cc%2FVX3nhVDnxOGJEHLdOqR%2FjRWSyZUdrmmJFdc4ebzq2LEHM0a3q%2BCrzzaxbdd%2BQA47EaP8FYardfG8Einfw%2FoAgExtpO%2Bzv0wqvPE8S5om7MYNdJjVxkl3zXzCBiA9pqwEDQjhW65wlNfn6BbpYx%2BdOylPNNXw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2373055819%2Fb5aeabdaef656ffc5beea2cf057741a3%2Fcanvas__2_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2373055819/b5aeabdaef656ffc5beea2cf057741a3/canvas__2_.png?Expires=1785410725&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=O8YZCN1q8lSU0uoYBCTE6jydNGLqcyRmLq6%2Fb55ERpgicJvmnrgp8WA6R%2B9FHCfhjlXmRJU1qEz%2F4JSuRVeTHmsVHaxv44Ie6BXwTEbvFI4GXidnNvPDQ41olyjA1VuMAJ%2FBjEX16w3E%2BBWBKXD28Fv%2BitAfru08i32zc2EBOB%2Fjq3lPDSq5YzSQjsiOSyTvucELH3XHpEXXWJfQY75afgnjL%2BWcrmFInd1qPq9Qcm%2Fc9zZR1KXd5RRKHqvBCyhjjFfIvfnwkE6BiCf5UlZ%2FHH4FBAf%2BDB5p%2BgOh5FP6byAcnkVm%2B6Bv5LYn1AhBJpPQOlsoFE0jfIcqA9z%2BYjMPEw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2373055819%2Fb5aeabdaef656ffc5beea2cf057741a3%2Fcanvas__2_.png)
 
 #### Comments (4)
 - **Adventurous Moth** (Mar 05, 2026 11:28pm): かっこよー  
@@ -251,8 +251,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 16, 2026 08:29am
-- **Updated At (UTC):** Feb 17, 2026 09:36am
+- **Created At:** Feb 16, 2026 08:29am
+- **Updated At:** Feb 17, 2026 09:36am
 
 ---
 
@@ -263,8 +263,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 06, 2026 05:54am
-- **Updated At (UTC):** Feb 06, 2026 05:55am
+- **Created At:** Feb 06, 2026 05:54am
+- **Updated At:** Feb 06, 2026 05:55am
 
 ---
 
@@ -273,8 +273,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 26, 2026 08:17am
-- **Updated At (UTC):** Jan 28, 2026 01:26pm
+- **Created At:** Jan 26, 2026 08:17am
+- **Updated At:** Jan 28, 2026 01:26pm
 
 ---
 
@@ -288,8 +288,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 28, 2025 02:03pm
-- **Updated At (UTC):** Dec 29, 2025 02:01am
+- **Created At:** Dec 28, 2025 02:03pm
+- **Updated At:** Dec 29, 2025 02:01am
 
 ---
 
@@ -303,8 +303,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 19, 2025 06:50am
-- **Updated At (UTC):** Dec 19, 2025 07:01am
+- **Created At:** Dec 19, 2025 06:50am
+- **Updated At:** Dec 19, 2025 07:01am
 
 ---
 
@@ -316,8 +316,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Nov 11, 2025 03:29am
-- **Updated At (UTC):** Nov 11, 2025 04:43am
+- **Created At:** Nov 11, 2025 03:29am
+- **Updated At:** Nov 11, 2025 04:43am
 
 ---
 
@@ -331,8 +331,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 02, 2025 08:06am
-- **Updated At (UTC):** Oct 02, 2025 08:06am
+- **Created At:** Oct 02, 2025 08:06am
+- **Updated At:** Oct 02, 2025 08:06am
 
 ---
 
@@ -344,8 +344,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Sep 30, 2025 01:41pm
-- **Updated At (UTC):** Sep 30, 2025 01:41pm
+- **Created At:** Sep 30, 2025 01:41pm
+- **Updated At:** Sep 30, 2025 01:41pm
 
 ---
 
@@ -359,8 +359,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 13, 2025 11:59pm
-- **Updated At (UTC):** Aug 13, 2025 11:59pm
+- **Created At:** Aug 13, 2025 11:59pm
+- **Updated At:** Aug 13, 2025 11:59pm
 
 ---
 
@@ -369,8 +369,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 11, 2025 05:35am
-- **Updated At (UTC):** Aug 11, 2025 05:35am
+- **Created At:** Aug 11, 2025 05:35am
+- **Updated At:** Aug 11, 2025 05:35am
 
 ---
 
@@ -382,8 +382,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 08, 2025 07:10am
-- **Updated At (UTC):** Aug 08, 2025 07:10am
+- **Created At:** Aug 08, 2025 07:10am
+- **Updated At:** Aug 08, 2025 07:10am
 
 ---
 
@@ -397,8 +397,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 02, 2025 02:16pm
-- **Updated At (UTC):** Aug 02, 2025 02:16pm
+- **Created At:** Aug 02, 2025 02:16pm
+- **Updated At:** Aug 02, 2025 02:16pm
 
 ---
 
@@ -407,8 +407,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 25, 2025 10:24pm
-- **Updated At (UTC):** Jun 25, 2025 10:24pm
+- **Created At:** Jun 25, 2025 10:24pm
+- **Updated At:** Jun 25, 2025 10:24pm
 
 ---
 
@@ -425,8 +425,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 17, 2025 11:54am
-- **Updated At (UTC):** Jun 21, 2025 05:12am
+- **Created At:** Jun 17, 2025 11:54am
+- **Updated At:** Jun 21, 2025 05:12am
 
 ---
 
@@ -440,8 +440,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 06, 2025 07:03am
-- **Updated At (UTC):** Jun 06, 2025 07:03am
+- **Created At:** Jun 06, 2025 07:03am
+- **Updated At:** Jun 06, 2025 07:03am
 
 ---
 
@@ -463,8 +463,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 01, 2025 12:28am
-- **Updated At (UTC):** Jun 01, 2025 12:28am
+- **Created At:** Jun 01, 2025 12:28am
+- **Updated At:** Jun 01, 2025 12:28am
 
 ---
 
@@ -473,8 +473,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 03, 2025 10:13pm
-- **Updated At (UTC):** Apr 03, 2025 10:13pm
+- **Created At:** Apr 03, 2025 10:13pm
+- **Updated At:** Apr 03, 2025 10:13pm
 
 ---
 
@@ -492,8 +492,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 11, 2025 09:25am
-- **Updated At (UTC):** Mar 11, 2025 09:26am
+- **Created At:** Mar 11, 2025 09:25am
+- **Updated At:** Mar 11, 2025 09:26am
 
 ---
 
@@ -505,8 +505,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 03, 2025 10:18am
-- **Updated At (UTC):** Mar 03, 2025 10:18am
+- **Created At:** Mar 03, 2025 10:18am
+- **Updated At:** Mar 03, 2025 10:18am
 
 ---
 
@@ -517,8 +517,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 02, 2025 07:14am
-- **Updated At (UTC):** Mar 02, 2025 07:14am
+- **Created At:** Mar 02, 2025 07:14am
+- **Updated At:** Mar 02, 2025 07:14am
 
 ---
 
@@ -534,8 +534,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 02, 2025 02:18am
-- **Updated At (UTC):** Mar 02, 2025 01:14pm
+- **Created At:** Mar 02, 2025 02:18am
+- **Updated At:** Mar 02, 2025 01:14pm
 
 ---
 
@@ -551,8 +551,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 24, 2025 03:54am
-- **Updated At (UTC):** Feb 24, 2025 03:54am
+- **Created At:** Feb 24, 2025 03:54am
+- **Updated At:** Feb 24, 2025 03:54am
 
 ---
 
@@ -566,8 +566,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 18, 2025 02:18pm
-- **Updated At (UTC):** Feb 18, 2025 02:18pm
+- **Created At:** Feb 18, 2025 02:18pm
+- **Updated At:** Feb 18, 2025 02:18pm
 
 ---
 
@@ -579,8 +579,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 17, 2025 12:17pm
-- **Updated At (UTC):** Feb 17, 2025 12:17pm
+- **Created At:** Feb 17, 2025 12:17pm
+- **Updated At:** Feb 17, 2025 12:17pm
 
 ---
 
@@ -591,8 +591,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 10, 2025 11:54am
-- **Updated At (UTC):** Feb 10, 2025 11:54am
+- **Created At:** Feb 10, 2025 11:54am
+- **Updated At:** Feb 10, 2025 11:54am
 
 ---
 
@@ -605,8 +605,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 10, 2025 09:10am
-- **Updated At (UTC):** Feb 10, 2025 09:10am
+- **Created At:** Feb 10, 2025 09:10am
+- **Updated At:** Feb 10, 2025 09:10am
 
 ---
 
@@ -618,8 +618,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 05, 2025 05:36am
-- **Updated At (UTC):** Feb 05, 2025 05:36am
+- **Created At:** Feb 05, 2025 05:36am
+- **Updated At:** Feb 05, 2025 05:36am
 
 ---
 
@@ -628,8 +628,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 22, 2025 01:50pm
-- **Updated At (UTC):** Jan 22, 2025 01:50pm
+- **Created At:** Jan 22, 2025 01:50pm
+- **Updated At:** Jan 22, 2025 01:50pm
 
 ---
 
@@ -638,8 +638,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 22, 2025 01:49pm
-- **Updated At (UTC):** Jan 22, 2025 01:49pm
+- **Created At:** Jan 22, 2025 01:49pm
+- **Updated At:** Jan 22, 2025 01:49pm
 
 ---
 
@@ -648,7 +648,7 @@
 
 <p>神引ききちゃー！</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3239136421/034da9ba845bbf1e347b695b79557829/Screenshot_2025_01_13_22_37_10.png?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4I0x7sLM4HEPWCLkvStNNWo8JfDkWNrqfwQRpeltZFWNdQpRg7%2Fi6JSl9%2Bqj3rOVIKU%2FOtxFYRE%2Bd2RiYsNO8G3iqZquAXFgebKYDtHSd03IOVzbYTGjObKw6NgtZkSHBcCRZXnrpSPZkF1UOJQbm1X7fkWj8nWN%2Bk7uJzC2Yc42S5N%2BaeM47zGeYEFlnksaKAF7pjSs98k0xehjl1aekCvbZ%2FRrhV6vPqciYSq4Z%2FEG30e57UsDoPrwYbJmd581PkYSjUmDMlMnY0SxdLkXH8KfbELPUx%2Fn9f8M720bEPyus%2Ba6gu5O%2FNYKjo4kuKpF4Jab4LVPDeX0FdeNYxWOAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3239136421%2F034da9ba845bbf1e347b695b79557829%2FScreenshot_2025_01_13_22_37_10.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3239136421/034da9ba845bbf1e347b695b79557829/Screenshot_2025_01_13_22_37_10.png?Expires=1785410725&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bk9a9QJ0DUKQPzkWyrjx4ICQtvXB6BFwxU5rJ0NFPv5KPLwRMeUDsW1Fz44CaBM3GLe3%2FLK0CRyFAtbjfZqxXx3ULKzN1UhUeyLhQ7Lvaz0Yft1VaKglA2iROtn229tst700khkceD%2FlCoBLiN7kBWhPbrhrFe6OuTvg7LoP10UE6iZOKceT20Fty2RpHL5hC2awcoozsnf6%2FAJpWbmxbgsUBGDFdyvVBx03twlmkRbDrc9sMusipEqULKnQmEbUjOE390io5PgugqyrBQuPr%2BkLg%2BMPaTqesLPmfMzQepxetNY897D3HK4NKFvGzt1CyHgXcmYbUz9s8kprEYwDnw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3239136421%2F034da9ba845bbf1e347b695b79557829%2FScreenshot_2025_01_13_22_37_10.png)
 
 #### Comments (5)
 - **りどすまほ** (Jan 16, 2025 01:01pm): 🖕
@@ -662,15 +662,15 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 15, 2025 12:28pm
-- **Updated At (UTC):** Jan 15, 2025 12:32pm
+- **Created At:** Jan 15, 2025 12:28pm
+- **Updated At:** Jan 15, 2025 12:32pm
 
 ---
 
 ### 34. albino eggk-47 引いたぜ！
 **Author:** 見た目プロ (j5555522)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3239136421/0dff9039d2c99c808d54576cb4956dbd/Screenshot_2025_01_13_22_37_10.png?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MJnVD2d%2BMj39N8hKnq0bGfIusAwo7vLHsb1wZ%2BQ7TOcqejp09nXvryrqdAUmX498QmV698G6sBg%2FnGU%2BLR5PRzaRfmHLwwEW6T1umlelPpm4MAmGXrBDO8QRmv%2FjXiyYPiba20Y7Ed%2FG231s9HMjNiNogz%2F0lrhtgzVVibjnVZK4XUCm%2FOcn6NnNQLBbaC%2BKSyADeCtgHaq75N4yWRbdlJ8FkLyNrDfC%2B8hIMi5Zpendq2xtTGjUvo8NCZubaP%2F73RyUyeSFCF9m6s%2BDws%2BjXveCn35YPCqsDvpb0C2p%2Fqodo5JbhDZJWG6S%2F5mFWy22LQc72W9F6cgYq%2FYvl48V6w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3239136421%2F0dff9039d2c99c808d54576cb4956dbd%2FScreenshot_2025_01_13_22_37_10.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3239136421/0dff9039d2c99c808d54576cb4956dbd/Screenshot_2025_01_13_22_37_10.png?Expires=1785410725&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hY0nKCJB45K1iNBk4VRlSPnoZ6FSRJu8KZaUK%2F59X72MGzhXeQGrVOVA8OprtVvgA5xrYZDDXyPnoNFzGlNYdq0kIm6UXQpPDxx5R2Ff8F912T4Vqe3x%2BEBykfpGYdDAdf4dbaRz9aTGMDm4zl2GPtdLQ1tsNxCZOCZB6bqqmYn%2Bw%2BhY20H%2BQyWRnMxmMFAJ%2FFquYABRm4f5t%2FYipSWu%2BVaAGli0smwsSLzioUtzpNXwluMmqgDDu3pzfYwZSiXDlASoC4vMtFHNxFrZAwBqxtqUxgIM6Z5LiUV9tVxvSecR5xbnKtY1cYMb1BlQJXvcJFLietXstibp0T0nmOTVHw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3239136421%2F0dff9039d2c99c808d54576cb4956dbd%2FScreenshot_2025_01_13_22_37_10.png)
 
 #### Comments (2)
 - **OBUTAMAダス** (Jan 28, 2025 01:10pm): いいなぁ
@@ -681,8 +681,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 14, 2025 01:06am
-- **Updated At (UTC):** Jan 15, 2025 12:33pm
+- **Created At:** Jan 14, 2025 01:06am
+- **Updated At:** Jan 15, 2025 12:33pm
 
 ---
 
@@ -691,8 +691,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 24, 2024 12:26pm
-- **Updated At (UTC):** Feb 05, 2025 10:03am
+- **Created At:** Dec 24, 2024 12:26pm
+- **Updated At:** Feb 05, 2025 10:03am
 
 ---
 
@@ -704,8 +704,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 19, 2024 07:18am
-- **Updated At (UTC):** Dec 19, 2024 07:18am
+- **Created At:** Dec 19, 2024 07:18am
+- **Updated At:** Dec 19, 2024 07:18am
 
 ---
 
@@ -714,8 +714,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 17, 2024 03:07am
-- **Updated At (UTC):** Dec 17, 2024 03:07am
+- **Created At:** Dec 17, 2024 03:07am
+- **Updated At:** Dec 17, 2024 03:07am
 
 ---
 
@@ -729,8 +729,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 04, 2024 01:34am
-- **Updated At (UTC):** Dec 04, 2024 01:34am
+- **Created At:** Dec 04, 2024 01:34am
+- **Updated At:** Dec 04, 2024 01:34am
 
 ---
 
@@ -747,8 +747,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Nov 30, 2024 08:35am
-- **Updated At (UTC):** Nov 30, 2024 08:35am
+- **Created At:** Nov 30, 2024 08:35am
+- **Updated At:** Nov 30, 2024 08:35am
 
 ---
 
@@ -757,8 +757,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Nov 27, 2024 10:32am
-- **Updated At (UTC):** Nov 27, 2024 10:32am
+- **Created At:** Nov 27, 2024 10:32am
+- **Updated At:** Nov 27, 2024 10:32am
 
 ---
 
@@ -767,8 +767,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Nov 25, 2024 10:50am
-- **Updated At (UTC):** Nov 25, 2024 10:50am
+- **Created At:** Nov 25, 2024 10:50am
+- **Updated At:** Nov 25, 2024 10:50am
 
 ---
 
@@ -780,8 +780,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 22, 2024 11:30pm
-- **Updated At (UTC):** Oct 22, 2024 11:30pm
+- **Created At:** Oct 22, 2024 11:30pm
+- **Updated At:** Oct 22, 2024 11:30pm
 
 ---
 
@@ -790,8 +790,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 21, 2024 11:09pm
-- **Updated At (UTC):** Oct 21, 2024 11:09pm
+- **Created At:** Oct 21, 2024 11:09pm
+- **Updated At:** Oct 21, 2024 11:09pm
 
 ---
 
@@ -800,8 +800,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 21, 2024 11:07pm
-- **Updated At (UTC):** Oct 21, 2024 11:08pm
+- **Created At:** Oct 21, 2024 11:07pm
+- **Updated At:** Oct 21, 2024 11:08pm
 
 ---
 
@@ -819,8 +819,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 12, 2024 10:20am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Jul 12, 2024 10:20am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -839,8 +839,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 11, 2024 03:45am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Jul 11, 2024 03:45am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -855,8 +855,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 10, 2024 10:29am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Jun 10, 2024 10:29am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -875,8 +875,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 10, 2024 10:26am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Jun 10, 2024 10:26am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -890,15 +890,15 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 04, 2024 12:07pm
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Jun 04, 2024 12:07pm
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
 ### 50. killua
 **Author:** rido_k4mo (rido_kamo)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2499250589/751de5a404f0d4b22066fe424f8720e2/e60afe54_c58c_4569_9235_99d783b34a94.jpeg?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SAZe0bLkretiYuTYK60JNmTiQ90lPuMjABspmg3mDJMqPBCryQ%2BVfPpl2CLRnK3g9ATgkCfh6L0Emr7ytCuJAYjvmVsU3VDbcRSfDmOXQbA0H08V7iefq8kTczTtOjaNil9QM5iP81UOf2xbJerM%2BvvIzVJxsOEk3wxZFf%2BFoMo9L2AvJ96KmU8z3WN3tnpeclQdf0G90I7I3x%2BUQGXHEaRHqHcGm%2F89rLY%2FBMN9Y1NtEfREE3hc2tqADURkoBsMuytbDyu29QPfOrGzREXhZMY0KL%2FVufFWLLItsUk%2FfHeiKNNKLHmmpAJNVOVFX6Isn9iFTV1ieJ1p2jaRPDJhMw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2499250589%2F751de5a404f0d4b22066fe424f8720e2%2Fe60afe54_c58c_4569_9235_99d783b34a94.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2499250589/751de5a404f0d4b22066fe424f8720e2/e60afe54_c58c_4569_9235_99d783b34a94.jpeg?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=X1sCqixHBW4ETSy1rU0ppA%2BE9aCoFZFN6FxQFFReNLyz1Eqak6fLyVBvZ5NJJOdzel%2BEIYt%2FynejWgZiWBG3OIOCMtJlow2QRGzJcpcK6EcZXC%2B%2FoyruPrWIxJjRQhzi2MX3szmTTmjTgpcsGofDs2RS06c84K6kJLE5Lz0FN6twj%2B%2BSVHEqqfa%2F2UfcCAztb49YdwfRdb0BImOrMqzAt4%2FKdOZm6gX6brr6kHTHgmgu4ut9X8cO2Bz8UJEuuAM0Fbz6Npq%2B%2F38JySxcmgSgFbOaj8%2BWtjf4OiuVNNJd8cwBASIX5vBj2aQFEFJrpqG2xeFAhO3hSJGUlr6Km2BTtw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2499250589%2F751de5a404f0d4b22066fe424f8720e2%2Fe60afe54_c58c_4569_9235_99d783b34a94.jpeg)
 
 #### Comments (62)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Jun 03, 2024 07:18am): 一応いるで
@@ -969,8 +969,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 03, 2024 07:18am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Jun 03, 2024 07:18am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -987,8 +987,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 30, 2024 01:16pm
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** May 30, 2024 01:16pm
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -997,7 +997,7 @@
 
 <p>名前 プレーン 始めた日 ??? 主武器 全種類</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2446597452/ab6501cc36c7846180888d26aecc5a36/______.png?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=e8dcIuM8rYrcc6adYRBsauZkapDSlNGI56eXqUJdkP4XruR8DuswHT6%2BPTYD0t4IJSK751FJ0CJaMPb241Y1LeP42OEhfUkuALNx%2BCy9ZhuFB4HLGWyaUin5qkf1JWb75O2NijsdqhPBX78H%2B41w3B9Y3Z5KHEnqZyZBdFmR6hg7JAg0FZZo7tbs58sEqsl8%2BONME9qjJJDtqiKSQxiEII6Vi7C91KEH%2FFoNI%2B9auDZTdO9hw1inrXYoz45iwbeeFsUltfw3lMFdlOPVUP8qRGytapqXH6nYz83%2Fy2r1AU4mwLG1adHO4PmkzDyjNh0RKJQBjxGyB53Scgdpbe%2B1LA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2446597452%2Fab6501cc36c7846180888d26aecc5a36%2F______.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2446597452/ab6501cc36c7846180888d26aecc5a36/______.png?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Eq1LBhnIsEZ5x7NBd%2BHe5BSZnKUB6Sg8k01Mk1qmtEoqqydRwIvp313hLD4N%2B5CyqRa2UQ%2BWnwXJWN0Zu6toWE2y%2FlVkdWm%2BSHYXpk49R%2B%2FSlB0SrsIj7n1lQrNyjL64vgoP2Xb86nU4khZJ3%2BUZrOmEMFwmkH3lVO40xzoT%2FUK0NY5fbl39S5g47tbU%2FPKkKx%2FNtF17OgaeP8lAjRNhxnoAkg%2BIKQ8S8gAvxxw9uXdCQrqrpwVwgxIUb%2B1qfebFjpDeFH5k27m7HJjBUeVHcWBT7I408TOW3wioNXNJmSuX5Rq01xw7DTJf4nPmi%2B8NIrg8tONQS5WuD7sExwwQ6A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2446597452%2Fab6501cc36c7846180888d26aecc5a36%2F______.png)
 
 #### Comments (2)
 - **Anonymous** (May 08, 2024 03:26pm): よろしくね。
@@ -1008,15 +1008,15 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2024 10:20am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** May 08, 2024 10:20am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
 ### 53. ᏁγᎶ » 麒麟🐲
 **Author:** KIRIN_RYU (KIRINRYU)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2170841205/e767d620a2fe3752038c03065a4fe5cc/hunterkirin.webp?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2QV6lLExNztGuUwUVl%2FITGBXAzCTbyKRoZ4azez2w2voxfVIN08FJgDSJUevOLEvKIx16hAYOeAYB6XWanaw9ivgtP5v8MfASxLqejgtpSgrwepsB8vv5EWONMvL%2BaiNzySPbuM900Hgk9kl2hCTzNbBq7v3U7d73JxAz8afhxN%2FAg%2BPvr%2F1QcT%2BJ46Jf1kE3nTPgmrJrYc3ncuR4UX6C25eKZW%2FcXHxMgpLy1PlJ66hCaAlq%2BIMiXo2gz9%2F6lmEVwLE%2FUYbY%2FL%2BHDy9JDK55nGSkG68RZ5OaCdHNmdLrsZ9NqT0BjvYkmKh1kyBU5fcQjRKudCcNhGrdQawdiuF%2Fg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2170841205%2Fe767d620a2fe3752038c03065a4fe5cc%2Fhunterkirin.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2170841205/e767d620a2fe3752038c03065a4fe5cc/hunterkirin.webp?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=W8x%2B6EkeOv2jD4tQgzpqFhb5w%2BRJuAwVDxApc77VxQFDC85gPgxTg45VUYYyUzQeizpFiensbpuxw4OMbDjac%2Fhew8CBqSKb1N86Y6OEp3U8cVytmzykVRrzau4jBs4gFguv18Hkj%2BIK37lUnenrWO%2FH5uieyxpslxmk2QpqEJTcA9TmsENjcaDWxQTxslj3yi5YO7scqtG%2FbIPaC%2Fsa9WXkAnW5BfMe%2Fz7otDjhSxO2hi13N3wwnCz0GHojAm8Ly3z8SomB6E6jXSTiFILr9%2F95OR%2BDZgiBBczGQSSpmA1gZPBUtkakB%2FYliFNjdzOuw9AREPKr23LqqaXoblTlEw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2170841205%2Fe767d620a2fe3752038c03065a4fe5cc%2Fhunterkirin.webp)
 
 #### Comments (1)
 - **はるきんぐ１２** (Feb 13, 2025 01:28pm): まじかみ
@@ -1026,8 +1026,8 @@
 
 #### Additional Information
 - **Post color:** Blue
-- **Created At (UTC):** Feb 18, 2024 08:03am
-- **Updated At (UTC):** Jun 01, 2025 04:36am
+- **Created At:** Feb 18, 2024 08:03am
+- **Updated At:** Jun 01, 2025 04:36am
 
 ---
 
@@ -1047,8 +1047,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 02, 2024 08:32am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Feb 02, 2024 08:32am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -1065,8 +1065,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 21, 2026 08:41am
-- **Updated At (UTC):** May 21, 2026 08:41am
+- **Created At:** May 21, 2026 08:41am
+- **Updated At:** May 21, 2026 08:41am
 
 ---
 
@@ -1082,15 +1082,15 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 02, 2026 12:05pm
-- **Updated At (UTC):** Apr 02, 2026 12:05pm
+- **Created At:** Apr 02, 2026 12:05pm
+- **Updated At:** Apr 02, 2026 12:05pm
 
 ---
 
 ### 3. ケツついてる
 **Author:** あいうえお (gtr35aiueo)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/5a06207ecacbf9d8a6ec8daa5ed06c31/Shell_Shockers___Play_on_CrazyGames___Google_Chrome_2026_04_02_18_52_18.png?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nW%2Brg6ZpGpzgJvs9LQqBjs%2BKg%2F4YWmeIVfR0NtCHJinC3kL5Nx2t4g%2F5AxSrVjIEGJIJcs%2FyrGM7IuD4BqEXOwUJtEdvSzdGyuoEZ40ASJP%2BmSL7EgVPmai8u5VBqaGfz8rNgsaKTpQiTmWhEnXdJJAovLcNnhgVCxM8Opy62cll21dyEQ%2BaH7QI%2BG0Hg%2BmrzGhc7BrVheH9rWs7RQc2G2%2FrbF0y125R1uf0FnNyIKazaQgc%2B%2FegcQhkpcP7ax4Us%2Ftd%2Bmu%2Fa%2BuyAXiF1yEgLx3MtsmgYrIFKQH3yRQFgMIwdEcuKpjI4LtSairVvm6mwdktEXxbMxp8OJQekbIQJg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F5a06207ecacbf9d8a6ec8daa5ed06c31%2FShell_Shockers___Play_on_CrazyGames___Google_Chrome_2026_04_02_18_52_18.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/5a06207ecacbf9d8a6ec8daa5ed06c31/Shell_Shockers___Play_on_CrazyGames___Google_Chrome_2026_04_02_18_52_18.png?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=f11oyOXxiDv3fQWkClTXrUYXe70ShexXcAGf2TukQ1yaa5QDQUs8N99ZNWaJkRXSTFu6tYhaGTKrOcfXylyL%2F38JX%2FpaYcK7P%2F8mLzavePGANSXLyyJqUAfluC4bG5YJqaomedDpJbD%2BYA0DhIhsS4XN%2BAdElP7OIEq99BMp9u95lrQVneUChlmUi13wx5GEEHq5wRRaRjtbKYy5o3vfDr6hr%2BNaYGOxZ7zxjE1xTWDYc0GHJwVewAeShzjJJ1dNo2pqptZK%2FZW1WqvHcAgZi446h%2BUNlSe9u359ELCqswKVCGprv5HegJFLt%2FkWbUxscgI7iSafj01h89YHUk4Fww%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F5a06207ecacbf9d8a6ec8daa5ed06c31%2FShell_Shockers___Play_on_CrazyGames___Google_Chrome_2026_04_02_18_52_18.png)
 
 #### Comments (1)
 - **日本国民の鑑** (Jul 07, 2026 12:19am): 草
@@ -1100,8 +1100,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 02, 2026 09:53am
-- **Updated At (UTC):** Apr 03, 2026 01:48am
+- **Created At:** Apr 02, 2026 09:53am
+- **Updated At:** Apr 03, 2026 01:48am
 
 ---
 
@@ -1110,15 +1110,15 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 05, 2026 11:30pm
-- **Updated At (UTC):** Mar 05, 2026 11:30pm
+- **Created At:** Mar 05, 2026 11:30pm
+- **Updated At:** Mar 05, 2026 11:30pm
 
 ---
 
 ### 5. ロード画面から進まんのやけど
 **Author:** sknt
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5192848575/49b20111b3b0a3c33553262b908ceeb4/Screenshot_2026_02_17_21_43_49.png?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=sBCvvG8V8RzGgbQIay3ei9QcePYS5IdjxHPYBQYtmT%2FYuAVXzCvi9uai8jmizqX1K5AVg9H4e2o9XMFodlNOibo5ZMErnVF8m4PYQY0hO2nFN978%2FMwwUVtUjw4FZmhYXs6OjXXI045c%2Fd5g92hyhSCc5kLTNBY51%2FkjIGV9JtufOFgvcfMBKtMX6cyJVCcFwMyGYbqtKrxf1XrnJ0j7j%2BMruavTYUALnh8smhNL8nuH4Ig5rZIulhuXyQVoUrCNUKi92Fy7sU2ivqtKepRcg3KeWLWWzZ4QBJo4OKbS8v8mzwetEc5JXsJqwNcRGVWZHz8nDaaPsYwBe%2ByOXGV7kQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5192848575%2F49b20111b3b0a3c33553262b908ceeb4%2FScreenshot_2026_02_17_21_43_49.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5192848575/49b20111b3b0a3c33553262b908ceeb4/Screenshot_2026_02_17_21_43_49.png?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0Oqx0P3Pe02hgyA%2Bb2O3s65iO%2BrcqR4dPuXkByXCEiuZVi%2FnBF3j2Rus8hNfx0%2FQrjsxcRhIEpZVmlXcw4lyMnuUzmOA7sH8vDh8UzG6gfoRCe1cPoFN2a%2B%2F1l2ZwC%2BYkurRxUwrSPOCGxKYt4sHo2j9Nz6p8gHoXJ%2FyaWdnaxzJERclZz4b%2FVQsdnmpP4F%2B7b0ZA%2F9Kuwh2kx3pCsoQcuMFLoaMMorpo%2FltM%2F0Ctg6zha%2FHarybJjMDlF72LyWLlKgyxY%2FJAgLci879EkstwkvbQh99tBjZUJI3B7iwboBsir1I6mjp2bAXt9MGvYYRmXuMkBcGDpm8XOm5CYfJuw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5192848575%2F49b20111b3b0a3c33553262b908ceeb4%2FScreenshot_2026_02_17_21_43_49.png)
 
 #### Comments (4)
 - **常闇 トワ（不地口手万ディ）** (Feb 17, 2026 11:03pm): それなｗｗｗ
@@ -1128,8 +1128,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 17, 2026 12:44pm
-- **Updated At (UTC):** Feb 17, 2026 12:44pm
+- **Created At:** Feb 17, 2026 12:44pm
+- **Updated At:** Feb 17, 2026 12:44pm
 
 ---
 
@@ -1138,22 +1138,22 @@
 
 <p>ｻﾐｼｲﾅ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/0f07c544bf60d683c56314317d71c349/LegacyShell___Google_Chrome_2026_02_10_21_11_42.mp4?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Q5FfVx00%2BTwJyuP2xkybsA80JKGIQyLSYXmrUrxM9l26S64JZ4a7KVWDosg2ZG6tOZE%2FC5%2F7PjTJRgm1ZT9sbjaHnKfn3F8AjVS9jJdvL%2BWNak3FrYYDbSLBdzHoeeWUwi4x4W966Br1xD7%2B%2F9zimiEzcISzxIgAuaJe9LOlLbOXLUm4wy4%2Bf3EUjcb9LTMlDFdiGeKQbPydTrCRwHEodfgHYiCZGh6DeU0G%2BclH6R2b9e%2FVZDiO3k0uouEKqLQZwsx8NUQVL5PftQvRF69Ye9ZGThdS2SU%2Fo6WzXW5Yh3zF1iT0NhzWxQB3uNe6noAyHWbWhS35zkBaKS40CD7oUg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F0f07c544bf60d683c56314317d71c349%2FLegacyShell___Google_Chrome_2026_02_10_21_11_42.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/0f07c544bf60d683c56314317d71c349/LegacyShell___Google_Chrome_2026_02_10_21_11_42.mp4?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=19ufOD27GIxmK5ZS6KOK7GqFi%2BvnxDxtVESsehAuT6cOv6BQGmE%2BdPXIOwiSgcgVMZN3HvjBMF3F%2BYK%2FL6oK6yY11gQWqJO0UfQuhEQ5rLaKqgZta2xg66UnOLbDS3t1tRVlMQ45XN3bkhmohi7IEAFqLIyixzAIiCoe%2Fpn97SS%2Bv99MLYVhIJ7mQWjrPMmENdf8SSk4ozitjrF81pC8xGWgg7mmzNX2zT6Dh%2FbALwA6PVD69aem3QbPC0olwAeY4inmme0aHGZDyLRDdhSa92GdjVAejfwu4o7epsH15%2B2FsxuvVVNr%2BHjIkaNFYr%2BgimhqdcDEDuXzzOrAMnAAwg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F0f07c544bf60d683c56314317d71c349%2FLegacyShell___Google_Chrome_2026_02_10_21_11_42.mp4)
 
 #### Reactions
 - **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 10, 2026 12:12pm
-- **Updated At (UTC):** Feb 10, 2026 12:12pm
+- **Created At:** Feb 10, 2026 12:12pm
+- **Updated At:** Feb 10, 2026 12:12pm
 
 ---
 
 ### 7. imihumei
 **Author:** あいうえお (gtr35aiueo)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/8a4e938fcdf952ac10a8405752f4ab6e/Shell_Shockers____CrazyGames_______Google_Chrome_2025_12_03_17_55_32.mp4?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=HkvnlXqvHoeM%2FK3aSyMvBlNOTXCBvOqecBpjMAJKXxj%2BkAHBIafNe3i7tBdxn0P8B6I%2Fi8E2irlYy3yI0um%2BptGk4V5Q14gqV7xLLLaDfDT1iBw6ZWKyhmqSrGSbETOXLChWjUYQXlc2exTNMyKTVSPabvMaDun%2FoYs%2BZZuO8ApC%2BjhfzL08aoeCY4jK6yLLj3vvYU%2Boyygq6ofHzspR7hWGZs7m6QTq%2Bp5fT9CxLmbqkttCmdATE9n1VGXrWGhfm3GkAkkawgOfZpY9Zfm7Wx%2BWbB7Rg2xVW3Kfwa1xJRqRCCZM1Cg%2BxYrJ5nrGN2jjNDK6MUfDKjI%2B%2FM%2FCbPBN1A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F8a4e938fcdf952ac10a8405752f4ab6e%2FShell_Shockers____CrazyGames_______Google_Chrome_2025_12_03_17_55_32.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/8a4e938fcdf952ac10a8405752f4ab6e/Shell_Shockers____CrazyGames_______Google_Chrome_2025_12_03_17_55_32.mp4?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DNi1kLyYH%2B5Nrj7qtXHJQ4gppDQ7svrtDSpAscRHsH54pIKXYjKVQxWRdULJt%2BdUgsuO5RkqrF%2FqIANH1gc4N4ba4APQ6QJA5SdcHDM4c%2BlqleGV%2FTiTvkxRuFKKUuPxGPA8WRZMB6plUyIIgAh5h5VIQRGGu4yPmhFoJv%2B7lJY929mCNcLvNieXn3RzZRZ00RjyilGRPhqQnRcKLhq8jxz%2FKWGIP5VgVG1npev9Fz0IUvKVRU8ymXua86Rmy%2FUDTT%2FJVmjq02VxkC0BvSWFchTkENrdUZC2LzZGFTH6uP%2FcQe9%2BAjx1PUXYGmZjvskthRjUugxJ5aCFjAOiQF8F6w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2F8a4e938fcdf952ac10a8405752f4ab6e%2FShell_Shockers____CrazyGames_______Google_Chrome_2025_12_03_17_55_32.mp4)
 
 #### Comments (16)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Dec 04, 2025 06:34am): ww
@@ -1175,8 +1175,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 03, 2025 08:56am
-- **Updated At (UTC):** Dec 04, 2025 06:34am
+- **Created At:** Dec 03, 2025 08:56am
+- **Updated At:** Dec 04, 2025 06:34am
 
 ---
 
@@ -1187,8 +1187,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 13, 2025 01:57am
-- **Updated At (UTC):** Oct 13, 2025 01:57am
+- **Created At:** Oct 13, 2025 01:57am
+- **Updated At:** Oct 13, 2025 01:57am
 
 ---
 
@@ -1200,8 +1200,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 02, 2025 08:06am
-- **Updated At (UTC):** Oct 02, 2025 08:06am
+- **Created At:** Oct 02, 2025 08:06am
+- **Updated At:** Oct 02, 2025 08:06am
 
 ---
 
@@ -1210,12 +1210,12 @@
 
 <p>YouTube: <a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=oWk54O7s9Qs">https://www.youtube.com/watch?v=oWk54O7s9Qs</a></p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/873f011812cafeb8d3a0098fd6fa5718/Shell_Ranked_Collab_X_1v1_Tournament.mp4?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=8Hczn7S1evbs9ADZCb2%2BLpndJ%2Bg8SygWAUqDIpWnZxNzq8a%2FN9HxSiHUD0GUWfGCZtcGeLsW9RQfxHuB3M%2FYcazV6oov7ZomOshenaWWi%2FeTiJxP3AEv%2FNqzh8aC93MkW2p3Iw7bpIws2FjFR9uMoqYnzddY6JD0oIVgIdfwYDUShnB6f%2FfdKfBfH36goZ%2BbzSfhEWZ7dKt58fNb95GcyneiumuwJhCQkzqnGG8AOFkaneZXDU1Kur8QalHusjHST4zJDYGX9sXolppLrPgjLTeu7qS%2BKMm4N4Vkj%2Bca%2F794uYb%2BM8%2B3G06JJ76nTgpVbJeiWcdvz%2FZZhE4QuanBrA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F873f011812cafeb8d3a0098fd6fa5718%2FShell_Ranked_Collab_X_1v1_Tournament.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/873f011812cafeb8d3a0098fd6fa5718/Shell_Ranked_Collab_X_1v1_Tournament.mp4?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MacPVL2CaT495H5GDTJwXyFGTOg4TRsyZzUIdHCq0AdNGkZ6sN%2B9XW8YJmWy3RMwCvIShof38YwkA%2ByWumwcSn7LwsKthLMQJ%2BBXLHVq%2BB4dDyKJ%2BP96YuoUQqy5r4SDMAHalfq5nMQUrBSEH81D7T1gNELJmeVmIYUktS2uLEz5jEscfTbwdc5GitmDKM4rm6CV%2FGr4BjR%2BOuRHmlguHvHGRSDaY9b1vPiVCdG3D2JVryBxoXneaCuAQS7RYTkmrMapWM6roA54SEX8v9qPYf65UReIYfP6zAZOEYEezdsycXZ9UaebFYaXYVGFbVHRxZLejixdoYdxAAIVCG4tuA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F873f011812cafeb8d3a0098fd6fa5718%2FShell_Ranked_Collab_X_1v1_Tournament.mp4)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Sep 10, 2025 10:25pm
-- **Updated At (UTC):** Sep 10, 2025 10:25pm
+- **Created At:** Sep 10, 2025 10:25pm
+- **Updated At:** Sep 10, 2025 10:25pm
 
 ---
 
@@ -1228,8 +1228,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Sep 04, 2025 10:40am
-- **Updated At (UTC):** Sep 04, 2025 10:40am
+- **Created At:** Sep 04, 2025 10:40am
+- **Updated At:** Sep 04, 2025 10:40am
 
 ---
 
@@ -1244,8 +1244,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 07, 2025 06:27am
-- **Updated At (UTC):** Aug 07, 2025 06:27am
+- **Created At:** Aug 07, 2025 06:27am
+- **Updated At:** Aug 07, 2025 06:27am
 
 ---
 
@@ -1253,22 +1253,22 @@
 
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/935db3c32cd5b4cb88ac90bc9453cb2e/image.png?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ekKyW9NrVFpYK7IXSae8rS900gugvLB5lXt9XLvWmdX0lKoE9uBxPEaIm%2FdhzjMx3VV73JSfea7J2lwzgsSAMzYGQ41axcs0QqnF%2F6%2FwpYtdM3vVSxKJL6V5egb8O%2FZd92mPRAyT254C5w%2Fc2iO9egNZDjzL0yz%2B%2BRXc%2F5vjKVm104ftJnYPlqIy8rBoXDrMjyplgIxOH4S2uBdaVe1vyzxQ6RuUtGN0TcpR97Q4LDu2W1R0Wm%2BE6ewpEMHjg0WS6KxRW8V35iLxdAgB00alInxHmYH8joygjtCU57Fkqv0t3NY%2BtOgcJDjhUnBd4hhXTb33MwvEjBNO4vf9MAxH4A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F935db3c32cd5b4cb88ac90bc9453cb2e%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/935db3c32cd5b4cb88ac90bc9453cb2e/image.png?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QChU%2FK7nrsQ2zucNlxcii%2BbHBsDxOCbK3vVQIqZ1ieDXxcQ9nYrWfSuKQIVVhn%2F1DwXOCxg4ZftJHHbgZ2wAHP3C7uJNloWZHMYV2YE%2BT3gmQsrsPb8HlIJ8taFmC5e4KJsjajMg1iR9pAQxkegjQPoFO%2BLKvbhoucSJ%2B9fPUazdO1sZQvcIpGUojXKbUo6OdS7P7XfpmYLSDUESKhPIa4s6S8Hy4NGa6evexiDCUAPF09plMYwzN%2BwRNtMplSP%2FbmhDbqtNj%2FCuFYhLqr%2BJmcqUCyx47mKR5fhy%2B1%2BlGzF3mjk9UPZjM7jHmWBxtrjMMBj6vfmiHAESTpQuZLaJ7Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F935db3c32cd5b4cb88ac90bc9453cb2e%2Fimage.png)
 
 #### Reactions
 - **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 05, 2025 11:12am
-- **Updated At (UTC):** Aug 05, 2025 11:12am
+- **Created At:** Aug 05, 2025 11:12am
+- **Updated At:** Aug 05, 2025 11:12am
 
 ---
 
 ### 14. Zaxonius stampっていうcode当たって俺持ってるから抽選で誰かにあげようと思ってるんだけどそもそも欲しい人いる？
 **Author:** taba (nova82812397)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3346092100/816d0d105e69300c3257cacffc1dc1dd/Zaxonius_Stamp.webp?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Xx0s2lYlusjPrHnX1xZEDcD5sTOQawFSh%2BspAClZENKbZDC3eeKi%2B%2BElV1MJGtl3S1NVjKfVZNt12FuQPQgJ5QREm3O74O5yL8OeRYuu%2FZDFIXfhULfroNi%2F1tMZ7%2FwFiKY46GAMpMnXDIsymFUF1no1AjT8wpRTmrmdmsvBO18Cg9SP6WKrdTtnlMEKHLsjSKaH0Z0bTJvxbAB35hHncpsCfxLWHpRu%2BeUsvZJeKYug0dw5BXwaFDS4%2F%2F70g6kBdFpQOIxr0cAyIABoyxoA1BpCxGT28hQRtfYACqV34DR0WHFGcEA%2FoXP6oI4mSwDiQToyQs3cDTUWm%2FrUE5xxkg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3346092100%2F816d0d105e69300c3257cacffc1dc1dd%2FZaxonius_Stamp.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3346092100/816d0d105e69300c3257cacffc1dc1dd/Zaxonius_Stamp.webp?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=OnPgA23sfiNQdp0UtQn6ECj%2BVqtXku%2F%2BDVy8SADD7P8F54DCKx5LcMD5F7KZo0samaaLMQsRphCH8qmEqsySnEzaFfzxv75D%2FbLpPx9vjcet6dI8a%2BWEiaInq3ZIRx7xe9eBXe%2B3nXXV7rZRZRk31NhvZ6OtRWViWEBkOCVPxEzNP79UJrW9vkk0F6zjdIN%2BfDjHx1vIX5iJjfNaMSHR%2BH1s9rBxAyo8HlE9Q25EZ%2Fz%2F4t8%2Bv8%2FZ7KV4L4jJaZKO9n1p6Jd6xppFEPPHaXhv7esRaHals5NMY3pl4FXwe32PHspVklmxQzC6cFKly7Y%2FBOVv9lPgqc7cQAa5d0OyEA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3346092100%2F816d0d105e69300c3257cacffc1dc1dd%2FZaxonius_Stamp.webp)
 
 #### Comments (3)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Aug 03, 2025 03:13am): くれええええええええええ
@@ -1277,8 +1277,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 03, 2025 01:26am
-- **Updated At (UTC):** Aug 03, 2025 01:26am
+- **Created At:** Aug 03, 2025 01:26am
+- **Updated At:** Aug 03, 2025 01:26am
 
 ---
 
@@ -1296,8 +1296,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 27, 2025 02:29pm
-- **Updated At (UTC):** Jul 27, 2025 02:29pm
+- **Created At:** Jul 27, 2025 02:29pm
+- **Updated At:** Jul 27, 2025 02:29pm
 
 ---
 
@@ -1321,8 +1321,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 27, 2025 02:19pm
-- **Updated At (UTC):** Jul 27, 2025 02:19pm
+- **Created At:** Jul 27, 2025 02:19pm
+- **Updated At:** Jul 27, 2025 02:19pm
 
 ---
 
@@ -1341,8 +1341,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 12, 2025 02:36pm
-- **Updated At (UTC):** Jul 12, 2025 03:37pm
+- **Created At:** Jul 12, 2025 02:36pm
+- **Updated At:** Jul 12, 2025 03:37pm
 
 ---
 
@@ -1363,8 +1363,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 16, 2025 07:00am
-- **Updated At (UTC):** Jun 16, 2025 07:00am
+- **Created At:** Jun 16, 2025 07:00am
+- **Updated At:** Jun 16, 2025 07:00am
 
 ---
 
@@ -1381,8 +1381,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 11, 2025 11:02pm
-- **Updated At (UTC):** Jun 12, 2025 07:55am
+- **Created At:** Jun 11, 2025 11:02pm
+- **Updated At:** Jun 12, 2025 07:55am
 
 ---
 
@@ -1391,8 +1391,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 07, 2025 04:11am
-- **Updated At (UTC):** Jun 07, 2025 04:11am
+- **Created At:** Jun 07, 2025 04:11am
+- **Updated At:** Jun 07, 2025 04:11am
 
 ---
 
@@ -1416,8 +1416,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 06, 2025 11:11am
-- **Updated At (UTC):** Jun 06, 2025 11:11am
+- **Created At:** Jun 06, 2025 11:11am
+- **Updated At:** Jun 06, 2025 11:11am
 
 ---
 
@@ -1435,8 +1435,8 @@
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Jun 05, 2025 08:42am
-- **Updated At (UTC):** Jun 05, 2025 08:47am
+- **Created At:** Jun 05, 2025 08:42am
+- **Updated At:** Jun 05, 2025 08:47am
 
 ---
 
@@ -1451,8 +1451,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 31, 2025 11:32pm
-- **Updated At (UTC):** May 31, 2025 11:32pm
+- **Created At:** May 31, 2025 11:32pm
+- **Updated At:** May 31, 2025 11:32pm
 
 ---
 
@@ -1467,8 +1467,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 31, 2025 11:41am
-- **Updated At (UTC):** May 31, 2025 11:41am
+- **Created At:** May 31, 2025 11:41am
+- **Updated At:** May 31, 2025 11:41am
 
 ---
 
@@ -1477,8 +1477,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 28, 2025 07:49am
-- **Updated At (UTC):** May 28, 2025 07:49am
+- **Created At:** May 28, 2025 07:49am
+- **Updated At:** May 28, 2025 07:49am
 
 ---
 
@@ -1493,8 +1493,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 25, 2025 10:48am
-- **Updated At (UTC):** May 25, 2025 10:48am
+- **Created At:** May 25, 2025 10:48am
+- **Updated At:** May 25, 2025 10:48am
 
 ---
 
@@ -1503,8 +1503,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 24, 2025 12:59am
-- **Updated At (UTC):** May 24, 2025 12:59am
+- **Created At:** May 24, 2025 12:59am
+- **Updated At:** May 24, 2025 12:59am
 
 ---
 
@@ -1513,8 +1513,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 21, 2025 10:26am
-- **Updated At (UTC):** May 21, 2025 11:04am
+- **Created At:** May 21, 2025 10:26am
+- **Updated At:** May 21, 2025 11:04am
 
 ---
 
@@ -1527,8 +1527,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 12, 2025 08:50am
-- **Updated At (UTC):** May 12, 2025 08:50am
+- **Created At:** May 12, 2025 08:50am
+- **Updated At:** May 12, 2025 08:50am
 
 ---
 
@@ -1551,8 +1551,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 18, 2025 09:52am
-- **Updated At (UTC):** Mar 18, 2025 09:52am
+- **Created At:** Mar 18, 2025 09:52am
+- **Updated At:** Mar 18, 2025 09:52am
 
 ---
 
@@ -1564,8 +1564,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 13, 2025 08:00am
-- **Updated At (UTC):** Mar 13, 2025 08:00am
+- **Created At:** Mar 13, 2025 08:00am
+- **Updated At:** Mar 13, 2025 08:00am
 
 ---
 
@@ -1592,8 +1592,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 08, 2025 01:43pm
-- **Updated At (UTC):** Mar 08, 2025 01:43pm
+- **Created At:** Mar 08, 2025 01:43pm
+- **Updated At:** Mar 08, 2025 01:43pm
 
 ---
 
@@ -1611,8 +1611,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Mar 03, 2025 01:15pm
-- **Updated At (UTC):** Mar 08, 2025 01:46pm
+- **Created At:** Mar 03, 2025 01:15pm
+- **Updated At:** Mar 08, 2025 01:46pm
 
 ---
 
@@ -1621,19 +1621,19 @@
 
 <p>規制されたくないのでURL消すのと</p><p>あと宣伝で身バレしたくないので</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/810de6256bcca593c429580dc97f10a4/_________.png?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JnJwRovBhcaxh%2FUQDOJP%2Bv1FnWXjosxz2hIY0033NkqBSuXVwsbiAuxtb30q9VS3W0pNwdISn%2FBENbAzFS4JCYNFqn2mh2WsN9bbjlgLhF%2BxfikZyTORcjXEQprpPvuAN7KoXuuuCahYXa6wNjGuV9iUw%2B%2FRK7WmN8GQ2Lepxm4%2FWsz4DeNqYfndQlzyrTaas%2FVaGZHKPine0PxbBviRIV4tmDnonxZIr1blr2EJNjGdp9mrN2oO5BdlhR3z0S2XBPhThl2uvhUacqHM9adLSvJ7Nk6KColiQTYPVOxwUcDnHbRSKolDaqujhFRGhFjJSpFVMORsR5MR78DpVVNxVA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F810de6256bcca593c429580dc97f10a4%2F_________.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/810de6256bcca593c429580dc97f10a4/_________.png?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RTbFWKGZ7xbT3J5wiiFBhfFvAnpTvf5WHyIoJVYcP13M3Z6hTgJM%2FBob6Yrh2kqZHEkcsoFCTQfEijTrFrgnLGqu%2B2iyJjE8GnFMsIElNRn2uzuZUHUAFsV91HmQuRuZ7jNo1ASmAHJiM3scpbpDBdq87m1Pp7z%2FgPAIK5PgSRVQmycdFg6tQyFFKIPkJwk%2BDQWJ9Dev6GmWKB6Yrn8aLg6upLfhxcz7LuGQLUFWCkJA%2BNrFRyjRLSHy4fePVL3qYxynhgIsXpsdleLNEl8%2BR43TaKcgcCjTI9v5CnBLQzA6MqbnXUZVfext049pUSNhHBzSmf4gistn35eTM%2B4ntA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F810de6256bcca593c429580dc97f10a4%2F_________.png)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 03, 2025 01:26pm
-- **Updated At (UTC):** Mar 03, 2025 01:26pm
+- **Created At:** Mar 03, 2025 01:26pm
+- **Updated At:** Mar 03, 2025 01:26pm
 
 ---
 
 ### 35. 学パソ民です、KDRください
 **Author:** 典型的なこきです (kokkiEX)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/805c64e6e3993e48a7781b1c604093a9/Screenshot_2024_04_14_21_14_48.png?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bwmnYKSeLrl97E2dp1VLsZn%2Br%2FvZf1H4HmI0hrE9hhdX7ue9NiuaHqeaYsuBEGTUV2ZbpQd0J7FzFx0z%2B%2BHop4dlhUv32NdFMD5PT%2BL8bo3NbCEFzV7i8QybuDBCJJoTEZ2m6utYS9l1HbBNIR3r05dnztae8XBEqmf6Ez7McHl1GNZ4IyyE%2FMJTMUnksBNDNGL0wtV7DnHSUGi6wnYgyFfjgvlIPOZIvgov72ycirbcM2w9dB23QYt2WXGFUMYysOGhfmPxTsBNZk6jXjmdqC1rTJBo4CPl9Uk3bABCGu4IxAilbJRha%2FJHcyLiekmX9c3ojkNXD43jBkh5h%2BrydA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F805c64e6e3993e48a7781b1c604093a9%2FScreenshot_2024_04_14_21_14_48.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/805c64e6e3993e48a7781b1c604093a9/Screenshot_2024_04_14_21_14_48.png?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=r4c8GtWn9EmiuLk6NnCLNDaykHJA2v75l65hnc7TVMihlUCa6i66FnUp5sqmAmH%2BNho06xn2e1k%2BFN9n8dh6N%2BG8nbqGcw6RBMm%2FMvpua3%2B3PZJOme01yvsgF7xHraYYsESHrreifwOOczmw5vj5ZIlM5VZnujlQ3RiEAEtn8q3PEd%2F6cpZaeTydYSdoJVtePZrgzdyiKGgyiafIzensy4TxS0z5FfsLr3PkfT0SHZGdETScIp4u2HH9%2FFdmHfPtTzc%2FMUtj5durbZ3O1HxQpTUitLp8zDx1OFm7VYSh23Kq%2BoiA2746o9p71D5ejKRnVBUc0GJN%2FxKdTKUK9ZaV9Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F805c64e6e3993e48a7781b1c604093a9%2FScreenshot_2024_04_14_21_14_48.png)
 
 #### Comments (3)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 03, 2025 01:17pm): 去年の4月のやつやw
@@ -1642,15 +1642,15 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 03, 2025 01:16pm
-- **Updated At (UTC):** Mar 03, 2025 01:16pm
+- **Created At:** Mar 03, 2025 01:16pm
+- **Updated At:** Mar 03, 2025 01:16pm
 
 ---
 
 ### 36. テンプモンキー消えた
 **Author:** 典型的なこきです (kokkiEX)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/249218cc18f0b0543b6bce64ae387603/__________2025_03_03_221104.png?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uLj01Y8wLQ%2Byc2v%2BIm%2FIMuP%2FJ7pK4qzxFofmCKd8D8BsPsPsCE48xRfzpKBlqrtYbXKgSsGAm9q%2FENw6d1HE3h1B41oUm9Nqk9nxXz0VtF1xqreIM6hzZFHfwC%2BY37F5S%2BxALCKI7RTF7ZEMvj0%2BhUZM6d4MalX8pXZAMB0AAr1dRTPMCC1%2BPQh1OOxZkU%2BlNQueiIwV1t5ZNwJITi%2F8ljYuuPUP4kpDzoVJvuOeWJxWghd%2BA8PhnwcwEXn15jYaQg1MAE0WpeMQvcaaRMpvMoVjbM0Kgju%2FSXxWoJkfugEikUgUtVBhheaBUOvnH2nzY2och%2BnZmELvIL3QWhZ5Zw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F249218cc18f0b0543b6bce64ae387603%2F__________2025_03_03_221104.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2619376486/249218cc18f0b0543b6bce64ae387603/__________2025_03_03_221104.png?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=feAdseFT12poZCmmjo4B5u4kI%2FAI6%2B%2B7PS8cPGbg6Hp%2BaTezKPWwLlLrVP8bvnAlqpg%2FveCtTJ%2FSmb%2FIX6ovkMui5QShQzeuebwPxNfBUcGoCJrgedZlhzZDWS19gYUHefOljJXMvBS95TWhZoMZP%2F2oZbdXMX2fDbkL8nOKMrEVeBeUReI0v8KTjBUOInk3rCCuG8fFoF%2B3On%2BOYrw7ufxHMh5xePXqqY0rl06liEPIOZX9wuwjCNEzMBP3Pb4hoBh4bCu77GQU51SoSNiq5sV3TX9cLJm1m4AhHXEesOYTf1c%2BOZv8FPPGgnd%2BbkdBLSt6sAxWNPXMxMbBVCRoeA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2619376486%2F249218cc18f0b0543b6bce64ae387603%2F__________2025_03_03_221104.png)
 
 #### Comments (8)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Mar 03, 2025 01:12pm): あらら
@@ -1664,8 +1664,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 03, 2025 01:12pm
-- **Updated At (UTC):** Mar 03, 2025 01:12pm
+- **Created At:** Mar 03, 2025 01:12pm
+- **Updated At:** Mar 03, 2025 01:12pm
 
 ---
 
@@ -1680,8 +1680,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 03, 2025 10:39am
-- **Updated At (UTC):** Mar 03, 2025 10:39am
+- **Created At:** Mar 03, 2025 10:39am
+- **Updated At:** Mar 03, 2025 10:39am
 
 ---
 
@@ -1698,8 +1698,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 03, 2025 10:18am
-- **Updated At (UTC):** Mar 03, 2025 10:18am
+- **Created At:** Mar 03, 2025 10:18am
+- **Updated At:** Mar 03, 2025 10:18am
 
 ---
 
@@ -1731,8 +1731,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 27, 2025 03:09am
-- **Updated At (UTC):** Feb 27, 2025 03:09am
+- **Created At:** Feb 27, 2025 03:09am
+- **Updated At:** Feb 27, 2025 03:09am
 
 ---
 
@@ -1749,27 +1749,27 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 24, 2025 10:55am
-- **Updated At (UTC):** Feb 24, 2025 10:55am
+- **Created At:** Feb 24, 2025 10:55am
+- **Updated At:** Feb 24, 2025 10:55am
 
 ---
 
 ### 41. FIRE DRAGON
 **Author:** サユ(SAYUTR_) (KAZAMA_IROHA)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/d00f63206c172dd679f11429afd340b6/Screenshot_2025_02_24_09_54_49.png?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mZXvSxwW%2FciUoHe4Lbz5IiR%2Fc7j2PaGMOlkoEjXy1rkFt6zgAx2OrSO1cTgAE5mFkAj%2BUBngS8%2BB3nM3nsXrGaKjlZIt4jtPSRKTquXmJhTeNZ9Jzkwbe6HsNmESAyoQYeTFPSM9d6rSA%2F%2FKsuy6MyTjqcMsYw2g%2FL2kuNXZFS8MsnJ1U0Zs62d8KlpmJbkeZW%2F0UeUmQgZTwnG1NM8rvS7XAj49wb50JoVo7%2F8uJuw9D4tk7cgvtuWv670dME76WDnUha3h0cYXVrTg1ABTcLUW38JN%2FUE1e776wbNBt3kS5ybcQsAMdk4i%2FSk6SpSDEEe7S0Sb7vhYTH70MuMOnQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2Fd00f63206c172dd679f11429afd340b6%2FScreenshot_2025_02_24_09_54_49.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/d00f63206c172dd679f11429afd340b6/Screenshot_2025_02_24_09_54_49.png?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0dZbkqWKZmTj0dsBvSD2uh5d4s61pwJNiF1jHtF5lBcGhdZuB3NvncQ1c9%2BZTDOuwH15LFVmRQd5Lej8wyXLuE%2BktqINerzqPHX7oDG6sCfKgVdeasy9nafR8oqh6RfhAqYnfnpNn22%2BW63xFYBOw6jbZM2N4aNCR%2F4VGLUl8pAhXGEIcvaNaqtp68GgzUanO%2F6UGTiNNBHV%2B9tU9uYZEqw96wya1Hw76vYjNv0B2cZX0NnCCGJV5DJNZx6eYcp4ysn79opKvanZSOaO5kNqOjsXjkHhhAqTtObhIqvFa8Z9sCYwr%2BWcENfCO98MuNdWwr5VXhA6hv0SBduvqa6AoA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2Fd00f63206c172dd679f11429afd340b6%2FScreenshot_2025_02_24_09_54_49.png)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 24, 2025 03:52am
-- **Updated At (UTC):** Feb 24, 2025 03:52am
+- **Created At:** Feb 24, 2025 03:52am
+- **Updated At:** Feb 24, 2025 03:52am
 
 ---
 
 ### 42. この服とかってどうやってゲットすんの
 **Author:** サユ(SAYUTR_) (KAZAMA_IROHA)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/8ad812230c565abf34dc9cf7e1f76b1d/image.png?Expires=1785405987&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2vQwMrkJkYqlBwHJNBdOlBaJqDsENUgGXPmscXc12xGv01JBCg%2FF4CVDVzCbSP4LbvHzAKHVqdV0Dq1CF80sZaX0MuXeSmzduylVgdFap7H2OHCJhWnhq9wXFPEbtZsg0bQF1dalW%2BBnWzZkoANBtMx8peqUunGFCS1P6hWg7sDdeAgj3ljxz3FwRE1ziZG3OG4SPrCdbjURxjtYEiBSZb%2BHMS%2BbL9vydPelrAq6gWgqTwuF9prv3JPVHPx%2FxSosvmp45uhqHo36JvUWV83mcnT8j7zPIV3Ca4oCa3P2oTZHztV8lMowV01Utk%2BZqdpB%2FFygD94%2BMEm%2Ft%2F%2FMtdubcw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F8ad812230c565abf34dc9cf7e1f76b1d%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/8ad812230c565abf34dc9cf7e1f76b1d/image.png?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WsL7gutZPL5cvyTTg60BfLY74CGdLLdzFrpVRuqbOrJ%2BGl5dsUFrAaT5nxogqcL%2Ba4M%2BKDFvN84OOcyCjAMxdk%2F8J7%2FopDGUgDX7Aezs9LvAgumtk094Y05RR5qPZc%2B836x4zQWmozOeueW1I6yj4MZsPZHiefVfGkX9EmHzCI1O0j7fwu3jE4LnYwJ%2Fu0yXDOmvaPPlhZw7gWnt4VMLi31OAvR8M9grdzOCE%2FzNslJdolsQnjauW%2FnrdEY0WlDqSCoVmsHBTg%2BHRUhjmyB4uXsTuKSDFOgKJ3D9zkieiHkTothbRYqKFesty0YpolGwrlh96uEkQ6H5JBDtfTcLbg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F8ad812230c565abf34dc9cf7e1f76b1d%2Fimage.png)
 
 #### Comments (11)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 23, 2025 09:11am): 左にのってるMerc Zone Final Giftってやつ
@@ -1786,8 +1786,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 23, 2025 06:06am
-- **Updated At (UTC):** Feb 23, 2025 09:11am
+- **Created At:** Feb 23, 2025 06:06am
+- **Updated At:** Feb 23, 2025 09:11am
 
 ---
 
@@ -1804,8 +1804,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Feb 23, 2025 05:46am
-- **Updated At (UTC):** Jun 06, 2026 02:06am
+- **Created At:** Feb 23, 2025 05:46am
+- **Updated At:** Jun 06, 2026 02:06am
 
 ---
 
@@ -1822,8 +1822,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 21, 2025 09:57pm
-- **Updated At (UTC):** Feb 21, 2025 09:57pm
+- **Created At:** Feb 21, 2025 09:57pm
+- **Updated At:** Feb 21, 2025 09:57pm
 
 ---
 
@@ -1835,8 +1835,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 21, 2025 04:08am
-- **Updated At (UTC):** Feb 21, 2025 04:08am
+- **Created At:** Feb 21, 2025 04:08am
+- **Updated At:** Feb 21, 2025 04:08am
 
 ---
 
@@ -1854,23 +1854,23 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 13, 2025 02:10am
-- **Updated At (UTC):** Feb 13, 2025 02:10am
+- **Created At:** Feb 13, 2025 02:10am
+- **Updated At:** Feb 13, 2025 02:10am
 
 ---
 
 ### 47. プレミアムのピストルでた　課金のやつ？
 **Author:** 近所のクソガキ (021932198413289034)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3384299668/ee86fe712cf168eadca0a3f1294b6fad/Screenshot_2025_02_12_09_10_05.png?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=oEJAR%2BR4CZBiZwmEnOzVL%2Bo2jQ4Y30J7IH5LvEfYUIhsqGjXJvtiMFbjTUxuS%2Bhc02h8%2FvR8fsSMsujgq8O1X36nbGC6SgFOuRBP9uiFcFlnn6SLm4pvj%2BX2WZSlHDT98wd33TjSo2towQo602aSOypJCykZqFaFmDL5iETMMRopZDbcaf9WJAjiz5h8G43R6nhAbEj1rxhMICMce3lHDUMYFJFqFRna%2Bez9jVc%2F5rPCJjK5OvWb59kKXLly24mGEO5sv5z1qt4f%2BSk85Mm3XxoLMnIQX6npAgMyzCsOrj2Ojn7142hsP%2B1odtOSuUZrv%2FFaAhQM76EsAGAWEdJLzw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3384299668%2Fee86fe712cf168eadca0a3f1294b6fad%2FScreenshot_2025_02_12_09_10_05.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3384299668/ee86fe712cf168eadca0a3f1294b6fad/Screenshot_2025_02_12_09_10_05.png?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pay9QAxjZXketvAtjTQWq%2Fq%2BZmI1a8X3j%2BEkFO3jWHkheXizhULEyxou3%2FTOEBgpYvDnEGNJkHx0kf%2BYninb8bEACznqQ1lBKRH57fwWV7tHi91hXUIOhOhybpp4IWpTvvnu1kvirWdYbseQthGbo%2BwE%2Fyx9BpYG%2FzJTmutmltAXzbn6uhpwGT9Zqx3pz%2FjpzyhGYtTcXHjVCC4rHkUzMKyz9a5Hnz2g4jEspQ80XLHvvhW6owqWkDb41Nw7tgaSt1DFqnQJeVNNhE%2FGoXV4tR4geGvRSlsuK0OnhUf99N%2FI9xK6KNBoQ96Bu7%2FLpILAr2k4trEKsJl7mFupSKPKGA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3384299668%2Fee86fe712cf168eadca0a3f1294b6fad%2FScreenshot_2025_02_12_09_10_05.png)
 
 #### Comments (1)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 12, 2025 03:32am): 課金では無い
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 12, 2025 02:52am
-- **Updated At (UTC):** Feb 12, 2025 03:32am
+- **Created At:** Feb 12, 2025 02:52am
+- **Updated At:** Feb 12, 2025 03:32am
 
 ---
 
@@ -1900,8 +1900,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 11, 2025 12:47pm
-- **Updated At (UTC):** Feb 15, 2025 12:27am
+- **Created At:** Feb 11, 2025 12:47pm
+- **Updated At:** Feb 15, 2025 12:27am
 
 ---
 
@@ -1917,23 +1917,23 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 11, 2025 11:19am
-- **Updated At (UTC):** Feb 11, 2025 11:19am
+- **Created At:** Feb 11, 2025 11:19am
+- **Updated At:** Feb 11, 2025 11:19am
 
 ---
 
 ### 50. でたーでたでたぁ
 **Author:** サユ(SAYUTR_) (KAZAMA_IROHA)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/47078a830e5bd9d4f567e9db88080a52/Screenshot_2025_02_01_07_06_39.png?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1vTUN%2FhpV%2FVyP7WJUlkc88yBuu0flNkZAqwLz8DRs3D9C1OEnouDvxfBnaAfEXsUHvlfuLMhxXS3DokFDsrq%2FA5lhQX8%2BMxSfb3N1bvDUnfZLUR9npB%2B%2FTPLNuwDcEh8TNSsJL7UyGMcIgtfAjind%2FMQ%2BPIufCGUkaO39WEa9mhOzcUej90Aa5bqCUM6VBWLbrWfYKv5s9t4ZMDRgiLH5nQwF3tEw00y4XqX7BZNvxpF3XpyYU%2FeSc0Z%2F5arHCPnnxoTyH4DCkCsMfzdvsMC3ZL2FZJU0Vsfci9cr3uQk68ZWnucEocSfftj2mxGeEe%2FjMQSrMCC%2B%2Fx%2BZKETWA2U4A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F47078a830e5bd9d4f567e9db88080a52%2FScreenshot_2025_02_01_07_06_39.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/47078a830e5bd9d4f567e9db88080a52/Screenshot_2025_02_01_07_06_39.png?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jKr0k8N97tPc2mOGngB7WcSGJt4DZAw6zZEhDcKJhuDVuzfNGDUnT7Si2pE7i0fA8nu0q3rCQ%2BvypSE2JKU7urfiiFA0QMFumpPkb7gHbei1R8IvZIV0QWohS4jqFOYmEqKZzDKPKl5MnoruJMT7%2BEyJOHDiax8T413hIgTdN6PUHGmQfPdNIxiRFFgWzVbSBvBRAG1xBadfKDKZtMdIjpdBCg1wNQi1KhKbMMhXDCRp%2FcHdxAZMdtRAGvDTVIuQt%2BEZiRfltvaxXCNuSLb7MSOdWVXDKddEPj0kBOG2JcAHl2qMaTwCARQi8vKLTqy3LcpsL9vjTpqa2ulN0MMk4Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F47078a830e5bd9d4f567e9db88080a52%2FScreenshot_2025_02_01_07_06_39.png)
 
 #### Comments (1)
 - **近所のクソガキ** (Feb 11, 2025 12:24am): いいなああ
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 10, 2025 10:42pm
-- **Updated At (UTC):** Feb 10, 2025 10:42pm
+- **Created At:** Feb 10, 2025 10:42pm
+- **Updated At:** Feb 10, 2025 10:42pm
 
 ---
 
@@ -1949,15 +1949,15 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 10, 2025 12:53pm
-- **Updated At (UTC):** Feb 10, 2025 12:53pm
+- **Created At:** Feb 10, 2025 12:53pm
+- **Updated At:** Feb 10, 2025 12:53pm
 
 ---
 
 ### 52. 規制解除の何かsiteある〜〜？
 **Author:** 近所のクソガキ (021932198413289034)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3384299668/203bae3e8bdfdd53240ad5fd4c3f5bba/89aeb4f3f2203f40775473af4e13c718.gif?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qU1%2B07%2FagA4AyJOcqhAYPj9RqNjtffH9UHubxkigILt2uO5ZaHU7hwrkF7cLsMzjdEZPC7ILxJ0GuZGIB5DO6CriRBwN7DIVe3Q51fTr4z3thlHMdWmBXoWBxxWu%2FsEp%2FqdyogtKCaxj%2B7wrv%2FxRSDFkxnBisLB9J%2BzMRjSxLERPj%2B9bfrl3zgpp5gKIuGwMtjXIZ2sQli0n%2FojYHrB4TFD2470KU0akl%2FeKrwBB4aHR3JODzmvcfoPCH%2BifUVrzdRoS4t4uSiGuhWfKWMnHQKT5dpV9YWAE4ViNqizWugNbygMLSd%2Fi09XW3jtKNNyg7vhua8Fo82N0tcm1hq44SA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3384299668%2F203bae3e8bdfdd53240ad5fd4c3f5bba%2F89aeb4f3f2203f40775473af4e13c718.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3384299668/203bae3e8bdfdd53240ad5fd4c3f5bba/89aeb4f3f2203f40775473af4e13c718.gif?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KbiogpSD3Z2lltvbvt8O9XVYV31kt2aEfm605YUIFvpf6RvN12GdDAJvmtIfmcLOcDUKkjsXlfxPn3m01cD6YbPuG%2FDmhuqXRKeKLzriTO5b0AW91ttTx6Ret%2Fi%2FcNoURoVVj5rlFGfehSB6ASZiGgy1WnboY8hiYs2y%2B5TUF5fLgsehuw3FrQdWxEeDPw4UcC0nGwcdE1Guv1Dy5il3Pt9SrFVonLh1h8ZnnBkrXn78tGu1iiEQyI%2BKWT5Qit9GDknXndPQpTzQDAsWOiiRKgVeObb9F6aBKzLlybU8das%2F5WRGp89H0gwaA0LiXoVHdrT%2BbMHmhsU20hLWj35%2Bdg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3384299668%2F203bae3e8bdfdd53240ad5fd4c3f5bba%2F89aeb4f3f2203f40775473af4e13c718.gif)
 
 #### Comments (5)
 - **近所のクソガキ** (Feb 10, 2025 11:51am): あと、コードってどうやって自分で作るの？
@@ -1968,8 +1968,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 10, 2025 11:49am
-- **Updated At (UTC):** Feb 10, 2025 11:49am
+- **Created At:** Feb 10, 2025 11:49am
+- **Updated At:** Feb 10, 2025 11:49am
 
 ---
 
@@ -2002,8 +2002,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 10, 2025 10:43am
-- **Updated At (UTC):** Feb 10, 2025 10:43am
+- **Created At:** Feb 10, 2025 10:43am
+- **Updated At:** Feb 10, 2025 10:43am
 
 ---
 
@@ -2022,8 +2022,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 10, 2025 10:32am
-- **Updated At (UTC):** Feb 10, 2025 02:05pm
+- **Created At:** Feb 10, 2025 10:32am
+- **Updated At:** Feb 10, 2025 02:05pm
 
 ---
 
@@ -2032,8 +2032,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 10, 2025 07:57am
-- **Updated At (UTC):** Feb 10, 2025 07:57am
+- **Created At:** Feb 10, 2025 07:57am
+- **Updated At:** Feb 10, 2025 07:57am
 
 ---
 
@@ -2047,8 +2047,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 10, 2025 06:58am
-- **Updated At (UTC):** Feb 10, 2025 06:58am
+- **Created At:** Feb 10, 2025 06:58am
+- **Updated At:** Feb 10, 2025 06:58am
 
 ---
 
@@ -2062,8 +2062,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 10, 2025 03:36am
-- **Updated At (UTC):** Feb 10, 2025 03:36am
+- **Created At:** Feb 10, 2025 03:36am
+- **Updated At:** Feb 10, 2025 03:36am
 
 ---
 
@@ -2088,8 +2088,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 10, 2025 03:26am
-- **Updated At (UTC):** Feb 10, 2025 03:26am
+- **Created At:** Feb 10, 2025 03:26am
+- **Updated At:** Feb 10, 2025 03:26am
 
 ---
 
@@ -2122,8 +2122,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 09, 2025 08:54am
-- **Updated At (UTC):** Feb 09, 2025 09:31am
+- **Created At:** Feb 09, 2025 08:54am
+- **Updated At:** Feb 09, 2025 09:31am
 
 ---
 
@@ -2137,8 +2137,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 09, 2025 12:30am
-- **Updated At (UTC):** Feb 09, 2025 12:30am
+- **Created At:** Feb 09, 2025 12:30am
+- **Updated At:** Feb 09, 2025 12:30am
 
 ---
 
@@ -2155,8 +2155,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 08, 2025 11:35am
-- **Updated At (UTC):** Feb 08, 2025 11:35am
+- **Created At:** Feb 08, 2025 11:35am
+- **Updated At:** Feb 08, 2025 11:35am
 
 ---
 
@@ -2165,8 +2165,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 05, 2025 08:58am
-- **Updated At (UTC):** Feb 09, 2025 01:40am
+- **Created At:** Feb 05, 2025 08:58am
+- **Updated At:** Feb 09, 2025 01:40am
 
 ---
 
@@ -2179,8 +2179,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 21, 2025 03:32am
-- **Updated At (UTC):** Jan 21, 2025 03:32am
+- **Created At:** Jan 21, 2025 03:32am
+- **Updated At:** Jan 21, 2025 03:32am
 
 ---
 
@@ -2189,8 +2189,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 08, 2025 06:43am
-- **Updated At (UTC):** Jan 08, 2025 06:43am
+- **Created At:** Jan 08, 2025 06:43am
+- **Updated At:** Jan 08, 2025 06:43am
 
 ---
 
@@ -2202,8 +2202,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 31, 2024 07:31am
-- **Updated At (UTC):** Dec 31, 2024 07:42am
+- **Created At:** Dec 31, 2024 07:31am
+- **Updated At:** Dec 31, 2024 07:42am
 
 ---
 
@@ -2214,8 +2214,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 27, 2024 10:01pm
-- **Updated At (UTC):** Dec 27, 2024 10:01pm
+- **Created At:** Dec 27, 2024 10:01pm
+- **Updated At:** Dec 27, 2024 10:01pm
 
 ---
 
@@ -2232,8 +2232,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 26, 2024 06:19am
-- **Updated At (UTC):** Dec 26, 2024 06:19am
+- **Created At:** Dec 26, 2024 06:19am
+- **Updated At:** Dec 26, 2024 06:19am
 
 ---
 
@@ -2246,8 +2246,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 21, 2024 11:51pm
-- **Updated At (UTC):** Jan 11, 2025 12:49am
+- **Created At:** Dec 21, 2024 11:51pm
+- **Updated At:** Jan 11, 2025 12:49am
 
 ---
 
@@ -2263,8 +2263,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 20, 2024 11:38am
-- **Updated At (UTC):** Jan 11, 2025 12:49am
+- **Created At:** Dec 20, 2024 11:38am
+- **Updated At:** Jan 11, 2025 12:49am
 
 ---
 
@@ -2276,8 +2276,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 20, 2024 10:20am
-- **Updated At (UTC):** Jan 11, 2025 12:49am
+- **Created At:** Dec 20, 2024 10:20am
+- **Updated At:** Jan 11, 2025 12:49am
 
 ---
 
@@ -2289,8 +2289,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 15, 2024 07:37am
-- **Updated At (UTC):** Dec 15, 2024 07:37am
+- **Created At:** Dec 15, 2024 07:37am
+- **Updated At:** Dec 15, 2024 07:37am
 
 ---
 
@@ -2308,8 +2308,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 18, 2024 12:40am
-- **Updated At (UTC):** Dec 18, 2024 01:49am
+- **Created At:** Dec 18, 2024 12:40am
+- **Updated At:** Dec 18, 2024 01:49am
 
 ---
 
@@ -2327,8 +2327,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 17, 2024 04:19am
-- **Updated At (UTC):** Dec 18, 2024 01:49am
+- **Created At:** Dec 17, 2024 04:19am
+- **Updated At:** Dec 18, 2024 01:49am
 
 ---
 
@@ -2347,15 +2347,15 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 04, 2024 10:08pm
-- **Updated At (UTC):** Dec 04, 2024 10:08pm
+- **Created At:** Dec 04, 2024 10:08pm
+- **Updated At:** Dec 04, 2024 10:08pm
 
 ---
 
 ### 75. Post 75
 **Author:** rido_k4mo (rido_kamo)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2499250589/651351c690ab9f6d9aaffeb81a4c35c3/Screenshot_2024_12_05_00_14_42.png?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LMlEIBR9z0iB500neX9wwxhBgV76qpSzwknscxQ%2FcYC7G9TW5Hvuw%2B7ew9i11qw2vCTjFIf2L1AV5FvaJ5qSzXvdkhi13NrnuCv%2FVLAsm%2FP7l1FzNoQgxuVzdzB1Aqfjdz8LCu47eIOWmUFqO104YYLfHcT6BjhE%2FXArnytNvmSWBYf4x3JM2sdm6h3zgixB9KmPmSU9X%2Bm1hQ%2FWMAxa8HrjbOwQoBRmUDQoNy1%2FiJHazbncEtkgVthSde7IZsVPfZ%2BqDK5qrrIaoremf9m7gT8tDLagAubT38OUQboxCYBUKhjhQ6jhMNTWkncCfFUlQmuih8PP3XGsQaFckQkacw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2499250589%2F651351c690ab9f6d9aaffeb81a4c35c3%2FScreenshot_2024_12_05_00_14_42.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2499250589/651351c690ab9f6d9aaffeb81a4c35c3/Screenshot_2024_12_05_00_14_42.png?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YcAfWbsxZRtmDK5BkHfMHbeD3Q3udF9ADECqqjJMJPzsyHy5c%2FIyP6CHwosOfBf4VBkLNkA8Yj5UV5o2tYeX6KRUMoOIL7VYfr%2Bej3OEegNa75mRNDee00KnOx%2FmpW40FLM8Azt7s02N3WWQcsqoLpTJyXEaWKf0lqc28rCtCnX4KTA5XkTnNdws2LsI4OjVILAmFxRunvx3zpTluKXK99PkYu1Sza9VH3asA3972NfooBX0LTGbabVFm3Bbb%2FxkKSNENg5pwJD0%2F%2F5tuvkTbD%2FPZO%2B2K80X7GxXQidv3qJHUsS%2BnB5d6G5wyKL2g602Q0tHTmR2C8ApD8luVYG2bA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2499250589%2F651351c690ab9f6d9aaffeb81a4c35c3%2FScreenshot_2024_12_05_00_14_42.png)
 
 #### Comments (3)
 - **rido_k4mo** (Dec 04, 2024 03:16pm): captula the なんとかのやつのkdrってどうなん？
@@ -2367,8 +2367,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 04, 2024 03:15pm
-- **Updated At (UTC):** Dec 04, 2024 03:15pm
+- **Created At:** Dec 04, 2024 03:15pm
+- **Updated At:** Dec 04, 2024 03:15pm
 
 ---
 
@@ -2387,8 +2387,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 04, 2024 12:10pm
-- **Updated At (UTC):** Dec 04, 2024 12:10pm
+- **Created At:** Dec 04, 2024 12:10pm
+- **Updated At:** Dec 04, 2024 12:10pm
 
 ---
 
@@ -2400,8 +2400,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 04, 2024 11:00am
-- **Updated At (UTC):** Dec 04, 2024 11:00am
+- **Created At:** Dec 04, 2024 11:00am
+- **Updated At:** Dec 04, 2024 11:00am
 
 ---
 
@@ -2417,8 +2417,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 03, 2024 12:58pm
-- **Updated At (UTC):** Dec 03, 2024 12:58pm
+- **Created At:** Dec 03, 2024 12:58pm
+- **Updated At:** Dec 03, 2024 12:58pm
 
 ---
 
@@ -2432,8 +2432,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 24, 2024 10:30pm
-- **Updated At (UTC):** Jul 24, 2024 10:30pm
+- **Created At:** Jul 24, 2024 10:30pm
+- **Updated At:** Jul 24, 2024 10:30pm
 
 ---
 
@@ -2442,8 +2442,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 10, 2024 10:29am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Jun 10, 2024 10:29am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -2456,8 +2456,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 24, 2024 05:33am
-- **Updated At (UTC):** Nov 01, 2025 06:55am
+- **Created At:** Jun 24, 2024 05:33am
+- **Updated At:** Nov 01, 2025 06:55am
 
 ---
 
@@ -2477,8 +2477,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Sep 02, 2024 01:53am
-- **Updated At (UTC):** Sep 02, 2024 04:50am
+- **Created At:** Sep 02, 2024 01:53am
+- **Updated At:** Sep 02, 2024 04:50am
 
 ---
 
@@ -2502,8 +2502,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 10, 2024 06:58am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Jul 10, 2024 06:58am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -2522,8 +2522,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 20, 2024 04:32am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Jun 20, 2024 04:32am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -2540,8 +2540,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 07, 2024 04:39am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Jun 07, 2024 04:39am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -2550,8 +2550,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 03, 2024 07:45am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Jun 03, 2024 07:45am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -2588,8 +2588,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 03, 2024 07:19am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Jun 03, 2024 07:19am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -2598,15 +2598,15 @@
 
 <p>親に切られた</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/3d648e3fbc31ac845255327234d9cba9/Screenshot_2024_04_30_21_37_28.png?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1jkSRHlxzhARI%2FYy2ZJoYnIsByzzHjG8CnJraMlMzCtTEt1GrAtkaEitfWNJhzIu9Wjm0DVjzN4OnW0d5NmbWh3u333OPL69A6pzrjKV299vQl3etrkcM1Z2jJyKCHWjLO3EsPDi2lUvHpxZmFe8D8yeJevLk%2BTzxIFnMocxpv1PQYUqvBjCB762v5JfbPbBQ6NG8vkVrVLkykm%2FxmBqCBN6hJ%2F3OgMP4bWKhvkRNQgePL3DbD5VKF0fPZ9%2BRC%2FkVyVlClSfG8QwLMtBbSiP7Ijf6SnswydkQD6v5Pw2Z8ZpfGohYsKl8DkBjDdDrJSJO3OXjo8G%2F41im5%2FAZliNwQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F3d648e3fbc31ac845255327234d9cba9%2FScreenshot_2024_04_30_21_37_28.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/3d648e3fbc31ac845255327234d9cba9/Screenshot_2024_04_30_21_37_28.png?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=iRb7rdUgRJ4Y6S7J%2BMfNtfDG3bMRj902fA1JAKoZWY3cfyUrbpDqj%2BohYJdHaEkqQcARDmm%2BLcOn5wFJQV3W4xeuJVGYPQ0NAW652dlGrnxbDCFZhKUl4KnJPpho0GrxKua0LvZOOZNq1Cq5BgLALXR3H4qkWfDWvEecFk%2BSlOACqZFuZ6PaaYM5eoXyH1fm5y3WFN3yoK3ED4QVzgQfT4vplB7ebaWeJfcVsn8AEe%2BmhT6FHz2VxB9IKTan0H39dG44kNCZpw63XOmsxxh6PVwJ7lYRStlJNsnCDkaGfp9%2Fmfgc6ha9a6ckrAso7kjDwKh3blOnaDD8GQjIbNUTnA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F3d648e3fbc31ac845255327234d9cba9%2FScreenshot_2024_04_30_21_37_28.png)
 
 #### Reactions
 - **Emojis:** ❤️ (3)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 30, 2024 12:59pm
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** May 30, 2024 12:59pm
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -2618,8 +2618,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 26, 2024 01:39pm
-- **Updated At (UTC):** Nov 01, 2025 06:56am
+- **Created At:** May 26, 2024 01:39pm
+- **Updated At:** Nov 01, 2025 06:56am
 
 ---
 
@@ -2634,8 +2634,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 23, 2024 09:34am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** May 23, 2024 09:34am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -2649,8 +2649,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 23, 2024 02:36am
-- **Updated At (UTC):** Nov 01, 2025 06:56am
+- **Created At:** May 23, 2024 02:36am
+- **Updated At:** Nov 01, 2025 06:56am
 
 ---
 
@@ -2673,8 +2673,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 19, 2024 09:59am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** May 19, 2024 09:59am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -2683,8 +2683,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 19, 2024 09:59am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** May 19, 2024 09:59am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -2696,8 +2696,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 13, 2024 11:53am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Mar 13, 2024 11:53am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -2709,15 +2709,15 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 13, 2024 09:52am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Mar 13, 2024 09:52am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
 ### 96. Eggwalker Crackshot
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/dc25b040c464c23bd6ae5f7125c10141/Screenshot_2024_03_08_12_46_45.png?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mWZ88Zm2hnCmIX3DurgW3aolaAv8mlvtD%2FAMFuEnMNRI8%2FjpljwgvKUNbtGQ6Ib9Rz%2Bi4UkBkpL49DDN%2FnhgYFcFiUo1Azsdv1zuYxtKQh8SLAzWrcrNeplSBMrvMv4WGAkfhqrTQ3LETpk5XRz%2B%2FwTJ8CFPb7CkaO%2FMQ3%2BCnwXhPAoJOvSiBCXz0qfxd9kU6da7ReglVZd8kpkNpk5qklHMBbW%2Bc7k2ESeJvthpcituZ%2BUa%2BJ45E5ht7WLKSFgESTKz8qXX3747vef7KrUBjvLhYxEgPZB8faEcrX8QeUkfByUH57X3t3TD4cuFeY4458%2BnasQyI6UxGGa0YyZ%2Fxw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fdc25b040c464c23bd6ae5f7125c10141%2FScreenshot_2024_03_08_12_46_45.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/dc25b040c464c23bd6ae5f7125c10141/Screenshot_2024_03_08_12_46_45.png?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cfjb8pA8PoK526hyLCf9Gv1k9dj6rLZqH05TofMU4LV2YRLuPHnx4IJ4UjOi8NOlqctEhx2206lIUARjFKfZKikb7x%2BjiEu%2B47U%2F2NfsIN%2F%2FQeLTkHwW2JANLhuWPRAKhM2u6R5OcsG5FZA7m%2BwfMwSUwxtqwr2WAtRsHxZyVLfO2HP59Q51vChvt%2Bay1FDsM8Rb3%2FphdES6Ornd9COPtv%2BYSZWCmbBGDPXz%2B6exxLG2IikBqGLBa%2B81jy7BB12QByelbZwZVBHzDQUE43PitGXhQ7%2F4juCmOx48QbMSiBBrE7ZbR7FK%2B9CGRShFqHlDXghSqy4CipaDkl1QvrOuWw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fdc25b040c464c23bd6ae5f7125c10141%2FScreenshot_2024_03_08_12_46_45.png)
 
 #### Comments (1)
 - **Anonymous** (Mar 26, 2024 05:38am): なんでやぁ
@@ -2727,8 +2727,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 08, 2024 10:44am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Mar 08, 2024 10:44am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -2745,8 +2745,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 06, 2024 12:53pm
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Mar 06, 2024 12:53pm
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -2763,8 +2763,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 18, 2024 07:41am
-- **Updated At (UTC):** Nov 01, 2025 06:56am
+- **Created At:** Feb 18, 2024 07:41am
+- **Updated At:** Nov 01, 2025 06:56am
 
 ---
 
@@ -2778,8 +2778,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 13, 2024 05:45am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Feb 13, 2024 05:45am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -2790,22 +2790,22 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.twitch.tv/zaxonius/clip/RamshackleBlushingMilk4Head-yKjMmOX2u69mcMyt">https://www.twitch.tv/zaxonius/clip/RamshackleBlushingMilk4Head-yKjMmOX2u69mcMyt</a></p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/a317feaa6e0be3ea255062f017bcf9a6/Battle_Royale.mp4?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qfB9ChiBFLAbFOLcppi4k2nU%2Bk62vhH8ZrFwZKesZgZ3i8WM9czQ9PIL0PCiayoGr%2FClzcLMvsXM7qSZHkGRStzj%2Bpg92wtlAUNSjw%2BKJjhB7d%2B9vDjg4MGYj7APM08g6iWVZGoHPoQBiQapeprtiWvyXpLYEzK2EwHp%2BD9rBqO9L53JX9K07neisw8C5DMr3jzYjbCMdkGR8F8Hs%2FFQrKGk6wzxefzvL3mF9lY2SSKIZxMY061qHhAgtc39a7nZ7c%2FGTS2D%2B3hV8PaouvVRXjmeMcOlV%2FfhxAf3fCkNViCMn1IttPDjkD%2FqQ8fstcDcovjzGPLQS3fk6%2FH%2FUiFZNQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fa317feaa6e0be3ea255062f017bcf9a6%2FBattle_Royale.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/a317feaa6e0be3ea255062f017bcf9a6/Battle_Royale.mp4?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=IM0LqUVV8S65e%2BZfINy9uQm0TjMc2GvoOW9eIW9%2FHuWwqJ2YzPrt92BftyOAFavddixqdTZuLScAG4GXcFRBN%2FiohjXIiz6S0cjieX4WEEseVxgyazOQUKSj1OvYhoNCQDziIyXzZLX%2F9tTqLvKoeLEDUEJXuF2swKOT8Ywcwh5aKmjUOOwX9758k2acjgMBrUf%2Fwu%2BBF0QaYL8NJA6IpO7R1eihYmJUjcqhTJ7Yc5kPBE4jHbgluKyG0D8YPHTSyDBXCH%2Flg8P0aRFo6wMgCu16Jwbyny1FEdKtvnisn4ku8aJnDj4H47T7OeOZZ3TVcur93Zvg54Y4g7kTRmQhrA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fa317feaa6e0be3ea255062f017bcf9a6%2FBattle_Royale.mp4)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jul 10, 2026 12:59pm
-- **Updated At (UTC):** Jul 10, 2026 12:59pm
+- **Created At:** Jul 10, 2026 12:59pm
+- **Updated At:** Jul 10, 2026 12:59pm
 
 ---
 
 ### 2. Post 2
 **Author:** taba (nova82812397)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3346092100/e7b2dc5f89f01a5cf288eac1e36a24d5/Screenshot_2025_04_09_07_27_58.png?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lEUAYRscohuYGx%2FQOeA%2BeOz5ii3s1AE5h4%2BHbShBXXGweDzyD9dcYDHcqDop%2FTCAXt6I%2BDIDT%2Bz7uJuY6%2BRGRVX9UFR1ZQ34foob5sq%2FKdhvLaIDczqiT%2FlRpV%2FBtvTw0gQKAoW%2Fjii%2FLE9DW2UITiKvO5Z5D5gi%2BuXTDCTbZHznAiEo7SwpIY1Emzix3bsGUP17%2F9fqaSf0%2FmaKvSrf69bu5Qp6y156fuRKHhD%2Fi8Tqrj8uNuE4MJPGSbtxMTsXWcwdcIvFLtj30BGaxuPD2O4SUFWizPuuscleIgRNus9Nk0fDHFFmVOL%2Fk%2Fmb2igOzjlqU%2FuOyFvSnya5720nAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3346092100%2Fe7b2dc5f89f01a5cf288eac1e36a24d5%2FScreenshot_2025_04_09_07_27_58.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3346092100/e7b2dc5f89f01a5cf288eac1e36a24d5/Screenshot_2025_04_09_07_27_58.png?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ZecWDSSxTuqT7azsv4513wz8VfbIAfzz%2By1eBoWtwZtX2ig5bYOxqwC8hLHpaySq7qncQZjfYkaUtzqMGiC5zDrF54FhO96OWMI0t9GI7C93uobtI%2FkdTbpxz%2Bbs9bm%2BXOT76N6gjgT5yekyj5jOKAgJq2q3XqmVOa6PEM4pZzCftTILuznNBrF%2BJLl2mnX2U7gzKLAKBukN5yLj5D1TckB2q1UsnY0WxX%2B4seDgmB51f3pUNnSw%2F5FQ0%2BldvwiWglIhXPKqQ33ZZVctSF1nfPAFlU94VbxGSjX%2FpBg6f8Z0%2FLLa0%2BNMq3PZuE4TJ98jZd3F3ZqV2uqoUvaGwWFAEg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3346092100%2Fe7b2dc5f89f01a5cf288eac1e36a24d5%2FScreenshot_2025_04_09_07_27_58.png)
 
 #### Comments (8)
 - **ᏁγᎶ » Tøka_Kuŋ_** (May 01, 2025 11:25pm): F*ck
@@ -2822,8 +2822,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 08, 2025 10:34pm
-- **Updated At (UTC):** Jan 02, 2026 05:15am
+- **Created At:** Apr 08, 2025 10:34pm
+- **Updated At:** Jan 02, 2026 05:15am
 
 ---
 
@@ -2832,7 +2832,7 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.twitch.tv/itshazmatt/clip/GlutenFreeCoweringElephantNotLikeThis-Sg3k17KOZnNLFXmy">https://www.twitch.tv/itshazmatt/clip/GlutenFreeCoweringElephantNotLikeThis-Sg3k17KOZnNLFXmy</a></p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/835d795a7f2deeb04bd54975a6468ee9/20250331_GlutenFreeCoweringElephantNotLikeThis_Sg3k17KOZnNLFXmy_source.mp4?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=U14UpMubIjS3V5KFoFXK7aUmzgDJRs4FxSOvpGdlipTdTUKCLWn6o9C%2Brp7IXbYVY7FOwi%2BnyZmv%2FyI8ACn9kgw5Cf5Om1WMcn9gxVImMs3H%2BdSldnIenIju2cS%2FJi2OX0ntlv5ddKhwxJ1EbEjqMCOWt6Swt0zzMPraTZy0eUdfAeF0JpyjRFaznW9a4GIwTwMA4fOUh9cnfZpsTdfuEe0Gj6mQSvpIvJ53SiXA6sO%2BBWgI%2F8RoTtmjxZziPbeGDuSAly5ChiDb6Kb55uc9A3Z4A1Qokhg3bbUN97FqIWnEBmlgK23g76cOWgBuqp%2F4KDqHwHsrnMr8HpUaPBCcig%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F835d795a7f2deeb04bd54975a6468ee9%2F20250331_GlutenFreeCoweringElephantNotLikeThis_Sg3k17KOZnNLFXmy_source.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/835d795a7f2deeb04bd54975a6468ee9/20250331_GlutenFreeCoweringElephantNotLikeThis_Sg3k17KOZnNLFXmy_source.mp4?Expires=1785410726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FxJMJY8JruRQrgOh%2FHqQEI7WVHUPnHuiITP459rumZ8IBuvBuePODyguIfk4E%2B7CCvokQNnPOqlmnSXEqlQzUTYj%2FIHVezAgP5zEBAwsfTS09GnFUseH4pTckmZCRJyT%2BbFSak5Sr6SCiRRSZbRA1rOnaXcng323i6kPEBund9EiyiXkqfAaR6woNmkYQJ7HqUQh4TxSNrqlELSSwC9xW00azty%2Bh2EwK%2Brbvc69umoMrBAGBkVRYNBJZyrYZmUhHG2isA5nXmU%2B00qi2BSQlmNSa%2B4w1VbUuhq1m%2FTkksQdNgSgJvxdL0GkL%2BP7rtYevsk8i8q1YlMMlCvrhORj4g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F835d795a7f2deeb04bd54975a6468ee9%2F20250331_GlutenFreeCoweringElephantNotLikeThis_Sg3k17KOZnNLFXmy_source.mp4)
 
 #### Comments (1)
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Jun 06, 2025 12:15am): おお
@@ -2842,8 +2842,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Mar 31, 2025 11:36am
-- **Updated At (UTC):** Jan 02, 2026 05:15am
+- **Created At:** Mar 31, 2025 11:36am
+- **Updated At:** Jan 02, 2026 05:15am
 
 ---
 
@@ -2859,8 +2859,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Mar 20, 2025 02:37pm
-- **Updated At (UTC):** Jan 02, 2026 05:15am
+- **Created At:** Mar 20, 2025 02:37pm
+- **Updated At:** Jan 02, 2026 05:15am
 
 ---
 
@@ -2874,8 +2874,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Mar 20, 2025 01:36pm
-- **Updated At (UTC):** Jan 02, 2026 05:15am
+- **Created At:** Mar 20, 2025 01:36pm
+- **Updated At:** Jan 02, 2026 05:15am
 
 ---
 
@@ -2889,8 +2889,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Mar 08, 2025 01:46pm
-- **Updated At (UTC):** Jan 02, 2026 05:15am
+- **Created At:** Mar 08, 2025 01:46pm
+- **Updated At:** Jan 02, 2026 05:15am
 
 ---
 
@@ -2909,8 +2909,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Mar 07, 2025 06:19am
-- **Updated At (UTC):** Jan 02, 2026 05:15am
+- **Created At:** Mar 07, 2025 06:19am
+- **Updated At:** Jan 02, 2026 05:15am
 
 ---
 
@@ -2921,15 +2921,15 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 24, 2025 04:23am
-- **Updated At (UTC):** Jan 02, 2026 05:16am
+- **Created At:** Feb 24, 2025 04:23am
+- **Updated At:** Jan 02, 2026 05:16am
 
 ---
 
 ### 9. Post 9
 **Author:** サユ(SAYUTR_) (KAZAMA_IROHA)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/58d5f012bdaf8816ac285b7af0fd93d3/Screen_recording_2025_02_24_09_10_53.webm?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=OIYf84x1n64are89h7PSdBdSWX6wrkaE4L%2FjxsUXp9T%2F9tY54wfgy0TYf7UvVtsYuzMz7NyaCE4pbmoxhGTRsHmrYFStBwVKWdnuPqnx3ox3H6XAQd%2FzAXhQrf06IjKq8AtjNj6X3Yv0qsbmHXIZDaezBHGdGU5fknv2SWi4A6qptvhtA6fGJJdAV7wKSi6Oog%2FNFJo9nevBZRp1HQC5RJFNPO0NkUaCYjjE511I2QjkplMubVf3UvBNmnojsGo%2B%2B%2BRKWKwcXpiwUIG8ljsNq0EpWioFPgZNtdJlJE1YWkxwP5o2A3erD70Segv8fSH2GQmjDYi9uRWqO59yY%2Fs2OA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F58d5f012bdaf8816ac285b7af0fd93d3%2FScreen_recording_2025_02_24_09_10_53.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2339269554/58d5f012bdaf8816ac285b7af0fd93d3/Screen_recording_2025_02_24_09_10_53.webm?Expires=1785410727&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SNlTH7G5eSBpGYS0CHC8zLqr0MFha578xtEhxC5pVFJ3V0xlsuj7mhX3CMVpYHZIWc2vtIkHWN2zUMzTQH2ysqVkMvTZQtnqFrI7lpJxD0VXxWd3HQqIKJkIXU6testUXRyDdSYTFVER5%2BsSZ%2Bruw%2FufFKRfyJpr0u0CyfrxHCjDciNs5QBK73YOGSCeGYr4%2BeUlb6Agm%2F1emkPFyu4JTWKEjYwBgYyIXB8JbLKGViu8BRzvlFkXuyfsMizB3HTIiG%2FKeYDLyBsY3aaybvoEqR3B5I6jEDichGgoXUT%2FfpsLJE9CzXoPv3uBkKj65kkuY0FrC1aL6KX3GwNhoIZWkw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2339269554%2F58d5f012bdaf8816ac285b7af0fd93d3%2FScreen_recording_2025_02_24_09_10_53.webm)
 
 #### Comments (2)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 24, 2025 02:07am): https://v.kuku.lu
@@ -2937,8 +2937,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 24, 2025 12:25am
-- **Updated At (UTC):** Jan 02, 2026 05:16am
+- **Created At:** Feb 24, 2025 12:25am
+- **Updated At:** Jan 02, 2026 05:16am
 
 ---
 
@@ -2947,7 +2947,7 @@
 
 <p>fireeeeeeeeeeee</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3332121381/9fa1a1fa0070bff6cdbfe57dc4255d55/91C1225B_6796_4B68_889B_ABF35C1197BB.jpeg?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PpU8FFQKTQd0mkisrwyr576sM9mBwqUwbHB%2FmmxIr%2Fbu2eDS0Tx8RqpRkL7cePKpasb32uaL9zwpgi%2BCbWIGa3kv5eqx4eMxxNTG4ZDr%2BpKN7%2FXJ8d7izE7pyXIBm1TnYd5s05EJih5oZMy3JXRx%2BxAB5%2FkNlq0VsZ8SUvDNpCYtDs35ns0uFhRZjhSw4gkahMMmakq3pTCh8H3cIGHxK4Y6%2BAgVlWa23qiHHsiHk4B%2BIekz6ABsAGejinW9KEKQVmfS0PJcxw5iSj36pUCee3Ea6JrWqbhE%2Bf0TXvpDpAiUxGgEjDxbFCgvjjmAoLJ9wAOCvvJziC9%2F5u9s6pkPew%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3332121381%2F9fa1a1fa0070bff6cdbfe57dc4255d55%2F91C1225B_6796_4B68_889B_ABF35C1197BB.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3332121381/9fa1a1fa0070bff6cdbfe57dc4255d55/91C1225B_6796_4B68_889B_ABF35C1197BB.jpeg?Expires=1785410727&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ldbhG1z8Ciy4947wek%2BWmzUJGqXfUIx7dB98c2b0wiIR3vv%2FVWPR7QNXDCTJ4jovKc%2BoRJhdbfknagXaq13GOPvQQIrj%2BbgvVF6CFZ72Msb8Rc4%2BLWu8Esi1lTieJ9lyYQifWv1GtpPGVBw6kaPLYxM4VEkpGZnRB183b43nbTdhOCfZ37kIH%2B38jetswqH0n9Dt%2Buq6W53Cdd1De9MvEedZvCBv7YW2dfoVBN3mER18ypPth70dmPYo2JY7sUgqVruj4UU8NbI4dnzmnOMIh1JtUdeFUYkEcNpIDjcO9EGsaAiXsALXT%2BYdu%2BJVjN4bq8LblWHR4fk1ZjezTcyyLw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3332121381%2F9fa1a1fa0070bff6cdbfe57dc4255d55%2F91C1225B_6796_4B68_889B_ABF35C1197BB.jpeg)
 
 #### Comments (1)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Feb 06, 2025 12:58pm): :o
@@ -2957,8 +2957,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 06, 2025 12:57pm
-- **Updated At (UTC):** Jan 02, 2026 05:16am
+- **Created At:** Feb 06, 2025 12:57pm
+- **Updated At:** Jan 02, 2026 05:16am
 
 ---
 
@@ -2972,15 +2972,15 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jan 24, 2025 07:30am
-- **Updated At (UTC):** Jan 02, 2026 05:18am
+- **Created At:** Jan 24, 2025 07:30am
+- **Updated At:** Jan 02, 2026 05:18am
 
 ---
 
 ### 12. ｶｼｬｯ📸
 **Author:** taba
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/3299828264/2689fdd874b40202ffc7185abac18e08/Screenshot_2025_01_22_22_59_03.png?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uKd7OM%2FlA6I24JVWb6kUzj8hVXgbJnbJLM8bary91FaYm1KWFtpz20BPOxGJm8Fo5vjGhxKNCQ8Q3D%2FOKQSBHru1MnydM1txgUiIUA7jFQxUuJMKxkE96m06rIJDWWeg%2FMgR1B1sj80%2FuvimLgmMcJLASu9rmSZntFSSleDHTt2Nf%2FqxAgBkEHods4zyo3aWk4BaPtDahxYNyhxqJV%2FT7uFjJE1LipCm4E%2Ft6KOFUNu3%2F58Ovopv1OZTcb78V2F%2Fg2Zk1b2hVtY1%2B1yPbS%2BiQlhCGCUYxBgeAiBJ3SRrKo7TmBb5SURrmqR3QPv%2BOxraEBlrwVlU%2BAETTosu2V2T4w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3299828264%2F2689fdd874b40202ffc7185abac18e08%2FScreenshot_2025_01_22_22_59_03.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/3299828264/2689fdd874b40202ffc7185abac18e08/Screenshot_2025_01_22_22_59_03.png?Expires=1785410727&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ErBPh%2Fr47BdGXa%2F4aSGnO8Z0cpSqKIkTt4NrQkPgEP2tvdIQJWY%2FHrL7fluheUCOF5pX3qVhHZVXLZ62nB6rkU1IJ3%2BzTtsCxUf%2Fy7otAptaY%2FHc1rW7lJy2iTsDyzHRRFNF0uY7P%2FedHsg4pi4HHN9fMz7LZUpGMJRvcca0TrzyGjGHS71%2BecUIcaMRZIN7lN5kPX2FgRkIb%2BMUqQcrHFZVqbA9yoryw9%2FU4UWtsHynF41WdtRNKAsLbbxpQYR%2BdvuhfQKxr0lk6Htu%2FkSVxFRXyr4Am2JjjhcM5ArJY%2Fq2031UhgGmJWl6OjXwJcJft%2BUwaGOrdFUys%2F5tt1JTVQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F3299828264%2F2689fdd874b40202ffc7185abac18e08%2FScreenshot_2025_01_22_22_59_03.png)
 
 #### Comments (3)
 - **yurayura** (Jan 23, 2025 06:49am): おおすぎ
@@ -2992,8 +2992,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 22, 2025 02:00pm
-- **Updated At (UTC):** Jan 02, 2026 05:17am
+- **Created At:** Jan 22, 2025 02:00pm
+- **Updated At:** Jan 02, 2026 05:17am
 
 ---
 
@@ -3004,8 +3004,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jan 17, 2025 09:57pm
-- **Updated At (UTC):** Jan 02, 2026 05:16am
+- **Created At:** Jan 17, 2025 09:57pm
+- **Updated At:** Jan 02, 2026 05:16am
 
 ---
 
@@ -3016,8 +3016,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jan 05, 2025 09:34am
-- **Updated At (UTC):** Jan 02, 2026 05:13am
+- **Created At:** Jan 05, 2025 09:34am
+- **Updated At:** Jan 02, 2026 05:13am
 
 ---
 
@@ -3028,8 +3028,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jan 05, 2025 09:32am
-- **Updated At (UTC):** Jan 02, 2026 05:13am
+- **Created At:** Jan 05, 2025 09:32am
+- **Updated At:** Jan 02, 2026 05:13am
 
 ---
 
@@ -3040,8 +3040,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jan 05, 2025 09:25am
-- **Updated At (UTC):** Jan 02, 2026 05:13am
+- **Created At:** Jan 05, 2025 09:25am
+- **Updated At:** Jan 02, 2026 05:13am
 
 ---
 
@@ -3052,23 +3052,23 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jan 05, 2025 09:25am
-- **Updated At (UTC):** Jan 02, 2026 05:13am
+- **Created At:** Jan 05, 2025 09:25am
+- **Updated At:** Jan 02, 2026 05:13am
 
 ---
 
 ### 18. いぇい
 **Author:** 削除済みユーザー
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2178111101/7f90a7df5e4f7da591dedf606127e234/Screenshot_2024_09_09_22_01_06.png?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bQB32PU%2B9Hu0wpygSO5TZPj844zWi%2FVIfBiogJWUZSp4Jk8bYAaCQwpNakw7jksKWy%2FTXkkL%2BwFBGQDaDoNbRw3K%2Fro145pWxHSC95DHPA4j9UZs3bnrUF%2FPLNCobQG1maAHwt2W%2BngrRYe0S0z0USjVA5EStcl7efbujMmKfXcOf53LeWE%2BTFk3LKi%2BGYPgr%2FH6lui4TUDPT%2B4Ht7%2F56Iq4kidlQhQWsFWb%2BjQokkeL%2FGUXKSvPQM3r0ifWPg8ZPEwEuFTFzkFI%2Bwk%2BXCDjN6GIsNZzJgXzNGsoCQUnpPI6Z41GVd%2F0Xkj1Rix5bD7d87WEfoqpE4Oo6SI0EjObNA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2178111101%2F7f90a7df5e4f7da591dedf606127e234%2FScreenshot_2024_09_09_22_01_06.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2178111101/7f90a7df5e4f7da591dedf606127e234/Screenshot_2024_09_09_22_01_06.png?Expires=1785410727&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=js1VL%2FHIIjIWp14rZ341%2Bcbr4wnQS63Ge5tmumgaGXPI1w4jckM8BD4a6x%2BZ1qBZd8An0wcUW8bVoNtyuCMbQv3WjWP3oq2lnAmhlPcrUmGtdfPhXh8CYHwsEpZ%2BgUcu6HgC%2FWgG7xqn1WjiGuHNJnLhwq72mB9FfYQ7bEjNOW8v3vIwJraM97PtJ2WLQEVRUJ2N4ER%2BB8uKL%2B%2BifgAKZY4za8OQIBGc4MG7hvH7u%2FdilXIPRpwXPplV4iPpQM00%2FxG1EeVVMqri%2B9cn70CHa2N2CMtGU4T%2FfajkcV6cZb1F2YMSHGLauKAdvDey1hXTeDtPDKCg3dIq%2F4VHlD5DYA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2178111101%2F7f90a7df5e4f7da591dedf606127e234%2FScreenshot_2024_09_09_22_01_06.png)
 
 #### Reactions
 - **Emojis:** ❤️ (3)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 19, 2024 08:50am
-- **Updated At (UTC):** Oct 19, 2024 08:50am
+- **Created At:** Oct 19, 2024 08:50am
+- **Updated At:** Oct 19, 2024 08:50am
 
 ---
 
@@ -3079,8 +3079,8 @@
 
 #### Additional Information
 - **Post color:** Blue
-- **Created At (UTC):** Jun 10, 2024 10:38am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Jun 10, 2024 10:38am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -3099,8 +3099,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 14, 2024 02:34pm
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** May 14, 2024 02:34pm
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -3109,15 +3109,15 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.twitch.tv/the_rogue_contractor/clip/AgreeableDistinctAmazonBCouch-D9NzNlfJFLTwvKud">https://www.twitch.tv/the_rogue_contractor/clip/AgreeableDistinctAmazonBCouch-D9NzNlfJFLTwvKud</a></p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/f2e6b9892a61af4d6dffdbc1dfdb0ed9/Mid_Air_on_Rogue.mp4?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wNR7oz4v%2FRv%2FcjUvVgz%2BhvCw50qF0DBoSc3R6Gml9rY6Sg%2FFoHa4%2BQFUnQGlrajdQYAm%2FHs5MfgtJRQeN73JlZyq8NOApdMNzHWTyss0AZ5jx7doj6epD5HaJ%2FXYlYjMWLP9xxz5Yd3rPFeiopFoECNnuc6DmopLam83UB8%2BBJ5BMTZdLj1%2Fnu3ws0zCr2bj6D00DRj%2FCQxjyEeivfrB88YPiklrav2mLPKZJjg0CvFdTy5OXs3jtcix1lPnuLASDKNO9u0XS7JLF8wUxNDmIZrAhS4M8aBs0WF%2BsS0JhWS0zes%2FQFobQLSav7i5hXAXdo%2FRjvCgEsZJYgNdV8Q%2FdQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Ff2e6b9892a61af4d6dffdbc1dfdb0ed9%2FMid_Air_on_Rogue.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/f2e6b9892a61af4d6dffdbc1dfdb0ed9/Mid_Air_on_Rogue.mp4?Expires=1785410727&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5J3wRCdSIAcV0On8tsXbZuWsCrgAUE9CIcXROFvO0QD3SuaIrN3PYifqXDC2%2BE6QeVvb61I4VPR7a28FygvL%2FdPJqLHn%2FC%2FD70nv6bCJFxDqLrEPq2sDK0ZjnUATRDUjm6gxuG5%2FnrS7EIY8TYzK%2FvFmVXSndiQjRGTxetU%2B%2FXvTMkWtGpLinpGVhRwNQxfzakgACSWjzofbgsgMZdz2afU1vILmD09eVkG9QtpvP%2BEHN6GfUPRw7kMUYoZDc%2FLassanOxT0%2BKm%2BgNOcApAMpJXwmPHj%2BXA0YIDe8WD2Iw36a1MWBk1Sc7gZJ89kKZQUrQO15RZlg0rVVFHnZYtCsA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Ff2e6b9892a61af4d6dffdbc1dfdb0ed9%2FMid_Air_on_Rogue.mp4)
 
 #### Reactions
 - **Emojis:** ❤️ (7)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 30, 2024 02:41pm
-- **Updated At (UTC):** Feb 08, 2025 05:34pm
+- **Created At:** Apr 30, 2024 02:41pm
+- **Updated At:** Feb 08, 2025 05:34pm
 
 ---
 
@@ -3135,8 +3135,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 04, 2024 09:13am
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Apr 04, 2024 09:13am
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -3155,8 +3155,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 06, 2024 12:54pm
-- **Updated At (UTC):** Jul 18, 2024 01:11pm
+- **Created At:** Mar 06, 2024 12:54pm
+- **Updated At:** Jul 18, 2024 01:11pm
 
 ---
 
@@ -3165,15 +3165,15 @@
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.twitch.tv/lucigamezdreams/clip/ImportantSuccessfulLocustPunchTrees-daTJ3eDPqZTZZuz9">https://www.twitch.tv/lucigamezdreams/clip/ImportantSuccessfulLocustPunchTrees-daTJ3eDPqZTZZuz9</a></p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/effa0d3e15ba9c096f71afc7d7f82ff1/Luci_360_d_me.mp4?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TwU3p%2FC5hPFUvZTuhf%2BOARwxYz0SXVOSvuIzqsdspX%2Bycsm%2BfnHgjgCD6e2k2VTlrJwO1d4rG6zVRo2GajWrkj5bnoaSz6tclQJagyj8qUOeR94%2BJFZtBwZtQ6qWPmf0pPVAOjRRsznzGulP31MHz1H9G1SD%2BB5vGzAvXd%2BPnn1IpskVjgTMnOrtT7j1WryRnto30vvaGogDyTdJQ3mh0NuLguioIg%2F99qdGHdSi6ylGSSo6ewMibHkfN58lzoccW4DyafzvOrD1tNwezG6uFb2aysVZcRW2Mjw5C%2F6GxVMF%2F9CKdn53pqUa5vWB8x3TJ9yscoMFrNOSEDFMZo9UvA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Feffa0d3e15ba9c096f71afc7d7f82ff1%2FLuci_360_d_me.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/effa0d3e15ba9c096f71afc7d7f82ff1/Luci_360_d_me.mp4?Expires=1785410727&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zrwqc%2BdmA3nhq62sTOmaxuBRW%2FbVOO7w%2BAxwuieYngpXgEOlZSuWTUjJJgoPomuJd4NBK6WJw8Z7Ud%2BWUjD6gqcixGwb6fTt00%2F9Vllr3LLhKcZ8Cb0V%2BXF%2BvGb6u2ZKyuIpU83AP51gx9g7FXDB%2FLkBBlfc39caUWhKe6%2BDYR3OJPSoI3CYnOBwnGydUy5a4M4oIzOGeEKiErIyLAROQTrD8oCpWu0L3pfioV1UDDUE4jMJ%2FTXsk1G6pT%2FAfUT9YOeJNT%2BZGxYSy84ltZlQcwekT6v%2FFR9gHNn7ekp8ev6rogNBvFJw8OAgoLlnK%2FWMQ74WPaWGDi0IuZ49UgK6KA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Feffa0d3e15ba9c096f71afc7d7f82ff1%2FLuci_360_d_me.mp4)
 
 #### Reactions
 - **Emojis:** ❤️ (6)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 10, 2024 05:26am
-- **Updated At (UTC):** Feb 08, 2025 05:34pm
+- **Created At:** Feb 10, 2024 05:26am
+- **Updated At:** Feb 08, 2025 05:34pm
 
 ---
 
@@ -3182,15 +3182,15 @@
 
 <p>The Spatula Fell Off The Map | Shell Shockers</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/a13eee3fc00afb556720dfcef27120e5/video__2_.webm?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rtMPdP1eSkPEU5inJgK4YKEG5SQ0QId6DHck6jXSqokNmC7PeMJmgI2%2FeJAYl9dZHf9WBXaYu0XP5DPwwU7sTVD%2FWeiVc4dEAwC2eChlGNXc0AA6XSndxigU1iQzf1vkXGEXaZnF79Ss0HC1PwOf%2F3xFEcR4p7rOHBVYNbJ7wCOIoRzSu99sh8HwgTxFRy3qZlevnjIbNM8T7yZYVtfRLWLklacgBu146aM5pKxb2SbuG%2FgTjqYgBcZIW%2BW8zHeiKrcJlk148BhKkQE30t%2FvlJcLwhWPwNqzYYClHIAbXaEfm1tG40%2BRO300%2BQ9K3fvoH1oYfcqOhaDt5UCd4XVgRw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fa13eee3fc00afb556720dfcef27120e5%2Fvideo__2_.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/a13eee3fc00afb556720dfcef27120e5/video__2_.webm?Expires=1785410727&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MI6RI1SNmHAtbbzP88fRHEo3VtKvyo3PyDpD%2FWtKp59b%2F%2FU9QqIuMoe4PGKMeeejFQQfqzNYBTYQcXAQ6ELDtfoW6jTlc9YtvgqTVAi0iwtav%2BlcFYN24RfZkMZfnaIAPNBi54NNBA5rlBxhf4w8lqfYnlcjArXPV4Dj3TZeIqnJqlL1p69qEtXcmkEfJIbOGzQsfwmVjtRyfTnqAGn9JCn4n66Y3O1jAURtNqWgtxbKXpZqSUwAkO4%2FIdmHPhm5ynZMYwTf1gXAyxAg%2FkVO9nYABxtJwl6hRoDCjf58wa6qTVouinsddS6aT3%2BRZg%2FONNUx%2BTVU5PYjC1GkYACKcg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fa13eee3fc00afb556720dfcef27120e5%2Fvideo__2_.webm)
 
 #### Reactions
 - **Emojis:** ❤️ (6)
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Feb 02, 2024 08:34am
-- **Updated At (UTC):** Feb 07, 2025 12:48am
+- **Created At:** Feb 02, 2024 08:34am
+- **Updated At:** Feb 07, 2025 12:48am
 
 ---
 
@@ -3199,15 +3199,15 @@
 
 <p>Rogue Forgot To Reload :P | Shell Shockers</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/580841c5af4742d22bdbbfd42d6df517/video.webm?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=L1lJkZuWw%2FOLbce7Vc0kltGRVF2rbloURlm8YClR36sMKIjxNRVOyHUI8y2TymDtbtFYklnw6An0br7FL3%2F3sjERUU7X%2BbKRjlk841jJJ61GpkciMrxp%2BzrnTIB6YLlNdoPSuEmpKn3oFmmNVpCRtMWRYjQ0iuBtBAi8GXp%2BHpcoBMfoblfU9QpeAGlyBGq8yzZr9NCeWV3QafiyGGtu5OsnxUGz7yX4t3rKxLYYXCqArECK6uwe28jGBjPrwGtWjftRiQ3SYhhcz7MJlw98HicF5yLldaHnwvdLIplvXDti8VgceKJHtj15dZQ%2F5zQLbcK5s9YZNH8F%2Fw7SEJtSJg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F580841c5af4742d22bdbbfd42d6df517%2Fvideo.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/580841c5af4742d22bdbbfd42d6df517/video.webm?Expires=1785410727&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=n6klgjAJlQdGCnPM5jfXweVBPBJJlYAFAwmQ8ZX6nHyE%2BOvwlZ1XHCGWAgF7%2BJ48ZE0arGIvcVAQDtkBl%2BPkFyroqRWOyxB8T%2BEeQdCRzchQcjDuh0RN09oKdq%2B%2FoJK7XTZFB6rtzblyVLMM4ECN2yjP78wwRH3UvvCmpIwRBT6%2BEg0yMCWOWSgut5V7L6UtXcjbbuV1lIbuVCMpQlPSrS9KP1RuTf6GSDujQYIlkBCbh030AENS4FZWaz5wNUa8HbTYpf55UUuppLTUoI5BZpWk9bGp5LllrbVwlw9YLLOdNdfitvIIyH76bQET23nCOOv%2F7q345Xcp4RzuDVrp1Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F580841c5af4742d22bdbbfd42d6df517%2Fvideo.webm)
 
 #### Reactions
 - **Emojis:** ❤️ (6)
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Feb 02, 2024 08:34am
-- **Updated At (UTC):** Feb 07, 2025 12:48am
+- **Created At:** Feb 02, 2024 08:34am
+- **Updated At:** Feb 07, 2025 12:48am
 
 ---
 
@@ -3228,8 +3228,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Mar 07, 2025 04:43am
-- **Updated At (UTC):** Aug 20, 2025 08:35am
+- **Created At:** Mar 07, 2025 04:43am
+- **Updated At:** Aug 20, 2025 08:35am
 
 ---
 
@@ -3245,8 +3245,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Dec 23, 2024 11:41pm
-- **Updated At (UTC):** Jul 14, 2025 11:30am
+- **Created At:** Dec 23, 2024 11:41pm
+- **Updated At:** Jul 14, 2025 11:30am
 
 ---
 
@@ -3271,8 +3271,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Aug 25, 2024 06:47am
-- **Updated At (UTC):** Aug 01, 2025 12:53pm
+- **Created At:** Aug 25, 2024 06:47am
+- **Updated At:** Aug 01, 2025 12:53pm
 
 ---
 
@@ -3325,8 +3325,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jul 18, 2024 01:07pm
-- **Updated At (UTC):** Jan 28, 2026 01:27pm
+- **Created At:** Jul 18, 2024 01:07pm
+- **Updated At:** Jan 28, 2026 01:27pm
 
 ---
 
@@ -3353,8 +3353,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jan 15, 2025 12:24pm
-- **Updated At (UTC):** Jan 28, 2026 01:27pm
+- **Created At:** Jan 15, 2025 12:24pm
+- **Updated At:** Jan 28, 2026 01:27pm
 
 ---
 
@@ -3381,8 +3381,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Dec 19, 2024 11:12am
-- **Updated At (UTC):** Jun 05, 2025 12:56pm
+- **Created At:** Dec 19, 2024 11:12am
+- **Updated At:** Jun 05, 2025 12:56pm
 
 ---
 
@@ -3410,8 +3410,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Dec 19, 2024 11:22am
-- **Updated At (UTC):** Jun 05, 2025 12:57pm
+- **Created At:** Dec 19, 2024 11:22am
+- **Updated At:** Jun 05, 2025 12:57pm
 
 ---
 
@@ -3425,8 +3425,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Mar 07, 2025 04:30am
-- **Updated At (UTC):** Jun 05, 2025 12:57pm
+- **Created At:** Mar 07, 2025 04:30am
+- **Updated At:** Jun 05, 2025 12:57pm
 
 ---
 
@@ -3437,7 +3437,7 @@
 
 <p>裏技かはわからん</p><p>弾が向こうに行かない</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/f954a43441d0e7ced1f538ec9d3dd49c/Shell_Shockers___Also_at_deathegg_life___Google_Chrome_2025_08_18_07_59_35.mp4?Expires=1785405988&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=f8LZ2AnN4rA3lYWPMXGkaoGOkOmM53skFa33Gx06TpJiO5zeqy%2Fuy8vOuWlW9HVe6LaTCb8N2F6AyAdXO0jghbv6cj9apvHNcvVQxvIMk8dtk99q0r3ARJ2hUwpIv6ukEE0L7nxSdwxIv%2B%2FjbySryqlmoar8F0OHc2BdsnAN60eb9r5ozqvGn7Jq0dT8fQXCnCT5t8Mg%2Bba1FaTFLlw2YiKzJ9nq88o6IIWkXtVe2Pv92FomsySdFB%2FprYFtQatJXTdZuKcFWLz%2BLmcKIvqAOtiUCuAEkm%2FzKZRleJ9jYinIhbDsvxk8L8fzM7iXBPorF5rBeX0bhnJQ8zmM576cwg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2Ff954a43441d0e7ced1f538ec9d3dd49c%2FShell_Shockers___Also_at_deathegg_life___Google_Chrome_2025_08_18_07_59_35.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3232514883/f954a43441d0e7ced1f538ec9d3dd49c/Shell_Shockers___Also_at_deathegg_life___Google_Chrome_2025_08_18_07_59_35.mp4?Expires=1785410727&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=HR4vPot2zYuTghf3JazNCMhDccjE2pj8sbi21nUsVyp8DHCgOzhTUr7noSHnXG5dkxriQI0dZLbmVh3pxDBzA%2BuDOy%2FfPXFVzBCULtQ2J199sszr9mzvumO5Xath4t3J5sxL6JTV%2FgCuNJFc3zuujYC%2FCg8JNqMOeGUDp8sWoYq5tivCWjXCuCzS%2B0YxHsY9ZH1EA%2FrAakGq1V9wdnKGlYxi7BjS2qnUQRDKxSQ5wnA9I6gxVK3b1dl34fyIkSo4WPpSF0Qi8oiSqBowGOphvPxo1F6HTdkSXi5Eh8iNSOf2Fxd3S5R9t%2BgiROPoMiFYTpk5GX6oRsGfIqKc%2F0eS1A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3232514883%2Ff954a43441d0e7ced1f538ec9d3dd49c%2FShell_Shockers___Also_at_deathegg_life___Google_Chrome_2025_08_18_07_59_35.mp4)
 
 #### Comments (6)
 - **ᏁγᎶ » Tøka_Kuŋ_** (Sep 05, 2025 11:25am): 軽くね？
@@ -3449,8 +3449,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 17, 2025 11:29pm
-- **Updated At (UTC):** Aug 17, 2025 11:29pm
+- **Created At:** Aug 17, 2025 11:29pm
+- **Updated At:** Aug 17, 2025 11:29pm
 
 ---
 
@@ -3466,8 +3466,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jan 17, 2025 11:34pm
-- **Updated At (UTC):** Jun 05, 2025 01:01pm
+- **Created At:** Jan 17, 2025 11:34pm
+- **Updated At:** Jun 05, 2025 01:01pm
 
 ---
 
@@ -3483,8 +3483,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jan 17, 2025 09:46am
-- **Updated At (UTC):** Jun 05, 2025 01:01pm
+- **Created At:** Jan 17, 2025 09:46am
+- **Updated At:** Jun 05, 2025 01:01pm
 
 ---
 
@@ -3500,8 +3500,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jan 17, 2025 12:49am
-- **Updated At (UTC):** Jun 05, 2025 01:01pm
+- **Created At:** Jan 17, 2025 12:49am
+- **Updated At:** Jun 05, 2025 01:01pm
 
 ---
 
@@ -3515,8 +3515,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jan 14, 2025 01:44pm
-- **Updated At (UTC):** Jun 05, 2025 01:00pm
+- **Created At:** Jan 14, 2025 01:44pm
+- **Updated At:** Jun 05, 2025 01:00pm
 
 ---
 
@@ -3529,8 +3529,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Nov 05, 2025 11:35pm
-- **Updated At (UTC):** Nov 12, 2025 07:45am
+- **Created At:** Nov 05, 2025 11:35pm
+- **Updated At:** Nov 12, 2025 07:45am
 
 ---
 
@@ -3544,8 +3544,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Oct 18, 2025 11:20am
-- **Updated At (UTC):** Oct 18, 2025 11:20am
+- **Created At:** Oct 18, 2025 11:20am
+- **Updated At:** Oct 18, 2025 11:20am
 
 ---
 
@@ -3559,8 +3559,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Oct 12, 2025 09:33am
-- **Updated At (UTC):** Oct 12, 2025 09:33am
+- **Created At:** Oct 12, 2025 09:33am
+- **Updated At:** Oct 12, 2025 09:33am
 
 ---
 
@@ -3574,8 +3574,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Oct 12, 2025 09:32am
-- **Updated At (UTC):** Oct 12, 2025 09:32am
+- **Created At:** Oct 12, 2025 09:32am
+- **Updated At:** Oct 12, 2025 09:32am
 
 ---
 
@@ -3589,8 +3589,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Sep 05, 2025 11:24am
-- **Updated At (UTC):** Sep 05, 2025 11:24am
+- **Created At:** Sep 05, 2025 11:24am
+- **Updated At:** Sep 05, 2025 11:24am
 
 ---
 
@@ -3604,8 +3604,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Aug 16, 2025 02:36am
-- **Updated At (UTC):** Aug 16, 2025 02:36am
+- **Created At:** Aug 16, 2025 02:36am
+- **Updated At:** Aug 16, 2025 02:36am
 
 ---
 
@@ -3621,8 +3621,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Aug 09, 2025 09:32am
-- **Updated At (UTC):** Aug 09, 2025 09:32am
+- **Created At:** Aug 09, 2025 09:32am
+- **Updated At:** Aug 09, 2025 09:32am
 
 ---
 
@@ -3639,8 +3639,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Aug 05, 2025 05:48am
-- **Updated At (UTC):** Aug 05, 2025 05:48am
+- **Created At:** Aug 05, 2025 05:48am
+- **Updated At:** Aug 05, 2025 05:48am
 
 ---
 
@@ -3654,8 +3654,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jul 06, 2025 12:26pm
-- **Updated At (UTC):** Jul 06, 2025 12:26pm
+- **Created At:** Jul 06, 2025 12:26pm
+- **Updated At:** Jul 06, 2025 12:26pm
 
 ---
 
@@ -3669,8 +3669,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jun 27, 2025 06:57am
-- **Updated At (UTC):** Jun 27, 2025 06:57am
+- **Created At:** Jun 27, 2025 06:57am
+- **Updated At:** Jun 27, 2025 06:57am
 
 ---
 
@@ -3684,8 +3684,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jun 07, 2025 05:17am
-- **Updated At (UTC):** Jun 07, 2025 05:17am
+- **Created At:** Jun 07, 2025 05:17am
+- **Updated At:** Jun 07, 2025 05:17am
 
 ---
 
@@ -3701,8 +3701,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** May 18, 2025 07:50am
-- **Updated At (UTC):** May 18, 2025 07:50am
+- **Created At:** May 18, 2025 07:50am
+- **Updated At:** May 18, 2025 07:50am
 
 ---
 
@@ -3718,8 +3718,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** May 03, 2025 12:40am
-- **Updated At (UTC):** May 03, 2025 12:40am
+- **Created At:** May 03, 2025 12:40am
+- **Updated At:** May 03, 2025 12:40am
 
 ---
 
@@ -3735,8 +3735,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Apr 19, 2025 11:11am
-- **Updated At (UTC):** Apr 19, 2025 11:11am
+- **Created At:** Apr 19, 2025 11:11am
+- **Updated At:** Apr 19, 2025 11:11am
 
 ---
 
@@ -3752,8 +3752,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Apr 02, 2025 04:35am
-- **Updated At (UTC):** Apr 09, 2025 12:58pm
+- **Created At:** Apr 02, 2025 04:35am
+- **Updated At:** Apr 09, 2025 12:58pm
 
 ---
 
@@ -3769,8 +3769,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Mar 20, 2025 03:58am
-- **Updated At (UTC):** Mar 22, 2025 01:36pm
+- **Created At:** Mar 20, 2025 03:58am
+- **Updated At:** Mar 22, 2025 01:36pm
 
 ---
 
@@ -3789,8 +3789,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Mar 05, 2025 06:08am
-- **Updated At (UTC):** Mar 20, 2025 04:07am
+- **Created At:** Mar 05, 2025 06:08am
+- **Updated At:** Mar 20, 2025 04:07am
 
 ---
 
@@ -3813,8 +3813,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 16, 2025 09:27am
-- **Updated At (UTC):** Mar 05, 2025 06:08am
+- **Created At:** Jan 16, 2025 09:27am
+- **Updated At:** Mar 05, 2025 06:08am
 
 ---
 
@@ -3829,8 +3829,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Dec 18, 2025 07:46am
-- **Updated At (UTC):** Dec 19, 2025 09:40am
+- **Created At:** Dec 18, 2025 07:46am
+- **Updated At:** Dec 19, 2025 09:40am
 
 ---
 
@@ -3841,8 +3841,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 05, 2026 11:11am
-- **Updated At (UTC):** Mar 05, 2026 11:12am
+- **Created At:** Mar 05, 2026 11:11am
+- **Updated At:** Mar 05, 2026 11:12am
 
 ---
 
@@ -3855,8 +3855,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 06, 2026 05:59am
-- **Updated At (UTC):** Feb 06, 2026 05:59am
+- **Created At:** Feb 06, 2026 05:59am
+- **Updated At:** Feb 06, 2026 05:59am
 
 ---
 
@@ -3867,7 +3867,7 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 17, 2025 11:31pm
-- **Updated At (UTC):** Aug 17, 2025 11:31pm
+- **Created At:** Aug 17, 2025 11:31pm
+- **Updated At:** Aug 17, 2025 11:31pm
 
 ---

@@ -1,4 +1,4 @@
-最終取得: 2026/06/27 09:18:24
+最終取得: 2026/07/23 20:25:19
 
 # ゲームサイトやプロキシなどの共有広場
 
@@ -8,8 +8,8 @@
 - **Link:** https://padlet.com/BERURI1214/padlet-zsdegt1d6scuq9qa
 - **Builder:** 太古の太鼓~1853 Brainrot (BERURI1214)
 - **Posts:** 1
-- **Created At (UTC):** Apr 22, 2025 09:34am
-- **Updated At (UTC):** Jun 27, 2026 12:00am
+- **Created At:** Apr 22, 2025 09:34am
+- **Updated At:** Jun 27, 2026 12:00am
 
 ## 重要なお知らせ
 
@@ -19,7 +19,7 @@
 <p>今は大切な期間なのでpadletに手を回す時間がないです。</p>
 
 #### Additional Information
-- **Created At (UTC):** Jun 25, 2026 10:07am
-- **Updated At (UTC):** Jun 25, 2026 10:07am
+- **Created At:** Jun 25, 2026 10:07am
+- **Updated At:** Jun 25, 2026 10:07am
 
 ---

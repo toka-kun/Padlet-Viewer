@@ -1,4 +1,4 @@
-最終取得: 2026/07/23 10:15:37
+最終取得: 2026/07/23 20:25:19
 
 # 荒らし対策室
 
@@ -6,8 +6,8 @@
 - **Link:** https://padlet.com/Toka_Kun_/padlet-i0fd897smvjo0tvj
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 23
-- **Created At (UTC):** Jan 08, 2025 05:56am
-- **Updated At (UTC):** Jul 19, 2026 10:13pm
+- **Created At:** Jan 08, 2025 05:56am
+- **Updated At:** Jul 19, 2026 10:13pm
 
 ## リンク集
 
@@ -25,8 +25,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** May 31, 2025 12:06pm
-- **Updated At (UTC):** Feb 11, 2026 12:54pm
+- **Created At:** May 31, 2025 12:06pm
+- **Updated At:** Feb 11, 2026 12:54pm
 
 ---
 
@@ -67,8 +67,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** May 31, 2025 12:10pm
-- **Updated At (UTC):** Sep 30, 2025 12:05pm
+- **Created At:** May 31, 2025 12:10pm
+- **Updated At:** Sep 30, 2025 12:05pm
 
 ---
 
@@ -97,8 +97,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** May 31, 2025 12:15pm
-- **Updated At (UTC):** Jun 07, 2026 10:41pm
+- **Created At:** May 31, 2025 12:15pm
+- **Updated At:** Jun 07, 2026 10:41pm
 
 ---
 
@@ -111,8 +111,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 18, 2026 04:41am
-- **Updated At (UTC):** Jul 19, 2026 10:13pm
+- **Created At:** Jul 18, 2026 04:41am
+- **Updated At:** Jul 19, 2026 10:13pm
 
 ---
 
@@ -123,8 +123,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 14, 2026 08:22am
-- **Updated At (UTC):** Jul 17, 2026 07:16am
+- **Created At:** Jul 14, 2026 08:22am
+- **Updated At:** Jul 17, 2026 07:16am
 
 ---
 
@@ -133,8 +133,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 17, 2026 11:23am
-- **Updated At (UTC):** Jun 17, 2026 10:58pm
+- **Created At:** Jun 17, 2026 11:23am
+- **Updated At:** Jun 17, 2026 10:58pm
 
 ---
 
@@ -143,8 +143,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 12, 2026 04:12pm
-- **Updated At (UTC):** Jun 17, 2026 10:58pm
+- **Created At:** Jun 12, 2026 04:12pm
+- **Updated At:** Jun 17, 2026 10:58pm
 
 ---
 
@@ -153,8 +153,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 19, 2026 07:21am
-- **Updated At (UTC):** May 19, 2026 08:39am
+- **Created At:** May 19, 2026 07:21am
+- **Updated At:** May 19, 2026 08:39am
 
 ---
 
@@ -165,8 +165,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 25, 2026 04:39pm
-- **Updated At (UTC):** Apr 27, 2026 11:59am
+- **Created At:** Apr 25, 2026 04:39pm
+- **Updated At:** Apr 27, 2026 11:59am
 
 ---
 
@@ -178,8 +178,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 23, 2026 06:41am
-- **Updated At (UTC):** Apr 23, 2026 07:12am
+- **Created At:** Apr 23, 2026 06:41am
+- **Updated At:** Apr 23, 2026 07:12am
 
 ---
 
@@ -191,8 +191,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 13, 2026 02:16am
-- **Updated At (UTC):** Jan 13, 2026 08:31am
+- **Created At:** Jan 13, 2026 02:16am
+- **Updated At:** Jan 13, 2026 08:31am
 
 ---
 
@@ -204,8 +204,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Nov 22, 2025 08:18am
-- **Updated At (UTC):** Nov 22, 2025 01:40pm
+- **Created At:** Nov 22, 2025 08:18am
+- **Updated At:** Nov 22, 2025 01:40pm
 
 ---
 
@@ -216,8 +216,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 29, 2026 06:09am
-- **Updated At (UTC):** Jun 30, 2026 06:31am
+- **Created At:** Jun 29, 2026 06:09am
+- **Updated At:** Jun 30, 2026 06:31am
 
 ---
 
@@ -226,8 +226,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 04:11am
-- **Updated At (UTC):** Jun 29, 2026 05:09am
+- **Created At:** May 18, 2026 04:11am
+- **Updated At:** Jun 29, 2026 05:09am
 
 ---
 
@@ -238,8 +238,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 22, 2026 02:23pm
-- **Updated At (UTC):** Jun 01, 2026 04:19am
+- **Created At:** May 22, 2026 02:23pm
+- **Updated At:** Jun 01, 2026 04:19am
 
 ---
 
@@ -248,8 +248,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 20, 2026 05:23am
-- **Updated At (UTC):** May 20, 2026 10:10pm
+- **Created At:** May 20, 2026 05:23am
+- **Updated At:** May 20, 2026 10:10pm
 
 ---
 
@@ -258,8 +258,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 20, 2026 05:08am
-- **Updated At (UTC):** May 20, 2026 10:10pm
+- **Created At:** May 20, 2026 05:08am
+- **Updated At:** May 20, 2026 10:10pm
 
 ---
 
@@ -271,8 +271,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 07, 2026 07:20am
-- **Updated At (UTC):** Mar 10, 2026 12:13am
+- **Created At:** Feb 07, 2026 07:20am
+- **Updated At:** Mar 10, 2026 12:13am
 
 ---
 
@@ -284,8 +284,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 17, 2026 09:04am
-- **Updated At (UTC):** Feb 11, 2026 12:54pm
+- **Created At:** Jan 17, 2026 09:04am
+- **Updated At:** Feb 11, 2026 12:54pm
 
 ---
 
@@ -297,8 +297,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Nov 23, 2025 01:22am
-- **Updated At (UTC):** Feb 11, 2026 11:34pm
+- **Created At:** Nov 23, 2025 01:22am
+- **Updated At:** Feb 11, 2026 11:34pm
 
 ---
 
@@ -312,8 +312,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Sep 29, 2025 12:06pm
-- **Updated At (UTC):** Jan 14, 2026 02:05pm
+- **Created At:** Sep 29, 2025 12:06pm
+- **Updated At:** Jan 14, 2026 02:05pm
 
 ---
 
@@ -325,8 +325,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Nov 24, 2025 03:48am
-- **Updated At (UTC):** May 20, 2026 09:57am
+- **Created At:** Nov 24, 2025 03:48am
+- **Updated At:** May 20, 2026 09:57am
 
 ---
 
@@ -338,7 +338,7 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Nov 21, 2025 08:07am
-- **Updated At (UTC):** May 19, 2026 09:37am
+- **Created At:** Nov 21, 2025 08:07am
+- **Updated At:** May 19, 2026 09:37am
 
 ---
