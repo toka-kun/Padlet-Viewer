@@ -1,4 +1,4 @@
-最終取得: 2026/07/23 20:25:19
+最終取得: 2026/07/23 21:00:37
 
 # proxyなど教える会
 
@@ -8,8 +8,8 @@ proxyサイトなどを共有しましょう
 - **Link:** https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5
 - **Builder:** 仙人@suger (sennin_sugar)
 - **Posts:** 522
-- **Created At (UTC):** Jun 04, 2025 08:02am
-- **Updated At (UTC):** Jul 23, 2026 07:38am
+- **Created At:** Jun 04, 2025 08:02am
+- **Updated At:** Jul 23, 2026 11:48am
 
 ## 概要
 
@@ -59,8 +59,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** May 21, 2026 09:41pm
-- **Updated At (UTC):** May 21, 2026 09:41pm
+- **Created At:** May 21, 2026 09:41pm
+- **Updated At:** May 21, 2026 09:41pm
 
 ---
 
@@ -155,8 +155,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** May 21, 2026 09:43pm
-- **Updated At (UTC):** May 21, 2026 09:43pm
+- **Created At:** May 21, 2026 09:43pm
+- **Updated At:** May 21, 2026 09:43pm
 
 ---
 
@@ -168,8 +168,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 15, 2026 05:41am
-- **Updated At (UTC):** Jul 15, 2026 05:41am
+- **Created At:** Jul 15, 2026 05:41am
+- **Updated At:** Jul 15, 2026 05:41am
 
 ---
 
@@ -211,8 +211,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 12, 2026 10:30am
-- **Updated At (UTC):** Jun 12, 2026 10:30am
+- **Created At:** Jun 12, 2026 10:30am
+- **Updated At:** Jun 12, 2026 10:30am
 
 ---
 
@@ -254,8 +254,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** May 30, 2026 10:12am
-- **Updated At (UTC):** Jun 19, 2026 08:38am
+- **Created At:** May 30, 2026 10:12am
+- **Updated At:** Jun 19, 2026 08:38am
 
 ---
 
@@ -269,8 +269,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 17, 2026 11:06am
-- **Updated At (UTC):** Jul 17, 2026 11:06am
+- **Created At:** Jul 17, 2026 11:06am
+- **Updated At:** Jul 17, 2026 11:06am
 
 ---
 
@@ -293,8 +293,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 15, 2026 05:43am
-- **Updated At (UTC):** Jul 15, 2026 05:43am
+- **Created At:** Jul 15, 2026 05:43am
+- **Updated At:** Jul 15, 2026 05:43am
 
 ---
 
@@ -312,23 +312,23 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 10, 2026 07:21am
-- **Updated At (UTC):** Jul 10, 2026 07:22am
+- **Created At:** Jul 10, 2026 07:21am
+- **Updated At:** Jul 10, 2026 07:22am
 
 ---
 
 ### 4. うえーん
 **Author:** ふっじー（犬系） (1926018025)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2529009269/4a42fdb11558e27f4b0d57e9a49f2d68/image.png?Expires=1785407302&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fxxFRj1tDnnhFb9bmPS4d52ngUcmDLiTdYMuzFh6Y2XxwRVG2eIAzpakMpwj%2BsuKkWa2oIsV%2FAfaDbMBJcrC4bAokztVWwnz7%2B%2B50nlx%2Fp9SS5OqEdBOe39T6Ev4ekpT5LyZxhQIfewVVHVsq4nTvk5IMO8tuBfE%2Fsk9iXY259wnQU1a1TWTm8rSaSJmjeryJiuYeb9A8eZNIdG43htK59kzcjkCirwFlprJKIRqa%2BTb3e8jXxGIiB4alhZCmzmf9i%2BCOGSl8hEUw7lzhoI41vR8ziRS85ZTLTjxhMArjqF8YSxYdrvwGMapXN8hLRDCKE%2FG5%2F%2B6SWx%2FK4tDk0s8PA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2529009269%2F4a42fdb11558e27f4b0d57e9a49f2d68%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2529009269/4a42fdb11558e27f4b0d57e9a49f2d68/image.png?Expires=1785412591&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=F12M82qlE6Q5y2NDTOt4r45xTJMBf9bfnu1cA2X708X33ithoCmsPQACgpFXh3vDgKdxU%2BZhVDX5kJzv993VXearQENtdKKoTJL7Msu2zrflKBunHZRrGdWX2MOfnSD9Va2iXjPRkqack1JtqmAjweS1Z8Oz9I68CJKagXTOJC5ndzzXsv7s2aDkCr1sDzv8YrKr9k5MnTFzEJ%2BewcjzCCE0x9CI8hpAj%2Bp3TyU8r4ayoYFcU8EMpZwCpAOi3KA7bK7r5Sqz028%2FNrWWH0%2FA1i3Yh%2BM1V5wxQI%2B8MdnJuZWF%2BIUoLzpuohmXSTfv8wFp4S87P%2BYZ%2FQzKl7htxy5qQg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2529009269%2F4a42fdb11558e27f4b0d57e9a49f2d68%2Fimage.png)
 
 #### Comments (1)
 - **あおくん** (Jul 09, 2026 02:46am): やっば
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 08, 2026 01:16pm
-- **Updated At (UTC):** Jul 08, 2026 01:17pm
+- **Created At:** Jul 08, 2026 01:16pm
+- **Updated At:** Jul 08, 2026 01:17pm
 
 ---
 
@@ -341,15 +341,15 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 07, 2026 08:07am
-- **Updated At (UTC):** Jul 07, 2026 08:07am
+- **Created At:** Jul 07, 2026 08:07am
+- **Updated At:** Jul 07, 2026 08:07am
 
 ---
 
 ### 6. まだ俺赤帯
 **Author:** フォトナしたい人 (HP30)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5639307766/0e558669393cd57822d20056409506dc/gs225708_red_belt_certificate_2026.pdf?Expires=1785407302&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2s4ZmTM2pr%2BAcLKs0ZvqxckGvJkgIt29ahTTDCciuwvMhbSvE7eOXrgkL7%2BuVBXVgXLTtLRtBFM44O188Ek%2BDOcVR9aUiqiVfHcLzhw8e7ktolmR1ZGoXjL9zc7n74KVYWtxXL2YkebUbmXMLfnWgGeI7bB31nkGnGB%2Fr6apapwLTXiIRYxWE0abTJdPgL63cdOvuH7Lhp0NqO6BhIQolIjGRcQUDZDazh7stsVt2UAvMtOzqUeh%2B6%2FPqSgZ7MK0kagkgpes%2B02k069IGfqGKxgd6oUcKqo4gQotY7BWftxVS%2B%2FawmrabUWNP6FPl%2F1nlob47pz7%2FaZqysTYC%2FcRNA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5639307766%2F0e558669393cd57822d20056409506dc%2Fgs225708_red_belt_certificate_2026.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5639307766/0e558669393cd57822d20056409506dc/gs225708_red_belt_certificate_2026.pdf?Expires=1785412591&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1ir8pbiufd6g3mQodmhgHmq9GVWNHMq2Ux6w%2Foli6h5Llu%2FhBoI8nG63vL%2FTopd%2Bn2K3Xd0d%2Brq%2Fb2kN4rcpstS3FP10CFhNdVC%2B%2BwOJUsemc9d%2FfYNO6HdCZCSRwTHmOiUqNeSI1UyyNk4Hcx4T%2BuS0gYUpab3yzl6tp9lB%2BiRUGZy7QqiCmovld0FGcVH4ei88jG73p2Qq5vqCCM%2Bc5%2FIfM7JpoVVrsI54mwUHkxL2PxeAFTPvOZLCtVnuTqGlqO01s%2FaglygC%2BycLglSYleLu5xKMkEPwn%2BBhKKmNMR01EyqE%2FcqGpz9xCPNWMkJQeHUpNIu5XHdIMFBrlzGI9A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5639307766%2F0e558669393cd57822d20056409506dc%2Fgs225708_red_belt_certificate_2026.pdf)
 
 #### Comments (5)
 - **あおくん** (Jul 06, 2026 02:40am): すごいじゃん！
@@ -360,8 +360,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 06, 2026 02:38am
-- **Updated At (UTC):** Jul 06, 2026 02:38am
+- **Created At:** Jul 06, 2026 02:38am
+- **Updated At:** Jul 06, 2026 02:38am
 
 ---
 
@@ -370,7 +370,7 @@ proxyサイトなどを共有しましょう
 
 <p>荒らされたらコラボレーションのところがもうブラック帯まで行ってて草</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5693789758/d4fe383d2988aa6e47bf4bba19ac5329/IMG_1080.jpeg?Expires=1785407302&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=vZQndXRtG3fsUsGrsB65IklITNSmEOz1FLDAFwZbYm7YzSn%2BxFKOvg%2FoCebdXeZ0c9mXMI8IgcBQaPoivmRZ3fDKNKa2qSz38IcoVFpldignkPG4ErXLkBg9%2FW9CThceFIfjWKMArkT6g4tdeLdAWuJkyK2cIEWg1SCYZyzzVHPtoZqs3uemPhR780Fgapg6puuBR02xYpu2lzJMCqbgNCGzg6qnerbe10YuWLEoxLdeuL46WLYAAkaAXmWil6RXdr4h%2Fc0D3i7MWLlvRKDlfJy4dNx0V2h16fvMucTL%2F9Ir3R3f33PiAzTFK3uSv6yBt0PLInT987eK5hKDsWd3Fg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5693789758%2Fd4fe383d2988aa6e47bf4bba19ac5329%2FIMG_1080.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5693789758/d4fe383d2988aa6e47bf4bba19ac5329/IMG_1080.jpeg?Expires=1785412591&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Vpb6CCErgAPp7zDUDlyYVbMvyKATjYfDtw1hyWA%2BsRRojqkohWcu0%2BUtEuID6s0MbviUZ6YhK30QOdWXggWj0PrQJdglfOrXrwuBRIqNn0gxXp6XcGspW5NPRCGY3jJuklYtVM0hFYtyXlnm%2FjXWefvLt2r8Wkhmk3NGCR%2B5s9PYlYrF14pg7yXN4sNS%2BbRm8bC%2FmqsbxJ3uA5MDTAxRGhkgrEf%2BjmRQRNKyCkLrf8hXj0J3Oh1pieuTPTh9%2Bm0JyPr2jyaw7cTZiysSDPHn0FNXVUBAJBrICZom6wZVUA98KsxcnO2LJK35OmkNXMJMHgSd8Mah6cC2zLwQwlxEpw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5693789758%2Fd4fe383d2988aa6e47bf4bba19ac5329%2FIMG_1080.jpeg)
 
 #### Comments (12)
 - **あおくん** (Jul 05, 2026 10:17am): ｗ
@@ -388,8 +388,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 05, 2026 09:06am
-- **Updated At (UTC):** Jul 05, 2026 09:06am
+- **Created At:** Jul 05, 2026 09:06am
+- **Updated At:** Jul 05, 2026 09:06am
 
 ---
 
@@ -413,8 +413,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 28, 2026 10:30am
-- **Updated At (UTC):** Jun 28, 2026 10:30am
+- **Created At:** Jun 28, 2026 10:30am
+- **Updated At:** Jun 28, 2026 10:30am
 
 ---
 
@@ -443,8 +443,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 26, 2026 01:30pm
-- **Updated At (UTC):** Jun 26, 2026 01:30pm
+- **Created At:** Jun 26, 2026 01:30pm
+- **Updated At:** Jun 26, 2026 01:30pm
 
 ---
 
@@ -462,8 +462,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 26, 2026 09:33am
-- **Updated At (UTC):** Jun 26, 2026 09:33am
+- **Created At:** Jun 26, 2026 09:33am
+- **Updated At:** Jun 26, 2026 09:33am
 
 ---
 
@@ -484,8 +484,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 19, 2026 08:39am
-- **Updated At (UTC):** Jun 19, 2026 08:39am
+- **Created At:** Jun 19, 2026 08:39am
+- **Updated At:** Jun 19, 2026 08:39am
 
 ---
 
@@ -502,8 +502,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 15, 2026 01:44pm
-- **Updated At (UTC):** Jun 15, 2026 01:44pm
+- **Created At:** Jun 15, 2026 01:44pm
+- **Updated At:** Jun 15, 2026 01:44pm
 
 ---
 
@@ -527,8 +527,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 11, 2026 04:37am
-- **Updated At (UTC):** Jun 11, 2026 04:37am
+- **Created At:** Jun 11, 2026 04:37am
+- **Updated At:** Jun 11, 2026 04:37am
 
 ---
 
@@ -544,15 +544,15 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 07, 2026 02:47am
-- **Updated At (UTC):** Jun 07, 2026 02:47am
+- **Created At:** Jun 07, 2026 02:47am
+- **Updated At:** Jun 07, 2026 02:47am
 
 ---
 
 ### 15. ゆるさん
 **Author:** Tomokun_0531 (Tomoharukun)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5606632794/37a6e655c6349b21aff74376b35eb4ae/Screenshot_2026_06_06_11_09_29.png?Expires=1785407302&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=OoZMWrShain0qB8owxmqR0PeFHGHth5j5AieOcL%2FjC7BaSJ0b1%2BdVKQkiq9WdXf17RYdO1DrVeN4U%2F%2BKRwBM54NE8EkiYChe1dNL7UMTkUsgYqU0jWVvjorU8KPbUoge07yF7aNvQToGnNqWC9sCu7ebKEZiKBQKE4FBwHuAfLjf2IqhTLi62DMkyNSG1RLZvZPUX6QhQZo6LccrZPmFY5JtCj%2FDJlMzrKiAabZwY5iWSJ%2Bh2XcUflxFvkjZE2kPpgw6cXPyHy8bA0t16ko%2FXX%2BVgibyVSKJx2m4GlYRyidjUd%2Fprjdbtji10RlJASGfcpLUbmGlEDhd9tz%2Fge9owA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5606632794%2F37a6e655c6349b21aff74376b35eb4ae%2FScreenshot_2026_06_06_11_09_29.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5606632794/37a6e655c6349b21aff74376b35eb4ae/Screenshot_2026_06_06_11_09_29.png?Expires=1785412591&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RIF6EZyUsXdsNl5etgONviFSkGlMNMw54CtUy%2BnIZvhTjgYdw8v%2FWQ2ZJl3V2yrO%2BtscAqLbCCMRZr%2Bqme2EDMV%2FZTBX7elVmhh7OIviB8dKARw6HtU%2F5O6CuiacefLqUKiJ%2FlQ6%2Bk7t9bECMoGnBkf%2B48quxmoNBO8XD2PmnS9S40SpfutEFpTXckE0CbyFirgOJ0%2Fyi3boclfTQN%2FDXrnwOENa3D6NjUYYHamrCIehkvEjbo7CmUHvypE6KKgE%2Fgkf%2FyUH1LHPl0OpZWRBO2AADWygom%2Fpy7QDTHmCnzJwOgt9QifCVesLM2IHpECIng3e%2FJEj8xahfneTFqSG%2Fw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5606632794%2F37a6e655c6349b21aff74376b35eb4ae%2FScreenshot_2026_06_06_11_09_29.png)
 
 #### Comments (7)
 - **にゃんこ好き** (Jun 08, 2026 12:14pm): なんですかこれはHA
@@ -565,8 +565,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 06, 2026 02:10am
-- **Updated At (UTC):** Jun 08, 2026 08:54am
+- **Created At:** Jun 06, 2026 02:10am
+- **Updated At:** Jun 08, 2026 08:54am
 
 ---
 
@@ -592,8 +592,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 04, 2026 11:30pm
-- **Updated At (UTC):** Jun 04, 2026 11:30pm
+- **Created At:** Jun 04, 2026 11:30pm
+- **Updated At:** Jun 04, 2026 11:30pm
 
 ---
 
@@ -605,8 +605,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 04, 2026 01:41am
-- **Updated At (UTC):** Jun 04, 2026 01:41am
+- **Created At:** Jun 04, 2026 01:41am
+- **Updated At:** Jun 04, 2026 01:41am
 
 ---
 
@@ -624,8 +624,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 03, 2026 11:14pm
-- **Updated At (UTC):** Jun 03, 2026 11:14pm
+- **Created At:** Jun 03, 2026 11:14pm
+- **Updated At:** Jun 03, 2026 11:14pm
 
 ---
 
@@ -641,8 +641,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 03, 2026 06:39am
-- **Updated At (UTC):** Jun 03, 2026 06:39am
+- **Created At:** Jun 03, 2026 06:39am
+- **Updated At:** Jun 03, 2026 06:39am
 
 ---
 
@@ -660,8 +660,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Yellow
-- **Created At (UTC):** Jun 03, 2026 05:35am
-- **Updated At (UTC):** Jun 03, 2026 05:35am
+- **Created At:** Jun 03, 2026 05:35am
+- **Updated At:** Jun 03, 2026 05:35am
 
 ---
 
@@ -738,8 +738,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 22, 2026 12:12pm
-- **Updated At (UTC):** May 22, 2026 12:12pm
+- **Created At:** May 22, 2026 12:12pm
+- **Updated At:** May 22, 2026 12:12pm
 
 ---
 
@@ -759,8 +759,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 22, 2026 11:42am
-- **Updated At (UTC):** May 22, 2026 11:42am
+- **Created At:** May 22, 2026 11:42am
+- **Updated At:** May 22, 2026 11:42am
 
 ---
 
@@ -780,8 +780,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 14, 2026 09:39pm
-- **Updated At (UTC):** Jul 14, 2026 09:39pm
+- **Created At:** Jul 14, 2026 09:39pm
+- **Updated At:** Jul 14, 2026 09:39pm
 
 ---
 
@@ -794,8 +794,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 08, 2026 06:58am
-- **Updated At (UTC):** Jul 08, 2026 06:58am
+- **Created At:** Jul 08, 2026 06:58am
+- **Updated At:** Jul 08, 2026 06:58am
 
 ---
 
@@ -826,8 +826,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 27, 2026 06:03am
-- **Updated At (UTC):** Jun 27, 2026 06:03am
+- **Created At:** Jun 27, 2026 06:03am
+- **Updated At:** Jun 27, 2026 06:03am
 
 ---
 
@@ -851,8 +851,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 27, 2026 06:00am
-- **Updated At (UTC):** Jun 27, 2026 06:03am
+- **Created At:** Jun 27, 2026 06:00am
+- **Updated At:** Jun 27, 2026 06:03am
 
 ---
 
@@ -870,15 +870,15 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 26, 2026 02:29am
-- **Updated At (UTC):** Jun 26, 2026 02:29am
+- **Created At:** Jun 26, 2026 02:29am
+- **Updated At:** Jun 26, 2026 02:29am
 
 ---
 
 ### 6. 明日のワールドカップみんなで応援しよー
 **Author:** にゃんこ好き (s20127109)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2467475903/a96a7ca3df39cdc3dcf5719fe1f32877/Screenshot_2026_06_25_21_05_35.png?Expires=1785407302&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DprQYzWjwiACLiNSdrIIJVdqfWCQqqIoIfA4wYXWjP2h7mDsp63kXiX1QoUOHENitqEIDWlztzgmsLJqtlZpZ2soJa1YhOOUeWYd4P2CrjUtkzc08jgbu2x%2F5FodHv7QWnHLjwaE77QfKTQVVucS5YWpUhdebmW32EzRBn6DFFVNVmbhh%2FGK27XqFai7nT1jxnD5UosqnB33TX8%2FfafbCCRn0Iz5ZeGIjQMWvDCMOOEdAgVjuU9dTLvbWIBX5d9n3ZgME56YIt6equzR41NyB3IZDgfpaLyiUIyUgYpiFICFbqxcYN1e%2FDxpKNpupV5kJV%2Fne1vIvk9D4O6JYefu%2FA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2467475903%2Fa96a7ca3df39cdc3dcf5719fe1f32877%2FScreenshot_2026_06_25_21_05_35.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2467475903/a96a7ca3df39cdc3dcf5719fe1f32877/Screenshot_2026_06_25_21_05_35.png?Expires=1785412591&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hh0pEMNLYgqRo63VO2EjP0Xc0AujypIeS20f61FHxPv7oyxnpKFXaw%2FA6gtd3%2FNZdz%2FWx6WCduZlIGEcdPqky8FwLqKzlhPWljmuDOW4NnzcedWXbCUGGpnPeltycketqZsm5pqjetGYlC7ljyAVSfXQUC6%2Fz%2FJgPw1sgtIIjhDFdiprYAym3YAyAmTGrZocs8%2FGiKuawerVYP0TKC6gO%2F09nVyty%2FJ9n6SlRk411S2eaU6yNBsJBHjpAskqrHTySZr1s4i4NAOMGxkI8GmFBJ7BJ9ZlJvwDpHvcXcx9r4Cvb2EPG6%2BrqFaK3zvml%2F2u9hDPkdlMhO68lIICRMk3sQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2467475903%2Fa96a7ca3df39cdc3dcf5719fe1f32877%2FScreenshot_2026_06_25_21_05_35.png)
 
 #### Comments (14)
 - **初心者** (Jun 25, 2026 01:13pm): 学校行くから見れない…
@@ -898,8 +898,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 25, 2026 12:06pm
-- **Updated At (UTC):** Jun 25, 2026 12:06pm
+- **Created At:** Jun 25, 2026 12:06pm
+- **Updated At:** Jun 25, 2026 12:06pm
 
 ---
 
@@ -924,8 +924,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 16, 2026 06:38am
-- **Updated At (UTC):** Jun 16, 2026 06:38am
+- **Created At:** Jun 16, 2026 06:38am
+- **Updated At:** Jun 16, 2026 06:38am
 
 ---
 
@@ -941,8 +941,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 12, 2026 01:51am
-- **Updated At (UTC):** Jun 12, 2026 01:51am
+- **Created At:** Jun 12, 2026 01:51am
+- **Updated At:** Jun 12, 2026 01:51am
 
 ---
 
@@ -962,8 +962,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 10, 2026 12:09pm
-- **Updated At (UTC):** Jun 10, 2026 12:09pm
+- **Created At:** Jun 10, 2026 12:09pm
+- **Updated At:** Jun 10, 2026 12:09pm
 
 ---
 
@@ -988,8 +988,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 10, 2026 12:09pm
-- **Updated At (UTC):** Jun 10, 2026 12:09pm
+- **Created At:** Jun 10, 2026 12:09pm
+- **Updated At:** Jun 10, 2026 12:09pm
 
 ---
 
@@ -1010,8 +1010,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 10, 2026 12:07pm
-- **Updated At (UTC):** Jun 10, 2026 12:07pm
+- **Created At:** Jun 10, 2026 12:07pm
+- **Updated At:** Jun 10, 2026 12:07pm
 
 ---
 
@@ -1035,8 +1035,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Aug 03, 2025 05:15am
-- **Updated At (UTC):** Feb 17, 2026 09:27am
+- **Created At:** Aug 03, 2025 05:15am
+- **Updated At:** Feb 17, 2026 09:27am
 
 ---
 
@@ -1062,8 +1062,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Jan 28, 2026 08:59am
-- **Updated At (UTC):** Jan 28, 2026 10:20am
+- **Created At:** Jan 28, 2026 08:59am
+- **Updated At:** Jan 28, 2026 10:20am
 
 ---
 
@@ -1074,8 +1074,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 23, 2026 07:38am
-- **Updated At (UTC):** Jul 23, 2026 07:38am
+- **Created At:** Jul 23, 2026 07:38am
+- **Updated At:** Jul 23, 2026 07:38am
 
 ---
 
@@ -1086,8 +1086,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 18, 2026 06:42am
-- **Updated At (UTC):** Jul 18, 2026 06:42am
+- **Created At:** Jul 18, 2026 06:42am
+- **Updated At:** Jul 18, 2026 06:42am
 
 ---
 
@@ -1101,8 +1101,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 05, 2026 08:45am
-- **Updated At (UTC):** Jul 05, 2026 08:45am
+- **Created At:** Jul 05, 2026 08:45am
+- **Updated At:** Jul 05, 2026 08:45am
 
 ---
 
@@ -1122,8 +1122,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 30, 2026 08:35am
-- **Updated At (UTC):** Jun 30, 2026 08:35am
+- **Created At:** Jun 30, 2026 08:35am
+- **Updated At:** Jun 30, 2026 08:35am
 
 ---
 
@@ -1141,8 +1141,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 29, 2026 08:31am
-- **Updated At (UTC):** Jun 29, 2026 08:31am
+- **Created At:** Jun 29, 2026 08:31am
+- **Updated At:** Jun 29, 2026 08:31am
 
 ---
 
@@ -1157,20 +1157,20 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 29, 2026 05:56am
-- **Updated At (UTC):** Jun 29, 2026 05:56am
+- **Created At:** Jun 29, 2026 05:56am
+- **Updated At:** Jun 29, 2026 05:56am
 
 ---
 
 ### 9. 必ずフォローします！沢山の人募集中！
 **Author:** I love 純也 (idjenaiebjbjaimemfyenyifen)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5300490162/5eae2f232e31d0b3db5cfd8d670b7554/qr_code.png?Expires=1785407302&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=x28%2FVxyQLsSqA9PsBKixdCBUX4QiDSz6nWSF%2Fo1DJ06%2Bd%2BP43gJUjK6GR8xLh%2FqtC2oQQEa2NSUch%2F3Nj9Fu5zH2v5jeGsyTet93MUmFrX2HcgLZrNYD1ajIBOWp65lMtz0TvR53pRcr%2FsyQxKhwiCg7qIU06fCiy%2FK9re0wt8shwwDHQqX8SxFiezokFZiJoCOB0fm2at46cuD8qQtjmQ5sx9S4KasWAeaVJqrQzSVvdu1kdtdtHQBWcZb5eoF8NUzyxdz9AwCAXjX5EgY2SW0zNu271Fxcbk%2Fct0JuJ7bndMLVfjrM1IJO65%2FDjYyg5rPXrBYoU9ozcJBYNkcGGw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5300490162%2F5eae2f232e31d0b3db5cfd8d670b7554%2Fqr_code.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5300490162/5eae2f232e31d0b3db5cfd8d670b7554/qr_code.png?Expires=1785412592&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qC0DuXJboeTzmo2NUWorQNnHEo89GWdx8aXKDYqnanzaPoFK%2FzweE9pxhRUvti8J2LivejTKBCZ%2BwCVipbEDHJMWQV8ceEgdGH9iYqQZlG8nfQzmP0pW0hfwGMIvpK%2BvGFIy1XdoMgdugpemX2IkyGApbZWKiqwtGyLdOv2mWnK8tXuN%2F3%2BHULZqyEvji0hialMOTOTKTl1l5QMxneSWNEB%2Byl7eaIVXc7GiqxMROORuWMaYhO3RuywaZX4chQGAF27SDz1T1dEIOSooyCYFFeodfU4lSsx2h%2FughPUMixVY%2FovDDlNuf1BnzBkiZFLxad523M%2BB6BwkAfDqWVVpYQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5300490162%2F5eae2f232e31d0b3db5cfd8d670b7554%2Fqr_code.png)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 26, 2026 08:04am
-- **Updated At (UTC):** Jun 26, 2026 08:04am
+- **Created At:** Jun 26, 2026 08:04am
+- **Updated At:** Jun 26, 2026 08:04am
 
 ---
 
@@ -1209,8 +1209,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 25, 2026 08:06am
-- **Updated At (UTC):** Jun 25, 2026 08:06am
+- **Created At:** Jun 25, 2026 08:06am
+- **Updated At:** Jun 25, 2026 08:06am
 
 ---
 
@@ -1221,8 +1221,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 23, 2026 03:16am
-- **Updated At (UTC):** Jun 23, 2026 03:16am
+- **Created At:** Jun 23, 2026 03:16am
+- **Updated At:** Jun 23, 2026 03:16am
 
 ---
 
@@ -1236,8 +1236,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 18, 2026 05:39am
-- **Updated At (UTC):** Jun 18, 2026 08:31am
+- **Created At:** Jun 18, 2026 05:39am
+- **Updated At:** Jun 18, 2026 08:31am
 
 ---
 
@@ -1253,8 +1253,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 13, 2026 02:09am
-- **Updated At (UTC):** Jun 13, 2026 02:09am
+- **Created At:** Jun 13, 2026 02:09am
+- **Updated At:** Jun 13, 2026 02:09am
 
 ---
 
@@ -1269,8 +1269,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 12, 2026 09:19am
-- **Updated At (UTC):** Jun 12, 2026 09:19am
+- **Created At:** Jun 12, 2026 09:19am
+- **Updated At:** Jun 12, 2026 09:19am
 
 ---
 
@@ -1305,8 +1305,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jun 11, 2026 02:08am
-- **Updated At (UTC):** Jun 12, 2026 04:03am
+- **Created At:** Jun 11, 2026 02:08am
+- **Updated At:** Jun 12, 2026 04:03am
 
 ---
 
@@ -1332,8 +1332,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 09, 2026 09:17am
-- **Updated At (UTC):** Jun 09, 2026 09:17am
+- **Created At:** Jun 09, 2026 09:17am
+- **Updated At:** Jun 09, 2026 09:17am
 
 ---
 
@@ -1348,8 +1348,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 06, 2026 05:14am
-- **Updated At (UTC):** Jun 06, 2026 05:14am
+- **Created At:** Jun 06, 2026 05:14am
+- **Updated At:** Jun 06, 2026 05:14am
 
 ---
 
@@ -1366,8 +1366,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 06, 2026 03:52am
-- **Updated At (UTC):** Jun 06, 2026 03:52am
+- **Created At:** Jun 06, 2026 03:52am
+- **Updated At:** Jun 06, 2026 03:52am
 
 ---
 
@@ -1380,8 +1380,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 05, 2026 05:33am
-- **Updated At (UTC):** Jun 05, 2026 05:33am
+- **Created At:** Jun 05, 2026 05:33am
+- **Updated At:** Jun 05, 2026 05:33am
 
 ---
 
@@ -1397,8 +1397,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 05, 2026 05:07am
-- **Updated At (UTC):** Jun 29, 2026 01:49am
+- **Created At:** Jun 05, 2026 05:07am
+- **Updated At:** Jun 29, 2026 01:49am
 
 ---
 
@@ -1409,8 +1409,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 01, 2026 10:42am
-- **Updated At (UTC):** Jun 01, 2026 10:42am
+- **Created At:** Jun 01, 2026 10:42am
+- **Updated At:** Jun 01, 2026 10:42am
 
 ---
 
@@ -1428,8 +1428,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 20, 2026 11:34pm
-- **Updated At (UTC):** May 20, 2026 11:34pm
+- **Created At:** May 20, 2026 11:34pm
+- **Updated At:** May 20, 2026 11:34pm
 
 ---
 
@@ -1440,8 +1440,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 20, 2026 10:07pm
-- **Updated At (UTC):** May 20, 2026 10:07pm
+- **Created At:** May 20, 2026 10:07pm
+- **Updated At:** May 20, 2026 10:07pm
 
 ---
 
@@ -1452,8 +1452,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 20, 2026 04:03am
-- **Updated At (UTC):** May 20, 2026 04:03am
+- **Created At:** May 20, 2026 04:03am
+- **Updated At:** May 20, 2026 04:03am
 
 ---
 
@@ -1467,8 +1467,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 20, 2026 02:18am
-- **Updated At (UTC):** May 20, 2026 02:18am
+- **Created At:** May 20, 2026 02:18am
+- **Updated At:** May 20, 2026 02:18am
 
 ---
 
@@ -1481,23 +1481,23 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 19, 2026 11:45am
-- **Updated At (UTC):** May 19, 2026 11:46am
+- **Created At:** May 19, 2026 11:45am
+- **Updated At:** May 19, 2026 11:46am
 
 ---
 
 ### 27. 横揺れデストロイモード好きかな
 **Author:** 最強くん4人の親友 (s220765_6)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5663872295/cba53e1529079f7d63c87115dd6c2607/chernobyl_2017_meland_x_hauken.mp3?Expires=1785407302&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=x1o1BJ3GD4BT132yj3jN%2BSuiYbDyFdAkGOy%2FJznxfHSn5dPnnrGacQDgk54jjFtp7nuBcPUFSxB%2BLKW%2F%2F9RCxT9VKSGWiWLVVapDDhv0NlwkprBx21Q5Owv51zUKolO8qCiD7gLCSC7SaNQpzTLN1yTVnOT4R5L%2BEy1AY6Vtw%2B85TvmdBTsxD4cvbOBD%2BCrcGOh%2FDziFDCGjkS9k84d4twttzdCMkuGMdH84N7CWFJ2zKE0IOnNaZmcSfbNaXs5dgETyy4DEeCw9Zguyu3f7xeBPkJV0pC8PjfjOBuntVD7tAeaed5s%2Fz4dbNzhdKxRHczQOlAoVbaCm6%2Fdwg9PimQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5663872295%2Fcba53e1529079f7d63c87115dd6c2607%2Fchernobyl_2017_meland_x_hauken.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5663872295/cba53e1529079f7d63c87115dd6c2607/chernobyl_2017_meland_x_hauken.mp3?Expires=1785412592&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=my4iXaYautbbN65dFJyEUJ7MCdXur6bxH0GRSHhXGIcSMDakuvIAj554QYXSbnF%2Bo34PKqlETVgk5AECGqkCA1E0gD%2FsD7dAGnexNqH1wsbswo1KOuwN%2BViQhCyr%2FSRMpAnG8PqMguAfi0azQRmvblvqxF8%2BwfzjD0r%2FpYi2xyLeICv9quCwOKyPORxBIbS%2BLu1TjS2vX9TpKu0OkRc8bt3gG0NwkM34n945LMnKqxWygyLur5aMQ%2B03xhGqTkgOj12kyJs8JYFo50okwjf8ULe7Dy9YfW8abOVE5DhbeZz%2FWASNTrp2HYau61Op3%2F2t%2BosiE081QpoolJfmaP8BaQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5663872295%2Fcba53e1529079f7d63c87115dd6c2607%2Fchernobyl_2017_meland_x_hauken.mp3)
 
 #### Comments (1)
 - **最強くん4人の親友** (May 20, 2026 01:16am): 返信ない泣き
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 19, 2026 11:19am
-- **Updated At (UTC):** May 19, 2026 11:19am
+- **Created At:** May 19, 2026 11:19am
+- **Updated At:** May 19, 2026 11:19am
 
 ---
 
@@ -1512,8 +1512,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 10:58pm
-- **Updated At (UTC):** Jun 04, 2026 12:02pm
+- **Created At:** May 18, 2026 10:58pm
+- **Updated At:** Jun 04, 2026 12:02pm
 
 ---
 
@@ -1527,8 +1527,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 10:23pm
-- **Updated At (UTC):** May 18, 2026 10:23pm
+- **Created At:** May 18, 2026 10:23pm
+- **Updated At:** May 18, 2026 10:23pm
 
 ---
 
@@ -1543,8 +1543,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 10:06am
-- **Updated At (UTC):** May 18, 2026 10:09am
+- **Created At:** May 18, 2026 10:06am
+- **Updated At:** May 18, 2026 10:09am
 
 ---
 
@@ -1555,8 +1555,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 04:08am
-- **Updated At (UTC):** May 18, 2026 04:08am
+- **Created At:** May 18, 2026 04:08am
+- **Updated At:** May 18, 2026 04:08am
 
 ---
 
@@ -1567,8 +1567,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 11:58pm
-- **Updated At (UTC):** May 17, 2026 12:16am
+- **Created At:** May 16, 2026 11:58pm
+- **Updated At:** May 17, 2026 12:16am
 
 ---
 
@@ -1579,8 +1579,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 05:59pm
-- **Updated At (UTC):** May 16, 2026 05:59pm
+- **Created At:** May 16, 2026 05:59pm
+- **Updated At:** May 16, 2026 05:59pm
 
 ---
 
@@ -1593,8 +1593,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 09:45am
-- **Updated At (UTC):** May 16, 2026 09:45am
+- **Created At:** May 16, 2026 09:45am
+- **Updated At:** May 16, 2026 09:45am
 
 ---
 
@@ -1608,8 +1608,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 03:53am
-- **Updated At (UTC):** May 16, 2026 03:53am
+- **Created At:** May 16, 2026 03:53am
+- **Updated At:** May 16, 2026 03:53am
 
 ---
 
@@ -1628,8 +1628,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 02:04am
-- **Updated At (UTC):** May 16, 2026 02:04am
+- **Created At:** May 16, 2026 02:04am
+- **Updated At:** May 16, 2026 02:04am
 
 ---
 
@@ -1640,8 +1640,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 01:41am
-- **Updated At (UTC):** May 16, 2026 01:41am
+- **Created At:** May 16, 2026 01:41am
+- **Updated At:** May 16, 2026 01:41am
 
 ---
 
@@ -1654,8 +1654,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 14, 2026 01:15pm
-- **Updated At (UTC):** May 14, 2026 01:15pm
+- **Created At:** May 14, 2026 01:15pm
+- **Updated At:** May 14, 2026 01:15pm
 
 ---
 
@@ -1666,8 +1666,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 14, 2026 12:54pm
-- **Updated At (UTC):** May 14, 2026 01:13pm
+- **Created At:** May 14, 2026 12:54pm
+- **Updated At:** May 14, 2026 01:13pm
 
 ---
 
@@ -1680,8 +1680,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 14, 2026 12:43pm
-- **Updated At (UTC):** May 14, 2026 01:13pm
+- **Created At:** May 14, 2026 12:43pm
+- **Updated At:** May 14, 2026 01:13pm
 
 ---
 
@@ -1698,8 +1698,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 14, 2026 11:46am
-- **Updated At (UTC):** May 14, 2026 11:46am
+- **Created At:** May 14, 2026 11:46am
+- **Updated At:** May 14, 2026 11:46am
 
 ---
 
@@ -1708,12 +1708,12 @@ proxyサイトなどを共有しましょう
 
 <p>実はいま某チャットサイトでボーカロイドを自作するプロジェクトがあるんだけど声がなくてこまってる！お願いだからきてくれ！</p><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/a/macros/chuo-tky.ed.jp/s/AKfycbzZr6_OlbryeiykIF5KDlPXlT8M5UEdRyietdS9jMsHfqCeeGOcG1H-VO3RZd5CW7bn/exec">https://script.google.com/a/macros//s/AKfycbzZr6_OlbryeiykIF5KDlPXlT8M5UEdRyietdS9jMsHfqCeeGOcG1H-VO3RZd5CW7bn/exec</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5647885117/89439df0e7fedb60203f61c3ae65b75e/7284caa9_8aab_4f52_8481_ae2c755a4422.png?Expires=1785407302&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=w4OxPXNZHZqHWmCt9JC2UA3Lnd1E8ERjqpDzyXxvnXsEkEBcKMztzHCmAyTPvXPeGlgWKf%2B74d4adrkTPte3ixrYypCQzWnITpcOcLIBvMYkC50B8rGCwrgRObR3LykoMClwqnDoksPD92O3LD5uiC3pbuvPcs4P68KB9LvByv5SCUlG4kwcoRvAZXHiELluEQ8Wv7CjDBTsV47lDJyO7j8vMFBuJdJ9ApNCsB6Dk84U3XKBrKtIypcD255lpo8M%2FQ5kcjNaq%2BFVJF5xQsN%2FQOoeFIUBGmoez%2B%2BxgN6%2BXzegjzt%2F8jMOvbOE%2FhjteknlLHmJC0c7Yx%2FeIL7rnSXEOQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5647885117%2F89439df0e7fedb60203f61c3ae65b75e%2F7284caa9_8aab_4f52_8481_ae2c755a4422.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5647885117/89439df0e7fedb60203f61c3ae65b75e/7284caa9_8aab_4f52_8481_ae2c755a4422.png?Expires=1785412592&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=z76J3lg5yYkTFvf5COOwgVGjw0oH2W%2B1KqqIwqhyCxJJ334cF1AE9gjAFY49nxOluCA3p1o086pSICjv0LfwZLwn%2FjuZYXIE4tv6XO5FA0GeSwfTc7NHSzNizo%2BR%2FPPc90RHlbDqxFDFy73hkz3V2%2BxMYRhCKQhFC1istta%2FsK2gg%2BMuPKCcrF9hMqZwMv7s5p4J4F9L7uUlii05rSC4eJ3yOH9uwlO4ZMdcGoUWxwBw33RstsWrD9VRetZVtNCdEXmqm%2BODhs3Os2EjdKs13j2%2B%2FPblEjFISl9EZvLlDIFO8WUbHyTWtUmPwPIC9GbxotT%2BeCPx4IQ0OZrBY8ztIw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5647885117%2F89439df0e7fedb60203f61c3ae65b75e%2F7284caa9_8aab_4f52_8481_ae2c755a4422.png)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 14, 2026 07:52am
-- **Updated At (UTC):** May 14, 2026 07:52am
+- **Created At:** May 14, 2026 07:52am
+- **Updated At:** May 14, 2026 07:52am
 
 ---
 
@@ -1727,8 +1727,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 14, 2026 04:02am
-- **Updated At (UTC):** May 14, 2026 04:02am
+- **Created At:** May 14, 2026 04:02am
+- **Updated At:** May 14, 2026 04:02am
 
 ---
 
@@ -1742,8 +1742,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 14, 2026 02:21am
-- **Updated At (UTC):** May 14, 2026 02:55am
+- **Created At:** May 14, 2026 02:21am
+- **Updated At:** May 14, 2026 02:55am
 
 ---
 
@@ -1754,8 +1754,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 13, 2026 04:14am
-- **Updated At (UTC):** May 13, 2026 04:14am
+- **Created At:** May 13, 2026 04:14am
+- **Updated At:** May 13, 2026 04:14am
 
 ---
 
@@ -1768,8 +1768,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 13, 2026 03:14am
-- **Updated At (UTC):** May 13, 2026 03:14am
+- **Created At:** May 13, 2026 03:14am
+- **Updated At:** May 13, 2026 03:14am
 
 ---
 
@@ -1782,8 +1782,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 12, 2026 08:52am
-- **Updated At (UTC):** May 12, 2026 08:52am
+- **Created At:** May 12, 2026 08:52am
+- **Updated At:** May 12, 2026 08:52am
 
 ---
 
@@ -1794,8 +1794,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 12, 2026 07:41am
-- **Updated At (UTC):** May 12, 2026 07:41am
+- **Created At:** May 12, 2026 07:41am
+- **Updated At:** May 12, 2026 07:41am
 
 ---
 
@@ -1808,8 +1808,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 12, 2026 04:09am
-- **Updated At (UTC):** May 12, 2026 04:09am
+- **Created At:** May 12, 2026 04:09am
+- **Updated At:** May 12, 2026 04:09am
 
 ---
 
@@ -1820,8 +1820,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 11, 2026 09:42pm
-- **Updated At (UTC):** May 11, 2026 11:12pm
+- **Created At:** May 11, 2026 09:42pm
+- **Updated At:** May 11, 2026 11:12pm
 
 ---
 
@@ -1832,8 +1832,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 11, 2026 10:07am
-- **Updated At (UTC):** May 11, 2026 10:07am
+- **Created At:** May 11, 2026 10:07am
+- **Updated At:** May 11, 2026 10:07am
 
 ---
 
@@ -1847,8 +1847,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 11, 2026 03:17am
-- **Updated At (UTC):** May 11, 2026 03:17am
+- **Created At:** May 11, 2026 03:17am
+- **Updated At:** May 11, 2026 03:17am
 
 ---
 
@@ -1859,8 +1859,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 10, 2026 10:44am
-- **Updated At (UTC):** May 10, 2026 10:44am
+- **Created At:** May 10, 2026 10:44am
+- **Updated At:** May 10, 2026 10:44am
 
 ---
 
@@ -1873,8 +1873,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 10, 2026 06:45am
-- **Updated At (UTC):** May 10, 2026 06:45am
+- **Created At:** May 10, 2026 06:45am
+- **Updated At:** May 10, 2026 06:45am
 
 ---
 
@@ -1887,8 +1887,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 09, 2026 10:33am
-- **Updated At (UTC):** May 09, 2026 10:33am
+- **Created At:** May 09, 2026 10:33am
+- **Updated At:** May 09, 2026 10:33am
 
 ---
 
@@ -1899,8 +1899,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 09, 2026 08:45am
-- **Updated At (UTC):** May 09, 2026 08:45am
+- **Created At:** May 09, 2026 08:45am
+- **Updated At:** May 09, 2026 08:45am
 
 ---
 
@@ -1917,8 +1917,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 09, 2026 08:28am
-- **Updated At (UTC):** May 10, 2026 12:54am
+- **Created At:** May 09, 2026 08:28am
+- **Updated At:** May 10, 2026 12:54am
 
 ---
 
@@ -1931,8 +1931,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 09, 2026 07:26am
-- **Updated At (UTC):** May 09, 2026 07:26am
+- **Created At:** May 09, 2026 07:26am
+- **Updated At:** May 09, 2026 07:26am
 
 ---
 
@@ -1948,8 +1948,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 09, 2026 06:36am
-- **Updated At (UTC):** May 09, 2026 06:36am
+- **Created At:** May 09, 2026 06:36am
+- **Updated At:** May 09, 2026 06:36am
 
 ---
 
@@ -1960,8 +1960,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 01:53pm
-- **Updated At (UTC):** May 08, 2026 01:53pm
+- **Created At:** May 08, 2026 01:53pm
+- **Updated At:** May 08, 2026 01:53pm
 
 ---
 
@@ -1972,8 +1972,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 12:59pm
-- **Updated At (UTC):** May 08, 2026 12:59pm
+- **Created At:** May 08, 2026 12:59pm
+- **Updated At:** May 08, 2026 12:59pm
 
 ---
 
@@ -1992,8 +1992,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 02:29am
-- **Updated At (UTC):** May 08, 2026 02:29am
+- **Created At:** May 08, 2026 02:29am
+- **Updated At:** May 08, 2026 02:29am
 
 ---
 
@@ -2004,8 +2004,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 06, 2026 12:37am
-- **Updated At (UTC):** May 06, 2026 01:00am
+- **Created At:** May 06, 2026 12:37am
+- **Updated At:** May 06, 2026 01:00am
 
 ---
 
@@ -2024,8 +2024,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 05, 2026 06:16am
-- **Updated At (UTC):** May 05, 2026 06:16am
+- **Created At:** May 05, 2026 06:16am
+- **Updated At:** May 05, 2026 06:16am
 
 ---
 
@@ -2039,8 +2039,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 05, 2026 12:12am
-- **Updated At (UTC):** May 05, 2026 12:12am
+- **Created At:** May 05, 2026 12:12am
+- **Updated At:** May 05, 2026 12:12am
 
 ---
 
@@ -2051,8 +2051,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 04, 2026 11:19pm
-- **Updated At (UTC):** May 05, 2026 06:47am
+- **Created At:** May 04, 2026 11:19pm
+- **Updated At:** May 05, 2026 06:47am
 
 ---
 
@@ -2063,8 +2063,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 02, 2026 03:47pm
-- **Updated At (UTC):** May 02, 2026 03:47pm
+- **Created At:** May 02, 2026 03:47pm
+- **Updated At:** May 02, 2026 03:47pm
 
 ---
 
@@ -2077,8 +2077,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 02, 2026 07:29am
-- **Updated At (UTC):** May 06, 2026 10:01pm
+- **Created At:** May 02, 2026 07:29am
+- **Updated At:** May 06, 2026 10:01pm
 
 ---
 
@@ -2096,8 +2096,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 01, 2026 01:30pm
-- **Updated At (UTC):** May 01, 2026 01:30pm
+- **Created At:** May 01, 2026 01:30pm
+- **Updated At:** May 01, 2026 01:30pm
 
 ---
 
@@ -2112,8 +2112,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 26, 2026 04:01am
-- **Updated At (UTC):** Apr 26, 2026 04:01am
+- **Created At:** Apr 26, 2026 04:01am
+- **Updated At:** Apr 26, 2026 04:01am
 
 ---
 
@@ -2124,8 +2124,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 24, 2026 10:00am
-- **Updated At (UTC):** Apr 24, 2026 10:00am
+- **Created At:** Apr 24, 2026 10:00am
+- **Updated At:** Apr 24, 2026 10:00am
 
 ---
 
@@ -2136,8 +2136,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 23, 2026 11:57am
-- **Updated At (UTC):** May 01, 2026 12:53pm
+- **Created At:** Apr 23, 2026 11:57am
+- **Updated At:** May 01, 2026 12:53pm
 
 ---
 
@@ -2148,8 +2148,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 22, 2026 09:14am
-- **Updated At (UTC):** Apr 22, 2026 09:14am
+- **Created At:** Apr 22, 2026 09:14am
+- **Updated At:** Apr 22, 2026 09:14am
 
 ---
 
@@ -2162,8 +2162,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 22, 2026 04:48am
-- **Updated At (UTC):** Apr 22, 2026 04:48am
+- **Created At:** Apr 22, 2026 04:48am
+- **Updated At:** Apr 22, 2026 04:48am
 
 ---
 
@@ -2174,8 +2174,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 22, 2026 02:53am
-- **Updated At (UTC):** Apr 22, 2026 02:53am
+- **Created At:** Apr 22, 2026 02:53am
+- **Updated At:** Apr 22, 2026 02:53am
 
 ---
 
@@ -2188,8 +2188,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 22, 2026 12:37am
-- **Updated At (UTC):** Apr 22, 2026 12:37am
+- **Created At:** Apr 22, 2026 12:37am
+- **Updated At:** Apr 22, 2026 12:37am
 
 ---
 
@@ -2200,8 +2200,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 21, 2026 01:31am
-- **Updated At (UTC):** Apr 21, 2026 01:31am
+- **Created At:** Apr 21, 2026 01:31am
+- **Updated At:** Apr 21, 2026 01:31am
 
 ---
 
@@ -2212,8 +2212,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 19, 2026 03:54am
-- **Updated At (UTC):** Apr 19, 2026 03:54am
+- **Created At:** Apr 19, 2026 03:54am
+- **Updated At:** Apr 19, 2026 03:54am
 
 ---
 
@@ -2226,8 +2226,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 19, 2026 01:55am
-- **Updated At (UTC):** Apr 21, 2026 08:42am
+- **Created At:** Apr 19, 2026 01:55am
+- **Updated At:** Apr 21, 2026 08:42am
 
 ---
 
@@ -2240,8 +2240,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 18, 2026 05:24am
-- **Updated At (UTC):** Apr 18, 2026 05:26am
+- **Created At:** Apr 18, 2026 05:24am
+- **Updated At:** Apr 18, 2026 05:26am
 
 ---
 
@@ -2252,8 +2252,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 15, 2026 11:29pm
-- **Updated At (UTC):** Apr 16, 2026 07:48am
+- **Created At:** Apr 15, 2026 11:29pm
+- **Updated At:** Apr 16, 2026 07:48am
 
 ---
 
@@ -2266,8 +2266,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Apr 15, 2026 04:59pm
-- **Updated At (UTC):** Apr 15, 2026 05:00pm
+- **Created At:** Apr 15, 2026 04:59pm
+- **Updated At:** Apr 15, 2026 05:00pm
 
 ---
 
@@ -2278,8 +2278,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 14, 2026 07:49am
-- **Updated At (UTC):** Apr 14, 2026 07:49am
+- **Created At:** Apr 14, 2026 07:49am
+- **Updated At:** Apr 14, 2026 07:49am
 
 ---
 
@@ -2290,8 +2290,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 12, 2026 07:50am
-- **Updated At (UTC):** Apr 12, 2026 07:51am
+- **Created At:** Apr 12, 2026 07:50am
+- **Updated At:** Apr 12, 2026 07:51am
 
 ---
 
@@ -2307,8 +2307,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 10, 2026 02:04am
-- **Updated At (UTC):** Apr 10, 2026 02:04am
+- **Created At:** Apr 10, 2026 02:04am
+- **Updated At:** Apr 10, 2026 02:04am
 
 ---
 
@@ -2327,8 +2327,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 05, 2026 08:59am
-- **Updated At (UTC):** Apr 05, 2026 08:59am
+- **Created At:** Apr 05, 2026 08:59am
+- **Updated At:** Apr 05, 2026 08:59am
 
 ---
 
@@ -2339,8 +2339,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Yellow
-- **Created At (UTC):** Apr 04, 2026 01:54am
-- **Updated At (UTC):** Apr 04, 2026 01:54am
+- **Created At:** Apr 04, 2026 01:54am
+- **Updated At:** Apr 04, 2026 01:54am
 
 ---
 
@@ -2353,8 +2353,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 03, 2026 01:31am
-- **Updated At (UTC):** Apr 03, 2026 01:31am
+- **Created At:** Apr 03, 2026 01:31am
+- **Updated At:** Apr 03, 2026 01:31am
 
 ---
 
@@ -2365,8 +2365,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 02, 2026 12:59pm
-- **Updated At (UTC):** Apr 02, 2026 01:07pm
+- **Created At:** Apr 02, 2026 12:59pm
+- **Updated At:** Apr 02, 2026 01:07pm
 
 ---
 
@@ -2379,8 +2379,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Yellow
-- **Created At (UTC):** Apr 02, 2026 12:02am
-- **Updated At (UTC):** Apr 02, 2026 12:02am
+- **Created At:** Apr 02, 2026 12:02am
+- **Updated At:** Apr 02, 2026 12:02am
 
 ---
 
@@ -2393,8 +2393,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Blue
-- **Created At (UTC):** Apr 01, 2026 12:06pm
-- **Updated At (UTC):** Apr 01, 2026 12:08pm
+- **Created At:** Apr 01, 2026 12:06pm
+- **Updated At:** Apr 01, 2026 12:08pm
 
 ---
 
@@ -2405,8 +2405,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 30, 2026 11:46am
-- **Updated At (UTC):** Mar 30, 2026 11:46am
+- **Created At:** Mar 30, 2026 11:46am
+- **Updated At:** Mar 30, 2026 11:46am
 
 ---
 
@@ -2417,8 +2417,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 30, 2026 11:28am
-- **Updated At (UTC):** Mar 30, 2026 11:28am
+- **Created At:** Mar 30, 2026 11:28am
+- **Updated At:** Mar 30, 2026 11:28am
 
 ---
 
@@ -2429,8 +2429,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 30, 2026 09:42am
-- **Updated At (UTC):** Mar 30, 2026 09:42am
+- **Created At:** Mar 30, 2026 09:42am
+- **Updated At:** Mar 30, 2026 09:42am
 
 ---
 
@@ -2441,8 +2441,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 30, 2026 08:58am
-- **Updated At (UTC):** Mar 30, 2026 08:58am
+- **Created At:** Mar 30, 2026 08:58am
+- **Updated At:** Mar 30, 2026 08:58am
 
 ---
 
@@ -2458,8 +2458,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 29, 2026 12:48am
-- **Updated At (UTC):** Mar 29, 2026 12:48am
+- **Created At:** Mar 29, 2026 12:48am
+- **Updated At:** Mar 29, 2026 12:48am
 
 ---
 
@@ -2473,8 +2473,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 26, 2026 02:05am
-- **Updated At (UTC):** Mar 26, 2026 02:05am
+- **Created At:** Mar 26, 2026 02:05am
+- **Updated At:** Mar 26, 2026 02:05am
 
 ---
 
@@ -2490,8 +2490,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 19, 2026 05:24pm
-- **Updated At (UTC):** Mar 23, 2026 12:00am
+- **Created At:** Mar 19, 2026 05:24pm
+- **Updated At:** Mar 23, 2026 12:00am
 
 ---
 
@@ -2509,8 +2509,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 18, 2026 02:15am
-- **Updated At (UTC):** Mar 18, 2026 02:17am
+- **Created At:** Mar 18, 2026 02:15am
+- **Updated At:** Mar 18, 2026 02:17am
 
 ---
 
@@ -2526,8 +2526,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 14, 2026 10:15am
-- **Updated At (UTC):** Mar 17, 2026 01:40am
+- **Created At:** Mar 14, 2026 10:15am
+- **Updated At:** Mar 17, 2026 01:40am
 
 ---
 
@@ -2558,8 +2558,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 02, 2026 09:18pm
-- **Updated At (UTC):** May 02, 2026 09:18pm
+- **Created At:** May 02, 2026 09:18pm
+- **Updated At:** May 02, 2026 09:18pm
 
 ---
 
@@ -2577,8 +2577,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 30, 2026 01:30am
-- **Updated At (UTC):** Apr 30, 2026 01:30am
+- **Created At:** Apr 30, 2026 01:30am
+- **Updated At:** Apr 30, 2026 01:30am
 
 ---
 
@@ -2605,8 +2605,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 14, 2026 07:32am
-- **Updated At (UTC):** Jul 23, 2026 01:50am
+- **Created At:** Apr 14, 2026 07:32am
+- **Updated At:** Jul 23, 2026 01:50am
 
 ---
 
@@ -2640,8 +2640,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 15, 2026 08:36am
-- **Updated At (UTC):** Jul 19, 2026 11:26am
+- **Created At:** Mar 15, 2026 08:36am
+- **Updated At:** Jul 19, 2026 11:26am
 
 ---
 
@@ -2654,8 +2654,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** May 01, 2026 09:53pm
-- **Updated At (UTC):** May 01, 2026 09:53pm
+- **Created At:** May 01, 2026 09:53pm
+- **Updated At:** May 01, 2026 09:53pm
 
 ---
 
@@ -2676,8 +2676,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 05, 2026 12:35am
-- **Updated At (UTC):** May 05, 2026 12:35am
+- **Created At:** May 05, 2026 12:35am
+- **Updated At:** May 05, 2026 12:35am
 
 ---
 
@@ -2693,8 +2693,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 01, 2026 09:55pm
-- **Updated At (UTC):** May 01, 2026 09:56pm
+- **Created At:** May 01, 2026 09:55pm
+- **Updated At:** May 01, 2026 09:56pm
 
 ---
 
@@ -2722,8 +2722,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Feb 24, 2026 11:02pm
-- **Updated At (UTC):** Feb 24, 2026 11:04pm
+- **Created At:** Feb 24, 2026 11:02pm
+- **Updated At:** Feb 24, 2026 11:04pm
 
 ---
 
@@ -2737,8 +2737,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 14, 2026 11:22pm
-- **Updated At (UTC):** Apr 14, 2026 11:22pm
+- **Created At:** Apr 14, 2026 11:22pm
+- **Updated At:** Apr 14, 2026 11:22pm
 
 ---
 
@@ -2752,8 +2752,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 10, 2026 09:54am
-- **Updated At (UTC):** Apr 10, 2026 09:54am
+- **Created At:** Apr 10, 2026 09:54am
+- **Updated At:** Apr 10, 2026 09:54am
 
 ---
 
@@ -2775,8 +2775,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 09, 2026 11:40am
-- **Updated At (UTC):** Mar 09, 2026 12:47pm
+- **Created At:** Mar 09, 2026 11:40am
+- **Updated At:** Mar 09, 2026 12:47pm
 
 ---
 
@@ -2809,8 +2809,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 24, 2026 11:03pm
-- **Updated At (UTC):** Feb 24, 2026 11:03pm
+- **Created At:** Feb 24, 2026 11:03pm
+- **Updated At:** Feb 24, 2026 11:03pm
 
 ---
 
@@ -2849,8 +2849,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Jan 28, 2026 10:18am
-- **Updated At (UTC):** Feb 03, 2026 07:30am
+- **Created At:** Jan 28, 2026 10:18am
+- **Updated At:** Feb 03, 2026 07:30am
 
 ---
 
@@ -2869,8 +2869,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 19, 2026 10:43am
-- **Updated At (UTC):** May 19, 2026 10:43am
+- **Created At:** May 19, 2026 10:43am
+- **Updated At:** May 19, 2026 10:43am
 
 ---
 
@@ -2882,8 +2882,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 07:41am
-- **Updated At (UTC):** May 18, 2026 07:41am
+- **Created At:** May 18, 2026 07:41am
+- **Updated At:** May 18, 2026 07:41am
 
 ---
 
@@ -2892,8 +2892,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 07:34am
-- **Updated At (UTC):** May 18, 2026 07:34am
+- **Created At:** May 18, 2026 07:34am
+- **Updated At:** May 18, 2026 07:34am
 
 ---
 
@@ -2902,8 +2902,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 07:32am
-- **Updated At (UTC):** May 18, 2026 07:32am
+- **Created At:** May 18, 2026 07:32am
+- **Updated At:** May 18, 2026 07:32am
 
 ---
 
@@ -2930,8 +2930,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 16, 2026 04:48am
-- **Updated At (UTC):** Feb 16, 2026 04:48am
+- **Created At:** Feb 16, 2026 04:48am
+- **Updated At:** Feb 16, 2026 04:48am
 
 ---
 
@@ -2948,8 +2948,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 09, 2026 11:06am
-- **Updated At (UTC):** Feb 19, 2026 09:27am
+- **Created At:** Feb 09, 2026 11:06am
+- **Updated At:** Feb 19, 2026 09:27am
 
 ---
 
@@ -2963,8 +2963,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 25, 2026 03:09am
-- **Updated At (UTC):** Jan 25, 2026 03:09am
+- **Created At:** Jan 25, 2026 03:09am
+- **Updated At:** Jan 25, 2026 03:09am
 
 ---
 
@@ -2987,8 +2987,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 12, 2026 11:11am
-- **Updated At (UTC):** Jan 21, 2026 01:41pm
+- **Created At:** Jan 12, 2026 11:11am
+- **Updated At:** Jan 21, 2026 01:41pm
 
 ---
 
@@ -3014,8 +3014,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 08, 2025 07:26am
-- **Updated At (UTC):** Jan 21, 2026 01:41pm
+- **Created At:** Aug 08, 2025 07:26am
+- **Updated At:** Jan 21, 2026 01:41pm
 
 ---
 
@@ -3043,8 +3043,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Jan 28, 2026 09:54am
-- **Updated At (UTC):** Jan 28, 2026 09:54am
+- **Created At:** Jan 28, 2026 09:54am
+- **Updated At:** Jan 28, 2026 09:54am
 
 ---
 
@@ -3061,8 +3061,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 24, 2025 12:41am
-- **Updated At (UTC):** Jul 07, 2025 12:49am
+- **Created At:** Jun 24, 2025 12:41am
+- **Updated At:** Jul 07, 2025 12:49am
 
 ---
 
@@ -3075,8 +3075,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 20, 2026 11:59pm
-- **Updated At (UTC):** May 20, 2026 11:59pm
+- **Created At:** May 20, 2026 11:59pm
+- **Updated At:** May 20, 2026 11:59pm
 
 ---
 
@@ -3085,12 +3085,12 @@ proxyサイトなどを共有しましょう
 
 <p>これ使え</p><p>ブックマークレット</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5136827215/655d73136549fbf13768b2ce74700d6a/___.txt?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=clRjUW60%2B%2BAVPoMHx530xrl37rK094%2Fbp5JBBT38tHvKT5muLw4auO65Y%2BoNmz0m%2B26qSbdG7PE%2BvraIkH%2BEMvP93TM26HNx6vr5ywzPhtVBS4ZaWQazEeR8zVsIwEUkhndfCpbLNpdCwAH3Om9zZsvgBKAM8vy3Kft2gr1CAwLxMdKsK56Vg7jH0Z33nIGo4Gm61g2QoRSmEtIH0HfNRwhZSCk4BWI1ozME1ZsA0oazS%2FJixyU7%2Bn1W3yu6EKvGu7yUlrJdclwvKxO4vI6Nv5%2F0MuyTGuzybjRKlHkr1JNXNBzHfkS8DBXVhrfsF1plAqfRjvqya2Y7fJubFjFemQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5136827215%2F655d73136549fbf13768b2ce74700d6a%2F___.txt)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5136827215/655d73136549fbf13768b2ce74700d6a/___.txt?Expires=1785412592&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VLXWXtjJFSmtlj9E8TcCHfTWGGFOc2%2FtwmJeNpgiQukzdivgRWSGwgsFBTwVLAZnyyh4e3f%2FQimoOMHyc9VlUy8TT%2FbN%2BdVw%2FCiN0SAGvH0BfS48PyKCdvcEzTjoZrlq6Gsf4DqxkSW9mpEWkk7vusiZiw0gWLW66tKp4xGCZANWN8CE%2BDAIbBjRMUkN3kawEY7QLPobyOEsNEjjXEH0HCyewtoGKezfFaAyfCgAg5DkaFJIdZY10ZLBB3EkRzXICz7cDXSXxqcqgWyvjVzLsWPS2eMVYley1fxlkO7gtI%2BuJfH0La5GhuwaUl11thNhmAqoF4OFuWxIIzMqGl3THg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5136827215%2F655d73136549fbf13768b2ce74700d6a%2F___.txt)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 20, 2026 11:28am
-- **Updated At (UTC):** May 20, 2026 11:28am
+- **Created At:** May 20, 2026 11:28am
+- **Updated At:** May 20, 2026 11:28am
 
 ---
 
@@ -3101,8 +3101,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 20, 2026 04:47am
-- **Updated At (UTC):** May 20, 2026 04:47am
+- **Created At:** May 20, 2026 04:47am
+- **Updated At:** May 20, 2026 04:47am
 
 ---
 
@@ -3116,8 +3116,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 19, 2026 10:13am
-- **Updated At (UTC):** May 19, 2026 10:13am
+- **Created At:** May 19, 2026 10:13am
+- **Updated At:** May 19, 2026 10:13am
 
 ---
 
@@ -3129,8 +3129,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 10:37pm
-- **Updated At (UTC):** May 18, 2026 10:37pm
+- **Created At:** May 18, 2026 10:37pm
+- **Updated At:** May 18, 2026 10:37pm
 
 ---
 
@@ -3141,8 +3141,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 02:30am
-- **Updated At (UTC):** May 18, 2026 02:30am
+- **Created At:** May 18, 2026 02:30am
+- **Updated At:** May 18, 2026 02:30am
 
 ---
 
@@ -3151,8 +3151,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 02:24am
-- **Updated At (UTC):** May 18, 2026 02:24am
+- **Created At:** May 18, 2026 02:24am
+- **Updated At:** May 18, 2026 02:24am
 
 ---
 
@@ -3164,32 +3164,32 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 17, 2026 02:37am
-- **Updated At (UTC):** May 17, 2026 02:37am
+- **Created At:** May 17, 2026 02:37am
+- **Updated At:** May 17, 2026 02:37am
 
 ---
 
 ### 11. z１４の力
 **Author:** フォトナしたい人 (HP30)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5639307766/740b0b2d628e9cd0c0eb6ac07c913b56/Screenshot_2026_01_19_13_36_00.png?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=C57X2f7%2BSi3UlPLfEycK%2B%2FsiBxkv4EallksoUFQ9pFIfUEzcXBlYSYEMBzqEvK8SIK3Lems3nIzjvtgYCVre5J0o2n2FLPeTdp%2BMRuDDdvTS1NOMrc26TJ%2Bt9cMySrZJs5EglN%2FDrxoJkjgmhNtDVRRGMm5imPZaVY3wSH19iVKXoqtXLF4pXYYHjWuGtG0GuouZslgF88sZIknmnjcJknvbUjfO6OBtPt4yZxHlkwMcd%2BIs%2BYS0OLJGKm3RP0FcFsh6KkDkXZiGK%2B0rdvBz1ebZaAYiSKz0HPFMkMPxjvmhfnJrp0F%2BkJEwW5SIV%2Fk%2FFlwgqE0vUxZ4h5TYHh9IvQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5639307766%2F740b0b2d628e9cd0c0eb6ac07c913b56%2FScreenshot_2026_01_19_13_36_00.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5639307766/740b0b2d628e9cd0c0eb6ac07c913b56/Screenshot_2026_01_19_13_36_00.png?Expires=1785412592&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lg%2FG38nEbaM0lQSL1dUXuRC21tVuAZdTBXXYGFYdg%2B6YLJqGtdJhiO1NLLRVqklsnCS44uOGMvjvPeHn3uc32xUvn35D97MFr6mvH%2Fg956m2fa%2BtZybUunQerdWD5CXqRrvKaS10%2Bb0oP5ZspfTZPFkG15%2Fr6FewQj0m7tXz1aQmqoDgXedoSiLLkIJT9byVBozl6g2nMuUZF%2B1lvaSm9uUeTolpH1TxoE8jaJpMfJBcKNr%2FaxEBOyLZr7pgTGVtDloXbuSeS%2BYqBOkSs3U0Qyzq%2F%2F6%2FzX4LwOHa%2FQa1iKg6DEWE6ENw5PNCd9U4ZsCABiMD5DS2CAnjqPQ37zX%2Few%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5639307766%2F740b0b2d628e9cd0c0eb6ac07c913b56%2FScreenshot_2026_01_19_13_36_00.png)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 15, 2026 11:20pm
-- **Updated At (UTC):** May 15, 2026 11:20pm
+- **Created At:** May 15, 2026 11:20pm
+- **Updated At:** May 15, 2026 11:20pm
 
 ---
 
 ### 12. どうも神です
 **Author:** フォトナしたい人 (HP30)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5639307766/347a43e0a9e69df90883573ca3516a64/Screenshot_2026_01_19_13_36_00.png?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zuD%2BSwj69VcSGatuotm5Q8Wib51XnbzM1Q7Lh0D0AhZHQEou602HryzUVKW5RmY99Kp9wwrX0Yo5qr8ahz2FuJk2KCHAPDt%2BSOFPcBBIpfX2C8Pc5MfQMQSEot9hijxoD89L3Jb9a9AwicVO1q406zFHT0ic381idbgV4tspKpz95aX54KXWrcTP4gOgZ99CcurM7NYOxr2SYyqsTl1k3hD8L3dFY0h4mes%2FutoPIsIni2xlVt4wnkbvmHXyQKxhwkO%2Fx7TrxafqaRDggttFQAO3dgAkuBqSdw3JIv7Us7rVBHaPCOxKPH%2BV1MK2Atb9O51dIfJCQhfCPobDHZ%2B1HA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5639307766%2F347a43e0a9e69df90883573ca3516a64%2FScreenshot_2026_01_19_13_36_00.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5639307766/347a43e0a9e69df90883573ca3516a64/Screenshot_2026_01_19_13_36_00.png?Expires=1785412592&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Gtj6PlS%2Bh7EVI%2BgfgGXEtiUBnIsl3JDF3yW72g3CLYnToKyAbJm%2F1%2Fl5jvm3UbKUNjPe9INywYU988e5NfS%2F2%2FEJhV3%2BeK1X034BL%2BJgM%2FaopuaOUbjp9jLpPrcFw6dXruqMKqXv0Im4GAk3bU%2FMXRVl%2FtwqEmw6XP3dxIsMC0feucYflGkxI1ItJPmymzbqpcDC6sFkENopnawjnd0MZu9i7iBZH9zSj34%2BgNv3cMinw4voFITGwxTFnPAcn8Cm2IVrPdmHmN8wfYBTwE734vkuDwWrGjOi%2B8TNLRmAdCf9yOcwcwfKrna23eBw9vJqdw6xaGZHP1Rptl4Tc3qjIw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5639307766%2F347a43e0a9e69df90883573ca3516a64%2FScreenshot_2026_01_19_13_36_00.png)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 15, 2026 11:19pm
-- **Updated At (UTC):** May 15, 2026 11:19pm
+- **Created At:** May 15, 2026 11:19pm
+- **Updated At:** May 15, 2026 11:19pm
 
 ---
 
@@ -3208,8 +3208,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Purple
-- **Created At (UTC):** May 15, 2026 10:33am
-- **Updated At (UTC):** May 15, 2026 10:33am
+- **Created At:** May 15, 2026 10:33am
+- **Updated At:** May 15, 2026 10:33am
 
 ---
 
@@ -3220,8 +3220,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 13, 2026 11:26pm
-- **Updated At (UTC):** May 13, 2026 11:26pm
+- **Created At:** May 13, 2026 11:26pm
+- **Updated At:** May 13, 2026 11:26pm
 
 ---
 
@@ -3230,8 +3230,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 09, 2026 02:37am
-- **Updated At (UTC):** May 09, 2026 02:37am
+- **Created At:** May 09, 2026 02:37am
+- **Updated At:** May 09, 2026 02:37am
 
 ---
 
@@ -3240,12 +3240,12 @@ proxyサイトなどを共有しましょう
 
 <p><a rel="noopener noreferrer nofollow" href="https://top-medical-schools.org/">https://top-medical-schools.org/</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614816367/ac25f3addb162f81c6566a8978c22cc2/IMG_0173.png?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Z8cmdYGYMWIHAWIvN8Q1FO2lAwsQyVksyZxiQT76x4J%2F0XKhihKDJ4tc9%2FB%2BAz5D5RGcTW%2BB%2FMF1DP2bmA4cXZZm2%2FkAN%2BB7ZLAIXeKHvavmNBgH2NIznb9xy9LVHNRQeWtuEvyHGLvH113aF0aZh6Rki%2BnaYiss9ViWMJphA71VdaLpJIDwI6wYUwXXyqR059vOd4xngjkLnU4PMuLQOvrZNJjfv7QOYGIsQj2z5K4fL89SzDKKuZf7tomD7KusRRTxku%2F4witi2qVDXVETdQuP979z5%2FuS0%2BS74UL76bdvoD96YrgcHXbOmuMl9YRDd7OA4U0FbHD9CTvanmjOQw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614816367%2Fac25f3addb162f81c6566a8978c22cc2%2FIMG_0173.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614816367/ac25f3addb162f81c6566a8978c22cc2/IMG_0173.png?Expires=1785412592&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=HN%2FXSrFnz41Pab20v8AUs%2B3b%2FXj6D%2BjHA3SH23J38pTB0XmkDaxPj5s2e9uV6xTP65T0hpPWFqSCdNtC5eP%2FqSceQ5OsQ%2FNO7gBNrRK7rEn83%2FjU3cAGon3fI9aTj7Y1GSRkO5FR2G60PUrwLGYjhiefpNf93ooXQ%2BKTnNx4OCAT82aIp5K1i%2FB3G2MakEoYWFEmyrcJDItbKHGPTZBWu8WqSa%2FsS9OmYXH3VMJavlgNHxIhA%2Ftfr5JcA%2Bjx%2FEZkNOLd3nNinkB8Dd7dDXDnWEDbYueR0drgLgXJ2%2BX8d7%2F%2BmY98RclTmXGDUWeC24PuN9klgC5a8K808Z1O09ZnoQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614816367%2Fac25f3addb162f81c6566a8978c22cc2%2FIMG_0173.png)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 10:50am
-- **Updated At (UTC):** May 08, 2026 10:50am
+- **Created At:** May 08, 2026 10:50am
+- **Updated At:** May 08, 2026 10:50am
 
 ---
 
@@ -3254,12 +3254,12 @@ proxyサイトなどを共有しましょう
 
 <p><a rel="noopener noreferrer nofollow" href="https://ryanjetplane1.codeberg.page/Openbeta/@subway-surfers/">https://ryanjetplane1.codeberg.page/Openbeta/@subway-surfers/</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/461c3ba3724d1f583cdcd518f4d41030/IMG_0167.png?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tEzRTvBqvfcm%2FxSZ%2Bb73vtTcznxCDZEN5AO4kCvxJ%2BUwPkjsOzSZ2kLiOoTXUoB37zsQfo6HIGvvSlRANUEyG9LFg%2BpE9hVHg2tVu%2BO%2BILFh%2FvoMywodT2tfQwRGKoo7kkVQarfzJBZfqwLhje3TEC77JdeLxlzExoIcM407%2Frn0wYV2r3i%2BUzVNAx68cpdxC%2BNkibzQgd%2FDdx1TgGjg0oTjrPBuEu3gCgyapRkkC8aFACCQNm6KzsgwXLuTp23fuIa199FOMW12LVuW%2FUvPwvchCt61mmIlJTaUkfnIHGhJDxkzrgkUdEefIic0lOt8cUSrGcgJCaWmRoZ4LDUhxA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F461c3ba3724d1f583cdcd518f4d41030%2FIMG_0167.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/461c3ba3724d1f583cdcd518f4d41030/IMG_0167.png?Expires=1785412592&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=612fk7qhiGplVmVpuwzYCSZKreZmzEkzLL1ZGcLYFSwVnpzTrK6JDesZArzrhPpXQph1MSWcD2OGUiwOcOjavvyp0NfFbJXa2uKjiFndqEO9RQ1xAS1A1e20xwNL3ycD6LiiKAxF21HIx5gyVzIAjSvaZulGeSxgNMYQ4GfmDOfd37XPbThrJF8kg9pRsRsR3D39u7K1gBcHZpdWXAIGyWy0Z0KAMI1vsV9b54tARvYw4xZOhpY5k81skvcrgm8TMHnfryQgqiLb1SqHS%2FMUjwLn5HuHHX4KI1DeyxmlDgarP%2FgY048y%2BUNVAFeECVnH%2B0lH%2BNQ2Ga9Oai%2Fw4ElCog%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F461c3ba3724d1f583cdcd518f4d41030%2FIMG_0167.png)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 08:00am
-- **Updated At (UTC):** May 08, 2026 08:00am
+- **Created At:** May 08, 2026 08:00am
+- **Updated At:** May 08, 2026 08:00am
 
 ---
 
@@ -3268,8 +3268,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** May 07, 2026 09:40pm
-- **Updated At (UTC):** May 08, 2026 10:03pm
+- **Created At:** May 07, 2026 09:40pm
+- **Updated At:** May 08, 2026 10:03pm
 
 ---
 
@@ -3280,8 +3280,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 07, 2026 10:41am
-- **Updated At (UTC):** May 07, 2026 10:41am
+- **Created At:** May 07, 2026 10:41am
+- **Updated At:** May 07, 2026 10:41am
 
 ---
 
@@ -3290,12 +3290,12 @@ proxyサイトなどを共有しましょう
 
 <p>ない</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5607623557/edf58527337dec82d4c3d132ca78b907/Screenshot_2026_03_06_14_55_38.png?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=b%2BWTSIH0bq9aOspx%2Bf94PdUun2sPApP7i%2BxYEnQQghtRDJoVTExt%2FZkWseisgDSYrRkEZUh46gO0KwVTLvhnBr4KLx2MBdqMsSugstJ%2F%2FRV6kSbD6WFlc9rpBNW5UqkyT0ykCaG5kP3%2Be%2BC%2FooiPoSmzbYI1oTTTTduMKuveF0plljU7Py7gOBDbKWew92BTTNISeOL4aDyOrVitQjL%2FuRnYq6%2BKttiB3brPrHKtq9tRbpxLUnhPjfYOFvRiY5D0QPBRD%2F5ij7fwtq3bkVHb8p6MvIowrz97WG8%2F2vZNUorSs6F0iE4wDuyqzYmDIAZj%2F2E1rBgk%2FN3%2BoeNq%2FUKM7w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5607623557%2Fedf58527337dec82d4c3d132ca78b907%2FScreenshot_2026_03_06_14_55_38.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5607623557/edf58527337dec82d4c3d132ca78b907/Screenshot_2026_03_06_14_55_38.png?Expires=1785412592&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qvhDnLH%2FuK46nGQr5QVcWEz3uTZHtNEt0UIpwEVXIz2yYJ5b5imxaD6zdhcSbH%2BeQEuw%2FN5HkpAslUhKa4Cwub%2BvfHm0sq6C6O6%2BRu7fobYi5SsFn42Loe4ls690DDEU76%2Fx01BUtfeLVwcas2YwkIN1LIikYZyjf6GwZhP1GQEceTTcinudRIDHJrWCv029qr8p%2BIJCz2WTMoOvpqQ8eVJHGZIoqDLQjk4D1myX77B00vI1gtUp1FqbYqBvytIPyPyz3iOKXei%2BEtvfTmhd9icnYoTIG2fGb4FTMr2u1LGcSejddxx4qOwVwssnBvrpO0%2BkNEsh9i%2FRsttvov4Sfg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5607623557%2Fedf58527337dec82d4c3d132ca78b907%2FScreenshot_2026_03_06_14_55_38.png)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 07, 2026 08:48am
-- **Updated At (UTC):** May 07, 2026 08:48am
+- **Created At:** May 07, 2026 08:48am
+- **Updated At:** May 07, 2026 08:48am
 
 ---
 
@@ -3308,8 +3308,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 07, 2026 07:21am
-- **Updated At (UTC):** May 07, 2026 07:21am
+- **Created At:** May 07, 2026 07:21am
+- **Updated At:** May 07, 2026 07:21am
 
 ---
 
@@ -3323,8 +3323,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 06, 2026 01:29pm
-- **Updated At (UTC):** May 06, 2026 01:29pm
+- **Created At:** May 06, 2026 01:29pm
+- **Updated At:** May 06, 2026 01:29pm
 
 ---
 
@@ -3333,8 +3333,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 06, 2026 01:06pm
-- **Updated At (UTC):** May 06, 2026 01:06pm
+- **Created At:** May 06, 2026 01:06pm
+- **Updated At:** May 06, 2026 01:06pm
 
 ---
 
@@ -3343,8 +3343,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 05, 2026 09:47am
-- **Updated At (UTC):** May 05, 2026 09:47am
+- **Created At:** May 05, 2026 09:47am
+- **Updated At:** May 05, 2026 09:47am
 
 ---
 
@@ -3355,8 +3355,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 03, 2026 10:04am
-- **Updated At (UTC):** May 03, 2026 10:04am
+- **Created At:** May 03, 2026 10:04am
+- **Updated At:** May 03, 2026 10:04am
 
 ---
 
@@ -3367,8 +3367,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 30, 2026 12:06am
-- **Updated At (UTC):** Apr 30, 2026 12:06am
+- **Created At:** Apr 30, 2026 12:06am
+- **Updated At:** Apr 30, 2026 12:06am
 
 ---
 
@@ -3377,8 +3377,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 29, 2026 05:52am
-- **Updated At (UTC):** Apr 29, 2026 05:52am
+- **Created At:** Apr 29, 2026 05:52am
+- **Updated At:** Apr 29, 2026 05:52am
 
 ---
 
@@ -3389,8 +3389,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 24, 2026 11:51am
-- **Updated At (UTC):** Apr 24, 2026 11:51am
+- **Created At:** Apr 24, 2026 11:51am
+- **Updated At:** Apr 24, 2026 11:51am
 
 ---
 
@@ -3399,8 +3399,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 24, 2026 09:21am
-- **Updated At (UTC):** Apr 24, 2026 09:21am
+- **Created At:** Apr 24, 2026 09:21am
+- **Updated At:** Apr 24, 2026 09:21am
 
 ---
 
@@ -3416,8 +3416,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 23, 2026 05:04pm
-- **Updated At (UTC):** Apr 23, 2026 05:04pm
+- **Created At:** Apr 23, 2026 05:04pm
+- **Updated At:** Apr 23, 2026 05:04pm
 
 ---
 
@@ -3430,8 +3430,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 16, 2026 04:00pm
-- **Updated At (UTC):** Apr 16, 2026 04:00pm
+- **Created At:** Apr 16, 2026 04:00pm
+- **Updated At:** Apr 16, 2026 04:00pm
 
 ---
 
@@ -3444,8 +3444,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 15, 2026 03:47pm
-- **Updated At (UTC):** Apr 15, 2026 03:47pm
+- **Created At:** Apr 15, 2026 03:47pm
+- **Updated At:** Apr 15, 2026 03:47pm
 
 ---
 
@@ -3458,8 +3458,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 15, 2026 03:43pm
-- **Updated At (UTC):** Apr 15, 2026 03:43pm
+- **Created At:** Apr 15, 2026 03:43pm
+- **Updated At:** Apr 15, 2026 03:43pm
 
 ---
 
@@ -3472,8 +3472,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 15, 2026 03:33pm
-- **Updated At (UTC):** Apr 15, 2026 03:33pm
+- **Created At:** Apr 15, 2026 03:33pm
+- **Updated At:** Apr 15, 2026 03:33pm
 
 ---
 
@@ -3490,20 +3490,20 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 14, 2026 07:52am
-- **Updated At (UTC):** Apr 14, 2026 07:52am
+- **Created At:** Apr 14, 2026 07:52am
+- **Updated At:** Apr 14, 2026 07:52am
 
 ---
 
 ### 36. Post 36
 **Author:** ゆうたろう
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5466021644/57ef6aaa818970aaed34605a30a9c0e6/OVERALL_WINNER_Mark_Fitzpatrick_Terry_The_Turtle_1174x1600.jpg?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uCZQK0Bdf%2Bs%2BSc5G9b6zeezTA3KgmnyxiyR7e2ia1IUIhsN2IE0UXs7XF1RRnCmnNhNxDxX4yJsC6L3RJ0EwtF7X%2BBj8n%2BHOlvE7%2BcGwfoIF023n%2FB20TYn1p56cMIg5v8EUFmFQM6s2o9WJD2APk8mdALpuLoEFcYme%2BeIc4VkQyLxzWo0uo9cTFk6KFH5UvHiCRZQqILWJDUfnxYjoPdcTakDac%2BrtP8xNvNUx94JcccJ3UsRwDZgOCk8HqmhTe36iB1qoBeTzl2G1woq3RJZ0%2FITGOfVm0hPBybs8dXdmDWwuBBQcWTNdh8YoXVuCTUJOwYiuOCGCOPi9uMF9MA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5466021644%2F57ef6aaa818970aaed34605a30a9c0e6%2FOVERALL_WINNER_Mark_Fitzpatrick_Terry_The_Turtle_1174x1600.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5466021644/57ef6aaa818970aaed34605a30a9c0e6/OVERALL_WINNER_Mark_Fitzpatrick_Terry_The_Turtle_1174x1600.jpg?Expires=1785412592&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mkI2GkAvTjLoHFapCVJvKC1GxTU1lHrv9kKSaRYi3vGUkcJr2F7eWJp%2BVvhn2r7zUbAedvTC9UYCppRGqV2hocVL596J7EIKJH9aLEyzeYW1eJC3ze1%2B%2B6wkPwaVFxHnuLTXo32D4yJh1Q7vNqVIdhnFng8%2FmYxfsTD0ywZhXTygdt6zbDo68eeALT%2FpeBvo6Z5lXFHwuk27uZJMhMXHJPg9kCNqICuRcnV5XZP%2FMcZvjFpw2r%2FxekmCciCLj99zD4Us3j%2FDaLuKB93wznWHeLAp7PEpqQo3IavwXl6hBQJeLUpnWEaFU%2B%2B7SijHTPoYwv4mdyBaZwsbWChcnouy%2Fg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5466021644%2F57ef6aaa818970aaed34605a30a9c0e6%2FOVERALL_WINNER_Mark_Fitzpatrick_Terry_The_Turtle_1174x1600.jpg)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 13, 2026 07:02am
-- **Updated At (UTC):** Apr 22, 2026 09:15pm
+- **Created At:** Apr 13, 2026 07:02am
+- **Updated At:** Apr 22, 2026 09:15pm
 
 ---
 
@@ -3517,8 +3517,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 12, 2026 04:54am
-- **Updated At (UTC):** Apr 12, 2026 04:54am
+- **Created At:** Apr 12, 2026 04:54am
+- **Updated At:** Apr 12, 2026 04:54am
 
 ---
 
@@ -3543,8 +3543,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 05, 2026 09:42am
-- **Updated At (UTC):** Apr 05, 2026 10:08am
+- **Created At:** Apr 05, 2026 09:42am
+- **Updated At:** Apr 05, 2026 10:08am
 
 ---
 
@@ -3556,8 +3556,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 26, 2026 05:35am
-- **Updated At (UTC):** Mar 26, 2026 05:35am
+- **Created At:** Mar 26, 2026 05:35am
+- **Updated At:** Mar 26, 2026 05:35am
 
 ---
 
@@ -3569,8 +3569,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 25, 2026 12:14pm
-- **Updated At (UTC):** Mar 25, 2026 12:14pm
+- **Created At:** Mar 25, 2026 12:14pm
+- **Updated At:** Mar 25, 2026 12:14pm
 
 ---
 
@@ -3585,8 +3585,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 24, 2026 12:50pm
-- **Updated At (UTC):** Mar 24, 2026 12:50pm
+- **Created At:** Mar 24, 2026 12:50pm
+- **Updated At:** Mar 24, 2026 12:50pm
 
 ---
 
@@ -3595,8 +3595,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 19, 2026 12:09am
-- **Updated At (UTC):** Mar 19, 2026 12:09am
+- **Created At:** Mar 19, 2026 12:09am
+- **Updated At:** Mar 19, 2026 12:09am
 
 ---
 
@@ -3607,8 +3607,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 16, 2026 01:55am
-- **Updated At (UTC):** Mar 16, 2026 01:55am
+- **Created At:** Mar 16, 2026 01:55am
+- **Updated At:** Mar 16, 2026 01:55am
 
 ---
 
@@ -3619,8 +3619,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 12, 2026 04:33am
-- **Updated At (UTC):** Mar 12, 2026 04:33am
+- **Created At:** Mar 12, 2026 04:33am
+- **Updated At:** Mar 12, 2026 04:33am
 
 ---
 
@@ -3638,15 +3638,15 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 10, 2026 07:47am
-- **Updated At (UTC):** Mar 10, 2026 07:51am
+- **Created At:** Mar 10, 2026 07:47am
+- **Updated At:** Mar 10, 2026 07:51am
 
 ---
 
 ### 46. わかめ使えなくなったんだけどなんでか分かる人いる？
 **Author:** Brilliant Kiwi
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5225598716/02e66f252a2c39f89ec6606d4b4dbc28/Screenshot_2026_02_25_15_22_25.png?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NpDfBbL%2FDD8peCRNW1paIfwjy6KKRpt93ALrk57BSBNpIz2jDMlbIOaKCYsXIMd%2F9HIj8n%2BLkK%2B3cjtQhqx9Pqexfz%2FvP%2F2FhetiU0tIKYMKaqfCshIvfLypwvZ8RfoPKB5YuUfpAgh9dkhWkB6tD8bddht6FCGy7I%2FL%2BIcrUJcTURvF9LI1vtjKm6hG%2Fc9Mg9P%2BIr14JC16DbGwZAAs6X1nLVcuo%2FIglU8Bojz5iZ39oZh0UwPFO9%2BRwztwib3%2BqU4dpaXajog5Prinb0jgtg%2FDfj1cCBJ60Jn3IFsdwpV9Jl9Yj72F1BD%2FgPOuOzYiAJSv05IVKBW2XNklBapuRw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5225598716%2F02e66f252a2c39f89ec6606d4b4dbc28%2FScreenshot_2026_02_25_15_22_25.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5225598716/02e66f252a2c39f89ec6606d4b4dbc28/Screenshot_2026_02_25_15_22_25.png?Expires=1785412592&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xawzSpGA4seeq56jbmf7MwgIhJUZ%2BE%2B2aVmkHIh0q%2Br%2FcN6tDgeZ12M219rf1%2F2DmjnBxa%2BVgDyIiszQHk0vS8uEZN4JokVyjK8rNEUPtI0jdfqogg4MI7iLfoFYZMLAts896Ya%2FQ%2FHV%2Fl0GLngkGE4r4ScFG3SKYDuvyd8%2FhmmEFTOOEftDr9a6Jp2JbQ%2BvvYdw%2FY4DeDBx1vfVYFSRLHqJyF2iiP11qwrc6VIBuPWrW9OFyBbXALQqk3M2H1aoZ%2ByLJ52UDAZOoh%2BxKuIo7aUyFHZeKhH64%2BiIXgWie5lXzoIzT%2BeRTBCUqGrwEAzcVoUJN8CU7K5uMbqTNcYmfg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5225598716%2F02e66f252a2c39f89ec6606d4b4dbc28%2FScreenshot_2026_02_25_15_22_25.png)
 
 #### Comments (3)
 - **ばあ** (Feb 26, 2026 09:06am): 俺も同じ 
@@ -3658,8 +3658,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 25, 2026 06:22am
-- **Updated At (UTC):** Feb 25, 2026 06:22am
+- **Created At:** Feb 25, 2026 06:22am
+- **Updated At:** Feb 25, 2026 06:22am
 
 ---
 
@@ -3675,8 +3675,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 07, 2026 11:46am
-- **Updated At (UTC):** Feb 09, 2026 11:07am
+- **Created At:** Feb 07, 2026 11:46am
+- **Updated At:** Feb 09, 2026 11:07am
 
 ---
 
@@ -3695,8 +3695,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 05, 2025 12:18am
-- **Updated At (UTC):** Jun 15, 2025 09:38am
+- **Created At:** Jun 05, 2025 12:18am
+- **Updated At:** Jun 15, 2025 09:38am
 
 ---
 
@@ -3709,8 +3709,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Jan 28, 2026 09:59am
-- **Updated At (UTC):** Apr 03, 2026 04:05am
+- **Created At:** Jan 28, 2026 09:59am
+- **Updated At:** Apr 03, 2026 04:05am
 
 ---
 
@@ -3721,8 +3721,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Apr 30, 2026 06:19am
-- **Updated At (UTC):** Apr 30, 2026 06:19am
+- **Created At:** Apr 30, 2026 06:19am
+- **Updated At:** Apr 30, 2026 06:19am
 
 ---
 
@@ -3749,8 +3749,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 04, 2025 10:56am
-- **Updated At (UTC):** Jun 04, 2025 10:56am
+- **Created At:** Jun 04, 2025 10:56am
+- **Updated At:** Jun 04, 2025 10:56am
 
 ---
 
@@ -3774,8 +3774,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Mar 09, 2026 12:46pm
-- **Updated At (UTC):** Mar 09, 2026 12:47pm
+- **Created At:** Mar 09, 2026 12:46pm
+- **Updated At:** Mar 09, 2026 12:47pm
 
 ---
 
@@ -3791,8 +3791,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 12:47pm
-- **Updated At (UTC):** May 16, 2026 12:47pm
+- **Created At:** May 16, 2026 12:47pm
+- **Updated At:** May 16, 2026 12:47pm
 
 ---
 
@@ -3801,8 +3801,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 15, 2026 02:02am
-- **Updated At (UTC):** May 15, 2026 02:02am
+- **Created At:** May 15, 2026 02:02am
+- **Updated At:** May 15, 2026 02:02am
 
 ---
 
@@ -3819,8 +3819,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 30, 2026 07:16am
-- **Updated At (UTC):** May 01, 2026 09:49pm
+- **Created At:** Apr 30, 2026 07:16am
+- **Updated At:** May 01, 2026 09:49pm
 
 ---
 
@@ -3839,8 +3839,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 25, 2026 12:12pm
-- **Updated At (UTC):** Apr 25, 2026 12:12pm
+- **Created At:** Apr 25, 2026 12:12pm
+- **Updated At:** Apr 25, 2026 12:12pm
 
 ---
 
@@ -3855,8 +3855,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 19, 2026 03:59am
-- **Updated At (UTC):** Apr 19, 2026 03:59am
+- **Created At:** Apr 19, 2026 03:59am
+- **Updated At:** Apr 19, 2026 03:59am
 
 ---
 
@@ -3870,8 +3870,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 29, 2026 07:30am
-- **Updated At (UTC):** Mar 29, 2026 07:30am
+- **Created At:** Mar 29, 2026 07:30am
+- **Updated At:** Mar 29, 2026 07:30am
 
 ---
 
@@ -3899,8 +3899,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 09, 2026 12:51pm
-- **Updated At (UTC):** Mar 09, 2026 12:51pm
+- **Created At:** Mar 09, 2026 12:51pm
+- **Updated At:** Mar 09, 2026 12:51pm
 
 ---
 
@@ -3914,8 +3914,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 19, 2026 11:22am
-- **Updated At (UTC):** Apr 03, 2026 03:34am
+- **Created At:** Feb 19, 2026 11:22am
+- **Updated At:** Apr 03, 2026 03:34am
 
 ---
 
@@ -3931,8 +3931,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 23, 2025 08:47am
-- **Updated At (UTC):** Apr 03, 2026 01:49am
+- **Created At:** Dec 23, 2025 08:47am
+- **Updated At:** Apr 03, 2026 01:49am
 
 ---
 
@@ -3955,8 +3955,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Mar 09, 2026 12:37pm
-- **Updated At (UTC):** Mar 09, 2026 12:49pm
+- **Created At:** Mar 09, 2026 12:37pm
+- **Updated At:** Mar 09, 2026 12:49pm
 
 ---
 
@@ -3983,8 +3983,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 11, 2026 09:14am
-- **Updated At (UTC):** Apr 11, 2026 09:14am
+- **Created At:** Apr 11, 2026 09:14am
+- **Updated At:** Apr 11, 2026 09:14am
 
 ---
 
@@ -4004,8 +4004,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Mar 09, 2026 12:35pm
-- **Updated At (UTC):** Mar 09, 2026 12:35pm
+- **Created At:** Mar 09, 2026 12:35pm
+- **Updated At:** Mar 09, 2026 12:35pm
 
 ---
 
@@ -4023,8 +4023,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 11, 2026 09:05am
-- **Updated At (UTC):** Apr 11, 2026 09:05am
+- **Created At:** Apr 11, 2026 09:05am
+- **Updated At:** Apr 11, 2026 09:05am
 
 ---
 
@@ -4037,8 +4037,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** May 20, 2026 09:39pm
-- **Updated At (UTC):** May 20, 2026 09:39pm
+- **Created At:** May 20, 2026 09:39pm
+- **Updated At:** May 20, 2026 09:39pm
 
 ---
 
@@ -4071,8 +4071,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 04, 2025 10:58am
-- **Updated At (UTC):** Jan 30, 2026 10:39pm
+- **Created At:** Jun 04, 2025 10:58am
+- **Updated At:** Jan 30, 2026 10:39pm
 
 ---
 
@@ -4095,8 +4095,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Jan 28, 2026 10:21am
-- **Updated At (UTC):** Jan 28, 2026 10:21am
+- **Created At:** Jan 28, 2026 10:21am
+- **Updated At:** Jan 28, 2026 10:21am
 
 ---
 
@@ -4118,8 +4118,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 19, 2025 03:15am
-- **Updated At (UTC):** Jun 19, 2025 03:15am
+- **Created At:** Jun 19, 2025 03:15am
+- **Updated At:** Jun 19, 2025 03:15am
 
 ---
 
@@ -4135,8 +4135,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 17, 2026 08:38am
-- **Updated At (UTC):** May 17, 2026 08:38am
+- **Created At:** May 17, 2026 08:38am
+- **Updated At:** May 17, 2026 08:38am
 
 ---
 
@@ -4149,8 +4149,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 09:03am
-- **Updated At (UTC):** May 16, 2026 09:03am
+- **Created At:** May 16, 2026 09:03am
+- **Updated At:** May 16, 2026 09:03am
 
 ---
 
@@ -4159,8 +4159,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 11, 2026 03:01am
-- **Updated At (UTC):** May 11, 2026 03:01am
+- **Created At:** May 11, 2026 03:01am
+- **Updated At:** May 11, 2026 03:01am
 
 ---
 
@@ -4174,8 +4174,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 14, 2026 07:55am
-- **Updated At (UTC):** Apr 14, 2026 07:55am
+- **Created At:** Apr 14, 2026 07:55am
+- **Updated At:** Apr 14, 2026 07:55am
 
 ---
 
@@ -4191,8 +4191,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 01, 2026 07:19am
-- **Updated At (UTC):** Apr 01, 2026 07:19am
+- **Created At:** Apr 01, 2026 07:19am
+- **Updated At:** Apr 01, 2026 07:19am
 
 ---
 
@@ -4203,8 +4203,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 25, 2026 06:38am
-- **Updated At (UTC):** Mar 15, 2026 08:38am
+- **Created At:** Feb 25, 2026 06:38am
+- **Updated At:** Mar 15, 2026 08:38am
 
 ---
 
@@ -4220,8 +4220,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 25, 2026 01:13am
-- **Updated At (UTC):** Feb 25, 2026 01:13am
+- **Created At:** Feb 25, 2026 01:13am
+- **Updated At:** Feb 25, 2026 01:13am
 
 ---
 
@@ -4236,8 +4236,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 17, 2026 10:32pm
-- **Updated At (UTC):** Feb 17, 2026 10:32pm
+- **Created At:** Feb 17, 2026 10:32pm
+- **Updated At:** Feb 17, 2026 10:32pm
 
 ---
 
@@ -4252,8 +4252,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 07, 2026 02:11am
-- **Updated At (UTC):** Feb 07, 2026 02:11am
+- **Created At:** Feb 07, 2026 02:11am
+- **Updated At:** Feb 07, 2026 02:11am
 
 ---
 
@@ -4272,8 +4272,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 29, 2026 10:30am
-- **Updated At (UTC):** Jan 29, 2026 11:41am
+- **Created At:** Jan 29, 2026 10:30am
+- **Updated At:** Jan 29, 2026 11:41am
 
 ---
 
@@ -4287,8 +4287,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 24, 2025 07:08am
-- **Updated At (UTC):** Jan 21, 2026 01:37pm
+- **Created At:** Dec 24, 2025 07:08am
+- **Updated At:** Jan 21, 2026 01:37pm
 
 ---
 
@@ -4305,8 +4305,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 04, 2025 10:58am
-- **Updated At (UTC):** Jan 21, 2026 01:37pm
+- **Created At:** Jun 04, 2025 10:58am
+- **Updated At:** Jan 21, 2026 01:37pm
 
 ---
 
@@ -4325,8 +4325,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 25, 2025 05:52am
-- **Updated At (UTC):** Aug 25, 2025 05:52am
+- **Created At:** Aug 25, 2025 05:52am
+- **Updated At:** Aug 25, 2025 05:52am
 
 ---
 
@@ -4348,8 +4348,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 12, 2025 03:29am
-- **Updated At (UTC):** Feb 19, 2026 09:27am
+- **Created At:** Dec 12, 2025 03:29am
+- **Updated At:** Feb 19, 2026 09:27am
 
 ---
 
@@ -4413,8 +4413,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Blue
-- **Created At (UTC):** Jun 04, 2025 10:46am
-- **Updated At (UTC):** Mar 09, 2026 12:49pm
+- **Created At:** Jun 04, 2025 10:46am
+- **Updated At:** Mar 09, 2026 12:49pm
 
 ---
 
@@ -4451,8 +4451,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 06, 2025 02:12am
-- **Updated At (UTC):** Jun 23, 2025 02:21am
+- **Created At:** Jun 06, 2025 02:12am
+- **Updated At:** Jun 23, 2025 02:21am
 
 ---
 
@@ -4461,7 +4461,7 @@ proxyサイトなどを共有しましょう
 ### 1. ライラック
 **Author:** Hina52 (gs221373)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5648476380/d35539457f1993d27c946e23f63c27e4/_____.mp3?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=G12AFCXHhb5MWB%2F0t7YS7wy2i2r2Hq1juQYwwIvQtuvjwcwYiD%2BAgNrPew5bn7OPIEIIM071egIBLWFZ0addhhAtq91IqIaUPft2bUPHClURoFQGC6%2BPglXgpcmXVUwPD0WuHdjfUvyOiTx%2FUgNe%2BKnJT0Yfatmjm2BBuVnDSjbtm4hO6X7ovufXulTIO9pOPEp7geDmnDQVMK26l5IZIK3skN0aqCMDlUIWDZfklEh%2Fbg3OKgdhXiFO8Nf%2FPUocFTlyNsP7yOPAZAfzlVz4faokiT6qZCX36e5bxM4%2FFfxuGB0hBMTn1j%2Bus4nhJg%2FzkIEf5rmICjkdpGUxUBOKCw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5648476380%2Fd35539457f1993d27c946e23f63c27e4%2F_____.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5648476380/d35539457f1993d27c946e23f63c27e4/_____.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=21GqNoLrrIfeouNSTsrhF2VBzG80Z2QAy8cRZ5vE3knoZxTBTglx0wNKKjJr8y1gVQffEZxQ%2FUZbRnXRYuVugPemKB26%2Fc9U36MPE%2FX9TcPRSKLBydIQUK8TAK7FQJEicyvf5Egl8VExZo4zNRVTLYdwalvuMFHNYfyyUOJ4IMflIkBm8pNcDLLiszLZNVpUOdNB3EBjIaX0%2FOEVVTtzR8ixcxwu%2F1%2B3WyP%2FM4IewiqxrbqD3TKHsEV9%2FXjZw%2FcFF92HeLQnAUWZHQGqIH%2Bo4%2FJoFJAB%2Frd%2FlUFdeQmUH%2BL0Uphmhbz5F37WvMJMvqBbjVyrjBNcizYW0HjIjAoBtw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5648476380%2Fd35539457f1993d27c946e23f63c27e4%2F_____.mp3)
 
 #### Comments (16)
 - **ㅤ@krtk🔰** (May 21, 2026 07:37am): ミセスだ
@@ -4486,15 +4486,15 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 21, 2026 02:31am
-- **Updated At (UTC):** May 21, 2026 07:29am
+- **Created At:** May 21, 2026 02:31am
+- **Updated At:** May 21, 2026 07:29am
 
 ---
 
 ### 2. 個人的に流行りだと思うやつ
 **Author:** yuto k
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5671104851/a98abe942855492809e687dc6455b3ed/_______100_______.mp3?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bHhwEV52hvHzS1rKIFpQ6GsBNSh9VnPnbir9E7PbEyd%2FrGOUv6X27n%2B%2Bu15EAfZRBNte6hH7bHTwRcrNxbyZ4xGp5T3kPesyZ3KZkt2eIg%2FMlefv7gP9fQvzypAsMulSBOThWv1yMuNHHSsV223pn52gSEjnWQlT9arkKR1LmejFGRVHQohh57b7p81rSv5KTYNvvthhFCYikBNzAiivSw6MCB6UXKKL5G2p0tomroY87ZCLHDh8xJ0wMa0t2kgYJ7Napu%2BncIaSEluCamLTW17%2B0DZeCUtgEW6VhNOaPMNoZoO6W0DBQq7Clm8v0H0jiURbZ61GrccQx3Se5Z6jhQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5671104851%2Fa98abe942855492809e687dc6455b3ed%2F_______100_______.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5671104851/a98abe942855492809e687dc6455b3ed/_______100_______.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=m0p9%2BPNZPgt8uQlIy3MqezYpINKFkjdQkSzCp3NMBEyMQqRSG2j6wsrIKRBZB%2Fyp%2BVAuvMSo3GYpqr1HfreqMm9TimCgMS7sI1zkbNpNQ8PeTaWc7uU%2Fx9TmbrC7Q3icNQdg%2FtnphcSqG6Ykn8wEZ99%2FN1uF33fpHlGemfkzACz9PoZVG02f3coFP7ziBNZX9wpcA7nUDB4WGiPWejk6ceydnKl3c9xIJmJLjhABiG1VjtG3TkbVVrtkewSrsvxwXjowX%2BWiiLURFBTvqbY3quSn91e3kJYO3EiEQVGP358M7nvCiLqOjK896FF5XRQI%2F2wbBTmKvFgGxpd8adeZBA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5671104851%2Fa98abe942855492809e687dc6455b3ed%2F_______100_______.mp3)
 
 #### Comments (2)
 - **あおりんご** (Jul 04, 2026 11:54am): キッズすぎやろ笑笑
@@ -4502,8 +4502,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 19, 2026 06:11am
-- **Updated At (UTC):** May 19, 2026 06:11am
+- **Created At:** May 19, 2026 06:11am
+- **Updated At:** May 19, 2026 06:11am
 
 ---
 
@@ -4512,7 +4512,7 @@ proxyサイトなどを共有しましょう
 
 <p>悲しいな</p><p><br/></p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5671104851/ea9fbaf3cf7f50da159f64c74220daaf/____.mp3?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=D3Tykg8aULi6%2FJT5fPC82CUoXeZLjj63PKnh7zIdmmDCj1R0HUObX%2FcVcy8Q1dXjRNy6FGL0iGAcjI6Pqe5qmxbRElQz4L8%2BYZZawQKYTgItK%2FPWLtkKWGWz6oKIyJugKMhuaopRmHdJM1qXGg5kZS4OWBHG5FxDFzGUyfQInWOnm5MEaGkh9cXBNylRrOMwLduuV%2BXQpe9krDVVN6OusHm9%2BZ055aMjr66PnKgDKiQfQLXMOyWEkXOpqXq3yuzwJcgaw%2FHVHcnqA0jtWJecHOnbJMHFghOh433HDNkIXdT2%2B81PCC0Lbsecb4rlrDehR0WTdoeWz9%2F22wqR84bI9w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5671104851%2Fea9fbaf3cf7f50da159f64c74220daaf%2F____.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5671104851/ea9fbaf3cf7f50da159f64c74220daaf/____.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cPU8Cj%2FIA3FWZCl4avO9rpbBmF8ub96uALAbtEULGTaFNxwX2y3v8uZaGbOctmTmDdTk3%2B3Exv1on9KorAmZK5DtH5Gzqv9AyMPn4ICThtOAzv1ITzEPRdJAzDMk83fnhiXTh4J7Jn9qqcZSwcHm7beZXf4moyN3LYFPAPRlaNyY8651Vnk0wraKd68JB7OTfMGjZsgjQa7R275UHRdxUVdiL3fiOEAfm6rlqnkZYuLJ8w3tArjXUk3TWHOraDJSxAVvhrPXpd8TXccHht9NKEmWciDsXVieHB%2FvqZV78tyT5q4lUhNseDnapPmbbXklXT2yRDIkxzgoQzGCxZoJhA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5671104851%2Fea9fbaf3cf7f50da159f64c74220daaf%2F____.mp3)
 
 #### Comments (1)
 - **ツムギイロ** (Jun 20, 2026 11:59am): ね
@@ -4522,8 +4522,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 19, 2026 06:00am
-- **Updated At (UTC):** May 19, 2026 06:00am
+- **Created At:** May 19, 2026 06:00am
+- **Updated At:** May 19, 2026 06:00am
 
 ---
 
@@ -4532,7 +4532,7 @@ proxyサイトなどを共有しましょう
 
 <p>鬼滅ファンなら絶対に知ってる曲です。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5648476380/e09aa7f001bfc4cce643201d7069ae4f/____op____3.mp3?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=CwLwXKkGW1zecFWZGnm%2Ft2eei0MSeiqL%2BSuwnIakxekz%2FDZ3TUMoKRFGuBuKQqq1Qnfz92Sn5nP3jVZXV%2F7Ld%2FhqdNPp4pI4nbucatK2EWek6GKat%2BEePhtbCDe8RvlQXANFuNAmrtIpCeP4NtrQXQ4oH3MqUnQBAIdqbdDilv5aZzMCal4L1CicF4ahd5ShU2hpboazAVQbU4QY2lWnWjMQeuGN3PKRCLlHr3%2BK%2BbSHdQsxwZXDnCRLVQA4xGBEcVPfU8eYE8WjICcKKOZh91OFY%2BeKycuDqWCknYP3AM17hNt6FK8K1YSGRs7J8e91eIOaS%2BcoufdyHY5BoXSv6Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5648476380%2Fe09aa7f001bfc4cce643201d7069ae4f%2F____op____3.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5648476380/e09aa7f001bfc4cce643201d7069ae4f/____op____3.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qQJOZVcAFM5eloCmxGNU7IVptdsjlCjTS4WtJcBYVW%2F6%2BdXkGr8ybsFVE7USBo4jSSzrNz6Yw8KgXVuGRYZy%2Bn11%2FawDLMbl%2B4e8%2FZSruOWVHAh%2FacDNoHqacwj4EghdPl8DR8f80qZP7HNCpOpJsFx93S4OG%2BHZpUTtyilwwmaU0oKwjoSg8eUL7LoNdpSQaHu5QPf5BE1i5t6zqNWcV925Z30DyGc7DxXFs6OYenmhbp9D%2BeioRQTXXMc3XpcMaEU6N%2FPFotLdGyCE8GA7u1fwecEWpz95n4wrH7tOH5tj6gU2Mj4v%2Bu6IeUmZ8%2B7FYuERqXi2sp82HE1OQBkidQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5648476380%2Fe09aa7f001bfc4cce643201d7069ae4f%2F____op____3.mp3)
 
 #### Comments (3)
 - **あおくん** (May 21, 2026 10:11pm): これなら知ってるかも
@@ -4544,15 +4544,15 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 10:30am
-- **Updated At (UTC):** May 18, 2026 10:30am
+- **Created At:** May 18, 2026 10:30am
+- **Updated At:** May 18, 2026 10:30am
 
 ---
 
 ### 5. 曲
 **Author:** 削除済みユーザー
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/b994fbf1ae383ab90e6d90a274cdf114/atlxs_dj_fku_montagem_rebola_5.mp3?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NAP4wjVY0ECK98mPciIdtP8c8OG8NsCHUXyyBW5FOdLZaKN0okOiVeSwjFIf5I8a%2BkopZlGdGDd3GpGbAjZ2RyJEmE9RaXeJdSYdFHMF219OdJVtDiHZAha71x8ItofDxBjPWg4DNnaW8K%2Fd7JjxNn6%2BbJ6qDpR11rc8fnwtddFv6j50hfi%2FdD4IskG9c2jT4gbze4HYmZ1wfzdE5I%2F%2BEu%2BhCTN8iGz8W%2F9DJsAiDxVbPJsDNTfmg%2F9E8T%2FxP9ZFY4jxGe6ipS56BVULuRFlP6a1mfRgctsRhKxuZTBEh17ehJ60KawsTb6Ktn%2FoPb7Ht721k7ven45rKsw71uQpvw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2Fb994fbf1ae383ab90e6d90a274cdf114%2Fatlxs_dj_fku_montagem_rebola_5.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/b994fbf1ae383ab90e6d90a274cdf114/atlxs_dj_fku_montagem_rebola_5.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BtRbLlzPHuI5T3oDACrljhTJDvzDNJ28wZGbNZa4t%2B37DgewbILh4X4zuobg6t3F2lSPGCPLGiEQxffuK29H8qzfX6DrhfCqwSG%2FW8vW4KOlfL9Ri7H4afA62%2FmkAQEMdsURHNetv%2Fcz1eMgWxxl7F1JvM69MnaEa9GnAte70LcnuKuluEX7a0ohRxFui5aM6b8VuZGR3%2BmHDkQfSoWOUyQvc6Wv5QH2ZZxxw5fCTZm%2Bt3ZfdAxOzui1Pf9fBY5xcDeU%2FFravjd3KHx%2Bk%2FX5T7D2jM8A0VRd%2BhY4CZVQwz7YG5bS4zJCZMw8lDTMj55%2Fkg%2BXEPPg1cs0PYcnPcMpjA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2Fb994fbf1ae383ab90e6d90a274cdf114%2Fatlxs_dj_fku_montagem_rebola_5.mp3)
 
 #### Comments (2)
 - **エビMC　マイクラ勢中学生勉強できない** (May 20, 2026 10:07pm): どぱがき
@@ -4560,27 +4560,27 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 10:01am
-- **Updated At (UTC):** May 18, 2026 10:01am
+- **Created At:** May 18, 2026 10:01am
+- **Updated At:** May 18, 2026 10:01am
 
 ---
 
 ### 6. 曲
 **Author:** 削除済みユーザー
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/e1d11cb6a1c7c4b2d23104e50944e84e/kevin_macleod_local_forecast.mp3?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EIPUuWUtABOo%2Fz4KJCehQFLYBGc%2BUH0TRzrFChMBUp6shgpxCLgG48GMzPxHFTTq7ypM%2BA%2F7KIa0Neur6iJAqrCZ2qyC2GO%2FMrPi4IHhp6%2Btppx6Djl7et4UqgbLqNWFPBshZSHNwEj48JcUDJWsSL2B41dHsltsZ6Ksf4wGJtPkCUd%2F8mU2HCoZhF2ow23GgwsxgfrkZifYjURCs81Ta91DWrcS%2B6ELGf%2Ba06UL3iPS6eua8iyIStertRgvftwUD3VTMx00RlJbCWavoB6%2FdC%2BoVYO1PTznNk%2FdMI3BnVH3KAxKyK41XuRi%2BgAMx38HCiTbxYARR%2F37eso8AmaRxg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2Fe1d11cb6a1c7c4b2d23104e50944e84e%2Fkevin_macleod_local_forecast.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/e1d11cb6a1c7c4b2d23104e50944e84e/kevin_macleod_local_forecast.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FSw6GpoO4Eb4nhAth46TqdX6vt9mx1eMbmsd8K8lOrLf%2FPYbja%2BYO0zpG5GBrc4LJjp%2F%2BE0VwmTZJ4lOa5OlNrBSyvdpOCwEPcywhH8M8rFJWszgPg2vHBj%2Fi7MQag112SMvRG9azEaQDUqpobs03mq9LDSMC7vw8uOiMlJa56EFHu1s1f5VtjygAStzBPfdpuHX1NHvRAW1hztC8obbQ%2BznfctxtdXwqQclBdpAkt5zVF6NHfp6QhpoTeNFiOVUpQKbEHKbUGbpP8GeHoZN7Y1HngJ5yAQittNHjqKHiotnkzp0rDMAlP2Lp6JmgTfXahQ5uWqGzGjrKO2s80Lp3A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2Fe1d11cb6a1c7c4b2d23104e50944e84e%2Fkevin_macleod_local_forecast.mp3)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 10:00am
-- **Updated At (UTC):** May 18, 2026 10:00am
+- **Created At:** May 18, 2026 10:00am
+- **Updated At:** May 18, 2026 10:00am
 
 ---
 
 ### 7. 曲
 **Author:** 削除済みユーザー
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/35396a4de9639f84c8b2bd679f34717f/montagem_koe_full_version.mp3?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=00hYKVZ3qWrePyb0hv1s1BZkjt%2BMcVr8eR1jk6ydruDplVq%2BHxxhIrycRtcR%2Bi%2B%2BtcV8i6%2FYKhSsfbxOOzCwMnkEJOGaJc4dPF6GB62wfLphqMbnfrg6XRukw%2FYycQI%2B2zLeiM9EaW7mQZ1sDk6kx%2F0uLfwIPj43fpkyMA1%2F65OcPO3O3blQQ3D0uLAdbBCRapJs4Cy4FG%2FQJjwnQvMGV1GY3dPa1iGS%2FRokqgUVXQLH2JHILMR6qs7utKgapV2tL8LmdronmzMkIm60Tzg%2BUv8rO7QbXORMQR98wrCQAeoME%2FeAIOoJuSY9ExZdhEJ%2FVFvIzidCHybpZ1TQJ1a1vg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2F35396a4de9639f84c8b2bd679f34717f%2Fmontagem_koe_full_version.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/35396a4de9639f84c8b2bd679f34717f/montagem_koe_full_version.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uPt%2Fz5RG7weEuPsiPFEKeyunM5ZPQpiR3AxMTupKxUculF8lBLyTw0Gz6ghZy0edR56U5EYChRL0fd7yAOU0CkyrYn4%2FN88qcLjtJuOkxbItE2VDVuRFEmb5Zs4kc7Mn0eu%2FMvBoe6amLxuxyCleOZL%2BurcBo02Hkw0yJQnndgYYh6WhaMmFdedxTMO8%2BJS%2BjsF08MNF3%2BAKptzjnD2cxcF0%2FFVVstqoW11TsSz5muaGf8buUdn%2F0wTXnI7dpc2aPFSnHXIS%2BXzo6yixrHbwNAIY8lW3L%2F4mdjQgwmlcq%2BEl4x1Rb9%2FpNolhyDCzxFoH9kMCRBGng66xL4%2BLKolYcQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2F35396a4de9639f84c8b2bd679f34717f%2Fmontagem_koe_full_version.mp3)
 
 #### Comments (3)
 - **削除済みユーザー** (May 22, 2026 12:55pm): この曲好き
@@ -4589,15 +4589,15 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 10:00am
-- **Updated At (UTC):** May 18, 2026 10:00am
+- **Created At:** May 18, 2026 10:00am
+- **Updated At:** May 18, 2026 10:00am
 
 ---
 
 ### 8. 曲
 **Author:** 削除済みユーザー
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/3e928b9f687d0a7459a28a4b05e31351/attack_on_titan.mp3?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=O2fswkrmsCXNXOvkBzCtcs1prTxYC3Cx%2Fc%2FzSanZTJsRPMXgNt6ym3T7TdowHHI9WQR2nCJfpvji9xUqKNtfW349mDUGw29t1BVqHB%2FJbdV47ONzDHIxuIgyvkBaZoTJAMkJpO8FCABwtsPCJbiBvLqdfdxvk1HQk8ekL47J02ROPEjly%2BwycRzgFxPFdebcj3F2yt15G9ZorOnHzdZ%2BbMVNMmUXtwwlwdMAbeR7xJf2NalMw0SXGYp9n91NyjHqWQlfY%2FuIGjzZYSWR1KaVSKYUsGP7iW6fJHHyRtT8gtITLm9p%2F3MvsKneAVuJEzgH5T6KdrHQ0337vpPjS0MZ2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2F3e928b9f687d0a7459a28a4b05e31351%2Fattack_on_titan.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/3e928b9f687d0a7459a28a4b05e31351/attack_on_titan.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1ffSJsd3vqVlif20O%2BwQ09b5ZIfa6i4Cl34uYfost%2BZmvRwMhe94WP2Ojz5zhrN68mghTb%2Bf7pMhruTz1iNUaElJ2Pq75%2BZ%2FPS3XaJV5KZ7%2FuDS%2BwS0qg8bpGssTb6AUzClYZ1%2FL8p6ZzPSW9IDADt%2BxkhvZPDaQ%2B2bzpPgTMiQANNQvPzUW5sf%2BS1cm9IOV1qeeXca4QAD7g%2FtVjn6fZojV1qwTFRefXR6NTsKVKTT1mzTH%2B3RsF3I9IRwQOYJhLxHemHHn4c%2FdXZaFxRWpkblFTtkzQzVCh4gJj6Pkt6ItUPVscrXdJzU92zzL0cGQZQspnMK8gEOqf5NFIDxpqw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2F3e928b9f687d0a7459a28a4b05e31351%2Fattack_on_titan.mp3)
 
 #### Comments (2)
 - **ユラギ** (Jul 21, 2026 09:39pm): この曲好き
@@ -4608,20 +4608,20 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 10:00am
-- **Updated At (UTC):** May 18, 2026 10:00am
+- **Created At:** May 18, 2026 10:00am
+- **Updated At:** May 18, 2026 10:00am
 
 ---
 
 ### 9. 曲
 **Author:** 削除済みユーザー
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/3400c10ac3974a99dd762ad371ad46cf/montagem_boyfriend.mp3?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UnmnyQ7NY3Q%2FYVw64pa9nzPgGX84gjaLz%2BA3e5GtaJS3DZ8zuhWAnUAc3Xsq24vaT6gTrWI%2FgZNLS3ouoGIr9rQmCbp4sj%2FybzQAsOwtnLrht8cD3okHrpTZeJWvN%2FyZCJndyx7CwJEZ9%2FDjTqtxLLMPcuN5IybBmpKs4bK5eKGm7hpkH2Zo94x83BVPe%2FDPwqBkBQFB%2BLHUQObeMk3xzrXKe5cRwGHyrtivsLLoD3hS1RpTB4M88lMNnWtmN%2FFFh6oolODKhAp46sr3QqSZoPeokCuqV2tLiiP2Nt%2BIFKaa8ZXpQytypdkxNv7WeF%2FeedreTS2FEfwkez8DO6wZBA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2F3400c10ac3974a99dd762ad371ad46cf%2Fmontagem_boyfriend.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5598023691/3400c10ac3974a99dd762ad371ad46cf/montagem_boyfriend.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EJaqAYxISxvLVYve17wj1KkXbnUZVVHqsoCsNJAeUqzwdqIkleTCROov73%2B1OFxqFd1L3GbWssGWkJb2pFeD7Og6Z6yc8AUIZC7HPccFjazCS7OXypbL4pcUsIYZy6V7K6%2FB3hiR5okTniX9HJbUYGlOb9QgaBmxEWE1ntJ0mZGEIj1BE6R0jpqjebkw5peuTG8V6MPYiXUYwCP%2FWyFbR5EozDe11pSTPK%2FUNUx8uoguqgofHV8T%2FmsURRJ7CHKNVCRcBgV15ZJXCbwsGNyL0epWNuPdLsobSsHSXuIKY%2F9GaVBl00kSjSSK1Grc9XgRgVDLQqlCfruenNoEhDnwEg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5598023691%2F3400c10ac3974a99dd762ad371ad46cf%2Fmontagem_boyfriend.mp3)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 09:59am
-- **Updated At (UTC):** May 18, 2026 09:59am
+- **Created At:** May 18, 2026 09:59am
+- **Updated At:** May 18, 2026 09:59am
 
 ---
 
@@ -4630,7 +4630,7 @@ proxyサイトなどを共有しましょう
 
 <p>時には休みまショウ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5661606478/b712dc061488cddfd161587eff598f9b/________BGM.mp3?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=J7lg%2BXLlpq7sfiIlviMH6fXTMM7ZVrm5SDTUwTYBqncS%2F93%2B9F51MHyv6rMxO%2F3%2BxTk1U0YrOJd9AQO2VsIg8LtaLCmEoAvD4ghdighNTLSNr%2F2dfvDNG%2F66ZKBudrP%2FOU3tM7BwlzW9G3hEVT7aUuPWMjaTqD2ekrDHALiMfZDw%2BwJx5gTkrJIL7muD%2BVuBz%2ByWEYYevnAkMB8c%2BhAmjgfLgIJtBbRfiVR1kNcc09BEiSJkbzuPtD9TsJ2INX11bZSSmMjmBA463SkpJLBvOj1El%2ByJbD3FHwd9h2Xcj2awyl8to3RRqI4nsF2tnsovRlVFwxkzWX4QUSiBrXn5lg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5661606478%2Fb712dc061488cddfd161587eff598f9b%2F________BGM.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5661606478/b712dc061488cddfd161587eff598f9b/________BGM.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NcgXOjU51xEAYMC%2B%2FaDslxbGI6ODB%2FacmrCzW1gHkgaJ5APdjFpezP5vnvJzlu2icPHScCSKypNn75MhQ9voSto0QkIU%2By7Ij4sExGkIFAG%2Fa7YYEdntKR7V6NVPJRo1O7xqQmK5aQokBTVxoO726S47XU1yzpxScdqFKY5c7UrGJKTt324ltXiQmajJ8oAaQrygErNCXl0DOvynzErIsMPePJtCVHRpyIZoJ4XOiolzpiWq1AESmk0t59S8J%2FwN8WnNXeQ5%2FOYyPr0LYiszm6JMGwIVGKfeDrvUoZmpJtsoQPev1e%2BytRYKgVL6ZfIsgo%2FOMtrmK2QdhiYIVAH5yA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5661606478%2Fb712dc061488cddfd161587eff598f9b%2F________BGM.mp3)
 
 #### Comments (12)
 - **削除済みユーザー** (May 17, 2026 09:34am): 休みましょう
@@ -4651,8 +4651,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 17, 2026 09:31am
-- **Updated At (UTC):** May 17, 2026 11:00am
+- **Created At:** May 17, 2026 09:31am
+- **Updated At:** May 17, 2026 11:00am
 
 ---
 
@@ -4661,7 +4661,7 @@ proxyサイトなどを共有しましょう
 
 <p>川井田2の作品ですこれもコナン好きなら分かるハズ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5661584947/616150c8632669661163b968b1b5efd8/_____.mp3?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=A%2FZQKF8oESBkEzoEK030gZ1IIL2T5SMYBEeyJPJ%2ByqxmsNgoIG5Fww9oYDrywgBCS%2BsJL7OhzgNqLQByvHLjUKQo%2FLw57EU3WKY9Tmvu28Sr9ZUJpQagGNgJQUlPc5bSveqUpNcKRU8xWLS2geZGV9Z62g%2BXOHNlPbG3p5J4jH%2BPyUac0cUsQq4X5FLt97W52jq4nqj4XiAbYSvLPbA0DDucamyCFR0V67nRqrbCcJYlzqe5kCZJQFHJKVxZpLQH0hiQMcBIlSaHqnsVnJSCp16ybSxV0g99v0rZrTAxYLBNG6tjeYti4uMJFAS7Ob0prJluIxHmYLJitDWP5zqNrA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5661584947%2F616150c8632669661163b968b1b5efd8%2F_____.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5661584947/616150c8632669661163b968b1b5efd8/_____.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BazwgW4MZuG40P5P4fDzPYXjT7iH3yyv5fTld9CEMEiG65j7HX6kbO4VF3yqLbMOtsRi6%2FvZmYTzK6GK28GPvhe277656ChG0QdA3Saby8I%2FlV6uL2c55kb214UP4CHU%2B2KK5siJ26L1MBTRtw%2BIIi15675sPFoEMQplHpZP9ZHqjTVvoU%2Fb4RE7c3CXYGOwEpNs36SXuP8FZA%2BD9OE6L34Kfst11cY4okZOizfUR8M6jFfoBDZ27FwsMO0Kmh1AvPgVuK1pb6dGl3pPddjZluASzBta9pJmnm%2FQXJZu%2FadVAt5P3LKSuYNdSK%2F%2Fp9qcNo04JHi1PokeLJWhXrWKfQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5661584947%2F616150c8632669661163b968b1b5efd8%2F_____.mp3)
 
 #### Comments (4)
 - **あおくん** (May 18, 2026 08:03am): だいすきいいいいいいいいいいいいいいいいいいいいい
@@ -4674,8 +4674,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 17, 2026 09:17am
-- **Updated At (UTC):** May 17, 2026 10:59am
+- **Created At:** May 17, 2026 09:17am
+- **Updated At:** May 17, 2026 10:59am
 
 ---
 
@@ -4687,42 +4687,42 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 17, 2026 06:58am
-- **Updated At (UTC):** May 17, 2026 06:58am
+- **Created At:** May 17, 2026 06:58am
+- **Updated At:** May 17, 2026 06:58am
 
 ---
 
 ### 13. HIKARI
 **Author:** ひーーーーまーーーーーー (114514yaju)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5562918343/b29a7a011b4ab932de5b40026ac1927e/BellyJay___MONTAGEM_HIKARI_publer_com.mp4?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fTSI13Alj%2BMtiqoaKoZMvEm3jIUgcU8rkc1ubda%2BWAAu%2BnwNUk9osJmoLOD33VricBo99DXqv1MjJ6RR8EaTEzFTC0jGLQpDuHj2mllU12FzN1s5lJOBCrk0mVm2TXfG%2BLrlb8nRBvP1SDF3SQwxqLrMLIRyDTYzyTJ%2BiMXtnw9vVmB%2FhO%2BP1jhl%2FIIB1Ub5%2FJoM9Hpz3vncuSxQBbxqo4b1gKm4qbizCiIx3JfWVcv%2FBXLIpjbm7JTucggfDE0sOVl%2Bt6xNUtJteVNExUG8rlBk2PgEaf86InybeFenDYY7TEDAlrjLJE1S8I8LihaNyTSlUAG2NJVPFjPsy%2Fs2sQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562918343%2Fb29a7a011b4ab932de5b40026ac1927e%2FBellyJay___MONTAGEM_HIKARI_publer_com.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5562918343/b29a7a011b4ab932de5b40026ac1927e/BellyJay___MONTAGEM_HIKARI_publer_com.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ni33IXTrmqiE6XbOqLG03AO2Wcx%2FpTPwR5Yq020C70W0CY6YfhmRtpsVZTkZkPEJ0mSIYPzqA1%2BGRnWvQ6av6ZNuDEKAFANPMxLSWQwkQmACLNQt%2FHfe5NoPyjpwvptdDKeLgc3rGdjTKUIeZqydhPf4PBHpJcm3b6%2BH177dH2QpS1DjDvMPg%2FN4Vy286R8WVoDZi1jqCy08o0qlmS2sMKzsOEEoHWGxVpB%2BEtnFu7xgtMshJqsbmi3LusqWPddxfX57k9e1Nsz%2B6Z2036GQi74xioeGgazqvcm0LYL4Em7o%2FQIL7rHandY5gaQDalmdQ4969FHuxKScH9EkkQUNog%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562918343%2Fb29a7a011b4ab932de5b40026ac1927e%2FBellyJay___MONTAGEM_HIKARI_publer_com.mp4)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 17, 2026 02:01am
-- **Updated At (UTC):** May 17, 2026 02:01am
+- **Created At:** May 17, 2026 02:01am
+- **Updated At:** May 17, 2026 02:01am
 
 ---
 
 ### 14. Post 14
 **Author:** ぽてと。 (gs221399)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5505920502/43166c1f106082a7856cb6d85a658cd4/5502686130_73bc556cf6fa2b84b73827f1e6f9431a_MONTAGEM_HIKARI.mp3?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SU9pjSBtsYq48fBAIrckCD4f2ZDGoX%2B1c3AhEvmGPnqG3vaUSMma1JJUycTAmr6GHtAx8RZ5lewfv%2Fm85vJawVy%2FAGGRpa%2FXY0W%2BiatoPlat2eUU4EwT3tAqJjNh4iDPliKlA0iYH032PoXCAsr%2BAmSAi%2BJCp1MUGTz2rIz39bT%2BW4lBD8nH0jnK529fGTpFu3EnPhkstvpYJWwtxxA9aN7No6Vb35nSRn8TWn0SOC%2F%2BSChQquE7vUA6j7YiIVAhZk07dUsgS%2BJHVs9x5Smzn3M9l7UtpEy5%2BJw2YWV2BkiUEVlIH2fYxJXRWkjfAMhJnl2piqXBUiDlShKkxY2gMw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505920502%2F43166c1f106082a7856cb6d85a658cd4%2F5502686130_73bc556cf6fa2b84b73827f1e6f9431a_MONTAGEM_HIKARI.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5505920502/43166c1f106082a7856cb6d85a658cd4/5502686130_73bc556cf6fa2b84b73827f1e6f9431a_MONTAGEM_HIKARI.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=x8Z4Q356EgJmFLtgUv6KwpBC7qwkgukmu4p15dRiiRU57DrqihLcTY%2B8dvwvrCSbyMHhejRORSni3m0WMifIjzDpmoqULOpZVGNeHJdEJEfzwTzSyHRFVQWLPAbOd9%2BCrM5iVSE918ChlKOURQ363MEbozXyHza%2FHahdcEcS10riilqQAi0ZF3qTl2eetzmNXIVeXIZgcLVpn0ioso07jQUSzq4IbPBip8qTqpj0wMWSS5ngdWY%2B1hrgQ0r7UxrH1ZrCTKIOFrA5bGjgPHhjRJOFmEhiIg0kADTb5lGMxN1Lr92O4MGSTOGtME8MFJ5Emu9KMkYomEhCm3kscFw5Vw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505920502%2F43166c1f106082a7856cb6d85a658cd4%2F5502686130_73bc556cf6fa2b84b73827f1e6f9431a_MONTAGEM_HIKARI.mp3)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 09:59am
-- **Updated At (UTC):** May 16, 2026 09:59am
+- **Created At:** May 16, 2026 09:59am
+- **Updated At:** May 16, 2026 09:59am
 
 ---
 
 ### 15. NOBATIDAO
 **Author:** マイクラ勢 (gs221318_1)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4323277141/de5651276194e1ac6d060e223d4286c0/videoplayback__2_.mp4?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=08nd7pUR9NxSTGO6AUiwLMg46GA%2BB1m4GKQxuyduYSXSzkaoJWDA5i1kRVm1n00rAKsY3MZ4j4sY%2BEvfNFKkmOfiAZuhHUYVmmPmQCk%2FW31pqcAk6%2BtKvl1hucs4YwHygPTSXETxZt3ug9SPv1zQerRycblhCv47D5pxUaBDiJBunkhDw2rnd47PPaeEvazsDEnaTh2qYRTtsi2lYE1kWnQ0HWfE0k%2FIvAb2QBCPDJIiods3nEwUw8brPX9QRzQbADU8k7%2FuRJQVICcmi1LJIuwEPWeBTueGLRghB4tX5r3f4WRVk%2FLPMEWz8ibEYyC4JNVRFSbm8kAgFAf%2B7OVk7Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4323277141%2Fde5651276194e1ac6d060e223d4286c0%2Fvideoplayback__2_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4323277141/de5651276194e1ac6d060e223d4286c0/videoplayback__2_.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=L9DwrHkZHlewpDO5FzsESsZOyobnOuHUvwEfZ5yLdDz%2Bs4ognfzGkaT9%2F4Jh2ik8f5fW5uPjs3KqiWuas6TtGlSAC4NAl8CAOP9gH0IfXviEZ%2Fcrg3yNRxVcGJKM0NpuxJ6eguNcJOTfJCPTEUpV9vqm9ahYMYsa54m1V3gtf%2FneDQAiwDpIwDtmKQVG4SQnqC%2FWBxpdl%2FkT2d0551YhBJSTPsXYcPjWW%2FoVfKr5gmfi8oLrGLrKE2vZlMFxfcdswDwAx0Zn269AOKk743tni5lTWY1%2BeKZ1GSON0%2BFDyQCLJOUqRyXpojuMXZ74i3QHl1Q%2BloBPospA%2FhE9O9b1EA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4323277141%2Fde5651276194e1ac6d060e223d4286c0%2Fvideoplayback__2_.mp4)
 
 #### Comments (3)
 - **高し** (May 21, 2026 09:46am): いいよね
@@ -4731,8 +4731,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 12:13am
-- **Updated At (UTC):** May 16, 2026 12:13am
+- **Created At:** May 16, 2026 12:13am
+- **Updated At:** May 16, 2026 12:13am
 
 ---
 
@@ -4741,7 +4741,7 @@ proxyサイトなどを共有しましょう
 
 <p>良い</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5649036064/4122860c3c59f27ddcf0e528b4e245b2/videoplayback__2_.mp4?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BqL1Cw1AArWcrJdgkec0G3%2BEigO8tIYIt6cDL1WHFfla90i7aUupwf5105C9GnjWJlZaWEHl3%2BQdIU0mYQgxeIF79qsJmVJd0kHOQAfDsK9e%2F2lPnXdMjWOF%2BE8RXqR9tBzlcPvifi4IJF58nizQzgqdIjwHMrtq%2B4gkKeYmKufRo%2BnU3BIueQow8YEWnQmXDq%2BTJfj6cN1h9xBCVTDhe3waStyvRcSSNgjV4%2F579LyE8v%2B4zHjViiFd3%2BNGaXq5ob6IqspNxPQRusTMQpBjskgeaKEHsl8S5oPkXAB70SDl5BL35DVFnWcBVuV2l9mfMn4Vu519c1kNplZWM0S6Yw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5649036064%2F4122860c3c59f27ddcf0e528b4e245b2%2Fvideoplayback__2_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5649036064/4122860c3c59f27ddcf0e528b4e245b2/videoplayback__2_.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BpUZ3a9RVSbO3%2FguFmDJ8LLwMvdVlgEoncUZHnGV%2BBpEKLoOzO1T88H4osU1ts3OPUg9ss8Eisv4CAjFRd2VkoulI%2Fz6XB5oe4fOqDmE7Z4q4twuvcXVAsKbY%2FAPy9esuoBchqJpe6cVvHng3FyKVfwcRygRt9BFY1kGVgJOsFBSMkeSL6QGfViRNhVIQv8s%2FkaBQfKWzIK9gzBEd2FJZ2YypG3Ica%2B39xsIoA7Y8qhWqVfKksql%2B9P0h3%2F6jENXfPWXpaoEW%2BqEezxYy1QuDYc1ZfWZJ1fP4OPet3qPtQaoRWsAGTDd%2F4c6xTA0LyOlBODkcJ6CIT3zTUdIm136ww%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5649036064%2F4122860c3c59f27ddcf0e528b4e245b2%2Fvideoplayback__2_.mp4)
 
 #### Comments (4)
 - **削除済みユーザー** (May 14, 2026 10:57pm): いいね
@@ -4754,8 +4754,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 14, 2026 12:39pm
-- **Updated At (UTC):** May 14, 2026 12:39pm
+- **Created At:** May 14, 2026 12:39pm
+- **Updated At:** May 14, 2026 12:39pm
 
 ---
 
@@ -4767,8 +4767,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 14, 2026 04:21am
-- **Updated At (UTC):** May 14, 2026 04:21am
+- **Created At:** May 14, 2026 04:21am
+- **Updated At:** May 14, 2026 04:21am
 
 ---
 
@@ -4784,15 +4784,15 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 13, 2026 10:54am
-- **Updated At (UTC):** May 14, 2026 02:22am
+- **Created At:** May 13, 2026 10:54am
+- **Updated At:** May 14, 2026 02:22am
 
 ---
 
 ### 19. かっこいい曲
 **Author:** m.i.b (6355029)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5284280134/d29241b64b4faedfc1d420363e215f99/videoplayback__5_.mp4?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=K5LpHDRl1EKUnMreLIylEQCcLnuk%2BWtY%2FYIn%2F199Y4MHoRtoeeJC0hGVfqlgt0RkCkZjIOoIAzVxm3qaEtXFoZ7SQNCKs7MXgloMeKYcXSnnjDa5VBZCkU%2Fzdn96sgz1eobg9Mabe5L0wYsPksBFjJmp22XjIEBaTSgJ58cxdFYKzRfhtZ6FLlCs5RuTbzVd6ST2IlRMhqeQfNuU20ePRCbff7jHftTfpN3Ia%2BSDIXK7PzmXbo9nLur03jV5rd5Gd9I5XlRQKy4Dx9KQ%2B7o44TppiYoERlRlo%2BbNrcQv8fPxBEokHr1mc2NSVQs2fjp6DoFk%2FtuxRt59GK4wNCQGCA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5284280134%2Fd29241b64b4faedfc1d420363e215f99%2Fvideoplayback__5_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5284280134/d29241b64b4faedfc1d420363e215f99/videoplayback__5_.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=yb518SrRSFVGE2aCJy%2FH0%2BWQciYPt9BHDknMLwS2vIiVx0hyoZ6%2F60VfXl7XU1VX6naOt27IxGWk664Ve3MutM6oLNPjioKuT%2BLjuxtPIv9BM4lbiYMgU%2BX2DAW5%2FYEIcYFZ4Bs50I2VCvSoyAbGc26oLb5MqIeIuEGTqwQyYI2QFujd7L9Ggy75tQrUxaFKwJGBjEgMhShBYL4pZ7gYKS0lhIm%2BpTJlK%2Bnj8zDu%2FW9B4uTQIMBgkI%2BQsuwUQnILAQ1tWiwxLISG9b2WifzSq3tMdsinly85ADI9j%2FZvJOABNBl3ooox%2BNhAq%2BBeooHK97xvcaTHwaHMKL50wLRRPA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5284280134%2Fd29241b64b4faedfc1d420363e215f99%2Fvideoplayback__5_.mp4)
 
 #### Comments (1)
 - **削除済みユーザー** (May 12, 2026 07:44am): パドレットで動画を置く方法を教えてください
@@ -4802,8 +4802,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 11, 2026 12:15am
-- **Updated At (UTC):** May 11, 2026 12:15am
+- **Created At:** May 11, 2026 12:15am
+- **Updated At:** May 11, 2026 12:15am
 
 ---
 
@@ -4812,19 +4812,19 @@ proxyサイトなどを共有しましょう
 
 <p>ワンオク聞かんやつは非国民や</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4118697535/c545520c0522a641a204d65f7d0d0c8d/ONE_OK_ROCK___Heartache__Studio_Jam_Session_.mp4?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RRAlyvyLm8bt4zmYzd9g474wW9LycJOJZygYH54ApxtJw2Nqdl5039WmyVMbTbgAsBCWVZyl%2BBegsIVRYAPlXzH9BEHDt1rITgUMe7I40hT0zVfTIVHXCtLOyAmj9UnYTqzIaEpTEPYjec%2Fx0Gr6Hz3jHX59uUFzxiUeCG%2BTKmRFt0zLF%2FhhEScDgApcopUrPQrEdRO3VdvV712JmTBQP1xonrLlSwO0lfNnHWo6xWByhPbMW8ggbFY8SJ9sHdeDdjXT2xTpUoOLjCccuuprICWqwJdqqzk77OelyhaNXhMP47nV4ZGdKal3WvW84c%2F40rOzlp62UN3o5H27gdmUPQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4118697535%2Fc545520c0522a641a204d65f7d0d0c8d%2FONE_OK_ROCK___Heartache__Studio_Jam_Session_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4118697535/c545520c0522a641a204d65f7d0d0c8d/ONE_OK_ROCK___Heartache__Studio_Jam_Session_.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=s3xomoo7dTWEMYo7kUirg2xLHIq%2FPvvnZbkk4rShFNKWWfKcK2GVB%2BOOLYcovk9ie3LcN9QLAwSlLtaR8VET6%2BK6rSBSiVhtT1mwwlK4TIVgYHsEzkDovALEzUuGBbN8nNyZvPuFGr45PPTxZuZB4fy30sCc5ZUdzhiT%2F%2B%2BwrKLLHk2ZqOkHGVR4wRHc8H%2BPZrLdqtIMsaIt8JbEEQdZr39XHJi%2Bnd3GjH%2BbUl11rlvLadbAZR6F5lGOk2ueA74XNgFEVjuy38UnHLSfJFKMnBmqYPs4ZIReQksdUBK4dFImrLjB2ZPRVqB4F%2BEiBjS3G6WDPB4oI5aXkKGS8UeuQw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4118697535%2Fc545520c0522a641a204d65f7d0d0c8d%2FONE_OK_ROCK___Heartache__Studio_Jam_Session_.mp4)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 07, 2026 10:12am
-- **Updated At (UTC):** May 07, 2026 10:12am
+- **Created At:** May 07, 2026 10:12am
+- **Updated At:** May 07, 2026 10:12am
 
 ---
 
 ### 21. セレナーデ
 **Author:** ふっじー
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5585137555/6f4e6297be7cf7b2b3c22ed987cd053d/videoplayback__7_.mp4?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lFNZ6N3zedJlx5aS%2BRjgRWznOp6vIwlOG%2B7oEgoonbho0xZNu1490%2Fx5BU46gSux8oJf40MC1NP99ts0julIzoNJxLWIO1uJEcEhKsKi%2FnGEpsW8DWBtPX1wTN7Y8QMouJsa4KrsRj0uPyjGuKK1yS%2BjiuV6X0qu3YdTih9cSzcNbaNfxaj3BDLF%2FClzELcyr89gPQ1Z9bkWDqJR4IOjQ6VuH4yrocRcBh%2BvW6e1NMvc2CV0MVtGuiidEz%2F5IhdzMN4r58hZTPHZBSYCyAFi6rgGRLNK8xMJQ%2F3N45IaZxxIzOn7wO7DvsWJiKFkWo%2F%2FeJdbFWtAFk8EYkC%2FOfI4fg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585137555%2F6f4e6297be7cf7b2b3c22ed987cd053d%2Fvideoplayback__7_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5585137555/6f4e6297be7cf7b2b3c22ed987cd053d/videoplayback__7_.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PCx7P6pGE0zZufOwViN0GotJWrnyziPKpHmA%2BSC%2BcWqQzzIWeimBRGn7dy1650%2FT%2BgY7eyLt16fb6f2HeTq%2BgKc4V%2FxjIcAf%2FaKNhAnE6umdS2drWL%2B6WBvPNPHCC7QRodZdT6Bf7figG6pC0LtxJz%2FMgL5%2BLWn3RVkJLeBjw7fcg5ux%2BvWKREhUZlfsPST50nmWkyONicuDyYmj8HExN%2F3iefZNVG8c4Fb0qcrxUA%2Bky0SEza7AERnCtjVAXWlkAl%2BZziDEuBnTda%2FEBSA4%2F3VFRfo8E6H4RDAqaEeh9u3hsUkUSK6ZYVDqtWIqLsVzV2iHypF9HS0Kx4PMTUJggw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585137555%2F6f4e6297be7cf7b2b3c22ed987cd053d%2Fvideoplayback__7_.mp4)
 
 #### Comments (5)
 - **にんじん** (May 04, 2026 07:14am): 最高！！
@@ -4838,8 +4838,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 04, 2026 07:12am
-- **Updated At (UTC):** May 04, 2026 07:12am
+- **Created At:** May 04, 2026 07:12am
+- **Updated At:** May 04, 2026 07:12am
 
 ---
 
@@ -4848,7 +4848,7 @@ proxyサイトなどを共有しましょう
 
 <p>いい曲だよね！これがうちとすきぴだったらいいのに、、、</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5585861940/333c210937325dfb26b6bb637259071b/videoplayback_3.mp4?Expires=1785407303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kkiVip%2F5bZlNhenKq%2BkmD6eVrauzh02KC%2BGvK8xmoB9IdlNyKpw4DuEE7sZWQeB3JHmHPQIlOgd9x%2FEedvg27JBNrpRlZn%2Fi3cWYXWPAMdYHxqhObrOMiu4f4eNQk7OUQ3CJMJNLILW7h%2BJ%2Fx676vyd7TFPO4Vm%2FQABfkvpxVelSozVSBMzN1NrZK2xAAqePwcv6VgBddARMJopgstgWedLFKHz3A0VO0SfPzws8V2AnKEDLjtHQX1tTm7igyZnEY8HZy%2FeONxWwdCjxyPlnBuDrLM7MXHI%2FpeA44MAHBqpKOnsfuCGX8VDo7ks3rEhUKptYLkzYjhRjyXWhh%2BYLkw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585861940%2F333c210937325dfb26b6bb637259071b%2Fvideoplayback_3.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5585861940/333c210937325dfb26b6bb637259071b/videoplayback_3.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dBMh9R6EdXIW0utivwxMTGxP86E%2FjzdQN3ThEUqvmdO9EdEbRkaj1Tt67A1SEpqIzokqsOqdKiPpgi2Fd9iYrrvU28WAETg2WVszgnruDRErupRxXQpQ2WeEuaxnHO5fLxz2EBrOd3JL8gaxROmpqnMs3ovecUXZdaoI6Uar4loRToi%2FfQTsGYB%2FMmW%2FoXn0Jx5ZcZtixMW4JyrEhqsupvrCIOICtUBcP%2B%2B8KbCoeGM7CklXQOHoss5eGbbA1qls8%2B3fhYj54upIWEac5U83XxvIv8Bb%2F8a73BKIdQm0ytEdNBJ3ALP9RpZGuwLze7PsY%2FnVvh0KlEV5mTBWnfYgDw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585861940%2F333c210937325dfb26b6bb637259071b%2Fvideoplayback_3.mp4)
 
 #### Comments (203)
 - **ふっじー** (May 04, 2026 02:41am): wwですね
@@ -5057,15 +5057,15 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 04, 2026 02:27am
-- **Updated At (UTC):** May 04, 2026 02:27am
+- **Created At:** May 04, 2026 02:27am
+- **Updated At:** May 04, 2026 02:27am
 
 ---
 
 ### 23. Drive
 **Author:** ふっじー
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5585137555/2417a25d8eda7470b7c7673ba108ba58/drive.mp4?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=g34KV2n%2B7Z7VWVvf03qKe6tAPwqomvZXztsx0dTerHDWZsai2nHmqh9Yq3XPuvxmsWfR2asQYUz0r8LO6rYiPLOGKsJhq1ib9TzNva%2FGlCYivPFm5dC7zYQNVTA1NQYKxAydTIJAGXNsBjaxTJvrjiipoQ1vpdU3n%2FuNu%2BjjcH2XQBDjoTSuS7yK8SVALFiKsWUpd1Rhg71AJJU0YbNcoPxM2xcLY6pwLCa6PdnrkFzJ1QaQR5Zj0b3hdYHvIwuiBgF61xVDlYsa3sYf86Ixs7iCgfs4vE6svLGDpFWIt1LkF7tWdJnF0owyii6LG42ril5rUgWi90af3lKrZ%2BqOkA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585137555%2F2417a25d8eda7470b7c7673ba108ba58%2Fdrive.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5585137555/2417a25d8eda7470b7c7673ba108ba58/drive.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YU2oN7kqz8ft4799Tc34Ft9%2FCWhTY5j87%2FjsfsE%2BcOooqKumRKcnPTunByEuSn6%2Byms8w2DnYz534WlPcX7vInYcRtP30aiBnIU%2B2DYdL5XvnEpx620uvQ4JoteYCtmtBoOOoXpecrS575tnuD%2FZD6%2FrSboVL2rpf%2BTBZXyAP1hJeISNILAMKg5bVxaaj%2F4zdL88oOQk8S%2FNAc2GLuz4QkL7RQ3BKWWBSRwM54fDcQAR9pL2cbywt9c67UGchJqDaizjVr7ACDCvlYT91hwCTLATPlUilvb1fZvrIUHEGkLG2ybBJVbR%2FG3i8qP1Mz97P%2Fnju2vP2cf2Pm%2F8Nyd0hA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585137555%2F2417a25d8eda7470b7c7673ba108ba58%2Fdrive.mp4)
 
 #### Comments (6)
 - **ふっじー** (May 04, 2026 01:07am): 画質すみません
@@ -5077,15 +5077,15 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 04, 2026 01:05am
-- **Updated At (UTC):** May 04, 2026 01:05am
+- **Created At:** May 04, 2026 01:05am
+- **Updated At:** May 04, 2026 01:05am
 
 ---
 
 ### 24. YAJU&U
 **Author:** ふっじー
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5585137555/4f04731e127a26882a12fb69bbe9277d/videoplayback__1_.mp4?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ypg8IYMkINGyTmnQGIppMwhaFWJEzJZAeBojw1jmJRzVQPav3E%2FUFQbDCAeuUf4uBe%2FqSvQpodcGGEqyv4wqIRd5wVqG2JHU2UbpHsFukb5ZcajVRMOaOoCgFJ4uwVDnbPNWBNBi09z1T1KRGLWJguiqyzZGxRdc1Kyiu%2B0TNje87TrY7zcLflxdh6RnP2a3vlXybvb1ooavhlXVl6a6zaqgoNEVwP82kd07XwbbULS5ON7LfQHy%2FLH1KdvN%2F4ewaZ%2BZVu9RE5C09oYYc0ARGQlo71SdriWJU%2FQtom0FBKzY4L1nV7RTcceo9mCo6U1941F32ZpumnUYKufE4gbzrA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585137555%2F4f04731e127a26882a12fb69bbe9277d%2Fvideoplayback__1_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5585137555/4f04731e127a26882a12fb69bbe9277d/videoplayback__1_.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=D10orcIewd%2BU%2BMizD219CPRAj%2BYsYNm6XPMM5%2BNqEwnZ1KcxWF7K5V8y14oNrA27MvrXzqr4c%2BLUGyVOEGJHyKzm%2FV0H45t27YvKI0GkMGgUz9SYb4Er13jeMs%2FKsrJO8CwVuPx2fZ3NY2VYm8rMBOnDwzBIBOkTgu9A8SgFF0d1CN4tBA0QvH%2FGYdknIVIV4M2mTK0MlnNSs3nE3AxSUCIT7edzWLTg5nuCMyf4UQZq7qILqGzZSX5Ge1pLeU%2BXKKecKKwZeGup0Pfl2x7E5pZZfqytCCjV7oR%2FWAE8xCsRgGbDc1HIYtzrgIXBJpchTqwB5g2h%2BXCRbrvayZisqA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5585137555%2F4f04731e127a26882a12fb69bbe9277d%2Fvideoplayback__1_.mp4)
 
 #### Comments (4)
 - **ふっじー** (May 04, 2026 01:04am): ひーーーーまーーーーーさんありがとうございます
@@ -5095,15 +5095,15 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 04, 2026 01:03am
-- **Updated At (UTC):** May 04, 2026 01:03am
+- **Created At:** May 04, 2026 01:03am
+- **Updated At:** May 04, 2026 01:03am
 
 ---
 
 ### 25. 朝のヒカキンの庭であー
 **Author:** ひーーーーまーーーーーー (114514yaju)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5562918343/51069a93931639ea1de19af7566a4a3c/_____________________publer_com.mp4?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=CiNLsaNulV47nGxbLt%2BExNmJlJqcYzB%2FysVPZll9kviIVFg0UpNUex7uyVGYHPqPc3Xswf%2FF9Um0JkI7XiwfOlKZmgYHwY94QzTWZ%2FtjZoda%2BSot8yt90mICwLnAJ%2FUObJX4605IyA2VHqO6wiL894htlj7aLu3bcqfuDP1%2B1pzkXvaywQ2PGib4ewb5q9stTzWEGZbNPm8gsz%2Bfl0MCK%2F13PeOu94IUv16tKSUyYl2VWcBXr0TiXRUiSJTkl8I3MkO%2FxI1tquwsaLAeKLR%2FFFddsZJ5hDqU6A9E272zxZDOBvNu%2BI6ZmywqTZj2%2Bp%2F3vwRRTB1uvfjLZqN2YIH18g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562918343%2F51069a93931639ea1de19af7566a4a3c%2F_____________________publer_com.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5562918343/51069a93931639ea1de19af7566a4a3c/_____________________publer_com.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=R1VIEGChlXJ%2BjguTLSBvelWd66ZbL0gYAhfvAPa%2B4iq085Jx%2BxSRNusmfhBvL%2FPTOUZx%2BUY1GfhQHV0crivh%2B4xWJkc0lFpiXO6aRkQWSeAHH6EY3KvAW1VG57YMPXYYiU%2FYWHcUvLM17RGwaMLlJjkWOnvi%2BzZhML6LjVCp3c3qDHHl%2Fz0ZFOK3a8SR3c9G61YFIpUZ7wuaoOgaQeho1lO8fi9zyS3OszgoDjPxXGYAOZPERSMLat3yHH7UZuPRIUSoa%2BuI1T86bbyTaZ%2B5vVEQces%2Bxihb9hCQg0lIzHpxQoy8RwRJwzhl655lLcas6g0dfTH5sfCKMaGlIBcA3g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562918343%2F51069a93931639ea1de19af7566a4a3c%2F_____________________publer_com.mp4)
 
 #### Comments (2)
 - **ゆーりんち** (May 04, 2026 02:05am): www.
@@ -5111,8 +5111,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 04, 2026 12:52am
-- **Updated At (UTC):** May 04, 2026 12:52am
+- **Created At:** May 04, 2026 12:52am
+- **Updated At:** May 04, 2026 12:52am
 
 ---
 
@@ -5129,8 +5129,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 03, 2026 09:24am
-- **Updated At (UTC):** May 03, 2026 09:24am
+- **Created At:** May 03, 2026 09:24am
+- **Updated At:** May 03, 2026 09:24am
 
 ---
 
@@ -5139,7 +5139,7 @@ proxyサイトなどを共有しましょう
 
 <p>スピカ</p><p><br/></p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5562918343/03ab772ee08514c2ae3c9777021bb8ca/______________Rokudenashi___Spica_Official_Music_Video__publer_com.mp4?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=CVyiBbNuvnHd6x6qdzCGDNNw1%2F5uKFQhTEZyp2l8aDeEt26ouBJyjsquIcUyyf%2FclMLuv5mSAsuParTMNveSiCi3B%2FhSXexnHXFM3LSc7jpL0ovc25GRg6yvHU2pLxGqeESfsLSNSqs29qTVPuyDPdGcIlAssDMpX%2F2sC0CITSjQqiRPBeu3JNh5toAyHH3zXDcRNs8UVRy0r5CETr34BlGnN%2FsTtpItX8lHQ5XnvFxlF5jGZ2SDToS3p0SJcAQxC4STI7bzmxTL3mbYtq0LE0pKxClpcn%2FA2SG9AkKm5sbd6rW7mSwTaoUaodhX7VL3k2haPwjrR%2F4GulbdSsJ5tg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562918343%2F03ab772ee08514c2ae3c9777021bb8ca%2F______________Rokudenashi___Spica_Official_Music_Video__publer_com.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5562918343/03ab772ee08514c2ae3c9777021bb8ca/______________Rokudenashi___Spica_Official_Music_Video__publer_com.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=h0Bf6C0WWo%2Fj3nSKILwnlcljkQ%2BNn54kjaNUf6LYerJAohasqJeHeQ3VU0ljuxGBtdd0Uxioam%2BpQ53bDkWDvFNKEmQuGL6H%2Fz4boG1m6LK6efx8bKKJupLXvepJ3EJRM1A%2FhOAROCnXCHY%2B7jn2v%2BkV7Ilhg%2FhFCiXINeeyEy5I3SiAMmoCFpEUeg8x6LLtk1UOQgVGUJQJZZZ3DMYtrWSdYeaxCt0K%2FK7xXQbaWobM0hG7xga4y80U5HRCUsn1fiuYionSNIobfZddYap%2B6FHqAxhV52LkU3z9q5KoXubiPA7%2BBfc9RnAsZ%2FlFdf92DvYJQhyD5%2BECKTKVHt242g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562918343%2F03ab772ee08514c2ae3c9777021bb8ca%2F______________Rokudenashi___Spica_Official_Music_Video__publer_com.mp4)
 
 #### Comments (13)
 - **ひーーーーまーーーーーー** (Apr 30, 2026 01:25pm): 画質悪くてごめん🙏
@@ -5161,8 +5161,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 30, 2026 01:24pm
-- **Updated At (UTC):** Apr 30, 2026 01:24pm
+- **Created At:** Apr 30, 2026 01:24pm
+- **Updated At:** Apr 30, 2026 01:24pm
 
 ---
 
@@ -5175,20 +5175,20 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 30, 2026 11:44am
-- **Updated At (UTC):** Apr 30, 2026 11:44am
+- **Created At:** Apr 30, 2026 11:44am
+- **Updated At:** Apr 30, 2026 11:44am
 
 ---
 
 ### 29. Post 29
 **Author:** アマネ
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5562370297/9f216737c676aad15a0d31bc3d15ed00/IMG_0193.png?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=th3wgx%2FUtSLVmAkWA9nSykxRf8xd%2FbRUO6rxAX5phpIyN%2F7q%2BL2ZXuHDnbD9zsyNI%2BmmUJkemZ1DNCIrrmgKQrWdLLTmzh2uzGHcfPUUog%2BGwjsv67qqifYCN2mMkVfmd9YtvqUFGL2Y0hCFPf1%2B66b%2FJm6OfSx9ALGSjm6pHG93nvchkYFrrCc4AQn3hrPeZ534IqzGR%2FKUMcA0wPOL5CgGQxp%2BVRnw%2BK5WF226smPZ%2Fh3yoQmDPAons3n26WiF0YrgkCNu47ujn9x1r7fYtjr%2BuXtSSIIZT%2Fa38B%2FGiLSX%2BZ8iguampK9bMBhRqRCyS%2F1I%2FMk3%2BO1iJmw370Nyvg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562370297%2F9f216737c676aad15a0d31bc3d15ed00%2FIMG_0193.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5562370297/9f216737c676aad15a0d31bc3d15ed00/IMG_0193.png?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ihGMl1U29xfpZhzrO8tq1nmLZ0cqsliepcm0E0QQN0oJJiyMMP9FAbhsEyaJFJZ3J6T5As9R%2BaJiBmG43UYUakx3tKZsbbbUOq27oBdrr6YkdW6GEAp8GyTQlG7%2Ft%2FnED%2BSXmztwQJY26qi1IQAHeA0FsOUYLTY5FsnzykdckcMllPFP3aisFkdIBqNBg1NTzEJbPAlXtruTfr5Sqqd0vNZkonf8ZIO98uSY6nLhGxDg5Fn%2Fbw5qatWqxR%2Bvi9BSolkbLuwLB2ETrFtouc0Uu7vomXewZMegdICx%2FCwilxnVOqn7ct7thOZ5WCtpa475B4R9GARnzrOILMpPMxRm0g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5562370297%2F9f216737c676aad15a0d31bc3d15ed00%2FIMG_0193.png)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 30, 2026 07:52am
-- **Updated At (UTC):** Apr 30, 2026 07:52am
+- **Created At:** Apr 30, 2026 07:52am
+- **Updated At:** Apr 30, 2026 07:52am
 
 ---
 
@@ -5203,8 +5203,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** Purple
-- **Created At (UTC):** Apr 24, 2026 01:05pm
-- **Updated At (UTC):** Apr 24, 2026 01:07pm
+- **Created At:** Apr 24, 2026 01:05pm
+- **Updated At:** Apr 24, 2026 01:07pm
 
 ---
 
@@ -5225,8 +5225,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 23, 2026 12:32pm
-- **Updated At (UTC):** Apr 23, 2026 12:32pm
+- **Created At:** Apr 23, 2026 12:32pm
+- **Updated At:** Apr 23, 2026 12:32pm
 
 ---
 
@@ -5235,8 +5235,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 23, 2026 07:05am
-- **Updated At (UTC):** Apr 23, 2026 07:05am
+- **Created At:** Apr 23, 2026 07:05am
+- **Updated At:** Apr 23, 2026 07:05am
 
 ---
 
@@ -5245,7 +5245,7 @@ proxyサイトなどを共有しましょう
 
 <p>いいよねーーコレ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/73bc556cf6fa2b84b73827f1e6f9431a/MONTAGEM_HIKARI.mp3?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=V9DDEQU2MwDCxVOikw%2Bdx418FZqBhq9gY9ZXdJx2Sof2jGyrC4lZgqpWytOy%2FDh4h8b3x%2FY1ClUm9sYltjyt5wfyOiKyfkX8X6apzt3tIr6PEZeMlK2LZ%2B3Kr78wV9s2HzAt2%2FnvO1hWdvbCpxZimDjPem3WafAZQ11FzHagIOvD37VsCO9tjnpECAH0lmXsb0ZZ0bUkvpAlSFOPHNuQknaF2RVANxX1xqGLYsSdY0kU6LAIigqz%2FluKt%2Beknsj%2BtRpdgki0BFnXdsQ7bTeMK4ZVkxv%2BMVfITmgrjt%2Bgo%2Bss8yXMEQefUW4%2FXAAAEor8aXcSHz3juC3iHTNj6a9qmw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2F73bc556cf6fa2b84b73827f1e6f9431a%2FMONTAGEM_HIKARI.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/73bc556cf6fa2b84b73827f1e6f9431a/MONTAGEM_HIKARI.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=v6SnjN6d3I8pcdD6Ms1oeE%2BZEMtd7781RCTV0h8hs2tlOtTjG3hyK5hM6dU1Fn1N%2FtQ0rDpe2vqbcDUS7uRl5LQx7Dxeh5L00mUaCAYU%2FcOoWrOnhcar15WSDexu81CE8bbJN1HFij8lyEAKz%2BLxMKr4Qad%2B0x2RK1%2FU6bv5Mlx1HD3EFZzMLQNyf%2BmG5lqDSUsDYyl452%2BL3fUnTmdRYwvOA6jSjR%2F2Yzg2JVAqX9XJdEQiFytadhnGyfkDg0lO0QxXWrahtM%2FQi0%2BdNm5dcbVdzP3%2FusmubL9sn3jngV9irrMyf5M8la7riQiQt29Rke41s1IQ4S9tPgywfDYFSA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2F73bc556cf6fa2b84b73827f1e6f9431a%2FMONTAGEM_HIKARI.mp3)
 
 #### Comments (13)
 - **ぽてと。** (Apr 22, 2026 03:03am): ほんといいよね
@@ -5267,8 +5267,8 @@ proxyサイトなどを共有しましょう
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 22, 2026 02:35am
-- **Updated At (UTC):** Apr 22, 2026 02:35am
+- **Created At:** Apr 22, 2026 02:35am
+- **Updated At:** Apr 22, 2026 02:35am
 
 ---
 
@@ -5277,7 +5277,7 @@ proxyサイトなどを共有しましょう
 
 no batidão 
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/a6d18efbd1dfe77fe1bd0a6bf36ad6ef/BATIDAO_FUNK.mp3?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nTeZ6IRbmj1yaza1iUTMzojER4LrifKnRH4GA%2B%2BUuQmFWqsxZ8d5pkD%2B%2Fqmsc4l07mB8qtWcF%2Bu%2BLZVnafL1BzzHScvmjvhBvAI%2FBQGAZAKove1jX9g8q5V6CXcFwkRMN3j4FJB7Ans%2BFWYEsC25%2BzUzSvLrvN24Lu5JqRP1u0Jhu56GPI%2ByILTnKIk2KYQXR8FIzYXZdzTUkmuyKoDX5IZfnJeAo6LkSMJF46hEx25Dx96V65uSjwqD0reAR37nCXA49rcTll4mBulJI28ydFDGguPLlyIG%2FdC1D7eXrAGt%2BlVKmlFTMY0zLfLol2UZxxdVUnf1LWnXt0eG7IRg9w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2Fa6d18efbd1dfe77fe1bd0a6bf36ad6ef%2FBATIDAO_FUNK.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/a6d18efbd1dfe77fe1bd0a6bf36ad6ef/BATIDAO_FUNK.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=f16Mpx%2F3iTpyWV6DqB4%2BIk6w2EFWSHNDe41qQhM%2FzPtrQ5IKSE%2BEXyPSeLOFuS3bNNB9ta6f3akqj6GYyYzcQ%2F%2BO3%2FtaE8rWarzk0FcwoZp7y75W9ixy1GewqVE%2FlDZWUtEah1E3XbZyxw7s5viWAikCY9KSlkMxUT5aJXBS%2F3Nj36qrqadlUgFjC71AbAYbzvfUdfX5UTxq9Cj0Mnhw1TUfrDjI4%2BJ1Puhydft4IyUzyDryeR%2B3CNS5zE4vYMUwJww8h268Llv7%2BIoF7AulFDUdXRZFXBGtpyy6vKPwMgJKy7D%2Fn6lPnAKfTgUsXNmcaDo%2FCTW60wJrk9BbjNc91A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2Fa6d18efbd1dfe77fe1bd0a6bf36ad6ef%2FBATIDAO_FUNK.mp3)
 
 #### Comments (9)
 - **NyrikX(足立区陣ICFS系)** (Apr 19, 2026 10:17am): GOOD！！
@@ -5295,15 +5295,15 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 19, 2026 06:08am
-- **Updated At (UTC):** Apr 19, 2026 06:08am
+- **Created At:** Apr 19, 2026 06:08am
+- **Updated At:** Apr 19, 2026 06:08am
 
 ---
 
 ### 35. no batidão 
 **Author:** 削除済みユーザー
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/a1582300f7a5c896205c39d7d4c6ba36/NO_BATID_O.mp3?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=asqdK%2BOV2dcWkxXp5eid5YqSXvZgXwQefa1Flo%2Fp24NRhbDPqAondrdRJTjbWfcWhj6UtNXn5SJbl98G%2BJda0p9P1Sb9D2ekTBNQnYoBgK0fC9Ib1%2FdgLikRyDKfxLk7yjA7VBhbChu%2F7CH4MNowWMVc6DuCdQPIpUrSNZyctOcp4gNP1nfdwq298h4Z7Q%2B67fthu%2FBd5y9ukIxWX7KDakGKkKmP%2BbhIP6LY5vsdV2zBeUJlbYp3r%2B7qCvKGcnlW9xljyGguN9wnEm8435qF2NEpD3m6Y57pVc0Uy4UH9RQuClRz2byRuup2sHAoUlPvRtPPy5hWTDCt0c1wQYKSXg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2Fa1582300f7a5c896205c39d7d4c6ba36%2FNO_BATID_O.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/a1582300f7a5c896205c39d7d4c6ba36/NO_BATID_O.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lVV3mSPagq8kzCyzWob%2FjOMnPkbnhNL8i311kdE7K3D4sLm7Y6IpYg0bW2wdttNCigj3gCbHn8Y7yWGA%2B5JF0XacjOQhX%2F0s4HUVawPxInbKZyWmsSe5MGEXsVYkzqoGuqDsO4MrCsGnPvRkbb%2FiL5fwhD3wsCxsZ8pX%2BSUrPtF1EJ6Mlh7qX8exrp1xYiEkuBurNE2IZXlUUozZul5%2FEXhG%2FJP%2FvFwTigRIaOwRzSYM4aKA1uwrYXSFqsMwe111HyFx72h7zZk%2BPq%2BAQm4I9%2FbTDhrQ9QuTSUCXZWo1VjV7ucBBuMh8PPkbrwKRB8ez0s4Uv4BM6oAyF5dMtfQP0A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2Fa1582300f7a5c896205c39d7d4c6ba36%2FNO_BATID_O.mp3)
 
 #### Comments (4)
 - **NyrikX(足立区陣ICFS系)** (Apr 19, 2026 10:17am): GOOD！！
@@ -5316,8 +5316,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 19, 2026 06:07am
-- **Updated At (UTC):** Apr 19, 2026 06:07am
+- **Created At:** Apr 19, 2026 06:07am
+- **Updated At:** Apr 19, 2026 06:07am
 
 ---
 
@@ -5326,7 +5326,7 @@ no batidão
 
 <p>ありきたりだけどいい曲だと思う。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5446723822/c95c21e8dcd9e08e4cf91715f93856da/01_KICK_BACK__online_audio_converter.mp3?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uKkJgH%2BLnVaA36cHsEFybDeNa4jVV50JoBOkb93CjWUbv0RpIiTK%2BkhNk8BgHgYiJtard%2FRrWCvSwYetYkrGUk9fOZ%2F36xBYcnnt%2F3ZJA5m0SNsAHLPAY6YW1r3%2BbI6k4GZqJY%2FYjqEVUq8ToSAFhIFgMFUz4tzt%2F7%2BCrxQDLZZoV2Yk%2BfSiS7HmCZISbNarbIlbmsO730Sj%2BJQh2dbcbmhVA1fBDvhx3QElVoLbKeV9XAZfdjZ%2BL6PiL0eMUDQQSg3NnAYjRphk%2Fug2SylVlhAO4KEzpNTTgHMEq%2Bf2x6rbZja0%2BPp2E3DwIasu79gptAOWQsL09%2FNjUHvBzeY0rw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5446723822%2Fc95c21e8dcd9e08e4cf91715f93856da%2F01_KICK_BACK__online_audio_converter.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5446723822/c95c21e8dcd9e08e4cf91715f93856da/01_KICK_BACK__online_audio_converter.mp3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0pLvWxwad%2Fa1lPLoMRm6GQg%2F1gA%2FxtpkSrW9qTa6UDc0LHDgHUOOAGsjvisCWVy36LHCScK3hdzmDPB8tldnIw22Y9EM2fFYrQ8kmUqfWkhIq8VFDgD8%2BtB3R5xUaRGmHNtvkaQGR8FVpEROWACvCLhpLQBX9CjXOYmpsOXWx45%2FN%2BAr3JTgNcIjxdjUAso4SHia8Q6nWYeCcz9lB6pbeTxnBcjrHGPqZRKa%2BPomHAVV%2FQqFzCe8M9UxBv6OzUkMZu9s9DN%2BEPExyJMyhpgd4WO6Z9W6WWwLtHIGamJxlWzyjYblqskRKFUhaqWz1vRDpvke7MSacBaryDQC2TD1AQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5446723822%2Fc95c21e8dcd9e08e4cf91715f93856da%2F01_KICK_BACK__online_audio_converter.mp3)
 
 #### Comments (4)
 - **クソババア** (Apr 22, 2026 10:15am): えるにーにょが。。。
@@ -5339,15 +5339,15 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 09, 2026 06:20am
-- **Updated At (UTC):** Apr 11, 2026 04:38am
+- **Created At:** Apr 09, 2026 06:20am
+- **Updated At:** Apr 11, 2026 04:38am
 
 ---
 
 ### 37. これ聞け。飛ぶぜ
 **Author:** ピアニスト
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5422824475/83d0736ea78bdc0a99d9e56217529744/YTDown_com_YouTube_Media_djeM_0EHv9I_001_720p.mp4?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WlDVBc8G46nGopvYEjXL2sjTEJmHk4fgSslNoRlYPc3bZhDuIv0YeU64XFthNfo3P96%2Fpg8PgVIh1Fd7MxgROEGcq%2BbbBEUtX3NN156pL2R0%2FqS68XS6SzweerGQaKs2Y%2BTnXh7Nk6X9cXwUxDQGMfEkQpWjmUvbyswk31cpK4iYO7tuZuTKiHSyAa5DLZrbLVFx69woVo%2B56h2tJ0du5hcN47ZcD0b4z9oDvGFKhcBeRS0%2BEg9q2ZfQGMJW0Adz47mICSyZm6ReKejRcAxh3mNW4%2BFxTRapW%2B5RGY7CcZAKI%2BC2ra0pbm%2Bfoq08m0TWwRqp7eafoXspgxpQb29LOQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5422824475%2F83d0736ea78bdc0a99d9e56217529744%2FYTDown_com_YouTube_Media_djeM_0EHv9I_001_720p.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5422824475/83d0736ea78bdc0a99d9e56217529744/YTDown_com_YouTube_Media_djeM_0EHv9I_001_720p.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qW2Sgxdf1iuJrqFiKY2qZ9EGjgM5KELSj6yCHR9Vcko8l2nm4V90syk7A3iBhq6nWsS4FDF1iK69qq5GiWMRWwtGAkIJg5qqgyVS%2FfCyYElT2P2PWf3euaTXYqxsN1KV6J7%2BVlmPgpP1tjf4TewvxopNrxwV6vFraFhCOBMa1TtPdVEIze8ViB8EHDTEGVNVqyirm4mNyVL5eqbcly3OiroRCLwOwQ5Ax3nS9ttZurFa9zhoyzaRagshpHIPQSiWjo6DCek%2Bo4%2F7D3kWpEDK%2BwSs9KMGszf%2FdLDkxIZKdxcpuziw0axG2IQtD3R%2Fb%2BZ2B0VGdslGddE6PqiJWco7vg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5422824475%2F83d0736ea78bdc0a99d9e56217529744%2FYTDown_com_YouTube_Media_djeM_0EHv9I_001_720p.mp4)
 
 #### Comments (9)
 - **イザナギ** (Apr 05, 2026 05:24am): 知っているぜ　ナイトオブナイツ
@@ -5365,15 +5365,15 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 05, 2026 05:18am
-- **Updated At (UTC):** Apr 05, 2026 05:19am
+- **Created At:** Apr 05, 2026 05:18am
+- **Updated At:** Apr 05, 2026 05:19am
 
 ---
 
 ### 38. ミセスのlulu.
 **Author:** 匿名
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5409114356/1b5a266be2d634b6785ae07b6b47c152/videoplayback.mp4?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QQdkHHomouw2LyUF16RSIrB0SmYW3VFw4DfZXEkw%2B73vYG%2Fykaa0l8S%2Bc2mDodE3mrlGqlfPWYxQX7ND3nNuTM7JCNXTP6nA4gRHLQymYVnZtRexBG6liDA9jC137WkL5uF4goRzARd5NLKZztJJe7h1Octx1etBfryySz2LfoDs9bU%2BWTZHR155VStuMZrJawfVU5crBVYKNbQPjNlAssp8v5loUmHZ9VyTfqbqjwfAWqfB8J29V3aKE1BYZIj59ncYFSIY8%2Bs%2FourS4EaSw0weWeou6mlyyfnc%2BvV0eaDT%2BkuZIfMoYT7Zcnd5i0kaUUxV49bXMTMu%2FDG5mVBkpg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5409114356%2F1b5a266be2d634b6785ae07b6b47c152%2Fvideoplayback.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5409114356/1b5a266be2d634b6785ae07b6b47c152/videoplayback.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pZs0ugy2j9X6Jk%2FhA8g3RU3hV1L1WyV8wzEC62qkXr0noMPOZ5iuu5oOkWk6xT4iXz9j8IZ5ElcBk0gVO9QBsQ4Jye0m0%2BNxnLuAvOiYzMXRszaEpx9youHQrfWfVPmdqH998xveza7mqaMABwmSn5KwcWdAC9QgZSfVrPOfYQiS0cBIAiBXHxZvlgfT%2B4BEHmuyvbsttObis2aCAjxfGidmzUwkLMy6M2anhpBS4iitFFI97gSndpYFbwYDG4BBGu7FvkVryA94mUchdwuLD1OLmvt7HcW4WClpGIdWBYsYBz7rqfKwGwPLX0nAe2sRuWT3kpRiq%2Fiz%2BmPb66mdSQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5409114356%2F1b5a266be2d634b6785ae07b6b47c152%2Fvideoplayback.mp4)
 
 #### Comments (3)
 - **すずめ** (Apr 02, 2026 02:22pm): やっぱり葬送のフリーレンのオープニングテーマだし背景がね
@@ -5385,23 +5385,23 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 02, 2026 02:35am
-- **Updated At (UTC):** Apr 02, 2026 02:35am
+- **Created At:** Apr 02, 2026 02:35am
+- **Updated At:** Apr 02, 2026 02:35am
 
 ---
 
 ### 39. 嵐新曲
 **Author:** m.i.b (6355029)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5284280134/ec3bce29bec6e7a45ab7c03a80fdd0f9/videoplayback__4_.mp4?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wkiLlbLg86AqN0i%2B6C51APnbTepF45fT9tWprKBZUF21a2kvbsAvJwAPhcw8tUctjm4oapTsB0gHaM0oqTgY0NbI6HLvkKXVuOMNURJhuil8Acd9%2F4KefMcAugXO%2BSPscQkSwUSgu%2FMXCPP%2Bok4RjhYVJM6muDbn9%2F%2BOz0W9wJE83AP96XWAO44c32B7iQm62WGjaPA7KI4%2FnxbqZWkaiObTbVxfIJ5sq7N7H7%2BKiEbb3WKHudLYkoAyuWWGKDren3gAJG5Z2ISocpAYtONkaxybSPp0USflixsgQjUJHiRyHYYRSKIYa1vDtFg71WaU5JYl8tuLqk4r4NOXYZxe%2BQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5284280134%2Fec3bce29bec6e7a45ab7c03a80fdd0f9%2Fvideoplayback__4_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5284280134/ec3bce29bec6e7a45ab7c03a80fdd0f9/videoplayback__4_.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=R8JpyfLO4w8l33VN6Gvr%2B5ItobqM0XwgIxZP8MKtRJNlM417FER7%2FUjGZrLe3p5SqRiVvZw3hYeiuRNQ1h9FRe%2FFnZeviOX2OeWfKV0KGiqp1GKO%2FeXAC82E%2F53Uiow9lIBzHh8a81gf%2FHFwe4GD3E62vY%2Bdn7lfQpnLGpmRPZwx7KAbhqL3eFUi%2FQ5seoDFzg6d47DyGaZg%2BxFEn1WzA41%2BjYYPDq439R4m76b2qtUx7nCrlWDZLVmvpOttOyeIcTKvsssTQHCII5U2b%2BFdQNea52yRIRrId1elgJY7IQVKvnPtHFvFfkaxgazHxibtg24jDVR3K3hy1VrGj%2FvOew%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5284280134%2Fec3bce29bec6e7a45ab7c03a80fdd0f9%2Fvideoplayback__4_.mp4)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 21, 2026 01:24pm
-- **Updated At (UTC):** Mar 22, 2026 02:10am
+- **Created At:** Mar 21, 2026 01:24pm
+- **Updated At:** Mar 22, 2026 02:10am
 
 ---
 
@@ -5410,7 +5410,7 @@ no batidão
 
 <p>ちなみにGeometry Dashの音楽</p><p>私はもうこれクリアしてこれよりむずいやつもクリアできてます</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/8315bbd52c0acad1cbfc3849bad0c345/__Explorers____Demon__by_MATHIcreatorGD___SwitchStepGD___Geometry_Dash_2_2__1_.mp4?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lFjyhKtDUTJwCtOLr1yruxxCKcIEleENnMU45qTa%2BTFEVmz1j5YtWPgcEiik3JGN6AO1bNoUjW%2FFatVP82a%2F4BOk24ZZbgXenVI2JVjVb6mFxxu51StYgqOA0bIGp193f9EWY3CRZLcj%2FSbzHMv2xLbXD2wcq6fc2kNu5%2BZeUzCVoFwvVt0UMqOP1SwZ5J1SpZxHvhcuyAHKzpDU%2F5rZxeejOpui13M0rOU3mMfAXqsyUvyOy6WnYqOxw37vfSU%2FOVii6HPC8tjh%2BNntx4S%2BBikDJBaUc%2BbUBFYldDd29YT%2BYNcujKE5qCVjLzS20iW28L1G6k9o7dvPJZiXQVz6jA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2F8315bbd52c0acad1cbfc3849bad0c345%2F__Explorers____Demon__by_MATHIcreatorGD___SwitchStepGD___Geometry_Dash_2_2__1_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/8315bbd52c0acad1cbfc3849bad0c345/__Explorers____Demon__by_MATHIcreatorGD___SwitchStepGD___Geometry_Dash_2_2__1_.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ccfjzNEXpvn%2B5aXs8uk9gcHwxPBhdIBkDvd%2FaCaYDWK2oB4lg9wWEdSuxtBjBFNO9%2BxNgUKvFjcu04cKRqcYGIHlJJy6O7%2FpTc15kyd2qoqudzhMebtirar2C7lOmWlVyRyu1Z1qi7UvbN6vRxG0JcsAIOWE72yD4y7fzbV7DLMTMkjJsYRyjfWZPrMqgjB1zWBbqsw%2F64D8mRRg%2Bjt%2FBcd3T59o9AajHjVuKWBCtmCSn%2FsJqNTP1rUktTiovzmscsXPrlEGboWELaoJ9313Sk%2BaadSHKBYLp%2FOeVbQBzvkkf7mC%2BCaPfRAQR0T3ZnrrQ5a6b4xxe16TCIZMIJSMhA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2F8315bbd52c0acad1cbfc3849bad0c345%2F__Explorers____Demon__by_MATHIcreatorGD___SwitchStepGD___Geometry_Dash_2_2__1_.mp4)
 
 #### Comments (5)
 - **ああああああああああああああ** (Mar 23, 2026 11:40am): すご！
@@ -5424,8 +5424,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 19, 2026 05:34pm
-- **Updated At (UTC):** Apr 05, 2026 10:12am
+- **Created At:** Mar 19, 2026 05:34pm
+- **Updated At:** Apr 05, 2026 10:12am
 
 ---
 
@@ -5434,7 +5434,7 @@ no batidão
 
 <p>ひぐらしのなく頃に</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5311265760/3a1938f34bf85c79f910ddc789d518ad/videoplayback__20_.mp4?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VDHVQVpgY4QyEbiSaW90BJ57OP%2FDYEtD7eMkL%2FRSpLWYjrpFIpsZBh0dqCmiC5u%2FDWcHF0AN4qpmGwGRIVn%2Fqc8sVr5lmOgPOQ8xuNWJjvNfff3gvAEedPIBxEe6cjpu5JC31tGMRS8Na4oiH56BaYW%2F3hvhzRjfPddqSTDqBGG6au4QUqt9v%2FllQwR%2BedVf7RVIeDDtC63Qy645tO7GDFRg77MpP5aydBISpaA8ocRiTcCaHVtLNY3eqyKTGGMvMYVApNQCzFpSQxWDw3fWncgPQqoa%2B32wreWI8C5v3VFtrjnKQxvzlg6diRl5Hkv4TxGFA6Q0JV%2BnXpTaiU09sg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5311265760%2F3a1938f34bf85c79f910ddc789d518ad%2Fvideoplayback__20_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5311265760/3a1938f34bf85c79f910ddc789d518ad/videoplayback__20_.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JclvSK3lZNXV9dYqRBhgltrIxE33Iy6qblRs0eYuOVseAZah9XtBzim8ZFWFc2t9ue1UD3lmrrocoke5KSGnsNUkr5kPz0lImenydC4dh4%2BUs8hgQFtGG%2B0l73eWuIz6bAdQec3MKYHw5r9UeOhTj8Q0hOXcRzsL4hQ3lZjOMqWzGcPymSSGNlp6lDNkf7WQs9TZpOsbHq1fyT9T8gFrm5f6E8W5WWHkgGjAwfoWVwJ7U7v1EVy%2FFmG1Ups9BlE6nE%2BX3Vb1dghrOWct2eEQ1C1hhEUZ5zJBfY9CAlSjO%2BOIdvZHPcblrHqVScWyZy8s0BJ8L5%2F8%2BdhzL6uTpuQPgQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5311265760%2F3a1938f34bf85c79f910ddc789d518ad%2Fvideoplayback__20_.mp4)
 
 #### Comments (1)
 - **ゆーりんち** (May 02, 2026 07:49am): 聞いたことあるような気がする
@@ -5444,15 +5444,15 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 14, 2026 12:25pm
-- **Updated At (UTC):** Mar 14, 2026 12:25pm
+- **Created At:** Mar 14, 2026 12:25pm
+- **Updated At:** Mar 14, 2026 12:25pm
 
 ---
 
 ### 42. 興味があったら聴いてください
 **Author:** ｗｗｗｗｗｗｗ
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5275939731/051df53efce00bb4c3ad9a05c57326f1/videoplayback__3_.mp4?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kTqonF4cxcu4p%2FSjfc9HCd9XOPnItam8xUyFZ%2FjbpRT0J5iiu4n3R2J%2FlK6zq%2BBGkh2Aq0ULaCYwZhVi1Zkcq0HIOmYF2FhITzSX%2F%2FsmSZVIFCia29JDf3v1tAzfwXliJ3yXnAnS8JF3bIqF6YHWFWrnTDH4L02rh74nRVawEjRTJ5dR5jRErs%2Bxiapps8X5v80jasa6W4cL5aeg19zjBIYXwbHJZxy0t6MEjfJHOpioIXq3C%2FhHkGCXC4KwZt5IkS8GU7VNFNDqG4B2VZYhFAmOqnoRhMldwUZxfyJM87Ago9xCcCEmuLynPwlcai2fKCocdV8AlUQDnRsM0T6k4g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5275939731%2F051df53efce00bb4c3ad9a05c57326f1%2Fvideoplayback__3_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5275939731/051df53efce00bb4c3ad9a05c57326f1/videoplayback__3_.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1KK42BZpJwzZ%2B04aYKEYs5WdCQkz0Fi25IRfT47xAFio19gm0GB1ODWpFJD7gjn8ekMEhkhddEod7OQWdek2NKb9GAlpTKpnQX5XSOPFRIA1FA2yRRWJ8OZVuCkr2F9JAANwkL7%2BhEEKjP1I9JWwurBJFpnowlli7d%2FXv%2FFi3KRxa00gcUSK0ksy31BlYGg1wifznDzfG%2Fb9drGLEbgdub8pSRUjVhRv5kZb1H1B7bT5fZg31ib%2BL%2FuQpe6vxBE56TEhh66bvqIe7MoJRIFQg6yuFB2A4BR0Xjv2GmOMMUE4Ml7%2BQMxAd5VT9loPaMjpuiCtzWqLq0SDbD%2BfqLxpZA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5275939731%2F051df53efce00bb4c3ad9a05c57326f1%2Fvideoplayback__3_.mp4)
 
 #### Comments (4)
 - **Passionate Dragonfly** (Mar 26, 2026 03:28pm): やっぱ名曲
@@ -5465,23 +5465,23 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 07, 2026 11:17am
-- **Updated At (UTC):** Mar 07, 2026 11:17am
+- **Created At:** Mar 07, 2026 11:17am
+- **Updated At:** Mar 07, 2026 11:17am
 
 ---
 
 ### 43. Post 43
 **Author:** 匿名
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5275779745/525ba12a2ee0dfef864c6a2c8b11560c/videoplayback.mp4?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H0x7kwH40dp1B5uAPI9KJMTL2JsW2D3CKZz%2BmUHLfqsJGpkQx5lsnxTcVjMzc7uiwurnwZlMBZmvWY%2F53XhPs5lZsq%2Bn0KWJ%2BBVNKHH89V%2FXXibysVKqrwrdkv7ZGQUAHIo%2FcQnfpruITtLZbneyPhFLbZN69Za4H6i2EQiPh%2BeJUaoMfTztXMtYPymlM%2Frk9twgs1%2F%2BBgo5pvETO8ZB8PaNUAXHAPhSPqX%2B79Qvu%2BwJ%2BFfgzJYZzYKJjJnpXzPOABPF1hs6HOZ4qoZ%2Fw%2BYypMNDJEeWFdYQQfvqZx5eusnkzq3xaUra%2BNavJga%2B8jPcMkX8avt7%2BUJIj6fUQaX5Tg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5275779745%2F525ba12a2ee0dfef864c6a2c8b11560c%2Fvideoplayback.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5275779745/525ba12a2ee0dfef864c6a2c8b11560c/videoplayback.mp4?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1FM11DSAcEZzcW7CdKwIj28eh%2BPmyCwRxs%2BBaRe%2Fqtw6cTenWSyYNqkrXl66Yy1yNpspM%2BoGWFbNYxFu80mkTNtI9KtNW1Vz3%2FVP2IYdo7DG67gVYfc0kUiFNVBneWVFVPf5XNShDv185Wa4BvHpM0%2BWBvrseXMlc%2B%2BbPP4vTlOaTUv5C%2Fqt1ZT9jt%2FtiINzWDyOkBSL3dcvVcnprOYM5NHGYDsR%2F2r9KIWno1gsn%2FhiRCUMhe91LsB8N3Nob%2BXG%2FgAVFP63iPf8grz48B6Rm6muNv5UKfs7E7lthDr5jF2PXJBSJr2OblUfSjBROhCXhmhnOXSPy5VJYedp3KcfMg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5275779745%2F525ba12a2ee0dfef864c6a2c8b11560c%2Fvideoplayback.mp4)
 
 #### Comments (1)
 - **ギルペナ(ｷﾞﾙﾃｨ&ﾍﾟﾅﾙﾃｨ)** (May 12, 2026 05:21am): [Attachment](https://padlet.com/sennin_sugar/proxy-n0g1c0jl2ak3grc5/wish/x5A7aroAeqp5Qwr6) それだ...それだ！
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 07, 2026 10:05am
-- **Updated At (UTC):** Mar 07, 2026 10:05am
+- **Created At:** Mar 07, 2026 10:05am
+- **Updated At:** Mar 07, 2026 10:05am
 
 ---
 
@@ -5496,8 +5496,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 25, 2026 02:16am
-- **Updated At (UTC):** Feb 25, 2026 02:16am
+- **Created At:** Feb 25, 2026 02:16am
+- **Updated At:** Feb 25, 2026 02:16am
 
 ---
 
@@ -5522,8 +5522,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 25, 2026 01:53am
-- **Updated At (UTC):** Feb 25, 2026 01:53am
+- **Created At:** Feb 25, 2026 01:53am
+- **Updated At:** Feb 25, 2026 01:53am
 
 ---
 
@@ -5534,7 +5534,7 @@ no batidão
 
 [https://periodic-table.techmax.hk/](https://periodic-table.techmax.hk/)
 
-#### Comments (19)
+#### Comments (20)
 - **Sari** (Jun 30, 2026 12:33pm): セーブ機能もあるよん
 - **匿名** (Jul 02, 2026 02:59am): クオ低
 - **Sari** (Jul 02, 2026 05:31am): それはそう
@@ -5554,11 +5554,12 @@ no batidão
 - **ツムギイロ** (Jul 21, 2026 08:41am): 日本語にはできないんですか？
 - **相棒はバシャーモ！** (Jul 21, 2026 10:08pm): ごめんなさい。探したけどできなさそうです。自動翻訳ツールとかないですかね？
 - **ツムギイロ** (Jul 22, 2026 04:59am): 探してみます！！
+- **相棒はバシャーモ！** (Jul 23, 2026 11:48am): マリオやりたい
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 30, 2026 12:33pm
-- **Updated At (UTC):** Jun 30, 2026 12:33pm
+- **Created At:** Jun 30, 2026 12:33pm
+- **Updated At:** Jun 30, 2026 12:33pm
 
 ---
 
@@ -5594,8 +5595,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 22, 2026 08:47am
-- **Updated At (UTC):** Jun 22, 2026 08:47am
+- **Created At:** Jun 22, 2026 08:47am
+- **Updated At:** Jun 22, 2026 08:47am
 
 ---
 
@@ -5617,8 +5618,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 17, 2026 12:27am
-- **Updated At (UTC):** Jun 17, 2026 12:27am
+- **Created At:** Jun 17, 2026 12:27am
+- **Updated At:** Jun 17, 2026 12:27am
 
 ---
 
@@ -5633,8 +5634,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 16, 2026 02:39am
-- **Updated At (UTC):** Jun 16, 2026 02:39am
+- **Created At:** Jun 16, 2026 02:39am
+- **Updated At:** Jun 16, 2026 02:39am
 
 ---
 
@@ -5652,8 +5653,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 21, 2026 12:33am
-- **Updated At (UTC):** May 21, 2026 12:33am
+- **Created At:** May 21, 2026 12:33am
+- **Updated At:** May 21, 2026 12:33am
 
 ---
 
@@ -5662,8 +5663,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 19, 2026 11:33pm
-- **Updated At (UTC):** May 19, 2026 11:33pm
+- **Created At:** May 19, 2026 11:33pm
+- **Updated At:** May 19, 2026 11:33pm
 
 ---
 
@@ -5677,8 +5678,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 19, 2026 05:06am
-- **Updated At (UTC):** May 19, 2026 05:06am
+- **Created At:** May 19, 2026 05:06am
+- **Updated At:** May 19, 2026 05:06am
 
 ---
 
@@ -5694,8 +5695,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** May 19, 2026 04:06am
-- **Updated At (UTC):** May 19, 2026 04:15am
+- **Created At:** May 19, 2026 04:06am
+- **Updated At:** May 19, 2026 04:15am
 
 ---
 
@@ -5713,8 +5714,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 06:53am
-- **Updated At (UTC):** May 18, 2026 06:53am
+- **Created At:** May 18, 2026 06:53am
+- **Updated At:** May 18, 2026 06:53am
 
 ---
 
@@ -5734,8 +5735,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 17, 2026 09:59am
-- **Updated At (UTC):** May 17, 2026 09:59am
+- **Created At:** May 17, 2026 09:59am
+- **Updated At:** May 17, 2026 09:59am
 
 ---
 
@@ -5744,7 +5745,7 @@ no batidão
 
 <p>真ん中の肌色に当たったり端っこに当たっても死ぬヨ</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5660209922/159351e621e11ef0b8dac0cad3d165fa/Scratch_________4___1___1___1___1___1___1___1_.sb3?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MOgO%2FNKMTBo56Q78YWMBpII4THJggfc3dQhUirBlwd457mu%2BOMb3Yra9kdG1Z66R5r1HKgtbFbbQ7FgfYMTGCr44arx1Uuj3ih10DyUyRBwPOgaHhin7MaQZpF3YpJUTjUq4Cn5HNopLUS6HAduh%2B%2BoYNzAmt4Wf6m6WFNomzcbC6b01M4YI7VZQm5cZEN2NHsGqab%2FTAvjlvfc9YGOivC%2BpPN3c6E5jJ9YKasGnLE8h49gVobZeLqRoMa%2BLNrGsg1DrCGS5mKjh8nvTwMbF309Okv9MpKSWCGizucb2dLE5SQClEtc31630iK8eV0ICiR%2FcYHi3lOf04MVjwuSKVQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5660209922%2F159351e621e11ef0b8dac0cad3d165fa%2FScratch_________4___1___1___1___1___1___1___1_.sb3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5660209922/159351e621e11ef0b8dac0cad3d165fa/Scratch_________4___1___1___1___1___1___1___1_.sb3?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=OTosbzvO7IhIlDmQjkpRE95CUn7ljzbH3XgagJ4Vzs3YdE21nu4yXEP8epyip6z68Dggdi4Zz2GrhYVBmq2Wv78J52DDeykIpiiHxv34kReOi80UoF6Pv7%2FhyXyqsyeseBW%2BgQvrPwdkS%2Bkr8rdPPgOiXgwd8Co0KIH1rbKop0Az%2Fp0hmLUAHZajxhqizTDkdlzQKkvHMyq3P%2BejWX5a6eUqucIwOOLKTV%2F9FG5PQX7sPkGI4hG%2BDsK59U10yeeqdPNImvqx0iEhmMmjCVjFFFV%2BaqLsKWN%2B0r58dMnp8B7Lq22G6XTmb1xP24j0ecQgOL%2BSINLuzsQ3aM1Dtm0ejw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5660209922%2F159351e621e11ef0b8dac0cad3d165fa%2FScratch_________4___1___1___1___1___1___1___1_.sb3)
 
 #### Comments (2)
 - **Hina52** (May 18, 2026 12:27pm): それ公開しちゃっていいの
@@ -5755,8 +5756,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 10:14pm
-- **Updated At (UTC):** May 16, 2026 10:14pm
+- **Created At:** May 16, 2026 10:14pm
+- **Updated At:** May 16, 2026 10:14pm
 
 ---
 
@@ -5794,8 +5795,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 10:08pm
-- **Updated At (UTC):** May 16, 2026 10:08pm
+- **Created At:** May 16, 2026 10:08pm
+- **Updated At:** May 16, 2026 10:08pm
 
 ---
 
@@ -5813,8 +5814,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 08:55am
-- **Updated At (UTC):** May 16, 2026 08:55am
+- **Created At:** May 16, 2026 08:55am
+- **Updated At:** May 16, 2026 08:55am
 
 ---
 
@@ -5823,7 +5824,7 @@ no batidão
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.dailytoolz.com/cubes-2048/iframe.html">https://www.dailytoolz.com/cubes-2048/iframe.html</a></p><p><br/></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5648031893/fe4dce854d3a444e983859040eca8081/Screenshot_2026_05_16_17_29_50.png?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wexaAKG53X4lGPxaBJ%2FiyMLF6cOU3VAcd06hqavSQZXDdVkHb%2BR0NGh%2Fs16XJrrKVWoN%2Bs9JG%2B46Rdzh4iI%2B3AMaqZpAlg9iOpl%2BsCvl1pIEt0vUbbmUZ4NDJodzvBR%2F3J6gH7xi0OKnOb6dAyQ5Ggftg%2FF9%2B0jhMdYjF6ehXa6ki568XGkjs3jB%2FDcaqwxd5yhGDrwZU8HXQUZtFKM0CHWt4rP5N%2FnHCwlHmeX%2BEY8%2Fmb9isz5HgckhwLyE9Edtf3QgW0tlYfFDmejCT13a%2BwU6d08D2NUBx%2BPuDMlpckm4sYH8jIutimODqZxCv%2FmKk8gvXuyahAsWYuQNdA4nTQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5648031893%2Ffe4dce854d3a444e983859040eca8081%2FScreenshot_2026_05_16_17_29_50.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5648031893/fe4dce854d3a444e983859040eca8081/Screenshot_2026_05_16_17_29_50.png?Expires=1785412593&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GzZPp6VNBYs4vGH1DBIVPEvwbKL7bXRFgbbj0TSQvZ3DjpmYnBoMdrLB7xn3RMtK76xM6E3gS4kysh%2F5xm5NQ1kPpM2PDJMmb8jz2yLYtMzqMNdWtXzNg49RXseDgszCDNoQ6v3FxgkzzWFA1CaBvHA1vAvgt8XcFVwFl48kSXZmNwRI2DyE5kc71VCv3jQpTT2tykRb9StWm%2BGuDX3M6CqdvXMI9ZsRJhhz97E9yj0Jc4vzJFC38ve2FLopmXupk9gqCFAZduV7VJJzEkV4CFp%2BEdnnCxsiEMJmSmZrYzBqtHeaLRtphgxtOm7cobi6n0NW0IG6y%2BGOsfOu1uR9oQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5648031893%2Ffe4dce854d3a444e983859040eca8081%2FScreenshot_2026_05_16_17_29_50.png)
 
 #### Comments (2)
 - **うーたん便器便器** (May 16, 2026 10:01pm): (・∀・)ｲｲﾈ!!
@@ -5831,8 +5832,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** May 16, 2026 08:32am
-- **Updated At (UTC):** May 16, 2026 08:32am
+- **Created At:** May 16, 2026 08:32am
+- **Updated At:** May 16, 2026 08:32am
 
 ---
 
@@ -5850,8 +5851,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 15, 2026 02:41pm
-- **Updated At (UTC):** May 15, 2026 02:41pm
+- **Created At:** May 15, 2026 02:41pm
+- **Updated At:** May 15, 2026 02:41pm
 
 ---
 
@@ -5865,8 +5866,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 15, 2026 10:13am
-- **Updated At (UTC):** May 15, 2026 10:13am
+- **Created At:** May 15, 2026 10:13am
+- **Updated At:** May 15, 2026 10:13am
 
 ---
 
@@ -5889,8 +5890,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 15, 2026 09:50am
-- **Updated At (UTC):** May 15, 2026 09:50am
+- **Created At:** May 15, 2026 09:50am
+- **Updated At:** May 15, 2026 09:50am
 
 ---
 
@@ -5904,8 +5905,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 15, 2026 04:48am
-- **Updated At (UTC):** May 15, 2026 04:48am
+- **Created At:** May 15, 2026 04:48am
+- **Updated At:** May 15, 2026 04:48am
 
 ---
 
@@ -5921,8 +5922,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 15, 2026 03:07am
-- **Updated At (UTC):** May 15, 2026 03:07am
+- **Created At:** May 15, 2026 03:07am
+- **Updated At:** May 15, 2026 03:07am
 
 ---
 
@@ -5937,8 +5938,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 15, 2026 03:02am
-- **Updated At (UTC):** May 15, 2026 03:02am
+- **Created At:** May 15, 2026 03:02am
+- **Updated At:** May 15, 2026 03:02am
 
 ---
 
@@ -5953,8 +5954,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 15, 2026 02:44am
-- **Updated At (UTC):** May 15, 2026 02:44am
+- **Created At:** May 15, 2026 02:44am
+- **Updated At:** May 15, 2026 02:44am
 
 ---
 
@@ -5989,8 +5990,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 14, 2026 10:15am
-- **Updated At (UTC):** May 15, 2026 02:18am
+- **Created At:** May 14, 2026 10:15am
+- **Updated At:** May 15, 2026 02:18am
 
 ---
 
@@ -6004,8 +6005,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 14, 2026 04:35am
-- **Updated At (UTC):** May 14, 2026 04:35am
+- **Created At:** May 14, 2026 04:35am
+- **Updated At:** May 14, 2026 04:35am
 
 ---
 
@@ -6020,8 +6021,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 14, 2026 01:49am
-- **Updated At (UTC):** May 14, 2026 01:50am
+- **Created At:** May 14, 2026 01:49am
+- **Updated At:** May 14, 2026 01:50am
 
 ---
 
@@ -6032,8 +6033,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 13, 2026 05:40am
-- **Updated At (UTC):** May 13, 2026 05:40am
+- **Created At:** May 13, 2026 05:40am
+- **Updated At:** May 13, 2026 05:40am
 
 ---
 
@@ -6048,8 +6049,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 13, 2026 02:26am
-- **Updated At (UTC):** May 13, 2026 02:26am
+- **Created At:** May 13, 2026 02:26am
+- **Updated At:** May 13, 2026 02:26am
 
 ---
 
@@ -6060,8 +6061,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 13, 2026 02:25am
-- **Updated At (UTC):** May 13, 2026 02:25am
+- **Created At:** May 13, 2026 02:25am
+- **Updated At:** May 13, 2026 02:25am
 
 ---
 
@@ -6072,8 +6073,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 13, 2026 02:25am
-- **Updated At (UTC):** May 13, 2026 02:25am
+- **Created At:** May 13, 2026 02:25am
+- **Updated At:** May 13, 2026 02:25am
 
 ---
 
@@ -6084,8 +6085,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 13, 2026 02:25am
-- **Updated At (UTC):** May 13, 2026 02:25am
+- **Created At:** May 13, 2026 02:25am
+- **Updated At:** May 13, 2026 02:25am
 
 ---
 
@@ -6096,8 +6097,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 13, 2026 02:25am
-- **Updated At (UTC):** May 13, 2026 02:25am
+- **Created At:** May 13, 2026 02:25am
+- **Updated At:** May 13, 2026 02:25am
 
 ---
 
@@ -6108,8 +6109,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 13, 2026 02:24am
-- **Updated At (UTC):** May 13, 2026 02:24am
+- **Created At:** May 13, 2026 02:24am
+- **Updated At:** May 13, 2026 02:24am
 
 ---
 
@@ -6118,39 +6119,39 @@ no batidão
 
 <p><a rel="noopener noreferrer nofollow" href="https://ryanjetplane1.codeberg.page/Openbeta/@cookie-clicker/">https://ryanjetplane1.codeberg.page/Openbeta/@cookie-clicker/</a>　名前これにする土地‐と使える</p><p><br/></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4323277141/82031854f4bc993acb32d58e9c566643/Screenshot_2026_05_13_10_28_34.png?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=q109LzbXNn45%2FO%2Bnbffldp7Si%2FwLzRcuraLcDX4uw6eqVQTnGd8QFF73BHT2uKu%2BHWxXzZoUsOt6YaJVYTS7UOdPr9HGdNxCe6ySI4ogF%2FVXs%2FfjunKDr8slkBxxoKIHRSeEdktMXHpW021LaakFOtaL1R%2BY7PnUlypPuF8tQFeVOjlQHbU44jZzLeSoU8bpKNYNtFbRR9t1Dc7IOmlLjeqmUckDOKDaNQEP4fB2GiSqvuxYKuGE%2Fm5U2EKiU2LBHFRzNcMwBfcKg8iIzLAmTmrK5HM1QO8b6YlmgC277mHLjfaLnCITz39dhFNX5K3vrPQkewzcP06fvN%2FuozrCSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4323277141%2F82031854f4bc993acb32d58e9c566643%2FScreenshot_2026_05_13_10_28_34.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4323277141/82031854f4bc993acb32d58e9c566643/Screenshot_2026_05_13_10_28_34.png?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Gs5ssgm%2BCz61Zg3taxbhl8PB%2BD2cyTqx3W7Qvu%2B2j8GrajhM%2BVt5ARQD74INXAFf6CSVQv28XWpTwbOscCbCamQCyH967ULovGU2BnRVAOEj5AEhE%2Bx%2BOuYuttLT8kkfsM2H5fhQSsjkPhXf7PRaXPXgcry9h992I7khBLSPMUYRqVJLi5EQYaao94L3GCs5UNYYqVjnwC3dlANvoCJrV9b3GvLbbO0pLNvXHvy6KrrRZfl5EOAQzHmiVIhOl3BzCcUmh1MntRCbtsALkgBYUN3o3n5mcSCRMaqdvIxpG5jfL69eV8GRiKZ%2FLtuuywK6xI9TVhsK4eBE4EYfW2Sg2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4323277141%2F82031854f4bc993acb32d58e9c566643%2FScreenshot_2026_05_13_10_28_34.png)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 13, 2026 01:30am
-- **Updated At (UTC):** May 13, 2026 01:30am
+- **Created At:** May 13, 2026 01:30am
+- **Updated At:** May 13, 2026 01:30am
 
 ---
 
 ### 33. サッカーゲームほしいです
 **Author:** いつき (gs193404)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5554313483/3730200778baf740315de69ef9bf09dc/videoplayback__30_.mp4?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=l0EhUJMRIIjUASEISifLIO1m%2BhBe%2FhZUQA8MJvxPPnhOpeYK4nztz6BEyB5K4SfPQ21z8nMW3aL29qtafIl7euu6P%2B9NcM4VGWScFxwuFRgm%2FqM90bSpWdMtp90cv1wUKOaEpQwk6ZAhG2GDCrRXYHqiL5mP2H4m2TXLKHWuGgkrnjAlqQz9tDhSEFBlra7VjxZvK4GuMhzfX128lWowPkITyT5RtjpN3jtmdAAWdqmUR5bbqskZFfvNKlJyPU9EX4AK8wBLjDsb9fsfF4KL7hXISTn3wJzFcRY2JHPf%2BD76%2BSqk5nY0mLludP33u62YmhvyMENIbaMNsYxt6OqtHg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5554313483%2F3730200778baf740315de69ef9bf09dc%2Fvideoplayback__30_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5554313483/3730200778baf740315de69ef9bf09dc/videoplayback__30_.mp4?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=P%2BS4ObrBHH%2FI5kR47LGEOgikwUxEf14VpJBkyZyYN6ltGoxPNR0aUIYveDp4KnLukyGPsuWbSwgyYIDxeH1cdyv0uvLoIe%2B%2BZ%2FVz6EPyCuFpE6dakKOYWdd9%2BvkwOlLPEvITEG7lNTCe%2BRmUxZRL0IfH6G0fGfdjusxJPGLHy5dlHwwOgNpwHgRm0oatBXWCPi%2FyxTINkDxtqTtuv%2BDM5MV3ogtGf9%2BVRkIfG8cX1bvDx7tYoojJyLIiokQBrYgkWpa970hIlakYOWTl3Gy3UgtHr%2BFPyPcQkAR6CYFXnJbhH2ncXW4%2BKhf0QSbQPZaxC42SOOVyNoIx8rhKRwOhIQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5554313483%2F3730200778baf740315de69ef9bf09dc%2Fvideoplayback__30_.mp4)
 
 #### Comments (1)
 - **パトリック** (May 13, 2026 07:50am): おれもーーーーーーー
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 12, 2026 11:24am
-- **Updated At (UTC):** May 12, 2026 11:24am
+- **Created At:** May 12, 2026 11:24am
+- **Updated At:** May 12, 2026 11:24am
 
 ---
 
 ### 34. Post 34
 **Author:** こよちゃん
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5633292936/d8296c185b1ed0e782cbe49c37388f77/Screenshot_2026_05_12_13_11_45.png?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Q3PhIgfpFx8lGAqymT0LfRGKDmlTb%2BwwTimoUCF9AvUqAVGB3Q1C8XbkGPl7w%2FR1GNVR8vZspYOl1Y9rbLSkOQeduYGyGjb1eOwwyiDFQGXLRnlCxZgABkEKQpIo%2BuJsh7Ni9bHqe1fPMsmETbx3WQYP3GwwcriEmbbFd8TmuooDp8qECHy6myakhtm9wfTi2n7Zna9jpLGPkgtNv0N5LSdRKs0f5BxVbpPyRv5fMuygowdC8LAi4SUp3DGH9QVeAmIPU%2FWQ3ydAKbsdD7lPgTM0%2FN2wsubKJx6q5ZygJHnw4V6DySqvp2p1Lox5DI40x3%2F%2FLt3ZLZNpXCGHMhydJA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5633292936%2Fd8296c185b1ed0e782cbe49c37388f77%2FScreenshot_2026_05_12_13_11_45.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5633292936/d8296c185b1ed0e782cbe49c37388f77/Screenshot_2026_05_12_13_11_45.png?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nbyltUIOC2BiCRbxo5SwMST2yOQFPU5ctdF7GPANtFO0c1aFzPDj%2FMhU%2B%2BXVBoaP%2Fc7cSqk9mYEVeg1q5A3YumN7BjA0DZS79RIiHxHnIZ%2FYsyj6lnOuamtISj9WdV4Z5op9kj9jF034iwe1NPjkwSYvRHsue4%2B2eoBJNa9RNYW1Dg66kf2ue%2FrMLvwSOMPvbRRTyUDjVaIqnKJHqD6RmYhBnwNaHLEg1el7LbgDB3JJl1ONYztEMfYiwqobAEfoXLWQ7aFY%2BczUrgJvLXKWp%2F7%2Fr8yGXRpXGYHWe0NDuX9jgqXMWTAS9LS5h125XSCFvbT4XFI9wjPyLX9QENWtsw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5633292936%2Fd8296c185b1ed0e782cbe49c37388f77%2FScreenshot_2026_05_12_13_11_45.png)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 12, 2026 04:12am
-- **Updated At (UTC):** May 12, 2026 04:12am
+- **Created At:** May 12, 2026 04:12am
+- **Updated At:** May 12, 2026 04:12am
 
 ---
 
@@ -6164,8 +6165,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 12, 2026 03:46am
-- **Updated At (UTC):** May 12, 2026 03:46am
+- **Created At:** May 12, 2026 03:46am
+- **Updated At:** May 12, 2026 03:46am
 
 ---
 
@@ -6180,8 +6181,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 11, 2026 01:45pm
-- **Updated At (UTC):** May 11, 2026 01:45pm
+- **Created At:** May 11, 2026 01:45pm
+- **Updated At:** May 11, 2026 01:45pm
 
 ---
 
@@ -6192,8 +6193,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 11, 2026 08:16am
-- **Updated At (UTC):** May 11, 2026 08:16am
+- **Created At:** May 11, 2026 08:16am
+- **Updated At:** May 11, 2026 08:16am
 
 ---
 
@@ -6215,8 +6216,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 11, 2026 05:27am
-- **Updated At (UTC):** May 11, 2026 05:27am
+- **Created At:** May 11, 2026 05:27am
+- **Updated At:** May 11, 2026 05:27am
 
 ---
 
@@ -6230,8 +6231,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 10, 2026 03:30am
-- **Updated At (UTC):** May 11, 2026 09:42pm
+- **Created At:** May 10, 2026 03:30am
+- **Updated At:** May 11, 2026 09:42pm
 
 ---
 
@@ -6245,8 +6246,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 09, 2026 09:58am
-- **Updated At (UTC):** May 09, 2026 09:58am
+- **Created At:** May 09, 2026 09:58am
+- **Updated At:** May 09, 2026 09:58am
 
 ---
 
@@ -6272,8 +6273,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 10:42pm
-- **Updated At (UTC):** May 08, 2026 10:42pm
+- **Created At:** May 08, 2026 10:42pm
+- **Updated At:** May 08, 2026 10:42pm
 
 ---
 
@@ -6289,8 +6290,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 09:51pm
-- **Updated At (UTC):** May 08, 2026 09:51pm
+- **Created At:** May 08, 2026 09:51pm
+- **Updated At:** May 08, 2026 09:51pm
 
 ---
 
@@ -6301,8 +6302,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 09:40pm
-- **Updated At (UTC):** May 08, 2026 09:40pm
+- **Created At:** May 08, 2026 09:40pm
+- **Updated At:** May 08, 2026 09:40pm
 
 ---
 
@@ -6311,7 +6312,7 @@ no batidão
 
 <p><a rel="noopener noreferrer nofollow" href="https://top-medical-schools.org/">https://top-medical-schools.org/</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614816367/1d4751b0828523d0271bf78e5aec2ce1/IMG_0173.png?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qUWpCH5BDiMOdIrYnc5xkvjgaCTOZoSs%2Bhrx2pS7GwWDzxh9mvWxns6C2fO84kYCR8C5M1ez8iqIM9Ke6EKkPFLaigUlI0wwGts0xtjNn1vD01esKJ3Lg748CHXwiwIGs1Fe3NXLnQvdBZHkEndlJU39Ek%2B6dT1b25fGsAwzLuMY4urjethBBJ92gnYtLX5JGeQpRgvD1Roj1%2F%2F27ymEAmmYlZpozjy6CacxU4ON8DwqmesXGWXPUYwJt4EFZKd0aGvoPJb8hfuRBALSPrC2kGtyV6mpqlj5P9NrYUiPovMDU%2BAL1VynSgLakr1Eq6cjils2PsJosT%2BAmSMdEa3%2B7A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614816367%2F1d4751b0828523d0271bf78e5aec2ce1%2FIMG_0173.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614816367/1d4751b0828523d0271bf78e5aec2ce1/IMG_0173.png?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QyWB6qL8RvKr2evWIYfJI3Q1DMqzLPDct20itE35QNPCuhI06YhWEhZ5%2FEf3lgSWkqvbAtbIAwqVymH4qVl9dAKSkYlSiippP%2FcqTSb2vMm4Ie8ZGF0Vh1jBWyVlK1PNphaRqMPDMysOIf1RwngjbpfepFB1wqdTqFPatvRezelORK4%2FZLsiq3hkmV8cDvq2GM6j1ffZdS9GKR4oYYm8oyXu%2Ba6czYAYP2Zb37Qh20JItLavUWUnXPDD8M0ELEDP2gD8NDtG2QruNHBCaFgCYqxTqSholBXMDcSiuj2YNgFzSRd0IUsWm94BOoUOEw6ceVO7EXUyn1JvA5O6PDAhug%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614816367%2F1d4751b0828523d0271bf78e5aec2ce1%2FIMG_0173.png)
 
 #### Comments (9)
 - **天才くん** (May 08, 2026 10:52am): 100個以上あるよできなかったらごめんなさい。これは誰にも教えないでくださいお願いします🙏
@@ -6329,8 +6330,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 10:50am
-- **Updated At (UTC):** May 08, 2026 10:50am
+- **Created At:** May 08, 2026 10:50am
+- **Updated At:** May 08, 2026 10:50am
 
 ---
 
@@ -6339,7 +6340,7 @@ no batidão
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.dailytoolz.com/cubes-2048/iframe.html">https://www.dailytoolz.com/cubes-2048/iframe.html</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/20f236b157391850ff5bae9843846536/IMG_0172.png?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=42WfJVAwCQrTb3dnVviUI894zEsEoorrjrorwyUUudHBVBcPCC5q8SmCZkq0zxHH%2BsA6jSIulaaSPk4QfCLFZ7AzLTCPlrfWXOosuebz%2FO8v3qGxzc7PgVnEMfUTM9Tun5Dyasbxetq%2FxsJfQY5jG8jMetY3rSXS5l%2BosIyUV9GMyGZwk70MF%2FJD%2BxlL%2B%2Be7OChpLE0LDt9GNsM2%2B6TvugvXXSe4ZsVDuzL0QPm%2F5vDcZj4oRh%2FSOJ7yyUI5LeQF1RX8kHRMRLsJbKWw4%2BDgr%2FRyOn%2FwKR09xtGrxotr5RyPUyvIORiC8ozgWrQyuyIHs9VmnK60s0QkF8Nc3jDqmg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F20f236b157391850ff5bae9843846536%2FIMG_0172.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/20f236b157391850ff5bae9843846536/IMG_0172.png?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LPSosHVFsE3hmG7hdUvNgBxj0QIPXuF9g25pP%2FA7ck110BafvJ7FXQGQ1vueT2THuRV%2BZqorqHf6vVKMY2yExCbAdbdzrjB02SJ%2FBMjL1LT9cPHCOyCB4BWz2hzRFhFvNOaELc8D0hkcL7nrqeD27qBeeSlEMwsOb1s7bnTq%2Fa%2F7xmoFe50HqI5Ywr8CGsgpp7NNW0s2Y2reZJ%2FHP9o3mKcmNsATAoCE6oVi93pR0GqoEm848qD1wQ6FZUEIG3qZrHosQIJCVl1ngBXercdmc%2BpMJdf3Ox7Pnrpi4f8BFXJm0eim%2FF55m9Pglpw1tqnrRE2kD70TYI0BMWgcneJgFw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F20f236b157391850ff5bae9843846536%2FIMG_0172.png)
 
 #### Comments (2)
 - **天才くん** (May 08, 2026 08:38am): まあこれはだれでももってるか🤭
@@ -6347,8 +6348,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 08:14am
-- **Updated At (UTC):** May 08, 2026 08:14am
+- **Created At:** May 08, 2026 08:14am
+- **Updated At:** May 08, 2026 08:14am
 
 ---
 
@@ -6357,7 +6358,7 @@ no batidão
 
 <p><a rel="noopener noreferrer nofollow" href="https://medv.io/bit-planes/">https://medv.io/bit-planes/</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/217cb8fa024df84caa78409f1162281a/IMG_0171.png?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=XW7R7kCW8G90ZTCS%2B3dg9zYpJ0q23ZXkUls3uFTF%2FGa8JM%2FkiRH6DNbJj7UTR5curxr0q%2BJJ0noEm00rcRs6LS4Kjv0M9eGji3EuKIYph65kC5do3TL7skFvyUuHxlREEsdHLnIbtfHLMYnE8Ue9%2B6uV%2FsZu9Qnji1r27V0wmvho3lQz19JiMLA3jP%2FLYjSYW0V%2BZB3L0YzzfVubQ%2BGDZ4YRgnrhvs%2FppiGNXaA4olbMzWKBWHHyr1TyQld2KUUvIEVi5OqYFoIMo6rLrZzkAJmuXkys%2F9mfV4EdYpZKqK3bS1JrJEOrrYRG2Yd2T0oN8qJQDfov6OCLRr5fwX6FKw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F217cb8fa024df84caa78409f1162281a%2FIMG_0171.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/217cb8fa024df84caa78409f1162281a/IMG_0171.png?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=sMm87z87QWUxzK8JOHu7Nx3tDE%2BzpaI6GpqQwNCEpquw5CGIwd1xNvp0TIUj3GEk3QJKIWOl6PjKZROPvoj8D3ud3vWvkjgNoNlo17GgeM0uzKKLNZ31iSri0FWJ1eltIvMrsF8124Vsw1Qn0SsGj1VPC1VuqtVNSB7zO88rjISKWleotiZhDQzrv%2BzS1SsY4xxbp5x4ZXAYjeShsArBTiuuGLJ8xeoFxf7t%2F2pKS%2FblJtKzLS7LVfeXyt22gPK58LAFiKJhbNvHpmgOPNaBsc9xpYClL7X5Fi9dCDzwJ8IVvaYuESOXmwH4HiKQE1tDiFBCPdjEavKBAgJtFfJ6mw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F217cb8fa024df84caa78409f1162281a%2FIMG_0171.png)
 
 #### Comments (2)
 - **天才くん** (May 08, 2026 08:12am): 長文借りますすみません教えれないものがあります😭ぼくが持ってるのはこれを合わせなくても100個以上ありますその中で教えていいものや暇つぶしゲームを教えています
@@ -6365,8 +6366,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 08:10am
-- **Updated At (UTC):** May 08, 2026 08:10am
+- **Created At:** May 08, 2026 08:10am
+- **Updated At:** May 08, 2026 08:10am
 
 ---
 
@@ -6375,7 +6376,7 @@ no batidão
 
 <p><a rel="noopener noreferrer nofollow" href="https://s3.eu-central-1.amazonaws.com/snoutupgames/ironsnout/index.html">https://s3.eu-central-1.amazonaws.com/snoutupgames/ironsnout/index.html</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/551f28b370c1d6bd28eeb4c7d908cade/IMG_0170.png?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Vgxnm%2Fbu8VAWdb2Ckap5VzwA%2F5iDGQrVcD3gioDMZ1zMNkwAHD%2BR%2BC0GfOtKMM1ZVOyfE0KidI8Cc8qMkC7mThSOR5XfoYxECMfX2%2B5jeDcSTlbWKX%2F1mZvAkOpHDAwDY%2Bm1v%2BFRK%2BYNGgLFkp5OBp7iwHKA%2BLTeCPQvz6kbHR8vkMx7UZrmmSb1KJDD0O1Z5iM99D1nJOvPWKPLZ6EEArBWW0Qjs2fCG5imp0jmrnGSETmmcT0S7qeTYvSxXiDs30gH2ayshCewtj4y5sIRDvUd88loNQxbJW4D9MB7reVfaKLK0Yw9cmxghQH0%2BBnV7Vu%2FuTk2EBCvicULC4EMnA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F551f28b370c1d6bd28eeb4c7d908cade%2FIMG_0170.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/551f28b370c1d6bd28eeb4c7d908cade/IMG_0170.png?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=3Qw4cu9G7ZW%2BlAhX1j2CYezdy58%2Big80vyXtishP%2Bmv2yMjBm8lDEEjSIzhIvM3Vg%2BEoY0XaFlHoHKWLdPuxbo%2Bu6YPggPJEYduGIjr2kko65WXBI3Wkc3g3rTMAgD4YYuZUdkdqKyrqdPJAcUc%2B8G4YEse0%2BMhQ1TNnhAqdUaHi05QmE%2BDAp3cYzWIuSPKU8c8vG%2FDb3HMDJz0p%2FahIdoLUG9Ax%2BKU%2FCrsFN4h94dsQy7NjZ5LKEpDQaMknXKvKgqI0fFFQoYds9iFrwY2VGPwZmevih3Z04%2FbVrgXr7RVt%2BbtP3pjOtjnAUkCHb7x6adKi7ZdjQpSK3d17lqUT2w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F551f28b370c1d6bd28eeb4c7d908cade%2FIMG_0170.png)
 
 #### Comments (3)
 - **天才くん** (May 08, 2026 08:15am): 楽しかったらコメントとハートよろしく
@@ -6387,8 +6388,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 08:08am
-- **Updated At (UTC):** May 08, 2026 08:08am
+- **Created At:** May 08, 2026 08:08am
+- **Updated At:** May 08, 2026 08:08am
 
 ---
 
@@ -6397,7 +6398,7 @@ no batidão
 
 <p><a rel="noopener noreferrer nofollow" href="https://edu.50friends.com.mx/">https://edu.50friends.com.mx/</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/f99b558c36c292d93bf4f52082779246/IMG_0169.png?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7miveSpoDe1O2E6D815TkRo53%2FLITuPSFSyy5j7UmpbMx64k9eVwZYx4EIqEhPQz1WFiKH7Kt1cKOF2Gg%2FhbjGOHio5hJfY79M%2Bg%2BYSCWGIxnqHA%2FUjKgGLZpaIM7fToktDMzlY8exhMocsEtZuIsVV%2FdX83YB8lpSEMb6uP80xatC8Rm9F0jgIiH3G9c%2B5Bw8qLw73xBxSbLx83GKmPLQuieeNiFj3SNpthjQ9pVA6ynZkSf923tyNHkQRysZvx%2FBanZyb6nnsdK7oFCXxsDQ58Y%2B%2F6MlKcCKklKtB7Ct4SsQsxVQpSb6yWwDozyYHFCvgn0GFhcRdg876CMyOBrw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2Ff99b558c36c292d93bf4f52082779246%2FIMG_0169.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/f99b558c36c292d93bf4f52082779246/IMG_0169.png?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=V7WKwAu8rjx2YfaD35Rgz1zVFmMioz0sTxsAoQbTJZOGjTKOGxxghcMY3qE5A%2BzFrrj8%2B7V%2F1qyagYgD8fvqbSUvTajv5mPJQDK0kMUhH1vDncXy%2B36iksj0g0nxwAQnqUNcsidPq8kO90asSf7%2BHRfUIwQuuWoayo4bciKFPCJkWNw%2By7IWGjHFJotYc%2BdRj4GpCUHUFUH2UjtALLUF73A5WbyMeZ%2FKy5rEGhD9w1T5%2FXYx6Aq%2Bq%2BCohY2gehUgQi%2FypSlNqe%2BA6yadrr5MtWw68i1bi82NhyfkChM39i6WK0VoPg3BEOcgELrqJTDEx6IQKbRT34VrfyWClanD0Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2Ff99b558c36c292d93bf4f52082779246%2FIMG_0169.png)
 
 #### Comments (5)
 - **天才くん** (May 08, 2026 08:06am): 絶対にできます🤣
@@ -6411,8 +6412,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 08:05am
-- **Updated At (UTC):** May 08, 2026 08:05am
+- **Created At:** May 08, 2026 08:05am
+- **Updated At:** May 08, 2026 08:05am
 
 ---
 
@@ -6421,7 +6422,7 @@ no batidão
 
 <p><a rel="noopener noreferrer nofollow" href="https://kol.id/download-video/youtube">https://kol.id/download-video/youtube</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/fa465192eededf486545a9445ab3fdfd/IMG_0168.png?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hnFA2lzqPDv17iDg30KboYQlZBBqcVLzvZutoLQs7ukh60Gcp5rLv9BNFfk%2B%2F8DcdaLpE4CSca57uz%2BtT2SmL82%2B4CG0YSzLs6EUmmk28Cse37kr9FYApVvx8fIIwxAR2i4JXu2nO3gUzFvznTCIUxZvNev4oDxoGsY4%2FrZxxaTVqrHTelLBac08ouft3Okz%2FrZLTIb7j0AINzxh7evfdJzwMHoTwNbe%2FQu6sTE1I6Ohd9KvrHVP27i8If0NNwOqpAP7le%2F9MPPx9nf2gti3IGyCRpY11ZEUOe8k8gc%2BoD2BunK75Iv9qNCgEql3QW5gdpknOGzYE3m8rQQ4LTzxyQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2Ffa465192eededf486545a9445ab3fdfd%2FIMG_0168.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/fa465192eededf486545a9445ab3fdfd/IMG_0168.png?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=u4tlDwDVGej6JZCbDMirg3jIebEVrAIefG2CtCJzMZLIpIiwf9lTokLVK7fjpdbiuSq37t5GuyS%2B55dEyS7vfK%2FE2RV25whaFebyWXU1ouQKwzW2i4pmq%2B0s9ZljG7H%2FZkj7pQvc8pz2bi72N7EQJz5VIx9dgwaEKyW%2Fo%2FHdFWTvFLyEWEjY8STmaR94obmOgZM%2FvbMMmxbR2wtP1XJscUeznOe7oLdG5HaMTegr%2BYSPpa52eo2Y2TiwXlBEYW29GLZxFGG%2BP6EgbAA1uUOHmhT4IU7QU4DcZDgX4UQbleizguisO3qn74OEuSlvzcMrMogWbbvjFGlUuOVRTpS2dA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2Ffa465192eededf486545a9445ab3fdfd%2FIMG_0168.png)
 
 #### Comments (7)
 - **天才くん** (May 08, 2026 08:03am): できなかったらコメントして
@@ -6434,8 +6435,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 08:03am
-- **Updated At (UTC):** May 08, 2026 08:03am
+- **Created At:** May 08, 2026 08:03am
+- **Updated At:** May 08, 2026 08:03am
 
 ---
 
@@ -6444,12 +6445,12 @@ no batidão
 
 <p><a rel="noopener noreferrer nofollow" href="https://ryanjetplane1.codeberg.page/Openbeta/@subway-surfers/">https://ryanjetplane1.codeberg.page/Openbeta/@subway-surfers/</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/1f6c76a3ede7829c17fe7fff17c36282/image.png?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6t7X8yj3uwF%2F9NJrvbltwYNvKVPrYiMJV0IPmmJfmaOCkx52VpHt9rsAdFgKxD7Afntx%2FzMKkSHIWYcOO%2FrrUFLV6QWtCJHXQ0fJ14qsiDijeUv2oYlZ5yhjjoVYtB9i8O6auY4sB7Q7coeghlX%2FbpEviGIsWSk5Uya6%2FAKXg4dP1cb1Bj9%2FCeasfBeskOd9E3b8KakNGeHb006GUdyn07uXYf9ClIer09S2hqw2PUQiiGiN7WYYPQlGIObCI6XJWMcSh2xW6UI3T5mu%2BbTRub397TkeL2KFqznpzXCR3C0LAcHT6pkI2n3jKS3Sgivatto7AMJ3C2RuIQ79QbmG3w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F1f6c76a3ede7829c17fe7fff17c36282%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5614151482/1f6c76a3ede7829c17fe7fff17c36282/image.png?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SOc8dp6dfqqpUM%2FhXlar%2FxbjcGSeXf9aLbN7QNqMWF7ErHHYI%2F018VUSG9kX%2F1ENMCixREQqMr6A4rZHxNiwlq3Xh6glg1SO%2FeyA0QYNz%2Bhu%2Fn7T4oLxTRtXgqLp45HMpA0JYCcnjQ2oRudRdDadCn5Pvq%2BPb5l6OFxXydrZgz%2F26Xzzs6G0bdnk0ELKhc%2FM77IXq92V5HRhFIgBedlXE1Aa6m04%2FO7LpyxtMQ%2FT22xFz6tKS3JnP%2F4BszHZYx7GNt0%2FEBYPOrMcA6KHz11WH7DON7zB%2FITQpM9t2G%2BnlFlmXMSDXrRRicenSWjJRjlTDkKV9KHjnUBBCnOjjKgQdA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5614151482%2F1f6c76a3ede7829c17fe7fff17c36282%2Fimage.png)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 08:01am
-- **Updated At (UTC):** May 08, 2026 08:02am
+- **Created At:** May 08, 2026 08:01am
+- **Updated At:** May 08, 2026 08:02am
 
 ---
 
@@ -6464,8 +6465,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 07:18am
-- **Updated At (UTC):** May 08, 2026 07:18am
+- **Created At:** May 08, 2026 07:18am
+- **Updated At:** May 08, 2026 07:18am
 
 ---
 
@@ -6486,8 +6487,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 07, 2026 10:13pm
-- **Updated At (UTC):** May 07, 2026 10:14pm
+- **Created At:** May 07, 2026 10:13pm
+- **Updated At:** May 07, 2026 10:14pm
 
 ---
 
@@ -6504,8 +6505,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 07, 2026 07:03am
-- **Updated At (UTC):** May 07, 2026 07:03am
+- **Created At:** May 07, 2026 07:03am
+- **Updated At:** May 07, 2026 07:03am
 
 ---
 
@@ -6524,8 +6525,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 07, 2026 07:01am
-- **Updated At (UTC):** May 07, 2026 07:01am
+- **Created At:** May 07, 2026 07:01am
+- **Updated At:** May 07, 2026 07:01am
 
 ---
 
@@ -6542,8 +6543,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 07, 2026 06:59am
-- **Updated At (UTC):** May 07, 2026 06:59am
+- **Created At:** May 07, 2026 06:59am
+- **Updated At:** May 07, 2026 06:59am
 
 ---
 
@@ -6565,8 +6566,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 03, 2026 09:21am
-- **Updated At (UTC):** May 03, 2026 09:21am
+- **Created At:** May 03, 2026 09:21am
+- **Updated At:** May 03, 2026 09:21am
 
 ---
 
@@ -6580,8 +6581,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 01, 2026 12:03pm
-- **Updated At (UTC):** May 01, 2026 12:03pm
+- **Created At:** May 01, 2026 12:03pm
+- **Updated At:** May 01, 2026 12:03pm
 
 ---
 
@@ -6594,8 +6595,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 30, 2026 01:17am
-- **Updated At (UTC):** Apr 30, 2026 01:17am
+- **Created At:** Apr 30, 2026 01:17am
+- **Updated At:** Apr 30, 2026 01:17am
 
 ---
 
@@ -6613,8 +6614,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 29, 2026 06:44am
-- **Updated At (UTC):** Apr 29, 2026 07:35am
+- **Created At:** Apr 29, 2026 06:44am
+- **Updated At:** Apr 29, 2026 07:35am
 
 ---
 
@@ -6630,8 +6631,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 26, 2026 11:16pm
-- **Updated At (UTC):** Apr 26, 2026 11:16pm
+- **Created At:** Apr 26, 2026 11:16pm
+- **Updated At:** Apr 26, 2026 11:16pm
 
 ---
 
@@ -6655,8 +6656,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 24, 2026 06:42am
-- **Updated At (UTC):** Apr 24, 2026 06:42am
+- **Created At:** Apr 24, 2026 06:42am
+- **Updated At:** Apr 24, 2026 06:42am
 
 ---
 
@@ -6685,8 +6686,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 23, 2026 01:33pm
-- **Updated At (UTC):** Apr 23, 2026 01:33pm
+- **Created At:** Apr 23, 2026 01:33pm
+- **Updated At:** Apr 23, 2026 01:33pm
 
 ---
 
@@ -6698,8 +6699,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 22, 2026 12:28am
-- **Updated At (UTC):** Apr 22, 2026 12:28am
+- **Created At:** Apr 22, 2026 12:28am
+- **Updated At:** Apr 22, 2026 12:28am
 
 ---
 
@@ -6712,8 +6713,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 21, 2026 03:30pm
-- **Updated At (UTC):** Apr 21, 2026 03:30pm
+- **Created At:** Apr 21, 2026 03:30pm
+- **Updated At:** Apr 21, 2026 03:30pm
 
 ---
 
@@ -6730,8 +6731,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 21, 2026 05:28am
-- **Updated At (UTC):** Apr 21, 2026 05:28am
+- **Created At:** Apr 21, 2026 05:28am
+- **Updated At:** Apr 21, 2026 05:28am
 
 ---
 
@@ -6746,8 +6747,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 20, 2026 01:12am
-- **Updated At (UTC):** May 11, 2026 09:42pm
+- **Created At:** Apr 20, 2026 01:12am
+- **Updated At:** May 11, 2026 09:42pm
 
 ---
 
@@ -6760,8 +6761,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 19, 2026 06:51am
-- **Updated At (UTC):** Apr 19, 2026 06:51am
+- **Created At:** Apr 19, 2026 06:51am
+- **Updated At:** Apr 19, 2026 06:51am
 
 ---
 
@@ -6770,8 +6771,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 17, 2026 10:40am
-- **Updated At (UTC):** Apr 17, 2026 10:40am
+- **Created At:** Apr 17, 2026 10:40am
+- **Updated At:** Apr 17, 2026 10:40am
 
 ---
 
@@ -6782,8 +6783,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 14, 2026 07:42am
-- **Updated At (UTC):** May 01, 2026 09:49pm
+- **Created At:** Apr 14, 2026 07:42am
+- **Updated At:** May 01, 2026 09:49pm
 
 ---
 
@@ -6800,8 +6801,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 13, 2026 07:44am
-- **Updated At (UTC):** Apr 13, 2026 07:44am
+- **Created At:** Apr 13, 2026 07:44am
+- **Updated At:** Apr 13, 2026 07:44am
 
 ---
 
@@ -6816,8 +6817,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 13, 2026 07:38am
-- **Updated At (UTC):** May 11, 2026 09:41pm
+- **Created At:** Apr 13, 2026 07:38am
+- **Updated At:** May 11, 2026 09:41pm
 
 ---
 
@@ -6829,8 +6830,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 11, 2026 10:14am
-- **Updated At (UTC):** Apr 11, 2026 10:14am
+- **Created At:** Apr 11, 2026 10:14am
+- **Updated At:** Apr 11, 2026 10:14am
 
 ---
 
@@ -6850,8 +6851,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 10, 2026 09:03am
-- **Updated At (UTC):** Apr 11, 2026 04:38am
+- **Created At:** Apr 10, 2026 09:03am
+- **Updated At:** Apr 11, 2026 04:38am
 
 ---
 
@@ -6862,8 +6863,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 10, 2026 09:02am
-- **Updated At (UTC):** Apr 11, 2026 04:38am
+- **Created At:** Apr 10, 2026 09:02am
+- **Updated At:** Apr 11, 2026 04:38am
 
 ---
 
@@ -6878,8 +6879,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 09, 2026 07:47am
-- **Updated At (UTC):** Apr 09, 2026 07:47am
+- **Created At:** Apr 09, 2026 07:47am
+- **Updated At:** Apr 09, 2026 07:47am
 
 ---
 
@@ -6899,8 +6900,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 25, 2026 12:49am
-- **Updated At (UTC):** Mar 25, 2026 12:49am
+- **Created At:** Mar 25, 2026 12:49am
+- **Updated At:** Mar 25, 2026 12:49am
 
 ---
 
@@ -6919,8 +6920,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 23, 2026 11:10am
-- **Updated At (UTC):** Mar 23, 2026 11:10am
+- **Created At:** Mar 23, 2026 11:10am
+- **Updated At:** Mar 23, 2026 11:10am
 
 ---
 
@@ -6931,8 +6932,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 23, 2026 07:46am
-- **Updated At (UTC):** Mar 23, 2026 07:46am
+- **Created At:** Mar 23, 2026 07:46am
+- **Updated At:** Mar 23, 2026 07:46am
 
 ---
 
@@ -6947,8 +6948,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 22, 2026 12:18pm
-- **Updated At (UTC):** Mar 22, 2026 12:18pm
+- **Created At:** Mar 22, 2026 12:18pm
+- **Updated At:** Mar 22, 2026 12:18pm
 
 ---
 
@@ -6963,8 +6964,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 22, 2026 05:36am
-- **Updated At (UTC):** Mar 22, 2026 05:36am
+- **Created At:** Mar 22, 2026 05:36am
+- **Updated At:** Mar 22, 2026 05:36am
 
 ---
 
@@ -6975,8 +6976,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 22, 2026 05:32am
-- **Updated At (UTC):** Mar 22, 2026 05:32am
+- **Created At:** Mar 22, 2026 05:32am
+- **Updated At:** Mar 22, 2026 05:32am
 
 ---
 
@@ -6989,8 +6990,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 22, 2026 05:31am
-- **Updated At (UTC):** Mar 22, 2026 05:31am
+- **Created At:** Mar 22, 2026 05:31am
+- **Updated At:** Mar 22, 2026 05:31am
 
 ---
 
@@ -7008,8 +7009,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 13, 2026 02:01am
-- **Updated At (UTC):** Mar 13, 2026 02:01am
+- **Created At:** Mar 13, 2026 02:01am
+- **Updated At:** Mar 13, 2026 02:01am
 
 ---
 
@@ -7024,8 +7025,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 12, 2026 03:11am
-- **Updated At (UTC):** Mar 23, 2026 12:00am
+- **Created At:** Mar 12, 2026 03:11am
+- **Updated At:** Mar 23, 2026 12:00am
 
 ---
 
@@ -7045,8 +7046,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 10, 2026 11:53am
-- **Updated At (UTC):** Mar 10, 2026 12:16pm
+- **Created At:** Mar 10, 2026 11:53am
+- **Updated At:** Mar 10, 2026 12:16pm
 
 ---
 
@@ -7064,8 +7065,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 05, 2026 01:29am
-- **Updated At (UTC):** Mar 05, 2026 01:29am
+- **Created At:** Mar 05, 2026 01:29am
+- **Updated At:** Mar 05, 2026 01:29am
 
 ---
 
@@ -7084,8 +7085,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 04, 2026 10:06am
-- **Updated At (UTC):** Mar 04, 2026 10:07am
+- **Created At:** Mar 04, 2026 10:06am
+- **Updated At:** Mar 04, 2026 10:07am
 
 ---
 
@@ -7103,8 +7104,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 04, 2026 12:36am
-- **Updated At (UTC):** May 01, 2026 09:47pm
+- **Created At:** Mar 04, 2026 12:36am
+- **Updated At:** May 01, 2026 09:47pm
 
 ---
 
@@ -7126,8 +7127,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 26, 2026 12:20am
-- **Updated At (UTC):** Feb 26, 2026 12:20am
+- **Created At:** Feb 26, 2026 12:20am
+- **Updated At:** Feb 26, 2026 12:20am
 
 ---
 
@@ -7144,8 +7145,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 22, 2026 04:40am
-- **Updated At (UTC):** Feb 22, 2026 04:40am
+- **Created At:** Feb 22, 2026 04:40am
+- **Updated At:** Feb 22, 2026 04:40am
 
 ---
 
@@ -7162,8 +7163,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 12, 2026 09:58am
-- **Updated At (UTC):** Feb 12, 2026 09:58am
+- **Created At:** Feb 12, 2026 09:58am
+- **Updated At:** Feb 12, 2026 09:58am
 
 ---
 
@@ -7183,8 +7184,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 06, 2026 12:51am
-- **Updated At (UTC):** Feb 06, 2026 12:51am
+- **Created At:** Feb 06, 2026 12:51am
+- **Updated At:** Feb 06, 2026 12:51am
 
 ---
 
@@ -7193,8 +7194,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 05, 2026 12:51pm
-- **Updated At (UTC):** Feb 05, 2026 12:51pm
+- **Created At:** Feb 05, 2026 12:51pm
+- **Updated At:** Feb 05, 2026 12:51pm
 
 ---
 
@@ -7205,8 +7206,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 21, 2026 01:52pm
-- **Updated At (UTC):** Jan 21, 2026 01:52pm
+- **Created At:** Jan 21, 2026 01:52pm
+- **Updated At:** Jan 21, 2026 01:52pm
 
 ---
 
@@ -7226,8 +7227,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 16, 2025 12:20pm
-- **Updated At (UTC):** Jul 17, 2025 09:13am
+- **Created At:** Jul 16, 2025 12:20pm
+- **Updated At:** Jul 17, 2025 09:13am
 
 ---
 
@@ -7251,8 +7252,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 23, 2025 08:38am
-- **Updated At (UTC):** Dec 23, 2025 08:38am
+- **Created At:** Dec 23, 2025 08:38am
+- **Updated At:** Dec 23, 2025 08:38am
 
 ---
 
@@ -7266,8 +7267,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 10, 2026 09:09am
-- **Updated At (UTC):** Jan 10, 2026 09:09am
+- **Created At:** Jan 10, 2026 09:09am
+- **Updated At:** Jan 10, 2026 09:09am
 
 ---
 
@@ -7291,8 +7292,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Jan 28, 2026 09:40am
-- **Updated At (UTC):** Apr 03, 2026 01:50am
+- **Created At:** Jan 28, 2026 09:40am
+- **Updated At:** Apr 03, 2026 01:50am
 
 ---
 
@@ -7301,7 +7302,7 @@ no batidão
 
 <p>学校PCで出来るやつでお願いします</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5668033446/25050f15086574803b0e4b1df5df41bf/png_transparent_luigi_super_mario_bros_pixel_art_luigi_angle_text_super_mario_bros_thumbnail.png?Expires=1785407304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Hjrk%2BXY%2BMNQNhahayjLoD%2FpS5KJHIyig4Mu4b0F4p%2FEpHyOa1mynGK63o9ABVgwyxdXB2rozPu4MBrjrEkjvo%2BKxdm66sEcHJKpfhsUWUrpGj%2BPY87bW85JITe3ofVcBifgBYzbSELNGOvDV0Ie2YtC6XYrpt3WAlYVdOwP8D6pLj22%2Fwjuxct6UEpfnEE9w%2FZsh%2BcCL3WgD8hrHGeNCuWrhJrICylfURyN50g8SPtQE8htRbis11Rvj98P23DycaOXwjbLz989VlDhBxzFlkJjmwral1wYyFYqXCSR8RAfHu8%2FPb53%2BUIWP%2BHzrlCvw1GBcSKVKo8qQy%2BS7%2BVym7Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5668033446%2F25050f15086574803b0e4b1df5df41bf%2Fpng_transparent_luigi_super_mario_bros_pixel_art_luigi_angle_text_super_mario_bros_thumbnail.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5668033446/25050f15086574803b0e4b1df5df41bf/png_transparent_luigi_super_mario_bros_pixel_art_luigi_angle_text_super_mario_bros_thumbnail.png?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pnx8maBw1GRczTN%2FULFEUmnziKH25IKvIM%2FuV8e4A83s%2BB8jBE8eHYh9JgMoclRMN9L4vx%2BiNfAxTC6viOBsEi2sWWxsbUwM9DWl35r9SUZnjhj1P6UqBBL8S8y2DqpbgbQAbEofBYxOYXQwbkaqA8XjHTkbfPiKXmAcAte0%2BJQln%2F%2Bts0jLG%2BS%2BHdS7OYFtSGplrkTHiPrTziILK%2Brd%2FhXpQ3agxxoj330fxq3XcHISIC3KzBQL11BWcFnDntzCmXwipAiKYUA5dSSU09CyXIGDQlJQ7ZGlLBOvmO6X9ezVviBBUJxbmOSO8oPJOP3oZinCAVb8PP8L3LbC9V4i4w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5668033446%2F25050f15086574803b0e4b1df5df41bf%2Fpng_transparent_luigi_super_mario_bros_pixel_art_luigi_angle_text_super_mario_bros_thumbnail.png)
 
 #### Comments (4)
 - **Sari** (Jun 13, 2026 02:15am): https://script.google.com/a/macros/edu.city.izumi.osaka.jp/s/AKfycbyTR5aZD028qJv9rwEBKGFHceFoC2mSqFOg39SnpcyGyHSclQxP5BBZ-f_9scQx6ANW/exec
@@ -7311,8 +7312,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** May 18, 2026 01:04pm
-- **Updated At (UTC):** May 18, 2026 01:04pm
+- **Created At:** May 18, 2026 01:04pm
+- **Updated At:** May 18, 2026 01:04pm
 
 ---
 
@@ -7331,8 +7332,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 05, 2025 12:22am
-- **Updated At (UTC):** Jan 28, 2026 10:22am
+- **Created At:** Jun 05, 2025 12:22am
+- **Updated At:** Jan 28, 2026 10:22am
 
 ---
 
@@ -7346,8 +7347,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 06, 2026 11:44pm
-- **Updated At (UTC):** Jan 28, 2026 10:20am
+- **Created At:** Jan 06, 2026 11:44pm
+- **Updated At:** Jan 28, 2026 10:20am
 
 ---
 
@@ -7366,8 +7367,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Jan 28, 2026 10:25am
-- **Updated At (UTC):** Jan 28, 2026 10:25am
+- **Created At:** Jan 28, 2026 10:25am
+- **Updated At:** Jan 28, 2026 10:25am
 
 ---
 
@@ -7384,8 +7385,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 13, 2026 02:12am
-- **Updated At (UTC):** Jun 13, 2026 02:12am
+- **Created At:** Jun 13, 2026 02:12am
+- **Updated At:** Jun 13, 2026 02:12am
 
 ---
 
@@ -7407,8 +7408,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 06:35am
-- **Updated At (UTC):** May 16, 2026 06:35am
+- **Created At:** May 16, 2026 06:35am
+- **Updated At:** May 16, 2026 06:35am
 
 ---
 
@@ -7421,8 +7422,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 11, 2026 11:07am
-- **Updated At (UTC):** Apr 11, 2026 11:07am
+- **Created At:** Apr 11, 2026 11:07am
+- **Updated At:** Apr 11, 2026 11:07am
 
 ---
 
@@ -7444,8 +7445,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 04, 2025 11:29pm
-- **Updated At (UTC):** Jul 08, 2025 10:36am
+- **Created At:** Jun 04, 2025 11:29pm
+- **Updated At:** Jul 08, 2025 10:36am
 
 ---
 
@@ -7466,8 +7467,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Mar 23, 2026 12:09am
-- **Updated At (UTC):** Mar 23, 2026 12:10am
+- **Created At:** Mar 23, 2026 12:09am
+- **Updated At:** Mar 23, 2026 12:10am
 
 ---
 
@@ -7488,8 +7489,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 23, 2026 11:42pm
-- **Updated At (UTC):** Mar 24, 2026 01:44am
+- **Created At:** Mar 23, 2026 11:42pm
+- **Updated At:** Mar 24, 2026 01:44am
 
 ---
 
@@ -7522,8 +7523,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 01, 2026 11:00am
-- **Updated At (UTC):** Mar 23, 2026 12:10am
+- **Created At:** Feb 01, 2026 11:00am
+- **Updated At:** Mar 23, 2026 12:10am
 
 ---
 
@@ -7549,8 +7550,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Jun 05, 2025 12:16am
-- **Updated At (UTC):** Apr 03, 2026 01:51am
+- **Created At:** Jun 05, 2025 12:16am
+- **Updated At:** Apr 03, 2026 01:51am
 
 ---
 
@@ -7563,8 +7564,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 19, 2026 11:41am
-- **Updated At (UTC):** May 19, 2026 11:41am
+- **Created At:** May 19, 2026 11:41am
+- **Updated At:** May 19, 2026 11:41am
 
 ---
 
@@ -7573,12 +7574,12 @@ no batidão
 
 <p>だれかページ飛ばしてくれる系のduckduckgo</p><p>くれませんか？(3秒後にduckduckgoに飛ばされるってことです)</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4791578905/e66fc7077aea559b4dd596d4d509f5cb/unnamed.webp?Expires=1785407305&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BL3QQz4cTFzdB9G3JC9LjhCZCjf1iUm53vAH0KodoUqmdwWbYibDayIUFZbXIjkRx9YjaFOaw6z0t3b%2BWws35iN%2FHdxzNlSRpi6WbkDDvlf88IF6DaqOLbG0jcYkWY4lNAjCBbMBjEtuyixw6yAwiVrpfBJUxS9r3A4Xo4nf6bvf%2F3IiUn7OjMOTNIU5fc0kTCl8Oxx3GGX1DqPUoHhaTbJ5AQaSjIcHurNXRgeOE09qOOFNasw2OuyQPCKQbFr6Kww1WiKpmngN64s%2FvFcETDL0ELkmZI%2FsjyEcoUAX2w0hs2fRnXJST5qqANwsDBa7L0PsRat8VQ4umbOjb7YQrw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4791578905%2Fe66fc7077aea559b4dd596d4d509f5cb%2Funnamed.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4791578905/e66fc7077aea559b4dd596d4d509f5cb/unnamed.webp?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=aXjJZ2B20Znt07iNLuY%2BxRuJZgqnSQL%2FMF0EYEnoPUHJYctyKX21sok6jl%2FMIzHA874TzwRToOOsaM4bUCe%2BRqSeidTqe4MSvsObKb83voljLjjHzrLjkSq0Z0UxHNwQSid8Kl00S2LQttVIxAo1SYsk9Q5N7gyfeE29QsLEDsbL4U5TUa4osM1JraTzVFGfO3Zrdx%2Bx7v557V7UT4jRpDDf55ICIXE%2FwbHIpbj%2BhjM%2F8VMpFzUN2Td%2BFYHvDZXXF7oMWZPTDXdHWOZfCHvyEp5%2Bv4Zy5dnLZ4%2BoD6ELe54Pk4OD6JdKXd2KA8EGtTyCV5IWXPNe6DVQN8px%2BHgJxA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4791578905%2Fe66fc7077aea559b4dd596d4d509f5cb%2Funnamed.webp)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 17, 2026 07:01am
-- **Updated At (UTC):** May 17, 2026 07:01am
+- **Created At:** May 17, 2026 07:01am
+- **Updated At:** May 17, 2026 07:01am
 
 ---
 
@@ -7593,8 +7594,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 25, 2026 03:19am
-- **Updated At (UTC):** Apr 25, 2026 03:19am
+- **Created At:** Apr 25, 2026 03:19am
+- **Updated At:** Apr 25, 2026 03:19am
 
 ---
 
@@ -7611,8 +7612,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 23, 2026 12:46pm
-- **Updated At (UTC):** Apr 23, 2026 12:46pm
+- **Created At:** Apr 23, 2026 12:46pm
+- **Updated At:** Apr 23, 2026 12:46pm
 
 ---
 
@@ -7628,8 +7629,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 19, 2026 04:49pm
-- **Updated At (UTC):** Apr 21, 2026 10:24am
+- **Created At:** Apr 19, 2026 04:49pm
+- **Updated At:** Apr 21, 2026 10:24am
 
 ---
 
@@ -7646,8 +7647,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 14, 2026 07:11am
-- **Updated At (UTC):** May 01, 2026 09:50pm
+- **Created At:** Apr 14, 2026 07:11am
+- **Updated At:** May 01, 2026 09:50pm
 
 ---
 
@@ -7663,8 +7664,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 08, 2026 03:16am
-- **Updated At (UTC):** Apr 08, 2026 03:16am
+- **Created At:** Apr 08, 2026 03:16am
+- **Updated At:** Apr 08, 2026 03:16am
 
 ---
 
@@ -7675,8 +7676,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 27, 2026 08:46am
-- **Updated At (UTC):** May 04, 2026 10:35pm
+- **Created At:** Mar 27, 2026 08:46am
+- **Updated At:** May 04, 2026 10:35pm
 
 ---
 
@@ -7693,8 +7694,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Mar 26, 2026 03:59am
-- **Updated At (UTC):** Mar 26, 2026 04:00am
+- **Created At:** Mar 26, 2026 03:59am
+- **Updated At:** Mar 26, 2026 04:00am
 
 ---
 
@@ -7711,8 +7712,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 08, 2026 05:10am
-- **Updated At (UTC):** Mar 08, 2026 05:10am
+- **Created At:** Mar 08, 2026 05:10am
+- **Updated At:** Mar 08, 2026 05:10am
 
 ---
 
@@ -7748,8 +7749,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 07, 2026 11:15pm
-- **Updated At (UTC):** Feb 18, 2026 10:06pm
+- **Created At:** Feb 07, 2026 11:15pm
+- **Updated At:** Feb 18, 2026 10:06pm
 
 ---
 
@@ -7774,8 +7775,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 17, 2025 05:30am
-- **Updated At (UTC):** Jun 17, 2025 05:32am
+- **Created At:** Jun 17, 2025 05:30am
+- **Updated At:** Jun 17, 2025 05:32am
 
 ---
 
@@ -7786,8 +7787,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 16, 2025 12:15pm
-- **Updated At (UTC):** Jul 16, 2025 12:15pm
+- **Created At:** Jul 16, 2025 12:15pm
+- **Updated At:** Jul 16, 2025 12:15pm
 
 ---
 
@@ -7800,8 +7801,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Aug 25, 2025 05:54am
-- **Updated At (UTC):** Aug 25, 2025 05:54am
+- **Created At:** Aug 25, 2025 05:54am
+- **Updated At:** Aug 25, 2025 05:54am
 
 ---
 
@@ -7821,8 +7822,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 23, 2025 08:34am
-- **Updated At (UTC):** Dec 23, 2025 08:34am
+- **Created At:** Dec 23, 2025 08:34am
+- **Updated At:** Dec 23, 2025 08:34am
 
 ---
 
@@ -7845,8 +7846,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 24, 2025 06:33am
-- **Updated At (UTC):** Jul 23, 2026 01:46am
+- **Created At:** Dec 24, 2025 06:33am
+- **Updated At:** Jul 23, 2026 01:46am
 
 ---
 
@@ -7864,8 +7865,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 10, 2026 09:02am
-- **Updated At (UTC):** Jan 10, 2026 09:02am
+- **Created At:** Jan 10, 2026 09:02am
+- **Updated At:** Jan 10, 2026 09:02am
 
 ---
 
@@ -7880,8 +7881,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 16, 2026 06:03am
-- **Updated At (UTC):** Jul 16, 2026 06:03am
+- **Created At:** Jul 16, 2026 06:03am
+- **Updated At:** Jul 16, 2026 06:03am
 
 ---
 
@@ -7898,8 +7899,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 18, 2026 01:12pm
-- **Updated At (UTC):** May 18, 2026 01:12pm
+- **Created At:** May 18, 2026 01:12pm
+- **Updated At:** May 18, 2026 01:12pm
 
 ---
 
@@ -7908,15 +7909,15 @@ no batidão
 
 <p><a rel="noopener noreferrer nofollow" href="https://www.croxyproxy.com/_ja/blog/posts/free-proxy-list-how-to-choose-the-best-online-proxy">https://www.croxyproxy.com/_ja/blog/posts/free-proxy-list-how-to-choose-the-best-online-proxy</a></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5615364904/10aa12985905f12a01906ab7d373fed2/Screenshot_2026_05_08_22_04_06.png?Expires=1785407305&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DrJQYqg0x%2BrnRx%2FXjjLbE99S9%2FH1cgYin5xN9SyvGuxP8BO0uwP8cD1UUscm%2By%2BLmkiVlLPtuj4JlbZUqaSW8suTY%2BqcIOTY4JPXXX7SsD0ddZLjAfCVV4MSqrDbgQV4%2Fmaom7yRcznEm4PUTkAunU0MWsPE6VErfhzn626LON%2FaDyx65puidspq3eQ4DOWUgvbQ3%2Bpvjh7tbwK%2FL8IewlISN%2Fp3Ww4Lenbx5sTc8bWrvJCaPD1H4Tcwd3l9NDVDAKeC5hQ0oaFOTZ0WMud0PqarCuLu62CIltYd3SXQHSDtPuP5kWn8qW7Jn%2BI22Sr6HutBsosgNyyJo9hLJ28Oog%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5615364904%2F10aa12985905f12a01906ab7d373fed2%2FScreenshot_2026_05_08_22_04_06.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5615364904/10aa12985905f12a01906ab7d373fed2/Screenshot_2026_05_08_22_04_06.png?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fWYjD1o%2B4ELOBrpWoge%2BUnb%2FnnkBSWXN%2FA0%2FAFJdgTaNrFOugZR%2B4AnDEK%2BaqAvbJki30xmmJok1sr8%2Fkkt4s4yPELMEo671aFhH9tAm2be4Xxmhobd5oTh9MiUrkrdkGCCJYb2eFN1nIJOwjAgbGF%2BLBEfocPUvvjqLudzOOyReqIwb0cS%2BJsDZHqps09tou%2BRsx%2F6TTBW7tANiquoYtlMvpmfSxPcYaaBkDF6ZDgOlYWOmP9jXN5geo%2By9O9cXtNgGGeDPh%2BoCblKvnHI8vebUoINJWbY%2FkCvYBxsFTnQKrt3r2b8Y5OuTcNwCghxMOQzK70kB8sJGdji5%2B1b%2FQQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5615364904%2F10aa12985905f12a01906ab7d373fed2%2FScreenshot_2026_05_08_22_04_06.png)
 
 #### Comments (1)
 - **HarukiHaruki** (May 09, 2026 05:02am): ブロです
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 01:05pm
-- **Updated At (UTC):** May 08, 2026 01:05pm
+- **Created At:** May 08, 2026 01:05pm
+- **Updated At:** May 08, 2026 01:05pm
 
 ---
 
@@ -7955,8 +7956,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 07, 2026 08:14am
-- **Updated At (UTC):** May 07, 2026 08:14am
+- **Created At:** May 07, 2026 08:14am
+- **Updated At:** May 07, 2026 08:14am
 
 ---
 
@@ -7968,8 +7969,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 03, 2026 09:20am
-- **Updated At (UTC):** May 03, 2026 09:20am
+- **Created At:** May 03, 2026 09:20am
+- **Updated At:** May 03, 2026 09:20am
 
 ---
 
@@ -7978,7 +7979,7 @@ no batidão
 
 <p>この中でなんの野球チーム好き？</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5505922260/60f7be16b04b6cb0da2ff5b265707a59/Screenshot_2026_04_22_15_24_51.png?Expires=1785407305&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LogLF%2BbvwPwuUl815wrLXzMRFnOnGH3%2BSACdHcrA4Ru73bQah5eOQrk5GtBqbpVRsRG2%2FUn5SbUcw5u1ZZcSwn4Xl2BdDWyCWN1y5KZ3npcVBb7RawP6ZF2Q84hzU5ahxr9GLd%2F4HuIcq1v6Qv3iVMq9orfXcfvUnhLP3T4HZeX5orZwQAx%2Fy1%2FNDUkH1olRLS4oP2BsZPCAvPYzptME8zipTZGDDMv%2FDT9TogDY7EHNPY%2BdqQW72XRXag0bQvwUO%2ByqJFq%2FQ1P7zM1YjfTHdSAZV2Rd4UbAPf23QtzIqzRGg6JFnFKKYcc9IHo3UEAZ4ZF6Pfko6sjXXh%2BlTZnhqQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505922260%2F60f7be16b04b6cb0da2ff5b265707a59%2FScreenshot_2026_04_22_15_24_51.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5505922260/60f7be16b04b6cb0da2ff5b265707a59/Screenshot_2026_04_22_15_24_51.png?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=O3QBQ5BQ65Qa06JnyxmgB7ezEA%2BX5QQwKZ1dqRmJE0xpB19VR4P7UGX8Eg51N5C1o82KO2J%2BN5baUjqlGIakt%2Bum7%2BBKTgKW%2Bc5pgtDD98tBeIaxzYiFx0JZ40FprbHNVlQAN%2BeotXLdCSDEvfL5KVd9hnFaegvJtY3CLUjWDaP%2FjJKZps7jnuArkE3YNil4WXxYHxhV01xSZl1gUYQt2V73HmN2CPXrhVPQXPyBI15nB8sblSK9g%2BWtazLdNBan7kBrhm%2BKOkA%2FLKe03LHF7Su%2F94EHaQTGFQNh12bu4TByYBpygB5uEpa6x17QlW%2FnK4km4R8PskR%2FK7HJnZqRcQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505922260%2F60f7be16b04b6cb0da2ff5b265707a59%2FScreenshot_2026_04_22_15_24_51.png)
 
 #### Comments (22)
 - **谷内ですーー** (Apr 22, 2026 06:25am): フォローしてください
@@ -8009,15 +8010,15 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 22, 2026 06:25am
-- **Updated At (UTC):** Apr 22, 2026 06:25am
+- **Created At:** Apr 22, 2026 06:25am
+- **Updated At:** Apr 22, 2026 06:25am
 
 ---
 
 ### 7. Post 7
 **Author:** 谷内ですーー (gs225971)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5505922260/06dd4b5f3f9d0af795cf94e1e68ce3b9/Screenshot_2026_04_21_18_31_55.png?Expires=1785407305&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H4IZFF3FM43ab4Q0T%2BBSCUVC7bDKnI3ht8nD%2F6uIIKA6ge0k5JXySLTGxsmV0%2B%2B38pvqGpOLTiAReCvLpJ97myNLOP%2F3ISjMPu%2FoJyBtw5h4Dixe6hvrwNoBPg4p4ZIY7G94d5wriL3nW58Fydpf62%2Fa6AQ%2BBrajp33WfupEYnQzvGKBV1s397ai3X2fWrwAbVjH5QCV3xm7ckh2TuzCVH%2BuY5uUbdMfhjvY3qlpJXLoYmpwaFgMMc3AqmNufCy3oa%2FPr6iIimSI%2FkB9CNgKVxamULFsvIWq%2F4OqmUeP6UFKBlqCDfAqMlyysTHjC6uM%2FmcI9OuRvlr%2B0d1k4awWjw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505922260%2F06dd4b5f3f9d0af795cf94e1e68ce3b9%2FScreenshot_2026_04_21_18_31_55.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5505922260/06dd4b5f3f9d0af795cf94e1e68ce3b9/Screenshot_2026_04_21_18_31_55.png?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=03R0G1u%2FjBRVDAJt1Vdw8jNEyHbwkEGUgmlh%2FBO9MPrdsFMiNC3Rse9uKJ%2FXwwZSyNlb4vCMbReH0c8jb%2B4gMtWDdGutUDCvuYi%2BJyDY8FCuTf%2FkspsoTTeHOuVgR%2B3pRG1q%2BSEli0FJlTkv0qRJwB94INzG9l1s%2F55gGiMa3ETol8KdUbWD53cnE0X18AgpXagLXKcRtijgXTO1mlYBI1DreKYegjsrFTVadKCQ2R29LtmdcH9Vppk2qUsAGPG6ruIiLVes6cEafCEh8LH6NkTt1Z3pnHlBJjBwmCQLaWyDAobZdM9AUM8M4nXVNBq5WFpmyPEs6AApooa7DtmNUg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505922260%2F06dd4b5f3f9d0af795cf94e1e68ce3b9%2FScreenshot_2026_04_21_18_31_55.png)
 
 #### Comments (4)
 - **谷内ですーー** (Apr 21, 2026 09:32am): この選手好きな人ーー
@@ -8030,8 +8031,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 21, 2026 09:32am
-- **Updated At (UTC):** Apr 21, 2026 09:32am
+- **Created At:** Apr 21, 2026 09:32am
+- **Updated At:** Apr 21, 2026 09:32am
 
 ---
 
@@ -8044,8 +8045,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 08, 2026 03:20am
-- **Updated At (UTC):** Apr 08, 2026 05:43am
+- **Created At:** Apr 08, 2026 03:20am
+- **Updated At:** Apr 08, 2026 05:43am
 
 ---
 
@@ -8061,8 +8062,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 16, 2026 11:55pm
-- **Updated At (UTC):** Mar 17, 2026 02:31am
+- **Created At:** Mar 16, 2026 11:55pm
+- **Updated At:** Mar 17, 2026 02:31am
 
 ---
 
@@ -8076,8 +8077,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 14, 2026 07:24am
-- **Updated At (UTC):** Mar 14, 2026 07:24am
+- **Created At:** Mar 14, 2026 07:24am
+- **Updated At:** Mar 14, 2026 07:24am
 
 ---
 
@@ -8099,8 +8100,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 13, 2026 12:52am
-- **Updated At (UTC):** Feb 16, 2026 11:37pm
+- **Created At:** Feb 13, 2026 12:52am
+- **Updated At:** Feb 16, 2026 11:37pm
 
 ---
 
@@ -8124,8 +8125,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 16, 2025 12:24am
-- **Updated At (UTC):** Dec 16, 2025 12:24am
+- **Created At:** Dec 16, 2025 12:24am
+- **Updated At:** Dec 16, 2025 12:24am
 
 ---
 
@@ -8158,8 +8159,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 04, 2025 11:33pm
-- **Updated At (UTC):** Jun 04, 2025 11:33pm
+- **Created At:** Jun 04, 2025 11:33pm
+- **Updated At:** Jun 04, 2025 11:33pm
 
 ---
 
@@ -8183,8 +8184,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 06:18am
-- **Updated At (UTC):** May 16, 2026 06:18am
+- **Created At:** May 16, 2026 06:18am
+- **Updated At:** May 16, 2026 06:18am
 
 ---
 
@@ -8209,8 +8210,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 08, 2026 11:48pm
-- **Updated At (UTC):** May 08, 2026 11:48pm
+- **Created At:** May 08, 2026 11:48pm
+- **Updated At:** May 08, 2026 11:48pm
 
 ---
 
@@ -8224,8 +8225,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 05, 2026 12:15pm
-- **Updated At (UTC):** May 05, 2026 12:15pm
+- **Created At:** May 05, 2026 12:15pm
+- **Updated At:** May 05, 2026 12:15pm
 
 ---
 
@@ -8248,8 +8249,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 30, 2026 11:44pm
-- **Updated At (UTC):** Mar 30, 2026 11:44pm
+- **Created At:** Mar 30, 2026 11:44pm
+- **Updated At:** Mar 30, 2026 11:44pm
 
 ---
 
@@ -8278,8 +8279,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 06, 2026 12:18pm
-- **Updated At (UTC):** Feb 06, 2026 12:18pm
+- **Created At:** Feb 06, 2026 12:18pm
+- **Updated At:** Feb 06, 2026 12:18pm
 
 ---
 
@@ -8293,8 +8294,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 22, 2025 08:18am
-- **Updated At (UTC):** Jun 22, 2025 08:18am
+- **Created At:** Jun 22, 2025 08:18am
+- **Updated At:** Jun 22, 2025 08:18am
 
 ---
 
@@ -8313,8 +8314,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Oct 02, 2025 02:40am
-- **Updated At (UTC):** Oct 02, 2025 02:40am
+- **Created At:** Oct 02, 2025 02:40am
+- **Updated At:** Oct 02, 2025 02:40am
 
 ---
 
@@ -8333,8 +8334,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 23, 2025 09:39am
-- **Updated At (UTC):** Jan 10, 2026 12:11am
+- **Created At:** Dec 23, 2025 09:39am
+- **Updated At:** Jan 10, 2026 12:11am
 
 ---
 
@@ -8350,8 +8351,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 23, 2025 09:40am
-- **Updated At (UTC):** Dec 23, 2025 09:40am
+- **Created At:** Dec 23, 2025 09:40am
+- **Updated At:** Dec 23, 2025 09:40am
 
 ---
 
@@ -8367,8 +8368,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Mar 22, 2026 11:16am
-- **Updated At (UTC):** Apr 05, 2026 10:12am
+- **Created At:** Mar 22, 2026 11:16am
+- **Updated At:** Apr 05, 2026 10:12am
 
 ---
 
@@ -8386,8 +8387,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 04, 2026 06:55pm
-- **Updated At (UTC):** Apr 04, 2026 06:57pm
+- **Created At:** Apr 04, 2026 06:55pm
+- **Updated At:** Apr 04, 2026 06:57pm
 
 ---
 
@@ -8405,8 +8406,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 04, 2026 06:48pm
-- **Updated At (UTC):** Apr 04, 2026 06:48pm
+- **Created At:** Apr 04, 2026 06:48pm
+- **Updated At:** Apr 04, 2026 06:48pm
 
 ---
 
@@ -8415,12 +8416,12 @@ no batidão
 
 <p>塾の友達から教わった方法</p><p>操作時間は3分から長くて10分です。今はコツを掴んだので100発中100回です。できると証明する動画でもあります。動画の最後の方を見れば分かる通り、成功したら上にある表示中の拡張機能の中でICFSが自動的に消去されていますが、いつもそうなるとは限りません。一番注意してほしいことは、制限以降の時間帯にやると、3~5回繰り返す必要がある可能性が少しあること。</p><p>1:タブを開きまくると、上のタブバーにあとから追加したタブが表示できなくなるので、そこまで画面のnewタブの+を押す。具体的に言うと、通常は30~40秒間連打し、制限の時間帯以降では15~25秒連打する。</p><p>2:そしたら、タブを追加すると自動的に上のURLバーが文字の入力の準備が整うので、画面が固まっていても好きなタイミングで、そのまま入りたいURLをぶち込んで3分程度待てば行ける。もちろんそのまま待って固まっている画面がなおってからやってもいい。また、画面が固まっている時間が長すぎてクラッシュしてページがリセットされることがありますが、もう数回やればできます。</p><p>そして、何よりも設定読み込み中が長すぎてだめだったら、すぐにリフレッシュキー(更新キー)と電源を一回同時に押してログインすると、上の表示中拡張機能バーにはICFSはありますが、実際にはブロック解除できています。私は以前この電源を一回切って入る方法を強制再起動のハードウェアのリセットとしてできたと思います。</p>
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/ef8c8e2c322f1bcbdfeb63e7e5aad5ef/720p_ICFS_______online_video_cutter_com_.mp4?Expires=1785407305&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pPBX2iw2Dh7NAE%2BJdj91bclAJvwYNG6HLtUGvq8imYioYjGG35PFndwqvZvPYpPEMIwy2dor%2FemVjBzCYRvmQuBdTgFxRHGaMtE32E1aXSf3jEDz0%2FachMaLsaT37Pi6MKnMJ3J6y2tOENLzD0XDGKeV%2BE11NCDqkUjSJCwwCE6qts9MzHzI0MOOopQh2B3I3tI6%2FFgdZyTsvMx88lVcRCabfKx4jnf9s5XSAYpd7e%2FWjC3p%2FJqeLwhMorzxcBK%2BoQZbdvKuXLK7op02Amfnusbeq14t6jGjZ5bG9XRfU79gwIGjE1yGO%2B1CNv9w2drkwdCIxj8YGcHjF3BUBW7Pxw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2Fef8c8e2c322f1bcbdfeb63e7e5aad5ef%2F720p_ICFS_______online_video_cutter_com_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/ef8c8e2c322f1bcbdfeb63e7e5aad5ef/720p_ICFS_______online_video_cutter_com_.mp4?Expires=1785412594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4sUJphP3mv1EJFraJkIMYzRi0ltSrgky2grARQ%2FugNXpGLW5hlI5INbtBxx31ce8BEi6AuRAOcbqjd9Zk6ideFvA%2FKQtKRpMCI0nbhp9UC%2BNipqDobsIpcupLilHD646HGhcFyNhBzD8xhK0zZzBUhhzJnE6np0jCfBWlLgtAe7i7Nmu0NWWUC3XqA4srymZciQavbdUqUF%2BZxNE9n8ryDwbHu7uYDmLhwt7G4O1QifU9AQR%2BMJ84BEfuiyJd30yfed%2FIQOEI3ZyjxZ8Q8A6GjVjP9P9Cgew2aWt1uyFsXTFgv4T5h5pCvBez8MqwBcnscpCkRx3dT1VhSHdv7EM7A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2Fef8c8e2c322f1bcbdfeb63e7e5aad5ef%2F720p_ICFS_______online_video_cutter_com_.mp4)
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 04, 2026 06:48pm
-- **Updated At (UTC):** Apr 04, 2026 06:48pm
+- **Created At:** Apr 04, 2026 06:48pm
+- **Updated At:** Apr 04, 2026 06:48pm
 
 ---
 
@@ -8443,8 +8444,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Blue
-- **Created At (UTC):** Jan 31, 2026 03:28pm
-- **Updated At (UTC):** Feb 02, 2026 03:34pm
+- **Created At:** Jan 31, 2026 03:28pm
+- **Updated At:** Feb 02, 2026 03:34pm
 
 ---
 
@@ -8458,8 +8459,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 03, 2026 10:04am
-- **Updated At (UTC):** Apr 03, 2026 10:04am
+- **Created At:** Apr 03, 2026 10:04am
+- **Updated At:** Apr 03, 2026 10:04am
 
 ---
 
@@ -8475,8 +8476,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 05, 2025 02:10am
-- **Updated At (UTC):** Jun 05, 2025 02:10am
+- **Created At:** Jun 05, 2025 02:10am
+- **Updated At:** Jun 05, 2025 02:10am
 
 ---
 
@@ -8488,8 +8489,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 07, 2025 09:26am
-- **Updated At (UTC):** Jun 18, 2025 01:29am
+- **Created At:** Jun 07, 2025 09:26am
+- **Updated At:** Jun 18, 2025 01:29am
 
 ---
 
@@ -8506,8 +8507,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 07, 2025 10:49am
-- **Updated At (UTC):** Jul 08, 2025 10:36am
+- **Created At:** Jun 07, 2025 10:49am
+- **Updated At:** Jul 08, 2025 10:36am
 
 ---
 
@@ -8522,8 +8523,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Sep 23, 2025 12:54pm
-- **Updated At (UTC):** Sep 23, 2025 12:54pm
+- **Created At:** Sep 23, 2025 12:54pm
+- **Updated At:** Sep 23, 2025 12:54pm
 
 ---
 
@@ -8546,8 +8547,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Purple
-- **Created At (UTC):** May 12, 2026 12:57pm
-- **Updated At (UTC):** May 12, 2026 12:57pm
+- **Created At:** May 12, 2026 12:57pm
+- **Updated At:** May 12, 2026 12:57pm
 
 ---
 
@@ -8570,8 +8571,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 20, 2026 08:09am
-- **Updated At (UTC):** Apr 20, 2026 08:09am
+- **Created At:** Apr 20, 2026 08:09am
+- **Updated At:** Apr 20, 2026 08:09am
 
 ---
 
@@ -8591,8 +8592,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 02, 2026 10:30am
-- **Updated At (UTC):** Mar 02, 2026 10:30am
+- **Created At:** Mar 02, 2026 10:30am
+- **Updated At:** Mar 02, 2026 10:30am
 
 ---
 
@@ -8608,8 +8609,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 23, 2026 04:46am
-- **Updated At (UTC):** Feb 23, 2026 04:46am
+- **Created At:** Feb 23, 2026 04:46am
+- **Updated At:** Feb 23, 2026 04:46am
 
 ---
 
@@ -8628,8 +8629,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 05, 2025 02:59am
-- **Updated At (UTC):** Jun 25, 2025 12:42am
+- **Created At:** Jun 05, 2025 02:59am
+- **Updated At:** Jun 25, 2025 12:42am
 
 ---
 
@@ -8649,8 +8650,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 06, 2025 04:40am
-- **Updated At (UTC):** Jun 25, 2025 12:43am
+- **Created At:** Jun 06, 2025 04:40am
+- **Updated At:** Jun 25, 2025 12:43am
 
 ---
 
@@ -8667,8 +8668,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 16, 2025 12:22pm
-- **Updated At (UTC):** Jul 29, 2025 01:07am
+- **Created At:** Jul 16, 2025 12:22pm
+- **Updated At:** Jul 29, 2025 01:07am
 
 ---
 
@@ -8682,8 +8683,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Nov 10, 2025 11:05am
-- **Updated At (UTC):** Nov 10, 2025 11:05am
+- **Created At:** Nov 10, 2025 11:05am
+- **Updated At:** Nov 10, 2025 11:05am
 
 ---
 
@@ -8698,8 +8699,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 14, 2026 12:20pm
-- **Updated At (UTC):** Jan 14, 2026 12:20pm
+- **Created At:** Jan 14, 2026 12:20pm
+- **Updated At:** Jan 14, 2026 12:20pm
 
 ---
 
@@ -8722,8 +8723,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Jan 31, 2026 09:53am
-- **Updated At (UTC):** Jan 31, 2026 09:53am
+- **Created At:** Jan 31, 2026 09:53am
+- **Updated At:** Jan 31, 2026 09:53am
 
 ---
 
@@ -8747,8 +8748,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Dec 23, 2025 10:17pm
-- **Updated At (UTC):** Jan 28, 2026 10:26am
+- **Created At:** Dec 23, 2025 10:17pm
+- **Updated At:** Jan 28, 2026 10:26am
 
 ---
 
@@ -8757,8 +8758,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 01, 2026 11:13am
-- **Updated At (UTC):** May 01, 2026 11:13am
+- **Created At:** May 01, 2026 11:13am
+- **Updated At:** May 01, 2026 11:13am
 
 ---
 
@@ -8775,8 +8776,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 06, 2026 05:32am
-- **Updated At (UTC):** Feb 06, 2026 05:32am
+- **Created At:** Feb 06, 2026 05:32am
+- **Updated At:** Feb 06, 2026 05:32am
 
 ---
 
@@ -8808,8 +8809,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 08, 2026 12:36am
-- **Updated At (UTC):** Jan 08, 2026 06:54am
+- **Created At:** Jan 08, 2026 12:36am
+- **Updated At:** Jan 08, 2026 06:54am
 
 ---
 
@@ -8823,8 +8824,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 15, 2026 12:58am
-- **Updated At (UTC):** Jan 15, 2026 12:58am
+- **Created At:** Jan 15, 2026 12:58am
+- **Updated At:** Jan 15, 2026 12:58am
 
 ---
 
@@ -8838,8 +8839,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 20, 2026 03:10am
-- **Updated At (UTC):** Jan 20, 2026 03:10am
+- **Created At:** Jan 20, 2026 03:10am
+- **Updated At:** Jan 20, 2026 03:10am
 
 ---
 
@@ -8852,8 +8853,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 07, 2026 01:10pm
-- **Updated At (UTC):** Jul 07, 2026 01:10pm
+- **Created At:** Jul 07, 2026 01:10pm
+- **Updated At:** Jul 07, 2026 01:10pm
 
 ---
 
@@ -8870,8 +8871,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 12, 2026 01:13pm
-- **Updated At (UTC):** Jun 12, 2026 01:13pm
+- **Created At:** Jun 12, 2026 01:13pm
+- **Updated At:** Jun 12, 2026 01:13pm
 
 ---
 
@@ -8887,8 +8888,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 04, 2026 01:41am
-- **Updated At (UTC):** Jun 04, 2026 01:43am
+- **Created At:** Jun 04, 2026 01:41am
+- **Updated At:** Jun 04, 2026 01:43am
 
 ---
 
@@ -8908,8 +8909,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 17, 2026 01:34am
-- **Updated At (UTC):** May 17, 2026 01:34am
+- **Created At:** May 17, 2026 01:34am
+- **Updated At:** May 17, 2026 01:34am
 
 ---
 
@@ -8926,8 +8927,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** May 06, 2026 10:20am
-- **Updated At (UTC):** May 06, 2026 10:20am
+- **Created At:** May 06, 2026 10:20am
+- **Updated At:** May 06, 2026 10:20am
 
 ---
 
@@ -8940,8 +8941,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 06, 2026 09:55am
-- **Updated At (UTC):** May 06, 2026 09:55am
+- **Created At:** May 06, 2026 09:55am
+- **Updated At:** May 06, 2026 09:55am
 
 ---
 
@@ -8954,8 +8955,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** May 05, 2026 01:21am
-- **Updated At (UTC):** May 05, 2026 01:22am
+- **Created At:** May 05, 2026 01:21am
+- **Updated At:** May 05, 2026 01:22am
 
 ---
 
@@ -8969,8 +8970,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 21, 2026 12:31am
-- **Updated At (UTC):** Apr 21, 2026 12:31am
+- **Created At:** Apr 21, 2026 12:31am
+- **Updated At:** Apr 21, 2026 12:31am
 
 ---
 
@@ -8982,8 +8983,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 06, 2026 08:21am
-- **Updated At (UTC):** Apr 06, 2026 08:21am
+- **Created At:** Apr 06, 2026 08:21am
+- **Updated At:** Apr 06, 2026 08:21am
 
 ---
 
@@ -9002,8 +9003,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 03, 2026 12:39am
-- **Updated At (UTC):** Apr 03, 2026 12:39am
+- **Created At:** Apr 03, 2026 12:39am
+- **Updated At:** Apr 03, 2026 12:39am
 
 ---
 
@@ -9024,8 +9025,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 02, 2026 11:17am
-- **Updated At (UTC):** Apr 02, 2026 11:19am
+- **Created At:** Apr 02, 2026 11:17am
+- **Updated At:** Apr 02, 2026 11:19am
 
 ---
 
@@ -9052,8 +9053,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 01, 2026 04:41am
-- **Updated At (UTC):** Apr 01, 2026 04:49am
+- **Created At:** Apr 01, 2026 04:41am
+- **Updated At:** Apr 01, 2026 04:49am
 
 ---
 
@@ -9064,8 +9065,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 01, 2026 02:07am
-- **Updated At (UTC):** Apr 01, 2026 02:07am
+- **Created At:** Apr 01, 2026 02:07am
+- **Updated At:** Apr 01, 2026 02:07am
 
 ---
 
@@ -9077,8 +9078,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 24, 2026 12:30pm
-- **Updated At (UTC):** Mar 24, 2026 12:30pm
+- **Created At:** Mar 24, 2026 12:30pm
+- **Updated At:** Mar 24, 2026 12:30pm
 
 ---
 
@@ -9095,8 +9096,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 09, 2026 12:10pm
-- **Updated At (UTC):** Mar 09, 2026 12:10pm
+- **Created At:** Mar 09, 2026 12:10pm
+- **Updated At:** Mar 09, 2026 12:10pm
 
 ---
 
@@ -9111,8 +9112,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 09, 2026 04:05am
-- **Updated At (UTC):** Mar 09, 2026 04:05am
+- **Created At:** Mar 09, 2026 04:05am
+- **Updated At:** Mar 09, 2026 04:05am
 
 ---
 
@@ -9126,8 +9127,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 06, 2026 12:50pm
-- **Updated At (UTC):** Mar 06, 2026 12:50pm
+- **Created At:** Mar 06, 2026 12:50pm
+- **Updated At:** Mar 06, 2026 12:50pm
 
 ---
 
@@ -9155,8 +9156,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 08, 2026 05:25am
-- **Updated At (UTC):** Jul 21, 2026 02:07am
+- **Created At:** Feb 08, 2026 05:25am
+- **Updated At:** Jul 21, 2026 02:07am
 
 ---
 
@@ -9200,8 +9201,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Dec 24, 2025 06:38am
-- **Updated At (UTC):** Jan 12, 2026 11:07am
+- **Created At:** Dec 24, 2025 06:38am
+- **Updated At:** Jan 12, 2026 11:07am
 
 ---
 
@@ -9226,8 +9227,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** May 18, 2026 01:02pm
-- **Updated At (UTC):** May 18, 2026 01:02pm
+- **Created At:** May 18, 2026 01:02pm
+- **Updated At:** May 18, 2026 01:02pm
 
 ---
 
@@ -9249,8 +9250,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 15, 2026 03:03pm
-- **Updated At (UTC):** May 15, 2026 03:03pm
+- **Created At:** May 15, 2026 03:03pm
+- **Updated At:** May 15, 2026 03:03pm
 
 ---
 
@@ -9287,8 +9288,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 04, 2026 07:19am
-- **Updated At (UTC):** May 04, 2026 07:19am
+- **Created At:** May 04, 2026 07:19am
+- **Updated At:** May 04, 2026 07:19am
 
 ---
 
@@ -9316,8 +9317,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 04, 2026 05:56am
-- **Updated At (UTC):** May 04, 2026 05:56am
+- **Created At:** May 04, 2026 05:56am
+- **Updated At:** May 04, 2026 05:56am
 
 ---
 
@@ -9340,8 +9341,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 25, 2026 12:04am
-- **Updated At (UTC):** Apr 25, 2026 12:04am
+- **Created At:** Apr 25, 2026 12:04am
+- **Updated At:** Apr 25, 2026 12:04am
 
 ---
 
@@ -9373,8 +9374,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 04, 2026 06:02am
-- **Updated At (UTC):** Mar 04, 2026 06:02am
+- **Created At:** Mar 04, 2026 06:02am
+- **Updated At:** Mar 04, 2026 06:02am
 
 ---
 
@@ -9385,8 +9386,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 23, 2026 02:19am
-- **Updated At (UTC):** Feb 23, 2026 02:19am
+- **Created At:** Feb 23, 2026 02:19am
+- **Updated At:** Feb 23, 2026 02:19am
 
 ---
 
@@ -9397,8 +9398,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Feb 07, 2026 05:24am
-- **Updated At (UTC):** Feb 19, 2026 09:25am
+- **Created At:** Feb 07, 2026 05:24am
+- **Updated At:** Feb 19, 2026 09:25am
 
 ---
 
@@ -9413,8 +9414,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jul 16, 2025 12:12pm
-- **Updated At (UTC):** Feb 19, 2026 04:43am
+- **Created At:** Jul 16, 2025 12:12pm
+- **Updated At:** Feb 19, 2026 04:43am
 
 ---
 
@@ -9442,8 +9443,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 04, 2025 08:30am
-- **Updated At (UTC):** Feb 19, 2026 04:44am
+- **Created At:** Jun 04, 2025 08:30am
+- **Updated At:** Feb 19, 2026 04:44am
 
 ---
 
@@ -9462,8 +9463,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 05, 2025 09:31pm
-- **Updated At (UTC):** Feb 21, 2026 09:41am
+- **Created At:** Jun 05, 2025 09:31pm
+- **Updated At:** Feb 21, 2026 09:41am
 
 ---
 
@@ -9479,8 +9480,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 07, 2025 09:31am
-- **Updated At (UTC):** Feb 19, 2026 04:43am
+- **Created At:** Jun 07, 2025 09:31am
+- **Updated At:** Feb 19, 2026 04:43am
 
 ---
 
@@ -9503,8 +9504,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 05, 2025 12:19am
-- **Updated At (UTC):** Feb 19, 2026 09:28am
+- **Created At:** Jun 05, 2025 12:19am
+- **Updated At:** Feb 19, 2026 09:28am
 
 ---
 
@@ -9525,8 +9526,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 05, 2025 03:06am
-- **Updated At (UTC):** Feb 21, 2026 09:42am
+- **Created At:** Jun 05, 2025 03:06am
+- **Updated At:** Feb 21, 2026 09:42am
 
 ---
 
@@ -9550,8 +9551,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 05, 2025 12:23am
-- **Updated At (UTC):** Feb 19, 2026 09:29am
+- **Created At:** Jun 05, 2025 12:23am
+- **Updated At:** Feb 19, 2026 09:29am
 
 ---
 
@@ -9562,8 +9563,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jun 23, 2025 05:56am
-- **Updated At (UTC):** Feb 19, 2026 04:44am
+- **Created At:** Jun 23, 2025 05:56am
+- **Updated At:** Feb 19, 2026 04:44am
 
 ---
 
@@ -9574,8 +9575,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Jan 13, 2026 12:58am
-- **Updated At (UTC):** Feb 19, 2026 09:25am
+- **Created At:** Jan 13, 2026 12:58am
+- **Updated At:** Feb 19, 2026 09:25am
 
 ---
 
@@ -9597,8 +9598,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 17, 2026 02:45am
-- **Updated At (UTC):** May 17, 2026 02:45am
+- **Created At:** May 17, 2026 02:45am
+- **Updated At:** May 17, 2026 02:45am
 
 ---
 
@@ -9632,8 +9633,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 16, 2026 08:19am
-- **Updated At (UTC):** May 16, 2026 08:19am
+- **Created At:** May 16, 2026 08:19am
+- **Updated At:** May 16, 2026 08:19am
 
 ---
 
@@ -9646,8 +9647,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 15, 2026 06:37am
-- **Updated At (UTC):** May 15, 2026 06:37am
+- **Created At:** May 15, 2026 06:37am
+- **Updated At:** May 15, 2026 06:37am
 
 ---
 
@@ -9661,15 +9662,15 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** May 13, 2026 11:27pm
-- **Updated At (UTC):** May 13, 2026 11:27pm
+- **Created At:** May 13, 2026 11:27pm
+- **Updated At:** May 13, 2026 11:27pm
 
 ---
 
 ### 5. 　タイピングコロシアムのじぶんが今倒そうとしているやつｚ６です
 **Author:** ぽてと。 (gs221399)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5505920502/d79275a993bfd695c2d6b5f18c73ba28/Screenshot_2026_04_22_13_08_47.png?Expires=1785407305&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=p3pK1MsUB9u6vD6VdKVoajDQPRVakpJhx8FaIXkZGUPonSX0u%2F%2B%2F%2FC3wb6zbKUotttiBDRiSLaXhT%2B01%2B4kbovqFq%2BHriYOMYwR1FRedqpTUJdfLrSxl1NvL2tdh%2FaUuWEWlgl1fiqinormF%2BIfSZkOIPHX5Zo1JPz36UqB3Zca9zdYIJpJk3xO0To3qsOAeJprLBzMG1OFnwNMogK0dBLTse7k8t4WBfrdEacJUJD4Lx5xXqLTqcdbVFgjjjBjfynyn5vAopK3%2FEqp86aODvEV0btBfklYegcRqxoHyhN%2FcQY5tAZAV8pxpUdfk8AFerxxS6LMBqxfKnLlrATBJ7g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505920502%2Fd79275a993bfd695c2d6b5f18c73ba28%2FScreenshot_2026_04_22_13_08_47.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5505920502/d79275a993bfd695c2d6b5f18c73ba28/Screenshot_2026_04_22_13_08_47.png?Expires=1785412595&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Xv6fuqQJphG4lOm1mSEn4xBUT%2B%2BHshjSSN0Bd8Rx0C%2Bz8g%2FjAIUiPFRqxMFd74FBZpXEjy%2BLFC2dnrEms8bEbxXflT3v3mV0AKxEwV3iVWuKMCZPCru5gR6ygfIPrwO8L4sgSe0INFhjBEgoC9K1AUDVGljw2fuhz7H4qRVEWMf0yxYEkvoH9S89WYUNq9iNMUGwvJ%2FQ2JQR1gdIE9HQps%2FMt%2Fq%2F87pnWjjr01M2g3kP1o7NSZMtoVId4RzkrFJWrMcsO0KflseYNY9ugzTr4gb1XOUrWePJ2vAbk4hDqC%2FUqCoZcwwrNmCyUfmjCaNl0P06IfCdRE6SkHvaOQinHQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5505920502%2Fd79275a993bfd695c2d6b5f18c73ba28%2FScreenshot_2026_04_22_13_08_47.png)
 
 #### Comments (9)
 - **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (May 04, 2026 09:48am): 倒した人いたで
@@ -9684,8 +9685,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 25, 2026 12:06am
-- **Updated At (UTC):** Apr 25, 2026 12:06am
+- **Created At:** Apr 25, 2026 12:06am
+- **Updated At:** Apr 25, 2026 12:06am
 
 ---
 
@@ -9694,15 +9695,15 @@ no batidão
 
 <p>ｗｗｗｗｗ</p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/5976d22cee84d0767261732ed535a29f/Screenshot_2026_03_19_14_24_30.png?Expires=1785407305&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RtzpoGg9LphYWIpF7jeQlOU2rtxD5VReu8fp7jtf0pMX4AAP5523Con6dwmwyQnEqgQoLSzMa23PiNqDl95BskJOJNShjRZV%2F7GTGNQr3mkmj2ZMxXQR%2BIPP2VmYu87SdPRGNJD%2FU8fxg7uwmzBdlq7p5xz3jFfLFktZYi%2BnF6nPCm0zcjNRa5vtGjWQCoZg57s%2BjJwn9Uh7CJPfhMLBSVlhaPsoryKiWredUga%2Bp1EEtt5IiQGr%2BGy1EjsGTjPDNA54%2Bmv5whggm7w9EBOM4pu7CoQ7iYpQwLw3xflgjyETaWjXbWeb3GIxQpoMUYMgM8QUAdP9qqgf3QJ0jxILJg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2F5976d22cee84d0767261732ed535a29f%2FScreenshot_2026_03_19_14_24_30.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5502686130/5976d22cee84d0767261732ed535a29f/Screenshot_2026_03_19_14_24_30.png?Expires=1785412595&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EkvSkiVpnarsfEN6boxvBcL7Q7HDAWjxRuSXuuizIT1WURH4GbGfqW131poYZCz5F2%2FkcVOzkIsBv3ZreoICABiVy0ydDoR4HXQ%2BGcPhhJ5YTIuapr%2FfPc9bKs1zRVtp7TI9WSxhFVhgv7Yjh9ohwB354CA3PuZ3yzRDl0TG3TmNYmoSnGZ%2BkhfszF2%2FONqy5eNassR4aWGisuJKvfJ4RofjcJIxrWOhhcijtT1PTyPxaUxeLhJ%2BK%2BD7sb%2BzyA%2FVaHCqcmlP%2FUtGgVczwvR2bDUmxmdzTbnsQRUtFou%2FAMcjaVYvolvAA4M0Skno1WvG0NlsofrGECt4XwABIojQIQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5502686130%2F5976d22cee84d0767261732ed535a29f%2FScreenshot_2026_03_19_14_24_30.png)
 
 #### Comments (1)
 - **10式** (Apr 24, 2026 04:07am): ポケモンファーストDeath
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 21, 2026 11:42pm
-- **Updated At (UTC):** Apr 23, 2026 08:52am
+- **Created At:** Apr 21, 2026 11:42pm
+- **Updated At:** Apr 23, 2026 08:52am
 
 ---
 
@@ -9719,8 +9720,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 17, 2026 12:42am
-- **Updated At (UTC):** Apr 17, 2026 12:42am
+- **Created At:** Apr 17, 2026 12:42am
+- **Updated At:** Apr 17, 2026 12:42am
 
 ---
 
@@ -9738,8 +9739,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 08, 2026 11:45am
-- **Updated At (UTC):** Apr 08, 2026 11:45am
+- **Created At:** Apr 08, 2026 11:45am
+- **Updated At:** Apr 08, 2026 11:45am
 
 ---
 
@@ -9751,15 +9752,15 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 04, 2026 11:13am
-- **Updated At (UTC):** Apr 04, 2026 11:13am
+- **Created At:** Apr 04, 2026 11:13am
+- **Updated At:** Apr 04, 2026 11:13am
 
 ---
 
 ### 10. Post 10
 **Author:** 白川部吟 (s210547_7)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5365116955/1bfb67fa42572e94b6029b562ad2b51c/IMG_0346.gif?Expires=1785407305&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=oO6Uwfq0LY0rWyyT9YBJ%2BMYwBwQUM%2Bl1AN6Qub%2FsUrg97iltvQmPuz6irRqPEXyJHNqE5KvhYfRdMTcbBll7to5xn9M%2BYmMc2KFRAPHJ18UYwY1O%2BxJ2fkhUf0wikgcKqx19QYRdqEK07q2ebrJb4wni2cVdfPyichWMG0G1PWZFSZlAsqy6FtTTStnXkhpqTlL2kGkPpU1oyqcRcSvXEkr0%2FMJNHbAznfuLNzMAUk2Xn084x68VMuIZ3B28N67pgCiTiWgvECtGjDr4ewMsg5Cu8uBFR0XEthHioaQc7%2FohVey1cngMBF9yHCUpKPozvT2IDiUR7CVulgeapQm4bw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5365116955%2F1bfb67fa42572e94b6029b562ad2b51c%2FIMG_0346.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5365116955/1bfb67fa42572e94b6029b562ad2b51c/IMG_0346.gif?Expires=1785412595&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tqBL3uqSN4NTnpaQfbdj0wZbGb%2FK0sCnDZ%2BI%2BJ1rC5gQvlYQMuYOce08%2B3UwEWFPSfnYkUlEbHKdVm4I6EJIw6Jlpx2qAvTC%2FDshFiWQsVbGZYnPim2dFctzrs4VlyCzaK2Ncz2oNlRy0iNuplaD85KLfuBnEmXZOK6fEYeg35pCu7q%2FnF%2FGL%2F6XRlg8ci4wOhno%2FfpbwzpjoqON8pbl6XaCOOfXxkHZGl5qm5nDQZtOcCKC8DFLC4tT3R1EwBz255LCx%2F3Qg3Po3cs9YxcE0p%2BHWmoQwCgFj0CS7DzdwoISNabFbGrIAOr8XZ0zFBKEXL1pVR0dFoucaVHp6kyX9Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5365116955%2F1bfb67fa42572e94b6029b562ad2b51c%2FIMG_0346.gif)
 
 #### Comments (4)
 - **図工大好きマン** (Apr 10, 2026 05:36am): 可愛いけどオモロイ
@@ -9772,15 +9773,15 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 28, 2026 01:56am
-- **Updated At (UTC):** Mar 28, 2026 01:56am
+- **Created At:** Mar 28, 2026 01:56am
+- **Updated At:** Mar 28, 2026 01:56am
 
 ---
 
 ### 11. Post 11
 **Author:** Helpful Badger
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334667653/faaa32a615d791c2e0c0183e2eaf9ff0/Screenshot_2026_01_27_21_44_25.png?Expires=1785407305&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Ln%2B9aAYhb9SYYpmj30zNjuFIl%2BXXUHxHIQ879L08Z8sJ9fIveVeS4OKlo%2B%2FS%2Bnen2ZTOnZ95usZbE7VItVI9eptuADxyB3uhwxXmaulQgzlaERXAlBsonOohVfis2n%2B%2BetY%2FbA1aC6Q1OkZybIXIRwQO8MN1gYAFr%2FnBdiE0LaTTVlmZwADRY4cBNLBeLnYqqNknRVrlEcXqqpabgv7DK7QHisfdrda4MEi2OvcJSbVCsbNsHV7XJijePTnj4gkw4udtK8l268fn5QDxEV0G4wUNIUwJIIwjw8qg3hvBPxVsU6fBz3P2ggWaQ8Lu2BPAAJVf%2FHNwVWXsNFeezmcYwQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334667653%2Ffaaa32a615d791c2e0c0183e2eaf9ff0%2FScreenshot_2026_01_27_21_44_25.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334667653/faaa32a615d791c2e0c0183e2eaf9ff0/Screenshot_2026_01_27_21_44_25.png?Expires=1785412595&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LTbai%2F3Vw5SrVU1GMBDpfRem%2FFB8%2B6B6uq1pE5rm%2BBOuO%2FDSweL3%2BQ%2BkOozIqZ5fEug5iqKt8gYm8Tdo0Mc4NteLbsZ51vJRFlJiWLg%2FUza7jOsogRP7EMoho25cHhDL3ObpIWzQT03q9EvWsqCdLDvls5PEHhSRW0dOVtorQZjrPYjZd3JO4%2Fu958V8jrKCp9CSNaM4msItLUtM7Urx7aJJk46PIltsY%2FtNER7oXQbcAhR6jnl7fBYyu%2BH2grxPm%2Fa6VyfanayboE5MxeaJONy2RIXISeKytD%2FslCFcK3y1vVcQrwq6qz%2B3xil8fFgxyinN0rCSTC2eLI5NobeZ1g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334667653%2Ffaaa32a615d791c2e0c0183e2eaf9ff0%2FScreenshot_2026_01_27_21_44_25.png)
 
 #### Comments (2)
 - **Enthusiastic Koala** (Mar 25, 2026 04:05am): 友達のランク人間卒業
@@ -9788,8 +9789,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 19, 2026 12:12am
-- **Updated At (UTC):** Mar 24, 2026 12:27pm
+- **Created At:** Mar 19, 2026 12:12am
+- **Updated At:** Mar 24, 2026 12:27pm
 
 ---
 
@@ -9802,8 +9803,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 18, 2026 12:37am
-- **Updated At (UTC):** Mar 24, 2026 12:27pm
+- **Created At:** Mar 18, 2026 12:37am
+- **Updated At:** Mar 24, 2026 12:27pm
 
 ---
 
@@ -9821,8 +9822,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 16, 2026 02:11am
-- **Updated At (UTC):** Mar 24, 2026 12:28pm
+- **Created At:** Mar 16, 2026 02:11am
+- **Updated At:** Mar 24, 2026 12:28pm
 
 ---
 
@@ -9833,8 +9834,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 16, 2026 02:09am
-- **Updated At (UTC):** Mar 24, 2026 12:27pm
+- **Created At:** Mar 16, 2026 02:09am
+- **Updated At:** Mar 24, 2026 12:27pm
 
 ---
 
@@ -9852,8 +9853,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 16, 2026 02:08am
-- **Updated At (UTC):** Mar 24, 2026 12:28pm
+- **Created At:** Mar 16, 2026 02:08am
+- **Updated At:** Mar 24, 2026 12:28pm
 
 ---
 
@@ -9870,8 +9871,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 16, 2026 02:07am
-- **Updated At (UTC):** Mar 24, 2026 12:30pm
+- **Created At:** Mar 16, 2026 02:07am
+- **Updated At:** Mar 24, 2026 12:30pm
 
 ---
 
@@ -9882,8 +9883,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 16, 2026 02:06am
-- **Updated At (UTC):** Mar 24, 2026 12:31pm
+- **Created At:** Mar 16, 2026 02:06am
+- **Updated At:** Mar 24, 2026 12:31pm
 
 ---
 
@@ -9894,8 +9895,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 16, 2026 02:03am
-- **Updated At (UTC):** Mar 24, 2026 12:29pm
+- **Created At:** Mar 16, 2026 02:03am
+- **Updated At:** Mar 24, 2026 12:29pm
 
 ---
 
@@ -9906,8 +9907,8 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 16, 2026 02:00am
-- **Updated At (UTC):** Mar 24, 2026 12:32pm
+- **Created At:** Mar 16, 2026 02:00am
+- **Updated At:** Mar 24, 2026 12:32pm
 
 ---
 
@@ -9918,15 +9919,15 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 13, 2026 09:19am
-- **Updated At (UTC):** Mar 24, 2026 12:31pm
+- **Created At:** Mar 13, 2026 09:19am
+- **Updated At:** Mar 24, 2026 12:31pm
 
 ---
 
 ### 21. Post 21
 **Author:** 匿名
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5275779745/af41c3070ba56fdd41537ed3f071a461/videoplayback.mp4?Expires=1785407305&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JMsRVgybdSaFuaUaZbxFWJryl%2FLiEMN3vaNq0gRBlzIl7c5Awxn7dMeCvBaEB2QuC4f4IHtHoiOKBr5NLUcyQQ9qYcsYRlv5vKA%2F1LNhPVk9sbGpnxpcwpEDOIpcse5rxUcdUo%2B%2B6hUawBDdqL2ZORuS%2Bfu8q9pk1DWTyNH1iz26xDc3eGyj130Ws85C0VjSk75d8TJIkjGwf%2FIC8OPUavHCUrHS0bFmoNilt071nMIXN8m1WLOhWkQJzQhCt3ptVpoVV6sUYB6xtE7gpYSeGPJT8QWMNzBsYSD9jyveTJlq%2FYTQuxV2nhKQuQYbLt8pU2e7ngFB9vV%2FDw%2FLsjyE3w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5275779745%2Faf41c3070ba56fdd41537ed3f071a461%2Fvideoplayback.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5275779745/af41c3070ba56fdd41537ed3f071a461/videoplayback.mp4?Expires=1785412595&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zPLTouTGNBGfjj%2B7jtUR4zFb6%2FuZaPHzdzP5174o5KBsTQ%2Bk%2FgLsq6hAOLyShZBLpjQXgSFr%2F6472ZCJ1sEFo%2B4Oblw6fubINXyn6Ad84hVtaZMv9VGYsywF%2F8CmokMnYlK2bFm7U97q34OQ5rBriOLkHV087ALn0EhrvhtbT5Y28cubsuGenc6e17vjCMoMMrVr7zu%2BpVFHzhbE8BP8YLnw0lDC86eC5cjRJcW6GZCIr92AeWv9jxNtmtcQPVTnX6Nooo4wyJgg8%2FTaNyCBJS4eLIyzE%2FFKnpf5nne5MtmD129W3YTuC4RSEBC%2FoCH%2BDZ75C8IT1oWFksQFK%2Bh8KQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5275779745%2Faf41c3070ba56fdd41537ed3f071a461%2Fvideoplayback.mp4)
 
 #### Comments (3)
 - **ワイ君** (Apr 04, 2026 11:14am): 誰かアカウント作ってー
@@ -9935,7 +9936,7 @@ no batidão
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Mar 07, 2026 10:04am
-- **Updated At (UTC):** Mar 24, 2026 12:34pm
+- **Created At:** Mar 07, 2026 10:04am
+- **Updated At:** Mar 24, 2026 12:34pm
 
 ---
