@@ -1,4 +1,4 @@
-最終取得: 2026/07/23 18:08:21
+最終取得: 2026/07/23 19:03:17
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 24
+- **Posts:** 23
 - **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Jul 23, 2026 06:16am
+- **Updated At (UTC):** Jul 23, 2026 09:34am
 
 ## ルール
 
@@ -118,7 +118,7 @@
 
 <p><br/></p><p><br/></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1785402536&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=y1GQWwnZAck6dhwqjmgw9%2Frra4%2BSAe%2BI%2F2vekAaEjGg%2BSMK%2Fke45Mx67WgKuwKzgOtV8e4q%2FbfT0u5so5RvdGMTt6AFX3CtLYqQaUFYNBMH2bto7LDYnHpdygDp2OYA5w2AfP7rtLonNHGeJdZ%2BSkArr2GlTqv7xDqzByX4f6QagGKpbiRHz8F0ZGWBIlcHuiHhpio1M3i27hE%2BgVC8jnTdxhZVSijt%2Fz0Xy2%2F3OIKzT0qLoieDhBbnLCHUGGWNeVRp4GSqd3sd009glfCP9%2FkaBxoumNXB9Cbtc9%2Bko06VywTFe9jt46Xd8mo1r2i0f%2FkJunXAmRfR9GPCh4HG2iQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1785405832&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lr%2F7eW9r6%2BRVhbQEMY0yh7hUerOkf%2BUs8duHK2dkxB66PYNJ3umsd%2FWsU3G44FaKzGgQv4SDcO43wpr0PqKu0fKnHe0ablPWhFcm2LXplbwsuZV0lDr2MrIAAsY16VQZlJEj6Z8kusH%2F8VM8%2B3jdINu9POAz1DagAaIgEmW9c2%2BmWX1HnTaq%2FMAdpPJc9vuXNHXOsVvPRCV97qTACqfIsdpKoxCaz2uP9v8Md4sJNLvqKS3FBEQ6kt3ZQK6mI90ApAwxoBXtrGKLh7EGbYRgQAoVb9MB8JJ%2BomYz%2B1bFI23wkjj87bc6RLrfwpBArvFjO2TmSJ0thG8A35RnWCwwbg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -328,18 +328,6 @@ No post
 ## 好きな事をしたまえ
 
 ### 1. Post 1
-**Author:** アメツチ
-
-<p>こんにちはーーーー</p>
-
-#### Additional Information
-- **Post color:** Black
-- **Created At (UTC):** Jul 23, 2026 06:16am
-- **Updated At (UTC):** Jul 23, 2026 06:16am
-
----
-
-### 2. Post 2
 **Author:** えろい写真ならたぁくさんとるよ？❤
 
 ![Attachment 1](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/5b52c95bef1e316f24d02aff290588f2/image.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiKODDkaUHvSHRKVnUA3vW0A7Yaom2nXEVoIVvCrg2oui_doTIcIq4lKY0d2XFo9w9sGsD3hMAxs8P2EyjfDm0n0KND1vbr6PSXBXZrt1nn4iw==)
