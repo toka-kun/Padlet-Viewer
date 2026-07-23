@@ -1,4 +1,4 @@
-最終取得: 2026/06/19 09:13:52
+最終取得: 2026/07/23 20:25:19
 
 # プロキシTeck・Land山の上店（本部）
 
@@ -8,8 +8,8 @@
 - **Link:** https://padlet.com/qwertyuiopasdfghjklzxcvbnm5671091/teck-land-afg5jcs1w4yyk2h1
 - **Builder:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
 - **Posts:** 1
-- **Created At (UTC):** May 09, 2025 01:39am
-- **Updated At (UTC):** Jun 19, 2026 12:00am
+- **Created At:** May 09, 2025 01:39am
+- **Updated At:** Jun 19, 2026 12:00am
 
 ## 現在の状況
 
@@ -19,7 +19,7 @@
 <p>再開の見通しはありません</p>
 
 #### Additional Information
-- **Created At (UTC):** May 07, 2026 08:32am
-- **Updated At (UTC):** Jun 17, 2026 07:51am
+- **Created At:** May 07, 2026 08:32am
+- **Updated At:** Jun 17, 2026 07:51am
 
 ---

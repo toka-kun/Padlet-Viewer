@@ -1,4 +1,4 @@
-最終取得: 2026/07/23 19:06:21
+最終取得: 2026/07/23 20:25:19
 
 # 規制解除委員会(ライター受付)
 
@@ -8,8 +8,8 @@
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 23
-- **Created At (UTC):** Jan 30, 2024 08:52am
-- **Updated At (UTC):** Jul 23, 2026 09:34am
+- **Created At:** Jan 30, 2024 08:52am
+- **Updated At:** Jul 23, 2026 09:34am
 
 ## ルール
 
@@ -30,8 +30,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Apr 12, 2026 10:33am
-- **Updated At (UTC):** Apr 12, 2026 10:33am
+- **Created At:** Apr 12, 2026 10:33am
+- **Updated At:** Apr 12, 2026 10:33am
 
 ---
 
@@ -52,8 +52,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** May 03, 2026 01:10pm
-- **Updated At (UTC):** May 03, 2026 01:11pm
+- **Created At:** May 03, 2026 01:10pm
+- **Updated At:** May 03, 2026 01:11pm
 
 ---
 
@@ -64,8 +64,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Mar 23, 2026 12:17pm
-- **Updated At (UTC):** Apr 12, 2026 11:20am
+- **Created At:** Mar 23, 2026 12:17pm
+- **Updated At:** Apr 12, 2026 11:20am
 
 ---
 
@@ -76,8 +76,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Mar 23, 2026 12:15pm
-- **Updated At (UTC):** Mar 23, 2026 12:16pm
+- **Created At:** Mar 23, 2026 12:15pm
+- **Updated At:** Mar 23, 2026 12:16pm
 
 ---
 
@@ -86,8 +86,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Jul 20, 2026 10:07am
-- **Updated At (UTC):** Jul 20, 2026 10:07am
+- **Created At:** Jul 20, 2026 10:07am
+- **Updated At:** Jul 20, 2026 10:07am
 
 ---
 
@@ -98,8 +98,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Jul 18, 2026 02:35am
-- **Updated At (UTC):** Jul 18, 2026 02:35am
+- **Created At:** Jul 18, 2026 02:35am
+- **Updated At:** Jul 18, 2026 02:35am
 
 ---
 
@@ -108,8 +108,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Jul 13, 2026 10:38pm
-- **Updated At (UTC):** Jul 13, 2026 10:38pm
+- **Created At:** Jul 13, 2026 10:38pm
+- **Updated At:** Jul 13, 2026 10:38pm
 
 ---
 
@@ -118,15 +118,15 @@
 
 <p><br/></p><p><br/></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1785406015&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EFNy6zcuil1MzlSrXUmBC7yD1AFhLCP3Wx3DdfeHBuJHM5dfewDL%2BOgchjujMOLVrx4iuiZw75GZ8jl4bDenzl3KnmzjTPKyB25PaALdaIXJ9lfPbFuWMW%2FAzP3BGU8GTzcT2HBywmcirjI11lVlNdTzWb6RnSZidXyVe%2BNLqkXF5%2FP5gwGAODss%2FM%2Fn3VutqStn9zpD7GBgSnevvkse9246dGnZ86V22g67n5V3PTat6RhxpoHItG0Tif1G4e%2BwLoTI2VtHYz3ylRWoj%2Fl5zXwHLjDRPszQr22P0pgPHRBPZiQoEvGslY0GH%2BmXFcqkYQJwmTzYQ34cVqFfYvHGYg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1785410755&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4obb9Vxv4XqMu8PMqGZdQpYEKzgOt2VKcl08vhXJgmhXgTgpwkoYKRg5BTtq76glf9K09ybSCF%2ByPeVIqf0mxrn%2B4s2c55d5V3i9o8mH6GBJdNYsbkRHawKYXV3p5sDP9%2B6U2Dh1oosptJOYFyqvgzuCx0I6JR97XhPtVqCrD4BZUiGi%2FS3B3Ldssy0IQLx0zvwU3EV0DjTlpG4LMk7%2Fdb%2FJ%2B2SOx1B6XSmqh2kvIVmng4ZSEdagGhvzefcxf6hw%2Bd2KMVY5V7NCCXXsiOGFLDLhXGh29PYEwh82GeRipLSrIlEUbMAjiQFb6sz0cSBKfcmNrZCOepI2i0vqocuIVg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Jul 09, 2026 03:55am
-- **Updated At (UTC):** Jul 09, 2026 03:55am
+- **Created At:** Jul 09, 2026 03:55am
+- **Updated At:** Jul 09, 2026 03:55am
 
 ---
 
@@ -137,8 +137,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Jun 29, 2026 12:28pm
-- **Updated At (UTC):** Jun 29, 2026 12:28pm
+- **Created At:** Jun 29, 2026 12:28pm
+- **Updated At:** Jun 29, 2026 12:28pm
 
 ---
 
@@ -147,8 +147,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Jun 28, 2026 08:21am
-- **Updated At (UTC):** Jun 28, 2026 08:21am
+- **Created At:** Jun 28, 2026 08:21am
+- **Updated At:** Jun 28, 2026 08:21am
 
 ---
 
@@ -157,8 +157,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Jun 25, 2026 09:55am
-- **Updated At (UTC):** Jun 25, 2026 09:55am
+- **Created At:** Jun 25, 2026 09:55am
+- **Updated At:** Jun 25, 2026 09:55am
 
 ---
 
@@ -167,8 +167,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Jun 23, 2026 07:47am
-- **Updated At (UTC):** Jun 23, 2026 07:47am
+- **Created At:** Jun 23, 2026 07:47am
+- **Updated At:** Jun 23, 2026 07:47am
 
 ---
 
@@ -182,8 +182,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Jun 19, 2026 12:32pm
-- **Updated At (UTC):** Jun 19, 2026 12:32pm
+- **Created At:** Jun 19, 2026 12:32pm
+- **Updated At:** Jun 19, 2026 12:32pm
 
 ---
 
@@ -196,8 +196,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Apr 05, 2026 05:10am
-- **Updated At (UTC):** Apr 05, 2026 05:20am
+- **Created At:** Apr 05, 2026 05:10am
+- **Updated At:** Apr 05, 2026 05:20am
 
 ---
 
@@ -206,8 +206,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Apr 05, 2026 05:10am
-- **Updated At (UTC):** Apr 05, 2026 05:10am
+- **Created At:** Apr 05, 2026 05:10am
+- **Updated At:** Apr 05, 2026 05:10am
 
 ---
 
@@ -228,8 +228,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Mar 23, 2026 12:22pm
-- **Updated At (UTC):** Apr 05, 2026 05:09am
+- **Created At:** Mar 23, 2026 12:22pm
+- **Updated At:** Apr 05, 2026 05:09am
 
 ---
 
@@ -238,8 +238,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Mar 23, 2026 12:35pm
-- **Updated At (UTC):** Mar 23, 2026 12:35pm
+- **Created At:** Mar 23, 2026 12:35pm
+- **Updated At:** Mar 23, 2026 12:35pm
 
 ---
 
@@ -260,8 +260,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Apr 05, 2026 05:21am
-- **Updated At (UTC):** Apr 10, 2026 09:55pm
+- **Created At:** Apr 05, 2026 05:21am
+- **Updated At:** Apr 10, 2026 09:55pm
 
 ---
 
@@ -272,8 +272,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Mar 23, 2026 12:33pm
-- **Updated At (UTC):** Apr 06, 2026 12:55pm
+- **Created At:** Mar 23, 2026 12:33pm
+- **Updated At:** Apr 06, 2026 12:55pm
 
 ---
 
@@ -285,8 +285,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Jun 23, 2026 01:34pm
-- **Updated At (UTC):** Jun 23, 2026 01:34pm
+- **Created At:** Jun 23, 2026 01:34pm
+- **Updated At:** Jun 23, 2026 01:34pm
 
 ---
 
@@ -306,8 +306,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Apr 11, 2026 10:01am
-- **Updated At (UTC):** Jun 19, 2026 12:20am
+- **Created At:** Apr 11, 2026 10:01am
+- **Updated At:** Jun 19, 2026 12:20am
 
 ---
 
@@ -316,8 +316,8 @@
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Jul 20, 2026 10:07am
-- **Updated At (UTC):** Jul 20, 2026 10:07am
+- **Created At:** Jul 20, 2026 10:07am
+- **Updated At:** Jul 20, 2026 10:07am
 
 ---
 
@@ -336,7 +336,7 @@ No post
 
 #### Additional Information
 - **Post color:** Black
-- **Created At (UTC):** Jul 22, 2026 01:03am
-- **Updated At (UTC):** Jul 22, 2026 01:03am
+- **Created At:** Jul 22, 2026 01:03am
+- **Updated At:** Jul 22, 2026 01:03am
 
 ---

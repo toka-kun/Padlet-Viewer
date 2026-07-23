@@ -1,4 +1,4 @@
-最終取得: 2026/07/22 16:12:55
+最終取得: 2026/07/23 20:25:19
 
 # 受付と匿名用
 
@@ -8,8 +8,8 @@
 - **Link:** https://padlet.com/woolisbest/padlet-99xq7bb7zjzcfzw0
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
-- **Created At (UTC):** Jan 13, 2026 12:01pm
-- **Updated At (UTC):** Jul 13, 2026 10:24pm
+- **Created At:** Jan 13, 2026 12:01pm
+- **Updated At:** Jul 13, 2026 10:24pm
 
 ## 受付
 
@@ -54,8 +54,8 @@
 
 #### Additional Information
 - **Post color:** Purple
-- **Created At (UTC):** Apr 28, 2026 12:06pm
-- **Updated At (UTC):** Apr 28, 2026 12:06pm
+- **Created At:** Apr 28, 2026 12:06pm
+- **Updated At:** Apr 28, 2026 12:06pm
 
 ---
 
@@ -76,8 +76,8 @@
 
 #### Additional Information
 - **Post color:** White
-- **Created At (UTC):** Apr 26, 2026 11:29am
-- **Updated At (UTC):** Apr 26, 2026 11:30am
+- **Created At:** Apr 26, 2026 11:29am
+- **Updated At:** Apr 26, 2026 11:30am
 
 ---
 
@@ -182,8 +182,8 @@
 
 #### Additional Information
 - **Post color:** Yellow
-- **Created At (UTC):** Feb 12, 2026 11:47am
-- **Updated At (UTC):** Feb 12, 2026 11:48am
+- **Created At:** Feb 12, 2026 11:47am
+- **Updated At:** Feb 12, 2026 11:48am
 
 ---
 
@@ -261,8 +261,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Feb 10, 2026 08:56am
-- **Updated At (UTC):** Mar 08, 2026 01:05am
+- **Created At:** Feb 10, 2026 08:56am
+- **Updated At:** Mar 08, 2026 01:05am
 
 ---
 
@@ -338,8 +338,8 @@
 
 #### Additional Information
 - **Post color:** Red
-- **Created At (UTC):** Jan 13, 2026 12:05pm
-- **Updated At (UTC):** May 20, 2026 06:56am
+- **Created At:** Jan 13, 2026 12:05pm
+- **Updated At:** May 20, 2026 06:56am
 
 ---
 
@@ -379,8 +379,8 @@
 
 #### Additional Information
 - **Post color:** Green
-- **Created At (UTC):** Jan 13, 2026 12:09pm
-- **Updated At (UTC):** Mar 13, 2026 10:10am
+- **Created At:** Jan 13, 2026 12:09pm
+- **Updated At:** Mar 13, 2026 10:10am
 
 ---
 
@@ -418,7 +418,7 @@
 
 #### Additional Information
 - **Post color:** Blue
-- **Created At (UTC):** Jan 13, 2026 12:10pm
-- **Updated At (UTC):** Jan 13, 2026 12:14pm
+- **Created At:** Jan 13, 2026 12:10pm
+- **Updated At:** Jan 13, 2026 12:14pm
 
 ---
