@@ -1,4 +1,4 @@
-最終取得: 2026/07/17 18:19:14
+最終取得: 2026/07/25 08:43:58
 
 # プロキシのリンクやYouTubeの閲覧方法を共有する会
 
@@ -7,9 +7,9 @@
 ## 要約
 - **リンク:** https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg
 - **所有者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **投稿:** 415
-- **作成日（UTC）:** 08/20 22:59
-- **更新日（UTC）:** 07/17 07:20
+- **投稿:** 417
+- **Created At:** 08/20 22:59
+- **Updated At:** 07/24 23:41
 
 ## リンク集
 
@@ -20,7 +20,7 @@
 
 **最終更新日:** 2月 14, 2026
 
-**この投稿は役に立ちましたか？:** 4.5 / 5 ⭐ (25)
+**この投稿は役に立ちましたか？:** 4.5 / 5 ⭐ (26)
 
 #### コメント (11)
 - **ᏁγᎶ » Nanachiki** (08/25 07:14): wan511の方荒れすぎやろw
@@ -36,12 +36,12 @@
 - **ハハハ屋は過密主義者レスバ部屋の経営者** (01/20 04:15): おんｗ
 
 #### リアクション
-- **絵文字:** ❤️ (2)
+- **絵文字:** ❤️ (3)
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/25 05:35
-- **更新日（UTC）:** 04/24 09:21
+- **Created At:** 08/25 05:35
+- **Updated At:** 04/24 09:21
 
 ---
 
@@ -52,7 +52,7 @@
 
 **この投稿は役に立ちましたか？:** 4.9 / 5 ⭐ (21)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/621ab046b2ae10ed54cb176137ac73cb/________2_.png?Expires=1784878871&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UwLp7W51Hzggvl1OTAjX6dL07O9C%2Fx3mqAVsODC4kcor42sye6ttdJMC5jPWh2DtlNXEiGpHjnpnB18u1l4aQjgtdRbe2BhfuU84yFerjKfkjX5MCISUMYkiI73w4Im8ZCnzcMWUtFf9Sy1%2BLh01lLDGf2DD1mZtMtta6UbQx2OBPQYfx3eQ5b1Hh%2F0ilqHlHjsTTQYAw3EweEqHwknUh7hoZwl7AThSY%2Fnr8gRNyaFbXf8LC20Y7cVXA%2FRkEHdx5lkJRh58YJVysQH6e%2BcsRSH%2FtZvDNqmByTFEo9rCST5%2FEGYrrNAN6UHOgGML8r%2FChgXh0XA6Py4DPK5GqFk31Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F621ab046b2ae10ed54cb176137ac73cb%2F________2_.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/621ab046b2ae10ed54cb176137ac73cb/________2_.png?Expires=1785541351&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Apt6JtdnK6pePCj1FTGEJFuThVKGHviVDVGJPKhUxlXgbnJAzlaA%2B%2FO%2BnrXiRYHA8j%2FYBgM21kB5nJQY0t6p65ydeSZoYlvqt%2FoJLxa6I5BTw%2Bn%2B5KSst5xPw5KOmg02HKXRANsVsr7Dpfd3OsUrZFB6fQAIFy4%2BvGNDaNCOE7DWedsNyNAGgVfq5cLFgqUbueeuQT2TTaCBOdRObSBghk9s9TaKZawaiZOE2i53Xb8FjTFHB0pUHxc06q6J4PD7mD3D5TVoXd8%2BZfB9MOLQKIXReogV9OdJjqGRP7TxTKxjOYfBLwREOs5c2zDyJplGQvn6o8QzSHcrduK3CDj0hA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F621ab046b2ae10ed54cb176137ac73cb%2F________2_.png)
 
 #### コメント (1)
 - **ゾン** (06/01 12:07): 消したんだやっと
@@ -62,8 +62,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/30 07:52
-- **更新日（UTC）:** 10/01 13:28
+- **Created At:** 05/30 07:52
+- **Updated At:** 10/01 13:28
 
 ---
 
@@ -78,7 +78,7 @@
 
 **この投稿は役に立ちましたか？:** 4.7 / 5 ⭐ (39)
 
-#### コメント (65)
+#### コメント (67)
 - **削除済みユーザー** (08/27 21:51): 作りましたー
 - **削除済みユーザー** (08/29 10:23): ごめんなさい
 - **ᏁγᎶ » Tøka_Kuŋ_** (06/03 10:54): 中身のない投稿や下ネタ、自作発言、重複投稿も削除対象だから気を付けてね
@@ -103,7 +103,7 @@
 - **ㅤ** (10/03 21:15): こんにちわよろすく
 - **しゃがいも** (10/05 14:38): こんにちわです
 - **削除済みユーザー** (10/07 09:28): こんにちは！よろしくおねがいします!!
-- **豨(元冬で1番楽しいのは海)エドガーの11番弟子** (10/10 13:56): よろしくお願いします
+- **カカカ力カカカ(元冬で1番楽しいのは海)エドガーの11番弟子** (10/10 13:56): よろしくお願いします
 - **AU_ 3821632** (10/20 00:39): 初めまして。学校からやってます。よろしくお願い致します。
 - **pyaaaa** (11/19 06:01): よろしくお願いします
 - **SandA_Best_partnars** (12/10 08:20): 新入りなんですけど友達のM（仮名）から入れられたけど何がなんだかわかんない
@@ -137,21 +137,23 @@
 - **HarukiHaruki** (05/08 03:53): 初めまして
 - **猫好き** (05/14 10:42): よろしっく
 - **猫好き** (05/14 10:54): あ、あと読みました。わかりました
-- **あおくんゆーりんとペア画中** (06/06 23:44): 確認済み
-- **あおくんゆーりんとペア画中** (06/06 23:44): 既読
+- **あおくん** (06/06 23:44): 確認済み
+- **あおくん** (06/06 23:44): 既読
 - **アイチェルジャクソン** (06/10 07:35): 皆様、この度は私の学校の友達が多少この部屋を荒らしていまったことを心よりお詫び申し上げます。そしてこれからも皆様の素晴らしい情報やリンクを投稿してくださり、皆様に見てもらえることを心より願っております。これからも見つけたサイトがあれば、心身共に皆様にお知らせしますこれからは友達にタブレットを貸さないようにします。これからもよろしくお願いいたします。いうのが遅くなったと思いますが、僕たちは小学6年生です学校名は言いませんが大阪に住んでおりますので大阪弁になってしまうと思いますがこれからもよろしくお願いします
 - **Natsu** (06/11 08:56): 🫢😅👊
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (06/30 01:23): はい、許します　　　　　　　　　　　( -_•)ᡕᠵデᡁ᠊╾━
 - **@tyosakukennng** (07/05 02:48): 前から見てた人です。よろしくお願いしま〜す
 - **村松駿** (07/16 11:59): 許していいんじゃない？
+- **kak1** (07/22 11:36): よろしくお願いします
+- **とりもも@toriproZ** (07/23 04:24): よろしくおねがいします
 
 #### リアクション
 - **絵文字:** ❤️ (2)
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **作成日（UTC）:** 08/25 07:46
-- **更新日（UTC）:** 09/24 09:52
+- **Created At:** 08/25 07:46
+- **Updated At:** 09/24 09:52
 
 ---
 
@@ -192,7 +194,7 @@
 - **リ党衆議院議席大幅獲得全465議席　#物体的概念全部かわいいへ向けた取り組み#全生命体を従えるcutest　people　in　the　world♡** (02/28 11:05): ライターほしいです
 - **わーくん　#無差別荒らし** (04/11 07:52): よろしくお願いします！
 - **りな319＃ルミナス族リーダー** (05/05 08:02): ライター欲しいです。いろんなサイト広めました。これからも広めていきたいのですが、投稿をかけないので、ライターが欲しいです。
-- **島津扇** (05/03 00:44): ルールは守ろうぜ
+- **しまうま** (05/03 00:44): ルールは守ろうぜ
 - **ᏁγᎶ » Tøka_Kuŋ_** (05/14 04:33): ライター持ってなくてもここに投稿すれば管理者が移動させるでhttps://padlet.com/Toka_Kun_/submission-request/pmywv95rwjm4vGA8
 - **猫好き** (05/14 10:44): ライターってなに？
 - **ᏁγᎶ » Tøka_Kuŋ_** (05/14 21:57): 投稿できる権限
@@ -204,36 +206,56 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/30 07:52
-- **更新日（UTC）:** 05/14 04:33
+- **Created At:** 05/30 07:52
+- **Updated At:** 05/14 04:33
 
 ---
 
 ## 管理者からの連絡
 
-### 1. オープンチャットを追加予定です。
+### 1. しあtubeが復活！
+**作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+**この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (2)
+
+[https://padlet.com/Toka_Kun_/breakout-room/BbjnqxreVo79493Q-oAdpz24dgkRJv10R](https://padlet.com/Toka_Kun_/breakout-room/BbjnqxreVo79493Q-oAdpz24dgkRJv10R)
+
+#### リアクション
+- **絵文字:** 🎉 (8)
+
+#### その他の情報
+- **投稿のカラー:** レッド
+- **Created At:** 07/22 05:24
+- **Updated At:** 07/22 05:24
+
+---
+
+### 2. オープンチャットを追加予定です。
 **作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>先週投稿したやつが使えない人用</strong></p><p><br/></p><p><strong>➥ 上から使ってね</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-more--toka-kun.replit.app/">https://wkt-plus-more--toka-kun.replit.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-test.up.railway.app/">https://wkt-test.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-edu.vercel.app/">https://wkt-edu.vercel.app/</a></p></li></ul>
 
 **この投稿は役に立ちましたか？:** 4.6 / 5 ⭐ (5)
 
-#### コメント (3)
+#### コメント (6)
 - **oooooooo** (07/13 00:21): いつできるの
 - **村松駿** (07/15 11:20): できねー
 - **大河ドラマふぁん** (07/17 06:17): 大阪市iフィルターぶろ
+- **Anonymous** (07/18 12:14): 最近のわかめ、動画見ようとするとなぜかログインに戻される現象が起きてる
+- **ᏁγᎶ » Tøka_Kuŋ_** (07/19 01:27): ほかのYouTubeサイトだとどうなる？
+- **仙人@suger** (07/20 10:09): 僕も戻されてたけどシークレットオフにしたら治ったよ
 
 #### リアクション
 - **絵文字:** ❤️ (4)
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/10 11:00
-- **更新日（UTC）:** 07/10 11:03
+- **Created At:** 07/10 11:00
+- **Updated At:** 07/10 11:03
 
 ---
 
-### 2. わかめtube Plusを更新しました。
+### 3. わかめtube Plusを更新しました。
 **作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p><strong>テレビが見れるようになってるよ。ほかにも色々更新した。</strong></p><p><br/></p><p><strong>➥ 新リンク</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-next-level.webredirect.org/">https://wkt-next-level.webredirect.org/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://goaway.opik.net/">https://goaway.opik.net/</a></p></li></ul>
@@ -265,12 +287,12 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/28 10:11
-- **更新日（UTC）:** 07/03 10:42
+- **Created At:** 06/28 10:11
+- **Updated At:** 07/03 10:42
 
 ---
 
-### 3. このセクションには投稿しないで下さい。
+### 4. このセクションには投稿しないで下さい。
 **作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 **この投稿は役に立ちましたか？:** 4.1 / 5 ⭐ (24)
@@ -283,8 +305,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/30 07:52
-- **更新日（UTC）:** 09/24 09:53
+- **Created At:** 05/30 07:52
+- **Updated At:** 09/24 09:53
 
 ---
 
@@ -293,9 +315,9 @@
 ### 1. 閲覧数450,000まで
 **作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<ul><li><p><strong>2026/07/15 - 訪問者115,000達成</strong></p></li><li><p><strong>2026/07/08 - 420,000達成</strong></p></li><li><p><strong>2026/06/29 - 410,000達成</strong></p></li><li><p><strong>2026/06/26 - 訪問者110,000達成</strong></p></li></ul>
+<ul><li><p><strong>2026/07/19 - 430,000達成</strong></p></li><li><p><strong>2026/07/15 - 訪問者115,000達成</strong></p></li><li><p><strong>2026/07/08 - 420,000達成</strong></p></li><li><p><strong>2026/06/29 - 410,000達成</strong></p></li><li><p><strong>2026/06/26 - 訪問者110,000達成</strong></p></li></ul>
 
-**この投稿は役に立ちましたか？:** 4.2 / 5 ⭐ (10)
+**この投稿は役に立ちましたか？:** 4.3 / 5 ⭐ (11)
 
 #### コメント (1)
 - **村松駿** (07/15 11:22): 未来話してる？
@@ -305,8 +327,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/26 21:05
-- **更新日（UTC）:** 07/15 10:05
+- **Created At:** 06/26 21:05
+- **Updated At:** 07/19 03:58
 
 ---
 
@@ -342,8 +364,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/15 22:10
-- **更新日（UTC）:** 06/21 22:56
+- **Created At:** 05/15 22:10
+- **Updated At:** 06/21 22:56
 
 ---
 
@@ -354,7 +376,7 @@
 
 #### コメント (4)
 - **荒らしの王** (05/22 02:24): はい
-- **sw ていふじょ** (06/11 01:43): 荒らしの王ワロタ
+- **sw おやすみ** (06/11 01:43): 荒らしの王ワロタ
 - **Roblox_user-u** (07/06 21:55): 草w
 - **村松駿** (07/15 11:22): ごめんなさい(_ _;)
 
@@ -363,8 +385,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/17 13:52
-- **更新日（UTC）:** 09/24 09:56
+- **Created At:** 06/17 13:52
+- **Updated At:** 09/24 09:56
 
 ---
 
@@ -384,8 +406,8 @@
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **作成日（UTC）:** 05/23 12:02
-- **更新日（UTC）:** 06/28 12:41
+- **Created At:** 05/23 12:02
+- **Updated At:** 06/28 12:41
 
 ---
 
@@ -399,8 +421,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/30 07:52
-- **更新日（UTC）:** 09/24 09:55
+- **Created At:** 05/30 07:52
+- **Updated At:** 09/24 09:55
 
 ---
 
@@ -413,7 +435,7 @@
 
 **この投稿は役に立ちましたか？:** 4.4 / 5 ⭐ (27)
 
-#### コメント (71)
+#### コメント (78)
 - **NyrikX(足立区陣ICFS系)** (02/11 06:59): Utopiaについてで、私が昔に使えたUtopiaはそうではありませんでしたが、今使えるUtopiaは広告オフと設定しても広告が頻繁に出てきます。Kazwireについてで、開けたものはすべてそのkazwireのサイトの中でyoutubeとか飛び込もうとしてもボタンをどう押しても何も反応がありません。修正できませんか？
 - **ᏁγᎶ » Tøka_Kuŋ_** (01/22 11:04): chrome://new-tab-page　は普通にただの新しいタブ
 - **ᏁγᎶ » Tøka_Kuŋ_** (01/22 11:05): サイトのリンクですらないしStartpageみたいなGoogleの検索アルゴリズムを搭載しつつプロキシとしての機能をもつやつはそう簡単には見つからない
@@ -485,14 +507,21 @@
 - **ハナソラ** (06/26 12:31): 旭川民いないすか
 - **Anonymous** (06/27 06:45): 無断転載の極みがあります。https://html.cafe/x2a4e066c
 - **Anonymous** (06/27 06:45): 消した方がいいと思います。
+- **Ω** (07/18 13:56): なんでも見えるサイトないっすか?
+- **wolor-pro** (07/19 03:11): アカウント作り直した
+- **wolor-pro** (07/19 03:13): あ、min tube、yuki +、youtube + は僕の管理下にあるから更新しといて。リポはgithubのwoolisbest-honkeのとこあるよ
+- **wolor-pro** (07/19 03:15): ばななが引退したらchoco tubeもこっちの管理下になる予定
+- **ᏁγᎶ » Tøka_Kuŋ_** (07/22 00:15): matte
+- **名無しのゴンベイ** (07/23 08:20): ユーチューブって見れないんですか？
+- **名無しのゴンベイ** (07/23 08:20): またはそうゆうサイトってありますか？
 
 #### リアクション
 - **絵文字:** ❤️ (4)
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **作成日（UTC）:** 05/23 11:54
-- **更新日（UTC）:** 07/06 15:04
+- **Created At:** 05/23 11:54
+- **Updated At:** 07/06 15:04
 
 ---
 
@@ -522,28 +551,87 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 09/01 12:01
-- **更新日（UTC）:** 11/24 01:45
+- **Created At:** 09/01 12:01
+- **Updated At:** 11/24 01:45
 
 ---
 
 ## 雑談
 
-### 1. NintendoSwitchの脱獄ごっこやってる人いる？
+### 1. わかめPlusサーバー不調だなと思ったら予備サーバーが予備じゃなくなってたわ
+**作成者:** 削除済みユーザー (sakujosaretenaiyo)
+
+**この投稿は役に立ちましたか？:** 0 / 5 ⭐
+
+#### コメント (7)
+- **削除済みユーザー** (07/24 13:54): freemake予備じゃなくしたんやな、臨時か⋯
+- **ᏁγᎶ » Tøka_Kuŋ_** (07/24 13:56): いや取得できるようにした
+- **ᏁγᎶ » Tøka_Kuŋ_** (07/24 13:56): あとacethinkerしんでる
+- **Anonymous** (07/24 14:45): ユートピアいつくらいにないるかわかりますか？
+- **Anonymous** (07/24 14:45): なおる
+- **Anonymous** (07/24 22:44): まじで早く治ってほしい
+- **ᏁγᎶ » Tøka_Kuŋ_** (07/24 23:41): acethinker復活
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **Created At:** 07/24 13:54
+- **Updated At:** 07/24 13:54
+
+---
+
+### 2. 今こんなかんじやでー
+**作成者:** 029daisuki（仮本垢）本垢ログインできない＼(^o^)／ (dragoniken910)
+
+<p>これ完成したら、Gitでレポ作るわ~多分イケる人がすくないけどGitからいけるやつは行けると思う。めっちゃめんどいやけどがんばるわー</p>
+
+**この投稿は役に立ちましたか？:** 0 / 5 ⭐
+
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4439098730/7ebbb09bb7a7c4a2965a6c9a9be86b70/Screenshot_2026_07_21_09_51_08.png?Expires=1785541352&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hHRmCPySiUMfTo8mO%2F530k6imZsJzId8oORLSZG536qXHK715bhjMKU0TWIRmZA%2FziMo60pIHWMgcIVemA%2FsfbH2dZRGAE46N5Z9CkYBHUxGhNUAog1ed4G9wv1o99Ycb2EN7yf7PKMleqKUx9KAALq%2B4%2BRA8I3JF%2Fi1z0VjyMawoKJEGRoqM70wozP4%2BxGX2h7KbaFNTgiWMu1bbyEec5FccgwbIPp86LNqhe312O95F7es0SShLXniXYyhMZd8%2FDP8Z5yvNHADqma9iPPq7g9NzFvqOfOxiybI45bauGVpMoUZ6OnNtwQ1czIgTYTdloIcOgimws3EcCOkrVnuiw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4439098730%2F7ebbb09bb7a7c4a2965a6c9a9be86b70%2FScreenshot_2026_07_21_09_51_08.png)
+
+#### コメント (13)
+- **匿名** (07/21 03:02): タブ多すぎるだろｗ
+- **常闇トワ#サブ垢 *フォローよろ*** (07/21 22:27): すいませぇーん
+- **wolor-pro** (07/21 22:52): base44でめんどいは草
+- **ジジイ** (07/22 02:28): すごいね
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (07/22 12:41): 全部使うんかな タブ
+- **029daisuki（仮本垢）本垢ログインできない＼(^o^)／** (07/23 00:15): 無課金だからしかたないやろ笑
+- **時透無一郎** (07/23 00:32): AI使ってんのかよｗｗｗゴミゲー作んなｗｗｗｗｗｗｗ
+- **029daisuki（仮本垢）本垢ログインできない＼(^o^)／** (07/23 01:10): ほぼ俺がコード打ち込んでるみたいなもんだからな？？ちなみに、APIがないし、サイト化する知識はそこまでないからコードだけ売って使ってるだけやで？？？
+- **wolor-pro** (07/23 01:29): (?????)
+- **wolor-pro** (07/23 01:29): AI感、、、
+- **ᏁγᎶ » Tøka_Kuŋ_** (07/23 05:08): もうAIを使わない開発者ほとんどいないよ
+- **村松駿** (07/23 10:38): がんば
+- **hirafu** (07/23 11:18): がんばってね
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **Created At:** 07/21 02:52
+- **Updated At:** 07/21 02:52
+
+---
+
+### 3. NintendoSwitchの脱獄ごっこやってる人いる？
 **作成者:** ナンジャモ (sukaretonanjamo)
 
 <p>やってる人いたら一緒にやりたい</p>
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
+#### コメント (5)
+- **匿名** (07/18 11:49): 脱獄ごっこ懐かしいな
+- **村松駿** (07/18 23:27): やってないよ
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (07/19 01:32): なっつかしいげーむ
+- **時透無一郎** (07/20 01:04): きいたことあるな
+- **陰陽** (07/21 00:25): ＼(^o^)／
+
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **作成日（UTC）:** 07/17 07:09
-- **更新日（UTC）:** 07/17 07:20
+- **Created At:** 07/17 07:09
+- **Updated At:** 07/17 07:20
 
 ---
 
-### 2. Toka_Kun_さんいますか?
+### 4. Toka_Kun_さんいますか?
 **作成者:** Magurock (偽物･偽造に注意) (Magurock)
 
 <p>江戸広場の1周年のイベントに協力してもらいたくて</p>
@@ -563,12 +651,12 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/15 06:46
-- **更新日（UTC）:** 07/15 06:46
+- **Created At:** 07/15 06:46
+- **Updated At:** 07/15 06:46
 
 ---
 
-### 3. 適当に作ったYouTubeサイト stream再生の方法教えてくれ...
+### 5. 適当に作ったYouTubeサイト stream再生の方法教えてくれ...
 **作成者:** NyrikX(足立区陣ICFS系) (h3000370)
 
 <p>深夜に数時間html.cafeでYouTubeサイト作ってみたけど機能がまだ整備不足でごみすぎる...どうすれば動画をstream再生できるのでしょうか？いちよう<a rel="noopener noreferrer nofollow" href="https://html.cafe/x530a12f2?k=55bf9c7850ea4bf79181086e2bc5f3df181dbdd4">これが編集用の</a></p>
@@ -577,53 +665,64 @@
 
 [添付ファイル 1](https://html.cafe/x530a12f2)
 
-#### コメント (2)
+#### コメント (11)
 - **バッタ　ｲﾏﾊﾆｰﾄﾀﾞﾖ** (07/15 08:00): 外部API使わないと無理
 - **NyrikX(足立区陣ICFS系)** (07/15 13:47): AIが教えてくれないからむずい
+- **匿名** (07/21 04:07): これは？
+- **匿名** (07/21 04:07):         HLS ストリーム再生テスト        https://jsdelivr.net">            body { background-color: #111; display: flex; justify-content: center; align-items: center; height: 100vh; }        video { width: 100%; max-width: 800px; }        // ストリーミング動画（HLS）のURL    const videoSrc = 'https://mux.dev';    const video = document.getElementById('video');    // Hls.js対応チェック    if (Hls.isSupported()) {        const hls = new Hls();        hls.loadSource(videoSrc);        hls.attachMedia(video);    }    // SafariなどのネイティブHLS対応ブラウザ用    else if (video.canPlayType('application/vnd.apple.mpegurl')) {        video.src = videoSrc;    } 
+- **アカウント消失中の🐔** (07/21 04:13): それは余裕で無理
+- **アカウント消失中の🐔** (07/21 10:34): そもそも、stream再生ってのは外部のプロキシサイトなど通して再生しているから（ﾀﾌﾞﾝ）java scriptやhtmlだけでは再現できない、なのでhtml.cafeでは無理
+- **Kick** (07/23 22:06): 多分学タブやんな？それ前提で話すと、まず今僕が調べてみた感じだとhtml.cafeってやつではバックエンドが作れないっぽいので外部のブロックされているサイトとは通信できません。なのでstream再生したくてもinvidious apiなどと通信できないので動画データが取れないです他のバックエンドが使えるホスティングサービス（コードサンドボックスやrender、koyebなど）を使うか、YouTube educationとかYouTube nocookieを埋め込んで再生したらワンチャンいけますよ可能性は低いですが。まぁあんま当てにしないであってるかわからん
+- **NyrikX(足立区陣ICFS系)** (07/23 02:24): これあるよ https://html.cafe/xfb9b96ee https://html.cafe/xc860e52f
+- **村松駿** (07/23 10:39): できない
+- **Kick** (07/24 23:41): 知らんけどおそらくhttps://html.cafe/xfb9b96eeこれらはバックエンドを他のホスティングサービス使ったりしてんじゃない?俺は正味html.cafe使ったことないからわからん
+- **Kick** (07/24 23:41): うんやっぱ一回使ってみてんけどおそらくhttps://getgooglevideourl.onrender.com/get?id=これをフロントエンドで叩いてるんやね。実際onrender系のurlブロックされてる俺はこのサイト使えない。あ、でも君がonrender系のサイト使えるならrenderをバックエンドにして作ってみたら？それならできると思う
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/14 15:30
-- **更新日（UTC）:** 07/15 01:18
+- **Created At:** 07/14 15:30
+- **Updated At:** 07/15 01:18
 
 ---
 
-### 4. 久しぶりに来てみた
-**作成者:** 煮物 (nimonodayo)
+### 6. 久しぶりに来てみた
+**作成者:** 煮物　#oddoのスポンサー！ (nimonodayo)
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (1)
 
-#### コメント (1)
+#### コメント (2)
 - **Natsu** (07/14 14:16): 👍
+- **村松駿** (07/23 10:39): 👏
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/14 06:09
-- **更新日（UTC）:** 07/14 06:09
+- **Created At:** 07/14 06:09
+- **Updated At:** 07/14 06:09
 
 ---
 
-### 5. アオのハコ完結！
+### 7. アオのハコ完結！
 **作成者:** Natsu (Natsu_dao)
 
 <p>みんなで悲しみを分かち合いたい</p>
 
 **この投稿は役に立ちましたか？:** 2.3 / 5 ⭐ (3)
 
-#### コメント (4)
+#### コメント (5)
 - **オソザクラ** (07/15 10:58): よっしゃ！
 - **村松駿** (07/15 11:05): ほんと
 - **村松駿** (07/15 11:05): アオのハコって何そいえば
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (07/17 01:15): 誰とも分かち合えない
+- **村松駿** (07/18 06:42): おれも
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/13 01:27
-- **更新日（UTC）:** 07/13 08:48
+- **Created At:** 07/13 01:27
+- **Updated At:** 07/13 08:48
 
 ---
 
-### 6. こんにちは。お久しぶりです。
+### 8. こんにちは。お久しぶりです。
 **作成者:** 太古の太鼓~1853 Brainrot (BERURI1214)
 
 <p>オワコンの共有広場の主です。（ゲームサイトやプロキシなどの共有広場）</p><p>今更だけど〇〇tube系とプロキシ系とゲーム系あげます。</p><p><br/></p><p>以下のリンク</p><p>仙人tube</p><p><a rel="noopener noreferrer nofollow" href="https://sennin-tube-plus-god-production.up.railway.app/">https://sennin-tube-plus-god-production.up.railway.app/</a></p><p>プロキシ</p><p><a rel="noopener noreferrer nofollow" href="https://lunar.v2.nana.govt.hu/">https://lunar.v2.nana.govt.hu/</a></p><p><a rel="noopener noreferrer nofollow" href="https://www-reflect4.buachi.work/">https://www-reflect4.buachi.work/</a></p><p>ゲーム</p><p><a rel="noopener noreferrer nofollow" href="https://yandex.by/games/">https://yandex.by/games/</a></p><p>→ロシア語だから翻訳して</p><p><a rel="noopener noreferrer nofollow" href="https://fortzone.net/">https://fortzone.net/</a></p><p>→フォートナイトのパクリゲーム</p><p>今のところは以上です。</p>
@@ -638,17 +737,17 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/10 07:58
-- **更新日（UTC）:** 07/12 22:52
+- **Created At:** 07/10 07:58
+- **Updated At:** 07/12 22:52
 
 ---
 
-### 7. 俺のゲーム最近過疎ってて草
+### 9. 俺のゲーム最近過疎ってて草
 **作成者:** 029daisuki（仮本垢）本垢ログインできない＼(^o^)／ (dragoniken910)
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4439098730/9cdd76714abd214575393a7839f5f762/IMG_0958.png?Expires=1784878872&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TueyxQXp2xBt1Aug%2BJybyC%2FW0JRIMz661l%2FVh31qvZnaJKobGeXhfCKRPkmSEOV%2BSETa%2Bb0J7fT5QcpQIpyudH%2Bpqd6yeVswjyNUvbcWOFfj6POvctYgAhX7kTuCGhygBJU%2F2zxaS%2BES6gIQ%2FzAFrKLYPrfeVUvddEktZe487UfDvC4RDzb%2BMLrEmgG8lxn9W%2B0CPelQ2I1nZTmBNBbe1kCbNeL0JvNhG%2Bb0MEWHkB%2BrADfpnRWvtot%2BJooA5%2BVgO7pbP1VGWOy7JEHroMbXWnUtApu40TOd3G5zVr%2FZ2azyvc9i9YjLZTn3%2B2PYUYdcN9WE8ZZkSB6M%2B2AeJ%2FB2Qw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4439098730%2F9cdd76714abd214575393a7839f5f762%2FIMG_0958.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4439098730/9cdd76714abd214575393a7839f5f762/IMG_0958.png?Expires=1785541352&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TEy7iv4uuc91uYSK5HKoBWc7fADyB4SY4lTMRXdXtEqnEJvEQrlnINxtIuTykluksu%2BC1%2FsQjj71uG8i9%2F1gr7mY45BaLTzoKDs2tUdETcolqVoNiBLDuuQ%2F4hhxJj5bkxm324plm8zaytq72xIO4qyZWvKv0qQa%2F0VyNyrMoK5G1Yc%2F6HT6w%2F9ypFgh4ckQBMy9T2iU6VCpMPkY4x2wrlWmbrlN%2BnI7XNdukuJD8SNUwHDTexmYvPAC2EffdnG2BJNMktgHW9mnq6fK2%2BP5N0cGb8IeBPPea3NOo8xBfY77qDogzfYulQKMBMu7aJIlviGMUBBlvTiel953gf89vw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4439098730%2F9cdd76714abd214575393a7839f5f762%2FIMG_0958.png)
 
 #### コメント (4)
 - **村松駿** (07/08 08:47): こんにちは
@@ -658,18 +757,17 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/08 08:08
-- **更新日（UTC）:** 07/08 08:08
+- **Created At:** 07/08 08:08
+- **Updated At:** 07/08 08:08
 
 ---
 
-### 8. お久しぶりです
+### 10. お久しぶりです
 **作成者:** Magurock (偽物･偽造に注意) (Magurock)
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-#### コメント (3)
-- **ᏁγᎶ » Tøka_Kuŋ_** (07/07 07:49): 最近何やってる？
+#### コメント (2)
 - **村松駿** (07/07 10:16): 初めての人です
 - **村松駿** (07/07 10:16): [添付ファイル](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/jpoxajznRd80abPE) あめでじしってるひとおる？
 
@@ -678,20 +776,20 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/07 07:01
-- **更新日（UTC）:** 07/07 07:48
+- **Created At:** 07/07 07:01
+- **Updated At:** 07/07 07:48
 
 ---
 
-### 9. ????????????????????????????????
+### 11. ????????????????????????????????
 **作成者:** バッタ　ｲﾏﾊﾆｰﾄﾀﾞﾖ (bbbaaattttttaaa)
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/a22c1dc2513d8cbf78d48be9c3d483c8/Screenshot_2026_07_02_16_15_13.png?Expires=1784878872&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EIsjDTl7%2Fh6PvEY%2B%2B9vQsGfTZoYyK2B9u4HfvUKtjWm1ez%2BbFheB2egzYhYNqCy%2BhXDyZQR8zs0x7jQAHZD4ld4xJaisB63mhlx7K434i6o968TShL013Et7nWgPnYpSr%2FqEolB8nxi8UNWsO1CWyPC10yQwC4%2Behh6MKHO1p82P8VFtlsuaH%2FJ0wW6dDrugbOGxM7wPizT9rjsL%2BzRKqfY5mNUezQP5XB%2BpESj1MTwNggUhVAkS2FYC8JCZzFhNNRWu0SoW%2By%2Bo%2B0DWDr9Tp2UU4IT%2B36YlgvWycz%2FWV%2Bdw%2BfY%2FYChjVA9Q%2F0lqJ5KffDVIHpZuyTm1zMZ2Lwjcgw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2Fa22c1dc2513d8cbf78d48be9c3d483c8%2FScreenshot_2026_07_02_16_15_13.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/a22c1dc2513d8cbf78d48be9c3d483c8/Screenshot_2026_07_02_16_15_13.png?Expires=1785541352&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ABPoYuPbs7Dfq1aEoEl0GQdslqL8yyc0Go0GPReGolfsYnqu3y6sfiIyi5K5%2Bt827EavnHWMSJoAITQFqbSysYa07%2FQdMpZoVatFGJTYiSQm3y3UTDUXdKEYfn2vuijk86LdAC1OX0Xgb1ElJemGPPOOfyB9x6ifk9MU9grO7QePB8ap32IY7UrD6VCZvlcd6LvsCZmpRxIf7AKI3W59o6iZ8%2BHD%2BP4l77w51B6TepRl%2FdMyTZ9OFXMIVY%2FlphRBEEqdGW3NZHLbxmGZwxZTb5oLlcz8700YftpXMleCllCBl0v0gLT7HXowHp2fGXgOYBXVLa9i3%2FpVfrFgddv9fg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2Fa22c1dc2513d8cbf78d48be9c3d483c8%2FScreenshot_2026_07_02_16_15_13.png)
 
 #### コメント (6)
-- **煮物** (07/02 21:29): ｗｗｗ
+- **煮物　#oddoのスポンサー！** (07/02 21:29): ｗｗｗ
 - **フキノトウ** (07/02 22:49): どゆこと
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (07/03 00:06): 企業IDを隠さないスタイル
 - **学タブ民** (07/03 00:21): 企業lD隠せよWWW
@@ -700,31 +798,34 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/02 07:16
-- **更新日（UTC）:** 07/02 07:17
+- **Created At:** 07/02 07:16
+- **Updated At:** 07/02 07:17
 
 ---
 
-### 10. Lovableのクラウド無料枠が想定の10倍以上あった
+### 12. Lovableのクラウド無料枠が想定の10倍以上あった
 **作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 <p>AIの無料枠に気取られてた</p>
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
+#### コメント (1)
+- **村松駿** (07/23 10:40): ？？
+
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/02 02:17
-- **更新日（UTC）:** 07/02 02:17
+- **Created At:** 07/02 02:17
+- **Updated At:** 07/02 02:17
 
 ---
 
-### 11. 部屋主のフォロワー数が気になる
+### 13. 部屋主のフォロワー数が気になる
 **作成者:** ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛ (neon_ix)
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (2)
 
-#### コメント (11)
+#### コメント (15)
 - **時透無一郎** (07/01 08:38): ヤバそう、、、
 - **Natsu** (07/01 13:19): tasikani
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (07/02 01:39): 100ぐらいはいってそう
@@ -736,15 +837,19 @@
 - **村松駿** (07/07 11:46): たしかにｗ
 - **ᏁγᎶ » Tøka_Kuŋ_** (07/07 22:26): 乗っ取られた
 - **村松駿** (07/08 10:03): いる！
+- **村松駿** (07/23 10:40): のっとられたのこー
+- **村松駿** (07/23 10:40): かね
+- **村松駿** (07/23 10:41): か、ね
+- **村松駿** (07/23 10:41): かねじゃないよ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/01 02:13
-- **更新日（UTC）:** 07/01 02:13
+- **Created At:** 07/01 02:13
+- **Updated At:** 07/01 02:13
 
 ---
 
-### 12. ようわからんやつみつけた（つくった）
+### 14. ようわからんやつみつけた（つくった）
 **作成者:** 029daisuki（仮本垢）本垢ログインできない＼(^o^)／ (dragoniken910)
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
@@ -757,12 +862,12 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/30 01:33
-- **更新日（UTC）:** 06/30 01:33
+- **Created At:** 06/30 01:33
+- **Updated At:** 06/30 01:33
 
 ---
 
-### 13. 何今しあ全滅してるの？？？？？
+### 15. 何今しあ全滅してるの？？？？？
 **作成者:** 削除済みユーザー (sakujosaretenaiyo)
 
 <p>ICFS全滅</p>
@@ -771,12 +876,12 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/29 11:48
-- **更新日（UTC）:** 06/29 11:48
+- **Created At:** 06/29 11:48
+- **Updated At:** 06/29 11:48
 
 ---
 
-### 14. やばいｗメールコード送られへん。ｵﾜﾀ＼(^o^)／
+### 16. やばいｗメールコード送られへん。ｵﾜﾀ＼(^o^)／
 **作成者:** 029daisuki（仮本垢）本垢ログインできない＼(^o^)／ (dragoniken910)
 
 <p>ﾀｽｹﾃ</p>
@@ -788,12 +893,12 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/29 02:19
-- **更新日（UTC）:** 06/29 02:19
+- **Created At:** 06/29 02:19
+- **Updated At:** 06/29 02:19
 
 ---
 
-### 15. 悲報:本垢にログインできなくなった
+### 17. 悲報:本垢にログインできなくなった
 **作成者:** 029daisuki（仮本垢）本垢ログインできない＼(^o^)／ (dragoniken910)
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (1)
@@ -805,19 +910,19 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/28 07:19
-- **更新日（UTC）:** 06/28 07:19
+- **Created At:** 06/28 07:19
+- **Updated At:** 06/28 07:19
 
 ---
 
-### 16. これで解除できてた頃が懐かしい
+### 18. これで解除できてた頃が懐かしい
 **作成者:** 削除済みユーザー (sakujosaretenaiyo)
 
 <p>こっちに技術者が来たりして解除回避がどんどん強くなっていってるうちにも教育委員会は同じように対策を大人で練っているんだよな</p><p>余計なお世話</p>
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3744177643/c5c7fcb0249f47c491703fcd4621a5bb/image.png?Expires=1784878872&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fafBtE5GC%2FXh%2FGs2zO%2Bxg4xS2o%2B6sQmLZpRcpdFqsdGTetgwpg297tvBAisAN83y80561r9kkqxPWq939M5v2YFy7fEqqAIFHVS82ta7byKK6Aja1oq4JOQKMoC4eMed3uvPjE7Isaq8T8BLj%2BKW9NTruomoleuQeNp7iFaqQgP2oj1ATp%2BWbpaeYjogG5aKmqAZwvGqzkXU%2F2lP7f1qQ5SjsR1NjvPGf5%2FUickISe1h2nWNkjMlorTEKK6FfK8%2BeMOvoVEMvasxgSMxBCOzXfIzcSfonVpworsN95BmHQdoiVbUtEfELX5PHyq2w09hT8oJ2ZOdtOYqB7g1hzlkGA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3744177643%2Fc5c7fcb0249f47c491703fcd4621a5bb%2Fimage.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3744177643/c5c7fcb0249f47c491703fcd4621a5bb/image.png?Expires=1785541352&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ATtSWbwWTfPW5lvEVbkPVWq5G33jycefHNZFOgGuCumZQCZqsaO3NDoPwh6KEZZGE61YQLUt2y3zkNCBM%2B2N%2BOrpSurFyIMeZNI6geah6PFHawCa%2BzmoHC3hcZwUoOBldb4iXEg5771U5WT4FQxdLhBV%2FPHrmKlJMZoe6FYvsYWkErnQ7fCW630pubXcolOmU0cJk6H%2BG%2BXonkeq4SEj0ujpE7uxyB5j41R3l3kxBHpTaKOAFptgzy8oRETFtd7Cgno2XyB36QuEdD6XSlJWFkq6Fd1HzxJaFOEmErZ23rKpWRE29XcB4OMI117xdPi5S8LBYTl6b6emWcPvwf4eKA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3744177643%2Fc5c7fcb0249f47c491703fcd4621a5bb%2Fimage.png)
 
 #### コメント (3)
 - **NyrikX(足立区陣ICFS系)** (06/25 15:30): なつ！そんなの知らなかったけど
@@ -826,12 +931,12 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 11:31
-- **更新日（UTC）:** 06/25 11:31
+- **Created At:** 06/25 11:31
+- **Updated At:** 06/25 11:31
 
 ---
 
-### 17. ningen さーん
+### 19. ningen さーん
 **作成者:** バッタ　ｲﾏﾊﾆｰﾄﾀﾞﾖ (bbbaaattttttaaa)
 
 **この投稿は役に立ちましたか？:** 1.0 / 5 ⭐ (1)
@@ -847,12 +952,12 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/25 08:57
-- **更新日（UTC）:** 06/25 08:57
+- **Created At:** 06/25 08:57
+- **Updated At:** 06/25 08:57
 
 ---
 
-### 18. 役割分担表
+### 20. 役割分担表
 **作成者:** 029daisuki（仮本垢）本垢ログインできない＼(^o^)／ (dragoniken910)
 
 **この投稿は役に立ちましたか？:** 3.0 / 5 ⭐ (2)
@@ -867,17 +972,17 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/24 01:21
-- **更新日（UTC）:** 06/24 01:21
+- **Created At:** 06/24 01:21
+- **Updated At:** 06/24 01:21
 
 ---
 
-### 19. 言うてたマイクラの件今日から募集するわー
+### 21. 言うてたマイクラの件今日から募集するわー
 **作成者:** 029daisuki（仮本垢）本垢ログインできない＼(^o^)／ (dragoniken910)
 
 **この投稿は役に立ちましたか？:** 1.0 / 5 ⭐ (1)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4439098730/37520ed04d19320d1a89cc55791e9b66/Gemini_Generated_Image_4mmuoq4mmuoq4mmu.png?Expires=1784878872&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=z%2FRkM3CNuvMqwKXqTkKAWEx6ZL9PXqCw6lhpgc7oDRuzxCqNmayJsefgVek%2FAuqez%2BNV6HzfLNSoJ%2FBTWGvL4Fn%2F6qiADUHF6isxaxOjlO4aMeuwZeBKgZe%2Bkxn2vSTEjE5IhtE7IXayjDHxcj7TtRSDNfOOBI4%2BEX2VRW0ma1uygykfe91C2z3U0XgJ3%2BfxiWVyY9VnG%2FXJ6ftYisfiNEAN%2BhHL7brOO2TB9ixO4sV58EmDZioic0qACbgKl6c9p%2F8YAHCuQQwrJSXHSW0HF4qF%2BNk9KdUl9Z52yCFqYsva5p6mORIUt%2FS1okhyMXjglPrNnreOXo64KDa0e3wUhA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4439098730%2F37520ed04d19320d1a89cc55791e9b66%2FGemini_Generated_Image_4mmuoq4mmuoq4mmu.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4439098730/37520ed04d19320d1a89cc55791e9b66/Gemini_Generated_Image_4mmuoq4mmuoq4mmu.png?Expires=1785541352&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=HeWj4AoScs8n00IqKYLdmMmeF1k70C%2FVMH0ZLfPfxh0LArRpXM22tMkeGPgWDir4Lt1Aoj1d6l06qlp9mfAzTY2Ud%2FP4NaUuPa8Y7slfJRbHW%2BiPFZaJXSkT%2BbRgqbMmQW7LmmyNVdQZwM0To8%2BeVdVgU%2BCppYgxPbhWQlNaGYFcc2r4ALONVDXsTMYYGdl5OHQALZCp0A3UhI6lE5JxTZmEO9rOsnpuWKDyaZn3FcJLj11LbJfDGYhVpyVZz8JGnHUX4gLBalIX2FGCWHdNQNcia5Ojsg2E6uaR9hXKT9zT24CKpMFzU8EsiJEpctLd2wcaCmnZWqUgSGL%2FMO2aww%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4439098730%2F37520ed04d19320d1a89cc55791e9b66%2FGemini_Generated_Image_4mmuoq4mmuoq4mmu.png)
 
 #### コメント (4)
 - **時透無一郎** (06/23 07:24): スイッチいけますか？
@@ -887,12 +992,12 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/23 01:22
-- **更新日（UTC）:** 06/23 02:49
+- **Created At:** 06/23 01:22
+- **Updated At:** 06/23 02:49
 
 ---
 
-### 20. 英検受かっちゃ−あとは２次試験だああ
+### 22. 英検受かっちゃ−あとは２次試験だああ
 **作成者:** 029daisuki（仮本垢）本垢ログインできない＼(^o^)／ (dragoniken910)
 
 **この投稿は役に立ちましたか？:** 1.0 / 5 ⭐ (1)
@@ -904,12 +1009,12 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/22 23:51
-- **更新日（UTC）:** 06/22 23:51
+- **Created At:** 06/22 23:51
+- **Updated At:** 06/22 23:51
 
 ---
 
-### 21. ワールドカップ日本最多得点きちゃー
+### 23. ワールドカップ日本最多得点きちゃー
 **作成者:** hirafu (hirafu)
 
 **この投稿は役に立ちましたか？:** 3.0 / 5 ⭐ (2)
@@ -936,17 +1041,17 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/21 06:04
-- **更新日（UTC）:** 06/21 06:04
+- **Created At:** 06/21 06:04
+- **Updated At:** 06/21 06:04
 
 ---
 
-### 22. 誰かこれ作るの手伝って。
+### 24. 誰かこれ作るの手伝って。
 **作成者:** 029大好き！(会長910)#ウルトラ第三番弟子 (029daisuki_910)
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4132506524/9846e1ec0f67331bfd3f82084d5499d1/IMG_0919.png?Expires=1784878872&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7LfohOe2khqa2GXu6ga3is%2FcKaMXLXIgTVDuxrS6OJufG98m4AEkD4VEKG4pjpWv2wIjJOD3NGgx%2BMya%2F4jbIc%2B%2F2zMR914SsDTmAsTb5pc9rb18Tu9iYs1Y8w0Xln0sHtGnggUPoyt92T%2B%2B0XzWjbjsvxG0M01p1oxEMqs3K57rlOvz6wIh7aiYi8PQouBc94C1USj05vCSUy2b5XX8tW4KQzPHXCBq7LI2IT2f1u5P5agkaURwMOvt77h9htuaAB%2FLUcxA4bTt3QABmTVVknJX1r2NYFFEa6cGGdT1w4yXPapCJBoSSxgpdf%2Bf1IZ40Tzlx0SQm%2FSBW%2BO9%2BisjvA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4132506524%2F9846e1ec0f67331bfd3f82084d5499d1%2FIMG_0919.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4132506524/9846e1ec0f67331bfd3f82084d5499d1/IMG_0919.png?Expires=1785541352&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2TpdBhkclaUuOERRz5Uoumy%2Bf%2Fk8gUfbAsPMFXoVAmdwYGSd07X7kDdBeVMzqxx%2FyLOnBIEMaaAywCLptzLMiAnUbttMsblPuzCNrxvBiSKtBenI0Y5Hr3I%2FXsdm26B5W6sU8nQjIKk8xvwNkOMe5ReGstmw7I%2FJtzjC4Rl%2BVFNZOJKlzMe2pKcb0x51r4tyDN9dU3qT9WPCyuYLe7W5Biku%2Bdsa5GORaBl8NT3x8irD9ySj5EUDaTazy1BjO6BHjH1tSMSqZXXMHMx1Eea8DU1KvZMtc3kDcZDmAvH6FZeNOL2Nw0IrlyykdFXTxs%2Bu0MWHJp%2BxVqU%2Bj%2Fvnn68SCA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4132506524%2F9846e1ec0f67331bfd3f82084d5499d1%2FIMG_0919.png)
 
 #### コメント (6)
 - **029大好き！(会長910)#ウルトラ第三番弟子** (06/20 17:46): これほぼマンションレベルwww
@@ -958,19 +1063,19 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/20 17:46
-- **更新日（UTC）:** 06/20 17:46
+- **Created At:** 06/20 17:46
+- **Updated At:** 06/20 17:46
 
 ---
 
-### 23. めっちゃ関係ない話やけどさ…
+### 25. めっちゃ関係ない話やけどさ…
 **作成者:** 029大好き！(会長910)#ウルトラ第三番弟子 (029daisuki_910)
 
 <p>マイクラでこれ作りたいけど。難しすぎて泣く</p>
 
 **この投稿は役に立ちましたか？:** 3.3 / 5 ⭐ (3)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4132506524/f6ac20ff19e160782afbfd3d792b7342/4731D627_BC08_466A_B118_E7BE5FEE4B13.jpeg?Expires=1784878872&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=HR4UwWlR54OW2rKaU0%2F8XmrLfXWtBPkFELZCoiwLNFTa%2BoNE%2FnbSlTpO7Uo8Qpq1Lt1NSn%2BmpplgjH5vmRWo8HGwbF61YR8d9I7DcRlnFRnd9NTdk1MEbtoaVNtC9QhqIGZznfFDM%2FUC6097%2FzwUDGOcVPCbfE%2Fz0CTYOxvxG59zp%2BBCELn4gYdD2FfkZ9FV%2BN79xKdBWN0SYRtRIfmaFYGW4BXelpHMwgqcGNp3LNtvc648rMdD5qj5aPRkzhnbLDwxtYXXflcf%2F8YHGMXsFiGzG4v2e9VijTHyxRxPFZn%2ByaM4%2FHJa4%2F8H1XKDLcnZy7h5gWT9LvVrwPUFsj73ng%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4132506524%2Ff6ac20ff19e160782afbfd3d792b7342%2F4731D627_BC08_466A_B118_E7BE5FEE4B13.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4132506524/f6ac20ff19e160782afbfd3d792b7342/4731D627_BC08_466A_B118_E7BE5FEE4B13.jpeg?Expires=1785541352&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fV92UM1p%2FUnX%2Bs8fHkvpl0cZsoFBOHxDD97lPyh69mzW6A9QUvpCaZ%2BG%2BUHuJwxrRmgQ8yf9Eeac0f7yUqVqfQB0vZiMtm7DNjo6hJ7R0T22ZNtNFaL7ATcppiOD%2BUJhJvufOVkkybPx86LWXaVgEWIkjTnEKznp%2BvWc0hccycnRbp7HPOUqG6%2FEL8UYuRPlope7rMcwHifF2XpDRqKDI1dinQAh5nJf6mHscNQrIvCeoYOO8bNoCujm0dPbC8bnX4YkRXgnGN3GrDahBTAVATpzWLCTK1HgMFkUu20Y8TPHJYNbkxqbpT8JnstnhroAicJ6nxDv6%2FxF%2BzOynlSUZw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4132506524%2Ff6ac20ff19e160782afbfd3d792b7342%2F4731D627_BC08_466A_B118_E7BE5FEE4B13.jpeg)
 
 #### コメント (8)
 - **あおまさもも** (06/15 23:12): がんば！！
@@ -987,8 +1092,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/15 15:12
-- **更新日（UTC）:** 06/15 22:08
+- **Created At:** 06/15 15:12
+- **Updated At:** 06/15 22:08
 
 ---
 
@@ -998,19 +1103,27 @@
 **作成者:** Magurock (偽物･偽造に注意) (Magurock)
 
 **Padletの人口を増やしたいかどうか:**
-- **はい:** 36件の投票
-- **いいえ:** 9件の投票
-- **どちらでもない:** 7件の投票
+- **はい:** 104件の投票
+- **いいえ:** 30件の投票
+- **どちらでもない:** 33件の投票
 
-**この投稿は役に立ちましたか？:** 0 / 5 ⭐
+**この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (2)
 
-#### コメント (1)
+#### コメント (9)
 - **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (07/17 01:12): あはは
+- **人民** (07/19 05:59): 増やす理由がわからん
+- **時透無一郎** (07/19 08:22): なぜ
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (07/20 05:13): パドに一番人いたの2025年なきがする
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (07/20 05:36): どうでもいいか。
+- **村松駿** (07/20 21:10): どう考えてももっと賑わったをうがいいやろ
+- **ジジイ** (07/22 02:25): もうpalletはオワコン
+- **リア充(になりたい人)** (07/23 05:03): 人生最高
+- **削除済みユーザー** (07/23 22:49): 増えてももう十分いるだろうし荒れる可能性あちら側にバレる可能性、また無断転載される可能性を考慮すれば増やすべきじゃない
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/16 07:45
-- **更新日（UTC）:** 07/17 07:26
+- **Created At:** 07/16 07:45
+- **Updated At:** 07/24 14:51
 
 ---
 
@@ -1018,73 +1131,21 @@
 **作成者:** 029daisuki（仮本垢）本垢ログインできない＼(^o^)／ (dragoniken910)
 
 **どっちがよいっすか:**
-- **新ゲーム作成:** 18件の投票
-- **ゲーム進化:** 8件の投票
-- **Githubでゲームレポジトリ作成:** 4件の投票
+- **新ゲーム作成:** 39件の投票
+- **ゲーム進化:** 13件の投票
+- **Githubでゲームレポジトリ作成:** 16件の投票
 
 <p>夏休みいけたら・・・</p>
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
+#### コメント (1)
+- **村松駿** (07/20 21:11): がんば
+
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/16 01:04
-- **更新日（UTC）:** 07/17 07:23
-
----
-
-### 3. わかめtube Plusの１週間のアクセス数は？
-**作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-
-**選んでね:**
-- **5万:** 20件の投票
-- **10万:** 23件の投票
-- **20万:** 23件の投票
-- **40万:** 55件の投票
-
-**この投稿は役に立ちましたか？:** 0 / 5 ⭐
-
-#### コメント (3)
-- **時透無一郎** (07/11 23:25): どれもすごい、、、
-- **NyrikX(足立区陣ICFS系)** (07/14 15:24): わかめtubeってしあtubeと同じぐらい知名度あるもんな...
-- **村松駿** (07/15 11:14): わかめtubeはすごい！
-
-#### その他の情報
-- **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/11 09:41
-- **更新日（UTC）:** 07/17 07:23
-
----
-
-### 4. わかめtube Plusへのアクセスが多いのはどこでしょう？
-**作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-
-**選んでね:**
-- **東京:** 407件の投票
-- **大阪:** 194件の投票
-- **兵庫:** 53件の投票
-- **愛知:** 55件の投票
-
-**この投稿は役に立ちましたか？:** 3.5 / 5 ⭐ (10)
-
-#### コメント (12)
-- **仙人@suger** (06/03 08:47): 大阪だな。仙人tubeplusも一番多いし、classroomにいる人も結構が関西人
-- **ᏁγᎶ » Tøka_Kuŋ_** (06/03 08:54): oo
-- **ᏁγᎶ » Tøka_Kuŋ_** (06/03 08:54): widgetいじらないの？
-- **時透無一郎** (06/04 11:52): わかんないけど勘で東京にした
-- **-55115511- #メアド認証できなくてもう3つめの垢** (06/06 00:49): ｗ
-- **aotan　本垢** (06/07 02:46): なぞに愛知あるから愛知にした
-- **時透無一郎** (06/12 09:17): ｗ
-- **Anonymous** (06/14 04:56): 普通に人口で東京か大阪だろ()
-- **削除済みユーザー** (06/20 02:21): でもフィルタリングの強度が都会のほうが上だよ
-- **平和の鐘** (06/26 05:09): 都会のほうが上だ！！
-- **ᏁγᎶ » Tøka_Kuŋ_** (07/01 08:18): 半分くらい大阪
-- **村松駿** (07/15 11:14): 都会が一番だ！！！
-
-#### その他の情報
-- **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/03 08:41
-- **更新日（UTC）:** 07/01 08:17
+- **Created At:** 07/16 01:04
+- **Updated At:** 07/24 14:52
 
 ---
 
@@ -1095,9 +1156,9 @@
 
 <p><strong>リクエストは必ずここで行って下さい。解決したり数日が経てば削除、またはそれぞれのサイトのセクションに移動させます。</strong></p>
 
-**この投稿は役に立ちましたか？:** 4.1 / 5 ⭐ (27)
+**この投稿は役に立ちましたか？:** 4.2 / 5 ⭐ (28)
 
-#### コメント (82)
+#### コメント (92)
 - **ᏁγᎶ » Nanachiki** (06/28 11:11): 各セクションの、Toka_Kun_の投稿の下にも、いろいろな人が書いてくれているものもあるので、そちらも参考にしましょう！
 - **nana_0227** (02/09 08:51): 投稿の編集も投稿もできないんですけどやり方わかる人いませんか…😿
 - **狐うどんの狐(マダタスカル)** (02/09 09:44): ライターじゃないと無理
@@ -1180,14 +1241,24 @@
 - **マリアベル** (07/16 06:58): マジですか...
 - **Magurock (偽物･偽造に注意)** (07/16 11:16): Padletの部屋同士のライバル関係とか関係なしにPadletに新規を増やすとかで人口を増加させるプロジェクトを考えているのですが
 - **Magurock (偽物･偽造に注意)** (07/16 11:16): その場合参加しますか?Padletを広める案を出すとかで協力してその案を使って実際に広めるみたいな感じになれたらいいなと思ってます
+- **ᏁγᎶ » Tøka_Kuŋ_** (07/17 09:59): 正直Padletはもう限界やと思う
+- **まいはこ@大場花菜しか勝たん** (07/20 22:28): 検索バーの履歴欄から飛ぼうとするとシークレットONでもblankにならないのはどうしようもないですか？
+- **Mr.マッチョ** (07/21 02:11): i-FILTERでできる漫画かアニメが見れるサイトが欲しいです
+- **匿名** (07/21 12:07): スタートページください！いろんなバージョン
+- **Anonymous** (07/23 12:00): ユートピア持ってる人いたら欲しいです
+- **名無しのゴンベイ** (07/24 03:04): Wista　のパスワードってなんですか？
+- **wolor-pro** (07/24 06:19): wista-pass
+- **wolor-pro** (07/24 06:20): utopiaはserver downしてる
+- **名無しのゴンベイ** (07/24 06:27): あざっす
+- **Anonymous** (07/24 13:37): ユートピアみたいにabout blankっていうのになるプロキシとかないですか？
 
 #### リアクション
-- **絵文字:** 🎉 (5) 😆 (3) ❤️ (2) 👍 (2)
+- **絵文字:** 🎉 (5) 😆 (3) 👍 (3) ❤️ (2)
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 12/06 12:55
-- **更新日（UTC）:** 01/05 01:06
+- **Created At:** 12/06 12:55
+- **Updated At:** 01/05 01:06
 
 ---
 
@@ -1198,13 +1269,16 @@
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-#### コメント (1)
+#### コメント (4)
 - **Anonymous** (07/08 11:39): みなさんドメインどこで取得してますか
+- **wolor-pro** (07/21 22:52): ドメイン？？？？？？
+- **wolor-pro** (07/21 22:52): AIは、
+- **wolor-pro** (07/21 22:53): まぁ、chatgptでよくね
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 05:03
-- **更新日（UTC）:** 07/02 07:08
+- **Created At:** 06/27 05:03
+- **Updated At:** 07/02 07:08
 
 ---
 
@@ -1222,8 +1296,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/23 11:44
-- **更新日（UTC）:** 06/24 04:02
+- **Created At:** 06/23 11:44
+- **Updated At:** 06/24 04:02
 
 ---
 
@@ -1237,12 +1311,12 @@
 #### コメント (3)
 - **まじすきなyoutuberは、やわらちゃんねる** (06/11 21:20): 確かに
 - **ᏁγᎶ » Tøka_Kuŋ_** (06/11 22:16): 埋め込み？
-- **煮物** (06/12 07:58): proxyじゃないなら、方法は埋め込みしかないと思う。だけど、埋め込みをブロックしてるサイトが多いから、機能はしないと思うよ
+- **煮物　#oddoのスポンサー！** (06/12 07:58): proxyじゃないなら、方法は埋め込みしかないと思う。だけど、埋め込みをブロックしてるサイトが多いから、機能はしないと思うよ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/11 10:54
-- **更新日（UTC）:** 07/06 07:39
+- **Created At:** 06/11 10:54
+- **Updated At:** 07/06 07:39
 
 ---
 
@@ -1257,7 +1331,7 @@
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5782024731/f3f83bf9999efb3b046c04d38459b867/Screenshot_2026_06_09_23_17_58.png?Expires=1784878872&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=sQ1MANJ8Um8i5h48e67YG%2BxTecKvWAuOHWY6OfLLfztOL%2BxQFCfT6ipn15IBwaTy2I0BY9yN%2FpR5XrDSSScF1A9gzZDXdpLX35xs1PzitAUlXW4t4uaqIQZ8KAqTfH2urAJmLrB6arCVzYt8zYbVfqRVKyKCRNhKMdtqnmKx3ZgOrVFgmPcNK5lv1j6jO6Hfq0Nv4lVLHjg%2BKf%2Ftq2Q2UJ9yYRC%2FaPEdBBMp1Q0uvHg2CMliZwdAWDs9TimikgU6O8tE1kk%2FDdegb%2FhalN4FpSqK5UCc0OOw%2FCxdM8uLS9H%2BXwrVOM8YrPTKWtRC4y9Ohx8RmArwHnVNAYK8Ot%2Fvzg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5782024731%2Ff3f83bf9999efb3b046c04d38459b867%2FScreenshot_2026_06_09_23_17_58.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5782024731/f3f83bf9999efb3b046c04d38459b867/Screenshot_2026_06_09_23_17_58.png?Expires=1785541352&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pTzmvjGXFp%2FMC04IhSvjXGqMI3My6%2FfrvdpJfVwtffOaIrxv11ymzwN5lNYAHGvqHh0n87KQ2NVIW%2BTvAyYCVpftHs4tjS0UYjn0FJmhpsYP3H%2FANwj9XHqc4xp%2Fa3g316DqlJSdKDNBb6EIBSQ%2BQgZ0Cm4BFUV575WQDnTmRMfpUGZHbcCt3ZAielIM9PdUp3SFca1tK3sdfAWzTyGhZHCN%2FRf7u76LuPd2fjW8VtY1FO7ezelKoJ1GSEkPC5fF%2Bgq0BBQNmzEBjAQEuxetJIXIeJ%2Fy7Ly8%2Bu%2FlhZe%2FuSvijdsQ74fJ8imH%2BA2eGZDoVMQ0737ZmKtGymgIetvgDA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5782024731%2Ff3f83bf9999efb3b046c04d38459b867%2FScreenshot_2026_06_09_23_17_58.png)
 
 #### コメント (3)
 - **NyrikX(足立区陣ICFS系)** (06/10 05:00): 多分ない。私は違うブロック方法でgmail.comできなくなってる。
@@ -1266,8 +1340,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/09 14:20
-- **更新日（UTC）:** 06/09 22:08
+- **Created At:** 06/09 14:20
+- **Updated At:** 06/09 22:08
 
 ---
 
@@ -1280,8 +1354,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/05 09:20
-- **更新日（UTC）:** 06/09 22:07
+- **Created At:** 06/05 09:20
+- **Updated At:** 06/09 22:07
 
 ---
 
@@ -1297,8 +1371,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/08 23:00
-- **更新日（UTC）:** 07/06 07:37
+- **Created At:** 06/08 23:00
+- **Updated At:** 07/06 07:37
 
 ---
 
@@ -1324,14 +1398,36 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/22 04:55
-- **更新日（UTC）:** 06/07 22:39
+- **Created At:** 05/22 04:55
+- **Updated At:** 06/07 22:39
 
 ---
 
 ## i-FILTER専用
 
-### 1. 江東区IFILTERでクリッカーヒーローズができるサイトが欲しいです
+### 1. 誰かGTAができるサイト知らない？
+**作成者:** hirafu (hirafu)
+
+<p>できれば３以降のやつが乗ってるサイトがいいかもしれない</p>
+
+**この投稿は役に立ちましたか？:** 0 / 5 ⭐
+
+#### コメント (6)
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (07/22 12:42): gtaを簡単に言うと どんなゲームだ
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (07/22 12:43): 銃使えるレースオンラインmmoゲーム
+- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (07/22 23:03): 銃が使えるレース要素を持ったオンラインマルチプレイアクションゲーム
+- **𝓮𝓷𝓲𝓼𝓲 & 𝓶𝓲𝓷𝓽「破壊神」** (07/23 07:04): リアルなやつとアニメっぽいやつができるやつならあるよう
+- **hirafu** (07/23 11:19): オシエテクレ
+- **hirafu** (07/23 11:19): GTAみんなも一回やってみまじおもろい
+
+#### その他の情報
+- **投稿のカラー:** ホワイト
+- **Created At:** 07/18 09:15
+- **Updated At:** 07/18 09:15
+
+---
+
+### 2. 江東区IFILTERでクリッカーヒーローズができるサイトが欲しいです
 **作成者:** カエル (kaeru_super)
 
 <p>まじでずっと探してるけどIFILTERがつよくてできない</p>
@@ -1342,7 +1438,7 @@
 
 **この投稿は役に立ちましたか？:** 3.0 / 5 ⭐ (4)
 
-#### コメント (28)
+#### コメント (29)
 - **フナビト** (06/26 03:46): ookokkokokookkokokookooko
 - **スシロー** (06/27 02:42): 江東区のどこ住み？おれ大島らへん
 - **カエル** (06/27 07:25): それはちょっとね
@@ -1371,18 +1467,19 @@
 - **Anonymous** (07/11 04:01): あー言う量産アドレスは公式じゃないものが多いから警戒される
 - **Anonymous** (07/11 04:01): 量産したいなら1つでもGoogleアカウント持ってるならできる
 - **わに太郎の龍之介** (07/17 06:39): それな
+- **萌黄** (07/20 04:53): パスワード設定しろって表示されたやつ、端末を再起動したら消えるよ
 
 #### リアクション
 - **絵文字:** 🎉 (2)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/24 03:14
-- **更新日（UTC）:** 06/24 04:03
+- **Created At:** 06/24 03:14
+- **Updated At:** 06/24 04:03
 
 ---
 
-### 2. プロキシ配布
+### 3. プロキシ配布
 **作成者:** nana_0227 (peconosippo777)
 
 <p>使えるかは分かりません</p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://interstellar-nana-03.b-cdn.net/">https://interstellar-nana-03.b-cdn.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://interstellar-nana-04.b-cdn.net/">https://interstellar-nana-04.b-cdn.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://interstellar-nana-05.b-cdn.net/">https://interstellar-nana-05.b-cdn.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://dogeub.nana.02.pagostepeapulco.gob.mx/">https://dogeub.nana.02.pagostepeapulco.gob.mx/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.pagostepeapulco.gob.mx/">https://ddx.v2.nana.pagostepeapulco.gob.mx/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://petezah.nana.02.pagostepeapulco.gob.mx/">https://petezah.nana.02.pagostepeapulco.gob.mx</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://utopia-nana.b-cdn.net/">https://utopia-nana.b-cdn.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://utopia-nana-001.b-cdn.net/">https://utopia-nana-001.b-cdn.net</a>/</p><p><strong>Solo Central V7</strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://solocentral-v7-nana.b-cdn.net/">https://solocentral-v7-nana.b-cdn.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://solocentral-v7-nana-01.b-cdn.net/">https://solocentral-v7-nana-01.b-cdn.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://solocentral-v7-nana-02.b-cdn.net/">https://solocentral-v7-nana-02.b-cdn.net/</a></p><p><strong>Lunar V2        6/24</strong></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://luanr.freemyip.com/">https://luanr.freemyip.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://mountainrag.freemyip.com/">https://mountainrag.freemyip.com/</a></p><p><br/></p></li></ul>
@@ -1391,7 +1488,7 @@
 
 **最終更新日:** 6月 24, 2026
 
-**この投稿は役に立ちましたか？:** 1.0 / 5 ⭐ (1)
+**この投稿は役に立ちましたか？:** 3.0 / 5 ⭐ (2)
 
 #### コメント (46)
 - **フブさん** (06/11 02:26): 落ちてます…
@@ -1443,12 +1540,12 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/11 01:18
-- **更新日（UTC）:** 06/24 13:05
+- **Created At:** 06/11 01:18
+- **Updated At:** 06/24 13:05
 
 ---
 
-### 3. 《質問》
+### 4. 《質問》
 **作成者:** guruma_ESTA (guruma_ESTA)
 
 <p>今週頃から、自分が試した限りすべてのyoutubeダウンローダーやわかめ、しあ等のyoutube閲覧ツールが使用できなくなっています。（ブロックではなく動画が正しく読み読まれない・いつまでも読み込み状態）</p><p><br></p><p>同じ状況にっている方、解決方法をご存じの方はいらっしゃいますでしょうか。</p><p><br></p><p>なお、端末の再起動やサイトの再読み込みはすでに試しています。</p><p><br></p><p>また、学校でも同じ状況なのでwifiやネットワークの問題でもないと思います。</p><p><br></p><p>以下、端末、フィルタリングソフトの情報です。</p><p><br></p><p>・dynabook chromebook c70</p><p>・I FILTER</p><p>・東京都23区</p><p><br></p><p>長文失礼。</p>
@@ -1478,7 +1575,7 @@
 - **太郎69** (06/03 01:34): 復活した
 - **太郎69** (06/03 01:34): ダンロードできた
 - **guruma_ESTA** (06/03 01:36): ピロ　いけた！thanks!
-- **社不。🆑** (06/03 10:03): 今のところ俺が持ってるしあわかめは気絶状態
+- **社不ﾝ。🆑** (06/03 10:03): 今のところ俺が持ってるしあわかめは気絶状態
 - **hikaぴかそ** (06/07 23:30): 同じく持ってるしあ読み込み出来ない(iPad、ISGC、埼玉)
 - **砂漠で平泳ぎ** (06/08 11:56): まだ無理かもi-FILTERです
 - **御珍陳　きんたまお** (06/09 09:33): つかえるかな？
@@ -1487,12 +1584,12 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/30 07:49
-- **更新日（UTC）:** 07/06 07:35
+- **Created At:** 05/30 07:49
+- **Updated At:** 07/06 07:35
 
 ---
 
-### 4. マイクラ1.8〜1.12.2までのバージョンに対応した最強エンチャントサイト。
+### 5. マイクラ1.8〜1.12.2までのバージョンに対応した最強エンチャントサイト。
 **作成者:** バッタ　ｲﾏﾊﾆｰﾄﾀﾞﾖ (bbbaaattttttaaa)
 
 **投稿の種類:** リンクの提供
@@ -1526,12 +1623,12 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 21:46
-- **更新日（UTC）:** 05/16 02:51
+- **Created At:** 05/15 21:46
+- **Updated At:** 05/16 02:51
 
 ---
 
-### 5. アイフィルターってもうブロック解除無理？
+### 6. アイフィルターってもうブロック解除無理？
 **作成者:** はる🎄　#ZENTAと大統領の弟子　まかろんの0.5番弟子　#𝖚𝖕𝖆族8代目 (harudao)
 
 <p>あるなら教えて欲しい</p><p>再アクはできない</p><p><br></p>
@@ -1596,19 +1693,19 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/24 01:40
-- **更新日（UTC）:** 04/24 07:38
+- **Created At:** 04/24 01:40
+- **Updated At:** 04/24 07:38
 
 ---
 
-### 6. ん？。。。
+### 7. ん？。。。
 **作成者:** バッタ　ｲﾏﾊﾆｰﾄﾀﾞﾖ (bbbaaattttttaaa)
 
 <p>規制解除できそうな予感が。。。</p>
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (1)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/20a750c496825ad971670f27c94118ba/image.png?Expires=1784878872&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DwckdNx0H8umjrAb8QxDUdvlxRk22bYNfHWMcLTVvU4LgYJYkJKIeRuKzaySTQpcBV9yGIs7bTZxfaGv%2BRDlg557WDIHA3sqiYyhV%2Bjw513OB%2BUf2SuX9DQNLzHIscycWhQgG9Ja9OJ%2Fx%2FnwIEUuw4uYHvfob0g%2FYOQv6rafg7%2FcwZZ3suHqxZ47qGKud5PhAFAwbwEmuOfDvzJxmU9QztZSgqU5DaEDCmNoBOfXuYEvaGzGLSpSQZuIgQalRiSHhAeFwXcCjyd1lEY2kCHqnvnHeaVfZ8vdTOgCmQpntM6m74fUavXsuuOXEoOixqooHoLKecHsAn67%2BulwwFlyTg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2F20a750c496825ad971670f27c94118ba%2Fimage.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/20a750c496825ad971670f27c94118ba/image.png?Expires=1785541353&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QefdwVyQ5qI11N1V%2FM8y0YiIYdFMFbKnq%2BVr%2BusfJZmaPhtTdr4Mn5wPiCdqxHVvNPAasDXQ9D%2BFKRiUylwrfkosh1Y3mnILBda%2BQYx16yZXakm6hNKix0%2Fs0lLwsjA6ISe0mdQWxIRmht3sH4jhaf6Vc99G%2FdV0AAI2gMVv7pEGaneIum6erLUi6E2oxv5QywjRO68UEonP%2BE4vODS%2Fb7ClukWE7MBuIx8%2BeRvvKebvOJXaxjqY3ymTgIumB36VayGf%2F2RynBLdmgOzL3tieEnjKXfCqUKELPRwa8YFdepldWdQxjiotCVU0%2BcDQ6c75Fhv%2BEk2BnKaLkQfQIWpsw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2F20a750c496825ad971670f27c94118ba%2Fimage.png)
 
 #### コメント (32)
 - **Yusho** (04/16 09:07): 住んでるところバレちゃいそうな、、、
@@ -1649,12 +1746,12 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/16 08:39
-- **更新日（UTC）:** 04/16 08:43
+- **Created At:** 04/16 08:39
+- **Updated At:** 04/16 08:43
 
 ---
 
-### 7. ランマー欲しい
+### 8. ランマー欲しい
 **作成者:** hirafu (hirafu)
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (1)
@@ -1673,19 +1770,19 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/31 05:27
-- **更新日（UTC）:** 03/31 05:27
+- **Created At:** 03/31 05:27
+- **Updated At:** 03/31 05:27
 
 ---
 
-### 8. i-フィルターのバグ
+### 9. i-フィルターのバグ
 **作成者:** hirafu (hirafu)
 
 <p>なんか学校で変になった</p>
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/223b8b74a0e6bf2ec4cc7a3bd6b54838/Screen_recording_2026_03_04_10_11_06.webm?Expires=1784878873&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uC3TBKD%2BUschU2XqjLmtN1byUX7Z8VZ13HEQitM62qY8cVmJlMdGkxEvTbY%2FSqwUObj7MrPgC7ngbbCzrZEhPAwcvKhgfoIe9rGYEWI8aRKyqqBg0SksobRt8D0U1WsaSFF5cW9ZE5m3E3fz9AlTH5BArMLBZ54QNbi1hzxquxAcA3eUVj2k59GmQTXm8V4U17cR0i%2BiB76RwzckNpEFb8zwGbwCdqqpFxh%2FHe8%2BmsGw4fQjPbhOBwyuHPVKrAUMov8pbML5arn%2Fu%2BNvmrrwcyKDq39pU%2F6o77ouMSz5met6igzz%2FNOuPadiz4Tis7OgsPJWyAJOvb%2BkXwt2CIj9%2BQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F223b8b74a0e6bf2ec4cc7a3bd6b54838%2FScreen_recording_2026_03_04_10_11_06.webm)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3120634186/223b8b74a0e6bf2ec4cc7a3bd6b54838/Screen_recording_2026_03_04_10_11_06.webm?Expires=1785541353&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=69%2BjxKUxfy2lJOP5ePIkem%2FAqY6bKR2oYPzLS0jdvp3lDSZMPJiWlSV%2FDO6JvrDgtP9tySZiW7FkAQrgPvhhpdUlkmYjlUjvG6iEZVlgvFYLkq00ZQeiFqfX28VuhTiw5KzJ3lfq7ZClxIcAPmiLkpc9hTTOTzmGqhrSp3DTZM4wWXBr2mzCYWWE5PGI%2FhxOUct5ERNyXW9FhhyeqYyPbTzg%2BEXRgu%2BxZ13BJZXzXRZcQ6uy69N3BTQ9bSJ2GaQyySWaJl%2B217QkGmOFm4ZaXvz1TlYiiHCsZiKIZpDx18unrpa4EqslUuBKn%2BZyOn79bPhbkX11gCeeCeox%2FduTHQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3120634186%2F223b8b74a0e6bf2ec4cc7a3bd6b54838%2FScreen_recording_2026_03_04_10_11_06.webm)
 
 #### コメント (27)
 - **hirafu** (03/04 07:41): ずっと再読込してたらこうなった
@@ -1721,12 +1818,12 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/04 07:40
-- **更新日（UTC）:** 03/04 07:40
+- **Created At:** 03/04 07:40
+- **Updated At:** 03/04 07:40
 
 ---
 
-### 9. I-FILTERの規制解除教えてくれ
+### 10. I-FILTERの規制解除教えてくれ
 **作成者:** バッタ　ｲﾏﾊﾆｰﾄﾀﾞﾖ (bbbaaattttttaaa)
 
 <p>お願い</p>
@@ -1755,12 +1852,12 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/14 09:16
-- **更新日（UTC）:** 02/14 22:38
+- **Created At:** 02/14 09:16
+- **Updated At:** 02/14 22:38
 
 ---
 
-### 10. 2学期までISGCだったのに3学期にタブレット変わって規制画面見たらIフィルターになってた😭
+### 11. 2学期までISGCだったのに3学期にタブレット変わって規制画面見たらIフィルターになってた😭
 **作成者:** 削除済みユーザー
 
 <p>さいあくうううう</p>
@@ -1823,12 +1920,12 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/01 09:08
-- **更新日（UTC）:** 02/01 09:08
+- **Created At:** 02/01 09:08
+- **Updated At:** 02/01 09:08
 
 ---
 
-### 11. 朗報
+### 12. 朗報
 **作成者:** sanae1212 (cuzrij)
 
 <p>アイフィルター解除</p><p>前のやり方で再起動でできることがわかった</p><p>無効だけ出たらいいライセンス無効ではないよ</p><p>認証時間はそのままらしい</p>
@@ -1854,8 +1951,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/29 09:32
-- **更新日（UTC）:** 01/29 09:39
+- **Created At:** 01/29 09:32
+- **Updated At:** 01/29 09:39
 
 ---
 
@@ -1872,11 +1969,11 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (2)
 
-#### コメント (19)
-- **スマイル軍軍長でーす！！！** (05/02 09:34): ななさんだ！Scratchで感謝してます！
+#### コメント (30)
+- **削除済みユーザー** (05/02 09:34): ななさんだ！Scratchで感謝してます！
 - **nana_0227** (05/03 06:49): いえいえこちらこそです
-- **煮物** (05/03 09:33): 接続拒否されてるわ
-- **煮物** (05/03 09:34): 規制入ってないpcで
+- **煮物　#oddoのスポンサー！** (05/03 09:33): 接続拒否されてるわ
+- **煮物　#oddoのスポンサー！** (05/03 09:34): 規制入ってないpcで
 - **削除済みユーザー** (05/03 10:21): 全てリンク切れ
 - **nana_0227** (05/04 01:55): 了解です
 - **Anonymous** (05/11 23:35): [添付ファイル](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/x5m7aoL2553GQkAV) 
@@ -1892,11 +1989,22 @@
 - **アサオト** (06/18 06:27): 有料ならあると思うけど〜
 - **NyrikX(足立区陣ICFS系)** (06/22 07:57): それならchoco-tube-plusか仲良しtubeで動画制作者が対応している限りの最高の画質 2kとか4kで動画見れるよ
 - **アサニジ** (06/29 00:28): 匿名プロキシ発動した
+- **前原光樹** (07/19 09:22): YouTube見れるサイト作ったからどうぞhttps://script.google.com/macros/s/AKfycbxEMTaxte1KxX5EkA71ZDkJOw0LruRXJBGi0ERLtVjw2WM1bYs22Im1eOrot_jg5-IH/exec
+- **前原光樹** (07/19 09:23): コードをコーピーして使ってください
+- **前原光樹** (07/19 09:23): https://script.google.com/d/1zLWkOJeCWpGrknOPgusrH68wmVrF_VRgJds5bCguv9rfS2G5LIFnYRBb/edit?usp=sharing
+- **前原光樹** (07/19 09:28): APIが切れることがある為自分で作った方が確実です
+- **NyrikX(足立区陣ICFS系)** (07/19 10:22): なんかすごいな。どうやって作ったんだろ...
+- **前原光樹** (07/20 08:41): 最新バージョン作ったからどうぞ
+- **前原光樹** (07/20 08:41): https://script.google.com/macros/s/AKfycbwmTYe43tTVGMozEufo9VWCHX9POYv6zREUxiTXQvaeGPJozVZHYx8t0hJotHtnxZRF7g/exec
+- **NyrikX(足立区陣ICFS系)** (07/23 02:29): なんか検索結果が出てこないですよ
+- **前原光樹** (07/23 14:33): https://script.google.com/macros/s/AKfycbze4VzPT7l7Lp9rJdBYZs6s2WRKjUHHFz_JWwxiylDXnMNY_8OvZxdEZCMzVITFEsUu2A/exec
+- **前原光樹** (07/23 14:34): もし需要があればコード共有します
+- **前原光樹** (07/23 21:50): 検索結果が出てこないのはAPIが切れているので一応午後5時になったら解決します見たい場合は自分で作るしかありません
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/02 04:06
-- **更新日（UTC）:** 06/10 03:57
+- **Created At:** 05/02 04:06
+- **Updated At:** 06/10 03:57
 
 ---
 
@@ -1935,8 +2043,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/12 13:44
-- **更新日（UTC）:** 03/24 08:22
+- **Created At:** 02/12 13:44
+- **Updated At:** 03/24 08:22
 
 ---
 
@@ -1949,7 +2057,7 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (1)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/34e0460ab217cef783a7f5d9508fe612/Screenshot_2026_01_24_20_36_42.png?Expires=1784878873&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kQpCpN2BcQvvQFSXRo8YsltINYSLNVNF2wHyn99O8wH8Dev%2FNY%2FZ87F1KTx90WDqTC62yqvoz6%2BqzU2oChG%2BU7vkA5M2U%2BlHXqxrGtk0R%2B1hxS%2F1o86Ab7ryRctQLJinARqs%2BCeH4au1yyAA6NBS%2FskS7QNlhoJLuR1LUVNc8rr9JT27Kpv9kjTr1XukrmEZ4Wjm8NqlwOx17YyjTBLg1fluTbyMDNYvbxsrnmAB8nZICJNKeNG3FYMDXJCduzIcQ2dTv0DAvJKuZHjz6UoWhGTYzuWtVx4s5EPrjZjE4oZdO%2BWQ1%2Fmdz%2BI5biTx%2FV3gb6O%2F66tUFcL6S5xLXwdSAA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F34e0460ab217cef783a7f5d9508fe612%2FScreenshot_2026_01_24_20_36_42.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/34e0460ab217cef783a7f5d9508fe612/Screenshot_2026_01_24_20_36_42.png?Expires=1785541353&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cQ3Z7aZdm26VCfVgKnN1KvY611F8NUZG%2F5yGTa5vuJGfXpDDaehJTrLRmeHtKfec4bs0KssfVZZmE7FthgjxBrWO3tL7cHbr9ONxo69OHIp%2BkYBblYgRpZAnWHWSNm7l6s7Vh%2BCRW%2FRe7uD4z9sGaZM%2F6iUJEkc5%2FFjYwYx23PvwF%2FW1VvuPVPGQBcTzP7vMPbmQdG6firBzgpJKKxrLjasbfzYMQnnQEtDEaHz1t2%2F5gtUjZMg6ejz76zd%2FHvVIURWi4YVvzl0JR9PEEC%2BKNRBgFsxNgo63sQ4agW1np5I2zyvrVuqj7axiDvfE6aCG1JTAkB1msiZ3SMTHkE9dWA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F34e0460ab217cef783a7f5d9508fe612%2FScreenshot_2026_01_24_20_36_42.png)
 
 #### コメント (38)
 - **Massa_games216** (01/24 11:43): 自分の学校だけかもしれんがダウンロード履歴・ファイル情報まで読み取れるようになってるっぽい
@@ -1993,8 +2101,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/24 11:43
-- **更新日（UTC）:** 01/25 07:48
+- **Created At:** 01/24 11:43
+- **Updated At:** 01/25 07:48
 
 ---
 
@@ -2017,8 +2125,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/22 12:24
-- **更新日（UTC）:** 01/25 09:41
+- **Created At:** 01/22 12:24
+- **Updated At:** 01/25 09:41
 
 ---
 
@@ -2027,7 +2135,7 @@
 
 **この投稿は役に立ちましたか？:** 4.0 / 5 ⭐ (4)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/79699f39858836d7bb42fb7d28e05c39/image.png?Expires=1784878873&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MOoigp4f56S54OWSlNrHLwpdxOPQhLkYnrZr%2Bt2v6AmIi%2BjpCj1%2BHaKqHLU8I%2BY8DcjeWt8EuidquBlRAauc7mFk97Y%2B0GzpR6Ff%2FPCCcd6xwCrYKUVni4Xvhc6azJ%2BCgK%2Bgk8zOxWiNxRg9Y1uZixD5qeC8dRoSDjF0O8Pv6gmkAoF8F7UnwZqH%2FUews37cm1FSn6n3wFUX3MsPsqeihhzNSr2lDXXOBas6PGJWXMdJWx0sQh7hqvWPSXek2ntBzfZ3dAEuSjPYJckeFZOnmobeaGJRge6aQUd1NCGEjKjUknkklp6pjYRql%2FoqVJr2MO2spu5xDZDPPlDNh6MCKg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2F79699f39858836d7bb42fb7d28e05c39%2Fimage.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/79699f39858836d7bb42fb7d28e05c39/image.png?Expires=1785541353&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=O2TonXwXbMeGM0%2BoeFBvywKAMLp3fqoYIKc9kMf1Ribf7%2BagJGp7JPK5Pa8abA9Q5XxOdzlCKc%2Bm4h5OLoJ9RT4h3z0z7fNXcXbKuI3om9FbzpChRRP5gIFk%2BY90WWREQdxFtKW8yD0fB3le9%2BuTF7TDYAbOrvvmlmbL6br%2BBkqCNay%2FpcKvERsqCf%2BslvqlDvkp7nhPR11AYR4Nwi6JuFtNAj0VXuhALyTAqVf%2FkME1HZ%2FidT2n6749AIbOz8HJtjRPuxB%2BYqwaeaDRcp4N8CAMJMSjaLbY6crqvNcz5ifmTEAcQZvbkIH71gQoBFtb9HYfO4AVzG9mo8RkGjS4ew%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2F79699f39858836d7bb42fb7d28e05c39%2Fimage.png)
 
 #### コメント (12)
 - **バンダナわどるど Xx-tucasanz-xX りおと53番弟子　りおと族27代目** (01/08 00:57): それな
@@ -2047,8 +2155,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/06 08:24
-- **更新日（UTC）:** 01/06 08:24
+- **Created At:** 01/06 08:24
+- **Updated At:** 01/06 08:24
 
 ---
 
@@ -2079,8 +2187,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/24 01:14
-- **更新日（UTC）:** 12/24 01:14
+- **Created At:** 12/24 01:14
+- **Updated At:** 12/24 01:14
 
 ---
 
@@ -2093,7 +2201,7 @@
 
 **この投稿は役に立ちましたか？:** 4.3 / 5 ⭐ (3)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4208255619/929eda19f10e41dd61b1b94088af8f26/Screenshot_2025_11_09_19_44_49.png?Expires=1784878873&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=IBedwl3%2Bm7AEaDJufURv8WmDtxLEfPMoCoVjMF4DYEWJSdm2nsyMxw8fMaHMyljfOQCeFM8f%2BFx10ChzhBY77h9djCST%2F8t8E8G3V9vNaT0GAlh2Ufrye4Vr08IC1UMkLQ3cAbkPKrinI9trR5vt%2BezP8xvgXxyhdXRRyZsWIbLWP8GU4Kktrywtst8Iwj9HoOrN7rmc37N2AFBhnGVGO5caGv7vtWjZtp95s%2F7OukwCRie8PO68HPBE9VB0rOyoP3t%2Buu%2FF6Eg7YAkXb%2FL7svOcs1EGaKSHj0nBxdeafkKIYUvonMfRBQtDYU7AteOWdH09pQKDvGdg%2Fdj9sB2d1g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4208255619%2F929eda19f10e41dd61b1b94088af8f26%2FScreenshot_2025_11_09_19_44_49.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4208255619/929eda19f10e41dd61b1b94088af8f26/Screenshot_2025_11_09_19_44_49.png?Expires=1785541353&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DqvMit3e3OINGneKrmUZznhN0MzdwnMH%2BXMRApj%2BVq28sLl%2B5DQCQvcQhZB7rMLX8glsArH9bvdPGKiG61lK5nVRmdOPhS3OUTdtzvrk8%2Bi05Vettolg6TaP3t5%2Fv%2BfNxw1f1XBGsOBDaNlWvyYeeM2G7EEDhQbLWmSZNQ72fxeaYsdyUrmOEyuqjjEpbHLEs%2FZBTq%2Fl7GClGmdizKh0fH%2FqkbOzr1AX1tNjyqlWXIWN%2FLmXJcQTMTKQTCxJbbkQ5pTz%2BmwOFZdRjkA9XrFeqlVBmzao%2FRiKXesxDyL4y6ygaWOs9Gx5a9Ad5CTus1jn%2FzodW9XSQpV54lIIkmWT9A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4208255619%2F929eda19f10e41dd61b1b94088af8f26%2FScreenshot_2025_11_09_19_44_49.png)
 
 #### コメント (11)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (11/09 16:05): また明日やり方貼ります
@@ -2112,8 +2220,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 11/09 16:05
-- **更新日（UTC）:** 11/10 00:36
+- **Created At:** 11/09 16:05
+- **Updated At:** 11/10 00:36
 
 ---
 
@@ -2141,8 +2249,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 11/08 00:56
-- **更新日（UTC）:** 11/30 08:39
+- **Created At:** 11/08 00:56
+- **Updated At:** 11/30 08:39
 
 ---
 
@@ -2178,8 +2286,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/29 12:22
-- **更新日（UTC）:** 09/29 13:16
+- **Created At:** 09/29 12:22
+- **Updated At:** 09/29 13:16
 
 ---
 
@@ -2208,13 +2316,13 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/24 13:45
-- **更新日（UTC）:** 06/24 18:07
+- **Created At:** 06/24 13:45
+- **Updated At:** 06/24 18:07
 
 ---
 
 ### 2. ICFS全風呂解除方法（現役）
-**作成者:** ニキータ (nikita1922)
+**作成者:** 自認福丸小糸ータ (nikita1922)
 
 <p><br></p><p>絶対条件</p><p>最新verから一ヶ月〜二ヶ月前のverを用意する（パソコンを再起動しなければおｋ）</p><p>重いサイトをブックバーに追加する</p><p>⇩このサイトがオススメ</p><p><a rel="noopener noreferrer nofollow" href="https://shinycolors.enza.fun/">https://shinycolors.enza.fun/</a></p><p>サイトを増やすときはブックバーに追加したサイトをctrlキーを</p><p>”押しながら”クリック</p><p>やり方1一連の流れ</p><p>重いサイトを100〜150増やす</p><p>アプリ版YouTubeを開く</p><p>数分待つ　ここで成功する場合がある</p><p>画面が固まったままの場合</p><p>タブを全て消す　ここでも成功する場合がある</p><p><br></p><p>やり方2一連の流れ</p><p>デスクを2つ用意しデスク1に100タブ</p><p>デスク2に77タブ増やしアプリ版YouTubeを開き数分待つ　ここで成功する場合がある</p><p>画面が固まったままの場合</p><p>デスク1、2のタブを全て消しアプリ版YouTubeを開く　ここで成功する場合がある</p><p><br></p><p>成功かもしれないという場合</p><p>新しいタブからパズルのピースのマークをクリックし拡張機能を管理を開く</p><p>ブロック機能のところに</p><p>「この拡張機能は自身により頻繁に再読込されています」</p><p>という表示が出ていた場合成功である</p><p>稀にこの表示が出ない場合がある</p><p>これで俺と友達は全風呂解除7回ぐらいしてる</p>
 
@@ -2225,23 +2333,23 @@
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
 #### コメント (12)
-- **ニキータ** (06/24 10:10): 200タブ以上は処理落ちの可能性大タブ消してるときに数タブ残してアプリYouTube開くと成功するかもよ
-- **ニキータ** (06/24 10:12): あとこれは一連の流れだから辛抱強く挑戦し続けることが大事だよ
+- **自認福丸小糸ータ** (06/24 10:10): 200タブ以上は処理落ちの可能性大タブ消してるときに数タブ残してアプリYouTube開くと成功するかもよ
+- **自認福丸小糸ータ** (06/24 10:12): あとこれは一連の流れだから辛抱強く挑戦し続けることが大事だよ
 - **NyrikX(足立区陣ICFS系)** (06/24 22:38): そもそもこういうタブのやつでブロック解除するの完全に対策されたかも。ICFSが管理者によって固定されててバグとかで消すことが出来ない。それと拡張機能の管理ブロックだ
 - **うぇ！** (06/25 12:54): タブ増やし系とか重くする系はほぼ全滅かなぁ...
 - **うぇ！** (06/25 12:55): 他のもあったら教えてください！
-- **ニキータ** (06/26 02:03): いや俺最近この方法で全ブロック解除したし何なら数日前に俺の友達もこの方法でできたからパソコンのverの問題かタブ少ないかのどっちかだよ（俺は1時間かけて成功した、今なんでも見れる）
-- **ニキータ** (06/26 01:47): でもこの方法ガチでめっちゃ難しいからなぁだけど再現性があるのは確か
-- **ニキータ** (06/26 01:54): あとこの方法はブロック機能をクラッシュさせて機能させなくするってやつだから完全には対策できないとは思う
+- **自認福丸小糸ータ** (06/26 02:03): いや俺最近この方法で全ブロック解除したし何なら数日前に俺の友達もこの方法でできたからパソコンのverの問題かタブ少ないかのどっちかだよ（俺は1時間かけて成功した、今なんでも見れる）
+- **自認福丸小糸ータ** (06/26 01:47): でもこの方法ガチでめっちゃ難しいからなぁだけど再現性があるのは確か
+- **自認福丸小糸ータ** (06/26 01:54): あとこの方法はブロック機能をクラッシュさせて機能させなくするってやつだから完全には対策できないとは思う
 - **NyrikX(足立区陣ICFS系)** (07/02 13:33): 拡張機能ページブロックされてないICFS民とかまだいるんだ
 - **NyrikX(足立区陣ICFS系)** (07/02 13:41): ICFSの拡張機能を固定することで、バグとかラグとかなんやら使っても確実に消去されたり無効にされたり変化をさせないようにしていると思う
-- **ニキータ** (07/10 03:10): 拡張機能ページってブロックされてるもんなのか...
-- **ニキータ** (07/10 03:10): 俺蝦夷地だから知らんかった
+- **自認福丸小糸ータ** (07/10 03:10): 拡張機能ページってブロックされてるもんなのか...
+- **自認福丸小糸ータ** (07/10 03:10): 俺蝦夷地だから知らんかった
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/19 01:25
-- **更新日（UTC）:** 06/24 04:02
+- **Created At:** 06/19 01:25
+- **Updated At:** 06/24 04:02
 
 ---
 
@@ -2256,19 +2364,19 @@
 
 #### コメント (9)
 - **あおまさもも** (06/16 22:53): なる、、、
-- **ニキータ** (06/19 03:11): なくなったんならまた発見すれば良いだけの話なんだよ！
+- **自認福丸小糸ータ** (06/19 03:11): なくなったんならまた発見すれば良いだけの話なんだよ！
 - **うぇ！** (06/20 08:35): 頑張ってるから、できそうなのあったら教えてね
 - **NyrikX(足立区陣ICFS系)** (06/22 07:33): この方法最初からよくわかんないんですけど...学習用+Ctrl以降理解できません
-- **ニキータ** (06/22 12:57): 俺自己流で全ブロック解除できたわついでに友達のも全ブロック解除したverは5月末ぐらいのやつ
+- **自認福丸小糸ータ** (06/22 12:57): 俺自己流で全ブロック解除できたわついでに友達のも全ブロック解除したverは5月末ぐらいのやつ
 - **うぇ！** (06/23 11:48): ▢||　みたいなやつです6番目ってのは
 - **うぇ！** (06/23 11:49): ニキータさんよければ方法お伺いしてもよろしいでしょうか
-- **ニキータ** (06/24 10:05): 上に投稿したよ
+- **自認福丸小糸ータ** (06/24 10:05): 上に投稿したよ
 - **NyrikX(足立区陣ICFS系)** (07/02 13:34): まるで強制再起動2回行うブロック解除方法の拡張版だね
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/15 09:51
-- **更新日（UTC）:** 06/15 10:01
+- **Created At:** 06/15 09:51
+- **Updated At:** 06/15 10:01
 
 ---
 
@@ -2297,8 +2405,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/21 13:54
-- **更新日（UTC）:** 04/29 23:04
+- **Created At:** 04/21 13:54
+- **Updated At:** 04/29 23:04
 
 ---
 
@@ -2320,8 +2428,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/05 08:52
-- **更新日（UTC）:** 05/06 03:07
+- **Created At:** 04/05 08:52
+- **Updated At:** 05/06 03:07
 
 ---
 
@@ -2368,8 +2476,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/26 09:04
-- **更新日（UTC）:** 02/26 09:25
+- **Created At:** 02/26 09:04
+- **Updated At:** 02/26 09:25
 
 ---
 
@@ -2401,8 +2509,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/11 16:44
-- **更新日（UTC）:** 03/24 08:23
+- **Created At:** 02/11 16:44
+- **Updated At:** 03/24 08:23
 
 ---
 
@@ -2413,7 +2521,7 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (1)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/bb877797726af504c6d00cd3bcd6d156/ICFS_________online_video_cutter_com_.mp4?Expires=1784878873&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bwqlcYZBkGwrpzkybRF4Qnj50f626dxdTMxF4mHTVR%2F%2BbYN5HIbPGCVwM9mzM3iNC9Nii1miol572gCznf3t34M8flX6Vafv0QHpV5CDSLYir9X%2BHo2TaZd7gLQ3V5r8tQKUAZ2u8UVl0ZWEJNYLXXXli2y%2F1iUKUVeuMIH5umiRDgs3msS2DJ2k5d5KTyMGMmSjYrdBdUFPb%2Fr1Xk2dvYPzun1HoH%2FYoNHQgJDE%2BdA8GCzGhyG6peyuVINCJkchirvyp8OTYgfiRpv%2BgOBwn9pnlsHC3xSgqdRC2LzsZAt4DF8bjXJxc3yAf7Wn4NRidwHVsNPz%2FNK167yMzuqGpA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2Fbb877797726af504c6d00cd3bcd6d156%2FICFS_________online_video_cutter_com_.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4637023255/bb877797726af504c6d00cd3bcd6d156/ICFS_________online_video_cutter_com_.mp4?Expires=1785541353&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7J8m74mqT%2BOMlb2Fj9F5E6N0hG5Os0Arh2Lpa9piEZmyo1ZnS11bAdaoeT5zKkkp5rIgY8bofEvCq1ZHqtr8jEcr%2Bw7XRRdGPpRF80UzzVDfa6xxAG98NuPLz03EG6T3h4%2Fv5ZxpT%2BY75ipyGfXybrAsn5Yo47wR963mDfX6ubLPDxIuTjEBobB4AyHXxp1WvB4XLY1FZ4SkEYI91%2Bmb4FbnXcBSr0ikTfVZRdKc9O5RjvquWYSJ7BU%2Fc6SdpP1KwY%2BhynqtqZBhO68RYIJeFLh73U7LNANSFwzADhTcsgLEcwzkgCSiLI21zc6oHBQI%2BBWuq07IbKM5kgIVJURYhA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4637023255%2Fbb877797726af504c6d00cd3bcd6d156%2FICFS_________online_video_cutter_com_.mp4)
 
 #### コメント (16)
 - **RX034** (02/12 12:32): 確実だなこれが
@@ -2437,8 +2545,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/11 16:35
-- **更新日（UTC）:** 03/08 08:34
+- **Created At:** 02/11 16:35
+- **Updated At:** 03/08 08:34
 
 ---
 
@@ -2465,8 +2573,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/01 01:13
-- **更新日（UTC）:** 02/01 01:20
+- **Created At:** 02/01 01:13
+- **Updated At:** 02/01 01:20
 
 ---
 
@@ -2481,8 +2589,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/01 01:10
-- **更新日（UTC）:** 02/01 01:20
+- **Created At:** 02/01 01:10
+- **Updated At:** 02/01 01:20
 
 ---
 
@@ -2517,8 +2625,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/02 13:14
-- **更新日（UTC）:** 01/02 13:14
+- **Created At:** 01/02 13:14
+- **Updated At:** 01/02 13:14
 
 ---
 
@@ -2548,8 +2656,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/11 08:44
-- **更新日（UTC）:** 12/13 22:59
+- **Created At:** 12/11 08:44
+- **Updated At:** 12/13 22:59
 
 ---
 
@@ -2583,8 +2691,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/02 10:04
-- **更新日（UTC）:** 12/02 11:23
+- **Created At:** 12/02 10:04
+- **Updated At:** 12/02 11:23
 
 ---
 
@@ -2605,8 +2713,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/02 09:23
-- **更新日（UTC）:** 12/02 09:23
+- **Created At:** 12/02 09:23
+- **Updated At:** 12/02 09:23
 
 ---
 
@@ -2621,7 +2729,7 @@
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3916500373/cdf9546d9a966132950301c2591a96a0/Screenshot_2025_07_17_10_01_07.png?Expires=1784878873&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tLsqBOIClbObXVHBKVDqNYIOUUWbwlA7MRE3WmTfFDIVzA98XIFKkRBdCLgLxHNP4uuR0PL7cjf8CMs2Dl5d2f5diGlb7QTJ7iuRfQ8VUmg%2B4om302g360IkTCPqOqBC7sHVpHKyZQhXDZLaxrEPrizGvn8QKEzj2J%2Fi4tbpt2MLI5zzr6Pc1qRPTBi2jxk35s72t0z2bF5z%2BP6opmcoCNfu3R8VkqbYEUpqcF%2FC%2F%2B%2FATDeB6BYeG0gOjPaW71Meg0lsb82XVpcm3cF7mOqOLUGwYrwgVB9nJusjYzjtf%2BSEa8JJS8h7BI5XjnGNUcd3cGsPO3XD%2FLMlGMHJccWtCQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3916500373%2Fcdf9546d9a966132950301c2591a96a0%2FScreenshot_2025_07_17_10_01_07.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3916500373/cdf9546d9a966132950301c2591a96a0/Screenshot_2025_07_17_10_01_07.png?Expires=1785541353&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wyGvZmaYZwSWEkyC3GwTK%2FWeLHA%2FA4dWdlW2BTamNC0PRQSYtZqUaHQ5y5PO%2FKkur0oQSj6sKVvOxVnSYNShBAsu8DOxJl5ScCRkJu33xFleVl9bSJ3%2BcKiI0xV0uc8b6f8KhJdnTZoKozH13pgE8tIkjY1b%2BzZCgoBBdvggd%2BjO53WKvku03Emh1bYll3Oo5Ox%2BYHv%2BhZqN%2Fxk9msIul831V4uLkFRH35k8T%2BvuLRybZc2WGVS7RIZBc1CSRLMdSV%2F%2BPdvYG%2Fln8VOe6qccHawijA3ow%2BRK3n317YRVxrChyOnZHnmdkjVEGp8DAeHhhnzPkap%2FwERaocf4V4TPxA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3916500373%2Fcdf9546d9a966132950301c2591a96a0%2FScreenshot_2025_07_17_10_01_07.png)
 
 #### コメント (7)
 - **削除済みユーザー** (11/23 12:11): wool-tubeあるww
@@ -2634,8 +2742,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 11/23 11:30
-- **更新日（UTC）:** 11/28 13:31
+- **Created At:** 11/23 11:30
+- **Updated At:** 11/28 13:31
 
 ---
 
@@ -2655,8 +2763,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 11/09 11:46
-- **更新日（UTC）:** 11/09 11:47
+- **Created At:** 11/09 11:46
+- **Updated At:** 11/09 11:47
 
 ---
 
@@ -2675,8 +2783,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 11/02 08:33
-- **更新日（UTC）:** 11/02 23:51
+- **Created At:** 11/02 08:33
+- **Updated At:** 11/02 23:51
 
 ---
 
@@ -2697,8 +2805,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/19 11:07
-- **更新日（UTC）:** 10/19 11:44
+- **Created At:** 10/19 11:07
+- **Updated At:** 10/19 11:44
 
 ---
 
@@ -2719,8 +2827,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/11 13:03
-- **更新日（UTC）:** 10/12 00:25
+- **Created At:** 10/11 13:03
+- **Updated At:** 10/12 00:25
 
 ---
 
@@ -2749,8 +2857,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/14 00:01
-- **更新日（UTC）:** 10/14 04:43
+- **Created At:** 10/14 00:01
+- **Updated At:** 10/14 04:43
 
 ---
 
@@ -2782,8 +2890,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/06 02:28
-- **更新日（UTC）:** 10/10 10:11
+- **Created At:** 07/06 02:28
+- **Updated At:** 10/10 10:11
 
 ---
 
@@ -2809,8 +2917,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/02 12:07
-- **更新日（UTC）:** 01/05 01:14
+- **Created At:** 08/02 12:07
+- **Updated At:** 01/05 01:14
 
 ---
 
@@ -2821,14 +2929,14 @@
 
 **投稿の種類:** リンクの提供
 
-**この投稿は役に立ちましたか？:** 0 / 5 ⭐
+**この投稿は役に立ちましたか？:** 1.0 / 5 ⭐ (1)
 
 [添付ファイル 1](https://codeeditorv2.sabug4385.workers.dev)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/17 03:30
-- **更新日（UTC）:** 06/24 04:02
+- **Created At:** 06/17 03:30
+- **Updated At:** 06/24 04:02
 
 ---
 
@@ -2846,8 +2954,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/29 04:57
-- **更新日（UTC）:** 06/07 22:39
+- **Created At:** 05/29 04:57
+- **Updated At:** 06/07 22:39
 
 ---
 
@@ -2862,9 +2970,9 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (1)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/bd9f2e32a86eda17fc0c1854f3567f0f/batta_meet.html?Expires=1784878873&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=OyBCuklRLRaK6f5OUMnwSCk8qNjJR0Bl9Ls0tb%2BhLaoFzTlxn5TOPukBJID1oZSNr%2FMkv60%2B2n7Nn7iBOc%2FMYNFTRRrpur%2BLz%2F9izQsMy1BCdy%2BkyHQJ2iyfqYFphI2ysD95k0wqjEKINObQytM7%2B2j99sVW0yyFFAvIZSSc5XH9V1J%2FKJgkMw8%2BUZwMcXKq4ep%2BRhF1kjsD%2Bw%2F2GrnOrYcDXRxWNGnuvdhO%2BY4Wu1Hp8BNeF96RYg63Hv4XIt3GavgpaV%2F3EayC%2BM3K8dg4pOKY7BFBIOJu8wO5HaLABILqVMbRud4nAfFGMI%2FQelA1vcAxAoeKWLujgvQKRlMmpw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2Fbd9f2e32a86eda17fc0c1854f3567f0f%2Fbatta_meet.html)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2291804314/bd9f2e32a86eda17fc0c1854f3567f0f/batta_meet.html?Expires=1785541353&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Hy9osp7Fd1YEyZdwnnQoWZAmGS7mAmMDn4G%2FMRN2%2ByZ%2B8PaTr4M%2FwKAPGk6iD%2BZXUq1SGs7kLRaQ%2BpqKePD1s9cRCEpX2l7pn%2BpxVSw3x6nKiNbTpw9JlZxI8iHdU%2BP9KHlEqMAW%2BifDwC3D%2BxvxlKtupSENT2wKddrJRUA%2BL%2BhQvF3kSIRy3%2F73hE%2FtsiMGz%2BQNcWPUsbzFQrLzTODbAqntYUNLZi8rzBoOzxm93efZ2ZbgtPos7WgFfixUUMXr8rYq4skwUQSCxi%2FFpGjnv8mViN1mi8zqQ55KcWEPdIWMWawiUOgZtbWMqC4PwdsO5XMeXwcwoGrqMMY9AZHYuw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2291804314%2Fbd9f2e32a86eda17fc0c1854f3567f0f%2Fbatta_meet.html)
 
-#### コメント (18)
+#### コメント (21)
 - **まぁǃ** (06/04 01:49): ダウンロード版はどうやって使う？？
 - **ホタルビト** (06/04 02:14): ブロックされてる
 - **バッタ　ｲﾏﾊﾆｰﾄﾀﾞﾖ** (06/04 07:39): ダウンロードしたやつを開くだけ
@@ -2883,14 +2991,17 @@
 - **あき** (06/10 08:24): [添付ファイル](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/zV61Q6xrBnYyWO98) https://ticket.xrcloud.jp/monocg/index?ec=event_305ba11f-ea9f-4394-819a-db14296a757fyoutubeは無理だけど結構使える使い方は他に書いている人がいたけど僕は▶️をおして一回タップその後↘️を押して右下のやつを拡大するそのあとOkを押して→閉じるを押す→オプション→その他→特定商取引法みたいなのを押す→urlがあるから押すプロダクトを押して今は写真の矢印のところまで下に下に行く時は右の棒をスクロールがおすすめ押したら上のプロダクト→少し下に行くと詳しく見るを押すgoogl  playを押す→1番下→Googleストアー→9この点→検索　これで調べればいける。注意いけるサイトといけないサイトがあると思う。
 - **あき** (06/10 08:26): 説明下手かもごめん
 - **NyrikX(足立区陣ICFS系)** (06/10 12:44): 大丈夫理解できたよ
+- **村松駿** (07/18 21:19): 誰かまできる？
+- **村松駿** (07/18 21:19): 誰か今できる？
+- **村松駿** (07/18 21:19): あきって人が載せてるやつ
 
 #### リアクション
 - **絵文字:** 😆 (2)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/03 21:07
-- **更新日（UTC）:** 06/12 00:20
+- **Created At:** 06/03 21:07
+- **Updated At:** 06/12 00:20
 
 ---
 
@@ -2907,8 +3018,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/05 08:54
-- **更新日（UTC）:** 04/18 22:47
+- **Created At:** 04/05 08:54
+- **Updated At:** 04/18 22:47
 
 ---
 
@@ -2944,8 +3055,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/18 12:54
-- **更新日（UTC）:** 03/26 04:18
+- **Created At:** 02/18 12:54
+- **Updated At:** 03/26 04:18
 
 ---
 
@@ -2964,8 +3075,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/01 12:33
-- **更新日（UTC）:** 03/26 04:18
+- **Created At:** 02/01 12:33
+- **Updated At:** 03/26 04:18
 
 ---
 
@@ -2993,8 +3104,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/13 03:36
-- **更新日（UTC）:** 01/31 23:17
+- **Created At:** 08/13 03:36
+- **Updated At:** 01/31 23:17
 
 ---
 
@@ -3022,8 +3133,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 12/14 05:29
-- **更新日（UTC）:** 01/11 04:40
+- **Created At:** 12/14 05:29
+- **Updated At:** 01/11 04:40
 
 ---
 
@@ -3036,8 +3147,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/10 10:04
-- **更新日（UTC）:** 01/11 00:20
+- **Created At:** 01/10 10:04
+- **Updated At:** 01/11 00:20
 
 ---
 
@@ -3059,8 +3170,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 10/13 04:53
-- **更新日（UTC）:** 01/05 01:15
+- **Created At:** 10/13 04:53
+- **Updated At:** 01/05 01:15
 
 ---
 
@@ -3079,8 +3190,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 11/20 09:26
-- **更新日（UTC）:** 01/10 01:02
+- **Created At:** 11/20 09:26
+- **Updated At:** 01/10 01:02
 
 ---
 
@@ -3104,8 +3215,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/04 11:11
-- **更新日（UTC）:** 12/29 13:59
+- **Created At:** 12/04 11:11
+- **Updated At:** 12/29 13:59
 
 ---
 
@@ -3132,8 +3243,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/08 15:18
-- **更新日（UTC）:** 01/03 11:12
+- **Created At:** 08/08 15:18
+- **Updated At:** 01/03 11:12
 
 ---
 
@@ -3148,8 +3259,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/13 12:07
-- **更新日（UTC）:** 10/13 12:15
+- **Created At:** 10/13 12:07
+- **Updated At:** 10/13 12:15
 
 ---
 
@@ -3164,8 +3275,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/13 05:54
-- **更新日（UTC）:** 10/13 06:24
+- **Created At:** 10/13 05:54
+- **Updated At:** 10/13 06:24
 
 ---
 
@@ -3188,8 +3299,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/05 13:47
-- **更新日（UTC）:** 09/27 21:53
+- **Created At:** 09/05 13:47
+- **Updated At:** 09/27 21:53
 
 ---
 
@@ -3208,8 +3319,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/14 01:21
-- **更新日（UTC）:** 09/27 21:52
+- **Created At:** 08/14 01:21
+- **Updated At:** 09/27 21:52
 
 ---
 
@@ -3235,8 +3346,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 08/27 23:23
-- **更新日（UTC）:** 12/29 13:52
+- **Created At:** 08/27 23:23
+- **Updated At:** 12/29 13:52
 
 ---
 
@@ -3276,8 +3387,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/02 08:34
-- **更新日（UTC）:** 12/02 08:52
+- **Created At:** 12/02 08:34
+- **Updated At:** 12/02 08:52
 
 ---
 
@@ -3293,8 +3404,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/13 11:58
-- **更新日（UTC）:** 10/31 11:44
+- **Created At:** 10/13 11:58
+- **Updated At:** 10/31 11:44
 
 ---
 
@@ -3325,8 +3436,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/11 14:41
-- **更新日（UTC）:** 10/13 01:02
+- **Created At:** 10/11 14:41
+- **Updated At:** 10/13 01:02
 
 ---
 
@@ -3350,8 +3461,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/01 00:07
-- **更新日（UTC）:** 10/01 06:40
+- **Created At:** 10/01 00:07
+- **Updated At:** 10/01 06:40
 
 ---
 
@@ -3375,8 +3486,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 08/31 09:09
-- **更新日（UTC）:** 08/31 09:10
+- **Created At:** 08/31 09:09
+- **Updated At:** 08/31 09:10
 
 ---
 
@@ -3399,8 +3510,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 08/26 00:07
-- **更新日（UTC）:** 08/28 07:49
+- **Created At:** 08/26 00:07
+- **Updated At:** 08/28 07:49
 
 ---
 
@@ -3426,8 +3537,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 08/24 00:28
-- **更新日（UTC）:** 08/24 09:52
+- **Created At:** 08/24 00:28
+- **Updated At:** 08/24 09:52
 
 ---
 
@@ -3438,7 +3549,7 @@
 
 **投稿の種類:** リンクの提供
 
-**この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (1)
+**この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
 [添付ファイル 1](https://gakken-ep.jp/extra/5fungo/)
 
@@ -3453,8 +3564,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/25 01:24
-- **更新日（UTC）:** 08/24 13:07
+- **Created At:** 07/25 01:24
+- **Updated At:** 08/24 13:07
 
 ---
 
@@ -3467,16 +3578,17 @@
 
 [添付ファイル 1](https://padlet.com/padlets/4b9092979b4e6dlm)
 
-#### コメント (1)
+#### コメント (2)
 - **L.ヤマル** (07/14 01:46): https://mdeunblocked.onrender.com/拡散OK☝︎
+- **村松駿** (07/18 21:34): 誰かアモアスやろ
 
 #### リアクション
 - **絵文字:** 👍 (1)
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/29 06:50
-- **更新日（UTC）:** 06/29 06:51
+- **Created At:** 06/29 06:50
+- **Updated At:** 06/29 06:51
 
 ---
 
@@ -3491,12 +3603,16 @@
 
 [https://kids-codeprogram.com/gamesite-ipad-tablet/](https://kids-codeprogram.com/gamesite-ipad-tablet/)
 
+#### コメント (2)
+- **村松駿** (07/20 21:09): わかんないね〜
+- **破壊神黒腕 久しぶり** (07/24 10:11): なんも使えん
+
 #### リアクション
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/30 04:16
-- **更新日（UTC）:** 11/10 21:55
+- **Created At:** 10/30 04:16
+- **Updated At:** 11/10 21:55
 
 ---
 
@@ -3515,7 +3631,7 @@
 
 [https://among-us-megaserver.pages.dev/](https://among-us-megaserver.pages.dev/)
 
-#### コメント (31)
+#### コメント (33)
 - **Grateful Dory** (10/20 12:17): ブロ..
 - **ᏁγᎶ » Tøka_Kuŋ_** (10/20 12:19): Netlify無理なんか
 - **Massa_games216** (10/20 14:09): ぶろ
@@ -3547,13 +3663,15 @@
 - **Anonymous** (05/26 01:54): 全ブロ
 - **リオラch** (06/07 04:17): Xpladってどうやって使うんですか。教えていただけると光栄です。
 - **村松駿** (07/15 11:25): 誰かやろ
+- **名無しのゴンベイ** (07/23 03:47): ミラー版誰かやろ
+- **Anonymous** (07/24 00:09): やる人が…
 
 #### リアクション
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 10/20 11:59
-- **更新日（UTC）:** 12/27 00:59
+- **Created At:** 10/20 11:59
+- **Updated At:** 12/27 00:59
 
 ---
 
@@ -3603,8 +3721,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 09/26 11:14
-- **更新日（UTC）:** 01/11 03:48
+- **Created At:** 09/26 11:14
+- **Updated At:** 01/11 03:48
 
 ---
 
@@ -3619,19 +3737,22 @@
 
 [https://padlet.com/Nanachiki/breakout-room/QgJV4Zzj8aja4mBk-VyDovAEmoxANvZQL](https://padlet.com/Nanachiki/breakout-room/QgJV4Zzj8aja4mBk-VyDovAEmoxANvZQL)
 
-#### コメント (4)
+#### コメント (7)
 - **たかしキング** (10/24 09:05): 毎週金曜22時くらいにいる
 - **あ** (11/19 04:24): ok
 - **h** (11/26 06:59): おけー
 - **sashasu11127** (12/11 04:23): 風呂
+- **naoki** (07/17 11:09): ああああああああああああああああああああああああああああああああああああああああああああああああ
+- **みかんの里** (07/18 14:23): 今の時間やってる人いる????
+- **みかん** (07/20 04:01): 誰かアモンガースしよー
 
 #### リアクション
 - **絵文字:** 👍 (1)
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 10/20 12:05
-- **更新日（UTC）:** 10/20 12:15
+- **Created At:** 10/20 12:05
+- **Updated At:** 10/20 12:15
 
 ---
 
@@ -3644,7 +3765,7 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (1)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/3a2251759abdf3781d2bf689986ea97c/Screenshot_2025_09_26_21_33_45.png?Expires=1784878874&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JyD7umwWHls54k7qq%2BwhuG1ot2D4%2FZWEyKZAae%2BIe61wG9S1VKJdwDIxn6UTgL%2FXQP7M8l2wyJYWDMsQN2nAssMHzJ8%2FsALSJEVQFhrZ%2FaX7qdyRh7f9tIOpfqEPvq8lTasOJ7Pz2MZlmwqT34Q%2BKn2lRYps4oWwA%2B0Io6P8gKGi%2BnOrVrI2AIb4mGvh4tWOYppNdWp1AjQaDVHvNIPS5mq8nrf9JastC36WWbuqgJmBn1dyLcVB8p3Msuax%2FC2HOnfv8c%2FFKz48b3s1omcd3DbF391I5bf2OerCduug1XLDU0%2BrY7UsDClXfJuOFvHWUjM0TXAm4pPARXJQu5rsSQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F3a2251759abdf3781d2bf689986ea97c%2FScreenshot_2025_09_26_21_33_45.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/3a2251759abdf3781d2bf689986ea97c/Screenshot_2025_09_26_21_33_45.png?Expires=1785541354&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ITEPDkWHazSROE0cSjISM05eoBW8OUYV5w8Ku2EDVmXk71EIdNefYGSOWJNIUYVSH9mHi1V%2BEAVK1HAEsFIzPzD%2B4KLSTFqqnChQd57yomqk%2FlNWnxRUZMroHxNoYIQQ1LMrQARrnIpKjrhqlG5DAOfXlYukw2KeHx3JKsNsDqmh9zp6kJXyh9vOBV%2FuT%2FRwCcuynFCuos8yp04zJawZ1zB2V4YEGqg6tKruEf6cdLVeX44Lh%2FkXtqaKlAjGvpdbOjZVWh8Sfsx8jpXERfp2Wk4oksSCVeXANNpa8fq3MQZISEv0yJUCcdoMdSC7M2leHtZ1VQ626occhfFqqH7wHA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F3a2251759abdf3781d2bf689986ea97c%2FScreenshot_2025_09_26_21_33_45.png)
 
 #### コメント (1)
 - **ᏁγᎶ » Tøka_Kuŋ_** (09/26 12:39): 自分の拠点には看板を建てることを忘れずに！
@@ -3653,8 +3774,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/26 12:34
-- **更新日（UTC）:** 01/11 03:49
+- **Created At:** 09/26 12:34
+- **Updated At:** 01/11 03:49
 
 ---
 
@@ -3667,7 +3788,7 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (1)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/4e06661b4e71a24c85f039879321dc42/Screenshot_2025_09_26_21_45_53.png?Expires=1784878874&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dnSq8t3LWcTEcE3qfuS3IhP%2F%2FFUSgYNNeUgHF%2B5hY7XzDoVSj0WxTHybeeNsI5fvwHnMHA53cuOGnzoQigKmP9wCFWNrC9ln0D17eX6zVp80NgFaKSlffl9vXr%2F4WQXKgTbd%2BRDttFkTIP7XuLVCBR2Z%2B6GcoWkX%2Fy%2BuXfRCPMdesOK6OjSNDOjl8C%2Fu%2F1DUYRB%2Fbzp3E02Qe3kv02YseGMSswVU5t1EgBS6%2BjY3XZnPyxpSYcN3oGVOkh4W099uTB5e9BIUyrJYa%2B8wi5%2F5tmNoeOlUS853du%2FfbQ7nl7%2BDNgIML%2FrLGZBhlzdLWplGNrcXWK1ckH7Eqy0mTiuNrw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F4e06661b4e71a24c85f039879321dc42%2FScreenshot_2025_09_26_21_45_53.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4446698963/4e06661b4e71a24c85f039879321dc42/Screenshot_2025_09_26_21_45_53.png?Expires=1785541354&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NiSuEVNvQYXvDnKw4oyzgkQWd6diaFpedL8OXlLfVbQqjAC%2BksnpLfpW0fkNMZrwgfs8batLAQvQYn%2B1GR0hrCxeVZwINPg%2FRVbn5dvBDZP08Sju4uobRvFYQBSy%2F8NOfpIQrIsrT%2FUXXkuy9VQ5O%2FWImtEonX2JIamBZlX6s52gjzFSpEgXepHBkezi8Gk9adkx4651QD%2FCk0kWN6DomSJEUnvnp4Xx5C21Pyt54AHwC09us0CoqTiw%2F3xjw2e4kkvsL4pNDpVwyXEXmqW3LbRH6xwuk7umNj2YTmQLQs2HTWlGKvIWt%2FxiP3OiA4ByzaMwf8c1nkxUNjWCdasXcA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4446698963%2F4e06661b4e71a24c85f039879321dc42%2FScreenshot_2025_09_26_21_45_53.png)
 
 #### コメント (2)
 - **ᏁγᎶ » Tøka_Kuŋ_** (09/26 12:56): マップはここから見れるで https://html.cafe/x2c178236
@@ -3677,8 +3798,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/26 12:49
-- **更新日（UTC）:** 01/11 03:49
+- **Created At:** 09/26 12:49
+- **Updated At:** 01/11 03:49
 
 ---
 
@@ -3689,14 +3810,14 @@
 
 <p>明日か明後日に完成予定です。</p><p>題名をみんなに決めて欲しいのと、</p><p>抽選で3名を特別招待いたします。</p><p>実行日は5月6日　21:00〜</p><p>題名投票</p><p>1、レジェンド・オブ・ビースト</p><p>2、ペットズ・ソウル・マスター</p><p>3、<strong>Beast Overlord</strong></p><p><strong>訂正</strong></p><p><strong>特別招待をやめます</strong></p>
 
-**この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (1)
+**この投稿は役に立ちましたか？:** 3.0 / 5 ⭐ (2)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4132506524/54b757d4338828bef0a883bec7f06120/IMG_0726.jpg?Expires=1784878874&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WOx%2Fd4qZ37xeh3md06bm7ktUNV5PNBvG1L8%2Ff411lqg0xmQgFuxFUs97qQH%2FQ1D3UPcykOzEe9JW4LVRkqcW4iWXTNat3wrwNR2V5JCY1TznU%2BlFR2LxGGBQW%2BaTOG8DcqnnP4w3mhWeZC2Sta%2FEawyH9w6q7uBZAhI6Y9rxti5bh89%2FXWrIaG3Q6JpKbF0FgujyaemvSQ9nZNJMWYGk3CkLmA6W906G1pGNAxE7hx4bGV33CO4CYxTX%2FGQeWrbJmpW1A9%2B6JbQQ5%2FHn7CElzg%2BfxpSyAC4tsMz7991jqbpVmG0U5aeO7lkYsN9ZA4qIOqKMpOeZ71x7vvyoRMIwEQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4132506524%2F54b757d4338828bef0a883bec7f06120%2FIMG_0726.jpg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4132506524/54b757d4338828bef0a883bec7f06120/IMG_0726.jpg?Expires=1785541354&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=XJHxL8wDKnzg%2Bd4nu23GB3%2FvnRlNwsiUeOnF%2BunXxLp74D5M70M%2Bd%2BFDNxaMTz9Z9wzJOg%2FJAwdcXk0Ht7pVmNjFF0O%2BLrkTETqxtS9whGeb7GkbEffQOUUU3rJSB4qQxwwR32HR7LHRBMx%2Bpas988y2ecv3tuia5HdW9NgVvcenQ%2FcmWr6pKxoRuZTLtct2XZL1vRlJcQD%2BtZBr%2FDztMZGDmshFvhH55UK95Pko5fI81M0uYQ5yTH%2Fth6ng3d4et%2BY2eh7DEq4ke%2BaaeyGbHowo%2BudieKpDrpp7KssOTs9QERyT8xwNdB2oTqUQKvsNdgf7A4LaV8duDxNpCLS8Qg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4132506524%2F54b757d4338828bef0a883bec7f06120%2FIMG_0726.jpg)
 
 #### コメント (9)
 - **029大好き！(会長910)#ウルトラ第三番弟子** (05/02 14:41): 言い忘れてました。開始時、はじめにメールアドレスが入ります。
 - **りな319＃ルミナス族リーダー** (05/02 15:16): うち的には、レジェンド・オブ・ビーストかなー。読みやすいし、略しやすいから。あと、かっこいい
-- **煮物** (05/03 09:34): なんかすごそうやなｗ
+- **煮物　#oddoのスポンサー！** (05/03 09:34): なんかすごそうやなｗ
 - **削除済みユーザー** (05/03 10:17): 3かなぁ。読みやすいし略しやすいし、アルファベットならかっこいいフォントが死ぬほどあるからクオが上がりそう
 - **ハル春** (05/03 11:17): 3
 - **削除済みユーザー** (05/04 01:56): 1！
@@ -3706,8 +3827,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/02 14:38
-- **更新日（UTC）:** 06/28 03:25
+- **Created At:** 05/02 14:38
+- **Updated At:** 06/28 03:25
 
 ---
 
@@ -3720,8 +3841,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/05 12:15
-- **更新日（UTC）:** 06/28 03:25
+- **Created At:** 05/05 12:15
+- **Updated At:** 06/28 03:25
 
 ---
 
@@ -3767,8 +3888,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/05 12:56
-- **更新日（UTC）:** 06/28 03:25
+- **Created At:** 05/05 12:56
+- **Updated At:** 06/28 03:25
 
 ---
 
@@ -3783,8 +3904,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/06 01:54
-- **更新日（UTC）:** 06/28 03:25
+- **Created At:** 05/06 01:54
+- **Updated At:** 06/28 03:25
 
 ---
 
@@ -3803,8 +3924,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/06 13:39
-- **更新日（UTC）:** 06/28 03:24
+- **Created At:** 05/06 13:39
+- **Updated At:** 06/28 03:24
 
 ---
 
@@ -3819,8 +3940,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/06 22:17
-- **更新日（UTC）:** 06/28 03:24
+- **Created At:** 05/06 22:17
+- **Updated At:** 06/28 03:24
 
 ---
 
@@ -3846,8 +3967,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/07 01:49
-- **更新日（UTC）:** 06/28 03:24
+- **Created At:** 05/07 01:49
+- **Updated At:** 06/28 03:24
 
 ---
 
@@ -3869,8 +3990,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/09 00:11
-- **更新日（UTC）:** 07/06 07:37
+- **Created At:** 06/09 00:11
+- **Updated At:** 07/06 07:37
 
 ---
 
@@ -3886,8 +4007,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/08 02:37
-- **更新日（UTC）:** 06/28 03:29
+- **Created At:** 06/08 02:37
+- **Updated At:** 06/28 03:29
 
 ---
 
@@ -3920,8 +4041,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/02 00:13
-- **更新日（UTC）:** 06/28 03:29
+- **Created At:** 06/02 00:13
+- **Updated At:** 06/28 03:29
 
 ---
 
@@ -3940,8 +4061,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/27 04:58
-- **更新日（UTC）:** 06/28 03:29
+- **Created At:** 05/27 04:58
+- **Updated At:** 06/28 03:29
 
 ---
 
@@ -3954,7 +4075,7 @@
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4132506524/552e7dff5036daeb3d244004d7d5f48b/IMG_0804.jpeg?Expires=1784878874&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TMRL0aTfbeAhZJJh6r7Yo6lPu4ShARPMI4xs5ppDnhbJi3BJqQd%2F4jQUGbPXL%2Bw5ct%2F0UsWvxOIA%2FwxrAsHAkcwr1e63qGrh60A2FvBoa6HcdnPUYeUQ59oblKB1G9VB8Tb%2BGmZkD5uQ%2FjjjkxETChDzNc9HkklcFZagTgC8mpwLIt3dXi%2FiOwaWWJ9t6XLWy6Ahd3l9KutN5jPsPvRIZo3C1qNEMtfGjwUQdtDgoaN2i5fz03ScxKlaMEEScxj8uTN25LtdZgC1pY9VBT4QxrpmKk7vVsKoi8t2MFjn9r4q%2FVLA%2FbNuWcE8jfF6ewf7nkfDJu19Ui0naUl2XOJSAg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4132506524%2F552e7dff5036daeb3d244004d7d5f48b%2FIMG_0804.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4132506524/552e7dff5036daeb3d244004d7d5f48b/IMG_0804.jpeg?Expires=1785541354&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qYmclNWEvtd3LyZwJOI67gXYaPPVkAY0Uo1wkU7%2B5sL132X2j0Sa%2FCVqmg9oJz5Dv2115RazqBfDGdCD3dk15ycr%2BAfp8k94NHZBijMykapR9lbt%2F6zN6bbeAeoSdpuckiCSsZhOcQ%2BtTGwiBW2IABQV6Eegg94WBIcp1YhDxYuDv5j5E6u24a9akw%2Bl3uhsomaqnUWb7vHWMI0XH%2BzphBEb%2FXMetrJP0jc7wvERvi93o54AjTPPxuTjan8gETZAS78zxenSzM%2Bt%2FjniyodDpTcmTZ1zgMlSQnw3Uepx52vD3%2BePRdecqfHVuJQzrEB2ySimxqpTZNC5xTPJtRB2IQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4132506524%2F552e7dff5036daeb3d244004d7d5f48b%2FIMG_0804.jpeg)
 
 #### コメント (5)
 - **時透無一郎** (05/21 07:19): ブロでした
@@ -3965,8 +4086,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/21 06:31
-- **更新日（UTC）:** 06/28 03:28
+- **Created At:** 05/21 06:31
+- **Updated At:** 06/28 03:28
 
 ---
 
@@ -3981,7 +4102,7 @@
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4132506524/0ca9b69e6889688bf5c487ccc7c3f49e/IMG_0778.jpeg?Expires=1784878874&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I2da1cfGXJhRQDkHjq1ZK7c9F279PRCGVYpeRUAUXXKm68bXS%2FGL8q2twdiFwAR2UvgFcZA2DtO%2B%2FTD7%2FvAQiGmHvUrYXQp6esSAf4nCjrwSBfGiTzsQU0oHyNwt3avYPc5Huz%2FMW2731Tt1H11mAzJQSMa2%2FIER8nBlnX1UxmMNMWVle8IUZJMAJ6kD6QuyulqGQlp8jKgKFOGMXqipjkFxHCs3Puf23eJWM6EiY3YXu7KCY57%2BVaUvp4Wk7tp4x7ss2jH3aQOXjwBT327Vk7W8dRh9JKQ20R%2BJ%2BaC5Mb8cqULbdta0KlRgv0gihc3PTkHU12WVMzBHUE%2BU3yMyZw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4132506524%2F0ca9b69e6889688bf5c487ccc7c3f49e%2FIMG_0778.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4132506524/0ca9b69e6889688bf5c487ccc7c3f49e/IMG_0778.jpeg?Expires=1785541354&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lmxHO%2BSmmDVDU8djuLxNJkKEKVM6PO74dLdrU6mDEmVor0vN3JSRNj1qTgLCbvxV3WWB8mzG7P3Z5uYNi6bSaVADo4OMUKftcmRww6OPb8bo8d3uOgHhiuMOdPuaD2Qg0goJuYOMe1NAzVs%2F4KGNC9a5nAKY6YuilUyWurh7Gc%2BsRCgxQoek7pQCy2a7F8XyVj6KuFwHSP5g35DN6rA%2FUA0oXu%2Fi3V09SNLzMllOP93uaCWLKOIaT2FYc%2FLkOnsudRJMpEiwQ7ygDPNvlL3SG3XCnvAnYR3zotMsLindEOrGvGUYN0cqa%2F8JsZtDEA3UGpfOjKuf1eSLRy3T7a1ECA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4132506524%2F0ca9b69e6889688bf5c487ccc7c3f49e%2FIMG_0778.jpeg)
 
 #### コメント (8)
 - **029大好き！(会長910)#ウルトラ第三番弟子** (05/19 09:58): 今確認したけど、26人やってくれてるの嬉しすぎ
@@ -3995,8 +4116,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/19 03:50
-- **更新日（UTC）:** 06/28 03:28
+- **Created At:** 05/19 03:50
+- **Updated At:** 06/28 03:28
 
 ---
 
@@ -4130,7 +4251,7 @@
 - **マイクラやりましょ** (03/26 08:46): パスワードください
 - **寿司食いたいね** (04/04 08:37): [添付ファイル](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/YBl3Z2xoOy1Nav16) これどうにかしてやったらわかるんじゃ
 - **Anonymous** (04/05 06:02): ？
-- **豨(元冬で1番楽しいのは海)エドガーの11番弟子** (04/05 08:22): 定期的にパスワ変わるのゴミだよね
+- **カカカ力カカカ(元冬で1番楽しいのは海)エドガーの11番弟子** (04/05 08:22): 定期的にパスワ変わるのゴミだよね
 - **マイクラやりましょ** (04/10 11:14): 誰か教えて
 - **akasakabox** (05/13 20:57): 俺パスワード知ってる
 - **akasakabox** (05/13 21:24): 教えて欲しかったら言って
@@ -4153,12 +4274,12 @@
 - **猫神最高** (07/14 00:52): https://www.mext.go.jp/content/20260529-mxt_chousa01-000011635_2.csvhttps://www.mext.go.jp/content/20260529-mxt_chou
 
 #### リアクション
-- **絵文字:** ❤️ (2)
+- **絵文字:** ❤️ (3)
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 10/02 10:46
-- **更新日（UTC）:** 02/11 23:33
+- **Created At:** 10/02 10:46
+- **Updated At:** 02/11 23:33
 
 ---
 
@@ -4221,8 +4342,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/25 08:49
-- **更新日（UTC）:** 01/28 13:14
+- **Created At:** 03/25 08:49
+- **Updated At:** 01/28 13:14
 
 ---
 
@@ -4261,8 +4382,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/05 12:39
-- **更新日（UTC）:** 08/12 11:46
+- **Created At:** 07/05 12:39
+- **Updated At:** 08/12 11:46
 
 ---
 
@@ -4284,8 +4405,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/01 03:17
-- **更新日（UTC）:** 08/30 09:42
+- **Created At:** 08/01 03:17
+- **Updated At:** 08/30 09:42
 
 ---
 
@@ -4304,8 +4425,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/01 13:53
-- **更新日（UTC）:** 09/05 13:16
+- **Created At:** 08/01 13:53
+- **Updated At:** 09/05 13:16
 
 ---
 
@@ -4326,8 +4447,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 09/05 13:15
-- **更新日（UTC）:** 01/11 09:17
+- **Created At:** 09/05 13:15
+- **Updated At:** 01/11 09:17
 
 ---
 
@@ -4346,8 +4467,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/01 13:04
-- **更新日（UTC）:** 12/04 06:29
+- **Created At:** 08/01 13:04
+- **Updated At:** 12/04 06:29
 
 ---
 
@@ -4364,8 +4485,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/04 10:03
-- **更新日（UTC）:** 04/28 09:04
+- **Created At:** 04/04 10:03
+- **Updated At:** 04/28 09:04
 
 ---
 
@@ -4376,15 +4497,15 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (2)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/fcf918292b174ca7f7df3bd469bd225b/Eaglercraft_1_12_WASM_Offline_Download.zip?Expires=1784878874&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=W6QL0juCzlL2jO7slTWUaNOzIRJI2F9brwl0w2EMAWXgDtzAUUGFN9pf1v7OtWt5NIpQOlBkQNuvyATNdBcAXasNi6eQD42eHZBxnHNKxsuiDM3ruLrIZpnwniuMPo0r8nwmG3pFbZVikpvnsggzoB5pigsPXWD9qLCNIUQcSHGBungXUN0Yetufjy7ASyGq09tOKK5V8Ogs7xxbU54zSKZ%2BpmXnXW06rk0bL5FfUust%2FrEbIiSF1DWGSFa8ezoYUf99ZxAJrvlo62vp4Ix3%2B3qrYckDi53UNccUehrY4qODeleyWaWQN55Oyns6WPkrnFfe6XVpz3uFW058x6HiFQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2Ffcf918292b174ca7f7df3bd469bd225b%2FEaglercraft_1_12_WASM_Offline_Download.zip)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/fcf918292b174ca7f7df3bd469bd225b/Eaglercraft_1_12_WASM_Offline_Download.zip?Expires=1785541354&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Jxh2Tn8ntsKB56sDuBeO7K%2FPtYOYnOM6MzBWxqlwUZvfr2trgATZeBUqueBUbqg0iK%2BDaQbsyIiNgyglLyaqCURaMA5Jxm%2FrxlYh7G2hhl9T2GwlgR0iGrlaCsG21fJmGd9CVHuqCkhUxVf%2FZ9b7z7TyhpEOk0sougtlP6OH%2BA%2B9K%2Bz5wgxZWUTnFHQkCJIXtiDWao0%2FQ7Pr0fNF9ASPZH6FE9wen2PECbmcnAS0Sz4tmeOik0%2BqIzpTSO25IBXu74fiEcbjy5P23I7A37q3HPLCiExJcn9vFQzDgZPtJqXzAyIloREAthodNHpjMmfUoPNWOsNSyKUXkz%2FqGGsp1g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2Ffcf918292b174ca7f7df3bd469bd225b%2FEaglercraft_1_12_WASM_Offline_Download.zip)
 
 #### コメント (1)
 - **ドーバーダンサ** (02/21 02:53): はい
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/04 23:13
-- **更新日（UTC）:** 02/04 23:13
+- **Created At:** 02/04 23:13
+- **Updated At:** 02/04 23:13
 
 ---
 
@@ -4411,8 +4532,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 11/09 00:14
-- **更新日（UTC）:** 11/09 00:45
+- **Created At:** 11/09 00:14
+- **Updated At:** 11/09 00:45
 
 ---
 
@@ -4445,8 +4566,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/27 14:04
-- **更新日（UTC）:** 12/08 00:26
+- **Created At:** 06/27 14:04
+- **Updated At:** 12/08 00:26
 
 ---
 
@@ -4465,8 +4586,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 10/05 03:49
-- **更新日（UTC）:** 10/13 01:05
+- **Created At:** 10/05 03:49
+- **Updated At:** 10/13 01:05
 
 ---
 
@@ -4485,8 +4606,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/03 08:07
-- **更新日（UTC）:** 10/05 03:46
+- **Created At:** 08/03 08:07
+- **Updated At:** 10/05 03:46
 
 ---
 
@@ -4505,8 +4626,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/28 08:40
-- **更新日（UTC）:** 10/05 04:09
+- **Created At:** 06/28 08:40
+- **Updated At:** 10/05 04:09
 
 ---
 
@@ -4525,8 +4646,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/03 06:51
-- **更新日（UTC）:** 10/05 03:46
+- **Created At:** 08/03 06:51
+- **Updated At:** 10/05 03:46
 
 ---
 
@@ -4572,8 +4693,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/24 12:49
-- **更新日（UTC）:** 08/08 11:11
+- **Created At:** 06/24 12:49
+- **Updated At:** 08/08 11:11
 
 ---
 
@@ -4599,8 +4720,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/25 08:49
-- **更新日（UTC）:** 05/23 09:53
+- **Created At:** 03/25 08:49
+- **Updated At:** 05/23 09:53
 
 ---
 
@@ -4622,8 +4743,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/12 13:47
-- **更新日（UTC）:** 01/28 13:24
+- **Created At:** 07/12 13:47
+- **Updated At:** 01/28 13:24
 
 ---
 
@@ -4642,8 +4763,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/23 14:31
-- **更新日（UTC）:** 08/02 00:31
+- **Created At:** 07/23 14:31
+- **Updated At:** 08/02 00:31
 
 ---
 
@@ -4662,8 +4783,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/30 08:44
-- **更新日（UTC）:** 10/03 15:16
+- **Created At:** 07/30 08:44
+- **Updated At:** 10/03 15:16
 
 ---
 
@@ -4682,8 +4803,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/02 03:41
-- **更新日（UTC）:** 10/03 15:16
+- **Created At:** 08/02 03:41
+- **Updated At:** 10/03 15:16
 
 ---
 
@@ -4702,8 +4823,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/02 03:30
-- **更新日（UTC）:** 10/04 00:35
+- **Created At:** 08/02 03:30
+- **Updated At:** 10/04 00:35
 
 ---
 
@@ -4722,8 +4843,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 10/19 00:55
-- **更新日（UTC）:** 10/19 00:56
+- **Created At:** 10/19 00:55
+- **Updated At:** 10/19 00:56
 
 ---
 
@@ -4742,8 +4863,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 10/12 04:48
-- **更新日（UTC）:** 10/12 04:48
+- **Created At:** 10/12 04:48
+- **Updated At:** 10/12 04:48
 
 ---
 
@@ -4766,8 +4887,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/01 12:49
-- **更新日（UTC）:** 08/03 07:08
+- **Created At:** 08/01 12:49
+- **Updated At:** 08/03 07:08
 
 ---
 
@@ -4792,12 +4913,12 @@
 - **コロッケ** (02/07 06:14): はるとねこ県とか規制の種類によって変わるよ
 - **shadoreku** (02/10 12:15): ブロ
 - **ブッコロ清水** (03/03 22:26): i filter できた
-- **ライバル好き** (07/04 23:16): おもしろいね
+- **陰陽** (07/04 23:16): おもしろいね
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/09 11:41
-- **更新日（UTC）:** 10/16 22:46
+- **Created At:** 10/09 11:41
+- **Updated At:** 10/16 22:46
 
 ---
 
@@ -4823,8 +4944,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/01 04:42
-- **更新日（UTC）:** 10/18 09:40
+- **Created At:** 06/01 04:42
+- **Updated At:** 10/18 09:40
 
 ---
 
@@ -4852,8 +4973,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/29 04:29
-- **更新日（UTC）:** 10/05 03:23
+- **Created At:** 03/29 04:29
+- **Updated At:** 10/05 03:23
 
 ---
 
@@ -4880,8 +5001,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/31 13:41
-- **更新日（UTC）:** 12/27 01:24
+- **Created At:** 05/31 13:41
+- **Updated At:** 12/27 01:24
 
 ---
 
@@ -4907,8 +5028,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/31 13:38
-- **更新日（UTC）:** 10/19 00:30
+- **Created At:** 05/31 13:38
+- **Updated At:** 10/19 00:30
 
 ---
 
@@ -4934,8 +5055,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/13 09:45
-- **更新日（UTC）:** 10/05 03:27
+- **Created At:** 08/13 09:45
+- **Updated At:** 10/05 03:27
 
 ---
 
@@ -4957,8 +5078,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/13 09:28
-- **更新日（UTC）:** 10/05 01:20
+- **Created At:** 08/13 09:28
+- **Updated At:** 10/05 01:20
 
 ---
 
@@ -4982,8 +5103,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/31 14:19
-- **更新日（UTC）:** 12/29 13:34
+- **Created At:** 05/31 14:19
+- **Updated At:** 12/29 13:34
 
 ---
 
@@ -5004,8 +5125,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/15 01:34
-- **更新日（UTC）:** 10/05 03:30
+- **Created At:** 08/15 01:34
+- **Updated At:** 10/05 03:30
 
 ---
 
@@ -5027,8 +5148,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/14 12:27
-- **更新日（UTC）:** 10/05 01:31
+- **Created At:** 08/14 12:27
+- **Updated At:** 10/05 01:31
 
 ---
 
@@ -5050,8 +5171,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/01 01:32
-- **更新日（UTC）:** 10/05 01:30
+- **Created At:** 06/01 01:32
+- **Updated At:** 10/05 01:30
 
 ---
 
@@ -5073,8 +5194,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/27 08:18
-- **更新日（UTC）:** 12/29 13:12
+- **Created At:** 06/27 08:18
+- **Updated At:** 12/29 13:12
 
 ---
 
@@ -5100,8 +5221,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/09 14:37
-- **更新日（UTC）:** 10/19 00:31
+- **Created At:** 08/09 14:37
+- **Updated At:** 10/19 00:31
 
 ---
 
@@ -5125,8 +5246,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/05 08:23
-- **更新日（UTC）:** 12/29 13:33
+- **Created At:** 08/05 08:23
+- **Updated At:** 12/29 13:33
 
 ---
 
@@ -5148,8 +5269,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/01 10:38
-- **更新日（UTC）:** 10/05 01:27
+- **Created At:** 08/01 10:38
+- **Updated At:** 10/05 01:27
 
 ---
 
@@ -5171,8 +5292,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/01 01:17
-- **更新日（UTC）:** 10/05 01:27
+- **Created At:** 06/01 01:17
+- **Updated At:** 10/05 01:27
 
 ---
 
@@ -5198,8 +5319,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 04/03 15:54
-- **更新日（UTC）:** 10/19 14:58
+- **Created At:** 04/03 15:54
+- **Updated At:** 10/19 14:58
 
 ---
 
@@ -5222,8 +5343,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/05 14:05
-- **更新日（UTC）:** 10/05 02:10
+- **Created At:** 08/05 14:05
+- **Updated At:** 10/05 02:10
 
 ---
 
@@ -5245,8 +5366,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/27 15:11
-- **更新日（UTC）:** 10/05 01:30
+- **Created At:** 06/27 15:11
+- **Updated At:** 10/05 01:30
 
 ---
 
@@ -5268,8 +5389,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/08 14:46
-- **更新日（UTC）:** 10/05 01:30
+- **Created At:** 06/08 14:46
+- **Updated At:** 10/05 01:30
 
 ---
 
@@ -5298,8 +5419,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/27 14:20
-- **更新日（UTC）:** 10/12 03:38
+- **Created At:** 06/27 14:20
+- **Updated At:** 10/12 03:38
 
 ---
 
@@ -5318,8 +5439,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/23 16:00
-- **更新日（UTC）:** 09/05 12:09
+- **Created At:** 07/23 16:00
+- **Updated At:** 09/05 12:09
 
 ---
 
@@ -5338,8 +5459,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/27 10:46
-- **更新日（UTC）:** 10/12 04:56
+- **Created At:** 06/27 10:46
+- **Updated At:** 10/12 04:56
 
 ---
 
@@ -5364,8 +5485,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/27 15:04
-- **更新日（UTC）:** 10/12 04:18
+- **Created At:** 06/27 15:04
+- **Updated At:** 10/12 04:18
 
 ---
 
@@ -5386,8 +5507,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/03 05:55
-- **更新日（UTC）:** 10/05 01:55
+- **Created At:** 05/03 05:55
+- **Updated At:** 10/05 01:55
 
 ---
 
@@ -5421,8 +5542,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/18 09:10
-- **更新日（UTC）:** 04/18 09:10
+- **Created At:** 04/18 09:10
+- **Updated At:** 04/18 09:10
 
 ---
 
@@ -5447,8 +5568,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/23 04:31
-- **更新日（UTC）:** 04/02 06:23
+- **Created At:** 03/23 04:31
+- **Updated At:** 04/02 06:23
 
 ---
 
@@ -5478,8 +5599,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/11 07:43
-- **更新日（UTC）:** 01/16 23:54
+- **Created At:** 01/11 07:43
+- **Updated At:** 01/16 23:54
 
 ---
 
@@ -5526,8 +5647,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/11 07:26
-- **更新日（UTC）:** 01/25 09:45
+- **Created At:** 01/11 07:26
+- **Updated At:** 01/25 09:45
 
 ---
 
@@ -5556,8 +5677,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/10 22:44
-- **更新日（UTC）:** 01/12 05:59
+- **Created At:** 01/10 22:44
+- **Updated At:** 01/12 05:59
 
 ---
 
@@ -5570,7 +5691,7 @@
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4326203661/f9eee29623612a56726d0b918203a1be/Screen_recording_2026_01_10_17_36_15.webm?Expires=1784878875&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MfXTD5SDyIz2dhrWAx%2BAcfCZOM3s%2BRAtYZmyrxOYBHGWpYnOZfhXOvL3glD%2BNRcgu%2FpsyOU8VANpnTfV4g4JzZkCQNcThIB%2BZ%2BKK8i%2FiDn1jAzLyZqEY9Q%2BP%2BRyMZxFHtebz%2FNtvDWiLAkeJx8gu5TkCGtCE24KEz%2B6JQeewh6vNl%2B1sEHNOTasc5hxXIE5DpmqvWHI6HulMl1svda5tVvkl79IPB%2B0RDc5h0%2BdB5EhKfh2Hr063ld0mSVrxdBuVKaX%2Bma4MI4RfDu9N%2FE86QRrKqicfdzgFRO0CBhbm%2BiXyGpZZn7qDka9YADmtqyywOlbL7qo77o0jhSX4ehJweQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4326203661%2Ff9eee29623612a56726d0b918203a1be%2FScreen_recording_2026_01_10_17_36_15.webm)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4326203661/f9eee29623612a56726d0b918203a1be/Screen_recording_2026_01_10_17_36_15.webm?Expires=1785541355&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zyfmYs%2BxVAxUpp%2BUpyu2goRb%2FY%2FbYQIhLlyDfKEDLSgryfFF%2BtnLPh9XQUW7a%2Fpcp5dHlJwBG2Yjt2I26zxCwuuo0a%2FQjbglksHBwKRlyjnKDn5o620qhrPOxqa%2B%2FqCvzhZLbc1WoF%2FY5h4dYUG3jdV9byokke7jgklQElWhK5hRpjZg55AubmX77CIlG2j4sRP0BHi6hCd2BVJnT6FnXEFj914qB7oop74MPheuY6Y6flfBH%2FPzkTOKFv0S5iUdz5qd9Xnyh9Vsbmy0V9XfsZiQUzZKAPaAdYrpLZ9NWGI9JZlOwjS57vfg4D303%2Bz7jK9ZbV9FNZgLHMRNfFfkCw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4326203661%2Ff9eee29623612a56726d0b918203a1be%2FScreen_recording_2026_01_10_17_36_15.webm)
 
 #### コメント (10)
 - **削除済みユーザー** (01/10 08:38): https://ticket.xrcloud.jp/monocg/index?ec=event_305ba11f-ea9f-4394-819a-db14296a757f
@@ -5586,8 +5707,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/10 08:37
-- **更新日（UTC）:** 01/29 21:55
+- **Created At:** 01/10 08:37
+- **Updated At:** 01/29 21:55
 
 ---
 
@@ -5600,7 +5721,7 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (1)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4851851357/021a908021e1cd8630ac1760e3c51e12/Screenrecorder_20260107_175127.mp4?Expires=1784878875&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rDZEel0qozh6%2BZqdHylrhzJT9oXQyUNbO43yhcdiHpzqFjZ69f5TmQf6aK2gB5vUC8EwAqdcCkgJrNlDg4%2BD1HDhBODxfOtzVThk34JRbQgs6kc2zi0G5aBWu6atPWdci32SiCCGQjT2zMpMd%2FxseRjgUlYb6e7ZjKbvSx0zjiQ6ZMwnZDZwryFxBUTvHYawt5pWUIQ3xc%2FNn3xsDRy4QPK6xj9%2FDALdxGj8X0ehmMyjjtvlNgkExa%2Fxepp%2B7Q28e5oFWzpMsLs2ViiNPytezkyWoHb8%2FWat4RYZwh5l4m2eYfLvMeNHG%2FA7MZJ6j6DzfNyOla%2F7Nr9vmyLxW7uYmg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4851851357%2F021a908021e1cd8630ac1760e3c51e12%2FScreenrecorder_20260107_175127.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4851851357/021a908021e1cd8630ac1760e3c51e12/Screenrecorder_20260107_175127.mp4?Expires=1785541355&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Y8%2BkRYrlPII%2BQ8kV%2BbonDJHfFB3sjBa%2BMDj6cBt4ahDzoevFk0%2FGyef8DPIH9xujyDeADcON7%2BZpHa9WtDHnU09Dl1dUkAzE8wzXvmCJ0Oyrxhb4CoVuro3K840mfYy7wRHs%2FSWTMJlfx9zJ14FNA3M3m32wtDOwXue84rQ2ey%2B6Y1Qo50Rnfwv%2B3ef51hFt42H1qWyYFERLsJSXdCdlOGyJ7Om3b0fvo8YfY0tabuRUd7QEZiBxAQ5W89C8SZvyT1BkzQJYeE5KHwTzqyZStmhZdnwTdlCv3xz131W1s%2BxlflKyP%2FwdkCucolBEA7X2Ob%2BGePeBeQF8j6KVjKRquA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4851851357%2F021a908021e1cd8630ac1760e3c51e12%2FScreenrecorder_20260107_175127.mp4)
 
 #### コメント (13)
 - **削除済みユーザー** (01/10 07:56): 天才()
@@ -5621,8 +5742,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/10 07:40
-- **更新日（UTC）:** 01/12 05:58
+- **Created At:** 01/10 07:40
+- **Updated At:** 01/12 05:58
 
 ---
 
@@ -5647,8 +5768,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/20 06:01
-- **更新日（UTC）:** 01/28 13:21
+- **Created At:** 10/20 06:01
+- **Updated At:** 01/28 13:21
 
 ---
 
@@ -5671,8 +5792,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/10 12:25
-- **更新日（UTC）:** 10/16 10:21
+- **Created At:** 10/10 12:25
+- **Updated At:** 10/16 10:21
 
 ---
 
@@ -5683,7 +5804,7 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (1)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4318390668/740f560a767fe4d24be738be0d6f589d/IMG_6109.png?Expires=1784878875&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ugEY7WmzXBvrH5e3S8wgIOXbDKtxrRYbdaKot4khXrOf37paeFvpl9FCoSxmvwGiwPVooSXNcimFK%2Bs%2FMpqLTYWxRjinVHjMnlgjd4wYQgDOiQpvHPoonAOASx6X9Jn2sNwwPj5mLwn9TbFJrhci0HdBsZ2Q2HifmUKfhiITYsaeRD2r6xcyfOeS%2FvJN2nHzJ4uVOJ51qRIVlxVXnCuniQLdbH4rdVE7RRP9vpdsICzBmOLam7%2F5Y5mXo8rXjbRBYaKQUDG5uX5CmibWyYHxj%2F%2FslHeo%2BolVURx0shbfohUqepeYVb88CFbnNj15hhNOqQ4GqMKQ8jbKN3iWSQg%2BMA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4318390668%2F740f560a767fe4d24be738be0d6f589d%2FIMG_6109.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4318390668/740f560a767fe4d24be738be0d6f589d/IMG_6109.png?Expires=1785541355&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=eGgY2kgRaFhah%2F0uaYXn6ZlJm0Nnp%2FIl1wKc5wzK3h7i8gWzrhxt5F2%2FElw1vM7mxu00%2BeKE209I4JJ%2FewNUTI92ywNK78nh2lyk4n8dhyntuc5MHWf0WrBG2T0%2Bvj52EJYJV%2FYv9Pq5Sx222jxm2vBvJWXv9%2FhJzzbqkbFmX48xrRPr77hjVyXHnK%2BwXuY958%2FVWeho5kyq5w8lIXeqN30e2E0LV3osPXT0fTjuzfitHKKqxniJMRDzhL0zIkk2lkf1dFteaKd4VMiXKLXPz7U%2BH71DJkC3R%2Fn36qr%2BJIhl7%2F97rYFvYb00WKzz6e8eyeaflwljYUT35xLuojg61Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4318390668%2F740f560a767fe4d24be738be0d6f589d%2FIMG_6109.png)
 
 #### コメント (5)
 - **Kirby** (09/06 09:26): そのままurlを打つか、下に「Youtube」とか「Instagram」とか書いてあるからそこをタップする
@@ -5696,8 +5817,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/05 09:02
-- **更新日（UTC）:** 09/06 12:30
+- **Created At:** 09/05 09:02
+- **Updated At:** 09/06 12:30
 
 ---
 
@@ -5716,8 +5837,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 08/28 02:32
-- **更新日（UTC）:** 08/29 07:09
+- **Created At:** 08/28 02:32
+- **Updated At:** 08/29 07:09
 
 ---
 
@@ -5748,8 +5869,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 08/25 02:18
-- **更新日（UTC）:** 01/10 23:26
+- **Created At:** 08/25 02:18
+- **Updated At:** 01/10 23:26
 
 ---
 
@@ -5762,14 +5883,14 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (4)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/83c25b07d22752b78e3659552f1fb71b/Magurock20250803.html?Expires=1784878875&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=gxRPWpe4NIAw4m7h9n%2B%2FF20FVPDQGOCoHU1nU%2Fu3b9bm1shH%2Bdfsh0uowX0e8cuoxi6lg9G66L5phLj%2BXAqIB8RX4fj14zTNW2QDoKSCbLO2zTcSvvlBNN1MzVBZmXj47xB3Wh%2BFbugVxvRAJMSYmPIWaQGg3ZUMMuEDeMQyCLiGlIuMomRF4boQ306YHsTsYRDEpXDQmvJnS5%2F7NKLeYZb%2BMaoSVXvxuxmMDVENfUxoHFIbgFEj0UkN1zbBHcogB8B%2FxvS5Q2MuGcHQ2s4Obs9Ezx7cAU8MlWfHPnH7GiSvboMpPKY%2BwF3l%2BPYN0QIuDS%2BB16r7OilXBjZHXkwcJw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F83c25b07d22752b78e3659552f1fb71b%2FMagurock20250803.html)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/83c25b07d22752b78e3659552f1fb71b/Magurock20250803.html?Expires=1785541355&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jZD4u0ignHtaqQNR%2BNqhtQVj7gj40Lewk2AfEZ8eZyvRsKPrpBK3dWJQd2OXbjsohakiuOtJEOEfIueJC31Sb%2Fjnnc8uAFfkWclIuAAVVuZdcN%2B0xk9a0b9yML9Esz45taQuenXfpEQhkp1ZpHlGaF7dieEPmgjCEc5NVJRn%2FVBeZCYBtb3Z4YAfFVpKBqkmsO4XJH6lPPSGpkiYHu1tA6xvzaltKMXEnBOMXqh5687ZC%2FAtj1wTlunfur5hVvtPmXxHhc9zlfgCfdHHWNAfGqWYauFALLGZO37%2BesBjRHKML4IAvv3UizgGkPo%2BVWPEoe4zM5H8kYoOKHXWsnkq1Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F83c25b07d22752b78e3659552f1fb71b%2FMagurock20250803.html)
 
 #### リアクション
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 08/03 11:01
-- **更新日（UTC）:** 08/04 03:07
+- **Created At:** 08/03 11:01
+- **Updated At:** 08/04 03:07
 
 ---
 
@@ -5792,8 +5913,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/25 23:56
-- **更新日（UTC）:** 08/17 07:44
+- **Created At:** 07/25 23:56
+- **Updated At:** 08/17 07:44
 
 ---
 
@@ -5806,14 +5927,14 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (3)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/9819bcb1e710e8e32cf8351e5b790c93/___Proxy_explorer.html?Expires=1784878875&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=J02zd0VAP7Is5QGKUSwd7MoA2u6r7nyQ5pishk5TTUQqhGxUXlGygu1E6384sfcy8zAhbnfY7B0XjqFKO%2B6SbxP%2BhGoiRqyhigrzxif1UfRlQrI7ExewmWdVxaFhMzHIoOg8kETsCx0Ap6eUIs1TtSogopQ5uhQ%2F96bKIuMcV6WOnxMrWu3QmVZtyS0emJSJLXT2eDMSThqss48wpjrkiDoaTrmmBodxSfmOhmZ4WHvg6APr%2FiWoO8xvinzjf%2FlyHML4bDhTHqMpMbgWQT65cpiJJLPUWNECXtx0RDAsUjj5txZDPlffWxVQA02g7VZJbGGhjM4xupfdEsKMO1pH8w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F9819bcb1e710e8e32cf8351e5b790c93%2F___Proxy_explorer.html)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/9819bcb1e710e8e32cf8351e5b790c93/___Proxy_explorer.html?Expires=1785541355&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=m0QBoLv%2FS8IYXppE18SRHjtOjSoEk8lQ8ZlTBlUxRaM3znK1M1j9oi%2FyKoN%2BuT2KW4UWuv%2BxlbEnVTy%2BdDNmRbir%2BzWjeHReKOOXFC1RBCkJONxvLTyDyRUOfRwFBiHJ86oYIp1rjpv1jIdVngX%2BvDXzgsg7GauOREU8wLWSYbMaYDOfdbX%2FuG2XV9BP3XycMGaJOTrdUmNSU1CMJtctmenMJnlL6VRbqLPCGx%2BmAsVNzUL1aPInFgLrgQhSHt5J79lF78MeSqr3vAbbUJ4D71c7r35pmfz7qyzGBDsgfrbob0VTz1Qeh9LmrCTLroeRCT0VIAnJ5mOiw1JfVniwHg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F9819bcb1e710e8e32cf8351e5b790c93%2F___Proxy_explorer.html)
 
 #### リアクション
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/06 05:10
-- **更新日（UTC）:** 07/12 14:09
+- **Created At:** 07/06 05:10
+- **Updated At:** 07/12 14:09
 
 ---
 
@@ -5851,8 +5972,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/02 02:33
-- **更新日（UTC）:** 07/12 14:10
+- **Created At:** 06/02 02:33
+- **Updated At:** 07/12 14:10
 
 ---
 
@@ -5870,8 +5991,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/27 02:51
-- **更新日（UTC）:** 07/12 14:11
+- **Created At:** 05/27 02:51
+- **Updated At:** 07/12 14:11
 
 ---
 
@@ -5892,8 +6013,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/24 06:19
-- **更新日（UTC）:** 07/12 14:10
+- **Created At:** 05/24 06:19
+- **Updated At:** 07/12 14:10
 
 ---
 
@@ -5912,8 +6033,8 @@
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **作成日（UTC）:** 05/23 12:36
-- **更新日（UTC）:** 07/13 03:46
+- **Created At:** 05/23 12:36
+- **Updated At:** 07/13 03:46
 
 ---
 
@@ -5939,8 +6060,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/25 07:29
-- **更新日（UTC）:** 07/12 14:12
+- **Created At:** 08/25 07:29
+- **Updated At:** 07/12 14:12
 
 ---
 
@@ -5962,8 +6083,8 @@
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **作成日（UTC）:** 08/24 09:53
-- **更新日（UTC）:** 07/12 14:12
+- **Created At:** 08/24 09:53
+- **Updated At:** 07/12 14:12
 
 ---
 
@@ -5976,14 +6097,14 @@
 
 **投稿の種類:** サイトに関する情報提供
 
-**この投稿は役に立ちましたか？:** 4.1 / 5 ⭐ (9)
+**この投稿は役に立ちましたか？:** 3.8 / 5 ⭐ (10)
 
 #### リアクション
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/25 08:26
-- **更新日（UTC）:** 09/28 06:34
+- **Created At:** 03/25 08:26
+- **Updated At:** 09/28 06:34
 
 ---
 
@@ -6015,8 +6136,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/10 03:24
-- **更新日（UTC）:** 05/02 01:15
+- **Created At:** 02/10 03:24
+- **Updated At:** 05/02 01:15
 
 ---
 
@@ -6040,8 +6161,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/03 00:53
-- **更新日（UTC）:** 12/21 07:36
+- **Created At:** 12/03 00:53
+- **Updated At:** 12/21 07:36
 
 ---
 
@@ -6072,8 +6193,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 11/15 07:12
-- **更新日（UTC）:** 11/15 08:49
+- **Created At:** 11/15 07:12
+- **Updated At:** 11/15 08:49
 
 ---
 
@@ -6100,8 +6221,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/25 11:12
-- **更新日（UTC）:** 10/26 02:42
+- **Created At:** 09/25 11:12
+- **Updated At:** 10/26 02:42
 
 ---
 
@@ -6125,8 +6246,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/08 22:44
-- **更新日（UTC）:** 10/26 02:42
+- **Created At:** 10/08 22:44
+- **Updated At:** 10/26 02:42
 
 ---
 
@@ -6152,8 +6273,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/23 13:23
-- **更新日（UTC）:** 10/03 10:42
+- **Created At:** 09/23 13:23
+- **Updated At:** 10/03 10:42
 
 ---
 
@@ -6184,8 +6305,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/23 10:59
-- **更新日（UTC）:** 10/10 10:05
+- **Created At:** 09/23 10:59
+- **Updated At:** 10/10 10:05
 
 ---
 
@@ -6208,8 +6329,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/16 09:13
-- **更新日（UTC）:** 07/16 14:37
+- **Created At:** 07/16 09:13
+- **Updated At:** 07/16 14:37
 
 ---
 
@@ -6229,8 +6350,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/19 11:23
-- **更新日（UTC）:** 07/12 14:08
+- **Created At:** 06/19 11:23
+- **Updated At:** 07/12 14:08
 
 ---
 
@@ -6255,8 +6376,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/04 11:31
-- **更新日（UTC）:** 10/10 10:05
+- **Created At:** 05/04 11:31
+- **Updated At:** 10/10 10:05
 
 ---
 
@@ -6295,7 +6416,7 @@
 - **-55115511- #煮物8番弟子 #煮物貢献者 #アカウント入れなくなった** (03/24 03:26): 騙されたー
 - **ナガレコ** (04/13 01:57): やりやがったな、テメェ
 - **バッタ　ｲﾏﾊﾆｰﾄﾀﾞﾖ** (04/16 08:45): ｗｗｗ
-- **フラウィ** (06/18 04:45): ｗ
+- **フラウィ　L** (06/18 04:45): ｗ
 - **rikidsが？** (06/25 05:10): [添付ファイル](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/x5A7arG36gJzQwr6) ;;
 - **akki 5012** (06/30 23:19): 騙されたああああ
 
@@ -6303,8 +6424,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/18 04:42
-- **更新日（UTC）:** 10/23 09:46
+- **Created At:** 10/18 04:42
+- **Updated At:** 10/23 09:46
 
 ---
 
@@ -6329,8 +6450,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/24 11:39
-- **更新日（UTC）:** 09/23 21:25
+- **Created At:** 08/24 11:39
+- **Updated At:** 09/23 21:25
 
 ---
 
@@ -6352,8 +6473,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/06 13:21
-- **更新日（UTC）:** 09/23 21:25
+- **Created At:** 07/06 13:21
+- **Updated At:** 09/23 21:25
 
 ---
 
@@ -6375,8 +6496,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/06 13:26
-- **更新日（UTC）:** 09/23 21:25
+- **Created At:** 07/06 13:26
+- **Updated At:** 09/23 21:25
 
 ---
 
@@ -6399,8 +6520,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/06 13:30
-- **更新日（UTC）:** 10/03 10:42
+- **Created At:** 07/06 13:30
+- **Updated At:** 10/03 10:42
 
 ---
 
@@ -6424,8 +6545,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/31 12:00
-- **更新日（UTC）:** 02/28 11:06
+- **Created At:** 08/31 12:00
+- **Updated At:** 02/28 11:06
 
 ---
 
@@ -6454,8 +6575,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/24 08:15
-- **更新日（UTC）:** 09/25 10:21
+- **Created At:** 09/24 08:15
+- **Updated At:** 09/25 10:21
 
 ---
 
@@ -6476,8 +6597,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/28 05:49
-- **更新日（UTC）:** 04/28 09:00
+- **Created At:** 04/28 05:49
+- **Updated At:** 04/28 09:00
 
 ---
 
@@ -6492,8 +6613,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/28 05:38
-- **更新日（UTC）:** 04/28 08:59
+- **Created At:** 04/28 05:38
+- **Updated At:** 04/28 08:59
 
 ---
 
@@ -6508,8 +6629,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/28 05:34
-- **更新日（UTC）:** 04/28 08:59
+- **Created At:** 04/28 05:34
+- **Updated At:** 04/28 08:59
 
 ---
 
@@ -6530,8 +6651,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 04/01 00:26
-- **更新日（UTC）:** 04/01 00:26
+- **Created At:** 04/01 00:26
+- **Updated At:** 04/01 00:26
 
 ---
 
@@ -6546,7 +6667,7 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (1)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4847522827/bce540036ec2fb993f5a9c4855b96492/IMG_0314.jpeg?Expires=1784878875&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Ky%2F7AvqXGR8c8QhlwQ8tW%2Fnl1L2ZD23sxCW7AuudmI4lR0pSGTLbivaAEt1qByTMu09rIZH1tvjj7%2BdhIRL38lRAIrDr3o4hNm2Il1jORSG6gAo9Eqp5l1MgLBXeAKxUA15gkhZEOYWIboMdNUsm0DJAvqtinjRckliZ7V%2Bl78%2BuQwD%2Fkf75Q7j3cHkluCfw2jDwL0%2FgAAywxswhQCNaIN0jJQKmqGMPsfO%2FwhKuXUJKvuX7HJzAax2k1A9oDb%2BsC46dvnWCc87KWmfkb5SkAF1SosnGdWFRURZvSdNuCs67%2BAJJ4r07aC5zKkpfQyNcEE1m%2BuHVjFsKd%2FO9RhT48w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4847522827%2Fbce540036ec2fb993f5a9c4855b96492%2FIMG_0314.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4847522827/bce540036ec2fb993f5a9c4855b96492/IMG_0314.jpeg?Expires=1785541355&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pHdnPvU41a3ue4ydOzdNX9szhbty8Zk4DeXgABUExqOTQpQgOK6dL1KQADjhiPVQyRINJ3SjInkmmy%2F%2BNZ8qwNJ7tu9Tsmn3HUUeg%2BKeIpTJlHXB%2FOXumqfja2SmKO7mW%2Bflv2EQgu3vBphzKewaL2urOIqyKMCU2uxWeVTKBJjS228TKedNAQHInw85RSQwjUeTEdLvtouOccJeim8JAVA3%2BYYMA991rcCzeG%2BDwahsu1SOWnOkks684mvyCOnGomVPLhVmuIxPH7nu%2FbPrHlO2pQTTABuETHadJ17NTEN5NM4gztS%2BvTWucllHCdnjFb%2BU%2Fa6dL6lX8D9YQ3SBsw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4847522827%2Fbce540036ec2fb993f5a9c4855b96492%2FIMG_0314.jpeg)
 
 #### コメント (4)
 - **aaabbbccc** (03/17 02:42): 四個目いけた
@@ -6558,8 +6679,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/17 01:38
-- **更新日（UTC）:** 03/24 08:47
+- **Created At:** 03/17 01:38
+- **Updated At:** 03/24 08:47
 
 ---
 
@@ -6590,8 +6711,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/27 08:09
-- **更新日（UTC）:** 03/24 08:48
+- **Created At:** 02/27 08:09
+- **Updated At:** 03/24 08:48
 
 ---
 
@@ -6614,8 +6735,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/13 08:21
-- **更新日（UTC）:** 01/05 07:45
+- **Created At:** 07/13 08:21
+- **Updated At:** 01/05 07:45
 
 ---
 
@@ -6624,7 +6745,7 @@
 
 **投稿の種類:** リンクの提供
 
-**この投稿は役に立ちましたか？:** 3.0 / 5 ⭐ (2)
+**この投稿は役に立ちましたか？:** 2.3 / 5 ⭐ (3)
 
 [​u​s​6​.​j​o​b​i​.​o​n​e](https://​u​s​6​.​j​o​b​i​.​o​n​e)
 
@@ -6639,8 +6760,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/23 10:16
-- **更新日（UTC）:** 10/23 10:16
+- **Created At:** 10/23 10:16
+- **Updated At:** 10/23 10:16
 
 ---
 
@@ -6671,8 +6792,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/25 08:37
-- **更新日（UTC）:** 09/28 06:34
+- **Created At:** 03/25 08:37
+- **Updated At:** 09/28 06:34
 
 ---
 
@@ -6690,8 +6811,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/31 07:49
-- **更新日（UTC）:** 06/07 22:38
+- **Created At:** 05/31 07:49
+- **Updated At:** 06/07 22:38
 
 ---
 
@@ -6705,12 +6826,12 @@
 [添付ファイル 1](https://nimonoshadownew.kameli.org/)
 
 #### コメント (1)
-- **煮物** (06/02 21:36): あざす
+- **煮物　#oddoのスポンサー！** (06/02 21:36): あざす
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/31 02:40
-- **更新日（UTC）:** 05/31 05:55
+- **Created At:** 05/31 02:40
+- **Updated At:** 05/31 05:55
 
 ---
 
@@ -6730,8 +6851,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/02 01:12
-- **更新日（UTC）:** 05/02 01:12
+- **Created At:** 05/02 01:12
+- **Updated At:** 05/02 01:12
 
 ---
 
@@ -6746,8 +6867,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 04/21 08:54
-- **更新日（UTC）:** 04/21 08:54
+- **Created At:** 04/21 08:54
+- **Updated At:** 04/21 08:54
 
 ---
 
@@ -6772,8 +6893,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/10 08:01
-- **更新日（UTC）:** 01/15 07:40
+- **Created At:** 01/10 08:01
+- **Updated At:** 01/15 07:40
 
 ---
 
@@ -6806,8 +6927,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 11/20 10:27
-- **更新日（UTC）:** 12/26 05:24
+- **Created At:** 11/20 10:27
+- **Updated At:** 12/26 05:24
 
 ---
 
@@ -6831,8 +6952,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 11/15 07:14
-- **更新日（UTC）:** 11/15 08:48
+- **Created At:** 11/15 07:14
+- **Updated At:** 11/15 08:48
 
 ---
 
@@ -6871,8 +6992,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/25 11:14
-- **更新日（UTC）:** 10/27 22:24
+- **Created At:** 09/25 11:14
+- **Updated At:** 10/27 22:24
 
 ---
 
@@ -6900,8 +7021,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/14 00:16
-- **更新日（UTC）:** 10/16 10:23
+- **Created At:** 10/14 00:16
+- **Updated At:** 10/16 10:23
 
 ---
 
@@ -6927,8 +7048,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/23 11:05
-- **更新日（UTC）:** 09/23 21:26
+- **Created At:** 09/23 11:05
+- **Updated At:** 09/23 21:26
 
 ---
 
@@ -6952,8 +7073,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/20 03:56
-- **更新日（UTC）:** 07/20 03:56
+- **Created At:** 07/20 03:56
+- **Updated At:** 07/20 03:56
 
 ---
 
@@ -6972,8 +7093,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/29 14:03
-- **更新日（UTC）:** 09/28 06:34
+- **Created At:** 03/29 14:03
+- **Updated At:** 09/28 06:34
 
 ---
 
@@ -6988,8 +7109,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/04 01:34
-- **更新日（UTC）:** 05/04 01:41
+- **Created At:** 05/04 01:34
+- **Updated At:** 05/04 01:41
 
 ---
 
@@ -7019,8 +7140,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/11 02:19
-- **更新日（UTC）:** 05/02 01:01
+- **Created At:** 01/11 02:19
+- **Updated At:** 05/02 01:01
 
 ---
 
@@ -7037,8 +7158,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 09/25 11:13
-- **更新日（UTC）:** 12/06 01:28
+- **Created At:** 09/25 11:13
+- **Updated At:** 12/06 01:28
 
 ---
 
@@ -7061,8 +7182,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/02 08:44
-- **更新日（UTC）:** 09/08 21:43
+- **Created At:** 09/02 08:44
+- **Updated At:** 09/08 21:43
 
 ---
 
@@ -7084,8 +7205,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/04 23:16
-- **更新日（UTC）:** 07/12 13:40
+- **Created At:** 05/04 23:16
+- **Updated At:** 07/12 13:40
 
 ---
 
@@ -7119,8 +7240,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/31 12:09
-- **更新日（UTC）:** 09/25 10:51
+- **Created At:** 03/31 12:09
+- **Updated At:** 09/25 10:51
 
 ---
 
@@ -7143,8 +7264,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/02 01:08
-- **更新日（UTC）:** 05/02 01:08
+- **Created At:** 05/02 01:08
+- **Updated At:** 05/02 01:08
 
 ---
 
@@ -7168,8 +7289,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/27 07:10
-- **更新日（UTC）:** 04/27 07:36
+- **Created At:** 04/27 07:10
+- **Updated At:** 04/27 07:36
 
 ---
 
@@ -7198,8 +7319,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/18 03:06
-- **更新日（UTC）:** 02/19 07:54
+- **Created At:** 02/18 03:06
+- **Updated At:** 02/19 07:54
 
 ---
 
@@ -7223,8 +7344,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/17 12:37
-- **更新日（UTC）:** 03/20 22:10
+- **Created At:** 02/17 12:37
+- **Updated At:** 03/20 22:10
 
 ---
 
@@ -7237,7 +7358,7 @@
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/6f825c782cb30814a4923cd8e658534a/mosaic_20260216103531.png?Expires=1784878876&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MKhhPvR%2F%2BUho%2B9InFfpqxeFZgThHB2XL8rWhgUkL4mNqXrnKDddK4LhV1KA8Bg1tprO1ky795QxZaV0ZfK5v2qdpqAaY7NmamuzVBzCMHdKbzTpTi0DNGB4J6lge4d8SJqPHfe7LOPNTyIF1iHWLpHYSGc117X43Fdors8MgmmMIJ%2FUp1hRcwuI3aK3X0NabZnJrYWUOO1i%2BpOeaieDyOKUxgCd6wcv3TdrwGmgoUbpjiaMzJCLC08CFQL3XvQSTpK3IR2UlhehcN70PjWxkTEDzlx%2Br8UgrMDCuPX99yT3%2BalF0RwyMhSbtQC3G8WPbtAJ3KunO1GI0%2BYRROFyfDQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F6f825c782cb30814a4923cd8e658534a%2Fmosaic_20260216103531.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4825200648/6f825c782cb30814a4923cd8e658534a/mosaic_20260216103531.png?Expires=1785541356&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=L0uur%2Bnig8RGTRxciMEfrE3NEbmy5p%2F%2FyXRBgP6%2Bt%2F5EknzGcPMvLl2eFBFXPw5OO68R7dSgq1Q9fE4vKXuvp2989LfDSVleGpntzcYww7a4uVJCxOynAH0XpgUuZOqIZgeoZWODAj5D4TmFST44RYB2cyN5hsI8wsFFmszU3h5HyMK%2FAucNVK5qlpCyvvYve5gNvAgi7V4en5yzHx5v3d9b1gTWGnv43CX7OQrxZElhfFbocRfExgkOBJN%2BC6SBqoMXcGZvyPjlw6VWtOvLbixRjqmvFs6crBNVhaBOYNc%2BI1HpX4PIQwiPI6cX3Xg%2FjTQ%2BIaHix%2Bnv8GSw8zxcEg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4825200648%2F6f825c782cb30814a4923cd8e658534a%2Fmosaic_20260216103531.png)
 
 #### コメント (9)
 - **Massa_games216** (02/16 01:39): あと自分でデプロイするつなぎ用にutopiaほしいっす
@@ -7252,8 +7373,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/16 01:37
-- **更新日（UTC）:** 03/20 22:10
+- **Created At:** 02/16 01:37
+- **Updated At:** 03/20 22:10
 
 ---
 
@@ -7300,8 +7421,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/11 04:08
-- **更新日（UTC）:** 01/19 01:01
+- **Created At:** 01/11 04:08
+- **Updated At:** 01/19 01:01
 
 ---
 
@@ -7326,8 +7447,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/25 11:13
-- **更新日（UTC）:** 12/06 01:29
+- **Created At:** 09/25 11:13
+- **Updated At:** 12/06 01:29
 
 ---
 
@@ -7338,7 +7459,7 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (3)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4441744587/6341af461ba76111220613b0f6d3e5db/______________.txt?Expires=1784878876&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NkZ%2BsHFsAd68BdFpPkW79urjS8oM%2BsvAEdXpb38EowxCejLeVs19fMHyACkMgYGafRJecW4RYpyv3%2B9VqPBGe9K4kSSp3tc0ef%2FksbI3CzjRkFED2Ffzu5aQK2ZKZ5QFSXP4gM2tvIf1i4xYOXrR%2FE4Vs%2BEq96mdMTqRTDe%2BJkELr%2BTHMEwuqAM6t79iaoEZ%2Fvyd4fifdB5myUCaNcL%2FbtjhWrQOrRkwP1B8mUw7QVW%2BW%2BYWTWc8vVViHZjjWsoUVDD3NpCJlA54vmxL2XF8uslI7zNwvoUObSeJiInWMxdPhoQdyK9Qu%2BAHuKWHmEplSP9WvOzFfGbmlQGxxdtIwg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4441744587%2F6341af461ba76111220613b0f6d3e5db%2F______________.txt)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/4441744587/6341af461ba76111220613b0f6d3e5db/______________.txt?Expires=1785541356&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=t8wpQrxi9TUwZxp7XYYqnereWcTVKYK3TphHTsYipd%2FIh8DMXy7iBrHOb2VaVlWLWoIxk3MvCyygx4QCrTcYiNG%2Fdm1qgK41CcGLrPSv6XjGeA%2B7K7eyWzvIIyspbv%2BoJaVMIYtQlPoZkA7Lp3MzJB7jDCZH0RjMtt0v9PjJqSErm7w69h4q7ESsUHYbnUDvLoVfXk9FCpb1riWemmpMoBfzl2LmNQsUeKDYp1fOwQtqNWge4eh2pAFveXJCrQU3yvVkrrfBDA%2BAxtYIu9eMhDKKpQp59pggcFrK7V1e1aNBBp%2BTVgnfdvt7y5tHxq1tLotctdGyIXQ9wQHGPANlFg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4441744587%2F6341af461ba76111220613b0f6d3e5db%2F______________.txt)
 
 #### コメント (1)
 - **Massa_games216** (10/19 11:49): 全ブロの悲しみ
@@ -7347,8 +7468,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/28 22:16
-- **更新日（UTC）:** 10/01 06:56
+- **Created At:** 09/28 22:16
+- **Updated At:** 10/01 06:56
 
 ---
 
@@ -7369,8 +7490,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/25 08:36
-- **更新日（UTC）:** 01/25 09:47
+- **Created At:** 03/25 08:36
+- **Updated At:** 01/25 09:47
 
 ---
 
@@ -7401,8 +7522,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/10 05:40
-- **更新日（UTC）:** 04/20 22:39
+- **Created At:** 02/10 05:40
+- **Updated At:** 04/20 22:39
 
 ---
 
@@ -7426,8 +7547,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/04 02:02
-- **更新日（UTC）:** 07/12 13:38
+- **Created At:** 06/04 02:02
+- **Updated At:** 07/12 13:38
 
 ---
 
@@ -7455,8 +7576,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/03 02:55
-- **更新日（UTC）:** 03/24 08:50
+- **Created At:** 03/03 02:55
+- **Updated At:** 03/24 08:50
 
 ---
 
@@ -7482,8 +7603,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/28 22:08
-- **更新日（UTC）:** 10/23 10:16
+- **Created At:** 09/28 22:08
+- **Updated At:** 10/23 10:16
 
 ---
 
@@ -7501,8 +7622,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/28 22:08
-- **更新日（UTC）:** 10/01 06:59
+- **Created At:** 09/28 22:08
+- **Updated At:** 10/01 06:59
 
 ---
 
@@ -7515,8 +7636,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/25 11:14
-- **更新日（UTC）:** 09/25 11:14
+- **Created At:** 09/25 11:14
+- **Updated At:** 09/25 11:14
 
 ---
 
@@ -7537,8 +7658,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/09 01:47
-- **更新日（UTC）:** 09/09 08:35
+- **Created At:** 09/09 01:47
+- **Updated At:** 09/09 08:35
 
 ---
 
@@ -7553,8 +7674,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/25 23:37
-- **更新日（UTC）:** 07/26 09:59
+- **Created At:** 07/25 23:37
+- **Updated At:** 07/26 09:59
 
 ---
 
@@ -7572,8 +7693,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/24 07:25
-- **更新日（UTC）:** 08/04 10:07
+- **Created At:** 07/24 07:25
+- **Updated At:** 08/04 10:07
 
 ---
 
@@ -7595,8 +7716,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 08/04 10:06
-- **更新日（UTC）:** 09/06 14:02
+- **Created At:** 08/04 10:06
+- **Updated At:** 09/06 14:02
 
 ---
 
@@ -7633,8 +7754,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/11 02:08
-- **更新日（UTC）:** 09/06 14:02
+- **Created At:** 07/11 02:08
+- **Updated At:** 09/06 14:02
 
 ---
 
@@ -7656,8 +7777,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/28 12:19
-- **更新日（UTC）:** 08/07 07:15
+- **Created At:** 05/28 12:19
+- **Updated At:** 08/07 07:15
 
 ---
 
@@ -7678,8 +7799,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/23 11:08
-- **更新日（UTC）:** 08/07 07:26
+- **Created At:** 05/23 11:08
+- **Updated At:** 08/07 07:26
 
 ---
 
@@ -7700,8 +7821,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/20 05:02
-- **更新日（UTC）:** 06/20 05:02
+- **Created At:** 06/20 05:02
+- **Updated At:** 06/20 05:02
 
 ---
 
@@ -7714,7 +7835,7 @@
 
 [https://sceneform.ai/ja/tools/youtube-video-downloader](https://sceneform.ai/ja/tools/youtube-video-downloader)
 
-#### コメント (8)
+#### コメント (9)
 - **aotan　本垢** (06/07 02:57): ぶろ
 - **フジカゼ** (06/07 04:31): ブロ
 - **Anonymous** (06/07 04:49): 開けたけど　ダウンロードできなかった
@@ -7723,11 +7844,12 @@
 - **削除済みユーザー** (06/07 22:50): いけた
 - **健康的なけんこすこう** (06/08 08:17): ダウンロード系もっと欲しい
 - **キュアせた** (06/09 11:15): 枚方市ブロック
+- **匿名** (07/18 12:00): なんかダウンローダー全部ブロックされてる
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 06/07 02:53
-- **更新日（UTC）:** 06/07 02:53
+- **Created At:** 06/07 02:53
+- **Updated At:** 06/07 02:53
 
 ---
 
@@ -7752,8 +7874,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/27 14:45
-- **更新日（UTC）:** 03/28 02:43
+- **Created At:** 03/27 14:45
+- **Updated At:** 03/28 02:43
 
 ---
 
@@ -7762,7 +7884,7 @@
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-#### コメント (12)
+#### コメント (10)
 - **とりあえず。** (01/11 11:35): あげます！
 - **とりあえず。** (01/11 11:35): https://ytube.savetube.me/1kejjj1https://ytube.savetube.me/27-youtube-video-downloader-5djdh6https://ytube.savetube.me/ja/5djdh6https://ytube.savetube.me/ja/youtube-video-downloader-2jjeh1
 - **Groovy deer** (01/11 14:12): あざます！
@@ -7773,13 +7895,11 @@
 - **Passionate Grasshopper** (02/19 00:09): 言ってる意味がわからん
 - **NyrikX(足立区陣ICFS系)** (03/31 19:04): ここのダウンローダーはICFSブロックの他にも組織によるブロックかかってたりアクセス権限がありませんとか接続エラーでアクセスできませんとかなんやら多すぎるブロックの種類が
 - **NyrikX(足立区陣ICFS系)** (04/02 01:28): 全風呂っでエラーもあった
-- **ふっじー（犬系）** (05/05 00:25): Online Audio Downloader for Quick Music Saving on Any Siteこれいけませんか？
-- **ふっじー（犬系）** (05/05 00:26): 英語なんでページ翻訳おすすめです
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/11 07:48
-- **更新日（UTC）:** 01/22 22:27
+- **Created At:** 01/11 07:48
+- **Updated At:** 01/22 22:27
 
 ---
 
@@ -7812,8 +7932,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 12/04 11:21
-- **更新日（UTC）:** 12/21 07:59
+- **Created At:** 12/04 11:21
+- **Updated At:** 12/21 07:59
 
 ---
 
@@ -7836,8 +7956,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/20 00:16
-- **更新日（UTC）:** 12/21 08:47
+- **Created At:** 10/20 00:16
+- **Updated At:** 12/21 08:47
 
 ---
 
@@ -7858,8 +7978,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/15 08:43
-- **更新日（UTC）:** 10/16 10:26
+- **Created At:** 10/15 08:43
+- **Updated At:** 10/16 10:26
 
 ---
 
@@ -7890,8 +8010,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/25 08:28
-- **更新日（UTC）:** 11/08 01:22
+- **Created At:** 03/25 08:28
+- **Updated At:** 11/08 01:22
 
 ---
 
@@ -7913,8 +8033,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/14 22:50
-- **更新日（UTC）:** 08/01 05:29
+- **Created At:** 07/14 22:50
+- **Updated At:** 08/01 05:29
 
 ---
 
@@ -7940,8 +8060,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/14 08:55
-- **更新日（UTC）:** 08/01 05:29
+- **Created At:** 07/14 08:55
+- **Updated At:** 08/01 05:29
 
 ---
 
@@ -7966,8 +8086,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/27 03:18
-- **更新日（UTC）:** 08/01 05:29
+- **Created At:** 06/27 03:18
+- **Updated At:** 08/01 05:29
 
 ---
 
@@ -7995,8 +8115,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/27 02:50
-- **更新日（UTC）:** 08/01 05:28
+- **Created At:** 05/27 02:50
+- **Updated At:** 08/01 05:28
 
 ---
 
@@ -8024,8 +8144,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/11 08:58
-- **更新日（UTC）:** 08/16 11:57
+- **Created At:** 09/11 08:58
+- **Updated At:** 08/16 11:57
 
 ---
 
@@ -8046,8 +8166,8 @@
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **作成日（UTC）:** 08/24 09:55
-- **更新日（UTC）:** 08/16 11:57
+- **Created At:** 08/24 09:55
+- **Updated At:** 08/16 11:57
 
 ---
 
@@ -8069,8 +8189,8 @@
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **作成日（UTC）:** 08/24 09:45
-- **更新日（UTC）:** 08/01 05:27
+- **Created At:** 08/24 09:45
+- **Updated At:** 08/01 05:27
 
 ---
 
@@ -8100,8 +8220,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/21 23:33
-- **更新日（UTC）:** 08/01 05:26
+- **Created At:** 08/21 23:33
+- **Updated At:** 08/01 05:26
 
 ---
 
@@ -8131,8 +8251,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 12/05 11:25
-- **更新日（UTC）:** 01/30 08:19
+- **Created At:** 12/05 11:25
+- **Updated At:** 01/30 08:19
 
 ---
 
@@ -8155,8 +8275,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 12/06 00:53
-- **更新日（UTC）:** 01/04 09:24
+- **Created At:** 12/06 00:53
+- **Updated At:** 01/04 09:24
 
 ---
 
@@ -8179,8 +8299,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 12/06 00:58
-- **更新日（UTC）:** 01/04 09:25
+- **Created At:** 12/06 00:58
+- **Updated At:** 01/04 09:25
 
 ---
 
@@ -8197,12 +8317,12 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (2)
 
-![添付ファイル 1](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/2309299121/b4438644d9ba6a50ff21d452e873ae27/Screenshot_2025_10_24_19_33_30.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKioxkJs69oyx3bXEigwLlnJRn8a8qvO6pGMQZWEGzNPtdL3AVNdmbiNeMpxtQUdlZss-_gUmE5WkqyqhtgADI0ThcV89bBsJURbfmTinvNlu3yH5Qm1t-5veXHvTCw-sXYvu6qRd4SAUQqd91Ur9Mjm_MtEoIJJ0XbhSpWY-RZtlKg)
-![添付ファイル 2](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/2309299121/cb2a2edc93ca058affcf3bd764d8dcd4/Screenshot_2025_10_07_23_04_53.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKioxkJs69oyx3bXEigwLlnJRl7Z-_XbGqQpT_JyDwjuzrgKjn8GbfDyVtpEMrN8kHE2ghvg9lmIrET_rN5XwEQJS7ij3DKjOVqZpKIMlDXTixzSCeDQ-m-DCkymNzvfN5C-io423Py0dpJFqACS3xGWMJb-mcv1tIT3Byu308-QsFo)
-![添付ファイル 3](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/2309299121/709dc5813b73486561d86a283278c90c/________4_.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKioxkJs69oyx3bXEigwLlnJRkh_G1n0FAoGh1-lM93duwHMqq2ncij5Qe83AvuiwF3aUIttsd__lZIHA71iZI0LGT-QvjD_yqip-bTJMxI35JkgjLGH2jGVdn0j2PqL3KtzRdOJWcLkObgowENbsPrr9g=)
+![添付ファイル 1](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/2309299121/b4438644d9ba6a50ff21d452e873ae27/Screenshot_2025_10_24_19_33_30.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKioxkJs69oyx3bXEigwLlnJRn8a8qvO6pGMQZWEGzNPtdL3AVNdmbiNeMpxtQUdlZss-_gUmE5WkqyqhtgADI0ThcV89bBsJURbfmTinvNlu3yH5Qm1t-5veXHvTCw-sXYviXBSZCnQrD7JUeKfj-tQK3l5VStP1A4yurPsI3Rgrbs)
+![添付ファイル 2](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/2309299121/cb2a2edc93ca058affcf3bd764d8dcd4/Screenshot_2025_10_07_23_04_53.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKioxkJs69oyx3bXEigwLlnJRl7Z-_XbGqQpT_JyDwjuzrgKjn8GbfDyVtpEMrN8kHE2ghvg9lmIrET_rN5XwEQJS7ij3DKjOVqZpKIMlDXTixzSCeDQ-m-DCkymNzvfN5C-gDwetbcIJRe2AHHGL4bTt7W66UrDNd7VvHjMelEEl1a)
+![添付ファイル 3](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/2309299121/709dc5813b73486561d86a283278c90c/________4_.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKioxkJs69oyx3bXEigwLlnJRkh_G1n0FAoGh1-lM93duwHMqq2ncij5Qe83AvuiwF3aUIttsd__lZIHA71iZI0LGTXQ4bUfwL8_Ga9yRALD1Ts2KgnOp96Fwr-WNVF3PZfoVQFrm4LYyXAtX0pHt7nhLc=)
 [https://wakametube-m9fw.onrender.com/](https://wakametube-m9fw.onrender.com/)
 
-#### コメント (19)
+#### コメント (21)
 - **shoshonkc** (09/09 05:03): 何回か動画のコントロールからサーバー変えるとプロキシなしでできますよ
 - **ᏁγᎶ » Tøka_Kuŋ_** (09/09 09:34): 僕も最初それ思ったんだけどそもそもストリーミング再生がブロックされてるんよ
 - **ᏁγᎶ » Tøka_Kuŋ_** (09/09 09:34): Nocookieみたいに
@@ -8222,25 +8342,27 @@
 - **ハチミツ** (05/13 01:02): 俺も
 - **健康的なけんこすこう** (06/07 09:42): ワカメ使えなくなったんやが
 - **Anonymous** (06/11 03:43): 死んだンゴ成仏
+- **かいくんのひとかいくん** (07/19 02:44): わかめぇーーー
+- **名無しのゴンベイ** (07/23 02:34): ずっと再読み込みになる〜
 
 #### リアクション
 - **絵文字:** ❤️ (1)
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 09/04 12:13
-- **更新日（UTC）:** 03/31 10:39
+- **Created At:** 09/04 12:13
+- **Updated At:** 03/31 10:39
 
 ---
 
 ### 2. わかめtube Plusのリンク集
 **作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<p><strong>➥ 公式インスタンスです。必ず上の方から使って下さい。転載しても構いませんが、その時は必ずこの部屋のリンクも添えて下さい。</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://current-ania-tokakun-68f97588.koyeb.app/">https://current-ania-tokakun-68f97588.koyeb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-jajaja.onrender.com/">https://wkt-jajaja.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-next-level.webredirect.org/">https://wkt-next-level.webredirect.org/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://goaway.opik.net/">https://goaway.opik.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt.up.railway.app/">https://wkt.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-edu.up.railway.app/">https://wkt-edu.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus.up.railway.app/">https://wkt-plus.up.railway.app/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/scratch-sc-rsa/"><strong>scratch-sc-rsa</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1294760358/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-scrsa.vercel.app">https://wkt-plus-scrsa.vercel.app</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://web-production-17a5b.up.railway.app/">https://web-production-17a5b.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://web-production-9e4d7d.up.railway.app/">https://web-production-9e4d7d.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-fhlh.onrender.com">https://wkt-plus-fhlh.onrender.com</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://scrsatube.global.ssl.fastly.net">https://scrsatube.global.ssl.fastly.net</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://web-production-e4c47.up.railway.app/">https://web-production-e4c47.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-scrsa.duckdns.org/">https://wkt-scrsa.duckdns.org/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://scrsa-wkt.f5.si/">https://scrsa-wkt.f5.si</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-1-3r0p.onrender.com">https://wkt-plus-1-3r0p.onrender.com</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/sekaizyuu/"><strong>sekaizyuu</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1335313391/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://web-production-790ac.up.railway.app/">https://web-production-790ac.up.railway.app/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/mogura-etekusat/"><strong>mogura-etekusat</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1318486020/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-mogura.onrender.com/">https://wkt-plus-mogura.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-mogura-1.onrender.com/">https://wkt-plus-mogura-1.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-production.up.railway.app/">https://wkt-plus-production.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://web-production-68d0d.up.railway.app/">https://web-production-68d0d.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://web-production-883119.up.railway.app/">https://web-production-883119.up.railway.app/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/syokatusakourai/"><strong>syokatusakourai</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1275886860/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-810.onrender.com/">https://wkt-plus-810.onrender.com/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/wocboc6/"><strong>wocboc6</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1254604906/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://keromatu-iop8.onrender.com/">https://keromatu-iop8.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakame-wocboc6.onrender.com/">https://wakame-wocboc6.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakame-wocboc6-an4a.onrender.com/">https://wakame-wocboc6-an4a.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakame-wocboc6-x9k8.onrender.com/">https://wakame-wocboc6-x9k8.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakame-wocboc6-l192.onrender.com/">https://wakame-wocboc6-l192.onrender.com/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/dhiguo"><strong>dhiguo</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1254037519/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://9xvjpx-3000.csb.app/">https://9xvjpx-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://xq8hkc-3000.csb.app/">https://xq8hkc-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://jgwrpn-3000.csb.app/">https://jgwrpn-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://5whvv7-3000.csb.app/">https://5whvv7-3000.csb.app/</a></p></li></ul>
+<p><strong>➥ 公式インスタンスです。必ず上の方から使って下さい。転載しても構いませんが、その時は必ずこの部屋のリンクも添えて下さい。</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://current-ania-tokakun-68f97588.koyeb.app/">https://current-ania-tokakun-68f97588.koyeb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-jajaja.onrender.com/">https://wkt-jajaja.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-next-level.webredirect.org/">https://wkt-next-level.webredirect.org/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://goaway.opik.net/">https://goaway.opik.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt.up.railway.app/">https://wkt.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-edu.up.railway.app/">https://wkt-edu.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus.up.railway.app/">https://wkt-plus.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-test.up.railway.app/">https://wkt-test.up.railway.app/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/scratch-sc-rsa/"><strong>scratch-sc-rsa</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1294760358/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-scrsa.vercel.app">https://wkt-plus-scrsa.vercel.app</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://web-production-17a5b.up.railway.app/">https://web-production-17a5b.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://web-production-9e4d7d.up.railway.app/">https://web-production-9e4d7d.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-fhlh.onrender.com">https://wkt-plus-fhlh.onrender.com</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://scrsatube.global.ssl.fastly.net">https://scrsatube.global.ssl.fastly.net</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://web-production-e4c47.up.railway.app/">https://web-production-e4c47.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-scrsa.duckdns.org/">https://wkt-scrsa.duckdns.org/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://scrsa-wkt.f5.si/">https://scrsa-wkt.f5.si</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-1-3r0p.onrender.com">https://wkt-plus-1-3r0p.onrender.com</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://gitlab.com/Hikari_5544-1"><strong>Hikari 5544</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://tube-plus-mo-4.onrender.com/">https://tube-plus-mo-4.onrender.com/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/sekaizyuu/"><strong>sekaizyuu</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1335313391/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://web-production-790ac.up.railway.app/">https://web-production-790ac.up.railway.app/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/mogura-etekusat/"><strong>mogura-etekusat</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1318486020/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-mogura.onrender.com/">https://wkt-plus-mogura.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-mogura-1.onrender.com/">https://wkt-plus-mogura-1.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-production.up.railway.app/">https://wkt-plus-production.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://web-production-68d0d.up.railway.app/">https://web-production-68d0d.up.railway.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://web-production-883119.up.railway.app/">https://web-production-883119.up.railway.app/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/syokatusakourai/"><strong>syokatusakourai</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1275886860/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-810.onrender.com/">https://wkt-plus-810.onrender.com/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/wocboc6/"><strong>wocboc6</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1254604906/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://keromatu-iop8.onrender.com/">https://keromatu-iop8.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakame-wocboc6.onrender.com/">https://wakame-wocboc6.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakame-wocboc6-an4a.onrender.com/">https://wakame-wocboc6-an4a.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakame-wocboc6-x9k8.onrender.com/">https://wakame-wocboc6-x9k8.onrender.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wakame-wocboc6-l192.onrender.com/">https://wakame-wocboc6-l192.onrender.com/</a></p></li></ul><p><br/></p><p><strong>➥ 作った人: </strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/users/dhiguo"><strong>dhiguo</strong></a><strong> - 掲載元は</strong><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1254037519/"><strong>こちら</strong></a></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://9xvjpx-3000.csb.app/">https://9xvjpx-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://xq8hkc-3000.csb.app/">https://xq8hkc-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://jgwrpn-3000.csb.app/">https://jgwrpn-3000.csb.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://5whvv7-3000.csb.app/">https://5whvv7-3000.csb.app/</a></p></li></ul>
 
 **投稿の種類:** リンクの提供
 
-**最終更新日:** 6月 30, 2026
+**最終更新日:** 7月 17, 2026
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (1)
 
@@ -8268,8 +8390,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/31 10:42
-- **更新日（UTC）:** 06/30 07:49
+- **Created At:** 03/31 10:42
+- **Updated At:** 07/17 12:55
 
 ---
 
@@ -8292,8 +8414,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/19 04:55
-- **更新日（UTC）:** 06/23 03:19
+- **Created At:** 02/19 04:55
+- **Updated At:** 06/23 03:19
 
 ---
 
@@ -8351,8 +8473,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/25 05:24
-- **更新日（UTC）:** 05/01 11:58
+- **Created At:** 03/25 05:24
+- **Updated At:** 05/01 11:58
 
 ---
 
@@ -8367,7 +8489,7 @@
 
 **この投稿は役に立ちましたか？:** 3.7 / 5 ⭐ (3)
 
-#### コメント (11)
+#### コメント (13)
 - **k&K** (10/04 23:45): ISGC全規制
 - **筋肉愛好家** (10/05 23:58): 認証コードなに？
 - **ᏁγᎶ » Tøka_Kuŋ_** (10/06 14:30): ゲストとしてログインを押すだけやで
@@ -8379,14 +8501,16 @@
 - **偏差値42** (03/03 06:52): チキチキダメだった  
 - **NyrikX(足立区陣ICFS系)** (04/04 02:27): ICFSこれらほとんどが管理者が遮断したURLだった
 - **ふっじー** (05/01 11:47): 俺もほとんどが開けんかった
+- **かいくんのひとかいくん** (07/19 02:43): それな
+- **名無しのゴンベイ** (07/24 03:42): ずっと再読み込みになるんだけど僕だけ？
 
 #### リアクション
 - **絵文字:** ❤️ (1)
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 10/04 07:37
-- **更新日（UTC）:** 06/12 11:39
+- **Created At:** 10/04 07:37
+- **Updated At:** 06/12 11:39
 
 ---
 
@@ -8410,8 +8534,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 02/01 10:57
-- **更新日（UTC）:** 05/01 11:58
+- **Created At:** 02/01 10:57
+- **Updated At:** 05/01 11:58
 
 ---
 
@@ -8426,7 +8550,7 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (2)
 
-#### コメント (8)
+#### コメント (10)
 - **おすし =D** (10/20 10:29): 使えた。神すぎる
 - **029大好き！(会長910)#ウルトラ第三番弟子** (10/20 13:47): でも、制作者の学タブは使えないけどねw(制作者っす)
 - **しゃがいも** (10/29 08:25): なんかThis service has been suspended.てなってできないです（isgc)
@@ -8435,14 +8559,16 @@
 - **panpanda** (02/10 13:23): This service has been suspendedってなる
 - **panpanda** (02/10 13:23): 規制関係なく
 - **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (02/27 01:13): それな
+- **かいくんのひとかいくん** (07/19 02:44): うん
+- **かいくんのひとかいくん** (07/19 02:44): わかる
 
 #### リアクション
 - **絵文字:** ❤️ (1)
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 10/19 13:01
-- **更新日（UTC）:** 03/07 08:17
+- **Created At:** 10/19 13:01
+- **Updated At:** 03/07 08:17
 
 ---
 
@@ -8453,7 +8579,7 @@
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (3)
 
-#### コメント (20)
+#### コメント (21)
 - **ᏁγᎶ » Tøka_Kuŋ_** (10/04 07:38): [添付ファイル](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/R7dXad6xMMmmZ6bl) この動画めっちゃ分かりやすいで
 - **ᏁγᎶ » Tøka_Kuŋ_** (09/03 21:30): ダウンロード元: https://www.youtube.com/watch?v=qqRfHx8qq8I
 - **郭嘉佑** (09/04 01:15): あざす
@@ -8474,13 +8600,14 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (10/19 14:28): Railwayは自分用にしてる
 - **削除済みユーザー** (10/20 13:54): おｋ
 - **029大好き！(会長910)#ウルトラ第三番弟子** (10/29 02:04): 面白いことに作成用のパットが親に没取されたw1ヶ月以上できひん…
+- **かいくんのひとかいくん** (07/19 02:44): どんまい
 
 #### リアクション
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/03 07:40
-- **更新日（UTC）:** 09/05 11:22
+- **Created At:** 09/03 07:40
+- **Updated At:** 09/05 11:22
 
 ---
 
@@ -8507,8 +8634,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 11/13 00:22
-- **更新日（UTC）:** 12/24 12:09
+- **Created At:** 11/13 00:22
+- **Updated At:** 12/24 12:09
 
 ---
 
@@ -8545,7 +8672,7 @@
 - **ハコベラ** (07/04 06:46): これって一生ストリーム準備中と一瞬青い表示が出るのを繰り返されてる場合どうしたらいいんですか？
 - **時透無一郎** (05/18 07:35): [添付ファイル](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/0BA3ZpGGrjpxQnPb) やばいしあ押したらこうなった
 - **NyrikX(足立区陣ICFS系)** (05/26 06:48): 大丈夫です！時透無一部さん私も一部のしあtubeがそうなります！
-- **社不。🆑** (06/03 10:55): 今しあは気絶
+- **社不ﾝ。🆑** (06/03 10:55): 今しあは気絶
 - **ソラシロ** (06/05 13:45): 今見たらこのファイルはありません的な表示が出るやつあった
 - **あああ** (06/07 23:57): 最近なんかエラーコード出るんだけどなんで？
 - **NyrikX(足立区陣ICFS系)** (06/10 03:26): ソラシロさん、私も少し前からそうなってた
@@ -8554,8 +8681,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 12/07 11:09
-- **更新日（UTC）:** 04/15 07:42
+- **Created At:** 12/07 11:09
+- **Updated At:** 04/15 07:42
 
 ---
 
@@ -8598,8 +8725,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 09/09 09:02
-- **更新日（UTC）:** 02/22 23:33
+- **Created At:** 09/09 09:02
+- **Updated At:** 02/22 23:33
 
 ---
 
@@ -8678,8 +8805,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 09/09 08:57
-- **更新日（UTC）:** 03/07 08:27
+- **Created At:** 09/09 08:57
+- **Updated At:** 03/07 08:27
 
 ---
 
@@ -8700,8 +8827,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 12/05 11:19
-- **更新日（UTC）:** 03/07 08:27
+- **Created At:** 12/05 11:19
+- **Updated At:** 03/07 08:27
 
 ---
 
@@ -8727,8 +8854,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/13 09:39
-- **更新日（UTC）:** 01/28 13:10
+- **Created At:** 07/13 09:39
+- **Updated At:** 01/28 13:10
 
 ---
 
@@ -8752,8 +8879,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/26 11:49
-- **更新日（UTC）:** 03/24 08:43
+- **Created At:** 02/26 11:49
+- **Updated At:** 03/24 08:43
 
 ---
 
@@ -8778,8 +8905,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/17 17:49
-- **更新日（UTC）:** 01/22 22:21
+- **Created At:** 01/17 17:49
+- **Updated At:** 01/22 22:21
 
 ---
 
@@ -8804,8 +8931,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/13 00:03
-- **更新日（UTC）:** 01/16 23:46
+- **Created At:** 01/13 00:03
+- **Updated At:** 01/16 23:46
 
 ---
 
@@ -8820,8 +8947,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 01/12 03:02
-- **更新日（UTC）:** 01/12 03:02
+- **Created At:** 01/12 03:02
+- **Updated At:** 01/12 03:02
 
 ---
 
@@ -8841,18 +8968,19 @@
 ![https://uploads.scratch.mit.edu/projects/thumbnails/1297245033.png](https://uploads.scratch.mit.edu/projects/thumbnails/1297245033.png)
 [https://min-tube-pro.vercel.app](https://min-tube-pro.vercel.app)
 
-#### コメント (3)
+#### コメント (4)
 - **Anonymous** (05/06 05:37): すげー使いやすい
 - **Anonymous** (05/27 16:32): なんか使えんくなった
 - **Anonymous** (05/28 02:17): なんか使えないよね
+- **wolor-pro** (07/21 22:54): min-wlyt-plusに更新してくれー
 
 #### リアクション
 - **絵文字:** ❤️ (2)
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/31 02:39
-- **更新日（UTC）:** 04/03 01:22
+- **Created At:** 03/31 02:39
+- **Updated At:** 04/03 01:22
 
 ---
 
@@ -8886,7 +9014,7 @@
 - **Anonymous** (04/30 23:18): エラーって出るんですが
 - **HIKAGE_MU** (05/02 03:45): csb行けるのかこれ？
 - **マチ21** (05/29 01:48): 規制されないリンク少なすぎだろ
-- **社不。🆑** (06/03 10:55): i-フィルター全風呂です
+- **社不ﾝ。🆑** (06/03 10:55): i-フィルター全風呂です
 - **豆腐ハラスメント** (06/08 00:25): [添付ファイル](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/jpoxajke36ByQbPE) 神
 - **ばなな** (06/13 05:10): これ404になってるのってメンテ中ってこと？
 - **削除済みユーザー** (06/25 11:37): ICFS全ブロ
@@ -8896,8 +9024,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/31 10:21
-- **更新日（UTC）:** 05/13 23:03
+- **Created At:** 03/31 10:21
+- **Updated At:** 05/13 23:03
 
 ---
 
@@ -8912,7 +9040,7 @@
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-#### コメント (12)
+#### コメント (13)
 - **yuto_110** (03/25 11:41): https://web-production-56e9.up.railway.app/railway版作ってみた
 - **NyrikX(足立区陣ICFS系)** (03/25 14:33): エラーだ...
 - **yuto_110** (03/25 14:35): さっき作ったのに落ちた…
@@ -8925,11 +9053,12 @@
 - **yuto_110** (04/05 04:16): プラスの紹介作っとくわ
 - **2a** (04/17 09:31): 新しいリンクないですかね?
 - **2a** (04/17 09:31): duckdnsがぶろっくされてしまって
+- **wolor-pro** (07/21 22:55): うわぁぁぁぁぁぁぁ
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/25 11:30
-- **更新日（UTC）:** 03/26 04:19
+- **Created At:** 03/25 11:30
+- **Updated At:** 03/26 04:19
 
 ---
 
@@ -8954,8 +9083,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 09/16 11:34
-- **更新日（UTC）:** 04/18 22:44
+- **Created At:** 09/16 11:34
+- **Updated At:** 04/18 22:44
 
 ---
 
@@ -8985,8 +9114,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/08 13:40
-- **更新日（UTC）:** 04/15 07:34
+- **Created At:** 08/08 13:40
+- **Updated At:** 04/15 07:34
 
 ---
 
@@ -9011,8 +9140,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/25 05:22
-- **更新日（UTC）:** 02/01 11:40
+- **Created At:** 03/25 05:22
+- **Updated At:** 02/01 11:40
 
 ---
 
@@ -9031,8 +9160,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 12/19 10:59
-- **更新日（UTC）:** 12/19 11:03
+- **Created At:** 12/19 10:59
+- **Updated At:** 12/19 11:03
 
 ---
 
@@ -9050,8 +9179,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/13 08:15
-- **更新日（UTC）:** 03/13 08:15
+- **Created At:** 03/13 08:15
+- **Updated At:** 03/13 08:15
 
 ---
 
@@ -9071,7 +9200,7 @@
 ![https://uploads.scratch.mit.edu/projects/thumbnails/1225135134.png](https://uploads.scratch.mit.edu/projects/thumbnails/1225135134.png)
 [https://yuzutube1.vercel.app/](https://yuzutube1.vercel.app/)
 
-#### コメント (14)
+#### コメント (15)
 - **ナンジャモ** (10/12 01:31): 本当にありがとうございます。あなたのお陰で救われました
 - **Helpful Moth** (10/19 12:39): 神すぎる！！
 - **突然の死(Yu-i)** (11/16 11:21): しあでもライブストリーミング見れますよ？
@@ -9086,13 +9215,14 @@
 - **ᏁγᎶ » Tøka_Kuŋ_** (12/15 13:58): まじか
 - **匿名** (02/23 23:10): アクセスコードって何？　教えてくれ！
 - **NyrikX(足立区陣ICFS系)** (04/04 18:06): yuzuですよ
+- **Anonymous** (07/19 00:03): エラーで見れない
 
 #### リアクション
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 10/11 12:26
-- **更新日（UTC）:** 01/11 03:53
+- **Created At:** 10/11 12:26
+- **Updated At:** 01/11 03:53
 
 ---
 
@@ -9133,8 +9263,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 10/11 12:24
-- **更新日（UTC）:** 04/28 01:08
+- **Created At:** 10/11 12:24
+- **Updated At:** 04/28 01:08
 
 ---
 
@@ -9153,8 +9283,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 02/01 11:41
-- **更新日（UTC）:** 02/02 07:48
+- **Created At:** 02/01 11:41
+- **Updated At:** 02/02 07:48
 
 ---
 
@@ -9173,14 +9303,15 @@
 
 ![https://cdn2.scratch.mit.edu/get_image/project/1322661521_480x360.png](https://cdn2.scratch.mit.edu/get_image/project/1322661521_480x360.png)
 
-#### コメント (2)
+#### コメント (3)
 - **Anonymous** (06/30 08:53): https://www.choco-plus.duckdns.org/aboutこれいけないのなぜ？
 - **石田匠** (07/03 05:36): 全然いけたっす
+- **wolor-pro** (07/21 22:55): chocoくれぇぇぇぇぇ（？）
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/17 09:02
-- **更新日（UTC）:** 06/17 09:48
+- **Created At:** 06/17 09:02
+- **Updated At:** 06/17 09:48
 
 ---
 
@@ -9195,7 +9326,7 @@
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-#### コメント (8)
+#### コメント (9)
 - **Natsu** (06/18 13:16): サーバー多いし読み込み早いし(≧∇≦)b
 - **もも** (06/19 07:33): いけました！ありがとうございます！
 - **イズミミチ** (06/21 13:58): 一番したのは入れるが見れない
@@ -9204,11 +9335,12 @@
 - **sk-toto** (06/25 11:37): 転載してもよろしいですか？
 - **Sari** (07/01 03:28): だめってかいてるよ
 - **シオミチ** (07/16 02:22): どれ行けた？貼って
+- **ねこっくす** (07/20 08:41): 🙇
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/17 09:29
-- **更新日（UTC）:** 06/17 09:48
+- **Created At:** 06/17 09:29
+- **Updated At:** 06/17 09:48
 
 ---
 
@@ -9230,8 +9362,8 @@
 
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **作成日（UTC）:** 01/25 03:03
-- **更新日（UTC）:** 02/07 04:46
+- **Created At:** 01/25 03:03
+- **Updated At:** 02/07 04:46
 
 ---
 
@@ -9253,8 +9385,8 @@
 
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **作成日（UTC）:** 02/25 22:29
-- **更新日（UTC）:** 03/20 22:19
+- **Created At:** 02/25 22:29
+- **Updated At:** 03/20 22:19
 
 ---
 
@@ -9276,13 +9408,13 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/14 08:26
-- **更新日（UTC）:** 07/06 07:40
+- **Created At:** 06/14 08:26
+- **Updated At:** 07/06 07:40
 
 ---
 
 ### 4. 質問
-**作成者:** 社不。🆑 (ikaretanokaNintendo)
+**作成者:** 社不ﾝ。🆑 (ikaretanokaNintendo)
 
 <p>仙人tube、動画を検索することができません・・・</p><p>これは時間を置いたら治りますか？</p><p>（i-フィルターです）</p>
 
@@ -9292,8 +9424,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/03 10:17
-- **更新日（UTC）:** 07/06 07:39
+- **Created At:** 06/03 10:17
+- **Updated At:** 07/06 07:39
 
 ---
 
@@ -9346,8 +9478,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/31 02:55
-- **更新日（UTC）:** 06/28 03:30
+- **Created At:** 05/31 02:55
+- **Updated At:** 06/28 03:30
 
 ---
 
@@ -9384,8 +9516,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/15 10:39
-- **更新日（UTC）:** 05/22 09:20
+- **Created At:** 05/15 10:39
+- **Updated At:** 05/22 09:20
 
 ---
 
@@ -9415,12 +9547,12 @@
 - **るーら** (04/14 23:28): ブロ
 - **たかぴー** (04/15 13:01): ブロぉぉぉ
 - **10式** (05/08 01:13): 右に同じく
-- **社不。🆑** (06/03 10:45): NotFoundですね
+- **社不ﾝ。🆑** (06/03 10:45): NotFoundですね
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/12 06:28
-- **更新日（UTC）:** 05/06 02:19
+- **Created At:** 04/12 06:28
+- **Updated At:** 05/06 02:19
 
 ---
 
@@ -9438,8 +9570,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/19 12:33
-- **更新日（UTC）:** 04/02 06:23
+- **Created At:** 03/19 12:33
+- **Updated At:** 04/02 06:23
 
 ---
 
@@ -9467,8 +9599,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/11 12:20
-- **更新日（UTC）:** 03/23 09:41
+- **Created At:** 03/11 12:20
+- **Updated At:** 03/23 09:41
 
 ---
 
@@ -9499,8 +9631,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/04 07:48
-- **更新日（UTC）:** 03/20 22:17
+- **Created At:** 03/04 07:48
+- **Updated At:** 03/20 22:17
 
 ---
 
@@ -9523,8 +9655,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/24 23:08
-- **更新日（UTC）:** 03/20 22:12
+- **Created At:** 02/24 23:08
+- **Updated At:** 03/20 22:12
 
 ---
 
@@ -9615,7 +9747,7 @@ Copyright (c) 2026 Wista Project
 
 [添付ファイル 1](https://woolisbest-site-test.chickenkiller.com/)
 
-#### コメント (9)
+#### コメント (11)
 - **yuto_110** (02/08 01:59): すご！パスワードって何ですか？
 - **ᏁγᎶ » Tøka_Kuŋ_** (02/08 02:28): wista-pass らしいよ
 - **woolisbest** (03/05 12:14): invidiousストリームとかにしたら？
@@ -9625,13 +9757,15 @@ Copyright (c) 2026 Wista Project
 - **NyrikX(足立区陣ICFS系)** (04/30 10:20): scratchに死ぬほどある(使えなかった)https://scratch.mit.edu/projects/1276740034/
 - **るき** (05/05 14:52): スクラッチが風呂です
 - **こんにちは〜‼️** (07/16 12:10): すごいけど重すぎて何も見れない😭
+- **wolor-pro** (07/21 22:55): 今API落ちてると思う
+- **wolor-pro** (07/21 22:56): ９月までには完成させたい
 
 #### リアクション
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 02/08 01:18
-- **更新日（UTC）:** 03/31 10:35
+- **Created At:** 02/08 01:18
+- **Updated At:** 03/31 10:35
 
 ---
 
@@ -9650,8 +9784,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/04 02:01
-- **更新日（UTC）:** 04/15 07:46
+- **Created At:** 04/04 02:01
+- **Updated At:** 04/15 07:46
 
 ---
 
@@ -9673,8 +9807,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **作成日（UTC）:** 03/23 09:12
-- **更新日（UTC）:** 04/02 06:24
+- **Created At:** 03/23 09:12
+- **Updated At:** 04/02 06:24
 
 ---
 
@@ -9685,8 +9819,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/08 11:56
-- **更新日（UTC）:** 03/08 11:56
+- **Created At:** 03/08 11:56
+- **Updated At:** 03/08 11:56
 
 ---
 
@@ -9708,29 +9842,32 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 12/01 10:51
-- **更新日（UTC）:** 01/05 08:02
+- **Created At:** 12/01 10:51
+- **Updated At:** 01/05 08:02
 
 ---
 
 ## 煮物tube
 
 ### 1. 煮物tube開発中止
-**作成者:** 煮物 (nimonodayo)
+**作成者:** 煮物　#oddoのスポンサー！ (nimonodayo)
 
 <p>今スマホが没収されたため、サーバーの支払いができないのでスマホが戻ってきたら開発再開します。</p>
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
+#### コメント (1)
+- **wolor-pro** (07/21 22:56): 🥦
+
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 07/11 23:58
-- **更新日（UTC）:** 07/11 23:58
+- **Created At:** 07/11 23:58
+- **Updated At:** 07/11 23:58
 
 ---
 
 ### 2. new urlです！
-**作成者:** 煮物 (nimonodayo)
+**作成者:** 煮物　#oddoのスポンサー！ (nimonodayo)
 
 <ul><li><p><a rel="noopener noreferrer nofollow" href="https://nimono-study.skamaria.net/">https://nimono-study.skamaria.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nimono-study.serverpit.com/">https://nimono-study.serverpit.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nimono-study.port0.org/">https://nimono-study.port0.org/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nimono-study.onlinechildcareclass.com/">https://nimono-study.onlinechildcareclass.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nimono-study.enia.net/">https://nimono-study.enia.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nimono-study.centrodiagnosticogenetico.com/">https://nimono-study.centrodiagnosticogenetico.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nimono-study.iwantthisjunk.com/">https://nimono-study.iwantthisjunk.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nimono-study.mza.com.ar/">https://nimono-study.mza.com.ar/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nimono-study.host2go.net/">https://nimono-study.host2go.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://nimono-study.verymad.net/">https://nimono-study.verymad.net/</a></p></li></ul>
 
@@ -9741,13 +9878,13 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/30 08:27
-- **更新日（UTC）:** 06/30 08:27
+- **Created At:** 06/30 08:27
+- **Updated At:** 06/30 08:27
 
 ---
 
 ### 3. 煮物tubeのアップデート！
-**作成者:** 煮物 (nimonodayo)
+**作成者:** 煮物　#oddoのスポンサー！ (nimonodayo)
 
 <p>なんか書くのだるいんで各自確認してください笑笑みればわかります</p>
 
@@ -9759,13 +9896,13 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/26 13:35
-- **更新日（UTC）:** 06/26 13:35
+- **Created At:** 06/26 13:35
+- **Updated At:** 06/26 13:35
 
 ---
 
 ### 4. 今テスト期間なので来週から煮物tubeの修正を始めます。
-**作成者:** 煮物 (nimonodayo)
+**作成者:** 煮物　#oddoのスポンサー！ (nimonodayo)
 
 <p>修正や追加機能</p><p>・動画の再生</p><p>・ゲームなどの追加</p><p>・要望の掲示板（時間があれば）</p><p>・proxyの一覧</p><p>・高画質</p>
 
@@ -9782,38 +9919,40 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/12 07:52
-- **更新日（UTC）:** 06/12 11:42
+- **Created At:** 06/12 07:52
+- **Updated At:** 06/12 11:42
 
 ---
 
 ### 5. 煮物tube解説とurl集
-**作成者:** 煮物 (nimonodayo)
+**作成者:** 煮物　#oddoのスポンサー！ (nimonodayo)
 
 <p>主にstream再生でやっています。vpsを契約し、動かしています。</p><p>これからrenderなどのデプロイサービスやGASなどにも対応させます。</p><p>質問や要望は下のコメント欄でお願いします。</p><p><br></p><p><mark>公式部屋</mark></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/nomo0206/new-v04juu3iw251p7v"><mark>煮物部屋new受付！</mark></a></p><p><br></p><p>2026/06/01更新</p><p><a rel="noopener noreferrer nofollow" href="https://nimono-study-portal.detprod.com">https://nimono-study-portal.detprod.com</a> </p><p><a rel="noopener noreferrer nofollow" href="https://nimono-study-portal.highdesertcoders.com">https://nimono-study-portal.highdesertcoders.com</a> </p><p><a rel="noopener noreferrer nofollow" href="https://nimono-study-portal.mymywant.com">https://nimono-study-portal.mymywant.com</a> </p><p><a rel="noopener noreferrer nofollow" href="https://nimono-study-portal.anteroblue.com">https://nimono-study-portal.anteroblue.com</a> </p><p><a rel="noopener noreferrer nofollow" href="https://nimono-study-portal.arybarbosa.com">https://nimono-study-portal.arybarbosa.com</a> </p><p><a rel="noopener noreferrer nofollow" href="https://nimono-study-portal.imupmyass.com">https://nimono-study-portal.imupmyass.com</a> </p><p><br></p><p>2026/05/15更新</p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.ezwebsites.com/">http://nimonotube.ezwebsites.com/</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.champagnewishesandrvdreams.com/">http://nimonotube.champagnewishesandrvdreams.com/</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.kameli.org/">http://nimonotube.kameli.org/</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.hardsoft.nu/">http://nimonotube.hardsoft.nu/</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.rainbowcup.com/">http://nimonotube.rainbowcup.com/</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.sitaci.com/">http://nimonotube.sitaci.com/</a></p>
 
 **この投稿は役に立ちましたか？:** 5.0 / 5 ⭐ (2)
 
-#### コメント (6)
+#### コメント (8)
 - **あああああああああああああああああああああああああああああああああああ** (06/07 23:05): 全ブロ乙
-- **煮物** (06/10 02:36): 乙とは
-- **煮物** (06/10 02:36): 入れないの乙ｗｗ
+- **煮物　#oddoのスポンサー！** (06/10 02:36): 乙とは
+- **煮物　#oddoのスポンサー！** (06/10 02:36): 入れないの乙ｗｗ
 - **-55115511- #メアド認証できなくてもう3つめの垢** (06/12 07:57): 全ブロ
 - **Anonymous** (06/13 05:30): 使えないね
 - **Anonymous** (06/21 05:15): わかめの下位互換w
+- **Anonymous** (07/18 13:48): 重いだけの雑魚w
+- **Anonymous** (07/23 14:03): zakosugiWWWWWWWWWWWWWWWWW
 
 #### リアクション
 - **絵文字:** ❤️ (1) 🎉 (1)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/02 22:07
-- **更新日（UTC）:** 06/02 22:07
+- **Created At:** 06/02 22:07
+- **Updated At:** 06/02 22:07
 
 ---
 
 ### 6. 煮物tubeのrenderなどのデプロイサービスにも対応させていく予定です。
-**作成者:** 煮物 (nimonodayo)
+**作成者:** 煮物　#oddoのスポンサー！ (nimonodayo)
 
 <p>2026/06/01更新</p><p><a rel="noopener noreferrer nofollow" href="https://nimono-study-portal.detprod.com">https://nimono-study-portal.detprod.com</a> </p><p><a rel="noopener noreferrer nofollow" href="https://nimono-study-portal.highdesertcoders.com">https://nimono-study-portal.highdesertcoders.com</a> </p><p><a rel="noopener noreferrer nofollow" href="https://nimono-study-portal.mymywant.com">https://nimono-study-portal.mymywant.com</a> </p><p><a rel="noopener noreferrer nofollow" href="https://nimono-study-portal.anteroblue.com">https://nimono-study-portal.anteroblue.com</a> </p><p><a rel="noopener noreferrer nofollow" href="https://nimono-study-portal.arybarbosa.com">https://nimono-study-portal.arybarbosa.com</a> </p><p><a rel="noopener noreferrer nofollow" href="https://nimono-study-portal.imupmyass.com">https://nimono-study-portal.imupmyass.com</a> </p><p><br></p><p>2026/05/15更新</p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.ezwebsites.com/">http://nimonotube.ezwebsites.com/</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.champagnewishesandrvdreams.com/">http://nimonotube.champagnewishesandrvdreams.com/</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.kameli.org/">http://nimonotube.kameli.org/</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.hardsoft.nu/">http://nimonotube.hardsoft.nu/</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.rainbowcup.com/">http://nimonotube.rainbowcup.com/</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.sitaci.com/">http://nimonotube.sitaci.com/</a></p>
 
@@ -9829,13 +9968,13 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/01 06:45
-- **更新日（UTC）:** 06/28 03:29
+- **Created At:** 06/01 06:45
+- **Updated At:** 06/28 03:29
 
 ---
 
 ### 7. tokakun。煮物tubeのセクションを作成してほしい。
-**作成者:** 煮物 (nimonodayo)
+**作成者:** 煮物　#oddoのスポンサー！ (nimonodayo)
 
 <p><strong><em><mark>バグりました。2026/05/23までに直します</mark></em></strong></p><p>右上の動画というボタンを押してから飛んでください。<strong>見れないときは、標準ボタンとHDボタンを何回か押せば見れます。</strong>ここもこれから修正します。</p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.sitaci.com">煮物tube</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.kameli.org/">煮物tube</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.hardsoft.nu/">煮物tube</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.rainbowcup.com">煮物tube</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.champagnewishesandrvdreams.com">煮物tube</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.ezwebsites.com">煮物tube</a></p><p><a rel="noopener noreferrer nofollow" href="http://nimonotube.champagnewishesandrvdreams.com/">煮物tube</a></p>
 
@@ -9845,32 +9984,32 @@ Copyright (c) 2026 Wista Project
 - **時透無一郎** (05/21 07:20): 使い方教えてください
 - **時透無一郎** (05/21 07:26): 皆さんに質問ですが、スクショブロックされてる人いますか？いたら画面の撮影方法教えます
 - **Natsu** (05/21 07:33): 制作お疲れ様です🤓
-- **煮物** (05/21 07:46): 右上の動画というボタンを押してください
+- **煮物　#oddoのスポンサー！** (05/21 07:46): 右上の動画というボタンを押してください
 - **時透無一郎** (05/21 07:48): [添付ファイル](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/lkROZPpEPREwZjMg) こうなりました
-- **煮物** (05/21 07:50): 上のところで検索をしてください。
+- **煮物　#oddoのスポンサー！** (05/21 07:50): 上のところで検索をしてください。
 - **時透無一郎** (05/21 07:58): 見れました！本当に助かります
-- **煮物** (05/21 08:07): 👍
-- **煮物** (05/21 08:27): 再生早いはず！
+- **煮物　#oddoのスポンサー！** (05/21 08:07): 👍
+- **煮物　#oddoのスポンサー！** (05/21 08:27): 再生早いはず！
 - **時透無一郎** (05/21 08:26): [添付ファイル](https://padlet.com/Toka_Kun_/youtube-a8v7cjbbfni702kg/wish/lkROZPpEPREwZjMg) なんかできなくなった
-- **煮物** (05/21 08:33): 今治ったよ
-- **煮物** (05/21 08:33): ちょっとコード変えたときにばぐっただけだよー
+- **煮物　#oddoのスポンサー！** (05/21 08:33): 今治ったよ
+- **煮物　#oddoのスポンサー！** (05/21 08:33): ちょっとコード変えたときにばぐっただけだよー
 - **時透無一郎** (05/21 08:38): できました
 - **時透無一郎** (05/21 08:38): マジで嬉しいですしあ見れなかったので
 - **時透無一郎** (05/21 08:40): あとは動画の投稿日を知りたいです。自分のただの要望なので大変だったらいいです
 - **時透無一郎** (05/21 08:41): 広めてもいいですか？
 - **時透無一郎** (05/21 08:44): まじで性能いい
-- **煮物** (05/21 09:48): あー！そゆこと
-- **煮物** (05/21 09:48): 投稿美とかコメントとかもこれから取得すると思うよ！
-- **煮物** (05/21 09:48): 日
-- **煮物** (05/21 09:48): 拡散よろしく！
+- **煮物　#oddoのスポンサー！** (05/21 09:48): あー！そゆこと
+- **煮物　#oddoのスポンサー！** (05/21 09:48): 投稿美とかコメントとかもこれから取得すると思うよ！
+- **煮物　#oddoのスポンサー！** (05/21 09:48): 日
+- **煮物　#oddoのスポンサー！** (05/21 09:48): 拡散よろしく！
 - **時透無一郎** (05/21 21:16): OKです！
-- **煮物** (05/21 21:17): ありがとう
+- **煮物　#oddoのスポンサー！** (05/21 21:17): ありがとう
 - **時透無一郎** (05/21 21:17): あと何日前とか何時間前とかも設定してくださればとても助かります
-- **煮物** (05/21 21:17): 👍
-- **煮物** (05/21 21:18): 今からやるねー
-- **煮物** (05/21 21:18): ほかにほしい機能ある？
+- **煮物　#oddoのスポンサー！** (05/21 21:17): 👍
+- **煮物　#oddoのスポンサー！** (05/21 21:18): 今からやるねー
+- **煮物　#oddoのスポンサー！** (05/21 21:18): ほかにほしい機能ある？
 - **時透無一郎** (05/21 21:22): それだけやってくれればもう大丈夫だと思います
-- **煮物** (05/21 21:48): 表示されるようにしました
+- **煮物　#oddoのスポンサー！** (05/21 21:48): 表示されるようにしました
 - **学パソ** (05/21 23:42): 最高！
 - **削除済みユーザー** (05/21 23:46): もう少し煮物tubeない？
 - **にもの** (05/22 01:02): あるよ
@@ -9878,13 +10017,13 @@ Copyright (c) 2026 Wista Project
 - **にもの** (05/22 01:03): 入ってる
 - **にもの** (05/22 01:03): 俺の部屋入ればurlもらえるよ。
 - **時透無一郎** (05/22 05:32): あとショート動画見れるようにしてほしい
-- **煮物** (05/22 05:53): 👍
+- **煮物　#oddoのスポンサー！** (05/22 05:53): 👍
 - **時透無一郎** (05/22 05:53): 煮物さーん！
-- **煮物** (05/22 05:53): どしたー
-- **煮物** (05/22 06:53): ばぐりました5/23までに直します
-- **煮物** (05/22 06:53): ごめんなさい
+- **煮物　#oddoのスポンサー！** (05/22 05:53): どしたー
+- **煮物　#oddoのスポンサー！** (05/22 06:53): ばぐりました5/23までに直します
+- **煮物　#oddoのスポンサー！** (05/22 06:53): ごめんなさい
 - **時透無一郎** (05/22 07:51): 頑張れ
-- **煮物** (05/22 11:22): 復活しました
+- **煮物　#oddoのスポンサー！** (05/22 11:22): 復活しました
 - **ピロ** (05/23 06:31): 1080の画質で動画を見れるようにしてほしい
 - **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (05/23 06:37): 調整中らしいよー
 - **ピロ** (05/23 12:46): おけです
@@ -9892,7 +10031,7 @@ Copyright (c) 2026 Wista Project
 - **ピロ** (05/24 12:50): 図々しくてすみません、ライブも見れるようにできますか？
 - **Kick** (05/25 00:00): ブロされね（アイフィルター）
 - **ピロ** (05/25 00:11): 下から3番目のやつできたよ
-- **煮物** (05/25 05:12): 煮物部屋new受付！ここです
+- **煮物　#oddoのスポンサー！** (05/25 05:12): 煮物部屋new受付！ここです
 - **NyrikX(足立区陣ICFS系)** (05/26 11:59): 私もスクショブロックされてますよ
 - **ピロ** (05/26 22:31): 画質が変わらないのは俺だけ？
 - **NyrikX(足立区陣ICFS系)** (05/27 12:23): 私も画質をHDにしても画質変わらないですよ
@@ -9901,8 +10040,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/21 06:53
-- **更新日（UTC）:** 06/28 03:28
+- **Created At:** 05/21 06:53
+- **Updated At:** 06/28 03:28
 
 ---
 
@@ -9919,12 +10058,19 @@ Copyright (c) 2026 Wista Project
 
 [添付ファイル 1](https://github.com/toka-kun/Education)
 
+#### コメント (5)
+- **wolor-pro** (07/19 03:19): youtubeのパラメーター、トレンド、suggect、ライブ配信のidとかの上層自動更新しといた
+- **wolor-pro** (07/19 03:19): あとinvidiousのdns
+- **wolor-pro** (07/19 03:19): https://github.com/wista-api-project/auto
+- **wolor-pro** (07/19 03:19): APIのインスタンスは今落ちてる
+- **wolor-pro** (07/19 03:19): 作り直してる
+
 #### リアクション
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 12/31 03:35
-- **更新日（UTC）:** 03/29 03:19
+- **Created At:** 12/31 03:35
+- **Updated At:** 03/29 03:19
 
 ---
 
@@ -9940,8 +10086,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/28 08:46
-- **更新日（UTC）:** 04/04 11:15
+- **Created At:** 03/28 08:46
+- **Updated At:** 04/04 11:15
 
 ---
 
@@ -9963,8 +10109,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/15 08:01
-- **更新日（UTC）:** 04/02 06:22
+- **Created At:** 03/15 08:01
+- **Updated At:** 04/02 06:22
 
 ---
 
@@ -9991,8 +10137,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/07 11:12
-- **更新日（UTC）:** 03/23 09:40
+- **Created At:** 03/07 11:12
+- **Updated At:** 03/23 09:40
 
 ---
 
@@ -10010,8 +10156,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 02/23 11:46
-- **更新日（UTC）:** 03/20 22:12
+- **Created At:** 02/23 11:46
+- **Updated At:** 03/20 22:12
 
 ---
 
@@ -10037,8 +10183,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 11/15 11:21
-- **更新日（UTC）:** 11/15 11:21
+- **Created At:** 11/15 11:21
+- **Updated At:** 11/15 11:21
 
 ---
 
@@ -10075,8 +10221,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/06 14:09
-- **更新日（UTC）:** 10/06 14:09
+- **Created At:** 10/06 14:09
+- **Updated At:** 10/06 14:09
 
 ---
 
@@ -10100,8 +10246,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/25 07:38
-- **更新日（UTC）:** 10/06 14:39
+- **Created At:** 07/25 07:38
+- **Updated At:** 10/06 14:39
 
 ---
 
@@ -10112,7 +10258,7 @@ Copyright (c) 2026 Wista Project
 
 **投稿の種類:** リンクの提供
 
-**この投稿は役に立ちましたか？:** 0 / 5 ⭐
+**この投稿は役に立ちましたか？:** 1.0 / 5 ⭐ (1)
 
 [https://notebooklm.google.com/](https://notebooklm.google.com/)
 
@@ -10126,8 +10272,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/09 04:25
-- **更新日（UTC）:** 10/12 00:25
+- **Created At:** 10/09 04:25
+- **Updated At:** 10/12 00:25
 
 ---
 
@@ -10156,8 +10302,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **作成日（UTC）:** 09/15 06:59
-- **更新日（UTC）:** 09/25 10:53
+- **Created At:** 09/15 06:59
+- **Updated At:** 09/25 10:53
 
 ---
 
@@ -10182,8 +10328,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/29 14:19
-- **更新日（UTC）:** 10/10 15:02
+- **Created At:** 03/29 14:19
+- **Updated At:** 10/10 15:02
 
 ---
 
@@ -10212,8 +10358,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/25 08:35
-- **更新日（UTC）:** 10/10 15:06
+- **Created At:** 03/25 08:35
+- **Updated At:** 10/10 15:06
 
 ---
 
@@ -10243,8 +10389,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/20 23:36
-- **更新日（UTC）:** 09/21 00:24
+- **Created At:** 08/20 23:36
+- **Updated At:** 09/21 00:24
 
 ---
 
@@ -10273,8 +10419,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/25 07:46
-- **更新日（UTC）:** 10/06 14:37
+- **Created At:** 07/25 07:46
+- **Updated At:** 10/06 14:37
 
 ---
 
@@ -10296,8 +10442,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/09 05:53
-- **更新日（UTC）:** 10/24 12:46
+- **Created At:** 08/09 05:53
+- **Updated At:** 10/24 12:46
 
 ---
 
@@ -10312,7 +10458,7 @@ Copyright (c) 2026 Wista Project
 
 **この投稿は役に立ちましたか？:** 3.5 / 5 ⭐ (6)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/9fb094aa381a3ae081d0f19c5712d869/Screenshot_2025_10_24_19_33_30.png?Expires=1784878877&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BzSwJIx6nNJO%2FpmvrVk1CSx9nxvGxKrTyQUq4aoFK%2FjUGnyP6Xvmv4TkQXREdA62mwPvb5lQjhxF%2BY5zO1e20pEcw5u%2B1Op9QV2GbAmLndxY6mvduufwhZ8mh5WO%2BV4Y8wQ1GcQS4sOxU4hMzYP1VyB4cgQia3uOHA006MKNZPXx8w%2FGE8a%2BhYZ%2F%2Fg56Vo%2B7hRhE5UsJl30r6kRFc82lzMdbWpbOsNQnFblRTPzj64LsIOJNkF3Wp5T4jG6gqtVfB2ermfJSv4tP%2BYWfqpjSG0lbf%2F1t%2FYyEkPjOGOu78cC5xgmfBmTcSNXBEm8aUO3ZlwQO22EYtpd3U6vzCFzWmg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F9fb094aa381a3ae081d0f19c5712d869%2FScreenshot_2025_10_24_19_33_30.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/9fb094aa381a3ae081d0f19c5712d869/Screenshot_2025_10_24_19_33_30.png?Expires=1785541357&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lj2MOFGLfrNZ5K7n2Oyqc1tPhhxmWloLPf6Ndl2rGkumcq01P17Ka5hywfwf1xfapEEwHrU7m3BbJ9nkRZGAXCoG8HYztyz448vxTNsNMa%2BJ%2Fsc%2FzriLgCh8ZNEux4asXhKP0GMRUgk7J%2BpLwH2hRqQaPcRrwQqjDN0QSUhIe7bxlxvQNN9xx%2FE88T4T1RVbwTddsHxUDM%2BEmwH%2Bl7IgQpu4AlQZenJ9nd8lMy8Sv4BXkEwYb3b%2F1sVKmufhS5y5n7S4QpPMSIe9ANr1UGbQ3pJYlqHXKTsp3I6yMHSrSA658wBYVFTwRrUu8g7OnoYlBAFALqo01tO98Xdj%2BHtoXQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F9fb094aa381a3ae081d0f19c5712d869%2FScreenshot_2025_10_24_19_33_30.png)
 
 #### コメント (3)
 - **削除済みユーザー** (02/21 11:01): あ、更新頻度なら1番確定です（最低でも3時間に1回）
@@ -10323,8 +10469,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 10/04 08:27
-- **更新日（UTC）:** 04/03 01:24
+- **Created At:** 10/04 08:27
+- **Updated At:** 04/03 01:24
 
 ---
 
@@ -10356,8 +10502,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 11/15 23:39
-- **更新日（UTC）:** 12/06 07:08
+- **Created At:** 11/15 23:39
+- **Updated At:** 12/06 07:08
 
 ---
 
@@ -10382,8 +10528,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/19 07:29
-- **更新日（UTC）:** 08/30 12:05
+- **Created At:** 07/19 07:29
+- **Updated At:** 08/30 12:05
 
 ---
 
@@ -10402,8 +10548,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/31 11:41
-- **更新日（UTC）:** 02/16 11:45
+- **Created At:** 08/31 11:41
+- **Updated At:** 02/16 11:45
 
 ---
 
@@ -10422,8 +10568,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 11/15 09:28
-- **更新日（UTC）:** 11/15 09:28
+- **Created At:** 11/15 09:28
+- **Updated At:** 11/15 09:28
 
 ---
 
@@ -10444,8 +10590,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 08/26 05:42
-- **更新日（UTC）:** 08/26 10:35
+- **Created At:** 08/26 05:42
+- **Updated At:** 08/26 10:35
 
 ---
 
@@ -10466,8 +10612,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/19 07:15
-- **更新日（UTC）:** 10/31 14:41
+- **Created At:** 07/19 07:15
+- **Updated At:** 10/31 14:41
 
 ---
 
@@ -10491,8 +10637,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/20 23:34
-- **更新日（UTC）:** 10/31 14:44
+- **Created At:** 08/20 23:34
+- **Updated At:** 10/31 14:44
 
 ---
 
@@ -10517,8 +10663,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/21 06:08
-- **更新日（UTC）:** 09/06 14:01
+- **Created At:** 07/21 06:08
+- **Updated At:** 09/06 14:01
 
 ---
 
@@ -10542,8 +10688,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/18 08:01
-- **更新日（UTC）:** 09/06 14:02
+- **Created At:** 05/18 08:01
+- **Updated At:** 09/06 14:02
 
 ---
 
@@ -10562,8 +10708,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 04/03 09:55
-- **更新日（UTC）:** 09/06 14:01
+- **Created At:** 04/03 09:55
+- **Updated At:** 09/06 14:01
 
 ---
 
@@ -10582,8 +10728,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 04/03 09:52
-- **更新日（UTC）:** 10/06 13:08
+- **Created At:** 04/03 09:52
+- **Updated At:** 10/06 13:08
 
 ---
 
@@ -10602,8 +10748,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 04/03 09:49
-- **更新日（UTC）:** 09/06 14:01
+- **Created At:** 04/03 09:49
+- **Updated At:** 09/06 14:01
 
 ---
 
@@ -10622,8 +10768,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 04/03 09:43
-- **更新日（UTC）:** 09/06 14:01
+- **Created At:** 04/03 09:43
+- **Updated At:** 09/06 14:01
 
 ---
 
@@ -10653,8 +10799,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 04/03 09:47
-- **更新日（UTC）:** 09/06 13:58
+- **Created At:** 04/03 09:47
+- **Updated At:** 09/06 13:58
 
 ---
 
@@ -10676,8 +10822,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/31 11:36
-- **更新日（UTC）:** 09/06 13:58
+- **Created At:** 08/31 11:36
+- **Updated At:** 09/06 13:58
 
 ---
 
@@ -10701,8 +10847,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/31 11:32
-- **更新日（UTC）:** 11/01 04:45
+- **Created At:** 08/31 11:32
+- **Updated At:** 11/01 04:45
 
 ---
 
@@ -10722,8 +10868,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 10/25 14:51
-- **更新日（UTC）:** 10/26 00:56
+- **Created At:** 10/25 14:51
+- **Updated At:** 10/26 00:56
 
 ---
 
@@ -10738,7 +10884,7 @@ Copyright (c) 2026 Wista Project
 
 **この投稿は役に立ちましたか？:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3744177643/e39b2ff97d6641d386e960280c185c6d/Screenshot_2025_09_25_16_27_35.png?Expires=1784878878&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Shk2j4Q6t8LZuL7%2BRWGHgdh2w5YzIQKqdp%2B6BhWekkcgbNgR%2FIP9uw%2BWktVL0OiGNPsJpEdnql%2FkpbKKqVZZDgVJsARc4qKYulnEQ7dKBkZn1dCtYbhIbJKJ3jWvVzPe7YqOQLPAJlhK%2F7DxPjxG5fqMHLPDN8F94IIhOc7U7Yv7quEzXvGxg407grmVVQj5pdutwQWIoYseHSFeVUDChwhfMOQ4wZNRQcxzU1g6EkQAtZPIUeDjpWvFt5rBmYWYPq0nV4sBwZhUch15SZBozuv9wmzLzMUSxPARbCvdI9K55%2BeexS5ih6E8W%2FuWN%2FeTJLL1legcaSPeUUMqrMf1Vw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3744177643%2Fe39b2ff97d6641d386e960280c185c6d%2FScreenshot_2025_09_25_16_27_35.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3744177643/e39b2ff97d6641d386e960280c185c6d/Screenshot_2025_09_25_16_27_35.png?Expires=1785541357&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=22LErARRr7SvMfo08zlqpqBH7sbEneRpNIcqYNSqJTtXh7ZebyUfbXtVzt9QShLt1JaYyBE0bAQssBitjigDVNBC9MfL9D%2FpFBZFfCxVUevn28MsTqcW0iXOAikrj1FoNK5jlremU3dTZ%2BQ3VdCuavCibqaELElpvIrR2RmCoFN0bInlSaLRSZA%2BMaUZZTMTqk37EXkfS3oejQF%2Br3qxazS9xPElIyitk5hx1eHVo04zPJUZb5JIUfYo%2Fk86tXjOuKXtEe8gc2FUa8Qb2mP%2B9GvBeNvQRidCvfzRtzFIp1YCIqOZpZqrIxsv08lmumj4BfZLVhFAaYMTBZ%2BGJf8pxA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3744177643%2Fe39b2ff97d6641d386e960280c185c6d%2FScreenshot_2025_09_25_16_27_35.png)
 
 #### コメント (4)
 - **削除済みユーザー** (09/25 07:51): croxyproxyも同状態です
@@ -10748,8 +10894,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/25 07:28
-- **更新日（UTC）:** 10/01 07:02
+- **Created At:** 09/25 07:28
+- **Updated At:** 10/01 07:02
 
 ---
 
@@ -10771,8 +10917,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/29 12:35
-- **更新日（UTC）:** 05/29 12:35
+- **Created At:** 05/29 12:35
+- **Updated At:** 05/29 12:35
 
 ---
 
@@ -10792,8 +10938,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 12/12 22:22
-- **更新日（UTC）:** 12/12 22:22
+- **Created At:** 12/12 22:22
+- **Updated At:** 12/12 22:22
 
 ---
 
@@ -10817,8 +10963,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/25 08:32
-- **更新日（UTC）:** 05/29 12:32
+- **Created At:** 05/25 08:32
+- **Updated At:** 05/29 12:32
 
 ---
 
@@ -10835,8 +10981,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 04/05 04:23
-- **更新日（UTC）:** 04/18 22:46
+- **Created At:** 04/05 04:23
+- **Updated At:** 04/18 22:46
 
 ---
 
@@ -10865,8 +11011,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/04 10:36
-- **更新日（UTC）:** 09/06 14:00
+- **Created At:** 08/04 10:36
+- **Updated At:** 09/06 14:00
 
 ---
 
@@ -10888,8 +11034,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/19 07:39
-- **更新日（UTC）:** 09/06 14:00
+- **Created At:** 07/19 07:39
+- **Updated At:** 09/06 14:00
 
 ---
 
@@ -10906,8 +11052,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/06 12:59
-- **更新日（UTC）:** 09/06 14:00
+- **Created At:** 07/06 12:59
+- **Updated At:** 09/06 14:00
 
 ---
 
@@ -10933,8 +11079,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 05/25 08:37
-- **更新日（UTC）:** 09/06 14:00
+- **Created At:** 05/25 08:37
+- **Updated At:** 09/06 14:00
 
 ---
 
@@ -10956,8 +11102,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 04/04 11:23
-- **更新日（UTC）:** 05/29 12:19
+- **Created At:** 04/04 11:23
+- **Updated At:** 05/29 12:19
 
 ---
 
@@ -10977,8 +11123,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 04/04 11:25
-- **更新日（UTC）:** 05/29 12:18
+- **Created At:** 04/04 11:25
+- **Updated At:** 05/29 12:18
 
 ---
 
@@ -11004,8 +11150,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/30 11:57
-- **更新日（UTC）:** 05/29 12:16
+- **Created At:** 08/30 11:57
+- **Updated At:** 05/29 12:16
 
 ---
 
@@ -11026,8 +11172,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 04/01 10:36
-- **更新日（UTC）:** 04/01 10:36
+- **Created At:** 04/01 10:36
+- **Updated At:** 04/01 10:36
 
 ---
 
@@ -11053,8 +11199,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 09/17 11:40
-- **更新日（UTC）:** 09/17 21:34
+- **Created At:** 09/17 11:40
+- **Updated At:** 09/17 21:34
 
 ---
 
@@ -11087,8 +11233,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/05 07:17
-- **更新日（UTC）:** 09/08 21:18
+- **Created At:** 05/05 07:17
+- **Updated At:** 09/08 21:18
 
 ---
 
@@ -11113,8 +11259,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 08/01 05:48
-- **更新日（UTC）:** 09/06 14:00
+- **Created At:** 08/01 05:48
+- **Updated At:** 09/06 14:00
 
 ---
 
@@ -11133,8 +11279,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/19 07:45
-- **更新日（UTC）:** 12/27 08:49
+- **Created At:** 07/19 07:45
+- **Updated At:** 12/27 08:49
 
 ---
 
@@ -11153,8 +11299,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 03/31 03:43
-- **更新日（UTC）:** 09/06 14:00
+- **Created At:** 03/31 03:43
+- **Updated At:** 09/06 14:00
 
 ---
 
@@ -11176,8 +11322,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 04/03 09:20
-- **更新日（UTC）:** 09/06 14:00
+- **Created At:** 04/03 09:20
+- **Updated At:** 09/06 14:00
 
 ---
 
@@ -11196,8 +11342,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 09/12 14:45
-- **更新日（UTC）:** 10/04 14:23
+- **Created At:** 09/12 14:45
+- **Updated At:** 10/04 14:23
 
 ---
 
@@ -11218,8 +11364,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/26 10:30
-- **更新日（UTC）:** 10/21 22:10
+- **Created At:** 07/26 10:30
+- **Updated At:** 10/21 22:10
 
 ---
 
@@ -11238,8 +11384,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/19 07:21
-- **更新日（UTC）:** 09/06 13:59
+- **Created At:** 07/19 07:21
+- **Updated At:** 09/06 13:59
 
 ---
 
@@ -11258,8 +11404,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/19 07:34
-- **更新日（UTC）:** 09/06 13:59
+- **Created At:** 07/19 07:34
+- **Updated At:** 09/06 13:59
 
 ---
 
@@ -11288,8 +11434,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **作成日（UTC）:** 08/24 16:52
-- **更新日（UTC）:** 07/22 08:55
+- **Created At:** 08/24 16:52
+- **Updated At:** 07/22 08:55
 
 ---
 
@@ -11330,8 +11476,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 03/21 09:38
-- **更新日（UTC）:** 05/06 03:09
+- **Created At:** 03/21 09:38
+- **Updated At:** 05/06 03:09
 
 ---
 
@@ -11347,8 +11493,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/12 13:19
-- **更新日（UTC）:** 10/12 13:19
+- **Created At:** 10/12 13:19
+- **Updated At:** 10/12 13:19
 
 ---
 
@@ -11369,8 +11515,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/11 07:59
-- **更新日（UTC）:** 01/03 04:16
+- **Created At:** 10/11 07:59
+- **Updated At:** 01/03 04:16
 
 ---
 
@@ -11402,8 +11548,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/28 11:57
-- **更新日（UTC）:** 08/16 09:46
+- **Created At:** 05/28 11:57
+- **Updated At:** 08/16 09:46
 
 ---
 
@@ -11431,8 +11577,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 07/06 01:07
-- **更新日（UTC）:** 08/03 05:12
+- **Created At:** 07/06 01:07
+- **Updated At:** 08/03 05:12
 
 ---
 
@@ -11446,8 +11592,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 10/12 05:24
-- **更新日（UTC）:** 10/13 00:59
+- **Created At:** 10/12 05:24
+- **Updated At:** 10/13 00:59
 
 ---
 
@@ -11474,8 +11620,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 06/18 22:06
-- **更新日（UTC）:** 07/22 08:52
+- **Created At:** 06/18 22:06
+- **Updated At:** 07/22 08:52
 
 ---
 
@@ -11494,8 +11640,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **作成日（UTC）:** 05/27 02:52
-- **更新日（UTC）:** 07/22 08:53
+- **Created At:** 05/27 02:52
+- **Updated At:** 07/22 08:53
 
 ---
 
@@ -11568,8 +11714,8 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 04/27 08:46
-- **更新日（UTC）:** 09/28 02:59
+- **Created At:** 04/27 08:46
+- **Updated At:** 09/28 02:59
 
 ---
 
@@ -11578,7 +11724,7 @@ Copyright (c) 2026 Wista Project
 ### 1. イベントコーナー
 **作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-**この投稿は役に立ちましたか？:** 3.8 / 5 ⭐ (5)
+**この投稿は役に立ちましたか？:** 4.0 / 5 ⭐ (6)
 
 #### コメント (19)
 - **たかしきんぐ** (11/17 10:30): アモアスサーバでみんなでアモアスやりたい
@@ -11603,7 +11749,7 @@ Copyright (c) 2026 Wista Project
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **作成日（UTC）:** 11/07 14:42
-- **更新日（UTC）:** 11/24 04:09
+- **Created At:** 11/07 14:42
+- **Updated At:** 11/24 04:09
 
 ---
