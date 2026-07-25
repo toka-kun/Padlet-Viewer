@@ -1,4 +1,4 @@
-最終取得: 2026/07/23 20:25:19
+最終取得: 2026/07/25 20:51:20
 
 # 受付と匿名用
 
@@ -271,7 +271,11 @@
 ### 1. 入りたい人はフォローしてね
 **Author:** 静桜  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族 (Aoba108)
 
-<p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest">woolisbest</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/woolisbest4520">woolisbest4520</a></p><p>※↑は今死んでます</p>
+[woolisbest](https://padlet.com/woolisbest)
+
+[woolisbest4520](https://padlet.com/woolisbest4520)
+
+※↑は今死んでます
 
 #### Comments (61)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
@@ -348,7 +352,21 @@
 ### 1. 出禁
 **Author:** 静桜  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族 (Aoba108)
 
-<p>荒らし</p><p>・匿名おるふぇ</p><p>・</p><p><br/></p><p>変態</p><p>・煮物</p><p>・いかれ天</p><p><br/></p><p>かリけーの要望</p><p>・リムル</p><p><br/></p>
+荒らし
+
+・匿名おるふぇ
+
+・
+
+変態
+
+・煮物
+
+・いかれ天
+
+かリけーの要望
+
+・リムル
 
 #### Comments (25)
 - **静桜  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (Jan 13, 2026 12:10pm): 少ないかも
