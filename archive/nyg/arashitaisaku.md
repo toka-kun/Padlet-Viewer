@@ -1,4 +1,4 @@
-最終取得: 2026/07/23 20:25:19
+最終取得: 2026/07/25 22:43:10
 
 # 荒らし対策室
 
@@ -14,7 +14,22 @@
 ### 1. リンク集
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<p><strong>➥ このリンクを拡散してね</strong></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/ArashiTaisaku">https://padlet.com/Toka_Kun_/ArashiTaisaku</a></p><p><br/></p><p><strong>➥ 姉妹部屋にも来てね</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/Unblocked">プロキシのリンクやYouTubeの閲覧方法を共有する会</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/SSJC">Shell Shockers 集会所</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/PortalWorld">Padletポータルワールド</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Nanachiki/recommendation_games">おすすめゲーム紹介、ゲームの募集所</a></p></li></ul><p><br/></p><p><strong>➥ 他の荒らし対策部屋</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/kcorugaM/magurock-7ue3f76h99omvmbl">Magurockの資料と会議室</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/ESTAcancel/SAVTF">ぐるぐるまっきーのS.A.V.T.F</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/ikiyagare/padlet-ie776w9g4je8nc8a">生きやがれの荒らし記録</a></p></li></ul>
+**➥ このリンクを拡散してね**
+
+[https://padlet.com/Toka\_Kun\_/ArashiTaisaku](https://padlet.com/Toka_Kun_/ArashiTaisaku)
+
+**➥ 姉妹部屋にも来てね**
+
+- [プロキシのリンクやYouTubeの閲覧方法を共有する会](https://padlet.com/Toka_Kun_/Unblocked)
+- [Shell Shockers 集会所](https://padlet.com/Toka_Kun_/SSJC)
+- [Padletポータルワールド](https://padlet.com/Toka_Kun_/PortalWorld)
+- [おすすめゲーム紹介、ゲームの募集所](https://padlet.com/Nanachiki/recommendation_games)
+
+**➥ 他の荒らし対策部屋**
+
+- [Magurockの資料と会議室](https://padlet.com/kcorugaM/magurock-7ue3f76h99omvmbl)
+- [ぐるぐるまっきーのS.A.V.T.F](https://padlet.com/ESTAcancel/SAVTF)
+- [生きやがれの荒らし記録](https://padlet.com/ikiyagare/padlet-ie776w9g4je8nc8a)
 
 #### Comments (2)
 - **さくとなんだ今も無差別荒らし** (Sep 12, 2025 10:11pm): 俺ああああああああああ
@@ -35,7 +50,7 @@
 ### 1. 概要
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<p>この部屋は、いろいろな部屋の管理人達で荒らしについての情報共有を行ったり、対策を講じるための部屋です。</p>
+この部屋は、いろいろな部屋の管理人達で荒らしについての情報共有を行ったり、対策を講じるための部屋です。
 
 #### Comments (23)
 - **さくらもち** (Jul 14, 2025 10:16pm): ほしい
@@ -77,7 +92,24 @@
 ### 1. 荒らし対策
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<p><strong>➥ 共有</strong></p><ul><li><p><strong>アクセス権（どれを利用するかは場合によって選ぶのを推奨）</strong></p><ul><li><p>リンクを知っている訪問者の権限を</p><ul><li><p><strong>アクセスできません</strong></p></li><li><p><strong>読者</strong></p></li><li><p><strong>コメンテーター</strong></p></li></ul><p>のどれかにする。</p></li><li><p>仲の良いリア友を<strong>管理人</strong>にする。</p></li><li><p>仲の良いネッ友を<strong>モデレーター</strong>にする。</p></li><li><p>パスワードを<strong>必須</strong>にする。</p></li><li><p>訪問者のログインを<strong>必須</strong>にする。</p></li></ul></li></ul><p><strong>➥ 設定</strong></p><ul><li><p><strong>投稿</strong></p><ul><li><p>カスタムフィールドを追加して<strong>必須</strong>にする（単一選択が一般的）。</p></li></ul></li><li><p><strong>コンテンツ</strong></p><ul><li><p>審査を<strong>自動</strong>または<strong>手動</strong>にする</p></li></ul></li></ul>
+**➥ 共有**
+
+- **アクセス権（どれを利用するかは場合によって選ぶのを推奨）**
+  - リンクを知っている訪問者の権限をのどれかにする。
+    - **アクセスできません**
+    - **読者**
+    - **コメンテーター**
+  - 仲の良いリア友を**管理人**にする。
+  - 仲の良いネッ友を**モデレーター**にする。
+  - パスワードを**必須**にする。
+  - 訪問者のログインを**必須**にする。
+
+**➥ 設定**
+
+- **投稿**
+  - カスタムフィールドを追加して**必須**にする（単一選択が一般的）。
+- **コンテンツ**
+  - 審査を**自動**または**手動**にする
 
 #### Comments (11)
 - **A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇** (Aug 07, 2025 10:40am): 審査手動が一番いい
@@ -119,7 +151,7 @@
 ### 2. っっjd
 **Author:** バカチン市国 (Nshsh)
 
-<p>っh</p>
+っh
 
 #### Additional Information
 - **Post color:** White
@@ -305,7 +337,9 @@
 ### 9. なんで垢バンされてるのおおおおお
 **Author:** 軽くなれw (KARUKUNAREw)
 
-<p>これは移動だよつまり別のアカウントがあるってこと。</p><p>いずれ復活します</p>
+これは移動だよつまり別のアカウントがあるってこと。
+
+いずれ復活します
 
 #### Reactions
 - **Emojis:** 👍 (2)

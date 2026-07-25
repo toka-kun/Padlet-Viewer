@@ -1,4 +1,4 @@
-最終取得: 2026/07/25 20:51:20
+最終取得: 2026/07/25 22:43:10
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -16,7 +16,17 @@
 ### 1. Partnerships
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
-<p><strong>★ 拡散希望リンク</strong></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Nanachiki/recommendation_games">https://padlet.com/Nanachiki/recommendation_games</a></p><p><br></p><p><strong>★ Shell Shockers 集会所</strong></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/SSJC">https://padlet.com/Toka_Kun_/SSJC</a></p><p><br></p><p><strong>★ プロキシのリンクやYouTubeの閲覧方法を共有する会</strong></p><p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/Unblocked">https://padlet.com/Toka_Kun_/Unblocked</a></p>
+**★ 拡散希望リンク**
+
+[https://padlet.com/Nanachiki/recommendation\_games](https://padlet.com/Nanachiki/recommendation_games)
+
+**★ Shell Shockers 集会所**
+
+[https://padlet.com/Toka\_Kun\_/SSJC](https://padlet.com/Toka_Kun_/SSJC)
+
+**★ プロキシのリンクやYouTubeの閲覧方法を共有する会**
+
+[https://padlet.com/Toka\_Kun\_/Unblocked](https://padlet.com/Toka_Kun_/Unblocked)
 
 **投稿の種類:** その他
 
@@ -39,7 +49,13 @@
 ### 1. ルール
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
-<p>荒らさなければなんでもいいです。</p><p>管理者が荒らしと認定した場合、該当メッセージを削除し、該当ユーザーの権限を閲覧のみにします。</p><p>なので、アカウントの作成をお願いします。</p><p>また、ゲームセクションではゲームのことを何でも喋ってもいいです。</p>
+荒らさなければなんでもいいです。
+
+管理者が荒らしと認定した場合、該当メッセージを削除し、該当ユーザーの権限を閲覧のみにします。
+
+なので、アカウントの作成をお願いします。
+
+また、ゲームセクションではゲームのことを何でも喋ってもいいです。
 
 #### Comments (13)
 - **匿名** (Sep 26, 2025 11:29am): おっけー
@@ -71,7 +87,7 @@
 ### 1. ゲーム説明等の編集希望
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
-<p>内容等を追加、編集してほしい場合はここにコメントをしてください。</p><p><br></p>
+内容等を追加、編集してほしい場合はここにコメントをしてください。
 
 #### Comments (1)
 - **naoki** (Jul 17, 2026 11:06am): こんちくは
@@ -89,7 +105,7 @@
 ### 2. 追加してほしいゲーム
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
-<p>追加してほしいゲームセクションがあればここにコメントしてください。随時追加していきます。</p>
+追加してほしいゲームセクションがあればここにコメントしてください。随時追加していきます。
 
 #### Comments (14)
 - **プロスピと野球が好きな人** (Feb 13, 2025 03:51am): ファイルのマイクラ
@@ -122,7 +138,7 @@
 ### 1. ゲームほしいです
 **Author:** T34-85M (dr6ftg7yuhio)
 
-<p>学校のタブレットで規制をすり抜けてできるゲームを教えて下さい。</p>
+学校のタブレットで規制をすり抜けてできるゲームを教えて下さい。
 
 #### Comments (11)
 - **Affectionate Lion** (Feb 12, 2025 07:24am): あげるよ
@@ -168,7 +184,7 @@
 ### 1. ゲーム募集セクション
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
-<p>ゲームの募集は雑談セクションではなく、こちらにしてください。</p>
+ゲームの募集は雑談セクションではなく、こちらにしてください。
 
 #### Comments (13)
 - **happyはまぐり???** (Mar 15, 2025 06:08am): スマブラで
@@ -200,7 +216,51 @@
 ### 1. Hypackel
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<p><strong>➥ 掲載元</strong></p><p><a rel="noopener noreferrer nofollow" href="https://docs.google.com/presentation/d/1pgpw8LuU7_oSTeUCQEvu7E0uIJ8FKZscAqoWS2khlts/present">https://docs.google.com/presentation/d/1pgpw8LuU7_oSTeUCQEvu7E0uIJ8FKZscAqoWS2khlts/present</a></p><p><br></p><p><strong>➥ Hypackel</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://d3rtzzzsiu7gdr.cloudfront.net/">https://d3rtzzzsiu7gdr.cloudfront.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.hypackel.com/">https://www.hypackel.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://hypackel.github.io/">https://hypackel.github.io/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://hypackelgames.web.app/">https://hypackelgames.web.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://hypackelgames.firebaseapp.com/">https://hypackelgames.firebaseapp.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://d3rtzzzsiu7gdr.web.app/">https://d3rtzzzsiu7gdr.web.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://d3rtzzzsiu7gdr.firebaseapp.com/">https://d3rtzzzsiu7gdr.firebaseapp.com/</a></p></li></ul><p><br></p><p><strong>➥ Hypackel Lite</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://hypackellite.github.io/">https://hypackellite.github.io/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://hypackellite1.github.io/">https://hypackellite1.github.io/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://hylite1.github.io/">https://hylite1.github.io/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://leavebrainrotin2024.github.io/">https://leavebrainrotin2024.github.io/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://hypackellite.web.app/">https://hypackellite.web.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://hypackellite.firebaseapp.com/">https://hypackellite.firebaseapp.com/</a></p></li></ul><p><br></p><p><strong>➥ 非公式リンク集 (Hypackel Lite)</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://collaborating-learn-more.web.app/">https://collaborating-learn-more.web.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://collaborating-learn-more.firebaseapp.com/">https://collaborating-learn-more.firebaseapp.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://hypackel-learn-more.web.app/">https://hypackel-learn-more.web.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://hypackel-learn-more.firebaseapp.com/">https://hypackel-learn-more.firebaseapp.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wow-learn-more.web.app/">https://wow-learn-more.web.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://wow-learn-more.firebaseapp.com/">https://wow-learn-more.firebaseapp.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://stop-learn-more.web.app/">https://stop-learn-more.web.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://stop-learn-more.firebaseapp.com/">https://stop-learn-more.firebaseapp.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://maybe-learn-more.web.app/">https://maybe-learn-more.web.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://maybe-learn-more.firebaseapp.com/">https://maybe-learn-more.firebaseapp.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://testing-learn-more.web.app/">https://testing-learn-more.web.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://testing-learn-more.firebaseapp.com/">https://testing-learn-more.firebaseapp.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://math-learn-more.web.app/">https://math-learn-more.web.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://math-learn-more.firebaseapp.com/">https://math-learn-more.firebaseapp.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://science-learn-more.web.app/">https://science-learn-more.web.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://science-learn-more.firebaseapp.com/">https://science-learn-more.firebaseapp.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://history-learn-more.web.app/">https://history-learn-more.web.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://history-learn-more.firebaseapp.com/">https://history-learn-more.firebaseapp.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://learn-more-testing-experiment.web.app/">https://learn-more-testing-experiment.web.app/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://learn-more-testing-experiment.firebaseapp.com/">https://learn-more-testing-experiment.firebaseapp.com/</a></p></li></ul>
+**➥ 掲載元**
+
+[https://docs.google.com/presentation/d/1pgpw8LuU7\_oSTeUCQEvu7E0uIJ8FKZscAqoWS2khlts/present](https://docs.google.com/presentation/d/1pgpw8LuU7_oSTeUCQEvu7E0uIJ8FKZscAqoWS2khlts/present)
+
+**➥ Hypackel**
+
+- [https://d3rtzzzsiu7gdr.cloudfront.net/](https://d3rtzzzsiu7gdr.cloudfront.net/)
+- [https://www.hypackel.com/](https://www.hypackel.com/)
+- [https://hypackel.github.io/](https://hypackel.github.io/)
+- [https://hypackelgames.web.app/](https://hypackelgames.web.app/)
+- [https://hypackelgames.firebaseapp.com/](https://hypackelgames.firebaseapp.com/)
+- [https://d3rtzzzsiu7gdr.web.app/](https://d3rtzzzsiu7gdr.web.app/)
+- [https://d3rtzzzsiu7gdr.firebaseapp.com/](https://d3rtzzzsiu7gdr.firebaseapp.com/)
+
+**➥ Hypackel Lite**
+
+- [https://hypackellite.github.io/](https://hypackellite.github.io/)
+- [https://hypackellite1.github.io/](https://hypackellite1.github.io/)
+- [https://hylite1.github.io/](https://hylite1.github.io/)
+- [https://leavebrainrotin2024.github.io/](https://leavebrainrotin2024.github.io/)
+- [https://hypackellite.web.app/](https://hypackellite.web.app/)
+- [https://hypackellite.firebaseapp.com/](https://hypackellite.firebaseapp.com/)
+
+**➥ 非公式リンク集 (Hypackel Lite)**
+
+- [https://collaborating-learn-more.web.app/](https://collaborating-learn-more.web.app/)
+- [https://collaborating-learn-more.firebaseapp.com/](https://collaborating-learn-more.firebaseapp.com/)
+- [https://hypackel-learn-more.web.app/](https://hypackel-learn-more.web.app/)
+- [https://hypackel-learn-more.firebaseapp.com/](https://hypackel-learn-more.firebaseapp.com/)
+- [https://wow-learn-more.web.app/](https://wow-learn-more.web.app/)
+- [https://wow-learn-more.firebaseapp.com/](https://wow-learn-more.firebaseapp.com/)
+- [https://stop-learn-more.web.app/](https://stop-learn-more.web.app/)
+- [https://stop-learn-more.firebaseapp.com/](https://stop-learn-more.firebaseapp.com/)
+- [https://maybe-learn-more.web.app/](https://maybe-learn-more.web.app/)
+- [https://maybe-learn-more.firebaseapp.com/](https://maybe-learn-more.firebaseapp.com/)
+- [https://testing-learn-more.web.app/](https://testing-learn-more.web.app/)
+- [https://testing-learn-more.firebaseapp.com/](https://testing-learn-more.firebaseapp.com/)
+- [https://math-learn-more.web.app/](https://math-learn-more.web.app/)
+- [https://math-learn-more.firebaseapp.com/](https://math-learn-more.firebaseapp.com/)
+- [https://science-learn-more.web.app/](https://science-learn-more.web.app/)
+- [https://science-learn-more.firebaseapp.com/](https://science-learn-more.firebaseapp.com/)
+- [https://history-learn-more.web.app/](https://history-learn-more.web.app/)
+- [https://history-learn-more.firebaseapp.com/](https://history-learn-more.firebaseapp.com/)
+- [https://learn-more-testing-experiment.web.app/](https://learn-more-testing-experiment.web.app/)
+- [https://learn-more-testing-experiment.firebaseapp.com/](https://learn-more-testing-experiment.firebaseapp.com/)
 
 #### Comments (1)
 - **学タブ民** (Jul 06, 2026 09:51am): 全ブロ
@@ -215,7 +275,26 @@
 ### 2. Gaming Escape
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<p><strong>➥ 掲載元</strong></p><p>非公開</p><p><br></p><p><strong>➥ 公式</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://www.gaming-escape.com">https://www.gaming-escape.com</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gr4ys0n.github.io">https://gr4ys0n.github.io</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gaming-escape.github.io">https://gaming-escape.github.io</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://educational-playground.global.ssl.fastly.net/">https://educational-playground.global.ssl.fastly.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://supercoolthang.global.ssl.fastly.net/">https://supercoolthang.global.ssl.fastly.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://study-academics.global.ssl.fastly.net/">https://study-academics.global.ssl.fastly.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://searchprox.global.ssl.fastly.net/">https://searchprox.global.ssl.fastly.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://badpiggies.global.ssl.fastly.net/">https://badpiggies.global.ssl.fastly.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://dontblockplease.global.ssl.fastly.net/">https://dontblockplease.global.ssl.fastly.net/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gamingescape.netlify.app/">https://gamingescape.netlify.app/</a></p></li></ul><p><br></p><p><strong>➥ 多分非公式</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://losor.global.ssl.fastly.net/">https://losor.global.ssl.fastly.net/</a></p></li></ul>
+**➥ 掲載元**
+
+非公開
+
+**➥ 公式**
+
+- [https://www.gaming-escape.com](https://www.gaming-escape.com)
+- [https://gr4ys0n.github.io](https://gr4ys0n.github.io)
+- [https://gaming-escape.github.io](https://gaming-escape.github.io)
+- [https://educational-playground.global.ssl.fastly.net/](https://educational-playground.global.ssl.fastly.net/)
+- [https://supercoolthang.global.ssl.fastly.net/](https://supercoolthang.global.ssl.fastly.net/)
+- [https://study-academics.global.ssl.fastly.net/](https://study-academics.global.ssl.fastly.net/)
+- [https://searchprox.global.ssl.fastly.net/](https://searchprox.global.ssl.fastly.net/)
+- [https://badpiggies.global.ssl.fastly.net/](https://badpiggies.global.ssl.fastly.net/)
+- [https://dontblockplease.global.ssl.fastly.net/](https://dontblockplease.global.ssl.fastly.net/)
+- [https://gamingescape.netlify.app/](https://gamingescape.netlify.app/)
+
+**➥ 多分非公式**
+
+- [https://losor.global.ssl.fastly.net/](https://losor.global.ssl.fastly.net/)
 
 #### Comments (19)
 - **えおののた** (Dec 01, 2025 01:26am): 全ブロ
@@ -248,7 +327,8 @@
 ### 3. BI6ZONE
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<ul><li><p><a rel="noopener noreferrer nofollow" href="https://bi66ie619.github.io/bi6zone.github.io/main.html">https://bi66ie619.github.io/bi6zone.github.io/main.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://bi6zone.vercel.app/">https://bi6zone.vercel.app/</a></p></li></ul>
+- [https://bi66ie619.github.io/bi6zone.github.io/main.html](https://bi66ie619.github.io/bi6zone.github.io/main.html)
+- [https://bi6zone.vercel.app/](https://bi6zone.vercel.app/)
 
 #### Additional Information
 - **Post color:** White
@@ -260,7 +340,10 @@
 ### 4. HTML.cafeのPOKI
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<p><strong>HTML.cafeが無理な人は無理</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/xc1fc081b">https://html.cafe/xc1fc081b</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://html.cafe/xe70e8b4d">https://html.cafe/xe70e8b4d</a></p></li></ul>
+**HTML.cafeが無理な人は無理**
+
+- [https://html.cafe/xc1fc081b](https://html.cafe/xc1fc081b)
+- [https://html.cafe/xe70e8b4d](https://html.cafe/xe70e8b4d)
 
 #### Comments (3)
 - **匿名14** (Mar 14, 2026 09:49am): ありがとうございます！
@@ -366,7 +449,19 @@
 ### 10. ゲーム
 **Author:** 狐うどんの狐(マダタスカル) (daitouakyoueiken)
 
-<ul><li><p><a rel="noopener noreferrer nofollow" href="https://goglogo.net/google-dinosaur-game/">https://goglogo.net/google-dinosaur-game/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/slopeunblockedgame/play?authuser=0">https://sites.google.com/site/slopeunblockedgame/play?authuser=0</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://ubg77.gitlab.io/category/arcade.html">https://ubg77.gitlab.io/category/arcade.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://gitlabgames.gitlab.io/">https://gitlabgames.gitlab.io/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/a/macros/ict.adachi.ed.jp/s/AKfycbwMccc783yv5Ftx2nkZ6BpHDi66OYtby8TRsYzgDufHka0zzRHHcV19NgtnFJH0ltbEvQ/exec">https://script.google.com/a/macros/ict.adachi.ed.jp/s/AKfycbwMccc783yv5Ftx2nkZ6BpHDi66OYtby8TRsYzgDufHka0zzRHHcV19NgtnFJH0ltbEvQ/exec</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/ZmzHPMd2/index.html">https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/ZmzHPMd2/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/mgBYv45P/index.html">https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/mgBYv45P/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/7oCCxwiJ/index.html">https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/7oCCxwiJ/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/r1UjPXML/index.html">https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/r1UjPXML/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://s3.eu-central-1.amazonaws.com/snoutupgames/ironsnout/index.html">https://s3.eu-central-1.amazonaws.com/snoutupgames/ironsnout/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.dailytoolz.com/gameindex.php">https://www.dailytoolz.com/gameindex.php</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://retrobowlweb.gitlab.io/category/trending.html">https://retrobowlweb.gitlab.io/category/trending.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://ubg66.gitlab.io/">https://ubg66.gitlab.io/</a></p></li></ul>
+- [https://goglogo.net/google-dinosaur-game/](https://goglogo.net/google-dinosaur-game/)
+- [https://sites.google.com/site/slopeunblockedgame/play?authuser=0](https://sites.google.com/site/slopeunblockedgame/play?authuser=0)
+- [https://ubg77.gitlab.io/category/arcade.html](https://ubg77.gitlab.io/category/arcade.html)
+- [https://gitlabgames.gitlab.io/](https://gitlabgames.gitlab.io/)
+- [https://script.google.com/a/macros/ict.adachi.ed.jp/s/AKfycbwMccc783yv5Ftx2nkZ6BpHDi66OYtby8TRsYzgDufHka0zzRHHcV19NgtnFJH0ltbEvQ/exec](https://script.google.com/a/macros/ict.adachi.ed.jp/s/AKfycbwMccc783yv5Ftx2nkZ6BpHDi66OYtby8TRsYzgDufHka0zzRHHcV19NgtnFJH0ltbEvQ/exec)
+- [https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/ZmzHPMd2/index.html](https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/ZmzHPMd2/index.html)
+- [https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/mgBYv45P/index.html](https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/mgBYv45P/index.html)
+- [https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/7oCCxwiJ/index.html](https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/7oCCxwiJ/index.html)
+- [https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/r1UjPXML/index.html](https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/r1UjPXML/index.html)
+- [https://s3.eu-central-1.amazonaws.com/snoutupgames/ironsnout/index.html](https://s3.eu-central-1.amazonaws.com/snoutupgames/ironsnout/index.html)
+- [https://www.dailytoolz.com/gameindex.php](https://www.dailytoolz.com/gameindex.php)
+- [https://retrobowlweb.gitlab.io/category/trending.html](https://retrobowlweb.gitlab.io/category/trending.html)
+- [https://ubg66.gitlab.io/](https://ubg66.gitlab.io/)
 
 #### Additional Information
 - **Post color:** White
@@ -396,7 +491,9 @@
 ### 12. 東方風
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
-<p>これならどうだろう？</p><p>無理だったらごめん</p>
+これならどうだろう？
+
+無理だったらごめん
 
 [https://takahirox.github.io/toho-like-js/index.html](https://takahirox.github.io/toho-like-js/index.html)
 
@@ -415,7 +512,42 @@
 ### 13. とーほー
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
-<p>靈異伝です</p><p>シューティングゲームじゃなくてブロック崩しみたいなかんじです</p><p><br></p><p><strong>➥ 東方靈異伝</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/dosboxxem-demo/th1e.html">https://yksoft1.github.io/dosboxxem-demo/th1e.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/dosboxxem-demo/th1.html">https://yksoft1.github.io/dosboxxem-demo/th1.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/emularity/th1.html">https://yksoft1.github.io/emularity/th1.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/emularity/th1sdl1.html">https://yksoft1.github.io/emularity/th1sdl1.html</a></p></li></ul><p><strong>➥ 東方封魔録</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/dosboxxem-demo/th2e.html">https://yksoft1.github.io/dosboxxem-demo/th2e.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/dosboxxem-demo/th2.html">https://yksoft1.github.io/dosboxxem-demo/th2.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/dosboxxem-demo/th2mt.html">https://yksoft1.github.io/dosboxxem-demo/th2mt.html</a></p></li></ul><p><strong>➥ 東方夢時空</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/dosboxxem-demo/th3e.html">https://yksoft1.github.io/dosboxxem-demo/th3e.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/dosboxxem-demo/th3.html">https://yksoft1.github.io/dosboxxem-demo/th3.html</a></p></li></ul><p><strong>➥ 東方幻想郷</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/dosboxxem-demo/th4e.html">https://yksoft1.github.io/dosboxxem-demo/th4e.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/dosboxxem-demo/th4.html">https://yksoft1.github.io/dosboxxem-demo/th4.html</a></p></li></ul><p><strong>➥ 東方怪綺談</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/dosboxxem-demo/th5e.html">https://yksoft1.github.io/dosboxxem-demo/th5e.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/dosboxxem-demo/th5.html">https://yksoft1.github.io/dosboxxem-demo/th5.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/emularity/th5.html">https://yksoft1.github.io/emularity/th5.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/emularity/th5sdl1.html">https://yksoft1.github.io/emularity/th5sdl1.html</a></p></li></ul><p><br></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/dosboxem-demo/tx2.html">https://yksoft1.github.io/dosboxem-demo/tx2.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://yksoft1.github.io/dosboxem-demo/dp2.html">https://yksoft1.github.io/dosboxem-demo/dp2.html</a></p></li></ul>
+靈異伝です
+
+シューティングゲームじゃなくてブロック崩しみたいなかんじです
+
+**➥ 東方靈異伝**
+
+- [https://yksoft1.github.io/dosboxxem-demo/th1e.html](https://yksoft1.github.io/dosboxxem-demo/th1e.html)
+- [https://yksoft1.github.io/dosboxxem-demo/th1.html](https://yksoft1.github.io/dosboxxem-demo/th1.html)
+- [https://yksoft1.github.io/emularity/th1.html](https://yksoft1.github.io/emularity/th1.html)
+- [https://yksoft1.github.io/emularity/th1sdl1.html](https://yksoft1.github.io/emularity/th1sdl1.html)
+
+**➥ 東方封魔録**
+
+- [https://yksoft1.github.io/dosboxxem-demo/th2e.html](https://yksoft1.github.io/dosboxxem-demo/th2e.html)
+- [https://yksoft1.github.io/dosboxxem-demo/th2.html](https://yksoft1.github.io/dosboxxem-demo/th2.html)
+- [https://yksoft1.github.io/dosboxxem-demo/th2mt.html](https://yksoft1.github.io/dosboxxem-demo/th2mt.html)
+
+**➥ 東方夢時空**
+
+- [https://yksoft1.github.io/dosboxxem-demo/th3e.html](https://yksoft1.github.io/dosboxxem-demo/th3e.html)
+- [https://yksoft1.github.io/dosboxxem-demo/th3.html](https://yksoft1.github.io/dosboxxem-demo/th3.html)
+
+**➥ 東方幻想郷**
+
+- [https://yksoft1.github.io/dosboxxem-demo/th4e.html](https://yksoft1.github.io/dosboxxem-demo/th4e.html)
+- [https://yksoft1.github.io/dosboxxem-demo/th4.html](https://yksoft1.github.io/dosboxxem-demo/th4.html)
+
+**➥ 東方怪綺談**
+
+- [https://yksoft1.github.io/dosboxxem-demo/th5e.html](https://yksoft1.github.io/dosboxxem-demo/th5e.html)
+- [https://yksoft1.github.io/dosboxxem-demo/th5.html](https://yksoft1.github.io/dosboxxem-demo/th5.html)
+- [https://yksoft1.github.io/emularity/th5.html](https://yksoft1.github.io/emularity/th5.html)
+- [https://yksoft1.github.io/emularity/th5sdl1.html](https://yksoft1.github.io/emularity/th5sdl1.html)
+
+- [https://yksoft1.github.io/dosboxem-demo/tx2.html](https://yksoft1.github.io/dosboxem-demo/tx2.html)
+- [https://yksoft1.github.io/dosboxem-demo/dp2.html](https://yksoft1.github.io/dosboxem-demo/dp2.html)
 
 [https://yksoft1.github.io/emularity/th1sdl1.html](https://yksoft1.github.io/emularity/th1sdl1.html)
 
@@ -491,7 +623,7 @@
 ### 17. えいえいえいえいえいえいえい
 **Author:** はるとねこ (r0300131)
 
-<p>ブロックされたらコメントしてね</p>
+ブロックされたらコメントしてね
 
 [https://ubg77.gitlab.io/category/arcade.html](https://ubg77.gitlab.io/category/arcade.html)
 
@@ -542,7 +674,37 @@
 ### 19. 今知ってるゲームです
 **Author:** るい (s2004818)
 
-<ul><li><p><a rel="noopener noreferrer nofollow" href="https://memory.toys/">https://memory.toys/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://maze.toys/">https://maze.toys/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/adventure-craft/index.html">https://cdn-factory.marketjs.com/en/adventure-craft/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/3d-bottle-shooter/index.html">https://cdn-factory.marketjs.com/en/3d-bottle-shooter/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/mountain-hop/index.html">https://cdn-factory.marketjs.com/en/mountain-hop/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/soccer-pro/index.html">https://cdn-factory.marketjs.com/en/soccer-pro/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/knife-dart/index.html">https://cdn-factory.marketjs.com/en/knife-dart/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/9-ball-pool/index.html">https://cdn-factory.marketjs.com/en/9-ball-pool/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/pro-bowling-3d/index.html">https://cdn-factory.marketjs.com/en/pro-bowling-3d/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/obstacle-race/index.html">https://cdn-factory.marketjs.com/en/obstacle-race/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/one-liner/index.html">https://cdn-factory.marketjs.com/en/one-liner/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/winter-soccer/index.html">https://cdn-factory.marketjs.com/en/winter-soccer/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/beach-soccer/index.html">https://cdn-factory.marketjs.com/en/beach-soccer/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/fill-the-gap/index.html">https://cdn-factory.marketjs.com/en/fill-the-gap/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/airplane-survival/index.html">https://cdn-factory.marketjs.com/en/airplane-survival/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/head-soccer-challenge/index.html">https://cdn-factory.marketjs.com/en/head-soccer-challenge/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/bobblehead-soccer-royale/index.html">https://cdn-factory.marketjs.com/en/bobblehead-soccer-royale/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/flick-soccer/index.html">https://cdn-factory.marketjs.com/en/flick-soccer/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/ultimate-pong/index.html">https://cdn-factory.marketjs.com/en/ultimate-pong/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/mini-golf-adventure/index.html">https://cdn-factory.marketjs.com/en/mini-golf-adventure/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/kong-climb/index.html">https://cdn-factory.marketjs.com/en/kong-climb/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/puzzle-ball/index.html">https://cdn-factory.marketjs.com/en/puzzle-ball/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/touchdown-pro/index.html">https://cdn-factory.marketjs.com/en/touchdown-pro/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/hurdle-run/index.html">https://cdn-factory.marketjs.com/en/hurdle-run/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/rugby-extreme-flick/index.html">https://cdn-factory.marketjs.com/en/rugby-extreme-flick/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/sector-49/index.html">https://cdn-factory.marketjs.com/en/sector-49/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://cdn-factory.marketjs.com/en/flick-basketball-responsive/index.html">https://cdn-factory.marketjs.com/en/flick-basketball-responsive/index.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://www.education.com/resources/games/">https://www.education.com/resources/games/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://mrdoob.com/">https://mrdoob.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/unblocked-games-76-new/home">https://sites.google.com/view/unblocked-games-76-new/home</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/sakura-site">https://sites.google.com/view/sakura-site</a></p></li></ul>
+- [https://memory.toys/](https://memory.toys/)
+- [https://maze.toys/](https://maze.toys/)
+- [https://cdn-factory.marketjs.com/en/adventure-craft/index.html](https://cdn-factory.marketjs.com/en/adventure-craft/index.html)
+- [https://cdn-factory.marketjs.com/en/3d-bottle-shooter/index.html](https://cdn-factory.marketjs.com/en/3d-bottle-shooter/index.html)
+- [https://cdn-factory.marketjs.com/en/mountain-hop/index.html](https://cdn-factory.marketjs.com/en/mountain-hop/index.html)
+- [https://cdn-factory.marketjs.com/en/soccer-pro/index.html](https://cdn-factory.marketjs.com/en/soccer-pro/index.html)
+- [https://cdn-factory.marketjs.com/en/knife-dart/index.html](https://cdn-factory.marketjs.com/en/knife-dart/index.html)
+- [https://cdn-factory.marketjs.com/en/9-ball-pool/index.html](https://cdn-factory.marketjs.com/en/9-ball-pool/index.html)
+- [https://cdn-factory.marketjs.com/en/pro-bowling-3d/index.html](https://cdn-factory.marketjs.com/en/pro-bowling-3d/index.html)
+- [https://cdn-factory.marketjs.com/en/obstacle-race/index.html](https://cdn-factory.marketjs.com/en/obstacle-race/index.html)
+- [https://cdn-factory.marketjs.com/en/one-liner/index.html](https://cdn-factory.marketjs.com/en/one-liner/index.html)
+- [https://cdn-factory.marketjs.com/en/winter-soccer/index.html](https://cdn-factory.marketjs.com/en/winter-soccer/index.html)
+- [https://cdn-factory.marketjs.com/en/beach-soccer/index.html](https://cdn-factory.marketjs.com/en/beach-soccer/index.html)
+- [https://cdn-factory.marketjs.com/en/fill-the-gap/index.html](https://cdn-factory.marketjs.com/en/fill-the-gap/index.html)
+- [https://cdn-factory.marketjs.com/en/airplane-survival/index.html](https://cdn-factory.marketjs.com/en/airplane-survival/index.html)
+- [https://cdn-factory.marketjs.com/en/head-soccer-challenge/index.html](https://cdn-factory.marketjs.com/en/head-soccer-challenge/index.html)
+- [https://cdn-factory.marketjs.com/en/bobblehead-soccer-royale/index.html](https://cdn-factory.marketjs.com/en/bobblehead-soccer-royale/index.html)
+- [https://cdn-factory.marketjs.com/en/flick-soccer/index.html](https://cdn-factory.marketjs.com/en/flick-soccer/index.html)
+- [https://cdn-factory.marketjs.com/en/ultimate-pong/index.html](https://cdn-factory.marketjs.com/en/ultimate-pong/index.html)
+- [https://cdn-factory.marketjs.com/en/mini-golf-adventure/index.html](https://cdn-factory.marketjs.com/en/mini-golf-adventure/index.html)
+- [https://cdn-factory.marketjs.com/en/kong-climb/index.html](https://cdn-factory.marketjs.com/en/kong-climb/index.html)
+- [https://cdn-factory.marketjs.com/en/puzzle-ball/index.html](https://cdn-factory.marketjs.com/en/puzzle-ball/index.html)
+- [https://cdn-factory.marketjs.com/en/touchdown-pro/index.html](https://cdn-factory.marketjs.com/en/touchdown-pro/index.html)
+- [https://cdn-factory.marketjs.com/en/hurdle-run/index.html](https://cdn-factory.marketjs.com/en/hurdle-run/index.html)
+- [https://cdn-factory.marketjs.com/en/rugby-extreme-flick/index.html](https://cdn-factory.marketjs.com/en/rugby-extreme-flick/index.html)
+- [https://cdn-factory.marketjs.com/en/sector-49/index.html](https://cdn-factory.marketjs.com/en/sector-49/index.html)
+- [https://cdn-factory.marketjs.com/en/flick-basketball-responsive/index.html](https://cdn-factory.marketjs.com/en/flick-basketball-responsive/index.html)
+- [https://www.education.com/resources/games/](https://www.education.com/resources/games/)
+- [https://mrdoob.com/](https://mrdoob.com/)
+- [https://sites.google.com/view/unblocked-games-76-new/home](https://sites.google.com/view/unblocked-games-76-new/home)
+- [https://sites.google.com/view/sakura-site](https://sites.google.com/view/sakura-site)
 
 #### Comments (2)
 - **るい** (Oct 03, 2025 08:43am): 多いですごめんなさい
@@ -558,7 +720,7 @@
 ### 20. いろんなゲームがあるよ（おすすめはスクールバス）
 **Author:** かすみん (s2106234)
 
-<p>やってみてね</p>
+やってみてね
 
 [https://sites.google.com/site/thegamecompilation/mr-bullet](https://sites.google.com/site/thegamecompilation/mr-bullet)
 
@@ -668,7 +830,7 @@
 ### 26. Post 26
 **Author:** 葉っぱ貴族
 
-<p>これやってみて！</p>
+これやってみて！
 
 [Attachment 1](https://hirara.net/gallery/ynot/)
 
@@ -713,7 +875,15 @@
 ### 28. 多分規制されてないUnblocked系のゲームかき集めてきた
 **Author:** 眞田悠希 (j250509g)
 
-<ol><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/unblockedwtf/">https://sites.google.com/site/unblockedwtf/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/drive-u-7-home/home">https://sites.google.com/view/drive-u-7-home/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/funblockedgames88/">https://sites.google.com/site/funblockedgames88/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/classroom6x/">https://sites.google.com/view/classroom6x/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/thegamecompilation/home">https://sites.google.com/site/thegamecompilation/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/unblockedgames24h/">https://sites.google.com/site/unblockedgames24h/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/funblockedgames66/">https://sites.google.com/site/funblockedgames66/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/site/bestfununblockedgames/">https://sites.google.com/site/bestfununblockedgames/</a> </p></li><li><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/unblocked-games100/">https://sites.google.com/view/unblocked-games100/</a></p></li></ol>
+1. [https://sites.google.com/site/unblockedwtf/](https://sites.google.com/site/unblockedwtf/)
+2. [https://sites.google.com/view/drive-u-7-home/](https://sites.google.com/view/drive-u-7-home/home)
+3. [https://sites.google.com/site/funblockedgames88/](https://sites.google.com/site/funblockedgames88/)
+4. [https://sites.google.com/view/classroom6x/](https://sites.google.com/view/classroom6x/)
+5. [https://sites.google.com/site/thegamecompilation/](https://sites.google.com/site/thegamecompilation/home)
+6. [https://sites.google.com/site/unblockedgames24h/](https://sites.google.com/site/unblockedgames24h/)
+7. [https://sites.google.com/site/funblockedgames66/](https://sites.google.com/site/funblockedgames66/)
+8. [https://sites.google.com/site/bestfununblockedgames/](https://sites.google.com/site/bestfununblockedgames/)
+9. [https://sites.google.com/view/unblocked-games100/](https://sites.google.com/view/unblocked-games100/)
 
 #### Comments (7)
 - **いもに** (Jul 05, 2025 03:01pm): 全ブロ
@@ -784,7 +954,7 @@
 ### 32. Post 32
 **Author:** Sleepy Zebra
 
-<p>このサイトいいよ！</p>
+このサイトいいよ！
 
 [Attachment 1](https://sites.google.com/site/unblockedgames77/)
 
@@ -806,7 +976,7 @@
 ### 33. Post 33
 **Author:** 62億光年の孤独
 
-<p>ゲームできる</p>
+ゲームできる
 
 [https://unblocked-games.s3.amazonaws.com/index.html](https://unblocked-games.s3.amazonaws.com/index.html)
 
@@ -845,7 +1015,17 @@
 ### 1. 有名なGoogleとMicrosoftのゲーム
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<ol><li><p><strong>パックマン</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://www.google.com/logos/2010/pacman10-i.html">https://www.google.com/logos/2010/pacman10-i.html</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://searchplayground.google/pacman/halloween/?hl=ja&amp;gl=jp">https://searchplayground.google/pacman/halloween/?hl=ja&amp;gl=jp</a></p></li></ul></li><li><p><strong>ガーデンノーム</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://www.google.com/logos/2018/gnomes/gnomes18.html?hl=ja">https://www.google.com/logos/2018/gnomes/gnomes18.html?hl=ja</a></p></li></ul></li><li><p><strong>チャンピオン アイランド</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://www.google.com/logos/2020/kitsune/rc6/kitsune20.html?hl=ja">https://www.google.com/logos/2020/kitsune/rc6/kitsune20.html?hl=ja</a></p></li></ul></li><li><p><strong>Interland</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://beinternetawesome.withgoogle.com/ja_jp/interland">https://beinternetawesome.withgoogle.com/ja_jp/interland</a></p></li></ul></li><li><p><strong>MSN</strong></p><ul><li><p><a rel="noopener noreferrer nofollow" href="https://www.msn.com/ja-jp/play">https://www.msn.com/ja-jp/play</a></p></li></ul></li></ol>
+1. **パックマン**
+  - [https://www.google.com/logos/2010/pacman10-i.html](https://www.google.com/logos/2010/pacman10-i.html)
+  - [https://searchplayground.google/pacman/halloween/?hl=ja&gl=jp](https://searchplayground.google/pacman/halloween/?hl=ja&gl=jp)
+2. **ガーデンノーム**
+  - [https://www.google.com/logos/2018/gnomes/gnomes18.html?hl=ja](https://www.google.com/logos/2018/gnomes/gnomes18.html?hl=ja)
+3. **チャンピオン アイランド**
+  - [https://www.google.com/logos/2020/kitsune/rc6/kitsune20.html?hl=ja](https://www.google.com/logos/2020/kitsune/rc6/kitsune20.html?hl=ja)
+4. **Interland**
+  - [https://beinternetawesome.withgoogle.com/ja\_jp/interland](https://beinternetawesome.withgoogle.com/ja_jp/interland)
+5. **MSN**
+  - [https://www.msn.com/ja-jp/play](https://www.msn.com/ja-jp/play)
 
 #### Comments (35)
 - **はるとねこ** (Oct 03, 2025 08:04am): ガーデン・ノーム面白いです
@@ -894,7 +1074,7 @@
 ### 2. ブロスタらしい
 **Author:** ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛ (neon_ix)
 
-<p>遊んでないから知らない、普通に入ろうとしたらブロです</p>
+遊んでないから知らない、普通に入ろうとしたらブロです
 
 [Attachment 1](https://web.cloudmoonapp.com/ja/game/com.supercell.brawlstars/)
 
@@ -914,9 +1094,9 @@
 ### 3. Post 3
 **Author:** RX034 (h3005990)
 
-<p>テトリス自作したんで</p>
+テトリス自作したんで
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1785585094&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PJANH9DCm21NVE12zrl2MasKdh2lvNiH%2FGfLu9KlkqkgygntZp%2B5Bv8ue%2FOUxyO0EFe3myX1qf8I4YqNm0QBoJzsAQcSERK46%2FnhJLPqfk9da77%2BSAWt4WS1LHphypuU87pCVOYA%2Bp2p6J3CiKlA4voJj9aIeL26ViTAKY3cpvnl3A4xCw9AqmWCNESac%2FxqHwsRu%2BWAYrXVD3ZJwmuZ%2BfelPAbqH7rOilMgMG0LBtfgHchiE%2BW2yKDwXpTkTbAT9oBSeKSCyczGp1Wt4PCvY6EF5Yz%2FkT%2F0B9u2AzO0h%2FzrKcT0wN8ApS0s28j47OBNiF7qUus9BdP%2FtImYQLYLog%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1785591805&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ixe6FpVqikBFwzq8SYWgfeqI1dsISSzPhiNoYB9GfNfFvVLny6bN3ge64gGpF8cXKKwlBBOsriiiBjwg8oYsOjnSN%2FOMBeJR570hnN35LyQrAin9IPShkgLFCOQ3xCDoMpOeiyGk8YViLJ%2FArsCcGky7%2BymZR5VRr%2BczRJNop%2FvOclztgbzqoWzzngYL01MwFkANRM828ELy7zc%2BCy3ZXm4IalGdDvl0jwHbkqSgnjJEdRqEdR2FnKnRlbE06yOUvdLWT91%2FEFF%2FoKZ27GKZgWw%2B4vbdAj%2FafkKYO4BV2LOhEPkGtDDLoCW9F9hk14fR60WKg9jQOv%2BoSzb4GP4okw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
 
 #### Comments (6)
 - **RX034** (Dec 02, 2025 08:28am): 良ければどうぞ！
@@ -936,9 +1116,9 @@
 ### 4. Post 4
 **Author:** REMON
 
-<p>テトリスだよ</p>
+テトリスだよ
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1785585094&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=R%2FtIgEDzef9%2B0z17L9GHyGgaoZ3348TlNW5bPO4wFN6JBA5hwZsBWN%2Bxmy2Bgn%2FLJpp%2BDFSvuBwVGfsSvGPrWkSzCR4u78yKiftFRIC8qHV24ti%2FfyGnFDXU9r7Bu6pNixbaO95Mg88VBKqGIAVfjG%2FhpPplGhFPptGabBvuCPqxTsyTw8J8TLecFaq0kyQish8dSI49a74WcrAEr8oJ%2FfFbL2LJ%2FlL6d51KXhpE4RmNjya%2FMkLqUapSpq36YOH2vtaep4l3m3%2F6%2BEwcDd48VEd3Pii1b3CeBCRmr9SF5EcIaZ7rVFRqyYg%2BbeXDarvK5oCetBVpvcMFFQXH8jWYQA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1785591805&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=o%2FTpZDe1VdNYBDLA4Fb89nHgOR%2Fxbuwg8p2sPK8KtUvdTZ%2B%2FPfctGZZK7wVDUJe7lK9Ue9Iup4ox8bQrb7ejF5tODhYtGvJEww0J47uT8SdTuSfcaXUNwZavgZ8rOZGCDruWuDyKJYYbQJc4qmthoWaLYwyOxZ6a2RidrpkDqcdmEJ%2Fg61zj6EkFsMVBslzhtHOwuHa8I14Aty232ur3D3Pc7KKtBpHkReZsQGkixn58r6qEilZ%2BeF1DeNv%2FhReTYGF37W197KaGONYdao6vIl4sLgTdeWVLz5KxChMHAo2ch1LnWZdbsIdOMD5kVua0kwOqAzhFI04S8%2FMeFKxfBw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
 
 #### Comments (1)
 - **はるとねこ** (Nov 10, 2025 01:54am): なんか表示できねえ
@@ -953,9 +1133,9 @@
 ### 5. 趣味でAIとかやってるものですが...
 **Author:** REMON
 
-<p>オセロゲーム作りましたレビューください</p>
+オセロゲーム作りましたレビューください
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1785585094&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Yrszw%2BjvkGyB2juonL8YpeeiWBUJG%2FhoZOlAjF%2Bcjtxurd4iZ8lv1WdHIFz3Wg7PYdLdtGaSkMKKgQ8sTu2Y8777q8KeBDyl9%2FhK5uvpC5OrBkhfXV59bathCvPxA5IyM2PzGTNqXvj%2Fcave1cjZjV91SzO6IuMAzL7yHqfr5QEpyo6aly193%2FHViUS3hGYfBrqGD7a1h33NVp%2BRW%2F15tM8niOs7fpjIuqqHsTAQ4BF0iZGEYiB3%2FgNZJO%2BoXlQau0Zfv9fIe%2BH4H3PhoIYPAd76kFy%2FeqpxjhGoK9YM2v6m%2BTA0KeFV%2Bvm7GIbAZ1vXVSMZDUPvJvi5uvALWTUfpw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1785591805&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uYqilAuFIxPMmBX7%2BZMVVFwZ5EmKAsXhDarJ9ht4Ol8sl8kFIvy8ymzm8ePQ7PVu7aDSygP4fcDadtT5%2BPKdk99q4fR8sPOplEfU%2Bw3D10cl7cLeKKT284y%2BdfFUscv2VRwWhQrLCQ533nt8J0H320CyE0h7dqbJ3RKWt1A3XNTQp74JywXwl6kx02UR0R2zMIf1ZhUTUWLg5oyiHxOb0jKJxBS4s4%2BqV7TtzKQaRsLVGWrsQJnaxNFDB7gEA69AHvYHpUzmH5BIONo5QAMRfCJanVhceAAd050WFMvWjJ%2B7YeMdSYfOIlEoUMuyQ81wHxVKA6KOxkwYiH%2F8rnZZNg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
 
 #### Comments (3)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 08, 2025 04:36am): 思ったよりAIが強くて負けそう:(
@@ -972,7 +1152,7 @@
 ### 6. 謎解きRPG
 **Author:** Anonymous Hummingbird
 
-<p>ちょー暇つぶし</p>
+ちょー暇つぶし
 
 [Attachment 1](https://study-mate.co.jp/game/index.html)
 
@@ -1005,9 +1185,9 @@
 ### 8. UNDERTALE yellow
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
-<p>英語のみ対応です</p>
+英語のみ対応です
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1785585094&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ddOOt1j091O2AaJC8BpaH1IVSfApm0Zut7dPNDZ8Y2%2FhZbk%2FViXEUaW96P2k%2FdnyUynh29Z%2FQJhahb6k1KHqRW5oOq7p67qMSNyKW5HwFaXwOi7qD%2FLDerZ48At025UmX%2BzawUckyuVCXU5Q8oI58yHAbz6%2B2X3ZES%2BT7B41NxC0eozCBVAywgs4dR3bjNuzgU3x6D%2FlX9zWcqYT2r3EnneUbTZDSsFdZqcnWmqHsUvr%2FbjSMingkHdYH8%2Fl3JNp4Dxnw4mVBP1DDXZjQNY74ueP60qsVplQenf8nqYxtEJjXRulUWawxtVJ52cIJamGQQrFoglIDm2nQrWrZd9fQQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1785591805&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ESa7l0jLI5fGOL2ySjM0r4ytzEiQ7%2BmuDRFHWP2jyTRGGFGiAdzXSfUqmW7jP3o7AIVEWRl%2F5jqhPA5ns%2F5tkTl7Ujnt5eaiOt0zPRG734CYY1TZRjI5GbAFGQZOyS%2FA4nLMx1gojKTxzQU58Kd0Z4CzGNLJmHAcoOvE1FYrVQRAAWJO7Wsi%2BRmtiTNqa%2BmHbzojf0PsoiZvlBkHYlLLu5XB6wF%2FLthNua6V%2F%2Fy%2FGdFTcJpJymxZcczcIs8ShUgCl8hw92%2F73ifO8RtB2SYLTlXmzK9PZ2KUocSNfoPff9nomjm7xFjzNyEz5qtbpiq%2BMbMKjeHmHc%2F12a0u0ANUFw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
 
 #### Comments (3)
 - **カービィ** (Feb 28, 2026 02:14am): どうやって進むの？
@@ -1081,7 +1261,9 @@
 ### 13. ホラゲをあげよう、、、
 **Author:** All Japan Unblocking Association　(全日本ブロック解除協会) (nippii)
 
-<ul><li><p><a rel="noopener noreferrer nofollow" href="https://www.cocobongo.tv/fallen_angel_10">https://www.cocobongo.tv/fallen_angel_10</a></p></li></ul><p>上の画像を手書きでゆるくしたのは、元の画像がなかなかグロいからです。ゲーム自体はグロくないけどね！英語だけどだいたいわかると思います。</p>
+- [https://www.cocobongo.tv/fallen\_angel\_10](https://www.cocobongo.tv/fallen_angel_10)
+
+上の画像を手書きでゆるくしたのは、元の画像がなかなかグロいからです。ゲーム自体はグロくないけどね！英語だけどだいたいわかると思います。
 
 #### Comments (2)
 - **はるとねこ** (Oct 15, 2025 06:11am): むり
@@ -1112,7 +1294,7 @@
 ### 15. しょぼん
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
-<p>(´・ω・｀)</p>
+(´・ω・｀)
 
 [https://toyoshim.github.io/SyobonAction/](https://toyoshim.github.io/SyobonAction/)
 
@@ -1129,7 +1311,7 @@
 ### 16. 暇つぶしゲーム🐒
 **Author:** Unusual Caribou
 
-<p>まあまあ楽しい👌</p>
+まあまあ楽しい👌
 
 [https://ext.minijuegosgratis.com/monkey-mart/game.html](https://ext.minijuegosgratis.com/monkey-mart/game.html)
 
@@ -1147,7 +1329,18 @@
 ### 17. 弾幕シューティングゲームです。
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
-<p>東方みたいなやつです。</p><p>できなかったらごめん</p><p><br></p><p><strong>操作方法</strong></p><ul><li><p>十字キーで移動</p></li><li><p>Shiftで低速</p></li><li><p>Zで球発射</p></li><li><p>Xでボム(必殺技みたいなやつです)</p></li></ul><p><br></p><p>web系の東方には珍しいみょんがいるよ</p>
+東方みたいなやつです。
+
+できなかったらごめん
+
+**操作方法**
+
+- 十字キーで移動
+- Shiftで低速
+- Zで球発射
+- Xでボム(必殺技みたいなやつです)
+
+web系の東方には珍しいみょんがいるよ
 
 [https://taisei-project.org/play](https://taisei-project.org/play)
 
@@ -1165,7 +1358,7 @@
 ### 18. だれかこのサイトのhtmlをおしえてくれませんか？
 **Author:** ナンジャモ (sukaretonanjamo)
 
-<p>お願いします。でき次第、html.cafeでつくろうと思ってます</p>
+お願いします。でき次第、html.cafeでつくろうと思ってます
 
 [Attachment 1](https://unityroom.com/games/kendogamever2)
 
@@ -1204,7 +1397,7 @@
 ### 20. いろいろ！
 **Author:** Kirby (s190489_4)
 
-<ul><li><p><a rel="noopener noreferrer nofollow" href="https://www.jezng.com/open-syobon-action.js/">https://www.jezng.com/open-syobon-action.js/</a></p></li></ul>
+- [https://www.jezng.com/open-syobon-action.js/](https://www.jezng.com/open-syobon-action.js/)
 
 [https://www.jezng.com/open-syobon-action.js/](https://www.jezng.com/open-syobon-action.js/)
 
@@ -1222,7 +1415,9 @@
 ### 21. 暇だったから作ったよ
 **Author:** 仙人@suger (sennin_sugar)
 
-<p>試験運用版仙人おせろ、オンライン対戦しかできないよ。</p><p>(Aiはめんどくさかった)</p>
+試験運用版仙人おせろ、オンライン対戦しかできないよ。
+
+(Aiはめんどくさかった)
 
 [Attachment 1](https://keiziban2.onrender.com)
 
@@ -1267,7 +1462,7 @@
 ### 24. 発狂するゲーム
 **Author:** Shy Ostrich
 
-<p>絶対叫ぶ😱</p>
+絶対叫ぶ😱
 
 [Attachment 1](https://ja.y8.com/games/mess_adventures_official)
 
@@ -1317,7 +1512,7 @@
 ### 27. 立花孝志RPG
 **Author:** Charismatic Shrimp
 
-<p>サイコーにおもろい！</p>
+サイコーにおもろい！
 
 [Attachment 1](https://binjooni.sakura.ne.jp/game/game0003/index.html)
 
@@ -1397,7 +1592,7 @@
 ### 31. パソコンで弾けるピアノサイト
 **Author:** ホワドラガール
 
-<p>たまに人が引いてる時があります</p>
+たまに人が引いてる時があります
 
 [Attachment 1](https://epiano.jp/sp/#main)
 
@@ -1546,7 +1741,13 @@
 ### 1. Shell Shockers
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
-<p>★リンク</p><p><a rel="noopener noreferrer nofollow" href="https://shellshock.io">https://shellshock.io</a></p><p><br></p><p>★ゲーム内容</p><p>卵同士が銃を持って戦うゲーム</p>
+★リンク
+
+[https://shellshock.io](https://shellshock.io)
+
+★ゲーム内容
+
+卵同士が銃を持って戦うゲーム
 
 **投稿の種類:** ゲームの紹介
 
@@ -1567,7 +1768,13 @@
 ### 1. LOLBeans.io
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
-<p>★リンク</p><p><a rel="noopener noreferrer nofollow" href="https://lolbeans.io">https://lolbeans.io</a></p><p><br></p><p>★ゲーム内容</p><p>豆たちがレースするやつ(?)</p>
+★リンク
+
+[https://lolbeans.io](https://lolbeans.io)
+
+★ゲーム内容
+
+豆たちがレースするやつ(?)
 
 #### Reactions
 - **Emojis:** ❤️ (2)
@@ -1584,7 +1791,13 @@
 ### 1. God Field
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
-<p>★リンク</p><p><a rel="noopener noreferrer nofollow" href="https://godfield.net">https://godfield.net</a></p><p><br></p><p>★ゲーム内容</p><p>運95%、実力5%の運ゲーカードゲーム</p>
+★リンク
+
+[https://godfield.net](https://godfield.net)
+
+★ゲーム内容
+
+運95%、実力5%の運ゲーカードゲーム
 
 #### Reactions
 - **Emojis:** ❤️ (2)
@@ -1601,7 +1814,13 @@
 ### 1. Hexanaut.io
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
-<p>★リンク</p><p><a rel="noopener noreferrer nofollow" href="https://hexanaut.io">https://hexanaut.io</a></p><p><br></p><p>★ゲーム内容</p><p>タイルを取り合うゲーム</p>
+★リンク
+
+[https://hexanaut.io](https://hexanaut.io)
+
+★ゲーム内容
+
+タイルを取り合うゲーム
 
 #### Reactions
 - **Emojis:** ❤️ (2)
@@ -1618,7 +1837,19 @@
 ### 1. Bloxd io(マイクラのパクリ)
 **Author:** からあげ (karaagechikin029)
 
-<ul><li><p><a rel="noopener noreferrer nofollow" href="https://bloxd.io/">https://bloxd.io/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://buildhub.club/http://skillhub.vip/">https://buildhub.club/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://buildhub.club/http://skillhub.vip/">http://skillhub.vip/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://classcraft.space/">http://classcraft.space/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://classcraft.site/">http://classcraft.site/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://creativebuilding.site/">http://creativebuilding.site/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="http://collabspace.space/">http://collabspace.space/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://creativebuilding.space/">https://creativebuilding.space/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://unbloxd.com/">https://unbloxd.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://unbloxd.site/">https://unbloxd.site/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://bloxdunblocked.com/">https://bloxdunblocked.com/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://bloxdunblocked.space/">https://bloxdunblocked.space/</a></p></li><li><p><a rel="noopener noreferrer nofollow" href="https://unblockedbloxd.com/">https://unblockedbloxd.com/</a></p></li></ul>
+- [https://bloxd.io/](https://bloxd.io/)
+- [https://buildhub.club/](https://buildhub.club/http://skillhub.vip/)
+- [http://skillhub.vip/](https://buildhub.club/http://skillhub.vip/)
+- [http://classcraft.space/](http://classcraft.space/)
+- [http://classcraft.site/](http://classcraft.site/)
+- [http://creativebuilding.site/](http://creativebuilding.site/)
+- [http://collabspace.space/](http://collabspace.space/)
+- [https://creativebuilding.space/](https://creativebuilding.space/)
+- [https://unbloxd.com/](https://unbloxd.com/)
+- [https://unbloxd.site/](https://unbloxd.site/)
+- [https://bloxdunblocked.com/](https://bloxdunblocked.com/)
+- [https://bloxdunblocked.space/](https://bloxdunblocked.space/)
+- [https://unblockedbloxd.com/](https://unblockedbloxd.com/)
 
 #### Comments (10)
 - **Fancy Jackrabbit** (Jan 26, 2026 12:03am): https://astral-games.onrender.com/gxmes.html新しいゲーム見つけた！
@@ -1644,7 +1875,7 @@
 ### 1. Among Us Scratch
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<p><strong>ゲームの情報はこちら</strong> <a rel="noopener noreferrer nofollow" href="https://padlet.com/Toka_Kun_/breakout-room/65XOvBO6G9oM4GBQ-oAdpz24dgkRJv10R">https://padlet.com/Toka_Kun_/breakout-room/65XOvBO6G9oM4GBQ-oAdpz24dgkRJv10R</a></p>
+**ゲームの情報はこちら** [https://padlet.com/Toka\_Kun\_/breakout-room/65XOvBO6G9oM4GBQ-oAdpz24dgkRJv10R](https://padlet.com/Toka_Kun_/breakout-room/65XOvBO6G9oM4GBQ-oAdpz24dgkRJv10R)
 
 **投稿の種類:** ゲームの紹介
 
@@ -1677,7 +1908,7 @@
 ### 2. 待ち合わせ
 **Author:** Clever Leopard
 
-<p>みんな９時からあそぼ</p>
+みんな９時からあそぼ
 
 **投稿の種類:** ゲームの募集
 
