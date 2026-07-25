@@ -1,4 +1,4 @@
-最終取得: 2026/07/25 20:51:20
+最終取得: 2026/07/25 22:43:10
 
 # 規制解除委員会(ライター受付)
 
@@ -16,7 +16,23 @@
 ### 1. 〜ルール〜
 **Author:** とるっぷい (TORI_TORI2)
 
-<p><br></p><p>・ライターになりたいなら僕のことをフォローしてください。</p><p>・間違ったメルアドを送らないでください。</p><p>・荒らし、過度な暴言は即コメンターです。</p><p>(酷い場合は読者)</p><p>・権限乱用は禁止</p><p>(報告された場合は即コメンター)</p><p>・許可のない宣伝は禁止</p><p>・個人情報の投稿の投稿は禁止</p><p>(投稿を確認したら即BAN&amp;読者)</p>
+・ライターになりたいなら僕のことをフォローしてください。
+
+・間違ったメルアドを送らないでください。
+
+・荒らし、過度な暴言は即コメンターです。
+
+(酷い場合は読者)
+
+・権限乱用は禁止
+
+(報告された場合は即コメンター)
+
+・許可のない宣伝は禁止
+
+・個人情報の投稿の投稿は禁止
+
+(投稿を確認したら即BAN&読者)
 
 #### Comments (8)
 - **ううううんこ💩** (Apr 20, 2026 03:32am): もともとライターだったもりもりもっこりはんです。名前変えましたライターください
@@ -40,7 +56,7 @@
 ### 1. 公式サイト
 **Author:** いときち (HONDA_Believer)
 
-<p>公式サイトだよん</p>
+公式サイトだよん
 
 [Attachment 1](https://kiseikaijo.wixsite.com/kiseikaijocenter)
 
@@ -94,7 +110,7 @@
 ### 5. 夏休みyさーーーー
 **Author:** ぴ
 
-<p>嬉しすぎんだろ</p>
+嬉しすぎんだろ
 
 #### Additional Information
 - **Post color:** Black
@@ -116,9 +132,9 @@
 ### 7. ティックトック
 **Author:** 嶋勇󠄂人 (21920012)
 
-<p><br/></p><p><br/></p>
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1785585114&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=sBjOJT%2BDQEGYBWbnWpMehLkHhgR%2FnrS2EGqlDOp%2B13L9%2FuSVLrN8Tponb5yOfX6E5uvIEGU0rrEXhwWRxcBWJ%2BQzrX5bCrlVroBWn64UaDcDC4hpe16UBJLiED3NrUSzscRy0W8yjt9mqTlRo%2FdL8Ez7gN%2FCh1q8%2BtjKAa8MK1FAVYGZTE6gJy62NfyYuRbECz92Yyg8NqODSNFvpGaETgtX7fNh3PPJ1eY6S3u9VcPjOVPZXwREitLfktR3iEPAWzTTwI3AWeA8V2fCaeCFCZ5094EfhPSV8Qzxqex2wHiRpWGLAtgia3jYomH3DptwNwITmG5N5jQ90Dyd7KBhMw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1785591824&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=XVzcNtkPCImz0wkCce0Feb6w7mCZinO1prToKaIRWSH15RDs9kWoDPkFCsoB5pqzZ8MjqYRT%2FEEuV4N57QDhCCfWYSPykI%2FFir%2F64a7LHFZf48qbRlaQ3iMEut61jqgcVgnyrIJF5ogF%2BuyQY4jdJ9Ef1twVRyza4Y6Q8MLct7k%2BtF6TKixi3tlSfo9HRudr6XjAn7BrhVzQWoM2Qh3zii4WPVH%2Fhqr9NqpVMxayDEaam8lmMkBTA4xgLcrFuCxJswlbMP9iGFVb%2FLHQ3uy7lQAsPknf0JdyGbeOeu1f0RvWUQPkmbcrhxU5ahrba94vY0wkFki62AP9fcQPvuFgWw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -175,7 +191,7 @@
 ### 12. Post 12
 **Author:** ハイノヤマト (se21210122)
 
-<p>こんにちは</p>
+こんにちは
 
 #### Comments (1)
 - **hです** (Jun 29, 2026 06:08am): 学校のipadでゲームってできませんか
@@ -192,7 +208,21 @@
 ### 1. お知らせ
 **Author:** とるっぷい (TORI_TORI2)
 
-<p>規制解除委員会の本部、ライター受付のカバー画像の制作をお願いしています。</p><p>制作して、選手された人には景品があります。</p><p>選出された人にはフォロー、ベルトの手伝い、部屋の宣伝が景品として行われます。</p><p>〈参加賞〉</p><p>選出されなくても送ってくれた人はフォローします。</p><p>※作ったカバー画像は本部の一番右のカバー画像(臨時)というセクションに送ってください。</p><p>〈期限〉</p><p>4月31日　午前10時30分</p>
+規制解除委員会の本部、ライター受付のカバー画像の制作をお願いしています。
+
+制作して、選手された人には景品があります。
+
+選出された人にはフォロー、ベルトの手伝い、部屋の宣伝が景品として行われます。
+
+〈参加賞〉
+
+選出されなくても送ってくれた人はフォローします。
+
+※作ったカバー画像は本部の一番右のカバー画像(臨時)というセクションに送ってください。
+
+〈期限〉
+
+4月31日　午前10時30分
 
 #### Additional Information
 - **Post color:** Black
@@ -214,7 +244,11 @@
 ### 3. 受付(ライター)方法の変更
 **Author:** とるっぷい (TORI_TORI2)
 
-<p>メルアドを別部屋にて添付してください。</p><p>管理者以外が他の人の投稿を確認することはできません。</p><p>→の部屋にてメルアドを投稿してください。</p>
+メルアドを別部屋にて添付してください。
+
+管理者以外が他の人の投稿を確認することはできません。
+
+→の部屋にてメルアドを投稿してください。
 
 #### Comments (8)
 - **わっさん** (Jun 03, 2026 12:54pm): 学校のiPadでYouTube見たいんやけど見れなくて困ってます
@@ -248,7 +282,7 @@
 ### 1. ライターの受付
 **Author:** とるっぷい (TORI_TORI2)
 
-<p>本部のライターの受付です。メルアド添付部屋にてメルアドを添付してください。管理者以外は投稿を確認することはできません。</p>
+本部のライターの受付です。メルアド添付部屋にてメルアドを添付してください。管理者以外は投稿を確認することはできません。
 
 #### Comments (6)
 - **〚KuJiRa〛激低浮上(´・ω・｀)** (May 09, 2026 06:46am): s2000941@g.ueis.ed.jp
@@ -295,7 +329,9 @@
 ### 1. ブラックリスト
 **Author:** とるっぷい (TORI_TORI2)
 
-<p>許可のない宣伝</p><p>荒らし</p>
+許可のない宣伝
+
+荒らし
 
 [Attachment 1](https://padlet.com/tiktok_yuta_ahirukunndayo)
 

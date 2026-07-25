@@ -1,4 +1,4 @@
-最終取得: 2026/07/23 20:25:19
+最終取得: 2026/07/25 22:43:10
 
 # 規制解除解除委員会
 
@@ -36,7 +36,23 @@
 ### 1. 〜ルール〜
 **Author:** とるっぷい (TORI_TORI2)
 
-<p><br/></p><p>・ライターになりたいなら僕のことをフォローしてください。</p><p><br/></p><p>・荒らし、過度な暴言</p><p>(コメンター、酷い場合は読者)</p><p><br/></p><p>・権限乱用は禁止</p><p>(報告された場合は即コメンター)</p><p><br/></p><p>・許可のない宣伝は禁止</p><p>(2回目以降コメンター)</p><p><br/></p><p>・個人情報の投稿の投稿は禁止</p><p>(投稿を確認したら即BAN&amp;読者)</p>
+・ライターになりたいなら僕のことをフォローしてください。
+
+・荒らし、過度な暴言
+
+(コメンター、酷い場合は読者)
+
+・権限乱用は禁止
+
+(報告された場合は即コメンター)
+
+・許可のない宣伝は禁止
+
+(2回目以降コメンター)
+
+・個人情報の投稿の投稿は禁止
+
+(投稿を確認したら即BAN&読者)
 
 #### Additional Information
 - **Created At:** Mar 25, 2026 11:38am
@@ -49,7 +65,19 @@
 ### 1. 説明(部屋を消した理由)
 **Author:** とるっぷい (TORI_TORI2)
 
-<p>くっそ重いファイルを興味本位で前部屋に送ったら開けなくなった…。</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>好奇心からフォーマットをウォールにした…。</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>これが最大のミスだった…。</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>フォーマットが列の時はファイルを送ったセクションがチラ見えするところまで行ったらウェブが再読み込みした…。</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>ウォールにしたら開けなくなった…。</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>削除するか…。</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>(´༎ຶོρ༎ຶོ`)</p>
+くっそ重いファイルを興味本位で前部屋に送ったら開けなくなった…。
+
+好奇心からフォーマットをウォールにした…。
+
+これが最大のミスだった…。
+
+フォーマットが列の時はファイルを送ったセクションがチラ見えするところまで行ったらウェブが再読み込みした…。
+
+ウォールにしたら開けなくなった…。
+
+削除するか…。
+
+(´༎ຶོρ༎ຶོ\`)
 
 #### Comments (4)
 - **ピカチュウかわいいか（matuiriki)** (May 14, 2026 05:43am): い
@@ -102,7 +130,7 @@ No post
 ### 1. Post 1
 **Author:** 中居正広リア充になった。#最近低浮上#エドガーの中指 (nakaisexfriend)
 
-<p><br/></p><p>s2000941@g.ueis.ed.jp</p>
+s2000941@g.ueis.ed.jp
 
 #### Additional Information
 - **Created At:** Jun 19, 2026 12:04am
@@ -115,7 +143,55 @@ No post
 ### 1. わかめtube
 **Author:** とるっぷい (TORI_TORI2)
 
-<p>〈引用元〉</p><p><strong>scratch</strong>から</p><p><strong>scratch-sc-rsa様</strong></p><p><br/></p><p><strong>わかめtube plus</strong></p><p><a rel="noopener noreferrer nofollow" href="https://wkt-scrsa.onthewifi.com/wkt">https://wkt-scrsa.onthewifi.com/wkt</a></p><p><br/></p><p>〈引用元〉</p><p><strong>scratchから</strong></p><p><strong>syokatusakoura様</strong></p><p><br/></p><p><strong>わかめtube plus</strong></p><p><a rel="noopener noreferrer nofollow" href="https://wkt-plus-810.onrender.com">https://wkt-plus-810.onrender.com</a></p><p><br/></p><p><strong>わかめtube normal</strong></p><p><a rel="noopener noreferrer nofollow" href="https://wkt-1919.onrender.com/">https://wkt-1919.onrender.com/</a> </p><p><a rel="noopener noreferrer nofollow" href="https://wkt-114514.onrender.com/">https://wkt-114514.onrender.com/</a> </p><p><a rel="noopener noreferrer nofollow" href="https://wkt-810.onrender.com/wkt">https://wkt-810.onrender.com/wkt</a> </p><p> <a rel="noopener noreferrer nofollow" href="https://wkt-tdn.onrender.com/wkt">https://wkt-tdn.onrender.com/wkt</a> </p><p><a rel="noopener noreferrer nofollow" href="https://wkt-mur.onrender.com/wkt">https://wkt-mur.onrender.com/wkt</a></p><p> <a rel="noopener noreferrer nofollow" href="https://wkt-tky.onrender.com/wkt">https://wkt-tky.onrender.com/wkt</a> </p><p><a rel="noopener noreferrer nofollow" href="https://wkt-aisutelii.onrender.com/wkt">https://wkt-aisutelii.onrender.com/wkt</a></p><p> <a rel="noopener noreferrer nofollow" href="https://wkt-munenikaketemuneni.onrender.com/wkt">https://wkt-munenikaketemuneni.onrender.com/wkt</a> <a rel="noopener noreferrer nofollow" href="https://wkt-kmr.onrender.com/wkt">https://wkt-kmr.onrender.com/wkt</a> </p><p><a rel="noopener noreferrer nofollow" href="https://wkt-soudayo.onrender.com/wkt">https://wkt-soudayo.onrender.com/wkt</a> </p><p><a rel="noopener noreferrer nofollow" href="https://wkt-omaenokotoga.onrender.com/wkt">https://wkt-omaenokotoga.onrender.com/wkt</a> </p><p><a rel="noopener noreferrer nofollow" href="https://wkt-sukidaltutanndayo.onrender.com/wkt">https://wkt-sukidaltutanndayo.onrender.com/wkt</a> </p><p><a rel="noopener noreferrer nofollow" href="https://wkt-tnok.onrender.com/wkt">https://wkt-tnok.onrender.com/wkt</a> </p><p><a rel="noopener noreferrer nofollow" href="https://wkt-ikisugi.onrender.com/wkt">https://wkt-ikisugi.onrender.com/wkt</a> <a rel="noopener noreferrer nofollow" href="https://wkt-oigorala.onrender.com/wkt">https://wkt-oigorala.onrender.com/wkt</a></p><p><a rel="noopener noreferrer nofollow" href="https://wkt-yjsnpi.onrender.com/wkt">https://wkt-yjsnpi.onrender.com/wkt</a></p>
+〈引用元〉
+
+**scratch**から
+
+**scratch-sc-rsa様**
+
+**わかめtube plus**
+
+[https://wkt-scrsa.onthewifi.com/wkt](https://wkt-scrsa.onthewifi.com/wkt)
+
+〈引用元〉
+
+**scratchから**
+
+**syokatusakoura様**
+
+**わかめtube plus**
+
+[https://wkt-plus-810.onrender.com](https://wkt-plus-810.onrender.com)
+
+**わかめtube normal**
+
+[https://wkt-1919.onrender.com/](https://wkt-1919.onrender.com/)
+
+[https://wkt-114514.onrender.com/](https://wkt-114514.onrender.com/)
+
+[https://wkt-810.onrender.com/wkt](https://wkt-810.onrender.com/wkt)
+
+[https://wkt-tdn.onrender.com/wkt](https://wkt-tdn.onrender.com/wkt)
+
+[https://wkt-mur.onrender.com/wkt](https://wkt-mur.onrender.com/wkt)
+
+[https://wkt-tky.onrender.com/wkt](https://wkt-tky.onrender.com/wkt)
+
+[https://wkt-aisutelii.onrender.com/wkt](https://wkt-aisutelii.onrender.com/wkt)
+
+[https://wkt-munenikaketemuneni.onrender.com/wkt](https://wkt-munenikaketemuneni.onrender.com/wkt) [https://wkt-kmr.onrender.com/wkt](https://wkt-kmr.onrender.com/wkt)
+
+[https://wkt-soudayo.onrender.com/wkt](https://wkt-soudayo.onrender.com/wkt)
+
+[https://wkt-omaenokotoga.onrender.com/wkt](https://wkt-omaenokotoga.onrender.com/wkt)
+
+[https://wkt-sukidaltutanndayo.onrender.com/wkt](https://wkt-sukidaltutanndayo.onrender.com/wkt)
+
+[https://wkt-tnok.onrender.com/wkt](https://wkt-tnok.onrender.com/wkt)
+
+[https://wkt-ikisugi.onrender.com/wkt](https://wkt-ikisugi.onrender.com/wkt) [https://wkt-oigorala.onrender.com/wkt](https://wkt-oigorala.onrender.com/wkt)
+
+[https://wkt-yjsnpi.onrender.com/wkt](https://wkt-yjsnpi.onrender.com/wkt)
 
 #### Additional Information
 - **Created At:** Apr 12, 2026 10:46am
@@ -128,7 +204,25 @@ No post
 ### 1. チョコtube
 **Author:** とるっぷい (TORI_TORI2)
 
-<p>〈引用元〉</p><p><strong>scratch</strong>から</p><p><strong>scratch-sc-rsa様</strong></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://choco-tube-scrsa.onrender.com">https://choco-tube-scrsa.onrender.com</a></p><p><br/></p><p>〈引用元〉</p><p><strong>scratch</strong>から</p><p><strong>wocboc6様</strong></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://choco-wocboc6-nzqk.onrender.com/">https://choco-wocboc6-nzqk.onrender.com/</a></p><p><br/></p><p><strong>password</strong></p><p><strong>choco</strong></p><p><br/></p>
+〈引用元〉
+
+**scratch**から
+
+**scratch-sc-rsa様**
+
+[https://choco-tube-scrsa.onrender.com](https://choco-tube-scrsa.onrender.com)
+
+〈引用元〉
+
+**scratch**から
+
+**wocboc6様**
+
+[https://choco-wocboc6-nzqk.onrender.com/](https://choco-wocboc6-nzqk.onrender.com/)
+
+**password**
+
+**choco**
 
 #### Additional Information
 - **Created At:** Apr 12, 2026 10:59am
@@ -141,7 +235,21 @@ No post
 ### 1. しあtune
 **Author:** とるっぷい (TORI_TORI2)
 
-<p>〈引用元〉</p><p><strong>scratch</strong>から</p><p><strong>703hama-2-様</strong></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwVq7TVhbGdf-CMhPIJiCnH04IfV4_usixH7RR9rFJVVAxk01TgUYTvphXt4UUccMFdxA/exec">https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwVq7TVhbGdf-CMhPIJiCnH04IfV4_usixH7RR9rFJVVAxk01TgUYTvphXt4UUccMFdxA/exec</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwnnX1oUN36dVm_EtNjWRVh3r0p4unBYujCLhVIg3z4rPPHLVvNpQC1ZzZT7z0Jimec7g/exec">https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwnnX1oUN36dVm_EtNjWRVh3r0p4unBYujCLhVIg3z4rPPHLVvNpQC1ZzZT7z0Jimec7g/exec</a></p><p><br/></p><p><a rel="noopener noreferrer nofollow" href="https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwNjRZQBrOtsa7R4GFBgrbC19caz3lAAWPIXexUNofGvFe_cpnTAQU1fsHbAwAvMTZe_Q/exec">https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwNjRZQBrOtsa7R4GFBgrbC19caz3lAAWPIXexUNofGvFe_cpnTAQU1fsHbAwAvMTZe_Q/exec</a></p><p><br/></p><p>文字数制限により載せられなかった分はこちらにあります。</p><p><a rel="noopener noreferrer nofollow" href="https://scratch.mit.edu/projects/1273960008/editor/">https://scratch.mit.edu/projects/1273960008/editor/</a></p>
+〈引用元〉
+
+**scratch**から
+
+**703hama-2-様**
+
+[https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwVq7TVhbGdf-CMhPIJiCnH04IfV4\_usixH7RR9rFJVVAxk01TgUYTvphXt4UUccMFdxA/exec](https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwVq7TVhbGdf-CMhPIJiCnH04IfV4_usixH7RR9rFJVVAxk01TgUYTvphXt4UUccMFdxA/exec)
+
+[https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwnnX1oUN36dVm\_EtNjWRVh3r0p4unBYujCLhVIg3z4rPPHLVvNpQC1ZzZT7z0Jimec7g/exec](https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwnnX1oUN36dVm_EtNjWRVh3r0p4unBYujCLhVIg3z4rPPHLVvNpQC1ZzZT7z0Jimec7g/exec)
+
+[https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwNjRZQBrOtsa7R4GFBgrbC19caz3lAAWPIXexUNofGvFe\_cpnTAQU1fsHbAwAvMTZe\_Q/exec](https://script.google.com/a/macros/manabi.city.fukuyama.hiroshima.jp/s/AKfycbwNjRZQBrOtsa7R4GFBgrbC19caz3lAAWPIXexUNofGvFe_cpnTAQU1fsHbAwAvMTZe_Q/exec)
+
+文字数制限により載せられなかった分はこちらにあります。
+
+[https://scratch.mit.edu/projects/1273960008/editor/](https://scratch.mit.edu/projects/1273960008/editor/)
 
 #### Comments (1)
 - **おおぬき** (Jul 08, 2026 04:59am): [Attachment](https://padlet.com/TORI_TORI2/padlet-g07iihoi22rh2q7l/wish/lkROZPprvLOOZjMg) カスタムエンドスポンドのURLを開いたときに教育委員会のセキュリティによってブロックされます。突破の方法を教えてください
@@ -157,7 +265,27 @@ No post
 ### 1. Min-tube-pro
 **Author:** とるっぷい (TORI_TORI2)
 
-<p>(引用元)</p><p><strong>scratchから</strong></p><p><strong>mino-hobby-pro様</strong></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://donut.linco.cl">https://donut.linco.cl</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://min-pro.duckdns.org">https://min-pro.duckdns.org</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://nasa.linco.cl/">https://nasa.linco.cl/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://teach-english.onrender.com/">https://teach-english.onrender.com/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://land.linco.cl">https://land.linco.cl</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://fun-study-t3s4.onrender.com">https://fun-study-t3s4.onrender.com</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://fun-study-t3s4.onrender.com">https://fun-study-t3s4.onrender.com</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://min-tube-pro.vercel.app">https://min-tube-pro.vercel.app</a></p>
+(引用元)
+
+**scratchから**
+
+**mino-hobby-pro様**
+
+[https://donut.linco.cl](https://donut.linco.cl)
+
+[https://min-pro.duckdns.org](https://min-pro.duckdns.org)
+
+[https://nasa.linco.cl/](https://nasa.linco.cl/)
+
+[https://teach-english.onrender.com/](https://teach-english.onrender.com/)
+
+[https://land.linco.cl](https://land.linco.cl)
+
+[https://fun-study-t3s4.onrender.com](https://fun-study-t3s4.onrender.com)
+
+[https://fun-study-t3s4.onrender.com](https://fun-study-t3s4.onrender.com)
+
+[https://min-tube-pro.vercel.app](https://min-tube-pro.vercel.app)
 
 #### Additional Information
 - **Created At:** Apr 16, 2026 12:24pm
@@ -170,7 +298,57 @@ No post
 ### 1. プロキシ
 **Author:** とるっぷい (TORI_TORI2)
 
-<p>〈引用元〉</p><p><strong>scratch</strong>から</p><p><strong>ozo_panda1215様</strong></p><p><br/></p><p><strong>インターテスラー</strong></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar-nana.hospitaldelninodif.gob.mx/">https://interstellar-nana.hospitaldelninodif.gob.mx/</a></p><p><br/></p><p>〈引用元〉</p><p><strong>scratch</strong>から</p><p><strong>scratch-sc-rsa様</strong></p><p><br/></p><p><strong>シャドウ</strong></p><p><a rel="noopener noreferrer nofollow" href="https://scrsa.wikilegia.com">https://scrsa.wikilegia.com</a></p><p><br/></p><p>〈引用元〉</p><p><strong>scratch</strong>から</p><p><strong>nana_0227様</strong></p><p><br/></p><p><strong>ddx</strong></p><p><a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.bringmespiderman.pictures/">https://ddx.v2.nana.bringmespiderman.pictures/</a> <a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.classattack.de/">https://ddx.v2.nana.classattack.de/</a> <a rel="noopener noreferrer nofollow" href="https://ddx.v2.nana.ircnet.cafe/">https://ddx.v2.nana.ircnet.cafe/</a></p><p><br/></p><p>〈引用元〉</p><p><strong>scratch</strong>から</p><p><strong>Iei---trumpet様</strong></p><p><br/></p><p><strong>utopia</strong></p><p>https<a rel="noopener noreferrer nofollow" href="https://utopia.iei---trumpet-0006.dinprima.ro/">://utopia.iei---trumpet-0006.dinprima.ro/</a> <a rel="noopener noreferrer nofollow" href="https://utopia.iei---trumpet-0007.dinprima.ro/">https://utopia.iei---trumpet-0007.dinprima.ro/</a> <a rel="noopener noreferrer nofollow" href="https://utopia.iei---trumpet-0008.dinprima.ro/">https://utopia.iei---trumpet-0008.dinprima.ro/</a> </p><p> </p><p><strong>ddx.v2</strong></p><p><a rel="noopener noreferrer nofollow" href="https://utopia.iei---trumpet-0007.dinprima.ro/">https:/</a>/<a rel="noopener noreferrer nofollow" href="https://daydreamx.v2.iei---trumpet-0006.dinprima.ro/">daydreamx.v2.iei---trumpet-0006.dinprima.ro/</a></p><p><br/></p><p> <strong>rummer</strong></p><p><a rel="noopener noreferrer nofollow" href="https://rummer.iei---trumpet-0003.dinprima.ro/">https://rummer.iei---trumpet-0003.dinprima.ro/</a> <a rel="noopener noreferrer nofollow" href="https://rummer.iei---trumpet-0004.dinprima.ro/">https://rummer.iei---trumpet-0004.dinprima.ro/</a> <a rel="noopener noreferrer nofollow" href="https://rummer.iei---trumpet-0005.dinprima.ro/">https://rummer.iei---trumpet-0005.dinprima.ro/</a></p><p>  </p><p><strong>インターテスラー</strong></p><p><a rel="noopener noreferrer nofollow" href="https://interstellar.iei---trumpet-0005.dinprima.ro/">https://interstellar.iei---trumpet-0005.dinprima.ro/</a> <a rel="noopener noreferrer nofollow" href="https://interstellar.iei---trumpet-0006.dinprima.ro/">https://interstellar.iei---trumpet-0006.dinprima.ro/</a></p>
+〈引用元〉
+
+**scratch**から
+
+**ozo\_panda1215様**
+
+**インターテスラー**
+
+[https://interstellar-nana.hospitaldelninodif.gob.mx/](https://interstellar-nana.hospitaldelninodif.gob.mx/)
+
+〈引用元〉
+
+**scratch**から
+
+**scratch-sc-rsa様**
+
+**シャドウ**
+
+[https://scrsa.wikilegia.com](https://scrsa.wikilegia.com)
+
+〈引用元〉
+
+**scratch**から
+
+**nana\_0227様**
+
+**ddx**
+
+[https://ddx.v2.nana.bringmespiderman.pictures/](https://ddx.v2.nana.bringmespiderman.pictures/) [https://ddx.v2.nana.classattack.de/](https://ddx.v2.nana.classattack.de/) [https://ddx.v2.nana.ircnet.cafe/](https://ddx.v2.nana.ircnet.cafe/)
+
+〈引用元〉
+
+**scratch**から
+
+**Iei---trumpet様**
+
+**utopia**
+
+https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-0006.dinprima.ro/) [https://utopia.iei---trumpet-0007.dinprima.ro/](https://utopia.iei---trumpet-0007.dinprima.ro/) [https://utopia.iei---trumpet-0008.dinprima.ro/](https://utopia.iei---trumpet-0008.dinprima.ro/)
+
+**ddx.v2**
+
+[https:/](https://utopia.iei---trumpet-0007.dinprima.ro/)/[daydreamx.v2.iei---trumpet-0006.dinprima.ro/](https://daydreamx.v2.iei---trumpet-0006.dinprima.ro/)
+
+**rummer**
+
+[https://rummer.iei---trumpet-0003.dinprima.ro/](https://rummer.iei---trumpet-0003.dinprima.ro/) [https://rummer.iei---trumpet-0004.dinprima.ro/](https://rummer.iei---trumpet-0004.dinprima.ro/) [https://rummer.iei---trumpet-0005.dinprima.ro/](https://rummer.iei---trumpet-0005.dinprima.ro/)
+
+**インターテスラー**
+
+[https://interstellar.iei---trumpet-0005.dinprima.ro/](https://interstellar.iei---trumpet-0005.dinprima.ro/) [https://interstellar.iei---trumpet-0006.dinprima.ro/](https://interstellar.iei---trumpet-0006.dinprima.ro/)
 
 #### Additional Information
 - **Created At:** Apr 12, 2026 10:56am
