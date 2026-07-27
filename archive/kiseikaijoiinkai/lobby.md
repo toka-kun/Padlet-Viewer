@@ -1,4 +1,4 @@
-最終取得: 2026/07/27 08:41:03
+最終取得: 2026/07/27 09:02:47
 
 # 規制解除委員会(ライター受付)
 
@@ -134,7 +134,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1785714098&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GKcX5PpzkSr40lwCJ1cmgu9ejPMwMJekhSBIOaF0bXTxtzf91LotIBm6tLqOyBbdIy94vbMadqud9m%2BgPUMW6HhMsSZ5cTFgVdMfO%2BlRm0FBs8NWnI5%2FMBm6B3JZDTHjAbf1vJ%2BW5BlULCAGrrDLaEn4vRo9mLrXfnmBFOEDhG2jXAxehSWjpvV%2BW1trCMocskutTVoRaSkgI%2Bki37%2FUqlmstBlximqrzP55bYYicx5iC4nGUx9VzIo8Jdw5dakl3ZwUdyNmFmmvG5kJgVN7Ar0RoqQlBlsjQiCY1IS5nCt4469zig8V4RRumxCymN43hyqR0gWC3%2BL7hbXEgHTBVQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1785715402&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=L8V1VCy6%2B2sJ9xnY6nL616hhZaSgzQInOqng4RLCs9f9PjHf1XTcSj%2FooVVLnchilwuLVBmjRDSoeijzx0lDtyZjRQGG0LdTUzdBIQLkIsBuT17WE1z%2FsPxOiHk1GkEMUlpaq3VTQsL91P90DTEoNLrBG%2FZCnZm0yiQmTWZb1uLrGqv%2Bs5iiOvJ6oz6TbPLggAF7QUUgHdlE2mJEWD2Qccb%2Fxk%2BTYwKvnAT%2Fpg8ybfMSkIXGDl37utwyksJeD6k340ujTY2XJXvTNP2v1JTB%2FsJNfzNbHBSm5Cs%2F010ErgOUQigtd1S3Q7hFyghJ47OqpuqKgpgPy9Shb55w5KsxBw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -366,9 +366,9 @@ No post
 ### 1. Post 1
 **Author:** えろい写真ならたぁくさんとるよ？❤
 
-![Attachment 1](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/5b52c95bef1e316f24d02aff290588f2/image.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiKODDkaUHvSHRKVnUA3vW0A7Yaom2nXEVoIVvCrg2oui_doTIcIq4lKY0d2XFo9w9sGsD3hMAxs8P2EyjfDm0n0KND1vbr6PSXBXZrt1nn4iw==)
-![Attachment 2](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/fbe956a50395eddb432858624623e83b/Screenshot_2026_07_22_09_44_32.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiKALSBU_gPTEmYx2-MDaIiyraAyruNaqQ0kQo9zr_R7T33d8Y7vRZU_kE9I2LtEXjvZSlwSoILZmWaSTLZuZs3WzgKOSsqJHDNU-_Wp1pa0s0BTdArfIVMjAV-nmZlqCwCAv3NepwywMDDdgu_N0sTn)
-![Attachment 3](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/dd877d5d3fae9a2d173a520c0dd2f0c6/Screenshot_2026_07_22_09_47_03.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiIGknPjRPrztTfmbpfXhqU3bCvT35QhfuVkYtxpaNmMjcF2DVwrxAbEY1PCcSltCSGuc2FJaRPtMjH2-fusPYtMbhKjLsiCDvzmDkjejxgAA9SNNY5Nv5CxJ95GAKNNcKwJIq8BXfxWOsuPwP04fNnc)
+![Attachment 1](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/5b52c95bef1e316f24d02aff290588f2/image.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiKODDkaUHvSHRKVnUA3vW0A7Yaom2nXEVoIVvCrg2oui_doTIcIq4lKY0d2XFo9w9vFII2FF80UGW_Sztk8d9wCkR7w8w1CL2-g2smRlE9HsA==)
+![Attachment 2](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/fbe956a50395eddb432858624623e83b/Screenshot_2026_07_22_09_44_32.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiKALSBU_gPTEmYx2-MDaIiyraAyruNaqQ0kQo9zr_R7T33d8Y7vRZU_kE9I2LtEXjvZSlwSoILZmWaSTLZuZs3WzgKOSsqJHDNU-_Wp1pa0syEzvLwdagead-6gF4WcE6wqc5t1YQtzCOCivot10HKt)
+![Attachment 3](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/dd877d5d3fae9a2d173a520c0dd2f0c6/Screenshot_2026_07_22_09_47_03.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiIGknPjRPrztTfmbpfXhqU3bCvT35QhfuVkYtxpaNmMjcF2DVwrxAbEY1PCcSltCSGuc2FJaRPtMjH2-fusPYtMbhKjLsiCDvzmDkjejxgAA4L6ExVYb7L0nwir9fmqoAisnNMjbuOn8txbH8RbWQO1)
 
 #### Additional Information
 - **Post color:** Black
