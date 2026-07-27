@@ -1,44 +1,53 @@
-最終取得: 2026/07/25 10:12:42
+最終取得: 2026/07/27 16:46:45
 
 # Padletポータルワールド
 
 お気に入りの部屋を見つけよう！Padletの各部屋を繋ぐ、現役最大の宣伝部屋です。ベル🔔ボタンからこの部屋をフォローすると新しい部屋に関する通知が来るようになります。
 
-## 要約
-- **リンク:** https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd
-- **所有者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **投稿:** 150
-- **Created At:** 08/31 08:58
-- **Updated At:** 07/24 11:01
+## Summary
+- **Link:** https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd
+- **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+- **Posts:** 150
+- **Created At:** Aug 31, 2025 08:58am
+- **Updated At:** Jul 27, 2026 06:18am
 
 ## 部屋はこの下のセクションに投稿されます。
 
 ### 1. 注意点
-**作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<ul><li><p><strong><mark>自分の部屋のみ</mark>投稿して下さい。</strong></p></li><li><p><strong>自分の部屋であれば複数<mark>投稿してもOK</mark>です。</strong></p></li><li><p><strong>時間が経って自分の投稿が埋もれてしまっても、<mark>一週間経てば同じ部屋を再投稿可能</mark>です。また、その場合は管理者が過去の同じ投稿を消しておきます。</strong></p></li><li><p><strong>Padletの規約に反する部屋や、こちらで不適切だと判断した投稿は見つけ次第削除します。</strong></p></li><li><p><strong>多少の誤字などであればこちらで修正します。</strong></p></li><li><p><strong>AIに引っ掛かって承認待ちになっても人の目でもう一度確認するので安心して下さい。</strong></p></li><li><p><strong>「過疎ってるから来て」などと言うのではなく、<mark>その部屋の良さを誠実に書いた方が人は来てくれます</mark>。</strong></p></li><li><p><strong>何を書けば良いのか分からない場合は、サンプルを参考にして下さい。</strong></p></li></ul>
+- **自分の部屋のみ投稿して下さい。**
+- **自分の部屋であれば複数投稿してもOKです。**
+- **時間が経って自分の投稿が埋もれてしまっても、一週間経てば同じ部屋を再投稿可能です。また、その場合は管理者が過去の同じ投稿を消しておきます。**
+- **Padletの規約に反する部屋や、こちらで不適切だと判断した投稿は見つけ次第削除します。**
+- **多少の誤字などであればこちらで修正します。**
+- **AIに引っ掛かって承認待ちになっても人の目でもう一度確認するので安心して下さい。**
+- **「過疎ってるから来て」などと言うのではなく、その部屋の良さを誠実に書いた方が人は来てくれます。**
+- **何を書けば良いのか分からない場合は、サンプルを参考にして下さい。**
 
-#### コメント (1)
-- **バグった人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩** (06/19 23:54): わかりました！
+#### Comments (1)
+- **バグった人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩** (Jun 19, 2026 11:54pm): わかりました！
 
-#### リアクション
-- **絵文字:** ❤️ (5)
+#### Reactions
+- **Emojis:** ❤️ (6)
 
-#### その他の情報
-- **投稿のカラー:** レッド
-- **Created At:** 05/21 07:27
-- **Updated At:** 05/21 07:27
+#### Additional Information
+- **Post color:** Red
+- **Created At:** May 21, 2026 07:27am
+- **Updated At:** May 21, 2026 07:27am
 
 ---
 
 ### 2. （サンプル）プロキシのリンクやYouTubeの閲覧方法を共有する会
-**作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<ul><li><p><strong>日本最大級のプロキシ部屋</strong></p></li><li><p><strong>有名なあのサイトから、誰も知らないマイナーなサイトまでを幅広く網羅！</strong></p></li><li><p><strong>投稿やコメントは全てAIが審査してくれるので、誰でも安心して参加できる！</strong></p></li></ul>
+- **日本最大級のプロキシ部屋**
+- **有名なあのサイトから、誰も知らないマイナーなサイトまでを幅広く網羅！**
+- **投稿やコメントは全てAIが審査してくれるので、誰でも安心して参加できる！**
 
 **受付部屋のリンク（あれば）:** https://padlet.com/Toka_Kun_/breakout-room/ke9Kqzb5L9O9qYQG-oAdpz24dgkRJv10R
 
-**部屋の作成日:** 8月 21, 2024
+**部屋の作成日:** August 21, 2024
 
 **閲覧数:** 250,000~499,999
 
@@ -46,46 +55,56 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/a8v7cjbbfni702kg)
+[Attachment 1](https://padlet.com/padlets/a8v7cjbbfni702kg)
 
-#### リアクション
-- **絵文字:** ❤️ (8)
+#### Reactions
+- **Emojis:** ❤️ (8)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/21 07:26
-- **Updated At:** 06/29 08:42
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 21, 2026 07:26am
+- **Updated At:** Jun 29, 2026 08:42am
 
 ---
 
 ### 3. ここから誰でも簡単に投稿できます！
-**作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-<p><strong>↑これを押して自分の部屋を出展しよう！</strong></p>
+**↑これを押して自分の部屋を出展しよう！**
 
-[添付ファイル 1](https://padlet.com/Toka_Kun_/submission-request/k2qlv3RKMKOnX5Rx?section=317262857)
+[Attachment 1](https://padlet.com/Toka_Kun_/submission-request/k2qlv3RKMKOnX5Rx?section=317262857)
 
-#### コメント (1)
-- **カゲ○** (05/24 04:43): おー
+#### Comments (1)
+- **カゲ○** (May 24, 2026 04:43am): おー
 
-#### リアクション
-- **絵文字:** ❤️ (6)
+#### Reactions
+- **Emojis:** ❤️ (6)
 
-#### その他の情報
-- **投稿のカラー:** レッド
-- **Created At:** 05/21 07:28
-- **Updated At:** 05/21 07:28
+#### Additional Information
+- **Post color:** Red
+- **Created At:** May 21, 2026 07:28am
+- **Updated At:** May 21, 2026 07:28am
 
 ---
 
 ## Padletポータルワールド
 
 ### 1. Alcatraz - I FILTER監視塔
-**作成者:** guruma_ESTA (guruma_ESTA)
+**Author:** guruma_ESTA (guruma_ESTA)
 
-<p><strong>Alcatraz - I FILTER監視塔</strong></p><p><br/></p><p>I FILTER民によるI FILTER回避のための部屋。</p><p>・高頻度更新！</p><p>・すべて動作確認済み！</p><p>・豊富なサイト・ツール</p><p>・投稿はすべて第3者によって検閲済み！</p>
+**Alcatraz - I FILTER監視塔**
 
-**部屋の作成日:** 3月 20, 2026
+I FILTER民によるI FILTER回避のための部屋。
+
+・高頻度更新！
+
+・すべて動作確認済み！
+
+・豊富なサイト・ツール
+
+・投稿はすべて第3者によって検閲済み！
+
+**部屋の作成日:** March 20, 2026
 
 **閲覧数:** 2,500~4,999
 
@@ -93,21 +112,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/m15z6oinkafsrjlb)
+[Attachment 1](https://padlet.com/padlets/m15z6oinkafsrjlb)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/23 13:21
-- **Updated At:** 07/23 22:07
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 23, 2026 01:21pm
+- **Updated At:** Jul 23, 2026 10:07pm
 
 ---
 
 ### 2. 嵐がらぶっがずずまずだ（喉の調子がよろしくない）
-**作成者:** hirafu (hirafu)
+**Author:** hirafu (hirafu)
 
-<p>みんなぎでね</p><p>探してほしいサイト探すよ</p>
+みんなぎでね
 
-**部屋の作成日:** 8月 27, 2025
+探してほしいサイト探すよ
+
+**部屋の作成日:** August 27, 2025
 
 **閲覧数:** 2,500~4,999
 
@@ -115,21 +136,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/iljjktqmuxyfh7xk)
+[Attachment 1](https://padlet.com/padlets/iljjktqmuxyfh7xk)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/22 02:25
-- **Updated At:** 07/23 08:14
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 22, 2026 02:25am
+- **Updated At:** Jul 23, 2026 08:14am
 
 ---
 
 ### 3. ロブロックス民入って
-**作成者:** 陰陽 (YinYang_YinYang)
+**Author:** ☯陰陽☯ (PERFECTorPERFECT)
 
-<p>捨て部屋（笑）</p>
+捨て部屋（笑）
 
-**部屋の作成日:** 6月  8, 2026
+**部屋の作成日:** June  8, 2026
 
 **閲覧数:** ~499
 
@@ -137,21 +158,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/bbkde4do9v0dveji)
+[Attachment 1](https://padlet.com/padlets/bbkde4do9v0dveji)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/22 00:30
-- **Updated At:** 07/23 08:14
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 22, 2026 12:30am
+- **Updated At:** Jul 23, 2026 08:14am
 
 ---
 
 ### 4. ペイペイ
-**作成者:** 陰陽 (YinYang_YinYang)
+**Author:** ☯陰陽☯ (PERFECTorPERFECT)
 
-<p>雑談部屋</p>
+雑談部屋
 
-**部屋の作成日:** 6月  7, 2026
+**部屋の作成日:** June  7, 2026
 
 **閲覧数:** ~499
 
@@ -159,21 +180,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/gn1ngvojlttxlrkn)
+[Attachment 1](https://padlet.com/padlets/gn1ngvojlttxlrkn)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/22 00:29
-- **Updated At:** 07/23 08:15
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 22, 2026 12:29am
+- **Updated At:** Jul 23, 2026 08:15am
 
 ---
 
 ### 5. 電卓
-**作成者:** 𝓎𝓊𝓂𝒶ʕ·ᴥ·ʔ𝒷ℯ𝒶𝓇𐬹꧂＠ペア画募集 (gs183556)
+**Author:** 𝓎𝓊𝓂𝒶ʕ·ᴥ·ʔ𝒷ℯ𝒶𝓇𐬹꧂ (gs183556)
 
-<p>みんな優しいです</p>
+みんな優しいです
 
-**部屋の作成日:** 6月 21, 2026
+**部屋の作成日:** June 21, 2026
 
 **閲覧数:** 2,500~4,999
 
@@ -181,21 +202,21 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/aoti3d765w4dqtkp)
+[Attachment 1](https://padlet.com/padlets/aoti3d765w4dqtkp)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/21 11:54
-- **Updated At:** 07/23 08:15
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 21, 2026 11:54am
+- **Updated At:** Jul 23, 2026 08:15am
 
 ---
 
 ### 6. kitene 
-**作成者:** Mr.マッチョ (takuankirai)
+**Author:** Mr.マッチョ (takuankirai)
 
-<p>まだまだできたてホヤホヤだからほとんど乗ってないプロキシ部屋</p>
+まだまだできたてホヤホヤだからほとんど乗ってないプロキシ部屋
 
-**部屋の作成日:** 7月 21, 2026
+**部屋の作成日:** July 21, 2026
 
 **閲覧数:** ~499
 
@@ -203,21 +224,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/takuankirai/padlet-rnx93zpxpynit1o8)
+[Attachment 1](https://padlet.com/takuankirai/padlet-rnx93zpxpynit1o8)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/21 04:25
-- **Updated At:** 07/23 08:15
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 21, 2026 04:25am
+- **Updated At:** Jul 23, 2026 08:15am
 
 ---
 
 ### 7. I-filterを回避して教育委員会に対抗する会
-**作成者:** Honda (Hondacars1788)
+**Author:** Honda (Hondacars1788)
 
-<p>この部屋にはゲームやダウンローダー、プロキシなどがあります</p>
+この部屋にはゲームやダウンローダー、プロキシなどがあります
 
-**部屋の作成日:** 7月 15, 2026
+**部屋の作成日:** July 15, 2026
 
 **閲覧数:** ~499
 
@@ -225,21 +246,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/pxpls5zlf5duyl8u)
+[Attachment 1](https://padlet.com/padlets/pxpls5zlf5duyl8u)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/15 06:46
-- **Updated At:** 07/16 08:17
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 15, 2026 06:46am
+- **Updated At:** Jul 16, 2026 08:17am
 
 ---
 
 ### 8. プロフィール広場
-**作成者:** れあ #𝕶族3代目 (tssv)
+**Author:** れあ #𝕶族3代目 (tssv)
 
-<p>皆の自己紹介を集めたいだけの部屋です！！！</p>
+皆の自己紹介を集めたいだけの部屋です！！！
 
-**部屋の作成日:** 7月 13, 2026
+**部屋の作成日:** July 13, 2026
 
 **閲覧数:** ~499
 
@@ -247,21 +268,25 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/tyqmwxabj56q0wft)
+[Attachment 1](https://padlet.com/padlets/tyqmwxabj56q0wft)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/14 13:55
-- **Updated At:** 07/16 08:17
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 14, 2026 01:55pm
+- **Updated At:** Jul 16, 2026 08:17am
 
 ---
 
 ### 9. penguin部屋
-**作成者:** 瑠るる　　＃2周年突破 (takakuzyakukondoru)
+**Author:** るるる (takakuzyakukondoru)
 
-<p>・雑談のバリエーションが多い</p><p>・宣伝自由、フォロパ受付⭕️</p><p>公開ライター。匿名は入れません。</p><p><br/></p>
+・雑談のバリエーションが多い
 
-**部屋の作成日:** 7月 14, 2026
+・宣伝自由、フォロパ受付⭕️
+
+公開ライター。匿名は入れません。
+
+**部屋の作成日:** July 14, 2026
 
 **閲覧数:** ~499
 
@@ -269,21 +294,21 @@
 
 **モデレーター数:** 10~
 
-[添付ファイル 1](https://padlet.com/padlets/5k56chp8bo2ut12z)
+[Attachment 1](https://padlet.com/padlets/5k56chp8bo2ut12z)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/14 10:47
-- **Updated At:** 07/16 08:17
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 14, 2026 10:47am
+- **Updated At:** Jul 16, 2026 08:17am
 
 ---
 
 ### 10. とにかく集まれえええええええええええええええええええええええ
-**作成者:** 閃光☆ (tqu)
+**Author:** 閃光☆ (tqu)
 
-<p>閲覧数2000突破！荒らしで放置してたからぜひ一度は来てね！</p>
+閲覧数2000突破！荒らしで放置してたからぜひ一度は来てね！
 
-**部屋の作成日:** 5月 21, 2026
+**部屋の作成日:** May 21, 2026
 
 **閲覧数:** 1000~2499
 
@@ -291,21 +316,31 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/kifyr9k4ilhwq3yf)
+[Attachment 1](https://padlet.com/padlets/kifyr9k4ilhwq3yf)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/12 22:16
-- **Updated At:** 07/12 22:50
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 12, 2026 10:16pm
+- **Updated At:** Jul 12, 2026 10:50pm
 
 ---
 
 ### 11. toriproZ本部
-**作成者:** とりもも🐣🥚　＠toriproZ　＠Blitz 本部　＠Vertex　＠Limitless (tori3proxyZtyper)
+**Author:** とりもも🐣🥚　＠toriproZ　＠Blitz 本部　＠Limitless　＠TACHON (tori3proxyZtyper)
 
-<p>タイピング練習を主目的としたチームです。</p><p>タイピングが速くなりたい人、タイピングが速い人などにぜひ来てほしいです。</p><p>タイピングサイトAnkeyを中心とした活動を行っており、メンバーも全員優しく個性豊かで、近いうちにYoutubeへの活動範囲の拡大を予定しています。</p><p>現在メンバーは３０人</p><p>この本部自体もAIがコメントや投稿などをチェックしてくれるので安心して、活動することができます。</p><p>※荒らしは来ないでね</p>
+タイピング練習を主目的としたチームです。
 
-**部屋の作成日:** 5月 18, 2026
+タイピングが速くなりたい人、タイピングが速い人などにぜひ来てほしいです。
+
+タイピングサイトAnkeyを中心とした活動を行っており、メンバーも全員優しく個性豊かで、近いうちにYoutubeへの活動範囲の拡大を予定しています。
+
+現在メンバーは３０人
+
+この本部自体もAIがコメントや投稿などをチェックしてくれるので安心して、活動することができます。
+
+※荒らしは来ないでね
+
+**部屋の作成日:** May 18, 2026
 
 **閲覧数:** 500~999
 
@@ -313,23 +348,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/i9rg7dpzmrlc7n2s)
+[Attachment 1](https://padlet.com/padlets/i9rg7dpzmrlc7n2s)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/12 14:41
-- **Updated At:** 07/12 22:50
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 12, 2026 02:41pm
+- **Updated At:** Jul 12, 2026 10:50pm
 
 ---
 
 ### 12. ［野球ファンが集う写真の投稿場所］
-**作成者:** ななちき (19jn049)
+**Author:** ななちき (19jn049)
 
-<p>野球の写真をたくさん載せているのでぜひ来てください！</p>
+野球の写真をたくさん載せているのでぜひ来てください！
 
 **受付部屋のリンク（あれば）:** https://padlet.com/19jn049/padlet-56u16c43m4cwgz39
 
-**部屋の作成日:** 7月 12, 2026
+**部屋の作成日:** July 12, 2026
 
 **閲覧数:** ~499
 
@@ -337,23 +372,27 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/56u16c43m4cwgz39)
+[Attachment 1](https://padlet.com/padlets/56u16c43m4cwgz39)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/12 11:59
-- **Updated At:** 07/12 22:50
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 12, 2026 11:59am
+- **Updated At:** Jul 12, 2026 10:50pm
 
 ---
 
 ### 13. 江戸広場 雑談
-**作成者:** Magurock (偽物･偽造に注意) (Magurock)
+**Author:** Magurock (偽物･偽造に注意) (Magurock)
 
-<p>新規も初心者も大歓迎！</p><p><mark>人はまあまあいます。平和です。</mark></p><p>2026年7月に1周年達成!</p>
+新規も初心者も大歓迎！
+
+人はまあまあいます。平和です。
+
+2026年7月に1周年達成!
 
 **受付部屋のリンク（あれば）:** https://padlet.com/edodaze/padlet-n4y0az1x3mlvs5g3
 
-**部屋の作成日:** 7月 16, 2025
+**部屋の作成日:** July 16, 2025
 
 **閲覧数:** 2,500~4,999
 
@@ -361,21 +400,21 @@
 
 **モデレーター数:** 10~
 
-[添付ファイル 1](https://padlet.com/padlets/c4kwgwrmthnbewap)
+[Attachment 1](https://padlet.com/padlets/c4kwgwrmthnbewap)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/12 11:47
-- **Updated At:** 07/12 22:50
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 12, 2026 11:47am
+- **Updated At:** Jul 12, 2026 10:50pm
 
 ---
 
 ### 14. classroom
-**作成者:** 𝓎𝓊𝓂𝒶ʕ·ᴥ·ʔ𝒷ℯ𝒶𝓇𐬹꧂＠ペア画募集 (gs183556)
+**Author:** 𝓎𝓊𝓂𝒶ʕ·ᴥ·ʔ𝒷ℯ𝒶𝓇𐬹꧂ (gs183556)
 
-<p>みんなで楽しくやってます</p>
+みんなで楽しくやってます
 
-**部屋の作成日:** 6月 21, 2026
+**部屋の作成日:** June 21, 2026
 
 **閲覧数:** 1000~2499
 
@@ -383,21 +422,23 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/aoti3d765w4dqtkp)
+[Attachment 1](https://padlet.com/padlets/aoti3d765w4dqtkp)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/11 23:55
-- **Updated At:** 07/12 22:50
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 11, 2026 11:55pm
+- **Updated At:** Jul 12, 2026 10:50pm
 
 ---
 
 ### 15. 青の風の宣伝部屋
-**作成者:** 青の風（Smileとペア画中） (Aonokaze40262)
+**Author:** 青の風（Smileとペア画中） (Aonokaze40262)
 
-<p>なんでも宣伝するよ。</p><p>BAN覚悟で</p>
+なんでも宣伝するよ。
 
-**部屋の作成日:** 7月 11, 2026
+BAN覚悟で
+
+**部屋の作成日:** July 11, 2026
 
 **閲覧数:** ~499
 
@@ -405,24 +446,24 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/2zspnc8qcj76jgsp)
+[Attachment 1](https://padlet.com/padlets/2zspnc8qcj76jgsp)
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ブルー
-- **Created At:** 07/11 22:14
-- **Updated At:** 07/12 22:50
+#### Additional Information
+- **Post color:** Blue
+- **Created At:** Jul 11, 2026 10:14pm
+- **Updated At:** Jul 12, 2026 10:50pm
 
 ---
 
 ### 16. あなたが欲しいものなんでもあります！
-**作成者:** 削除済みユーザー
+**Author:** 削除済みユーザー
 
-<p>ゲーム・プロキシ・(((o(*ﾟ▽ﾟ*)o)))♡filter・</p>
+ゲーム・プロキシ・(((o(\*ﾟ▽ﾟ\*)o)))♡filter・
 
-**部屋の作成日:** 3月 17, 2025
+**部屋の作成日:** March 17, 2025
 
 **閲覧数:** 2,500~4,999
 
@@ -430,21 +471,21 @@
 
 **モデレーター数:** 5~9
 
-[添付ファイル 1](https://padlet.com/padlets/8nlama61i5vilhhv)
+[Attachment 1](https://padlet.com/padlets/8nlama61i5vilhhv)
 
-#### その他の情報
-- **投稿のカラー:** イエロー
-- **Created At:** 07/11 08:46
-- **Updated At:** 07/11 09:53
+#### Additional Information
+- **Post color:** Yellow
+- **Created At:** Jul 11, 2026 08:46am
+- **Updated At:** Jul 11, 2026 09:53am
 
 ---
 
 ### 17. oddo1　4周年記念部屋！
-**作成者:** 4周年！oddo1 (GeKF)
+**Author:** 4周年！oddo1 (GeKF)
 
-<p>4周年記念部屋では俺のことが知れる企画や4周年記念祭も開催中！今なら有名になれるチャンス企画もやってるよ！</p>
+4周年記念部屋では俺のことが知れる企画や4周年記念祭も開催中！今なら有名になれるチャンス企画もやってるよ！
 
-**部屋の作成日:** 7月  4, 2026
+**部屋の作成日:** July  4, 2026
 
 **閲覧数:** 2,500~4,999
 
@@ -452,21 +493,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/sz9ufoql7a1w2dhe)
+[Attachment 1](https://padlet.com/padlets/sz9ufoql7a1w2dhe)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/11 02:22
-- **Updated At:** 07/11 09:53
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 11, 2026 02:22am
+- **Updated At:** Jul 11, 2026 09:53am
 
 ---
 
 ### 18. みわ🎀様のことを拝む
-**作成者:** 青の風（Smileとペア画中） (Aonokaze40262)
+**Author:** 青の風（Smileとペア画中） (Aonokaze40262)
 
-<p>雑談とか出来るよ！</p>
+雑談とか出来るよ！
 
-**部屋の作成日:** 7月  8, 2026
+**部屋の作成日:** July  8, 2026
 
 **閲覧数:** ~499
 
@@ -474,24 +515,26 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/16xu327b8q1bbtyd)
+[Attachment 1](https://padlet.com/padlets/16xu327b8q1bbtyd)
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ブルー
-- **Created At:** 07/10 21:53
-- **Updated At:** 07/11 09:53
+#### Additional Information
+- **Post color:** Blue
+- **Created At:** Jul 10, 2026 09:53pm
+- **Updated At:** Jul 11, 2026 09:53am
 
 ---
 
 ### 19. ゲーム付きプロキシ募集中
-**作成者:** 生卵 (133477_1)
+**Author:** 生卵　夜中浮上 (133477_1)
 
-<p>人がいません</p><p>量もありません</p>
+人がいません
 
-**部屋の作成日:** 7月  9, 2026
+量もありません
+
+**部屋の作成日:** July  9, 2026
 
 **閲覧数:** ~499
 
@@ -499,23 +542,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/ufeoxrfxkz8arc2j)
+[Attachment 1](https://padlet.com/padlets/ufeoxrfxkz8arc2j)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/09 11:26
-- **Updated At:** 07/10 10:45
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 09, 2026 11:26am
+- **Updated At:** Jul 10, 2026 10:45am
 
 ---
 
 ### 20. ぷろきし部屋
-**作成者:** たろう (tarou_14225)
+**Author:** たろう (tarou_14225)
 
-<p>ぷろきしサイトやyoutubeサイトを共有する部屋です</p>
+ぷろきしサイトやyoutubeサイトを共有する部屋です
 
 **受付部屋のリンク（あれば）:** https://padlet.com/tarou_14225/padlet-xcidhiw0uirtlk7l
 
-**部屋の作成日:** 7月  6, 2026
+**部屋の作成日:** July  6, 2026
 
 **閲覧数:** ~499
 
@@ -523,21 +566,31 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/xcidhiw0uirtlk7l)
+[Attachment 1](https://padlet.com/padlets/xcidhiw0uirtlk7l)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/06 05:23
-- **Updated At:** 07/06 09:44
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 06, 2026 05:23am
+- **Updated At:** Jul 06, 2026 09:44am
 
 ---
 
 ### 21. ペンペン部屋
-**作成者:** ,,心が傷まなかったのか,,,少しも苦しいと思わなかったのか,,,俺はお前を許さない,,, (cccc2)
+**Author:** ,,心が傷まなかったのか,,,少しも苦しいと思わなかったのか,,,俺はお前を許さない,,, (cccc2)
 
-<p>・宣伝可能</p><p>・雑談自由</p><p>・フォロパ会場あり</p><p>・権利アップの際は別部屋にて対応</p><p>・部屋のルールがしっかりしているので安心</p><p>・人気部屋との交流もあり</p>
+・宣伝可能
 
-**部屋の作成日:** 7月  3, 2026
+・雑談自由
+
+・フォロパ会場あり
+
+・権利アップの際は別部屋にて対応
+
+・部屋のルールがしっかりしているので安心
+
+・人気部屋との交流もあり
+
+**部屋の作成日:** July  3, 2026
 
 **閲覧数:** ~499
 
@@ -545,21 +598,21 @@
 
 **モデレーター数:** 10~
 
-[添付ファイル 1](https://padlet.com/padlets/h67jvj5b5r2u34e4)
+[Attachment 1](https://padlet.com/padlets/h67jvj5b5r2u34e4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/05 00:26
-- **Updated At:** 07/06 04:29
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 05, 2026 12:26am
+- **Updated At:** Jul 06, 2026 04:29am
 
 ---
 
 ### 22. れあの雑談部屋
-**作成者:** れあ #𝕶族3代目 (tssv)
+**Author:** れあ #𝕶族3代目 (tssv)
 
-<p>公開ライターで匿名でも参加できるようになっています！ぜひ匿名も来て雑談2025年12月14日(日)しようね！！！(作成日は本当は2025/10くらいなのですが荒らされて一回消しています)</p>
+公開ライターで匿名でも参加できるようになっています！ぜひ匿名も来て雑談2025年12月14日(日)しようね！！！(作成日は本当は2025/10くらいなのですが荒らされて一回消しています)
 
-**部屋の作成日:** 12月 14, 2025
+**部屋の作成日:** December 14, 2025
 
 **閲覧数:** 1000~2499
 
@@ -567,23 +620,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/6gfrykny2rp7thuk)
+[Attachment 1](https://padlet.com/padlets/6gfrykny2rp7thuk)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/03 16:01
-- **Updated At:** 07/04 05:47
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 03, 2026 04:01pm
+- **Updated At:** Jul 04, 2026 05:47am
 
 ---
 
 ### 23. きてね
-**作成者:** taiyaki (taiyaki0201)
+**Author:** taiyaki (taiyaki0201)
 
-<p>なんもない</p>
+なんもない
 
 **受付部屋のリンク（あれば）:** https://padlet.com/padlets/j3obum7czzrkmpi2
 
-**部屋の作成日:** 6月 17, 2026
+**部屋の作成日:** June 17, 2026
 
 **閲覧数:** 500~999
 
@@ -591,21 +644,21 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/4wzzjtthqu559pch)
+[Attachment 1](https://padlet.com/padlets/4wzzjtthqu559pch)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/03 08:32
-- **Updated At:** 07/04 05:48
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 03, 2026 08:32am
+- **Updated At:** Jul 04, 2026 05:48am
 
 ---
 
 ### 24. Proxy革命軍
-**作成者:** バグった人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
+**Author:** バグった人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
 
-<p>たくさん人がいるよ！ゲームもProxyもユーチューブもたくさんあるよ！オーナーがすごい優しくてすぐ仲良くなれると思うよ！</p>
+たくさん人がいるよ！ゲームもProxyもユーチューブもたくさんあるよ！オーナーがすごい優しくてすぐ仲良くなれると思うよ！
 
-**部屋の作成日:** 2月 17, 2026
+**部屋の作成日:** February 17, 2026
 
 **閲覧数:** 2,500~4,999
 
@@ -613,21 +666,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/5nbkargdpu0ml1tf)
+[Attachment 1](https://padlet.com/padlets/5nbkargdpu0ml1tf)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 07/02 06:37
-- **Updated At:** 07/03 07:59
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 02, 2026 06:37am
+- **Updated At:** Jul 03, 2026 07:59am
 
 ---
 
 ### 25. るるるの雑談部屋！
-**作成者:** 心は痛まなかったのか,,,少しも苦しいと思わなかったのか!！,,俺はお前を許さない,,, (rururu_pas)
+**Author:** 心は痛まなかったのか,,,少しも苦しいと思わなかったのか!！,,俺はお前を許さない,,, (rururu_pas)
 
-<p>元超大人数部屋！幅広い雑談を武器にして活気あふれる楽しい場にしています！仮面ライダーずき大歓迎‼️</p><p>・主はここでたくさん絵を描いて活動してます。気軽に話しかけてくれればいつでもリクエストに答えるよ！</p><p><br/></p><p><br/></p>
+元超大人数部屋！幅広い雑談を武器にして活気あふれる楽しい場にしています！仮面ライダーずき大歓迎‼️
 
-**部屋の作成日:** 6月 30, 2026
+・主はここでたくさん絵を描いて活動してます。気軽に話しかけてくれればいつでもリクエストに答えるよ！
+
+**部屋の作成日:** June 30, 2026
 
 **閲覧数:** ~499
 
@@ -635,21 +690,21 @@
 
 **モデレーター数:** 10~
 
-[添付ファイル 1](https://padlet.com/padlets/h2q27rv2gajii88w)
+[Attachment 1](https://padlet.com/padlets/h2q27rv2gajii88w)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/30 10:31
-- **Updated At:** 07/01 08:55
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 30, 2026 10:31am
+- **Updated At:** Jul 01, 2026 08:55am
 
 ---
 
 ### 26. YBC裏部屋
-**作成者:** Ru~Ru~Ru~Ru~♪ (3980304)
+**Author:** Ru~Ru~Ru~Ru~♪ (3980304)
 
-<p>有名パドレットにしたい</p>
+有名パドレットにしたい
 
-**部屋の作成日:** 6月 12, 2026
+**部屋の作成日:** June 12, 2026
 
 **閲覧数:** 1000~2499
 
@@ -657,21 +712,21 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/gy9711oy8uuji56w)
+[Attachment 1](https://padlet.com/padlets/gy9711oy8uuji56w)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/29 05:52
-- **Updated At:** 06/29 05:52
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 29, 2026 05:52am
+- **Updated At:** Jun 29, 2026 05:52am
 
 ---
 
 ### 27. 栄養ーープロキシ youtube ゲームみんなで集めるぞ！！
-**作成者:** Sari (212024137)
+**Author:** Sari (212024137)
 
-<p>プロキシたくさん！！</p>
+プロキシたくさん！！
 
-**部屋の作成日:** 6月  4, 2026
+**部屋の作成日:** June  4, 2026
 
 **閲覧数:** 2,500~4,999
 
@@ -679,21 +734,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/bm6bs779gjlk3r1h)
+[Attachment 1](https://padlet.com/padlets/bm6bs779gjlk3r1h)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/28 07:17
-- **Updated At:** 06/28 07:17
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 28, 2026 07:17am
+- **Updated At:** Jun 28, 2026 07:17am
 
 ---
 
 ### 28. ゲームマシマシ、プロキシ多め
-**作成者:** 自認福丸小糸ータ (nikita1922)
+**Author:** 自認福丸小糸ータ (nikita1922)
 
-<p>ゲーム、プロキシ、便利サイト、動画系沢山あってサイト捜索もやっています</p><p>とにかくいろいろあるので部屋入ってセクション案内見てってください</p>
+ゲーム、プロキシ、便利サイト、動画系沢山あってサイト捜索もやっています
 
-**部屋の作成日:** 4月  8, 2026
+とにかくいろいろあるので部屋入ってセクション案内見てってください
+
+**部屋の作成日:** April  8, 2026
 
 **閲覧数:** 1000~2499
 
@@ -701,21 +758,23 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/vwnrp7dr0wpl134z)
+[Attachment 1](https://padlet.com/padlets/vwnrp7dr0wpl134z)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/27 13:14
-- **Updated At:** 06/28 07:20
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 27, 2026 01:14pm
+- **Updated At:** Jun 28, 2026 07:20am
 
 ---
 
 ### 29. 荒らし受付
-**作成者:** ぽんたくん (pontakun)
+**Author:** ぽんたくん (pontakun)
 
-<p>荒らしを行います</p><p>荒らせない部屋もあります</p>
+荒らしを行います
 
-**部屋の作成日:** 6月 27, 2026
+荒らせない部屋もあります
+
+**部屋の作成日:** June 27, 2026
 
 **閲覧数:** ~499
 
@@ -723,21 +782,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/oqyy3mtg98x9rec)
+[Attachment 1](https://padlet.com/padlets/oqyy3mtg98x9rec)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/27 11:07
-- **Updated At:** 06/27 11:07
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 27, 2026 11:07am
+- **Updated At:** Jun 27, 2026 11:07am
 
 ---
 
 ### 30. 学校のPCでマルチプレイでEaglercraft(マイクラ)を楽しもう！！
-**作成者:** Chad (Chad_777)
+**Author:** Chad (Chad_777)
 
-<p>マルチプレイで楽しもう！！</p>
+マルチプレイで楽しもう！！
 
-**部屋の作成日:** 6月 27, 2026
+**部屋の作成日:** June 27, 2026
 
 **閲覧数:** 500~999
 
@@ -745,26 +804,26 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/3xz7f1t27ofufgyp)
+[Attachment 1](https://padlet.com/padlets/3xz7f1t27ofufgyp)
 
-#### コメント (1)
-- **hirafu** (07/11 09:53): はいれない
+#### Comments (1)
+- **hirafu** (Jul 11, 2026 09:53am): はいれない
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/27 05:32
-- **Updated At:** 06/28 07:20
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 27, 2026 05:32am
+- **Updated At:** Jun 28, 2026 07:20am
 
 ---
 
 ### 31. みんなで雑談しよう
-**作成者:** バグった人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
+**Author:** バグった人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
 
-<p>出来立てですがみんなで仲良く楽しく雑談する部屋だよ</p>
+出来立てですがみんなで仲良く楽しく雑談する部屋だよ
 
 **受付部屋のリンク（あれば）:** https://padlet.com/s11240095/padlet-uchfyj83t5brqidm
 
-**部屋の作成日:** 6月 25, 2026
+**部屋の作成日:** June 25, 2026
 
 **閲覧数:** ~499
 
@@ -772,23 +831,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/46mevpn5v64karn4)
+[Attachment 1](https://padlet.com/padlets/46mevpn5v64karn4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/26 23:21
-- **Updated At:** 06/26 23:21
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 26, 2026 11:21pm
+- **Updated At:** Jun 26, 2026 11:21pm
 
 ---
 
 ### 32. 今日好きになりましたinクリボッチルーム
-**作成者:** りな319＃ルミナス族リーダー (RINA0319_RUMINASU)
+**Author:** りな319＃ルミナス族リーダー (RINA0319_RUMINASU)
 
-<p>彼氏、彼女が欲しいという友達の意見から出来た部屋です。今日好きみたいなことをやって、彼氏、彼女を作って付き合うことが出来ます。（お試しで付き合うことも可能）。それに、付き合わなくてもみんなでお喋りして友達を作ったりすることも出来る雑談部屋みたいな感じでもあります。みんな来てねーーーーーー！！！</p>
+彼氏、彼女が欲しいという友達の意見から出来た部屋です。今日好きみたいなことをやって、彼氏、彼女を作って付き合うことが出来ます。（お試しで付き合うことも可能）。それに、付き合わなくてもみんなでお喋りして友達を作ったりすることも出来る雑談部屋みたいな感じでもあります。みんな来てねーーーーーー！！！
 
 **受付部屋のリンク（あれば）:** https://padlet.com/RINA0319_RUMINASU/in-5orekg4ovvjzlab5
 
-**部屋の作成日:** 6月 25, 2026
+**部屋の作成日:** June 25, 2026
 
 **閲覧数:** ~499
 
@@ -796,23 +855,25 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/5orekg4ovvjzlab5)
+[Attachment 1](https://padlet.com/padlets/5orekg4ovvjzlab5)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/26 07:04
-- **Updated At:** 06/28 07:20
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 26, 2026 07:04am
+- **Updated At:** Jun 28, 2026 07:20am
 
 ---
 
 ### 33. ウェブを教えあう会
-**作成者:** Yo_2025 (Yo_2025)
+**Author:** Yo_2025 (Yo_2025)
 
-<p>Proxyをできるだけのしている部屋(受付)</p><p>来てねぇ</p>
+Proxyをできるだけのしている部屋(受付)
+
+来てねぇ
 
 **受付部屋のリンク（あれば）:** https://padlet.com/Yo_2025/padlet-by8qgzeqvftpzdqo
 
-**部屋の作成日:** 5月 13, 2026
+**部屋の作成日:** May 13, 2026
 
 **閲覧数:** 2,500~4,999
 
@@ -820,21 +881,25 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/by8qgzeqvftpzdqo)
+[Attachment 1](https://padlet.com/padlets/by8qgzeqvftpzdqo)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/25 04:26
-- **Updated At:** 06/25 04:26
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 25, 2026 04:26am
+- **Updated At:** Jun 25, 2026 04:26am
 
 ---
 
 ### 34. 交流の場
-**作成者:** Honda (Hondacars1788)
+**Author:** Honda (Hondacars1788)
 
-<p>この部屋は色々な人が交流する場所です。</p><p>いろんな部屋があり、少しですがゲームがあります。</p><p>この部屋に少しでも興味のある方はぜひ来てください</p>
+この部屋は色々な人が交流する場所です。
 
-**部屋の作成日:** 5月  7, 2026
+いろんな部屋があり、少しですがゲームがあります。
+
+この部屋に少しでも興味のある方はぜひ来てください
+
+**部屋の作成日:** May  7, 2026
 
 **閲覧数:** 1000~2499
 
@@ -842,23 +907,23 @@
 
 **モデレーター数:** 10~
 
-[添付ファイル 1](https://padlet.com/padlets/oryn04wagmrlxf3g)
+[Attachment 1](https://padlet.com/padlets/oryn04wagmrlxf3g)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/23 23:22
-- **Updated At:** 06/23 23:22
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 23, 2026 11:22pm
+- **Updated At:** Jun 23, 2026 11:22pm
 
 ---
 
 ### 35. 聖域部屋
-**作成者:** taiyaki (taiyaki0201)
+**Author:** taiyaki (taiyaki0201)
 
-<p>人が多くなる…はず</p>
+人が多くなる…はず
 
 **受付部屋のリンク（あれば）:** https://padlet.com/horyugeho/padlet-j3obum7czzrkmpi2
 
-**部屋の作成日:** 6月 22, 2026
+**部屋の作成日:** June 22, 2026
 
 **閲覧数:** ~499
 
@@ -866,23 +931,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/4wzzjtthqu559pch)
+[Attachment 1](https://padlet.com/padlets/4wzzjtthqu559pch)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/23 15:06
-- **Updated At:** 06/23 15:06
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 23, 2026 03:06pm
+- **Updated At:** Jun 23, 2026 03:06pm
 
 ---
 
 ### 36. カフート学校
-**作成者:** taiyaki (taiyaki0201)
+**Author:** taiyaki (taiyaki0201)
 
-<p>治安がいい、安定の人の多さ（<em>いつでも人がいます</em>）<strong><mark>初見にぴったりな部屋</mark></strong>です！初心者大歓迎！<mark>勉強部屋</mark>もある、<mark>マイクラ</mark>もやっている、<mark>作品コンテストにも応募</mark>している、<mark>ルールや制度</mark>がとてもしっかりしている、<mark>プロキシやゲームなどのサイト</mark>がたくさんあります！とにかく、<strong>充実しているので、是非きてください</strong>！</p>
+治安がいい、安定の人の多さ（*いつでも人がいます*）**初見にぴったりな部屋**です！初心者大歓迎！勉強部屋もある、マイクラもやっている、作品コンテストにも応募している、ルールや制度がとてもしっかりしている、プロキシやゲームなどのサイトがたくさんあります！とにかく、**充実しているので、是非きてください**！
 
 **受付部屋のリンク（あれば）:** https://padlet.com/saburoutozirou/padlet-hlempaczgkpgdgvd
 
-**部屋の作成日:** 5月 16, 2026
+**部屋の作成日:** May 16, 2026
 
 **閲覧数:** 10,000~24,999
 
@@ -890,26 +955,30 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/ijw7chm0ae0xcjdl)
+[Attachment 1](https://padlet.com/padlets/ijw7chm0ae0xcjdl)
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/23 15:03
-- **Updated At:** 06/24 04:01
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 23, 2026 03:03pm
+- **Updated At:** Jun 24, 2026 04:01am
 
 ---
 
 ### 37. るるるの雑談部屋！
-**作成者:** ぴよたん💗 (barukoku)
+**Author:** ぴよたん💗 (barukoku)
 
-<p>過去最高152人</p><p>6月13日より垢停止から復活</p><p>みんな入ってね</p><p><br/></p>
+過去最高152人
+
+6月13日より垢停止から復活
+
+みんな入ってね
 
 **受付部屋のリンク（あれば）:** https://padlet.com/barukoku/padlet-dwtzctmj0g9qc8fx
 
-**部屋の作成日:** 6月 15, 2026
+**部屋の作成日:** June 15, 2026
 
 **閲覧数:** ~499
 
@@ -917,21 +986,21 @@
 
 **モデレーター数:** 10~
 
-[添付ファイル 1](https://padlet.com/padlets/ax4vlyl56ex70r8u)
+[Attachment 1](https://padlet.com/padlets/ax4vlyl56ex70r8u)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/22 12:16
-- **Updated At:** 06/22 12:16
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 22, 2026 12:16pm
+- **Updated At:** Jun 22, 2026 12:16pm
 
 ---
 
 ### 38. 推し教えてー
-**作成者:** 絵描きマン (s22091216)
+**Author:** 絵描きマン (s22091216)
 
-<p>雑談してください</p>
+雑談してください
 
-**部屋の作成日:** 6月 21, 2026
+**部屋の作成日:** June 21, 2026
 
 **閲覧数:** ~499
 
@@ -939,21 +1008,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/ij1jfa8dpf2ti8ec)
+[Attachment 1](https://padlet.com/padlets/ij1jfa8dpf2ti8ec)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/21 07:55
-- **Updated At:** 06/21 07:55
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 21, 2026 07:55am
+- **Updated At:** Jun 21, 2026 07:55am
 
 ---
 
 ### 39. Spare beet 創作譜面部屋
-**作成者:** わーい！ (harutomiki46)
+**Author:** わーい！ (harutomiki46)
 
-<p>音ゲーできるんでぜひ遊びにきて（泣）閲覧が少なすぎて可哀想なんで</p>
+音ゲーできるんでぜひ遊びにきて（泣）閲覧が少なすぎて可哀想なんで
 
-**部屋の作成日:** 6月 21, 2026
+**部屋の作成日:** June 21, 2026
 
 **閲覧数:** ~499
 
@@ -961,21 +1030,31 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/4c4ueyxklf2k8omb)
+[Attachment 1](https://padlet.com/padlets/4c4ueyxklf2k8omb)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/21 02:30
-- **Updated At:** 06/21 02:30
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 21, 2026 02:30am
+- **Updated At:** Jun 21, 2026 02:30am
 
 ---
 
 ### 40. Alcatraz - I FILTER監視塔
-**作成者:** guruma_ESTA (guruma_ESTA)
+**Author:** guruma_ESTA (guruma_ESTA)
 
-<p><strong>Alcatraz - I FILTER監視塔</strong></p><p><br/></p><p>I FILTER民によるI FILTER回避のための部屋。</p><p>・高頻度更新！</p><p>・すべて動作確認済み！</p><p>・豊富なサイト・ツール</p><p>・投稿はすべて第3者によって検閲済み！</p>
+**Alcatraz - I FILTER監視塔**
 
-**部屋の作成日:** 3月 20, 2026
+I FILTER民によるI FILTER回避のための部屋。
+
+・高頻度更新！
+
+・すべて動作確認済み！
+
+・豊富なサイト・ツール
+
+・投稿はすべて第3者によって検閲済み！
+
+**部屋の作成日:** March 20, 2026
 
 **閲覧数:** 1000~2499
 
@@ -983,21 +1062,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/m15z6oinkafsrjlb)
+[Attachment 1](https://padlet.com/padlets/m15z6oinkafsrjlb)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/20 23:55
-- **Updated At:** 06/20 23:55
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 20, 2026 11:55pm
+- **Updated At:** Jun 20, 2026 11:55pm
 
 ---
 
 ### 41. Sentosa Scramble Square
-**作成者:** guruma_ESTA (guruma_ESTA)
+**Author:** guruma_ESTA (guruma_ESTA)
 
-<p>プロキシ・雑談・マイクラ・ミート・画像・動画・えｒの統合部屋！</p><p><br/></p><p>垢なし歓迎！</p>
+プロキシ・雑談・マイクラ・ミート・画像・動画・えｒの統合部屋！
 
-**部屋の作成日:** 6月  7, 2026
+垢なし歓迎！
+
+**部屋の作成日:** June  7, 2026
 
 **閲覧数:** ~499
 
@@ -1005,23 +1086,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/antj25s7zq6zges4)
+[Attachment 1](https://padlet.com/padlets/antj25s7zq6zges4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/20 23:52
-- **Updated At:** 06/21 00:00
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 20, 2026 11:52pm
+- **Updated At:** Jun 21, 2026 12:00am
 
 ---
 
 ### 42. 2代目normal部屋の受付！！！
-**作成者:** ꧁𝙍𝙖𝙢𝙪𝙣𝙚꧂ (Ramune_214)
+**Author:** ꧁𝙍𝙖𝙢𝙪𝙣𝙚꧂ (Ramune_214)
 
-<p>来てくれよな！</p>
+来てくれよな！
 
 **受付部屋のリンク（あれば）:** https://padlet.com/normal_MC/2-normal-y4gdsm7wjss03cbw
 
-**部屋の作成日:** 6月 14, 2026
+**部屋の作成日:** June 14, 2026
 
 **閲覧数:** ~499
 
@@ -1029,23 +1110,23 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/y4gdsm7wjss03cbw)
+[Attachment 1](https://padlet.com/padlets/y4gdsm7wjss03cbw)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/20 23:19
-- **Updated At:** 06/20 23:19
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 20, 2026 11:19pm
+- **Updated At:** Jun 20, 2026 11:19pm
 
 ---
 
 ### 43. ２代目みんなで共有しよう！
-**作成者:** バグった人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
+**Author:** バグった人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#初代ロブロ軍大将#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
 
-<p>最強プロキシや、最強のYouTubeダウンローダー、ゲームもたくさんあります！ぜひ来てください！みんなで楽しく仲良く色々共有しましょう！</p>
+最強プロキシや、最強のYouTubeダウンローダー、ゲームもたくさんあります！ぜひ来てください！みんなで楽しく仲良く色々共有しましょう！
 
 **受付部屋のリンク（あれば）:** https://padlet.com/TOKYO874321Forsaken/2-1000-ghy6xi2pf881eu2v
 
-**部屋の作成日:** 5月 13, 2026
+**部屋の作成日:** May 13, 2026
 
 **閲覧数:** 1000~2499
 
@@ -1053,21 +1134,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/n2266ltb5hb27hdl)
+[Attachment 1](https://padlet.com/padlets/n2266ltb5hb27hdl)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/19 23:58
-- **Updated At:** 06/19 23:58
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 19, 2026 11:58pm
+- **Updated At:** Jun 19, 2026 11:58pm
 
 ---
 
 ### 44. あろーねはぶ｜ALONEHUB
-**作成者:** あろーね｜alone (alone_arone)
+**Author:** あろーね｜alone (alone_arone)
 
-<p>proxyとかゲームなどありまっせ</p>
+proxyとかゲームなどありまっせ
 
-**部屋の作成日:** 5月 28, 2026
+**部屋の作成日:** May 28, 2026
 
 **閲覧数:** ~499
 
@@ -1075,23 +1156,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/35trqrq7icc7volh)
+[Attachment 1](https://padlet.com/padlets/35trqrq7icc7volh)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/16 00:18
-- **Updated At:** 06/16 00:18
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 16, 2026 12:18am
+- **Updated At:** Jun 16, 2026 12:18am
 
 ---
 
 ### 45. プロキシワールド
-**作成者:** α3 (a3_01)
+**Author:** α3 (a3_01)
 
-<p>ISGCで使えるプロキシまとめてます。</p><p><br/></p>
+ISGCで使えるプロキシまとめてます。
 
 **受付部屋のリンク（あれば）:** https://padlet.com/a3_01/padlet-e4azy5s19f6weiqa
 
-**部屋の作成日:** 2月 18, 2026
+**部屋の作成日:** February 18, 2026
 
 **閲覧数:** 1000~2499
 
@@ -1099,21 +1180,23 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/e4azy5s19f6weiqa)
+[Attachment 1](https://padlet.com/padlets/e4azy5s19f6weiqa)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/14 23:24
-- **Updated At:** 06/14 23:24
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 14, 2026 11:24pm
+- **Updated At:** Jun 14, 2026 11:24pm
 
 ---
 
 ### 46. お寿司打
-**作成者:** ハマグリ (zomameza)
+**Author:** ハマグリ (zomameza)
 
-<p>頑張って作りました</p><p>ぜひ来てください</p>
+頑張って作りました
 
-**部屋の作成日:** 6月 13, 2026
+ぜひ来てください
+
+**部屋の作成日:** June 13, 2026
 
 **閲覧数:** ~499
 
@@ -1121,21 +1204,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/tzprcl8exefdusuf)
+[Attachment 1](https://padlet.com/padlets/tzprcl8exefdusuf)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/14 23:19
-- **Updated At:** 06/14 23:19
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 14, 2026 11:19pm
+- **Updated At:** Jun 14, 2026 11:19pm
 
 ---
 
 ### 47. 【出入り自由】みんなの交差点2
-**作成者:** Io1205 (Io1205)
+**Author:** Io1205 (Io1205)
 
-<p>んと、部屋を学校の問題で変えました。</p><p>パスワードは1250です。</p>
+んと、部屋を学校の問題で変えました。
 
-**部屋の作成日:** 6月 12, 2026
+パスワードは1250です。
+
+**部屋の作成日:** June 12, 2026
 
 **閲覧数:** ~499
 
@@ -1143,21 +1228,21 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/png4b8jn098khahd)
+[Attachment 1](https://padlet.com/padlets/png4b8jn098khahd)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/12 06:43
-- **Updated At:** 06/12 23:04
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 12, 2026 06:43am
+- **Updated At:** Jun 12, 2026 11:04pm
 
 ---
 
 ### 48. ここは俺のテリトリー
-**作成者:** 몬타 (2206047_2)
+**Author:** 몬타 (2206047_2)
 
-<p>世界一のテリトリーにしたい</p>
+世界一のテリトリーにしたい
 
-**部屋の作成日:** 6月 12, 2026
+**部屋の作成日:** June 12, 2026
 
 **閲覧数:** ~499
 
@@ -1165,21 +1250,21 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/5wh68kaqd9dq4rdb)
+[Attachment 1](https://padlet.com/padlets/5wh68kaqd9dq4rdb)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/12 00:14
-- **Updated At:** 06/12 00:14
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 12, 2026 12:14am
+- **Updated At:** Jun 12, 2026 12:14am
 
 ---
 
 ### 49. 世界一の雑談部屋(にしたい)
-**作成者:** N (bigbann5678_1)
+**Author:** N (bigbann5678_1)
 
-<p>過疎ってるw</p>
+過疎ってるw
 
-**部屋の作成日:** 6月 10, 2026
+**部屋の作成日:** June 10, 2026
 
 **閲覧数:** ~499
 
@@ -1187,21 +1272,21 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/xv03e0qp1h4i1tsm)
+[Attachment 1](https://padlet.com/padlets/xv03e0qp1h4i1tsm)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/10 00:09
-- **Updated At:** 06/10 00:09
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 10, 2026 12:09am
+- **Updated At:** Jun 10, 2026 12:09am
 
 ---
 
 ### 50. 全員編集者のサンドボックスどんどん入れないとぶ○○○○
-**作成者:** カカカカが (h0421017_1)
+**Author:** カカカカが (h0421017_1)
 
-<p>(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)ピーだから(規制音)(規制音)(規制音)(規制音)(規制音)じゃないと(規制音)するからね</p>
+(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)ピーだから(規制音)(規制音)(規制音)(規制音)(規制音)じゃないと(規制音)するからね
 
-**部屋の作成日:** 6月  9, 2026
+**部屋の作成日:** June  9, 2026
 
 **閲覧数:** ~499
 
@@ -1209,21 +1294,21 @@
 
 **モデレーター数:** 10~
 
-[添付ファイル 1](https://padlet.com/padlets/jzxju8uxrzyvq8jz)
+[Attachment 1](https://padlet.com/padlets/jzxju8uxrzyvq8jz)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/08 15:11
-- **Updated At:** 06/12 23:06
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 08, 2026 03:11pm
+- **Updated At:** Jun 12, 2026 11:06pm
 
 ---
 
 ### 51. 荒らし初心者のための講座部屋
-**作成者:** カカカカが (h0421017_1)
+**Author:** カカカカが (h0421017_1)
 
-<p>萎えペンキテェえぇ</p>
+萎えペンキテェえぇ
 
-**部屋の作成日:** 6月  8, 2026
+**部屋の作成日:** June  8, 2026
 
 **閲覧数:** ~499
 
@@ -1231,24 +1316,24 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/oro88p4hy7sm9j6a)
+[Attachment 1](https://padlet.com/padlets/oro88p4hy7sm9j6a)
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/08 14:35
-- **Updated At:** 06/08 14:35
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 08, 2026 02:35pm
+- **Updated At:** Jun 08, 2026 02:35pm
 
 ---
 
 ### 52. 雑談部屋
-**作成者:** ゆあ (s180256_3)
+**Author:** ゆあ (s180256_3)
 
-<p>まじで色んな話題沢山話そ！！</p><p><br></p>
+まじで色んな話題沢山話そ！！
 
-**部屋の作成日:** 6月  8, 2026
+**部屋の作成日:** June  8, 2026
 
 **閲覧数:** ~499
 
@@ -1256,26 +1341,26 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/uucyrfkkez2hx21a)
+[Attachment 1](https://padlet.com/padlets/uucyrfkkez2hx21a)
 
-#### コメント (1)
-- **ゆあ** (06/08 13:11): モデレーター0です！間違えました🙏🏻
+#### Comments (1)
+- **ゆあ** (Jun 08, 2026 01:11pm): モデレーター0です！間違えました🙏🏻
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/08 13:09
-- **Updated At:** 06/08 22:38
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 08, 2026 01:09pm
+- **Updated At:** Jun 08, 2026 10:38pm
 
 ---
 
 ### 53. ブロスタ好きな人きてねー！
-**作成者:** aiueoooo (2303027_3)
+**Author:** aiueoooo (2303027_3)
 
-<p>めちゃ過疎なので来てください！</p>
+めちゃ過疎なので来てください！
 
 **受付部屋のリンク（あれば）:** https://padlet.com/padlets/70ho1mxetl8f9n2z
 
-**部屋の作成日:** 5月  6, 2026
+**部屋の作成日:** May  6, 2026
 
 **閲覧数:** 500~999
 
@@ -1283,21 +1368,21 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/2303027_3/padlet-70ho1mxetl8f9n2z)
+[Attachment 1](https://padlet.com/2303027_3/padlet-70ho1mxetl8f9n2z)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/08 09:34
-- **Updated At:** 06/08 09:34
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 08, 2026 09:34am
+- **Updated At:** Jun 08, 2026 09:34am
 
 ---
 
 ### 54. 交流の場
-**作成者:** Honda (Hondacars1788)
+**Author:** Honda (Hondacars1788)
 
-<p>色々な人が交流する</p>
+色々な人が交流する
 
-**部屋の作成日:** 6月  3, 2026
+**部屋の作成日:** June  3, 2026
 
 **閲覧数:** ~499
 
@@ -1305,21 +1390,23 @@
 
 **モデレーター数:** 5~9
 
-[添付ファイル 1](https://padlet.com/padlets/oryn04wagmrlxf3g)
+[Attachment 1](https://padlet.com/padlets/oryn04wagmrlxf3g)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/05 02:24
-- **Updated At:** 06/05 02:24
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 05, 2026 02:24am
+- **Updated At:** Jun 05, 2026 02:24am
 
 ---
 
 ### 55. 雑談部屋
-**作成者:** keR (ke_R)
+**Author:** keR (ke_R)
 
-<p>特になし（）</p><p>これから増やしていく予定</p>
+特になし（）
 
-**部屋の作成日:** 2月  7, 2026
+これから増やしていく予定
+
+**部屋の作成日:** February  7, 2026
 
 **閲覧数:** ~499
 
@@ -1327,21 +1414,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/y4pe00ffxj6qcr9a)
+[Attachment 1](https://padlet.com/padlets/y4pe00ffxj6qcr9a)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 06/02 02:51
-- **Updated At:** 06/02 02:51
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jun 02, 2026 02:51am
+- **Updated At:** Jun 02, 2026 02:51am
 
 ---
 
 ### 56. 【出入り自由】みんなの交差点
-**作成者:** Io1205 (Io1205)
+**Author:** Io1205 (Io1205)
 
-<p>最近やっと賑やかになってきました。</p><p>ぜひ来てね</p>
+最近やっと賑やかになってきました。
 
-**部屋の作成日:** 5月 21, 2026
+ぜひ来てね
+
+**部屋の作成日:** May 21, 2026
 
 **閲覧数:** 500~999
 
@@ -1349,21 +1438,21 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/6s95qydmsvhtdh7m)
+[Attachment 1](https://padlet.com/padlets/6s95qydmsvhtdh7m)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/28 08:21
-- **Updated At:** 05/28 08:21
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 28, 2026 08:21am
+- **Updated At:** May 28, 2026 08:21am
 
 ---
 
 ### 57. 冬部屋
-**作成者:** レム (remutyan)
+**Author:** レム (remutyan)
 
-<p>元エドガーが作る至高の神部屋、荒らし対策も万全</p>
+元エドガーが作る至高の神部屋、荒らし対策も万全
 
-**部屋の作成日:** 3月 10, 2000
+**部屋の作成日:** March 10, 2000
 
 **閲覧数:** ~499
 
@@ -1371,21 +1460,21 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/yq1bdfd3d5pt1wof)
+[Attachment 1](https://padlet.com/padlets/yq1bdfd3d5pt1wof)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/26 09:14
-- **Updated At:** 05/26 09:14
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 26, 2026 09:14am
+- **Updated At:** May 26, 2026 09:14am
 
 ---
 
 ### 58. 通話部屋
-**作成者:** N (bigbann5678_1)
+**Author:** N (bigbann5678_1)
 
-<p>できたてほやほやです！</p>
+できたてほやほやです！
 
-**部屋の作成日:** 5月 26, 2026
+**部屋の作成日:** May 26, 2026
 
 **閲覧数:** ~499
 
@@ -1393,21 +1482,25 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/s618zbyka3zg2c3j)
+[Attachment 1](https://padlet.com/padlets/s618zbyka3zg2c3j)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/26 02:29
-- **Updated At:** 05/26 02:29
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 26, 2026 02:29am
+- **Updated At:** May 26, 2026 02:29am
 
 ---
 
 ### 59. I-FILTER民集まれぇい
-**作成者:** INTERACT (yushorekikyo4)
+**Author:** INTERACT (yushorekikyo4)
 
-<p>作ったばかり</p><p>創立半年くらいの組織がやってるところです。</p><p>お気軽にお越しください</p>
+作ったばかり
 
-**部屋の作成日:** 5月 25, 2026
+創立半年くらいの組織がやってるところです。
+
+お気軽にお越しください
+
+**部屋の作成日:** May 25, 2026
 
 **閲覧数:** ~499
 
@@ -1415,27 +1508,27 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/feeaqgp6gt684eyn)
+[Attachment 1](https://padlet.com/padlets/feeaqgp6gt684eyn)
 
-#### コメント (2)
-- **INTERACT** (05/26 07:51): 色々追加してます
-- **INTERACT** (05/26 07:51): できたら皆も提供してね
+#### Comments (2)
+- **INTERACT** (May 26, 2026 07:51am): 色々追加してます
+- **INTERACT** (May 26, 2026 07:51am): できたら皆も提供してね
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/25 08:23
-- **Updated At:** 05/25 08:23
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 25, 2026 08:23am
+- **Updated At:** May 25, 2026 08:23am
 
 ---
 
 ### 60. だれでも
-**作成者:** わに太郎の龍之介 (wanko)
+**Author:** わに太郎の龍之介 (wanko)
 
-<p>みんなで楽しく雑談</p>
+みんなで楽しく雑談
 
 **受付部屋のリンク（あれば）:** https://padlet.com/wanko/padlet-qxod44791zmetgb2
 
-**部屋の作成日:** 2月 11, 2026
+**部屋の作成日:** February 11, 2026
 
 **閲覧数:** ~499
 
@@ -1443,21 +1536,21 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/qxod44791zmetgb2)
+[Attachment 1](https://padlet.com/padlets/qxod44791zmetgb2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/25 05:08
-- **Updated At:** 05/25 05:08
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 25, 2026 05:08am
+- **Updated At:** May 25, 2026 05:08am
 
 ---
 
 ### 61. ミーム軍国主義共和国
-**作成者:** ネッコ ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂ (carrybag824)
+**Author:** ネッコ ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂ (carrybag824)
 
-<p>とても過疎い部屋です。サイコパスでクレイジーなユーザーにはピッタリだと思っております。現在戦時中なため、部屋に入ることが困難ですので戦後に訪れてみてください。</p>
+とても過疎い部屋です。サイコパスでクレイジーなユーザーにはピッタリだと思っております。現在戦時中なため、部屋に入ることが困難ですので戦後に訪れてみてください。
 
-**部屋の作成日:** 2月 27, 2026
+**部屋の作成日:** February 27, 2026
 
 **閲覧数:** 1000~2499
 
@@ -1465,21 +1558,21 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/jpr91spyhiobita2)
+[Attachment 1](https://padlet.com/padlets/jpr91spyhiobita2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/24 07:03
-- **Updated At:** 05/24 07:03
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 24, 2026 07:03am
+- **Updated At:** May 24, 2026 07:03am
 
 ---
 
 ### 62. フォートナイトやってる子おいで〜
-**作成者:** ウルティマ　紫 (myumuhiba)
+**Author:** ウルティマ　紫 (myumuhiba)
 
-<p>フォートナイトについて話そう</p>
+フォートナイトについて話そう
 
-**部屋の作成日:** 5月 18, 2026
+**部屋の作成日:** May 18, 2026
 
 **閲覧数:** ~499
 
@@ -1487,21 +1580,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/yjuwm5bf1d097akf)
+[Attachment 1](https://padlet.com/padlets/yjuwm5bf1d097akf)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/24 02:07
-- **Updated At:** 05/24 02:07
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 24, 2026 02:07am
+- **Updated At:** May 24, 2026 02:07am
 
 ---
 
 ### 63. プロキシ共有部屋
-**作成者:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
+**Author:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
 
-<p>たくさんプロキシあります！！独断と偏見で管理上げます！</p><p>4回荒らされても再建したよー</p><p><br/></p>
+たくさんプロキシあります！！独断と偏見で管理上げます！
 
-**部屋の作成日:** 2月  5, 2026
+4回荒らされても再建したよー
+
+**部屋の作成日:** February  5, 2026
 
 **閲覧数:** 2,500~4,999
 
@@ -1509,26 +1604,34 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/zqhpn3emhoxjvrx0)
+[Attachment 1](https://padlet.com/padlets/zqhpn3emhoxjvrx0)
 
-#### コメント (1)
-- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (05/23 08:02): 今再建中で少ないかもです
+#### Comments (1)
+- **ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕** (May 23, 2026 08:02am): 今再建中で少ないかもです
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/23 08:00
-- **Updated At:** 05/23 08:00
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 23, 2026 08:00am
+- **Updated At:** May 23, 2026 08:00am
 
 ---
 
 ### 64. たまご部屋
-**作成者:** ぴわを (egghed)
+**Author:** ぴわを (egghed)
 
-<p>プロキシとかゲームとかいっぱいあります</p><p>だいたいやることは雑談とか、たまにみねくらふとするー</p><p>俺はだいたい平日は夜の7時〜、休日、祝日は8時ごろからいる</p><p>まぁでもそれ以外の時間帯にいることもあるかな</p><p>みんなはいってー🐣</p>
+プロキシとかゲームとかいっぱいあります
+
+だいたいやることは雑談とか、たまにみねくらふとするー
+
+俺はだいたい平日は夜の7時〜、休日、祝日は8時ごろからいる
+
+まぁでもそれ以外の時間帯にいることもあるかな
+
+みんなはいってー🐣
 
 **受付部屋のリンク（あれば）:** https://padlet.com/egghed/padlet-wt6siopl891570pb
 
-**部屋の作成日:** 2月 22, 2026
+**部屋の作成日:** February 22, 2026
 
 **閲覧数:** ~499
 
@@ -1536,21 +1639,21 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/3nlhw77dt4frlbn5)
+[Attachment 1](https://padlet.com/padlets/3nlhw77dt4frlbn5)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/22 10:42
-- **Updated At:** 05/22 10:42
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 22, 2026 10:42am
+- **Updated At:** May 22, 2026 10:42am
 
 ---
 
 ### 65. プロキシを見つけよう委員会
-**作成者:** るき (harukikato1123)
+**Author:** るき (harukikato1123)
 
-<p>まだ全然だけどどんどん発展させるので来てね</p>
+まだ全然だけどどんどん発展させるので来てね
 
-**部屋の作成日:** 5月 22, 2026
+**部屋の作成日:** May 22, 2026
 
 **閲覧数:** ~499
 
@@ -1558,21 +1661,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/5utr6xu91ko36efc)
+[Attachment 1](https://padlet.com/padlets/5utr6xu91ko36efc)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/22 04:29
-- **Updated At:** 05/23 06:05
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 22, 2026 04:29am
+- **Updated At:** May 23, 2026 06:05am
 
 ---
 
 ### 66. 荒らし対策センター
-**作成者:** マイスター (mystar021)
+**Author:** マイスター (mystar021)
 
-<p>荒らしされて通報したい人は入ってください</p><p>協力して通報もしてもらいたいです</p>
+荒らしされて通報したい人は入ってください
 
-**部屋の作成日:** 5月 22, 2026
+協力して通報もしてもらいたいです
+
+**部屋の作成日:** May 22, 2026
 
 **閲覧数:** ~499
 
@@ -1580,21 +1685,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/3k4f53zc6o34emfm)
+[Attachment 1](https://padlet.com/padlets/3k4f53zc6o34emfm)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/22 03:24
-- **Updated At:** 05/22 03:24
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 22, 2026 03:24am
+- **Updated At:** May 22, 2026 03:24am
 
 ---
 
 ### 67. ぬほさた部屋(旧りおと部屋)
-**作成者:** ぬほさた‼️ (Nuhosata)
+**Author:** ぬほさた‼️ (Nuhosata)
 
-<p>常に人がいる現役最大級の雑談部屋</p>
+常に人がいる現役最大級の雑談部屋
 
-**部屋の作成日:** 4月 23, 2026
+**部屋の作成日:** April 23, 2026
 
 **閲覧数:** 10,000~24,999
 
@@ -1602,24 +1707,24 @@
 
 **モデレーター数:** 5~9
 
-[添付ファイル 1](https://padlet.com/padlets/wk073c0zgtyl8fxm)
+[Attachment 1](https://padlet.com/padlets/wk073c0zgtyl8fxm)
 
-#### コメント (1)
-- **kak1** (05/22 00:11): カバー画像終わった
+#### Comments (1)
+- **kaK1** (May 22, 2026 12:11am): カバー画像終わった
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/21 23:23
-- **Updated At:** 05/21 23:23
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 21, 2026 11:23pm
+- **Updated At:** May 21, 2026 11:23pm
 
 ---
 
 ### 68. とにかく集まれえええええええええええええええええええええええ
-**作成者:** 閃光☆ (tqu)
+**Author:** 閃光☆ (tqu)
 
-<p>初めて作ったのでぜひ来てください！！</p>
+初めて作ったのでぜひ来てください！！
 
-**部屋の作成日:** 5月 21, 2026
+**部屋の作成日:** May 21, 2026
 
 **閲覧数:** ~499
 
@@ -1627,21 +1732,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/kifyr9k4ilhwq3yf)
+[Attachment 1](https://padlet.com/padlets/kifyr9k4ilhwq3yf)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/21 09:37
-- **Updated At:** 05/21 09:37
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 21, 2026 09:37am
+- **Updated At:** May 21, 2026 09:37am
 
 ---
 
 ### 69. （＾ー＾）
-**作成者:** ウルティマ　紫 (myumuhiba)
+**Author:** ウルティマ　紫 (myumuhiba)
 
-<p>ん</p>
+ん
 
-**部屋の作成日:** 5月 19, 2026
+**部屋の作成日:** May 19, 2026
 
 **閲覧数:** ~499
 
@@ -1649,21 +1754,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/4r63rm04x9e31ft4)
+[Attachment 1](https://padlet.com/padlets/4r63rm04x9e31ft4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/20 05:05
-- **Updated At:** 05/20 05:05
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 20, 2026 05:05am
+- **Updated At:** May 20, 2026 05:05am
 
 ---
 
 ### 70. 色々やる部屋の受付
-**作成者:** 亜空カン_JANLINE (janline_masterspark)
+**Author:** 亜空カン_JANLINE (janline_masterspark)
 
-<p>受付です</p>
+受付です
 
-**部屋の作成日:** 5月 19, 2026
+**部屋の作成日:** May 19, 2026
 
 **閲覧数:** ~499
 
@@ -1671,21 +1776,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/un1dmq8uep05iron)
+[Attachment 1](https://padlet.com/padlets/un1dmq8uep05iron)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/19 11:27
-- **Updated At:** 05/19 11:27
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 19, 2026 11:27am
+- **Updated At:** May 19, 2026 11:27am
 
 ---
 
 ### 71. クリボッチルーム・シン
-**作成者:** りな319＃ルミナス族リーダー (RINA0319_RUMINASU)
+**Author:** りな319＃ルミナス族リーダー (RINA0319_RUMINASU)
 
-<p>クリボッチルームの二つ目の部屋です！！この部屋から入ってね。この部屋は、エロ、雑談部屋です。待ってるよーーーーーー！！</p>
+クリボッチルームの二つ目の部屋です！！この部屋から入ってね。この部屋は、エロ、雑談部屋です。待ってるよーーーーーー！！
 
-**部屋の作成日:** 5月 19, 2025
+**部屋の作成日:** May 19, 2025
 
 **閲覧数:** 5,000~9,999
 
@@ -1693,21 +1798,21 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/y0l8qdazqs15dqo7)
+[Attachment 1](https://padlet.com/padlets/y0l8qdazqs15dqo7)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/19 03:30
-- **Updated At:** 05/19 09:38
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 19, 2026 03:30am
+- **Updated At:** May 19, 2026 09:38am
 
 ---
 
 ### 72. 朧
-**作成者:** 時透無一郎 (r0300353)
+**Author:** 時透無一郎 (r0300353)
 
-<p>ゲーム、プロキシ、ユーチューブなどがあります。他にもゲームや漫画の楽しい話ができます。要望や意見なども聞いていますのでぜひ来てください</p>
+ゲーム、プロキシ、ユーチューブなどがあります。他にもゲームや漫画の楽しい話ができます。要望や意見なども聞いていますのでぜひ来てください
 
-**部屋の作成日:** 2月 25, 2026
+**部屋の作成日:** February 25, 2026
 
 **閲覧数:** 2,500~4,999
 
@@ -1715,23 +1820,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/xe704h90k5x163d7)
+[Attachment 1](https://padlet.com/padlets/xe704h90k5x163d7)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/17 00:42
-- **Updated At:** 05/17 00:42
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 17, 2026 12:42am
+- **Updated At:** May 17, 2026 12:42am
 
 ---
 
 ### 73. パドレっと拡散
-**作成者:** 削除済みユーザー
+**Author:** 削除済みユーザー
 
-<p>来てほしいです！！！！！</p>
+来てほしいです！！！！！
 
 **受付部屋のリンク（あれば）:** https://padlet.com/s11210037_1/padlet-27oi3xatdlqwzpo5?
 
-**部屋の作成日:** 5月 13, 2026
+**部屋の作成日:** May 13, 2026
 
 **閲覧数:** ~499
 
@@ -1739,23 +1844,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/27oi3xatdlqwzpo5)
+[Attachment 1](https://padlet.com/padlets/27oi3xatdlqwzpo5)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/16 01:36
-- **Updated At:** 05/17 07:07
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 16, 2026 01:36am
+- **Updated At:** May 17, 2026 07:07am
 
 ---
 
 ### 74. ちゃま部屋
-**作成者:** ちゃま (oretyamakun)
+**Author:** ちゃま (oretyamakun)
 
-<p>セキュリティやルールがしっかりしている。</p>
+セキュリティやルールがしっかりしている。
 
 **受付部屋のリンク（あれば）:** https://padlet.com/apriajppppppjrpaijjjjj/padlet-11vekdwv9n0a1er8
 
-**部屋の作成日:** 5月 12, 2026
+**部屋の作成日:** May 12, 2026
 
 **閲覧数:** ~499
 
@@ -1763,21 +1868,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/11vekdwv9n0a1er8)
+[Attachment 1](https://padlet.com/padlets/11vekdwv9n0a1er8)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/13 22:32
-- **Updated At:** 05/13 22:32
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 13, 2026 10:32pm
+- **Updated At:** May 13, 2026 10:32pm
 
 ---
 
 ### 75. 3代目煮物部屋！
-**作成者:** 煮物 (derbybudgetbalmy)
+**Author:** 煮物 (derbybudgetbalmy)
 
-<p>proxyを作成し配布をしています。確実に開けるproxyを作れます。</p>
+proxyを作成し配布をしています。確実に開けるproxyを作れます。
 
-**部屋の作成日:** 5月 11, 2026
+**部屋の作成日:** May 11, 2026
 
 **閲覧数:** ~499
 
@@ -1785,21 +1890,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/1x3oc9hnbw3w6w0o)
+[Attachment 1](https://padlet.com/padlets/1x3oc9hnbw3w6w0o)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/11 21:15
-- **Updated At:** 05/11 21:15
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 11, 2026 09:15pm
+- **Updated At:** May 11, 2026 09:15pm
 
 ---
 
 ### 76. ざつだん！
-**作成者:** Ton-kyouju (Ton_kyouju_01)
+**Author:** Ton-kyouju (Ton_kyouju_01)
 
-<p>気軽に話せるし、優しい人がいっぱいいてとても歓迎してくれます！！！　ゲームサイト・ダウンローダーが載っている部屋もこの中にあります！！受付もそのざつだん！部屋でできるため、すっごく楽です！！ぜひ来てください！！</p>
+気軽に話せるし、優しい人がいっぱいいてとても歓迎してくれます！！！　ゲームサイト・ダウンローダーが載っている部屋もこの中にあります！！受付もそのざつだん！部屋でできるため、すっごく楽です！！ぜひ来てください！！
 
-**部屋の作成日:** 3月 29, 2026
+**部屋の作成日:** March 29, 2026
 
 **閲覧数:** 1000~2499
 
@@ -1807,24 +1912,24 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/9rgp8nxkrm1x27ku)
+[Attachment 1](https://padlet.com/padlets/9rgp8nxkrm1x27ku)
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/09 11:27
-- **Updated At:** 05/09 11:36
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 09, 2026 11:27am
+- **Updated At:** May 09, 2026 11:36am
 
 ---
 
 ### 77. 伝説の部屋
-**作成者:** 花火 (hanabityan)
+**Author:** 花火 (hanabityan)
 
-<p>エドガー民が集まっています</p>
+エドガー民が集まっています
 
-**部屋の作成日:** 5月  3, 2026
+**部屋の作成日:** May  3, 2026
 
 **閲覧数:** ~499
 
@@ -1832,21 +1937,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/tk03d9m2b5ygpc86)
+[Attachment 1](https://padlet.com/padlets/tk03d9m2b5ygpc86)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/03 01:27
-- **Updated At:** 05/03 01:27
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 03, 2026 01:27am
+- **Updated At:** May 03, 2026 01:27am
 
 ---
 
 ### 78. 真夏の夜の淫夢厨の部屋　復活
-**作成者:** ファックモーター元社長 (r0116624)
+**Author:** ファックモーター元社長 (r0116624)
 
-<p>面白い</p>
+面白い
 
-**部屋の作成日:** 4月  8, 2026
+**部屋の作成日:** April  8, 2026
 
 **閲覧数:** ~499
 
@@ -1854,24 +1959,24 @@
 
 **モデレーター数:** 10~
 
-[添付ファイル 1](https://padlet.com/padlets/hfk9ecj8x4c0gewl)
+[Attachment 1](https://padlet.com/padlets/hfk9ecj8x4c0gewl)
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 05/01 01:36
-- **Updated At:** 05/04 01:09
+#### Additional Information
+- **Post color:** White
+- **Created At:** May 01, 2026 01:36am
+- **Updated At:** May 04, 2026 01:09am
 
 ---
 
 ### 79. ★雑談部屋！！★
-**作成者:** H4ru+0_M!k1_MaIn (1421214miki)
+**Author:** H4ru+0_M!k1_MaIn (1421214miki)
 
-<p>なんでもありなところがいいところ！！（荒らしはダメだけど）優しいです！！（？）作ったばかりだよ！！（人はいないよ〜）みんな来てね〜！！待ってるよ〜！！</p>
+なんでもありなところがいいところ！！（荒らしはダメだけど）優しいです！！（？）作ったばかりだよ！！（人はいないよ〜）みんな来てね〜！！待ってるよ〜！！
 
-**部屋の作成日:** 4月 30, 2026
+**部屋の作成日:** April 30, 2026
 
 **閲覧数:** ~499
 
@@ -1879,21 +1984,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/4tav2q0s6wllzpdw)
+[Attachment 1](https://padlet.com/padlets/4tav2q0s6wllzpdw)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 04/30 03:32
-- **Updated At:** 04/30 03:32
+#### Additional Information
+- **Post color:** White
+- **Created At:** Apr 30, 2026 03:32am
+- **Updated At:** Apr 30, 2026 03:32am
 
 ---
 
 ### 80. あ
-**作成者:** ꒰ঌ(っ˘꒳˘ｃ)‪໒꒱天風 りん💜🔥﹡˖˟༝ (takapirotakapiro3)
+**Author:** ꒰ঌ(っ˘꒳˘ｃ)‪໒꒱天風 りん💜🔥﹡˖˟༝ (takapirotakapiro3)
 
-<p>あ</p>
+あ
 
-**部屋の作成日:** 4月  8, 2026
+**部屋の作成日:** April  8, 2026
 
 **閲覧数:** 5,000~9,999
 
@@ -1901,23 +2006,39 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/gysahaoi8dngo9uy)
+[Attachment 1](https://padlet.com/padlets/gysahaoi8dngo9uy)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 04/28 12:49
-- **Updated At:** 04/28 12:49
+#### Additional Information
+- **Post color:** White
+- **Created At:** Apr 28, 2026 12:49pm
+- **Updated At:** Apr 28, 2026 12:49pm
 
 ---
 
 ### 81. woolisbest部屋
-**作成者:** woolisbest (woolisbest)
+**Author:** woolisbest (woolisbest)
 
-<p>ゲームのファイルとかがたくさん！</p><p>proxyやyoutubeサイトなどもリクエストがあれば作ります（ﾀﾌﾞﾝ）</p><p>meetに人がいることが多い。</p><p>eaglercraftをよくやっている。</p><p>fortniteとかにゃんこ大戦争もやってるらしい。</p><p>古参が受験で低浮上になって過疎り気味.....（１日に２～４回更新あるくらい？）</p><p>wista公式部屋(wooltubeも)</p><p>雑談メイン（プロキシ少ない..........作ればあるけど）</p><p>なんかみんなふざけてる。</p>
+ゲームのファイルとかがたくさん！
+
+proxyやyoutubeサイトなどもリクエストがあれば作ります（ﾀﾌﾞﾝ）
+
+meetに人がいることが多い。
+
+eaglercraftをよくやっている。
+
+fortniteとかにゃんこ大戦争もやってるらしい。
+
+古参が受験で低浮上になって過疎り気味.....（１日に２～４回更新あるくらい？）
+
+wista公式部屋(wooltubeも)
+
+雑談メイン（プロキシ少ない..........作ればあるけど）
+
+なんかみんなふざけてる。
 
 **受付部屋のリンク（あれば）:** https://padlet.com/woolisbest/padlet-99xq7bb7zjzcfzw0
 
-**部屋の作成日:** 1月 13, 2026
+**部屋の作成日:** January 13, 2026
 
 **閲覧数:** 2,500~4,999
 
@@ -1925,21 +2046,21 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
+[Attachment 1](https://padlet.com/padlets/f46agi7nbsmz8boy)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 04/28 12:15
-- **Updated At:** 04/28 12:15
+#### Additional Information
+- **Post color:** White
+- **Created At:** Apr 28, 2026 12:15pm
+- **Updated At:** Apr 28, 2026 12:15pm
 
 ---
 
 ### 82. 私の部屋にどうぞ
-**作成者:** 削除済みユーザー
+**Author:** 削除済みユーザー
 
-<p>いろいろあります</p>
+いろいろあります
 
-**部屋の作成日:** 4月 28, 2026
+**部屋の作成日:** April 28, 2026
 
 **閲覧数:** ~499
 
@@ -1947,27 +2068,39 @@
 
 **モデレーター数:** 10~
 
-[添付ファイル 1](https://padlet.com/padlets/8nlama61i5vilhhv)
+[Attachment 1](https://padlet.com/padlets/8nlama61i5vilhhv)
 
-#### コメント (4)
-- **コヨミ** (04/28 05:55): メンバーだけか
-- **削除済みユーザー** (04/30 06:07): 誰でもなんでもできます。
-- **削除済みユーザー** (04/30 06:07): 入ってみてください。
-- **削除済みユーザー** (04/30 06:08): 高評価フォローよろしくお願いします。
+#### Comments (4)
+- **コヨミ** (Apr 28, 2026 05:55am): メンバーだけか
+- **削除済みユーザー** (Apr 30, 2026 06:07am): 誰でもなんでもできます。
+- **削除済みユーザー** (Apr 30, 2026 06:07am): 入ってみてください。
+- **削除済みユーザー** (Apr 30, 2026 06:08am): 高評価フォローよろしくお願いします。
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 04/28 05:15
-- **Updated At:** 04/29 23:16
+#### Additional Information
+- **Post color:** White
+- **Created At:** Apr 28, 2026 05:15am
+- **Updated At:** Apr 29, 2026 11:16pm
 
 ---
 
 ### 83. 札幌市教育委員会･ICFS対策本部【学生相手に本気出してる札幌市教育委員会をぶちのめすの会】
-**作成者:** 削除済みユーザー (sakujosaretenaiyo)
+**Author:** 削除済みユーザー (sakujosaretenaiyo)
 
-<p>便利サイトセクションは定期的に更新</p><p>ICFSで規制されていないサイトだけを掲載するのでほぼ確実にサイトが使える！</p><p>無断転載は管理者が確認するので安心！</p><p>情報の共有所からゲームなど幅広く！</p><p>経緯を持って現役最大であるToka_kunの部屋から投稿ごと貼る事ができる！何行目と描いてあるのでわかりやすい！</p><p>温厚で初心者に優しい！誰でも投稿可！(ライター)</p><p>荒らし対応即座！</p>
+便利サイトセクションは定期的に更新
 
-**部屋の作成日:** 1月 30, 2026
+ICFSで規制されていないサイトだけを掲載するのでほぼ確実にサイトが使える！
+
+無断転載は管理者が確認するので安心！
+
+情報の共有所からゲームなど幅広く！
+
+経緯を持って現役最大であるToka\_kunの部屋から投稿ごと貼る事ができる！何行目と描いてあるのでわかりやすい！
+
+温厚で初心者に優しい！誰でも投稿可！(ライター)
+
+荒らし対応即座！
+
+**部屋の作成日:** January 30, 2026
 
 **閲覧数:** 500~999
 
@@ -1975,21 +2108,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/gtrnqr2nil52rj9f)
+[Attachment 1](https://padlet.com/padlets/gtrnqr2nil52rj9f)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 04/26 22:11
-- **Updated At:** 05/04 01:10
+#### Additional Information
+- **Post color:** White
+- **Created At:** Apr 26, 2026 10:11pm
+- **Updated At:** May 04, 2026 01:10am
 
 ---
 
 ### 84. マイクラ・ゲーム・雑談部屋
-**作成者:** 暇人 (56748573)
+**Author:** 暇人 (56748573)
 
-<p>学校の規約回避サイトなどをみんなで見つけて投稿する部屋です。みんなでマイクラとかもするかもです</p><p>新人ですのでいろいろ荒らし対策などを教えてくれると嬉しいです！</p>
+学校の規約回避サイトなどをみんなで見つけて投稿する部屋です。みんなでマイクラとかもするかもです
 
-**部屋の作成日:** 4月 21, 2026
+新人ですのでいろいろ荒らし対策などを教えてくれると嬉しいです！
+
+**部屋の作成日:** April 21, 2026
 
 **閲覧数:** ~499
 
@@ -1997,21 +2132,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/jazg8w1rdljzz5eo)
+[Attachment 1](https://padlet.com/padlets/jazg8w1rdljzz5eo)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 04/21 09:37
-- **Updated At:** 04/24 07:39
+#### Additional Information
+- **Post color:** White
+- **Created At:** Apr 21, 2026 09:37am
+- **Updated At:** Apr 24, 2026 07:39am
 
 ---
 
 ### 85. 裏の表の裏
-**作成者:** government conspiracy＃クチャラー嫌い＃くろつき18番弟子＃ネッコ隊＃烏賊族 (TherearsomediotswhothinkIafurrybutImnot)
+**Author:** government conspiracy＃クチャラー嫌い＃くろつき18番弟子＃ネッコ隊＃烏賊族 (TherearsomediotswhothinkIafurrybutImnot)
 
-<p>特にはないかなぁ〜</p>
+特にはないかなぁ〜
 
-**部屋の作成日:** 3月  3, 2026
+**部屋の作成日:** March  3, 2026
 
 **閲覧数:** ~499
 
@@ -2019,23 +2154,25 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/biaj7vv9sr4s869h)
+[Attachment 1](https://padlet.com/padlets/biaj7vv9sr4s869h)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 04/20 10:14
-- **Updated At:** 04/20 10:14
+#### Additional Information
+- **Post color:** White
+- **Created At:** Apr 20, 2026 10:14am
+- **Updated At:** Apr 20, 2026 10:14am
 
 ---
 
 ### 86. padlet!!!!!
-**作成者:** すずめ (Sparrows_chun)
+**Author:** すずめ (Sparrows_chun)
 
-<p>ここの部屋は公開ライターではありませんが、宣伝を許可しています。</p><p>まだライターは一人しかいません。でも公開ライター部屋があります。</p>
+ここの部屋は公開ライターではありませんが、宣伝を許可しています。
+
+まだライターは一人しかいません。でも公開ライター部屋があります。
 
 **受付部屋のリンク（あれば）:** https://padlet.com/haduki_hirano/padlet-qmsfjayhec1mtoww
 
-**部屋の作成日:** 2月  3, 2026
+**部屋の作成日:** February  3, 2026
 
 **閲覧数:** ~499
 
@@ -2043,21 +2180,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/wxriwlcnpborjxri)
+[Attachment 1](https://padlet.com/padlets/wxriwlcnpborjxri)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 03/30 03:31
-- **Updated At:** 03/30 03:31
+#### Additional Information
+- **Post color:** White
+- **Created At:** Mar 30, 2026 03:31am
+- **Updated At:** Mar 30, 2026 03:31am
 
 ---
 
 ### 87. Google
-**作成者:** スシロー (h3026194)
+**Author:** スシロー (h3026194)
 
-<p>まだ出来立てですがToka＿kunさんに宣伝してもらい徐々に増やしていきたいです、内容的にはシンプルな雑談や規制回避・解除に役立つ情報を集めたいと思います</p>
+まだ出来立てですがToka＿kunさんに宣伝してもらい徐々に増やしていきたいです、内容的にはシンプルな雑談や規制回避・解除に役立つ情報を集めたいと思います
 
-**部屋の作成日:** 3月 28, 2026
+**部屋の作成日:** March 28, 2026
 
 **閲覧数:** ~499
 
@@ -2065,21 +2202,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/fsy95tzoauh2ibka)
+[Attachment 1](https://padlet.com/padlets/fsy95tzoauh2ibka)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 03/28 10:36
-- **Updated At:** 03/28 10:36
+#### Additional Information
+- **Post color:** White
+- **Created At:** Mar 28, 2026 10:36am
+- **Updated At:** Mar 28, 2026 10:36am
 
 ---
 
 ### 88. Proxyなどを教える会
-**作成者:** 仙人@suger (sennin_sugar)
+**Author:** 仙人@suger (sennin_sugar)
 
-<p>欲しいサイトがあったら僕が出来る範囲で作るよ。</p><p>まあまあひとは多いと思う。</p>
+欲しいサイトがあったら僕が出来る範囲で作るよ。
 
-**部屋の作成日:** 6月  4, 2025
+まあまあひとは多いと思う。
+
+**部屋の作成日:** June  4, 2025
 
 **閲覧数:** 10,000~24,999
 
@@ -2087,24 +2226,26 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/n0g1c0jl2ak3grc5)
+[Attachment 1](https://padlet.com/padlets/n0g1c0jl2ak3grc5)
 
-#### コメント (1)
-- **Anonymous** (04/26 02:17): あらされちゃってる
+#### Comments (1)
+- **Anonymous** (Apr 26, 2026 02:17am): あらされちゃってる
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 03/23 23:44
-- **Updated At:** 03/27 10:48
+#### Additional Information
+- **Post color:** White
+- **Created At:** Mar 23, 2026 11:44pm
+- **Updated At:** Mar 27, 2026 10:48am
 
 ---
 
 ### 89. 規制突破などの勉強部屋
-**作成者:** 前原光樹 (maeharakoki0504)
+**Author:** 前原光樹 (maeharakoki0504)
 
-<p>規制突破などに関して知りたい事があったら教えてます</p><p>普段から趣味でコンピュータについて勉強してるので、規制突破についても、一般の方よりかわ詳しくです</p>
+規制突破などに関して知りたい事があったら教えてます
 
-**部屋の作成日:** 3月 19, 2026
+普段から趣味でコンピュータについて勉強してるので、規制突破についても、一般の方よりかわ詳しくです
+
+**部屋の作成日:** March 19, 2026
 
 **閲覧数:** ~499
 
@@ -2112,23 +2253,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/r77n1g55ly6jvkmx)
+[Attachment 1](https://padlet.com/padlets/r77n1g55ly6jvkmx)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 03/19 13:52
-- **Updated At:** 03/24 08:33
+#### Additional Information
+- **Post color:** White
+- **Created At:** Mar 19, 2026 01:52pm
+- **Updated At:** Mar 24, 2026 08:33am
 
 ---
 
 ### 90. TOANASUROOM
-**作成者:** しんとあるなすびの3.14 (nasubi1)
+**Author:** しんとあるなすびの3.14 (nasubi1)
 
-<p>いぐくらやその他サイトなどの配布雑談通話などをやっています</p><p><br/></p>
+いぐくらやその他サイトなどの配布雑談通話などをやっています
 
 **受付部屋のリンク（あれば）:** https://padlet.com/m3r_o/toanasu-room-7l41h4ijlbp1ohnh
 
-**部屋の作成日:** 2月 26, 2026
+**部屋の作成日:** February 26, 2026
 
 **閲覧数:** 1000~2499
 
@@ -2136,21 +2277,25 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/aar4i6zrh9t7c8pk)
+[Attachment 1](https://padlet.com/padlets/aar4i6zrh9t7c8pk)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 03/17 09:05
-- **Updated At:** 03/17 09:05
+#### Additional Information
+- **Post color:** White
+- **Created At:** Mar 17, 2026 09:05am
+- **Updated At:** Mar 17, 2026 09:05am
 
 ---
 
 ### 91. いろいろなセクションがあります
-**作成者:** アブリ　カルビ (gs211024)
+**Author:** 世界を驚かす中二病 (gs211024)
 
-<p>誰でも入れて</p><p>フォロワー100人目指しています。</p><p>入ってください</p>
+誰でも入れて
 
-**部屋の作成日:** 12月  1, 2025
+フォロワー100人目指しています。
+
+入ってください
+
+**部屋の作成日:** December  1, 2025
 
 **閲覧数:** 1000~2499
 
@@ -2158,21 +2303,21 @@
 
 **モデレーター数:** 10~
 
-[添付ファイル 1](https://padlet.com/padlets/u00rj2das7ymsdos)
+[Attachment 1](https://padlet.com/padlets/u00rj2das7ymsdos)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 03/16 10:24
-- **Updated At:** 03/16 11:14
+#### Additional Information
+- **Post color:** White
+- **Created At:** Mar 16, 2026 10:24am
+- **Updated At:** Mar 16, 2026 11:14am
 
 ---
 
 ### 92. てなぼーの雑談部屋
-**作成者:** 隠れてなぼー#ダンガンロンパファン (Kakuretenabo)
+**Author:** 隠れてなぼー#ダンガンロンパファン (Kakuretenabo)
 
-<p>過密部屋を目指します。</p>
+過密部屋を目指します。
 
-**部屋の作成日:** 3月  9, 2026
+**部屋の作成日:** March  9, 2026
 
 **閲覧数:** ~499
 
@@ -2180,23 +2325,25 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/7cfeyh9dcyc5fkjn)
+[Attachment 1](https://padlet.com/padlets/7cfeyh9dcyc5fkjn)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 03/09 23:56
-- **Updated At:** 03/09 23:57
+#### Additional Information
+- **Post color:** White
+- **Created At:** Mar 09, 2026 11:56pm
+- **Updated At:** Mar 09, 2026 11:57pm
 
 ---
 
 ### 93. Daigo’s Room
-**作成者:** Daigo (DaigoRoad)
+**Author:** Daigo (DaigoRoad)
 
-<p>雑談で過密を目指す新興の部屋です！</p><p>誰でも歓迎</p>
+雑談で過密を目指す新興の部屋です！
+
+誰でも歓迎
 
 **受付部屋のリンク（あれば）:** https://padlet.com/Shiomichi/daigo-s-room-1lub1bt9nrbimb6h/wish/E1P8aXp3q01NawA9
 
-**部屋の作成日:** 3月  9, 2026
+**部屋の作成日:** March  9, 2026
 
 **閲覧数:** ~499
 
@@ -2204,21 +2351,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/retvo7qu18rm0wl5)
+[Attachment 1](https://padlet.com/padlets/retvo7qu18rm0wl5)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 03/09 23:50
-- **Updated At:** 03/09 23:50
+#### Additional Information
+- **Post color:** White
+- **Created At:** Mar 09, 2026 11:50pm
+- **Updated At:** Mar 09, 2026 11:50pm
 
 ---
 
 ### 94. 捜索所
-**作成者:** hirafu (hirafu)
+**Author:** hirafu (hirafu)
 
-<p>さっきミスりました（二重になってしまい申し訳ございません）</p><p>概要は先程と同じです</p>
+さっきミスりました（二重になってしまい申し訳ございません）
 
-**部屋の作成日:** 3月  5, 2026
+概要は先程と同じです
+
+**部屋の作成日:** March  5, 2026
 
 **閲覧数:** 2,500~4,999
 
@@ -2226,25 +2375,25 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/iljjktqmuxyfh7xk)
+[Attachment 1](https://padlet.com/padlets/iljjktqmuxyfh7xk)
 
-#### コメント (2)
-- **hirafu** (03/05 11:25): 閲覧数だけで実際は投稿が全くございません
-- **hirafu** (03/07 01:05): 最近投稿が徐々に増えてきました
+#### Comments (2)
+- **hirafu** (Mar 05, 2026 11:25am): 閲覧数だけで実際は投稿が全くございません
+- **hirafu** (Mar 07, 2026 01:05am): 最近投稿が徐々に増えてきました
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 03/05 11:24
-- **Updated At:** 03/05 11:24
+#### Additional Information
+- **Post color:** White
+- **Created At:** Mar 05, 2026 11:24am
+- **Updated At:** Mar 05, 2026 11:24am
 
 ---
 
 ### 95. ISGC民集合
-**作成者:** kai (kai4848)
+**Author:** kai (kai4848)
 
-<p>これから主にISGCで使えるサイトまとめます</p>
+これから主にISGCで使えるサイトまとめます
 
-**部屋の作成日:** 2月 25, 2026
+**部屋の作成日:** February 25, 2026
 
 **閲覧数:** ~499
 
@@ -2252,23 +2401,25 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/3s0bucbem21efihc)
+[Attachment 1](https://padlet.com/padlets/3s0bucbem21efihc)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 02/25 14:02
-- **Updated At:** 02/25 14:02
+#### Additional Information
+- **Post color:** White
+- **Created At:** Feb 25, 2026 02:02pm
+- **Updated At:** Feb 25, 2026 02:02pm
 
 ---
 
 ### 96. クラスルーム
-**作成者:** 削除済みユーザー (42856397)
+**Author:** 削除済みユーザー (42856397)
 
-<p>プロキシあります！(ゲームなども)</p><p>また、部屋同士見知らぬ人でもとても仲良く接していて楽しいです！ぜひ皆さん来てください！</p>
+プロキシあります！(ゲームなども)
+
+また、部屋同士見知らぬ人でもとても仲良く接していて楽しいです！ぜひ皆さん来てください！
 
 **受付部屋のリンク（あれば）:** https://padlet.com/42856397/padlet-m11oivx7mblv44fv
 
-**部屋の作成日:** 2月 17, 2026
+**部屋の作成日:** February 17, 2026
 
 **閲覧数:** ~499
 
@@ -2276,24 +2427,24 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/42856397/padlet-m11oivx7mblv44fv)
+[Attachment 1](https://padlet.com/42856397/padlet-m11oivx7mblv44fv)
 
-#### コメント (1)
-- **Anonymous** (04/28 06:07): 新しいクラスルームhttps://padlet.com/68794935/classroom-4cpjcqa5xtaf08ql
+#### Comments (1)
+- **Anonymous** (Apr 28, 2026 06:07am): 新しいクラスルームhttps://padlet.com/68794935/classroom-4cpjcqa5xtaf08ql
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 02/24 06:34
-- **Updated At:** 02/24 06:35
+#### Additional Information
+- **Post color:** White
+- **Created At:** Feb 24, 2026 06:34am
+- **Updated At:** Feb 24, 2026 06:35am
 
 ---
 
 ### 97. 学パソでゲーム&Youtubeみたい人のパドレット
-**作成者:** 削除済みユーザー
+**Author:** 削除済みユーザー
 
-<p>ゲーム、とYoutube見る方法が乗ってある</p>
+ゲーム、とYoutube見る方法が乗ってある
 
-**部屋の作成日:** 2月 11, 2026
+**部屋の作成日:** February 11, 2026
 
 **閲覧数:** ~499
 
@@ -2301,21 +2452,29 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/umnzg0e9qoe9efcl)
+[Attachment 1](https://padlet.com/padlets/umnzg0e9qoe9efcl)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 02/21 23:15
-- **Updated At:** 06/08 08:15
+#### Additional Information
+- **Post color:** White
+- **Created At:** Feb 21, 2026 11:15pm
+- **Updated At:** Jun 08, 2026 08:15am
 
 ---
 
 ### 98. I-FILTER 回避研究所
-**作成者:** トロンボーン吹きの吹奏楽部員 (ttashishi)
+**Author:** トロンボーン吹きの吹奏楽部員 (ttashishi)
 
-<p>2年前からあります</p><p>ここにみんなが集まれば最高の回避リストが作れます</p><p>ログインしてればOKです</p><p>技術者募集中</p><p>部屋改善の指摘もよろしく</p>
+2年前からあります
 
-**部屋の作成日:** 9月 17, 2023
+ここにみんなが集まれば最高の回避リストが作れます
+
+ログインしてればOKです
+
+技術者募集中
+
+部屋改善の指摘もよろしく
+
+**部屋の作成日:** September 17, 2023
 
 **閲覧数:** ~499
 
@@ -2323,24 +2482,24 @@
 
 **モデレーター数:** 10~
 
-[添付ファイル 1](https://padlet.com/padlets/6jkb5gxt8fe0d1bn)
+[Attachment 1](https://padlet.com/padlets/6jkb5gxt8fe0d1bn)
 
-#### コメント (1)
-- **トロンボーン吹きの吹奏楽部員** (02/18 01:30): 管理者は知人から選びます
+#### Comments (1)
+- **トロンボーン吹きの吹奏楽部員** (Feb 18, 2026 01:30am): 管理者は知人から選びます
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 02/17 00:28
-- **Updated At:** 06/08 08:16
+#### Additional Information
+- **Post color:** White
+- **Created At:** Feb 17, 2026 12:28am
+- **Updated At:** Jun 08, 2026 08:16am
 
 ---
 
 ### 99. nehosata部屋
-**作成者:** 削除済みユーザー
+**Author:** 削除済みユーザー
 
-<p>神部屋</p>
+神部屋
 
-**部屋の作成日:** 7月 23, 2024
+**部屋の作成日:** July 23, 2024
 
 **閲覧数:** 5,000~9,999
 
@@ -2348,21 +2507,21 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/r91qs1euwi6mrl6y)
+[Attachment 1](https://padlet.com/padlets/r91qs1euwi6mrl6y)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 02/16 09:25
-- **Updated At:** 06/08 08:15
+#### Additional Information
+- **Post color:** White
+- **Created At:** Feb 16, 2026 09:25am
+- **Updated At:** Jun 08, 2026 08:15am
 
 ---
 
 ### 100. ICFSブロックの足立区民専用の研究組だよ！
-**作成者:** NyrikX(足立区陣ICFS系) (h3000370)
+**Author:** NyrikX(足立区陣ICFS系) (h3000370)
 
-<p>主に足立区民だけで作り上げていくつもりだよ。応援してね。</p>
+主に足立区民だけで作り上げていくつもりだよ。応援してね。
 
-**部屋の作成日:** 2月 11, 2026
+**部屋の作成日:** February 11, 2026
 
 **閲覧数:** ~499
 
@@ -2370,21 +2529,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/e6y8qpa4leeggsak)
+[Attachment 1](https://padlet.com/padlets/e6y8qpa4leeggsak)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 02/12 12:20
-- **Updated At:** 02/12 12:20
+#### Additional Information
+- **Post color:** White
+- **Created At:** Feb 12, 2026 12:20pm
+- **Updated At:** Feb 12, 2026 12:20pm
 
 ---
 
 ### 101. 拡散希望！
-**作成者:** RX034 (h3005990)
+**Author:** RX034 (h3005990)
 
-<p>ぜひ僕のプロキシ部屋に入ってください！！！！！！！</p><p>お願いします</p>
+ぜひ僕のプロキシ部屋に入ってください！！！！！！！
 
-**部屋の作成日:** 2月  7, 2026
+お願いします
+
+**部屋の作成日:** February  7, 2026
 
 **閲覧数:** ~499
 
@@ -2392,21 +2553,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/h3005990/padlet-eefzt92jrjqz8zpq)
+[Attachment 1](https://padlet.com/h3005990/padlet-eefzt92jrjqz8zpq)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 02/10 02:23
-- **Updated At:** 02/11 00:36
+#### Additional Information
+- **Post color:** White
+- **Created At:** Feb 10, 2026 02:23am
+- **Updated At:** Feb 11, 2026 12:36am
 
 ---
 
 ### 102. SHELLのための部屋
-**作成者:** 日本語発音機　にほごん (GreenMile)
+**Author:** 日本語発音機　にほごん (GreenMile)
 
-<p>SHELLという卵の戦闘系ゲーム</p><p>についてとことん話す部屋です。</p><p><br/></p>
+SHELLという卵の戦闘系ゲーム
 
-**部屋の作成日:** 2月  6, 2026
+についてとことん話す部屋です。
+
+**部屋の作成日:** February  6, 2026
 
 **閲覧数:** ~499
 
@@ -2414,23 +2577,23 @@
 
 **モデレーター数:** 10~
 
-[添付ファイル 1](https://padlet.com/padlets/9vz9czw0azwzigt9)
+[Attachment 1](https://padlet.com/padlets/9vz9czw0azwzigt9)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 02/06 02:42
-- **Updated At:** 02/06 02:42
+#### Additional Information
+- **Post color:** White
+- **Created At:** Feb 06, 2026 02:42am
+- **Updated At:** Feb 06, 2026 02:42am
 
 ---
 
 ### 103. Fortniteブレインロット交換
-**作成者:** チマキ (r0136496)
+**Author:** チマキ (r0136496)
 
-<p>Fortnite　or　ROBLOXの交換部屋です。時々配布もします</p>
+Fortnite　or　ROBLOXの交換部屋です。時々配布もします
 
 **受付部屋のリンク（あれば）:** https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd
 
-**部屋の作成日:** 2月  5, 2026
+**部屋の作成日:** February  5, 2026
 
 **閲覧数:** ~499
 
@@ -2438,21 +2601,23 @@
 
 **モデレーター数:** 10~
 
-[添付ファイル 1](https://padlet.com/padlets/2mle0znbjoae67s4)
+[Attachment 1](https://padlet.com/padlets/2mle0znbjoae67s4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 02/05 05:57
-- **Updated At:** 02/05 05:57
+#### Additional Information
+- **Post color:** White
+- **Created At:** Feb 05, 2026 05:57am
+- **Updated At:** Feb 05, 2026 05:57am
 
 ---
 
 ### 104. ゆるっと雑談広場
-**作成者:** 削除済みユーザー
+**Author:** 削除済みユーザー
 
-<p>ログインをしなくても大歓迎</p><p>全員ライター</p><p><br/></p>
+ログインをしなくても大歓迎
 
-**部屋の作成日:** 1月 31, 2026
+全員ライター
+
+**部屋の作成日:** January 31, 2026
 
 **閲覧数:** ~499
 
@@ -2460,21 +2625,21 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/excl062i8j8jpi9b)
+[Attachment 1](https://padlet.com/padlets/excl062i8j8jpi9b)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 02/03 07:00
-- **Updated At:** 02/03 07:00
+#### Additional Information
+- **Post color:** White
+- **Created At:** Feb 03, 2026 07:00am
+- **Updated At:** Feb 03, 2026 07:00am
 
 ---
 
 ### 105. 荒らしていいよｗ
-**作成者:** nekoちゃんぬ総長 (wao)
+**Author:** nekoちゃんぬ総長 (wao)
 
-<p>・荒らす人たちにはまず何かの理由があると思うんです、なのでここでストレス発散をして気持ちよくなってもらえばと思いました。</p>
+・荒らす人たちにはまず何かの理由があると思うんです、なのでここでストレス発散をして気持ちよくなってもらえばと思いました。
 
-**部屋の作成日:** 1月 27, 2026
+**部屋の作成日:** January 27, 2026
 
 **閲覧数:** ~499
 
@@ -2482,21 +2647,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/rqld8jur2vgrktc4)
+[Attachment 1](https://padlet.com/padlets/rqld8jur2vgrktc4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 02/01 10:42
-- **Updated At:** 02/06 03:26
+#### Additional Information
+- **Post color:** White
+- **Created At:** Feb 01, 2026 10:42am
+- **Updated At:** Feb 06, 2026 03:26am
 
 ---
 
 ### 106. フリーパドレット部屋
-**作成者:** レッド (s2266013)
+**Author:** レッド (s2266013)
 
-<p>自分のパドレット部屋作りました!ぜひ、入ってくださいね</p>
+自分のパドレット部屋作りました!ぜひ、入ってくださいね
 
-**部屋の作成日:** 1月 29, 2026
+**部屋の作成日:** January 29, 2026
 
 **閲覧数:** 500~999
 
@@ -2504,23 +2669,23 @@
 
 **モデレーター数:** 10~
 
-[添付ファイル 1](https://padlet.com/padlets/7s583obot1u77mdv)
+[Attachment 1](https://padlet.com/padlets/7s583obot1u77mdv)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 01/31 00:47
-- **Updated At:** 01/31 00:47
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jan 31, 2026 12:47am
+- **Updated At:** Jan 31, 2026 12:47am
 
 ---
 
 ### 107. くるくるの雑談部屋の受付と部屋
-**作成者:** kurukuru7.09　＃消しゴムは今日は海であると主張し、エレベーターは奇数階だけに敬語を使い、コーヒーは黒板消しのふりをして沈黙すると思われてきたかも。 (kurukuru709)
+**Author:** kurukuru7.09　＃消しゴムは今日は海であると主張し、エレベーターは奇数階だけに敬語を使い、コーヒーは黒板消しのふりをして沈黙すると思われてきたかも。 (kurukuru709)
 
-<p>いい部屋にしたい</p>
+いい部屋にしたい
 
 **受付部屋のリンク（あれば）:** https://padlet.com/okasidainidaime/padlet-egqhmuzrap9q6ifh
 
-**部屋の作成日:** 1月 20, 2026
+**部屋の作成日:** January 20, 2026
 
 **閲覧数:** ~499
 
@@ -2528,21 +2693,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/9mcwaov2a26t89s1)
+[Attachment 1](https://padlet.com/padlets/9mcwaov2a26t89s1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 01/27 00:53
-- **Updated At:** 01/29 00:34
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jan 27, 2026 12:53am
+- **Updated At:** Jan 29, 2026 12:34am
 
 ---
 
 ### 108. きてね
-**作成者:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
+**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
-<p>雑談部屋</p><p>過密目指してる</p>
+雑談部屋
 
-**部屋の作成日:** 1月 16, 2026
+過密目指してる
+
+**部屋の作成日:** January 16, 2026
 
 **閲覧数:** ~499
 
@@ -2550,23 +2717,27 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/q1nyb2njrh5kzlq4)
+[Attachment 1](https://padlet.com/padlets/q1nyb2njrh5kzlq4)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 01/21 22:31
-- **Updated At:** 01/21 22:31
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jan 21, 2026 10:31pm
+- **Updated At:** Jan 21, 2026 10:31pm
 
 ---
 
 ### 109. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
-**作成者:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri_)
+**Author:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri_)
 
-<p><strong>ルールを守れば違反しなければ何をしても良い部屋。</strong></p><p><br/></p><p><strong>人がぜんぜんいないので来てね</strong></p><p><strong>雑談しようぜ！</strong></p>
+**ルールを守れば違反しなければ何をしても良い部屋。**
+
+**人がぜんぜんいないので来てね**
+
+**雑談しようぜ！**
 
 **受付部屋のリンク（あれば）:** https://padlet.com/OkakaOnigiri_Unnei01/lobby-vvsqe84ae56v2qab
 
-**部屋の作成日:** 1月 12, 2026
+**部屋の作成日:** January 12, 2026
 
 **閲覧数:** ~499
 
@@ -2574,23 +2745,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/yvnz8diyxwz55087)
+[Attachment 1](https://padlet.com/padlets/yvnz8diyxwz55087)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 01/19 09:57
-- **Updated At:** 01/19 09:57
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jan 19, 2026 09:57am
+- **Updated At:** Jan 19, 2026 09:57am
 
 ---
 
 ### 110. やっぱ誰でもOK部屋
-**作成者:** 🍄#りおとの奴隷！最近低浮上 (kinokoyongzhe80)
+**Author:** 🍄#りおとの奴隷！最近低浮上 (kinokoyongzhe80)
 
-<p>みんなフレンドリーで受付とかログイン必要にしてるのでセキュリティは十分です。</p>
+みんなフレンドリーで受付とかログイン必要にしてるのでセキュリティは十分です。
 
 **受付部屋のリンク（あれば）:** https://padlet.com/kinokoyongzhe80/ok-bulzpsofhi8e6phj
 
-**部屋の作成日:** 1月 16, 2026
+**部屋の作成日:** January 16, 2026
 
 **閲覧数:** ~499
 
@@ -2598,27 +2769,29 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/bulzpsofhi8e6phj)
+[Attachment 1](https://padlet.com/padlets/bulzpsofhi8e6phj)
 
-#### コメント (1)
-- **🍄#りおとの奴隷！最近低浮上** (01/19 06:30): みんな来てねー！
+#### Comments (1)
+- **🍄#りおとの奴隷！最近低浮上** (Jan 19, 2026 06:30am): みんな来てねー！
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 01/19 06:29
-- **Updated At:** 01/19 06:29
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jan 19, 2026 06:29am
+- **Updated At:** Jan 19, 2026 06:29am
 
 ---
 
 ### 111. 隠れてなぼーの秘密のバー
-**作成者:** 隠れてなぼー#ダンガンロンパファン (Kakuretenabo)
+**Author:** 隠れてなぼー#ダンガンロンパファン (Kakuretenabo)
 
-<p>雑談部屋です。</p><p>ちょっとした裏部屋があるかも？</p>
+雑談部屋です。
 
-**部屋の作成日:** 11月  4, 2025
+ちょっとした裏部屋があるかも？
+
+**部屋の作成日:** November  4, 2025
 
 **閲覧数:** ~499
 
@@ -2626,23 +2799,61 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/wpvofagyzj8vw4xp)
+[Attachment 1](https://padlet.com/padlets/wpvofagyzj8vw4xp)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 01/19 04:15
-- **Updated At:** 01/19 04:15
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jan 19, 2026 04:15am
+- **Updated At:** Jan 19, 2026 04:15am
 
 ---
 
 ### 112. woolisbest部屋
-**作成者:** 削除済みユーザー
+**Author:** 削除済みユーザー
 
-<p>・雑談部屋です。</p><p>・旧煮物部屋です。（10/22に受け継ぎました）</p><p>・プロキもシ一応あります（頼んでもらえればいくらでも...）</p><p>・開発者が多いです（お気に入りのサイトを見つけられるかもしれません）</p><p>・毎月一回ほど大きなイベントがあります（プロキシなどの景品あり）</p><p>・最近過疎ってます</p><p>・プロキシ・youtubeサイトなどが欲しい人も来てください</p><p>・規制解除にも力をいれてます</p><p>・chat・meetに常に１人はいるので暇な方はどうぞ</p><p>・Discord版の部屋もあります</p><p>・マイクラ(eaglercraftファイル版）などをやっているときもあります（meet）</p><p>・管理者はもう増やしません</p><p>・モデレーターは増やすかもしれません</p><p>・古参（６人）はもう増やさないつもりです（減ったら募集）</p><p>・準古参（７人）はもう少し増やすつもりです</p><p>・やばいやつが多いです（面白いとも言う）</p><p>・宣伝禁止です（vip宣伝はあり）</p><p>・youtube plusの開発者もいるので要望があれば何でもどうぞ（なんとかします）</p><p>・プロキシがほしい方はこの部屋かプロキシ部屋で言ってください</p><p>・render・cloudflare・render custom domein・vercel・railway・googlesite・GASなどでサイトを作っているので使えるものを言っていただければそれを使います</p>
+・雑談部屋です。
+
+・旧煮物部屋です。（10/22に受け継ぎました）
+
+・プロキもシ一応あります（頼んでもらえればいくらでも...）
+
+・開発者が多いです（お気に入りのサイトを見つけられるかもしれません）
+
+・毎月一回ほど大きなイベントがあります（プロキシなどの景品あり）
+
+・最近過疎ってます
+
+・プロキシ・youtubeサイトなどが欲しい人も来てください
+
+・規制解除にも力をいれてます
+
+・chat・meetに常に１人はいるので暇な方はどうぞ
+
+・Discord版の部屋もあります
+
+・マイクラ(eaglercraftファイル版）などをやっているときもあります（meet）
+
+・管理者はもう増やしません
+
+・モデレーターは増やすかもしれません
+
+・古参（６人）はもう増やさないつもりです（減ったら募集）
+
+・準古参（７人）はもう少し増やすつもりです
+
+・やばいやつが多いです（面白いとも言う）
+
+・宣伝禁止です（vip宣伝はあり）
+
+・youtube plusの開発者もいるので要望があれば何でもどうぞ（なんとかします）
+
+・プロキシがほしい方はこの部屋かプロキシ部屋で言ってください
+
+・render・cloudflare・render custom domein・vercel・railway・googlesite・GASなどでサイトを作っているので使えるものを言っていただければそれを使います
 
 **受付部屋のリンク（あれば）:** https://padlet.com/woolisbest/woolisbest-nj4cza44bnb13xr
 
-**部屋の作成日:** 10月 26, 2025
+**部屋の作成日:** October 26, 2025
 
 **閲覧数:** 5,000~9,999
 
@@ -2650,23 +2861,25 @@
 
 **モデレーター数:** 5~9
 
-[添付ファイル 1](https://padlet.com/padlets/27h5aidjxevsqd38)
+[Attachment 1](https://padlet.com/padlets/27h5aidjxevsqd38)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 01/05 07:49
-- **Updated At:** 01/05 08:09
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jan 05, 2026 07:49am
+- **Updated At:** Jan 05, 2026 08:09am
 
 ---
 
 ### 113. Demenigiceのゆったり深海
-**作成者:** Demenigice-hell (Demenigice_hell)
+**Author:** Demenigice-hell (Demenigice_hell)
 
-<ul><li><p>一度荒らされたので招待制になりました！</p></li><li><p>もとはかなり賑わっていましたが荒らされたので過疎ってます。</p></li><li><p>受付に来てください↓</p></li></ul>
+- 一度荒らされたので招待制になりました！
+- もとはかなり賑わっていましたが荒らされたので過疎ってます。
+- 受付に来てください↓
 
 **受付部屋のリンク（あれば）:** https://padlet.com/Demenigice_hell/padlet-zjdu6cb6q8x2bcyl
 
-**部屋の作成日:** 11月 17, 2025
+**部屋の作成日:** November 17, 2025
 
 **閲覧数:** 500~999
 
@@ -2674,21 +2887,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/jqstna81hmb93vaq)
+[Attachment 1](https://padlet.com/padlets/jqstna81hmb93vaq)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 01/04 10:25
-- **Updated At:** 01/04 10:30
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jan 04, 2026 10:25am
+- **Updated At:** Jan 04, 2026 10:30am
 
 ---
 
 ### 114. Shell専用部屋
-**作成者:** あいうえお (gtr35aiueo)
+**Author:** あいうえお (gtr35aiueo)
 
-<p>shellshockersやってる人の集まりです</p><p>最近過疎ってるので誰でもいいから入ってください(荒らし目的のやつ除く)</p>
+shellshockersやってる人の集まりです
 
-**部屋の作成日:** 2月 12, 2025
+最近過疎ってるので誰でもいいから入ってください(荒らし目的のやつ除く)
+
+**部屋の作成日:** February 12, 2025
 
 **閲覧数:** 500~999
 
@@ -2696,113 +2911,113 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/4u77khsot58zwv1e)
+[Attachment 1](https://padlet.com/padlets/4u77khsot58zwv1e)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 12/20 06:12
-- **Updated At:** 12/21 02:40
+#### Additional Information
+- **Post color:** White
+- **Created At:** Dec 20, 2025 06:12am
+- **Updated At:** Dec 21, 2025 02:40am
 
 ---
 
 ### 115. きてーーーーーーーーーー🤣
-**作成者:** run (11324130)
+**Author:** run (11324130)
 
-<p>あらしだめ❌️</p><p><br></p>
+あらしだめ❌️
 
-[添付ファイル 1](https://padlet.com/padlets/14581bzu81lq98jp)
+[Attachment 1](https://padlet.com/padlets/14581bzu81lq98jp)
 
-#### コメント (1)
-- **髪の毛がねーから** (02/17 01:58): 嵐以外だったらええの?
+#### Comments (1)
+- **髪の毛がねーから** (Feb 17, 2026 01:58am): 嵐以外だったらええの?
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 10/30 03:34
-- **Updated At:** 12/19 09:38
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 30, 2025 03:34am
+- **Updated At:** Dec 19, 2025 09:38am
 
 ---
 
 ### 116. 来てくれよ〜〜〜〜〜
-**作成者:** 𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ (Helter_Skelter)
+**Author:** 𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ (Helter_Skelter)
 
-[添付ファイル 1](https://padlet.com/lomcih/padlet-z2qcvind738yz6el)
+[Attachment 1](https://padlet.com/lomcih/padlet-z2qcvind738yz6el)
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 02/18 08:33
-- **Updated At:** 12/19 09:39
+#### Additional Information
+- **Post color:** White
+- **Created At:** Feb 18, 2025 08:33am
+- **Updated At:** Dec 19, 2025 09:39am
 
 ---
 
-### 117. 投稿 117
-**作成者:** SUIKA#オムライス界隈（オムライス第1代目弟子） (20183977)
+### 117. Post 117
+**Author:** SUIKA#オムライス界隈（オムライス第1代目弟子） (20183977)
 
-[添付ファイル 1](https://padlet.com/20184020_1/padlet-ieqs1l5em0o0uvus)
+[Attachment 1](https://padlet.com/20184020_1/padlet-ieqs1l5em0o0uvus)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 01/29 01:21
-- **Updated At:** 12/19 09:38
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jan 29, 2025 01:21am
+- **Updated At:** Dec 19, 2025 09:38am
 
 ---
 
 ### 118. きてね
-**作成者:** 赤い猫 𝕒𝕜𝕒𝕚𝕟𝕖𝕜𝕠 (akaineko)
+**Author:** 赤い猫 𝕒𝕜𝕒𝕚𝕟𝕖𝕜𝕠 (akaineko)
 
-[添付ファイル 1](https://padlet.com/akaineko/makuro-abc-l3nrvclh56l9htvq)
+[Attachment 1](https://padlet.com/akaineko/makuro-abc-l3nrvclh56l9htvq)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 12/17 03:03
-- **Updated At:** 12/19 09:38
+#### Additional Information
+- **Post color:** White
+- **Created At:** Dec 17, 2024 03:03am
+- **Updated At:** Dec 19, 2025 09:38am
 
 ---
 
 ### 119. ここ来てね！
-**作成者:** 村上 (Eitoooooo)
+**Author:** 村上 (Eitoooooo)
 
-[添付ファイル 1](https://zep.us/play/XW0NMG)
+[Attachment 1](https://zep.us/play/XW0NMG)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 11/24 11:31
-- **Updated At:** 12/19 09:37
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 24, 2024 11:31am
+- **Updated At:** Dec 19, 2025 09:37am
 
 ---
 
 ### 120. 来てな
-**作成者:** アキラ (8660664)
+**Author:** アキラ (8660664)
 
-[添付ファイル 1](https://padlet.com/8660664/padlet-nts0cbupmrhpkt9j)
+[Attachment 1](https://padlet.com/8660664/padlet-nts0cbupmrhpkt9j)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 11/02 00:46
-- **Updated At:** 12/19 09:37
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 02, 2024 12:46am
+- **Updated At:** Dec 19, 2025 09:37am
 
 ---
 
 ### 121. 来て
-**作成者:** まさおくん (6pq2bkf1pk)
+**Author:** まさおくん (6pq2bkf1pk)
 
-[添付ファイル 1](https://padlet.com/6pq2bkf1pk/padlet-ftcn9epbe9jlqrnh)
+[Attachment 1](https://padlet.com/6pq2bkf1pk/padlet-ftcn9epbe9jlqrnh)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 10/25 00:18
-- **Updated At:** 12/19 09:37
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 25, 2024 12:18am
+- **Updated At:** Dec 19, 2025 09:37am
 
 ---
 
 ### 122. 宣伝部屋
-**作成者:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
+**Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
-<p>宣伝しに来よう</p>
+宣伝しに来よう
 
-**部屋の作成日:** 10月  4, 2025
+**部屋の作成日:** October  4, 2025
 
 **閲覧数:** 500~999
 
@@ -2810,23 +3025,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/tbk6yeo7ls21cujl)
+[Attachment 1](https://padlet.com/padlets/tbk6yeo7ls21cujl)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 12/16 22:48
-- **Updated At:** 12/16 22:48
+#### Additional Information
+- **Post color:** White
+- **Created At:** Dec 16, 2025 10:48pm
+- **Updated At:** Dec 16, 2025 10:48pm
 
 ---
 
 ### 123. 無法地帯
-**作成者:** 削除済みユーザー
+**Author:** 削除済みユーザー
 
-<p>　拡散希望！！タメ口で来てねー！まだまだ頑張るぞー!最強雑談ゲームいっぱい部屋ー</p>
+　拡散希望！！タメ口で来てねー！まだまだ頑張るぞー!最強雑談ゲームいっぱい部屋ー
 
 **受付部屋のリンク（あれば）:** https://padlet.com/rennzirou/padlet-ju37nnkg4tn9am1c
 
-**部屋の作成日:** 9月  9, 2025
+**部屋の作成日:** September  9, 2025
 
 **閲覧数:** 5,000~9,999
 
@@ -2834,21 +3049,21 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/s78l4vlu8swdmmgi)
+[Attachment 1](https://padlet.com/padlets/s78l4vlu8swdmmgi)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 12/11 06:24
-- **Updated At:** 12/11 06:24
+#### Additional Information
+- **Post color:** White
+- **Created At:** Dec 11, 2025 06:24am
+- **Updated At:** Dec 11, 2025 06:24am
 
 ---
 
 ### 124. なんか部屋
-**作成者:** 亜空カン_JANLINE (janline_masterspark)
+**Author:** 亜空カン_JANLINE (janline_masterspark)
 
-<p>雑談でもなんでもやっていって proxy募集中</p>
+雑談でもなんでもやっていって proxy募集中
 
-**部屋の作成日:** 6月 21, 2025
+**部屋の作成日:** June 21, 2025
 
 **閲覧数:** ~499
 
@@ -2856,21 +3071,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/hnagtu5suxqufhor)
+[Attachment 1](https://padlet.com/padlets/hnagtu5suxqufhor)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 12/06 13:56
-- **Updated At:** 12/08 22:06
+#### Additional Information
+- **Post color:** White
+- **Created At:** Dec 06, 2025 01:56pm
+- **Updated At:** Dec 08, 2025 10:06pm
 
 ---
 
 ### 125. Dougaの部屋
-**作成者:** 亜空カン_JANLINE (janline_masterspark)
+**Author:** 亜空カン_JANLINE (janline_masterspark)
 
-<p>みんなで好きな動画をテキトーに貼り付けてゆっくりしていってね。</p>
+みんなで好きな動画をテキトーに貼り付けてゆっくりしていってね。
 
-**部屋の作成日:** 9月 21, 2025
+**部屋の作成日:** September 21, 2025
 
 **閲覧数:** ~499
 
@@ -2878,21 +3093,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/janline_masterspark/douga-5osq7buzii4azz0b)
+[Attachment 1](https://padlet.com/janline_masterspark/douga-5osq7buzii4azz0b)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 12/06 13:53
-- **Updated At:** 12/06 13:53
+#### Additional Information
+- **Post color:** White
+- **Created At:** Dec 06, 2025 01:53pm
+- **Updated At:** Dec 06, 2025 01:53pm
 
 ---
 
 ### 126. 荒らし以外の何でもしていい部屋
-**作成者:** 頑張ります (1935111_1)
+**Author:** 頑張ります (1935111_1)
 
-<p>いろんなこと載せてって</p>
+いろんなこと載せてって
 
-**部屋の作成日:** 12月  6, 2025
+**部屋の作成日:** December  6, 2025
 
 **閲覧数:** ~499
 
@@ -2900,23 +3115,33 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/eoj7gqzhsvx8sg23)
+[Attachment 1](https://padlet.com/padlets/eoj7gqzhsvx8sg23)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 12/06 12:01
-- **Updated At:** 12/08 22:06
+#### Additional Information
+- **Post color:** White
+- **Created At:** Dec 06, 2025 12:01pm
+- **Updated At:** Dec 08, 2025 10:06pm
 
 ---
 
 ### 127. GAKUタブ部屋
-**作成者:** GAKU　Cookie Clicker楽し〜 (h29c03086_1)
+**Author:** GAKU　Cookie Clicker楽し〜 (h29c03086_1)
 
-<p>受付部屋を新しくしたので投稿させてもらいました。</p><p><br/></p><p>過疎ってるんで来て下さい(泣)</p><p>AIRMASHで仲良くしてたらいつの間にかできていた部屋です</p><p>マイクラ、AIRMASHなどでみんなで遊ぶときがあります</p><p>特にAIRMASHのプレイヤー絶対に来てね</p><p>みんな仲良しだよ</p>
+受付部屋を新しくしたので投稿させてもらいました。
+
+過疎ってるんで来て下さい(泣)
+
+AIRMASHで仲良くしてたらいつの間にかできていた部屋です
+
+マイクラ、AIRMASHなどでみんなで遊ぶときがあります
+
+特にAIRMASHのプレイヤー絶対に来てね
+
+みんな仲良しだよ
 
 **受付部屋のリンク（あれば）:** https://padlet.com/clhsytb310/gaku-tcs0ad1lotuvfzev
 
-**部屋の作成日:** 8月 23, 2025
+**部屋の作成日:** August 23, 2025
 
 **閲覧数:** ~499
 
@@ -2924,21 +3149,35 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/rqvcymqrl9vxse57)
+[Attachment 1](https://padlet.com/padlets/rqvcymqrl9vxse57)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 12/06 09:01
-- **Updated At:** 12/08 22:11
+#### Additional Information
+- **Post color:** White
+- **Created At:** Dec 06, 2025 09:01am
+- **Updated At:** Dec 08, 2025 10:11pm
 
 ---
 
 ### 128. ざっつだ ~ ん！
-**作成者:** すず (suzu_)
+**Author:** すず (suzu_)
 
-<p>自分の雑談部屋です！</p><p>まだ､そこまで人は多くないから､初期からいてくれた人は管理職あげられるかもです‼︎</p><p>人が増えたらプロ棋士とかも増やしてこうと思ってます！</p><p>エロも増やすかも？</p><p>勉強も少しは教えられます？</p><p>まぁ､私が教えられなくても､他のやっさし−人たちがきっと教えてくれる！(((</p><p><br></p><p>暇な人は来てくださいね？？</p><p>暇じゃなくても来てね？？</p>
+自分の雑談部屋です！
 
-**部屋の作成日:** 7月 15, 2025
+まだ､そこまで人は多くないから､初期からいてくれた人は管理職あげられるかもです‼︎
+
+人が増えたらプロ棋士とかも増やしてこうと思ってます！
+
+エロも増やすかも？
+
+勉強も少しは教えられます？
+
+まぁ､私が教えられなくても､他のやっさし−人たちがきっと教えてくれる！(((
+
+暇な人は来てくださいね？？
+
+暇じゃなくても来てね？？
+
+**部屋の作成日:** July 15, 2025
 
 **閲覧数:** ~499
 
@@ -2946,24 +3185,24 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/idgbhxqnznzti9f8)
+[Attachment 1](https://padlet.com/padlets/idgbhxqnznzti9f8)
 
-#### リアクション
-- **絵文字:** ❤️ (1)
+#### Reactions
+- **Emojis:** ❤️ (1)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 12/03 08:22
-- **Updated At:** 12/04 06:26
+#### Additional Information
+- **Post color:** White
+- **Created At:** Dec 03, 2025 08:22am
+- **Updated At:** Dec 04, 2025 06:26am
 
 ---
 
 ### 129. ゲーム プロキシ共有部屋   勉強も高校生ぐらいまでなら教えられるよ！
-**作成者:** ライオット (sn121248)
+**Author:** ライオット (sn121248)
 
-<p>遊びも勉強も両方な部屋です 巨大部屋になりたい！</p>
+遊びも勉強も両方な部屋です 巨大部屋になりたい！
 
-**部屋の作成日:** 12月  3, 2025
+**部屋の作成日:** December  3, 2025
 
 **閲覧数:** ~499
 
@@ -2971,21 +3210,25 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/pp76jcrpxqzdiu1n)
+[Attachment 1](https://padlet.com/padlets/pp76jcrpxqzdiu1n)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 12/03 08:17
-- **Updated At:** 12/03 10:24
+#### Additional Information
+- **Post color:** White
+- **Created At:** Dec 03, 2025 08:17am
+- **Updated At:** Dec 03, 2025 10:24am
 
 ---
 
 ### 130. ゲームサイトやプロキシなどの共有広場
-**作成者:** INFINITY (nanasisan)
+**Author:** INFINITY (nanasisan)
 
-<p>プロキシ部屋などを多く配布しています。</p><p>最近は荒らし対策に力を入れてます！</p><p>管理者3人とモデ3人で頑張っています現在は</p>
+プロキシ部屋などを多く配布しています。
 
-**部屋の作成日:** 4月 22, 2025
+最近は荒らし対策に力を入れてます！
+
+管理者3人とモデ3人で頑張っています現在は
+
+**部屋の作成日:** April 22, 2025
 
 **閲覧数:** 10,000~24,999
 
@@ -2993,21 +3236,21 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/zsdegt1d6scuq9qa)
+[Attachment 1](https://padlet.com/padlets/zsdegt1d6scuq9qa)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 11/17 06:08
-- **Updated At:** 11/17 06:08
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 17, 2025 06:08am
+- **Updated At:** Nov 17, 2025 06:08am
 
 ---
 
 ### 131. こんにちはあ
-**作成者:** tomeeetooo (tomeeetooo)
+**Author:** tomeeetooo (tomeeetooo)
 
-<p>暇な人は来ましょう</p><p><br/></p>
+暇な人は来ましょう
 
-**部屋の作成日:** 11月 13, 2025
+**部屋の作成日:** November 13, 2025
 
 **閲覧数:** ~499
 
@@ -3015,21 +3258,21 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/u9m5fhpnkxvdihvd)
+[Attachment 1](https://padlet.com/padlets/u9m5fhpnkxvdihvd)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 11/13 02:24
-- **Updated At:** 11/13 02:24
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 13, 2025 02:24am
+- **Updated At:** Nov 13, 2025 02:24am
 
 ---
 
 ### 132. a
-**作成者:** アヘへ (r0404229_2)
+**Author:** アヘへ (r0404229_2)
 
-<p>a</p>
+a
 
-**部屋の作成日:** 10月 29, 2025
+**部屋の作成日:** October 29, 2025
 
 **閲覧数:** ~499
 
@@ -3037,21 +3280,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/f0dlzecds36mvsgf)
+[Attachment 1](https://padlet.com/padlets/f0dlzecds36mvsgf)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 10/29 07:31
-- **Updated At:** 12/19 09:44
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 29, 2025 07:31am
+- **Updated At:** Dec 19, 2025 09:44am
 
 ---
 
 ### 133. Sphere lobby
-**作成者:** guruma_ESTA (guruma_ESTA)
+**Author:** guruma_ESTA (guruma_ESTA)
 
-<p>雑談部屋からゲーム部屋、荒らし対策まで様々な領域を網羅！</p><p>絶対来てね〜</p>
+雑談部屋からゲーム部屋、荒らし対策まで様々な領域を網羅！
 
-**部屋の作成日:** 10月  3, 2025
+絶対来てね〜
+
+**部屋の作成日:** October  3, 2025
 
 **閲覧数:** ~499
 
@@ -3059,23 +3304,23 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/padlets/bs84adfvbao6tgpu)
+[Attachment 1](https://padlet.com/padlets/bs84adfvbao6tgpu)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 10/26 23:21
-- **Updated At:** 10/26 23:21
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 26, 2025 11:21pm
+- **Updated At:** Oct 26, 2025 11:21pm
 
 ---
 
 ### 134. 陸上やってる人集合
-**作成者:** 陸上市内最強(市内だけよ) (kowkid)
+**Author:** 陸上市内最強(市内だけよ) (kowkid)
 
-<p>陸上やってる人達でいろんな話をします！！</p>
+陸上やってる人達でいろんな話をします！！
 
 **受付部屋のリンク（あれば）:** https://padlet.com/kowkid/padlet-djiy74zs6l7pyzyb
 
-**部屋の作成日:** 10月 26, 2025
+**部屋の作成日:** October 26, 2025
 
 **閲覧数:** ~499
 
@@ -3083,25 +3328,27 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/djiy74zs6l7pyzyb)
+[Attachment 1](https://padlet.com/padlets/djiy74zs6l7pyzyb)
 
-#### コメント (2)
-- **陸上市内最強(市内だけよ)** (10/26 02:54): 陸上は楽しいぞ
-- **陸上市内最強(市内だけよ)** (10/26 02:55): あと管理者数部屋主のみです間違えました
+#### Comments (2)
+- **陸上市内最強(市内だけよ)** (Oct 26, 2025 02:54am): 陸上は楽しいぞ
+- **陸上市内最強(市内だけよ)** (Oct 26, 2025 02:55am): あと管理者数部屋主のみです間違えました
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 10/26 02:53
-- **Updated At:** 10/26 07:24
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 26, 2025 02:53am
+- **Updated At:** Oct 26, 2025 07:24am
 
 ---
 
 ### 135. 第一回冬休みコラ画コンテストの実行委員受付部屋
-**作成者:** guruma_ESTA (guruma_ESTA)
+**Author:** guruma_ESTA (guruma_ESTA)
 
-<p>全員強制参加です（）</p><p>来てね〜</p>
+全員強制参加です（）
 
-**部屋の作成日:** 10月 15, 2025
+来てね〜
+
+**部屋の作成日:** October 15, 2025
 
 **閲覧数:** ~499
 
@@ -3109,23 +3356,25 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/pikamannsakuramotinojuuboku/padlet-y1l4hf2ntbxh9byo)
+[Attachment 1](https://padlet.com/pikamannsakuramotinojuuboku/padlet-y1l4hf2ntbxh9byo)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 10/15 10:10
-- **Updated At:** 10/15 10:10
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 15, 2025 10:10am
+- **Updated At:** Oct 15, 2025 10:10am
 
 ---
 
 ### 136. 《S.A.V.T.F》Sphere Anti-Vandalism Task Force
-**作成者:** Guruma_sub (ESTAcancel)
+**Author:** Guruma_sub (ESTAcancel)
 
-<p>日本最大級の荒らし対策部屋を目指している部屋。</p><p>荒らし対策、荒らし保存に特化したセクション、投稿フィールド。</p><p><br/></p>
+日本最大級の荒らし対策部屋を目指している部屋。
+
+荒らし対策、荒らし保存に特化したセクション、投稿フィールド。
 
 **受付部屋のリンク（あれば）:** https://padlet.com/Sphere_sub/padlet-bs84adfvbao6tgpu
 
-**部屋の作成日:** 10月  3, 2025
+**部屋の作成日:** October  3, 2025
 
 **閲覧数:** ~499
 
@@ -3133,23 +3382,27 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/2atoqwqofs8s7m34)
+[Attachment 1](https://padlet.com/padlets/2atoqwqofs8s7m34)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 10/03 13:06
-- **Updated At:** 10/03 13:06
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 03, 2025 01:06pm
+- **Updated At:** Oct 03, 2025 01:06pm
 
 ---
 
 ### 137. 昆布おにぎりの部屋
-**作成者:** Re Ball Bar クッキー　やったー民　＃猫信者　第四使徒　元(略して ん部ぎ ) (akymjxm)
+**Author:** Re Ball Bar クッキー　やったー民　＃猫信者　第四使徒　元(略して ん部ぎ ) (akymjxm)
 
-<p>人が少ないから民度がいい</p><p>みんなで仲良く話せる空間です</p><p>プロキシもあるよ</p>
+人が少ないから民度がいい
+
+みんなで仲良く話せる空間です
+
+プロキシもあるよ
 
 **受付部屋のリンク（あれば）:** https://padlet.com/akymjxm/padlet-btkwakgxc9xm2eey
 
-**部屋の作成日:** 9月 24, 2025
+**部屋の作成日:** September 24, 2025
 
 **閲覧数:** ~499
 
@@ -3157,23 +3410,23 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/akymjxm/padlet-f1xoihs8p246o5nq)
+[Attachment 1](https://padlet.com/akymjxm/padlet-f1xoihs8p246o5nq)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 09/29 13:41
-- **Updated At:** 10/02 09:15
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 29, 2025 01:41pm
+- **Updated At:** Oct 02, 2025 09:15am
 
 ---
 
 ### 138. ピカマンの部屋4代目です。
-**作成者:** ピカマン#究極のさくらもちの従僕#煮物貢献者#煮物様の3番弟子#かしわもちうまっ#無法地帯最高！ (pikamannsakuramotinojuuboku)
+**Author:** ピカマン#究極のさくらもちの従僕#煮物貢献者#煮物様の3番弟子#かしわもちうまっ#無法地帯最高！ (pikamannsakuramotinojuuboku)
 
-<p>悲しいことに乗っ取り犯にまたアカウントを乗っ取られてしまい、早急にリメイクした部屋となっています。(ちなみに乗っ取り犯は有名な方でした。もし、その人からもらったパドレットのアカウントだと、ある程度した後にパスワードが変更されて操作できなくなるかもしれませんw www。もしかしたらあなたもその1人かも・・・)私自身はパドレットのアカウントがあればしぶとく永遠に生き続けるので応援よろしくお願いします。</p>
+悲しいことに乗っ取り犯にまたアカウントを乗っ取られてしまい、早急にリメイクした部屋となっています。(ちなみに乗っ取り犯は有名な方でした。もし、その人からもらったパドレットのアカウントだと、ある程度した後にパスワードが変更されて操作できなくなるかもしれませんw www。もしかしたらあなたもその1人かも・・・)私自身はパドレットのアカウントがあればしぶとく永遠に生き続けるので応援よろしくお願いします。
 
 **受付部屋のリンク（あれば）:** https://padlet.com/padlets/457yr0uwwsk4djgv
 
-**部屋の作成日:** 9月 25, 2025
+**部屋の作成日:** September 25, 2025
 
 **閲覧数:** ~499
 
@@ -3181,21 +3434,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/f35osupyezypvm5y)
+[Attachment 1](https://padlet.com/padlets/f35osupyezypvm5y)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 09/26 10:27
-- **Updated At:** 09/26 10:28
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 26, 2025 10:27am
+- **Updated At:** Sep 26, 2025 10:28am
 
 ---
 
 ### 139. 視聴部屋
-**作成者:** 𝓶𝓪𝓴𝓪𝓻𝓸𝓷𝓲　＃ ＠低浮上 (3232333301099710797114111110105)
+**Author:** 𝓶𝓪𝓴𝓪𝓻𝓸𝓷𝓲　＃ ＠低浮上 (3232333301099710797114111110105)
 
-<ul><li><p>色々な動画や、曲、歌などがある部屋です！</p></li><li><p>動画などのダウンロード可能です！(送信主から無断で入手は禁止です。</p></li><li><p>誰でも歓迎！</p></li></ul>
+- 色々な動画や、曲、歌などがある部屋です！
+- 動画などのダウンロード可能です！(送信主から無断で入手は禁止です。
+- 誰でも歓迎！
 
-**部屋の作成日:** 7月  9, 2025
+**部屋の作成日:** July  9, 2025
 
 **閲覧数:** ~499
 
@@ -3203,23 +3458,25 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/Sora2111/padlet-odtanb9lyfsyoitc)
+[Attachment 1](https://padlet.com/Sora2111/padlet-odtanb9lyfsyoitc)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 09/25 04:37
-- **Updated At:** 10/26 07:40
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 25, 2025 04:37am
+- **Updated At:** Oct 26, 2025 07:40am
 
 ---
 
 ### 140. 雑談とか色々!閲覧16000達成!
-**作成者:** Magurock (偽物･偽造に注意) (Magurock)
+**Author:** Magurock (偽物･偽造に注意) (Magurock)
 
-<ul><li><p><mark>閲覧16000回達成</mark>した部屋（みんなの広場）がある!</p></li><li><p>雑談、規制回避、Minecraft鯖、荒らし対策など<mark>色々ある!</mark></p></li><li><p><mark>どんな人でも大歓迎!</mark>（さすがにルール違反する人以外）</p></li></ul>
+- 閲覧16000回達成した部屋（みんなの広場）がある!
+- 雑談、規制回避、Minecraft鯖、荒らし対策など色々ある!
+- どんな人でも大歓迎!（さすがにルール違反する人以外）
 
 **受付部屋のリンク（あれば）:** https://padlet.com/Magurock/e9n4zhdx6ucfbaa4
 
-**部屋の作成日:** 5月 18, 2025
+**部屋の作成日:** May 18, 2025
 
 **閲覧数:** 10,000~24,999
 
@@ -3227,21 +3484,23 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/padlets/v7eblregk0t2eq0k)
+[Attachment 1](https://padlet.com/padlets/v7eblregk0t2eq0k)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 09/23 22:50
-- **Updated At:** 10/26 08:08
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 23, 2025 10:50pm
+- **Updated At:** Oct 26, 2025 08:08am
 
 ---
 
 ### 141. みんなの雑談コーナー
-**作成者:** Gogogo (Opppppppppp)
+**Author:** Gogogo (Opppppppppp)
 
-<p>雑談だけじゃなく他もゲームとか色々あります今きたら古参です！</p><p>楽しいのできてください！</p>
+雑談だけじゃなく他もゲームとか色々あります今きたら古参です！
 
-**部屋の作成日:** 9月  4, 2025
+楽しいのできてください！
+
+**部屋の作成日:** September  4, 2025
 
 **閲覧数:** 500~999
 
@@ -3249,21 +3508,21 @@
 
 **モデレーター数:** 1~4
 
-[添付ファイル 1](https://padlet.com/comkae/padlet-xaktzo0y57usd57w)
+[Attachment 1](https://padlet.com/comkae/padlet-xaktzo0y57usd57w)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 09/22 16:48
-- **Updated At:** 10/26 07:38
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 22, 2025 04:48pm
+- **Updated At:** Oct 26, 2025 07:38am
 
 ---
 
 ### 142. イベント開催中！！来いよ！
-**作成者:** 玲霧 (zupdep)
+**Author:** 玲霧 (zupdep)
 
-<p>現在イベント開催中！！最近まじで人増やしたいからきてほしい！</p>
+現在イベント開催中！！最近まじで人増やしたいからきてほしい！
 
-**部屋の作成日:** 7月  4, 2025
+**部屋の作成日:** July  4, 2025
 
 **閲覧数:** 2,500~4,999
 
@@ -3271,26 +3530,34 @@
 
 **モデレーター数:** 非公開
 
-[添付ファイル 1](https://padlet.com/zupdep/padlet-nfv4modo85bph3x2)
+[Attachment 1](https://padlet.com/zupdep/padlet-nfv4modo85bph3x2)
 
-#### コメント (1)
-- **匿名** (03/31 01:53): 猫かわいー
+#### Comments (1)
+- **匿名** (Mar 31, 2026 01:53am): 猫かわいー
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 09/20 03:48
-- **Updated At:** 10/26 07:36
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 20, 2025 03:48am
+- **Updated At:** Oct 26, 2025 07:36am
 
 ---
 
 ### 143. 誠意大将軍の雑談部屋
-**作成者:** 受験生のｳｪｻﾞｴﾓﾝ（masakik） (masakik_)
+**Author:** 受験生のｳｪｻﾞｴﾓﾝ（masakik） (masakik_)
 
-<p>僕の部屋ではみんなが雑談している部屋にしたいです。</p><p>只今無料開放中です！ライター権限の申請は必要ありません！</p><p>※部屋で投稿やコメントした時点でコラボレーター入りさせていただきます。</p><p>また、今なら高頻度の浮上ができる人のみ希望者はモデ・管理者権限を付与できます！</p><p>ぜひ来てね～</p>
+僕の部屋ではみんなが雑談している部屋にしたいです。
+
+只今無料開放中です！ライター権限の申請は必要ありません！
+
+※部屋で投稿やコメントした時点でコラボレーター入りさせていただきます。
+
+また、今なら高頻度の浮上ができる人のみ希望者はモデ・管理者権限を付与できます！
+
+ぜひ来てね～
 
 **受付部屋のリンク（あれば）:** https://padlet.com/masakik0217/padlet-o83gvlbplgnwof2f
 
-**部屋の作成日:** 7月 29, 2025
+**部屋の作成日:** July 29, 2025
 
 **閲覧数:** 1000~2499
 
@@ -3298,21 +3565,25 @@
 
 **モデレーター数:** 5~9
 
-[添付ファイル 1](https://padlet.com/padlets/o83gvlbplgnwof2f)
+[Attachment 1](https://padlet.com/padlets/o83gvlbplgnwof2f)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 09/20 02:48
-- **Updated At:** 10/26 07:36
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 20, 2025 02:48am
+- **Updated At:** Oct 26, 2025 07:36am
 
 ---
 
 ### 144. 猫大好きな人の部屋＆スプラ好きの部屋
-**作成者:** ねこ缶マスター (ZRXARS)
+**Author:** ねこ缶マスター (ZRXARS)
 
-<p>受付部屋です</p><p>猫好きな人の雑談部屋とスプラ好きな人といっしょにイベントとかをやる部屋です</p><p>閲覧数は2つの部屋合わせても300ぐらいです（だから来てね）</p>
+受付部屋です
 
-**部屋の作成日:** 8月 24, 2025
+猫好きな人の雑談部屋とスプラ好きな人といっしょにイベントとかをやる部屋です
+
+閲覧数は2つの部屋合わせても300ぐらいです（だから来てね）
+
+**部屋の作成日:** August 24, 2025
 
 **閲覧数:** ~499
 
@@ -3320,21 +3591,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/kuys34tn1xtgxrba)
+[Attachment 1](https://padlet.com/padlets/kuys34tn1xtgxrba)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 09/19 23:07
-- **Updated At:** 10/26 07:36
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 19, 2025 11:07pm
+- **Updated At:** Oct 26, 2025 07:36am
 
 ---
 
 ### 145. パンダの雑談部屋
-**作成者:** パンダ (pannda)
+**Author:** パンダ (pannda)
 
-<p>とっても過疎いです</p><p>でも、頑張ってプロキシを増やそうとしているので入ってほしいです</p>
+とっても過疎いです
 
-**部屋の作成日:** 9月 12, 2025
+でも、頑張ってプロキシを増やそうとしているので入ってほしいです
+
+**部屋の作成日:** September 12, 2025
 
 **閲覧数:** ~499
 
@@ -3342,23 +3615,23 @@
 
 **モデレーター数:** 0
 
-[添付ファイル 1](https://padlet.com/padlets/xrmohgjou0th381x)
+[Attachment 1](https://padlet.com/padlets/xrmohgjou0th381x)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 09/15 10:27
-- **Updated At:** 10/26 07:35
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 15, 2025 10:27am
+- **Updated At:** Oct 26, 2025 07:35am
 
 ---
 
 ### 146. ネギ部屋
-**作成者:** ネギ (dfjk2458)
+**Author:** ネギ (dfjk2458)
 
-<p>正直あんま人いないけど楽しいところではある　これといったいいとこはないけど楽しい部屋</p>
+正直あんま人いないけど楽しいところではある　これといったいいとこはないけど楽しい部屋
 
 **受付部屋のリンク（あれば）:** https://padlet.com/tikinnbanana/google-csu51pcwhomd0j07
 
-**部屋の作成日:** 9月  6, 2025
+**部屋の作成日:** September  6, 2025
 
 **閲覧数:** 2,500~4,999
 
@@ -3366,28 +3639,28 @@
 
 **モデレーター数:** 5~9
 
-[添付ファイル 1](https://padlet.com/padlets/6aj8ky496snsm49r)
+[Attachment 1](https://padlet.com/padlets/6aj8ky496snsm49r)
 
-#### その他の情報
-- **投稿のカラー:** ホワイト
-- **Created At:** 09/06 10:36
-- **Updated At:** 10/26 07:33
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 06, 2025 10:36am
+- **Updated At:** Oct 26, 2025 07:33am
 
 ---
 
 ## サムネイル
 
-### 1. 投稿 1
-**作成者:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+### 1. Post 1
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1785546247&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=abf6FAJMULhcbJ8vK1L0Gvn27T%2B0ukcuVS9X5RXBC2iSIZpoaVzXMNViG2SdhfT%2FEhcBYXyTI8dU%2BFK2ePRY5hu144dkNAeB4YdRGQSQVdTvByGIo4JRF5wuLSF0zHtWMNapycipL2pXJ1poQninRd9rh7Iex4%2F8EHzWqcoBVmFcAF1mdKtZbh%2FbAAeHN0ar%2Bm39gO2F9YFIUH9CxoVCxkdWUVZT5PcMZcIZPDWRM8Ba4A79BzFHwA6gQdFH3m%2FS1Pyf5A%2B58H0ZruafmFyX44SpJOTA4NdSdSFQU5DRH9a3UasUoHn5NA%2Fn3uN7E73axXTN4iSUFS2GGeU8ylNr1A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1785743216&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=3NMiHaPOIf47NMVDRqb8iROPBTZS6zgUHRky7zkfnNVaDl9KzB12B2srpqhvBUawUi3%2F3asqGhcKr7bOYbS07o%2B0qm9h8LX6EgPsyOgmyPKY0zh8djZ%2BRYG2Hb4pT5iVNZvWp0qeTxFjKTCzKqSL7iGR1SdLntgxxxTUpKb7j0xhUscC3Qzup7TIgMjEs7k3TJHuGNrof5lpvaUR54Be9IzYKJal5eJUWQDwAIaU2YEsix%2FYJTzKCmg2HzuTuyQi%2FBMo2FyKZ%2FcYvIyDlwLYsGb2X0jXRxwEL66kiiMi251kzj7yy%2B4hALb%2FaOgCm3Vc5pLEdGQJkiRfuwtdA6GCyQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
-#### リアクション
-- **絵文字:** ❤️ (2)
+#### Reactions
+- **Emojis:** ❤️ (2)
 
-#### その他の情報
-- **投稿のカラー:** レッド
-- **Created At:** 05/21 07:33
-- **Updated At:** 05/21 07:33
+#### Additional Information
+- **Post color:** Red
+- **Created At:** May 21, 2026 07:33am
+- **Updated At:** May 21, 2026 07:33am
 
 ---
