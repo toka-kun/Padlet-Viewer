@@ -1,4 +1,4 @@
-最終取得: 2026/07/25 10:12:42
+最終取得: 2026/07/28 18:21:17
 
 # お文具のプロキシ
 
@@ -6,8 +6,8 @@
 - **リンク:** https://padlet.com/koregahonmono/padlet-5ggicyna1yjvquxr
 - **所有者:** ダック🦆 (koregahonmono)
 - **投稿:** 225
-- **Created At:** 03/07 05:39
-- **Updated At:** 07/23 23:15
+- **作成日::** 03/07 05:39
+- **更新日::** 07/28 07:06
 
 ## お知らせ📢とルール
 
@@ -70,15 +70,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 08/29 02:34
-- **Updated At:** 08/29 02:34
+- **作成日::** 08/29 02:34
+- **更新日::** 08/29 02:34
 
 ---
 
 ### 2. 最低限荒らしは禁止とします！
 **作成者:** 削除済みユーザー
 
-<p>ご理解よろしくお願いします。</p>
+ご理解よろしくお願いします。
 
 #### コメント (8)
 - **Nokuq** (06/25 03:21): よろしくお願いします
@@ -95,15 +95,15 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **Created At:** 05/22 08:20
-- **Updated At:** 06/02 04:43
+- **作成日::** 05/22 08:20
+- **更新日::** 06/02 04:43
 
 ---
 
 ### 3. 申し訳ありませんが、信用できない人や実績がない人には権限は付与しません。
 **作成者:** 削除済みユーザー
 
-<p>また、権限を要求するときは丁寧な投稿をしましょう。</p>
+また、権限を要求するときは丁寧な投稿をしましょう。
 
 #### コメント (88)
 - **５** (07/15 05:19): 私に権限を与えでくれますでしょうか
@@ -197,8 +197,8 @@
 
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **Created At:** 05/22 08:46
-- **Updated At:** 06/17 02:31
+- **作成日::** 05/22 08:46
+- **更新日::** 06/17 02:31
 
 ---
 
@@ -207,7 +207,13 @@
 ### 1. 今の管理者とモデレーターを書いていきます。増えるごとに毎回更新します。
 **作成者:** ダック🦆 (koregahonmono)
 
-<p>管理者</p><p>ダック🦆、<strong>_雪だるま_</strong></p><p><br/></p><p><strong>モデレーター</strong></p><p><strong>ドナルド</strong></p>
+管理者
+
+ダック🦆、**\_雪だるま\_**
+
+**モデレーター**
+
+**ドナルド**
 
 #### コメント (68)
 - **削除済みユーザー** (06/13 15:22): https://padlet.com/s01170113/padlet-inixh01gh2czq80h
@@ -284,8 +290,8 @@
 
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **Created At:** 05/21 23:54
-- **Updated At:** 07/01 10:03
+- **作成日::** 05/21 23:54
+- **更新日::** 07/01 10:03
 
 ---
 
@@ -296,7 +302,7 @@
 
 [添付ファイル 1](https://padlet.com/makunami/padlet-ddlr557arjm85b1v)
 
-#### コメント (86)
+#### コメント (88)
 - **oboro朧** (11/13 03:22): https://padlet.com/200346_21/padlet-ctper81z75hme0jy
 - **oboro朧** (11/13 03:22): 入ってきてください
 - **お茶aaaa** (11/18 05:04): https://padlet.com/Ochaadesu/padlet-94eqvm978zz6ildj部屋作ったのでぜひ来てください！
@@ -347,8 +353,8 @@
 - **うぃーーー** (02/27 22:37): h
 - **ネズミーマウス崇拝者** (03/12 08:03): きてくれ
 - **sabakan** (03/25 08:49): きてーー　　　　　　　　　https://padlet.com/1916028_1/padlet-cchc2gy35mfo2bpt
-- **レッドｴｯｸﾞ 第4世　元祖ホワイト卵の4番弟子** (03/26 00:01): 114514↓
-- **レッドｴｯｸﾞ 第4世　元祖ホワイト卵の4番弟子** (03/26 00:00): https://padlet.com/s02210044/padlet-cpaa8lf57i5y9ytk
+- **レッドｴｯｸﾞ 第4世　元祖ホワイト卵の4番弟子🥚** (03/26 00:01): 114514↓
+- **レッドｴｯｸﾞ 第4世　元祖ホワイト卵の4番弟子🥚** (03/26 00:00): https://padlet.com/s02210044/padlet-cpaa8lf57i5y9ytk
 - **shou_0716** (03/28 08:54): 来て↓
 - **shou_0716** (03/28 09:00): https://padlet.com/shou_0716/eaglercraft-youtube-3385xy8f71aole58
 - **ユウカスミ** (04/03 01:47):   
@@ -383,14 +389,16 @@
 - **すし** (07/07 00:21): https://padlet.com/r0136594/padlet-yld2svr0ja1r3vir
 - **お、前** (07/08 05:37): 入れない」
 - **バスケ大好きパート2** (07/08 05:59): https://padlet.com/73956824278/padlet-d6sus3o0gtlqa54h?lang=ja
+- **バスケ大好きパート2** (07/26 22:59): https://padlet.com/73956824278/padlet-qp0k57kxgo1cd5mp
+- **バスケ大好きパート2** (07/26 22:59): 来てね🙏
 
 #### リアクション
 - **絵文字:** ❤️ (7)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 11/09 22:50
-- **Updated At:** 11/09 22:50
+- **作成日::** 11/09 22:50
+- **更新日::** 11/09 22:50
 
 ---
 
@@ -399,7 +407,7 @@
 
 [添付ファイル 1](https://padlet.com/KB_KingBoot_/Manyvideosinhere)
 
-#### コメント (8)
+#### コメント (10)
 - **削除済みユーザー** (04/26 04:21): https://padlet.com/68794935/classroom-dags9wjuwp6tn1e2
 - **kira** (05/09 02:58): https://padlet.com/4225485/padlet-7lh23es28udsqfpe　わしの盟友の部屋じゃ
 - **ネズミーマウス崇拝者** (05/13 12:11): https://padlet.com/s2206019_2/padlet-cwgfxviw3xabdjzc
@@ -408,14 +416,16 @@
 - **双子の弟** (05/30 05:54): 入ってくださいhttps://padlet.com/h4219011_1/padlet-6wwdylnv7b4irnh9?lang=ja
 - **そら** (06/01 23:39): きてーhttps://padlet.com/Proxy3game2edo1zatudan/padlet-98bnczylv2rjmdgx
 - **ネズミーマウス崇拝者** (06/09 06:27): https://padlet.com/s2206019_2/padlet-gfbtpnzh99vnpvcx
+- **バスケ大好きパート2** (07/26 23:01): https://padlet.com/73956824278/padlet-qp0k57kxgo1cd5mp
+- **バスケ大好きパート2** (07/26 23:01): 来てね🙏
 
 #### リアクション
 - **絵文字:** ❤️ (3)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/03 09:20
-- **Updated At:** 03/03 09:20
+- **作成日::** 03/03 09:20
+- **更新日::** 03/03 09:20
 
 ---
 
@@ -469,8 +479,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 10/17 15:24
-- **Updated At:** 10/17 15:24
+- **作成日::** 10/17 15:24
+- **更新日::** 10/17 15:24
 
 ---
 
@@ -506,22 +516,22 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 10/04 03:44
-- **Updated At:** 10/04 03:45
+- **作成日::** 10/04 03:44
+- **更新日::** 10/04 03:45
 
 ---
 
 ### 5. これから有名になる！！
 **作成者:** ナンジャモ (sukaretonanjamo)
 
-<p>proxy＆雑談部屋です！！</p>
+proxy＆雑談部屋です！！
 
 [添付ファイル 1](https://padlet.com/padlets/kcfqgayft8yis20d)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 10/01 11:34
-- **Updated At:** 10/01 11:34
+- **作成日::** 10/01 11:34
+- **更新日::** 10/01 11:34
 
 ---
 
@@ -537,8 +547,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 09/12 01:09
-- **Updated At:** 09/12 01:09
+- **作成日::** 09/12 01:09
+- **更新日::** 09/12 01:09
 
 ---
 
@@ -559,15 +569,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 09/10 07:33
-- **Updated At:** 09/10 07:33
+- **作成日::** 09/10 07:33
+- **更新日::** 09/10 07:33
 
 ---
 
 ### 8. 宣伝
 **作成者:** Riur🐾 (siromaro)
 
-<p>メンバー募集中です。良ければ</p>
+メンバー募集中です。良ければ
 
 [添付ファイル 1](https://padlet.com/s2108797/padlet-w08ilintma2jyymv)
 
@@ -587,8 +597,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 09/07 00:53
-- **Updated At:** 09/07 00:53
+- **作成日::** 09/07 00:53
+- **更新日::** 09/07 00:53
 
 ---
 
@@ -599,8 +609,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 08/31 04:12
-- **Updated At:** 08/31 04:12
+- **作成日::** 08/31 04:12
+- **更新日::** 08/31 04:12
 
 ---
 
@@ -613,8 +623,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 08/17 14:06
-- **Updated At:** 08/27 04:10
+- **作成日::** 08/17 14:06
+- **更新日::** 08/27 04:10
 
 ---
 
@@ -628,15 +638,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 08/10 04:37
-- **Updated At:** 08/10 04:37
+- **作成日::** 08/10 04:37
+- **更新日::** 08/10 04:37
 
 ---
 
 ### 12. 投稿 12
 **作成者:** ꒰ঌからあげだっぞ໒꒱ (Karaagedazzo)
 
-<p><a rel="noopener noreferrer nofollow" href="https://padlet.com/Haniwa2025/contributor/iZegsozuv1DEMLTE">@</a>←tap</p>
+[@](https://padlet.com/Haniwa2025/contributor/iZegsozuv1DEMLTE)←tap
 
 #### コメント (4)
 - **KB  (King Boot)** (08/09 09:08): https://padlet.com/KB_KingBoot_/Manyvideosinhere
@@ -649,8 +659,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 07/29 09:19
-- **Updated At:** 07/29 09:19
+- **作成日::** 07/29 09:19
+- **更新日::** 07/29 09:19
 
 ---
 
@@ -661,8 +671,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 07/26 01:39
-- **Updated At:** 07/26 01:39
+- **作成日::** 07/26 01:39
+- **更新日::** 07/26 01:39
 
 ---
 
@@ -673,8 +683,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 07/09 23:51
-- **Updated At:** 07/09 23:51
+- **作成日::** 07/09 23:51
+- **更新日::** 07/09 23:51
 
 ---
 
@@ -695,8 +705,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 07/03 21:54
-- **Updated At:** 07/03 21:54
+- **作成日::** 07/03 21:54
+- **更新日::** 07/03 21:54
 
 ---
 
@@ -707,8 +717,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 07/03 03:50
-- **Updated At:** 07/03 03:50
+- **作成日::** 07/03 03:50
+- **更新日::** 07/03 03:50
 
 ---
 
@@ -733,8 +743,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/21 23:36
-- **Updated At:** 06/21 23:36
+- **作成日::** 06/21 23:36
+- **更新日::** 06/21 23:36
 
 ---
 
@@ -750,15 +760,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/20 11:01
-- **Updated At:** 06/20 11:01
+- **作成日::** 06/20 11:01
+- **更新日::** 06/20 11:01
 
 ---
 
 ### 19. プロキシ検索エンジンの部屋！
 **作成者:** 削除済みユーザー
 
-<p>日安連会長が開発している「プロキシ検索エンジン」のダウンロード・お問い合わせ・要望ができる部屋。</p>
+日安連会長が開発している「プロキシ検索エンジン」のダウンロード・お問い合わせ・要望ができる部屋。
 
 [添付ファイル 1](https://padlet.com/gogogogo300090/padlet-vbgzczfz8pmkg6et)
 
@@ -868,8 +878,8 @@
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **Created At:** 05/25 09:15
-- **Updated At:** 06/02 00:32
+- **作成日::** 05/25 09:15
+- **更新日::** 06/02 00:32
 
 ---
 
@@ -878,9 +888,9 @@
 ### 1. ライターになりたい人はここに投稿してください。
 **作成者:** ダック🦆 (koregahonmono)
 
-<p>あなたの要求の投稿が削除されている場合、付与されていないもしくは管理者の権限を付与したということになります。</p>
+あなたの要求の投稿が削除されている場合、付与されていないもしくは管理者の権限を付与したということになります。
 
-#### コメント (168)
+#### コメント (169)
 - **削除済みユーザー** (08/30 22:20): ライターください
 - **Supportive Puma** (09/04 00:39): 私にください
 - **めすがきざあこ** (09/05 13:03): はい
@@ -1038,7 +1048,7 @@
 - **Soujux1003** (05/23 12:36): ライターください
 - **千夏** (05/25 02:48): お願いします
 - **焼死王** (06/06 01:47): おねしゃす
-- **ㅤ** (06/06 12:35): う
+- **#96** (06/06 12:35): う
 - **アーサーのあさごはん** (06/09 23:11): あ
 - **アーサーのあさごはん** (06/09 23:11): ライターになりたい
 - **石山清冬** (06/11 09:27): ライターになりたいでs
@@ -1049,14 +1059,15 @@
 - **匿名アバター** (06/23 23:56): はーい‼️ 
 - **匿名アバター** (06/23 23:57): お願い‼️
 - **かがみもち（黒豆系似我）** (07/22 08:51): ライターくださーい
+- **Gakkounoeiyuu** (07/25 05:20): ください
 
 #### リアクション
 - **絵文字:** ❤️ (13)
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **Created At:** 03/07 13:48
-- **Updated At:** 08/08 06:47
+- **作成日::** 03/07 13:48
+- **更新日::** 08/08 06:47
 
 ---
 
@@ -1065,7 +1076,11 @@
 ### 1. 管理者・モデレーターを募集します。希望する方は投稿してください。
 **作成者:** ダック🦆 (koregahonmono)
 
-<p>条件は、信用できるかどうか、使えるプロキシをたくさん投稿しているかです。</p><p>管理者にするかモデレーターにするかは管理者が決めます。</p><p>あなたの要求の投稿が削除されている場合、付与されていないもしくは管理者の権限を付与したということになります。</p><p><br></p>
+条件は、信用できるかどうか、使えるプロキシをたくさん投稿しているかです。
+
+管理者にするかモデレーターにするかは管理者が決めます。
+
+あなたの要求の投稿が削除されている場合、付与されていないもしくは管理者の権限を付与したということになります。
 
 #### コメント (68)
 - **みふゆ** (07/03 02:20): 管理者になりたいです
@@ -1139,8 +1154,8 @@
 
 #### その他の情報
 - **投稿のカラー:** パープル
-- **Created At:** 05/14 23:51
-- **Updated At:** 06/04 02:17
+- **作成日::** 05/14 23:51
+- **更新日::** 06/04 02:17
 
 ---
 
@@ -1149,7 +1164,7 @@
 ### 1. 我KB
 **作成者:** KB  (King Boot) (KB_KingBoot_)
 
-<p>ドリえもんだぜ</p>
+ドリえもんだぜ
 
 #### コメント (41)
 - **Rino** (10/09 11:41): よろ
@@ -1179,9 +1194,9 @@
 - **Nervous Cricket** (11/17 14:21): しね
 - **Nervous Cricket** (11/17 14:21): しね
 - **石破** (12/05 16:41): こんばんは
-- **まつりゅー　#Food:Meat隊** (01/06 11:38): KBの部屋イキリすぎ
-- **まつりゅー　#Food:Meat隊** (01/06 11:38): 全部英語訳してる
-- **まつりゅー　#Food:Meat隊** (01/06 11:39): っていうかvideoのスペル間違えてんのおもろすぎ
+- **まつりゅ　#Food:Meat隊** (01/06 11:38): KBの部屋イキリすぎ
+- **まつりゅ　#Food:Meat隊** (01/06 11:38): 全部英語訳してる
+- **まつりゅ　#Food:Meat隊** (01/06 11:39): っていうかvideoのスペル間違えてんのおもろすぎ
 - **ビブッシュ・サン・アロントくん　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　喧嘩売られると弱い系　　　　　　　　　　　　　　　　　　　　　　マジ死ぬ** (01/06 12:17): こん
 - **ビブッシュ・サン・アロントくん　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　喧嘩売られると弱い系　　　　　　　　　　　　　　　　　　　　　　マジ死ぬ** (01/06 12:17): ？
 - **ピカさん** (02/09 01:03): こんにちは
@@ -1189,7 +1204,7 @@
 - **マイスター** (03/06 10:02): よろ
 - **M!LK＆すしりく大好き** (04/26 09:35): 変なこと(エロいこと)こめんとするのよくない
 - **Anonymous** (06/12 06:20): どうせ全員ピエロ動画見に来てんだからいいだろ
-- **𝓽𝓪.𝓾𝓴　7月下旬頃活動中止** (06/13 06:42): 荒れ過ぎちゃう？あとらっぐい
+- **𝓽𝓪.𝓾𝓴　타쿠** (06/13 06:42): 荒れ過ぎちゃう？あとらっぐい
 - **ミチツキ** (06/17 02:50): あ
 - **Ru~Ru~Ru~Ru~♪** (06/19 13:05): こんち
 - **フラウィ　L** (07/23 08:51): https://padlet.com/8aba9eb9f57d3b8e/padlet-t23t7dm9vrzmfd5o
@@ -1199,8 +1214,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 09/10 08:49
-- **Updated At:** 09/10 08:49
+- **作成日::** 09/10 08:49
+- **更新日::** 09/10 08:49
 
 ---
 
@@ -1217,8 +1232,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 07/03 21:55
-- **Updated At:** 07/03 21:55
+- **作成日::** 07/03 21:55
+- **更新日::** 07/03 21:55
 
 ---
 
@@ -1234,8 +1249,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/20 12:11
-- **Updated At:** 06/20 12:12
+- **作成日::** 06/20 12:11
+- **更新日::** 06/20 12:12
 
 ---
 
@@ -1250,8 +1265,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/10 08:01
-- **Updated At:** 06/10 08:01
+- **作成日::** 06/10 08:01
+- **更新日::** 06/10 08:01
 
 ---
 
@@ -1267,8 +1282,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/31 09:12
-- **Updated At:** 06/10 02:13
+- **作成日::** 05/31 09:12
+- **更新日::** 06/10 02:13
 
 ---
 
@@ -1289,15 +1304,15 @@
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **Created At:** 05/22 08:45
-- **Updated At:** 05/22 08:53
+- **作成日::** 05/22 08:45
+- **更新日::** 05/22 08:53
 
 ---
 
 ### 7. 投稿 7
 **作成者:** 🔰 (2024012018)
 
-<p>よろしく</p>
+よろしく
 
 #### コメント (12)
 - **🔰** (03/07 06:25): 😗
@@ -1315,8 +1330,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ブルー
-- **Created At:** 03/07 06:20
-- **Updated At:** 05/22 23:20
+- **作成日::** 03/07 06:20
+- **更新日::** 05/22 23:20
 
 ---
 
@@ -1325,7 +1340,11 @@
 ### 1. 管理者とモデレーターへのお願いです。
 **作成者:** ダック🦆 (koregahonmono)
 
-<p>管理者は何も聞かずになんでもしてください。</p><p>モデレーターは何かする時は毎回管理者に聞いてください。</p><p>よろしく！</p>
+管理者は何も聞かずになんでもしてください。
+
+モデレーターは何かする時は毎回管理者に聞いてください。
+
+よろしく！
 
 #### コメント (9)
 - **削除済みユーザー** (05/22 00:20): (๑˃̵ᴗ˂̵)
@@ -1343,8 +1362,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ブルー
-- **Created At:** 05/22 00:16
-- **Updated At:** 06/27 05:52
+- **作成日::** 05/22 00:16
+- **更新日::** 06/27 05:52
 
 ---
 
@@ -1376,8 +1395,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/09 14:16
-- **Updated At:** 06/24 11:19
+- **作成日::** 06/09 14:16
+- **更新日::** 06/24 11:19
 
 ---
 
@@ -1401,8 +1420,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/25 04:42
-- **Updated At:** 06/25 04:42
+- **作成日::** 06/25 04:42
+- **更新日::** 06/25 04:42
 
 ---
 
@@ -1418,8 +1437,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/16 03:16
-- **Updated At:** 06/16 03:16
+- **作成日::** 06/16 03:16
+- **更新日::** 06/16 03:16
 
 ---
 
@@ -1434,8 +1453,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/09 12:15
-- **Updated At:** 06/09 12:15
+- **作成日::** 06/09 12:15
+- **更新日::** 06/09 12:15
 
 ---
 
@@ -1444,9 +1463,9 @@
 ### 1. 朗報
 **作成者:** ピコ (akakumasunsun)
 
-<p>お姉ちゃん二人とセックスしました嬉しーー</p><p><br/></p>
+お姉ちゃん二人とセックスしました嬉しーー
 
-#### コメント (25)
+#### コメント (27)
 - **Yusho** (05/05 06:05): ？？
 - **Æž!満蒙ボール【ポーランドボール界隈】** (05/05 07:59): ???
 - **Æž!満蒙ボール【ポーランドボール界隈】** (05/05 08:09): 映像あるん?
@@ -1472,14 +1491,16 @@
 - **ホタルノネ** (07/15 11:32): 映像よこせや◯すぞ
 - **東** (07/16 02:10): ふぁ
 - **ななつぼし** (07/21 13:25): おっさんええて
+- **Anonymous** (07/25 08:20): みんな釣られてるの面白すぎて
+- **ｓｘ** (07/27 21:58): 画像
 
 #### リアクション
 - **絵文字:** ❤️ (2)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/04 09:11
-- **Updated At:** 05/04 09:11
+- **作成日::** 05/04 09:11
+- **更新日::** 05/04 09:11
 
 ---
 
@@ -1493,15 +1514,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 04/24 07:37
-- **Updated At:** 04/24 07:37
+- **作成日::** 04/24 07:37
+- **更新日::** 04/24 07:37
 
 ---
 
 ### 3. エロ系統ほしい
 **作成者:** 夜行性の一般人（元☂） (megane)
 
-<p>それかエロ部屋ほしい</p>
+それかエロ部屋ほしい
 
 #### コメント (23)
 - **暴走パンダ** (10/01 11:55): ジオメタください　
@@ -1533,8 +1554,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 10/01 07:55
-- **Updated At:** 10/01 07:55
+- **作成日::** 10/01 07:55
+- **更新日::** 10/01 07:55
 
 ---
 
@@ -1554,8 +1575,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 07/23 06:08
-- **Updated At:** 07/23 06:08
+- **作成日::** 07/23 06:08
+- **更新日::** 07/23 06:08
 
 ---
 
@@ -1567,15 +1588,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/22 06:16
-- **Updated At:** 08/08 06:47
+- **作成日::** 06/22 06:16
+- **更新日::** 08/08 06:47
 
 ---
 
 ### 6. わかめどぞ
 **作成者:** 煮物 (nimonooooooooooooooooo)
 
-<p><a rel="noopener noreferrer nofollow" href="https://wkt-uuiv.onrender.com/wkt">https://wkt-uuiv.onrender.com/wkt</a></p>
+[https://wkt-uuiv.onrender.com/wkt](https://wkt-uuiv.onrender.com/wkt)
 
 #### コメント (9)
 - **日産GTR34NISMO** (06/15 08:01): https://south-lake-garden.glitch.me/
@@ -1589,12 +1610,12 @@
 - **ハシビロコウ** (07/18 00:51): ブロ
 
 #### リアクション
-- **絵文字:** ❤️ (6)
+- **絵文字:** ❤️ (7)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/10 08:04
-- **Updated At:** 06/27 05:52
+- **作成日::** 06/10 08:04
+- **更新日::** 06/27 05:52
 
 ---
 
@@ -1613,8 +1634,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/01 02:19
-- **Updated At:** 06/01 02:19
+- **作成日::** 06/01 02:19
+- **更新日::** 06/01 02:19
 
 ---
 
@@ -1627,15 +1648,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/03 11:45
-- **Updated At:** 06/09 23:55
+- **作成日::** 06/03 11:45
+- **更新日::** 06/09 23:55
 
 ---
 
 ### 9. 投稿 9
 **作成者:** ダブルチーズバーガー (2024012007)
 
-<p>漫画見れないんです</p>
+漫画見れないんです
 
 #### コメント (13)
 - **削除済みユーザー** (05/14 10:04): もっと動画欲しい
@@ -1649,13 +1670,13 @@
 - **p** (05/22 13:40): 教えて
 - **遠藤** (12/13 08:37): おっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいっvおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいっっvおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいっっvおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいvおっぱいおっぱいおっぱいおっぱい っっっvおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいっっvおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱいおっぱい
 - **遠藤** (12/13 08:38): ちんこちんこvちんこちんこちんこちんこちんこちんこちんこちんこちんこ vちんこちんこ vちんこちんこちんこちんこちんこ vちんこちんこちんこちんこちんこちんこちんこちんこちんこちんこちんこちんこ っvちんこちんこちんこちんこちんこっvちんこちんこちんこちんこちんこvちんこちんこちんこちんこ
-- **ㅤ** (05/04 02:43): 　　　
+- **#96** (05/04 02:43): 　　　
 - **メバエ** (06/09 22:04): せっくす
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/28 12:19
-- **Updated At:** 05/21 04:19
+- **作成日::** 03/28 12:19
+- **更新日::** 05/21 04:19
 
 ---
 
@@ -1715,8 +1736,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/04 08:05
-- **Updated At:** 06/06 06:13
+- **作成日::** 06/04 08:05
+- **更新日::** 06/06 06:13
 
 ---
 
@@ -1771,8 +1792,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **Created At:** 05/20 09:55
-- **Updated At:** 06/06 06:34
+- **作成日::** 05/20 09:55
+- **更新日::** 06/06 06:34
 
 ---
 
@@ -1810,8 +1831,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 10/15 00:51
-- **Updated At:** 10/15 00:51
+- **作成日::** 10/15 00:51
+- **更新日::** 10/15 00:51
 
 ---
 
@@ -1825,8 +1846,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 10/15 00:51
-- **Updated At:** 10/15 00:51
+- **作成日::** 10/15 00:51
+- **更新日::** 10/15 00:51
 
 ---
 
@@ -1854,15 +1875,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 08/28 05:34
-- **Updated At:** 08/28 05:34
+- **作成日::** 08/28 05:34
+- **更新日::** 08/28 05:34
 
 ---
 
 ### 4. newプロキシ欲しい
 **作成者:** ꒰ঌからあげだっぞ໒꒱ (Karaagedazzo)
 
-<p>ブロられた</p>
+ブロられた
 
 #### コメント (5)
 - **Busy Kookaburra** (06/29 09:04): codewars.cf
@@ -1873,8 +1894,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/27 09:56
-- **Updated At:** 06/27 09:56
+- **作成日::** 06/27 09:56
+- **更新日::** 06/27 09:56
 
 ---
 
@@ -1887,8 +1908,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/26 04:50
-- **Updated At:** 08/17 14:54
+- **作成日::** 06/26 04:50
+- **更新日::** 08/17 14:54
 
 ---
 
@@ -1902,8 +1923,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/10 08:34
-- **Updated At:** 06/10 08:34
+- **作成日::** 06/10 08:34
+- **更新日::** 06/10 08:34
 
 ---
 
@@ -1922,8 +1943,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/16 00:00
-- **Updated At:** 06/24 11:20
+- **作成日::** 06/16 00:00
+- **更新日::** 06/24 11:20
 
 ---
 
@@ -1940,8 +1961,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/10 08:29
-- **Updated At:** 06/10 08:29
+- **作成日::** 06/10 08:29
+- **更新日::** 06/10 08:29
 
 ---
 
@@ -1956,8 +1977,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/10 08:17
-- **Updated At:** 06/10 08:17
+- **作成日::** 06/10 08:17
+- **更新日::** 06/10 08:17
 
 ---
 
@@ -1971,8 +1992,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/10 08:14
-- **Updated At:** 06/10 08:14
+- **作成日::** 06/10 08:14
+- **更新日::** 06/10 08:14
 
 ---
 
@@ -1986,8 +2007,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/10 08:13
-- **Updated At:** 06/10 08:13
+- **作成日::** 06/10 08:13
+- **更新日::** 06/10 08:13
 
 ---
 
@@ -2001,8 +2022,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **Created At:** 05/20 10:10
-- **Updated At:** 06/10 04:45
+- **作成日::** 05/20 10:10
+- **更新日::** 06/10 04:45
 
 ---
 
@@ -2017,8 +2038,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **Created At:** 05/20 09:56
-- **Updated At:** 05/22 00:07
+- **作成日::** 05/20 09:56
+- **更新日::** 05/22 00:07
 
 ---
 
@@ -2032,8 +2053,8 @@
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **Created At:** 05/20 10:10
-- **Updated At:** 05/20 10:10
+- **作成日::** 05/20 10:10
+- **更新日::** 05/20 10:10
 
 ---
 
@@ -2047,8 +2068,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ブルー
-- **Created At:** 05/20 10:10
-- **Updated At:** 05/20 10:10
+- **作成日::** 05/20 10:10
+- **更新日::** 05/20 10:10
 
 ---
 
@@ -2065,8 +2086,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/20 10:02
-- **Updated At:** 05/20 10:02
+- **作成日::** 05/20 10:02
+- **更新日::** 05/20 10:02
 
 ---
 
@@ -2080,8 +2101,8 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **Created At:** 05/20 10:01
-- **Updated At:** 05/20 10:01
+- **作成日::** 05/20 10:01
+- **更新日::** 05/20 10:01
 
 ---
 
@@ -2096,8 +2117,8 @@
 
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **Created At:** 05/20 10:01
-- **Updated At:** 05/20 10:01
+- **作成日::** 05/20 10:01
+- **更新日::** 05/20 10:01
 
 ---
 
@@ -2111,8 +2132,8 @@
 
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **Created At:** 05/20 10:01
-- **Updated At:** 05/20 10:01
+- **作成日::** 05/20 10:01
+- **更新日::** 05/20 10:01
 
 ---
 
@@ -2126,8 +2147,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ブルー
-- **Created At:** 05/20 10:01
-- **Updated At:** 05/20 10:02
+- **作成日::** 05/20 10:01
+- **更新日::** 05/20 10:02
 
 ---
 
@@ -2141,8 +2162,8 @@
 
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **Created At:** 05/20 10:01
-- **Updated At:** 05/20 10:01
+- **作成日::** 05/20 10:01
+- **更新日::** 05/20 10:01
 
 ---
 
@@ -2156,8 +2177,8 @@
 
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **Created At:** 05/20 10:01
-- **Updated At:** 05/20 10:01
+- **作成日::** 05/20 10:01
+- **更新日::** 05/20 10:01
 
 ---
 
@@ -2171,8 +2192,8 @@
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **Created At:** 05/20 10:00
-- **Updated At:** 05/20 10:01
+- **作成日::** 05/20 10:00
+- **更新日::** 05/20 10:01
 
 ---
 
@@ -2186,8 +2207,8 @@
 
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **Created At:** 05/20 10:00
-- **Updated At:** 05/20 10:01
+- **作成日::** 05/20 10:00
+- **更新日::** 05/20 10:01
 
 ---
 
@@ -2202,8 +2223,8 @@
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **Created At:** 05/20 09:58
-- **Updated At:** 05/20 09:59
+- **作成日::** 05/20 09:58
+- **更新日::** 05/20 09:59
 
 ---
 
@@ -2217,8 +2238,8 @@
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **Created At:** 05/20 09:58
-- **Updated At:** 05/20 09:59
+- **作成日::** 05/20 09:58
+- **更新日::** 05/20 09:59
 
 ---
 
@@ -2234,15 +2255,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ブルー
-- **Created At:** 05/20 09:58
-- **Updated At:** 05/20 09:58
+- **作成日::** 05/20 09:58
+- **更新日::** 05/20 09:58
 
 ---
 
 ### 28. Utopia(動作確認)
 **作成者:** 削除済みユーザー
 
-<p><a rel="noopener noreferrer nofollow" href="https://hatimogu.onrender.com/pp/ifil/utopia">https://hatimogu.onrender.com/pp/ifil/utopia</a></p>
+[https://hatimogu.onrender.com/pp/ifil/utopia](https://hatimogu.onrender.com/pp/ifil/utopia)
 
 [添付ファイル 1](https://hatimogu.onrender.com/pp/ifil/utopia)
 
@@ -2251,8 +2272,8 @@
 
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **Created At:** 05/20 09:58
-- **Updated At:** 05/20 09:58
+- **作成日::** 05/20 09:58
+- **更新日::** 05/20 09:58
 
 ---
 
@@ -2266,8 +2287,8 @@
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **Created At:** 05/20 09:57
-- **Updated At:** 05/20 09:57
+- **作成日::** 05/20 09:57
+- **更新日::** 05/20 09:57
 
 ---
 
@@ -2281,8 +2302,8 @@
 
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **Created At:** 05/20 09:57
-- **Updated At:** 05/20 09:57
+- **作成日::** 05/20 09:57
+- **更新日::** 05/20 09:57
 
 ---
 
@@ -2296,8 +2317,8 @@
 
 #### その他の情報
 - **投稿のカラー:** イエロー
-- **Created At:** 05/20 09:57
-- **Updated At:** 05/20 09:57
+- **作成日::** 05/20 09:57
+- **更新日::** 05/20 09:57
 
 ---
 
@@ -2311,8 +2332,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ブルー
-- **Created At:** 05/20 09:57
-- **Updated At:** 05/20 09:58
+- **作成日::** 05/20 09:57
+- **更新日::** 05/20 09:58
 
 ---
 
@@ -2326,8 +2347,8 @@
 
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **Created At:** 05/20 09:57
-- **Updated At:** 05/20 09:58
+- **作成日::** 05/20 09:57
+- **更新日::** 05/20 09:58
 
 ---
 
@@ -2338,8 +2359,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ブルー
-- **Created At:** 05/20 09:56
-- **Updated At:** 05/20 09:57
+- **作成日::** 05/20 09:56
+- **更新日::** 05/20 09:57
 
 ---
 
@@ -2350,8 +2371,8 @@
 
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **Created At:** 05/20 09:56
-- **Updated At:** 05/20 09:56
+- **作成日::** 05/20 09:56
+- **更新日::** 05/20 09:56
 
 ---
 
@@ -2362,8 +2383,8 @@
 
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **Created At:** 05/20 09:56
-- **Updated At:** 05/20 09:57
+- **作成日::** 05/20 09:56
+- **更新日::** 05/20 09:57
 
 ---
 
@@ -2374,8 +2395,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/19 00:45
-- **Updated At:** 05/19 00:45
+- **作成日::** 05/19 00:45
+- **更新日::** 05/19 00:45
 
 ---
 
@@ -2387,8 +2408,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/17 21:57
-- **Updated At:** 05/17 21:57
+- **作成日::** 05/17 21:57
+- **更新日::** 05/17 21:57
 
 ---
 
@@ -2399,29 +2420,29 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/09 01:08
-- **Updated At:** 05/12 01:54
+- **作成日::** 05/09 01:08
+- **更新日::** 05/12 01:54
 
 ---
 
 ### 40. 便利結構なんでも見れる
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://us4-pro.global.ssl.fastly.net/">https://us4-pro.global.ssl.fastly.net/</a></p>
+[https://us4-pro.global.ssl.fastly.net/](https://us4-pro.global.ssl.fastly.net/)
 
 [添付ファイル 1](https://us4-pro.global.ssl.fastly.net/)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/09 01:06
-- **Updated At:** 05/09 01:06
+- **作成日::** 05/09 01:06
+- **更新日::** 05/09 01:06
 
 ---
 
 ### 41. 検索サイト
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://lhgeo.fr/p/">https://lhgeo.fr/p/</a></p>
+[https://lhgeo.fr/p/](https://lhgeo.fr/p/)
 
 [添付ファイル 1](https://lhgeo.fr/p/)
 
@@ -2430,22 +2451,22 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/09 01:05
-- **Updated At:** 05/19 00:45
+- **作成日::** 05/09 01:05
+- **更新日::** 05/19 00:45
 
 ---
 
 ### 42. わかめ
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://dandelion-gigantic-lobster.glitch.me/wkt">https://dandelion-gigantic-lobster.glitch.me/wkt</a></p>
+[https://dandelion-gigantic-lobster.glitch.me/wkt](https://dandelion-gigantic-lobster.glitch.me/wkt)
 
 [添付ファイル 1](https://dandelion-gigantic-lobster.glitch.me/wkt)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/09 01:03
-- **Updated At:** 05/09 01:03
+- **作成日::** 05/09 01:03
+- **更新日::** 05/09 01:03
 
 ---
 
@@ -2456,8 +2477,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/09 01:03
-- **Updated At:** 05/09 01:03
+- **作成日::** 05/09 01:03
+- **更新日::** 05/09 01:03
 
 ---
 
@@ -2468,8 +2489,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/09 01:01
-- **Updated At:** 05/09 01:01
+- **作成日::** 05/09 01:01
+- **更新日::** 05/09 01:01
 
 ---
 
@@ -2483,8 +2504,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/02 01:50
-- **Updated At:** 05/02 01:50
+- **作成日::** 05/02 01:50
+- **更新日::** 05/02 01:50
 
 ---
 
@@ -2495,15 +2516,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/02 01:50
-- **Updated At:** 05/02 01:50
+- **作成日::** 05/02 01:50
+- **更新日::** 05/02 01:50
 
 ---
 
 ### 47. アニメ風タイトルロゴ
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://anipri.com/topic/anime-logo/">https://anipri.com/topic/anime-logo/</a></p>
+[https://anipri.com/topic/anime-logo/](https://anipri.com/topic/anime-logo/)
 
 [添付ファイル 1](https://anipri.com/topic/anime-logo/)
 
@@ -2513,15 +2534,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 06:06
-- **Updated At:** 05/08 23:24
+- **作成日::** 03/07 06:06
+- **更新日::** 05/08 23:24
 
 ---
 
 ### 48. 捨てメアド
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://rstricks.com/temp-mail/feed.php?ss=FREE">https://rstricks.com/temp-mail/feed.php?ss=FREE</a></p>
+[https://rstricks.com/temp-mail/feed.php?ss=FREE](https://rstricks.com/temp-mail/feed.php?ss=FREE)
 
 [添付ファイル 1](https://rstricks.com/temp-mail/feed.php?ss=FREE)
 
@@ -2534,8 +2555,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 06:01
-- **Updated At:** 03/07 06:01
+- **作成日::** 03/07 06:01
+- **更新日::** 03/07 06:01
 
 ---
 
@@ -2546,8 +2567,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:59
-- **Updated At:** 03/12 05:30
+- **作成日::** 03/07 05:59
+- **更新日::** 03/12 05:30
 
 ---
 
@@ -2561,8 +2582,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:51
-- **Updated At:** 03/12 05:30
+- **作成日::** 03/07 05:51
+- **更新日::** 03/12 05:30
 
 ---
 
@@ -2571,7 +2592,23 @@
 ### 1. ゲームサイト　被ってたらごめん
 **作成者:** 煮物 (nimonooooooooooooooooo)
 
-<p><a rel="noopener noreferrer nofollow" href="https://ubg99.online/">https://ubg99.online/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://wondermerge.gcdn.co/publish/html5/">https://wondermerge.gcdn.co/publish/html5/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://geometry1.lol/">https://geometry1.lol/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://unblocked-games.s3-accelerate.amazonaws.com/index.html">https://unblocked-games.s3-accelerate.amazonaws.com/index.html</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/xMpnwMbu/index.html">https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/xMpnwMbu/index.html</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://quiz-30x.guru/">https://quiz-30x.guru/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/drive-u-7-home/home">https://sites.google.com/view/drive-u-7-home/home</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://iron-snout.gitlab.io/">https://iron-snout.gitlab.io/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://altar.azureedge.net/">https://altar.azureedge.net/</a></p><p><br></p><p><br></p>
+[https://ubg99.online/](https://ubg99.online/)
+
+[https://wondermerge.gcdn.co/publish/html5/](https://wondermerge.gcdn.co/publish/html5/)
+
+[https://geometry1.lol/](https://geometry1.lol/)
+
+[https://unblocked-games.s3-accelerate.amazonaws.com/index.html](https://unblocked-games.s3-accelerate.amazonaws.com/index.html)
+
+[https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/xMpnwMbu/index.html](https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/xMpnwMbu/index.html)
+
+[https://quiz-30x.guru/](https://quiz-30x.guru/)
+
+[https://sites.google.com/view/drive-u-7-home/home](https://sites.google.com/view/drive-u-7-home/home)
+
+[https://iron-snout.gitlab.io/](https://iron-snout.gitlab.io/)
+
+[https://altar.azureedge.net/](https://altar.azureedge.net/)
 
 #### コメント (6)
 - **スミカワホク** (10/10 01:31): ボンバーマンのありますか？
@@ -2583,15 +2620,37 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/10 08:29
-- **Updated At:** 06/11 04:11
+- **作成日::** 06/10 08:29
+- **更新日::** 06/11 04:11
 
 ---
 
 ### 2. とりあえずゲーム。持ってるのあったらごめん
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://echo-v5.global.ssl.fastly.net/games">https://echo-v5.global.ssl.fastly.net/games</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://ubg77.gitlab.io/">https://ubg77.gitlab.io/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://uchuzine.sakura.ne.jp/pico8/sp/#playing">https://uchuzine.sakura.ne.jp/pico8/sp/#playing</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://www.dailytoolz.com/cubes-2048/">https://www.dailytoolz.com/cubes-2048/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/unblockedg200/home">https://sites.google.com/view/unblockedg200/home</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://prakashnewxy1.github.io/macvg/">https://prakashnewxy1.github.io/macvg/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://sunnys-gym.global.ssl.fastly.net/">https://sunnys-gym.global.ssl.fastly.net/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/iloveschoolmath/home_1">https://sites.google.com/view/iloveschoolmath/home_1</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://wondermerge.gcdn.co/publish/html5/">https://wondermerge.gcdn.co/publish/html5/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://liammuir.github.io/gfiles/gfiles/html5/2048/">https://liammuir.github.io/gfiles/gfiles/html5/2048/</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/unblockedg200/home">https://sites.google.com/view/unblockedg200/home</a></p><p><br></p><p><a rel="noopener noreferrer nofollow" href="https://pgsisthebest.bitbucket.io/">https://pgsisthebest.bitbucket.io/</a></p>
+[https://echo-v5.global.ssl.fastly.net/games](https://echo-v5.global.ssl.fastly.net/games)
+
+[https://ubg77.gitlab.io/](https://ubg77.gitlab.io/)
+
+[https://uchuzine.sakura.ne.jp/pico8/sp/#playing](https://uchuzine.sakura.ne.jp/pico8/sp/#playing)
+
+[https://www.dailytoolz.com/cubes-2048/](https://www.dailytoolz.com/cubes-2048/)
+
+[https://sites.google.com/view/unblockedg200/home](https://sites.google.com/view/unblockedg200/home)
+
+[https://prakashnewxy1.github.io/macvg/](https://prakashnewxy1.github.io/macvg/)
+
+[https://sunnys-gym.global.ssl.fastly.net/](https://sunnys-gym.global.ssl.fastly.net/)
+
+[https://sites.google.com/view/iloveschoolmath/home\_1](https://sites.google.com/view/iloveschoolmath/home_1)
+
+[https://wondermerge.gcdn.co/publish/html5/](https://wondermerge.gcdn.co/publish/html5/)
+
+[https://liammuir.github.io/gfiles/gfiles/html5/2048/](https://liammuir.github.io/gfiles/gfiles/html5/2048/)
+
+[https://sites.google.com/view/unblockedg200/home](https://sites.google.com/view/unblockedg200/home)
+
+[https://pgsisthebest.bitbucket.io/](https://pgsisthebest.bitbucket.io/)
 
 #### コメント (4)
 - **ジョブズの林檎** (06/06 10:24): ありがとうございます♪
@@ -2604,8 +2663,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/06 05:07
-- **Updated At:** 06/09 23:55
+- **作成日::** 06/06 05:07
+- **更新日::** 06/09 23:55
 
 ---
 
@@ -2619,15 +2678,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/29 13:30
-- **Updated At:** 05/29 13:30
+- **作成日::** 05/29 13:30
+- **更新日::** 05/29 13:30
 
 ---
 
 ### 4. OVO
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://ryanjetplane1.codeberg.page/Openbeta/@ovo/">https://ryanjetplane1.codeberg.page/Openbeta/@ovo/</a></p>
+[https://ryanjetplane1.codeberg.page/Openbeta/@ovo/](https://ryanjetplane1.codeberg.page/Openbeta/@ovo/)
 
 [添付ファイル 1](https://ryanjetplane1.codeberg.page/Openbeta/@ovo/)
 
@@ -2637,15 +2696,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/09 01:04
-- **Updated At:** 05/20 03:51
+- **作成日::** 05/09 01:04
+- **更新日::** 05/20 03:51
 
 ---
 
 ### 5. タックルするゲーム
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://ryanjetplane1.codeberg.page/Openbeta/@burrito-bison/">https://ryanjetplane1.codeberg.page/Openbeta/@burrito-bison/</a></p>
+[https://ryanjetplane1.codeberg.page/Openbeta/@burrito-bison/](https://ryanjetplane1.codeberg.page/Openbeta/@burrito-bison/)
 
 [添付ファイル 1](https://ryanjetplane1.codeberg.page/Openbeta/@burrito-bison/)
 
@@ -2654,8 +2713,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/09 01:04
-- **Updated At:** 05/09 01:04
+- **作成日::** 05/09 01:04
+- **更新日::** 05/09 01:04
 
 ---
 
@@ -2669,15 +2728,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/19 00:47
-- **Updated At:** 05/22 00:21
+- **作成日::** 05/19 00:47
+- **更新日::** 05/22 00:21
 
 ---
 
 ### 7. UNO
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://ryanjetplane1.codeberg.page/Openbeta/@uno/">https://ryanjetplane1.codeberg.page/Openbeta/@uno/</a></p>
+[https://ryanjetplane1.codeberg.page/Openbeta/@uno/](https://ryanjetplane1.codeberg.page/Openbeta/@uno/)
 
 [添付ファイル 1](https://ryanjetplane1.codeberg.page/Openbeta/@uno/)
 
@@ -2686,29 +2745,29 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/02 01:49
-- **Updated At:** 05/02 01:49
+- **作成日::** 05/02 01:49
+- **更新日::** 05/02 01:49
 
 ---
 
 ### 8. バスケ
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://ryanjetplane1.codeberg.page/Openbeta/@basket-bros/">https://ryanjetplane1.codeberg.page/Openbeta/@basket-bros/</a></p>
+[https://ryanjetplane1.codeberg.page/Openbeta/@basket-bros/](https://ryanjetplane1.codeberg.page/Openbeta/@basket-bros/)
 
 [添付ファイル 1](https://ryanjetplane1.codeberg.page/Openbeta/@basket-bros/)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/02 01:49
-- **Updated At:** 05/02 01:49
+- **作成日::** 05/02 01:49
+- **更新日::** 05/02 01:49
 
 ---
 
 ### 9. フォールガイズ
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://ryanjetplane1.codeberg.page/Openbeta/@fall/">https://ryanjetplane1.codeberg.page/Openbeta/@fall/</a></p>
+[https://ryanjetplane1.codeberg.page/Openbeta/@fall/](https://ryanjetplane1.codeberg.page/Openbeta/@fall/)
 
 [添付ファイル 1](https://ryanjetplane1.codeberg.page/Openbeta/@fall/)
 
@@ -2717,15 +2776,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/02 01:48
-- **Updated At:** 05/02 01:48
+- **作成日::** 05/02 01:48
+- **更新日::** 05/02 01:48
 
 ---
 
 ### 10. 太鼓の達人
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://chill-meadow-wakeboard.glitch.me/">https://chill-meadow-wakeboard.glitch.me/</a></p>
+[https://chill-meadow-wakeboard.glitch.me/](https://chill-meadow-wakeboard.glitch.me/)
 
 [添付ファイル 1](https://chill-meadow-wakeboard.glitch.me/)
 
@@ -2734,8 +2793,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 04/22 01:39
-- **Updated At:** 04/22 01:39
+- **作成日::** 04/22 01:39
+- **更新日::** 04/22 01:39
 
 ---
 
@@ -2750,8 +2809,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/19 00:46
-- **Updated At:** 05/22 00:22
+- **作成日::** 05/19 00:46
+- **更新日::** 05/22 00:22
 
 ---
 
@@ -2762,22 +2821,22 @@
 
 #### その他の情報
 - **投稿のカラー:** グリーン
-- **Created At:** 05/20 09:55
-- **Updated At:** 05/22 00:03
+- **作成日::** 05/20 09:55
+- **更新日::** 05/22 00:03
 
 ---
 
 ### 13. ゲーム
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://multiplayer-csgo-clicker.glitch.me/">https://multiplayer-csgo-clicker.glitch.me/</a></p>
+[https://multiplayer-csgo-clicker.glitch.me/](https://multiplayer-csgo-clicker.glitch.me/)
 
 [添付ファイル 1](https://multiplayer-csgo-clicker.glitch.me/)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/13 04:01
-- **Updated At:** 03/13 04:01
+- **作成日::** 03/13 04:01
+- **更新日::** 03/13 04:01
 
 ---
 
@@ -2788,22 +2847,22 @@
 
 #### その他の情報
 - **投稿のカラー:** ブルー
-- **Created At:** 05/20 09:55
-- **Updated At:** 05/22 00:20
+- **作成日::** 05/20 09:55
+- **更新日::** 05/22 00:20
 
 ---
 
 ### 15. ゲーム
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://icanjustmakemore.glitch.me/games.html">https://icanjustmakemore.glitch.me/games.html</a></p>
+[https://icanjustmakemore.glitch.me/games.html](https://icanjustmakemore.glitch.me/games.html)
 
 [添付ファイル 1](https://icanjustmakemore.glitch.me/games.html)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/13 04:01
-- **Updated At:** 03/13 04:01
+- **作成日::** 03/13 04:01
+- **更新日::** 03/13 04:01
 
 ---
 
@@ -2817,23 +2876,23 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 06:05
-- **Updated At:** 03/07 06:05
+- **作成日::** 03/07 06:05
+- **更新日::** 03/07 06:05
 
 ---
 
 ### 17. キーボードしょぼん
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://www.jezng.com/open-syobon-action.js/">https://www.jezng.com/open-syobon-action.js/</a></p>
+[https://www.jezng.com/open-syobon-action.js/](https://www.jezng.com/open-syobon-action.js/)
 
 #### リアクション
 - **絵文字:** ❤️ (2)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/10 01:40
-- **Updated At:** 03/10 05:31
+- **作成日::** 03/10 01:40
+- **更新日::** 03/10 05:31
 
 ---
 
@@ -2844,22 +2903,22 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 06:05
-- **Updated At:** 03/07 06:05
+- **作成日::** 03/07 06:05
+- **更新日::** 03/07 06:05
 
 ---
 
 ### 19. マリオ(キーボード)
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://augustberchelmann.com/mario/">https://augustberchelmann.com/mario/</a></p>
+[https://augustberchelmann.com/mario/](https://augustberchelmann.com/mario/)
 
 [添付ファイル 1](https://augustberchelmann.com/mario/)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 06:04
-- **Updated At:** 03/07 06:04
+- **作成日::** 03/07 06:04
+- **更新日::** 03/07 06:04
 
 ---
 
@@ -2870,29 +2929,29 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 06:03
-- **Updated At:** 03/07 06:03
+- **作成日::** 03/07 06:03
+- **更新日::** 03/07 06:03
 
 ---
 
 ### 21. イカゲーム
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://www.rapidwebapp.com/">https://www.rapidwebapp.com/</a></p>
+[https://www.rapidwebapp.com/](https://www.rapidwebapp.com/)
 
 [添付ファイル 1](https://www.rapidwebapp.com/)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 06:03
-- **Updated At:** 03/07 06:03
+- **作成日::** 03/07 06:03
+- **更新日::** 03/07 06:03
 
 ---
 
 ### 22. しょぼん
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://tiwb.github.io/catmario/">https://tiwb.github.io/catmario/</a></p>
+[https://tiwb.github.io/catmario/](https://tiwb.github.io/catmario/)
 
 [添付ファイル 1](https://tiwb.github.io/catmario/)
 
@@ -2904,8 +2963,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:58
-- **Updated At:** 03/07 05:58
+- **作成日::** 03/07 05:58
+- **更新日::** 03/07 05:58
 
 ---
 
@@ -2916,8 +2975,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:56
-- **Updated At:** 03/10 01:03
+- **作成日::** 03/07 05:56
+- **更新日::** 03/10 01:03
 
 ---
 
@@ -2928,22 +2987,22 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:58
-- **Updated At:** 03/07 05:58
+- **作成日::** 03/07 05:58
+- **更新日::** 03/07 05:58
 
 ---
 
 ### 25. ボール
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://macvg-games.github.io/strategy-games/ballistic/">https://macvg-games.github.io/strategy-games/ballistic/</a></p>
+[https://macvg-games.github.io/strategy-games/ballistic/](https://macvg-games.github.io/strategy-games/ballistic/)
 
 [添付ファイル 1](https://macvg-games.github.io/strategy-games/ballistic/)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:56
-- **Updated At:** 03/07 05:56
+- **作成日::** 03/07 05:56
+- **更新日::** 03/07 05:56
 
 ---
 
@@ -2969,8 +3028,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:53
-- **Updated At:** 03/12 04:55
+- **作成日::** 03/07 05:53
+- **更新日::** 03/12 04:55
 
 ---
 
@@ -3000,15 +3059,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 07/12 10:18
-- **Updated At:** 07/12 10:18
+- **作成日::** 07/12 10:18
+- **更新日::** 07/12 10:18
 
 ---
 
 ### 2. y
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://www.intagent.com/remoteview/browse.php?u=9RfcFYALQzqXzrWQnHC2uuQOYstz9w%3D%3D&amp;b=29">https://www.intagent.com/remoteview/browse.php?u=9RfcFYALQzqXzrWQnHC2uuQOYstz9w%3D%3D&amp;b=29</a></p>
+[https://www.intagent.com/remoteview/browse.php?u=9RfcFYALQzqXzrWQnHC2uuQOYstz9w%3D%3D&b=29](https://www.intagent.com/remoteview/browse.php?u=9RfcFYALQzqXzrWQnHC2uuQOYstz9w%3D%3D&b=29)
 
 #### コメント (12)
 - **ダック🦆** (03/21 23:19): このサイトにこれ貼って
@@ -3029,8 +3088,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/19 01:39
-- **Updated At:** 06/16 02:49
+- **作成日::** 03/19 01:39
+- **更新日::** 06/16 02:49
 
 ---
 
@@ -3039,7 +3098,7 @@
 ### 1. かーてん
 **作成者:** ダック🦆 (koregahonmono)
 
-<p>　　</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>
+　　
 
 #### コメント (310)
 - **ダック🦆** (06/10 02:15): 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -3358,15 +3417,15 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **Created At:** 05/26 04:24
-- **Updated At:** 06/06 06:28
+- **作成日::** 05/26 04:24
+- **更新日::** 06/06 06:28
 
 ---
 
 ### 2. 投稿 2
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/8d954153a2ff10da68ec435597782ac6/_________________4.pdf?Expires=1785546251&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uAgil9JoMOJLbsFchmEyItxhD0EsTEJ9OF07w%2BN7dW8X7rmXPw7rOdaFiTujdoWQt2aedKfv1vy04R4Ysid190RgiEkZSG3%2FUCWpJe8l0meB844bn%2FVrWTgKcDqicVaoS3BAE0Jj4R%2F%2Fm7gNa5%2FMU70m3mOop%2FOOtymbMus4mixDRhdJxa3IYty6INpP%2FSEi%2BtIvJ3w%2Fd3DfQJNk81trm4VeAAPkLh7yyS35rYetVkCa%2BCN329PS33Ra7M%2BiGdILa33WRAooNHNb3XemOXNcK1ypUpciPyMM%2BMg8UNgPPdezIT317sCoyyKD0q95PNtN14p498YaiWUiS65rYOCREw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F8d954153a2ff10da68ec435597782ac6%2F_________________4.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/8d954153a2ff10da68ec435597782ac6/_________________4.pdf?Expires=1785831270&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tVLah8ptyxxPaEafxVHgjGrsZuOlWcwFAm8hB8sZJ%2FD439fIQgoh972ns1icaMr%2BLZQiM1vIsaPNdOXE3YuqJPSZvIc%2FOA1FAjPnTOooCiStttxx4Er7MoEUNY28HL6uGquOldjJ89WTL0UFGOFeLSu2X2IW4RA7vj92r8JET8amJGv7z9j5b9Kr2JnbPs3aN9SKkHfNGRfll4jKq%2BO0UCWj5q4btajZoPWIH7pmbo1QRa7gvMZE3cjTArFXdFHMS9zZ%2BsSrY66uxMczG562GF4y%2FZYk0WlTUCXEZ4GEgucva0A7pSLFsJXUq3jJV%2BQFBupaPM0BB3efluppZ54%2B3Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F8d954153a2ff10da68ec435597782ac6%2F_________________4.pdf)
 
 #### コメント (167)
 - **削除済みユーザー** (05/28 08:49): 五等分の花嫁が欲しい
@@ -3542,15 +3601,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/26 04:24
-- **Updated At:** 05/26 04:24
+- **作成日::** 05/26 04:24
+- **更新日::** 05/26 04:24
 
 ---
 
 ### 3. 投稿 3
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/72490f734c32aeaf6cbede7d9c2c9b5e/_________________3.pdf?Expires=1785546251&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=j15vSLVTmNkOLDK0YFFNDLH1B6Wil1uiKS6DiqJDCtU35qbuulGO2PH8IbOVh7UsKzg4BU59pzXbSQCoN3c002W5sbjGqFLIUAHb4XJ01qsyPOV39n%2B%2BNMa650x9pI0tXhbGjFod76%2FVK67SeSWQZtaAcdIPGCVroX%2BX0sS7X51cKjwmqCCYqIVN1WymmHR826zH%2FzReyGvxCKGaoXw8XLYlQgIKQuS4Qc5grQ%2BcS6fpPeroUnUrHPxroy5E0EPwj89C%2BhhPZg%2BnB63XfOQ6U9mOki4MHaZoK6%2FIjaU8g4350VWCD4%2BRj4Kir5Lz5zG9suRwZn8wj9Vj8ZEFoWAeOg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F72490f734c32aeaf6cbede7d9c2c9b5e%2F_________________3.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/72490f734c32aeaf6cbede7d9c2c9b5e/_________________3.pdf?Expires=1785831271&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nKRlzxofRm2CQmcpwu9Ei8U6mj4rPXCbTb2OdEwqOeDls2zz96279GQiGzgLBBKYX5L6wXkC4DyYvQ06oLfnG9fzhyJ%2FSVu0pPNpGFqmeHvPZen9mtbusEFjuyybR%2BfVEtjFLNzdf05ni1yVqjLyqnt14OBPqXKhlzNwzjQC%2Bvrs4rFE7sx2hvx3tT2J9Fvfq%2Bs02%2B4b1Lr1d6LvptcbN5u7fz%2By2A8yzLW19ofcgSn9V1NioKcoAgdWro56ZbX3tDrIkVLsPa9%2F83NjFTNO5hOVpCzZqMJAxs%2F2cLNv4dShPpsEDKOs9WNk%2B%2BZqhQj5tQjZsJckHkasFvzwOOBbDw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F72490f734c32aeaf6cbede7d9c2c9b5e%2F_________________3.pdf)
 
 #### コメント (67)
 - **hanaだお** (06/12 07:00): 初目と発目間違ってる
@@ -3626,15 +3685,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/26 04:24
-- **Updated At:** 05/26 04:24
+- **作成日::** 05/26 04:24
+- **更新日::** 05/26 04:24
 
 ---
 
 ### 4. 投稿 4
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/82ca4d47bd90c1a0fe66fc9dda631fce/_________________2.pdf?Expires=1785546251&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bYtyMUZX0K2Yh2UqLeZo0nLL8G9YvMI1sKvCMCFOJiFd%2FW0Hmmc59jh5kYsjfWMOhr198nINDL4D6RwhIomLXNwCrLxH9g8uACSWeZQZqB1w%2BMNe1e5yrJgVs0SzT9w09XRvvibt1wFdEeTk5CD%2F5dkAOvLzRQ5NMLqliAPDXbVeQdqcmNgmduSLI9%2BSgto2harvUb54Gj5VfF%2BJVVynuQy3Ky6hqAsAQr8hE7%2B%2BawhumFcpGxGL9u5HsJ9znjzws8cRQWOfGQpRPCsl%2BhRaqP37zh9358QDwQli6s2Yj2ElT%2FoAmxbRNTthct%2BoxmwMjdxtGXaEeOf8KWEKPwU%2F7A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F82ca4d47bd90c1a0fe66fc9dda631fce%2F_________________2.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/82ca4d47bd90c1a0fe66fc9dda631fce/_________________2.pdf?Expires=1785831271&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=R4jhEVAE%2BxZOjfNYxkL4gmEVJpHAzyWVwaDOaV6ElqJ99H4nQ7HB4ZyPLs2VAWhLnYouiBtJzrZ2UQRv1u6Kf80qFAwMbPnLCCtx%2BWAYrJhDpLOMYQRe2AOuCMa78aBanCt7BzwWZFDVMCi93AyZ3zunTTcHkeozqrUYyjq%2F%2Far6iwpxIrXKPGY6hmFS3IPd%2B%2BscTmBtW7f15smJBxR4Z2h0ohDaIk%2FnPrCP%2BhAjle1ZKmwK9w3BpV%2FU36vX2S7M41VeIpcdTKBUte1daGpLPMzxoqxZyqftXH7cAUdy8r6NcoAB6lGpOwsoglu3EK%2B8fXwPPOqvR0RZE22FOTx09Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F82ca4d47bd90c1a0fe66fc9dda631fce%2F_________________2.pdf)
 
 #### コメント (127)
 - **ニンフィアちゃん❕❕　腹黒堕天使にゃん❤** (10/17 18:52): r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅx҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊
@@ -3770,15 +3829,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/26 04:23
-- **Updated At:** 05/26 04:23
+- **作成日::** 05/26 04:23
+- **更新日::** 05/26 04:23
 
 ---
 
 ### 5. 投稿 5
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/4f3635649ff140cd399fb28b3878c0d2/_________________1.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rrbpY4T7dC3edlSM%2F7C0hkXkhykN6STVI60bP8CitJdYoJc1N61iqcFJPBNXMugGdsoWm7C64Ep%2BEsmKdiiA8O3eZojAF4%2F4DcWO5dWppfrYdziGrwPp5UkkMyZc3c2arbW%2BPF2FZU37CJFjZsVPXG%2FmO9fRQcpGqlAN%2FLHdS5gjgY7aTk2PFy2SJySXgtZTx7N06yOMfnxuTV5tB41u1QvCpMgYor9FbPbjzlbhzxc8lAejroMFKYzq%2BFc1b2jGZafwTVOMLuAADEwDe%2F6EjrH8zGK6Umj0e5goWLK3VXKt4qYlZPzD4hZ%2Fh89J2SNbRZibUDQestFMDzxTWUgCkw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F4f3635649ff140cd399fb28b3878c0d2%2F_________________1.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/4f3635649ff140cd399fb28b3878c0d2/_________________1.pdf?Expires=1785831271&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=OUF%2B2hJAbo7Fee920p%2B7tqCHD%2FtojjOgyG8FDWIN8U3msz6l%2BM7TtlKzfwQzRmKdTThOffov6QSM6S8uXMNSLqiPnCYmZyWpYee%2FCDsJZAWRdXaRgzDRVVzAAJDpHXz%2Fw4XsGH81OoAoAp6mVSIKyfZ0L3SdlzR2Wp%2BU8kRwKuxy5BNXKxGuPtDtQfmXqcEtj%2BGjPfogdXiZHNZUfhMbOPjRPHD0lk4G%2BxaZguidPT22pg7QUrj0uNX6dMFs4GPdQ96XYYHlzNt5uy9GBjv359F7XtIh0glN3mdLzmHzTqzZtwF6%2FFDDRtVaBU%2FGrCs0vOgEsFIul0U5BtLbVhq4ng%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F4f3635649ff140cd399fb28b3878c0d2%2F_________________1.pdf)
 
 #### コメント (106)
 - **Summyspyder** (10/07 04:12): 抜ける
@@ -3893,15 +3952,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/26 04:23
-- **Updated At:** 05/26 04:23
+- **作成日::** 05/26 04:23
+- **更新日::** 05/26 04:23
 
 ---
 
 ### 6. 投稿 6
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/be1e4a66375238e43bd00681dada910b/all__16_.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zdokkR3WavwrsF0xlLOxl3F8vhO6GzeUfYhUrZy4yuZcgKj%2BmSVXJ%2FsiskvtVH8eAlG3YZmxOyIVbPv%2BA1vjtJq3mTEblvJ40JuREwHa8xReXsgz76qc4KcRKqCIV5lSrUPjCz%2Fw1%2BO8ITHZ%2F9lQyMv4TlKBi6WZFG0znY7ZKyV2dGISJ0%2BgL%2FOG3jH2MAWHZ3ZWS2faYQ2Onjcuu7%2FTO0OW4qwqIwtoKsJxAyZZzUuwSF1CIwIpMjYmYkPc2ybi1DzqxgqrxJTS1zkOGVIigB4yoZXFAbxbOHxOO80JyOA9s36WTr%2FrXbtOh3S22n3Zv4xAsW7b2IovifO%2BeH%2FKzw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fbe1e4a66375238e43bd00681dada910b%2Fall__16_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/be1e4a66375238e43bd00681dada910b/all__16_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FawccDPtc1n9H0uvO6UT1Yv0Vq%2FhKnBhmcqibxRyaKxx6EsbZLvaJdLhXeFzCkrELTGJv9F6FmHsVPKtft%2FPjkqCbNuDAZ088U%2FUwXXCaA3B5igImvgHL1oELOyMoqMrheCemR6eMdMiqhfXO%2FzC2cn0JmIzMwis2%2FGuzt0Oq06g1XYIG3i2vEJn9imCJMZ3DUOFpl9q43suODvAKSfF4%2FquNxH0I%2Bx%2FulU9kn65fy1EBp6SuyNlASqKkk4f58ML5G5b1obenGBdm2Z7N6IdNhNdqRb%2FmcLq6y7W1np21HBRxrhF9xgwxT0brt8m1nXOcPNKQgM7mb%2FILWBqoluq3w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fbe1e4a66375238e43bd00681dada910b%2Fall__16_.pdf)
 
 #### コメント (2)
 - **Riur🐾** (05/31 23:23): 可愛いな、このこｗ
@@ -3912,15 +3971,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/22 01:22
-- **Updated At:** 05/22 01:22
+- **作成日::** 05/22 01:22
+- **更新日::** 05/22 01:22
 
 ---
 
 ### 7. 投稿 7
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/53656f70be2172d82358cbe84ab1d95c/all__7_.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nzvejR1TirplC8xA3t4De5hEb6atBw%2BCRNVLy8epRoyIzXMTK1PxrzRUzeXE3vhGkbSwmeSR4q4AfiRbCBnSEeqjBqu4pA2x43xERZtcEMRbh4ii1OR2KkCjp4cRAWTFLIBoOIwzLasxEIcGwK0WPlbRXCj70qgThcEBkBa0C7psZl28nqCF1N2Kx48Wu%2B3CSi4kVSl2%2FR7GV%2FHvT0iXGmJ0%2FQdqH8xCbbbmIcKREJbQU40yPOl42LK1Bwpa3rbL%2FnyGD3SeMlSwSucUzydCAV968sNHDrjdFoj%2FRoE39Kch6%2FgXAJp0pAP2YBYczmyoE1Wuk4vdi5rm0SZhkwOLOw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F53656f70be2172d82358cbe84ab1d95c%2Fall__7_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/53656f70be2172d82358cbe84ab1d95c/all__7_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bc30Tr7gMMpd6sQhcoAqShT0yHBmTzJ7rn8uehF%2FRe7W8BdBSuS%2Fd152MhLjB%2BKo3CkkB7EyHjLkcTzXI0JTRT3bTfQpbjnVwDYLcWGK0wi0gc65bKD8aPwVplws5h2oDwgZKDltIJgw%2FTJtTHszNWgm6CpUTmVCVouUwIeDCYUiPYnz%2B9%2BhbVGzgaj91iFmWGTEEBgSi%2Fjz2V9IRIL7yHTmBSAqtGSxG%2FLKihzKw4YMYT55qcfW%2Bph4LTC66f2Arf6BvEjvFSnu4S3Y5S7jF8tKboJr2mm9OPWAmr2xJAsNGcB2tgtZzn8P6bqkuES%2F8Yllv9Ni4D%2FbZrMIQ7bHmg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F53656f70be2172d82358cbe84ab1d95c%2Fall__7_.pdf)
 
 #### コメント (146)
 - **ニンフィアちゃん❕❕　腹黒堕天使にゃん❤** (10/17 18:54): r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅx҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̟͇̮̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊i̵̯̓͗̆͋̈̓̿͊̚a҈̤̠̮̣͇̠̳̥̲̤̃͊̐́r̷̰̳͓͖̃̄̓̅̆̏̀̋̑á̶͇͕̥̣̲̝̲̣̎̍͒̈́́͑̃͐̌͒s҉̤̜̫͉́̄̉̃̂̎̚o҉̜̥̜̤̰̤͔̥͈̪̬̓͑́̂̈̚u̴̲̲̝̦͓̘̥̅͗́̇̈́͗̆͒̍ͅw҉͇͖̗̙̬̭̫̿̆̇̉̋̐́͗w̷͔͕͕̬̜̘̱̤̠͇̋̔̋̇̊i҉͙̞̬͔̬̖̞̘͖̍͋̑̊̈̉̐̆̇͒̆ͅe҉͓̝̩͙̥͓̟̟̥̒̈̌́̎͋͂͑̐͊̚x҉̲̘̩̩͔̳̮͉͍̠̤͕͋́͂̋e҉̥̖̬̮͎͉͔͚̆̎͒̅̆̃̔͑͒͊
@@ -4075,15 +4134,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/22 01:22
-- **Updated At:** 05/22 01:22
+- **作成日::** 05/22 01:22
+- **更新日::** 05/22 01:22
 
 ---
 
 ### 8. 投稿 8
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/352032a04f3ea75e2b7cfdcec199e7d3/all__4__2.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=M8WzfYoAIKQ6%2FM%2BwXTcMvbmlkXtzpyt0zjnqfzYI7pJpBdW0I9Py5OCrKyxM3k6FHmC2TY3QeP%2BNDk%2Bo99w93LCj8qxHXETMv3wNYHVICcfyVx3ECnTZAHp5oAch8iGjHSCyjgGK4W2U7sS%2FQhynirnFMyC9NQ1a4VOIVEmLnLMTFtS6VVvg3EmFF6qTIcuJ9XRNyxIBLIz8%2B86nb%2BVInLQ0UNLNqznrs3K7QIFsEri8QHDSyD%2B1QcImoYM%2BH4m0oRyW1i2o%2FDCW0VG2BtD46i7P0ybFXNq3IYcTbHK5lry54JkaV3Qr6tcCwW82hk54WmtTBLHiErDT0%2F252ULrrw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F352032a04f3ea75e2b7cfdcec199e7d3%2Fall__4__2.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/352032a04f3ea75e2b7cfdcec199e7d3/all__4__2.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BOwIb7OUB%2Bp0sEW4zNdzXP3wMBAYnVMdV4WYFMilROghyhoAolesGClysJEZ3SRfDZYxQB8JpliD1ntFGtZ0h5jUHXA8h9jVhiCgUXHt0kptK%2F33%2BlsMixQ0oc8jzQEujJXIu8fYus15jvRobouIOPNoI4ihd2kpRaJw6SAUmHghdUlx1bJ%2BaA%2BLXS44Sz2Qn75YfdyUJq73bOairVK3cmRcfb3sMC7KFrQy%2FMm1LMxWl%2Fl1y2LNXRdJHpYbBvpc9%2F0hkg%2FkZgm9AR5Ebf9QsblYFJQ09rgz%2BHsZxWHoALEOgDN%2BbNRgJjplymBFlmwmD9Q7TVVJzWjMQOQEhp1c%2Bg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F352032a04f3ea75e2b7cfdcec199e7d3%2Fall__4__2.pdf)
 
 #### コメント (2)
 - **ソラツバキ** (05/10 22:07): ええええええええええええええええええええええええええええええええええええええええっっっっっっっっっっっろいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいいええええええええええええええええええええええええええええええええええええええええ
@@ -4094,30 +4153,30 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/22 01:22
-- **Updated At:** 05/22 01:22
+- **作成日::** 05/22 01:22
+- **更新日::** 05/22 01:22
 
 ---
 
 ### 9. 投稿 9
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/8e84685a31400bd6d53de81d16bf87f4/all__5_.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MG7RE4afKCXPz6F35kmJwsCCzRrx9FjYb%2FP1wpEmjahEu%2FdWpdpl7T6sLgv3PV8eOpkhnlz8flhGVidVXsfVoGVUEWexim1AG%2F1iYxTFJjb4vDqj%2Bd2GplXWPVkiM1odVIene5BfCK57dGjr%2Frro9ydDd%2BtkfZBWeYQtr0aUe8gl0xCC6pQxUnpQix%2F94FD095Mp6887llassLuKyrS6qzY0ur1lsbdaIbgNhINCjuhIAT6hVjPvFoAaPLz7nMdIDWQhE8qwoAwF3l%2B1%2B2AWYZa43LcyyogaBC9fZZdZd%2BxBinDqckXJTZHi9tJjMtLAAgHAp3ollzrh7cKi9QWHXw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F8e84685a31400bd6d53de81d16bf87f4%2Fall__5_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/8e84685a31400bd6d53de81d16bf87f4/all__5_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jdVL7ZQtGK80uQJdfE0M643HnWbFKOeFIup3%2BSd2fH8b9fDJ4dpY%2Fi%2BcR7m%2FoWy7riyNovz8awfUq8W2b6tNc1D1OieHX8AkAVhkTxJ96FjwKfGwsx4mdt7XPq3uVCmG%2BhRkA%2BozURBKJ%2FOkX1Wzly3%2FFHM5vQy4aYrm4IAoWOb2Un3dUX4HCMZu728cydaUoA3AIZaXHWtFCGAhKCKlR3Y%2Bf%2F2gYcWH9VeSlGoK35nz0JamDGxqEPLImIYhW4GhmfZCeWHavxdROxsKXLAI%2F0HCrK60AYgHU0qiSP8g7GCJkEG70wNKB1wWElfo0zPthpwQ9PayWUh7YIzqSXhIkw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F8e84685a31400bd6d53de81d16bf87f4%2Fall__5_.pdf)
 
 #### リアクション
 - **絵文字:** ❤️ (6)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/22 01:22
-- **Updated At:** 05/22 01:22
+- **作成日::** 05/22 01:22
+- **更新日::** 05/22 01:22
 
 ---
 
 ### 10. 投稿 10
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/95294b07f37a3cdc0a4935fc7b9c20ec/hvtrs8__cfn_dfd_soapt_ngt_22261033_203_cln_rdd.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RECsdtbinbUaxjWcPgWqmi%2F1rCuwaPr4si4jHTTbmBJwW%2FQ89Zo8ryzMs4UB1OMBfM4a73rk78fwDHEquENNlQzZmWIJ0Ttig%2BL%2BMf6n10nAsrOPs0lRz7DVnBIHevxcDte%2FCM%2B9J1aQBgzeQICRbd%2FlpXVYAqgmR3793dBmV0WJ54K4301Asa1xycs6b%2B%2FddHEdn6wsg6RWWgnr0IfCpp3OYxMaNg3okgQDImmJRTb3%2B%2F1hGcCP4Rupjn%2FxCVVYX35xxe1%2F%2FCoC1LLGwFOQKvBkby6lMnGJDWgKMM7QgLqHjuJFm%2BZ%2BvJAJ8uy%2BRY%2Fvjn%2FPWSUutwdSacAalPrQFQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F95294b07f37a3cdc0a4935fc7b9c20ec%2Fhvtrs8__cfn_dfd_soapt_ngt_22261033_203_cln_rdd.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/95294b07f37a3cdc0a4935fc7b9c20ec/hvtrs8__cfn_dfd_soapt_ngt_22261033_203_cln_rdd.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JFYse3pAzwFIpBW3QLdM%2BXs7JJ2Jo1W8zVgAd0z4b%2BlNXuGRO8zF6dM1pWfaxZOxJ%2FGfrwR8vULROX%2BsA13yiju3VR5d1U0UYjnK6mHjMdsKGL2QLXlXjyCLutfEWOAsxE0W9SS0PSHRJ%2B2%2Bc9WYlqqoejYUPmUpl4r4h3ZJ4BQF8Hnvwi%2BUBRVAnHNlmF9aUu03tyALcYTCNCKUrA4TkTAQI0wSkrFu8qY8oqZM2TgSQDy6iBYF85e%2FJwCNcIrwQ8PFAumNqL4dgLCX4YY0jawBkBA%2BVo4No8hspGYU28%2BZSKYc%2B3VfJv5Q1IEY89mqOw9NTbFWI47R7qAsuMYuAA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F95294b07f37a3cdc0a4935fc7b9c20ec%2Fhvtrs8__cfn_dfd_soapt_ngt_22261033_203_cln_rdd.pdf)
 
 #### コメント (5)
 - **受験諦めたただのカス** (06/04 06:13): あったらスプラください
@@ -4131,75 +4190,75 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/16 03:05
-- **Updated At:** 05/16 03:05
+- **作成日::** 05/16 03:05
+- **更新日::** 05/16 03:05
 
 ---
 
 ### 11. 投稿 11
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/5c687e0d7045ce477d5e281ba9cc3deb/all__7__2.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=taxyQG%2Bp9jnT%2FhI26%2Fk3bKnV2rbx3VVSmvz5fq6HeOi3%2FoLCIKt9Z43rFkpVv%2FPR7bjTx6WcEoe9qWi2MH0OLYYbzrVrTvVhi%2B79PnFE2TEKi4sYZfsBS3VWhHN2CL4ToNz7mZG%2FwY6TTxkIkdghq8Y81vKeciu9ZTd49KXQVLi2J1CSR5Qj%2F17FVv4HYjaByTcXvo1VlYKhwkUOxw7nAsmocsLNR4pcHvAzpDwSMR%2BVmdF73jnu6Kx%2BlarRNxse6gXhAjMAFUMbYHpgNCEPYNUnDcsnIu5mI1M190MnwQA3%2BKwJKcX07ZQpQcf7NjQ5%2Fkf8WB6h3HjYrqQZ%2FPweTA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F5c687e0d7045ce477d5e281ba9cc3deb%2Fall__7__2.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/5c687e0d7045ce477d5e281ba9cc3deb/all__7__2.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nmGC7vknyjg49jN0jRI6M8DjgfoDdhxumCGx9Q9E5jiLtOyPt4eJYDQ38XDhop9P4f8AspK6Tzf3aDFLa1h7t60W5GqKdubRbD7XuyDCpmP%2Fykht9BHcQNhS11RnCMgOdVyk28AoE4joMaFkSaVM5OEXbL6EhHHBAqkY2jYQacM6lVV51NY3ClBvzHBzU7JJ2kciKl0GJ%2BW2KuY%2B5H92d2lHg9vgkQ8XbL7ihRLXaRB8aELABCBiBggyA2txSTx7%2BUQ5uJxb3JvDZ5Il42NZa%2FpMl9ak647MO%2FUAf%2FET%2BE%2F9JKNg%2F%2Bc49ZK%2F6mHCiJ2go%2FNQP4va9XhmymQTY3wwOA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F5c687e0d7045ce477d5e281ba9cc3deb%2Fall__7__2.pdf)
 
 #### リアクション
 - **絵文字:** ❤️ (2)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:45
-- **Updated At:** 05/20 05:19
+- **作成日::** 03/07 05:45
+- **更新日::** 05/20 05:19
 
 ---
 
 ### 12. 投稿 12
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/19dd18a72e20aadddc34530501446368/4cf552f9c1f1372a95a557cd1f03810a90a9026b4f960a59a25ad44b6239b54a.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bwDW3ATnSEfLO6WGMgm%2BMDB6mbdJL0gmj%2BOMFZq949M2Yssbpfk5SaEriq%2FKMy48NYtZtte%2FObBMGiaWdsXed34rQTltQjzW27fmrI2GU%2BiSUJAHnotL2No9oZxi%2BCQzw3%2BP96OQ1PBBqOLUFpuMetRL34oXuzpsvu%2Fw%2BGJKGr3vSyhlYQIzJCLVUqaVWJF1LW3yCZQJyVrDR10a%2BBpx3cV788DBfGiBoVz9urXCshEwXpUdz3DZUnL63qgZ43RgCmgugZy1ell92Qyz%2FF5U81N0%2BKL5s0FGEIhKYbBjtSidbBQ%2BDlJMXn5u8BT5cJEsGpPV9prwA9zY7YTIV3iApg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F19dd18a72e20aadddc34530501446368%2F4cf552f9c1f1372a95a557cd1f03810a90a9026b4f960a59a25ad44b6239b54a.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/19dd18a72e20aadddc34530501446368/4cf552f9c1f1372a95a557cd1f03810a90a9026b4f960a59a25ad44b6239b54a.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lEuRskkNKsNohvjc0Tvo3Jhc1TByKkOzL47K7CuFVir2aP66bm%2Bm75LLhFqGLqqCCg3P5d26g%2Fymt75reWlLlOkBT67tIXwRAQORpqmw%2FKCqIAn%2BR14iWbwW09ikp0Nf%2B3wQeIHcsKEUn5rnwjlcU%2Fo5OIniw86480tiFVwBO2qSn%2F8Kfk8uHWKqKrEnsZ2qQArXUwhuHliT11y1jgL9CO%2BPQu64yL2LPCOQwDpR0z2GSvPwp4Td8wIACRQLqurREMhJCgzEwfWUsBwz42eD9V2WXOFimEaeKClQQn44yz6kOtNJnw3mM%2F4GDi9rViBrS8PlRddCrZKTBCeaNgqI0w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F19dd18a72e20aadddc34530501446368%2F4cf552f9c1f1372a95a557cd1f03810a90a9026b4f960a59a25ad44b6239b54a.pdf)
 
 #### リアクション
 - **絵文字:** ❤️ (2)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/16 03:04
-- **Updated At:** 05/16 03:04
+- **作成日::** 05/16 03:04
+- **更新日::** 05/16 03:04
 
 ---
 
 ### 13. 投稿 13
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/d75f9fd18ec4d40b9cb9464310cbdcfb/__________2025_03_09_9_08_09.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TvSBKI%2B4%2BpUYrmhRASJcGNrHg1ANA9qfPYN83AI%2FIsJlCw0%2BaLqU4Lonqknh%2FFcJf8rGrmRb5l%2ByfZbus5y%2FQounw4eIi8%2FQK%2FRzyrrcoBoj%2BB0QXsw%2FO3szdTvGJsGZU8F4ZGJIZ3%2FwKcmDUvLF01HbF0LnhLQjHwtKDuFwj714RX5O8S%2BxvYL%2BU0CfaR3zjjX3lOZykSFjVtkBkvwmr1gLJZqce0MEv02mBsmEVBGQNUYE13iFaeVMiObJSJr1DA78TDGKCJkDTdweinQku6FMg5m%2FESYOb6qE3CjGlwfERghYCYOYStblMIShv2x3Cdru6LOcGj0tkB45cQ7jBA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fd75f9fd18ec4d40b9cb9464310cbdcfb%2F__________2025_03_09_9_08_09.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/d75f9fd18ec4d40b9cb9464310cbdcfb/__________2025_03_09_9_08_09.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mOJeE37k4K7IpX79yRWpsalBjmcEAsGOZZMUHnky8eSXSFsQ85DAcJ%2Blpvbf9Jf8aK3F36xtmtXc%2FWLzdL8hi9vkVMokDMVKML47sC%2Bzz%2BaLTHU%2BGE%2FUVOTlVwGweS4xzwjxlA26NcYQKnnWPZZbI6sH21hUmpC%2BEWiJLvMA8a1WK4eDU2PVVDAljtGpfAcTAP6vYyQBflpyloBSwn97HF6ZQEdaOjAYS1wyywAKBe1dbIgaMUKCC97rAKH%2BaTUktQ9Iav38NkA%2B%2FBmqQhRbeSG8OQxkkPJlnJitq%2Bi0G7nMMMaJQeJw5YPg2Xp7S9XFGe%2BA%2FGj9sIza4DQPJoKs2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fd75f9fd18ec4d40b9cb9464310cbdcfb%2F__________2025_03_09_9_08_09.pdf)
 
 #### リアクション
 - **絵文字:** ❤️ (3)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/16 03:05
-- **Updated At:** 05/19 05:10
+- **作成日::** 05/16 03:05
+- **更新日::** 05/19 05:10
 
 ---
 
 ### 14. 投稿 14
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/da9bd229596b91fea315e4f32eadf366/all__6_.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Jy0lgmFaIoU3gD20F%2BMJyBjsUYOLGMMXKC5j0KjgxA7ZuTGvCf%2FYjAg5Fw5MbUXkhAGw8IH5Iz9KgnUQdapieG41Maki17IBDUwrypj5f%2BIKY8%2Ffuk0s8XXQjQrpt0TJRdsC%2Bfa1X86%2Bq9Hor6RHjq2xWup3u7XZmOlA3S5dZLDX2IwwNwdedRWbgc4lNqkI5AtlVuMsokHouM1H1Wjo08obJs1uoOXgLiYvi4J5vZp%2F3ikgOQI%2B%2FD8%2BHoGgBiFdPj7XIbPn6tYKRleRd8ellzWYYOhcfglAvsiTN7iWQaRU1wHiNCp8gDLExd6lzzH6Vc%2FwJjf7KhKpFF3l6209fQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fda9bd229596b91fea315e4f32eadf366%2Fall__6_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/da9bd229596b91fea315e4f32eadf366/all__6_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bXDhb5KhQRH8Vt3xDxdEqDq9zGr9fCeMElzlwNMFlYLuQMh7n9bpP0ZY7FtYLzxqCi0py2tCc4v7H%2FSQ0P4DVolumrGvanF%2FVb6lyzdJvNSrl9gV2JOAT6gwXVkSRi3IDG2ZPnXGkMoHcSry5wvDCVXMHvyUUwMwQY8bNanx2lYs5My3a8y7Q%2Blo1ER7geOfOHOLGPwVLf4H621BnW%2FF1Clr0uRWkBTlAznqZbsG33WXL70w1PkPRiNsir4kwwHvVlmKRSKIvUnlnnOcpPX5PQ2H3xOryxiPpDzto4V1PB6hIbGB67lAvvD7HN8%2FEi6%2BOfQ9bnXOJdmegZf%2F9HdkbQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fda9bd229596b91fea315e4f32eadf366%2Fall__6_.pdf)
 
 #### リアクション
 - **絵文字:** ❤️ (4)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/16 03:04
-- **Updated At:** 05/16 03:04
+- **作成日::** 05/16 03:04
+- **更新日::** 05/16 03:04
 
 ---
 
 ### 15. 投稿 15
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/9c15dba76cf881e0ec929a109293aa14/all__2_.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uDDmO7RBeD9PqP8vxl%2FXgAfpGng13AuVIXoOgXaMjzuzy9GVmxCdQaxWjYibLFfVjQFfY2vvvOslsnerZI82lLepE92UIL0g9lffQin8Hk7%2FkPBof%2BrCNEZsDPdYzDKP4DTWWTUwDKV2q4b3P7BN6ssZ6V7IB4uB4Sk93apDzjiTgvq0Fkp3Ye01vNyEqa7KXOwaH3gyFW8WoOUfyO6I11LMOINfeJ9mQ%2FtTx5b5jRLw7ZtYoLDUUQ94pmysaI0ydRwCF4OF3LajRer3Q4XWp8g9wfpXCYQ0kmOgPAoapUVtea7JfJm1GYgmjrP6ylGX%2FPdO4U3IwoosNi91qERSrg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F9c15dba76cf881e0ec929a109293aa14%2Fall__2_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/9c15dba76cf881e0ec929a109293aa14/all__2_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qV%2B7XO9BMDt0nkRxTOfAfNoSAwOw97491Tcix8KCVk5f%2BMxVvK9uAM94BUY4PWKC%2BexjrRVN1cSc0BZm2VjGCC9D78EMYuc3kNQvDFv8gYPDJd9rDah5lRHq5IAA5VYxUey7KEtp4X6hs9tADyZrF9zCMCZnF6SPwayncU0HbIcUeYvuFsE2g%2Bj5nDgx%2BwqOzcp1Xs3QTnXhFx%2BJqSiHsezo1TDndt6jlpXXJygz0a3OY75%2FQfkRkwTh1n4vjYs%2FkrWfboGiLO%2BR4yZo9k8DLSOMu%2FiDfSziSC%2Fgisr75H%2Ba7pkyk0Tw%2Fukb1UzpMsDzSAkDQPUrj0Kko%2FteLOFpQA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F9c15dba76cf881e0ec929a109293aa14%2Fall__2_.pdf)
 
 #### コメント (1)
 - **Riur🐾** (07/04 13:48): おかずです（女子）
@@ -4209,45 +4268,45 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/16 03:04
-- **Updated At:** 05/16 03:04
+- **作成日::** 05/16 03:04
+- **更新日::** 05/16 03:04
 
 ---
 
 ### 16. 投稿 16
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/43e8f4fb508cbc10d807f055f8206bb3/all_2_.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=z3zDv%2B%2BXpsyVXP7zfhtgy2%2BRUfrwPGNHC8ogiIDVF6KuWUzqnEjd4zJhQhib9UCwyDOChJcp4E0xAvIG5I49hLtFt0njbHWbRHg7wqyJ6Ul2YkczBnDWB6czKcZOshRd1yIoFkM9CCx54ymUqVxmcHJqwxcjIi%2BnewNbIN8pIaCzVYENOEmKZAWdt9hw8%2Fq5mqDWBIGWFvosXgwNVo1EUijg1eWnOd%2Ffn9iqxWzHTRVlK3s18PJDLP%2BFCAiCW6j9Hnl14mYA4WS6PL7e8sdm5K0HqvIBD87p7vgqKIGKqvfZBs2E2RSHyOhgbSVIxztBJPrH7qSkpVotkz9fBspkGw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F43e8f4fb508cbc10d807f055f8206bb3%2Fall_2_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/43e8f4fb508cbc10d807f055f8206bb3/all_2_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PCL7PSnhLPM%2FDyUTv9XCIfxzcNJieapTxiFA%2FRUDm1zEZoP8ds0yBU%2FqMi8JRATnZycRF8OFKk9yl6l3vbzpMlF3Mk9Pz6i36sttFhA5gL4aq5vvP5lzWYC62GWjdaCjec8hnCBTN%2BqRXS30WZDBUs9vdNyG7fhlh7BCIAGLGPCH2h2eIx3nnVhkwXuWAInnfSv4ICEeMMMRtTAbn5qHEj35XyLAxyEY9qgTeDgsgIgZY20gWTOXXLIAkUvgZJ%2FIAmLnBGTP0luJF%2F4CQ73gL%2FkCfhXNIfKy5OKNhti288Mi0%2Bzuz8UG0oUmj7EzcB2vOTEaWnqNULAtG1TbvEOoOg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F43e8f4fb508cbc10d807f055f8206bb3%2Fall_2_.pdf)
 
 #### リアクション
 - **絵文字:** ❤️ (2)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/16 03:02
-- **Updated At:** 05/16 03:02
+- **作成日::** 05/16 03:02
+- **更新日::** 05/16 03:02
 
 ---
 
 ### 17. 投稿 17
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/5006a87c0d66486ee5719f121f94d5ab/all_3_.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=A4Ca2h5RII%2FRzUpj4SNdDyPc3xjmufsOE56eKlklrtweu7xEW2ex67sStMonB0OqeLNs2SOSwR1GqMdRGFpDNnRfYjKhhE%2BJngURxtISd5ZXT9x6hFl4rmyyfY71b7L5Czr4hAtFLe2YuyVmLqsBTAMNO1t3JaGCXd40e78mx0e4pDK9dfJOc2eyQWBcimKoSvTNxi1Fj0vks6BmwvvhscXgiwYlKfc0RZNnyKDnxpsyLKplKWl3Avy98HRI0fdhH%2Bnz17Bs%2BZxwSAMWq0H0AYRlGculw7BZN0lxZde4HUIAveh1VeyQiwkPm2CvxoRr86l3D7EzUMHw1lL%2FlhoP0A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F5006a87c0d66486ee5719f121f94d5ab%2Fall_3_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/5006a87c0d66486ee5719f121f94d5ab/all_3_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hqIq05mXxU8NRPfosWLT%2Bi11jA4bi6%2FYsBa%2F%2FtYP27OUokGX3sX24vBoOV8WfVUBNJlXckECZ15LTZsVIln0cXSfLkASA2R3SWPSDebbPxApXpOYyvticVEeUc3JSU%2FhlQekZ%2Fwxnxxi1OP1HAzbbuNL5KWmRpFOdlnZmocLzcuqKl%2BrfduTshcByDIyXFdeXRFNNQ6Rr%2F430pqf1I2zbJeqVmTQBEPpvxrjTON4L74ymD8oFzgF2RKdgxWrPpN2DarSbsH4CyHiVgIOGVTSc%2F9qQSPbKNMsNqUIT3GhXtHmgRLH93ozd66dg8lcRiWODaCuJPnr9BjhppnpWRHJ0g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F5006a87c0d66486ee5719f121f94d5ab%2Fall_3_.pdf)
 
 #### リアクション
 - **絵文字:** ❤️ (2)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/16 03:01
-- **Updated At:** 05/16 03:01
+- **作成日::** 05/16 03:01
+- **更新日::** 05/16 03:01
 
 ---
 
 ### 18. 投稿 18
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/29f607db9dad210911112b9a1b7157b0/829bc2c263bb7cde5106f06bb3816910d573ed9cecdbdbf18242db71c6b2305e.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mHHAxnzwy8oVKCFxkmqPC%2FWt9ezmPUBjhiQilP2OgxTc90AH4rx%2FZhF8EltmdYoFRqKZ15hYR%2FRCeQBRzrnl1vgsGEsD0L3QkHugl4Zf5jNUqDwHQvApmJ%2BZgxnPlvUF1JVIAZBHypkX8JZfqJm0Yv44cL8dHrEFA05KnlXELCwDFCXH6Pqfy1qsBEdpH4l%2FF3v9UHYRnFAK%2FboC07JoQK5Tph7yytY%2FEVKZq4nPi2GLh3Ujl%2F8GOgIK2EWUxJkx4xzDXeVp9ZVxGk4rJ4jP%2F9lS0TFPjxB%2BtoZnLnKt%2FlMFjvPJSXkeJ8YhhU%2B83Kn7Qfmcf31RdMWg2yDR2B%2B41Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F29f607db9dad210911112b9a1b7157b0%2F829bc2c263bb7cde5106f06bb3816910d573ed9cecdbdbf18242db71c6b2305e.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/29f607db9dad210911112b9a1b7157b0/829bc2c263bb7cde5106f06bb3816910d573ed9cecdbdbf18242db71c6b2305e.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PCMtoQUqH1TVj6OTxwsPkh5bSlpnHhIf0XQ%2FrMr%2Fby6apkzyb0OMkhUcMzN%2Bc6CM%2BI9bOhhcgBMlv%2BFqoRqSZx1X8Bd7i6aSEFkdF1fTJqcT1mYbJ2pBrdasJu3puJ6v%2FcxrYCoZmxCwZ4m3ldj%2FZpuCvuk58oW3Q0ivO9LWy9rsjAVBGYHgEemSIqVoFBrbaLP32I416fUhQ%2B3LGLhHric7JokE2p%2Fd7BnJHuKHIMI32QXd6gWdMH0XtF9hLpNMNUgT8EPwmaOgC%2B56TZRTzM%2F3YSwxgKwaOxHLGwq1D0%2FZAVJPMwNtGcSyQnwsxONm0f7pKHQI3OKunShcHRkZHQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F29f607db9dad210911112b9a1b7157b0%2F829bc2c263bb7cde5106f06bb3816910d573ed9cecdbdbf18242db71c6b2305e.pdf)
 
 #### コメント (4)
 - **受験諦めたただのカス** (06/04 06:34): そういや片栗粉X壊れた
@@ -4260,60 +4319,60 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/15 03:21
-- **Updated At:** 05/15 03:24
+- **作成日::** 05/15 03:21
+- **更新日::** 05/15 03:24
 
 ---
 
 ### 19. 投稿 19
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/5a9cc3b8fd7093973ec4023b5dffc513/all__9_.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xC%2BjSI6Wj4faPBpYXtUkgMut%2FTWFfankIEbykTcGFYL%2BH3ctncTo%2B5SIUMVSHoMjNugK9RKcmbRk9ZuhVfMdztZYZPa3yYY6Gzjhpn%2F66crhDUwzARQRLiC6HxkKfshRe%2F7cGnKz6y%2Fmk0pMBbkepDw35vSKPo9Z%2B6C9CXYt6w7lkJKnn8Z6Q4VoQ2YTqOKzhjv0xLCIm2ufPEqRJoyBGndkiH40VjFL%2BTftgJa30DZlIBp0RXzI%2FQUw0p8PbTkiJ68tT%2Bg5s5qjQxBCvHgRD9nC5we8l4byXnnLb6KvPpR5wOS2nEtbZB2htMwViBS6xlYSkh13ByVbzTCpOlgKnw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F5a9cc3b8fd7093973ec4023b5dffc513%2Fall__9_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/5a9cc3b8fd7093973ec4023b5dffc513/all__9_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=w7bxazj%2FqYYNBapuOUt6CV0zUQ0VceWDsv81RJyQFD4zjEGqj6mDKpLdZd2l8tqQQWx79WNgUWUdFIF5ZzZCdaqp2ItAsBDvNA8ltoT1EoGyAcnQ%2BIQJc1IE9UEZWbnGrjTvbV0%2Fa31UIfgo6oiVwbfZheMqD4d0X4KlOwkBkrC%2BzZvCihqVlyt8RcNwbHjNL5UZJtmUYM6FldR7OvtmvyhM2sumkzNvqx%2BraQOSdT%2BG7rc2Niyu9fYbLI6YgoG1584N3fbpfJN8Fi4JzZTDjBNts5gQeKGX55jq3oQSmzt1pg76G%2Fgp01qDKIxaXGib7biW2grmqZhrT2Tnrsi3wA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F5a9cc3b8fd7093973ec4023b5dffc513%2Fall__9_.pdf)
 
 #### リアクション
 - **絵文字:** ❤️ (3)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/15 03:24
-- **Updated At:** 05/15 03:24
+- **作成日::** 05/15 03:24
+- **更新日::** 05/15 03:24
 
 ---
 
 ### 20. 投稿 20
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/1a57b582d4948bbc15aef710dde0f7aa/all__8_.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ZBlnmlP121iGBAizbP4EwtCbaa6bgOW0X3WDQPA%2FnPNF9WBpY1Bq%2FR%2FByqi9ssjKvFOtbyhu8mODNNerOEVDwWeT%2FjO%2FqExGXBnR7H%2BO5DTtrQ%2FM3Nv2AgQShgXlvk%2BDfQ1bNZU2HeIJv%2FpIxUTYX9yLkFR2cAKQ0Y%2Bvw1ekWqf9FfdthPQFsEiN7BbsNfoufdjdAo0RaP3KRmD46jgHT38Whopxa9QzCuSJD%2BQF981NXJax3Da7aQ0OMikzSiAMvwCYynSF%2FBaDjMQPFblzIbXbGCZ7wVfc%2FjBUQqM2FEw6z%2BAoAfhAac1pXLhSapFFFzoXvaFZSZfnLKmcA7%2BsZA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F1a57b582d4948bbc15aef710dde0f7aa%2Fall__8_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/1a57b582d4948bbc15aef710dde0f7aa/all__8_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ddWu4iLGIHi8e5MXhkOFx5lv6LnZZjx6NJSo5gbFNFhXiwEOKsND38OKnRNODFszIspm6Wz3fZ%2FQfZQh3eapPpaDEe%2BF%2BuUVhsRtKINptfLS49ec5mtsxiVbrJLLEUIcouBBghJNHriOo7s49iRYCrBbv1xhKhABc4Fti92LFSOFYmEfmiG4%2FzK5Mrs64YXxex4EO0bKlCKv6CYDYvsqpw%2F1WsUeFKostZ3jIgMRJSRt0TqjYcjF7SESasFDV1PKMgW1CmwiAWtX%2FHeiZuC8s2BmQArxi5ooTLQIiEKOgNRLPcrJk9yD95TQdG5ZhxN%2BCz3fAfL%2BMzwfjXDWzd%2F3AA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F1a57b582d4948bbc15aef710dde0f7aa%2Fall__8_.pdf)
 
 #### リアクション
-- **絵文字:** ❤️ (5)
+- **絵文字:** ❤️ (6)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/15 03:23
-- **Updated At:** 05/15 03:23
+- **作成日::** 05/15 03:23
+- **更新日::** 05/15 03:23
 
 ---
 
 ### 21. 投稿 21
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/7513b45195f311ca334a3b9c2971bbbf/all__4_.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hS2c1BpjXduoDWhubXNCGPQjX3rVo3pwnKg4ZR%2Byiy0TFnQfmWJwaWrO%2FJy%2BKVHxUXYk0yhfHlvef4IMO%2BeUFPjRqpZUyVu0RvI6j8EdSy9J3Lt1V0lZd%2BRsFVOnaHF0wSylk4pFvYUplY1PVQ2ogEbqA7UXaHac0BfhHmBAK59qXqnFcwZpONmWefgiR4rDnqPZjc94%2BMYnyeU6%2BYJf4lgJ6sRBsyGe9DQMz7hUWgtSOxqFrARwnkp6JNkUEEtbFB3z%2FI73%2B3TXFcJSUTxMJdtWK82gcNYlHAVTCXhNqa%2F0efFUbCapEspljEnQAbe6glh1mBfBvzxzPmbOQFD%2FTg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F7513b45195f311ca334a3b9c2971bbbf%2Fall__4_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/7513b45195f311ca334a3b9c2971bbbf/all__4_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FKuEqcXwAr54JpUKdGohgek0kSQqWmjcg%2BauW%2Ff8eSag23s%2Fz0tAdyVZc0OBjesjYomSfNaUts3kbBQ2d83%2Ff1xkbL2TArKL9XchmyJ5joBqwTcr1TA4Y3pyTCb3QJvqFN6D8XIN7dwtNL%2BKUQyVF2HIf%2FtDuwHg%2F2sIEDltFMaO9V8gvCZqvgH7o8DiKq%2BSyiGAkb3nTvGLhtiQgJlhN5jjmbglkioZnZjAmh4Y5DnaYytqDkmKVSRRL9PyiwDg7X7I4YQgYHpHD1dVHQYRi6A4%2Fmqo2pS1lvs1QJ4rCbtb2D7uSqG8hCqfgr1XlICg2G99Zx9avQvP5tucyKZqQQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F7513b45195f311ca334a3b9c2971bbbf%2Fall__4_.pdf)
 
 #### リアクション
 - **絵文字:** ❤️ (3)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/15 03:22
-- **Updated At:** 05/15 03:22
+- **作成日::** 05/15 03:22
+- **更新日::** 05/15 03:22
 
 ---
 
 ### 22. 投稿 22
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/26278ae6f08c1f4ff4de32c7e976e8fb/all_4_.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=IKM5IG34%2B%2BJPvNaMW5PIPvNcOAaNBo4Ppv%2F93PAp2YYEIALLaAyc3NSRtdiu8zAySQp8XdBa4zcCyzlYlwV%2BeZ86oBYK4DYbiGywfZCKAN4tGeyAQFwtmjoUBXHCa1jGN0LRQOQU5yfgP%2BWx4vKotMci6rw%2FngfhKFuFxaNOfUgfJzVIWI6LG6yqhF9fPCswIva9ejssZptsxeDewGk4BMigJCrW3KlB3REUhC9dcpqOk8U%2FTLDaW7vRAoWP5WNLDqVHoqt0S4Sorlg3F420EO5owrKZVMfZ0EOodfM7zAqq%2BrX1gsy8mzMncgssLBT%2BqAaQkZfNdIjryWBH15MDDA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F26278ae6f08c1f4ff4de32c7e976e8fb%2Fall_4_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/26278ae6f08c1f4ff4de32c7e976e8fb/all_4_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rkmv5O%2FnPWpxXaB7UWLP1UM6BozJ%2Bd%2FfO4su%2FyxhsUzFg6gRai39vg9nHq%2FGwEJf2Ez%2Fg2qwryhsY17dQo5l0QgcXCF3ynMDNzHV7gGePbyZrOZi0oG4%2Bl5W3cDQveyl2VTGqTUr8b%2FmZacTo%2FLClTyKVt7hZkEZ3jpajLKj9H14BCvVFeZDer8eXACO2HiCIicksTVHJ5asWST37Xca%2FAlFpTFzOy9fn%2BGw7gIxJsFiJdU5r%2FSZPG2meyfsbToxR9QwDqRT43cSmQVMCZQnYCc1GlmCkYWYszXvia5FMSwYBj%2Bw5hMdSXeXvcgn45J0Ss8FF5sOkV74CoR7jdojuQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F26278ae6f08c1f4ff4de32c7e976e8fb%2Fall_4_.pdf)
 
 #### コメント (1)
 - **Riur🐾** (06/27 10:22): らぶっす
@@ -4323,15 +4382,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/09 05:02
-- **Updated At:** 05/09 05:02
+- **作成日::** 05/09 05:02
+- **更新日::** 05/09 05:02
 
 ---
 
 ### 23. 投稿 23
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/755b83ff8c4f943c751edac9b6d42ddf/__________2.zip?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=aK1CylWqgrachoCMrC1e2r%2FggfmWyGcgpqe5TkVm8H53g4obupG9TESS5JZE38Rlnaw%2FC6BjRliFFJUjJPxWwYVo62pE2uCa0jzd%2BJGqYwmU6%2BsbCCoP95%2BzwvOTmMDZEc2mA1jCpxMfIXMg5HXfH66NS80gEdYPBMwXzAbA3huvtRkHmXX%2BfVSoJtCKueqbFJiExXNEXqsliEQMCZrLM7hmMFhYr80hCurT9rFH%2BAUybhzG%2B69ZoQCUpDVATSlArQR%2BxgoCeBAzM%2B9FYfC7%2FIOGsGTEeBnCB7SL0vIlNF%2BkbXfGHLa2huYkRb3AVeLmCeeUcSL0sVkVAUTVb%2FavRQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F755b83ff8c4f943c751edac9b6d42ddf%2F__________2.zip)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/755b83ff8c4f943c751edac9b6d42ddf/__________2.zip?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=s3tSm71%2BNDOZ0pt33UtTI4M49ppvLijcPT%2Fw%2ByzJOG9rHyIS6N7r3qKpsOpp6egxEPDkSRs6G75ZFNN5oSWRGqL8Oqgxlr1997gdJEbnevBSCWEhfB%2FZjaeaMhWWZZgFbQVoA3Z3dUTe9Dd8QlG3ReYvOxa%2BWTk82LZ58A5RYJG1xTPbZAmTzgDH8e2wuef891mOAFt0ouJqpKW6g2xM8M1B9tDrMLTI0gOzNeOy4dNd0eFVtw7RbHGW7nfBJZiNlhDayXdp0mDbwLHVqbbqpBleaqLBfrhsHQmwklrkAmbNqiHny%2F0na4zI01ywMWYYwi1ha0v8aH9oNmjx2FcWxw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F755b83ff8c4f943c751edac9b6d42ddf%2F__________2.zip)
 
 #### コメント (4)
 - **受験諦めたただのカス** (06/04 06:33): zipじゃなくてpdfにしてほしいな
@@ -4341,51 +4400,51 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/07 23:15
-- **Updated At:** 05/19 00:58
+- **作成日::** 05/07 23:15
+- **更新日::** 05/19 00:58
 
 ---
 
 ### 24. 投稿 24
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/d131ba19792411fc87c2368704eca8b8/_____.zip?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7YUT7r3%2BT4dqrNbQMFpJxIJicgpeSba%2ByJHzDXlZJ27%2BGsgaarnx6Hd%2Bl0prA4uvlz9b8cmT7r5omPs52SdKNl7E1Z5uLAuIZrMxJstkeEJBLOCi8LXCPuMXrx%2Fy7SVXwGfcfymMmGBRqyzZ9fUDwtvsYhX2Gl2pl%2B7jh7qonhh7z6lrtigcTwHHicDPyv8Scj119oMIj3MbStNspuN7%2BE%2FrXEqiyX9L0VrMjxgaKrakoYD9EkVa3iE5pSPL2u5kBzduYPgyfCytR3Smq2lUCKZABQQbDveWbIYw44u37kAAAxEgPMRNGo89sA9J2l6DxmanJ1LzoEFwoBje2A%2FXzw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fd131ba19792411fc87c2368704eca8b8%2F_____.zip)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/d131ba19792411fc87c2368704eca8b8/_____.zip?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4E0bfLlHnpfrWLYQJBIJrK6ksXFBjDWymt1RUEP78LM0IwqdA%2B%2FCQ%2BC2b6x9dLOrALVv%2FwE%2BmYmScJM5j3s%2FMnK7DUW7J3T8I%2BONPe2Dvvma45GEVc49utB3qnsojNwDEPkW0SIXngK5xsBo52WWjXMnHioRNepAQQ05V8z7HqOvM6WjiIOdBvdJ4wng9hdk7q03KSU9w%2B%2BknnaGLxEssuhxHUKLn4uk6vuNhjMqEjk%2FopPDFNj1jgHdNZKtRJYDDk7j0q7DAUsrFtLabiETJj9ehVXXX%2BClvm3es8N3nt6BL8UlRg1Z2AkQ%2BF2QvGAZkd%2Fkw66b28ZLe7%2B5fBCXJg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fd131ba19792411fc87c2368704eca8b8%2F_____.zip)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/07 04:23
-- **Updated At:** 05/07 04:23
+- **作成日::** 05/07 04:23
+- **更新日::** 05/07 04:23
 
 ---
 
 ### 25. 投稿 25
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/869e0f9c54fcf0ef600935519600ca5e/_____.zip?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JOMyGokBA2Vh2hxtJwiyANYJhmbMNCPcjPXp1Qe6nuhaUOavAUo7hZdomB%2FgEEz1ypaT%2FDCOYT0qrYvrZtCSX71oQdBS8tyoCTK8pIcrCC8po9mDjiiZ17z4YQyE1nu5AjLcy8GwEkiKaxbUr69gpO%2Fy8VJJkBgofDu44YEuiYgVjRME7jzUZsDN140y4PHZ5uIgh3iBcsMniuQGCqSY%2BGLwSafQdhvgrdl3bvAY0oRyyRBPkclFAWXOZetKYEbsSfrSs2aXDtmBh0L4yd0ENE%2BI1ZcBLeU5TAPOJ6OJecusnKa8ZIwW8mi7EtlgrrN28iLDVxnzAyeazgvuJF7x1w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F869e0f9c54fcf0ef600935519600ca5e%2F_____.zip)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/869e0f9c54fcf0ef600935519600ca5e/_____.zip?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PwE5QKvnfUweF0w5RjDkEmSTgHMGkRUqo7mhhycgsLjszEYl%2BUTuME9GOxfVaNw5fkpjwpDZpXhRolEuVpTVhSrZMTo2cnN7JpUo%2Fmi%2BmEUzc7o9S5oh3eO3OML8NT32Spk8cGspCILVY1olC4Hndan%2BzgI1fh3RK8TC%2BYgJmNu5gXNgDbF4YFAgaBxcXqNBmkMVVVKX7yNsDMcQvk3qquvWVFdJUGJbjlZ9VYlROrLZIhTNplGI4RWYR28pxWFV06KxZw3TtXtaPQvgp07ymrK0E%2FDPkn%2BIVnJa57sEwLdQQmHbJ%2FVUo8Ea9kDimmEAHkvUnWSFMobKHSXtKccWIQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F869e0f9c54fcf0ef600935519600ca5e%2F_____.zip)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/07 04:22
-- **Updated At:** 05/07 04:22
+- **作成日::** 05/07 04:22
+- **更新日::** 05/07 04:22
 
 ---
 
 ### 26. 投稿 26
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/cee64a34237e1f4c42a9e318311473c5/___.zip?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=CcoUQoIpn12XfLUSaqAHuEfn4O07HLjiP6N4%2BUp7yPlsK1I%2BSRPU%2BFh2n6dOcqA807ujkgvYcwR2rp6FdvuDFzKcq93g482BEk16ZWtXlTCJHF%2BDPG6%2BMhD7DnC%2Fq6gylcoIT1T9Erj%2BNa0E8UMXx2K7nC4%2B%2BgMg%2BU37F1zQKotasreiPDNdU7xvaotEj3M1FVDd7UhMbUwqfK%2Bony6gNBzcPG33TAF89OoTLTqXWkDBoaa3hdHscYTiAynp2BJNEJRF%2B36NtGRCXGVJaKepDe10zWDB8svGP58wQjuOrtfeBgj2XQUoKPYrpSTjvxrSU1PcL3xkvxpz7YPNVH9KqQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fcee64a34237e1f4c42a9e318311473c5%2F___.zip)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/cee64a34237e1f4c42a9e318311473c5/___.zip?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KB2NxJCZNune1XBtDn%2B6IadiCXzqSnIpCZPEak55ICVZmMU8xBH63YD3VmLHoJdj1sf3nY0k%2B%2BoF98WVVjrcLs5uVUtvWWo1tkxBjLNjyQ8C7gmM7k0WXI%2BbcmTwQbRfMupVpbndp1hvDe5rT7CTMN0DssYRFl%2FYiaX%2B7pCRyO9ii1a4LbRnHerLU3R5F%2BnujNnookhH%2B%2BxDy9s9cNlyMZQZ3FYNNQD0xrvP4HbcoGnRc%2FNvHnFWBVOC8bnDMst%2B5QmU5Hz2nTZvlEV4OHGbpvLJiil5d5cK0i0jZJ68Ri4D98huo5VdFAgHXKTidPlJiZVJsHPI%2BusCtpZGFJlqNg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fcee64a34237e1f4c42a9e318311473c5%2F___.zip)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/07 04:20
-- **Updated At:** 05/07 04:20
+- **作成日::** 05/07 04:20
+- **更新日::** 05/07 04:20
 
 ---
 
 ### 27. 投稿 27
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/43809895ef5150e370e3def8afc790ea/____________.zip?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Wxoun3%2BlIF9gRVarDc8K368Ag9ViLKCxUbs%2BknoK4NwPLb8DHKiswSAIo4az%2B%2FXHeHzN%2BUjMeKcl5UbxgBMADqa1rpsnKQvOAxZO0cGBUPLoT2i8F%2FOTIs0WK973lNj48cM4MfYkGtP057ImJ6GIaP3nO2z0uhfTypR4U5V4sFNChIgrqUSFWnqRZPsCp7pxWwunEQvATDwgHU%2FhrJSRP9p3%2BmfQCoXrwBrkpTSAk4R6Gl1sBSTJOp0Td4tPr2DCE2KquBj26ruTH9g6%2FHpiyA%2Fv2QrzOLZ74tvB07D27W%2BCZdMII7QU%2FkLosk1p78IPex4Mqn6VzCDGWhYzx%2BcmCQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F43809895ef5150e370e3def8afc790ea%2F____________.zip)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/43809895ef5150e370e3def8afc790ea/____________.zip?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=OdWAd2qZjkR6%2Fmppv6JUEb3M6Ak9V2PFR0zU%2BLw%2BWk70Shb2xs86%2BcOOymHeKFhur3qULFJzRhoEYsr6o%2FGgrL6I3U5NX9au0bL%2BiHpGC6Xt1XAVt9yBHGmHZA2ZVOc7gS4Sb4JuBDGkOqN%2BHAqyJW0D5FtFigYZ4e6Rm7YjDtZJYy0xQ%2F8SHxjFeQsrvGrorjrRcsTHajQaz9lEZP4p%2F6bxZj03iPDeOWIDCHfMdZPCg9Ghf1D6P8FsILzvk3Xk%2FjAESohsIFnzOEGKBSxsrZ%2B0VSfrNjbxmSOYr67Q%2BzQdphLY9rTSp%2FYcczqSY66omzWqJ%2FRDsONYjEVkxPq86g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F43809895ef5150e370e3def8afc790ea%2F____________.zip)
 
 #### コメント (5)
 - **Unusual Armadillo** (04/27 00:37): ヒロアカも欲しいな
@@ -4396,45 +4455,45 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 04/10 01:38
-- **Updated At:** 05/19 01:26
+- **作成日::** 04/10 01:38
+- **更新日::** 05/19 01:26
 
 ---
 
 ### 28. 投稿 28
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/34a889fa6553a5b2e067fe7b5fba5b51/all__63_.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uWwyj6z3J8M8TxnYvICPcDCkbAQI3YDTzXj7gV1iMpz3YryUk28y8VHkQOSbpHf5pRb%2FCerHCOckT7140oS7D2Jp0FDl0KXX66h6bj6ePLcHcpftzvSlPJVqCKFZFUaeRnfAlpYi3kc0c14lquZQUvOFQn9Cko7OpohTUz7DDWnIh%2FXE6%2BIE2IgHbav2cWpTsQENXBPLX6lgduVDpSiiV1FH3oiIxVmxqGNLhQ4s6aOGidFy8%2BU2qUUbWzYyIph1SzwzWdaLM4Sgn2UI6ce%2FFP73o1YXpE%2B5%2B4exQ5PLXR5c4YWNUOYrJOY2BQlQNmPhrfEQF61Tlp5flUiQBtstDw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F34a889fa6553a5b2e067fe7b5fba5b51%2Fall__63_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/34a889fa6553a5b2e067fe7b5fba5b51/all__63_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mAIwFIT4WqllqMc5dVGYONb5FiRqOv1VDBWT0flS4pbdUqpXZwCjpazf0L8UEFxMc3pk8CH12x3mnQ0gZSUikikGAqxBTJmdqkPguJ4X8eiFAgGIgqR%2BSooI2VyjKYa%2BBOg6kkgQ5AxvIbgLQfm%2BtjiomMoV2cAhH9Z41Fv%2F%2F%2BFe9JDsmmfzop4Rdryn061Ewp74M%2B7q9zQQQTV7X6etRoHsVu6xqpxXuXal91XzOllUZRp2C2vjbPkxHb9gqxkUCsGeIQ4q%2Fj3ycGwZujZkWCkAWtxlvfCVQOWhS8wPyeUanLWHgRwI5sboWoW6VQ9TVU4uCS7T7ScJT059Hm7D2w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F34a889fa6553a5b2e067fe7b5fba5b51%2Fall__63_.pdf)
 
 #### リアクション
 - **絵文字:** ❤️ (3)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:48
-- **Updated At:** 04/10 01:35
+- **作成日::** 03/07 05:48
+- **更新日::** 04/10 01:35
 
 ---
 
 ### 29. 投稿 29
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/15f82293e778d07bed4620e39d1831e4/Screenshot_2025_01_20_16_30_57____________.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=36RpVrgvPXOgD4Akvq3z4dXBFgIwXFqUX1vkqM2ob09WFBNnXegyw7F80Rk7GyQf%2BXhs53eoL1YM0Ue2dWxvzTj%2F0HCGd7I4axSQQTKOF36Ficv4ryGmrCWQkvYnUPRH5LUbh5hH%2BWBfk4Hjb8ENQV11L9rNNcAnclIqp2g19pUtwkQhMSkvW9RCocwxP5FFlt3zJ%2Bkt1Y1ChjIyrzDGkPL6T5mxxfYSabCwKz9b1mWDcN5ROij1grNG3ljXKAiQZfK1i93ZCo5CCGlSWUurUTGDVtOUYaj%2Bkf0IKXzV48lylxPFUXDn2Nauf5vZfILwvPDU%2B%2BvnmLlzjtR%2BhuBgCQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F15f82293e778d07bed4620e39d1831e4%2FScreenshot_2025_01_20_16_30_57____________.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/15f82293e778d07bed4620e39d1831e4/Screenshot_2025_01_20_16_30_57____________.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NyoviMsB5vNDpgyZ4OWE0SqINNYcxikZN5FU42R0y%2FNFK3B2NHEAL7hTy2%2BXPG4Uex4SVwbvWXsPo4My0QIVgCVFK24%2FOl%2F4SaZUFVw%2B9iNDSlDw1A9GnggRJ3Cx%2Fzz83LTWP%2Fk1Ojt8yvrDbEQLo%2Fm3ObTlxjc9V65Uc6ow%2FpmN4R1373wwgeYgSNll42DpcrFBoOJTobpK6KQVEJiKMSEV7jRkqhXNWIvPk%2B4YMeN1fX51DJa5kE4Doe2ILcS2MqT6ZE4MZOu%2Bz7JdTMO4NFKFc2HN0WBHjXPY7aZeGF6dbcQiQmaZIvxBkG4V1ucY%2FlPbIhziCh4%2BHxKlKCgg%2FA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F15f82293e778d07bed4620e39d1831e4%2FScreenshot_2025_01_20_16_30_57____________.pdf)
 
 #### リアクション
 - **絵文字:** ❤️ (2)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:52
-- **Updated At:** 03/11 00:51
+- **作成日::** 03/07 05:52
+- **更新日::** 03/11 00:51
 
 ---
 
 ### 30. 投稿 30
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/8258791163d7071ac3f84e014e466bbc/all__65_.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0oGt9WkfH1QsVW7hU1m5tzCo%2BP0XehrtAUG6c%2FvMvzr%2BlFKhW9%2BlPOIrkX6EB2U%2FGyXM6x1ygigqLtak8y27R13W1EnX82Xmi4832KzWVXdD6p6rEulj03sUD0YSuKk5gLmRNH%2FfokgMGJ9gXU8M9OGhiIsn7%2F%2FhdQ7rLJKveKwRJiuxyt7Mk7VBGOH82lkpdVvUFSz7MAdFf4ygxtEmzOla3TM6NZczRIVGnWHXRg34Ba1REx%2BJYrO3yr7gEgKbu4dyW3ebdfSMc5GK%2F27ai7MuhxTE3pzZlBf5e8oDMxTNO9H1exS9kZAGe67uDr1ZRR6boo5yMBqx0kzG75k3pQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F8258791163d7071ac3f84e014e466bbc%2Fall__65_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/8258791163d7071ac3f84e014e466bbc/all__65_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=AHCk6%2BeNANVXlMXVUXsFR4VrAfmmf4TiaXG3%2FJscEDCPfbz5RGcPJcpUHgtg76xgoz843xbP0kphvSEOKQZh8j8qeaNv%2BQ4zlBYsfz6UaqnX%2B5S%2F8Pm%2BR%2BVNBBya%2F0E9CUDc1r7hDbfU2UdQ66rwDNCBmyDOoWS3KNM9floTv6XM0wL4soec3OLuyXWxXb%2FVK290l%2FGv%2BQBesZaXW45AuEfvrDvk07dafIbpAqAbLK0XuE6r%2ByAHpvAh6Ud3oW8YhNg%2FFwDOIDEFfUjcx1%2BdK92dI%2Flo%2BiJh2%2F9hqekCWdgE0202xIefMtTtQtkF7Ueujgrgz4SgxQCxPTpdm%2FXj1g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F8258791163d7071ac3f84e014e466bbc%2Fall__65_.pdf)
 
 #### コメント (1)
 - **削除済みユーザー** (03/09 10:48): 🦆ってエロいの好きなんや…
@@ -4444,123 +4503,123 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:52
-- **Updated At:** 04/09 02:46
+- **作成日::** 03/07 05:52
+- **更新日::** 04/09 02:46
 
 ---
 
 ### 31. 投稿 31
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/e610f8ed2c1e24b1d48fcfa6eb367e71/all__64_.pdf?Expires=1785546252&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=X3eklcDt0RUkjZ9CY3dy9FfPpCX7EamGoKbAZL1SOUGzcmWVkuhS8X7QL8ap%2FRLF97bjkZfbpFInW%2FRc4vTnk1%2Bw%2Fo78eOkr0wUVcS%2F20GXtmpM1TZbxcL7W3pA%2Fzk8nh%2BFpRPd6nIcsQDNftG8kR8sZrp2B2HSLJo99tggKNok7YTVRsTWL2ljtDID0vH18mxfMi%2FDSrATeNO%2BrvXVMP3xKn%2FYs532ksszEq4ldBKiZDVMy7ApHNjhGADgxkaAq1XiilO1%2FHtG61kbwvU%2FQ1GAAJwhLg1Yl7qiIhmGK%2FytDWL47WplfEI5aIFup%2Bqv0PFTh8iaMUPwW0%2FVe5Qw44w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fe610f8ed2c1e24b1d48fcfa6eb367e71%2Fall__64_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/e610f8ed2c1e24b1d48fcfa6eb367e71/all__64_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TeD1fiDoP5QMbEjhbBLysxn6xdZ%2Fn8VEEYBt0L8Oy15k3dpCbV11dIzBtMJbNZVf3tuxH2ymZ7ePvXnpw4ZskzWWp5eDyRRf31DP0Ykq%2F83tX1k8e3N4FAi6Ir2o2IuQlsB3q6bvtYglFDrnDse4hjcuOb5Ia2%2BgIUkRORBOhPJadvH%2BinwZRUkj6hZg2DR%2BmedvzVsMRKsc7m8%2FxbszbA%2FUdRW4gKFJAaBZitYIc%2Fzx7L8g8NrgeB2WYwkhAbL%2FT8wZ3zzhhTC%2FmJWbOt5GDrV%2FTBaoY%2BHjhrjKRTkCyuNS2TkitSkYHFooP7p9BJGAWdATelEECb0bbIJ62z6Urg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fe610f8ed2c1e24b1d48fcfa6eb367e71%2Fall__64_.pdf)
 
 #### リアクション
 - **絵文字:** ❤️ (4)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:51
-- **Updated At:** 03/07 05:51
+- **作成日::** 03/07 05:51
+- **更新日::** 03/07 05:51
 
 ---
 
 ### 32. 投稿 32
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/3b23433190e499596aa867bfba58d3d8/all_3.pdf?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Kv6gBgUsCy9ZXt0VGa6DcmcvtvcxyZKloOGt8OlCaIXlRw8XSg7opt9YsW64a0%2B9YqgWjuV3JlMy%2BZQ1tKjjwsu3SuDPFFGX08AieBfY%2FTnbCRz8hZ59ud0WJayZA1sqqDUGdck%2FNEMw4%2Bfy63fHpDEBbqmqu19obTxfS3rve55%2FhMAbbbAOBM3wI8FdKx6T4yxjt3wVszATDQHOqUyvwfY3zSG7G03p0q9lsMemSCfovW5nfvdhrgWDDEglnzyvmWLwug0C4fGg%2B%2BICUFi8KZ%2Frh2GgibX9U01A1CmhwFHWX2QwcF0YmqJ6%2F85tyH2W7VopdxtBYZqFTMPbRGKerg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F3b23433190e499596aa867bfba58d3d8%2Fall_3.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/3b23433190e499596aa867bfba58d3d8/all_3.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=M8klAF41%2Fw7G%2FA5ArKe2ZKZw3KJQNBK%2FIE9Yxnj76YZwxtiBx22fduHg7lzGA%2BbOhpHj%2BVJCs9OgzeeIhfVxFZ%2FVzCx1ACa5KwzG%2FR%2FrLKQXLqIYMPZdRLfEubrMwVLmO4WhE33bjjHc5eIxqX8bLo6zeNqDILY49dPZ8%2BHZ9a5AvefD7JnLW3CD2bAOnXaOUptbabK7bSVA1BKkFtWTEQPj3VMYfZpEq2SVZqlTJ%2FbHmlHf0mnb%2BPO1e6azcOyaL0X4%2BA9cuytaoCs42Uh%2FNHoL2rZxONTAOpY7auvyKbN%2F82IB%2Bu377XQV6O%2Bl6PUVsVoDl1rK6l9az2dlp9oRGA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F3b23433190e499596aa867bfba58d3d8%2Fall_3.pdf)
 
 #### リアクション
 - **絵文字:** ❤️ (4)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:47
-- **Updated At:** 03/07 05:47
+- **作成日::** 03/07 05:47
+- **更新日::** 03/07 05:47
 
 ---
 
 ### 33. 投稿 33
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/6e3220aeb8fa1cc99ae07447ef883a85/all.pdf?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WqI2w1s24ySzN1KjptMF299GenUQOtCpmOZoHAZ7zfJmWDVyo7IG6sBmn3Xh9Bc4VVplt8B6nSrGvg0b47QgisRxuPa8WLHVbRGFjY9jf1O5xkT0gwrzBWRu8cGjVvUOGkrFdn696hX2yp%2FTsZ3K%2B66dxI%2BpmrXAtidLr5raX%2F42tJmJN9kf2osmFdboNRc13D87N24ZCtpzH2zVnQYDuAcYEeNXOs%2B43m%2FN%2BXwvhMvnLnlt9yv9tG9tDMAHnMIvCsdXiEI4%2F6lBR0OXOeZaqqGoRslDKiBM1wI0fY4pOPTzw%2BPIhn%2FSktMb54%2FUlc65sEq2EkBvuvRbDdjtax%2BVLw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F6e3220aeb8fa1cc99ae07447ef883a85%2Fall.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/6e3220aeb8fa1cc99ae07447ef883a85/all.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UGixidczPNMJbinUkvXNImX%2Bza6cyAHGo4Gx3FZRE2fzdS6SUNIuauBUqHntFAZSJdsbP3oulPLTgvp%2FJ7AOPT0EhgRuQDFnujseFXsToubZYwzG9JHFcizuRlRZy0ek9G1CaNZW08dNK8qrFO2UOUEgnL3a0vhAGVzE9MjXWktfPcQ02E2ezFvJTE9hzgoh%2Bo0aOzK2fS%2FD9H%2BmBtwQ97VQs1j3KTzZz2nvZ41MfiWeFPecSWaoMCQfUjUVHTGzGWu0xs8z8Vr0hmmPKKeen4Uf8MMDtwkvqHySNPWXVFEKiaQj5t%2FyIxfH76f7y9dlc1Sb7wI%2BljyRNchn%2FOoVfg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F6e3220aeb8fa1cc99ae07447ef883a85%2Fall.pdf)
 
 #### リアクション
 - **絵文字:** ❤️ (3)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:46
-- **Updated At:** 03/07 05:46
+- **作成日::** 03/07 05:46
+- **更新日::** 03/07 05:46
 
 ---
 
 ### 34. 投稿 34
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/807e7629491a08ef3f631fdb47863598/IMG_4851.pdf?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=OtuAv4BEGCzPj8h7gUZQx5sl%2FlAQFCpNgqdjGsTLIzhdzxXBBEydzTFrto5OmDNzWFu%2FCo3vIXVWUC%2BB5Vu5BbJaakMisq5FjTumHxw079VtJ8japn%2FWpbrzmfqcOCyZn1rokKz2u0kj%2FkQ0o5QWqB9ZBGLsP9PU%2FKwnQH3IibwiYNqvRjpGyDgQ7OVxoItp%2BRga5U4xs63ga0iTeo2stLtISaVreybOEoQGpnqhZ0kOnteUPP1P1Bb%2B9yPfd%2BH2TDiWaxi5YnFSoUkcAHuOF50dUYTBrlRgxDAeR4Q95%2BYBFYaVLlcTEl0xBPTpIHzWrsTOOIoZwClghUqLdg1Ceg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F807e7629491a08ef3f631fdb47863598%2FIMG_4851.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/807e7629491a08ef3f631fdb47863598/IMG_4851.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2ySKrsTPZjdLuVWXOOXfoEwwzqcjZSdBGcoq7OQ3IopJBvMOKxcRRjkNavxk4%2BWBOiyBO7%2BszWIPfg3uAbjgQbbnb%2FiVQ1tAJRuNh1Di1U%2FBVtHg1K6lsZCw%2BHcNFC27yrhWuAJbVqWRWSZFYKfoUykuSb%2FUoez%2BAC2S9E2oisUmCPLzSC1Uap%2FNIRRl538wlzQNrV%2Bn%2Fx3lCMyrwLYU%2BYzQBVK5nVYDlj6PccHqlwPBQ%2BewjjeMMqrfB0wl22McKyBlpzcIUgscAlDO2bvJp8YSocUB%2BbBckpHkX%2FIS5DEBreY7Lxc589rN9SA9WiNbLzHvdpDXeue7DWEImb6OiQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F807e7629491a08ef3f631fdb47863598%2FIMG_4851.pdf)
 
 #### リアクション
 - **絵文字:** ❤️ (2)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:45
-- **Updated At:** 03/07 05:45
+- **作成日::** 03/07 05:45
+- **更新日::** 03/07 05:45
 
 ---
 
 ### 35. 投稿 35
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/83db94a6755e8142d8c79b19e8558602/all__12_.pdf?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=S0DwFMvhXV4ZbmKx9GIVAiZWOrHI7YPsK0%2F2ZXj%2B0mAJcgzTTkmGNP3CPBz2plJzw7dYT3SDCRsg66BeZgAVFeunHU2ay%2FXAhNjOVr4%2BGZmLx6ncvlT58rabJNZoAV57ufwpl82DD3LVCSSrCClRtEW73BW2ITdFBc9GYIPVk0npSCpEMZKbT5HY1w3%2F0v58L8OefMtl0V7urzEnw7znpGUgJs%2BpUarEGvw5t4zJDqO4ZBhQ9LHm829xh65TodfOjDblaR1LVIXTDbxJIa4hQggHf3r8PQ2xVsoTQjDTZWboM3VEf2qI9aQj1Sz290RIa7Eo7vXvHPckZU9J2%2BIaag%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F83db94a6755e8142d8c79b19e8558602%2Fall__12_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/83db94a6755e8142d8c79b19e8558602/all__12_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=eWs%2BIiIzWDSwBuFgcUHyKpLn2OY3%2FojrvtL4Om0lhGnAWJQLcXRyVjnUkSFnxvjNWMDRWNoswoQs0ONfPOmjVbOSY88AOgbbrrwmCk4xw8nuPl%2FT9wXLFZMoAI20RYiCUWuXD4RsBeEB%2FyIQ2m6kXBcgAXaehksuhCGuDTg79dO66pg8A0gQXwQdXZwHzdhz%2FI%2Fhw5pCuWTydsrs9EaWftFWSGo9wHb4SkqbINR7Q84jnP9Rk%2BvpfkVLLClbLTWakAfMGRIWykbQVWOsSzlkLhrC042JszrlFV7Yc%2FAAz4XwytRZLSg89DPkWsQj5Oi39XG9Yxniq7XQV5Poy4FOEA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F83db94a6755e8142d8c79b19e8558602%2Fall__12_.pdf)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:44
-- **Updated At:** 03/07 05:44
+- **作成日::** 03/07 05:44
+- **更新日::** 03/07 05:44
 
 ---
 
 ### 36. 投稿 36
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/368e3d7a991e0d508ff266e792d6a521/all__15_.pdf?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=L9Ny6MI1WkgaRvCunS9MCzEdp8%2BbJ2MKZiRhQ5iNebdp1Wftka7EBZL3DRsMn5cDz6lEC3F8ikFQMlf7ZwQ6rvqkZpspNzZldxns%2BThi425UHH2bgUVrcN3OQbc0bBp4e68dy1Iqj3Kj5yMHcD4LCLlOv07z0s%2BkY4EeAK6HWui97qRZVc%2BGnFcwhzHTYEB%2FkAYmDbmd1zSmQs%2FsuzIQ2ISdFLMdhaTLMsxc1s6EEigHoHBgy%2FygzDbVh6e6H0gRVfmRiW8Cd%2FZfLtwCop%2FCL%2F7htuIu8rSowsvCW052CzKaZf4jaBskIc8pIU5bf7DueKA7gt%2FWqIKFIFzDRt%2BtWQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F368e3d7a991e0d508ff266e792d6a521%2Fall__15_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/368e3d7a991e0d508ff266e792d6a521/all__15_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1Aa8SmpSdeEoJe0MFIfxSU%2FwLSbSeLXVIGTRgVZAFLXKhSw5TzEPNge5epmUZ9TD%2BDUk2VFhISxhhfvStF4x3aorRl8nPtojImMRmZwTvvNbOkOfGPeNlZj7J%2FEinfKpjxh95%2BaZjH4R%2BK8SmasCfXS04uyVHga68a0SLtTfVQzW0NYbGvpzE1aCYq417q2W4ZKRrzFX4VWQ4v0jOEbTEr3%2B7TFoW7a3zUs%2BUPHAv5Giwxhz5nYnt%2FQ%2BDkBQeZHoE2vQucyIrNyLeSLB38EXSnH4Q%2FFwYrAJRjiZjG4ciPc2nGlXxOl9gSO%2FVACZ09KUO2oKzbytw7pJ2T%2FZLbqcBw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F368e3d7a991e0d508ff266e792d6a521%2Fall__15_.pdf)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:44
-- **Updated At:** 03/07 05:44
+- **作成日::** 03/07 05:44
+- **更新日::** 03/07 05:44
 
 ---
 
 ### 37. 投稿 37
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/2005f9cf198ac1406c00ae23e0e7ddce/all__19_.pdf?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qPAJePz6LcxjG4qbhSaNz0SQ78a25NNEqIms05eFBbSwlJ4g5SzyhT6iLMSVLaS9cjagWFbsUxWDbR679v0x564dgHFdLRzlIpix2mRgALBPOi%2FNEFougtIkT3fd5zRlqD1ofJX7MunIq9gKP8zZGO7%2BAvGziwJDC%2FovZ79IxwhlOQD7Y2Mj0hSLGW5AhhNHOEe4FW6rXIiVLM3BKNHP49fQ0qDQU5myCHdQ0Xkz%2FnmVXpI7eNN0qxSbVbaNSAfTW%2BLMRiKyS20XYjcxj4qZ3mmngLEpkBJ070Ko89kc8kaVD9cEqN1Pm7e%2B4d3%2B%2F2yU%2FxxOGfhT6NTa4%2ByoF%2B4%2B8A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F2005f9cf198ac1406c00ae23e0e7ddce%2Fall__19_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/2005f9cf198ac1406c00ae23e0e7ddce/all__19_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Dy92HBsvO3Wzd9Mkl8stjfHPp3oRQg610QecOTfoUp8sfgZzuGKOUIdm31Ube1VSo6NS4eUPOrm2fYj9uzfFVvoYvNUYMzzdTQy7A9rFZw0QM7Ry9kZz7FL5yGH6Btpj7%2Bq7z8M5DOqePGZFLWDyX%2FuF4tUVKYxnFDy4%2F9FJ8q0GYuM8%2FzzFGMziky0vC9DRtBm67Y%2BRsPMnAyHmdVcBTUEf1h7nqH6IASWYisF%2F5PXWM03lZ%2B8jX8GahC8KNHaS5pTJ2ef0ip64A9n5CeFWgvHLIRBjVHyTMpq2hTWu1F7uaUth7HW3EJMB70DcGKpHmk6jxEnPPxQ3Nh9SFgIXcQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F2005f9cf198ac1406c00ae23e0e7ddce%2Fall__19_.pdf)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:44
-- **Updated At:** 03/07 05:44
+- **作成日::** 03/07 05:44
+- **更新日::** 03/07 05:44
 
 ---
 
 ### 38. 投稿 38
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/805097253e867416af19eab7c865b462/all__59_.pdf?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PnpZBLmV1yzxAbMsuTf1zVXA4qyvXlv3gWtXnVGWaFoC3w%2Bc3k4GKgVnYqCdCX%2Bvi4uAwaexakU6FA59rRHPlLdjhaz%2BNxBZxo8MSxuvbnEExRmWnj3SotKJH4ffg7Iu1AafW%2FflImj1Em1YyIzbQ8H%2FE6hcK%2B8vubHqZAXQwnD%2F%2B29x8clzXUe52chVmY6eSxKO4sjOiXT3vuZq3ij3v8tZjshywakldQH%2FolyLaJMPu4qhEBws5s6u%2BmBVsrxX9DCAsCNqRST4Ifp0bEY4JOnQz9y6Z3TPpFcMYah0paOwJBeYkQmgKoq2VE9OB441gIv6o4wv6pi37yqs%2BcVlcg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F805097253e867416af19eab7c865b462%2Fall__59_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/805097253e867416af19eab7c865b462/all__59_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=o%2Bv5KuayOK6mGEr7WiiRc01qBxmOlNT2287FtrQZgZXJacfZQIazIP8hcjC3Z8%2B%2BR58XMAqlBJ82IfwaJaKFcsN0E8Z3hvD0V1zEviOFWXIKvjOXoN5QGyz1l753qXe62TxTEXuVdKA2cGATBeK%2FEOz1xZ97ULeg0bmbRv07Iks0kukH%2F%2F4wU9xcplhL6IbSqgYrQLvXNgnCxB3biiTcdUG7y4Ay2yvio%2FzZiai1iXYBzWdYEZ0HoFMAPYycmbzxM%2FJyWxhMm5fzCZjuMGi0D7iQWhgoo9QSVmRKMzkbCEiFhQp3O3UD%2FtbxLclZUNXcfs3ngBQD5xK93Z8KBmnl9Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F805097253e867416af19eab7c865b462%2Fall__59_.pdf)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:42
-- **Updated At:** 03/07 05:42
+- **作成日::** 03/07 05:42
+- **更新日::** 03/07 05:42
 
 ---
 
 ### 39. 投稿 39
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/1c95da9c7c290cb0ee60b9d4209fba69/all__62_.pdf?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RkbR6O09dhw%2BqTxuEgmFOxi%2Bs04kRJxVzg3KKKK2wI%2BEBSYw9OV43oLivQ9bvcUUJ9nSkt3T17Gr3sAt620WrnhCWrLPDZQVZS5eBtY9w3lP97aaqprqYKnjwbXltBj6%2FXKvV%2F9NGUnRyHGJqXhP9RGp2hgaJdd0j7D1nVvCS0NfEY5NWkSwWoVVkwJiwj0BXmViSYcEFMwM7xqd0i9KVoZZKaJhES%2FXdyR6sx3gKDTOlnbK5BpYYGYEhT5ELlId87MZN%2FovriCAsnyGW%2BJdLdlt9YD3DcjZlbJ6MGmr1bdhlM3YCktz0Oo7gUvPAFbbKj9ObnAJUxFs6XiM0WsQ3w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F1c95da9c7c290cb0ee60b9d4209fba69%2Fall__62_.pdf)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/1c95da9c7c290cb0ee60b9d4209fba69/all__62_.pdf?Expires=1785831272&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xsvGQNo0kPFSo8qHyc39yq2SHZmtNbLuPwHwmtPzWxxU1SwhhRKYKNpuvf6h5KKbhB5zHUsNAq0EZyWrWFP7usjnts3SxnrPGRRYQ8SmnGzKE8tN6%2BKLh3%2B6JwpPSG3j%2BLImIvD2vcWV%2BBcXcozmTp8t2SrzFwDOLey8Ubb9IrEFFrU%2B018YKjc2e%2BwPpsE%2BJ74SdGDqgGG6eB0Z%2FPzi41m6uq6YnFOBryl7yORZhItc0fqaHWqNy6Lu%2F%2BsSIMpRl%2BC4zcS9rqOccW3BfCQtMKwRVKZEWyZsAxIfXFXsfce8UKEuWHKdWl8IQGtwkwxL0aA%2Bbac%2BxYvmkK65W%2FX9qQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F1c95da9c7c290cb0ee60b9d4209fba69%2Fall__62_.pdf)
 
 #### コメント (13)
 - **❘ QuqzL ❘ ⊱IABJ⊰ ❘** (11/03 11:24): おやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れるおやこどんのはなし？おやこどんはまず肉から煮てそのあとたまごやで水菜もあるとさっぱりしてうまいワイは結構あまいのがすきやでさとう結構入れる
@@ -4579,8 +4638,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 05:43
-- **Updated At:** 06/02 04:38
+- **作成日::** 03/07 05:43
+- **更新日::** 06/02 04:38
 
 ---
 
@@ -4589,7 +4648,7 @@
 ### 1. かーてmn
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>
+
 
 #### コメント (76)
 - **ダック🦆** (06/10 02:15): 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -4671,22 +4730,22 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **Created At:** 05/26 04:25
-- **Updated At:** 06/20 12:20
+- **作成日::** 05/26 04:25
+- **更新日::** 06/20 12:20
 
 ---
 
 ### 2. 投稿 2
 **作成者:** ダック🦆 (85044200)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/4ca8feae452792b9c0da4153cd363652/4e050aedeb849585.jpeg?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SWG1uXW0RdEb52V5BfLes17V9ogNVSLCs6OUXHITAg4dOJjH6dDeK261fk4NR5RVb8g3%2BlbqrOhAe7215tgo0T2Xz1nPSGWNoM2NPgL9JWYwS9%2FBXI4o1EPnLjhbSYYVWbzE3FMoX51qodOp4q1PCA%2F2D6tpWeCTU8IstmVqTaLwdeziWy7Y9OQaazPDjqnpSBBfoFEJa8%2FmFzGxsmfxxn6bNm3qlYlNK6ktrL4aesGqjWlFG3Rlzqd61781vIHsKOsRU9HY4EgOCyV9VRiZzEr557n%2FUWaB50uvHYpWNQO7kKLB55c7T%2FGO8r6vWShJTwRclSZW5OFBhWQLYlLFuA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F4ca8feae452792b9c0da4153cd363652%2F4e050aedeb849585.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/4ca8feae452792b9c0da4153cd363652/4e050aedeb849585.jpeg?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5c%2BHTaNXIyEC7xc7Q7CX7ZetQ1vklGNWlHbxK2i7R59kQQUOnVhl%2BIlTVmKf2x9SChN%2Fzk5Gf0lOO116TRBEN8RWURMOFpJfC2SLIB2ZU1MaGulvmFgSKgvx0bPFRl%2BM9DbswuUzXy7BSUDf65iaIkXGKL8dbRdm%2FXMIj4IJEhLlbRHwHUM9IlmykKG%2FHdbYezVOKp4gTUKR51CD4ekFtaJmcYBf6SNLzDoBdHCaRUZIUg%2BcAbNgBzeI9writxNb8%2BH4WAhxWxb8lYEfgIQLAijd5YkNNV%2FcYVxh0JL1KufzzH%2FHZPCJnGFhkHepuF4E%2BmUkf4aR9USQ6EGaCYc7jg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F4ca8feae452792b9c0da4153cd363652%2F4e050aedeb849585.jpeg)
 
 #### コメント (17)
 - **ちむ** (05/31 14:45): 114514じゃねぇよ
 - **ちむ** (05/31 14:46): 需要ないて
 - **受験諦めたただのカス** (06/01 23:50): 野獣様
 - **Responsible Boar** (06/03 02:55): エロ
-- **おそば饅頭** (06/05 08:49): 万歳
+- **饅頭** (06/05 08:49): 万歳
 - **べんざカバー　51代目りおと族　92代目りおと族(りおと部屋監視BOT)＃小指詰めてみた＃ぽへ＃kunキッズ＃むちゃたぬき＃ぼっち＃超陰キャ#にゃんこ＃ポケポケ＃ブロスタ＃マイクラ＃マリカ** (06/08 14:06): 一番エロい
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (06/08 21:56): やりますねえ
 - **ソロン** (08/29 14:08): 810
@@ -4705,30 +4764,30 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/29 13:25
-- **Updated At:** 05/29 13:25
+- **作成日::** 05/29 13:25
+- **更新日::** 05/29 13:25
 
 ---
 
 ### 3. 投稿 3
 **作成者:** ダック🦆 (85044200)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/131c8a0ec749d0547266c7b744a57e1c/122894554_p11_master1200.png?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=c4cHSNY7wMFVhg5ENFimaSsaJMnRDwzaoTLWqXr%2BWMkVTFgK2D%2FgRDaCwgVxE3jB4BZ%2FjKUcqiPLUKJciEKjA6SXt6NXHAK%2FfRUE56BJ1bdEw34Hh02Xn%2FhytaVTPzj2VCePBG7jM63U0D3aGKVIXH2TAdAEC5RG9X2UlEPjAFUf5EFA9mZq3Mt4ASyWZ9aaUBSPX1lNxGvoIbzjDyJTmFymoycXYUrNu%2BTxQ2Gq3Fidv2BGK0yJK1DSFSvJOn0y5HVSWCjzdVN1az%2F3gQufO4DBZQy%2BoUxMs66N7PgjcxSU4Hi%2BNqHXIlMed8QDjo17DQLBhaW9zzRZSk7ZBOD6gg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F131c8a0ec749d0547266c7b744a57e1c%2F122894554_p11_master1200.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/131c8a0ec749d0547266c7b744a57e1c/122894554_p11_master1200.png?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qu7ogQj9DlsPpBsaUjETjMo3id5JGm%2Bn86PtVmc4sCP3JSvnDrUvNcx3KzIHvtddDOnYWdTUfk1xMaKfG1XJn2IptV6lQ4QkACyswrC5M%2FkxviCJKLfUPwIK%2FosMq0KzNFoFtoyxy1lLuB3IOrQAIbJuN7uN1z5GT8cYTd%2B7UQmPn5Mc3671BqXQGGpfRKKVnihnqHkndMoCLWngHjWgo8C2DjkstL8gIR0ljD8rwHLn1neyyEIJcocDC4vwgVApy5ZfxeMTfofkbOZKTIVPNiG5Eo9w2RSEAU39QmKyp0oGhsj%2FURtCoJc2V8lhk7jgkE00d3BcFQky4oBV8kf0Tg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F131c8a0ec749d0547266c7b744a57e1c%2F122894554_p11_master1200.png)
 
 #### リアクション
 - **絵文字:** ❤️ (4)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/29 13:25
-- **Updated At:** 05/29 13:25
+- **作成日::** 05/29 13:25
+- **更新日::** 05/29 13:25
 
 ---
 
 ### 4. 投稿 4
 **作成者:** ダック🦆 (koregahonmono)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/396ce35943385f002275ca549042189b/189.webp?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nFijeBLpQKCFSXZE30QwoAJj3j%2BwGwhz9bxeoe0QLM6KwR37WfnQqlPfQRBjd6p%2FV3LGn4z1zBlEjclLirTkkqLxEMkJw%2FjFoK7o7ZIvcPlriwOi4qiTfqfcuzbNFqpcNj1XGbnsE1GcixFyTYQ5EXyDPMOobww4GmILViMgsSbhw0P%2F28g83DSn%2B55%2F8wIFzfCiRZrbNNyuqWEXzVKIA%2FJDlAAjlZMsIAMR%2B40vwKc3PK0wujonHASuNnU%2Fjg8%2FzS8DSEmiNLRJw6M4Q9KnjxyGYwAP6TMzWpCxIgJzLuiLk8QPvW9mD%2Bwpd6p0veLmSJAcQmcHjnuSYbGgcNQ3tA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F396ce35943385f002275ca549042189b%2F189.webp)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/396ce35943385f002275ca549042189b/189.webp?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BpXeOz3cjsVJoOt%2FbU9AQxSkJIGtCtjZPa3OTN5LmdMsWvcbZmZo4pBpAhIxAveeG7wU5E%2BRUViWCPyliMdmc8BmYkDiYgE9d8zEzk4K0aLxoyiIc4tC1a5dvcVfMkfJcg2KCSMAbsZ9MPCNOWj4aZCHaOvgmqISNmjxgOfxUDae8cfTuj6wbP%2FguGHJXmJ%2FCdLpXvUA8PkipHzMSDgwXzYqujYXnouZh46yIFAgH2dT3vUFZ1o2dXBttN9a%2BUURWYHSScnmr95%2B1wPx07PzaY%2FMtXv877HqAogOqAizov4cHI5UC8xADkytW1cGDtbeZBpzmhB5MR8n6%2FUpyQn00Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F396ce35943385f002275ca549042189b%2F189.webp)
 
 #### コメント (1)
 - **Confident Tilapia** (07/17 12:42): 俺もされたい
@@ -4738,15 +4797,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/26 00:49
-- **Updated At:** 05/26 00:49
+- **作成日::** 05/26 00:49
+- **更新日::** 05/26 00:49
 
 ---
 
 ### 5. 投稿 5
 **作成者:** ダック🦆 (koregahonmono)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/ebf0120c8a6c460cc115115f2a62e645/186.webp?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=yYSE1rSxx0nAptwLSUslxFQhtNdhIqalrXdrChNtbSKkppLkpmCLUbvZFXz98YefJJBkkQr1SYrdxKLwpGn0%2Ba0KeEf6MAhARaVWkYmLZn01eKim1D67%2BgpNHBWp7usnWKy1DryClFMZuEf3TmAAwrX7xT%2BhI49C0QmmRfj7tS4Xq5qte2CnlKDMS%2FxuZscjP3pxJhrIdwoGFwkd5JsyHQnC1bFNBn19VHG%2F5woiL2fUlUi5D6sbri3f%2BDuZFs1WS2rBwdB0PuE7JGvEujrd6jt1A1TuZ5jsGvoMkVKr0HF1kHrQ7T4yhAaimfDdag%2FIj3Hz%2BsceFxldyOuEvVAZuw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Febf0120c8a6c460cc115115f2a62e645%2F186.webp)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/ebf0120c8a6c460cc115115f2a62e645/186.webp?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=v5C1NXi2dGA2Cq6cM%2FggIuCrA%2B7YpLAwR0KFc99IbdWPs61ZLGECzxPFePUwJRe%2BtrcpTONNRcSLbzLX9Po%2BIzqk5411axO%2Bb7rzIVCs%2BWDYwM90%2BeDmk8Q0viifQmcalEE8YtDdUGfLBuKJ3MDuVqZamgnz8NBPWvO8C0wbzumnK6FzY3%2F0cyrbS%2BOREVJ9mf80d4UnUJY9foRS1POR6fqPRkmnEBR1qHyrctcHsg3jxfE3fIhT5P0GtJQtiXk6F8ar0AIWcEyShb9RljZGeAqyirbjslvC6G4gPbeMBVS7Wrkj8uwDiqVo%2FAIhSqJ5MwEbQ2OG4UDVliPf0jwlCA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Febf0120c8a6c460cc115115f2a62e645%2F186.webp)
 
 #### コメント (2)
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (06/08 21:57): これウイさんがみたらどうなるんだろ
@@ -4757,30 +4816,30 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/26 00:49
-- **Updated At:** 05/26 00:49
+- **作成日::** 05/26 00:49
+- **更新日::** 05/26 00:49
 
 ---
 
 ### 6. 投稿 6
 **作成者:** ダック🦆 (koregahonmono)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/706553ce22b714f9f435c5b527e9d9d1/190.webp?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Prt71WVdnq0knP4HVmSev7D9tyn7WfI%2BBw8uUr%2Fle7GzkHo%2F8itqfxUtW%2FzE6qsozRQDK1zsQrtZrjvJn9lZZPsN3l2n2crzTEvrrMkvVkMLr8LuSYGHL%2B54LPG8qySdJoVmT1E%2BMKtpGQ3R%2FSw%2BmCecpbtRwFZSafUj3gk78Gl7ik5VWjK%2B%2BnaAvhhwUOikdpI8ChazCST%2Bb6VGf%2BD6E1LkUh8Q1GOEVcrMjqNrG8%2Fddpts8ZARFMza3SUjwyGDj7Yaas2zkHXMcHZ2%2F5IiGqjXypJZP6SwKo6wqkAcEmhBpyVVX%2BW4lITBNruYni2DYPHyAphLy%2BnpxwpPHq0kRw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F706553ce22b714f9f435c5b527e9d9d1%2F190.webp)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/706553ce22b714f9f435c5b527e9d9d1/190.webp?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=X9%2FuoXsh4nDBYdpVdGujiIcB3ShPZp4hC1z%2F2GiH%2FN5W1F%2Fg6wBMap858TyqoK1MMH1gGIhOs0dZfxW5rHBXjEN7kaHTUVCEXfPDYPdx8th5yvGu55fIzUIXfc9Vo0%2BCYJJHJOjqsi7Qje0jP9z9SmNgcA9p5C%2B%2B7A8BLgN4YRNlsVso6Eou8Rdqwx618oypRVKVIqp2GVhbTXP%2BMyw%2FHrnPlhQbbKyvsK0rhP7mBqBnD%2BM9a0rjARnga8uuVUgrFRPE%2FyhoyDthdmMDNHkczVAHVeOpH%2F9qQwt%2B9NdDp8OuQIiVrLUG2xtkc5OLai0R1r5pnvzgkObeRTDLGKFHWw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F706553ce22b714f9f435c5b527e9d9d1%2F190.webp)
 
 #### リアクション
 - **絵文字:** ❤️ (4)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/26 00:49
-- **Updated At:** 05/26 00:49
+- **作成日::** 05/26 00:49
+- **更新日::** 05/26 00:49
 
 ---
 
 ### 7. 投稿 7
 **作成者:** ダック🦆 (koregahonmono)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/46ddb1c06304cf9e64109fd6ed5ce3e7/193.webp?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qwP1v1jpMkIcktIUbwHOYwrGxGqsjFjVFaDsH0dsVjPn59URAkaqJfVyP%2FLTj8AgqYiaXaFiZENbdKDgFbcpc%2ByYzAVTmybN%2FrGRXB2fcTnKnjSx2RXB8eWr7XUN4hhq8fWQoH%2FAb9BTTN183e4B4Z0nP6MEfK1iSRfxIqitiFnaXNUdspI2sn79eDuUI18ElIKxy3i%2FDCd99O21BDJ%2FwDe5T0A1DDbmsoBBu9riUtSDfWo7cqJN7Pb9tjXvhOie8s8AVqh%2Bo8xRwppGg7pcQSoF3vlIma3WorAP%2BmTlhtOdo2GnFJv0A8puri9yqr3KLddQQnOdNEv4Eni%2FkHkwpw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F46ddb1c06304cf9e64109fd6ed5ce3e7%2F193.webp)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/46ddb1c06304cf9e64109fd6ed5ce3e7/193.webp?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pKemhC3IgImiybRCubqw061YQGk2777GEMIXaPQkNYvTBUj1XimHasCkObSlVtejbiNDlruxdJruo29sLdd2OEdLi%2B%2FP3FFWWp6SG4LxirP1sxUKV5ipo5tUkEv5RpXuWIC8mIeSGvGk%2BkmjcXajIYKkXhOm9tsPtPE7SFLhFU1kLjGx%2FMTqpNrmPbixP2WyZkRfncjAa944jEoDdj0zhIw80mH2%2F6cKRKRQoFScrhqEzCbnL7SYmBSXaE03nte4BHf1Blf%2FSi7h1ju0%2BENqDNfrEefzsp1%2FwyESgDW7%2BL%2FuTWfTC4jkf7l%2BULkiHDuYqvZt4HpRuTgBSt52JHLzJQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F46ddb1c06304cf9e64109fd6ed5ce3e7%2F193.webp)
 
 #### コメント (3)
 - **Confident Tilapia** (07/17 12:42): キモ
@@ -4792,8 +4851,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/26 00:49
-- **Updated At:** 05/26 00:49
+- **作成日::** 05/26 00:49
+- **更新日::** 05/26 00:49
 
 ---
 
@@ -4802,7 +4861,7 @@
 ### 1. カーテン
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>
+
 
 #### コメント (103)
 - **とーや** (06/04 13:46): 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -4911,15 +4970,15 @@
 
 #### その他の情報
 - **投稿のカラー:** レッド
-- **Created At:** 05/26 04:25
-- **Updated At:** 06/12 05:14
+- **作成日::** 05/26 04:25
+- **更新日::** 06/12 05:14
 
 ---
 
 ### 2. 投稿 2
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2863200253/1b36f8c0cc4477912c9706dfc3807dc5/jc__4__2.MP4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=yf8a6MR79oSad2ByAfs6rCakmcF%2BO636AI0FFXqt1yIOcbWTgWnkAIXmJCZ3IO4U6gh%2FMJJvfSv0wqhHipH22idLMlFncwb8ARnYuX2yRMNoo%2BrKc%2F65Jw6OfgGNp%2FDSGRMfhq6jJZxwH6O0VFSC85neyhqqRzNLebQUrU2If%2BN9Kgpo%2F0GP2W2Vt5LxiW8cR5FRz6jTpXLFc46P5nDtka5TnnV76tTGd4ec5ZpM9MZM3ReCto%2FNACvlmWSA%2B6RQS2RA0djLArECpq0yK8iLChPnoXflanaJ%2FIJCzL5j%2FIJmDOdnyLwdqaNINig6kNhw1O%2ByUTPQ%2B%2BdjVMOYmQZydw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2863200253%2F1b36f8c0cc4477912c9706dfc3807dc5%2Fjc__4__2.MP4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2863200253/1b36f8c0cc4477912c9706dfc3807dc5/jc__4__2.MP4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=B8EjQHxttNZTIleNw3LTl9R6mEG8%2FxQG%2BCzHcDJ1dmOL1wZsfKsBPTZ6sYt9zEMwhnpSqecpwFUUSjnl390SHJ%2B%2B%2Bh4lSXZvBSIyLaZhVdIaCJR6JhODf%2F1z1bWnr43mfgGAZVB2jql46KSLyLrzOsPF52PKgerQOqV7A54UW3nfi%2FlI%2FfQW0HXRzApZAeDpLNHpXH2Nwq8tXTdqoF0gEViRuE45cmIYnd39gdGAqT%2F%2Fbvv9mebPgXaMXzy8UMRUZzFPKxmSEDZvk8%2FdvtuXvHNg01useikEXO8yMot8cAbC43BEuB7ifSwKf5GO1qcaL2AKKSYiQg9y8eWj5f7cBg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2863200253%2F1b36f8c0cc4477912c9706dfc3807dc5%2Fjc__4__2.MP4)
 
 #### コメント (16)
 - **まろ** (09/03 12:28): 死ぬほどリア友に似てるんやが、、えこれガチかもしれん、、
@@ -4944,17 +5003,17 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 09/03 01:09
-- **Updated At:** 09/03 01:09
+- **作成日::** 09/03 01:09
+- **更新日::** 09/03 01:09
 
 ---
 
 ### 3. 投稿 3
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2863200253/dd9ef37a54faf4596cbe4773fbfe983a/jc__38__2.MP4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=J8PYLkDEohKG8TDceMFMr2CH1%2FUtibMbPUycTeUfiJ5a2ClrKtz3WcT7oZHfuQy1bynSvGjRfiyzITAk%2Bm6NKvlAa0W1VMbdQmg8PTmjJJe2beMO6sZItr9EqEn4%2BEAjqZ2Xjgi8boFOizhV0Z52JIMb3ZM0BDaeFc4qHIkN5W%2BUDLRlBK3YVLr4NiniS89gm4P83fFRuOlCCP2Y9fgurq%2Fji3p7ijfAX%2BJyU1OhifHZY5lBONOhftDDZXN04UjfKi%2BPQzLqqfnqCnAULXkLyGz81YpIYDqQ6YbukSeVpcsja%2BFXCOChJdnE%2Bzxw95NGHfNKXrC%2FsRwSplnd3f3dEw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2863200253%2Fdd9ef37a54faf4596cbe4773fbfe983a%2Fjc__38__2.MP4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2863200253/dd9ef37a54faf4596cbe4773fbfe983a/jc__38__2.MP4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6O4%2FgXlLlshfsbslZRYNIsbUEDlvbFEOrC0yNH%2FdptGkYn2Bc7qnvaWBcRiOuI35G%2BOwf%2B7f5N2KDAglUgLwEGFxsidWI1aJS1lEhE%2FM1mMgXeNk2RQmrrRdLRZYJbGlidIQeU0hB03Tmg56Iot6ylg9S5sFQG2xLvQZRO1QpEbKdjHJtvncKvUVj0CD5iBCrapqXtxYx2AJ0O4t3PVtyvHjqUMYYoHbgjokvAZRL234IRCCJ%2BJgb%2Fi5bciR%2Bg4qGY19mmpT%2BtlbUfKoOcfUAbRi%2FlbDSRfnWPzysFUZ0wnUTxplENzg89d7O5%2BqfHOFeDBdI4fZyAA2gJnOC1CrdA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2863200253%2Fdd9ef37a54faf4596cbe4773fbfe983a%2Fjc__38__2.MP4)
 
-#### コメント (25)
+#### コメント (26)
 - **健全なる＿わっふる　初代人生賢者タイム族族長　#無の境地　#叡智　#博愛　#智愛　#聡明　#出藍** (09/03 10:24): あざ
 - **エビMC　マイクラ勢中学生勉強できない** (12/30 07:49): ブス
 - **近所のクソガキ** (01/02 07:08): だな
@@ -4980,21 +5039,22 @@
 - **ツムギイロ** (07/15 10:55): 🤮
 - **犬尾舞香2_44 maika** (07/17 04:34): うわ…。
 - **ヤマガラ** (07/23 23:15): やりますね
+- **サワベ** (07/28 07:06): 顔があかんわ
 
 #### リアクション
 - **絵文字:** ❤️ (6)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 09/03 01:08
-- **Updated At:** 09/03 01:08
+- **作成日::** 09/03 01:08
+- **更新日::** 09/03 01:08
 
 ---
 
 ### 4. 耳弱い人向け音声（ちなみに私はやばい、聞き終わるまでにﾋﾞﾁｮｯﾋﾞﾁｮ♡になった…）
 **作成者:** Riur🐾 (siromaro)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2425103363/166d55594fcc49a8e4d3b54e988d45ab/videoplayback___2025_07_05T010513_360.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6XlHoj66OfHl0FImCzQSaOwj0zHzeiZEuvEJhmF5HbhnvyLKM8TT1iY8v%2F7QMqa1DOUhUU%2BNYgiAbX5hJiqsdUFoWFpgVvKyAAazNNeTUYbMxFGblnmNkNjzS4M%2Bc0KOn2pgvjKRFTsgCfaKqTcQhoagkqVV5T9g%2FPUV9wtGsUq1gWI8ZpiDWuQWWYP28ircrMa2Km%2BdzXm6rlzii1uY3iq1iNaisCh7YFkaug%2B%2FkTqcP7uKDVs%2F1yBX0TUyJ0oCbi5qxgKIatF01wVno5dLv5I9bf2cHj%2FnWWhcLqmJv3wVJi%2BTM3LDgLe7lqWPubFk9Uv3a0IAYtN3vgjuRI6TyA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2425103363%2F166d55594fcc49a8e4d3b54e988d45ab%2Fvideoplayback___2025_07_05T010513_360.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2425103363/166d55594fcc49a8e4d3b54e988d45ab/videoplayback___2025_07_05T010513_360.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MNKSxyPEDUBRk1euX%2Fsv29ZcP8Et0K2RXRGTzz5TGS1Ra8oHHMCGU9KECtNmyqC8mu%2BwzOxyqoFLA6Un9pOe%2FOmC2ZnihF5Bh9nm55G2hD0I9LA7HhL471v9vHiiF%2B5keI0OP6sC8Ho%2F7X6xpd8xIvtqKPOvAbNW48hoPHXK0scHoiX01MDh6HqeT5EX81y5s4mPIRzdOqAfUf88Ny8BpSQkECneEMiOVd0OQL4y2mrpOES7mRPlgIeS9tw53LpwKashtP7uUwaTeFJeohGjKyUpY59XT97aAZ717rnKvaHtioNKykQ1d9UT4maujXQZdrXABh1mkQefO%2FB6cgacsg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2425103363%2F166d55594fcc49a8e4d3b54e988d45ab%2Fvideoplayback___2025_07_05T010513_360.mp4)
 
 #### コメント (9)
 - **ピコ** (07/16 00:55): そうかなー
@@ -5009,15 +5069,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 07/14 09:27
-- **Updated At:** 08/08 06:48
+- **作成日::** 07/14 09:27
+- **更新日::** 08/08 06:48
 
 ---
 
 ### 5. 投稿 5
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/249e5af0f3314178d3adff827bfea346/First_10.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wDg1wTCMX9xsYzewFqXSnhTVH7vWNaWX3wK8LrWlj9fdf4YCYNTSQqiqxcvxbqO0Gay%2B0l68uN9PMz99LhQlv2zcI36lR9JSBC9Xk%2FcDY9gB6wDhSWYBbM0yPNU6DJyKEspxcjH2v%2Fq9LHwPOnLXinDx4XtyP2GrArKrbh9AlifJbxjBsQVjLjRv3tWlPQObqr3FMp%2B1Ol5PJcBVzkgKLtpSXv%2Fq%2FryZlImLZCHGtNjI%2BLTnoruM%2FZjWFibKs0%2FS0Q%2F4GtUAg0duSgJ7lc1wWlyWPtCauQTG%2F2S6cxmPHbJsAv7rqv5%2F2kBRRicFV476YSsKzJiIpiQY4F%2BeAFJKvw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2F249e5af0f3314178d3adff827bfea346%2FFirst_10.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/249e5af0f3314178d3adff827bfea346/First_10.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QgftJ%2BHP3RYe38c6KviYGwliOvkiIC1HTL8qug%2Fb0IHCHZCbYpH%2BHU2hiI18xOfwAzw37WV%2BFgyttWqR%2Biys1UFpt8iS1ZldbkchPRJvY0c%2BZb%2Fbc6%2BhU8OMMXldvCYal5qzPjbpsqvf%2FCX3iMpeRYYbZ4gWzTlQUZpJ5V5koHFTr%2FhZy8p%2B74oaY3oKh5BDZrqepSpqJHI3VngandCryduibNl6QWBwjGpx47yfGYgCE4M7YBuiVo%2FMeOdb87XP8DPXCgFx5FTCrFZ9cwXGiNcfIWf0Wsux3W7lCky4Ss3W45Ljp%2FpQ8t5nndSYk%2BRtjiKghYCfMqw%2F2sFLknF%2FrQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2F249e5af0f3314178d3adff827bfea346%2FFirst_10.mov)
 
 #### コメント (8)
 - **ふる** (06/19 04:36): この女子はどんな気持ちで取っているのだ？
@@ -5031,17 +5091,17 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/08 21:56
-- **Updated At:** 06/08 21:56
+- **作成日::** 06/08 21:56
+- **更新日::** 06/08 21:56
 
 ---
 
 ### 6. 投稿 6
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/54d39397808383f4248ea9cb5dc210c4/download.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=URcJsVdnWqqibMx1OXkXX%2BxfRCxMvNzq2sfPcKtK3r3g4fXtUAtapcN8DzLZqYQ7RB9kdLJasQN554%2BCQZnFV0%2FdkSJ5ugmS6QK%2BdQTKXC68qclCVgV1mXhxVJ%2B6W5pdDcUVcY3QBzm1%2FsLvvtHTja%2B4At8TCAJ2TvT%2B4CJvCk%2FBe0EeDxv4meeHsymn%2F3di5geZBqwO3KsHqLUh59UO%2BA7UKyzr3P9wcqlsJMrisj35UBZrjKaB2UtemDlvQAfAXMZaFxcOlr3joF0hLwtxRgCHQcXlJSz%2Bi4oT%2FoUfLpKOyVxvVW5tih3gm8QDAgjig8nwiD1zmcybcBmZbTt50g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2F54d39397808383f4248ea9cb5dc210c4%2Fdownload.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/54d39397808383f4248ea9cb5dc210c4/download.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dsKHwv2TrsZ6LmEjHy8dHi1zxrg4YLS%2Bp53gwSMck%2FcMENFnjnINNHJ3CO9sb91iGYQT0lN393i7YQ6uyzMFE0%2Fq%2BT2lesZ3imdCJ6yEiH6swfXj1JZ5wxMSSVGJqwE2lz99RiO2OWetDnpdiFyVpQYHQD73YmoCA%2BkjaxdxVThLTf7GdDzePzlolOTYctcoBX9GTLa4XaBS3wtQ6vYzUwSyO1jtR6DYd8vQelkv%2BYWeA3z3fqN1dDMZ1fBv5%2F2GcWFC4OysglSi7sTiyi0vN4aWrI%2Bh4%2B8Zd%2F8ZBzfkIDnYamvJg192uhAdbohSgyxYjAkQMeLaG2cDRqrXLWEjyA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2F54d39397808383f4248ea9cb5dc210c4%2Fdownload.mp4)
 
-#### コメント (20)
+#### コメント (21)
 - **ピコ** (06/13 02:27): (≧∇≦)b｛いいねー
 - **Riur🐾** (06/27 09:49): おぁ…
 - **Riur🐾** (06/27 09:50): やば…っ
@@ -5062,36 +5122,37 @@
 - **しこまる** (06/11 23:17): セックスしたーい
 - **どこかの誰かさん** (07/13 08:17): しこまる流石にキモい
 - **ツムギイロ** (07/15 10:59): ほんっとにきもい
+- **ななちき** (07/26 06:45): やりますねえ
 
 #### リアクション
 - **絵文字:** ❤️ (6)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/08 21:56
-- **Updated At:** 08/08 06:52
+- **作成日::** 06/08 21:56
+- **更新日::** 08/08 06:52
 
 ---
 
 ### 7. 投稿 7
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/ead8b6ee2abed84cda17ce4adb69ecdf/170298195264558.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dPtZ94E5aOI0ZHukRQwyl68dUXketIqkQezMUCGvo%2Fv4zsA0iXZBCokiOiAk%2F%2BAT%2Fbeo28XZyKQYKES3U4sRE1o8tsw38v%2F1CsiU560Jt3bg7OUC6PylTfKDnIu0V96JtMuPuhNVYvCZAj%2F31nxiYSs0f3FbdSNixq8iJ1OH4p1ojviQSxk2B%2B9jlEUC9a6s7U9qYtILkonhGXJEx1U%2FTHqJfjIN35j4oG0%2BRgBTy5mjN59AejQmi%2BRDaOuMDf4hxpP9CJmR21lZ%2BuQnEzptXivzAUNqhyACgytLMdWQsgc6aefnt8pdNs%2Bk971bmRSurjNmqi86%2F5WP8ggOYu1o0A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2Fead8b6ee2abed84cda17ce4adb69ecdf%2F170298195264558.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/ead8b6ee2abed84cda17ce4adb69ecdf/170298195264558.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pxORR%2BkvGNHt%2F308cSQ4IzxSTiyBzh02RcoSp%2B0n1Of6uSq0VSRR9qy4bPOFvwUhRFYkCa%2BzGqZzKzTNQSx5fJdhrTcmqFKcZGw7okUmv1U7UlqJeHgVVfCAH%2BswmcqMvlsOG4zD3zyNwQkJq%2FRlhfABgJkTW1A5jpawbeV4FaWNGKGFqhs2OfiR1memlKV1SGgHcybeXK4UcKSRVSacCCNYiYHiITTGN5aCUGN5KDwM%2B7jW7ggAc8nHWBww%2FCa1jGwVWO67YL9cVgu6fRvWWnErInsM8HJf6TtEXaIHFS%2FB4UaZA4POYLeoNHE%2Fu7fCXTBa7cztftVeUyujfbQeRA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2Fead8b6ee2abed84cda17ce4adb69ecdf%2F170298195264558.mov)
 
 #### リアクション
 - **絵文字:** ❤️ (2)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/08 21:55
-- **Updated At:** 06/08 21:55
+- **作成日::** 06/08 21:55
+- **更新日::** 06/08 21:55
 
 ---
 
 ### 8. 投稿 8
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/c15408c116d73e8751bc3206bbe5884b/video_498572202284155089_NSjvxa0i.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=OHpyguXPX8KLg%2Bncn40Sev2YLQ1tfMep%2FUfUKw2fluhPTQRFhNP32bcxKnG7gEe9cYcxuV0LrzNhb6PnuCxVNfPQFkhck5ZDBbm3X7m2jA72rNdD7UW7gnguXDe7sQEu8gfn04xSelgtfLMTY%2BP4nMaYak9Q2Bft6cciSTmtfkCxFZoeMLskS5Li0DcTzS5vVxOsfxF94Eh50Kif3e7Qhl01et3k%2BQ16Ik7%2B9w1GdXDvdQ5H6zOC6d5S0gK53nu1is9EDfiJezVt7kTZCpr9Cu478xY3VeRzcF462nuH0Vd9xngliqapYjCtJolQZXcX1zKJQ5OUEt2sU0ciEC2vgg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2Fc15408c116d73e8751bc3206bbe5884b%2Fvideo_498572202284155089_NSjvxa0i.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/c15408c116d73e8751bc3206bbe5884b/video_498572202284155089_NSjvxa0i.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wU9xOBxyTaeeolzdr6tXMvCS7u4d20dYVGQtIqed%2FAGl5lYGDvNlFWo8EIj%2BWpmfUtM5kfbFCVnE0B0QXtcYfEcNMPwg7YehXd48uyk3eiQT1E5gdzoFmFlUKZ8eM0qD4fBKeVfOhvrENiyfXmud8OxWEWq4OnPPmsXSyDv4wwDMc4iaohcHZJdWBBsZHMB1Lff8muQjOBlpiquH48CnBFaewP2EgjMcuL4nnFM8O0JTkd0w%2BmRaPfMMMfSHmf5ENgDLhLt8deX5%2B5lmKF2nY3lUSKg61Nvhdf4TriFnTnGIwszbw36oJJIsaNW4THxI%2B3VHU2XlUKBAjyC3bG9TjA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2Fc15408c116d73e8751bc3206bbe5884b%2Fvideo_498572202284155089_NSjvxa0i.mov)
 
 #### コメント (3)
 - **お　＃暇人＃夏休み暇すぎ＃暇人＃りおとの23番弟子#＠rioto教11番信者＃旧りおとの4649番弟子#荒らし対策本部隊員＃荒らし対策軍元帥からユーザーを守る会** (06/30 10:11): 何を見せられてんのこれ
@@ -5103,15 +5164,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/08 21:55
-- **Updated At:** 06/08 21:55
+- **作成日::** 06/08 21:55
+- **更新日::** 06/08 21:55
 
 ---
 
 ### 9. 投稿 9
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/584ca7a11dea505aca4e29136da8f57d/170298195264556.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=691%2FeWnRBCOCrDTh92CVEHJszWT5lNukPBlF1rGTSKTKcsr%2BoWxAFd90TeLOISSsPD0mXWb2Nv5%2B6xeXDeb2qcDgwZw9C6KDNZw%2FRJ5Xv8ZwWMPhEJNHMKN92klwFJDLGg8DU2NuDkI1LnB9MtJtn4NWxb4ETNisl9XYHTSUxvNrQuh4sODaQi1fs%2Bx0aG9A5sWiPbxQqGFYQ%2FeISD1s%2FpYvCYzKTzgGhPEYjUW%2BuNpPgK51Rek2LFR%2FAuG72AUcxQ8ANHvjwDsAFR5I%2B8DDKd83%2BGEiniAFAQEN9hQe98EsmRo33n027ueB5%2F4wVrwcw%2F6nUuGR7bsUFXx%2F1ASWiQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2F584ca7a11dea505aca4e29136da8f57d%2F170298195264556.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/2723618751/584ca7a11dea505aca4e29136da8f57d/170298195264556.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=3RTw6qpuZydIAnj4o4YGOLXcQp5Wi7my7NQvS7N%2FOiwZmJAojBL5QpgZCUeP73fCsDGKQGYzGIxLQ0qGJGr77pd%2BboeQJGs2pYE3wCqhpZU7XKrogXwgRF%2BcxZSzKncFAFWEu%2Br0LSjos605e5jBqgMGz6B7TCcn3uRjexgXlTaD4n3j7Sx6hjnAr1507m0wxv9Ua6Y%2Bi0ryrXroyDiKZRpdFlarTvM4Gcb3JHLssSGXwObfEtKfpdQvTzeSKL%2BZ61KNfUMHy0Hp46LF9D%2BEC9%2BMp6%2FJ90qXn4eWnJdrIbu1wMKtycsIWPRF5Ob49z%2F4MAddJqcx1rqyAlxF%2BjoEMA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2723618751%2F584ca7a11dea505aca4e29136da8f57d%2F170298195264556.mp4)
 
 #### コメント (3)
 - **チャレンジャー** (06/18 08:06): いい音
@@ -5123,27 +5184,27 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/08 21:54
-- **Updated At:** 06/08 21:54
+- **作成日::** 06/08 21:54
+- **更新日::** 06/08 21:54
 
 ---
 
 ### 10. それ
 **作成者:** ダック🦆 (85044200)
 
-<p><a rel="noopener noreferrer nofollow" href="https://gofile.io/d/sO6LWX">https://gofile.io/d/sO6LWX</a></p>
+[https://gofile.io/d/sO6LWX](https://gofile.io/d/sO6LWX)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 06/08 14:31
-- **Updated At:** 06/08 14:31
+- **作成日::** 06/08 14:31
+- **更新日::** 06/08 14:31
 
 ---
 
 ### 11. 投稿 11
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/df01db022aa071ab2e049946b0bd65a2/169182063953315.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jX1482vtumuntWqe8AeIvl%2FqwIoBf8vubnJkR3voS%2FLEmRMhsT8TIgMM9DzRaUkF8VKapqeHGJDe%2BSm8aYB%2FiJoCYW4u%2B2hYuh%2BGzZv%2FqASOE4QwKted9SNtmonAeJDNQ2dXMPKlV4D8SxazsffdWRQt9UOtrz3QXwHb2FO8x8w9MR6318qV%2Fvg6vDmqcd6isdmt3S5bkBH29Ox3NGdGovk%2FqwrMV2et6AvpNFqevqNBjdfVI5CDpZchkB%2FmzUXcfMfHhYn2ERmcjWkqc2aWb23vzzwtPqaGyr3it7w2c621ExDp1kha3sV8Wqj8VqwR9FgTIgLXtWzjz5H67zzFTA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fdf01db022aa071ab2e049946b0bd65a2%2F169182063953315.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/df01db022aa071ab2e049946b0bd65a2/169182063953315.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xBni6mn3SbkLoUW4P6dhvKDkPOIDX%2BsKCc54zVdc%2FsNMzG82g41kyxS8jPhdRejSJZ4IWsplexUmM8lLAVvkqpMHHGlyEVl6xXCQwZYI3ASFs5NJebSKcKBLVCWzYcJbQqvY9GGzn93dpItt4xHgi79vmq7wCYxgLg88mJbcff7wbARITfr8%2FVatp1wZ%2BCjDRMQ9%2FYQtsJMOa0p%2FmUZSNFk4TpCdyOygmVA8WsgcyNT%2BMdPY6e3sBxa81xTJMBW54t6KvzY%2BYB%2F%2BBXZOovmK01pWj1HurIA7Yk8MuiiOS%2BL92mx3F%2BaOiUeG8GHxNsZIckpZo%2FzxzzX5o%2By3IBjYrQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fdf01db022aa071ab2e049946b0bd65a2%2F169182063953315.mov)
 
 #### コメント (5)
 - **えるま🍡** (05/30 08:47): 乳首絶対見せないの草
@@ -5154,15 +5215,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/29 13:25
-- **Updated At:** 05/29 13:25
+- **作成日::** 05/29 13:25
+- **更新日::** 05/29 13:25
 
 ---
 
 ### 12. 投稿 12
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/97489f40f6ea77fe8dc823d5a96b0072/1113.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E7crqQ42TLMOwk25xSB3jFQMXza%2FmgUnURm54WCDGCvBIjy%2FfpFU82SNLr0dvJtE98qlPUUegonnLt8hH8GsrtjQ%2BlOlVdWdPzkZg54L4a0DbHRIlnCfU0pFmWlSB6E5M93Y7R07Hbns3UC6h8aixyZcElc5aEbRQtNb0ag%2FBCNm7Xa50j292UvIJQNVoeUxdlxYwbnLUR6j%2FWMTHd%2Fe%2FObZFq%2BQBYRRskV1rtz0VFmvtRcUi9l88TmTNJOg0xn8DVCvUsAjcse2UwCs6a1LY93GUs%2BIdPpasWWEzE6tgA%2Bx8gTxec9OK%2FteLzCrME6YGzfeOpbzpqtmM3tql56AfA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F97489f40f6ea77fe8dc823d5a96b0072%2F1113.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/97489f40f6ea77fe8dc823d5a96b0072/1113.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kK1PWa4r6B4O53Z6u6QrKeNPmz72a4BkOh3ou0oDX3PCEIVsLtVYIvHostLU16g2wJV7h1Y96QbyC6MMOnC27osfHvz%2FI%2FcUKujmOFvVGjwvDWtk9VEu4mSov3DEQjCHsJ0hiVyBiOlMWkr31RY4ZtvQ2V%2FP0wDbGM0YHJOMs14dKaPie%2FQSKOR6MDorh8OCC7p4YuZcVl8nROQZ3zneSrW1djwA5Sk5LI7zfeQ0BEIAHHaFVj2GE6S9e2vkjoVS%2FJLFF%2F7KY7dpFnA2FxTl%2BWzeb1reobigVkcTWcTkasHSXAaf9mFbyrkT3vx2u8PoetQqKdjeCl6UdBvrgXLutQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F97489f40f6ea77fe8dc823d5a96b0072%2F1113.mp4)
 
 #### コメント (6)
 - **受験諦めたただのカス** (06/04 06:11): あーねｗｗ
@@ -5177,95 +5238,95 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/29 13:24
-- **Updated At:** 06/04 02:20
+- **作成日::** 05/29 13:24
+- **更新日::** 06/04 02:20
 
 ---
 
 ### 13. 投稿 13
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/20a4f8d65632f32193e30337089c4e5e/Kt_JW0bLdzImpleR.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UAdj4PLoiC91gzOBdx%2FjSkkCrCb9qFLDmsRYB24CAvgdcFpgw8Y3mh6zG67R3md0GK%2FHFoErGPZvbckMudRuftYeLhzlkcyi5TnVZXM75jissbwXx%2FjK4Iyi3w676Bwi6DMo6CUtKhHHADOphWVkxRMjsb0tZuSk4dbCY71eDY9nlISoBhOvWgIAJbllShKa%2Bv8omrAfaJsBk1iuPbGDupoJ6c9d7S%2BTzR0xcHEgcPOJii%2B5Un1DPNevbZQTVTEZEMlYAZiRputSTDfHbB567dojIrxytRla1ImjILdHXx1x2ZK8DjXcYsaKmi9ASAgrmV0lYaEx9pTeaQb%2BMnEEdA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F20a4f8d65632f32193e30337089c4e5e%2FKt_JW0bLdzImpleR.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/20a4f8d65632f32193e30337089c4e5e/Kt_JW0bLdzImpleR.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BMZmlnFBdG3oJ4gLaiahtGHXn6VKXNwhN%2F8cTI%2BuvZbco9EdFf4V8VNbuEMYJgK9h62pAnJAvMrG0N%2F1EG8HxDI86tz9H4ZYu0UzedKdhPYcqOBa5zrbvCJCtN54TUxOQjiYhjyYP%2FCfssc54ASD9bC%2BEFbg2e5j1ZnZY5BI4Nzt1x7sbylnwhfIHc%2B7GgWVBPFb3DRKm1p45cK8hfudiiydxsUSUmrdz5%2FkgNqJZpaBOymfI1PFuN7XFJKYeyhQfoZbFnaskYPbpJvEoer35enbA48kS%2FgBV4znvIH9Db3HDP4Rthjk0XpBf8Tj9U6NsoUabqD9rfUQUiNJjgtdgg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F20a4f8d65632f32193e30337089c4e5e%2FKt_JW0bLdzImpleR.mp4)
 
 #### リアクション
 - **絵文字:** ❤️ (1)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/29 13:24
-- **Updated At:** 05/29 13:24
+- **作成日::** 05/29 13:24
+- **更新日::** 05/29 13:24
 
 ---
 
 ### 14. 投稿 14
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/78bd4558420efedcfcf17be7e1fd4560/LMp5abwpMt_7bVtT.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=X%2BzkzUZTkk%2F%2BSCmaN6ke5BmsShS%2F%2BTq7cFQBq%2FZCyet%2FQVoTciv3HcOy59%2BGaQeCFJn9W9TnPsKQdmdqnit2%2FsV8mlvnTrZcRKL4vLce7%2FxsPPHTVaPQ1Rim3XgIoysKpaeBjooGAU8k578f6XuKTDLoJFpkyfNECRcj2Tf9zFpYsu60vr9ohNsqQTQAW1lC241XhduTsfcvsz2rRdcEpglosqYVDZOpfeHjGJLnm0WrQTpvGqKu4LpE8bLN0Dwppt%2F5bhhb6dk2D8vb%2FyK6sFCL9NRiPAUtfTy1UImX1oHBfGIRHHzgvxysg9GX4kXJwo5qPyIBPWf3D%2B3%2FNE%2F%2Bpw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F78bd4558420efedcfcf17be7e1fd4560%2FLMp5abwpMt_7bVtT.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/78bd4558420efedcfcf17be7e1fd4560/LMp5abwpMt_7bVtT.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Ykm%2BTvr3HVvYcwe7OF9OE1Fq0RR8AgNehJphQb5b6YRVrKiHTVVqI4DWl0dDMuI044QKwmTqutQHhQy%2BadCRzDu735JqL3koopsHTebxnv9wJ4TL4jiD5h%2FVrev6AjovGWZ%2BkYeSIccVkv3dfipnBNvcLOpLmCUJ0YeeYD%2B611W7mcZE9Xzi1jTQa037Wz2dfOBThKOZv%2B2%2F2lW69u7dy%2BEASi9h3bu6eSSd0rH7i5CjfexN4v%2BDYWkoLLoZ3%2FykCr7a%2FaM8LKXCk6CG1KtLWyoZpJJi2SOpcAy%2BfRuulkoG9Wf8X3iTNMfI9Bc74EOC8vr9CSeBkSDZHmW3mKfPJg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F78bd4558420efedcfcf17be7e1fd4560%2FLMp5abwpMt_7bVtT.mp4)
 
 #### リアクション
 - **絵文字:** ❤️ (1)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/29 13:24
-- **Updated At:** 05/29 13:24
+- **作成日::** 05/29 13:24
+- **更新日::** 05/29 13:24
 
 ---
 
 ### 15. 投稿 15
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/ef4abe2c3a520bcfda16d537f329ee2b/xvideos_com_2ef3462b14c3a99da1cba275bc5ff4d9.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=3ktT9QgnpnLYJlSzX3s2kvSR%2FReEPOn0API4PR7zXtR%2BL1YS5GI65tn1JX3%2FBIKTXB8quFPToP7H8aw2cfqJ%2BgyoVhcFCnE1NhO4VNsg3ec8yOhXzRYch9ikp6NBtZa%2FoBbjjqOcV%2BnZCDuowoaKxHcaImmOyKTZagNrNQgzI0EnjmapDd8Db7a9ZI6rmA9%2BgyaRPa5ekG7HU%2BCTh8IJs5lKNmqjdz%2FiA7Fj920ojiTwVZYczU9ci8OGMFTuogax3%2BAUGFzz8%2Bhp7OXhr8cra6sFXKMczAXX4mhTOLfK45YpqEtkugzJM92PBZNrn91AIhJ1wBJRWWXegyejWC%2FrDw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fef4abe2c3a520bcfda16d537f329ee2b%2Fxvideos_com_2ef3462b14c3a99da1cba275bc5ff4d9.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/ef4abe2c3a520bcfda16d537f329ee2b/xvideos_com_2ef3462b14c3a99da1cba275bc5ff4d9.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7vZPlT2KwniJGH4daqtOMlLavdQBUMSvMa9LdnwPjUpfZGnZ7OGulbD%2B%2FEu%2BylTcQV8AnVCgwM5hzMAmRfOV3QAoZxhPh2VzZp9ENpRS5XKTn9rs4mJFnEfFsz9VwGXncHKFUry6ASpCCxmxk9rwJ%2BUgLBUDIn2gp%2FLlDRAlxBFIg%2BJnCem993q7T38LQxVgUip5yHgR48isasESnRpizHxze3ozSMacN0Aw4rHjA0CM0LMUA9Z035isCLQQiUFCw42hrayEuFZ%2FclhT9FSSrDN9bT%2FDMvNyT%2BxGL60WagxI4R0010wPnjzzdCvb0XS71G3owz7KKTwSMuNjleW4QQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fef4abe2c3a520bcfda16d537f329ee2b%2Fxvideos_com_2ef3462b14c3a99da1cba275bc5ff4d9.mp4)
 
 #### コメント (1)
 - **ピコ** (10/03 23:45): きもちぃー
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/16 03:42
-- **Updated At:** 05/21 04:25
+- **作成日::** 05/16 03:42
+- **更新日::** 05/21 04:25
 
 ---
 
 ### 16. 投稿 16
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/74d82ce3c767315cfee637908b477ed4/xvideos_com_9529bce150d34032facd3a5b2f9537ec.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=XXyAgD72%2BtlbybBlYRDF3bIHj067DyJsWeG0mrrcwxaDndzl8hemjVzb0xNs7XvEWazOKzmfc7MD%2BxfTA%2FVSxyvATdJ%2Fnq2euXm3uRbcj5iYS1virOOWL1Us1dJQEREi%2FIlaSWAYhmjSb21RT9u3zSFhm5ubZM3nGPC5KGHGPRdh6kzANm%2FKd%2FBaql90WGprIc%2B8Xc01txeGCHqod%2Fyst6Pmlkq%2FPUhx%2FP3Ab84RbfDyiQ5y9NyKFLvAowPOpYwjV1mZcGoNhxxmWctu3Tms1TInNwBwQKMOPPZvYtRzi4bk3pYvEvJpDM3TPwMxcX0El0k5aZAZAq78ApkeOrEUxA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F74d82ce3c767315cfee637908b477ed4%2Fxvideos_com_9529bce150d34032facd3a5b2f9537ec.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/74d82ce3c767315cfee637908b477ed4/xvideos_com_9529bce150d34032facd3a5b2f9537ec.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2iwTQ2UR9CQWO%2FVB3CBitIQD23ve1BtBgHW7JazjFDIBoZcjBusWslL1rkdu0%2Ba4s4W8%2Fo1DcigOmV2oKHywOAXFn3r%2FUduZnJo5MJq5jN%2BWMdfYQjjyIMUfPBP%2F2is8B%2Bio5sXVMV%2FDdNxywhZoLmzWR9e4omDEKaaBVO9cFGRzUMR4J0fjgvhYqOstV1uraaacj4mL1qTw9uHeQg25t8zNDul2eC2kC4ZRLNHpAbOV%2F8pAUPU2e8B4FNFLLguINjtImBCE6QRG5YhbrrgByFVxaCZ0q6EIv%2BiyJlBXMCEkLooeW77ezaij8Er4APnXdo0V06%2B0TFEWmqaPPnzEAg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F74d82ce3c767315cfee637908b477ed4%2Fxvideos_com_9529bce150d34032facd3a5b2f9537ec.mp4)
 
 #### リアクション
 - **絵文字:** ❤️ (2)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/16 03:42
-- **Updated At:** 05/16 03:42
+- **作成日::** 05/16 03:42
+- **更新日::** 05/16 03:42
 
 ---
 
 ### 17. 投稿 17
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/ed27af699e3ebca3a260132eacf898ce/xvideos_com_eee6800176f1e262c641a9f71366abcd.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KGd04ecxsYBhQwZ5AJlCXLEz3E1A7uHxAjaPr0eq8o0cLr8TFJ8y24jdxsA%2BHnq15cIXDu%2BfS5p0PphfZqWUxFbsiaQ7TyRPvzPiTpeaTBYy57bj0gJ1gsQf5MM9o%2BKqNRofC99mghgsuqF8bimpiXdPkjQ%2BPHaINjDRQiZQxlxRDqfRQIWLnqQTlba7mdgwsDDJySgTSb5vd3xWNtoXcpvooPsXjRNh1RXc8B9Z0Zm8Cr5Ip6Sz37ydhfeH3j7JP5MX%2BuIIa1l8IhAxgG%2F7luSUyjA5Dbcktop%2BRJKcLT7VMuCv1mOBckTxTr3jdeKXvFbGYtK%2FmWjvACq22wODDA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fed27af699e3ebca3a260132eacf898ce%2Fxvideos_com_eee6800176f1e262c641a9f71366abcd.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/ed27af699e3ebca3a260132eacf898ce/xvideos_com_eee6800176f1e262c641a9f71366abcd.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=miVbdPiUhlpUl5VVRIIfX8xSS7KqkYkDcrNOvXSHscNyk%2Bj3LmV7bZ14udCdrDsqFyc9L%2Bvg60AM6HC6DKC2J1fxznccLwt2nLVxVZDxazVgeA3zlKFUxzns30bVdu6aBRQya%2FjJqSc0O%2F79MCo3jy1m7bCid13%2F8i1k1ufT4mrrGtc7uLVHeG8JMSiab0szo8NGyP9O2AgkO0CLB4BoS8R2kK6xoOdN43lNLZ8AdNLE4fKft5OJt9hTOWGy%2FPfZSnLQU8NRG%2Bk4r9H%2FDViskZ9CSkaBftVg9YBhytj6hpcrELLTqRH%2FCcldcmhKNvxW4t6w7umPUJiiWyZoyWaWTw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fed27af699e3ebca3a260132eacf898ce%2Fxvideos_com_eee6800176f1e262c641a9f71366abcd.mp4)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/16 03:42
-- **Updated At:** 05/16 03:42
+- **作成日::** 05/16 03:42
+- **更新日::** 05/16 03:42
 
 ---
 
 ### 18. 投稿 18
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/bdf390852088e33dafe5c9af6e0b5609/xvideos_com_f2117f8767924b71bd1696e678392ae3.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GeJ7WhPEYVucW%2Bjt2QgL6cKB310k2G1E8%2FlKeOc8vyYmvrFTq6T7ihmHQobWkDzkTQq7Nq4g3N%2BWUiHmSb1LhPsvadU%2B8KaXnHRETQcjtC55Fi1bBmdoHlPPRNHb0Xv6NhMzhlGJY0Wo1gCWldyVFn7znjWbq3fXWFe7V3ygsSTbwg6G4gm1crfBD53LrC31WFiTkiKiUZOuoQlVTwmwJMmWlHqDRT1OOQXdon%2FWljlw4lk58oTcjbxE4IRwi0iH0GYz7sW6sFkIKdz0tWE3zTh%2B5hMHwhRbFur2ysOH6wVpO99JVz%2Bn8te%2B13E6NBuYrTI9hQfpU%2BVjWMl9w%2Bijig%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fbdf390852088e33dafe5c9af6e0b5609%2Fxvideos_com_f2117f8767924b71bd1696e678392ae3.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/bdf390852088e33dafe5c9af6e0b5609/xvideos_com_f2117f8767924b71bd1696e678392ae3.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UjN9r8EIjTYSSSqF3BY3P6dp35cHdZqs4PU%2B%2BxvXmTt572JcUnFxnLFSVRZnoOL4gTs%2B3f981ET0X0qsFcVjo6TF20ViMFnaNGas322Ngp8Av9zEVcgUip4q1NZcqcl11lqDzoPkX1%2BcvVtdxZI2WTL4nkLg%2BVN69KwMEBrNBkesAUdfdE%2Fyex4hNiNTyPmdBJQOKHr7DCugRfnV2XwuckdR9UlQepUV65JKldQy4EgD3AS1f4ho7Ym0HKXxMIxMCohEwl8HwPeiToPitBpKu6Tr3SegY3p49ZqAvJYfKoTXkXAh49rRfbgM6%2BGNJTU1GkvagA35QoX55%2FGqJ1e%2BAQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2Fbdf390852088e33dafe5c9af6e0b5609%2Fxvideos_com_f2117f8767924b71bd1696e678392ae3.mp4)
 
 #### リアクション
 - **絵文字:** ❤️ (1)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/16 03:42
-- **Updated At:** 05/16 03:42
+- **作成日::** 05/16 03:42
+- **更新日::** 05/16 03:42
 
 ---
 
@@ -5276,8 +5337,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/13 22:23
-- **Updated At:** 05/13 22:23
+- **作成日::** 05/13 22:23
+- **更新日::** 05/13 22:23
 
 ---
 
@@ -5288,8 +5349,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/13 22:27
-- **Updated At:** 05/14 23:39
+- **作成日::** 05/13 22:27
+- **更新日::** 05/14 23:39
 
 ---
 
@@ -5300,8 +5361,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/13 22:22
-- **Updated At:** 05/13 22:22
+- **作成日::** 05/13 22:22
+- **更新日::** 05/13 22:22
 
 ---
 
@@ -5316,15 +5377,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/13 22:22
-- **Updated At:** 05/13 22:22
+- **作成日::** 05/13 22:22
+- **更新日::** 05/13 22:22
 
 ---
 
 ### 23. ロリ
 **作成者:** ダック🦆 (koregahonmono)
 
-<p><a rel="noopener noreferrer nofollow" href="https://5.gigafile.nu/0512-kfd6954b56fba413a05050c6f335b6354">https://5.gigafile.nu/0512-kfd6954b56fba413a05050c6f335b6354</a></p>
+[https://5.gigafile.nu/0512-kfd6954b56fba413a05050c6f335b6354](https://5.gigafile.nu/0512-kfd6954b56fba413a05050c6f335b6354)
 
 [添付ファイル 1](https://5.gigafile.nu/0512-kfd6954b56fba413a05050c6f335b6354)
 
@@ -5335,8 +5396,8 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/08 00:39
-- **Updated At:** 05/08 00:39
+- **作成日::** 05/08 00:39
+- **更新日::** 05/08 00:39
 
 ---
 
@@ -5347,30 +5408,30 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 05/07 04:40
-- **Updated At:** 05/07 04:40
+- **作成日::** 05/07 04:40
+- **更新日::** 05/07 04:40
 
 ---
 
 ### 25. 投稿 25
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/6a12fcbb114883f843e98372cf4fa24e/2024_02_13_13_04_34.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ywiLXcHkCp2yrUxtwfDtpcQ2OJd4ozGb%2BaLwbGkGnAntKUcKvQ4WTJ%2Fu0acjRCw2IIYvOMjwdAyLmkO43lNKvG%2FOcsbiz4XpHlHYi2a1l2v6M4LhEzy1a6zqMA2KFuLRrEPNg8y8FnuH5V4UlXd3DHvisG8z9tQwePJEUZAj7w2YE2aIP6gBooRkVhpEmXuQUKR80oeLnSjqxbdbCXfDjuNzAuW9Em2EohdXv07XjXVZnlzWa2%2BD3cE4%2Btw1sh9K0m6Fqzzm89vYGWyiXeuN3Wbp%2BqsKdcubx%2FLyXzN%2FYWMoOZXgtJ1racW3aKhiZNdP92cGmM4Wl54oYZ0V%2FOA5qg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F6a12fcbb114883f843e98372cf4fa24e%2F2024_02_13_13_04_34.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/6a12fcbb114883f843e98372cf4fa24e/2024_02_13_13_04_34.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nFqPKWshTS08jeE9YbPgjTzV5ezBM4Fs%2BtICH7Q00hHEzKtjDX5YIXIw%2BG%2BQEmdlQRzXJoZkCmbakKFBgSMJNM%2BMmAH4U9Jg8CxB08RsHMGyyFGtdkz8AeEdCUHyPcplcnP%2BiNPFoqZg9FOiiVhfNCBnAn1qj0AabdT0ATi2vzkHTE6CoU%2BEDSJyLzEf8IuGb%2FNMrC91B918hhW%2FRPJIWW59u7%2FUDJZdApkWczcN%2BFaGAXf3xymm1O%2FGdjPCpIoqBXAsbHwhJ9d7%2Bd326eME8TyhJUzKoxIv5G3Y6GZP0Lsjr8oHmvsGSt7jZckci7Q%2BMS6Zft%2FN9OOuzkbvlI5aaQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F6a12fcbb114883f843e98372cf4fa24e%2F2024_02_13_13_04_34.mov)
 
 #### リアクション
 - **絵文字:** ❤️ (1)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/08 09:35
-- **Updated At:** 03/14 05:46
+- **作成日::** 03/08 09:35
+- **更新日::** 03/14 05:46
 
 ---
 
 ### 26. 投稿 26
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/93ab9e0a97db0744f81fb0d7f3597115/RPReplay_Final1708632367.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rNgM1Wa8lnzVVtf8q9hMKkAXKFMDoy%2F3lRkWGoQVjcll5Lic5rDt3Suadtp7uNQSZ38fqv2YYQaNVx%2BhBIi1w7uhzUAEV5FiMjIO2XXsE8pONqIqahcw73ewj402LmXyjLymY1hv42zADB0IRguAzWjUwHMbRHYpFSxuYPxJjeSUMDIi2uRWgCDAllTlfOfadjrDbvzom%2BtUzruxenlxyrUkXin4IthWmP%2BmbXG%2Fr2lnGajboY%2BrkIJIcOOfbCGuk4rEVN7k8shkblMzhN1yys%2BTgrApSTQ7S0YNB7iz7KRiSIUpg3IRI582jlFon3pq4qmoznmNzLV1En7NYIPZOg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F93ab9e0a97db0744f81fb0d7f3597115%2FRPReplay_Final1708632367.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/93ab9e0a97db0744f81fb0d7f3597115/RPReplay_Final1708632367.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=S4e35%2FWM%2BNstgjKzlivFjVnIRJlc97d9dpiVfVoCMu0P9RmkCkUE54FslHOcpCW%2FVNd7Sx5H%2BLzpFf%2Fn%2Bcl3395c6152%2BmfGBiXbqFzTV3UgfVBNEJoHpWQit8KKJAofkebYcXGsqkyp2L2PqxqhlsgRjsbdgBod3qLf9%2FiRDvvxILHjN0CVxrZMSBxPHzpjk9AriUXO4tDoMUWh1ZMZcJUdVkazRFaGOkU%2FBqMJTF8LczXh34UjK8D81GQcVicybIZaxJ2wmi3OTTiGr49Q8h01s9%2BYOgApCsX0mw1UKlviikL1rKGffT%2F01cHbwLUE10VO9J%2FPaSWIP4PofnpX9g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F93ab9e0a97db0744f81fb0d7f3597115%2FRPReplay_Final1708632367.mov)
 
 #### コメント (1)
 - **꒰ঌからあげだっぞ໒꒱** (06/27 10:01): おお…
@@ -5380,15 +5441,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/08 09:36
-- **Updated At:** 03/10 01:05
+- **作成日::** 03/08 09:36
+- **更新日::** 03/10 01:05
 
 ---
 
 ### 27. 投稿 27
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/614c00d9d194916b9107ff6ed875f88d/photo_20230128_195351013.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SucFCR4kqRz5LEyciZ12h5QJIcEWOdkdz8h%2FnzO98pKIVDxDYiPzOKow9MnxsHQk6HDtRjRZb%2FJ7z0Vj0UKkOc8Dme36P2EUjPKXQcOdrE29SOor%2FAbbT5%2BNNG0dDHmpz2PXmeFN2W1sokhG5U317zxv0vacjLLWB7rwFW1eCOujvSHx7ufsr1cMna3NKUY29SG3I%2FYORjUnVLF05Tq1U70pnLJDqPZ15bRc7RqEOlLyeVGTKWGbnt5l8UsAxfe9XOMXdebEpu6gNlVgq7DDGr1kbzNLg2iycKoI8%2B4hRRj%2BvhzBOqonHEigwz2b%2BQzBZ%2BvfU34iZlvhTgVccDFCDg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F614c00d9d194916b9107ff6ed875f88d%2Fphoto_20230128_195351013.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/614c00d9d194916b9107ff6ed875f88d/photo_20230128_195351013.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VCORdZN310GfJ4a8j7IqJ9XRNSKCj61KJxJakOlVVwMYRODquXPrWmNbE3LpTx53Gjrof5134gP0FA6lLfc10nw6SNiCgouidPeq25aGgoBUMRmf%2F1fOqFo8tXk%2FDfTcUBqZ2CEAgypdZuuRzJzofBtqLbxnFbFvA%2B0WM5%2F95zgJJNvmM13Rf99lxwWtXdLd5m6pbl0b8hrTLRm6ujnphr1%2FpOwKS7LUxsRKcJxAig79rEna2bQe6Ch%2B90SOZVhymWXgX%2FBQn6c3tL2aSHymYE7ejR0KPVgkU%2FLzPND1dBcIOqn7oJa9kchm%2F9MDtxhlrS3cnzJxz%2FxungsxyOnq8w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F614c00d9d194916b9107ff6ed875f88d%2Fphoto_20230128_195351013.mov)
 
 #### コメント (1)
 - **ピコ** (06/13 02:29): ちらかりすぎー
@@ -5398,30 +5459,30 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/08 09:35
-- **Updated At:** 03/08 09:35
+- **作成日::** 03/08 09:35
+- **更新日::** 03/08 09:35
 
 ---
 
 ### 28. 投稿 28
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/bd66a15f26ab48111f17e475cda20488/za_yu_ma_nn.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0hGIBQGE%2Fvs4kittWgFM%2BMTHJb8jE2KbccHKc84XpBcJFmbTW9uOm5Wfl61%2BKOVtnLaJ20meLZDvIQo%2BNCCU5hv6UcivVA0mf5hoa8GxuyLgx0YLf3Jog8wY48t8oPF%2FCZ6S42jDzFXvgZRSpcXqq3AiO94ztCw2jEMnma7Ykm%2BOJYMpKnbYHgbsWx0EO01Edoulu5uKWuaqq4il5lOWrqyZ%2B6oewQy0KoKLTDdUEOPdF0xM7q0yPCQTE6W6mgB2Bg1S2w7SL%2B4fzT0TTBbwZglFQxz8xk4PUjSE4gjtxEeuevgu%2F%2BMS23IgBtS7NXBLw6E5Dh6hSLw57g0r9EuqwQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fbd66a15f26ab48111f17e475cda20488%2Fza_yu_ma_nn.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/bd66a15f26ab48111f17e475cda20488/za_yu_ma_nn.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=C4j3l0IbkSfo8xqu31iUgR8LpPDFjolOfzWj0k1RnXVhiVVtze%2BsIDhw1Gkq6hShYNflC7OVmidf7qDySd5nL4Lx6ZBIpxdgQYuV7ymX8xzu3HovhEvQkku8erGv2G9i%2FFVflZjsjN5Fott8B77%2FviC4y1HZmu8EeGic6tYocMVs2G1sL%2Fa6KIYVuRWv8TkXXTqQObBt%2FrwuCsrwMaDSoaYytTodI7dD4j4zEn6PxScZgXWApc3yVYHKw2%2FVxwolV3Mq%2F1HR3rHdUyXeSHocDtUUDAjE2TqgALlmw9yr%2B13frjlziLObUy0tCfGRS8%2FGJwhEG59UEV0WnwkGyx8i8w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fbd66a15f26ab48111f17e475cda20488%2Fza_yu_ma_nn.mp4)
 
 #### リアクション
 - **絵文字:** ❤️ (1)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/08 09:35
-- **Updated At:** 03/08 09:35
+- **作成日::** 03/08 09:35
+- **更新日::** 03/08 09:35
 
 ---
 
 ### 29. 投稿 29
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/93fc080091fe26065f8049649bbf794e/IMG_1571.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=O5nR0sZzYDvhvjo2ch%2BYJ7BfE%2Brm8NPbXGN5pdTNUXr018JZ2uC2yX5tPF32Ycg3t10%2BKLaUYvN7AWCcls3VZlMsk0cxZl4%2F0xhw2jcVOpwEBeuMx3nL%2B82pigbX0M9rvTnCh%2FT4bDrp6rBzAJKpPf%2BvBMgEX0VrAU6lQzN2eZKoSYCqKEG%2BpQX4IU4w6SSqQtEGWUScEPoYhJ4ygqBUpY1iTVX5fewcmmcfAPsGFlvS2BU7pS%2FbJivqJ4nq5DFWd6cQGbGlZn%2BY11jw7PjGQa3ClgBCnVPnB6o0Mm5gMtpIUT5T3%2BEZp6Sy5RPcegGVRxkb48H5%2F99YXbT6M033Hg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F93fc080091fe26065f8049649bbf794e%2FIMG_1571.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/93fc080091fe26065f8049649bbf794e/IMG_1571.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BKkpkBRilwU9dqF37OxmOFfx54yAtQpCVJQxEHEuVHdFH7DDFRx2me75Kx%2BrKBoJPdEgzKO1b4QaFgHjfPqAaQ%2FU4KtsgAtYoyng8fyg4pY%2BHQB6JzuiKWa1CzWEdoJk2d3wQJkQdRhhPS4m%2B%2FAQ38i6Hda6SINo0cgw7dXYDd36GoFxyEuz2MNz3hSo43LmIvryUz6qlPNxtWHKC5lKmfIPhtlS9x3CgfHy4Z7MiKHcB2ZSpM70pnXSrVZORMjtClopzvFf7FP8hm0NxgzxOrc8wMA81CYwvNtIyx5ceZshlUqnvNHGOxMQkvYkh93CyPD%2BGJUqTnA005VDBmlAfQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F93fc080091fe26065f8049649bbf794e%2FIMG_1571.mp4)
 
 #### コメント (2)
 - **ユウト総統#りおとの30番弟子** (06/14 09:02): 顔タイプだわ
@@ -5432,15 +5493,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/08 09:34
-- **Updated At:** 03/08 09:34
+- **作成日::** 03/08 09:34
+- **更新日::** 03/08 09:34
 
 ---
 
 ### 30. 投稿 30
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/6c5cd6b43f40464e820227d653435a3a/IMG_1565.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YNRF73RkDi93S8%2FWZTUBCyQSrhATQTU0Om3BW%2BYeplMWWHhiwutQg%2FGnvp3JZZF%2B8u7cSItqOIfC9ihtBWTxz3UlJRebTnLvClJlbd6UguwgN%2FvnkqphmbmtDm3RC6teuSgs4mnm9dzg3ALidnAidFK5qdqlHBJEs5Q5ZghocPTQAU2rnZHtyie0aHjlv6I%2B50SV5x%2F8Wd39ZONx%2BWKYTs%2F%2FtRMeJ6llGo%2FFbNgEqAJK6%2BA7Wtys6Y6hfEjKt6QGP%2F63kVduMcEKllqJFA%2BtC3vvc031WOMCEGF%2B8GTo8yyRr3lullrs%2BP5xoWDJBIM%2B9noIMrp%2FSAqu5skWF6DPVw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F6c5cd6b43f40464e820227d653435a3a%2FIMG_1565.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/6c5cd6b43f40464e820227d653435a3a/IMG_1565.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=38%2B3zqLAeW3RmmMR8vgdtpvwc6VpGuLpv%2B5hTCNU%2B7D435VuKnPj0DIauxgE6CqvBc%2B2q2hBwBdTEDM72KSOOsnJfxGb6paaxOD%2Bbt7ezgSd7LtoDHeKa%2FGwgaGtodD%2FQd2aYZcW%2B12WD1uQx5Haul4%2B0r25kwNOQsSXzRChRQQ5TIwARRJ8NmeDCSY2itndUH4D7bnYR5wWbCPkFtT%2F7Pn2nMUi%2BOm4qgL%2FvUe1pFquNJ1UimGqWjRzfoqimZtm6FvpgICTn%2ByybnetH8zCHCXOZgC2cqH0ghq8Or27WOcr00N5CASK4%2B7UcmVC3N0%2BteT6R1cf7oTcoNKQLMk6XQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F6c5cd6b43f40464e820227d653435a3a%2FIMG_1565.mov)
 
 #### コメント (1)
 - **匿名ニキ** (07/13 09:06): まんこめっちゃ黒いな
@@ -5450,15 +5511,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/08 09:34
-- **Updated At:** 03/08 09:34
+- **作成日::** 03/08 09:34
+- **更新日::** 03/08 09:34
 
 ---
 
 ### 31. 投稿 31
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/3697597cf88402deb24c518a10d5a133/download_52.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MnNaz4%2FIxaKu78lx0tlW7woDW2YJUtzRc2XvFV8RDPydGKHkH1cw02X%2Fr7WMR6tgVLnZgfghawxqocSmAnsLUiIE2OxgjhO%2F0TduttEbFRMjp63F0atBDaLm4WTs3KOUuKUQgDPMU6fUjRMlK9uXM516unIXGPA7wWlzKfOY9DEwsbaWeBMUpR%2FeecAFLRmX8XZ6vW18Sq5eNlNE4avhnvGGoShvm1i0zqeVMUSiuvo1PolRBGu4dxFuCIdrLrUXpRVKvgLPvypZar07xwwh4%2BFLyefaB8TR2uaPNNAgOXyh7xzwESWSGOnqL5j3k%2BMtdMgmVGO8Q7at8iCYzhMOmg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F3697597cf88402deb24c518a10d5a133%2Fdownload_52.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/3697597cf88402deb24c518a10d5a133/download_52.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=XkqFyTJ2Kb60JuVCjk0PpoXNIy4%2BtkWd%2FHSC6U7yAk9jWNybCJmtMXYp0NlOw0s82qObdCFul9Qb42VlMOzK0KIjxQDiLLskGzjnkfX%2BugAOySOtr6rsVm7bqnJMDcRJDmwKnGAmfekzAg0AY5eJXOOrx7HXlGCdLWHVuEZzRw%2BqLGJC9WdTGR4fKQAdN0O8KNZu%2FIgtHKJEx5FhdP4%2BLW6ONcPyHDbQQMGGekDVy62DrYBMPSPHsmjFHYT0sBLj6DomG0lWIshZIzksbB8x4kcnGfzLIlzOLqsIh7yyZemIOgDPcce0wVVJcoa8R86N7KUjICM64zz1H2b2%2Fcu2OQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F3697597cf88402deb24c518a10d5a133%2Fdownload_52.mp4)
 
 #### コメント (1)
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (06/15 09:24): Ooooo
@@ -5468,15 +5529,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/08 09:34
-- **Updated At:** 03/08 09:34
+- **作成日::** 03/08 09:34
+- **更新日::** 03/08 09:34
 
 ---
 
 ### 32. 投稿 32
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/36df4642c1129af955915f49495b76ac/16071_1.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=51h7VkgdXWbITRJqqrRuc5APB2BmbM1jVvUwNCjc0RXtFtNAE50I89QbY7FZP2l3DgOXgITi0NNDEBREYJiG5Oo9SwS50zHe2%2ByJbLYJMQyDjoan9z0ogExy1gNGGI281yZVMXXsBwvOuSaHVvKBAawOJWR9HvMkMb5iYkLwjQMnNQQTPlH%2BfaiFjrA3ZAi3sohCrERijwfOUCzLk9pE109JRTYn7oY7nTmAc%2Ba6xqE%2BtROMGowPll8PyFAiQnVGRayPqbZIQ8nEhA4wxyt54xBbnnEMiNemuOAOUiVxzjaVmJw0gJF9PgpbyO2AZoHIWVBjjv6956%2FwLzR0w%2Fmdcg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F36df4642c1129af955915f49495b76ac%2F16071_1.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/36df4642c1129af955915f49495b76ac/16071_1.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cvF%2FiO3aGq8FSTCUdkOxutinY%2Bc7cMNO6vBopuR9XzeLRH1Wx7Y%2Fm%2Bq8Nw2bVuf1Sgsnmz4Pv8isVQFbdvNfB6cvpKXIEoNysNWyTGq%2FmGiP83GkddZ2%2BhLR88N8lI%2BZeOaAXzD0QdQh36unhyf2FuTmlB288jswQQUnfD3wwmsmMlusXfDN1syYo8%2Bx3ezOhP9nnqOJiSy4d5T%2BZ%2ByBA81i9Dk1JJ6D5P4KTXhFZTDUWBMn9OeGUIjYjkhDzElHP8DgNqdjm8a4lQalOXQx4Yg0UC70wSNbqEp0DtI3b0xT6sPt8HiJ%2FVtrY1Fzwi%2BQjN1YEHsAn27G9HjVThldJw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F36df4642c1129af955915f49495b76ac%2F16071_1.mov)
 
 #### コメント (2)
 - **Passionate Kookaburra** (06/14 03:45): エグw
@@ -5487,51 +5548,51 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/08 09:33
-- **Updated At:** 03/08 09:33
+- **作成日::** 03/08 09:33
+- **更新日::** 03/08 09:33
 
 ---
 
 ### 33. 投稿 33
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/1934a46cded89218fd7dd3cd9a547dbc/kakaotalk_1737867328009.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=L1kIqV9jCbufa0KK2sLQ4xmzVvRg8tpaoHU0hq1jBpCt8V5tf%2FjGjCDKhwt0r5CHdpamGPvRtAzE62cQBeSp8BYULUSzb68FUWmrkAX5iBqeSWnxysiMLchg63aEfgwvkU587qZFqZNcMwA3c8T8QmTB5SmWBT5OYa5znczhYMT4J8ZwkUsT45We%2Fhr8q2%2BSdyEWxlvBISUP2NH1VYMFZI7A7VijI6qOzX%2FXCi6DnXdzTX6W34%2Fk8JIJoJdxaVrdQ4%2FR8gCqFi%2FOsDKHkshTwN69mdKuXoFggr60%2FFGzOGFfF6pHSi5xmNDHN9OVogo7G5RFE91g5scBkn3OptIxzA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F1934a46cded89218fd7dd3cd9a547dbc%2Fkakaotalk_1737867328009.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/1934a46cded89218fd7dd3cd9a547dbc/kakaotalk_1737867328009.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=taVDFV0%2B8RrzehuZ%2FxCUEHxOv%2Bx3Zs5MiO7tvcWwl8B0IFPF1WFZ%2BM7dSTatcOefuYiiLgYm1nhfXdhCMq14vQu18o2YQOqsQCAWkqRXbXprJZ%2FOl8i%2F%2FzKtaFxpa5nTAGJtyv4Ux9ucZZm7sRG2d3PHMK%2FI9NGlYLF6NNMIY7%2BvfPy8hRA14CSCrncsMZDecPOYmy1o5UlMLlOzBVQX8va1tE5%2BiTZKtxCIVeSngETJQMIr3bNOFuKWOkF6jBx4mkwUVdjKNRXweECPN8Wwtn6xlQfSl%2BpLxt9KKNchuG8Dde6U3GB48gzUaTAeuQg6f1GKBURvY2OEYs9z96jGaw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F1934a46cded89218fd7dd3cd9a547dbc%2Fkakaotalk_1737867328009.mov)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/08 09:33
-- **Updated At:** 03/08 09:33
+- **作成日::** 03/08 09:33
+- **更新日::** 03/08 09:33
 
 ---
 
 ### 34. 投稿 34
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/f9d537dec61e60ff129712cf37f06217/7a11dp.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=A2SkobiSL%2B2W0DUq%2B0cd6ViDMR8GRxLHLqRM%2BhHPsIuvf7%2B3XyxnoWrmDH02NZy0UD7rIk%2FoL7cTxgcHzlauf6sVzBVGkVvs%2BKB5ISe2fZ6QlTl5lFeC7XaY4pEX2tiQRXWGGVIfqS3ENL0T59z8cvNinOU6QnyjSWLbirFQA9bPYmhBUVKfP0AImNy4gsYCI92FNOwjyvHz23hNaEyMJic6omaCHS1xAn8AxG81FU60B2%2BB4o4iNkh8R%2FzhZCli%2FD2svtKS8kJl2i6VfZMxMSKRSAl64wwwJd5NZmQGoZJGTDaXddTtEc9X8pDVLCrp1ZHga8%2BuK5yeqjvcnnD5PA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Ff9d537dec61e60ff129712cf37f06217%2F7a11dp.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/f9d537dec61e60ff129712cf37f06217/7a11dp.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2bq1oBKQJLYkw9Jdg8NihfjYgI68UMfcczUoDopdkfa%2FQWKDFSdQrXnXPxs1zmlZw%2FcrmwIJ08EcYwLucr8gr%2Fbtd9hLNuzNFNNhCOJ5ToAgZPvVuEQhgWX46KbHA5l8YhyvWmc%2B0zPMMTkWDt29GMR9uMFBHjUF02yNfO3dIemirRT70XpNB%2FvjwcPvNMhLDrlp4%2Fk4Dkl%2BfKQXSA8IELqMVz2cirLUQQjg5Oc07xITLKKsgHCL9z8d7eOmZCU4fgIjOQwlkqu06mbORVXRIqirbu93U41%2FdwPJWnaDVoaqXmY7P6ZWDSotOe3QAJ%2FJalzSQmelgP1oQhM7g9A2nA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Ff9d537dec61e60ff129712cf37f06217%2F7a11dp.mov)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/08 09:33
-- **Updated At:** 03/08 09:33
+- **作成日::** 03/08 09:33
+- **更新日::** 03/08 09:33
 
 ---
 
 ### 35. 投稿 35
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/11077c4a6c474d99d36b2ee02c283fd5/LINE_MOVIE_1740563256057.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WoJUQpsFjU5VmbXpjRo4eKaU6jZysyCYAuKeYN6OeBRZ7dkHoCji7qgM5v3bPPc4XiVZg2PP2CGQY9E%2FegegJErG32Ou7QyzQmRsyXNTdUWNfofdigufyL3Va65W2Iz%2BZBWFC3Qaw8X6C%2BO0vvSMoSgz%2FiWzV1xOg5E5hxzXo72vQG5Ne1%2FtxOXdd0J%2FPLwPW%2F1obrr4advwy3xCSWUbTRx2s9JKoen5PQcSd%2BwK3CobZdhl5QsOz7gAaw9fOq1gv4rzNI1Ic6SU3cLESE7WdQC%2FJD6FvwQBoD3r5ng%2BSeIDk3L%2FkD0Dwps7idZ7QbNcxq4HF7op6UaLnA1QR8jRwQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F11077c4a6c474d99d36b2ee02c283fd5%2FLINE_MOVIE_1740563256057.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/11077c4a6c474d99d36b2ee02c283fd5/LINE_MOVIE_1740563256057.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4sULWD4287MIkrYgrNbhTcWcfYc6tcZ%2FO25WMCCs4DckE2Vf9ew8YEejFnsHKYcE9PiFBac2NOegtd8tPX%2Fht%2B6IPOCaaQ7KJesdZhNv51Gai0bk89vfGbyceERDd1o%2FEI0mk9HvPplcwak1IHF3ZTe4mxi39vvcs%2Fx%2FXHJN4c4o%2FuvpKJxwsqpTzsoG1ZBDM5yHnzVyXE26cZNLR9trLBh4yIdHZ5NnZ7LUgb2U3gUlmUn%2FEdZc29OWT6%2FLk2iIJy1waiOxL9PJzTo2%2BuayAlZqs42Q5ycWb0n0bYClgcU7edwNEBcJQljyCqrutJv0r0OdRVgnzJ8%2BcFfEEbkJTg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F11077c4a6c474d99d36b2ee02c283fd5%2FLINE_MOVIE_1740563256057.mp4)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/08 09:32
-- **Updated At:** 03/08 09:32
+- **作成日::** 03/08 09:32
+- **更新日::** 03/08 09:32
 
 ---
 
 ### 36. 投稿 36
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/8c4176a870d7949af9e5e1d95e5108c5/ojgRQGL9fGVjBaHX.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TeZdU2Y283zPZhYmjs2j5cRR8OFga3hQWQPA1oIfXTWIiet6ywO%2F3aTJ6JpbK2wPbs1Nd1Z4yvH2%2Bg95hKKJAABABid91CPlYq3iCdAdIr6oUPQVG9RTvBgU72gwzjAwwnn4jgrIyNcSsdSNiqSTwnGWu8QsDpTEOzXiPZC88YddeUYgAEKuGIBGJwqWwIQ2v3Fv8edtMI7rSwGkFMY1Ra4wihkSR8kFAZzVXCdiZ8TTYw0OITcfdpFRzqIPPH1h0wzrmNrHUERHefmhpoCWb%2BclLxkVIyFeNMdYW8LWvCwCfgkzdJIqHYF0kRfM0OfTV68a35T5r8L7x8TUQ0W2mQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F8c4176a870d7949af9e5e1d95e5108c5%2FojgRQGL9fGVjBaHX.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/8c4176a870d7949af9e5e1d95e5108c5/ojgRQGL9fGVjBaHX.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=XHIk7gZg65QLg14nYT39Bgc1lBIYZ26xfY9voOffECQgzphqbFLsyqicZK6M4GDmALebZYiOnmt83MPYH4hLOB5Bu3hiZ%2Fn6fhtJfJ2dgWchKi5limU4nM2O5%2F0zkhXFTTRPYiLDNBDd67p%2FBQ7Z%2FJLBlNIW0Pe6exlUhkVABB0x5kVpHWRO1uJ%2BRu7SsajBTc8wbzbivrjcj8fWQBjjitWWb8qcF7%2Bu1tkrc%2BZXvxpWgXO3XfWvC3pYQvy3Mko7R10BXIsWUC5gfXbqrHhUdldIHiQ4QoXdnSRldKImtEVdF3r2HYgVkww%2BAv8wVPRh186V0J%2BEpqq8wmISBXGEjQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F8c4176a870d7949af9e5e1d95e5108c5%2FojgRQGL9fGVjBaHX.mov)
 
 #### コメント (11)
 - **受験諦めたただのカス** (06/01 23:56): トイレやん
@@ -5551,15 +5612,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/08 09:32
-- **Updated At:** 03/08 09:32
+- **作成日::** 03/08 09:32
+- **更新日::** 03/08 09:32
 
 ---
 
 ### 37. 投稿 37
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/ca4082b07c45e0992e6f3d36d1f40cfb/331e4a3c13d64b599cfceb604710b392_fixed.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zSCtC4qRhvjZUY0Q0291ymi2hW8ZFExqc2eNzKa7tAUXni9BfwC3xEumPRm4F40Y%2BGsNzEsoqRw21tIVC2Y4FerECdwQhp5fx%2Fegdcr%2FRsU7N%2BUyJ9KeBEjbautmdTq3T4M%2BeS091R9Ile%2BXPpXjgXuws5BiLPJFDAvEDJAq2jvO1dwVwzp3Gl9llggleN%2BmMA%2FyvkY49Uq9KQqK93hJVcAh0xSkSzRDKYUWZWzs4sR1x96%2FFKjHF4Zsj9xe%2BF85d4JDkcm7W%2Fm1uBv%2BgQeXvyyxVbf7MO9vzTOIxLPD6diw01oq3W4RLkIJDj5QTM%2BZTFXDAIkHY2nh%2F9Ew7TIAkw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fca4082b07c45e0992e6f3d36d1f40cfb%2F331e4a3c13d64b599cfceb604710b392_fixed.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/ca4082b07c45e0992e6f3d36d1f40cfb/331e4a3c13d64b599cfceb604710b392_fixed.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=vquqcgMz%2Bv5Tb869dqshC6ViEDpH9iSxD90uTK%2BMFmC08%2BZ0EIAV4SVKN1iA%2FWTM%2Bkk2Y0N19Vd5i6Z%2FszpO5zxSRBRiplGpKhEsoZ8dSAwbRvhvyVWtLGdm0f8KPnx26aZUUuxE11BX%2BoFB2PQRgWkKBkIfZG6ZobgWFqYBOODOM%2BP8P%2B4Nd2wSR47QORkyvU8MviR1gHvwriBN%2FZ9D7iPwHCxUxpnc1LQIpa6RceHvjbUsgOQF7X8XOIt6DzRUBwMALYe7wXf652PV%2Bi1GmjquW3nwkTHttfPUUbAuP8YTN3dgiCMpW5Pkkrn%2F82ZC%2BCISHS8tYyz%2FWi5NGAYoCQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fca4082b07c45e0992e6f3d36d1f40cfb%2F331e4a3c13d64b599cfceb604710b392_fixed.mov)
 
 #### コメント (2)
 - **ｵｵｳﾁ ｻﾝﾄ** (10/01 00:58): キーコーマンw w
@@ -5567,15 +5628,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/08 09:32
-- **Updated At:** 03/08 09:32
+- **作成日::** 03/08 09:32
+- **更新日::** 03/08 09:32
 
 ---
 
 ### 38. 投稿 38
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/692b0bb21bc6abe2aebcfb98ef5a81fc/u4QgA7UUiyjApxJz_1.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ZY1ZzqtA5MgFK7yKtFLJZxkDIo5ZYjD6HfpLBejx%2BDZaAbmVU5h0ZdLBAE3Ck5bY%2FcjgdJWdWpZOFSrBePpREFP%2F4RPN02hiif%2FFBQpFn%2FQb6Mq3%2FT%2FK4jzffftpyrrFZVW97H0surEY7qaESS6oveSi8vvGoWO6jkfo%2Fv7Q9wT%2FCaLkMQH72Dd%2BvlzJEAUK4s%2FigP5RVn8CU9t7C%2FN8ZbzO4VxA9l5XWwCfTkZIf60x2UMoAO5WpfBYdV77scbizfWCHGNGjBGgh0mn3nYWqi8fmRIWtTeC%2FRtBXgKEUFYjguk3BO%2FRMEGroTT9EL9swV646UxAg9X28sfFXokhGw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F692b0bb21bc6abe2aebcfb98ef5a81fc%2Fu4QgA7UUiyjApxJz_1.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/692b0bb21bc6abe2aebcfb98ef5a81fc/u4QgA7UUiyjApxJz_1.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=3uespoHCfROzZnK0apSofJo5QBH2lpjCzRUVQcu2R0%2BRXCP8%2F0SPBkYYhB48vaiD5sdS%2Bx5EdlRt4Njqf4%2FfWG%2BWCXeUM1tjg9IkF2I01up0NRUlCQV0BbJ4IVoIF6yisUt8u1jAW4R2fYtbtOoUW%2Fiq0bCAZAiifhNzN3mzuXUUX1Ar8s0i98UZrcM1jp6BGx3%2FoWDoX3datXFr0ZjVstsvvA1bVrn3%2FaBr4MngC2BFkdPY%2FeKAmk1JlUR1kIWFhEIaSE%2BCuHKlz%2Bd6jG5XtVNTiUvYr3yQsg0EUiSjC5QM%2B9bJCSVN8Vqj%2FRVjPrElJVS%2BmkR2ssP1AcDSfawlZg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F692b0bb21bc6abe2aebcfb98ef5a81fc%2Fu4QgA7UUiyjApxJz_1.mov)
 
 #### コメント (8)
 - **受験諦めたただのカス** (06/01 23:56): キッコーマンｗｗ
@@ -5592,54 +5653,54 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/08 09:31
-- **Updated At:** 03/08 09:31
+- **作成日::** 03/08 09:31
+- **更新日::** 03/08 09:31
 
 ---
 
 ### 39. 投稿 39
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/2c27bf6b81d1798ee65537cae7b986b6/video_493040435116900642_AgApfGNg.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=d0PO5DNPNsM0vXeCdiyUiT0gTO2FPCfk7vbtquDscRtTnmf0AwEwhtei4BCMoNKA25Yw8ir7Cxa%2FEyz70Yc78nwwAVTa3mNrkFo%2BWOR%2FAuZtPIIPQY3emtMyqkJe6qaHadXBWQaO9oUwPRisA7KjAbBDUZjmDxP%2FAr6lPtUXRCvBmv6%2BOWh0l4B1JpiTK2%2BAnRvKTVZ2v2RHnr240ZqqGKEUEN4t7vHb%2BSJrCdKZFL5kur%2FkbLNaXohgkr%2BebZyo6bt2G6UDTkOHmGRVidUA1tzUbtPfxZwW9qJbXsKPZEyWyUoefgOrBWfGsvcvaSr3ZqRvf5Hy8rxwymIz%2BizWGg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F2c27bf6b81d1798ee65537cae7b986b6%2Fvideo_493040435116900642_AgApfGNg.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/2c27bf6b81d1798ee65537cae7b986b6/video_493040435116900642_AgApfGNg.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=8LeqqvZX%2F%2FVGV%2BgqVmdimS4hPxGdNVErckdVT5qcK2zCrVXr4AtSbNgwBh4ktoaoppls7NIvf436M%2BwCryqKrZ2eD6uidnZqpQkxeg0nufN3RyTSa7llnCM6glS7P%2Bf%2B5YG4dBwkHQwKHOedzqR1y08m8PGU84Yd2JQEbcy6MPC0Xj20GVNbR6VZsb4pb8B%2BgH6xUhJg0LzPlAdGsXWGxqneLoI6XvnSYe6FC6fpaUSs3KM9WBnrpwO0fx3nv0BF3htlfQnGvf3lO5Fy1xYm9QRek%2FuO1wsoikBFUMGuaLIWmSX%2F5itVYD8GUuJFPKtE%2Bg%2BVu%2BLDkA8z2Hl6FMy7Jg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F2c27bf6b81d1798ee65537cae7b986b6%2Fvideo_493040435116900642_AgApfGNg.mov)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 13:44
-- **Updated At:** 03/07 13:44
+- **作成日::** 03/07 13:44
+- **更新日::** 03/07 13:44
 
 ---
 
 ### 40. 投稿 40
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/3a8fd1ca0a3fe50ec2f7d6275492d5f1/IMW09WcYuaVpWzfs.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lFB7Hd8P4YimQxww05MkkRp12gV99c3H7MM1UVXW%2FIyc0y5dE3alcAO49J0%2FMX%2FBYEpF9nhQIz%2Fb8cVeS0C4gHnnfkJCndAWWzF6s5otwcyYGQrQdRmCDI2nFAn735QDcNEOtLPo73C03Kad06sd9Id3DwzzfMNGIksodWbOVycb%2FH8oMhdf7nqJMcWOl6AK8ddY%2FzM4azMzXjzxhST4Vx4qvp4yxYuck%2FfYFsQ%2FOMoq9vbMAdh7A1vbA7pKBFyAkgjd2981Kwh2fKvHwID2EEKX%2BmKnZIyUpgA66WgxmlmKJWpNlJQOxPTuhg%2BGgcbrqqwl0FGLgVJsNvIXkVvsdg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F3a8fd1ca0a3fe50ec2f7d6275492d5f1%2FIMW09WcYuaVpWzfs.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/3a8fd1ca0a3fe50ec2f7d6275492d5f1/IMW09WcYuaVpWzfs.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RlzveTZokafYVSwmqm7bxy5U6bGb3ooOQ%2B3UvScPvyI2WiYXidVwBNWz2%2BTCh8LJi%2B63gneNp76BSI9Q%2FX9eOodScPqbG07OH5Qi5r2Mb8PdA746cSUx1qxzBJzLzSZBdnbKeCdqTLBjDDt9oM%2FcJU%2BgHHLVt8ffrx00I6I%2BbZahfcx5AqXU3Q7jrrrUEU1pebLrsIbcCe9c27gL8bMX2HAM885QK8Wd%2BEJpPIIKOi8q2urF8r6UEQiskO4kZdS9rc7JZDuD9YfmgejXigrkysI9hP4apKzmMEK472nREWNe1tR26KvL7s6B%2FVLHyKbVmiokNoXBiLAXruK8C7qKgg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F3a8fd1ca0a3fe50ec2f7d6275492d5f1%2FIMW09WcYuaVpWzfs.mp4)
 
 #### リアクション
 - **絵文字:** ❤️ (5)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 13:44
-- **Updated At:** 03/07 13:44
+- **作成日::** 03/07 13:44
+- **更新日::** 03/07 13:44
 
 ---
 
 ### 41. 投稿 41
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/601e48cda56bc2d35c4cabc316a2ef0b/43345063.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xCDR1sBQ6gJ6KWbJiirpJlmipBtGsbXfYjq9sRkPoyIW80Gd9s00krTSqAho6wFb2tx8jxUdghEsMa70nOhf5LCUEw8X%2BxRmf6P9wwVFo5JVdCOEZty5Nsemh5iRsWcNmODBl5m%2F7CHl5ZQE82e37pUQ4udZ%2FaI9dENWcGtlaKGhVktfVOH6DvkQkUy%2FtWhDvLsmIpRM0%2FzSuK0xOnWT8JLvMky5qKmAae7ZMAKqEpEijLO6TplS3AfuAn25BDldPiHRbSBnwrUHfbXAgRZfA1LRAA9gMQpmoG055QcLDe7O%2BqsNAsoMR2MlN3M%2Fm91U%2BCjD2nlzvjGT2qzVNE%2BH4g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F601e48cda56bc2d35c4cabc316a2ef0b%2F43345063.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/601e48cda56bc2d35c4cabc316a2ef0b/43345063.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ckUxiz4trdt2n1YLzx%2FJXffCuDjkf63VmYwrixWpObdSPdkitYz0g5WvFYjPvV4DshURjGVOS7NPGh6aW7BlCzNJpxL9dKKT7RGh7FdVMvlezPP1wDbQfhXxqV4fF%2FD6l0F5mR7c6FJrIcwWMXxFAMJziwYT0%2BeG5mk39yxCTpmOOQzQOmd5NrR%2BEqRK1omwcPhzPhccCcQSEm1D1ly98njgSNfRLbl8NYFbGVDFIGiHwNmoj%2BRTD7zrg%2FOsEwoFEKdTcoGSL39Rv4fzRdqv7wEll6GLA%2FiNtbBaY6dkC8qhvnKHzNxCqaTEr%2Bxib8TFnnoCF4ykWcCFNCvdK0WD8w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F601e48cda56bc2d35c4cabc316a2ef0b%2F43345063.mov)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 13:43
-- **Updated At:** 03/07 13:43
+- **作成日::** 03/07 13:43
+- **更新日::** 03/07 13:43
 
 ---
 
 ### 42. 投稿 42
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/0e01157340c12161fca078734bc5fb83/IMG_0436.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cPAiAjVdQgC9g47KlJEUO%2B6Ssyp%2BimofhZ4G71%2BTzBZvt%2B0ZJIBQqMC%2B3DHIVSL%2F4i127YhDryNeXgW5EpOHTE6lCvKybpu4PLmw2ZCDzWWcfFLH7hF38xx69FIUygTfUgvXguUmM%2BDZloH8vYC6pq6B8vyOpxkryIFmZXrHaAhJ51t3Bt5Sfr9dk5c9i%2FcB7PXDNxk44PCD6eNIMs8ll7oezrrZwfgIqMpPvtQ6BRklehNlfB7%2B5x77viADXr7A7l2TAieOrhh186p4XF2WfMIO0fHWV%2BOGcIXBeKGPK4xZdyHv2uhx75tJuiadlwUjo5ynQ8A%2By29SBbYczUd0Ug%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F0e01157340c12161fca078734bc5fb83%2FIMG_0436.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/0e01157340c12161fca078734bc5fb83/IMG_0436.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=gMyZ%2FEiIF1rLPTezxGFJ31gtYS6adgwTKRmsgqpM8588wbYJgt5VCXKMx0%2BIwhtQt0p6zubSFf%2Fc%2BcGhsTg4Ogb%2BNJJ9VbnA0zNM6fmcJkEHKKusx5FmRW10IL2rdFt7Zr%2FDSL92P84vPn5hfSQr65HQHuZDX%2BD0HoV5koGxlezuYd0Z7Y7REr38g%2B0WvVL0ZGxi3K88sZrXmczLUw1SWXWNjWjp7G4bL2jyPfdPIv1YWOuqR9e3xPKBi%2FNOcNdZ3WlRWvdo3MkmohS5OrWk9aonezA49MvoRSAZO6Sl9ekrMEYb2Cu2mr9qC1ZxmCNrV0jlnMloYIoC241ugBSRug%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F0e01157340c12161fca078734bc5fb83%2FIMG_0436.mov)
 
 #### コメント (3)
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (06/08 21:52): キッショwwwwwww
@@ -5651,42 +5712,42 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 13:43
-- **Updated At:** 03/07 13:43
+- **作成日::** 03/07 13:43
+- **更新日::** 03/07 13:43
 
 ---
 
 ### 43. 投稿 43
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/317e9a78be50d77389827634f16d5898/RPReplay_Final1718428732.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1hy5y2HbaavUZBiHYlA9LrtczPMdmHM5ViJNxssbdr4i18w47ZYQqIa21WSJPQjy8XOYDJimwZw2lh6QdzIvBZ2icyuqCH9CcFHDZtoyBY76WIAN2KroNLPpB5LjCzRoOx4GNPx0rDoIt8eNQwxLBspuHYbIEsBcaiB3Wu%2F%2FD2sMChC%2F7cqUV9G2%2F50RIiZ33IUrE4wI96oOWRAwsBjsib9dmut1W0jXc%2B6nfj%2FgUn%2FM1oYamFIF%2Bepe7Rr87e5J6Tt4dARJBlThnNRJ%2F8kWr1NdlffI%2BQWPAkZSUDc6HmgagSbZ6f1%2Fq%2FEmjWztofnHXoe8sKeAy2j%2F9PWVx3tQJQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F317e9a78be50d77389827634f16d5898%2FRPReplay_Final1718428732.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/317e9a78be50d77389827634f16d5898/RPReplay_Final1718428732.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cFmLSQXNSUMY6LHgTGv6nDhtklo%2BD%2Fugej9nYN00Dy93iIllCm%2F%2FkPPtOG41NOBj6nyiAxq%2F%2FDNMicvT%2BbWbTYMOz6hDy8UUivxl%2B3tPQU9OleaY6AHIJnxO%2FrVgu2PlSSQ%2BMGknzgH%2BWdAXbNClUVKgzMtIKoYAn%2Firx93n%2FPtOsqbho6FzDwJjqL824don7UQWkamLyGBCn%2FAL0%2BpRveW%2F3%2FPrQUyEYmpjG%2F00YWQr8wUKVkNwQOP%2B%2FQkYlMQCOzLN86KJE6aCDddNWy2LjcfO9dcqXF6gDKHNufwkvlmgT7iuUkxYwslJQ7e9sUGAVMRNiD1L7lYnDxBuzQN6tw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F317e9a78be50d77389827634f16d5898%2FRPReplay_Final1718428732.mov)
 
 #### リアクション
 - **絵文字:** ❤️ (2)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 13:43
-- **Updated At:** 03/07 13:43
+- **作成日::** 03/07 13:43
+- **更新日::** 03/07 13:43
 
 ---
 
 ### 44. 投稿 44
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/8d4bd9a6f4c1df117ada9e7d359e85b8/472ac0c38387145d62e81395d1e57e0604510dac.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=P1cbBzIOeZkAQAdaaGYQVd9ZUy%2BX4AHR%2FogQaf0snlGB4DTs8YdlEqiOKONvZ8NShgZoOLYLuOKxul9Htp9qNdUxPMiO0t6rGKcpG3zoR%2Bwrpe7Dr4woWLrtKmXWzUY2gf3t5a2yQcqALvJUYjXnnSIDfQVFs5kuaIPpz4uqPnEt4VZWRNGYeaZylNhIQRNyaA9GThWzRT7pHv%2BSaXzpXLZ3wE0MM8cW54ZWfUHv42XdSHTfl9ShZWZJVMtsWlBHhpBqn3ZsiBye9Z5bf98dYnaQhZkLUyOCivhABpHB8uU7M5q7qpJZiqQC%2FbRc%2Fp9b0IvMDViCD0QhRDJimxWRIw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F8d4bd9a6f4c1df117ada9e7d359e85b8%2F472ac0c38387145d62e81395d1e57e0604510dac.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/8d4bd9a6f4c1df117ada9e7d359e85b8/472ac0c38387145d62e81395d1e57e0604510dac.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cFfNsxgzJW9P%2FiVDn2CkrB8oEkUar53pDiZ9OjJj3iF8IgPBYXLvmPlfQvTQZ8ZeUljVHDd5itZ8gcR86dZt9WVVnvLKFFgOMG8Nw5MDUe3m3s1TjPcafB2k1JJdxjUIAZIMwHk%2BYXkqN3kh7nMWqEC3ayhbP1Soa9zbFfLRjeieL%2FtREAKsjBLvm%2FHRWMkIWuR503%2F%2Bl7UX6E%2FAsTDXLZIrw5mt6Lh5iOtPEKaoUZpC%2BhQLX6JVFpt7pcSi1hJ47QzfEcN4M5NYDTWdoA4z6l0vNdwGqFaTTa8xfiYKouR2EBNRupLZ7Kcml46ziNg2172b%2Bd4KGPeSr7XhPIqk0w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F8d4bd9a6f4c1df117ada9e7d359e85b8%2F472ac0c38387145d62e81395d1e57e0604510dac.mov)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 13:42
-- **Updated At:** 03/07 13:42
+- **作成日::** 03/07 13:42
+- **更新日::** 03/07 13:42
 
 ---
 
 ### 45. 投稿 45
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/72bcca144233af2c16a7d7178e752f2a/20252162135.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EcXLUBDpEBdNoiA4EDFBhiXlyMTPo4fxtkCi9wIfiDS0ae4dGkgzvQF6kuuNt4lJ27Hp35Lf%2FnTGKKugg%2BrADQOFz0lmROjnh1CR3Ta%2B%2FHOwMtRoWAw%2FHMwphauXLF0udhBXTB6GHnCP2Abj4tzFbrSF0QNW4ERfWOUHAenLRSmlXoV1Y59Z%2FG4kzxSoglQ3Doy8rQyz2aiil4oTJjIna%2FfNtORTCNnV9nEaOu%2FRvMp92P9%2FjCNwoJcqSuVzPsRr34JKRob%2B3koqNBlFCBUwwQirMSEo6rGKffA4BOujwsrylreiChld%2BxcG0oto3q4qgyLz2rsjFcQOweH958ku9Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F72bcca144233af2c16a7d7178e752f2a%2F20252162135.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/72bcca144233af2c16a7d7178e752f2a/20252162135.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SCQ83hPm%2BBhwkRM%2Fr5jZ6UCwXFguxR4Rb%2BsM2MQo1qCsdcTDH5efOOH1kgtyi%2FGxcm%2BY8Ved%2FrDjbkax1K3ynpRULAwbHWVq5V%2BAsJuuwi7XfRjmD4BOl8RPqCbcxaJYM8b89gBEUeRi1ZFtlAmQtAx93A9frI5ts2LVM7QC0ML0F2ZgJ5%2BYBaFDX1NxsRSNduc66Yuxmwd9Jlm1R6zJBUhIQolEx5AuUfAPAfzjxP7oFJS6oaD0WJ56JY0Hf0%2BBF3lmlkKUWiGuGwr7HzSCjTZ5g1UjTB4PHkwn93xuhOd4wm6C%2BfE%2BSSQblkFwGPNdGf%2F%2BsbwzgkZhamOBXtGimw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F72bcca144233af2c16a7d7178e752f2a%2F20252162135.mp4)
 
 #### コメント (2)
 - **✧イケメン✧    温玉チーズ牛丼** (05/15 22:11): このひととヤレタラもう人生惜しみない
@@ -5697,44 +5758,44 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 13:42
-- **Updated At:** 03/07 13:42
+- **作成日::** 03/07 13:42
+- **更新日::** 03/07 13:42
 
 ---
 
 ### 46. 投稿 46
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/1968fa4d050a95df4ca03d0938aa6057/68CenVMZWtt3Gp_n.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ayicBfgMxIir5F7PbtbSFHXVA%2BVyWDxfntO%2FjO5l4m10Qa8rvUkwou558WULzlWqrGiO0h7cYkuola1SyWpE2WWti%2FAB3kgjK%2FzujyrqYuf65J3ce2j6%2Bwizyml1yhUThAzWB3exng%2BmbPjZkBe5aAz6rv3k%2FIqRSxxEIp9WeYfYHDZL0mdAQvdBlB%2FTW8vzb8XmiRhsiS4%2Bv4MO0gCyGlbqPTFVyRRbsozWd6qBmjNnWBfnu%2Fj1wyzCO6KyiWsQo1pv1iEs2XlQifsUSJrrmuGkE%2B7gPaXicnIuozeB70SZp5nNu00bABkmHpmY4D6ErcnzDhk7m1mROWRlw7NG1Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F1968fa4d050a95df4ca03d0938aa6057%2F68CenVMZWtt3Gp_n.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/1968fa4d050a95df4ca03d0938aa6057/68CenVMZWtt3Gp_n.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7%2BByAo7XFbDgNS4CgDNOyfAdasOIWnYAVZYK2sKSRurRQize4TcOlfptI57Z3O%2B9k0vek6ecI5ws6DW4tkGy7%2F1Ap1Er3wb2ZMiQ4160nfxWE4%2F%2B1n3qehUcezsrk04QdZvA0YRljJH6liE%2B38zizA4%2FUUkAt1GaJ24gLvXNjARjZeBIdZs3liIsBYewO4hqdSik5ZEcmddRnXuZuBqDL%2FZXIAZmrbI1QykrxJ9CXY%2BsmgbJxjCtujHu2S8WbTjnoSW6qF3fwTxddpWZG23xT0T9HH4zl%2FefRjB74E9KWJD6ABVNIwk463xKN8ZyNWgNWJBz8A5JWpelzkunMnhzyA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F1968fa4d050a95df4ca03d0938aa6057%2F68CenVMZWtt3Gp_n.mp4)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 13:23
-- **Updated At:** 03/07 13:23
+- **作成日::** 03/07 13:23
+- **更新日::** 03/07 13:23
 
 ---
 
 ### 47. 投稿 47
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/0402e650af515b44c38253cfb3783b23/doQFWO6Nty68kX47.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0sCwleyhnDL%2BmrOZJ7x%2F0Xxb9uASpzyKgWwzHgXGQhWSO8jrOhYqil%2BFHjnXcuIItQv9qQtPyqve5KgaTMiX%2FIKwNHh774YtQH%2F8FdQL6VOT82eBW6o0%2Fd%2FrgH36LDNJHGflHpItoRQTwFJFx6x5jbJ20d3maA8EVREVQzuCTnZJNR%2B1517MAHxujqXZgrUQpeVlyxpl0E7301z3ny4aA5r1D0p8r2oLUm%2FPOFYbxeuC4m5Xxi4fnFPeRMzfZ0g6ToXVF3NtCqmKE1rASCQQ6o%2FAvrmJqD4fBuC00ua%2BKALfQQuMPohPIOeDJf%2FEp6QSbI7PB%2B%2Fhigat3PFaGiToCQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F0402e650af515b44c38253cfb3783b23%2FdoQFWO6Nty68kX47.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/0402e650af515b44c38253cfb3783b23/doQFWO6Nty68kX47.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=shhkch27xiqW%2FkI%2Bfeq361W5b7s2v8KEzuf3QAEISTGobhNrCGebDjId1dFlwBe2iknUZZZEdsF4tK0hrHNQQBneOOti5t1OIyCajZaolpbgVw7ROI1G1F8JDXCk3V5%2FzgzXmFVvvDXbJYcv3aTgMKYuhcnwswo%2BfRuoK3vI5ktwHJHM2X3tQHMjbOf6%2BttWMhaw3rikrv6qarLiv9nKW124Gf2UyfGpKGewTOfgNG9BK6VGVBT048EmnCexwNVgJSGy%2FWsvuIrWQJQZl2HdM%2F6D6vRkUlAygOI0H94CQZooL7xK%2BbI%2Bds1miV3mMnPyeusYZRVgV6mzPOmoxcfiaw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F0402e650af515b44c38253cfb3783b23%2FdoQFWO6Nty68kX47.mp4)
 
 #### リアクション
 - **絵文字:** ❤️ (1)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 13:22
-- **Updated At:** 03/07 13:22
+- **作成日::** 03/07 13:22
+- **更新日::** 03/07 13:22
 
 ---
 
 ### 48. 投稿 48
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/eb17420274e7c8b9b776c84f92bed731/2VGy0qSNCGjy2pN.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lBUMx0vx%2BwxMNj3%2FqCc%2BXxUTOX1sQnpTlJyAd0PAgxKaXCoJZcjDSLHOAfMdcf%2Fk6q09y5kuf1QZLUvzeEJOIE0Vlnos%2FMZzfDGnrFOXgEZFEmR6l8uE7NfawFvP44M7AVCY0Mdb8cgsX2I106EsVu2jW12wzPy8cyorthn24GwmtvSDuObpyWzkbwHt3O2HUEsW3mp%2FkvHKP21DyfZI0FoVw7QCLlIwjEriinRW5pCNGrTY1IP9pvt%2BJ0xWHdtPBtr5sxJXdc8349RB9DOyHz1NHUPjhuXnO0PZ1sX7J7YdEgj3KH1Hoz0dI2GWZLb0jBRgLXw4QTbIDkZ%2FOyNCUw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Feb17420274e7c8b9b776c84f92bed731%2F2VGy0qSNCGjy2pN.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/eb17420274e7c8b9b776c84f92bed731/2VGy0qSNCGjy2pN.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0HPiRbgEwzIFuPkB%2BteCm1XEaM6rxROlo4lXpD5ievEcd0Fo8MNeXJ4azGGsujgkuhVgSsFA2%2FUptKBxxSrVJXE1qNLm1ORmn2SABMDB80L674gUf5v3Ye6ykrGzOXflDuZEs29LIVwy7C8O8j0JcmmMJpNT64lBKvny8bFcf8vJF0FSvInVoDQze54L9JnpSpylEvlTswgxlwK540FgzsqlnEAHPaGoEUz0KpOVHb7fJPdqBj1xGy8H%2BXdOn4l6fm4LA0ZEblgp2ImhHj3w0w4zbkHd5S7a4jbpRhi0NPm8dU0iRhYllzerEt4pi2qAhh5%2Frte92FBRGRzu85UCXA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Feb17420274e7c8b9b776c84f92bed731%2F2VGy0qSNCGjy2pN.mp4)
 
-#### コメント (23)
+#### コメント (24)
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (06/08 21:54): ちょっと別の面白みがあるなww
 - **あうぇrちゅkmんbdfghjm** (07/31 13:50): パイデカすぎやろ
 - **あうぇrちゅkmんbdfghjm** (07/31 13:50): 抜けるわー
@@ -5758,33 +5819,34 @@
 - **宗己** (06/16 01:03): ぱいぱん最高
 - **ねこちゃん** (07/02 06:47): せっくｓ
 - **うかさ** (07/19 05:15): なぜ、顔出さない！？
+- **クロツグ** (07/25 22:44): ｗｗ
 
 #### リアクション
 - **絵文字:** ❤️ (6)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 13:22
-- **Updated At:** 03/07 13:22
+- **作成日::** 03/07 13:22
+- **更新日::** 03/07 13:22
 
 ---
 
 ### 49. 投稿 49
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/001ffda95b4fdc7604be216f38f0ab8d/462484165502173253.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=L1%2FYFkdoMC1xRi4nSDMlF3GsEXu%2BVlsQKF5t78t%2FKTbKNUQbww9DQIne7m7IZ%2FCaSrx6sXm19x7msNZS9QLaDW1Cm6jEx92D8%2FMCxDDubR1Y9TjMwS6DQmwSaCtICdPwGWBGj%2B1UFgogZsRpWikrjjY660%2FiRDVLrEDI375DX0090O%2FzgmxnGljVDTvbJvfxGBlhGHpLYypxcLntya6xaYjXBZU%2FRFtFnfJUH5MElu8X%2FTWBhizaxBd6Zy9gWc%2BPOs6hFw8TjxJMvxuV4stUQtcq08ulZrPNy1tSt9pqeEk3jB5y4okOQXPtA80Pb%2B6%2BE8sDxkseulOXofeewCgzAg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F001ffda95b4fdc7604be216f38f0ab8d%2F462484165502173253.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/001ffda95b4fdc7604be216f38f0ab8d/462484165502173253.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H5ifvQ8tLGopA%2Bsk%2BwK4aBRvpVOS5%2FK%2FO33Ox9gqghUI1o2zu98CEB6266s0fayYjLP30rLaXfaR81d9Xf6b%2B1Qg5vyhnC8s%2Bwq8F3%2FB4M%2BbW54qpigVG9Qj4Q4LTLUWlM0m%2FrIZEW8TAbyRbSNLWvYldVnvkNhlhdlFt4pGQRqEiwTH4kN0n%2B53LukyUmFqbtcG1ohiEnECjXPGHVgCowwfNX3fCnrA1Rab9ans3yiB1WwAa6stlNGzBhy3fQdLvnQWSub6K0q2tjtl9Fw8cFpHQDX85Gi3tnz0S%2BTVRIAb85hPJXXWAhasaQj0sZyiJ61E1hJ7qoX7ORM1jVu80w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F001ffda95b4fdc7604be216f38f0ab8d%2F462484165502173253.mov)
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 13:22
-- **Updated At:** 03/07 13:22
+- **作成日::** 03/07 13:22
+- **更新日::** 03/07 13:22
 
 ---
 
 ### 50. 投稿 50
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/53118be061a938e3adca1fc0c3bbec35/ouSe8ZZMOgz_flh4.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ZLFmauZMtjHMA%2Fief5gPDKnlD%2FbxLZOLWhR4qCd0eKY2zBSy67T3%2Fnsvsn6mXDjfG3GrQ3SOqR5ovV2XmyBGdkSHgfuHYrUPgEQwg9kWfQ12a0gkGWBNXgQ78C18CD9TQWZRaGUgA9IQ2JP7VTbLhbRV4TXDeunHBoh%2FLcG0OKEoC2zUACOZbYGlxZV1CKxjVLjo2o5R%2BwZTMvsZ2z4l1Moh3JXGBOmW150T%2F62KfraIvrhW7NJiAMoHnt44SxZP6IVhHAIEPRt3fZt0JHjbOw4onxtuFtvOqHNiVixtHQIFpofQhZMLgnrv2D%2BvPyX07uiUaOzZ6Pwnfwcpku%2BBOQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F53118be061a938e3adca1fc0c3bbec35%2FouSe8ZZMOgz_flh4.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/53118be061a938e3adca1fc0c3bbec35/ouSe8ZZMOgz_flh4.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WryN2rmVTcbkk49w2xXhtFQi7RwYrT7fOLGWBoeBqL%2BRdNlq0b3onQxf7lVl%2FhBrKXc1pggpff94emyECJWJhOg0lvn4plS4XvDGz%2BolKoqNIejGTsYY4FGm6moaFyx2Oi6k82bwRLVnZ%2Btwgd0sCMa0sW7nFbyInfBEkmmgITEQInQr7BSbnjTaQa3UziasPJsheLQvWYt%2F1uRjK89qykyOtdJFcFUz6Zac25ZsIohJFPts0RA2LwfpfB%2B9Vc9D53fgBXRnnFMF5%2B0niSz2Zwvh6lOnoHwgSwnPyVYjyn%2FW8HZf%2Bj9ln1BXZgTmPJo9ssKUpUrg8DzpA6XXsrju1g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2F53118be061a938e3adca1fc0c3bbec35%2FouSe8ZZMOgz_flh4.mp4)
 
 #### コメント (1)
 - **杉山力斗** (05/05 17:43): タイプやわ
@@ -5794,30 +5856,30 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 13:21
-- **Updated At:** 03/07 13:21
+- **作成日::** 03/07 13:21
+- **更新日::** 03/07 13:21
 
 ---
 
 ### 51. 投稿 51
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/defaf929f88cfc82990999170041df76/1113.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=m50IrF45TPRr3G7xqfhH1kQnhGqn249blPoPe2wUZFJyScalAgam5RT0XbnCzxM6o6LNgLu3VfYLQKl8zWQuHngb06livhj5Il6P1HFDLJ8ZY9RJDP1n4oBR7AX9XkOjVynjfiWeoJjApIsslB5caGLRZRvBoVpaWkA5%2FLFYVkcU3IVQRVMs1TB0UtxNx6dH6wq3cVx3oQLSz6BdYrMUlv001OXK8OHEVbqtD5kkfWAMgVSINVhT83%2ByG2IJGWZbbYZBhn%2Fig6E7OBjmY9dSK4Cxut5kW0JGq2y%2FphOKCMcmTpUSmzlpXlC6Rh3tBVcIAM54seoMwyxYIYLttZ0eQg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fdefaf929f88cfc82990999170041df76%2F1113.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/defaf929f88cfc82990999170041df76/1113.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=gKeF%2Fbbv3TMS3c%2BoEhUypJP%2BFEWRW3Vh5Qv1Q%2BHS1AGSVokjHQfssDUl7Xe3DCFrD9oWAmQy%2BJiRJ5IUajLOo8OE6aLuag30NIRxpVI98h1AiVCjOzN8qiqSEohyZVwqkNka0o10o%2F7qqpG7CdxA2xj4v5J%2FOZjNP7LWaVfnqVzbR6ivhJ8fHvfIhzf6zz9FaRuikVDZVz9QZuG%2BEC2l4VIE0SMwOXM6w43XJDSVuqdo%2BzCbt7PBMvNWHLg%2Fnhy4e3ZG65ljAmr6NJf%2FI97v77eO7suyMV9SlROjFRqb4nmPD1Bw49c2L1Ksz6pi583%2FM2zNEBgOp8mrNi9F6gfD4A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fdefaf929f88cfc82990999170041df76%2F1113.mp4)
 
 #### コメント (1)
 - **💛きいろはーと💛ルカ・ドンチッチ推し！** (06/30 09:12): こえきも
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 13:21
-- **Updated At:** 03/07 13:21
+- **作成日::** 03/07 13:21
+- **更新日::** 03/07 13:21
 
 ---
 
 ### 52. 投稿 52
 **作成者:** ダック🦆 (85044200)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/c25d6b564d5055b0cafec965bdfd58cb/7mHmf_h0D0fNBie_.mp4?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xpX7hmeXs9S6ETdRIAW9%2FadXzlz0Dh0W8ywgacWjbXxmB37sYUfl1DPN8AN1DzMAjTs%2BNYO1mxqkUqM4Hh6X2xh%2F3Cq%2B1crutFvtYyESvHSowLArSj5m%2B59z3Vs5jjYVJXhSozrzKoRF%2FKww8g3l7AkQME%2F3fp0kbZmVX01YyafL7mZcNUJLK8nZip%2FxCJiA%2BkUdpT5cpG%2BCETfxuMW34nMW65OpvC7Jsp%2F6HpNkBz%2Fc2aAkb%2FDTxNOLJlmShzgZ7dHZwAaKl%2FkUOO0OPsQCG0woIl3We0qnETU9ZenznmsaR%2Fn%2FhxBLUyUjrJBSR71yWlmciiNHftZWAncBDS4djw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fc25d6b564d5055b0cafec965bdfd58cb%2F7mHmf_h0D0fNBie_.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2723618751/c25d6b564d5055b0cafec965bdfd58cb/7mHmf_h0D0fNBie_.mp4?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=His6VD7zDYZcySC1CZk5LYzPC%2BT%2FECzeiOvSkcitJLIwO%2B5XZXKZxc%2FvmLoC5HzFwUWDHWmmqONpF7%2ByT%2BbYnQAoiOa5ZSLGA7QuurUUfkhtAh7ixI1ZFVgX9gp6aREhadGAGp07dWLwyWlhPHKmElplVPP8RWwTn5qcSgNbaRui4Lob9%2B9tKeyQ%2FRLFWbcF9Wx9E%2F8Izxu5t4A21ZqAAi3hpa4w0VetU5BVYInb%2BhfiEd%2FXrdpgEk8vsvTwZMHqdOemgmaCgUFcDOaRDVNWiWwwiHzkBQfSu5i299oduoDLfHFwbgYPNHkpuVWsm1berluIYCzbaGK1I%2FOlcDZv3Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2723618751%2Fc25d6b564d5055b0cafec965bdfd58cb%2F7mHmf_h0D0fNBie_.mp4)
 
 #### コメント (2)
 - **受験諦めたただのカス** (06/05 07:05): ちっさ
@@ -5825,15 +5887,15 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 13:20
-- **Updated At:** 03/07 13:20
+- **作成日::** 03/07 13:20
+- **更新日::** 03/07 13:20
 
 ---
 
 ### 53. 投稿 53
 **作成者:** ダック🦆 (koregahonmono)
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/7590f63226bfa96a63c4e3aebb437b4e/cachedVideo_4.mov?Expires=1785546253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ys02MqIEEAdbUzQiUYSy7ddQloK1NwY3udHIHuv3nBOQAQsJFGVXi4q7FkvcK995rgJmfbB329AXgOYENbbvaacsUXsZxC%2F5lHr1vAow0qWXJVgsmJUST%2Bw0b%2FCM7YzM6pUoUpOoyo%2FaC11w1apAz%2BY4BArbj7xbCJsyhlV8ilf4TPIvDzTonh%2F2BTi7loBFPLXWsDH4KoQ41o14745uWlU3AlfFIj88c%2F%2FJeko9St8fWdSHU13KFfCoY0PJxZYdOylLI%2BCPgn0Oi0sTgoD%2B5Ic%2Fc4pTaWY7uUa4SGuoVj9X9FRbHHwrS%2BgzCixRzxhj1Iibyzh5ho5LrlwA8WJJgw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F7590f63226bfa96a63c4e3aebb437b4e%2FcachedVideo_4.mov)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads/2863200253/7590f63226bfa96a63c4e3aebb437b4e/cachedVideo_4.mov?Expires=1785831273&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ogtAhk8%2BA9JAZg%2FKFA%2Fv4uewuS%2BwqnYtxHnkzJ4CxLGqjCBAxH214M8HhqbZ4dfG%2FAUxyVK1yCeYXWZCFrPz0gjNdy3okx1Cbqv%2BDTrPQ3GKcjE3xsllNztWvvkhaGnSNF2fvBJBJSvnjZ2JOCDuvqg3JWiEsNpvNkjkCh6paa6foAw1YeBOTLu5aaMlK0Uoax5oFl47M0eIM%2BexaVFHCsLPgBEU0448hbBaXaCphdWV6XTyuIOJWt6hk%2Bc96oPisCZjbyFv6%2BzDeRFPZKUNvx02DMhJECXQohUKhHLwgo68675MerHbi5p%2BLCgq%2BuZYo50iSByOKPMYhv%2FjVEilWQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2863200253%2F7590f63226bfa96a63c4e3aebb437b4e%2FcachedVideo_4.mov)
 
 #### コメント (2)
 - **受験諦めたただのカス** (06/05 07:06): かわよ
@@ -5844,7 +5906,7 @@
 
 #### その他の情報
 - **投稿のカラー:** ホワイト
-- **Created At:** 03/07 13:01
-- **Updated At:** 03/11 03:59
+- **作成日::** 03/07 13:01
+- **更新日::** 03/11 03:59
 
 ---
