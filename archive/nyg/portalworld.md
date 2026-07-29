@@ -1,4 +1,4 @@
-最終取得: 2026/07/29 23:28:42
+最終取得: 2026/07/29 23:58:57
 
 # Padletポータルワールド
 
@@ -687,7 +687,7 @@ BAN覚悟で
 ---
 
 ### 25. きてね
-**Author:** taiyaki (taiyaki0201)
+**Author:** たい焼き #とりももとペア画中 (taiyaki0201)
 
 なんもない
 
@@ -953,7 +953,7 @@ Proxyをできるだけのしている部屋(受付)
 ---
 
 ### 36. 聖域部屋
-**Author:** taiyaki (taiyaki0201)
+**Author:** たい焼き #とりももとペア画中 (taiyaki0201)
 
 人が多くなる…はず
 
@@ -977,7 +977,7 @@ Proxyをできるだけのしている部屋(受付)
 ---
 
 ### 37. カフート学校
-**Author:** taiyaki (taiyaki0201)
+**Author:** たい焼き #とりももとペア画中 (taiyaki0201)
 
 治安がいい、安定の人の多さ（*いつでも人がいます*）**初見にぴったりな部屋**です！初心者大歓迎！勉強部屋もある、マイクラもやっている、作品コンテストにも応募している、ルールや制度がとてもしっかりしている、プロキシやゲームなどのサイトがたくさんあります！とにかく、**充実しているので、是非きてください**！
 
@@ -3594,7 +3594,7 @@ a
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1785940134&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=XHavpZVXUoFLgYSMrv3tGAmL0v3WdvvYc1A6Hn3%2BOHv2uKw2YCYFOAQv%2FMYoGHX8IARP8AvzjLf%2F%2BeSQyMnNctB8hZc32fs2yJfXHHiY6zNIKAlfBSpSE%2BmkpO7QjkFRVDYqtmxq8qrXOwmlEmzBNNzl%2B8pmD60cC1rJBVoyKyDEvg4laaWdg6Wi2guQWCIn0dngstBfqmVbNuyy7yyjU7Qpf0%2FoZHx2DzMWS584AMqsNSjPWm8b5qJmrx9lx1uaVWW%2FJBDYOIQzxl9PWcO6VKpbAcxPChIZaCyVPNJwvRU2LNgDDNfN%2FKerr4E72VIhOPPsfw265WH%2BUYSXDHRk7A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1785941948&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nbSuRdBIbIdStqDpf3bGICb2V21NPqyq8WFGgeDKPa%2F6Y3q6rv5elEI2q84O3unrmaHQxxC42X5CBxuDuPT0VfrmWbIRvNOswt2k%2FqDlfWk5%2FtoUNVvQtaD9BdcClQ48MLHeH6E9jIZ9IYdh%2FLIFeJRsoBNIEkSOB%2BIo37glvahxNtsM9e0xUQBFotCaD2%2BcrjTrh2uys47SvYoYir1%2F5%2F8rkQnPmbHEYMWlOVrG29B152rgLWMbYcu9A9fGEWutZIVmi1DKj0IE1OqIHOXLq0cbXEgcJV%2F1Fuz5UOAzaX7qhlc%2BEm2oub%2F4qAjLHZ1jrcskDjbFhxjBJi9u2kaR%2Bw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (2)
