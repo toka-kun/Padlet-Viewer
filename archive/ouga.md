@@ -1,4 +1,4 @@
-最終取得: 2026/07/28 12:30:36
+最終取得: 2026/07/31 19:19:28
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -7,22 +7,63 @@
 ## 要約
 - **リンク:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
 - **所有者:** おうが (18jt026)
-- **投稿:** 357
+- **投稿:** 363
 - **作成日::** 02/16 23:41
-- **更新日::** 07/28 01:24
+- **更新日::** 07/31 06:07
 
 ## 管理者　連絡
 
-### 1. 朧が開けん
+### 1. おうがさんが使ってるゲーム作れるサイト教えて下さい。
+**作成者:** リョウ[yamada takeru] (Ryo_shinpei)
+
+お願いしやす
+
+**星評価:** 0 / 5 ⭐
+
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/31 04:23
+- **更新日::** 07/31 04:23
+
+---
+
+### 2. 誰か朧の復旧に協力してくれる方いますか
+**作成者:** 時透無一郎 (r0300353)
+
+**星評価:** 0 / 5 ⭐
+
+[添付ファイル 1](https://padlet.com/r0300353/padlet-xe704h90k5x163d7)
+
+#### コメント (7)
+- **GP** (07/29 02:35): いいよ
+- **時透無一郎** (07/30 10:53): スクショとかで状況教えてくれる？
+- **BIRUSU** (07/31 00:52): へー
+- **GP** (07/31 00:54): おｋ
+- **GP** (07/31 00:54): [添付ファイル](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/zV61Q6nB8AgyQO98) 
+- **GP** (07/31 00:55): こんな感じで何も出てこないです
+- **BIRUSU** (07/31 04:26): うん
+
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/28 12:39
+- **更新日::** 07/28 12:43
+
+---
+
+### 3. 朧が開けん
 **作成者:** 時透無一郎 (r0300353)
 
 なんか
 
 **星評価:** 0 / 5 ⭐
 
-#### コメント (2)
+#### コメント (6)
 - **GP** (07/28 01:23): なぜ
 - **GP** (07/28 01:24): 雑談のとこ「あ」が連打されてる
+- **時透無一郎** (07/28 12:37): まじか
+- **時透無一郎** (07/28 12:37): 重くて見れん「
+- **BIRUSU** (07/31 04:26): ｗ
+- **GP** (07/31 05:29): ｗじゃないだろ
 
 #### その他の情報
 - **投稿のカラー:** ブラック
@@ -31,7 +72,7 @@
 
 ---
 
-### 2. 夏休み中みることできないから時透に任せとくね
+### 4. 夏休み中みることできないから時透に任せとくね
 **作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -53,7 +94,7 @@
 
 ---
 
-### 3. アーケード専用のセクション作ってもいいですか？
+### 5. アーケード専用のセクション作ってもいいですか？
 **作成者:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -69,18 +110,19 @@
 
 ---
 
-### 4. 最近会話少ない🥺
+### 6. 最近会話少ない🥺
 **作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-#### コメント (6)
+#### コメント (7)
 - **時透無一郎** (07/18 01:19): ね
 - **時透無一郎** (07/18 01:19): てかおうがさん見かけない
 - **どぬく🍑** (07/18 05:03): 乗っ取る？ 
 - **どぬく🍑** (07/18 05:03): 冗談だけど
 - **どぬく🍑** (07/18 05:03): 多分受験あるからだと思う
 - **時透無一郎** (07/19 03:35): あー
+- **GP** (07/31 06:07): いー
 
 #### その他の情報
 - **投稿のカラー:** ブラック
@@ -89,7 +131,7 @@
 
 ---
 
-### 5. こんにちは
+### 7. こんにちは
 **作成者:** T
 
 **星評価:** 0 / 5 ⭐
@@ -105,7 +147,7 @@
 
 ---
 
-### 6. 荒らししたかもごめんなさい
+### 8. 荒らししたかもごめんなさい
 **作成者:** Jr.
 
 心入れ替えます
@@ -128,7 +170,7 @@
 
 ---
 
-### 7. 新しくブレインロット修正しました
+### 9. 新しくブレインロット修正しました
 **作成者:** おうが (18jt026)
 
 **星評価:** 5.0 / 5 ⭐ (2)
@@ -151,7 +193,7 @@
 
 ---
 
-### 8. 新しく管理人になりました荒らしは無くしていきたいですあと新しい部屋作ったよー
+### 10. 新しく管理人になりました荒らしは無くしていきたいですあと新しい部屋作ったよー
 **作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -169,7 +211,7 @@
 
 ---
 
-### 9. 荒らしコメントは容赦なく消しますので
+### 11. 荒らしコメントは容赦なく消しますので
 **作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -185,7 +227,7 @@
 
 ---
 
-### 10. おうが権限ちょうだい
+### 12. おうが権限ちょうだい
 **作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -207,7 +249,7 @@
 
 ---
 
-### 11. ミーティングなくなりました
+### 13. ミーティングなくなりました
 **作成者:** おうが (18jt026)
 
 ご心配かけました
@@ -259,7 +301,7 @@
 
 ---
 
-### 12. いけます
+### 14. いけます
 **作成者:** う
 
 教育員会にバレたらどうなるんですか
@@ -278,7 +320,7 @@
 
 ---
 
-### 13. 投稿 13
+### 15. 投稿 15
 **作成者:** おうが (18jt026)
 
 **星評価:** 5.0 / 5 ⭐ (2)
@@ -297,7 +339,7 @@
 
 ---
 
-### 14. おうがおる？
+### 16. おうがおる？
 **作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -312,7 +354,7 @@
 
 ---
 
-### 15. あおたん荒らしてる奴がもう少しでここも荒らすと言っていたから対策お願いします
+### 17. あおたん荒らしてる奴がもう少しでここも荒らすと言っていたから対策お願いします
 **作成者:** 原石
 
 気をつけて
@@ -331,7 +373,7 @@
 
 ---
 
-### 16. ブレインロットのパドレット荒らされて入れなくなりました
+### 18. ブレインロットのパドレット荒らされて入れなくなりました
 **作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -368,7 +410,7 @@
 
 ---
 
-### 17. おうがさん入ってねタニモリいるよ
+### 19. おうがさん入ってねタニモリいるよ
 **作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -383,7 +425,7 @@
 
 ---
 
-### 18. 予約電話誰でもいいからいる人入ってー
+### 20. 予約電話誰でもいいからいる人入ってー
 **作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
@@ -402,14 +444,14 @@
 
 ---
 
-### 19. 投票してー
+### 21. 投票してー
 **作成者:** れいり
 
 **おうがさんのアイコンどう思う？:**
 - **かっこいい:** 15件の投票
 - **いけてるぅー:** 2件の投票
 - **素晴らしい:** 2件の投票
-- **あんまかな:** 5件の投票
+- **あんまかな:** 6件の投票
 
 **星評価:** 0 / 5 ⭐
 
@@ -427,11 +469,11 @@
 #### その他の情報
 - **投稿のカラー:** ブラック
 - **作成日::** 07/03 04:12
-- **更新日::** 07/22 05:40
+- **更新日::** 07/31 01:09
 
 ---
 
-### 20. アイコン変えました！！描いてもらったのでこれからこれで行きたいと思います！！
+### 22. アイコン変えました！！描いてもらったのでこれからこれで行きたいと思います！！
 **作成者:** おうが (18jt026)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -449,7 +491,7 @@
 
 ---
 
-### 21. 一時半に戻ります
+### 23. 一時半に戻ります
 **作成者:** れいり
 
 **星評価:** 0 / 5 ⭐
@@ -464,7 +506,7 @@
 
 ---
 
-### 22. 授業中なので一回やめます
+### 24. 授業中なので一回やめます
 **作成者:** れいり
 
 **星評価:** 0 / 5 ⭐
@@ -479,7 +521,7 @@
 
 ---
 
-### 23. れいり本物です。信じて
+### 25. れいり本物です。信じて
 **作成者:** れいり
 
 **星評価:** 0 / 5 ⭐
@@ -503,7 +545,7 @@
 
 ---
 
-### 24. れいり本物こい
+### 26. れいり本物こい
 **作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -528,7 +570,7 @@
 
 ---
 
-### 25. 問題！朝は4本昼は2本夜は3本これなーんだ
+### 27. 問題！朝は4本昼は2本夜は3本これなーんだ
 **作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 5.0 / 5 ⭐ (2)
@@ -551,7 +593,7 @@
 
 ---
 
-### 26. すみませんが全てのパドレットを削除してもう一度最初から作成いたします
+### 28. すみませんが全てのパドレットを削除してもう一度最初から作成いたします
 **作成者:** おうが (18jt026)
 
 **星評価:** 5.0 / 5 ⭐ (2)
@@ -667,7 +709,7 @@
 ---
 
 ### 5. 投稿 5
-**作成者:** 長ネギボンボン (naganegitamanegi)
+**作成者:** naganegi1364 (naganegitamanegi)
 
 ゲーム
 
@@ -683,7 +725,7 @@
 ---
 
 ### 6. 投稿 6
-**作成者:** 長ネギボンボン (naganegitamanegi)
+**作成者:** naganegi1364 (naganegitamanegi)
 
 ゲーム
 
@@ -699,7 +741,7 @@
 ---
 
 ### 7. 投稿 7
-**作成者:** 長ネギボンボン (naganegitamanegi)
+**作成者:** naganegi1364 (naganegitamanegi)
 
 ゲーム
 
@@ -715,7 +757,7 @@
 ---
 
 ### 8. こんばんは
-**作成者:** 長ネギボンボン (naganegitamanegi)
+**作成者:** naganegi1364 (naganegitamanegi)
 
 **星評価:** 0 / 5 ⭐
 
@@ -1047,7 +1089,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5962375268/ac6ed9898afc26ce9a73ba8e19a1a481/IMG_2824.jpeg?Expires=1785811966&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GQjIvQzm6CsvdSgOI8r0PyP6c42SytDUiwcTeZKVyGwX%2B476Fl4og93fq%2BheaXo1BOh3IjWYtFvSitxlNALc7pFKWF8kh8woQ%2BR%2B51k2bqScLxVi1Ryv7E3fHVRCNVvoceydIKOj0HQ23LGtdFB0K5IpXoJnCCsU3VunBmYWDGfu43CeSFtr3WVKMD45xWWAd4U9lzSUhUges4vB%2BUAMzapeqZVa8i6aTjz4TIdkm8k2VBoj%2BDjykzwvR4dVT4VT1cOE1mL%2F4mS5YdWOaJjl%2FkblXpmyVcSoZsS%2FtIb7qzG%2FgMML9yHZm8OJDGOfBuoXd0qp6iFu%2B3mw%2BOjM5Eb3RA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5962375268%2Fac6ed9898afc26ce9a73ba8e19a1a481%2FIMG_2824.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5962375268/ac6ed9898afc26ce9a73ba8e19a1a481/IMG_2824.jpeg?Expires=1786097654&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=HIF7u0jNWjQnAiT8Vv2D9i0xkGyUxL6rhfpnafsLC5%2BzPg5m2q7kxP6p7xbptoucGylKwEMGtEkJ3bIYXgqRZvugmEofKTj89Mk4lFcgxdh6zK5gpoWi6bXF%2BqwKmtQ%2BPG71M3AWxCk4vWRdCSdkzG8iF%2F2x2G5tSXBS1ZP6STwKmFh7%2FnRzqjH3bSE1v2wmM48PVd8Y34tx7RJivnR2zWZpnGHN76LZgnWRjnYc3SCjdeUzaTPcTw9b8K%2BFEa6FJEDMMpDouVzfhSp4ko8laR7eCLrP8AToPHRAVaB5%2FdXSC4meupkkC7fsp7Pmk5GCbDAOZfYEau1efwSPbSTxew%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5962375268%2Fac6ed9898afc26ce9a73ba8e19a1a481%2FIMG_2824.jpeg)
 
 #### コメント (1)
 - **BIRUSU** (07/18 11:07): うん・・・・・
@@ -1102,7 +1144,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5956111832/064c67d781371544e3ff7ecc6383902d/images__9_.jpeg?Expires=1785811966&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1kkWiSseurWHZ6QX%2F%2BCgjLt5yFBLiL6Zi3qEnejxw0jtkmg156fzTRG2Pmc8XjwJAWxOfKif6L4fn8k3eDiZsOS2XbmkACBakL3c3ITl4H6W2us7Dwxf8uC5mrlriKUM9XqBuYONMb2wuTDBpNr9MmESzktamOJQACZtcdbh%2FC8QPeHTLVVp8FyfjilC3jNFjjp24xE17kQRONs%2BxC30YYJXwGA45Nn13n8Zalrc5XgvESyjJ9vpFXI4vYmRVOudk7oMcndvch3NSIYhdd9g9LfZDa9NxOHoCSltTVKMhspp%2FZy0dvL0T0Rzck9MmERWAwJWmedbirdsRmIF%2BpXrKQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5956111832%2F064c67d781371544e3ff7ecc6383902d%2Fimages__9_.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5956111832/064c67d781371544e3ff7ecc6383902d/images__9_.jpeg?Expires=1786097654&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=gZrZmmSMF0TWQDuV6KB7n7uHV5tGuqzVifQ%2BrhgeAhPSAdgbExTAV4nzlWdeFm%2F6URKI8qEFtjyP%2F210Ync9hFTxvcxEDVBokgagyet3anowk%2FQwTytH78ZyFvX72cihGabzvly6vCenpZsGuZ17LqNU3VLjxei4vs6PoIywZT7AxnDekzSQPVjZErbeBb0KCelNs81sBi%2FUm822hZMJgjHgUhZaVYp%2B9oZm%2FEqGyEeD5OdIwjrzvJt6dYmZeDzcctNVV%2BcdBtLQ%2BLRWNKN4dsSGPMCy9ibqpJyoYXtIxJ8Rzt8BmWDLoNpXPWDWJGS0TgLFlF22wzjop33T9JPsLA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5956111832%2F064c67d781371544e3ff7ecc6383902d%2Fimages__9_.jpeg)
 
 #### その他の情報
 - **投稿のカラー:** ブラック
@@ -1335,7 +1377,7 @@
 
 **星評価:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5937220308/4d9e647823457c740d1c1b6a04064331/drawing.png?Expires=1785811966&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7X9LtR%2BAVEoZF8oNsveoBHNW0RKcH3g7Q4zMzRKZA4KAXjnthzNvUMAeapbduLE3fYOtC9hMqR1tnAx6N64SEtMPvG8i%2BNjfbWQTC1LRFBiG1PCaZUG%2FBRp9ANDAOI%2FZlt3g1PU3rcqXG5bNeULKvXdPBT6Y%2FP2FasyxHAMcr7pYbDQhSlhgaxPLe3CEXPyqYFZbgJuklcmKEPTfQrbEitiEFJsVg9QsP8ul61TTpEk2JM1PW5DpzRrI56eYgEhHz0FHfmGwpGmkV9Fp%2BtHb3ECIyiunymgPzqVwz5Bk5LYcju5XG0HyTPR0PHe4PucdOwAg3hgeJy2a9nKvXL3hlQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5937220308%2F4d9e647823457c740d1c1b6a04064331%2Fdrawing.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5937220308/4d9e647823457c740d1c1b6a04064331/drawing.png?Expires=1786097654&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JwpCbLfxMyBqs03a%2FSsFSM2v6dQ3EFmQ8TAMAVRM3Dxh%2B%2Fj7Psf4CvPSub%2F%2FctcOHFVrQ%2BTdfyhH%2FOLsuAXW87R%2BeTRJ1I0436kYWObJJBaYat%2Bih%2B41Vb61axRGhmBZWdBKFzPfraCXdgzEPFiMmoNXHi5Sh0rHgrA0wSJzFbn17Zw0t3LfGmpkKTqXAM%2FjXHq4Kk4%2FObRIFoEkF%2F%2FnMVq7hcS%2FnUi7NaQ%2FnIZTyuKKqOmtAZwb9lm5YiVjWXKMU3il3s1izPU%2F7RTWS7zQywc6YpmweyvGjCGsVSoYBZhKdG9FIzXxamYQIdMRPpPhvyrqcuSFSdR%2FCh%2FNQKTjcg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5937220308%2F4d9e647823457c740d1c1b6a04064331%2Fdrawing.png)
 
 #### コメント (15)
 - **R** (07/10 01:18): ドラえもんやん
@@ -1366,7 +1408,7 @@
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5937304859/a2455a8f93bc42284eefcf860fe5a5a1/Screenshot_2026_04_28_15_09_42.png?Expires=1785811966&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ICPkgThSbq%2B8u%2BXFMT1uKcV1IAEkxB1LnmfCsJu9yJF6OhaLKWnHm%2Bt8lxrxvLXEell7WrGGO%2BaWxTowY9S2jjpT8zAaI1ihkP8Fl2R6T1uZmPjblT84f3OCSfbmpBaKOuTuo8qj2FNzozHU%2F6ok7lOR%2Bci8mGAG%2FUWbXai%2FUY7zF8Wx6PjQDw8mCTMbmgIziP2VtrmPEZVTLcMakxZc5kHr%2Fgd7njAP3Sj1FZKwlhFxZEiZW7yDSl%2F9fn8oYoX724UwmMDm5Bb4tndF3vboYUaMEuyX%2FVdt%2FO%2FeO%2BFSR6kwo8j99gPfTFO6MwPPXWiObVKNVWVov3ZHg1wyopvZYg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5937304859%2Fa2455a8f93bc42284eefcf860fe5a5a1%2FScreenshot_2026_04_28_15_09_42.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5937304859/a2455a8f93bc42284eefcf860fe5a5a1/Screenshot_2026_04_28_15_09_42.png?Expires=1786097654&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EQqY175N9r5iTkKb9Rmk6AyFMoQ4LH2aR0oPNHB4mTwFg2RJyES3%2BpclaUTFWJP%2F%2BzWYOL3l%2BLUzDT38%2BDnOr7FqOv1HOWXlRJtLB%2FKed0X9knZXPB%2BhBYuah3nQrxvlAU2iGPpG3WGfjZwBJj776Uu4iYNXr1zaTI%2Fk%2BXolxfvq26iip2CkZ9tKUOVOmmHjrXdLdQm5A1UoOUiUBgbGpm1lq6rl%2FyqQhNbYuM6JJX7wvvhMIHO%2FXvXgShy2BG%2B%2FYSu7E7R4AlzL5xWvnWC2bWJO9MjGnBbbkmH8Bz2pRMSEvSQsuTUMjUGepIHIh56rkjRb7%2FrjHQeXqnSM4bEqZQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5937304859%2Fa2455a8f93bc42284eefcf860fe5a5a1%2FScreenshot_2026_04_28_15_09_42.png)
 
 #### コメント (7)
 - **どぬく🍑** (07/10 00:11): かわいい
@@ -1536,7 +1578,7 @@ Class123とは、学校のタブレットでもできるゲームなのです
 
 **星評価:** 0 / 5 ⭐
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5928757876/70d2f96c88fce06bef7d68fd987d0482/ScreenRecording_07_08_2026_16_06_04_1.mp4?Expires=1785811966&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=j%2Fra2L2qXujzaefvbZpOJ4EoRGLgysUCVNLv%2BCrm23AwE1XOxOilr%2F%2FigVqi4fUg0EAq5D2BXsMZapVXiwisqZzLKRAfDL5Hi128IfS16uOcRP0J9ST%2FFpZ1iPMNf%2Fzl7Q%2FoFujWQtztVAwR9dah78IG%2Bm%2FtqxEoRYqr7xjf67h1yuG5bayqA4WBib5NrT2QHdSxx3%2FuGBdqiQg8%2F4%2FT8EKmgm6mpoeYcdNwjPVFXBrruBKnYDIOV6wjKJj%2Bk69mzFmmeiqDhASfhXf%2FFw4tTqztI%2F%2BaVIq6nwwb4Ga%2BjmkHrm%2F90DT7YFSet%2BdiOk6XodCwMfCj5k26ge%2BrdoTvnA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5928757876%2F70d2f96c88fce06bef7d68fd987d0482%2FScreenRecording_07_08_2026_16_06_04_1.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5928757876/70d2f96c88fce06bef7d68fd987d0482/ScreenRecording_07_08_2026_16_06_04_1.mp4?Expires=1786097654&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dcT3LQxLYljG7tuNmHeGZ6h1LBUKTerQmBg6D3OWj9bhfSrhQNsTw4apUlu18KDIhaNjUWO75wcvDLQ22pC02Fe73hDR%2FXEV49TPYex6mD5J0421I5VuePlZ03FauDS%2FgO9HmRHneVfu34w6vztkuCBkJBLHfpJe3B7L1wQ2e3bUAsnqL71Wlk%2F5lm61BMKSKD3tCYQ0JQbF%2FeZL7UgT0Gy50H2Oh4yTGWBIG3ngNCqyj0o9fFuTknlk9A349blFDJKKIslrrjiYrr330jWRlbabCQ6QidfV9xtQ6Lrrv1zNmP8XrsbHQzrHV6mN5IDJLAG2pQ7oGGLVXtVb4Emy6g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5928757876%2F70d2f96c88fce06bef7d68fd987d0482%2FScreenRecording_07_08_2026_16_06_04_1.mp4)
 
 #### コメント (3)
 - **暇人two Time** (07/10 10:16): 誰か見てるならでいいから返事ください
@@ -1635,7 +1677,7 @@ forsaken神
 
 **星評価:** 0 / 5 ⭐
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5924508763/dba0ee3de898e373e9acbbe3af73a46d/ScreenRecording_07_01_2026_17_35_52_1.mp4?Expires=1785811966&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YZS2oxr6e7oiTKFGC0G1rXX8YK1J1ZkNfZ9QVBBJuPeOOrU6kdjnS4Pq%2BwfjgjZcI%2F4oxw9D6q1XeeO4pYjNzPz4ckBJCAKRsiOgKhbfKpsaLRQdXJykSTeTXuYu4jyCFjB9n8bxj8v2PSeKdQa%2FqPmpL3sZ1sXxI4CugtAKMSzc5Y7xG88QZPyaB4%2F1Erh3Q5Zz6RB1prVKjIpVToFE0DymnWAJXm%2FTLxcT%2B1VphzIr6PT70zohvgHGZPX8LRbmOiU6Ho8N4Vg%2FXlkPuQPk2TqABJ0LtrK5oxdVNIToz0PzP%2BhL1P2FUsrgTJmW25u6w3BVjbs9FkYz%2Bq96jYKhig%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5924508763%2Fdba0ee3de898e373e9acbbe3af73a46d%2FScreenRecording_07_01_2026_17_35_52_1.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5924508763/dba0ee3de898e373e9acbbe3af73a46d/ScreenRecording_07_01_2026_17_35_52_1.mp4?Expires=1786097654&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LLf8tRkxJPEcDI7%2BnWnG5t0uuINcn2O2RvJCfRyMqBD%2BHPW%2BsB4PcqI1kjdBTJVMn1R0aKXpzovBBJGmz6B0g9dBXUYYMorIgWQwt9GolMzsMQVl3Vh%2F96r5gofLOjbopV2Gjcyd1rR6V02X1CwRJcvcIUA%2FIZBDAl68vTWP3vsyGPzrpHRfynIHE5uq%2BQdd%2F77zPyMRJ7xIHK%2BStVnXDWfuffJ6EUDJI3cljfdTNyxgXjnjejqK6NbvNVB6kU3%2BCydmZdJZMEdWC49lP2KtHcSAkLmNq3bLU2805LpOUfPU3ikPCaJLBKhhQxPMKN7y%2BXPl1W0FJSZ32gZMIWl0Uw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5924508763%2Fdba0ee3de898e373e9acbbe3af73a46d%2FScreenRecording_07_01_2026_17_35_52_1.mp4)
 
 #### コメント (3)
 - **暇人two Time** (07/07 09:29): ごめん言い忘れた4649ね
@@ -2136,7 +2178,7 @@ forsaken神
 
 **星評価:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1785811966&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=AQGkZHnz254jDNe%2B05GSTH5TdgeN0OsE8r3dD5K9LRRE%2FqP0kMuIgC6PmDCoGIHIGPcUmvs1UP46mNUprZ38k6G%2ByN9LwBKPREDRlTMc1VcrOlp0r%2FzcyRLWNGk8ByphMjNbyoq%2Bujh6LJRxgzbNQDfMbLg3VlutpDGjHbZRHoX55i4%2BV8Y4Q9DYirY6O634wxVs1U5RKsBWfv%2FGBS%2B5NDs3wf%2BqRU1f7bSY%2FolgsQwOpJjUwS6u27pY5E%2BzhatJkA0TSeUxBQVMo2XgfkZS0k3vV8AgFUfd9nFExK7S7Kg1wuWRGXW8nNsTtooVutRNkJ0wdZQfOJ5sgKDCpDhoDA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1786097654&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qjSpe1NXFYiEAkMkZCMS48264CQcbCBI4WMKBvgAofzsIoSzK8qMOEMNK9XKpQWGVzQqR%2FE2VCoZigIRkIVOXbBUbAPbtxOWDqrJZK7NVauUvx2jmGtaBiepjmNgQcSWYitMsnI%2FqVcEehDKaXZTA9sEvp5ZEPFcNSIZAyZDI4Ae1N9Vh6hzrFc2rqoOUPgoLEg%2F%2FpIPWr2yhyRzbnalkVmd80gFU5cimq7U2YV3Kq46oqNMy0Tq2qBMP%2FE%2BaAo96Ykj9efJ1f2jyiydBc15thX8Z6fpwGRV7d7sMffDI%2BS0Y2YcTMNftrfUY46DkhKogDULqEhlMCKxY8qD%2B14tUQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
 
 #### コメント (6)
 - **おうが** (07/01 01:55): よろしくねーー
@@ -2274,8 +2316,10 @@ forsaken神
 
 **星評価:** 0 / 5 ⭐
 
-#### コメント (1)
+#### コメント (3)
 - **おうが** (07/27 12:38): 夢が叶った
+- **時透無一郎** (07/28 23:32): すごすぎ
+- **時透無一郎** (07/28 23:33): [添付ファイル](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/BJkrQAdzmmXOaEge) 
 
 #### その他の情報
 - **投稿のカラー:** ブラック
@@ -2452,7 +2496,72 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ## 宣伝
 
-### 1. ついにぼくも、部屋作り始めました!
+### 1. 投稿 1
+**作成者:** BIRUSU (21070052_1)
+
+こちら作ったので使ってみてください
+
+**星評価:** 0 / 5 ⭐
+
+[添付ファイル 1](https://padlet.com/21070052_1/padlet-l9bx22n6f2mh56z5)
+
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/30 22:33
+- **更新日::** 07/30 22:33
+
+---
+
+### 2. 投稿 2
+**作成者:** GP (21070045_2)
+
+こちらもよろしくお願いします😊
+
+**星評価:** 0 / 5 ⭐
+
+[添付ファイル 1](https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9)
+
+#### コメント (3)
+- **GP** (07/30 07:34): https://padlet.com/21070045_2/padlet-oy451qfh92olr77r
+- **GP** (07/30 07:34): https://padlet.com/21070045_2/my-padlet-9tippfbjfz1zl8fx
+- **GP** (07/30 07:35): https://www.myinstants.com/ja/favorites/
+
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/29 02:36
+- **更新日::** 07/29 02:37
+
+---
+
+### 3. 投稿 3
+**作成者:** ハリクーン (se10230080_2)
+
+**星評価:** 0 / 5 ⭐
+
+[添付ファイル 1](https://padlet.com/1a2b/padlet-sfwvsvyx586j3f2w)
+
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/28 09:00
+- **更新日::** 07/28 09:00
+
+---
+
+### 4. なにか話すときにぜひ使ってください。
+**作成者:** R (21070007_1)
+
+**星評価:** 0 / 5 ⭐
+
+[添付ファイル 1](https://padlet.com/21070007_1/padlet-kiizeftt9qd3av48)
+
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/28 08:44
+- **更新日::** 07/28 08:44
+
+---
+
+### 5. ついにぼくも、部屋作り始めました!
 **作成者:** あんこ (tdz410pyh1)
 
 入ってほしいな!!
@@ -2468,7 +2577,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 2. 良ければ入ってください
+### 6. 良ければ入ってください
 **作成者:** R (21070007_1)
 
 **星評価:** 0 / 5 ⭐
@@ -2482,7 +2591,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 3. パトっとチューブ！？
+### 7. パトっとチューブ！？
 **作成者:** ハリクーン (se10230080_2)
 
 パドレット会のYouTubeです
@@ -2498,14 +2607,14 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 4. ロブロやってる人募集〜
+### 8. ロブロやってる人募集〜
 **作成者:** jojokenkenpa (211737_6)
 
 [https://padlet.com/211737\_6/padlet-2a0mwn9ggnfj6bjb](https://padlet.com/211737_6/padlet-2a0mwn9ggnfj6bjb)
 
 **星評価:** 0 / 5 ⭐
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5890775394/48af173392fbde3d723b52a5e4a74afa/videoplayback__54_.mp4?Expires=1785811967&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=gXPrgziCSlq%2F%2Fh5djkuLxdVfuWVJEt%2BLV91%2FlD3b3MaPC8UOsAD43MB0wMhuiq8M8YGvmonGFos0vu%2FyFVKic4YAp9jnr8bqGx4yO0yAhcJYJzbvJcsN8CJU5LwwiGoJziORPUhQxKJRJVGWXGhrY%2BPy4WcfIkSdsLUXvqMv%2BHDA0Q7Me2yHeWtBys2w5h5iDpwfobVGgkm%2BGHdH%2FOaGvGeTdIZ%2BMy55xvSM5%2FSJ5yska1Rj4jST7aKB5g80rC3hITk4xnCQAF6%2FKm7gwvM5MVTDbcuzO9IiLo7YU6D4HU%2FglCaer46hEf84lXe3TfkEhg56JyJ5qw%2FLQwsxbdDmZA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5890775394%2F48af173392fbde3d723b52a5e4a74afa%2Fvideoplayback__54_.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5890775394/48af173392fbde3d723b52a5e4a74afa/videoplayback__54_.mp4?Expires=1786097654&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=37OXbH921fkr4lb%2BZFw6b%2FsuYY0XiEzqZdr%2Bsz0UvcQY8%2F2p9uA4Xahfl75k3dcV6YJxT8R8gEweGpnlxZrWGVvmac0VyO%2BR3WC88Ft0MerOfJm1J4PqUg5Zr4aEpiFxxj4xc7PvPKycYMZgrgHtYTycMDifFWiyfntRopCjnOCeCZWRS2%2BM5Sd5Djx79BFyQqdrTCThU69PZKply%2FXjc%2BtDN92ELJ%2FqJFlCgZSejIDiW2WdlirH7HjdzM0oxRYjVEsJWbiUffY81OIwlzuFYrCu4KxrymvBR%2Fv0fdDyea1knsm2AIrtfOHvZJfPzGCV%2B9gtJPRQwyVGAr%2BglD7vAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5890775394%2F48af173392fbde3d723b52a5e4a74afa%2Fvideoplayback__54_.mp4)
 
 #### その他の情報
 - **投稿のカラー:** ブラック
@@ -2514,7 +2623,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 5. よく行ってる部屋の受付です
+### 9. よく行ってる部屋の受付です
 **作成者:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
@@ -2528,12 +2637,12 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 6. 作り直したのでそっち入ってきてください
+### 10. 作り直したのでそっち入ってきてください
 **作成者:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/d4f567172245eec87a1cfb74ad0abafa/images__81_.jpeg?Expires=1785811967&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=k%2F9FS%2Fmg%2FRX6kvvKyHgZxbzY4kYDPodYF9TOSenuHyW0FRsu8yvT7WkVImh84mY8iCqC8zwYt%2BYDMVXdYdqvMgppilmYRdf8W4Uvl0K7%2BHLPFSERsw3AgVKiNPqB0CNyoA1JBh%2FReHh7mbhscQcGMPIENrig2wVqWq4Tjd21QoAJQ3IX6WGl1SNKEDWZCWxNnOsBr9rg9h9vj6t%2FpEDtTPYdTatcu0g8lSnqM%2Fa0%2FeFerEGpTP7Eu1bK9Yh2m3boPh6SjGSbtLdcM2T9SK3Z2S0ZRl0UAt4syrk9IX7bBwW742Eo0pZVk9FsnIpNGrc0qci9hJd0Ys8tD0OdRvOieg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fd4f567172245eec87a1cfb74ad0abafa%2Fimages__81_.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/d4f567172245eec87a1cfb74ad0abafa/images__81_.jpeg?Expires=1786097654&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tmw5mJZVwrgcP5UrZFGz90slwMxffMTVBUn4lVjSV5TAb%2FJS2aWf2ZopH05aENL6vp5%2FLkCEYJY0U4Pwn9OT7JE9W7LkKH1U0%2FqLlHjQb7IckZPcMcrDGkJjydK8N4hdr5wbG3%2BWuED9rs1dTxmpmRc7IApLfpHR9gANh%2B3Miu4R8zt10wrsOfhmaU3YP%2FDHk4j0kk7X1%2FlFX2Pi245bTZbmCJ046T4XTw3G2%2F2QspFDyVQZgqYIYzbgFJ4vrEATWDmcO3QTc0LGvuHuJAoFQ1ng5fArRBfKWesYHM0lMTbAQqaUxMkQLm0gyI0eFO4Uagd8lnhn4528vMIh5PvT9g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fd4f567172245eec87a1cfb74ad0abafa%2Fimages__81_.jpeg)
 
 #### コメント (3)
 - **GP** (07/17 07:55): https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9
@@ -2547,7 +2656,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 7. 投稿 7
+### 11. 投稿 11
 **作成者:** R (21070007_1)
 
 **星評価:** 0 / 5 ⭐
@@ -2566,7 +2675,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 8. 投稿 8
+### 12. 投稿 12
 **作成者:** GP (21070045_2)
 
 **星評価:** 0 / 5 ⭐
@@ -2585,7 +2694,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 9. 来て
+### 13. 来て
 **作成者:** 戸松 (s1914045_1)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -2599,7 +2708,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 10. これはいってくださいお願いします
+### 14. これはいってくださいお願いします
 **作成者:** ははははははは (2101038_5)
 
 **星評価:** 2.0 / 5 ⭐ (1)
@@ -2613,14 +2722,17 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 11. 宣伝していいよ
+### 15. 宣伝していいよ
 **作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
 
-#### コメント (2)
+#### コメント (5)
 - **GP** (07/16 11:31): https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9
 - **GP** (07/16 11:31): これももし良かったら宣伝してください
+- **uiuitanaka** (07/28 06:20): https://padlet.com/uiuitanaka/uiuischool
+- **uiuitanaka** (07/28 06:20): 結構いいのあるよ↑
+- **uiuitanaka** (07/28 06:20): 入ってね
 
 #### その他の情報
 - **投稿のカラー:** ブラック
@@ -2631,7 +2743,23 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ## 描いて欲しい絵のリクエスト
 
-### 1. 描いて欲しい絵がありましたら僕が書くのでよろ！
+### 1. ここ消してもいいですか？
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
+
+**星評価:** 0 / 5 ⭐
+
+#### コメント (2)
+- **時透無一郎** (07/29 23:55): いいよ
+- **おうが** (07/31 00:49): いいよ
+
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/29 03:22
+- **更新日::** 07/29 03:23
+
+---
+
+### 2. 描いて欲しい絵がありましたら僕が書くのでよろ！
 **作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 5.0 / 5 ⭐ (1)
@@ -2660,12 +2788,12 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 2. #時透無一郎#月#紙飛行機#中国の山#夜空
+### 3. #時透無一郎#月#紙飛行機#中国の山#夜空
 **作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/d9af3b8cac12f7074d8dfe0db7ce295e/IMG_0050.jpeg?Expires=1785811967&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QDHiycQa2vO9xECOjlFH2E1%2BSDW2Sh%2BB2Atr5AuCx3aAt2CTvnFuvVFuV9dca7eHCBF0aamQCfXzzapKNB4vUtV2Xeq9BPUAKp6G0yWc%2BK2jJXk25Gj2CPi0feAXiS7EdRNMvjVfDuzGGeQc6Pi1bL5Cj3rwj3BpdW0xKC9ZYxnYihQL%2FzeZrykPI43mmjCbbkTqx3uhZUEQjLYPSxX5UKpV%2FHgMS7AYxuFfOhaP3uL5SNfLyQhu2UKn7iQzaqSkWxU7FOyFxurZVhEk1FG%2Bes8m0ktYiQOhZm5104HR%2FmMXJ0obeMmcD7Iul1JS6InMXur5wmQyjy8Gb8j8s0gnpQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2Fd9af3b8cac12f7074d8dfe0db7ce295e%2FIMG_0050.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/d9af3b8cac12f7074d8dfe0db7ce295e/IMG_0050.jpeg?Expires=1786097654&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=OcDbRguhXms6ZNiIxLf0blHFgGpfkWWndEBrLs%2Fw98g4rndrw3pgD49kVMOlGt8uDBinQZJrSJ7vptNt2E4ilL0Q5RTyJXP5XmD4a64DfxKwKSb8n1qrPiS1qbFYfla%2FTjpn58FQhj9M%2FnI5MGZeT798CwpLE8CtjMNX8TaoUOmtemOPL9lHpEVSyAk0DRPLR19oXIul%2F0%2FCRMoeKN1mE1YleYVIkZxu5RXSuujvgQ39VswjYb0Y51dRk6iwz9dlXW3XBXnmN4lsUAZWFzecRDZTCCejHUWSwENdbAxLu%2Fh9NxINiBT4b6E%2BqK%2BAa%2FWEXknegFsDnvssTnXlToMTZg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2Fd9af3b8cac12f7074d8dfe0db7ce295e%2FIMG_0050.jpeg)
 
 #### コメント (4)
 - **どぬく🍑** (07/03 06:52): 月は画像です
@@ -2680,12 +2808,12 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 3. #うり#夏#うちわ#模写
+### 4. #うり#夏#うちわ#模写
 **作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/69bf7f2638c3826304223939393b0d05/IMG_0049.jpeg?Expires=1785811967&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=G%2FIbQiBKq7T0X0UgsqG1fMPlPGZwnYqC1hSo%2BftWWtZYceFgAhS0oxlG3x2OoEE8BJgKfPzpSehGzq%2B85Fzl8Z5wQHjST3ihlHiv%2FIdCi82BIw6a6VSTHNp8IfuihWk3Uk1anX5JEsE1XhX1tBLnBwj0%2BDtxFFaHEA2jvLgoU0qsCUuhZGs1E%2FSfcgbSo55TUT1%2BrZJKJj8QMLNAfMd1RcsNceDIhAjR8wNNxRmWQiU8cdqGPtMtusnIU%2FSSdf5sAlqjpbxz9q%2B92ePD42x8BCR%2Bp%2B%2BYnxzr4%2FkiNQOsGghqTF6m%2B%2BgAX%2FwLcogXkzPReKjOh09pVS14jggFEwjIAQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F69bf7f2638c3826304223939393b0d05%2FIMG_0049.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/69bf7f2638c3826304223939393b0d05/IMG_0049.jpeg?Expires=1786097654&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QB440XXrf5nNgibBvbmumwRFXXzIF7skCT89dNXNEgylkIh%2Boi%2Boyx3i3fLmUha6usK%2BeHI%2FQ6XWogeEmIaLRbkvLX867%2Fp4uAuNPUJsD2DzjrKfT8otIpXw9WT9NizDYN91qLmuQpADJqTfwWRbkA3Y17KYBZy4fJGH%2BUakh0YruTa3q1w6UCK%2FyV090iKMBh8mJn9yVEDzpi6Op8i79TVvimg%2F%2BLe9qwXsLpBE6FTzE5cQ3UWcHcS0Sqjg9LJ3BsbBi7NjT4Tu1zQiKqTIBN2NbmmrtlyLrGCEz2mfKHEWYDWAPY%2FTahuHuy5WEhK94WSvymzKJcl5QqJ8J03IYw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F69bf7f2638c3826304223939393b0d05%2FIMG_0049.jpeg)
 
 #### コメント (3)
 - **ユメミズ** (07/04 12:24): うますぎやーしないか
@@ -2699,14 +2827,14 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 4. リクエストにあったたっつんです#たっつん#夏休み#夏祭り
+### 5. リクエストにあったたっつんです#たっつん#夏休み#夏祭り
 **作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 評価よろ！
 
 **星評価:** 4.2 / 5 ⭐ (5)
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/77c87bf281c85feab60c549a6be85305/IMG_0048.png?Expires=1785811967&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rrZQ%2BRHV4m5O2M8q2P5rTbuKe7y8KIipvnH1vgFwjiaedNc1QbpJ8tszdeP51kpbgJmdoqzG5P3NLs3VepwqgRYJFYzqhCs08aKRdXmETUkRb7CXUfoydC3H4Ex%2FhlGftADXtSKzz5wekNPorqPTF8ePG%2BzGYNk7PkzYxXbS8g7Ryijr1Usq8Jfxh7guLM%2BxDJ0d1TcJ%2BeHdGsyFwkd4KE9djAwSaez4rpEJM4gEGw%2FcdnMqSyjqgDBN%2Bv%2FzexV4QyASHwkrtFRQv%2B%2BGkXJWc%2BuPo39%2FeVq1LLhobc5AVxB4wd9qOVPlVBTVYIeKylXJxTvOoJr3zEkZk4F3YE0AHw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F77c87bf281c85feab60c549a6be85305%2FIMG_0048.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5770897103/77c87bf281c85feab60c549a6be85305/IMG_0048.png?Expires=1786097654&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WKOzQGnoZSW7k1XzlDhD0ZglM8ve5LL3DcLKujrRA0ON1Ie8Qjn1nq3PgzgWbAh3augXVuMGWkaCveoC%2F%2B6UN7aBWZDY3mTioDwQJq1tRrJgrgG2xMd1xTHnwXpqsK%2BfRuGrt204%2FUKmxiXAI6EjNXT8LdI%2BNwaPiJ3hXJDzmimmcoiL8%2FsnyMLNyasBHgHRklMffw%2BtvJWsC4mxZROh8rAaaOhJXv4oZOVwHjN%2FKFcsH3%2B0N%2Bm7EYhCWFqqhXBDjXZesun7lznIyoIRU8ImihZFSwzq0IyzG3h6DOX7lezBl85RzVtmu1ErSCCzrmnGVtMYW9ZwmhWa4qDZ1Nn6ag%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5770897103%2F77c87bf281c85feab60c549a6be85305%2FIMG_0048.png)
 
 #### コメント (9)
 - **おうが** (07/03 02:36): これ描いたの？？
@@ -2733,8 +2861,10 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 **星評価:** 0 / 5 ⭐
 
-#### コメント (1)
+#### コメント (3)
 - **BIRUSU** (07/25 11:13): urusaina
+- **GP** (07/30 07:09): 荒らしてんじゃねぇよ
+- **GP** (07/30 07:09): 消せ
 
 #### その他の情報
 - **投稿のカラー:** ブラック
@@ -3314,7 +3444,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 **星評価:** 0 / 5 ⭐
 
-[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5060298995/1d1f9b4328cbf83a640cd46c00678311/super_mario_kart_rainbow_road.mp3?Expires=1785811967&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7rkwBCGlkcNIeQ%2BIxdwH0%2FZZk66ES58hD66JBjkCQd%2BUcCg%2F9aUpWfibnQ9Ay4OoqbiycamRTK0TiQGE41Q4IqdhvdjPEesI3sNWUwjhmPCrA8mqnrzdO4%2FljvcLC7JkxD9rQt4ISxYyQppLTsJqV%2FjWE2Voz6bOXXRgoTqEVz3yKr126dulUWExmt91PG3o5kQTFF06lOUsUL%2F8T6YX0XtmKkG4gPpk6Ykph%2B9290Yax%2F2E%2BYHJO9bZYJoHpIdtvnyqCTCCVNwNNQrh2RUJ967fugrrieZsVD3n9UO5dPO6msTrykYTNuLrB20s19EGL0JXShtBrv4zgLAUagnfJA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5060298995%2F1d1f9b4328cbf83a640cd46c00678311%2Fsuper_mario_kart_rainbow_road.mp3)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5060298995/1d1f9b4328cbf83a640cd46c00678311/super_mario_kart_rainbow_road.mp3?Expires=1786097655&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RYjl7LBIVgHbdfihA4WGLbics%2FD4E84Bj3ycNuM1WsBao8DusZ%2FnW1jvr9flP9PPyYBA4cdOiDBRg0%2FqTIEV0iR86VVryI0T27P60FRLX9p2u%2BjVXXhUyilT%2FpSurip8XQu1eq6vlz2pJJSl5emK6LrDV1dL3WOj0TTrFt9UKQJHsOSR8vL1syaUd%2Fn8DElL%2F7vsWMUhiQcV%2BGoi86FjOS102GgWyqwPQ%2FBKx%2B1W63LEHpz6Fa6BYI51txxBOQ7snVWQLbg2uK0u7YfNLff1kC7xF35SAiaa7VYb3lUOlJyFFW7jgDy4qTX4U17tZOnTUPdVTBLpGffUwL4COGOVtw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5060298995%2F1d1f9b4328cbf83a640cd46c00678311%2Fsuper_mario_kart_rainbow_road.mp3)
 
 #### その他の情報
 - **投稿のカラー:** ブラック
@@ -4143,7 +4273,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 **星評価:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/0e4ef5caa2fa907d63366816cebf35bf/_________2026_02_27T105345_007.jpeg?Expires=1785811967&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Pskc2DCTezuGCJrF%2BgQSQsuOR1A%2BgkirYDy0iDkp5YeQsqs9MG6p41lcM8OK4jcaiwlNiSM1JSsxce%2FR2tQr3mTWLCg5B6xb7gyjYIhvur0pnMg2xiv62PMJ2%2B1%2B7bOJvhp%2FnnQw45Exp1Ne9d63BgCC9YWSgtdEJ3xd6Y45Z6zQUYgS9RUO2qW9oQaBAmFlYMoi33vSccjY8dQnvrs97dzW5Z2mBRTxcBAu6sXQZsxA6ZvsOMcG1Jh1I2%2FwXAEXCzuFhK%2FfLNi4U0yzYblKtEgLMgZWwiGgFeGyI2jnrtJaTgMCiRG%2F3Hl5bW2j5vdPU5rkFVSWVu2KNMQxpO0sRg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2F0e4ef5caa2fa907d63366816cebf35bf%2F_________2026_02_27T105345_007.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/0e4ef5caa2fa907d63366816cebf35bf/_________2026_02_27T105345_007.jpeg?Expires=1786097655&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=go8pA%2F7LRgTKzD25lWBYlDg2lUJOVO6dHlpGjFhsG9q%2BO0sqwsYBIwrDX%2BUcmecNOFO0n50cKtn3VWndE2RuCF9IDC2E2JuUF5Ago8gncMd9na8ZycDZ6Pc%2FHo1mVIPqU6F3tdTns%2FzK6QYdYYwFVs8k6ROcTOgaIyNg%2FKTRWwlITNi%2FseemK4z1Og0%2B2gJHwidRKG2goA4C1nvikOrII%2BZ5nuFKx91x7NugjIhflkZv34uj4TclWrW8FVmZjhE3QhP3toEJEQAZLXXr5z51ROjO0qsnM%2Fydx8V1zgAjgNcY3VnkgqD5Jkj4tn%2BQq%2BGzlKbrg1COVCazsoXtX8RDeA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2F0e4ef5caa2fa907d63366816cebf35bf%2F_________2026_02_27T105345_007.jpeg)
 
 #### コメント (1)
 - **GP** (07/17 07:55): https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9
@@ -4283,7 +4413,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 **星評価:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5936812725/dab533c9b8c38dfc9677622b6a269af6/IMG_0022.jpeg?Expires=1785811967&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=8AKr5OwjhUK0XSzAxd1x1lhD6lmTxW3RRlWTJd%2FBO3qpiAxJZMvLRwvEtoVE7FyDl7uglfizBoRRJPqTkfJnQ1jAPEdo%2Bi%2F%2Fwl3wUiBGT5gdwae7n8iikY7Es20xBbFIlKXvgqnUKiFuMDfTaYj4zXglmuTZhr7ssrjrNKh2ZbxfharSBvcZjjjzRz6h5gy9Baxe8loQz4TYZCWzvWMpfe6BLRV3kj%2BQO2rWDfzYZh%2BipxIi1ERyUTxazScVBSKCdgWRscClHxwh85Xz8%2BfPF3YT%2FCOTtpxC6hW4rzd4Dnznny8yYMMhdYOTtXXelQXSvLf0khJdhdgl8XNwlzeyJA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5936812725%2Fdab533c9b8c38dfc9677622b6a269af6%2FIMG_0022.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5936812725/dab533c9b8c38dfc9677622b6a269af6/IMG_0022.jpeg?Expires=1786097655&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=U4hkyG3c6gXpqLcPFg6wjVtOU0WBljpVL6TQn%2FeO1o3K%2FpVoCIgnUcRlUiLQ%2BuXFsh31eLUBzhBmyYbwvpLmEXKZhRkegBngndEjhMVuEMiBtSp5BqqlUwNta3yzZbexV9ANFZ3fasSsg94eWDPUA5hWhYeXy%2B1K6fzZwN%2F41t%2F29eCswVvR73tQuYRT7rNMjDIvVOyR5HiL8yMPPJUkYoxwGiE0DguQfXuH%2FNGxQx11QGHVhN3KnTNpMRUzkgs4%2BZH5GWVcvk6z0ASPvRnxeQMsGFMflKHNVI5pikquQbXl2ijiFy9dblPRD8PB0gcpbhSM%2Fxtwv%2Bfn%2FZ57JGt6ug%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5936812725%2Fdab533c9b8c38dfc9677622b6a269af6%2FIMG_0022.jpeg)
 
 #### コメント (3)
 - **R** (07/12 00:10): 友達が欲しいって言っててたまたまあった笑
@@ -4370,7 +4500,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 **星評価:** 0 / 5 ⭐
 
-![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5934303462/a664a2d9a265d397ad6b81cbebe0d029/IMG_0460.jpeg?Expires=1785811967&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TcUtYpqxoL%2F4Q9CYQrlYOAwFNvFmZBFhFrIhn%2B0sHAEWHZD3sdLg1UAN%2B%2BHBSw8aiyStKdaAQrqPYs7S5UNv7JOEJFm25%2Bgo6hArm89FmcnFqkbJKQlQC1ePzUpaCDavsMrKghfta%2FmHh0Qpp1jteI2%2FB9mJr%2Bx%2BAtwjEzZvQn03Tz1mFhmJEFRsOP5zS0rfo2H4YRsqhCs5KPf5gZpEYkSnZKPXntCr7dOZQtSRx%2BVeok0MmV%2Bo%2BS2YZi2OiCbY4TfVB%2FtFvS%2FNE%2B2OlR76DKnskA4Qwh%2F4orOlKn17d9WfJLGZ4I1XPG9XgGFMUL8DQOZekoA0vuvOBaGNND1gBA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5934303462%2Fa664a2d9a265d397ad6b81cbebe0d029%2FIMG_0460.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5934303462/a664a2d9a265d397ad6b81cbebe0d029/IMG_0460.jpeg?Expires=1786097655&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xPW3etWp84s6ug1stSzzhOxZxQdaFS90YmKO6f2hc%2FxQukSGooMxZl4ASprlsAsy82u4P2JKsEvStpxH%2FyEvxN4gV1XyGlkxK%2BbHApZ%2BQx%2BTLPbl3AX30UiUwG%2FwAREgXsj33Vc2PjHHhCyQO%2Fjlt8gjSKYwFSeaDbxbtbip%2BckLQZt47CSrZrsOQAbpzOrtEHySBmFKHBFNXvrH2WyL2xseGB%2BOawZF3JcuqHGwAi%2Bc9DGfqFR7%2Fdpz3HIP7Ca3Swq%2FAs6V%2F%2BIoNenVa7Io4Zet4DWwwbYmdEFvlcYu0jTMLuwKgdczbdN5WksNz1po7xGQ6QQvkAbp7R%2B19HJOWg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5934303462%2Fa664a2d9a265d397ad6b81cbebe0d029%2FIMG_0460.jpeg)
 
 #### コメント (4)
 - **天才くん天才くん** (07/09 07:03): なまえミスりました 
@@ -5036,37 +5166,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ## 予約通話
 
-### 1. 投稿 1
-**作成者:** オクラ
-
-毎晩やってるよ！
-
-夏休み中は朝から昼間も！
-
-誰でもいいから来てね！
-
-入ったら必ず性別と年齢を教えること！
-
-**星評価:** 0 / 5 ⭐
-
-[添付ファイル 1](https://meet.stuvus.uni-stuttgart.de/HandyPopularitiesStayActually%E5%85%A5%E3%81%A3%E3%81%A6)
-
-#### コメント (3)
-- **オクラ** (07/22 00:22): 今日もやってます
-- **やーこんにちは** (07/22 11:51): へー
-- **GP** (07/28 01:17): ｗｗｗｗｗｗｗｗｗｗｗｗｗ
-
-#### リアクション
-- **絵文字:** 👎 (2)
-
-#### その他の情報
-- **投稿のカラー:** ブラック
-- **作成日::** 07/22 00:22
-- **更新日::** 07/22 00:22
-
----
-
-### 2. Ｊｒ．1234入って
+### 1. Ｊｒ．1234入って
 **作成者:** 天才くん天才くん
 
 **星評価:** 0 / 5 ⭐
@@ -5084,7 +5184,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 3. ひがしはらはると
+### 2. ひがしはらはると
 **作成者:** Jr.
 
 12345678910はいって
@@ -5105,7 +5205,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 4. 誰でも使って
+### 3. 誰でも使って
 **作成者:** 原石
 
 **星評価:** 0 / 5 ⭐
@@ -5120,7 +5220,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 5. はるまとたいせい来て
+### 4. はるまとたいせい来て
 **作成者:** ふじ
 
 **星評価:** 0 / 5 ⭐
@@ -5137,7 +5237,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 6. ⭕️⭕️と⭕️時通話したいでよろしくー
+### 5. ⭕️⭕️と⭕️時通話したいでよろしくー
 **作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -5170,7 +5270,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 7. 誰でもいいよ
+### 6. 誰でもいいよ
 **作成者:** オクラ
 
 朝０９３０－１２００まで
@@ -5190,7 +5290,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 8. ジャストミートのチャット部屋作り方教えてください
+### 7. ジャストミートのチャット部屋作り方教えてください
 **作成者:** 削除済みユーザー
 
 できるだけ分かりやす説明してくれるとうれしいです
@@ -5204,7 +5304,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 9. カラピチこれ入ってきて
+### 8. カラピチこれ入ってきて
 **作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
@@ -5222,7 +5322,7 @@ YouTubeはショートしか見れないけど調べたやつほとんど全部�
 
 ---
 
-### 10. カラフルピーチどぬく推し があなたをミーティングに招待しました。
+### 9. カラフルピーチどぬく推し があなたをミーティングに招待しました。
 **作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 ミーティングにご参加ください:
@@ -5853,8 +5953,9 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 
 **星評価:** 0 / 5 ⭐
 
-#### コメント (1)
+#### コメント (2)
 - **^^;🏆️🙂** (07/24 05:38): https://luanr.freemyip.com/
+- **むちるん** (07/30 12:32): ありがとう！！
 
 #### その他の情報
 - **投稿のカラー:** ブラック
@@ -5877,7 +5978,7 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 - **ユキマツリ** (07/10 05:07): 諦める
 - **天才くん** (07/10 05:08): まだ諦めるな  https://class123.life
 - **削除済みユーザー** (07/10 06:07): ↑何この映画展開
-- **長ネギボンボン** (07/11 10:01): きれい））
+- **naganegi1364** (07/11 10:01): きれい））
 
 #### その他の情報
 - **投稿のカラー:** ブラック
@@ -5922,7 +6023,7 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 **作成者:** 削除済みユーザー
 
 **ほしい?:**
-- **ほしいいいいいいいいいいいいいい:** 35件の投票
+- **ほしいいいいいいいいいいいいいい:** 36件の投票
 - **いらねぇよどうせクソプロキシなんだろ:** 4件の投票
 - **ワホーvsジェームズ:** 4件の投票
 - **何やってるんですかー勉強してください:** 4件の投票
@@ -5942,7 +6043,7 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 #### その他の情報
 - **投稿のカラー:** ブラック
 - **作成日::** 07/08 21:51
-- **更新日::** 07/22 10:47
+- **更新日::** 07/29 07:57
 
 ---
 
@@ -6018,7 +6119,7 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 
 ショートを見れるサイトってありますか？
 
-**星評価:** 0 / 5 ⭐
+**星評価:** 3.0 / 5 ⭐ (1)
 
 #### その他の情報
 - **投稿のカラー:** ブラック
@@ -6031,9 +6132,9 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 **作成者:** おうが応援する人(れいり)
 
 **投票が5以上イったら　上げる:**
-- **いる！！:** 79件の投票
+- **いる！！:** 82件の投票
 - **持ってるからいっぱい逆にあげるよ？:** 1件の投票
-- **いらなーい:** 0件の投票
+- **いらなーい:** 1件の投票
 - **消えろおおおおおおおお:** 2件の投票
 
 **星評価:** 0 / 5 ⭐
@@ -6045,7 +6146,7 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 #### その他の情報
 - **投稿のカラー:** ブラック
 - **作成日::** 07/10 22:45
-- **更新日::** 07/27 23:17
+- **更新日::** 07/31 01:10
 
 ---
 
@@ -6053,9 +6154,9 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 **作成者:** 削除済みユーザー
 
 **許すか許さないか:**
-- **許してあげるけどあんこちょうだい。:** 28件の投票
+- **許してあげるけどあんこちょうだい。:** 29件の投票
 - **無理ー絶対許さん住所特定するからな:** 14件の投票
-- **お金くれたら許す:** 32件の投票
+- **お金くれたら許す:** 34件の投票
 - **ぼーくの勝ちだお前の負けだ:** 11件の投票
 
 本当にすみませんまた違うやつ探してきます
@@ -6067,14 +6168,14 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 - **削除済みユーザー** (07/08 21:49): https://html.cafe/
 - **削除済みユーザー** (07/08 21:49): 規制されたとゆうかなんか使えなくなった
 - **削除済みユーザー** (07/09 11:58): お金くれたら許す多くて草w
-- **長ネギボンボン** (07/11 10:06): ほんとだ
+- **naganegi1364** (07/11 10:06): ほんとだ
 - **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (07/13 03:39): ひらけるよ
 - **あんこ** (07/16 11:58): 開けるけど、死んでるんよ
 
 #### その他の情報
 - **投稿のカラー:** ブラック
 - **作成日::** 07/07 21:50
-- **更新日::** 07/27 23:41
+- **更新日::** 07/31 01:10
 
 ---
 
@@ -6134,9 +6235,9 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 **作成者:** 削除済みユーザー
 
 **youtube教えようか(知ってる人多めだと思うけど):**
-- **ほしい:** 88件の投票
+- **ほしい:** 90件の投票
 - **いらねぇわ、食べてやろうか:** 3件の投票
-- **ワホー:** 14件の投票
+- **ワホー:** 16件の投票
 - **知ってるってこと自慢すんなつぶあんかこしあん野郎:** 6件の投票
 
 知ってる人多いと思うあとぼく説明バカ下手だからそのへんは許してちょ
@@ -6157,7 +6258,7 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 #### その他の情報
 - **投稿のカラー:** ブラック
 - **作成日::** 07/05 11:00
-- **更新日::** 07/27 13:17
+- **更新日::** 07/31 01:11
 
 ---
 
@@ -6187,7 +6288,7 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 - **ユメミズ** (07/04 12:26): 日本語にできない？
 - **玲吏** (07/05 07:56): 使えんよ？
 - **R** (07/06 11:42): 使えん
-- **長ネギボンボン** (07/11 10:03): 無理だった
+- **naganegi1364** (07/11 10:03): 無理だった
 
 #### その他の情報
 - **投稿のカラー:** ブラック
@@ -6224,7 +6325,7 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 - **どぬく🍑** (07/03 02:21): ブロ
 - **おうが** (07/03 02:34): いけた
 - **天才くん** (07/03 03:08): ないす
-- **長ネギボンボン** (07/12 04:30): すげえ
+- **naganegi1364** (07/12 04:30): すげえ
 
 #### その他の情報
 - **投稿のカラー:** ブラック
@@ -6250,7 +6351,7 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 - **フォートナイト廃課金者** (07/02 02:44): 使えないって言うのはブロックされたと言うことでいい？
 - **れいり** (07/02 03:18): そうだよ
 - **れいり** (07/02 04:20): nあ
-- **長ネギボンボン** (07/11 10:05): いけた
+- **naganegi1364** (07/11 10:05): いけた
 
 #### その他の情報
 - **投稿のカラー:** ブラック
