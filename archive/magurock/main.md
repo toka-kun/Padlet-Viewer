@@ -1,4 +1,4 @@
-最終取得: 2026/08/02 23:09:00
+最終取得: 2026/08/02 23:42:08
 
 # Magurockのみんなの広場｜マイクラも雑談も色々!閲覧20,000!
 
@@ -20,7 +20,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/59ba29448765e5423cda79bb02b04e83/1.png?Expires=1786284569&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=j%2FGftZD742Pa%2BoXUhzl0tCBIcr3FregVEB45OL0IleBBmPVWZ0%2FCGv821Yc7YgfAOmlAGGDwsxDVukL9DMJHBcAtbrkFgLPW%2BwyDB5q2jeDlKmNL4rLtl3CRP%2By%2FZGQDpoU%2B6S8OsAMYQt4pQcutW2Kz8hAgfLn0jc9%2BET%2FXMG%2BNo98I340tTqu6WbuboG7VF%2Bn0B%2FMlDEE5Q%2Fp9e6gp5ZKnowwP6zaeSSPl%2Bg64Xga%2BUMzJ%2FXKGwpUnrGwZosG60OjUObNXP5DA3Fq11WYnTISg9qvTNyd1JD247mQPaEAJIqIRW7%2BGAV2yLX1g3c%2F6jtdrGAv5xd%2FxTVfpU5kfJw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F59ba29448765e5423cda79bb02b04e83%2F1.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/59ba29448765e5423cda79bb02b04e83/1.png?Expires=1786286557&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LW0voEUKF7bRsCgb%2Bj2fsAiND6nF2EmDImo06ZeBphchWt5kmd8jes7W4LN5CIrZ6fcrU21IB6Z8XzEkAJLMWlqsCGcYye%2F5D6XvXh%2BbSpfVCgMVZWUgLDpmHZM2xnpuP9DTgVEyDyhFVxt5f1keOxMRNSKR2WBm3BGmqZe3uWRb6XbkSkDh7crJWcY1G89wDCU0vHZXz%2BjQWzehv6E3b3z4eCQEMMOnw0EXhyVvVzkeLvkJ8d0uVwToVHvpyNCZeH8CaZqwZCIgghZeeoxvmBV7oLc%2Ft79WYiQ4CMZENUPnTRMRfhTNDWSHlTccP1JcU9PKFt8i11MfpLMhhke5AA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F59ba29448765e5423cda79bb02b04e83%2F1.png)
 
 #### Additional Information
 - **Post color:** White
@@ -104,7 +104,7 @@
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/a13cb2bde0641ea839310d7b9f758d08/2.png?Expires=1786284569&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=r0BhXql2K4ENr4Wn5yAFnaqXd6uhgp4bVojzgors8Os%2FUPLfY91Mpux%2FZ2bG7aHY0xavs1xYRNgOyLvOtguePwDONAg0rBTG5vLCf0amcxRGrWnE3s2dWqG%2FAgNYcfeqgggo2AgwEx8tpzVWPrSuk6jg2XHMY%2FKzLMr1uGxCNngfl9wWm3zyIMJ8YIRRsoYjELZM8WM0UFIYNhuXSLa5iLnC%2B3cm3ocSUm0l2JuRyRZxOxttmbXijXr4OReVd6xDjy%2BuT%2FXHS4OTbFFy9Way2EP0US%2F5HNDVIuNl85Vg923jfJmDhxsZxABBPZC6b%2FGbLq1LOecR8O9nGrheiqrnMA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2Fa13cb2bde0641ea839310d7b9f758d08%2F2.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/a13cb2bde0641ea839310d7b9f758d08/2.png?Expires=1786286557&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xitVy3MF41SQhC%2Fr2WXamwOrr7OEy%2FQkZD1Zq1lJfs3opFJ%2FcH577CqHJi08XF%2BlDdDL561kfLKVbIFbZLD5tcxgdcYDQLiKGpClPoxef9rA34fgqqY%2Bh45djGZVPQ%2BJf7WFSirmpfPDsrXOYCdgGP1WP17vRltMvuN%2FLUF291vHX1vOfKMO3kknRrz4rW%2BnzpCmZqmcIu%2BsH4LWVl%2F3GGDi%2B0gcRyqvMtXFj%2F8%2FEIldrtxuyMNwK54whXGiYiLTMJWjrbquJyvhu5ShHlNG6rhnsqjb8WL9haZY66Lo3hMxvOIKfgVTPnx8DwiKVMDNjYwovESz5dS4o6tYRKyx8Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2Fa13cb2bde0641ea839310d7b9f758d08%2F2.png)
 
 #### Additional Information
 - **Post color:** White
@@ -346,8 +346,8 @@
 - **tail(テール)@2n2s** (Sep 21, 2025 01:07pm): 管理者も一応やってる可能性あるから、、、思ったけどなすにしたら低浮上すぎて回らないんじゃ、、、(口封じ)んんっ！
 - **削除済みユーザー** (Sep 21, 2025 01:09pm): www
 - **tail(テール)@2n2s** (Sep 21, 2025 01:52pm): 前管理者じゃなくていいなら0bさんかな
-- **MAOGAmes** (Sep 21, 2025 02:21pm): 0b1001
-- **MAOGAmes** (Sep 21, 2025 02:23pm): aosidesu_boy
+- **削除済みユーザー** (Sep 21, 2025 02:21pm): 0b1001
+- **削除済みユーザー** (Sep 21, 2025 02:23pm): aosidesu_boy
 - **adepen1210** (Sep 22, 2025 01:23am): わいしんらいあるとおもわれる
 - **aosidesu_boy 規制が無効化されて無敵** (Sep 22, 2025 02:58am): 俺は低浮上じゃないけど信頼ないぜ！((
 
@@ -568,7 +568,7 @@ Magurockの部屋(ロビー部屋)が色々な検索サイトで出るように�
 
 #### Comments (2)
 - **tail(テール)@2n2s** (Sep 26, 2025 12:50am): ok
-- **MAOGAmes** (Sep 26, 2025 01:17am): k
+- **削除済みユーザー** (Sep 26, 2025 01:17am): k
 
 #### Additional Information
 - **Post color:** White
@@ -797,7 +797,7 @@ https://padlet.com/h3002183
 ---
 
 ### 19. 私の部屋みたいに限られた管理者のうち全員が信頼できる人をモデにする
-**Author:** MAOGAmes (NeonNetwork_MC)
+**Author:** 削除済みユーザー
 
 こうしたらどうですかね？
 
@@ -805,8 +805,8 @@ https://padlet.com/h3002183
 
 #### Comments (3)
 - **tail(テール)@2n2s** (Sep 21, 2025 01:17am): 結局もしその人が荒らしだった場合は意味ない
-- **MAOGAmes** (Sep 21, 2025 01:17am): ああ
-- **MAOGAmes** (Sep 21, 2025 01:18am): まず俺は一部の部屋を荒らすのでモデにはなれませんね
+- **削除済みユーザー** (Sep 21, 2025 01:17am): ああ
+- **削除済みユーザー** (Sep 21, 2025 01:18am): まず俺は一部の部屋を荒らすのでモデにはなれませんね
 
 #### Additional Information
 - **Post color:** White
@@ -2038,7 +2038,7 @@ Eagler1.12のu3は遅くとも11月12日らしい
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/4af4356f92c17cae531ba5eb1b214e87/Screenshot_2025_10_20_2_05_51_PM.png?Expires=1786284570&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=X0TpIse%2Bk1PTpo%2FkROeSe4A%2FOPK1kJWwTB3V%2FwNRsxjtVKxnhVrd6VCqm0kSITyrsHRcXS3n%2FD%2FZMjrYSV2kaGKkefhm%2FJ2WwO8cBlsz4DO964jZhN6f6wYY3LExnlxDKINhiFj50lwZRHGQvSneBKNgy2EkjlNJzdqjHoNFqjzoHWB0Urvra4oeqkWILQE36rPciVPfovtUVPhWkQDVubuS4sbULsa6F8K88U8Gs9rxwxiz7lT53V8LRbnxvffyXtIgE4kZ8DxyJtviOvtHsdMl3OYKC6Fwo2ZZSBd44GqZTBj6HNqghxP%2FFDEhlWhP52hFbT8iCUo9%2B%2BQeS%2BiNKQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F4af4356f92c17cae531ba5eb1b214e87%2FScreenshot_2025_10_20_2_05_51_PM.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/4af4356f92c17cae531ba5eb1b214e87/Screenshot_2025_10_20_2_05_51_PM.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=oMpF%2BGDNyf6SxMGE1IYgF4OBY4kL0%2FuSX31wArGuOU1W9OErprUcPyoX3K7fwx0oyT8FnBNHjHRoL8aMIeAu1TBLBtsuyVd26KFCVBeF%2B%2FXiSWX1iNsEYvHVxpbY7BBHKJH090r7aRzSNMtZCSdJjZfnuWcApO3PuBYZ29nwfgX8wt%2ByXo5ovttibyqCUM9Y9lCFnl9zJCKUbGq3pOc%2FtuCL9HspZirDI8AopH3iVlx4lIYBIjx1Wg0biMNViibpPszpaONaMtTB6LUBdxwSyKJ9valjXu4K61pC%2Faxjck5UMtNNedYtN%2BKKhEoyhA5QxX%2F6mDTNyj7ANpoCJyskRw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F4af4356f92c17cae531ba5eb1b214e87%2FScreenshot_2025_10_20_2_05_51_PM.png)
 
 #### Additional Information
 - **Post color:** White
@@ -2195,7 +2195,7 @@ Eagler1.12のu3は遅くとも11月12日らしい
 ---
 
 ### 83. なすってホント嘘つきだよな
-**Author:** MAOGAmes (NeonNetwork_MC)
+**Author:** 削除済みユーザー
 
 なすとこの部屋のMinecraftのためだけにここに残ってたのでさようなら
 
@@ -2394,7 +2394,7 @@ oremevoli
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/a03a8c15749cc6bfe4a8bd77d040a5e2/image.png?Expires=1786284570&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0uO9MMiz0%2F%2BAARd7pvhkjE8eReJUC3wpYZRSM1yheTfizi2HHaOEK0656Ew32ktaWQGxbneCjgK202IvzUp5maPSNxd9i08NLQManvTpkfJzjG5n7IM9LypATN0UKY4VVI7X6e8AIqFJHbwIWPWT07yJr9kv6t%2BMA9ZhvDD1EnPo1e7ShNyKANyBsApRzvRLXUe4GJsxovxhXWT2q46hc7qiFbYBsZ6zvBS%2BdIag7FwHfnkEMPbqIMCqb%2BS%2F7dEO4dcTBhO0I4SwBNhXVx3aQfMIjRd3jzGyy%2FP7aWQ%2BVjRXZ%2B89TDh%2FoYAqsNVbYJUXd4GukuLpuZmbq32oC%2BfEcw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fa03a8c15749cc6bfe4a8bd77d040a5e2%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/a03a8c15749cc6bfe4a8bd77d040a5e2/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SQC40rsLWTTakBcp8oRH%2BTaQUQw6XobsRgtvcOBFXohT6fI%2FxmD9OMZL3olbbTGYfXUymgZd2IWjlCSiPVRUAoa%2B1uq%2BbQw15j9CKWr2HtjBahuaFObmQAjXZRxJCIVa%2FVnN00M5M0Qs4gVgk3KspYkzR9NUEfdf4e5q4qHZYllp2tAWRjysh1Gv4KZ4XQ7iD0dZWVzBLU3UFezDLMkYUyl3G8N3fUlvXx9Izb4MQHwSl6LhsWw0X3FHqjMZHQL8XtnvRlwtnGiqFgNrpQxrNaig%2BY04NNHgC4MCJfjtzApzYQUhv%2B8Pxube8hfL9ffcWbcTiursBNk6mti3FItcyA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fa03a8c15749cc6bfe4a8bd77d040a5e2%2Fimage.png)
 
 #### Comments (3)
 - **0b1001** (Dec 05, 2025 09:39am): レシピが修正される
@@ -2431,7 +2431,7 @@ oremevoli
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/6ea3b8094b1e1afa7cb2a2986382e57c/image.png?Expires=1786284570&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=w%2F44NcNfmWuM9F%2F4nFP4NSSOPzG%2F4K5lqd%2BSdEYkfg6gfVLwdZ7VKphWHwZ5aD7B%2B9v3Rp3TQIfhWJ6dNE3itQXKikQjetLkXG7gocMPj3R7eOFhuWsz4dU09L%2BagrRoM0dqQe%2FertXHNSQMd6kKhydkFY61cBZsB9iL4dayzOQYuLeOJR0jeC3CLgfC5wm5G6yIZ8GcVE8FRptTuu%2B4I4I8Aom08inWfE6wq4ZfQokdVHv%2FhRgoTM1XUtoOsFOAi8ec8v2zhvSnfJhgiOb%2Fbp1IWHbefvFPUhHhFfp%2FqO4EyftkjlcILrpdJQbXncnHaSKGmNz9%2FC6dycbloctbVA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F6ea3b8094b1e1afa7cb2a2986382e57c%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/6ea3b8094b1e1afa7cb2a2986382e57c/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lhlyPXl735%2FgB8eiUZVdp5CfrAqAT17rdTdBzt7aj%2BUWsZhVNQlXnvEnGS6Ex5%2FnVp9pNiPoNvbdZ8E%2F7FFIaVizy6ADffn4IXvJriLsy8OuR0qGd%2FpYV%2F6YSoS1jv7mG9OTiVbDunrENc2AQ9IYyz4bLsBcfpMZvHdEc7xweQaSzl41BrGfqzxrPNunmqgsJWWP5zJR6l%2F4sSu3dsh30GYcexVaH%2BEQZ4gn028QiukC9ZkdrRJ6VE0nDJyJiGW9AWork3v4QjGBWW4cz%2F6G14a90C1mONQpCNoPNB8E3KWUHMSm3tlCg8DriIzSlifwlzT2UoufO6Hx3fbLUY5C7w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F6ea3b8094b1e1afa7cb2a2986382e57c%2Fimage.png)
 
 #### Additional Information
 - **Post color:** White
@@ -2541,7 +2541,7 @@ oremevoli
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/19b566a68f0712a6afd1fa4f5b09d5b3/image.png?Expires=1786284570&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=iGjTbfhW4bZiJR7Ut2yTM6gwQgqoGxV6cgnmGW8PdzI%2BnaZuPi3iP%2BJBYE9kWyyHMVRiWAOTtIB2ka%2F95d2YgABhk0rTh2P9xyJgcMZNd5M7X3jX912SpriBBCvbl4LurLS%2FAuHCKC9rcP9sKY%2BOxSNIYT3cXB4l1EUrFJMg35By9CxiaNjGfMWRKBKRJxdApU7KlqfmEJpXIUi5J9ssaF5YwUw8KpV%2FPSygTZntWf%2FUD66J7zinez56atxE7x9h%2F4zhfSO4Zj70reuWK1WeJM5PD51TszChHpqhqCL5kjX1A9EMpjsKUfgg6OiGDmd0ySc0bWAftrNdhnE%2BwNu4lw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F19b566a68f0712a6afd1fa4f5b09d5b3%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/19b566a68f0712a6afd1fa4f5b09d5b3/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EdbmGLiOYnBDBI0gXdkFuG3rFwtdOYoXDku%2BCHHCEwykqlnvWIXQHbfdSA8bvt%2BNCv988KDq4AuaUNSjP5dmxF0uVCRZOU9SbY9Gux%2FlLzMdzdH5HITXqr1ZxGDiqAQwJk16yBo4PfpOQqmczEdwE9EQ3OCRQc7tCnKBkJTfvahmRweNrqzGAsbFgN1DhM8GRhb7kbDI3TbZrv%2FbHcdI3zdS4rszraY8ooM5WTRVwUorGSK%2FPcU8CLzhySieqT9zgX1bHtWcXkLMolF%2FOYGKoBRgoa2dHkAu2uFeGfr1MH6o6sRzIoFladm9HdJH77q8G06Ezvgjnxo%2BtGIS8Xb6KA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F19b566a68f0712a6afd1fa4f5b09d5b3%2Fimage.png)
 
 #### Comments (1)
 - **ピカマン#究極のさくらもちの従僕#煮物貢献者#煮物様の3番弟子#かしわもちうまっ#無法地帯最高！** (Nov 16, 2025 02:35am): 有名なあそこやん
@@ -2830,7 +2830,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4913714080/c4c7464a8a189e8c0b629815ac6fda27/Screenshot_2026_01_28_22_03_29.png?Expires=1786284570&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=yri4x7xRmEWUnxcxU9UJSqowplEynmxgboj2rbJcn%2B1sSdLKB%2FZxyvmNmzAXoBrmqGcNlu7zEZZ1lDwAuIVaBKQEYJU8y56sT%2F0KvFbdvEA12NehZqDeUoQ9PgxG5wpnlhmXcPZITpMXmQqJrnI06bhMJhEPQH97ovwpdx5u4Eqn%2B%2FW76vIZlmbQiYlQKvJG6ZK1SB%2Bgd3cZOhWc5qgyspDZbOUq4BKVrrMGM2G4kx9XjPhtUyA2Ixty8XckxMtmQUPohLsxycTWuGqz160M4G4JdyBEUULynmiiS8Wby%2BnJ7uPndSXvRgmk1wF4A9bzxgyqeV3GAE2JButL6AnnZw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4913714080%2Fc4c7464a8a189e8c0b629815ac6fda27%2FScreenshot_2026_01_28_22_03_29.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4913714080/c4c7464a8a189e8c0b629815ac6fda27/Screenshot_2026_01_28_22_03_29.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cnk7kbutnmD64qsq1bfwazXMSFTrSDF%2BpPHOMS0QIVWe1Q0wfXWZSu6D7AgFQuYKn9IdSnds9hgZhwdUtguIUpMnVoPJyfAZE0ECL7sP9FwknLpPdnqFwU1LDM4sPtWXi5UxlyBTbX6ioHrJ99Re20OVZyy2o0%2BwTF%2BTBW%2B6M6x85H6jl68iPe6g3sqHEgtZLhB5GVcwritUUYSAgbnkFJQfFJFEcQLeDRBNl7jC227AChAq%2FXvvzOBqUxIR%2FaYi0cD8hh%2B1dz7s5W0dyBfXGb5Li%2FXFO%2BAWt3P%2F6X5BEg%2ByfJrJxf6DlRU%2Boeawegq%2BZWau2LJ%2FjJC6m9Zsol41VA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4913714080%2Fc4c7464a8a189e8c0b629815ac6fda27%2FScreenshot_2026_01_28_22_03_29.png)
 
 #### Reactions
 - **Emojis:** ❤️ (3)
@@ -2867,7 +2867,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3029749762/5a5b3e8be75c8fddb29bfdc3fa128a37/photo.jpeg?Expires=1786284570&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FjpjjXplz%2BIVjN%2FKcAHkDVdNIBJmVl%2Bl%2F1FW9G9VySKneLwddEiExttqFczEbFi5572a34BR%2Bk5FYexNZKzH8k5er%2Bbaq35n4n99P09CjbYoIn7BkVLJTXeG1Fj5U20p9sxrOAxktHqS%2Fz9GgDFvBOqe%2BA0nM43ZkzVjHU44Hf7nxKC5KfLP6FoFTTj51nqsWQduh24p5%2BzMO1bDYs%2BRsjb23aN4ZM7IO9K%2FVlfcPO%2BoL860cy7Avh9sHhsqeVS3%2FaUY0GNM1M%2FXNbIwYoMdNMYUPtSC2vcS80k1gAkH2pEZ3zxareoI5f7Q0p09B4%2BfLmfRnPPX1HvUOrCeGy67Lw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3029749762%2F5a5b3e8be75c8fddb29bfdc3fa128a37%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3029749762/5a5b3e8be75c8fddb29bfdc3fa128a37/photo.jpeg?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=oeBYV%2FRXptQn%2FgxsSq9GRL%2BYXRpoauos0t07SWQCl5A16CMLy%2FwGcvMv0yNIjRcSQPtmsfmBM3ogAAnEW6q4fULB2%2Fi9W9afLAhFcqmHKSL7VmZXkfaI2nT4RraujyOFqHZWOh08yxvsyudSoqagS%2BZlwCtXVpcV5vEVuIomZIWvFllKfKQWhNgrRxVjOn7b4Thp%2BHwmQsaLQzK7jm43VEXTXztEU5HEE0jVHHloGzqum8F%2FEllSNfkPK7P1Q1FZMoivbrgJYK9CLme8sRq%2BHr7sifUejTqoBd2tJ1Yq2As5wjOG6okfvUBybvg%2FQhNhEFHjWxHd75pHy7iY8tu%2FDQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3029749762%2F5a5b3e8be75c8fddb29bfdc3fa128a37%2Fphoto.jpeg)
 
 #### Comments (1)
 - **꧁𝖓𝖔𝖗𝖒𝖆𝖑 𝕶🎈꧂ #最近youtuberになりました** (Jan 16, 2026 10:11am): いいね！
@@ -2889,7 +2889,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4054405841/e9ddd1eeb99e865ed022e60d3a354258/canvas__2_.png?Expires=1786284570&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=66APazn4VQH6LnqGThbXrnFe1aJHavms7zqL%2B%2BCpOdZIJCsX5WatAiYNL1iuPe22pA%2F1OT%2B%2FGhrFrOCnLcuipT6rBIm2Oqkz5d0yum%2B8m5LYVFXNm122BQJ9cdRuVJ9b8Tr3ReCVFPXv1cT2sntdw4DOvIdNQ9dM1jmNSNpzGCpr8i1DPeVYgoXmE8H0G3L%2BuJo%2F8xKa6KXFn88L0N%2BUAy8Aw5SbRg892Xg0xIZyVBMgfbxFEVkboU3Sr8%2FPYzvW%2B6JBM%2F%2FuPfO7SLyfTCraRxTWyMIGZHS6tkM79RzyedvaLvdTKUFnNbGBI0aCJPUETXwqItWrWY7K3jyzJTTSVw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4054405841%2Fe9ddd1eeb99e865ed022e60d3a354258%2Fcanvas__2_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4054405841/e9ddd1eeb99e865ed022e60d3a354258/canvas__2_.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rnKsssyI9xw9xIVV9yumTcGfXMe1sEBxIBqgzgSxSikXG3v3ZGjBMPjTiAegRwZdmJGHDIsOxtjL%2FySjrjll1F0TmkhH5kL%2BjXtI%2Bz5GTxlgwJCpvCsP9iqMC5rQ44263eW%2FxlELSrA8d8rQflpENO4SaXcKqGiZeAK%2FeOlF3ks8NjFPYhnP40jZoxnc2s7AZKLfE4PRgD1YTiPV%2BEz61PDUjTm5Bg7QXtPEoEVISnJWf5QTR%2FpIpOWTb%2F02p4EFtBWCZLIwVDF%2BaFM9OU0Kl1Fy4oFGVZtzeiait%2FKgP88gt%2FRqsP76%2FHLHI%2BrqcAJAYqY7DLtd%2FQEV9%2BACpYrMMw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4054405841%2Fe9ddd1eeb99e865ed022e60d3a354258%2Fcanvas__2_.png)
 
 #### Additional Information
 - **Post color:** White
@@ -2903,7 +2903,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4441216775/b0571e7c3880df6c038a25a4453a9eb8/IMG_7884.png?Expires=1786284570&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rfZFKaHvW%2BJRlcxCxIIByBgosCgJVt6YyLA0mQKKUIjPazmIPqscWfPsAk0ySzhsljOSbjhgIccD7Z3zkt9%2BLGbBJbW8kemYc%2FJ0f2avpf4sIf9wsd%2Bi4%2FEK8fcsdegvA18Q1j0BX4456x%2F4x9iroqVa4jvQiZJiuLF85LYQgK9Ba6kdZ2MaR3LOX4TH9%2BykhkQ7bva0Jep51wPTWzketxNRdB2meFb9mo0Hg8E384YoPgganB0VGsY%2BXXaJyacok02mQ19ECtA7p4CPqLFC3kSs0Cw5PEhZSeOzWZsi1uywJeaZU2fIegBR3zqzz8pkyqj8zkhyBy45VAQgC7bbEA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4441216775%2Fb0571e7c3880df6c038a25a4453a9eb8%2FIMG_7884.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4441216775/b0571e7c3880df6c038a25a4453a9eb8/IMG_7884.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4jC9oErWy%2BLpZyfS%2Fu%2Bbq18yf9V%2BI3O%2BCRmh2kRJkEOWNH8ro65pNApebxpqy65gSwdXL39VijH3wKPCdnxr5SvjrPRfpucBrPQiIT4GEaN8TmhN4wmFoPxpIrtBboACXKRlzFHEYBanqMGKA%2BPrgs8noa%2Bd6DwAlwBaFRDJsPaX%2BmAwHkfjFrk3SICtSkQpqJ4rUHOchgNbSI5fKZj5Ss%2BYQaakBEqQpvCtWEsGv3M6cQqExjsNmDtd%2BOmW8SzqUhv2yIdyW91rAMfzBsk7wOvbCvawkcSOIwAHgmLRz4OBaqQzHz6Gi01pzpXQUaIS0rdrak2wVrg7pFbOYzKVJw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4441216775%2Fb0571e7c3880df6c038a25a4453a9eb8%2FIMG_7884.png)
 
 #### Comments (2)
 - **0b1001** (Nov 24, 2025 04:52am): w
@@ -2921,7 +2921,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3474895474/773dcd558ee2ee5e6289e6b06e7dea21/IMG_4258.jpeg?Expires=1786284570&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RKv9g1ytyBDDsCCsxbKudcz0WXjdpbfpchY5wwE98AY%2FUF2wF8uQ8cnOdH5doJEuwmHSuNjxfjvXnkQWWMpC16msHyamObvANjNVXZG0p8OjnDh7S6EuO4iYaKf5sG%2F9ZdCGPT7EI1HUio8Txkc5zJ5eyXtAWZ2XLV2AsHPt8ImTFaHjRifFKNul3lZASF%2BJXMzxVI9MEJQo8BGTshFowf1lHNEbdxtyyXMOjluFHIrZPGWcRV8xkm2lKMdhnnXjqy2yusJ8zoGmXJ10d%2BTBaw3e3gHQcG%2Btcbl6y4KoC7xSK6uzgJeFGBBnbgmH3aNiermwl0DKaIdLPQ6yWu%2B50g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3474895474%2F773dcd558ee2ee5e6289e6b06e7dea21%2FIMG_4258.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3474895474/773dcd558ee2ee5e6289e6b06e7dea21/IMG_4258.jpeg?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hTCsIb1JTmbBv3g0OXNnX98H7HYadil1GWzIaeaIfzsJvDrkpIs7XgAzyKoNbb2eV5Oi36JPg%2BU%2F8G7ZbxcKPNBHRppJaI43TdiT6yVKZNBwLpMcXu4idY2NJIgN1K%2BQrjuPMJHwH9WERvXiEfVQ2K9pnc0OUu1C%2FXga00r9F7h9Q7H9a%2FESC5ZI24qvZ%2F7wG4v%2BewPnZvQeeTOsyqB%2FGZKhD8uHw2rs59jqwf6o7DaHvqZ42Y30cOnYJmcjx36LqqOtodUMNPzwpt%2FpS%2FV8qNIV0YDK3WOHKUvJ8IwwSgdQ8fqxWD%2Fy2865abzkw3zJSpDdb772Rx28YZYRDKEEQw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3474895474%2F773dcd558ee2ee5e6289e6b06e7dea21%2FIMG_4258.jpeg)
 
 #### Comments (3)
 - **0b1001** (Nov 15, 2025 01:03am): うま
@@ -2944,7 +2944,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/5a361d7d9c9c7cea49ea2b921fb25dfc/_________Clipchamp___.mp4?Expires=1786284570&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dpqjFhtf0O3l1Uzi%2Fsyfi%2FWm1kDsF%2FgYDgG%2FsA7cI3kQ%2BH2kg%2FEWGOZDh8ow4o8W6KW6F6%2F%2FLGvU69s%2BqO49MUFKiCJ1tgTjUCp55KfP9t%2B4GWGmtqhWjjUIwGn%2FFAMs%2BzkIMR6pkmLVeRuVjr4ZkKRK8Bsu801jRIE0uu7SqDhjz3iY7SQpjTs0KN0MC80UZQ5BaUQ4sTyZauIKJS%2BTpcGTfAnuyBkTdVLed0fZslbzLGNgbM0FfPOAlejUBOfRCsWAkRrGSEmE4sUfiKcQf1Ss8sCbCYCtsmX8H0my8XYDmJp1VX6E4TTq4W1d%2FSC5Ci9d378lc3v%2FlCUn%2BPIzOQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F5a361d7d9c9c7cea49ea2b921fb25dfc%2F_________Clipchamp___.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/5a361d7d9c9c7cea49ea2b921fb25dfc/_________Clipchamp___.mp4?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Rt%2Bm%2FUYIU5G63GVdacbl1NvrAovGEO%2Bqo00BMzouQoPrY6C1XicUGEtJ%2Foz1%2F4aCcRn0eXRmUfaUkGvZBPUIIMCHvpI3f8Rgpi7qwQCIkjehmt62fyObPx4NsT3sUls1TWEHru21xrhALgVFyteMaWkvHtZOZX%2FD2mU2C%2BL9JKulKWQPN0THPNaeUhUTRjG5SaHGCZJSJ3w565z6U%2F2DAlq5XWO06xku7rQSikLZ6TJvCshxP9ogPQcjdPjldq7PTeWZPlKCGP3yrKnqZbxvv27lehQihP6uICiyb5UQEgl5R3XANqx0fSi3jEqiRMHp7oa%2B0BeRVdlPlqicS8uNzQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F5a361d7d9c9c7cea49ea2b921fb25dfc%2F_________Clipchamp___.mp4)
 
 #### Comments (2)
 - **ちょこ#りおと族999代目#bw** (Nov 04, 2025 02:48am): 僕もできるようになっちゃった（）
@@ -2962,7 +2962,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/97f3d9d85f44d080c8cdb70a16145274/image.png?Expires=1786284570&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1UJJBOM0a%2BjKHDf0teXdS1zdX%2BVATJwSGPyKntErlD%2Fjahf78ArwDj3SL0cQzLGKxVyJQC%2BycwaQl9sVEPII4JdrwzE%2BjVN0wJALqxXRzC3vbCfQbPUwBsQ0TZPYcHb1QI3J5jiO0YujMeiz2opg5WO1YGIc6m0AvgEf81Vcqul1FjlihHAOIbMsv8jdL5dbPATgUCxnhUlvES1kpI8m3D9yIKyhK3ARhCxiv%2BApIso3zLof2kxIxn3XDkg8jYzElNZ9ste3RcOfOTAFVrBbY0JCsfJmRQfxTqN21lBUfqz9Vgl%2BhBcAd2fHue2354pLYPbjsPH5%2FewMUWgr%2B23LTA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F97f3d9d85f44d080c8cdb70a16145274%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2921717157/97f3d9d85f44d080c8cdb70a16145274/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qCGtpb5ZNu%2FMfJVTyMMZi5oGJr16%2BF1ic3Rq4LyKUNY2UvsSEISz8ZifXvfaTAxOng02oA1hCTBnXUXN%2F4Reyyg7nsLKbn3%2BPh%2FT0boKqSiuYDXcA5Y0BS2ZwT3oPubXFncp%2FVCe5Hj5fCiLr3xjfG8%2FeGLuiiE%2FRfS1A0NwNkCFYve7cfxdZ9rhJ0pCc8x%2F06dG%2FqhfrELsH6nJy7TTRg%2FhUAQRnw0Z75wz4fCCvGMSqji9nRX67cLWLC%2F5buHuDoumaXBnf3jBBDN5OKdatPWrBNO8pybEya5J5wbE0etNV3upuykyaGe5k4tdzbVKYU5TwmGujFyrPq85l7%2Fabg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2921717157%2F97f3d9d85f44d080c8cdb70a16145274%2Fimage.png)
 
 #### Comments (5)
 - **0b1001** (Oct 06, 2025 11:05pm): wow
@@ -2983,7 +2983,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3226921357/819a0432af60278a33ac58c58294e529/IMG_20251005_150646.jpg?Expires=1786284570&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=m1np5r%2F5ZA2xdP2JGspR7OtvOeHh9JVlGACjZ1fLXQywnVADlbc5dhYGdL7VVT9nWOd3ZJM%2Be8rIFoLdO%2BdpVr9bqv40omq96kWaFc2yGj7FNrbv11X2t8cSvfx8jY865olK8aHRJt7yZGkOsahhrOKiWBRkzeyXXiGW%2FQuD04ZX6nxWIlh%2FqqtUM5XiWAHahMVbZTJ%2BDSt3J9rugDh1yTXm8zILJdvX7jjGnUJOJh6xKXYBY4TVuns%2Bf9UHwdr8vLA6vE5%2FO7h8qXyOvsXyE1zqxdoGxzurv7lOYnMlat18ERxuDSXngQFblcQld%2B0i5kk8TE%2Fs%2BlaznKYDFqugOg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3226921357%2F819a0432af60278a33ac58c58294e529%2FIMG_20251005_150646.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3226921357/819a0432af60278a33ac58c58294e529/IMG_20251005_150646.jpg?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Qm%2BVm%2Bvo2N12TkwALJdOwFYfLjpdD04q3RuvzdQkSJnfe6xJ2HfKiWp%2FDvhD%2F%2BtYls16vmK5kRRkrrvgZZVrooN8RTU2fOGRPUxb5zvu2ISp3KYl7Rc%2BTfwk4EUG5rz0XFYQWB14fAnim%2B7T1p1pmYkSQplzmVflEexJtm8Ann0ldvZ%2FPRR13XdWP7RLHk1DIZEC2%2B%2F7ePx0eDk6xIQt2qWAAJNaukf4m%2B0XJOoBOPlW1fR%2Budwn8evddzAnzpEcE0TT1MbCe9ww7%2FirihdCf9SRVRyl1RbYKoC0B0LJiBxnfVI4RI2%2Bo5Rl5HaN8tnXKbynEeC0MoTD9wlq8O7ZiQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3226921357%2F819a0432af60278a33ac58c58294e529%2FIMG_20251005_150646.jpg)
 
 #### Comments (3)
 - **꧁happy ^-^ smile꧂** (Oct 05, 2025 06:10am): わりとガチったｗ
@@ -3002,7 +3002,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3474895474/a8c2795754c7126b76bad86040d75882/IMG_4167.jpeg?Expires=1786284570&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PLUVx1Qzht6XcAxiKySXXivM7GITs0PCWZ9BEjJn1CnPzeRM1PyYppvqUpNTU0cbvS1oHDzGYh%2FRDKS%2BZAi5s6XXXjBg5i35Fh582N3YlG9MeE%2BuQ3%2B4Dt6IGs4hfWxUfbd6qJdt5UJ0rvmF93y9e35coKaRCn2kAhi5uc7FpE0gsBX2VeEVfCblp7nrOPRXgsio%2FVPZZ86%2FR5MWQyB1xr3Ms0NBqPuQoyvMEUywRGYrc5RBt%2FZdVqRCzQO1UGRjz63wydBuOGxH4%2FkYWqdKhmLm4Qn1LOpnqp9b4TKgFjnLZ4Rn%2B8yVB9Dt5WuUERTzqebd%2FdaiOgPnoYRMKRpChg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3474895474%2Fa8c2795754c7126b76bad86040d75882%2FIMG_4167.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3474895474/a8c2795754c7126b76bad86040d75882/IMG_4167.jpeg?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6TUtuYqf9hDS%2FuQvIy5j2Sx4g9xMB%2BDfYqOjdx1%2BbaxllvhW5gYXczVVCff97a%2B%2F53gMwTf6%2FJx1fljj29Dfc8NVELUppi8MnNTpjyaLIv7lrxb7ePxGP2XjRO5kL5J3%2Fm3Pvk2kl3yTEcgNatDZm95YZGf0ytW7WUvd8gH6NPxILeSPA5sNOm71yJIQBd8zR6BgQ2TZL40bkBU5iCa2MGo2BR%2FAQaMQbwwYbFakbrW3nJiMuIvN6pkfRfw8bhvg8xvkdvqeKn7tbJqn6FMcpKsshSnN45zHTrimgd%2B7BQK1GzWciCZLQ8%2FOZk0WJ4ElrFEciMpH2KtinCuXeCx8bg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3474895474%2Fa8c2795754c7126b76bad86040d75882%2FIMG_4167.jpeg)
 
 #### Comments (3)
 - **削除済みユーザー** (Oct 05, 2025 04:22am): 天才www
@@ -3023,7 +3023,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/e31a576a484313ba0609cc0e87343a75/image.png?Expires=1786284570&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0XSWGNr9I71625QhnG1uQ7IoRozo4t7MUY7aux5zrWVGTIjaajw8xUqivTbCO3AooJwOvramfPJgIbqS%2Fg6UBYrJ1x1wYf3oS6GStuDC%2BcevizGb8JIHwFEx6CUT2IP3kQ%2BSPTIUovFbDYywfHzy6quZhpBwZ%2BdKyWEu5l%2BPIktMG6%2FUxeYrXYNAgvwRNc9qn71SkgvCYRY6TdIJ7wMjQXVjKvekuAWrzhEzKJkkjuqiXW7zQz5KUSha%2B1bGri50W48vGrh7djAHo9TzG5BdPf15sUV%2BYKFoZDYJgzKAXIPCSkKB0kBTgyr%2F5Vz8zfF5ydNoxhaQ9KthBswKunDuGw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fe31a576a484313ba0609cc0e87343a75%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/e31a576a484313ba0609cc0e87343a75/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GnJfmjxXI4dkp%2FMN%2BdjickCjvSSI7fokpm6LYJfjGV8YV7ArObH9SEYLIYO%2B%2Fe3zEMWlny48Ysk771LApv9oG9erXdDMfA5HzEmsq3UcDY2pz6d43AA5LnRaJal92Wg5Su3M3ueubbrm2cO01FK6hUr5KAkAjTxRBxeQve3vbI2p7vLnPk6xlb8NDf%2BO5Sy5yzpFD28WEABOMg%2BZCyRM%2BGpsNRpUhAL%2FiGi2S4oWz980qNk7Gy31NdyzL1woToPT9HIMRry1KAZYqQ0cSlgUeI1oIb3i2OhM0WbGPlIo%2Fuk944DwLTK6uYdk13JOiDsleScz%2Fu57wlEv1ccKYbH3Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fe31a576a484313ba0609cc0e87343a75%2Fimage.png)
 
 #### Comments (1)
 - **꧁happy ^-^ smile꧂** (Sep 30, 2025 10:23am): wow
@@ -3040,7 +3040,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2748131995/162a620d295a4a4247cbd11d34c8dba2/Screen_recording_2025_09_28_2_44_24_PM.webm?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=S3eDptdlTMjJAhjsooU55%2B83mohkGechC1yagBwy3orlnBGFE8vOZUb%2BaLguDlRCKGnUSzFJLqojoeyeYpRm%2BeX1StUBq9Zln2E0jsxrJKKMd33T8Em4IfHElnKSmbEQ20aLPiJTwn6p0rQmOTlvAn60UcdBIdrfPDsNYS8TPeV9pSSlEUzVegxSLN37LNwaYvL5P8tfoo9Snd9HycXkEUNHbpsea2gmmvk%2F8F6wCxXlxnGry1Fveyyo7jcNgB0kb70Wsz%2BjmgebrXoD6bT%2BICwVwtAJZqYYe4AAcSzG5zzrC8SQp0j2P8Xy2WLB5%2FGfL%2B1exVHBEfYExggufOV0Og%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2748131995%2F162a620d295a4a4247cbd11d34c8dba2%2FScreen_recording_2025_09_28_2_44_24_PM.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2748131995/162a620d295a4a4247cbd11d34c8dba2/Screen_recording_2025_09_28_2_44_24_PM.webm?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5%2F7wNk4sU9bXxwvGb5za%2FW8SNbD9tBfFn%2FZ0TowYRpOBg%2BbJhvmku0BiDFh%2B96gcMnAuyoL%2BdA7jO4ftcAgGqeyMg4BQFXxFrPbpXbZ0V4hvqr1TsGJWOqTkNQjIumFV5bCV7gEL%2FMW3Z7FpeKmpQnHNyA0pQNcejKmdHa%2Bt%2Bq05aL1S0s0veibxBgIFl%2FLECLuhzOmNTrKjvVAOYyq%2FrTOB8w8O%2BDN2tybE%2FHi%2FqDmwDhV1luzssDG5sp2hRln%2FdJ36RtI62VZVhCkSmdPFundlxW6%2B1NwjfSsM6TyEAm5NuSrR857I262w0UQEokNGAdSFMN0B4LB%2BdNmW7%2BLZCg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2748131995%2F162a620d295a4a4247cbd11d34c8dba2%2FScreen_recording_2025_09_28_2_44_24_PM.webm)
 
 #### Comments (9)
 - **kitune_lgry　#現在友達の家います。** (Sep 28, 2025 05:49am): そしてさようなら　多分次来るのいつだろうなあ...　多分1ヶ月後ぐらいに来ます！！！　これからもよろしくおねがいします！
@@ -3067,7 +3067,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2431552291/6ae3383abc00e799971c9dca86b1711f/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jiKnmNxbNjTnVejVqC%2FFq2mJkxAdgVsMbAA4KYg1iZvEucAc0jlD7AjSmpPUdMMTeW4QbnW%2BeCVFfZLTcb7d4ihO1VsEf1XiHu%2FtTlpcdrL8cM2D79uiL1WQx5ndoqbg9W4htau0hzmEL17YuZPmQI%2Be%2FY60SevyKABM2%2F%2BbNgN5c7OB0SkZdxeSwzntwjarFFDNxN7aab1uD3H43l5l8mPOzlCwrew6ukWYwKhEa0XVs67jZo%2B1HA3JrO1NrPVqAr1kIXFYuY1FOQ1GNk9P%2FNuPhE9ZAV4B53ki9iV5s8qbfhxR%2BT31n0mYpUX4Yjgt1V1Iz%2BlAgqz2Wme%2BaqN7YQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2431552291%2F6ae3383abc00e799971c9dca86b1711f%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2431552291/6ae3383abc00e799971c9dca86b1711f/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SoUR3EhAj0rLSUBx6vAuEtFmk%2FaozschFDqe%2FyZJUgcm9fjsdGp8iZ8sGywSI8h0MTUjzy6BsHUVskoOub92cE%2B6TQNPkZex5QYfqkXC33QQ3KOSemRkMUwJvo0K9o7X3vRz6E3ksTXQFWIim8%2FvFrlVnpPTpZ2POh7F4FJs5aO%2FNxKuh%2B6ohnm72%2FohQC8JjvG186uOqNY7sbXGGKZ4kDtIYXls%2FXyeInoFAz84Bx98Lm0Nn7L7sh4qx9434c%2FCdKcfpjS09A5E3e2R5sQBjfJumVtGM1YJs%2FPayez1eJZjsjAr6z%2Fpe6UU3CXT%2BB2KMkIp%2BA9laM16xeiuxFVr9g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2431552291%2F6ae3383abc00e799971c9dca86b1711f%2Fimage.png)
 
 #### Comments (18)
 - **zakopanda@2n2s** (Sep 28, 2025 03:34am): あとスイッチでアンドロメダブリッジは不可能とされています
@@ -3103,7 +3103,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/998f6e7667631ee3724ff396567972fb/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=daThwfEPGaTdA05BwIgTIrcBXsd8dpbKCxmj%2FmB9OdADl9shRLTkOy9homwuyyMHNlLWmkxJ%2FGJGNXDLqtwRVIQfwzfW8ZCg%2FV8ZdERkCKpzA0KSxYg1O%2BXnxj1S6ocbDoV%2BTADE6x96Kba1MhEVt5NwJGmVybgx6KMdueaKtv0TaY9HPFEH2YlMMYGIlkveVQHzctYsaqrwa0o5MXcOiNQCL6%2FnX4J9dVwIVU4a1q5OQuiYYK6sIurr7%2F7QmgDmqdf7JoYLFLhZ5zfP4ovo9m79CFZhGuF6ktd2Kgumf3%2BzDOpTbQTZuik0EEeT0dgmzOGnw6HydS4LVQEfGpu5EQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2F998f6e7667631ee3724ff396567972fb%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/998f6e7667631ee3724ff396567972fb/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4eLeKOAVvH4x3sM3T2qq7osKfuGbcxffkDQI0jrjh0RqHqz7vinDo1r4Dhm%2BpXHMXbHwtonjBJmRA9RETtJN669DDXU3vUf3xBR7vHD3hjavHYkZFORa4yyk87Q8jtQtO8cXN31PaMne9VMIcRMykHQSXBkfMLUAvBnkiJ4%2BpfE2vo%2Byh14SuIgf0kNxFKWq41JiDr7pfGIsHaygYBGStS0sNvhOpkEtJPQd3KaptbLlMdiHd%2B52Qft%2Fm2d3GeTULPDoKbww5WFoJ7XUG6EGony%2FoW2fUQhV6HpWY0npCP3E7sJE3v1NUnJeAwWfEEX37XE93D6W1IQTiEW7uvMGPg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2F998f6e7667631ee3724ff396567972fb%2Fimage.png)
 
 #### Comments (8)
 - **tail(テール)@2n2s** (Sep 27, 2025 10:30am): 最近スイッチ縛りしてたけど感度マックスにしても絶対アンドロメダ不可能なんだよなあ
@@ -3127,7 +3127,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2685745262/f1f79b1d238f329f486e977326314668/drawing.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zzuvWu2dWT8WPw2HRV%2FhO14udj9JOYwKo%2FreTOVj5uRz0%2Fd7bcmxEvYaQMgVHRzrvHwaHUTB8v%2F9pCJ3E211SgGQXltM2flS7alLP9ZPw9%2BvzTKZZ9jo3DWvLhmzT0l6Kije4TvyoAectUSqXGTVE9kcHGLSB%2Fspw6LwtPGLiiPItIQ9bZgHD2hTfeSd%2BlMumudZwiJv9bIyXCPLjhzhuADnod5Mil0JxljNRTQj0Ze5Cvt39kGbZmHtMTS9Aq6gGhKu3PVFOuALrshd4HQiYpPi4Ga1vsONwZB3R%2FyVQ%2BNQDRJ2W81N4CjdqxzQNpFcNsbd7gOJ2qXp2UnFtJB5bg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2685745262%2Ff1f79b1d238f329f486e977326314668%2Fdrawing.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2685745262/f1f79b1d238f329f486e977326314668/drawing.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MvAWI2AluYo4bzn%2B%2Ftq%2BFployPQwx%2FdyhJ0ScjoqWnJCLJdyLOp%2B6FLP38aKeJlQwk%2FGCI4vLEaktP4lLEOnozrL7iysJ2LAZqFBPOYM898lOuervQ7x%2BLbJzXJwAIooM55kRK2QWPlCZmSVvszeDbZ%2BhGlRVIf7TrlYMw42%2FzpG7%2Freb22%2B6sl5h%2BJn368qAfkQnbs4%2FJn4mvsBGlJCp%2BOrK7PRJthythpzmmU%2BX6QX5HCdQJidFec8lxgnExQeNBp1VC1k7SVRZVRuChjyNpqWEY0XHYP4RHIhwrG2gag9ZxwVhIR0HBxmyGrZxcIchsFIolddQiC6xxOVl%2F7Dpw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2685745262%2Ff1f79b1d238f329f486e977326314668%2Fdrawing.png)
 
 #### Additional Information
 - **Post color:** White
@@ -3164,7 +3164,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/aa2325f5aec19d7938330859b63d46d5/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YMNObQK89ima44JZ1g58lwX7NA40uSj%2BIG%2BA7MVf%2B9bkXfXOh%2Fu%2B%2F8TmYYft4UZlsZqnfNfHzNpjUCD7dppS25goy1TnrUMDRkT4fybi7Ab5l1VzJ0jPlud55ye7Kz3o%2Fw%2BsAxvyeh4k7%2BU2S8O4Gy0Dvk9k0xKJDhWikThdqMyYWW%2FBZi3kPNBRu2S7I%2FEqzl8faeXK44534fKpledW%2FM6jnV5oiXBsgEKy%2BVaT%2FS4qbsrIVe50d5TTy7LfLG1aWTf9NnSBoqIHRdnOW67NQ%2FtHn3x9qLUM%2BwhilAPeZG789FgAIXB96YnLl1VZJQthUGwCGAundlbQ6ALuNpVZFw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2Faa2325f5aec19d7938330859b63d46d5%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/aa2325f5aec19d7938330859b63d46d5/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UyAu0JEgxR%2BUsNJ5WjvDCW2LUuWKjtyXi3JfbNTbhHGWjFIlJqC9k%2BMOkQH2ft10Z8TkdCuiNmXfhClqtalgY3tJCmKmjjjkY9lBwRI%2FcZB19StF4r5%2B57aqfskLcw3F2JYE1TZ7zrtQJJu6lqCfnlujPB98191Be5njNdtD4bOZ%2BlONArIrdOC2qqMYM0zKPX7DOCWOymvvGD6ezfKCiKCYQitPUdQcpe3toyTjwcugfc8JuKwfLTuvlQ9ey89wGyA%2B8dWHNqMmC4kkpOyWpZFzL5mxqwmQVh71RabejHeCkDDDi1ttV%2BJVj4XsEpXcLRv4kHv17F8781Uhz3NR3g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2Faa2325f5aec19d7938330859b63d46d5%2Fimage.png)
 
 #### Comments (2)
 - **Magurock (偽物･偽造に注意)** (Sep 26, 2025 04:17am): なっつかしぃそういえばそうだったなぁ
@@ -3178,7 +3178,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 ---
 
 ### 18. 今日のHive
-**Author:** MAOGAmes (NeonNetwork_MC)
+**Author:** 削除済みユーザー
 
 ソロ 2位
 
@@ -3188,7 +3188,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4248430913/1b421cb27d5ab5d9504c285d2cd8d2ad/Screenshot_2025_09_23_11_28_02_985_com_mojang_minecraftpe.jpg?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=n4cOoFIBCZL2FlWsHeWPMC2ri6V5CilLAwXR%2FM%2FpIrKJCyp1UHxgWCAnM1FDvnJ7JbBQmKmhFuBwjt9AHtBe6rraf7sBTpljEMOciTKTuHhyraIN61qSNGcB8ypAiafv%2B%2BhIaCNdaxjbgVXlZJ6M7KTWGmxdgSKTCYM4N0spvw9zMvfLsU4xkfKhQnDGxombu%2FnxIIXdlg6Kjm7kl8xaBKRl4aiKnK6zDyjBXhu3BKYVHt3rhJJ9b56ZAf%2FF1IyUJLcguVrig%2FN5Y3CrdqUmN8LOZmHZj3yqeFiqAg%2Fd%2FMeqd74KigGxxq%2FldSU%2BYMCrRy9y%2BWz%2FzMO0l1GgmDJTAA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4248430913%2F1b421cb27d5ab5d9504c285d2cd8d2ad%2FScreenshot_2025_09_23_11_28_02_985_com_mojang_minecraftpe.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4248430913/1b421cb27d5ab5d9504c285d2cd8d2ad/Screenshot_2025_09_23_11_28_02_985_com_mojang_minecraftpe.jpg?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dAq4eDamOOy7UkfHawmOE%2BPtaAAYtN%2Bv%2BIiBDn2%2BEHT5NCWRmFWSj%2Fil73%2FQ6niV1pAQMntYeFinfAJXxAxv5pI6grVbUSZAvvOLhvZ%2BkghXs0LK8No3jrV3VKwihzjlNpmpT0JC0CWJybLQTjUPI4NJMBafiAWelaT3C%2FlhAigbrPZPCpLZZrikObvJa6kQ1XbPagGAFmkPdbQoZH2rUUhNijNXUNl4xTLW4%2FlnMEQhQfSV0o5%2FACuqXguuokKjufeZg1Xn7XF7CLFCtfOGkgpXnvq055YETCVpvyg2Bk32Csor6EtWYY%2BAyIfIgtjgyPVnJFQlxA5MUzX5Dbf9%2BA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4248430913%2F1b421cb27d5ab5d9504c285d2cd8d2ad%2FScreenshot_2025_09_23_11_28_02_985_com_mojang_minecraftpe.jpg)
 
 #### Comments (3)
 - **0b1001** (Sep 23, 2025 09:07am): おお
@@ -3209,7 +3209,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/9f0ce85f0f58eb323fda458891a86993/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=m%2BJOacxH3i6jli9EzITRJhofiHzZEXAY7Z8dqu6rv%2FUWyZmNPQIP%2F0y%2BXl0NqTL7FLbwipH2GHPjeBRNafTtC37KHO6Q8H1fjsV%2FxBLiznSKTIF5tG3F5KVZRlhvCjggGMj6wGJyd2YzIK7xcxLhS%2FXtgGJM5C%2FYvEcjwkGZC2QTmzb2fia9RONDtGAi2m0uyzzLK0tURS%2F68GGedPK7O5vwOtgGe9LILgb%2FV83fy8f1gFVwVOeTzKw21ID%2FVPM7TtSXfQCWRoTg4VBsjBq%2BxC861INIl8%2BpfLfPZDxt%2BWzv4aIPlNV3MhwlwkCInQxp1BI14yS3Ajz7aXmr%2F76Qxg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2F9f0ce85f0f58eb323fda458891a86993%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/9f0ce85f0f58eb323fda458891a86993/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JP2LBT9LOi2JvPuZGXzaNPXo%2BLGem7yIuQyJp9ik6HSLx8CsQpAREQ8pIomPaJ9HOF7DxlXOHKlpuWzAUt%2FDeteJDrbBnbj9anRq7Eznr50VN04XL2UB3B%2B%2FYAJiUyPDiJf5L4gWuOkFz5A9Kq3wVKt2a4oLDuA4J9gzT0urW%2FGIOZEF3oqzQMev0KZATAq%2F%2BzqkLNtfkDOt2oI1Y9FU%2BoaEtrEpgOCx%2FQKi9i9TI21qTLEyHHWeJvjgBjKLWf31Npocfl6uaigLq8t92noPyZx9IOX6f8oqP4IKQkrXDFbFMdZW3yBmNZb8mrLJ6fIB6FPllmCuj6q1zwqSUDM3OQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2F9f0ce85f0f58eb323fda458891a86993%2Fimage.png)
 
 #### Comments (1)
 - **tail(テール)@2n2s** (Sep 22, 2025 02:33pm): こんなアイコンにしてたときがあったらしいぞ
@@ -3226,7 +3226,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/6f724d8981befe12874ccb249ff63273/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=maq78Ol5WU8R688LcK73M68okVmcEVH%2F7XAv159on1U1HLnzwMbglEGo1ZVO%2F7g%2FVvJhNazrCyi2%2BEWa%2BwhXrNrNX9yewudtcN9XwqQTCZyAJXRVC07ibPlfM2osZBDtI7rR01cdH512mTiRvlSijyw9b9GM81IpUhU7WNidDFlXywDuwze8J1D15kkiTPAAq%2BVTugxrcob1rYperEXsGJYCvq1Pi7GNLfAWdme6y8i62wpCRyj6V11yp0VPUvynynNk%2FVevECMrlSiXi1kH3bnSnO7SbxWyfnQe3z%2B9qV938V5MbTWVG2E68sOhbKem%2FjqOpMRRoUY8H5wZVa2iRA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2F6f724d8981befe12874ccb249ff63273%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/6f724d8981befe12874ccb249ff63273/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lqnaBRAWcJxi%2FMSVExQ02D0UGMNZ1qyMha2KbZhSMw4o51QN0KbyK2vb5nA7C7DRJ2xhi5YNt%2BMH4oOequB1tl1cWEbRag9Ut4szc0upEqbSjJJ116edg%2BfwSokO1zinvtk66fhqrg4mme%2F7TFue3AKQYrixaGoNK0aiOUEQkh4tXn6VH6jE2wSqb3MNUHsIrI2sE9FjCGI%2BdKifmxliTat%2B2NM9FXz2UgHpuGYXK5YMQj%2B7pKzmUHvjexC9s0D%2FCVta9PceZNA91Ss4qbR4u0AqRn9eqkBYzwmq0XbMpU4jPjPIZBWRcMSQ2SKKoarAcQWK%2BIjZ2CyYBEzNPK67wg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2F6f724d8981befe12874ccb249ff63273%2Fimage.png)
 
 #### Comments (19)
 - **床** (Sep 22, 2025 06:59am): 部屋招待してください
@@ -3261,7 +3261,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/c51e4455018e8e6c2649c7f76d0df9b5/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lSn1Z4Z%2BOqOEHfPD54NEQ4MbshuCztMAZPYKxuevDsJC3wVOtMjCIKBbfDqRbEsR2fSxj0bIsz8ZeG7b34K77cyi3V%2BzL7vh%2BxTC3Nv5ch5WfGETHc6xOGkHTLh2e%2Bo%2FVCM%2BfpN1NtEJbKCTft55C4%2FS9NXBpPxlv%2FFS161gA%2FR1iH6TIQ5JJ8smQOekmBAoSDugoDqjItfpoUcvNlw5FHu%2BsHO4hPZeCKMzqQkyZqQ3ZEtu0tipCurL8pLl%2Fz59u0HVkc8j5aZQmsq4%2FAMuWC00FRtJHlELLKO%2Bq9v%2BNFY6mSA4z9rRC4G%2F19%2B0PXBpOpUT8wJ5sus3Gnwcd51RWw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2Fc51e4455018e8e6c2649c7f76d0df9b5%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/c51e4455018e8e6c2649c7f76d0df9b5/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Vcl1obIKYSWXIWFP6g%2Ft7K4kXX5fmPifoXoh%2Fh7YRgDBYOmQard3IEk0D5qcefDBNjBamkmBjw0Lt9igkWsDc6xV76xqKVT99U6jm9RgOYL0MgRwvJ%2Fw2AxTc9gAzsLxBkFfMmqGQvBGoIB35ighof%2BZGNG%2FyDSwmun50AEtdHW35OtVMTPR2Au3kbxaDGRgwCoQoJbFKv4wlbrF2oJ%2BlWik0XAwmsydFvJu3qDI1P3K1GZRgKgYjW%2BgMIHyWo3e0NMzW%2B%2BNbAQ1h2H%2BPN4zqee1e2EYUxRnDWM9wuJZk9R%2FSERlR69V90pJ5ulWHNgY%2Bo1OgI%2BDJnAuD%2FXiyfa0PA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2Fc51e4455018e8e6c2649c7f76d0df9b5%2Fimage.png)
 
 #### Additional Information
 - **Post color:** White
@@ -3275,7 +3275,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2804505754/d4a670c34129d8a184c9d40c4d1c5a50/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=a8gsuxp6LpytFetFWakHIB2vubG%2FPjuHZXXM58CKT4OyV1kLPCV3OCKDQoJSOE7S8yE1fHjpxK%2Bx%2BvtQCVzx9YwoPwI3l1PdnNXypvTzd1bsPOuSu2dk1%2FTL4%2FpZ4NtujgD6Buc0Ua2WyAfRK6OuDYknQl7msCrgwTlqLO7hwz5Ir2RH%2FzA7cqQd1D4M2nO3Cl9kkEl3SPbfZDbUuvJ5zk06gENcdtQPmMGR3wVG0geNx0oJDgYquC2OKktE9Rs7pc0UxpRTxnEq63ns5FRTIOSd7G57Kbjc7nhcxFaVcAuqoVr2XRzaLwYmnPc6DrAhw2iTd4rmvJBejlFdkTG9tw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2804505754%2Fd4a670c34129d8a184c9d40c4d1c5a50%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2804505754/d4a670c34129d8a184c9d40c4d1c5a50/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SfG2UCHkjSkjXNP3NgUsfnOK%2BsXDuLtHwXFVGGCZ8vUFyQZ0odKgNgmUmgsAspc1iNVxuZ26fdNuH%2BnXY1mQZCW4tSjw56abdENswqZFtZZJKLzZsdv8SZft%2Bmhk2IIfFshncCbJ2suDwNrJismIdOHVntf0Bfczml4z81OHSc99as%2FNd6SF4HLMgbyI%2FYVQBHRBQ5%2Ffn0UTbXR%2FUvU07M3vpFBbuUh7bsU3LM3VphDE4b5IzHXjQDeQ8zHh4RY%2F3jP%2FJOnIwYZALOPQrYPKmjgz1BVO5Mg7kgwhpFCDAo4hEDB6BeYo6dxCw1qTNo6LiBRvY44wioOyJxYX5984Jg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2804505754%2Fd4a670c34129d8a184c9d40c4d1c5a50%2Fimage.png)
 
 #### Additional Information
 - **Post color:** White
@@ -3291,7 +3291,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2804505754/f0f570028209bdf44d03d6a3b2bf5d4e/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=D2cEB7QsTbPKbvW4LzjL3qPDuS4YA3H5gi8K7cBmaqFA7ScZHz%2BnYh%2FShPwOnCiCMkhV4pqLTZRVZYl28oODl4ChnU1f1yUF3d48WLsRcffnBAddEDOn1C0Kjn305DReAiUZy8zt%2FSWlKnzyLWw0cCalH2Rmq6O%2BeNtYn6lZl76gJmY3y%2FYwIsukcfdj9IEoEWwTtlP4l8SDGdxuunDTv8Wv%2BUDu3iQCDlq4kJgudKr%2B%2FpTgYhkvL70NXuqOLiCVSeslGQX8CxZTQ3crNiHlTH8W82ygdeHNG3tw%2FnmEKkXjgS8rfjLKfFaQAmgZRQzF9NGeS1NP9OGmSqFwBe9tFg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2804505754%2Ff0f570028209bdf44d03d6a3b2bf5d4e%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2804505754/f0f570028209bdf44d03d6a3b2bf5d4e/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=b8h49Ob0sA64QaMTCUw5bTirOklXuiZu5511fiZwqPxQsr8FJc2K9V493onwWt0TFU2JbeBqFKiYbV6VTsj1XJanu3HuTY0%2Fh0KvcYFtFOmnBws2SlZQex57KC3jd6kMUwFxvRzSVqZg6lIzKcUmnJETkwpy3a6uBfoO0%2FAtGYr5wbSX6YDTvgQdGKGC6vkvum2n4W9lShaOSDiFzwr4sk%2F%2FErBGbKjR4FLfrGn4OBskkWlwydwNMempI2t%2FbWWeeNQB92ckyKMwYvyKmBG%2FwTrM9oP0ZDthyMBJWypwAlBqxk90VvDxrwqGluI2%2F2KpmgSMsU6V33ZJOSsM3gx4Kw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2804505754%2Ff0f570028209bdf44d03d6a3b2bf5d4e%2Fimage.png)
 
 #### Comments (3)
 - **zakopanda@2n2s** (Sep 22, 2025 02:17am): えぇ？(困惑)
@@ -3310,7 +3310,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2804505754/b3bef9bb8e071eb2ffa6a9dc043ed9b9/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=aDx9yEItgnAsFw5lZxxQNpEYZ4nxEtJcqdZX4QDXv1nHxUFxLqlG9Kyy9SeAPXMQFG23PMYwKS8qM5zZ2zyeljuUSjT9Mhr2Qrn2rDquqRzGTMH4k0udRExpI8Mq9BeLtOqFZUD0Vj0CixOsVgkPlVwl9VUaKjqRs5UfPVNdiEcVg49hxXI6cGd%2B%2BzM7qL2SC8v%2BL0%2Bd0rlJ94SkBw4YVFoHh6vdq3DyN%2BRNR%2F42Dnkih%2BKBpzY%2Bm%2FRgM8aBLZhoUQY7M7wmNzB1X3PDx%2B0R0Ma91xHkByUvSa3vvkJ5QzQb8Fs1fZ0JI%2BfYZ6E5LNzkfOcyJ7MaVnG9z%2BZBKId16A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2804505754%2Fb3bef9bb8e071eb2ffa6a9dc043ed9b9%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2804505754/b3bef9bb8e071eb2ffa6a9dc043ed9b9/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wFYPpewtr%2Fov%2FtR5%2BMO%2FJxDsRz3neMbWvsoSlmZg2mH2%2BbWxsHdjTNd9GAvKE3XI5scJyWBkBnjUk5h%2FyoGNYkzpWXhQjqVCXDVJIs1Dejdt1wqAS7JGHoVspbGdQRPQhcgqQF%2B4fK8LR7uQ3P8p30tYCCxn%2Fg3SKAZQTi9vHuVbK37hRc4oPXQhxCEO18IYNJT2hyNR%2BCkh%2BovVhvXwssCETdohyc4SWEShHJ%2FiyqDImudhwteBl04zjfYo2hI5w5HqWYpZ3sW%2B65JLa%2B0J1oVyE5xVzymFx7uxemdzBmC9A1jDYUGOvBSvR%2FKNI0K%2F8vI737lzUtjeSDB%2Ftoxm4A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2804505754%2Fb3bef9bb8e071eb2ffa6a9dc043ed9b9%2Fimage.png)
 
 #### Comments (2)
 - **zakopanda@2n2s** (Sep 22, 2025 12:57am): うん狂ったサイズ
@@ -3345,7 +3345,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/db63b18b67bbc9e27a0fdf2a208953c8/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=XSY2%2FT1napBQ7sfc4hfnVQyPlykWcpbuLIZq82vyC0pIi0f36%2FIoV%2BgIdiIH8w2Zv8XsOEebU1no5j%2BEj%2BhWXC%2Bi09lEmPvIvvqzUvQv%2Bx8ItIIgQLeTvDlHRW4Ka%2BTQLMT6FEovAuQIjuv9%2BVJU%2Frixiav42FUX9rCuh5FL4ldQzanf0sKPQKF2v9DBGrT3ddhZTdYj9o9jGClLmV9SBPFETlF0Ps7BD3IRsjy86vRDGwKhhc5eiJFogb01SqSV%2F3i2%2FsodQSeKomCLR9hEoYk3I6VWQpcYSOKw2FSAvwLUREk8QXwVLUNcqSaP9H%2BU%2FLFqs7VljhlIQBgaksdS2w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fdb63b18b67bbc9e27a0fdf2a208953c8%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/db63b18b67bbc9e27a0fdf2a208953c8/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hU4UgbN0ZCydTsz%2BNTNFQDbYGxBxfkZvUjlo2CnWfP8NnbvI9i3uaXgxVmv3d6GUsE0Bo%2FlynvYneG%2FCsanm6iECpDywwVCiHV7yGkrqLL%2BwTyRbv%2BqQK5NDNkRvpM2cGCNXss8fj4TgNohTefaMLgybjit3drELegeNtDfpf7qOp5dmo%2F%2FO7A4Narkzv6uHlHZ1qAd1CuTF2NNL9rX1tNKrzy%2BT%2FX%2FF21mc75ufVTQ8FZVag7aihifm%2FyLQS4RUZGPp%2FpTPlFdoLncaVI8iahhTGdAgs%2F4z%2BxiUg46yaCa40XDAsDeRhzcXfni3PVuqQo%2FsDlnzLm3GCRnygrc0uA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fdb63b18b67bbc9e27a0fdf2a208953c8%2Fimage.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -3362,7 +3362,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/ac7ab9c2df50407cd4fcfafed0565e20/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=iZ8kr1ghSq0VDYXriMxSaTfvIIzmfaXLIuU5vasaYLPE3WZKuFaC6IAclVV%2FEY95N6V3DMSiiShqdqIG6PvMNPUofQoWAth8Im92nntGADr8V3nM6y8EF0Fc%2Bcha8Kj5vYLJDShVpoHILwlqJw4CwcKaDb%2Fr0oXUuMwq4H21CXZ8r1qEUZKz%2F%2FWurO09uThMjycZsFLGmG0k%2BhCXJ2Te3Vr1QvkHeuLcyXCi%2FEipgiehMU%2FJL88TPC1pzMG3HJxn717cgdEYZXLNGSwbB8Xd2iQqNuoZMnVPPHo94wufGcXZxObpr00y1%2FzUUc4NrTt%2FA7u0U5J8yUUC8pHZBcBr9Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fac7ab9c2df50407cd4fcfafed0565e20%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/ac7ab9c2df50407cd4fcfafed0565e20/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7nug%2Fvjj7vR3KYRq0Qi%2BYNAMEaybhPaQwqCCnT%2FpSD%2FSto7Qgp8lgHhpVF5wx4%2BY2Nuct0DY7XDVnHyTpWwD%2FMHv6N7Y8xUEJY%2FosctkcOxf7wz3XAL6KRo52VIX30XuRkW1%2FueD1un9nkUmRqggR%2BGZH6FsfcMI%2B38xcAA5cCBU7ACpNqyqi6gK4xOKAJOlqmmug8qU1LfYmGvlm7TRQgx2F6%2FKkKDRz%2B3u%2B97F0Fp0s4o56%2FjaaULS9Ejkmhnv1KeZaexyukMsLpNZzNEMiSLa29%2BETus4qH2M7v9rKxharse3GJSZj9S%2BwVJHV21Ztp1bdAnrpplfkEb7hadF7Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Fac7ab9c2df50407cd4fcfafed0565e20%2Fimage.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -3379,7 +3379,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/3ed589334603b89ab45a728a0a062611/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tsgCdhglO%2BDnubF2%2FkhLJ%2FqI3WbXWRMZUOA51bIxHLy%2BolKTTaAUk2dlPTmtIIcZQP%2F8q2cd18qhCGN2cZoYJKhUu%2FfaKF%2B6ZwYcLvAxEISgcrU3kk9sSD2gBz%2FWCbeu4n6g1u2HvpuYNuLlq5Vqm%2BNMXoZMCIOxB9zpoz0pPx7NKJkOphyr3lcYJB0HSYhbkSDYngt7Xklfnp4ez138ajJFVoGPDdvoqpITeaXid6nHRL8UXqDDqrypgfqcqwkDumLyPrzswBtn5YyX%2FBa3IubdPm%2FXNpFlYu%2F5eS2X0u4wdhPkFKkKl9T8WVtUJqQMzIG0e1E8rLhHKbL0lCtH7A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F3ed589334603b89ab45a728a0a062611%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/3ed589334603b89ab45a728a0a062611/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=iot1lsp24c9FX0twd6o2pZFXxBiI0NN0LNBUZqpo1lZ7vYvJ%2Fe1nqJ4%2FoAqBlqi7fRtvf930LC163xUn3VnB2NaeUruplUWGcr3M21wf24%2B2PStYEdJDx1WejAJ501nzPVHcjVIvMnVV2LPES7DP4z5sX7z5GW26Ae%2ByuLpt%2FQ2kOCJktLh4NJxYB93z05m8c8fC%2Bjh4Iy9EA66IXewJZr7qVpqaVAi6NRo6hVKuXguSbHh7xo2kABzq4uPliEemYEAiaignDh9ozQvFckKZ4M%2BlIqBDN%2BWjNlvz31cWvtM6VO%2B9pwYFTn%2BFqcrD%2FRPQMER5uQyhCF213uuhQc9G4w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F3ed589334603b89ab45a728a0a062611%2Fimage.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -3396,7 +3396,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/42a6166f11556c73a40261bf98a51d51/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wskOlZqNmrtZ5VXEoT3%2BtnSFHyGyG%2FnqLh4qiyJsgp4wZwT6zFYsW6z5Xxeur2pGSAgz9TO3HL%2FXhENjJqhIKAeEk7hKzPDVHzV3l5bL0Q9St9gZ3gHFj%2FtlUEcwyThmJKalx8K%2FU3SmNADgGXsGCwHRWzAEy%2FQ2dzAbXLmxf4CR9uens74CYfAkfaJA1p1pXgxLJDpABnPa4fYcWUkUgwF6V6pui17iEvFhte%2F2KNouRKdQQn59AK2R9LLWo1vJBfKSfrOV2ju0QMLU0g583X7qZ0e9B59oHJRaQK%2BLkpP3QQOMrTujUbb4WIsDf%2FcpNRJHeJLfITx1sxlSImVjpg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F42a6166f11556c73a40261bf98a51d51%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/42a6166f11556c73a40261bf98a51d51/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=CkAMZd%2B1NYYsppmJcZEBfVTupcywJKZlHgnQveIiRPgCr3Zr%2FcBNDWzRnYKkReqajbUDNhwkYmypxiSfWivZOT5cVZdHMDCV0Z0Nh8zdiP0ZzoNwqw%2FqZDeya1fdMV6QqqYa3TDxoRN43DObB1hOOtiaX%2FCpV%2BXt%2BryLqjYontEq%2FzC9rNcLjNAJENwvd4HwLEjm20NHD2FX6%2B4o7iC6gCGIP0u8dEGqlwQNXlccV4eyWRtCE%2Fi05kRkxQuEv%2F3dlA0xmgfZ8dWInUrrBzoU2m3nRFjQlUZdRjLhBWz5gHTcrdLwPuO%2BuBsv352E8KVq1nFlj7BudpsQry06yni%2FRA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F42a6166f11556c73a40261bf98a51d51%2Fimage.png)
 
 #### Comments (2)
 - **tail(テール)@2n2s** (Sep 21, 2025 10:58am): ？
@@ -3417,7 +3417,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/f32536fe8039198f1db90bdcc020c768/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=iFYKnCqQAI5IUeX5iQqwuOpcA26gjlZYKYS56%2BnGrQyaQN%2BNtWum8UltzZnOQy5KTIqdm%2FhBR75HPwErV9CYQLcWrz6JSMqVt5jZRy01Tjwj40AekkDawIJ76QtPV4aEYctzP61zQdIdHyRSAHxRP%2BmcDPsECR7tD3xQY9772lQUFfKsSrrafGuhkkXoWrBSE9Vi1RHCLc5oza%2FrKT3VojG5WHD6IKXO70wZEu2jrP4pyS28g6tJDItbaQ0d0Pii8H9sS%2FhKujKgDVT9Jd44ar1G7ZktlItMxbjv6xwgBu6mGjdwCVCMInJYvSbnGdNRbr7pCKccDpB72AyIVCGV%2BA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Ff32536fe8039198f1db90bdcc020c768%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/f32536fe8039198f1db90bdcc020c768/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UdT%2BYfV%2FlmxjAgjLf1JKCjQhu8QX9j%2BnJ%2F%2F0AHdYnxz%2BZ2bkLfDg0VXUIj8XA6OgnobqX8so3WV0DmaakBbEs9ezZdHSQZtVBj78ZJ3j1aJLEywnu%2Bd6OFE9blK9ZQ%2FO76%2Bf56rcN%2BxdazwW3QM8m%2BiFlxOQYre9ydM0k8tHdECuKwH4OHuRK%2Fc1CVW6BOOBzkQoItBJPZYMWh3j4Qqt5zR62bqHQsImZfGzsBXQuUPNCxiuMLxKziplJJgLP2Chorf0WJCA1h4YzX7YuUQXtGlHmNdkFBRzy9h2fXXbBI6icqzq9c%2BI8dYDmMBJsiDJTrqz19FtxNy0yCNWCnU38Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2Ff32536fe8039198f1db90bdcc020c768%2Fimage.png)
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -3434,7 +3434,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/9aae74ce596671ad266ba34e9216d2f0/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PP3rrGGXANL5IDocUG5c%2B%2B7W8Z0S1JxFC41ieZB6%2FxCeChzUlHGmGKjAtXMX27PtFPGYif3zqyBKvAwzxQvHNBxJo2vBdfQkfpc6lfqe8E%2Few3E9i%2BYxT%2BK7RLHbpF4sx8kLc9%2FiFvolm4QqREScUMi2n71LEthOI0vuv4x0vpIU63P7d73ms1stckZ0%2BLEGueP1pmNNmcAHsFfsg0Kmm0wgHFCuK3bcjt6mDQa3LPA55HDzbrvffNWOThJx53CM2Kgz%2F47VZc5Rdq0WiEkkw%2FgBYD7I%2Bj7A6sB%2FkXAPmC%2Bqf9cXm0EouL90TF%2Bgs%2FRsOn%2BiYqlx%2Fdp7QxrgbpP3MQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F9aae74ce596671ad266ba34e9216d2f0%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/9aae74ce596671ad266ba34e9216d2f0/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Du0EML74axbtahDhtlYnw0YgBs%2BdaYYnwCGBuoQzKZnmDUnihHlXPdZ48PjJj8o5bPlZszmSlcnzLM3JCSNI%2FzJPEEGThM8v0a3Px381O0D1N9cnH1%2FHwXvweeM5pxjCZ3WykiXn%2BoVKPOJihVle3R78AWIHrOa%2FbXbX7Bb9rKJKv1Ys9tDj55zE%2Fc8c17FxZjs5N0js0lj4FKfUAHjyDxdNG%2BQ1nGvOqHqyxflDIlQlCFm%2B2Tf5T4WhSUsSkj7ozkxFhaJLZiNMQeVYUR1I6vFK%2FEFFaSYNCYEgpxGFllP24G92%2FokcquDWN0KOs3lczurk60NLtrg1wQux%2BprsrQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F9aae74ce596671ad266ba34e9216d2f0%2Fimage.png)
 
 #### Additional Information
 - **Post color:** White
@@ -3450,7 +3450,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/d5a236370688869c880320a8739025a6/Screenshot_2025_09_21_15_04_08.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5EuOxOfyoIYSrPxTs3E5SCx8NHaToQ3YE0vU1ZYuhWE057v9%2FloZ3%2FIOY5m%2BARf3acCyhZcfKgLrUFSmLDTZkCpccXBmPUkZVZzXU7aES4ZF%2B%2Bwk2%2FaBHkXL1ebt90bJuJHMMQVoayx2RJ4BlwlmZ6Miesc1%2BMVtKWW8jgojE3rqmVI725XElTf7CfDxihaBxknb0FxeSbMNqgI1S7Vq7GwZ9C%2F8QXm%2Bq85GYMp5Hib6jXDbBTvxBbcEwGoxv9Qlr1%2FhZgEU%2FpeRE1znH1P9e3fs%2BodLtTMt2wlZupX0DUOPuVh1VR6arj1smTQlhYc03DCtCCsb2crZS3AwVW%2FUOg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2Fd5a236370688869c880320a8739025a6%2FScreenshot_2025_09_21_15_04_08.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3489560848/d5a236370688869c880320a8739025a6/Screenshot_2025_09_21_15_04_08.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=olgBte%2BzoVWJz73VjTMwu4MrPe%2FalHdUmZktegxzFd72TEj0N0ubZ0DKnN9Nrseqett1QvZD3K%2FASAi2FT4W1gdnEq9Ta3bi0Jwd%2FGyhijuBTBreWqMrBrXLKKLhSXD0GjjT7HDW7EOfwoe9r3UtKaswvap3ZetBlmeu4AojFJQdYKu98b4aq3QG05thDCm0Z2UtU%2BSLzFGebm8PAcecBgAgvUC4hbOKmw8FkWrVSRp4pJ08zt53ms1NPFGkjL6QbwIjel4nCYHVOAzyhac0s%2F7udqtH%2BXSTxvBJsHfwDgcizvisB9jAgSHSZemER44SYAmeSt%2BdpnzSetZUuySO8w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3489560848%2Fd5a236370688869c880320a8739025a6%2FScreenshot_2025_09_21_15_04_08.png)
 
 #### Comments (2)
 - **💠 Jellyfish 💠** (Sep 21, 2025 10:45am): だからなんやねん
@@ -3468,11 +3468,11 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/658f8b9eb595aeee5e1672c27275613a/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hIBE7oAaiyp4A1mCEcbL3K9J3x9mV6K2uYjTDUcuyh3Yv22GyvoSOA0NBgg7gPI%2B6Nde%2BE%2BD0F02zsh7ExaTVds%2FgH64EJWOweqqAaf8yErMXytRkv2eNvyLdLyNLi27awX9Cbc3asnlVugA9XjidZ5rZDES7Te7HexH%2BieQeSyncb1lONaLHI7yjdtGJu6LTi5S5qrBMDmbolmrR%2BqFWbvPnChdKxqTVZo5gOW7jWCAlZrwoJO072AnF7wm%2FCiZTwt6LTmdQMuyK7woIl9SAUbCJZC5B9xm%2FocIEYQPu4ou559ZwB5jJxF4w9mQUx1TN6iX3VlpwERXbbyCnK%2BIbA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F658f8b9eb595aeee5e1672c27275613a%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2563017286/658f8b9eb595aeee5e1672c27275613a/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7pXbfmlLBiNgef2Nd4nVQtOzPrAQ66ytg%2BC4vCGcT6M2ZACoiMlY89fpYrzL1nEULWsE5So7c0RK8OAdYkUVXUNIbI2Li6LtHh7tjzDnlSPtbz59yHzDCvNpW%2FtTSyZ%2FFetY0q11kGj040oToFDjnTqs02%2BcFm93VgEd9xMa7dbck7XuLy60Nw3KQGJ3BQlCsnlp%2Frr6ZpYa9dIIm6UNBlNUhZ013JZtMEWI05%2BsWlFWOG72EjGtrRIZtsSXbYDbTqU31IcV3emEOyT5MmrmLoYG5QQ1wMhTqlyh834pTbKEcocjDDwk8nAlxhY9hTcxb1PuAMwudoXKErEfZ4sLgQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2563017286%2F658f8b9eb595aeee5e1672c27275613a%2Fimage.png)
 
 #### Comments (2)
 - **0b1001** (Sep 21, 2025 03:04am): ⇑u3について
-- **MAOGAmes** (Sep 21, 2025 03:04am): Nice
+- **削除済みユーザー** (Sep 21, 2025 03:04am): Nice
 
 #### Reactions
 - **Emojis:** ❤️ (2)
@@ -3485,15 +3485,15 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 ---
 
 ### 34. Post 34
-**Author:** MAOGAmes (NeonNetwork_MC)
+**Author:** 削除済みユーザー
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4248430913/d82358c90a2db4b858d91f7c10098176/image.png?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kBB5%2F4u70pmY1Fl9a56VDthfPgszkunRef5PXiLLepB%2FcbsrW8sPJtxL0gCKCF%2Bgr%2FaeejtEhnK%2FcZGmfn1ZWaJzjn9fEsAsHagQTaLYCrSRwp2GjKu9q698iS4CeGEXeXTe%2Fv%2BGNFPfhPUIAols1033VuajI60%2B9X34ffcjXngcby8VVLp9AD8%2F8T5gxSIRPX9aPnNyeD%2Bt68959N1buCMks7%2FDPsNdLbq7owYyrAdMrCDnkIsbM612KShq9heR7tUnRQ6Ee9YvVRn9VMLI0tMhIV4JZxhTFBOnT4A5HM1X4Jvn4NbEbbPWvZviThPQiH%2B1B4exZ%2BE57mvmx4XxUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4248430913%2Fd82358c90a2db4b858d91f7c10098176%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4248430913/d82358c90a2db4b858d91f7c10098176/image.png?Expires=1786286558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=h36PYJGuOCNz1ilyp%2FysH5bkV46TWUX7XvDFL%2FJRij%2BXxeHgHdrfwRTMrYm3geIn2ceVA9iKHxgL6PINIVQ3YNWL6mJtjU%2BaTtn0a4NJoHBNzAjwiP9HQy1ekWuFC0M3tbxG3HpWJDCyom6%2Bv2Hwwvvj%2FYM1BJoSkpuskabhMwwVF%2FUiqgH7VLUUjXRcCTtgRdBn2fBZioSC66qFKOXC6BmSQgnKANKKeopSoXwKgxSqswyjcSVVl%2Fn4l8p8Z6ehoqF2ttQwd0NtrNf%2Fcy4Aq%2B5wHMEOHrFAXdVc0QEdB%2FHIkBDHVePt8HZEXXpzvptsjbOsPujnc%2BUqxAdH40yc1Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4248430913%2Fd82358c90a2db4b858d91f7c10098176%2Fimage.png)
 
 #### Comments (2)
 - **tail(テール)@2n2s** (Sep 21, 2025 01:29am): やめてここだけきくとただのサイコパス
-- **MAOGAmes** (Sep 21, 2025 03:02am): ｗｗｗ
+- **削除済みユーザー** (Sep 21, 2025 03:02am): ｗｗｗ
 
 #### Additional Information
 - **Post color:** White
@@ -3803,7 +3803,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
 #### Comments (3)
-- **MAOGAmes** (Sep 23, 2025 08:58am): １
+- **削除済みユーザー** (Sep 23, 2025 08:58am): １
 - **ちょこ#りおと族999代目#bw** (Sep 23, 2025 12:30pm): ２億です（２０とか）
 - **💠 Jellyfish 💠** (Sep 23, 2025 01:19pm): 87
 
@@ -3815,7 +3815,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 ---
 
 ### 13. Post 13
-**Author:** MAOGAmes (NeonNetwork_MC)
+**Author:** 削除済みユーザー
 
 **hive blockpartyのlv:**
 - **1〜１０:** 3 votes
@@ -3830,8 +3830,8 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 #### Comments (4)
 - **💠 Jellyfish 💠** (Sep 23, 2025 02:29am): block party max 25じゃないの？
 - **💠 Jellyfish 💠** (Sep 23, 2025 02:30am): じぶん８とかじゃなかったっけ
-- **MAOGAmes** (Sep 23, 2025 08:53am): いや５０いたよ
-- **MAOGAmes** (Sep 23, 2025 08:54am): プレイしてたら
+- **削除済みユーザー** (Sep 23, 2025 08:53am): いや５０いたよ
+- **削除済みユーザー** (Sep 23, 2025 08:54am): プレイしてたら
 
 #### Additional Information
 - **Post color:** White
@@ -3857,7 +3857,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 - **tail(テール)@2n2s** (Sep 22, 2025 10:57pm): ？
 - **tail(テール)@2n2s** (Sep 22, 2025 10:57pm): ﾊｲｯ!
 - **tail(テール)@2n2s** (Sep 22, 2025 10:58pm): おお、それには答えられないよ
-- **MAOGAmes** (Sep 23, 2025 12:46am): ３
+- **削除済みユーザー** (Sep 23, 2025 12:46am): ３
 
 #### Additional Information
 - **Post color:** White
@@ -3883,7 +3883,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 - **tail(テール)@2n2s** (Sep 22, 2025 09:22am): すいませんね
 - **ttttttrein_ban** (Sep 22, 2025 11:06am): まさきっくさん
 - **ttttttrein_ban** (Sep 22, 2025 11:06am): また荒らされてますよ
-- **MAOGAmes** (Sep 23, 2025 08:54am): まさきっくの部屋しばらく行ってないわ
+- **削除済みユーザー** (Sep 23, 2025 08:54am): まさきっくの部屋しばらく行ってないわ
 
 #### Additional Information
 - **Post color:** White
@@ -3904,7 +3904,7 @@ Tailと野良arch bwで当たったときもbridgeうまくなかったしpvpも
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
 #### Comments (14)
-- **MAOGAmes** (Sep 21, 2025 02:19pm): ある
+- **削除済みユーザー** (Sep 21, 2025 02:19pm): ある
 - **tail(テール)@2n2s** (Sep 21, 2025 02:19pm): だろ？
 - **💠 Jellyfish 💠** (Sep 21, 2025 10:43pm): 不審者に誘拐されたことある
 - **💠 Jellyfish 💠** (Sep 21, 2025 10:43pm): あれされた
@@ -4074,7 +4074,7 @@ Beybrade Xと、東方と、ボカロオタクの中3男子です。
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/7f78f306f052cad8e4987d649da63fb4/___SS___________2___1_.pdf?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=8F7dRkK1y%2B9pQJu5aIWvyPDtvI1S%2F13saZ3luboO6hOSX%2Fft8qDMIMinDnJfVaH8I9pilibMEFJ8DevjxwQzUBHTJ81M6cWw5MadQRck3PHVYKCSwbvCCQKvBESa7hh6WtFIhYzrN6vsv8Gl3QEH%2BQiK%2BU%2Bdfg6Hng6oCwGBeqnKkM5s4RJsERxdUz8IL5weBamC6auMr%2Fwby4jPu1urrcxxlNygaLr9NqrfJzWipHDt1XQOYy1Nb%2FO3WHxzS0fstcn62HiKNAdSwMqhWOLcElAXaTBblR%2FbvgO7XYXNwBDM3Gdp%2BkpPTucvV3L1yVDne03O3Obt0kixXlHR6rFRfA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2F7f78f306f052cad8e4987d649da63fb4%2F___SS___________2___1_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/7f78f306f052cad8e4987d649da63fb4/___SS___________2___1_.pdf?Expires=1786286559&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QPYHGpSmedqTkyuw8c8Ld3ejUmx4EuZCNFK2ZGDkOAsgrMdbhRwYiyuhA4DC8VaD%2FBP6OgTQ6RWVVHE5d3spL8eDV1fyHo6jzBe%2FXkEaAO5u5uvHn36bNOnXiVXnvRJg144GyMONN0mko1RNWtMnIw1YUSEaZzhFc9xyKJgYLSqSTj%2BwtFH3omnDtmQPQ8%2BA2iwg7vw0r6wBcQ947poIWAUxhW8us1ITg57lTzZFe%2BIQwtGlZay56PR8rerJo3xbdMfYugErkLXnJd6eTJUIGao%2FLc2SrNgGJ9dvtTQMDmOCTKlRLXLEfAIbmzlE4QaqlhBTyrciahAwP2MoC0Z%2BJg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2F7f78f306f052cad8e4987d649da63fb4%2F___SS___________2___1_.pdf)
 
 #### Additional Information
 - **Post color:** Blue
@@ -4194,7 +4194,7 @@ Beybrade Xと、東方と、ボカロオタクの中3男子です。
 
 **￴￰￸￳￲￶￴￴￳￳￴￴￱￴￰￲￷￲￷￷￳￴￲￶￱￷￵￶￰￷￲￲￳￷￴￰￷￳￶￳￵￳￶￴￸￷￸￰￰￳￴￲￰￸￱￵￳￳￴￷￶￷￰￷￷￸￵￸￸￷￷￱￰￷￳￱￷￶￶￴￴￲￰￳￸￶￱￵￷￳￵￱￴￶￴￷￱￴￰￰￸￰￱￰￷￲￱￱￰￲￲￶￰￲￷￲￸￶￱￳￶￳￶￲￸￲￳￷￱￳￴￱￷￱￶￰￴￶￸￷￵￷￸￱￵￵￶￵￵￵￳￶￲￳￴￵￵￲￷￴￴￸￷￵￱￰￲￷￳￴￲￳￳￵￳￳￴￶￶￴￶￵￳￷￲￶￶￵￸￵￴￱￱￴￱￷￲￰￸￰￱￷￲￷￰￱￵￵￴￰￰￲￸￲￵￰￳￰￳￸￱￲￶￰￳￰￰￶￸￷￴￷￸￱￳￱￱￲￶￲￶￰￸￳￳￶￷￳￲￵￲￵￰￱￳￰￲￰￳￱￸￲￲￳￵￱￲￰￰￷￶￷￴￱￰￲￶￳￴￷￸￲￵￶￷￷￶￱￴￷￷￴￳￰￸￵￷￲￳￵￴￲￳￱￳￰￷￳￸￴￱￰￶￸￱￲￱￱￱￶￲￳￶￸￷￴￱￷￰￰￶￴￳￳￴￷￳￱￴￴￵￳￷￴￴￱￰￷￱￵￴￵￵￲￳￲￶￴￷￰￱￱￶￸￸￶￲￷￰￱￴￱￴￵￸￱￳￳￱￱￴￱￲￸￱￱￸￲￴￴￱￲￲￴￷￱￴￶￳￲￵￷￷￴￳￰￵￱￶￳￱￲￶￲￸￲￸￴￴￸￱￶￷￲￳￳￲￵￲￴￴￰￵￶￴￳￲￸￴￸￰￸￷￵￸￷￸￶￴￶￳￴￴￷￴￳￶￸￰￲￳￶￰￵￶￸￷￵￲￳￲￳￳￵￲￸￷￱￴￵￸￱￵￸￴￰￷￱￳￵￰￲￱￳￱￰￲￰￱:** ￸￰￲￰￵￲￱￶￲￸￸￰￸￷￰￱￰￱￰￸￸￷￱￳￶￶￴￳￳￴￷￰￴￷￲￶￱￱￱￵￰￳￸￲￱￵￰￲￵￲￵￷￴￸￶￷￸￴￲￵￳￵￰￷￴￲￶￳￴￰￴￱￰￲￷￳￴￳￷￵￱￷￸￳￶￳￲￸￱￲￱￸￱￶￳￱￱￳￳
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/1b26ed6a3c288c70d4670f15b784712c/1_.pdf?Expires=1786284571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=sYckd3%2B4FIdVaq3xfYoI4BUi2OdT3sd4kfiiSbC6RNpvbZ%2BiQcMQzoDhjUsUCa3WU%2FWJ0PQ1v5MqX1Hdn49OfKe1OfoPb%2BtCvoUyxjTUCan0tHAJM%2B%2BMTP8CFLcNJ%2FyZacIWqVFlGdIRzqTfhoOnANp%2FvPcRh9z3bE55Vtum%2BLy9c0GrQGFFfvk%2BkpJt0vzVfzGNAu182Nbmcibh3UXoVyJBndCMWvmN88HK%2FCgG0OSQL9snYmDlwo98V6n3IMd5vU4ak5w4q8F9Mh0%2FlBV97qcLsRYPVHQf5r2fPVzYexROiQ%2FYloKGzfsEcx0uy0UZPWQcNbJJxtGO%2BSXhqA0anQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2F1b26ed6a3c288c70d4670f15b784712c%2F1_.pdf)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2446514043/1b26ed6a3c288c70d4670f15b784712c/1_.pdf?Expires=1786286559&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BvK1Ck%2FDJUSjmJ%2BXzxJNV%2FMMgnkmcpSbuD%2B5299EI%2Fl%2BSq2dokFCnS3esrBOS6cKWcwLonQjmoLXMrpWDtP2lBUXJ0z4vq%2F5DYP3tMBsZoszqiQjQQlEtDLxF0leXf3yqmowMM6NXq4P6YHN1n03HaOIcaED8KrIO5tv6K5koXctGUnMlx79fQ1Mzuqz8ODIEMFfKSIx3kdjMGo15%2BgZVxcnxsnm54bbybAsTsEImlgaYLDxRj3e97ytjead9ahbFYpTgVIdD4VPWUK4sRyjedmXxNWMy%2B%2Fz1DlzRbxAVkCScoeqtiAjj6eHOsUaIcHldHtL9sSHXmztFjlWCNRl6A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2446514043%2F1b26ed6a3c288c70d4670f15b784712c%2F1_.pdf)
 
 #### Comments (1)
 - **꧁happy ^-^ smile꧂** (Oct 03, 2025 11:26am): よろ
@@ -4528,7 +4528,7 @@ Eagler等でも参加可能です
 - **tail(テール)@2n2s** (Sep 22, 2025 10:37am): モデは無理ですかね？
 - **tail(テール)@2n2s** (Sep 22, 2025 11:59am): ぐあ
 - **ちょこ#りおと族999代目#bw** (Sep 22, 2025 02:38pm): ☆管理者を戻しやがれくださいまし☆（下から目線）
-- **MAOGAmes** (Sep 23, 2025 12:48am): できたら管理者　無理ならモデそれも無理ならライターでいいです
+- **削除済みユーザー** (Sep 23, 2025 12:48am): できたら管理者　無理ならモデそれも無理ならライターでいいです
 - **さくらもち** (Sep 23, 2025 07:57am): 管理者かモデレーターほしい
 - **💠 Jellyfish 💠** (Sep 24, 2025 10:45pm): admin or modelaterほしいです
 - **INFINITY** (Sep 25, 2025 05:36am): モデか管理者ほしいです、僕のデメリットは、会話が苦手な事と寝る時間が早いことです(）後病気なりやすいから浮上率高い事
