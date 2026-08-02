@@ -1,4 +1,4 @@
-最終取得: 2026/08/02 21:40:40
+最終取得: 2026/08/02 23:00:31
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 23
+- **Posts:** 26
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Jul 24, 2026 09:40am
+- **Updated At:** Aug 02, 2026 01:43pm
 
 ## ルール
 
@@ -134,7 +134,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1786279275&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QZwWb%2Fau7gFzohLOQanEBClYx4M5g4prENytoezZT3IX9OeLARAzqmLTJuAgmqAcr6ClwJpcnX9gyz6AhojZ9f1C4xBOo7RyA56EW9ELj2Gh9MlfkzdsAEq9UKEuvrl6zQ4UMqPCcP8w%2BHA%2FLGPQg%2Fh5yX422A5p9vwzQNa0Sbb9jF%2FxhH%2FWc17C7EXkUy5V0qT058xLh1jBip9IYznQ3n041bcteVXSZyRXOgcTHdBsRlK2UWUaU2kH6am2S2eiaUTBYKJ1DtKIm0P1tP7lhbSD9wLY1D5qkBcw1opyTmWUm%2Fr8mkQvrUr%2B9PTFMLmtlMZFWHr4dRe8YptRl64fjA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1786284067&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=C7ypBvldMEPvxzDOtKNmrhJik1JtNFaQWIY1wVv5y5fYZcO2LrwKd5GIAT0wzuL6cQydGqlbEfbOQKWdUKJ8MuZdq4kacN3VTbKN4qT0ykFyC3doRI9U1MKjwmzaDUt9RHIyhPS%2B1JwAUXH3YfpIxbw9ntRBmOvQqqIqzewvCiO5Gpj5YNcGqFUx8D0VJZ97YqyREYmoRuQTtxxvs2V%2Buyg8dkFw5%2F0AS2A5AKE0KcvTEQB%2Bw3svqsAEdP87VO7yBOGvRRcCCWorjRQjV7Z9DiZCpUDJzYK50SI8W4AhgRrBp%2F3xyBBJ1a4AtMS8BbojmrIOtfDLyOlTkWciUWISRQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -241,7 +241,26 @@
 
 ---
 
-### 3. 受付(ライター)方法の変更
+### 3. とるっぷいへ
+**Author:** 根釧台地(元いときち) (Dopagaki_67)
+
+これ、いときちの新垢だよ。前垢パスワードわかんなくなった。
+
+だから管理者権限plz
+
+今LINE使えないから本人確認したいならいろいろ質問していいよ
+
+#### Comments (1)
+- **根釧台地(元いときち)** (Aug 02, 2026 01:35pm): あと本部のライターくれ
+
+#### Additional Information
+- **Post color:** Black
+- **Created At:** Aug 02, 2026 01:30pm
+- **Updated At:** Aug 02, 2026 01:30pm
+
+---
+
+### 4. 受付(ライター)方法の変更
 **Author:** とるっぷい (TORI_TORI2)
 
 メルアドを別部屋にて添付してください。
@@ -267,7 +286,7 @@
 
 ---
 
-### 4. 閲覧数26000突破
+### 5. 閲覧数26000突破
 **Author:** とるっぷい (TORI_TORI2)
 
 #### Additional Information
@@ -284,13 +303,14 @@
 
 本部のライターの受付です。メルアド添付部屋にてメルアドを添付してください。管理者以外は投稿を確認することはできません。
 
-#### Comments (6)
+#### Comments (7)
 - **〚KuJiRa〛激低浮上(´・ω・｀)** (May 09, 2026 06:46am): s2000941@g.ueis.ed.jp
 - **〚KuJiRa〛激低浮上(´・ω・｀)** (May 09, 2026 06:46am): 入れてー
 - **〚KuJiRa〛激低浮上(´・ω・｀)** (May 09, 2026 06:46am): ライター頂戴
 - **中居正広リア充になった。#最近低浮上#エドガーの中指** (May 11, 2026 01:32pm): ライターにした
 - **몬타** (Jun 10, 2026 12:04am): 2206047@edu.toyonaka-osa.ed.jp
 - **タビノハ** (Jun 19, 2026 12:03am): ブラックリスト
+- **根釧台地(元いときち)** (Aug 02, 2026 01:35pm): 1130itokichi@gmail.com
 
 #### Additional Information
 - **Post color:** Black
@@ -335,10 +355,11 @@
 
 [Attachment 1](https://padlet.com/tiktok_yuta_ahirukunndayo)
 
-#### Comments (3)
+#### Comments (4)
 - **削除済みユーザー** (Apr 23, 2026 06:42am): かわいそ
 - **ナミアサ** (May 16, 2026 01:07am): yutyubu見たいんだけどグーグルのメールアドレスとかの記録って教育委員会にみつかりますか？
 - **カワノト** (Jun 09, 2026 11:00am): きっくー
+- **根釧台地(元いときち)** (Aug 02, 2026 01:43pm): ナミアサへ　多分残らん
 
 #### Additional Information
 - **Post color:** Black
@@ -359,16 +380,44 @@
 
 ## 雑談
 
-No post
+### 1. JSがくそムズイ件について
+**Author:** 根釧台地(元いときち) (Dopagaki_67)
+
+HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
+
+#### Additional Information
+- **Post color:** Black
+- **Created At:** Aug 02, 2026 01:34pm
+- **Updated At:** Aug 02, 2026 01:34pm
+
+---
 
 ## 好きな事をしたまえ
 
-### 1. Post 1
+### 1. 規制解除その二
+**Author:** 根釧台地(元いときち) (Dopagaki_67)
+
+これ使えばスマホ用+タブレット用の規制されてるアプリほぼ全部開く。あと時間制限もない。神だから使ってみ。
+
+[Attachment 1](https://web.cloudmoonapp.com/ja/)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At:** Aug 02, 2026 01:41pm
+- **Updated At:** Aug 02, 2026 01:41pm
+
+---
+
+### 2. Post 2
 **Author:** えろい写真ならたぁくさんとるよ？❤
 
 ![Attachment 1](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/5b52c95bef1e316f24d02aff290588f2/image.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiKODDkaUHvSHRKVnUA3vW0A7Yaom2nXEVoIVvCrg2oui_doTIcIq4lKY0d2XFo9w9vFII2FF80UGW_Sztk8d9wCkR7w8w1CL2-g2smRlE9HsA==)
 ![Attachment 2](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/fbe956a50395eddb432858624623e83b/Screenshot_2026_07_22_09_44_32.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiKALSBU_gPTEmYx2-MDaIiyraAyruNaqQ0kQo9zr_R7T33d8Y7vRZU_kE9I2LtEXjvZSlwSoILZmWaSTLZuZs3WzgKOSsqJHDNU-_Wp1pa0syEzvLwdagead-6gF4WcE6wqc5t1YQtzCOCivot10HKt)
 ![Attachment 3](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/dd877d5d3fae9a2d173a520c0dd2f0c6/Screenshot_2026_07_22_09_47_03.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiIGknPjRPrztTfmbpfXhqU3bCvT35QhfuVkYtxpaNmMjcF2DVwrxAbEY1PCcSltCSGuc2FJaRPtMjH2-fusPYtMbhKjLsiCDvzmDkjejxgAA4L6ExVYb7L0nwir9fmqoAisnNMjbuOn8txbH8RbWQO1)
+
+#### Comments (2)
+- **あ** (Aug 02, 2026 01:24pm): ちょっとおもんないかな
+- **あ** (Aug 02, 2026 01:24pm): ありがたいっちゃありがたいけども
 
 #### Additional Information
 - **Post color:** Black
