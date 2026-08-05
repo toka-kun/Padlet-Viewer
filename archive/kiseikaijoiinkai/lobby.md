@@ -1,4 +1,4 @@
-最終取得: 2026/08/05 21:01:14
+最終取得: 2026/08/05 21:19:00
 
 # 規制解除委員会(ライター受付)
 
@@ -36,7 +36,7 @@
 
 #### Comments (8)
 - **ううううんこ💩** (Apr 20, 2026 03:32am): もともとライターだったもりもりもっこりはんです。名前変えましたライターください
-- **中居正広リア充になった。#最近低浮上#エドガーの中指** (Apr 20, 2026 01:28pm): メアドをおくってくれ
+- **中居正広リア充になった。#鳥ちゃん大好き#最近体痛い** (Apr 20, 2026 01:28pm): メアドをおくってくれ
 - **イナビカリ** (Apr 30, 2026 09:55am): うぇｒ
 - **ナミドリ** (May 02, 2026 11:47am): か。
 - **いときち** (May 03, 2026 01:03pm): ライターにしてクレメンス
@@ -134,7 +134,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1786536111&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=iHWJIAj6kp3Re3dq65yWT9DTMmtwZUcWXxsFCEoB%2Fp0ZcVsCdEUPWpVEr5yKxhcrP%2B46OUW0CfJISOJWPbrPQJFkoOyseycXCr67U773LDPHXXObmATT%2B6oqWhnAlJG06X0IGgpNIkI%2Fxfu%2BfiZgRWmN0oL6voM8veYVqFt%2FY6E5UaADDPm7ic%2Bo2Rn53ziFXtyPJVI3RiHA0K1mkLvNMbTmoysVg5X1CVSKdGIajCPZl8iBczHkd%2Fda4C9eC44G4ecVEvKsEHTjfWZJnwH6TXdDDtTcyNX76s7o8uocSF1klsSaRLSMBFUSPVLRKWrEsgN8zfDthCEMkWnWUcZ2Kw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1786537177&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=r7%2F8iSCuxWAGQTV8Hxb4ivBftFQpcvnvIKD%2BYhy%2FRAAMbja7Hn7ktQXVgDFCjK4G7e0AXDFL%2FEtaGyKKQXFf8V3xo5fCB8M7O6gJkQ%2BK%2BrF4Yt7kRhwvBw4L7zEkYY2RKWUP7IQZrUr3ybViUweOC8TM6IAORv6oQo6YwUFRzMxvBLCB6PLtLMUH7jcB4x9R5IYKmXtEowC0U98S%2FrCHGvcDGPrIii%2FNv8XSyxjS5d5UcYKQSrjVXYfvColwodmR%2F5UDnspW8fTHNXDzidoxn0ijhOfTCcW7ZZOe%2ByvP1IC%2BoY9dumnMJWkg2w7FccGbvEdu8yuzIQACQ88JloomgQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -307,7 +307,7 @@
 - **〚KuJiRa〛激低浮上(´・ω・｀)** (May 09, 2026 06:46am): s2000941@g.ueis.ed.jp
 - **〚KuJiRa〛激低浮上(´・ω・｀)** (May 09, 2026 06:46am): 入れてー
 - **〚KuJiRa〛激低浮上(´・ω・｀)** (May 09, 2026 06:46am): ライター頂戴
-- **中居正広リア充になった。#最近低浮上#エドガーの中指** (May 11, 2026 01:32pm): ライターにした
+- **中居正広リア充になった。#鳥ちゃん大好き#最近体痛い** (May 11, 2026 01:32pm): ライターにした
 - **몬타** (Jun 10, 2026 12:04am): 2206047@edu.toyonaka-osa.ed.jp
 - **タビノハ** (Jun 19, 2026 12:03am): ブラックリスト
 - **根釧台地(元いときち)** (Aug 02, 2026 01:35pm): 1130itokichi@gmail.com
