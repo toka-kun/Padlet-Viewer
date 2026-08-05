@@ -1,4 +1,4 @@
-最終取得: 2026/08/02 23:00:31
+最終取得: 2026/08/05 21:19:00
 
 # 規制解除解除委員会
 
@@ -129,7 +129,7 @@ No post
 ## 雑談(ライター用)
 
 ### 1. Post 1
-**Author:** 中居正広リア充になった。#最近低浮上#エドガーの中指 (nakaisexfriend)
+**Author:** 中居正広リア充になった。#鳥ちゃん大好き#最近体痛い (KURUIYAKITORI)
 
 s2000941@g.ueis.ed.jp
 
@@ -358,7 +358,7 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 ---
 
 ### 2. Post 2
-**Author:** 中居正広リア充になった。#最近低浮上#エドガーの中指 (nakaisexfriend)
+**Author:** 中居正広リア充になった。#鳥ちゃん大好き#最近体痛い (KURUIYAKITORI)
 
 [Attachment 1](https://publer.com/es/tools/photo-video-downloader)
 
