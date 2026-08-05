@@ -1,4 +1,4 @@
-最終取得: 2026/08/05 16:26:29
+最終取得: 2026/08/05 18:38:29
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 26
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Aug 02, 2026 01:43pm
+- **Updated At:** Aug 05, 2026 09:21am
 
 ## ルール
 
@@ -134,7 +134,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1786519623&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=t1NBqV3fFuojFu4pxPsdpBRB24ir71g31w%2BxQqa4x%2BESsY4AbMe3I3p6Qmb0eOSSC%2BIbnR9UMcUX0hKM2zQSWkYHxIaHBh0pedWxqSKFZftP7nnk1r0S%2BbkWZ%2BD%2BPOrutct85mzztTtbAFAibCmf7U80O7r3orPrlRjbYQr1PcWgkqI5Jzrevo8xi2wGL%2BN2nq%2B676G4HoGyKD0ekeU04v1RELjsSEb5fcjWB1asFkGbFOSNdG2KVdEorPDRSGN2ZBv9bYF2bp9JCeLEbRZuMMxg%2BvlzXfQTwMN3sh1dB7QULaKsOrdqlpKzGYamlIHzfMuZ92srqTvXEZrZkwXdOQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1786527544&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Ep719Ge%2BV7xMB8A2IHKOgHJtQZsxJlTaWZVnGljNwnK%2BIByU%2FZwNEl4G7YN8mDrt6TD6ORD01PFcxxBJyKS9WvBOBIitajvHliRnZZbwwU8LnZMTx3iPUiTepT5rqu9xLngtyYadUFoHVmyo02v8GWGRWp1eFlj9%2FidkwXToeE2e5vUK8XkpiE0EGTOLIvAUi8LXdwww1%2F%2FjacupWNeFUxDGfBP%2Fw8ZGExQXNjYEyx2b7VkjE0ns%2BjnZb%2BV00Xqifx89L9Jf2BL8mbToKFo%2FMfR8rrLLxbkcf28N4hOMhzpmEvZhojquhOndH63wEMwBRGsE%2Bydc%2B5W4TcG8Eh6D1A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -370,6 +370,9 @@
 
 ### 2. ゲームおっけーしてー
 **Author:** ぎゃる
+
+#### Reactions
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** Black
