@@ -1,4 +1,4 @@
-最終取得: 2026/08/12 21:33:45
+最終取得: 2026/08/12 22:41:23
 
 # 受付と匿名用
 
@@ -43,14 +43,14 @@
 - **Suicune** (Jun 07, 2026 11:22am): irete
 - **Ejobs** (Jun 11, 2026 10:48pm): ejobs2akaunt@hotmail.com
 - **しなの　＠緊急事態** (Jun 12, 2026 07:07am): おｋ
-- **青葉 #BC* #NRA** (Jun 12, 2026 11:55am): sadden-dimly-slip@duck.com
+- **青葉 #BC* #NRA #ペア（？）画中** (Jun 12, 2026 11:55am): sadden-dimly-slip@duck.com
 - **しなの　＠緊急事態** (Jun 12, 2026 04:36pm): おk
 - **しなの　＠緊急事態** (Jun 12, 2026 04:36pm): w
 - **aaabbbccc** (Jun 15, 2026 04:29am): gs193637@nerima-edu.jp
-- **青葉 #BC* #NRA** (Jun 21, 2026 04:15am): 遅れてごめん！ライターにしたよ！
+- **青葉 #BC* #NRA #ペア（？）画中** (Jun 21, 2026 04:15am): 遅れてごめん！ライターにしたよ！
 - **シーサー** (Jul 09, 2026 01:24pm): 入れてください
 - **シーサー** (Jul 09, 2026 01:24pm): h3119047@hirakata-ky.ed.jp
-- **青葉 #BC* #NRA** (Jul 13, 2026 10:24pm): おｋ
+- **青葉 #BC* #NRA #ペア（？）画中** (Jul 13, 2026 10:24pm): おｋ
 
 #### Additional Information
 - **Post color:** Purple
@@ -74,7 +74,7 @@
 - **Suicune** (Jun 07, 2026 10:40am): いれて
 - **しなの　＠緊急事態** (Jun 11, 2026 08:45am): おｋ
 - **鈴梨　#食べ物帝国所属** (Aug 01, 2026 08:13am): おなしゃす
-- **青葉 #BC* #NRA** (Aug 04, 2026 01:56am): おーけい
+- **青葉 #BC* #NRA #ペア（？）画中** (Aug 04, 2026 01:56am): おーけい
 
 #### Additional Information
 - **Post color:** White
