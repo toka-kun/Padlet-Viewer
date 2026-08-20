@@ -1,4 +1,4 @@
-最終取得: 2026/08/16 20:31:43
+最終取得: 2026/08/20 14:34:10
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
 - **Created At:** Jan 13, 2026 12:01pm
-- **Updated At:** Aug 04, 2026 01:56am
+- **Updated At:** Aug 20, 2026 05:34am
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment 1](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (32)
+#### Comments (29)
 - **ピカマン＃さくらもちさまの永遠の従僕** (Apr 30, 2026 11:10am): んと、とりあえずピカ垢はなんかしらんけどメアドの認証が必要になったため、今度からは、こちらで活動させていただきます。
 - **ピカマン＃さくらもちさまの永遠の従僕** (Apr 30, 2026 11:11am): メアドpikaman001@outlook.com
 - **ピカマン＃さくらもちさまの永遠の従僕** (Apr 30, 2026 11:11am): (自作です。初めて自分で作った)
@@ -42,10 +42,7 @@
 - **マリア・マーメイド#初代マリ好き族** (May 28, 2026 10:49pm): https://padlet.com/s20092311/padlet-ha8r73wuha803jh3
 - **Suicune** (Jun 07, 2026 11:22am): irete
 - **Ejobs** (Jun 11, 2026 10:48pm): ejobs2akaunt@hotmail.com
-- **しなの　＠ねむすぎてﾀﾋにそう** (Jun 12, 2026 07:07am): おｋ
 - **青葉 #BC*** (Jun 12, 2026 11:55am): sadden-dimly-slip@duck.com
-- **しなの　＠ねむすぎてﾀﾋにそう** (Jun 12, 2026 04:36pm): おk
-- **しなの　＠ねむすぎてﾀﾋにそう** (Jun 12, 2026 04:36pm): w
 - **aaabbbccc** (Jun 15, 2026 04:29am): gs193637@nerima-edu.jp
 - **青葉 #BC*** (Jun 21, 2026 04:15am): 遅れてごめん！ライターにしたよ！
 - **シーサー** (Jul 09, 2026 01:24pm): 入れてください
