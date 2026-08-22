@@ -1,4 +1,4 @@
-最終取得: 2026/08/22 20:59:52
+最終取得: 2026/08/22 21:45:53
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 30
+- **Posts:** 31
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Aug 22, 2026 08:23am
+- **Updated At:** Aug 22, 2026 12:11pm
 
 ## ルール
 
@@ -137,7 +137,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788004827&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jlX568YLrg3mwdh8BlinJ1wn8ZV6862myjImhm3yFYIqSQt%2BqT%2Benj1YFjl5IyKQNecahbAg0VRAZJ8C8%2Fz1NC36krebXTbeMkChzW%2BJjsfDfIcteEvmbtgNCFPb0UZ9RPGB2JVlKaixmgJHdnWQyjJ2r3LNfwWl%2FLveO25WAm8YWp5CGQYJ7fmUTMVujfNTZhwvJ8K2vnZNhUHt2VWR1wINkFjR0saXqndBmIgyDRYY%2FTSNjJpElXf7ZPbfinsEg34D3pNmaE6SvrOXkQFSSxUoHFNM1pjYXx%2BVJ5zutenUQWhT0mNVGgZw7PX8scNiXr%2BQnPJIYoEFJE2rRItkHg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788007590&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=h0Lwm2eiHfwA2GKK%2Fl0CPPYa0TqBFM78257bYR0TqN21xyJYYbj2x6PxWHGrbMmsfDRr3rrbVKVcsrUKrb%2F3mJJEtWj92DqwdmCx6bASsOJRiASU5iT%2BlamOgCIQKIlHakVsCveXzSVnM75Ak89MV9IB3vrdENRIyTnzKr2YzG9Pa5w83lAbe97f7dj%2Byvo0dIjtnidaDjPCPvlrHdhp1%2FO822XCEcLprpicGPv94C%2BosAmgEKYWKnAkopcESFg%2FQibAZDkn%2BiIezNRVQlrV6Ht2ctyJwZ6JqtzOp1%2B0JBoECqBL%2B4AQyMykgv7UEPQaTh2k5a6RYCUjVw34MqH%2F2A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -409,7 +409,23 @@
 
 ## 雑談
 
-### 1. JSがくそムズイ件について
+### 1. 誰かyoutube見れるやつ教えて...
+**Author:** りくてら
+
+youtube（似たようなサイトでも可）
+
+何個か試してみたのですが、教育委員会の対策がエグくてどれも無理で、何個か教えてほしいでs
+
+![マイクラ](https://media3.giphy.com/media/v1.Y2lkPWNhYmM5OTE4NW9zcnd4eWpscWoxamNlemsxaXdodGZuNGJxZ3kweTJ0MDZsazA2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wKWxuUOcp9fdvckBty/giphy.gif)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At:** Aug 22, 2026 12:11pm
+- **Updated At:** Aug 22, 2026 12:11pm
+
+---
+
+### 2. JSがくそムズイ件について
 **Author:** 根釧台地(元いときち) (Dopagaki_67)
 
 HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
@@ -421,7 +437,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 2. エロ漫画ほしぃぃ❤
+### 3. エロ漫画ほしぃぃ❤
 **Author:** えろい写真ならたぁくさんとるよ？❤
 
 それでオナニーしたいっっ❤
