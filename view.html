@@ -408,7 +408,7 @@
                 const fullText = await response.text();
                 
                 const headerChunk = fullText.substring(0, 4000); 
-                const postsMatch = headerChunk.match(/(?:- )?\*\*(?:Posts|投稿):\*\* (\d+)/i);
+                const postsMatch = headerChunk.match(/(?:- )?\*\*(?:Posts|投稿):+\*\*[ \t]*(\d+)/i);
                 const postCount = postsMatch ? postsMatch[1] : '-';
 
                 const splitIndex = fullText.indexOf('\n\n');
@@ -457,12 +457,20 @@
                 document.getElementById('board-title').textContent = "Padlet Viewer";
             }
 
-            const columns = markdownText.split(/^## /gm);
-            
-            columns.forEach((colText, index) => {
-                if (colText.trim().length === 0) return;
+            // Padletの最新形式では「要約」が最初の##セクションになり、
+            // 投稿は列見出しがないまま###見出しとして続く場合がある。
+            const sections = [...markdownText.matchAll(/^##[ \t]+(.+?)[ \t]*\r?\n([\s\S]*?)(?=^##[ \t]+|$)/gm)];
+            const columns = sections
+                .filter(match => !/^(?:要約|Summary)$/i.test(match[1].trim()))
+                .map(match => `${match[1].trim()}\n${match[2]}`);
 
-                if (index <= 1) return;
+            // 古い形式や見出しのないMarkdownにもフォールバックする。
+            if (columns.length === 0) {
+                columns.push(...markdownText.split(/^##[ \t]+/gm).slice(2));
+            }
+            
+            columns.forEach((colText) => {
+                if (colText.trim().length === 0) return;
 
                 const firstLineBreak = colText.indexOf('\n');
                 let colTitle = (firstLineBreak === -1) ? colText.trim() : colText.substring(0, firstLineBreak).trim();
@@ -588,7 +596,7 @@
             // --- システムフィールド（Additional Information 等） ---
             const color = getMeta(/(?:- )?\*\*(?:Post color|Color|投稿のカラー):\*\* (.*)/i) || 'White';
             const linkUrl = getMeta(/(?:- )?\*\*(?:Link|リンク):\*\* (.*)/i);
-            let rawCreatedDate = getMeta(/(?:- )?\*\*(?:Created At(?: \(UTC\))?|Date Created|Creation Date|作成日[^:*]*):\*\* (.*)/i);
+            let rawCreatedDate = getMeta(/(?:- )?\*\*(?:Created At(?: \(UTC\))?|Date Created|Creation Date|作成日[^*]*):\*\* (.*)/i);
             const displayCreatedDate = smartDateFormat(rawCreatedDate);
 
             // --- コメント ---
@@ -694,7 +702,7 @@
             const patternsToRemove = [
                 /(?:- )?\*\*(?:Author|作成者|Builder):.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Post color|Color|投稿のカラー):.*[\r\n]*/gi,
-                /(?:- )?\*\*(?:Created At|Date Created|Creation Date|作成日).*?:.*[\r\n]*/gi,
+                /(?:- )?\*\*(?:Created At|Date Created|Creation Date|作成日)[^\n]*?:.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Updated At|Last Updated|更新日).*?:.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Average star rating|星評価平均):.*[\r\n]*/gi,
                 /(?:- )?\*\*(?:Number of ratings|評価件数|Votes):.*[\r\n]*/gi,
