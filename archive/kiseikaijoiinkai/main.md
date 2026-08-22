@@ -1,13 +1,13 @@
-最終取得: 2026/08/13 12:07:53
+最終取得: 2026/08/22 17:34:07
 
 # 規制解除解除委員会
 
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-g07iihoi22rh2q7l
 - **Builder:** とるっぷい (TORI_TORI2)
-- **Posts:** 16
+- **Posts:** 17
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Aug 13, 2026 03:00am
+- **Updated At:** Aug 22, 2026 08:16am
 
 ## 受付
 
@@ -415,5 +415,20 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 #### Additional Information
 - **Created At:** Apr 27, 2026 10:23am
 - **Updated At:** Apr 27, 2026 10:23am
+
+---
+
+## その他
+
+### 1. ChromeBook用
+**Author:** 根釧台地(元いときち) (Dopagaki_67)
+
+これ使えばPornhubもXvideosもYouTubeもTikTokもXも、全部一発
+
+[Attachment 1](https://app.apponfly.com/trial)
+
+#### Additional Information
+- **Created At:** Aug 22, 2026 08:15am
+- **Updated At:** Aug 22, 2026 08:16am
 
 ---

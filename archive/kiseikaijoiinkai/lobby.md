@@ -1,4 +1,4 @@
-最終取得: 2026/08/22 17:10:28
+最終取得: 2026/08/22 17:34:07
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 29
+- **Posts:** 30
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Aug 18, 2026 10:31pm
+- **Updated At:** Aug 22, 2026 08:23am
 
 ## ルール
 
@@ -137,7 +137,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1787991063&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7%2BQ8s5jCBnZ6WVB5YUY9t9jpO4Rd5LCueM%2FUrurj2yyBW1%2Fw54ul%2F1fS%2BAvlHMr5Teze1wmGGmtbsh34xGQq38GxJg1%2FbbkQWY4Eh5YiHHa7cOaMbHm7ac0TrWzHt55U1j4RqUDL34A1ecatuoFOXhEc7C9oaS9Qzx8Rgs%2BDaMtpKSwMfBFWrG%2FGSgXb0SNFz2RQWc9j0M2QZ2vqYlu9FlYt3lRHrbR3Tyitc2NziffdP0wNEBdq%2BL0PRioNRRRT81EQv9jRul5Jhkoxt7rI1gUmBEmQufl8KjiHMvopV0pYTEvgQVIRSZpeS6UxDoD5tjbbmahsII%2BzwD%2B4H8j3Yg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1787992482&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=AyAjhqDRs3W6TA948NWAx8ffT86huXatjrZOaUSPI09ivxHALUlnY0M4Ey1klm9A6kk6dmui36dPsdxQHcPQqx0QFSBRcMpqiRknBbgRpCRyFxnW%2BuCKnL%2FILd79j0Nydk%2B5RGTZoYUjwYVHvts645bMBnaPgFe5MnLIveUBVs8TAfifM8LEBYFwPb5OccNuRU%2B3vwAgCDiwJoqo8DvRsXj0bdvavCTq%2BYVy0%2FwwlzhUsxbdzjPhkPwZB8rPLTPUMwcYv5spKA9IhX2iAjAR6zRpp%2FNek0QnwJZAh0O6Lonezu9iiBI1x5ktOz6UiFD42c%2BGbw5EhcL2B5kkDOcDmg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -208,7 +208,30 @@
 
 ## 連絡
 
-### 1. お知らせ
+### 1. とるっぷいは今日を持ってパドレットを引退します。
+**Author:** とるっぷい (TORI_TORI2)
+
+理由は高校受験の勉強に専念したいからです。
+
+今後の規制解除委員会の管理は
+
+いときち(こんきちだいち)と中居正広に任せます。
+
+※たまに来ます。
+
+閲覧数3万のこの部屋が、さらに大きくなることを楽しみにしています。
+
+#### Comments (1)
+- **根釧台地(元いときち)** (Aug 22, 2026 08:23am): いままでありがとう
+
+#### Additional Information
+- **Post color:** Black
+- **Created At:** Aug 22, 2026 08:12am
+- **Updated At:** Aug 22, 2026 08:14am
+
+---
+
+### 2. お知らせ
 **Author:** とるっぷい (TORI_TORI2)
 
 規制解除委員会の本部、ライター受付のカバー画像の制作をお願いしています。
@@ -234,7 +257,7 @@
 
 ---
 
-### 2. カバー画像作ってくれる人募集中！
+### 3. カバー画像作ってくれる人募集中！
 **Author:** とるっぷい (TORI_TORI2)
 
 #### Additional Information
@@ -244,7 +267,7 @@
 
 ---
 
-### 3. とるっぷいへ
+### 4. とるっぷいへ
 **Author:** 根釧台地(元いときち) (Dopagaki_67)
 
 これ、いときちの新垢だよ。前垢パスワードわかんなくなった。
@@ -263,7 +286,7 @@
 
 ---
 
-### 4. 受付(ライター)方法の変更
+### 5. 受付(ライター)方法の変更
 **Author:** とるっぷい (TORI_TORI2)
 
 メルアドを別部屋にて添付してください。
@@ -289,7 +312,7 @@
 
 ---
 
-### 5. 閲覧数26000突破
+### 6. 閲覧数26000突破
 **Author:** とるっぷい (TORI_TORI2)
 
 #### Additional Information
