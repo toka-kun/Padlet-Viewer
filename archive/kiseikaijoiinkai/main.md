@@ -1,4 +1,4 @@
-最終取得: 2026/08/22 17:34:07
+最終取得: 2026/08/23 22:42:35
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 17
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Aug 22, 2026 08:16am
+- **Updated At:** Aug 23, 2026 01:37pm
 
 ## 受付
 
@@ -79,10 +79,9 @@
 
 (´༎ຶོρ༎ຶོ\`)
 
-#### Comments (4)
+#### Comments (3)
 - **ピカチュウかわいいか（matuiriki)** (May 14, 2026 05:43am): い
 - **ピカチュウかわいいか（matuiriki)** (May 14, 2026 10:58am): おーいーおーいーおいーおいいおー
-- **ピカチュウかわいいか（matuiriki)** (May 14, 2026 10:58am): っっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっっ
 - **ｈ** (May 18, 2026 02:16am): 時間がないんだ
 
 #### Additional Information
@@ -426,6 +425,9 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 これ使えばPornhubもXvideosもYouTubeもTikTokもXも、全部一発
 
 [Attachment 1](https://app.apponfly.com/trial)
+
+#### Comments (1)
+- **中居正広リア充になった。#鳥ちゃん大好き#最近体痛い** (Aug 23, 2026 01:36pm): ナイス
 
 #### Additional Information
 - **Created At:** Aug 22, 2026 08:15am

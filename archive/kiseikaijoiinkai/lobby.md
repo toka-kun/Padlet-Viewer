@@ -1,4 +1,4 @@
-最終取得: 2026/08/23 22:34:19
+最終取得: 2026/08/23 22:42:35
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 31
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Aug 23, 2026 01:34pm
+- **Updated At:** Aug 23, 2026 01:39pm
 
 ## ルール
 
@@ -137,7 +137,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788096897&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PEYkip0YSHFDKi6%2Bb19Vu8Zwi%2FQzl1ipNK%2BO96QFjmrU1wR9a9ggbpof0WC9%2BCUgFe%2FGFPamwb9I9y%2FcS6U4QKy1J4Br9Nq5w%2Fmiix9Xr8JUjjbVes1SS%2F2LvGoPmJ02lAeFwTqQb0%2Bu6fjH34s%2B3OR72vLk9i6B7UQLRhaKfHI0543Y9Q9%2BCuWXSsaoj3UwyA%2B7cFzyat5FXayYkyGefqXpTm91TpmaI684nEWofjdylQWN%2BuMJiLbLTOZ3pGptf6UUkkN5s7mTyTO5Tz6WqniSjUXqJ1N9UHQEPJodieJZmYXsXrYhWtR7YmtWNCqdBO1%2FRut%2FmgjPpR5s00xRiQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788097390&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jSJbNtWj1MuSRn6MgphmHIth%2FZgbtmUJnEZZLS%2FlWMJPEpG6SVNbN2iGXjgXgvJU%2BCqmAx7ky%2BZyw2Tp0XGu0bcBoxPUApYgWDErIvW9NedModj0IPAYUFi%2BTKHbXRzgVLZ1PY%2FB%2B0YkvPXbARwT8agRHfY%2BK0EiXc85oKZmISzX8xwCarGCyhICCC8ixxrsNN72%2BSYnixXt4d%2Bg%2BHKMAjHaUBSPV2h%2F6%2B8erg7CPUaYzE%2FsZc2rDmitf%2Bx7wdx2fPV%2BfGw8IBb%2FjazIQipj0Gly4Ba6TmcwiO53p%2FNkHabQIOeLSX8c1JVsoiMkD5%2BMx8tnW78snrEuN29PMIXCJQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -337,7 +337,7 @@
 - **中居正広リア充になった。#鳥ちゃん大好き#最近体痛い** (May 11, 2026 01:32pm): ライターにした
 - **몬타** (Jun 10, 2026 12:04am): 2206047@edu.toyonaka-osa.ed.jp
 - **タビノハ** (Jun 19, 2026 12:03am): ブラックリスト
-- **根釧台地(元いときち)** (Aug 02, 2026 01:35pm): 1130itokichi@gmail.com
+- **根釧台地(元いときち)** (Aug 23, 2026 01:35pm): 1130itokichi@gmail.com
 
 #### Additional Information
 - **Post color:** Black
@@ -418,6 +418,9 @@ youtube（似たようなサイトでも可）
 何個か試してみたのですが、教育委員会の対策がエグくてどれも無理で、何個か教えてほしいでs
 
 ![マイクラ](https://media3.giphy.com/media/v1.Y2lkPWNhYmM5OTE4NW9zcnd4eWpscWoxamNlemsxaXdodGZuNGJxZ3kweTJ0MDZsazA2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wKWxuUOcp9fdvckBty/giphy.gif)
+
+#### Comments (1)
+- **中居正広リア充になった。#鳥ちゃん大好き#最近体痛い** (Aug 23, 2026 01:39pm): https://script.google.com/a/macros/mitaka.ed.jp/s/AKfycbyD1kIJZO6djNsqmzm_W4i1hk2TpRk891NY-5Y7heVPE_gbQbVBOHkVdnpsoIE9tovE/exec
 
 #### Additional Information
 - **Post color:** Black
