@@ -1,4 +1,4 @@
-最終取得: 2026/08/23 22:03:52
+最終取得: 2026/08/23 22:34:19
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 31
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Aug 22, 2026 12:11pm
+- **Updated At:** Aug 23, 2026 01:34pm
 
 ## ルール
 
@@ -137,7 +137,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788095070&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Wlh6EhdHHPgIvMNzQNYHzcrkUKEovulkxcsQY%2FdgfrVa0ATzF54%2BPH6%2FdxoZtLE%2Fi4OKXFNKSjX2zFyRK4UsR%2F0RllC0Df5IvjBWwLqy4YSdTPkixgQo6bLuTDezu73%2BXhdM5i0r34229wQZfkK48WUM89vjY0fJEMhPYUW3lxD4geOMBdQlap%2FCsuEc92mlTS6HJ6QutXRi7w7YHmwUbawOpE%2BEtYQpuq3s7j0zezslPbgfB1pgD6V%2ByQ6uifWanJ%2FkAECJp%2B537gCf%2BIrYDUEU8%2BO7I0OMQe64AXmbnLc2tdKfYNSdDIWbda6w1sRRsH7CdsvvXMCgCj8Gq0lB5Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788096897&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PEYkip0YSHFDKi6%2Bb19Vu8Zwi%2FQzl1ipNK%2BO96QFjmrU1wR9a9ggbpof0WC9%2BCUgFe%2FGFPamwb9I9y%2FcS6U4QKy1J4Br9Nq5w%2Fmiix9Xr8JUjjbVes1SS%2F2LvGoPmJ02lAeFwTqQb0%2Bu6fjH34s%2B3OR72vLk9i6B7UQLRhaKfHI0543Y9Q9%2BCuWXSsaoj3UwyA%2B7cFzyat5FXayYkyGefqXpTm91TpmaI684nEWofjdylQWN%2BuMJiLbLTOZ3pGptf6UUkkN5s7mTyTO5Tz6WqniSjUXqJ1N9UHQEPJodieJZmYXsXrYhWtR7YmtWNCqdBO1%2FRut%2FmgjPpR5s00xRiQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -221,8 +221,9 @@
 
 閲覧数3万のこの部屋が、さらに大きくなることを楽しみにしています。
 
-#### Comments (1)
+#### Comments (2)
 - **根釧台地(元いときち)** (Aug 22, 2026 08:23am): いままでありがとう
+- **中居正広リア充になった。#鳥ちゃん大好き#最近体痛い** (Aug 23, 2026 01:34pm): 悲しいけどお疲れ様がんばれ
 
 #### Additional Information
 - **Post color:** Black
