@@ -1,4 +1,4 @@
-最終取得: 2026/08/26 08:11:04
+最終取得: 2026/08/26 08:27:22
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 32
+- **Posts:** 33
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Aug 25, 2026 11:11am
+- **Updated At:** Aug 25, 2026 11:21pm
 
 ## ルール
 
@@ -137,7 +137,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788304299&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Xv%2BjDmFgQSr6LxP8%2BixkX2UhxiT2dQJZKyIiqL9XjLK0h0GfuRnUOehpFwc8OKDyxe0o0UH%2F2IlY7vWJmM8G54VBGpZFqIzJx0oQByA9Ewm%2BdOsA4dQ42QfyHwtAd7CJ8Fs93hbNX9P3GPLDoWOq8LGt99LP3AimHeaO4BJb0l%2FPro4BIdoSLLqblNoMENBZDqYwP6bsRt4X79LBMz7rDR9dwpDKGzHfT7KMKuQorwIN84dYPuj8FK41Q8hsAAB1aNvzTcNhLDN4s%2FHhRDT19lbXsRkeqcVliS8NP%2BnLbcz51Hanpp0anZvsjCiVvsq6pqEyi4R23KXupMGOxFM1Rg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788305278&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=aVOatHRt9mvMK3q6Mko%2FF6OdQKh3G75qWnI4fhCJOlZDPDjKFM5e2LfvOhw6ZK1KUYXHEAN%2FjHUv%2BE67hkuF5b5MmQ7nDl4pByqX3xwqPI%2BwFhPtrw9UoWk1NpQrSlg2%2BlKjW1U7FDZjD8WNc%2B90f10qBc2JQZ46nIwHFrSTJcPP%2BKp4J7jfAbCBLZvvgB1oGx4AtJgtDplawinZ33moIyaCFnU%2BfFEPjL2JLaYElW8GWCEx65NPbvbF%2BfXd1WBTrIV%2BkdG4zgQk8rXcBD%2BaqNERdkyGXlf4kY17TxRtx0hYNneRUJAl2PBQY1LOTf8BFFbPFnSpiBKyiiJMGpfqUA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -196,8 +196,9 @@
 
 こんにちは
 
-#### Comments (1)
+#### Comments (2)
 - **hです** (Jun 29, 2026 06:08am): 学校のipadでゲームってできませんか
+- **アヤオリ** (Aug 25, 2026 11:16pm): https://unpkg.com/classroomduck@1.0.29/index.html
 
 #### Additional Information
 - **Post color:** Black
@@ -268,7 +269,21 @@
 
 ---
 
-### 4. とるっぷいへ
+### 4. Post 4
+**Author:** モズネ
+
+これゲームできる
+
+[Attachment 1](https://unpkg.com/classroomduck@1.0.29/index.html)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At:** Aug 25, 2026 11:21pm
+- **Updated At:** Aug 25, 2026 11:21pm
+
+---
+
+### 5. とるっぷいへ
 **Author:** 根釧台地(元いときち) (Dopagaki_67)
 
 これ、いときちの新垢だよ。前垢パスワードわかんなくなった。
@@ -287,7 +302,7 @@
 
 ---
 
-### 5. 受付(ライター)方法の変更
+### 6. 受付(ライター)方法の変更
 **Author:** とるっぷい (TORI_TORI2)
 
 メルアドを別部屋にて添付してください。
@@ -313,7 +328,7 @@
 
 ---
 
-### 6. 閲覧数26000突破
+### 7. 閲覧数26000突破
 **Author:** とるっぷい (TORI_TORI2)
 
 #### Additional Information
