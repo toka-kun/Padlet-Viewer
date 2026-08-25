@@ -1,4 +1,4 @@
-最終取得: 2026/08/25 18:53:12
+最終取得: 2026/08/25 19:36:27
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 31
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Aug 23, 2026 01:39pm
+- **Updated At:** Aug 25, 2026 10:08am
 
 ## ルール
 
@@ -137,7 +137,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788256427&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=s8VjkxizGjNV1LpHcHx0G04FeFPZLcct6cfk7a1v%2F9laNDIOIXeDSFfPwMUp5%2BZSB1FFydSb4TERMWgLpsMmLjn78DrFtcxA0wET7IqCJ%2BHvWW%2FjnwUA%2FlUGlapRsZc8MGzNIkWfPFzM6ANY2Jeq1S3luUzAxBo5g2wKVV6CpuaYYRa2oBc2mRL1PNjXY%2FaafCggeicYrxIFhICUB5vM%2BmwiNWjhdbOkyUBUnimsmmGY7ow22MlEzxDBCk4Pc%2BDd%2FW5WV2ZT3Qy%2FDPx2kBT%2FA8fkNBtqxFYHACeY1oxqmGyLKoNOGcwLcyeih6xF3mBcS4WAVnNelLpOlVKxMQB1CQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788259022&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PcvsttVkkX1tKpTW88U0qO3VYahXi93XbZTWHRV%2FNTDk2s4%2FhDAyZGSFJMZrK2BXSkBW2afssWFVrcoC2UidDHk3AQVbbhDHele8ndqvzwuZp4JO%2F1mLgDt9QUplYxDsM5qYIemAOJfs%2BUkeIBfiB4o0Uvi%2BP8ZOpiyGoT3nBwmJR0WodllIB5KVv6UI%2Futu45%2FA9JkJvimakfFBhch3IAZkBRRntRuHGw3JgiNFoJ7sdZYch4r3Aoyovv51EWN8uYmWXRLYy07rRY505TVUKtdFvN2JD8LhcwDhWMSvHRAwUM2PqFn7OAeAc9V3xCo1QC%2BNjlc2rw%2FvzJU%2B91bQEw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -419,8 +419,9 @@ youtube（似たようなサイトでも可）
 
 ![マイクラ](https://media3.giphy.com/media/v1.Y2lkPWNhYmM5OTE4NW9zcnd4eWpscWoxamNlemsxaXdodGZuNGJxZ3kweTJ0MDZsazA2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wKWxuUOcp9fdvckBty/giphy.gif)
 
-#### Comments (1)
+#### Comments (2)
 - **中居正広リア充になった。#鳥ちゃん大好き#最近体痛い** (Aug 23, 2026 01:39pm): https://script.google.com/a/macros/mitaka.ed.jp/s/AKfycbyD1kIJZO6djNsqmzm_W4i1hk2TpRk891NY-5Y7heVPE_gbQbVBOHkVdnpsoIE9tovE/exec
+- **りくてら** (Aug 25, 2026 10:08am): すみませんサイトにはブロックされずに入れるんですけど検索してみたら「検索に失敗しました」と出てきて動画が見れないんですけどもうみれなくなってしまったんですかね？もし対処法とかあればおしえていただきたいです、、
 
 #### Additional Information
 - **Post color:** Black
