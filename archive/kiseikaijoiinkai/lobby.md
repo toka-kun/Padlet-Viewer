@@ -1,4 +1,4 @@
-最終取得: 2026/08/26 23:28:15
+最終取得: 2026/08/27 01:00:34
 
 # 規制解除委員会(ライター受付)
 
@@ -137,7 +137,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788359331&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qzIIsHqXflEFQwDvRoDNJw5cEnw%2FW%2FDqoJE%2B8O0CzHkdr7G8ay9ZXAseTYPFmLmPOmMFgTjO4wT%2Be7WBrihupcjmfaDUN%2B3vgg2xh9w6lWmwi%2FS%2Fo823lZXz7FotQhRKDTMB7b1AnE2K7MQLu1TfTe7l5dz2iC%2BQsHKyBDZxsXur3NgkMPj23Dm1mqED7tnPXpCSvGMgH3K05NyDTUCg6U9WeEqwdd%2FKCGqLf3Xg4qSvDxDWBT3d0giPMPj4kk%2BswApTCY3F0XuZ7qiugjx5HTGJUHOFQOTJRwxwpTcNyKZRXVgyDLzg9Hjl%2FFOTk4qYe611bTUAXfoYFCk9q4f%2FXw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788364873&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1RtX6gRb5AoBg4X%2F2LvW6LefBSpgw%2F3CQY058%2B1Fv9XU%2Fj0PqWcqgZa3G3wIJhRKDbPMGtp4F1ONv6vmDunuRfqhH4C0Du3q54CSScaHU6HurcpUh52Wp0jVtodalD9wmKU8JFinwTUy50Gg7hVWFDQcECfN0959Yz89SmFDnZWiug5VwPsnFInhs6iF4CO3ROO0GoLJV%2BPtBeuQefzohA4e1Ib4wfIK7xWyKlTmiC34VzcSVqLQaxvz0OkY%2BwQkEoSisqE%2Bw2qfltWeCL0eEFiEzkWPixxBGujkztGoZBbxVPdkEc4K64oVzGMTg4kq8KfA2G19mQKBLnIdu4e8SA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
