@@ -1,29 +1,20 @@
-最終取得: 2026/08/27 12:32:53
+最終取得: 2026/08/27 20:01:27
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 6
+- **Posts:** 10
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Aug 27, 2026 02:45am
+- **Updated At:** Aug 27, 2026 10:14am
 
 ## 雑談
 
-### 1. ｋうぇｇづっっｇｊｈeｇ
-**Author:** アオナギ
-
-#### Additional Information
-- **Created At:** Aug 27, 2026 01:33am
-- **Updated At:** Aug 27, 2026 01:33am
-
----
-
-### 2. 一旦消しました
+### 1. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
-#### Comments (15)
+#### Comments (17)
 - **フブキコ** (Aug 26, 2026 04:51am): けすなよお
 - **ワカナ** (Aug 26, 2026 05:03am): けさないで
 - **ワカナ** (Aug 26, 2026 05:28am): もう！！
@@ -39,9 +30,11 @@
 - **ナツシオ** (Aug 27, 2026 02:45am): なにを四天王
 - **ナツシオ** (Aug 27, 2026 02:45am): なにを四天王
 - **ナツシオ** (Aug 27, 2026 02:45am): なにを四天王
+- **神** (Aug 27, 2026 06:04am): まだ宿題終わってない９月１日までか
+- **ホシノワ** (Aug 27, 2026 06:55am): 俺も
 
 #### Reactions
-- **Emojis:** 😭 (5) 👍 (3) 🥲 (1)
+- **Emojis:** 😭 (5) 👍 (4) 🥲 (1)
 
 #### Additional Information
 - **Created At:** Aug 26, 2026 04:34am
@@ -51,11 +44,27 @@
 
 ## croxyproxy
 
-No post
+### 1. エロサイトくれ
+**Author:** スギノネ
+
+#### Additional Information
+- **Created At:** Aug 27, 2026 10:15am
+- **Updated At:** Aug 27, 2026 10:15am
+
+---
 
 ## シャドウ
 
-No post
+### 1. 至急！！！！！
+**Author:** スギノネ
+
+保健室のサイト　誰かほしいです！
+
+#### Additional Information
+- **Created At:** Aug 27, 2026 10:14am
+- **Updated At:** Aug 27, 2026 10:14am
+
+---
 
 ## inbox
 
@@ -109,4 +118,37 @@ No post
 
 ## 宣伝
 
-No post
+### 1. Post 1
+**Author:** シズカゼ
+
+[Attachment 1](https://www.youtube.com/watch?pdlt=1&v=tfMneb7nGbY)
+
+#### Additional Information
+- **Created At:** Aug 27, 2026 07:00am
+- **Updated At:** Aug 27, 2026 07:00am
+
+---
+
+### 2. セックスしたいやつなんか書いて
+**Author:** ホシノワ
+
+#### Additional Information
+- **Created At:** Aug 27, 2026 06:57am
+- **Updated At:** Aug 27, 2026 06:57am
+
+---
+
+### 3. ゲーム出せセックス
+**Author:** ヒカゲソウ
+
+#### Comments (4)
+- **ホシノワ** (Aug 27, 2026 06:54am): ゲームのサイト乗っけて
+- **ホシノワ** (Aug 27, 2026 06:54am): だれか
+- **うんこ** (Aug 27, 2026 07:09am): 黙れうんこ
+- **フミダシ** (Aug 27, 2026 07:58am): 黙れうんこ
+
+#### Additional Information
+- **Created At:** Aug 27, 2026 05:51am
+- **Updated At:** Aug 27, 2026 05:51am
+
+---
