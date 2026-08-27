@@ -1,4 +1,4 @@
-最終取得: 2026/08/27 20:01:27
+最終取得: 2026/08/27 23:37:49
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 34
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Aug 27, 2026 07:01am
+- **Updated At:** Aug 27, 2026 02:00pm
 
 ## ルール
 
@@ -149,7 +149,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788433325&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Mt4dGuiV8zJCc7lSgrEq5pFdP761MNpeJOobk6Yp%2FCi0T03WEUKWielbBOahMdW4IyW6mh6cblwErQZ5KHkPaSlUH36WbTfgxdoHh%2FFTCyW05ekbdSt9fwAo3WxjPmH%2F%2B%2FDpMeJ9PQALMlO73l5fYns8wF6xZM2rBAZdLrmw21Vc6641puKNtyhqHsZ2rIexbL4GyzPOjv4FTGPEyDtnrZ8LnpDDXkHo4mb5bsmAlvYzau4Zd%2FVeK08ha3HUTaxm2L3pj4yKBkKnCgn07sloemyIKEXby17%2BsiQXPPU9bLU3g%2BVJtcpbu8ctwyiSKIokH5J%2Br0zqtjPmU9g0bGM47Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788446309&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qWVDxST9aoGNPm%2F7DGgLRBoZ7OdN06%2F3risuNemoETOSzVkrPUQ%2B%2FgHXMvuKwqFvwV4ZkxADMaoC%2FbUttg12uhKAKOsIF7UrJ18RG05AvShVSw8gzgo8S%2FLVv8KzFQaiHMQEAtDrue0qUVZVRrK91sNwqjR3ldK37W3EzIx3wj4XWd%2FrcmvXDxEUZ68n%2FFvtZJNPyd38tC1laPhzwbYT00uif1awbXkyalrbbTwdqKq9k58YAE9Py4oxxC44SwVSDe1FwD79vtGoUu4pUUF0We0B%2FPIRau0AGa5KdSAfILREo71i0vXHCQq9z6ZOp5ZozH3%2FbQL%2BDvU0Ik%2FcUrlPXA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
