@@ -1,4 +1,4 @@
-最終取得: 2026/08/28 21:15:44
+最終取得: 2026/08/29 03:22:34
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 34
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Aug 28, 2026 11:33am
+- **Updated At:** Aug 28, 2026 12:38pm
 
 ## ルール
 
@@ -149,7 +149,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788524182&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DiaJskrcbUHUoBw8TALE%2FknSDZ2Opl83BNjfM5OG3R1ILUrU%2FlpIu2Vew08nXsUC3p%2BhACKa8SVzVOPtW2S%2Fa68mrGGrSYcG9YGJoG1CwRJkk4utrpU8T5p9UHf9JgasAzms%2Fi1pGLAMElHVzdJ%2BriMvJ93Z2b0dDFcnRCxtfuC7faiBMnCTrqgRs5n9tWbYWTFupzRCRKqo%2BLXkwlFT1aT3qEFAs3IJByi%2FgyTq0qvNTdrPy7EO1D7ff0rQDi%2F18owNhhldCJNmeYQuNxQU3bXgYXraIwDWLPf4ZjKsWFOGCsmupLauaKSACHrwojvtHVb75zGjxEjSZYWiJ3wShA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788546192&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0pL7mF%2BlC369GZx1kgqS8NNxSIfaVFrD91KmJltPx%2FSd5RMFiXUcM0tRovDasZRRuzAl1GGvEEHvsjWWrRiIfwjkrMUfUf0nIY%2F5u2cCxDXy72KP%2BLUfrMYFS3Sy6IHmXLTFpVnFi2%2BAMrkv0sxeOt0Tl0t7W2zKg4qIX%2Bv7ykNo80%2BHGBt46MUts1O1AJtSp%2BtO%2BtqWnHFDE0Z3i1r5r5POAbzJ%2FI6H66hRyeADRrFhfiaAdo9nX0%2Bp%2FT%2BICJF%2F%2B9RS7dVbowWRvy6Brz65ZeQ5gJpoX1D3tvP4tKpHl6kIFiC3K77eI7YKNgpJlH3Vk%2Fjnen7vPpPnOKPavoNkdA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -449,9 +449,10 @@ youtube（似たようなサイトでも可）
 
 ![マイクラ](https://media3.giphy.com/media/v1.Y2lkPWNhYmM5OTE4NW9zcnd4eWpscWoxamNlemsxaXdodGZuNGJxZ3kweTJ0MDZsazA2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wKWxuUOcp9fdvckBty/giphy.gif)
 
-#### Comments (2)
+#### Comments (3)
 - **中居正広リア充になった。#鳥ちゃん大好き#最近体痛い** (Aug 23, 2026 01:39pm): https://script.google.com/a/macros/mitaka.ed.jp/s/AKfycbyD1kIJZO6djNsqmzm_W4i1hk2TpRk891NY-5Y7heVPE_gbQbVBOHkVdnpsoIE9tovE/exec
 - **りくてら** (Aug 25, 2026 10:08am): すみませんサイトにはブロックされずに入れるんですけど検索してみたら「検索に失敗しました」と出てきて動画が見れないんですけどもうみれなくなってしまったんですかね？もし対処法とかあればおしえていただきたいです、、
+- **中居正広リア充になった。#鳥ちゃん大好き#最近体痛い** (Aug 28, 2026 12:38pm): https://wkt-plus-nana-12.up.railway.app/other/player#?v=fiUIrN6myzE&playlist=fiUIrN6myzEこれにリンクを貼って
 
 #### Additional Information
 - **Post color:** Black
@@ -489,8 +490,9 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 ### 1. ここにならなにかいてもいいんですか？
 **Author:** みさ
 
-#### Comments (1)
+#### Comments (2)
 - **みさ** (Aug 25, 2026 11:10am): [Attachment](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl/wish/94PGWn5YxLp0ZLRV) 別に変なことはしないんですけど私の絵を自慢したくて、
+- **中居正広リア充になった。#鳥ちゃん大好き#最近体痛い** (Aug 28, 2026 12:22pm): ええよ
 
 #### Additional Information
 - **Post color:** Black
