@@ -1,18 +1,18 @@
-最終取得: 2026/08/28 08:59:26
+最終取得: 2026/08/28 09:26:40
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 14
+- **Posts:** 11
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Aug 27, 2026 11:48pm
+- **Updated At:** Aug 28, 2026 12:22am
 
 ## 雑談
 
 ### 1. Post 1
-**Author:** でにでにろつとまん
+**Author:** 佐渡まお (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
 
@@ -25,7 +25,7 @@
 ### 2. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
-#### Comments (17)
+#### Comments (12)
 - **フブキコ** (Aug 26, 2026 04:51am): けすなよお
 - **ワカナ** (Aug 26, 2026 05:03am): けさないで
 - **ワカナ** (Aug 26, 2026 05:28am): もう！！
@@ -36,11 +36,6 @@
 - **r0301915_1** (Aug 26, 2026 09:33am): なんで消したんだ！（泣）
 - **ネムリコ** (Aug 26, 2026 11:03pm): もう一回やり直そう
 - **ヒノデマル** (Aug 27, 2026 12:31am): 始業式おわった
-- **コユキ** (Aug 27, 2026 01:01am): shine
-- **ナツシオ** (Aug 27, 2026 02:45am): なにを四天王
-- **ナツシオ** (Aug 27, 2026 02:45am): なにを四天王
-- **ナツシオ** (Aug 27, 2026 02:45am): なにを四天王
-- **ナツシオ** (Aug 27, 2026 02:45am): なにを四天王
 - **神** (Aug 27, 2026 06:04am): まだ宿題終わってない９月１日までか
 - **ホシノワ** (Aug 27, 2026 06:55am): 俺も
 
@@ -60,7 +55,7 @@
 
 #### Comments (2)
 - **フミダシ** (Aug 27, 2026 11:06am): きっも
-- **でにでにろつとまん** (Aug 27, 2026 11:45pm): 俺も欲しい
+- **佐渡まお** (Aug 27, 2026 11:45pm): 俺も欲しい
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 10:15am
@@ -74,6 +69,9 @@
 **Author:** スギノネ
 
 保健室のサイト　誰かほしいです！
+
+#### Comments (1)
+- **かぼちゃ** (Aug 28, 2026 12:23am): https://padlet.com/s22y164/padlet-yy2k3c5ijiflpmpw
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 10:14am
@@ -97,33 +95,7 @@
 
 ## その他のproxy
 
-### 1. geometrydashで一番難しいレベルの動画
-**Author:** ゆうと
-
-[https://www.youtube.com/watch?v=frjtBcNI6dIcanva.com](https://www.youtube.com/watch?v=frjtBcNI6dIcanva.com)
-
-[Attachment 1](https://www.youtube.com/watch?v=frjtBcNI6dIcanva.com)
-
-#### Additional Information
-- **Created At:** Aug 27, 2026 11:38pm
-- **Updated At:** Aug 27, 2026 11:38pm
-
----
-
-### 2. geometrydashの動画
-**Author:** ゆうと
-
-[https://www.youtube.com/watch?v=g3\_XUbK-PP0canva.com](https://www.youtube.com/watch?v=g3_XUbK-PP0canva.com)
-
-[Attachment 1](https://www.youtube.com/watch?v=g3_XUbK-PP0canva.com)
-
-#### Additional Information
-- **Created At:** Aug 27, 2026 11:36pm
-- **Updated At:** Aug 27, 2026 11:36pm
-
----
-
-### 3. geometrydashのURL　
+### 1. geometrydashのURL　
 **Author:** ゆうと
 
 [https://planet.mblock.cc/project/projectshare/8349577](https://planet.mblock.cc/project/projectshare/8349577)
@@ -136,51 +108,52 @@
 
 ---
 
-### 4. みなと
-**Author:** ゆうと
-
-#### Additional Information
-- **Created At:** Aug 27, 2026 02:32am
-- **Updated At:** Aug 27, 2026 02:32am
-
----
-
 ## youtube
 
-### 1. air_12
-**Author:** わほー
+### 1. geometrydashで一番難しいレベルの動画
+**Author:** ゆうと
+
+[https://www.youtube.com/watch?v=frjtBcNI6dIcanva.com](https://www.youtube.com/watch?v=frjtBcNI6dIcanva.com)
+
+[Attachment 1](https://www.youtube.com/watch?v=frjtBcNI6dIcanva.com)
 
 #### Additional Information
-- **Created At:** Aug 26, 2026 08:59am
-- **Updated At:** Aug 26, 2026 08:59am
+- **Created At:** Aug 27, 2026 11:38pm
+- **Updated At:** Aug 28, 2026 12:21am
 
 ---
 
-## TikTok
+### 2. geometrydashの動画
+**Author:** ゆうと
 
-### 1. air_12
-**Author:** わほー
+[https://www.youtube.com/watch?v=g3\_XUbK-PP0canva.com](https://www.youtube.com/watch?v=g3_XUbK-PP0canva.com)
+
+[Attachment 1](https://www.youtube.com/watch?v=g3_XUbK-PP0canva.com)
 
 #### Additional Information
-- **Created At:** Aug 26, 2026 06:48am
-- **Updated At:** Aug 26, 2026 06:48am
+- **Created At:** Aug 27, 2026 11:36pm
+- **Updated At:** Aug 28, 2026 12:22am
 
 ---
 
-## 宣伝
-
-### 1. Post 1
+### 3. Post 3
 **Author:** シズカゼ
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=tfMneb7nGbY)
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 07:00am
-- **Updated At:** Aug 27, 2026 07:00am
+- **Updated At:** Aug 28, 2026 12:22am
 
 ---
 
-### 2. セックスしたいやつなんか書いて
+## TikTok
+
+No post
+
+## 宣伝
+
+### 1. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
 #### Additional Information
@@ -189,7 +162,7 @@
 
 ---
 
-### 3. ゲーム出せセックス
+### 2. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
 #### Comments (4)
