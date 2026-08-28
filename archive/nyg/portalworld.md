@@ -1,4 +1,4 @@
-最終取得: 2026/08/28 09:26:40
+最終取得: 2026/08/28 14:32:55
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 159
 - **Created At:** Aug 31, 2025 08:58am
-- **Updated At:** Aug 27, 2026 09:06pm
+- **Updated At:** Aug 28, 2026 05:21am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -26,7 +26,7 @@
 - **何を書けば良いのか分からない場合は、サンプルを参考にして下さい。**
 
 #### Comments (2)
-- **仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署後輩** (Jun 19, 2026 11:54pm): わかりました！
+- **仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員** (Jun 19, 2026 11:54pm): わかりました！
 - **よっしーちゃん** (Aug 27, 2026 09:03pm): いいね
 
 #### Reactions
@@ -631,7 +631,7 @@
 ---
 
 ### 23. みんなで雑談しよう！
-**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
+**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員 (TOKYO874321Forsaken)
 
 まだ人は少ないけどこれから増やしていくつもりです。主にRobloxの話をします。もちろんそれ以外の話もします。荒らしだけは勘弁してください。これからもっといい部屋にしていきたいと思います。できたら入ってアドバイスなどお願いします。（まだ作ったばっかりです。自分から見ると）
 
@@ -1010,7 +1010,7 @@ BAN覚悟で
 ---
 
 ### 38. Proxy革命軍
-**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
+**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員 (TOKYO874321Forsaken)
 
 たくさん人がいるよ！ゲームもProxyもユーチューブもたくさんあるよ！オーナーがすごい優しくてすぐ仲良くなれると思うよ！
 
@@ -1142,7 +1142,7 @@ BAN覚悟で
 
 #### Comments (2)
 - **hirafu** (Jul 11, 2026 09:53am): はいれない
-- **仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署後輩** (Jul 27, 2026 10:37pm): それな
+- **仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員** (Jul 27, 2026 10:37pm): それな
 
 #### Additional Information
 - **Post color:** White
@@ -1152,7 +1152,7 @@ BAN覚悟で
 ---
 
 ### 44. みんなで雑談しよう
-**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
+**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員 (TOKYO874321Forsaken)
 
 出来立てですがみんなで仲良く楽しく雑談する部屋だよ
 
@@ -1455,7 +1455,7 @@ I FILTER民によるI FILTER回避のための部屋。
 ---
 
 ### 56. ２代目みんなで共有しよう！
-**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署後輩 (TOKYO874321Forsaken)
+**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員 (TOKYO874321Forsaken)
 
 最強プロキシや、最強のYouTubeダウンローダー、ゲームもたくさんあります！ぜひ来てください！みんなで楽しく仲良く色々共有しましょう！
 
@@ -3789,7 +3789,7 @@ a
 ---
 
 ### 152. 誠意大将軍の雑談部屋
-**Author:** しなびたイキリほうれん草(ｳｪｻﾞｴﾓﾝ) (masakik)
+**Author:** 量産型パスタ(ｳｪｻﾞｴﾓﾝ) (masakik)
 
 僕の部屋ではみんなが雑談している部屋にしたいです。
 
@@ -3899,7 +3899,7 @@ a
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1788481612&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=c7PZcV63eoKXjbFPIxR%2BhHX%2BIgXPllKpjd1ozMVJ9DxRet8lBcOGg0hw8%2BKuv%2BQNWFrxSlbQxYvHDNb9JX66tBgWoe7CQNIKGrWpuwA9136EwlMQXwBobvCZuyY25KlE1%2BPbpZw5t%2FU%2B7yTT%2BBtMPzB9o8GquQVxl6ZuECFEkPoV8XzDfCUSCdBNCwVtQYrfuFrJ2JRL1nCbt44U6%2FKnF%2FBoC3OOsyXZWB5Y1FXe1c24vJQrtwwZ03s2hXnojVHZRdwGDWNJ3L9g22yciUJ%2Fomrh6oGa4oqU3ppCFbPmO%2BbQiuSsngtk9lMBp6M5cOonKioZFtzqxFJjwqYUxNXNSA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1788499986&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YfTu87Ty919u3Fmk7FVSUi0Q%2Bh3zNg6BaOLY9gFr4lzl33OHlQEKCRGffE1yIO8K9hlW2ZKyNLQLfrpfRlA3Quu%2FE2nTlf%2FUzKquJppdf%2BfF8FK8KUHfg%2BK1YVnGb3g5vn6w8GZEujwcvnPXhqx9h168ycSdItXNaeRTsrRnBkCPDY1HDVbIIGgLKBzjxR%2By30ip72KNFu9%2F1bkinJcSLjNjihnQ0OPbeniR1PQ1hlflPE5GHtXpO%2BhUtrb7CZT187AQvEXd3nN3O2Y3iM%2BVTAF6NO1HczK%2FR6A9elODME0wOKxV2WHbdrVax9Z12hF6tf9Yud4rsDNyNmtsLHHzMA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (2)
