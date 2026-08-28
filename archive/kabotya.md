@@ -1,13 +1,13 @@
-最終取得: 2026/08/28 21:15:44
+最終取得: 2026/08/29 03:22:34
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 20
+- **Posts:** 21
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Aug 28, 2026 11:59am
+- **Updated At:** Aug 28, 2026 04:22pm
 
 ## 雑談
 
@@ -87,7 +87,20 @@
 
 ## croxyproxy
 
-### 1. 変わっちゃった
+### 1. まだうごいてんのここwwwwwww
+**Author:** 🐇 (c_coa09)
+
+#### Comments (2)
+- **🐇** (Aug 28, 2026 04:22pm): うちがはじめたときからずっとあったけど
+- **🐇** (Aug 28, 2026 04:22pm): 驚きだわ
+
+#### Additional Information
+- **Created At:** Aug 28, 2026 02:56pm
+- **Updated At:** Aug 28, 2026 02:56pm
+
+---
+
+### 2. 変わっちゃった
 **Author:** ユメノ
 
 #### Additional Information
@@ -96,7 +109,7 @@
 
 ---
 
-### 2. 誰かURL貼って動画見るやつ教えて
+### 3. 誰かURL貼って動画見るやつ教えて
 **Author:** ユメノ
 
 fernって名前のやつ　履歴消したらきえt
@@ -107,7 +120,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 3. なにこれ
+### 4. なにこれ
 **Author:** おとちん
 
 [Attachment 1](https://u.topia.2a.exe.googleapis.com.hospitaldelninodif.gob.mx/)
@@ -124,7 +137,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 4. 誰かエロ部屋くれ
+### 5. 誰かエロ部屋くれ
 **Author:** 匿名
 
 #### Comments (1)
@@ -136,7 +149,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 5. エロサイトくれ
+### 6. エロサイトくれ
 **Author:** スギノネ
 
 #### Comments (7)
@@ -161,13 +174,15 @@ fernって名前のやつ　履歴消したらきえt
 
 保健室のサイト　誰かほしいです！
 
-#### Comments (6)
+#### Comments (8)
 - **かぼちゃ** (Aug 28, 2026 12:23am): https://padlet.com/s22y164/padlet-yy2k3c5ijiflpmpw
 - **ミナソコ** (Aug 28, 2026 09:24am): あざっす
 - **ニック** (Aug 28, 2026 11:38am): こんにちわ
 - **ニック** (Aug 28, 2026 11:38am): 🦊
 - **匿名** (Aug 28, 2026 11:50am): こんにちわ
 - **ニック** (Aug 28, 2026 11:59am): こんにちは
+- **ニック** (Aug 28, 2026 01:10pm): ｈ
+- **ニック** (Aug 28, 2026 02:10pm): なんか面白いの送ってください
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 10:14am
@@ -302,7 +317,7 @@ No post
 ### 3. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
-#### Comments (7)
+#### Comments (8)
 - **ホシノワ** (Aug 27, 2026 06:54am): ゲームのサイト乗っけて
 - **ホシノワ** (Aug 27, 2026 06:54am): だれか
 - **うんこ** (Aug 27, 2026 07:09am): 黙れうんこ
@@ -310,6 +325,7 @@ No post
 - **Anonymous** (Aug 28, 2026 08:14am): Ubg67って調べて 
 - **匿名** (Aug 28, 2026 11:49am): ブロックされた
 - **匿名** (Aug 28, 2026 11:50am): pokiのサイトのせて
+- **ニック** (Aug 28, 2026 01:18pm): わかりました
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 05:51am

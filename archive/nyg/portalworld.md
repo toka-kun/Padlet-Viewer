@@ -1,4 +1,4 @@
-最終取得: 2026/08/28 21:15:44
+最終取得: 2026/08/29 03:22:34
 
 # Padletポータルワールド
 
@@ -341,7 +341,7 @@
 ---
 
 ### 11. toriproZ受付
-**Author:** とりもも🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON (tori3proxyZtyper)
+**Author:** とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON (tori3proxyZtyper)
 
 タイピングを主目的としたチーム活動をしています！
 
@@ -395,7 +395,7 @@
 ---
 
 ### 13. 萌黄's広場
-**Author:** 萌黄 (Moegi)
+**Author:** 萌黄 (mmyr_moegi)
 
 作ったばっかりなので過疎です
 
@@ -721,7 +721,7 @@
 ---
 
 ### 27. toriproZ本部
-**Author:** とりもも🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON (tori3proxyZtyper)
+**Author:** とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON (tori3proxyZtyper)
 
 タイピング練習を主目的としたチームです。
 
@@ -748,9 +748,9 @@
 #### Comments (5)
 - **村松駿** (Jul 27, 2026 07:53am): おれやりたい
 - **☆爆死☆** (Jul 27, 2026 07:53am): パスワード教えて
-- **とりもも🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON** (Jul 27, 2026 10:37pm): すまない
-- **とりもも🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON** (Jul 27, 2026 10:37pm): https://padlet.com/tori3proxyZtyper/toriproz-h3p7ovdl22rr3fmh
-- **とりもも🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON** (Jul 27, 2026 10:37pm): こっちで面接してからパスワ伝える
+- **とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON** (Jul 27, 2026 10:37pm): すまない
+- **とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON** (Jul 27, 2026 10:37pm): https://padlet.com/tori3proxyZtyper/toriproz-h3p7ovdl22rr3fmh
+- **とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON** (Jul 27, 2026 10:37pm): こっちで面接してからパスワ伝える
 
 #### Additional Information
 - **Post color:** White
@@ -1078,7 +1078,7 @@ BAN覚悟で
 ---
 
 ### 41. ゲームマシマシ、プロキシ多め
-**Author:** RB26DETT (nikita1922)
+**Author:** にちか (nikita1922)
 
 ゲーム、プロキシ、便利サイト、動画系沢山あってサイト捜索もやっています
 
@@ -3899,7 +3899,7 @@ a
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1788524156&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EoZNhQd6UbB3SdmNcIqQY8U41%2FFJw%2Bk1BIDiSPm1d%2BHDCfWcXYxC%2B67ZZ%2BQzx2KMTWFIfrFjvHWjQFnMW7BliLGhMFI4n5%2Bf7vmacd8eYL45LI4fq81dh7F4dJCDIrIh%2BR3AYz41GYYJeP94VrlhyZ0PsZ7%2Fh%2FPdfoqixZMckvefMJzQvOSsEznmItAkrL1%2BLds195jHreoSP2IqJH2XeiJxHpRuIkH45ELDa7IjNQ69Dl2brTA3uYRZoKafuSTilawYYV95nNSOydC6Cq21E18aeIySL7%2BbiPzbULu9KHwJy3tCCvZ7qarJUePKT6p3ANIwK%2BQsGpDk0Kra0iGbKQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1788546166&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=v32jV9s2%2FOSWw08GjXhI%2BgNISYjCZl6D1c5lPdr%2BK6JXVf7IHB7KDg84xFjT%2FPuRvjceyQnuZ%2BEqXmvd2N89mni%2Byt%2F1ulJV1D%2BEJnQjZrCooHWGtAvIHiNme8p1BE6ubBoC0UQd9OTeHNzu%2FztaEVxl3gcSVQelROQNAaPeO8WiLqUGoi7684fxjSKM3tcVp2A3EMtoGAHipjBukMyJXLtqk9GNUHV3N4zL%2BsYy0%2BMsN%2B226en4Dg4mnhaAUkGDYddOCIAb991220hzQ7CBM8tay2yOTtecBj5RYeg3Unf%2BP7HuhPDZzw3T4seqKAAAynAyeXos3ZuZQrKBk5SQZA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (2)
