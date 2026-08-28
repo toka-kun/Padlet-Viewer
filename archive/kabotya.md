@@ -1,13 +1,13 @@
-最終取得: 2026/08/28 14:32:55
+最終取得: 2026/08/28 20:18:17
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 15
+- **Posts:** 19
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Aug 28, 2026 04:19am
+- **Updated At:** Aug 28, 2026 11:12am
 
 ## 雑談
 
@@ -39,6 +39,9 @@
 **Author:** 佐渡まお (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
+
+#### Reactions
+- **Emojis:** 😆 (1)
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 11:48pm
@@ -75,15 +78,66 @@
 
 ## croxyproxy
 
-### 1. エロサイトくれ
+### 1. 変わっちゃった
+**Author:** ユメノ
+
+#### Additional Information
+- **Created At:** Aug 28, 2026 10:22am
+- **Updated At:** Aug 28, 2026 10:22am
+
+---
+
+### 2. 誰かURL貼って動画見るやつ教えて
+**Author:** ユメノ
+
+fernって名前のやつ　履歴消したらきえt
+
+#### Additional Information
+- **Created At:** Aug 28, 2026 10:13am
+- **Updated At:** Aug 28, 2026 10:13am
+
+---
+
+### 3. なにこれ
+**Author:** おとちん
+
+[Attachment 1](https://u.topia.2a.exe.googleapis.com.hospitaldelninodif.gob.mx/)
+
+#### Comments (1)
+- **おとちん** (Aug 28, 2026 10:04am): サイトのURLコピーして貼ったら見れる
+
+#### Reactions
+- **Emojis:** ❤️ (1)
+
+#### Additional Information
+- **Created At:** Aug 28, 2026 10:04am
+- **Updated At:** Aug 28, 2026 10:04am
+
+---
+
+### 4. 誰かエロ部屋くれ
+**Author:** 匿名
+
+#### Comments (1)
+- **ユメノ** (Aug 28, 2026 10:26am): https://www.google.com/goto?url=CAESYwHrOzAViPNkKkw4IreVZzIFWN-q5mAIGTxNgK_t6zVjVEEfKSNYs2Px8wuK7LTPkEj04bweDy9cYMh8jUi6ZrCRfrpyPPrFGm6Rc_roXyQbuDV1VyQXZxme28SoHD1PkD0x3Q
+
+#### Additional Information
+- **Created At:** Aug 28, 2026 07:09am
+- **Updated At:** Aug 28, 2026 07:09am
+
+---
+
+### 5. エロサイトくれ
 **Author:** スギノネ
 
-#### Comments (5)
+#### Comments (7)
 - **フミダシ** (Aug 27, 2026 11:06am): きっも
 - **佐渡まお** (Aug 27, 2026 11:45pm): 俺も欲しい
 - **匿名** (Aug 28, 2026 04:08am): 保健室ってサイトがエロサイト
 - **34b6kq** (Aug 28, 2026 04:19am): →に載せた
 - **34b6kq** (Aug 28, 2026 04:19am): エロサイト
+- **Anonymous** (Aug 28, 2026 06:51am): htvgtcytcf  
+- **Anonymous** (Aug 28, 2026 08:13am): 　うひh  
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 10:15am
@@ -98,8 +152,9 @@
 
 保健室のサイト　誰かほしいです！
 
-#### Comments (1)
+#### Comments (2)
 - **かぼちゃ** (Aug 28, 2026 12:23am): https://padlet.com/s22y164/padlet-yy2k3c5ijiflpmpw
+- **ミナソコ** (Aug 28, 2026 09:24am): あざっす
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 10:14am
@@ -112,8 +167,10 @@
 ### 1. ブロスタやってる人トロ数書いて
 **Author:** フミダシ
 
-#### Comments (1)
+#### Comments (3)
 - **Anonymous** (Aug 27, 2026 11:52am): 77777
+- **ユメノ** (Aug 28, 2026 10:21am): 20000ちょい
+- **匿名** (Aug 28, 2026 11:12am): 始めたばっかで9000
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 11:49am
@@ -129,6 +186,9 @@
 [https://planet.mblock.cc/project/projectshare/8349577](https://planet.mblock.cc/project/projectshare/8349577)
 
 [Attachment 1](https://planet.mblock.cc/project/projectshare/8349577)
+
+#### Comments (1)
+- **ユメノ** (Aug 28, 2026 10:21am): どうやって使うん
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 02:34am
@@ -208,13 +268,17 @@ No post
 ### 2. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
-#### Comments (6)
+#### Comments (7)
 - **イズミ** (Aug 28, 2026 12:36am): しね
 - **イズミ** (Aug 28, 2026 12:36am): かす
 - **イズミ** (Aug 28, 2026 12:36am): ごみ
 - **イズミ** (Aug 28, 2026 12:36am): ざこ
 - **かめかめかめ** (Aug 28, 2026 01:55am): できれば爺とやりたい
 - **34b6kq** (Aug 28, 2026 03:38am): かめかめかめ　それは意味わからん
+- **匿名** (Aug 28, 2026 07:56am): イズミ雑魚ってどういうこと？なにを持って雑魚なの？
+
+#### Reactions
+- **Emojis:** 👎 (1)
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 06:57am
@@ -225,11 +289,12 @@ No post
 ### 3. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
-#### Comments (4)
+#### Comments (5)
 - **ホシノワ** (Aug 27, 2026 06:54am): ゲームのサイト乗っけて
 - **ホシノワ** (Aug 27, 2026 06:54am): だれか
 - **うんこ** (Aug 27, 2026 07:09am): 黙れうんこ
 - **フミダシ** (Aug 27, 2026 07:58am): 黙れうんこ
+- **Anonymous** (Aug 28, 2026 08:14am): Ubg67って調べて 
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 05:51am

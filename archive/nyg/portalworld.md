@@ -1,4 +1,4 @@
-最終取得: 2026/08/28 14:32:55
+最終取得: 2026/08/28 20:18:17
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 159
 - **Created At:** Aug 31, 2025 08:58am
-- **Updated At:** Aug 28, 2026 05:21am
+- **Updated At:** Aug 28, 2026 09:43am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -26,7 +26,7 @@
 - **何を書けば良いのか分からない場合は、サンプルを参考にして下さい。**
 
 #### Comments (2)
-- **仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員** (Jun 19, 2026 11:54pm): わかりました！
+- **仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Jun 19, 2026 11:54pm): わかりました！
 - **よっしーちゃん** (Aug 27, 2026 09:03pm): いいね
 
 #### Reactions
@@ -227,7 +227,7 @@
 ---
 
 ### 6. 雑談部屋
-**Author:** 𝕪𝕦𝕞𝕒（みわ⭐️🎀とペア画中） (gs183556)
+**Author:** 𝔦 𝔞𝔪 𝔂𝔲𝓶𝔞 (gs183556)
 
 雑談セクション多め
 
@@ -587,7 +587,7 @@
 ---
 
 ### 21. 電卓
-**Author:** 𝕪𝕦𝕞𝕒（みわ⭐️🎀とペア画中） (gs183556)
+**Author:** 𝔦 𝔞𝔪 𝔂𝔲𝓶𝔞 (gs183556)
 
 みんな優しいです
 
@@ -631,7 +631,7 @@
 ---
 
 ### 23. みんなで雑談しよう！
-**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員 (TOKYO874321Forsaken)
+**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子） (TOKYO874321Forsaken)
 
 まだ人は少ないけどこれから増やしていくつもりです。主にRobloxの話をします。もちろんそれ以外の話もします。荒らしだけは勘弁してください。これからもっといい部屋にしていきたいと思います。できたら入ってアドバイスなどお願いします。（まだ作ったばっかりです。自分から見ると）
 
@@ -812,7 +812,7 @@
 ---
 
 ### 30. classroom
-**Author:** 𝕪𝕦𝕞𝕒（みわ⭐️🎀とペア画中） (gs183556)
+**Author:** 𝔦 𝔞𝔪 𝔂𝔲𝓶𝔞 (gs183556)
 
 みんなで楽しくやってます
 
@@ -834,7 +834,7 @@
 ---
 
 ### 31. 青の風の宣伝部屋
-**Author:** 青の風（Smileとペア画中） (ks10520)
+**Author:** 青の風（Smileとペア画中）ningen様の一番弟子です (ks10520)
 
 なんでも宣伝するよ。
 
@@ -883,7 +883,7 @@ BAN覚悟で
 ---
 
 ### 33. みわ🎀様のことを拝む
-**Author:** 青の風（Smileとペア画中） (ks10520)
+**Author:** 青の風（Smileとペア画中）ningen様の一番弟子です (ks10520)
 
 雑談とか出来るよ！
 
@@ -1010,7 +1010,7 @@ BAN覚悟で
 ---
 
 ### 38. Proxy革命軍
-**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員 (TOKYO874321Forsaken)
+**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子） (TOKYO874321Forsaken)
 
 たくさん人がいるよ！ゲームもProxyもユーチューブもたくさんあるよ！オーナーがすごい優しくてすぐ仲良くなれると思うよ！
 
@@ -1142,7 +1142,7 @@ BAN覚悟で
 
 #### Comments (2)
 - **hirafu** (Jul 11, 2026 09:53am): はいれない
-- **仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員** (Jul 27, 2026 10:37pm): それな
+- **仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Jul 27, 2026 10:37pm): それな
 
 #### Additional Information
 - **Post color:** White
@@ -1152,7 +1152,7 @@ BAN覚悟で
 ---
 
 ### 44. みんなで雑談しよう
-**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員 (TOKYO874321Forsaken)
+**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子） (TOKYO874321Forsaken)
 
 出来立てですがみんなで仲良く楽しく雑談する部屋だよ
 
@@ -1455,7 +1455,7 @@ I FILTER民によるI FILTER回避のための部屋。
 ---
 
 ### 56. ２代目みんなで共有しよう！
-**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員 (TOKYO874321Forsaken)
+**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子） (TOKYO874321Forsaken)
 
 最強プロキシや、最強のYouTubeダウンローダー、ゲームもたくさんあります！ぜひ来てください！みんなで楽しく仲良く色々共有しましょう！
 
@@ -3899,7 +3899,7 @@ a
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1788499986&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YfTu87Ty919u3Fmk7FVSUi0Q%2Bh3zNg6BaOLY9gFr4lzl33OHlQEKCRGffE1yIO8K9hlW2ZKyNLQLfrpfRlA3Quu%2FE2nTlf%2FUzKquJppdf%2BfF8FK8KUHfg%2BK1YVnGb3g5vn6w8GZEujwcvnPXhqx9h168ycSdItXNaeRTsrRnBkCPDY1HDVbIIGgLKBzjxR%2By30ip72KNFu9%2F1bkinJcSLjNjihnQ0OPbeniR1PQ1hlflPE5GHtXpO%2BhUtrb7CZT187AQvEXd3nN3O2Y3iM%2BVTAF6NO1HczK%2FR6A9elODME0wOKxV2WHbdrVax9Z12hF6tf9Yud4rsDNyNmtsLHHzMA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1788520709&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ifm%2FucP26AXI6dCzCd1gHyLvaIU5RpPqKZy6xxjhNd2LOdlXkeqAcSnf%2FbRUS3AK9twm%2B%2F0vn0mnw4%2B4ZYpw4FCKBpGcr3ErHk3FMAewpYxc6Q7qMOzhubR%2BjGz5GnnVQsTeM7Ze7%2FNRUQzk2yJcTmQyAEDKQ44Kk%2B2AaYBgiQSWp2kqb5V9lyb8S6Z6JeeCV3nPItUQ%2BW6z5eE%2BI%2BtGOMbd9egXEuS%2BxstsIIL6nyJIzVjFlfZh5LdMoSwQfJDqXfnJy0TlDWeS9dSCHghB%2BZvJ8LwhDjDFGohtTzO3Cz1m3YozDUeJsG%2F5BptjeeY%2Bh9CVsHUZHZe%2FYNcBRMak3g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (2)
