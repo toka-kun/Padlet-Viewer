@@ -1,4 +1,4 @@
-最終取得: 2026/08/28 20:18:17
+最終取得: 2026/08/28 21:15:44
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 34
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Aug 27, 2026 02:00pm
+- **Updated At:** Aug 28, 2026 11:33am
 
 ## ルール
 
@@ -149,7 +149,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788520735&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=n29LooK4m1lOR0mJYJOGhKilxUpqe1IIL63A08v2MulWulTzJfwdkFFM8wWNUaQN182AY%2Bh88nEMaiWf7wgqPw0APMjb9MdT%2BZ72C1GGfjnRnfH8u4i8nkkWc1Az2f2U%2F5U3cb6K8T%2FXpG7GXPnmhfUxdRVqUcY5GIz40GrFRw%2FA8VQN6aeUu7dFZkuYxuk5tbXrqF5D8tfFF4GkyP%2BzXw27NFuQEQiKF%2FODbaPGVphOjtm4FRNDFNWgoIW303VNOVWl%2Fy6qHpg6wG1jBWcwjmqvj%2BzspjPWbsQ56IkYY0iB%2FSGYUBSdJzkLUP%2FLRInsX6X4cJ3mCIv01qlPRaE7Kw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788524182&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DiaJskrcbUHUoBw8TALE%2FknSDZ2Opl83BNjfM5OG3R1ILUrU%2FlpIu2Vew08nXsUC3p%2BhACKa8SVzVOPtW2S%2Fa68mrGGrSYcG9YGJoG1CwRJkk4utrpU8T5p9UHf9JgasAzms%2Fi1pGLAMElHVzdJ%2BriMvJ93Z2b0dDFcnRCxtfuC7faiBMnCTrqgRs5n9tWbYWTFupzRCRKqo%2BLXkwlFT1aT3qEFAs3IJByi%2FgyTq0qvNTdrPy7EO1D7ff0rQDi%2F18owNhhldCJNmeYQuNxQU3bXgYXraIwDWLPf4ZjKsWFOGCsmupLauaKSACHrwojvtHVb75zGjxEjSZYWiJ3wShA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -195,6 +195,9 @@
 
 ### 12. 規制解除してくださいお願いします。
 **Author:** 川村茜寧 (22117257)
+
+#### Comments (1)
+- **シオアサ** (Aug 28, 2026 11:33am): こんにちは
 
 #### Additional Information
 - **Post color:** Black

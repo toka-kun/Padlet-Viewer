@@ -1,17 +1,26 @@
-最終取得: 2026/08/28 20:18:17
+最終取得: 2026/08/28 21:15:44
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 19
+- **Posts:** 20
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Aug 28, 2026 11:12am
+- **Updated At:** Aug 28, 2026 11:59am
 
 ## 雑談
 
-### 1. アニメ見れるサイト欲しい
+### 1. 誰かpokiのサイト載せて
+**Author:** 匿名
+
+#### Additional Information
+- **Created At:** Aug 28, 2026 11:47am
+- **Updated At:** Aug 28, 2026 11:47am
+
+---
+
+### 2. アニメ見れるサイト欲しい
 **Author:** 34b6kq
 
 違法サイトでも全然ええよ
@@ -26,7 +35,7 @@
 
 ---
 
-### 2. あああああああああああああああああ
+### 3. あああああああああああああああああ
 **Author:** クモ
 
 #### Additional Information
@@ -35,7 +44,7 @@
 
 ---
 
-### 3. Post 3
+### 4. Post 4
 **Author:** 佐渡まお (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
@@ -49,7 +58,7 @@
 
 ---
 
-### 4. 一旦消しました
+### 5. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
 #### Comments (13)
@@ -68,7 +77,7 @@
 - **34b6kq** (Aug 28, 2026 04:20am): ワイの学校宿題ない
 
 #### Reactions
-- **Emojis:** 😭 (6) 👍 (4) 🥲 (1)
+- **Emojis:** 😭 (7) 👍 (4) 🥲 (1)
 
 #### Additional Information
 - **Created At:** Aug 26, 2026 04:34am
@@ -152,9 +161,13 @@ fernって名前のやつ　履歴消したらきえt
 
 保健室のサイト　誰かほしいです！
 
-#### Comments (2)
+#### Comments (6)
 - **かぼちゃ** (Aug 28, 2026 12:23am): https://padlet.com/s22y164/padlet-yy2k3c5ijiflpmpw
 - **ミナソコ** (Aug 28, 2026 09:24am): あざっす
+- **ニック** (Aug 28, 2026 11:38am): こんにちわ
+- **ニック** (Aug 28, 2026 11:38am): 🦊
+- **匿名** (Aug 28, 2026 11:50am): こんにちわ
+- **ニック** (Aug 28, 2026 11:59am): こんにちは
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 10:14am
@@ -289,12 +302,14 @@ No post
 ### 3. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
-#### Comments (5)
+#### Comments (7)
 - **ホシノワ** (Aug 27, 2026 06:54am): ゲームのサイト乗っけて
 - **ホシノワ** (Aug 27, 2026 06:54am): だれか
 - **うんこ** (Aug 27, 2026 07:09am): 黙れうんこ
 - **フミダシ** (Aug 27, 2026 07:58am): 黙れうんこ
 - **Anonymous** (Aug 28, 2026 08:14am): Ubg67って調べて 
+- **匿名** (Aug 28, 2026 11:49am): ブロックされた
+- **匿名** (Aug 28, 2026 11:50am): pokiのサイトのせて
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 05:51am

@@ -1,4 +1,4 @@
-最終取得: 2026/08/28 20:18:17
+最終取得: 2026/08/28 21:15:44
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -1112,7 +1112,7 @@
 
 テトリス自作したんで
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1788520714&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=HL3yWoNuppJK3VVaTMES4muJXuupuQejTxEgyYHa9lBxRosWMtMI4LdR0ZIghtIDDc8uE74BCS1y2mdTavoLBOcYsp0gHQDpvxCaqYjWf0tEjhjCDD9G5f9SQce2Uz5RbiEqJ1zwblbJEUUHYX2F4FLqRk337%2FJsro1ulQ3lWar3eAAGoyaxERPrl83y2y6wGnTH2VahrOD0e%2FJQtXxu4B7l8OpIWCaSeQ7FufJkC8gAC1w9dVusEbYzLNwEI53XZycGGeoI53tlwbCtU1xkpAty651AY7Pf6aYx4NgFxLGm8Co9Zww%2BAwLNrcOAGAy9zFqlujEbDZpSwC%2Flo8tKzA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1788524161&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EaT7F9vhVGtXuesQY%2BU5qnwTtBE1TedPsIu1GYxZM7CwN%2BhvSCBxVbrpQP0ysNqCbx%2B87lMDD%2FsmnC2kL108MuIfnD0bP%2F5P3ElrjVW0kgsFi4pDUsed2QtAnu39HHhEDlP%2BuJArJicgH8mfqxKUoE8zuiIZq02HsPZB1FgxXM8bjYgzYsgooR4HL70XLP%2FfG3mvJGmu8RrkHw%2FUqKykIjBWHsu6IFEc76eF97mj2Zu4OJ084XWvsRGmQQVx3xEz20Vc8EhAHQVZJHWus3AFkkDsaarM4W0hGXK3iJ32uNo4nyA%2FM1ug1yXBoXibIuB0OAppU450uU3ou%2BOnANrifQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
 
 #### Comments (6)
 - **RX034** (Dec 02, 2025 08:28am): 良ければどうぞ！
@@ -1134,7 +1134,7 @@
 
 テトリスだよ
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1788520714&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BBhmurtAmcGcy3hdcJdTQkAfHokdw4RUZGyUXpNBrKkkGEboJ4a1DwdkuPQiOJu6BPKLRQGWBh66wBIuIWR33crJlNwdWAKLvf7c%2BBlmkhynjx7lvGFoX8nC986FkQepr02x5XRrNLf%2B2SXkfvUsTePHqxWQSnkv38ZQ%2Fhnt5Fg3xBgqTU%2BVIZ8h7WCidk0YOafo7jWU%2FJ%2FvbJEcT0m1cO9uapm6yaLmibGWnVLg7bRHAOjR0nDKe5m7N6WLS4sKZctM0thcDyUV8wsm3igfkXgLMfAGQtPEhxe3YpIy%2BG86tyhHc%2BXlFEFnAGAPMyVE%2BT7%2BZ%2FRoPxuuFLMZ49CFEw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1788524161&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lbH%2F6eMXUeqFX6Vzjx0SVjUCifGNspNT7cRi0ILlP1gA8pX01SqRTux8MmQy00EGs4g1GCkeGEPk7iU32lyOP8UqnWQpPQ4riJBQJuC2BZad3r0b7EqvGMYhACzo3ipY4%2FRRGQRwMhmz0dm69xTLj9brwYNkb7gje2Yjdv89vYtg7XUGp9OzcKrqz%2B6%2FpG%2B9p20C3ZKTf0wlExbyxeBcJkl8xOakdUzTqPCCkNvo6RXO9tTisGeQMRyHyfCjnhjPsJGViDZgONCSWiLij46XWZaDI0FFFzZv23ZZ%2FnYJAZYni2RpvQ%2FW5qMHJw6Tsu2338TplKyXorQJjiGcTNfN%2BA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
 
 #### Comments (1)
 - **はるとねこ** (Nov 10, 2025 01:54am): なんか表示できねえ
@@ -1151,7 +1151,7 @@
 
 オセロゲーム作りましたレビューください
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1788520714&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=g%2FwS2eINqVWD5iXHlTXlTmw65NAXOk0JQG6nwBd6RgaZMu73C4vG%2BKWahXcWhjf3X1rH%2BmpqUC%2BrOQCcan8dLqz9tYX3bMQAHW26Khr5yXS5kWNGcXIMFEkW7ZwRPOtZI1kjqnnfeE8IquAdVVWipPVu3TiYPzFHk8cOz1XRWEhedvDqCfu4VT2Pz4NyLF5tUMvsXi9K3MjPZcWpuNsHq860OkunzGCMOuZc%2FCk74pvTJyKMhQlgXSHYhUNdeyyDVdZjPoau9xuOuRqKN1gjxqmFOrpepHXKuZ6P77LZdNra5vEln0Kfzj52HmiUAJbKnNEavW5dItUyz7IBu4D%2FeQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1788524161&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KUNN2VFF2dzuX5amf8sgv33XvVBWUodAtnW3fjWfX9xGJXArLmfqRt2ZySiSZ1KI9%2FDjINidi2iFjSHrr3xx6YJfrae%2Fy2CD5cRZExcwmIN3YLls8ewWXPpu6oGMC8Rl0jSXOGtnTbly7b1frbt129PAc%2BNzplWAJY0zZzmvQoNOh4x7JRRFLts7ir%2FYU7KAPyb640u61HJGfL548qqLGd%2F%2BOWDGUBsoPdahq3lzKr8OBYxJ%2BS4oajNkSFI2WbpWpSFFKe03N5oSBEo5BO9zZJ1GxzmrbqUbi%2BXV%2BZfexLXtzjILGiwyI5uKU9mdpwGsDHivqeSWwRigAl%2BEr9H%2Fvw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
 
 #### Comments (3)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 08, 2025 04:36am): 思ったよりAIが強くて負けそう:(
@@ -1203,7 +1203,7 @@
 
 英語のみ対応です
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1788520715&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Os6GDW%2BdBPeo2H5S00Zv%2BhI3ngURae12gb7Eu12cv0BkT%2BQMIqLsPXdUlMxizNVkH%2FBIO8OJBeykeKLix49EHo31EmckCwaudjdt9kvdQ7W0HPCxds8khoP9wMHiFfkuqbBgOTPJjGlyT0HopoqKLjkXtFSBdKwq16ZVTgGHrwOiSgnjjQgI7VWPcul%2BnkCaTl9KV8HoNaarI4KGzMEF%2FQt26OU5Gud4YiV20lrwvrt6EjB7NEAoCdN268iKiW5oJ7vR5erljNfYLxHN0m%2Bkfd4Rg2Bql%2FFyP%2FlO6rahBJRu2WGsw%2F1VJsoUFhdsYASLxHmtqGsFJydu3HkPqaTC4Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1788524162&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rp4S%2BhnavdVkhvaZ23mXPpEK1CyPlFidcsLjEyFYUXA2wsN%2BbvHPU1vLJYe3cV2ILEcBAjDRwpiCOcp6Y1cuML8xqoCBlh%2BvSWtNbnJ%2BnQb6%2BLjcXLDa%2BRxY5%2BSN1LSs63DPZp95u1GtxNcFTDjQohsFBNqJTyjU7w0zV5QayburD9GBl6RNA2O2zlZzP66%2FhDY%2FlvzkoWk8lWnGc%2FFvt6%2FVduRSKf7FuktVH0EcjUMZyT3usW1HBRpFcwPFgd4Dq3GJZNn4gmCFc3%2FlqyQf7cU%2B6UkE194ca4on3ESmTSJYvPsmfnc3RcJUVh0nYUfvzSigSNbOdHNq%2FdDGpIZ2mw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
 
 #### Comments (3)
 - **カービィ** (Feb 28, 2026 02:14am): どうやって進むの？
