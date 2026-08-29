@@ -1,13 +1,13 @@
-最終取得: 2026/08/29 10:50:48
+最終取得: 2026/08/29 12:22:02
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 22
+- **Posts:** 23
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Aug 29, 2026 01:41am
+- **Updated At:** Aug 29, 2026 03:21am
 
 ## 雑談
 
@@ -181,7 +181,18 @@ fernって名前のやつ　履歴消したらきえt
 
 ## シャドウ
 
-### 1. 至急！！！！！
+### 1. はやく！
+**Author:** ホシノキ
+
+性教育実習の漫画があるパドレットください
+
+#### Additional Information
+- **Created At:** Aug 29, 2026 03:21am
+- **Updated At:** Aug 29, 2026 03:21am
+
+---
+
+### 2. 至急！！！！！
 **Author:** スギノネ
 
 保健室のサイト　誰かほしいです！
