@@ -1,17 +1,28 @@
-最終取得: 2026/08/29 03:22:34
+最終取得: 2026/08/29 10:50:48
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 21
+- **Posts:** 22
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Aug 28, 2026 04:22pm
+- **Updated At:** Aug 29, 2026 01:41am
 
 ## 雑談
 
-### 1. 誰かpokiのサイト載せて
+### 1. poki
+**Author:** 常闇 トワ（不地口手万ディ） (Fleeex)
+
+[Attachment 1](https://poki.io/)
+
+#### Additional Information
+- **Created At:** Aug 28, 2026 10:34pm
+- **Updated At:** Aug 28, 2026 10:34pm
+
+---
+
+### 2. 誰かpokiのサイト載せて
 **Author:** 匿名
 
 #### Additional Information
@@ -20,7 +31,7 @@
 
 ---
 
-### 2. アニメ見れるサイト欲しい
+### 3. アニメ見れるサイト欲しい
 **Author:** 34b6kq
 
 違法サイトでも全然ええよ
@@ -35,7 +46,7 @@
 
 ---
 
-### 3. あああああああああああああああああ
+### 4. あああああああああああああああああ
 **Author:** クモ
 
 #### Additional Information
@@ -44,7 +55,7 @@
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** 佐渡まお (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
@@ -58,7 +69,7 @@
 
 ---
 
-### 5. 一旦消しました
+### 6. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
 #### Comments (13)
@@ -152,7 +163,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 6. エロサイトくれ
 **Author:** スギノネ
 
-#### Comments (7)
+#### Comments (8)
 - **フミダシ** (Aug 27, 2026 11:06am): きっも
 - **佐渡まお** (Aug 27, 2026 11:45pm): 俺も欲しい
 - **匿名** (Aug 28, 2026 04:08am): 保健室ってサイトがエロサイト
@@ -160,6 +171,7 @@ fernって名前のやつ　履歴消したらきえt
 - **34b6kq** (Aug 28, 2026 04:19am): エロサイト
 - **Anonymous** (Aug 28, 2026 06:51am): htvgtcytcf  
 - **Anonymous** (Aug 28, 2026 08:13am): 　うひh  
+- **かかかかかかかかかかか** (Aug 29, 2026 01:41am): https://script.google.com/macros/s/AKfycbyw3eCNyqJ_NhBXp6Dm-7HpJPYPJsIUP7u37wNRJ-FpGSCJuq_wkb80i0qKa5jBRrA2/exec
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 10:15am
@@ -174,7 +186,7 @@ fernって名前のやつ　履歴消したらきえt
 
 保健室のサイト　誰かほしいです！
 
-#### Comments (8)
+#### Comments (9)
 - **かぼちゃ** (Aug 28, 2026 12:23am): https://padlet.com/s22y164/padlet-yy2k3c5ijiflpmpw
 - **ミナソコ** (Aug 28, 2026 09:24am): あざっす
 - **ニック** (Aug 28, 2026 11:38am): こんにちわ
@@ -183,6 +195,7 @@ fernって名前のやつ　履歴消したらきえt
 - **ニック** (Aug 28, 2026 11:59am): こんにちは
 - **ニック** (Aug 28, 2026 01:10pm): ｈ
 - **ニック** (Aug 28, 2026 02:10pm): なんか面白いの送ってください
+- **匿名** (Aug 29, 2026 12:25am): 💩
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 10:14am
@@ -267,6 +280,9 @@ fernって名前のやつ　履歴消したらきえt
 **Author:** シズカゼ
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=tfMneb7nGbY)
+
+#### Comments (1)
+- **Anonymous** (Aug 29, 2026 12:39am): 誰かマエスケの動画ちょうだい 
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 07:00am
