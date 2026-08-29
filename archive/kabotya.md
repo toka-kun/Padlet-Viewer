@@ -1,4 +1,4 @@
-最終取得: 2026/08/29 12:22:02
+最終取得: 2026/08/29 17:46:43
 
 # 規制突破の世界
 
@@ -7,7 +7,7 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 23
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Aug 29, 2026 03:21am
+- **Updated At:** Aug 29, 2026 07:54am
 
 ## 雑談
 
@@ -140,7 +140,7 @@ fernって名前のやつ　履歴消したらきえt
 - **おとちん** (Aug 28, 2026 10:04am): サイトのURLコピーして貼ったら見れる
 
 #### Reactions
-- **Emojis:** ❤️ (1)
+- **Emojis:** 😄 (1) ❤️ (1)
 
 #### Additional Information
 - **Created At:** Aug 28, 2026 10:04am
@@ -197,7 +197,7 @@ fernって名前のやつ　履歴消したらきえt
 
 保健室のサイト　誰かほしいです！
 
-#### Comments (9)
+#### Comments (11)
 - **かぼちゃ** (Aug 28, 2026 12:23am): https://padlet.com/s22y164/padlet-yy2k3c5ijiflpmpw
 - **ミナソコ** (Aug 28, 2026 09:24am): あざっす
 - **ニック** (Aug 28, 2026 11:38am): こんにちわ
@@ -207,6 +207,8 @@ fernって名前のやつ　履歴消したらきえt
 - **ニック** (Aug 28, 2026 01:10pm): ｈ
 - **ニック** (Aug 28, 2026 02:10pm): なんか面白いの送ってください
 - **匿名** (Aug 29, 2026 12:25am): 💩
+- **ニック** (Aug 29, 2026 04:34am): ｗｗｗ
+- **ニック** (Aug 29, 2026 04:34am): 💩
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 10:14am
@@ -239,8 +241,9 @@ fernって名前のやつ　履歴消したらきえt
 
 [Attachment 1](https://planet.mblock.cc/project/projectshare/8349577)
 
-#### Comments (1)
+#### Comments (2)
 - **ユメノ** (Aug 28, 2026 10:21am): どうやって使うん
+- **ニック** (Aug 29, 2026 04:34am): わかりません
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 02:34am
