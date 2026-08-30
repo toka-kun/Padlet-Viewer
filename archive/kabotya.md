@@ -1,13 +1,13 @@
-最終取得: 2026/08/30 16:28:51
+最終取得: 2026/08/30 20:50:18
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 24
+- **Posts:** 25
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Aug 30, 2026 06:52am
+- **Updated At:** Aug 30, 2026 09:10am
 
 ## 雑談
 
@@ -88,7 +88,7 @@
 - **34b6kq** (Aug 28, 2026 04:20am): ワイの学校宿題ない
 
 #### Reactions
-- **Emojis:** 😭 (7) 👍 (5) 🥲 (1)
+- **Emojis:** 😭 (7) 👍 (5) 🥲 (1) 😆 (1)
 
 #### Additional Information
 - **Created At:** Aug 26, 2026 04:34am
@@ -163,7 +163,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 6. エロサイトくれ
 **Author:** スギノネ
 
-#### Comments (8)
+#### Comments (9)
 - **フミダシ** (Aug 27, 2026 11:06am): きっも
 - **佐渡まお** (Aug 27, 2026 11:45pm): 俺も欲しい
 - **匿名** (Aug 28, 2026 04:08am): 保健室ってサイトがエロサイト
@@ -172,6 +172,7 @@ fernって名前のやつ　履歴消したらきえt
 - **Anonymous** (Aug 28, 2026 06:51am): htvgtcytcf  
 - **Anonymous** (Aug 28, 2026 08:13am): 　うひh  
 - **かかかかかかかかかかか** (Aug 29, 2026 01:41am): https://script.google.com/macros/s/AKfycbyw3eCNyqJ_NhBXp6Dm-7HpJPYPJsIUP7u37wNRJ-FpGSCJuq_wkb80i0qKa5jBRrA2/exec
+- **フミアト** (Aug 30, 2026 08:38am): エッロサイトくっれよおお
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 10:15am
@@ -181,7 +182,16 @@ fernって名前のやつ　履歴消したらきえt
 
 ## シャドウ
 
-### 1. 誰かあああああゲームのサイトできるだけほしいいいいいいいいいい
+### 1. 巨乳か貧乳かどっち
+**Author:** フミアト
+
+#### Additional Information
+- **Created At:** Aug 30, 2026 08:28am
+- **Updated At:** Aug 30, 2026 08:28am
+
+---
+
+### 2. 誰かあああああゲームのサイトできるだけほしいいいいいいいいいい
 **Author:** フミアト
 
 #### Additional Information
@@ -190,7 +200,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 2. はやく！
+### 3. はやく！
 **Author:** ホシノキ
 
 性教育実習の漫画があるパドレットください
@@ -204,7 +214,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 3. 至急！！！！！
+### 4. 至急！！！！！
 **Author:** スギノネ
 
 保健室のサイト　誰かほしいです！
@@ -233,10 +243,11 @@ fernって名前のやつ　履歴消したらきえt
 ### 1. ブロスタやってる人トロ数書いて
 **Author:** フミダシ
 
-#### Comments (3)
+#### Comments (4)
 - **Anonymous** (Aug 27, 2026 11:52am): 77777
 - **ユメノ** (Aug 28, 2026 10:21am): 20000ちょい
 - **匿名** (Aug 28, 2026 11:12am): 始めたばっかで9000
+- **フミアト** (Aug 30, 2026 08:37am): 俺ダイキ様と友達
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 11:49am
