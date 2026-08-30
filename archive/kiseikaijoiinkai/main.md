@@ -1,4 +1,4 @@
-最終取得: 2026/08/23 22:42:35
+最終取得: 2026/08/30 20:50:18
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 17
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Aug 23, 2026 01:37pm
+- **Updated At:** Aug 30, 2026 08:11am
 
 ## 受付
 
@@ -388,6 +388,9 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 **Author:** とるっぷい (TORI_TORI2)
 
 [Attachment 1](http://momon-ga.me/)
+
+#### Comments (1)
+- **とるっぷい** (Aug 30, 2026 08:11am): これ残しといて
 
 #### Additional Information
 - **Created At:** Apr 27, 2026 09:17am
