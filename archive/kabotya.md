@@ -1,4 +1,4 @@
-最終取得: 2026/08/31 09:32:24
+最終取得: 2026/08/31 10:31:03
 
 # 規制突破の世界
 
@@ -7,25 +7,36 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 30
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Aug 31, 2026 12:30am
+- **Updated At:** Aug 31, 2026 01:31am
 
 ## 雑談
 
-### 1. お願い
-**Author:** ナナシ
+### 1. ビデオ通話
+**Author:** シラカバ
 
-エロい漫画見れるサイト教えて
-
-#### Comments (1)
-- **シオホシ** (Aug 30, 2026 11:06pm): https://script.google.com/macros/s/AKfycbyw3eCNyqJ_NhBXp6Dm-7HpJPYPJsIUP7u37wNRJ-FpGSCJuq_wkb80i0qKa5jBRrA2/exec
+学校嫌だ
 
 #### Additional Information
-- **Created At:** Aug 30, 2026 08:03pm
-- **Updated At:** Aug 30, 2026 08:03pm
+- **Created At:** Aug 31, 2026 01:10am
+- **Updated At:** Aug 31, 2026 01:10am
 
 ---
 
-### 2. poki
+### 2. あ
+**Author:** シラカバ
+
+あ
+
+#### Comments (1)
+- **みゅ** (Aug 31, 2026 01:09am): こんにちは
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 01:07am
+- **Updated At:** Aug 31, 2026 01:07am
+
+---
+
+### 3. poki
 **Author:** 常闇 トワ（不地口手万ディ） (Fleeex)
 
 [Attachment 1](https://poki.io/)
@@ -36,57 +47,7 @@
 
 ---
 
-### 3. 誰かpokiのサイト載せて
-**Author:** 匿名
-
-#### Additional Information
-- **Created At:** Aug 28, 2026 11:47am
-- **Updated At:** Aug 28, 2026 11:47am
-
----
-
-### 4. アニメ見れるサイト欲しい
-**Author:** 34b6kq
-
-違法サイトでも全然ええよ
-
-垢登録及び料金無しのでお願い
-
-アニメサイトくれたら漫画サイトあげるで
-
-#### Comments (1)
-- **ツユノハ** (Aug 31, 2026 12:30am): https://sites.google.com/view/dominumnetworkv2/other/change-logsこれのうえのポップコーンのマーク押してあにめって英語で書いてるところ押したらみれる
-
-#### Additional Information
-- **Created At:** Aug 28, 2026 04:16am
-- **Updated At:** Aug 28, 2026 04:16am
-
----
-
-### 5. あああああああああああああああああ
-**Author:** クモ
-
-#### Additional Information
-- **Created At:** Aug 28, 2026 01:40am
-- **Updated At:** Aug 28, 2026 01:40am
-
----
-
-### 6. Post 6
-**Author:** 佐渡まお (1920370847)
-
-誰かめっちゃおもろいゲーム貼ってください
-
-#### Reactions
-- **Emojis:** 😆 (1)
-
-#### Additional Information
-- **Created At:** Aug 27, 2026 11:48pm
-- **Updated At:** Aug 27, 2026 11:48pm
-
----
-
-### 7. 一旦消しました
+### 4. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
 #### Comments (13)
@@ -110,6 +71,178 @@
 #### Additional Information
 - **Created At:** Aug 26, 2026 04:34am
 - **Updated At:** Aug 26, 2026 04:34am
+
+---
+
+## ゲームサイト
+
+### 1. 誰かあああああゲームのサイトできるだけほしいいいいいいいいいい
+**Author:** フミアト
+
+#### Additional Information
+- **Created At:** Aug 30, 2026 06:53am
+- **Updated At:** Aug 31, 2026 01:23am
+
+---
+
+## 要求
+
+### 1. いんすたないですか
+**Author:** う
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 01:23am
+- **Updated At:** Aug 31, 2026 01:29am
+
+---
+
+### 2. お願い
+**Author:** ナナシ
+
+エロい漫画見れるサイト教えて
+
+#### Comments (1)
+- **シオホシ** (Aug 30, 2026 11:06pm): https://script.google.com/macros/s/AKfycbyw3eCNyqJ_NhBXp6Dm-7HpJPYPJsIUP7u37wNRJ-FpGSCJuq_wkb80i0qKa5jBRrA2/exec
+
+#### Additional Information
+- **Created At:** Aug 30, 2026 08:03pm
+- **Updated At:** Aug 31, 2026 01:29am
+
+---
+
+### 3. はやく！
+**Author:** ホシノキ
+
+性教育実習の漫画があるパドレットください
+
+#### Comments (1)
+- **匿名** (Aug 29, 2026 12:31pm): 誰か保健室いれて
+
+#### Additional Information
+- **Created At:** Aug 29, 2026 03:21am
+- **Updated At:** Aug 31, 2026 01:24am
+
+---
+
+### 4. 誰かpokiのサイト載せて
+**Author:** 匿名
+
+#### Additional Information
+- **Created At:** Aug 28, 2026 11:47am
+- **Updated At:** Aug 31, 2026 01:30am
+
+---
+
+### 5. 誰かURL貼って動画見るやつ教えて
+**Author:** ユメノ
+
+fernって名前のやつ　履歴消したらきえt
+
+#### Comments (1)
+- **ぷ** (Aug 31, 2026 01:27am): https://multimedia.easeus.com/jp/online-video-downloader/
+
+#### Additional Information
+- **Created At:** Aug 28, 2026 10:13am
+- **Updated At:** Aug 31, 2026 01:26am
+
+---
+
+### 6. 誰かエロ部屋くれ
+**Author:** 匿名
+
+#### Comments (1)
+- **ユメノ** (Aug 28, 2026 10:26am): https://www.google.com/goto?url=CAESYwHrOzAViPNkKkw4IreVZzIFWN-q5mAIGTxNgK_t6zVjVEEfKSNYs2Px8wuK7LTPkEj04bweDy9cYMh8jUi6ZrCRfrpyPPrFGm6Rc_roXyQbuDV1VyQXZxme28SoHD1PkD0x3Q
+
+#### Additional Information
+- **Created At:** Aug 28, 2026 07:09am
+- **Updated At:** Aug 31, 2026 01:25am
+
+---
+
+### 7. アニメ見れるサイト欲しい
+**Author:** 34b6kq
+
+違法サイトでも全然ええよ
+
+垢登録及び料金無しのでお願い
+
+アニメサイトくれたら漫画サイトあげるで
+
+#### Comments (1)
+- **ツユノハ** (Aug 31, 2026 12:30am): https://sites.google.com/view/dominumnetworkv2/other/change-logsこれのうえのポップコーンのマーク押してあにめって英語で書いてるところ押したらみれる
+
+#### Additional Information
+- **Created At:** Aug 28, 2026 04:16am
+- **Updated At:** Aug 31, 2026 01:30am
+
+---
+
+### 8. Post 8
+**Author:** 佐渡まお (1920370847)
+
+誰かめっちゃおもろいゲーム貼ってください
+
+#### Reactions
+- **Emojis:** 😆 (1)
+
+#### Additional Information
+- **Created At:** Aug 27, 2026 11:48pm
+- **Updated At:** Aug 31, 2026 01:30am
+
+---
+
+### 9. エロサイトくれ
+**Author:** スギノネ
+
+#### Comments (9)
+- **フミダシ** (Aug 27, 2026 11:06am): きっも
+- **佐渡まお** (Aug 27, 2026 11:45pm): 俺も欲しい
+- **匿名** (Aug 28, 2026 04:08am): 保健室ってサイトがエロサイト
+- **34b6kq** (Aug 28, 2026 04:19am): →に載せた
+- **34b6kq** (Aug 28, 2026 04:19am): エロサイト
+- **Anonymous** (Aug 28, 2026 06:51am): htvgtcytcf  
+- **Anonymous** (Aug 28, 2026 08:13am): 　うひh  
+- **かかかかかかかかかかか** (Aug 29, 2026 01:41am): https://script.google.com/macros/s/AKfycbyw3eCNyqJ_NhBXp6Dm-7HpJPYPJsIUP7u37wNRJ-FpGSCJuq_wkb80i0qKa5jBRrA2/exec
+- **フミアト** (Aug 30, 2026 08:38am): エッロサイトくっれよおお
+
+#### Additional Information
+- **Created At:** Aug 27, 2026 10:15am
+- **Updated At:** Aug 31, 2026 01:25am
+
+---
+
+### 10. 至急！！！！！
+**Author:** スギノネ
+
+保健室のサイト　誰かほしいです！
+
+#### Comments (11)
+- **かぼちゃ** (Aug 28, 2026 12:23am): https://padlet.com/s22y164/padlet-yy2k3c5ijiflpmpw
+- **ミナソコ** (Aug 28, 2026 09:24am): あざっす
+- **ニック** (Aug 28, 2026 11:38am): こんにちわ
+- **ニック** (Aug 28, 2026 11:38am): 🦊
+- **匿名** (Aug 28, 2026 11:50am): こんにちわ
+- **ニック** (Aug 28, 2026 11:59am): こんにちは
+- **ニック** (Aug 28, 2026 01:10pm): ｈ
+- **ニック** (Aug 28, 2026 02:10pm): なんか面白いの送ってください
+- **匿名** (Aug 29, 2026 12:25am): 💩
+- **ニック** (Aug 29, 2026 04:34am): ｗｗｗ
+- **ニック** (Aug 29, 2026 04:34am): 💩
+
+#### Additional Information
+- **Created At:** Aug 27, 2026 10:14am
+- **Updated At:** Aug 31, 2026 01:25am
+
+---
+
+## 質問
+
+### 1. 巨乳か貧乳かどっち
+**Author:** フミアト
+
+#### Additional Information
+- **Created At:** Aug 30, 2026 08:28am
+- **Updated At:** Aug 31, 2026 01:31am
 
 ---
 
@@ -137,18 +270,7 @@
 
 ---
 
-### 3. 誰かURL貼って動画見るやつ教えて
-**Author:** ユメノ
-
-fernって名前のやつ　履歴消したらきえt
-
-#### Additional Information
-- **Created At:** Aug 28, 2026 10:13am
-- **Updated At:** Aug 28, 2026 10:13am
-
----
-
-### 4. なにこれ
+### 3. なにこれ
 **Author:** おとちん
 
 [Attachment 1](https://u.topia.2a.exe.googleapis.com.hospitaldelninodif.gob.mx/)
@@ -165,112 +287,13 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 5. 誰かエロ部屋くれ
-**Author:** 匿名
-
-#### Comments (1)
-- **ユメノ** (Aug 28, 2026 10:26am): https://www.google.com/goto?url=CAESYwHrOzAViPNkKkw4IreVZzIFWN-q5mAIGTxNgK_t6zVjVEEfKSNYs2Px8wuK7LTPkEj04bweDy9cYMh8jUi6ZrCRfrpyPPrFGm6Rc_roXyQbuDV1VyQXZxme28SoHD1PkD0x3Q
-
-#### Additional Information
-- **Created At:** Aug 28, 2026 07:09am
-- **Updated At:** Aug 28, 2026 07:09am
-
----
-
-### 6. エロサイトくれ
-**Author:** スギノネ
-
-#### Comments (9)
-- **フミダシ** (Aug 27, 2026 11:06am): きっも
-- **佐渡まお** (Aug 27, 2026 11:45pm): 俺も欲しい
-- **匿名** (Aug 28, 2026 04:08am): 保健室ってサイトがエロサイト
-- **34b6kq** (Aug 28, 2026 04:19am): →に載せた
-- **34b6kq** (Aug 28, 2026 04:19am): エロサイト
-- **Anonymous** (Aug 28, 2026 06:51am): htvgtcytcf  
-- **Anonymous** (Aug 28, 2026 08:13am): 　うひh  
-- **かかかかかかかかかかか** (Aug 29, 2026 01:41am): https://script.google.com/macros/s/AKfycbyw3eCNyqJ_NhBXp6Dm-7HpJPYPJsIUP7u37wNRJ-FpGSCJuq_wkb80i0qKa5jBRrA2/exec
-- **フミアト** (Aug 30, 2026 08:38am): エッロサイトくっれよおお
-
-#### Additional Information
-- **Created At:** Aug 27, 2026 10:15am
-- **Updated At:** Aug 27, 2026 10:15am
-
----
-
 ## シャドウ
 
-### 1. 巨乳か貧乳かどっち
-**Author:** フミアト
-
-#### Additional Information
-- **Created At:** Aug 30, 2026 08:28am
-- **Updated At:** Aug 30, 2026 08:28am
-
----
-
-### 2. 誰かあああああゲームのサイトできるだけほしいいいいいいいいいい
-**Author:** フミアト
-
-#### Additional Information
-- **Created At:** Aug 30, 2026 06:53am
-- **Updated At:** Aug 30, 2026 06:53am
-
----
-
-### 3. はやく！
-**Author:** ホシノキ
-
-性教育実習の漫画があるパドレットください
-
-#### Comments (1)
-- **匿名** (Aug 29, 2026 12:31pm): 誰か保健室いれて
-
-#### Additional Information
-- **Created At:** Aug 29, 2026 03:21am
-- **Updated At:** Aug 29, 2026 03:21am
-
----
-
-### 4. 至急！！！！！
-**Author:** スギノネ
-
-保健室のサイト　誰かほしいです！
-
-#### Comments (11)
-- **かぼちゃ** (Aug 28, 2026 12:23am): https://padlet.com/s22y164/padlet-yy2k3c5ijiflpmpw
-- **ミナソコ** (Aug 28, 2026 09:24am): あざっす
-- **ニック** (Aug 28, 2026 11:38am): こんにちわ
-- **ニック** (Aug 28, 2026 11:38am): 🦊
-- **匿名** (Aug 28, 2026 11:50am): こんにちわ
-- **ニック** (Aug 28, 2026 11:59am): こんにちは
-- **ニック** (Aug 28, 2026 01:10pm): ｈ
-- **ニック** (Aug 28, 2026 02:10pm): なんか面白いの送ってください
-- **匿名** (Aug 29, 2026 12:25am): 💩
-- **ニック** (Aug 29, 2026 04:34am): ｗｗｗ
-- **ニック** (Aug 29, 2026 04:34am): 💩
-
-#### Additional Information
-- **Created At:** Aug 27, 2026 10:14am
-- **Updated At:** Aug 27, 2026 10:14am
-
----
+No post
 
 ## inbox
 
-### 1. Post 1
-**Author:** 1001さん (Haraitai)
-
-ここオンラインゲームやってます
-
-[Attachment 1](https://padlet.com/Haraitai/padlet-jxmgpewlqr3h518c)
-
-#### Additional Information
-- **Created At:** Aug 30, 2026 03:41pm
-- **Updated At:** Aug 30, 2026 03:41pm
-
----
-
-### 2. ブロスタやってる人トロ数書いて
+### 1. ブロスタやってる人トロ数書いて
 **Author:** フミダシ
 
 #### Comments (4)
@@ -373,19 +396,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ## TikTok
 
-### 1. まんこーまんげーちんちちんげーはなーがさいたらー
-**Author:** シズクミ
-
-これでしらべてみてTikTokで
-
-#### Comments (1)
-- **シロスナ** (Aug 31, 2026 12:08am): おもんねーかすが
-
-#### Additional Information
-- **Created At:** Aug 30, 2026 12:34pm
-- **Updated At:** Aug 30, 2026 12:34pm
-
----
+No post
 
 ## 宣伝
 
@@ -418,11 +429,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 3. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
-#### Comments (10)
-- **イズミ** (Aug 28, 2026 12:36am): しね
-- **イズミ** (Aug 28, 2026 12:36am): かす
-- **イズミ** (Aug 28, 2026 12:36am): ごみ
-- **イズミ** (Aug 28, 2026 12:36am): ざこ
+#### Comments (6)
 - **かめかめかめ** (Aug 28, 2026 01:55am): できれば爺とやりたい
 - **34b6kq** (Aug 28, 2026 03:38am): かめかめかめ　それは意味わからん
 - **匿名** (Aug 28, 2026 07:56am): イズミ雑魚ってどういうこと？なにを持って雑魚なの？
@@ -442,11 +449,9 @@ fernって名前のやつ　履歴消したらきえt
 ### 4. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
-#### Comments (8)
+#### Comments (6)
 - **ホシノワ** (Aug 27, 2026 06:54am): ゲームのサイト乗っけて
 - **ホシノワ** (Aug 27, 2026 06:54am): だれか
-- **うんこ** (Aug 27, 2026 07:09am): 黙れうんこ
-- **フミダシ** (Aug 27, 2026 07:58am): 黙れうんこ
 - **Anonymous** (Aug 28, 2026 08:14am): Ubg67って調べて 
 - **匿名** (Aug 28, 2026 11:49am): ブロックされた
 - **匿名** (Aug 28, 2026 11:50am): pokiのサイトのせて
