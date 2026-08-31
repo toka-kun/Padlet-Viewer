@@ -1,17 +1,39 @@
-最終取得: 2026/08/31 16:03:46
+最終取得: 2026/08/31 17:23:14
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 41
+- **Posts:** 44
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Aug 31, 2026 06:51am
+- **Updated At:** Aug 31, 2026 08:13am
 
 ## 雑談
 
-### 1. みんなきてね
+### 1. 雑談
+**Author:** TENTENNTENN
+
+
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 08:03am
+- **Updated At:** Aug 31, 2026 08:03am
+
+---
+
+### 2. Post 2
+**Author:** ミソラノ
+
+[Attachment 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 07:07am
+- **Updated At:** Aug 31, 2026 07:07am
+
+---
+
+### 3. みんなきてね
 **Author:** 仙人@suger (sennin_sugar)
 
 https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQozfVOY7UPTBkpqfD\_-fwTwn\_kxxLOg/exec
@@ -22,7 +44,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 2. 学校ってみんなきらい俺台っきらい
+### 4. 学校ってみんなきらい俺台っきらい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (2)
@@ -35,7 +57,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 3. geometrydashの定員募集中（10人）
+### 5. geometrydashの定員募集中（10人）
 **Author:** ゆうと
 
 [https://forms.gle/MB8vdXJbKXKy2nG98](https://forms.gle/MB8vdXJbKXKy2nG98)
@@ -48,7 +70,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 4. 後ろ見ろ
+### 6. 後ろ見ろ
 **Author:** 犬
 
 #### Comments (1)
@@ -60,16 +82,17 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 5. ビデオ通話
+### 7. ビデオ通話
 **Author:** シラカバ
 
 学校嫌だ
 
-#### Comments (4)
+#### Comments (5)
 - **ミズノネ** (Aug 31, 2026 01:50am): 明日から学校始まる
 - **Japan** (Aug 31, 2026 06:00am): Totally.
 - **ゲーム** (Aug 31, 2026 06:29am): あああああああ
 - **Anonymous** (Aug 31, 2026 06:37am): 学校ダルスンギ 
+- **初夏** (Aug 31, 2026 07:26am): 明日から学校。終わってる。
 
 #### Additional Information
 - **Created At:** Aug 31, 2026 01:10am
@@ -77,13 +100,14 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 6. あ
+### 8. あ
 **Author:** シラカバ
 
 あ
 
-#### Comments (1)
+#### Comments (2)
 - **みゅ** (Aug 31, 2026 01:09am): こんにちは
+- **初夏** (Aug 31, 2026 07:26am): お前誰やねん。ぶちころすぞ！笑笑
 
 #### Additional Information
 - **Created At:** Aug 31, 2026 01:07am
@@ -91,7 +115,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 7. poki
+### 9. poki
 **Author:** 常闇 トワ（不地口手万ディ） (Fleeex)
 
 [Attachment 1](https://poki.io/)
@@ -102,7 +126,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 8. 一旦消しました
+### 10. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
 #### Comments (15)
@@ -120,7 +144,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 - **ホシノワ** (Aug 27, 2026 06:55am): 俺も
 - **34b6kq** (Aug 28, 2026 04:20am): ワイの学校宿題ない
 - **Anonymous** (Aug 31, 2026 06:38am): なんの話？
-- **ホシマツリ** (Aug 31, 2026 06:51am): それほんまか~嘘っぽい
+- **初夏** (Aug 31, 2026 06:51am): それほんまか~嘘っぽい
 
 #### Reactions
 - **Emojis:** 😭 (7) 👍 (6) 🥲 (1) 😆 (1)
@@ -137,7 +161,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 **Author:** みなと
 
 #### Comments (1)
-- **ホシマツリ** (Aug 31, 2026 06:02am): 夏休みみんなどこいった〜？
+- **初夏** (Aug 31, 2026 06:02am): 夏休みみんなどこいった〜？
 
 #### Additional Information
 - **Created At:** Aug 31, 2026 05:26am
@@ -148,6 +172,10 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 ### 2. ゲームしたいゲームしたい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
+#### Comments (2)
+- **りゅう** (Aug 31, 2026 07:59am): ゲームしろｗ
+- **りゅう** (Aug 31, 2026 08:13am): だれやねん真似すんな名前
+
 #### Additional Information
 - **Created At:** Aug 31, 2026 05:25am
 - **Updated At:** Aug 31, 2026 05:25am
@@ -156,6 +184,9 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ### 3. ゲームができるサイトよろブロスタとか
 **Author:** ブロスタ
+
+#### Comments (1)
+- **りゅう** (Aug 31, 2026 08:13am): それな
 
 #### Additional Information
 - **Created At:** Aug 31, 2026 04:20am
@@ -175,7 +206,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 - **ゲーム** (Aug 31, 2026 06:04am): このげーむたのしい
 - **ゲーム** (Aug 31, 2026 06:14am): このげーむたのしすて滅
 - **ゲーム** (Aug 31, 2026 06:15am): 笑笑笑笑
-- **ホシマツリ** (Aug 31, 2026 06:28am): 「このゲーム楽し過ぎで滅」はないって。笑笑
+- **初夏** (Aug 31, 2026 06:28am): 「このゲーム楽し過ぎで滅」はないって。笑笑
 
 #### Additional Information
 - **Created At:** Aug 30, 2026 06:53am
@@ -185,7 +216,18 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ## 要求
 
-### 1. アンダーテールぽしいです
+### 1. Post 1
+**Author:** りゅう
+
+フォートナイトぽしいです
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 08:03am
+- **Updated At:** Aug 31, 2026 08:03am
+
+---
+
+### 2. アンダーテールぽしいです
 **Author:** ああああ (h0319096_1)
 
 #### Additional Information
@@ -194,7 +236,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 2. 流行語大賞２０２６ください
+### 3. 流行語大賞２０２６ください
 **Author:** ミズアメ
 
 #### Additional Information
@@ -203,7 +245,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 3. いんすたないですか
+### 4. いんすたないですか
 **Author:** う
 
 #### Additional Information
@@ -212,7 +254,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 4. お願い
+### 5. お願い
 **Author:** ナナシ
 
 エロい漫画見れるサイト教えて
@@ -226,7 +268,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 5. はやく！
+### 6. はやく！
 **Author:** ホシノキ
 
 性教育実習の漫画があるパドレットください
@@ -240,7 +282,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 6. 誰かpokiのサイト載せて
+### 7. 誰かpokiのサイト載せて
 **Author:** 匿名
 
 #### Additional Information
@@ -249,7 +291,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 7. 誰かURL貼って動画見るやつ教えて
+### 8. 誰かURL貼って動画見るやつ教えて
 **Author:** ユメノ
 
 fernって名前のやつ　履歴消したらきえt
@@ -263,7 +305,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 8. 誰かエロ部屋くれ
+### 9. 誰かエロ部屋くれ
 **Author:** 匿名
 
 #### Comments (1)
@@ -275,7 +317,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 9. アニメ見れるサイト欲しい
+### 10. アニメ見れるサイト欲しい
 **Author:** 34b6kq
 
 違法サイトでも全然ええよ
@@ -293,7 +335,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 10. Post 10
+### 11. Post 11
 **Author:** 佐渡まお (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
@@ -307,7 +349,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 11. エロサイトくれ
+### 12. エロサイトくれ
 **Author:** スギノネ
 
 #### Comments (12)
@@ -330,7 +372,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 12. 至急！！！！！
+### 13. 至急！！！！！
 **Author:** スギノネ
 
 保健室のサイト　誰かほしいです！
