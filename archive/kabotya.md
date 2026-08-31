@@ -1,20 +1,73 @@
-最終取得: 2026/08/31 10:31:03
+最終取得: 2026/08/31 15:06:38
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 30
+- **Posts:** 41
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Aug 31, 2026 01:31am
+- **Updated At:** Aug 31, 2026 06:04am
 
 ## 雑談
 
-### 1. ビデオ通話
+### 1. みんなきてね
+**Author:** 仙人@suger (sennin_sugar)
+
+https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQozfVOY7UPTBkpqfD\_-fwTwn\_kxxLOg/exec
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 05:50am
+- **Updated At:** Aug 31, 2026 05:50am
+
+---
+
+### 2. 学校ってみんなきらい俺台っきらい
+**Author:** ええいいここえいこ（えいこってよんでね）
+
+#### Comments (2)
+- **ええいいここえいこ（えいこってよんでね）** (Aug 31, 2026 05:29am): 大の字間違った
+- **ブロスタ** (Aug 31, 2026 05:34am): 先生うざすぎ
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 05:29am
+- **Updated At:** Aug 31, 2026 05:29am
+
+---
+
+### 3. geometrydashの定員募集中（10人）
+**Author:** ゆうと
+
+[https://forms.gle/MB8vdXJbKXKy2nG98](https://forms.gle/MB8vdXJbKXKy2nG98)
+
+[Attachment 1](https://forms.gle/MB8vdXJbKXKy2nG98)
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 04:15am
+- **Updated At:** Aug 31, 2026 04:42am
+
+---
+
+### 4. 後ろ見ろ
+**Author:** 犬
+
+#### Comments (1)
+- **ええいいここえいこ（えいこってよんでね）** (Aug 31, 2026 05:28am): こわ
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 03:14am
+- **Updated At:** Aug 31, 2026 03:14am
+
+---
+
+### 5. ビデオ通話
 **Author:** シラカバ
 
 学校嫌だ
+
+#### Comments (2)
+- **ミズノネ** (Aug 31, 2026 01:50am): 明日から学校始まる
+- **Japan** (Aug 31, 2026 06:00am): Totally.
 
 #### Additional Information
 - **Created At:** Aug 31, 2026 01:10am
@@ -22,7 +75,7 @@
 
 ---
 
-### 2. あ
+### 6. あ
 **Author:** シラカバ
 
 あ
@@ -36,7 +89,7 @@
 
 ---
 
-### 3. poki
+### 7. poki
 **Author:** 常闇 トワ（不地口手万ディ） (Fleeex)
 
 [Attachment 1](https://poki.io/)
@@ -47,7 +100,7 @@
 
 ---
 
-### 4. 一旦消しました
+### 8. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
 #### Comments (13)
@@ -76,8 +129,46 @@
 
 ## ゲームサイト
 
-### 1. 誰かあああああゲームのサイトできるだけほしいいいいいいいいいい
+### 1. 夏休み楽しかった
+**Author:** みなと
+
+#### Comments (1)
+- **ホシマツリ** (Aug 31, 2026 06:02am): 夏休みみんなどこいった〜？
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 05:26am
+- **Updated At:** Aug 31, 2026 05:26am
+
+---
+
+### 2. ゲームしたいゲームしたい
+**Author:** ええいいここえいこ（えいこってよんでね）
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 05:25am
+- **Updated At:** Aug 31, 2026 05:25am
+
+---
+
+### 3. ゲームができるサイトよろブロスタとか
+**Author:** ブロスタ
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 04:20am
+- **Updated At:** Aug 31, 2026 04:20am
+
+---
+
+### 4. 誰かあああああゲームのサイトできるだけほしいいいいいいいいいい
 **Author:** フミアト
+
+#### Comments (6)
+- **あ** (Aug 31, 2026 02:23am): https://script.google.com/a/macros/g.edi.akashi.hyogo.jp/s/AKfycbyTR5aZD028qJv9rwEBKGFHceFoC2mSqFOg39SnpcyGyHSclQxP5BBZ-f_9scQx6ANW/exec縦画面でぶろすたできる
+- **あ** (Aug 31, 2026 02:24am): https://www.culinaryschools.org/kids-games/stickman-brawler-advanced/
+- **あ** (Aug 31, 2026 02:25am): https://threejs.org
+- **あ** (Aug 31, 2026 02:26am): https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/mgBYv45P/index.html
+- **あ** (Aug 31, 2026 02:27am): https://s3-eu-west-1.amazonaws.com/apps.playcanvas.com/ZmzHPMd2/index.html
+- **ゲーム** (Aug 31, 2026 06:04am): このげーむたのしい
 
 #### Additional Information
 - **Created At:** Aug 30, 2026 06:53am
@@ -87,7 +178,25 @@
 
 ## 要求
 
-### 1. いんすたないですか
+### 1. アンダーテールぽしいです
+**Author:** ああああ (h0319096_1)
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 02:55am
+- **Updated At:** Aug 31, 2026 02:55am
+
+---
+
+### 2. 流行語大賞２０２６ください
+**Author:** ミズアメ
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 02:14am
+- **Updated At:** Aug 31, 2026 02:14am
+
+---
+
+### 3. いんすたないですか
 **Author:** う
 
 #### Additional Information
@@ -96,7 +205,7 @@
 
 ---
 
-### 2. お願い
+### 4. お願い
 **Author:** ナナシ
 
 エロい漫画見れるサイト教えて
@@ -110,7 +219,7 @@
 
 ---
 
-### 3. はやく！
+### 5. はやく！
 **Author:** ホシノキ
 
 性教育実習の漫画があるパドレットください
@@ -124,7 +233,7 @@
 
 ---
 
-### 4. 誰かpokiのサイト載せて
+### 6. 誰かpokiのサイト載せて
 **Author:** 匿名
 
 #### Additional Information
@@ -133,7 +242,7 @@
 
 ---
 
-### 5. 誰かURL貼って動画見るやつ教えて
+### 7. 誰かURL貼って動画見るやつ教えて
 **Author:** ユメノ
 
 fernって名前のやつ　履歴消したらきえt
@@ -147,7 +256,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 6. 誰かエロ部屋くれ
+### 8. 誰かエロ部屋くれ
 **Author:** 匿名
 
 #### Comments (1)
@@ -159,7 +268,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 7. アニメ見れるサイト欲しい
+### 9. アニメ見れるサイト欲しい
 **Author:** 34b6kq
 
 違法サイトでも全然ええよ
@@ -177,7 +286,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 8. Post 8
+### 10. Post 10
 **Author:** 佐渡まお (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
@@ -191,10 +300,10 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 9. エロサイトくれ
+### 11. エロサイトくれ
 **Author:** スギノネ
 
-#### Comments (9)
+#### Comments (12)
 - **フミダシ** (Aug 27, 2026 11:06am): きっも
 - **佐渡まお** (Aug 27, 2026 11:45pm): 俺も欲しい
 - **匿名** (Aug 28, 2026 04:08am): 保健室ってサイトがエロサイト
@@ -204,6 +313,9 @@ fernって名前のやつ　履歴消したらきえt
 - **Anonymous** (Aug 28, 2026 08:13am): 　うひh  
 - **かかかかかかかかかかか** (Aug 29, 2026 01:41am): https://script.google.com/macros/s/AKfycbyw3eCNyqJ_NhBXp6Dm-7HpJPYPJsIUP7u37wNRJ-FpGSCJuq_wkb80i0qKa5jBRrA2/exec
 - **フミアト** (Aug 30, 2026 08:38am): エッロサイトくっれよおお
+- **え** (Aug 31, 2026 03:10am): https://otobanana.com/deep/voicepost/trendこれろぐいんしたらえろ配信みれてろぐいんなしだったら音声聴けるよ最初の18歳以上ですかってやつはいにしてね
+- **ハナノアサ** (Aug 31, 2026 03:12am): できた
+- **ハナノアサ** (Aug 31, 2026 03:48am): オナニーの動画くれ
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 10:15am
@@ -211,7 +323,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 10. 至急！！！！！
+### 12. 至急！！！！！
 **Author:** スギノネ
 
 保健室のサイト　誰かほしいです！
@@ -237,7 +349,16 @@ fernって名前のやつ　履歴消したらきえt
 
 ## 質問
 
-### 1. 巨乳か貧乳かどっち
+### 1. 巨乳派か貧乳派
+**Author:** ハナノアサ
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 04:17am
+- **Updated At:** Aug 31, 2026 04:17am
+
+---
+
+### 2. 巨乳か貧乳かどっち
 **Author:** フミアト
 
 #### Additional Information
@@ -401,6 +522,17 @@ No post
 ## 宣伝
 
 ### 1. Post 1
+**Author:** 犬
+
+[Attachment 1](https://padlet.com/00221133/padlet-9otqidpsq2a33sru)
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 03:14am
+- **Updated At:** Aug 31, 2026 03:14am
+
+---
+
+### 2. Post 2
 **Author:** 1001さん (Haraitai)
 
 ここオンラインゲームがあるよ！
@@ -413,7 +545,7 @@ No post
 
 ---
 
-### 2. 江口 ー さんずい
+### 3. 江口 ー さんずい
 **Author:** 34b6kq
 
 イイ漫画がきっと見つかる
@@ -426,7 +558,7 @@ No post
 
 ---
 
-### 3. セックスしたいやつなんか書いて
+### 4. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
 #### Comments (6)
@@ -446,7 +578,7 @@ No post
 
 ---
 
-### 4. ゲーム出せセックス
+### 5. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
 #### Comments (6)
