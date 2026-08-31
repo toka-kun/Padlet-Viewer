@@ -1,4 +1,4 @@
-最終取得: 2026/08/31 17:23:14
+最終取得: 2026/08/31 22:42:00
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 34
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Aug 29, 2026 01:25am
+- **Updated At:** Aug 31, 2026 11:14am
 
 ## ルール
 
@@ -149,7 +149,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788769431&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0v2HkgAdGkEm%2B53Dieb%2Fu%2FwnhRHz9hENGxFQkqZhuaW1RdfUVcmi2TGSo3GfiFi2zO%2FMFhuu3GQt2f9fa93%2Bcduu%2FhKHTLZec7xREZfyDLPt%2FriFbi4HWSJ%2Bqg8vAEKGYji%2BbO7cToOincS6tMEeKKOih0zB%2BPP4Bft1Wuv6AuQg8SarDQxjo1WDcLgZKiIbP4yAFrpDThP7jWVLOvdTtMPkI1SgG%2BQEp9GV80Ga3nwFTiY55m%2BGdWJCb2aiIpoiFT5ftl4AJIbaAVbwKzLU75cBgPjy5LVbnc1%2B7AlxCcmjletBhx0u9mTrn59sdU2FJ7Si9GUDFg1do1%2BTPlS91g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788788558&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=8RpRh%2FT%2F2M%2Bm9i7b67U%2BTbozdNferkFRQmq0LELagqDLkY%2Brl%2F6sPOaQZcOlvjTB%2Fi%2B6zeayqvvgp0Q2gbaWlB8mMYFZiA%2F%2FwrGma508sImBx88C0imiXZdlWnIUoLBWmVjNOQKvYpdK350z3r%2Fh%2FZjxVltRig8SY1CX6QHUyd3ElBz%2BZwSnTAuL3jcxEllnjrsuc7GnsNTxJ%2B8IQ1olvCTBFx8J6c4O7RchYtWrsQ9J0%2BINMAt9n4iEj1u%2FOBiE0ukJPJVZb0lpf5XRUeEacEb4vgIdv%2FxyI82PuFEQuPcr5AFIyijrJEkP4LiuYjKU2ky4dcCeq%2Bkixyo5slxohg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -360,7 +360,7 @@
 
 本部のライターの受付です。メルアド添付部屋にてメルアドを添付してください。管理者以外は投稿を確認することはできません。
 
-#### Comments (7)
+#### Comments (9)
 - **〚KuJiRa〛激低浮上(´・ω・｀)** (May 09, 2026 06:46am): s2000941@g.ueis.ed.jp
 - **〚KuJiRa〛激低浮上(´・ω・｀)** (May 09, 2026 06:46am): 入れてー
 - **〚KuJiRa〛激低浮上(´・ω・｀)** (May 09, 2026 06:46am): ライター頂戴
@@ -368,6 +368,8 @@
 - **몬타** (Jun 10, 2026 12:04am): 2206047@edu.toyonaka-osa.ed.jp
 - **タビノハ** (Jun 19, 2026 12:03am): ブラックリスト
 - **根釧台地(元いときち)** (Aug 23, 2026 01:35pm): 1130itokichi@gmail.com
+- **tf** (Aug 31, 2026 11:14am): ｓ１２７７５
+- **tf** (Aug 31, 2026 11:14am): ｓ１２７７５
 
 #### Additional Information
 - **Post color:** Black
