@@ -1,13 +1,13 @@
-最終取得: 2026/08/31 08:23:38
+最終取得: 2026/08/31 09:32:24
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 29
+- **Posts:** 30
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Aug 30, 2026 11:06pm
+- **Updated At:** Aug 31, 2026 12:30am
 
 ## 雑談
 
@@ -53,6 +53,9 @@
 垢登録及び料金無しのでお願い
 
 アニメサイトくれたら漫画サイトあげるで
+
+#### Comments (1)
+- **ツユノハ** (Aug 31, 2026 12:30am): https://sites.google.com/view/dominumnetworkv2/other/change-logsこれのうえのポップコーンのマーク押してあにめって英語で書いてるところ押したらみれる
 
 #### Additional Information
 - **Created At:** Aug 28, 2026 04:16am
@@ -284,7 +287,21 @@ fernって名前のやつ　履歴消したらきえt
 
 ## その他のproxy
 
-### 1. geometrydashのURL　
+### 1. DayDream X
+**Author:** スズカゼ
+
+[Attachment 1](https://daydreamx.global.ssl.fastly.net/)
+
+#### Comments (1)
+- **スズカゼ** (Aug 31, 2026 12:22am): 規制突破せずに使える軽量proxy
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 12:21am
+- **Updated At:** Aug 31, 2026 12:21am
+
+---
+
+### 2. geometrydashのURL　
 **Author:** ゆうと
 
 [https://planet.mblock.cc/project/projectshare/8349577](https://planet.mblock.cc/project/projectshare/8349577)
@@ -360,6 +377,9 @@ fernって名前のやつ　履歴消したらきえt
 **Author:** シズクミ
 
 これでしらべてみてTikTokで
+
+#### Comments (1)
+- **シロスナ** (Aug 31, 2026 12:08am): おもんねーかすが
 
 #### Additional Information
 - **Created At:** Aug 30, 2026 12:34pm
