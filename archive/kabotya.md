@@ -1,4 +1,4 @@
-最終取得: 2026/09/02 07:28:33
+最終取得: 2026/09/02 08:32:29
 
 # 規制突破の世界
 
@@ -7,7 +7,7 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 58
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 01, 2026 10:23pm
+- **Updated At:** Sep 01, 2026 11:25pm
 
 ## 雑談
 
@@ -225,8 +225,10 @@
 
 [Attachment 1](https://planet.mblock.cc/project/7857149)
 
-#### Comments (1)
+#### Comments (3)
 - **えいこ** (Sep 01, 2026 04:20am): いいねも押してね
+- **えいこ** (Sep 01, 2026 11:25pm): コメント書いて
+- **えいこ** (Sep 01, 2026 11:25pm): たのしいよ
 
 #### Additional Information
 - **Created At:** Sep 01, 2026 04:19am
