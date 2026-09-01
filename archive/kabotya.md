@@ -1,4 +1,4 @@
-最終取得: 2026/09/01 19:29:25
+最終取得: 2026/09/01 21:27:06
 
 # 規制突破の世界
 
@@ -7,7 +7,7 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 58
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 01, 2026 10:25am
+- **Updated At:** Sep 01, 2026 12:16pm
 
 ## 雑談
 
@@ -42,8 +42,10 @@
 ### 3. みんなおばあちゃんち行った？
 **Author:** みなと
 
-#### Comments (1)
+#### Comments (3)
 - **えいこ** (Sep 01, 2026 02:28am): いってない
+- **ナミユメ** (Sep 01, 2026 10:46am): お泊りした。
+- **Anonymous** (Sep 01, 2026 12:12pm): 行ったぜ 
 
 #### Additional Information
 - **Created At:** Aug 31, 2026 11:29pm
@@ -184,7 +186,7 @@
 ### 13. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
-#### Comments (20)
+#### Comments (21)
 - **フブキコ** (Aug 26, 2026 04:51am): けすなよお
 - **ワカナ** (Aug 26, 2026 05:03am): けさないで
 - **ワカナ** (Aug 26, 2026 05:28am): もう！！
@@ -205,6 +207,7 @@
 - **カワツバメ** (Sep 01, 2026 03:39am): chikaちか
 - **カワツバメ** (Sep 01, 2026 03:39am): やりますねー
 - **カワツバメ** (Sep 01, 2026 03:40am): 丸出しペットボトル
+- **ナミユメ** (Sep 01, 2026 10:47am): ただのペットボトルやん
 
 #### Reactions
 - **Emojis:** 😭 (7) 👍 (6) 🥲 (1) 😆 (1)
@@ -316,8 +319,11 @@
 
 [Attachment 1](https://unpkg.com/classroomduck@1.0.29/index.html)
 
-#### Comments (1)
+#### Comments (4)
 - **ミドリネ** (Sep 01, 2026 10:01am): あっざっす
+- **ナミユメ** (Sep 01, 2026 10:32am): マジてんきゅー
+- **mbappe♯初代つつきの森会員♯狂鳥族２代目** (Sep 01, 2026 11:44am): てんきゅー
+- **えいこ** (Sep 01, 2026 12:11pm): ありがとすぎる
 
 #### Additional Information
 - **Created At:** Sep 01, 2026 06:11am
@@ -550,11 +556,12 @@ fernって名前のやつ　履歴消したらきえt
 ### 1. 巨乳派か貧乳派
 **Author:** ハナノアサ
 
-#### Comments (4)
+#### Comments (5)
 - **長井典子（４９）** (Sep 01, 2026 02:02am): あ
 - **常時暇人のたけさん** (Sep 01, 2026 03:27am): 巨だろ
 - **ナギサノ** (Sep 01, 2026 03:37am): わかる
 - **常時暇人のたけさん** (Sep 01, 2026 04:40am): 巨しかかたん
+- **Anonymous** (Sep 01, 2026 12:16pm): 貧もいいだろ（少6）
 
 #### Additional Information
 - **Created At:** Aug 31, 2026 04:17am
@@ -577,7 +584,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 3. ブロスタやってる人トロ数書いて
 **Author:** フミダシ
 
-#### Comments (11)
+#### Comments (12)
 - **Anonymous** (Aug 27, 2026 11:52am): 77777
 - **ユメノ** (Aug 28, 2026 10:21am): 20000ちょい
 - **匿名** (Aug 28, 2026 11:12am): 始めたばっかで9000
@@ -589,6 +596,7 @@ fernって名前のやつ　履歴消したらきえt
 - **ツチフル** (Aug 31, 2026 12:46pm): 誰かフレンドなろ
 - **小さい馬** (Sep 01, 2026 12:14am): 60000ぐらい
 - **カゼドリ** (Sep 01, 2026 01:43am): 50000ぐらい
+- **Anonymous** (Sep 01, 2026 12:17pm): 90000ちょい
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 11:49am
@@ -607,7 +615,7 @@ fernって名前のやつ　履歴消したらきえt
 - **おとちん** (Aug 28, 2026 10:04am): サイトのURLコピーして貼ったら見れる
 - **ははははははは** (Sep 01, 2026 12:48am): マジで？
 - **カナタビ** (Sep 01, 2026 12:55am): proxy?
-- **mbappe＃初代弟子naganegi1364ﾌﾟﾘﾝﾀﾍﾞﾀｲ＃初代つつきの森会員** (Sep 01, 2026 08:38am): そうだよ
+- **mbappe♯初代つつきの森会員♯狂鳥族２代目** (Sep 01, 2026 08:38am): そうだよ
 
 #### Reactions
 - **Emojis:** 👍 (1) 😄 (1) ❤️ (1)
@@ -764,7 +772,7 @@ No post
 ## 宣伝
 
 ### 1. 絶対に来たほうがいいよ。きたら自己紹介よろしく！！
-**Author:** mbappe＃初代弟子naganegi1364ﾌﾟﾘﾝﾀﾍﾞﾀｲ＃初代つつきの森会員 (akiramenaidedonnatokimo)
+**Author:** mbappe♯初代つつきの森会員♯狂鳥族２代目 (akiramenaidedonnatokimo)
 
 [Attachment 1](https://padlet.com/akiramenaidedonnatokimo/padlet-kerg40vcf1nvu3eh?lang=ja)
 
