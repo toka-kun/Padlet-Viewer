@@ -1,13 +1,13 @@
-最終取得: 2026/09/01 15:39:01
+最終取得: 2026/09/01 19:02:12
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 56
+- **Posts:** 57
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 01, 2026 06:19am
+- **Updated At:** Sep 01, 2026 10:01am
 
 ## 雑談
 
@@ -316,6 +316,9 @@
 
 [Attachment 1](https://unpkg.com/classroomduck@1.0.29/index.html)
 
+#### Comments (1)
+- **ミドリネ** (Sep 01, 2026 10:01am): あっざっす
+
 #### Additional Information
 - **Created At:** Sep 01, 2026 06:11am
 - **Updated At:** Sep 01, 2026 06:11am
@@ -600,10 +603,11 @@ fernって名前のやつ　履歴消したらきえt
 
 [Attachment 1](https://u.topia.2a.exe.googleapis.com.hospitaldelninodif.gob.mx/)
 
-#### Comments (3)
+#### Comments (4)
 - **おとちん** (Aug 28, 2026 10:04am): サイトのURLコピーして貼ったら見れる
 - **ははははははは** (Sep 01, 2026 12:48am): マジで？
 - **カナタビ** (Sep 01, 2026 12:55am): proxy?
+- **mbappe＃初代弟子naganegi1364ﾌﾟﾘﾝﾀﾍﾞﾀｲ＃初代つつきの森会員** (Sep 01, 2026 08:38am): そうだよ
 
 #### Reactions
 - **Emojis:** 👍 (1) 😄 (1) ❤️ (1)
@@ -730,11 +734,13 @@ No post
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=tfMneb7nGbY)
 
-#### Comments (4)
+#### Comments (6)
 - **Anonymous** (Aug 29, 2026 12:39am): 誰かマエスケの動画ちょうだい 
 - **えいこ** (Sep 01, 2026 12:40am): ホンマにマエスケの動画くれ
 - **カゼドリ** (Sep 01, 2026 06:19am): マインクラフト史上一番怖いMODを入れたら..www.youtube.com › watch
 - **カゼドリ** (Sep 01, 2026 06:19am): のせました
+- **ゲーム** (Sep 01, 2026 08:58am): 世界一難しい音ゲーをやったら
+- **ゲーム** (Sep 01, 2026 08:59am): https://youtu.be/VaFgiMa--2A
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 07:00am
@@ -748,7 +754,18 @@ No post
 
 ## 宣伝
 
-### 1. 復旧お願いします！
+### 1. 絶対に来たほうがいいよ。きたら自己紹介よろしく！！
+**Author:** mbappe＃初代弟子naganegi1364ﾌﾟﾘﾝﾀﾍﾞﾀｲ＃初代つつきの森会員 (akiramenaidedonnatokimo)
+
+[Attachment 1](https://padlet.com/akiramenaidedonnatokimo/padlet-kerg40vcf1nvu3eh?lang=ja)
+
+#### Additional Information
+- **Created At:** Sep 01, 2026 08:37am
+- **Updated At:** Sep 01, 2026 08:37am
+
+---
+
+### 2. 復旧お願いします！
 **Author:** 常時暇人のたけさん (JPsan)
 
 [Attachment 1](https://padlet.com/JPsan/padlet-11oe0dlx9vsegwya?lang=ja)
@@ -759,7 +776,7 @@ No post
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** ミソラノ
 
 [Attachment 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
@@ -770,7 +787,7 @@ No post
 
 ---
 
-### 3. みんなきてね
+### 4. みんなきてね
 **Author:** 仙人@suger (sennin_sugar)
 
 https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQozfVOY7UPTBkpqfD\_-fwTwn\_kxxLOg/exec
@@ -781,7 +798,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** 犬
 
 [Attachment 1](https://padlet.com/00221133/padlet-9otqidpsq2a33sru)
@@ -792,7 +809,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** 1001さん (Haraitai)
 
 ここオンラインゲームがあるよ！
@@ -805,7 +822,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 6. 江口 ー さんずい
+### 7. 江口 ー さんずい
 **Author:** 34b6kq
 
 イイ漫画がきっと見つかる
@@ -818,7 +835,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 7. セックスしたいやつなんか書いて
+### 8. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
 #### Comments (6)
@@ -838,7 +855,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 8. ゲーム出せセックス
+### 9. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
 #### Comments (6)
