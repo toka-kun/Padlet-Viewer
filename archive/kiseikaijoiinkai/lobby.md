@@ -1,4 +1,4 @@
-最終取得: 2026/09/01 09:39:06
+最終取得: 2026/09/01 10:06:22
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 34
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Sep 01, 2026 12:38am
+- **Updated At:** Sep 01, 2026 12:51am
 
 ## ルール
 
@@ -34,7 +34,7 @@
 
 (投稿を確認したら即BAN&読者)
 
-#### Comments (9)
+#### Comments (10)
 - **ううううんこ💩** (Apr 20, 2026 03:32am): もともとライターだったもりもりもっこりはんです。名前変えましたライターください
 - **中居正広リア充になった。#鳥ちゃん大好き#最近体痛い** (Apr 20, 2026 01:28pm): メアドをおくってくれ
 - **イナビカリ** (Apr 30, 2026 09:55am): うぇｒ
@@ -44,6 +44,7 @@
 - **Honda** (Jul 16, 2026 02:14am): フォローしたからライターして
 - **リンノネ** (Jul 18, 2026 12:56pm): うお
 - **ソトカゼ** (Sep 01, 2026 12:38am): おけ
+- **ソトカゼ** (Sep 01, 2026 12:51am): おけです
 
 #### Additional Information
 - **Post color:** Black
@@ -150,7 +151,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788828007&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RNWvTVbV3ZNMrnA2OOSCxFoZv6hy5DFBJyMl3P4JATqHaBfAaaEoLbu3zacqIHXucNC0eXHnGhSib922ROZPcfnSy0oZMyL0iU3NXnhJqlieS%2Ftfd6TRW5SUzpPgkTSGQbNUbe4xJMee6IPHhSYq%2FMuYXLqrk4%2FddRB8f9yXsn6b36eMSX7LRvTozPRS24X4WcXuP0VAE21RsDTj79zlWlImREwmW%2BMatuIys%2BZgd6taJK5q%2BpOYMzfpk4FbdSPBJFdMUKQKJpwxRIO%2BN0vrisYL%2Fg2gW6rhdjKHC7ijMBvo3AoLKLWetyaaiM2eZnWuf4yNcA5V3mRyoHDx%2ButJPg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788829628&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=n6ZnL8DqYKcnU1I3Sk0xd%2F%2FOJst11SvN7IuWaKnM3A4ak7GU%2Fb9kKTkWoijOHSkb3Z%2B8%2FcCtFTJj7mcUD0px6ALqRq6ujUqQ3UVINkoGYlwhrfZyRre62Pnt8izcxilqx7OIhtpnL6MAyI1QirpPU0no%2FZRK5PSFOwe4i0tfoPEKudf3SXLqujXBHEbvNx13hQ3u%2F4iJL70nROyVakNSIxdAa9ixUiUfJ6Ai1a5gy1T14d3yEdo4FkgpnT8DzOmiTrDc1dO%2FXDsCUFFk%2FpZWr4CuOa99%2B5jxCq1QkQW3LJdwXeifdUbLdtxAULi6JZRsR68HcbfcFb4zGSmkBxqRHA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
