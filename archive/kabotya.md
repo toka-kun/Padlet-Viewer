@@ -1,18 +1,21 @@
-最終取得: 2026/09/01 10:06:22
+最終取得: 2026/09/01 14:01:08
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 49
+- **Posts:** 52
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 01, 2026 12:58am
+- **Updated At:** Sep 01, 2026 04:40am
 
 ## 雑談
 
 ### 1. 前の土日、何した？
 **Author:** 港
+
+#### Comments (1)
+- **えいこ** (Sep 01, 2026 02:28am): りく上の合宿
 
 #### Additional Information
 - **Created At:** Sep 01, 2026 12:39am
@@ -22,6 +25,9 @@
 
 ### 2. みんなおばあちゃんち行った？
 **Author:** みなと
+
+#### Comments (1)
+- **えいこ** (Sep 01, 2026 02:28am): いってない
 
 #### Additional Information
 - **Created At:** Aug 31, 2026 11:29pm
@@ -33,6 +39,9 @@
 **Author:** TENTENNTENN
 
 
+
+#### Comments (1)
+- **タルタルソース** (Sep 01, 2026 04:41am): ロナウドorメッシ
 
 #### Additional Information
 - **Created At:** Aug 31, 2026 08:03am
@@ -118,10 +127,11 @@
 
 あ
 
-#### Comments (3)
+#### Comments (4)
 - **みゅ** (Aug 31, 2026 01:09am): こんにちは
 - **初夏** (Aug 31, 2026 07:26am): お前誰やねん。ぶちころすぞ！笑笑
 - **Anonymous** (Aug 31, 2026 09:40pm): い
+- **ゲーム** (Sep 01, 2026 02:51am): 誰？全員
 
 #### Additional Information
 - **Created At:** Aug 31, 2026 01:07am
@@ -156,7 +166,7 @@
 ### 12. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
-#### Comments (17)
+#### Comments (20)
 - **フブキコ** (Aug 26, 2026 04:51am): けすなよお
 - **ワカナ** (Aug 26, 2026 05:03am): けさないで
 - **ワカナ** (Aug 26, 2026 05:28am): もう！！
@@ -174,6 +184,9 @@
 - **初夏** (Aug 31, 2026 06:51am): それほんまか~嘘っぽい
 - **えいこ** (Sep 01, 2026 12:39am): いーみーがーわかりません
 - **ははははははは** (Sep 01, 2026 12:51am): なぜだ
+- **カワツバメ** (Sep 01, 2026 03:39am): chikaちか
+- **カワツバメ** (Sep 01, 2026 03:39am): やりますねー
+- **カワツバメ** (Sep 01, 2026 03:40am): 丸出しペットボトル
 
 #### Reactions
 - **Emojis:** 😭 (7) 👍 (6) 🥲 (1) 😆 (1)
@@ -186,8 +199,43 @@
 
 ## ゲームサイト
 
-### 1. マイクラ
+### 1. やってみて
+**Author:** えいこ
+
+[Attachment 1](https://planet.mblock.cc/project/7857149)
+
+#### Comments (1)
+- **えいこ** (Sep 01, 2026 04:20am): いいねも押してね
+
+#### Additional Information
+- **Created At:** Sep 01, 2026 04:19am
+- **Updated At:** Sep 01, 2026 04:19am
+
+---
+
+### 2. ブロックの解除方法知ってる人いたら教えて
+**Author:** えいこ
+
+#### Comments (2)
+- **ゆきつばさ** (Sep 01, 2026 03:12am): シャットダウン繰り返す
+- **ノハルカ** (Sep 01, 2026 03:19am): （クロームブックでしか無理かも）
+
+#### Additional Information
+- **Created At:** Sep 01, 2026 02:30am
+- **Updated At:** Sep 01, 2026 02:30am
+
+---
+
+### 3. マイクラ
 **Author:** ナツヒカリ
+
+#### Comments (6)
+- **えいこ** (Sep 01, 2026 02:29am): したい
+- **えいこ** (Sep 01, 2026 02:29am): よ
+- **ゆきつばさ** (Sep 01, 2026 03:13am): ブロック解除してEagleCraftって調べたら無料でバージョン１２のマイク遊べる
+- **ゲーム** (Sep 01, 2026 04:07am): Eaglercraft - Free Open Source Browser MinecraftEaglercrafthttps://eaglercraft.com
+- **ゲーム** (Sep 01, 2026 04:07am): これマイクらできるやつ
+- **ゲーム** (Sep 01, 2026 04:08am): たぶんうそやったらごめん
 
 #### Additional Information
 - **Created At:** Sep 01, 2026 12:40am
@@ -195,7 +243,7 @@
 
 ---
 
-### 2. ゲームしたいゲームしたい
+### 4. ゲームしたいゲームしたい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (5)
@@ -211,7 +259,7 @@
 
 ---
 
-### 3. ゲームができるサイトよろブロスタとか
+### 5. ゲームができるサイトよろブロスタとか
 **Author:** ブロスタ
 
 #### Comments (1)
@@ -223,7 +271,7 @@
 
 ---
 
-### 4. 誰かあああああゲームのサイトできるだけほしいいいいいいいいいい
+### 6. 誰かあああああゲームのサイトできるだけほしいいいいいいいいいい
 **Author:** フミアト
 
 #### Comments (9)
@@ -245,7 +293,16 @@
 
 ## 要求
 
-### 1. ジオメトリーダッシュ作ってください
+### 1. 誰か軽いproxyくれ　ブロックされるやつでもいいから
+**Author:** ノハルカ
+
+#### Additional Information
+- **Created At:** Sep 01, 2026 03:18am
+- **Updated At:** Sep 01, 2026 03:18am
+
+---
+
+### 2. ジオメトリーダッシュ作ってください
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Additional Information
@@ -254,13 +311,14 @@
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** りゅう
 
 フォートナイトぽしいです
 
-#### Comments (1)
+#### Comments (2)
 - **ええいいここえいこ（えいこってよんでね）** (Aug 31, 2026 11:28pm): それ
+- **えいこ** (Sep 01, 2026 04:10am): ほしい
 
 #### Additional Information
 - **Created At:** Aug 31, 2026 08:03am
@@ -268,7 +326,7 @@
 
 ---
 
-### 3. アンダーテールぽしいです
+### 4. アンダーテールぽしいです
 **Author:** ああああ (h0319096_1)
 
 #### Additional Information
@@ -277,7 +335,7 @@
 
 ---
 
-### 4. 流行語大賞２０２６ください
+### 5. 流行語大賞２０２６ください
 **Author:** ミズアメ
 
 #### Additional Information
@@ -286,7 +344,7 @@
 
 ---
 
-### 5. いんすたないですか
+### 6. いんすたないですか
 **Author:** う
 
 #### Additional Information
@@ -295,7 +353,7 @@
 
 ---
 
-### 6. お願い
+### 7. お願い
 **Author:** ナナシ
 
 エロい漫画見れるサイト教えて
@@ -309,7 +367,7 @@
 
 ---
 
-### 7. はやく！
+### 8. はやく！
 **Author:** ホシノキ
 
 性教育実習の漫画があるパドレットください
@@ -323,7 +381,7 @@
 
 ---
 
-### 8. 誰かpokiのサイト載せて
+### 9. 誰かpokiのサイト載せて
 **Author:** 匿名
 
 #### Additional Information
@@ -332,7 +390,7 @@
 
 ---
 
-### 9. 誰かURL貼って動画見るやつ教えて
+### 10. 誰かURL貼って動画見るやつ教えて
 **Author:** ユメノ
 
 fernって名前のやつ　履歴消したらきえt
@@ -346,7 +404,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 10. 誰かエロ部屋くれ
+### 11. 誰かエロ部屋くれ
 **Author:** 匿名
 
 #### Comments (1)
@@ -358,7 +416,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 11. アニメ見れるサイト欲しい
+### 12. アニメ見れるサイト欲しい
 **Author:** 34b6kq
 
 違法サイトでも全然ええよ
@@ -376,10 +434,13 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 12. Post 12
+### 13. Post 13
 **Author:** 佐渡まお (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
+
+#### Comments (1)
+- **ゲーム** (Sep 01, 2026 04:13am): めっちゃ面白いゲーム　remix
 
 #### Reactions
 - **Emojis:** 😆 (1)
@@ -390,7 +451,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 13. エロサイトくれ
+### 14. エロサイトくれ
 **Author:** スギノネ
 
 #### Comments (12)
@@ -413,12 +474,12 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 14. 至急！！！！！
+### 15. 至急！！！！！
 **Author:** スギノネ
 
 保健室のサイト　誰かほしいです！
 
-#### Comments (11)
+#### Comments (13)
 - **かぼちゃ** (Aug 28, 2026 12:23am): https://padlet.com/s22y164/padlet-yy2k3c5ijiflpmpw
 - **ミナソコ** (Aug 28, 2026 09:24am): あざっす
 - **ニック** (Aug 28, 2026 11:38am): こんにちわ
@@ -430,6 +491,8 @@ fernって名前のやつ　履歴消したらきえt
 - **匿名** (Aug 29, 2026 12:25am): 💩
 - **ニック** (Aug 29, 2026 04:34am): ｗｗｗ
 - **ニック** (Aug 29, 2026 04:34am): 💩
+- **カゼドリ** (Sep 01, 2026 01:43am): 誰かロブロのサイト載せてください😩
+- **ゲーム** (Sep 01, 2026 04:17am): ok
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 10:14am
@@ -442,6 +505,12 @@ fernって名前のやつ　履歴消したらきえt
 ### 1. 巨乳派か貧乳派
 **Author:** ハナノアサ
 
+#### Comments (4)
+- **長井典子（４９）** (Sep 01, 2026 02:02am): あ
+- **常時暇人のたけさん** (Sep 01, 2026 03:27am): 巨だろ
+- **ナギサノ** (Sep 01, 2026 03:37am): わかる
+- **常時暇人のたけさん** (Sep 01, 2026 04:40am): 巨しかかたん
+
 #### Additional Information
 - **Created At:** Aug 31, 2026 04:17am
 - **Updated At:** Aug 31, 2026 04:17am
@@ -450,6 +519,9 @@ fernって名前のやつ　履歴消したらきえt
 
 ### 2. 巨乳か貧乳かどっち
 **Author:** フミアト
+
+#### Comments (1)
+- **常時暇人のたけさん** (Sep 01, 2026 04:41am): 巨しかないだろ
 
 #### Additional Information
 - **Created At:** Aug 30, 2026 08:28am
@@ -460,7 +532,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 3. ブロスタやってる人トロ数書いて
 **Author:** フミダシ
 
-#### Comments (10)
+#### Comments (11)
 - **Anonymous** (Aug 27, 2026 11:52am): 77777
 - **ユメノ** (Aug 28, 2026 10:21am): 20000ちょい
 - **匿名** (Aug 28, 2026 11:12am): 始めたばっかで9000
@@ -471,6 +543,7 @@ fernって名前のやつ　履歴消したらきえt
 - **ツチフル** (Aug 31, 2026 11:23am): そんなわけ無いやろ
 - **ツチフル** (Aug 31, 2026 12:46pm): 誰かフレンドなろ
 - **小さい馬** (Sep 01, 2026 12:14am): 60000ぐらい
+- **カゼドリ** (Sep 01, 2026 01:43am): 50000ぐらい
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 11:49am
@@ -491,7 +564,7 @@ fernって名前のやつ　履歴消したらきえt
 - **カナタビ** (Sep 01, 2026 12:55am): proxy?
 
 #### Reactions
-- **Emojis:** ❤️ (2) 😄 (1)
+- **Emojis:** 👍 (1) 😄 (1) ❤️ (1)
 
 #### Additional Information
 - **Created At:** Aug 28, 2026 10:04am
@@ -514,8 +587,10 @@ No post
 
 [Attachment 1](https://daydreamx.global.ssl.fastly.net/)
 
-#### Comments (1)
+#### Comments (3)
 - **スズカゼ** (Aug 31, 2026 12:22am): 規制突破せずに使える軽量proxy
+- **カナタビ** (Sep 01, 2026 01:37am): 開きたいサイトのURL貼ったらそのサイトに行けるよ
+- **カナタビ** (Sep 01, 2026 01:38am): 例:　youtube.com
 
 #### Additional Information
 - **Created At:** Aug 31, 2026 12:21am
@@ -556,8 +631,11 @@ No post
 ### 2. 学タブで見れるユーチューブほしいですお願いします
 **Author:** ははははははは (2101038_5)
 
-#### Comments (1)
+#### Comments (4)
 - **かぼちゃ** (Sep 01, 2026 12:59am): https://script.google.com/a/macros/g.bears.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
+- **ははははははは** (Sep 01, 2026 02:35am): ありがとうございます
+- **えいこ** (Sep 01, 2026 04:14am): かぼちゃさんそれでもブロックされたよ
+- **えいこ** (Sep 01, 2026 04:16am): 途中でブロックいっぱいはいるけどこれうったら行けるよぶろっくされたときのうえのところにうってねcanva.com
 
 #### Additional Information
 - **Created At:** Sep 01, 2026 12:53am
@@ -569,6 +647,9 @@ No post
 **Author:** 34b6kq
 
 [Attachment 1](https://script.google.com/a/macros/chuo-tky.ed.jp/s/AKfycbyDtINI3yZi1UNO2P3Ody2fzRptm80YOPV_a3Vlqygl-QWyuzjvTvB7TMANSN5GPJOFMw/exec)
+
+#### Comments (1)
+- **えいこ** (Sep 01, 2026 04:17am): 見れなかった
 
 #### Additional Information
 - **Created At:** Aug 28, 2026 04:13am
