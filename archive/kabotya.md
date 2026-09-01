@@ -1,17 +1,26 @@
-最終取得: 2026/09/01 08:48:15
+最終取得: 2026/09/01 09:39:06
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 47
+- **Posts:** 46
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Aug 31, 2026 11:39pm
+- **Updated At:** Sep 01, 2026 12:39am
 
 ## 雑談
 
-### 1. みんなおばあちゃんち行った？
+### 1. 前の土日、何した？
+**Author:** 港
+
+#### Additional Information
+- **Created At:** Sep 01, 2026 12:39am
+- **Updated At:** Sep 01, 2026 12:39am
+
+---
+
+### 2. みんなおばあちゃんち行った？
 **Author:** みなと
 
 #### Additional Information
@@ -20,7 +29,7 @@
 
 ---
 
-### 2. 雑談
+### 3. 雑談
 **Author:** TENTENNTENN
 
 
@@ -31,29 +40,7 @@
 
 ---
 
-### 3. Post 3
-**Author:** ミソラノ
-
-[Attachment 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
-
-#### Additional Information
-- **Created At:** Aug 31, 2026 07:07am
-- **Updated At:** Aug 31, 2026 07:07am
-
----
-
-### 4. みんなきてね
-**Author:** 仙人@suger (sennin_sugar)
-
-https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQozfVOY7UPTBkpqfD\_-fwTwn\_kxxLOg/exec
-
-#### Additional Information
-- **Created At:** Aug 31, 2026 05:50am
-- **Updated At:** Aug 31, 2026 05:50am
-
----
-
-### 5. 学校ってみんなきらい俺台っきらい
+### 4. 学校ってみんなきらい俺台っきらい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (3)
@@ -64,6 +51,21 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 #### Additional Information
 - **Created At:** Aug 31, 2026 05:29am
 - **Updated At:** Aug 31, 2026 05:29am
+
+---
+
+### 5. 夏休み楽しかった
+**Author:** みなと
+
+#### Comments (4)
+- **初夏** (Aug 31, 2026 06:02am): 夏休みみんなどこいった〜？
+- **車好き** (Aug 31, 2026 09:07am): 家
+- **ヒヤシンス** (Aug 31, 2026 09:57am): 俺は、ゲーセンとか言ったり、おばあちゃんとおじいちゃんのお家にお泊りしたり、おばあちゃんと一緒に食べに行ったりした。笑笑
+- **ええいいここえいこ（えいこってよんでね）** (Aug 31, 2026 11:28pm): 家で友達とゲームした
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 05:26am
+- **Updated At:** Sep 01, 2026 12:23am
 
 ---
 
@@ -138,10 +140,23 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 11. 一旦消しました
+### 11. まだうごいてんのここwwwwwww
+**Author:** 💍持ち #kgtとプロたんの囲い😙 (c_coa09)
+
+#### Comments (2)
+- **💍持ち #kgtとプロたんの囲い😙** (Aug 28, 2026 04:22pm): うちがはじめたときからずっとあったけど
+- **💍持ち #kgtとプロたんの囲い😙** (Aug 28, 2026 04:22pm): 驚きだわ
+
+#### Additional Information
+- **Created At:** Aug 28, 2026 02:56pm
+- **Updated At:** Sep 01, 2026 12:23am
+
+---
+
+### 12. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
-#### Comments (15)
+#### Comments (16)
 - **フブキコ** (Aug 26, 2026 04:51am): けすなよお
 - **ワカナ** (Aug 26, 2026 05:03am): けさないで
 - **ワカナ** (Aug 26, 2026 05:28am): もう！！
@@ -157,6 +172,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 - **34b6kq** (Aug 28, 2026 04:20am): ワイの学校宿題ない
 - **Anonymous** (Aug 31, 2026 06:38am): なんの話？
 - **初夏** (Aug 31, 2026 06:51am): それほんまか~嘘っぽい
+- **えいこ** (Sep 01, 2026 12:39am): いーみーがーわかりません
 
 #### Reactions
 - **Emojis:** 😭 (7) 👍 (6) 🥲 (1) 😆 (1)
@@ -169,33 +185,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ## ゲームサイト
 
-### 1. えいこ
-**Author:** ええいいここえいこ（えいこってよんでね）
-
-ゲイム上げてくれ頼む
-
-#### Additional Information
-- **Created At:** Aug 31, 2026 11:29pm
-- **Updated At:** Aug 31, 2026 11:29pm
-
----
-
-### 2. 夏休み楽しかった
-**Author:** みなと
-
-#### Comments (4)
-- **初夏** (Aug 31, 2026 06:02am): 夏休みみんなどこいった〜？
-- **車好き** (Aug 31, 2026 09:07am): 家
-- **ヒヤシンス** (Aug 31, 2026 09:57am): 俺は、ゲーセンとか言ったり、おばあちゃんとおじいちゃんのお家にお泊りしたり、おばあちゃんと一緒に食べに行ったりした。笑笑
-- **ええいいここえいこ（えいこってよんでね）** (Aug 31, 2026 11:28pm): 家で友達とゲームした
-
-#### Additional Information
-- **Created At:** Aug 31, 2026 05:26am
-- **Updated At:** Aug 31, 2026 05:26am
-
----
-
-### 3. ゲームしたいゲームしたい
+### 1. ゲームしたいゲームしたい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (5)
@@ -211,7 +201,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 4. ゲームができるサイトよろブロスタとか
+### 2. ゲームができるサイトよろブロスタとか
 **Author:** ブロスタ
 
 #### Comments (1)
@@ -223,7 +213,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 5. 誰かあああああゲームのサイトできるだけほしいいいいいいいいいい
+### 3. 誰かあああああゲームのサイトできるだけほしいいいいいいいいいい
 **Author:** フミアト
 
 #### Comments (9)
@@ -457,31 +447,30 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
+### 3. ブロスタやってる人トロ数書いて
+**Author:** フミダシ
+
+#### Comments (10)
+- **Anonymous** (Aug 27, 2026 11:52am): 77777
+- **ユメノ** (Aug 28, 2026 10:21am): 20000ちょい
+- **匿名** (Aug 28, 2026 11:12am): 始めたばっかで9000
+- **フミアト** (Aug 30, 2026 08:37am): 俺ダイキ様と友達
+- **ヒヤシンス** (Aug 31, 2026 10:11am): 第きさまと友達は嘘に決まってるやろ！
+- **中学の成績学年1位** (Aug 31, 2026 11:19am): カリスマと
+- **中学の成績学年1位** (Aug 31, 2026 11:19am): ちなみに僕は23万です
+- **ツチフル** (Aug 31, 2026 11:23am): そんなわけ無いやろ
+- **ツチフル** (Aug 31, 2026 12:46pm): 誰かフレンドなろ
+- **小さい馬** (Sep 01, 2026 12:14am): 60000ぐらい
+
+#### Additional Information
+- **Created At:** Aug 27, 2026 11:49am
+- **Updated At:** Sep 01, 2026 12:23am
+
+---
+
 ## croxyproxy
 
-### 1. まだうごいてんのここwwwwwww
-**Author:** 💍持ち #kgtとプロたんの囲い😙 (c_coa09)
-
-#### Comments (2)
-- **💍持ち #kgtとプロたんの囲い😙** (Aug 28, 2026 04:22pm): うちがはじめたときからずっとあったけど
-- **💍持ち #kgtとプロたんの囲い😙** (Aug 28, 2026 04:22pm): 驚きだわ
-
-#### Additional Information
-- **Created At:** Aug 28, 2026 02:56pm
-- **Updated At:** Aug 28, 2026 02:56pm
-
----
-
-### 2. 変わっちゃった
-**Author:** ユメノ
-
-#### Additional Information
-- **Created At:** Aug 28, 2026 10:22am
-- **Updated At:** Aug 28, 2026 10:22am
-
----
-
-### 3. なにこれ
+### 1. なにこれ
 **Author:** おとちん
 
 [Attachment 1](https://u.topia.2a.exe.googleapis.com.hospitaldelninodif.gob.mx/)
@@ -504,25 +493,7 @@ No post
 
 ## inbox
 
-### 1. ブロスタやってる人トロ数書いて
-**Author:** フミダシ
-
-#### Comments (9)
-- **Anonymous** (Aug 27, 2026 11:52am): 77777
-- **ユメノ** (Aug 28, 2026 10:21am): 20000ちょい
-- **匿名** (Aug 28, 2026 11:12am): 始めたばっかで9000
-- **フミアト** (Aug 30, 2026 08:37am): 俺ダイキ様と友達
-- **ヒヤシンス** (Aug 31, 2026 10:11am): 第きさまと友達は嘘に決まってるやろ！
-- **中学の成績学年1位** (Aug 31, 2026 11:19am): カリスマと
-- **中学の成績学年1位** (Aug 31, 2026 11:19am): ちなみに僕は23万です
-- **ツチフル** (Aug 31, 2026 11:23am): そんなわけ無いやろ
-- **ツチフル** (Aug 31, 2026 12:46pm): 誰かフレンドなろ
-
-#### Additional Information
-- **Created At:** Aug 27, 2026 11:49am
-- **Updated At:** Aug 27, 2026 11:49am
-
----
+No post
 
 ## その他のproxy
 
@@ -617,6 +588,28 @@ No post
 ## 宣伝
 
 ### 1. Post 1
+**Author:** ミソラノ
+
+[Attachment 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 07:07am
+- **Updated At:** Sep 01, 2026 12:22am
+
+---
+
+### 2. みんなきてね
+**Author:** 仙人@suger (sennin_sugar)
+
+https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQozfVOY7UPTBkpqfD\_-fwTwn\_kxxLOg/exec
+
+#### Additional Information
+- **Created At:** Aug 31, 2026 05:50am
+- **Updated At:** Sep 01, 2026 12:22am
+
+---
+
+### 3. Post 3
 **Author:** 犬
 
 [Attachment 1](https://padlet.com/00221133/padlet-9otqidpsq2a33sru)
@@ -627,7 +620,7 @@ No post
 
 ---
 
-### 2. Post 2
+### 4. Post 4
 **Author:** 1001さん (Haraitai)
 
 ここオンラインゲームがあるよ！
@@ -640,7 +633,7 @@ No post
 
 ---
 
-### 3. 江口 ー さんずい
+### 5. 江口 ー さんずい
 **Author:** 34b6kq
 
 イイ漫画がきっと見つかる
@@ -653,7 +646,7 @@ No post
 
 ---
 
-### 4. セックスしたいやつなんか書いて
+### 6. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
 #### Comments (6)
@@ -673,7 +666,7 @@ No post
 
 ---
 
-### 5. ゲーム出せセックス
+### 7. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
 #### Comments (6)
