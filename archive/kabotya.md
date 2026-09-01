@@ -1,13 +1,13 @@
-最終取得: 2026/09/01 14:01:08
+最終取得: 2026/09/01 14:44:00
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 52
+- **Posts:** 53
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 01, 2026 04:40am
+- **Updated At:** Sep 01, 2026 05:17am
 
 ## 雑談
 
@@ -328,6 +328,9 @@
 
 ### 4. アンダーテールぽしいです
 **Author:** ああああ (h0319096_1)
+
+#### Comments (1)
+- **そこら辺の人** (Sep 01, 2026 05:17am): わかります
 
 #### Additional Information
 - **Created At:** Aug 31, 2026 02:55am
@@ -704,7 +707,18 @@ No post
 
 ## 宣伝
 
-### 1. Post 1
+### 1. 復旧お願いします！
+**Author:** 常時暇人のたけさん (JPsan)
+
+[Attachment 1](https://padlet.com/JPsan/padlet-11oe0dlx9vsegwya?lang=ja)
+
+#### Additional Information
+- **Created At:** Sep 01, 2026 05:08am
+- **Updated At:** Sep 01, 2026 05:08am
+
+---
+
+### 2. Post 2
 **Author:** ミソラノ
 
 [Attachment 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
@@ -715,7 +729,7 @@ No post
 
 ---
 
-### 2. みんなきてね
+### 3. みんなきてね
 **Author:** 仙人@suger (sennin_sugar)
 
 https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQozfVOY7UPTBkpqfD\_-fwTwn\_kxxLOg/exec
@@ -726,7 +740,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 3. Post 3
+### 4. Post 4
 **Author:** 犬
 
 [Attachment 1](https://padlet.com/00221133/padlet-9otqidpsq2a33sru)
@@ -737,7 +751,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** 1001さん (Haraitai)
 
 ここオンラインゲームがあるよ！
@@ -750,7 +764,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 5. 江口 ー さんずい
+### 6. 江口 ー さんずい
 **Author:** 34b6kq
 
 イイ漫画がきっと見つかる
@@ -763,7 +777,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 6. セックスしたいやつなんか書いて
+### 7. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
 #### Comments (6)
@@ -783,7 +797,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 7. ゲーム出せセックス
+### 8. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
 #### Comments (6)
