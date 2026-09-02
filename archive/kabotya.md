@@ -1,17 +1,35 @@
-最終取得: 2026/09/02 08:32:29
+最終取得: 2026/09/02 09:27:53
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 58
+- **Posts:** 61
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 01, 2026 11:25pm
+- **Updated At:** Sep 02, 2026 12:25am
 
 ## 雑談
 
-### 1. チャット（ゆうと、みなと、れお、えいいち、まひろ）
+### 1. 今もずっと動いてる部屋教えてください人多いところがいいです
+**Author:** ちゆ
+
+#### Additional Information
+- **Created At:** Sep 02, 2026 12:25am
+- **Updated At:** Sep 02, 2026 12:25am
+
+---
+
+### 2. 大蛇丸部屋
+**Author:** 大蛇丸 (s1923051_1)
+
+#### Additional Information
+- **Created At:** Sep 02, 2026 12:21am
+- **Updated At:** Sep 02, 2026 12:21am
+
+---
+
+### 3. チャット（ゆうと、みなと、れお、えいいち、まひろ）
 **Author:** れお
 
 [https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing](https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing)
@@ -27,7 +45,7 @@
 
 ---
 
-### 2. 前の土日、何した？
+### 4. 前の土日、何した？
 **Author:** 港
 
 #### Comments (1)
@@ -39,7 +57,7 @@
 
 ---
 
-### 3. みんなおばあちゃんち行った？
+### 5. みんなおばあちゃんち行った？
 **Author:** みなと
 
 #### Comments (3)
@@ -53,7 +71,7 @@
 
 ---
 
-### 4. 雑談
+### 6. 雑談
 **Author:** TENTENNTENN
 
 
@@ -68,7 +86,7 @@
 
 ---
 
-### 5. 学校ってみんなきらい俺台っきらい
+### 7. 学校ってみんなきらい俺台っきらい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (4)
@@ -83,7 +101,7 @@
 
 ---
 
-### 6. 夏休み楽しかった
+### 8. 夏休み楽しかった
 **Author:** みなと
 
 #### Comments (4)
@@ -98,7 +116,7 @@
 
 ---
 
-### 7. geometrydashの定員募集中（10人）
+### 9. geometrydashの定員募集中（10人）
 **Author:** ゆうと
 
 [https://forms.gle/MB8vdXJbKXKy2nG98](https://forms.gle/MB8vdXJbKXKy2nG98)
@@ -111,7 +129,7 @@
 
 ---
 
-### 8. 後ろ見ろ
+### 10. 後ろ見ろ
 **Author:** 犬
 
 #### Comments (1)
@@ -123,7 +141,7 @@
 
 ---
 
-### 9. ビデオ通話
+### 11. ビデオ通話
 **Author:** シラカバ
 
 学校嫌だ
@@ -142,7 +160,7 @@
 
 ---
 
-### 10. あ
+### 12. あ
 **Author:** シラカバ
 
 あ
@@ -159,7 +177,7 @@
 
 ---
 
-### 11. poki
+### 13. poki
 **Author:** 常闇 トワ（不地口手万ディ） (Fleeex)
 
 [Attachment 1](https://poki.io/)
@@ -170,7 +188,7 @@
 
 ---
 
-### 12. まだうごいてんのここwwwwwww
+### 14. まだうごいてんのここwwwwwww
 **Author:** 💍持ち #kgtとプロたんの囲い😙 (c_coa09)
 
 #### Comments (2)
@@ -183,7 +201,7 @@
 
 ---
 
-### 13. 一旦消しました
+### 15. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
 #### Comments (21)
@@ -316,7 +334,16 @@
 
 ## 要求
 
-### 1. ゲームのサイト載せ
+### 1. ゆうと、どうやってけすの？
+**Author:** 港
+
+#### Additional Information
+- **Created At:** Sep 01, 2026 11:37pm
+- **Updated At:** Sep 01, 2026 11:37pm
+
+---
+
+### 2. ゲームのサイト載せ
 **Author:** カゼドリ
 
 [Attachment 1](https://unpkg.com/classroomduck@1.0.29/index.html)
@@ -333,7 +360,7 @@
 
 ---
 
-### 2. インスタできるやつください
+### 3. インスタできるやつください
 **Author:** ０２２３
 
 #### Additional Information
@@ -342,7 +369,7 @@
 
 ---
 
-### 3. 誰か軽いproxyくれ　ブロックされるやつでもいいから
+### 4. 誰か軽いproxyくれ　ブロックされるやつでもいいから
 **Author:** ノハルカ
 
 #### Additional Information
@@ -351,7 +378,7 @@
 
 ---
 
-### 4. ジオメトリーダッシュ作ってください
+### 5. ジオメトリーダッシュ作ってください
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Additional Information
@@ -360,7 +387,7 @@
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** りゅう
 
 フォートナイトぽしいです
@@ -375,7 +402,7 @@
 
 ---
 
-### 6. アンダーテールぽしいです
+### 7. アンダーテールぽしいです
 **Author:** ああああ (h0319096_1)
 
 #### Comments (1)
@@ -387,7 +414,7 @@
 
 ---
 
-### 7. 流行語大賞２０２６ください
+### 8. 流行語大賞２０２６ください
 **Author:** ミズアメ
 
 #### Additional Information
@@ -396,7 +423,7 @@
 
 ---
 
-### 8. いんすたないですか
+### 9. いんすたないですか
 **Author:** う
 
 #### Additional Information
@@ -405,7 +432,7 @@
 
 ---
 
-### 9. お願い
+### 10. お願い
 **Author:** ナナシ
 
 エロい漫画見れるサイト教えて
@@ -419,7 +446,7 @@
 
 ---
 
-### 10. はやく！
+### 11. はやく！
 **Author:** ホシノキ
 
 性教育実習の漫画があるパドレットください
@@ -433,7 +460,7 @@
 
 ---
 
-### 11. 誰かpokiのサイト載せて
+### 12. 誰かpokiのサイト載せて
 **Author:** 匿名
 
 #### Additional Information
@@ -442,13 +469,14 @@
 
 ---
 
-### 12. 誰かURL貼って動画見るやつ教えて
+### 13. 誰かURL貼って動画見るやつ教えて
 **Author:** ユメノ
 
 fernって名前のやつ　履歴消したらきえt
 
-#### Comments (1)
+#### Comments (2)
 - **ぷ** (Aug 31, 2026 01:27am): https://multimedia.easeus.com/jp/online-video-downloader/
+- **あおい** (Sep 01, 2026 11:39pm): これなんかバグって使えん
 
 #### Additional Information
 - **Created At:** Aug 28, 2026 10:13am
@@ -456,7 +484,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 13. 誰かエロ部屋くれ
+### 14. 誰かエロ部屋くれ
 **Author:** 匿名
 
 #### Comments (1)
@@ -468,7 +496,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 14. アニメ見れるサイト欲しい
+### 15. アニメ見れるサイト欲しい
 **Author:** 34b6kq
 
 違法サイトでも全然ええよ
@@ -486,7 +514,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 15. Post 15
+### 16. Post 16
 **Author:** 佐渡まお (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
@@ -503,7 +531,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 16. エロサイトくれ
+### 17. エロサイトくれ
 **Author:** スギノネ
 
 #### Comments (12)
@@ -526,7 +554,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 17. 至急！！！！！
+### 18. 至急！！！！！
 **Author:** スギノネ
 
 保健室のサイト　誰かほしいです！
@@ -558,12 +586,13 @@ fernって名前のやつ　履歴消したらきえt
 ### 1. 巨乳派か貧乳派
 **Author:** ハナノアサ
 
-#### Comments (5)
+#### Comments (6)
 - **長井典子（４９）** (Sep 01, 2026 02:02am): あ
 - **常時暇人のたけさん** (Sep 01, 2026 03:27am): 巨だろ
 - **ナギサノ** (Sep 01, 2026 03:37am): わかる
 - **常時暇人のたけさん** (Sep 01, 2026 04:40am): 巨しかかたん
 - **Anonymous** (Sep 01, 2026 12:16pm): 貧もいいだろ（少6）
+- **ヒノデマル** (Sep 02, 2026 12:18am): ろりしか勝たん
 
 #### Additional Information
 - **Created At:** Aug 31, 2026 04:17am
