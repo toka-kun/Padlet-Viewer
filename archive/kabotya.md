@@ -1,4 +1,4 @@
-最終取得: 2026/09/02 20:41:50
+最終取得: 2026/09/02 22:49:00
 
 # 規制突破の世界
 
@@ -7,7 +7,7 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 70
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 02, 2026 11:02am
+- **Updated At:** Sep 02, 2026 01:10pm
 
 ## 雑談
 
@@ -843,7 +843,7 @@ fernって名前のやつ　履歴消したらきえt
 - **mbappe♯初代つつきの森会員♯狂鳥族２代目** (Sep 01, 2026 08:38am): そうだよ
 
 #### Reactions
-- **Emojis:** 👍 (1) 😄 (1) ❤️ (1)
+- **Emojis:** ❤️ (2) 👍 (1) 😄 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -914,13 +914,14 @@ No post
 ### 2. 学タブで見れるユーチューブほしいですお願いします
 **Author:** ぼちぼちいこか愛好家 (2101038_5)
 
-#### Comments (6)
+#### Comments (7)
 - **かぼちゃ** (Sep 01, 2026 12:59am): https://script.google.com/a/macros/g.bears.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
 - **ぼちぼちいこか愛好家** (Sep 01, 2026 02:35am): ありがとうございます
 - **えいこ** (Sep 01, 2026 04:14am): かぼちゃさんそれでもブロックされたよ
 - **えいこ** (Sep 01, 2026 04:16am): 途中でブロックいっぱいはいるけどこれうったら行けるよぶろっくされたときのうえのところにうってねcanva.com
 - **ぼちぼちいこか愛好家** (Sep 02, 2026 01:01am): すぐホーム画面に戻るんですけどどうしたらいいですか
 - **えいこ** (Sep 02, 2026 01:38am): それを繰り返すしかありませんごめんなさい
+- **マリオ** (Sep 02, 2026 12:52pm): 凄く読み込みが遅いので早くできませんか？
 
 #### Additional Information
 - **Post color:** White
