@@ -1,17 +1,26 @@
-最終取得: 2026/09/02 09:27:53
+最終取得: 2026/09/02 10:24:37
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 61
+- **Posts:** 62
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 02, 2026 12:25am
+- **Updated At:** Sep 02, 2026 01:25am
 
 ## 雑談
 
-### 1. 今もずっと動いてる部屋教えてください人多いところがいいです
+### 1. にしごおり部屋
+**Author:** にしごおり (s1923051_1)
+
+#### Additional Information
+- **Created At:** Sep 02, 2026 01:25am
+- **Updated At:** Sep 02, 2026 01:25am
+
+---
+
+### 2. 今もずっと動いてる部屋教えてください人多いところがいいです
 **Author:** ちゆ
 
 #### Additional Information
@@ -20,8 +29,8 @@
 
 ---
 
-### 2. 大蛇丸部屋
-**Author:** 大蛇丸 (s1923051_1)
+### 3. 大蛇丸部屋
+**Author:** にしごおり (s1923051_1)
 
 #### Additional Information
 - **Created At:** Sep 02, 2026 12:21am
@@ -29,7 +38,7 @@
 
 ---
 
-### 3. チャット（ゆうと、みなと、れお、えいいち、まひろ）
+### 4. チャット（ゆうと、みなと、れお、えいいち、まひろ）
 **Author:** れお
 
 [https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing](https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing)
@@ -45,7 +54,7 @@
 
 ---
 
-### 4. 前の土日、何した？
+### 5. 前の土日、何した？
 **Author:** 港
 
 #### Comments (1)
@@ -57,7 +66,7 @@
 
 ---
 
-### 5. みんなおばあちゃんち行った？
+### 6. みんなおばあちゃんち行った？
 **Author:** みなと
 
 #### Comments (3)
@@ -71,7 +80,7 @@
 
 ---
 
-### 6. 雑談
+### 7. 雑談
 **Author:** TENTENNTENN
 
 
@@ -86,7 +95,7 @@
 
 ---
 
-### 7. 学校ってみんなきらい俺台っきらい
+### 8. 学校ってみんなきらい俺台っきらい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (4)
@@ -101,7 +110,7 @@
 
 ---
 
-### 8. 夏休み楽しかった
+### 9. 夏休み楽しかった
 **Author:** みなと
 
 #### Comments (4)
@@ -116,7 +125,7 @@
 
 ---
 
-### 9. geometrydashの定員募集中（10人）
+### 10. geometrydashの定員募集中（10人）
 **Author:** ゆうと
 
 [https://forms.gle/MB8vdXJbKXKy2nG98](https://forms.gle/MB8vdXJbKXKy2nG98)
@@ -129,7 +138,7 @@
 
 ---
 
-### 10. 後ろ見ろ
+### 11. 後ろ見ろ
 **Author:** 犬
 
 #### Comments (1)
@@ -141,7 +150,7 @@
 
 ---
 
-### 11. ビデオ通話
+### 12. ビデオ通話
 **Author:** シラカバ
 
 学校嫌だ
@@ -160,7 +169,7 @@
 
 ---
 
-### 12. あ
+### 13. あ
 **Author:** シラカバ
 
 あ
@@ -177,7 +186,7 @@
 
 ---
 
-### 13. poki
+### 14. poki
 **Author:** 常闇 トワ（不地口手万ディ） (Fleeex)
 
 [Attachment 1](https://poki.io/)
@@ -188,7 +197,7 @@
 
 ---
 
-### 14. まだうごいてんのここwwwwwww
+### 15. まだうごいてんのここwwwwwww
 **Author:** 💍持ち #kgtとプロたんの囲い😙 (c_coa09)
 
 #### Comments (2)
@@ -201,7 +210,7 @@
 
 ---
 
-### 15. 一旦消しました
+### 16. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
 #### Comments (21)
@@ -615,7 +624,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 3. ブロスタやってる人トロ数書いて
 **Author:** フミダシ
 
-#### Comments (13)
+#### Comments (14)
 - **Anonymous** (Aug 27, 2026 11:52am): 77777
 - **ユメノ** (Aug 28, 2026 10:21am): 20000ちょい
 - **匿名** (Aug 28, 2026 11:12am): 始めたばっかで9000
@@ -629,6 +638,7 @@ fernって名前のやつ　履歴消したらきえt
 - **カゼドリ** (Sep 01, 2026 01:43am): 50000ぐらい
 - **Anonymous** (Sep 01, 2026 12:17pm): 90000ちょい
 - **フユツキ** (Sep 01, 2026 10:23pm): １００００ぐらい
+- **げむちゅう** (Sep 02, 2026 12:30am): 19000ぐらい
 
 #### Additional Information
 - **Created At:** Aug 27, 2026 11:49am
@@ -717,11 +727,12 @@ No post
 ### 2. 学タブで見れるユーチューブほしいですお願いします
 **Author:** ははははははは (2101038_5)
 
-#### Comments (4)
+#### Comments (5)
 - **かぼちゃ** (Sep 01, 2026 12:59am): https://script.google.com/a/macros/g.bears.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
 - **ははははははは** (Sep 01, 2026 02:35am): ありがとうございます
 - **えいこ** (Sep 01, 2026 04:14am): かぼちゃさんそれでもブロックされたよ
 - **えいこ** (Sep 01, 2026 04:16am): 途中でブロックいっぱいはいるけどこれうったら行けるよぶろっくされたときのうえのところにうってねcanva.com
+- **ははははははは** (Sep 02, 2026 01:01am): すぐホーム画面に戻るんですけどどうしたらいいですか
 
 #### Additional Information
 - **Created At:** Sep 01, 2026 12:53am
@@ -794,6 +805,9 @@ No post
 **Author:** ゴリラ
 
 💩
+
+#### Comments (1)
+- **ユリカ** (Sep 02, 2026 01:02am): まんこーまんげーちんちちんげーはなーがさいたらー
 
 #### Additional Information
 - **Created At:** Sep 01, 2026 10:25am
