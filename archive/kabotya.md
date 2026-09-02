@@ -1,13 +1,13 @@
-最終取得: 2026/09/02 18:28:16
+最終取得: 2026/09/02 20:41:50
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 67
+- **Posts:** 70
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 02, 2026 09:23am
+- **Updated At:** Sep 02, 2026 11:02am
 
 ## 雑談
 
@@ -24,6 +24,7 @@
 - **匿名** (Sep 02, 2026 05:30am): ＃学タブでできるゲーム教えて
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 02, 2026 05:28am
 - **Updated At:** Sep 02, 2026 05:28am
 
@@ -40,6 +41,7 @@
 - **Emojis:** ❤️ (1)
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 02, 2026 04:53am
 - **Updated At:** Sep 02, 2026 04:53am
 
@@ -56,6 +58,7 @@
 - **Nannka　Youtube** (Sep 02, 2026 04:57am): やべぇ 
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 02, 2026 04:30am
 - **Updated At:** Sep 02, 2026 04:30am
 
@@ -65,6 +68,7 @@
 **Author:** ちゆ
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 02, 2026 12:25am
 - **Updated At:** Sep 02, 2026 12:25am
 
@@ -81,6 +85,7 @@
 - **カゼドリ** (Sep 01, 2026 06:14am): こんにちは
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 01, 2026 06:14am
 - **Updated At:** Sep 01, 2026 06:14am
 
@@ -93,6 +98,7 @@
 - **えいこ** (Sep 01, 2026 02:28am): りく上の合宿
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 01, 2026 12:39am
 - **Updated At:** Sep 01, 2026 12:39am
 
@@ -108,6 +114,7 @@
 - **Anonymous** (Sep 02, 2026 04:05am): い
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 11:29pm
 - **Updated At:** Aug 31, 2026 11:29pm
 
@@ -123,6 +130,7 @@
 - **カゼドリ** (Sep 01, 2026 06:15am): 💩
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 08:03am
 - **Updated At:** Aug 31, 2026 08:03am
 
@@ -140,6 +148,7 @@
 - **Nannka　Youtube** (Sep 02, 2026 04:58am): おいやばお前
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 05:29am
 - **Updated At:** Aug 31, 2026 05:29am
 
@@ -156,6 +165,7 @@
 - **ヤクシカブト** (Sep 02, 2026 04:50am): せっくsした
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 05:26am
 - **Updated At:** Sep 01, 2026 12:23am
 
@@ -169,6 +179,7 @@
 [Attachment 1](https://forms.gle/MB8vdXJbKXKy2nG98)
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 04:15am
 - **Updated At:** Aug 31, 2026 04:42am
 
@@ -181,6 +192,7 @@
 - **ええいいここえいこ（えいこってよんでね）** (Aug 31, 2026 05:28am): こわ
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 03:14am
 - **Updated At:** Aug 31, 2026 03:14am
 
@@ -200,6 +212,7 @@
 - **Anonymous** (Aug 31, 2026 09:40pm): まじそれな
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 01:10am
 - **Updated At:** Aug 31, 2026 01:10am
 
@@ -217,6 +230,7 @@
 - **ゲーム** (Sep 01, 2026 02:51am): 誰？全員
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 01:07am
 - **Updated At:** Aug 31, 2026 01:07am
 
@@ -228,6 +242,7 @@
 [Attachment 1](https://poki.io/)
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 28, 2026 10:34pm
 - **Updated At:** Aug 28, 2026 10:34pm
 
@@ -241,6 +256,7 @@
 - **💍持ち #kgtとプロたんの囲い😙** (Aug 28, 2026 04:22pm): 驚きだわ
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 28, 2026 02:56pm
 - **Updated At:** Sep 01, 2026 12:23am
 
@@ -280,6 +296,7 @@
 - **Emojis:** 😭 (7) 👍 (6) 🥲 (1) 😆 (1)
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 26, 2026 04:34am
 - **Updated At:** Aug 26, 2026 04:34am
 
@@ -301,6 +318,7 @@
 - **ソラハル** (Sep 02, 2026 07:24am): まじさいこー
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 01, 2026 06:11am
 - **Updated At:** Sep 02, 2026 08:16am
 
@@ -310,6 +328,7 @@
 **Author:** ツキミ
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 02, 2026 08:31am
 - **Updated At:** Sep 02, 2026 08:31am
 
@@ -327,6 +346,7 @@
 - **ソラハル** (Sep 02, 2026 07:23am): ちょっとむずいって。
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 01, 2026 04:19am
 - **Updated At:** Sep 01, 2026 04:19am
 
@@ -340,6 +360,7 @@
 - **ノハルカ** (Sep 01, 2026 03:19am): （クロームブックでしか無理かも）
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 01, 2026 02:30am
 - **Updated At:** Sep 01, 2026 02:30am
 
@@ -357,6 +378,7 @@
 - **ゲーム** (Sep 01, 2026 04:08am): たぶんうそやったらごめん
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 01, 2026 12:40am
 - **Updated At:** Sep 01, 2026 12:40am
 
@@ -373,6 +395,7 @@
 - **ええいいここえいこ（えいこってよんでね）** (Aug 31, 2026 11:28pm): 学校でできなかった
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 05:25am
 - **Updated At:** Aug 31, 2026 05:25am
 
@@ -385,6 +408,7 @@
 - **りゅう** (Aug 31, 2026 08:13am): それな
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 04:20am
 - **Updated At:** Aug 31, 2026 04:20am
 
@@ -407,6 +431,7 @@
 - **Anonymous** (Sep 02, 2026 07:50am): 桃鉄のやり方教えて 
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 30, 2026 06:53am
 - **Updated At:** Aug 31, 2026 01:23am
 
@@ -414,61 +439,112 @@
 
 ## 要求
 
-### 1. ロブロックスとYouTubeのリンク載せて
+### 1. 誰か一緒にお話しませんか？誰でもどうぞ！
+**Author:** ソラハル
+
+みんなで、一緒に仲良く話しましょう。[https://scratch.mit.edu/projects/556926076/fullscreen/](https://scratch.mit.edu/projects/556926076/fullscreen/)
+
+これはオンラインゲームです。みんなで楽しもう！
+
+[Attachment 1](https://scratch.mit.edu/projects/556926076/fullscreen/)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 02, 2026 10:27am
+- **Updated At:** Sep 02, 2026 10:28am
+
+---
+
+### 2. あ
+**Author:** チンアナゴ
+
+#### Additional Information
+- **Post color:** Yellow
+- **Created At:** Sep 02, 2026 10:10am
+- **Updated At:** Sep 02, 2026 10:10am
+
+---
+
+### 3. エロ部屋くれ
+**Author:** ツキノト
+
+#### Comments (7)
+- **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
+- **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
+- **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
+- **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
+- **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
+- **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
+- **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 02, 2026 09:34am
+- **Updated At:** Sep 02, 2026 09:34am
+
+---
+
+### 4. ロブロックスとYouTubeのリンク載せて
 **Author:** マリオ
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 02, 2026 08:05am
 - **Updated At:** Sep 02, 2026 08:05am
 
 ---
 
-### 2. ほかのゲームサイト乗せて
+### 5. ほかのゲームサイト乗せて
 **Author:** ツキミ
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 02, 2026 07:21am
 - **Updated At:** Sep 02, 2026 07:21am
 
 ---
 
-### 3. ゆうと、どうやってけすの？
+### 6. ゆうと、どうやってけすの？
 **Author:** 港
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 01, 2026 11:37pm
 - **Updated At:** Sep 01, 2026 11:37pm
 
 ---
 
-### 4. インスタできるやつください
+### 7. インスタできるやつください
 **Author:** ０２２３
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 01, 2026 05:47am
 - **Updated At:** Sep 01, 2026 05:47am
 
 ---
 
-### 5. 誰か軽いproxyくれ　ブロックされるやつでもいいから
+### 8. 誰か軽いproxyくれ　ブロックされるやつでもいいから
 **Author:** ノハルカ
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 01, 2026 03:18am
 - **Updated At:** Sep 01, 2026 03:18am
 
 ---
 
-### 6. ジオメトリーダッシュ作ってください
+### 9. ジオメトリーダッシュ作ってください
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 11:29pm
 - **Updated At:** Aug 31, 2026 11:29pm
 
 ---
 
-### 7. Post 7
+### 10. Post 10
 **Author:** りゅう
 
 フォートナイトぽしいです
@@ -478,42 +554,46 @@
 - **えいこ** (Sep 01, 2026 04:10am): ほしい
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 08:03am
 - **Updated At:** Aug 31, 2026 08:03am
 
 ---
 
-### 8. アンダーテールぽしいです
+### 11. アンダーテールぽしいです
 **Author:** ああああ (h0319096_1)
 
 #### Comments (1)
 - **そこら辺の人** (Sep 01, 2026 05:17am): わかります
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 02:55am
 - **Updated At:** Aug 31, 2026 02:55am
 
 ---
 
-### 9. 流行語大賞２０２６ください
+### 12. 流行語大賞２０２６ください
 **Author:** ミズアメ
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 02:14am
 - **Updated At:** Aug 31, 2026 02:14am
 
 ---
 
-### 10. いんすたないですか
+### 13. いんすたないですか
 **Author:** う
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 01:23am
 - **Updated At:** Aug 31, 2026 01:29am
 
 ---
 
-### 11. お願い
+### 14. お願い
 **Author:** ナナシ
 
 エロい漫画見れるサイト教えて
@@ -522,12 +602,13 @@
 - **シオホシ** (Aug 30, 2026 11:06pm): https://script.google.com/macros/s/AKfycbyw3eCNyqJ_NhBXp6Dm-7HpJPYPJsIUP7u37wNRJ-FpGSCJuq_wkb80i0qKa5jBRrA2/exec
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 30, 2026 08:03pm
 - **Updated At:** Aug 31, 2026 01:29am
 
 ---
 
-### 12. はやく！
+### 15. はやく！
 **Author:** ホシノキ
 
 性教育実習の漫画があるパドレットください
@@ -536,21 +617,23 @@
 - **匿名** (Aug 29, 2026 12:31pm): 誰か保健室いれて
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 29, 2026 03:21am
 - **Updated At:** Aug 31, 2026 01:24am
 
 ---
 
-### 13. 誰かpokiのサイト載せて
+### 16. 誰かpokiのサイト載せて
 **Author:** 匿名
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 28, 2026 11:47am
 - **Updated At:** Aug 31, 2026 01:30am
 
 ---
 
-### 14. 誰かURL貼って動画見るやつ教えて
+### 17. 誰かURL貼って動画見るやつ教えて
 **Author:** ユメノ
 
 fernって名前のやつ　履歴消したらきえt
@@ -560,24 +643,26 @@ fernって名前のやつ　履歴消したらきえt
 - **あおい** (Sep 01, 2026 11:39pm): これなんかバグって使えん
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 28, 2026 10:13am
 - **Updated At:** Aug 31, 2026 01:26am
 
 ---
 
-### 15. 誰かエロ部屋くれ
+### 18. 誰かエロ部屋くれ
 **Author:** 匿名
 
 #### Comments (1)
 - **ユメノ** (Aug 28, 2026 10:26am): https://www.google.com/goto?url=CAESYwHrOzAViPNkKkw4IreVZzIFWN-q5mAIGTxNgK_t6zVjVEEfKSNYs2Px8wuK7LTPkEj04bweDy9cYMh8jUi6ZrCRfrpyPPrFGm6Rc_roXyQbuDV1VyQXZxme28SoHD1PkD0x3Q
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 28, 2026 07:09am
 - **Updated At:** Aug 31, 2026 01:25am
 
 ---
 
-### 16. アニメ見れるサイト欲しい
+### 19. アニメ見れるサイト欲しい
 **Author:** 34b6kq
 
 違法サイトでも全然ええよ
@@ -590,12 +675,13 @@ fernって名前のやつ　履歴消したらきえt
 - **ツユノハ** (Aug 31, 2026 12:30am): https://sites.google.com/view/dominumnetworkv2/other/change-logsこれのうえのポップコーンのマーク押してあにめって英語で書いてるところ押したらみれる
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 28, 2026 04:16am
 - **Updated At:** Aug 31, 2026 01:30am
 
 ---
 
-### 17. Post 17
+### 20. Post 20
 **Author:** 佐渡まお (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
@@ -607,12 +693,13 @@ fernって名前のやつ　履歴消したらきえt
 - **Emojis:** 😆 (1)
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 27, 2026 11:48pm
 - **Updated At:** Aug 31, 2026 01:30am
 
 ---
 
-### 18. エロサイトくれ
+### 21. エロサイトくれ
 **Author:** スギノネ
 
 #### Comments (12)
@@ -630,12 +717,13 @@ fernって名前のやつ　履歴消したらきえt
 - **ハナノアサ** (Aug 31, 2026 03:48am): オナニーの動画くれ
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 27, 2026 10:15am
 - **Updated At:** Aug 31, 2026 01:25am
 
 ---
 
-### 19. 至急！！！！！
+### 22. 至急！！！！！
 **Author:** スギノネ
 
 保健室のサイト　誰かほしいです！
@@ -657,6 +745,7 @@ fernって名前のやつ　履歴消したらきえt
 - **カゼドリ** (Sep 01, 2026 05:48am): お願いします
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 27, 2026 10:14am
 - **Updated At:** Aug 31, 2026 01:25am
 
@@ -671,6 +760,7 @@ fernって名前のやつ　履歴消したらきえt
 - **マリオ** (Sep 02, 2026 09:23am): 810
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 02, 2026 09:03am
 - **Updated At:** Sep 02, 2026 09:03am
 
@@ -691,6 +781,7 @@ fernって名前のやつ　履歴消したらきえt
 - **ハネミ** (Sep 02, 2026 08:52am): お前が死ね
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 04:17am
 - **Updated At:** Aug 31, 2026 04:17am
 
@@ -705,6 +796,7 @@ fernって名前のやつ　履歴消したらきえt
 - **ハネミ** (Sep 02, 2026 08:53am): 思春期じゃない子供だね！
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 30, 2026 08:28am
 - **Updated At:** Aug 31, 2026 01:31am
 
@@ -731,6 +823,7 @@ fernって名前のやつ　履歴消したらきえt
 - **Nannka　Youtube** (Sep 02, 2026 04:40am): 7万トロ
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 27, 2026 11:49am
 - **Updated At:** Sep 01, 2026 12:23am
 
@@ -753,6 +846,7 @@ fernって名前のやつ　履歴消したらきえt
 - **Emojis:** 👍 (1) 😄 (1) ❤️ (1)
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 28, 2026 10:04am
 - **Updated At:** Aug 28, 2026 10:04am
 
@@ -779,6 +873,7 @@ No post
 - **カナタビ** (Sep 01, 2026 01:38am): 例:　youtube.com
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 12:21am
 - **Updated At:** Aug 31, 2026 12:21am
 
@@ -796,6 +891,7 @@ No post
 - **ニック** (Aug 29, 2026 04:34am): わかりません
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 27, 2026 02:34am
 - **Updated At:** Aug 27, 2026 02:34am
 
@@ -809,6 +905,7 @@ No post
 [Attachment 1](https://www.google.com/goto?url=CAESYwHrOzAVnYlw3x7WtbBQC3UOD8WLbTUdu014TNrH7STVWOLamMLI8WLXcksfgYWVJFBZONffy3HB7584_mm4AAJb4PYoLWOTIIe23SkcABM89VwZ41AfHzx4WXEQvbV9jVLw4Q)
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 01, 2026 12:58am
 - **Updated At:** Sep 01, 2026 12:58am
 
@@ -826,6 +923,7 @@ No post
 - **えいこ** (Sep 02, 2026 01:38am): それを繰り返すしかありませんごめんなさい
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 01, 2026 12:53am
 - **Updated At:** Sep 01, 2026 12:53am
 
@@ -840,6 +938,7 @@ No post
 - **えいこ** (Sep 01, 2026 04:17am): 見れなかった
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 28, 2026 04:13am
 - **Updated At:** Aug 28, 2026 04:13am
 
@@ -853,6 +952,7 @@ No post
 [Attachment 1](https://www.youtube.com/watch?v=frjtBcNI6dIcanva.com)
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 27, 2026 11:38pm
 - **Updated At:** Aug 28, 2026 12:21am
 
@@ -866,6 +966,7 @@ No post
 [Attachment 1](https://www.youtube.com/watch?v=g3_XUbK-PP0canva.com)
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 27, 2026 11:36pm
 - **Updated At:** Aug 28, 2026 12:22am
 
@@ -886,6 +987,7 @@ No post
 - **ハネミ** (Sep 02, 2026 08:54am): Youtube見れるやつ欲しいか？
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 27, 2026 07:00am
 - **Updated At:** Aug 28, 2026 12:22am
 
@@ -902,6 +1004,7 @@ No post
 - **ユリカ** (Sep 02, 2026 01:02am): まんこーまんげーちんちちんげーはなーがさいたらー
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 01, 2026 10:25am
 - **Updated At:** Sep 01, 2026 10:25am
 
@@ -914,10 +1017,12 @@ No post
 
 [Attachment 1](https://padlet.com/akiramenaidedonnatokimo/padlet-kerg40vcf1nvu3eh?lang=ja)
 
-#### Comments (1)
+#### Comments (2)
 - **WEI SHENG JI** (Sep 02, 2026 04:11am): これ何うんこ？
+- **Zest Amplifier** (Sep 02, 2026 11:02am): しらん
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 01, 2026 08:37am
 - **Updated At:** Sep 01, 2026 08:37am
 
@@ -929,6 +1034,7 @@ No post
 [Attachment 1](https://padlet.com/JPsan/padlet-11oe0dlx9vsegwya?lang=ja)
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Sep 01, 2026 05:08am
 - **Updated At:** Sep 01, 2026 05:08am
 
@@ -940,6 +1046,7 @@ No post
 [Attachment 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 07:07am
 - **Updated At:** Sep 01, 2026 12:22am
 
@@ -951,6 +1058,7 @@ No post
 https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQozfVOY7UPTBkpqfD\_-fwTwn\_kxxLOg/exec
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 05:50am
 - **Updated At:** Sep 01, 2026 12:22am
 
@@ -962,6 +1070,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 [Attachment 1](https://padlet.com/00221133/padlet-9otqidpsq2a33sru)
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 31, 2026 03:14am
 - **Updated At:** Aug 31, 2026 03:14am
 
@@ -975,6 +1084,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 [Attachment 1](https://padlet.com/Haraitai/padlet-jxmgpewlqr3h518c)
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 30, 2026 03:19pm
 - **Updated At:** Aug 30, 2026 03:19pm
 
@@ -988,6 +1098,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 [Attachment 1](https://padlet.com/popular524/vault-tec-otui6ff3idqwlacl)
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 28, 2026 04:18am
 - **Updated At:** Aug 28, 2026 04:18am
 
@@ -1008,6 +1119,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 - **Emojis:** 👎 (1)
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 27, 2026 06:57am
 - **Updated At:** Aug 27, 2026 06:57am
 
@@ -1025,6 +1137,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 - **ニック** (Aug 28, 2026 01:18pm): わかりました
 
 #### Additional Information
+- **Post color:** White
 - **Created At:** Aug 27, 2026 05:51am
 - **Updated At:** Aug 27, 2026 05:51am
 
