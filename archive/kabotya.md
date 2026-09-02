@@ -1,4 +1,4 @@
-最終取得: 2026/09/02 10:24:37
+最終取得: 2026/09/02 10:26:46
 
 # 規制突破の世界
 
@@ -7,12 +7,18 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 62
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 02, 2026 01:25am
+- **Updated At:** Sep 02, 2026 01:26am
 
 ## 雑談
 
 ### 1. にしごおり部屋
 **Author:** にしごおり (s1923051_1)
+
+#### Comments (1)
+- **にしごおり** (Sep 02, 2026 01:26am): Shainingufamirinisida✨
+
+#### Reactions
+- **Emojis:** 👍 (1)
 
 #### Additional Information
 - **Created At:** Sep 02, 2026 01:25am
