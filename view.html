@@ -127,6 +127,7 @@
         .card.color-green  { border-left: 3px solid #3fb950; background: linear-gradient(180deg, rgba(63,185,80,0.1) 0%, rgba(13,17,23,0) 50%); }
         .card.color-blue   { border-left: 3px solid #58a6ff; background: linear-gradient(180deg, rgba(88,166,255,0.1) 0%, rgba(13,17,23,0) 50%); }
         .card.color-purple { border-left: 3px solid #bc8cff; background: linear-gradient(180deg, rgba(188,140,255,0.1) 0%, rgba(13,17,23,0) 50%); }
+        .card.color-black  { border-left: 3px solid #6e7681; background: linear-gradient(180deg, rgba(110,118,129,0.15) 0%, rgba(13,17,23,0) 50%); }
 
         /* タイトル・ヘッダー（作成者・日付） */
         .card-title {
@@ -166,6 +167,14 @@
             border-radius: 4px; border: 1px solid #30363d;
             display: block;
         }
+        .attachment-area video.attached-video,
+        .attachment-area audio.attached-audio {
+            max-width: 100%;
+            border-radius: 4px; border: 1px solid #30363d;
+            display: block;
+            background: #010409;
+        }
+        .attachment-area audio.attached-audio { width: 100%; height: 40px; }
 
         /* 共通ボタンスタイル */
         .action-link {
@@ -564,6 +573,14 @@
             return rawStr;
         }
 
+        // 添付ファイルのURL拡張子からメディア種別を判定（画像・動画・音声・その他）
+        function getMediaType(url) {
+            if (/\.(jpeg|jpg|gif|png|webp|bmp|svg)(?:\?.*|#.*)?$/i.test(url)) return 'image';
+            if (/\.(mp4|mov|webm|m4v|ogv)(?:\?.*|#.*)?$/i.test(url)) return 'video';
+            if (/\.(mp3|wav|m4a|aac|ogg|flac)(?:\?.*|#.*)?$/i.test(url)) return 'audio';
+            return 'other';
+        }
+
         function parseCard(text) {
             const lines = text.trim().split('\n');
             const title = lines[0].trim(); 
@@ -711,29 +728,31 @@
 
             // パターン1: ![alt](url) -> 全てのMarkdown画像。拡張子が無くても!があれば画像扱い
             content = content.replace(/!\[(.*?)\]\((.*?)\)/gi, (match, alt, url) => {
-                attachments.push({ url: url, isImage: true, alt: alt });
+                attachments.push({ url: url, type: 'image', alt: alt });
                 return ''; 
             });
 
-            // パターン2: [Attachment 1](url) や [添付ファイル 2](url) -> 画像かどうかは拡張子で判定
+            // パターン2: [Attachment 1](url) や [添付ファイル 2](url) -> 画像・動画・音声かは拡張子で判定
             content = content.replace(/\[((?:Attachment|添付ファイル)(?:\s*\d+)?)\]\((.*?)\)/gi, (match, alt, url) => {
-                let isImg = /\.(jpeg|jpg|gif|png|webp|bmp|svg)(?:\?.*|#.*)?$/i.test(url);
-                attachments.push({ url: url, isImage: isImg, alt: alt });
+                attachments.push({ url: url, type: getMediaType(url), alt: alt });
                 return '';
             });
 
-            // パターン3: [text](url) -> テキストがURLそのもの、または「https://」等が省略されたURLの場合
-            content = content.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/gi, (match, linkText, url) => {
+            // パターン3: 行全体が「[url](url)」のみで構成される場合 -> リンク単体の投稿として添付ファイル扱い
+            // （リストの項目「- [url](url)」や文中に埋め込まれたリンクはここでは対象外とし、本文にそのまま残す）
+            content = content.replace(/^[ \t]*\[([^\]]+)\]\((https?:\/\/[^\)]+)\)[ \t]*$/gm, (match, linkText, url) => {
                 let cleanText = linkText.trim().replace(/^https?:\/\//i, '').replace(/\/$/, '');
                 let cleanUrl = url.trim().replace(/^https?:\/\//i, '').replace(/\/$/, '');
                 
                 if (cleanText === cleanUrl) {
-                    let isImg = /\.(jpeg|jpg|gif|png|webp|bmp|svg)(?:\?.*|#.*)?$/i.test(url);
-                    attachments.push({ url: url, isImage: isImg, alt: linkText });
+                    attachments.push({ url: url, type: getMediaType(url), alt: linkText });
                     return '';
                 }
                 return match;
             });
+
+            // 同一URLが複数パターンで重複抽出された場合（本文の裸リンクと明示的なAttachment表記が同じURLを指す等）は1件にまとめる
+            attachments = attachments.filter((att, idx, arr) => arr.findIndex(a => a.url === att.url) === idx);
 
             return {
                 title: title,
@@ -762,6 +781,7 @@
                 else if (c.includes('green') || c.includes('グリーン')) colorClass = 'color-green';
                 else if (c.includes('blue') || c.includes('ブルー')) colorClass = 'color-blue';
                 else if (c.includes('purple') || c.includes('パープル')) colorClass = 'color-purple';
+                else if (c.includes('black') || c.includes('ブラック') || c.includes('黒')) colorClass = 'color-black';
             }
             el.className = `card ${colorClass}`;
 
@@ -780,9 +800,15 @@
                 
                 if (data.attachments) {
                     data.attachments.forEach(att => {
-                        if (att.isImage) {
+                        if (att.type === 'image') {
                             mediaHtml += `<img src="${escapeHtml(att.url)}" alt="Attachment" class="attached-image">`;
                             mediaHtml += `<a href="${escapeHtml(att.url)}" target="_blank" class="action-link">🔗 画像を開く</a>`;
+                        } else if (att.type === 'video') {
+                            mediaHtml += `<video src="${escapeHtml(att.url)}" class="attached-video" controls preload="metadata"></video>`;
+                            mediaHtml += `<a href="${escapeHtml(att.url)}" target="_blank" class="action-link">🔗 動画を開く</a>`;
+                        } else if (att.type === 'audio') {
+                            mediaHtml += `<audio src="${escapeHtml(att.url)}" class="attached-audio" controls preload="metadata"></audio>`;
+                            mediaHtml += `<a href="${escapeHtml(att.url)}" target="_blank" class="action-link">🔗 音声を開く</a>`;
                         } else {
                             const encodedUrl = encodeURIComponent(att.url);
                             const faviconUrl = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${encodedUrl}&size=64`;
