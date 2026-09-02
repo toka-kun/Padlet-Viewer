@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Viewer</title>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked@18.0.11/marked.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
     
     <style>
@@ -393,8 +393,13 @@
         const markdownUrl = `/archive/${boardParam}.md`;
 
         const renderer = new marked.Renderer();
-        renderer.link = function(href, title, text) {
-            return `<a href="${href}" target="_blank" rel="noopener noreferrer">${text}</a>`;
+        // marked v5以降、renderer.linkは (href, title, text) ではなく
+        // { href, title, tokens } という単一オブジェクトを受け取る仕様に変更されている。
+        // 旧仕様のままだとhrefがオブジェクト、textがundefinedになり、
+        // 本文中のリンクが軒並み「undefined」と表示されてしまう。
+        renderer.link = function({ href, title, tokens }) {
+            const text = this.parser.parseInline(tokens);
+            return `<a href="${href}" target="_blank" rel="noopener noreferrer"${title ? ` title="${title}"` : ''}>${text}</a>`;
         };
         marked.setOptions({ renderer: renderer, breaks: true });
 
