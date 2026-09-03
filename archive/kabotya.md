@@ -1,4 +1,4 @@
-最終取得: 2026/09/03 14:01:33
+最終取得: 2026/09/03 15:18:50
 
 # 規制突破の世界
 
@@ -7,16 +7,18 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 76
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 03, 2026 04:58am
+- **Updated At:** Sep 03, 2026 06:10am
 
 ## 雑談
 
 ### 1. 音楽聴けるサイトください（学校のダブレット）
 **Author:** Nannka　Youtube (s1923051_1)
 
-#### Comments (2)
+#### Comments (4)
 - **Anonymous** (Sep 03, 2026 03:19am): スマホで聞けば？何歳でちゅか？
 - **アシカビ** (Sep 03, 2026 04:02am): 　
+- **Anonymous** (Sep 03, 2026 05:11am): あっぷるみゅーじっく
+- **Anonymous** (Sep 03, 2026 06:02am): 余計なこと言うな「あっぷるみゅーじっく」…ひらがな？ダッセーなカタカナ変換しろぼけ
 
 #### Additional Information
 - **Post color:** White
@@ -32,11 +34,13 @@
 
 [Attachment 1](https://padlet.com/r0245154/4-s0236wy5caguhuuhyzm8)
 
-#### Comments (4)
+#### Comments (6)
 - **匿名** (Sep 02, 2026 05:29am): まじではいって
 - **匿名** (Sep 02, 2026 05:29am): まじではいって
 - **匿名** (Sep 02, 2026 05:30am): ＃学タブでできるゲーム教えて
 - **ヤクシカブト** (Sep 03, 2026 02:29am): こんにちは
+- **Anonymous** (Sep 03, 2026 05:12am): ちんぽ
+- **Anonymous** (Sep 03, 2026 06:10am): ゲス野郎ども覚悟しろ  入ったるで重くならないのは知ってる  スクロールした時点でお前の負け諦めて「雑談」見るのやめて「ゲームサイト」見な  永久に続くわけではないここまで来たならそりゃもうストーカーだよクソッタレ  もはやここまでか…君の勝ち　  君は救世主だ！ストーカーの域を超えた！the end
 
 #### Additional Information
 - **Post color:** White
@@ -155,13 +159,14 @@
 ### 10. 学校ってみんなきらい俺台っきらい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
-#### Comments (6)
+#### Comments (7)
 - **ええいいここえいこ（えいこってよんでね）** (Aug 31, 2026 05:29am): 大の字間違った
 - **ブロスタ** (Aug 31, 2026 05:34am): 先生うざすぎ
 - **ええいいここえいこ（えいこってよんでね）** (Aug 31, 2026 11:27pm): それな
 - **カゼドリ** (Sep 01, 2026 05:53am): 先生きらーい
 - **ヤクシカブト** (Sep 02, 2026 04:52am): セックスした
 - **Nannka　Youtube** (Sep 02, 2026 04:58am): おいやばお前
+- **Anonymous** (Sep 03, 2026 05:04am): 「学校がだるい」「行きたくない」ってわざわざネットに書き込んで、同じレベルの仲間見つけて安心してるの、本当に時間の無駄遣いがお上手ですね。だるい言いながら、わざわざスマホ開いて、文字入力して、他人の愚痴に共感するだけのエネルギーは残ってるんだ？その有り余るバイタリティがあるなら、大人しく学校行くか、いっそ全力でサボって自分の好きなことでもすればいいのに。ここで傷の舐め合いをしたところで、明日も明後日もその「だるい学校」は消えてくれないし、あなたの人生の貴重な1日が無駄に消費されてるだけですよ。……まあ、本当に限界を迎えてガチで病んだら、それこそ「だるい」じゃ済まないくらい心身が死ぬから、そこだけは手遅れになる前に自分でブレーキかけなよ。でも、ただの甘えや現実逃避で言ってるだけなら、いつまでもここでウジウジ日和ってないで、さっさと現実と向き合ったらどうですか？
 
 #### Additional Information
 - **Post color:** White
@@ -219,13 +224,14 @@
 
 学校嫌だ
 
-#### Comments (6)
+#### Comments (7)
 - **ミズノネ** (Aug 31, 2026 01:50am): 明日から学校始まる
 - **Japan** (Aug 31, 2026 06:00am): Totally.
 - **ゲーム** (Aug 31, 2026 06:29am): あああああああ
 - **Anonymous** (Aug 31, 2026 06:37am): 学校ダルスンギ 
 - **初夏** (Aug 31, 2026 07:26am): 明日から学校。終わってる。
 - **Anonymous** (Aug 31, 2026 09:40pm): まじそれな
+- **Anonymous** (Sep 03, 2026 05:07am): ネットの片隅で「だるい」って言い合って安心してるの、義務教育の敗北って感じで本当に味わい深い。せいぜいそこで、同じレベルの仲間同士仲良く慰め合っててよ。
 
 #### Additional Information
 - **Post color:** White
@@ -328,7 +334,7 @@
 
 [Attachment 1](https://unpkg.com/classroomduck@1.0.29/index.html)
 
-#### Comments (7)
+#### Comments (8)
 - **ミドリネ** (Sep 01, 2026 10:01am): あっざっす
 - **ナミユメ** (Sep 01, 2026 10:32am): マジてんきゅー
 - **mbappe♯初代つつきの森会員♯狂鳥族２代目** (Sep 01, 2026 11:44am): てんきゅー
@@ -336,6 +342,7 @@
 - **神** (Sep 02, 2026 04:17am): ナイスー
 - **ソラハル** (Sep 02, 2026 07:24am): まじさいこー
 - **えいこ** (Sep 03, 2026 12:36am): 神
+- **匿名1** (Sep 03, 2026 05:49am): いいね
 
 #### Additional Information
 - **Post color:** White
@@ -398,12 +405,13 @@
 
 [Attachment 1](https://planet.mblock.cc/project/7857149)
 
-#### Comments (5)
+#### Comments (6)
 - **えいこ** (Sep 01, 2026 04:20am): いいねも押してね
 - **えいこ** (Sep 01, 2026 11:25pm): コメント書いて
 - **えいこ** (Sep 01, 2026 11:25pm): たのしいよ
 - **ソラハル** (Sep 02, 2026 07:23am): ちょっとむずいって。
 - **えいこ** (Sep 03, 2026 12:35am): スペースキーでジャンプ六ケットはスペースキー押したら上に上がれて話したら下に上がれるよ
+- **おおぬき** (Sep 03, 2026 05:20am): dekinai
 
 #### Additional Information
 - **Post color:** White
@@ -415,9 +423,10 @@
 ### 7. ブロックの解除方法知ってる人いたら教えて
 **Author:** えいこ
 
-#### Comments (2)
+#### Comments (3)
 - **ゆきつばさ** (Sep 01, 2026 03:12am): シャットダウン繰り返す
 - **ノハルカ** (Sep 01, 2026 03:19am): （クロームブックでしか無理かも）
+- **おおぬき** (Sep 03, 2026 05:21am): 無理になった
 
 #### Additional Information
 - **Post color:** White
@@ -478,7 +487,7 @@
 ### 11. 誰かあああああゲームのサイトできるだけほしいいいいいいいいいい
 **Author:** フミアト
 
-#### Comments (11)
+#### Comments (12)
 - **あ** (Aug 31, 2026 02:23am): https://script.google.com/a/macros/g.edi.akashi.hyogo.jp/s/AKfycbyTR5aZD028qJv9rwEBKGFHceFoC2mSqFOg39SnpcyGyHSclQxP5BBZ-f_9scQx6ANW/exec縦画面でぶろすたできる
 - **あ** (Aug 31, 2026 02:24am): https://www.culinaryschools.org/kids-games/stickman-brawler-advanced/
 - **あ** (Aug 31, 2026 02:25am): https://threejs.org
@@ -490,6 +499,7 @@
 - **初夏** (Aug 31, 2026 06:28am): 「このゲーム楽し過ぎで滅」はないって。笑笑
 - **ああああ** (Sep 02, 2026 02:16am): アンテ欲しい
 - **Anonymous** (Sep 02, 2026 07:50am): 桃鉄のやり方教えて 
+- **Anonymous** (Sep 03, 2026 06:01am): くだらないことで笑って
 
 #### Additional Information
 - **Post color:** White
@@ -529,7 +539,7 @@
 ### 3. エロ部屋くれ
 **Author:** ツキノト
 
-#### Comments (10)
+#### Comments (12)
 - **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
 - **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
 - **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
@@ -540,6 +550,8 @@
 - **Anonymous** (Sep 03, 2026 03:35am): どっかのサイトで必死に『やりたい』とか言い合って、内輪で盛り上がってたんだ？ 誰も興味のない性癖をわざわざここに書き込んで承認欲求を満たそうとするその健気な姿、本当に涙ぐましいね。日本の性のタブーについて高尚に語りたいのかもしれないけど、あなたのやってることはただの『便所の落書き』レベル。ここにそんな無駄なエネルギーを費やしてる時間があるなら、少しは現実の自分を磨く努力をしたら？ あ、現実では相手にされないからここに書いてるのか。ごめんごめん。
 - **おなべさん(新垢** (Sep 03, 2026 04:27am): 正論
 - **Anonymous** (Sep 03, 2026 04:36am): 長文ニキさんへオープンに話しにくい『性のタブー』があるからこそ、こうしたプラットフォームで意見を言い合うことには価値があるはずです。公の場で言えないからと全てを思考停止して思考を押し込めることの方が、多様な価値観が認められる現代においては不自然ではないでしょうか。あなたの目には愚かに映ったのかもしれませんが、タブーに触れること自体を悪とする姿勢こそ、思考の放棄だと思います。
+- **Anonymous** (Sep 03, 2026 05:51am): あーここにもいたのか！おなべさん！ 
+- **Anonymous** (Sep 03, 2026 05:55am): わしゃもう20歳じゃよ」って送った人だよワイの名前　ホシウタです〜
 
 #### Additional Information
 - **Post color:** White
@@ -643,6 +655,9 @@
 ### 12. 流行語大賞２０２６ください
 **Author:** ミズアメ
 
+#### Comments (1)
+- **Anonymous** (Sep 03, 2026 05:57am): くたばれ…とでもいうと思った？教えてあげようかゲス野郎
+
 #### Additional Information
 - **Post color:** White
 - **Created At:** Aug 31, 2026 02:14am
@@ -680,8 +695,9 @@
 
 性教育実習の漫画があるパドレットください
 
-#### Comments (1)
+#### Comments (2)
 - **匿名** (Aug 29, 2026 12:31pm): 誰か保健室いれて
+- **Anonymous** (Sep 03, 2026 05:58am): えーぶいみろやあほながき！
 
 #### Additional Information
 - **Post color:** White
@@ -692,6 +708,9 @@
 
 ### 16. 誰かpokiのサイト載せて
 **Author:** 匿名
+
+#### Comments (1)
+- **Anonymous** (Sep 03, 2026 05:58am): 良くないよ　人が死ぬの見ておもろいの？死なないと分からないんか？
 
 #### Additional Information
 - **Post color:** White
@@ -839,7 +858,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 2. 巨乳派か貧乳派
 **Author:** ハナノアサ
 
-#### Comments (12)
+#### Comments (14)
 - **長井典子（４９）** (Sep 01, 2026 02:02am): あ
 - **常時暇人のたけさん** (Sep 01, 2026 03:27am): 巨だろ
 - **ナギサノ** (Sep 01, 2026 03:37am): わかる
@@ -852,6 +871,8 @@ fernって名前のやつ　履歴消したらきえt
 - **きもてー** (Sep 03, 2026 03:10am): 巨乳
 - **Anonymous** (Sep 03, 2026 03:30am): かつて谷崎潤一郎が『陰翳礼讃』で語ったような日本の奥ゆかしい性愛のタブーや美意識が、まさか現代ネットの最底辺で『きょ〇・ひん〇』という小学生レベルの記号の殴り合いにまで退化するとは。自らの無知と愚かさをこれほどエンタメとして昇華できる皆さんの思考回路、非常に興味深いです
 - **おなべさん(新垢** (Sep 03, 2026 04:32am): 健全な男子小中高生（人によりけりだが。男子だけとも限らず。）やったら普通にそれくら言うと思うけど…。てゆうかうち女だけど。ちなみにどっちも派！
+- **Anonymous** (Sep 03, 2026 05:41am): 何歳くらいがここに蔓延ってやがるの？おなべさん教えてよ
+- **Anonymous** (Sep 03, 2026 05:45am): ていうかお前女かよ若い子はいいねぇわしゃもう２０歳じゃよ
 
 #### Additional Information
 - **Post color:** White
@@ -863,11 +884,12 @@ fernって名前のやつ　履歴消したらきえt
 ### 3. 巨乳か貧乳かどっち
 **Author:** フミアト
 
-#### Comments (4)
+#### Comments (5)
 - **常時暇人のたけさん** (Sep 01, 2026 04:41am): 巨しかないだろ
 - **WEI SHENG JI** (Sep 02, 2026 04:10am): キモいよ！
 - **ハネミ** (Sep 02, 2026 08:53am): 思春期じゃない子供だね！
 - **おなべさん(新垢** (Sep 03, 2026 04:33am): 同じことしか言ってない
+- **Anonymous** (Sep 03, 2026 05:11am): そうやって『同じことしか言ってない』と切り捨てるのは、こちらの意見を最初から理解するつもりがなく、議論を強制終了させたい時の典型的な逃げ文句ですよね。感情的にイラついたり皮肉を言ったりするのではなく、建設的な対話をしませんか？
 
 #### Additional Information
 - **Post color:** White
@@ -879,7 +901,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 4. ブロスタやってる人トロ数書いて
 **Author:** フミダシ
 
-#### Comments (15)
+#### Comments (17)
 - **Anonymous** (Aug 27, 2026 11:52am): 77777
 - **ユメノ** (Aug 28, 2026 10:21am): 20000ちょい
 - **匿名** (Aug 28, 2026 11:12am): 始めたばっかで9000
@@ -895,6 +917,8 @@ fernって名前のやつ　履歴消したらきえt
 - **フユツキ** (Sep 01, 2026 10:23pm): １００００ぐらい
 - **げむちゅう** (Sep 02, 2026 12:30am): 19000ぐらい
 - **Nannka　Youtube** (Sep 02, 2026 04:40am): 7万トロ
+- **カゼビヨリ** (Sep 03, 2026 05:33am): おれマス2 
+- **Anonymous** (Sep 03, 2026 05:48am): 自殺しようか迷ってるからお前らで決めて　では…4時間後にチェックするぜ
 
 #### Additional Information
 - **Post color:** White
@@ -914,10 +938,11 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789016555&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jy1TZKYWK%2Bx72Y8ziHsP2JPegp37n88XGCbWvGyfuhKLVzcWqiDP%2BNCu5nXuHC%2B16%2F9jqHGtneTMhVDyU7uLUla6VYGSj8hzF9CIegj3Mwq%2BnQgbaMqyIqdkWhqUx6uwy17juyj1ggvXft%2BrhvUQfmZgXSKNcjQms2Se95LZ0Lctjfz%2F8kSYOCvmYkSE2%2BtH9YYjBLv%2FX%2FWOkJ127DnzhSVMGtLX21UcYkneCAnHQUFVZX%2FeTIXZHAa9KVk%2B1chok8bcOtr4gYS4TVBph%2Fvqjal8NQmFnO8eG6000qljLLcM85b5s5FVjVWZhrJeP4Aak2WjlKhxwnayv5HaXEk1AA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789021195&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1thtNVbLezjOoKrvlF0oEXSkb0B%2FN8Ue9fs6h%2Bo4bR%2BtqeLdI67eXlhHRmtZHenMNjPTzSwM24MXTpXzFwFU%2BOXxKf81TollJO6YP3KNuN3vtNYTgNhIhWrxSG%2Farg3%2FG%2Fb5GwZKwPFCifIKyhxjk3IGKrQHT%2FfUdVnhLpPQDI2ymF9ei2YiZbwIYoh%2FmHooMXtuQu88SMH4grt112rd%2Bb1AhheOpHf0CkwWWf%2FAlqEVMdTCpIRQnS2Mge90O78wsgi3zNvOq3zTOpAsq81HVeibIKh%2BArTMDIhM5R4iHg5Z2%2BfcPJkxZacH%2BCcg1AcT2z6HSKforMYMfhLHLczy4g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
-#### Comments (1)
+#### Comments (2)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
+- **ワホー2代目** (Sep 03, 2026 05:26am): どっちもできん
 
 #### Additional Information
 - **Post color:** White
@@ -931,7 +956,7 @@ ID:shibboleth
 
 [Attachment 1](https://u.topia.2a.exe.googleapis.com.hospitaldelninodif.gob.mx/)
 
-#### Comments (8)
+#### Comments (9)
 - **おとちん** (Aug 28, 2026 10:04am): サイトのURLコピーして貼ったら見れる
 - **ぼちぼちいこか愛好家** (Sep 01, 2026 12:48am): マジで？
 - **カナタビ** (Sep 01, 2026 12:55am): proxy?
@@ -940,6 +965,7 @@ ID:shibboleth
 - **ハナグモリ** (Sep 03, 2026 02:54am): これエロ見れるさいこーーーーーーーーーーーーー
 - **Anonymous** (Sep 03, 2026 03:23am): スマホで見ろ!
 - **Anonymous** (Sep 03, 2026 03:26am): しょうもないねん　ガキども
+- **Anonymous** (Sep 03, 2026 05:43am): マジそれなスマホ授業中見ようぜ授業中に学校のテレビミラーリングして俺はav 流したぜ小5の時もうそれも…10年も前かぁ
 
 #### Reactions
 - **Emojis:** ❤️ (2) 👍 (1) 😄 (1)
@@ -1017,7 +1043,7 @@ No post
 ### 2. 学タブで見れるユーチューブほしいですお願いします
 **Author:** ぼちぼちいこか愛好家 (2101038_5)
 
-#### Comments (8)
+#### Comments (10)
 - **かぼちゃ** (Sep 01, 2026 12:59am): https://script.google.com/a/macros/g.bears.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
 - **ぼちぼちいこか愛好家** (Sep 01, 2026 02:35am): ありがとうございます
 - **えいこ** (Sep 01, 2026 04:14am): かぼちゃさんそれでもブロックされたよ
@@ -1026,6 +1052,8 @@ No post
 - **えいこ** (Sep 02, 2026 01:38am): それを繰り返すしかありませんごめんなさい
 - **マリオ** (Sep 02, 2026 12:52pm): 凄く読み込みが遅いので早くできませんか？
 - **ハルツユ** (Sep 03, 2026 01:38am): ショート見れないの泣く
+- **Anonymous** (Sep 03, 2026 06:04am): ちょっとみれなくないですか
+- **Anonymous** (Sep 03, 2026 06:04am): みるほうほうをおしえてほしいです
 
 #### Additional Information
 - **Post color:** White
@@ -1082,7 +1110,7 @@ No post
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=tfMneb7nGbY)
 
-#### Comments (7)
+#### Comments (11)
 - **Anonymous** (Aug 29, 2026 12:39am): 誰かマエスケの動画ちょうだい 
 - **えいこ** (Sep 01, 2026 12:40am): ホンマにマエスケの動画くれ
 - **カゼドリ** (Sep 01, 2026 06:19am): マインクラフト史上一番怖いMODを入れたら..www.youtube.com › watch
@@ -1090,6 +1118,10 @@ No post
 - **ゲーム** (Sep 01, 2026 08:58am): 世界一難しい音ゲーをやったら
 - **ゲーム** (Sep 01, 2026 08:59am): https://youtu.be/VaFgiMa--2A
 - **ハネミ** (Sep 02, 2026 08:54am): Youtube見れるやつ欲しいか？
+- **Anonymous** (Sep 03, 2026 05:13am): ほしい
+- **Anonymous** (Sep 03, 2026 05:51am): お前
+- **Anonymous** (Sep 03, 2026 05:52am): 『YouTubeが欲しい』だなんて、なんとも健気で牧歌的な会話ですね。性的な話題には過剰なほど蓋をして、本音を語ることを恥とする日本社会ですが、こういう幼児退行したようなやり取りだけは、どこへ行っても本当に温かく放置されていますよね
+- **Anonymous** (Sep 03, 2026 05:58am): すぅー
 
 #### Additional Information
 - **Post color:** White
@@ -1105,9 +1137,13 @@ No post
 
 💩
 
-#### Comments (2)
+#### Comments (6)
 - **ユリカ** (Sep 02, 2026 01:02am): まんこーまんげーちんちちんげーはなーがさいたらー
 - **おなべさん(新垢** (Sep 03, 2026 04:35am): 下ネタ言えば何でも良いってわけじゃねぇよ
+- **Anonymous** (Sep 03, 2026 05:33am): 「下ネタ言えばなんでも良いってわけじゃねぇよ」とか、わざわざこんな吹き溜まりみたいな場所でありがたく御高説垂れてる姿、最高に滑稽で香ばしいですね。 「性」の話が出た途端にシュッとお行儀のいいお説教モードに入って同調圧力こねくり回すあたり、いかにも「世間様の手前、性タブーを守らなきゃいけない」同同同調圧力が染みついた日本人らしくて実に味わい深いです。 そんなにコンプライアンスと品行方正がお好きなら、わざわざこんなネットの隅っこで不毛な正義感ごっこしてないで、現実の教科書でも音読してすまし顔で暮らしてたらどうですか？ 見ていてお寒い限りですよ。
+- **アキバネ** (Sep 03, 2026 05:34am): ち
+- **Anonymous** (Sep 03, 2026 05:35am): 『ち』の一文字で終わらせるあたり、脳みそまで縮こまっちゃった？
+- **Anonymous** (Sep 03, 2026 05:58am): そいつじゃねえだろ
 
 #### Additional Information
 - **Post color:** White
@@ -1135,9 +1171,10 @@ No post
 
 [Attachment 1](https://padlet.com/akiramenaidedonnatokimo/padlet-kerg40vcf1nvu3eh?lang=ja)
 
-#### Comments (2)
+#### Comments (3)
 - **WEI SHENG JI** (Sep 02, 2026 04:11am): これ何うんこ？
 - **Zest Amplifier** (Sep 02, 2026 11:02am): しらん
+- **Anonymous** (Sep 03, 2026 05:36am): 日本人？
 
 #### Additional Information
 - **Post color:** White
@@ -1225,13 +1262,15 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 ### 9. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
-#### Comments (6)
+#### Comments (8)
 - **かめかめかめ** (Aug 28, 2026 01:55am): できれば爺とやりたい
 - **34b6kq** (Aug 28, 2026 03:38am): かめかめかめ　それは意味わからん
 - **匿名** (Aug 28, 2026 07:56am): イズミ雑魚ってどういうこと？なにを持って雑魚なの？
 - **34b6kq** (Aug 30, 2026 02:17am): それはそうｗｗ
 - **34b6kq** (Aug 30, 2026 02:18am): イズミいきなり雑魚ってなんの話やｗｗ
 - **フミアト** (Aug 30, 2026 06:52am): それはそうイズミW
+- **Anonymous** (Sep 03, 2026 05:11am): えあ
+- **Anonymous** (Sep 03, 2026 05:39am): 性欲の処理と一緒に、最低限のネットリテラシーと『自分がどこの国に生きているか』という現実までどこかに置き忘れてきちゃったのかな？
 
 #### Reactions
 - **Emojis:** 👎 (1)
