@@ -743,18 +743,36 @@
                 return '';
             });
 
-            // パターン3: 行全体が「[url](url)」のみで構成される場合 -> リンク単体の投稿として添付ファイル扱い
-            // （リストの項目「- [url](url)」や文中に埋め込まれたリンクはここでは対象外とし、本文にそのまま残す）
-            content = content.replace(/^[ \t]*\[([^\]]+)\]\((https?:\/\/[^\)]+)\)[ \t]*$/gm, (match, linkText, url) => {
-                let cleanText = linkText.trim().replace(/^https?:\/\//i, '').replace(/\/$/, '');
-                let cleanUrl = url.trim().replace(/^https?:\/\//i, '').replace(/\/$/, '');
-                
-                if (cleanText === cleanUrl) {
-                    attachments.push({ url: url, type: getMediaType(url), alt: linkText });
-                    return '';
+            // パターン3: 本文の末尾（＝カスタムフィールドの後、コメントの直前に相当する位置）に
+            // 連続する「[url](url)」だけの行を添付ファイルとして抽出する。
+            // 判定基準は「-」の有無ではなく位置。末尾から遡り、URLそのものだけの行が続く限り添付として切り出し、
+            // 他の文章と混在する行（前後に説明文が付いている等）に当たった時点で走査を止め、それより本文側はそのまま残す。
+            {
+                let lines = content.split('\n');
+                let trailingLinks = [];
+                let cutIndex = lines.length;
+
+                for (let i = lines.length - 1; i >= 0; i--) {
+                    const trimmedLine = lines[i].trim();
+                    if (trimmedLine === '') continue; // 空行はスキップして続行
+
+                    const m = trimmedLine.match(/^(?:-[ \t]*)?\[([^\]]+)\]\((https?:\/\/[^\)]+)\)$/);
+                    if (!m) break; // リンクのみの行でなくなった時点で走査終了（本文として残す）
+
+                    const linkText = m[1], url = m[2];
+                    const cleanText = linkText.trim().replace(/^https?:\/\//i, '').replace(/\/$/, '');
+                    const cleanUrl = url.trim().replace(/^https?:\/\//i, '').replace(/\/$/, '');
+                    if (cleanText !== cleanUrl) break; // テキストとURLが一致しないリンクは対象外
+
+                    trailingLinks.unshift({ url: url, type: getMediaType(url), alt: linkText });
+                    cutIndex = i;
                 }
-                return match;
-            });
+
+                if (trailingLinks.length > 0) {
+                    content = lines.slice(0, cutIndex).join('\n');
+                    attachments.push(...trailingLinks);
+                }
+            }
 
             // 同一URLが複数パターンで重複抽出された場合（本文の裸リンクと明示的なAttachment表記が同じURLを指す等）は1件にまとめる
             attachments = attachments.filter((att, idx, arr) => arr.findIndex(a => a.url === att.url) === idx);
