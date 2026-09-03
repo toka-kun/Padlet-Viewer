@@ -1,4 +1,4 @@
-最終取得: 2026/09/03 09:10:49
+最終取得: 2026/09/03 09:19:09
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 35
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Sep 02, 2026 06:48am
+- **Updated At:** Sep 03, 2026 12:13am
 
 ## ルール
 
@@ -161,7 +161,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788999109&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qoFHi%2BCVwtR9j6wsB%2FLfudDSC7l%2B9G10OUdZJ21Ri%2BuXS3PkEHcJbWXZaZ72t8gwt3h3CjBsXnCX%2B5Cs5Y3FaToOVtENdAzDm0qQMFcD%2Be7QTEhVrnS4K4Yq9AhkWHK9ZoJywRLhHxontOMzlHm9ZSuLZ4UyX0m91fNV7i6Zd0Yb9sOk0DwDWAxKmwb76XIm9WDeq5gx%2FLXugJEdaxtpLQPBg%2Bu49CsCpjzj4yS26BRgr6xYmfTqlIbWSPHPYo%2F628RRdMCu0QuTwKjYgSSbGNlUXvlF1SkLz70ikfKnmfqaIIpYL4s7HlropXQI3%2BIpHEnc%2FlIJdLqKx1Rvqa1T0w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1788999590&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ifU3aeoBkuemINkQ7GcIhzRp04Q%2BB6nSDq71InzNITTftjTCHhb1Yv3PSpebiyOYwlxmADh6vCXcKe6Z9r3CVtWkPVDrlG%2B6t%2BQWs6mdh8HfzU1OZlWt94v17opCbpOLjJ5ifTjNTj5IXzXtU0EsS8icAxQB1Ha1iaE6pMJtUAxcsUFMhjGGKqtJeUu%2F%2B7ceK8H1zheMHsOhjNaob4O33YpJxcEL83ZKIxivo61LN1drFjk1xYBIMn1SZ19BJcBlsEgYK1i%2FKLimRnzY5jfWA1o2DGzYfytpazdL9N%2FVxeRSeHeEXqqszB%2B%2BlCSB3cxtjjqBo3tTZ4ZcbXYnyV%2BNpg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -249,10 +249,11 @@
 
 閲覧数3万のこの部屋が、さらに大きくなることを楽しみにしています。
 
-#### Comments (3)
+#### Comments (4)
 - **根釧台地(元いときち)** (Aug 22, 2026 08:23am): いままでありがとう
 - **中居正広リア充になった。#鳥ちゃん大好き#最近体痛い** (Aug 23, 2026 01:34pm): 悲しいけどお疲れ様がんばれ
 - **ちゃま** (Sep 02, 2026 06:48am): [Attachment](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl/wish/LNV1Q7rLmYPoamq3) ミコのお顔
+- **匿名** (Sep 03, 2026 12:13am): こば
 
 #### Additional Information
 - **Post color:** Black
