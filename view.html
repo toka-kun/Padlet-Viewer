@@ -743,39 +743,13 @@
                 return '';
             });
 
-            // パターン3: 本文の末尾（＝カスタムフィールドの後、コメントの直前に相当する位置）が
-            // 「[url](url)」だけの行1つのみで終わっている場合に限り、添付ファイルとして抽出する。
-            // Padletの投稿に添付できるURLは1つだけなので、末尾にリンクだけの行が2つ以上続く場合は
-            // 添付ではなく「本文に手打ちで貼られたリンク一覧（箇条書きかどうかは問わない）」とみなし、
-            // 本文にそのまま残す。判定基準は「-」の有無ではなく、末尾に来ているリンクが1本だけかどうか。
-            {
-                let lines = content.split('\n');
-                let trailingLinks = [];
-                let cutIndex = lines.length;
-
-                for (let i = lines.length - 1; i >= 0; i--) {
-                    const trimmedLine = lines[i].trim();
-                    if (trimmedLine === '') continue; // 空行はスキップして続行
-
-                    const m = trimmedLine.match(/^(?:-[ \t]*)?\[([^\]]+)\]\((https?:\/\/[^\)]+)\)$/);
-                    if (!m) break; // リンクのみの行でなくなった時点で走査終了（本文として残す）
-
-                    const linkText = m[1], url = m[2];
-                    const cleanText = linkText.trim().replace(/^https?:\/\//i, '').replace(/\/$/, '');
-                    const cleanUrl = url.trim().replace(/^https?:\/\//i, '').replace(/\/$/, '');
-                    if (cleanText !== cleanUrl) break; // テキストとURLが一致しないリンクは対象外
-
-                    trailingLinks.unshift({ url: url, type: getMediaType(url), alt: linkText });
-                    cutIndex = i;
-
-                    if (trailingLinks.length > 1) break; // 末尾リンクが2つ以上続く時点でリスト扱いと判断
-                }
-
-                if (trailingLinks.length === 1) {
-                    content = lines.slice(0, cutIndex).join('\n');
-                    attachments.push(...trailingLinks);
-                }
-            }
+            // 注: 以前は「本文末尾の裸リンク（[url](url)）」を位置や本数から推測して添付ファイル扱いする
+            // ロジックがあったが、Padletのmarkdown書き出しには「本当にPadletの添付機能で貼られたリンク」と
+            // 「投稿者が本文に手打ちしたURL」を区別する印が無く（区別されるのは画像や明示的な
+            // [Attachment N]/[添付ファイル N]タグのみ）、位置・本数・ハイフンの有無のどれで判定しても
+            // 実データ上で誤判定が発生した。そのため裸リンクの自動昇格はやめ、
+            // 明示的にタグ付けされているもの（パターン1・2）だけを添付ファイルとして扱う。
+            // 裸のリンクは本文中にそのまま残り、通常のクリック可能なリンクとして表示される。
 
             // 同一URLが複数パターンで重複抽出された場合（本文の裸リンクと明示的なAttachment表記が同じURLを指す等）は1件にまとめる
             attachments = attachments.filter((att, idx, arr) => arr.findIndex(a => a.url === att.url) === idx);
