@@ -1,20 +1,37 @@
-最終取得: 2026/09/03 18:13:28
+最終取得: 2026/09/03 18:43:32
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 77
+- **Posts:** 78
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 03, 2026 09:13am
+- **Updated At:** Sep 03, 2026 09:41am
 
 ## 雑談
 
-### 1. 音楽聴けるサイトください（学校のダブレット）
+### 1. 明日学校雨でなくなるかもしれないマジで神
+**Author:** えいこ
+
+#### Comments (5)
+- **Anonymous** (Sep 03, 2026 09:23am): なんか今日から長文打ってる賢いガキ新入りしたくないか？
+- **Anonymous** (Sep 03, 2026 09:23am): そこらを調べたらわかる
+- **Anonymous** (Sep 03, 2026 09:27am): あっ！お前がえいこちゅあ〜んか
+- **Anonymous** (Sep 03, 2026 09:29am): 「指先で膝の上に文字を書くような仕草もみられました。」この記事を見てはっとしました。大昔近所にいた性的異常者の男性が同じしぐさをしていました。子供心に不思議に思い今でも覚えています。
+- **Anonymous** (Sep 03, 2026 09:41am): 申し訳ない申しませんからどうか許してください
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 03, 2026 09:17am
+- **Updated At:** Sep 03, 2026 09:17am
+
+---
+
+### 2. 音楽聴けるサイトください（学校のダブレット）
 **Author:** Nannka　Youtube (s1923051_1)
 
-#### Comments (9)
+#### Comments (11)
 - **Anonymous** (Sep 03, 2026 03:19am): スマホで聞けば？何歳でちゅか？
 - **アシカビ** (Sep 03, 2026 04:02am): 　
 - **Anonymous** (Sep 03, 2026 05:11am): あっぷるみゅーじっく
@@ -24,6 +41,8 @@
 - **Anonymous** (Sep 03, 2026 09:08am): それはいまもじうったらきえるばぐおきてるから
 - **Anonymous** (Sep 03, 2026 09:08am): よみずらいのはごめん
 - **Anonymous** (Sep 03, 2026 09:13am): 「たけさん」ウザいって厳しいって 
+- **Anonymous** (Sep 03, 2026 09:26am): たけさんにだけ教えたるわ　今日なんかこのサイトでいつもと違う“異変”起きとるやろ？長文ニキやこういう俺みたいなやつ…つまり？推理してみな　バカには無理でちゅか？
+- **Anonymous** (Sep 03, 2026 09:42am): つまり今日はやばい人ばっかるってことだ！
 
 #### Additional Information
 - **Post color:** White
@@ -32,7 +51,7 @@
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** 匿名 (r0245154)
 
 まじではいって
@@ -57,15 +76,16 @@
 
 ---
 
-### 3. よ
+### 4. よ
 **Author:** ヤクシカブト (s1923003_1)
 
-#### Comments (5)
+#### Comments (6)
 - **ヤクシカブト** (Sep 02, 2026 04:53am): こんにちは
 - **Nannka　Youtube** (Sep 02, 2026 04:59am): ヤァ 
 - **Anonymous** (Sep 03, 2026 03:17am): 薬師兜sexしたの嘘だろ　まじマザーファッカーだなそんなこと如きデ…性にタブーなこの国では神扱いか？アメリカとかどうなってるか調べてみ
 - **匿名** (Sep 03, 2026 07:34am): ｃｄくえふぇｆ＠ｈｐｂｃｗぷｆｐれｐｂｐｃくｆぶｆｂｐｃｐｆｂるｂｐ
 - **匿名** (Sep 03, 2026 08:14am): がはははははははははは
+- **Anonymous** (Sep 03, 2026 09:14am): え？おもろいよね　センスあるわ
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -77,15 +97,16 @@
 
 ---
 
-### 4. だる
+### 5. だる
 **Author:** Nannka　Youtube (s1923051_1)
 
-#### Comments (5)
+#### Comments (6)
 - **Nannka　Youtube** (Sep 02, 2026 04:30am): やめろカス 
 - **Nannka　Youtube** (Sep 02, 2026 04:50am): Nannka
 - **ヤクシカブト** (Sep 02, 2026 04:55am): 😁か
 - **ヤクシカブト** (Sep 02, 2026 04:55am): こんにちは
 - **Nannka　Youtube** (Sep 02, 2026 04:57am): やべぇ 
+- **Anonymous** (Sep 03, 2026 09:15am): 薬師兜どうていのくせにいきんな！
 
 #### Additional Information
 - **Post color:** White
@@ -94,7 +115,7 @@
 
 ---
 
-### 5. 今もずっと動いてる部屋教えてください人多いところがいいです
+### 6. 今もずっと動いてる部屋教えてください人多いところがいいです
 **Author:** ちゆ
 
 #### Additional Information
@@ -104,7 +125,7 @@
 
 ---
 
-### 6. チャット（ゆうと、みなと、れお、えいいち、まひろ）
+### 7. チャット（ゆうと、みなと、れお、えいいち、まひろ）
 **Author:** れお
 
 [https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing](https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing)
@@ -121,7 +142,7 @@
 
 ---
 
-### 7. 前の土日、何した？
+### 8. 前の土日、何した？
 **Author:** 港
 
 #### Comments (1)
@@ -134,14 +155,15 @@
 
 ---
 
-### 8. みんなおばあちゃんち行った？
+### 9. みんなおばあちゃんち行った？
 **Author:** みなと
 
-#### Comments (4)
+#### Comments (5)
 - **えいこ** (Sep 01, 2026 02:28am): いってない
 - **ナミユメ** (Sep 01, 2026 10:46am): お泊りした。
 - **Anonymous** (Sep 01, 2026 12:12pm): 行ったぜ 
 - **Anonymous** (Sep 02, 2026 04:05am): い
+- **Anonymous** (Sep 03, 2026 09:15am): おばあちゃんとやったあかんで！
 
 #### Additional Information
 - **Post color:** White
@@ -150,7 +172,7 @@
 
 ---
 
-### 9. 雑談
+### 10. 雑談
 **Author:** TENTENNTENN
 
 
@@ -166,7 +188,7 @@
 
 ---
 
-### 10. 学校ってみんなきらい俺台っきらい
+### 11. 学校ってみんなきらい俺台っきらい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (7)
@@ -185,10 +207,10 @@
 
 ---
 
-### 11. 夏休み楽しかった
+### 12. 夏休み楽しかった
 **Author:** みなと
 
-#### Comments (7)
+#### Comments (8)
 - **初夏** (Aug 31, 2026 06:02am): 夏休みみんなどこいった〜？
 - **車好き** (Aug 31, 2026 09:07am): 家
 - **ヒヤシンス** (Aug 31, 2026 09:57am): 俺は、ゲーセンとか言ったり、おばあちゃんとおじいちゃんのお家にお泊りしたり、おばあちゃんと一緒に食べに行ったりした。笑笑
@@ -196,6 +218,7 @@
 - **ヤクシカブト** (Sep 02, 2026 04:50am): せっくsした
 - **Anonymous** (Sep 03, 2026 06:44am): 薬師兜嘘厳しいって　え？嘘じゃないって？ああそっかだったら 夢の中で」って書き忘れて
 - **Anonymous** (Sep 03, 2026 06:44am): るよな　ボケカスがよ
+- **Anonymous** (Sep 03, 2026 09:16am): 薬師兜自慢しすぎ(笑)嘘ってバレるよ(笑)クソボケアホちんポンタレ〜
 
 #### Additional Information
 - **Post color:** White
@@ -204,7 +227,7 @@
 
 ---
 
-### 12. geometrydashの定員募集中（10人）
+### 13. geometrydashの定員募集中（10人）
 **Author:** ゆうと
 
 [https://forms.gle/MB8vdXJbKXKy2nG98](https://forms.gle/MB8vdXJbKXKy2nG98)
@@ -218,7 +241,7 @@
 
 ---
 
-### 13. 後ろ見ろ
+### 14. 後ろ見ろ
 **Author:** 犬
 
 #### Comments (1)
@@ -231,7 +254,7 @@
 
 ---
 
-### 14. ビデオ通話
+### 15. ビデオ通話
 **Author:** シラカバ
 
 学校嫌だ
@@ -252,17 +275,18 @@
 
 ---
 
-### 15. あ
+### 16. あ
 **Author:** シラカバ
 
 あ
 
-#### Comments (5)
+#### Comments (6)
 - **みゅ** (Aug 31, 2026 01:09am): こんにちは
 - **初夏** (Aug 31, 2026 07:26am): お前誰やねん。ぶちころすぞ！笑笑
 - **Anonymous** (Aug 31, 2026 09:40pm): い
 - **ゲーム** (Sep 01, 2026 02:51am): 誰？全員
 - **Anonymous** (Sep 03, 2026 06:45am): お前こそ
+- **Anonymous** (Sep 03, 2026 09:17am): お前って俺のこと？それともこのサイトで居候してるクソ野郎ども？
 
 #### Additional Information
 - **Post color:** White
@@ -271,7 +295,7 @@
 
 ---
 
-### 16. poki
+### 17. poki
 **Author:** 常闇 トワ（不地口手万ディ） (Fleeex)
 
 [Attachment 1](https://poki.io/)
@@ -283,7 +307,7 @@
 
 ---
 
-### 17. まだうごいてんのここwwwwwww
+### 18. まだうごいてんのここwwwwwww
 **Author:** 💍持ち #kgtとプロたんの囲い😙 (c_coa09)
 
 #### Comments (2)
@@ -297,7 +321,7 @@
 
 ---
 
-### 18. 一旦消しました
+### 19. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
 #### Comments (29)
@@ -441,11 +465,12 @@
 ### 7. ブロックの解除方法知ってる人いたら教えて
 **Author:** えいこ
 
-#### Comments (4)
+#### Comments (5)
 - **ゆきつばさ** (Sep 01, 2026 03:12am): シャットダウン繰り返す
 - **ノハルカ** (Sep 01, 2026 03:19am): （クロームブックでしか無理かも）
 - **おおぬき** (Sep 03, 2026 05:21am): 無理になった
 - **Anonymous** (Sep 03, 2026 06:49am): えーでぃーか…wおっつー！
+- **Anonymous** (Sep 03, 2026 09:17am): Ed(笑)
 
 #### Additional Information
 - **Post color:** White
@@ -457,7 +482,7 @@
 ### 8. マイクラ
 **Author:** ナツヒカリ
 
-#### Comments (7)
+#### Comments (8)
 - **えいこ** (Sep 01, 2026 02:29am): したい
 - **えいこ** (Sep 01, 2026 02:29am): よ
 - **ゆきつばさ** (Sep 01, 2026 03:13am): ブロック解除してEagleCraftって調べたら無料でバージョン１２のマイク遊べる
@@ -465,6 +490,7 @@
 - **ゲーム** (Sep 01, 2026 04:07am): これマイクらできるやつ
 - **ゲーム** (Sep 01, 2026 04:08am): たぶんうそやったらごめん
 - **匿名** (Sep 03, 2026 07:45am): うそやんけ。学校のタブレットだったらできねーよ〜！ば〜かば〜か
+- **Anonymous** (Sep 03, 2026 09:18am): バカはお前だろボケこのサイトいる時点でお前はクソ
 
 #### Additional Information
 - **Post color:** White
@@ -476,12 +502,13 @@
 ### 9. ゲームしたいゲームしたい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
-#### Comments (5)
+#### Comments (6)
 - **りゅう** (Aug 31, 2026 07:59am): ゲームしろｗ
 - **りゅう** (Aug 31, 2026 08:13am): だれやねん真似すんな名前
 - **ヒヤシンス** (Aug 31, 2026 09:57am): は、何？
 - **ツチフル** (Aug 31, 2026 11:12am): それななに？
 - **ええいいここえいこ（えいこってよんでね）** (Aug 31, 2026 11:28pm): 学校でできなかった
+- **Anonymous** (Sep 03, 2026 09:24am): 嫌だねえいこちゅぁ〜んって呼ぶよ
 
 #### Additional Information
 - **Post color:** White
@@ -809,7 +836,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 21. エロサイトくれ
 **Author:** スギノネ
 
-#### Comments (13)
+#### Comments (14)
 - **フミダシ** (Aug 27, 2026 11:06am): きっも
 - **でにでにろつとまん** (Aug 27, 2026 11:45pm): 俺も欲しい
 - **匿名** (Aug 28, 2026 04:08am): 保健室ってサイトがエロサイト
@@ -823,6 +850,7 @@ fernって名前のやつ　履歴消したらきえt
 - **ハナノアサ** (Aug 31, 2026 03:12am): できた
 - **ハナノアサ** (Aug 31, 2026 03:48am): オナニーの動画くれ
 - **Anonymous** (Sep 03, 2026 06:59am): ゲイかよ
+- **Anonymous** (Sep 03, 2026 09:18am): マジそれな
 
 #### Additional Information
 - **Post color:** White
@@ -865,10 +893,11 @@ fernって名前のやつ　履歴消したらきえt
 ### 1. エロ部屋の入手方法
 **Author:** 変態の味方
 
-#### Comments (3)
+#### Comments (4)
 - **マリオ** (Sep 02, 2026 09:23am): 810
 - **ハナグモリ** (Sep 03, 2026 02:55am): Utopia
 - **きもてー** (Sep 03, 2026 03:11am): ほしい
+- **Anonymous** (Sep 03, 2026 09:33am): ハナモグリに次ぐうっざたいからカッコつけんな
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -931,7 +960,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 4. ブロスタやってる人トロ数書いて
 **Author:** フミダシ
 
-#### Comments (17)
+#### Comments (18)
 - **Anonymous** (Aug 27, 2026 11:52am): 77777
 - **ユメノ** (Aug 28, 2026 10:21am): 20000ちょい
 - **匿名** (Aug 28, 2026 11:12am): 始めたばっかで9000
@@ -949,6 +978,7 @@ fernって名前のやつ　履歴消したらきえt
 - **Nannka　Youtube** (Sep 02, 2026 04:40am): 7万トロ
 - **カゼビヨリ** (Sep 03, 2026 05:33am): おれマス2 
 - **Anonymous** (Sep 03, 2026 05:48am): 自殺しようか迷ってるからお前らで決めて　では…4時間後にチェックするぜ
+- **Anonymous** (Sep 03, 2026 09:19am): 誰か答えたれよ！タイムリミットまであと1時間！
 
 #### Additional Information
 - **Post color:** White
@@ -968,7 +998,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789031676&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rGUjGNfpV7mdZIlLs89KAbDxAX%2BC%2FV%2FQgNjjEiBZMjAIcuBgjWr1kxMycc8ZCWWPlv9kFGOJ3HyufA5Pk0z2qR1vQ9%2B8EaOeoX8hzEXMotJwPDB%2BQgp3S%2B81v0zMIc6T73NOMWb9aX%2FUUQry7MyF6XVlzVxDMOFBpZ2EDUlLyWU0vDY%2BEGYumpk8HrfrafoIK49Wooi7e8flvZPuTaXtsNUbGiyE%2BsJZLi0pQr7Iqys0Log8%2FozVPLXGgKILD8o5N2wkE6t8WX9ocafNc6AaRG8qhLXcyI1hqwcvD0s7FED01ZEGkcjp55Y%2B8zRfdmKl%2BbZNg9R1wMhGCqF2dE7eBg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789033487&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Op5%2Fwpb0fSyEvUGKRVYyPougi7R2jHmhHcthNi30DuJbQH3IK9%2Btppqlq3SS3W2p5gxb0SnWRN4WmP9PnVShh0bfkMqK2DARdRBI%2B7NbkbNDWhGkf0KUrhprVucHh7vlpRpAVLaIF6pIt24amHn8bzNntxUoJnmzw9dkYTtDH5Xi%2Ft2sYjkTuDl2uWSTemgnRkLIYAk7WG021izN8avF291en%2FWEH0F2c0%2FuzTaTi0QXpQLblz7%2BUPchl5XupuR%2BuctMq%2FS0Z%2FvihXli3D1kj1KuR%2BHQo8hVWbrqeESQcSnsslr%2FqsWdbk0ti1f99Mg7w6zCRdIOgbCteEtGDeVdcw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (3)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1144,7 +1174,7 @@ No post
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=tfMneb7nGbY)
 
-#### Comments (11)
+#### Comments (12)
 - **Anonymous** (Aug 29, 2026 12:39am): 誰かマエスケの動画ちょうだい 
 - **えいこ** (Sep 01, 2026 12:40am): ホンマにマエスケの動画くれ
 - **カゼドリ** (Sep 01, 2026 06:19am): マインクラフト史上一番怖いMODを入れたら..www.youtube.com › watch
@@ -1156,6 +1186,7 @@ No post
 - **Anonymous** (Sep 03, 2026 05:51am): お前
 - **Anonymous** (Sep 03, 2026 05:52am): 『YouTubeが欲しい』だなんて、なんとも健気で牧歌的な会話ですね。性的な話題には過剰なほど蓋をして、本音を語ることを恥とする日本社会ですが、こういう幼児退行したようなやり取りだけは、どこへ行っても本当に温かく放置されていますよね
 - **Anonymous** (Sep 03, 2026 05:58am): すぅー
+- **Anonymous** (Sep 03, 2026 09:19am): すうをお返しします
 
 #### Additional Information
 - **Post color:** White
@@ -1183,13 +1214,14 @@ No post
 
 💩
 
-#### Comments (6)
+#### Comments (7)
 - **ユリカ** (Sep 02, 2026 01:02am): まんこーまんげーちんちちんげーはなーがさいたらー
 - **おなべさん(新垢** (Sep 03, 2026 04:35am): 下ネタ言えば何でも良いってわけじゃねぇよ
 - **Anonymous** (Sep 03, 2026 05:33am): 「下ネタ言えばなんでも良いってわけじゃねぇよ」とか、わざわざこんな吹き溜まりみたいな場所でありがたく御高説垂れてる姿、最高に滑稽で香ばしいですね。 「性」の話が出た途端にシュッとお行儀のいいお説教モードに入って同調圧力こねくり回すあたり、いかにも「世間様の手前、性タブーを守らなきゃいけない」同同同調圧力が染みついた日本人らしくて実に味わい深いです。 そんなにコンプライアンスと品行方正がお好きなら、わざわざこんなネットの隅っこで不毛な正義感ごっこしてないで、現実の教科書でも音読してすまし顔で暮らしてたらどうですか？ 見ていてお寒い限りですよ。
 - **アキバネ** (Sep 03, 2026 05:34am): ち
 - **Anonymous** (Sep 03, 2026 05:35am): 『ち』の一文字で終わらせるあたり、脳みそまで縮こまっちゃった？
 - **Anonymous** (Sep 03, 2026 05:58am): そいつじゃねえだろ
+- **Anonymous** (Sep 03, 2026 09:20am): そいつって誰のこと？このボケアホカスがよ
 
 #### Additional Information
 - **Post color:** White
@@ -1217,10 +1249,11 @@ No post
 
 [Attachment 1](https://padlet.com/akiramenaidedonnatokimo/padlet-kerg40vcf1nvu3eh?lang=ja)
 
-#### Comments (3)
+#### Comments (4)
 - **WEI SHENG JI** (Sep 02, 2026 04:11am): これ何うんこ？
 - **Zest Amplifier** (Sep 02, 2026 11:02am): しらん
 - **Anonymous** (Sep 03, 2026 05:36am): 日本人？
+- **Anonymous** (Sep 03, 2026 09:21am): どうせ移民の子供だろ
 
 #### Additional Information
 - **Post color:** White
