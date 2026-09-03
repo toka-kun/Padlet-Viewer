@@ -1,17 +1,27 @@
-最終取得: 2026/09/04 08:15:00
+最終取得: 2026/09/04 08:51:42
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 83
+- **Posts:** 84
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 03, 2026 11:14pm
+- **Updated At:** Sep 03, 2026 11:44pm
 
 ## 雑談
 
-### 1. 大丈夫大丈夫大丈夫大丈夫大丈夫大丈夫↑なんか異変気づいた？
+### 1. ゲーム123
+**Author:** ｓ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 03, 2026 11:26pm
+- **Updated At:** Sep 03, 2026 11:26pm
+
+---
+
+### 2. 大丈夫大丈夫大丈夫大丈夫大丈夫大丈夫↑なんか異変気づいた？
 **Author:** 匿名
 
 #### Comments (4)
@@ -27,7 +37,7 @@
 
 ---
 
-### 2. 誰かいますか？
+### 3. 誰かいますか？
 **Author:** そーりー (999d3145fe729ae4)
 
 #### Comments (9)
@@ -48,16 +58,18 @@
 
 ---
 
-### 3. 明日学校雨でなくなるかもしれないマジで神
+### 4. 明日学校雨でなくなるかもしれないマジで神
 **Author:** えいこ
 
-#### Comments (6)
+#### Comments (8)
 - **Anonymous** (Sep 03, 2026 09:23am): なんか今日から長文打ってる賢いガキ新入りしたくないか？
 - **Anonymous** (Sep 03, 2026 09:23am): そこらを調べたらわかる
 - **Anonymous** (Sep 03, 2026 09:27am): あっ！お前がえいこちゅあ〜んか
 - **Anonymous** (Sep 03, 2026 09:29am): 「指先で膝の上に文字を書くような仕草もみられました。」この記事を見てはっとしました。大昔近所にいた性的異常者の男性が同じしぐさをしていました。子供心に不思議に思い今でも覚えています。
 - **Anonymous** (Sep 03, 2026 09:41am): 申し訳ない申しませんからどうか許してください
 - **Anonymous** (Sep 03, 2026 02:19pm): はぁ？
+- **えいこ** (Sep 03, 2026 11:24pm): ならなかった
+- **Anonymous** (Sep 03, 2026 11:44pm): 君が最近噂の　英語
 
 #### Additional Information
 - **Post color:** White
@@ -66,10 +78,10 @@
 
 ---
 
-### 4. 音楽聴けるサイトください（学校のダブレット）
+### 5. 音楽聴けるサイトください（学校のダブレット）
 **Author:** Nannka　Youtube (s1923051_1)
 
-#### Comments (13)
+#### Comments (14)
 - **Anonymous** (Sep 03, 2026 03:19am): スマホで聞けば？何歳でちゅか？
 - **アシカビ** (Sep 03, 2026 04:02am): 　
 - **Anonymous** (Sep 03, 2026 05:11am): あっぷるみゅーじっく
@@ -83,6 +95,7 @@
 - **Anonymous** (Sep 03, 2026 09:42am): つまり今日はやばい人ばっかるってことだ！
 - **常時暇人のたけさん** (Sep 03, 2026 12:39pm): オワコンで草^o^\
 - **Anonymous** (Sep 03, 2026 01:35pm): 「オワコン」には、「終わったコンテンツ」を指すネットスラングと、「水を通すコンクリート」を指す建築資材の商品名の2つの意味があります。1. ネットスラングとしての「オワコン」「終わったコンテンツ」の略語です。一時はブームになり大流行したものの、すでに世間から飽きられ、流行遅れになったものを意味します。 2000年代中盤に2ちゃんねるなどの匿名掲示板で使われ始め、当初はアニメ、漫画、ゲーム、アイドルなどを冷めた視点で指す言葉でした。現在ではビジネス、サービス、国や時代の停滞感を表現する言葉としても広く使われています。 ゼクシィ +3例文：「このアプリも完全にオワコンだね」2. 建築資材としての「オワコン」株式会社 長岡生コンクリートが製造・施工を行っている造粒ポーラス（透水性）コンクリートの商品名です。 従来のコンクリートとは異なり、水が下に通り抜ける構造をしています。そのため、一般住宅のお庭や犬走りに敷くことで、以下のようなメリットがあります。 四季辺 +2水たまりやぬかるみができない雑草が下から生えてこない作業が簡単でDIYでも施工できる（撒いて足で踏み固めるだけで固まるため）通常の土間コンクリートより費用を抑えられる場合がある 
+- **ぷぷ** (Sep 03, 2026 11:42pm): https://sc.opnxng.com/search?q=&type=any好きな曲調べたら聴けるよ
 
 #### Additional Information
 - **Post color:** White
@@ -91,7 +104,7 @@
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** 匿名 (r0245154)
 
 まじではいって
@@ -117,7 +130,7 @@
 
 ---
 
-### 6. よ
+### 7. よ
 **Author:** ヤクシカブト (s1923003_1)
 
 #### Comments (6)
@@ -138,7 +151,7 @@
 
 ---
 
-### 7. だる
+### 8. だる
 **Author:** Nannka　Youtube (s1923051_1)
 
 #### Comments (6)
@@ -156,7 +169,7 @@
 
 ---
 
-### 8. 今もずっと動いてる部屋教えてください人多いところがいいです
+### 9. 今もずっと動いてる部屋教えてください人多いところがいいです
 **Author:** ちゆ
 
 #### Additional Information
@@ -166,7 +179,7 @@
 
 ---
 
-### 9. チャット（ゆうと、みなと、れお、えいいち、まひろ）
+### 10. チャット（ゆうと、みなと、れお、えいいち、まひろ）
 **Author:** れお
 
 [https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing](https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing)
@@ -183,7 +196,7 @@
 
 ---
 
-### 10. 前の土日、何した？
+### 11. 前の土日、何した？
 **Author:** 港
 
 #### Comments (2)
@@ -197,7 +210,7 @@
 
 ---
 
-### 11. みんなおばあちゃんち行った？
+### 12. みんなおばあちゃんち行った？
 **Author:** みなと
 
 #### Comments (5)
@@ -214,7 +227,7 @@
 
 ---
 
-### 12. 雑談
+### 13. 雑談
 **Author:** TENTENNTENN
 
 
@@ -230,7 +243,7 @@
 
 ---
 
-### 13. 学校ってみんなきらい俺台っきらい
+### 14. 学校ってみんなきらい俺台っきらい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (7)
@@ -249,7 +262,7 @@
 
 ---
 
-### 14. 夏休み楽しかった
+### 15. 夏休み楽しかった
 **Author:** みなと
 
 #### Comments (8)
@@ -269,7 +282,7 @@
 
 ---
 
-### 15. geometrydashの定員募集中（10人）
+### 16. geometrydashの定員募集中（10人）
 **Author:** ゆうと
 
 [https://forms.gle/MB8vdXJbKXKy2nG98](https://forms.gle/MB8vdXJbKXKy2nG98)
@@ -283,7 +296,7 @@
 
 ---
 
-### 16. 後ろ見ろ
+### 17. 後ろ見ろ
 **Author:** 犬
 
 #### Comments (1)
@@ -296,7 +309,7 @@
 
 ---
 
-### 17. ビデオ通話
+### 18. ビデオ通話
 **Author:** シラカバ
 
 学校嫌だ
@@ -317,7 +330,7 @@
 
 ---
 
-### 18. あ
+### 19. あ
 **Author:** シラカバ
 
 あ
@@ -337,7 +350,7 @@
 
 ---
 
-### 19. poki
+### 20. poki
 **Author:** 常闇 トワ（不地口手万ディ） (Fleeex)
 
 [Attachment 1](https://poki.io/)
@@ -349,7 +362,7 @@
 
 ---
 
-### 20. まだうごいてんのここwwwwwww
+### 21. まだうごいてんのここwwwwwww
 **Author:** 💍持ち #kgtとプロたんの囲い😙 (c_coa09)
 
 #### Comments (2)
@@ -363,7 +376,7 @@
 
 ---
 
-### 21. 一旦消しました
+### 22. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
 #### Comments (29)
@@ -486,10 +499,11 @@
 
 [Attachment 1](https://sites.google.com/view/dominumnetworkv2/entertainment/m0v1es)
 
-#### Comments (3)
+#### Comments (4)
 - **ぴる** (Sep 03, 2026 02:05am): え神すぎるズートピアとかホラー映画みれるのやばい
 - **Anonymous** (Sep 03, 2026 03:13am): 見たい
 - **Anonymous** (Sep 03, 2026 03:14am): ていうかここマザーファッカーしかいないのかよ笑
+- **わ** (Sep 03, 2026 11:41pm): ここ開いて下にスライドしたらいろんな映画ある
 
 #### Additional Information
 - **Post color:** White
@@ -802,8 +816,9 @@
 ### 13. いんすたないですか
 **Author:** う
 
-#### Comments (1)
+#### Comments (2)
 - **Anonymous** (Sep 03, 2026 01:40pm): あるよでもなんであんたに教えないといけないの？
+- **う** (Sep 03, 2026 11:45pm): 教えてほしいサイトありますか？？このサイトわたしが知ってたら交換しましょう
 
 #### Additional Information
 - **Post color:** White
@@ -1121,7 +1136,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789082163&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VKb2KHiFk%2Bm3kls%2FSPc5avucwpKt%2FZx3qsSCUMIyP3gZsisRnqo2hDvQ4UgSpQj5iG8bK2%2FUTJsFatTv5wSRlxkRm0YO54lCMGNQSwE7i8Z86poFecZVRLKWxTtTv1T8SgvNaikMl9%2FBb7y2nli9PX0reHq1TopbOSnssqcbmQ2%2FKywCjeRqcH19Lx6%2B7zcqLYLNhyaFBnyzJSjT7VZHsFcdWXjvEgIq2WrS7%2F2vYs1AO2TurMrrz7vncsd91hy7zvA1XGRW4YO4UFAjSRxPLYHkLmsDFa2BmU7MH5bWQoQySJigLeZ2RXcbpHp34HloFLu4kPp9hOSji2I%2FG4E4VQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789084369&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rbnf14VBU06s44237vqBqfMNNMRhV2A3PQG6TpqNglzMpFzy%2Foeer6ppc%2FtMBlSEhKBJpxWc2qgj4kp0p%2BvOnYi5IVT%2BCemYmYboUuxBE1sNqDWtINihiUdsS6QdctVVQ%2BkxapSKZ1Ll5utx5CU2qmEE4ro4WrCVN8S5J7l01Y2qDYDT6ealvJCUD1Vuh3qRsLFpdYSalzqCEl5FF3y43OWo9wuXEnVYCsWe8jwrH%2Bxgo8udm0HAlQjy1srgW78BrLiLhfnlw9xPTKBKeI4q5%2BP%2Bzg1Q2LVZ19s9GTaou2n057rmtvI1mQdDcxLNGaw%2BAV%2B6Gl24h3tUfu583gFjRg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (3)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1185,7 +1200,7 @@ No post
 - **カナタビ** (Sep 01, 2026 01:38am): 例:　youtube.com
 
 #### Reactions
-- **Emojis:** 👍 (2)
+- **Emojis:** 👍 (3)
 
 #### Additional Information
 - **Post color:** White
@@ -1234,7 +1249,7 @@ No post
 ### 2. 学タブで見れるユーチューブほしいですお願いします
 **Author:** ぼちぼちいこか愛好家 (2101038_5)
 
-#### Comments (10)
+#### Comments (11)
 - **かぼちゃ** (Sep 01, 2026 12:59am): https://script.google.com/a/macros/g.bears.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
 - **ぼちぼちいこか愛好家** (Sep 01, 2026 02:35am): ありがとうございます
 - **えいこ** (Sep 01, 2026 04:14am): かぼちゃさんそれでもブロックされたよ
@@ -1245,6 +1260,7 @@ No post
 - **ハルツユ** (Sep 03, 2026 01:38am): ショート見れないの泣く
 - **Anonymous** (Sep 03, 2026 06:04am): ちょっとみれなくないですか
 - **Anonymous** (Sep 03, 2026 06:04am): みるほうほうをおしえてほしいです
+- **Anonymous** (Sep 03, 2026 11:16pm): 乙
 
 #### Additional Information
 - **Post color:** White
@@ -1344,7 +1360,7 @@ No post
 
 💩
 
-#### Comments (13)
+#### Comments (14)
 - **ユリカ** (Sep 02, 2026 01:02am): まんこーまんげーちんちちんげーはなーがさいたらー
 - **おなべさん(新垢** (Sep 03, 2026 04:35am): 下ネタ言えば何でも良いってわけじゃねぇよ
 - **Anonymous** (Sep 03, 2026 05:33am): 「下ネタ言えばなんでも良いってわけじゃねぇよ」とか、わざわざこんな吹き溜まりみたいな場所でありがたく御高説垂れてる姿、最高に滑稽で香ばしいですね。 「性」の話が出た途端にシュッとお行儀のいいお説教モードに入って同調圧力こねくり回すあたり、いかにも「世間様の手前、性タブーを守らなきゃいけない」同同同調圧力が染みついた日本人らしくて実に味わい深いです。 そんなにコンプライアンスと品行方正がお好きなら、わざわざこんなネットの隅っこで不毛な正義感ごっこしてないで、現実の教科書でも音読してすまし顔で暮らしてたらどうですか？ 見ていてお寒い限りですよ。
@@ -1358,6 +1374,7 @@ No post
 - **Anonymous** (Sep 03, 2026 10:49pm): ちなみに何歳
 - **Anonymous** (Sep 03, 2026 10:53pm): まあおれは
 - **Anonymous** (Sep 03, 2026 10:53pm): ガキです
+- **Anonymous** (Sep 03, 2026 11:30pm): だからガキの定義聞いてるんだろアホがよ何歳か教えたれよぼけ
 
 #### Additional Information
 - **Post color:** White
