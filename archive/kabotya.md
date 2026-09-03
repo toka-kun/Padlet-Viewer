@@ -1,4 +1,4 @@
-最終取得: 2026/09/03 22:37:08
+最終取得: 2026/09/03 23:30:08
 
 # 規制突破の世界
 
@@ -7,7 +7,7 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 83
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 03, 2026 01:36pm
+- **Updated At:** Sep 03, 2026 02:20pm
 
 ## 雑談
 
@@ -29,7 +29,7 @@
 ### 2. 誰かいますか？
 **Author:** そーりー (999d3145fe729ae4)
 
-#### Comments (8)
+#### Comments (9)
 - **そーりー** (Sep 03, 2026 09:49am): 俺は中谷と同じ学校だお
 - **そーりー** (Sep 03, 2026 09:49am): 中谷にいる？
 - **Anonymous** (Sep 03, 2026 10:59am): おっぱい
@@ -38,6 +38,7 @@
 - **Anonymous** (Sep 03, 2026 11:00am): おっぱい
 - **匿名** (Sep 03, 2026 12:20pm): ↑の人マジやばい
 - **匿名** (Sep 03, 2026 12:20pm): てかこれ何て書いたらいいん？
+- **Anonymous** (Sep 03, 2026 02:19pm): ぱいずりとか書いたらそこら辺のチンパンジー喜ぶんじゃない？
 
 #### Additional Information
 - **Post color:** White
@@ -49,12 +50,13 @@
 ### 3. 明日学校雨でなくなるかもしれないマジで神
 **Author:** えいこ
 
-#### Comments (5)
+#### Comments (6)
 - **Anonymous** (Sep 03, 2026 09:23am): なんか今日から長文打ってる賢いガキ新入りしたくないか？
 - **Anonymous** (Sep 03, 2026 09:23am): そこらを調べたらわかる
 - **Anonymous** (Sep 03, 2026 09:27am): あっ！お前がえいこちゅあ〜んか
 - **Anonymous** (Sep 03, 2026 09:29am): 「指先で膝の上に文字を書くような仕草もみられました。」この記事を見てはっとしました。大昔近所にいた性的異常者の男性が同じしぐさをしていました。子供心に不思議に思い今でも覚えています。
 - **Anonymous** (Sep 03, 2026 09:41am): 申し訳ない申しませんからどうか許してください
+- **Anonymous** (Sep 03, 2026 02:19pm): はぁ？
 
 #### Additional Information
 - **Post color:** White
@@ -183,8 +185,9 @@
 ### 10. 前の土日、何した？
 **Author:** 港
 
-#### Comments (1)
+#### Comments (2)
 - **えいこ** (Sep 01, 2026 02:28am): りく上の合宿
+- **Anonymous** (Sep 03, 2026 02:20pm): そこで夜の営みしたんだね良かったじゃん
 
 #### Additional Information
 - **Post color:** White
@@ -643,6 +646,9 @@
 ### 2. あ
 **Author:** チンアナゴ
 
+#### Comments (1)
+- **Anonymous** (Sep 03, 2026 01:38pm): いうえおかきくけこさしすせそ
+
 #### Additional Information
 - **Post color:** Yellow
 - **Created At:** Sep 02, 2026 10:10am
@@ -700,6 +706,9 @@
 ### 6. ゆうと、どうやってけすの？
 **Author:** 港
 
+#### Comments (1)
+- **Anonymous** (Sep 03, 2026 01:39pm): 俺に聞くな！
+
 #### Additional Information
 - **Post color:** White
 - **Created At:** Sep 01, 2026 11:37pm
@@ -710,6 +719,9 @@
 ### 7. インスタできるやつください
 **Author:** ０２２３
 
+#### Comments (1)
+- **Anonymous** (Sep 03, 2026 01:39pm): スマホで解決!
+
 #### Additional Information
 - **Post color:** White
 - **Created At:** Sep 01, 2026 05:47am
@@ -719,6 +731,9 @@
 
 ### 8. 誰か軽いproxyくれ　ブロックされるやつでもいいから
 **Author:** ノハルカ
+
+#### Comments (1)
+- **Anonymous** (Sep 03, 2026 01:39pm): お前は馬鹿か？
 
 #### Additional Information
 - **Post color:** White
@@ -782,6 +797,9 @@
 ### 13. いんすたないですか
 **Author:** う
 
+#### Comments (1)
+- **Anonymous** (Sep 03, 2026 01:40pm): あるよでもなんであんたに教えないといけないの？
+
 #### Additional Information
 - **Post color:** White
 - **Created At:** Aug 31, 2026 01:23am
@@ -794,9 +812,10 @@
 
 エロい漫画見れるサイト教えて
 
-#### Comments (2)
+#### Comments (3)
 - **シオホシ** (Aug 30, 2026 11:06pm): https://script.google.com/macros/s/AKfycbyw3eCNyqJ_NhBXp6Dm-7HpJPYPJsIUP7u37wNRJ-FpGSCJuq_wkb80i0qKa5jBRrA2/exec
 - **匿名** (Sep 03, 2026 12:35pm): 何でこんなもの欲しがるんですか？
+- **Anonymous** (Sep 03, 2026 01:40pm): それは性的欲求を満たすため分かりきったことだろ
 
 #### Additional Information
 - **Post color:** White
@@ -824,9 +843,11 @@
 ### 16. 誰かpokiのサイト載せて
 **Author:** 匿名
 
-#### Comments (2)
+#### Comments (4)
 - **Anonymous** (Sep 03, 2026 05:58am): 良くないよ　人が死ぬの見ておもろいの？死なないと分からないんか？
 - **匿名** (Sep 03, 2026 12:35pm): まず誰も載せないと思うので安心してください
+- **Anonymous** (Sep 03, 2026 01:41pm): 安心してください？世界が終わるってのに！？
+- **Anonymous** (Sep 03, 2026 02:05pm): つまりDoomsday?Judgement day?
 
 #### Additional Information
 - **Post color:** White
@@ -874,9 +895,10 @@ fernって名前のやつ　履歴消したらきえt
 
 アニメサイトくれたら漫画サイトあげるで
 
-#### Comments (2)
+#### Comments (3)
 - **ツユノハ** (Aug 31, 2026 12:30am): https://sites.google.com/view/dominumnetworkv2/other/change-logsこれのうえのポップコーンのマーク押してあにめって英語で書いてるところ押したらみれる
 - **Anonymous** (Sep 03, 2026 07:01am): このウェブサイトは現在管理者によって規制されています。あなたがリクエストしたURLhttps://sites.google.com/view/dominumnetworkv2/other/change-logs規制理由(カテゴリ)プロバイダ・ポータル・ホスティング > ホスティングISP And Portals > Web Hosting
+- **Anonymous** (Sep 03, 2026 01:42pm): お…おっおう…
 
 #### Additional Information
 - **Post color:** White
@@ -906,7 +928,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 21. エロサイトくれ
 **Author:** スギノネ
 
-#### Comments (14)
+#### Comments (16)
 - **フミダシ** (Aug 27, 2026 11:06am): きっも
 - **でにでにろつとまん** (Aug 27, 2026 11:45pm): 俺も欲しい
 - **匿名** (Aug 28, 2026 04:08am): 保健室ってサイトがエロサイト
@@ -921,6 +943,8 @@ fernって名前のやつ　履歴消したらきえt
 - **ハナノアサ** (Aug 31, 2026 03:48am): オナニーの動画くれ
 - **Anonymous** (Sep 03, 2026 06:59am): ゲイかよ
 - **Anonymous** (Sep 03, 2026 09:18am): マジそれな
+- **Anonymous** (Sep 03, 2026 02:18pm): いまじい
+- **Anonymous** (Sep 03, 2026 02:18pm): してる
 
 #### Additional Information
 - **Post color:** White
@@ -934,7 +958,7 @@ fernって名前のやつ　履歴消したらきえt
 
 保健室のサイト　誰かほしいです！
 
-#### Comments (15)
+#### Comments (16)
 - **かぼちゃ** (Aug 28, 2026 12:23am): https://padlet.com/s22y164/padlet-yy2k3c5ijiflpmpw
 - **ミナソコ** (Aug 28, 2026 09:24am): あざっす
 - **ニック** (Aug 28, 2026 11:38am): こんにちわ
@@ -950,6 +974,7 @@ fernって名前のやつ　履歴消したらきえt
 - **ゲーム** (Sep 01, 2026 04:17am): ok
 - **カゼドリ** (Sep 01, 2026 05:48am): お願いします
 - **アシカビ** (Sep 03, 2026 04:03am): まじで
+- **Anonymous** (Sep 03, 2026 01:42pm): でんま？
 
 #### Additional Information
 - **Post color:** White
@@ -963,8 +988,10 @@ fernって名前のやつ　履歴消したらきえt
 ### 1. 友達からの紹介で来ました　ここはどういうところですか？
 **Author:** タビゴロモ
 
-#### Comments (1)
+#### Comments (3)
 - **黒龍** (Sep 03, 2026 10:31am): 学タブでできるゲームを貼ったりする場所だよー
+- **Anonymous** (Sep 03, 2026 01:44pm): 作戦を練る！
+- **Anonymous** (Sep 03, 2026 01:51pm): あ、いらっしゃい。わざわざこんなアングラ（笑）な規制回避サイトまで辿り着いて、第一声が『初めまして』ですか。丁寧で大変よろしいこと。でもね、そんな誰も見ていないような掲示板の片隅で律儀に挨拶してる時点で、ネットの歩き方を致命的に勘違いしている負け組だって自ら白状しているようなものですよ？大体、そんなところで呑気に『初めまして〜！抜け道教えてください！』なんて書き込んでいる暇があったら、目の前の安っぽい配備タブレットと、それを必死に制御しようとしている大人たちの浅薄な知恵比べに、少しは自力で食らいついたらどうなんです？必死に『作戦』を寝る（練る、の間違いですよね？寝てどうするんですか？）サイトに通い詰めて、他人のふんどしでYouTubeを見ようとするその涙ぐましい努力、本当に素晴らしいと思います。まあ、その『初めまして』に対するお返事が、誰からも相手にされずに過疎っていく現実を、まずはその制限だらけの画面越しに、じっくりと噛み締めてみてくださいね」
 
 #### Additional Information
 - **Post color:** White
@@ -995,7 +1022,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 3. 巨乳派か貧乳派
 **Author:** ハナノアサ
 
-#### Comments (16)
+#### Comments (17)
 - **長井典子（４９）** (Sep 01, 2026 02:02am): あ
 - **常時暇人のたけさん** (Sep 01, 2026 03:27am): 巨だろ
 - **ナギサノ** (Sep 01, 2026 03:37am): わかる
@@ -1012,6 +1039,7 @@ fernって名前のやつ　履歴消したらきえt
 - **Anonymous** (Sep 03, 2026 05:45am): ていうかお前女かよ若い子はいいねぇわしゃもう２０歳じゃよ
 - **あｓ** (Sep 03, 2026 08:01am): 巨
 - **常時暇人のたけさん** (Sep 03, 2026 08:03am): ２０ｗパドレットで部屋でも作れば？ｗｗ
+- **Anonymous** (Sep 03, 2026 01:45pm): また　たけさん…うざったいな
 
 #### Additional Information
 - **Post color:** White
@@ -1023,7 +1051,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 4. 巨乳か貧乳かどっち
 **Author:** フミアト
 
-#### Comments (9)
+#### Comments (10)
 - **常時暇人のたけさん** (Sep 01, 2026 04:41am): 巨しかないだろ
 - **WEI SHENG JI** (Sep 02, 2026 04:10am): キモいよ！
 - **ハネミ** (Sep 02, 2026 08:53am): 思春期じゃない子供だね！
@@ -1033,6 +1061,7 @@ fernって名前のやつ　履歴消したらきえt
 - **常時暇人のたけさん** (Sep 03, 2026 08:04am): 巨か貧か聞いてるんだから、それを答えばいいじゃん。
 - **常時暇人のたけさん** (Sep 03, 2026 08:04am): 関係ないのはコメントしなくていいと思うんですが
 - **匿名** (Sep 03, 2026 12:19pm): ?
+- **Anonymous** (Sep 03, 2026 01:45pm): また　たけさん…厳しいって　ダサいって　もうお前黙っとけ
 
 #### Additional Information
 - **Post color:** White
@@ -1044,7 +1073,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 5. ブロスタやってる人トロ数書いて
 **Author:** フミダシ
 
-#### Comments (18)
+#### Comments (20)
 - **Anonymous** (Aug 27, 2026 11:52am): 77777
 - **ユメノ** (Aug 28, 2026 10:21am): 20000ちょい
 - **匿名** (Aug 28, 2026 11:12am): 始めたばっかで9000
@@ -1063,6 +1092,8 @@ fernって名前のやつ　履歴消したらきえt
 - **カゼビヨリ** (Sep 03, 2026 05:33am): おれマス2 
 - **Anonymous** (Sep 03, 2026 05:48am): 自殺しようか迷ってるからお前らで決めて　では…4時間後にチェックするぜ
 - **Anonymous** (Sep 03, 2026 09:19am): 誰か答えたれよ！タイムリミットまであと1時間！
+- **Anonymous** (Sep 03, 2026 01:46pm): もう時間切れジャン…大丈夫だったのか？
+- **Anonymous** (Sep 03, 2026 02:18pm): たぶん手遅れここ病んでるガキしかいないし…きっと 
 
 #### Additional Information
 - **Post color:** White
@@ -1082,7 +1113,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789047498&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YgmVzAdKORXHv5EbKdX3aIt%2B6LQtCUnq7X7%2BrUXCc07IuUdjXq%2Bxj7NDBSTPzMCJTjWg%2BUYlPQG5NN2Z88ey6FJqm08iw6CzpN1%2Fbaf5BZYSG%2FXWhQJImRJqHgmRMddmSFoD8QxIpmNZkzJ%2FcgV3RpoQDqGjM9CGUT87PfIrwJWlNGQG5xsroS%2FYGkNCh%2BpOCDANft3%2FVZewzyvZVXrbh9aIPZITi1DHoavLM0olEuWCQahe%2FoxGj4Oo%2BukHZnjBg74bdWzChb1OpZHMjrEVx3Dfcattbi5htzGTg%2FUsE498cxhOyWf67goBomyVEG36%2B6SI%2F8e33mXYa80YXDEM8w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789050679&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4nIFq3cDRwHOM%2Fi5BV54jouWn48TDT9FOYugUR%2BJ8a%2F7JtAU1OvwnqjZVf9YyBdRJAOlm47DC2Y62XP9os3yIC8rH%2BI6gqwWtSbeVWE9j8iOHjf2zct3kapDvkPwenf48UnUH2SiWzz2baC7WGvMHarjZie38Vc%2F8sBTKeJ%2BYajDkF7i39I%2Fp6Uvu7EPO2UYKYfFIbxXE4gKBHLemQOPxEYjF9MR7rMlWc3vOS1dv8%2BjysYgoaG4SoQ%2FVb1u42wqtM75bhv78ABPcNwkBHFIGch987UJmU6anweN8pWCnoox%2B7LMeQX32LekLjKOACWbVIbQO4xhI2xNvQ2XOZKbQA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (3)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1101,7 +1132,7 @@ ID:shibboleth
 
 [Attachment 1](https://u.topia.2a.exe.googleapis.com.hospitaldelninodif.gob.mx/)
 
-#### Comments (11)
+#### Comments (12)
 - **おとちん** (Aug 28, 2026 10:04am): サイトのURLコピーして貼ったら見れる
 - **ぼちぼちいこか愛好家** (Sep 01, 2026 12:48am): マジで？
 - **カナタビ** (Sep 01, 2026 12:55am): proxy?
@@ -1113,6 +1144,7 @@ ID:shibboleth
 - **Anonymous** (Sep 03, 2026 05:43am): マジそれなスマホ授業中見ようぜ授業中に学校のテレビミラーリングして俺はav 流したぜ小5の時もうそれも…10年も前かぁ
 - **トオカゼ** (Sep 03, 2026 10:03am): 虚言ｗ
 - **ホシヨミ** (Sep 03, 2026 12:50pm): 消されたんやけど
+- **Anonymous** (Sep 03, 2026 01:47pm): トオカゼ…虚言とか決めつけるのはただのクソインキャだぞまあ自覚してるか…言う必要はなかったな
 
 #### Reactions
 - **Emojis:** ❤️ (2) 👍 (1) 😄 (1)
@@ -1303,7 +1335,7 @@ No post
 
 💩
 
-#### Comments (9)
+#### Comments (10)
 - **ユリカ** (Sep 02, 2026 01:02am): まんこーまんげーちんちちんげーはなーがさいたらー
 - **おなべさん(新垢** (Sep 03, 2026 04:35am): 下ネタ言えば何でも良いってわけじゃねぇよ
 - **Anonymous** (Sep 03, 2026 05:33am): 「下ネタ言えばなんでも良いってわけじゃねぇよ」とか、わざわざこんな吹き溜まりみたいな場所でありがたく御高説垂れてる姿、最高に滑稽で香ばしいですね。 「性」の話が出た途端にシュッとお行儀のいいお説教モードに入って同調圧力こねくり回すあたり、いかにも「世間様の手前、性タブーを守らなきゃいけない」同同同調圧力が染みついた日本人らしくて実に味わい深いです。 そんなにコンプライアンスと品行方正がお好きなら、わざわざこんなネットの隅っこで不毛な正義感ごっこしてないで、現実の教科書でも音読してすまし顔で暮らしてたらどうですか？ 見ていてお寒い限りですよ。
@@ -1313,6 +1345,7 @@ No post
 - **Anonymous** (Sep 03, 2026 09:20am): そいつって誰のこと？このボケアホカスがよ
 - **Anonymous** (Sep 03, 2026 09:59am): 黙れ老害
 - **匿名** (Sep 03, 2026 12:29pm): 喧嘩すな
+- **Anonymous** (Sep 03, 2026 01:49pm): 老害？おまえ(😛)どうせガキだよ黙れ老害って言ってるの幼稚に見えるから次から気をつけな
 
 #### Additional Information
 - **Post color:** White
@@ -1439,7 +1472,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 ### 9. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
-#### Comments (10)
+#### Comments (11)
 - **かめかめかめ** (Aug 28, 2026 01:55am): できれば爺とやりたい
 - **34b6kq** (Aug 28, 2026 03:38am): かめかめかめ　それは意味わからん
 - **匿名** (Aug 28, 2026 07:56am): イズミ雑魚ってどういうこと？なにを持って雑魚なの？
@@ -1450,6 +1483,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 - **Anonymous** (Sep 03, 2026 05:39am): 性欲の処理と一緒に、最低限のネットリテラシーと『自分がどこの国に生きているか』という現実までどこかに置き忘れてきちゃったのかな？
 - **Anonymous** (Sep 03, 2026 10:01am): うまい
 - **Anonymous** (Sep 03, 2026 10:02am): 母乳が
+- **Anonymous** (Sep 03, 2026 01:50pm): あっ君は老害ニキだ
 
 #### Reactions
 - **Emojis:** 👎 (1)
@@ -1464,13 +1498,14 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 ### 10. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
-#### Comments (6)
+#### Comments (7)
 - **ホシノワ** (Aug 27, 2026 06:54am): ゲームのサイト乗っけて
 - **ホシノワ** (Aug 27, 2026 06:54am): だれか
 - **Anonymous** (Aug 28, 2026 08:14am): Ubg67って調べて 
 - **匿名** (Aug 28, 2026 11:49am): ブロックされた
 - **匿名** (Aug 28, 2026 11:50am): pokiのサイトのせて
 - **ニック** (Aug 28, 2026 01:18pm): わかりました
+- **Anonymous** (Sep 03, 2026 01:50pm): お断りします！
 
 #### Additional Information
 - **Post color:** White
