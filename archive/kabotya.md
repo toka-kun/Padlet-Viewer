@@ -1,4 +1,4 @@
-最終取得: 2026/09/03 13:41:37
+最終取得: 2026/09/03 14:01:33
 
 # 規制突破の世界
 
@@ -7,7 +7,7 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 76
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 03, 2026 04:36am
+- **Updated At:** Sep 03, 2026 04:58am
 
 ## 雑談
 
@@ -281,7 +281,7 @@
 ### 18. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
-#### Comments (27)
+#### Comments (28)
 - **フブキコ** (Aug 26, 2026 04:51am): けすなよお
 - **ワカナ** (Aug 26, 2026 05:03am): けさないで
 - **ワカナ** (Aug 26, 2026 05:28am): もう！！
@@ -309,6 +309,7 @@
 - **犬** (Sep 02, 2026 09:18am): クソ雑魚荒らしやんけww
 - **えいこ** (Sep 02, 2026 11:33pm): それ
 - **おなべさん(新垢** (Sep 03, 2026 04:27am): 重くすらなってない
+- **Anonymous** (Sep 03, 2026 04:58am): 文字化けレベルの書き込みと、それに群がるチンパンジーの鳴き声。どっちも低レベルすぎて、ここだけネットの底が抜けてるのかと思った。お互い自分の姿を鏡で見てから書き込んだ方がいいよ、本気で滑稽だから。
 
 #### Reactions
 - **Emojis:** 😭 (8) 👍 (6) 🥲 (1) 😆 (1)
@@ -463,8 +464,9 @@
 ### 10. ゲームができるサイトよろブロスタとか
 **Author:** ブロスタ
 
-#### Comments (1)
+#### Comments (2)
 - **りゅう** (Aug 31, 2026 08:13am): それな
+- **Anonymous** (Sep 03, 2026 04:53am): なるほど、ゲームサイトが欲しいと。それで、ここにその願望を書き殴り、お仲間同士で『欲しいよね〜』と傷を舐め合っていれば、いつかどこかの親切なエンジニアがボランティアで理想のサイトを作って奉納してくれる、と本気で信じているわけですか。その並外れた他力本願っぷりと、時間の無駄遣いに対する圧倒的なハードルの低さには、心からの敬意を表します。ネットの片隅で無益な愚痴を言い合っている暇があるなら、ご自身でプログラミングの勉強でも始められたらいかがですか？ あ、失礼、そもそもそんな面倒な努力ができる頭があるなら、最初からこんな肥溜めに要望を書き込んだりしませんよね。
 
 #### Additional Information
 - **Post color:** White
@@ -912,7 +914,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789015369&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6crd6QP1zg0NK6czLx04XWcnocOcryAzhhP5vRiBsUaLEpAvV7iUWdBHZYgZSnMAH84cvN%2FgQliE1kqvHAedgAwBLiCcz2N1OqvLqJv3xEpcnyFL05ZtFExxDEq0HL%2FPtZq90jnaUHBNzALQwpvgD%2FFm2fvpP98126D6P0V6LWE0yN9BjgfZE7pepAWrjinDw%2FhI31eCgG%2FIALlrYIbDYGJfwa8lMQA59K8%2F80YDeAtQ83gaNNDT8aS7KNutSINN0Gukhftf8st%2BsD2CP9s%2Frqr04owoKPy1s7iSNWzWui6uFCitgX1WcHdEeRhqbjojf5AeP5a1Q8y4j%2BKXwWAwYw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789016555&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jy1TZKYWK%2Bx72Y8ziHsP2JPegp37n88XGCbWvGyfuhKLVzcWqiDP%2BNCu5nXuHC%2B16%2F9jqHGtneTMhVDyU7uLUla6VYGSj8hzF9CIegj3Mwq%2BnQgbaMqyIqdkWhqUx6uwy17juyj1ggvXft%2BrhvUQfmZgXSKNcjQms2Se95LZ0Lctjfz%2F8kSYOCvmYkSE2%2BtH9YYjBLv%2FX%2FWOkJ127DnzhSVMGtLX21UcYkneCAnHQUFVZX%2FeTIXZHAa9KVk%2B1chok8bcOtr4gYS4TVBph%2Fvqjal8NQmFnO8eG6000qljLLcM85b5s5FVjVWZhrJeP4Aak2WjlKhxwnayv5HaXEk1AA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (1)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
