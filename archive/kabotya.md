@@ -1,24 +1,29 @@
-最終取得: 2026/09/03 15:18:50
+最終取得: 2026/09/03 18:13:28
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 76
+- **Posts:** 77
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 03, 2026 06:10am
+- **Updated At:** Sep 03, 2026 09:13am
 
 ## 雑談
 
 ### 1. 音楽聴けるサイトください（学校のダブレット）
 **Author:** Nannka　Youtube (s1923051_1)
 
-#### Comments (4)
+#### Comments (9)
 - **Anonymous** (Sep 03, 2026 03:19am): スマホで聞けば？何歳でちゅか？
 - **アシカビ** (Sep 03, 2026 04:02am): 　
 - **Anonymous** (Sep 03, 2026 05:11am): あっぷるみゅーじっく
 - **Anonymous** (Sep 03, 2026 06:02am): 余計なこと言うな「あっぷるみゅーじっく」…ひらがな？ダッセーなカタカナ変換しろぼけ
+- **常時暇人のたけさん** (Sep 03, 2026 08:01am): ＃）（ピンクの）匿名さんへ、ぶっちゃけそれは家庭によるくない？
+- **常時暇人のたけさん** (Sep 03, 2026 08:02am): スマホを持てない家庭だってあるんやで？
+- **Anonymous** (Sep 03, 2026 09:08am): それはいまもじうったらきえるばぐおきてるから
+- **Anonymous** (Sep 03, 2026 09:08am): よみずらいのはごめん
+- **Anonymous** (Sep 03, 2026 09:13am): 「たけさん」ウザいって厳しいって 
 
 #### Additional Information
 - **Post color:** White
@@ -34,13 +39,16 @@
 
 [Attachment 1](https://padlet.com/r0245154/4-s0236wy5caguhuuhyzm8)
 
-#### Comments (6)
+#### Comments (9)
 - **匿名** (Sep 02, 2026 05:29am): まじではいって
 - **匿名** (Sep 02, 2026 05:29am): まじではいって
 - **匿名** (Sep 02, 2026 05:30am): ＃学タブでできるゲーム教えて
 - **ヤクシカブト** (Sep 03, 2026 02:29am): こんにちは
 - **Anonymous** (Sep 03, 2026 05:12am): ちんぽ
 - **Anonymous** (Sep 03, 2026 06:10am): ゲス野郎ども覚悟しろ  入ったるで重くならないのは知ってる  スクロールした時点でお前の負け諦めて「雑談」見るのやめて「ゲームサイト」見な  永久に続くわけではないここまで来たならそりゃもうストーカーだよクソッタレ  もはやここまでか…君の勝ち　  君は救世主だ！ストーカーの域を超えた！the end
+- **シオリ** (Sep 03, 2026 07:28am): 誰か〜MetaLifeっていうやつを送ってくれないかな？
+- **匿名** (Sep 03, 2026 07:40am): 誰かオンラインゲームを送ってほしい！
+- **Anonymous** (Sep 03, 2026 09:14am): 緑の匿名さん無視したるなって！これはガチ
 
 #### Additional Information
 - **Post color:** White
@@ -52,10 +60,12 @@
 ### 3. よ
 **Author:** ヤクシカブト (s1923003_1)
 
-#### Comments (3)
+#### Comments (5)
 - **ヤクシカブト** (Sep 02, 2026 04:53am): こんにちは
 - **Nannka　Youtube** (Sep 02, 2026 04:59am): ヤァ 
 - **Anonymous** (Sep 03, 2026 03:17am): 薬師兜sexしたの嘘だろ　まじマザーファッカーだなそんなこと如きデ…性にタブーなこの国では神扱いか？アメリカとかどうなってるか調べてみ
+- **匿名** (Sep 03, 2026 07:34am): ｃｄくえふぇｆ＠ｈｐｂｃｗぷｆｐれｐｂｐｃくｆぶｆｂｐｃｐｆｂるｂｐ
+- **匿名** (Sep 03, 2026 08:14am): がはははははははははは
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -178,12 +188,14 @@
 ### 11. 夏休み楽しかった
 **Author:** みなと
 
-#### Comments (5)
+#### Comments (7)
 - **初夏** (Aug 31, 2026 06:02am): 夏休みみんなどこいった〜？
 - **車好き** (Aug 31, 2026 09:07am): 家
 - **ヒヤシンス** (Aug 31, 2026 09:57am): 俺は、ゲーセンとか言ったり、おばあちゃんとおじいちゃんのお家にお泊りしたり、おばあちゃんと一緒に食べに行ったりした。笑笑
 - **ええいいここえいこ（えいこってよんでね）** (Aug 31, 2026 11:28pm): 家で友達とゲームした
 - **ヤクシカブト** (Sep 02, 2026 04:50am): せっくsした
+- **Anonymous** (Sep 03, 2026 06:44am): 薬師兜嘘厳しいって　え？嘘じゃないって？ああそっかだったら 夢の中で」って書き忘れて
+- **Anonymous** (Sep 03, 2026 06:44am): るよな　ボケカスがよ
 
 #### Additional Information
 - **Post color:** White
@@ -245,11 +257,12 @@
 
 あ
 
-#### Comments (4)
+#### Comments (5)
 - **みゅ** (Aug 31, 2026 01:09am): こんにちは
 - **初夏** (Aug 31, 2026 07:26am): お前誰やねん。ぶちころすぞ！笑笑
 - **Anonymous** (Aug 31, 2026 09:40pm): い
 - **ゲーム** (Sep 01, 2026 02:51am): 誰？全員
+- **Anonymous** (Sep 03, 2026 06:45am): お前こそ
 
 #### Additional Information
 - **Post color:** White
@@ -287,7 +300,7 @@
 ### 18. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
-#### Comments (28)
+#### Comments (29)
 - **フブキコ** (Aug 26, 2026 04:51am): けすなよお
 - **ワカナ** (Aug 26, 2026 05:03am): けさないで
 - **ワカナ** (Aug 26, 2026 05:28am): もう！！
@@ -316,6 +329,7 @@
 - **えいこ** (Sep 02, 2026 11:33pm): それ
 - **おなべさん(新垢** (Sep 03, 2026 04:27am): 重くすらなってない
 - **Anonymous** (Sep 03, 2026 04:58am): 文字化けレベルの書き込みと、それに群がるチンパンジーの鳴き声。どっちも低レベルすぎて、ここだけネットの底が抜けてるのかと思った。お互い自分の姿を鏡で見てから書き込んだ方がいいよ、本気で滑稽だから。
+- **Anonymous** (Sep 03, 2026 06:47am): おなべさんここにもいたんか！ホシウタやで
 
 #### Reactions
 - **Emojis:** 😭 (8) 👍 (6) 🥲 (1) 😆 (1)
@@ -334,7 +348,7 @@
 
 [Attachment 1](https://unpkg.com/classroomduck@1.0.29/index.html)
 
-#### Comments (8)
+#### Comments (11)
 - **ミドリネ** (Sep 01, 2026 10:01am): あっざっす
 - **ナミユメ** (Sep 01, 2026 10:32am): マジてんきゅー
 - **mbappe♯初代つつきの森会員♯狂鳥族２代目** (Sep 01, 2026 11:44am): てんきゅー
@@ -343,6 +357,9 @@
 - **ソラハル** (Sep 02, 2026 07:24am): まじさいこー
 - **えいこ** (Sep 03, 2026 12:36am): 神
 - **匿名1** (Sep 03, 2026 05:49am): いいね
+- **Anonymous** (Sep 03, 2026 06:47am): どーいたしまして
+- **ツキミ** (Sep 03, 2026 08:16am): 神様
+- **おむらいす** (Sep 03, 2026 08:44am): あざす
 
 #### Additional Information
 - **Post color:** White
@@ -405,13 +422,14 @@
 
 [Attachment 1](https://planet.mblock.cc/project/7857149)
 
-#### Comments (6)
+#### Comments (7)
 - **えいこ** (Sep 01, 2026 04:20am): いいねも押してね
 - **えいこ** (Sep 01, 2026 11:25pm): コメント書いて
 - **えいこ** (Sep 01, 2026 11:25pm): たのしいよ
 - **ソラハル** (Sep 02, 2026 07:23am): ちょっとむずいって。
 - **えいこ** (Sep 03, 2026 12:35am): スペースキーでジャンプ六ケットはスペースキー押したら上に上がれて話したら下に上がれるよ
 - **おおぬき** (Sep 03, 2026 05:20am): dekinai
+- **Anonymous** (Sep 03, 2026 06:48am): ローマ字打ちださ！時代遅れかよ
 
 #### Additional Information
 - **Post color:** White
@@ -423,10 +441,11 @@
 ### 7. ブロックの解除方法知ってる人いたら教えて
 **Author:** えいこ
 
-#### Comments (3)
+#### Comments (4)
 - **ゆきつばさ** (Sep 01, 2026 03:12am): シャットダウン繰り返す
 - **ノハルカ** (Sep 01, 2026 03:19am): （クロームブックでしか無理かも）
 - **おおぬき** (Sep 03, 2026 05:21am): 無理になった
+- **Anonymous** (Sep 03, 2026 06:49am): えーでぃーか…wおっつー！
 
 #### Additional Information
 - **Post color:** White
@@ -438,13 +457,14 @@
 ### 8. マイクラ
 **Author:** ナツヒカリ
 
-#### Comments (6)
+#### Comments (7)
 - **えいこ** (Sep 01, 2026 02:29am): したい
 - **えいこ** (Sep 01, 2026 02:29am): よ
 - **ゆきつばさ** (Sep 01, 2026 03:13am): ブロック解除してEagleCraftって調べたら無料でバージョン１２のマイク遊べる
 - **ゲーム** (Sep 01, 2026 04:07am): Eaglercraft - Free Open Source Browser MinecraftEaglercrafthttps://eaglercraft.com
 - **ゲーム** (Sep 01, 2026 04:07am): これマイクらできるやつ
 - **ゲーム** (Sep 01, 2026 04:08am): たぶんうそやったらごめん
+- **匿名** (Sep 03, 2026 07:45am): うそやんけ。学校のタブレットだったらできねーよ〜！ば〜かば〜か
 
 #### Additional Information
 - **Post color:** White
@@ -757,8 +777,9 @@ fernって名前のやつ　履歴消したらきえt
 
 アニメサイトくれたら漫画サイトあげるで
 
-#### Comments (1)
+#### Comments (2)
 - **ツユノハ** (Aug 31, 2026 12:30am): https://sites.google.com/view/dominumnetworkv2/other/change-logsこれのうえのポップコーンのマーク押してあにめって英語で書いてるところ押したらみれる
+- **Anonymous** (Sep 03, 2026 07:01am): このウェブサイトは現在管理者によって規制されています。あなたがリクエストしたURLhttps://sites.google.com/view/dominumnetworkv2/other/change-logs規制理由(カテゴリ)プロバイダ・ポータル・ホスティング > ホスティングISP And Portals > Web Hosting
 
 #### Additional Information
 - **Post color:** White
@@ -788,7 +809,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 21. エロサイトくれ
 **Author:** スギノネ
 
-#### Comments (12)
+#### Comments (13)
 - **フミダシ** (Aug 27, 2026 11:06am): きっも
 - **でにでにろつとまん** (Aug 27, 2026 11:45pm): 俺も欲しい
 - **匿名** (Aug 28, 2026 04:08am): 保健室ってサイトがエロサイト
@@ -801,6 +822,7 @@ fernって名前のやつ　履歴消したらきえt
 - **え** (Aug 31, 2026 03:10am): https://otobanana.com/deep/voicepost/trendこれろぐいんしたらえろ配信みれてろぐいんなしだったら音声聴けるよ最初の18歳以上ですかってやつはいにしてね
 - **ハナノアサ** (Aug 31, 2026 03:12am): できた
 - **ハナノアサ** (Aug 31, 2026 03:48am): オナニーの動画くれ
+- **Anonymous** (Sep 03, 2026 06:59am): ゲイかよ
 
 #### Additional Information
 - **Post color:** White
@@ -848,6 +870,9 @@ fernって名前のやつ　履歴消したらきえt
 - **ハナグモリ** (Sep 03, 2026 02:55am): Utopia
 - **きもてー** (Sep 03, 2026 03:11am): ほしい
 
+#### Reactions
+- **Emojis:** ❤️ (1)
+
 #### Additional Information
 - **Post color:** White
 - **Created At:** Sep 02, 2026 09:03am
@@ -858,7 +883,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 2. 巨乳派か貧乳派
 **Author:** ハナノアサ
 
-#### Comments (14)
+#### Comments (16)
 - **長井典子（４９）** (Sep 01, 2026 02:02am): あ
 - **常時暇人のたけさん** (Sep 01, 2026 03:27am): 巨だろ
 - **ナギサノ** (Sep 01, 2026 03:37am): わかる
@@ -873,6 +898,8 @@ fernって名前のやつ　履歴消したらきえt
 - **おなべさん(新垢** (Sep 03, 2026 04:32am): 健全な男子小中高生（人によりけりだが。男子だけとも限らず。）やったら普通にそれくら言うと思うけど…。てゆうかうち女だけど。ちなみにどっちも派！
 - **Anonymous** (Sep 03, 2026 05:41am): 何歳くらいがここに蔓延ってやがるの？おなべさん教えてよ
 - **Anonymous** (Sep 03, 2026 05:45am): ていうかお前女かよ若い子はいいねぇわしゃもう２０歳じゃよ
+- **あｓ** (Sep 03, 2026 08:01am): 巨
+- **常時暇人のたけさん** (Sep 03, 2026 08:03am): ２０ｗパドレットで部屋でも作れば？ｗｗ
 
 #### Additional Information
 - **Post color:** White
@@ -884,12 +911,15 @@ fernって名前のやつ　履歴消したらきえt
 ### 3. 巨乳か貧乳かどっち
 **Author:** フミアト
 
-#### Comments (5)
+#### Comments (8)
 - **常時暇人のたけさん** (Sep 01, 2026 04:41am): 巨しかないだろ
 - **WEI SHENG JI** (Sep 02, 2026 04:10am): キモいよ！
 - **ハネミ** (Sep 02, 2026 08:53am): 思春期じゃない子供だね！
 - **おなべさん(新垢** (Sep 03, 2026 04:33am): 同じことしか言ってない
 - **Anonymous** (Sep 03, 2026 05:11am): そうやって『同じことしか言ってない』と切り捨てるのは、こちらの意見を最初から理解するつもりがなく、議論を強制終了させたい時の典型的な逃げ文句ですよね。感情的にイラついたり皮肉を言ったりするのではなく、建設的な対話をしませんか？
+- **常時暇人のたけさん** (Sep 03, 2026 08:03am): そーいうの別によくねー？
+- **常時暇人のたけさん** (Sep 03, 2026 08:04am): 巨か貧か聞いてるんだから、それを答えばいいじゃん。
+- **常時暇人のたけさん** (Sep 03, 2026 08:04am): 関係ないのはコメントしなくていいと思うんですが
 
 #### Additional Information
 - **Post color:** White
@@ -938,11 +968,12 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789021195&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1thtNVbLezjOoKrvlF0oEXSkb0B%2FN8Ue9fs6h%2Bo4bR%2BtqeLdI67eXlhHRmtZHenMNjPTzSwM24MXTpXzFwFU%2BOXxKf81TollJO6YP3KNuN3vtNYTgNhIhWrxSG%2Farg3%2FG%2Fb5GwZKwPFCifIKyhxjk3IGKrQHT%2FfUdVnhLpPQDI2ymF9ei2YiZbwIYoh%2FmHooMXtuQu88SMH4grt112rd%2Bb1AhheOpHf0CkwWWf%2FAlqEVMdTCpIRQnS2Mge90O78wsgi3zNvOq3zTOpAsq81HVeibIKh%2BArTMDIhM5R4iHg5Z2%2BfcPJkxZacH%2BCcg1AcT2z6HSKforMYMfhLHLczy4g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789031676&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rGUjGNfpV7mdZIlLs89KAbDxAX%2BC%2FV%2FQgNjjEiBZMjAIcuBgjWr1kxMycc8ZCWWPlv9kFGOJ3HyufA5Pk0z2qR1vQ9%2B8EaOeoX8hzEXMotJwPDB%2BQgp3S%2B81v0zMIc6T73NOMWb9aX%2FUUQry7MyF6XVlzVxDMOFBpZ2EDUlLyWU0vDY%2BEGYumpk8HrfrafoIK49Wooi7e8flvZPuTaXtsNUbGiyE%2BsJZLi0pQr7Iqys0Log8%2FozVPLXGgKILD8o5N2wkE6t8WX9ocafNc6AaRG8qhLXcyI1hqwcvD0s7FED01ZEGkcjp55Y%2B8zRfdmKl%2BbZNg9R1wMhGCqF2dE7eBg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
-#### Comments (2)
+#### Comments (3)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
 - **ワホー2代目** (Sep 03, 2026 05:26am): どっちもできん
+- **ナゲット** (Sep 03, 2026 06:24am): https://mathadventure1.github.io/sm64/sm64/index.htmlマリオ64
 
 #### Additional Information
 - **Post color:** White
@@ -1032,6 +1063,9 @@ No post
 **Author:** シロハナ
 
 [Attachment 1](https://www.google.com/goto?url=CAESYwHrOzAVnYlw3x7WtbBQC3UOD8WLbTUdu014TNrH7STVWOLamMLI8WLXcksfgYWVJFBZONffy3HB7584_mm4AAJb4PYoLWOTIIe23SkcABM89VwZ41AfHzx4WXEQvbV9jVLw4Q)
+
+#### Comments (1)
+- **Anonymous** (Sep 03, 2026 07:02am): きとう？
 
 #### Additional Information
 - **Post color:** White
@@ -1132,7 +1166,19 @@ No post
 
 ## TikTok
 
-### 1. ティクットック見れるのください
+### 1. ある日きゅうにみえなくなった
+**Author:** チンアナゴ
+
+
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 03, 2026 09:01am
+- **Updated At:** Sep 03, 2026 09:01am
+
+---
+
+### 2. ティクットック見れるのください
 **Author:** ゴリラ
 
 💩
@@ -1224,6 +1270,9 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 [Attachment 1](https://padlet.com/00221133/padlet-9otqidpsq2a33sru)
 
+#### Comments (1)
+- **Anonymous** (Sep 03, 2026 07:36am): かわいい
+
 #### Additional Information
 - **Post color:** White
 - **Created At:** Aug 31, 2026 03:14am
@@ -1251,6 +1300,9 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 イイ漫画がきっと見つかる
 
 [Attachment 1](https://padlet.com/popular524/vault-tec-otui6ff3idqwlacl)
+
+#### Comments (1)
+- **Anonymous** (Sep 03, 2026 09:09am): ありがとうございます！
 
 #### Additional Information
 - **Post color:** White
