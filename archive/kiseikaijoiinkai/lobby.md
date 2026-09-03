@@ -1,4 +1,4 @@
-最終取得: 2026/09/04 06:50:26
+最終取得: 2026/09/04 07:37:22
 
 # 規制解除委員会(ライター受付)
 
@@ -161,7 +161,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1789077063&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=vO7JrHWOhI5fxELoaenAWb2sSaFnLa7CenOrPnPuIxJy0ES7LEAG7bbRsehD0ika6mP%2FjgP2oBlKbBmbFcI27Sqa00zXks3VQY4PUjGZGUL6DQRkvSqR7h8%2BzElvi7YIN208BE2ul6%2Fu3kvGgXbx5ju8lIgVfK%2FTPKkAEkUAXkUxhDh3bgVUYP7MQd5EX%2Bt8fYx6Rikxwy5ilUxb5yVEPOGE%2Bj0aWjIgCNsMuBvO%2BhoAUe2e4vsbteI44iWqeoYRRaPMOEdkKi%2Bzygotoh9dgcF9h%2Ft9PX6ylkKyTEB5DM3KOCngTyoFww8iV3G1YX2%2Bz695hz0BFfJaprAhYBTMiw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1789079886&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=CBLq5TIbt8tt4TRskt2Wqz3W192P9R%2FXmlfM0DZA7B4WBSVbYcX6IEMUTaTB1Yvmuc3XCabQorgnBId2EVmR7jGeXYL%2FRAC0aEZQqzChWBMILg6JTQ1coObcJM6gXPqODt1mdWK8tSRUF3lVpTSudf7tCJ%2FyIpTeifDOK4mN5lW5LkSZb3Xv4ZN%2B3oplNE1wcHWbYrinlzaBDEoMe%2BKSeLA19YOKhX6YfkfN9aVzxYlW1Yq76zu4deFTMb2%2BD3fGfebojITTzQ78JNIJ%2FH8dI3phBOsf7mJlbPKXWRoi6ErejXFz%2Fsx9V9rQvRxYBr%2FMJFKUwtBb3EmqKECpZuXyjg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -186,7 +186,7 @@
 ---
 
 ### 11. こんにちは
-**Author:** おんりーのふぁん (gs212336)
+**Author:** すーぱーねこ (gs212336)
 
 #### Additional Information
 - **Post color:** Black
