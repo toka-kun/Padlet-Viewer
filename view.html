@@ -743,10 +743,11 @@
                 return '';
             });
 
-            // パターン3: 本文の末尾（＝カスタムフィールドの後、コメントの直前に相当する位置）に
-            // 連続する「[url](url)」だけの行を添付ファイルとして抽出する。
-            // 判定基準は「-」の有無ではなく位置。末尾から遡り、URLそのものだけの行が続く限り添付として切り出し、
-            // 他の文章と混在する行（前後に説明文が付いている等）に当たった時点で走査を止め、それより本文側はそのまま残す。
+            // パターン3: 本文の末尾（＝カスタムフィールドの後、コメントの直前に相当する位置）が
+            // 「[url](url)」だけの行1つのみで終わっている場合に限り、添付ファイルとして抽出する。
+            // Padletの投稿に添付できるURLは1つだけなので、末尾にリンクだけの行が2つ以上続く場合は
+            // 添付ではなく「本文に手打ちで貼られたリンク一覧（箇条書きかどうかは問わない）」とみなし、
+            // 本文にそのまま残す。判定基準は「-」の有無ではなく、末尾に来ているリンクが1本だけかどうか。
             {
                 let lines = content.split('\n');
                 let trailingLinks = [];
@@ -766,9 +767,11 @@
 
                     trailingLinks.unshift({ url: url, type: getMediaType(url), alt: linkText });
                     cutIndex = i;
+
+                    if (trailingLinks.length > 1) break; // 末尾リンクが2つ以上続く時点でリスト扱いと判断
                 }
 
-                if (trailingLinks.length > 0) {
+                if (trailingLinks.length === 1) {
                     content = lines.slice(0, cutIndex).join('\n');
                     attachments.push(...trailingLinks);
                 }
