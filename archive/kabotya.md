@@ -1,4 +1,4 @@
-最終取得: 2026/09/04 07:37:22
+最終取得: 2026/09/04 08:15:00
 
 # 規制突破の世界
 
@@ -7,17 +7,18 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 83
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 03, 2026 02:20pm
+- **Updated At:** Sep 03, 2026 11:14pm
 
 ## 雑談
 
 ### 1. 大丈夫大丈夫大丈夫大丈夫大丈夫大丈夫↑なんか異変気づいた？
 **Author:** 匿名
 
-#### Comments (3)
+#### Comments (4)
 - **匿名** (Sep 03, 2026 12:26pm): これ斜めってるんだよね
 - **匿名** (Sep 03, 2026 12:30pm): これやってみ
 - **シオリ** (Sep 03, 2026 12:31pm): 何をやってみるの？
+- **Anonymous** (Sep 03, 2026 11:07pm): オークストリートの異変
 
 #### Additional Information
 - **Post color:** White
@@ -413,7 +414,7 @@
 
 [Attachment 1](https://unpkg.com/classroomduck@1.0.29/index.html)
 
-#### Comments (12)
+#### Comments (13)
 - **ミドリネ** (Sep 01, 2026 10:01am): あっざっす
 - **ナミユメ** (Sep 01, 2026 10:32am): マジてんきゅー
 - **mbappe♯初代つつきの森会員♯狂鳥族２代目** (Sep 01, 2026 11:44am): てんきゅー
@@ -426,6 +427,7 @@
 - **ツキミ** (Sep 03, 2026 08:16am): 神様
 - **おむらいす** (Sep 03, 2026 08:44am): あざす
 - **Anonymous** (Sep 03, 2026 01:36pm): どーいたしまして
+- **Anonymous** (Sep 03, 2026 11:09pm): ファッキングゴー!
 
 #### Additional Information
 - **Post color:** White
@@ -745,6 +747,9 @@
 ### 9. ジオメトリーダッシュ作ってください
 **Author:** ええいいここえいこ（えいこってよんでね）
 
+#### Comments (1)
+- **Anonymous** (Sep 03, 2026 11:10pm): だるいってお前勝手に作っとけカスがよ
+
 #### Additional Information
 - **Post color:** White
 - **Created At:** Aug 31, 2026 11:29pm
@@ -861,10 +866,11 @@
 
 fernって名前のやつ　履歴消したらきえt
 
-#### Comments (3)
+#### Comments (4)
 - **ぷ** (Aug 31, 2026 01:27am): https://multimedia.easeus.com/jp/online-video-downloader/
 - **あおい** (Sep 01, 2026 11:39pm): これなんかバグって使えん
 - **ホシヨミ** (Sep 03, 2026 12:56pm): まじでやべえ
+- **Anonymous** (Sep 03, 2026 11:11pm): えろすぎて…いっく！
 
 #### Additional Information
 - **Post color:** White
@@ -988,10 +994,12 @@ fernって名前のやつ　履歴消したらきえt
 ### 1. 友達からの紹介で来ました　ここはどういうところですか？
 **Author:** タビゴロモ
 
-#### Comments (3)
+#### Comments (5)
 - **黒龍** (Sep 03, 2026 10:31am): 学タブでできるゲームを貼ったりする場所だよー
 - **Anonymous** (Sep 03, 2026 01:44pm): 作戦を練る！
 - **Anonymous** (Sep 03, 2026 01:51pm): あ、いらっしゃい。わざわざこんなアングラ（笑）な規制回避サイトまで辿り着いて、第一声が『初めまして』ですか。丁寧で大変よろしいこと。でもね、そんな誰も見ていないような掲示板の片隅で律儀に挨拶してる時点で、ネットの歩き方を致命的に勘違いしている負け組だって自ら白状しているようなものですよ？大体、そんなところで呑気に『初めまして〜！抜け道教えてください！』なんて書き込んでいる暇があったら、目の前の安っぽい配備タブレットと、それを必死に制御しようとしている大人たちの浅薄な知恵比べに、少しは自力で食らいついたらどうなんです？必死に『作戦』を寝る（練る、の間違いですよね？寝てどうするんですか？）サイトに通い詰めて、他人のふんどしでYouTubeを見ようとするその涙ぐましい努力、本当に素晴らしいと思います。まあ、その『初めまして』に対するお返事が、誰からも相手にされずに過疎っていく現実を、まずはその制限だらけの画面越しに、じっくりと噛み締めてみてくださいね」
+- **スバル** (Sep 03, 2026 10:39pm): 長文二キ
+- **Anonymous** (Sep 03, 2026 11:12pm): スバル　長文ニキという言葉を俺からパクんなボケカスボケどうせお前アホなクソやろうだろ
 
 #### Additional Information
 - **Post color:** White
@@ -1113,7 +1121,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789079901&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ssRP4lPiw1in9SdSAgJ9H1yYQpC54EMaEz6XUmGxMF%2FEZB6Svottqk1IAQY%2B3dSvs9C4BlQRPVPf8w%2FPzsMqTWCWby9gg%2Fw%2BA%2BvORJy4227BW3zRbFHm3slEZArjFjY7%2FWJWW0cz3f6pMwOE%2BU319jlkbL8w1OPAgjemM%2FL6gzLCxDJeyt8QIZ8WVstgki7KhxNGnMubuY4pEnkblWDZouU9vq8svAf1koF1uStf6gzFzLS12fc1YpChWCXI4nwX6yJmajCdiSfd7fBptjuncgopMUIdgpN1Qy73uH46%2FgvyS7GVt3bA6Bm0lNz%2FlJvWnqjW17XkTjZCeLD1ZIdR%2Fw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789082163&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VKb2KHiFk%2Bm3kls%2FSPc5avucwpKt%2FZx3qsSCUMIyP3gZsisRnqo2hDvQ4UgSpQj5iG8bK2%2FUTJsFatTv5wSRlxkRm0YO54lCMGNQSwE7i8Z86poFecZVRLKWxTtTv1T8SgvNaikMl9%2FBb7y2nli9PX0reHq1TopbOSnssqcbmQ2%2FKywCjeRqcH19Lx6%2B7zcqLYLNhyaFBnyzJSjT7VZHsFcdWXjvEgIq2WrS7%2F2vYs1AO2TurMrrz7vncsd91hy7zvA1XGRW4YO4UFAjSRxPLYHkLmsDFa2BmU7MH5bWQoQySJigLeZ2RXcbpHp34HloFLu4kPp9hOSji2I%2FG4E4VQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (3)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1212,8 +1220,9 @@ No post
 
 [Attachment 1](https://www.google.com/goto?url=CAESYwHrOzAVnYlw3x7WtbBQC3UOD8WLbTUdu014TNrH7STVWOLamMLI8WLXcksfgYWVJFBZONffy3HB7584_mm4AAJb4PYoLWOTIIe23SkcABM89VwZ41AfHzx4WXEQvbV9jVLw4Q)
 
-#### Comments (1)
+#### Comments (2)
 - **Anonymous** (Sep 03, 2026 07:02am): きとう？
+- **Anonymous** (Sep 03, 2026 11:14pm): 君のは鬼頭でもなさそう下ネタだろどうせ
 
 #### Additional Information
 - **Post color:** White
@@ -1335,7 +1344,7 @@ No post
 
 💩
 
-#### Comments (10)
+#### Comments (13)
 - **ユリカ** (Sep 02, 2026 01:02am): まんこーまんげーちんちちんげーはなーがさいたらー
 - **おなべさん(新垢** (Sep 03, 2026 04:35am): 下ネタ言えば何でも良いってわけじゃねぇよ
 - **Anonymous** (Sep 03, 2026 05:33am): 「下ネタ言えばなんでも良いってわけじゃねぇよ」とか、わざわざこんな吹き溜まりみたいな場所でありがたく御高説垂れてる姿、最高に滑稽で香ばしいですね。 「性」の話が出た途端にシュッとお行儀のいいお説教モードに入って同調圧力こねくり回すあたり、いかにも「世間様の手前、性タブーを守らなきゃいけない」同同同調圧力が染みついた日本人らしくて実に味わい深いです。 そんなにコンプライアンスと品行方正がお好きなら、わざわざこんなネットの隅っこで不毛な正義感ごっこしてないで、現実の教科書でも音読してすまし顔で暮らしてたらどうですか？ 見ていてお寒い限りですよ。
@@ -1346,6 +1355,9 @@ No post
 - **Anonymous** (Sep 03, 2026 09:59am): 黙れ老害
 - **匿名** (Sep 03, 2026 12:29pm): 喧嘩すな
 - **Anonymous** (Sep 03, 2026 01:49pm): 老害？おまえ(😛)どうせガキだよ黙れ老害って言ってるの幼稚に見えるから次から気をつけな
+- **Anonymous** (Sep 03, 2026 10:49pm): ちなみに何歳
+- **Anonymous** (Sep 03, 2026 10:53pm): まあおれは
+- **Anonymous** (Sep 03, 2026 10:53pm): ガキです
 
 #### Additional Information
 - **Post color:** White
