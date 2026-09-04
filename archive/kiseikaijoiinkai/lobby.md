@@ -1,4 +1,4 @@
-最終取得: 2026/09/04 14:08:33
+最終取得: 2026/09/04 15:30:59
 
 # 規制解除委員会(ライター受付)
 
@@ -9,7 +9,7 @@
 - **Builder:** いときち (HONDA_Believer)
 - **Posts:** 35
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Sep 03, 2026 01:49am
+- **Updated At:** Sep 04, 2026 06:08am
 
 ## ルール
 
@@ -34,7 +34,7 @@
 
 (投稿を確認したら即BAN&読者)
 
-#### Comments (10)
+#### Comments (11)
 - **ううううんこ💩** (Apr 20, 2026 03:32am): もともとライターだったもりもりもっこりはんです。名前変えましたライターください
 - **中居正広リア充になった。#鳥ちゃん大好き#最近体痛い** (Apr 20, 2026 01:28pm): メアドをおくってくれ
 - **イナビカリ** (Apr 30, 2026 09:55am): うぇｒ
@@ -45,6 +45,7 @@
 - **リンノネ** (Jul 18, 2026 12:56pm): うお
 - **ソトカゼ** (Sep 01, 2026 12:38am): おけ
 - **ソトカゼ** (Sep 01, 2026 12:51am): おけです
+- **トリミチ** (Sep 04, 2026 06:08am): ライターライター、ハンターハンターみたいに言ってるじゃん笑
 
 #### Additional Information
 - **Post color:** Black
@@ -124,8 +125,9 @@
 ### 6. ロブロックスしたい
 **Author:** ぎゃる
 
-#### Comments (1)
+#### Comments (2)
 - **Timberland Rover** (Aug 18, 2026 10:31pm): [Attachment](https://www.youtube.com/watch?pdlt=1&v=mgDALzZ0piM) 
+- **トリミチ** (Sep 04, 2026 06:08am): それはやべぇだろ
 
 #### Additional Information
 - **Post color:** Black
@@ -161,7 +163,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1789103368&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=czeoS1QteIHdc41PhDHVTdTWP30u7CJdBebgTxMbe8H2cOzbaX%2Bz4G7%2Fa61XBefqNZc8DRPjZi49p%2Bc0SDLiP0sRJxDEb0o589MdHCvoAO4sjRSt7Iv65cGbksHZgIeaKXnJLwK5vSkzCrCEaq043McfOnksbiKVzF7271UA6bgxGDMPEQaRuV9ZTEdrXTLLQuETR%2FKmqtiPucctpS6Fc4VYcKD7QRuqEg5OETpC2GUdPZ4ff6ppnCPQ%2BATWnWhaepQSTIlx3X3pMUBDRWIWERAAw6cRFfccKqZ%2FNUFB9veD%2F6UwOeBhFoNXYJ6WbkxWqYrZ6y5GulnBx0tlHz7lqQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1789108315&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xQh5z68H72BpSptZx4%2BTn%2FMY%2B7MPWhcHqFq%2F95W1iBEKo1ZnUvDgbfQd6KLyVGOeDrGpf3UfhWGc8pRVohusLJESpg0aUMz1O8OkiUAZplAuNgqrJzfxy2Jl5ZKiPQpJ9vacC0NCNhRK7oDMTw1XU%2FFnOJHe5hCr1s6Xo7vZBUsae0G%2BuehpLbuIKODh0KW85xIbmmFya4K5u%2Bkd118O8%2Fh4tMjTtIcX6kAxYf%2BtoC6JpbhjRZjB4V%2BybSYsSoEGKXyjDvM8%2Fc6tSeKnqviBjrpQH83SrCXpIAupeLy5Oi7sQqhWmk0qZxGz05OvyOlASPMuYkwHW77ixJVKnsyGeg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
