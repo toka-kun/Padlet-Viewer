@@ -1,25 +1,26 @@
-最終取得: 2026/09/05 06:51:32
+最終取得: 2026/09/05 08:17:42
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 95
+- **Posts:** 96
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 04, 2026 03:29pm
+- **Updated At:** Sep 04, 2026 11:02pm
 
 ## 雑談
 
 ### 1. 規制突破
 **Author:** Nannka　Youtube (s1923051_1)
 
-#### Comments (5)
+#### Comments (6)
 - **Nannka　Youtube** (Sep 04, 2026 02:26am): どうやったら部屋作れるんですか？自分も作りたいです
 - **かぼちゃ** (Sep 04, 2026 02:08pm): 作成のところを押してから、列とかでそこから設定とかで作れていったりする、色んなとこで宣伝したらみんな来るようになる、まあ最初はたくさん荒らし来ると思うけど4年とかしてたら慣れていくよ、
 - **Anonymous** (Sep 04, 2026 03:04pm): かぼちゃ何様？予想の答え「俺様」こんなサイトでイキんな
 - **Anonymous** (Sep 04, 2026 03:25pm): もしかしてかぼちゃって教祖？名前ダサすぎるから変えなよ
 - **Anonymous** (Sep 04, 2026 03:26pm): 日本の閉塞感に一石を投じているつもりなんでしょうけど、画面の向こうで『ドヤ顔でカボチャって書き込んでる男』を想像すると、なんだか切ない気持ちになりますね。世界を変える前に、まずは部屋の換気をして外の空気を吸ったほうがいいですよ
+- **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (Sep 04, 2026 10:18pm): クソガキがいっぱいいるな
 
 #### Additional Information
 - **Post color:** White
@@ -332,7 +333,7 @@
 
 学校嫌だ
 
-#### Comments (7)
+#### Comments (8)
 - **ミズノネ** (Aug 31, 2026 01:50am): 明日から学校始まる
 - **Japan** (Aug 31, 2026 06:00am): Totally.
 - **ゲーム** (Aug 31, 2026 06:29am): あああああああ
@@ -340,6 +341,7 @@
 - **初夏** (Aug 31, 2026 07:26am): 明日から学校。終わってる。
 - **Anonymous** (Aug 31, 2026 09:40pm): まじそれな
 - **Anonymous** (Sep 03, 2026 05:07am): ネットの片隅で「だるい」って言い合って安心してるの、義務教育の敗北って感じで本当に味わい深い。せいぜいそこで、同じレベルの仲間同士仲良く慰め合っててよ。
+- **戸田虎太朗** (Sep 04, 2026 10:52pm): まあその義務教育の敗北より、君は終わってると思うけどね
 
 #### Additional Information
 - **Post color:** White
@@ -470,7 +472,22 @@
 
 ---
 
-### 2. 原神やりたい
+### 2. Post 2
+**Author:** えいこ（あだ名です）
+
+[Attachment 1](https://planet.mblock.cc/gallery/2540)
+
+#### Comments (1)
+- **えいこ（あだ名です）** (Sep 04, 2026 10:33pm): のってるゲームクリックしたらそのゲームできるよ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 04, 2026 10:32pm
+- **Updated At:** Sep 04, 2026 10:32pm
+
+---
+
+### 3. 原神やりたい
 **Author:** バカでアホな天才
 
 #### Comments (1)
@@ -483,7 +500,7 @@
 
 ---
 
-### 3. 原神
+### 4. 原神
 **Author:** バカでアホな天才
 
 #### Additional Information
@@ -493,7 +510,7 @@
 
 ---
 
-### 4. poki.com
+### 5. poki.com
 **Author:** シオホシ
 
 #### Additional Information
@@ -503,7 +520,7 @@
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** シオホシ
 
 [Attachment 1](https://blockblastunblocked.gitlab.io/game/99-balls.html)
@@ -515,7 +532,7 @@
 
 ---
 
-### 6. ゲームじゃないけど映画見れるよ
+### 7. ゲームじゃないけど映画見れるよ
 **Author:** うう
 
 [Attachment 1](https://sites.google.com/view/dominumnetworkv2/entertainment/m0v1es)
@@ -536,7 +553,7 @@
 
 ---
 
-### 7. ゲームサイト！！！！
+### 8. ゲームサイト！！！！
 **Author:** ツキミ
 
 #### Comments (1)
@@ -549,12 +566,12 @@
 
 ---
 
-### 8. やってみて
+### 9. やってみて
 **Author:** えいこ
 
 [Attachment 1](https://planet.mblock.cc/project/7857149)
 
-#### Comments (9)
+#### Comments (11)
 - **えいこ** (Sep 01, 2026 04:20am): いいねも押してね
 - **えいこ** (Sep 01, 2026 11:25pm): コメント書いて
 - **えいこ** (Sep 01, 2026 11:25pm): たのしいよ
@@ -564,6 +581,8 @@
 - **Anonymous** (Sep 03, 2026 06:48am): ローマ字打ちださ！時代遅れかよ
 - **Nannka　Youtube** (Sep 04, 2026 02:29am): 悪口やめろよ
 - **Anonymous** (Sep 04, 2026 04:13am): 悪口してる人に悪口やめろよ
+- **えいこ（あだ名です）** (Sep 04, 2026 11:02pm): これ友だちが作ったやつ
+- **えいこ（あだ名です）** (Sep 04, 2026 11:02pm): リアの
 
 #### Additional Information
 - **Post color:** White
@@ -572,7 +591,7 @@
 
 ---
 
-### 9. ブロックの解除方法知ってる人いたら教えて
+### 10. ブロックの解除方法知ってる人いたら教えて
 **Author:** えいこ
 
 #### Comments (6)
@@ -590,7 +609,7 @@
 
 ---
 
-### 10. マイクラ
+### 11. マイクラ
 **Author:** ナツヒカリ
 
 #### Comments (8)
@@ -610,10 +629,10 @@
 
 ---
 
-### 11. ゲームしたいゲームしたい
+### 12. ゲームしたいゲームしたい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
-#### Comments (7)
+#### Comments (8)
 - **りゅう** (Aug 31, 2026 07:59am): ゲームしろｗ
 - **りゅう** (Aug 31, 2026 08:13am): だれやねん真似すんな名前
 - **ヒヤシンス** (Aug 31, 2026 09:57am): は、何？
@@ -621,6 +640,7 @@
 - **ええいいここえいこ（えいこってよんでね）** (Aug 31, 2026 11:28pm): 学校でできなかった
 - **Anonymous** (Sep 03, 2026 09:24am): 嫌だねえいこちゅぁ〜んって呼ぶよ
 - **Anonymous** (Sep 03, 2026 01:38pm): こわ
+- **ナナカゼ** (Sep 04, 2026 10:26pm): あだ名だよ
 
 #### Additional Information
 - **Post color:** White
@@ -629,12 +649,13 @@
 
 ---
 
-### 12. ゲームができるサイトよろブロスタとか
+### 13. ゲームができるサイトよろブロスタとか
 **Author:** ブロスタ
 
-#### Comments (2)
+#### Comments (3)
 - **りゅう** (Aug 31, 2026 08:13am): それな
 - **Anonymous** (Sep 03, 2026 04:53am): なるほど、ゲームサイトが欲しいと。それで、ここにその願望を書き殴り、お仲間同士で『欲しいよね〜』と傷を舐め合っていれば、いつかどこかの親切なエンジニアがボランティアで理想のサイトを作って奉納してくれる、と本気で信じているわけですか。その並外れた他力本願っぷりと、時間の無駄遣いに対する圧倒的なハードルの低さには、心からの敬意を表します。ネットの片隅で無益な愚痴を言い合っている暇があるなら、ご自身でプログラミングの勉強でも始められたらいかがですか？ あ、失礼、そもそもそんな面倒な努力ができる頭があるなら、最初からこんな肥溜めに要望を書き込んだりしませんよね。
+- **戸田虎太朗** (Sep 04, 2026 10:42pm): 滑ってるなー
 
 #### Additional Information
 - **Post color:** White
@@ -643,7 +664,7 @@
 
 ---
 
-### 13. 誰かあああああゲームのサイトできるだけほしいいいいいいいいいい
+### 14. 誰かあああああゲームのサイトできるだけほしいいいいいいいいいい
 **Author:** フミアト
 
 #### Comments (12)
@@ -807,8 +828,9 @@
 ### 11. ジオメトリーダッシュ作ってください
 **Author:** ええいいここえいこ（えいこってよんでね）
 
-#### Comments (1)
+#### Comments (2)
 - **Anonymous** (Sep 03, 2026 11:10pm): だるいってお前勝手に作っとけカスがよ
+- **えいこ（あだ名です）** (Sep 04, 2026 10:56pm): わかった
 
 #### Additional Information
 - **Post color:** White
@@ -1191,7 +1213,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789163541&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cXFnO3u1czJ7q9n57PUM0WeOtzJ%2BOuHJ2f9n5FwTxmhqCZf8RzrUBM5wPfMmkA6Frxu2F4U3wliaaUhjzoyF8%2FaZsqUoxogvpYdPU%2FPBThSswCXVu%2FEWioSy24h1Am%2FIgIE%2BYNqQJX2rrb4GmCE88Mj6%2F6EqeBjSmi67dihgdaQXGweetRYhcOo6AGvn0hl3Zv9zY8wVTG0OfDaj35b9ItrN7RycM5CjUB%2B2yz25stn3Q%2BH9hIRl4N5ON3b5B%2BURamADkxCwUNQSpbQb8g6hYIoPQMBmysaMM37X6yVH3snGZZSxOekBM%2FeeewVkmvkRd%2FHhXFGRbcyyk0nvwQmWHg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789168726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6siF0uoaG4%2FsHjIq9eQ6i28DAjrjH0zAvjuqMyN8x1Mw4CzOCQgtwt4q4T3nnaTnOljOa9ic3H3SmuVzEdz95RmvM%2FR%2BftGfnUqSuQPelNrcWsk62SST4JfQyaIxH0jRBwInT02XM18aeOCA9oXP%2FJm6rWQmLpVMKY65F4m%2FF7k7mbNJ%2FkMm7Di7hPLrv7hOZPXSv7zF2Wp6F3Jd4Sz4KOkjEZBNcEiT5Xyjztf1keLzmDL5aPGcNOn4%2F6rKGplvFY%2BEmxtpJ6R89DKQ5Gti%2B4e1uvcbr%2FOiN4ulPhFJnxlrvzSII49oxBFJR5N6EkG9Nnc%2FTL6Ls5JciKIfb4riuA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1364,7 +1386,7 @@ No post
 ### 5. 学タブで見れるユーチューブほしいですお願いします
 **Author:** ぼちぼちいこか愛好家 (2101038_5)
 
-#### Comments (13)
+#### Comments (14)
 - **かぼちゃ** (Sep 01, 2026 12:59am): https://script.google.com/a/macros/g.bears.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
 - **ぼちぼちいこか愛好家** (Sep 01, 2026 02:35am): ありがとうございます
 - **えいこ** (Sep 01, 2026 04:14am): かぼちゃさんそれでもブロックされたよ
@@ -1378,6 +1400,7 @@ No post
 - **Anonymous** (Sep 03, 2026 11:16pm): 乙
 - **Nannka　Youtube** (Sep 04, 2026 03:08am): 動画見れない、
 - **Anonymous** (Sep 04, 2026 03:21pm): オッツー
+- **えいこ（あだ名です）** (Sep 04, 2026 10:44pm): ごめんなさい
 
 #### Additional Information
 - **Post color:** White
