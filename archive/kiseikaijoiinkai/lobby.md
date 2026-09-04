@@ -1,4 +1,4 @@
-最終取得: 2026/09/05 01:58:34
+最終取得: 2026/09/05 02:10:05
 
 # 規制解除委員会(ライター受付)
 
@@ -103,7 +103,7 @@
 ### 4. これ見れる？
 **Author:** てらてら
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194730678/e0a90eb93b7136001fe8ecc31dd5ed79/videoplayback__45_.mp4?Expires=1789145967&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SNfOFTyBkSUCZYz6OLGui1PGan734GlHznth45B9%2FYjdYuxlDGeR1gO%2F2xiZwdYh87pjsFL%2BJJOcc9L14vh7BRpwRpEV3%2FNMoJYcxK3yy28x3sn7ip0a7FnSCYbrhoTI4HbIsL4lXHRFgfZFXfbWkVBYcjCZjij9kEbVHpsV5mOE1JvNGsp8PJNLCrS3EMqiYIYLOJzg%2BI24vMEsBuwbCleVTVFlC%2F4RzVxju%2Fzv%2BQgkO7PyYCVzU62zUVw%2FHB%2BLWkV%2F4N%2BZHgJCzTYIRgUhrHsHUl2lxHT87HS8qSDIlfYg0yh0ZOWyMinr7RdxSrwiXZAMoeV4oLlk9v6DxkMcqA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194730678%2Fe0a90eb93b7136001fe8ecc31dd5ed79%2Fvideoplayback__45_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194730678/e0a90eb93b7136001fe8ecc31dd5ed79/videoplayback__45_.mp4?Expires=1789146641&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dj%2F9AaQkiVqHLPgPYscyTe3pLIIXsLl%2BBJWKwYKcOJKox%2FftBRghuPO6SAIE4eayCW0V7HgP3V9utzHOS%2FEckHGG6%2BTkynamKqlNwegRe1xquduCnwQBmjdGtAZtdt7Ki0%2FfAHTB0YOHjkaR2XxsxPEwXwRXy4AElKQqJnMcdMKT3sfV8vdjP2PHVifOrBS8tSrghNa9Kg8Hh%2F1ctN3eyZNZe5Zpg63JBuKfw7B2WI6TEgkGzHvr%2BZmvesrSqx7w5%2B04myTZudg0swWB0n1h3nlMd422L%2FzbcvMFGkR6Waw55mLwZOJIAMC3uW%2F%2BcHizofIqWt%2BAqtp1SA56CcXM7A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194730678%2Fe0a90eb93b7136001fe8ecc31dd5ed79%2Fvideoplayback__45_.mp4)
 
 #### Additional Information
 - **Post color:** Black
@@ -117,7 +117,7 @@
 
 解除してください
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194665627/8020d285b6b4d07cd736be52cb8a0091/photo.jpeg?Expires=1789145967&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kNk5CcXFvw%2FiCv5t9aAxixuIh%2FbVxErF4skIBnsiKlAZ1ngzTM7g0gYJsu1OtkzQOsCZsVa3oPeKNWY%2BAwVTNedtq0BaN0Wgz9P0FaWvdKACeCt2s6076L0r7Dr0sSoGSvsXgyjsEsjqzteXptsXu8iI5Xal5o%2FxpZpv0kQijOY9MQC1%2FYNMtn5y0MysMaRptrYEJ%2Bwb%2FHbcK%2FVKyAm3AevRazw8IZ38fYaYQaqzTkkyig7QnJKOQhWrnexy2RFmG8SJkogsU6HECpkieRjeLXRiWJBRYFDGSlifBwC%2FgdYb2xUFBN16EVG5qMUFAEUEno%2BQ3fNorTqnkkYftDj4OA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194665627%2F8020d285b6b4d07cd736be52cb8a0091%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194665627/8020d285b6b4d07cd736be52cb8a0091/photo.jpeg?Expires=1789146641&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ndwwEOx8rH5v267NP%2F%2Fyn%2FdIADERb%2B2tsrPLqeI%2B2QJj2j2tniDlOTM1psSktzatACLfsBVUCvPb8Ofuqytr%2B%2FMSfhsb5vyGK%2BG6NPUGvILjFCv60fhKzAx6egJxY%2FlCztJfqYpgmNpotQqRtUrZpOeUiq4Vx8iyDhtG%2BXErdpVBFr72UGSHMdf%2FQ2epsn%2BqhLXsRssON10aIu0gPgo289tkZ83g%2BE8dTfrer64kvWxy3f7zgxtDMZ%2FjCfA%2BmjJJU%2F%2BVweo6LoIb%2Bw0xEkkBlUNfjzBTb1tXMNjjbIomvcBfWigJmsllXynX6%2B3J3u758yQm9JIUL3COe%2FHlvsR%2FdA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194665627%2F8020d285b6b4d07cd736be52cb8a0091%2Fphoto.jpeg)
 
 #### Comments (1)
 - **ささ** (Sep 04, 2026 11:50am): きｍ
@@ -192,7 +192,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1789145967&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=aBWmKzvlcvgpgr9%2FSalrmLpsjqcu2AqOhyYU1RDHH7bHOfIZ8QIxcdJXCQcTqQbCkCnV782DvTqlCNtw1TXjKLhdTDPbgF%2BMdH4kxOuXfNOyvs7mHTcJt%2FvlUPT3pRR4TlR%2F2iY8Ngkhf6NO27bGod86zVm%2BrqJFLPxxLZ1aZDdYebDBTY05YiGve9IltuDRircFOdQlqmbLq%2FFxwONgr81QaILmCsI5RB7M82QDg4A%2BCOJiMy%2BKG98skculE04jBHE0xqJLUEvNusX7edYV2JsxXYTXE0BKw2HNdL3szeDa9Au0TTe6%2BOz1tuJkEghtbfi0luJBn9G3aepQpxBE7A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1789146641&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NmQxOpgKtXywvEPYoDrhTLCp54ATfhRmSPM2td1rNn5L1K7R%2FW2a9DBRHl0sULbODJ6WwJb40UX2K83OCjtNxGLHJFbYm4LsSTwrE0UX67oInv529AREj9ZaJD8CukFRt4do8m1ZnnwQkGQh3j6l80YeCTwDAZD24lBP67nfQhQrNn1zsCJOTghmwJGnOm1U0bVrqgEbT7w4MalwT0Z3FNFzn%2FMZ08Oh9MkBrGqfpp721nAfthBKa9TinVh0QiHrbRTki9hk%2B1m6GwTnD9e4OGUf%2Fs3a8qYrZaXivpu%2FC51b7JaPxdNKne177rWpQuxQIwq6QeEWU9OOH92Cpnq7Ew%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
