@@ -1,4 +1,4 @@
-最終取得: 2026/09/03 18:13:28
+最終取得: 2026/09/04 12:45:10
 
 # プロキシ本部
 
@@ -9,7 +9,7 @@
 - **Builder:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
 - **Posts:** 6
 - **Created At:** May 09, 2025 01:39am
-- **Updated At:** Sep 03, 2026 08:11am
+- **Updated At:** Sep 04, 2026 03:34am
 
 ## 現在の状況
 
@@ -49,6 +49,9 @@
 
 ### 1. ここのコメントに自己紹介してね
 **Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
+
+#### Comments (1)
+- **Hakumai_dayo** (Sep 04, 2026 03:34am): 最近eaglercraft始めました よろしくお願いします
 
 #### Additional Information
 - **Created At:** Sep 02, 2026 08:45am
