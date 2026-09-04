@@ -1,18 +1,21 @@
-最終取得: 2026/09/04 08:51:42
+最終取得: 2026/09/04 09:26:47
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 84
+- **Posts:** 87
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 03, 2026 11:44pm
+- **Updated At:** Sep 04, 2026 12:12am
 
 ## 雑談
 
 ### 1. ゲーム123
 **Author:** ｓ
+
+#### Comments (1)
+- **匿名1** (Sep 03, 2026 11:56pm): ゲームできないの？ 
 
 #### Additional Information
 - **Post color:** White
@@ -643,7 +646,27 @@
 
 ## 要求
 
-### 1. 誰か一緒にお話しませんか？誰でもどうぞ！
+### 1. いいですよ
+**Author:** 焼き止めと
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 04, 2026 12:12am
+- **Updated At:** Sep 04, 2026 12:12am
+
+---
+
+### 2. いいっすねええ
+**Author:** 匿名
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 04, 2026 12:12am
+- **Updated At:** Sep 04, 2026 12:12am
+
+---
+
+### 3. 誰か一緒にお話しませんか？誰でもどうぞ！
 **Author:** ソラハル
 
 みんなで、一緒に仲良く話しましょう。[https://scratch.mit.edu/projects/556926076/fullscreen/](https://scratch.mit.edu/projects/556926076/fullscreen/)
@@ -659,7 +682,7 @@
 
 ---
 
-### 2. あ
+### 4. あ
 **Author:** チンアナゴ
 
 #### Comments (1)
@@ -672,7 +695,7 @@
 
 ---
 
-### 3. エロ部屋くれ
+### 5. エロ部屋くれ
 **Author:** ツキノト
 
 #### Comments (12)
@@ -696,7 +719,7 @@
 
 ---
 
-### 4. ロブロックスとYouTubeのリンク載せて
+### 6. ロブロックスとYouTubeのリンク載せて
 **Author:** マリオ
 
 #### Comments (1)
@@ -709,7 +732,7 @@
 
 ---
 
-### 5. ほかのゲームサイト乗せて
+### 7. ほかのゲームサイト乗せて
 **Author:** ツキミ
 
 #### Additional Information
@@ -719,7 +742,7 @@
 
 ---
 
-### 6. ゆうと、どうやってけすの？
+### 8. ゆうと、どうやってけすの？
 **Author:** 港
 
 #### Comments (1)
@@ -732,7 +755,7 @@
 
 ---
 
-### 7. インスタできるやつください
+### 9. インスタできるやつください
 **Author:** ０２２３
 
 #### Comments (1)
@@ -745,7 +768,7 @@
 
 ---
 
-### 8. 誰か軽いproxyくれ　ブロックされるやつでもいいから
+### 10. 誰か軽いproxyくれ　ブロックされるやつでもいいから
 **Author:** ノハルカ
 
 #### Comments (1)
@@ -758,7 +781,7 @@
 
 ---
 
-### 9. ジオメトリーダッシュ作ってください
+### 11. ジオメトリーダッシュ作ってください
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (1)
@@ -771,7 +794,7 @@
 
 ---
 
-### 10. Post 10
+### 12. Post 12
 **Author:** りゅう
 
 フォートナイトぽしいです
@@ -787,7 +810,7 @@
 
 ---
 
-### 11. アンダーテールぽしいです
+### 13. アンダーテールぽしいです
 **Author:** ああああ (h0319096_1)
 
 #### Comments (1)
@@ -800,7 +823,7 @@
 
 ---
 
-### 12. 流行語大賞２０２６ください
+### 14. 流行語大賞２０２６ください
 **Author:** ミズアメ
 
 #### Comments (1)
@@ -813,7 +836,7 @@
 
 ---
 
-### 13. いんすたないですか
+### 15. いんすたないですか
 **Author:** う
 
 #### Comments (2)
@@ -827,7 +850,7 @@
 
 ---
 
-### 14. お願い
+### 16. お願い
 **Author:** ナナシ
 
 エロい漫画見れるサイト教えて
@@ -844,7 +867,7 @@
 
 ---
 
-### 15. はやく！
+### 17. はやく！
 **Author:** ホシノキ
 
 性教育実習の漫画があるパドレットください
@@ -860,7 +883,7 @@
 
 ---
 
-### 16. 誰かpokiのサイト載せて
+### 18. 誰かpokiのサイト載せて
 **Author:** 匿名
 
 #### Comments (4)
@@ -876,7 +899,7 @@
 
 ---
 
-### 17. 誰かURL貼って動画見るやつ教えて
+### 19. 誰かURL貼って動画見るやつ教えて
 **Author:** ユメノ
 
 fernって名前のやつ　履歴消したらきえt
@@ -894,7 +917,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 18. 誰かエロ部屋くれ
+### 20. 誰かエロ部屋くれ
 **Author:** 匿名
 
 #### Comments (1)
@@ -907,7 +930,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 19. アニメ見れるサイト欲しい
+### 21. アニメ見れるサイト欲しい
 **Author:** 34b6kq
 
 違法サイトでも全然ええよ
@@ -928,7 +951,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 20. Post 20
+### 22. Post 22
 **Author:** でにでにろつとまん (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
@@ -946,7 +969,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 21. エロサイトくれ
+### 23. エロサイトくれ
 **Author:** スギノネ
 
 #### Comments (16)
@@ -974,7 +997,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 22. 至急！！！！！
+### 24. 至急！！！！！
 **Author:** スギノネ
 
 保健室のサイト　誰かほしいです！
@@ -1136,7 +1159,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789084369&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rbnf14VBU06s44237vqBqfMNNMRhV2A3PQG6TpqNglzMpFzy%2Foeer6ppc%2FtMBlSEhKBJpxWc2qgj4kp0p%2BvOnYi5IVT%2BCemYmYboUuxBE1sNqDWtINihiUdsS6QdctVVQ%2BkxapSKZ1Ll5utx5CU2qmEE4ro4WrCVN8S5J7l01Y2qDYDT6ealvJCUD1Vuh3qRsLFpdYSalzqCEl5FF3y43OWo9wuXEnVYCsWe8jwrH%2Bxgo8udm0HAlQjy1srgW78BrLiLhfnlw9xPTKBKeI4q5%2BP%2Bzg1Q2LVZ19s9GTaou2n057rmtvI1mQdDcxLNGaw%2BAV%2B6Gl24h3tUfu583gFjRg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789086480&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=joWROCUe7snLjmhaO0qLd3SczlJ1lcx22JNUL8S2YTp4VYi8vTTDVHQ3yOUvZdBeRg6I1ZgJJcXPaw3iU2B2zKz8vxj9yHCnlc831drxpAfdvVg%2B9bblO%2FrO%2FmezENGvZqgv4RcsRnJjPmi%2BuPPL1XGEy1HySt2%2F7EattN9FpA3DHujDQn%2F5%2FRgvuq6nRlQ8VE4lNR7QIYGBACxbSg5LTq%2Bj1XmZ2kdygHNdhTEW%2F0hpgT3OdjXM8FyyZQ%2Bp0QEuikArRkUccOvKtE4twxvkZiuHDHnidIMKWnvAfnGYrgxI%2FHRHulEvg5yZBmzT7FxQcjwpQHoqNRdk8YNJ7Ym9zA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (3)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1385,7 +1408,21 @@ No post
 
 ## 宣伝
 
-### 1. こい
+### 1. みんな来てー
+**Author:** ぼちぼちいこか愛好家 (2101038_5)
+
+来てくれ
+
+[Attachment 1](https://padlet.com/73956824278/padlet-6nxx5pymf7axwv1h)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 04, 2026 12:07am
+- **Updated At:** Sep 04, 2026 12:07am
+
+---
+
+### 2. こい
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://padlet.com/team_otomodachi/proxy-mu2o69gm2ch9o6zx)
@@ -1397,7 +1434,7 @@ No post
 
 ---
 
-### 2. 絶対に来たほうがいいよ。きたら自己紹介よろしく！！
+### 3. 絶対に来たほうがいいよ。きたら自己紹介よろしく！！
 **Author:** mbappe♯初代つつきの森会員♯狂鳥族２代目 (akiramenaidedonnatokimo)
 
 [Attachment 1](https://padlet.com/akiramenaidedonnatokimo/padlet-kerg40vcf1nvu3eh?lang=ja)
@@ -1415,7 +1452,7 @@ No post
 
 ---
 
-### 3. 復旧お願いします！
+### 4. 復旧お願いします！
 **Author:** 常時暇人のたけさん (JPsan)
 
 [Attachment 1](https://padlet.com/JPsan/padlet-11oe0dlx9vsegwya?lang=ja)
@@ -1427,7 +1464,7 @@ No post
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** ミソラノ
 
 [Attachment 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
@@ -1439,7 +1476,7 @@ No post
 
 ---
 
-### 5. みんなきてね
+### 6. みんなきてね
 **Author:** 仙人@suger (sennin_sugar)
 
 https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQozfVOY7UPTBkpqfD\_-fwTwn\_kxxLOg/exec
@@ -1451,7 +1488,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 6. Post 6
+### 7. Post 7
 **Author:** 犬
 
 [Attachment 1](https://padlet.com/00221133/padlet-9otqidpsq2a33sru)
@@ -1467,7 +1504,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 7. Post 7
+### 8. Post 8
 **Author:** 1001さん (Haraitai)
 
 ここオンラインゲームがあるよ！
@@ -1481,7 +1518,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 8. 江口 ー さんずい
+### 9. 江口 ー さんずい
 **Author:** 34b6kq
 
 イイ漫画がきっと見つかる
@@ -1498,7 +1535,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 9. セックスしたいやつなんか書いて
+### 10. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
 #### Comments (11)
@@ -1524,7 +1561,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 10. ゲーム出せセックス
+### 11. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
 #### Comments (7)
