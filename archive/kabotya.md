@@ -1,4 +1,4 @@
-最終取得: 2026/09/05 08:17:42
+最終取得: 2026/09/05 08:49:13
 
 # 規制突破の世界
 
@@ -7,20 +7,21 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 96
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 04, 2026 11:02pm
+- **Updated At:** Sep 04, 2026 11:47pm
 
 ## 雑談
 
 ### 1. 規制突破
 **Author:** Nannka　Youtube (s1923051_1)
 
-#### Comments (6)
+#### Comments (7)
 - **Nannka　Youtube** (Sep 04, 2026 02:26am): どうやったら部屋作れるんですか？自分も作りたいです
 - **かぼちゃ** (Sep 04, 2026 02:08pm): 作成のところを押してから、列とかでそこから設定とかで作れていったりする、色んなとこで宣伝したらみんな来るようになる、まあ最初はたくさん荒らし来ると思うけど4年とかしてたら慣れていくよ、
 - **Anonymous** (Sep 04, 2026 03:04pm): かぼちゃ何様？予想の答え「俺様」こんなサイトでイキんな
 - **Anonymous** (Sep 04, 2026 03:25pm): もしかしてかぼちゃって教祖？名前ダサすぎるから変えなよ
 - **Anonymous** (Sep 04, 2026 03:26pm): 日本の閉塞感に一石を投じているつもりなんでしょうけど、画面の向こうで『ドヤ顔でカボチャって書き込んでる男』を想像すると、なんだか切ない気持ちになりますね。世界を変える前に、まずは部屋の換気をして外の空気を吸ったほうがいいですよ
 - **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (Sep 04, 2026 10:18pm): クソガキがいっぱいいるな
+- **Anonymous** (Sep 04, 2026 11:47pm): 1364さん　お前すごくダサいからくたばっちまえ
 
 #### Additional Information
 - **Post color:** White
@@ -1213,7 +1214,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789168726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6siF0uoaG4%2FsHjIq9eQ6i28DAjrjH0zAvjuqMyN8x1Mw4CzOCQgtwt4q4T3nnaTnOljOa9ic3H3SmuVzEdz95RmvM%2FR%2BftGfnUqSuQPelNrcWsk62SST4JfQyaIxH0jRBwInT02XM18aeOCA9oXP%2FJm6rWQmLpVMKY65F4m%2FF7k7mbNJ%2FkMm7Di7hPLrv7hOZPXSv7zF2Wp6F3Jd4Sz4KOkjEZBNcEiT5Xyjztf1keLzmDL5aPGcNOn4%2F6rKGplvFY%2BEmxtpJ6R89DKQ5Gti%2B4e1uvcbr%2FOiN4ulPhFJnxlrvzSII49oxBFJR5N6EkG9Nnc%2FTL6Ls5JciKIfb4riuA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789170610&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Aih7PlFDyfiwdDErjSNFTHHSwzFnrL0tc%2BZZuh5L4MvZ142UrqgR%2FL4thkseUJgBn8WpE4EAP8yeHYNHpTo5zXwHXFvoqueAH6M6unphnp3SSFOR3IMzGxFFtxhMucZd0UpOHhhwKm8hjLjXi1mSB2PlbxuXRh2dV9XxJHQIOmrUE1LQTWtWnoXCDvchVvGVMsLkQWKR2lJqwynS%2Fqdosuq1yYUrLUFDWCgktmqs3r2iqF0oVyDz98qeK6YJLQqXm%2FGzMGqGUvdRzuB0w1PNJ9CZevN9%2FZ8Ai%2FomfbBJ4wUHKJ9ARsC2STDMuK2PPuCvK4m3JEGCMeZMTUz8qusklA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
