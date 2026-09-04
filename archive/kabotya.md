@@ -1,4 +1,4 @@
-最終取得: 2026/09/04 20:43:05
+最終取得: 2026/09/04 22:18:28
 
 # 規制突破の世界
 
@@ -7,14 +7,14 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 101
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 04, 2026 06:51am
+- **Updated At:** Sep 04, 2026 12:58pm
 
 ## 雑談
 
 ### 1. Post 1
 **Author:** itokoとこtoko (r0245154)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/c4b6f8a6ad4fd2bb345090a06b3d425a/image.gif?Expires=1789127053&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=J%2FAKW7Tr7zyae17Tb5xxIX%2Feeu7WXqnlleMThZTnWbr0cFdLpnbnGaKeRZclDUkLHXc3%2BNHRJkxEavYCa0ucz9oXFKkNK6m8ZwUOtDhEE61DKADMQh6aUmmLGKnkEX3%2FizsbLWGbosFecwgP5XGq0ynU4PMYIKvHwodJdTtiSQbjh4BqOH3yp5qiYPioVUBdScpfT4Nh00Uv%2FP7PmP57ApMbI3TmrX7ttqF7xaU%2FeAYIoQPmGH%2FSEKr3xG%2BpmHci1%2FopHdNXbrDVQ3FoFNQY0QqXi0gT4aYxzFqKMWyFOAX8UyVFHJ0gDHrnyPjN8tP0mv0D4UV6g4OzZ8K%2FEbP3xQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2Fc4b6f8a6ad4fd2bb345090a06b3d425a%2Fimage.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/c4b6f8a6ad4fd2bb345090a06b3d425a/image.gif?Expires=1789132775&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7EFF26OcBVmtDjoBIw1zVupfn9g4vAI3VeRHGSDa1rnjIK01mWdUZyxQo9mHwrrdVEZ175wnPlFHTEl8rTEdUa%2BR8FUh1dgOy6%2BrngZkLmUPywlp3vBryomBglul%2BQnVb03Hv6m4FqjJdBdzCOA334NwxJ%2B6yEiTj18m0BhYZFyP3AtnfHrfZkontsug1MWRY2XIVR02E9IFiui5vPo0y5LnOZl%2BsPM2pFZQ5OZgffcc9PSRq8cg%2FBbdF5pNBRK3t25FqU8A%2FQ95WdB30C6haH40DwwlLKf7zYuGH%2FpIXyXZESJKlpsMOAXZuBDEMwcx4kEsEqG2TNxQF2ED4KLEhg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2Fc4b6f8a6ad4fd2bb345090a06b3d425a%2Fimage.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -26,7 +26,7 @@
 ### 2. Post 2
 **Author:** itokoとこtoko (r0245154)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/3684c85e47eb3d68c4ba77348bddda17/image.gif?Expires=1789127053&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BYZiLyKWEH9RNKtE6k7rpoGojc5orHlprtiqNK%2FGPevDI%2BFec8yQgBBF6tJbICe5XRBCeLl7lGS%2F1QCKVkn%2FWez0es%2Bnkp6m8Q6hWdA%2FVK3GdyDTTDYvWBDnV9xO%2FZIze28k%2FWDfRBNlyyJvDO4vUi9j0H2eEhNm0VIqHS491quU1d1f2hj2ioOkxiLGgHCbdY4dyInw3LDDFmamP%2BhRhvKmACD2YDdkVPthVgQzOIEtmdO4UMrp4WRfyL76q5cKtDmYNAYk6m3vqk%2FQGonHEI6QtqSxD1zjorYtEUJHWZWeJvwB5quuMaG6LSwnDwuweSRkhOPzvLKnagms63z7ag%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2F3684c85e47eb3d68c4ba77348bddda17%2Fimage.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/3684c85e47eb3d68c4ba77348bddda17/image.gif?Expires=1789132775&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6hRUe1Nc%2FF5wxB6u80MQNPtjdL3aE4E8kX%2BreeQgFEMCml%2B5OmQi81ZXN%2FG8oADZdEr8lEDyW5uIDo1X4Rcvo6JRJoaLGTKbjmQ2HqjWAnC%2Bb6Ns3rUZR4fossDp9RW1IY1Ngv2ZcwZ2H1z4ZamiElLfBOmXBUw1WXS4fq%2FVRfg1zgiYi2y9U5Xt%2FC4B7Mpy4%2BXUiFN9G%2FMJNNC4UFNVcNLlJg0TpeaRHxJQcjfwjOvRlq%2B29vbEz6OVdipO%2BPHL42FXgdEvASfbhfYzwIQP%2FkzgmuSPVrF%2BQFkOHg1d2TvUMyr5SdiUvBBgBIa2glKT1Iek5FuLp%2Fo%2BywYZ5Iw%2Fng%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2F3684c85e47eb3d68c4ba77348bddda17%2Fimage.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -38,7 +38,7 @@
 ### 3. Post 3
 **Author:** itokoとこtoko (r0245154)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/419a716e689af6e6e984f80d9e76c130/image.gif?Expires=1789127053&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2cgUg1kTF7OJwDGiY3AXmrRhLSsq2pFp5JuWqrwtYu6zOK%2BcibMJUZDqW%2BsOayrNe4REMPZA1xVO8CaInGr6uHW6%2BWRcha5dus9rKLNpgZb0zDuFnAKJp%2BcYz5Yc1FFPoGUS2OZQ5UeE5PwTYm557hXa6hl7zn0QRUWJdp8o2I0VlljL5f4%2BrsOEOW0hk4LQbl%2Bv99xRoKLbuKycdBZtgu76RRR8i5S5sVjTLHEU5Enq6V3h2VUlDSMN1A65zcIiOY8RyGNMPy2uMCUbG6Ve7BqctCKAGrkw3gwj1sKRNnOaKZTDVUhSWFRhjvm2carEh2Ha2QUFfBkQ2T9znGaHyw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2F419a716e689af6e6e984f80d9e76c130%2Fimage.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/419a716e689af6e6e984f80d9e76c130/image.gif?Expires=1789132775&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Ds1sBOBC%2FHVTm8z9l%2Fb1V1rD8qdFCOsgrIDT4F%2FPdA%2FGLah0SixtQ3A8i5CqfKVgPAjHE0Ix%2Fgc3uINUVyrc2d06lhlKwRpxr7oSv9EhvFlDjjRvrBXyvHZdYKUUjwEEZJmoI%2FduRlHwimDnuPlCbN9ELDTpRGzdkGllA3Vzhxl1IL1%2FB9rME%2BGd3amJj4Ixo8BONJbsr8w6x3%2BT2FqItF9bDGAeIxpOuqsfsy5LPoAL85v55%2FZrQylfPr3MSalhU1FkvlwCKnbXWBCaLIhVgBjyGNtBSrSG84uijZ263UzAgJYQzpKW9ez94VDtULBV%2BtRHcfYmBI55mwBZAdIGSQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2F419a716e689af6e6e984f80d9e76c130%2Fimage.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -715,7 +715,7 @@
 
 hello
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/a190d21e9c7396a7b28f2f23d1da46a4/image.gif?Expires=1789127053&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=yW0sy6mnD0cICmAEDX5%2BuyEb62sHocUf4jHUJvDFQo61O%2FJO%2BV4K5o3W9j1g9rRJalLNmxlL11%2BsB920fkU9F%2BrmmDu3PYHJLdWxnRn1WD7sHj6RkZtqgKt7foVhmOB8C0Lsa6FydeqC4LHBrddt22ClQVh99X4dhI7oSh1zm7%2FoR%2FO%2FsCYCMY9STNT8VxH%2BPneL%2B3WScO%2Fiz8CqvlbyFpyWn%2B9Pa%2FxkUBJfiu2pc42ezi8n9%2BiH%2BoBjnHoFhJ%2FbXrG%2FFyKgioyQNffbbBXXhnpqNgnAbJwJT%2Bs5u0Z1CyWX9rxDh0h7xePX%2BH5WEO13tzKEF8mUmEI5O1KFmbaY1A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2Fa190d21e9c7396a7b28f2f23d1da46a4%2Fimage.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/a190d21e9c7396a7b28f2f23d1da46a4/image.gif?Expires=1789132775&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LVTozYZIiYLWYmnlZ6prZqlKOuA23jfgY0otM%2B13raCaFt54PODhmz4ncwDe59FQvF4c8b88qgUK%2FpCHQR6pz0mqdFbjd0OFdf2bb60T4%2BXwElZZzyx4AjvHaPiGtAliQVY8%2B%2Fh0tsmukWaonedzwXftQdDQtP%2FP1%2Bg0fme6nWC5rRekIF%2FDb9Zpl3rJ53LOR1Je14WI4jzxMgY%2FhCCshTOsXxxwkWCimLp39S7I%2FkRL0hiNvJpV5jKDdJT4mKqFxuQ8aGS8s2j6aGczNDzbCt%2F%2BUXaSABPr35B1CJvJErZUvROwjLj9grC1nNdEbhZJWYYBD6Xymb88aY0LvUc4OQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2Fa190d21e9c7396a7b28f2f23d1da46a4%2Fimage.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1114,7 +1114,7 @@ fernって名前のやつ　履歴消したらきえt
 
 h
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/e356b112dfc72538067fb9aa7323a150/image.gif?Expires=1789127053&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=vTR%2BDTRVbtuegdjbj6OQISuCoI4DGG3oD2vxNKcJHjdd0636mkQTJU%2BZVfQmvZ9TeL5RapzScyYKeXPlR8jZf0dJPBge9UXGqGmtCT5PBrqLFE8YEqJC2rQD3wr7qK5jade572wrbEzhBSURuasx2lNN2LL16uFN5Jh1ZW1sncoU8wECI5YEQNYPmhZg5Np93LWIp6YrDFjCfKylsg%2BsMZaKdlgiMJzF9zgFglt0KpjmNTSY4hDJ%2B%2BbwYDM0KMJtrZ%2BvIrPwFiAxPuofqHhVE4jQfwiRVE2asrmchuD2V5yi2giAUtwyQOwVPfdlAzJyiio1WHuLR0qgEqIvnrf%2BqA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2Fe356b112dfc72538067fb9aa7323a150%2Fimage.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/e356b112dfc72538067fb9aa7323a150/image.gif?Expires=1789132775&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=K7MPWCDiIahXHPeyWgaP3s9%2BPk18hlGwVHVVU9V0qVX6Rb%2F%2FHRpWHIbyyF8w6Qa%2FndAREcH5I3pQG9aNupHn4PoIesXerXerlsNYygr4qHKyONORgSk5u4DjD%2Bitp4pUKJejS7drIvWLEkeTBfZyla9rBR%2B4H82eQH6YTS4H1BXoRnsUKy58FAjjf25AAksojthvduClxM8d8f%2F%2BvRvy927h%2FDFdiSYa6Z43NNIs%2FOGHlMbz4wUctaFpbweo3uuMoqEWn2q5zkHdaPRuHnm339pscCKD2qoJy9T3gQimVuMLq113PLkg4IPFNpt6ja2YG8yZ5WtEdkuBtbNtBuMgdQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2Fe356b112dfc72538067fb9aa7323a150%2Fimage.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1128,7 +1128,7 @@ h
 
 hello
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/fe8b03998cf17d0f07c55e0aa14e05db/image.gif?Expires=1789127053&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=duQMkkcljIP9LVL92f%2BDXIb4wyLSecSnKc%2BD77naSUX8B2kI4Da5QRcrMM%2FT%2B3Ry7lL77rnbSK1TBKPFcQewJLDFEu%2Feao600ESjPPrGG%2BL4G6cmS6tdMYSTxj0USkwal0ypR9qV8ZVAQUyOJ%2FGzVsnAtACB%2FEfqt%2Bn0Mj9duvSVog37yDvvgwCcmFdGihPXh%2FUFC3XB%2FTaKEuBARdCrjN3P75CvXjGbbv8%2Bueb%2F48BUNX38Kcyk8jBdzxa6%2FQ7o7LIYh8mylLDtu%2BSvZ%2B4huXEtsv69NWX9vHcrruZ9ooBOqSxEev8EC9p2SwmwR6VWBLasakgOzjQZXZPYxvG1ng%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2Ffe8b03998cf17d0f07c55e0aa14e05db%2Fimage.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/fe8b03998cf17d0f07c55e0aa14e05db/image.gif?Expires=1789132775&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=eS0ZMYmzN0d6vry4Xv0QZpmlGT6MnC5S%2Bx1nyzVSO30YPrX3j1NGVXjY8jlZvqxNvjCIZE1b3bF7G7fABbdPl2B0%2FNW5dSSWwXf8ZreSy9pbGXkYdIR%2BQ0JlHTvVoi91gS%2BKM0Yg67IyP05bDvcrdZz1POLBrotvHLnG6XW5zYEvkeG%2FcmpRpqbEu1kcl%2FhEX6iL63qRtbGoUh3Ha80rBIWzmEboN5rXmBvJEZGKoYQvMT9pzFGFQReaV5begJm%2FLb83yAAmbgw8S4XmKbS4AW6RwpXy%2BiOjpa%2FwyRoZ7mUWD4fNL6gmRRHDdLuwF5V9FZxhE4iBVSDcJKqS9V1usQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2Ffe8b03998cf17d0f07c55e0aa14e05db%2Fimage.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1273,7 +1273,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789127053&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=XKX1qfXNsCaqOO2WhlTB%2BmWSFzPngp%2FYKDd3uI8zmcVCgoGSy1gbI1e9OurMeuQEZISet86nORb0UtjdNxCoIeWFkUU5RuXhhnIcZk3gWZ8Z6Bs8kedqxa2%2BgDpPLP7K%2FKld67zdmd1OtKc4R5HteW6Qh%2BvFXngNWRPJrNauGPxOq6McH9ERpuo%2BKFD0yraPD2jFEJDrTT20CDDlm%2Fzorc7ZLo6xRTTu0ztXyl1ytqIY7ohxgNM6TurpPvrpX9sqFOGECNm6y2JNjKb1A1of6Mk9guKPvr0vXlHo2M%2BUGoxxjB6OE6exYUAyE6Fv7KK0iOgyhik189qu2W3ofc8fDQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789132776&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FaVxOMcnDi9msFZBnlQtqgFMqZBq%2FwxMirep8rTP61woeYZWzrLvYYpbPcKgadTWbCxldr%2BDnNov6rEOvlYW4KXp5keghhVgHCzlJGCYX5BG9em7TNP3caIlsvivcN1mBiULtQkK5djIYCguw2iQbApUjtIfxhUPMDro7%2BlZqwg99D5Mcjcw%2FSTiqSznrnzOFgSH4mRuAqwzyEybuxW5X9pwPjIAzCv7ya08snhdbY8MeqJSWUkFkwAym5ta65MW52HLUnDzsvz8i0q9mSIuIK6jP11KbMNF4VpRG003wcrWQntvLDuAfRZJHCDpLglLY0Gq0YY%2Fk5w8X0UUjVL4kg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (5)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1500,7 +1500,7 @@ No post
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=tfMneb7nGbY)
 
-#### Comments (13)
+#### Comments (14)
 - **Anonymous** (Aug 29, 2026 12:39am): 誰かマエスケの動画ちょうだい 
 - **えいこ** (Sep 01, 2026 12:40am): ホンマにマエスケの動画くれ
 - **カゼドリ** (Sep 01, 2026 06:19am): マインクラフト史上一番怖いMODを入れたら..www.youtube.com › watch
@@ -1514,6 +1514,7 @@ No post
 - **Anonymous** (Sep 03, 2026 05:58am): すぅー
 - **Anonymous** (Sep 03, 2026 09:19am): すうをお返しします
 - **Anonymous** (Sep 04, 2026 01:03am): おっぱい
+- **やいやい** (Sep 04, 2026 12:58pm): うんこおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお
 
 #### Additional Information
 - **Post color:** White
