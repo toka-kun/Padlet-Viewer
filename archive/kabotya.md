@@ -1,74 +1,25 @@
-最終取得: 2026/09/04 22:48:16
+最終取得: 2026/09/05 01:17:51
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 101
+- **Posts:** 95
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 04, 2026 12:58pm
+- **Updated At:** Sep 04, 2026 03:29pm
 
 ## 雑談
 
-### 1. Post 1
-**Author:** itokoとこtoko (r0245154)
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/c4b6f8a6ad4fd2bb345090a06b3d425a/image.gif?Expires=1789134554&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=d88e2CVBQg55fgWPe2Se9Ik32NnB9hU2c8DbPC7pwPYquzAltcfR92nfV7c85QMYk%2FhHPyw5LIqep8hdGZvnZtgL3T0%2BCVwGNmMU%2BAoQRi1EjG4CUIzrXr7oVGLc3AC2jTfxGYxQgTxa%2F0ZLSuNisuOAUr3%2BRqYazlY281gTO7kMgFIH0Y5euJF2KQW4fM85DV3eZPBAWteR0G2j8k%2FDC6%2Bs9TE8O6zxoG4kf7qa5GqhxqqUSeiLZQYYPJBfTHZEz%2BQr%2BKzOEy3s6JASA%2FN4ksFXQHkW%2BZ2%2B0LXtd7%2BThUD8Qp6A8j4L3uIWevHSgZRGCWta6J3ATw03p9%2BC4twEgQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2Fc4b6f8a6ad4fd2bb345090a06b3d425a%2Fimage.gif)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Sep 04, 2026 06:07am
-- **Updated At:** Sep 04, 2026 06:08am
-
----
-
-### 2. Post 2
-**Author:** itokoとこtoko (r0245154)
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/3684c85e47eb3d68c4ba77348bddda17/image.gif?Expires=1789134554&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0RChzt6EXMRUp95wfitBIJp4Bc8qMKva3lgoT9fOctcw35DA1Uiq23ROESz25%2BBhxf5rsuAvinaWpNDRrkqLJ2oqrPfZgluFYnxN1CnKdLsZ4oG3o1T4uUqvIsnb6lqBAdZPwbEVHce5OToVeOs%2FM2PDP4kvgrsZzyx0HqeVxdrI85cYHvxl6xfh9hEp5DjKfb5ZYl9T%2B3%2FNxapGy3sAVJg6ri4zzPB8EDLO1tecn3mnNPX7R9BQLZ33ClSqjWub9fLn%2BBcynDhLdNZaqG7ADXlC%2BfZeekvaGqK24qFUQeieI7HOZirLlOrWAi9eIXhDeKsoyNRD2ISNiqMuM0HDOw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2F3684c85e47eb3d68c4ba77348bddda17%2Fimage.gif)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Sep 04, 2026 06:03am
-- **Updated At:** Sep 04, 2026 06:04am
-
----
-
-### 3. Post 3
-**Author:** itokoとこtoko (r0245154)
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/419a716e689af6e6e984f80d9e76c130/image.gif?Expires=1789134554&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=f8TKfGSXOYnSbRf1kVW26huKmvZ%2Bpsk2LUp2F%2FcF1tHB9K7ZKlNZGwmdot5rp5VQzLX5AyWK5FEiWpVspfl0ngS3rUwKLoruG34vYedIK7GN3S1Woql%2BfKqCGCcrM7pLycB8No8DGshayA3z24y%2Bn8kZ%2F1S%2BaOhPrwmhXq6ERg1tuGT1GgPvTIuKdJBn%2F5vSWNYGOrePlY06l6813jLT3H8qiDfKgX%2BJCmRe8RLjfqhkIljXYX8B3epJMZ8rBFgFVa25uplf6%2B2jE%2FF%2BhOQZ9bbLgUkONMLU7PeAsqjH9mEZcyMQL2wzLRJ%2Bq2PtdsSXG49u4ptBYXlhgH5GXXeS2w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2F419a716e689af6e6e984f80d9e76c130%2Fimage.gif)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Sep 04, 2026 06:01am
-- **Updated At:** Sep 04, 2026 06:02am
-
----
-
-### 4. Post 4
-**Author:** スズヒカリ
-
-[Attachment 1](https://www.youtube.com/watch?pdlt=1&v=MFwtpM21wWc)
-
-#### Comments (2)
-- **ジュッセンパイヤー** (Sep 04, 2026 03:37am): お前やりますねスギィ！
-- **Anonymous** (Sep 04, 2026 06:01am): Фиолетовые огурцы танцевали вальс на вершине невидимого холодильника, пока квадратные облака пели песни о ржавых велосипедах. Вдруг прилетел деревянный дерижабль, наполненный жидким какао, и прокричал: «Где моя левая пятка, господа кабачки?!» Никто не ответил, потому что все были заняты чтением прошлогодних газет на марсианском языке внутри летающего чайника. Часы пробили тридцать два градуса по Цельсию, и все пластиковые ложки дружно улетели на юг, оставив после себя лишь лёгкий аромат жареных гитарных струн и фиолетовых мыслей.
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Sep 04, 2026 03:23am
-- **Updated At:** Sep 04, 2026 03:23am
-
----
-
-### 5. 規制突破
+### 1. 規制突破
 **Author:** Nannka　Youtube (s1923051_1)
 
-#### Comments (2)
+#### Comments (5)
 - **Nannka　Youtube** (Sep 04, 2026 02:26am): どうやったら部屋作れるんですか？自分も作りたいです
-- **Anonymous** (Sep 04, 2026 05:52am): 結論から言うと、「長文ニキ」という言葉自体は珍しくありません。インターネットやSNSをよく使う人の間では、非常に定着しているポピュラーなネットスラングです。 jocr.jp +1ただし、普段ネットをあまり見ない人や、テレビなどのマスメディア中心の生活をしている人からすると「聞いたことがない珍しい言葉」に感じられます。この言葉の普及度や意味について、分かりやすく解説します。「長文ニキ」の普及度と使われる場所SNS・ネット掲示板（認知度：高）：X（旧Twitter）、YouTubeのコメント欄、TikTok、5ちゃんねる（旧2ちゃんねる）などでは、毎日のように見かける定番の言葉です。 jocr.jp +1日常会話（認知度：中〜低）：Z世代を中心とした若い世代の間では日常会話でも使われますが、ビジネスシーンや年配の方との会話で使われることはほぼありません。 jocr.jp言葉の構成と意味「長文ニキ」は、「長文」と「ニキ（アニキの略）」が合体してできた言葉です。主に以下の2つのニュアンスで使われます。 ニュアンス具体的な使われ方① 皮肉・おちょくりSNSやコメント欄で、空気を読まずに独りよがりな大長文を連投している人や、必死に長文で反論（レスバ）している人を少しバカにするとき。② 親しみ・感謝複雑な事件やニュース、ゲームの攻略法などを、コメント欄で分かりやすく長文で解説してくれている頼もしい人（有識者）を褒めるとき。元々は2ちゃんねるの「なんでも実況J（なんJ）」という掲示板から生まれたスラング（元プロ野球選手の金本知憲氏の愛称「アニキ」が由来）で、今では「〜する男（人）」を指す一般的な代名詞として定着しています。 jocr.jp +3
+- **かぼちゃ** (Sep 04, 2026 02:08pm): 作成のところを押してから、列とかでそこから設定とかで作れていったりする、色んなとこで宣伝したらみんな来るようになる、まあ最初はたくさん荒らし来ると思うけど4年とかしてたら慣れていくよ、
+- **Anonymous** (Sep 04, 2026 03:04pm): かぼちゃ何様？予想の答え「俺様」こんなサイトでイキんな
+- **Anonymous** (Sep 04, 2026 03:25pm): もしかしてかぼちゃって教祖？名前ダサすぎるから変えなよ
+- **Anonymous** (Sep 04, 2026 03:26pm): 日本の閉塞感に一石を投じているつもりなんでしょうけど、画面の向こうで『ドヤ顔でカボチャって書き込んでる男』を想像すると、なんだか切ない気持ちになりますね。世界を変える前に、まずは部屋の換気をして外の空気を吸ったほうがいいですよ
 
 #### Additional Information
 - **Post color:** White
@@ -77,7 +28,7 @@
 
 ---
 
-### 6. Post 6
+### 2. Post 2
 **Author:** 覚醒のX (21070052_1)
 
 [Attachment 1](https://padlet.com/21070052_1/padlet-l9bx22n6f2mh56z5)
@@ -89,11 +40,12 @@
 
 ---
 
-### 7. ゲーム123
+### 3. ゲーム123
 **Author:** ｓ
 
-#### Comments (1)
+#### Comments (2)
 - **匿名1** (Sep 03, 2026 11:56pm): ゲームできないの？ 
+- **Anonymous** (Sep 04, 2026 03:29pm): ？のいなきでムーゲ
 
 #### Additional Information
 - **Post color:** White
@@ -102,14 +54,17 @@
 
 ---
 
-### 8. 大丈夫大丈夫大丈夫大丈夫大丈夫大丈夫↑なんか異変気づいた？
+### 4. 大丈夫大丈夫大丈夫大丈夫大丈夫大丈夫↑なんか異変気づいた？
 **Author:** 匿名
 
-#### Comments (4)
+#### Comments (7)
 - **匿名** (Sep 03, 2026 12:26pm): これ斜めってるんだよね
 - **匿名** (Sep 03, 2026 12:30pm): これやってみ
 - **シオリ** (Sep 03, 2026 12:31pm): 何をやってみるの？
 - **Anonymous** (Sep 03, 2026 11:07pm): オークストリートの異変
+- **Anonymous** (Sep 04, 2026 03:27pm): the end  of このサイト
+- **Anonymous** (Sep 04, 2026 03:27pm): 警察通報されるらしいで　誰かが書いてるまあどうせクソインキャな日和な口だけクソ野郎だろうよ
+- **Anonymous** (Sep 04, 2026 03:28pm): って…これ俺かいな！
 
 #### Additional Information
 - **Post color:** White
@@ -118,7 +73,7 @@
 
 ---
 
-### 9. 誰かいますか？
+### 5. 誰かいますか？
 **Author:** そーりー (999d3145fe729ae4)
 
 #### Comments (9)
@@ -139,7 +94,7 @@
 
 ---
 
-### 10. 明日学校雨でなくなるかもしれないマジで神
+### 6. 明日学校雨でなくなるかもしれないマジで神
 **Author:** えいこ
 
 #### Comments (8)
@@ -159,7 +114,7 @@
 
 ---
 
-### 11. Post 11
+### 7. Post 7
 **Author:** itokoとこtoko (r0245154)
 
 まじではいって
@@ -186,10 +141,10 @@
 
 ---
 
-### 12. よ
+### 8. よ
 **Author:** ヤクシカブト (s1923003_1)
 
-#### Comments (10)
+#### Comments (11)
 - **ヤクシカブト** (Sep 02, 2026 04:53am): こんにちは
 - **Nannka　Youtube** (Sep 02, 2026 04:59am): ヤァ 
 - **Anonymous** (Sep 03, 2026 03:17am): 薬師兜sexしたの嘘だろ　まじマザーファッカーだなそんなこと如きデ…性にタブーなこの国では神扱いか？アメリカとかどうなってるか調べてみ
@@ -200,6 +155,7 @@
 - **ヤクシカブト** (Sep 04, 2026 01:42am): セックス
 - **ヤクシカブト** (Sep 04, 2026 01:42am): セックス
 - **ヤクシカブト** (Sep 04, 2026 01:42am): セックス
+- **Anonymous** (Sep 04, 2026 03:11pm): 先進国の中で圧倒的に性教育が遅れている日本だからこそ、そんな使い古された虚言でドヤ顔できるコミュニティが存在するんだね。包括的性教育（CSE）が義務化されている海外のZ世代から見たら、大の大人が『行為の有無』だけで承認欲求を満たそうとしてる姿なんて、義務教育の敗北か、野生動物の縄張り主張にしか見えないよ。グローバルな視点で見ると、そのイキり方自体がガラパゴスすぎて逆に新鮮。次は『昨日ちゃんと歯磨きした！』ってドヤるのかな？
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -211,7 +167,7 @@
 
 ---
 
-### 13. だる
+### 9. だる
 **Author:** Nannka　Youtube (s1923051_1)
 
 #### Comments (6)
@@ -229,7 +185,7 @@
 
 ---
 
-### 14. 今もずっと動いてる部屋教えてください人多いところがいいです
+### 10. 今もずっと動いてる部屋教えてください人多いところがいいです
 **Author:** ちゆ
 
 #### Additional Information
@@ -239,7 +195,7 @@
 
 ---
 
-### 15. チャット（ゆうと、みなと、れお、えいいち、まひろ）
+### 11. チャット（ゆうと、みなと、れお、えいいち、まひろ）
 **Author:** れお
 
 [https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing](https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing)
@@ -256,7 +212,7 @@
 
 ---
 
-### 16. 前の土日、何した？
+### 12. 前の土日、何した？
 **Author:** 港
 
 #### Comments (2)
@@ -270,7 +226,7 @@
 
 ---
 
-### 17. みんなおばあちゃんち行った？
+### 13. みんなおばあちゃんち行った？
 **Author:** みなと
 
 #### Comments (5)
@@ -287,7 +243,7 @@
 
 ---
 
-### 18. 雑談
+### 14. 雑談
 **Author:** TENTENNTENN
 
 
@@ -303,7 +259,7 @@
 
 ---
 
-### 19. 学校ってみんなきらい俺台っきらい
+### 15. 学校ってみんなきらい俺台っきらい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (9)
@@ -324,7 +280,7 @@
 
 ---
 
-### 20. 夏休み楽しかった
+### 16. 夏休み楽しかった
 **Author:** みなと
 
 #### Comments (8)
@@ -344,7 +300,7 @@
 
 ---
 
-### 21. geometrydashの定員募集中（10人）
+### 17. geometrydashの定員募集中（10人）
 **Author:** ゆうと
 
 [https://forms.gle/MB8vdXJbKXKy2nG98](https://forms.gle/MB8vdXJbKXKy2nG98)
@@ -358,7 +314,7 @@
 
 ---
 
-### 22. 後ろ見ろ
+### 18. 後ろ見ろ
 **Author:** 犬
 
 #### Comments (1)
@@ -371,7 +327,7 @@
 
 ---
 
-### 23. ビデオ通話
+### 19. ビデオ通話
 **Author:** シラカバ
 
 学校嫌だ
@@ -392,7 +348,7 @@
 
 ---
 
-### 24. あ
+### 20. あ
 **Author:** シラカバ
 
 あ
@@ -412,7 +368,7 @@
 
 ---
 
-### 25. poki
+### 21. poki
 **Author:** 常闇 トワ（不地口手万ディ） (Fleeex)
 
 [Attachment 1](https://poki.io/)
@@ -424,7 +380,7 @@
 
 ---
 
-### 26. まだうごいてんのここwwwwwww
+### 22. まだうごいてんのここwwwwwww
 **Author:** 💍持ち #kgtとプロたんの囲い😙 (c_coa09)
 
 #### Comments (2)
@@ -438,10 +394,10 @@
 
 ---
 
-### 27. 一旦消しました
+### 23. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
-#### Comments (30)
+#### Comments (31)
 - **フブキコ** (Aug 26, 2026 04:51am): けすなよお
 - **ワカナ** (Aug 26, 2026 05:03am): けさないで
 - **ワカナ** (Aug 26, 2026 05:28am): もう！！
@@ -472,6 +428,7 @@
 - **Anonymous** (Sep 03, 2026 04:58am): 文字化けレベルの書き込みと、それに群がるチンパンジーの鳴き声。どっちも低レベルすぎて、ここだけネットの底が抜けてるのかと思った。お互い自分の姿を鏡で見てから書き込んだ方がいいよ、本気で滑稽だから。
 - **Anonymous** (Sep 03, 2026 06:47am): おなべさんここにもいたんか！ホシウタやで
 - **Nannka　Youtube** (Sep 04, 2026 02:28am): 時間の無駄
+- **Anonymous** (Sep 04, 2026 03:13pm): そんなに狭い視野で生きているほうが、人生の時間としてよほど無駄が多い気がしますが…そうですよね？nannka YouTube さん？
 
 #### Reactions
 - **Emojis:** 😭 (8) 👍 (6) 🥲 (1) 😆 (1)
@@ -490,7 +447,7 @@
 
 [Attachment 1](https://unpkg.com/classroomduck@1.0.29/index.html)
 
-#### Comments (15)
+#### Comments (14)
 - **ミドリネ** (Sep 01, 2026 10:01am): あっざっす
 - **ナミユメ** (Sep 01, 2026 10:32am): マジてんきゅー
 - **mbappe♯初代つつきの森会員♯狂鳥族２代目** (Sep 01, 2026 11:44am): てんきゅー
@@ -505,7 +462,6 @@
 - **Anonymous** (Sep 03, 2026 01:36pm): どーいたしまして
 - **Anonymous** (Sep 03, 2026 11:09pm): ファッキングゴー!
 - **カゼドリ** (Sep 04, 2026 05:34am): どういたしまして
-- **Anonymous** (Sep 04, 2026 05:56am): 「fucking go」は、一言でいうと「さあ行くぞ！」「よっしゃ、やるぞ！」という強い気合いや興奮を表すスラングです。 一般的には 「Let's fucking go」（略して LFG）という形で使われることが多く、通常の「Let's go（行こう、頑張ろう）」に汚い強調表現（fucking）を挟むことで、テンションが最高潮に達している状態を表します。 英辞郎 +1主なニュアンスと使われる場面は以下の通りです。1. 主なニュアンス「よっしゃ行くぞ！！」「最高だぜ！！」「やってやろうじゃん！！」2. よく使われるシチュエーションスポーツやゲームの試合前・試合中： チームの士気を高めるときや、劇的なゴールが決まって大興奮しているとき。ライブやパーティーの開幕： イベントが始まって会場全体のテンションが上がったとき。目標を達成した瞬間： テストが終わったときや、難しいプロジェクトをやり遂げたとき。⚠️ 注意点 fucking という非常に下品で攻撃的な言葉（Fワード）が含まれているため、ビジネスシーンや目上の人の前、公式な場では絶対に言ってはいけません。あくまで親しい友人同士や、スポーツ観戦などの熱狂的な場で使われるカジュアル（かつ過激）な表現です
 
 #### Additional Information
 - **Post color:** White
@@ -564,11 +520,14 @@
 
 [Attachment 1](https://sites.google.com/view/dominumnetworkv2/entertainment/m0v1es)
 
-#### Comments (4)
+#### Comments (7)
 - **ぴる** (Sep 03, 2026 02:05am): え神すぎるズートピアとかホラー映画みれるのやばい
 - **Anonymous** (Sep 03, 2026 03:13am): 見たい
 - **Anonymous** (Sep 03, 2026 03:14am): ていうかここマザーファッカーしかいないのかよ笑
 - **わ** (Sep 03, 2026 11:41pm): ここ開いて下にスライドしたらいろんな映画ある
+- **Anonymous** (Sep 04, 2026 03:15pm): 警察通報したろか？このカボチャサイトもろとも一斉検挙後ここに書き込んでたやつ全員ネットの痕跡を警察は調べ　きっと学校のタブレットを使っている場合…学校に連絡が行き…親にも連絡が行き…やったろか？
+- **Anonymous** (Sep 04, 2026 03:15pm): やったろか！？
+- **Anonymous** (Sep 04, 2026 03:15pm): なぁ！！やったろぉうかぁ！
 
 #### Additional Information
 - **Post color:** White
@@ -710,21 +669,7 @@
 
 ## 要求
 
-### 1. Post 1
-**Author:** itokoとこtoko (r0245154)
-
-hello
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/a190d21e9c7396a7b28f2f23d1da46a4/image.gif?Expires=1789134554&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=keImxAUG5Fp1Fr8PGPMkT3RZp2AfIZ4oITEZ2LDe5EBCukqEg6svDA%2BVB7oNNW3HBiUzRiLyBaxVK7F27zU60KcZXploAaJvRhbYaNstGR%2FIxHU1OfOoqRgxvzQbjQjv7l2mKuiMaqw48yHbRtP6GF8eJD8KkhZeMrGzNf3Pp%2BVprdUqadGNWVkyt0JZWxCKnwFuCEciDH%2FBXwGW9SjMYO%2BNvAQVbCwkQKVPVX502d05OZ1JFD7mDlahGMzqGQplvAhp8wrF%2B9Voaeoy0cIG7SbCH4H3R57w%2FJ7Q8bZ4RJe8d8D%2FIR2behpWjs%2BQ4%2FaRsELlIqcY%2Bv7izQENCiWCMw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2Fa190d21e9c7396a7b28f2f23d1da46a4%2Fimage.gif)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Sep 04, 2026 06:19am
-- **Updated At:** Sep 04, 2026 06:20am
-
----
-
-### 2. いいですよ
+### 1. いいですよ
 **Author:** 焼き止めと
 
 #### Additional Information
@@ -734,7 +679,7 @@ hello
 
 ---
 
-### 3. いいっすねええ
+### 2. いいっすねええ
 **Author:** 匿名
 
 #### Additional Information
@@ -744,7 +689,7 @@ hello
 
 ---
 
-### 4. 誰か一緒にお話しませんか？誰でもどうぞ！
+### 3. 誰か一緒にお話しませんか？誰でもどうぞ！
 **Author:** ソラハル
 
 みんなで、一緒に仲良く話しましょう。[https://scratch.mit.edu/projects/556926076/fullscreen/](https://scratch.mit.edu/projects/556926076/fullscreen/)
@@ -760,7 +705,7 @@ hello
 
 ---
 
-### 5. あ
+### 4. あ
 **Author:** チンアナゴ
 
 #### Comments (1)
@@ -773,7 +718,7 @@ hello
 
 ---
 
-### 6. エロ部屋くれ
+### 5. エロ部屋くれ
 **Author:** ツキノト
 
 #### Comments (12)
@@ -797,7 +742,7 @@ hello
 
 ---
 
-### 7. ロブロックスとYouTubeのリンク載せて
+### 6. ロブロックスとYouTubeのリンク載せて
 **Author:** マリオ
 
 #### Comments (1)
@@ -810,7 +755,7 @@ hello
 
 ---
 
-### 8. ほかのゲームサイト乗せて
+### 7. ほかのゲームサイト乗せて
 **Author:** ツキミ
 
 #### Additional Information
@@ -820,7 +765,7 @@ hello
 
 ---
 
-### 9. ゆうと、どうやってけすの？
+### 8. ゆうと、どうやってけすの？
 **Author:** 港
 
 #### Comments (1)
@@ -833,7 +778,7 @@ hello
 
 ---
 
-### 10. インスタできるやつください
+### 9. インスタできるやつください
 **Author:** ０２２３
 
 #### Comments (1)
@@ -846,7 +791,7 @@ hello
 
 ---
 
-### 11. 誰か軽いproxyくれ　ブロックされるやつでもいいから
+### 10. 誰か軽いproxyくれ　ブロックされるやつでもいいから
 **Author:** ノハルカ
 
 #### Comments (1)
@@ -859,7 +804,7 @@ hello
 
 ---
 
-### 12. ジオメトリーダッシュ作ってください
+### 11. ジオメトリーダッシュ作ってください
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (1)
@@ -872,7 +817,7 @@ hello
 
 ---
 
-### 13. Post 13
+### 12. Post 12
 **Author:** りゅう
 
 フォートナイトぽしいです
@@ -888,7 +833,7 @@ hello
 
 ---
 
-### 14. アンダーテールぽしいです
+### 13. アンダーテールぽしいです
 **Author:** ああああ (h0319096_1)
 
 #### Comments (1)
@@ -901,7 +846,7 @@ hello
 
 ---
 
-### 15. 流行語大賞２０２６ください
+### 14. 流行語大賞２０２６ください
 **Author:** ミズアメ
 
 #### Comments (1)
@@ -914,12 +859,13 @@ hello
 
 ---
 
-### 16. いんすたないですか
+### 15. いんすたないですか
 **Author:** う
 
-#### Comments (2)
+#### Comments (3)
 - **Anonymous** (Sep 03, 2026 01:40pm): あるよでもなんであんたに教えないといけないの？
 - **う** (Sep 03, 2026 11:45pm): 教えてほしいサイトありますか？？このサイトわたしが知ってたら交換しましょう
+- **Anonymous** (Sep 04, 2026 03:16pm): 結構です
 
 #### Additional Information
 - **Post color:** White
@@ -928,7 +874,7 @@ hello
 
 ---
 
-### 17. お願い
+### 16. お願い
 **Author:** ナナシ
 
 エロい漫画見れるサイト教えて
@@ -945,7 +891,7 @@ hello
 
 ---
 
-### 18. はやく！
+### 17. はやく！
 **Author:** ホシノキ
 
 性教育実習の漫画があるパドレットください
@@ -961,7 +907,7 @@ hello
 
 ---
 
-### 19. 誰かpokiのサイト載せて
+### 18. 誰かpokiのサイト載せて
 **Author:** 匿名
 
 #### Comments (4)
@@ -977,7 +923,7 @@ hello
 
 ---
 
-### 20. 誰かURL貼って動画見るやつ教えて
+### 19. 誰かURL貼って動画見るやつ教えて
 **Author:** ユメノ
 
 fernって名前のやつ　履歴消したらきえt
@@ -995,7 +941,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 21. 誰かエロ部屋くれ
+### 20. 誰かエロ部屋くれ
 **Author:** 匿名
 
 #### Comments (1)
@@ -1008,7 +954,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 22. アニメ見れるサイト欲しい
+### 21. アニメ見れるサイト欲しい
 **Author:** 34b6kq
 
 違法サイトでも全然ええよ
@@ -1029,7 +975,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 23. Post 23
+### 22. Post 22
 **Author:** でにでにろつとまん (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
@@ -1047,7 +993,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 24. エロサイトくれ
+### 23. エロサイトくれ
 **Author:** スギノネ
 
 #### Comments (18)
@@ -1077,7 +1023,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 25. 至急！！！！！
+### 24. 至急！！！！！
 **Author:** スギノネ
 
 保健室のサイト　誰かほしいです！
@@ -1109,46 +1055,17 @@ fernって名前のやつ　履歴消したらきえt
 
 ## 質問
 
-### 1. Post 1
-**Author:** itokoとこtoko (r0245154)
-
-h
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/e356b112dfc72538067fb9aa7323a150/image.gif?Expires=1789134555&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=vYQWKj7Z8Yg1uVuzh%2FG%2F47gvD0oNgQt%2FA11MPNmFb8Zs3%2F%2BtkLAeqH%2BBr7cLMD0z0iX7k9gzixTr5rDJm6G2RB1Gm%2Fpx%2FJ%2FagvwMNXedctMbqCrgZg04GSbL4bKvp3lxwJC5sepZ7qveY8N4ip90axkbrCBM8%2BOOAm4VzCFJ%2Flzaz8D6GelFkXuvb%2BXS%2B%2FMLNNIVwJpPOjRJX%2FVLgSC2HwyynPYxNQWMUoqn%2B0MJlRJqfluDf%2BSUKapH9dhc7Sy6ZExYGjFTLzlIsPzLQhULnKQwJ0WZqHFQ6lj82Tohsh8VNJqosf%2B%2F%2BZHhofA5gEQV2dAin4Bn4One8N3DOjMcUw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2Fe356b112dfc72538067fb9aa7323a150%2Fimage.gif)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Sep 04, 2026 06:22am
-- **Updated At:** Sep 04, 2026 06:23am
-
----
-
-### 2. Post 2
-**Author:** itokoとこtoko (r0245154)
-
-hello
-
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5831350015/fe8b03998cf17d0f07c55e0aa14e05db/image.gif?Expires=1789134555&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=f42BEEInHTs2yFzUo4cS6Hd1iRAt2bAbXmJ9sS9wGdvrPMoH90pxCAfRowfVVlV3FjUbGKnVownWG0xI58xuslbRP%2B55lJP8RDK4AqQIIU8opEHt1V9jgQYSjFXttNYPGPvdfN94BFxRI1RGtxwQJz1k4wjaQI2%2F01kbfcRysvbPaTBAcxMcfn3FdpdfhcN2ercNtltt5Wi%2FiOFHcnts4yX6FNMaBFJbvDueCL%2FjgqT4BwaI%2Bj4Tl6B%2Bwrd4qL%2F6io%2BKlxkjPVDFP%2FwJt0NtoWw7Vm02zk2I%2F%2BHWB0pl9fQSAe4cVjAU%2FgHI3WV0T2A4xsahqvdKtZ%2BJb8yYiKebsA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5831350015%2Ffe8b03998cf17d0f07c55e0aa14e05db%2Fimage.gif)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Sep 04, 2026 06:17am
-- **Updated At:** Sep 04, 2026 06:18am
-
----
-
-### 3. 友達からの紹介で来ました　ここはどういうところですか？
+### 1. 友達からの紹介で来ました　ここはどういうところですか？
 **Author:** タビゴロモ
 
-#### Comments (8)
+#### Comments (7)
 - **黒龍** (Sep 03, 2026 10:31am): 学タブでできるゲームを貼ったりする場所だよー
 - **Anonymous** (Sep 03, 2026 01:44pm): 作戦を練る！
 - **Anonymous** (Sep 03, 2026 01:51pm): あ、いらっしゃい。わざわざこんなアングラ（笑）な規制回避サイトまで辿り着いて、第一声が『初めまして』ですか。丁寧で大変よろしいこと。でもね、そんな誰も見ていないような掲示板の片隅で律儀に挨拶してる時点で、ネットの歩き方を致命的に勘違いしている負け組だって自ら白状しているようなものですよ？大体、そんなところで呑気に『初めまして〜！抜け道教えてください！』なんて書き込んでいる暇があったら、目の前の安っぽい配備タブレットと、それを必死に制御しようとしている大人たちの浅薄な知恵比べに、少しは自力で食らいついたらどうなんです？必死に『作戦』を寝る（練る、の間違いですよね？寝てどうするんですか？）サイトに通い詰めて、他人のふんどしでYouTubeを見ようとするその涙ぐましい努力、本当に素晴らしいと思います。まあ、その『初めまして』に対するお返事が、誰からも相手にされずに過疎っていく現実を、まずはその制限だらけの画面越しに、じっくりと噛み締めてみてくださいね」
 - **スバル** (Sep 03, 2026 10:39pm): 長文二キ
 - **Anonymous** (Sep 03, 2026 11:12pm): スバル　長文ニキという言葉を俺からパクんなボケカスボケどうせお前アホなクソやろうだろ
 - **スバル** (Sep 04, 2026 05:39am): 俺って誰やねんカスアホがしね
-- **Anonymous** (Sep 04, 2026 05:48am): 俺ってのは昴をカスボケファっキューマザーファッカーって思ってる「お前」ネス湖における未確認動物「ネッシー」の歴史、科学的検証、および社会的・文化的影響に関する考察序論ネス湖の怪獣（英: Loch Ness Monster）、通称「ネッシー（Nessie）」は、スコットランド・ハイランド地方のネス湖に生息すると伝えられる、世界で最も有名な未確認動物（UMA: Unidentified Mysterious Animal）である。長年にわたり、数多くの目撃証言、写真、映像、そして科学的調査が報告されてきたが、その実在を示す決定的な肉体的証拠（生物の死骸や捕獲例）は現在に至るまで発見されていない。本論文では、ネッシー伝承の歴史的背景から、20世紀以降のブームの変遷、これまでに行われた主要な科学的検証、そして本現象が地域経済や大衆文化に与えた影響について多角的に考察する。1. 歴史的背景と目撃譚の変遷1.1 初期の記録：聖コロンバの伝説ネス湖における怪獣の最も古い記録は、西暦565年に高僧聖コロンバ（St. Columba）が著した伝記（アダムナンの『聖コロンバ伝』）に遡る。記述によると、コロンバはネス川で怪物に襲われそうになった住民を救うため、十字架を掲げて神の御名によって怪物を退散させたという。これが「ネス湖の怪獣」の原点とされるが、当時はキリスト教の奇跡を強調するための寓話的側面が強く、現代の「首長竜型」のイメージとは大きく異なる。1.2 1933年の「ネッシー・ブーム」の勃発近代的なネッシー・ブームが始まったのは1933年である。同年、ネス湖の北岸に沿って新しい道路（A82号線）が完成し、湖の視界が大きく開けた。マッケイ夫妻の目撃（1933年4月）：地元のホテル経営者マッケイ夫妻が、湖面でのたうち回る巨大な生物を目撃したと地元のインヴァネス・クーリエ紙が報じ、初めて「モンスター」という言葉が使われた。スパicer夫妻の目撃（1933年7月）：スパicer夫妻が、道路を横切って湖へ向かう「首が長く巨大な胴体を持つ生物」を陸上で目撃したと証言し、ブームは一気に加速した。1.3 近代の象徴：「外科医の写真」とその真実1934年4月、ロンドンの高名な外科医ロバート・ケネス・ウィルソンが撮影したとされる写真は、水面から長い首を突き出す生物の姿を捉え、世界中にネッシーのイメージを定着させた。しかし、1994年、撮影に関与したクリスチャン・スパーリングが死の間際に「おもちゃの潜水艦に木粉粘土で作った首を取り付けた偽物であった」と告白し、この写真は世界的な捏造事件であったことが証明された。2. 生物学的・地質学的仮説と検証ネッシーの実在を支持する、あるいは否定する立場から、これまで多くの科学的・擬似科学的仮説が提唱されてきた。2.1 プレシオサウルス（首長竜）生き残り説最も大衆に好まれた説は、約6600万年前に絶滅したはずの水生爬虫類プレシオサウルスの生き残りがネス湖に閉じ込められたという説である。しかし、この説には以下の科学的致命欠陥がある。地質学的矛盾：ネス湖は最後の氷河期（約1万年前）まで完全に氷に覆われており、それ以前から生物が連続して生存することは不可能である。生物学的矛盾：爬虫類は肺呼吸を行うため、頻繁に息継ぎで水面に顔を出す必要があるが、それに見合う頻度の目撃がない。また、ネス湖の水温（年間平均約5.5℃）は爬虫類が活動するには低すぎる。2.2 大ウナギ（オオウナギ）説ネス湖にはヨーロッパウナギが多数生息している。一部の個体が環境要因や突然変異により、通常のサイズを遥かに超えて巨大化した（数メートル規模）のではないかという説である。これは後述する最新のDNA調査でも注目されることになる。2.3 錯覚および自然現象説多くの目撃談は、既知の動物や自然現象の見間違いである可能性が高い。波と流木：湖を航行するボートの航跡波（特に数キロ先から届く交差波）は、水面を泳ぐ怪獣の背中のように見える。光の屈折（蜃気楼）：穏やかな湖面では冷気と暖気の層により光が屈折し、小さな鳥や流木が巨大に見えることがある。他の動物：泳いでいるシカ、あるいは水面から背中を出したイルカやアザラシ（稀に海から迷い込む）の見間違い。3. 大規模な科学的調査20世紀後半から21世紀にかけて、最新技術を用いた科学的調査が何度も実施された。3.1 ソナー（音波探知機）調査1960年代から2000年代にかけて、ボストンの応用科学アカデミーやBBCなどがソナーを用いた大規模な湖底スキャンを行った。時折「巨大な移動物体」の反応が記録されたが、これらは魚の群れ、あるいは湖底のサーモクライン（変温層）による音波の乱反射であると結論づけられた。3.2 2019年：環境DNA（eDNA）調査ニュージーランドのオタゴ大学のニール・ジェメル教授率いる国際研究チームが、ネス湖の300箇所以上から水サンプルを採取し、そこに微量に含まれる生物の皮膚や排泄物などの環境DNA（eDNA）を分析する最大規模の調査を行った。結果：プレシオサウルスなどの爬虫類、あるいはサメやチョウザメといった大型魚類のDNAは一切検出されなかった。ウナギの可能性：一方で、大量のウナギのDNAが検出された。ジェメル教授は「これが巨大ウナギの証明ではないが、ウナギ説を完全に否定することはできない」と述べた。4. 社会的・文化的・経済的影響ネッシーは単なる未確認動物の枠を超え、現代社会において強大なブランド価値を持っている。影響の側面具体的な現象と効果観光経済スコットランド・ハイランド地方の観光業の主軸。年間数百万人の観光客を誘致し、地域に数千万ポンドの経済効果をもたらしている。ポップカルチャー映画、アニメ、小説（例：『ドラえもん』の「のび太の恐竜」のモチーフや映画『ウォーター・ホース』など）に数多く登場。暗号生物学の発達ネッシーを追うプロセスを通じて、未確認生物を科学的に検証する「暗号生物学（Cryptozoology）」という分野が広く認知された。結論科学的な視点に立てば、ネス湖にプレシオサウルスのような巨大な古代生物が生息している可能性は限りなくゼロに近い。目撃証言の多くは、自然現象の見間違い、集団心理による錯覚、あるいは商業的意図を持った捏造である。しかし、2019年の環境DNA調査のように、ネッシーの謎を追うことが結果として湖の生態系を詳細に解明する学術的成果に繋がっている点は見逃せない。そして何より、科学で全てが解明されつつある現代において、「未知のロマン」を象徴する文化的アイコンとして、ネッシーは今後も人々の想像力を刺激し続けるであろう。
-- **Anonymous** (Sep 04, 2026 05:49am): 結論から言うと、「長文ニキ」という言葉自体は珍しくありません。インターネットやSNSをよく使う人の間では、非常に定着しているポピュラーなネットスラングです。 jocr.jp +1ただし、普段ネットをあまり見ない人や、テレビなどのマスメディア中心の生活をしている人からすると「聞いたことがない珍しい言葉」に感じられます。この言葉の普及度や意味について、分かりやすく解説します。「長文ニキ」の普及度と使われる場所SNS・ネット掲示板（認知度：高）：X（旧Twitter）、YouTubeのコメント欄、TikTok、5ちゃんねる（旧2ちゃんねる）などでは、毎日のように見かける定番の言葉です。 jocr.jp +1日常会話（認知度：中〜低）：Z世代を中心とした若い世代の間では日常会話でも使われますが、ビジネスシーンや年配の方との会話で使われることはほぼありません。 jocr.jp言葉の構成と意味「長文ニキ」は、「長文」と「ニキ（アニキの略）」が合体してできた言葉です。主に以下の2つのニュアンスで使われます。 ニュアンス具体的な使われ方① 皮肉・おちょくりSNSやコメント欄で、空気を読まずに独りよがりな大長文を連投している人や、必死に長文で反論（レスバ）している人を少しバカにするとき。② 親しみ・感謝複雑な事件やニュース、ゲームの攻略法などを、コメント欄で分かりやすく長文で解説してくれている頼もしい人（有識者）を褒めるとき。元々は2ちゃんねるの「なんでも実況J（なんJ）」という掲示板から生まれたスラング（元プロ野球選手の金本知憲氏の愛称「アニキ」が由来）で、今では「〜する男（人）」を指す一般的な代名詞として定着しています。 jocr.jp +3
+- **Anonymous** (Sep 04, 2026 03:18pm): 『俺って誰やねん』って、主語の特定もできない読解力でよくネットに張り付いていられるね。言葉の独占権に嫉妬してパクリに行った挙句、返り討ちにあって暴言吐く姿は、ローカルな井戸端会議でも相手にされないレベルの滑稽さだよ
 
 #### Additional Information
 - **Post color:** White
@@ -1157,7 +1074,7 @@ hello
 
 ---
 
-### 4. エロ部屋の入手方法
+### 2. エロ部屋の入手方法
 **Author:** 変態の味方
 
 #### Comments (4)
@@ -1176,7 +1093,7 @@ hello
 
 ---
 
-### 5. 巨乳派か貧乳派
+### 3. 巨乳派か貧乳派
 **Author:** ハナノアサ
 
 #### Comments (20)
@@ -1208,7 +1125,7 @@ hello
 
 ---
 
-### 6. 巨乳か貧乳かどっち
+### 4. 巨乳か貧乳かどっち
 **Author:** フミアト
 
 #### Comments (10)
@@ -1230,10 +1147,10 @@ hello
 
 ---
 
-### 7. ブロスタやってる人トロ数書いて
+### 5. ブロスタやってる人トロ数書いて
 **Author:** フミダシ
 
-#### Comments (20)
+#### Comments (21)
 - **Anonymous** (Aug 27, 2026 11:52am): 77777
 - **ユメノ** (Aug 28, 2026 10:21am): 20000ちょい
 - **匿名** (Aug 28, 2026 11:12am): 始めたばっかで9000
@@ -1254,6 +1171,7 @@ hello
 - **Anonymous** (Sep 03, 2026 09:19am): 誰か答えたれよ！タイムリミットまであと1時間！
 - **Anonymous** (Sep 03, 2026 01:46pm): もう時間切れジャン…大丈夫だったのか？
 - **Anonymous** (Sep 03, 2026 02:18pm): たぶん手遅れここ病んでるガキしかいないし…きっと 
+- **Anonymous** (Sep 04, 2026 03:19pm): え？自殺したわけ？ないだろ…きっと
 
 #### Additional Information
 - **Post color:** White
@@ -1273,14 +1191,15 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789134555&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7DCuiGsQtSDvMCWQ05SL0k9N5Qg9U%2BxKN3ZmEf2V49lgUiLzM5HUuevcL8TsNhMb4nzKxWlS3jR1tYCtnQpzGpkKDlCR77vhHD0jNYAFtDFIvHQ0sFhPh%2Bc62ragbESAnY9YtTjMvD7k6hM2lmPsbkREN6ZY2ZF3P7ORW9rSOkbayxIIzmwdyyxbND0X15LvVIQLGtPnlo6%2BJKwxe9ujqSSJ1D0AOU4i72lhLsIx52KTvdnSrG5%2FhKfPu9xEkf0roKFbFb5HQpNG5Y%2BuzYKDNU7B%2F8WbT0JIB8LemHIu8qvLiN96qhgRuEtN1UBuJE3QZPbN7iRFN1pMzrQu5vkr%2FA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789143533&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ZwR6SEmwgX2Zw37VQ%2F5XVwRl%2FQgYKAUpgIgXgb0DnwZ%2Bfexwh%2BRD6ijsCZhn2IlRch6TicQ2p78BgK%2FVrQWpegHaDy6WcgD4iW3VLNBLUTrzhFdK1YCn3%2B4gLiLavLWmo7vC1WCxpVTl%2F%2FtgO%2FtI9g%2FOmvCg7ihWmrtTVKyz5KVIQlp5oP0Y8Zf4F8EKxAAqVvfcKKnYjRPtaqcBSau9zEAvb%2FG7D5RcuZLO0LSQqPekr9jW58OazrtDcLZMmz1OnoLOmw9zkOVvQOsxMZlZXIXmRj2MQe3uHPuMYisFxi0UjsSiym32sw1ZkMO3ftkvGS7Nq%2BNMm9dyV7fbMfVDSA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
-#### Comments (5)
+#### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
 - **ワホー2代目** (Sep 03, 2026 05:26am): どっちもできん
 - **ナゲット** (Sep 03, 2026 06:24am): https://mathadventure1.github.io/sm64/sm64/index.htmlマリオ64
 - **ワホー2代目** (Sep 04, 2026 02:45am): 使えるけど遅すぎる 
 - **ぼちぼちいこか愛好家** (Sep 04, 2026 02:49am): ブロック
+- **Anonymous** (Sep 04, 2026 03:20pm): ぼちぼちICOCA〜電車乗り遅れてるのは乙
 
 #### Additional Information
 - **Post color:** White
@@ -1395,7 +1314,23 @@ No post
 
 ---
 
-### 2. YouTube見れるサイト教えてください。
+### 2. Post 2
+**Author:** スズヒカリ
+
+[Attachment 1](https://www.youtube.com/watch?pdlt=1&v=MFwtpM21wWc)
+
+#### Comments (2)
+- **ジュッセンパイヤー** (Sep 04, 2026 03:37am): お前やりますねスギィ！
+- **Anonymous** (Sep 04, 2026 06:01am): Фиолетовые огурцы танцевали вальс на вершине невидимого холодильника, пока квадратные облака пели песни о ржавых велосипедах. Вдруг прилетел деревянный дерижабль, наполненный жидким какао, и прокричал: «Где моя левая пятка, господа кабачки?!» Никто не ответил, потому что все были заняты чтением прошлогодних газет на марсианском языке внутри летающего чайника. Часы пробили тридцать два градуса по Цельсию, и все пластиковые ложки дружно улетели на юг, оставив после себя лишь лёгкий аромат жареных гитарных струн и фиолетовых мыслей.
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 04, 2026 03:23am
+- **Updated At:** Sep 04, 2026 02:06pm
+
+---
+
+### 3. YouTube見れるサイト教えてください。
 **Author:** Nannka　Youtube (s1923051_1)
 
 #### Comments (1)
@@ -1408,15 +1343,16 @@ No post
 
 ---
 
-### 3. Post 3
+### 4. Post 4
 **Author:** シロハナ
 
 [Attachment 1](https://www.google.com/goto?url=CAESYwHrOzAVnYlw3x7WtbBQC3UOD8WLbTUdu014TNrH7STVWOLamMLI8WLXcksfgYWVJFBZONffy3HB7584_mm4AAJb4PYoLWOTIIe23SkcABM89VwZ41AfHzx4WXEQvbV9jVLw4Q)
 
-#### Comments (3)
+#### Comments (4)
 - **Anonymous** (Sep 03, 2026 07:02am): きとう？
 - **Anonymous** (Sep 03, 2026 11:14pm): 君のは鬼頭でもなさそう下ネタだろどうせ
 - **Anonymous** (Sep 04, 2026 01:07am): wruivbv adfhukficininknkninknknkninknknknininininin lolhisafvildavbiuwdvbwiudvbiwudvbiuwdvbaoisudvbakiusdvbsdijvbsdihvbsduialsdvbasdkjvbsdjivasjidl bhiaksc bluasid s
+- **Anonymous** (Sep 04, 2026 03:20pm): 誰か翻訳して!
 
 #### Additional Information
 - **Post color:** White
@@ -1425,10 +1361,10 @@ No post
 
 ---
 
-### 4. 学タブで見れるユーチューブほしいですお願いします
+### 5. 学タブで見れるユーチューブほしいですお願いします
 **Author:** ぼちぼちいこか愛好家 (2101038_5)
 
-#### Comments (12)
+#### Comments (13)
 - **かぼちゃ** (Sep 01, 2026 12:59am): https://script.google.com/a/macros/g.bears.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
 - **ぼちぼちいこか愛好家** (Sep 01, 2026 02:35am): ありがとうございます
 - **えいこ** (Sep 01, 2026 04:14am): かぼちゃさんそれでもブロックされたよ
@@ -1441,6 +1377,7 @@ No post
 - **Anonymous** (Sep 03, 2026 06:04am): みるほうほうをおしえてほしいです
 - **Anonymous** (Sep 03, 2026 11:16pm): 乙
 - **Nannka　Youtube** (Sep 04, 2026 03:08am): 動画見れない、
+- **Anonymous** (Sep 04, 2026 03:21pm): オッツー
 
 #### Additional Information
 - **Post color:** White
@@ -1449,7 +1386,7 @@ No post
 
 ---
 
-### 5. 見れるかも？？
+### 6. 見れるかも？？
 **Author:** 34b6kq
 
 [Attachment 1](https://script.google.com/a/macros/chuo-tky.ed.jp/s/AKfycbyDtINI3yZi1UNO2P3Ody2fzRptm80YOPV_a3Vlqygl-QWyuzjvTvB7TMANSN5GPJOFMw/exec)
@@ -1467,7 +1404,7 @@ No post
 
 ---
 
-### 6. geometrydashで一番難しいレベルの動画
+### 7. geometrydashで一番難しいレベルの動画
 **Author:** ゆうと
 
 [https://www.youtube.com/watch?v=frjtBcNI6dIcanva.com](https://www.youtube.com/watch?v=frjtBcNI6dIcanva.com)
@@ -1481,7 +1418,7 @@ No post
 
 ---
 
-### 7. geometrydashの動画
+### 8. geometrydashの動画
 **Author:** ゆうと
 
 [https://www.youtube.com/watch?v=g3\_XUbK-PP0canva.com](https://www.youtube.com/watch?v=g3_XUbK-PP0canva.com)
@@ -1495,12 +1432,12 @@ No post
 
 ---
 
-### 8. Post 8
+### 9. Post 9
 **Author:** シズカゼ
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=tfMneb7nGbY)
 
-#### Comments (14)
+#### Comments (15)
 - **Anonymous** (Aug 29, 2026 12:39am): 誰かマエスケの動画ちょうだい 
 - **えいこ** (Sep 01, 2026 12:40am): ホンマにマエスケの動画くれ
 - **カゼドリ** (Sep 01, 2026 06:19am): マインクラフト史上一番怖いMODを入れたら..www.youtube.com › watch
@@ -1515,6 +1452,7 @@ No post
 - **Anonymous** (Sep 03, 2026 09:19am): すうをお返しします
 - **Anonymous** (Sep 04, 2026 01:03am): おっぱい
 - **やいやい** (Sep 04, 2026 12:58pm): うんこおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお
+- **Anonymous** (Sep 04, 2026 03:22pm): その「うんこおお………」という極めてプリミティブで内省的な独り言、もしかして最先端の海外の表現手法とでも勘違いされているのですか。21世紀のグローバル社会において、排泄物の単語を大声で叫ぶことが知的洗練や既存のタブーに対する反骨精神だと信じ込んでいるそのアップデートされていない感性こそが、最大の滑稽さですよ。ボーダレスな現代において、ローカルな掲示板でその幼児的な承認欲求をただ垂れ流し続ける姿は、反感を買うというより、もはや哀れな生態系の一コマとして静かに観察したくなるレベルです。もう少し世界基準のユーモアや文脈を学ばれてはいかがですか。
 
 #### Additional Information
 - **Post color:** White
@@ -1630,6 +1568,9 @@ No post
 来てくれ
 
 [Attachment 1](https://padlet.com/73956824278/padlet-6nxx5pymf7axwv1h)
+
+#### Comments (1)
+- **Anonymous** (Sep 04, 2026 03:23pm): 1人でインキャしとけ
 
 #### Additional Information
 - **Post color:** White
