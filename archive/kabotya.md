@@ -1,17 +1,45 @@
-最終取得: 2026/09/04 10:20:42
+最終取得: 2026/09/04 12:45:10
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 89
+- **Posts:** 92
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 04, 2026 01:20am
+- **Updated At:** Sep 04, 2026 03:38am
 
 ## 雑談
 
 ### 1. Post 1
+**Author:** スズヒカリ
+
+[Attachment 1](https://www.youtube.com/watch?pdlt=1&v=MFwtpM21wWc)
+
+#### Comments (1)
+- **ジュッセンパイヤー** (Sep 04, 2026 03:37am): お前やりますねスギィ！
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 04, 2026 03:23am
+- **Updated At:** Sep 04, 2026 03:23am
+
+---
+
+### 2. 規制突破
+**Author:** Nannka　Youtube (s1923051_1)
+
+#### Comments (1)
+- **Nannka　Youtube** (Sep 04, 2026 02:26am): どうやったら部屋作れるんですか？自分も作りたいです
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 04, 2026 02:12am
+- **Updated At:** Sep 04, 2026 02:12am
+
+---
+
+### 3. Post 3
 **Author:** 覚醒のX (21070052_1)
 
 [Attachment 1](https://padlet.com/21070052_1/padlet-l9bx22n6f2mh56z5)
@@ -23,7 +51,7 @@
 
 ---
 
-### 2. ゲーム123
+### 4. ゲーム123
 **Author:** ｓ
 
 #### Comments (1)
@@ -36,7 +64,7 @@
 
 ---
 
-### 3. 大丈夫大丈夫大丈夫大丈夫大丈夫大丈夫↑なんか異変気づいた？
+### 5. 大丈夫大丈夫大丈夫大丈夫大丈夫大丈夫↑なんか異変気づいた？
 **Author:** 匿名
 
 #### Comments (4)
@@ -52,7 +80,7 @@
 
 ---
 
-### 4. 誰かいますか？
+### 6. 誰かいますか？
 **Author:** そーりー (999d3145fe729ae4)
 
 #### Comments (9)
@@ -73,7 +101,7 @@
 
 ---
 
-### 5. 明日学校雨でなくなるかもしれないマジで神
+### 7. 明日学校雨でなくなるかもしれないマジで神
 **Author:** えいこ
 
 #### Comments (8)
@@ -93,33 +121,7 @@
 
 ---
 
-### 6. 音楽聴けるサイトください（学校のダブレット）
-**Author:** Nannka　Youtube (s1923051_1)
-
-#### Comments (14)
-- **Anonymous** (Sep 03, 2026 03:19am): スマホで聞けば？何歳でちゅか？
-- **アシカビ** (Sep 03, 2026 04:02am): 　
-- **Anonymous** (Sep 03, 2026 05:11am): あっぷるみゅーじっく
-- **Anonymous** (Sep 03, 2026 06:02am): 余計なこと言うな「あっぷるみゅーじっく」…ひらがな？ダッセーなカタカナ変換しろぼけ
-- **常時暇人のたけさん** (Sep 03, 2026 12:38pm): ＃（ピンクの）匿名さんへ、ぶっちゃけそれは家庭によるくない？
-- **常時暇人のたけさん** (Sep 03, 2026 08:02am): スマホを持てない家庭だってあるんやで？
-- **Anonymous** (Sep 03, 2026 09:08am): それはいまもじうったらきえるばぐおきてるから
-- **Anonymous** (Sep 03, 2026 09:08am): よみずらいのはごめん
-- **Anonymous** (Sep 03, 2026 09:13am): 「たけさん」ウザいって厳しいって 
-- **Anonymous** (Sep 03, 2026 09:26am): たけさんにだけ教えたるわ　今日なんかこのサイトでいつもと違う“異変”起きとるやろ？長文ニキやこういう俺みたいなやつ…つまり？推理してみな　バカには無理でちゅか？
-- **Anonymous** (Sep 03, 2026 09:42am): つまり今日はやばい人ばっかるってことだ！
-- **常時暇人のたけさん** (Sep 03, 2026 12:39pm): オワコンで草^o^\
-- **Anonymous** (Sep 03, 2026 01:35pm): 「オワコン」には、「終わったコンテンツ」を指すネットスラングと、「水を通すコンクリート」を指す建築資材の商品名の2つの意味があります。1. ネットスラングとしての「オワコン」「終わったコンテンツ」の略語です。一時はブームになり大流行したものの、すでに世間から飽きられ、流行遅れになったものを意味します。 2000年代中盤に2ちゃんねるなどの匿名掲示板で使われ始め、当初はアニメ、漫画、ゲーム、アイドルなどを冷めた視点で指す言葉でした。現在ではビジネス、サービス、国や時代の停滞感を表現する言葉としても広く使われています。 ゼクシィ +3例文：「このアプリも完全にオワコンだね」2. 建築資材としての「オワコン」株式会社 長岡生コンクリートが製造・施工を行っている造粒ポーラス（透水性）コンクリートの商品名です。 従来のコンクリートとは異なり、水が下に通り抜ける構造をしています。そのため、一般住宅のお庭や犬走りに敷くことで、以下のようなメリットがあります。 四季辺 +2水たまりやぬかるみができない雑草が下から生えてこない作業が簡単でDIYでも施工できる（撒いて足で踏み固めるだけで固まるため）通常の土間コンクリートより費用を抑えられる場合がある 
-- **ぷぷ** (Sep 03, 2026 11:42pm): https://sc.opnxng.com/search?q=&type=any好きな曲調べたら聴けるよ
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Sep 03, 2026 02:33am
-- **Updated At:** Sep 03, 2026 02:33am
-
----
-
-### 7. Post 7
+### 8. Post 8
 **Author:** 匿名 (r0245154)
 
 まじではいって
@@ -145,16 +147,20 @@
 
 ---
 
-### 8. よ
+### 9. よ
 **Author:** ヤクシカブト (s1923003_1)
 
-#### Comments (6)
+#### Comments (10)
 - **ヤクシカブト** (Sep 02, 2026 04:53am): こんにちは
 - **Nannka　Youtube** (Sep 02, 2026 04:59am): ヤァ 
 - **Anonymous** (Sep 03, 2026 03:17am): 薬師兜sexしたの嘘だろ　まじマザーファッカーだなそんなこと如きデ…性にタブーなこの国では神扱いか？アメリカとかどうなってるか調べてみ
 - **匿名** (Sep 03, 2026 07:34am): ｃｄくえふぇｆ＠ｈｐｂｃｗぷｆｐれｐｂｐｃくｆぶｆｂｐｃｐｆｂるｂｐ
 - **匿名** (Sep 03, 2026 08:14am): がはははははははははは
 - **Anonymous** (Sep 03, 2026 09:14am): え？おもろいよね　センスあるわ
+- **ヤクシカブト** (Sep 04, 2026 01:42am): セックス
+- **ヤクシカブト** (Sep 04, 2026 01:42am): セックス
+- **ヤクシカブト** (Sep 04, 2026 01:42am): セックス
+- **ヤクシカブト** (Sep 04, 2026 01:42am): セックス
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -166,7 +172,7 @@
 
 ---
 
-### 9. だる
+### 10. だる
 **Author:** Nannka　Youtube (s1923051_1)
 
 #### Comments (6)
@@ -184,7 +190,7 @@
 
 ---
 
-### 10. 今もずっと動いてる部屋教えてください人多いところがいいです
+### 11. 今もずっと動いてる部屋教えてください人多いところがいいです
 **Author:** ちゆ
 
 #### Additional Information
@@ -194,7 +200,7 @@
 
 ---
 
-### 11. チャット（ゆうと、みなと、れお、えいいち、まひろ）
+### 12. チャット（ゆうと、みなと、れお、えいいち、まひろ）
 **Author:** れお
 
 [https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing](https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing)
@@ -211,7 +217,7 @@
 
 ---
 
-### 12. 前の土日、何した？
+### 13. 前の土日、何した？
 **Author:** 港
 
 #### Comments (2)
@@ -225,7 +231,7 @@
 
 ---
 
-### 13. みんなおばあちゃんち行った？
+### 14. みんなおばあちゃんち行った？
 **Author:** みなと
 
 #### Comments (5)
@@ -242,7 +248,7 @@
 
 ---
 
-### 14. 雑談
+### 15. 雑談
 **Author:** TENTENNTENN
 
 
@@ -258,10 +264,10 @@
 
 ---
 
-### 15. 学校ってみんなきらい俺台っきらい
+### 16. 学校ってみんなきらい俺台っきらい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
-#### Comments (7)
+#### Comments (9)
 - **ええいいここえいこ（えいこってよんでね）** (Aug 31, 2026 05:29am): 大の字間違った
 - **ブロスタ** (Aug 31, 2026 05:34am): 先生うざすぎ
 - **ええいいここえいこ（えいこってよんでね）** (Aug 31, 2026 11:27pm): それな
@@ -269,6 +275,8 @@
 - **ヤクシカブト** (Sep 02, 2026 04:52am): セックスした
 - **Nannka　Youtube** (Sep 02, 2026 04:58am): おいやばお前
 - **Anonymous** (Sep 03, 2026 05:04am): 「学校がだるい」「行きたくない」ってわざわざネットに書き込んで、同じレベルの仲間見つけて安心してるの、本当に時間の無駄遣いがお上手ですね。だるい言いながら、わざわざスマホ開いて、文字入力して、他人の愚痴に共感するだけのエネルギーは残ってるんだ？その有り余るバイタリティがあるなら、大人しく学校行くか、いっそ全力でサボって自分の好きなことでもすればいいのに。ここで傷の舐め合いをしたところで、明日も明後日もその「だるい学校」は消えてくれないし、あなたの人生の貴重な1日が無駄に消費されてるだけですよ。……まあ、本当に限界を迎えてガチで病んだら、それこそ「だるい」じゃ済まないくらい心身が死ぬから、そこだけは手遅れになる前に自分でブレーキかけなよ。でも、ただの甘えや現実逃避で言ってるだけなら、いつまでもここでウジウジ日和ってないで、さっさと現実と向き合ったらどうですか？
+- **Nannka　Youtube** (Sep 04, 2026 02:07am): その打つ時間現実向き合え
+- **Anonymous** (Sep 04, 2026 03:38am): 長文を読む集中力がなくて、性的な単語しか反応できないのは、義務教育の敗北を感じて切なくなりますね。わざわざ私の文章に時間を割いて自己紹介してくれてありがとうございます。その時間、現実の自分と向き合った方が有意義ですよ
 
 #### Additional Information
 - **Post color:** White
@@ -277,7 +285,7 @@
 
 ---
 
-### 16. 夏休み楽しかった
+### 17. 夏休み楽しかった
 **Author:** みなと
 
 #### Comments (8)
@@ -297,7 +305,7 @@
 
 ---
 
-### 17. geometrydashの定員募集中（10人）
+### 18. geometrydashの定員募集中（10人）
 **Author:** ゆうと
 
 [https://forms.gle/MB8vdXJbKXKy2nG98](https://forms.gle/MB8vdXJbKXKy2nG98)
@@ -311,7 +319,7 @@
 
 ---
 
-### 18. 後ろ見ろ
+### 19. 後ろ見ろ
 **Author:** 犬
 
 #### Comments (1)
@@ -324,7 +332,7 @@
 
 ---
 
-### 19. ビデオ通話
+### 20. ビデオ通話
 **Author:** シラカバ
 
 学校嫌だ
@@ -345,7 +353,7 @@
 
 ---
 
-### 20. あ
+### 21. あ
 **Author:** シラカバ
 
 あ
@@ -365,7 +373,7 @@
 
 ---
 
-### 21. poki
+### 22. poki
 **Author:** 常闇 トワ（不地口手万ディ） (Fleeex)
 
 [Attachment 1](https://poki.io/)
@@ -377,7 +385,7 @@
 
 ---
 
-### 22. まだうごいてんのここwwwwwww
+### 23. まだうごいてんのここwwwwwww
 **Author:** 💍持ち #kgtとプロたんの囲い😙 (c_coa09)
 
 #### Comments (2)
@@ -391,10 +399,10 @@
 
 ---
 
-### 23. 一旦消しました
+### 24. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
-#### Comments (29)
+#### Comments (30)
 - **フブキコ** (Aug 26, 2026 04:51am): けすなよお
 - **ワカナ** (Aug 26, 2026 05:03am): けさないで
 - **ワカナ** (Aug 26, 2026 05:28am): もう！！
@@ -424,6 +432,7 @@
 - **おなべさん(新垢** (Sep 03, 2026 04:27am): 重くすらなってない
 - **Anonymous** (Sep 03, 2026 04:58am): 文字化けレベルの書き込みと、それに群がるチンパンジーの鳴き声。どっちも低レベルすぎて、ここだけネットの底が抜けてるのかと思った。お互い自分の姿を鏡で見てから書き込んだ方がいいよ、本気で滑稽だから。
 - **Anonymous** (Sep 03, 2026 06:47am): おなべさんここにもいたんか！ホシウタやで
+- **Nannka　Youtube** (Sep 04, 2026 02:28am): 時間の無駄
 
 #### Reactions
 - **Emojis:** 😭 (8) 👍 (6) 🥲 (1) 😆 (1)
@@ -545,7 +554,7 @@
 
 [Attachment 1](https://planet.mblock.cc/project/7857149)
 
-#### Comments (7)
+#### Comments (8)
 - **えいこ** (Sep 01, 2026 04:20am): いいねも押してね
 - **えいこ** (Sep 01, 2026 11:25pm): コメント書いて
 - **えいこ** (Sep 01, 2026 11:25pm): たのしいよ
@@ -553,6 +562,7 @@
 - **えいこ** (Sep 03, 2026 12:35am): スペースキーでジャンプ六ケットはスペースキー押したら上に上がれて話したら下に上がれるよ
 - **おおぬき** (Sep 03, 2026 05:20am): dekinai
 - **Anonymous** (Sep 03, 2026 06:48am): ローマ字打ちださ！時代遅れかよ
+- **Nannka　Youtube** (Sep 04, 2026 02:29am): 悪口やめろよ
 
 #### Additional Information
 - **Post color:** White
@@ -984,7 +994,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 23. エロサイトくれ
 **Author:** スギノネ
 
-#### Comments (16)
+#### Comments (17)
 - **フミダシ** (Aug 27, 2026 11:06am): きっも
 - **でにでにろつとまん** (Aug 27, 2026 11:45pm): 俺も欲しい
 - **匿名** (Aug 28, 2026 04:08am): 保健室ってサイトがエロサイト
@@ -1001,6 +1011,7 @@ fernって名前のやつ　履歴消したらきえt
 - **Anonymous** (Sep 03, 2026 09:18am): マジそれな
 - **Anonymous** (Sep 03, 2026 02:18pm): いまじい
 - **Anonymous** (Sep 03, 2026 02:18pm): してる
+- **Nannka　Youtube** (Sep 04, 2026 02:30am): きも
 
 #### Additional Information
 - **Post color:** White
@@ -1080,7 +1091,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 3. 巨乳派か貧乳派
 **Author:** ハナノアサ
 
-#### Comments (17)
+#### Comments (19)
 - **長井典子（４９）** (Sep 01, 2026 02:02am): あ
 - **常時暇人のたけさん** (Sep 01, 2026 03:27am): 巨だろ
 - **ナギサノ** (Sep 01, 2026 03:37am): わかる
@@ -1098,6 +1109,8 @@ fernって名前のやつ　履歴消したらきえt
 - **あｓ** (Sep 03, 2026 08:01am): 巨
 - **常時暇人のたけさん** (Sep 03, 2026 08:03am): ２０ｗパドレットで部屋でも作れば？ｗｗ
 - **Anonymous** (Sep 03, 2026 01:45pm): また　たけさん…うざったいな
+- **Nannka　Youtube** (Sep 04, 2026 02:30am): たけさん
+- **Nannka　Youtube** (Sep 04, 2026 02:30am): すごい
 
 #### Additional Information
 - **Post color:** White
@@ -1171,12 +1184,14 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789089709&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Mn8G9lpH0lLe6n%2Bsgl6iOdzUfk6BKip2%2FN6MuddPwuJgZtXz1FKBxX0dgZfO8PtWF%2F42Vh%2FSmYwI2BZvAOlxMbktIyhHtPqhjmFO%2BBNknJyZWaFi1Ayc%2Fks76%2BY3k5P76%2BEPsx1D5%2Fp44nHe5f%2F8xZdB7ZcxNOKX%2B3m2BzFQmy9rh8EDbON5R%2BHmVI%2BnEZNLGz%2B0pEEpwts0HIQwQLsg0%2FjKBXoiQmLIDt9ig%2Bn7%2BdNtdOfjIHWE%2F1IW9%2B4B%2F1iyHJzSb1kPDw2Qv1mOSrQq6g40aLqahe3JxbeSA%2BpJ2ot4CEPs7noX4BoIcEs4FZlzk8YFamYLVK%2Fvp%2FwLqs5Yig%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789098386&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bE2GybkiiaWuwoM7Vg9Xc6%2BfeGQQn0f28S%2FY4XOMlwtYT8DWok1xHemS3T%2BeFez9Q7DCb1R%2F2hIUwT1HsgF89K2JRKiYSj5D6A8MjldFYXL1YEoP%2FlPPnESH8HAkCAdts5%2FtV%2ByYB1NtUgoEZUNtxbqzCSSauScMHv87E2DJs1XZQMbr2OOL7vq21NxD558USjrbLRkchpeFVkTF9rSkmFDM4nSdSSzr7q90uaxmfuM%2Fg%2BtEPXjOEo3SG5oAvq2o71BEbRlokwrJFjoE%2BpWYTQm%2BAwuerzuDowHmI8htCpOqIbiOeh132vvGjp0IYRoL7LL8dLG2aTbys2DdgiwE1w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
-#### Comments (3)
+#### Comments (5)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
 - **ワホー2代目** (Sep 03, 2026 05:26am): どっちもできん
 - **ナゲット** (Sep 03, 2026 06:24am): https://mathadventure1.github.io/sm64/sm64/index.htmlマリオ64
+- **ワホー2代目** (Sep 04, 2026 02:45am): 使えるけど遅すぎる 
+- **ぼちぼちいこか愛好家** (Sep 04, 2026 02:49am): ブロック
 
 #### Additional Information
 - **Post color:** White
@@ -1190,7 +1205,7 @@ ID:shibboleth
 
 [Attachment 1](https://u.topia.2a.exe.googleapis.com.hospitaldelninodif.gob.mx/)
 
-#### Comments (12)
+#### Comments (13)
 - **おとちん** (Aug 28, 2026 10:04am): サイトのURLコピーして貼ったら見れる
 - **ぼちぼちいこか愛好家** (Sep 01, 2026 12:48am): マジで？
 - **カナタビ** (Sep 01, 2026 12:55am): proxy?
@@ -1203,6 +1218,7 @@ ID:shibboleth
 - **トオカゼ** (Sep 03, 2026 10:03am): 虚言ｗ
 - **ホシヨミ** (Sep 03, 2026 12:50pm): 消されたんやけど
 - **Anonymous** (Sep 03, 2026 01:47pm): トオカゼ…虚言とか決めつけるのはただのクソインキャだぞまあ自覚してるか…言う必要はなかったな
+- **ぼちぼちいこか愛好家** (Sep 04, 2026 02:51am): 自覚してない馬鹿もいるからなｗｗｗ
 
 #### Reactions
 - **Emojis:** ❤️ (2) 👍 (1) 😄 (1)
@@ -1277,7 +1293,20 @@ No post
 
 ## youtube
 
-### 1. Post 1
+### 1. YouTube見れるサイト教えてください。
+**Author:** Nannka　Youtube (s1923051_1)
+
+#### Comments (1)
+- **Nannka　Youtube** (Sep 04, 2026 03:07am): お願いします🙏、、、
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 04, 2026 03:07am
+- **Updated At:** Sep 04, 2026 03:07am
+
+---
+
+### 2. Post 2
 **Author:** シロハナ
 
 [Attachment 1](https://www.google.com/goto?url=CAESYwHrOzAVnYlw3x7WtbBQC3UOD8WLbTUdu014TNrH7STVWOLamMLI8WLXcksfgYWVJFBZONffy3HB7584_mm4AAJb4PYoLWOTIIe23SkcABM89VwZ41AfHzx4WXEQvbV9jVLw4Q)
@@ -1294,10 +1323,10 @@ No post
 
 ---
 
-### 2. 学タブで見れるユーチューブほしいですお願いします
+### 3. 学タブで見れるユーチューブほしいですお願いします
 **Author:** ぼちぼちいこか愛好家 (2101038_5)
 
-#### Comments (11)
+#### Comments (12)
 - **かぼちゃ** (Sep 01, 2026 12:59am): https://script.google.com/a/macros/g.bears.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/exec
 - **ぼちぼちいこか愛好家** (Sep 01, 2026 02:35am): ありがとうございます
 - **えいこ** (Sep 01, 2026 04:14am): かぼちゃさんそれでもブロックされたよ
@@ -1309,6 +1338,7 @@ No post
 - **Anonymous** (Sep 03, 2026 06:04am): ちょっとみれなくないですか
 - **Anonymous** (Sep 03, 2026 06:04am): みるほうほうをおしえてほしいです
 - **Anonymous** (Sep 03, 2026 11:16pm): 乙
+- **Nannka　Youtube** (Sep 04, 2026 03:08am): 動画見れない、
 
 #### Additional Information
 - **Post color:** White
@@ -1317,13 +1347,15 @@ No post
 
 ---
 
-### 3. 見れるかも？？
+### 4. 見れるかも？？
 **Author:** 34b6kq
 
 [Attachment 1](https://script.google.com/a/macros/chuo-tky.ed.jp/s/AKfycbyDtINI3yZi1UNO2P3Ody2fzRptm80YOPV_a3Vlqygl-QWyuzjvTvB7TMANSN5GPJOFMw/exec)
 
-#### Comments (1)
+#### Comments (3)
 - **えいこ** (Sep 01, 2026 04:17am): 見れなかった
+- **アシカビ** (Sep 04, 2026 02:28am): 死ね見れねいじゃねーか
+- **B** (Sep 04, 2026 02:56am): アシカビ　落ち着けガキw
 
 #### Additional Information
 - **Post color:** White
@@ -1332,7 +1364,7 @@ No post
 
 ---
 
-### 4. geometrydashで一番難しいレベルの動画
+### 5. geometrydashで一番難しいレベルの動画
 **Author:** ゆうと
 
 [https://www.youtube.com/watch?v=frjtBcNI6dIcanva.com](https://www.youtube.com/watch?v=frjtBcNI6dIcanva.com)
@@ -1346,7 +1378,7 @@ No post
 
 ---
 
-### 5. geometrydashの動画
+### 6. geometrydashの動画
 **Author:** ゆうと
 
 [https://www.youtube.com/watch?v=g3\_XUbK-PP0canva.com](https://www.youtube.com/watch?v=g3_XUbK-PP0canva.com)
@@ -1360,7 +1392,7 @@ No post
 
 ---
 
-### 6. Post 6
+### 7. Post 7
 **Author:** シズカゼ
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=tfMneb7nGbY)
@@ -1439,7 +1471,22 @@ No post
 
 ## 宣伝
 
-### 1. みんな来てー
+### 1. Post 1
+**Author:** 覚醒のX (21070052_1)
+
+[Attachment 1](https://padlet.com/21070052_1/padlet-s02391231k9ovta9c99h)
+
+#### Comments (1)
+- **覚醒のX** (Sep 04, 2026 03:19am): 来てね
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 04, 2026 03:19am
+- **Updated At:** Sep 04, 2026 03:19am
+
+---
+
+### 2. みんな来てー
 **Author:** ぼちぼちいこか愛好家 (2101038_5)
 
 来てくれ
@@ -1453,7 +1500,7 @@ No post
 
 ---
 
-### 2. こい
+### 3. こい
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://padlet.com/team_otomodachi/proxy-mu2o69gm2ch9o6zx)
@@ -1465,7 +1512,7 @@ No post
 
 ---
 
-### 3. 絶対に来たほうがいいよ。きたら自己紹介よろしく！！
+### 4. 絶対に来たほうがいいよ。きたら自己紹介よろしく！！
 **Author:** mbappe♯初代つつきの森会員♯狂鳥族２代目 (akiramenaidedonnatokimo)
 
 [Attachment 1](https://padlet.com/akiramenaidedonnatokimo/padlet-kerg40vcf1nvu3eh?lang=ja)
@@ -1483,7 +1530,7 @@ No post
 
 ---
 
-### 4. 復旧お願いします！
+### 5. 復旧お願いします！
 **Author:** 常時暇人のたけさん (JPsan)
 
 [Attachment 1](https://padlet.com/JPsan/padlet-11oe0dlx9vsegwya?lang=ja)
@@ -1495,7 +1542,7 @@ No post
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** ミソラノ
 
 [Attachment 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
@@ -1507,7 +1554,7 @@ No post
 
 ---
 
-### 6. みんなきてね
+### 7. みんなきてね
 **Author:** 仙人@suger (sennin_sugar)
 
 https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQozfVOY7UPTBkpqfD\_-fwTwn\_kxxLOg/exec
@@ -1519,7 +1566,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 7. Post 7
+### 8. Post 8
 **Author:** 犬
 
 [Attachment 1](https://padlet.com/00221133/padlet-9otqidpsq2a33sru)
@@ -1535,7 +1582,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 8. Post 8
+### 9. Post 9
 **Author:** 1001さん (Haraitai)
 
 ここオンラインゲームがあるよ！
@@ -1549,7 +1596,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 9. 江口 ー さんずい
+### 10. 江口 ー さんずい
 **Author:** 34b6kq
 
 イイ漫画がきっと見つかる
@@ -1566,7 +1613,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 10. セックスしたいやつなんか書いて
+### 11. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
 #### Comments (13)
@@ -1594,7 +1641,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 11. ゲーム出せセックス
+### 12. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
 #### Comments (8)

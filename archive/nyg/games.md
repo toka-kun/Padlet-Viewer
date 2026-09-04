@@ -1,4 +1,4 @@
-最終取得: 2026/09/04 10:20:42
+最終取得: 2026/09/04 12:45:10
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Nanachiki/padlet-4b9092979b4e6dlm
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
-- **Posts:** 86
+- **Posts:** 87
 - **Created At:** Aug 27, 2024 11:14am
-- **Updated At:** Sep 03, 2026 11:35pm
+- **Updated At:** Sep 04, 2026 01:51am
 
 ## 概要
 
@@ -1092,7 +1092,19 @@
 
 ---
 
-### 2. ブロスタらしい
+### 2. おもろいゲーム
+**Author:** かきくけこ☯ (eiugiachirom20)
+
+[Attachment 1](https://script.google.com/a/macros/g.musashino-city.ed.jp/s/AKfycbxlGaqSq19RpVAsMsy2chjiHTedCK0xIPnxiWWqoOaYorQYTJsa6aUty9KKgyWov4xr/exec)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Jul 14, 2026 05:01am
+- **Updated At:** Sep 04, 2026 01:51am
+
+---
+
+### 3. ブロスタらしい
 **Author:** ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛ (neon_ix)
 
 遊んでないから知らない、普通に入ろうとしたらブロです
@@ -1112,12 +1124,12 @@
 
 ---
 
-### 3. Post 3
+### 4. Post 4
 **Author:** RX034 (h3005990)
 
 テトリス自作したんで
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1789089668&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=R%2FjbOx8iNpr4TnaLKqBAhry7mXZk6Tp2KVCgR2wAhrQTY1%2FgJ5QyUlfWqpWXyeRMt1DHxVCAapqnZy2GOXI619zEF3C4r%2Bb%2FlBWVZfmcOoRPBXBFOvzvI149nAHoxsCuvFQcWqGIC1Wozwqgg2J34ByztrurLfqRFT1oW81j2X06XPtknYGRGokksPlbjF%2BSEdtS4urMdxUIfxF%2BbQgu1DcDrQrBsx%2BsLshsegSLhQ2QSWcu4IKhV0KoFyqnbRdV3WvJ5rQqSoZtWYdtjLuiOVcPZQNlhDRVk6hMCNr%2F96jWtux9qIU%2FpLUIPYqYqa%2FnyW5UvE8n9PZzIU8zuYcmxw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1789098346&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=iNCQJ%2FjvWw5kwuif5I%2FeK8pvNUkGZB%2Bn%2FsW1aAVO4B0Kyr%2F%2FoEW6X0u1Z6GhWH3VHCiX2SpDW1bqJ2bOz8dEjpnfU3u5vKsFqD%2FmNjCZ0Mi2B9P8rdulJ99s3qijbLWmnv1IFYBcnqnPD1q1vfuxh1ylQe8AzV3szAIwmIBKuFVisFdYvNUQ1CCw6h2XFomC%2Bv%2FNirkyBPI1oTg7UnUlGD7Sqp7BFNMDHg7heHsuLLD2%2BicdHqYuTRop4k666ptAG%2BVTnrueEhXhxJCG6plbOhAxxPjqho3iM3d5aWz82T%2BXwEZcX2kMtr814WiCWPPzNwdFDcDXvbG%2BmbN3C4IlfA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
 
 #### Comments (6)
 - **RX034** (Dec 02, 2025 08:28am): 良ければどうぞ！
@@ -1134,12 +1146,12 @@
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** REMON
 
 テトリスだよ
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1789089668&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kgiaMa4Ho9wQenN70KYePjTgbyJ8gHiiOwT5rdg7Ab6nJEzBXY6WUOO43Lu9yLYldMeooXz6GSmfow%2F1%2BCa%2BLu72600O32t%2B1WmfaKPctR75C7k%2BLLEgd40K53JTkTV7IrYMJCtpYmYP0vzwKQvZsJfjd%2BrWxa%2F0E3GiAJGk5Yr%2FNlRobGXTg9GGQnUs5123qFmosvlmthn2M1HywzCfwtjBPNrCZkcgryMbXV%2BtlwVJHSdwZW3VKKjgAUwDShwFr%2BBYdeG4IUzIU2%2B%2BkDapEpi0FrV4p70cGg3tSCXG0YR1JLsZmTtDLM8f94zzXKRrhLd0cKBHQxUspdk3LFKXBw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1789098346&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=651Wkw2FsQw7ZdqAEOarQskGqSjxXAqc9AS%2FVW2dZA5zdxn9fD4xIe6ML7JKgYgqQmeSSVhC0A9p21H6xaFpjSIxNB9sxxlEZsLHFncRzYtCD6rwzviddeqBdL5EkMAhTIEmrznM7Jt9XFh1yyHcQMrTUgT73HkBAWCoKW3Q2WY4kYjuHxILdqwYW8Xuvbg9yymbidAkKqQ1DjqfsTtvA2wiInSzUVjh4F04cWtdSZBkMp448EnXQw0cLChwpN7WX4EM%2FugOkhPW83gghsTQygjOpIQ7X%2B0Izf%2FVUy5UGzx53ncVE1ZFSVXAm3DtOhXlOIm%2BpprbFfS72sn%2B95FwFQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
 
 #### Comments (1)
 - **はるとねこ** (Nov 10, 2025 01:54am): なんか表示できねえ
@@ -1151,12 +1163,12 @@
 
 ---
 
-### 5. 趣味でAIとかやってるものですが...
+### 6. 趣味でAIとかやってるものですが...
 **Author:** REMON
 
 オセロゲーム作りましたレビューください
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1789089668&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2uicehyjUMRC3gvF%2BRXgfDwCTnjT45gFK5YJiHIOkm0x5WypkCJ97Oz%2BZU7b%2FnrBXSSOQ%2Fg%2FTPY%2BT4TEWvmxTBHqcI2ASWapkjCBE%2FPIX0ZZWkuP%2Fduysl0gPO%2FSB4rmv7XWSvsiosn2HMJIbZ14%2BiL3mqZIaFpJqbGzaZTOYplj4te1XR6UvSbLjItORrzda%2F2aJwH%2BQ92BB42AOIedYjMRDpzP%2BYJ%2BC5%2FmRmEgBULu65Otcl2oQJv6uXRGBZG58vtS2NbNM3KUE39OYN0E2aE32wwYBXH%2FSLG12g2r64mJN4TaFUTa3bk7vxh9OFZW%2BDiSKq0vaQwfnc5ydDk1uw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1789098346&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DSYf9zkhxJgUI%2Bxv0Koa%2FAdd%2FfzpQj0A83O5ETo8PVXJ4%2BgpdUZvKBJeeS3pZuwGoP52f57fUr0B0PwUUhkrS0QYFZZVrKn0h8i2dFp410ffw8g3BdXl6GV0g8DmmEipy2YSIuyX%2FxmKNHTb0Rj5dhO8hfY1HAmlhXfOHNAHW3r2JCcCzLMMlhLlsjh7Lhq9%2Bo1Mf%2FXCxDlRI77kbd0SfRHTJiPKFgTupIuMZAHeD3ZP%2BqzoLa7YUK16h1STuWAwgciG%2FS2V3TkO%2FcJbtb%2B5BqFuFTHVL4MZ4ChpnftpQzjeePpZCf1iEPGSh%2BcuV11xbFM8JFZQiY6lg9Qmbd6FoA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
 
 #### Comments (3)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 08, 2025 04:36am): 思ったよりAIが強くて負けそう:(
@@ -1170,7 +1182,7 @@
 
 ---
 
-### 6. 謎解きRPG
+### 7. 謎解きRPG
 **Author:** Anonymous Hummingbird
 
 ちょー暇つぶし
@@ -1188,7 +1200,7 @@
 
 ---
 
-### 7. サバイバルゲームです
+### 8. サバイバルゲームです
 **Author:** ito (gs202952)
 
 [Attachment 1](https://edeal-soft.com/rpg-minute-quest/)
@@ -1203,12 +1215,12 @@
 
 ---
 
-### 8. UNDERTALE yellow
+### 9. UNDERTALE yellow
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 英語のみ対応です
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1789089668&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=IdJqQaltK5BNvPbltBjr11utkEhHfxXHKwDRC0c26kAFscH1%2BlA2Syj7wwtZ%2BjgIbfFRTkizB8U%2FDRGEheuZ%2FygSg8iicR1MY%2F00qNHGqoqRlrXvZRYpC4d%2B2laIqsUDFHApl96TeQ8%2FY38YcKHypJHO67hVejYWv0MCPbytX1v805muJFnccX6V8njHdZq7PeuJO40peAIZPmR8%2FyHytXyQ6P%2BGqJsYeqpcR62URH7fP3eDPtAYpOQNFPUbB1GiGQLo2s5VAj7I529BqEAo%2Fsi2NWlDcUp5OvStWKYOr8jleuzXUZVBJUScVXF7v31%2BFDB%2F%2FfUqDw0VuiOTELfF7w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1789098346&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1nz0gfXWHRvOvTalI2RPJUDIYYsbBROW8b9TGJJOLznQmFAptAkNqqttxfTJofiIF1Bp2jOotqgEdbDgThk02SpehrJeMnJTtQSAns6Lwa%2BD3Z22s1YsBBCIUP8XRbPxJrJcEHCkHSn0I7N02RofxtoCJKwWiVZdwc5QCjIHZF1jrLf0OuRGllaRu1Rd9gYTLWl7KLmCUFuP6%2B1TNhsvWk9TKJBmM2TVkSXC5f5AgS%2FC3Yy1U39ZLaqMW2%2BfQt0WYCgYG5TXbAHrZhBA0NPpxzpTrBepHtAUAf1zWzyeg8J4SQyfRkCH5EL5nxiU1oT%2B8bu6kKB5EXairWFMxmyohQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
 
 #### Comments (3)
 - **カービィ** (Feb 28, 2026 02:14am): どうやって進むの？
@@ -1222,7 +1234,7 @@
 
 ---
 
-### 9. ポケモン（のパクリ）
+### 10. ポケモン（のパクリ）
 **Author:** All Japan Unblocking Association　(全日本ブロック解除協会) (nippii)
 
 [Attachment 1](https://archive.org/details/trainercreator)
@@ -1237,7 +1249,7 @@
 
 ---
 
-### 10. まるがめクエスト
+### 11. まるがめクエスト
 **Author:** はるとねこ (r0300131)
 
 [Attachment 1](https://www.love-marugame.jp/game/)
@@ -1249,7 +1261,7 @@
 
 ---
 
-### 11. 3Dブロック崩し
+### 12. 3Dブロック崩し
 **Author:** All Japan Unblocking Association　(全日本ブロック解除協会) (nippii)
 
 [Attachment 1](https://g-pc.jp/blo/3d/)
@@ -1264,7 +1276,7 @@
 
 ---
 
-### 12. ゲームといって良いのかわからんやつ
+### 13. ゲームといって良いのかわからんやつ
 **Author:** All Japan Unblocking Association　(全日本ブロック解除協会) (nippii)
 
 [Attachment 1](https://codecombat.com/play/)
@@ -1279,7 +1291,7 @@
 
 ---
 
-### 13. ホラゲをあげよう、、、
+### 14. ホラゲをあげよう、、、
 **Author:** All Japan Unblocking Association　(全日本ブロック解除協会) (nippii)
 
 - [https://www.cocobongo.tv/fallen\_angel\_10](https://www.cocobongo.tv/fallen_angel_10)
@@ -1297,7 +1309,7 @@
 
 ---
 
-### 14. テトリス風ゲーム
+### 15. テトリス風ゲーム
 **Author:** All Japan Unblocking Association　(全日本ブロック解除協会) (nippii)
 
 [Attachment 1](https://www.sun-inet.or.jp/usr/ko-kun/public_html/tetris.html)
@@ -1312,7 +1324,7 @@
 
 ---
 
-### 15. しょぼん
+### 16. しょぼん
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 (´・ω・｀)
@@ -1329,7 +1341,7 @@
 
 ---
 
-### 16. 暇つぶしゲーム🐒
+### 17. 暇つぶしゲーム🐒
 **Author:** Unusual Caribou
 
 まあまあ楽しい👌
@@ -1347,7 +1359,7 @@
 
 ---
 
-### 17. 弾幕シューティングゲームです。
+### 18. 弾幕シューティングゲームです。
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 東方みたいなやつです。
@@ -1376,7 +1388,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 18. だれかこのサイトのhtmlをおしえてくれませんか？
+### 19. だれかこのサイトのhtmlをおしえてくれませんか？
 **Author:** 笹本つむぎ　𝕤𝕒𝕤𝕒𝕞𝕠𝕥𝕠 𝕥𝕤𝕦𝕞𝕦𝕘𝕚　#元ナンジャモ (tsumugi_chan)
 
 お願いします。でき次第、html.cafeでつくろうと思ってます
@@ -1397,7 +1409,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 19. Post 19
+### 20. Post 20
 **Author:** 眞田悠希 (j250509g)
 
 [Attachment 1](https://mergecraft.gcdn.co/publish/html5/)
@@ -1415,7 +1427,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 20. いろいろ！
+### 21. いろいろ！
 **Author:** Kirby (s190489_4)
 
 - [https://www.jezng.com/open-syobon-action.js/](https://www.jezng.com/open-syobon-action.js/)
@@ -1433,7 +1445,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 21. 暇だったから作ったよ
+### 22. 暇だったから作ったよ
 **Author:** 仙人@suger (sennin_sugar)
 
 試験運用版仙人おせろ、オンライン対戦しかできないよ。
@@ -1449,7 +1461,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 22. 馬鹿げたトロッコ問題
+### 23. 馬鹿げたトロッコ問題
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [Attachment 1](https://neal.fun/absurd-trolley-problems/)
@@ -1461,7 +1473,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 23. これは傑作である
+### 24. これは傑作である
 **Author:** 伝説の男　目高功塁 (s181191_5)
 
 [Attachment 1](https://uchuzine.sakura.ne.jp/pico8/sp/#playing)
@@ -1480,7 +1492,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 24. 発狂するゲーム
+### 25. 発狂するゲーム
 **Author:** Shy Ostrich
 
 絶対叫ぶ😱
@@ -1498,7 +1510,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 25. ガチギレゲーム
+### 26. ガチギレゲーム
 **Author:** エル・プリモ
 
 [Attachment 1](https://hitoikigame.com/blog-entry-10834.html)
@@ -1513,7 +1525,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 26. Post 26
+### 27. Post 27
 **Author:** ユウトー
 
 [Attachment 1](https://katano-kanko.com/game_htmlb/)
@@ -1530,7 +1542,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 27. 立花孝志RPG
+### 28. 立花孝志RPG
 **Author:** Charismatic Shrimp
 
 サイコーにおもろい！
@@ -1549,7 +1561,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 28. Post 28
+### 29. Post 29
 **Author:** Playful Ferret
 
 [Attachment 1](https://typingerz.com/colosseum)
@@ -1565,7 +1577,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 29. 数字を食べてでかくなるゲーム
+### 30. 数字を食べてでかくなるゲーム
 **Author:** 伝説の男　目高功塁 (s181191_5)
 
 [Attachment 1](https://www.dailytoolz.com/cubes-2048/iframe.html)
@@ -1583,7 +1595,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 30. 一本の線を描いて男を助けるゲーム
+### 31. 一本の線を描いて男を助けるゲーム
 **Author:** 伝説の男　目高功塁 (s181191_5)
 
 [Attachment 1](https://games.greatergood.com/games/one-line)
@@ -1610,7 +1622,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 31. パソコンで弾けるピアノサイト
+### 32. パソコンで弾けるピアノサイト
 **Author:** ホワドラガール
 
 たまに人が引いてる時があります
@@ -1628,7 +1640,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 32. 1万4000枚のところに紙を挟む謎のゲーム
+### 33. 1万4000枚のところに紙を挟む謎のゲーム
 **Author:** ホワドラガール
 
 [Attachment 1](https://nishio.co.jp/games/aisispaaan2/)
@@ -1654,7 +1666,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 33. 白にするパズルゲーム
+### 34. 白にするパズルゲーム
 **Author:** ホワドラガール
 
 [Attachment 1](https://www.daiichi-g.co.jp/osusume/forfun/05_white/05.html)
@@ -1669,7 +1681,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 34. スライムをジャンプさせて上にどんどん進むゲーム
+### 35. スライムをジャンプさせて上にどんどん進むゲーム
 **Author:** 15歳
 
 [Attachment 1](https://sp.ten-sura.com/jump/game/index.html)
@@ -1684,7 +1696,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 35. 敵を倒し肉を集めて味方を増やすゲーム
+### 36. 敵を倒し肉を集めて味方を増やすゲーム
 **Author:** 15歳
 
 [Attachment 1](https://www.topheroes.com/en/landing.html?page_id=26&media=Google&campaign_id=22290980105&adgroup_id=6558112384&creative_id=&inventory=x&sub_inventory=&callback=Cj0KCQjwiLLABhCEARIsAJYS6unc6T5XhHBihX6ybDCuL2lz0nbvtLHpWtPDu5Wp2aEi0BeuwTa3pcEaAkbPEALw_wcB&device_type=c&device_model=&ad_sub1=&ad_sub2=&gad_source=2&gclid=Cj0KCQjwiLLABhCEARIsAJYS6unc6T5XhHBihX6ybDCuL2lz0nbvtLHpWtPDu5Wp2aEi0BeuwTa3pcEaAkbPEALw_wcB)
@@ -1696,7 +1708,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 36. Post 36
+### 37. Post 37
 **Author:** 匿名 (a5r1t8t)
 
 [Attachment 1](https://www.supremacy1914.com/)
@@ -1708,7 +1720,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 37. Post 37
+### 38. Post 38
 **Author:** ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛ (neon_ix)
 
 [Attachment 1](https://wondermerge.gcdn.co/publish/html5/)
@@ -1730,7 +1742,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 38. Rider.io
+### 39. Rider.io
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [Attachment 1](https://html5.gamedistribution.com/571357d055374f078e471057d4fcdbea/)
