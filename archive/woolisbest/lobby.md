@@ -1,4 +1,4 @@
-最終取得: 2026/09/02 06:18:48
+最終取得: 2026/09/04 22:18:28
 
 # 受付と匿名用
 
@@ -42,12 +42,12 @@
 - **マリア・マーメイド#初代マリ好き族** (May 28, 2026 10:49pm): https://padlet.com/s20092311/padlet-ha8r73wuha803jh3
 - **Suicune** (Jun 07, 2026 11:22am): irete
 - **Ejobs** (Jun 11, 2026 10:48pm): ejobs2akaunt@hotmail.com
-- **青葉 #BC* @修学旅行** (Jun 12, 2026 11:55am): sadden-dimly-slip@duck.com
+- **青葉 #BC*** (Jun 12, 2026 11:55am): sadden-dimly-slip@duck.com
 - **aaabbbccc** (Jun 15, 2026 04:29am): gs193637@nerima-edu.jp
-- **青葉 #BC* @修学旅行** (Jun 21, 2026 04:15am): 遅れてごめん！ライターにしたよ！
+- **青葉 #BC*** (Jun 21, 2026 04:15am): 遅れてごめん！ライターにしたよ！
 - **シーサー** (Jul 09, 2026 01:24pm): 入れてください
 - **シーサー** (Jul 09, 2026 01:24pm): h3119047@hirakata-ky.ed.jp
-- **青葉 #BC* @修学旅行** (Jul 13, 2026 10:24pm): おｋ
+- **青葉 #BC*** (Jul 13, 2026 10:24pm): おｋ
 
 #### Additional Information
 - **Post color:** Purple
@@ -70,7 +70,7 @@
 - **煮物　#oddoのスポンサー！** (May 23, 2026 06:59am): 煮物部屋new受付！
 - **Suicune** (Jun 07, 2026 10:40am): いれて
 - **鈴梨　#食べ物帝国所属** (Aug 01, 2026 08:13am): おなしゃす
-- **青葉 #BC* @修学旅行** (Aug 04, 2026 01:56am): おーけい
+- **青葉 #BC*** (Aug 04, 2026 01:56am): おーけい
 
 #### Additional Information
 - **Post color:** White
