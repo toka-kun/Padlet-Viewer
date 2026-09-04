@@ -1,13 +1,13 @@
-最終取得: 2026/09/04 12:45:10
+最終取得: 2026/09/04 14:08:33
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 92
+- **Posts:** 95
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 04, 2026 03:38am
+- **Updated At:** Sep 04, 2026 04:48am
 
 ## 雑談
 
@@ -554,7 +554,7 @@
 
 [Attachment 1](https://planet.mblock.cc/project/7857149)
 
-#### Comments (8)
+#### Comments (9)
 - **えいこ** (Sep 01, 2026 04:20am): いいねも押してね
 - **えいこ** (Sep 01, 2026 11:25pm): コメント書いて
 - **えいこ** (Sep 01, 2026 11:25pm): たのしいよ
@@ -563,6 +563,7 @@
 - **おおぬき** (Sep 03, 2026 05:20am): dekinai
 - **Anonymous** (Sep 03, 2026 06:48am): ローマ字打ちださ！時代遅れかよ
 - **Nannka　Youtube** (Sep 04, 2026 02:29am): 悪口やめろよ
+- **Anonymous** (Sep 04, 2026 04:13am): 悪口してる人に悪口やめろよ
 
 #### Additional Information
 - **Post color:** White
@@ -994,7 +995,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 23. エロサイトくれ
 **Author:** スギノネ
 
-#### Comments (17)
+#### Comments (18)
 - **フミダシ** (Aug 27, 2026 11:06am): きっも
 - **でにでにろつとまん** (Aug 27, 2026 11:45pm): 俺も欲しい
 - **匿名** (Aug 28, 2026 04:08am): 保健室ってサイトがエロサイト
@@ -1012,6 +1013,7 @@ fernって名前のやつ　履歴消したらきえt
 - **Anonymous** (Sep 03, 2026 02:18pm): いまじい
 - **Anonymous** (Sep 03, 2026 02:18pm): してる
 - **Nannka　Youtube** (Sep 04, 2026 02:30am): きも
+- **Anonymous** (Sep 04, 2026 04:16am): 「s⚪︎xしました」って、わざわざここに書き込んでる時点で必死すぎてクソ面白いですね。 世界的な基準から見れば、そんな大したことない日常の一コマでしかイキれないの、日本の閉鎖的な性タブーの悪い影響を煮詰めたような存在で哀れにすら思えます。 タイピングする時間があるなら、そのスカスカな脳みそで少しは本でも読んで、長い文章に慣れる「現実」と向き合ったらどうですか？
 
 #### Additional Information
 - **Post color:** White
@@ -1091,7 +1093,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 3. 巨乳派か貧乳派
 **Author:** ハナノアサ
 
-#### Comments (19)
+#### Comments (20)
 - **長井典子（４９）** (Sep 01, 2026 02:02am): あ
 - **常時暇人のたけさん** (Sep 01, 2026 03:27am): 巨だろ
 - **ナギサノ** (Sep 01, 2026 03:37am): わかる
@@ -1111,6 +1113,7 @@ fernって名前のやつ　履歴消したらきえt
 - **Anonymous** (Sep 03, 2026 01:45pm): また　たけさん…うざったいな
 - **Nannka　Youtube** (Sep 04, 2026 02:30am): たけさん
 - **Nannka　Youtube** (Sep 04, 2026 02:30am): すごい
+- **Anonymous** (Sep 04, 2026 04:20am): なんかぁYouTube〜「長文」って言っても数行程度ですよね？ それすらまともに読めない脳のキャパシティで、わざわざ「ここに書き込む」という無駄な時間を費やしてリアルを疎かにしているのはどこの誰でしょうか。アメリカから見たら「性」の捉え方が論外なレベルで遅れている環境で育つと、そんな嘘くさい報告でしか自己肯定感を保てなくなるんですね。ここにそんなクソみたいな書き込みをしてる時点で、あなたが一番現実から逃避しているように見えますよ。可哀想に。
 
 #### Additional Information
 - **Post color:** White
@@ -1184,7 +1187,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789098386&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bE2GybkiiaWuwoM7Vg9Xc6%2BfeGQQn0f28S%2FY4XOMlwtYT8DWok1xHemS3T%2BeFez9Q7DCb1R%2F2hIUwT1HsgF89K2JRKiYSj5D6A8MjldFYXL1YEoP%2FlPPnESH8HAkCAdts5%2FtV%2ByYB1NtUgoEZUNtxbqzCSSauScMHv87E2DJs1XZQMbr2OOL7vq21NxD558USjrbLRkchpeFVkTF9rSkmFDM4nSdSSzr7q90uaxmfuM%2Fg%2BtEPXjOEo3SG5oAvq2o71BEbRlokwrJFjoE%2BpWYTQm%2BAwuerzuDowHmI8htCpOqIbiOeh132vvGjp0IYRoL7LL8dLG2aTbys2DdgiwE1w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789103390&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zu5A%2Fl4HnW54srxDeAi649JFOwc%2BDiAotqV5Gut2%2BMMi31dbZlnroAsEPgeuU6vL31X7nKRtBDu54UkqwM0vEmFpx3ioRhNJVQFrZ4XDzoje8gNTHhCGxPr6tCndIItOPiecKCeoahppG0ShQmrS%2F3vCvKLyYkXR4%2FrdXkOVnBh%2BB1mnlbQG9zmM9QduMuZ%2FfnlHKvz5qpKm1bLE4yJA7Q4GZ1nnPwb7pCq8nbglpnGk4jQq58kybcPSvVntGQ2yW3JVH7b3caAO%2B%2F2bLaNe6Yh8ygoHfY9raBC72RsNwmDxd0N%2FQ3wvsKgV6wfXbkANbdgJoYN3Zjy3I%2FiMT%2FyOFA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (5)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1205,7 +1208,7 @@ ID:shibboleth
 
 [Attachment 1](https://u.topia.2a.exe.googleapis.com.hospitaldelninodif.gob.mx/)
 
-#### Comments (13)
+#### Comments (14)
 - **おとちん** (Aug 28, 2026 10:04am): サイトのURLコピーして貼ったら見れる
 - **ぼちぼちいこか愛好家** (Sep 01, 2026 12:48am): マジで？
 - **カナタビ** (Sep 01, 2026 12:55am): proxy?
@@ -1219,6 +1222,7 @@ ID:shibboleth
 - **ホシヨミ** (Sep 03, 2026 12:50pm): 消されたんやけど
 - **Anonymous** (Sep 03, 2026 01:47pm): トオカゼ…虚言とか決めつけるのはただのクソインキャだぞまあ自覚してるか…言う必要はなかったな
 - **ぼちぼちいこか愛好家** (Sep 04, 2026 02:51am): 自覚してない馬鹿もいるからなｗｗｗ
+- **Anonymous** (Sep 04, 2026 04:22am): ぽちぽちいこか愛好家の鉄オタお前もだぞ(笑)
 
 #### Reactions
 - **Emojis:** ❤️ (2) 👍 (1) 😄 (1)
@@ -1293,7 +1297,19 @@ No post
 
 ## youtube
 
-### 1. YouTube見れるサイト教えてください。
+### 1. Post 1
+**Author:** ユキワタ
+
+[Attachment 1](https://padlet.com/298344445/padlet-jibykjil8dz23tn7)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 04, 2026 04:48am
+- **Updated At:** Sep 04, 2026 04:48am
+
+---
+
+### 2. YouTube見れるサイト教えてください。
 **Author:** Nannka　Youtube (s1923051_1)
 
 #### Comments (1)
@@ -1306,7 +1322,7 @@ No post
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** シロハナ
 
 [Attachment 1](https://www.google.com/goto?url=CAESYwHrOzAVnYlw3x7WtbBQC3UOD8WLbTUdu014TNrH7STVWOLamMLI8WLXcksfgYWVJFBZONffy3HB7584_mm4AAJb4PYoLWOTIIe23SkcABM89VwZ41AfHzx4WXEQvbV9jVLw4Q)
@@ -1323,7 +1339,7 @@ No post
 
 ---
 
-### 3. 学タブで見れるユーチューブほしいですお願いします
+### 4. 学タブで見れるユーチューブほしいですお願いします
 **Author:** ぼちぼちいこか愛好家 (2101038_5)
 
 #### Comments (12)
@@ -1347,7 +1363,7 @@ No post
 
 ---
 
-### 4. 見れるかも？？
+### 5. 見れるかも？？
 **Author:** 34b6kq
 
 [Attachment 1](https://script.google.com/a/macros/chuo-tky.ed.jp/s/AKfycbyDtINI3yZi1UNO2P3Ody2fzRptm80YOPV_a3Vlqygl-QWyuzjvTvB7TMANSN5GPJOFMw/exec)
@@ -1364,7 +1380,7 @@ No post
 
 ---
 
-### 5. geometrydashで一番難しいレベルの動画
+### 6. geometrydashで一番難しいレベルの動画
 **Author:** ゆうと
 
 [https://www.youtube.com/watch?v=frjtBcNI6dIcanva.com](https://www.youtube.com/watch?v=frjtBcNI6dIcanva.com)
@@ -1378,7 +1394,7 @@ No post
 
 ---
 
-### 6. geometrydashの動画
+### 7. geometrydashの動画
 **Author:** ゆうと
 
 [https://www.youtube.com/watch?v=g3\_XUbK-PP0canva.com](https://www.youtube.com/watch?v=g3_XUbK-PP0canva.com)
@@ -1392,7 +1408,7 @@ No post
 
 ---
 
-### 7. Post 7
+### 8. Post 8
 **Author:** シズカゼ
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=tfMneb7nGbY)
@@ -1472,6 +1488,30 @@ No post
 ## 宣伝
 
 ### 1. Post 1
+**Author:** ユキワタ
+
+[Attachment 1](https://padlet.com/298344445/padlet-jibykjil8dz23tn7/wish/9kmlZV5v2nyeQpgV)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 04, 2026 04:46am
+- **Updated At:** Sep 04, 2026 04:46am
+
+---
+
+### 2. Post 2
+**Author:** ユキワタ
+
+[Attachment 1](https://padlet.com/298344445/padlet-jibykjil8dz23tn7/wish/9kmlZV5v2nyeQpgV)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 04, 2026 04:45am
+- **Updated At:** Sep 04, 2026 04:45am
+
+---
+
+### 3. Post 3
 **Author:** 覚醒のX (21070052_1)
 
 [Attachment 1](https://padlet.com/21070052_1/padlet-s02391231k9ovta9c99h)
@@ -1486,7 +1526,7 @@ No post
 
 ---
 
-### 2. みんな来てー
+### 4. みんな来てー
 **Author:** ぼちぼちいこか愛好家 (2101038_5)
 
 来てくれ
@@ -1500,7 +1540,7 @@ No post
 
 ---
 
-### 3. こい
+### 5. こい
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://padlet.com/team_otomodachi/proxy-mu2o69gm2ch9o6zx)
@@ -1512,7 +1552,7 @@ No post
 
 ---
 
-### 4. 絶対に来たほうがいいよ。きたら自己紹介よろしく！！
+### 6. 絶対に来たほうがいいよ。きたら自己紹介よろしく！！
 **Author:** mbappe♯初代つつきの森会員♯狂鳥族２代目 (akiramenaidedonnatokimo)
 
 [Attachment 1](https://padlet.com/akiramenaidedonnatokimo/padlet-kerg40vcf1nvu3eh?lang=ja)
@@ -1530,7 +1570,7 @@ No post
 
 ---
 
-### 5. 復旧お願いします！
+### 7. 復旧お願いします！
 **Author:** 常時暇人のたけさん (JPsan)
 
 [Attachment 1](https://padlet.com/JPsan/padlet-11oe0dlx9vsegwya?lang=ja)
@@ -1542,7 +1582,7 @@ No post
 
 ---
 
-### 6. Post 6
+### 8. Post 8
 **Author:** ミソラノ
 
 [Attachment 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
@@ -1554,7 +1594,7 @@ No post
 
 ---
 
-### 7. みんなきてね
+### 9. みんなきてね
 **Author:** 仙人@suger (sennin_sugar)
 
 https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQozfVOY7UPTBkpqfD\_-fwTwn\_kxxLOg/exec
@@ -1566,7 +1606,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 8. Post 8
+### 10. Post 10
 **Author:** 犬
 
 [Attachment 1](https://padlet.com/00221133/padlet-9otqidpsq2a33sru)
@@ -1582,7 +1622,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 9. Post 9
+### 11. Post 11
 **Author:** 1001さん (Haraitai)
 
 ここオンラインゲームがあるよ！
@@ -1596,7 +1636,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 10. 江口 ー さんずい
+### 12. 江口 ー さんずい
 **Author:** 34b6kq
 
 イイ漫画がきっと見つかる
@@ -1613,7 +1653,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 11. セックスしたいやつなんか書いて
+### 13. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
 #### Comments (13)
@@ -1641,7 +1681,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 12. ゲーム出せセックス
+### 14. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
 #### Comments (8)
