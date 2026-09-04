@@ -1,4 +1,4 @@
-最終取得: 2026/09/04 18:42:03
+最終取得: 2026/09/04 20:43:05
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 36
+- **Posts:** 37
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Sep 04, 2026 06:43am
+- **Updated At:** Sep 04, 2026 11:39am
 
 ## ルール
 
@@ -100,7 +100,21 @@
 
 ---
 
-### 4. うーん
+### 4. Post 4
+**Author:** ホイップクリーム
+
+解除してください
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194665627/8020d285b6b4d07cd736be52cb8a0091/photo.jpeg?Expires=1789127039&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QFWqrGGSGy0FdbvK8eHA0n9f31Tje81LWjzkPG%2Bsf%2FZnE%2BJ6eRRSQ39%2FSr4b88SckCD0LFByvQs6GHEdxGCN8lRqgNN4LPdip6s8H%2B99ML1wGzQFipNvDalMTpQzsxZ6B9bxkKL04zR4SeXS4LH%2F1YhhEHm62FRfLBUoSO52KzX7UE7fg0JzOQAFhop0fOpBtWUPtBXjEMw0VeZeEmaXjXbQ%2BbCH561bQTKBtQDvWCqUBBCTZANQGbGrSV6fQCUdCBbRZqUmgU5TJS1s%2B2XVOyN0rJnJnALNLedMkSVLvYriOkU2q35fqqp9pAbjlHZgqezBdk%2BVK55fFevnSroqVQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194665627%2F8020d285b6b4d07cd736be52cb8a0091%2Fphoto.jpeg)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At:** Sep 04, 2026 11:39am
+- **Updated At:** Sep 04, 2026 11:39am
+
+---
+
+### 5. うーん
 **Author:** ナツネ
 
 #### Additional Information
@@ -110,7 +124,7 @@
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** ユキホ
 
 ブロック解除するにわどうすれば良いでしょうか
@@ -122,7 +136,7 @@
 
 ---
 
-### 6. ロブロックスしたい
+### 7. ロブロックスしたい
 **Author:** ぎゃる
 
 #### Comments (2)
@@ -136,7 +150,7 @@
 
 ---
 
-### 7. 夏休みyさーーーー
+### 8. 夏休みyさーーーー
 **Author:** ぴ
 
 嬉しすぎんだろ
@@ -148,7 +162,7 @@
 
 ---
 
-### 8. じい
+### 9. じい
 **Author:** ヤドリギ
 
 #### Additional Information
@@ -158,12 +172,12 @@
 
 ---
 
-### 9. ティックトック
+### 10. ティックトック
 **Author:** 嶋勇󠄂人 (21920012)
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1789119779&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0uslSvriEysnUNdyFW1u4a6kOg48WJZMVD50VJd2zwFtXvZXVUQFRDlfrFk2zv2mOFTFtfJ4dCI2STsDB3gmKFqBqZYsl8zFX44sc4QjowsDS7zUUSQAzMzy%2BbUDnI%2BrTP5B2lM0Qrp7FrrO2Ut2pG%2B6LOiK7Piho1XladocgOBo%2B%2FH%2F4nmSs%2FqxQxWCgJoHKxYy1dHsoWazyJyUFZLKMWF2%2F5bhPqq0Mkla7QBssmDgQFREf5bTOokFBGexQEGdqF7%2Bcgk22Y7QzTybqbN%2F9fu1zd6msD%2FNxIv7HyBa3xCKaz5DTjXwouh1RNt617U8zZXxPv%2BAWDm3RGJ4NW7uRQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1789127039&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ySOtU2O3DFbVnEu7USqO1E%2BCB6xBromkbnkwe5TUvhQkaWP3wGokmmO%2BSPeCFw1gCZFj5krIt5h3uOKdQEeH8kvUufrNKL%2BhnyC%2BJoQLWD9q8EGU0gC3TDvLsuzxxehiT0WLTRWzguWzy%2BuXZhpo%2BVrd0vNdt%2B%2FJx5Nwldc3FtkTZNu%2FI83m1EA6ikJhHD75psGyHkGENeSd6NRtfi19fXcjeHcC2BHB2I4xzO18diNLLsvZNGc%2BQEgYCiu2bRUbZoTm1enqyVPoXUwKZ6QJlyI8Pc6VGmWKF5PpsUHesht7df0khklgDpJDkNLIRXMQqqldvUhxyiJxmHgMV6nNWw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -175,7 +189,7 @@
 
 ---
 
-### 10. こんにちはこれ開きたいんですけどブロックされますどうすればいいですか
+### 11. こんにちはこれ開きたいんですけどブロックされますどうすればいいですか
 **Author:** なしまる
 
 [Attachment 1](https://mess.eu.org/)
@@ -187,7 +201,7 @@
 
 ---
 
-### 11. こんにちは
+### 12. こんにちは
 **Author:** すーぱーねこ (gs212336)
 
 #### Additional Information
@@ -197,7 +211,7 @@
 
 ---
 
-### 12. aiyueo
+### 13. aiyueo
 **Author:** カワスミ
 
 #### Additional Information
@@ -207,7 +221,7 @@
 
 ---
 
-### 13. 規制解除してくださいお願いします。
+### 14. 規制解除してくださいお願いします。
 **Author:** 川村茜寧 (22117257)
 
 #### Comments (1)
@@ -220,7 +234,7 @@
 
 ---
 
-### 14. Post 14
+### 15. Post 15
 **Author:** ハイノヤマト (se21210122)
 
 こんにちは
