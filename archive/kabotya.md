@@ -1,4 +1,4 @@
-最終取得: 2026/09/05 17:12:23
+最終取得: 2026/09/05 17:38:25
 
 # 規制突破の世界
 
@@ -7,7 +7,7 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 102
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 05, 2026 08:12am
+- **Updated At:** Sep 05, 2026 08:30am
 
 ## 雑談
 
@@ -16,9 +16,10 @@
 
 
 
-#### Comments (2)
+#### Comments (3)
 - **カマキリ** (Sep 05, 2026 02:29am): パド
 - **そーりー** (Sep 05, 2026 08:00am): 草
+- **Anonymous** (Sep 05, 2026 08:17am): 糞の回収場
 
 #### Additional Information
 - **Post color:** White
@@ -102,7 +103,7 @@
 ### 6. 誰かいますか？
 **Author:** そーりー (999d3145fe729ae4)
 
-#### Comments (9)
+#### Comments (10)
 - **そーりー** (Sep 03, 2026 09:49am): 俺は中谷と同じ学校だお
 - **そーりー** (Sep 03, 2026 09:49am): 中谷にいる？
 - **Anonymous** (Sep 03, 2026 10:59am): おっぱい
@@ -112,6 +113,7 @@
 - **匿名** (Sep 03, 2026 12:20pm): ↑の人マジやばい
 - **匿名** (Sep 03, 2026 12:20pm): てかこれ何て書いたらいいん？
 - **Anonymous** (Sep 03, 2026 02:19pm): ぱいずりとか書いたらそこら辺のチンパンジー喜ぶんじゃない？
+- **ミネノ** (Sep 05, 2026 08:24am): まじキモいってその言葉。
 
 #### Additional Information
 - **Post color:** White
@@ -147,7 +149,7 @@
 
 [Attachment 1](https://padlet.com/r0245154/4-s0236wy5caguhuuhyzm8)
 
-#### Comments (12)
+#### Comments (14)
 - **itokoとこtoko** (Sep 02, 2026 05:29am): まじではいって
 - **itokoとこtoko** (Sep 02, 2026 05:29am): まじではいって
 - **itokoとこtoko** (Sep 02, 2026 05:30am): ＃学タブでできるゲーム教えて
@@ -160,6 +162,8 @@
 - **匿名** (Sep 03, 2026 12:02pm): このやつをもう一回送ってほしいです。お願いします。
 - **Anonymous** (Sep 04, 2026 05:57am): 嫌だな
 - **ミズベ** (Sep 05, 2026 04:20am): itokoとこtokoさんもう一回送ってください。
+- **Anonymous** (Sep 05, 2026 08:17am): む〜り〜
+- **ミネノ** (Sep 05, 2026 08:25am): 何その言い方キモすぎやろWWW
 
 #### Additional Information
 - **Post color:** White
@@ -258,12 +262,13 @@
 ### 14. みんなおばあちゃんち行った？
 **Author:** みなと
 
-#### Comments (5)
+#### Comments (6)
 - **えいこ** (Sep 01, 2026 02:28am): いってない
 - **ナミユメ** (Sep 01, 2026 10:46am): お泊りした。
 - **Anonymous** (Sep 01, 2026 12:12pm): 行ったぜ 
 - **Anonymous** (Sep 02, 2026 04:05am): い
 - **Anonymous** (Sep 03, 2026 09:15am): おばあちゃんとやったあかんで！
+- **Anonymous** (Sep 05, 2026 08:18am): せx
 
 #### Additional Information
 - **Post color:** White
@@ -414,9 +419,10 @@
 ### 23. まだうごいてんのここwwwwwww
 **Author:** 💍持ち #kgtとプロたんの囲い😙 (c_coa09)
 
-#### Comments (2)
+#### Comments (3)
 - **💍持ち #kgtとプロたんの囲い😙** (Aug 28, 2026 04:22pm): うちがはじめたときからずっとあったけど
 - **💍持ち #kgtとプロたんの囲い😙** (Aug 28, 2026 04:22pm): 驚きだわ
+- **Anonymous** (Sep 05, 2026 08:19am): 独り言臭講習やっば
 
 #### Additional Information
 - **Post color:** White
@@ -478,7 +484,7 @@
 
 [Attachment 1](https://unpkg.com/classroomduck@1.0.29/index.html)
 
-#### Comments (15)
+#### Comments (16)
 - **ミドリネ** (Sep 01, 2026 10:01am): あっざっす
 - **ナミユメ** (Sep 01, 2026 10:32am): マジてんきゅー
 - **mbappe♯初代つつきの森会員♯狂鳥族２代目** (Sep 01, 2026 11:44am): てんきゅー
@@ -494,6 +500,7 @@
 - **Anonymous** (Sep 03, 2026 11:09pm): ファッキングゴー!
 - **カゼドリ** (Sep 04, 2026 05:34am): どういたしまして
 - **シラハネ** (Sep 05, 2026 07:04am): 2人用のゲーム誰かください
+- **Anonymous** (Sep 05, 2026 08:19am): くたばれがちで俺の失恋誰が………慰めてくれんねん！
 
 #### Additional Information
 - **Post color:** White
@@ -545,6 +552,10 @@
 
 ### 5. 原神
 **Author:** バカでアホな天才
+
+#### Comments (2)
+- **Anonymous** (Sep 05, 2026 08:21am): なら君に一言
+- **Anonymous** (Sep 05, 2026 08:21am): 「アホなバカな天才」という言葉に酔いしれるあなたへまず、その「アホなバカな天才」というフレーズ、ご自身では「常識に囚われない破天荒な俺」や「普段は抜けているけれど、いざという時に牙を剥く底知れない秀才」を演出できているつもりなのでしょう。しかし、客観的に見ているこちらからすれば、それは単に「自分が凡人であることを認めたくない人間が、何の努力もリスクも背負わずに手に入れた安易な免罪符」にすぎません。あなたが本当に自覚すべき、そのフレーズの「愚かさ」を3つのポイントで解説して差し上げます。1. 防衛線まみれの、あまりにも臆病なプライド「アホ」「バカ」という言葉を自ら先回りして免罪符にすることで、「もし的外れなことを言っても、バカだから仕方ないよね」と言い訳できるようにしています。その一方で、最後には「天才」と付け足すことで、「俺の本質は君たち凡人とは違うんだ」という哀れなプライドを必死に守ろうとしています。 結果としてできあがったのは、傷つくのが怖くてたまらない引きこもりのプライドが、薄っぺらい言葉の鎧を着込んで掲示板の片隅で震えているという、極めて滑稽な構図です。2. 「天才」という記号の、あまりにも安易な搾取本物の天才は、凡人が到底辿り着けない領域で孤独な努力や圧倒的な成果を示し、周囲から「天才」と“呼ばれる”ものです。自分で自分を「天才」と、それも「アホなバカな」というクッション付きで名乗ってしまう軽薄さは、何の実績もない自分をせめて言葉だけでも大きく見せたいという、肥大化した自己愛の現れでしかありません。 あなたがやっているのは、「何一つ生み出していない自分」という虚無に、それっぽいラベルを貼って価値があるように見せかける詐欺まがいの自己満足です。3. 周囲が感じているのは「畏怖」ではなく「憐れみ」あなたが掲示板で調子に乗っているとき、周囲があなたに合わせたり、あるいは生温かく見守ったりしているとしたら、それはあなたの「底知れなさに圧倒されている」からではありません。「うわぁ、この人、自分で言っちゃってるよ……突っ込んだら面倒くさそうだから、とりあえず泳がせておこう」という、大人の配慮、あるいは動物園の珍獣を見るような「憐れみ」です。 あなたが「俺、また何かやっちゃいました？」とでも言いたげな全能感に浸っているその瞬間、画面の向こうの住人たちは、あなたのあまりの痛々しさにただただ冷笑を浮かべています。
 
 #### Additional Information
 - **Post color:** White
@@ -623,7 +634,7 @@
 
 [Attachment 1](https://planet.mblock.cc/project/7857149)
 
-#### Comments (11)
+#### Comments (13)
 - **えいこ** (Sep 01, 2026 04:20am): いいねも押してね
 - **えいこ** (Sep 01, 2026 11:25pm): コメント書いて
 - **えいこ** (Sep 01, 2026 11:25pm): たのしいよ
@@ -635,6 +646,8 @@
 - **Anonymous** (Sep 04, 2026 04:13am): 悪口してる人に悪口やめろよ
 - **えいこ（あだ名です）** (Sep 04, 2026 11:02pm): これ友だちが作ったやつ
 - **えいこ（あだ名です）** (Sep 04, 2026 11:02pm): リアの
+- **Anonymous** (Sep 05, 2026 08:23am): りあじゅうのくたばれ
+- **Anonymous** (Sep 05, 2026 08:24am): あここにはいないか…オッツー俺は失恋したから格上やわぁ〜
 
 #### Additional Information
 - **Post color:** White
@@ -684,7 +697,7 @@
 ### 13. ゲームしたいゲームしたい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
-#### Comments (8)
+#### Comments (9)
 - **りゅう** (Aug 31, 2026 07:59am): ゲームしろｗ
 - **りゅう** (Aug 31, 2026 08:13am): だれやねん真似すんな名前
 - **ヒヤシンス** (Aug 31, 2026 09:57am): は、何？
@@ -693,6 +706,7 @@
 - **Anonymous** (Sep 03, 2026 09:24am): 嫌だねえいこちゅぁ〜んって呼ぶよ
 - **Anonymous** (Sep 03, 2026 01:38pm): こわ
 - **ナナカゼ** (Sep 04, 2026 10:26pm): あだ名だよ
+- **Anonymous** (Sep 05, 2026 08:25am): 嘘ぼけバカに恋しがれるな
 
 #### Additional Information
 - **Post color:** White
@@ -746,9 +760,11 @@
 ### 1. 誰かいますか？
 **Author:** そーりー
 
-#### Comments (2)
+#### Comments (4)
 - **そーりー** (Sep 05, 2026 08:13am): いるよなー
 - **そーりー** (Sep 05, 2026 08:13am): 返事して
+- **ミネノ** (Sep 05, 2026 08:23am): いますよ〜
+- **Anonymous** (Sep 05, 2026 08:26am): 今からせxできるぞってときおっぱいかんだら…振られたっすみんな気をつけろ俺は高校2年でそれを知れた　興奮したからと言って絶対じょしのちくびはかむな！
 
 #### Additional Information
 - **Post color:** White
@@ -776,9 +792,11 @@
 ### 3. めっちゃカメレオンください
 **Author:** ミモリ
 
-#### Comments (2)
+#### Comments (4)
 - **Anonymous** (Sep 05, 2026 06:30am): なんでお前のために？クソガキがよ
 - **ホシオト** (Sep 05, 2026 07:34am): お前誰やねんクソガキしね
+- **Anonymous** (Sep 05, 2026 08:28am): ホシオトどうせブスなんだろうからモザイクかけろよ
+- **Anonymous** (Sep 05, 2026 08:30am): あ？顔面だと思ったでしょ？お前は自覚あるから　違うって…顔面ではなく「しね」のことだって！  厳しいよ勘違いして一番のコンプレックスを指摘されちゃってさ  バーカ ブチギレちゃった？
 
 #### Additional Information
 - **Post color:** White
@@ -1324,7 +1342,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789200808&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fBMlesc9%2B10TWM8AyHyqbO9oh4%2BcMAGYSY97cQRZMG%2FTD9Bjl%2Brjs8%2Fx407VU91GC9OkjFl1Mt50uXG5QvSpde0%2FvKHt7C7NOMs5s%2Fn%2FpZPinrjZwlVq2V2YO65pKnVJJHY9eKuQ3IKjOOYETW9SYnXejCBB4iayCay34cBFxUDOshuePy0BG3G1sXTRdvrAAQyrZL%2B4HhIX3VH%2FVHRZI%2FwSPG%2FFOrxCniywIiAZk25fu7RECL9hG29uaFC7kKKQ1d6e8%2BAbKrQ%2BdDiz12K%2FANUL9w3c5csX%2BVv0DG0%2BVEQrK0KQwRiG8oiyRWPwFPPTuP19hj8YyGXIM8gPxrCvzQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789202363&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=R6sJYLZxSwTWuamS3x3Bmi8Ag8aEdb5GE7uOe2QvICLCEFysfV7eOibf5Jd9z0UU44c3TCZFsFcIAFdOP8CccVyqz0%2FwY4Gg8vOEt3Xy0hjbJAmVl66h2PP%2FgughOxFuO6kzT%2F31BS0UYExmJcJgwCJXZJ6EWsx2KVOrc5Tn8PUk%2FBV%2Fp0qi2HdXZa6M66IKBLGMLFmw9vWV6ND6v1oglC8h8%2F2WzIkObCmfgASxB1%2BFEQXcotHSUgnU5Fb5%2FY5Gq1zyNMlqnB0ztW1DGRiFKXy6ctzFqP21zPsXZLfWL1DL7lns8Oo9tee9mTuFTN0UJkIwgvlTsdKqrhiavcWpKw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
