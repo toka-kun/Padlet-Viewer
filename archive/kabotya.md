@@ -1,17 +1,29 @@
-最終取得: 2026/09/05 09:08:34
+最終取得: 2026/09/05 10:22:31
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 96
+- **Posts:** 97
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 04, 2026 11:47pm
+- **Updated At:** Sep 05, 2026 12:23am
 
 ## 雑談
 
-### 1. 規制突破
+### 1. 規制突破の世界とは何ですか
+**Author:** サーモン
+
+
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 05, 2026 12:21am
+- **Updated At:** Sep 05, 2026 12:21am
+
+---
+
+### 2. 規制突破
 **Author:** Nannka　Youtube (s1923051_1)
 
 #### Comments (7)
@@ -30,7 +42,7 @@
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** 覚醒のX (21070052_1)
 
 [Attachment 1](https://padlet.com/21070052_1/padlet-l9bx22n6f2mh56z5)
@@ -42,7 +54,7 @@
 
 ---
 
-### 3. ゲーム123
+### 4. ゲーム123
 **Author:** ｓ
 
 #### Comments (2)
@@ -56,7 +68,7 @@
 
 ---
 
-### 4. 大丈夫大丈夫大丈夫大丈夫大丈夫大丈夫↑なんか異変気づいた？
+### 5. 大丈夫大丈夫大丈夫大丈夫大丈夫大丈夫↑なんか異変気づいた？
 **Author:** 匿名
 
 #### Comments (7)
@@ -75,7 +87,7 @@
 
 ---
 
-### 5. 誰かいますか？
+### 6. 誰かいますか？
 **Author:** そーりー (999d3145fe729ae4)
 
 #### Comments (9)
@@ -96,7 +108,7 @@
 
 ---
 
-### 6. 明日学校雨でなくなるかもしれないマジで神
+### 7. 明日学校雨でなくなるかもしれないマジで神
 **Author:** えいこ
 
 #### Comments (8)
@@ -116,7 +128,7 @@
 
 ---
 
-### 7. Post 7
+### 8. Post 8
 **Author:** itokoとこtoko (r0245154)
 
 まじではいって
@@ -143,7 +155,7 @@
 
 ---
 
-### 8. よ
+### 9. よ
 **Author:** ヤクシカブト (s1923003_1)
 
 #### Comments (11)
@@ -169,7 +181,7 @@
 
 ---
 
-### 9. だる
+### 10. だる
 **Author:** Nannka　Youtube (s1923051_1)
 
 #### Comments (6)
@@ -187,7 +199,7 @@
 
 ---
 
-### 10. 今もずっと動いてる部屋教えてください人多いところがいいです
+### 11. 今もずっと動いてる部屋教えてください人多いところがいいです
 **Author:** ちゆ
 
 #### Additional Information
@@ -197,7 +209,7 @@
 
 ---
 
-### 11. チャット（ゆうと、みなと、れお、えいいち、まひろ）
+### 12. チャット（ゆうと、みなと、れお、えいいち、まひろ）
 **Author:** れお
 
 [https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing](https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing)
@@ -214,7 +226,7 @@
 
 ---
 
-### 12. 前の土日、何した？
+### 13. 前の土日、何した？
 **Author:** 港
 
 #### Comments (2)
@@ -228,7 +240,7 @@
 
 ---
 
-### 13. みんなおばあちゃんち行った？
+### 14. みんなおばあちゃんち行った？
 **Author:** みなと
 
 #### Comments (5)
@@ -245,7 +257,7 @@
 
 ---
 
-### 14. 雑談
+### 15. 雑談
 **Author:** TENTENNTENN
 
 
@@ -261,7 +273,7 @@
 
 ---
 
-### 15. 学校ってみんなきらい俺台っきらい
+### 16. 学校ってみんなきらい俺台っきらい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (9)
@@ -282,7 +294,7 @@
 
 ---
 
-### 16. 夏休み楽しかった
+### 17. 夏休み楽しかった
 **Author:** みなと
 
 #### Comments (8)
@@ -302,7 +314,7 @@
 
 ---
 
-### 17. geometrydashの定員募集中（10人）
+### 18. geometrydashの定員募集中（10人）
 **Author:** ゆうと
 
 [https://forms.gle/MB8vdXJbKXKy2nG98](https://forms.gle/MB8vdXJbKXKy2nG98)
@@ -316,7 +328,7 @@
 
 ---
 
-### 18. 後ろ見ろ
+### 19. 後ろ見ろ
 **Author:** 犬
 
 #### Comments (1)
@@ -329,7 +341,7 @@
 
 ---
 
-### 19. ビデオ通話
+### 20. ビデオ通話
 **Author:** シラカバ
 
 学校嫌だ
@@ -351,7 +363,7 @@
 
 ---
 
-### 20. あ
+### 21. あ
 **Author:** シラカバ
 
 あ
@@ -371,7 +383,7 @@
 
 ---
 
-### 21. poki
+### 22. poki
 **Author:** 常闇 トワ（不地口手万ディ） (Fleeex)
 
 [Attachment 1](https://poki.io/)
@@ -383,7 +395,7 @@
 
 ---
 
-### 22. まだうごいてんのここwwwwwww
+### 23. まだうごいてんのここwwwwwww
 **Author:** 💍持ち #kgtとプロたんの囲い😙 (c_coa09)
 
 #### Comments (2)
@@ -397,7 +409,7 @@
 
 ---
 
-### 23. 一旦消しました
+### 24. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
 #### Comments (31)
@@ -1214,7 +1226,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789171770&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ox4%2FCXKJQt69x5132Pg5TANAgq78hKx16pijAPy9W8qFaPaRggoDgfscpfYJVPrRO6IKticuq%2Bm8QkY9FUtzsB1B59zL2CpDmghfGKrdVIbDvw98tABEmYcYnF6N4%2B14PirBaKCwR5PKhpN0PBp9kowQlv3yi7LvpEJtCNz2%2FeuVT0wCBhWBjXlo%2BLpMHl4IJQqF993T6HcYmFJ%2BLURlH0TmeGpq0OqXKxLmG4p8NL7kKDeAovT08jT%2FBzBaQO7kbHkzFyJcEoqnKFkurla82TtIPJArZdhobatkgnDWTmJwU%2Fn%2FvTgEO3D1EMWgcdJ3MxbMybUkH7u9BQL95hvmyA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789176214&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2AOH0SrefoYcidOWoys5F3cdUOchTDEbOoxwdU%2FHrYh9XrcoVJ2HDVjEUGCVZzfWg28wG%2B4rhRLQf5KMXG6imkKHLcZXfAqI7IIE8IyjCOhFyXd6KY8lWyOiabwjJDaSAqCIb1K550O9QVUH73lNcTELPvlEj2OU3tAyUMeo0zj%2FZlwzN2wveuFSpKreWewV0yxvclLGKVn1ifJ80qrCxCoHA9EwXlpynVq%2FBBIR1QAfxvx2IAQy9aaXInLzUZUjEDZiClpkxXn9%2FPIgNIwWaQLRHh3o2ujMHS4hc8yZQZM42WeRcpPsNH4rRbL7RZjMbieHQ2gPa6S%2B000RRX64AQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1748,7 +1760,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 ### 14. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
-#### Comments (10)
+#### Comments (11)
 - **ホシノワ** (Aug 27, 2026 06:54am): ゲームのサイト乗っけて
 - **ホシノワ** (Aug 27, 2026 06:54am): だれか
 - **Anonymous** (Aug 28, 2026 08:14am): Ubg67って調べて 
@@ -1759,6 +1771,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 - **Anonymous** (Sep 04, 2026 12:58am): しね
 - **Anonymous** (Sep 04, 2026 05:38am): ネッシー
 - **Anonymous** (Sep 04, 2026 05:44am): ネス湖における未確認動物「ネッシー」の歴史、科学的検証、および社会的・文化的影響に関する考察序論ネス湖の怪獣（英: Loch Ness Monster）、通称「ネッシー（Nessie）」は、スコットランド・ハイランド地方のネス湖に生息すると伝えられる、世界で最も有名な未確認動物（UMA: Unidentified Mysterious Animal）である。長年にわたり、数多くの目撃証言、写真、映像、そして科学的調査が報告されてきたが、その実在を示す決定的な肉体的証拠（生物の死骸や捕獲例）は現在に至るまで発見されていない。本論文では、ネッシー伝承の歴史的背景から、20世紀以降のブームの変遷、これまでに行われた主要な科学的検証、そして本現象が地域経済や大衆文化に与えた影響について多角的に考察する。1. 歴史的背景と目撃譚の変遷1.1 初期の記録：聖コロンバの伝説ネス湖における怪獣の最も古い記録は、西暦565年に高僧聖コロンバ（St. Columba）が著した伝記（アダムナンの『聖コロンバ伝』）に遡る。記述によると、コロンバはネス川で怪物に襲われそうになった住民を救うため、十字架を掲げて神の御名によって怪物を退散させたという。これが「ネス湖の怪獣」の原点とされるが、当時はキリスト教の奇跡を強調するための寓話的側面が強く、現代の「首長竜型」のイメージとは大きく異なる。1.2 1933年の「ネッシー・ブーム」の勃発近代的なネッシー・ブームが始まったのは1933年である。同年、ネス湖の北岸に沿って新しい道路（A82号線）が完成し、湖の視界が大きく開けた。マッケイ夫妻の目撃（1933年4月）：地元のホテル経営者マッケイ夫妻が、湖面でのたうち回る巨大な生物を目撃したと地元のインヴァネス・クーリエ紙が報じ、初めて「モンスター」という言葉が使われた。スパicer夫妻の目撃（1933年7月）：スパicer夫妻が、道路を横切って湖へ向かう「首が長く巨大な胴体を持つ生物」を陸上で目撃したと証言し、ブームは一気に加速した。1.3 近代の象徴：「外科医の写真」とその真実1934年4月、ロンドンの高名な外科医ロバート・ケネス・ウィルソンが撮影したとされる写真は、水面から長い首を突き出す生物の姿を捉え、世界中にネッシーのイメージを定着させた。しかし、1994年、撮影に関与したクリスチャン・スパーリングが死の間際に「おもちゃの潜水艦に木粉粘土で作った首を取り付けた偽物であった」と告白し、この写真は世界的な捏造事件であったことが証明された。2. 生物学的・地質学的仮説と検証ネッシーの実在を支持する、あるいは否定する立場から、これまで多くの科学的・擬似科学的仮説が提唱されてきた。2.1 プレシオサウルス（首長竜）生き残り説最も大衆に好まれた説は、約6600万年前に絶滅したはずの水生爬虫類プレシオサウルスの生き残りがネス湖に閉じ込められたという説である。しかし、この説には以下の科学的致命欠陥がある。地質学的矛盾：ネス湖は最後の氷河期（約1万年前）まで完全に氷に覆われており、それ以前から生物が連続して生存することは不可能である。生物学的矛盾：爬虫類は肺呼吸を行うため、頻繁に息継ぎで水面に顔を出す必要があるが、それに見合う頻度の目撃がない。また、ネス湖の水温（年間平均約5.5℃）は爬虫類が活動するには低すぎる。2.2 大ウナギ（オオウナギ）説ネス湖にはヨーロッパウナギが多数生息している。一部の個体が環境要因や突然変異により、通常のサイズを遥かに超えて巨大化した（数メートル規模）のではないかという説である。これは後述する最新のDNA調査でも注目されることになる。2.3 錯覚および自然現象説多くの目撃談は、既知の動物や自然現象の見間違いである可能性が高い。波と流木：湖を航行するボートの航跡波（特に数キロ先から届く交差波）は、水面を泳ぐ怪獣の背中のように見える。光の屈折（蜃気楼）：穏やかな湖面では冷気と暖気の層により光が屈折し、小さな鳥や流木が巨大に見えることがある。他の動物：泳いでいるシカ、あるいは水面から背中を出したイルカやアザラシ（稀に海から迷い込む）の見間違い。3. 大規模な科学的調査20世紀後半から21世紀にかけて、最新技術を用いた科学的調査が何度も実施された。3.1 ソナー（音波探知機）調査1960年代から2000年代にかけて、ボストンの応用科学アカデミーやBBCなどがソナーを用いた大規模な湖底スキャンを行った。時折「巨大な移動物体」の反応が記録されたが、これらは魚の群れ、あるいは湖底のサーモクライン（変温層）による音波の乱反射であると結論づけられた。3.2 2019年：環境DNA（eDNA）調査ニュージーランドのオタゴ大学のニール・ジェメル教授率いる国際研究チームが、ネス湖の300箇所以上から水サンプルを採取し、そこに微量に含まれる生物の皮膚や排泄物などの環境DNA（eDNA）を分析する最大規模の調査を行った。結果：プレシオサウルスなどの爬虫類、あるいはサメやチョウザメといった大型魚類のDNAは一切検出されなかった。ウナギの可能性：一方で、大量のウナギのDNAが検出された。ジェメル教授は「これが巨大ウナギの証明ではないが、ウナギ説を完全に否定することはできない」と述べた。4. 社会的・文化的・経済的影響ネッシーは単なる未確認動物の枠を超え、現代社会において強大なブランド価値を持っている。影響の側面具体的な現象と効果観光経済スコットランド・ハイランド地方の観光業の主軸。年間数百万人の観光客を誘致し、地域に数千万ポンドの経済効果をもたらしている。ポップカルチャー映画、アニメ、小説（例：『ドラえもん』の「のび太の恐竜」のモチーフや映画『ウォーター・ホース』など）に数多く登場。暗号生物学の発達ネッシーを追うプロセスを通じて、未確認生物を科学的に検証する「暗号生物学（Cryptozoology）」という分野が広く認知された。結論科学的な視点に立てば、ネス湖にプレシオサウルスのような巨大な古代生物が生息している可能性は限りなくゼロに近い。目撃証言の多くは、自然現象の見間違い、集団心理による錯覚、あるいは商業的意図を持った捏造である。しかし、2019年の環境DNA調査のように、ネッシーの謎を追うことが結果として湖の生態系を詳細に解明する学術的成果に繋がっている点は見逃せない。そして何より、科学で全てが解明されつつある現代において、「未知のロマン」を象徴する文化的アイコンとして、ネッシーは今後も人々の想像力を刺激し続けるであろう。
+- **サーモン** (Sep 05, 2026 12:23am): へー、ためになったわ
 
 #### Additional Information
 - **Post color:** White
