@@ -1,4 +1,4 @@
-最終取得: 2026/09/05 12:44:11
+最終取得: 2026/09/05 13:35:09
 
 # 規制突破の世界
 
@@ -7,7 +7,7 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 101
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 05, 2026 02:38am
+- **Updated At:** Sep 05, 2026 04:20am
 
 ## 雑談
 
@@ -140,7 +140,7 @@
 
 [Attachment 1](https://padlet.com/r0245154/4-s0236wy5caguhuuhyzm8)
 
-#### Comments (11)
+#### Comments (12)
 - **itokoとこtoko** (Sep 02, 2026 05:29am): まじではいって
 - **itokoとこtoko** (Sep 02, 2026 05:29am): まじではいって
 - **itokoとこtoko** (Sep 02, 2026 05:30am): ＃学タブでできるゲーム教えて
@@ -152,6 +152,7 @@
 - **Anonymous** (Sep 03, 2026 09:14am): 緑の匿名さん無視したるなって！これはガチ
 - **匿名** (Sep 03, 2026 12:02pm): このやつをもう一回送ってほしいです。お願いします。
 - **Anonymous** (Sep 04, 2026 05:57am): 嫌だな
+- **ミズベ** (Sep 05, 2026 04:20am): itokoとこtokoさんもう一回送ってください。
 
 #### Additional Information
 - **Post color:** White
@@ -1276,7 +1277,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789184721&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tUX9Yvy4e2zUFJFVzuzlzpA5X7V9JbIEjOa2aHGSxckWVK6KQTPcW9JqHRPEAAlLfxLKxzmjZwAAaDiMyaDrJqsYOVrUnnOCCMc6dl4i%2BKScmAThGmCsuiyFz3b3WN5%2F%2FJYx%2BrFuN4qJdnAK0%2Fgp%2FZRD9DAsNLnjFcRaUKArkPVKhUnI0iBvTnUzmC9JNz8WsNWagCw1mNQXh24xBWfu7dDvg7PxrNdu6lui7jQdWMz%2FkYgkrVfD7ri0FTjoMPl9v%2BfLUs6%2F6kUObmQ7BQ05d5bNsef7NJhPrNEV1Hempz9P6XVZ8p3hPq6KMfk3j0lD3aHZqcCrkgW6p7kVX3bptw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789187780&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xjoA9g01IXAheE%2BY17c5MSycGzR2dlzO%2FvR2lkChECfFfkZeWI1VFHshMrieWhSt9p1bXHBt%2B452XEWHacGEghHaCw5j3h9A4aGQPQ4uYPSpd%2FVCne5GDkELvakKrfI0zb%2BFy%2BRmafHVMahF0oVhNpLtt95bTuIpA4ZH1xarUj30Wy8Nie996z8rQu8zsrJWwAhsqLHgVlfB%2B0JopriMlNR1NRWjcn9nZL%2FhorgRlIlK6CkUODkfS8fJBUvVXstMmzUVpQuVlWcT0eQ2zonftCTMFrp86jJrhWnhd4ElS4LE4NME2DrBpsZnG2bE8jVncLR6vLq6nhviBz%2BzZFLPAQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
