@@ -1,110 +1,110 @@
-最終取得: 2026/09/05 15:17:42
+最終取得: 2026/09/05 17:12:23
 
 # みんなで協力すればアイフィルターなんて怖くない
 
 ここでぜひ話していってください！
 
-## Summary
-- **Link:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
-- **Builder:** おうが (18jt026)
-- **Posts:** 426
-- **Created At:** Feb 16, 2026 11:41pm
-- **Updated At:** Sep 05, 2026 05:08am
+## 要約
+- **リンク:** https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm
+- **所有者:** おうが (18jt026)
+- **投稿:** 426
+- **作成日::** 02/16 23:41
+- **更新日::** 09/05 06:54
 
 ## 管理者　連絡
 
 ### 1. ゲーム作るの再開します
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 4.7 / 5 ⭐ (3)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 04, 2026 01:02am
-- **Updated At:** Sep 04, 2026 01:02am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/04 01:02
+- **更新日::** 09/04 01:02
 
 ---
 
 ### 2. いつもゲーム作る時に使ってるサイトがバグってるからゲームの生産ストップします再開したら再度連絡いたします
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 1.0 / 5 ⭐ (1)
 
-#### Comments (2)
-- **どぬく🍑** (Aug 31, 2026 12:27am): そのサイトのリンク教えて
-- **おうが** (Aug 31, 2026 12:32am): Gemini
+#### コメント (2)
+- **どぬく🍑** (08/31 00:27): そのサイトのリンク教えて
+- **おうが** (08/31 00:32): Gemini
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 31, 2026 12:26am
-- **Updated At:** Aug 31, 2026 12:26am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/31 00:26
+- **更新日::** 08/31 00:26
 
 ---
 
 ### 3. 夏休み終了
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 活動再開します受験近いのでたまにしか来れないです。なのでどぬくと時透に管理者とモデレーターは任せます
 
-**星評価:** 1.0 / 5 ⭐ (1)
+**星評価:** 3.0 / 5 ⭐ (2)
 
-#### Comments (1)
-- **どぬく🍑** (Aug 26, 2026 01:23am): りょうかーい
+#### コメント (1)
+- **どぬく🍑** (08/26 01:23): りょうかーい
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 25, 2026 11:11pm
-- **Updated At:** Aug 25, 2026 11:11pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/25 23:11
+- **更新日::** 08/25 23:11
 
 ---
 
 ### 4. 荒らされたので掃除
-**Author:** 時透無一郎 (r0300353)
+**作成者:** 時透無一郎 (r0300353)
 
-**星評価:** 4.5 / 5 ⭐ (2)
+**星評価:** 5.0 / 5 ⭐ (2)
 
-#### Comments (1)
-- **どぬく🍑** (Aug 21, 2026 01:22am): ナイスー
+#### コメント (1)
+- **どぬく🍑** (08/21 01:22): ナイスー
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 20, 2026 12:25pm
-- **Updated At:** Aug 20, 2026 12:25pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/20 12:25
+- **更新日::** 08/20 12:25
 
 ---
 
 ## 管理者のみの連絡
 
 ### 1. 自分の部屋作り直しました。ぜひ来てください
-**Author:** 時透無一郎 (r0300353)
+**作成者:** 時透無一郎 (r0300353)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://padlet.com/r0300353/padlet-lus6xgi9uq4t6brj)
+[添付ファイル 1](https://padlet.com/r0300353/padlet-lus6xgi9uq4t6brj)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 02, 2026 12:32pm
-- **Updated At:** Sep 02, 2026 12:32pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/02 12:32
+- **更新日::** 09/02 12:32
 
 ---
 
 ### 2. 管理者以外書いたら消すからね
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 30, 2026 11:29pm
-- **Updated At:** Aug 30, 2026 11:29pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/30 23:29
+- **更新日::** 08/30 23:29
 
 ---
 
 ## 自己紹介
 
-### 1. Post 1
-**Author:** そーりー (999d3145fe729ae4)
+### 1. 投稿 1
+**作成者:** そーりー (999d3145fe729ae4)
 
 そーりーですね！小５男！よろしく！
 
@@ -112,40 +112,40 @@
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/999d3145fe729ae4/padlet-cjhtyqb6wxocctbl?lang=ja)
+[添付ファイル 1](https://padlet.com/999d3145fe729ae4/padlet-cjhtyqb6wxocctbl?lang=ja)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 04, 2026 01:32pm
-- **Updated At:** Sep 04, 2026 01:32pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/04 13:32
+- **更新日::** 09/04 13:32
 
 ---
 
 ### 2. 悪って言います
-**Author:** 悪
+**作成者:** 悪
 
 **星評価:** 2.0 / 5 ⭐ (1)
 
-#### Comments (9)
-- **星霧　真冬** (Sep 03, 2026 04:52am): あ
-- **らぴ** (Sep 03, 2026 04:55am): よろ
-- **らぴ** (Sep 03, 2026 11:12am): ٩( 'ω' )و
-- **悪意** (Sep 03, 2026 12:33pm): アイコン変えました
-- **悪意** (Sep 03, 2026 12:33pm): 悪意になってるけど許して
-- **らぴ** (Sep 03, 2026 11:18pm): 悪意〜
-- **らぴ** (Sep 03, 2026 11:19pm): ウチも自分のチャットから入ったからアイコン見えるよー
-- **Blue Walker** (Sep 04, 2026 02:33am): こんちわ
-- **悪意** (Sep 05, 2026 12:52am): こんちくわ
+#### コメント (9)
+- **星霧　真冬** (09/03 04:52): あ
+- **らぴ** (09/03 04:55): よろ
+- **らぴ** (09/03 11:12): ٩( 'ω' )و
+- **悪意** (09/03 12:33): アイコン変えました
+- **悪意** (09/03 12:33): 悪意になってるけど許して
+- **らぴ** (09/03 23:18): 悪意〜
+- **らぴ** (09/03 23:19): ウチも自分のチャットから入ったからアイコン見えるよー
+- **Blue Walker** (09/04 02:33): こんちわ
+- **悪意** (09/05 00:52): こんちくわ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 03, 2026 04:52am
-- **Updated At:** Sep 03, 2026 04:52am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/03 04:52
+- **更新日::** 09/03 04:52
 
 ---
 
 ### 3. らぴですよろしく٩( 'ω' )و
-**Author:** らぴ
+**作成者:** らぴ
 
 ねむ〜(\_ \_).｡o○
 
@@ -157,279 +157,279 @@
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (6)
-- **星霧　真冬** (Sep 03, 2026 03:25am): よろ
-- **らぴ** (Sep 03, 2026 03:25am): ∩^ω^∩
-- **悪** (Sep 03, 2026 04:52am): こん
-- **星霧　真冬** (Sep 03, 2026 04:52am): ｱﾊﾊﾊ、、
-- **らぴ** (Sep 03, 2026 04:54am): こんちゃ
-- **らぴ** (Sep 03, 2026 07:23am): ٩( 'ω' )و
+#### コメント (6)
+- **星霧　真冬** (09/03 03:25): よろ
+- **らぴ** (09/03 03:25): ∩^ω^∩
+- **悪** (09/03 04:52): こん
+- **星霧　真冬** (09/03 04:52): ｱﾊﾊﾊ、、
+- **らぴ** (09/03 04:54): こんちゃ
+- **らぴ** (09/03 07:23): ٩( 'ω' )و
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 03, 2026 03:24am
-- **Updated At:** Sep 03, 2026 05:20am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/03 03:24
+- **更新日::** 09/03 05:20
 
 ---
 
 ### 4. zppです
-**Author:** ZPP (11220020_2)
+**作成者:** ZPP (11220020_2)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **ZPP** (Sep 03, 2026 01:21am): https://padlet.com/11220020_2/padlet-s0236w0pgs5rrze86loh?lang=ja
-- **ZPP** (Sep 03, 2026 01:21am): https://padlet.com/11220020_2/padlet-s0236w0pgs5rrze86loh?lang=ja
+#### コメント (2)
+- **ZPP** (09/03 01:21): https://padlet.com/11220020_2/padlet-s0236w0pgs5rrze86loh?lang=ja
+- **ZPP** (09/03 01:21): https://padlet.com/11220020_2/padlet-s0236w0pgs5rrze86loh?lang=ja
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 03, 2026 01:21am
-- **Updated At:** Sep 03, 2026 01:21am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/03 01:21
+- **更新日::** 09/03 01:21
 
 ---
 
 ### 5. どこうも皆さんこんにちはフォートナイトDFM所属の人ですよろしくお願いします　　世界プロです
-**Author:** フォートナイト世界プロ
+**作成者:** フォートナイト世界プロ
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (4)
-- **どぬく🍑** (Sep 02, 2026 10:37pm): ほんとかぁ〜？
-- **らぴ** (Sep 03, 2026 04:03am): 尊敬✨
-- **らぴ** (Sep 03, 2026 11:17am): ٩(๑❛ᴗ❛๑)۶
-- **悪意** (Sep 05, 2026 12:53am): ほんとか怪しむ！かも？
+#### コメント (4)
+- **どぬく🍑** (09/02 22:37): ほんとかぁ〜？
+- **らぴ** (09/03 04:03): 尊敬✨
+- **らぴ** (09/03 11:17): ٩(๑❛ᴗ❛๑)۶
+- **悪意** (09/05 00:53): ほんとか怪しむ！かも？
 
-#### Reactions
-- **Emojis:** ❤️ (1)
+#### リアクション
+- **絵文字:** ❤️ (1)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 02, 2026 12:08pm
-- **Updated At:** Sep 02, 2026 12:08pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/02 12:08
+- **更新日::** 09/02 12:08
 
 ---
 
 ### 6. よろしくオネシャス
-**Author:** カマキリ (00221133)
+**作成者:** カマキリ (00221133)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **どぬく🍑** (Sep 02, 2026 10:37pm): よろ！
+#### コメント (1)
+- **どぬく🍑** (09/02 22:37): よろ！
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 02, 2026 09:42am
-- **Updated At:** Sep 02, 2026 09:42am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/02 09:42
+- **更新日::** 09/02 09:42
 
 ---
 
 ### 7. こんちは〜星霧です〜！よろしくお願いします
-**Author:** 星霧　真冬
+**作成者:** 星霧　真冬
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **どぬく🍑** (Sep 02, 2026 10:37pm): 本名だったらやめた方がいいよ
-- **星霧　真冬** (Sep 03, 2026 03:10am): 本名じゃないので安心してくだい！
-- **らぴ** (Sep 03, 2026 11:17am): よろ！
+#### コメント (3)
+- **どぬく🍑** (09/02 22:37): 本名だったらやめた方がいいよ
+- **星霧　真冬** (09/03 03:10): 本名じゃないので安心してくだい！
+- **らぴ** (09/03 11:17): よろ！
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 02, 2026 07:18am
-- **Updated At:** Sep 02, 2026 07:18am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/02 07:18
+- **更新日::** 09/02 07:18
 
 ---
 
 ### 8. こんにちは新参者ですよろしく
-**Author:** 常に眠いひと (h2822110)
+**作成者:** 常に眠いひと (h2822110)
 
 ふぁぁ。ねみい(-\_-)zzz
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **どぬく🍑** (Sep 02, 2026 10:38pm): よろ！
-- **らぴ** (Sep 03, 2026 07:22am): 眠いのは同じw
+#### コメント (2)
+- **どぬく🍑** (09/02 22:38): よろ！
+- **らぴ** (09/03 07:22): 眠いのは同じw
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 02, 2026 06:59am
-- **Updated At:** Sep 02, 2026 06:59am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/02 06:59
+- **更新日::** 09/02 06:59
 
 ---
 
 ### 9. ブロスタ、やりたいです！オシエテクダサイ
-**Author:** ドピュドピュ
+**作成者:** ドピュドピュ
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **どぬく🍑** (Sep 02, 2026 10:38pm): ゲームのとこの下にあるよ
+#### コメント (1)
+- **どぬく🍑** (09/02 22:38): ゲームのとこの下にあるよ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 02, 2026 04:14am
-- **Updated At:** Sep 02, 2026 04:14am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/02 04:14
+- **更新日::** 09/02 04:14
 
 ---
 
 ### 10. ブロスタ欲しいですお願いします
-**Author:** ドピュドピュ
+**作成者:** ドピュドピュ
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 02, 2026 02:52am
-- **Updated At:** Sep 02, 2026 02:52am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/02 02:52
+- **更新日::** 09/02 02:52
 
 ---
 
 ### 11. こんちは
-**Author:** あおい
+**作成者:** あおい
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **どぬく🍑** (Sep 02, 2026 02:38am): こんにちは！
+#### コメント (1)
+- **どぬく🍑** (09/02 02:38): こんにちは！
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 01, 2026 11:43pm
-- **Updated At:** Sep 01, 2026 11:43pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/01 23:43
+- **更新日::** 09/01 23:43
 
 ---
 
 ### 12. こんにちは
-**Author:** レモン (h2120049_1)
+**作成者:** レモン (h2120049_1)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **どぬく🍑** (Sep 02, 2026 02:38am): こんにちは！
+#### コメント (1)
+- **どぬく🍑** (09/02 02:38): こんにちは！
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 01, 2026 11:37pm
-- **Updated At:** Sep 01, 2026 11:37pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/01 23:37
+- **更新日::** 09/01 23:37
 
 ---
 
 ### 13. こんにちわからぴちの度ぬくが大好きです！
-**Author:** どぬく (h2822102)
+**作成者:** どぬく (h2822102)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **どぬく🍑** (Sep 02, 2026 10:38pm): わかる〜
+#### コメント (1)
+- **どぬく🍑** (09/02 22:38): わかる〜
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 01, 2026 01:08pm
-- **Updated At:** Sep 01, 2026 01:08pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/01 13:08
+- **更新日::** 09/01 13:08
 
 ---
 
 ### 14. こんにちは新規です！
-**Author:** ただのゲーム好き
+**作成者:** ただのゲーム好き
 
 ゲーム大好きです！
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **らぴ** (Sep 03, 2026 04:07am): 自分もです！
+#### コメント (1)
+- **らぴ** (09/03 04:07): 自分もです！
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 01, 2026 02:46am
-- **Updated At:** Sep 01, 2026 02:46am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/01 02:46
+- **更新日::** 09/01 02:46
 
 ---
 
 ### 15. Rいる？
-**Author:** titan tv man 3.0 (21070019_1)
+**作成者:** titan tv man 3.0 (21070019_1)
 
 **星評価:** 4.5 / 5 ⭐ (2)
 
-#### Comments (6)
-- **R** (Aug 20, 2026 06:23am): うん
-- **Blue Walker** (Aug 21, 2026 12:32am): いるよ
-- **Blue Walker** (Aug 21, 2026 09:26am): Black b-sideいたらさ、スクールタクトのとこで話そう
-- **Blue Walker** (Aug 21, 2026 09:27am): って言おうと思ったけどもう夏休み終わるから学校でね
-- **愛瑠蓏** (Aug 31, 2026 07:16am): こんにちは  
-- **Blue Walker** (Aug 31, 2026 11:05am): こんちわ
+#### コメント (6)
+- **R** (08/20 06:23): うん
+- **Blue Walker** (08/21 00:32): いるよ
+- **Blue Walker** (08/21 09:26): Black b-sideいたらさ、スクールタクトのとこで話そう
+- **Blue Walker** (08/21 09:27): って言おうと思ったけどもう夏休み終わるから学校でね
+- **愛瑠蓏** (08/31 07:16): こんにちは  
+- **Blue Walker** (08/31 11:05): こんちわ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 20, 2026 01:57am
-- **Updated At:** Aug 20, 2026 01:57am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/20 01:57
+- **更新日::** 08/20 01:57
 
 ---
 
 ### 16. よろ
-**Author:** バスケ大好きパート3 (73956824278)
+**作成者:** バスケ大好きパート3 (73956824278)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (3)
-- **RONALDO（偽物）** (Aug 17, 2026 11:41pm): よろしゅう
-- **R** (Aug 18, 2026 04:42am): こんちは
-- **ガチスケ** (Aug 18, 2026 09:07am): ここんにちは
+#### コメント (3)
+- **RONALDO（偽物）** (08/17 23:41): よろしゅう
+- **R** (08/18 04:42): こんちは
+- **ガチスケ** (08/18 09:07): ここんにちは
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 17, 2026 09:27pm
-- **Updated At:** Aug 17, 2026 09:27pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/17 21:27
+- **更新日::** 08/17 21:27
 
 ---
 
 ### 17. よろしく
-**Author:** シャチすけ (burosutakami)
+**作成者:** シャチすけ (burosutakami)
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-#### Comments (2)
-- **titan tv man 3.0** (Aug 17, 2026 10:19pm): よろぴく
-- **R** (Aug 20, 2026 06:58am): こんにちは
+#### コメント (2)
+- **titan tv man 3.0** (08/17 22:19): よろぴく
+- **R** (08/20 06:58): こんにちは
 
-#### Reactions
-- **Emojis:** 🎉 (1)
+#### リアクション
+- **絵文字:** 🎉 (1)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 17, 2026 11:38am
-- **Updated At:** Aug 17, 2026 11:38am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/17 11:38
+- **更新日::** 08/17 11:38
 
 ---
 
 ### 18. オウガさんがつかってるゲーム作るサイトおしえていただけませんか。
-**Author:** Ryo@shinpei (Ryo_shinpei)
+**作成者:** Ryo@shinpei (Ryo_shinpei)
 
 オネシャス
 
 **星評価:** 1.0 / 5 ⭐ (1)
 
-#### Comments (8)
-- **時透無一郎** (Aug 07, 2026 12:35pm): 管理者連絡に書かないで
-- **Ryo@shinpei** (Aug 09, 2026 10:16pm): すいませんわかりました。ごめんなさい。
-- **おうが** (Aug 12, 2026 03:00am): 僕はAIを使ってるよ
-- **Ryo@shinpei** (Aug 12, 2026 10:42am): クロードとかですか？
-- **Ryo@shinpei** (Aug 12, 2026 10:42am): ちなみにどうやって作ってるんですか？
-- **おうが** (Aug 13, 2026 05:14am): Aiにこんな感じで作ってって言ってそれをAiにこうしてとか追加とかしていく感じです
-- **Ryo@shinpei** (Aug 14, 2026 12:02am): なんのaiをお使いになられているんですか？『いろいろ聞いてすみません』
-- **おうが** (Aug 31, 2026 04:10am): ごめん遅くなったジェミニを使ってるよ
+#### コメント (8)
+- **時透無一郎** (08/07 12:35): 管理者連絡に書かないで
+- **Ryo@shinpei** (08/09 22:16): すいませんわかりました。ごめんなさい。
+- **おうが** (08/12 03:00): 僕はAIを使ってるよ
+- **Ryo@shinpei** (08/12 10:42): クロードとかですか？
+- **Ryo@shinpei** (08/12 10:42): ちなみにどうやって作ってるんですか？
+- **おうが** (08/13 05:14): Aiにこんな感じで作ってって言ってそれをAiにこうしてとか追加とかしていく感じです
+- **Ryo@shinpei** (08/14 00:02): なんのaiをお使いになられているんですか？『いろいろ聞いてすみません』
+- **おうが** (08/31 04:10): ごめん遅くなったジェミニを使ってるよ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 07, 2026 12:04pm
-- **Updated At:** Aug 07, 2026 12:36pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/07 12:04
+- **更新日::** 08/07 12:36
 
 ---
 
 ### 19. はじめまして！
-**Author:** 黒桃りう (gs215741)
+**作成者:** 黒桃りう (gs215741)
 
 黒桃りうといいます！
 
@@ -445,685 +445,686 @@ Scratchで活動してます！
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
-- **R** (Aug 08, 2026 04:57am): こんにちは
-- **どぬく🍑** (Aug 09, 2026 04:52am): 俺どぬく推し
-- **むちるん** (Aug 15, 2026 01:03pm): 俺ゆあんくん推し
-- **どぬく🍑** (Aug 16, 2026 11:30pm): 本名だったら変えた方がええで
-- **シャチすけ** (Aug 17, 2026 11:41am): スクラッチなんて名前ですか？
+#### コメント (6)
+- **R** (08/08 04:57): こんにちは
+- **どぬく🍑** (08/09 04:52): 俺どぬく推し
+- **むちるん** (08/15 13:03): 俺ゆあんくん推し
+- **どぬく🍑** (08/16 23:30): 本名だったら変えた方がええで
+- **シャチすけ** (08/17 11:41): スクラッチなんて名前ですか？
+- **常に眠いひと** (09/05 06:54): え、うちハンターハンター34巻までもってます！めっちゃ好きです
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 07, 2026 05:11am
-- **Updated At:** Aug 07, 2026 05:11am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/07 05:11
+- **更新日::** 08/07 05:11
 
 ---
 
 ### 20. 久しぶりに来てみた
-**Author:** フェットチーネしか勝たん
+**作成者:** フェットチーネしか勝たん
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **おうが** (Aug 31, 2026 04:10am): おす
+#### コメント (1)
+- **おうが** (08/31 04:10): おす
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 06, 2026 01:05pm
-- **Updated At:** Aug 06, 2026 01:05pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/06 13:05
+- **更新日::** 08/06 13:05
 
 ---
 
 ### 21. Rです。仲良くしてくれると嬉しいです！
-**Author:** R (21070007_1)
+**作成者:** R (21070007_1)
 
 よければフォローしてくださいｗ
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **R** (Aug 06, 2026 04:40am): 😆
-- **どぬく🍑** (Aug 06, 2026 07:06am): 俺のもして
+#### コメント (2)
+- **R** (08/06 04:40): 😆
+- **どぬく🍑** (08/06 07:06): 俺のもして
 
-#### Reactions
-- **Emojis:** ❤️ (1)
+#### リアクション
+- **絵文字:** ❤️ (1)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 06, 2026 04:39am
-- **Updated At:** Aug 06, 2026 04:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/06 04:39
+- **更新日::** 08/06 04:39
 
 ---
 
 ### 22. だれかいる〜〜〜〜〜〜？
-**Author:** titan tv man 3.0 (21070019_1)
+**作成者:** titan tv man 3.0 (21070019_1)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (1)
-- **R** (Aug 06, 2026 04:33am): ？
+#### コメント (1)
+- **R** (08/06 04:33): ？
 
-#### Reactions
-- **Emojis:** ❤️ (3)
+#### リアクション
+- **絵文字:** ❤️ (3)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 06, 2026 01:11am
-- **Updated At:** Aug 06, 2026 01:11am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/06 01:11
+- **更新日::** 08/06 01:11
 
 ---
 
-### 23. Post 23
-**Author:** titan tv man 3.0 (21070019_1)
+### 23. 投稿 23
+**作成者:** titan tv man 3.0 (21070019_1)
 
 きてきて！
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://padlet.com/padlets/j9stoi7ijqrt7r4e)
+[添付ファイル 1](https://padlet.com/padlets/j9stoi7ijqrt7r4e)
 
-#### Comments (1)
-- **R** (Aug 06, 2026 04:34am): ｗ
+#### コメント (1)
+- **R** (08/06 04:34): ｗ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 06, 2026 01:03am
-- **Updated At:** Aug 06, 2026 01:06am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/06 01:03
+- **更新日::** 08/06 01:06
 
 ---
 
 ### 24. Rいる？(元ゴジラです)
-**Author:** titan tv man 3.0 (21070019_1)
+**作成者:** titan tv man 3.0 (21070019_1)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
-- **titan tv man 3.0** (Aug 06, 2026 12:59am): Rいる？
-- **R** (Aug 06, 2026 04:34am): 何？
-- **Blue Walker** (Aug 06, 2026 09:27am): あ！
-- **Blue Walker** (Aug 06, 2026 09:28am): おひさ～
-- **R** (Aug 06, 2026 11:04am): ねー
+#### コメント (5)
+- **titan tv man 3.0** (08/06 00:59): Rいる？
+- **R** (08/06 04:34): 何？
+- **Blue Walker** (08/06 09:27): あ！
+- **Blue Walker** (08/06 09:28): おひさ～
+- **R** (08/06 11:04): ねー
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 06, 2026 12:58am
-- **Updated At:** Aug 06, 2026 12:58am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/06 00:58
+- **更新日::** 08/06 00:58
 
 ---
 
 ### 25. こんにちは
-**Author:** 野球選手 (s20122301)
+**作成者:** 野球選手 (s20122301)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (1)
-- **Blue Walker** (Aug 06, 2026 09:29am): こんにちは
+#### コメント (1)
+- **Blue Walker** (08/06 09:29): こんにちは
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 03, 2026 06:36am
-- **Updated At:** Aug 03, 2026 06:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/03 06:36
+- **更新日::** 08/03 06:36
 
 ---
 
 ### 26. こんにちは
-**Author:** RONAUDO（偽物）
+**作成者:** RONAUDO（偽物）
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 03, 2026 06:34am
-- **Updated At:** Aug 03, 2026 06:34am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/03 06:34
+- **更新日::** 08/03 06:34
 
 ---
 
 ### 27. こんにちは
-**Author:** RONAUDO（偽物）
+**作成者:** RONAUDO（偽物）
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 03, 2026 06:33am
-- **Updated At:** Aug 03, 2026 06:33am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/03 06:33
+- **更新日::** 08/03 06:33
 
 ---
 
 ### 28. こんにちは
-**Author:** RONAUDO（偽物）
+**作成者:** RONAUDO（偽物）
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (7)
-- **RONAUDO（偽物）** (Aug 03, 2026 06:35am): いっぱいコメントしてすいません
-- **RONAUDO（偽物）** (Aug 03, 2026 06:36am): 僕もからぴちファンです
-- **RONAUDO（偽物）** (Aug 03, 2026 06:36am): じゃっぴが好きです
-- **RONAUDO（偽物）** (Aug 03, 2026 06:38am): 返信お願い🥺
-- **どぬく🍑** (Aug 06, 2026 07:07am): 俺どぬ推し
-- **Blue Walker** (Aug 10, 2026 11:48am): こんちゃ
-- **RONALDO（偽物）** (Aug 16, 2026 02:20am): こんちゃ
+#### コメント (7)
+- **RONAUDO（偽物）** (08/03 06:35): いっぱいコメントしてすいません
+- **RONAUDO（偽物）** (08/03 06:36): 僕もからぴちファンです
+- **RONAUDO（偽物）** (08/03 06:36): じゃっぴが好きです
+- **RONAUDO（偽物）** (08/03 06:38): 返信お願い🥺
+- **どぬく🍑** (08/06 07:07): 俺どぬ推し
+- **Blue Walker** (08/10 11:48): こんちゃ
+- **RONALDO（偽物）** (08/16 02:20): こんちゃ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 03, 2026 06:33am
-- **Updated At:** Aug 03, 2026 06:33am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/03 06:33
+- **更新日::** 08/03 06:33
 
 ---
 
 ### 29. 部屋の作り方教えて
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **Blue Walker** (Aug 01, 2026 09:19am): パドレットって検索して作れるよ
+#### コメント (1)
+- **Blue Walker** (08/01 09:19): パドレットって検索して作れるよ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 01, 2026 08:00am
-- **Updated At:** Aug 01, 2026 08:00am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/01 08:00
+- **更新日::** 08/01 08:00
 
 ---
 
 ### 30. こんにちわ
-**Author:** 鈴梨　#食べ物帝国所属 (suzuriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)
+**作成者:** 鈴梨　#食べ物帝国所属 (suzuriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)
 
 すずりです
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **BIRUSU** (Jul 25, 2026 11:16am): konnitiwa
-- **Blue Walker** (Aug 01, 2026 09:19am): こんちゃ
+#### コメント (2)
+- **BIRUSU** (07/25 11:16): konnitiwa
+- **Blue Walker** (08/01 09:19): こんちゃ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 24, 2026 03:38am
-- **Updated At:** Jul 24, 2026 03:38am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/24 03:38
+- **更新日::** 07/24 03:38
 
 ---
 
-### 31. Post 31
-**Author:** マグロ大好き
+### 31. 投稿 31
+**作成者:** マグロ大好き
 
 今誰かいますか？
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **BIRUSU** (Jul 25, 2026 11:16am): imasu
+#### コメント (1)
+- **BIRUSU** (07/25 11:16): imasu
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 23, 2026 12:08pm
-- **Updated At:** Jul 23, 2026 12:08pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/23 12:08
+- **更新日::** 07/23 12:08
 
 ---
 
 ### 32. 規制突破の世界２
-**Author:** BIRUSU
+**作成者:** BIRUSU
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/gs214313/padlet-q37tnyv3fwyi818k)
+[添付ファイル 1](https://padlet.com/gs214313/padlet-q37tnyv3fwyi818k)
 
-#### Comments (1)
-- **やーこんにちは** (Jul 22, 2026 11:53am): ふーん
+#### コメント (1)
+- **やーこんにちは** (07/22 11:53): ふーん
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 22, 2026 12:42am
-- **Updated At:** Jul 22, 2026 12:42am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/22 00:42
+- **更新日::** 07/22 00:42
 
 ---
 
 ### 33. BIRUSUdesuyorosiku
-**Author:** BIRUSU
+**作成者:** BIRUSU
 
 よろ
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
-- **時透無一郎** (Jul 20, 2026 01:02am): よろ
-- **BIRUSU** (Jul 20, 2026 01:11am): konnty
-- **BIRUSU** (Jul 20, 2026 01:12am): 規制突破の世界２しっているひといる？
-- **おうが** (Jul 21, 2026 10:16am): 知らないw
-- **BIRUSU** (Jul 22, 2026 12:40am): やってみな
+#### コメント (5)
+- **時透無一郎** (07/20 01:02): よろ
+- **BIRUSU** (07/20 01:11): konnty
+- **BIRUSU** (07/20 01:12): 規制突破の世界２しっているひといる？
+- **おうが** (07/21 10:16): 知らないw
+- **BIRUSU** (07/22 00:40): やってみな
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 20, 2026 12:45am
-- **Updated At:** Jul 20, 2026 12:45am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/20 00:45
+- **更新日::** 07/20 00:45
 
 ---
 
-### 34. Post 34
-**Author:** naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員 (naganegitamanegi)
+### 34. 投稿 34
+**作成者:** naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員 (naganegitamanegi)
 
 ゲーム
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://mathcordxp.github.io/)
+[添付ファイル 1](https://mathcordxp.github.io/)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 18, 2026 12:28pm
-- **Updated At:** Jul 18, 2026 12:28pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/18 12:28
+- **更新日::** 07/18 12:28
 
 ---
 
-### 35. Post 35
-**Author:** naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員 (naganegitamanegi)
+### 35. 投稿 35
+**作成者:** naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員 (naganegitamanegi)
 
 ゲーム
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://dailyportalz.jp/backnumber/ogiwara)
+[添付ファイル 1](https://dailyportalz.jp/backnumber/ogiwara)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 18, 2026 12:26pm
-- **Updated At:** Jul 18, 2026 12:27pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/18 12:26
+- **更新日::** 07/18 12:27
 
 ---
 
-### 36. Post 36
-**Author:** naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員 (naganegitamanegi)
+### 36. 投稿 36
+**作成者:** naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員 (naganegitamanegi)
 
 ゲーム
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://24glo.com/game/index.html)
+[添付ファイル 1](https://24glo.com/game/index.html)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 18, 2026 12:25pm
-- **Updated At:** Jul 18, 2026 12:26pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/18 12:25
+- **更新日::** 07/18 12:26
 
 ---
 
 ### 37. こんばんは
-**Author:** naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員 (naganegitamanegi)
+**作成者:** naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員 (naganegitamanegi)
 
 **星評価:** 0 / 5 ⭐
 
 ![長ネギ](https://genai-public.padletcdn.com/disco/prod/imagen/1783990218835/sample_0.png)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 18, 2026 12:22pm
-- **Updated At:** Jul 18, 2026 12:22pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/18 12:22
+- **更新日::** 07/18 12:22
 
 ---
 
 ### 38. こんにちわ
-**Author:** つむまる🍒🍐 (tsumumaru)
+**作成者:** つむまる🍒🍐 (tsumumaru)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/padlets/fbdzb32744sftr62)
+[添付ファイル 1](https://padlet.com/padlets/fbdzb32744sftr62)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 18, 2026 11:13am
-- **Updated At:** Jul 18, 2026 11:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/18 11:13
+- **更新日::** 07/18 11:13
 
 ---
 
 ### 39. ヒカキン音声
-**Author:** BIRUSU
+**作成者:** BIRUSU
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://www.myinstants.com/ja/search/?name=hikakin)
+[添付ファイル 1](https://www.myinstants.com/ja/search/?name=hikakin)
 
-#### Comments (2)
-- **Blue Walker** (Jul 21, 2026 07:59am): ｗｗｗ
-- **Blue Walker** (Jul 21, 2026 07:59am): おもろ
+#### コメント (2)
+- **Blue Walker** (07/21 07:59): ｗｗｗ
+- **Blue Walker** (07/21 07:59): おもろ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 18, 2026 11:08am
-- **Updated At:** Jul 18, 2026 11:08am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/18 11:08
+- **更新日::** 07/18 11:08
 
 ---
 
 ### 40. 頑張って作ったので気軽に入ってみてください。
-**Author:** R (21070007_1)
+**作成者:** R (21070007_1)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/21070007_1/padlet-etdcl2ty1irlx1v2)
+[添付ファイル 1](https://padlet.com/21070007_1/padlet-etdcl2ty1irlx1v2)
 
-#### Comments (2)
-- **Blue Walker** (Jul 17, 2026 11:17am): おｋ
-- **BIRUSU** (Jul 18, 2026 04:08am): おｋ
+#### コメント (2)
+- **Blue Walker** (07/17 11:17): おｋ
+- **BIRUSU** (07/18 04:08): おｋ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 17, 2026 09:34am
-- **Updated At:** Jul 17, 2026 09:34am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/17 09:34
+- **更新日::** 07/17 09:34
 
 ---
 
 ### 41. 同じく
-**Author:** Blue Walker (21070045_2)
+**作成者:** Blue Walker (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9)
+[添付ファイル 1](https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9)
 
-#### Comments (2)
-- **Blue Walker** (Jul 17, 2026 07:56am): 入ってください
-- **BIRUSU** (Jul 18, 2026 04:08am): おｋ
+#### コメント (2)
+- **Blue Walker** (07/17 07:56): 入ってください
+- **BIRUSU** (07/18 04:08): おｋ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 17, 2026 07:56am
-- **Updated At:** Jul 17, 2026 07:56am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/17 07:56
+- **更新日::** 07/17 07:56
 
 ---
 
-### 42. Post 42
-**Author:** コイケトモユキ (gs214313)
+### 42. 投稿 42
+**作成者:** コイケトモユキ (gs214313)
 
 ここにみんなよかったら来て！！
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/gs214313/padlet-q37tnyv3fwyi818k)
+[添付ファイル 1](https://padlet.com/gs214313/padlet-q37tnyv3fwyi818k)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 17, 2026 01:06am
-- **Updated At:** Jul 17, 2026 01:06am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/17 01:06
+- **更新日::** 07/17 01:06
 
 ---
 
-### 43. Post 43
-**Author:** コイケトモユキ (gs214313)
+### 43. 投稿 43
+**作成者:** コイケトモユキ (gs214313)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/gs214313/padlet-q37tnyv3fwyi818k)
+[添付ファイル 1](https://padlet.com/gs214313/padlet-q37tnyv3fwyi818k)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 17, 2026 01:05am
-- **Updated At:** Jul 17, 2026 01:05am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/17 01:05
+- **更新日::** 07/17 01:05
 
 ---
 
-### 44. Post 44
-**Author:** Blue Walker (21070045_2)
+### 44. 投稿 44
+**作成者:** Blue Walker (21070045_2)
 
 新しく作り直したので入ってください
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9)
+[添付ファイル 1](https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9)
 
-#### Comments (1)
-- **Blue Walker** (Jul 16, 2026 11:25am): お願いします
+#### コメント (1)
+- **Blue Walker** (07/16 11:25): お願いします
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 11:24am
-- **Updated At:** Jul 16, 2026 11:24am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 11:24
+- **更新日::** 07/16 11:24
 
 ---
 
 ### 45. じゃまた
-**Author:** r
+**作成者:** r
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
-- **Blue Walker** (Jul 16, 2026 11:11am): いるよ
-- **Blue Walker** (Jul 16, 2026 11:11am): 明日でいい?
-- **r** (Jul 16, 2026 11:17am): いまいる？
-- **r** (Jul 16, 2026 11:18am): 明日にする？
-- **Blue Walker** (Jul 16, 2026 11:20am): いまいる
+#### コメント (5)
+- **Blue Walker** (07/16 11:11): いるよ
+- **Blue Walker** (07/16 11:11): 明日でいい?
+- **r** (07/16 11:17): いまいる？
+- **r** (07/16 11:18): 明日にする？
+- **Blue Walker** (07/16 11:20): いまいる
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 11:09am
-- **Updated At:** Jul 16, 2026 11:09am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 11:09
+- **更新日::** 07/16 11:09
 
 ---
 
 ### 46. 8時だよ
-**Author:** r
+**作成者:** r
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **時透無一郎** (Jul 16, 2026 10:42pm): 全員集合！
-- **Blue Walker** (Jul 17, 2026 11:20am): ｗｗ
-- **Blue Walker** (Jul 17, 2026 11:20am): ８時ダヨォ！
+#### コメント (3)
+- **時透無一郎** (07/16 22:42): 全員集合！
+- **Blue Walker** (07/17 11:20): ｗｗ
+- **Blue Walker** (07/17 11:20): ８時ダヨォ！
 
-#### Additional Information
-- **Post color:** Blue
-- **Created At:** Jul 16, 2026 11:01am
-- **Updated At:** Jul 16, 2026 11:01am
+#### その他の情報
+- **投稿のカラー:** ブルー
+- **作成日::** 07/16 11:01
+- **更新日::** 07/16 11:01
 
 ---
 
 ### 47. GPいる？
-**Author:** r
+**作成者:** r
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Blue
-- **Created At:** Jul 16, 2026 10:58am
-- **Updated At:** Jul 16, 2026 10:59am
+#### その他の情報
+- **投稿のカラー:** ブルー
+- **作成日::** 07/16 10:58
+- **更新日::** 07/16 10:59
 
 ---
 
 ### 48. GPいまいる？
-**Author:** r
+**作成者:** r
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 08:55am
-- **Updated At:** Jul 16, 2026 08:55am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 08:55
+- **更新日::** 07/16 08:55
 
 ---
 
 ### 49. ｒいまいる？
-**Author:** Blue Walker (21070045_2)
+**作成者:** Blue Walker (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (20)
-- **r** (Jul 16, 2026 08:55am): うん
-- **r** (Jul 16, 2026 08:55am): いまいる？
-- **Blue Walker** (Jul 16, 2026 08:56am): いるよ
-- **Blue Walker** (Jul 16, 2026 08:57am): てかさ、ｒもう一人いるよね
-- **r** (Jul 16, 2026 08:57am): ね
-- **r** (Jul 16, 2026 08:58am): ？
-- **r** (Jul 16, 2026 08:58am): ？
-- **Blue Walker** (Jul 16, 2026 08:58am): ｓｈｒｘｂｄ
-- **r** (Jul 16, 2026 08:59am): は？
-- **r** (Jul 16, 2026 08:59am): だいじょうぶ？
-- **Blue Walker** (Jul 16, 2026 08:59am): ミーティングのURL持ってる?
-- **r** (Jul 16, 2026 08:59am): ❌
-- **Blue Walker** (Jul 16, 2026 08:59am): 探してくる
-- **r** (Jul 16, 2026 08:59am): もってるの？
-- **r** (Jul 16, 2026 08:59am): あ
-- **r** (Jul 16, 2026 09:00am): もってる
-- **r** (Jul 16, 2026 09:00am): https://meet.stuvus.uni-stuttgart.de/話そ
-- **Blue Walker** (Jul 16, 2026 09:00am): https://meet.stuvus.uni-stuttgart.de/%E3%81%BF%E3%82%93%E3%81%AA
-- **Blue Walker** (Jul 16, 2026 09:00am): こっち
-- **r** (Jul 16, 2026 09:01am): おk
+#### コメント (20)
+- **r** (07/16 08:55): うん
+- **r** (07/16 08:55): いまいる？
+- **Blue Walker** (07/16 08:56): いるよ
+- **Blue Walker** (07/16 08:57): てかさ、ｒもう一人いるよね
+- **r** (07/16 08:57): ね
+- **r** (07/16 08:58): ？
+- **r** (07/16 08:58): ？
+- **Blue Walker** (07/16 08:58): ｓｈｒｘｂｄ
+- **r** (07/16 08:59): は？
+- **r** (07/16 08:59): だいじょうぶ？
+- **Blue Walker** (07/16 08:59): ミーティングのURL持ってる?
+- **r** (07/16 08:59): ❌
+- **Blue Walker** (07/16 08:59): 探してくる
+- **r** (07/16 08:59): もってるの？
+- **r** (07/16 08:59): あ
+- **r** (07/16 09:00): もってる
+- **r** (07/16 09:00): https://meet.stuvus.uni-stuttgart.de/話そ
+- **Blue Walker** (07/16 09:00): https://meet.stuvus.uni-stuttgart.de/%E3%81%BF%E3%82%93%E3%81%AA
+- **Blue Walker** (07/16 09:00): こっち
+- **r** (07/16 09:01): おk
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 08:44am
-- **Updated At:** Jul 16, 2026 08:44am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 08:44
+- **更新日::** 07/16 08:44
 
 ---
 
 ### 50. 6じにする？
-**Author:** r
+**作成者:** r
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **Blue Walker** (Jul 16, 2026 08:40am): いや今でいい
+#### コメント (1)
+- **Blue Walker** (07/16 08:40): いや今でいい
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 08:35am
-- **Updated At:** Jul 16, 2026 08:35am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 08:35
+- **更新日::** 07/16 08:35
 
 ---
 
 ### 51. 遅れてごめん
-**Author:** r
+**作成者:** r
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 08:33am
-- **Updated At:** Jul 16, 2026 08:33am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 08:33
+- **更新日::** 07/16 08:33
 
 ---
 
 ### 52. GPー
-**Author:** r
+**作成者:** r
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 08:33am
-- **Updated At:** Jul 16, 2026 08:33am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 08:33
+- **更新日::** 07/16 08:33
 
 ---
 
 ### 53. こい　ゴジラ
-**Author:** r
+**作成者:** r
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (8)
-- **r** (Jul 16, 2026 06:27am): こーーーーい
-- **r** (Jul 16, 2026 06:29am): まだか
-- **r** (Jul 16, 2026 06:29am): おそーい
-- **r** (Jul 16, 2026 06:32am): まだ？
-- **Blue Walker** (Jul 16, 2026 08:08am): ごめん遊んでた
-- **Blue Walker** (Jul 16, 2026 08:08am): 5時半でいい?
-- **r** (Jul 16, 2026 08:32am): おk
-- **Blue Walker** (Jul 16, 2026 08:39am): はろー
+#### コメント (8)
+- **r** (07/16 06:27): こーーーーい
+- **r** (07/16 06:29): まだか
+- **r** (07/16 06:29): おそーい
+- **r** (07/16 06:32): まだ？
+- **Blue Walker** (07/16 08:08): ごめん遊んでた
+- **Blue Walker** (07/16 08:08): 5時半でいい?
+- **r** (07/16 08:32): おk
+- **Blue Walker** (07/16 08:39): はろー
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 06:27am
-- **Updated At:** Jul 16, 2026 06:27am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 06:27
+- **更新日::** 07/16 06:27
 
 ---
 
 ### 54. 3時半ね
-**Author:** r
+**作成者:** r
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **r** (Jul 16, 2026 06:02am): じゃ
+#### コメント (1)
+- **r** (07/16 06:02): じゃ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 06:02am
-- **Updated At:** Jul 16, 2026 06:02am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 06:02
+- **更新日::** 07/16 06:02
 
 ---
 
 ### 55. 3時だぞ！
-**Author:** r
+**作成者:** r
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **Blue Walker** (Jul 16, 2026 08:17am): うん
+#### コメント (1)
+- **Blue Walker** (07/16 08:17): うん
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 06:00am
-- **Updated At:** Jul 16, 2026 06:00am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 06:00
+- **更新日::** 07/16 06:00
 
 ---
 
 ### 56. まだか？
-**Author:** r
+**作成者:** r
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 06:00am
-- **Updated At:** Jul 16, 2026 06:00am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 06:00
+- **更新日::** 07/16 06:00
 
 ---
 
 ### 57. 友達が描いてくれた、かわいくない？
-**Author:** r
+**作成者:** r
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5962375268/ac6ed9898afc26ce9a73ba8e19a1a481/IMG_2824.jpeg?Expires=1789193937&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ckmZg21fE8Lz0t5Ba4JeBX74AkBpbH0IhfPEhLSFS%2B3MjiK0pCW6g8iH4jw%2BveYNNSQq7zOgU8thkQ3GcZKknEZt3uRqHy09HJr2YU5fB%2BSzZCmkdqmhWn7mCZZCxDOLyQf6YYYjftBSsh72XScImuMGdgXIeI7sdqPwmMXoTICQ0iLkPJ9he3KG%2B%2Bu3qcAZ4PIzzKgx0ron3rkuY%2B%2FqcOJFaWl%2BPJuoUNwpP%2FQkIjeUsQTdleUx0HGpzfw4b7lSTb%2BrdmLGQ0eGlXMpq4%2FA2TaQL0fdxmPcHPU20c88cxmxRmPEGe2Gd6OnyoEzFrqpRr50XUt1tnRXIIKdf%2Bm7xg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5962375268%2Fac6ed9898afc26ce9a73ba8e19a1a481%2FIMG_2824.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5962375268/ac6ed9898afc26ce9a73ba8e19a1a481/IMG_2824.jpeg?Expires=1789196253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jJQ1xECPpYkZ1rQkv0FasTY2rGPHGt%2BcdEb8XO7ooN8s052FVHuPdy21xTBzuK2yhXXG5AAOI41aKwpdn8YjS95G7yNz2LumwZtW4mzn9b%2FDidYrSxcVK0srKRwvHVRalUPi8KZgxKgf%2BxOKNFytpoH1tA4djbXeZUpbuPNuM8iygXdn82MwtSz8Dn%2B42I%2BWS%2F9OQJKdptLLuXJvS%2F6564d47Tj9vhJcnQmYvt1150ShwFXNPd2280988%2F0w9hvdRPDwcCKOnwsXAZUbJ4WVsDntXKVfNR8jacK%2Bw4%2FhpZdBFq%2FJtp1W3B52rZKnmsHq19KOyZutTepW2d88mip5%2Bw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5962375268%2Fac6ed9898afc26ce9a73ba8e19a1a481%2FIMG_2824.jpeg)
 
-#### Comments (1)
-- **BIRUSU** (Jul 18, 2026 11:07am): うん・・・・・
+#### コメント (1)
+- **BIRUSU** (07/18 11:07): うん・・・・・
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 05:55am
-- **Updated At:** Jul 16, 2026 05:55am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 05:55
+- **更新日::** 07/16 05:55
 
 ---
 
 ### 58. まだ？
-**Author:** r
+**作成者:** r
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **r** (Jul 16, 2026 05:39am): まだ？
+#### コメント (1)
+- **r** (07/16 05:39): まだ？
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 05:12am
-- **Updated At:** Jul 16, 2026 05:12am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 05:12
+- **更新日::** 07/16 05:12
 
 ---
 
 ### 59. VIVANT知ってる人いる？
-**Author:** Blue Walker (21070045_2)
+**作成者:** Blue Walker (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **BIRUSU** (Jul 18, 2026 11:07am): いる
+#### コメント (1)
+- **BIRUSU** (07/18 11:07): いる
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 02:47am
-- **Updated At:** Jul 16, 2026 02:47am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 02:47
+- **更新日::** 07/16 02:47
 
 ---
 
 ### 60. 最悪ノ自体、信念貫き生きているならばきっとだけど、愛されて死ねる。
-**Author:** あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長 (tdz410pyh1)
+**作成者:** あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長 (tdz410pyh1)
 
 間違って、アカウント削除してしまった。。
 
@@ -1135,105 +1136,105 @@ Scratchで活動してます！
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5956111832/064c67d781371544e3ff7ecc6383902d/images__9_.jpeg?Expires=1789193937&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=i99oTm669F%2BCAkjCks%2F08gDH%2B5ZsM2lVE60acJ9LxO%2BGWM9UViF9W8z1tV0HB%2FtUA2ii3rhuiMZdNGhxAFTketlbxl%2FsNDVwySXtmsfAecRrL8XzDz%2BbjCtLLOFvfR0fk7v%2FCiDzdKzTIuBcs67ZrtTH8%2B8x8M2AXSNVxwLWW%2F%2F70Oo1ojJ7IDDsOacWw68TnWYhibMVNEXL0hxZ4UN2VrLc041oSolokaXR29QqLp8ue2M9El7Clk110LbjqT%2BQg%2FjzF7r1HLajm2ifiCdtGY0P6%2Fqh7mKhrJVAoB%2BHHwARpNeZcWobFpZw15ehosHM2QCRO5k4IdZZwvPwavScrA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5956111832%2F064c67d781371544e3ff7ecc6383902d%2Fimages__9_.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5956111832/064c67d781371544e3ff7ecc6383902d/images__9_.jpeg?Expires=1789196253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tajwM80nighBnCmxYnuZI5qWpFGwfS5vM8M7AHRJXVOkDXvcFXaoUhJuHcwtdvEhmV%2BinAi73Pvj%2BPiVwmoGvE5sbvcmKN8Cr18v1kvi7exMhVgMmZrPPiMD%2FAvqij5zpJuOus%2Bt9pBCrw2GIDlh8lJ4vZ5Kr5Z5aTPy%2B9bg8J6%2FMJvev25nUiEc2eIAX3dMQFnAR8TbGFuVgdx5PD13vTzq%2FPYoVu4f92uuzWw8t9I%2BqSRj0qeZKOxQuh0u%2FFH43t82sIy155WtOwI%2Bm3sphdxiEgHJKmOhNZ8iPFNBzi7jgbw8w%2FYp4Gd2F%2FgYErhkajiqqmlILllGmmCI4oLV1Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5956111832%2F064c67d781371544e3ff7ecc6383902d%2Fimages__9_.jpeg)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 14, 2026 10:05pm
-- **Updated At:** Jul 14, 2026 10:05pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/14 22:05
+- **更新日::** 07/14 22:05
 
 ---
 
-### 61. Post 61
-**Author:** Blue Walker (21070045_2)
+### 61. 投稿 61
+**作成者:** Blue Walker (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9)
+[添付ファイル 1](https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9)
 
-#### Comments (2)
-- **Blue Walker** (Jul 14, 2026 12:25am): 荒らされたのでもう一回作りました
-- **どぬく🍑** (Jul 14, 2026 12:28am): おー
+#### コメント (2)
+- **Blue Walker** (07/14 00:25): 荒らされたのでもう一回作りました
+- **どぬく🍑** (07/14 00:28): おー
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 14, 2026 12:25am
-- **Updated At:** Jul 14, 2026 12:25am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/14 00:25
+- **更新日::** 07/14 00:25
 
 ---
 
 ### 62. 悲しい
-**Author:** Blue Walker (21070045_2)
+**作成者:** Blue Walker (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 13, 2026 03:01am
-- **Updated At:** Jul 13, 2026 03:01am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/13 03:01
+- **更新日::** 07/13 03:01
 
 ---
 
 ### 63. Jr.3号ーーーー名前変やした
-**Author:** Jr.3号
+**作成者:** Jr.3号
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Additional Information
-- **Post color:** Green
-- **Created At:** Jul 12, 2026 01:41am
-- **Updated At:** Jul 12, 2026 01:41am
+#### その他の情報
+- **投稿のカラー:** グリーン
+- **作成日::** 07/12 01:41
+- **更新日::** 07/12 01:41
 
 ---
 
 ### 64. こんちわ
-**Author:** Jr.2号
+**作成者:** Jr.2号
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **Jr.2号** (Jul 12, 2026 01:30am): 新しくきた
+#### コメント (1)
+- **Jr.2号** (07/12 01:30): 新しくきた
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 12, 2026 01:29am
-- **Updated At:** Jul 12, 2026 01:29am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/12 01:29
+- **更新日::** 07/12 01:29
 
 ---
 
 ### 65. Rさんいますか？
-**Author:** 暇人two Time
+**作成者:** 暇人two Time
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **R** (Jul 11, 2026 11:50pm): いるで
-- **R** (Jul 12, 2026 12:08am): 　あと雑談みて〜
+#### コメント (2)
+- **R** (07/11 23:50): いるで
+- **R** (07/12 00:08): 　あと雑談みて〜
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 11, 2026 12:39pm
-- **Updated At:** Jul 11, 2026 12:39pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/11 12:39
+- **更新日::** 07/11 12:39
 
 ---
 
 ### 66. 天才くん
-**Author:** あ
+**作成者:** あ
 
 **星評価:** 2.7 / 5 ⭐ (3)
 
-#### Comments (1)
-- **天才くん** (Jul 11, 2026 06:17am): 何
+#### コメント (1)
+- **天才くん** (07/11 06:17): 何
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 11, 2026 06:17am
-- **Updated At:** Jul 11, 2026 06:17am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/11 06:17
+- **更新日::** 07/11 06:17
 
 ---
 
 ### 67. 名前変えました
-**Author:** 暇人two Time
+**作成者:** 暇人two Time
 
 暇人two Timeから優那へと
 
@@ -1241,22 +1242,22 @@ Scratchで活動してます！
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
-- **おうが応援する人(れいり)** (Jul 10, 2026 10:30pm): どっちでもいいw
-- **おうが** (Jul 10, 2026 10:32pm): ねww
-- **おうが応援する人(れいり)** (Jul 10, 2026 10:39pm): うん
-- **おうが応援する人(れいり)** (Jul 10, 2026 10:40pm): おうがさんブレインロッドの部屋きて
-- **暇人two Time** (Jul 11, 2026 12:38pm): めんどいから戻した
+#### コメント (5)
+- **おうが応援する人(れいり)** (07/10 22:30): どっちでもいいw
+- **おうが** (07/10 22:32): ねww
+- **おうが応援する人(れいり)** (07/10 22:39): うん
+- **おうが応援する人(れいり)** (07/10 22:40): おうがさんブレインロッドの部屋きて
+- **暇人two Time** (07/11 12:38): めんどいから戻した
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 10, 2026 10:24pm
-- **Updated At:** Jul 10, 2026 10:24pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/10 22:24
+- **更新日::** 07/10 22:24
 
 ---
 
 ### 68. 元天才くんのお友達2からまたまたつくしにかえました
-**Author:** つくし
+**作成者:** つくし
 
 つくしから天才くんのお友達2からまたつくしでーす！！
 
@@ -1264,40 +1265,40 @@ Scratchで活動してます！
 
 ![つくし](https://upload.wikimedia.org/wikipedia/commons/e/e6/%E3%83%84%E3%82%AF%E3%82%B7%EF%BC%88%E3%82%B9%E3%82%AE%E3%83%8A%E3%81%AE%E8%83%9E%E5%AD%90%E8%8C%8E%EF%BC%8920080407a.JPG)
 
-#### Comments (5)
-- **つくし** (Jul 10, 2026 12:53pm): よろしくぅ！！！！！
-- **天才くん** (Jul 10, 2026 12:58pm): こんちゃ
-- **天才くん** (Jul 10, 2026 12:58pm): いやこんばんわかw
-- **Jr.** (Jul 10, 2026 01:01pm): 予約会話みて天才くん
-- **Jr.** (Jul 10, 2026 01:01pm): 早く
+#### コメント (5)
+- **つくし** (07/10 12:53): よろしくぅ！！！！！
+- **天才くん** (07/10 12:58): こんちゃ
+- **天才くん** (07/10 12:58): いやこんばんわかw
+- **Jr.** (07/10 13:01): 予約会話みて天才くん
+- **Jr.** (07/10 13:01): 早く
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 10, 2026 12:53pm
-- **Updated At:** Jul 10, 2026 12:53pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/10 12:53
+- **更新日::** 07/10 12:53
 
 ---
 
 ### 69. 変えた
-**Author:** Jr.
+**作成者:** Jr.
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (4)
-- **Jr.** (Jul 10, 2026 12:52pm): やっほー
-- **Jr.** (Jul 10, 2026 10:19pm): 天才くんのお友達→りゅう→Jr.
-- **暇人two Time** (Jul 10, 2026 10:21pm): 変えた？何が？（ｵｺｯﾃﾅｲｶﾗﾈ）
-- **Jr.** (Jul 11, 2026 02:18am): 名前
+#### コメント (4)
+- **Jr.** (07/10 12:52): やっほー
+- **Jr.** (07/10 22:19): 天才くんのお友達→りゅう→Jr.
+- **暇人two Time** (07/10 22:21): 変えた？何が？（ｵｺｯﾃﾅｲｶﾗﾈ）
+- **Jr.** (07/11 02:18): 名前
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 10, 2026 12:49pm
-- **Updated At:** Jul 10, 2026 12:49pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/10 12:49
+- **更新日::** 07/10 12:49
 
 ---
 
 ### 70. 誰かいるー？
-**Author:** 暇人two Time
+**作成者:** 暇人two Time
 
 暇誰か話そ
 
@@ -1305,257 +1306,257 @@ Scratchで活動してます！
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 10, 2026 10:33am
-- **Updated At:** Jul 10, 2026 10:33am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/10 10:33
+- **更新日::** 07/10 10:33
 
 ---
 
 ### 71. おうがさん　マイクラを作っていただけないでしょうか
-**Author:** おうが応援する人(れいり)
+**作成者:** おうが応援する人(れいり)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **りゅう** (Jul 10, 2026 10:27am): 僕も欲しいけど…
-- **りゅう** (Jul 10, 2026 10:27am): 今使ってもらってるのであとででいいです。
-- **おうが応援する人(れいり)** (Jul 10, 2026 10:30am): うん
+#### コメント (3)
+- **りゅう** (07/10 10:27): 僕も欲しいけど…
+- **りゅう** (07/10 10:27): 今使ってもらってるのであとででいいです。
+- **おうが応援する人(れいり)** (07/10 10:30): うん
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 10, 2026 10:18am
-- **Updated At:** Jul 10, 2026 10:18am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/10 10:18
+- **更新日::** 07/10 10:18
 
 ---
 
 ### 72. OK！承知した！
-**Author:** 五条悟
+**作成者:** 五条悟
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **おうが応援する人(れいり)** (Jul 10, 2026 09:31am): 五条よっ
+#### コメント (1)
+- **おうが応援する人(れいり)** (07/10 09:31): 五条よっ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 10, 2026 09:14am
-- **Updated At:** Jul 10, 2026 09:14am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/10 09:14
+- **更新日::** 07/10 09:14
 
 ---
 
 ### 73. 五条悟へ
-**Author:** ヒカキンTV
+**作成者:** ヒカキンTV
 
 五条悟動画載せれへんかったは
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (3)
-- **ヒカキンTV** (Jul 10, 2026 09:00am): わお
-- **ヒカキンTV** (Jul 10, 2026 09:00am): 無理だったね
-- **五条悟** (Jul 10, 2026 09:14am): OK
+#### コメント (3)
+- **ヒカキンTV** (07/10 09:00): わお
+- **ヒカキンTV** (07/10 09:00): 無理だったね
+- **五条悟** (07/10 09:14): OK
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 10, 2026 09:00am
-- **Updated At:** Jul 10, 2026 09:00am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/10 09:00
+- **更新日::** 07/10 09:00
 
 ---
 
-### 74. Post 74
-**Author:** おうが応援する人(れいり)
+### 74. 投稿 74
+**作成者:** おうが応援する人(れいり)
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5937220308/4d9e647823457c740d1c1b6a04064331/drawing.png?Expires=1789193937&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bCmD0v7n8UCw54zGbh0V29PrZ%2Bz%2FCrwo9zbd5S%2B0XMMQPXHZ3mkJUFP833%2Bvi8aa6IEgEZUdsQWRLqPu7xvwFPLWQqQyfquF0WXEjtQOfGoyb8c2n458nsS%2FTWESo2iJpe0dz2xbLri1OkUN1kNg4VSFoBKPXsrx2MVr91agSvTpAxi5RQ4HvYj9tJSRNuyBd4ZQn0kQI04%2BNJGrh4zPXZI3aCboqmiaQCRPcz3Xd%2BmelcE%2Fy0MnpKKueMBPCFfHCakyW1%2BnK2QsVneboVVEdEyxhIPmGKFtQR3FAHWCDHyihqCgTL7gSjdFwkCYIjneD3L2LfX%2B3vYd0gbZmrpA9Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5937220308%2F4d9e647823457c740d1c1b6a04064331%2Fdrawing.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5937220308/4d9e647823457c740d1c1b6a04064331/drawing.png?Expires=1789196253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PBpmwypGto7bpAlo%2BLywvNMuqk7p50M%2FowjVY9jYd7cyaPn%2BJY%2FFYjFwvnF3zeepUxWF%2FpSKbjuOYGmKf4bLm1TKh5CSivabuBTKe6f4LW0bUZ0lQ6DAeUQ6WrudUZTHLKZnfLMhW9JYRM72%2B0kCQdmBiYGOvL6mD87v4zBXItzqgnKZCAqyhxcKIBYvVceEm86tsaQ%2B%2F85cIUE2lkxVdPsPCfM7rqjk%2F4AlTom7tKJ4SeDZA9jFrpXaVrceHChcI6BTvwaUey3M9IXE4uCFwmF4KUX5Wq4u7zduSw2szNn%2BJLdQ1ytv7onbTicasF6tnUmBAPJ5vI5dhkGLpT3cOQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5937220308%2F4d9e647823457c740d1c1b6a04064331%2Fdrawing.png)
 
-#### Comments (15)
-- **R** (Jul 10, 2026 01:18am): ドラえもんやん
-- **R** (Jul 10, 2026 01:23am): 描こうかなぁ
-- **おうが** (Jul 10, 2026 01:37am): かわいw
-- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (Jul 10, 2026 02:05am): おーい
-- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (Jul 14, 2026 03:52am): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/zV61Q6nRPP8bQO98) やった〜
-- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (Jul 10, 2026 02:11am): 管理者コードちょうだいお願いします。😢
-- **おうが** (Jul 10, 2026 03:22am): それ最新のやつ？
-- **おうが** (Jul 10, 2026 03:23am): 一緒にならできるよう
-- **おうが** (Jul 10, 2026 03:23am): 管理者は迷う
-- **R** (Jul 10, 2026 04:25am): ドラえもん書いたらこうなったwhttps://padlet-uploads-usc1.storage.googleapis.com/5936812725/1b78b12423fdabe1cd8f794ec2016065/________.jpg
-- **おうが応援する人(れいり)** (Jul 10, 2026 04:27am): w
-- **暇人two Time** (Jul 10, 2026 10:21am): c00lkiddさんが送ったその動画ってブレインロットですか？どうやって出来るとか教えてもらえませんか？
-- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (Jul 13, 2026 12:37am): ええよ
-- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (Jul 13, 2026 12:38am): あとこれおうがさんが作ったやつだよ
-- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (Jul 13, 2026 12:38am): https://script.google.com/a/macros/ict.adachi.ed.jp/s/AKfycbyxyCkEFdAbKtw2WF-HwErfhqTRP8YCbtrq9nXWykP87GPpohIWwuOiCACTzwXQ5b2a3Q/exec
+#### コメント (15)
+- **R** (07/10 01:18): ドラえもんやん
+- **R** (07/10 01:23): 描こうかなぁ
+- **おうが** (07/10 01:37): かわいw
+- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (07/10 02:05): おーい
+- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (07/14 03:52): [添付ファイル](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/zV61Q6nRPP8bQO98) やった〜
+- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (07/10 02:11): 管理者コードちょうだいお願いします。😢
+- **おうが** (07/10 03:22): それ最新のやつ？
+- **おうが** (07/10 03:23): 一緒にならできるよう
+- **おうが** (07/10 03:23): 管理者は迷う
+- **R** (07/10 04:25): ドラえもん書いたらこうなったwhttps://padlet-uploads-usc1.storage.googleapis.com/5936812725/1b78b12423fdabe1cd8f794ec2016065/________.jpg
+- **おうが応援する人(れいり)** (07/10 04:27): w
+- **暇人two Time** (07/10 10:21): c00lkiddさんが送ったその動画ってブレインロットですか？どうやって出来るとか教えてもらえませんか？
+- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (07/13 00:37): ええよ
+- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (07/13 00:38): あとこれおうがさんが作ったやつだよ
+- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (07/13 00:38): https://script.google.com/a/macros/ict.adachi.ed.jp/s/AKfycbyxyCkEFdAbKtw2WF-HwErfhqTRP8YCbtrq9nXWykP87GPpohIWwuOiCACTzwXQ5b2a3Q/exec
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 10, 2026 12:22am
-- **Updated At:** Jul 10, 2026 12:22am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/10 00:22
+- **更新日::** 07/10 00:22
 
 ---
 
-### 75. Post 75
-**Author:** r
+### 75. 投稿 75
+**作成者:** r
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5937304859/a2455a8f93bc42284eefcf860fe5a5a1/Screenshot_2026_04_28_15_09_42.png?Expires=1789193937&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nluzp6hz5djYy2pPHpGf65uCA9r3uhLRqW7sQoHwFpuZ46XvGWxYfhqXPde9V%2FGJZAFl%2BRt7bdYXIn8AWlIa60Ha6xH2u3Xs88J4uPq59jDYLx%2BsKO96r7ooikrjJMVb2wuepWQEUWhrmNeG53SUlicb4Qbqa8%2BKKLt6eimWxNDQRZ%2FAoONjSTu1jJKkMFqonlxG62M%2BI485XNOI1epSfscyiFNhFeIO2kHNKhz0e1o5DVUPDlpy8JKJ9h0FINAoi94TDw4FXkhmy5ZGAtHLsVJFl%2F4hMyaZxFFKgpqO9GrefgJksO1%2ByhU3BEC9yvOxyVdPnsGNa9t8h6PQtl098g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5937304859%2Fa2455a8f93bc42284eefcf860fe5a5a1%2FScreenshot_2026_04_28_15_09_42.png)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5937304859/a2455a8f93bc42284eefcf860fe5a5a1/Screenshot_2026_04_28_15_09_42.png?Expires=1789196253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Pb6GQoVtCDrjPYvrNVSA3zvcbYv9OwsjHlrtEfuOeGJxUD4jOs16qqzKeftDmAbUCVGIqfHYVItg%2F3UZcYLx4FeyS9timIvV7NniC9KCbGtuOBhsYnl0dls%2BL6FTldONc%2BC6Io%2BJ0cY%2FldvTjsxCLXZwBKyhXZYd49hRPgBcW1uUiBGSHHlED%2BXlzPkynk5HE%2BS6tDJbyFzSBIBjb1cyMf1mCv2YREHZkb1SBtCegLzGMxWLYTagk4AxzSJ0N2PO%2FxP9CDsodqB8UMaRTRx6a6DBz%2FSm7QIUMwACAqZ4dw%2BR1aIQP0Huj9TGOUIhWYxVEFr%2B63UdcyOJx%2FQUeJukUQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5937304859%2Fa2455a8f93bc42284eefcf860fe5a5a1%2FScreenshot_2026_04_28_15_09_42.png)
 
-#### Comments (7)
-- **どぬく🍑** (Jul 10, 2026 12:11am): かわいい
-- **おうが** (Jul 10, 2026 12:16am): 可愛いw
-- **R** (Jul 10, 2026 01:18am): 可愛
-- **おうが応援する人(れいり)** (Jul 10, 2026 01:19am): 可愛い
-- **暇人two Time** (Jul 10, 2026 11:53am): 可愛い
-- **r** (Jul 16, 2026 05:49am): でしょ
-- **r** (Jul 16, 2026 05:49am): 友達が描いてくれた！
+#### コメント (7)
+- **どぬく🍑** (07/10 00:11): かわいい
+- **おうが** (07/10 00:16): 可愛いw
+- **R** (07/10 01:18): 可愛
+- **おうが応援する人(れいり)** (07/10 01:19): 可愛い
+- **暇人two Time** (07/10 11:53): 可愛い
+- **r** (07/16 05:49): でしょ
+- **r** (07/16 05:49): 友達が描いてくれた！
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 10, 2026 12:10am
-- **Updated At:** Jul 10, 2026 12:10am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/10 00:10
+- **更新日::** 07/10 00:10
 
 ---
 
 ### 76. 名前変えやした天才くんのお友達2
-**Author:** 天才くんのお友達2
+**作成者:** 天才くんのお友達2
 
 元つくしです
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (20)
-- **天才くんのお友達2** (Jul 09, 2026 06:35am): しくよろ
-- **どぬく🍑** (Jul 09, 2026 06:45am): よろしく〜
-- **おうが** (Jul 09, 2026 10:39am): よろしくーー
-- **どぬく🍑** (Jul 09, 2026 11:52pm): いる？
-- **おうが** (Jul 10, 2026 12:10am): いるよ
-- **どぬく🍑** (Jul 10, 2026 12:11am): やほー
-- **おうが** (Jul 10, 2026 12:11am): ヤッホー
-- **どぬく🍑** (Jul 10, 2026 12:11am): チャット作るから待ってて
-- **おうが** (Jul 10, 2026 12:12am): おけあと権限渡してるから了承しといて
-- **どぬく🍑** (Jul 10, 2026 12:12am): どこ？
-- **おうが** (Jul 10, 2026 12:12am): 共有マークのところにきてない？
-- **どぬく🍑** (Jul 10, 2026 12:13am): 共有のどこ？
-- **おうが** (Jul 10, 2026 12:13am): きてない？
-- **どぬく🍑** (Jul 10, 2026 12:13am): うん 
-- **おうが** (Jul 10, 2026 12:14am): ガチかどこに届くとか走らないんよ
-- **どぬく🍑** (Jul 10, 2026 12:15am): まじ？
-- **おうが** (Jul 10, 2026 12:15am): うんもう一回メアド晴れる？
-- **おうが** (Jul 10, 2026 12:17am): メアド貼れる？
-- **どぬく🍑** (Jul 10, 2026 12:26am): karafurupichidonukutuishi4@gmail.com
-- **おうが** (Jul 10, 2026 01:37am): きた？
+#### コメント (20)
+- **天才くんのお友達2** (07/09 06:35): しくよろ
+- **どぬく🍑** (07/09 06:45): よろしく〜
+- **おうが** (07/09 10:39): よろしくーー
+- **どぬく🍑** (07/09 23:52): いる？
+- **おうが** (07/10 00:10): いるよ
+- **どぬく🍑** (07/10 00:11): やほー
+- **おうが** (07/10 00:11): ヤッホー
+- **どぬく🍑** (07/10 00:11): チャット作るから待ってて
+- **おうが** (07/10 00:12): おけあと権限渡してるから了承しといて
+- **どぬく🍑** (07/10 00:12): どこ？
+- **おうが** (07/10 00:12): 共有マークのところにきてない？
+- **どぬく🍑** (07/10 00:13): 共有のどこ？
+- **おうが** (07/10 00:13): きてない？
+- **どぬく🍑** (07/10 00:13): うん 
+- **おうが** (07/10 00:14): ガチかどこに届くとか走らないんよ
+- **どぬく🍑** (07/10 00:15): まじ？
+- **おうが** (07/10 00:15): うんもう一回メアド晴れる？
+- **おうが** (07/10 00:17): メアド貼れる？
+- **どぬく🍑** (07/10 00:26): karafurupichidonukutuishi4@gmail.com
+- **おうが** (07/10 01:37): きた？
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 09, 2026 06:35am
-- **Updated At:** Jul 09, 2026 06:35am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/09 06:35
+- **更新日::** 07/09 06:35
 
 ---
 
 ### 77. 原石＝天才くんのお友達
-**Author:** 天才くんのお友達
+**作成者:** 天才くんのお友達
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (8)
-- **天才くんのお友達** (Jul 09, 2026 06:29am): 上の通りです
-- **天才くんのお友達** (Jul 09, 2026 06:29am): スリじゃありません
-- **どぬく🍑** (Jul 09, 2026 06:29am): やほー
-- **どぬく🍑** (Jul 09, 2026 06:30am): ミーティング入ってー
-- **天才くんのお友達** (Jul 09, 2026 06:30am): どこですか？
-- **どぬく🍑** (Jul 09, 2026 06:31am): 予約通話の下
-- **天才くんのお友達** (Jul 09, 2026 06:31am): わかりやした
-- **おうが** (Jul 09, 2026 10:39am): ヤッホーー
+#### コメント (8)
+- **天才くんのお友達** (07/09 06:29): 上の通りです
+- **天才くんのお友達** (07/09 06:29): スリじゃありません
+- **どぬく🍑** (07/09 06:29): やほー
+- **どぬく🍑** (07/09 06:30): ミーティング入ってー
+- **天才くんのお友達** (07/09 06:30): どこですか？
+- **どぬく🍑** (07/09 06:31): 予約通話の下
+- **天才くんのお友達** (07/09 06:31): わかりやした
+- **おうが** (07/09 10:39): ヤッホーー
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 09, 2026 06:29am
-- **Updated At:** Jul 09, 2026 06:29am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/09 06:29
+- **更新日::** 07/09 06:29
 
 ---
 
 ### 78. 俺が作ったミーティング来て一番下予約電話の
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 09, 2026 05:39am
-- **Updated At:** Jul 09, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/09 05:39
+- **更新日::** 07/09 05:39
 
 ---
 
 ### 79. 名前変えました
-**Author:** 天才くんのお友達
+**作成者:** 天才くんのお友達
 
 天才くんのお友達です。！！
 
 **星評価:** 1.0 / 5 ⭐ (1)
 
-#### Comments (14)
-- **おうが** (Jul 08, 2026 11:11pm): スリかな？
-- **おうがさん応援する人** (Jul 08, 2026 11:38pm): ちがうよ…
-- **おうがさん応援する人** (Jul 08, 2026 11:38pm): 俺の同じ学校の友達がスリだよ
-- **1** (Jul 08, 2026 11:53pm): 誰？
-- **どぬく🍑** (Jul 08, 2026 11:58pm): 誰？
-- **おうがさん応援する人** (Jul 09, 2026 12:02am): 本物れいりっすけど
-- **おうがさん応援する人** (Jul 09, 2026 12:02am): 前名前変えたって言ってましたよ？
-- **おうがさん応援する人** (Jul 09, 2026 12:03am): 風邪気味でこれませんでした
-- **おうがさん応援する人** (Jul 09, 2026 12:03am): 他のれいりって名前の人は全員偽物っすよ
-- **1** (Jul 09, 2026 12:19am): はい
-- **おうが** (Jul 09, 2026 01:32am): そういうことね
-- **おうが応援する人（れいり）** (Jul 09, 2026 01:46am): うん
-- **どぬく🍑** (Jul 09, 2026 05:37am): れいりログインしてほしい
-- **暇人two Time** (Jul 10, 2026 10:27am): ログインしたらなんか変わるんですか？（ｵｺｯﾃﾅｲﾖ）
+#### コメント (14)
+- **おうが** (07/08 23:11): スリかな？
+- **おうがさん応援する人** (07/08 23:38): ちがうよ…
+- **おうがさん応援する人** (07/08 23:38): 俺の同じ学校の友達がスリだよ
+- **1** (07/08 23:53): 誰？
+- **どぬく🍑** (07/08 23:58): 誰？
+- **おうがさん応援する人** (07/09 00:02): 本物れいりっすけど
+- **おうがさん応援する人** (07/09 00:02): 前名前変えたって言ってましたよ？
+- **おうがさん応援する人** (07/09 00:03): 風邪気味でこれませんでした
+- **おうがさん応援する人** (07/09 00:03): 他のれいりって名前の人は全員偽物っすよ
+- **1** (07/09 00:19): はい
+- **おうが** (07/09 01:32): そういうことね
+- **おうが応援する人（れいり）** (07/09 01:46): うん
+- **どぬく🍑** (07/09 05:37): れいりログインしてほしい
+- **暇人two Time** (07/10 10:27): ログインしたらなんか変わるんですか？（ｵｺｯﾃﾅｲﾖ）
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 08, 2026 10:24pm
-- **Updated At:** Jul 08, 2026 10:24pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/08 22:24
+- **更新日::** 07/08 22:24
 
 ---
 
 ### 80. こんにちは！
-**Author:** 1
+**作成者:** 1
 
 初めまして
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **おうが** (Jul 08, 2026 11:11pm): こんにちは！
-- **暇人two Time** (Jul 10, 2026 10:29am): こんにちは
+#### コメント (2)
+- **おうが** (07/08 23:11): こんにちは！
+- **暇人two Time** (07/10 10:29): こんにちは
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 08, 2026 12:42pm
-- **Updated At:** Jul 08, 2026 12:42pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/08 12:42
+- **更新日::** 07/08 12:42
 
 ---
 
 ### 81. 誰でもいいから友達、仲良くなったりしたいでーす
-**Author:** 暇人two Time
+**作成者:** 暇人two Time
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
-- **れいり** (Jul 08, 2026 12:15pm): いいよ 
-- **1** (Jul 09, 2026 12:20am): 偽物
-- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (Jul 09, 2026 02:03am): いいよ
-- **暇人two Time** (Jul 10, 2026 09:08am): やった！ありがとうございます！
-- **暇人two Time** (Jul 10, 2026 09:09am): 偽物とは？
+#### コメント (5)
+- **れいり** (07/08 12:15): いいよ 
+- **1** (07/09 00:20): 偽物
+- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (07/09 02:03): いいよ
+- **暇人two Time** (07/10 09:08): やった！ありがとうございます！
+- **暇人two Time** (07/10 09:09): 偽物とは？
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 08, 2026 09:32am
-- **Updated At:** Jul 08, 2026 09:32am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/08 09:32
+- **更新日::** 07/08 09:32
 
 ---
 
 ### 82. 皆さんはClass123を知っているだろうか？
-**Author:** 暇人two Time
+**作成者:** 暇人two Time
 
 Class123とは、学校のタブレットでもできるゲームなのです
 
@@ -1569,94 +1570,94 @@ Class123とは、学校のタブレットでもできるゲームなのです
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5928757876/70d2f96c88fce06bef7d68fd987d0482/ScreenRecording_07_08_2026_16_06_04_1.mp4?Expires=1789193937&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DDvE3JtFd3k3OIfPeHeXBFZBCyuEYMA2qfIHRfQcrOrRIAZ4NrGNv9bWdIozhDxbKOkWgQcuuYA2cTTe4I2tbXt4WhcCE5BR%2Fdwc7jpinA5%2FwvZOF7Auz1sEJ8lfnZ%2Fq1dPgDZ0lR2xamMoXyICng4KVjmPsPnMh0jR6djtjeUeKL%2F1NFFkrtKeOabN0GQhLs55khKapTLq4pf0KtabvH2MeqtSED%2F%2BwluHH7yuNmUW9YLqIPQhk6t4H4%2FjWTFA9VvIe9I%2B11aVTg%2BEDtwYHLxXSBfIm%2BPG6I4skLg8VgRsCpMlRQnXetZw1CXub5BtiR63BYRBm1oADZy%2BxsiwNTw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5928757876%2F70d2f96c88fce06bef7d68fd987d0482%2FScreenRecording_07_08_2026_16_06_04_1.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5928757876/70d2f96c88fce06bef7d68fd987d0482/ScreenRecording_07_08_2026_16_06_04_1.mp4?Expires=1789196253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lfKVRVLPYyX65338aRN0n6dOli7SQtVAvwpjl7hrJAee1fngnZnVf3YnEak44BseCUTmepfpcICmy5F0Fqgk2UcLXLQVdEdnWLKGDunALMy8L5aXAsUQFrXpBJZMOrrnp79Vv2AmisqwD00mUSyhEyBX3jNeUGoQ6mW%2BIhGsLAXiePotfQvjwR9Dpn8VjBoP71Glt%2BFI%2BgRAT3TS%2F%2BDoCCJ17JkQHy5eiEpBF%2BR9gzeYKBLo4gCc1aP%2FWCX29TzOedGrUUZC3Dmbfa96D1LtX2jHcqyegsPR2zlyz%2BewpuVsOxnxY4PfwO22ftPD719Gr0QU2TR3roQ4WADdJDk%2FRg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5928757876%2F70d2f96c88fce06bef7d68fd987d0482%2FScreenRecording_07_08_2026_16_06_04_1.mp4)
 
-#### Comments (3)
-- **暇人two Time** (Jul 10, 2026 10:16am): 誰か見てるならでいいから返事ください
-- **暇人** (Jul 11, 2026 05:11am): 俺知ってるよそれ
-- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (Jul 18, 2026 10:55pm): 神
+#### コメント (3)
+- **暇人two Time** (07/10 10:16): 誰か見てるならでいいから返事ください
+- **暇人** (07/11 05:11): 俺知ってるよそれ
+- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (07/18 22:55): 神
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 08, 2026 07:12am
-- **Updated At:** Jul 08, 2026 07:12am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/08 07:12
+- **更新日::** 07/08 07:12
 
 ---
 
 ### 83. こんにちわ久々にきたれいりです
-**Author:** おうが応援する人
+**作成者:** おうが応援する人
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
-- **おうが応援する人** (Jul 08, 2026 02:59am): 前名前変えるって言ってからケガしててこれませんでした
-- **おうが応援する人** (Jul 08, 2026 03:00am): 偽物がいるらしいですね
-- **おうが応援する人** (Jul 08, 2026 03:00am): 俺の💢
-- **おうが** (Jul 08, 2026 03:39am): 君がれいり？
-- **おうが応援する人** (Jul 08, 2026 04:26am): うん
+#### コメント (5)
+- **おうが応援する人** (07/08 02:59): 前名前変えるって言ってからケガしててこれませんでした
+- **おうが応援する人** (07/08 03:00): 偽物がいるらしいですね
+- **おうが応援する人** (07/08 03:00): 俺の💢
+- **おうが** (07/08 03:39): 君がれいり？
+- **おうが応援する人** (07/08 04:26): うん
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 08, 2026 02:44am
-- **Updated At:** Jul 08, 2026 02:44am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/08 02:44
+- **更新日::** 07/08 02:44
 
 ---
 
 ### 84. 自分のパドレット荒らされました　ガチで注意してください
-**Author:** Blue Walker (21070045_2)
+**作成者:** Blue Walker (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 08, 2026 02:29am
-- **Updated At:** Jul 08, 2026 02:29am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/08 02:29
+- **更新日::** 07/08 02:29
 
 ---
 
 ### 85. 荒らしは何回かここに来てる人です　予告きてる　ログインしてない　名前変えて来る
-**Author:** 1
+**作成者:** 1
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
-- **れいり** (Jul 08, 2026 01:14am): そうなん？
-- **どぬく🍑** (Jul 08, 2026 01:22am): れいりヤッホー
-- **どぬく🍑** (Jul 08, 2026 01:22am): 今までの名前教えて
-- **おうが** (Jul 08, 2026 01:42am): 多分だよれいり
-- **れいり** (Jul 08, 2026 02:41am): ？
+#### コメント (5)
+- **れいり** (07/08 01:14): そうなん？
+- **どぬく🍑** (07/08 01:22): れいりヤッホー
+- **どぬく🍑** (07/08 01:22): 今までの名前教えて
+- **おうが** (07/08 01:42): 多分だよれいり
+- **れいり** (07/08 02:41): ？
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 08, 2026 01:05am
-- **Updated At:** Jul 08, 2026 01:05am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/08 01:05
+- **更新日::** 07/08 01:05
 
 ---
 
 ### 86. ブレインロッドでチーターにキャラ盗まれました🥺
-**Author:** れいり
+**作成者:** れいり
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (8)
-- **れいり** (Jul 07, 2026 10:29am): キャラください
-- **どぬく🍑** (Jul 07, 2026 11:31am): どんまいれいり
-- **R** (Jul 07, 2026 12:57pm): まじか可哀想😢
-- **れいり** (Jul 07, 2026 12:59pm): うわーーーーん
-- **スタバの神** (Jul 07, 2026 01:49pm): 配布の企画するので、IDを教えてください
-- **スタバの神** (Jul 07, 2026 01:50pm): 結構人が入るので手に入りるかはわかりません
-- **ソラギク** (Jul 07, 2026 11:51pm): やりませんか
-- **おうが** (Jul 08, 2026 01:42am): どんまい
+#### コメント (8)
+- **れいり** (07/07 10:29): キャラください
+- **どぬく🍑** (07/07 11:31): どんまいれいり
+- **R** (07/07 12:57): まじか可哀想😢
+- **れいり** (07/07 12:59): うわーーーーん
+- **スタバの神** (07/07 13:49): 配布の企画するので、IDを教えてください
+- **スタバの神** (07/07 13:50): 結構人が入るので手に入りるかはわかりません
+- **ソラギク** (07/07 23:51): やりませんか
+- **おうが** (07/08 01:42): どんまい
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 07, 2026 10:29am
-- **Updated At:** Jul 07, 2026 10:29am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/07 10:29
+- **更新日::** 07/07 10:29
 
 ---
 
 ### 87. 暇人two Timeです
-**Author:** 暇人two Time
+**作成者:** 暇人two Time
 
 forsaken神
 
@@ -1668,22 +1669,22 @@ forsaken神
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5924508763/dba0ee3de898e373e9acbbe3af73a46d/ScreenRecording_07_01_2026_17_35_52_1.mp4?Expires=1789193937&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SKJSlT2gPFODtFpgDzEUmsU1IS7N5kkDEanrOwz6sq%2BAKTMjztht9Li8IdMgrBcD%2FEZhC4FfAVx6JRP8mQ7e3NYo%2F9LDnuwdHHLpJDJ0UzqOcBS%2FzyW3zSzvG3HyWPUi%2B5pD7r%2FlxrM5qXDxWMXW2hXNnGSpXnBD0dS3sG95Gh30giPWiSw5G%2FwC56oYjhdU2pJ9XzMqx24r5xeqyt6X%2F7qKGxOBYlKyDWAJB8rOWRgdYjDzlCKwvfsrKQVWB2mrB5VySg4qV2PAChFCDCWdBxpZG7464U83qGxZ4%2F8vCXNW%2Bg23vRMSo5aei1QMRYumhkUOEnxCo0DhQk0IN9nrXw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5924508763%2Fdba0ee3de898e373e9acbbe3af73a46d%2FScreenRecording_07_01_2026_17_35_52_1.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5924508763/dba0ee3de898e373e9acbbe3af73a46d/ScreenRecording_07_01_2026_17_35_52_1.mp4?Expires=1789196253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zuWCM3Vg4%2FXun7zOMshKxzqYrEcR7OjP0NxOPzsLeCaWdeVHjlAm%2Bv7GlqmtUhVmwdjLKasuaiHJ6CxXX%2BRmmY9Er2XMorKd6ymwZePHT1x5wfAycslSxDDBhRdWso%2BKsPkWGXzo5Tb7JcT8gNfryBqnlhLQpdxWp3PtQxlOj3LlMqW5SqFbA8%2B7bQGIF3OeY2XUQG8i1n%2F59xOZ7nDKykddLQ58QdXXxNAM84iedfobg%2FIzZPiF3B9E4oYDDx7oZx%2BHGgu%2BO6lSlczDQFvlR6Q0AeQbaE3eWnypRQ1aQfI%2FFTS2Ry2dQdSFu9g3TxzoaiY0RdKwULfNcNauAgmlVw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5924508763%2Fdba0ee3de898e373e9acbbe3af73a46d%2FScreenRecording_07_01_2026_17_35_52_1.mp4)
 
-#### Comments (3)
-- **暇人two Time** (Jul 07, 2026 09:29am): ごめん言い忘れた4649ね
-- **R** (Jul 07, 2026 12:56pm): よろしく
-- **暇人two Time** (Jul 10, 2026 10:32am): 言葉ミスってる！やばっ
+#### コメント (3)
+- **暇人two Time** (07/07 09:29): ごめん言い忘れた4649ね
+- **R** (07/07 12:56): よろしく
+- **暇人two Time** (07/10 10:32): 言葉ミスってる！やばっ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 07, 2026 09:28am
-- **Updated At:** Jul 07, 2026 09:28am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/07 09:28
+- **更新日::** 07/07 09:28
 
 ---
 
 ### 88. forsaken知ってる方、やってる方来て
-**Author:** 暇人two Time
+**作成者:** 暇人two Time
 
 好きなキャラクターとか、forsakenの話とか色々やりたい
 
@@ -1691,289 +1692,289 @@ forsaken神
 
 ![forsaken](https://m.media-amazon.com/images/M/MV5BYmNiZWExMTctODJiMS00NjI5LWFhMjQtZmNmYzcyMjVlMDk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 07, 2026 09:02am
-- **Updated At:** Jul 07, 2026 09:02am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/07 09:02
+- **更新日::** 07/07 09:02
 
 ---
 
 ### 89. 荒らしと個人情報特定予告が来ています
-**Author:** 1
+**作成者:** 1
 
 天才くんから聞きました
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **どぬく🍑** (Jul 07, 2026 07:07am): まじ⁉︎対策せなあかんな
-- **1** (Jul 07, 2026 07:09am): どぬくしか勝たん
-- **1** (Jul 07, 2026 07:09am): https://meet.stuvus.uni-stuttgart.de/OrdinaryAccuraciesSurgeEagerly
+#### コメント (3)
+- **どぬく🍑** (07/07 07:07): まじ⁉︎対策せなあかんな
+- **1** (07/07 07:09): どぬくしか勝たん
+- **1** (07/07 07:09): https://meet.stuvus.uni-stuttgart.de/OrdinaryAccuraciesSurgeEagerly
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 07, 2026 06:34am
-- **Updated At:** Jul 07, 2026 06:34am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/07 06:34
+- **更新日::** 07/07 06:34
 
 ---
 
 ### 90. 誰かいる〜？
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 いたら返信プリーズ
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **R** (Jul 07, 2026 07:19am): おるよ
-- **暇人two Time** (Jul 07, 2026 09:23am): いるよ
+#### コメント (2)
+- **R** (07/07 07:19): おるよ
+- **暇人two Time** (07/07 09:23): いるよ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 07, 2026 06:27am
-- **Updated At:** Jul 07, 2026 06:28am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/07 06:27
+- **更新日::** 07/07 06:28
 
 ---
 
 ### 91. 誰かいる？ーーー
-**Author:** ふじ
+**作成者:** ふじ
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (9)
-- **れいり** (Jul 07, 2026 12:40am): いるー
-- **R** (Jul 07, 2026 12:44am): いるで
-- **れいり** (Jul 07, 2026 12:46am): よ！
-- **R** (Jul 07, 2026 12:46am): よ！
-- **れいり** (Jul 07, 2026 12:50am): 会話しよーぜ
-- **れいり** (Jul 07, 2026 12:50am): 雑談きて
-- **R** (Jul 07, 2026 12:50am): おけ
-- **ぼちぼちいこか愛好家** (Jul 07, 2026 03:50am): 会話しよう
-- **れいり** (Jul 07, 2026 04:19am): いいよ
+#### コメント (9)
+- **れいり** (07/07 00:40): いるー
+- **R** (07/07 00:44): いるで
+- **れいり** (07/07 00:46): よ！
+- **R** (07/07 00:46): よ！
+- **れいり** (07/07 00:50): 会話しよーぜ
+- **れいり** (07/07 00:50): 雑談きて
+- **R** (07/07 00:50): おけ
+- **ぼちぼちいこか愛好家** (07/07 03:50): 会話しよう
+- **れいり** (07/07 04:19): いいよ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 07, 2026 12:05am
-- **Updated At:** Jul 07, 2026 12:05am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/07 00:05
+- **更新日::** 07/07 00:05
 
 ---
 
 ### 92. 僕は一週間ぐらいここから離れます
-**Author:** 原石
+**作成者:** 原石
 
 すみません
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (8)
-- **おうが** (Jul 06, 2026 12:06pm): まーディか
-- **おうが** (Jul 06, 2026 12:06pm): どしたの？
-- **原石** (Jul 06, 2026 12:43pm): ちょっと斜視を治すため手術します
-- **れいり** (Jul 06, 2026 12:43pm): Ok
-- **おうが** (Jul 06, 2026 12:43pm): 斜視だったんだ
-- **れいり** (Jul 06, 2026 12:52pm): なんで承認制なの？
-- **おうが** (Jul 06, 2026 12:52pm): 荒らし来るらしい
-- **れいり** (Jul 06, 2026 11:55pm): 暇
+#### コメント (8)
+- **おうが** (07/06 12:06): まーディか
+- **おうが** (07/06 12:06): どしたの？
+- **原石** (07/06 12:43): ちょっと斜視を治すため手術します
+- **れいり** (07/06 12:43): Ok
+- **おうが** (07/06 12:43): 斜視だったんだ
+- **れいり** (07/06 12:52): なんで承認制なの？
+- **おうが** (07/06 12:52): 荒らし来るらしい
+- **れいり** (07/06 23:55): 暇
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 12:03pm
-- **Updated At:** Jul 06, 2026 12:06pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 12:03
+- **更新日::** 07/06 12:06
 
 ---
 
 ### 93. もうほとんどここを訪れません
-**Author:** 天才くん
+**作成者:** 天才くん
 
 たまに来ます
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (8)
-- **スリ** (Jul 06, 2026 11:25am): なんで
-- **R** (Jul 06, 2026 11:28am): どうした
-- **れいり** (Jul 06, 2026 11:33am): スリよっ
-- **おうが** (Jul 06, 2026 11:52am): マジか
-- **おうが** (Jul 06, 2026 12:04pm): あれでしょ住所特定されたから
-- **原石** (Jul 06, 2026 12:52pm): そうゆうこと
-- **どぬく🍑** (Jul 06, 2026 10:59pm): 誰？特定したの…本当に良くないと思う…
-- **おうが** (Jul 06, 2026 11:55pm): れいり
+#### コメント (8)
+- **スリ** (07/06 11:25): なんで
+- **R** (07/06 11:28): どうした
+- **れいり** (07/06 11:33): スリよっ
+- **おうが** (07/06 11:52): マジか
+- **おうが** (07/06 12:04): あれでしょ住所特定されたから
+- **原石** (07/06 12:52): そうゆうこと
+- **どぬく🍑** (07/06 22:59): 誰？特定したの…本当に良くないと思う…
+- **おうが** (07/06 23:55): れいり
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 10:59am
-- **Updated At:** Jul 06, 2026 10:59am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 10:59
+- **更新日::** 07/06 10:59
 
 ---
 
 ### 94. 誰かおる？
-**Author:** れいり
+**作成者:** れいり
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **R** (Jul 06, 2026 10:39am): おるで
-- **原石** (Jul 06, 2026 12:52pm): おる
-- **あかさか** (Jul 10, 2026 02:29am): 規制突破の世界でれいりの偽物が2人いた
+#### コメント (3)
+- **R** (07/06 10:39): おるで
+- **原石** (07/06 12:52): おる
+- **あかさか** (07/10 02:29): 規制突破の世界でれいりの偽物が2人いた
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 09:46am
-- **Updated At:** Jul 06, 2026 09:46am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 09:46
+- **更新日::** 07/06 09:46
 
 ---
 
 ### 95. Rおる？
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (8)
-- **R** (Jul 06, 2026 04:32am): おるで
-- **R** (Jul 06, 2026 04:35am): ちな🌈🍑好きなん？
-- **どぬく🍑** (Jul 06, 2026 04:35am): 通話来て俺が投稿したやつ
-- **どぬく🍑** (Jul 06, 2026 04:35am): 好きだよ
-- **R** (Jul 06, 2026 04:38am): おk 行けるかわからんけど
-- **R** (Jul 06, 2026 04:39am): どこに投稿したん 
-- **どぬく🍑** (Jul 06, 2026 04:41am): 管理者連絡
-- **R** (Jul 06, 2026 04:45am): ？？？ごめん切れる 
+#### コメント (8)
+- **R** (07/06 04:32): おるで
+- **R** (07/06 04:35): ちな🌈🍑好きなん？
+- **どぬく🍑** (07/06 04:35): 通話来て俺が投稿したやつ
+- **どぬく🍑** (07/06 04:35): 好きだよ
+- **R** (07/06 04:38): おk 行けるかわからんけど
+- **R** (07/06 04:39): どこに投稿したん 
+- **どぬく🍑** (07/06 04:41): 管理者連絡
+- **R** (07/06 04:45): ？？？ごめん切れる 
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 03:30am
-- **Updated At:** Jul 06, 2026 03:30am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 03:30
+- **更新日::** 07/06 03:30
 
 ---
 
 ### 96. おうがさんれいりさん予約通話で話しませんか？
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **匿名** (Jul 06, 2026 03:16am): いいよ！！
-- **匿名** (Jul 06, 2026 03:16am): てかもう入ってる
+#### コメント (2)
+- **匿名** (07/06 03:16): いいよ！！
+- **匿名** (07/06 03:16): てかもう入ってる
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 03:15am
-- **Updated At:** Jul 06, 2026 03:15am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 03:15
+- **更新日::** 07/06 03:15
 
 ---
 
 ### 97. 消してるって
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (10)
-- **匿名** (Jul 06, 2026 03:03am): おうがさーん
-- **おうが** (Jul 06, 2026 03:04am): うん？
-- **匿名** (Jul 06, 2026 03:05am): 戻りました
-- **おうが** (Jul 06, 2026 03:05am): どしたの？れいり
-- **匿名** (Jul 06, 2026 03:05am): Rさんってさ管理者なの？
-- **どぬく🍑** (Jul 06, 2026 03:13am): おうがさん通話来て
-- **どぬく🍑** (Jul 06, 2026 03:14am): 誰でもいいからチャットで話そ？
-- **匿名** (Jul 06, 2026 03:14am): やっほー
-- **R** (Jul 06, 2026 04:42am): 匿名違うで管理者おうがさんやで
-- **おうが** (Jul 06, 2026 04:55am): 俺が管理者
+#### コメント (10)
+- **匿名** (07/06 03:03): おうがさーん
+- **おうが** (07/06 03:04): うん？
+- **匿名** (07/06 03:05): 戻りました
+- **おうが** (07/06 03:05): どしたの？れいり
+- **匿名** (07/06 03:05): Rさんってさ管理者なの？
+- **どぬく🍑** (07/06 03:13): おうがさん通話来て
+- **どぬく🍑** (07/06 03:14): 誰でもいいからチャットで話そ？
+- **匿名** (07/06 03:14): やっほー
+- **R** (07/06 04:42): 匿名違うで管理者おうがさんやで
+- **おうが** (07/06 04:55): 俺が管理者
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 02:54am
-- **Updated At:** Jul 06, 2026 02:54am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 02:54
+- **更新日::** 07/06 02:54
 
 ---
 
 ### 98. れいりきて
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **おうが** (Jul 06, 2026 02:02am): https://padlet.com/18jt026/padlet-bkcclvhrb5jzjqfi
+#### コメント (1)
+- **おうが** (07/06 02:02): https://padlet.com/18jt026/padlet-bkcclvhrb5jzjqfi
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 02:02am
-- **Updated At:** Jul 06, 2026 02:02am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 02:02
+- **更新日::** 07/06 02:02
 
 ---
 
 ### 99. こんにちはRです。暇人です☺︎
-**Author:** R
+**作成者:** R
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (7)
-- **フミヅキ** (Jul 06, 2026 01:50am): よろー
-- **おうが** (Jul 06, 2026 02:02am): よろしくー
-- **R** (Jul 06, 2026 02:02am): まじここ神すぎるやろ
-- **R** (Jul 06, 2026 02:08am): まじ暇やから誰か喋ろ
-- **R** (Jul 06, 2026 02:16am): みんな暇な時何してるん
-- **おうが** (Jul 06, 2026 02:41am): 作ったブレインロット
-- **R** (Jul 06, 2026 02:44am): なるほ
+#### コメント (7)
+- **フミヅキ** (07/06 01:50): よろー
+- **おうが** (07/06 02:02): よろしくー
+- **R** (07/06 02:02): まじここ神すぎるやろ
+- **R** (07/06 02:08): まじ暇やから誰か喋ろ
+- **R** (07/06 02:16): みんな暇な時何してるん
+- **おうが** (07/06 02:41): 作ったブレインロット
+- **R** (07/06 02:44): なるほ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 01:50am
-- **Updated At:** Jul 06, 2026 01:50am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 01:50
+- **更新日::** 07/06 01:50
 
 ---
 
 ### 100. こんにちはもやしです
-**Author:** もやし
+**作成者:** もやし
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (4)
-- **どぬく🍑** (Jul 06, 2026 01:35am): よろ！
-- **フミヅキ** (Jul 06, 2026 01:35am): よろ！
-- **おうが** (Jul 06, 2026 02:02am): よろ！
-- **もやし** (Jul 06, 2026 02:21am): よろ
+#### コメント (4)
+- **どぬく🍑** (07/06 01:35): よろ！
+- **フミヅキ** (07/06 01:35): よろ！
+- **おうが** (07/06 02:02): よろ！
+- **もやし** (07/06 02:21): よろ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 01:20am
-- **Updated At:** Jul 06, 2026 01:20am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 01:20
+- **更新日::** 07/06 01:20
 
 ---
 
 ### 101. きて新しいブレインロット部屋
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/18jt026/padlet-bkcclvhrb5jzjqfi)
+[添付ファイル 1](https://padlet.com/18jt026/padlet-bkcclvhrb5jzjqfi)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 12:21am
-- **Updated At:** Jul 06, 2026 12:21am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 00:21
+- **更新日::** 07/06 00:21
 
 ---
 
 ### 102. マイクラのサイト投下！
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://www.autistici.org/eaglercraft/play/EaglercraftX_1.8/JavaScript/)
+[添付ファイル 1](https://www.autistici.org/eaglercraft/play/EaglercraftX_1.8/JavaScript/)
 
-#### Comments (3)
-- **おうが** (Jul 06, 2026 12:19am): ぶろ
-- **どぬく🍑** (Jul 06, 2026 01:35am): OMG
-- **どぬく🍑** (Jul 06, 2026 01:35am): (オーマイガー)
+#### コメント (3)
+- **おうが** (07/06 00:19): ぶろ
+- **どぬく🍑** (07/06 01:35): OMG
+- **どぬく🍑** (07/06 01:35): (オーマイガー)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 12:10am
-- **Updated At:** Jul 06, 2026 12:11am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 00:10
+- **更新日::** 07/06 00:11
 
 ---
 
 ### 103. 名前変えやしたつくしです。しくよろ
-**Author:** つくし
+**作成者:** つくし
 
 おもろいでしょ？
 
@@ -1981,229 +1982,229 @@ forsaken神
 
 ![つくし](https://upload.wikimedia.org/wikipedia/commons/e/e6/%E3%83%84%E3%82%AF%E3%82%B7%EF%BC%88%E3%82%B9%E3%82%AE%E3%83%8A%E3%81%AE%E8%83%9E%E5%AD%90%E8%8C%8E%EF%BC%8920080407a.JPG)
 
-#### Comments (6)
-- **つくし** (Jul 04, 2026 05:55am): しくよろ
-- **つくし** (Jul 04, 2026 05:56am): https://www.youtube.com/watch?v=EmS60v6Ev-0
-- **つくし** (Jul 04, 2026 05:56am): もやしの歌↑
-- **つくし** (Jul 04, 2026 05:56am): https://www.youtube.com/watch?v=maDQWX89FQs
-- **どぬく🍑** (Jul 04, 2026 06:38am): よろしく〜できれば予約電話の一番下に来て欲しい
-- **つくし** (Jul 06, 2026 07:29am): https://www.youtube.com/watch?pdlt=1&v=WXdo27uG3Tk
+#### コメント (6)
+- **つくし** (07/04 05:55): しくよろ
+- **つくし** (07/04 05:56): https://www.youtube.com/watch?v=EmS60v6Ev-0
+- **つくし** (07/04 05:56): もやしの歌↑
+- **つくし** (07/04 05:56): https://www.youtube.com/watch?v=maDQWX89FQs
+- **どぬく🍑** (07/04 06:38): よろしく〜できれば予約電話の一番下に来て欲しい
+- **つくし** (07/06 07:29): https://www.youtube.com/watch?pdlt=1&v=WXdo27uG3Tk
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 04, 2026 05:55am
-- **Updated At:** Jul 04, 2026 05:55am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/04 05:55
+- **更新日::** 07/04 05:55
 
 ---
 
 ### 104. 名前をまたまた変えました
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **メメ子　　フォローして欲しいです!!** (Jul 04, 2026 02:43am): いいね
-- **霊最** (Jul 04, 2026 05:46am): いいね
+#### コメント (2)
+- **メメ子　　フォローして欲しいです!!** (07/04 02:43): いいね
+- **霊最** (07/04 05:46): いいね
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 04, 2026 02:14am
-- **Updated At:** Jul 04, 2026 02:14am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/04 02:14
+- **更新日::** 07/04 02:14
 
 ---
 
 ### 105. 新しく入った霊最です。よろ！仲良くしてね〜！
-**Author:** 霊最 (namifugao)
+**作成者:** 霊最 (namifugao)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (3)
-- **どぬく🍑** (Jul 04, 2026 01:49am): よろしく〜
-- **どぬく🍑** (Jul 04, 2026 01:49am): この人俺の部活の先輩！
-- **原石** (Jul 04, 2026 02:17am): よろしくお願いします
+#### コメント (3)
+- **どぬく🍑** (07/04 01:49): よろしく〜
+- **どぬく🍑** (07/04 01:49): この人俺の部活の先輩！
+- **原石** (07/04 02:17): よろしくお願いします
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 04, 2026 01:48am
-- **Updated At:** Jul 04, 2026 01:48am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/04 01:48
+- **更新日::** 07/04 01:48
 
 ---
 
 ### 106. 名前変えました原石です。
-**Author:** 原石
+**作成者:** 原石
 
 この名前にしたのは自分を磨か上げるという意味を込めました
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-#### Comments (3)
-- **どぬく🍑** (Jul 03, 2026 10:17pm): いい名前ですねよろ！
-- **どぬく🍑** (Jul 03, 2026 10:17pm): 仲良くしてね〜
-- **原石** (Jul 03, 2026 11:31pm): よろしくお願いします
+#### コメント (3)
+- **どぬく🍑** (07/03 22:17): いい名前ですねよろ！
+- **どぬく🍑** (07/03 22:17): 仲良くしてね〜
+- **原石** (07/03 23:31): よろしくお願いします
 
-#### Additional Information
-- **Post color:** Purple
-- **Created At:** Jul 03, 2026 11:57am
-- **Updated At:** Jul 03, 2026 11:57am
+#### その他の情報
+- **投稿のカラー:** パープル
+- **作成日::** 07/03 11:57
+- **更新日::** 07/03 11:57
 
 ---
 
 ### 107. 名前変えました前はカラフルピーチどぬく推しです！よろ！
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **どぬく🍑** (Jul 03, 2026 05:46am): ついでにアイコン変えました
-- **どぬく🍑** (Jul 03, 2026 05:47am): これを見た人は予約電話の一番下に参加！
+#### コメント (2)
+- **どぬく🍑** (07/03 05:46): ついでにアイコン変えました
+- **どぬく🍑** (07/03 05:47): これを見た人は予約電話の一番下に参加！
 
-#### Additional Information
-- **Post color:** Blue
-- **Created At:** Jul 03, 2026 05:43am
-- **Updated At:** Jul 04, 2026 01:48am
+#### その他の情報
+- **投稿のカラー:** ブルー
+- **作成日::** 07/03 05:43
+- **更新日::** 07/04 01:48
 
 ---
 
 ### 108. れいりです。　本物です　最近なりすましがいるので一様自己紹介しておきます
-**Author:** れいり
+**作成者:** れいり
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (2)
-- **おうが** (Jul 03, 2026 05:01am): おっけ
-- **原石** (Jul 04, 2026 02:18am): よろしくお願いします
+#### コメント (2)
+- **おうが** (07/03 05:01): おっけ
+- **原石** (07/04 02:18): よろしくお願いします
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 03, 2026 04:29am
-- **Updated At:** Jul 03, 2026 04:29am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/03 04:29
+- **更新日::** 07/03 04:29
 
 ---
 
 ### 109. 自己紹介してねー
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 3.7 / 5 ⭐ (3)
 
-#### Comments (7)
-- **時透無一郎** (Jun 29, 2026 07:03am): 結構前からだけど改めて時透無一郎ですー第二の管理者でもありますよろしく
-- **おうが** (Jun 29, 2026 11:45pm): よろしくねーここは時透無一郎さんに任せてます
-- **れいり** (Jun 29, 2026 11:50pm): w 確かにずっと助かってる時透さんに
-- **おうが** (Jun 29, 2026 11:58pm): 優しいよね！
-- **れいり** (Jun 30, 2026 12:00am): うん！！
-- **RYOICHI** (Jul 01, 2026 09:36am): yas　おーけ
-- **RONAUDO（偽物）** (Aug 03, 2026 06:34am): こんにちは
+#### コメント (7)
+- **時透無一郎** (06/29 07:03): 結構前からだけど改めて時透無一郎ですー第二の管理者でもありますよろしく
+- **おうが** (06/29 23:45): よろしくねーここは時透無一郎さんに任せてます
+- **れいり** (06/29 23:50): w 確かにずっと助かってる時透さんに
+- **おうが** (06/29 23:58): 優しいよね！
+- **れいり** (06/30 00:00): うん！！
+- **RYOICHI** (07/01 09:36): yas　おーけ
+- **RONAUDO（偽物）** (08/03 06:34): こんにちは
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 29, 2026 12:36am
-- **Updated At:** Jul 03, 2026 02:33am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/29 00:36
+- **更新日::** 07/03 02:33
 
 ---
 
 ### 110. こんにちわーーーーー
-**Author:** Blue Walker (21070045_2)
+**作成者:** Blue Walker (21070045_2)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (8)
-- **おうが** (Jul 03, 2026 02:01am): こんにちはーー
-- **Blue Walker** (Jul 03, 2026 02:02am): ！
-- **おうが** (Jul 03, 2026 02:02am): ！！
-- **Blue Walker** (Jul 03, 2026 02:03am): いたーーーー
-- **Blue Walker** (Jul 03, 2026 02:04am): ここって作り直したんですか？
-- **おうが** (Jul 03, 2026 02:11am): うん重かったから
-- **Blue Walker** (Jul 03, 2026 02:12am): そなんだ
-- **おうが** (Jul 03, 2026 02:12am): ごめんね
+#### コメント (8)
+- **おうが** (07/03 02:01): こんにちはーー
+- **Blue Walker** (07/03 02:02): ！
+- **おうが** (07/03 02:02): ！！
+- **Blue Walker** (07/03 02:03): いたーーーー
+- **Blue Walker** (07/03 02:04): ここって作り直したんですか？
+- **おうが** (07/03 02:11): うん重かったから
+- **Blue Walker** (07/03 02:12): そなんだ
+- **おうが** (07/03 02:12): ごめんね
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 03, 2026 01:57am
-- **Updated At:** Jul 03, 2026 01:57am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/03 01:57
+- **更新日::** 07/03 01:57
 
 ---
 
 ### 111. きくち
-**Author:** マルモのおきて (gs221038)
+**作成者:** マルモのおきて (gs221038)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (2)
-- **おうが** (Jul 03, 2026 01:47am): どゆこと？
-- **原石** (Jul 04, 2026 02:18am): ほんまに
+#### コメント (2)
+- **おうが** (07/03 01:47): どゆこと？
+- **原石** (07/04 02:18): ほんまに
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 02, 2026 11:57pm
-- **Updated At:** Jul 02, 2026 11:57pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/02 23:57
+- **更新日::** 07/02 23:57
 
 ---
 
 ### 112. どぬく推しでーす
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (10)
-- **れいり** (Jul 01, 2026 03:44am): 俺も！　カラぴち
-- **れいり** (Jul 01, 2026 03:44am): あと　うりも推しかも
-- **おうが** (Jul 01, 2026 05:43am): あんまりわからないけどよろしくねー！！
-- **どぬく🍑** (Jul 01, 2026 08:57am): 仲良くしてくださーい
-- **おうが** (Jul 01, 2026 12:11pm): はーい！
-- **どぬく🍑** (Jul 01, 2026 12:24pm): おうがさんいます？
-- **おうが** (Jul 01, 2026 12:37pm): はいはーい
-- **おうが** (Jul 02, 2026 12:48pm): 僕のところでゲーム買ってって言っといてw
-- **どぬく🍑** (Jul 02, 2026 11:03pm): 宣伝でイラスト公開しました！！
-- **どぬく🍑** (Jul 03, 2026 04:33am): スパチャ…(笑)
+#### コメント (10)
+- **れいり** (07/01 03:44): 俺も！　カラぴち
+- **れいり** (07/01 03:44): あと　うりも推しかも
+- **おうが** (07/01 05:43): あんまりわからないけどよろしくねー！！
+- **どぬく🍑** (07/01 08:57): 仲良くしてくださーい
+- **おうが** (07/01 12:11): はーい！
+- **どぬく🍑** (07/01 12:24): おうがさんいます？
+- **おうが** (07/01 12:37): はいはーい
+- **おうが** (07/02 12:48): 僕のところでゲーム買ってって言っといてw
+- **どぬく🍑** (07/02 23:03): 宣伝でイラスト公開しました！！
+- **どぬく🍑** (07/03 04:33): スパチャ…(笑)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 01, 2026 03:10am
-- **Updated At:** Jul 01, 2026 03:10am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/01 03:10
+- **更新日::** 07/01 03:10
 
 ---
 
 ### 113. あんこです、ログインしてないときは変な人って名前でしたよろしく
-**Author:** 削除済みユーザー
+**作成者:** 削除済みユーザー
 
 よろしくおねがいしまーす
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1789193937&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SO9u1Fx07Bj3Uom0vW3zMsO%2BgnObtKr4AvH%2F853ntNjzLBUjFi3jO75egd1j6EKVJJWpXMwoUrjn%2Fi7ejsmXAARxHVtEfuGHY%2FBbHLekqZz9GfeKKE6IA%2F635KV2I4RaSIORxSOZBWgvVw%2BSVhyZIz5D1eQcQJs2Btv3PpyjTb9mCgHEDRs3S3OGOjwwN%2BxlR9chqMgWfmTBVy2h%2FMzLqvfV9aVvXflBWr2tYtoYq9Vy5I0R0bT9vUK7myaeIA5nKPdSphEGhq%2BYsb9%2FQ4RY5033S4WNY6RvDv8SE%2FKvRetzaEY2xzowhpYHqrZyHCvlGAVaYvfsWEiPr7Mcm%2F6yWg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1789196253&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Glyy%2FQtMOpLSb5rDUVT5Z1JsfH7%2BEZ34AUqPgRKalARK28K5vTFOb6aNYnVCgz0LwGUpY6JsIQxgMxnVf0UsJDIm6R5WQTKK7bJFpq6IPDPEkrN0LgQ0lycnmfRMiBEC3L5yAv18g7gRZyKvJ90q8wlCSwT93Iwq3KSe2IuGCMbfCm%2FENnjatFv7VhMoFQ9KD7v9MopVVEELUY62IcCCe9NRx%2FQsSqmm%2BwTrUrJ1LCbEfXBJjpsG1OthIBfZnJYcM98jvg1TqxkVxW0torsbg4XRKYL1c4t7ufqR3SNPANI85%2BZ9l3PIEb%2BiLzK5MaY7jJ9Dxbv9wHE1knq7K1oCIw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
 
-#### Comments (6)
-- **おうが** (Jul 01, 2026 01:55am): よろしくねーー
-- **おうが** (Jul 01, 2026 12:38pm): ドユコト？？www
-- **削除済みユーザー** (Jul 02, 2026 10:14am): なんかコメントいっぱいあってうれしいな♫
-- **原石** (Jul 04, 2026 02:18am): よろしくお願いします
-- **旧あんこ** (Jul 05, 2026 10:29am): コメント遅れてすみませんよろしく(こんなやつにコメント返されたくないですよねww)
-- **旧あんこ** (Jul 05, 2026 10:30am): ↑ログアウト状態だからとりあえず
+#### コメント (6)
+- **おうが** (07/01 01:55): よろしくねーー
+- **おうが** (07/01 12:38): ドユコト？？www
+- **削除済みユーザー** (07/02 10:14): なんかコメントいっぱいあってうれしいな♫
+- **原石** (07/04 02:18): よろしくお願いします
+- **旧あんこ** (07/05 10:29): コメント遅れてすみませんよろしく(こんなやつにコメント返されたくないですよねww)
+- **旧あんこ** (07/05 10:30): ↑ログアウト状態だからとりあえず
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 30, 2026 09:47pm
-- **Updated At:** Jun 30, 2026 09:47pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/30 21:47
+- **更新日::** 06/30 21:47
 
 ---
 
 ### 114. 友達がいない！ヘルプ！
-**Author:** 吉見
+**作成者:** 吉見
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **おうが** (Jul 01, 2026 01:56am): 友達たろ！！
+#### コメント (1)
+- **おうが** (07/01 01:56): 友達たろ！！
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 30, 2026 11:04am
-- **Updated At:** Jun 30, 2026 11:04am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/30 11:04
+- **更新日::** 06/30 11:04
 
 ---
 
 ### 115. 💩
-**Author:** ユメミコ
+**作成者:** ユメミコ
 
 うんこぶりぶり
 
@@ -2211,379 +2212,379 @@ forsaken神
 
 ![うんこ](https://genai-public.padletcdn.com/disco/prod/imagen/1782704797404/sample_0.png)
 
-#### Comments (5)
-- **おうが** (Jul 01, 2026 01:56am): 給食中吹いたw
-- **削除済みユーザー** (Jul 02, 2026 10:14am): リアルすぎw
-- **おうが** (Jul 02, 2026 12:06pm): だねww
-- **どぬく🍑** (Jul 02, 2026 11:04pm): ちょっと良くないな…
-- **原石** (Jul 04, 2026 02:18am): 荒らしだ
+#### コメント (5)
+- **おうが** (07/01 01:56): 給食中吹いたw
+- **削除済みユーザー** (07/02 10:14): リアルすぎw
+- **おうが** (07/02 12:06): だねww
+- **どぬく🍑** (07/02 23:04): ちょっと良くないな…
+- **原石** (07/04 02:18): 荒らしだ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 30, 2026 08:32am
-- **Updated At:** Jun 30, 2026 08:32am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/30 08:32
+- **更新日::** 06/30 08:32
 
 ---
 
 ### 116. れいりの友達のスリです　宜しくお願いします
-**Author:** スリい
+**作成者:** スリい
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (6)
-- **れいり** (Jun 30, 2026 02:09am): スリーいついてるでW
-- **れいり** (Jun 30, 2026 02:09am): w
-- **れいり** (Jun 30, 2026 02:24am): （い）がついてるでw w笑笑笑笑
-- **スリ** (Jun 30, 2026 04:40am): あ　ほんまやwww
-- **おうが** (Jul 01, 2026 02:02am): よろしくー
-- **原石** (Jul 04, 2026 02:19am): よろしくお願いします
+#### コメント (6)
+- **れいり** (06/30 02:09): スリーいついてるでW
+- **れいり** (06/30 02:09): w
+- **れいり** (06/30 02:24): （い）がついてるでw w笑笑笑笑
+- **スリ** (06/30 04:40): あ　ほんまやwww
+- **おうが** (07/01 02:02): よろしくー
+- **原石** (07/04 02:19): よろしくお願いします
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 30, 2026 01:38am
-- **Updated At:** Jun 30, 2026 01:38am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/30 01:38
+- **更新日::** 06/30 01:38
 
 ---
 
 ### 117. たりもりです。
-**Author:** タニモリ
+**作成者:** タニモリ
 
 新参者ですかお願いします。
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **おうが** (Jun 30, 2026 12:56am): よろしくーそんなに固く話さないでいいよー！
-- **原石** (Jul 04, 2026 02:19am): よろしくお願いします
+#### コメント (2)
+- **おうが** (06/30 00:56): よろしくーそんなに固く話さないでいいよー！
+- **原石** (07/04 02:19): よろしくお願いします
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 30, 2026 12:53am
-- **Updated At:** Jun 30, 2026 12:53am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/30 00:53
+- **更新日::** 06/30 00:53
 
 ---
 
 ### 118. 改めまして
-**Author:** 天才くん
+**作成者:** 天才くん
 
 こんにちわ
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (3)
-- **おうが** (Jun 29, 2026 11:45pm): こちらも改めてこんにちは
-- **れいり** (Jun 30, 2026 12:00am): こんにちわよろしく
-- **原石** (Jul 04, 2026 02:19am): …
+#### コメント (3)
+- **おうが** (06/29 23:45): こちらも改めてこんにちは
+- **れいり** (06/30 00:00): こんにちわよろしく
+- **原石** (07/04 02:19): …
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 29, 2026 07:01am
-- **Updated At:** Jun 29, 2026 07:01am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/29 07:01
+- **更新日::** 06/29 07:01
 
 ---
 
 ### 119. れいりです
-**Author:** 匿名
+**作成者:** 匿名
 
 みんなと仲良くしたいです　よろしく😀😄
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (3)
-- **おうが** (Jun 29, 2026 02:04am): れいりは僕も認知してます
-- **匿名** (Jun 29, 2026 03:06am): はい
-- **原石** (Jul 04, 2026 02:19am): よろしくお願いします
+#### コメント (3)
+- **おうが** (06/29 02:04): れいりは僕も認知してます
+- **匿名** (06/29 03:06): はい
+- **原石** (07/04 02:19): よろしくお願いします
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 29, 2026 01:58am
-- **Updated At:** Jun 29, 2026 01:58am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/29 01:58
+- **更新日::** 06/29 01:58
 
 ---
 
 ## 訪問者数＋閲覧数実績
 
 ### 1. 3万5千突破
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 03, 2026 11:30pm
-- **Updated At:** Sep 03, 2026 11:30pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/03 23:30
+- **更新日::** 09/03 23:30
 
 ---
 
 ### 2. 閲覧3万4000突破！！！！
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (4)
-- **R** (Aug 24, 2026 02:13am): おー
-- **R** (Aug 24, 2026 02:13am): すげぇ
-- **R** (Aug 24, 2026 02:14am): 俺まだ３４０だよ
-- **R** (Aug 24, 2026 02:14am): おめでとう
+#### コメント (4)
+- **R** (08/24 02:13): おー
+- **R** (08/24 02:13): すげぇ
+- **R** (08/24 02:14): 俺まだ３４０だよ
+- **R** (08/24 02:14): おめでとう
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 24, 2026 12:46am
-- **Updated At:** Aug 24, 2026 12:46am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/24 00:46
+- **更新日::** 08/24 00:46
 
 ---
 
 ### 3. 閲覧3万突破‼︎
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **R** (Aug 17, 2026 01:14am): おー
-- **RONALDO（偽物）** (Aug 17, 2026 02:46am): すーご
+#### コメント (2)
+- **R** (08/17 01:14): おー
+- **RONALDO（偽物）** (08/17 02:46): すーご
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 16, 2026 11:27pm
-- **Updated At:** Aug 16, 2026 11:27pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/16 23:27
+- **更新日::** 08/16 23:27
 
 ---
 
 ### 4. 訪問者数10000突破！！！
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (9)
-- **おうが** (Jul 27, 2026 12:38pm): 夢が叶った
-- **時透無一郎** (Jul 28, 2026 11:32pm): すごすぎ
-- **時透無一郎** (Jul 28, 2026 11:33pm): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/BJkrQAdzmmXOaEge) 
-- **どぬく🍑** (Jul 31, 2026 11:44am): おうがっち受験平気？
-- **ガチスケ** (Aug 01, 2026 07:18am): おめでとううううううううううううううううううううううううう！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
-- **Blue Walker** (Aug 06, 2026 09:28am): ううううううううううううううううううううう
-- **R** (Aug 06, 2026 10:57am): おめでとうーーーーーーーーーーーーーー
-- **RONALDO（偽物）** (Aug 16, 2026 02:18am): おめ！ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー（めっちゃいる！！！！）
-- **えいこ（あだ名です）** (Sep 05, 2026 05:08am): スゲエ
+#### コメント (9)
+- **おうが** (07/27 12:38): 夢が叶った
+- **時透無一郎** (07/28 23:32): すごすぎ
+- **時透無一郎** (07/28 23:33): [添付ファイル](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/BJkrQAdzmmXOaEge) 
+- **どぬく🍑** (07/31 11:44): おうがっち受験平気？
+- **ガチスケ** (08/01 07:18): おめでとううううううううううううううううううううううううう！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+- **Blue Walker** (08/06 09:28): ううううううううううううううううううううう
+- **R** (08/06 10:57): おめでとうーーーーーーーーーーーーーー
+- **RONALDO（偽物）** (08/16 02:18): おめ！ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー（めっちゃいる！！！！）
+- **えいこ（あだ名です）** (09/05 05:08): スゲエ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 27, 2026 12:37pm
-- **Updated At:** Jul 27, 2026 12:37pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/27 12:37
+- **更新日::** 07/27 12:37
 
 ---
 
 ### 5. あと400が遠い、、、
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 5.0 / 5 ⭐ (3)
 
-#### Comments (5)
-- **おうが応援する人(れいり)** (Jul 09, 2026 11:52pm): そうだね
-- **おうが** (Jul 09, 2026 11:59pm): 頑張るわ
-- **RYOICHI** (Jul 13, 2026 08:46am): いるぜ
-- **ガチスケ** (Aug 17, 2026 01:08am): /
-- **ガチスケ** (Aug 17, 2026 01:08am): ？
+#### コメント (5)
+- **おうが応援する人(れいり)** (07/09 23:52): そうだね
+- **おうが** (07/09 23:59): 頑張るわ
+- **RYOICHI** (07/13 08:46): いるぜ
+- **ガチスケ** (08/17 01:08): /
+- **ガチスケ** (08/17 01:08): ？
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 09, 2026 11:50pm
-- **Updated At:** Jul 27, 2026 12:37pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/09 23:50
+- **更新日::** 07/27 12:37
 
 ---
 
 ### 6. 閲覧数30000突破
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 5.0 / 5 ⭐ (3)
 
-#### Comments (15)
-- **おうが** (Jul 06, 2026 12:04am): もっと宣伝して
-- **匿名** (Jul 06, 2026 03:03am): おめでとー
-- **匿名** (Jul 06, 2026 03:03am): 30000
-- **おうが** (Jul 06, 2026 03:05am): ありがと！！
-- **どぬく🍑** (Jul 06, 2026 03:15am): おめおめおめおめおめおめおめおめおめおめおめおめおめおめおめおめでとう
-- **R** (Jul 06, 2026 03:23am): おめでとぉぉぉぉぉぉぉぉ！！！！！
-- **原石** (Jul 06, 2026 05:35am): おめでとうございます！！！
-- **おうが** (Jul 06, 2026 11:52am): ありがとーーーー
-- **れいり** (Jul 06, 2026 11:55pm): おめでとおおお
-- **おうが** (Jul 06, 2026 11:55pm): ありがとーーーー
-- **Blue Walker** (Jul 08, 2026 02:27am): おめおめ
-- **天才くんのお友達** (Jul 08, 2026 10:26pm): すごすぎる！！！
-- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (Jul 09, 2026 01:42am): 宣伝したよ〜
-- **おうが** (Jul 09, 2026 10:39am): あざっす
-- **R** (Aug 08, 2026 05:12am): 宣伝するね
+#### コメント (15)
+- **おうが** (07/06 00:04): もっと宣伝して
+- **匿名** (07/06 03:03): おめでとー
+- **匿名** (07/06 03:03): 30000
+- **おうが** (07/06 03:05): ありがと！！
+- **どぬく🍑** (07/06 03:15): おめおめおめおめおめおめおめおめおめおめおめおめおめおめおめおめでとう
+- **R** (07/06 03:23): おめでとぉぉぉぉぉぉぉぉ！！！！！
+- **原石** (07/06 05:35): おめでとうございます！！！
+- **おうが** (07/06 11:52): ありがとーーーー
+- **れいり** (07/06 23:55): おめでとおおお
+- **おうが** (07/06 23:55): ありがとーーーー
+- **Blue Walker** (07/08 02:27): おめおめ
+- **天才くんのお友達** (07/08 22:26): すごすぎる！！！
+- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (07/09 01:42): 宣伝したよ〜
+- **おうが** (07/09 10:39): あざっす
+- **R** (08/08 05:12): 宣伝するね
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 12:04am
-- **Updated At:** Jul 09, 2026 11:49pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 00:04
+- **更新日::** 07/09 23:49
 
 ---
 
-### 7. Post 7
-**Author:** ちくわ
+### 7. 投稿 7
+**作成者:** ちくわ
 
 操作できんやんそうやって動くん？
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **おうが** (Jul 06, 2026 11:55pm): キーボードだよー
+#### コメント (1)
+- **おうが** (07/06 23:55): キーボードだよー
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 09:28pm
-- **Updated At:** Jul 06, 2026 11:55pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 21:28
+- **更新日::** 07/06 23:55
 
 ---
 
 ### 8. 訪問者数　9000                           閲覧数　29000 
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 5.0 / 5 ⭐ (6)
 
-#### Comments (19)
-- **匿名** (Jun 29, 2026 01:57am): おー増えてる！
-- **匿名** (Jun 29, 2026 01:57am): おめでとー🥳
-- **おうが** (Jun 29, 2026 02:04am): ありがとーーー！！
-- **おうが** (Jun 29, 2026 11:45pm): 君だねwww
-- **どぬく🍑** (Jul 01, 2026 09:11am): おめおめおめでとう
-- **RYOICHI** (Jul 01, 2026 09:43am): いぇーい
-- **おうが** (Jul 01, 2026 12:11pm): ありがとねーーー！！
-- **Blue Walker** (Jul 02, 2026 01:30am): おめでとーーーう！！
-- **おうが** (Jul 02, 2026 12:07pm): マジでありがと！！これからも頑張るわ！
-- **どぬく🍑** (Jul 02, 2026 11:02pm): がんばがんば
-- **ハチミツ** (Jul 03, 2026 12:18am): おめでとーーーーー
-- **おうが** (Jul 03, 2026 01:47am): ありがと！ハチミツー
-- **Blue Walker** (Jul 03, 2026 01:58am): これからも頑張れ！
-- **おうが** (Jul 03, 2026 02:02am): ありがおーーーー
-- **れいり** (Jul 03, 2026 04:14am): おうがさんなら訪問者1万も夢じゃないね
-- **れいり** (Jul 03, 2026 04:14am): がんばれ
-- **おうが** (Jul 03, 2026 05:01am): ありがと！
-- **R** (Aug 08, 2026 05:10am): おめでとー
-- **RONALDO（偽物）** (Aug 16, 2026 02:19am): おめーーーーーーーーー
+#### コメント (19)
+- **匿名** (06/29 01:57): おー増えてる！
+- **匿名** (06/29 01:57): おめでとー🥳
+- **おうが** (06/29 02:04): ありがとーーー！！
+- **おうが** (06/29 23:45): 君だねwww
+- **どぬく🍑** (07/01 09:11): おめおめおめでとう
+- **RYOICHI** (07/01 09:43): いぇーい
+- **おうが** (07/01 12:11): ありがとねーーー！！
+- **Blue Walker** (07/02 01:30): おめでとーーーう！！
+- **おうが** (07/02 12:07): マジでありがと！！これからも頑張るわ！
+- **どぬく🍑** (07/02 23:02): がんばがんば
+- **ハチミツ** (07/03 00:18): おめでとーーーーー
+- **おうが** (07/03 01:47): ありがと！ハチミツー
+- **Blue Walker** (07/03 01:58): これからも頑張れ！
+- **おうが** (07/03 02:02): ありがおーーーー
+- **れいり** (07/03 04:14): おうがさんなら訪問者1万も夢じゃないね
+- **れいり** (07/03 04:14): がんばれ
+- **おうが** (07/03 05:01): ありがと！
+- **R** (08/08 05:10): おめでとー
+- **RONALDO（偽物）** (08/16 02:19): おめーーーーーーーーー
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 29, 2026 12:40am
-- **Updated At:** Jul 06, 2026 12:04am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/29 00:40
+- **更新日::** 07/06 00:04
 
 ---
 
 ## 作ってほしいゲーム
 
 ### 1. 森の中で99日とか！
-**Author:** 悪意 (h2822107)
+**作成者:** 悪意 (h2822107)
 
 s瀬drftgyふじこplきじゅhygtfrd5t67y8うい子jんhbgyvftry7ウジhgf    気にしないで
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 05, 2026 04:07am
-- **Updated At:** Sep 05, 2026 04:07am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/05 04:07
+- **更新日::** 09/05 04:07
 
 ---
 
 ### 2. 今ならリクエスト聞ける
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (1)
-- **ｓ** (Sep 04, 2026 09:58pm): サッカーゲームを作って
+#### コメント (1)
+- **ｓ** (09/04 21:58): サッカーゲームを作って
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 04, 2026 01:02am
-- **Updated At:** Sep 04, 2026 01:02am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/04 01:02
+- **更新日::** 09/04 01:02
 
 ---
 
 ### 3. リズ天お願いします
-**Author:** 常に眠いひと (h2822110)
+**作成者:** 常に眠いひと (h2822110)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (1)
-- **おうが** (Sep 03, 2026 05:00am): んーまあなしではない
+#### コメント (1)
+- **おうが** (09/03 05:00): んーまあなしではない
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 02, 2026 09:06am
-- **Updated At:** Sep 02, 2026 09:06am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/02 09:06
+- **更新日::** 09/02 09:06
 
 ---
 
 ### 4. アモングアス
-**Author:** 匿名希望 (r0245178)
+**作成者:** 匿名希望 (r0245178)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (1)
-- **おうが** (Sep 03, 2026 05:00am): ええやん
+#### コメント (1)
+- **おうが** (09/03 05:00): ええやん
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 02, 2026 03:06am
-- **Updated At:** Sep 02, 2026 03:06am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/02 03:06
+- **更新日::** 09/02 03:06
 
 ---
 
 ### 5. 第五人格作って欲しいです
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (6)
-- **RONALDO（偽物）** (Aug 17, 2026 11:41pm): お願いします
-- **どぬく🍑** (Aug 18, 2026 01:09am): やほー
-- **RONALDO（偽物）** (Aug 18, 2026 03:18am): やっほー
-- **ガチスケ** (Aug 18, 2026 12:12pm): やほー
-- **どぬく🍑** (Sep 01, 2026 11:06pm): 第五人格作ってみる
-- **どぬく🍑** (Sep 02, 2026 01:50am): 無理使ってるサイトブロックされた
+#### コメント (6)
+- **RONALDO（偽物）** (08/17 23:41): お願いします
+- **どぬく🍑** (08/18 01:09): やほー
+- **RONALDO（偽物）** (08/18 03:18): やっほー
+- **ガチスケ** (08/18 12:12): やほー
+- **どぬく🍑** (09/01 23:06): 第五人格作ってみる
+- **どぬく🍑** (09/02 01:50): 無理使ってるサイトブロックされた
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 17, 2026 11:41pm
-- **Updated At:** Aug 17, 2026 11:41pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/17 23:41
+- **更新日::** 08/17 23:41
 
 ---
 
 ### 6. がっぽり寿司作ってください
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Blue
-- **Created At:** Aug 11, 2026 11:39am
-- **Updated At:** Aug 11, 2026 11:42am
+#### その他の情報
+- **投稿のカラー:** ブルー
+- **作成日::** 08/11 11:39
+- **更新日::** 08/11 11:42
 
 ---
 
 ### 7. 太鼓の達人
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (3)
-- **どぬく🍑** (Aug 09, 2026 05:00am): 作って欲しい
-- **おうが** (Aug 12, 2026 03:00am): 考えとく
-- **ガチスケ** (Aug 14, 2026 07:11am): あの
+#### コメント (3)
+- **どぬく🍑** (08/09 05:00): 作って欲しい
+- **おうが** (08/12 03:00): 考えとく
+- **ガチスケ** (08/14 07:11): あの
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 09, 2026 05:00am
-- **Updated At:** Aug 09, 2026 05:00am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/09 05:00
+- **更新日::** 08/09 05:00
 
 ---
 
 ### 8. いま作ってるのが
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 フォトナのゴーアップあんま自信ない
 
@@ -2593,877 +2594,877 @@ s瀬drftgyふじこplきじゅhygtfrd5t67y8うい子jんhbgyvftry7ウジhgf    �
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (17)
-- **おうが** (Jul 14, 2026 11:29am): これからクオリティーあげて行こうと思うあと作って欲しいのあったら作ろうと思う
-- **どぬく🍑** (Jul 15, 2026 06:51am): ブロスタ
-- **サンド** (Jul 15, 2026 09:05am): ブロスタお願いします
-- **おうが** (Jul 15, 2026 12:39pm): ブロスタか作ってみる
-- **おうが** (Jul 15, 2026 12:39pm): 他ありますか？
-- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (Jul 15, 2026 10:00pm): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/wKmOZ5252NBmWzMA) ONE PIECE バウンティラッシュほしい
-- **おうが** (Jul 19, 2026 11:20am): 考えとく
-- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (Jul 21, 2026 11:58am): やったね♫(決まったわけじゃない)
-- **RONAUDO（偽物）** (Aug 03, 2026 10:33pm): ロブロックスのASMRのムクバンゲームお願いします
-- **ガチスケ** (Aug 08, 2026 02:16am): いつできんの
-- **ガチスケ** (Aug 08, 2026 02:16am): キーボード
-- **ガチスケ** (Aug 08, 2026 02:18am): ｈっっっｊ
-- **おうが** (Aug 12, 2026 03:01am): キーボードできたけどクオリティー低いから出さないでおくごめんね
-- **おうが** (Aug 12, 2026 03:01am): 別のやつ作るから許して
-- **Ryo@shinpei** (Aug 14, 2026 12:03am): できたやつ発表してほしい
-- **ガチスケ** (Aug 14, 2026 07:12am): クオリティー低くくていいからやりたい
-- **ガチスケ** (Aug 14, 2026 07:12am): お願いします
+#### コメント (17)
+- **おうが** (07/14 11:29): これからクオリティーあげて行こうと思うあと作って欲しいのあったら作ろうと思う
+- **どぬく🍑** (07/15 06:51): ブロスタ
+- **サンド** (07/15 09:05): ブロスタお願いします
+- **おうが** (07/15 12:39): ブロスタか作ってみる
+- **おうが** (07/15 12:39): 他ありますか？
+- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (07/15 22:00): [添付ファイル](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/wKmOZ5252NBmWzMA) ONE PIECE バウンティラッシュほしい
+- **おうが** (07/19 11:20): 考えとく
+- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (07/21 11:58): やったね♫(決まったわけじゃない)
+- **RONAUDO（偽物）** (08/03 22:33): ロブロックスのASMRのムクバンゲームお願いします
+- **ガチスケ** (08/08 02:16): いつできんの
+- **ガチスケ** (08/08 02:16): キーボード
+- **ガチスケ** (08/08 02:18): ｈっっっｊ
+- **おうが** (08/12 03:01): キーボードできたけどクオリティー低いから出さないでおくごめんね
+- **おうが** (08/12 03:01): 別のやつ作るから許して
+- **Ryo@shinpei** (08/14 00:03): できたやつ発表してほしい
+- **ガチスケ** (08/14 07:12): クオリティー低くくていいからやりたい
+- **ガチスケ** (08/14 07:12): お願いします
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 14, 2026 11:29am
-- **Updated At:** Jul 14, 2026 11:29am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/14 11:29
+- **更新日::** 07/14 11:29
 
 ---
 
 ## 宣伝
 
-### 1. Post 1
-**Author:** ZPP (11220020_2)
+### 1. 投稿 1
+**作成者:** ZPP (11220020_2)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/11220020_2/padlet-s0236w0pgs5rrze86loh?lang=ja)
+[添付ファイル 1](https://padlet.com/11220020_2/padlet-s0236w0pgs5rrze86loh?lang=ja)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 03, 2026 12:21am
-- **Updated At:** Sep 03, 2026 12:21am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/03 00:21
+- **更新日::** 09/03 00:21
 
 ---
 
-### 2. Post 2
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+### 2. 投稿 2
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 こっちに来て
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://padlet.com/padlets/s0235iptw7wv4lhw6jsh)
+[添付ファイル 1](https://padlet.com/padlets/s0235iptw7wv4lhw6jsh)
 
-#### Comments (2)
-- **えいこ** (Sep 01, 2026 05:23am): 押しです
-- **悪意** (Sep 03, 2026 01:13pm): 推し推し￥
+#### コメント (2)
+- **えいこ** (09/01 05:23): 押しです
+- **悪意** (09/03 13:13): 推し推し￥
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 31, 2026 11:17pm
-- **Updated At:** Aug 31, 2026 11:17pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/31 23:17
+- **更新日::** 08/31 23:17
 
 ---
 
 ### 3. おぼろ復興しましたぜひ来てください
-**Author:** 時透無一郎 (r0300353)
+**作成者:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/r0300353/padlet-lus6xgi9uq4t6brj)
+[添付ファイル 1](https://padlet.com/r0300353/padlet-lus6xgi9uq4t6brj)
 
-#### Comments (1)
-- **どぬく🍑** (Aug 30, 2026 11:20pm): 行くねー
+#### コメント (1)
+- **どぬく🍑** (08/30 23:20): 行くねー
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 30, 2026 11:04pm
-- **Updated At:** Aug 30, 2026 11:04pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/30 23:04
+- **更新日::** 08/30 23:04
 
 ---
 
 ### 4. お願い入って
-**Author:** R (21070007_1)
+**作成者:** R (21070007_1)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/21070007_1/padlet-etdcl2ty1irlx1v2)
+[添付ファイル 1](https://padlet.com/21070007_1/padlet-etdcl2ty1irlx1v2)
 
-#### Comments (1)
-- **Blue Walker** (Aug 25, 2026 04:53am): なんでそんなに何回も宣伝してんの
+#### コメント (1)
+- **Blue Walker** (08/25 04:53): なんでそんなに何回も宣伝してんの
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 24, 2026 02:10am
-- **Updated At:** Aug 24, 2026 02:10am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/24 02:10
+- **更新日::** 08/24 02:10
 
 ---
 
-### 5. Post 5
-**Author:** Blue Walker (21070045_2)
+### 5. 投稿 5
+**作成者:** Blue Walker (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/21070045_2/vivant-pu6c7m2jo3lj8wi8)
+[添付ファイル 1](https://padlet.com/21070045_2/vivant-pu6c7m2jo3lj8wi8)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 21, 2026 01:39am
-- **Updated At:** Aug 21, 2026 01:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/21 01:39
+- **更新日::** 08/21 01:39
 
 ---
 
 ### 6. ブロスタのことで語ろう
-**Author:** バスケ大好きパート3 (73956824278)
+**作成者:** バスケ大好きパート3 (73956824278)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/73956824278/padlet-6nxx5pymf7axwv1h?lang=ja)
+[添付ファイル 1](https://padlet.com/73956824278/padlet-6nxx5pymf7axwv1h?lang=ja)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 17, 2026 09:27pm
-- **Updated At:** Aug 17, 2026 09:27pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/17 21:27
+- **更新日::** 08/17 21:27
 
 ---
 
 ### 7. みんなこれにコメントしてゲームとか共有しよう（誰でもOK）
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/s22121302/padlet-7ekm2s7u3mkpvo7w)
+[添付ファイル 1](https://padlet.com/s22121302/padlet-7ekm2s7u3mkpvo7w)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 16, 2026 08:09am
-- **Updated At:** Aug 16, 2026 08:10am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/16 08:09
+- **更新日::** 08/16 08:10
 
 ---
 
 ### 8. みんなこれにコメントしてゲームやら共有しよう
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/s22121302/padlet-7ekm2s7u3mkpvo7w)
+[添付ファイル 1](https://padlet.com/s22121302/padlet-7ekm2s7u3mkpvo7w)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 16, 2026 08:08am
-- **Updated At:** Aug 16, 2026 08:08am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/16 08:08
+- **更新日::** 08/16 08:08
 
 ---
 
 ### 9. 来てくれええええええ頼むうううううう
-**Author:** ガチスケ (r0400282_1)
+**作成者:** ガチスケ (r0400282_1)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/r0400282_1/bigboyi-imobo-i-drzk5r14p3qr8kto)
+[添付ファイル 1](https://padlet.com/r0400282_1/bigboyi-imobo-i-drzk5r14p3qr8kto)
 
-#### Comments (1)
-- **ガチスケ** (Aug 17, 2026 01:16am): ビックボーーーーーーーーーーーーーイズ
+#### コメント (1)
+- **ガチスケ** (08/17 01:16): ビックボーーーーーーーーーーーーーイズ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 16, 2026 05:33am
-- **Updated At:** Aug 16, 2026 05:33am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/16 05:33
+- **更新日::** 08/16 05:33
 
 ---
 
 ### 10. 来てえーーー
-**Author:** idk＃犬派＃いじめられ度no.1＠フォローしろ (uiuitanaka)
+**作成者:** idk＃犬派＃いじめられ度no.1＠フォローしろ (uiuitanaka)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/uiuitanaka/uiuischool)
+[添付ファイル 1](https://padlet.com/uiuitanaka/uiuischool)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 12, 2026 02:07am
-- **Updated At:** Aug 12, 2026 02:07am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/12 02:07
+- **更新日::** 08/12 02:07
 
 ---
 
 ### 11. きてえええええええええ
-**Author:** あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長 (tdz410pyh1)
+**作成者:** あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長 (tdz410pyh1)
 
 最近会話少なすぎるからきてほしい。せめて自己紹介でも。
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/tdz410pyh1/padlet-o22x7rlovr9tp4qa?lang=ja)
+[添付ファイル 1](https://padlet.com/tdz410pyh1/padlet-o22x7rlovr9tp4qa?lang=ja)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 06, 2026 07:02am
-- **Updated At:** Aug 06, 2026 07:02am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/06 07:02
+- **更新日::** 08/06 07:02
 
 ---
 
 ### 12. 来てくれ
-**Author:** naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員 (naganegitamanegi)
+**作成者:** naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員 (naganegitamanegi)
 
 工ｴｴｪｪ(´д｀)ｪｪｴｴ工
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/naganegitamanegi/padlet-u62azk14ubm195nc?__cf_chl_tk=A4pqhv5QUhB93cTWVIdl49wdOrCbZsl5kE8PljYBl0E-1785908443-1.0.1.1-B9S968Ofp1KmGSulE8tqL3y5lc6eGsFY2kIzXJl6EEc)
+[添付ファイル 1](https://padlet.com/naganegitamanegi/padlet-u62azk14ubm195nc?__cf_chl_tk=A4pqhv5QUhB93cTWVIdl49wdOrCbZsl5kE8PljYBl0E-1785908443-1.0.1.1-B9S968Ofp1KmGSulE8tqL3y5lc6eGsFY2kIzXJl6EEc)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 05, 2026 08:24am
-- **Updated At:** Aug 05, 2026 08:24am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/05 08:24
+- **更新日::** 08/05 08:24
 
 ---
 
-### 13. Post 13
-**Author:** 覚醒のX (21070052_1)
+### 13. 投稿 13
+**作成者:** 覚醒のX (21070052_1)
 
 こちら作ったので使ってみてください
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/21070052_1/padlet-l9bx22n6f2mh56z5)
+[添付ファイル 1](https://padlet.com/21070052_1/padlet-l9bx22n6f2mh56z5)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 30, 2026 10:33pm
-- **Updated At:** Jul 30, 2026 10:33pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/30 22:33
+- **更新日::** 07/30 22:33
 
 ---
 
-### 14. Post 14
-**Author:** Blue Walker (21070045_2)
+### 14. 投稿 14
+**作成者:** Blue Walker (21070045_2)
 
 こちらもよろしくお願いします😊
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9)
+[添付ファイル 1](https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9)
 
-#### Comments (3)
-- **Blue Walker** (Jul 30, 2026 07:34am): https://padlet.com/21070045_2/padlet-oy451qfh92olr77r
-- **Blue Walker** (Jul 30, 2026 07:34am): https://padlet.com/21070045_2/my-padlet-9tippfbjfz1zl8fx
-- **Blue Walker** (Jul 30, 2026 07:35am): https://www.myinstants.com/ja/favorites/
+#### コメント (3)
+- **Blue Walker** (07/30 07:34): https://padlet.com/21070045_2/padlet-oy451qfh92olr77r
+- **Blue Walker** (07/30 07:34): https://padlet.com/21070045_2/my-padlet-9tippfbjfz1zl8fx
+- **Blue Walker** (07/30 07:35): https://www.myinstants.com/ja/favorites/
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 29, 2026 02:36am
-- **Updated At:** Jul 29, 2026 02:37am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/29 02:36
+- **更新日::** 07/29 02:37
 
 ---
 
-### 15. Post 15
-**Author:** メメ子　　フォローして欲しいです!! (se10230080_2)
+### 15. 投稿 15
+**作成者:** メメ子　　フォローして欲しいです!! (se10230080_2)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/1a2b/padlet-sfwvsvyx586j3f2w)
+[添付ファイル 1](https://padlet.com/1a2b/padlet-sfwvsvyx586j3f2w)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 28, 2026 09:00am
-- **Updated At:** Jul 28, 2026 09:00am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/28 09:00
+- **更新日::** 07/28 09:00
 
 ---
 
 ### 16. なにか話すときにぜひ使ってください。
-**Author:** R (21070007_1)
+**作成者:** R (21070007_1)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/21070007_1/padlet-kiizeftt9qd3av48)
+[添付ファイル 1](https://padlet.com/21070007_1/padlet-kiizeftt9qd3av48)
 
-#### Comments (1)
-- **ZPP** (Sep 03, 2026 01:20am): https://padlet.com/11220020_2/padlet-s0236w0pgs5rrze86loh?lang=ja
+#### コメント (1)
+- **ZPP** (09/03 01:20): https://padlet.com/11220020_2/padlet-s0236w0pgs5rrze86loh?lang=ja
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 28, 2026 08:44am
-- **Updated At:** Jul 28, 2026 08:44am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/28 08:44
+- **更新日::** 07/28 08:44
 
 ---
 
 ### 17. ついにぼくも、部屋作り始めました!
-**Author:** あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長 (tdz410pyh1)
+**作成者:** あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長 (tdz410pyh1)
 
 入ってほしいな!!
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/tdz410pyh1/padlet-o22x7rlovr9tp4qa)
+[添付ファイル 1](https://padlet.com/tdz410pyh1/padlet-o22x7rlovr9tp4qa)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 22, 2026 11:38am
-- **Updated At:** Jul 22, 2026 11:38am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/22 11:38
+- **更新日::** 07/22 11:38
 
 ---
 
 ### 18. パトっとチューブ！？
-**Author:** メメ子　　フォローして欲しいです!! (se10230080_2)
+**作成者:** メメ子　　フォローして欲しいです!! (se10230080_2)
 
 パドレット会のYouTubeです
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/se10230080_2/padlet-2wruteyqazlpg08g)
+[添付ファイル 1](https://padlet.com/se10230080_2/padlet-2wruteyqazlpg08g)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 20, 2026 11:12am
-- **Updated At:** Jul 20, 2026 11:12am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/20 11:12
+- **更新日::** 07/20 11:12
 
 ---
 
 ### 19. ロブロやってる人募集〜
-**Author:** jojokenkenpa (211737_6)
+**作成者:** jojokenkenpa (211737_6)
 
 [https://padlet.com/211737\_6/padlet-2a0mwn9ggnfj6bjb](https://padlet.com/211737_6/padlet-2a0mwn9ggnfj6bjb)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5890775394/48af173392fbde3d723b52a5e4a74afa/videoplayback__54_.mp4?Expires=1789193937&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=x8sht0Z6RfIGp97YMc06soV13SrnpQE2va5JJb%2B512Z3J1IlY4QHAZVIBgl00XXDiTJLUV246Lrj1XFrfKFif5Jk8GPGi0%2FmTu4b8zM147ad58p0GuP%2By35W44TQtHPjlI7W5XdFXpcX5aJ%2FLbRw0bvkYs9tvkS7%2BSs18eL%2F3HYWvytkFJzcRoZWlslQNDQ2NK4yxy2tafQGP8mjeZxY2HuyC65KxRJG2JotQ3CU0ARcJfvwU4iRkvUi1zELQJOeEImj%2FyVQIcotj2UlXkyh8AgaHvRdLyBjdDeUpynF60zOOMtnjQNmRAtX5XNYzs31Hf9gZJWNZ5b%2F1dUYyujoNg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5890775394%2F48af173392fbde3d723b52a5e4a74afa%2Fvideoplayback__54_.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5890775394/48af173392fbde3d723b52a5e4a74afa/videoplayback__54_.mp4?Expires=1789196254&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Glms%2Fxmas3IuYQ0K%2BYL6wa8IwZ%2F4SwfJGT4kDdreLbkHcH41pnhEIQx70xEAnZOlJZ594s7OHp3cHn%2BlAunWi4gM7PPmv3MDNrUglr2fDppr83lLeM61ymEx4gLqPNbO9z2QlRsziI79%2FIBv8dpN8Q9OXUmvlkuiZ0GT7HaDvqq%2Bz0fIPiXFKUBJeuK4LxCvl18FRjaKU%2FbtkyIJA0b4faYgQv0uYiytpYyaJqRm0YnaE7O%2BWVUPG%2Bz%2BQUXdQs72%2BzDWtjyR86ACbNw70fltXVDdEK9KYBhMoij1P%2BtxZkVQi%2B6ytetj2S9KGL0tPOz8k2OJzEJUFKul4pG5bwOLZA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5890775394%2F48af173392fbde3d723b52a5e4a74afa%2Fvideoplayback__54_.mp4)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 18, 2026 11:36pm
-- **Updated At:** Jul 18, 2026 11:36pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/18 23:36
+- **更新日::** 07/18 23:36
 
 ---
 
 ### 20. よく行ってる部屋の受付です
-**Author:** 時透無一郎 (r0300353)
+**作成者:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/nimonodayo/padlet-v04juu3iw251p7v)
+[添付ファイル 1](https://padlet.com/nimonodayo/padlet-v04juu3iw251p7v)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 18, 2026 10:50am
-- **Updated At:** Jul 18, 2026 10:50am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/18 10:50
+- **更新日::** 07/18 10:50
 
 ---
 
 ### 21. 作り直したのでそっち入ってきてください
-**Author:** Blue Walker (21070045_2)
+**作成者:** Blue Walker (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/d4f567172245eec87a1cfb74ad0abafa/images__81_.jpeg?Expires=1789193937&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tIc6boLzgQxSf1rSnFky8Wv7KXPVQYTmrdtAPU3qpHtvJT%2FhrMvaVLRjKjg9fBQHN6W5821EHFTSexhCB0EytS%2F0pVP6tp7%2FlCESiKh6K3GzhDkljnarr62gAYWjghD0q6cVt6oGlmW47ZtRliO6XmfXNU1oqy0SVB7SHNPw6SD0wyjiVXrtSRUueYMe61N61EQAAS8Be%2BolV72iq3sh04XT%2F2XYcyX3w2LNMrO2oJaOesvLIHbWDpis2sgRZ6TJ1irDsQaStWX2jKpLfl7Qcdd7leapY62hTz33WYhq4sFLg6zccCUZKPFrRYdlQTZ%2FuVMnatCyYUrKGo7Y8YstVQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fd4f567172245eec87a1cfb74ad0abafa%2Fimages__81_.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/d4f567172245eec87a1cfb74ad0abafa/images__81_.jpeg?Expires=1789196254&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ZPR8%2BHhT0%2FyaAHuSZAFE51KYk5PH9xFpshYbyt8f71svfbYTmP9bFsmZyArbld%2BPXE2switEpP%2BtSiAdSe3WNH1yyfXm2Bteqkm1T8NK3d4mBlGFhBMGcAx78Wz4nmax0jwg62ETE2cy%2Bvl07lZts5rrmLzArOMKFVVU118tkuK7Wc0TNJ8Sf4p2y%2BWaa3XtjEw0knNczm1dwYMoWYRUsvSV044mwENvG3wiW0PiOFZRUwhfJ0u%2Fi%2FJrgKrFbliu53oBOFj%2FxTePYyUXPhCXdcpHdLJg9kgLtOt%2FpshdSI62V138na56Azp80jK%2B%2BzZ%2FWw5PDG5a3a0SkzMr6RNMTg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fd4f567172245eec87a1cfb74ad0abafa%2Fimages__81_.jpeg)
 
-#### Comments (1)
-- **Blue Walker** (Jul 17, 2026 07:55am): https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9
+#### コメント (1)
+- **Blue Walker** (07/17 07:55): https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 17, 2026 07:55am
-- **Updated At:** Jul 17, 2026 07:55am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/17 07:55
+- **更新日::** 07/17 07:55
 
 ---
 
-### 22. Post 22
-**Author:** Blue Walker (21070045_2)
+### 22. 投稿 22
+**作成者:** Blue Walker (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9)
+[添付ファイル 1](https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9)
 
-#### Comments (2)
-- **Blue Walker** (Jul 16, 2026 11:32am): きて
-- **Blue Walker** (Jul 16, 2026 11:42am): お願いします
+#### コメント (2)
+- **Blue Walker** (07/16 11:32): きて
+- **Blue Walker** (07/16 11:42): お願いします
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 11:32am
-- **Updated At:** Jul 16, 2026 11:32am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 11:32
+- **更新日::** 07/16 11:32
 
 ---
 
 ### 23. 来て
-**Author:** 戸松 (s1914045_1)
+**作成者:** 戸松 (s1914045_1)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://padlet.com/padlets/6ih8fqyunun4i9hx)
+[添付ファイル 1](https://padlet.com/padlets/6ih8fqyunun4i9hx)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 09:53am
-- **Updated At:** Jul 16, 2026 09:53am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 09:53
+- **更新日::** 07/16 09:53
 
 ---
 
 ### 24. これはいってくださいお願いします
-**Author:** ぼちぼちいこか愛好家 (2101038_5)
+**作成者:** ぼちぼちいこか愛好家 (2101038_5)
 
 **星評価:** 3.5 / 5 ⭐ (2)
 
-[Attachment 1](https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm/wish/PVKBQOrL7MeMaj5x)
+[添付ファイル 1](https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm/wish/PVKBQOrL7MeMaj5x)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 14, 2026 01:16am
-- **Updated At:** Jul 14, 2026 01:16am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/14 01:16
+- **更新日::** 07/14 01:16
 
 ---
 
 ### 25. 宣伝していいよ
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
-- **Blue Walker** (Jul 16, 2026 11:31am): https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9
-- **Blue Walker** (Jul 16, 2026 11:31am): これももし良かったら宣伝してください
-- **idk＃犬派＃いじめられ度no.1＠フォローしろ** (Jul 28, 2026 06:20am): https://padlet.com/uiuitanaka/uiuischool
-- **idk＃犬派＃いじめられ度no.1＠フォローしろ** (Jul 28, 2026 06:20am): 結構いいのあるよ↑
-- **idk＃犬派＃いじめられ度no.1＠フォローしろ** (Jul 28, 2026 06:20am): 入ってね
+#### コメント (5)
+- **Blue Walker** (07/16 11:31): https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9
+- **Blue Walker** (07/16 11:31): これももし良かったら宣伝してください
+- **idk＃犬派＃いじめられ度no.1＠フォローしろ** (07/28 06:20): https://padlet.com/uiuitanaka/uiuischool
+- **idk＃犬派＃いじめられ度no.1＠フォローしろ** (07/28 06:20): 結構いいのあるよ↑
+- **idk＃犬派＃いじめられ度no.1＠フォローしろ** (07/28 06:20): 入ってね
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 14, 2026 12:52am
-- **Updated At:** Jul 14, 2026 12:52am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/14 00:52
+- **更新日::** 07/14 00:52
 
 ---
 
 ## 雑談
 
 ### 1. 委員会だった！！
-**Author:** は
+**作成者:** は
 
 ごめんここね
 
 **星評価:** 1.0 / 5 ⭐ (1)
 
-#### Comments (1)
-- **ここ** (Sep 05, 2026 03:45am): いいよ！
+#### コメント (1)
+- **ここ** (09/05 03:45): いいよ！
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 04, 2026 07:42am
-- **Updated At:** Sep 04, 2026 07:42am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/04 07:42
+- **更新日::** 09/04 07:42
 
 ---
 
 ### 2. ここ
-**Author:** ぷぷぷ
+**作成者:** ぷぷぷ
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (50)
-- **ここ** (Sep 04, 2026 04:35am): おっけー！
-- **ぷぷぷ** (Sep 04, 2026 04:35am): ひま
-- **ぷぷぷ** (Sep 04, 2026 04:35am): てゆか
-- **ここ** (Sep 04, 2026 04:35am): うん
-- **ぷぷぷ** (Sep 04, 2026 04:35am): つぎ総合台風の目のそうじゅんきめるて
-- **ここ** (Sep 04, 2026 04:35am): あそーなん
-- **ぷぷぷ** (Sep 04, 2026 04:35am): あと歌の練習？
-- **ここ** (Sep 04, 2026 04:36am): なーてかさ
-- **ぷぷぷ** (Sep 04, 2026 04:36am): うん
-- **ここ** (Sep 04, 2026 04:36am): ばれそーなった
-- **ここ** (Sep 04, 2026 04:36am): あぶな
-- **ぷぷぷ** (Sep 04, 2026 04:36am): えなんかゆわれた？
-- **ここ** (Sep 04, 2026 04:36am): たぶれっとでなんかひらいてた？って
-- **ぷぷぷ** (Sep 04, 2026 04:36am): しぬあぶないWWW
-- **ここ** (Sep 04, 2026 04:36am): やばいヨー
-- **ぷぷぷ** (Sep 04, 2026 04:36am): なんでそんなんきいてくるんW
-- **ぷぷぷ** (Sep 04, 2026 04:36am): たんにん？
-- **ここ** (Sep 04, 2026 04:36am): しらん
-- **ここ** (Sep 04, 2026 04:36am): うん
-- **ぷぷぷ** (Sep 04, 2026 04:36am): なんてゆーたん？？
-- **ここ** (Sep 04, 2026 04:37am): 学びぽけっと
-- **ここ** (Sep 04, 2026 04:37am): でさ
-- **ぷぷぷ** (Sep 04, 2026 04:37am): うん笑
-- **ここ** (Sep 04, 2026 04:37am): サファリ開いてっていわれたけど
-- **ぷぷぷ** (Sep 04, 2026 04:37am): えWWW
-- **ここ** (Sep 04, 2026 04:37am): 電源かくしてけしたら
-- **ここ** (Sep 04, 2026 04:37am): じゅうでんないとおもわれた
-- **ぷぷぷ** (Sep 04, 2026 04:38am): WWW
-- **ぷぷぷ** (Sep 04, 2026 04:38am): やばいWWW
-- **ぷぷぷ** (Sep 04, 2026 04:38am): ぜったいばれてるWWW
-- **ここ** (Sep 04, 2026 04:38am): いやいける
-- **ここ** (Sep 04, 2026 04:38am): だっておこってくるやん
-- **ここ** (Sep 04, 2026 04:38am): ふつー
-- **ぷぷぷ** (Sep 04, 2026 04:38am): え、でなんてゆってかえってたん？？たんにん
-- **ここ** (Sep 04, 2026 04:39am): アジュウデンナイカ
-- **ぷぷぷ** (Sep 04, 2026 04:39am): かたかなやめてWWW
-- **ここ** (Sep 04, 2026 04:39am): W
-- **ぷぷぷ** (Sep 04, 2026 04:39am): おもろ
-- **ここ** (Sep 04, 2026 04:40am): それな
-- **ぷぷぷ** (Sep 04, 2026 04:40am): たぶんなんかしてたのはしてたけど証拠がないからもしおこってなんもしてなかったらやばいからちゃう？
-- **ここ** (Sep 04, 2026 04:40am): やばいたんなんきれだした
-- **ここ** (Sep 04, 2026 04:40am): たんにん
-- **ぷぷぷ** (Sep 04, 2026 04:40am): えなんで爆笑
-- **ここ** (Sep 04, 2026 04:41am): うしろでてるまとかが
-- **ここ** (Sep 04, 2026 04:41am): はなしてたから
-- **ぷぷぷ** (Sep 04, 2026 04:41am): WWWWWW
-- **ぷぷぷ** (Sep 04, 2026 04:41am): まじおもろすぎるWWW
-- **ぷぷぷ** (Sep 04, 2026 04:43am): ひまやしげーむさがしてくる
-- **ここ** (Sep 04, 2026 04:47am): おっけー
-- **悪意** (Sep 05, 2026 04:08am): ！
+#### コメント (50)
+- **ここ** (09/04 04:35): おっけー！
+- **ぷぷぷ** (09/04 04:35): ひま
+- **ぷぷぷ** (09/04 04:35): てゆか
+- **ここ** (09/04 04:35): うん
+- **ぷぷぷ** (09/04 04:35): つぎ総合台風の目のそうじゅんきめるて
+- **ここ** (09/04 04:35): あそーなん
+- **ぷぷぷ** (09/04 04:35): あと歌の練習？
+- **ここ** (09/04 04:36): なーてかさ
+- **ぷぷぷ** (09/04 04:36): うん
+- **ここ** (09/04 04:36): ばれそーなった
+- **ここ** (09/04 04:36): あぶな
+- **ぷぷぷ** (09/04 04:36): えなんかゆわれた？
+- **ここ** (09/04 04:36): たぶれっとでなんかひらいてた？って
+- **ぷぷぷ** (09/04 04:36): しぬあぶないWWW
+- **ここ** (09/04 04:36): やばいヨー
+- **ぷぷぷ** (09/04 04:36): なんでそんなんきいてくるんW
+- **ぷぷぷ** (09/04 04:36): たんにん？
+- **ここ** (09/04 04:36): しらん
+- **ここ** (09/04 04:36): うん
+- **ぷぷぷ** (09/04 04:36): なんてゆーたん？？
+- **ここ** (09/04 04:37): 学びぽけっと
+- **ここ** (09/04 04:37): でさ
+- **ぷぷぷ** (09/04 04:37): うん笑
+- **ここ** (09/04 04:37): サファリ開いてっていわれたけど
+- **ぷぷぷ** (09/04 04:37): えWWW
+- **ここ** (09/04 04:37): 電源かくしてけしたら
+- **ここ** (09/04 04:37): じゅうでんないとおもわれた
+- **ぷぷぷ** (09/04 04:38): WWW
+- **ぷぷぷ** (09/04 04:38): やばいWWW
+- **ぷぷぷ** (09/04 04:38): ぜったいばれてるWWW
+- **ここ** (09/04 04:38): いやいける
+- **ここ** (09/04 04:38): だっておこってくるやん
+- **ここ** (09/04 04:38): ふつー
+- **ぷぷぷ** (09/04 04:38): え、でなんてゆってかえってたん？？たんにん
+- **ここ** (09/04 04:39): アジュウデンナイカ
+- **ぷぷぷ** (09/04 04:39): かたかなやめてWWW
+- **ここ** (09/04 04:39): W
+- **ぷぷぷ** (09/04 04:39): おもろ
+- **ここ** (09/04 04:40): それな
+- **ぷぷぷ** (09/04 04:40): たぶんなんかしてたのはしてたけど証拠がないからもしおこってなんもしてなかったらやばいからちゃう？
+- **ここ** (09/04 04:40): やばいたんなんきれだした
+- **ここ** (09/04 04:40): たんにん
+- **ぷぷぷ** (09/04 04:40): えなんで爆笑
+- **ここ** (09/04 04:41): うしろでてるまとかが
+- **ここ** (09/04 04:41): はなしてたから
+- **ぷぷぷ** (09/04 04:41): WWWWWW
+- **ぷぷぷ** (09/04 04:41): まじおもろすぎるWWW
+- **ぷぷぷ** (09/04 04:43): ひまやしげーむさがしてくる
+- **ここ** (09/04 04:47): おっけー
+- **悪意** (09/05 04:08): ！
 
-#### Additional Information
-- **Post color:** Purple
-- **Created At:** Sep 04, 2026 04:34am
-- **Updated At:** Sep 04, 2026 04:35am
+#### その他の情報
+- **投稿のカラー:** パープル
+- **作成日::** 09/04 04:34
+- **更新日::** 09/04 04:35
 
 ---
 
 ### 3. あ
-**Author:** は
+**作成者:** は
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (63)
-- **ここ** (Sep 04, 2026 04:03am): やほ
-- **は** (Sep 04, 2026 04:03am): やほー
-- **ここ** (Sep 04, 2026 04:08am): こんにちははさん 
-- **ここ** (Sep 04, 2026 04:08am): 笑
-- **ここ** (Sep 04, 2026 04:11am): きた？
-- **ぶぷぷ** (Sep 04, 2026 04:11am): えおまえだれとはなしてるん爆笑
-- **は** (Sep 04, 2026 04:13am): きた
-- **ぷぷぷ** (Sep 04, 2026 04:14am): えここってここねじゃないん？
-- **ここ** (Sep 04, 2026 04:14am): ともだち
-- **ぷぷぷ** (Sep 04, 2026 04:14am): え？？
-- **は** (Sep 04, 2026 04:14am): ここはここね
-- **ここ** (Sep 04, 2026 04:14am): え？
-- **ぷぷぷ** (Sep 04, 2026 04:14am): おまえはここね？？
-- **ここ** (Sep 04, 2026 04:14am): うん
-- **ぷぷぷ** (Sep 04, 2026 04:14am): あね
-- **ぷぷぷ** (Sep 04, 2026 04:14am): だれこれ爆笑
-- **ここ** (Sep 04, 2026 04:14am): ともだち
-- **ぷぷぷ** (Sep 04, 2026 04:14am): なまえれ
-- **ぷぷぷ** (Sep 04, 2026 04:14am): なまえ
-- **ここ** (Sep 04, 2026 04:15am): はるか
-- **ぷぷぷ** (Sep 04, 2026 04:15am): いやだれ
-- **ここ** (Sep 04, 2026 04:15am): そらしらんわ
-- **ここ** (Sep 04, 2026 04:15am): 笑
-- **ぷぷぷ** (Sep 04, 2026 04:15am): ごじかゆめはなせる？？
-- **ぷぷぷ** (Sep 04, 2026 04:15am): ごじかんめ
-- **ここ** (Sep 04, 2026 04:15am): うん
-- **ここ** (Sep 04, 2026 04:16am): すーがく
-- **ぷぷぷ** (Sep 04, 2026 04:16am): え数学おなじ
-- **ここ** (Sep 04, 2026 04:16am): がち
-- **ぷぷぷ** (Sep 04, 2026 04:16am): せんせいだれ？
-- **ここ** (Sep 04, 2026 04:16am): いっかいぷりんとおわらせてくる
-- **ここ** (Sep 04, 2026 04:16am): たんにん
-- **ぷぷぷ** (Sep 04, 2026 04:16am): あね
-- **ぷぷぷ** (Sep 04, 2026 04:16am): り
-- **ここ** (Sep 04, 2026 04:16am): はんにもどる
-- **ここ** (Sep 04, 2026 04:17am): さんじゅっぷん
-- **ぷぷぷ** (Sep 04, 2026 04:17am): わかた
-- **ここ** (Sep 04, 2026 04:25am): できた
-- **ここ** (Sep 04, 2026 04:25am): ちょとはやいけど
-- **ぷぷぷ** (Sep 04, 2026 04:29am): あ
-- **ぷぷぷ** (Sep 04, 2026 04:29am): なあひま
-- **ぷぷぷ** (Sep 04, 2026 04:30am): やしげーむさがしてた
-- **ぷぷぷ** (Sep 04, 2026 04:31am): おまえかえってこいよ！！
-- **ぷぷぷ** (Sep 04, 2026 04:31am): はあ
-- **ここ** (Sep 04, 2026 04:32am): きた
-- **ぷぷぷ** (Sep 04, 2026 04:32am): あ
-- **ぷぷぷ** (Sep 04, 2026 04:32am): きた
-- **ここ** (Sep 04, 2026 04:32am): きたよ
-- **ぷぷぷ** (Sep 04, 2026 04:32am): なあきいて爆笑
-- **ここ** (Sep 04, 2026 04:32am): せんせーきた
-- **ここ** (Sep 04, 2026 04:32am): なに
-- **ぷぷぷ** (Sep 04, 2026 04:32am): さっきクラスの人が寄り目しててんな笑
-- **ぷぷぷ** (Sep 04, 2026 04:32am): ひとりで
-- **ぷぷぷ** (Sep 04, 2026 04:33am): で
-- **ここ** (Sep 04, 2026 04:33am): は？W
-- **ぷぷぷ** (Sep 04, 2026 04:33am): どらえもんが
-- **ここ** (Sep 04, 2026 04:33am): うん
-- **ぷぷぷ** (Sep 04, 2026 04:33am): 寄り目の練習？ってゆうてた爆笑
-- **ぷぷぷ** (Sep 04, 2026 04:33am): しぬねんけどWWW
-- **ここ** (Sep 04, 2026 04:34am): W W 
-- **ぷぷぷ** (Sep 04, 2026 04:34am): 埋まってきたから投稿新しくするな
-- **ここ** (Sep 04, 2026 04:34am): おけ
-- **は** (Sep 04, 2026 04:36am): 🥸
+#### コメント (63)
+- **ここ** (09/04 04:03): やほ
+- **は** (09/04 04:03): やほー
+- **ここ** (09/04 04:08): こんにちははさん 
+- **ここ** (09/04 04:08): 笑
+- **ここ** (09/04 04:11): きた？
+- **ぶぷぷ** (09/04 04:11): えおまえだれとはなしてるん爆笑
+- **は** (09/04 04:13): きた
+- **ぷぷぷ** (09/04 04:14): えここってここねじゃないん？
+- **ここ** (09/04 04:14): ともだち
+- **ぷぷぷ** (09/04 04:14): え？？
+- **は** (09/04 04:14): ここはここね
+- **ここ** (09/04 04:14): え？
+- **ぷぷぷ** (09/04 04:14): おまえはここね？？
+- **ここ** (09/04 04:14): うん
+- **ぷぷぷ** (09/04 04:14): あね
+- **ぷぷぷ** (09/04 04:14): だれこれ爆笑
+- **ここ** (09/04 04:14): ともだち
+- **ぷぷぷ** (09/04 04:14): なまえれ
+- **ぷぷぷ** (09/04 04:14): なまえ
+- **ここ** (09/04 04:15): はるか
+- **ぷぷぷ** (09/04 04:15): いやだれ
+- **ここ** (09/04 04:15): そらしらんわ
+- **ここ** (09/04 04:15): 笑
+- **ぷぷぷ** (09/04 04:15): ごじかゆめはなせる？？
+- **ぷぷぷ** (09/04 04:15): ごじかんめ
+- **ここ** (09/04 04:15): うん
+- **ここ** (09/04 04:16): すーがく
+- **ぷぷぷ** (09/04 04:16): え数学おなじ
+- **ここ** (09/04 04:16): がち
+- **ぷぷぷ** (09/04 04:16): せんせいだれ？
+- **ここ** (09/04 04:16): いっかいぷりんとおわらせてくる
+- **ここ** (09/04 04:16): たんにん
+- **ぷぷぷ** (09/04 04:16): あね
+- **ぷぷぷ** (09/04 04:16): り
+- **ここ** (09/04 04:16): はんにもどる
+- **ここ** (09/04 04:17): さんじゅっぷん
+- **ぷぷぷ** (09/04 04:17): わかた
+- **ここ** (09/04 04:25): できた
+- **ここ** (09/04 04:25): ちょとはやいけど
+- **ぷぷぷ** (09/04 04:29): あ
+- **ぷぷぷ** (09/04 04:29): なあひま
+- **ぷぷぷ** (09/04 04:30): やしげーむさがしてた
+- **ぷぷぷ** (09/04 04:31): おまえかえってこいよ！！
+- **ぷぷぷ** (09/04 04:31): はあ
+- **ここ** (09/04 04:32): きた
+- **ぷぷぷ** (09/04 04:32): あ
+- **ぷぷぷ** (09/04 04:32): きた
+- **ここ** (09/04 04:32): きたよ
+- **ぷぷぷ** (09/04 04:32): なあきいて爆笑
+- **ここ** (09/04 04:32): せんせーきた
+- **ここ** (09/04 04:32): なに
+- **ぷぷぷ** (09/04 04:32): さっきクラスの人が寄り目しててんな笑
+- **ぷぷぷ** (09/04 04:32): ひとりで
+- **ぷぷぷ** (09/04 04:33): で
+- **ここ** (09/04 04:33): は？W
+- **ぷぷぷ** (09/04 04:33): どらえもんが
+- **ここ** (09/04 04:33): うん
+- **ぷぷぷ** (09/04 04:33): 寄り目の練習？ってゆうてた爆笑
+- **ぷぷぷ** (09/04 04:33): しぬねんけどWWW
+- **ここ** (09/04 04:34): W W 
+- **ぷぷぷ** (09/04 04:34): 埋まってきたから投稿新しくするな
+- **ここ** (09/04 04:34): おけ
+- **は** (09/04 04:36): 🥸
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 04, 2026 04:03am
-- **Updated At:** Sep 04, 2026 04:03am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/04 04:03
+- **更新日::** 09/04 04:03
 
 ---
 
 ### 4. こんにちは
-**Author:** ぷぷぷ
+**作成者:** ぷぷぷ
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (41)
-- **ここ** (Sep 04, 2026 01:35am): あ
-- **ここ** (Sep 04, 2026 01:39am): こんにちは
-- **ここ** (Sep 04, 2026 01:42am): ぷぷぷはなそ
-- **ぷぷぷ** (Sep 04, 2026 01:44am): はなそお。
-- **ぷぷぷ** (Sep 04, 2026 01:45am): なあぶたたちうざすぎる。
-- **ここ** (Sep 04, 2026 01:45am): おそ
-- **ぷぷぷ** (Sep 04, 2026 01:45am): ぎょめん。
-- **ここ** (Sep 04, 2026 01:45am): かわいそう😢
-- **ぷぷぷ** (Sep 04, 2026 01:46am): うわーん😭
-- **ここ** (Sep 04, 2026 01:46am): 今からテストやからちょいまち
-- **ぷぷぷ** (Sep 04, 2026 01:46am): いつおわる？
-- **ここ** (Sep 04, 2026 01:47am): 17分後くらい
-- **ぷぷぷ** (Sep 04, 2026 01:47am): り
-- **ぷぷぷ** (Sep 04, 2026 01:47am): 11じにもどってくる
-- **ぷぷぷ** (Sep 04, 2026 01:47am): たぶん
-- **ぷぷぷ** (Sep 04, 2026 02:01am): まだですか。
-- **ぷぷぷ** (Sep 04, 2026 02:06am): おそ
-- **ここ** (Sep 04, 2026 02:07am): おわったよ
-- **ここ** (Sep 04, 2026 02:08am): ごめんねなさい
-- **ぷぷぷ** (Sep 04, 2026 02:08am): あ
-- **ぷぷぷ** (Sep 04, 2026 02:08am): きた
-- **ここ** (Sep 04, 2026 02:09am): きたよ
-- **ここ** (Sep 04, 2026 02:09am): なー次体育
-- **ぷぷぷ** (Sep 04, 2026 02:10am): 今の生徒指導の先生通ったこっちみてきたこわ
-- **ここ** (Sep 04, 2026 02:10am): やばいW
-- **ここ** (Sep 04, 2026 02:11am): なんか質問こーなー！って言い出した
-- **ここ** (Sep 04, 2026 02:11am): 技術が
-- **ぷぷぷ** (Sep 04, 2026 02:11am): おまえきえた？
-- **ここ** (Sep 04, 2026 02:12am): 生徒指導？
-- **ぷぷぷ** (Sep 04, 2026 02:13am): はー。
-- **ここ** (Sep 04, 2026 02:14am): あ
-- **ここ** (Sep 04, 2026 02:14am): きた？にみえてた
-- **ここ** (Sep 04, 2026 02:14am): きえてないよ
-- **ぷぷぷ** (Sep 04, 2026 02:14am): もうかえります。さよなりー
-- **ここ** (Sep 04, 2026 02:14am): はー？
-- **ここ** (Sep 04, 2026 02:14am): くそ
-- **ここ** (Sep 04, 2026 02:15am): バイバーイ
-- **ぷぷぶ** (Sep 04, 2026 02:17am): えおったん？？きずかんかた
-- **ぷぷぶ** (Sep 04, 2026 02:18am): えなんかここのもじみえやんかったさっき
-- **ここ** (Sep 04, 2026 03:52am): えがち？
-- **ぶぷぷ** (Sep 04, 2026 04:12am): がちっす。
+#### コメント (41)
+- **ここ** (09/04 01:35): あ
+- **ここ** (09/04 01:39): こんにちは
+- **ここ** (09/04 01:42): ぷぷぷはなそ
+- **ぷぷぷ** (09/04 01:44): はなそお。
+- **ぷぷぷ** (09/04 01:45): なあぶたたちうざすぎる。
+- **ここ** (09/04 01:45): おそ
+- **ぷぷぷ** (09/04 01:45): ぎょめん。
+- **ここ** (09/04 01:45): かわいそう😢
+- **ぷぷぷ** (09/04 01:46): うわーん😭
+- **ここ** (09/04 01:46): 今からテストやからちょいまち
+- **ぷぷぷ** (09/04 01:46): いつおわる？
+- **ここ** (09/04 01:47): 17分後くらい
+- **ぷぷぷ** (09/04 01:47): り
+- **ぷぷぷ** (09/04 01:47): 11じにもどってくる
+- **ぷぷぷ** (09/04 01:47): たぶん
+- **ぷぷぷ** (09/04 02:01): まだですか。
+- **ぷぷぷ** (09/04 02:06): おそ
+- **ここ** (09/04 02:07): おわったよ
+- **ここ** (09/04 02:08): ごめんねなさい
+- **ぷぷぷ** (09/04 02:08): あ
+- **ぷぷぷ** (09/04 02:08): きた
+- **ここ** (09/04 02:09): きたよ
+- **ここ** (09/04 02:09): なー次体育
+- **ぷぷぷ** (09/04 02:10): 今の生徒指導の先生通ったこっちみてきたこわ
+- **ここ** (09/04 02:10): やばいW
+- **ここ** (09/04 02:11): なんか質問こーなー！って言い出した
+- **ここ** (09/04 02:11): 技術が
+- **ぷぷぷ** (09/04 02:11): おまえきえた？
+- **ここ** (09/04 02:12): 生徒指導？
+- **ぷぷぷ** (09/04 02:13): はー。
+- **ここ** (09/04 02:14): あ
+- **ここ** (09/04 02:14): きた？にみえてた
+- **ここ** (09/04 02:14): きえてないよ
+- **ぷぷぷ** (09/04 02:14): もうかえります。さよなりー
+- **ここ** (09/04 02:14): はー？
+- **ここ** (09/04 02:14): くそ
+- **ここ** (09/04 02:15): バイバーイ
+- **ぷぷぶ** (09/04 02:17): えおったん？？きずかんかた
+- **ぷぷぶ** (09/04 02:18): えなんかここのもじみえやんかったさっき
+- **ここ** (09/04 03:52): えがち？
+- **ぶぷぷ** (09/04 04:12): がちっす。
 
-#### Additional Information
-- **Post color:** Purple
-- **Created At:** Sep 04, 2026 01:35am
-- **Updated At:** Sep 04, 2026 02:07am
+#### その他の情報
+- **投稿のカラー:** パープル
+- **作成日::** 09/04 01:35
+- **更新日::** 09/04 02:07
 
 ---
 
 ### 5. 水の部屋宣伝してくれ
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **カマキリ** (Sep 02, 2026 09:43am): 水の部屋って俺の友達の部屋やんw
-- **カマキリ** (Sep 02, 2026 09:43am): https://padlet.com/298344445/padlet-jibykjil8dz23tn7水の部屋
-- **カマキリ** (Sep 02, 2026 09:45am): https://padlet.com/00221133/padlet-9otqidpsq2a33sru俺の部屋
+#### コメント (3)
+- **カマキリ** (09/02 09:43): 水の部屋って俺の友達の部屋やんw
+- **カマキリ** (09/02 09:43): https://padlet.com/298344445/padlet-jibykjil8dz23tn7水の部屋
+- **カマキリ** (09/02 09:45): https://padlet.com/00221133/padlet-9otqidpsq2a33sru俺の部屋
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 02, 2026 02:35am
-- **Updated At:** Sep 02, 2026 02:35am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/02 02:35
+- **更新日::** 09/02 02:35
 
 ---
 
 ### 6. 復活
-**Author:** 時透無一郎 (r0300353)
+**作成者:** 時透無一郎 (r0300353)
 
 一週間くらいいませんでしたすいません
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 30, 2026 10:53pm
-- **Updated At:** Aug 30, 2026 10:53pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/30 22:53
+- **更新日::** 08/30 22:53
 
 ---
 
-### 7. Post 7
-**Author:** そーりー (999d3145fe729ae4)
+### 7. 投稿 7
+**作成者:** そーりー (999d3145fe729ae4)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/999d3145fe729ae4/padlet-cjhtyqb6wxocctbl)
+[添付ファイル 1](https://padlet.com/999d3145fe729ae4/padlet-cjhtyqb6wxocctbl)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 24, 2026 01:37pm
-- **Updated At:** Aug 24, 2026 01:37pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/24 13:37
+- **更新日::** 08/24 13:37
 
 ---
 
 ### 8. 入って
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/s22121302/padlet-7ekm2s7u3mkpvo7w)
+[添付ファイル 1](https://padlet.com/s22121302/padlet-7ekm2s7u3mkpvo7w)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 18, 2026 11:13am
-- **Updated At:** Aug 18, 2026 11:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/18 11:13
+- **更新日::** 08/18 11:13
 
 ---
 
 ### 9. 20時来たぞー
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 18, 2026 11:01am
-- **Updated At:** Aug 18, 2026 11:01am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/18 11:01
+- **更新日::** 08/18 11:01
 
 ---
 
 ### 10. ブロスタでもここでも両方連絡しま
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 18, 2026 10:50am
-- **Updated At:** Aug 18, 2026 10:50am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/18 10:50
+- **更新日::** 08/18 10:50
 
 ---
 
 ### 11. あと10ぷん
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **ガチスケ** (Aug 18, 2026 12:13pm): なにが？
-- **RONALDO（偽物）** (Aug 20, 2026 12:55pm): シャチすけと約束の場
-- **RONALDO（偽物）** (Aug 20, 2026 12:56pm): もう日過ぎてるけど
+#### コメント (3)
+- **ガチスケ** (08/18 12:13): なにが？
+- **RONALDO（偽物）** (08/20 12:55): シャチすけと約束の場
+- **RONALDO（偽物）** (08/20 12:56): もう日過ぎてるけど
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 18, 2026 10:49am
-- **Updated At:** Aug 18, 2026 10:49am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/18 10:49
+- **更新日::** 08/18 10:49
 
 ---
 
 ### 12. シャチすけしかないのでまた明日の20時にここ集合
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 by RONALDO（偽物）
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **RONALDO（偽物）** (Aug 17, 2026 11:49am): かもう一個のブロスタのことで話そうでも同じことを言ってます
-- **RONALDO（偽物）** (Aug 17, 2026 11:49am): 集合はどっちでもいいです
+#### コメント (2)
+- **RONALDO（偽物）** (08/17 11:49): かもう一個のブロスタのことで話そうでも同じことを言ってます
+- **RONALDO（偽物）** (08/17 11:49): 集合はどっちでもいいです
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 17, 2026 11:46am
-- **Updated At:** Aug 17, 2026 11:50am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/17 11:46
+- **更新日::** 08/17 11:50
 
 ---
 
 ### 13. シャチすけどした？
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 17, 2026 11:43am
-- **Updated At:** Aug 17, 2026 11:43am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/17 11:43
+- **更新日::** 08/17 11:43
 
 ---
 
 ### 14. シャチすけ？
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 17, 2026 11:42am
-- **Updated At:** Aug 17, 2026 11:42am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/17 11:42
+- **更新日::** 08/17 11:42
 
 ---
 
 ### 15. これやる？
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://script.google.com/a/macros/kaizuka.ed.jp/s/AKfycbyhh8M175W0rUfyveLo25NgR9e-IpRNCO-XrgbwjAHNwWRAGveXYBu2poQKRRJLraAh/exec)
+[添付ファイル 1](https://script.google.com/a/macros/kaizuka.ed.jp/s/AKfycbyhh8M175W0rUfyveLo25NgR9e-IpRNCO-XrgbwjAHNwWRAGveXYBu2poQKRRJLraAh/exec)
 
-#### Comments (3)
-- **RONALDO（偽物）** (Aug 17, 2026 11:41am): シャチすけへ
-- **RONALDO（偽物）** (Aug 17, 2026 11:43am): これやる？↑
-- **ZPP** (Sep 03, 2026 01:21am): https://padlet.com/11220020_2/padlet-s0236w0pgs5rrze86loh?lang=ja
+#### コメント (3)
+- **RONALDO（偽物）** (08/17 11:41): シャチすけへ
+- **RONALDO（偽物）** (08/17 11:43): これやる？↑
+- **ZPP** (09/03 01:21): https://padlet.com/11220020_2/padlet-s0236w0pgs5rrze86loh?lang=ja
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 17, 2026 11:41am
-- **Updated At:** Aug 17, 2026 11:41am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/17 11:41
+- **更新日::** 08/17 11:41
 
 ---
 
 ### 16. シャチすけ来た？
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
-- **シャチすけ** (Aug 17, 2026 11:38am): きたお
-- **RONALDO（偽物）** (Aug 17, 2026 11:39am): 自己紹介しなあかん
-- **RONALDO（偽物）** (Aug 17, 2026 11:40am): おけ？
-- **シャチすけ** (Aug 17, 2026 11:40am): おｋ
-- **RONALDO（偽物）** (Aug 17, 2026 11:40am): おけ
+#### コメント (5)
+- **シャチすけ** (08/17 11:38): きたお
+- **RONALDO（偽物）** (08/17 11:39): 自己紹介しなあかん
+- **RONALDO（偽物）** (08/17 11:40): おけ？
+- **シャチすけ** (08/17 11:40): おｋ
+- **RONALDO（偽物）** (08/17 11:40): おけ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 17, 2026 11:38am
-- **Updated At:** Aug 17, 2026 11:38am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/17 11:38
+- **更新日::** 08/17 11:38
 
 ---
 
 ### 17. モリガスミさしぶりに会おうや
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 17, 2026 11:35am
-- **Updated At:** Aug 17, 2026 11:35am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/17 11:35
+- **更新日::** 08/17 11:35
 
 ---
 
 ### 18. ねむい
-**Author:** 𝓷𝓮𝓴𝓴𝓸 ⍢ (cat824)
+**作成者:** 𝓷𝓮𝓴𝓴𝓸 ⍢ (cat824)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **RONALDO（偽物）** (Aug 16, 2026 12:22am): 深夜1時ぃぃぃぃぃぃぃぃぃぃぃぃぃぃぃぃぃいぃ
+#### コメント (1)
+- **RONALDO（偽物）** (08/16 00:22): 深夜1時ぃぃぃぃぃぃぃぃぃぃぃぃぃぃぃぃぃいぃ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 15, 2026 04:04pm
-- **Updated At:** Aug 15, 2026 04:04pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/15 16:04
+- **更新日::** 08/15 16:04
 
 ---
 
 ### 19. フォローしてくれたらフォロバします
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **RONALDO（偽物）** (Aug 12, 2026 10:24am): お願いします
-- **ガチスケ** (Aug 17, 2026 01:09am): しました
-- **RONALDO（偽物）** (Aug 17, 2026 02:46am): いけました
+#### コメント (3)
+- **RONALDO（偽物）** (08/12 10:24): お願いします
+- **ガチスケ** (08/17 01:09): しました
+- **RONALDO（偽物）** (08/17 02:46): いけました
 
-#### Reactions
-- **Emojis:** ❤️ (1)
+#### リアクション
+- **絵文字:** ❤️ (1)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 12, 2026 10:23am
-- **Updated At:** Aug 12, 2026 10:23am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/12 10:23
+- **更新日::** 08/12 10:23
 
 ---
 
 ### 20. このゲームの感想おしえて〜
-**Author:** むちるん (s20200967_2)
+**作成者:** むちるん (s20200967_2)
 
 まあ色々あってv4なんだけど、まだ仮で作ったから、こっからオンラインランキングとか作る予定
 
@@ -3475,38 +3476,38 @@ by RONALDO（偽物）
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5098783411/aac01b8516c4e82b2b93dfac91195850/game_v4__1_.zip?Expires=1789193938&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wjL5xSfKeUnd9HC7zG49SdoxpmQV6fKR0xiqv3gOMNqn0FCof0ievXM5%2BLqNIL9JPKiJ%2FMOH661y%2BCn%2BrtSm1FfJj9y8cic7TqlGx037WUd97ZRhhe%2BkP3p8G3kEnA5HzTxH2jiL77kB4bgCS0obyREso7lGmySV4VmiPdyRgRMt9IUzIMWGqnaM37e4H8mEZ%2FVRRnXxDpYLN4tliu%2FmeSwGsrGpeTlaLjGPDabI73gHsWzDjQBs9%2B8gkYJKSvlHm1fx2nhKlUzEnxjCHBCnPwxJ042OZEa2nHEaPXDJzFRS2kzZ%2BsjN8EPcwBM%2Bn3gvom6DkJ7MSWxIwPdeVoG3SQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5098783411%2Faac01b8516c4e82b2b93dfac91195850%2Fgame_v4__1_.zip)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5098783411/aac01b8516c4e82b2b93dfac91195850/game_v4__1_.zip?Expires=1789196254&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2DcDlANCpBrYEZ3yZ%2BxOPqE%2FHDniD5NZDghyd9CBJrTFKhztudLvjHPqAfMltSHn0y8sVUF1ocHnX3L1KA5C45uAdZ4U%2BQy3Z%2FXUvitNlL%2F82Om2XDkgnT8GDSKXU6sP6%2FRrf3lkVlFtswnKeIIUAvXxTl1ocstbFwg1BBSv1cbM0b%2BSCvmxxy23n8VR0GGRLStWqTmEIkFVpMxazPTQ%2Fcle12DRGugrNKlIa%2FjehOnE5MuCLZJxVtSod4VfTeHkWZ9KSTxpucrROHBGh9b9BQpy8To3inZreph8r5pfB5sbHeXVh5%2FDbjXLOhSkzGLgdIeLanWmUsvgAk5XB38ZQg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5098783411%2Faac01b8516c4e82b2b93dfac91195850%2Fgame_v4__1_.zip)
 
-#### Comments (5)
-- **むちるん（スマホ垢）** (Aug 10, 2026 09:11pm): スマホ垢作りました！
-- **RONALDO（偽物）** (Aug 12, 2026 10:23am): 学タブだからできません
-- **ガチスケ** (Aug 15, 2026 12:33pm): https://www.drpartners.jp/tools/browser-memocho.htm
-- **ガチスケ** (Aug 15, 2026 12:34pm): これ挙げるそれと同じの作ってくださいあねがいします
-- **ガチスケ** (Aug 15, 2026 12:35pm): 後すごく面白いです
+#### コメント (5)
+- **むちるん（スマホ垢）** (08/10 21:11): スマホ垢作りました！
+- **RONALDO（偽物）** (08/12 10:23): 学タブだからできません
+- **ガチスケ** (08/15 12:33): https://www.drpartners.jp/tools/browser-memocho.htm
+- **ガチスケ** (08/15 12:34): これ挙げるそれと同じの作ってくださいあねがいします
+- **ガチスケ** (08/15 12:35): 後すごく面白いです
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 10, 2026 08:19pm
-- **Updated At:** Aug 10, 2026 08:19pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/10 20:19
+- **更新日::** 08/10 20:19
 
 ---
 
 ### 21. 今日の夜8時に人狼ゲームを開催します！ID BZK5M2
-**Author:** 野球選手 (s20122301)
+**作成者:** 野球選手 (s20122301)
 
 ぜひ来てください！
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 05, 2026 08:37am
-- **Updated At:** Aug 05, 2026 08:37am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/05 08:37
+- **更新日::** 08/05 08:37
 
 ---
 
 ### 22. オウガさんが使ってるゲイム作れるサイト教えていたタゲまあすんか？
-**Author:** Ryo@shinpei (Ryo_shinpei)
+**作成者:** Ryo@shinpei (Ryo_shinpei)
 
 お願いします。
 
@@ -3514,1796 +3515,1796 @@ by RONALDO（偽物）
 
 ![ハッキング](https://genai-public.padletcdn.com/disco/prod/gemini/7071861c98c50f81931115875ee5eba2.png)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 05, 2026 02:04am
-- **Updated At:** Aug 05, 2026 12:11pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/05 02:04
+- **更新日::** 08/05 12:11
 
 ---
 
 ### 23. 予約通話が成り立ってない気がする
-**Author:** 時透無一郎 (r0300353)
+**作成者:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
-- **RONAUDO（偽物）** (Aug 04, 2026 11:39am): 成り立ってないんですよ
-- **RONAUDO（偽物）** (Aug 04, 2026 11:39am): 入ってくださいよ
-- **RONAUDO（偽物）** (Aug 04, 2026 11:39am): 人狼に
-- **RONAUDO（偽物）** (Aug 04, 2026 11:40am): ID    67UR52    貼っときます
-- **RONAUDO（偽物）** (Aug 04, 2026 11:40am): 自分は入ってます
+#### コメント (5)
+- **RONAUDO（偽物）** (08/04 11:39): 成り立ってないんですよ
+- **RONAUDO（偽物）** (08/04 11:39): 入ってくださいよ
+- **RONAUDO（偽物）** (08/04 11:39): 人狼に
+- **RONAUDO（偽物）** (08/04 11:40): ID    67UR52    貼っときます
+- **RONAUDO（偽物）** (08/04 11:40): 自分は入ってます
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 04, 2026 11:38am
-- **Updated At:** Aug 04, 2026 11:38am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/04 11:38
+- **更新日::** 08/04 11:38
 
 ---
 
 ### 24. モリガスミごめんパドレット集合やった
-**Author:** RONAUDO（偽物）
+**作成者:** RONAUDO（偽物）
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (4)
-- **野球選手** (Aug 04, 2026 11:37am): あつまれ~~~~~~~~
-- **モリガスミ** (Aug 04, 2026 11:38am): IDは？
-- **RONAUDO（偽物）** (Aug 04, 2026 11:42am): 67UR52
-- **RONAUDO（偽物）** (Aug 04, 2026 11:43am): モリガスミごめんIDはんのわすれてた
+#### コメント (4)
+- **野球選手** (08/04 11:37): あつまれ~~~~~~~~
+- **モリガスミ** (08/04 11:38): IDは？
+- **RONAUDO（偽物）** (08/04 11:42): 67UR52
+- **RONAUDO（偽物）** (08/04 11:43): モリガスミごめんIDはんのわすれてた
 
-#### Reactions
-- **Emojis:** ❤️ (1)
+#### リアクション
+- **絵文字:** ❤️ (1)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 04, 2026 11:36am
-- **Updated At:** Aug 04, 2026 11:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/04 11:36
+- **更新日::** 08/04 11:36
 
 ---
 
 ### 25. 夜に入ってください
-**Author:** RONAUDO（偽物）
+**作成者:** RONAUDO（偽物）
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 04, 2026 08:06am
-- **Updated At:** Aug 04, 2026 08:06am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/04 08:06
+- **更新日::** 08/04 08:06
 
 ---
 
 ### 26. あとで入ってこいよーー
-**Author:** RONAUDO（偽物）
+**作成者:** RONAUDO（偽物）
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 04, 2026 05:03am
-- **Updated At:** Aug 04, 2026 05:03am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/04 05:03
+- **更新日::** 08/04 05:03
 
 ---
 
 ### 27. 2時なったぞーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
-**Author:** RONAUDO（偽物）
+**作成者:** RONAUDO（偽物）
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 04, 2026 05:01am
-- **Updated At:** Aug 04, 2026 05:01am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/04 05:01
+- **更新日::** 08/04 05:01
 
 ---
 
 ### 28. 野球選手が作ります
-**Author:** 野球選手 (s20122301)
+**作成者:** 野球選手 (s20122301)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **野球選手** (Aug 04, 2026 04:59am): ID 67UR52 です　
-- **野球選手** (Aug 04, 2026 05:00am): 来た人は入ってきてください
-- **RONAUDO（偽物）** (Aug 04, 2026 05:19am): みんなここ入ってな今やってるで↑
+#### コメント (3)
+- **野球選手** (08/04 04:59): ID 67UR52 です　
+- **野球選手** (08/04 05:00): 来た人は入ってきてください
+- **RONAUDO（偽物）** (08/04 05:19): みんなここ入ってな今やってるで↑
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 04, 2026 04:58am
-- **Updated At:** Aug 04, 2026 04:58am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/04 04:58
+- **更新日::** 08/04 04:58
 
 ---
 
 ### 29. モリガスミ準備してーーー
-**Author:** RONAUDO（偽物）
+**作成者:** RONAUDO（偽物）
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 04, 2026 04:55am
-- **Updated At:** Aug 04, 2026 04:55am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/04 04:55
+- **更新日::** 08/04 04:55
 
 ---
 
 ### 30. もうちょいで12時なるであと2時間やでここに返信してな↓
-**Author:** RONAUDO（偽物）
+**作成者:** RONAUDO（偽物）
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **RONAUDO（偽物）** (Aug 04, 2026 02:54am): ここ
-- **RONAUDO（偽物）** (Aug 04, 2026 04:42am): あと20分な
+#### コメント (2)
+- **RONAUDO（偽物）** (08/04 02:54): ここ
+- **RONAUDO（偽物）** (08/04 04:42): あと20分な
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 04, 2026 02:54am
-- **Updated At:** Aug 04, 2026 02:54am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/04 02:54
+- **更新日::** 08/04 02:54
 
 ---
 
 ### 31. モリガスミルーム作っといてな
-**Author:** RONAUDO（偽物）
+**作成者:** RONAUDO（偽物）
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (2)
-- **RONAUDO（偽物）** (Aug 04, 2026 01:38am): 頼む
-- **RONAUDO（偽物）** (Aug 04, 2026 01:39am): 2時にコメントちょうだい
+#### コメント (2)
+- **RONAUDO（偽物）** (08/04 01:38): 頼む
+- **RONAUDO（偽物）** (08/04 01:39): 2時にコメントちょうだい
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 04, 2026 12:55am
-- **Updated At:** Aug 04, 2026 12:55am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/04 00:55
+- **更新日::** 08/04 00:55
 
 ---
 
 ### 32. 昼の2時にこないとやりません（途中参加はOKです）
-**Author:** RONAUDO（偽物）
+**作成者:** RONAUDO（偽物）
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 03, 2026 10:12pm
-- **Updated At:** Aug 03, 2026 10:12pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/03 22:12
+- **更新日::** 08/03 22:12
 
 ---
 
 ### 33. ルーム作りました　　今日の昼の2時に入ってください
-**Author:** RONAUDO（偽物）
+**作成者:** RONAUDO（偽物）
 
 ID  **M2FKP2   貼っときます**
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (2)
-- **RONAUDO（偽物）** (Aug 03, 2026 11:55pm): ほんまのIDこれPYX33U
-- **RONAUDO（偽物）** (Aug 03, 2026 11:55pm): 昼の2時な
+#### コメント (2)
+- **RONAUDO（偽物）** (08/03 23:55): ほんまのIDこれPYX33U
+- **RONAUDO（偽物）** (08/03 23:55): 昼の2時な
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 03, 2026 10:11pm
-- **Updated At:** Aug 03, 2026 10:11pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/03 22:11
+- **更新日::** 08/03 22:11
 
 ---
 
 ### 34. みんなぜひこのサイトきて明日の昼の2時にな↓
-**Author:** RONAUDO（偽物）
+**作成者:** RONAUDO（偽物）
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (1)
-- **RONAUDO（偽物）** (Aug 03, 2026 09:23pm): モリガスミおはよう🌞
+#### コメント (1)
+- **RONAUDO（偽物）** (08/03 21:23): モリガスミおはよう🌞
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 03, 2026 12:53pm
-- **Updated At:** Aug 03, 2026 12:53pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/03 12:53
+- **更新日::** 08/03 12:53
 
 ---
 
 ### 35. 明日の昼の2時またやります！やりたい人は是非来て欲しいです！
-**Author:** モリガスミ
+**作成者:** モリガスミ
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (6)
-- **モリガスミ** (Aug 03, 2026 12:42pm): このサイトです！https://script.google.com/macros/s/AKfycbyhh8M175W0rUfyveLo25NgR9e-IpRNCO-XrgbwjAHNwWRAGveXYBu2poQKRRJLraAh/exec
-- **RONAUDO（偽物）** (Aug 03, 2026 12:45pm): モリガスミNICE
-- **RONAUDO（偽物）** (Aug 03, 2026 12:46pm): おやすみ🌙
-- **モリガスミ** (Aug 03, 2026 12:46pm): おやすみー
-- **RONAUDO（偽物）** (Aug 03, 2026 12:47pm): 明日の昼の2時
-- **RONAUDO（偽物）** (Aug 03, 2026 12:47pm): おやすみ
+#### コメント (6)
+- **モリガスミ** (08/03 12:42): このサイトです！https://script.google.com/macros/s/AKfycbyhh8M175W0rUfyveLo25NgR9e-IpRNCO-XrgbwjAHNwWRAGveXYBu2poQKRRJLraAh/exec
+- **RONAUDO（偽物）** (08/03 12:45): モリガスミNICE
+- **RONAUDO（偽物）** (08/03 12:46): おやすみ🌙
+- **モリガスミ** (08/03 12:46): おやすみー
+- **RONAUDO（偽物）** (08/03 12:47): 明日の昼の2時
+- **RONAUDO（偽物）** (08/03 12:47): おやすみ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 03, 2026 12:41pm
-- **Updated At:** Aug 03, 2026 12:41pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/03 12:41
+- **更新日::** 08/03 12:41
 
 ---
 
 ### 36. 俺の声
-**Author:** RONAUDO（偽物）
+**作成者:** RONAUDO（偽物）
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6029193951/3e7f6b7a0e3b459677f623643fdb56d1/video.mp4?Expires=1789193938&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JxNKAggZIAf09QE1SCkFap5g6KC8a1eCP2a%2BuMxnUY6wDFmH80bpHpAYoE70P8C0Eo1Z0cq1c3jq2Cfc5uAMbaxy52YChr9sM3hRbNtgNlrGy%2BQRY%2FX%2FKFVhqUTSdThm5N2kQpnh23QYfqrPv59awqs6vgECkHT2sICO%2F022%2F0dFTebIy0bVyR%2F8wC3wpNaXwEkiFzJhMpKGZZNoyera4i1Rti4YmYlFGWVQTEN%2BqWWdSHAxRFY7hU8QoClR9EP8ZGInS4xpGQkk7humjlWyf5T%2FOLLN31q5qulqCrgy4%2Blfjp9TY5NLAuq3fHUwMxZD8l7fzQH8z3aD%2Bk4EWrNRQA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6029193951%2F3e7f6b7a0e3b459677f623643fdb56d1%2Fvideo.mp4)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/6029193951/3e7f6b7a0e3b459677f623643fdb56d1/video.mp4?Expires=1789196254&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EjhG0h8nzMhRY6gElTOmYfWT4MGRyn%2FB72u38qmhiA9f3v7amIV2RZ5YCbVeaID2zDyKfpufC4JAmJqL2KSR%2BEWgx%2BOFs6c06NCwzDBtV6veWn74D6hxETuPE5EnS%2FJXpurAD2BKDMiv1wqaxFXkcK208GVwJz5NuDEl5ESbEhDG3GRONSOuuvuH8IyRrK62YImdPH0%2BUHC%2FO7tdSFGJSPhDf0iOAiPXYeP1dn%2BCTrsuuw9Y%2FnikiBEL2YW5237sFYQ9%2Fg99XQjb35ZAGonj2JXfI%2F9IOpaI67et8SbO5yO7rYCLRTgTeiWFA2%2B6bacK88%2BUou%2BQSXrLEWF0OKXGeA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6029193951%2F3e7f6b7a0e3b459677f623643fdb56d1%2Fvideo.mp4)
 
-#### Comments (4)
-- **モリガスミ** (Aug 03, 2026 12:35pm): 実写！？
-- **RONAUDO（偽物）** (Aug 03, 2026 12:36pm): YES
-- **ガチスケ** (Aug 15, 2026 12:55pm): 豪華な家だね
-- **RONALDO（偽物）** (Aug 16, 2026 02:16am): ありが10！
+#### コメント (4)
+- **モリガスミ** (08/03 12:35): 実写！？
+- **RONAUDO（偽物）** (08/03 12:36): YES
+- **ガチスケ** (08/15 12:55): 豪華な家だね
+- **RONALDO（偽物）** (08/16 02:16): ありが10！
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 03, 2026 12:35pm
-- **Updated At:** Aug 03, 2026 12:35pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/03 12:35
+- **更新日::** 08/03 12:35
 
 ---
 
 ### 37. 誰かああああ！やろう！
-**Author:** モリガスミ
+**作成者:** モリガスミ
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://script.google.com/macros/s/AKfycbyhh8M175W0rUfyveLo25NgR9e-IpRNCO-XrgbwjAHNwWRAGveXYBu2poQKRRJLraAh/exec)
+[添付ファイル 1](https://script.google.com/macros/s/AKfycbyhh8M175W0rUfyveLo25NgR9e-IpRNCO-XrgbwjAHNwWRAGveXYBu2poQKRRJLraAh/exec)
 
-#### Comments (46)
-- **ガチスケ** (Aug 03, 2026 06:23am): いいよ
-- **モリガスミ** (Aug 03, 2026 06:46am): 3人は必要なんですよね……(俺を含めずに)
-- **モリガスミ** (Aug 03, 2026 06:51am): 4人~12人まででーす
-- **RONAUDO（偽物）** (Aug 03, 2026 06:55am): いいよ
-- **RONAUDO（偽物）** (Aug 03, 2026 06:55am): 全然やりますよ
-- **モリガスミ** (Aug 03, 2026 06:56am): 神！！！ 
-- **RONAUDO（偽物）** (Aug 03, 2026 06:56am): ww
-- **モリガスミ** (Aug 03, 2026 06:57am): まあ……人が結構必要なんですよねー
-- **RONAUDO（偽物）** (Aug 03, 2026 06:57am): 大変ですね
-- **モリガスミ** (Aug 03, 2026 06:57am): 一回ルーム作りまーす
-- **RONAUDO（偽物）** (Aug 03, 2026 06:57am): 了解
-- **RONAUDO（偽物）** (Aug 03, 2026 06:58am): IDなんですか？
-- **モリガスミ** (Aug 03, 2026 06:58am): Q5QCQWです！
-- **RONAUDO（偽物）** (Aug 03, 2026 06:59am): なぜか消えました
-- **モリガスミ** (Aug 03, 2026 06:59am): マジ！？
-- **RONAUDO（偽物）** (Aug 03, 2026 07:00am): はい
-- **RONAUDO（偽物）** (Aug 03, 2026 07:00am): すいません
-- **野球選手** (Aug 03, 2026 07:00am): 俺も人狼したい！
-- **モリガスミ** (Aug 03, 2026 07:00am): 一回作っていただいていいですか？
-- **RONAUDO（偽物）** (Aug 03, 2026 07:00am): はい
-- **モリガスミ** (Aug 03, 2026 07:00am): お、また1人来ました！
-- **モリガスミ** (Aug 03, 2026 07:01am): よろしく！
-- **RONAUDO（偽物）** (Aug 03, 2026 07:01am): いいやん
-- **RONAUDO（偽物）** (Aug 03, 2026 07:01am): V8SG8M  IDこれです
-- **モリガスミ** (Aug 03, 2026 07:01am): おけ！
-- **モリガスミ** (Aug 03, 2026 07:02am): ちょっと待ってください
-- **RONAUDO（偽物）** (Aug 03, 2026 07:02am): はい
-- **RONAUDO（偽物）** (Aug 03, 2026 07:03am): あと一人やね
-- **モリガスミ** (Aug 03, 2026 07:21am): あと1人！！！！
-- **RONAUDO（偽物）** (Aug 03, 2026 07:22am): あと一人！
-- **モリガスミ** (Aug 03, 2026 08:54am): 8時おけ
-- **RONAUDO（偽物）** (Aug 03, 2026 08:55am): YES
-- **RONAUDO（偽物）** (Aug 03, 2026 08:56am): 8時でよろしく
-- **野球選手** (Aug 03, 2026 10:54am): 8時だよー
-- **モリガスミ** (Aug 03, 2026 10:55am): お
-- **モリガスミ** (Aug 03, 2026 10:55am): 作る？
-- **野球選手** (Aug 03, 2026 10:56am): 作ろうかな
-- **モリガスミ** (Aug 03, 2026 10:56am): おけ
-- **野球選手** (Aug 03, 2026 10:57am): IDは2AMSKD
-- **モリガスミ** (Aug 03, 2026 10:58am): ちょっと待ってて
-- **野球選手** (Aug 03, 2026 11:01am): 部屋作ったからID貼ってるから来て
-- **モリガスミ** (Aug 03, 2026 11:31am): 是非来てねー
-- **RONAUDO（偽物）** (Aug 03, 2026 12:33pm): きた？
-- **モリガスミ** (Aug 03, 2026 12:34pm): 来た
-- **RONAUDO（偽物）** (Aug 03, 2026 12:35pm): いっちゃん上にスワイプして
-- **RONAUDO（偽物）** (Aug 03, 2026 12:35pm): 声送ってや
+#### コメント (46)
+- **ガチスケ** (08/03 06:23): いいよ
+- **モリガスミ** (08/03 06:46): 3人は必要なんですよね……(俺を含めずに)
+- **モリガスミ** (08/03 06:51): 4人~12人まででーす
+- **RONAUDO（偽物）** (08/03 06:55): いいよ
+- **RONAUDO（偽物）** (08/03 06:55): 全然やりますよ
+- **モリガスミ** (08/03 06:56): 神！！！ 
+- **RONAUDO（偽物）** (08/03 06:56): ww
+- **モリガスミ** (08/03 06:57): まあ……人が結構必要なんですよねー
+- **RONAUDO（偽物）** (08/03 06:57): 大変ですね
+- **モリガスミ** (08/03 06:57): 一回ルーム作りまーす
+- **RONAUDO（偽物）** (08/03 06:57): 了解
+- **RONAUDO（偽物）** (08/03 06:58): IDなんですか？
+- **モリガスミ** (08/03 06:58): Q5QCQWです！
+- **RONAUDO（偽物）** (08/03 06:59): なぜか消えました
+- **モリガスミ** (08/03 06:59): マジ！？
+- **RONAUDO（偽物）** (08/03 07:00): はい
+- **RONAUDO（偽物）** (08/03 07:00): すいません
+- **野球選手** (08/03 07:00): 俺も人狼したい！
+- **モリガスミ** (08/03 07:00): 一回作っていただいていいですか？
+- **RONAUDO（偽物）** (08/03 07:00): はい
+- **モリガスミ** (08/03 07:00): お、また1人来ました！
+- **モリガスミ** (08/03 07:01): よろしく！
+- **RONAUDO（偽物）** (08/03 07:01): いいやん
+- **RONAUDO（偽物）** (08/03 07:01): V8SG8M  IDこれです
+- **モリガスミ** (08/03 07:01): おけ！
+- **モリガスミ** (08/03 07:02): ちょっと待ってください
+- **RONAUDO（偽物）** (08/03 07:02): はい
+- **RONAUDO（偽物）** (08/03 07:03): あと一人やね
+- **モリガスミ** (08/03 07:21): あと1人！！！！
+- **RONAUDO（偽物）** (08/03 07:22): あと一人！
+- **モリガスミ** (08/03 08:54): 8時おけ
+- **RONAUDO（偽物）** (08/03 08:55): YES
+- **RONAUDO（偽物）** (08/03 08:56): 8時でよろしく
+- **野球選手** (08/03 10:54): 8時だよー
+- **モリガスミ** (08/03 10:55): お
+- **モリガスミ** (08/03 10:55): 作る？
+- **野球選手** (08/03 10:56): 作ろうかな
+- **モリガスミ** (08/03 10:56): おけ
+- **野球選手** (08/03 10:57): IDは2AMSKD
+- **モリガスミ** (08/03 10:58): ちょっと待ってて
+- **野球選手** (08/03 11:01): 部屋作ったからID貼ってるから来て
+- **モリガスミ** (08/03 11:31): 是非来てねー
+- **RONAUDO（偽物）** (08/03 12:33): きた？
+- **モリガスミ** (08/03 12:34): 来た
+- **RONAUDO（偽物）** (08/03 12:35): いっちゃん上にスワイプして
+- **RONAUDO（偽物）** (08/03 12:35): 声送ってや
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 03, 2026 05:47am
-- **Updated At:** Aug 03, 2026 05:47am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/03 05:47
+- **更新日::** 08/03 05:47
 
 ---
 
 ### 38. おうがさんが使ってるゲーム作れるサイト教えて下さい。
-**Author:** Ryo@shinpei (Ryo_shinpei)
+**作成者:** Ryo@shinpei (Ryo_shinpei)
 
 お願いしやす
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **おうが** (Aug 02, 2026 12:27pm): 俺はAIで作ってるよ
+#### コメント (1)
+- **おうが** (08/02 12:27): 俺はAIで作ってるよ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 31, 2026 04:23am
-- **Updated At:** Aug 02, 2026 01:03am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/31 04:23
+- **更新日::** 08/02 01:03
 
 ---
 
 ### 39. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (4)
-- **BIRUSU** (Jul 25, 2026 11:13am): urusaina
-- **Blue Walker** (Jul 30, 2026 07:09am): 荒らしてんじゃねぇよ
-- **Blue Walker** (Jul 30, 2026 07:09am): 消せ
-- **ガチスケ** (Aug 15, 2026 12:56pm): 消せマジで邪魔荒瀬墓えれえええええええええええ
+#### コメント (4)
+- **BIRUSU** (07/25 11:13): urusaina
+- **Blue Walker** (07/30 07:09): 荒らしてんじゃねぇよ
+- **Blue Walker** (07/30 07:09): 消せ
+- **ガチスケ** (08/15 12:56): 消せマジで邪魔荒瀬墓えれえええええええええええ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 40. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 41. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 42. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 43. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 44. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 45. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 46. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 47. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 48. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 49. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 50. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 51. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 52. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 53. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 54. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 55. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 56. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 57. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 58. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 59. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 60. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 61. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 62. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 63. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 64. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 65. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 66. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 67. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 68. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 69. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 70. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 71. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 72. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 73. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 74. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 75. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 76. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 77. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 78. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 79. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 80. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 81. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 82. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 83. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 84. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 85. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 86. あ
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:13am
-- **Updated At:** Jul 25, 2026 08:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:13
+- **更新日::** 07/25 08:13
 
 ---
 
 ### 87. でっかくなる
-**Author:** きゃやのん (r0201129_3)
+**作成者:** きゃやのん (r0201129_3)
 
 いいこと書こう！
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5060298995/1d1f9b4328cbf83a640cd46c00678311/super_mario_kart_rainbow_road.mp3?Expires=1789193938&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UV1tJ4%2Fg9YVyRnT0Z3MM5VL2WXX6RPK%2F9fw5vWaX00XIg2L9XxC7gvzEmndomamPAmADfbhaGYAsAH07WGownSAyt0TdNQNhVYs6cdF5FL4i26Cli%2FTAs2OchyHctYOw2xRcKr8oQIt7yWM%2FF%2B1Ws%2FnTntX8qpyBnrkAp%2FB5r1VznawbOaB3FtN0RYhGxyuuMcP%2B%2BiiXWc8P7oE2LvLPmSAdO8nBKZBMitqWci5zYtMr2g47e4ad8zxTNrbC%2Ba9o%2B9PBb7mWnrJNdjieMSrOtYpcRIPM6ea46ydKfu4vJfhMOc8Esb1E8PgYYiKxFCLC9j7L8MJKIJReGwJHnztjFw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5060298995%2F1d1f9b4328cbf83a640cd46c00678311%2Fsuper_mario_kart_rainbow_road.mp3)
+[添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5060298995/1d1f9b4328cbf83a640cd46c00678311/super_mario_kart_rainbow_road.mp3?Expires=1789196254&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ozME8g3hM%2BA4aIznAxcT1sII1yn3wq2nUsBJ8sgokR20j5iE74N81In2vcZtUa3MEOCH9fjh7EZu6TsuxLJmAuwLBh4cCNqZlWlgeQw7nOMEfwZlODEhksaBiMadd9hTE4QyJ%2FFj28nHu5i8XgHg%2B%2F0ndhSBdtgrz7t%2Fa8QKLTZfusexDmvBC4%2B5lsDCnFY5rCXPidN2MBfbBpmwyC0178fv%2BF9g5KrqK7qBIqJ5v8rPD7RBwL5yonhiiTtQOT44sd%2BkzqNhYDBWu%2B6hyig9n%2FZVC0e1F1x6qK7svB6VM0KfHH5YxylnUpoB9xk7tUmjoa9BH07STuInE9wAF7pp5w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5060298995%2F1d1f9b4328cbf83a640cd46c00678311%2Fsuper_mario_kart_rainbow_road.mp3)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 08:19am
-- **Updated At:** Jul 25, 2026 08:20am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 08:19
+- **更新日::** 07/25 08:20
 
 ---
 
 ### 88. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 89. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 90. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 91. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 92. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 93. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 94. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 95. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 96. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 97. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 98. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 99. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 100. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 101. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 102. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 103. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 104. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 105. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 106. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 107. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 108. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 109. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 110. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 111. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 112. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 113. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 114. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 115. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 116. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 117. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 118. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 119. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 120. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 121. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 122. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 123. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 124. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 125. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 126. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 127. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 128. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 129. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 130. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 131. a
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:39am
-- **Updated At:** Jul 25, 2026 05:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:39
+- **更新日::** 07/25 05:39
 
 ---
 
 ### 132. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 133. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 134. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 135. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 136. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 137. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 138. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 139. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 140. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 141. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 142. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 143. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 144. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 145. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 146. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 147. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 148. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 149. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 150. qq
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 151. q
-**Author:** tokumei
+**作成者:** tokumei
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 25, 2026 05:36am
-- **Updated At:** Jul 25, 2026 05:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/25 05:36
+- **更新日::** 07/25 05:36
 
 ---
 
 ### 152. arcade.padlet.com
-**Author:** 時透無一郎 (r0300353)
+**作成者:** 時透無一郎 (r0300353)
 
 第二弾
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://arcade.padlet.com/game/7qje8O4erl)
+[添付ファイル 1](https://arcade.padlet.com/game/7qje8O4erl)
 
-#### Comments (12)
-- **R** (Jul 17, 2026 11:03am): おー！
-- **R** (Jul 18, 2026 12:04am): たのしかったです
-- **Blue Walker** (Jul 17, 2026 11:18am): たのしい！
-- **時透無一郎** (Jul 18, 2026 10:46am): よかったー
-- **tokumei** (Jul 25, 2026 05:36am): f
-- **tokumei** (Jul 25, 2026 05:36am): f
-- **tokumei** (Jul 25, 2026 05:36am): f
-- **tokumei** (Jul 25, 2026 05:36am): f
-- **tokumei** (Jul 25, 2026 05:36am): ff
-- **tokumei** (Jul 25, 2026 05:36am): f
-- **tokumei** (Jul 25, 2026 05:36am): f
-- **tokumei** (Jul 25, 2026 05:36am): ff
+#### コメント (12)
+- **R** (07/17 11:03): おー！
+- **R** (07/18 00:04): たのしかったです
+- **Blue Walker** (07/17 11:18): たのしい！
+- **時透無一郎** (07/18 10:46): よかったー
+- **tokumei** (07/25 05:36): f
+- **tokumei** (07/25 05:36): f
+- **tokumei** (07/25 05:36): f
+- **tokumei** (07/25 05:36): f
+- **tokumei** (07/25 05:36): ff
+- **tokumei** (07/25 05:36): f
+- **tokumei** (07/25 05:36): f
+- **tokumei** (07/25 05:36): ff
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 17, 2026 09:58am
-- **Updated At:** Jul 17, 2026 09:59am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/17 09:58
+- **更新日::** 07/17 09:59
 
 ---
 
 ### 153. 気が向いたら入ってみてください。
-**Author:** R (21070007_1)
+**作成者:** R (21070007_1)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/21070007_1/padlet-etdcl2ty1irlx1v2)
+[添付ファイル 1](https://padlet.com/21070007_1/padlet-etdcl2ty1irlx1v2)
 
-#### Comments (1)
-- **マグロ大好き** (Jul 23, 2026 12:23pm): 結構いいところです
+#### コメント (1)
+- **マグロ大好き** (07/23 12:23): 結構いいところです
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 17, 2026 09:35am
-- **Updated At:** Jul 17, 2026 09:35am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/17 09:35
+- **更新日::** 07/17 09:35
 
 ---
 
 ### 154. すいません作り直したやつ貼るのでそっち入ってください
-**Author:** Blue Walker (21070045_2)
+**作成者:** Blue Walker (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/0e4ef5caa2fa907d63366816cebf35bf/_________2026_02_27T105345_007.jpeg?Expires=1789193938&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Gd%2BT17qpkCDdE8lroL9D8Yz%2FX1DJzuW2LQi9oF5NiapNT9RGgSu7Ulg%2B4CFRRmjxC7NOgFo2JkuDkBgROsPFNGvTVQ2IayaGOXAD3y36BMfUil57DZsiDSTMKi%2Bp2FHqz8VOh97mNT8GgreE3oOc7Yrz20rMXc1PWPbtJNft9SZjGHE3BgtazKQj2bsVp41EMccrbDUulxX6dA0zIbrA1yzdJewhd7TZhzErYWpa%2FCYetFU0b3Y68RPEkolNOoCt3quES087EWCBYu5A04hrBD8mTM3wNkvgccCUoNR1vQwpH%2F9C5eThVsBzADOvw23aS7yYFRM4Y0HY%2B5ND8wSidg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2F0e4ef5caa2fa907d63366816cebf35bf%2F_________2026_02_27T105345_007.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/0e4ef5caa2fa907d63366816cebf35bf/_________2026_02_27T105345_007.jpeg?Expires=1789196255&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0DnHnSLpdSKS6Q0COdvrljU13oGbHW3dKaB68y%2BUAlFQ83F%2FQrunvcdnmfCYjjtt0Xu6APjQQfrmqSmsxiq89YRhlzltS8%2BAyY5g3EHgEt0Tazld7Fx3EsiXtOo7HKtkMoeM2rOFUAWEhNTKMTDF%2FVQp0V4cXGQTJ9XJ3lt%2BnQoU0YYOP7ayYpqvBsV6v4IeKedPA3FGIeUiTp8JWkiGJu7NzftJtybEzaPQRcroOzu12KWaHJFAgBFmLOuKJgvR0Od2lJJrjstm%2FgFhrJM2I7OSbfqWz6cg5s8A6gim03GtO5CVshmEzEZmc%2Fy7eDMjUmSNEtLtlAybD6QEVgMViQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2F0e4ef5caa2fa907d63366816cebf35bf%2F_________2026_02_27T105345_007.jpeg)
 
-#### Comments (1)
-- **Blue Walker** (Jul 17, 2026 07:55am): https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9
+#### コメント (1)
+- **Blue Walker** (07/17 07:55): https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 17, 2026 07:54am
-- **Updated At:** Jul 17, 2026 07:54am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/17 07:54
+- **更新日::** 07/17 07:54
 
 ---
 
 ### 155. 漫画みれるサイト
-**Author:** あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長 (tdz410pyh1)
+**作成者:** あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長 (tdz410pyh1)
 
 教えてほしいおねがい
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 11:59am
-- **Updated At:** Jul 16, 2026 11:59am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 11:59
+- **更新日::** 07/16 11:59
 
 ---
 
 ### 156. フォートナイト世界プロになった！
-**Author:** 世界プロ　DFM
+**作成者:** 世界プロ　DFM
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **世界プロ　DFM** (Jul 16, 2026 11:54am): よろしく😀
-- **Blue Walker** (Jul 17, 2026 11:18am): よろ
-- **フォートナイト世界プロ　DFM** (Jul 17, 2026 12:31pm): コメントありがとう
+#### コメント (3)
+- **世界プロ　DFM** (07/16 11:54): よろしく😀
+- **Blue Walker** (07/17 11:18): よろ
+- **フォートナイト世界プロ　DFM** (07/17 12:31): コメントありがとう
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 11:50am
-- **Updated At:** Jul 16, 2026 11:50am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 11:50
+- **更新日::** 07/16 11:50
 
 ---
 
-### 157. Post 157
-**Author:** Blue Walker (21070045_2)
+### 157. 投稿 157
+**作成者:** Blue Walker (21070045_2)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9)
+[添付ファイル 1](https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9)
 
-#### Comments (3)
-- **Blue Walker** (Jul 16, 2026 11:28am): お願い致します拡散してほしいです。
-- **Blue Walker** (Jul 16, 2026 11:29am): あとできたら入ってください
-- **世界プロ　DFM** (Jul 16, 2026 11:53am): こんちは〜
+#### コメント (3)
+- **Blue Walker** (07/16 11:28): お願い致します拡散してほしいです。
+- **Blue Walker** (07/16 11:29): あとできたら入ってください
+- **世界プロ　DFM** (07/16 11:53): こんちは〜
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 16, 2026 11:28am
-- **Updated At:** Jul 16, 2026 11:28am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/16 11:28
+- **更新日::** 07/16 11:28
 
 ---
 
 ### 158. omg
-**Author:** あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長 (tdz410pyh1)
+**作成者:** あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長 (tdz410pyh1)
 
 間違って、、、、、アカウント削除してしまった。
 
@@ -5311,452 +5312,452 @@ ID  **M2FKP2   貼っときます**
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (Jul 14, 2026 10:00pm): んんンンンンンンンンンンンンンンンンンン最悪
+#### コメント (1)
+- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (07/14 22:00): んんンンンンンンンンンンンンンンンンンン最悪
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 14, 2026 09:59pm
-- **Updated At:** Jul 14, 2026 09:59pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/14 21:59
+- **更新日::** 07/14 21:59
 
 ---
 
 ### 159. 美味しそう
-**Author:** 天才くん
+**作成者:** 天才くん
 
 **星評価:** 0 / 5 ⭐
 
 ![世界1おいしいたこ焼き　大阪](https://genai-public.padletcdn.com/disco/prod/imagen/1783921388139/sample_0.png)
 
-#### Comments (2)
-- **ぼちぼちいこか愛好家** (Jul 13, 2026 08:39am): これAIか？
-- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (Jul 14, 2026 10:01pm): タコ苦手だからタコ抜きで食べたいwww
+#### コメント (2)
+- **ぼちぼちいこか愛好家** (07/13 08:39): これAIか？
+- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (07/14 22:01): タコ苦手だからタコ抜きで食べたいwww
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 13, 2026 05:43am
-- **Updated At:** Jul 13, 2026 05:43am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/13 05:43
+- **更新日::** 07/13 05:43
 
 ---
 
 ### 160. 天才くん
-**Author:** Jr.
+**作成者:** Jr.
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **Jr.** (Jul 12, 2026 08:44am): 縄文時代弥生時代いる？
-- **Jr.** (Jul 12, 2026 08:45am): [Attachment](https://www.youtube.com/watch?pdlt=1&v=rBJzRyc0jxk) 
-- **Jr.** (Jul 12, 2026 08:48am): [Attachment](https://media1.giphy.com/media/v1.Y2lkPWNhYmM5OTE4eHB4M3Rqc3F3Zjg5azd2MTkycGwya2tobDlkbWE4ajdtdnZ6dDRnNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bh4jzePjmd9iE/giphy.gif) ミニオンみたいなのがいるゲーム
+#### コメント (3)
+- **Jr.** (07/12 08:44): 縄文時代弥生時代いる？
+- **Jr.** (07/12 08:45): [添付ファイル](https://www.youtube.com/watch?pdlt=1&v=rBJzRyc0jxk) 
+- **Jr.** (07/12 08:48): [添付ファイル](https://media1.giphy.com/media/v1.Y2lkPWNhYmM5OTE4eHB4M3Rqc3F3Zjg5azd2MTkycGwya2tobDlkbWE4ajdtdnZ6dDRnNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bh4jzePjmd9iE/giphy.gif) ミニオンみたいなのがいるゲーム
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 12, 2026 08:43am
-- **Updated At:** Jul 12, 2026 08:43am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/12 08:43
+- **更新日::** 07/12 08:43
 
 ---
 
 ### 161. 天才くん
-**Author:** Jr.
+**作成者:** Jr.
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
-- **Jr.** (Jul 12, 2026 08:32am): 豚ゲーいる？
-- **Jr.** (Jul 12, 2026 08:39am): [Attachment](https://media0.giphy.com/media/v1.Y2lkPWNhYmM5OTE4dDZ4bG1mZW0wNWU1ZHhxYnBhdWV1MzR4OXQ3Z2J5bmloajc0NnJnZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GDnwOAn9sv9Tayw7KA/giphy.gif) こんなキャラ
-- **Jr.** (Jul 12, 2026 08:40am): [Attachment](https://media4.giphy.com/media/v1.Y2lkPWNhYmM5OTE4dDZ4bG1mZW0wNWU1ZHhxYnBhdWV1MzR4OXQ3Z2J5bmloajc0NnJnZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ZiO1CgBYqRODAr96U/giphy.gif) でこんな動きをする
-- **Jr.** (Jul 12, 2026 08:40am): ゲーム
-- **Jr.2号（Jr.）** (Jul 14, 2026 10:44am): 水の部屋
+#### コメント (5)
+- **Jr.** (07/12 08:32): 豚ゲーいる？
+- **Jr.** (07/12 08:39): [添付ファイル](https://media0.giphy.com/media/v1.Y2lkPWNhYmM5OTE4dDZ4bG1mZW0wNWU1ZHhxYnBhdWV1MzR4OXQ3Z2J5bmloajc0NnJnZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GDnwOAn9sv9Tayw7KA/giphy.gif) こんなキャラ
+- **Jr.** (07/12 08:40): [添付ファイル](https://media4.giphy.com/media/v1.Y2lkPWNhYmM5OTE4dDZ4bG1mZW0wNWU1ZHhxYnBhdWV1MzR4OXQ3Z2J5bmloajc0NnJnZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ZiO1CgBYqRODAr96U/giphy.gif) でこんな動きをする
+- **Jr.** (07/12 08:40): ゲーム
+- **Jr.2号（Jr.）** (07/14 10:44): 水の部屋
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 12, 2026 08:31am
-- **Updated At:** Jul 12, 2026 08:31am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/12 08:31
+- **更新日::** 07/12 08:31
 
 ---
 
 ### 162. 暇人tow timeにあげる（下手でごめん🙏）
-**Author:** R
+**作成者:** R
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5936812725/dab533c9b8c38dfc9677622b6a269af6/IMG_0022.jpeg?Expires=1789193938&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=i3%2BqiwTfL6ba4OKTgdtY2KqJ7PYhlG8NRy78K1QMah5duM26ktLWvGnIoRLqXBy8iQcdxix1K0i4fOJdiyJg4HAuLKJ8uYCwRizpVsPUPeKBLEhtQUMwSfldFqnF3pF54q2Sqnwudh%2Fb4v5Fk5ckrNTfnSvGLI8b45ssFqPNXY37xEDUNPppTDnR0gFYAzt5Q6zmGPMM4Z0EWCiBLce50rGFRa01i3zxHYbPaAhgy4G7QBBEk%2BD3BZnH8cgIHNzaMKFodd%2FSsKeiYPfkJhLO%2B9OBYb9btE4i%2Fxpr6BoYV9FrpGvonXuuvJrua3fZCPBCk4RZocbNinF8fclLw7fIMQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5936812725%2Fdab533c9b8c38dfc9677622b6a269af6%2FIMG_0022.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5936812725/dab533c9b8c38dfc9677622b6a269af6/IMG_0022.jpeg?Expires=1789196255&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JD4NlJWzrMzvtqkthVmtUymgmPqXDK7jF%2B%2BOoV659IREnKr3mAG2dGUN0d8WIiluMTafXJDlw1TU%2BtQgEboVwUjc8xU7cu%2FIQV%2BAWTz7ce0NQPei55zNLT7EGBV3eMxWBTvS1jU6ctkZWezpkYUFS%2Fo3tNAb11c%2Bxkru2iON3ztKBi4J4KKyKpzIB67jQyOEARNZMP99RS0W972SqJ13B1Wlj4%2FATy1%2FG%2BT35o0Uk%2F8JwYD5lItxka2490eUlZYfy3554s3xQAQWB4QyOuTtFAqeAKcNskQjUZd9do3dsOeJieynSqFs%2Fu70bEMbLWwlUUP5eA638Qj91vLpVS%2FSaA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5936812725%2Fdab533c9b8c38dfc9677622b6a269af6%2FIMG_0022.jpeg)
 
-#### Comments (3)
-- **R** (Jul 12, 2026 12:10am): 友達が欲しいって言っててたまたまあった笑
-- **R** (Jul 12, 2026 12:12am): ロイロで作ったから下手かも？
-- **天才くん** (Jul 13, 2026 05:33am): うま
+#### コメント (3)
+- **R** (07/12 00:10): 友達が欲しいって言っててたまたまあった笑
+- **R** (07/12 00:12): ロイロで作ったから下手かも？
+- **天才くん** (07/13 05:33): うま
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 12, 2026 12:07am
-- **Updated At:** Jul 12, 2026 12:07am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/12 00:07
+- **更新日::** 07/12 00:07
 
 ---
 
 ### 163. マイクラの言葉探し作ってみました
-**Author:** 時透無一郎 (r0300353)
+**作成者:** 時透無一郎 (r0300353)
 
 ぜひやってみてください
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 11, 2026 06:34am
-- **Updated At:** Jul 11, 2026 06:34am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/11 06:34
+- **更新日::** 07/11 06:34
 
 ---
 
 ### 164. 誰かいる？
-**Author:** Jr.
+**作成者:** Jr.
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 11, 2026 04:09am
-- **Updated At:** Jul 11, 2026 04:09am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/11 04:09
+- **更新日::** 07/11 04:09
 
 ---
 
 ### 165. 今、絵の練習してるから書いて欲しい絵のリクエスト頂戴（底辺絵師）
-**Author:** R
+**作成者:** R
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **どぬく🍑** (Jul 10, 2026 05:11am): 俺が書いたやつ真似してみて
-- **R** (Jul 10, 2026 07:27am): なんの絵ですか？ウリさん？たっつん？
-- **R** (Jul 10, 2026 07:27am): あと背景難しいかもです…
+#### コメント (3)
+- **どぬく🍑** (07/10 05:11): 俺が書いたやつ真似してみて
+- **R** (07/10 07:27): なんの絵ですか？ウリさん？たっつん？
+- **R** (07/10 07:27): あと背景難しいかもです…
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 10, 2026 04:30am
-- **Updated At:** Jul 10, 2026 04:30am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/10 04:30
+- **更新日::** 07/10 04:30
 
 ---
 
 ### 166. 面白いからやって。
-**Author:** 削除済みユーザー
+**作成者:** 削除済みユーザー
 
 プロキシだったらいけるけど、ちょっと有能なプロキシじゃないと重すぎて死んじゃうかも
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://bloxd.io)
+[添付ファイル 1](https://bloxd.io)
 
-#### Comments (5)
-- **R** (Jul 09, 2026 12:14pm): ブロ
-- **どぬく🍑** (Jul 10, 2026 12:15am): ぶろ
-- **Jr.** (Jul 10, 2026 10:34pm): ぶろ
-- **削除済みユーザー** (Jul 11, 2026 07:05am): Blo
-- **削除済みユーザー** (Jul 11, 2026 07:05am): 皆さんできましたか?
+#### コメント (5)
+- **R** (07/09 12:14): ブロ
+- **どぬく🍑** (07/10 00:15): ぶろ
+- **Jr.** (07/10 22:34): ぶろ
+- **削除済みユーザー** (07/11 07:05): Blo
+- **削除済みユーザー** (07/11 07:05): 皆さんできましたか?
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 09, 2026 11:56am
-- **Updated At:** Jul 09, 2026 11:57am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/09 11:56
+- **更新日::** 07/09 11:57
 
 ---
 
 ### 167. めっちゃうまい
-**Author:** 天才くん天才くん
+**作成者:** 天才くん天才くん
 
 最高
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5934303462/a664a2d9a265d397ad6b81cbebe0d029/IMG_0460.jpeg?Expires=1789193938&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Lf46WeVLbjQVLm9thyPTYicL%2BHvXNU3HKoDZaEEi5mJIL22jutBuzYkBxItq17ThmFXthtl60E9%2FU9%2BYt2kfRxTnSWN2bkDv9QuJjUEOAFq4cNevx5CfbUvQkzGRPebGYA3zIVWJ9pWOVRkpyRsQzIWVye6F2IzHplwidG0QUoIno3cPHhWAJh4URWmGfoEpEsEQIGYovg7odDBmFW3xibzN%2FVij5PG9vFDPHzLEeZjkTNcuGthKklDpu4PFoEfBAaogbmFTwTLrNab8qZo%2FKFSo6vQZRW3yG9u%2BM1co7DwyzktgsC4wPJbAGh6pCPdo%2FqxwIDOIhF%2F%2B0np%2BOeFgKg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5934303462%2Fa664a2d9a265d397ad6b81cbebe0d029%2FIMG_0460.jpeg)
+![添付ファイル 1](https://storage.googleapis.com/padlet-uploads-usc1/5934303462/a664a2d9a265d397ad6b81cbebe0d029/IMG_0460.jpeg?Expires=1789196255&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TH%2BdcVRquqgbyH43x8qaiE0R2YmtchrlrAZMm1%2Fq9MMaL%2BTtd9PYSszHCypaccvEYtrXdGtzr5Z9kgayCVpoxDYVH25tuWk9a8WRNbh5QZ%2B070Azrh0JUhRY0qAthVTXf7n5TnrwQFlIRKBrO0q80xNWfP2z0dufrtcI0T%2Fp30JVloEOP4azIR%2FRvtEQQBbmKLLBl4T76MLb0UL%2BzVoABy719oeZFn4Qwl7nEg6kfKbrInlmW6zcLeKsa3jKu7ZKKICFVz3IlEkdKIKm1ajQ%2FbOc6isHbQ0BbUw41WqLlThRwi0Y8pGati4xnTRM6oRVrLFfqA3yq9X4G2aduvEgbw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5934303462%2Fa664a2d9a265d397ad6b81cbebe0d029%2FIMG_0460.jpeg)
 
-#### Comments (4)
-- **天才くん天才くん** (Jul 09, 2026 07:03am): なまえミスりました 
-- **天才くん天才くん** (Jul 09, 2026 07:03am): 天才くんです
-- **おうが** (Jul 09, 2026 10:40am): いいなーわけて
-- **天才くん** (Jul 10, 2026 01:13pm): これとバターパンにかけたらばりうまい
+#### コメント (4)
+- **天才くん天才くん** (07/09 07:03): なまえミスりました 
+- **天才くん天才くん** (07/09 07:03): 天才くんです
+- **おうが** (07/09 10:40): いいなーわけて
+- **天才くん** (07/10 13:13): これとバターパンにかけたらばりうまい
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 09, 2026 07:03am
-- **Updated At:** Jul 09, 2026 07:03am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/09 07:03
+- **更新日::** 07/09 07:03
 
 ---
 
 ### 168. 誰か話そ
-**Author:** R
+**作成者:** R
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 09, 2026 04:32am
-- **Updated At:** Jul 09, 2026 04:32am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/09 04:32
+- **更新日::** 07/09 04:32
 
 ---
 
 ### 169. 誰かいる？
-**Author:** R
+**作成者:** R
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **おうが応援する人（れいり）** (Jul 09, 2026 12:11am): いるよ〜
-- **R** (Jul 09, 2026 02:43am): おったわ
+#### コメント (2)
+- **おうが応援する人（れいり）** (07/09 00:11): いるよ〜
+- **R** (07/09 02:43): おったわ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 09, 2026 12:08am
-- **Updated At:** Jul 09, 2026 12:08am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/09 00:08
+- **更新日::** 07/09 00:08
 
 ---
 
 ### 170. 下に一時半集合な
-**Author:** 五条悟
+**作成者:** 五条悟
 
 れいりに言ってます（他の人もどうぞ）
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (9)
-- **メメ子　　フォローして欲しいです!!** (Jul 08, 2026 04:19am): お
-- **おうが応援する人** (Jul 08, 2026 04:25am): おk
-- **メメ子　　フォローして欲しいです!!** (Jul 08, 2026 04:26am): もう入らん？
-- **メメ子　　フォローして欲しいです!!** (Jul 08, 2026 04:26am): 早いけど
-- **五条悟** (Jul 08, 2026 04:35am): 誰か下の入ってぇぇ
-- **五条悟** (Jul 08, 2026 04:35am): もう追放しねぇぇよぉぉぉぉ
-- **五条悟** (Jul 08, 2026 04:35am): マイクは切れ
-- **おうが応援する人** (Jul 08, 2026 04:36am): おけ
-- **おうが応援する人** (Jul 08, 2026 04:36am): w
+#### コメント (9)
+- **メメ子　　フォローして欲しいです!!** (07/08 04:19): お
+- **おうが応援する人** (07/08 04:25): おk
+- **メメ子　　フォローして欲しいです!!** (07/08 04:26): もう入らん？
+- **メメ子　　フォローして欲しいです!!** (07/08 04:26): 早いけど
+- **五条悟** (07/08 04:35): 誰か下の入ってぇぇ
+- **五条悟** (07/08 04:35): もう追放しねぇぇよぉぉぉぉ
+- **五条悟** (07/08 04:35): マイクは切れ
+- **おうが応援する人** (07/08 04:36): おけ
+- **おうが応援する人** (07/08 04:36): w
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 08, 2026 04:19am
-- **Updated At:** Jul 08, 2026 04:19am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/08 04:19
+- **更新日::** 07/08 04:19
 
 ---
 
 ### 171. ここだぜ
-**Author:** 五条悟
+**作成者:** 五条悟
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://meet.stuvus.uni-stuttgart.de/授業中遊び場所)
+[添付ファイル 1](https://meet.stuvus.uni-stuttgart.de/授業中遊び場所)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 08, 2026 04:16am
-- **Updated At:** Jul 08, 2026 04:16am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/08 04:16
+- **更新日::** 07/08 04:16
 
 ---
 
 ### 172. 誰かいる？
-**Author:** 五条悟
+**作成者:** 五条悟
 
 特にれいり
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (7)
-- **れいり** (Jul 07, 2026 01:00pm): いるよ？
-- **五条悟** (Jul 07, 2026 01:00pm): きちゃーw
-- **五条悟** (Jul 07, 2026 01:00pm): 会話久しぶりすぎてw w w
-- **五条悟** (Jul 07, 2026 01:01pm): 返信は？
-- **五条悟** (Jul 07, 2026 01:01pm): 誰か分かってる💦
-- **れいり** (Jul 07, 2026 01:03pm): あるよ
-- **れいり** (Jul 07, 2026 01:04pm): 1−6組のハゲやろw
+#### コメント (7)
+- **れいり** (07/07 13:00): いるよ？
+- **五条悟** (07/07 13:00): きちゃーw
+- **五条悟** (07/07 13:00): 会話久しぶりすぎてw w w
+- **五条悟** (07/07 13:01): 返信は？
+- **五条悟** (07/07 13:01): 誰か分かってる💦
+- **れいり** (07/07 13:03): あるよ
+- **れいり** (07/07 13:04): 1−6組のハゲやろw
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 07, 2026 12:29pm
-- **Updated At:** Jul 07, 2026 12:29pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/07 12:29
+- **更新日::** 07/07 12:29
 
 ---
 
 ### 173. だれかいる？
-**Author:** れいり
+**作成者:** れいり
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (42)
-- **R** (Jul 07, 2026 05:11am): おるよ
-- **れいり** (Jul 07, 2026 05:12am): Ok
-- **れいり** (Jul 07, 2026 05:12am): He is R ?He is anpanman
-- **れいり** (Jul 07, 2026 05:13am): 안녕하세요
-- **R** (Jul 07, 2026 05:13am): w
-- **R** (Jul 07, 2026 05:13am): アンパンマンなんや？
-- **R** (Jul 07, 2026 05:13am): 韓国語わからんw
-- **れいり** (Jul 07, 2026 05:14am): Heloo
-- **れいり** (Jul 07, 2026 05:14am): まぁいいや　日本語で喋る
-- **R** (Jul 07, 2026 05:15am): こんにちは？
-- **R** (Jul 07, 2026 05:15am): w
-- **れいり** (Jul 07, 2026 05:15am): ゆゆさん来るかな？
-- **R** (Jul 07, 2026 05:15am): わからん
-- **R** (Jul 07, 2026 05:15am): 来てくれたら嬉しい
-- **れいり** (Jul 07, 2026 05:17am): そうだね
-- **R** (Jul 07, 2026 05:17am): まじ授業だるい
-- **れいり** (Jul 07, 2026 05:17am): Rさん優しいね
-- **R** (Jul 07, 2026 05:18am): そお？
-- **れいり** (Jul 07, 2026 05:18am): うん
-- **R** (Jul 07, 2026 05:18am): れいりさんも優しすぎるやろおおお
-- **れいり** (Jul 07, 2026 05:18am): 매우 부드러운
-- **れいり** (Jul 07, 2026 05:19am): ↑めちゃくちゃ優しい
-- **れいり** (Jul 07, 2026 05:19am): Rさんって兵庫のどこ住み？
-- **R** (Jul 07, 2026 05:19am): 韓国語わからんwちなみになんの教科嫌い？
-- **れいり** (Jul 07, 2026 05:19am): 国語と家庭科
-- **R** (Jul 07, 2026 05:20am): 六甲山近く
-- **R** (Jul 07, 2026 05:20am): 冬めっちゃ寒い
-- **れいり** (Jul 07, 2026 05:20am): あと俺中学やからめっちゃむずい
-- **R** (Jul 07, 2026 05:20am): 社会と国語
-- **れいり** (Jul 07, 2026 05:21am): 社会中学楽だよ…
-- **R** (Jul 07, 2026 05:21am): え？！中学なん？ちな中学生
-- **れいり** (Jul 07, 2026 05:21am): 明石焼きめっちゃうまい
-- **R** (Jul 07, 2026 05:22am): 今地理で無理やねん…
-- **R** (Jul 07, 2026 05:22am): それな
-- **R** (Jul 07, 2026 05:22am): 美味しかった
-- **れいり** (Jul 07, 2026 05:23am): 俺中1
-- **R** (Jul 07, 2026 05:23am): 同じく
-- **R** (Jul 07, 2026 05:26am): なんか色々一緒ですごい
-- **れいり** (Jul 07, 2026 05:57am): そうだね
-- **どぬく🍑** (Jul 07, 2026 06:25am): れいりおる？ 
-- **暇人two Time** (Jul 07, 2026 08:50am): 2人ぐらい知っている人で草
-- **R** (Jul 07, 2026 12:58pm): どゆこと
+#### コメント (42)
+- **R** (07/07 05:11): おるよ
+- **れいり** (07/07 05:12): Ok
+- **れいり** (07/07 05:12): He is R ?He is anpanman
+- **れいり** (07/07 05:13): 안녕하세요
+- **R** (07/07 05:13): w
+- **R** (07/07 05:13): アンパンマンなんや？
+- **R** (07/07 05:13): 韓国語わからんw
+- **れいり** (07/07 05:14): Heloo
+- **れいり** (07/07 05:14): まぁいいや　日本語で喋る
+- **R** (07/07 05:15): こんにちは？
+- **R** (07/07 05:15): w
+- **れいり** (07/07 05:15): ゆゆさん来るかな？
+- **R** (07/07 05:15): わからん
+- **R** (07/07 05:15): 来てくれたら嬉しい
+- **れいり** (07/07 05:17): そうだね
+- **R** (07/07 05:17): まじ授業だるい
+- **れいり** (07/07 05:17): Rさん優しいね
+- **R** (07/07 05:18): そお？
+- **れいり** (07/07 05:18): うん
+- **R** (07/07 05:18): れいりさんも優しすぎるやろおおお
+- **れいり** (07/07 05:18): 매우 부드러운
+- **れいり** (07/07 05:19): ↑めちゃくちゃ優しい
+- **れいり** (07/07 05:19): Rさんって兵庫のどこ住み？
+- **R** (07/07 05:19): 韓国語わからんwちなみになんの教科嫌い？
+- **れいり** (07/07 05:19): 国語と家庭科
+- **R** (07/07 05:20): 六甲山近く
+- **R** (07/07 05:20): 冬めっちゃ寒い
+- **れいり** (07/07 05:20): あと俺中学やからめっちゃむずい
+- **R** (07/07 05:20): 社会と国語
+- **れいり** (07/07 05:21): 社会中学楽だよ…
+- **R** (07/07 05:21): え？！中学なん？ちな中学生
+- **れいり** (07/07 05:21): 明石焼きめっちゃうまい
+- **R** (07/07 05:22): 今地理で無理やねん…
+- **R** (07/07 05:22): それな
+- **R** (07/07 05:22): 美味しかった
+- **れいり** (07/07 05:23): 俺中1
+- **R** (07/07 05:23): 同じく
+- **R** (07/07 05:26): なんか色々一緒ですごい
+- **れいり** (07/07 05:57): そうだね
+- **どぬく🍑** (07/07 06:25): れいりおる？ 
+- **暇人two Time** (07/07 08:50): 2人ぐらい知っている人で草
+- **R** (07/07 12:58): どゆこと
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 07, 2026 04:37am
-- **Updated At:** Jul 07, 2026 04:37am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/07 04:37
+- **更新日::** 07/07 04:37
 
 ---
 
 ### 174. 誰か会話
-**Author:** れいり
+**作成者:** れいり
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (53)
-- **れいり** (Jul 07, 2026 12:57am): なんか急にここ消されたんけどw
-- **ゆゆさん** (Jul 07, 2026 12:57am): えーなんでかな
-- **R** (Jul 07, 2026 12:57am): あれ消えた？
-- **れいり** (Jul 07, 2026 12:57am): まぁいいや
-- **R** (Jul 07, 2026 12:57am): なんやろなぁ
-- **れいり** (Jul 07, 2026 12:57am): みんなどこ出身？
-- **ゆゆさん** (Jul 07, 2026 12:58am): おおさか
-- **れいり** (Jul 07, 2026 12:58am): ちかっ
-- **R** (Jul 07, 2026 12:58am): 近畿
-- **れいり** (Jul 07, 2026 12:58am): おれ兵庫
-- **ゆゆさん** (Jul 07, 2026 12:58am): どこすみなのー？
-- **ゆゆさん** (Jul 07, 2026 12:58am): ちかいね
-- **れいり** (Jul 07, 2026 12:58am): 兵庫
-- **れいり** (Jul 07, 2026 12:58am): マジで近い
-- **R** (Jul 07, 2026 12:58am): 県で言うと兵庫
-- **れいり** (Jul 07, 2026 12:58am): おーーーーー
-- **れいり** (Jul 07, 2026 12:58am): みんな近いね
-- **ゆゆさん** (Jul 07, 2026 12:58am): ね
-- **れいり** (Jul 07, 2026 12:59am): Rはどこ？市？
-- **R** (Jul 07, 2026 12:59am): 近すぎるやろ
-- **R** (Jul 07, 2026 12:59am): 笑
-- **れいり** (Jul 07, 2026 12:59am): おれ明石
-- **R** (Jul 07, 2026 01:00am): 六甲山の方面
-- **れいり** (Jul 07, 2026 01:00am): 結構遠いね
-- **R** (Jul 07, 2026 01:00am): 明石行ったことあるわ
-- **れいり** (Jul 07, 2026 01:00am): ガチ？
-- **れいり** (Jul 07, 2026 01:01am): ゆゆさんいますか？
-- **ゆゆさん** (Jul 07, 2026 01:02am): いますよ！！
-- **R** (Jul 07, 2026 01:02am): ガチ！明石焼きっていうん食べた
-- **れいり** (Jul 07, 2026 01:02am): ゆゆさん
-- **れいり** (Jul 07, 2026 01:02am): 堺ですか？東大阪ですか？
-- **れいり** (Jul 07, 2026 01:03am): 東大阪は僕の親の親戚がいるんで行ったことがあります
-- **ゆゆさん** (Jul 07, 2026 01:03am): どこらへんかわからないんですけどひらかたですよ
-- **れいり** (Jul 07, 2026 01:03am): 田舎？
-- **R** (Jul 07, 2026 01:03am): 大阪あんま行かんかも
-- **れいり** (Jul 07, 2026 01:04am): ガチで？
-- **ゆゆさん** (Jul 07, 2026 01:04am): 田舎かなたぶん
-- **R** (Jul 07, 2026 01:06am): みんなめっちゃ近いやん嬉しい
-- **ゆゆさん** (Jul 07, 2026 01:06am): ね！！
-- **れいり** (Jul 07, 2026 01:06am): おk
-- **れいり** (Jul 07, 2026 01:07am): 11時45分くらいに戻ってくるかも
-- **R** (Jul 07, 2026 01:07am): もうそろそろ授業聞かなあかんから切れる
-- **れいり** (Jul 07, 2026 01:07am): そろそろ授業ちゃんとしなあかん中学やし
-- **R** (Jul 07, 2026 01:07am): ごめん 
-- **ゆゆさん** (Jul 07, 2026 01:07am): うんうん
-- **れいり** (Jul 07, 2026 01:07am): じゃあ11時45分くらいにもどります
-- **R** (Jul 07, 2026 01:08am): おけ
-- **R** (Jul 07, 2026 01:08am): あとで会お！
-- **ゆゆさん** (Jul 07, 2026 01:09am): わたしもそのくらいにくるね
-- **R** (Jul 07, 2026 02:00am): ごめん、厳しい先生来るからやつ^_^ぱ無理、、
-- **R** (Jul 07, 2026 02:14am): ごめん^_^は、誤タップ
-- **R** (Jul 07, 2026 02:15am): 誤タップ多い笑 
-- **ゆゆさん** (Jul 07, 2026 02:40am): わかった！！
+#### コメント (53)
+- **れいり** (07/07 00:57): なんか急にここ消されたんけどw
+- **ゆゆさん** (07/07 00:57): えーなんでかな
+- **R** (07/07 00:57): あれ消えた？
+- **れいり** (07/07 00:57): まぁいいや
+- **R** (07/07 00:57): なんやろなぁ
+- **れいり** (07/07 00:57): みんなどこ出身？
+- **ゆゆさん** (07/07 00:58): おおさか
+- **れいり** (07/07 00:58): ちかっ
+- **R** (07/07 00:58): 近畿
+- **れいり** (07/07 00:58): おれ兵庫
+- **ゆゆさん** (07/07 00:58): どこすみなのー？
+- **ゆゆさん** (07/07 00:58): ちかいね
+- **れいり** (07/07 00:58): 兵庫
+- **れいり** (07/07 00:58): マジで近い
+- **R** (07/07 00:58): 県で言うと兵庫
+- **れいり** (07/07 00:58): おーーーーー
+- **れいり** (07/07 00:58): みんな近いね
+- **ゆゆさん** (07/07 00:58): ね
+- **れいり** (07/07 00:59): Rはどこ？市？
+- **R** (07/07 00:59): 近すぎるやろ
+- **R** (07/07 00:59): 笑
+- **れいり** (07/07 00:59): おれ明石
+- **R** (07/07 01:00): 六甲山の方面
+- **れいり** (07/07 01:00): 結構遠いね
+- **R** (07/07 01:00): 明石行ったことあるわ
+- **れいり** (07/07 01:00): ガチ？
+- **れいり** (07/07 01:01): ゆゆさんいますか？
+- **ゆゆさん** (07/07 01:02): いますよ！！
+- **R** (07/07 01:02): ガチ！明石焼きっていうん食べた
+- **れいり** (07/07 01:02): ゆゆさん
+- **れいり** (07/07 01:02): 堺ですか？東大阪ですか？
+- **れいり** (07/07 01:03): 東大阪は僕の親の親戚がいるんで行ったことがあります
+- **ゆゆさん** (07/07 01:03): どこらへんかわからないんですけどひらかたですよ
+- **れいり** (07/07 01:03): 田舎？
+- **R** (07/07 01:03): 大阪あんま行かんかも
+- **れいり** (07/07 01:04): ガチで？
+- **ゆゆさん** (07/07 01:04): 田舎かなたぶん
+- **R** (07/07 01:06): みんなめっちゃ近いやん嬉しい
+- **ゆゆさん** (07/07 01:06): ね！！
+- **れいり** (07/07 01:06): おk
+- **れいり** (07/07 01:07): 11時45分くらいに戻ってくるかも
+- **R** (07/07 01:07): もうそろそろ授業聞かなあかんから切れる
+- **れいり** (07/07 01:07): そろそろ授業ちゃんとしなあかん中学やし
+- **R** (07/07 01:07): ごめん 
+- **ゆゆさん** (07/07 01:07): うんうん
+- **れいり** (07/07 01:07): じゃあ11時45分くらいにもどります
+- **R** (07/07 01:08): おけ
+- **R** (07/07 01:08): あとで会お！
+- **ゆゆさん** (07/07 01:09): わたしもそのくらいにくるね
+- **R** (07/07 02:00): ごめん、厳しい先生来るからやつ^_^ぱ無理、、
+- **R** (07/07 02:14): ごめん^_^は、誤タップ
+- **R** (07/07 02:15): 誤タップ多い笑 
+- **ゆゆさん** (07/07 02:40): わかった！！
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 07, 2026 12:56am
-- **Updated At:** Jul 07, 2026 12:56am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/07 00:56
+- **更新日::** 07/07 00:56
 
 ---
 
 ### 175. これは分かれる
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **YOASOBIとアドとミセスどれが好き？:**
-- **YOASOBI:** 6 votes
-- **アド:** 6 votes
-- **ミセス:** 9 votes
+- **YOASOBI:** 6件の投票
+- **アド:** 6件の投票
+- **ミセス:** 9件の投票
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **時透無一郎** (Jul 06, 2026 05:09am): どれもあんま興味ないかも
-- **暇人two Time** (Jul 07, 2026 08:52am): AdoとYOASOBIは好きかな
+#### コメント (2)
+- **時透無一郎** (07/06 05:09): どれもあんま興味ないかも
+- **暇人two Time** (07/07 08:52): AdoとYOASOBIは好きかな
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 05:08am
-- **Updated At:** Jul 16, 2026 08:45am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 05:08
+- **更新日::** 07/16 08:45
 
 ---
 
 ### 176. 暇すぎ誰か話そ
-**Author:** R
+**作成者:** R
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (8)
-- **天才くん** (Jul 06, 2026 03:05am): 学校は？
-- **R** (Jul 06, 2026 03:07am): ちゃんとやってるで
-- **R** (Jul 06, 2026 03:08am): っていうか先進みすぎた
-- **R** (Jul 06, 2026 03:09am): 天才くんは？
-- **ヴィニシウス** (Jul 06, 2026 03:26am): こんにちは
-- **ヴィニシウス** (Jul 06, 2026 03:27am): このサイトってなんですか？
-- **どぬく🍑** (Jul 06, 2026 03:30am): Iフィルター回避系
-- **ヴィニシウス・ジュニオール** (Jul 06, 2026 03:37am): だから規制されないんですね
+#### コメント (8)
+- **天才くん** (07/06 03:05): 学校は？
+- **R** (07/06 03:07): ちゃんとやってるで
+- **R** (07/06 03:08): っていうか先進みすぎた
+- **R** (07/06 03:09): 天才くんは？
+- **ヴィニシウス** (07/06 03:26): こんにちは
+- **ヴィニシウス** (07/06 03:27): このサイトってなんですか？
+- **どぬく🍑** (07/06 03:30): Iフィルター回避系
+- **ヴィニシウス・ジュニオール** (07/06 03:37): だから規制されないんですね
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 03:01am
-- **Updated At:** Jul 06, 2026 03:01am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 03:01
+- **更新日::** 07/06 03:01
 
 ---
 
 ### 177. 規制突破の世界荒らされてるねんけど
-**Author:** フミヅキ
+**作成者:** フミヅキ
 
 **星評価:** 3.0 / 5 ⭐ (1)
 
-#### Comments (3)
-- **フミヅキ** (Jul 06, 2026 01:44am): 入られへん
-- **どぬく🍑** (Jul 06, 2026 03:31am): 荒らされて入れなくなった
-- **時透無一郎** (Jul 06, 2026 05:03am): それな重すぎ
+#### コメント (3)
+- **フミヅキ** (07/06 01:44): 入られへん
+- **どぬく🍑** (07/06 03:31): 荒らされて入れなくなった
+- **時透無一郎** (07/06 05:03): それな重すぎ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 01:44am
-- **Updated At:** Jul 06, 2026 01:44am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 01:44
+- **更新日::** 07/06 01:44
 
 ---
 
 ### 178. みんな夏休み何するの？
-**Author:** 原石
+**作成者:** 原石
 
 僕はいまのところなし
 
@@ -5764,76 +5765,76 @@ ID  **M2FKP2   貼っときます**
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
-- **どぬく🍑** (Jul 05, 2026 11:44pm): 関東の人なら一緒に行こ…
-- **天才くん** (Jul 06, 2026 01:03am): 原石さん今週日遊べる？ 目の都合とか
-- **暇人two Time** (Jul 07, 2026 08:53am): ゲーム
-- **R** (Jul 08, 2026 12:25pm): キャンプ行く
-- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (Jul 21, 2026 09:54pm): 僕近畿地方
+#### コメント (5)
+- **どぬく🍑** (07/05 23:44): 関東の人なら一緒に行こ…
+- **天才くん** (07/06 01:03): 原石さん今週日遊べる？ 目の都合とか
+- **暇人two Time** (07/07 08:53): ゲーム
+- **R** (07/08 12:25): キャンプ行く
+- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (07/21 21:54): 僕近畿地方
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 05, 2026 10:16pm
-- **Updated At:** Jul 05, 2026 10:16pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/05 22:16
+- **更新日::** 07/05 22:16
 
 ---
 
 ### 179. 無一郎さん最近いなくね？
-**Author:** 原石
+**作成者:** 原石
 
 多分だけど🤔
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **どぬく🍑** (Jul 05, 2026 11:13pm): いるよ
-- **天才くん** (Jul 05, 2026 11:35pm): わかる
+#### コメント (2)
+- **どぬく🍑** (07/05 23:13): いるよ
+- **天才くん** (07/05 23:35): わかる
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 05, 2026 10:10pm
-- **Updated At:** Jul 05, 2026 10:10pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/05 22:10
+- **更新日::** 07/05 22:10
 
 ---
 
 ### 180. 通話の部屋の作り方教えて
-**Author:** 削除済みユーザー
+**作成者:** 削除済みユーザー
 
 教えてください
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **どぬく🍑** (Jul 05, 2026 11:13pm): 通話の一番下に入れば行けるよ
+#### コメント (1)
+- **どぬく🍑** (07/05 23:13): 通話の一番下に入れば行けるよ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 05, 2026 11:35am
-- **Updated At:** Jul 05, 2026 11:35am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/05 11:35
+- **更新日::** 07/05 11:35
 
 ---
 
 ### 181. Adoとミセスどっち好き？
-**Author:** イヤホンマン
+**作成者:** イヤホンマン
 
 よく学校で言い合ってる
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **削除済みユーザー** (Jul 05, 2026 11:28am): アドレナリン
-- **どぬく🍑** (Jul 06, 2026 03:31am): どっちも好きだけどアドかな一番はYOASOBI
-- **暇人two Time** (Jul 07, 2026 08:54am): Adoかな
+#### コメント (3)
+- **削除済みユーザー** (07/05 11:28): アドレナリン
+- **どぬく🍑** (07/06 03:31): どっちも好きだけどアドかな一番はYOASOBI
+- **暇人two Time** (07/07 08:54): Adoかな
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 04, 2026 12:15pm
-- **Updated At:** Jul 04, 2026 12:19pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/04 12:15
+- **更新日::** 07/04 12:19
 
 ---
 
 ### 182. 原石さんって、、、
-**Author:** 天才くん
+**作成者:** 天才くん
 
 天才の上をいく天才？
 
@@ -5841,605 +5842,605 @@ ID  **M2FKP2   貼っときます**
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (6)
-- **原石** (Jul 05, 2026 10:06pm): ？
-- **原石** (Jul 05, 2026 10:07pm): ？？
-- **原石** (Jul 05, 2026 10:07pm): ？？？
-- **原石** (Jul 05, 2026 10:07pm): ？？？
-- **原石** (Jul 05, 2026 10:07pm): ？？？？？？？？
-- **原石** (Jul 05, 2026 10:07pm): なんで？？？？
+#### コメント (6)
+- **原石** (07/05 22:06): ？
+- **原石** (07/05 22:07): ？？
+- **原石** (07/05 22:07): ？？？
+- **原石** (07/05 22:07): ？？？
+- **原石** (07/05 22:07): ？？？？？？？？
+- **原石** (07/05 22:07): なんで？？？？
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 04, 2026 12:06pm
-- **Updated At:** Jul 04, 2026 12:06pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/04 12:06
+- **更新日::** 07/04 12:06
 
 ---
 
 ### 183. Google裏技知ってる？
-**Author:** 原石
+**作成者:** 原石
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (9)
-- **メメ子　　フォローして欲しいです!!** (Jul 04, 2026 02:42am): 知らん
-- **原石** (Jul 04, 2026 05:42am): たけのこの里て調べたらたけのこかきのこを出しまくれる
-- **原石** (Jul 04, 2026 05:45am): やってみて
-- **時透無一郎** (Jul 04, 2026 07:20am): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/AL83WzYO9lDOZ0Pg) それやりまくったらやばいことになった、、、
-- **原石** (Jul 04, 2026 09:53am): wwww
-- **原石** (Jul 04, 2026 09:54am): 二つ目は、67と調べると画面が○○されますやってみて
-- **メメ子　　フォローして欲しいです!!** (Jul 04, 2026 10:06am): できた
-- **時透無一郎** (Jul 04, 2026 11:59am): なるほどね
-- **原石** (Jul 05, 2026 10:07pm): 流星群と調べると流星群が画面から落ちてきます。やってみて
+#### コメント (9)
+- **メメ子　　フォローして欲しいです!!** (07/04 02:42): 知らん
+- **原石** (07/04 05:42): たけのこの里て調べたらたけのこかきのこを出しまくれる
+- **原石** (07/04 05:45): やってみて
+- **時透無一郎** (07/04 07:20): [添付ファイル](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/AL83WzYO9lDOZ0Pg) それやりまくったらやばいことになった、、、
+- **原石** (07/04 09:53): wwww
+- **原石** (07/04 09:54): 二つ目は、67と調べると画面が○○されますやってみて
+- **メメ子　　フォローして欲しいです!!** (07/04 10:06): できた
+- **時透無一郎** (07/04 11:59): なるほどね
+- **原石** (07/05 22:07): 流星群と調べると流星群が画面から落ちてきます。やってみて
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 04, 2026 02:23am
-- **Updated At:** Jul 04, 2026 02:23am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/04 02:23
+- **更新日::** 07/04 02:23
 
 ---
 
 ### 184. 何ともリンクス送ってんねん天才
-**Author:** 原石
+**作成者:** 原石
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **原石** (Jul 04, 2026 02:16am): ともリンクス英語だけどひらがなでしか出ないwwww
-- **天才くん** (Jul 04, 2026 12:09pm): あああああああああああああ
+#### コメント (2)
+- **原石** (07/04 02:16): ともリンクス英語だけどひらがなでしか出ないwwww
+- **天才くん** (07/04 12:09): あああああああああああああ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 04, 2026 02:16am
-- **Updated At:** Jul 04, 2026 02:16am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/04 02:16
+- **更新日::** 07/04 02:16
 
 ---
 
 ### 185. 天才お前なにをやってんだーーーーーーーーーーーーーーかってにおくんな人が教えたやつーーーーーーーーー
-**Author:** 原石
+**作成者:** 原石
 
 何をしてんの
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (6)
-- **原石** (Jul 04, 2026 02:14am): ゲームのこと
-- **原石** (Jul 04, 2026 02:15am): https://class123.lifeこれなんで投稿したの？
-- **天才くん** (Jul 04, 2026 12:03pm): 天才の上をいく天才ですか？
-- **天才くん** (Jul 04, 2026 12:09pm): ここはクソ野郎あんまりいないし
-- **削除済みユーザー** (Jul 05, 2026 11:30am): おーぼくはiqねはんじゃくじょう(漢字わからん)だから意味がわからないけど、クソ野郎はどうなんだい?別にゆってもよかったらごめんなさい🙇
-- **原石** (Jul 05, 2026 10:08pm): ？
+#### コメント (6)
+- **原石** (07/04 02:14): ゲームのこと
+- **原石** (07/04 02:15): https://class123.lifeこれなんで投稿したの？
+- **天才くん** (07/04 12:03): 天才の上をいく天才ですか？
+- **天才くん** (07/04 12:09): ここはクソ野郎あんまりいないし
+- **削除済みユーザー** (07/05 11:30): おーぼくはiqねはんじゃくじょう(漢字わからん)だから意味がわからないけど、クソ野郎はどうなんだい?別にゆってもよかったらごめんなさい🙇
+- **原石** (07/05 22:08): ？
 
-#### Additional Information
-- **Post color:** Blue
-- **Created At:** Jul 04, 2026 02:14am
-- **Updated At:** Jul 04, 2026 02:14am
+#### その他の情報
+- **投稿のカラー:** ブルー
+- **作成日::** 07/04 02:14
+- **更新日::** 07/04 02:14
 
 ---
 
 ### 186. どうやってログインするの？
-**Author:** 原石
+**作成者:** 原石
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (4)
-- **どぬく🍑** (Jul 03, 2026 09:56pm): 右上のアイコンをタップすればいけるよ
-- **原石** (Jul 04, 2026 01:53am): アクセスエラーて出る😭
-- **天才くん** (Jul 04, 2026 12:04pm): もう誰かわかった
-- **原石** (Jul 05, 2026 10:08pm): ？
+#### コメント (4)
+- **どぬく🍑** (07/03 21:56): 右上のアイコンをタップすればいけるよ
+- **原石** (07/04 01:53): アクセスエラーて出る😭
+- **天才くん** (07/04 12:04): もう誰かわかった
+- **原石** (07/05 22:08): ？
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 03, 2026 12:08pm
-- **Updated At:** Jul 03, 2026 12:08pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/03 12:08
+- **更新日::** 07/03 12:08
 
 ---
 
 ### 187. Aotanの独占場所ばり荒らされてたwwwwwwwwwwwwwwwwwww
-**Author:** 原石
+**作成者:** 原石
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **天才くん** (Jul 04, 2026 12:10pm): Wwwwwwwwwwwwwww
+#### コメント (1)
+- **天才くん** (07/04 12:10): Wwwwwwwwwwwwwww
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 03, 2026 12:03pm
-- **Updated At:** Jul 03, 2026 12:03pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/03 12:03
+- **更新日::** 07/03 12:03
 
 ---
 
 ### 188. ピン留めがいっぱいあって投稿がすぐ目に止まらないので必要なの以外解除してもいっすか
-**Author:** 時透無一郎 (r0300353)
+**作成者:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **削除済みユーザー** (Jul 05, 2026 11:30am): まじそれーv(´∀｀*v)ﾋﾟｰｽ
-- **原石** (Jul 05, 2026 10:09pm): ピン留め、て何？
+#### コメント (2)
+- **削除済みユーザー** (07/05 11:30): まじそれーv(´∀｀*v)ﾋﾟｰｽ
+- **原石** (07/05 22:09): ピン留め、て何？
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 03, 2026 06:33am
-- **Updated At:** Jul 03, 2026 06:33am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/03 06:33
+- **更新日::** 07/03 06:33
 
 ---
 
 ### 189. ピン留めがいっぱいあって投稿がすぐ目に止まらないので必要なの以外解除してもいっすか
-**Author:** 時透無一郎 (r0300353)
+**作成者:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (6)
-- **時透無一郎** (Jul 05, 2026 12:28am): おうがさん
-- **玲吏** (Jul 05, 2026 07:53am): していいんじゃない？
-- **原石** (Jul 05, 2026 10:06pm): いいと思う👍
-- **どぬく🍑** (Jul 05, 2026 11:14pm): 別にいいんじゃね解除しなくても
-- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (Jul 21, 2026 09:54pm): mala
-- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (Jul 21, 2026 09:54pm): 邪魔だしねw
+#### コメント (6)
+- **時透無一郎** (07/05 00:28): おうがさん
+- **玲吏** (07/05 07:53): していいんじゃない？
+- **原石** (07/05 22:06): いいと思う👍
+- **どぬく🍑** (07/05 23:14): 別にいいんじゃね解除しなくても
+- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (07/21 21:54): mala
+- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (07/21 21:54): 邪魔だしねw
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 04, 2026 12:36pm
-- **Updated At:** Jul 04, 2026 12:36pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/04 12:36
+- **更新日::** 07/04 12:36
 
 ---
 
 ### 190. 予約電話に来てー
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **どぬく🍑** (Jul 03, 2026 06:15am): 一番下にあるから
-- **どぬく🍑** (Jul 03, 2026 06:16am): 返信もして
+#### コメント (2)
+- **どぬく🍑** (07/03 06:15): 一番下にあるから
+- **どぬく🍑** (07/03 06:16): 返信もして
 
-#### Additional Information
-- **Post color:** Blue
-- **Created At:** Jul 03, 2026 06:15am
-- **Updated At:** Jul 03, 2026 06:15am
+#### その他の情報
+- **投稿のカラー:** ブルー
+- **作成日::** 07/03 06:15
+- **更新日::** 07/03 06:15
 
 ---
 
 ### 191. 松井秀喜2失点w
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (4)
-- **れいり** (Jul 03, 2026 04:10am): ガチで？
-- **どぬく🍑** (Jul 03, 2026 04:21am): えっとねドジャースが8パドレスが6かな
-- **どぬく🍑** (Jul 03, 2026 04:24am): 松井裕樹の方だった
-- **れいり** (Jul 03, 2026 04:28am): なんか変だと思ったw
+#### コメント (4)
+- **れいり** (07/03 04:10): ガチで？
+- **どぬく🍑** (07/03 04:21): えっとねドジャースが8パドレスが6かな
+- **どぬく🍑** (07/03 04:24): 松井裕樹の方だった
+- **れいり** (07/03 04:28): なんか変だと思ったw
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 03, 2026 04:05am
-- **Updated At:** Jul 03, 2026 04:05am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/03 04:05
+- **更新日::** 07/03 04:05
 
 ---
 
 ### 192. 画質いいYouTubeサイトかダウンローダー持ってる人いない？いたらリンク乗っけて‼️
-**Author:** 人生全て終わった奴の末路
+**作成者:** 人生全て終わった奴の末路
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
-- **おうが** (Jul 03, 2026 01:44am): 画質いいのはないかなごめん
-- **人生全て終わった奴の末路** (Jul 03, 2026 01:55am): 全然大丈夫🙆
-- **おうが** (Jul 03, 2026 02:03am): いる？
-- **原石** (Jul 04, 2026 02:20am): 僕欲しい
-- **天才くん** (Jul 05, 2026 11:04am): ほしい
+#### コメント (5)
+- **おうが** (07/03 01:44): 画質いいのはないかなごめん
+- **人生全て終わった奴の末路** (07/03 01:55): 全然大丈夫🙆
+- **おうが** (07/03 02:03): いる？
+- **原石** (07/04 02:20): 僕欲しい
+- **天才くん** (07/05 11:04): ほしい
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 03, 2026 12:37am
-- **Updated At:** Jul 03, 2026 12:37am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/03 00:37
+- **更新日::** 07/03 00:37
 
 ---
 
 ### 193. 雑談　言葉には気をつけよう！
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (17)
-- **おうが** (Jun 30, 2026 12:02am): 誰かロブロのブレロのキャラ買ってクレー
-- **おうが** (Jun 30, 2026 12:02am): 頼む！！
-- **れいり** (Jun 30, 2026 01:00am): 買えないわごめん
-- **タニモリ** (Jun 30, 2026 01:39am): 暇暇
-- **スリい** (Jun 30, 2026 01:44am): 暇
-- **れいり** (Jun 30, 2026 02:23am): 知るかスリ
-- **天才くん** (Jun 30, 2026 12:22pm): https://www.osarai-drill.jp/contents/tegakiex/php/cpmenu2.php
-- **天才くん** (Jun 30, 2026 12:24pm): たまには
-- **れいり** (Jul 01, 2026 11:13am): アクセス権がありませんって出たんだけど？
-- **天才くん** (Jul 01, 2026 12:08pm): ああマジか
-- **天才くん** (Jul 01, 2026 12:08pm): https://akashi.tomolinks.net/top
-- **天才くん** (Jul 01, 2026 12:22pm): あとこれhttps://19ch.tv/s6/s6.html授業受けれる小6の復習僕は小6だからこれ使ってる
-- **どぬく🍑** (Jul 02, 2026 11:29pm): 手越祐也天然…
-- **Blue Walker** (Jul 03, 2026 02:00am): 行ってQ？
-- **おうが** (Jul 03, 2026 02:13am): ドユコト？
-- **おうが** (Jul 05, 2026 10:20am): おけ
-- **天才くん** (Jul 06, 2026 12:37am): オウガさん早く
+#### コメント (17)
+- **おうが** (06/30 00:02): 誰かロブロのブレロのキャラ買ってクレー
+- **おうが** (06/30 00:02): 頼む！！
+- **れいり** (06/30 01:00): 買えないわごめん
+- **タニモリ** (06/30 01:39): 暇暇
+- **スリい** (06/30 01:44): 暇
+- **れいり** (06/30 02:23): 知るかスリ
+- **天才くん** (06/30 12:22): https://www.osarai-drill.jp/contents/tegakiex/php/cpmenu2.php
+- **天才くん** (06/30 12:24): たまには
+- **れいり** (07/01 11:13): アクセス権がありませんって出たんだけど？
+- **天才くん** (07/01 12:08): ああマジか
+- **天才くん** (07/01 12:08): https://akashi.tomolinks.net/top
+- **天才くん** (07/01 12:22): あとこれhttps://19ch.tv/s6/s6.html授業受けれる小6の復習僕は小6だからこれ使ってる
+- **どぬく🍑** (07/02 23:29): 手越祐也天然…
+- **Blue Walker** (07/03 02:00): 行ってQ？
+- **おうが** (07/03 02:13): ドユコト？
+- **おうが** (07/05 10:20): おけ
+- **天才くん** (07/06 00:37): オウガさん早く
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 29, 2026 11:49pm
-- **Updated At:** Jul 03, 2026 12:15am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/29 23:49
+- **更新日::** 07/03 00:15
 
 ---
 
-### 194. Post 194
-**Author:** 天才くん
+### 194. 投稿 194
+**作成者:** 天才くん
 
 **夏休みいる？:**
-- **いる:** 25 votes
-- **いらん:** 1 vote
-- **ドウデモイイは:** 5 votes
+- **いる:** 25件の投票
+- **いらん:** 1件の投票
+- **ドウデモイイは:** 5件の投票
 
 投票とコメントよろ
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (4)
-- **天才くん** (Jul 01, 2026 12:23pm): さすがにな、、、、
-- **おうが** (Jul 01, 2026 12:45pm): いるっしょ！！
-- **天才くん** (Jul 02, 2026 12:14am): ないすーーー！！！！
-- **天才くん** (Jul 04, 2026 12:14pm): いるいるいる
+#### コメント (4)
+- **天才くん** (07/01 12:23): さすがにな、、、、
+- **おうが** (07/01 12:45): いるっしょ！！
+- **天才くん** (07/02 00:14): ないすーーー！！！！
+- **天才くん** (07/04 12:14): いるいるいる
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 01, 2026 12:12pm
-- **Updated At:** Jul 25, 2026 08:47am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/01 12:12
+- **更新日::** 07/25 08:47
 
 ---
 
 ### 195. おうがさんお願いしますユメビトbanしてください
-**Author:** 削除済みユーザー
+**作成者:** 削除済みユーザー
 
 悪口くんです、(男かしらんけど)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **おうが** (Jul 01, 2026 05:44am): ごめんバンってのがないんよ
-- **削除済みユーザー** (Jul 01, 2026 07:42am): までぃかよ
-- **おうが** (Jul 01, 2026 12:45pm): すまんね
+#### コメント (3)
+- **おうが** (07/01 05:44): ごめんバンってのがないんよ
+- **削除済みユーザー** (07/01 07:42): までぃかよ
+- **おうが** (07/01 12:45): すまんね
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 30, 2026 09:53pm
-- **Updated At:** Jun 30, 2026 09:53pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/30 21:53
+- **更新日::** 06/30 21:53
 
 ---
 
 ### 196. おうがさんヴィクトリアってゆう人いませんか❓
-**Author:** スリい
+**作成者:** スリい
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **れいり** (Jun 30, 2026 02:09am): いませんよ？
-- **れいり** (Jun 30, 2026 02:09am): きてないもん！！！！
-- **スリ** (Jun 30, 2026 04:41am): いやぁしりとりおもろかったからやりたいなぁ思って聞いたけどきてへんかぁ
+#### コメント (3)
+- **れいり** (06/30 02:09): いませんよ？
+- **れいり** (06/30 02:09): きてないもん！！！！
+- **スリ** (06/30 04:41): いやぁしりとりおもろかったからやりたいなぁ思って聞いたけどきてへんかぁ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 30, 2026 01:46am
-- **Updated At:** Jun 30, 2026 01:46am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/30 01:46
+- **更新日::** 06/30 01:46
 
 ---
 
 ## ゲーム
 
-### 1. Post 1
-**Author:** ツバサユメ
+### 1. 投稿 1
+**作成者:** ツバサユメ
 
 ゲーム全部ください
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 04, 2026 02:20am
-- **Updated At:** Sep 04, 2026 02:20am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/04 02:20
+- **更新日::** 09/04 02:20
 
 ---
 
 ### 2. ブロックされないマイクラ教えてくれませんか（ ;  ; ）
-**Author:** 星霧　真冬
+**作成者:** 星霧　真冬
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **星霧　真冬** (Sep 03, 2026 03:25am): ねーねー教えてくださーい
+#### コメント (1)
+- **星霧　真冬** (09/03 03:25): ねーねー教えてくださーい
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 03, 2026 03:00am
-- **Updated At:** Sep 03, 2026 03:00am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/03 03:00
+- **更新日::** 09/03 03:00
 
 ---
 
-### 3. Post 3
-**Author:** イセビヨリ
+### 3. 投稿 3
+**作成者:** イセビヨリ
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md)
+[添付ファイル 1](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md)
 
-#### Comments (1)
-- **どぬく🍑** (Sep 02, 2026 02:34am): ブロ
+#### コメント (1)
+- **どぬく🍑** (09/02 02:34): ブロ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 02, 2026 02:01am
-- **Updated At:** Sep 02, 2026 02:01am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/02 02:01
+- **更新日::** 09/02 02:01
 
 ---
 
 ### 4. フォトナのパクリゲーでもいいか下さい。
-**Author:** Ryo@shinpei (Ryo_shinpei)
+**作成者:** Ryo@shinpei (Ryo_shinpei)
 
 お願いしやす。
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (6)
-- **ガチスケ** (Aug 18, 2026 12:14pm): あるけどいる？
-- **RONALDO（偽物）** (Aug 20, 2026 12:56pm): ほしない？みんなも欲しいよな
-- **Ryo@shinpei** (Aug 22, 2026 04:52am): ガチスケさんほしいです。
-- **そーりー** (Aug 22, 2026 07:18am): ｗ
-- **そーりー** (Aug 22, 2026 07:19am): ちなみに変わった
-- **悪意** (Sep 05, 2026 04:10am): ください
+#### コメント (6)
+- **ガチスケ** (08/18 12:14): あるけどいる？
+- **RONALDO（偽物）** (08/20 12:56): ほしない？みんなも欲しいよな
+- **Ryo@shinpei** (08/22 04:52): ガチスケさんほしいです。
+- **そーりー** (08/22 07:18): ｗ
+- **そーりー** (08/22 07:19): ちなみに変わった
+- **悪意** (09/05 04:10): ください
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 09, 2026 10:18pm
-- **Updated At:** Aug 09, 2026 10:18pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/09 22:18
+- **更新日::** 08/09 22:18
 
 ---
 
 ### 5. ゲームサイト知っている人全部教えてくれ
-**Author:** ーーーーーーーーーーーーーーーーーー
+**作成者:** ーーーーーーーーーーーーーーーーーー
 
 **星評価:** 3.0 / 5 ⭐ (2)
 
-#### Comments (10)
-- **ーーーーーーーーーーーーーーーーーー** (Jul 02, 2026 10:52am): https://multimedia.easeus.com/jp/online-video-downloader/YouTubeダウンロードサイトです。
-- **ーーーーーーーーーーーーーーーーーー** (Jul 02, 2026 10:52am): 教えて
-- **おうが** (Jul 02, 2026 12:13pm): https://sites.google.com/view/prohomework2z/dictionary
-- **おうが** (Jul 02, 2026 12:13pm): https://sites.google.com/view/drive-u-7-home-2/home
-- **おうが** (Jul 02, 2026 12:13pm): https://astral-games.onrender.com/gxmes.html
-- **おうが** (Jul 02, 2026 12:13pm): https://class123.life/
-- **おうが** (Jul 02, 2026 12:14pm): https://periodic-table.techmax.hk/
-- **おうが** (Jul 02, 2026 12:14pm): こんくらいしかない
-- **原石** (Jul 03, 2026 11:54am): ナイス
-- **悪意** (Sep 05, 2026 04:18am): できん
+#### コメント (10)
+- **ーーーーーーーーーーーーーーーーーー** (07/02 10:52): https://multimedia.easeus.com/jp/online-video-downloader/YouTubeダウンロードサイトです。
+- **ーーーーーーーーーーーーーーーーーー** (07/02 10:52): 教えて
+- **おうが** (07/02 12:13): https://sites.google.com/view/prohomework2z/dictionary
+- **おうが** (07/02 12:13): https://sites.google.com/view/drive-u-7-home-2/home
+- **おうが** (07/02 12:13): https://astral-games.onrender.com/gxmes.html
+- **おうが** (07/02 12:13): https://class123.life/
+- **おうが** (07/02 12:14): https://periodic-table.techmax.hk/
+- **おうが** (07/02 12:14): こんくらいしかない
+- **原石** (07/03 11:54): ナイス
+- **悪意** (09/05 04:18): できん
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 02, 2026 10:51am
-- **Updated At:** Jul 27, 2026 12:38pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/02 10:51
+- **更新日::** 07/27 12:38
 
 ---
 
-### 6. Post 6
-**Author:** あんざい わたる (gs224141)
+### 6. 投稿 6
+**作成者:** あんざい わたる (gs224141)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://www.culinaryschools.org/kids-games/castle-defender-saga/)
+[添付ファイル 1](https://www.culinaryschools.org/kids-games/castle-defender-saga/)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 23, 2026 10:39am
-- **Updated At:** Jul 23, 2026 10:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/23 10:39
+- **更新日::** 07/23 10:39
 
 ---
 
 ### 7. imposter
-**Author:** titan tv man 3.0 (21070019_1)
+**作成者:** titan tv man 3.0 (21070019_1)
 
 楽しく話そう！
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 17, 2026 04:49am
-- **Updated At:** Jul 17, 2026 04:49am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/17 04:49
+- **更新日::** 07/17 04:49
 
 ---
 
 ### 8. おうがさん前頼んだやつできましたか？
-**Author:** Jr.2号（Jr.）
+**作成者:** Jr.2号（Jr.）
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **おうが** (Jul 14, 2026 11:26am): 何を？
-- **おうが** (Jul 14, 2026 11:26am): なんか頼まれてたっけ？
+#### コメント (2)
+- **おうが** (07/14 11:26): 何を？
+- **おうが** (07/14 11:26): なんか頼まれてたっけ？
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 14, 2026 10:41am
-- **Updated At:** Jul 14, 2026 10:41am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/14 10:41
+- **更新日::** 07/14 10:41
 
 ---
 
 ### 9. 豚ゲーいる人
-**Author:** Jr.
+**作成者:** Jr.
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (4)
-- **Jr.** (Jul 12, 2026 08:38am): [Attachment](https://media4.giphy.com/media/v1.Y2lkPWNhYmM5OTE4dDZ4bG1mZW0wNWU1ZHhxYnBhdWV1MzR4OXQ3Z2J5bmloajc0NnJnZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ZiO1CgBYqRODAr96U/giphy.gif) これの実写じゃないやつ版みたいなやつ
-- **コナユキ** (Jul 12, 2026 11:23am): はいほしいです
-- **Anonymous** (Jul 13, 2026 02:18am): くれ 
-- **Jr.2号（Jr.）** (Jul 14, 2026 10:41am): 水の部屋入ったらある
+#### コメント (4)
+- **Jr.** (07/12 08:38): [添付ファイル](https://media4.giphy.com/media/v1.Y2lkPWNhYmM5OTE4dDZ4bG1mZW0wNWU1ZHhxYnBhdWV1MzR4OXQ3Z2J5bmloajc0NnJnZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ZiO1CgBYqRODAr96U/giphy.gif) これの実写じゃないやつ版みたいなやつ
+- **コナユキ** (07/12 11:23): はいほしいです
+- **Anonymous** (07/13 02:18): くれ 
+- **Jr.2号（Jr.）** (07/14 10:41): 水の部屋入ったらある
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 12, 2026 08:36am
-- **Updated At:** Jul 12, 2026 08:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/12 08:36
+- **更新日::** 07/12 08:36
 
 ---
 
 ### 10. ゲーム欲しい人投票くれ
-**Author:** Jr.
+**作成者:** Jr.
 
 **ゲームいる？:**
-- **とても欲しい:** 69 votes
-- **欲しい:** 4 votes
-- **どっちでもいい:** 1 vote
-- **いらん:** 4 votes
+- **とても欲しい:** 69件の投票
+- **欲しい:** 4件の投票
+- **どっちでもいい:** 1件の投票
+- **いらん:** 4件の投票
 
 ゲームあげる
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (7)
-- **Jr.** (Jul 12, 2026 08:29am): もうあげないよ？
-- **Jr.** (Jul 12, 2026 08:29am): いいの？
-- **Jr.** (Jul 12, 2026 08:30am): 明日までにとても欲しいに80%入ってなかったら教えないよーーーーーーーだ
-- **Jr.** (Jul 12, 2026 08:30am): ごめんなさい
-- **どぬく🍑** (Jul 13, 2026 01:00am): いらねいらね
-- **Jr.2号（Jr.）** (Jul 14, 2026 10:42am): 水の部屋とかゲームサイトとか強いゲームサイト共有場入ったらゲーム大量にあるみんな使って
-- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (Jul 15, 2026 06:36am): じゃぁURLくれ
+#### コメント (7)
+- **Jr.** (07/12 08:29): もうあげないよ？
+- **Jr.** (07/12 08:29): いいの？
+- **Jr.** (07/12 08:30): 明日までにとても欲しいに80%入ってなかったら教えないよーーーーーーーだ
+- **Jr.** (07/12 08:30): ごめんなさい
+- **どぬく🍑** (07/13 01:00): いらねいらね
+- **Jr.2号（Jr.）** (07/14 10:42): 水の部屋とかゲームサイトとか強いゲームサイト共有場入ったらゲーム大量にあるみんな使って
+- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (07/15 06:36): じゃぁURLくれ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 12, 2026 02:12am
-- **Updated At:** Sep 05, 2026 04:10am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/12 02:12
+- **更新日::** 09/05 04:10
 
 ---
 
 ### 11. 天才くんに報告
-**Author:** Jr.
+**作成者:** Jr.
 
 マイクラのサイト投稿して
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **Jr.** (Jul 10, 2026 10:24pm): 昨日言ってたマイクラ教えて
-- **天才くん** (Jul 11, 2026 12:03am): https://periodic-table.techmax.hk/class/classicube
+#### コメント (2)
+- **Jr.** (07/10 22:24): 昨日言ってたマイクラ教えて
+- **天才くん** (07/11 00:03): https://periodic-table.techmax.hk/class/classicube
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 10, 2026 10:23pm
-- **Updated At:** Jul 10, 2026 10:23pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/10 22:23
+- **更新日::** 07/10 22:23
 
 ---
 
 ### 12. みんなどうやってゲームサイト探しますか？
-**Author:** 天才くんのお友達
+**作成者:** 天才くんのお友達
 
 みんなで共有してゲーム探して投稿したらいいと思う
 
 **星評価:** 4.0 / 5 ⭐ (1)
 
-#### Comments (1)
-- **おうが** (Jul 09, 2026 10:43am): 俺は作る派
+#### コメント (1)
+- **おうが** (07/09 10:43): 俺は作る派
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 09, 2026 06:39am
-- **Updated At:** Jul 09, 2026 06:39am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/09 06:39
+- **更新日::** 07/09 06:39
 
 ---
 
 ### 13. おうがさん
-**Author:** 天才くんのお友達
+**作成者:** 天才くんのお友達
 
 にゃんこ大戦争のゲームできましたか？
 
 **星評価:** 1.0 / 5 ⭐ (1)
 
-#### Comments (4)
-- **天才くんのお友達** (Jul 09, 2026 06:33am): 無理だったらゆって
-- **おうが** (Jul 09, 2026 10:42am): 結構できてきたよ
-- **おうが** (Jul 09, 2026 10:42am): まだ時間かかるから気長に待ってて
-- **りゅう** (Jul 10, 2026 10:11am): わかりましたありがとうございますとても嬉しいです😭
+#### コメント (4)
+- **天才くんのお友達** (07/09 06:33): 無理だったらゆって
+- **おうが** (07/09 10:42): 結構できてきたよ
+- **おうが** (07/09 10:42): まだ時間かかるから気長に待ってて
+- **りゅう** (07/10 10:11): わかりましたありがとうございますとても嬉しいです😭
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 09, 2026 06:32am
-- **Updated At:** Jul 09, 2026 06:32am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/09 06:32
+- **更新日::** 07/09 06:32
 
 ---
 
 ### 14. これは？　ブロスタできるよ
-**Author:** ソラギク
+**作成者:** ソラギク
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://script.google.com/a/macros/g.edi.akashi.hyogo.jp/s/AKfycbyTR5aZD028qJv9rwEBKGFHceFoC2mSqFOg39SnpcyGyHSclQxP5BBZ-f_9scQx6ANW/exec)
+[添付ファイル 1](https://script.google.com/a/macros/g.edi.akashi.hyogo.jp/s/AKfycbyTR5aZD028qJv9rwEBKGFHceFoC2mSqFOg39SnpcyGyHSclQxP5BBZ-f_9scQx6ANW/exec)
 
-#### Comments (3)
-- **どぬく🍑** (Jul 08, 2026 07:32am): 知ってる
-- **スリ** (Jul 08, 2026 09:22am): 操作方法教えて
-- **どぬく🍑** (Jul 08, 2026 11:39am): 縦画面でプレイ
+#### コメント (3)
+- **どぬく🍑** (07/08 07:32): 知ってる
+- **スリ** (07/08 09:22): 操作方法教えて
+- **どぬく🍑** (07/08 11:39): 縦画面でプレイ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 07, 2026 11:44pm
-- **Updated At:** Jul 07, 2026 11:44pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/07 23:44
+- **更新日::** 07/07 23:44
 
 ---
 
-### 15. Post 15
-**Author:** ごリスケ (gs224214)
+### 15. 投稿 15
+**作成者:** ごリスケ (gs224214)
 
 知ってるかもしれないですけど教えておきます。
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://www.takaratomy.co.jp/products/athleticlandgame/game/)
+[添付ファイル 1](https://www.takaratomy.co.jp/products/athleticlandgame/game/)
 
-#### Comments (7)
-- **削除済みユーザー** (Jul 07, 2026 12:02pm): いけない
-- **暇人two Time** (Jul 08, 2026 09:29am): いけたけどむずい185.95ぐらいだったこれ難しすぎるでしょこれ作った人誰だよw何度も言うけどむずすぎるよ
-- **りゅう** (Jul 10, 2026 10:39am): むずい
-- **天才くん** (Jul 10, 2026 12:38pm): 全クリ　1回だけ
-- **削除済みユーザー** (Jul 10, 2026 10:35pm): なんでみんなできるの??
-- **Blue Walker** (Jul 27, 2026 11:44pm): できた
-- **悪意** (Sep 05, 2026 04:16am): 28秒で出来た
+#### コメント (7)
+- **削除済みユーザー** (07/07 12:02): いけない
+- **暇人two Time** (07/08 09:29): いけたけどむずい185.95ぐらいだったこれ難しすぎるでしょこれ作った人誰だよw何度も言うけどむずすぎるよ
+- **りゅう** (07/10 10:39): むずい
+- **天才くん** (07/10 12:38): 全クリ　1回だけ
+- **削除済みユーザー** (07/10 22:35): なんでみんなできるの??
+- **Blue Walker** (07/27 23:44): できた
+- **悪意** (09/05 04:16): 28秒で出来た
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 07, 2026 11:08am
-- **Updated At:** Jul 07, 2026 11:09am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/07 11:08
+- **更新日::** 07/07 11:09
 
 ---
 
 ### 16. おうがさんが作ったブレインロットを盗めまた投稿して欲しいです
-**Author:** 原石
+**作成者:** 原石
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (9)
-- **おうが** (Jul 05, 2026 10:23am): 持ってないの？作ったサイト
-- **れいり** (Jul 05, 2026 10:24am): 持ってるだろw
-- **原石** (Jul 05, 2026 10:04pm): 一応投稿して欲しいです何度もお願いしてすみません。お願いします。
-- **おうが** (Jul 06, 2026 12:13am): 投稿してるよー
-- **原石** (Jul 06, 2026 05:29am): どこにですか？教えてください
-- **原石** (Jul 06, 2026 06:31am): 教えてください
-- **原石** (Jul 06, 2026 06:31am): 教えてください
-- **原石** (Jul 06, 2026 06:31am): 教えてください
-- **原石** (Jul 06, 2026 06:33am): すみませんわかりました、 
+#### コメント (9)
+- **おうが** (07/05 10:23): 持ってないの？作ったサイト
+- **れいり** (07/05 10:24): 持ってるだろw
+- **原石** (07/05 22:04): 一応投稿して欲しいです何度もお願いしてすみません。お願いします。
+- **おうが** (07/06 00:13): 投稿してるよー
+- **原石** (07/06 05:29): どこにですか？教えてください
+- **原石** (07/06 06:31): 教えてください
+- **原石** (07/06 06:31): 教えてください
+- **原石** (07/06 06:31): 教えてください
+- **原石** (07/06 06:33): すみませんわかりました、 
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 05, 2026 09:25am
-- **Updated At:** Jul 05, 2026 09:25am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/05 09:25
+- **更新日::** 07/05 09:25
 
 ---
 
 ### 17. ブロスタ教えて欲しい人コメントください
-**Author:** 原石
+**作成者:** 原石
 
 …
 
@@ -6447,215 +6448,215 @@ ID  **M2FKP2   貼っときます**
 
 ![ブロスタ](https://m.media-amazon.com/images/M/MV5BMzVkNDFkNjEtZDE1OC00MTJmLWIxNjQtYWM1MWQxNThiODI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)
 
-#### Comments (6)
-- **あいうえお** (Jul 05, 2026 09:09am): ほしい
-- **削除済みユーザー** (Jul 05, 2026 10:56am): ほしいけど、あるの?
-- **原石** (Jul 05, 2026 09:29pm): https://script.google.com/a/macros/g.edi.akashi.hyogo.jp/s/AKfycbyTR5aZD028qJv9rwEBKGFHceFoC2mSqFOg39SnpcyGyHSclQxP5BBZ-f_9scQx6ANW/execこれです。たぶん…
-- **フミヅキ** (Jul 06, 2026 02:01am): 使えない
-- **原石** (Jul 06, 2026 05:30am): 僕も実は使い方知らない
-- **りゅう** (Jul 10, 2026 10:11am): 縦画面でやるらしいよ
+#### コメント (6)
+- **あいうえお** (07/05 09:09): ほしい
+- **削除済みユーザー** (07/05 10:56): ほしいけど、あるの?
+- **原石** (07/05 21:29): https://script.google.com/a/macros/g.edi.akashi.hyogo.jp/s/AKfycbyTR5aZD028qJv9rwEBKGFHceFoC2mSqFOg39SnpcyGyHSclQxP5BBZ-f_9scQx6ANW/execこれです。たぶん…
+- **フミヅキ** (07/06 02:01): 使えない
+- **原石** (07/06 05:30): 僕も実は使い方知らない
+- **りゅう** (07/10 10:11): 縦画面でやるらしいよ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 05, 2026 08:46am
-- **Updated At:** Jul 05, 2026 08:46am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/05 08:46
+- **更新日::** 07/05 08:46
 
 ---
 
 ### 18. おもろいゲーム欲しい人コメントくれ
-**Author:** 原石
+**作成者:** 原石
 
 コメントが来なかったら残念ながら教えてあげれません
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (4)
-- **原石** (Jul 04, 2026 10:02am): こない……
-- **サンド** (Jul 04, 2026 10:43am): めっちゃカクレオンとかいけたらお願いします
-- **天才くん** (Jul 04, 2026 12:13pm): また見つけたん　すご
-- **りゅう** (Jul 10, 2026 10:11am): もう教えないよ
+#### コメント (4)
+- **原石** (07/04 10:02): こない……
+- **サンド** (07/04 10:43): めっちゃカクレオンとかいけたらお願いします
+- **天才くん** (07/04 12:13): また見つけたん　すご
+- **りゅう** (07/10 10:11): もう教えないよ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 04, 2026 09:58am
-- **Updated At:** Jul 04, 2026 09:58am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/04 09:58
+- **更新日::** 07/04 09:58
 
 ---
 
 ### 19. ゲームサイト
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (11)
-- **ユメツバサ** (Jun 29, 2026 03:37am): https://sites.google.com/view/prohomework2z/dictionary
-- **アンパンマン** (Jul 01, 2026 09:45pm): https://scratch.mit.edu/studios/1168062/ みんなしてると思うけどやってみて。
-- **アンパンマン** (Jul 01, 2026 09:48pm): ごめん
-- **アンパンマン** (Jul 01, 2026 09:48pm): してるになっちゃっった
-- **アンパンマン** (Jul 01, 2026 09:48pm): 本当は知ってる
-- **れいり** (Jul 01, 2026 11:34pm): 全部使えない
-- **おうが** (Jul 01, 2026 11:46pm): ブロだ
-- **ハチワレ** (Jul 02, 2026 02:50am): Geometry Dash liteができるサイトあったら教えてくださいお返しはします 
-- **天才くん** (Jul 02, 2026 12:43pm): https://www.geometrydash.comライトじゃないけど
-- **天才くん** (Jul 02, 2026 12:43pm): 僕本家買ったけどめっちゃおもろい
-- **アンパンマン** (Jul 03, 2026 07:02am): 知ってた
+#### コメント (11)
+- **ユメツバサ** (06/29 03:37): https://sites.google.com/view/prohomework2z/dictionary
+- **アンパンマン** (07/01 21:45): https://scratch.mit.edu/studios/1168062/ みんなしてると思うけどやってみて。
+- **アンパンマン** (07/01 21:48): ごめん
+- **アンパンマン** (07/01 21:48): してるになっちゃっった
+- **アンパンマン** (07/01 21:48): 本当は知ってる
+- **れいり** (07/01 23:34): 全部使えない
+- **おうが** (07/01 23:46): ブロだ
+- **ハチワレ** (07/02 02:50): Geometry Dash liteができるサイトあったら教えてくださいお返しはします 
+- **天才くん** (07/02 12:43): https://www.geometrydash.comライトじゃないけど
+- **天才くん** (07/02 12:43): 僕本家買ったけどめっちゃおもろい
+- **アンパンマン** (07/03 07:02): 知ってた
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 29, 2026 12:41am
-- **Updated At:** Jul 05, 2026 10:23am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/29 00:41
+- **更新日::** 07/05 10:23
 
 ---
 
 ### 20. おうがさんにお願いです
-**Author:** 原石
+**作成者:** 原石
 
 にゃんこ大戦争のゲームを作って欲しいですお願いします🙇
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://battlecats.club/)
+[添付ファイル 1](https://battlecats.club/)
 
-#### Comments (3)
-- **原石** (Jul 04, 2026 05:40am): できたらリンクをここに送ってくださいお願いします
-- **おうが** (Jul 05, 2026 10:24am): 作ってみるね！
-- **原石** (Jul 05, 2026 09:30pm): ありがとうございますとても嬉しいです。
+#### コメント (3)
+- **原石** (07/04 05:40): できたらリンクをここに送ってくださいお願いします
+- **おうが** (07/05 10:24): 作ってみるね！
+- **原石** (07/05 21:30): ありがとうございますとても嬉しいです。
 
-#### Additional Information
-- **Post color:** Blue
-- **Created At:** Jul 04, 2026 02:10am
-- **Updated At:** Jul 04, 2026 02:10am
+#### その他の情報
+- **投稿のカラー:** ブルー
+- **作成日::** 07/04 02:10
+- **更新日::** 07/04 02:10
 
 ---
 
 ### 21. にゃんこ大戦争してる人いますか？
-**Author:** ナミマル
+**作成者:** ナミマル
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://battlecats.club/)
+[添付ファイル 1](https://battlecats.club/)
 
-#### Comments (2)
-- **元ハムすけ　ハムハム帝国** (Jul 08, 2026 05:51am): めっちゃ知ってるよ
-- **つくし** (Jul 08, 2026 06:13am): 何章いってる？ 
+#### コメント (2)
+- **元ハムすけ　ハムハム帝国** (07/08 05:51): めっちゃ知ってるよ
+- **つくし** (07/08 06:13): 何章いってる？ 
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 03, 2026 12:25pm
-- **Updated At:** Jul 03, 2026 12:25pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/03 12:25
+- **更新日::** 07/03 12:25
 
 ---
 
 ### 22. マイクラのサイトありますか？
-**Author:** 三角
+**作成者:** 三角
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
 ![マイクラ](https://m.media-amazon.com/images/M/MV5BZDljOGViMjAtMzQwYi00ZWM1LTgwZWEtNTYzYTE4NTc2NWE5XkEyXkFqcGc@._V1_.jpg)
 
-#### Comments (10)
-- **三角** (Jul 03, 2026 12:13pm): コメントまだ？  
-- **三角** (Jul 03, 2026 12:16pm): お願いないの？知らない？
-- **どぬく🍑** (Jul 03, 2026 10:49pm): 欲しい？
-- **か** (Jul 03, 2026 11:22pm): 欲しいバージョン古くても
-- **三角** (Jul 03, 2026 11:22pm): 欲しい
-- **ソラカゼ** (Jul 04, 2026 12:46am): コメントまだ？
-- **どぬく🍑** (Jul 04, 2026 01:46am): ごめん大会で返信できなかった
-- **どぬく🍑** (Jul 04, 2026 01:47am): https://www.autistici.org/eaglercraft/play/EaglercraftX_1.8/JavaScript/
-- **原石** (Jul 04, 2026 01:54am): ブロックされちゃった
-- **ソラカゼ** (Jul 04, 2026 01:55am): ブロックされたけどありがと
+#### コメント (10)
+- **三角** (07/03 12:13): コメントまだ？  
+- **三角** (07/03 12:16): お願いないの？知らない？
+- **どぬく🍑** (07/03 22:49): 欲しい？
+- **か** (07/03 23:22): 欲しいバージョン古くても
+- **三角** (07/03 23:22): 欲しい
+- **ソラカゼ** (07/04 00:46): コメントまだ？
+- **どぬく🍑** (07/04 01:46): ごめん大会で返信できなかった
+- **どぬく🍑** (07/04 01:47): https://www.autistici.org/eaglercraft/play/EaglercraftX_1.8/JavaScript/
+- **原石** (07/04 01:54): ブロックされちゃった
+- **ソラカゼ** (07/04 01:55): ブロックされたけどありがと
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 03, 2026 12:10pm
-- **Updated At:** Jul 03, 2026 12:10pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/03 12:10
+- **更新日::** 07/03 12:10
 
 ---
 
 ### 23. ゲームサイト知っている人全部教えてくれ
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-#### Comments (1)
-- **？？** (Sep 02, 2026 12:15am): https://unpkg.com/classroomduck@1.0.29/index.html#/class/dune
+#### コメント (1)
+- **？？** (09/02 00:15): https://unpkg.com/classroomduck@1.0.29/index.html#/class/dune
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 18, 2026 05:08am
-- **Updated At:** Jul 18, 2026 05:08am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/18 05:08
+- **更新日::** 07/18 05:08
 
 ---
 
 ### 24. クラスルームちょうだい
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **おうが** (Jul 02, 2026 12:13pm): ごめーん持ってないわ
-- **時透無一郎** (Jul 03, 2026 08:30am): https://classroom.google.com/h
-- **どぬく🍑** (Jul 04, 2026 02:19am): ゲームサイトね…
+#### コメント (3)
+- **おうが** (07/02 12:13): ごめーん持ってないわ
+- **時透無一郎** (07/03 08:30): https://classroom.google.com/h
+- **どぬく🍑** (07/04 02:19): ゲームサイトね…
 
-#### Additional Information
-- **Post color:** Red
-- **Created At:** Jul 02, 2026 05:50am
-- **Updated At:** Jul 02, 2026 05:50am
+#### その他の情報
+- **投稿のカラー:** レッド
+- **作成日::** 07/02 05:50
+- **更新日::** 07/02 05:50
 
 ---
 
-### 25. Post 25
-**Author:** ソラドリ
+### 25. 投稿 25
+**作成者:** ソラドリ
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://periodic-table.techmax.hk/class/five-nights-at-freddys-2)
+[添付ファイル 1](https://periodic-table.techmax.hk/class/five-nights-at-freddys-2)
 
-#### Comments (2)
-- **天才くん** (Jul 01, 2026 07:31am): 持ってるけどありがとう！
-- **削除済みユーザー** (Jul 04, 2026 01:34am): 最高m(_ _)mありがとうございます
+#### コメント (2)
+- **天才くん** (07/01 07:31): 持ってるけどありがとう！
+- **削除済みユーザー** (07/04 01:34): 最高m(_ _)mありがとうございます
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 01, 2026 04:35am
-- **Updated At:** Jul 01, 2026 04:35am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/01 04:35
+- **更新日::** 07/01 04:35
 
 ---
 
 ### 26. 桃鉄のパスワード教えて
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **おうが** (Jul 01, 2026 12:12pm): 多分全部期限切れてる
+#### コメント (1)
+- **おうが** (07/01 12:12): 多分全部期限切れてる
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 01, 2026 03:11am
-- **Updated At:** Jul 01, 2026 03:11am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/01 03:11
+- **更新日::** 07/01 03:11
 
 ---
 
-### 27. Post 27
-**Author:** BIRUSU
+### 27. 投稿 27
+**作成者:** BIRUSU
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://www.google.com/search?q=%E3%83%9D%E3%83%83%E3%83%97%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0&rlz=1CANKBA_enJP1211&oq=&gs_lcrp=EgZjaHJvbWUqCQgBEEUYOxjCAzIJCAAQRRg7GMID)
+[添付ファイル 1](https://www.google.com/search?q=%E3%83%9D%E3%83%83%E3%83%97%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0&rlz=1CANKBA_enJP1211&oq=&gs_lcrp=EgZjaHJvbWUqCQgBEEUYOxjCAzIJCAAQRRg7GMID)
 
-#### Comments (1)
-- **BIRUSU** (Jun 30, 2026 03:03am): やってみた
+#### コメント (1)
+- **BIRUSU** (06/30 03:03): やってみた
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 30, 2026 03:03am
-- **Updated At:** Jun 30, 2026 03:03am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/30 03:03
+- **更新日::** 06/30 03:03
 
 ---
 
-### 28. Post 28
-**Author:** ますと
+### 28. 投稿 28
+**作成者:** ますと
 
 [Брейнрот Арена Онлайн - играть онлайн бесплатно на сервисе Яндекс Игры](https://yandex.kz/games/app/breinrot-arena-onlain-501106)ロシア語だけど我慢して
 
@@ -6663,141 +6664,141 @@ ID  **M2FKP2   貼っときます**
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://yandex.kz/games/app/breinrot-arena-onlain-501106)
+[添付ファイル 1](https://yandex.kz/games/app/breinrot-arena-onlain-501106)
 
-#### Comments (3)
-- **天才くん** (Jun 29, 2026 07:20am): これ無理になったんだよなー
-- **おうが** (Jun 29, 2026 11:47pm): 僕も無理だった、
-- **金しか勝たん** (Jul 01, 2026 03:43pm): 僕も
+#### コメント (3)
+- **天才くん** (06/29 07:20): これ無理になったんだよなー
+- **おうが** (06/29 23:47): 僕も無理だった、
+- **金しか勝たん** (07/01 15:43): 僕も
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 29, 2026 07:11am
-- **Updated At:** Jun 29, 2026 07:11am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/29 07:11
+- **更新日::** 06/29 07:11
 
 ---
 
 ### 29. ゲーム欲しかったら言って
-**Author:** 天才くん
+**作成者:** 天才くん
 
 まじげ神　リスクもない
 
 **星評価:** 5.0 / 5 ⭐ (5)
 
-#### Comments (15)
-- **天才くん** (Jun 29, 2026 06:59am): 3人行ったら出します
-- **天才くん** (Jun 29, 2026 07:00am): なんか少なくなってない？！
-- **天才くん** (Jun 29, 2026 07:20am): コメントに「いる」と打ってね
-- **天才くん** (Jun 29, 2026 07:24am): やっぱ出すわhttps://class123.life
-- **天才くん** (Jun 29, 2026 07:24am): 評価お願い😀
-- **れいり** (Jun 29, 2026 08:18am): かみ
-- **れいり** (Jun 29, 2026 08:18am): ありがとう
-- **天才くん** (Jun 29, 2026 09:44am): あんまり広めないで本当に
-- **れいり** (Jun 29, 2026 09:51am): おk
-- **タニモリ** (Jun 30, 2026 12:56am): もっとくれーーー
-- **タニモリ** (Jun 30, 2026 12:56am): ふぉー
-- **天才くん** (Jun 30, 2026 12:17pm): これブロの人いる？
-- **金しか勝たん** (Jul 01, 2026 03:50pm): 控えにいって神
-- **天才くん** (Jul 02, 2026 12:13am): ？？？？？
-- **ナミマル** (Jul 03, 2026 12:28pm): くれ前のお返しに
+#### コメント (15)
+- **天才くん** (06/29 06:59): 3人行ったら出します
+- **天才くん** (06/29 07:00): なんか少なくなってない？！
+- **天才くん** (06/29 07:20): コメントに「いる」と打ってね
+- **天才くん** (06/29 07:24): やっぱ出すわhttps://class123.life
+- **天才くん** (06/29 07:24): 評価お願い😀
+- **れいり** (06/29 08:18): かみ
+- **れいり** (06/29 08:18): ありがとう
+- **天才くん** (06/29 09:44): あんまり広めないで本当に
+- **れいり** (06/29 09:51): おk
+- **タニモリ** (06/30 00:56): もっとくれーーー
+- **タニモリ** (06/30 00:56): ふぉー
+- **天才くん** (06/30 12:17): これブロの人いる？
+- **金しか勝たん** (07/01 15:50): 控えにいって神
+- **天才くん** (07/02 00:13): ？？？？？
+- **ナミマル** (07/03 12:28): くれ前のお返しに
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 29, 2026 06:59am
-- **Updated At:** Jun 29, 2026 06:59am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/29 06:59
+- **更新日::** 06/29 06:59
 
 ---
 
 ### 30. サッカー見れるサイトです
-**Author:** おうが応援する人
+**作成者:** おうが応援する人
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://www.nhk.jp/g/fifaworldcup/)
+[添付ファイル 1](https://www.nhk.jp/g/fifaworldcup/)
 
-#### Comments (2)
-- **おうが** (Jun 29, 2026 11:47pm): あざっす！
-- **ナミマル** (Jul 03, 2026 12:28pm): ありがとうございます
+#### コメント (2)
+- **おうが** (06/29 23:47): あざっす！
+- **ナミマル** (07/03 12:28): ありがとうございます
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 29, 2026 05:10am
-- **Updated At:** Jun 29, 2026 05:10am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/29 05:10
+- **更新日::** 06/29 05:10
 
 ---
 
 ## 予約通話
 
 ### 1. 天才くん！！入って
-**Author:** ZPP (11220020_2)
+**作成者:** ZPP (11220020_2)
 
 まじはいって
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://51.222.206.184.ip.ipq.co/)
+[添付ファイル 1](https://51.222.206.184.ip.ipq.co/)
 
-#### Comments (2)
-- **ZPP** (Sep 03, 2026 01:25am): 下のやつに
-- **ZPP** (Sep 03, 2026 01:25am): https://padlet.com/11220020_2/padlet-s0236w0pgs5rrze86loh?lang=ja
+#### コメント (2)
+- **ZPP** (09/03 01:25): 下のやつに
+- **ZPP** (09/03 01:25): https://padlet.com/11220020_2/padlet-s0236w0pgs5rrze86loh?lang=ja
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 03, 2026 01:23am
-- **Updated At:** Sep 03, 2026 01:23am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/03 01:23
+- **更新日::** 09/03 01:23
 
 ---
 
 ### 2. 誰でも使って
-**Author:** 原石
+**作成者:** 原石
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **原石** (Jul 06, 2026 07:54am): https://meet.stuvus.uni-stuttgart.de/みんな
+#### コメント (1)
+- **原石** (07/06 07:54): https://meet.stuvus.uni-stuttgart.de/みんな
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 06, 2026 07:54am
-- **Updated At:** Jul 06, 2026 07:54am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/06 07:54
+- **更新日::** 07/06 07:54
 
 ---
 
 ### 3. ⭕️⭕️と⭕️時通話したいでよろしくー
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (19)
-- **れいり** (Jul 01, 2026 11:33pm): よろしくー
-- **削除済みユーザー** (Jul 02, 2026 10:18am): m(_ _)mありがとうございます
-- **削除済みユーザー** (Jul 02, 2026 10:21am): 今日の8時いける??↓
-- **削除済みユーザー** (Jul 02, 2026 10:22am): https://meet.stuvus.uni-stuttgart.de/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E5%8D%94%E5%8A%9B%E3%81%97%E3%81%9F%E3%82%89%E3%82%A2%E3%82%A4%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%81%AA%E3%82%93%E3%81%A6%E6%80%96%E3%81%8F%E3%81%AA%E3%81%84
-- **RYOICHI** (Jul 02, 2026 10:23am): いけるよー
-- **RYOICHI** (Jul 02, 2026 10:23am): ごめんブロック
-- **RYOICHI** (Jul 02, 2026 10:25am): できれば違うのいいですか？
-- **削除済みユーザー** (Jul 02, 2026 11:00am): おk
-- **神蚊** (Jul 02, 2026 12:55pm): 今います
-- **神蚊** (Jul 02, 2026 12:55pm): 放置してるかも
-- **削除済みユーザー** (Jul 02, 2026 09:10pm): ごめん、参加できませんでした本当にすみません
-- **どぬく🍑** (Jul 02, 2026 11:01pm): チース
-- **おうが** (Jul 02, 2026 11:03pm): チース！
-- **どぬく🍑** (Jul 03, 2026 02:58am): 今から行ける人おる？
-- **どぬく🍑** (Jul 03, 2026 03:00am): 行ける人は入って
-- **どぬく🍑** (Jul 03, 2026 03:56am): カラフルピーチどぬく推し があなたをミーティングに招待しました。ミーティングにご参加ください:https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィルターなんて怖くない 
-- **時透無一郎** (Jul 03, 2026 08:28am): ブロ
-- **RYOICHI** (Jul 03, 2026 10:14am): ブロ
-- **オクラ** (Jul 04, 2026 11:54pm): https://meet.stuvus.uni-stuttgart.de/HandyPopularitiesStayActually%E5%85%A5%E3%81%A3%E3%81%A6
+#### コメント (19)
+- **れいり** (07/01 23:33): よろしくー
+- **削除済みユーザー** (07/02 10:18): m(_ _)mありがとうございます
+- **削除済みユーザー** (07/02 10:21): 今日の8時いける??↓
+- **削除済みユーザー** (07/02 10:22): https://meet.stuvus.uni-stuttgart.de/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E5%8D%94%E5%8A%9B%E3%81%97%E3%81%9F%E3%82%89%E3%82%A2%E3%82%A4%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%81%AA%E3%82%93%E3%81%A6%E6%80%96%E3%81%8F%E3%81%AA%E3%81%84
+- **RYOICHI** (07/02 10:23): いけるよー
+- **RYOICHI** (07/02 10:23): ごめんブロック
+- **RYOICHI** (07/02 10:25): できれば違うのいいですか？
+- **削除済みユーザー** (07/02 11:00): おk
+- **神蚊** (07/02 12:55): 今います
+- **神蚊** (07/02 12:55): 放置してるかも
+- **削除済みユーザー** (07/02 21:10): ごめん、参加できませんでした本当にすみません
+- **どぬく🍑** (07/02 23:01): チース
+- **おうが** (07/02 23:03): チース！
+- **どぬく🍑** (07/03 02:58): 今から行ける人おる？
+- **どぬく🍑** (07/03 03:00): 行ける人は入って
+- **どぬく🍑** (07/03 03:56): カラフルピーチどぬく推し があなたをミーティングに招待しました。ミーティングにご参加ください:https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィルターなんて怖くない 
+- **時透無一郎** (07/03 08:28): ブロ
+- **RYOICHI** (07/03 10:14): ブロ
+- **オクラ** (07/04 23:54): https://meet.stuvus.uni-stuttgart.de/HandyPopularitiesStayActually%E5%85%A5%E3%81%A3%E3%81%A6
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 01, 2026 12:47pm
-- **Updated At:** Jul 06, 2026 12:13am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/01 12:47
+- **更新日::** 07/06 00:13
 
 ---
 
 ### 4. 誰でもいいよ
-**Author:** オクラ
+**作成者:** オクラ
 
 朝０９３０－１２００まで
 
@@ -6807,54 +6808,54 @@ ID  **M2FKP2   貼っときます**
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://meet.stuvus.uni-stuttgart.de/HandyPopularitiesStayActually%E5%85%A5%E3%81%A3%E3%81%A6)
+[添付ファイル 1](https://meet.stuvus.uni-stuttgart.de/HandyPopularitiesStayActually%E5%85%A5%E3%81%A3%E3%81%A6)
 
-#### Comments (3)
-- **ガチスケ** (Aug 15, 2026 12:52pm): すいませんｎ
-- **ガチスケ** (Aug 15, 2026 12:52pm): ブロックされてるんですけど
-- **そーりー** (Aug 22, 2026 07:19am): なわけないｗｗ
+#### コメント (3)
+- **ガチスケ** (08/15 12:52): すいませんｎ
+- **ガチスケ** (08/15 12:52): ブロックされてるんですけど
+- **そーりー** (08/22 07:19): なわけないｗｗ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 04, 2026 11:53pm
-- **Updated At:** Jul 04, 2026 11:53pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/04 23:53
+- **更新日::** 07/04 23:53
 
 ---
 
 ### 5. ジャストミートのチャット部屋作り方教えてください
-**Author:** 削除済みユーザー
+**作成者:** 削除済みユーザー
 
 できるだけ分かりやす説明してくれるとうれしいです
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 03, 2026 09:36am
-- **Updated At:** Jul 03, 2026 09:36am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/03 09:36
+- **更新日::** 07/03 09:36
 
 ---
 
 ### 6. カラピチこれ入ってきて
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://meet.stuvus.uni-stuttgart.de/AccountableImportancesConvinceReadily)
+[添付ファイル 1](https://meet.stuvus.uni-stuttgart.de/AccountableImportancesConvinceReadily)
 
-#### Comments (2)
-- **おうが** (Jul 03, 2026 05:17am): これにきて
-- **黒桃りう** (Jul 27, 2026 06:55am): だれかきて
+#### コメント (2)
+- **おうが** (07/03 05:17): これにきて
+- **黒桃りう** (07/27 06:55): だれかきて
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 03, 2026 05:15am
-- **Updated At:** Jul 03, 2026 05:15am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/03 05:15
+- **更新日::** 07/03 05:15
 
 ---
 
 ### 7. カラフルピーチどぬく推し があなたをミーティングに招待しました。
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 ミーティングにご参加ください:
 
@@ -6862,272 +6863,272 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (11)
-- **どぬく🍑** (Jul 03, 2026 05:15am): 入ってよ〜🥺
-- **おうが** (Jul 03, 2026 05:16am): こっちきて
-- **おうが** (Jul 03, 2026 05:48am): ごめんもう入れん
-- **おうが** (Jul 03, 2026 05:48am): 学校終わったから
-- **どぬく🍑** (Jul 03, 2026 05:52am): まじ？家でできないの？
-- **どぬく🍑** (Jul 03, 2026 05:57am): 誰が使ってもいいよー
-- **時透無一郎** (Jul 04, 2026 07:16am): ブロ
-- **天才くん** (Jul 04, 2026 12:21pm): あ　　
-- **天才くん** (Jul 04, 2026 12:21pm): あ
-- **どぬく🍑** (Jul 05, 2026 11:36am): 誰かいるー？
-- **天才くん** (Jul 09, 2026 07:35am): ↑天才くん誰
+#### コメント (11)
+- **どぬく🍑** (07/03 05:15): 入ってよ〜🥺
+- **おうが** (07/03 05:16): こっちきて
+- **おうが** (07/03 05:48): ごめんもう入れん
+- **おうが** (07/03 05:48): 学校終わったから
+- **どぬく🍑** (07/03 05:52): まじ？家でできないの？
+- **どぬく🍑** (07/03 05:57): 誰が使ってもいいよー
+- **時透無一郎** (07/04 07:16): ブロ
+- **天才くん** (07/04 12:21): あ　　
+- **天才くん** (07/04 12:21): あ
+- **どぬく🍑** (07/05 11:36): 誰かいるー？
+- **天才くん** (07/09 07:35): ↑天才くん誰
 
-#### Additional Information
-- **Post color:** Blue
-- **Created At:** Jul 03, 2026 04:04am
-- **Updated At:** Jul 03, 2026 04:04am
+#### その他の情報
+- **投稿のカラー:** ブルー
+- **作成日::** 07/03 04:04
+- **更新日::** 07/03 04:04
 
 ---
 
 ## プロキシ
 
-### 1. Post 1
-**Author:** そーりー (999d3145fe729ae4)
+### 1. 投稿 1
+**作成者:** そーりー (999d3145fe729ae4)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://padlet.com/999d3145fe729ae4/padlet-cjhtyqb6wxocctbl?lang=ja)
+[添付ファイル 1](https://padlet.com/999d3145fe729ae4/padlet-cjhtyqb6wxocctbl?lang=ja)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 04, 2026 01:33pm
-- **Updated At:** Sep 04, 2026 01:33pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/04 13:33
+- **更新日::** 09/04 13:33
 
 ---
 
 ### 2. 誰か、ラグくないプロキシください
-**Author:** ぼちぼちいこか愛好家 (2101038_5)
+**作成者:** ぼちぼちいこか愛好家 (2101038_5)
 
 学タブでもできるやつでお願いします。
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 02, 2026 01:08am
-- **Updated At:** Sep 02, 2026 01:08am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/02 01:08
+- **更新日::** 09/02 01:08
 
 ---
 
 ### 3. だれか、Runnerのプロキシ持ってる人いませんか？
-**Author:** むちるん (s20200967_2)
+**作成者:** むちるん (s20200967_2)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (3)
-- **^^;🏆️🙂** (Jul 24, 2026 05:38am): https://luanr.freemyip.com/
-- **むちるん** (Jul 30, 2026 12:32pm): ありがとう！！
-- **ZPP** (Sep 03, 2026 01:20am): https://padlet.com/11220020_2/padlet-s0236w0pgs5rrze86loh?lang=ja
+#### コメント (3)
+- **^^;🏆️🙂** (07/24 05:38): https://luanr.freemyip.com/
+- **むちるん** (07/30 12:32): ありがとう！！
+- **ZPP** (09/03 01:20): https://padlet.com/11220020_2/padlet-s0236w0pgs5rrze86loh?lang=ja
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 21, 2026 12:48pm
-- **Updated At:** Jul 21, 2026 12:48pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/21 12:48
+- **更新日::** 07/21 12:48
 
 ---
 
 ### 4. プロキシほしいらしいんで、出すけど、
-**Author:** 削除済みユーザー
+**作成者:** 削除済みユーザー
 
 プロキシいるかどうかの投票で投票するよりもプロキシをくれと言われまから出すけど、sns系はみれんからそこらへんはよろしく、ゲームとかだったらできる、これ無理だったら諦めてください。
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://lttthedev.github.io/desktop.html)
+[添付ファイル 1](https://lttthedev.github.io/desktop.html)
 
-#### Comments (5)
-- **R** (Jul 09, 2026 12:14pm): 諦めるかぁ
-- **ユキマツリ** (Jul 10, 2026 05:07am): 諦める
-- **天才くん** (Jul 10, 2026 05:08am): まだ諦めるな  https://class123.life
-- **削除済みユーザー** (Jul 10, 2026 06:07am): ↑何この映画展開
-- **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (Jul 11, 2026 10:01am): きれい））
+#### コメント (5)
+- **R** (07/09 12:14): 諦めるかぁ
+- **ユキマツリ** (07/10 05:07): 諦める
+- **天才くん** (07/10 05:08): まだ諦めるな  https://class123.life
+- **削除済みユーザー** (07/10 06:07): ↑何この映画展開
+- **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (07/11 10:01): きれい））
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 09, 2026 11:54am
-- **Updated At:** Jul 09, 2026 11:54am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/09 11:54
+- **更新日::** 07/09 11:54
 
 ---
 
 ### 5. 雑魚プロキシだけどいる？
-**Author:** 天才くん
+**作成者:** 天才くん
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **天才くん** (Jul 09, 2026 07:16am): https://51.222.206.184.ip.ipq.co
+#### コメント (1)
+- **天才くん** (07/09 07:16): https://51.222.206.184.ip.ipq.co
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 09, 2026 07:16am
-- **Updated At:** Jul 09, 2026 07:16am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/09 07:16
+- **更新日::** 07/09 07:16
 
 ---
 
 ### 6. あんこさん投票作る前に出して欲しいです
-**Author:** 1
+**作成者:** 1
 
 それと　ちょうだい
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **削除済みユーザー** (Jul 09, 2026 11:58am): そう焦らず出すけど
+#### コメント (1)
+- **削除済みユーザー** (07/09 11:58): そう焦らず出すけど
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 09, 2026 06:51am
-- **Updated At:** Jul 09, 2026 06:51am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/09 06:51
+- **更新日::** 07/09 06:51
 
 ---
 
 ### 7. 奥の手を教えるか
-**Author:** 削除済みユーザー
+**作成者:** 削除済みユーザー
 
 最近教育委員会まじで恐ろしいです、行けない人もいるかも知れませんが大体行けます、最初のパスワードは1234です、ユーチューブ、インスタ、ティックトック系は、みれません、これは、学生の最終兵器です。
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://windows-12-web.vercel.app/)
+[添付ファイル 1](https://windows-12-web.vercel.app/)
 
-#### Comments (10)
-- **削除済みユーザー** (Jul 07, 2026 12:15pm): 絶対広めんな
-- **あああああ** (Jul 07, 2026 10:59pm): 無理だった
-- **削除済みユーザー** (Jul 08, 2026 10:53am): 無理って規制?
-- **R** (Jul 08, 2026 12:27pm): 規制で無理やった
-- **1** (Jul 08, 2026 12:47pm): YouTube見れん
-- **1** (Jul 08, 2026 12:47pm): まずgoogleからサイトに入れん
-- **天才くんのお友達** (Jul 08, 2026 10:29pm): 入れた
-- **スズミズ** (Jul 10, 2026 02:12am): ピンなに 
-- **削除済みユーザー** (Jul 13, 2026 05:47am): ピンとは?
-- **タニモリ** (Sep 01, 2026 12:12am): 無理
+#### コメント (10)
+- **削除済みユーザー** (07/07 12:15): 絶対広めんな
+- **あああああ** (07/07 22:59): 無理だった
+- **削除済みユーザー** (07/08 10:53): 無理って規制?
+- **R** (07/08 12:27): 規制で無理やった
+- **1** (07/08 12:47): YouTube見れん
+- **1** (07/08 12:47): まずgoogleからサイトに入れん
+- **天才くんのお友達** (07/08 22:29): 入れた
+- **スズミズ** (07/10 02:12): ピンなに 
+- **削除済みユーザー** (07/13 05:47): ピンとは?
+- **タニモリ** (09/01 00:12): 無理
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 07, 2026 12:15pm
-- **Updated At:** Jul 07, 2026 12:15pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/07 12:15
+- **更新日::** 07/07 12:15
 
 ---
 
 ### 8. プロキシサイト
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 4.5 / 5 ⭐ (2)
 
-#### Comments (6)
-- **ひゃほー** (Jun 30, 2026 01:37pm): なんか全部消えてるんやけど
-- **削除済みユーザー** (Jun 30, 2026 09:52pm): 一回重いので全部消したらしいです
-- **おうが** (Jul 01, 2026 02:52am): ごめんね、
-- **ヒャホー** (Jul 01, 2026 01:29pm): 了解です
-- **Blue Walker** (Jul 03, 2026 02:09am): なる〜
-- **ツキノハネ** (Jul 06, 2026 07:37am): わかりました
+#### コメント (6)
+- **ひゃほー** (06/30 13:37): なんか全部消えてるんやけど
+- **削除済みユーザー** (06/30 21:52): 一回重いので全部消したらしいです
+- **おうが** (07/01 02:52): ごめんね、
+- **ヒャホー** (07/01 13:29): 了解です
+- **Blue Walker** (07/03 02:09): なる〜
+- **ツキノハネ** (07/06 07:37): わかりました
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 29, 2026 12:41am
-- **Updated At:** Jul 06, 2026 05:04am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/29 00:41
+- **更新日::** 07/06 05:04
 
 ---
 
 ### 9. だれかCroxyProxy系のサイトくださいできるだけたくさん
-**Author:** 削除済みユーザー
+**作成者:** 削除済みユーザー
 
 だれかCroxyProxy系のサイトくださいできるだけたさん
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **おうが** (Jul 01, 2026 12:46pm): ごめん持ってなかった、
-- **削除済みユーザー** (Jul 02, 2026 09:11pm): ありがとうございます。でもいけませんでした
+#### コメント (2)
+- **おうが** (07/01 12:46): ごめん持ってなかった、
+- **削除済みユーザー** (07/02 21:11): ありがとうございます。でもいけませんでした
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 01, 2026 07:55am
-- **Updated At:** Jul 01, 2026 07:55am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/01 07:55
+- **更新日::** 07/01 07:55
 
 ---
 
 ## YouTube系
 
 ### 1. 何にもブロックされない
-**Author:** 常に眠いひと (h2822110)
+**作成者:** 常に眠いひと (h2822110)
 
 [https://bykaito.hospitaldelninodif.gob.mx/main.html](https://bykaito.hospitaldelninodif.gob.mx/main.html)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://bykaito.hospitaldelninodif.gob.mx/main.html)
+[添付ファイル 1](https://bykaito.hospitaldelninodif.gob.mx/main.html)
 
-#### Comments (3)
-- **常に眠いひと** (Sep 03, 2026 03:15am): YouTube観れるけどショートしか無理
-- **星霧　真冬** (Sep 03, 2026 04:47am): 最強かー
-- **アキボシ** (Sep 04, 2026 03:08am): 重い〜
+#### コメント (3)
+- **常に眠いひと** (09/03 03:15): YouTube観れるけどショートしか無理
+- **星霧　真冬** (09/03 04:47): 最強かー
+- **アキボシ** (09/04 03:08): 重い〜
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 03, 2026 03:14am
-- **Updated At:** Sep 03, 2026 03:14am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/03 03:14
+- **更新日::** 09/03 03:14
 
 ---
 
 ### 2. 新しいの欲しい人ー
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (5)
-- **どぬく🍑** (Aug 31, 2026 11:25pm): 動画系最強
-- **どぬく🍑** (Aug 31, 2026 11:25pm): のやつ
-- **どぬく🍑** (Aug 31, 2026 11:25pm): 欲しい人俺の部屋くればあるよ
-- **どぬく🍑** (Aug 31, 2026 11:25pm): 広めないでね
-- **KASUE** (Sep 04, 2026 09:01am): どうやって入れますか？
+#### コメント (5)
+- **どぬく🍑** (08/31 23:25): 動画系最強
+- **どぬく🍑** (08/31 23:25): のやつ
+- **どぬく🍑** (08/31 23:25): 欲しい人俺の部屋くればあるよ
+- **どぬく🍑** (08/31 23:25): 広めないでね
+- **KASUE** (09/04 09:01): どうやって入れますか？
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 31, 2026 11:24pm
-- **Updated At:** Aug 31, 2026 11:24pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/31 23:24
+- **更新日::** 08/31 23:24
 
 ---
 
-### 3. Post 3
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+### 3. 投稿 3
+**作成者:** どぬく🍑 (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://script.google.com/macros/s/AKfycbwW2uVr6_zt3AztFHqIbyrQAe_kAqrDPVjXmjCcpJuYhAAcu4ujy5u4y26B0-a7nKkX/exec)
+[添付ファイル 1](https://script.google.com/macros/s/AKfycbwW2uVr6_zt3AztFHqIbyrQAe_kAqrDPVjXmjCcpJuYhAAcu4ujy5u4y26B0-a7nKkX/exec)
 
-#### Comments (4)
-- **どぬく🍑** (Aug 31, 2026 12:48am): これはいけるっしょ
-- **ソラマイ** (Aug 31, 2026 12:48am): ありがとう！
-- **KASUE** (Aug 31, 2026 09:53am): ありがとうございます！！
-- **KASUE** (Aug 31, 2026 10:06am): なぜか使えなくなりました
+#### コメント (4)
+- **どぬく🍑** (08/31 00:48): これはいけるっしょ
+- **ソラマイ** (08/31 00:48): ありがとう！
+- **KASUE** (08/31 09:53): ありがとうございます！！
+- **KASUE** (08/31 10:06): なぜか使えなくなりました
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 31, 2026 12:48am
-- **Updated At:** Aug 31, 2026 12:48am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/31 00:48
+- **更新日::** 08/31 00:48
 
 ---
 
 ### 4. これいいよ
-**Author:** RONALDO（偽物） (s22121302)
+**作成者:** RONALDO（偽物） (s22121302)
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-[Attachment 1](https://multimedia.easeus.com/jp/online-video-downloader/)
+[添付ファイル 1](https://multimedia.easeus.com/jp/online-video-downloader/)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 17, 2026 02:54am
-- **Updated At:** Aug 17, 2026 02:54am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/17 02:54
+- **更新日::** 08/17 02:54
 
 ---
 
 ### 5. 今自分が持ってるYoutube
-**Author:** 時透無一郎 (r0300353)
+**作成者:** 時透無一郎 (r0300353)
 
 ・うおtube by sennin　[https://script.google.com/a/macros/ict.adachi.ed.jp/s/AKfycbyAGkj0YfVq1W3dCuTNtBjHFiZPp5x1sxH8cySIQE23vYBZcxFUQsEBrAgCEBsk9BfFew/exec](https://script.google.com/a/macros/ict.adachi.ed.jp/s/AKfycbyAGkj0YfVq1W3dCuTNtBjHFiZPp5x1sxH8cySIQE23vYBZcxFUQsEBrAgCEBsk9BfFew/exec)
 
@@ -7145,236 +7146,236 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (6)
-- **どぬく🍑** (Aug 09, 2026 04:58am): 無理
-- **Blue Walker** (Aug 11, 2026 10:02am): ありがとう
-- **Blue Walker** (Aug 11, 2026 10:02am): ぜんぶいけた
-- **RONALDO（偽物）** (Aug 16, 2026 02:38am): できない😭
-- **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (Aug 26, 2026 04:36am): ありがと
-- **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (Aug 26, 2026 04:36am): 全部ぜきない
+#### コメント (6)
+- **どぬく🍑** (08/09 04:58): 無理
+- **Blue Walker** (08/11 10:02): ありがとう
+- **Blue Walker** (08/11 10:02): ぜんぶいけた
+- **RONALDO（偽物）** (08/16 02:38): できない😭
+- **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (08/26 04:36): ありがと
+- **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (08/26 04:36): 全部ぜきない
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Aug 08, 2026 01:46am
-- **Updated At:** Aug 08, 2026 01:46am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 08/08 01:46
+- **更新日::** 08/08 01:46
 
 ---
 
 ### 6. ショートみたい
-**Author:** 奥村 (r0300328_1)
+**作成者:** 奥村 (r0300328_1)
 
 ショートを見れるサイトってありますか？
 
 **星評価:** 3.0 / 5 ⭐ (1)
 
-#### Comments (3)
-- **タイチ** (Aug 04, 2026 07:37am): Utopia Education
-- **RONALDO（偽物）** (Aug 12, 2026 10:30am): 学タブやからブロックされた😭
-- **奥村** (Aug 15, 2026 01:24pm): 本当に感謝!!😄
+#### コメント (3)
+- **タイチ** (08/04 07:37): Utopia Education
+- **RONALDO（偽物）** (08/12 10:30): 学タブやからブロックされた😭
+- **奥村** (08/15 13:24): 本当に感謝!!😄
 
-#### Reactions
-- **Emojis:** ❤️ (1)
+#### リアクション
+- **絵文字:** ❤️ (1)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 27, 2026 01:30pm
-- **Updated At:** Jul 27, 2026 01:30pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/27 13:30
+- **更新日::** 07/27 13:30
 
 ---
 
 ### 7. すいません　ゲームありますが要ります？
-**Author:** おうが応援する人(れいり)
+**作成者:** おうが応援する人(れいり)
 
 **投票が5以上イったら　上げる:**
-- **いる！！:** 111 votes
-- **持ってるからいっぱい逆にあげるよ？:** 4 votes
-- **いらなーい:** 2 votes
-- **消えろおおおおおおおお:** 3 votes
+- **いる！！:** 111件の投票
+- **持ってるからいっぱい逆にあげるよ？:** 4件の投票
+- **いらなーい:** 2件の投票
+- **消えろおおおおおおおお:** 3件の投票
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (2)
-- **天才くん** (Jul 11, 2026 10:18am): いる！！
-- **つくし** (Jul 12, 2026 01:07am): もう投票5以上いってるでしょ
+#### コメント (2)
+- **天才くん** (07/11 10:18): いる！！
+- **つくし** (07/12 01:07): もう投票5以上いってるでしょ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 10, 2026 10:45pm
-- **Updated At:** Sep 04, 2026 05:24am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/10 22:45
+- **更新日::** 09/04 05:24
 
 ---
 
 ### 8. すみませんぼくが前とったユーチューブ教えようかのやつ使えなくなってしまいました。
-**Author:** 削除済みユーザー
+**作成者:** 削除済みユーザー
 
 **許すか許さないか:**
-- **許してあげるけどあんこちょうだい。:** 37 votes
-- **無理ー絶対許さん住所特定するからな:** 17 votes
-- **お金くれたら許す:** 43 votes
-- **ぼーくの勝ちだお前の負けだ:** 19 votes
+- **許してあげるけどあんこちょうだい。:** 37件の投票
+- **無理ー絶対許さん住所特定するからな:** 17件の投票
+- **お金くれたら許す:** 43件の投票
+- **ぼーくの勝ちだお前の負けだ:** 19件の投票
 
 本当にすみませんまた違うやつ探してきます
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (7)
-- **1** (Jul 08, 2026 12:49pm): 一応頂戴
-- **削除済みユーザー** (Jul 08, 2026 09:49pm): https://html.cafe/
-- **削除済みユーザー** (Jul 08, 2026 09:49pm): 規制されたとゆうかなんか使えなくなった
-- **削除済みユーザー** (Jul 09, 2026 11:58am): お金くれたら許す多くて草w
-- **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (Jul 11, 2026 10:06am): ほんとだ
-- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (Jul 13, 2026 03:39am): ひらけるよ
-- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (Jul 16, 2026 11:58am): 開けるけど、死んでるんよ
+#### コメント (7)
+- **1** (07/08 12:49): 一応頂戴
+- **削除済みユーザー** (07/08 21:49): https://html.cafe/
+- **削除済みユーザー** (07/08 21:49): 規制されたとゆうかなんか使えなくなった
+- **削除済みユーザー** (07/09 11:58): お金くれたら許す多くて草w
+- **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (07/11 10:06): ほんとだ
+- **c00lkidd　　　　a҈̪͉̭̝̳̠͍̩͍̦͕͓̝̜̜̉̐͗͑͆̋͌͐̓͒͐͑ͅa̸͖͓̟͚̖͔̯̠͓̭̞̳͉̥̓̐͆̆͒̀̅̉͑̃͐͂͋̒̉̌̅̊͒a҉̟̰̟͉̰̳̱̘͙͔̖̏̈́͋̽̅̍̄̓͋̍̓͒ͅa҈̉̐** (07/13 03:39): ひらけるよ
+- **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (07/16 11:58): 開けるけど、死んでるんよ
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 07, 2026 09:50pm
-- **Updated At:** Sep 05, 2026 03:14am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/07 21:50
+- **更新日::** 09/05 03:14
 
 ---
 
 ### 9. わかめとかチョコとか
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 3.0 / 5 ⭐ (3)
 
-#### Comments (37)
-- **タニモリ** (Jun 29, 2026 12:45am): https://multimedia.easeus.com/jp/online-video-downloader/
-- **タニモリ** (Jun 29, 2026 12:45am): チョコのやり方教えて〜
-- **おうが** (Jun 29, 2026 12:47am): チョコ欲しいの？
-- **タニモリ** (Jun 29, 2026 12:47am): はい！
-- **おうが** (Jun 29, 2026 12:47am): https://yh8knk-5000.csb.app/login
-- **タニモリ** (Jun 29, 2026 12:47am): ありがとう！
-- **おうが** (Jun 29, 2026 12:48am): これでyesを押してパスワードはchoco
-- **タニモリ** (Jun 29, 2026 12:48am): パスワードなんですか？
-- **おうが** (Jun 29, 2026 12:48am): choco
-- **タニモリ** (Jun 29, 2026 12:51am): ばんざーい
-- **おうが** (Jun 29, 2026 12:53am): いけたかな？
-- **タニモリ** (Jun 29, 2026 01:10am): いけました
-- **タニモリ** (Jun 29, 2026 01:12am): わかめも教えて欲しいです！
-- **おうが** (Jun 29, 2026 01:12am): おっけ
-- **タニモリ** (Jun 29, 2026 01:14am): お願いします
-- **おうが** (Jun 29, 2026 01:17am): https://wkt-jajaja.onrender.com/wkt
-- **おうが** (Jun 29, 2026 01:17am): これどう？
-- **タニモリ** (Jun 29, 2026 01:20am): 無理でしたー
-- **山中くんと佐野くん推し❤️❤️** (Jun 29, 2026 01:27am): choco-tube-plus教えてください
-- **山中くんと佐野くん推し❤️❤️** (Jun 29, 2026 01:28am): 🤝
-- **匿名** (Jun 29, 2026 01:48am): 誰かいる？
-- **おうが** (Jun 29, 2026 01:57am): チョコのプラスはないかな
-- **フォートナイト廃課金者** (Jun 29, 2026 02:54am): 誰かさショート動画も流せるダウンローダーかYouTubeない？
-- **どぬく🍑** (Jun 29, 2026 03:32am): ヤッホー 
-- **どぬく🍑** (Jun 29, 2026 03:32am): だれかいる？
-- **ますと** (Jun 29, 2026 07:06am): チョコほしいです
-- **ますと** (Jun 29, 2026 07:08am): 一応持ってるのだします👇Free YouTube Video Downloader | Save YouTube Videos in HD | PostSyncer Online Audio Downloader for Quick Music Saving on Any Site EaseUS オンライン ビデオ ダウンローダー (1,000 サイトをサポート) Free YouTube Downloader: Download YouTube Video Online 2026 YouTubeからMP4へ無料変換｜高画質動画を即時ダウンロード EaseUS オンライン ビデオ ダウンローダー (1,000 サイトをサポート) Free Social Media Downloader - Save Instagram, TikTok, Twitter, YouTube Videos & Photos | PostSyncer Descargar reels de Instagram en HD | Herramienta gratuita de Publer むりだったらごめん
-- **れいり** (Jun 29, 2026 09:51am): 無理だぁ
-- **れいり** (Jun 29, 2026 11:47pm): 俺もぉ
-- **おうが** (Jun 29, 2026 11:49pm): ダウンロードいけた！ありがとねー
-- **タニモリ** (Jun 30, 2026 12:57am): 全部できないぴえん
-- **ちょこ** (Jun 30, 2026 05:52am): 俺も無理や🥲
-- **どぬく🍑** (Jun 30, 2026 10:19am): タニモリ2人おらん？
-- **な** (Jul 01, 2026 03:09am): https://wkt-jajaja.onrender.com/loginパスワードwakame
-- **効率審査員** (Jul 02, 2026 08:44am): たぶんチョコプラスhttps://8z59xh-8000.csb.app/
-- **効率審査員** (Jul 02, 2026 08:44am): パスワード
-- **効率審査員** (Jul 02, 2026 08:45am): choco
+#### コメント (37)
+- **タニモリ** (06/29 00:45): https://multimedia.easeus.com/jp/online-video-downloader/
+- **タニモリ** (06/29 00:45): チョコのやり方教えて〜
+- **おうが** (06/29 00:47): チョコ欲しいの？
+- **タニモリ** (06/29 00:47): はい！
+- **おうが** (06/29 00:47): https://yh8knk-5000.csb.app/login
+- **タニモリ** (06/29 00:47): ありがとう！
+- **おうが** (06/29 00:48): これでyesを押してパスワードはchoco
+- **タニモリ** (06/29 00:48): パスワードなんですか？
+- **おうが** (06/29 00:48): choco
+- **タニモリ** (06/29 00:51): ばんざーい
+- **おうが** (06/29 00:53): いけたかな？
+- **タニモリ** (06/29 01:10): いけました
+- **タニモリ** (06/29 01:12): わかめも教えて欲しいです！
+- **おうが** (06/29 01:12): おっけ
+- **タニモリ** (06/29 01:14): お願いします
+- **おうが** (06/29 01:17): https://wkt-jajaja.onrender.com/wkt
+- **おうが** (06/29 01:17): これどう？
+- **タニモリ** (06/29 01:20): 無理でしたー
+- **山中くんと佐野くん推し❤️❤️** (06/29 01:27): choco-tube-plus教えてください
+- **山中くんと佐野くん推し❤️❤️** (06/29 01:28): 🤝
+- **匿名** (06/29 01:48): 誰かいる？
+- **おうが** (06/29 01:57): チョコのプラスはないかな
+- **フォートナイト廃課金者** (06/29 02:54): 誰かさショート動画も流せるダウンローダーかYouTubeない？
+- **どぬく🍑** (06/29 03:32): ヤッホー 
+- **どぬく🍑** (06/29 03:32): だれかいる？
+- **ますと** (06/29 07:06): チョコほしいです
+- **ますと** (06/29 07:08): 一応持ってるのだします👇Free YouTube Video Downloader | Save YouTube Videos in HD | PostSyncer Online Audio Downloader for Quick Music Saving on Any Site EaseUS オンライン ビデオ ダウンローダー (1,000 サイトをサポート) Free YouTube Downloader: Download YouTube Video Online 2026 YouTubeからMP4へ無料変換｜高画質動画を即時ダウンロード EaseUS オンライン ビデオ ダウンローダー (1,000 サイトをサポート) Free Social Media Downloader - Save Instagram, TikTok, Twitter, YouTube Videos & Photos | PostSyncer Descargar reels de Instagram en HD | Herramienta gratuita de Publer むりだったらごめん
+- **れいり** (06/29 09:51): 無理だぁ
+- **れいり** (06/29 23:47): 俺もぉ
+- **おうが** (06/29 23:49): ダウンロードいけた！ありがとねー
+- **タニモリ** (06/30 00:57): 全部できないぴえん
+- **ちょこ** (06/30 05:52): 俺も無理や🥲
+- **どぬく🍑** (06/30 10:19): タニモリ2人おらん？
+- **な** (07/01 03:09): https://wkt-jajaja.onrender.com/loginパスワードwakame
+- **効率審査員** (07/02 08:44): たぶんチョコプラスhttps://8z59xh-8000.csb.app/
+- **効率審査員** (07/02 08:44): パスワード
+- **効率審査員** (07/02 08:45): choco
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 29, 2026 12:42am
-- **Updated At:** Jul 06, 2026 05:04am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/29 00:42
+- **更新日::** 07/06 05:04
 
 ---
 
 ### 10. youtube見る方法教えようか
-**Author:** 削除済みユーザー
+**作成者:** 削除済みユーザー
 
 **youtube教えようか(知ってる人多めだと思うけど):**
-- **ほしい:** 113 votes
-- **いらねぇわ、食べてやろうか:** 3 votes
-- **ワホー:** 18 votes
-- **知ってるってこと自慢すんなつぶあんかこしあん野郎:** 8 votes
+- **ほしい:** 113件の投票
+- **いらねぇわ、食べてやろうか:** 3件の投票
+- **ワホー:** 18件の投票
+- **知ってるってこと自慢すんなつぶあんかこしあん野郎:** 8件の投票
 
 知ってる人多いと思うあとぼく説明バカ下手だからそのへんは許してちょ
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-#### Comments (5)
-- **暇人two Time** (Jul 07, 2026 09:19am): YouTubeって言った？なんて書いてある？
-- **削除済みユーザー** (Jul 07, 2026 12:01pm): ユーチューブですね
-- **削除済みユーザー** (Jul 07, 2026 12:02pm): 投票数が50票になって、ほしいって言う人が多かったら出します
-- **削除済みユーザー** (Jul 07, 2026 09:54pm): 暇人さんがなんか悲しんでる、なんかごめんなさい
-- **暇人two Time** (Jul 08, 2026 07:28am): 何が？！
+#### コメント (5)
+- **暇人two Time** (07/07 09:19): YouTubeって言った？なんて書いてある？
+- **削除済みユーザー** (07/07 12:01): ユーチューブですね
+- **削除済みユーザー** (07/07 12:02): 投票数が50票になって、ほしいって言う人が多かったら出します
+- **削除済みユーザー** (07/07 21:54): 暇人さんがなんか悲しんでる、なんかごめんなさい
+- **暇人two Time** (07/08 07:28): 何が？！
 
-#### Reactions
-- **Emojis:** 👍 (5) 😟 (4)
+#### リアクション
+- **絵文字:** 👍 (5) 😟 (4)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 05, 2026 11:00am
-- **Updated At:** Sep 05, 2026 03:15am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/05 11:00
+- **更新日::** 09/05 03:15
 
 ---
 
 ## 映画　アニメ見れるサイト
 
 ### 1. 動画見れるサイトなんでもいいから教えてください
-**Author:** 原石
+**作成者:** 原石
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (5)
-- **天才くん** (Jul 04, 2026 12:12pm): https://sites.google.com/view/dominumnetworkv2/entertainment/tv
-- **ユメミズ** (Jul 04, 2026 12:26pm): 日本語にできない？
-- **玲吏** (Jul 05, 2026 07:56am): 使えんよ？
-- **R** (Jul 06, 2026 11:42am): 使えん
-- **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (Jul 11, 2026 10:03am): 無理だった
+#### コメント (5)
+- **天才くん** (07/04 12:12): https://sites.google.com/view/dominumnetworkv2/entertainment/tv
+- **ユメミズ** (07/04 12:26): 日本語にできない？
+- **玲吏** (07/05 07:56): 使えんよ？
+- **R** (07/06 11:42): 使えん
+- **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (07/11 10:03): 無理だった
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 04, 2026 01:58am
-- **Updated At:** Jul 04, 2026 01:58am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/04 01:58
+- **更新日::** 07/04 01:58
 
 ---
 
 ### 2. 映画教えてください
-**Author:** 原石
+**作成者:** 原石
 
 お願いします
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (1)
-- **玲吏** (Jul 05, 2026 07:56am): 使えん
+#### コメント (1)
+- **玲吏** (07/05 07:56): 使えん
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 03, 2026 12:05pm
-- **Updated At:** Jul 03, 2026 12:05pm
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/03 12:05
+- **更新日::** 07/03 12:05
 
 ---
 
 ### 3. 映画でもアニメでもないけどNHKの番組見れる
-**Author:** 時透無一郎 (r0300353)
+**作成者:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://www.web.nhk/)
+[添付ファイル 1](https://www.web.nhk/)
 
-#### Comments (5)
-- **どぬく🍑** (Jul 03, 2026 02:21am): ブロ
-- **おうが** (Jul 03, 2026 02:34am): いけた
-- **天才くん** (Jul 03, 2026 03:08am): ないす
-- **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (Jul 12, 2026 04:30am): すげえ
-- **そーりー** (Aug 21, 2026 07:23am): ないす
+#### コメント (5)
+- **どぬく🍑** (07/03 02:21): ブロ
+- **おうが** (07/03 02:34): いけた
+- **天才くん** (07/03 03:08): ないす
+- **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (07/12 04:30): すげえ
+- **そーりー** (08/21 07:23): ないす
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 03, 2026 12:08am
-- **Updated At:** Jul 03, 2026 12:08am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/03 00:08
+- **更新日::** 07/03 00:08
 
 ---
 
 ### 4. これ違法アップロードだから少し危険だけど、開ければ鬼滅の刃無限城編見れるよ
-**Author:** フォートナイト廃課金者
+**作成者:** フォートナイト廃課金者
 
 これ開ける人言って
 
@@ -7382,94 +7383,94 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://archive.org/details/clideo-editor-ba6bf9a8ed93480d96b6dd5361ed31ce_E1LBRbvq)
+[添付ファイル 1](https://archive.org/details/clideo-editor-ba6bf9a8ed93480d96b6dd5361ed31ce_E1LBRbvq)
 
-#### Comments (6)
-- **れいり** (Jun 30, 2026 02:10am): つかえない😱
-- **五条悟** (Jun 30, 2026 12:39pm): 使えん😭
-- **フォートナイト廃課金者** (Jul 02, 2026 02:44am): 使えないって言うのはブロックされたと言うことでいい？
-- **れいり** (Jul 02, 2026 03:18am): そうだよ
-- **れいり** (Jul 02, 2026 04:20am): nあ
-- **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (Jul 11, 2026 10:05am): いけた
+#### コメント (6)
+- **れいり** (06/30 02:10): つかえない😱
+- **五条悟** (06/30 12:39): 使えん😭
+- **フォートナイト廃課金者** (07/02 02:44): 使えないって言うのはブロックされたと言うことでいい？
+- **れいり** (07/02 03:18): そうだよ
+- **れいり** (07/02 04:20): nあ
+- **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員** (07/11 10:05): いけた
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 30, 2026 01:56am
-- **Updated At:** Jun 30, 2026 01:56am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/30 01:56
+- **更新日::** 06/30 01:56
 
 ---
 
 ## 追加してほしいセクション
 
 ### 1. 追加してほしいのここに書いてね
-**Author:** おうが (18jt026)
+**作成者:** おうが (18jt026)
 
 **星評価:** 0 / 5 ⭐
 
-#### Comments (12)
-- **タニモリ** (Jun 29, 2026 01:45am): 映画　アニメが見たいな 
-- **おうが** (Jun 29, 2026 01:58am): いやセクションで
-- **おうが** (Jul 01, 2026 12:46pm): 予約ね！
-- **あい** (Jul 03, 2026 06:32am): ブロスタと映画見れるのください
-- **原石** (Jul 04, 2026 05:46am): あとゲーム欲しい 
-- **むちるん** (Jul 07, 2026 12:19pm): 音楽系がほしい
-- **ニジマル** (Jul 10, 2026 01:00am): https://sc.opnxng.com/search?q=&type=any音楽きける
-- **R** (Jul 11, 2026 01:38am): yahooで行けるで音楽聴ける
-- **R** (Jul 11, 2026 01:40am): yahooの検索欄で調べてみ
-- **時透無一郎** (Jul 18, 2026 01:21am): ニジマルナイスすぎる
-- **黒桃りう** (Aug 07, 2026 05:17am): 音楽聞けるの神すぎる
-- **ドパガキ** (Aug 27, 2026 08:43am): 漫画見れるサイト
+#### コメント (12)
+- **タニモリ** (06/29 01:45): 映画　アニメが見たいな 
+- **おうが** (06/29 01:58): いやセクションで
+- **おうが** (07/01 12:46): 予約ね！
+- **あい** (07/03 06:32): ブロスタと映画見れるのください
+- **原石** (07/04 05:46): あとゲーム欲しい 
+- **むちるん** (07/07 12:19): 音楽系がほしい
+- **ニジマル** (07/10 01:00): https://sc.opnxng.com/search?q=&type=any音楽きける
+- **R** (07/11 01:38): yahooで行けるで音楽聴ける
+- **R** (07/11 01:40): yahooの検索欄で調べてみ
+- **時透無一郎** (07/18 01:21): ニジマルナイスすぎる
+- **黒桃りう** (08/07 05:17): 音楽聞けるの神すぎる
+- **ドパガキ** (08/27 08:43): 漫画見れるサイト
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jun 29, 2026 12:45am
-- **Updated At:** Jun 29, 2026 12:45am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 06/29 00:45
+- **更新日::** 06/29 00:45
 
 ---
 
 ### 2. いんすた
-**Author:** ０２２３
+**作成者:** ０２２３
 
 **星評価:** 0 / 5 ⭐
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 01, 2026 05:51am
-- **Updated At:** Sep 01, 2026 05:51am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 09/01 05:51
+- **更新日::** 09/01 05:51
 
 ---
 
 ## アーケード
 
 ### 1. arcade.padlet.com　　　　マイクラ第二弾！
-**Author:** 時透無一郎 (r0300353)
+**作成者:** 時透無一郎 (r0300353)
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://arcade.padlet.com/game/7qje8O4erl)
+[添付ファイル 1](https://arcade.padlet.com/game/7qje8O4erl)
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 27, 2026 03:04am
-- **Updated At:** Jul 27, 2026 03:05am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/27 03:04
+- **更新日::** 07/27 03:05
 
 ---
 
 ### 2. arcade.padlet.com　　　　マイクラ第一弾！
-**Author:** 時透無一郎 (r0300353)
+**作成者:** 時透無一郎 (r0300353)
 
 一位は満点で７秒！
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://arcade.padlet.com/game/6wK7zkkvpJ)
+[添付ファイル 1](https://arcade.padlet.com/game/6wK7zkkvpJ)
 
-#### Comments (1)
-- **Blue Walker** (Jul 27, 2026 11:40pm): ！
+#### コメント (1)
+- **Blue Walker** (07/27 23:40): ！
 
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Jul 19, 2026 11:40am
-- **Updated At:** Jul 19, 2026 11:42am
+#### その他の情報
+- **投稿のカラー:** ブラック
+- **作成日::** 07/19 11:40
+- **更新日::** 07/19 11:42
 
 ---
