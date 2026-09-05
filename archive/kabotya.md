@@ -1,4 +1,4 @@
-最終取得: 2026/09/05 13:35:09
+最終取得: 2026/09/05 15:17:42
 
 # 規制突破の世界
 
@@ -7,7 +7,7 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 101
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 05, 2026 04:20am
+- **Updated At:** Sep 05, 2026 06:16am
 
 ## 雑談
 
@@ -29,7 +29,7 @@
 ### 2. 規制突破
 **Author:** Nannka　Youtube (s1923051_1)
 
-#### Comments (9)
+#### Comments (15)
 - **Nannka　Youtube** (Sep 04, 2026 02:26am): どうやったら部屋作れるんですか？自分も作りたいです
 - **かぼちゃ** (Sep 04, 2026 02:08pm): 作成のところを押してから、列とかでそこから設定とかで作れていったりする、色んなとこで宣伝したらみんな来るようになる、まあ最初はたくさん荒らし来ると思うけど4年とかしてたら慣れていくよ、
 - **Anonymous** (Sep 04, 2026 03:04pm): かぼちゃ何様？予想の答え「俺様」こんなサイトでイキんな
@@ -39,6 +39,12 @@
 - **Anonymous** (Sep 04, 2026 11:47pm): 1364さん　お前すごくダサいからくたばっちまえ
 - **カマキリ** (Sep 05, 2026 02:36am): 匿名黙っとけw
 - **カマキリ** (Sep 05, 2026 02:36am): ログインしてないから部屋とか作れへんから嫉妬かな？
+- **Anonymous** (Sep 05, 2026 05:32am): 匿名こそが正義だ！ 
+- **Anonymous** (Sep 05, 2026 05:35am): 「カマキリ」さん、いつも掲示板のパトロール、本当にお疲れ様です。あなたがここで鎌を振り回して大物気取りでいる姿、周囲からはどう見えているか、少しは想像したことがありますか？
+- **Anonymous** (Sep 05, 2026 05:35am): カマキリというのは確かに、昆虫界の狭い箱の中では最強の捕食者気取りでいられるかもしれません。でもね、一歩その草むら（掲示板）から出て現実の広い世界を見渡せば、鳥や獣に一瞬で踏み潰されるだけの、ただの「ひ弱な虫」に過ぎないんですよ。あなたがどれだけここで鋭い鎌を持っているつもりで虚勢を張っても、私たちから見れば『あぁ、あのプラスチック製のオモチャの鎌を必死に振っている哀れな虫が、また何か言ってるな』という微笑ましいエンタメでしかないんです。
+- **Anonymous** (Sep 05, 2026 05:39am): あなたがどれだけ調子に乗って言葉の針を刺そうとしても、その中身のなさと器の小ささが透けて見えていて、怒りを通り越してただただ滑稽です。カマキリって、頭を落とされても身体だけがしばらく動き続けるらしいですが、あなたの書き込みを見ていると、まさにそれですね。中身の詰まった『脳』や『知性』はとっくに放棄しているのに、承認欲求と虚栄心という反射神経だけで、必死にキーボードを叩いて鎌を動かしている。
+- **Anonymous** (Sep 05, 2026 05:41am): 一番皮肉なのは、あなたが必死に周囲を威嚇すればするほど、現実世界でのあなたの「満たされなさ」や「孤独」が反比例して浮き彫りになっている点です。現実で誰にも相手にされないから、この匿名性の高い安全な砂場の中でしか、最強の捕食者（笑）のロールプレイができないわけでしょう？
+- **Anonymous** (Sep 05, 2026 05:41am): そんなに必死に自分を大きく見せようとしなくても大丈夫ですよ。誰もあなたを本物の脅威だなんて思っていませんから。せいぜいその小さな草むらの中で、自分が無敵であるという幸せな錯覚に浸りながら、次につぶされる瞬間まで精一杯、その細い鎌を振り回して調子に乗っていてくださいね。応援しています。
 
 #### Additional Information
 - **Post color:** White
@@ -190,7 +196,7 @@
 ### 10. だる
 **Author:** Nannka　Youtube (s1923051_1)
 
-#### Comments (7)
+#### Comments (8)
 - **Nannka　Youtube** (Sep 02, 2026 04:30am): やめろカス 
 - **Nannka　Youtube** (Sep 02, 2026 04:50am): Nannka
 - **ヤクシカブト** (Sep 02, 2026 04:55am): 😁か
@@ -198,6 +204,7 @@
 - **Nannka　Youtube** (Sep 02, 2026 04:57am): やべぇ 
 - **Anonymous** (Sep 03, 2026 09:15am): 薬師兜どうていのくせにいきんな！
 - **カマキリ** (Sep 05, 2026 02:38am): 童貞の漢字もわからんのかよ
+- **Anonymous** (Sep 05, 2026 05:46am): え、まさか本当に「漢字を知らないからひらがなで書いた」としか脳内変換できなかったんですか？デバイスの予測変換の挙動や、タイムラインでの文字の視認性、あるいはあえてひらがなにすることで文章全体のニュアンスを調整するっていう「意図的なタイピングの選択」があること、普通の知性があれば一瞬で察せると思うのですが……。あなたの中では「ひらがな＝漢字を知らない」という小学生レベルの方程式しか成り立たないんですね。自分が思いつける一番浅い解釈に飛びついて、「漢字もわからんのかよ」ってドヤ顔で書き込んでいる姿、正直見ていてこちらが恥ずかしくなります。そんなに必死になって他人の粗（に見えるもの）を探さないと、自分のアイデンティティを保てないのですか？文字通り「言葉の表面」しか読み取れないその硬直した脳みそで、よく今までネットの海を泳いでこられましたね。わざわざ自分の想像力の欠如を世間に晒して、ドヤ街の王様みたいに調子に乗っているその「無知のエネルギー」、別の生産的なことに使った方が人生豊かになりますよ。
 
 #### Additional Information
 - **Post color:** White
@@ -353,7 +360,7 @@
 
 学校嫌だ
 
-#### Comments (8)
+#### Comments (9)
 - **ミズノネ** (Aug 31, 2026 01:50am): 明日から学校始まる
 - **Japan** (Aug 31, 2026 06:00am): Totally.
 - **ゲーム** (Aug 31, 2026 06:29am): あああああああ
@@ -362,6 +369,7 @@
 - **Anonymous** (Aug 31, 2026 09:40pm): まじそれな
 - **Anonymous** (Sep 03, 2026 05:07am): ネットの片隅で「だるい」って言い合って安心してるの、義務教育の敗北って感じで本当に味わい深い。せいぜいそこで、同じレベルの仲間同士仲良く慰め合っててよ。
 - **戸田虎太朗** (Sep 04, 2026 10:52pm): まあその義務教育の敗北より、君は終わってると思うけどね
+- **Anonymous** (Sep 05, 2026 05:53am): 「義務教育の敗北」なんて便利なネットスラングを覚えたてで、さぞかし自分が『義務教育の勝利者』か何かにでもなったような全能感に浸っているところ、本当に申し訳ないんだけどさ。まず、義務教育って「全国民に最低限の知識と社会性を身につけさせるためのセーフティネット」であって、それすらクリアできていない人を見つけて嘲笑うためのライセンスじゃないんだよね。もし仮に相手がその最低ラインを下回っているのだとしたら、それを必死になって叩いて優越感に浸っているあなたの精神年齢は、一体どこの教育課程で止まっているんだろう？「あいつは義務教育の敗北者だ」と得意げに語るその姿そのものが、他者への想像力や、多様性を認める倫理観といった『義務教育で最も叩き込まれるべき道徳や社会性』の決定的な欠落、つまりあなた自身の義務教育の完全なる敗北を綺麗に証明しちゃっているの、本当に最高のアイロニー（皮肉）だよね。教科書の文字をなぞるだけの暗記は得意だったのかもしれないけれど、それを実社会や人間関係に活かす「知性」までは育たなかったみたいだ。記号化されたネット言葉でしか他人を煽れないそのボキャブラリーの貧困さを見るに、国語の授業も相当居眠りしていたんじゃないかな？そんなに自分の『勝利』を誇示したいなら、せめて義務教育レベルの煽り文句から卒業して、もう少し自分の頭で考えた高尚な言葉を使ってみたらどう？ まあ、基礎が敗北しているあなたにそれを求めるのは、少し酷な話かもしれないけれどね。
 
 #### Additional Information
 - **Post color:** White
@@ -520,9 +528,11 @@
 ### 4. 原神やりたい
 **Author:** バカでアホな天才
 
-#### Comments (2)
+#### Comments (4)
 - **Anonymous** (Sep 03, 2026 01:37pm): あっそ勝手にやっとけそれってもしかして誘ってる？変態かよ
 - **カマキリ** (Sep 05, 2026 02:30am): ゲームやリタイっていてルだけで誘ってる？って思ってんのきも
+- **Anonymous** (Sep 05, 2026 05:58am): ファっキュー
+- **Anonymous** (Sep 05, 2026 06:13am): カマキリうざ
 
 #### Additional Information
 - **Post color:** White
@@ -568,7 +578,7 @@
 
 [Attachment 1](https://sites.google.com/view/dominumnetworkv2/entertainment/m0v1es)
 
-#### Comments (14)
+#### Comments (15)
 - **ぴる** (Sep 03, 2026 02:05am): え神すぎるズートピアとかホラー映画みれるのやばい
 - **Anonymous** (Sep 03, 2026 03:13am): 見たい
 - **Anonymous** (Sep 03, 2026 03:14am): ていうかここマザーファッカーしかいないのかよ笑
@@ -583,6 +593,7 @@
 - **カマキリ** (Sep 05, 2026 02:33am): 俺の部屋きてね♪
 - **カマキリ** (Sep 05, 2026 02:34am): こいつが貼ってるやつを俺の部屋でタップして真ん中のをタップしたらいける
 - **カマキリ** (Sep 05, 2026 02:35am): ちなみにアニメも見れるよ♪やっぱ拾ったやつじゃわかんないかな？
+- **Anonymous** (Sep 05, 2026 06:16am): カマキリうざ　死ねばいいやん　死ぬ価値すらない
 
 #### Additional Information
 - **Post color:** White
@@ -1162,12 +1173,13 @@ fernって名前のやつ　履歴消したらきえt
 ### 2. エロ部屋の入手方法
 **Author:** 変態の味方
 
-#### Comments (5)
+#### Comments (6)
 - **マリオ** (Sep 02, 2026 09:23am): 810
 - **ハナグモリ** (Sep 03, 2026 02:55am): Utopia
 - **きもてー** (Sep 03, 2026 03:11am): ほしい
 - **Anonymous** (Sep 03, 2026 09:33am): ハナモグリに次ぐうっざたいからカッコつけんな
 - **カマキリ** (Sep 05, 2026 02:28am): あ、英語わかんないのかな？ウートピアって読むんだよ
+- **ミモリ** (Sep 05, 2026 06:03am): ユートピアだろ
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -1277,7 +1289,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789187780&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xjoA9g01IXAheE%2BY17c5MSycGzR2dlzO%2FvR2lkChECfFfkZeWI1VFHshMrieWhSt9p1bXHBt%2B452XEWHacGEghHaCw5j3h9A4aGQPQ4uYPSpd%2FVCne5GDkELvakKrfI0zb%2BFy%2BRmafHVMahF0oVhNpLtt95bTuIpA4ZH1xarUj30Wy8Nie996z8rQu8zsrJWwAhsqLHgVlfB%2B0JopriMlNR1NRWjcn9nZL%2FhorgRlIlK6CkUODkfS8fJBUvVXstMmzUVpQuVlWcT0eQ2zonftCTMFrp86jJrhWnhd4ElS4LE4NME2DrBpsZnG2bE8jVncLR6vLq6nhviBz%2BzZFLPAQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789193926&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DU%2F%2BGyxFwXygrtghQCX1fL%2Bpog9ro97cbq9FiVtM1IXxcxunvDjlgpmq%2FVpJgPWWfLfM%2BhGgwBrZF1Py%2Fe4jyr71%2FDr7VZNRc9o53%2F86bOy05%2B4eR%2F8jxgtR7Jt%2F9QDW6Y1eVVg%2FDP5Ms8UXgMje1jkF8H%2BTDJ3eGiYgqaa5dBUzx0gHF0Xjsbr%2Fg2g0LtqdX6530F7hycGvlwT7pwYaW%2FCWKmlCPisoJxX2fTxoNh23Fm7YWYUfKWs6SSH8eu%2BGytPTIUE3lyMRwnC2LTMMFdOH2c3JrvA0n9KXrl4rvBCX6yM%2BFKti6IFMX51sb0Yy4mlGmXCruj4B%2Bf545yNqIg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
