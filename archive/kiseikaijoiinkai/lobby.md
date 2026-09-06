@@ -1,4 +1,4 @@
-最終取得: 2026/09/06 17:30:11
+最終取得: 2026/09/06 20:19:16
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 38
+- **Posts:** 39
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Sep 04, 2026 12:00pm
+- **Updated At:** Sep 06, 2026 11:05am
 
 ## ルール
 
@@ -100,10 +100,22 @@
 
 ---
 
-### 4. これ見れる？
+### 4. 野砲
+**Author:** ガジェット超絶z
+
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6203129829/590fd1eba39a80dae4ad0a86696f9d94/videoplayback___2026_09_06T192233_571.mp4?Expires=1789298406&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I2TeeB76%2BodMqiDWMTg5FN%2FHUQ%2B%2FtelNGPanpTZJv58aTmvrazWuOQgMq8heNAwUMuVcftazh4g%2F3%2B2kKvSGFO1wm7V0lzGhJcY4ajeW2e%2FxmbqrOcDEq%2BSRHGw8JncaUvMqfpM2BFyLFMMxiW6gVsZJkvnlcnGYfWjX5V0eSmJshrzJUU8vOMqvOEfzZKerQk7adxjwrdoyukbBXBfiogUUUA7wzfDm0MLpaIGF5MHfOaZlX0%2FYA6ChXCz3WylmQkWmbuin6SjgYYGREutqo9kHAjeZf5tWVcdN1cZraGZ1OpWwCnYRvr5qXnH9gBN9WWZOgyIjVHXrhUnEu0HJ4w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6203129829%2F590fd1eba39a80dae4ad0a86696f9d94%2Fvideoplayback___2026_09_06T192233_571.mp4)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At:** Sep 06, 2026 10:57am
+- **Updated At:** Sep 06, 2026 10:57am
+
+---
+
+### 5. これ見れる？
 **Author:** てらてら
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194730678/e0a90eb93b7136001fe8ecc31dd5ed79/videoplayback__45_.mp4?Expires=1789288264&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=t2EmCWrOW6voSxVK04EsTzfNN9PzXoFXFruI%2Fs0%2FKJ0U5Hl5zgbYdXEH1MsNmKrLk9sIxBkGdythJTwVIU6ZjRzvbygKbArdscmgjoNZyHP9nFx6P1OaBH0IWSiGfT4fZuy9PIhHr72KM6BHevxbNsYqABFPMqZd7xKfet7Yt5RDKeFvHSGzG4V7%2FAJPRLt6keG4q1qXzyr%2F%2Bbq9ODQfmLlRI1IT5o7bzSu8kxWKEVo2i9jtt0HHHDpWRUruVwTxTGtHj8EH50q%2BepHf7rNTKU%2F5j45ezmoe1eHjhTArKIdXXnYV1%2BFn85YucfluSrMu%2FULx89EyDHoD1GpGp5eD2A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194730678%2Fe0a90eb93b7136001fe8ecc31dd5ed79%2Fvideoplayback__45_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194730678/e0a90eb93b7136001fe8ecc31dd5ed79/videoplayback__45_.mp4?Expires=1789298406&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Ly3GRafGsv5hGY2UDxksv%2FXogO2QDm18B8fstKZoyeC0UJfN49ZXko26EjVbz9PbMBuQivdGIS%2F19BlWVzkFZ59Ww3efAIffWLgK8Ks7JyKlLFWBrBtHRpXIm7GtBnmJCEKPm1W9tdgYXwlY6EfixkknpYBMgP4K0ZJD6MDvpG8rwHmCx%2BxbiPe4S2N2TDmyR97YdjHYCrqwLpIXYMB0lH2MvSlik%2BGs3zPIPtI70AqFOMWBAQXjkYXp60a%2BekRCaHsG%2BpnhZmwwFB0W5gQjHrg9AufU0i3sWFQ5yUiJS7YuncgxRyHSPM6wR%2FcUkqyLxFnsTrreWYlvNTpYmeKyPw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194730678%2Fe0a90eb93b7136001fe8ecc31dd5ed79%2Fvideoplayback__45_.mp4)
 
 #### Additional Information
 - **Post color:** Black
@@ -112,12 +124,12 @@
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** ホイップクリーム
 
 解除してください
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194665627/8020d285b6b4d07cd736be52cb8a0091/photo.jpeg?Expires=1789288264&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=AAw3PKbGLo91wuThi1VRIwHlwVkrz60nJfcrJCqpfB4DLlkKnyA5LAFypXss95ExdfGTk2SI8aiqc%2BS0Y1gspeYAUmwy8f5SpeIBdKfqsWFF4ZW4tzH9h7iGvoZdDU7%2FbeL4mRigiTbPjGR0%2BOP8UDrBnSJBUG450oXfpH3zMQ2hLt3dKcSpr5VPwwxiKt7EQtkZtQZp9iCUiRg%2Fft%2Bm9UcRRI4pEKLHHn43SC1sxLiXGglA7y2A3D5Md04Nh5B%2FLn0Nh3EiMwpw0ionQCb5l11h5Ot%2FEF28O%2Fjc2v%2FeQc0yJUqfxtdBMbqD6HmwKkpKIjdxD8ASJOtdCKDluTptcQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194665627%2F8020d285b6b4d07cd736be52cb8a0091%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194665627/8020d285b6b4d07cd736be52cb8a0091/photo.jpeg?Expires=1789298406&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H1SwqG5dTjdEH3VpYzti5QT8V8AB%2FM8NfXQMsxYIXDMwLK%2BddbbgN6jQhLqmbUVvPo8O8m7sKGkmm74qAbxCpciwsa86XuLjtdmdhAW3LJidXAB6DpB35aLlUh7z1ATY63hGNb2QVo98LqPzzTACch9FPH33kd2E9ORraEygj4KMrjcjF6l5N92nfD%2Bj%2BmMHqOV1l1LbZZsxy5pzacjj6WDFOwYK9Pyo2PnLncDQk4PBa10WX9MuFw5AP%2FOq%2BSugTJQ0kqpoJaiyuRcnSSLYjeP4rKz4Xphn5DbNIoSmJDwv7%2FtMxmwuKPdpyxrAuTO%2BDsI%2BE%2F3c8FZB6UmVlkHCQA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194665627%2F8020d285b6b4d07cd736be52cb8a0091%2Fphoto.jpeg)
 
 #### Comments (1)
 - **ささ** (Sep 04, 2026 11:50am): きｍ
@@ -129,7 +141,7 @@
 
 ---
 
-### 6. うーん
+### 7. うーん
 **Author:** ナツネ
 
 #### Additional Information
@@ -139,7 +151,7 @@
 
 ---
 
-### 7. Post 7
+### 8. Post 8
 **Author:** ユキホ
 
 ブロック解除するにわどうすれば良いでしょうか
@@ -151,7 +163,7 @@
 
 ---
 
-### 8. ロブロックスしたい
+### 9. ロブロックスしたい
 **Author:** ぎゃる
 
 #### Comments (2)
@@ -165,7 +177,7 @@
 
 ---
 
-### 9. 夏休みyさーーーー
+### 10. 夏休みyさーーーー
 **Author:** ぴ
 
 嬉しすぎんだろ
@@ -177,7 +189,7 @@
 
 ---
 
-### 10. じい
+### 11. じい
 **Author:** ヤドリギ
 
 #### Additional Information
@@ -187,12 +199,12 @@
 
 ---
 
-### 11. ティックトック
+### 12. ティックトック
 **Author:** 嶋勇󠄂人 (21920012)
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1789288264&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=AdhPyYDyREm2HjWKdRrxDp04Owp6LYvr1yUJdGhTSCCYQS7xjhm9cslFWZEUKKSGMjk3hgzoXBPP4Gi0yepTFYyPO9ZeCPxlskIJjLk9n9jXNhKMkrwzmW8eWcpYMy9mFLz55MYgKHdGHPkVuKaPcmu3UzfUvjqriunwF6y80P0JZlpyE1fCvg5k3pqftuVo87FDsm87JlAdgDQG9kuGxmKw4ssbfRaW4A%2B8Q8q0wfI3mSIY%2Bp4D4FJSGA06KohXTjW%2BYFb8pkunrr2v7t4iWpVXsFe%2FmbHQF7OZlxCjrs%2B3aiIG064DnvkV2tM2RWPiou5fUZeFPuvUQK8FUBUAhw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1789298406&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Lp1T9Tju5zXvhS2q3bsStCS3jLnHxQzgstvkiKYlCokmuK95Dz1mTqKtkq415CUJlkpItHe01sY3iGuVWxaFAQflBB9eOsJwPrqxbq%2FzSGnAO947pmnTXku9wqFX%2BLHKSIGv9Dvn8dozVo4mXbfYqS%2FbpkEurqKpHQQxgHhrqdsmndJJm7lPYO%2FSlhDe3AsM%2BR0R2GAfK9WsCOtl6O26zdcVoWZmCh0s9cM6sa1HkBpp3QkZlPNVDpgokqTH6jlLFSU2bh6py%2FoI82f4%2FBapSZarL4pdncgtqo60EnK7yh%2Bql7LhXr%2ByncOVtMKSheVSh2bdOxMQ1leVCIv1mDviHQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -204,7 +216,7 @@
 
 ---
 
-### 12. こんにちはこれ開きたいんですけどブロックされますどうすればいいですか
+### 13. こんにちはこれ開きたいんですけどブロックされますどうすればいいですか
 **Author:** なしまる
 
 [Attachment 1](https://mess.eu.org/)
@@ -216,7 +228,7 @@
 
 ---
 
-### 13. こんにちは
+### 14. こんにちは
 **Author:** すーぱーねこ (gs212336)
 
 #### Additional Information
@@ -226,7 +238,7 @@
 
 ---
 
-### 14. aiyueo
+### 15. aiyueo
 **Author:** カワスミ
 
 #### Additional Information
@@ -236,7 +248,7 @@
 
 ---
 
-### 15. 規制解除してくださいお願いします。
+### 16. 規制解除してくださいお願いします。
 **Author:** 川村茜寧 (22117257)
 
 #### Comments (1)
@@ -249,7 +261,7 @@
 
 ---
 
-### 16. Post 16
+### 17. Post 17
 **Author:** ハイノヤマト (se21210122)
 
 こんにちは
@@ -374,7 +386,7 @@
 
 →の部屋にてメルアドを投稿してください。
 
-#### Comments (8)
+#### Comments (9)
 - **わっさん** (Jun 03, 2026 12:54pm): 学校のiPadでYouTube見たいんやけど見れなくて困ってます
 - **野獣先輩ファン！** (Jun 09, 2026 02:00pm): それなーーーーーー
 - **野獣先輩ファン！** (Jun 09, 2026 02:00pm): 手か僕も作ったので入ってくれると光栄です！！！！！！！！！！
@@ -383,6 +395,7 @@
 - **チドリノ** (Jul 01, 2026 03:25am): YouTube見れないんですけどどうしたらいいですか？
 - **Honda** (Jul 15, 2026 01:05am): マイクロソフトのEdgeっていうアプリからYouTubeって調べたら入れる。そこからリンクをダウンローダーに貼り付けたら見れるよ。
 - **フユホ** (Jul 17, 2026 09:59am): hehr
+- **ガジェット超絶z** (Sep 06, 2026 10:58am): [Attachment](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl/wish/wKmOZ57VJGx7azMA) 
 
 #### Additional Information
 - **Post color:** Black
