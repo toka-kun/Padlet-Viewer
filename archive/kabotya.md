@@ -1,4 +1,4 @@
-最終取得: 2026/09/07 06:45:42
+最終取得: 2026/09/07 08:00:41
 
 # 規制突破の世界
 
@@ -7,14 +7,14 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 107
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 06, 2026 06:23pm
+- **Updated At:** Sep 06, 2026 10:59pm
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789335997&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BGptqAe%2FSkEsiGe5lt2PYUSMWWCsx8%2FrpZPqOHa3Be5g98aQifJVe9DMPZAS%2FotjSDuAlFEGYfBZAogP9Zk64bMsa%2Bz7u7hyJc5JiDuPkwJh667LX39mhcybfn4Vb%2FsbEanFMP49zOIzdIoc855hhj3jX7%2Br3iE24GrmvYzhsOv%2FM%2Bj6OgP8E9WWTH795VA75KGs%2BkwQtRX5ISt5YQ72dcLUWg6o9t0Ia7OyRKZtyucluanO%2BS70tNau29AEqjycQ7j7mPqTjZyERbWFnNLOW1xH9yN6lvfp1Xrhl7PDYZ33hslezdsAax6UHIH%2BFENjXTnqih%2FKIN0DZhYIoXNsbg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789340511&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DJD7D6IKYyGd1GS3qu%2FbJJKj%2FMtb6S3Zxe9JHpOhU0jNyn2TBT%2BLoBft%2BMWgHgpQOuia4WSqNP7sbazHnsCS3i5G1R7PgI5AbwsrugBcn0cDi%2Fjdcz9Wk8alycCtvvQzbWm9j%2FIxAUvuoUDfyK61hZeD50IqPC20zGtsPCYKbf4RpdmDwh8LX5t7VcUEiTAtdO%2F04FyRAgN7U3eXjv745GKQPTP2i1PdfEaVX0OIZiiSYAMN9kKRmRIWygb0T%2BvEN%2FujzpgalaEm1MQjMn4ismMir5tysa5m6An3szKiwPz8i78IKlK5NpFIqMgg2lbEKrBaxkLkLm%2FF7ddhwSsQPg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
 #### Comments (5)
 - **「篠田　虎珀」．** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
@@ -1410,7 +1410,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789335997&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kkdWXm7LNoM11SCapAsb87la9IjDQVm0FihwozTROFef3PcKqoOrgihstunZ%2B7oLiUFtUwFgfXWBoeyu8dznyPeLhFmmF7l2WI2snKX0I3IV%2F6S7NXa4qWG4VqAb4gu9R9Cylcct1Kx6OWE4y3iAXbMpcCpyIt6kS4dhkuLKfWgZ6FiJu7337V2ngSleIecGm0gPaqvlE4Cyxz%2FHoHqhFq1XJfyKvdCF5LAYZ1%2Fvh5Y0OykqDn7yt4TvEWlbg73pPLASegmttdxuFigPgk9Xy4N8JOghJ1cCTiKexjAG9OIVseG8Fp%2BIx1MqESwCiN5eO55UfRH%2FsTPcHpWKrs6o0g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789340512&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2UW1H%2BFkjMIlaLNK4IdndFXJYSZN09ySDVnoMyUTvhb%2FPBlQAWD53jqcd8CtRYynKRVjp5PN8L3meBUZlpopPKLCmdyrX%2BtmCuSe1kA%2BedxEURM8HU026pZMjjFeunLo00NPO0g%2Bzpl4tiSHTdK%2FLhSQyZSj0FKBE%2BS5FexQC2Bo7dEmljJhWCpDIicGRLoS%2FfsSjtIM%2FCDtjAu2wV1Q1s%2FTcpBa2BYttgRrLUThux%2Fz1YH9ZkxzJVN3M6pCOVhKUt8yWEZOWTtJxrfFMnFp567818S2Q0kOw45soG%2BiTP9rxyfm%2FBoBnbnBYq3DB9x6tejGSUC%2BCnvdHlYGHwOj5g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1739,7 +1739,7 @@ No post
 
 💩
 
-#### Comments (39)
+#### Comments (40)
 - **ユリカ** (Sep 02, 2026 01:02am): まんこーまんげーちんちちんげーはなーがさいたらー
 - **おなべさん(新垢** (Sep 03, 2026 04:35am): 下ネタ言えば何でも良いってわけじゃねぇよ
 - **Anonymous** (Sep 03, 2026 05:33am): 「下ネタ言えばなんでも良いってわけじゃねぇよ」とか、わざわざこんな吹き溜まりみたいな場所でありがたく御高説垂れてる姿、最高に滑稽で香ばしいですね。 「性」の話が出た途端にシュッとお行儀のいいお説教モードに入って同調圧力こねくり回すあたり、いかにも「世間様の手前、性タブーを守らなきゃいけない」同同同調圧力が染みついた日本人らしくて実に味わい深いです。 そんなにコンプライアンスと品行方正がお好きなら、わざわざこんなネットの隅っこで不毛な正義感ごっこしてないで、現実の教科書でも音読してすまし顔で暮らしてたらどうですか？ 見ていてお寒い限りですよ。
@@ -1779,6 +1779,7 @@ No post
 - **古銭** (Sep 06, 2026 01:04pm): 死ねやごみ
 - **おなべさん(新垢** (Sep 06, 2026 06:04pm): お説教じゃなくて感想言っただけなのにそこまで言われる筋合いはないだろ…
 - **おなべさん(新垢** (Sep 06, 2026 06:06pm): てかAIにつくらせんのは普通に考える力が低下するぞ（（うちも課題とかにまるまるAI使っていて、それを実感している））有益に使う練習をしないとなぁ…
+- **Anonymous** (Sep 06, 2026 10:59pm): 草www
 
 #### Additional Information
 - **Post color:** White
