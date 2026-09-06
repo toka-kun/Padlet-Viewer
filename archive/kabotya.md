@@ -1,20 +1,20 @@
-最終取得: 2026/09/07 08:13:37
+最終取得: 2026/09/07 08:50:09
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 108
+- **Posts:** 109
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 06, 2026 11:08pm
+- **Updated At:** Sep 06, 2026 11:29pm
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789341265&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ePR0VPW%2BHwXdMLPvPR7KwMvyzb7VrGPD9Vagt2oD2t2erIrl7whrv62y5ufiaWj7BrLXYZ9uAjfSeEpWicsV5JA5f3OXDtXKRLFaH0Jg%2FXt%2B8k1%2F8bBwhxyIpwwxX2atzZNgd4XFXIRA48H8seTJB39zerVvP%2B5ZsRSpj3mmRzR7Wsph0kh%2BBI5HzK6rt8q2waSINrzos9h4%2BFoDHPW91w0WdjCqmcl88h6UouaSKkA6tuIIuPtOUV7hKnzEHUlerkg%2B0G5gcaFqwWAJoeayngiM8aahCT8MXhAQzaGuVu1NRR74u9KaaXMYM9kSLaGP4tZAeGcX7Bd5cIZyiEpCxw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789343481&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0q9fcMurJ5W7xyeRty7kYp1jBgJqW%2B8Cky%2Bn%2BEFgIpQ0myVpsfB4T42rvdQkRhgLR1iKdRTzJIYq92klbfBMk9KImwtT0ptZq2jkfuqvxW%2FLn1p%2Bho85RP%2FG4sJtNbsqJTr4pnfinSlsCKiriEuVjxji4g7AFDeaiDRSf8dzv6HnHycT3QJywMkckKsEVz%2BWSbwCK8NV7PIEtj%2BuF4w8Qaa38bV3fATTdviCJWkyr1xsrEZWe97MflABaYw%2Bq%2F6xXQkGC0BSindsEpW%2B3sHLNvLAMR5hjbsmolCUVuvjyR3rIC8bQwwPYSeyPoonlswj8YJ4MFZ%2BkqDZe%2Bg%2FrFD5aQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
 #### Comments (5)
 - **「篠田　虎珀」．** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
@@ -817,7 +817,20 @@
 
 ## 要求
 
-### 1. 誰かいますか？
+### 1. 喧嘩わここでやれ
+**Author:** かんかん (aaakjd44)
+
+#### Comments (1)
+- **かんかん** (Sep 06, 2026 11:29pm): いいか
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 06, 2026 11:29pm
+- **Updated At:** Sep 06, 2026 11:29pm
+
+---
+
+### 2. 誰かいますか？
 **Author:** そーりー
 
 #### Comments (6)
@@ -835,7 +848,7 @@
 
 ---
 
-### 2. エロ部屋くれ
+### 3. エロ部屋くれ
 **Author:** 江戸を司るエロ
 
 エ⚪️部屋ってやつです
@@ -853,7 +866,7 @@
 
 ---
 
-### 3. めっちゃカメレオンください
+### 4. めっちゃカメレオンください
 **Author:** ミモリ
 
 #### Comments (5)
@@ -870,7 +883,7 @@
 
 ---
 
-### 4. いいですよ
+### 5. いいですよ
 **Author:** 焼き止めと
 
 #### Comments (1)
@@ -883,7 +896,7 @@
 
 ---
 
-### 5. いいっすねええ
+### 6. いいっすねええ
 **Author:** 匿名
 
 #### Additional Information
@@ -893,7 +906,7 @@
 
 ---
 
-### 6. 誰か一緒にお話しませんか？誰でもどうぞ！
+### 7. 誰か一緒にお話しませんか？誰でもどうぞ！
 **Author:** ソラハル
 
 みんなで、一緒に仲良く話しましょう。[https://scratch.mit.edu/projects/556926076/fullscreen/](https://scratch.mit.edu/projects/556926076/fullscreen/)
@@ -912,7 +925,7 @@
 
 ---
 
-### 7. あ
+### 8. あ
 **Author:** チンアナゴ
 
 #### Comments (1)
@@ -925,7 +938,7 @@
 
 ---
 
-### 8. エロ部屋くれ
+### 9. エロ部屋くれ
 **Author:** ツキノト
 
 #### Comments (13)
@@ -950,7 +963,7 @@
 
 ---
 
-### 9. ロブロックスとYouTubeのリンク載せて
+### 10. ロブロックスとYouTubeのリンク載せて
 **Author:** マリオ
 
 #### Comments (1)
@@ -963,7 +976,7 @@
 
 ---
 
-### 10. ほかのゲームサイト乗せて
+### 11. ほかのゲームサイト乗せて
 **Author:** ツキミ
 
 #### Additional Information
@@ -973,7 +986,7 @@
 
 ---
 
-### 11. ゆうと、どうやってけすの？
+### 12. ゆうと、どうやってけすの？
 **Author:** 港
 
 #### Comments (1)
@@ -986,7 +999,7 @@
 
 ---
 
-### 12. インスタできるやつください
+### 13. インスタできるやつください
 **Author:** ０２２３
 
 #### Comments (1)
@@ -999,7 +1012,7 @@
 
 ---
 
-### 13. 誰か軽いproxyくれ　ブロックされるやつでもいいから
+### 14. 誰か軽いproxyくれ　ブロックされるやつでもいいから
 **Author:** ノハルカ
 
 #### Comments (1)
@@ -1012,7 +1025,7 @@
 
 ---
 
-### 14. ジオメトリーダッシュ作ってください
+### 15. ジオメトリーダッシュ作ってください
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (3)
@@ -1027,7 +1040,7 @@
 
 ---
 
-### 15. Post 15
+### 16. Post 16
 **Author:** りゅう
 
 フォートナイトぽしいです
@@ -1043,7 +1056,7 @@
 
 ---
 
-### 16. アンダーテールぽしいです
+### 17. アンダーテールぽしいです
 **Author:** ああああ (h0319096_1)
 
 #### Comments (1)
@@ -1056,7 +1069,7 @@
 
 ---
 
-### 17. 流行語大賞２０２６ください
+### 18. 流行語大賞２０２６ください
 **Author:** ミズアメ
 
 #### Comments (1)
@@ -1069,7 +1082,7 @@
 
 ---
 
-### 18. いんすたないですか
+### 19. いんすたないですか
 **Author:** う
 
 #### Comments (3)
@@ -1084,7 +1097,7 @@
 
 ---
 
-### 19. お願い
+### 20. お願い
 **Author:** ナナシ
 
 エロい漫画見れるサイト教えて
@@ -1101,7 +1114,7 @@
 
 ---
 
-### 20. はやく！
+### 21. はやく！
 **Author:** ホシノキ
 
 性教育実習の漫画があるパドレットください
@@ -1117,7 +1130,7 @@
 
 ---
 
-### 21. 誰かpokiのサイト載せて
+### 22. 誰かpokiのサイト載せて
 **Author:** 匿名
 
 #### Comments (5)
@@ -1134,7 +1147,7 @@
 
 ---
 
-### 22. 誰かURL貼って動画見るやつ教えて
+### 23. 誰かURL貼って動画見るやつ教えて
 **Author:** ユメノ
 
 fernって名前のやつ　履歴消したらきえt
@@ -1152,7 +1165,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 23. 誰かエロ部屋くれ
+### 24. 誰かエロ部屋くれ
 **Author:** 匿名
 
 #### Comments (1)
@@ -1165,7 +1178,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 24. アニメ見れるサイト欲しい
+### 25. アニメ見れるサイト欲しい
 **Author:** 34b6kq
 
 違法サイトでも全然ええよ
@@ -1186,7 +1199,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 25. Post 25
+### 26. Post 26
 **Author:** でにでにろつとまん (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
@@ -1204,7 +1217,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 26. エロサイトくれ
+### 27. エロサイトくれ
 **Author:** スギノネ
 
 #### Comments (18)
@@ -1234,7 +1247,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 27. 至急！！！！！
+### 28. 至急！！！！！
 **Author:** スギノネ
 
 保健室のサイト　誰かほしいです！
@@ -1410,7 +1423,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789341266&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6RzVDzMqKyIA32AIw6MuQTzbPkRA9C6tRB%2BGV%2BfY4LMQmNDVOJIHbLMn6gpHpl6v7A48bWtkYrbzba7V1nopi86vCS8Fi%2B5ipsvi28d%2FheKkT7oZBCFHV1Wo4piICu01cBFyDcPGLWRUdIA%2BlSkyMGA2QFp0utr7mZVprWEu6c%2FcAcEWuNLGSZ2xflfBao%2B6NvRQtgKJDHtENrbJWJ7CnF%2Fyr%2BCpT%2F1Eb8%2FRYgzYKVbl7%2FkhO2%2B0ZNPZmoEJKoa5xAjiKeaO%2Fmf13XOQ%2BKmvCjQywftSTxLYr6NncjIvNwMqYxeNN9BuFZBzPM3BX10oHgeS%2BzkrRlhyKssbNTANVA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789343482&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NpVxP5G8ZdPFRVyDgq%2FISMWwlTXm7IJCFIEQwokPGZb%2FRg9zN%2FqoeJlHK3GJpzvxJWju8X3CMAAiFpntVCDExSpKTo1YMtLnyocO%2F6PLl2F%2FxUxu8Tv988Z0HrdEIWQT5mWzFZfON3me2fnqAcm8eEXkBGNYS2WU6EOcYkzongvDevDLrk2TLFys1I%2BoqgY0jgnqp6kcZx7xjP32rJv36II0DRFd1bNETHFWma5D0HV1aT4lLNlL76GKmw44mOlknYHcRUsM7AfFVMJWEpw95lNaUmhWK%2BRkBlwoPV%2BzHQwytRJot9OMavRb%2FSHPRk9PTlXCPje%2FJV1R4l7%2BdqZmvw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1495,7 +1508,7 @@ No post
 - **カナタビ** (Sep 01, 2026 01:38am): 例:　youtube.com
 
 #### Reactions
-- **Emojis:** 👍 (3)
+- **Emojis:** 👍 (4)
 
 #### Additional Information
 - **Post color:** White
