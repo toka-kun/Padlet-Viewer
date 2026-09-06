@@ -1,4 +1,4 @@
-最終取得: 2026/09/07 02:19:56
+最終取得: 2026/09/07 02:21:34
 
 # 規制突破の世界
 
@@ -14,7 +14,7 @@
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789320048&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qM1NnVRXVSZEAg%2BoFTSpwpccGIiboqZCDOXxkgRU7Rr%2Bd4WA07DDJ0YnKPj5SjUOitZx8bl93RLrec%2Bl3JuoiOlw%2B1RDqYzLR3QHfOC0mMgvKVATT1u0WirqqsJm4f%2FllMOsAAwvgAZ%2FtO2UIsIE1B894UcKRi4ZCYxRPwVRSLv8xWwuRsAtDKIi6PsIqnixNVB%2BTmOPA6jR1PwqKdwPFs9B1eW7Q70FPojaTLZSyFSRaiC2I%2FcW4fbUXZnU3XuSvIJZs53dgoiMK09JLqC76fCuqvy%2BEj36%2FY0a3B%2BNyQ9nPVdZN%2FSXe9tjA7I5w6O2sWMuTr54baOveOrlYk%2FlFg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789320143&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=C7WcIQ7gtE2K280AhmbR0ZznSIUOGniMNR%2BkOftA9OZnRgjPRwyFshR%2F5zBLWUdAkZmQSUTOd%2BajO%2BrkdxwWO3wfwxSUPk%2BGFfpNGWrbZDJpanWEweVM61Fm7u2QM1m%2Fr2IRrFujAtt6B18QGfwxdCxu0n%2BtRFkaGLUGgRXbnfgGAan6tImdSQOgucQebKoC5adBo64gwSBfRLwMPO5d7opjxULLCsgX3grwiIw%2BBMve5X2gcvd6o7wzkZf3eOH9D6FL4nMduZAB8LkRTeK0UawNgcAZ4O044%2FHNhZxtoH8siyuOpP1Sayac2E3ca4%2FGCr6J863ChGxC3TBiqzDBCA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
 #### Comments (3)
 - **「篠田　虎珀」．** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
@@ -1394,7 +1394,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789320048&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mJIcQLARsDlENbcz1w0e0Ng093mwu%2B90I8BddwwuRqxRDKw7RkPsE062pO2H%2FTGqeZil%2FE55yx8wFnOzcaCc28XhMCFKizHzVvczwqDKFjuQSzT8%2BO1HaJNAjSfnKlAWswmM3vzKD%2B%2FczVyx%2FoMpIeM1Y4Krqg%2BqPKSca2XBdiNN7%2FztmhtpkVzkd%2BEdK6%2FReY%2FBqOvvkrfmRLV6Kn%2BplfAbkeeC15dBJ98mdx1v3BCdb6iQ%2FOutPgXMUyveTC0iIEeyRfZcyHPm3D94XVHAZa6F6Frx6aqqsqc44BuvxI8mVDOS7Gnt9ibV42ZFAvXa5U8QQ1ShVlU2JIgaAufC6g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789320144&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Bm7kS%2F1iDKpoJzPictWZaqB7ksXI%2B9EMr3Dj7IzmZUa3rAUZzc%2Blal%2Bvja62HElWniOmQBMyIUk6vedojDP2Nz6kSl54FK7AJkmyIpHrzrm8VwietoErXgdcsDBnYgd7UeGtuBVQ4lvpGkfX3nES3tmx04AnMc1Nt%2BS8exJLxD7fDS2mssOyKYb4SJkQc7I8CRH79Tujcr3hiJmG9wnOHSOq%2FZt1S72dMLHDKL2jmHJgG33nl53L2L4di3C6tgXU%2B8ArA%2BLlWFILqwajNty6FC1H%2B4AxR7s%2BhoDLs484A0hV3cIDr0mt3gS77kYV%2BqX8AGGab7RXxNAP%2BiHH1OVOKg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
