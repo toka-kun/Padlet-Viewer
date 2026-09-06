@@ -1,4 +1,4 @@
-最終取得: 2026/09/06 21:42:51
+最終取得: 2026/09/06 23:23:02
 
 # 規制突破の世界
 
@@ -7,14 +7,19 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 105
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 06, 2026 12:39pm
+- **Updated At:** Sep 06, 2026 02:07pm
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789303445&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=3Tk0E7njKY2EO5A7av6o6r%2B1AFHFQwMmRxyP8bqkFE01%2Byz8ebtl1YfbcSg%2BuvjLCobaaWxT3pOxZ6cns88JAG2i9xMxv9hxVS%2B7%2FFD9lAXv6mdX4csCITCZ3Uf5Zuw0BkYLEQ2fxhGGHSS4qaIGRlcx6npqy%2B5fVUMXO5Xh75wc735qPLgSvqr%2BR3C80pYQu2%2Fkc6eoO2ItshyBP5JkvisXXT6wDbRsjGb5stnib%2Fjk2trRvpXBKzCa5jSiDuou8KiW1e7S%2FeKgNnhD%2Fy0yVfbNo0DaJfx3GolpkwywI8DtV9DMlYC50I787lsP2%2Fby%2F3Xqzhdw0PNat7QjgLJKhw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789309456&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bOIw8URB12MD0dydJF1tdPHrh032lKa%2B1jP%2Fpap5oXVLqLxK5yOqSXq%2FNT3gbqnNfhl6vuTU%2FQ5EJ%2BRa6ArrXfG0dfMniiiEFuXY%2BaqbT%2BB7z9EOIq0xQKdbnkU1ac2eCmIcY31%2F1y6OqtTtkXob0wSr7EPwnttyUZ79FjnCp7k6oLz4xuHGbKiihGMifWvn%2FhYV8z3HZM8tCCGsO2foT6wuOzoJXqnVPV7CIS4vaZBDDHhJQ%2FWFsYYUG8qBue47NjMR24e04aLcq98N%2BJZlsVUCN1vjIMlo%2FLJEm29W4yBCNGKB0jaYJH7P2fgKvRzHHoflIA1HJH%2F1KiShuScg%2Fw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+
+#### Comments (3)
+- **「篠田　虎珀」．** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
+- **「篠田　虎珀」．** (Sep 06, 2026 12:51pm): あと2日くらいずっとクラッシュしてた
+- **かぼちゃ** (Sep 06, 2026 01:24pm): まあこれだけなら良かったけど他にも匿名は色々と長文とかコメントでうざいんですよね
 
 #### Additional Information
 - **Post color:** Red
@@ -67,7 +72,7 @@
 ### 5. 規制突破
 **Author:** Nannka　Youtube (s1923051_1)
 
-#### Comments (16)
+#### Comments (18)
 - **Nannka　Youtube** (Sep 04, 2026 02:26am): どうやったら部屋作れるんですか？自分も作りたいです
 - **かぼちゃ** (Sep 04, 2026 02:08pm): 作成のところを押してから、列とかでそこから設定とかで作れていったりする、色んなとこで宣伝したらみんな来るようになる、まあ最初はたくさん荒らし来ると思うけど4年とかしてたら慣れていくよ、
 - **Anonymous** (Sep 04, 2026 03:04pm): かぼちゃ何様？予想の答え「俺様」こんなサイトでイキんな
@@ -84,6 +89,8 @@
 - **カマキリ** (Sep 05, 2026 11:48am): 別に俺脅威やろーとか1度も思ったことないで？
 - **カマキリ** (Sep 05, 2026 11:48am): もしかして人の心を勘違いして言っちゃってるだけっすかw
 - **カマキリ** (Sep 05, 2026 11:48am): わざわざ長文あざす
+- **ねっこ** (Sep 06, 2026 02:05pm): カマキリレスバ強くて草
+- **ねっこ** (Sep 06, 2026 02:05pm): これに関してはカマキリが正しいかも
 
 #### Additional Information
 - **Post color:** White
@@ -820,9 +827,11 @@
 
 エ⚪️部屋ってやつです
 
-#### Comments (2)
+#### Comments (4)
 - **あの日のブラックケーキ** (Sep 05, 2026 02:31am): 懐かしい部屋だな
 - **シンメ** (Sep 06, 2026 04:29am): 長文二キだまってくださいしね
+- **お、おう** (Sep 06, 2026 01:01pm): https://padlet.com/mo_i_zoo/padlet-wfx5clzffum44uj6
+- **お、おう** (Sep 06, 2026 01:01pm): これでいいか？
 
 #### Additional Information
 - **Post color:** White
@@ -1385,7 +1394,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789303445&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mL678sBZ37lJ9hYR%2BDdGUdtPWIiZ9xU8UJii8%2BkG2vngLfFK3nSyRzcSAS%2BhUZQxlZXhmweNkWGiEQUD6E7xqChKHE%2FTXyHI65TNd22Gid%2FER09jOXuHvc7qJiIe7G34DWUB2QnSXBsxFdi68%2FAbI9nmtEeKCHoUFMn6K5GQPXJe2k4ALtJ2%2BZ%2Fzhiw9UtKOqIAkAp3Cc2aMuj84be%2FwR7E1H8sBMkEAqQeyMYPjqXMKixZtSbKsNgT6QDC3Lu17BCji6O2ubL0GtsHE2d6tBrTUKbUkomNUNyL5U%2Fmlpo1cX8sJ%2Ft4Epujxm7PMINdI0hqeSSU%2BZHJz3MDjr7dnqw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789309457&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KfGAvTruNYAiIbPC9p5bBaOy0XhrKh7%2BJrQZzWaO4%2FSzbDNPbxzaajLI4KT5r6aKVQntC7vADLl6PtShG382jZXXFTDPJ%2Bes9T9zm91zUSU1lbSaxBJyOba4jq%2BK%2FFZvMBSeZzlSVesuMonMP9VJW3AtGTbQtwOZ3SoWFNUZN%2FZm953CMedvJAzmKyjSAoiEyOKjRvW48I%2Bxhpye%2FkAwa2inILtwMXvviLJ8Iklgtc5VVkhDx5XZSzjgt0zyGaH3HKfKCVrZr9r%2B6Ks6EJSsH%2B0VgwzgQ3DUt9CcCOd4veTAUwwC3G3%2B3ivYw5umB6K58qdTSXvPvbDEXHw73MQpBA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1486,11 +1495,12 @@ No post
 
 [Attachment 1](https://planet.mblock.cc/project/projectshare/8349577)
 
-#### Comments (4)
+#### Comments (5)
 - **ユメノ** (Aug 28, 2026 10:21am): どうやって使うん
 - **ニック** (Aug 29, 2026 04:34am): わかりません
 - **えいこ** (Sep 02, 2026 11:28pm): その子ができなかったって言ってた
 - **Anonymous** (Sep 05, 2026 08:46am): おなぬーを？教えたろか？
+- **Anonymous** (Sep 06, 2026 12:59pm): wwwwwwwwwwwwwwwww
 
 #### Additional Information
 - **Post color:** White
@@ -1698,9 +1708,8 @@ No post
 
 
 
-#### Comments (2)
+#### Comments (1)
 - **ホシヨミ** (Sep 03, 2026 12:51pm): 今日見れんくなってた
-- **Anonymous** (Sep 04, 2026 05:32am): バカ乙ゲス野郎
 
 #### Additional Information
 - **Post color:** White
@@ -1714,7 +1723,7 @@ No post
 
 💩
 
-#### Comments (34)
+#### Comments (37)
 - **ユリカ** (Sep 02, 2026 01:02am): まんこーまんげーちんちちんげーはなーがさいたらー
 - **おなべさん(新垢** (Sep 03, 2026 04:35am): 下ネタ言えば何でも良いってわけじゃねぇよ
 - **Anonymous** (Sep 03, 2026 05:33am): 「下ネタ言えばなんでも良いってわけじゃねぇよ」とか、わざわざこんな吹き溜まりみたいな場所でありがたく御高説垂れてる姿、最高に滑稽で香ばしいですね。 「性」の話が出た途端にシュッとお行儀のいいお説教モードに入って同調圧力こねくり回すあたり、いかにも「世間様の手前、性タブーを守らなきゃいけない」同同同調圧力が染みついた日本人らしくて実に味わい深いです。 そんなにコンプライアンスと品行方正がお好きなら、わざわざこんなネットの隅っこで不毛な正義感ごっこしてないで、現実の教科書でも音読してすまし顔で暮らしてたらどうですか？ 見ていてお寒い限りですよ。
@@ -1749,6 +1758,9 @@ No post
 - **Anonymous** (Sep 05, 2026 08:51am): そんなに必死になって「しね、きもい、かす」なんて言葉を並べ立てて、一体どんな大層な偉業を成し遂げたつもりでいるわけ？画面の向こうでドヤ顔しながらキーボード叩いてる姿を想像すると、気の毒を通り越して笑えてくるんだけど。お前が必死に絞り出したその薄っぺらい悪口、ぶっちゃけ語彙力が小学生の引き出しで止まっててめちゃくちゃダサいよ。「僕はこれ以上の言葉を知りません」って自分の無教養さをわざわざネットに晒して、何がそんなに気持ちよくなっちゃってるの？言葉のセンスがなさすぎて、煽られてる側もお前の精神年齢の低さに呆れてるだけなのに、それを「論破した」とか「俺が優位に立った」って勘違いできる脳みそ、本当に羨ましいくらいにおめでたいよね。掲示板っていう、誰が誰だか分からない安全圏に隠れてしか強気になれないの、最高に臆病者っぽくてお似合いだよ。現実世界では誰にも相手にされないから、そうやってネットの片隅で他人に噛みついて、自分の存在理由を確認しないと生きていけないんでしょ？お前が調子に乗って吐き出したその言葉、お前自身の「満たされない底辺の生活」と「歪んだコンプレックス」がそのまま形になって溢れ出ちゃってることに、いい加減気づいた方がいいよ。周りはみんな、お前を「まともな会話ができない可哀想な人」として扱って、腫れ物に触るようにスルーしてるだけ。それを「俺の毒舌にビビってる」とか都合よく変換して調子に乗れるの、ある意味無敵の才能だよね。これからもその調子で、自分の無知と品性のなさをネット上に撒き散らし続けて、どんどん孤立していくといいんじゃない？お前が必死になればなるほど、周囲との格差が開いていくだけの滑稽なエンターテインメント、側から見てる分には最高に冷笑できて面白いからさ。
 - **PC管理者** (Sep 05, 2026 09:00am): AI？
 - **カマキリ** (Sep 05, 2026 11:50am): あー、ごめん俺ニートじゃないんだ
+- **Anonymous** (Sep 06, 2026 12:58pm): コピペやん
+- **古銭** (Sep 06, 2026 01:04pm): aiきも
+- **古銭** (Sep 06, 2026 01:04pm): 死ねやごみ
 
 #### Additional Information
 - **Post color:** White
@@ -1763,9 +1775,6 @@ No post
 **Author:** ユキワタ
 
 [Attachment 1](https://padlet.com/298344445/padlet-jibykjil8dz23tn7/wish/9kmlZV5v2nyeQpgV)
-
-#### Comments (1)
-- **Anonymous** (Sep 04, 2026 05:36am): あ？まんこですか？
 
 #### Additional Information
 - **Post color:** White
@@ -1794,8 +1803,9 @@ No post
 
 [Attachment 1](https://padlet.com/21070052_1/padlet-s02391231k9ovta9c99h)
 
-#### Comments (1)
+#### Comments (2)
 - **覚醒のX** (Sep 04, 2026 03:19am): 来てね
+- **古銭** (Sep 06, 2026 01:04pm): 行きました
 
 #### Additional Information
 - **Post color:** White
@@ -1938,7 +1948,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 ### 13. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
-#### Comments (18)
+#### Comments (21)
 - **かめかめかめ** (Aug 28, 2026 01:55am): できれば爺とやりたい
 - **34b6kq** (Aug 28, 2026 03:38am): かめかめかめ　それは意味わからん
 - **匿名** (Aug 28, 2026 07:56am): イズミ雑魚ってどういうこと？なにを持って雑魚なの？
@@ -1957,6 +1967,9 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 - **Anonymous** (Sep 05, 2026 07:34am): 俺は彼女できたことあるわ（ガチ）
 - **Anonymous** (Sep 05, 2026 07:36am): インキャはお前だけだ
 - **Anonymous** (Sep 05, 2026 08:56am): 仮に100歩譲ってその話が本当だとして、それがお前の人生のピークなんだな。かわいそうに。 「過去に一瞬だけチャンスがあった」っていう終わった遺産にしがみついて、今の自分の悲惨な現実から目を背けてるだけだろ。今現在、誰からも愛されてなくて、土曜の夜に掲示板で他人に「俺は違う！」って必死にアピールしてる時点でお前の負けなんだよ。本当にクソインキャなのは、過去の幻影にすがって今をドブに捨ててるお前自身だって、そろそろ気づけよな。
+- **Anonymous** (Sep 06, 2026 12:45pm): たしかに…調子乗りました。
+- **Anonymous** (Sep 06, 2026 12:45pm): 申し訳ございませんでした
+- **Anonymous** (Sep 06, 2026 12:46pm): ですが付き合ったのは今年です
 
 #### Reactions
 - **Emojis:** 👎 (1)
@@ -1971,7 +1984,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 ### 14. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
-#### Comments (12)
+#### Comments (13)
 - **ホシノワ** (Aug 27, 2026 06:54am): ゲームのサイト乗っけて
 - **ホシノワ** (Aug 27, 2026 06:54am): だれか
 - **Anonymous** (Aug 28, 2026 08:14am): Ubg67って調べて 
@@ -1984,6 +1997,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 - **Anonymous** (Sep 04, 2026 05:44am): ネス湖における未確認動物「ネッシー」の歴史、科学的検証、および社会的・文化的影響に関する考察序論ネス湖の怪獣（英: Loch Ness Monster）、通称「ネッシー（Nessie）」は、スコットランド・ハイランド地方のネス湖に生息すると伝えられる、世界で最も有名な未確認動物（UMA: Unidentified Mysterious Animal）である。長年にわたり、数多くの目撃証言、写真、映像、そして科学的調査が報告されてきたが、その実在を示す決定的な肉体的証拠（生物の死骸や捕獲例）は現在に至るまで発見されていない。本論文では、ネッシー伝承の歴史的背景から、20世紀以降のブームの変遷、これまでに行われた主要な科学的検証、そして本現象が地域経済や大衆文化に与えた影響について多角的に考察する。1. 歴史的背景と目撃譚の変遷1.1 初期の記録：聖コロンバの伝説ネス湖における怪獣の最も古い記録は、西暦565年に高僧聖コロンバ（St. Columba）が著した伝記（アダムナンの『聖コロンバ伝』）に遡る。記述によると、コロンバはネス川で怪物に襲われそうになった住民を救うため、十字架を掲げて神の御名によって怪物を退散させたという。これが「ネス湖の怪獣」の原点とされるが、当時はキリスト教の奇跡を強調するための寓話的側面が強く、現代の「首長竜型」のイメージとは大きく異なる。1.2 1933年の「ネッシー・ブーム」の勃発近代的なネッシー・ブームが始まったのは1933年である。同年、ネス湖の北岸に沿って新しい道路（A82号線）が完成し、湖の視界が大きく開けた。マッケイ夫妻の目撃（1933年4月）：地元のホテル経営者マッケイ夫妻が、湖面でのたうち回る巨大な生物を目撃したと地元のインヴァネス・クーリエ紙が報じ、初めて「モンスター」という言葉が使われた。スパicer夫妻の目撃（1933年7月）：スパicer夫妻が、道路を横切って湖へ向かう「首が長く巨大な胴体を持つ生物」を陸上で目撃したと証言し、ブームは一気に加速した。1.3 近代の象徴：「外科医の写真」とその真実1934年4月、ロンドンの高名な外科医ロバート・ケネス・ウィルソンが撮影したとされる写真は、水面から長い首を突き出す生物の姿を捉え、世界中にネッシーのイメージを定着させた。しかし、1994年、撮影に関与したクリスチャン・スパーリングが死の間際に「おもちゃの潜水艦に木粉粘土で作った首を取り付けた偽物であった」と告白し、この写真は世界的な捏造事件であったことが証明された。2. 生物学的・地質学的仮説と検証ネッシーの実在を支持する、あるいは否定する立場から、これまで多くの科学的・擬似科学的仮説が提唱されてきた。2.1 プレシオサウルス（首長竜）生き残り説最も大衆に好まれた説は、約6600万年前に絶滅したはずの水生爬虫類プレシオサウルスの生き残りがネス湖に閉じ込められたという説である。しかし、この説には以下の科学的致命欠陥がある。地質学的矛盾：ネス湖は最後の氷河期（約1万年前）まで完全に氷に覆われており、それ以前から生物が連続して生存することは不可能である。生物学的矛盾：爬虫類は肺呼吸を行うため、頻繁に息継ぎで水面に顔を出す必要があるが、それに見合う頻度の目撃がない。また、ネス湖の水温（年間平均約5.5℃）は爬虫類が活動するには低すぎる。2.2 大ウナギ（オオウナギ）説ネス湖にはヨーロッパウナギが多数生息している。一部の個体が環境要因や突然変異により、通常のサイズを遥かに超えて巨大化した（数メートル規模）のではないかという説である。これは後述する最新のDNA調査でも注目されることになる。2.3 錯覚および自然現象説多くの目撃談は、既知の動物や自然現象の見間違いである可能性が高い。波と流木：湖を航行するボートの航跡波（特に数キロ先から届く交差波）は、水面を泳ぐ怪獣の背中のように見える。光の屈折（蜃気楼）：穏やかな湖面では冷気と暖気の層により光が屈折し、小さな鳥や流木が巨大に見えることがある。他の動物：泳いでいるシカ、あるいは水面から背中を出したイルカやアザラシ（稀に海から迷い込む）の見間違い。3. 大規模な科学的調査20世紀後半から21世紀にかけて、最新技術を用いた科学的調査が何度も実施された。3.1 ソナー（音波探知機）調査1960年代から2000年代にかけて、ボストンの応用科学アカデミーやBBCなどがソナーを用いた大規模な湖底スキャンを行った。時折「巨大な移動物体」の反応が記録されたが、これらは魚の群れ、あるいは湖底のサーモクライン（変温層）による音波の乱反射であると結論づけられた。3.2 2019年：環境DNA（eDNA）調査ニュージーランドのオタゴ大学のニール・ジェメル教授率いる国際研究チームが、ネス湖の300箇所以上から水サンプルを採取し、そこに微量に含まれる生物の皮膚や排泄物などの環境DNA（eDNA）を分析する最大規模の調査を行った。結果：プレシオサウルスなどの爬虫類、あるいはサメやチョウザメといった大型魚類のDNAは一切検出されなかった。ウナギの可能性：一方で、大量のウナギのDNAが検出された。ジェメル教授は「これが巨大ウナギの証明ではないが、ウナギ説を完全に否定することはできない」と述べた。4. 社会的・文化的・経済的影響ネッシーは単なる未確認動物の枠を超え、現代社会において強大なブランド価値を持っている。影響の側面具体的な現象と効果観光経済スコットランド・ハイランド地方の観光業の主軸。年間数百万人の観光客を誘致し、地域に数千万ポンドの経済効果をもたらしている。ポップカルチャー映画、アニメ、小説（例：『ドラえもん』の「のび太の恐竜」のモチーフや映画『ウォーター・ホース』など）に数多く登場。暗号生物学の発達ネッシーを追うプロセスを通じて、未確認生物を科学的に検証する「暗号生物学（Cryptozoology）」という分野が広く認知された。結論科学的な視点に立てば、ネス湖にプレシオサウルスのような巨大な古代生物が生息している可能性は限りなくゼロに近い。目撃証言の多くは、自然現象の見間違い、集団心理による錯覚、あるいは商業的意図を持った捏造である。しかし、2019年の環境DNA調査のように、ネッシーの謎を追うことが結果として湖の生態系を詳細に解明する学術的成果に繋がっている点は見逃せない。そして何より、科学で全てが解明されつつある現代において、「未知のロマン」を象徴する文化的アイコンとして、ネッシーは今後も人々の想像力を刺激し続けるであろう。
 - **サーモン** (Sep 05, 2026 12:23am): へー、ためになったわ
 - **Anonymous** (Sep 05, 2026 06:40am): どういたしまして　不登校のサーモンさん
+- **Anonymous** (Sep 06, 2026 12:59pm): 草www
 
 #### Additional Information
 - **Post color:** White
