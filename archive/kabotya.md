@@ -1,20 +1,20 @@
-最終取得: 2026/09/07 08:00:41
+最終取得: 2026/09/07 08:13:37
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 107
+- **Posts:** 108
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 06, 2026 10:59pm
+- **Updated At:** Sep 06, 2026 11:08pm
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789340511&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DJD7D6IKYyGd1GS3qu%2FbJJKj%2FMtb6S3Zxe9JHpOhU0jNyn2TBT%2BLoBft%2BMWgHgpQOuia4WSqNP7sbazHnsCS3i5G1R7PgI5AbwsrugBcn0cDi%2Fjdcz9Wk8alycCtvvQzbWm9j%2FIxAUvuoUDfyK61hZeD50IqPC20zGtsPCYKbf4RpdmDwh8LX5t7VcUEiTAtdO%2F04FyRAgN7U3eXjv745GKQPTP2i1PdfEaVX0OIZiiSYAMN9kKRmRIWygb0T%2BvEN%2FujzpgalaEm1MQjMn4ismMir5tysa5m6An3szKiwPz8i78IKlK5NpFIqMgg2lbEKrBaxkLkLm%2FF7ddhwSsQPg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789341265&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ePR0VPW%2BHwXdMLPvPR7KwMvyzb7VrGPD9Vagt2oD2t2erIrl7whrv62y5ufiaWj7BrLXYZ9uAjfSeEpWicsV5JA5f3OXDtXKRLFaH0Jg%2FXt%2B8k1%2F8bBwhxyIpwwxX2atzZNgd4XFXIRA48H8seTJB39zerVvP%2B5ZsRSpj3mmRzR7Wsph0kh%2BBI5HzK6rt8q2waSINrzos9h4%2BFoDHPW91w0WdjCqmcl88h6UouaSKkA6tuIIuPtOUV7hKnzEHUlerkg%2B0G5gcaFqwWAJoeayngiM8aahCT8MXhAQzaGuVu1NRR74u9KaaXMYM9kSLaGP4tZAeGcX7Bd5cIZyiEpCxw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
 #### Comments (5)
 - **「篠田　虎珀」．** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
@@ -1410,7 +1410,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789340512&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2UW1H%2BFkjMIlaLNK4IdndFXJYSZN09ySDVnoMyUTvhb%2FPBlQAWD53jqcd8CtRYynKRVjp5PN8L3meBUZlpopPKLCmdyrX%2BtmCuSe1kA%2BedxEURM8HU026pZMjjFeunLo00NPO0g%2Bzpl4tiSHTdK%2FLhSQyZSj0FKBE%2BS5FexQC2Bo7dEmljJhWCpDIicGRLoS%2FfsSjtIM%2FCDtjAu2wV1Q1s%2FTcpBa2BYttgRrLUThux%2Fz1YH9ZkxzJVN3M6pCOVhKUt8yWEZOWTtJxrfFMnFp567818S2Q0kOw45soG%2BiTP9rxyfm%2FBoBnbnBYq3DB9x6tejGSUC%2BCnvdHlYGHwOj5g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789341266&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6RzVDzMqKyIA32AIw6MuQTzbPkRA9C6tRB%2BGV%2BfY4LMQmNDVOJIHbLMn6gpHpl6v7A48bWtkYrbzba7V1nopi86vCS8Fi%2B5ipsvi28d%2FheKkT7oZBCFHV1Wo4piICu01cBFyDcPGLWRUdIA%2BlSkyMGA2QFp0utr7mZVprWEu6c%2FcAcEWuNLGSZ2xflfBao%2B6NvRQtgKJDHtENrbJWJ7CnF%2Fyr%2BCpT%2F1Eb8%2FRYgzYKVbl7%2FkhO2%2B0ZNPZmoEJKoa5xAjiKeaO%2Fmf13XOQ%2BKmvCjQywftSTxLYr6NncjIvNwMqYxeNN9BuFZBzPM3BX10oHgeS%2BzkrRlhyKssbNTANVA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1790,7 +1790,19 @@ No post
 
 ## 宣伝
 
-### 1. 匿名掲示板やぞ。拡散しまくってほしい。
+### 1. こい
+**Author:** Outpost Keeper
+
+[Attachment 1](https://padlet.com/akiramenaidedonnatokimo/padlet-kerg40vcf1nvu3eh?lang=ja)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 06, 2026 11:08pm
+- **Updated At:** Sep 06, 2026 11:08pm
+
+---
+
+### 2. 匿名掲示板やぞ。拡散しまくってほしい。
 **Author:** おなべさん(新垢 (minecrft)
 
 匿名こそ正義って思ってる奴は絶対こい。
@@ -1804,7 +1816,7 @@ No post
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** ユキワタ
 
 [Attachment 1](https://padlet.com/298344445/padlet-jibykjil8dz23tn7/wish/9kmlZV5v2nyeQpgV)
@@ -1816,7 +1828,7 @@ No post
 
 ---
 
-### 3. Post 3
+### 4. Post 4
 **Author:** ユキワタ
 
 [Attachment 1](https://padlet.com/298344445/padlet-jibykjil8dz23tn7/wish/9kmlZV5v2nyeQpgV)
@@ -1831,7 +1843,7 @@ No post
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** 覚醒のX (21070052_1)
 
 [Attachment 1](https://padlet.com/21070052_1/padlet-s02391231k9ovta9c99h)
@@ -1847,7 +1859,7 @@ No post
 
 ---
 
-### 5. みんな来てー
+### 6. みんな来てー
 **Author:** ぼちぼちいこか愛好家 (2101038_5)
 
 来てくれ
@@ -1864,7 +1876,7 @@ No post
 
 ---
 
-### 6. こい
+### 7. こい
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://padlet.com/team_otomodachi/proxy-mu2o69gm2ch9o6zx)
@@ -1876,7 +1888,7 @@ No post
 
 ---
 
-### 7. 絶対に来たほうがいいよ。きたら自己紹介よろしく！！
+### 8. 絶対に来たほうがいいよ。きたら自己紹介よろしく！！
 **Author:** mbappe♯つつきの森1番弟子♯狂鳥族２代目♯つつきの森と同盟中♯青の風と同盟中 (akiramenaidedonnatokimo)
 
 [Attachment 1](https://padlet.com/akiramenaidedonnatokimo/padlet-kerg40vcf1nvu3eh?lang=ja)
@@ -1894,7 +1906,7 @@ No post
 
 ---
 
-### 8. 復旧お願いします！
+### 9. 復旧お願いします！
 **Author:** 常時暇人のたけさん#T-72B3M&Su-30MKIの右腕 (JPsan)
 
 [Attachment 1](https://padlet.com/JPsan/padlet-11oe0dlx9vsegwya?lang=ja)
@@ -1906,7 +1918,7 @@ No post
 
 ---
 
-### 9. Post 9
+### 10. Post 10
 **Author:** ミソラノ
 
 [Attachment 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
@@ -1918,7 +1930,7 @@ No post
 
 ---
 
-### 10. みんなきてね
+### 11. みんなきてね
 **Author:** 仙人@suger (sennin_sugar)
 
 https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQozfVOY7UPTBkpqfD\_-fwTwn\_kxxLOg/exec
@@ -1930,7 +1942,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 11. Post 11
+### 12. Post 12
 **Author:** 犬
 
 [Attachment 1](https://padlet.com/00221133/padlet-9otqidpsq2a33sru)
@@ -1947,7 +1959,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 12. Post 12
+### 13. Post 13
 **Author:** 1001さん (Haraitai)
 
 ここオンラインゲームがあるよ！
@@ -1961,7 +1973,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 13. 江口 ー さんずい
+### 14. 江口 ー さんずい
 **Author:** 34b6kq
 
 イイ漫画がきっと見つかる
@@ -1978,7 +1990,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 14. セックスしたいやつなんか書いて
+### 15. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
 #### Comments (21)
@@ -2014,7 +2026,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 15. ゲーム出せセックス
+### 16. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
 #### Comments (13)
