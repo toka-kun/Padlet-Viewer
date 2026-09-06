@@ -1,4 +1,4 @@
-最終取得: 2026/09/06 17:30:11
+最終取得: 2026/09/06 20:19:16
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 141
 - **Created At:** Aug 31, 2025 08:58am
-- **Updated At:** Sep 05, 2026 10:43pm
+- **Updated At:** Sep 06, 2026 09:40am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -705,7 +705,7 @@ ver1.8.8で遊んでます　
 ---
 
 ### 25. フォートナイト版ブレインロット交換部屋
-**Author:** bokutoasobo｛チョコミン党｝ (bokutoasobo)
+**Author:** bokutoasobo｛チョコミン党｝#あられ　𝓎𝓊𝓂𝒶の1番弟子 (bokutoasobo)
 
 フォートナイト版ブレインロット
 
@@ -751,7 +751,7 @@ ver1.8.8で遊んでます　
 ---
 
 ### 27. 暇人達の暇つぶし部屋🥳祝！閲覧数200突破！
-**Author:** 常時暇人のたけさん (JPsan)
+**Author:** 常時暇人のたけさん#T-72B3M&Su-30MKIの右腕 (JPsan)
 
 暇つぶしができるようなパドレットにしています！
 
@@ -3437,7 +3437,7 @@ a
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1789288238&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rZD%2BzToBLzZpjkNPE0dFcAsPfnlfQl%2BN9nGDCrE%2BeKHqwBajlKQZ3iyTpfPWPoNDDs4hENr%2Ba0M3XA3T13zVZOsF%2F8fk%2BLwjxavaBzg%2FUXu82rS2EAYcgoEz6VBzdhlTxmX8cwm8yP%2FA%2FiFfpYB4lDeU%2BrB5Q3xChGdWwYa%2Bfywr7T6%2BnEU%2Fi3IODH5ItTN%2Bl6pb4Vr7nyZcDbNLjXLdppVA378q9p57lxtZKS6euFB6k1l00%2B4opBIX%2BIqN2PX%2Fi4AyID77G%2FqpsZX4XVz%2BqOCpjbwb7KCTfUIVP1qGsGdonfqR3Y57qGg7fgRshd3Y21e6c9UCeCPP4s0rqnxYLw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1789298381&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rxmEel11ilLoayqPfnyNHsUTTPVAKZrSDQiBmuyu2di3%2BaPBqjCFDyAIb60oaI20m0qkiDj%2Fe29AvLDvqctAPRysssP9g6D51Dg8XeICHjjUSo9m5%2BVk5%2Bvd0v%2Fej7ziGT1ZHrp%2FgtwxpS7WNRE%2BZ8dPfgAMOkBDuh8BpDU0qMo6wj6rYHhmIBJomMzoKgVZ1KOrQd7kQYvBz40o33xgNpI69Su%2Fv5XiU4Vh7%2BlP62YELO5W65vaJBysi2pa2IrKj8NZRGl7GGw%2FPYi5xqaYzH9j37O9R%2F216fGcLjDTvLIDAjb%2FWYNE2QCFKbg1GcIo5jH1gBG3JPLHgjDKx6t97w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (2)
