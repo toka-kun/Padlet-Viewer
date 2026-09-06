@@ -1,20 +1,44 @@
-最終取得: 2026/09/06 10:20:51
+最終取得: 2026/09/06 12:47:20
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 129
+- **Posts:** 131
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 05, 2026 10:30pm
+- **Updated At:** Sep 06, 2026 03:13am
 
 ## 雑談
 
-### 1. _jrx
+### 1. Post 1
+**Author:** そーりー (999d3145fe729ae4)
+
+[Attachment 1](https://padlet.com/999d3145fe729ae4/padlet-s023b8kg6wqus53n0qnl)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 06, 2026 03:13am
+- **Updated At:** Sep 06, 2026 03:13am
+
+---
+
+### 2. Post 2
+**Author:** ヒビキカゼ
+
+ｋ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 06, 2026 01:35am
+- **Updated At:** Sep 06, 2026 01:35am
+
+---
+
+### 3. _jrx
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262499&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=U1F%2FQz6VD0hnq78ivDu3Tgu3uXlxhZpVAemejF3hisrQN9FIYGMYGqF5lhgR3s206CRNzS2saE75KSntl%2F6Ss5UtCwcDnK0AMBqbuR%2B%2Bw5qyIueXYDp2LXziS2VCp7Sc2q12v9rJwkbaiLWj%2FChDT9Ax5hVmC1lrKrWQBZwKGOysk5ENkK%2BUJeOJdTO7faGd4h6lwmVEandy%2Fa5riC7D8sl9UYdvvvV9wUJIfxaMpmbQN3gsNJDNjn1B8mtatIMKEomIdoGBw3ZF1uHaBweQv4BeXl4HkR4vq2SSqF%2Fu5oq2Vvuz4%2FiHS%2FfogMNkh8Mc53bBvIDk%2FMwnvsAC09AeYA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tVw6qIyVV4RhNloLNQ%2FbsWdh2aMxin6paX7IFtnQwggYb6bnlAQEqKth30SoEPfEzLR%2BMfv7hrtxa%2F%2FcpT0UgkjtqT4Q8ZY0cpRHBJDuMjw%2BGjLihBtejHXxgpa6INCoXJGXW5zk8UoOtx8%2B0RLofWgoUdSIsZZUL3lMqnkIL%2BK7WU8XxC5SNX3%2FCQUJNXvBc4p382r0KyIffZPp0Kj4aRq789dwhL0G8U7QuZYPvD49V5xe4xT6feHiPT%2BrviKTy6Wqg%2B0T%2FexDUvUILnIPDIpHnTi%2FZp9icojeu2MklbXWAfLAp84ruZsbTfKtUvamySSzgWn3F0tMuErn%2FITRrg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -23,10 +47,10 @@
 
 ---
 
-### 2. _8qr
+### 4. _8qr
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262499&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=U1F%2FQz6VD0hnq78ivDu3Tgu3uXlxhZpVAemejF3hisrQN9FIYGMYGqF5lhgR3s206CRNzS2saE75KSntl%2F6Ss5UtCwcDnK0AMBqbuR%2B%2Bw5qyIueXYDp2LXziS2VCp7Sc2q12v9rJwkbaiLWj%2FChDT9Ax5hVmC1lrKrWQBZwKGOysk5ENkK%2BUJeOJdTO7faGd4h6lwmVEandy%2Fa5riC7D8sl9UYdvvvV9wUJIfxaMpmbQN3gsNJDNjn1B8mtatIMKEomIdoGBw3ZF1uHaBweQv4BeXl4HkR4vq2SSqF%2Fu5oq2Vvuz4%2FiHS%2FfogMNkh8Mc53bBvIDk%2FMwnvsAC09AeYA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tVw6qIyVV4RhNloLNQ%2FbsWdh2aMxin6paX7IFtnQwggYb6bnlAQEqKth30SoEPfEzLR%2BMfv7hrtxa%2F%2FcpT0UgkjtqT4Q8ZY0cpRHBJDuMjw%2BGjLihBtejHXxgpa6INCoXJGXW5zk8UoOtx8%2B0RLofWgoUdSIsZZUL3lMqnkIL%2BK7WU8XxC5SNX3%2FCQUJNXvBc4p382r0KyIffZPp0Kj4aRq789dwhL0G8U7QuZYPvD49V5xe4xT6feHiPT%2BrviKTy6Wqg%2B0T%2FexDUvUILnIPDIpHnTi%2FZp9icojeu2MklbXWAfLAp84ruZsbTfKtUvamySSzgWn3F0tMuErn%2FITRrg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -35,7 +59,7 @@
 
 ---
 
-### 3. 規制突破の世界とは何ですか
+### 5. 規制突破の世界とは何ですか
 **Author:** サーモン
 
 
@@ -52,7 +76,7 @@
 
 ---
 
-### 4. 規制突破
+### 6. 規制突破
 **Author:** Nannka　Youtube (s1923051_1)
 
 #### Comments (20)
@@ -84,7 +108,7 @@
 
 ---
 
-### 5. Post 5
+### 7. Post 7
 **Author:** 覚醒のX (21070052_1)
 
 [Attachment 1](https://padlet.com/21070052_1/padlet-l9bx22n6f2mh56z5)
@@ -96,7 +120,7 @@
 
 ---
 
-### 6. ゲーム123
+### 8. ゲーム123
 **Author:** ｓ
 
 #### Comments (2)
@@ -110,7 +134,7 @@
 
 ---
 
-### 7. 大丈夫大丈夫大丈夫大丈夫大丈夫大丈夫↑なんか異変気づいた？
+### 9. 大丈夫大丈夫大丈夫大丈夫大丈夫大丈夫↑なんか異変気づいた？
 **Author:** 匿名
 
 #### Comments (7)
@@ -129,7 +153,7 @@
 
 ---
 
-### 8. 誰かいますか？
+### 10. 誰かいますか？
 **Author:** そーりー (999d3145fe729ae4)
 
 #### Comments (10)
@@ -151,7 +175,7 @@
 
 ---
 
-### 9. 明日学校雨でなくなるかもしれないマジで神
+### 11. 明日学校雨でなくなるかもしれないマジで神
 **Author:** えいこ
 
 #### Comments (8)
@@ -171,7 +195,7 @@
 
 ---
 
-### 10. Post 10
+### 12. Post 12
 **Author:** itokoとこtoko (r0245154)
 
 まじではいって
@@ -201,7 +225,7 @@
 
 ---
 
-### 11. よ
+### 13. よ
 **Author:** ヤクシカブト (s1923003_1)
 
 #### Comments (11)
@@ -227,7 +251,7 @@
 
 ---
 
-### 12. だる
+### 14. だる
 **Author:** Nannka　Youtube (s1923051_1)
 
 #### Comments (9)
@@ -248,7 +272,7 @@
 
 ---
 
-### 13. 今もずっと動いてる部屋教えてください人多いところがいいです
+### 15. 今もずっと動いてる部屋教えてください人多いところがいいです
 **Author:** ちゆ
 
 #### Additional Information
@@ -258,7 +282,7 @@
 
 ---
 
-### 14. チャット（ゆうと、みなと、れお、えいいち、まひろ）
+### 16. チャット（ゆうと、みなと、れお、えいいち、まひろ）
 **Author:** れお
 
 [https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing](https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing)
@@ -275,7 +299,7 @@
 
 ---
 
-### 15. 前の土日、何した？
+### 17. 前の土日、何した？
 **Author:** 港
 
 #### Comments (2)
@@ -289,7 +313,7 @@
 
 ---
 
-### 16. みんなおばあちゃんち行った？
+### 18. みんなおばあちゃんち行った？
 **Author:** みなと
 
 #### Comments (6)
@@ -307,7 +331,7 @@
 
 ---
 
-### 17. 雑談
+### 19. 雑談
 **Author:** TENTENNTENN
 
 
@@ -323,7 +347,7 @@
 
 ---
 
-### 18. 学校ってみんなきらい俺台っきらい
+### 20. 学校ってみんなきらい俺台っきらい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (9)
@@ -344,7 +368,7 @@
 
 ---
 
-### 19. 夏休み楽しかった
+### 21. 夏休み楽しかった
 **Author:** みなと
 
 #### Comments (8)
@@ -364,7 +388,7 @@
 
 ---
 
-### 20. geometrydashの定員募集中（10人）
+### 22. geometrydashの定員募集中（10人）
 **Author:** ゆうと
 
 [https://forms.gle/MB8vdXJbKXKy2nG98](https://forms.gle/MB8vdXJbKXKy2nG98)
@@ -378,7 +402,7 @@
 
 ---
 
-### 21. 後ろ見ろ
+### 23. 後ろ見ろ
 **Author:** 犬
 
 #### Comments (1)
@@ -391,7 +415,7 @@
 
 ---
 
-### 22. ビデオ通話
+### 24. ビデオ通話
 **Author:** シラカバ
 
 学校嫌だ
@@ -414,7 +438,7 @@
 
 ---
 
-### 23. あ
+### 25. あ
 **Author:** シラカバ
 
 あ
@@ -434,7 +458,7 @@
 
 ---
 
-### 24. poki
+### 26. poki
 **Author:** 常闇 トワ（不地口手万ディ） (Fleeex)
 
 [Attachment 1](https://poki.io/)
@@ -446,7 +470,7 @@
 
 ---
 
-### 25. まだうごいてんのここwwwwwww
+### 27. まだうごいてんのここwwwwwww
 **Author:** 💍持ち #kgtとプロたんの囲い😙 (c_coa09)
 
 #### Comments (3)
@@ -461,7 +485,7 @@
 
 ---
 
-### 26. 一旦消しました
+### 28. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
 #### Comments (31)
@@ -542,7 +566,7 @@
 ### 2. _iov
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262499&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=U1F%2FQz6VD0hnq78ivDu3Tgu3uXlxhZpVAemejF3hisrQN9FIYGMYGqF5lhgR3s206CRNzS2saE75KSntl%2F6Ss5UtCwcDnK0AMBqbuR%2B%2Bw5qyIueXYDp2LXziS2VCp7Sc2q12v9rJwkbaiLWj%2FChDT9Ax5hVmC1lrKrWQBZwKGOysk5ENkK%2BUJeOJdTO7faGd4h6lwmVEandy%2Fa5riC7D8sl9UYdvvvV9wUJIfxaMpmbQN3gsNJDNjn1B8mtatIMKEomIdoGBw3ZF1uHaBweQv4BeXl4HkR4vq2SSqF%2Fu5oq2Vvuz4%2FiHS%2FfogMNkh8Mc53bBvIDk%2FMwnvsAC09AeYA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tVw6qIyVV4RhNloLNQ%2FbsWdh2aMxin6paX7IFtnQwggYb6bnlAQEqKth30SoEPfEzLR%2BMfv7hrtxa%2F%2FcpT0UgkjtqT4Q8ZY0cpRHBJDuMjw%2BGjLihBtejHXxgpa6INCoXJGXW5zk8UoOtx8%2B0RLofWgoUdSIsZZUL3lMqnkIL%2BK7WU8XxC5SNX3%2FCQUJNXvBc4p382r0KyIffZPp0Kj4aRq789dwhL0G8U7QuZYPvD49V5xe4xT6feHiPT%2BrviKTy6Wqg%2B0T%2FexDUvUILnIPDIpHnTi%2FZp9icojeu2MklbXWAfLAp84ruZsbTfKtUvamySSzgWn3F0tMuErn%2FITRrg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -554,7 +578,7 @@
 ### 3. Post 3
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262499&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=U1F%2FQz6VD0hnq78ivDu3Tgu3uXlxhZpVAemejF3hisrQN9FIYGMYGqF5lhgR3s206CRNzS2saE75KSntl%2F6Ss5UtCwcDnK0AMBqbuR%2B%2Bw5qyIueXYDp2LXziS2VCp7Sc2q12v9rJwkbaiLWj%2FChDT9Ax5hVmC1lrKrWQBZwKGOysk5ENkK%2BUJeOJdTO7faGd4h6lwmVEandy%2Fa5riC7D8sl9UYdvvvV9wUJIfxaMpmbQN3gsNJDNjn1B8mtatIMKEomIdoGBw3ZF1uHaBweQv4BeXl4HkR4vq2SSqF%2Fu5oq2Vvuz4%2FiHS%2FfogMNkh8Mc53bBvIDk%2FMwnvsAC09AeYA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tVw6qIyVV4RhNloLNQ%2FbsWdh2aMxin6paX7IFtnQwggYb6bnlAQEqKth30SoEPfEzLR%2BMfv7hrtxa%2F%2FcpT0UgkjtqT4Q8ZY0cpRHBJDuMjw%2BGjLihBtejHXxgpa6INCoXJGXW5zk8UoOtx8%2B0RLofWgoUdSIsZZUL3lMqnkIL%2BK7WU8XxC5SNX3%2FCQUJNXvBc4p382r0KyIffZPp0Kj4aRq789dwhL0G8U7QuZYPvD49V5xe4xT6feHiPT%2BrviKTy6Wqg%2B0T%2FexDUvUILnIPDIpHnTi%2FZp9icojeu2MklbXWAfLAp84ruZsbTfKtUvamySSzgWn3F0tMuErn%2FITRrg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -820,7 +844,7 @@
 ### 1. _pjg
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tVw6qIyVV4RhNloLNQ%2FbsWdh2aMxin6paX7IFtnQwggYb6bnlAQEqKth30SoEPfEzLR%2BMfv7hrtxa%2F%2FcpT0UgkjtqT4Q8ZY0cpRHBJDuMjw%2BGjLihBtejHXxgpa6INCoXJGXW5zk8UoOtx8%2B0RLofWgoUdSIsZZUL3lMqnkIL%2BK7WU8XxC5SNX3%2FCQUJNXvBc4p382r0KyIffZPp0Kj4aRq789dwhL0G8U7QuZYPvD49V5xe4xT6feHiPT%2BrviKTy6Wqg%2B0T%2FexDUvUILnIPDIpHnTi%2FZp9icojeu2MklbXWAfLAp84ruZsbTfKtUvamySSzgWn3F0tMuErn%2FITRrg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -832,7 +856,7 @@
 ### 2. _bik
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tVw6qIyVV4RhNloLNQ%2FbsWdh2aMxin6paX7IFtnQwggYb6bnlAQEqKth30SoEPfEzLR%2BMfv7hrtxa%2F%2FcpT0UgkjtqT4Q8ZY0cpRHBJDuMjw%2BGjLihBtejHXxgpa6INCoXJGXW5zk8UoOtx8%2B0RLofWgoUdSIsZZUL3lMqnkIL%2BK7WU8XxC5SNX3%2FCQUJNXvBc4p382r0KyIffZPp0Kj4aRq789dwhL0G8U7QuZYPvD49V5xe4xT6feHiPT%2BrviKTy6Wqg%2B0T%2FexDUvUILnIPDIpHnTi%2FZp9icojeu2MklbXWAfLAp84ruZsbTfKtUvamySSzgWn3F0tMuErn%2FITRrg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -844,7 +868,7 @@
 ### 3. _2td
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tVw6qIyVV4RhNloLNQ%2FbsWdh2aMxin6paX7IFtnQwggYb6bnlAQEqKth30SoEPfEzLR%2BMfv7hrtxa%2F%2FcpT0UgkjtqT4Q8ZY0cpRHBJDuMjw%2BGjLihBtejHXxgpa6INCoXJGXW5zk8UoOtx8%2B0RLofWgoUdSIsZZUL3lMqnkIL%2BK7WU8XxC5SNX3%2FCQUJNXvBc4p382r0KyIffZPp0Kj4aRq789dwhL0G8U7QuZYPvD49V5xe4xT6feHiPT%2BrviKTy6Wqg%2B0T%2FexDUvUILnIPDIpHnTi%2FZp9icojeu2MklbXWAfLAp84ruZsbTfKtUvamySSzgWn3F0tMuErn%2FITRrg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1299,7 +1323,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 1. _esw
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1311,7 +1335,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 2. _kn2
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1323,7 +1347,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 3. _nv5
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1469,7 +1493,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 1. _1fr
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1481,7 +1505,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 2. _vlr
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1493,7 +1517,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 3. _m6f
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1511,7 +1535,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Z7NX3mjc41YkW4ix8sNqYlJzaNfGwDVzfh8ZIDnY2ZtXIzaY1253ySsso941N6E8yCsyESzRRtgi9q0lZFGRPyXdxV03ZqqMgdn9e%2FWW13FifBOSylw%2B4e%2BWduii5Kzi68eOYiFsRVNhRquCrsDk8mFIx%2FXuBvR1XIECrX4MtToUTyZqRNu6wsnKcUrhK88nu6XHlFDL%2BCpjhjWiXNurKDxTWxKztgnAzj6gT9vRi3kwAQTgmU2o1HE1zsKQmTJFYNlxuHgdknrChvk5Igs22%2BwqEDMTuAwLWzzZhCJvpw3jKFq1JhJQYpcF%2BzlDck%2FLerXMNbGcoY5Wouzs1dCaQg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=guLaJRMA1NMN069Cp7q6urmQGLkzZMecly5lDFdvGNrhEny1AgHKOF4ngQHOHOkeDdbOLUFvpjzYel7Pn8vtQXCkfN22BFPdvxUDow0ay1gcGCrTNEvoPoW1pCy%2BimUOTQA%2Bc3YFxfWu%2FXHJAkTLlQQMnqMpYu09DcKK3soW1XJDj4rDg4Hl3Sz58CiCxoyGVoTXQueosYW1iFc075o5%2FBDc2%2B5axXpz8lCptnGrCm5KW5WxDfoL%2FZ0y%2FbfKaTqWOuyWwFsUSMrRnbPITlnOUjJlN3JF7ALGFpn9FdTv7MlWf2QPrLrdnLv51ocBDf%2FKAuaoxvXyrPEiW1piJ4ujbA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1568,7 +1592,7 @@ ID:shibboleth
 ### 1. _8zo
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1580,7 +1604,7 @@ ID:shibboleth
 ### 2. _1g9
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1592,7 +1616,7 @@ ID:shibboleth
 ### 3. _d2e
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1620,7 +1644,7 @@ ID:shibboleth
 ### 1. _13s
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1632,7 +1656,7 @@ ID:shibboleth
 ### 2. _uka
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1644,7 +1668,7 @@ ID:shibboleth
 ### 3. _e4x
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1658,7 +1682,7 @@ ID:shibboleth
 ### 1. _mah
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1670,7 +1694,7 @@ ID:shibboleth
 ### 2. _nzz
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1724,7 +1748,7 @@ ID:shibboleth
 ### 1. _pbl
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1736,7 +1760,7 @@ ID:shibboleth
 ### 2. _vwg
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1941,7 +1965,7 @@ ID:shibboleth
 ### 1. _gvl
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1953,7 +1977,7 @@ ID:shibboleth
 ### 2. _fkn
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -1965,7 +1989,7 @@ ID:shibboleth
 ### 3. _tig
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -2043,7 +2067,7 @@ ID:shibboleth
 ### 1. _y06
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789262500&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E3kSt9CSuKIzbBX0IxXPURiOxVMX%2FbtACxmlzTYSpydKWr39rfUt1xhivLgh1%2Bjz2jhsw2%2B6AeujPk0ipmV3cSQdWR%2FKkhuxteAzqMmvVnkLEKcMBtUB8k1%2B3rBzV6fMHnOB%2BdG8Wq7kBL5yn%2B0HKiMu48J1hz97%2FK4WWFDlSil0gk9v7iCMSoIJDyfr8gdF5wTz0jn5G%2BDX4ktEfjGLY9Z%2B1GR9%2BKog%2FIUl4vDRpPbfM0WkfgkjB%2FC5GCKv5v0Jz9GpGTbdt7gHnhbFkLxCGIG%2BQzuknDxytZfxDtxpv8Vmb3B485xiID%2B7%2BLl5TaIuRJTBSBWOEIXWv61k535apA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/8790ce5eecc0f1769cf6aebf2b322814/___3.gif?Expires=1789271304&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TxVMa93CqmacMiPdRltMXRA5r043TKfZTks87XAvVy7Wj38BAqDVQU%2BpvCpuEtH%2FYYf8ChpAUnHnklyTEJblefeZ6O8zCDj1h%2F%2BGXtQ26qFRE7YYpjTBxnKvg66uJbm7XxihaaLx5zt0dZcm%2Bo3iHcakfC%2FKPM6J%2FypVh348x7K%2FNzoMz46OtG3vqkU%2FqJZTck1CkpS0SgskrqAtTsUbsviuUe3GuFrFl9xa4hVkNyJpnnK3rLJ%2BX8iBglZoMymnjWeTQX%2Ba83Inx6TCnodhlT%2Fb0WKq6dXGMczxqktPGt4BXh92gjMlMABPiGMKrAIu0dWtGfZ4zwYmpx2JpctokQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F8790ce5eecc0f1769cf6aebf2b322814%2F___3.gif)
 
 #### Additional Information
 - **Post color:** White
