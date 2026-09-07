@@ -1,20 +1,20 @@
-最終取得: 2026/09/07 13:30:50
+最終取得: 2026/09/07 15:09:03
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 112
+- **Posts:** 119
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 07, 2026 04:30am
+- **Updated At:** Sep 07, 2026 06:06am
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789360327&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JpbU8rg6lxLiE6U8cCz%2FYPRzCMxdYQerU08bobpBjxYnv%2BvU0hmlSuQo2bhxTjt5F7dwTq7DDpERqwz3VFO4dJQIIQXIkJAh6djQAUXdYOoX92h3LSw1FhB6azsjJKHWzLdyPBhjmwVW458EXTXVeOJXEfwuVnlrJmRmvX9a9x3rmTd2H1KgPYjw0OhKlYNka9HbLC%2BOhg%2B1u3ZUc9776%2FjHv%2BHC8%2BbkA7TeJ914iquzSsfUnKC2r5ZmsjGNZNIumYYcPMQzt8SuZq7uLthETOdlgSKvNFbxfscWlthZNYy%2FTZZ8m7e0LX%2BAz7%2BSi%2BOoI9iec1xzSTRRPbymhDn0BA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789366223&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VzDb9VF6BjU7AfaeWJKNvIwI0l8bmPYAMjoDYniqQd8V5QTSwWdqSJpdkPwEj8vqvvcVBx8oXTVXFPyyJ1%2BjNCiAL0M6tnRiRHhmKYBzh2x2QbOGOUJWnW%2FBPBkYHPKeD6sE15C1YIQEZt30a9wmXudchhWHRweGXJ7UwzBRcKOaWVH6QUDebi8XmgEGz4EnJawDySeA8%2Fm%2FTVJ7BdITtip4ZE48iLqi0%2Fw1qElX%2FgW8NJHjWFtyZzxM0za0Pc4CpTaojG8RGi4lPhikPwgLi3K8WCjiXmiz0qexvdB7TBZVGZXxoB%2F6ND5CJ6beccq3%2BFHhrY2GIE9QpknNxabB6g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
 #### Comments (9)
 - **「篠田　虎珀」．** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
@@ -34,7 +34,41 @@
 
 ---
 
-### 2. 久しぶりに見にきたら、ここ荒れすぎだと思った
+### 2. お前らオタク
+**Author:** ハナノヒ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 07, 2026 06:06am
+- **Updated At:** Sep 07, 2026 06:06am
+
+---
+
+### 3. Post 3
+**Author:** バスケ大好きにき (2101021_18)
+
+[Attachment 1](https://padlet.com/2101021_18/padlet-q4lp8mlvakjrqb4z)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 07, 2026 04:46am
+- **Updated At:** Sep 07, 2026 04:46am
+
+---
+
+### 4. Post 4
+**Author:** バスケ大好きにき (2101021_18)
+
+[Attachment 1](https://padlet.com/2101021_18/padlet-q4lp8mlvakjrqb4z)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 07, 2026 04:45am
+- **Updated At:** Sep 07, 2026 04:45am
+
+---
+
+### 5. 久しぶりに見にきたら、ここ荒れすぎだと思った
 **Author:** おなべさん(新垢 (minecrft)
 
 #### Comments (1)
@@ -47,7 +81,7 @@
 
 ---
 
-### 3. Post 3
+### 6. Post 6
 **Author:** そーりー (999d3145fe729ae4)
 
 [Attachment 1](https://padlet.com/999d3145fe729ae4/padlet-s023b8kg6wqus53n0qnl)
@@ -59,7 +93,7 @@
 
 ---
 
-### 4. Post 4
+### 7. Post 7
 **Author:** ヒビキカゼ
 
 ｋ
@@ -71,7 +105,7 @@
 
 ---
 
-### 5. 規制突破の世界とは何ですか
+### 8. 規制突破の世界とは何ですか
 **Author:** サーモン
 
 
@@ -89,7 +123,7 @@
 
 ---
 
-### 6. 規制突破
+### 9. 規制突破
 **Author:** Nannka　Youtube (s1923051_1)
 
 #### Comments (18)
@@ -119,7 +153,7 @@
 
 ---
 
-### 7. Post 7
+### 10. Post 10
 **Author:** 覚醒のX (21070052_1)
 
 [Attachment 1](https://padlet.com/21070052_1/padlet-l9bx22n6f2mh56z5)
@@ -131,7 +165,7 @@
 
 ---
 
-### 8. ゲーム123
+### 11. ゲーム123
 **Author:** ｓ
 
 #### Comments (2)
@@ -145,7 +179,7 @@
 
 ---
 
-### 9. 大丈夫大丈夫大丈夫大丈夫大丈夫大丈夫↑なんか異変気づいた？
+### 12. 大丈夫大丈夫大丈夫大丈夫大丈夫大丈夫↑なんか異変気づいた？
 **Author:** 匿名
 
 #### Comments (7)
@@ -164,7 +198,7 @@
 
 ---
 
-### 10. 誰かいますか？
+### 13. 誰かいますか？
 **Author:** そーりー (999d3145fe729ae4)
 
 #### Comments (10)
@@ -186,7 +220,7 @@
 
 ---
 
-### 11. 明日学校雨でなくなるかもしれないマジで神
+### 14. 明日学校雨でなくなるかもしれないマジで神
 **Author:** えいこ
 
 #### Comments (8)
@@ -206,7 +240,7 @@
 
 ---
 
-### 12. Post 12
+### 15. Post 15
 **Author:** itokoとこtoko (r0245154)
 
 まじではいって
@@ -236,7 +270,7 @@
 
 ---
 
-### 13. よ
+### 16. よ
 **Author:** ヤクシカブト (s1923003_1)
 
 #### Comments (11)
@@ -262,7 +296,7 @@
 
 ---
 
-### 14. だる
+### 17. だる
 **Author:** Nannka　Youtube (s1923051_1)
 
 #### Comments (9)
@@ -283,7 +317,7 @@
 
 ---
 
-### 15. 今もずっと動いてる部屋教えてください人多いところがいいです
+### 18. 今もずっと動いてる部屋教えてください人多いところがいいです
 **Author:** ちゆ
 
 #### Additional Information
@@ -293,7 +327,7 @@
 
 ---
 
-### 16. チャット（ゆうと、みなと、れお、えいいち、まひろ）
+### 19. チャット（ゆうと、みなと、れお、えいいち、まひろ）
 **Author:** れお
 
 [https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing](https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing)
@@ -310,7 +344,7 @@
 
 ---
 
-### 17. 前の土日、何した？
+### 20. 前の土日、何した？
 **Author:** 港
 
 #### Comments (2)
@@ -324,7 +358,7 @@
 
 ---
 
-### 18. みんなおばあちゃんち行った？
+### 21. みんなおばあちゃんち行った？
 **Author:** みなと
 
 #### Comments (6)
@@ -342,7 +376,7 @@
 
 ---
 
-### 19. 雑談
+### 22. 雑談
 **Author:** TENTENNTENN
 
 
@@ -358,7 +392,7 @@
 
 ---
 
-### 20. 学校ってみんなきらい俺台っきらい
+### 23. 学校ってみんなきらい俺台っきらい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (9)
@@ -379,7 +413,7 @@
 
 ---
 
-### 21. 夏休み楽しかった
+### 24. 夏休み楽しかった
 **Author:** みなと
 
 #### Comments (8)
@@ -399,7 +433,7 @@
 
 ---
 
-### 22. geometrydashの定員募集中（10人）
+### 25. geometrydashの定員募集中（10人）
 **Author:** ゆうと
 
 [https://forms.gle/MB8vdXJbKXKy2nG98](https://forms.gle/MB8vdXJbKXKy2nG98)
@@ -413,7 +447,7 @@
 
 ---
 
-### 23. 後ろ見ろ
+### 26. 後ろ見ろ
 **Author:** 犬
 
 #### Comments (1)
@@ -426,7 +460,7 @@
 
 ---
 
-### 24. ビデオ通話
+### 27. ビデオ通話
 **Author:** シラカバ
 
 学校嫌だ
@@ -449,7 +483,7 @@
 
 ---
 
-### 25. あ
+### 28. あ
 **Author:** シラカバ
 
 あ
@@ -469,7 +503,7 @@
 
 ---
 
-### 26. poki
+### 29. poki
 **Author:** 常闇 トワ（不地口手万ディ） (Fleeex)
 
 [Attachment 1](https://poki.io/)
@@ -481,7 +515,7 @@
 
 ---
 
-### 27. まだうごいてんのここwwwwwww
+### 30. まだうごいてんのここwwwwwww
 **Author:** 💍持ち #kgtとプロたんの囲い😙 (c_coa09)
 
 #### Comments (3)
@@ -496,7 +530,7 @@
 
 ---
 
-### 28. 一旦消しました
+### 31. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
 #### Comments (31)
@@ -574,7 +608,19 @@
 
 ---
 
-### 2. めっちゃカメレオンください
+### 2. Post 2
+**Author:** ryan
+
+映画みたい
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 07, 2026 05:09am
+- **Updated At:** Sep 07, 2026 05:09am
+
+---
+
+### 3. めっちゃカメレオンください
 **Author:** ミモリ
 
 #### Additional Information
@@ -584,7 +630,7 @@
 
 ---
 
-### 3. Post 3
+### 4. Post 4
 **Author:** えいこ（あだ名です）
 
 [Attachment 1](https://planet.mblock.cc/gallery/2540)
@@ -599,10 +645,10 @@
 
 ---
 
-### 4. 原神やりたい
+### 5. 原神やりたい
 **Author:** バカでアホな天才
 
-#### Comments (7)
+#### Comments (8)
 - **Anonymous** (Sep 03, 2026 01:37pm): あっそ勝手にやっとけそれってもしかして誘ってる？変態かよ
 - **カマキリ** (Sep 05, 2026 02:30am): ゲームやリタイっていてルだけで誘ってる？って思ってんのきも
 - **Anonymous** (Sep 05, 2026 05:58am): ファっキュー
@@ -610,6 +656,7 @@
 - **カマキリ** (Sep 05, 2026 11:45am): あ、そう
 - **カマキリ** (Sep 05, 2026 11:45am): お前が勘違い下から教えてあげただけですが？
 - **エイティングボンバーデラックス** (Sep 05, 2026 10:29pm): 喧嘩やめ
+- **カマキリ** (Sep 07, 2026 05:45am): ごめんね
 
 #### Additional Information
 - **Post color:** White
@@ -618,7 +665,7 @@
 
 ---
 
-### 5. 原神
+### 6. 原神
 **Author:** バカでアホな天才
 
 #### Additional Information
@@ -628,7 +675,7 @@
 
 ---
 
-### 6. poki.com
+### 7. poki.com
 **Author:** シオホシ
 
 #### Additional Information
@@ -638,7 +685,7 @@
 
 ---
 
-### 7. Post 7
+### 8. Post 8
 **Author:** シオホシ
 
 [Attachment 1](https://blockblastunblocked.gitlab.io/game/99-balls.html)
@@ -650,7 +697,7 @@
 
 ---
 
-### 8. ゲームじゃないけど映画見れるよ
+### 9. ゲームじゃないけど映画見れるよ
 **Author:** うう
 
 [Attachment 1](https://sites.google.com/view/dominumnetworkv2/entertainment/m0v1es)
@@ -678,7 +725,7 @@
 
 ---
 
-### 9. ゲームサイト！！！！
+### 10. ゲームサイト！！！！
 **Author:** ツキミ
 
 #### Comments (1)
@@ -691,7 +738,7 @@
 
 ---
 
-### 10. やってみて
+### 11. やってみて
 **Author:** えいこ
 
 [Attachment 1](https://planet.mblock.cc/project/7857149)
@@ -718,7 +765,7 @@
 
 ---
 
-### 11. ブロックの解除方法知ってる人いたら教えて
+### 12. ブロックの解除方法知ってる人いたら教えて
 **Author:** えいこ
 
 #### Comments (6)
@@ -736,7 +783,7 @@
 
 ---
 
-### 12. マイクラ
+### 13. マイクラ
 **Author:** ナツヒカリ
 
 #### Comments (14)
@@ -762,7 +809,7 @@
 
 ---
 
-### 13. ゲームしたいゲームしたい
+### 14. ゲームしたいゲームしたい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (9)
@@ -783,7 +830,7 @@
 
 ---
 
-### 14. ゲームができるサイトよろブロスタとか
+### 15. ゲームができるサイトよろブロスタとか
 **Author:** ブロスタ
 
 #### Comments (5)
@@ -800,7 +847,7 @@
 
 ---
 
-### 15. 誰かあああああゲームのサイトできるだけほしいいいいいいいいいい
+### 16. 誰かあああああゲームのサイトできるだけほしいいいいいいいいいい
 **Author:** フミアト
 
 #### Comments (12)
@@ -826,7 +873,17 @@
 
 ## 要求
 
-### 1. 人狼ゲームのサイトください
+### 1. お前らオタク引きこもり歴１８年
+**Author:** ハナノヒ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 07, 2026 06:07am
+- **Updated At:** Sep 07, 2026 06:07am
+
+---
+
+### 2. 人狼ゲームのサイトください
 **Author:** 匿名
 
 #### Additional Information
@@ -836,7 +893,7 @@
 
 ---
 
-### 2. 喧嘩わここでやれ
+### 3. 喧嘩わここでやれ
 **Author:** かんかん (aaakjd44)
 
 #### Comments (2)
@@ -850,7 +907,7 @@
 
 ---
 
-### 3. 誰かいますか？
+### 4. 誰かいますか？
 **Author:** そーりー
 
 #### Comments (8)
@@ -870,7 +927,7 @@
 
 ---
 
-### 4. エロ部屋くれ
+### 5. エロ部屋くれ
 **Author:** 江戸を司るエロ
 
 エ⚪️部屋ってやつです
@@ -888,7 +945,7 @@
 
 ---
 
-### 5. めっちゃカメレオンください
+### 6. めっちゃカメレオンください
 **Author:** ミモリ
 
 #### Comments (5)
@@ -905,7 +962,7 @@
 
 ---
 
-### 6. いいですよ
+### 7. いいですよ
 **Author:** 焼き止めと
 
 #### Comments (1)
@@ -918,7 +975,7 @@
 
 ---
 
-### 7. いいっすねええ
+### 8. いいっすねええ
 **Author:** 匿名
 
 #### Additional Information
@@ -928,7 +985,7 @@
 
 ---
 
-### 8. 誰か一緒にお話しませんか？誰でもどうぞ！
+### 9. 誰か一緒にお話しませんか？誰でもどうぞ！
 **Author:** ソラハル
 
 みんなで、一緒に仲良く話しましょう。[https://scratch.mit.edu/projects/556926076/fullscreen/](https://scratch.mit.edu/projects/556926076/fullscreen/)
@@ -947,7 +1004,7 @@
 
 ---
 
-### 9. あ
+### 10. あ
 **Author:** チンアナゴ
 
 #### Comments (1)
@@ -960,7 +1017,7 @@
 
 ---
 
-### 10. エロ部屋くれ
+### 11. エロ部屋くれ
 **Author:** ツキノト
 
 #### Comments (18)
@@ -990,7 +1047,7 @@
 
 ---
 
-### 11. ロブロックスとYouTubeのリンク載せて
+### 12. ロブロックスとYouTubeのリンク載せて
 **Author:** マリオ
 
 #### Comments (1)
@@ -1003,7 +1060,7 @@
 
 ---
 
-### 12. ほかのゲームサイト乗せて
+### 13. ほかのゲームサイト乗せて
 **Author:** ツキミ
 
 #### Additional Information
@@ -1013,7 +1070,7 @@
 
 ---
 
-### 13. ゆうと、どうやってけすの？
+### 14. ゆうと、どうやってけすの？
 **Author:** 港
 
 #### Comments (1)
@@ -1026,7 +1083,7 @@
 
 ---
 
-### 14. インスタできるやつください
+### 15. インスタできるやつください
 **Author:** ０２２３
 
 #### Comments (1)
@@ -1039,7 +1096,7 @@
 
 ---
 
-### 15. 誰か軽いproxyくれ　ブロックされるやつでもいいから
+### 16. 誰か軽いproxyくれ　ブロックされるやつでもいいから
 **Author:** ノハルカ
 
 #### Comments (1)
@@ -1052,7 +1109,7 @@
 
 ---
 
-### 16. ジオメトリーダッシュ作ってください
+### 17. ジオメトリーダッシュ作ってください
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (3)
@@ -1067,7 +1124,7 @@
 
 ---
 
-### 17. Post 17
+### 18. Post 18
 **Author:** りゅう
 
 フォートナイトぽしいです
@@ -1083,7 +1140,7 @@
 
 ---
 
-### 18. アンダーテールぽしいです
+### 19. アンダーテールぽしいです
 **Author:** ああああ (h0319096_1)
 
 #### Comments (1)
@@ -1096,7 +1153,7 @@
 
 ---
 
-### 19. 流行語大賞２０２６ください
+### 20. 流行語大賞２０２６ください
 **Author:** ミズアメ
 
 #### Comments (1)
@@ -1109,7 +1166,7 @@
 
 ---
 
-### 20. いんすたないですか
+### 21. いんすたないですか
 **Author:** う
 
 #### Comments (4)
@@ -1125,7 +1182,7 @@
 
 ---
 
-### 21. お願い
+### 22. お願い
 **Author:** ナナシ
 
 エロい漫画見れるサイト教えて
@@ -1142,7 +1199,7 @@
 
 ---
 
-### 22. はやく！
+### 23. はやく！
 **Author:** ホシノキ
 
 性教育実習の漫画があるパドレットください
@@ -1158,7 +1215,7 @@
 
 ---
 
-### 23. 誰かpokiのサイト載せて
+### 24. 誰かpokiのサイト載せて
 **Author:** 匿名
 
 #### Comments (5)
@@ -1175,7 +1232,7 @@
 
 ---
 
-### 24. 誰かURL貼って動画見るやつ教えて
+### 25. 誰かURL貼って動画見るやつ教えて
 **Author:** ユメノ
 
 fernって名前のやつ　履歴消したらきえt
@@ -1193,7 +1250,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 25. 誰かエロ部屋くれ
+### 26. 誰かエロ部屋くれ
 **Author:** 匿名
 
 #### Comments (1)
@@ -1206,7 +1263,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 26. アニメ見れるサイト欲しい
+### 27. アニメ見れるサイト欲しい
 **Author:** 34b6kq
 
 違法サイトでも全然ええよ
@@ -1227,7 +1284,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 27. Post 27
+### 28. Post 28
 **Author:** でにでにろつとまん (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
@@ -1245,7 +1302,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 28. エロサイトくれ
+### 29. エロサイトくれ
 **Author:** スギノネ
 
 #### Comments (18)
@@ -1275,7 +1332,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 29. 至急！！！！！
+### 30. 至急！！！！！
 **Author:** スギノネ
 
 保健室のサイト　誰かほしいです！
@@ -1470,7 +1527,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789360328&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=K8eytnKAKFvaByJP3oVpvjbaiZ5izV1ieuXE06NfRtR9KZWYsWOiduUEnsBPMpxnvf9FXo%2B4afDSuaU%2FurktpPjBGU9rbMYhQu5AvWdgAcdIdsTIfZiBcsMYMZgIrvlVf3vJ3KTi%2BLmhwnNl%2Fd64qM7Abh%2BCFqwY1DH6oMrsjhFRoUaYjc3ET6lVAw9nC8eA4fsBp6eHNOjTlACtN8ArToRY8OxuCX6EXMyhO40NixNdUc5Tbc%2FSZjaT14m0LOExshN1nFn7qOVuuqzJSwKjZHgW3tMZTOXijc5ySXNwlaPY2U0uqBa%2FxWbwzpky0%2BaegBrhUPxasFlg%2BXJ6H4RyPQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789366223&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TXFEraNRrX%2BjrgVzGkBByxMHSQjuMSphSM2I8%2BDeJcjrqnHvCqGxBzxoCAFgKFOgm8t4b8gZ5LML4zS5AVo3qc97pTl6AtVvi08lZWjuvEuZlhxlPDwADtK0DwQfKA6IiCXH3pVbe87aVisQDMMR5fTFSlBbw79MtngvTsizUc1k298kShA%2BPQqrB9jjfvz1Ooa9NmapbzkhabDXWMKcPVt6ZYFsKs5RTPf2N3WLEXxH5SCXjRlzEcS8djpLXEchiqL7lEdmTRPhfwbBQAZnUppwXwqlyYEg92D%2FjmOwfjF6NoJvi6WHbK3zjCsmO5OFkjQknnUXppIDejZ2Fu3T3Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1592,37 +1649,44 @@ No post
 
 ## youtube
 
-### 1. こんにちは
+### 1. Youtubeください
+**Author:** Nannka　Youtube (s1923051_1)
+
+#### Comments (1)
+- **ぐぐがが** (Sep 07, 2026 05:21am): 俺見れるよ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 07, 2026 05:20am
+- **Updated At:** Sep 07, 2026 05:20am
+
+---
+
+### 2. こんにちは
 **Author:** ゆうとでーす
 
 ムービアリンク貼ってくれませんがお願いします
 
-#### Comments (5)
+#### Comments (14)
 - **わらびもち** (Sep 07, 2026 02:38am): こいつに教えないほうがいいですよ
 - **ゆうとでーす** (Sep 07, 2026 02:38am): 誰か貼って
 - **わらびもち** (Sep 07, 2026 02:39am): こいつに教えたら規制されます
 - **匿名** (Sep 07, 2026 03:15am): シアチューブで我慢しとけ
 - **ミズカ** (Sep 07, 2026 04:19am): 教えてください
+- **匿名** (Sep 07, 2026 04:32am): いいよしあtube
+- **ゆうとでーす** (Sep 07, 2026 04:35am): 違
+- **ゆうとでーす** (Sep 07, 2026 04:35am): ムービア教えてくれるって約束したお前と
+- **ゆうとでーす** (Sep 07, 2026 04:37am): え◯◯う◯ひろ
+- **ユメミズ** (Sep 07, 2026 04:51am): ん？え◯◯う◯ひろってだれ？
+- **ずずず** (Sep 07, 2026 04:52am): う
+- **ゆうとでーす** (Sep 07, 2026 04:55am): えん◯うま◯ろ
+- **ツヅミ** (Sep 07, 2026 05:05am): ？？だれ？？
+- **わらびもち** (Sep 07, 2026 05:09am): コンニチハ
 
 #### Additional Information
 - **Post color:** White
 - **Created At:** Sep 07, 2026 02:34am
 - **Updated At:** Sep 07, 2026 02:34am
-
----
-
-### 2. ↓1番下注目！↓
-**Author:** カマキリ (00221133)
-
-#### Comments (3)
-- **カマキリ** (Sep 05, 2026 02:24am): それか上の検索マーク（虫眼鏡）でカマキリって打ったらいける
-- **カマキリ** (Sep 05, 2026 11:54am): あー俺これ普通にぱって思いついた名前にしただけやで
-- **カマキリ** (Sep 05, 2026 11:55am): 勝手に決めつけないでね♪
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Sep 05, 2026 02:24am
-- **Updated At:** Sep 05, 2026 02:24am
 
 ---
 
@@ -1643,9 +1707,10 @@ No post
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=MFwtpM21wWc)
 
-#### Comments (2)
+#### Comments (3)
 - **ジュッセンパイヤー** (Sep 04, 2026 03:37am): お前やりますねスギィ！
 - **Anonymous** (Sep 04, 2026 06:01am): Фиолетовые огурцы танцевали вальс на вершине невидимого холодильника, пока квадратные облака пели песни о ржавых велосипедах. Вдруг прилетел деревянный дерижабль, наполненный жидким какао, и прокричал: «Где моя левая пятка, господа кабачки?!» Никто не ответил, потому что все были заняты чтением прошлогодних газет на марсианском языке внутри летающего чайника. Часы пробили тридцать два градуса по Цельсию, и все пластиковые ложки дружно улетели на юг, оставив после себя лишь лёгкий аромат жареных гитарных струн и фиолетовых мыслей.
+- **ぐぐがが** (Sep 07, 2026 05:22am): は￥
 
 #### Additional Information
 - **Post color:** White
@@ -1764,7 +1829,7 @@ No post
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=tfMneb7nGbY)
 
-#### Comments (28)
+#### Comments (19)
 - **Anonymous** (Aug 29, 2026 12:39am): 誰かマエスケの動画ちょうだい 
 - **えいこ** (Sep 01, 2026 12:40am): ホンマにマエスケの動画くれ
 - **カゼドリ** (Sep 01, 2026 06:19am): マインクラフト史上一番怖いMODを入れたら..www.youtube.com › watch
@@ -1781,18 +1846,9 @@ No post
 - **やいやい** (Sep 04, 2026 12:58pm): うんこおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお
 - **Anonymous** (Sep 04, 2026 03:22pm): その「うんこおお………」という極めてプリミティブで内省的な独り言、もしかして最先端の海外の表現手法とでも勘違いされているのですか。21世紀のグローバル社会において、排泄物の単語を大声で叫ぶことが知的洗練や既存のタブーに対する反骨精神だと信じ込んでいるそのアップデートされていない感性こそが、最大の滑稽さですよ。ボーダレスな現代において、ローカルな掲示板でその幼児的な承認欲求をただ垂れ流し続ける姿は、反感を買うというより、もはや哀れな生態系の一コマとして静かに観察したくなるレベルです。もう少し世界基準のユーモアや文脈を学ばれてはいかがですか。
 - **イセビ** (Sep 05, 2026 02:11am): 正論すぎて草
-- **カマキリ** (Sep 05, 2026 02:22am): おいyoutubeを見てぇ奴らyoutube見れるダウンローダーやるよ
-- **カマキリ** (Sep 05, 2026 02:22am): 俺の部屋来てくれよ
-- **カマキリ** (Sep 05, 2026 02:22am): https://padlet.com/00221133/padlet-9otqidpsq2a33sru俺の部屋
-- **カマキリ** (Sep 05, 2026 02:23am): https://transcript.lol/tools/youtube-mp4-downloaderYoutubeだ
 - **Anonymous** (Sep 05, 2026 06:36am): カマキリうざい
 - **Anonymous** (Sep 05, 2026 07:35am): 規制かかるぞ
 - **Anonymous** (Sep 05, 2026 08:48am): 「規制かかるぞ」自作自演で草
-- **カマキリ** (Sep 05, 2026 11:45am): まぁそりゃ地区によっちゃ規制も違うやろ
-- **カマキリ** (Sep 05, 2026 11:45am): そんなのもわからないのかな？
-- **カマキリ** (Sep 05, 2026 11:50am): 一様まだあるけどさ
-- **カマキリ** (Sep 05, 2026 11:51am): それも君たちは無理だと思うからやめとくよ！
-- **カマキリ** (Sep 05, 2026 11:53am): あと別にお前ら数人のために渡したわけじゃないし見れる人もおるかもしれへんからリンク貼っただけやで
 
 #### Additional Information
 - **Post color:** White
@@ -1803,7 +1859,19 @@ No post
 
 ## TikTok
 
-### 1. ある日きゅうにみえなくなった
+### 1. Post 1
+**Author:** 救世主
+
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789366223&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=S8%2BIZFIvi0Kb83w%2Fs4mjvoo8DXOuWhVMr238muFJXwh9JYRyQdtSY2RRlFGpvBbNJPZKg05sVJOZnn1vHS0MWkg9l6Rva8Niv8LVK36HlN6VVZPUuykS9tKr6YmrQm6ZNWK4NOybIlfB6XJJtV7zBcj6zlvDEoXXyauD4VmjZ194X7522TXcWz8XuDhJhvqs3R1RQQ9ZmiVbSJeN6MZ7I0gHntr%2FoDiyovK7Cobn3X4i%2FOPK6NK7BgXi0kZkW04Ps8lIXC8D%2Fw42p23OPm6R8MhlwOvvZTA4TLDTZyQkt75pGlIgnC6rIIPc5aqGQN8ttHnlr48AUAEOtvDBnHfGew%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 07, 2026 05:30am
+- **Updated At:** Sep 07, 2026 05:30am
+
+---
+
+### 2. ある日きゅうにみえなくなった
 **Author:** チンアナゴ
 
 
@@ -1818,7 +1886,7 @@ No post
 
 ---
 
-### 2. ティクットック見れるのください
+### 3. ティクットック見れるのください
 **Author:** ゴリラ
 
 💩
@@ -1876,7 +1944,19 @@ No post
 
 ## 宣伝
 
-### 1. こい
+### 1. Post 1
+**Author:** run (11324130)
+
+[Attachment 1](https://padlet.com/11324130/padlet-14581bzu81lq98jp)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 07, 2026 05:27am
+- **Updated At:** Sep 07, 2026 05:27am
+
+---
+
+### 2. こい
 **Author:** Outpost Keeper
 
 [Attachment 1](https://padlet.com/akiramenaidedonnatokimo/padlet-kerg40vcf1nvu3eh?lang=ja)
@@ -1888,7 +1968,7 @@ No post
 
 ---
 
-### 2. 匿名掲示板やぞ。拡散しまくってほしい。
+### 3. 匿名掲示板やぞ。拡散しまくってほしい。
 **Author:** おなべさん(新垢 (minecrft)
 
 匿名こそ正義って思ってる奴は絶対こい。
@@ -1902,7 +1982,7 @@ No post
 
 ---
 
-### 3. Post 3
+### 4. Post 4
 **Author:** ユキワタ
 
 [Attachment 1](https://padlet.com/298344445/padlet-jibykjil8dz23tn7/wish/9kmlZV5v2nyeQpgV)
@@ -1914,7 +1994,7 @@ No post
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** ユキワタ
 
 [Attachment 1](https://padlet.com/298344445/padlet-jibykjil8dz23tn7/wish/9kmlZV5v2nyeQpgV)
@@ -1929,7 +2009,7 @@ No post
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** 覚醒のX (21070052_1)
 
 [Attachment 1](https://padlet.com/21070052_1/padlet-s02391231k9ovta9c99h)
@@ -1945,7 +2025,7 @@ No post
 
 ---
 
-### 6. みんな来てー
+### 7. みんな来てー
 **Author:** ぼちぼちいこか愛好家 (2101038_5)
 
 来てくれ
@@ -1962,7 +2042,7 @@ No post
 
 ---
 
-### 7. こい
+### 8. こい
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://padlet.com/team_otomodachi/proxy-mu2o69gm2ch9o6zx)
@@ -1974,7 +2054,7 @@ No post
 
 ---
 
-### 8. 絶対に来たほうがいいよ。きたら自己紹介よろしく！！
+### 9. 絶対に来たほうがいいよ。きたら自己紹介よろしく！！
 **Author:** mbappe♯つつきの森1番弟子♯狂鳥族２代目♯つつきの森と同盟中♯青の風と同盟中 (akiramenaidedonnatokimo)
 
 [Attachment 1](https://padlet.com/akiramenaidedonnatokimo/padlet-kerg40vcf1nvu3eh?lang=ja)
@@ -1992,7 +2072,7 @@ No post
 
 ---
 
-### 9. 復旧お願いします！
+### 10. 復旧お願いします！
 **Author:** 常時暇人のたけさん#T-72B3M&Su-30MKIの右腕 (JPsan)
 
 [Attachment 1](https://padlet.com/JPsan/padlet-11oe0dlx9vsegwya?lang=ja)
@@ -2004,7 +2084,7 @@ No post
 
 ---
 
-### 10. Post 10
+### 11. Post 11
 **Author:** ミソラノ
 
 [Attachment 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
@@ -2016,7 +2096,7 @@ No post
 
 ---
 
-### 11. みんなきてね
+### 12. みんなきてね
 **Author:** 仙人@suger (sennin_sugar)
 
 https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQozfVOY7UPTBkpqfD\_-fwTwn\_kxxLOg/exec
@@ -2028,7 +2108,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 12. Post 12
+### 13. Post 13
 **Author:** 犬
 
 [Attachment 1](https://padlet.com/00221133/padlet-9otqidpsq2a33sru)
@@ -2045,7 +2125,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 13. Post 13
+### 14. Post 14
 **Author:** 1001さん (Haraitai)
 
 ここオンラインゲームがあるよ！
@@ -2059,7 +2139,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 14. 江口 ー さんずい
+### 15. 江口 ー さんずい
 **Author:** 34b6kq
 
 イイ漫画がきっと見つかる
@@ -2076,7 +2156,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 15. セックスしたいやつなんか書いて
+### 16. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
 #### Comments (21)
@@ -2112,7 +2192,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 16. ゲーム出せセックス
+### 17. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
 #### Comments (13)
