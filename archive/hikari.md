@@ -1,4 +1,4 @@
-最終取得: 2026/09/07 15:09:03
+最終取得: 2026/09/07 21:40:41
 
 # プロキシ本部
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/qwertyuiopasdfghjklzxcvbnm5671091/padlet-afg5jcs1w4yyk2h1
 - **Builder:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-- **Posts:** 6
+- **Posts:** 7
 - **Created At:** May 09, 2025 01:39am
-- **Updated At:** Sep 07, 2026 05:18am
+- **Updated At:** Sep 07, 2026 10:29am
 
 ## 現在の状況
 
@@ -27,7 +27,7 @@
 ### 1. 必ずルールを読んでね
 **Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
 
-・新規は自己紹介してください。自己紹介を確認できた人はライターにします
+・新規は自己紹介してください。
 
 ・荒らし行為なし
 
@@ -41,7 +41,7 @@
 
 #### Additional Information
 - **Created At:** Sep 02, 2026 08:12am
-- **Updated At:** Sep 02, 2026 08:14am
+- **Updated At:** Sep 07, 2026 10:28am
 
 ---
 
@@ -50,12 +50,13 @@
 ### 1. ここのコメントに自己紹介してね
 **Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
 
-#### Comments (5)
+#### Comments (6)
 - **Hakumai_dayo** (Sep 04, 2026 03:34am): 最近eaglercraft始めました よろしくお願いします
 - **Hakumai_dayo** (Sep 04, 2026 06:16am): https://voya.noordware.com/
 - **Hakumai_dayo** (Sep 04, 2026 06:17am): https://triplet.expertdiagnoza.ro/
 - **𝕀ℕ𝔽𝕀ℕ𝕀𝕋𝕐໒꒱** (Sep 04, 2026 12:02pm): Hello.　　　　　　　　　　　　　　めちゃ久しぶりですねｗ、改めて宜しくお願いします。
 - **0b1001** (Sep 07, 2026 05:18am): 久しぶりに来ましたよろしくお願いします
+- **光の忍者** (Sep 07, 2026 10:29am): よろしくー　　　　　　　　　　　　宣伝してくれるとめちゃ助かる
 
 #### Additional Information
 - **Created At:** Sep 02, 2026 08:45am
@@ -76,7 +77,22 @@
 
 ## 雑談
 
-### 1. みんなきてね。宣伝してくれると助かる
+### 1. Post 1
+**Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
+
+最近Eaglercraftめっちゃハマってる！
+
+おすすめのサーバーとかあったら教えてー
+
+自分はTuffNetでやってるよー
+
+#### Additional Information
+- **Created At:** Sep 07, 2026 10:26am
+- **Updated At:** Sep 07, 2026 10:26am
+
+---
+
+### 2. みんなきてね。宣伝してくれると助かる
 **Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
 
 #### Additional Information
