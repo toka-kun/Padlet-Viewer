@@ -1,4 +1,4 @@
-最終取得: 2026/09/08 07:47:27
+最終取得: 2026/09/08 08:47:08
 
 # 規制突破の世界
 
@@ -7,14 +7,14 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 126
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 07, 2026 10:29pm
+- **Updated At:** Sep 07, 2026 11:44pm
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789426107&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=w6Ga%2FNaq0e4NJvzQXpKBUkoUMwxCLWTFYnFc34q5VaXe8bVeLGJIIgC8HwsVLS4KdRqIjXyCCQHZtnHdc6TWjqkIldA9yIZGNQKBpOOe9EUtaY8qGdq%2BJpHyk5fq1%2Bok7zAUPM8fOPISDPMc0Dx6JkuWw0WVOrTbwp2iNSr35VOu6l%2BthMi3z5krWHwLA%2BgMqP05%2BIPzQ6KWkeEfPrffg4xcCvoyzkeg5NWZstSKNmMntUXb%2Bf%2BIZDAu%2FG66Qi0PXycO5PJpzmy%2F%2FO%2B7gbuAAeB4m5CAkVZmCLFHQDIy%2BBdN46r5gfHcWT403%2B8Q%2FgQCJc8DRT%2FlYZmbNwVgvsMaSQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789429706&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qeOllcCVf%2Bt6p4lU3Vk%2FLJqZqM3cTum1TY5nwn9TwCDmg4wi62%2F%2F5UbjuDZsBCYdC66pE0K2a7LnaU%2Bi1YZ2swBA%2BpHDOO9Uozc3x0QV5OgmBG6t78jp2G%2FDDg3doMtMTJfZ2ZiR8uqVT6gmHePsXqIVH4Tz6K1EhzzZueqg2W1CbA4gaUqjWQI5be47RtvQQFnOvCDlgrTGFqjNc9m1LDce26bxYadt1iiC0HOyW2DeLPGHVX77pyA3%2BPTcCF5Uspc3CJnnQPCW2VvG64Mg1ao7za5V7hyy0efKAUDB2BdyLFoRIOPA2NPpVD%2FFm1NaIMOp9dh%2FCZiD8%2FHxt55%2Fnw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
 #### Comments (11)
 - **清水** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
@@ -752,7 +752,7 @@
 
 [Attachment 1](https://sites.google.com/view/dominumnetworkv2/entertainment/m0v1es)
 
-#### Comments (15)
+#### Comments (16)
 - **ぴる** (Sep 03, 2026 02:05am): え神すぎるズートピアとかホラー映画みれるのやばい
 - **Anonymous** (Sep 03, 2026 03:13am): 見たい
 - **Anonymous** (Sep 03, 2026 03:14am): ていうかここマザーファッカーしかいないのかよ笑
@@ -768,6 +768,7 @@
 - **カマキリ** (Sep 05, 2026 11:55am): これで満足かな？
 - **わ** (Sep 07, 2026 12:43am): えなんでおこってるんですか
 - **カマキリ** (Sep 07, 2026 12:29pm): まじで全く怒ってないで
+- **わ** (Sep 07, 2026 11:40pm): 匿名の人です！！急に警察通報したろかとかいいだしたのでなんでかなって思って
 
 #### Additional Information
 - **Post color:** White
@@ -1627,7 +1628,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789426107&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UhIamR0yv2xRGWKHSS1KLrOVqtSdhyiKoIF1rOzFlfvFBqxgxdmmesS1ylV3f64U4lBUb8JQM%2BVJzKoJTIQHDEpiFlqkmA%2Bh20ZbKW8JPsn2I2oBRUlpFvcBNo8Lqrx1l3UMAGtunTYbut0R1EmC7HIipnmxzq2l%2BSItZEbyR%2BQr6%2F%2FTDukxwL1LGZlku7fSAyLQS8m0HZGVRkaXvyB3QUc8Nrh5m1WooXKD0l1A3AienJQCTfPpERqJofMWnuJy9SOsZi1ul8SNqgR358XOkWSPyGzJ9XEoVMLupDBFH8MbSqo9JrZ5oaBVTDkT3iMkeCN5QhyNtHfZpwz5icbzrA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789429706&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=C8yFkLfC7quUt1uSbSP9VJ76YD%2FoqJ0G0yVj04kFQrEqVTYjSb%2FxaNJ0Qzdl50BA6IPplZM0fWhjUyVsRkNu%2FYvXq%2FRjp5%2Bgbf0ouQDMJ2%2BMhBu%2FbEPPKhMo%2FlbfSCokiwgovy6uKMxC03tE8ltYUu9JP4ukS%2FZG3yDcRvXC1oYszEsMjUDrXv7SIQF3hAzqgItG1iNsTxzB8F%2BFkdYNPs7hF0SpDd3%2BLLzcCkxqUPQgiebi9a7ltirTxkSY%2F8MEnYWsILf4UXOZCOgf%2FFhsndnOxLPn6nWXWJ3bm9DX8Ha4s5prtlmCmM6Z0lSjqOl4A2inglY5nJLrtT7MOn%2FT8Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1771,7 +1772,7 @@ No post
 
 ムービアリンク貼ってくれませんがお願いします
 
-#### Comments (21)
+#### Comments (23)
 - **わらびもち** (Sep 07, 2026 02:38am): こいつに教えないほうがいいですよ
 - **ゆうとでーす** (Sep 07, 2026 02:38am): 誰か貼って
 - **わらびもち** (Sep 07, 2026 02:39am): こいつに教えたら規制されます
@@ -1793,6 +1794,8 @@ No post
 - **ミネビ** (Sep 07, 2026 07:29am): 中山◯◯あっ！もう言ってた〜ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
 - **ミネビ** (Sep 07, 2026 07:29am): ごっめえんｗｗｗｗｗｗｗｗｗｗｗ
 - **Anonymous** (Sep 07, 2026 11:27am): キショ
+- **ミチノク** (Sep 07, 2026 10:50pm): ミネビきしょくね？
+- **アオツバメ** (Sep 07, 2026 11:44pm): それ以上言うな
 
 #### Additional Information
 - **Post color:** White
@@ -1974,7 +1977,7 @@ No post
 ### 1. Post 1
 **Author:** 救世主
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789426107&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=s1BdGAuvQqZgpDgD8KfNZk%2FQdOVka%2Fd%2BnrNNK7L1Fddwtc9ruD7sfv4qLZZgk2Uq7fVWP4%2F6pz9Brjc6977k%2F04bcKLm3VDoDqx5T3x6zpLzhRHhAREvIB9jRdohN43nbrx149WJ4Ybt45GNO%2FeeF5lPkt%2B%2B0R%2FVUSwnF1i3RIk%2B%2BPCwlVMStacC%2BHZlPfjxv2TUVpUWH%2B4XAgCPS%2FU9PATwmI35mjQj9HrDjAKV%2BlguTjgXnaI%2FcGFm8N4xpoTCxR%2FsPblje5DTJnES%2BqMynavPyYZfOPZzkhcjWG0NdOFvnStbw9%2FG02SbbSBTE3kghkvyJifXwYA3tBtdo2R%2F0Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789429707&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fI9gSrKZAZEdAyAdUr8ZdZjvdtc0qQPwqDAVYGx4h8avHcpeJS12k7GHxVLgFqUSvPDj4Fy6z2n2QS8Wy8yZQO%2Bf7PYx0xjrMHSvAilUPYwguPYSAOAeuki7PjLn3YVjafot1rUdIG4wG%2FXOcaHw2aAccWhKbnSbFkOfksGYHX%2BNJdkfKxa633ohr57btK6xOstekqSuErVe8tTOSerpBTTwsutXQt5hPPoKdHZvcAFRWJx2Vv32QfIhzRlNXkj6S8M0X3bajnaqSqT9p4TufRlsoPm81fBi73Pcq98hbQQ4jcdD9L%2BvKdxpr59CIR0UVZceveTqB%2BZTrF0JccqDMA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
 
 #### Additional Information
 - **Post color:** White
