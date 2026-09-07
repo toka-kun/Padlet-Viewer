@@ -1,22 +1,22 @@
-最終取得: 2026/09/07 10:13:19
+最終取得: 2026/09/07 13:30:50
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 109
+- **Posts:** 112
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 07, 2026 01:11am
+- **Updated At:** Sep 07, 2026 04:30am
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789348450&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YwdnFnTrrWKzfuDRkSEfp1BSPofKO2MFfcf8YixqkKDxBFiAyofjv58utc%2FSCFcsa%2Bi1UnBAUDJItW69OsNN3ySXX3ojSNMrj6UsnMjZMhdCEymv1WrpwMuGQWs4rr%2FcTfaJ67FxBDobwe9KMV2HTZZDjJkRTBJdklJI7TWHLXb3xTVhOyuAPkddB6eo8gypFT0Y%2BhBGsxf%2Bvcpr6mPYzJAU6WKWdGhcdl3DBh74rp2MtuONutl4%2Bg7PhKo8R5%2Bulwt5XnqGQr5FTXJrXdvEMGLL7SZgnkWm8PhDN9f0TuCdh0EzO%2BOMzQ1jERKogi%2Bsn68Zbo%2BnZfiI9MqdQrZpVQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789360327&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JpbU8rg6lxLiE6U8cCz%2FYPRzCMxdYQerU08bobpBjxYnv%2BvU0hmlSuQo2bhxTjt5F7dwTq7DDpERqwz3VFO4dJQIIQXIkJAh6djQAUXdYOoX92h3LSw1FhB6azsjJKHWzLdyPBhjmwVW458EXTXVeOJXEfwuVnlrJmRmvX9a9x3rmTd2H1KgPYjw0OhKlYNka9HbLC%2BOhg%2B1u3ZUc9776%2FjHv%2BHC8%2BbkA7TeJ914iquzSsfUnKC2r5ZmsjGNZNIumYYcPMQzt8SuZq7uLthETOdlgSKvNFbxfscWlthZNYy%2FTZZ8m7e0LX%2BAz7%2BSi%2BOoI9iec1xzSTRRPbymhDn0BA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
-#### Comments (8)
+#### Comments (9)
 - **「篠田　虎珀」．** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
 - **「篠田　虎珀」．** (Sep 06, 2026 12:51pm): あと2日くらいずっとクラッシュしてた
 - **かぼちゃ** (Sep 06, 2026 01:24pm): まあこれだけなら良かったけど他にも匿名は色々と長文とかコメントでうざいんですよね
@@ -25,6 +25,7 @@
 - **常時暇人のたけさん#T-72B3M&Su-30MKIの右腕** (Sep 07, 2026 12:19am): 草
 - **常時暇人のたけさん#T-72B3M&Su-30MKIの右腕** (Sep 07, 2026 12:20am): てかかぼちゃさーんモデレーターになりたいです！！！
 - **でにでにろつとまん** (Sep 07, 2026 01:02am): 匿名禁止にしちゃえばいいのに誰のおかげでこのスペースがあると思ってんだよマジで
+- **シンメ** (Sep 07, 2026 01:15am): 匿名うざすぎしね
 
 #### Additional Information
 - **Post color:** Red
@@ -75,10 +76,11 @@
 
 
 
-#### Comments (3)
+#### Comments (4)
 - **カマキリ** (Sep 05, 2026 02:29am): パド
 - **そーりー** (Sep 05, 2026 08:00am): 草
 - **Anonymous** (Sep 05, 2026 08:17am): 糞の回収場
+- **Anonymous** (Sep 07, 2026 02:11am): 暇人&小学生の集まり
 
 #### Additional Information
 - **Post color:** White
@@ -824,11 +826,22 @@
 
 ## 要求
 
-### 1. 喧嘩わここでやれ
+### 1. 人狼ゲームのサイトください
+**Author:** 匿名
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 07, 2026 04:30am
+- **Updated At:** Sep 07, 2026 04:30am
+
+---
+
+### 2. 喧嘩わここでやれ
 **Author:** かんかん (aaakjd44)
 
-#### Comments (1)
+#### Comments (2)
 - **かんかん** (Sep 06, 2026 11:29pm): いいか
+- **haru** (Sep 07, 2026 02:13am): 07245451919
 
 #### Additional Information
 - **Post color:** White
@@ -837,10 +850,10 @@
 
 ---
 
-### 2. 誰かいますか？
+### 3. 誰かいますか？
 **Author:** そーりー
 
-#### Comments (7)
+#### Comments (8)
 - **そーりー** (Sep 05, 2026 08:13am): いるよなー
 - **そーりー** (Sep 05, 2026 08:13am): 返事して
 - **ミネノ** (Sep 05, 2026 08:23am): いますよ〜
@@ -848,6 +861,7 @@
 - **シンメ** (Sep 06, 2026 04:28am): オタクだまれきもいしね
 - **おなべさん(新垢** (Sep 06, 2026 05:54pm): 痛いことしたらそりゃそうなる…人によるからそう決めつけないけど
 - **でにでにろつとまん** (Sep 07, 2026 12:58am): 痛いじゃんやめたって
+- **わらびもち** (Sep 07, 2026 03:04am): きも
 
 #### Additional Information
 - **Post color:** White
@@ -856,7 +870,7 @@
 
 ---
 
-### 3. エロ部屋くれ
+### 4. エロ部屋くれ
 **Author:** 江戸を司るエロ
 
 エ⚪️部屋ってやつです
@@ -874,7 +888,7 @@
 
 ---
 
-### 4. めっちゃカメレオンください
+### 5. めっちゃカメレオンください
 **Author:** ミモリ
 
 #### Comments (5)
@@ -891,7 +905,7 @@
 
 ---
 
-### 5. いいですよ
+### 6. いいですよ
 **Author:** 焼き止めと
 
 #### Comments (1)
@@ -904,7 +918,7 @@
 
 ---
 
-### 6. いいっすねええ
+### 7. いいっすねええ
 **Author:** 匿名
 
 #### Additional Information
@@ -914,7 +928,7 @@
 
 ---
 
-### 7. 誰か一緒にお話しませんか？誰でもどうぞ！
+### 8. 誰か一緒にお話しませんか？誰でもどうぞ！
 **Author:** ソラハル
 
 みんなで、一緒に仲良く話しましょう。[https://scratch.mit.edu/projects/556926076/fullscreen/](https://scratch.mit.edu/projects/556926076/fullscreen/)
@@ -933,7 +947,7 @@
 
 ---
 
-### 8. あ
+### 9. あ
 **Author:** チンアナゴ
 
 #### Comments (1)
@@ -946,10 +960,10 @@
 
 ---
 
-### 9. エロ部屋くれ
+### 10. エロ部屋くれ
 **Author:** ツキノト
 
-#### Comments (14)
+#### Comments (18)
 - **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
 - **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
 - **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
@@ -964,6 +978,10 @@
 - **Anonymous** (Sep 03, 2026 05:55am): わしゃもう20歳じゃよ」って送った人だよワイの名前　ホシウタです〜
 - **おなべさん(新垢** (Sep 06, 2026 05:56pm): 気づかんかった
 - **シンメ** (Sep 07, 2026 12:26am): おなべしねどうせニートやろ
+- **おなべさん(新垢** (Sep 07, 2026 03:00am): うちはニートじゃなくて受験生やて！決めつけんといて
+- **おなべさん(新垢** (Sep 07, 2026 02:57am): 授業でよくタブレット使うから、二画面にして同時にパドやっとるだけ
+- **おなべさん(新垢** (Sep 07, 2026 02:58am): しねは気にしてないけど
+- **おなべさん(新垢** (Sep 07, 2026 03:00am): うちニートじゃない…（ニートを悪く言ってるみたいですまん
 
 #### Additional Information
 - **Post color:** White
@@ -972,7 +990,7 @@
 
 ---
 
-### 10. ロブロックスとYouTubeのリンク載せて
+### 11. ロブロックスとYouTubeのリンク載せて
 **Author:** マリオ
 
 #### Comments (1)
@@ -985,7 +1003,7 @@
 
 ---
 
-### 11. ほかのゲームサイト乗せて
+### 12. ほかのゲームサイト乗せて
 **Author:** ツキミ
 
 #### Additional Information
@@ -995,7 +1013,7 @@
 
 ---
 
-### 12. ゆうと、どうやってけすの？
+### 13. ゆうと、どうやってけすの？
 **Author:** 港
 
 #### Comments (1)
@@ -1008,7 +1026,7 @@
 
 ---
 
-### 13. インスタできるやつください
+### 14. インスタできるやつください
 **Author:** ０２２３
 
 #### Comments (1)
@@ -1021,7 +1039,7 @@
 
 ---
 
-### 14. 誰か軽いproxyくれ　ブロックされるやつでもいいから
+### 15. 誰か軽いproxyくれ　ブロックされるやつでもいいから
 **Author:** ノハルカ
 
 #### Comments (1)
@@ -1034,7 +1052,7 @@
 
 ---
 
-### 15. ジオメトリーダッシュ作ってください
+### 16. ジオメトリーダッシュ作ってください
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (3)
@@ -1049,7 +1067,7 @@
 
 ---
 
-### 16. Post 16
+### 17. Post 17
 **Author:** りゅう
 
 フォートナイトぽしいです
@@ -1065,7 +1083,7 @@
 
 ---
 
-### 17. アンダーテールぽしいです
+### 18. アンダーテールぽしいです
 **Author:** ああああ (h0319096_1)
 
 #### Comments (1)
@@ -1078,7 +1096,7 @@
 
 ---
 
-### 18. 流行語大賞２０２６ください
+### 19. 流行語大賞２０２６ください
 **Author:** ミズアメ
 
 #### Comments (1)
@@ -1091,7 +1109,7 @@
 
 ---
 
-### 19. いんすたないですか
+### 20. いんすたないですか
 **Author:** う
 
 #### Comments (4)
@@ -1107,7 +1125,7 @@
 
 ---
 
-### 20. お願い
+### 21. お願い
 **Author:** ナナシ
 
 エロい漫画見れるサイト教えて
@@ -1124,7 +1142,7 @@
 
 ---
 
-### 21. はやく！
+### 22. はやく！
 **Author:** ホシノキ
 
 性教育実習の漫画があるパドレットください
@@ -1140,7 +1158,7 @@
 
 ---
 
-### 22. 誰かpokiのサイト載せて
+### 23. 誰かpokiのサイト載せて
 **Author:** 匿名
 
 #### Comments (5)
@@ -1157,7 +1175,7 @@
 
 ---
 
-### 23. 誰かURL貼って動画見るやつ教えて
+### 24. 誰かURL貼って動画見るやつ教えて
 **Author:** ユメノ
 
 fernって名前のやつ　履歴消したらきえt
@@ -1175,7 +1193,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 24. 誰かエロ部屋くれ
+### 25. 誰かエロ部屋くれ
 **Author:** 匿名
 
 #### Comments (1)
@@ -1188,7 +1206,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 25. アニメ見れるサイト欲しい
+### 26. アニメ見れるサイト欲しい
 **Author:** 34b6kq
 
 違法サイトでも全然ええよ
@@ -1209,7 +1227,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 26. Post 26
+### 27. Post 27
 **Author:** でにでにろつとまん (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
@@ -1227,7 +1245,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 27. エロサイトくれ
+### 28. エロサイトくれ
 **Author:** スギノネ
 
 #### Comments (18)
@@ -1257,7 +1275,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 28. 至急！！！！！
+### 29. 至急！！！！！
 **Author:** スギノネ
 
 保健室のサイト　誰かほしいです！
@@ -1289,10 +1307,26 @@ fernって名前のやつ　履歴消したらきえt
 
 ## 質問
 
-### 1. 友達からの紹介で来ました　ここはどういうところですか？
+### 1. どうも
+**Author:** ワラビノ
+
+僕も裏社会の新参者です。ネトフリ見る方法ってありますか？
+
+#### Comments (2)
+- **シンメ** (Sep 07, 2026 03:44am): テレビにいれればいいとおもいますW
+- **岡田ソウタ** (Sep 07, 2026 04:18am): 誰かマイクラください　　ブロックされないやつ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 07, 2026 03:19am
+- **Updated At:** Sep 07, 2026 03:19am
+
+---
+
+### 2. 友達からの紹介で来ました　ここはどういうところですか？
 **Author:** タビゴロモ
 
-#### Comments (7)
+#### Comments (8)
 - **黒龍** (Sep 03, 2026 10:31am): 学タブでできるゲームを貼ったりする場所だよー
 - **Anonymous** (Sep 03, 2026 01:44pm): 作戦を練る！
 - **スバル** (Sep 03, 2026 10:39pm): 長文二キ
@@ -1300,6 +1334,7 @@ fernって名前のやつ　履歴消したらきえt
 - **スバル** (Sep 04, 2026 05:39am): 俺って誰やねんカスアホがしね
 - **Anonymous** (Sep 04, 2026 03:18pm): 『俺って誰やねん』って、主語の特定もできない読解力でよくネットに張り付いていられるね。言葉の独占権に嫉妬してパクリに行った挙句、返り討ちにあって暴言吐く姿は、ローカルな井戸端会議でも相手にされないレベルの滑稽さだよ
 - **でにでにろつとまん** (Sep 07, 2026 12:57am): 素晴らしい正論でクソワロタ
+- **ポルックス** (Sep 07, 2026 03:22am): バグ技やURLで禁止されてるYoutube見たりrobloxやったりする所
 
 #### Additional Information
 - **Post color:** White
@@ -1308,10 +1343,10 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 2. エロ部屋の入手方法
+### 3. エロ部屋の入手方法
 **Author:** 変態の味方
 
-#### Comments (8)
+#### Comments (9)
 - **マリオ** (Sep 02, 2026 09:23am): 810
 - **ハナグモリ** (Sep 03, 2026 02:55am): Utopia
 - **きもてー** (Sep 03, 2026 03:11am): ほしい
@@ -1320,6 +1355,7 @@ fernって名前のやつ　履歴消したらきえt
 - **ミモリ** (Sep 05, 2026 06:03am): ユートピアだろ
 - **Anonymous** (Sep 05, 2026 06:33am): ずーとパイアだろ
 - **匿名** (Sep 05, 2026 07:36am): ゆーとぴあってさいと
+- **haru** (Sep 07, 2026 02:13am): S〇Ｘ
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -1331,7 +1367,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 3. 巨乳派か貧乳派
+### 4. 巨乳派か貧乳派
 **Author:** ハナノアサ
 
 #### Comments (20)
@@ -1363,7 +1399,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 4. 巨乳か貧乳かどっち
+### 5. 巨乳か貧乳かどっち
 **Author:** フミアト
 
 #### Comments (15)
@@ -1390,7 +1426,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 5. ブロスタやってる人トロ数書いて
+### 6. ブロスタやってる人トロ数書いて
 **Author:** フミダシ
 
 #### Comments (21)
@@ -1434,7 +1470,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789348451&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jjmbFMoh5dI4mGzXK%2Bkx0I148FW0J3I2V7WHl%2FiuEtB2s5C7RwtIVY3h%2FqneGkwwyxaiev4O3WCf537FsuAW6ciQipRbeN1XWcsAbfADzq4QItrOc47BTGv5rE9up8ZxV9It%2BkoOGd4J2JwgjiCNcufFvPBMop0Yjt8vvgXXPe7Y8WTSqmcXqYUtK8KeYessecRz79j6E2rcy0eA4%2FMkvyOEOxJljoteVEr2isxz3oATGERHHcG%2FCKocikHbH4Vd27R80jkzbtewI2OIo27vZe3cePcFjY7QMbpODbx8RN6VAktwv8R%2Fx%2B4%2Br1FO05qLrC6rLOJjO1xeU0hm4rWtwA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789360328&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=K8eytnKAKFvaByJP3oVpvjbaiZ5izV1ieuXE06NfRtR9KZWYsWOiduUEnsBPMpxnvf9FXo%2B4afDSuaU%2FurktpPjBGU9rbMYhQu5AvWdgAcdIdsTIfZiBcsMYMZgIrvlVf3vJ3KTi%2BLmhwnNl%2Fd64qM7Abh%2BCFqwY1DH6oMrsjhFRoUaYjc3ET6lVAw9nC8eA4fsBp6eHNOjTlACtN8ArToRY8OxuCX6EXMyhO40NixNdUc5Tbc%2FSZjaT14m0LOExshN1nFn7qOVuuqzJSwKjZHgW3tMZTOXijc5ySXNwlaPY2U0uqBa%2FxWbwzpky0%2BaegBrhUPxasFlg%2BXJ6H4RyPQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1456,7 +1492,7 @@ ID:shibboleth
 
 [Attachment 1](https://u.topia.2a.exe.googleapis.com.hospitaldelninodif.gob.mx/)
 
-#### Comments (18)
+#### Comments (21)
 - **おとちん** (Aug 28, 2026 10:04am): サイトのURLコピーして貼ったら見れる
 - **ぼちぼちいこか愛好家** (Sep 01, 2026 12:48am): マジで？
 - **カナタビ** (Sep 01, 2026 12:55am): proxy?
@@ -1475,9 +1511,12 @@ ID:shibboleth
 - **タニノミズ** (Sep 05, 2026 07:03am): 絶対盛り上げるタイプ
 - **Anonymous** (Sep 05, 2026 08:45am): 傍観者ぶって「俺は盛り上げ役」とか言ってるの、マジで見てるこっちが恥ずかしくなるからやめた方がいいよ。本人は「あえて一線引いて、大人の余裕でピエロになって場を回してやってるスマートな俺」を演じてるつもりなんだろうけど、周りから見たらただの「自分で打席に立つ度胸も実力もないから、外側からガヤ芸人やって責任逃れしてるだけのチキン」だからね。本当に実力があって面白い奴は、わざわざ自分から「俺は盛り上げ役だから〜」なんて予防線を張らない。自分の言葉そのもので場を引っ張る。お前がやってるのは、他人が作った流れにタダ乗りして、ちょっと大声を張り上げて「関与してます感」を出してるだけ。要するに、ただの賑やかしのボランティア。それを「おもろいけど」って、何様の目線で批評家ぶってんの？「自分はミラリングはしない」って、あたかも「あえて選択してやってない」風に装ってるけど、本当は「滑るのが怖くて主体的な発言ができないだけ」でしょ。失敗したときに「いや、俺は盛り上げ役だから」って言い訳できる安全地帯に引きこもって、調子に乗って上から目線で語ってる姿、本当に日和っててダサいよ。お前が必死に演じてる「余裕のあるポジション」、周りはみんな「あ、こいつ自分の頭で面白いこと言えないから、ガヤに徹してプライド守ろうとしてるんだな」って見抜いてるよ。お前が場を盛り上げてるんじゃなくて、周りがお前の「盛り上げ役（笑）」っていう哀れなピエロムーブに、大人の対応で付き合ってあげてんだよ。その滑稽な自己演出に早く気づけるといいね。
 - **PC管理者** (Sep 05, 2026 08:58am): ↑こんな奴はここ来るな
+- **ナゴミ** (Sep 07, 2026 01:14am): 学タブの規制を突破したいです..。
+- **haru** (Sep 07, 2026 02:15am): 童貞の人
+- **ナゴミ** (Sep 07, 2026 04:25am): 解除サイトとかないかなー
 
 #### Reactions
-- **Emojis:** ❤️ (4) 👍 (1) 😄 (1)
+- **Emojis:** ❤️ (4) 👍 (2) 😄 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -1535,13 +1574,14 @@ No post
 
 [Attachment 1](https://planet.mblock.cc/project/projectshare/8349577)
 
-#### Comments (6)
+#### Comments (7)
 - **ユメノ** (Aug 28, 2026 10:21am): どうやって使うん
 - **ニック** (Aug 29, 2026 04:34am): わかりません
 - **えいこ** (Sep 02, 2026 11:28pm): その子ができなかったって言ってた
 - **Anonymous** (Sep 05, 2026 08:46am): おなぬーを？教えたろか？
 - **Anonymous** (Sep 06, 2026 12:59pm): wwwwwwwwwwwwwwwww
 - **でにでにろつとまん** (Sep 07, 2026 01:11am): 天才
+- **ナゴミ** (Sep 07, 2026 01:34am): https://for314.com/　　　URL　　チャットオンライン
 
 #### Additional Information
 - **Post color:** White
@@ -1552,7 +1592,26 @@ No post
 
 ## youtube
 
-### 1. ↓1番下注目！↓
+### 1. こんにちは
+**Author:** ゆうとでーす
+
+ムービアリンク貼ってくれませんがお願いします
+
+#### Comments (5)
+- **わらびもち** (Sep 07, 2026 02:38am): こいつに教えないほうがいいですよ
+- **ゆうとでーす** (Sep 07, 2026 02:38am): 誰か貼って
+- **わらびもち** (Sep 07, 2026 02:39am): こいつに教えたら規制されます
+- **匿名** (Sep 07, 2026 03:15am): シアチューブで我慢しとけ
+- **ミズカ** (Sep 07, 2026 04:19am): 教えてください
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 07, 2026 02:34am
+- **Updated At:** Sep 07, 2026 02:34am
+
+---
+
+### 2. ↓1番下注目！↓
 **Author:** カマキリ (00221133)
 
 #### Comments (3)
@@ -1567,7 +1626,7 @@ No post
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** ユキワタ
 
 [Attachment 1](https://padlet.com/298344445/padlet-jibykjil8dz23tn7)
@@ -1579,7 +1638,7 @@ No post
 
 ---
 
-### 3. Post 3
+### 4. Post 4
 **Author:** スズヒカリ
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=MFwtpM21wWc)
@@ -1595,7 +1654,7 @@ No post
 
 ---
 
-### 4. YouTube見れるサイト教えてください。
+### 5. YouTube見れるサイト教えてください。
 **Author:** Nannka　Youtube (s1923051_1)
 
 #### Comments (2)
@@ -1609,7 +1668,7 @@ No post
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** シロハナ
 
 [Attachment 1](https://www.google.com/goto?url=CAESYwHrOzAVnYlw3x7WtbBQC3UOD8WLbTUdu014TNrH7STVWOLamMLI8WLXcksfgYWVJFBZONffy3HB7584_mm4AAJb4PYoLWOTIIe23SkcABM89VwZ41AfHzx4WXEQvbV9jVLw4Q)
@@ -1627,7 +1686,7 @@ No post
 
 ---
 
-### 6. 学タブで見れるユーチューブほしいですお願いします
+### 7. 学タブで見れるユーチューブほしいですお願いします
 **Author:** ぼちぼちいこか愛好家 (2101038_5)
 
 #### Comments (15)
@@ -1654,7 +1713,7 @@ No post
 
 ---
 
-### 7. 見れるかも？？
+### 8. 見れるかも？？
 **Author:** 34b6kq
 
 [Attachment 1](https://script.google.com/a/macros/chuo-tky.ed.jp/s/AKfycbyDtINI3yZi1UNO2P3Ody2fzRptm80YOPV_a3Vlqygl-QWyuzjvTvB7TMANSN5GPJOFMw/exec)
@@ -1672,7 +1731,7 @@ No post
 
 ---
 
-### 8. geometrydashで一番難しいレベルの動画
+### 9. geometrydashで一番難しいレベルの動画
 **Author:** ゆうと
 
 [https://www.youtube.com/watch?v=frjtBcNI6dIcanva.com](https://www.youtube.com/watch?v=frjtBcNI6dIcanva.com)
@@ -1686,7 +1745,7 @@ No post
 
 ---
 
-### 9. geometrydashの動画
+### 10. geometrydashの動画
 **Author:** ゆうと
 
 [https://www.youtube.com/watch?v=g3\_XUbK-PP0canva.com](https://www.youtube.com/watch?v=g3_XUbK-PP0canva.com)
@@ -1700,7 +1759,7 @@ No post
 
 ---
 
-### 10. Post 10
+### 11. Post 11
 **Author:** シズカゼ
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=tfMneb7nGbY)
@@ -1764,7 +1823,7 @@ No post
 
 💩
 
-#### Comments (40)
+#### Comments (42)
 - **ユリカ** (Sep 02, 2026 01:02am): まんこーまんげーちんちちんげーはなーがさいたらー
 - **おなべさん(新垢** (Sep 03, 2026 04:35am): 下ネタ言えば何でも良いってわけじゃねぇよ
 - **Anonymous** (Sep 03, 2026 05:33am): 「下ネタ言えばなんでも良いってわけじゃねぇよ」とか、わざわざこんな吹き溜まりみたいな場所でありがたく御高説垂れてる姿、最高に滑稽で香ばしいですね。 「性」の話が出た途端にシュッとお行儀のいいお説教モードに入って同調圧力こねくり回すあたり、いかにも「世間様の手前、性タブーを守らなきゃいけない」同同同調圧力が染みついた日本人らしくて実に味わい深いです。 そんなにコンプライアンスと品行方正がお好きなら、わざわざこんなネットの隅っこで不毛な正義感ごっこしてないで、現実の教科書でも音読してすまし顔で暮らしてたらどうですか？ 見ていてお寒い限りですよ。
@@ -1805,6 +1864,8 @@ No post
 - **おなべさん(新垢** (Sep 06, 2026 06:04pm): お説教じゃなくて感想言っただけなのにそこまで言われる筋合いはないだろ…
 - **おなべさん(新垢** (Sep 06, 2026 06:06pm): てかAIにつくらせんのは普通に考える力が低下するぞ（（うちも課題とかにまるまるAI使っていて、それを実感している））有益に使う練習をしないとなぁ…
 - **Anonymous** (Sep 06, 2026 10:59pm): 草www
+- **おなべさん(新垢** (Sep 07, 2026 02:53am): うん。学力低下してる。受験なのにやばい。って言ってるけど努力してないのは論外だけど受験の時期ってうちの周りだと皆不安定になっとる感じがするなぁ。軽く鬱になったりとか。
+- **Anonymous** (Sep 07, 2026 03:36am): 高校❔
 
 #### Additional Information
 - **Post color:** White
