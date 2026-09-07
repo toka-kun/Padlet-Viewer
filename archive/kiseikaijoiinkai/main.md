@@ -1,4 +1,4 @@
-最終取得: 2026/09/03 22:37:08
+最終取得: 2026/09/07 13:30:50
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 17
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Sep 03, 2026 12:38pm
+- **Updated At:** Sep 07, 2026 03:38am
 
 ## 受付
 
@@ -430,8 +430,9 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 
 [Attachment 1](https://app.apponfly.com/trial)
 
-#### Comments (1)
+#### Comments (2)
 - **中居正広リア充になった。#鳥ちゃん大好き#最近体痛い** (Aug 23, 2026 01:36pm): ナイス
+- **ホタル** (Sep 07, 2026 03:38am): 2026/09/0712:37使えんくなった確認プロキシ情報によりブロック
 
 #### Additional Information
 - **Created At:** Aug 22, 2026 08:15am
