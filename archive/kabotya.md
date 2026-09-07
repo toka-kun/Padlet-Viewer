@@ -1,4 +1,4 @@
-最終取得: 2026/09/07 10:04:10
+最終取得: 2026/09/07 10:13:19
 
 # 規制突破の世界
 
@@ -7,14 +7,14 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 109
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 07, 2026 01:02am
+- **Updated At:** Sep 07, 2026 01:11am
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789347920&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lCLQ7NcsIoIKxa5A45A8vevztUQyX4eNENfDKHLuWE62GDluYKNkbl9BoUwiFLUiZToIM4VsulWE6XJr%2B979oLOzfWr6YxgZDEjNdb7uWMy8fJKdxuIOhAaTw3YTbC142D5pqsLy%2F5UkqDB6roEU8ke%2FqZtx%2FchuwFwzUOkUNLGqgzyJURRxH%2BULIjXOHTUi%2FENNcRqwXui37W6ee3MkVsxrUBk8YlMrwMoV8ut%2Bopu3TOiA4IvAnhp93XNzkwmCrE7aUNButMwOU3QMdC3XHklPuTe8X00qm%2BPffUa7vZ%2B3uhEGNegogBCmPw%2BXcyJuuPEYNXhPFBn1J9fSru%2BB2g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789348450&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YwdnFnTrrWKzfuDRkSEfp1BSPofKO2MFfcf8YixqkKDxBFiAyofjv58utc%2FSCFcsa%2Bi1UnBAUDJItW69OsNN3ySXX3ojSNMrj6UsnMjZMhdCEymv1WrpwMuGQWs4rr%2FcTfaJ67FxBDobwe9KMV2HTZZDjJkRTBJdklJI7TWHLXb3xTVhOyuAPkddB6eo8gypFT0Y%2BhBGsxf%2Bvcpr6mPYzJAU6WKWdGhcdl3DBh74rp2MtuONutl4%2Bg7PhKo8R5%2Bulwt5XnqGQr5FTXJrXdvEMGLL7SZgnkWm8PhDN9f0TuCdh0EzO%2BOMzQ1jERKogi%2Bsn68Zbo%2BnZfiI9MqdQrZpVQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
 #### Comments (8)
 - **「篠田　虎珀」．** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
@@ -1434,7 +1434,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789347920&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=B8%2F87A84awYNKGbKBzTJJ55Rq4LfvrMwsPSd9Oybm2%2FtJmuJre4rNRN2fDInN7YdJYWp0FaOfUVZd4NedERDb2NlUCgfQcX6bspDFC4VKh91i7MWzZOYUZsjWmbfzgCiw5c7KLVR66Q2nbF09SCc33EXW7pBQz1LDhfUhC4xAur26HnJg0NxULMJFBe7zjp%2FgWqqgYP501AcxCaasY7VsY%2B7nRuUl6m9axLV99HE0DRnKJuLyD%2Bffjhr9CQAvv9eZ0OhOHzKZhbJ16tHwMhmNnSDKfog%2BB0dEmtYUx9gFZ7He9XoD9mK7XKgY3Sv3WcispwhS56SeFOdh5CnYRmkeQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789348451&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jjmbFMoh5dI4mGzXK%2Bkx0I148FW0J3I2V7WHl%2FiuEtB2s5C7RwtIVY3h%2FqneGkwwyxaiev4O3WCf537FsuAW6ciQipRbeN1XWcsAbfADzq4QItrOc47BTGv5rE9up8ZxV9It%2BkoOGd4J2JwgjiCNcufFvPBMop0Yjt8vvgXXPe7Y8WTSqmcXqYUtK8KeYessecRz79j6E2rcy0eA4%2FMkvyOEOxJljoteVEr2isxz3oATGERHHcG%2FCKocikHbH4Vd27R80jkzbtewI2OIo27vZe3cePcFjY7QMbpODbx8RN6VAktwv8R%2Fx%2B4%2Br1FO05qLrC6rLOJjO1xeU0hm4rWtwA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1535,12 +1535,13 @@ No post
 
 [Attachment 1](https://planet.mblock.cc/project/projectshare/8349577)
 
-#### Comments (5)
+#### Comments (6)
 - **ユメノ** (Aug 28, 2026 10:21am): どうやって使うん
 - **ニック** (Aug 29, 2026 04:34am): わかりません
 - **えいこ** (Sep 02, 2026 11:28pm): その子ができなかったって言ってた
 - **Anonymous** (Sep 05, 2026 08:46am): おなぬーを？教えたろか？
 - **Anonymous** (Sep 06, 2026 12:59pm): wwwwwwwwwwwwwwwww
+- **でにでにろつとまん** (Sep 07, 2026 01:11am): 天才
 
 #### Additional Information
 - **Post color:** White
