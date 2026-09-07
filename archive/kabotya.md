@@ -1,4 +1,4 @@
-最終取得: 2026/09/07 15:09:03
+最終取得: 2026/09/07 15:31:26
 
 # 規制突破の世界
 
@@ -7,14 +7,14 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 119
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 07, 2026 06:06am
+- **Updated At:** Sep 07, 2026 06:17am
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789366223&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VzDb9VF6BjU7AfaeWJKNvIwI0l8bmPYAMjoDYniqQd8V5QTSwWdqSJpdkPwEj8vqvvcVBx8oXTVXFPyyJ1%2BjNCiAL0M6tnRiRHhmKYBzh2x2QbOGOUJWnW%2FBPBkYHPKeD6sE15C1YIQEZt30a9wmXudchhWHRweGXJ7UwzBRcKOaWVH6QUDebi8XmgEGz4EnJawDySeA8%2Fm%2FTVJ7BdITtip4ZE48iLqi0%2Fw1qElX%2FgW8NJHjWFtyZzxM0za0Pc4CpTaojG8RGi4lPhikPwgLi3K8WCjiXmiz0qexvdB7TBZVGZXxoB%2F6ND5CJ6beccq3%2BFHhrY2GIE9QpknNxabB6g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789367550&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=25wcCyzTYsufgiUau5ycdhTi7XrgBhqdywPSwMynOGTPytpXiFguS8WzKMA%2ByyeAR%2FfAEm%2F1mCpz2RCEmEnK2EX9uVY0%2Fif82wdz1AR7cKtJB8Y0aNVY%2FIy6kdhs5IitSOtI6JHpTxj6VNHydkCF79K7WstEA7TxttnlxITxbXD8poNBT0QbCiyrHQNWAMRuRGZXkNX3oF%2BN7eE7J%2BCaVL5kAxDTp2zPUpZ2AhDvDIG94QXzDlssQLqJcCjxR9jwA%2Fz5SM%2FasevbXi%2FLlqgpNXjN%2Fjx5gTERg1HQv%2B65ad6C9JEd7LAnle5p3bd2SiIe7d52kkL6sI0X8fsup1TMVQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
 #### Comments (9)
 - **「篠田　虎珀」．** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
@@ -768,13 +768,14 @@
 ### 12. ブロックの解除方法知ってる人いたら教えて
 **Author:** えいこ
 
-#### Comments (6)
+#### Comments (7)
 - **ゆきつばさ** (Sep 01, 2026 03:12am): シャットダウン繰り返す
 - **ノハルカ** (Sep 01, 2026 03:19am): （クロームブックでしか無理かも）
 - **おおぬき** (Sep 03, 2026 05:21am): 無理になった
 - **Anonymous** (Sep 03, 2026 06:49am): えーでぃーか…wおっつー！
 - **Anonymous** (Sep 03, 2026 09:17am): Ed(笑)
 - **匿名** (Sep 03, 2026 12:41pm): えっ、知らないの
+- **匿名** (Sep 07, 2026 06:17am): 知るか　　　カス
 
 #### Additional Information
 - **Post color:** White
@@ -1527,7 +1528,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789366223&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TXFEraNRrX%2BjrgVzGkBByxMHSQjuMSphSM2I8%2BDeJcjrqnHvCqGxBzxoCAFgKFOgm8t4b8gZ5LML4zS5AVo3qc97pTl6AtVvi08lZWjuvEuZlhxlPDwADtK0DwQfKA6IiCXH3pVbe87aVisQDMMR5fTFSlBbw79MtngvTsizUc1k298kShA%2BPQqrB9jjfvz1Ooa9NmapbzkhabDXWMKcPVt6ZYFsKs5RTPf2N3WLEXxH5SCXjRlzEcS8djpLXEchiqL7lEdmTRPhfwbBQAZnUppwXwqlyYEg92D%2FjmOwfjF6NoJvi6WHbK3zjCsmO5OFkjQknnUXppIDejZ2Fu3T3Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789367551&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Q9Qi26av7sCXwJH%2FozQH1UnX%2BygoZoaLP4PmemkQYomp1WsEHBRrE6WNLWXiQ%2BaSNZujUYG7b503JwkmBvj7udXc4Fta14tqE%2BWw%2Foi6CUDpXm6ED%2FMd7Yh8cmbPBpjkBmizhX3E9t6kcx2Cqsq%2BSGANzsyZJ2FozOpssi8Bz2CXl%2BJHZmtquDV8IXQmu8Gdhrs9RzXkESzPlmKknWXh3Sa11%2BjrR9tOLcv7ItPHuFgCHmM1ceGCQdS3REQx2L1qJaql%2B36ditISTL%2Fnpo9ZXEzgpoJ1V4dXBMT2S18hToLItN4TdyGVelnKRUtCG7K5EGkBxbKO13sdnReakUMVfQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1862,7 +1863,7 @@ No post
 ### 1. Post 1
 **Author:** 救世主
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789366223&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=S8%2BIZFIvi0Kb83w%2Fs4mjvoo8DXOuWhVMr238muFJXwh9JYRyQdtSY2RRlFGpvBbNJPZKg05sVJOZnn1vHS0MWkg9l6Rva8Niv8LVK36HlN6VVZPUuykS9tKr6YmrQm6ZNWK4NOybIlfB6XJJtV7zBcj6zlvDEoXXyauD4VmjZ194X7522TXcWz8XuDhJhvqs3R1RQQ9ZmiVbSJeN6MZ7I0gHntr%2FoDiyovK7Cobn3X4i%2FOPK6NK7BgXi0kZkW04Ps8lIXC8D%2Fw42p23OPm6R8MhlwOvvZTA4TLDTZyQkt75pGlIgnC6rIIPc5aqGQN8ttHnlr48AUAEOtvDBnHfGew%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789367551&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=HFyKmGjQt0OC32ftb6idXtvpMpJGa7arhTdEPahdmMRI4HXsYcIKUWpJUJJlOP239%2B7uAZJfhoi7po%2F6L1OPuTBRYmGOvpCZjVPqvZvjSlA0r%2B5qySdqJJxbi1vSFoA%2FHC1xhwpl60v3yHGugLbF76L%2BqXvSTERS3duPVASZdmWZFN7r3iCj9J73TcLs3Dx3vgw7BX%2BTN4Y%2BuMDrJ09Mzdxu9rvCuPvnZ6ClobnJwYD8d8Qrht%2BTQnIJBrgW4nW1YmZeMgkULTCUQ7RhuvUUACjjrvdpEXtyZ81erX94wXbzxdwkBrzmccEFqImah9EAXXEsFWEqUNfOvi%2BVMJOspQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
 
 #### Additional Information
 - **Post color:** White
