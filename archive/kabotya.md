@@ -1,4 +1,4 @@
-最終取得: 2026/09/07 08:50:09
+最終取得: 2026/09/07 10:04:10
 
 # 規制突破の世界
 
@@ -7,21 +7,24 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 109
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 06, 2026 11:29pm
+- **Updated At:** Sep 07, 2026 01:02am
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789343481&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0q9fcMurJ5W7xyeRty7kYp1jBgJqW%2B8Cky%2Bn%2BEFgIpQ0myVpsfB4T42rvdQkRhgLR1iKdRTzJIYq92klbfBMk9KImwtT0ptZq2jkfuqvxW%2FLn1p%2Bho85RP%2FG4sJtNbsqJTr4pnfinSlsCKiriEuVjxji4g7AFDeaiDRSf8dzv6HnHycT3QJywMkckKsEVz%2BWSbwCK8NV7PIEtj%2BuF4w8Qaa38bV3fATTdviCJWkyr1xsrEZWe97MflABaYw%2Bq%2F6xXQkGC0BSindsEpW%2B3sHLNvLAMR5hjbsmolCUVuvjyR3rIC8bQwwPYSeyPoonlswj8YJ4MFZ%2BkqDZe%2Bg%2FrFD5aQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789347920&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lCLQ7NcsIoIKxa5A45A8vevztUQyX4eNENfDKHLuWE62GDluYKNkbl9BoUwiFLUiZToIM4VsulWE6XJr%2B979oLOzfWr6YxgZDEjNdb7uWMy8fJKdxuIOhAaTw3YTbC142D5pqsLy%2F5UkqDB6roEU8ke%2FqZtx%2FchuwFwzUOkUNLGqgzyJURRxH%2BULIjXOHTUi%2FENNcRqwXui37W6ee3MkVsxrUBk8YlMrwMoV8ut%2Bopu3TOiA4IvAnhp93XNzkwmCrE7aUNButMwOU3QMdC3XHklPuTe8X00qm%2BPffUa7vZ%2B3uhEGNegogBCmPw%2BXcyJuuPEYNXhPFBn1J9fSru%2BB2g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
-#### Comments (5)
+#### Comments (8)
 - **「篠田　虎珀」．** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
 - **「篠田　虎珀」．** (Sep 06, 2026 12:51pm): あと2日くらいずっとクラッシュしてた
 - **かぼちゃ** (Sep 06, 2026 01:24pm): まあこれだけなら良かったけど他にも匿名は色々と長文とかコメントでうざいんですよね
 - **おなべさん(新垢** (Sep 06, 2026 05:49pm): 酷すぎ（しょうもな）名前で変ないちゃもんつけんなや
 - **おなべさん(新垢** (Sep 06, 2026 05:52pm): 匿名こそ正義ならここに来い⤵︎https://padlet.com/minecrft/padlet-s023bx0x1fl4vfpi41pt
+- **常時暇人のたけさん#T-72B3M&Su-30MKIの右腕** (Sep 07, 2026 12:19am): 草
+- **常時暇人のたけさん#T-72B3M&Su-30MKIの右腕** (Sep 07, 2026 12:20am): てかかぼちゃさーんモデレーターになりたいです！！！
+- **でにでにろつとまん** (Sep 07, 2026 01:02am): 匿名禁止にしちゃえばいいのに誰のおかげでこのスペースがあると思ってんだよマジで
 
 #### Additional Information
 - **Post color:** Red
@@ -32,6 +35,9 @@
 
 ### 2. 久しぶりに見にきたら、ここ荒れすぎだと思った
 **Author:** おなべさん(新垢 (minecrft)
+
+#### Comments (1)
+- **常時暇人のたけさん#T-72B3M&Su-30MKIの右腕** (Sep 07, 2026 12:20am): それなー
 
 #### Additional Information
 - **Post color:** White
@@ -647,7 +653,7 @@
 
 [Attachment 1](https://sites.google.com/view/dominumnetworkv2/entertainment/m0v1es)
 
-#### Comments (13)
+#### Comments (14)
 - **ぴる** (Sep 03, 2026 02:05am): え神すぎるズートピアとかホラー映画みれるのやばい
 - **Anonymous** (Sep 03, 2026 03:13am): 見たい
 - **Anonymous** (Sep 03, 2026 03:14am): ていうかここマザーファッカーしかいないのかよ笑
@@ -661,6 +667,7 @@
 - **カマキリ** (Sep 05, 2026 11:46am): お前ら2人が死ねばあの世には嫌いな俺がおらへんねんで！
 - **カマキリ** (Sep 05, 2026 11:55am): ごめんね♪じゃあリンク消しとくよ♪
 - **カマキリ** (Sep 05, 2026 11:55am): これで満足かな？
+- **わ** (Sep 07, 2026 12:43am): えなんでおこってるんですか
 
 #### Additional Information
 - **Post color:** White
@@ -833,13 +840,14 @@
 ### 2. 誰かいますか？
 **Author:** そーりー
 
-#### Comments (6)
+#### Comments (7)
 - **そーりー** (Sep 05, 2026 08:13am): いるよなー
 - **そーりー** (Sep 05, 2026 08:13am): 返事して
 - **ミネノ** (Sep 05, 2026 08:23am): いますよ〜
 - **Anonymous** (Sep 05, 2026 08:26am): 今からせxできるぞってときおっぱいかんだら…振られたっすみんな気をつけろ俺は高校2年でそれを知れた　興奮したからと言って絶対じょしのちくびはかむな！
 - **シンメ** (Sep 06, 2026 04:28am): オタクだまれきもいしね
 - **おなべさん(新垢** (Sep 06, 2026 05:54pm): 痛いことしたらそりゃそうなる…人によるからそう決めつけないけど
+- **でにでにろつとまん** (Sep 07, 2026 12:58am): 痛いじゃんやめたって
 
 #### Additional Information
 - **Post color:** White
@@ -941,7 +949,7 @@
 ### 9. エロ部屋くれ
 **Author:** ツキノト
 
-#### Comments (13)
+#### Comments (14)
 - **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
 - **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
 - **コヒバリ** (Sep 02, 2026 10:04am): SEXしたい
@@ -955,6 +963,7 @@
 - **Anonymous** (Sep 03, 2026 05:51am): あーここにもいたのか！おなべさん！ 
 - **Anonymous** (Sep 03, 2026 05:55am): わしゃもう20歳じゃよ」って送った人だよワイの名前　ホシウタです〜
 - **おなべさん(新垢** (Sep 06, 2026 05:56pm): 気づかんかった
+- **シンメ** (Sep 07, 2026 12:26am): おなべしねどうせニートやろ
 
 #### Additional Information
 - **Post color:** White
@@ -1085,10 +1094,11 @@
 ### 19. いんすたないですか
 **Author:** う
 
-#### Comments (3)
+#### Comments (4)
 - **Anonymous** (Sep 03, 2026 01:40pm): あるよでもなんであんたに教えないといけないの？
 - **う** (Sep 03, 2026 11:45pm): 教えてほしいサイトありますか？？このサイトわたしが知ってたら交換しましょう
 - **Anonymous** (Sep 04, 2026 03:16pm): 結構です
+- **う** (Sep 07, 2026 12:44am): えーなんでですか
 
 #### Additional Information
 - **Post color:** White
@@ -1282,13 +1292,14 @@ fernって名前のやつ　履歴消したらきえt
 ### 1. 友達からの紹介で来ました　ここはどういうところですか？
 **Author:** タビゴロモ
 
-#### Comments (6)
+#### Comments (7)
 - **黒龍** (Sep 03, 2026 10:31am): 学タブでできるゲームを貼ったりする場所だよー
 - **Anonymous** (Sep 03, 2026 01:44pm): 作戦を練る！
 - **スバル** (Sep 03, 2026 10:39pm): 長文二キ
 - **Anonymous** (Sep 03, 2026 11:12pm): スバル　長文ニキという言葉を俺からパクんなボケカスボケどうせお前アホなクソやろうだろ
 - **スバル** (Sep 04, 2026 05:39am): 俺って誰やねんカスアホがしね
 - **Anonymous** (Sep 04, 2026 03:18pm): 『俺って誰やねん』って、主語の特定もできない読解力でよくネットに張り付いていられるね。言葉の独占権に嫉妬してパクリに行った挙句、返り討ちにあって暴言吐く姿は、ローカルな井戸端会議でも相手にされないレベルの滑稽さだよ
+- **でにでにろつとまん** (Sep 07, 2026 12:57am): 素晴らしい正論でクソワロタ
 
 #### Additional Information
 - **Post color:** White
@@ -1423,7 +1434,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789343482&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NpVxP5G8ZdPFRVyDgq%2FISMWwlTXm7IJCFIEQwokPGZb%2FRg9zN%2FqoeJlHK3GJpzvxJWju8X3CMAAiFpntVCDExSpKTo1YMtLnyocO%2F6PLl2F%2FxUxu8Tv988Z0HrdEIWQT5mWzFZfON3me2fnqAcm8eEXkBGNYS2WU6EOcYkzongvDevDLrk2TLFys1I%2BoqgY0jgnqp6kcZx7xjP32rJv36II0DRFd1bNETHFWma5D0HV1aT4lLNlL76GKmw44mOlknYHcRUsM7AfFVMJWEpw95lNaUmhWK%2BRkBlwoPV%2BzHQwytRJot9OMavRb%2FSHPRk9PTlXCPje%2FJV1R4l7%2BdqZmvw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789347920&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=B8%2F87A84awYNKGbKBzTJJ55Rq4LfvrMwsPSd9Oybm2%2FtJmuJre4rNRN2fDInN7YdJYWp0FaOfUVZd4NedERDb2NlUCgfQcX6bspDFC4VKh91i7MWzZOYUZsjWmbfzgCiw5c7KLVR66Q2nbF09SCc33EXW7pBQz1LDhfUhC4xAur26HnJg0NxULMJFBe7zjp%2FgWqqgYP501AcxCaasY7VsY%2B7nRuUl6m9axLV99HE0DRnKJuLyD%2Bffjhr9CQAvv9eZ0OhOHzKZhbJ16tHwMhmNnSDKfog%2BB0dEmtYUx9gFZ7He9XoD9mK7XKgY3Sv3WcispwhS56SeFOdh5CnYRmkeQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
