@@ -1,4 +1,4 @@
-最終取得: 2026/09/07 15:31:26
+最終取得: 2026/09/07 18:41:43
 
 # 規制突破の世界
 
@@ -7,14 +7,14 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 119
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 07, 2026 06:17am
+- **Updated At:** Sep 07, 2026 09:26am
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789367550&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=25wcCyzTYsufgiUau5ycdhTi7XrgBhqdywPSwMynOGTPytpXiFguS8WzKMA%2ByyeAR%2FfAEm%2F1mCpz2RCEmEnK2EX9uVY0%2Fif82wdz1AR7cKtJB8Y0aNVY%2FIy6kdhs5IitSOtI6JHpTxj6VNHydkCF79K7WstEA7TxttnlxITxbXD8poNBT0QbCiyrHQNWAMRuRGZXkNX3oF%2BN7eE7J%2BCaVL5kAxDTp2zPUpZ2AhDvDIG94QXzDlssQLqJcCjxR9jwA%2Fz5SM%2FasevbXi%2FLlqgpNXjN%2Fjx5gTERg1HQv%2B65ad6C9JEd7LAnle5p3bd2SiIe7d52kkL6sI0X8fsup1TMVQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789378975&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I4Y2tlAqi23rO1I0Q51JJrdH1HLGrFWlULVDK2HyR66x4fqGIHAUark21FqRka4MQIMZtU7UMkgvfx6qiuJqI1V9JPVW1zIW6FzBD0sytRUeRinr5AqIBfdmVgq5NLf2V%2BVbkG6ItBJ5xahJGvM7LEQTx1561vFBdmZ21EKkCugzaKKnrOwZU2P9Lzez0BA0XFkIaQLgHlYVto9ZgA%2BFRA%2F9%2FVwmLoGm5D9hr6kKln1qmH5gBodFpAzSLc9TMggMarm5ddCycjy9Wr%2B3r6iwua4I7mD1nd30NYDkKQ52lgoQhbSY0OustBjKpAnkTY%2FU5Re0gsRYttJL77ENzlw4Hw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
 #### Comments (9)
 - **「篠田　虎珀」．** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
@@ -247,7 +247,7 @@
 
 [Attachment 1](https://padlet.com/r0245154/4-s0236wy5caguhuuhyzm8)
 
-#### Comments (14)
+#### Comments (15)
 - **itokoとこtoko** (Sep 02, 2026 05:29am): まじではいって
 - **itokoとこtoko** (Sep 02, 2026 05:29am): まじではいって
 - **itokoとこtoko** (Sep 02, 2026 05:30am): ＃学タブでできるゲーム教えて
@@ -262,6 +262,7 @@
 - **ミズベ** (Sep 05, 2026 04:20am): itokoとこtokoさんもう一回送ってください。
 - **Anonymous** (Sep 05, 2026 08:17am): む〜り〜
 - **ミネノ** (Sep 05, 2026 08:25am): 何その言い方キモすぎやろWWW
+- **クニサキ** (Sep 07, 2026 09:13am): さっさと送れ。お前そんな変な言い方して何が楽しん。お前ぶち殺したろか。
 
 #### Additional Information
 - **Post color:** White
@@ -583,7 +584,7 @@
 
 [Attachment 1](https://unpkg.com/classroomduck@1.0.29/index.html)
 
-#### Comments (16)
+#### Comments (17)
 - **ミドリネ** (Sep 01, 2026 10:01am): あっざっす
 - **ナミユメ** (Sep 01, 2026 10:32am): マジてんきゅー
 - **mbappe♯つつきの森1番弟子♯狂鳥族２代目♯つつきの森と同盟中♯青の風と同盟中** (Sep 01, 2026 11:44am): てんきゅー
@@ -600,6 +601,7 @@
 - **カゼドリ** (Sep 04, 2026 05:34am): どういたしまして
 - **シラハネ** (Sep 05, 2026 07:04am): 2人用のゲーム誰かください
 - **Anonymous** (Sep 05, 2026 08:19am): くたばれがちで俺の失恋誰が………慰めてくれんねん！
+- **シジュウカラ** (Sep 07, 2026 09:26am): さんきゅーすぎ
 
 #### Additional Information
 - **Post color:** White
@@ -1385,7 +1387,7 @@ fernって名前のやつ　履歴消したらきえt
 **Author:** タビゴロモ
 
 #### Comments (8)
-- **黒龍** (Sep 03, 2026 10:31am): 学タブでできるゲームを貼ったりする場所だよー
+- **昴 #勉強アレルギー** (Sep 03, 2026 10:31am): 学タブでできるゲームを貼ったりする場所だよー
 - **Anonymous** (Sep 03, 2026 01:44pm): 作戦を練る！
 - **スバル** (Sep 03, 2026 10:39pm): 長文二キ
 - **Anonymous** (Sep 03, 2026 11:12pm): スバル　長文ニキという言葉を俺からパクんなボケカスボケどうせお前アホなクソやろうだろ
@@ -1528,7 +1530,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789367551&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Q9Qi26av7sCXwJH%2FozQH1UnX%2BygoZoaLP4PmemkQYomp1WsEHBRrE6WNLWXiQ%2BaSNZujUYG7b503JwkmBvj7udXc4Fta14tqE%2BWw%2Foi6CUDpXm6ED%2FMd7Yh8cmbPBpjkBmizhX3E9t6kcx2Cqsq%2BSGANzsyZJ2FozOpssi8Bz2CXl%2BJHZmtquDV8IXQmu8Gdhrs9RzXkESzPlmKknWXh3Sa11%2BjrR9tOLcv7ItPHuFgCHmM1ceGCQdS3REQx2L1qJaql%2B36ditISTL%2Fnpo9ZXEzgpoJ1V4dXBMT2S18hToLItN4TdyGVelnKRUtCG7K5EGkBxbKO13sdnReakUMVfQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789378976&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ZUTFv4Eoy2HW7vN%2BJtB1WOCNUXgx41%2BsbQkC%2FKf0W68eHw1qk7HXZdS2Ivx2MV9BHaPqqpEI%2BjkeSQ%2FUiRlMuK7gyhqjRVOk8CAfTOw3Urq6IKJ49BI3Z6zkX2WDw8fpHdsQMxa9c29QHN%2FsfEF3XFXjfjtdk%2BPt%2F%2BSocsTHSJCJZMj5mmCOPi1VNfhYp458%2FeXtoC5JAZ9OZny3%2BfYCpTpUnzmu4LFAwOKIBZ3TkC1fd6feU2m43zIl9glAoKuLwe1c%2FwjDldeVMwe2eyNaeQEKi4xoLceTz2FPtNzrUXeMllDu%2BHDCrDvDPfqTbS%2FoarCvF77oXxlG575NWneESA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1653,8 +1655,10 @@ No post
 ### 1. Youtubeください
 **Author:** Nannka　Youtube (s1923051_1)
 
-#### Comments (1)
+#### Comments (3)
 - **ぐぐがが** (Sep 07, 2026 05:21am): 俺見れるよ
+- **Nannka　Youtube** (Sep 07, 2026 06:40am): それください 
+- **ハネツユ** (Sep 07, 2026 07:43am): 俺4持ってるけど　どうしよー
 
 #### Additional Information
 - **Post color:** White
@@ -1668,7 +1672,7 @@ No post
 
 ムービアリンク貼ってくれませんがお願いします
 
-#### Comments (14)
+#### Comments (20)
 - **わらびもち** (Sep 07, 2026 02:38am): こいつに教えないほうがいいですよ
 - **ゆうとでーす** (Sep 07, 2026 02:38am): 誰か貼って
 - **わらびもち** (Sep 07, 2026 02:39am): こいつに教えたら規制されます
@@ -1683,6 +1687,12 @@ No post
 - **ゆうとでーす** (Sep 07, 2026 04:55am): えん◯うま◯ろ
 - **ツヅミ** (Sep 07, 2026 05:05am): ？？だれ？？
 - **わらびもち** (Sep 07, 2026 05:09am): コンニチハ
+- **ミネビ** (Sep 07, 2026 07:01am): ゆうとでーすｗｗｗｗお前の個人情報しってるからなｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
+- **ミネビ** (Sep 07, 2026 07:02am): 手始めに書こうか？？ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
+- **ミネビ** (Sep 07, 2026 07:02am): 池◯第◯小学校に通う.......
+- **ミネビ** (Sep 07, 2026 07:03am): www
+- **ミネビ** (Sep 07, 2026 07:29am): 中山◯◯あっ！もう言ってた〜ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
+- **ミネビ** (Sep 07, 2026 07:29am): ごっめえんｗｗｗｗｗｗｗｗｗｗｗ
 
 #### Additional Information
 - **Post color:** White
@@ -1863,7 +1873,7 @@ No post
 ### 1. Post 1
 **Author:** 救世主
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789367551&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=HFyKmGjQt0OC32ftb6idXtvpMpJGa7arhTdEPahdmMRI4HXsYcIKUWpJUJJlOP239%2B7uAZJfhoi7po%2F6L1OPuTBRYmGOvpCZjVPqvZvjSlA0r%2B5qySdqJJxbi1vSFoA%2FHC1xhwpl60v3yHGugLbF76L%2BqXvSTERS3duPVASZdmWZFN7r3iCj9J73TcLs3Dx3vgw7BX%2BTN4Y%2BuMDrJ09Mzdxu9rvCuPvnZ6ClobnJwYD8d8Qrht%2BTQnIJBrgW4nW1YmZeMgkULTCUQ7RhuvUUACjjrvdpEXtyZ81erX94wXbzxdwkBrzmccEFqImah9EAXXEsFWEqUNfOvi%2BVMJOspQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789378976&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=435eMr4yG%2FxYGEvFV5VMhDOsQ755sI3hd7raDNdp5SeInzE1A%2FP%2BDJ2znjl%2FEnGR2nrN9M8w%2Fh2fFFku4DmLJgrKo1k2MRMC7TInnekREfrpg2xPcgsF%2BtCXlZGzAlnUH%2BCIC%2FXOS2aobUXAgwVUZm939lGR06VghGxs8o9vfXRNQAbGNCx4DWUes%2F67hrH3IK7kxt0%2F2x62Rwq0cPAIpqZ1VOOtCF%2F2Sv%2BMM54EyzTpEi4fMSZeJqXbmkD%2BlpjP%2Bff6RJvbLf7CnugbWwSz%2FjkYupi8AB%2FBAE1AAD3i8e5dJAfOgsXcnSQjxBWUOUItQ0Jl%2FaJ7oEMCqYNnSb%2FuFQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
 
 #### Additional Information
 - **Post color:** White
@@ -1892,7 +1902,7 @@ No post
 
 💩
 
-#### Comments (42)
+#### Comments (44)
 - **ユリカ** (Sep 02, 2026 01:02am): まんこーまんげーちんちちんげーはなーがさいたらー
 - **おなべさん(新垢** (Sep 03, 2026 04:35am): 下ネタ言えば何でも良いってわけじゃねぇよ
 - **Anonymous** (Sep 03, 2026 05:33am): 「下ネタ言えばなんでも良いってわけじゃねぇよ」とか、わざわざこんな吹き溜まりみたいな場所でありがたく御高説垂れてる姿、最高に滑稽で香ばしいですね。 「性」の話が出た途端にシュッとお行儀のいいお説教モードに入って同調圧力こねくり回すあたり、いかにも「世間様の手前、性タブーを守らなきゃいけない」同同同調圧力が染みついた日本人らしくて実に味わい深いです。 そんなにコンプライアンスと品行方正がお好きなら、わざわざこんなネットの隅っこで不毛な正義感ごっこしてないで、現実の教科書でも音読してすまし顔で暮らしてたらどうですか？ 見ていてお寒い限りですよ。
@@ -1935,6 +1945,8 @@ No post
 - **Anonymous** (Sep 06, 2026 10:59pm): 草www
 - **おなべさん(新垢** (Sep 07, 2026 02:53am): うん。学力低下してる。受験なのにやばい。って言ってるけど努力してないのは論外だけど受験の時期ってうちの周りだと皆不安定になっとる感じがするなぁ。軽く鬱になったりとか。
 - **Anonymous** (Sep 07, 2026 03:36am): 高校❔
+- **おなべさん(新垢** (Sep 07, 2026 07:50am): 高校受験やで
+- **おなべさん(新垢** (Sep 07, 2026 07:52am): 思ったより周りが病んでる部分あってね((他の中学校とかはそうでもないのかな))
 
 #### Additional Information
 - **Post color:** White

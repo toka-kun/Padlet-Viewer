@@ -1,4 +1,4 @@
-最終取得: 2026/09/07 15:31:26
+最終取得: 2026/09/07 18:41:43
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 141
 - **Created At:** Aug 31, 2025 08:58am
-- **Updated At:** Sep 07, 2026 02:11am
+- **Updated At:** Sep 07, 2026 09:12am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -26,7 +26,7 @@
 - **何を書けば良いのか分からない場合は、サンプルを参考にして下さい。**
 
 #### Comments (2)
-- **仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Jun 19, 2026 11:54pm): わかりました！
+- **ニカーー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Jun 19, 2026 11:54pm): わかりました！
 - **よっしーちゃん** (Aug 27, 2026 09:03pm): いいね
 
 #### Reactions
@@ -456,7 +456,7 @@ YouTubeやゲーム，プロキシなどが少しある。
 ---
 
 ### 15. あられ部屋
-**Author:** あられ　𝓎𝓊𝓂𝒶　#翠の一番弟子　#6代目女真族 (gs183556)
+**Author:** あられ　𝓎𝓊𝓂𝒶　#翠の一番弟子　#ningen様の2番弟子　#6代目女真族 (gs183556)
 
 優しい人が多いです
 
@@ -1211,7 +1211,7 @@ BAN覚悟で
 ---
 
 ### 45. Proxy革命軍
-**Author:** 仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子） (TOKYO874321Forsaken)
+**Author:** ニカーー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子） (TOKYO874321Forsaken)
 
 たくさん人がいるよ！ゲームもProxyもユーチューブもたくさんあるよ！オーナーがすごい優しくてすぐ仲良くなれると思うよ！
 
@@ -1343,7 +1343,7 @@ BAN覚悟で
 
 #### Comments (2)
 - **hirafu** (Jul 11, 2026 09:53am): はいれない
-- **仮面を被った人（元ニカーー）#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Jul 27, 2026 10:37pm): それな
+- **ニカーー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Jul 27, 2026 10:37pm): それな
 
 #### Additional Information
 - **Post color:** White
@@ -1637,7 +1637,7 @@ ISGCで使えるプロキシまとめてます。
 ---
 
 ### 63. 雑談部屋
-**Author:** あやの (s180256_3)
+**Author:** ゆあ (s180256_3)
 
 まじで色んな話題沢山話そ！！
 
@@ -1652,7 +1652,7 @@ ISGCで使えるプロキシまとめてます。
 [Attachment 1](https://padlet.com/padlets/uucyrfkkez2hx21a)
 
 #### Comments (1)
-- **あやの** (Jun 08, 2026 01:11pm): モデレーター0です！間違えました🙏🏻
+- **ゆあ** (Jun 08, 2026 01:11pm): モデレーター0です！間違えました🙏🏻
 
 #### Additional Information
 - **Post color:** White
@@ -3437,7 +3437,7 @@ a
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1789367508&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Cfgn384FgyGZ5%2FoZ2musH4j8KFVuMkqiWLtJQenbz4zfm2CjKyiQYK0avQQTGb%2FOieWrgFv8VMGxYjF9xsL5Mb9D6sMSboGLEoLLzx1AAV6%2BHHe9RHaRJeosFhpqePSlZZAIGwfAaCRePEkE1pDzcKX0EmF%2F0bjBA7Pi9o8apX7OZmdATsjQJSPpIONAoONbZT2gPLDQ97at6C07xje3RZFPljbJ9e%2FWfwPUYkIGQSWjIwX1sdYceV1%2F1LWXceZ5e2580tPra7Gl1VaIHd4V3%2FSd5o%2FIZpMhPZkqxQfVD%2B0uF1Vpbfxs7%2FZ5rjgGVnKmBkZQT5Y4yQQoCFD1eGsj9g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1789378931&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mbW6d1kK4%2BoM4XYpm2rSdu0UQ4fyytycd5zDL0ppxLjOcN462oecQvtL%2B%2BL6F74cZajiT44MDZN%2FciDCDOhZ5xA3A%2Ba7wqU3WQv%2BWvb7Fy9D9KF2oACZIFzYaG59iXH45c%2Fr8p5RBenG3i8L0ZU7n24L2KcMXaNOR2%2BsZfGN2PB6%2BRauSUoaarnwa2xHaQZrq%2Flbht1RwhR7w1oFf%2FbtLY3AEOqToluK6fBaYSmFuaWrJWwbx3Bkqim%2FDWqUecP78%2FyxlsPlxhOrYZMkG8NoubAoIlSCxIQPkyhtFtgIL1j7yTfKx8UGvG%2FB5Wp%2FUkXZmymTeOg8gEqCHTpi6xmjZQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (2)
