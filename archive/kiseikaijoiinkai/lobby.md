@@ -1,4 +1,4 @@
-最終取得: 2026/09/08 15:33:11
+最終取得: 2026/09/08 18:58:47
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 46
+- **Posts:** 47
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Sep 08, 2026 05:16am
+- **Updated At:** Sep 08, 2026 07:21am
 
 ## ルール
 
@@ -113,7 +113,7 @@
 ### 5. 野砲
 **Author:** ガジェット超絶z
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6203129829/590fd1eba39a80dae4ad0a86696f9d94/videoplayback___2026_09_06T192233_571.mp4?Expires=1789454041&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WMQ3eKhrM3THlMsxMAK76OB4jnqGzsG%2F1xP6JT5xkbu4gF4FPMOXUbrxqeu2TPYOl2Vf6d9R9ACWqiy3Ct%2BL0PLT6Ugd1kmPtz05WZfNuLiCM5shhYOW2KP6EvAfT7Ugt8D9QExAcQy8CnGnx9CTFoCRadO7hqI0oYIB31hvwaEzTO63FEab1QNTACkw%2Bhk4yZcYbRKsAaHfQ0b5yWyAI0f%2BPe5%2FxRTrwd0tuwMN2VfB%2Bz96Cf6ZkPc5caNpHmMS4PxdVutFqzqdkJG1e7HNBdEbf9q0NL%2FSqnno0qPEULIQsWtbvvyAA5kPsZRpib8HxYPaLQohyDc4EL28GM4RTw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6203129829%2F590fd1eba39a80dae4ad0a86696f9d94%2Fvideoplayback___2026_09_06T192233_571.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6203129829/590fd1eba39a80dae4ad0a86696f9d94/videoplayback___2026_09_06T192233_571.mp4?Expires=1789466385&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Wl2K%2BUtm34XDfLPScnJVpmK%2FgPDqrhEa3woCIjfXjHgb7wpSomnuQCxID4OArMC0zWfCgnmm99%2BBAmmsZamgbk%2FvZBnJAfvmhEsoSqR3IaHciGmWUHcIeBwmaF7D5y%2BUqyD5u8JRYQMwBRGakT7i51MisyWhDaHVURjaPoBU8jfwq%2BW5SOOkP3Be3yPCbhpzYoNOalNtv3XqXLq9L%2FKzlBLIFMuUiSR2rm4f%2FDawQhGiVz5gNuJZjorq%2FZTg5RDLrX2k3OtqYqDIr4FNXCN2B01qreK46WGHk5hmsCAOgVXf%2BAExHLtAe7pgpPF5NCyCpMyJS8cDF890cSGqMy2GLw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6203129829%2F590fd1eba39a80dae4ad0a86696f9d94%2Fvideoplayback___2026_09_06T192233_571.mp4)
 
 #### Additional Information
 - **Post color:** Black
@@ -125,7 +125,7 @@
 ### 6. これ見れる？
 **Author:** てらてら
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194730678/e0a90eb93b7136001fe8ecc31dd5ed79/videoplayback__45_.mp4?Expires=1789454041&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nRrN3rmfQXkpRvmoERFZ%2FaIAWIOCC3lIJrTmaFU95RwZRg6jMYBYAPdtFGwMGX3DrnGkhXN6g5%2BwhtTm8RH3boUdapYzLcC6BK1p6yMEmSHtgQPTOzaVMCiX2rlzxx7MFvnBx5ejShoGq5%2Bb5yiLb8Xqh5bGAxJ31NCLPnOn8dRITUhf9qfmsWY0D0hAO4eGanhrDUdLFrmNvUh%2Fxdj20mFA%2Bbgwgzc%2F2fFaYCtz5o7KQ9ackIyibJT7JblVIYwCJS0PvXWd0kzQWObX93WecFcpBSgmaZvgihLu96Xp%2F52DoNyrkr4K%2FZoh5LYgnkqx8dhgysai62u3E1N2V0KyFg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194730678%2Fe0a90eb93b7136001fe8ecc31dd5ed79%2Fvideoplayback__45_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194730678/e0a90eb93b7136001fe8ecc31dd5ed79/videoplayback__45_.mp4?Expires=1789466385&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BNGsLcouFhs0qPrjlj6wNzyIQTa8VbLNza3%2F2cW7ViJyFE4D9BEhKBV7TndnWUk0XuT045aduMCavFE1tLrW%2BuKr4maU3CUCDaq4AnyQjj1uCOb0lhFBHEyb%2FmaH99y6s9KvguZjMiya8BbT1rS0%2B%2BvpTXRoZQ%2BTMCJIo56DOQhV7RV%2FoIreNtZSbEFAp1hcH79dm5Cu89QuEjZauxgMqPesDVGMH8NoRY3pvxnVbTOIQcT47AN24wgRjN5cUh2DawoXqrWPOOJuymrNrRAoHtQ1Wxj9ZW%2FTPjofjfioquN061vC%2BVuwqY7d1vd%2FqQXfhVhHqDHjcGVQIuIjf5xOkQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194730678%2Fe0a90eb93b7136001fe8ecc31dd5ed79%2Fvideoplayback__45_.mp4)
 
 #### Additional Information
 - **Post color:** Black
@@ -139,7 +139,7 @@
 
 解除してください
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194665627/8020d285b6b4d07cd736be52cb8a0091/photo.jpeg?Expires=1789454041&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Mq7XWw9%2F1J0z3hmvoi%2B1HQfbue6iiCH%2B2Y2JAanTV2HNb%2FjaK1VA815mpqO7OQ88WJzmoi7QZq5CYAjl%2BJRa9hVDFTOy12Uc6o3Zi0Yo98YXC83V7GT78jjIbNjJlRYBJ4dE8Cp97mYV%2BZs0%2BIIAnabixkgzNWvPZ2tFDt%2BlmX93a9WFwaLm8RhTvLxOx6pGow2mvDv9opcsorCOEer5M6jwhcUIvN%2FabnWyT6k3OaBaKiE%2FJTM0Dyhqj9ujCwycfVif0%2FR3LLH5HfMGwLz5leBuyeLMz04d966PzWqFqRP8zdcCiN9I44mM0v21Vux0AONRl2nwI4a1VkLcP04CbA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194665627%2F8020d285b6b4d07cd736be52cb8a0091%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194665627/8020d285b6b4d07cd736be52cb8a0091/photo.jpeg?Expires=1789466385&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YF2yqPZKaETSc7d3K8vDJZNcFXYPbDZ%2F56CjdeD%2BKMLEFVod6CZkHqUdYldf8C9AYSbo8KMtiXqI5ChhTvJLA7zZOqNosJPHhviNaXlpe%2FpgIQK85zgzVitCmwiuRO3qgABZtt2EtwWU0aLT9RQ5DJfC6911OY%2BaaRFE%2BNFWAFsRcOIBAtMHWdChcebQ6R10O8v3Q278KCMtVkf3409zlyyGxqZwEFvJ6BgExs%2FXtqsX9Fhu%2FCpsrW0z%2FevrcaI1up%2BK7uWXOMEN8Nz%2F%2FZujOsKn9iEE1D5HaRoNEVA27fSLfvRIGoyEy2MkUObdf%2FzA7P2%2FQ1n0FkU5o2OUjgch2w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194665627%2F8020d285b6b4d07cd736be52cb8a0091%2Fphoto.jpeg)
 
 #### Comments (1)
 - **ささ** (Sep 04, 2026 11:50am): きｍ
@@ -214,7 +214,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1789454041&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SreZWa40vc64QXaWdvQb9AYHOM5jQpFVN2H3KLWOX0%2B2%2FkZ5NT6mASFjaju7dWVK15ZTffIDaG4zEVVm%2FidgMLpHCOkwj5M1y83A18M0jVdPD7Jh3pV8%2B6DsIfIdnJtE9xwQkhPkdIqrzaSv1lmPW2HBhGlm81AisV%2F2ZA9B0PKo9Den59snShrV2cEzV8qVdBlmQDqBcg0Zj9ZfRF80WEkMu7778IDjJ6cq9VrKWVG4Zyfhz7uRXqObLPRMunNDWK2AYp%2BOnCY7rf329STBttpx87DjBH4BWV8%2FTbhRhiT%2BFB9GNvsfqHNqGd98hFJ5ULmFc5DTFdj1ytY%2FcMKSBw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1789466385&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=e06hlSI1RY2UyGdSFVn6Q5nMVRO5VWkRAJm%2BlE4WCLmZQArYSWufwyBDdjUFXnVt55jXWC5ZQ0C9GIRaXt2cVEdGr4hDXt0kLSA%2FmzLdyAP%2FxDT9fl0VBfS7ZDv77ZfmX9BYfqR34%2F75MWotPrl%2FTR%2BW6a7VUljqQqPUE9Y6sJYeW8RoUcyU%2BJJnUGlozXHZ71dWfw2dYV6WPHwxB7i9MiXDkQXUDtCqN56V1fRl18H1gRQ6WREIYDJSYDKHbseUUClKMxziIqQS9TDLNeMg3qbkISm8lZF4hi3ge0T3oeBbW5jK4NKhTE527srp9fd3wqGK7IgsHkiuT7DdKn%2Bmrw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -572,7 +572,21 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ## 好きな事をしたまえ
 
-### 1. Post 1
+### 1. 長野県在住グリコです
+**Author:** グリコ
+
+長野県上田市上田原680番地17に住んでます。
+
+郵便番号6432＝223
+
+#### Additional Information
+- **Post color:** Black
+- **Created At:** Sep 08, 2026 07:21am
+- **Updated At:** Sep 08, 2026 07:21am
+
+---
+
+### 2. Post 2
 **Author:** 非リア充陰キャ
 
 非リア充陰キャです。お願いしますデュフデュフ
@@ -584,12 +598,12 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 2. eyooooo
+### 3. eyooooo
 **Author:** teratera
 
 niga
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6207871980/d6d2c30b72c67be47fad5ab87c305d37/videoplayback__38_.mp4?Expires=1789454042&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dBQl9K1sHW5ZN3QmDEuHyw50EEJLG5kLTwITma3v53%2B3fNymTQN8OPjVcFozhaTb%2BskxWwH4kvXPcJXsC177HaEAozDTIz710WjMqRfQ6CEdPFKW%2FDvFCon1FeIHTzPdSN%2FHbpMK3PYbRWXVUbBWtmKZaUsKUL09DShPm3fUOcRsHmzlPFoBAQyDP1sFTzozjYWrrfH3RYKC8LnCaXaguxt4e2%2BU8yzm4ihoRGBnHAIpxWkiW4ZXf6nOR0iclc9q9IpQZSOg61QATXU3EDpamzJv78gAx9BadnwKkPMrGfb7vyRp9yffFDeK3j0Pm3RLP%2BXJ0NtSNw%2Ftqw8TiUs80g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6207871980%2Fd6d2c30b72c67be47fad5ab87c305d37%2Fvideoplayback__38_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6207871980/d6d2c30b72c67be47fad5ab87c305d37/videoplayback__38_.mp4?Expires=1789466385&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VfhogDFaO1PpINo5%2FiaHKzZUpj2hUcp1RFCK6h3uKs1vNhUcmu3k0rR6JJ1lZiNe%2BJWMNVenUYJDDArSEpEZ0hUtYm%2BRIAVquKM5xhaGCJCacgTN4u%2FL1zTLv%2BsE%2FGJBvf7tUXFuqZm6VvlF7Nk7jyX5wB0A6uOMYzINXyThyD%2Bbqz0unaqzL3g09EkLh1bCthjwq9C9RBOUteeEtN%2FR0O1DgwUGJ%2BWozB1rCnq2fxqLp%2FdQom9Ls4jQ%2FqBvv7XlCdsEAB3Gau%2BmfjCq4qxYRhlEyxr2GJpEE8ZR%2BwtBTOI0L41JIiedj31E5h8UoFeSY6gJCcAS4KaA5wx%2Fm%2BK65Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6207871980%2Fd6d2c30b72c67be47fad5ab87c305d37%2Fvideoplayback__38_.mp4)
 
 #### Additional Information
 - **Post color:** Black
@@ -598,7 +612,7 @@ niga
 
 ---
 
-### 3. あいうえお
+### 4. あいうえお
 **Author:** むららい
 
 #### Additional Information
@@ -608,7 +622,7 @@ niga
 
 ---
 
-### 4. てら！
+### 5. てら！
 **Author:** むららい
 
 #### Additional Information
@@ -618,7 +632,7 @@ niga
 
 ---
 
-### 5. おい！
+### 6. おい！
 **Author:** むららい
 
 #### Comments (1)
@@ -631,7 +645,7 @@ niga
 
 ---
 
-### 6. 東条チャット
+### 7. 東条チャット
 **Author:** てらてら
 
 #### Comments (4)
@@ -647,7 +661,7 @@ niga
 
 ---
 
-### 7. ここにならなにかいてもいいんですか？
+### 8. ここにならなにかいてもいいんですか？
 **Author:** みさ
 
 #### Comments (3)
@@ -662,7 +676,7 @@ niga
 
 ---
 
-### 8. 規制解除その二
+### 9. 規制解除その二
 **Author:** 根釧台地(元いときち) (Dopagaki_67)
 
 これ使えばスマホ用+タブレット用の規制されてるアプリほぼ全部開く。あと時間制限もない。神だから使ってみ。
@@ -676,7 +690,7 @@ niga
 
 ---
 
-### 9. 規制解除
+### 10. 規制解除
 **Author:** 根釧台地(元いときち) (Dopagaki_67)
 
 ChromeBookユーザーへ。
@@ -692,7 +706,7 @@ ChromeBookユーザーへ。
 
 ---
 
-### 10. Hなことしたいぃ❤❤❤❤
+### 11. Hなことしたいぃ❤❤❤❤
 **Author:** えろい写真ならたぁくさんとるよ？❤
 
 シコシコされてみたいぃぃ
@@ -711,7 +725,7 @@ ChromeBookユーザーへ。
 
 ---
 
-### 11. Post 11
+### 12. Post 12
 **Author:** えろい写真ならたぁくさんとるよ？❤
 
 ![Attachment 1](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/5b52c95bef1e316f24d02aff290588f2/image.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiKODDkaUHvSHRKVnUA3vW0A7Yaom2nXEVoIVvCrg2oui_doTIcIq4lKY0d2XFo9w9sR9dGuIu4h_loDJRZEZ7YgsSvSkKIYPXfDNfIKPQzEiQ==)
