@@ -1,4 +1,4 @@
-最終取得: 2026/09/08 15:33:11
+最終取得: 2026/09/08 18:58:47
 
 # プロキシ本部
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/qwertyuiopasdfghjklzxcvbnm5671091/padlet-afg5jcs1w4yyk2h1
 - **Builder:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
-- **Posts:** 7
+- **Posts:** 8
 - **Created At:** May 09, 2025 01:39am
-- **Updated At:** Sep 08, 2026 06:11am
+- **Updated At:** Sep 08, 2026 06:39am
 
 ## 現在の状況
 
@@ -112,6 +112,17 @@ No post
 ## プロキシ
 
 ### 1. Post 1
+**Author:** 0b1001 (h3002183)
+
+[Attachment 1](https://d1xzx4vznne13n.cloudfront.net/)
+
+#### Additional Information
+- **Created At:** Sep 08, 2026 06:39am
+- **Updated At:** Sep 08, 2026 06:39am
+
+---
+
+### 2. Post 2
 **Author:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
 
 [Attachment 1](https://storage.googleapis.com/dogeub/index.html)
