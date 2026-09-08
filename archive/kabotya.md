@@ -1,20 +1,20 @@
-最終取得: 2026/09/08 20:11:39
+最終取得: 2026/09/08 20:45:43
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 136
+- **Posts:** 138
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 08, 2026 11:02am
+- **Updated At:** Sep 08, 2026 11:30am
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789470776&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RrMmifIpzGTNVqThDAal8NIkx270OjzLffDiqcbIafwfwoCGhERHtjiQfXO45J2i8QgeZb6JjVFbbtBNzTc90J7Xb4Kh2Ucp%2FfjtIioFv297Xac1T76xuwkDwwhBC9kjZ6%2BxVhlRZawSsS8tLIO3OzvhwTM2UHxkKDvLzgeVDkLOwxVmKc4vKRvy7FILalo%2BMQimB0kB0g6vHiyoZ6FBHT1fU9xC4qaUWsqhopUwD9p%2BixmIOWFYZysTQ3KFRpkSoEX6xZ7xAKVivKCanbMI8goKpd%2FIcADqsJdTDt0jElcLm%2FzRz8L40csrGaHCLGomXa%2BImqymYbeeqo9BzX8ukw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789472814&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xOyNgbEijsMxdRg6VkJEziAVe1ulcb3ftu8SeD5EJPff628Elt4op%2FxU%2FFDrIX1AAgj%2BV6bL8fSBNMOdqBzC%2BIpMaJq4jkc%2FUmGwbYnKrZhurGFxbaFwuUqWw%2B6XaoRMl0DWXFD7tIjtca5nYu%2F4fxCW5Nw9ipUyObPWdfyLJP2DGOWXoJNF%2FFnGS8Bn757MtE70UJg8ySX3PWr7dJlc7VsdCmRipI9ZJCPmvOBZ%2By3bwclKoS8rA25hDQMU3D8SNfHHUQngcjLrhWFTdfijklqZye5fSjwpV877npBA7LSOM1%2BWOh6D2viUABe5oP31EMitLISwuBLVElq%2Fjr9rWg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
 #### Comments (15)
 - **清水** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
@@ -67,8 +67,9 @@
 ### 4. おっぱい触りたい
 **Author:** ユメミソウ
 
-#### Comments (1)
+#### Comments (2)
 - **おなべさん(新垢** (Sep 08, 2026 05:40am): 自分の触ればよくね
+- **アカネノ** (Sep 08, 2026 11:18am): ユメミソウって名前なら夢でみとけ
 
 #### Additional Information
 - **Post color:** White
@@ -648,7 +649,7 @@
 #### Comments (18)
 - **ミドリネ** (Sep 01, 2026 10:01am): あっざっす
 - **ナミユメ** (Sep 01, 2026 10:32am): マジてんきゅー
-- **mbappe♯つつきの森1番弟子♯狂鳥族２代目♯つつきの森と同盟中♯青の風と同盟中** (Sep 01, 2026 11:44am): てんきゅー
+- **mbappe♯つつきの森1番弟子♯狂鳥族２代目♯つつきの森と同盟中♯青の風と同盟中♯初代つばさ教** (Sep 01, 2026 11:44am): てんきゅー
 - **えいこ** (Sep 01, 2026 12:11pm): ありがとすぎる
 - **神** (Sep 02, 2026 04:17am): ナイスー
 - **ソラハル** (Sep 02, 2026 07:24am): まじさいこー
@@ -1711,7 +1712,17 @@ fernって名前のやつ　履歴消したらきえt
 
 ## croxyproxy
 
-### 1. 使えるプロキシサイト
+### 1. 翻訳でチームチーム茶色茶色サイコロスキってうって
+**Author:** アカネノ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 08, 2026 11:20am
+- **Updated At:** Sep 08, 2026 11:20am
+
+---
+
+### 2. 使えるプロキシサイト
 **Author:** ナゲット
 
 [https://www.mathsolver.tokyo/](https://www.mathsolver.tokyo/)これ最強
@@ -1720,7 +1731,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789470777&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zlOXnqXYpFRWgIt5G2ZTo6euxth%2Br3WUrbzx2aurb5Rp2RzumvAy8EMDJA33JIMp60%2B5%2FjMuhv%2FMFzOnABth5O2DxAjes0VgqYtpEJtwFLkdbWf1RqrIDeDkNcq4PVq5H7Uxi2x2hL1vCd9HB0Kd31kqOmci46dAUPBfA5hENs0UHTCDGzIgfaCsNHWoD6bEqRl5XHUj1vjV27SvfKcmW1Q7RUgkNjO6yyUqswNLLWgJJGAMlKZ87yYU%2F5c4Bu%2BXi86lZkE1T36P5DXe4ang1sdjhmwy0vtZ%2BQR1uTXYiAiiunZMsUXmyhVzs1eq%2FBUAcAP9f%2FqoSAbe7vwHFXQ%2Bsg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789472815&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cbS6q5wwFn%2BvtcvtkMzd3ehZ9pHhi3S1ucTtBPx80O30HAz28Yf%2F8zT2J4EPVLJdst2j049DEV6WS6jhJssN3sr6BUeklc8Ra6F5xihoRuBVAZxrY7i7VIiZ3D4T3AtOmgfOsQSFgU8v9YULmIYwZ279HTJp9Iv8xVClB1L1u8eoGIUJ3pDy8qRDbz0lOEY6pZAj7z1pbSqZFO%2BF96y4lrKxP9mmUPFSVuI8tJZORZYjF6b51p8IXrBh%2BkL3XC8am0AQ4vJ1TTi1aXJxfMh9cg84DcolntfLtnfxQzT%2FnTzQUtDy1aYXlscfqWkQLRFaxXHEanfHYfLZ9ITqIdC0bA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (7)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1738,7 +1749,7 @@ ID:shibboleth
 
 ---
 
-### 2. なにこれ
+### 3. なにこれ
 **Author:** おとちん
 
 [Attachment 1](https://u.topia.2a.exe.googleapis.com.hospitaldelninodif.gob.mx/)
@@ -1747,7 +1758,7 @@ ID:shibboleth
 - **おとちん** (Aug 28, 2026 10:04am): サイトのURLコピーして貼ったら見れる
 - **ぼちぼちいこか愛好家** (Sep 01, 2026 12:48am): マジで？
 - **カナタビ** (Sep 01, 2026 12:55am): proxy?
-- **mbappe♯つつきの森1番弟子♯狂鳥族２代目♯つつきの森と同盟中♯青の風と同盟中** (Sep 01, 2026 08:38am): そうだよ
+- **mbappe♯つつきの森1番弟子♯狂鳥族２代目♯つつきの森と同盟中♯青の風と同盟中♯初代つばさ教** (Sep 01, 2026 08:38am): そうだよ
 - **カワヅタ** (Sep 02, 2026 10:57pm): ユーチューブみれる
 - **ハナグモリ** (Sep 03, 2026 02:54am): これエロ見れるさいこーーーーーーーーーーーーー
 - **Anonymous** (Sep 03, 2026 03:23am): スマホで見ろ!
@@ -1800,7 +1811,7 @@ ID:shibboleth
 
 [https://www.youtube.com/watch?v=LOHXVrYXlIM](https://www.youtube.com/watch?v=LOHXVrYXlIM)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6217746321/d7cf1611ceb3343887194242af070099/main.png?Expires=1789470777&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ty2k0yMkKl5G7K3OlErT7s8FfFRRMeAupWSEruPNMJyICdrluojyzeNQamVk9auUfT2y3xpP8Jq4v9WBiWyHW4xoQoC4r83Tu1n2kbVi12QTIcab0qb6XNdCeav9cxzZXDq6wcHQHnGPDNbB785wT7%2B%2BTJNT0rHcAG1iHVh3b%2BoptRZhKSp27hgG3EXqss%2FPQxGliKhTLtYBtY3uP6F5TlFDvRIjEfbqU1ViPrMtvccy76A4F0f5YnIFGKyD2bBsf198yqPnz5fDHJIbM2ND7A1Gytwcu%2Bfh9ASffsPptMB8cc%2FItjrT4Y%2FHoXtHQZbjMKWijPoUmmZ0xSQVHoLUaA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6217746321%2Fd7cf1611ceb3343887194242af070099%2Fmain.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6217746321/d7cf1611ceb3343887194242af070099/main.png?Expires=1789472815&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Fz%2BJ5pN96X0200kXv1730j%2Fp93w5BOtAvoAPieC4Laxqc4jqK4zlToXsoyuoyQYFukf7F%2FAyoI5F0FW6hNdtcLLpzaR7LR4Jkng5ct8G%2Br%2FKYyFHboJi2dtz5jPRJ2EbyYn94GYEFIuROq7dScMKpWR6BlLpyiOKRVN%2BQqw1C99TRjRZaWOHJ1zi8SZ%2BEjvStUXyJpelXOxICXzByDAdY%2BEjIWcWK0jGwRMmbN4CY8Q4m55tH97AbDkyxWANlwPOAD0DYwi9%2FATb12JIPntYSyTdhiySv3tCsHc9kI0hwHwwbOq3%2F1L8eoGQuHgu6VFKauJV%2Fym1dWRjZoEQQ%2FUhpA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6217746321%2Fd7cf1611ceb3343887194242af070099%2Fmain.png)
 
 #### Comments (1)
 - **ゆあん** (Sep 08, 2026 09:16am): まえすけのどうがみれるよ！みたいのがあたら↓
@@ -2113,7 +2124,7 @@ ID:shibboleth
 ### 1. Post 1
 **Author:** 救世主
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789470777&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hn0QCvZJGv96WYMHSqhT16htfCid1QghfgnJj87y9qclyX0H01cBd48iIWKMb6laU6c%2FhA4cZxzlTyTI%2BlBvBul3w4%2FPjiq5Gof4XnO4cgXgXDfiukqDHO1SvYD7I3kVPO54RI6cyUO%2Bz1ej%2BTpQ6AibVp%2BO9HienlkmdB%2BEr%2FQLs%2FGZpP3%2Bqxs9edjZ37Hl74SwtcBzSPFn5uJ68m%2BaxtmPt3q%2FIPTESxAD2EGb5mTCH3H1jgV5CZnSB%2BydP44yBcbz7l7l1t45uT5rhNChL2lojUUMjCpAMJbiFyhOlUGJzBNYR4JYKNsEHIzvz7lbqnz3Nc5ogvcco0TH4lrhag%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789472815&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5bJAis4x4cqzt%2B4DMJqJsKLvUmK%2Ffrewz5YGNGStoPDUmYhXYOySsHv354UNR%2Bes7WCcllRkiVKGzj%2BmMTTUd5UzbvpjZ%2B04jIm8qClvI0MCsccMtBzjZ678X4rQ08fIOpXpNpbRB1RiaEXbJAgVwmKZuta5peOv%2FNxUyuGU%2BtesL8mH1mAgKqpjafbWHjzZ%2B3olUZg8MTock8Q0ggwJVwQt9DFSF6SLCBaQysU7RXBmYXEwhgW5%2FUBW00xTGWKuVMYxHgpCV56fO0nzmiuZLs8xs91G4Z2gfJCoYXx5aoK9LUsDaoETR65H3%2F2mieVRjw%2B%2BccrplIqFW%2Bof4A8mNg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
 
 #### Additional Information
 - **Post color:** White
@@ -2197,7 +2208,19 @@ ID:shibboleth
 
 ## 宣伝
 
-### 1. Post 1
+### 1. 来てね
+**Author:** mbappe♯つつきの森1番弟子♯狂鳥族２代目♯つつきの森と同盟中♯青の風と同盟中♯初代つばさ教 (akiramenaidedonnatokimo)
+
+[Attachment 1](https://padlet.com/akiramenaidedonnatokimo/padlet-kerg40vcf1nvu3eh?lang=ja)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 08, 2026 11:20am
+- **Updated At:** Sep 08, 2026 11:20am
+
+---
+
+### 2. Post 2
 **Author:** ショートスリーパー (r0245140)
 
 [Attachment 1](https://padlet.com/r0245140/padlet-lbo858hpf5o74lyy)
@@ -2212,7 +2235,7 @@ ID:shibboleth
 
 ---
 
-### 2. 受付
+### 3. 受付
 **Author:** 常時暇人のたけさん#T-72B3M&Su-30MKIの右腕 (JPsan)
 
 [Attachment 1](https://padlet.com/JPsan/padlet-8ycowe3whdyy2rwa)
@@ -2224,7 +2247,7 @@ ID:shibboleth
 
 ---
 
-### 3. 匿名掲示板やぞ。じゃんじゃん入ってくれ。拡散しまくってほしい。
+### 4. 匿名掲示板やぞ。じゃんじゃん入ってくれ。拡散しまくってほしい。
 **Author:** おなべさん(新垢 (minecrft)
 
 [Attachment 1](https://padlet.com/minecrft/padlet-s023bx0x1fl4vfpi41pt)
@@ -2236,7 +2259,7 @@ ID:shibboleth
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** 究極覚醒BERUSEBYU-TO (21070052_1)
 
 [Attachment 1](https://padlet.com/21070052_1/padlet-s02391231k9ovta9c99h)
@@ -2251,7 +2274,7 @@ ID:shibboleth
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** run (11324130)
 
 [Attachment 1](https://padlet.com/11324130/padlet-14581bzu81lq98jp)
@@ -2263,7 +2286,7 @@ ID:shibboleth
 
 ---
 
-### 6. こい
+### 7. こい
 **Author:** Outpost Keeper
 
 [Attachment 1](https://padlet.com/akiramenaidedonnatokimo/padlet-kerg40vcf1nvu3eh?lang=ja)
@@ -2275,7 +2298,7 @@ ID:shibboleth
 
 ---
 
-### 7. Post 7
+### 8. Post 8
 **Author:** ユキワタ
 
 [Attachment 1](https://padlet.com/298344445/padlet-jibykjil8dz23tn7/wish/9kmlZV5v2nyeQpgV)
@@ -2287,7 +2310,7 @@ ID:shibboleth
 
 ---
 
-### 8. Post 8
+### 9. Post 9
 **Author:** ユキワタ
 
 [Attachment 1](https://padlet.com/298344445/padlet-jibykjil8dz23tn7/wish/9kmlZV5v2nyeQpgV)
@@ -2302,7 +2325,7 @@ ID:shibboleth
 
 ---
 
-### 9. Post 9
+### 10. Post 10
 **Author:** 究極覚醒BERUSEBYU-TO (21070052_1)
 
 [Attachment 1](https://padlet.com/21070052_1/padlet-s02391231k9ovta9c99h)
@@ -2318,7 +2341,7 @@ ID:shibboleth
 
 ---
 
-### 10. みんな来てー
+### 11. みんな来てー
 **Author:** ぼちぼちいこか愛好家 (2101038_5)
 
 来てくれ
@@ -2335,7 +2358,7 @@ ID:shibboleth
 
 ---
 
-### 11. こい
+### 12. こい
 **Author:** aaabbbccc (mazamaza)
 
 [Attachment 1](https://padlet.com/team_otomodachi/proxy-mu2o69gm2ch9o6zx)
@@ -2347,8 +2370,8 @@ ID:shibboleth
 
 ---
 
-### 12. 絶対に来たほうがいいよ。きたら自己紹介よろしく！！
-**Author:** mbappe♯つつきの森1番弟子♯狂鳥族２代目♯つつきの森と同盟中♯青の風と同盟中 (akiramenaidedonnatokimo)
+### 13. 絶対に来たほうがいいよ。きたら自己紹介よろしく！！
+**Author:** mbappe♯つつきの森1番弟子♯狂鳥族２代目♯つつきの森と同盟中♯青の風と同盟中♯初代つばさ教 (akiramenaidedonnatokimo)
 
 [Attachment 1](https://padlet.com/akiramenaidedonnatokimo/padlet-kerg40vcf1nvu3eh?lang=ja)
 
@@ -2365,7 +2388,7 @@ ID:shibboleth
 
 ---
 
-### 13. 復旧お願いします！
+### 14. 復旧お願いします！
 **Author:** 常時暇人のたけさん#T-72B3M&Su-30MKIの右腕 (JPsan)
 
 [Attachment 1](https://padlet.com/JPsan/padlet-11oe0dlx9vsegwya?lang=ja)
@@ -2377,7 +2400,7 @@ ID:shibboleth
 
 ---
 
-### 14. Post 14
+### 15. Post 15
 **Author:** ミソラノ
 
 [Attachment 1](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm)
@@ -2389,7 +2412,7 @@ ID:shibboleth
 
 ---
 
-### 15. みんなきてね
+### 16. みんなきてね
 **Author:** 仙人@suger (sennin_sugar)
 
 https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQozfVOY7UPTBkpqfD\_-fwTwn\_kxxLOg/exec
@@ -2401,7 +2424,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 16. Post 16
+### 17. Post 17
 **Author:** 犬
 
 [Attachment 1](https://padlet.com/00221133/padlet-9otqidpsq2a33sru)
@@ -2418,7 +2441,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 17. Post 17
+### 18. Post 18
 **Author:** 1001さん (Haraitai)
 
 ここオンラインゲームがあるよ！
@@ -2432,7 +2455,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 18. 江口 ー さんずい
+### 19. 江口 ー さんずい
 **Author:** 34b6kq
 
 イイ漫画がきっと見つかる
@@ -2449,7 +2472,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 19. セックスしたいやつなんか書いて
+### 20. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
 #### Comments (21)
@@ -2485,7 +2508,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 
 ---
 
-### 20. ゲーム出せセックス
+### 21. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
 #### Comments (15)
