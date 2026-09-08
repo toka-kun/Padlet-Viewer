@@ -1,4 +1,4 @@
-最終取得: 2026/09/08 09:04:21
+最終取得: 2026/09/08 10:09:18
 
 # 規制突破の世界
 
@@ -7,14 +7,14 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 126
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 07, 2026 11:44pm
+- **Updated At:** Sep 08, 2026 01:01am
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789430725&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tb1UYhMJ6eDhsLYAYtxhi7eXF%2Fwz7FB8Fu%2B0mCSXRxv9A9SevJ06jzd%2Fyw0dDKlUXxi%2BqcXZZdLFgoT9AOz3CD4wQaY0J2XrXIfoO00hM0Og9UIscZwevLN%2BUqUFRBex%2FtoSUvOXFp5APjLHcw2jU19jDcBmflnp8IvUwRH3JTUkszvlpFbkCG1jDDsU3d8rbzwhVzbWLQKwGBIk6kjxXPaFKWDNACHikvUn5ksWIlxPW410JSbD%2BQMSJxZH%2BJDwiuT5Qd48JrFTJIbyEs3ERKgd1PIOVsos2czAXGmc2qtctjWRdCfg8LsB9AwfTY2SFlh2%2B7X7xb3Uzfxp8lbUDg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789434619&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=CW7QoLE%2BtAFq9O3yjL8Eq08rvNy7pKsfYwjfHjxMFURwejLqEYQkP8u%2FTE1QTIVZDXHP%2F2xZL49RbAVD%2B0xft2mQvmvkfwZmw0zv1lG9oxd19OAbGGFAsGeHeI7lOOjLKFW7IIjOIKdo6Jiepes1BudYy3NlE2HMZwV8Li%2BO45%2BYyHcg8cAn8xmQQWbQlFk11VTwbWnIdtTSC6Jh0M7ErHAyyhycQpyPl4upCNnkFp2LRMp4scXZOU4kLD79sM97nqSX1MeEHzegLfx1B7QC637h%2FXsXb5Cg9u%2F0d9%2FB%2Bu5l3YpJyU5GwJoK5233h5WHe8N5ZSxu8vakXePi02T8qg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
 #### Comments (11)
 - **清水** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
@@ -182,7 +182,7 @@
 ---
 
 ### 12. Post 12
-**Author:** 覚醒のX (21070052_1)
+**Author:** 究極覚醒BERUSEBYU-TO (21070052_1)
 
 [Attachment 1](https://padlet.com/21070052_1/padlet-l9bx22n6f2mh56z5)
 
@@ -971,12 +971,13 @@
 
 [Attachment 1](https://perchance.org/8xa4skz1er)
 
-#### Comments (5)
+#### Comments (6)
 - **Anonymous** (Sep 07, 2026 11:29am): ふつうに神
 - **Anonymous** (Sep 07, 2026 11:40am): エロ
 - **Anonymous** (Sep 07, 2026 11:42am): 4545
 - **unknown** (Sep 07, 2026 10:15pm): どこで見つけたん 
 - **クモノホ** (Sep 07, 2026 10:29pm): オタクが黙れどうせ引きこもり歴１８年とかだろ
+- **Anonymous** (Sep 08, 2026 12:16am): あざす
 
 #### Reactions
 - **Emojis:** ❤️ (3)
@@ -1628,7 +1629,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789430726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=erFTucBpC20SAcg%2FnXJJrQE94Dmx2Jm1A62z0Dw%2B67Y0k%2BwQ2JSt9LGakE5RR03pRdKU76RfKdgWAh%2FGFgTqlX8rb49w13%2BDjyJnwxvzmxsMzGMFnZfMuf7PjLq4RK0nT0wpcWw9GZYGvAyNNjsa9HBOS1WMkeb3Ku0cu1T1D2RuxnVp9PY%2F0FWkHjMzfqPpxdg4USAquUiHom32e8HKT%2FTCi%2F5kSNjEnWQdAvRDlCR0NHOirwO%2B89jTZYUFKNn0mXKIBUgiul0zieeUEFUjtsFYnUswycW3X760zOZpFJ5Mxz0GThQKnn0nkaQfuRno%2FbYzuXhcGqb762YUpuwSgA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789434620&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=vAbNyd%2FVANXY9qPsDQIncC7nGqwijpeZ5cP%2B8dYpK9YTIueGYxgex19YEouwHJ9XrHIZCU4tkp8W%2BjyiwmfXzaCopG%2F7yYEEQUCkIQekGtNWzajgswRVZtByBxk5D3iNk0nKOZ70eviJ903gt3WWH2PRRleG6RrvFlbh3UjmeYkhTgPsS1PfAlznvdT0TuH2IMU4KlrDek8V5R8iLpIR9rB8mEFmzXxhuPV9qmmZ9%2BhBbzwJOvQua%2B2Y0YrWk1CAzzNNyD48oImncGw9kdaaM9Tl54mBhUEVRx%2BWo%2Fmfgbb2Ryq7wUqIhKmQvtnbiNfyr8I1kOzg8QJdU9JRE8NjyA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (6)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -1772,7 +1773,7 @@ No post
 
 ムービアリンク貼ってくれませんがお願いします
 
-#### Comments (23)
+#### Comments (28)
 - **わらびもち** (Sep 07, 2026 02:38am): こいつに教えないほうがいいですよ
 - **ゆうとでーす** (Sep 07, 2026 02:38am): 誰か貼って
 - **わらびもち** (Sep 07, 2026 02:39am): こいつに教えたら規制されます
@@ -1796,6 +1797,11 @@ No post
 - **Anonymous** (Sep 07, 2026 11:27am): キショ
 - **ミチノク** (Sep 07, 2026 10:50pm): ミネビきしょくね？
 - **アオツバメ** (Sep 07, 2026 11:44pm): それ以上言うな
+- **ああ** (Sep 08, 2026 12:16am): みねびってゆうとじゃないの？
+- **わらびもち** (Sep 08, 2026 12:34am): ミネビきっしょwww
+- **罪** (Sep 08, 2026 12:44am): ミネビひはん多くね
+- **わらび餅２** (Sep 08, 2026 12:56am): みえびきっしょ
+- **わらびもち** (Sep 08, 2026 01:01am): 普通にミエビ警察に突き出せる
 
 #### Additional Information
 - **Post color:** White
@@ -1977,7 +1983,7 @@ No post
 ### 1. Post 1
 **Author:** 救世主
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789430726&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NdX83dV0HNRO5qkx5c1glp23MaHyaDDsTF972fyHsg1%2BmvKRThQUbR3tTghoqax4xFWkpb3O3DtehNLZcP%2FAPVYu%2BnOIpgRZu5MG6zMJjTa%2BH%2BDpq0XlMgwaRBYLWtguLvbam6%2BElvXWL9Uf7%2BUyaVL1GBWDA3fm3U8SpP1Mqf8%2Fw2kztyds83iDuhh%2Bx7OmC0gsSWnqgy5KW4JRUICwJftehavbiRN%2FQhhkRWFMV72%2B3iQ3euS9w874%2FfGrAHS6Qlo9FOARTtdbwdHVmZZBL3dqs90K6eIder1QpmNJb5YHqVWOYDLgrSFuYUOwG5UEF1AX0IoFLbAIjT9B1T%2F0ag%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789434620&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mqEywGxLvsC37ACdF%2BCZJaqIIThJ4iJQgy18p%2BtC9alIpdysDTEedXh%2FtEl811tOLs5Y1h7C8DH4dcjafHlICg%2Bk9JxxQdp0FQnG6lRxtWHf0FWbVRv0BscLq%2Fbm1VNjUKSfYUfLCH5KbK5wkiJv%2BlBmT%2BO9ECKU7dY4IklA2Kc4bBadOwc33ojHfpdDIzO4Js1MSz5JBCy3yeQ7Av8blJBIJb2MeJNCDubMSKID3LuIXWYZs7xBPsv%2BsXjW6iys82yGqvA6h%2FEjzIb3EIFktwappI3DOw9PttE3LVOs6G67fASzl3zgWdc%2FJ8NYMqP3EHZEH8LKCbORlV9XnBXIgw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
 
 #### Additional Information
 - **Post color:** White
@@ -2126,12 +2132,12 @@ No post
 ---
 
 ### 6. Post 6
-**Author:** 覚醒のX (21070052_1)
+**Author:** 究極覚醒BERUSEBYU-TO (21070052_1)
 
 [Attachment 1](https://padlet.com/21070052_1/padlet-s02391231k9ovta9c99h)
 
 #### Comments (2)
-- **覚醒のX** (Sep 04, 2026 03:19am): 来てね
+- **究極覚醒BERUSEBYU-TO** (Sep 04, 2026 03:19am): 来てね
 - **古銭** (Sep 06, 2026 01:04pm): 行きました
 
 #### Additional Information
