@@ -1,4 +1,4 @@
-最終取得: 2026/09/09 08:33:53
+最終取得: 2026/09/09 09:09:45
 
 # 規制突破の世界
 
@@ -7,16 +7,16 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 163
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 08, 2026 11:03pm
+- **Updated At:** Sep 09, 2026 12:09am
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789515296&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MaYFOAlCsm0JzExzkNilWBJjDpOqHXhNUx6vLqX%2FP5LuhLa54Jr%2FWIf1Kj9hm5lF2ic5HAJMaBK1diaKhqKI411rOw0%2FU57ElrdoBwwwdW2wO4skOG%2FLXZoujE%2FqE0%2FGlIiQHpUmfzpkJmFouoOL92QKI7A7XlG%2BkdEsD24hcBqLGacXUkh8j7KJ8AxjrXHIGHDdn5kVGm0rNZImbApleDY1NIVrDUquyerOOpqZQ9enqtYugWkOv4DsXMYeWRccX01JUV21xMyJD0bdNEjGtJnaa7ppfhPTJbTto6EgJt6u57Hhkb2ri%2B3hJngCVPYBX7EFE4aFebO6Xf8moH06Fw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789517464&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dpNY%2FYqylRSO9EXVPL%2BjV3LeS%2FWDqGTwSZKn3cTwrO2IKvTBbbSh0L9Pea37RIYTyl%2BhdvX3rZXd6BCzndLPXRPpyEg0i2EpU3vK3z5hqU9wucg8nJu7xztDtWZmJZop7LA7L0fOUF%2FZ73ZL9V2I2PgNKDsGJ3dvJFVO8EY8PHlh0B0fsd%2BaQmkxJ8%2BjkFpCY8Lf0eBtbQlQ8yitHtGEbmSNVW0oQzRgNR%2FD8gT0P868hA3F0h2rkhYkF83M7WJ7HZA2WCZ1IeURpzIrpTIWeA4lw18mfBPmuGLa26YjLczvQPSBfBnNsDUUDWDb2QjyyOP6C8dh7Q6zdz1uzbwB5A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
-#### Comments (34)
+#### Comments (35)
 - **清水** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
 - **清水** (Sep 06, 2026 12:51pm): あと2日くらいずっとクラッシュしてた
 - **かぼちゃ** (Sep 06, 2026 01:24pm): まあこれだけなら良かったけど他にも匿名は色々と長文とかコメントでうざいんですよね
@@ -51,6 +51,7 @@
 - **おなべさん(新垢** (Sep 08, 2026 02:12pm): まあ、バイセクシャルだしぃ
 - **Anonymous** (Sep 08, 2026 02:31pm): バイが一番いいじゃないすか！
 - **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 08, 2026 02:31pm): お、おう
+- **Anonymous** (Sep 08, 2026 11:55pm): おほう？
 
 #### Additional Information
 - **Post color:** Red
@@ -416,7 +417,7 @@
 ### 5. おっぱい触りたい
 **Author:** ユメミソウ
 
-#### Comments (15)
+#### Comments (18)
 - **おなべさん(新垢** (Sep 08, 2026 05:40am): 自分の触ればよくね
 - **アカネノ** (Sep 08, 2026 11:18am): ユメミソウって名前なら夢でみとけ
 - **Anonymous** (Sep 08, 2026 01:06pm): おなべさんチュー3だからきょにゅうってか？
@@ -432,6 +433,9 @@
 - **Anonymous** (Sep 08, 2026 03:21pm): もっと詳しくお願いしますぅ
 - **Anonymous** (Sep 08, 2026 03:41pm): 俺の名前匿名だけどユウヒコって言います　毎回　ユウヒコって書くんでオナペさん気づいてくださいね　多分誰かが俺を偽っても俺の論破センスは真似できないんで…
 - **おなべさん(新垢** (Sep 08, 2026 03:48pm): おk
+- **ユメミソウ** (Sep 09, 2026 12:05am): ありがとうございます
+- **ユメミソウ** (Sep 09, 2026 12:05am): 参考になります
+- **ユメミソウ** (Sep 09, 2026 12:06am): 自分の触ってみます
 
 #### Additional Information
 - **Post color:** White
@@ -558,7 +562,7 @@
 ### 14. 規制突破
 **Author:** Nannka　Youtube (s1923051_1)
 
-#### Comments (22)
+#### Comments (23)
 - **Nannka　Youtube** (Sep 04, 2026 02:26am): どうやったら部屋作れるんですか？自分も作りたいです
 - **かぼちゃ** (Sep 04, 2026 02:08pm): 作成のところを押してから、列とかでそこから設定とかで作れていったりする、色んなとこで宣伝したらみんな来るようになる、まあ最初はたくさん荒らし来ると思うけど4年とかしてたら慣れていくよ、
 - **Anonymous** (Sep 04, 2026 03:04pm): かぼちゃ何様？予想の答え「俺様」こんなサイトでイキんな
@@ -581,6 +585,7 @@
 - **Anonymous** (Sep 08, 2026 12:01pm): 匿名は逃げたのではなく呆れてしまったのでは？カマキリさんの愚かさに
 - **Anonymous** (Sep 08, 2026 01:08pm): 笑　マジそれな
 - **カマキリ** (Sep 08, 2026 10:55pm): あざますw
+- **Anonymous** (Sep 08, 2026 11:58pm): カマキリ負けてて草
 
 #### Additional Information
 - **Post color:** White
@@ -738,7 +743,7 @@
 ### 22. だる
 **Author:** Nannka　Youtube (s1923051_1)
 
-#### Comments (8)
+#### Comments (9)
 - **Nannka　Youtube** (Sep 02, 2026 04:30am): やめろカス 
 - **Nannka　Youtube** (Sep 02, 2026 04:50am): Nannka
 - **ヤクシカブト** (Sep 02, 2026 04:55am): 😁か
@@ -747,6 +752,7 @@
 - **Anonymous** (Sep 03, 2026 09:15am): 薬師兜どうていのくせにいきんな！
 - **Anonymous** (Sep 05, 2026 05:46am): え、まさか本当に「漢字を知らないからひらがなで書いた」としか脳内変換できなかったんですか？デバイスの予測変換の挙動や、タイムラインでの文字の視認性、あるいはあえてひらがなにすることで文章全体のニュアンスを調整するっていう「意図的なタイピングの選択」があること、普通の知性があれば一瞬で察せると思うのですが……。あなたの中では「ひらがな＝漢字を知らない」という小学生レベルの方程式しか成り立たないんですね。自分が思いつける一番浅い解釈に飛びついて、「漢字もわからんのかよ」ってドヤ顔で書き込んでいる姿、正直見ていてこちらが恥ずかしくなります。そんなに必死になって他人の粗（に見えるもの）を探さないと、自分のアイデンティティを保てないのですか？文字通り「言葉の表面」しか読み取れないその硬直した脳みそで、よく今までネットの海を泳いでこられましたね。わざわざ自分の想像力の欠如を世間に晒して、ドヤ街の王様みたいに調子に乗っているその「無知のエネルギー」、別の生産的なことに使った方が人生豊かになりますよ。
 - **Anonymous** (Sep 08, 2026 12:03pm): 賢いふりするな!バカがバレる！！
+- **Anonymous** (Sep 08, 2026 11:59pm): とか言ってるクソガキがバカでインキャだって今バレたな乙
 
 #### Additional Information
 - **Post color:** White
@@ -1025,8 +1031,10 @@
 
 [Attachment 1](https://padlet.com/bbc264f18bfc49cf/padlet-6gkq5o66y82th0wo)
 
-#### Comments (1)
+#### Comments (3)
 - **しおん** (Sep 08, 2026 02:45pm): ｗ
+- **Anonymous** (Sep 08, 2026 11:50pm): ブレインロットできるサイト教えてください
+- **Anonymous** (Sep 08, 2026 11:56pm): いやデスゥ〜
 
 #### Additional Information
 - **Post color:** Green
@@ -1164,7 +1172,7 @@
 ### 10. 原神やりたい
 **Author:** バカでアホな天才
 
-#### Comments (9)
+#### Comments (10)
 - **Anonymous** (Sep 03, 2026 01:37pm): あっそ勝手にやっとけそれってもしかして誘ってる？変態かよ
 - **カマキリ** (Sep 05, 2026 02:30am): ゲームやリタイっていてルだけで誘ってる？って思ってんのきも
 - **Anonymous** (Sep 05, 2026 05:58am): ファっキュー
@@ -1174,6 +1182,7 @@
 - **エイティングボンバーデラックス** (Sep 05, 2026 10:29pm): 喧嘩やめ
 - **カマキリ** (Sep 07, 2026 05:45am): ごめんね
 - **Anonymous** (Sep 08, 2026 12:06pm): カマキリ厳しいよ!喧嘩するなら追放するぞ！いつもみんなにあんた喧嘩腰だな！バカなら蜂蜜耳に詰めることくらいしなさい！
+- **ユメミソウ** (Sep 09, 2026 12:09am): カマキリ誤字ってるやん
 
 #### Additional Information
 - **Post color:** White
@@ -1292,7 +1301,7 @@
 ### 17. ブロックの解除方法知ってる人いたら教えて
 **Author:** えいこ
 
-#### Comments (9)
+#### Comments (10)
 - **ゆきつばさ** (Sep 01, 2026 03:12am): シャットダウン繰り返す
 - **ノハルカ** (Sep 01, 2026 03:19am): （クロームブックでしか無理かも）
 - **おおぬき** (Sep 03, 2026 05:21am): 無理になった
@@ -1302,6 +1311,7 @@
 - **匿名** (Sep 07, 2026 06:17am): 知るか　　　カス
 - **Anonymous** (Sep 08, 2026 12:07pm): ほら…あんたカマキリみたい(笑笑)
 - **カマキリ** (Sep 08, 2026 11:00pm): おいおい俺も知らんわ
+- **ヤング** (Sep 08, 2026 11:58pm): 知るかこのカス
 
 #### Additional Information
 - **Post color:** White
@@ -2531,7 +2541,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789515298&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WvPkjYKG69gJwBgUpVfAcTaXm6jpYz8lLdidaelHh08atXkt1q7shRLf6zzlM9ryUUPJwcK81EBp%2FBWGr3tNtj99rabpBtiUCOgM8xbFgDpSAEG%2F1c3ts3Wnf8bkt3mePJwORRyFp0oyak8UOFZbHtTcCM6yC39nxfaRdh%2BvZK5JI7AVMKYeKADRh6Bhb0dM9lJghgrcVDVUVxHZb%2ByLdvLQ4oqjcxd8Ux5vn%2FDXWItDCblIvRVqXmJv%2Bpb6SlPHBrpLInPuoqCChebzrG6VFqp4Up69N1ohwQ%2BRgz1rpxmMM59dHeBIbTesUHM43p%2F4TnNNitS6r3gZGwIhwcaAmA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789517465&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PVZxCpBAWFbzj4SDzPDAjdzmAuKbdfTCCEXgtx%2F6OoAwaMpw82zMglpLdTe2DZZJtjDsXru0OcS%2F0c1VMRdiTO4%2BUkiLDtMlJZrLveadsW%2FhibB2wjlXfrSrhLg%2BPNPKrUfoiEplSDok3WXNSOhGg9szD%2FNkTqEAfY1qtKZcybn%2FwXc3aN08MKoNQt4yOeFlFVBFI8TFOCMragcyHh8M2B8SokiovGow1eACFnnEd8JFZZWw60SPNmJXcP0VI17vYTBxiX2i3z9JkXUL%2B9QyVx6EginYEUr1qx5q6pE3xNE4mE3SfoLBAPEkqrf3HLME%2B9ZVQkNWhJ3fPCU03B1eAQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (8)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -2614,7 +2624,7 @@ ID:shibboleth
 
 [https://www.youtube.com/watch?v=LOHXVrYXlIM](https://www.youtube.com/watch?v=LOHXVrYXlIM)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6217746321/d7cf1611ceb3343887194242af070099/main.png?Expires=1789515298&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nqNtI4DoCYaT0NWiAwgC%2BxkY51xTqj%2BZ9P%2BEeQG%2B4uoxBk01El199srCQYz6RadBrPvKS51X0yS4GGpAP9pm5pgmRMvRPUBjeQ%2B4S8uXmQmrSf3Ov7aGoMNt5FUtnkClxbqzfL%2BkQ3Ryn9GPL834iIEM32YQ%2BkERn4zl%2BgLnNRa9rhrfOxeyBHTHYykAfzBOyqXdrpMsYfio1NA9FDKKIN9RcmNFRSlwbOHPQ%2FelltOVHkD3EgavUS19Tdm5clJuKKuiBEKU1xQRe3we0GK7vzLKCRoGU20aS2G7SQRu7o%2BMwCvwyqGqFXJbSRxnIXg3R8zI2XcK26Mz5CgXwYxk0g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6217746321%2Fd7cf1611ceb3343887194242af070099%2Fmain.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6217746321/d7cf1611ceb3343887194242af070099/main.png?Expires=1789517465&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Xfak3BgWKwXjiyNqw88ekNFFfTqnoSUV6HvsKtY2EmGGvRM6oYw3Gur1Q6vRcTK51vgb9Q1yIGX2dV%2FnZ0bm4n6nSRx5FQMV0mSGCfVUzEIqbKhdCC0y48veQRcAFLojj6qgntJaHo7OlKtlfquVk0RP57sjcgbMi0T7i2HLuY8X3tBsUCtKhxwUJ7qNA6TTnkFQa8DN2JbJKgxNfs%2BwIkGvRc4ytZuupejGe3ph6Go6EmhUkRcQ00N04XsgtlixZc8bWO5AWUB8Al8D81U4txPJUhg%2FT4nIb9L0JEHF24iU2%2FF4wtxRf4HsQhL6mKLF6bg5lYVKj3c6V%2BN3LrT%2Ffw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6217746321%2Fd7cf1611ceb3343887194242af070099%2Fmain.png)
 
 #### Comments (1)
 - **ゆあん** (Sep 08, 2026 09:16am): まえすけのどうがみれるよ！みたいのがあたら↓
@@ -2718,7 +2728,7 @@ ID:shibboleth
 
 ムービアリンク貼ってくれませんがお願いします
 
-#### Comments (34)
+#### Comments (36)
 - **わらびもち** (Sep 07, 2026 02:38am): こいつに教えないほうがいいですよ
 - **ゆうとでーす** (Sep 07, 2026 02:38am): 誰か貼って
 - **わらびもち** (Sep 07, 2026 02:39am): こいつに教えたら規制されます
@@ -2753,6 +2763,8 @@ ID:shibboleth
 - **Anonymous** (Sep 08, 2026 12:11pm): それな
 - **Anonymous** (Sep 08, 2026 12:40pm): ミネビ！俺はチュー2だからわかる！これは警察案件今は真剣だ!他人の個人情報（氏名・住所・電話番号など）を無断で公開する行為は、プライバシー権の侵害にあたります。すでに該当書き込みのスクリーンショットおよびURL等の証拠は保存済みです。速やかに書き込みを削除してください。応じない場合は、プロバイダ責任制限法に基づき発信者情報開示請求および法的措置（損害賠償請求・警察への通報）を検討します。
 - **わらびもち** (Sep 08, 2026 10:42pm): ミネビ通報しといた
+- **わらびもち** (Sep 08, 2026 11:41pm): わらび餅２って誰？
+- **Anonymous** (Sep 09, 2026 12:05am): 「わらびもち」って名前のくせに、中身は粘り気も弾力もないスカスカなタイプ？わざわざ人前に出てきてそのクオリティって、ちょっと仕上がりが雑すぎじゃない？きな粉でも被って自分の薄っぺらさをごまかしてたら？
 
 #### Additional Information
 - **Post color:** White
@@ -2904,7 +2916,7 @@ ID:shibboleth
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=tfMneb7nGbY)
 
-#### Comments (23)
+#### Comments (24)
 - **Anonymous** (Aug 29, 2026 12:39am): 誰かマエスケの動画ちょうだい 
 - **えいこ** (Sep 01, 2026 12:40am): ホンマにマエスケの動画くれ
 - **カゼドリ** (Sep 01, 2026 06:19am): マインクラフト史上一番怖いMODを入れたら..www.youtube.com › watch
@@ -2928,6 +2940,7 @@ ID:shibboleth
 - **Anonymous** (Sep 08, 2026 12:44pm): カマキリ…スクショしてあるから手遅れですぅ
 - **カマキリ** (Sep 08, 2026 10:58pm): わざわざスクショありがとう！
 - **カマキリ** (Sep 08, 2026 10:59pm): でも俺はね規制かかるぞって言われたから消しといただけだよ！
+- **Anonymous** (Sep 09, 2026 12:06am): 嘘は厳しい　ダサく見えるぞ
 
 #### Additional Information
 - **Post color:** White
@@ -2941,7 +2954,7 @@ ID:shibboleth
 ### 1. Post 1
 **Author:** 救世主
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789515298&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mFyL%2B3DHH4azIueoBYrhXgLH%2FhPIo1PCNSNujvsaWlm04W2QCA3T8PHWdvpzcJygpDT0Np5AHY1ffX5mYkOWHtgbUl%2BzpobTd%2FPUlqL3jbN3Prlq51SguKxeqYiIPJifZUfGG584xz57l2cKVySqEtBJ1nBvDGgbhozpSr%2BnwqqErp54NjPOvlcI0KsiMV%2Bl2L3zPhUyub7mebCkXlvs9rU1ZojXfzNghNd7Q3dnYXCJtbFCbe6lXRUQC0X2agx%2FD4jUXUozJkfdBcxJ%2BPNZqivxp9gRcAKTbvLA%2FX4kOTRQhV01tlE9CmyVRIlTbUoCCAYlV2AbGUUL2u1KtKhe8A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789517466&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uZv43BZLtYEzM3Iv86HhWQ8DFzhYvd9WCszTSle%2BvwPDIWN26L8irNfsCCCx8AosYzxDaiaVt5Csmm01n8PsEEIilCBTbKEQ5wKkvrAQy7PfrSacXBP3w4YAHiX%2FZoeQlTZS9lTcyRlMZZ3Zygm%2BHSQN3vPvtramtp0foLQsY94sKoBnyxiIyddYp8SSc2jDfUxSbunWpfdaIKYK6pXSAwNllhztL9hDP2XFl9%2BxS6F711pYLnSMerMV64U6ZJy7dzXafli8MoU9OKFnZZ%2FG9nDWVEl2GS2f%2BNrIhRv50MHfIHlqs2FIKJ6sgf8aOK2D35Zdw%2BVucw7pUUCs%2BjN%2FdQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
 
 #### Additional Information
 - **Post color:** White
