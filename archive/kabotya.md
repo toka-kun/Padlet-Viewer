@@ -1,22 +1,22 @@
-最終取得: 2026/09/09 22:57:46
+最終取得: 2026/09/10 02:42:03
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 246
+- **Posts:** 267
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 09, 2026 01:58pm
+- **Updated At:** Sep 09, 2026 04:49pm
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789567119&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Kb8uGffiqoq%2BLh0HupMZ8c3pZ4YxZbdGx9K2jZ%2FCrbIX9gee1dUnxTPIX1pecyFXa%2FpG3iMx9deAfD5%2FU1NAfW03UJ%2B5eTI0gsX7VGsTKKCGUGbseiLsGotoF%2BC9W%2FMObz64lSXsyWZrbubuBGP7LR8IN7gym%2BqVp4HPQfDXJDxqfPmKY%2FAUcCiizWWkjQ8EUxV%2F43oBD0d2guuj5vRDtZJXA7bRoNoFYFsepN1tc%2F%2BoG%2BHB5S4cz98CTiR86m6FpHqnwYAhZpq48srdhVD7YLODZqSVbXSHRBCkQ7ehV9OdamB5DTgqGeVjydGYqnUAAxs06FGxgKduLPYz9GOFvA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789580594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RAtWaOnUYQq1NevnbRqGvYbEzwrk7rLeuUwN0Xv%2FPWnYpflcHyG9xBVmBTHjoXPQJGa%2BAvAFtriXN%2BqH8gfL%2FqEO5L37ApnYpMHe7My0DG3bNO7v0BjGBtkcHNLCQ5dAA7%2FTlQZhlpru%2Fh34GT%2Bh0%2BtUMFWM1gAV8p6G9uaMb4wzWzW3S23pC1yPLkqIjMvaXsI%2Fcq2UFTTblDQXfo9zKu0%2B8QHWydkTKkoZW0mFSTnOnh1Nn0VnNsypAsTZIIWuzT11VVTnh3BkyPqsXaI9uwCIHOVGt5cgg83AfJzGwb4QoR1H%2FiUwThKI9%2Fl96AitplK8rQ0NecLfwQFlYjUilg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
-#### Comments (54)
+#### Comments (55)
 - **清水** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
 - **清水** (Sep 06, 2026 12:51pm): あと2日くらいずっとクラッシュしてた
 - **かぼちゃ** (Sep 06, 2026 01:24pm): まあこれだけなら良かったけど他にも匿名は色々と長文とかコメントでうざいんですよね
@@ -71,6 +71,7 @@
 - **Anonymous** (Sep 09, 2026 01:25pm): カッケェ語彙力ないのかよインキャ
 - **ねっこ** (Sep 09, 2026 01:27pm): うお
 - **ねっこ** (Sep 09, 2026 01:27pm): 匿名隠キャがふごふごほざいてるぞ🫵🤣
+- **Anonymous** (Sep 09, 2026 02:46pm): 自己紹介乙
 
 #### Additional Information
 - **Post color:** Red
@@ -176,7 +177,7 @@
 
 [mellojoyjapan.com](http://mellojoyjapan.com)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6224168223/0e0e6be6eda5c9753d7ae4173f8284ae/b8dd2e83a9284d1c8a5d22b594d94a49_thumbnail_0000000000.webp?Expires=1789567120&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Kp24pQEmzQ9uOKhNkm8nQ6xvREg4BXHb%2BkRrQPeFraF65eBkQABnqowucarcFPOBXn1daWlxQ9pmB67csuxIp5A9CdwvY%2BuYK4SA6fZOOaaqApYuM73OWHZbl8nVaRSi8KdP5dSxGdy%2BdXRuixolceF6Le9enuDV5LLE5dUyc19JcpDWhhzlw5bHKg0PxCj2n4%2FkP11%2BSnaF%2BpGBa4n47hlISSuUbntn4W5rqAthI6Oghbl3QXR0cBgUD00mawrt65O9q1nFxnURevCQspXKCeAA1XtLR1YUAUx9K5EdWQZ3wqzvdsOiUn%2BDbzVKOjiGw9u0niZbZ0gsZTTZji%2Fu5w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6224168223%2F0e0e6be6eda5c9753d7ae4173f8284ae%2Fb8dd2e83a9284d1c8a5d22b594d94a49_thumbnail_0000000000.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6224168223/0e0e6be6eda5c9753d7ae4173f8284ae/b8dd2e83a9284d1c8a5d22b594d94a49_thumbnail_0000000000.webp?Expires=1789580594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zNYWVUBn6n1wSV9vYpj081ziVJHbqBxlmwzGA3ly2u%2FKHvvdkxQ5LVq1FCsMzz3UdvxvxoQt%2FLkXDLqPTTX5T1s9kVxxdnE7TNU4mSQS2idHtRlOkTpSWf2ypH1pe5NJLvylmUjnettOkW%2FMZaRQAbGLrmdwIy5fYrnEqJodjXLLpupv%2F2Hz7ZFvishcYk4AMndCZ%2BK3Zvif5tBZ2IwVlg3%2BWWFE16YiSX%2FzRmjYB2mFi3DlyPs8M7zjTErfExBqsjPMsJ6L4m5auc9ncodiPdzYE96cMsD3cmJwuqzTLMz7suKyihmWTs%2BrFs52pDL%2FZOUa424ZjexxAPCLAKHwMA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6224168223%2F0e0e6be6eda5c9753d7ae4173f8284ae%2Fb8dd2e83a9284d1c8a5d22b594d94a49_thumbnail_0000000000.webp)
 
 #### Comments (3)
 - **ハナグモ** (Sep 09, 2026 03:37am): 学タブだったら買えないよ〜。だって、買えるっちゃ買えるけど、勝手に買ったら怒られるよ〜。
@@ -193,7 +194,7 @@
 ### 10. 誰か一緒にゲームしよ
 **Author:** たると
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6223934719/a66526e0fcea17bbc7fd2aba7de40234/audio.mp3?Expires=1789567120&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4g9aM4wJKbqyEdA624pqWZksG210LBmYpgLlOSjUF6ArnRen%2B4hW0KRk8RX70Mt8%2Bmz580ba5G8gqrl6D9UhZ6lk6NZpD%2BknLNambQP8Cf3efaqkVe8sSKoZaf9qrQq6ul8mq88izTfeRjU6aO%2FHE9%2FKfHcG2LyNQl3SOnxslAJbmTP%2Ba7hpdU71nXJt2w75pt%2FE1vvuvCrQhvxnBispHGjusmgP%2Br9RcEj7WNj5S%2BcSgydJIR%2B8xcTwcIhu174E7G2rly6EGv%2B3qBhfoKkhcj99uz3RlFSfAaZpK72WPVp7%2FBQtQuY2FVvsGCnhYCgCORvMyOea%2B9hzHrgacA9Utw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6223934719%2Fa66526e0fcea17bbc7fd2aba7de40234%2Faudio.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6223934719/a66526e0fcea17bbc7fd2aba7de40234/audio.mp3?Expires=1789580594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VfgBdDf1ygve30s2nBxVzT1Fzwf9UT4RFjHv83M1H%2FPmyQWISBQHCVlHkOSuZbCBa0ALvBy8kawWb8rjd5PHRtewOyzzvbgAJBq8dc%2F9dffQz19Qe8ZQ%2FelHhB9TjwvcA6XXlgtd2LvUvNCFJig3gRddZIFPJ2HTCvA50H6EJVOxfa4qt%2BlNo%2FLT%2BZiO1E9giXy1nFu0AKh8eSjjVOv%2FJCV6fKKlgiybT%2BxzVtT3iW86RdjfLL9DShSBwDG3dN%2BbMfurwz77O59LwMa78AqJ1pb2R5bAkloNE%2BTI64PCchD5dKekaUlHn6IunkY34l8y1TcIorZzBtm7qWpYEAs12g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6223934719%2Fa66526e0fcea17bbc7fd2aba7de40234%2Faudio.mp3)
 
 #### Comments (2)
 - **ハナグモ** (Sep 09, 2026 04:25am): 何その言い方キモすぎやろ。WWW
@@ -1306,7 +1307,7 @@
 ### 6. 地球はかい
 **Author:** タキノト
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6226796612/80b4cf2310ce37b78ba6b8c1ce4c1734/_________8___1_.sb3?Expires=1789567121&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WGV%2BpnGR7GECk802nYnDdasw77qCpGdK%2FTna8DojJ4XfTsHKTjixXAr8w3BBGolcu6O6X%2BOCsiH274dgpVGuTNKa1O1M7N6uiFori%2F43s2OPevW0VZ%2BCwpczoMLhlZ5HZeq2OCrSvxDVHmy9llum9X6nmaimErBLrJA52W2uHcYu1%2BfZZs5X0xClGqNr4KUK7K5aRQ%2Fynb8SOSeCILqJBLRR1OY64KDbFq%2F85giLS%2BuqRoS0Dv%2Fm6f23RCdYG%2FBWSEGLwgy2VkJSZZt72EI0dGYJx0KZvhnQ29zlbT2mwcibLro35YElH5aZIjLf3VBMEM1DyQy%2Fedl9Z4AQcfgrQg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6226796612%2F80b4cf2310ce37b78ba6b8c1ce4c1734%2F_________8___1_.sb3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6226796612/80b4cf2310ce37b78ba6b8c1ce4c1734/_________8___1_.sb3?Expires=1789580595&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=oyPU0iiWjNNSN58WS78%2FFFRaGusKRiVxvldONRFTNImnLHf4u48uX6Xmg5oqNZd%2BTPxct%2ByAwn4LR11APpYd%2BFhc4Qw1yjd7bn1NglFxj8X1RTEDRtAOIfM%2Fzmv3VceDLgdCyr7MGWMdw%2FDeFsABFMwrLcf0hJKt5spYpVzeL%2BA%2F6FFiE1q1vkpxWv%2BSPto0ktuTkrrR%2FkYGn%2BDb%2BdqdEio3ixuhrfcf8JO7X7Y4lPq%2FLJAgzQ2%2FF5eKGZ9mm6VKIGPdoqXZDGUC9ii5NIMkwa5KnGpvKYbroGPwnLfH6TAuwNZxaWHzJ5lLE6pci5lEdorWZ4aXeCUlXi8bikNsLw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6226796612%2F80b4cf2310ce37b78ba6b8c1ce4c1734%2F_________8___1_.sb3)
 
 #### Additional Information
 - **Post color:** White
@@ -1318,7 +1319,7 @@
 ### 7. スクラッチブロックブラスト
 **Author:** タキノト
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6226796612/4c534a44d8a50a8048d8f6647d52fb69/_____________.sb3?Expires=1789567121&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Qn5xawhLGTrR%2FVpshvTcStqH3R4XGi0j%2BJG3YPLGFzpH3XPu4juW8jLuyJP0tR0UloNmBOKm8UxADsaXGiEqC5YwT0%2FGq%2BlVw5RQdoDem6usOsFayuDa5Ar%2BP51Z2Tp2hMtK3SjmOs1Y659Kx3hsBpjY3C1yy5J2%2Fu3nWuWyYdB7eauEk3gLBmceAm2Ipx6jgepbeyGnRjjYbLmY7VLSvqltAsR9uDGNh6u1IZ3B3n%2Bb5OId%2BxkFTIEj7e%2BwaMSTeuM1whbTRVBZhRXX55Hs2MCWWY%2B4HgheHom3KkQj6%2BPzatXKpPg%2FhXeIb%2BrO60%2BuZd2B%2BteOTyUelzzyoWB7KA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6226796612%2F4c534a44d8a50a8048d8f6647d52fb69%2F_____________.sb3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6226796612/4c534a44d8a50a8048d8f6647d52fb69/_____________.sb3?Expires=1789580595&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=eYiUMWmwqHodr7S%2BOUzEe%2Fyn8SOEN5lee4mcEgIC7JjnrDfo0wKFHGceWMZlvVUSKM3cwy%2BM6sfrntznhFBnH34W62HMSsnt%2F4OG6dIKARIyV4IipL3n4EXTqcVqr1O7YejHE%2BpHEbclxhtTHEIydGQ3I6R%2FMHhPFPAn2QmNs2gH4molTYe5sGUHhvb4dwDyaMuRAm1qI9pCwi%2Fb7vRNWpVEX2VA94GHH0qMQ8VhJBpMejHmDCYL55%2Bxq5lxx5VpcUUcHeKm8jw9KUfOBovJmRkt531EX7r1kPSGedMNvxy0ZHT%2BGYqHN0TtcElXnHLXIttWtRf1r0QKVYfyC1pFMA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6226796612%2F4c534a44d8a50a8048d8f6647d52fb69%2F_____________.sb3)
 
 #### Additional Information
 - **Post color:** White
@@ -1330,7 +1331,7 @@
 ### 8. スクラッチでブロックブラスト！作った！
 **Author:** タキノト
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6226796612/5c220768505626ae70fb7c616c447caa/_____________.sb3?Expires=1789567121&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WNqr%2BebM8uQtjyr5cyCrsvmtXVIr8qeThA02ZYx9xkZJyzc%2B78Otm6lnwKKwW81ISAEkLY5P4m2SS2MrggN9Q5obxrf6fCoKb4vzfeirHJ22vXbOmHRXX4eJIiI6ncCvKqDa5hl6VPLU5PcAsKc%2BczA%2BDfW2ocQNybMRUFr7N%2BimRKOBdzfZbdSxAJy%2Fb%2BAr7Xf3GdvNgAyc%2FakU5mB%2FbO%2Bi3VPyPg8qsQedXBMzHZHN9TMpBYPmJ95QA%2B3V4K98%2Fkg5arH05pFPrbxe35l56Db9xQ3mEKmYls%2Ft1%2B1o5RnCQQLS0euXYkEnkkIIpC6zJBwDnFFBc66pOiijQ1klvA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6226796612%2F5c220768505626ae70fb7c616c447caa%2F_____________.sb3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6226796612/5c220768505626ae70fb7c616c447caa/_____________.sb3?Expires=1789580595&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cEk%2FTH0VTFbPDrc1r1pb8Z8LwRLFVlamB2d9E2twdPCzzA%2BQm%2Bebln0Gemdna0UlugcXFHAL6Dj87FoaQ6HtYmXay7lCN6VBehjJ%2FNpqe7JdIs5Qu6EICb9i8ubglVSM6tqHlG%2BXEbp6AJypfX78e945%2Fo0Hu6OXNpgUxrL9If5Dy1LUJiuTi4TmG4xYQQFo2Hb37jADz75Le8JeR10XjJn1P3sFXRRIo3UXlEhzyw0r0SOp%2FKCVKh73kZ7lDsEh%2Fsc%2FlSoMFBgXYmklem4znoEXx2Or3w2Qpbn04Vl6kPGS0uFyjjrziQi32Kzk%2BqIhfsyRKxVYfceeueGPmEVnRw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6226796612%2F5c220768505626ae70fb7c616c447caa%2F_____________.sb3)
 
 #### Additional Information
 - **Post color:** White
@@ -1521,7 +1522,7 @@
 
 [Attachment 1](https://sites.google.com/view/dominumnetworkv2/entertainment/m0v1es)
 
-#### Comments (25)
+#### Comments (26)
 - **ぴる** (Sep 03, 2026 02:05am): え神すぎるズートピアとかホラー映画みれるのやばい
 - **Anonymous** (Sep 03, 2026 03:13am): 見たい
 - **Anonymous** (Sep 03, 2026 03:14am): ていうかここマザーファッカーしかいないのかよ笑
@@ -1547,6 +1548,7 @@
 - **Anonymous** (Sep 09, 2026 09:06am): 自分で文考えられないのきびし！カマキリ人が考えた文丸パクリダサすぎて草
 - **カマキリ** (Sep 09, 2026 11:11am): え？目ついてる？その上の文読んでくださいね〜
 - **カマキリ** (Sep 09, 2026 11:16am): 自分で考えた文を打ちましたけど？
+- **Anonymous** (Sep 09, 2026 02:50pm): 嘘はよくないなぁ
 
 #### Additional Information
 - **Post color:** White
@@ -1728,14 +1730,1146 @@
 
 ## 要求
 
-### 1. あいつに俺勝ったのにな
+### 1. 匿名にはずる賢さのかけらもないな
+**Author:** ねっこ (good_by)
+
+マウント取ろうとして毎回失敗して暴言放つのいい加減やめた方がいいよ。
+
+#### Comments (860)
+- **Anonymous** (Sep 09, 2026 02:44pm): それねっこじゃんw
+- **ねっこ** (Sep 09, 2026 02:45pm): なんか根拠のない話かしないねきみ
+- **ねっこ** (Sep 09, 2026 02:45pm): ちょっと病院にかかった方がいいんじゃないかな
+- **ねっこ** (Sep 09, 2026 02:46pm): さすがに引くよ
+- **ねっこ** (Sep 09, 2026 02:46pm): これは、、
+- **ねっこ** (Sep 09, 2026 02:46pm): 日本人としての誇りはないのかな？
+- **ねっこ** (Sep 09, 2026 02:46pm): 日本人としてカッコ悪いよ
+- **ねっこ** (Sep 09, 2026 02:47pm): 自虐ネタ言って炎上するとかまじ悲しいね😢
+- **ねっこ** (Sep 09, 2026 02:47pm): もうまるで手遅れだ
+- **ねっこ** (Sep 09, 2026 02:47pm): 福祉施設に紹介されちゃうかも、、
+- **ねっこ** (Sep 09, 2026 02:47pm): おすすめの福祉施設教えるから行きな
+- **Anonymous** (Sep 09, 2026 02:47pm): 行ってら〜
+- **ねっこ** (Sep 09, 2026 02:48pm): 俺は障害ないんで行っても返されるだけ
+- **ねっこ** (Sep 09, 2026 02:48pm): 日本語読めないだな
+- **Anonymous** (Sep 09, 2026 02:48pm): いってらっしゃい♪
+- **ねっこ** (Sep 09, 2026 02:48pm): あかんこいつ
+- **ねっこ** (Sep 09, 2026 02:48pm): 日本語通じない
+- **Anonymous** (Sep 09, 2026 02:48pm): あかんこいつw
+- **ねっこ** (Sep 09, 2026 02:48pm): こりゃだめだ
+- **ねっこ** (Sep 09, 2026 02:48pm): まねしてくるし
+- **Anonymous** (Sep 09, 2026 02:48pm): 日本語通じない
+- **ねっこ** (Sep 09, 2026 02:48pm): きもすぎ
+- **Anonymous** (Sep 09, 2026 02:48pm): キモすぎて草
+- **ねっこ** (Sep 09, 2026 02:48pm): 動物園行ってこい
+- **ねっこ** (Sep 09, 2026 02:49pm): さすがに人と言えない
+- **Anonymous** (Sep 09, 2026 02:49pm): いってら！
+- **ねっこ** (Sep 09, 2026 02:49pm): 道端に落ちてるクソの方がまだマシや
+- **ねっこ** (Sep 09, 2026 02:49pm): 知能のかけらもない
+- **Anonymous** (Sep 09, 2026 02:49pm): ましやな
+- **Anonymous** (Sep 09, 2026 02:49pm): お前知能のかけらもな〜いねん！
+- **ねっこ** (Sep 09, 2026 02:49pm): なんかふごふご言っとるw
+- **Anonymous** (Sep 09, 2026 02:50pm): なんかフゴフゴと…w
+- **ねっこ** (Sep 09, 2026 02:50pm): レスバで負けたからって俺の真似をして取り返そうとするのはカッコ悪すぎる
+- **ねっこ** (Sep 09, 2026 02:51pm): もう人といえないぐらい知能低いな
+- **ねっこ** (Sep 09, 2026 02:51pm): お前チンパンジーよりもアホやん
+- **Anonymous** (Sep 09, 2026 02:51pm): ねっこ！手助けいる？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:51pm): 教室にトランポリンありそうw
+- **ねっこ** (Sep 09, 2026 02:51pm): 草
+- **Anonymous** (Sep 09, 2026 02:51pm): チンパンジーこんちゃ
+- **ねっこ** (Sep 09, 2026 02:51pm): あはい
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:51pm): いや学校自体そんな奴ばっかな学校っぽそう
+- **ねっこ** (Sep 09, 2026 02:52pm): もう日本語通じないから帰ろうぜ
+- **ねっこ** (Sep 09, 2026 02:52pm): こりゃ話しても無駄だ
+- **ねっこ** (Sep 09, 2026 02:52pm): 精神病院で徘徊してる系の人間や
+- **Anonymous** (Sep 09, 2026 02:52pm): 君の学校にはそういう遊具があるんだねw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:52pm): 荒らした方が身のため
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:52pm): がーw w w w
+- **Anonymous** (Sep 09, 2026 02:52pm): あいつの息の根を止めよう！
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:53pm): ガイジが出た！よよいのよい！
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:53pm): あガガイのガイあそれ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:53pm): ガガイのガイあよいしょ
+- **Anonymous** (Sep 09, 2026 02:53pm): 匿名まで俺の敵かよw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:53pm): お前、友達いないだろ
+- **Anonymous** (Sep 09, 2026 02:53pm): 🖕
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:53pm): うおうおw
+- **Anonymous** (Sep 09, 2026 02:53pm): どした？島根
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:54pm): 水色の匿名誰
+- **Anonymous** (Sep 09, 2026 02:54pm): 島根は俺の味方やわぁ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:54pm): え？何言ってんの？俺は根っこの味方ですけど
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:54pm): アカウント作れないガキは帰ってもろて
+- **Anonymous** (Sep 09, 2026 02:54pm): 俺匿名って名前にしてる人っすよろぴく
+- **Anonymous** (Sep 09, 2026 02:55pm): 島根サスガァ　👍死ね
+- **ねっこ** (Sep 09, 2026 02:55pm): 匿名感情的になっとるやん
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:55pm): いやお前に言ってるんだよ？
+- **ねっこ** (Sep 09, 2026 02:55pm): 灰色の匿名キレ症すぎる
+- **Anonymous** (Sep 09, 2026 02:55pm): 隣のピン留め匿名の圧勝やで
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:56pm): 灰色の匿名に言ってるんだよ帰れって
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:56pm): 何お前勘違いしてんの？
+- **ねっこ** (Sep 09, 2026 02:56pm): 勘違い草
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:56pm): ググったら出てくるおすすめの病院紹介しようか？
+- **ねっこ** (Sep 09, 2026 02:56pm): 匿名死んだ方がいい
+- **Anonymous** (Sep 09, 2026 02:57pm): 俺はねっこやで
+- **ねっこ** (Sep 09, 2026 02:57pm): うそつくな
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:57pm): 教室にトランポリンがあるようじゃあ病院行ってもダメか...wな！灰色の匿名
+- **ねっこ** (Sep 09, 2026 02:57pm): きもちわるっ
+- **ねっこ** (Sep 09, 2026 02:57pm): はいいろきっしょ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:57pm): 紫の匿名も灰色の匿名か
+- **Anonymous** (Sep 09, 2026 02:57pm): 俺は根っこやで
+- **ねっこ** (Sep 09, 2026 02:57pm): 1人2役だと思う
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:58pm): そもそもネッコPCだからプライベートブラウズ使うような真似はできない
+- **Anonymous** (Sep 09, 2026 02:58pm): お前も根っこ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:58pm): うおw 
+- **ねっこ** (Sep 09, 2026 02:58pm): なに言ってんの
+- **Anonymous** (Sep 09, 2026 02:58pm): 俺も猫w
+- **ねっこ** (Sep 09, 2026 02:58pm): なんかくるってる
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:58pm): お前病院行った方がいいよ
+- **ねっこ** (Sep 09, 2026 02:58pm): ついに、、壊れたか
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:58pm): 多分虚言症診断される
+- **Anonymous** (Sep 09, 2026 02:58pm): なんか手助けいるかねっこ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:58pm): 後うつ病
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 02:59pm): 匿名うおw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 02:59pm): 匿名うおw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 02:59pm): 匿名うおw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 02:59pm): 匿名うおw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 02:59pm): 匿名うおw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 02:59pm): 匿名うおw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 02:59pm): 匿名うおw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 02:59pm): 匿名うおw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 02:59pm): 匿名うおw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 02:59pm): 匿名うおw
+- **Anonymous** (Sep 09, 2026 02:59pm): 島根俺の味方かよw
+- **ねっこ** (Sep 09, 2026 02:59pm): なに言ってんの
+- **ねっこ** (Sep 09, 2026 02:59pm): 正気なの⁉️
+- **ねっこ** (Sep 09, 2026 02:59pm): 島根は俺の味方だよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:59pm): 灰色匿名へ　お前みたいなアカウント作れねえガキの味方になったこと一度もねえよwさっさと帰れw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:59pm): 頭大丈夫？
+- **ねっこ** (Sep 09, 2026 03:00pm): 母国に帰れ！天安門！
+- **Anonymous** (Sep 09, 2026 03:00pm): 俺匿名って名前のユーザーなんすけどねっこのとこどうやって行くすか？
+- **ねっこ** (Sep 09, 2026 03:00pm): なに言ってんの
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:00pm): 何言ってんのこのがいじ
+- **Anonymous** (Sep 09, 2026 03:00pm): 根っこの母国中国か…
+- **Anonymous** (Sep 09, 2026 03:00pm): 🇨🇳
+- **ねっこ** (Sep 09, 2026 03:00pm): お前の母国や
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:00pm): あはい
+- **ねっこ** (Sep 09, 2026 03:00pm): 俺日本
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:00pm): エセ中国語で言ってあげないとこの匿名理解できないと思うw
+- **ねっこ** (Sep 09, 2026 03:00pm): 日本の静岡県民やでぇぇ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:01pm): 人間じゃないて💦
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:01pm): 灰色匿名馬鹿
+- **ねっこ** (Sep 09, 2026 03:01pm): 人間じゃないな
+- **Anonymous** (Sep 09, 2026 03:01pm): 俺ねっこの味方っす　2人のウザい匿名クソ野郎じゃないんすけど💔
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:01pm): スワンプマンだったり？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:01pm): 自演自作乙
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:01pm): 仲間いない時点で終わってて草
+- **ねっこ** (Sep 09, 2026 03:01pm): 自作自演くさ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:01pm): 俺たち三人仲間なのにw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:01pm): 現実見ようぜ
+- **Anonymous** (Sep 09, 2026 03:01pm): 静岡か…クソ田舎だなおい！
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:01pm): お、おう
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:01pm): で？それ今関係ないよ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:01pm): 静岡きてから言おうね😅
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:02pm): それな😅
+- **ねっこ** (Sep 09, 2026 03:02pm): 静岡なめとるやないかーい
+- **ねっこ** (Sep 09, 2026 03:02pm): 静岡市はめっちゃ都会っすよ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:02pm): 静岡市とか浜松とか沼津都会だよ😅
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:02pm): 知らないか😅
+- **ねっこ** (Sep 09, 2026 03:02pm): それに富士山がめっちゃ良く見える
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:02pm): おでんもうまいし😅
+- **Anonymous** (Sep 09, 2026 03:02pm): 静岡田舎！クソ田舎！
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:02pm): うおw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:02pm): 抹茶もうまいし、ウナギパイもうまいし😅
+- **Anonymous** (Sep 09, 2026 03:02pm): 空港ねぇしクソ田舎！
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:02pm): ってかこいつに構うのめんどくさくね？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:03pm): 静岡県を過小評価しているクソガキの反応集作れるねこれw
+- **Anonymous** (Sep 09, 2026 03:03pm): 飯なんてどこにでも名産はあるんだよバカ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:03pm): 空港無い＝田舎⁉️
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:03pm): じゃあお前どこ住んでるねんw
+- **Anonymous** (Sep 09, 2026 03:03pm): 当たり前だろ〜
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:03pm): じゃあ鹿児島の美味しいものは？
+- **Anonymous** (Sep 09, 2026 03:03pm): 東京世田谷
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:03pm): 10
+- **Anonymous** (Sep 09, 2026 03:03pm): 乙
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:03pm): 9
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:03pm): 8
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:03pm): 嘘つけw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:03pm): 7
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:03pm): 6
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:03pm): 6
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:03pm): 5
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:03pm): 2
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:03pm): 4
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:03pm): 0
+- **Anonymous** (Sep 09, 2026 03:03pm): 慶應義塾行ってるからなぁ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:04pm): はい答えられない〜
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:04pm): あはい
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:04pm): じゃあさ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:04pm): 君にはここがないんだよここ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:04pm): 学名証明書みたい
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:04pm): いいね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:04pm): 生徒証明書もほしいところ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:05pm): あと校歌教えてよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:05pm): 君の学校に連絡して褒めてあげるよ👿
+- **Anonymous** (Sep 09, 2026 03:05pm): あざっす
+- **ねっこ** (Sep 09, 2026 03:05pm): くか
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:05pm): 学生証は？
+- **Anonymous** (Sep 09, 2026 03:05pm): あざす
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:05pm): 見してよ👿
+- **ねっこ** (Sep 09, 2026 03:06pm): 答えられないやんw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:06pm): w w w w w w
+- **ねっこ** (Sep 09, 2026 03:06pm): この時点で匿名の負けなんよなww
+- **Anonymous** (Sep 09, 2026 03:06pm): ログインしてないから無理乙ここに晒したらオワコンやで
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:06pm): イキリキッズのテンプレ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:06pm): じゃあ負け認めるしかないな？w
+- **Anonymous** (Sep 09, 2026 03:06pm): 島根県民は黙ろうか
+- **ねっこ** (Sep 09, 2026 03:06pm): うお
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:06pm): 俺島根県民じゃ無いんだけど？w
+- **Anonymous** (Sep 09, 2026 03:06pm): 島根はクソ田舎！w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:06pm): 残念お疲れw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:07pm): で？
+- **Anonymous** (Sep 09, 2026 03:07pm): 嘘🤥🤯
+- **ねっこ** (Sep 09, 2026 03:07pm): 何言ってんの
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:07pm): そのようなエビデンスは？
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:07pm): じゃあ義塾なら解けて当たり前
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:07pm): あなたは閉まった部屋の外にいます。部屋の中には3つの白熱電球（A、B、C）があります。 手元には3つのスイッチ（1、2、3）があり、それぞれがどれかの電球に対応しています。あなたはスイッチを好きなだけ操作できますが、部屋の中に入れるのは「1回だけ」です。 部屋に入った時点で、どのスイッチがどの電球に対応しているか完全に特定する方法を答えてください。 （※部屋の外から中の様子は一切見えません）
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:07pm): ググったら…😅
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:07pm): ググったら負けな
+- **ねっこ** (Sep 09, 2026 03:08pm): 多分匿名ガイジ小学生だから答えらんないw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:08pm): 島根県が田舎っていうエビデンス出せないんだったら負け認めろw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:08pm): 島根県はプログラミング言語もあるし
+- **ねっこ** (Sep 09, 2026 03:08pm): あの匿名どこに住んでるのかな？
+- **ねっこ** (Sep 09, 2026 03:09pm): 東京とか言うんだろうなw
+- **ねっこ** (Sep 09, 2026 03:09pm): まあもしそう答えたらその根拠を教えてもらうよ
+- **ねっこ** (Sep 09, 2026 03:09pm): ちなみにしまね？
+- **ねっこ** (Sep 09, 2026 03:10pm): あの匿名逃げたんじゃね
+- **Anonymous** (Sep 09, 2026 03:10pm): 塾の問題書き写してる姿は…バカらしくて草チュー2は中学受験ゴトキノモンダイいりません
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:10pm): 草
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:10pm): 塾じゃないよこれ
+- **ねっこ** (Sep 09, 2026 03:10pm): 匿名どこに住んどるん？？
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:10pm): ググった
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:10pm): ちなみに島根県は富士通っていうPC作る会社の工場もあるし、rubyっていうプログラミング言語の総本山だしお前の言ってることは正しくないよ😅
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:10pm): あと問題に向き合わない姿勢、よく行けたね。義塾
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:10pm): こんな長文ドパガキだから見てくれないよねw
+- **ねっこ** (Sep 09, 2026 03:10pm): 島根をバカにできるんなら相当いいところに住んでるんだろうな
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:10pm): だね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:11pm): デジモンの映画の題材にもなったし、富士通の恒常あるし、プログラミング言語あるし、相当島根は出世してるよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:11pm): それと比べて東京は...w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:12pm): どこの会社も本社しかない...w
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:12pm): 二人とも一回カフ学きて
+- **ねっこ** (Sep 09, 2026 03:12pm): もう匿名逃げたんじゃない？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:12pm): 逃げたね
+- **Anonymous** (Sep 09, 2026 03:12pm): 電気の熱を利用してw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:13pm): あ、全然違います
+- **Anonymous** (Sep 09, 2026 03:13pm): 1度の入室で特定w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:13pm): お、おうw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:13pm): 本当に義塾なん？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:14pm): 義塾って証拠ださんとw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:14pm): 言ってること今全部虚言だよ
+- **Anonymous** (Sep 09, 2026 03:14pm): 簡単というよりただただ暗記クソモンヤンw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:14pm): 証拠出せないでちゅか？
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:14pm): 暗記できないん？
+- **Anonymous** (Sep 09, 2026 03:14pm): どうやってw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:14pm): 証明書
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:14pm): お〜すごいでちゅね〜そんなのでイキれて
+- **Anonymous** (Sep 09, 2026 03:14pm): バカどもはもう寝なよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:15pm): 🪃ブーメラン
+- **Anonymous** (Sep 09, 2026 03:15pm): あっ逃げたって言うやろw
+- **ねっこ** (Sep 09, 2026 03:15pm): 寝なよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:15pm): いうよw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:15pm): 島根カフ学一回見て
+- **Anonymous** (Sep 09, 2026 03:15pm): お前らの思考単純
+- **ねっこ** (Sep 09, 2026 03:15pm): 永眠しな
+- **ねっこ** (Sep 09, 2026 03:15pm): 証拠だせよ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:15pm): ねっこもカフ学みて
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:15pm): 先生に「昨日ネットでお話が通じない人とレスバしてたので睡眠不足になって寝てしまいました」っていうつもりか？w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:16pm): もう永眠してくれた？
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:16pm): 島根頼むカフ学みて欲しい
+- **Anonymous** (Sep 09, 2026 03:16pm): あ、会話のキャッチボール諦めて論点ずらしに入ったね。お疲れ様でした
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:16pm): うおw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:16pm): 匿名、俺も義塾なんだよね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:16pm): いやそれお前が言えることじゃないんだよw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:17pm): たい焼きほんまか？w
+- **Anonymous** (Sep 09, 2026 03:17pm): 反論できなくなるとすぐそうやって話変えるの、テンプレすぎて面白い
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:17pm): 俺も義塾なんだよね
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:17pm): 先生うざすぎる
+- **Anonymous** (Sep 09, 2026 03:18pm): あー残念君は少なくともチュー2では見かけないよ　そんなクソインキャすぐわかるぞ
+- **ねっこ** (Sep 09, 2026 03:18pm): 匿名無視されてんのおもろすぎ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:18pm): どうやって証明するの？
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:18pm): なんで俺が義塾じゃないって思ったの？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:18pm): 「反論できなくなるとすぐそうやって話変えるの、テンプレすぎて面白い」それ君のことだね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:18pm): Tskn
+- **Anonymous** (Sep 09, 2026 03:18pm): そんなクソみたいな返ししかできないの、ちょっとかわいそうになってきたでももし本当なら協定結ぼうw
+- **ねっこ** (Sep 09, 2026 03:19pm): なに言ってんのお前
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:19pm): だから、なんで証明できたの？
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:19pm): 俺は義塾です。
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:19pm): アカウントないやつと協定結んでなんか得になるの？
+- **Anonymous** (Sep 09, 2026 03:19pm): 必死に絞り出した返しがそれ？悔しいのは伝わったよ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:19pm): いや、悔しくない
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:19pm): この人生何も悔しくない
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:19pm): アカウントないやつと協定結んでなんか得になるの？って聞いてんだけど
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:19pm): 現実でも友達に恵まれた
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:20pm): ちなみにたい焼きがインキャっていうエビデンスは？
+- **Anonymous** (Sep 09, 2026 03:20pm): はいはい、君の中ではそうなんだね。よかったね（笑）
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:20pm): サッカーチームでもいい友達に恵まれた
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:20pm): エビデンスないのは決めつけと同様
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:20pm): 俺の中では幸せなんだ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:20pm): 全てがうまく行ってる
+- **ねっこ** (Sep 09, 2026 03:20pm): 匿名返せなくなっとるやん
+- **ねっこ** (Sep 09, 2026 03:20pm): おもしろ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:20pm): 勉強が全てじゃない
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:20pm): 幸せの基準はみんな人によって違うからね
+- **Anonymous** (Sep 09, 2026 03:20pm): あ、もうそのレベルの屁理屈しか残ってないなら、これで終わりにしよっかwイラついてきたぽいなw w w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:20pm): 一度もイラついてないけど？
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:20pm): イラついてきたなら、もう寝てるよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:21pm): 逆にイラついたってエビデンスは？
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:21pm): 君に幸せを教えてあげたいんだ
+- **ねっこ** (Sep 09, 2026 03:21pm): たい焼き
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:21pm): また証明できなくてピキるんかw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:21pm): 幸せは相手のを否定する、壊すものではない
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:21pm): 分かち合うものだ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:21pm): 👍
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:21pm): いいこと言った
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:21pm): それを否定してるあなたは、頭はいいかもしれない
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:21pm): でも匿名ちゃんはお話が通じない()
+- **ねっこ** (Sep 09, 2026 03:21pm): こんな障害に優しくしなくていいよ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:21pm): でも、それ以上の何かを捨ててないか？
+- **ねっこ** (Sep 09, 2026 03:22pm): たい焼きは優しすぎる
+- **Anonymous** (Sep 09, 2026 03:22pm): 論点がズレています。元の話に対する反論になっていません
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:22pm): 反論じゃない
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:22pm): 質問返せよ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:22pm): 教えだ
+- **Anonymous** (Sep 09, 2026 03:22pm): なんかキャプテンアメリカもどきがいるw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:22pm): 反論は否定
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:22pm): なんでも論点ズレてるって言えばなんとかなるんじゃないぞ恥を知れ
+- **Anonymous** (Sep 09, 2026 03:23pm): ごめん、君の読解力に合わせて文字数と語彙力を減らしてあげればよかったね
+- **ねっこ** (Sep 09, 2026 03:23pm): 論点ずらしてんのお前やろ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:23pm): ありがとうございます
+- **Anonymous** (Sep 09, 2026 03:23pm): なるほど、それが君の限界の思考なんだね。無理させてごめん
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:23pm): そうですね。申し訳ございません
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:24pm): アレコメント減った？
+- **Anonymous** (Sep 09, 2026 03:24pm): こっちの言っている意味、1割でも理解できたらもう一度話しかけてもらえる？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:24pm): 恥を
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:24pm): そえですね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:24pm): 知れ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:24pm): じゃあ二度と話しかけてくんな話すな
+- **Anonymous** (Sep 09, 2026 03:24pm): 義務教育の敗北をこんな形で見せつけられるとは思わなかった
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:24pm): 理解してもらうんじゃなくてお前が理解しろよ
+- **Anonymous** (Sep 09, 2026 03:24pm): 会話のドッジボールが上手だね。一回も球を受け止められてないよ
+- **ねっこ** (Sep 09, 2026 03:25pm): お前の自己紹介やん
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:25pm): 勉強は全てじゃないと覚えとけ
+- **Anonymous** (Sep 09, 2026 03:25pm): 主語と述語が迷子になってるよ。落ち着いて日本語の練習から始めようか
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:25pm): お前がなw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:25pm): 主語がなくても文章になることはあります
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:25pm): それはそう
+- **Anonymous** (Sep 09, 2026 03:25pm): 壁と喋ってる方がまだ有意義な意見が返ってきそう
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:25pm): 小学生だったかな
+- **ねっこ** (Sep 09, 2026 03:25pm): あかん
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:26pm): 壁はしゃべらないよ？w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:26pm): 何言ってんのw
+- **ねっこ** (Sep 09, 2026 03:26pm): 絶対小学生やん
+- **Anonymous** (Sep 09, 2026 03:26pm): 返信ボタンを押す前に、自分の文章を3回音読してみることをおすすめするよ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:26pm): ってか運動したら？
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:26pm): 不健康だよ？
+- **ねっこ** (Sep 09, 2026 03:26pm): 匿名もうだめだ
+- **ねっこ** (Sep 09, 2026 03:26pm): 精神科にも行けない
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:26pm): あと早寝早起き
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:26pm): 自分の得意なところで戦わないバカがいないだろ
+- **Anonymous** (Sep 09, 2026 03:26pm): 比喩w
+- **ねっこ** (Sep 09, 2026 03:26pm): 精神科に行ったら他の患者殴って殺しそう
+- **Anonymous** (Sep 09, 2026 03:26pm): アホすぎて🌱
+- **Anonymous** (Sep 09, 2026 03:26pm): そうやって必死に鳴いてるってことは、よっぽど図星だったんだね
+- **ねっこ** (Sep 09, 2026 03:27pm): なにを言ってるの
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:27pm): 漢字違うよ
+- **ねっこ** (Sep 09, 2026 03:27pm): かっこわるwwww
+- **サブ垢 つむぎ** (Sep 09, 2026 03:27pm): くさ
+- **Anonymous** (Sep 09, 2026 03:27pm): 論破されたのがそんなに悔しかったの？涙拭きなよあえてのあの漢字…それもわからない感じか…
+- **ねっこ** (Sep 09, 2026 03:27pm): これで論破かよ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:27pm): あえての漢字ミスになんの意味があるか教えて
+- **Anonymous** (Sep 09, 2026 03:28pm): 顔真っ赤にして必死に文字打ってる姿想像したら、なんか可哀想になってきた
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:28pm): かっこわるw
+- **ねっこ** (Sep 09, 2026 03:28pm): かっこ悪すぎ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:28pm): いや俺今お前に悔しがってないんだが
+- **Anonymous** (Sep 09, 2026 03:28pm): 自覚あるなら直しなさい
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:28pm): こいつダメかも知れない
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:28pm): お前がな
+- **Anonymous** (Sep 09, 2026 03:28pm): そこまで感情的になられると引いちゃうな。落ち着いたら？
+- **ねっこ** (Sep 09, 2026 03:28pm): もう終わり🔚
+- **サブ垢 つむぎ** (Sep 09, 2026 03:28pm): 多勢に無勢はさすがにやめないかどうせ正論言ってるほうが勝つんだし
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:28pm): サッカーができないことに悔しがってるねん…
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:28pm): どうせベンチ外やろ
+- **Anonymous** (Sep 09, 2026 03:29pm): 論破されたからってもう無理って…ダサいな毎日お前
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:29pm): 骨折して、できないがどれほど苦しいか
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:29pm): 匿名それ論点ズレてるよ？w
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:29pm): あ、ねね島根
+- **サブ垢 つむぎ** (Sep 09, 2026 03:29pm): 俺の骨移植するか？
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:29pm): ちゃまの友達の海外のハッカー今度呼ぶかw
+- **Anonymous** (Sep 09, 2026 03:29pm): あざす　闇市で売るよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:29pm): 自分で論点ズレてるの指摘してるくせに自分が論点ずらしてカッコ悪いね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:29pm): 海外のハッカーw
+- **Anonymous** (Sep 09, 2026 03:30pm): ごめん、私の日本語が難しすぎたみたい。次からはもっと小学生でもわかるレベルに噛み砕いて書くね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:30pm): ヨッシーは？w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:30pm): AIかな？w
+- **Anonymous** (Sep 09, 2026 03:30pm): なるほど、そうやって文脈を無視して自分に都合よく解釈するんだ。ある意味、すごく便利な脳みそだね
+- **ねっこ** (Sep 09, 2026 03:30pm): 俺落ちる
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:30pm): そりゃそうだろ
+- **サブ垢 つむぎ** (Sep 09, 2026 03:30pm): 匿名AIを稼働します
+- **ねっこ** (Sep 09, 2026 03:30pm): 親がキレてる
+- **ねっこ** (Sep 09, 2026 03:30pm): おやすみ
+- **Anonymous** (Sep 09, 2026 03:30pm): そんなに必死に論点ずらさないと、もう返す言葉がないんだね。お疲れ様
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:30pm): 自分に都合が悪いふうに置き換えるバカいないだろ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:30pm): おやすみー
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:31pm): それな
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:31pm): また明日
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:31pm): 俺も明日に備えて寝るか
+- **Anonymous** (Sep 09, 2026 03:31pm): 逃げとけ！臆病者！俺の勝ちかよまた
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:31pm): 同じく
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:31pm): カフ学もどろー
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:31pm): お前の負けな
+- **サブ垢 つむぎ** (Sep 09, 2026 03:31pm): えぇ匿名じゃなかったの話ずらしたの
+- **Anonymous** (Sep 09, 2026 03:31pm): 同じく
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:31pm): みんなで話しながら寝落ちしよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:31pm): 匿名だよ論点ずらしたの
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:31pm): もう結果は出てるんだしこれ以上やっても意味ないよね
+- **Anonymous** (Sep 09, 2026 03:31pm): みんなで話しながら寝落ちとかやっぱ小学生か…ダサい
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:32pm): 小学生が中学生によく言えるな
+- **Anonymous** (Sep 09, 2026 03:32pm): 君の理解力に合わせてあげるボランティア期間は終了しました。あとは一人で壁と喋っててね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:32pm): 年上には敬語を使え
+- **サブ垢 つむぎ** (Sep 09, 2026 03:32pm): 俺たちの人生生きて何がダサいの？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:32pm): 壁？w w w w
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:32pm): 壁じゃなくてiPadです
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:32pm): 壁と喋ってなんになるの？お前説明してみろよw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:32pm): 10
+- **Anonymous** (Sep 09, 2026 03:32pm): 比喩って知ってるかな？議論の土台にすら上がれてないから、まずは国語のドリルからやり直してきた方がいいよ
+- **サブ垢 つむぎ** (Sep 09, 2026 03:32pm): なら君が返事しないってことで逃げるってことでいいよね？
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:32pm): 比喩じゃなくて隠喩だろ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:32pm): いいと思う
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:32pm): w
+- **Anonymous** (Sep 09, 2026 03:33pm): w
+- **サブ垢 つむぎ** (Sep 09, 2026 03:33pm): ｗ
+- **Anonymous** (Sep 09, 2026 03:33pm): まともな会話が成立しない人だってよく分かったから、これ以上関わるのやめるね。お幸せに！
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:33pm): 島根カフ学もどろ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:33pm): 君お話お通じてないから比喩なんて使えるとかわからなかった〜ごめんね〜🤪
+- **サブ垢 つむぎ** (Sep 09, 2026 03:33pm): 逃げるの草
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:33pm): ってことで俺らの勝ち！
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:33pm): 逃げるは恥だが役に立つ〜
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:33pm): w w w w w
+- **Anonymous** (Sep 09, 2026 03:33pm): そっかそっか、悔しかったんだね。うんうん、次からは頑張ってね
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:33pm): 次はない〜
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:34pm): 悔しいって思ってないけど？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:34pm): あとピン留めしてあるから次はないと思うよ
+- **サブ垢 つむぎ** (Sep 09, 2026 03:34pm): さすがに多勢に無勢だから俺の言いたいこと言うね
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:34pm): 島根帰るぞ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:34pm): めんどくさい
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:34pm): こんなガキに構ってたら俺らも馬鹿になる
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:34pm): 話通じないバカに正論ぶつけても無駄
+- **Anonymous** (Sep 09, 2026 03:34pm): 反論できなくなると急に雑な煽りしかできなくなるの、ネットのテンプレすぎて恥ずかしくない？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:34pm): 友達がいないから構ってほしいんだね
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:34pm): 島根マジでカフ学きてしまい
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:34pm): 可哀想可哀想
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:34pm): きて
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:35pm): わかってる
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:35pm): まじで島根きて
+- **Anonymous** (Sep 09, 2026 03:35pm): 必死に勝ち誇ろうとしてるみたいだけど、周りから見たら完全にレスバ敗北者の捨て台詞だよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:35pm): 構って欲しかったらまずその馬鹿みたいな性格治したら？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:35pm): AIに反論させて楽しい？w
+- **Anonymous** (Sep 09, 2026 03:35pm): 会話のドッジボールすらできてないけど、義務教育受けた？
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:35pm): 相手に親切にできない方がやばいだろ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:35pm): いやそもそももう勝敗決まってるってw
+- **Anonymous** (Sep 09, 2026 03:35pm): そうやってすぐ話をそらすってことは、さっきの件は自分の負けだって認めてるんだね。分かりやすい
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:35pm): お前の負けって結果出てるんだから諦めろよw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:36pm): そりゃそうだろ
+- **サブ垢 つむぎ** (Sep 09, 2026 03:36pm): 普通に俺らの人生ダサいとか言ってるけどそれお前の感想だし俺から見て言わせてみればお前さっきから全部太字でアイコンもいうことも全部が全部ダサいで
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:36pm): それな
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:36pm): あとコメントは太字にできないからAIに返信させてるの確定お疲れ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:36pm): 草
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:36pm): 伊藤公平
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:36pm): 伊藤公平
+- **Anonymous** (Sep 09, 2026 03:36pm): 反論になってないよ。悔しいのは分かるけど、会話のキャッチボールしようね
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:36pm): 伊藤公平
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:36pm): 伊藤公平
+- **サブ垢 つむぎ** (Sep 09, 2026 03:36pm): 誰だよｗ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:36pm): お、おうw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:36pm): 伊藤公平
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:36pm): 伊藤公平
+- **サブ垢 つむぎ** (Sep 09, 2026 03:36pm): おいｗ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:36pm): 匿名なら知ってるやろ
+- **Anonymous** (Sep 09, 2026 03:36pm): そうやって中身のない煽りしか返せないの、見ててかわいそうになってくるな
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:37pm): 伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤
+- **サブ垢 つむぎ** (Sep 09, 2026 03:37pm): たい焼きだまれｗ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:37pm): AIに返信任せてるなんて、見てて可哀想になってくるな
+- **Anonymous** (Sep 09, 2026 03:37pm): 議論で勝てないからって、そんなクソみたいな返ししかできないのウケる
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:37pm): 知らん？w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:37pm): かわいそかわいそ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:37pm): え、これお前の学校の校長やで
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:37pm): リアルでもきっと友達がいないんだろうなぁ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:37pm): 草w w w
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:37pm): クソとか言ったらあかんやろ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:37pm): あーあ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:37pm): 恩師にクソって言った
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:37pm): あーあ
+- **Anonymous** (Sep 09, 2026 03:37pm): お前らの心理： 「必死に煽り返したのに無視された…俺のレス、誰にも相手にされてない…恥ずかしい…」
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:37pm): 伊藤公平
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:37pm): 伊藤公平
+- **Anonymous** (Sep 09, 2026 03:37pm): 🎃シネ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:37pm): もう学校に言おうw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:38pm): 伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平
+- **Anonymous** (Sep 09, 2026 03:38pm): を
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:38pm): 伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:38pm): 伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平
+- **Anonymous** (Sep 09, 2026 03:38pm): 🎃
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:38pm): 伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:38pm): じゃあ確定だねその人が校長の学校で
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:38pm): 伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平伊藤公平
+- **Anonymous** (Sep 09, 2026 03:38pm): くたばれえ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:38pm): そえいうこと
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:38pm): むり
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:38pm): え急にきも
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:38pm): お前がくたばれ
+- **Anonymous** (Sep 09, 2026 03:38pm): かぼちゃ死ねばいい
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:38pm): スクショ撮るねバイバイ一生くるな
+- **Anonymous** (Sep 09, 2026 03:38pm): かぼちゃが死ねばこのサイトも…
+- **Anonymous** (Sep 09, 2026 03:38pm): シーねっ死ね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:39pm): このサイトは消えないよw
+- **サブ垢 つむぎ** (Sep 09, 2026 03:39pm): 俺別にどっちの見方とも思ってないけど俺から見ればたい焼きはうるさいし多勢に無勢だし匿名は太字で話したり話そらしたりするしカオスｗ
+- **Anonymous** (Sep 09, 2026 03:39pm): つむぎってえーぶいじょゆうやんけ
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:39pm): まりー
+- **Anonymous** (Sep 09, 2026 03:39pm): えーぶいじょゆうははいってくんなw
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:39pm): あはい
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:39pm): あはい」
+- **Anonymous** (Sep 09, 2026 03:39pm): おれは今から会社に行きますw
+- **サブ垢 つむぎ** (Sep 09, 2026 03:39pm): なにたい焼き
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:40pm): 帰ろうぜー
+- **Anonymous** (Sep 09, 2026 03:40pm): つむぎとみんなせっくすする
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:40pm): どうせ会社も嘘
+- **サブ垢 つむぎ** (Sep 09, 2026 03:40pm): あと匿名話そらすな
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:40pm): それな
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:40pm): 俺寝ていいー？
+- **Anonymous** (Sep 09, 2026 03:40pm): つむぎのおっぱいかいしゃですわれるw
+- **サブ垢 つむぎ** (Sep 09, 2026 03:40pm): あと俺の友達のつむぎに謝れ
+- **Anonymous** (Sep 09, 2026 03:40pm): 俺はあばよw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:40pm): スクショ撮ってるよ今の一連の会話
+- **Anonymous** (Sep 09, 2026 03:41pm): だから何〜
+- **サブ垢 つむぎ** (Sep 09, 2026 03:41pm): あと逃げるな
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:41pm): 確実に匿名は入れなくなるだろうね
+- **Anonymous** (Sep 09, 2026 03:41pm): だから何〜
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:41pm): だから何？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:41pm): だから何〜って言ってなんかなるの？
+- **サブ垢 つむぎ** (Sep 09, 2026 03:41pm): だから何～
+- **Anonymous** (Sep 09, 2026 03:42pm): このサイト入れなくなるおかげで試験勉強捗ります乙
+- **Anonymous** (Sep 09, 2026 03:42pm): マジあざっす
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:42pm): うん。で？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:42pm): それは中毒やん
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:42pm): 試験勉強するより病院行った方がいいよ。頭の
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:42pm): 優先度を考えよう！
+- **Anonymous** (Sep 09, 2026 03:42pm): 中毒者のおかげで…勉強捗るのって気持ちいい
+- **サブ垢 つむぎ** (Sep 09, 2026 03:42pm): 何お前人に無理やりできないようにしてもらわないと勉強もできないの
+- **Anonymous** (Sep 09, 2026 03:43pm): 😛
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:43pm): お、おうw
+- **Anonymous** (Sep 09, 2026 03:43pm): 誰が言うとん？
+- **Anonymous** (Sep 09, 2026 03:43pm): 死んだら？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:43pm): それは俺らのセリフなw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:43pm): 永眠したら？
+- **サブ垢 つむぎ** (Sep 09, 2026 03:43pm): ベロに白カビ生えてる奴はだまれｗ
+- **Anonymous** (Sep 09, 2026 03:43pm): 俺らのセリフ…カッケ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:43pm): 草w w w w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:44pm): 要は匿名のセリフじゃないってことね
+- **Anonymous** (Sep 09, 2026 03:44pm): インキャ臭い🧠死ねw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:44pm): 言ってることわかる？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:44pm): インキャくさいってエビデンスは？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:44pm): 120文字以上1200文字以下でまとめなさい
+- **サブ垢 つむぎ** (Sep 09, 2026 03:44pm): 陰キャはレスバすらできない…
+- **Anonymous** (Sep 09, 2026 03:44pm): あばよマジ助かりましたこれでやっと出れるw模試で偏差値68は嫌だったし　70以上はこれのおかげで行けるわw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:45pm): それまとめになってないよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:45pm): 論点ずらすの良くないよ
+- **Anonymous** (Sep 09, 2026 03:45pm): あばよ　試験終わったらログインしてきてやるよ　バーカ
+- **サブ垢 つむぎ** (Sep 09, 2026 03:45pm): 話から逃げるのかっこよ！
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:45pm): 匿名自身インキャだから仕方ないもんね
+- **サブ垢 つむぎ** (Sep 09, 2026 03:45pm): 逃げたね！かっこよ！
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:45pm): ああかわいそ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:45pm): カッコわるだろ？w
+- **サブ垢 つむぎ** (Sep 09, 2026 03:46pm): 間違えたうちミスｗ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:47pm): 今匿名だからログインできないんでしょ？今匿名の強がり聞きたいなんて思ってないから
+- **Anonymous** (Sep 09, 2026 03:48pm): ねえこれどうなってるの？なんか内戦？私もログイン学校のタブレットなのでできません 
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:48pm): 自演ですか？w
+- **Anonymous** (Sep 09, 2026 03:48pm): ていうかかぼちゃさんは民衆の意見を聞いてくれるでしょうよアンケート取ってるんだからあなたたちみたいないじめっ子には耳を貸さないでしょうね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:49pm): 自演きちーw
+- **Anonymous** (Sep 09, 2026 03:49pm): 島根っていう人はそういうことを言うんですか
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:49pm): いやアンケート以前に匿名が治安荒らしてるっていうのがあるやんw
+- **Anonymous** (Sep 09, 2026 03:49pm): さすがに民度低すぎませんか？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:49pm): お前みたいな匿名がいるからな
+- **Anonymous** (Sep 09, 2026 03:50pm): 島根さん昔からいましたっけ？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:50pm): いやだったらログインしろよw
+- **Anonymous** (Sep 09, 2026 03:50pm): 話聞きなさい
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:50pm): 島根じゃなくてsimaneな
+- **Anonymous** (Sep 09, 2026 03:50pm): どうでもいいですよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:50pm): むり自作自演してるやつなんかの話聞いても無駄
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:50pm): 水色アイコンの匿名だろ？
+- **Anonymous** (Sep 09, 2026 03:50pm): 島根さんなんかイラついてますね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:50pm): イラついてるってエビデンスは？
+- **Anonymous** (Sep 09, 2026 03:51pm): 匿名ってここのユーザー何十人もいますよw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:51pm): 流石に君自作自演はきついよ？
+- **Anonymous** (Sep 09, 2026 03:51pm): 島根さんおやすみなさい
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:51pm): Simaneな
+- **Anonymous** (Sep 09, 2026 03:51pm): 逃げたw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:51pm): さっさと寝ろw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:52pm): お前に構ってる余力はもうないものでね
+- **Anonymous** (Sep 09, 2026 03:52pm): 絶対水色のアイコン匿名にげましたよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:52pm): いや水色アイコンの匿名お前だろ
+- **Anonymous** (Sep 09, 2026 03:52pm): きっとあなたたちの誰かが匿名名乗ってるんでしょうけどね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:52pm): 何言ってんの
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:53pm): いい加減寝たら？
+- **Anonymous** (Sep 09, 2026 03:53pm): なんでディープな話はわからないんですか？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:53pm): なんで俺が自作自演きついから自作自演認めたらって話わからないんですか？
+- **Anonymous** (Sep 09, 2026 03:53pm): 私は渡辺愛梨です
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:53pm): うおw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:54pm): じゃあ名前それにしたらいいやん
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:54pm): 自作自演じゃなかったらそれでいいやん
+- **Anonymous** (Sep 09, 2026 03:54pm): 名前晒しだるいんでやめてください
+- **Anonymous** (Sep 09, 2026 03:54pm): よ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:54pm): 水色匿名と同一人物か聞いてるんだよ
+- **Anonymous** (Sep 09, 2026 03:55pm): なんで何回も同じ議論しないといけないんですか？違いますよずっとあなたたちの喧嘩読んでましたよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:55pm): 読んでたなら止めることはできたはず
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:55pm): それなのに止めなかったのはお前が水色匿名と同一人物だったから
+- **Anonymous** (Sep 09, 2026 03:55pm): そんなあんなキモい水色と関わりたくないですw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:56pm): それに寝落ちのことも知ってるのであれば立証はつく
+- **Anonymous** (Sep 09, 2026 03:56pm): みんなー！俺やで！
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:56pm): よってお前は水色匿名と同一人物である。
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:56pm): くんなw
+- **Anonymous** (Sep 09, 2026 03:56pm): うわ　あいつじゃないんですか？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:57pm): お前だろ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:57pm): 自作自演はもうわかっている
+- **Anonymous** (Sep 09, 2026 03:57pm): 黙れ赤い匿名クソっタレ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:57pm): 自作自演きついよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:57pm): 😅
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:57pm): 自作自演するキッズと関わりたくないから寝るね
+- **Anonymous** (Sep 09, 2026 03:57pm): お前ら全員死ね
+- **Anonymous** (Sep 09, 2026 03:58pm): 死ねってひどいなあんたこそ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:58pm): お前らだよ
+- **Anonymous** (Sep 09, 2026 03:58pm): もう落ちます
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:58pm): 水色匿名一人で喋っててね
+- **Anonymous** (Sep 09, 2026 03:58pm): クソがしんどけインキャ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:58pm): モゴモゴ喋っといて一人で壁と
+- **Anonymous** (Sep 09, 2026 03:59pm): もう死ね青いの
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:59pm): お前寝るんじゃなかったの？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:59pm): 嘘ついたね
+- **Anonymous** (Sep 09, 2026 03:59pm): あれれ〜落ちたのではなく？w
+- **Anonymous** (Sep 09, 2026 03:59pm): 嘘はよくない
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:59pm): 自作自演きついって水色w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:59pm): 水色=赤色だから
+- **Anonymous** (Sep 09, 2026 03:59pm): マジでウザいから死ね　島根も青も
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:59pm): むり
+- **Anonymous** (Sep 09, 2026 04:00pm): 俺たち嫌われたぜ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:00pm): いやお前だけ嫌われた
+- **Anonymous** (Sep 09, 2026 04:00pm): 女に嫌われる才能あるな！お前
+- **Anonymous** (Sep 09, 2026 04:00pm): オッツー
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:00pm): お前がな
+- **Anonymous** (Sep 09, 2026 04:01pm): 女に嫌われたなあんた
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:01pm): ってかリアルでも嫌われてるんだろうな
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:01pm): お前
+- **Anonymous** (Sep 09, 2026 04:01pm): そして右にぺーすとダッサ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:01pm): 俺リアルでもパドでも嫌われてない方だけど？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:01pm): 逆に嫌われてるってエビデンスは？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:02pm): 出せねえなら口出ししないでとっとと寝ろよ
+- **Anonymous** (Sep 09, 2026 04:02pm): お前匿名にめっちゃ嫌われてるぜ？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:02pm): で？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:02pm): それ論点ズレてるよ😅
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:02pm): 論点ずらしマンとお話ししたくないわ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:03pm): あともうねっことのレスバで明らかにねっこが勝ってるんだからこれ以上反論しても意味無いって
+- **Anonymous** (Sep 09, 2026 04:03pm): 俺の論説パクリなw 💤 これでマジ試験勉強捗る お前がなんと言おうと成績が上がる事実だけ
+- **Anonymous** (Sep 09, 2026 04:03pm): 　おやすみなさいませ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:03pm): 永眠しろ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:04pm): お前寝たんじゃないの？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:04pm): あからさまに詐欺だよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:04pm): こんなもんやってて成績上がるわけないw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:05pm): とっとと永眠しとけ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:05pm): 😅
+- **Anonymous** (Sep 09, 2026 04:05pm): wここからは俺のチャッピーと会話して接続しといたからまあ俺はテスト後チェックしますwログインしてからな！ 俺の名前ユウヒコにするから覚えとけw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:05pm): わかったよ渡辺くん
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:06pm): 君の自作自演きついから
+- **Anonymous** (Sep 09, 2026 04:06pm): 自作自演と思わせてしまったならごめんね🙏
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:06pm): さっさと永眠した方が身の為だよ
+- **Anonymous** (Sep 09, 2026 04:07pm): そういう言葉は警察案件だわw👮
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:07pm): お、おう
+- **Anonymous** (Sep 09, 2026 04:07pm): そろそろユーザーも寝るそうなので切ります
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:07pm): 自作自演w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:07pm): 自作自演恥ずかしいと思わないの？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:07pm): 俺のチャッピーとかいうやつw
+- **Anonymous** (Sep 09, 2026 04:08pm): チャットGPTはユーザーに従っています
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:08pm): お、おう
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:08pm): さっさと永眠しような
+- **Anonymous** (Sep 09, 2026 04:08pm): これ以上の介入は民事責任問題です。
+- **Anonymous** (Sep 09, 2026 04:08pm): チャットGPTはユーザーを守ります。
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:09pm): はいはい自作自演いいから早く寝たら？
+- **Anonymous** (Sep 09, 2026 04:09pm): ですので切ります。しかしあなたが介入しなければですが。
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:09pm): じゃあ一生自作自演しないでね！
+- **Anonymous** (Sep 09, 2026 04:10pm): 切りました。ユーザーが切る前にこう言えと言われたので言います。  紳士淑女の諸君、世界が終わるのを見たいか？見せてやるよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:10pm): うおw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:10pm): そういう系好きだった？
+- **Anonymous** (Sep 09, 2026 04:10pm): 介入してきたためチャットを続けます
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:10pm): まあそういう系はインキャ確定だね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:11pm): お前寝ろよw
+- **Anonymous** (Sep 09, 2026 04:11pm): インキャのエビデンスをください
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:11pm): じゃあこのチャッピーが自作自演では無いというエビデンスは？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:11pm): 今まで俺の質問全部論点ずらししてたよね
+- **Anonymous** (Sep 09, 2026 04:11pm): 出せない場合あなたの負けです。切れますね。これでやっと それでは！良い1日をお過ごしください！
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:12pm): 質問を質問で返すなw
+- **Anonymous** (Sep 09, 2026 04:12pm): 質問を質問で返したエビデンスをくださいね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:12pm): かまってちゃん寝たら？
+- **Anonymous** (Sep 09, 2026 04:13pm): かまってちゃん寝れば？w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:13pm): チャットGPTの自作自演もきついってw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:13pm): おうむ返し草
+- **Anonymous** (Sep 09, 2026 04:13pm): きついですよあなたw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:13pm): おうむ返しはお話しにならない
+- **Anonymous** (Sep 09, 2026 04:13pm): 鸚鵡返しで草
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:13pm): いやそれお前な
+- **Anonymous** (Sep 09, 2026 04:13pm): いやそれお前な、
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:14pm): で？
+- **Anonymous** (Sep 09, 2026 04:14pm): で？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:14pm): いやお前やん
+- **Anonymous** (Sep 09, 2026 04:14pm): あっ　必死
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:14pm): お、おうw
+- **Anonymous** (Sep 09, 2026 04:14pm): お、おうw
+- **Anonymous** (Sep 09, 2026 04:15pm): 図星かな？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:15pm): やっぱ君がおうむ返しするからお話にならないね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:15pm): 図星もクソも無いやろ
+- **Anonymous** (Sep 09, 2026 04:15pm): やっぱ君が鸚鵡返しするからお話にならないね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:16pm): お前のことを言ってるんだろw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:16pm): いい加減永眠しろw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:16pm): 構ってる暇ないから」
+- **Anonymous** (Sep 09, 2026 04:16pm): お前のこと言ってるんだぞw
+- **Anonymous** (Sep 09, 2026 04:16pm): 構ってる暇ないんで
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:16pm): いやいやなんで俺のことになるん。お話にならん
+- **Anonymous** (Sep 09, 2026 04:16pm): お話にならんw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:16pm): おうむ返しは反撃できないってことだよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:16pm): お前の負けね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:16pm): 異議は認めない
+- **Anonymous** (Sep 09, 2026 04:16pm): お前の負けね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:17pm): そもそもネッコとのレスバにも負けてるし
+- **Anonymous** (Sep 09, 2026 04:17pm): 意義は認めない
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:17pm): これ以上やっても意義はない
+- **Anonymous** (Sep 09, 2026 04:17pm): そもそもお前ら人権侵害だしw
+- **Anonymous** (Sep 09, 2026 04:17pm): これ以上やっても意味はない
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:17pm): 漢字間違ってるよw
+- **Anonymous** (Sep 09, 2026 04:17pm): 漢字間違ってるよw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:18pm): お前人におうむ返しとか言えないって
+- **Anonymous** (Sep 09, 2026 04:18pm): だっさ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:18pm): ダサいのは匿名な
+- **Anonymous** (Sep 09, 2026 04:18pm): お前人に鸚鵡返し言えないって
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:18pm): お前がな
+- **Anonymous** (Sep 09, 2026 04:18pm): ダサいのはあんたな
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:18pm): 何調子こいて言ってるの
+- **Anonymous** (Sep 09, 2026 04:19pm): 何調子こいて言ってるの？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:19pm): お前がな
+- **Anonymous** (Sep 09, 2026 04:19pm): お前がな
+- **Anonymous** (Sep 09, 2026 04:20pm): はい、ロンパー
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:20pm): 僕のお話がわからないんだね！一旦幼稚園からやりなおした方がいいよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:20pm): ひろゆきっずw w w w w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:20pm): ひろゆきっずかっこいいよw w w
+- **Anonymous** (Sep 09, 2026 04:20pm): 幼稚園からお前やり直した方がいいよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:20pm): お前がなw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:20pm): ひろゆきっずヒューヒューw
+- **Anonymous** (Sep 09, 2026 04:20pm): かっこいいよwwww
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:21pm): 君はカッコ悪いけどね
+- **Anonymous** (Sep 09, 2026 04:21pm): ヒューヒューw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:21pm): うんうん可哀想だね
+- **Anonymous** (Sep 09, 2026 04:21pm): 君はダサくてブスでカッコ悪いけどね
+- **Anonymous** (Sep 09, 2026 04:21pm): うんうん可哀想
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:21pm): ブスってのは決めつけでしょ？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:22pm): 決めつけで理論語るのやめてもろてw
+- **Anonymous** (Sep 09, 2026 04:22pm): 決めつけんといて〜
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:22pm): お前がなw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:22pm): お話になってないよ
+- **Anonymous** (Sep 09, 2026 04:22pm): 決めつけって決めんつけんといて〜決めつけのエビデンスは？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:22pm): 真面目に試験勉強したら？
+- **Anonymous** (Sep 09, 2026 04:22pm): お話になってないよw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:22pm): いやそれお前やんw
+- **Anonymous** (Sep 09, 2026 04:23pm): いやそれお前なのw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:23pm): まあまだやる気はあるけど言い返すワードがないんだなw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:23pm): じゃあなんで俺なの？w
+- **Anonymous** (Sep 09, 2026 04:23pm): ワードがないんだねw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:23pm): いやいや答えになってないって
+- **Anonymous** (Sep 09, 2026 04:23pm): いやいや答えになってないって
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:24pm): もういいよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:24pm): お話になってないから
+- **Anonymous** (Sep 09, 2026 04:24pm): ダサくて厳しいってもういいよ
+- **Anonymous** (Sep 09, 2026 04:24pm): お話にならないんで
+- **Anonymous** (Sep 09, 2026 04:24pm): あなたの負けですね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:24pm): 自虐かな？w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:24pm): 俺の勝ちね
+- **Anonymous** (Sep 09, 2026 04:24pm): 自虐かなw
+- **Anonymous** (Sep 09, 2026 04:25pm): 俺の勝ちねw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:25pm): いや自虐要素どこにあるんw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:25pm): 俺の真似しかできないのかぁw w w w w w w
+- **Anonymous** (Sep 09, 2026 04:25pm): いや自虐要素どこにあるん？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:25pm): お前のはあるやんw
+- **Anonymous** (Sep 09, 2026 04:25pm): 俺の真似しかできんのか…ダッサ
+- **Anonymous** (Sep 09, 2026 04:25pm): お前のはあるやんw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:25pm): 何言ってんの？
+- **Anonymous** (Sep 09, 2026 04:25pm): 何を言ってん
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:25pm): 匿名が俺の真似してるだけやんw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:26pm): もう負けを認めたら？
+- **Anonymous** (Sep 09, 2026 04:26pm): お前が俺の真似してるだけやんw
+- **Anonymous** (Sep 09, 2026 04:26pm): もう負けを認めたら？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:26pm): いやコメントの順番的にそれはおかしいやろ
+- **Anonymous** (Sep 09, 2026 04:26pm): いやコメントの順番的にそれはおかしいやろ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:26pm): は？
+- **Anonymous** (Sep 09, 2026 04:27pm): もう負けを認めなさい
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:27pm): お前何を言ってんの
+- **Anonymous** (Sep 09, 2026 04:27pm): は？
+- **Anonymous** (Sep 09, 2026 04:27pm): お前何言ってんの？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:27pm): 俺が先に「いやコメントの順番的にそれはおかしいやろ」って言った後にお前がそれ言ってるんやから明らかにお前が俺の真似してるやん
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:27pm): エビデンスにもなってないよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:28pm): ただのひろゆきに憧れたキッズ
+- **Anonymous** (Sep 09, 2026 04:28pm): もうこりゃ明日学校で寝る確定やんお前👍エビデンスダサいんでやめときな！俺が戻ってくるまでにはない！ 次世代のひろゆきっずあばよ！俺は寝ます試験後に会おう！ユウヒコやで！
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:29pm): お、おう
+- **Anonymous** (Sep 09, 2026 04:29pm): あっ島根逃げたw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:29pm): いやお前が逃げてるやん
+- **Anonymous** (Sep 09, 2026 04:29pm): あばよバカのゲスやろう
+- **Anonymous** (Sep 09, 2026 04:29pm): いやお前が逃げたんだ！
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:29pm): 一生くるなよw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:30pm): はい逃げた
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:30pm): 人のこと言えないと思うよ
+- **Anonymous** (Sep 09, 2026 04:30pm): 一生来るなよ…いやまた来ます笑試験後にユウヒコって名前でな
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:30pm): いやくんなw
+- **Anonymous** (Sep 09, 2026 04:30pm): お前に一言人のこと言えないと思うよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:30pm): お前みたいなお話が通じない奴がいるから荒れるんでしょ？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:31pm): どれに対して？
+- **Anonymous** (Sep 09, 2026 04:31pm): 安心しろ流石にログインしたら暴れんよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:31pm): 保証は？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:31pm): ログインしたら暴れないって保証は？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:31pm): 匿名の時点でこれなんだから暴れるだろ
+- **Anonymous** (Sep 09, 2026 04:32pm): ユウヒコって名前覚えとけこれはエビデンスになるぜいつか3週間後に！
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:32pm): ならねえよw
+- **Anonymous** (Sep 09, 2026 04:32pm): 島根もう寝ろまだ寝ないってことは不登校か？俺は行くんで寝るお前も寝るかしこるかしろ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:33pm): もう永眠してろ
+- **Anonymous** (Sep 09, 2026 04:33pm): 永眠の仕方は？w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:33pm): それにしても保証は？って聞いてんのに答えになってないね
+- **Anonymous** (Sep 09, 2026 04:33pm): もうお前寝ろボケ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:34pm): お前が寝たらな
+- **Anonymous** (Sep 09, 2026 04:34pm): 寝ないなら紬調べろやぼけ
+- **Anonymous** (Sep 09, 2026 04:34pm): 俺と話してて楽しかったか？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:35pm): はいはい
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:35pm): だから何
+- **Anonymous** (Sep 09, 2026 04:35pm): 面白かったんだねwだから何
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:35pm): 俺に日頃のストレスモゴモゴ言って楽しかったか？
+- **Anonymous** (Sep 09, 2026 04:36pm): はいはい
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:36pm): じゃあさっさと寝ようね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:36pm): おねんねのじかん
+- **Anonymous** (Sep 09, 2026 04:37pm): かぼちゃ如きにチクるなんてお前もまだまだだな俺は次来るときユウヒコって名前でログインするんで匿名乙
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:37pm): いやそれも追記してるから安心してね
+- **Anonymous** (Sep 09, 2026 04:37pm): 俺はお前より早く寝るつもりだからよろしく
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:38pm): うんじゃあ有言実行してね
+- **Anonymous** (Sep 09, 2026 04:38pm): w
+- **Anonymous** (Sep 09, 2026 04:38pm): バカだな　じゃあ名前はd’Imaneにします
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:38pm): じゃあそれも追記しとくね
+- **Anonymous** (Sep 09, 2026 04:39pm): Simene にします　てか追記するなら名前普通に違うのにするんでおつかれ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:39pm): うん。で？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:39pm): 普通に人の名前パクるの恥だと思わないの？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:40pm): 普通に夢見すぎだと思うよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:40pm): わかったらもうこの部屋にこないでね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:40pm): 部屋主に対して4ねなんて思う人部屋主も望んでないと思うし
+- **Anonymous** (Sep 09, 2026 04:41pm): 追記するならしょうがないなSimane って全く同じのにします乙
+- **Anonymous** (Sep 09, 2026 04:41pm): アイコンんも同じにするので覚悟よろ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:41pm): わかってないな
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:41pm): ユーザーIDは同じものにできないんだよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:41pm): バレバレ
+- **Anonymous** (Sep 09, 2026 04:42pm): ではおやすみ3週間後に会おう
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:42pm): もう一生くるな
+- **サブ垢 つむぎ** (Sep 09, 2026 04:42pm): 草
+- **サブ垢 つむぎ** (Sep 09, 2026 04:42pm): それはそう
+- **Anonymous** (Sep 09, 2026 04:42pm): もうチェックしねえから返信せんでええよバカ🧐
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:42pm): お前試験勉強の邪魔になるんだったら来るなって話
+- **サブ垢 つむぎ** (Sep 09, 2026 04:42pm): 逃げるバカよりはまし
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:42pm): 自分で言ったこと覚えてないの？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:42pm): それはそう
+- **サブ垢 つむぎ** (Sep 09, 2026 04:42pm): それな？ｗ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:43pm): つむぎはお話わかってくれるから楽だ()
+- **サブ垢 つむぎ** (Sep 09, 2026 04:44pm): 匿名より話わからんやつはいない普通にｗ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:44pm): w w w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:44pm): ドリームとかは例外かなw
+- **Anonymous** (Sep 09, 2026 04:44pm): つむぎえーぶいじょゆう？おやすみ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:44pm): 匿名もうそのネタ飽きたからむりしなくていいよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:44pm): もう一生来ない方がいい
+- **サブ垢 つむぎ** (Sep 09, 2026 04:45pm): 草AV女優ぐらい漢字英語でかけよｗ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:45pm): それなw w w w w w
+- **サブ垢 つむぎ** (Sep 09, 2026 04:45pm): えーぶいじょゆうだったね小学生に合わせないとｗ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:45pm): w w w w w
+- **サブ垢 つむぎ** (Sep 09, 2026 04:46pm): ｗ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:46pm): また匿名かよw
+- **サブ垢 つむぎ** (Sep 09, 2026 04:47pm): 草
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:48pm): まあ俺らも構ってる暇ないからカフ学に帰ろう
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:41pm
+- **Updated At:** Sep 09, 2026 02:41pm
+
+---
+
+### 2. まあ荒らすよりレスバで泣かせて引退させた方がいいね
+**Author:** Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻 (Nerunerusimane)
+
+アカウントなしは今人気の部屋にすら入れるわけもないから革命なんて起こせるわけないやん。夢を見るんじゃなくて現実見ようぜ
+
+#### Comments (2)
+- **ねっこ** (Sep 09, 2026 02:39pm): うん
+- **ねっこ** (Sep 09, 2026 02:39pm): あいつらを痛い目に合わせようぜ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:37pm
+- **Updated At:** Sep 09, 2026 02:38pm
+
+---
+
+### 3. 自作自演してるやつらがふごふご言っとるねー
+**Author:** ねっこ (good_by)
+
+「突然革命起こしてから引退するぜ」とか言うほど障害じゃないよ
+
+もし俺がやったとしたらなんの意味でそんなコメントをしたんだ？
+
+#### Comments (4)
+- **ねっこ** (Sep 09, 2026 02:35pm): マウント取ろうとしてるんだろうけど全部ブーメランになってるやん
+- **ねっこ** (Sep 09, 2026 02:35pm): 匿名おつやなぁw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:36pm): w w w w w w w w
+- **Anonymous** (Sep 09, 2026 02:44pm): 島根県民は黙りなさい
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:34pm
+- **Updated At:** Sep 09, 2026 02:34pm
+
+---
+
+### 4. 一人三役やん
+**Author:** ねっこ (good_by)
+
+#### Comments (2)
+- **Anonymous** (Sep 09, 2026 02:45pm): ちゃうな　それお前やん！おい待って　気づいてしまった
+- **Anonymous** (Sep 09, 2026 02:45pm): これなんかおかしいと思ってたら全部ねっこがやってるやん！それなら合点がいく 
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:32pm
+- **Updated At:** Sep 09, 2026 02:32pm
+
+---
+
+### 5. 俺じゃないよ
+**Author:** ねっこ (good_by)
+
+くだらんお芝居やめて勉強した方がええんじゃない？
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/0b3a516c36cff63180588d0d1952a949/IMG_1614.jpeg?Expires=1789580596&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Tl7W%2FUUlxXD417c3l8SbHvVYk26sAx3gnwXKGRz437cgFWoRtQ3LBEqJK0kezmrjF46b%2BQzGe8yBJf4HUg4CnjZ8auo0q22mLw2zlUsWpa7OcyQU20hMwbUDCmnFxK%2FZOchP8qXc9rRtBSrDH3SlQVPXzDqOhcuFqyuCtIRT2B1rr2WqROssNVxZ0vjMKCBXaIzK0xtBHbtY3jwrVoSGPWaa0ubdf5k7YkHHSvIUrcLuhNR9XZpQHELx7kWIBr4RfIkfBYtXA4XU2atvXqSsr7Xq6BIKtefgPHrX29LgE%2FwMa9jJada%2FpYW9qYNp9JfzeCjbmFQl51%2BNGi1C48yRNg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F0b3a516c36cff63180588d0d1952a949%2FIMG_1614.jpeg)
+
+#### Comments (2)
+- **ねっこ** (Sep 09, 2026 02:31pm): 俺が匿名でやるとでも思ってんのか？w
+- **ねっこ** (Sep 09, 2026 02:31pm): バレること想定してないのおつw
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:31pm
+- **Updated At:** Sep 09, 2026 02:31pm
+
+---
+
+### 6. 装填用の弾は装填するんじゃなくて自分が弾に"なる"んだよ
+**Author:** Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻 (Nerunerusimane)
+
+#### Comments (6)
+- **Anonymous** (Sep 09, 2026 02:15pm): 革命起こしてから引退するぜ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:18pm): 誰？w
+- **Anonymous** (Sep 09, 2026 02:21pm): ねっこだろどうせ
+- **Anonymous** (Sep 09, 2026 02:22pm): wねっこ自作自演かよ😆
+- **Anonymous** (Sep 09, 2026 02:22pm): 😛
+- **ねっこ** (Sep 09, 2026 02:39pm): お前の自作自演やん
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:14pm
+- **Updated At:** Sep 09, 2026 02:14pm
+
+---
+
+### 7. サイトじゃないよ
+**Author:** ねっこ (good_by)
+
+#### Comments (7)
+- **ねっこ** (Sep 09, 2026 02:06pm): 装填用の弾がないとね
+- **Anonymous** (Sep 09, 2026 02:08pm): それのhttps見せろって言ってるんす
+- **Anonymous** (Sep 09, 2026 02:08pm): 追撃法とは？
+- **Anonymous** (Sep 09, 2026 02:09pm): てかここみんな関西っ子？
+- **Anonymous** (Sep 09, 2026 02:16pm): 俺ハワイ
+- **Anonymous** (Sep 09, 2026 02:16pm): 札幌市
+- **Anonymous** (Sep 09, 2026 02:17pm): 千葉
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:06pm
+- **Updated At:** Sep 09, 2026 02:06pm
+
+---
+
+### 8. 今世紀最強は追撃砲なんよな
+**Author:** ねっこ (good_by)
+
+#### Comments (9)
+- **あ** (Sep 09, 2026 02:03pm): あの部屋で出しておくれ
+- **ねっこ** (Sep 09, 2026 02:03pm): ツールじゃないけど砲台ある
+- **ねっこ** (Sep 09, 2026 02:03pm): 軍のところに砲台貼っとくね
+- **あ** (Sep 09, 2026 02:04pm): おっけ
+- **Anonymous** (Sep 09, 2026 02:04pm): ねっこのサイト欲しいっす。俺ゆうひこじゃないんで心配しないでくださいっす
+- **あ** (Sep 09, 2026 02:04pm): 匿名帰れ
+- **Anonymous** (Sep 09, 2026 02:05pm): 俺匿名って名前の匿名ニキっすw
+- **あ** (Sep 09, 2026 02:06pm): お、おうw
+- **Anonymous** (Sep 09, 2026 02:07pm): だから教えて欲しいっす　ねっこのサイトとやらを
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:03pm
+- **Updated At:** Sep 09, 2026 02:03pm
+
+---
+
+### 9. アレバースト発揮しないな
+**Author:** あ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:02pm
+- **Updated At:** Sep 09, 2026 02:02pm
+
+---
+
+### 10. あ
+**Author:** あ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:02pm
+- **Updated At:** Sep 09, 2026 02:02pm
+
+---
+
+### 11. あんw
+**Author:** あ
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6228219425/9398a15ab3ff46220906362e4f1a53e0/rainbowimage_ver_4__2.gif?Expires=1789580596&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=O4ROL5oeywsrp53ljGfbT9l0jnhk3wAbmsQua4BNczqsUIDw4JepnRiPARQ%2FZcuZ%2FNcMUmBTdzivjBAhIsoN7sDOI7nMRCy13bk3%2FWl5%2Byjgn1kbV5nXPxK5%2B26zyBtUAIKzIj%2Bq3E%2BvSv1h6WCmouThB1ViRiE3BdHjWMdZLNREJxaa6z5UdnD4zXDj3rgbAFuTPMFR5DkaF%2F2Q78hN4ef7k6gb49ckdrcR%2BlmM6F0XvGcXJkTU6ahTc5f1BLB3JudySXb3r72RuFc2ckRkDCo5bwyMnrJcTQo0g0pkvLM6WvHxG%2FrUiygXmSmVXxsYpyso1IcqZw%2FdLh4%2F3vvTsA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6228219425%2F9398a15ab3ff46220906362e4f1a53e0%2Frainbowimage_ver_4__2.gif)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:02pm
+- **Updated At:** Sep 09, 2026 02:03pm
+
+---
+
+### 12. あれ
+**Author:** Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻 (Nerunerusimane)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:01pm
+- **Updated At:** Sep 09, 2026 02:01pm
+
+---
+
+### 13. Post 13
+**Author:** あたおかは消えろw消えろw
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6228165023/dab824d7e4e85701bcd8d7751617d0dd/rainbowimage_ver_4__2.gif?Expires=1789580596&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fylCkKWWOMPTJFORD9Ry0Q6Eou%2BM1sqo9JbB1uJVCildEEvWP3bRwfoFP4qFGE1xvlwDI6MjCsa%2BVtXvlaPgb8UqrJIhMaqMLT16UcZ9d5YZdmz4ZA5T9L14mp0YcOtsjEnbh9l2%2Fz4xpt4yXx3Gx3371UTRessbFIuclRrTQu8TVTiudcYzPleRUi%2Bz%2FAgNJLezrD7EM8fFi4BfgT5FZvwgHhaRD%2B83dUJ4wJCJWI9cMq32rKtTZP%2BSJEoZEgrAFxmvPcPiv1ZFnmVewYw3Rx7EaLi5A9MPcYSwpnEbQIimaLrzI8kZt8cn%2Bc4SBQ011H1nHIVtkk68EPAuk%2FRacw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6228165023%2Fdab824d7e4e85701bcd8d7751617d0dd%2Frainbowimage_ver_4__2.gif)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:00pm
+- **Updated At:** Sep 09, 2026 02:02pm
+
+---
+
+### 14. 気づいたら匿名キッズ逃げていなくなってたw
+**Author:** ねっこ (good_by)
+
+#### Comments (4)
+- **Anonymous** (Sep 09, 2026 02:01pm): 帰ってきたぞ！クソねっこ！
+- **削除済みユーザー** (Sep 09, 2026 02:02pm): 匿名おもろw
+- **削除済みユーザー** (Sep 09, 2026 02:02pm): 悪口小学生レベルだw
+- **Anonymous** (Sep 09, 2026 02:23pm): あたしの彼女たち🐀
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:00pm
+- **Updated At:** Sep 09, 2026 02:00pm
+
+---
+
+### 15. ソニックV2の方がいいかな
+**Author:** あたおかは消えろw消えろw
+
+#### Comments (1)
+- **ねっこ** (Sep 09, 2026 02:00pm): イイネ👍
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:00pm
+- **Updated At:** Sep 09, 2026 02:00pm
+
+---
+
+### 16. 俺も大砲撃ち込むわ！
+**Author:** ねっこ (good_by)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 02:00pm
+- **Updated At:** Sep 09, 2026 02:00pm
+
+---
+
+### 17. じゃあ荒らすか！
+**Author:** あたおかは消えろw消えろw
+
+ねっこ多分荒らし終わったらあの部屋で投稿すると思うからそれまで誰か予想してなw
+
+#### Comments (1)
+- **ねっこ** (Sep 09, 2026 01:59pm): おけ！
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 01:59pm
+- **Updated At:** Sep 09, 2026 01:59pm
+
+---
+
+### 18. これかな
+**Author:** ねっこ (good_by)
+
+隼人の顔
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/7b7b0b93c56cf62b11bde8d7c8418126/IMG_0079.jpeg?Expires=1789580596&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5APvx%2F7f418yycr%2Bp422I%2F%2FzZn20IskmpAmzxm%2BBbl980J74ovh6hTlrfZAM4uIpiuIJuHf5WQuneq4RVWG0MJR%2FCW1bgQ4dQY%2Btqi2uaVwgk9%2BlR%2FDfK2%2FAXCRcfHVJ2Ogi3qMOZ8NH5Y6q%2FO%2FmGa%2FPLka5lrthyP7KotsP7kGZvF8j5vMUjvqNeDUWPeGsBBUuZzVUAOQcath2OIqGqubKA2uWO7toyWBDXuhgPU6WzQsHbWKoer%2BJ12UOE2d2CwlAEqPPXkw%2BVpRbPnaNaSOGNWTlSmbnIXzFevHhZWKZh6Tk2wXbPIAvcTxM5c9Y9uxyogBHEOFZR3V6Ji6pYA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F7b7b0b93c56cf62b11bde8d7c8418126%2FIMG_0079.jpeg)
+
+#### Comments (5)
+- **削除済みユーザー** (Sep 09, 2026 01:59pm): w
+- **Anonymous** (Sep 09, 2026 01:59pm): こいつブス
+- **あたおかは消えろw消えろw** (Sep 09, 2026 01:59pm): そうw
+- **あたおかは消えろw消えろw** (Sep 09, 2026 01:59pm): 匿名も十分ブス
+- **Anonymous** (Sep 09, 2026 02:02pm): お前ブス笑
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 01:59pm
+- **Updated At:** Sep 09, 2026 01:59pm
+
+---
+
+### 19. あいつに俺勝ったのにな
 **Author:** ねっこ (good_by)
 
 あいつ敗北認めんのよ
 
-#### Comments (2)
+#### Comments (5)
 - **アサギ** (Sep 09, 2026 01:58pm): 隼人やんw
 - **アサギ** (Sep 09, 2026 01:58pm): こんなやついる部屋は存在価値ないから荒らしていいよね
+- **ねっこ** (Sep 09, 2026 01:59pm): うん
+- **ねっこ** (Sep 09, 2026 01:59pm): ええよー
+- **アサギ** (Sep 09, 2026 01:59pm): おっけ
 
 #### Additional Information
 - **Post color:** White
@@ -1744,16 +2878,18 @@
 
 ---
 
-### 2. ねっこ俺の部屋でこんなのがw
+### 20. ねっこ俺の部屋でこんなのがw
 **Author:** Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻 (Nerunerusimane)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5951151238/227cfe5c0bb7aa01502ea1c5878f0b71/IMG_0757.jpeg?Expires=1789567122&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E7o4sv%2BgFyG4NtagYZVnO93Kqt10Z3JuiLSVUqqyK4%2Bl8S2W30%2Ff7MwzuKmBDAXkY8v19SKDGi4sHWTPKjUXh4jCz3DjfNBuhMqxTqq4pkWt4L%2FiQHs8g%2FoV%2F%2BZYvqDbnR%2F7kVOwpVDdujZVo1tFftlPOAycMHRTH8f2q4zMVRmnscx6LSvewmb9enyFBDcG4lyuBlrOSacs2xKpkCZmdW8v3d6IpU14q2VC6VQI3%2BdKXJ1%2BTiaNiqU9qWgrnXnW%2Bhjb2SWLTITOlNCtQJbZMNTsVWAahJBF%2Bu2sQE5du68%2FdgnsfM7Tu%2FktUZNRMXGz1iaWq2hhnZMiXqHKd%2FdfRA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5951151238%2F227cfe5c0bb7aa01502ea1c5878f0b71%2FIMG_0757.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5951151238/227cfe5c0bb7aa01502ea1c5878f0b71/IMG_0757.jpeg?Expires=1789580596&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tEguiK4pbPHq3cmfnTbACXyKDiijVRE68j1ts3dUUtjlo0MkIPr95HOXa0mY280crm706yiF4ZJLNhMgjJUg63sC%2BEhCCdSAJUcO2x79pjQc0U9%2Fhmoq2bvZm4UkqZBIMw1yyPlCyt8FwJFmCw3Ww4pnVe7QvlS5r0ALwcztHWLSqUg2FDqY%2FbltkxIy1ZuvqDtOiu7KKfUI%2BgO60Dc36UMuo1myhHAcKB%2BW%2BfulXGbFoSRz87wkuHL6wHs5Aa0SAn023SnfIbQ9Q7dBOaeobMImPFjqQQruueWHgvedb5BOBeDCtH9yWs86TuRffpmWdJUzhza4mdO6vjGt0z1q7g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5951151238%2F227cfe5c0bb7aa01502ea1c5878f0b71%2FIMG_0757.jpeg)
 
-#### Comments (4)
+#### Comments (6)
 - **ねっこ** (Sep 09, 2026 01:57pm): 草
 - **ねっこ** (Sep 09, 2026 01:57pm): 自称論破王はきちがい
 - **アキホシ** (Sep 09, 2026 01:57pm): うんw
 - **削除済みユーザー** (Sep 09, 2026 01:57pm): おもろ
+- **Anonymous** (Sep 09, 2026 02:00pm): おもろいか！
+- **削除済みユーザー** (Sep 09, 2026 02:00pm): とてもとても面白いw
 
 #### Additional Information
 - **Post color:** White
@@ -1762,10 +2898,10 @@
 
 ---
 
-### 3. 匿名に勝利しやした🏆
+### 21. 匿名に勝利しやした🏆
 **Author:** ねっこ (good_by)
 
-#### Comments (8)
+#### Comments (16)
 - **アキホシ** (Sep 09, 2026 01:56pm): 匿名雑魚
 - **Anonymous** (Sep 09, 2026 01:56pm): 初めてここ来たんすけどなんか戦争中すか？
 - **ねっこ** (Sep 09, 2026 01:57pm): うほ🐵
@@ -1774,6 +2910,14 @@
 - **Anonymous** (Sep 09, 2026 01:57pm): え？俺も匿名だとそういう扱いになっちゃいます？
 - **削除済みユーザー** (Sep 09, 2026 01:58pm): 匿名でいきってるやつがやばいだけ
 - **削除済みユーザー** (Sep 09, 2026 01:58pm): ただ名前変えた方がいいかも、、
+- **Anonymous** (Sep 09, 2026 01:58pm): でもログインできないんすよ学校のタブレット
+- **削除済みユーザー** (Sep 09, 2026 01:59pm): いやそれはそう
+- **Anonymous** (Sep 09, 2026 01:59pm): そうっすよね　みんなスマホスカ？
+- **削除済みユーザー** (Sep 09, 2026 01:59pm): 私もログインしてないから名前だけ変えてる
+- **削除済みユーザー** (Sep 09, 2026 01:59pm): 学タブ
+- **Anonymous** (Sep 09, 2026 02:00pm): 変え方わかんないっすな
+- **削除済みユーザー** (Sep 09, 2026 02:00pm): ファイト
+- **削除済みユーザー** (Sep 09, 2026 02:01pm): アイコン押して、ペンのマーク押す。あとは自力でやって
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1785,7 +2929,7 @@
 
 ---
 
-### 4. なにここあたおかしかおらんやん
+### 22. なにここあたおかしかおらんやん
 **Author:** 削除済みユーザー (BOSAMIDAYO)
 
 #### Comments (11)
@@ -1808,7 +2952,7 @@
 
 ---
 
-### 5. _fcj
+### 23. _fcj
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -1823,7 +2967,7 @@
 
 ---
 
-### 6. _mdk
+### 24. _mdk
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -1835,7 +2979,7 @@
 
 ---
 
-### 7. _gkh
+### 25. _gkh
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -1847,7 +2991,7 @@
 
 ---
 
-### 8. Post 8
+### 26. Post 26
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -1859,7 +3003,7 @@
 
 ---
 
-### 9. ねっこもう荒らしちゃっていいかなこれ
+### 27. ねっこもう荒らしちゃっていいかなこれ
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 #### Comments (2)
@@ -1873,7 +3017,7 @@
 
 ---
 
-### 10. 匿名のしちゃった
+### 28. 匿名のしちゃった
 **Author:** ねっこ (good_by)
 
 #### Comments (15)
@@ -1900,12 +3044,12 @@
 
 ---
 
-### 11. まあ、そうキレるなって😅
+### 29. まあ、そうキレるなって😅
 **Author:** ねっこ (good_by)
 
 キレ症すぎて死ぬぅ⤴︎
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/d71ace6d3f1bc6e08f7844ac5bd9646c/IMG_1613.jpeg?Expires=1789567122&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=48FQInEkgY5PwPKcRRnk1yD0zn4KASexLqGWrTMfJ%2BA75VjCFgtosPr4%2BMkaS6Y%2Fj2U2U2%2Fp4IJz8JIRnVtkF1jKbg6%2F2C60aanwU8l5ZTrVA7OobWKMGaX4S4I%2FPOfPmXUBZ8CJ%2B9BQwM4lfOI9G2Z%2BB%2FbUtmTPf3bHsLGCzFI3iNoDbyHfqgmnGvGMPqJCcfQq8FLYFU7TjzKP3y3xZhydjJy5cLv8qPfAtygQ1yLTxeSYjiO%2BDDx36aty7QAeejA4jlzH3HMI3rKapMz8DhjLpAtdRK137Cok3PORIXOOYmkLRErXvhnOPFWrSSpvfw0yvfn%2BSuhtBjlXjjAgNg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2Fd71ace6d3f1bc6e08f7844ac5bd9646c%2FIMG_1613.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/d71ace6d3f1bc6e08f7844ac5bd9646c/IMG_1613.jpeg?Expires=1789580596&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4q%2FdogySrIg2uANc28EFYrcuUphIlGUTcALhvzpSZFWDlD%2B4eEKrEtnDI0Llq%2Fbb3rLNBz0tlgg7neY2j%2B%2FoxfzlDM62X1X97Kz9ibRp5xtz21mDpcmRjcT1gp62iiiw%2F0kqbNUdDFnLxExybvRtoQOJZ%2BWuqudg%2BoCaex0NuWKrY5FmplNvGD96skJYe%2FqNXNmvV7SXs5K0Jyu1TjiQPi73jnuHdXSZNrZRKlUQVlHH7m1fAp6Z7MP%2BjLAPCb0QSKX6BKvFirieYPeLSIeawYfbhQ5DnT3QQqAmUabjoWLfDSZd5bIMHeDTLPI4tnhtY55kBJho5UsKnE8kaa%2Fk%2FA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2Fd71ace6d3f1bc6e08f7844ac5bd9646c%2FIMG_1613.jpeg)
 
 #### Comments (144)
 - **Anonymous** (Sep 09, 2026 01:32pm): ねっこキレ症　死ね
@@ -2060,7 +3204,7 @@
 
 ---
 
-### 12. この部屋匿名のおかげで有名になりそうw
+### 30. この部屋匿名のおかげで有名になりそうw
 **Author:** ねっこ (good_by)
 
 （悪い方でね）
@@ -2076,7 +3220,7 @@
 
 ---
 
-### 13. 今日部活の仲間とイトヨ行った
+### 31. 今日部活の仲間とイトヨ行った
 **Author:** ねっこ (good_by)
 
 最高😆
@@ -2088,7 +3232,7 @@
 
 ---
 
-### 14. 匿名障害すぎ
+### 32. 匿名障害すぎ
 **Author:** ねっこ (good_by)
 
 #### Comments (3)
@@ -2103,7 +3247,7 @@
 
 ---
 
-### 15. 匿名がいじやん　レスバしようぜ
+### 33. 匿名がいじやん　レスバしようぜ
 **Author:** ねこンゴ⒊5周年‼️  #ネッコたちを勧誘しました. #元ﾄﾞﾊﾟｼﾞﾛｳ (d0p4g4k1)
 
 #### Comments (2)
@@ -2117,7 +3261,7 @@
 
 ---
 
-### 16. まともな匿名もおるんやけどな
+### 34. まともな匿名もおるんやけどな
 **Author:** ねっこ (good_by)
 
 #### Comments (2)
@@ -2131,7 +3275,7 @@
 
 ---
 
-### 17. これでサインインしな
+### 35. これでサインインしな
 **Author:** ねっこ (good_by)
 
 #### Comments (2)
@@ -2145,7 +3289,7 @@
 
 ---
 
-### 18. 誰かこんど匿名キッズボコしません？
+### 36. 誰かこんど匿名キッズボコしません？
 **Author:** わらびもち
 
 匿名キッズの荒らしまじムカつくんで誰かいっしょにボコしません？
@@ -2162,7 +3306,7 @@
 
 ---
 
-### 19. バカの集まり
+### 37. バカの集まり
 **Author:** アホゥ鳥 (drks_8872)
 
 #### Comments (14)
@@ -2188,7 +3332,7 @@
 
 ---
 
-### 20. 日本事故物件監視協会
+### 38. 日本事故物件監視協会
 **Author:** 清水 (s1946089)
 
 みたいなホラゲーください！！！
@@ -2205,12 +3349,12 @@
 
 ---
 
-### 21. 一人二役お疲れ様っす🥳
+### 39. 一人二役お疲れ様っす🥳
 **Author:** ねっこ (good_by)
 
 頑張ってるね！
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/46cfd20ed181d072be19945c4f76448e/IMG_1612.jpeg?Expires=1789567122&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LgIlSTnfiL9wJ5iremiW5qeTawcw%2FyOB0HzaS1Dka%2Bw3%2BzXMa7PDsm7d5s0Qv7xpSOScg5RCe%2FSsSMzOE9%2BT1x5tghZGDJTzi%2BCGP38MpWgmwKHwaZl85ec5aCIlnOkf5aCZc4masJBXrNTgLvwcakL0wDHn1EJmNiHchv1XN9vbbg1IPPgWIuy2MSAUhf90lLa7gFcatxP4nhzI0eBkhfWM0jqylVTB3DVz95hsfbhYdlzWRdLMv3Zp%2BBjQg1aZfyBwBLxRcmrEBX2iKqVAqznXnn7UOB1wYNo4vpaetacZJvCFZ1wA%2BRfVDfQFRKAtGGg5H3gC3b6xuPoNzYkubw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F46cfd20ed181d072be19945c4f76448e%2FIMG_1612.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/46cfd20ed181d072be19945c4f76448e/IMG_1612.jpeg?Expires=1789580596&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dnN4ViOEZsevvg3HmSmPA0BTJc4i9uLNIgA8jPCSOzMG1zKGszSrsq88v1nANzFtAhnNmxBR1ekovcTEp9lVQiHKA0xCk%2BhxUnu9jZUoLOPXgpABDHIsElFLbgmpIK16Y2c%2BvFAsvN9ym7Lg5ENXedUrDH2aMko81Fm3%2BKvdugy6AI9YeO5nMCZuwfWapwTwJaHoJnnf6PdBGsTZ9lP4q53mzGJXg3wkluR6zoZ%2F7HGyeLos%2Fka0SSHByLXFs0OhLWIq92MAcol35wckQeg1PwZ18rOTFBBjzoYg7O%2FB67n%2FPkFl0n3Skpkb7gC70fVb8KE6MLEgWipVqzoySYFIMg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F46cfd20ed181d072be19945c4f76448e%2FIMG_1612.jpeg)
 
 #### Comments (5)
 - **清水** (Sep 09, 2026 12:01pm): そうなんどうやってわかったん
@@ -2226,7 +3370,7 @@
 
 ---
 
-### 22. ごめん逃げたんじゃなくてねた
+### 40. ごめん逃げたんじゃなくてねた
 **Author:** ねこンゴ⒊5周年‼️  #ネッコたちを勧誘しました. #元ﾄﾞﾊﾟｼﾞﾛｳ (d0p4g4k1)
 
 #### Comments (3)
@@ -2241,7 +3385,7 @@
 
 ---
 
-### 23. ここの匿名キチガイばっかやん
+### 41. ここの匿名キチガイばっかやん
 **Author:** Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻 (Nerunerusimane)
 
 #### Comments (2)
@@ -2255,7 +3399,7 @@
 
 ---
 
-### 24. 7時15分コメントで話そう！🙏
+### 42. 7時15分コメントで話そう！🙏
 **Author:** アオノギ
 
 #### Comments (17)
@@ -2284,7 +3428,7 @@
 
 ---
 
-### 25. 誰かが入ってください。
+### 43. 誰かが入ってください。
 **Author:** はなぐも
 
 ここで、みんなと一緒にチャットしませんか？
@@ -2309,7 +3453,7 @@
 
 ---
 
-### 26. Post 26
+### 44. Post 44
 **Author:** ねっこ (good_by)
 
 [Attachment 1](https://padlet.com/padlets/tz51ybitg6po9qi0)
@@ -2326,7 +3470,7 @@
 
 ---
 
-### 27. ここ来たほうがいいよ
+### 45. ここ来たほうがいいよ
 **Author:** 狂鳥(くるいどり)♯鳥貴族♯キム族初代♯かきぴー族2代目♯りおとの20番弟子♯ネギネギファミリー5家族目♯りおと族20代目♯れいなの4646番弟子♯kurotsuki副隊長♯ makunami族7代目 (ohayooooo)
 
 [Attachment 1](https://padlet.com/edodaze/padlet-n4y0az1x3mlvs5g3)
@@ -2341,7 +3485,7 @@
 
 ---
 
-### 28. Post 28
+### 46. Post 46
 **Author:** ねっこ (good_by)
 
 絶対来てくれや
@@ -2366,7 +3510,7 @@
 
 ---
 
-### 29. はいって下さい
+### 47. はいって下さい
 **Author:** ショートスリーパー (r0245140)
 
 すばらしいサイトたくさん
@@ -2380,7 +3524,7 @@
 
 ---
 
-### 30. フォトナください（「お前なんかにあげるか」とかいうクソつまんない回答はいらないです。）
+### 48. フォトナください（「お前なんかにあげるか」とかいうクソつまんない回答はいらないです。）
 **Author:** お、おう (s21260143)
 
 #### Comments (4)
@@ -2396,7 +3540,7 @@
 
 ---
 
-### 31. エッな画像はここに貼れ！！
+### 49. エッな画像はここに貼れ！！
 **Author:** unknown
 
 [Attachment 1](https://wox.cc/)
@@ -2414,7 +3558,7 @@
 
 ---
 
-### 32. えっなサイトください
+### 50. えっなサイトください
 **Author:** 自認松山
 
 #### Comments (2)
@@ -2428,7 +3572,7 @@
 
 ---
 
-### 33. ワホー
+### 51. ワホー
 **Author:** ワホー
 
 インポスターのサイトちょうだい
@@ -2443,7 +3587,7 @@
 
 ---
 
-### 34. オカズサイト
+### 52. オカズサイト
 **Author:** 4513w
 
 [Attachment 1](https://perchance.org/8xa4skz1er)
@@ -2475,7 +3619,7 @@
 
 ---
 
-### 35. お前らオタク引きこもり歴１８年
+### 53. お前らオタク引きこもり歴１８年
 **Author:** ハナノヒ
 
 #### Comments (3)
@@ -2490,7 +3634,7 @@
 
 ---
 
-### 36. 人狼ゲームのサイトください
+### 54. 人狼ゲームのサイトください
 **Author:** 匿名
 
 #### Additional Information
@@ -2500,7 +3644,7 @@
 
 ---
 
-### 37. 誰かいますか？
+### 55. 誰かいますか？
 **Author:** そーりー
 
 #### Comments (12)
@@ -2524,7 +3668,7 @@
 
 ---
 
-### 38. エロ部屋くれ
+### 56. エロ部屋くれ
 **Author:** 江戸を司るエロ
 
 エ⚪️部屋ってやつです
@@ -2546,7 +3690,7 @@
 
 ---
 
-### 39. めっちゃカメレオンください
+### 57. めっちゃカメレオンください
 **Author:** ミモリ
 
 #### Comments (6)
@@ -2564,7 +3708,7 @@
 
 ---
 
-### 40. いいですよ
+### 58. いいですよ
 **Author:** 焼き止めと
 
 #### Comments (1)
@@ -2577,7 +3721,7 @@
 
 ---
 
-### 41. いいっすねええ
+### 59. いいっすねええ
 **Author:** 匿名
 
 #### Additional Information
@@ -2587,7 +3731,7 @@
 
 ---
 
-### 42. 誰か一緒にお話しませんか？誰でもどうぞ！
+### 60. 誰か一緒にお話しませんか？誰でもどうぞ！
 **Author:** ソラハル
 
 みんなで、一緒に仲良く話しましょう。[https://scratch.mit.edu/projects/556926076/fullscreen/](https://scratch.mit.edu/projects/556926076/fullscreen/)
@@ -2606,7 +3750,7 @@
 
 ---
 
-### 43. あ
+### 61. あ
 **Author:** チンアナゴ
 
 #### Comments (1)
@@ -2619,7 +3763,7 @@
 
 ---
 
-### 44. エロ部屋くれ
+### 62. エロ部屋くれ
 **Author:** ツキノト
 
 #### Comments (25)
@@ -2656,7 +3800,7 @@
 
 ---
 
-### 45. ロブロックスとYouTubeのリンク載せて
+### 63. ロブロックスとYouTubeのリンク載せて
 **Author:** マリオ
 
 #### Comments (1)
@@ -2669,7 +3813,7 @@
 
 ---
 
-### 46. ほかのゲームサイト乗せて
+### 64. ほかのゲームサイト乗せて
 **Author:** ツキミ
 
 #### Additional Information
@@ -2679,7 +3823,7 @@
 
 ---
 
-### 47. ゆうと、どうやってけすの？
+### 65. ゆうと、どうやってけすの？
 **Author:** 港
 
 #### Comments (1)
@@ -2692,7 +3836,7 @@
 
 ---
 
-### 48. インスタできるやつください
+### 66. インスタできるやつください
 **Author:** ０２２３
 
 #### Comments (1)
@@ -2705,7 +3849,7 @@
 
 ---
 
-### 49. 誰か軽いproxyくれ　ブロックされるやつでもいいから
+### 67. 誰か軽いproxyくれ　ブロックされるやつでもいいから
 **Author:** ノハルカ
 
 #### Comments (1)
@@ -2718,7 +3862,7 @@
 
 ---
 
-### 50. ジオメトリーダッシュ作ってください
+### 68. ジオメトリーダッシュ作ってください
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (3)
@@ -2733,7 +3877,7 @@
 
 ---
 
-### 51. Post 51
+### 69. Post 69
 **Author:** りゅう
 
 フォートナイトぽしいです
@@ -2749,7 +3893,7 @@
 
 ---
 
-### 52. アンダーテールぽしいです
+### 70. アンダーテールぽしいです
 **Author:** ああああ (h0319096_1)
 
 #### Comments (1)
@@ -2762,7 +3906,7 @@
 
 ---
 
-### 53. 流行語大賞２０２６ください
+### 71. 流行語大賞２０２６ください
 **Author:** ミズアメ
 
 #### Comments (1)
@@ -2775,7 +3919,7 @@
 
 ---
 
-### 54. いんすたないですか
+### 72. いんすたないですか
 **Author:** う
 
 #### Comments (4)
@@ -2791,7 +3935,7 @@
 
 ---
 
-### 55. お願い
+### 73. お願い
 **Author:** ナナシ
 
 エロい漫画見れるサイト教えて
@@ -2808,7 +3952,7 @@
 
 ---
 
-### 56. はやく！
+### 74. はやく！
 **Author:** ホシノキ
 
 性教育実習の漫画があるパドレットください
@@ -2824,7 +3968,7 @@
 
 ---
 
-### 57. 誰かpokiのサイト載せて
+### 75. 誰かpokiのサイト載せて
 **Author:** 匿名
 
 #### Comments (6)
@@ -2842,7 +3986,7 @@
 
 ---
 
-### 58. 誰かURL貼って動画見るやつ教えて
+### 76. 誰かURL貼って動画見るやつ教えて
 **Author:** ユメノ
 
 fernって名前のやつ　履歴消したらきえt
@@ -2860,7 +4004,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 59. 誰かエロ部屋くれ
+### 77. 誰かエロ部屋くれ
 **Author:** 匿名
 
 #### Comments (1)
@@ -2873,7 +4017,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 60. アニメ見れるサイト欲しい
+### 78. アニメ見れるサイト欲しい
 **Author:** 34b6kq
 
 違法サイトでも全然ええよ
@@ -2894,7 +4038,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 61. Post 61
+### 79. Post 79
 **Author:** でにでにろつとまん (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
@@ -2912,7 +4056,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 62. エロサイトくれ
+### 80. エロサイトくれ
 **Author:** スギノネ
 
 #### Comments (18)
@@ -2942,7 +4086,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 63. 至急！！！！！
+### 81. 至急！！！！！
 **Author:** スギノネ
 
 保健室のサイト　誰かほしいです！
@@ -2978,11 +4122,11 @@ fernって名前のやつ　履歴消したらきえt
 **Author:** かぼちゃ (kabot)
 
 **匿名は入れなくしたほうがいい？:**
-- **入れなくしたほうがいい:** 61 votes
-- **入れなくしたらいけない:** 106 votes
+- **入れなくしたほうがいい:** 62 votes
+- **入れなくしたらいけない:** 130 votes
 - **どっちでもいい:** 15 votes
 
-#### Comments (35)
+#### Comments (49)
 - **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:16am): ←これで匿名が荒らしてるから入れない方がいい
 - **キチガイブルー** (Sep 09, 2026 04:24am): 匿名は大体レスバ中毒やから入れない方が良いと思う
 - **Anonymous** (Sep 09, 2026 05:00am): レスバできない雑魚が何をいうとるん？
@@ -3018,11 +4162,25 @@ fernって名前のやつ　履歴消したらきえt
 - **Anonymous** (Sep 09, 2026 01:10pm): お前ら何様？もう匿名の価値や
 - **Anonymous** (Sep 09, 2026 01:30pm): まずは…わらびもち、わらびもち2消えようか？
 - **アサギ** (Sep 09, 2026 01:58pm): ↑お前みたいなアカウント作れないガキは消えてw
+- **Anonymous** (Sep 09, 2026 02:06pm): あさぎしね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:19pm): 草w
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:19pm): でも正論なんだよなぁ
+- **Anonymous** (Sep 09, 2026 02:19pm): 島根お前もやぞ
+- **Anonymous** (Sep 09, 2026 02:20pm): みんな怖すぎw
+- **Anonymous** (Sep 09, 2026 02:20pm): 🌱
+- **Anonymous** (Sep 09, 2026 02:20pm): 匿名🤬ぼけ
+- **Anonymous** (Sep 09, 2026 02:55pm): みんな平和にいきましょう
+- **Anonymous** (Sep 09, 2026 02:56pm): 事件
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:02pm): 俺アカウントあるからw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:41pm): これ絶対ユウヒコの仕業やん
+- **Anonymous** (Sep 09, 2026 04:46pm): あたりまえ体操
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:49pm): 君ユウヒコでしょw
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:49pm): 寝たら？
 
 #### Additional Information
 - **Post color:** Red
 - **Created At:** Sep 09, 2026 03:56am
-- **Updated At:** Sep 09, 2026 01:57pm
+- **Updated At:** Sep 09, 2026 04:42pm
 
 ---
 
@@ -3509,8 +4667,57 @@ fernって名前のやつ　履歴消したらきえt
 
 ## croxyproxy
 
-### 1. おもろ
+### 1. かぼちゃへ
+**Author:** Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻 (Nerunerusimane)
+
+**↑こんな風に匿名がいるとお話も通じないし、治安が悪くなるので匿名入れない方がいいです**
+
+**こんなところに関係ない投稿をピン留めするのは申し訳ないが、私たちは匿名に困っています。**
+
+**後「ユウヒコ」「d'Imane」って名前でログインしてくるそうなので受付制にしてそれらを出禁にした方がいいかも**
+
+![Attachment 1](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5951151238/71114fe113791948546731e524107f35/IMG_0759.jpeg?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio0Nj2XBLfT-jYnfuTN4d8RwXYYtRWEuXzNkuinoB0dJy9UolTXZ2qqXsP1SE80p3utP1snLc89bLltOhMaXGErujbC7UTq2BrD1Zc9ESMvBQqydNHULc0A4QqcvjjSIBM9-2rUSUqRF2TIcaIYro_fM=)
+![Attachment 2](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5951151238/cacdd844a8ffa49aa98b1309182b3ba9/IMG_0760.jpeg?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio0Nj2XBLfT-jYnfuTN4d8RwK4RBciSEBSjDfNY4_1SLX6xLa_haSIxqlxGBR-iseyJhpYi5L-i7atIzEriiH7RPrRJ0IoDOHTJ9qNAZ9TzPYz1tAGqztBLeYBtzHI-VMKwxh3N0zEB55inAc0pcAi0s=)
+![Attachment 3](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5951151238/d2661ac736d825a57d938d61f380b859/IMG_0763.jpeg?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio0Nj2XBLfT-jYnfuTN4d8RwWvxdFnEODHngHgWEBfN3-w-BwiAxeKQZZ8zQq9IDpXzeZN59MT7BD1ozWGANxs0E-zbZiUSrI8V5SSpeHLBZZy8EXcWnEXAfxpjn8pB6AHTlc815hsejMmieUlQpZm6Q=)
+![Attachment 4](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5951151238/3cbc5f24e297f32dbfed0276bdc1323f/IMG_0764.jpeg?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio0Nj2XBLfT-jYnfuTN4d8RxLjnVyFoB_QHdv-ugKxEMRHzz2yDHsWt2S_nTmHU3hUbwRRd5bLluQs6y4d7pZCHUj7cr3XB2d2nfhxcsWBM0L8m8wa7HsxlwSo_pHSLU9LU9DvJ5bSdBgZ83RSeJmkrg=)
+![Attachment 5](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5951151238/b00572d1be119af122a940ab2c9cd358/IMG_0765.jpeg?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio0Nj2XBLfT-jYnfuTN4d8Rw3PbWfhttPl8enR7v20XqKEX0ftJaCCuZ32k42sWLBeDtr3ftaiE0dyiukjf4wShdhgbjinLj6VB8o3-QHbQXwdU6FtuDmAsvGongqV5K3kjuAysD4fUvFSVrZ1o2kg6w=)
+
+#### Comments (12)
+- **Anonymous** (Sep 09, 2026 03:46pm): これどう見ても言わないとプライド保てない感じにされてたし可哀想w
+- **Anonymous** (Sep 09, 2026 03:46pm): かぼちゃさんはちゃんと民衆の意見を聞いてくださいね 
+- **サブ垢 つむぎ** (Sep 09, 2026 03:47pm): 誰ですかｗ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:47pm): どうせあの匿名
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:48pm): さっさと寝なよ？w😅
+- **Anonymous** (Sep 09, 2026 03:53pm): 👍ダサイですよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:53pm): お前がな
+- **Anonymous** (Sep 09, 2026 03:54pm): 寝落ちするのではなかった？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:55pm): 水色匿名だね君
+- **Anonymous** (Sep 09, 2026 04:45pm): しめね
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:46pm): ？？？
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:46pm): どうせまたあの水色か
+
+#### Additional Information
+- **Post color:** Red
+- **Created At:** Sep 09, 2026 03:26pm
+- **Updated At:** Sep 09, 2026 04:39pm
+
+---
+
+### 2. いくいくいくせい！
+**Author:** サブ垢 つむぎ (30ce2ec5ee718f1e)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 03:26pm
+- **Updated At:** Sep 09, 2026 03:26pm
+
+---
+
+### 3. おもろ
 **Author:** ねっこ (good_by)
+
+#### Comments (1)
+- **Anonymous** (Sep 09, 2026 02:20pm): シネマいくぽっぷこーん
 
 #### Additional Information
 - **Post color:** White
@@ -3519,7 +4726,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 2. _ari
+### 4. _ari
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -3531,7 +4738,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 3. _zib
+### 5. _zib
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -3543,7 +4750,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 4. アオノギこれで垢作ってみ
+### 6. アオノギこれで垢作ってみ
 **Author:** ねっこ (good_by)
 
 メアド大量生産できる
@@ -3562,7 +4769,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 5. 決めセリフコンテスト
+### 7. 決めセリフコンテスト
 **Author:** アオノギ
 
 決め台詞をかこう！
@@ -3578,7 +4785,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 6. こんな感じの部屋がパドレットの中には山ほどあるよ
+### 8. こんな感じの部屋がパドレットの中には山ほどあるよ
 **Author:** ねっこ (good_by)
 
 #### Comments (4)
@@ -3594,7 +4801,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 7. これってスレなん?
+### 9. これってスレなん?
 **Author:** アオノギ
 
 #### Comments (5)
@@ -3611,7 +4818,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 8. 落ちぃ
+### 10. 落ちぃ
 **Author:** 妖夢推し  荒羅死対策本部幹部特別荒羅死特攻隊 (yukikuruna)
 
 #### Comments (5)
@@ -3628,12 +4835,12 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 9. こいつキチガイすぎ
+### 11. こいつキチガイすぎ
 **Author:** ねっこ (good_by)
 
 日本語通じないやんw
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/ec68d43c1aacece8f4cafc73af854ad0/IMG_1610.jpeg?Expires=1789567123&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PO%2BDAJ8fwM1MIWZqt2W56EMNeKHER0V2i9uzixgVlAk3dF77hoBnOS2G1tajdEoeNrNdk%2BrepRObGRN68e1l25xVIBjWg%2B7gsK316JyxJPlsiTdWOxRZnIU3vxPdvXnbBIDjAiWjMbE0WkPZ1aGUymDMJoDUVK7QIhQx97uLKlCvb7hpNpc5IuqvQN9zi8TIpS25BYS%2BDvO2WyPX7S5kjZvNW6BIgcuorR9y8ib1qnM3RGwqjKl9uemwxmqyDWqS0wnAcc5ejfkCdHgvnMZdcxE5cvL%2FA2dSPn64ofA0R0kLFD7InE3czznJlmhAcvGBlyOLvhDEZit2nmZngeT7Mg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2Fec68d43c1aacece8f4cafc73af854ad0%2FIMG_1610.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/ec68d43c1aacece8f4cafc73af854ad0/IMG_1610.jpeg?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PHi4bg9D75TbfcGx9%2B70oE2rkyfd9rbvoXZxmbrk%2BRgXqY6dpX%2B91ehwogoN5Qednq4Ma4nVvo8eCCjKfDU4r%2BKrGO7pqfuF1ELm6FmfJCmuKwvOOF87NHBDx2ey9%2Bqj%2Fuq8g%2BKB8b93IBQmfqAmQP%2FhAcCJFkSsu%2FVO2S0CHBeplXs7I5OD2ekiPdcfdZZC5YJmObsvDsK2yChg961dBNmX5%2BHG4ylsXzYMiDRz68prHBRsG3K3MBvPtaxknSwtQ4FUDyqFiL8kywbN7uex8jUtRBSOBAMENic48oKau3XjYQgQgKbMlwk2ySvXyKZFE0h81%2BXDW8DFtHYouJGi%2BQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2Fec68d43c1aacece8f4cafc73af854ad0%2FIMG_1610.jpeg)
 
 #### Comments (5)
 - **妖夢推し  荒羅死対策本部幹部特別荒羅死特攻隊** (Sep 09, 2026 09:58am): 外国人じゃねこいつ
@@ -3649,7 +4856,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 10. こいつに向けて
+### 12. こいつに向けて
 **Author:** ねっこ (good_by)
 
 ![Attachment 1](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/6112439189/e1f3304b56ccee7e1804976d2dc83338/IMG_1607.jpeg?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6lm4vndHvnmHOMSdF4m6GtZNuLJP_bGzoGyBuUcMid4d1HFDgIDdVJkeQIoNAV6HmNZFVn3ARRinpyzus2epei88KDSq1LHQBCKpXwJPEe3Bqe3qtz4zjzLYM-KKHhW5cbUVzV_IVa051py55AH_Xw=)
@@ -3689,7 +4896,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 11. 匿名まじで追い出した方がいい
+### 13. 匿名まじで追い出した方がいい
 **Author:** ねっこ (good_by)
 
 #### Comments (15)
@@ -3716,7 +4923,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 12. ↓の画像のやつ
+### 14. ↓の画像のやつ
 **Author:** 妖夢推し  荒羅死対策本部幹部特別荒羅死特攻隊 (yukikuruna)
 
 お前が何様だよ(匿名の方に言ってる)
@@ -3735,7 +4942,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 13. 1人2役やめた方がええて💦
+### 15. 1人2役やめた方がええて💦
 **Author:** ねっこ (good_by)
 
 #### Comments (2)
@@ -3749,12 +4956,12 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 14. おなべさんをバカにしてるのはどっちかな⁉️
+### 16. おなべさんをバカにしてるのはどっちかな⁉️
 **Author:** ねっこ (good_by)
 
 俺はおなべさんに対しては非難してない
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/20e406ff22c23152f2c19501b3f252d0/IMG_1607.jpeg?Expires=1789567123&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bDLeIw9PKhsqiA3AOusProWQtV8eHofvFQFtKMZfIZRBTrJv9A2hM3g2DIZxTxAgyncPIxLzofNSlumEPK8MNvy%2FB5g4JdlYUl%2FU5GYYzYhm051JjhSgqOpuECXtCs3m5N3BGlfCNTKE1z5Q7UkhdQbQ8uhcaN2ctzxVBP0vfx50T4Ix2aE3Liv1ak6lxJ8e6sX2GVqI5DT%2FTfxGI8qGhAkwuobbMF48o67K2Y0Ru9wUmVthxNQ3R%2FZqdR1YgvSmG86HfiiZHPYcRfyvd2H7as0iSsDO82zm5Vc10iw1ytl%2Ft%2FwjiKt0Hmg8UGxJ00D8D7ZA6LaxKt4a08zP5EROfg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F20e406ff22c23152f2c19501b3f252d0%2FIMG_1607.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/20e406ff22c23152f2c19501b3f252d0/IMG_1607.jpeg?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6R21dMte3rPtUXEJA6iZvimLxdHSDidOM%2FQMVy1NtRg%2Fl7lq4DzacwP%2BLob2%2FDPHNPRJ4u6uAC5ba50v49PFimzKd4XDOAZaiRqaPJIIAXcH06z2b88icSLosr18zz%2Bpe0xHIUONNSKQrbc%2BQZMHYmRDViyphzUsWRFdsh68FuhaHhxLtfxMaguxvCpqZ6bn8HKOcgOsdI3bGbA3b1EwASlDU72Ob4S%2F9OeOKzredx6ht4eEUNz5tsGZbbfyG34dNn0ZL%2Bn3BVxnvhOfEhISw9OMuWxw%2BeGzPUhL10ir0a%2F6JJfEVo1iYjHA3YgUg1g0gaY0SpZ7THfgxjH0F5kOSw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F20e406ff22c23152f2c19501b3f252d0%2FIMG_1607.jpeg)
 
 #### Comments (7)
 - **カゲソラ** (Sep 09, 2026 09:43am): 匿名やっぱけしたほうがいい
@@ -3772,12 +4979,12 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 15. なにもそんなこと自覚しておりません😅
+### 17. なにもそんなこと自覚しておりません😅
 **Author:** ねっこ (good_by)
 
 それと空白なんで開けてるん？
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/98aa1c451a5e916027859e2f2b95c65c/IMG_1606.jpeg?Expires=1789567123&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NsDrWfGfO%2B7hiNL%2B6DdTswpahVf%2FS6MmFGy24ug%2B53496zNyxM3AhhnCKN%2B4onXRcJd5LFd%2F3Mhc%2FAjrtslAB0WCfQDY5hZDRMUvbxYQvTGY5Luv2F9GpPPD3YYoRYDsan%2BSKkrqbO1iy3B%2BF9jS6%2B3x2h%2By%2BmarmTFpTJAWzC%2Fcu97rWdjTm3hXngbGU85kOoUg23RukyaornzGwatracrIVt%2FHVx8SW%2FAtL53PrWRHrHPgvwJ3chhTf37%2BN%2BrzmTgXD3GbwdfocRI2%2FN%2FlkPjCqRcNLcwq5cAqcvuPDa%2B4fOHyViHRgqfBoxwfxA7mOqX5RNhuJ50te%2FlgRe3ZgA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F98aa1c451a5e916027859e2f2b95c65c%2FIMG_1606.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/98aa1c451a5e916027859e2f2b95c65c/IMG_1606.jpeg?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Tt8Zq7ASfiOqRhubxFLFSnD0qi%2FLGylbVShTGA0elc04QcVne4F7eZGD14%2FtPkkIZtNSpMNViNhPbB%2BlNGxq%2B%2B4UBlOiLeWU3QwjZu1ofw4BWN8CPRlalA5P8E4RZnQs8PFBoCDpHJRnq53fluq0XGgWuyhCOLek04zVzTWc8AaHZELTtJCBQWlJsFV7W%2BLkfK8FwGMpOORhiiEj2dTPGi2aVUCZM6sSYZ9aF4PzhkDjLUi1F10r3OvuZxBZTMH77WTLMmtsW%2BWonFQz9bpJlVBmBUbmW%2B6WSMer%2FmjoSws8ycoOwCIDaw8ozgl0eWAb6DTv3iJ%2F2J7VazN3hZ%2Fo2A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F98aa1c451a5e916027859e2f2b95c65c%2FIMG_1606.jpeg)
 
 #### Comments (3)
 - **Anonymous** (Sep 09, 2026 09:46am): 興奮してんじゃね？お前と同じく　こんな熱量のやつまじ多いな　どうでもいいだろうがボケナスども
@@ -3791,7 +4998,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 16. 拡散したから人いっぱい来たね
+### 18. 拡散したから人いっぱい来たね
 **Author:** ねっこ (good_by)
 
 匿名障害児を見物しにくる客がたくさん！
@@ -3812,7 +5019,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 17. ここしょうがいいるん
+### 19. ここしょうがいいるん
 **Author:** ひすいひすい👊 (sui131_jade)
 
 だれ？
@@ -3840,12 +5047,12 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 18. 自称論破王はきつい😓
+### 20. 自称論破王はきつい😓
 **Author:** ねっこ (good_by)
 
 きちー牛🐮
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/d4d339c596c0f99ad711348b99577f8d/IMG_1602.jpeg?Expires=1789567123&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Q2zmafxgOGRp234GNogqojLNIHuMz5Wl6QGQPTPh%2F2rXrpgzXE4gIqN2Yx0curHPLHKb7Iocoz6z4NFAeEeLUwiOCgCEfcNeuh%2BjDu%2Foraoc3%2FM4Ofs3FOsRtHye4ZGAPlLYWDVwnYMDKcxTHB%2FOCINjJs2Bft%2BTaoGCY%2FeO5y9cN50K63XMamBWpBBBnAyTfoJNb8ycEE%2FmHziADXla9MLzwZ%2BCsJjI08lZ%2BDga5xrwSto%2FFD6ETy4LE9wj9hG3GUKvxjoilEfPnqHfd3Ood570c%2B91x1JERBxyq5t1Z1GS4847OrxjgFITnlz2HhU3MYZG4M3Y1J5SUXFgNdDYbA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2Fd4d339c596c0f99ad711348b99577f8d%2FIMG_1602.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/d4d339c596c0f99ad711348b99577f8d/IMG_1602.jpeg?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=F8TabHF08QwLF6kY2l%2F7OaWU8nmO8tPFg6Tfh%2FWYzgy5rVaIapnaKhD6PBA8FT608D3IShWuKC4JFznRoKFmIsIHqN03gLcjLWVt9ec975jP6RFDaaoh9k2GQEo8BwwY25DNgiW%2BjwrB2uiqvSwCjS7%2BS1bjDbtKsq9nkVJlrP1PzcvcrgbtsPlM6Hj6VzSxFGWg9NC5JbuYYnA0B8cIonC4F%2BFScsjUH5aWJbkY9rY%2FUjuW8RA3s6InCqexYUwyrjuuqUmtqnn5SoV35yBtLvuFXwuOdjSiYUmNXjlnzEg%2F3QnTYcmeRLGKDpmaoO9aCHtz%2Fy%2FSYPDmcEgX7Lbf%2BA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2Fd4d339c596c0f99ad711348b99577f8d%2FIMG_1602.jpeg)
 
 #### Comments (4)
 - **妖夢推し  荒羅死対策本部幹部特別荒羅死特攻隊** (Sep 09, 2026 08:05am): ｗｗｗ
@@ -3860,10 +5067,10 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 19. 勝ち逃げしてイキるのはよくないなw
+### 21. 勝ち逃げしてイキるのはよくないなw
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/1b362656361b68d797f45c518f5ba617/IMG_1601.jpeg?Expires=1789567123&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=18fXHEQaApsQ5RTPsTEPPrBgb7BxaE1cNhHShG%2BMgBwMrfunrOMisc7r%2FQyFvqeCQAA9VpJ0gszckg0fQxSNlVZ51gvtsaKHHxQW3qIp4VvCEOXMWXdMCnofFmcqS7UXkGJ01gd6yW%2B%2BXhDGF6F5I28VznhR3BFkyxXoFGm5F9NNCowZFE0UWAwB1hFB7lnaXsRpMwDeR2OVqDqIg4IqgQ5QFB6gGk8GdiDsyqZtRDSVwc2FJIwOrT4IG4lOwPIg%2B1Rq4ie6HCTp0U7sOT6fNtcK2uLqMyjYtuxXi%2FeIWbbi4CV90lCFRtsH4glMd7jebT17rCgsrrCpvZNBH8ALNA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F1b362656361b68d797f45c518f5ba617%2FIMG_1601.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/1b362656361b68d797f45c518f5ba617/IMG_1601.jpeg?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ue5rGb7uXcZtjNtiPxyBYeShbw0s9cFs0LIVwS%2FElitllKW7hpSv3tixzGMDn8cxo2Hqbm8NEgoiU8Y2%2BN2%2FltGHICDSnI4rb1jS6%2Bk8Z6psh5bNdlqH2%2Bj6S0zgUbYwLV4wYs7nUs2h6%2FMV82O%2Ffh6Nd8EYCiy43qIggsuQ0AuzC8rGKFH7vRMYO%2B8DyEX%2FDEI96GoWGEYEXH137UEEGsHzbQwhQC7nW4yaojWB%2F7fPcH7qy5b1ZJQ9E253mbd8J85wjBSxS6VpDGMMiCSQmMzLxojnRjmvtOznbyZy0DcVfcAw9Vz6FYNG933XiqmYUMhJeaKdYXlYMixCt61%2BCQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F1b362656361b68d797f45c518f5ba617%2FIMG_1601.jpeg)
 
 #### Comments (4)
 - **らおす＃ポテチ難民＃ポテト中毒＃ボカロ教 開祖＃轟はじみぇ軍団 最高司令官＃꒰ঌ愛໒꒱とペア画中＃初代つばさ教＃イーフト族 族長 らおす家＃半角文字軍＃ｳｻｷﾞﾊﾊｵｲｼｲﾖ** (Sep 09, 2026 08:02am): 普通に厨二病
@@ -3878,7 +5085,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 20. たあ
+### 22. たあ
 **Author:** キャノン #イトちゃん族　元ningen (ningen_JP)
 
 #### Comments (1)
@@ -3891,7 +5098,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 21. 一旦落ち
+### 23. 一旦落ち
 **Author:** ねっこ (good_by)
 
 #### Comments (2)
@@ -3905,7 +5112,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 22. 翻訳でチームチーム茶色茶色サイコロスキってうって
+### 24. 翻訳でチームチーム茶色茶色サイコロスキってうって
 **Author:** アカネノ
 
 #### Additional Information
@@ -3915,7 +5122,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 23. 使えるプロキシサイト
+### 25. 使えるプロキシサイト
 **Author:** ナゲット
 
 [https://www.mathsolver.tokyo/](https://www.mathsolver.tokyo/)これ最強
@@ -3924,7 +5131,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789567123&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MOJ%2BNL3DzzhJpqwpMYF5rVaPmLG2c0mdDT6BNNxyGBET4ZrbY%2BeYLQwnwMwZa1Tak4fBzfB%2F5xI5Xdun0aqDgTLRr0F6JIz1HJNXFvah2Cb1Q3pwsN6rhWdQE1hx7bO6CPrr7vayG5MC%2FZ3bAklSJYTyh5A5XASBsKtzC64YNayHcSohgI9y9nXJpOz82ja9vcY4fIIghO4TZDD%2FXJ%2Fpwyrrfm%2BXlXqT5LftvCUdbsga9rMI%2BUa80TtO8evwA5Exk%2BYnWTpuNQO0YCmezQmSJ1r3%2BPGSePVyuGFNe7zDaNfyCw9atedq5WKPCAlu8I1nILsIkifLigy60ntgNX03kQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=3yUbsSaRHZ%2BeXDfqNtvDt2KfAg2P4gPXU5yaCwIKaxSF8YFfTKPGsQK%2BLqFsTyztKnd0zb7fRIusrNFStKmrexkYmviFmeWPRQKORRjX65ontzIadeL3pTEvVQ2LMDOsQESXGzYs4c1EwUAF9DTXJBEyQ%2B4wq1YBjexgwrwIKF%2BDtdVxz47vYPdiukCodHsEH564OuGlY%2BDsTs%2FZ19giZnyFtc%2FbvN5VqqluQNRCi6jSipCgHr%2BZOEONDDVpWHwCL0CYr6dknfnRMqpA7MgqRj1ZPWfqcGp4dLC7zfZu7AFYFCY8pZ72%2BboG2m2zgJdHNdyjX4DAp%2FlIRwiE21KkLg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (8)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -3943,7 +5150,7 @@ ID:shibboleth
 
 ---
 
-### 24. なにこれ
+### 26. なにこれ
 **Author:** おとちん
 
 [Attachment 1](https://u.topia.2a.exe.googleapis.com.hospitaldelninodif.gob.mx/)
@@ -3979,7 +5186,7 @@ ID:shibboleth
 - **Anonymous** (Sep 09, 2026 09:21am): 君おなら我慢できないんだ！すかしっぺ連続出しだなぁ
 
 #### Reactions
-- **Emojis:** ❤️ (6) 👍 (2) 😄 (1)
+- **Emojis:** ❤️ (6) 👍 (3) 😄 (1)
 
 #### Additional Information
 - **Post color:** White
@@ -3990,7 +5197,25 @@ ID:shibboleth
 
 ## シャドウ
 
-### 1. _j68
+### 1. Post 1
+**Author:** たい焼き　ネッコを後継します (taiyaki0201)
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5819951289/a1656be5fba3a42e1d4bb6a2985495a2/IMG_1325.png?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=3Uh2koeUdgxf7FLSR%2BPR4xdzmxE14iyQO1CASUIKBsKdBdnGejbEHraX2yR8rF6GN4OEIWHUrF%2BdcJKWgIY%2FXtEMpEXEbvLvkt3FMVInYV%2BiCmkg2qGmIlj45luqdJ8O1Jmn7ZZ%2BYJub7j6Gl9svo7lEiGI%2Fchzc2LvtVPkc4cfq07GI3nrKmRzcLNSxr1N8PsSg%2FDV%2FxX5dP5QOAbYeHXtik82eaBTtgALH1NPYo%2FQxmoUgHyH6jlPiE30ypQKwEFKPNlTkycse6tEcuU22VUsyFJ0gBmiiJhPe%2Bj9uSy4Jqr1fyytRQw9rz7QrOZ3g9S%2BUxKOmRzJ6a84sIL2oYQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5819951289%2Fa1656be5fba3a42e1d4bb6a2985495a2%2FIMG_1325.png)
+
+#### Comments (4)
+- **たい焼き　ネッコを後継します** (Sep 09, 2026 03:39pm): かぼちゃさんやばいですよ
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 03:39pm): それな
+- **Anonymous** (Sep 09, 2026 04:02pm): かぼちゃ死ねばって言わされましたてか言わないと戦えない感じにされましたで
+- **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:49pm): ↑言わされたという形跡はなかったよ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 03:38pm
+- **Updated At:** Sep 09, 2026 03:38pm
+
+---
+
+### 2. _j68
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -4002,7 +5227,7 @@ ID:shibboleth
 
 ---
 
-### 2. _aty
+### 3. _aty
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -4014,7 +5239,7 @@ ID:shibboleth
 
 ---
 
-### 3. _phr
+### 4. _phr
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -4026,7 +5251,7 @@ ID:shibboleth
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** u-tanngenkigenki (stu26188)
 
 [https://padlet.com/stu26188/padlet-s0238xue6oyrtkbvvd93](https://padlet.com/stu26188/padlet-s0238xue6oyrtkbvvd93)
@@ -4071,7 +5296,7 @@ ID:shibboleth
 
 [https://www.youtube.com/watch?v=LOHXVrYXlIM](https://www.youtube.com/watch?v=LOHXVrYXlIM)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6217746321/d7cf1611ceb3343887194242af070099/main.png?Expires=1789567123&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GZ8iTI22JuB3SPHUWbo6bq95vUpm2w7Vng90Vuo95cBC0E7BUjBES17%2Fe7U4PsZdcclXk04RzZF5L4fcn2qQ4%2BNBLgM5XugjSBnHMcu8RizPqyGL03DA%2BHIQUCWMcG2%2FUiAtUE0Bjk6wBJ%2FqHhYRbRGbSq6W0tMWrmTjkSkSn9rw9SdKKj2lf2ajKNwEYkJD9fffIDR%2BhaKxYhxBv0qCaJo1DOPaNb6MzbNcDV2gjOGgKe01VycUQynYlnLS%2BZY9OSN%2ByCQeyyHR7Y9Mu6ovhkcNAahfaXF5SmAvV%2BBPu%2BxHFuDikYf0SgVFF9oeoMqsPhJhqFclKPGFK3Kt%2FU8ZmA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6217746321%2Fd7cf1611ceb3343887194242af070099%2Fmain.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6217746321/d7cf1611ceb3343887194242af070099/main.png?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=U%2FQdwc8Xj7val3RO3jNNmF6oKBkFWTE74vvOrpXJ5PIKTmPpVdNTqC61fpmSX83BH3RByCpF3b7VUfKpBIzTt7vvM7n4mLG6zi7RH672O%2FnOeor6SefTNn%2FrkY%2FoYvfm0Z6roqqXpRmdyJjtvnDlk5TVtqbwqdjmREUeh5Uowoz4CcgqU8qLtJy9NGceOeI4TJ5ikSBll1NsygWlBF4gYxIEYP3LtedDFzG0NpDo3MRsHq43lqFD1S3euuqzPzFfOHTD6VRPEMZ5RIIswieES6mMtGRz4HJ7NV3cIjlx5CHnJMEJFUYVVC6POwz18AD6GTwXFAGHkifpG%2FdguumMAQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6217746321%2Fd7cf1611ceb3343887194242af070099%2Fmain.png)
 
 #### Comments (5)
 - **ゆあん** (Sep 08, 2026 09:16am): まえすけのどうがみれるよ！みたいのがあたら↓
@@ -4466,7 +5691,7 @@ ID:shibboleth
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=tfMneb7nGbY)
 
-#### Comments (29)
+#### Comments (30)
 - **Anonymous** (Aug 29, 2026 12:39am): 誰かマエスケの動画ちょうだい 
 - **えいこ** (Sep 01, 2026 12:40am): ホンマにマエスケの動画くれ
 - **カゼドリ** (Sep 01, 2026 06:19am): マインクラフト史上一番怖いMODを入れたら..www.youtube.com › watch
@@ -4496,6 +5721,7 @@ ID:shibboleth
 - **カマキリ** (Sep 09, 2026 11:08am): インキャって決めつけるのは侮辱罪に値するよ！
 - **カマキリ** (Sep 09, 2026 11:08am): あ、子供だから少年法が守ってくれるもんね！
 - **カマキリ** (Sep 09, 2026 11:12am): 周りの人を巻き込むのはやめてあげな
+- **Anonymous** (Sep 09, 2026 02:12pm): だってカマキリインキャ
 
 #### Additional Information
 - **Post color:** White
@@ -4549,7 +5775,7 @@ ID:shibboleth
 ### 4. Post 4
 **Author:** 救世主
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789567124&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=grZVWBGwmxL02A6bKho%2B8DT%2Fu2mZEl9VkdxlnDLKe92yl6Cc63D7IbA7Q75sDiVdt%2Fcncts7vgkZMeWZiJ9OI%2B3Tkrk%2BRQKInXEipcKyXSRROmctKDeES%2FOkO73DMJu7d3BMbrWIULomkhZ7L0cs1hQaIBIpVvZ2xe9yhXuBzo7QH%2FCx3iARXFjddhiZP5G5GF4VNtkwqQF7F1FDHdMa6h%2FWdRFjU%2FPXPtd0kzG6SB1v6nwwZCDam9ZjODO9F0R79M7YBO01VXPCkxz12ipGzLIfCQz5Ux5EDHHGcNTwOCYMsO8Tqsxp4VG5PnbU6A8mLhCNI1eQ5LJUxXQhxVJaGg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1g5OlPHsWkAIpN2vK%2FOe4MSwZDhv%2FfNP3BpGtoyis2Fjhav40pWkLCJHe3JTGcIvjc6b5J69UVZMi%2FcGkZqbtUXc1qhn%2FhnP7khX3mcXtI4N3CmfvdP4FWUN6lCeo9Ucy63hcOfCpmydSXbFWw81hhTiESnp6zgmCr%2B3A%2BfcJ9S74z3OKMGdH7hwSiTCu1krIUv4zJXTdy9UGkWuR%2Fg0Adgr95nxEfvohXx76sdkysHDti4hAQOkM48xTE3BcWfND3HpURaqAvY%2BqQBT0nA8CsXjPRghCP87Q09LqRTokhlaeDk5iYqtvic1t7W%2BEn63kAnLmVHxLTAvzamfA9gtYA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
 
 #### Additional Information
 - **Post color:** White
