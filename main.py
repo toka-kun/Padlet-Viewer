@@ -116,8 +116,20 @@ def process_padlet(url, path, is_info):
             if line.startswith('## '): break
             desc = line
             break
-            
-        for line in content_lines[:20]:
+
+        summary_start = None
+        summary_end = len(content_lines)
+        for i, line in enumerate(content_lines):
+            if summary_start is None:
+                if re.match(r'^##\s+(?:Summary|要約)\s*$', line):
+                    summary_start = i + 1
+                continue
+            if line.startswith('## '):
+                summary_end = i
+                break
+        summary_lines = content_lines[summary_start:summary_end] if summary_start is not None else []
+
+        for line in summary_lines:
             m_link = re.search(r'\*\*(?:Link|リンク):\*\*\s*(.*)', line)
             if m_link: link = m_link.group(1)
             
@@ -127,10 +139,10 @@ def process_padlet(url, path, is_info):
             m_posts = re.search(r'\*\*(?:Posts|投稿):\*\*\s*(.*)', line)
             if m_posts: posts = m_posts.group(1)
             
-            m_created = re.search(r'\*\*(?:Created At \(UTC\)|作成日（UTC）):\*\*\s*(.*)', line)
+            m_created = re.search(r'\*\*(?:Created At|作成日)(?:\s*[\(（]UTC[\)）])?:\*\*\s*(.*)', line)
             if m_created: created = convert_time(m_created.group(1))
             
-            m_updated = re.search(r'\*\*(?:Updated At \(UTC\)|更新日（UTC）):\*\*\s*(.*)', line)
+            m_updated = re.search(r'\*\*(?:Updated At|更新日)(?:\s*[\(（]UTC[\)）])?:\*\*\s*(.*)', line)
             if m_updated: updated = convert_time(m_updated.group(1))
             
         try:
