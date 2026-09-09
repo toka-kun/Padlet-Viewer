@@ -1,4 +1,4 @@
-最終取得: 2026/09/09 18:49:40
+最終取得: 2026/09/09 22:34:57
 
 # Padletポータルワールド
 
@@ -404,7 +404,7 @@ YouTubeやゲーム，プロキシなどが少しある。
 ---
 
 ### 13. 青の共済
-**Author:** 青の風 ♯ningen様の1番弟子です ♯つばさの2番弟子 (ks10520)
+**Author:** 青の風 ♯低浮上になるかもぉ♯ningen様の1番弟子です ♯つばさの2番弟子♯永遠様の☝️番弟子❗️ (matiko)
 
 閲覧数5000突破‼️
 
@@ -598,7 +598,7 @@ ver1.8.8で遊んでます　
 ---
 
 ### 21. 部屋を大爆破（荒らしはすんな）
-**Author:** ブレインロットニキ (like_robrox)
+**Author:** 薔薇便器 (steal_brainlot)
 
 とりあえず入りなさい
 
@@ -1019,7 +1019,7 @@ ver1.8.8で遊んでます　
 
 #### Comments (5)
 - **村松駿** (Jul 27, 2026 07:53am): おれやりたい
-- **ブレインロットニキ** (Jul 27, 2026 07:53am): パスワード教えて
+- **薔薇便器** (Jul 27, 2026 07:53am): パスワード教えて
 - **とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON** (Jul 27, 2026 10:37pm): すまない
 - **とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON** (Jul 27, 2026 10:37pm): https://padlet.com/tori3proxyZtyper/toriproz-h3p7ovdl22rr3fmh
 - **とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON** (Jul 27, 2026 10:37pm): こっちで面接してからパスワ伝える
@@ -1084,7 +1084,7 @@ ver1.8.8で遊んでます　
 ---
 
 ### 40. 青の風の宣伝部屋
-**Author:** 青の風 ♯ningen様の1番弟子です ♯つばさの2番弟子 (ks10520)
+**Author:** 青の風 ♯低浮上になるかもぉ♯ningen様の1番弟子です ♯つばさの2番弟子♯永遠様の☝️番弟子❗️ (matiko)
 
 なんでも宣伝するよ。
 
@@ -3437,7 +3437,7 @@ a
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1789552199&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WjFqadCeN7%2B6ii7LY9ClNjNzSDISlC060mylU%2FOeLPZZaXGfgdx%2FLBnM0qiOcOzEURIA%2F897e93MxReRcl4JafEKk49kRzz2OIBBaxkvfCHBoOtkFM%2B201mEslNiTeXG7%2FyyAHKhAKc8%2Bvra%2FtgKPkHy7APeXMljZ8Po7U0TDcFr2Wt2LvgvyKPHRzBU1mh5Ean2222zbr4jftSg9LWkSFNAcIk7iXFUnuOivdtBbNLX%2Fjk3J2kk0yxaV4hgwHil2TkMa3LTAPSdVV2fegizvq1j1NhPYnBLTBEt%2BfCkHQBM29SZ7XavpyvGnqjG8IUaE0sNaQcN2OG0XwJlutibkg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1789565732&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bwf%2F70EoB9Z5nf7MQuP42w8SpSUwn%2FSOLxKsIPbDJ8JPizEXch9roSOFIUJ2N0mh2x2dgcMEozTE6Qj6ZUFF7P9Ti%2FqlWR1cFTxwD1FzzusEz8S5639PeKRQiSSdoTLiGLSu6xvZBtjLxbtRlKMhZBcWHFvUpOa7vIJALJzvnpcCwqT5UA%2F3a%2FF6FpZq8Uz1XGkiQ64ra9tJDfy1t3LrCDYDPLuzhOhnjNYPYBn2bWGJEReh6lQhy6Igw0FUK5tF3rNQE520hDEYq3spU1xT1IvRhVfUT3oKdxuG4P15j30lM2pZdUDICh59518gfW2y36AZNOAomu5apZqLB1PxmA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (3)
