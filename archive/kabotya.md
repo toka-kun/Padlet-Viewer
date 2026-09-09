@@ -1,22 +1,22 @@
-最終取得: 2026/09/10 02:42:03
+最終取得: 2026/09/10 08:04:02
 
 # 規制突破の世界
 
 ## Summary
 - **Link:** https://padlet.com/kabotya/padlet-34b6kq9lghbe3rtm
 - **Builder:** かぼちゃ (kabotya)
-- **Posts:** 267
+- **Posts:** 269
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 09, 2026 04:49pm
+- **Updated At:** Sep 09, 2026 11:03pm
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789580594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RAtWaOnUYQq1NevnbRqGvYbEzwrk7rLeuUwN0Xv%2FPWnYpflcHyG9xBVmBTHjoXPQJGa%2BAvAFtriXN%2BqH8gfL%2FqEO5L37ApnYpMHe7My0DG3bNO7v0BjGBtkcHNLCQ5dAA7%2FTlQZhlpru%2Fh34GT%2Bh0%2BtUMFWM1gAV8p6G9uaMb4wzWzW3S23pC1yPLkqIjMvaXsI%2Fcq2UFTTblDQXfo9zKu0%2B8QHWydkTKkoZW0mFSTnOnh1Nn0VnNsypAsTZIIWuzT11VVTnh3BkyPqsXaI9uwCIHOVGt5cgg83AfJzGwb4QoR1H%2FiUwThKI9%2Fl96AitplK8rQ0NecLfwQFlYjUilg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789599917&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=oFnnxxUrT1uqWGlECiOgr21Ab91jyRb%2F9SC%2BmuTf9%2FClQqJjWJDgM4N8UnQkgcUM4OTt%2FxSl015GqqxRmvlYxbriBkXX6dVIAsDFw65Icnx4q8GisAYntHHTlBjp%2Fm8w5yHwv2MLtO0cvMMUJwXwdkXuoUi1RqrzwR5X5DFnxc5ERkKeRvvWREuo3%2Brbzt0JFuxiIFlGk7exyogHk0CLfN53pL0kFpbamMheT8OvHBoufmXbVO7s1%2Bp7cItQ2A1fPrfvIArFLPYVctlX5KHrVvD4Fqd33zBB46YCEDBB3IsSU6INU8645bmhDsv%2FwIRsnt7lhNKdeiQNwQ9O8ngpsA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
-#### Comments (55)
+#### Comments (56)
 - **清水** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
 - **清水** (Sep 06, 2026 12:51pm): あと2日くらいずっとクラッシュしてた
 - **かぼちゃ** (Sep 06, 2026 01:24pm): まあこれだけなら良かったけど他にも匿名は色々と長文とかコメントでうざいんですよね
@@ -72,6 +72,7 @@
 - **ねっこ** (Sep 09, 2026 01:27pm): うお
 - **ねっこ** (Sep 09, 2026 01:27pm): 匿名隠キャがふごふごほざいてるぞ🫵🤣
 - **Anonymous** (Sep 09, 2026 02:46pm): 自己紹介乙
+- **こうき** (Sep 09, 2026 11:02pm): 君にはねっこさんが匿名に見えるんだね
 
 #### Additional Information
 - **Post color:** Red
@@ -80,7 +81,19 @@
 
 ---
 
-### 2. _2zb
+### 2. すいません
+**Author:** ケンタッキー
+
+学校のタブレットでどこに認証コード送られるんですか？できたら教えて欲しいです。認証コードがどこに送られるのかわからなくて新規登録で来ません。本当にすいません
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 09:07pm
+- **Updated At:** Sep 09, 2026 09:07pm
+
+---
+
+### 3. _2zb
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -92,7 +105,7 @@
 
 ---
 
-### 3. _9dp
+### 4. _9dp
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -104,7 +117,7 @@
 
 ---
 
-### 4. _41z
+### 5. _41z
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -116,13 +129,14 @@
 
 ---
 
-### 5. 前からここ煽り厨いるね
+### 6. 前からここ煽り厨いるね
 **Author:** こうき (46037_14)
 
 変なの
 
-#### Comments (1)
+#### Comments (2)
 - **Anonymous** (Sep 09, 2026 01:25pm): コウキ　お前でてけ
+- **こうき** (Sep 09, 2026 11:01pm): 何だお前
 
 #### Additional Information
 - **Post color:** White
@@ -131,7 +145,7 @@
 
 ---
 
-### 6. みんな何歳が教えてほしいです。
+### 7. みんな何歳が教えてほしいです。
 **Author:** ハナグモ
 
 できたら書いてほしいです。
@@ -148,7 +162,7 @@
 
 ---
 
-### 7. かんな
+### 8. かんな
 **Author:** ヤクシカブト (s1923003_1)
 
 #### Comments (2)
@@ -162,7 +176,7 @@
 
 ---
 
-### 8. か
+### 9. か
 **Author:** ヤクシカブト (s1923003_1)
 
 #### Additional Information
@@ -172,12 +186,12 @@
 
 ---
 
-### 9. メロジョイがかえるよ
+### 10. メロジョイがかえるよ
 **Author:** ゆのん
 
 [mellojoyjapan.com](http://mellojoyjapan.com)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6224168223/0e0e6be6eda5c9753d7ae4173f8284ae/b8dd2e83a9284d1c8a5d22b594d94a49_thumbnail_0000000000.webp?Expires=1789580594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zNYWVUBn6n1wSV9vYpj081ziVJHbqBxlmwzGA3ly2u%2FKHvvdkxQ5LVq1FCsMzz3UdvxvxoQt%2FLkXDLqPTTX5T1s9kVxxdnE7TNU4mSQS2idHtRlOkTpSWf2ypH1pe5NJLvylmUjnettOkW%2FMZaRQAbGLrmdwIy5fYrnEqJodjXLLpupv%2F2Hz7ZFvishcYk4AMndCZ%2BK3Zvif5tBZ2IwVlg3%2BWWFE16YiSX%2FzRmjYB2mFi3DlyPs8M7zjTErfExBqsjPMsJ6L4m5auc9ncodiPdzYE96cMsD3cmJwuqzTLMz7suKyihmWTs%2BrFs52pDL%2FZOUa424ZjexxAPCLAKHwMA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6224168223%2F0e0e6be6eda5c9753d7ae4173f8284ae%2Fb8dd2e83a9284d1c8a5d22b594d94a49_thumbnail_0000000000.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6224168223/0e0e6be6eda5c9753d7ae4173f8284ae/b8dd2e83a9284d1c8a5d22b594d94a49_thumbnail_0000000000.webp?Expires=1789599917&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=V3moICsWFlcexbZhAeqdxx%2F6BdTCBz3KPXYihXAYOBLIcfHDYpsj94oTAHbVlpBmRfTBGXpPS0oUtwCAu%2B2HXYIi6mKZVrKFY0HJxCnLZL9nFSGVAqqsFQPKfaiAYmquto2E2Q5DKdyR1eeEhYyqnqaEhh5qT%2B%2BAKg2ndSsf3WMDLzk3sZuaVe1OU%2FmNkzPJ2FZ91vlBK9YCqR9ZjaTqBAvIazUyHyACWSTUAtnJ5j4skeVLBK9%2BFZ6WDeXvEaUyrSMUAs%2BUMIrFespKVJ0uG99K7xhj%2FPBQhidNoj%2FWhMqagJiGOB3%2FgAKyrZFHnNSy%2BLHYnKOCJ2egIZdJd%2BDlvw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6224168223%2F0e0e6be6eda5c9753d7ae4173f8284ae%2Fb8dd2e83a9284d1c8a5d22b594d94a49_thumbnail_0000000000.webp)
 
 #### Comments (3)
 - **ハナグモ** (Sep 09, 2026 03:37am): 学タブだったら買えないよ〜。だって、買えるっちゃ買えるけど、勝手に買ったら怒られるよ〜。
@@ -191,10 +205,10 @@
 
 ---
 
-### 10. 誰か一緒にゲームしよ
+### 11. 誰か一緒にゲームしよ
 **Author:** たると
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6223934719/a66526e0fcea17bbc7fd2aba7de40234/audio.mp3?Expires=1789580594&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VfgBdDf1ygve30s2nBxVzT1Fzwf9UT4RFjHv83M1H%2FPmyQWISBQHCVlHkOSuZbCBa0ALvBy8kawWb8rjd5PHRtewOyzzvbgAJBq8dc%2F9dffQz19Qe8ZQ%2FelHhB9TjwvcA6XXlgtd2LvUvNCFJig3gRddZIFPJ2HTCvA50H6EJVOxfa4qt%2BlNo%2FLT%2BZiO1E9giXy1nFu0AKh8eSjjVOv%2FJCV6fKKlgiybT%2BxzVtT3iW86RdjfLL9DShSBwDG3dN%2BbMfurwz77O59LwMa78AqJ1pb2R5bAkloNE%2BTI64PCchD5dKekaUlHn6IunkY34l8y1TcIorZzBtm7qWpYEAs12g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6223934719%2Fa66526e0fcea17bbc7fd2aba7de40234%2Faudio.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6223934719/a66526e0fcea17bbc7fd2aba7de40234/audio.mp3?Expires=1789599917&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QsuhYUvIblAupzf%2B1nbsybTGCPN4VSNyKqRN7NTiwEYDxF5OBgwaLmu0J3VIQVZcfBEZB3wklRu4gLnoBK1NhC1En5LJ9fPnnfatWfYv2dFTHpAMcVEnbS%2B1yoCbDatau27tCdahl8EJlhKD%2B8iGSnvJFeCrhw76o9crtpraka3%2BhLjTvat6%2B1YgwYENrkK6MD6JmrUQb8pCCrvW4nI7hAgRpFR%2Fb%2B8Rsau6sBdD%2FWFE4LrwaGij%2BUxcyHSWKCk9qN5JQDaXOOgTGTb%2FJz2aH13OX6t4yaQ67b8ASwb2OI89K9NJcNHgw%2FXx3C4FzjNS5XZZlBVxQHXzp5nS%2BnYkqQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6223934719%2Fa66526e0fcea17bbc7fd2aba7de40234%2Faudio.mp3)
 
 #### Comments (2)
 - **ハナグモ** (Sep 09, 2026 04:25am): 何その言い方キモすぎやろ。WWW
@@ -207,7 +221,7 @@
 
 ---
 
-### 11. Post 11
+### 12. Post 12
 **Author:** ユメミソウ
 
 [Attachment 1](https://myunblockedgames.com)
@@ -222,7 +236,7 @@
 
 ---
 
-### 12. sss
+### 13. sss
 **Author:** コムギ
 
 [Attachment 1](https://www.youtube.com/watch?pdlt=1&v=4qVdO09uDlc)
@@ -234,7 +248,7 @@
 
 ---
 
-### 13. 匿名だろうとログインしてようと、常識ないやつはマジで来ないでほしい。
+### 14. 匿名だろうとログインしてようと、常識ないやつはマジで来ないでほしい。
 **Author:** おなべさん(新垢 (minecrft)
 
 結局そういうのがいざこざの原因になる。 ログイン勢でも害悪な荒らしは普通にいるし結局人間性の問題。
@@ -567,7 +581,7 @@
 
 ---
 
-### 14. オンライン会議のやつください
+### 15. オンライン会議のやつください
 **Author:** ぼちぼちいこか愛好家 (2101038_5)
 
 学校でできるやつでお願いします
@@ -579,7 +593,7 @@
 
 ---
 
-### 15. Post 15
+### 16. Post 16
 **Author:** どっかのしらす
 
 [Attachment 1](https://padlet.com/typl/eaglercraftlauncher-n5uhyajl3dqqjqad)
@@ -591,7 +605,7 @@
 
 ---
 
-### 16. おっぱい触りたい
+### 17. おっぱい触りたい
 **Author:** ユメミソウ
 
 #### Comments (26)
@@ -629,7 +643,7 @@
 
 ---
 
-### 17. 荒らし多い
+### 18. 荒らし多い
 **Author:** 清水 (s1946089)
 
 #### Comments (11)
@@ -652,7 +666,7 @@
 
 ---
 
-### 18. 2枚目
+### 19. 2枚目
 **Author:** 4513w
 
 ![Attachment 1](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/6210371777/064e8029f8de02f19d51afb85f05d823/IMG_0194.jpeg?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio0LXc9CCfRo7YrtLIQAeMsL8TjsKgoBF-hY92FchmkRcrREnPmVNrRJVzoKsa3b5LpRAMuCw8Xqd0IhUROJFC4uKJwGhB-OQXxb8m-kHg_r7uWXMqMrdHHSefG2iW_yv6VgXKQR2CcUv7UcYOW4jyp8=)
@@ -665,7 +679,7 @@
 
 ---
 
-### 19. Post 19
+### 20. Post 20
 **Author:** バスケ大好きにき (2101021_18)
 
 [Attachment 1](https://padlet.com/2101021_18/padlet-q4lp8mlvakjrqb4z)
@@ -677,7 +691,7 @@
 
 ---
 
-### 20. Post 20
+### 21. Post 21
 **Author:** バスケ大好きにき (2101021_18)
 
 [Attachment 1](https://padlet.com/2101021_18/padlet-q4lp8mlvakjrqb4z)
@@ -689,7 +703,7 @@
 
 ---
 
-### 21. 久しぶりに見にきたら、ここ荒れすぎだと思った
+### 22. 久しぶりに見にきたら、ここ荒れすぎだと思った
 **Author:** おなべさん(新垢 (minecrft)
 
 #### Comments (7)
@@ -708,7 +722,7 @@
 
 ---
 
-### 22. Post 22
+### 23. Post 23
 **Author:** そーりー (999d3145fe729ae4)
 
 [Attachment 1](https://padlet.com/999d3145fe729ae4/padlet-s023b8kg6wqus53n0qnl)
@@ -720,7 +734,7 @@
 
 ---
 
-### 23. Post 23
+### 24. Post 24
 **Author:** ヒビキカゼ
 
 ｋ
@@ -732,7 +746,7 @@
 
 ---
 
-### 24. 規制突破の世界とは何ですか
+### 25. 規制突破の世界とは何ですか
 **Author:** サーモン
 
 
@@ -751,7 +765,7 @@
 
 ---
 
-### 25. 規制突破
+### 26. 規制突破
 **Author:** *S’L L,.AcolaL s u I🐉 (s1923051_1)
 
 #### Comments (32)
@@ -795,7 +809,7 @@
 
 ---
 
-### 26. Post 26
+### 27. Post 27
 **Author:** 究極覚醒BERUSEBYU-TO (21070052_1)
 
 [Attachment 1](https://padlet.com/21070052_1/padlet-l9bx22n6f2mh56z5)
@@ -807,7 +821,7 @@
 
 ---
 
-### 27. ゲーム123
+### 28. ゲーム123
 **Author:** ｓ
 
 #### Comments (3)
@@ -822,7 +836,7 @@
 
 ---
 
-### 28. 大丈夫大丈夫大丈夫大丈夫大丈夫大丈夫↑なんか異変気づいた？
+### 29. 大丈夫大丈夫大丈夫大丈夫大丈夫大丈夫↑なんか異変気づいた？
 **Author:** 匿名
 
 #### Comments (7)
@@ -841,7 +855,7 @@
 
 ---
 
-### 29. 誰かいますか？
+### 30. 誰かいますか？
 **Author:** そーりー (999d3145fe729ae4)
 
 #### Comments (11)
@@ -864,7 +878,7 @@
 
 ---
 
-### 30. 明日学校雨でなくなるかもしれないマジで神
+### 31. 明日学校雨でなくなるかもしれないマジで神
 **Author:** えいこ
 
 #### Comments (8)
@@ -884,7 +898,7 @@
 
 ---
 
-### 31. Post 31
+### 32. Post 32
 **Author:** itokoとこtoko (r0245154)
 
 まじではいって
@@ -916,7 +930,7 @@
 
 ---
 
-### 32. よ
+### 33. よ
 **Author:** ヤクシカブト (s1923003_1)
 
 #### Comments (11)
@@ -942,7 +956,7 @@
 
 ---
 
-### 33. だる
+### 34. だる
 **Author:** *S’L L,.AcolaL s u I🐉 (s1923051_1)
 
 #### Comments (9)
@@ -963,7 +977,7 @@
 
 ---
 
-### 34. 今もずっと動いてる部屋教えてください人多いところがいいです
+### 35. 今もずっと動いてる部屋教えてください人多いところがいいです
 **Author:** ちゆ
 
 #### Additional Information
@@ -973,7 +987,7 @@
 
 ---
 
-### 35. チャット（ゆうと、みなと、れお、えいいち、まひろ）
+### 36. チャット（ゆうと、みなと、れお、えいいち、まひろ）
 **Author:** れお
 
 [https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing](https://docs.google.com/presentation/d/1yJTUgJCVjzOF1VdLttk8bEsUyFMUeKq0Zrc1JTFnhGg/edit?usp=sharing)
@@ -990,7 +1004,7 @@
 
 ---
 
-### 36. 前の土日、何した？
+### 37. 前の土日、何した？
 **Author:** 港
 
 #### Comments (2)
@@ -1004,7 +1018,7 @@
 
 ---
 
-### 37. みんなおばあちゃんち行った？
+### 38. みんなおばあちゃんち行った？
 **Author:** みなと
 
 #### Comments (6)
@@ -1022,7 +1036,7 @@
 
 ---
 
-### 38. 雑談
+### 39. 雑談
 **Author:** TENTENNTENN
 
 
@@ -1038,7 +1052,7 @@
 
 ---
 
-### 39. 学校ってみんなきらい俺台っきらい
+### 40. 学校ってみんなきらい俺台っきらい
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (9)
@@ -1059,7 +1073,7 @@
 
 ---
 
-### 40. 夏休み楽しかった
+### 41. 夏休み楽しかった
 **Author:** みなと
 
 #### Comments (8)
@@ -1079,7 +1093,7 @@
 
 ---
 
-### 41. geometrydashの定員募集中（10人）
+### 42. geometrydashの定員募集中（10人）
 **Author:** ゆうと
 
 [https://forms.gle/MB8vdXJbKXKy2nG98](https://forms.gle/MB8vdXJbKXKy2nG98)
@@ -1093,7 +1107,7 @@
 
 ---
 
-### 42. 後ろ見ろ
+### 43. 後ろ見ろ
 **Author:** 犬
 
 #### Comments (1)
@@ -1106,7 +1120,7 @@
 
 ---
 
-### 43. ビデオ通話
+### 44. ビデオ通話
 **Author:** シラカバ
 
 学校嫌だ
@@ -1132,7 +1146,7 @@
 
 ---
 
-### 44. あ
+### 45. あ
 **Author:** シラカバ
 
 あ
@@ -1152,7 +1166,7 @@
 
 ---
 
-### 45. poki
+### 46. poki
 **Author:** 常闇 トワ（不地口手万ディ） (Fleeex)
 
 [Attachment 1](https://poki.io/)
@@ -1164,7 +1178,7 @@
 
 ---
 
-### 46. まだうごいてんのここwwwwwww
+### 47. まだうごいてんのここwwwwwww
 **Author:** 💍持ち #kgtとプロたんの囲い😙 (c_coa09)
 
 #### Comments (3)
@@ -1179,7 +1193,7 @@
 
 ---
 
-### 47. 一旦消しました
+### 48. 一旦消しました
 **Author:** かぼちゃ (kabot)
 
 #### Comments (31)
@@ -1307,7 +1321,7 @@
 ### 6. 地球はかい
 **Author:** タキノト
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6226796612/80b4cf2310ce37b78ba6b8c1ce4c1734/_________8___1_.sb3?Expires=1789580595&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=oyPU0iiWjNNSN58WS78%2FFFRaGusKRiVxvldONRFTNImnLHf4u48uX6Xmg5oqNZd%2BTPxct%2ByAwn4LR11APpYd%2BFhc4Qw1yjd7bn1NglFxj8X1RTEDRtAOIfM%2Fzmv3VceDLgdCyr7MGWMdw%2FDeFsABFMwrLcf0hJKt5spYpVzeL%2BA%2F6FFiE1q1vkpxWv%2BSPto0ktuTkrrR%2FkYGn%2BDb%2BdqdEio3ixuhrfcf8JO7X7Y4lPq%2FLJAgzQ2%2FF5eKGZ9mm6VKIGPdoqXZDGUC9ii5NIMkwa5KnGpvKYbroGPwnLfH6TAuwNZxaWHzJ5lLE6pci5lEdorWZ4aXeCUlXi8bikNsLw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6226796612%2F80b4cf2310ce37b78ba6b8c1ce4c1734%2F_________8___1_.sb3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6226796612/80b4cf2310ce37b78ba6b8c1ce4c1734/_________8___1_.sb3?Expires=1789599918&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5VjCXC6O3nfq5%2B1HGvz%2BORjO6gP7RIo3cJDjaww5Oh6THZxEuoAABzCf3B50g8R0nfLAUaZlr1QWuIeFR6s1BnonLAP3R0zty1SCimwvRvrbsV3ve5PDcPoud%2B6rXSK%2BkE2LiIbb3Ojvs07GIhMVAk2avFKJigPNT1c8EUxQuodMmKfz0DNus4%2BO5tRXmbc2P7vQjWa%2BuKy9mKaBuSfIXbEjW%2FtyRBo%2BM4iamNQxWvwoJ29rlsY3uZrFMWxM0JpGCMGzSuS1cEM72zJOFkRPnOpSfS6vl3V%2FMSqchSYz3OndJhJOcvrJrBNw4Qb9z8MgAgrmvQKcWZauVty55mKCzQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6226796612%2F80b4cf2310ce37b78ba6b8c1ce4c1734%2F_________8___1_.sb3)
 
 #### Additional Information
 - **Post color:** White
@@ -1319,7 +1333,7 @@
 ### 7. スクラッチブロックブラスト
 **Author:** タキノト
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6226796612/4c534a44d8a50a8048d8f6647d52fb69/_____________.sb3?Expires=1789580595&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=eYiUMWmwqHodr7S%2BOUzEe%2Fyn8SOEN5lee4mcEgIC7JjnrDfo0wKFHGceWMZlvVUSKM3cwy%2BM6sfrntznhFBnH34W62HMSsnt%2F4OG6dIKARIyV4IipL3n4EXTqcVqr1O7YejHE%2BpHEbclxhtTHEIydGQ3I6R%2FMHhPFPAn2QmNs2gH4molTYe5sGUHhvb4dwDyaMuRAm1qI9pCwi%2Fb7vRNWpVEX2VA94GHH0qMQ8VhJBpMejHmDCYL55%2Bxq5lxx5VpcUUcHeKm8jw9KUfOBovJmRkt531EX7r1kPSGedMNvxy0ZHT%2BGYqHN0TtcElXnHLXIttWtRf1r0QKVYfyC1pFMA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6226796612%2F4c534a44d8a50a8048d8f6647d52fb69%2F_____________.sb3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6226796612/4c534a44d8a50a8048d8f6647d52fb69/_____________.sb3?Expires=1789599918&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tT5xqO%2BCosxdK2He0TJDhCt10bGnvJfs05Kbvd44DTBCh2XSOWNXuqtpMPrYXq%2FogMcF940QErxg6bvu0tp7v4diABSv7U5CPaip1kqNPAWPCcoX1Xm3oAt%2FMUcvSJk3gOsa%2FUTVKbAE7uouNPA%2FAHuNmHXHIsaeL9%2BECEG8vhRExlWcfDWbu9dNaoVX0Zwem4yowQQUwicPHcc0tHDiY%2BNHzDLKu72LxP1xtftNwDRPC8ooxf5LSZw8kxX1Yix41fTM6lkqyKE9c6riusJGRudMkDYZg%2BrB2v64GSwzU1g8AOY4U8UfkfIvCNJvNPfFkYEtGFyO0NFKBpoQ%2FaMXtQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6226796612%2F4c534a44d8a50a8048d8f6647d52fb69%2F_____________.sb3)
 
 #### Additional Information
 - **Post color:** White
@@ -1331,7 +1345,7 @@
 ### 8. スクラッチでブロックブラスト！作った！
 **Author:** タキノト
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6226796612/5c220768505626ae70fb7c616c447caa/_____________.sb3?Expires=1789580595&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cEk%2FTH0VTFbPDrc1r1pb8Z8LwRLFVlamB2d9E2twdPCzzA%2BQm%2Bebln0Gemdna0UlugcXFHAL6Dj87FoaQ6HtYmXay7lCN6VBehjJ%2FNpqe7JdIs5Qu6EICb9i8ubglVSM6tqHlG%2BXEbp6AJypfX78e945%2Fo0Hu6OXNpgUxrL9If5Dy1LUJiuTi4TmG4xYQQFo2Hb37jADz75Le8JeR10XjJn1P3sFXRRIo3UXlEhzyw0r0SOp%2FKCVKh73kZ7lDsEh%2Fsc%2FlSoMFBgXYmklem4znoEXx2Or3w2Qpbn04Vl6kPGS0uFyjjrziQi32Kzk%2BqIhfsyRKxVYfceeueGPmEVnRw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6226796612%2F5c220768505626ae70fb7c616c447caa%2F_____________.sb3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6226796612/5c220768505626ae70fb7c616c447caa/_____________.sb3?Expires=1789599918&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7KN0qbn4FjtzrzZPRaHIdETISj%2B6scaPgm5nJ7SYcP0quQ2jz1ZVyyico7SZI6Hh7dFxjLoMXVwYd1Juni5mhJvswyVe7b2jOKt15rPCs4X3aLdwQ2V9zUw3cszqVX7QTozZFfn5RHwmUdWawI3cWeYbLBPnJcFjhNMU883Mdc6O9JJmZdidOziLiSueMBFp8LCkRjgJi231Yv%2FArPoN1P1OhO8Axfepar%2Bem9f9fvFZu%2BD12YaFPVMq%2BsZMsheq55AHjau1lVDcO5XGr%2FXNDoS%2FAI%2BDoxfMVaJaBg4Zmo%2FO136%2BKi565K5%2BnAAg2mBcbstQ%2FPJp6p9r6jwzTiUL6g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6226796612%2F5c220768505626ae70fb7c616c447caa%2F_____________.sb3)
 
 #### Additional Information
 - **Post color:** White
@@ -1575,7 +1589,7 @@
 
 [Attachment 1](https://planet.mblock.cc/project/7857149)
 
-#### Comments (13)
+#### Comments (14)
 - **えいこ** (Sep 01, 2026 04:20am): いいねも押してね
 - **えいこ** (Sep 01, 2026 11:25pm): コメント書いて
 - **えいこ** (Sep 01, 2026 11:25pm): たのしいよ
@@ -1589,6 +1603,7 @@
 - **えいこ（あだ名です）** (Sep 04, 2026 11:02pm): リアの
 - **Anonymous** (Sep 05, 2026 08:23am): りあじゅうのくたばれ
 - **Anonymous** (Sep 05, 2026 08:24am): あここにはいないか…オッツー俺は失恋したから格上やわぁ〜
+- **しらす** (Sep 09, 2026 10:51pm): 俺も一昨日失恋した
 
 #### Additional Information
 - **Post color:** White
@@ -1730,12 +1745,27 @@
 
 ## 要求
 
-### 1. 匿名にはずる賢さのかけらもないな
+### 1. すげぇあのネッコがちゃんとレスバしてる
+**Author:** ねこンゴ⒊5周年‼️  #ネッコたちを勧誘しました. #元ﾄﾞﾊﾟｼﾞﾛｳ (d0p4g4k1)
+
+よっぽど弱いんだな
+
+#### Comments (1)
+- **こうき** (Sep 09, 2026 11:02pm): 草
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Sep 09, 2026 11:02pm
+- **Updated At:** Sep 09, 2026 11:02pm
+
+---
+
+### 2. 匿名にはずる賢さのかけらもないな
 **Author:** ねっこ (good_by)
 
 マウント取ろうとして毎回失敗して暴言放つのいい加減やめた方がいいよ。
 
-#### Comments (860)
+#### Comments (861)
 - **Anonymous** (Sep 09, 2026 02:44pm): それねっこじゃんw
 - **ねっこ** (Sep 09, 2026 02:45pm): なんか根拠のない話かしないねきみ
 - **ねっこ** (Sep 09, 2026 02:45pm): ちょっと病院にかかった方がいいんじゃないかな
@@ -2596,6 +2626,7 @@
 - **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:46pm): また匿名かよw
 - **サブ垢 つむぎ** (Sep 09, 2026 04:47pm): 草
 - **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:48pm): まあ俺らも構ってる暇ないからカフ学に帰ろう
+- **#いさ共** (Sep 09, 2026 10:20pm): あらま
 
 #### Additional Information
 - **Post color:** White
@@ -2604,7 +2635,7 @@
 
 ---
 
-### 2. まあ荒らすよりレスバで泣かせて引退させた方がいいね
+### 3. まあ荒らすよりレスバで泣かせて引退させた方がいいね
 **Author:** Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻 (Nerunerusimane)
 
 アカウントなしは今人気の部屋にすら入れるわけもないから革命なんて起こせるわけないやん。夢を見るんじゃなくて現実見ようぜ
@@ -2620,18 +2651,19 @@
 
 ---
 
-### 3. 自作自演してるやつらがふごふご言っとるねー
+### 4. 自作自演してるやつらがふごふご言っとるねー
 **Author:** ねっこ (good_by)
 
 「突然革命起こしてから引退するぜ」とか言うほど障害じゃないよ
 
 もし俺がやったとしたらなんの意味でそんなコメントをしたんだ？
 
-#### Comments (4)
+#### Comments (5)
 - **ねっこ** (Sep 09, 2026 02:35pm): マウント取ろうとしてるんだろうけど全部ブーメランになってるやん
 - **ねっこ** (Sep 09, 2026 02:35pm): 匿名おつやなぁw
 - **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 02:36pm): w w w w w w w w
 - **Anonymous** (Sep 09, 2026 02:44pm): 島根県民は黙りなさい
+- **#いさ共** (Sep 09, 2026 10:16pm): 島根県民じゃないらしいよ
 
 #### Additional Information
 - **Post color:** White
@@ -2640,7 +2672,7 @@
 
 ---
 
-### 4. 一人三役やん
+### 5. 一人三役やん
 **Author:** ねっこ (good_by)
 
 #### Comments (2)
@@ -2654,12 +2686,12 @@
 
 ---
 
-### 5. 俺じゃないよ
+### 6. 俺じゃないよ
 **Author:** ねっこ (good_by)
 
 くだらんお芝居やめて勉強した方がええんじゃない？
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/0b3a516c36cff63180588d0d1952a949/IMG_1614.jpeg?Expires=1789580596&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Tl7W%2FUUlxXD417c3l8SbHvVYk26sAx3gnwXKGRz437cgFWoRtQ3LBEqJK0kezmrjF46b%2BQzGe8yBJf4HUg4CnjZ8auo0q22mLw2zlUsWpa7OcyQU20hMwbUDCmnFxK%2FZOchP8qXc9rRtBSrDH3SlQVPXzDqOhcuFqyuCtIRT2B1rr2WqROssNVxZ0vjMKCBXaIzK0xtBHbtY3jwrVoSGPWaa0ubdf5k7YkHHSvIUrcLuhNR9XZpQHELx7kWIBr4RfIkfBYtXA4XU2atvXqSsr7Xq6BIKtefgPHrX29LgE%2FwMa9jJada%2FpYW9qYNp9JfzeCjbmFQl51%2BNGi1C48yRNg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F0b3a516c36cff63180588d0d1952a949%2FIMG_1614.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/0b3a516c36cff63180588d0d1952a949/IMG_1614.jpeg?Expires=1789599919&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=POHI6LbH9lLUD8bI32Kccm%2BFTZGMIrZ3JXkyZPkHUcbW7ZAGknD%2B%2BfCorsC1dC8zpHIdue%2BoYgLMrdQAkmqxVoaPXBUY9i5eZblc0tYvwnVDXGvFNFRPCdOqRJ4KGV1kybHpiRshPEHWMyL5LlYYgqF2%2F4GjL6lqpPiwdN7Md1WO91itnPo48zmHx3OpOqaJUzp4nUdc16pxH32MMMY8u0UnWt6DynDapGp7hbLEN7oeaEHj0Zw9haSsOg%2FWAQ4%2BGVMGgxwCnfCP2HGaBuD1j8T0tJW0EXyGVBbOlpIMosLLKYApaSs8XKEWbdGgwVLX%2BdNgBiR4efMqlPE3BNLyiA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F0b3a516c36cff63180588d0d1952a949%2FIMG_1614.jpeg)
 
 #### Comments (2)
 - **ねっこ** (Sep 09, 2026 02:31pm): 俺が匿名でやるとでも思ってんのか？w
@@ -2672,7 +2704,7 @@
 
 ---
 
-### 6. 装填用の弾は装填するんじゃなくて自分が弾に"なる"んだよ
+### 7. 装填用の弾は装填するんじゃなくて自分が弾に"なる"んだよ
 **Author:** Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻 (Nerunerusimane)
 
 #### Comments (6)
@@ -2690,7 +2722,7 @@
 
 ---
 
-### 7. サイトじゃないよ
+### 8. サイトじゃないよ
 **Author:** ねっこ (good_by)
 
 #### Comments (7)
@@ -2709,7 +2741,7 @@
 
 ---
 
-### 8. 今世紀最強は追撃砲なんよな
+### 9. 今世紀最強は追撃砲なんよな
 **Author:** ねっこ (good_by)
 
 #### Comments (9)
@@ -2730,7 +2762,7 @@
 
 ---
 
-### 9. アレバースト発揮しないな
+### 10. アレバースト発揮しないな
 **Author:** あ
 
 #### Additional Information
@@ -2740,7 +2772,7 @@
 
 ---
 
-### 10. あ
+### 11. あ
 **Author:** あ
 
 #### Additional Information
@@ -2750,10 +2782,10 @@
 
 ---
 
-### 11. あんw
+### 12. あんw
 **Author:** あ
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6228219425/9398a15ab3ff46220906362e4f1a53e0/rainbowimage_ver_4__2.gif?Expires=1789580596&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=O4ROL5oeywsrp53ljGfbT9l0jnhk3wAbmsQua4BNczqsUIDw4JepnRiPARQ%2FZcuZ%2FNcMUmBTdzivjBAhIsoN7sDOI7nMRCy13bk3%2FWl5%2Byjgn1kbV5nXPxK5%2B26zyBtUAIKzIj%2Bq3E%2BvSv1h6WCmouThB1ViRiE3BdHjWMdZLNREJxaa6z5UdnD4zXDj3rgbAFuTPMFR5DkaF%2F2Q78hN4ef7k6gb49ckdrcR%2BlmM6F0XvGcXJkTU6ahTc5f1BLB3JudySXb3r72RuFc2ckRkDCo5bwyMnrJcTQo0g0pkvLM6WvHxG%2FrUiygXmSmVXxsYpyso1IcqZw%2FdLh4%2F3vvTsA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6228219425%2F9398a15ab3ff46220906362e4f1a53e0%2Frainbowimage_ver_4__2.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6228219425/9398a15ab3ff46220906362e4f1a53e0/rainbowimage_ver_4__2.gif?Expires=1789599919&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YMWv1IxohrhmlzCE956aBEsAowmPjG2xctx9%2BFf1UsyFcnSt1uBcYZw2j1rB0J8luZ%2BOp%2B6yCazmJ06F%2FHM%2BVPd5KXInV71aEz1JODgE8MnUGhGI7ZlLqCv8M4gNQ31u1GneM6QIVxVT7LBDiaSOzmRcf4uxeWvrhvCR1o%2B4cnNg5GWDWL258NzCAf%2Fap7j4XfhvNoLJt%2BfN1sto2y7804VrIN8AgbuMujht37Yay1to5EWt8LekK098EgK6LYL0IHvWUtIM4gyTrGAHRkm9STGZUGqJs9oQH%2BeEOacFT9olvoPsd%2F6L7dZ40KIhoMdrRxuazuoL0JW22s%2BjKXsl7w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6228219425%2F9398a15ab3ff46220906362e4f1a53e0%2Frainbowimage_ver_4__2.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -2762,7 +2794,7 @@
 
 ---
 
-### 12. あれ
+### 13. あれ
 **Author:** Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻 (Nerunerusimane)
 
 #### Additional Information
@@ -2772,10 +2804,10 @@
 
 ---
 
-### 13. Post 13
+### 14. Post 14
 **Author:** あたおかは消えろw消えろw
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6228165023/dab824d7e4e85701bcd8d7751617d0dd/rainbowimage_ver_4__2.gif?Expires=1789580596&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fylCkKWWOMPTJFORD9Ry0Q6Eou%2BM1sqo9JbB1uJVCildEEvWP3bRwfoFP4qFGE1xvlwDI6MjCsa%2BVtXvlaPgb8UqrJIhMaqMLT16UcZ9d5YZdmz4ZA5T9L14mp0YcOtsjEnbh9l2%2Fz4xpt4yXx3Gx3371UTRessbFIuclRrTQu8TVTiudcYzPleRUi%2Bz%2FAgNJLezrD7EM8fFi4BfgT5FZvwgHhaRD%2B83dUJ4wJCJWI9cMq32rKtTZP%2BSJEoZEgrAFxmvPcPiv1ZFnmVewYw3Rx7EaLi5A9MPcYSwpnEbQIimaLrzI8kZt8cn%2Bc4SBQ011H1nHIVtkk68EPAuk%2FRacw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6228165023%2Fdab824d7e4e85701bcd8d7751617d0dd%2Frainbowimage_ver_4__2.gif)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6228165023/dab824d7e4e85701bcd8d7751617d0dd/rainbowimage_ver_4__2.gif?Expires=1789599919&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RNhAEhdw0Idrg8yZd3nf5Od9k%2BuUoE02eVN7%2FB0wBsVyjqVwAFAdaLyU0IGX0%2BfgL0BiGoVGTlybNCCy2JblcisMhWieiJSbF03WeJ0hD0AYlto%2Fq55owXt8VtxMOSbkmKZJzQR%2Br9wXoAtNVbajnc2zobuYm8s0QxDOkt2xJEC%2FXL%2FKxFwNCwNpUsBi%2FYl5H%2B7v5J8B95u%2BPih2OXVD9Z4raRMENJ6KHHhjVrxq9ULZZygZf%2Fqyhyg0pvWFQz%2BNuNPmHV645S4SR2ALvqw88WIFSZSCa07sujPn6SXJtbu17pJmHx1UyLcCYdmzeEw2c26VOfT0Xgd1vX%2FvwrNaIQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6228165023%2Fdab824d7e4e85701bcd8d7751617d0dd%2Frainbowimage_ver_4__2.gif)
 
 #### Additional Information
 - **Post color:** White
@@ -2784,7 +2816,7 @@
 
 ---
 
-### 14. 気づいたら匿名キッズ逃げていなくなってたw
+### 15. 気づいたら匿名キッズ逃げていなくなってたw
 **Author:** ねっこ (good_by)
 
 #### Comments (4)
@@ -2800,7 +2832,7 @@
 
 ---
 
-### 15. ソニックV2の方がいいかな
+### 16. ソニックV2の方がいいかな
 **Author:** あたおかは消えろw消えろw
 
 #### Comments (1)
@@ -2813,7 +2845,7 @@
 
 ---
 
-### 16. 俺も大砲撃ち込むわ！
+### 17. 俺も大砲撃ち込むわ！
 **Author:** ねっこ (good_by)
 
 #### Additional Information
@@ -2823,7 +2855,7 @@
 
 ---
 
-### 17. じゃあ荒らすか！
+### 18. じゃあ荒らすか！
 **Author:** あたおかは消えろw消えろw
 
 ねっこ多分荒らし終わったらあの部屋で投稿すると思うからそれまで誰か予想してなw
@@ -2838,12 +2870,12 @@
 
 ---
 
-### 18. これかな
+### 19. これかな
 **Author:** ねっこ (good_by)
 
 隼人の顔
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/7b7b0b93c56cf62b11bde8d7c8418126/IMG_0079.jpeg?Expires=1789580596&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5APvx%2F7f418yycr%2Bp422I%2F%2FzZn20IskmpAmzxm%2BBbl980J74ovh6hTlrfZAM4uIpiuIJuHf5WQuneq4RVWG0MJR%2FCW1bgQ4dQY%2Btqi2uaVwgk9%2BlR%2FDfK2%2FAXCRcfHVJ2Ogi3qMOZ8NH5Y6q%2FO%2FmGa%2FPLka5lrthyP7KotsP7kGZvF8j5vMUjvqNeDUWPeGsBBUuZzVUAOQcath2OIqGqubKA2uWO7toyWBDXuhgPU6WzQsHbWKoer%2BJ12UOE2d2CwlAEqPPXkw%2BVpRbPnaNaSOGNWTlSmbnIXzFevHhZWKZh6Tk2wXbPIAvcTxM5c9Y9uxyogBHEOFZR3V6Ji6pYA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F7b7b0b93c56cf62b11bde8d7c8418126%2FIMG_0079.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/7b7b0b93c56cf62b11bde8d7c8418126/IMG_0079.jpeg?Expires=1789599919&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lCSY0Fz6Y6OsyrnDlR4syEblZwaC8PuQQ7JjKRpv3HctnPlbObhvOh0gQgdEFyxbuCpNn82OkoQ0y4hjqc6BoJeRL2zNQx9qAXxOhvIZt7HEXpmQej9qCfMfcaww5Ieh8l0sj9%2FC9bcjRyzsXOUi%2FoEPqGIkktmlyPxl5HVOG0%2FSo1Ms9tR3ijOu2RqKOrEAkJip7fHZoRqUmwF9YDNoaVgHcDhHjLKDxm3F4AFiUn2vXgkxkXq95I%2B%2BR%2BBslVJMhdyHysh4RvxFUZAUhM5wP2iRT43Bkpj%2BgBLFJwaVWAcsSrdqTuLal273%2BLZQ0lcp%2F6g60WLuImT%2FzpaonBLmyw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F7b7b0b93c56cf62b11bde8d7c8418126%2FIMG_0079.jpeg)
 
 #### Comments (5)
 - **削除済みユーザー** (Sep 09, 2026 01:59pm): w
@@ -2859,7 +2891,7 @@
 
 ---
 
-### 19. あいつに俺勝ったのにな
+### 20. あいつに俺勝ったのにな
 **Author:** ねっこ (good_by)
 
 あいつ敗北認めんのよ
@@ -2878,10 +2910,10 @@
 
 ---
 
-### 20. ねっこ俺の部屋でこんなのがw
+### 21. ねっこ俺の部屋でこんなのがw
 **Author:** Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻 (Nerunerusimane)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5951151238/227cfe5c0bb7aa01502ea1c5878f0b71/IMG_0757.jpeg?Expires=1789580596&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tEguiK4pbPHq3cmfnTbACXyKDiijVRE68j1ts3dUUtjlo0MkIPr95HOXa0mY280crm706yiF4ZJLNhMgjJUg63sC%2BEhCCdSAJUcO2x79pjQc0U9%2Fhmoq2bvZm4UkqZBIMw1yyPlCyt8FwJFmCw3Ww4pnVe7QvlS5r0ALwcztHWLSqUg2FDqY%2FbltkxIy1ZuvqDtOiu7KKfUI%2BgO60Dc36UMuo1myhHAcKB%2BW%2BfulXGbFoSRz87wkuHL6wHs5Aa0SAn023SnfIbQ9Q7dBOaeobMImPFjqQQruueWHgvedb5BOBeDCtH9yWs86TuRffpmWdJUzhza4mdO6vjGt0z1q7g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5951151238%2F227cfe5c0bb7aa01502ea1c5878f0b71%2FIMG_0757.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5951151238/227cfe5c0bb7aa01502ea1c5878f0b71/IMG_0757.jpeg?Expires=1789599919&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qUg%2F0vfH2T9od9z4V5%2BzESfZ34eh5hZ10ar5ftt2i6I1WHdOcopC4QdcXgtyMPc1iuJPcqROoxlM32cQw%2F%2BXuJ5nZmZkQP1p82BUPRvxYihCmO0kOUfW1dTeV6Uzu60W0QoWQwLn49N54rFZIz8YbyHgJMrYtZ843ymddZAgByzIW3pddnJWghoHNAgtOKqFNhQ%2BW9P5xmg3Dyd5p71Cj4LQZjwDTK86ySozyDPUxc0kBKiV031nDMI6Vbk19BTFnksq%2BsW3p36OISAjTTabdVGYTwNU5qCT2AJEf%2FCGZOrhVJpBKuLRIx7XLZU9aG8%2B0nHWsa6PQJ6fv99ubHd31w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5951151238%2F227cfe5c0bb7aa01502ea1c5878f0b71%2FIMG_0757.jpeg)
 
 #### Comments (6)
 - **ねっこ** (Sep 09, 2026 01:57pm): 草
@@ -2898,7 +2930,7 @@
 
 ---
 
-### 21. 匿名に勝利しやした🏆
+### 22. 匿名に勝利しやした🏆
 **Author:** ねっこ (good_by)
 
 #### Comments (16)
@@ -2929,7 +2961,7 @@
 
 ---
 
-### 22. なにここあたおかしかおらんやん
+### 23. なにここあたおかしかおらんやん
 **Author:** 削除済みユーザー (BOSAMIDAYO)
 
 #### Comments (11)
@@ -2952,7 +2984,7 @@
 
 ---
 
-### 23. _fcj
+### 24. _fcj
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -2967,7 +2999,7 @@
 
 ---
 
-### 24. _mdk
+### 25. _mdk
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -2979,7 +3011,7 @@
 
 ---
 
-### 25. _gkh
+### 26. _gkh
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -2991,7 +3023,7 @@
 
 ---
 
-### 26. Post 26
+### 27. Post 27
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
@@ -3003,7 +3035,7 @@
 
 ---
 
-### 27. ねっこもう荒らしちゃっていいかなこれ
+### 28. ねっこもう荒らしちゃっていいかなこれ
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 #### Comments (2)
@@ -3017,7 +3049,7 @@
 
 ---
 
-### 28. 匿名のしちゃった
+### 29. 匿名のしちゃった
 **Author:** ねっこ (good_by)
 
 #### Comments (15)
@@ -3044,12 +3076,12 @@
 
 ---
 
-### 29. まあ、そうキレるなって😅
+### 30. まあ、そうキレるなって😅
 **Author:** ねっこ (good_by)
 
 キレ症すぎて死ぬぅ⤴︎
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/d71ace6d3f1bc6e08f7844ac5bd9646c/IMG_1613.jpeg?Expires=1789580596&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4q%2FdogySrIg2uANc28EFYrcuUphIlGUTcALhvzpSZFWDlD%2B4eEKrEtnDI0Llq%2Fbb3rLNBz0tlgg7neY2j%2B%2FoxfzlDM62X1X97Kz9ibRp5xtz21mDpcmRjcT1gp62iiiw%2F0kqbNUdDFnLxExybvRtoQOJZ%2BWuqudg%2BoCaex0NuWKrY5FmplNvGD96skJYe%2FqNXNmvV7SXs5K0Jyu1TjiQPi73jnuHdXSZNrZRKlUQVlHH7m1fAp6Z7MP%2BjLAPCb0QSKX6BKvFirieYPeLSIeawYfbhQ5DnT3QQqAmUabjoWLfDSZd5bIMHeDTLPI4tnhtY55kBJho5UsKnE8kaa%2Fk%2FA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2Fd71ace6d3f1bc6e08f7844ac5bd9646c%2FIMG_1613.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/d71ace6d3f1bc6e08f7844ac5bd9646c/IMG_1613.jpeg?Expires=1789599920&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Hc%2Filiipp4tYcbHYFBhuJVe%2BDeOtgpY6G9FuizTQpAlqSUkIm6JnOe89REvTnpDWOEsr%2FS1Yzqe1tqB8FX0QFNOUqz%2F9N2Vch7JuJMArI8rGvsfMKCFTjP62xPbDHUQIh8LcIBXtCRjosm0ydNCPYICKKOnl7Y3Syi6%2FM4UsnJK0O0XJPu8GIvigYnjb56gtJE%2FQpCJDx%2FYDHBwSjJxZWbA6BQ6Uxp91DQQgTWM1R2uwK6JIkkSf4ennwhp6SWrL%2B7MxosfYuhYb4QpNau%2BXKT1i0xk9QmzFF%2FA6hW%2B7CoUmAHqNjppaDAVo7x%2FLMEjNwZpuqAzzx9oseJ%2BfllCKNg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2Fd71ace6d3f1bc6e08f7844ac5bd9646c%2FIMG_1613.jpeg)
 
 #### Comments (144)
 - **Anonymous** (Sep 09, 2026 01:32pm): ねっこキレ症　死ね
@@ -3204,7 +3236,7 @@
 
 ---
 
-### 30. この部屋匿名のおかげで有名になりそうw
+### 31. この部屋匿名のおかげで有名になりそうw
 **Author:** ねっこ (good_by)
 
 （悪い方でね）
@@ -3220,7 +3252,7 @@
 
 ---
 
-### 31. 今日部活の仲間とイトヨ行った
+### 32. 今日部活の仲間とイトヨ行った
 **Author:** ねっこ (good_by)
 
 最高😆
@@ -3232,7 +3264,7 @@
 
 ---
 
-### 32. 匿名障害すぎ
+### 33. 匿名障害すぎ
 **Author:** ねっこ (good_by)
 
 #### Comments (3)
@@ -3247,7 +3279,7 @@
 
 ---
 
-### 33. 匿名がいじやん　レスバしようぜ
+### 34. 匿名がいじやん　レスバしようぜ
 **Author:** ねこンゴ⒊5周年‼️  #ネッコたちを勧誘しました. #元ﾄﾞﾊﾟｼﾞﾛｳ (d0p4g4k1)
 
 #### Comments (2)
@@ -3261,7 +3293,7 @@
 
 ---
 
-### 34. まともな匿名もおるんやけどな
+### 35. まともな匿名もおるんやけどな
 **Author:** ねっこ (good_by)
 
 #### Comments (2)
@@ -3275,12 +3307,15 @@
 
 ---
 
-### 35. これでサインインしな
+### 36. これでサインインしな
 **Author:** ねっこ (good_by)
 
-#### Comments (2)
+#### Comments (5)
 - **ねっこ** (Sep 09, 2026 12:41pm): https://app.tuta.com/?r=/login&requestedPath=%2Fmail%2FP-_9DeI-07-9%2FP14JFSf--3-9%3Fmail
 - **Anonymous** (Sep 09, 2026 01:15pm): イキんな
+- **わらびもち** (Sep 09, 2026 10:49pm): イッキってないだろ
+- **わらびもち** (Sep 09, 2026 10:50pm): サインインできないやつのためにやってるんだろ
+- **わらびもち** (Sep 09, 2026 10:50pm): んなこともわかんない？
 
 #### Additional Information
 - **Post color:** White
@@ -3289,15 +3324,17 @@
 
 ---
 
-### 36. 誰かこんど匿名キッズボコしません？
-**Author:** わらびもち
+### 37. 誰かこんど匿名キッズボコしません？
+**Author:** わらびもち (tensai_1000)
 
 匿名キッズの荒らしまじムカつくんで誰かいっしょにボコしません？
 
-#### Comments (3)
+#### Comments (5)
 - **ねっこ** (Sep 09, 2026 12:40pm): いいね👍
 - **ねっこ** (Sep 09, 2026 12:40pm): やろうぜ
 - **Anonymous** (Sep 09, 2026 01:15pm): どうやって？お前らには無理　所詮クズのクソインキャ
+- **わらびもち** (Sep 09, 2026 10:45pm): てめえみたいな匿名がいるから荒れるんだよ
+- **わらびもち** (Sep 09, 2026 10:46pm): 自覚ある？どうせないだろうけど
 
 #### Additional Information
 - **Post color:** White
@@ -3306,7 +3343,7 @@
 
 ---
 
-### 37. バカの集まり
+### 38. バカの集まり
 **Author:** アホゥ鳥 (drks_8872)
 
 #### Comments (14)
@@ -3332,7 +3369,7 @@
 
 ---
 
-### 38. 日本事故物件監視協会
+### 39. 日本事故物件監視協会
 **Author:** 清水 (s1946089)
 
 みたいなホラゲーください！！！
@@ -3349,12 +3386,12 @@
 
 ---
 
-### 39. 一人二役お疲れ様っす🥳
+### 40. 一人二役お疲れ様っす🥳
 **Author:** ねっこ (good_by)
 
 頑張ってるね！
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/46cfd20ed181d072be19945c4f76448e/IMG_1612.jpeg?Expires=1789580596&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dnN4ViOEZsevvg3HmSmPA0BTJc4i9uLNIgA8jPCSOzMG1zKGszSrsq88v1nANzFtAhnNmxBR1ekovcTEp9lVQiHKA0xCk%2BhxUnu9jZUoLOPXgpABDHIsElFLbgmpIK16Y2c%2BvFAsvN9ym7Lg5ENXedUrDH2aMko81Fm3%2BKvdugy6AI9YeO5nMCZuwfWapwTwJaHoJnnf6PdBGsTZ9lP4q53mzGJXg3wkluR6zoZ%2F7HGyeLos%2Fka0SSHByLXFs0OhLWIq92MAcol35wckQeg1PwZ18rOTFBBjzoYg7O%2FB67n%2FPkFl0n3Skpkb7gC70fVb8KE6MLEgWipVqzoySYFIMg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F46cfd20ed181d072be19945c4f76448e%2FIMG_1612.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/46cfd20ed181d072be19945c4f76448e/IMG_1612.jpeg?Expires=1789599920&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Ne%2FkIKOAUXjHh%2BEQkoOxaw3DGsAiOiW4gcwDi%2BqAu6yuunZRRlEvuK%2FMZnZ%2BjY9CAipqoNZEm%2Bn1wp3fC8RHqv%2B0EuNvgMdLiyalit%2FpSCnAHuLm9M0AAZbYoYg4j8LNRvvCIO46syZeZf5jAPcdOu6l2nVlN23xlmfQOoGQZ%2B1w9DE27wKVUPNilf0vYvxraUHl7NgNedCU2NuMK3MpxYLg0awnphbdbPG0c6Nq6aMaSaTUcujJlCBnt48etn%2BJpAGPMTJq%2BnADELqwMRGI3XUC0qseXPFA63XqnnDTYjW6PlT0IH1yZdLto%2BzdA8Z%2Fub%2Bkqla2KmJZ0C8dEn9XAg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F46cfd20ed181d072be19945c4f76448e%2FIMG_1612.jpeg)
 
 #### Comments (5)
 - **清水** (Sep 09, 2026 12:01pm): そうなんどうやってわかったん
@@ -3370,7 +3407,7 @@
 
 ---
 
-### 40. ごめん逃げたんじゃなくてねた
+### 41. ごめん逃げたんじゃなくてねた
 **Author:** ねこンゴ⒊5周年‼️  #ネッコたちを勧誘しました. #元ﾄﾞﾊﾟｼﾞﾛｳ (d0p4g4k1)
 
 #### Comments (3)
@@ -3385,12 +3422,13 @@
 
 ---
 
-### 41. ここの匿名キチガイばっかやん
+### 42. ここの匿名キチガイばっかやん
 **Author:** Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻 (Nerunerusimane)
 
-#### Comments (2)
+#### Comments (3)
 - **ねっこ** (Sep 09, 2026 11:54am): 草🌱🌱🌱
 - **Anonymous** (Sep 09, 2026 01:18pm): ねっこうざいインキャ
+- **ケンタッキー** (Sep 09, 2026 09:22pm): インキャとかよくないよ！❌
 
 #### Additional Information
 - **Post color:** White
@@ -3399,7 +3437,7 @@
 
 ---
 
-### 42. 7時15分コメントで話そう！🙏
+### 43. 7時15分コメントで話そう！🙏
 **Author:** アオノギ
 
 #### Comments (17)
@@ -3428,7 +3466,7 @@
 
 ---
 
-### 43. 誰かが入ってください。
+### 44. 誰かが入ってください。
 **Author:** はなぐも
 
 ここで、みんなと一緒にチャットしませんか？
@@ -3453,7 +3491,7 @@
 
 ---
 
-### 44. Post 44
+### 45. Post 45
 **Author:** ねっこ (good_by)
 
 [Attachment 1](https://padlet.com/padlets/tz51ybitg6po9qi0)
@@ -3470,7 +3508,7 @@
 
 ---
 
-### 45. ここ来たほうがいいよ
+### 46. ここ来たほうがいいよ
 **Author:** 狂鳥(くるいどり)♯鳥貴族♯キム族初代♯かきぴー族2代目♯りおとの20番弟子♯ネギネギファミリー5家族目♯りおと族20代目♯れいなの4646番弟子♯kurotsuki副隊長♯ makunami族7代目 (ohayooooo)
 
 [Attachment 1](https://padlet.com/edodaze/padlet-n4y0az1x3mlvs5g3)
@@ -3485,7 +3523,7 @@
 
 ---
 
-### 46. Post 46
+### 47. Post 47
 **Author:** ねっこ (good_by)
 
 絶対来てくれや
@@ -3510,7 +3548,7 @@
 
 ---
 
-### 47. はいって下さい
+### 48. はいって下さい
 **Author:** ショートスリーパー (r0245140)
 
 すばらしいサイトたくさん
@@ -3524,7 +3562,7 @@
 
 ---
 
-### 48. フォトナください（「お前なんかにあげるか」とかいうクソつまんない回答はいらないです。）
+### 49. フォトナください（「お前なんかにあげるか」とかいうクソつまんない回答はいらないです。）
 **Author:** お、おう (s21260143)
 
 #### Comments (4)
@@ -3540,7 +3578,7 @@
 
 ---
 
-### 49. エッな画像はここに貼れ！！
+### 50. エッな画像はここに貼れ！！
 **Author:** unknown
 
 [Attachment 1](https://wox.cc/)
@@ -3558,7 +3596,7 @@
 
 ---
 
-### 50. えっなサイトください
+### 51. えっなサイトください
 **Author:** 自認松山
 
 #### Comments (2)
@@ -3572,7 +3610,7 @@
 
 ---
 
-### 51. ワホー
+### 52. ワホー
 **Author:** ワホー
 
 インポスターのサイトちょうだい
@@ -3587,7 +3625,7 @@
 
 ---
 
-### 52. オカズサイト
+### 53. オカズサイト
 **Author:** 4513w
 
 [Attachment 1](https://perchance.org/8xa4skz1er)
@@ -3619,7 +3657,7 @@
 
 ---
 
-### 53. お前らオタク引きこもり歴１８年
+### 54. お前らオタク引きこもり歴１８年
 **Author:** ハナノヒ
 
 #### Comments (3)
@@ -3634,7 +3672,7 @@
 
 ---
 
-### 54. 人狼ゲームのサイトください
+### 55. 人狼ゲームのサイトください
 **Author:** 匿名
 
 #### Additional Information
@@ -3644,7 +3682,7 @@
 
 ---
 
-### 55. 誰かいますか？
+### 56. 誰かいますか？
 **Author:** そーりー
 
 #### Comments (12)
@@ -3668,7 +3706,7 @@
 
 ---
 
-### 56. エロ部屋くれ
+### 57. エロ部屋くれ
 **Author:** 江戸を司るエロ
 
 エ⚪️部屋ってやつです
@@ -3690,7 +3728,7 @@
 
 ---
 
-### 57. めっちゃカメレオンください
+### 58. めっちゃカメレオンください
 **Author:** ミモリ
 
 #### Comments (6)
@@ -3708,7 +3746,7 @@
 
 ---
 
-### 58. いいですよ
+### 59. いいですよ
 **Author:** 焼き止めと
 
 #### Comments (1)
@@ -3721,7 +3759,7 @@
 
 ---
 
-### 59. いいっすねええ
+### 60. いいっすねええ
 **Author:** 匿名
 
 #### Additional Information
@@ -3731,7 +3769,7 @@
 
 ---
 
-### 60. 誰か一緒にお話しませんか？誰でもどうぞ！
+### 61. 誰か一緒にお話しませんか？誰でもどうぞ！
 **Author:** ソラハル
 
 みんなで、一緒に仲良く話しましょう。[https://scratch.mit.edu/projects/556926076/fullscreen/](https://scratch.mit.edu/projects/556926076/fullscreen/)
@@ -3750,7 +3788,7 @@
 
 ---
 
-### 61. あ
+### 62. あ
 **Author:** チンアナゴ
 
 #### Comments (1)
@@ -3763,7 +3801,7 @@
 
 ---
 
-### 62. エロ部屋くれ
+### 63. エロ部屋くれ
 **Author:** ツキノト
 
 #### Comments (25)
@@ -3800,7 +3838,7 @@
 
 ---
 
-### 63. ロブロックスとYouTubeのリンク載せて
+### 64. ロブロックスとYouTubeのリンク載せて
 **Author:** マリオ
 
 #### Comments (1)
@@ -3813,7 +3851,7 @@
 
 ---
 
-### 64. ほかのゲームサイト乗せて
+### 65. ほかのゲームサイト乗せて
 **Author:** ツキミ
 
 #### Additional Information
@@ -3823,7 +3861,7 @@
 
 ---
 
-### 65. ゆうと、どうやってけすの？
+### 66. ゆうと、どうやってけすの？
 **Author:** 港
 
 #### Comments (1)
@@ -3836,7 +3874,7 @@
 
 ---
 
-### 66. インスタできるやつください
+### 67. インスタできるやつください
 **Author:** ０２２３
 
 #### Comments (1)
@@ -3849,7 +3887,7 @@
 
 ---
 
-### 67. 誰か軽いproxyくれ　ブロックされるやつでもいいから
+### 68. 誰か軽いproxyくれ　ブロックされるやつでもいいから
 **Author:** ノハルカ
 
 #### Comments (1)
@@ -3862,7 +3900,7 @@
 
 ---
 
-### 68. ジオメトリーダッシュ作ってください
+### 69. ジオメトリーダッシュ作ってください
 **Author:** ええいいここえいこ（えいこってよんでね）
 
 #### Comments (3)
@@ -3877,7 +3915,7 @@
 
 ---
 
-### 69. Post 69
+### 70. Post 70
 **Author:** りゅう
 
 フォートナイトぽしいです
@@ -3893,7 +3931,7 @@
 
 ---
 
-### 70. アンダーテールぽしいです
+### 71. アンダーテールぽしいです
 **Author:** ああああ (h0319096_1)
 
 #### Comments (1)
@@ -3906,7 +3944,7 @@
 
 ---
 
-### 71. 流行語大賞２０２６ください
+### 72. 流行語大賞２０２６ください
 **Author:** ミズアメ
 
 #### Comments (1)
@@ -3919,7 +3957,7 @@
 
 ---
 
-### 72. いんすたないですか
+### 73. いんすたないですか
 **Author:** う
 
 #### Comments (4)
@@ -3935,7 +3973,7 @@
 
 ---
 
-### 73. お願い
+### 74. お願い
 **Author:** ナナシ
 
 エロい漫画見れるサイト教えて
@@ -3952,7 +3990,7 @@
 
 ---
 
-### 74. はやく！
+### 75. はやく！
 **Author:** ホシノキ
 
 性教育実習の漫画があるパドレットください
@@ -3968,7 +4006,7 @@
 
 ---
 
-### 75. 誰かpokiのサイト載せて
+### 76. 誰かpokiのサイト載せて
 **Author:** 匿名
 
 #### Comments (6)
@@ -3986,7 +4024,7 @@
 
 ---
 
-### 76. 誰かURL貼って動画見るやつ教えて
+### 77. 誰かURL貼って動画見るやつ教えて
 **Author:** ユメノ
 
 fernって名前のやつ　履歴消したらきえt
@@ -4004,7 +4042,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 77. 誰かエロ部屋くれ
+### 78. 誰かエロ部屋くれ
 **Author:** 匿名
 
 #### Comments (1)
@@ -4017,7 +4055,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 78. アニメ見れるサイト欲しい
+### 79. アニメ見れるサイト欲しい
 **Author:** 34b6kq
 
 違法サイトでも全然ええよ
@@ -4038,7 +4076,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 79. Post 79
+### 80. Post 80
 **Author:** でにでにろつとまん (1920370847)
 
 誰かめっちゃおもろいゲーム貼ってください
@@ -4056,7 +4094,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 80. エロサイトくれ
+### 81. エロサイトくれ
 **Author:** スギノネ
 
 #### Comments (18)
@@ -4086,7 +4124,7 @@ fernって名前のやつ　履歴消したらきえt
 
 ---
 
-### 81. 至急！！！！！
+### 82. 至急！！！！！
 **Author:** スギノネ
 
 保健室のサイト　誰かほしいです！
@@ -4122,11 +4160,11 @@ fernって名前のやつ　履歴消したらきえt
 **Author:** かぼちゃ (kabot)
 
 **匿名は入れなくしたほうがいい？:**
-- **入れなくしたほうがいい:** 62 votes
-- **入れなくしたらいけない:** 130 votes
+- **入れなくしたほうがいい:** 64 votes
+- **入れなくしたらいけない:** 136 votes
 - **どっちでもいい:** 15 votes
 
-#### Comments (49)
+#### Comments (50)
 - **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:16am): ←これで匿名が荒らしてるから入れない方がいい
 - **キチガイブルー** (Sep 09, 2026 04:24am): 匿名は大体レスバ中毒やから入れない方が良いと思う
 - **Anonymous** (Sep 09, 2026 05:00am): レスバできない雑魚が何をいうとるん？
@@ -4176,11 +4214,12 @@ fernって名前のやつ　履歴消したらきえt
 - **Anonymous** (Sep 09, 2026 04:46pm): あたりまえ体操
 - **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:49pm): 君ユウヒコでしょw
 - **Simane　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　💻** (Sep 09, 2026 04:49pm): 寝たら？
+- **Anonymous** (Sep 09, 2026 11:03pm): 違います〜 
 
 #### Additional Information
 - **Post color:** Red
 - **Created At:** Sep 09, 2026 03:56am
-- **Updated At:** Sep 09, 2026 04:42pm
+- **Updated At:** Sep 09, 2026 10:47pm
 
 ---
 
@@ -4840,7 +4879,7 @@ fernって名前のやつ　履歴消したらきえt
 
 日本語通じないやんw
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/ec68d43c1aacece8f4cafc73af854ad0/IMG_1610.jpeg?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PHi4bg9D75TbfcGx9%2B70oE2rkyfd9rbvoXZxmbrk%2BRgXqY6dpX%2B91ehwogoN5Qednq4Ma4nVvo8eCCjKfDU4r%2BKrGO7pqfuF1ELm6FmfJCmuKwvOOF87NHBDx2ey9%2Bqj%2Fuq8g%2BKB8b93IBQmfqAmQP%2FhAcCJFkSsu%2FVO2S0CHBeplXs7I5OD2ekiPdcfdZZC5YJmObsvDsK2yChg961dBNmX5%2BHG4ylsXzYMiDRz68prHBRsG3K3MBvPtaxknSwtQ4FUDyqFiL8kywbN7uex8jUtRBSOBAMENic48oKau3XjYQgQgKbMlwk2ySvXyKZFE0h81%2BXDW8DFtHYouJGi%2BQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2Fec68d43c1aacece8f4cafc73af854ad0%2FIMG_1610.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/ec68d43c1aacece8f4cafc73af854ad0/IMG_1610.jpeg?Expires=1789599920&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JjVG5ulDU%2Ffzg1SqbZ1fjY5pd0%2BXH8gidAu6317uRGtUaAudtNM3NumFDOI4kpJQwcILWn3M3SHurvVjTUFHZ2t%2Bk8ibxf1cSH%2BoY7O6%2Fd5R%2BsHHa9cdBP53RSVv28VLAKq0fWFy%2FPXFZI4uoubNXScT6T1dagIXGmC9DfpESp%2FVjH7DC8rJcd%2Ba%2BfZGmTc%2BicedHKzoLZYFeK8gGXEnsDZIMUspn%2FXlmM1Pb6r051Po96qeqvlLlxmK%2BUHF2EeX4N3crTq1MoeXOeNQyCCpnfVh%2FTMBxhi9GfJ4OXuDlTht1m83UvvIaSrfKKtn2kVIq16s1Rjh%2FjIR3yn6yb5rXw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2Fec68d43c1aacece8f4cafc73af854ad0%2FIMG_1610.jpeg)
 
 #### Comments (5)
 - **妖夢推し  荒羅死対策本部幹部特別荒羅死特攻隊** (Sep 09, 2026 09:58am): 外国人じゃねこいつ
@@ -4961,7 +5000,7 @@ fernって名前のやつ　履歴消したらきえt
 
 俺はおなべさんに対しては非難してない
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/20e406ff22c23152f2c19501b3f252d0/IMG_1607.jpeg?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6R21dMte3rPtUXEJA6iZvimLxdHSDidOM%2FQMVy1NtRg%2Fl7lq4DzacwP%2BLob2%2FDPHNPRJ4u6uAC5ba50v49PFimzKd4XDOAZaiRqaPJIIAXcH06z2b88icSLosr18zz%2Bpe0xHIUONNSKQrbc%2BQZMHYmRDViyphzUsWRFdsh68FuhaHhxLtfxMaguxvCpqZ6bn8HKOcgOsdI3bGbA3b1EwASlDU72Ob4S%2F9OeOKzredx6ht4eEUNz5tsGZbbfyG34dNn0ZL%2Bn3BVxnvhOfEhISw9OMuWxw%2BeGzPUhL10ir0a%2F6JJfEVo1iYjHA3YgUg1g0gaY0SpZ7THfgxjH0F5kOSw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F20e406ff22c23152f2c19501b3f252d0%2FIMG_1607.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/20e406ff22c23152f2c19501b3f252d0/IMG_1607.jpeg?Expires=1789599920&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=P3Pk%2F%2BSTGrn%2BOwOyhIXmpiB52YKCd2xM5pIUH01F2mmU13qi%2Fwyy0PDTnikft%2B8Z%2B%2BN8ZghitLIkUsgg%2BuGUB0l3jIzyx5qGSvrOhNkecB60f3oY%2BsXPzDel%2FyvfFhvZxTiz%2FOsvZIT29HbaD90c2sVbyxGN4moSYcNybRBclqKeByt3LvFh%2FyEkp2SCPEXTFIHX5%2F27bRMI%2BbquKBQKnRNr80AAjQ8rhIewNEGDaeYG2d06mNPAkEJg2qOBhSFvbSi7kapUqjHqK5z8JUCgaikP1U%2BiwT7onH1AAPisulZOp0syL0%2B%2FpVRwoHHCBZhsBrG%2FSyHgjvIMY1P2t5ildA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F20e406ff22c23152f2c19501b3f252d0%2FIMG_1607.jpeg)
 
 #### Comments (7)
 - **カゲソラ** (Sep 09, 2026 09:43am): 匿名やっぱけしたほうがいい
@@ -4984,7 +5023,7 @@ fernって名前のやつ　履歴消したらきえt
 
 それと空白なんで開けてるん？
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/98aa1c451a5e916027859e2f2b95c65c/IMG_1606.jpeg?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Tt8Zq7ASfiOqRhubxFLFSnD0qi%2FLGylbVShTGA0elc04QcVne4F7eZGD14%2FtPkkIZtNSpMNViNhPbB%2BlNGxq%2B%2B4UBlOiLeWU3QwjZu1ofw4BWN8CPRlalA5P8E4RZnQs8PFBoCDpHJRnq53fluq0XGgWuyhCOLek04zVzTWc8AaHZELTtJCBQWlJsFV7W%2BLkfK8FwGMpOORhiiEj2dTPGi2aVUCZM6sSYZ9aF4PzhkDjLUi1F10r3OvuZxBZTMH77WTLMmtsW%2BWonFQz9bpJlVBmBUbmW%2B6WSMer%2FmjoSws8ycoOwCIDaw8ozgl0eWAb6DTv3iJ%2F2J7VazN3hZ%2Fo2A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F98aa1c451a5e916027859e2f2b95c65c%2FIMG_1606.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/98aa1c451a5e916027859e2f2b95c65c/IMG_1606.jpeg?Expires=1789599920&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1FQugkWXUxtyDBxb%2BtXbtP50DxBfn4%2FBqm0zy39AL6gHw4N1AGQZX5h8ORdNfSen%2BxRSXMw5wIkx8%2BcMzKwZLm1l5sxYT7Ui%2FJpGjFerI%2BjVXnFtBuQMAa%2FM9U3f5084H%2BR5Xd%2FmsvIdbhAH2VDXAYmunh%2B4e%2Bwj5xXvXe0i1nPPXOGR8hEyoXoMzyS7EQmJcfpKympvx7XfYxnLk0nfnQqlOO8ZxbUZl78tiscVsT5Eht9atk%2BDZywFrFVnHJrt%2FYwz9leCfbazEKpnjGQxaOo1aXvw21A8KBXbj0MPPQIvFWWVSo%2FPpIhIJEAUVA%2FUYmaUvMiySjnqB%2B56pumtXQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F98aa1c451a5e916027859e2f2b95c65c%2FIMG_1606.jpeg)
 
 #### Comments (3)
 - **Anonymous** (Sep 09, 2026 09:46am): 興奮してんじゃね？お前と同じく　こんな熱量のやつまじ多いな　どうでもいいだろうがボケナスども
@@ -5052,7 +5091,7 @@ fernって名前のやつ　履歴消したらきえt
 
 きちー牛🐮
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/d4d339c596c0f99ad711348b99577f8d/IMG_1602.jpeg?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=F8TabHF08QwLF6kY2l%2F7OaWU8nmO8tPFg6Tfh%2FWYzgy5rVaIapnaKhD6PBA8FT608D3IShWuKC4JFznRoKFmIsIHqN03gLcjLWVt9ec975jP6RFDaaoh9k2GQEo8BwwY25DNgiW%2BjwrB2uiqvSwCjS7%2BS1bjDbtKsq9nkVJlrP1PzcvcrgbtsPlM6Hj6VzSxFGWg9NC5JbuYYnA0B8cIonC4F%2BFScsjUH5aWJbkY9rY%2FUjuW8RA3s6InCqexYUwyrjuuqUmtqnn5SoV35yBtLvuFXwuOdjSiYUmNXjlnzEg%2F3QnTYcmeRLGKDpmaoO9aCHtz%2Fy%2FSYPDmcEgX7Lbf%2BA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2Fd4d339c596c0f99ad711348b99577f8d%2FIMG_1602.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/d4d339c596c0f99ad711348b99577f8d/IMG_1602.jpeg?Expires=1789599920&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xtDtU0j0wxxqEa74e6z6zxBV%2B8BNPGgRWNRZazJTMhb%2BjnZ2y5QYhezG83Kn446A%2Fnr7mP0zrEya59Nvrd0x%2BkCsFpiXO1GWxsza%2FGJgJ6Kxir5cRe0x%2B%2Bfy9MzPfkfUmC8KIHq%2FiM6KhUnR%2FnMDIQfHCNg2xB7tecPZ3P4dOWzze2D5pPqx2T0IJw4ZxqScNg0NQC9ud3b2vEVdLF8YTR1wirX4z%2BvYwBo53Psts7a0lYcwjKaJbgkc9%2BSMmyGqlHacX%2Fn7hvWbwkl%2BjfSaxjQ8zTjafI1BGdwArZEUpr3Akzw5ipAOU28XrxmF5cNEJZw5R4j7WckkdLH%2FYtnT9g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2Fd4d339c596c0f99ad711348b99577f8d%2FIMG_1602.jpeg)
 
 #### Comments (4)
 - **妖夢推し  荒羅死対策本部幹部特別荒羅死特攻隊** (Sep 09, 2026 08:05am): ｗｗｗ
@@ -5070,7 +5109,7 @@ fernって名前のやつ　履歴消したらきえt
 ### 21. 勝ち逃げしてイキるのはよくないなw
 **Author:** ねっこ (good_by)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/1b362656361b68d797f45c518f5ba617/IMG_1601.jpeg?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ue5rGb7uXcZtjNtiPxyBYeShbw0s9cFs0LIVwS%2FElitllKW7hpSv3tixzGMDn8cxo2Hqbm8NEgoiU8Y2%2BN2%2FltGHICDSnI4rb1jS6%2Bk8Z6psh5bNdlqH2%2Bj6S0zgUbYwLV4wYs7nUs2h6%2FMV82O%2Ffh6Nd8EYCiy43qIggsuQ0AuzC8rGKFH7vRMYO%2B8DyEX%2FDEI96GoWGEYEXH137UEEGsHzbQwhQC7nW4yaojWB%2F7fPcH7qy5b1ZJQ9E253mbd8J85wjBSxS6VpDGMMiCSQmMzLxojnRjmvtOznbyZy0DcVfcAw9Vz6FYNG933XiqmYUMhJeaKdYXlYMixCt61%2BCQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F1b362656361b68d797f45c518f5ba617%2FIMG_1601.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6112439189/1b362656361b68d797f45c518f5ba617/IMG_1601.jpeg?Expires=1789599920&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=gqtgxBkUY4HvSqk%2BXEAxh17YY1tIBsRQ1%2B1xtyk4klwN2i3b04Xlyhg%2FBldj2qKiJEE5FLTTJMxgb%2FvpkwrHEi%2F2ZA7e01F1CQjJppvZ1AWTD3NJDDKOt6%2FGRUq5RXKTwsJPlUfGKZeHhg6nubaD4OWYZjnQDTe6IpjZa9%2Bm5AzmJoERCaPQ5vmtGJPm7Ei26hHGjPwvLrfPslAOeTI%2FjbpXVhoFyOXj16ERDoABYlprKMSRDF%2FcaxdxbGYhlnD9RPAao3bgAqU%2B8bHOsQ%2B4WVuZRX%2B0zwaWAzzKJWvXi37fBBPfESwauw3kTqpQEOLqASSCuV4vD%2F8AZORFu7aV%2FA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6112439189%2F1b362656361b68d797f45c518f5ba617%2FIMG_1601.jpeg)
 
 #### Comments (4)
 - **らおす＃ポテチ難民＃ポテト中毒＃ボカロ教 開祖＃轟はじみぇ軍団 最高司令官＃꒰ঌ愛໒꒱とペア画中＃初代つばさ教＃イーフト族 族長 らおす家＃半角文字軍＃ｳｻｷﾞﾊﾊｵｲｼｲﾖ** (Sep 09, 2026 08:02am): 普通に厨二病
@@ -5131,7 +5170,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=3yUbsSaRHZ%2BeXDfqNtvDt2KfAg2P4gPXU5yaCwIKaxSF8YFfTKPGsQK%2BLqFsTyztKnd0zb7fRIusrNFStKmrexkYmviFmeWPRQKORRjX65ontzIadeL3pTEvVQ2LMDOsQESXGzYs4c1EwUAF9DTXJBEyQ%2B4wq1YBjexgwrwIKF%2BDtdVxz47vYPdiukCodHsEH564OuGlY%2BDsTs%2FZ19giZnyFtc%2FbvN5VqqluQNRCi6jSipCgHr%2BZOEONDDVpWHwCL0CYr6dknfnRMqpA7MgqRj1ZPWfqcGp4dLC7zfZu7AFYFCY8pZ72%2BboG2m2zgJdHNdyjX4DAp%2FlIRwiE21KkLg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789599920&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SESBOQOjsUnSGCM6eV7gExAFgQcJmkLc4hS%2BxTxoSyaaAernG7mKvIP3gu1JLkF%2BzKVsmT9m7WZHroTLD9TtWc4VZAoc%2FimVp2glUqPS%2Bx5YXutetWTRC%2Fp%2Bq8PuDBEf25Ka4Wm1OD3uQSjm%2BYXoxgVIcKc3YyAPE5f246E%2FWMUy3xNdNrOQVxG9LXJHrcyb40zovbB8BcgB4OG4g7DYQEIKRAxh86myCNakQ1%2F9WPEiNsRIG1TFytHPGsjyT2nXgj51x%2FL70h2ZRrRJkBTBIkJA9ne%2FUrOwejLHGFgBV5Fe05bhQWlosOrf3SkpEYGXTBSX6UPC6MOthTq7LOM%2Bcg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (8)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -5200,7 +5239,7 @@ ID:shibboleth
 ### 1. Post 1
 **Author:** たい焼き　ネッコを後継します (taiyaki0201)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5819951289/a1656be5fba3a42e1d4bb6a2985495a2/IMG_1325.png?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=3Uh2koeUdgxf7FLSR%2BPR4xdzmxE14iyQO1CASUIKBsKdBdnGejbEHraX2yR8rF6GN4OEIWHUrF%2BdcJKWgIY%2FXtEMpEXEbvLvkt3FMVInYV%2BiCmkg2qGmIlj45luqdJ8O1Jmn7ZZ%2BYJub7j6Gl9svo7lEiGI%2Fchzc2LvtVPkc4cfq07GI3nrKmRzcLNSxr1N8PsSg%2FDV%2FxX5dP5QOAbYeHXtik82eaBTtgALH1NPYo%2FQxmoUgHyH6jlPiE30ypQKwEFKPNlTkycse6tEcuU22VUsyFJ0gBmiiJhPe%2Bj9uSy4Jqr1fyytRQw9rz7QrOZ3g9S%2BUxKOmRzJ6a84sIL2oYQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5819951289%2Fa1656be5fba3a42e1d4bb6a2985495a2%2FIMG_1325.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5819951289/a1656be5fba3a42e1d4bb6a2985495a2/IMG_1325.png?Expires=1789599920&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BPAztc1Lx%2F%2B36EfxNroLxZgdgDU1TCMkUgx5tlKrgpVr%2BT8%2F34JJwo7byAkN8fZmi6NI%2Fg3CLrBKucdvbmwvZO%2BNx4yYclq1%2Ft4WwvMvVBxuELN9O6OhQr1GTqSEQLMSw99CmOLIWOwdAPxJZ1sFRo%2FizWhtddiUV1R%2F3xTx8Qq99Q%2BVWi%2BRWkrRAabPCpevGtoFTfHFqG%2BL7ozCPTlYLLJdckBh65SPSOdg25oY98YEJnqxPXT8naEml%2FxLRcFufIfNzNKbfJtfNrv2WtDndBztzAEuMtWGBLl8qOLs203rxpiojwIjcSoRWgRlpmSonW8DNCFGPa8FSgi3Fg8vlA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5819951289%2Fa1656be5fba3a42e1d4bb6a2985495a2%2FIMG_1325.png)
 
 #### Comments (4)
 - **たい焼き　ネッコを後継します** (Sep 09, 2026 03:39pm): かぼちゃさんやばいですよ
@@ -5296,7 +5335,7 @@ ID:shibboleth
 
 [https://www.youtube.com/watch?v=LOHXVrYXlIM](https://www.youtube.com/watch?v=LOHXVrYXlIM)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6217746321/d7cf1611ceb3343887194242af070099/main.png?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=U%2FQdwc8Xj7val3RO3jNNmF6oKBkFWTE74vvOrpXJ5PIKTmPpVdNTqC61fpmSX83BH3RByCpF3b7VUfKpBIzTt7vvM7n4mLG6zi7RH672O%2FnOeor6SefTNn%2FrkY%2FoYvfm0Z6roqqXpRmdyJjtvnDlk5TVtqbwqdjmREUeh5Uowoz4CcgqU8qLtJy9NGceOeI4TJ5ikSBll1NsygWlBF4gYxIEYP3LtedDFzG0NpDo3MRsHq43lqFD1S3euuqzPzFfOHTD6VRPEMZ5RIIswieES6mMtGRz4HJ7NV3cIjlx5CHnJMEJFUYVVC6POwz18AD6GTwXFAGHkifpG%2FdguumMAQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6217746321%2Fd7cf1611ceb3343887194242af070099%2Fmain.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6217746321/d7cf1611ceb3343887194242af070099/main.png?Expires=1789599920&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rvrhpyPPzhh4RXGfQmgjCwdPwpCItdsBSEFlUQeeiDjYMccSfe3S1Bhmrrx81PtS4Lf%2FDNA1goPeVxFsF180mLwRfa2vCFLkJYZuqrM%2FXWJn3XIp53dvnIQcbnxevTGvd%2F%2BpI%2BkwpdF0fSDQljE9tn8t33LvH5CTmZp42bGmO4VkqaIJ3yzv6OGKDhT0tAicVOGZrpm9qonnljrZ%2BHPifokW8sHprATxDPIiSG2d2JiYm6NhW4Vqa9VXXIMJ5tahAhvASGbutmblLDKFkO6gasXP7xPdWRtbEX6hxNsCaSc8j5DoYBklzQyARwYcjRvDJjdGbUk9xukUEnk0Hew3XA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6217746321%2Fd7cf1611ceb3343887194242af070099%2Fmain.png)
 
 #### Comments (5)
 - **ゆあん** (Sep 08, 2026 09:16am): まえすけのどうがみれるよ！みたいのがあたら↓
@@ -5335,6 +5374,9 @@ ID:shibboleth
 **Author:** ねっこ荒らしていい？荒らしていい？ガイジばっかだし
 
 あ
+
+#### Comments (1)
+- **こうき** (Sep 09, 2026 11:03pm): この投稿誰か消しといて
 
 #### Additional Information
 - **Post color:** White
@@ -5486,7 +5528,7 @@ ID:shibboleth
 
 ムービアリンク貼ってくれませんがお願いします
 
-#### Comments (45)
+#### Comments (46)
 - **わらびもち** (Sep 07, 2026 02:38am): こいつに教えないほうがいいですよ
 - **ゆうとでーす** (Sep 07, 2026 02:38am): 誰か貼って
 - **わらびもち** (Sep 07, 2026 02:39am): こいつに教えたら規制されます
@@ -5532,6 +5574,7 @@ ID:shibboleth
 - **Anonymous** (Sep 09, 2026 11:46am): それが名前なの？
 - **わらびもち** (Sep 09, 2026 12:13pm): ミネビってゆうとのリア友の可能性がある
 - **わらびもち** (Sep 09, 2026 12:15pm): ゆうとはこの前芽吹ってやつに本名バラされてた
+- **Anonymous** (Sep 09, 2026 10:29pm): まじか
 
 #### Additional Information
 - **Post color:** White
@@ -5775,7 +5818,7 @@ ID:shibboleth
 ### 4. Post 4
 **Author:** 救世主
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789580597&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1g5OlPHsWkAIpN2vK%2FOe4MSwZDhv%2FfNP3BpGtoyis2Fjhav40pWkLCJHe3JTGcIvjc6b5J69UVZMi%2FcGkZqbtUXc1qhn%2FhnP7khX3mcXtI4N3CmfvdP4FWUN6lCeo9Ucy63hcOfCpmydSXbFWw81hhTiESnp6zgmCr%2B3A%2BfcJ9S74z3OKMGdH7hwSiTCu1krIUv4zJXTdy9UGkWuR%2Fg0Adgr95nxEfvohXx76sdkysHDti4hAQOkM48xTE3BcWfND3HpURaqAvY%2BqQBT0nA8CsXjPRghCP87Q09LqRTokhlaeDk5iYqtvic1t7W%2BEn63kAnLmVHxLTAvzamfA9gtYA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789599921&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JXWfPfpxwx5BEVczq0ZsmM2%2Bs%2BEtk6WrHGyQoUFGBch7nTi%2Fm0xLfxysCRDkumu%2F79bVku55Xt6ITImqN%2B4jzx%2BkXJubOPuXwye7OY%2Bz1uj2q%2BhC46PDi88H3iRPt132DKYGp8Dn281HI784IrsBCd8FgYXoGSSTOkhnJaa9%2Bukbxrbg7nFDgfWMQJppr0JJHqq4Qi6WjOXVRCGgGOFFI3%2BPEhFBdaCZvAc4kG%2BxLHhYHH7k9Q0zPd4BHm3YmtDdLTeFoQOsspGG2rG2bfH3puZcES6SYFDRl1F1NSt3W2LQsRhoTQkm1gl3Hkpo%2B0EbOQC9SgeTZneYxwiTfa1jdg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
 
 #### Additional Information
 - **Post color:** White
