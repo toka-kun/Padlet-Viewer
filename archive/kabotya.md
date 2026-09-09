@@ -1,4 +1,4 @@
-最終取得: 2026/09/09 13:42:28
+最終取得: 2026/09/09 13:51:57
 
 # 規制突破の世界
 
@@ -7,16 +7,16 @@
 - **Builder:** かぼちゃ (kabotya)
 - **Posts:** 174
 - **Created At:** Aug 20, 2024 06:37am
-- **Updated At:** Sep 09, 2026 04:43am
+- **Updated At:** Sep 09, 2026 04:52am
 
 ## 雑談
 
 ### 1. そこまで嫌なら来ないでいいと思うよ、質問されたから答えた、それで反応してくるならまず来るな、次なんか変なことしたら匿名は入れなくします
 **Author:** かぼちゃ (kabot)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789533817&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0JW6ovHTRPjUEE3SMHaGl0Unf2S6i6lIRhNgWPMhtIfT%2BlfSBG3fs8OpXvQ1PE%2BBwCekBmTQnkWDvo3bCFhY1B05qOda%2BDQRt7DBCVGLfCgalzb3rWXb%2FQdHsHwTMjkgzWShm9S3qHKk9TB6HPDyqMPTxUz4x2uJOCmJKRB5%2Fy2%2BkRAkaZkxWUM2i9Afy3y2tb0i%2BsYknupzZ7t2R%2FgYPH9z5NQpcx4szzJWqvV92zTAKZLjmzDv2yNM9CO%2F4KqLd0D3LKkNTMGgE9UfGAN4XC3LCI1BEJERMFuydl0VPWneiZ%2FOkAFTk%2FSjm4XjZJjB1TvWWLbXPYqJ4%2BZFlHpzqA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4916647678/d9c52e1e5c418c828aad661b1448c77a/Screenshot_2026_09_06_21_18_37.png?Expires=1789534385&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YDTHAQCxsbJdJz0Xlwkdw%2BuDOD6BcLcgX6A1wbRwRaKP73s%2BeicrPVasSyHXYb7Huz4GaMk6OhLjMILIhiqAv91CMm%2FU9rb0YPLQSHQagdTzDsvY9m56UuDleK9wCWTCqo1J73K4a2ce2EduJzwQNG09P%2BpgNRimbXI0uMBaRJS0ofzr0THoghQcON2qdWDojiM2Nf3HtJi%2BL2G%2B3Jnb39ienGWVhXR2pEz63bqroxqHHPyReoJKQdTxVWoWK2ep80x830V2M7kXwMtTVpA4jGWxPGlPwwH9vXuHjyKait5Jt2lxLswlrbxKHjLnZhJTL%2BRYelfFqQ1%2BRIHLR2QqgA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4916647678%2Fd9c52e1e5c418c828aad661b1448c77a%2FScreenshot_2026_09_06_21_18_37.png)
 
-#### Comments (37)
+#### Comments (38)
 - **清水** (Sep 06, 2026 12:50pm): べつにこんなこと言ってる人にかまわんくてよくね
 - **清水** (Sep 06, 2026 12:51pm): あと2日くらいずっとクラッシュしてた
 - **かぼちゃ** (Sep 06, 2026 01:24pm): まあこれだけなら良かったけど他にも匿名は色々と長文とかコメントでうざいんですよね
@@ -54,6 +54,7 @@
 - **Anonymous** (Sep 08, 2026 11:55pm): おほう？
 - **Anonymous** (Sep 09, 2026 01:54am): ＳＩＭＡＮＥどうせアホなくせにここで上から目線でイキんな
 - **野獣** (Sep 09, 2026 03:12am): みんな頭ええな〜
+- **Anonymous** (Sep 09, 2026 04:45am): どうも　てかそれ俺だけな笑
 
 #### Additional Information
 - **Post color:** Red
@@ -67,6 +68,9 @@
 
 できたら書いてほしいです。
 
+#### Comments (1)
+- **Anonymous** (Sep 09, 2026 04:46am): なんでお前なんぞに教えなあかんねんアホちゃうか！
+
 #### Additional Information
 - **Post color:** White
 - **Created At:** Sep 09, 2026 04:24am
@@ -77,8 +81,9 @@
 ### 3. かんな
 **Author:** ヤクシカブト (s1923003_1)
 
-#### Comments (1)
-- **S’L Acol new,ms prayer🐉** (Sep 09, 2026 04:12am): ゴンザレス
+#### Comments (2)
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 09, 2026 04:12am): ゴンザレス
+- **Anonymous** (Sep 09, 2026 04:46am): せとかんな？
 
 #### Additional Information
 - **Post color:** White
@@ -100,10 +105,11 @@
 ### 5. 誰か一緒にゲームしよ
 **Author:** たると
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6223934719/a66526e0fcea17bbc7fd2aba7de40234/audio.mp3?Expires=1789533817&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=XKZOuFm5foyhbzb6etDfSlRGcVfQeKpWM%2Fwxuqum30XxXYBlaFRf4FCxav9ume%2BpmAEHvfm3ZMJaZ4wW5soimLTTAwVkMHefvC3WYK1dCSCFuxzenZkTaT1gVq9LDL80whLuCa8LbKWYyQoADszg7nFn8KaXKuvPLDljNR246zqitNEqJkQntA5kUJjYgEh%2BIImtK6bwndgpX%2BxJuFC7VlbJkL7FxKkYZtja6Sr7WPyJtfFu7LSWjU2701WPv1RcieyHYNG9Etuly8u5f4ixsiaOPkwz2Rgq9NmMtNYiTfkihl34u5hNNnoqkaAhxTiEyn8r6dpghNIS8Yh%2FGivYNg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6223934719%2Fa66526e0fcea17bbc7fd2aba7de40234%2Faudio.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6223934719/a66526e0fcea17bbc7fd2aba7de40234/audio.mp3?Expires=1789534385&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uqfqM1b1TbFUICf0AAZuSQUjWfDL4beNKW%2BWoa6PY1hGupPcZ0qTw5oEZqbCEQnhCG%2FxFJPz%2BmmLhertdw6RtEVHPtLWfnyVDW4X2iLLlJjDrCPySojMmwDyluxay%2BLHbDC2f5jzs0BEHo%2Fp%2BUtNLkm1b2beOKvQIq3ikKGUqMO%2BIqDxsoWDduYGTCYJR1bkdK315Opj3HIQFu8O%2FSVuB60N8p7hkcHccLdUdf5DX5L3NmiWLHUNtTpeaABS%2FMc3%2B4IN4vATt8bwArpkg67KzGzRP6vE6mMbIumCkfrIZ0amfvNHrCepYhAQm%2FlD2IuWk9VU6FAEt1GgeoGCbnBf9g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6223934719%2Fa66526e0fcea17bbc7fd2aba7de40234%2Faudio.mp3)
 
-#### Comments (1)
+#### Comments (2)
 - **ハナグモ** (Sep 09, 2026 04:25am): 何その言い方キモすぎやろ。WWW
+- **Anonymous** (Sep 09, 2026 04:47am): ハナグモの言い方キモイのは周知の事実だろ
 
 #### Additional Information
 - **Post color:** White
@@ -152,7 +158,7 @@
 
 今度からはこういう会話はこっちの部屋でしようぜ（厚かましい人）→[https://padlet.com/minecrft/padlet-s023bx0x1fl4vfpi41pt](https://padlet.com/minecrft/padlet-s023bx0x1fl4vfpi41pt)
 
-#### Comments (310)
+#### Comments (311)
 - **ねっこ** (Sep 08, 2026 12:51pm): 🧐
 - **おなべさん(新垢** (Sep 08, 2026 12:52pm): つまり匿名のせいじゃないってことや〜
 - **おなべさん(新垢** (Sep 08, 2026 12:55pm): あとここ来t（（殴https://padlet.com/minecrft/padlet-s023bx0x1fl4vfpi41pt
@@ -463,6 +469,7 @@
 - **おなべさん(新垢** (Sep 08, 2026 04:30pm): こういうY談ややばい話はここでは控えた方がいいと思うので、もし次があるならば→https://padlet.com/minecrft/padlet-s023bx0x1fl4vfpi41ptの方で（一応言っといただけっす、気にしないで）！
 - **Anonymous** (Sep 09, 2026 12:27am): ねっことかいうインキャ会話すらまともにできないアホ！
 - **キチガイブルー** (Sep 09, 2026 04:21am): なんでネッコはレスバ始めんねん。しょうもなすぎ
+- **Anonymous** (Sep 09, 2026 04:48am): マジそれな！てかその相手はマジ天才かよ 頭の回転早すぎ！
 
 #### Additional Information
 - **Post color:** Yellow
@@ -498,7 +505,7 @@
 ### 11. おっぱい触りたい
 **Author:** ユメミソウ
 
-#### Comments (24)
+#### Comments (25)
 - **おなべさん(新垢** (Sep 08, 2026 05:40am): 自分の触ればよくね
 - **アカネノ** (Sep 08, 2026 11:18am): ユメミソウって名前なら夢でみとけ
 - **Anonymous** (Sep 08, 2026 01:06pm): おなべさんチュー3だからきょにゅうってか？
@@ -523,6 +530,7 @@
 - **Anonymous** (Sep 09, 2026 01:57am): あざすーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 - **Anonymous** (Sep 09, 2026 01:57am): 図星だったんだね
 - **ユメミソウ** (Sep 09, 2026 02:12am): 小さすぎて触れないんです！
+- **Anonymous** (Sep 09, 2026 04:48am): ユメミソウ女なんだ！いいねェ〜何歳すか？
 
 #### Additional Information
 - **Post color:** White
@@ -647,10 +655,10 @@
 ---
 
 ### 20. 規制突破
-**Author:** S’L Acol new,ms prayer🐉 (s1923051_1)
+**Author:** *S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉 (s1923051_1)
 
-#### Comments (23)
-- **S’L Acol new,ms prayer🐉** (Sep 04, 2026 02:26am): どうやったら部屋作れるんですか？自分も作りたいです
+#### Comments (24)
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 04, 2026 02:26am): どうやったら部屋作れるんですか？自分も作りたいです
 - **かぼちゃ** (Sep 04, 2026 02:08pm): 作成のところを押してから、列とかでそこから設定とかで作れていったりする、色んなとこで宣伝したらみんな来るようになる、まあ最初はたくさん荒らし来ると思うけど4年とかしてたら慣れていくよ、
 - **Anonymous** (Sep 04, 2026 03:04pm): かぼちゃ何様？予想の答え「俺様」こんなサイトでイキんな
 - **Anonymous** (Sep 04, 2026 03:25pm): もしかしてかぼちゃって教祖？名前ダサすぎるから変えなよ
@@ -673,6 +681,7 @@
 - **Anonymous** (Sep 08, 2026 01:08pm): 笑　マジそれな
 - **Anonymous** (Sep 08, 2026 11:58pm): カマキリ負けてて草
 - **カマキリ** (Sep 09, 2026 01:23am): 見てただけの人は首を突っ込まないでね♪
+- **Anonymous** (Sep 09, 2026 04:49am): かまきり…負けてて草！いいわけもくさ…くっさカマキリの口臭くっさ
 
 #### Additional Information
 - **Post color:** White
@@ -806,7 +815,7 @@
 
 #### Comments (11)
 - **ヤクシカブト** (Sep 02, 2026 04:53am): こんにちは
-- **S’L Acol new,ms prayer🐉** (Sep 02, 2026 04:59am): ヤァ 
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 02, 2026 04:59am): ヤァ 
 - **Anonymous** (Sep 03, 2026 03:17am): 薬師兜sexしたの嘘だろ　まじマザーファッカーだなそんなこと如きデ…性にタブーなこの国では神扱いか？アメリカとかどうなってるか調べてみ
 - **匿名** (Sep 03, 2026 07:34am): ｃｄくえふぇｆ＠ｈｐｂｃｗぷｆｐれｐｂｐｃくｆぶｆｂｐｃｐｆｂるｂｐ
 - **匿名** (Sep 03, 2026 08:14am): がはははははははははは
@@ -828,14 +837,14 @@
 ---
 
 ### 28. だる
-**Author:** S’L Acol new,ms prayer🐉 (s1923051_1)
+**Author:** *S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉 (s1923051_1)
 
 #### Comments (9)
-- **S’L Acol new,ms prayer🐉** (Sep 02, 2026 04:30am): やめろカス 
-- **S’L Acol new,ms prayer🐉** (Sep 02, 2026 04:50am): Nannka
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 02, 2026 04:30am): やめろカス 
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 02, 2026 04:50am): Nannka
 - **ヤクシカブト** (Sep 02, 2026 04:55am): 😁か
 - **ヤクシカブト** (Sep 02, 2026 04:55am): こんにちは
-- **S’L Acol new,ms prayer🐉** (Sep 02, 2026 04:57am): やべぇ 
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 02, 2026 04:57am): やべぇ 
 - **Anonymous** (Sep 03, 2026 09:15am): 薬師兜どうていのくせにいきんな！
 - **Anonymous** (Sep 05, 2026 05:46am): え、まさか本当に「漢字を知らないからひらがなで書いた」としか脳内変換できなかったんですか？デバイスの予測変換の挙動や、タイムラインでの文字の視認性、あるいはあえてひらがなにすることで文章全体のニュアンスを調整するっていう「意図的なタイピングの選択」があること、普通の知性があれば一瞬で察せると思うのですが……。あなたの中では「ひらがな＝漢字を知らない」という小学生レベルの方程式しか成り立たないんですね。自分が思いつける一番浅い解釈に飛びついて、「漢字もわからんのかよ」ってドヤ顔で書き込んでいる姿、正直見ていてこちらが恥ずかしくなります。そんなに必死になって他人の粗（に見えるもの）を探さないと、自分のアイデンティティを保てないのですか？文字通り「言葉の表面」しか読み取れないその硬直した脳みそで、よく今までネットの海を泳いでこられましたね。わざわざ自分の想像力の欠如を世間に晒して、ドヤ街の王様みたいに調子に乗っているその「無知のエネルギー」、別の生産的なことに使った方が人生豊かになりますよ。
 - **Anonymous** (Sep 08, 2026 12:03pm): 賢いふりするな!バカがバレる！！
@@ -932,9 +941,9 @@
 - **ええいいここえいこ（えいこってよんでね）** (Aug 31, 2026 11:27pm): それな
 - **カゼドリ** (Sep 01, 2026 05:53am): 先生きらーい
 - **ヤクシカブト** (Sep 02, 2026 04:52am): セックスした
-- **S’L Acol new,ms prayer🐉** (Sep 02, 2026 04:58am): おいやばお前
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 02, 2026 04:58am): おいやばお前
 - **Anonymous** (Sep 03, 2026 05:04am): 「学校がだるい」「行きたくない」ってわざわざネットに書き込んで、同じレベルの仲間見つけて安心してるの、本当に時間の無駄遣いがお上手ですね。だるい言いながら、わざわざスマホ開いて、文字入力して、他人の愚痴に共感するだけのエネルギーは残ってるんだ？その有り余るバイタリティがあるなら、大人しく学校行くか、いっそ全力でサボって自分の好きなことでもすればいいのに。ここで傷の舐め合いをしたところで、明日も明後日もその「だるい学校」は消えてくれないし、あなたの人生の貴重な1日が無駄に消費されてるだけですよ。……まあ、本当に限界を迎えてガチで病んだら、それこそ「だるい」じゃ済まないくらい心身が死ぬから、そこだけは手遅れになる前に自分でブレーキかけなよ。でも、ただの甘えや現実逃避で言ってるだけなら、いつまでもここでウジウジ日和ってないで、さっさと現実と向き合ったらどうですか？
-- **S’L Acol new,ms prayer🐉** (Sep 04, 2026 02:07am): その打つ時間現実向き合え
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 04, 2026 02:07am): その打つ時間現実向き合え
 - **Anonymous** (Sep 04, 2026 03:38am): 長文を読む集中力がなくて、性的な単語しか反応できないのは、義務教育の敗北を感じて切なくなりますね。わざわざ私の文章に時間を割いて自己紹介してくれてありがとうございます。その時間、現実の自分と向き合った方が有意義ですよ
 
 #### Additional Information
@@ -996,7 +1005,7 @@
 
 学校嫌だ
 
-#### Comments (9)
+#### Comments (10)
 - **ミズノネ** (Aug 31, 2026 01:50am): 明日から学校始まる
 - **Japan** (Aug 31, 2026 06:00am): Totally.
 - **ゲーム** (Aug 31, 2026 06:29am): あああああああ
@@ -1006,6 +1015,7 @@
 - **Anonymous** (Sep 03, 2026 05:07am): ネットの片隅で「だるい」って言い合って安心してるの、義務教育の敗北って感じで本当に味わい深い。せいぜいそこで、同じレベルの仲間同士仲良く慰め合っててよ。
 - **戸田虎太朗** (Sep 04, 2026 10:52pm): まあその義務教育の敗北より、君は終わってると思うけどね
 - **Anonymous** (Sep 05, 2026 05:53am): 「義務教育の敗北」なんて便利なネットスラングを覚えたてで、さぞかし自分が『義務教育の勝利者』か何かにでもなったような全能感に浸っているところ、本当に申し訳ないんだけどさ。まず、義務教育って「全国民に最低限の知識と社会性を身につけさせるためのセーフティネット」であって、それすらクリアできていない人を見つけて嘲笑うためのライセンスじゃないんだよね。もし仮に相手がその最低ラインを下回っているのだとしたら、それを必死になって叩いて優越感に浸っているあなたの精神年齢は、一体どこの教育課程で止まっているんだろう？「あいつは義務教育の敗北者だ」と得意げに語るその姿そのものが、他者への想像力や、多様性を認める倫理観といった『義務教育で最も叩き込まれるべき道徳や社会性』の決定的な欠落、つまりあなた自身の義務教育の完全なる敗北を綺麗に証明しちゃっているの、本当に最高のアイロニー（皮肉）だよね。教科書の文字をなぞるだけの暗記は得意だったのかもしれないけれど、それを実社会や人間関係に活かす「知性」までは育たなかったみたいだ。記号化されたネット言葉でしか他人を煽れないそのボキャブラリーの貧困さを見るに、国語の授業も相当居眠りしていたんじゃないかな？そんなに自分の『勝利』を誇示したいなら、せめて義務教育レベルの煽り文句から卒業して、もう少し自分の頭で考えた高尚な言葉を使ってみたらどう？ まあ、基礎が敗北しているあなたにそれを求めるのは、少し酷な話かもしれないけれどね。
+- **カワホシ** (Sep 09, 2026 04:52am): 警報キターー
 
 #### Additional Information
 - **Post color:** White
@@ -1094,7 +1104,7 @@
 - **おなべさん(新垢** (Sep 03, 2026 04:27am): 重くすらなってない
 - **Anonymous** (Sep 03, 2026 04:58am): 文字化けレベルの書き込みと、それに群がるチンパンジーの鳴き声。どっちも低レベルすぎて、ここだけネットの底が抜けてるのかと思った。お互い自分の姿を鏡で見てから書き込んだ方がいいよ、本気で滑稽だから。
 - **Anonymous** (Sep 03, 2026 06:47am): おなべさんここにもいたんか！ホシウタやで
-- **S’L Acol new,ms prayer🐉** (Sep 04, 2026 02:28am): 時間の無駄
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 04, 2026 02:28am): 時間の無駄
 - **Anonymous** (Sep 04, 2026 03:13pm): そんなに狭い視野で生きているほうが、人生の時間としてよほど無駄が多い気がしますが…そうですよね？nannka YouTube さん？
 
 #### Reactions
@@ -1254,7 +1264,7 @@
 ### 10. 原神やりたい
 **Author:** バカでアホな天才
 
-#### Comments (12)
+#### Comments (13)
 - **Anonymous** (Sep 03, 2026 01:37pm): あっそ勝手にやっとけそれってもしかして誘ってる？変態かよ
 - **カマキリ** (Sep 09, 2026 01:27am): ゲームやりたいっていてルだけで誘ってる？って思ってんのきも
 - **Anonymous** (Sep 05, 2026 05:58am): ファっキュー
@@ -1267,6 +1277,7 @@
 - **ユメミソウ** (Sep 09, 2026 12:09am): カマキリ誤字ってるやん
 - **Anonymous** (Sep 09, 2026 12:15am): どこが笑？ユメミソウアホですな！
 - **ユメミソウ** (Sep 09, 2026 12:36am): きもいオタクかよ↑
+- **Anonymous** (Sep 09, 2026 04:51am): ゆめみそうって美人？
 
 #### Additional Information
 - **Post color:** White
@@ -1368,7 +1379,7 @@
 - **えいこ** (Sep 03, 2026 12:35am): スペースキーでジャンプ六ケットはスペースキー押したら上に上がれて話したら下に上がれるよ
 - **おおぬき** (Sep 03, 2026 05:20am): dekinai
 - **Anonymous** (Sep 03, 2026 06:48am): ローマ字打ちださ！時代遅れかよ
-- **S’L Acol new,ms prayer🐉** (Sep 04, 2026 02:29am): 悪口やめろよ
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 04, 2026 02:29am): 悪口やめろよ
 - **Anonymous** (Sep 04, 2026 04:13am): 悪口してる人に悪口やめろよ
 - **えいこ（あだ名です）** (Sep 04, 2026 11:02pm): これ友だちが作ったやつ
 - **えいこ（あだ名です）** (Sep 04, 2026 11:02pm): リアの
@@ -2135,7 +2146,7 @@ fernって名前のやつ　履歴消したらきえt
 - **Anonymous** (Sep 03, 2026 09:18am): マジそれな
 - **Anonymous** (Sep 03, 2026 02:18pm): いまじい
 - **Anonymous** (Sep 03, 2026 02:18pm): してる
-- **S’L Acol new,ms prayer🐉** (Sep 04, 2026 02:30am): きも
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 04, 2026 02:30am): きも
 - **Anonymous** (Sep 04, 2026 04:16am): 「s⚪︎xしました」って、わざわざここに書き込んでる時点で必死すぎてクソ面白いですね。 世界的な基準から見れば、そんな大したことない日常の一コマでしかイキれないの、日本の閉鎖的な性タブーの悪い影響を煮詰めたような存在で哀れにすら思えます。 タイピングする時間があるなら、そのスカスカな脳みそで少しは本でも読んで、長い文章に慣れる「現実」と向き合ったらどうですか？
 
 #### Additional Information
@@ -2181,8 +2192,8 @@ fernって名前のやつ　履歴消したらきえt
 **Author:** かぼちゃ (kabot)
 
 **匿名は入れなくしたほうがいい？:**
-- **入れなくしたほうがいい:** 6 votes
-- **入れなくしたらいけない:** 2 votes
+- **入れなくしたほうがいい:** 8 votes
+- **入れなくしたらいけない:** 3 votes
 - **どっちでもいい:** 2 votes
 
 #### Comments (2)
@@ -2192,7 +2203,7 @@ fernって名前のやつ　履歴消したらきえt
 #### Additional Information
 - **Post color:** Red
 - **Created At:** Sep 09, 2026 03:56am
-- **Updated At:** Sep 09, 2026 04:42am
+- **Updated At:** Sep 09, 2026 04:52am
 
 ---
 
@@ -2557,8 +2568,8 @@ fernって名前のやつ　履歴消したらきえt
 - **あｓ** (Sep 03, 2026 08:01am): 巨
 - **常時暇人のたけさん#T-72B3M&Su-30MKIの右腕** (Sep 03, 2026 08:03am): ２０ｗパドレットで部屋でも作れば？ｗｗ
 - **Anonymous** (Sep 03, 2026 01:45pm): また　たけさん…うざったいな
-- **S’L Acol new,ms prayer🐉** (Sep 04, 2026 02:30am): たけさん
-- **S’L Acol new,ms prayer🐉** (Sep 04, 2026 02:30am): すごい
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 04, 2026 02:30am): たけさん
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 04, 2026 02:30am): すごい
 - **Anonymous** (Sep 04, 2026 04:20am): なんかぁYouTube〜「長文」って言っても数行程度ですよね？ それすらまともに読めない脳のキャパシティで、わざわざ「ここに書き込む」という無駄な時間を費やしてリアルを疎かにしているのはどこの誰でしょうか。アメリカから見たら「性」の捉え方が論外なレベルで遅れている環境で育つと、そんな嘘くさい報告でしか自己肯定感を保てなくなるんですね。ここにそんなクソみたいな書き込みをしてる時点で、あなたが一番現実から逃避しているように見えますよ。可哀想に。
 - **Anonymous** (Sep 08, 2026 10:57am): https://aigc.uploads.dev/image/cab5b9a1f99129dd5be44b1a75e563787ecd15b23312ffa1ea562215941cd736.jpeg
 
@@ -2616,7 +2627,7 @@ fernって名前のやつ　履歴消したらきえt
 - **Anonymous** (Sep 01, 2026 12:17pm): 90000ちょい
 - **フユツキ** (Sep 01, 2026 10:23pm): １００００ぐらい
 - **げむちゅう** (Sep 02, 2026 12:30am): 19000ぐらい
-- **S’L Acol new,ms prayer🐉** (Sep 02, 2026 04:40am): 7万トロ
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 02, 2026 04:40am): 7万トロ
 - **カゼビヨリ** (Sep 03, 2026 05:33am): おれマス2 
 - **Anonymous** (Sep 03, 2026 05:48am): 自殺しようか迷ってるからお前らで決めて　では…4時間後にチェックするぜ
 - **Anonymous** (Sep 03, 2026 09:19am): 誰か答えたれよ！タイムリミットまであと1時間！
@@ -2679,7 +2690,7 @@ ID:shibboleth
 
 パスワード：opensesame
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789533818&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EfoCTLZZ1SX3R630TZbsnncYke1dVw8WrB%2F%2FFSdLU3r1Dy%2F1ndqrLZJiUp4O6fhmy%2FqxZK5qDF32yInUqSfxAJTP8WSmk4Zfm5gyBF7YzNFaufmhbzB0AcjUoEEcvhHvWdTbp8XYlHb0dcR7Is%2FIqubwvcTCzoLXHZJ1nAh%2F9sJVwCSl7VhxeHlQasQOQU%2FJTAYtPhw%2BlsVUhHwgIflRyXvPVMBB%2BUOU2igf4ZDk1Ww4PCVHFzwYo6BK37Proq2vjpz3xsvprwlBBT83xgYT8Az5p9G7zXRhDHTNBF9sa17bd%2FW7bvQ%2BDXxAS6CKR5magm2NMJdF4NmUfnmgI1mBUg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6184745061/228fce17d36989c6e77eb97ef68794ed/IMG_2349.jpeg?Expires=1789534387&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cKnWNWtmXLgrR7Tpk3Yv%2BRY0JlzPmXNAHamIwz5nwE9mXMEie63YJ5BFY0we2%2Fmm9Jn1sQUpEn%2BF%2FOBxo%2FoCZabsh9PmXQy17r5wqTUGG%2Ffi2BSoKl6RP8NQ9apBziszBL02OzC%2BFIJYR8dh76B9QJ%2FfWIxFNYTu8NNmNIHtWR0Q2R4MGKj2TAHL8XaiMVjho6ix4s3MVDgbJkf7QN2XeP0WV7sWl7bN32aiW2lQ6QjRermGSIa24NaJANnP0LZcfqKiMQYtxTnVOauIUrGSeUmidpOmjb4AhJAHjwVSt7FTYMVLWEP0K9hmtLUzEwKMLJQb5eCCa8rRzWBoCRBWmg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6184745061%2F228fce17d36989c6e77eb97ef68794ed%2FIMG_2349.jpeg)
 
 #### Comments (8)
 - **ナゲット** (Sep 03, 2026 02:27am): 使えなかったらごめん！https://utopia.isgc.nana.govt.hu/もある
@@ -2765,7 +2776,7 @@ ID:shibboleth
 
 [mellojoyjapan.com](http://mellojoyjapan.com)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6224168223/0e0e6be6eda5c9753d7ae4173f8284ae/b8dd2e83a9284d1c8a5d22b594d94a49_thumbnail_0000000000.webp?Expires=1789533818&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1JTdHp4rWtlBjt5CLeyx2poOg%2FGbjRFbBcZruO5pvmcsixLju31Pf%2BqSNQtlS%2F%2BMdf8TCvExalIhjtps6ITmbEf5%2B0jsp11fatsCnZTgcVLnYA3RupsoCwQbqLgn1n54d78xDLwyx%2B8BpiwX2yvxfVjSZ2tx4RrgPg4LAzAJXcY1HQN21sZ%2Fc3YSyr4dSeY1vx%2FGkYwMoOaS9LLqs4xASaDqu4Ww5fKOTJfHvAgacPnuBsemxLAPzjluaa4YcrQ%2F3bhAQZd%2FSexGGnrMl5IPM2JT07dlMVxLDCHsQklIsMo2cVDrW2KFP%2FdCr1EjXm9dRwMghJK3UInWA9fGF21MYQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6224168223%2F0e0e6be6eda5c9753d7ae4173f8284ae%2Fb8dd2e83a9284d1c8a5d22b594d94a49_thumbnail_0000000000.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6224168223/0e0e6be6eda5c9753d7ae4173f8284ae/b8dd2e83a9284d1c8a5d22b594d94a49_thumbnail_0000000000.webp?Expires=1789534387&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0wZJ3wIFoVN31Nuj3B7ukyJS2wDOVgdjphcwcxJS2eMGyQwaH3RRcf5FKCO6vk6GfiJI6HozavbYf58utuoKzalulYHYTb65u4H7rQDl9GX%2BXP2yCvFuB7pJ11SUgZ2Jx19me4v9%2FXh9j%2F5%2BNCfG0lnxjnzGlzM%2FGbZ8rXaCFzPx0naXbIAMlMqMMFlhVl6y2DQRl2q0kJRQ83uMQ%2FGlCuZDbDyfSRXGymbvQazaOV2jfKT0nsjZGBjwogn99rUqY8QYyb9c9vBxE2kBixwqwk12sxg2wQ3S5pX7439ygKf8HN3FmemwervPoFWywiipHo6OZ4g8i22pePZZaw59Kw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6224168223%2F0e0e6be6eda5c9753d7ae4173f8284ae%2Fb8dd2e83a9284d1c8a5d22b594d94a49_thumbnail_0000000000.webp)
 
 #### Comments (2)
 - **ハナグモ** (Sep 09, 2026 03:37am): 学タブだったら買えないよ〜。だって、買えるっちゃ買えるけど、勝手に買ったら怒られるよ〜。
@@ -2783,7 +2794,7 @@ ID:shibboleth
 
 [https://www.youtube.com/watch?v=LOHXVrYXlIM](https://www.youtube.com/watch?v=LOHXVrYXlIM)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6217746321/d7cf1611ceb3343887194242af070099/main.png?Expires=1789533818&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qW2MjDJY0fPPQhA3wDb%2BaCJZV6npPe1QOLwdLVjY%2BMlV6UDnXPGlbGBaNeQL8yHt9vFgSCjRHwnWzoL9n30E8XCcnBbIAq%2FPeSBsBH4FlXU%2FhDrbP0Kedpt2PuQz1aJd9OhUC91II5Kmanda6i5w7xeI8zyDOavetDfIyh%2BerZbUDLLZkQXbLjxv4HR68ePl6nRw2WO%2FZxrjgq4xawXVZMkVwlpb3l2Wrz7Huczyl%2FclwyrAwnFkKkmFkeIWPiMPEuLpQeGWOXQqGl77%2BcumiVhg%2Bwb%2BlMqDMg8JpezsFG%2Fy000a0iCuHUpoc3U4WKQLlkdHWT92Ae1fiDM6ZVWGSg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6217746321%2Fd7cf1611ceb3343887194242af070099%2Fmain.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6217746321/d7cf1611ceb3343887194242af070099/main.png?Expires=1789534387&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VNKefhxUGmvzi0C2F%2B%2FKGoEKOpVjWDgdYcdabfRaqD%2B6%2F0FTqMLr1ON0%2Fp1MDd3jdZhYKG36Jg1yyc3NZJ6IGLm07QRk4Vl16ok0PIsq6Uiw0Fig0lBPxVuLGjUAzoP29yydyQw%2B0LKUKmFPhg6dr%2FDUcxk8%2FzhurSkjEBnUF%2BZHaxMTAVwFyPkaodRrGWm2kwYAqbdUqM6xssQoyGK4ynFs87CoDBOnHB5EaM9hRwM8MSv4ldvTKSR%2BM%2BWeiGRiqSXOn2l1sWFSarDrHU8gpqD%2BQgVEo6EHvD9a6s8MBHqquHE88CRYBUpLzJASGvmoqHJtDCU8k%2B5jGwqAzFQO%2Fw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6217746321%2Fd7cf1611ceb3343887194242af070099%2Fmain.png)
 
 #### Comments (4)
 - **ゆあん** (Sep 08, 2026 09:16am): まえすけのどうがみれるよ！みたいのがあたら↓
@@ -2865,11 +2876,11 @@ ID:shibboleth
 ## youtube
 
 ### 1. Youtubeください
-**Author:** S’L Acol new,ms prayer🐉 (s1923051_1)
+**Author:** *S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉 (s1923051_1)
 
 #### Comments (9)
 - **ぐぐがが** (Sep 07, 2026 05:21am): 俺見れるよ
-- **S’L Acol new,ms prayer🐉** (Sep 07, 2026 06:40am): それください 
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 07, 2026 06:40am): それください 
 - **ハネツユ** (Sep 07, 2026 07:43am): 俺4持ってるけど　どうしよー
 - **Anonymous** (Sep 07, 2026 11:17am): gf
 - **ゆあん** (Sep 08, 2026 09:08am): わたしのがっこうのたぶれっとゆーちゅーぶみれるで！
@@ -2890,7 +2901,7 @@ ID:shibboleth
 
 ムービアリンク貼ってくれませんがお願いします
 
-#### Comments (39)
+#### Comments (40)
 - **わらびもち** (Sep 07, 2026 02:38am): こいつに教えないほうがいいですよ
 - **ゆうとでーす** (Sep 07, 2026 02:38am): 誰か貼って
 - **わらびもち** (Sep 07, 2026 02:39am): こいつに教えたら規制されます
@@ -2930,6 +2941,7 @@ ID:shibboleth
 - **わらびもち** (Sep 09, 2026 02:23am): お前みたいな悪口しか言えないぐらいの脳がないやつがバンバン入ってくるから荒れるんだよざーこ
 - **わらびもち** (Sep 09, 2026 02:25am): 自分の名前をきめる脳がないから匿名なんだろ
 - **わらび餅2** (Sep 09, 2026 02:25am): そうだよそういうやつがいるから荒れるんだよあなた人間界は初めてですか？
+- **Anonymous** (Sep 09, 2026 04:44am): ミネビの家どこだ？
 
 #### Additional Information
 - **Post color:** White
@@ -2969,10 +2981,10 @@ ID:shibboleth
 ---
 
 ### 5. YouTube見れるサイト教えてください。
-**Author:** S’L Acol new,ms prayer🐉 (s1923051_1)
+**Author:** *S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉 (s1923051_1)
 
 #### Comments (4)
-- **S’L Acol new,ms prayer🐉** (Sep 04, 2026 03:07am): お願いします🙏、、、
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 04, 2026 03:07am): お願いします🙏、、、
 - **Anonymous** (Sep 05, 2026 06:34am): 無理!おっつー！
 - **わらびもち** (Sep 08, 2026 01:57am): オンライン動画ダウンローダー | 保存＆音声変換
 - **わらびもち** (Sep 08, 2026 01:57am): 三十分未満じゃないと見れないけどどうぞ
@@ -3017,7 +3029,7 @@ ID:shibboleth
 - **Anonymous** (Sep 03, 2026 06:04am): ちょっとみれなくないですか
 - **Anonymous** (Sep 03, 2026 06:04am): みるほうほうをおしえてほしいです
 - **Anonymous** (Sep 03, 2026 11:16pm): 乙
-- **S’L Acol new,ms prayer🐉** (Sep 04, 2026 03:08am): 動画見れない、
+- ***S’L A ككشطوةةننتتقعتذيثغبيفprayer🐉** (Sep 04, 2026 03:08am): 動画見れない、
 - **Anonymous** (Sep 04, 2026 03:21pm): オッツー
 - **えいこ（あだ名です）** (Sep 04, 2026 10:44pm): ごめんなさい
 - **Anonymous** (Sep 05, 2026 06:36am): めんご〜
@@ -3133,7 +3145,7 @@ ID:shibboleth
 ### 2. Post 2
 **Author:** 救世主
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789533818&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=iwHWbnmIiSbU3U1DZLRoqOtFRnju8LxlzYtH0J6BfEnyJ9g9KARYyYxHi5IdB0Uss%2FcPyE2lokO9yliW6rPgFjfk8TgBHu7lBLqR%2FA9yDkwhfYsntBgevGDHHf7cUIRa9OHHJsPPD3SNNmEKhaicqoI7OXdb%2FKvXnTx1IyaYi03zHN72PuRscnSTuVdgn0SVOM2F9YpwFATjpj%2BRv7%2FlPIV3VN7y%2FqTI2kbhg%2BhCND47YOWwaC3CpFAQQCkc4Xa3fwsYeNYgjTk0CVYbD0wPQgbMN2Div46xbGiZbr%2Be4yra5it%2FBI%2BBwsbUL91JY%2FnqBiPwWaR9PhP1yyiq5C%2F3Xg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6208325095/77e98ca92d03e7b48a97cf92848fccf0/______.html?Expires=1789534387&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=oeS%2BL17e0Z1rOLBYEHg4AFUgtpj%2FMtd8pw3FbWJ1gwl1i7N6C3gsTJ7g5RL%2FMB2%2B8mppzl%2Fdvit3kmWwSvW9v%2F5iGL%2Fia2tksD4hOtUjuihjTL%2BVmqNtJACMIn4ABxzUk76ONOlaLLW0p2wlv059zt7SBlJUXGIqUg%2BDK3khVl6GnQcArasfX0tW85zfVZa7sh9fG%2BzsDRJdlPrhfR%2F04NhEVXUdGXJhEhNjs9SkCzyH5lVG18oRhJM%2BjnN8OlHynip3UkupxxQ87VaFFNkmi9d0z6b7rfegVSjLMY9I%2BnxMw%2FgzLUJvHLK1gBBbBhzHOYXcA9n6N%2B%2FHq1WwZ1L0UA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6208325095%2F77e98ca92d03e7b48a97cf92848fccf0%2F______.html)
 
 #### Additional Information
 - **Post color:** White
@@ -3162,7 +3174,7 @@ ID:shibboleth
 
 💩
 
-#### Comments (57)
+#### Comments (58)
 - **ユリカ** (Sep 02, 2026 01:02am): まんこーまんげーちんちちんげーはなーがさいたらー
 - **おなべさん(新垢** (Sep 03, 2026 04:35am): 下ネタ言えば何でも良いってわけじゃねぇよ
 - **Anonymous** (Sep 03, 2026 05:33am): 「下ネタ言えばなんでも良いってわけじゃねぇよ」とか、わざわざこんな吹き溜まりみたいな場所でありがたく御高説垂れてる姿、最高に滑稽で香ばしいですね。 「性」の話が出た途端にシュッとお行儀のいいお説教モードに入って同調圧力こねくり回すあたり、いかにも「世間様の手前、性タブーを守らなきゃいけない」同同同調圧力が染みついた日本人らしくて実に味わい深いです。 そんなにコンプライアンスと品行方正がお好きなら、わざわざこんなネットの隅っこで不毛な正義感ごっこしてないで、現実の教科書でも音読してすまし顔で暮らしてたらどうですか？ 見ていてお寒い限りですよ。
@@ -3220,6 +3232,7 @@ ID:shibboleth
 - **おなべさん(新垢** (Sep 08, 2026 01:00pm): 脳みそ小学生レベルは認めるかも（一部の分野において
 - **おなべさん(新垢** (Sep 08, 2026 01:01pm): 小学生を悪く言ってるみたいでよくないか
 - **Anonymous** (Sep 09, 2026 04:43am): アカネノ黙れ
+- **Anonymous** (Sep 09, 2026 04:45am): 障害者くん
 
 #### Additional Information
 - **Post color:** White
@@ -3511,7 +3524,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 ### 21. セックスしたいやつなんか書いて
 **Author:** ホシノワ
 
-#### Comments (22)
+#### Comments (23)
 - **かめかめかめ** (Aug 28, 2026 01:55am): できれば爺とやりたい
 - **34b6kq** (Aug 28, 2026 03:38am): かめかめかめ　それは意味わからん
 - **匿名** (Aug 28, 2026 07:56am): イズミ雑魚ってどういうこと？なにを持って雑魚なの？
@@ -3534,6 +3547,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 - **Anonymous** (Sep 06, 2026 12:45pm): 申し訳ございませんでした
 - **Anonymous** (Sep 06, 2026 12:46pm): ですが付き合ったのは今年です
 - **Anonymous** (Sep 08, 2026 12:50pm): だっさ！今からおれせっくすするのにな！なまで！今チュー2やで！オッツーどうせお前らチュー3なってもできてないねん！
+- **Anonymous** (Sep 09, 2026 04:43am): 警察呼ぶわ
 
 #### Reactions
 - **Emojis:** 👎 (1)
@@ -3548,7 +3562,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 ### 22. ゲーム出せセックス
 **Author:** ヒカゲソウ
 
-#### Comments (17)
+#### Comments (18)
 - **ホシノワ** (Aug 27, 2026 06:54am): ゲームのサイト乗っけて
 - **ホシノワ** (Aug 27, 2026 06:54am): だれか
 - **Anonymous** (Aug 28, 2026 08:14am): Ubg67って調べて 
@@ -3566,6 +3580,7 @@ https://script.google.com/macros/s/AKfycbyFLtATPIVMGVr1-2hfiIigfwsfkm7HhutWDzMQo
 - **Anonymous** (Sep 08, 2026 09:26am): すごー 
 - **Anonymous** (Sep 08, 2026 12:12pm): 学生なんだ
 - **Anonymous** (Sep 08, 2026 12:52pm): いやいや…家が学校だと思ってるんだよ　あまりいじめなさんな
+- **Anonymous** (Sep 09, 2026 04:43am): www.
 
 #### Additional Information
 - **Post color:** White
