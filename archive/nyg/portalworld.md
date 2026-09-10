@@ -1,4 +1,4 @@
-最終取得: 2026/09/11 06:52:17
+最終取得: 2026/09/11 08:12:38
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 141
 - **Created At:** Aug 31, 2025 08:58am
-- **Updated At:** Sep 10, 2026 09:57am
+- **Updated At:** Sep 10, 2026 10:42pm
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -404,7 +404,7 @@ YouTubeやゲーム，プロキシなどが少しある。
 ---
 
 ### 13. 青の共済
-**Author:** 青の風 ♯ningen様の1番弟子です ♯つばさの2番弟子♯永遠様の☝️番弟子❗️ (sarabapkpk)
+**Author:** 青の風 ♯ningen様の1番弟子です ♯つばさの2番弟子♯永遠様の一番弟子 (aonokaze10250)
 
 閲覧数5000突破‼️
 
@@ -456,7 +456,7 @@ YouTubeやゲーム，プロキシなどが少しある。
 ---
 
 ### 15. あられ部屋
-**Author:** あられ　#翠の1番弟子　#ningen様の2番弟子　#6代目女真族 (gs183556)
+**Author:** あ (gs183556)
 
 優しい人が多いです
 
@@ -1032,7 +1032,7 @@ ver1.8.8で遊んでます　
 ---
 
 ### 38. ［野球ファンが集う写真の投稿場所］
-**Author:** 林勇希 (19jn049)
+**Author:** あああああああ (19jn049)
 
 野球の写真をたくさん載せているのでぜひ来てください！
 
@@ -1084,7 +1084,7 @@ ver1.8.8で遊んでます　
 ---
 
 ### 40. 青の風の宣伝部屋
-**Author:** 青の風 ♯ningen様の1番弟子です ♯つばさの2番弟子♯永遠様の☝️番弟子❗️ (sarabapkpk)
+**Author:** 青の風 ♯ningen様の1番弟子です ♯つばさの2番弟子♯永遠様の一番弟子 (aonokaze10250)
 
 なんでも宣伝するよ。
 
@@ -3437,7 +3437,7 @@ a
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1789681948&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E146aWIijBaiVLqozFo0Iisy51kax2JrjvIOv82emYjRwz2qtCyY%2BOZpvt1vYIhgA7QoA38x%2FcIu886Qxd8RJ7DuQ3%2BonpRfHnalMQ%2FS2N2%2FkpJ4ZIHHDkLEC6REA2o6GNW7yO49tv%2B1enz%2FPfnbCX6NNy%2B2ED4ZEpH7dfLCORoI%2B4n8AbhfynwYAjOl7de%2BimART9WcJnByaP9z6iFrCDWih140ibq9HYmSUGaHkI07xCwqsj%2B95FX9bIkAJ2WD531mDmEfGMctuIeSUifofmoJLfbowtPIxe7Gze%2BCsfJbkN4i%2BoeCSZwS3gEc5S1y1tydtcZlrzuGm0xJcHTTXA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1789686786&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ogTpwycEvRTMM62lbMUuRJBFXwtvEnNsWFETxwqVdDXFFNzwMFaK85Wtk33cVa%2FjNP%2BG9spDhJHZ%2F4iIfhi9388CUgS5OTznZltYh5Bya%2F7vq72ShGLC0UPiActvCyi0s%2FRzdr2i0YjRt5uGbO7DLzWVug%2FEl%2F6X6wgYMjewf6yoW5agllJx6MGFwDssi6UhidspcE9Jj1dtlbD9AGjy9dIRnkcevWWW%2FRbH0EqY%2FWIrHqN2lxs1h%2BbFeDJTWY2pLIAt%2B8wN0akgHWUQREKWHzy0eWclCcDFP0VHSWf6DEAOBTcw9LM3UAhJubUDtMBHZV2oyfTw%2BQXq5uzolzjIRg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (3)
