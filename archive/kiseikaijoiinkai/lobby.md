@@ -1,4 +1,4 @@
-最終取得: 2026/09/11 22:32:23
+最終取得: 2026/09/12 00:14:20
 
 # 規制解除委員会(ライター受付)
 
@@ -133,7 +133,7 @@
 ### 7. 野砲
 **Author:** ガジェット超絶z
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6203129829/590fd1eba39a80dae4ad0a86696f9d94/videoplayback___2026_09_06T192233_571.mp4?Expires=1789738382&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uLqLHbsQp3oNmtj6QDDKLtIc6foNsuXEFIVcaiTPX1%2FR7HXiPpGNjXfENzne8XlubzYtq3eNbt%2F%2FjL5Us4u6gZTkctXD0gj6CtAt%2BkaYNDHeZrp6X%2BsZtA2ytOBQIZAwH9B8m4ukNgek6VgcBhJL%2BVCX3LWd1pJ4wOQ0Z8Y8felhlMHHm8EEmYtXziyIc3L%2FFRjamZ54UwuwUueOQ67%2B8%2FPSSrWD%2FkjoZoLJVggoiKLKkwb%2BLoqh%2FkdMUAKFPCXzBKrVpiHW3loDgHMFVmBHc16%2B8gw07LZfDSE4cH5IceVjWiE9tMwgdSgSx1dYRY1NEBAhw1JZBl4WhZxFxEBq2g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6203129829%2F590fd1eba39a80dae4ad0a86696f9d94%2Fvideoplayback___2026_09_06T192233_571.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6203129829/590fd1eba39a80dae4ad0a86696f9d94/videoplayback___2026_09_06T192233_571.mp4?Expires=1789744508&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Jz%2F5RqpoVfumvbdKVPaoRA2hEAcmXyF4z9WVdvqilTjRB7oYC9yRSo6F2%2BjEJPXWmdJPv04zXLk0aAg0vmbISH3uGh7t5apSsk%2FVZQV%2B5suus88vPchXYUH5cTs5XGl%2FddY1rsWodrhQBvNE8IddldY136NcM7J6QEPUvl3bZsMcIG5KZAqRAoX4arGVgnq7UYhjKtEomANEIMAU9pJIUaVeBprX6j6QlDFYZRScEFmOhl68VibCgsLTRnsD3CbfDDd5kdsZXRSryUgyiYIGz1JohS0xB8%2B5Bgy0zrbnifiupzPxMP916JpIY8gxZbYrq2Srtp9bSDaVejtatZf1Jw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6203129829%2F590fd1eba39a80dae4ad0a86696f9d94%2Fvideoplayback___2026_09_06T192233_571.mp4)
 
 #### Additional Information
 - **Post color:** Black
@@ -145,7 +145,7 @@
 ### 8. これ見れる？
 **Author:** てらてら
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194730678/e0a90eb93b7136001fe8ecc31dd5ed79/videoplayback__45_.mp4?Expires=1789738382&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=yQdnXg%2FNyjg12R%2BWr8Uy0lEIiQSxloKGbxiZ9G1FSHst17P8g%2F5qcHmN73%2BZGZ8XKgenchQy2gndbJ1psNa6b5sfQ1IRWy%2FTv7nFmCxRTEnFJwXwbvTPF1IoKyieVgQav3g7djA3z%2FzHQbq7VM9IJES%2Fxs6lccPt%2FTyXWi4L0TfXEIvRLid3DvYx%2FZuSQ%2BxqDAB5iqHpSSLAWfxZWRRiE3%2BHq21ozSmkjy7R8U1gQvtCvIhA28t%2F6M2ahVIaG2MoPFIQVZLHHxy%2FYamUl5loff9VM308VKNqQcetTjjbUD2eLqhGVs6mIUAn6HACQZLeQkEXP2qFML0h6c3gOHRpYg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194730678%2Fe0a90eb93b7136001fe8ecc31dd5ed79%2Fvideoplayback__45_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194730678/e0a90eb93b7136001fe8ecc31dd5ed79/videoplayback__45_.mp4?Expires=1789744508&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xc%2BJ2tiQGr%2Fjs%2FzdauwEodEsDOO6%2BTG0i%2FbgKN%2B4lXOaiCzgZZiT4Ml7mjWgmwI7aSh%2FTDYDXOd9KfpZsw4Q%2Bibj8eHedlqp%2FwYzTuKJHJt40gZ%2F93a2flVK0TsBkcy4HLb%2FYknapiurjxGDSd9ffHNolFG%2FHPaM61BCbF3fy5uW1p%2F7%2BCVw1oRwzjvtnS4ohMGQDUIFvW9P9R6i7JrNJmPvTUWyj1B7lOKvMlUtbOgeEN0l4DXDwLO%2BmvcbzYc8CHV1lkRWQHZ7vnDB9Rkr4AP5b6kYQjM3yevwUbB8tsOi%2B3%2BlFppS9zJYNofIF%2BbnHzeOXZv2cPj2vZURjWCI0Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194730678%2Fe0a90eb93b7136001fe8ecc31dd5ed79%2Fvideoplayback__45_.mp4)
 
 #### Additional Information
 - **Post color:** Black
@@ -159,7 +159,7 @@
 
 解除してください
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194665627/8020d285b6b4d07cd736be52cb8a0091/photo.jpeg?Expires=1789738382&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=IRh2pKVz4P981vO3GHmZXYZvW0DF9BnH0WfehrQYZI43YUXgQaW%2BBIA0uBucfMA2W%2FFWVnaNgaBpS0BEdHaDoq1VilDwnMgXxTBEthvk2DGYELSxYUy6jMhLyucmURwk0g0dmVBjLqUSlOftR4MVpGcFJ3E34NMe2skg4st8xdsmdUPnZTdf15OTQd2iSDmm%2FqiH3plwq9zBCk8U1y2s0xuJJlm7lfMr514tptF3NlPs5hvmiRXiDzcsVC2ukAp5snuNV7v3tnZGmjMtWccEEL3k4ZU%2BPdyPYfwjGR1CIT2fLWDiCII4sDn4Yt06BKQRtnIChcKCTx9NtneswbEs2g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194665627%2F8020d285b6b4d07cd736be52cb8a0091%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194665627/8020d285b6b4d07cd736be52cb8a0091/photo.jpeg?Expires=1789744508&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Fl264sWe2lE23muav32yjTtWcYPRe8u2r6tLZ%2FN6chaIvmqf5%2FbEugLeEFkU4NS2ZpkNl0Bqiu3VXJgk8%2BD%2F5PG1XDkB3d8ZSVgC1wKAIOwBgPkJEzSL98zr6BXn%2Beuq6eSdb6Fuce2o721ItLfyXiJVi%2B9ZZy0J%2FUr5k5YoZl55vL20yPDSeDNgR1oEg%2B%2BxRBNzP8K2uF4l3q49pZimKX%2BUa0tahQdixbeIXqITs5kcUPK8879TwNyDUpewfInXrKW2jbYk5nmVRwIPqv5FXdgaZqzO89VwQLi0nQ6w9AlwRgyH%2ByShwm4QbcJN3wDL28EjDj8oxOXwnA5LKsKIiw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194665627%2F8020d285b6b4d07cd736be52cb8a0091%2Fphoto.jpeg)
 
 #### Comments (1)
 - **ささ** (Sep 04, 2026 11:50am): きｍ
@@ -234,7 +234,7 @@
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1789738382&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zHEaDeaaBs%2Fb7aYbO%2Fs%2BmaB7VKA1gK18lbRMoiJl8XcOQqYcHIBYjX%2Bo7UcwgH7C8Mf7nbE0XxYTkJ%2BYOqVmolyrqkUIM8QYQxzQ52TDOzOp8V0coVAw7Nk7eTgx7wF18IYm%2FGLvZngLcEYlmypkK0J1J4%2FkfMxP9%2BXZ6dMhTNmcJ8Z0JiZ8jVvk8NxGVkMcoBW37qCRpJ4lrdyG2FwxUrhcLlE3uhsj%2F03uJxZ%2BZVE2%2FEn3JOMVEBWsEnV0p7DWJvXQ9YYtW4VBpSwhEZ2rc5T3UI3KxevC568sflghw%2FBfMC0liiFuprCM2xZbNVsTqCgMI%2BFBY7L042AeFSRD%2BA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1789744508&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Xf1e3Dn6b9fnBlVIGYgV6CH26xvgkBRnUT1Zu%2FpBVEL9nnVTderqh5w6JDkeTmnSi4Tu4Z1QuoIXfcjDkVynizjO8afnj0Vp508qY4SGEVJI7SKS2GqnX7bhuvNJx7nWBRrVhyMbfihgZ7NORqzZONcDa4Iw6TK3mXN1yyMuYDk77OIxO7UA%2FT8dX9s8F6JCc%2B5suPSINzoVSCRMLIv%2BpZMXoPzSdzTv5vxkDDJ58AwBfE3k6ZQzjeDJYzzipeAaXjxcuIZ9SjxDCMheCPqbmJ1lXlMqvm4nQTW6uZ1Koj0IE9KdyJH4aw%2FLIdP4iX6uFtSsZGy4oXtmd0jbdaZ6RQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -749,7 +749,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 niga
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6207871980/d6d2c30b72c67be47fad5ab87c305d37/videoplayback__38_.mp4?Expires=1789738382&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jIOQ47MkAiQTzNtxHs9zD%2Fas3Q7LsCtCgSqPVlBnSaSTkT62NNf12Ra72C2E4g64Mp3vu496F4iYpmYPC3nquMOE%2BOy0VvWwaRk65h%2FBxQNJvbXlN67t%2B6vSTPHCCujAmnM8pjW4g5FdV%2FNkGLBeZ3fYacvpE7CpOdrP178eP7gUYN%2BGKv9WTOKa2P%2B%2B6VYCPBzmkC6JK5aTP%2BumOyIAHPbFjeqdZ3sHbIuBPx93WlY5dbhI8e0ETOqVrX3ZOD0d1iiofH4JQZt8jg7E6f%2FvK2gZOZ7e8n%2BbpazGwAEhzmlFBlNIGN8We%2BemLnADyf7XWrNdu6pqw%2FFqRwpUep7img%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6207871980%2Fd6d2c30b72c67be47fad5ab87c305d37%2Fvideoplayback__38_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6207871980/d6d2c30b72c67be47fad5ab87c305d37/videoplayback__38_.mp4?Expires=1789744508&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6WMK13KKQN8Hg1PzveCm%2BRVzdrBjbIuPo83F750TbnCKwi9xr%2BvvyR0SzzzX2s0m9gImQkHRyQgjxD2NnTqedgJXfnVyqWBXUcBFIXgzls3ERBzcLO%2BdZdERaDBv9IwiZIUvtO63Nn3HMaXFPZKIQXN3YOH70r%2F4KfHYn2c1H9MDLZQWWpDXisGWSST%2FYN6%2BbrejFZxEv7YGRo4VP8Q56XBF4g6yKap6BmD9vSRuOa1HRhmw7UCJE5%2FCfgZyjNREDKYNiFIomQrlWZz71Xr8BBM5Ip6Rr0TRcSBqH8IvDnyOedDRovKe6%2FI0vOHvpo1ScrSh2X%2FQGW002TlfXzChyQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6207871980%2Fd6d2c30b72c67be47fad5ab87c305d37%2Fvideoplayback__38_.mp4)
 
 #### Additional Information
 - **Post color:** Black
