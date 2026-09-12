@@ -1,4 +1,4 @@
-最終取得: 2026/09/11 17:45:40
+最終取得: 2026/09/12 20:16:56
 
 # 受付と匿名用
 
@@ -41,7 +41,7 @@
 - **かリけー　スマホ垢** (May 23, 2026 12:47pm): ツールでー
 - **マリア・マーメイド#初代マリ好き族** (May 28, 2026 10:49pm): https://padlet.com/s20092311/padlet-ha8r73wuha803jh3
 - **Suicune** (Jun 07, 2026 11:22am): irete
-- **Ejobs #Ejobs's** (Jun 11, 2026 10:48pm): ejobs2akaunt@hotmail.com
+- **Ejobs #レストランの従業員** (Jun 11, 2026 10:48pm): ejobs2akaunt@hotmail.com
 - **青葉 #BC*** (Jun 12, 2026 11:55am): sadden-dimly-slip@duck.com
 - **aaabbbccc** (Jun 15, 2026 04:29am): gs193637@nerima-edu.jp
 - **青葉 #BC*** (Jun 21, 2026 04:15am): 遅れてごめん！ライターにしたよ！
