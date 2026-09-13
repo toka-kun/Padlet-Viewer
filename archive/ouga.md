@@ -1,4 +1,4 @@
-最終取得: 2026/09/13 08:11:36
+最終取得: 2026/09/13 10:20:39
 
 # みんなで協力すればアイフィルターなんて怖くない
 
@@ -14,7 +14,7 @@
 ## 管理者　連絡
 
 ### 1. お久〜
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 自分の部屋行ってて全然きてなかったわ
 
@@ -22,9 +22,9 @@
 
 #### Comments (4)
 - **おうが** (Sep 08, 2026 12:09am): おいす
-- **どぬく🍑** (Sep 08, 2026 01:27am): 俺のからぴち部屋入って欲しい
+- **亀井涼介(本名)** (Sep 08, 2026 01:27am): 俺のからぴち部屋入って欲しい
 - **おうが** (Sep 08, 2026 04:10am): 入ったよ
-- **どぬく🍑** (Sep 08, 2026 06:13am): ありがと
+- **亀井涼介(本名)** (Sep 08, 2026 06:13am): ありがと
 
 #### Additional Information
 - **Post color:** Black
@@ -54,7 +54,7 @@
 **星評価:** 1.0 / 5 ⭐ (1)
 
 #### Comments (2)
-- **どぬく🍑** (Aug 31, 2026 12:27am): そのサイトのリンク教えて
+- **亀井涼介(本名)** (Aug 31, 2026 12:27am): そのサイトのリンク教えて
 - **おうが** (Aug 31, 2026 12:32am): Gemini
 
 #### Additional Information
@@ -72,7 +72,7 @@
 **星評価:** 3.0 / 5 ⭐ (2)
 
 #### Comments (1)
-- **どぬく🍑** (Aug 26, 2026 01:23am): りょうかーい
+- **亀井涼介(本名)** (Aug 26, 2026 01:23am): りょうかーい
 
 #### Additional Information
 - **Post color:** Black
@@ -87,7 +87,7 @@
 **星評価:** 5.0 / 5 ⭐ (2)
 
 #### Comments (1)
-- **どぬく🍑** (Aug 21, 2026 01:22am): ナイスー
+- **亀井涼介(本名)** (Aug 21, 2026 01:22am): ナイスー
 
 #### Additional Information
 - **Post color:** Black
@@ -113,7 +113,7 @@
 ---
 
 ### 2. 管理者以外書いたら消すからね
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
@@ -262,7 +262,7 @@
 **星評価:** 0 / 5 ⭐
 
 #### Comments (4)
-- **どぬく🍑** (Sep 02, 2026 10:37pm): ほんとかぁ〜？
+- **亀井涼介(本名)** (Sep 02, 2026 10:37pm): ほんとかぁ〜？
 - **らぴ** (Sep 03, 2026 04:03am): 尊敬✨
 - **らぴ** (Sep 03, 2026 11:17am): ٩(๑❛ᴗ❛๑)۶
 - **ゆら** (Sep 05, 2026 12:53am): ほんとか怪しむ！かも？
@@ -283,7 +283,7 @@
 **星評価:** 0 / 5 ⭐
 
 #### Comments (1)
-- **どぬく🍑** (Sep 02, 2026 10:37pm): よろ！
+- **亀井涼介(本名)** (Sep 02, 2026 10:37pm): よろ！
 
 #### Additional Information
 - **Post color:** Black
@@ -298,7 +298,7 @@
 **星評価:** 0 / 5 ⭐
 
 #### Comments (3)
-- **どぬく🍑** (Sep 02, 2026 10:37pm): 本名だったらやめた方がいいよ
+- **亀井涼介(本名)** (Sep 02, 2026 10:37pm): 本名だったらやめた方がいいよ
 - **星霧　真冬** (Sep 03, 2026 03:10am): 本名じゃないので安心してくだい！
 - **らぴ** (Sep 03, 2026 11:17am): よろ！
 
@@ -317,7 +317,7 @@
 **星評価:** 0 / 5 ⭐
 
 #### Comments (2)
-- **どぬく🍑** (Sep 02, 2026 10:38pm): よろ！
+- **亀井涼介(本名)** (Sep 02, 2026 10:38pm): よろ！
 - **らぴ** (Sep 03, 2026 07:22am): 眠いのは同じw
 
 #### Additional Information
@@ -333,7 +333,7 @@
 **星評価:** 0 / 5 ⭐
 
 #### Comments (1)
-- **どぬく🍑** (Sep 02, 2026 10:38pm): ゲームのとこの下にあるよ
+- **亀井涼介(本名)** (Sep 02, 2026 10:38pm): ゲームのとこの下にあるよ
 
 #### Additional Information
 - **Post color:** Black
@@ -360,7 +360,7 @@
 **星評価:** 0 / 5 ⭐
 
 #### Comments (1)
-- **どぬく🍑** (Sep 02, 2026 02:38am): こんにちは！
+- **亀井涼介(本名)** (Sep 02, 2026 02:38am): こんにちは！
 
 #### Additional Information
 - **Post color:** Black
@@ -375,7 +375,7 @@
 **星評価:** 0 / 5 ⭐
 
 #### Comments (1)
-- **どぬく🍑** (Sep 02, 2026 02:38am): こんにちは！
+- **亀井涼介(本名)** (Sep 02, 2026 02:38am): こんにちは！
 
 #### Additional Information
 - **Post color:** Black
@@ -390,7 +390,7 @@
 **星評価:** 0 / 5 ⭐
 
 #### Comments (1)
-- **どぬく🍑** (Sep 02, 2026 10:38pm): わかる〜
+- **亀井涼介(本名)** (Sep 02, 2026 10:38pm): わかる〜
 
 #### Additional Information
 - **Post color:** Black
@@ -515,9 +515,9 @@ Scratchで活動してます！
 
 #### Comments (6)
 - **R** (Aug 08, 2026 04:57am): こんにちは
-- **どぬく🍑** (Aug 09, 2026 04:52am): 俺どぬく推し
+- **亀井涼介(本名)** (Aug 09, 2026 04:52am): 俺どぬく推し
 - **むちるん** (Aug 15, 2026 01:03pm): 俺ゆあんくん推し
-- **どぬく🍑** (Aug 16, 2026 11:30pm): 本名だったら変えた方がええで
+- **亀井涼介(本名)** (Aug 16, 2026 11:30pm): 本名だったら変えた方がええで
 - **シャチすけ#阿呆#バカ** (Aug 17, 2026 11:41am): スクラッチなんて名前ですか？
 - **常に眠いひと** (Sep 05, 2026 06:54am): え、うちハンターハンター34巻までもってます！めっちゃ好きです
 
@@ -552,7 +552,7 @@ Scratchで活動してます！
 
 #### Comments (2)
 - **R** (Aug 06, 2026 04:40am): 😆
-- **どぬく🍑** (Aug 06, 2026 07:06am): 俺のもして
+- **亀井涼介(本名)** (Aug 06, 2026 07:06am): 俺のもして
 
 #### Reactions
 - **Emojis:** ❤️ (1)
@@ -669,7 +669,7 @@ Scratchで活動してます！
 - **RONAUDO（偽物）** (Aug 03, 2026 06:36am): 僕もからぴちファンです
 - **RONAUDO（偽物）** (Aug 03, 2026 06:36am): じゃっぴが好きです
 - **RONAUDO（偽物）** (Aug 03, 2026 06:38am): 返信お願い🥺
-- **どぬく🍑** (Aug 06, 2026 07:07am): 俺どぬ推し
+- **亀井涼介(本名)** (Aug 06, 2026 07:07am): 俺どぬ推し
 - **Blue Walker** (Aug 10, 2026 11:48am): こんちゃ
 - **RONALDO（偽物）** (Aug 16, 2026 02:20am): こんちゃ
 
@@ -681,7 +681,7 @@ Scratchで活動してます！
 ---
 
 ### 32. 部屋の作り方教えて
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
@@ -1149,7 +1149,7 @@ Scratchで活動してます！
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5962375268/ac6ed9898afc26ce9a73ba8e19a1a481/IMG_2824.jpeg?Expires=1789859571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1dEDsPBjLmalmRQ4rBuvxdylJLqPjVzIgm%2FL8vzekK8Xfm0tuoGUvT9OwKTl%2FVXOe9kn0Z0TdSRc%2BEpON%2ByBsxJ1WZWo2b0LfZ4Mxs4UmOGZhnIn%2BBlE8K6szdrrAtH7IFHC8fHt%2FFzshZZG1v70zfAFD7JDYXLS1MgltOz3nHCSKyRkHmNNwE%2FaR0f66M%2FPKXxO3X6u58HkPDhfoXEOhGv7c7Eohkm%2Bj98Psuwl3HSQgUjiTVoCgpWyNytX6pE2gaQd8CV2393PoFw59MuZrmFTObhgPGbBnd4YbD5OCtRqEp13KNZvbpV9OttRxFlvfnqnFxOkh6QxYppbmiKtYw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5962375268%2Fac6ed9898afc26ce9a73ba8e19a1a481%2FIMG_2824.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5962375268/ac6ed9898afc26ce9a73ba8e19a1a481/IMG_2824.jpeg?Expires=1789867327&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ObQFb92rX%2FiSW9r25KwXjiwuQIqyoWY%2BCmh2NBCAD3HgAZc9D9t%2Bo8OfJe1etucY93h7Cy460nmuilhC9R0XaqWV1p4FoSoMtZuUS%2BQflOi3pr47ElMv2dRVVe32KS2vNt4nn2qY18pzmKajgGFsqI3sdC9TJCEPqC3zftRnS5EJEgwb2Za7ZaZWwDcg6XiR%2FFKRIENNVsZyM0nEfV%2Fmxrg1NsfWgtoDGNtbsUmgFfD0WOcrxdcHVwez0W7bTLS1PlzWAVbJmkPls2hIG6HZkn1mHjLMAjY0DUV87qMQyTajgdlikSdjElULREQW4ebQkiK%2BB%2BfBgD3tW6MfvzNiKA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5962375268%2Fac6ed9898afc26ce9a73ba8e19a1a481%2FIMG_2824.jpeg)
 
 #### Comments (1)
 - **BIRUSU** (Jul 18, 2026 11:07am): うん・・・・・
@@ -1204,7 +1204,7 @@ Scratchで活動してます！
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5956111832/064c67d781371544e3ff7ecc6383902d/images__9_.jpeg?Expires=1789859571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dMFkQ4cQwLKj%2FIVYEawKR85Xcwb4YTDsqIp%2FRneahI8%2BJRQhQ04pqwPKSU2qO0AVL4S5aFQ%2FuenKA1EkcJJellnU4Vh6LKT%2F%2F98wrGQpDUptp47he%2FMYgmjBEJ5Sijr4H84NA3kpHPAy5%2BGGZXOalUNbV2KgIHO4nKb5cNir1IYs5xqMkEOq4HpCgyiA99PteiNDlcKNMYtBHI6aIma7FyIdIpvl1E1cR%2Bmx2O%2BVzz2VnHW42s2cob8n3DzvOPy8Ihwagq3i6AzXhXM8A2ne11I7VVZvnTjt1o95qSuaUbqnT9n6wSd4uhkAktleJ06RpcG0DyTJLtqFlCwPUhcUVQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5956111832%2F064c67d781371544e3ff7ecc6383902d%2Fimages__9_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5956111832/064c67d781371544e3ff7ecc6383902d/images__9_.jpeg?Expires=1789867327&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FywAcUSzc0HKXEMQlK8CAO5dK0NJRk4i06WYgVRXI%2BGlOxxHjOj6mrvgNbC4Io3Z6yIxbCKj2W%2FDTYr4%2BBHPnPrDtULXNF6WhQXp2HvIy5rExhNaOWob4bWOZCdDQj5RbULlVh%2Bqm7v1zH1PY7Kv8KWe2mW0Ab5uVCcVYnZlx7puLlpZFUVoslnFcdLvSNiWUPaJY6Yd0TcsjN4o%2Bdn6h4VcT8QeSeZnCFXIifHvPSSzM5j290kYWMRZIg0qvb1zPjyYO5jxt2st34F67jikuriKdUTSWM9dJE71QYO36n2y1ZQ6GpiZFiwTHBI6oMPj%2Be8h6OH40atjlBbsvciMWQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5956111832%2F064c67d781371544e3ff7ecc6383902d%2Fimages__9_.jpeg)
 
 #### Additional Information
 - **Post color:** Black
@@ -1222,7 +1222,7 @@ Scratchで活動してます！
 
 #### Comments (2)
 - **Blue Walker** (Jul 14, 2026 12:25am): 荒らされたのでもう一回作りました
-- **どぬく🍑** (Jul 14, 2026 12:28am): おー
+- **亀井涼介(本名)** (Jul 14, 2026 12:28am): おー
 
 #### Additional Information
 - **Post color:** Black
@@ -1437,7 +1437,7 @@ Scratchで活動してます！
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5937220308/4d9e647823457c740d1c1b6a04064331/drawing.png?Expires=1789859571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=f%2BYdM%2FAZRw08nLE5nywCqXa4wxa0wzXyaaaDKtjJQbG3n9x8iTniMn2qukSebt8wCDCxbxDNE0QNOHwNfUip7rIBwyrYcy9ccmHKAT85hKchAmvEIaolP5wKJWZn%2Fn8Po9JVwi2pU3hl7oxhoibs35MPmT4Kuwkz7tuQEyK56VlAZNDnuDznlvSbBwyx%2Be2PE6CRMOTPsrvXM%2BAxi9epI1UokiU6tBMqKTEtDUB8l3RZjZykPLrZIxcRBC4csAaHO%2BPo8I1kc8xjbBD4TanhDX2cc1ZCATih7mOkLtSX3N1u9HuOynclNY1%2Bbz4o41F%2BqZLgTHdpG6361aRv9fqVeQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5937220308%2F4d9e647823457c740d1c1b6a04064331%2Fdrawing.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5937220308/4d9e647823457c740d1c1b6a04064331/drawing.png?Expires=1789867327&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=s2vHq1FJc4Wy2IqsnkjTQ9SNilonXON9Ow%2BeyjF%2FwAvnOsmt2oCzBz157vSPDyHoUCBimIH5Bm9ROphmfh2laufLUq71wVyWAo%2B6qbbMGiqqZz8raqH2%2FNwKcftURoWbsIX%2FB4rnvnN22eXpA1bk0OF7iifeL%2F3vXh5H1%2FKFBw8nAwseeiC%2BPeJ51qDN8kefxMQ98k2dS41%2FUWVjevEhTNrCDLd9UrZDSbaac%2BJ91hKCh7L7bXC33Zl8zyy%2FLTyJ1bAaVExkZXaF1k3ZCoq7rxw90zM6m2pFf8%2B%2BQlid%2FGibiNMZkVlNNi4jXKyrWPLsZQSLHoCXp6Ps3Kc%2Bn6Klhw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5937220308%2F4d9e647823457c740d1c1b6a04064331%2Fdrawing.png)
 
 #### Comments (15)
 - **R** (Jul 10, 2026 01:18am): ドラえもんやん
@@ -1468,10 +1468,10 @@ Scratchで活動してます！
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5937304859/a2455a8f93bc42284eefcf860fe5a5a1/Screenshot_2026_04_28_15_09_42.png?Expires=1789859571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=CJRigAkASoRcc6U4AiZwwIwnnutZ4vypH7Av4zsmbb0qQs0eef7UxZchj2nZFWmSgPg6QzFj4GcgBBwjD2gNNnmIlU9LHV61mwEKVVQifuNOUfUFWcCmYcbSCCCWcosVWFEa1gSDEtm9quflSu%2FI1HZfC6h172yK60j9M1LzEmAl2j5Z%2FD1MDAwbnmnL2zIqnvpPep57KMPV%2FUI84ZRFJV%2FZY4Ly7%2BYVgBv2bEnUbNUoaLdtmqLFpVuRH9FSV10mqnmjs%2BuaTABeJ86idyLSTObb3WcrnoNJx7hElCxge45ZW24lUii5%2BnDBEKs%2B1CA%2BCN61t3dlI2VKluIhDC8Urw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5937304859%2Fa2455a8f93bc42284eefcf860fe5a5a1%2FScreenshot_2026_04_28_15_09_42.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5937304859/a2455a8f93bc42284eefcf860fe5a5a1/Screenshot_2026_04_28_15_09_42.png?Expires=1789867327&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DEqH5kEKTsPd0BogotUqMEPfPdz5a0tLdao4wNiq2%2F2ZgPKFnWEXNeSh89SeU3kuxbi9Qs0P3GHPVJ5eM1vrsiwOeCDIXxEP9QT5BsBmsgUyS6HjlSyu34QLiI%2BZyMNMNSLm1exMA%2BoogPI687Pl%2B2hvHvv8%2FLgjtxEgqKKg%2Bu6Z9uxRigRpffXMk4yP6F1DaRr1nY6GMWWi%2F%2B4DjyBu1y06Xj8t%2BdAH6beHZmy7k4o6bcFnsno%2BpgJXyscIln%2BsaMdRsZ4vWMBWsXqViZX12NfuBbc7XTh%2FX1lgaW%2FOtodS9FeR%2BbHaBwjHXqSAwmrT9s8C4GXKBl8B3wkdpEzO1w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5937304859%2Fa2455a8f93bc42284eefcf860fe5a5a1%2FScreenshot_2026_04_28_15_09_42.png)
 
 #### Comments (7)
-- **どぬく🍑** (Jul 10, 2026 12:11am): かわいい
+- **亀井涼介(本名)** (Jul 10, 2026 12:11am): かわいい
 - **おうが** (Jul 10, 2026 12:16am): 可愛いw
 - **R** (Jul 10, 2026 01:18am): 可愛
 - **おうが応援する人(れいり)** (Jul 10, 2026 01:19am): 可愛い
@@ -1495,24 +1495,24 @@ Scratchで活動してます！
 
 #### Comments (20)
 - **天才くんのお友達2** (Jul 09, 2026 06:35am): しくよろ
-- **どぬく🍑** (Jul 09, 2026 06:45am): よろしく〜
+- **亀井涼介(本名)** (Jul 09, 2026 06:45am): よろしく〜
 - **おうが** (Jul 09, 2026 10:39am): よろしくーー
-- **どぬく🍑** (Jul 09, 2026 11:52pm): いる？
+- **亀井涼介(本名)** (Jul 09, 2026 11:52pm): いる？
 - **おうが** (Jul 10, 2026 12:10am): いるよ
-- **どぬく🍑** (Jul 10, 2026 12:11am): やほー
+- **亀井涼介(本名)** (Jul 10, 2026 12:11am): やほー
 - **おうが** (Jul 10, 2026 12:11am): ヤッホー
-- **どぬく🍑** (Jul 10, 2026 12:11am): チャット作るから待ってて
+- **亀井涼介(本名)** (Jul 10, 2026 12:11am): チャット作るから待ってて
 - **おうが** (Jul 10, 2026 12:12am): おけあと権限渡してるから了承しといて
-- **どぬく🍑** (Jul 10, 2026 12:12am): どこ？
+- **亀井涼介(本名)** (Jul 10, 2026 12:12am): どこ？
 - **おうが** (Jul 10, 2026 12:12am): 共有マークのところにきてない？
-- **どぬく🍑** (Jul 10, 2026 12:13am): 共有のどこ？
+- **亀井涼介(本名)** (Jul 10, 2026 12:13am): 共有のどこ？
 - **おうが** (Jul 10, 2026 12:13am): きてない？
-- **どぬく🍑** (Jul 10, 2026 12:13am): うん 
+- **亀井涼介(本名)** (Jul 10, 2026 12:13am): うん 
 - **おうが** (Jul 10, 2026 12:14am): ガチかどこに届くとか走らないんよ
-- **どぬく🍑** (Jul 10, 2026 12:15am): まじ？
+- **亀井涼介(本名)** (Jul 10, 2026 12:15am): まじ？
 - **おうが** (Jul 10, 2026 12:15am): うんもう一回メアド晴れる？
 - **おうが** (Jul 10, 2026 12:17am): メアド貼れる？
-- **どぬく🍑** (Jul 10, 2026 12:26am): karafurupichidonukutuishi4@gmail.com
+- **亀井涼介(本名)** (Jul 10, 2026 12:26am): karafurupichidonukutuishi4@gmail.com
 - **おうが** (Jul 10, 2026 01:37am): きた？
 
 #### Additional Information
@@ -1530,10 +1530,10 @@ Scratchで活動してます！
 #### Comments (8)
 - **天才くんのお友達** (Jul 09, 2026 06:29am): 上の通りです
 - **天才くんのお友達** (Jul 09, 2026 06:29am): スリじゃありません
-- **どぬく🍑** (Jul 09, 2026 06:29am): やほー
-- **どぬく🍑** (Jul 09, 2026 06:30am): ミーティング入ってー
+- **亀井涼介(本名)** (Jul 09, 2026 06:29am): やほー
+- **亀井涼介(本名)** (Jul 09, 2026 06:30am): ミーティング入ってー
 - **天才くんのお友達** (Jul 09, 2026 06:30am): どこですか？
-- **どぬく🍑** (Jul 09, 2026 06:31am): 予約通話の下
+- **亀井涼介(本名)** (Jul 09, 2026 06:31am): 予約通話の下
 - **天才くんのお友達** (Jul 09, 2026 06:31am): わかりやした
 - **おうが** (Jul 09, 2026 10:39am): ヤッホーー
 
@@ -1545,7 +1545,7 @@ Scratchで活動してます！
 ---
 
 ### 81. 俺が作ったミーティング来て一番下予約電話の
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
@@ -1568,7 +1568,7 @@ Scratchで活動してます！
 - **おうがさん応援する人** (Jul 08, 2026 11:38pm): ちがうよ…
 - **おうがさん応援する人** (Jul 08, 2026 11:38pm): 俺の同じ学校の友達がスリだよ
 - **1** (Jul 08, 2026 11:53pm): 誰？
-- **どぬく🍑** (Jul 08, 2026 11:58pm): 誰？
+- **亀井涼介(本名)** (Jul 08, 2026 11:58pm): 誰？
 - **おうがさん応援する人** (Jul 09, 2026 12:02am): 本物れいりっすけど
 - **おうがさん応援する人** (Jul 09, 2026 12:02am): 前名前変えたって言ってましたよ？
 - **おうがさん応援する人** (Jul 09, 2026 12:03am): 風邪気味でこれませんでした
@@ -1576,7 +1576,7 @@ Scratchで活動してます！
 - **1** (Jul 09, 2026 12:19am): はい
 - **おうが** (Jul 09, 2026 01:32am): そういうことね
 - **おうが応援する人（れいり）** (Jul 09, 2026 01:46am): うん
-- **どぬく🍑** (Jul 09, 2026 05:37am): れいりログインしてほしい
+- **亀井涼介(本名)** (Jul 09, 2026 05:37am): れいりログインしてほしい
 - **暇人two Time** (Jul 10, 2026 10:27am): ログインしたらなんか変わるんですか？（ｵｺｯﾃﾅｲﾖ）
 
 #### Additional Information
@@ -1638,7 +1638,7 @@ Class123とは、学校のタブレットでもできるゲームなのです
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5928757876/70d2f96c88fce06bef7d68fd987d0482/ScreenRecording_07_08_2026_16_06_04_1.mp4?Expires=1789859571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xRbaFzUAenDkP3sX3Gl9oef6QJbch6XflLyzeOV5Ab5XFS%2FeGEtHeCRqgVskPCoiIpZDY%2FuoPTGVgLLdZmy0M3ZWPrIPHiRQ0pvmf3pd%2F5Jo6ZSZDpG0%2BZ5qhmZDmCvRVqrDS4GwsZSnlT2IOXmpQaN27DTEL0nP1J%2Bh%2F%2F1iDZ1oYj0hXkMbz%2FSWlM6wsUFr171Md3GTwykkMSC2YVV1KcbvhQkfHWwLNmS9QWqV11k0lJIK%2FYtgp5%2Bks7zBv1zXcf2LcbZhfbyd0ncStaSSbJpTDHAzQiUlbTkahC8Q%2BTurb%2BHfrnZwckwvULlatOYsJHiwdrCvcC%2B0n1EkingmfQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5928757876%2F70d2f96c88fce06bef7d68fd987d0482%2FScreenRecording_07_08_2026_16_06_04_1.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5928757876/70d2f96c88fce06bef7d68fd987d0482/ScreenRecording_07_08_2026_16_06_04_1.mp4?Expires=1789867327&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RdO6L3Wuz8Thcfd1U3Rq%2BfbTRwidBC8kVLWx%2FDmyre4IxmSSO8X2tbCRi%2FIpUPfrYDxJqHPfBt0XBR2V2Sq417JnSw5ptl7tO4wjvZq2c9Ekzj5OUjZBFb5hQ4KUzDua%2FINkzn2j6urqnsL3y3zHbkuJtHM8kZXtJFg0rwjTENG%2FPnMfke%2FlVx4FzTItzUNy1Sq12wnIXywwwYO8AJDpury8Jz5jZdPgSinqRcA6QYvR5HxchBc7vOsovYGkzPvV%2BT3Juohfu17d3jxTgMrRzIk%2B%2Flh4nKgYMcXdb%2BX3tpqFAzCYTeS3GH0nm%2BPMHrOMRae1u3sT1e7LUto3woEmpw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5928757876%2F70d2f96c88fce06bef7d68fd987d0482%2FScreenRecording_07_08_2026_16_06_04_1.mp4)
 
 #### Comments (3)
 - **暇人two Time** (Jul 10, 2026 10:16am): 誰か見てるならでいいから返事ください
@@ -1690,8 +1690,8 @@ Class123とは、学校のタブレットでもできるゲームなのです
 
 #### Comments (5)
 - **れいり** (Jul 08, 2026 01:14am): そうなん？
-- **どぬく🍑** (Jul 08, 2026 01:22am): れいりヤッホー
-- **どぬく🍑** (Jul 08, 2026 01:22am): 今までの名前教えて
+- **亀井涼介(本名)** (Jul 08, 2026 01:22am): れいりヤッホー
+- **亀井涼介(本名)** (Jul 08, 2026 01:22am): 今までの名前教えて
 - **おうが** (Jul 08, 2026 01:42am): 多分だよれいり
 - **れいり** (Jul 08, 2026 02:41am): ？
 
@@ -1709,7 +1709,7 @@ Class123とは、学校のタブレットでもできるゲームなのです
 
 #### Comments (8)
 - **れいり** (Jul 07, 2026 10:29am): キャラください
-- **どぬく🍑** (Jul 07, 2026 11:31am): どんまいれいり
+- **亀井涼介(本名)** (Jul 07, 2026 11:31am): どんまいれいり
 - **R** (Jul 07, 2026 12:57pm): まじか可哀想😢
 - **れいり** (Jul 07, 2026 12:59pm): うわーーーーん
 - **スタバの神** (Jul 07, 2026 01:49pm): 配布の企画するので、IDを教えてください
@@ -1737,7 +1737,7 @@ forsaken神
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5924508763/dba0ee3de898e373e9acbbe3af73a46d/ScreenRecording_07_01_2026_17_35_52_1.mp4?Expires=1789859571&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=naMkDjp2B%2F0atYo9I20cYzlGb2Zlddq4xkhdzsWfvMkg3vxSmIY2YFbm2ixh3hqR17zoqEA%2FdwGio%2B9dRGFe6WNefQV%2FfAQ8uUpnTjYfB22yu7X%2FTbNrVHIdJY%2BiugdF2mBEA%2FJZaEPYAkOBuj%2BDpgYakQq1y8M%2Fn%2BGcpd7ZBfjYHkDHU7q11%2FfzXd46fl%2B%2Fv5jFfRn43lIdiZ1Cc4tkm3Qf8fyrR3iz%2BFUgZRaHvst39zvT9DHn6lQVbSnNlREEKvQrZjzlPoHN7kLkNfb3RYzhTcZn%2FOuI6w%2BibJu1st0juLlDDZLONnOgfA9WiVxORZjC7RYjoTGAGg9VRBcngA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5924508763%2Fdba0ee3de898e373e9acbbe3af73a46d%2FScreenRecording_07_01_2026_17_35_52_1.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5924508763/dba0ee3de898e373e9acbbe3af73a46d/ScreenRecording_07_01_2026_17_35_52_1.mp4?Expires=1789867327&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=G1KOlE1XQdY%2BqZq1dABA76bStLhu%2BOA%2BLJU2zDM9IEBcOn3hnDOWQaOy5tLKpJ9p8c3rFuBUnNMGzw2BvxL4dsXYwLbOd8P0sAZgs%2FNbOYLeIZsrCVl5zN%2FqTWYo%2B47Q7LC90B1VTwc99gzYcC8ZKuTF18hIAmzxVru%2B61XQJdtJnDWiDrx3p9P%2F17r6FpOJj7tm%2BmkSXmJnpmiBWec2KNpY6UP%2FrNpLGw7IXX7GOyIYFePN9nxSikVv4Beq4%2FmjuPfDrNhRG4Z97SAYLcWbR3XLXp0wi279UjG%2FS1TbRG8RTROig01g859Q9Ln4ftsO%2B%2BCTIH%2FlZd2W2WwlYu%2Fbhg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5924508763%2Fdba0ee3de898e373e9acbbe3af73a46d%2FScreenRecording_07_01_2026_17_35_52_1.mp4)
 
 #### Comments (3)
 - **暇人two Time** (Jul 07, 2026 09:29am): ごめん言い忘れた4649ね
@@ -1775,7 +1775,7 @@ forsaken神
 **星評価:** 0 / 5 ⭐
 
 #### Comments (3)
-- **どぬく🍑** (Jul 07, 2026 07:07am): まじ⁉︎対策せなあかんな
+- **亀井涼介(本名)** (Jul 07, 2026 07:07am): まじ⁉︎対策せなあかんな
 - **1** (Jul 07, 2026 07:09am): どぬくしか勝たん
 - **1** (Jul 07, 2026 07:09am): https://meet.stuvus.uni-stuttgart.de/OrdinaryAccuraciesSurgeEagerly
 
@@ -1787,7 +1787,7 @@ forsaken神
 ---
 
 ### 93. 誰かいる〜？
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 いたら返信プリーズ
 
@@ -1865,7 +1865,7 @@ forsaken神
 - **おうが** (Jul 06, 2026 11:52am): マジか
 - **おうが** (Jul 06, 2026 12:04pm): あれでしょ住所特定されたから
 - **原石** (Jul 06, 2026 12:52pm): そうゆうこと
-- **どぬく🍑** (Jul 06, 2026 10:59pm): 誰？特定したの…本当に良くないと思う…
+- **亀井涼介(本名)** (Jul 06, 2026 10:59pm): 誰？特定したの…本当に良くないと思う…
 - **おうが** (Jul 06, 2026 11:55pm): れいり
 
 #### Additional Information
@@ -1893,18 +1893,18 @@ forsaken神
 ---
 
 ### 98. Rおる？
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
 #### Comments (8)
 - **R** (Jul 06, 2026 04:32am): おるで
 - **R** (Jul 06, 2026 04:35am): ちな🌈🍑好きなん？
-- **どぬく🍑** (Jul 06, 2026 04:35am): 通話来て俺が投稿したやつ
-- **どぬく🍑** (Jul 06, 2026 04:35am): 好きだよ
+- **亀井涼介(本名)** (Jul 06, 2026 04:35am): 通話来て俺が投稿したやつ
+- **亀井涼介(本名)** (Jul 06, 2026 04:35am): 好きだよ
 - **R** (Jul 06, 2026 04:38am): おk 行けるかわからんけど
 - **R** (Jul 06, 2026 04:39am): どこに投稿したん 
-- **どぬく🍑** (Jul 06, 2026 04:41am): 管理者連絡
+- **亀井涼介(本名)** (Jul 06, 2026 04:41am): 管理者連絡
 - **R** (Jul 06, 2026 04:45am): ？？？ごめん切れる 
 
 #### Additional Information
@@ -1915,7 +1915,7 @@ forsaken神
 ---
 
 ### 99. おうがさんれいりさん予約通話で話しませんか？
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
@@ -1941,8 +1941,8 @@ forsaken神
 - **匿名** (Jul 06, 2026 03:05am): 戻りました
 - **おうが** (Jul 06, 2026 03:05am): どしたの？れいり
 - **匿名** (Jul 06, 2026 03:05am): Rさんってさ管理者なの？
-- **どぬく🍑** (Jul 06, 2026 03:13am): おうがさん通話来て
-- **どぬく🍑** (Jul 06, 2026 03:14am): 誰でもいいからチャットで話そ？
+- **亀井涼介(本名)** (Jul 06, 2026 03:13am): おうがさん通話来て
+- **亀井涼介(本名)** (Jul 06, 2026 03:14am): 誰でもいいからチャットで話そ？
 - **匿名** (Jul 06, 2026 03:14am): やっほー
 - **R** (Jul 06, 2026 04:42am): 匿名違うで管理者おうがさんやで
 - **おうが** (Jul 06, 2026 04:55am): 俺が管理者
@@ -1996,7 +1996,7 @@ forsaken神
 **星評価:** 0 / 5 ⭐
 
 #### Comments (4)
-- **どぬく🍑** (Jul 06, 2026 01:35am): よろ！
+- **亀井涼介(本名)** (Jul 06, 2026 01:35am): よろ！
 - **フミヅキ** (Jul 06, 2026 01:35am): よろ！
 - **おうが** (Jul 06, 2026 02:02am): よろ！
 - **もやし** (Jul 06, 2026 02:21am): よろ
@@ -2023,7 +2023,7 @@ forsaken神
 ---
 
 ### 105. マイクラのサイト投下！
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
@@ -2031,8 +2031,8 @@ forsaken神
 
 #### Comments (3)
 - **おうが** (Jul 06, 2026 12:19am): ぶろ
-- **どぬく🍑** (Jul 06, 2026 01:35am): OMG
-- **どぬく🍑** (Jul 06, 2026 01:35am): (オーマイガー)
+- **亀井涼介(本名)** (Jul 06, 2026 01:35am): OMG
+- **亀井涼介(本名)** (Jul 06, 2026 01:35am): (オーマイガー)
 
 #### Additional Information
 - **Post color:** Black
@@ -2055,7 +2055,7 @@ forsaken神
 - **つくし** (Jul 04, 2026 05:56am): https://www.youtube.com/watch?v=EmS60v6Ev-0
 - **つくし** (Jul 04, 2026 05:56am): もやしの歌↑
 - **つくし** (Jul 04, 2026 05:56am): https://www.youtube.com/watch?v=maDQWX89FQs
-- **どぬく🍑** (Jul 04, 2026 06:38am): よろしく〜できれば予約電話の一番下に来て欲しい
+- **亀井涼介(本名)** (Jul 04, 2026 06:38am): よろしく〜できれば予約電話の一番下に来て欲しい
 - **つくし** (Jul 06, 2026 07:29am): https://www.youtube.com/watch?pdlt=1&v=WXdo27uG3Tk
 
 #### Additional Information
@@ -2066,7 +2066,7 @@ forsaken神
 ---
 
 ### 107. 名前をまたまた変えました
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
@@ -2087,8 +2087,8 @@ forsaken神
 **星評価:** 5.0 / 5 ⭐ (1)
 
 #### Comments (3)
-- **どぬく🍑** (Jul 04, 2026 01:49am): よろしく〜
-- **どぬく🍑** (Jul 04, 2026 01:49am): この人俺の部活の先輩！
+- **亀井涼介(本名)** (Jul 04, 2026 01:49am): よろしく〜
+- **亀井涼介(本名)** (Jul 04, 2026 01:49am): この人俺の部活の先輩！
 - **原石** (Jul 04, 2026 02:17am): よろしくお願いします
 
 #### Additional Information
@@ -2106,8 +2106,8 @@ forsaken神
 **星評価:** 5.0 / 5 ⭐ (2)
 
 #### Comments (3)
-- **どぬく🍑** (Jul 03, 2026 10:17pm): いい名前ですねよろ！
-- **どぬく🍑** (Jul 03, 2026 10:17pm): 仲良くしてね〜
+- **亀井涼介(本名)** (Jul 03, 2026 10:17pm): いい名前ですねよろ！
+- **亀井涼介(本名)** (Jul 03, 2026 10:17pm): 仲良くしてね〜
 - **原石** (Jul 03, 2026 11:31pm): よろしくお願いします
 
 #### Additional Information
@@ -2118,13 +2118,13 @@ forsaken神
 ---
 
 ### 110. 名前変えました前はカラフルピーチどぬく推しです！よろ！
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
 #### Comments (2)
-- **どぬく🍑** (Jul 03, 2026 05:46am): ついでにアイコン変えました
-- **どぬく🍑** (Jul 03, 2026 05:47am): これを見た人は予約電話の一番下に参加！
+- **亀井涼介(本名)** (Jul 03, 2026 05:46am): ついでにアイコン変えました
+- **亀井涼介(本名)** (Jul 03, 2026 05:47am): これを見た人は予約電話の一番下に参加！
 
 #### Additional Information
 - **Post color:** Blue
@@ -2209,7 +2209,7 @@ forsaken神
 ---
 
 ### 115. どぬく推しでーす
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
@@ -2217,13 +2217,13 @@ forsaken神
 - **れいり** (Jul 01, 2026 03:44am): 俺も！　カラぴち
 - **れいり** (Jul 01, 2026 03:44am): あと　うりも推しかも
 - **おうが** (Jul 01, 2026 05:43am): あんまりわからないけどよろしくねー！！
-- **どぬく🍑** (Jul 01, 2026 08:57am): 仲良くしてくださーい
+- **亀井涼介(本名)** (Jul 01, 2026 08:57am): 仲良くしてくださーい
 - **おうが** (Jul 01, 2026 12:11pm): はーい！
-- **どぬく🍑** (Jul 01, 2026 12:24pm): おうがさんいます？
+- **亀井涼介(本名)** (Jul 01, 2026 12:24pm): おうがさんいます？
 - **おうが** (Jul 01, 2026 12:37pm): はいはーい
 - **おうが** (Jul 02, 2026 12:48pm): 僕のところでゲーム買ってって言っといてw
-- **どぬく🍑** (Jul 02, 2026 11:03pm): 宣伝でイラスト公開しました！！
-- **どぬく🍑** (Jul 03, 2026 04:33am): スパチャ…(笑)
+- **亀井涼介(本名)** (Jul 02, 2026 11:03pm): 宣伝でイラスト公開しました！！
+- **亀井涼介(本名)** (Jul 03, 2026 04:33am): スパチャ…(笑)
 
 #### Additional Information
 - **Post color:** Black
@@ -2239,7 +2239,7 @@ forsaken神
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1789859572&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4qRdO9GH1SsRXp29WOyTvHHeGZue9zqph1m7ZpoakAkv3YZGSwQ1IuV%2FeTEoEUhNwDMesQAChAu2pVQWMABIG4zNtwKOX3XMdUvxYq6uRuZ1noH7YvJXrluK6zEpTMx6HbY8YX5NTeLJEWl%2BtuaUmNhWP6IuTd8zODXXVp6ALXgjus09D05i5f%2FxhjIUSsIu%2FMLyexFj87Xvc22O3CjVcs61G2DLZqlz4CapDKBBpS1RScLgujc%2BsdwBfA3%2B%2FJu0MKOgTqcqQDPiKIqAgaYZUJCrKMAvpyxLhocX7hwwQOC%2B05pMShpiQHsYxkk%2FN9uYPIv2hTt5gPYK8TRW9fY4qg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3495592382/268445bc8599a88c4b9a2def39409732/images__1_.jpeg?Expires=1789867328&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=L7ydpzbWoTuJlhd72b2sRpl1sLKHB86lNMYuhuyeBEQD4abxgLXWqkOWQDxrtNWVwzNylzTscvNHmHOK6Q5zBvPGpnXIywjnv3Vp2HGPJtqqF21y36ajER4XTaVfeyKr236Ywvno8bma7Fpzq18dSBEy8RVdL9UMT%2F0UsK%2BJOXVUv%2F8KrOG%2BoXJxSp1CzneE4mTD0edZ%2BpqAWpxwkDo1Sg0dGIxGpxqEZ0nofTyA598e5mxl7PyY3Jp8aJEd0ivgWdmOE039VbpR8ovhMoCqmpbO%2Fv9T3J0VVzgAezJBDdt7lLuZH8slsedmJtorc2CkLaLhLR5YxBXfkyoOuDiHEg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3495592382%2F268445bc8599a88c4b9a2def39409732%2Fimages__1_.jpeg)
 
 #### Comments (6)
 - **おうが** (Jul 01, 2026 01:55am): よろしくねーー
@@ -2284,7 +2284,7 @@ forsaken神
 - **おうが** (Jul 01, 2026 01:56am): 給食中吹いたw
 - **削除済みユーザー** (Jul 02, 2026 10:14am): リアルすぎw
 - **おうが** (Jul 02, 2026 12:06pm): だねww
-- **どぬく🍑** (Jul 02, 2026 11:04pm): ちょっと良くないな…
+- **亀井涼介(本名)** (Jul 02, 2026 11:04pm): ちょっと良くないな…
 - **原石** (Jul 04, 2026 02:18am): 荒らしだ
 
 #### Additional Information
@@ -2373,7 +2373,7 @@ forsaken神
 ## 訪問者数＋閲覧数実績
 
 ### 1. さ、三万六千突破…
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
@@ -2385,7 +2385,7 @@ forsaken神
 ---
 
 ### 2. 3万5千突破
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 5.0 / 5 ⭐ (4)
 
@@ -2404,7 +2404,7 @@ forsaken神
 ---
 
 ### 3. 閲覧3万4000突破！！！！
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
@@ -2422,7 +2422,7 @@ forsaken神
 ---
 
 ### 4. 閲覧3万突破‼︎
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
@@ -2446,7 +2446,7 @@ forsaken神
 - **おうが** (Jul 27, 2026 12:38pm): 夢が叶った
 - **時透無一郎** (Jul 28, 2026 11:32pm): すごすぎ
 - **時透無一郎** (Jul 28, 2026 11:33pm): [Attachment](https://padlet.com/18jt026/padlet-okjy1jmzjzdbb5jm/wish/BJkrQAdzmmXOaEge) 
-- **どぬく🍑** (Jul 31, 2026 11:44am): おうがっち受験平気？
+- **亀井涼介(本名)** (Jul 31, 2026 11:44am): おうがっち受験平気？
 - **ガチスケ** (Aug 01, 2026 07:18am): おめでとううううううううううううううううううううううううう！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
 - **Blue Walker** (Aug 06, 2026 09:28am): ううううううううううううううううううううう
 - **R** (Aug 06, 2026 10:57am): おめでとうーーーーーーーーーーーーーー
@@ -2489,7 +2489,7 @@ forsaken神
 - **匿名** (Jul 06, 2026 03:03am): おめでとー
 - **匿名** (Jul 06, 2026 03:03am): 30000
 - **おうが** (Jul 06, 2026 03:05am): ありがと！！
-- **どぬく🍑** (Jul 06, 2026 03:15am): おめおめおめおめおめおめおめおめおめおめおめおめおめおめおめおめでとう
+- **亀井涼介(本名)** (Jul 06, 2026 03:15am): おめおめおめおめおめおめおめおめおめおめおめおめおめおめおめおめでとう
 - **R** (Jul 06, 2026 03:23am): おめでとぉぉぉぉぉぉぉぉ！！！！！
 - **原石** (Jul 06, 2026 05:35am): おめでとうございます！！！
 - **おうが** (Jul 06, 2026 11:52am): ありがとーーーー
@@ -2535,12 +2535,12 @@ forsaken神
 - **匿名** (Jun 29, 2026 01:57am): おめでとー🥳
 - **おうが** (Jun 29, 2026 02:04am): ありがとーーー！！
 - **おうが** (Jun 29, 2026 11:45pm): 君だねwww
-- **どぬく🍑** (Jul 01, 2026 09:11am): おめおめおめでとう
+- **亀井涼介(本名)** (Jul 01, 2026 09:11am): おめおめおめでとう
 - **RYOICHI** (Jul 01, 2026 09:43am): いぇーい
 - **おうが** (Jul 01, 2026 12:11pm): ありがとねーーー！！
 - **Blue Walker** (Jul 02, 2026 01:30am): おめでとーーーう！！
 - **おうが** (Jul 02, 2026 12:07pm): マジでありがと！！これからも頑張るわ！
-- **どぬく🍑** (Jul 02, 2026 11:02pm): がんばがんば
+- **亀井涼介(本名)** (Jul 02, 2026 11:02pm): がんばがんば
 - **ハチミツ** (Jul 03, 2026 12:18am): おめでとーーーーー
 - **おうが** (Jul 03, 2026 01:47am): ありがと！ハチミツー
 - **Blue Walker** (Jul 03, 2026 01:58am): これからも頑張れ！
@@ -2613,7 +2613,7 @@ forsaken神
 
 #### Comments (2)
 - **おうが** (Sep 06, 2026 11:01pm): あーいいね
-- **どぬく🍑** (Sep 07, 2026 11:35pm): 俺が投稿したゲームサイトにブロブラあるよ
+- **亀井涼介(本名)** (Sep 07, 2026 11:35pm): 俺が投稿したゲームサイトにブロブラあるよ
 
 #### Additional Information
 - **Post color:** Black
@@ -2694,11 +2694,11 @@ s瀬drftgyふじこplきじゅhygtfrd5t67y8うい子jんhbgyvftry7ウジhgf    �
 
 #### Comments (6)
 - **RONALDO（偽物）** (Aug 17, 2026 11:41pm): お願いします
-- **どぬく🍑** (Aug 18, 2026 01:09am): やほー
+- **亀井涼介(本名)** (Aug 18, 2026 01:09am): やほー
 - **RONALDO（偽物）** (Aug 18, 2026 03:18am): やっほー
 - **ガチスケ** (Aug 18, 2026 12:12pm): やほー
-- **どぬく🍑** (Sep 01, 2026 11:06pm): 第五人格作ってみる
-- **どぬく🍑** (Sep 02, 2026 01:50am): 無理使ってるサイトブロックされた
+- **亀井涼介(本名)** (Sep 01, 2026 11:06pm): 第五人格作ってみる
+- **亀井涼介(本名)** (Sep 02, 2026 01:50am): 無理使ってるサイトブロックされた
 
 #### Additional Information
 - **Post color:** Black
@@ -2720,12 +2720,12 @@ s瀬drftgyふじこplきじゅhygtfrd5t67y8うい子jんhbgyvftry7ウジhgf    �
 ---
 
 ### 11. 太鼓の達人
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
 #### Comments (3)
-- **どぬく🍑** (Aug 09, 2026 05:00am): 作って欲しい
+- **亀井涼介(本名)** (Aug 09, 2026 05:00am): 作って欲しい
 - **おうが** (Aug 12, 2026 03:00am): 考えとく
 - **ガチスケ** (Aug 14, 2026 07:11am): あの
 
@@ -2749,7 +2749,7 @@ s瀬drftgyふじこplきじゅhygtfrd5t67y8うい子jんhbgyvftry7ウジhgf    �
 
 #### Comments (17)
 - **おうが** (Jul 14, 2026 11:29am): これからクオリティーあげて行こうと思うあと作って欲しいのあったら作ろうと思う
-- **どぬく🍑** (Jul 15, 2026 06:51am): ブロスタ
+- **亀井涼介(本名)** (Jul 15, 2026 06:51am): ブロスタ
 - **サンド** (Jul 15, 2026 09:05am): ブロスタお願いします
 - **おうが** (Jul 15, 2026 12:39pm): ブロスタか作ってみる
 - **おうが** (Jul 15, 2026 12:39pm): 他ありますか？
@@ -2820,7 +2820,7 @@ s瀬drftgyふじこplきじゅhygtfrd5t67y8うい子jんhbgyvftry7ウジhgf    �
 ---
 
 ### 4. 入ってー
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
@@ -2910,14 +2910,14 @@ s瀬drftgyふじこplきじゅhygtfrd5t67y8うい子jんhbgyvftry7ウジhgf    �
 ---
 
 ### 10. Post 10
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://padlet.com/karafurupichidonukutuishi4/padlet-s0235iptw7wv4lhw6jsh)
 
 #### Comments (1)
-- **どぬく🍑** (Sep 07, 2026 11:38pm): この部屋作って8日でもうすぐです閲覧300
+- **亀井涼介(本名)** (Sep 07, 2026 11:38pm): この部屋作って8日でもうすぐです閲覧300
 
 #### Additional Information
 - **Post color:** Black
@@ -2927,7 +2927,7 @@ s瀬drftgyふじこplきじゅhygtfrd5t67y8うい子jんhbgyvftry7ウジhgf    �
 ---
 
 ### 11. よろ
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
@@ -2969,7 +2969,7 @@ s瀬drftgyふじこplきじゅhygtfrd5t67y8うい子jんhbgyvftry7ウジhgf    �
 ---
 
 ### 14. Post 14
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 こっちに来て
 
@@ -2996,7 +2996,7 @@ s瀬drftgyふじこplきじゅhygtfrd5t67y8うい子jんhbgyvftry7ウジhgf    �
 [Attachment 1](https://padlet.com/r0300353/padlet-lus6xgi9uq4t6brj)
 
 #### Comments (1)
-- **どぬく🍑** (Aug 30, 2026 11:20pm): 行くねー
+- **亀井涼介(本名)** (Aug 30, 2026 11:20pm): 行くねー
 
 #### Additional Information
 - **Post color:** Black
@@ -3248,7 +3248,7 @@ s瀬drftgyふじこplきじゅhygtfrd5t67y8うい子jんhbgyvftry7ウジhgf    �
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5890775394/48af173392fbde3d723b52a5e4a74afa/videoplayback__54_.mp4?Expires=1789859572&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xGSdE9oYgjr9d47ESioCPQrUu1QFBgyME43e3j6XgR6A8BxcQKoHEE8ydwNUNLRC1OGi0D1OE7SqoAdElJaWZkOCqGbishAjOaFZXNKg8coACn1PGLmr69zX56L4EYNJ8JtqzRqTZmfADO4ljmHD188ICzTfmmQRt36%2FqYrb0m2IurfA38sKwNUAYOXkTmUp78UObk7Vk%2FIToaThNSa7zrWv6TxAXcnp8f9OTYzVw6hhZT0tEWB%2F0YlqlqZh7pehkjIPHUWpBsEmdyU0JaPRYPpu23q6CKxEEGOXOvKxN79bW1DfZvJP4rmIYhrGSFQF%2BWvjI3BVFWPvA4eQW%2F457g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5890775394%2F48af173392fbde3d723b52a5e4a74afa%2Fvideoplayback__54_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5890775394/48af173392fbde3d723b52a5e4a74afa/videoplayback__54_.mp4?Expires=1789867328&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=R38ItLevq5FaWGclGwOrEQBb3Jhx3qxSKw84Qr4atJnlBPomEGlZJ6%2BIknliZ66L8UkTETdjQ41%2FJ9GB%2FMI4IHT1VhN6Y%2FPcsx98TcS4ldSxA68I8uUuh%2BGo%2FzTtKb2UCBRwDinyvcD3%2FkeoDe4MeJU0QAs24mWydn4%2FUWeW5%2Fi1CESmxHSKPW1kJABIIh%2FY9I0yldg%2FR4OAmPOqm2s0aakFKYBCqycDlqu7PYjj7Bhn0vEn0eOZWE7kwkzLyOxY8IBakoae15ahp%2F5Uc6sUq0ejEvXJ4NJshS2sPqPq%2BTaX1tp%2FkY51NwyO%2BXrmonDVatRrTzWWXLyHAEs%2FliN5vw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5890775394%2F48af173392fbde3d723b52a5e4a74afa%2Fvideoplayback__54_.mp4)
 
 #### Additional Information
 - **Post color:** Black
@@ -3276,7 +3276,7 @@ s瀬drftgyふじこplきじゅhygtfrd5t67y8うい子jんhbgyvftry7ウジhgf    �
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/d4f567172245eec87a1cfb74ad0abafa/images__81_.jpeg?Expires=1789859572&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BipVPudzMvXhjxlTF%2B7C5Trj3ycU5j8Xp6Vlysz29yj%2B3PrGJjoD1SsNxu9dhPI2FMu%2BUkrBuj6tMk97rpqt85%2FYC49yrtE9PHY1ioH830NA2CxJ10u3Cw2%2Fl1UoMhxxrCxOUP1C%2BZZJ93RbX9qI3F6xW7Vw5lU0UNr6xMGAu57yhbSkLyoTLwAk90JBLAfSHMCs7n6J18ygzQdZtYz3baPVHOf6YCuJIe9NmfPpItZ7XgzOx9KtlOewiB5wh%2BppvTZRtxLC1yLsA5t9Z3cRhIrVeDGO5IMVwqbpuOahnGXZyqfolljRhRChWvnFkN4oAlhF1zJk0%2BM4jmZX8kSanA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fd4f567172245eec87a1cfb74ad0abafa%2Fimages__81_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/d4f567172245eec87a1cfb74ad0abafa/images__81_.jpeg?Expires=1789867328&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=C4m12LgJ3YZ%2FQRnZLoaVDyRiPVGmXO%2F53iJAHKLcY3CnjovONgoDSZWawia6AyVLI8XK%2FvDtJT5ELOyxiXdfc%2BNSYmQTeReAMPoqdl9CQnhDDvhJbdm7fa4WTz4XvOd9RQDlEASAFLnwr6jJdLvE%2BwIsgJ42%2BXxKie2MNSUfMS8jVrTmuZTBceiLpqckFiI2GjvL5iMhugoTCuO5pBuhRnIitpJwYNdJZw2Jl6cq8e6UXnNv39EkotJ83dz%2Fiup%2FSrBZP9nRBxxLGy3c19xBSALUSCIihvgHEW2052sAyroKF879%2FG6gYxmNstgPW7KSUaMKlMVHpKCvXgWUnc2wcw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2Fd4f567172245eec87a1cfb74ad0abafa%2Fimages__81_.jpeg)
 
 #### Comments (1)
 - **Blue Walker** (Jul 17, 2026 07:55am): https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9
@@ -3596,7 +3596,7 @@ s瀬drftgyふじこplきじゅhygtfrd5t67y8うい子jんhbgyvftry7ウジhgf    �
 ---
 
 ### 6. 水の部屋宣伝してくれ
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
@@ -3835,7 +3835,7 @@ by RONALDO（偽物）
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5098783411/aac01b8516c4e82b2b93dfac91195850/game_v4__1_.zip?Expires=1789859572&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dWG6s8pjBmEjN9lNIRRdPOE3LMLeUjTE6jWPH6781BGQ447LVnM9a2iXaAVLULj%2BK0DmyOAOyyWQGH3oDkXiEgchgF%2B5AR6kdZYMxM1bCMcRLaJJ5RJxOO%2FTD6d9er0hKKCEm9MK5pjkb2sxutkox1pqrCLSkLWBasGR0jT1wvPWUqhOPJWpG9ESjh7%2Fher9l%2B9WXS6Hdy0hivurVYkLVZO0LYsUtp1WshqdGMVuXOzxX5qepgl0AL3UyhI%2BlK3SezVifNTlPY6pfpDe%2BgNzMVjTZBmWIe7cZIMZ1OKvnD7K7oTPOGvi4HhNb%2Bbs5i%2FMP%2FFPeVQQWJiWABldB445MA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5098783411%2Faac01b8516c4e82b2b93dfac91195850%2Fgame_v4__1_.zip)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5098783411/aac01b8516c4e82b2b93dfac91195850/game_v4__1_.zip?Expires=1789867328&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RFIdRvLRX2cnCoHv8DOOs%2FIMHGXFJGTdHJy1oZz3%2BqhIdCzYmE%2F0b%2F4Eem4J46YmZY%2B0bhz60E75WNGJpfE2y%2BPiKLPkOG6G3BCCRacj19qBMyLnJ3XIcQLvNsNUKMLIDMv6bwubARzYoWjwWdleNbVO4SQiZGXgxRvLWfeAc9E2RgVlgsqJhhAL0MWO0qTULvq5NrEG0D0VAmNAghVrIIMoqGJED%2BVgqBV9lrzWKJV32aIGt2eoc9wl58d5rofmDQMAX8ZEzFu4c9vY1iRtisCUx%2F%2BrfkKNMVlUXEhS7QJR%2FnWVM5gFleTnItOel%2BmkqOQS%2Bf7GxxHrugMyqkImgw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5098783411%2Faac01b8516c4e82b2b93dfac91195850%2Fgame_v4__1_.zip)
 
 #### Comments (5)
 - **むちるん（スマホ垢）** (Aug 10, 2026 09:11pm): スマホ垢作りました！
@@ -4088,7 +4088,7 @@ ID  **M2FKP2   貼っときます**
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6029193951/3e7f6b7a0e3b459677f623643fdb56d1/video.mp4?Expires=1789859572&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=8FRKtwZHLnT9nkd5Ox78eTDu%2BybSn7bRBXp6FjGkPUOS5hskOSANBUVbtP9qOFy5CggSK%2FdJ%2BSJy7V%2F3cy%2BkFYe%2Fy%2FO0sRgxFp%2FF0nyVl3IOziJcr0nK6E8O7NhnPWUeM2HmQGExe2lei5RM5WqBWXcDGm9Eo4ESt3v4%2FbweLXUZ0PtMYMDXcV6DE%2Fy790OIUj2fs18R9f9DHaXNsoslM%2FoX%2Fsm8lyIX5EEzQydvu7xnznZ25TNta4o0eC8slnRHp7dNw8Yp54%2B6ah09KeVL6kVwuOMiP99IFLkT7PBjxxPGoKuVRJZlk8L%2BQ402hl4M3sZDr9ULwLZ4SDphszoMfg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6029193951%2F3e7f6b7a0e3b459677f623643fdb56d1%2Fvideo.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6029193951/3e7f6b7a0e3b459677f623643fdb56d1/video.mp4?Expires=1789867328&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=AuRM6GMUfUWNV6aWJYsMjcm73jcBxgUQgvpaW7%2BUY1zsMTezP3Gp0v1QI4%2FnvybYhjgQnuJQ6ZXjs9H8O%2BkQFln1CyVA2Hy24Q7vKBHe%2FtVogI%2Bpb8EeglNMDOeV4t5G%2Fgkcbod3Xa4v3YKjabCsUvW0UMEokiq7siTAhWE2oIhJPB2A8%2BpHhFbaxOsN3CiUSLEgsiKXQyw14mebbt5rRC%2BgbivYKtnCRIRV7kat4xI5kvC9BP1s6%2Bx4k4OQy50OLDz6nx955GDgBoSgh6JJC6EksM8ncrKftubsLfSPcC5e7%2BhhFUhY6l7SJ0NnDvq8K7Zir2GzxQOtTEJpm2s8eQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6029193951%2F3e7f6b7a0e3b459677f623643fdb56d1%2Fvideo.mp4)
 
 #### Comments (4)
 - **モリガスミ** (Aug 03, 2026 12:35pm): 実写！？
@@ -4771,7 +4771,7 @@ ID  **M2FKP2   貼っときます**
 
 **星評価:** 0 / 5 ⭐
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5060298995/1d1f9b4328cbf83a640cd46c00678311/super_mario_kart_rainbow_road.mp3?Expires=1789859573&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=50idhKZrl0mYaDVMDi%2BM2sMZ0dXl0wwYN0KwZZx5%2F36zipy3k6%2FNkMOG1oWVQ%2FX6FDXjUEAprLrakz2YXYHxAkDHrV2mOmvFhNbYPLcq%2FUUpKMQxhMQ2lpPlMQxt1VhzElMPqzQSPJkveYOMc%2FQc1kj5PysaqJ%2Fvu906bMrrOusUEteysrUgeJBQA527BBXCNHW2iQmiPYElO6MYkcw19K1r%2FabTLGUoYfnDY2xl4XtWzs9QYTF3PyudxLXpoD3wrCobJsfsMUckKndURWTlvS2y1akvfcQborYiy6wwVIwvRRvafoxaCFTQkp4GUF5XVavgRONx3SrssRIh1dmjYA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5060298995%2F1d1f9b4328cbf83a640cd46c00678311%2Fsuper_mario_kart_rainbow_road.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5060298995/1d1f9b4328cbf83a640cd46c00678311/super_mario_kart_rainbow_road.mp3?Expires=1789867329&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5fKCK7nhZ%2BJjAL8Z8F60vQc%2BwKKQ5Vam%2BXYEG55f6eqkmpgVi87Y%2BB4Tq7x5eaNfJIhXk7dWnBz3mkFKzAiFk6Fk06e%2FKHcQ%2FFXHNAXRDZB4%2FItobeB0VjXpoSe6lt2xoWexnn7xpye7VFJ2G%2FLb0EN2z7liASjjU4XxMR38hFmt%2FZbQ%2F2t2MdDBg3AsKafs7DziKfMxYZLoi%2BV25rDa0r08syvtFJpKg3cReXW239PJS18tIFPV6yi9ZavJqN1RflQXU20ZkT89fN%2FXg0lrBuS53%2BjPnZ%2Bsq8jkbYEpX7ndkoyYn2mgBIJ2rHDV9ldj%2FEKFeA%2BWUdwU%2BgGYe8uWDA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5060298995%2F1d1f9b4328cbf83a640cd46c00678311%2Fsuper_mario_kart_rainbow_road.mp3)
 
 #### Additional Information
 - **Post color:** Black
@@ -5600,7 +5600,7 @@ ID  **M2FKP2   貼っときます**
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/0e4ef5caa2fa907d63366816cebf35bf/_________2026_02_27T105345_007.jpeg?Expires=1789859573&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WCh9HbizUJSrxJvhQWecdZA0tpHY39U5zhuNBuxStwA5fI%2BGK1oHkHNanK6nrCiZrUA8Z%2B1toxpPgGIsnoDfUC5F2Sj9lsb%2F7wiPRN%2FnL3UaLEprF7a9M1TkVpFnn4HsY1DRdnNP%2BsHLfkfwEWSRN3tsTULb1NOI8gN8WELRuRQ6yRzTyz643l80sRC6ph7vyiEItQV42kN3YWQBfw8mfUKSXdNW8sO4DidbXdwpLvFqDQOONDrhl59q2PLlFldt4pHl9hUd3zy7RjGtuxqKklvX4pBmwJ1F9e%2FbSVWllN6FhytTxchS50Tl%2FUippoUt%2FUO1nQfYKBFiD9KxQOHmRA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2F0e4ef5caa2fa907d63366816cebf35bf%2F_________2026_02_27T105345_007.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5334575452/0e4ef5caa2fa907d63366816cebf35bf/_________2026_02_27T105345_007.jpeg?Expires=1789867329&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=oD25ivrL4t7tpdomnAtLXE9LSDgcV05UCxhjWvFKR6YJDWkwthpHmhlL95DPwtE6dZYe15ucsbf5iWll9D8IPuMt31YN28Ob9EaiuPJ4GTJa7TfwPzFObrg3kUPJRK5Da1WhFUq9rajJum87z5herPkVY9Md6Y8faxB5gMp%2BVjarLCUHHLoVNJc4wJ0fq2JXJRiuywSowkN6EJDtYETocxgbK9kAUjeZRSWnNX52QkcZk6kwcAhbCMGGIxGZIe7jhyYhFOC3%2FtxHv3VIpmgyhcCLzqnA%2BoIQBu3dYT0UkPuxB3WDPdDwEqH6ZxiETvln0dJwrJcabmGcyez%2FL7oYDg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5334575452%2F0e4ef5caa2fa907d63366816cebf35bf%2F_________2026_02_27T105345_007.jpeg)
 
 #### Comments (1)
 - **Blue Walker** (Jul 17, 2026 07:55am): https://padlet.com/21070045_2/i-filter-ufk6i6p0phbin1u9
@@ -5740,7 +5740,7 @@ ID  **M2FKP2   貼っときます**
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5936812725/dab533c9b8c38dfc9677622b6a269af6/IMG_0022.jpeg?Expires=1789859573&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=IDbVW8QK3gU7OC98PHI73KouBGH%2FraXZa3mDrUn39wyqK3Q7d37Ic12PvE4akkvaLF9L8Ruorkyw44lYxuB2HuxhI6iUk%2BRzjP8GkodVFd8XHE4gwYlNeSvc5GpCdgbH7P5qi%2B2gPzP7CRqypcurh6PXkxPKNrrHYrKk9AQxNXtpzz7piu47gxaXIIvZOkWgYxgS1svGTCGXPMKqlBq%2FwUjbhU65bFAclsH9AeD0Q%2Fq1saMQudWG9m63uIKxnwkMNncAOf5yFqDsJFM9PfmwlyumpLHTy1wpUjeZAV6dusTySTNyTv6gsrEK6TmG754l9%2BJH1kVSXcbgXBZKVwyevA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5936812725%2Fdab533c9b8c38dfc9677622b6a269af6%2FIMG_0022.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5936812725/dab533c9b8c38dfc9677622b6a269af6/IMG_0022.jpeg?Expires=1789867329&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JrS4asz7KNNGW36wNaLrGQwSUIJVOPnoKXYW52yQuxWbNpOwYIsr0Lgfl8bh3kdCKXtKrP3qOoE3x%2FaJKfkWEOm3w1x%2BCT6%2BwB%2FL0dhAoHiZHI31oGVAp1m4g3nfvNVO0toV7Py1ktX6tmpLmZw2KxPxLlVjOMag7xgJ0wtdRAe6CyZkc4BNIjLtJUkHhaqMlQj61G6WvWW4oecrZAY%2FWfZjY21U5Dgg4GZFWfjuycPJyyLhKsbUbs%2Fq4N6VXVzMvJuuA7kch%2B5uOn1M5Oc%2FkIsl7iHkimLsA1b5q6Dr7Hg%2BtoQp8Zux%2Fq10VX2y0fA3SZjjY8iwZTuR%2FB55ysiZyQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5936812725%2Fdab533c9b8c38dfc9677622b6a269af6%2FIMG_0022.jpeg)
 
 #### Comments (3)
 - **R** (Jul 12, 2026 12:10am): 友達が欲しいって言っててたまたまあった笑
@@ -5786,7 +5786,7 @@ ID  **M2FKP2   貼っときます**
 **星評価:** 0 / 5 ⭐
 
 #### Comments (3)
-- **どぬく🍑** (Jul 10, 2026 05:11am): 俺が書いたやつ真似してみて
+- **亀井涼介(本名)** (Jul 10, 2026 05:11am): 俺が書いたやつ真似してみて
 - **R** (Jul 10, 2026 07:27am): なんの絵ですか？ウリさん？たっつん？
 - **R** (Jul 10, 2026 07:27am): あと背景難しいかもです…
 
@@ -5808,7 +5808,7 @@ ID  **M2FKP2   貼っときます**
 
 #### Comments (5)
 - **R** (Jul 09, 2026 12:14pm): ブロ
-- **どぬく🍑** (Jul 10, 2026 12:15am): ぶろ
+- **亀井涼介(本名)** (Jul 10, 2026 12:15am): ぶろ
 - **Jr.** (Jul 10, 2026 10:34pm): ぶろ
 - **削除済みユーザー** (Jul 11, 2026 07:05am): Blo
 - **削除済みユーザー** (Jul 11, 2026 07:05am): 皆さんできましたか?
@@ -5827,7 +5827,7 @@ ID  **M2FKP2   貼っときます**
 
 **星評価:** 0 / 5 ⭐
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5934303462/a664a2d9a265d397ad6b81cbebe0d029/IMG_0460.jpeg?Expires=1789859573&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tXVZUHKzycy7ghUEpREah03RHe3nmlQ8nHqOPR8TbLBw%2Bi%2FjmUqZLQRvD6416GhY2ocEIz0S%2FP9M0dYN0v6cOQY3f4V8RQ%2B1XrDiMNbYGIxm6tlypGkID%2BBKxtAJGdA%2BJ1Rzb5NtQ7j9yBjXE865UftVRN4zKFAUXQG1H8Vk%2B9SFfUErTZJwpoQjVGEGbJRSG3C9hrUKZ9VPcyjYMIL1tt%2FTpvzi2ShdQe%2Fh9GRBTIBkMCl8kT%2Fi0%2B3xHtzId94cDy1QSAWz4uW%2FespbABWGLVGWYZwpBgYItXg869OdG9ACBF07y4eeOUFe6jiIgXoldnud7yrcGy8r9wbe%2FX%2F3KQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5934303462%2Fa664a2d9a265d397ad6b81cbebe0d029%2FIMG_0460.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5934303462/a664a2d9a265d397ad6b81cbebe0d029/IMG_0460.jpeg?Expires=1789867329&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=S5kkmFZd1lhD0z3BIRBa9cpt3hrU73jojgyc6%2F2ldGJRsZCvfdiUjBYgqbfkfQyrSM7qdB7Cg3dgmmgKuEsLupZC5K5HqPGYATUasVYxz8sGUI2S58j18K8Jc0TkeYaNG%2FASh1WwqF%2F92CPxYlGYo7hYpmyAPn4B%2FRPt%2FTCtxZU5qg7l9uy9m8taCeIjLdG8qQl7pLr6BVubRqXVWg9vWpqIi8ENipHadRu5VuLHp1JjizvLSsATsfv3wyT8LlUkp3iU9iC%2FpudhEpBLDa8f2EJ2ct3l%2BITkrFH1ipSB6h%2FVGZHWrzaapXeHPGKrNe2oodDJ4k43U1AOP%2FS3tMwCZQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5934303462%2Fa664a2d9a265d397ad6b81cbebe0d029%2FIMG_0460.jpeg)
 
 #### Comments (4)
 - **天才くん天才くん** (Jul 09, 2026 07:03am): なまえミスりました 
@@ -5977,7 +5977,7 @@ ID  **M2FKP2   貼っときます**
 - **R** (Jul 07, 2026 05:23am): 同じく
 - **R** (Jul 07, 2026 05:26am): なんか色々一緒ですごい
 - **れいり** (Jul 07, 2026 05:57am): そうだね
-- **どぬく🍑** (Jul 07, 2026 06:25am): れいりおる？ 
+- **亀井涼介(本名)** (Jul 07, 2026 06:25am): れいりおる？ 
 - **暇人two Time** (Jul 07, 2026 08:50am): 2人ぐらい知っている人で草
 - **R** (Jul 07, 2026 12:58pm): どゆこと
 
@@ -6056,7 +6056,7 @@ ID  **M2FKP2   貼っときます**
 ---
 
 ### 176. これは分かれる
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **YOASOBIとアドとミセスどれが好き？:**
 - **YOASOBI:** 7 votes
@@ -6089,7 +6089,7 @@ ID  **M2FKP2   貼っときます**
 - **R** (Jul 06, 2026 03:09am): 天才くんは？
 - **ヴィニシウス** (Jul 06, 2026 03:26am): こんにちは
 - **ヴィニシウス** (Jul 06, 2026 03:27am): このサイトってなんですか？
-- **どぬく🍑** (Jul 06, 2026 03:30am): Iフィルター回避系
+- **亀井涼介(本名)** (Jul 06, 2026 03:30am): Iフィルター回避系
 - **ヴィニシウス・ジュニオール** (Jul 06, 2026 03:37am): だから規制されないんですね
 
 #### Additional Information
@@ -6106,7 +6106,7 @@ ID  **M2FKP2   貼っときます**
 
 #### Comments (3)
 - **フミヅキ** (Jul 06, 2026 01:44am): 入られへん
-- **どぬく🍑** (Jul 06, 2026 03:31am): 荒らされて入れなくなった
+- **亀井涼介(本名)** (Jul 06, 2026 03:31am): 荒らされて入れなくなった
 - **時透無一郎** (Jul 06, 2026 05:03am): それな重すぎ
 
 #### Additional Information
@@ -6126,7 +6126,7 @@ ID  **M2FKP2   貼っときます**
 **星評価:** 0 / 5 ⭐
 
 #### Comments (5)
-- **どぬく🍑** (Jul 05, 2026 11:44pm): 関東の人なら一緒に行こ…
+- **亀井涼介(本名)** (Jul 05, 2026 11:44pm): 関東の人なら一緒に行こ…
 - **天才くん** (Jul 06, 2026 01:03am): 原石さん今週日遊べる？ 目の都合とか
 - **暇人two Time** (Jul 07, 2026 08:53am): ゲーム
 - **R** (Jul 08, 2026 12:25pm): キャンプ行く
@@ -6147,7 +6147,7 @@ ID  **M2FKP2   貼っときます**
 **星評価:** 0 / 5 ⭐
 
 #### Comments (2)
-- **どぬく🍑** (Jul 05, 2026 11:13pm): いるよ
+- **亀井涼介(本名)** (Jul 05, 2026 11:13pm): いるよ
 - **天才くん** (Jul 05, 2026 11:35pm): わかる
 
 #### Additional Information
@@ -6165,7 +6165,7 @@ ID  **M2FKP2   貼っときます**
 **星評価:** 0 / 5 ⭐
 
 #### Comments (1)
-- **どぬく🍑** (Jul 05, 2026 11:13pm): 通話の一番下に入れば行けるよ
+- **亀井涼介(本名)** (Jul 05, 2026 11:13pm): 通話の一番下に入れば行けるよ
 
 #### Additional Information
 - **Post color:** Black
@@ -6183,7 +6183,7 @@ ID  **M2FKP2   貼っときます**
 
 #### Comments (3)
 - **削除済みユーザー** (Jul 05, 2026 11:28am): アドレナリン
-- **どぬく🍑** (Jul 06, 2026 03:31am): どっちも好きだけどアドかな一番はYOASOBI
+- **亀井涼介(本名)** (Jul 06, 2026 03:31am): どっちも好きだけどアドかな一番はYOASOBI
 - **暇人two Time** (Jul 07, 2026 08:54am): Adoかな
 
 #### Additional Information
@@ -6284,7 +6284,7 @@ ID  **M2FKP2   貼っときます**
 **星評価:** 0 / 5 ⭐
 
 #### Comments (4)
-- **どぬく🍑** (Jul 03, 2026 09:56pm): 右上のアイコンをタップすればいけるよ
+- **亀井涼介(本名)** (Jul 03, 2026 09:56pm): 右上のアイコンをタップすればいけるよ
 - **原石** (Jul 04, 2026 01:53am): アクセスエラーて出る😭
 - **天才くん** (Jul 04, 2026 12:04pm): もう誰かわかった
 - **原石** (Jul 05, 2026 10:08pm): ？
@@ -6336,7 +6336,7 @@ ID  **M2FKP2   貼っときます**
 - **時透無一郎** (Jul 05, 2026 12:28am): おうがさん
 - **玲吏** (Jul 05, 2026 07:53am): していいんじゃない？
 - **原石** (Jul 05, 2026 10:06pm): いいと思う👍
-- **どぬく🍑** (Jul 05, 2026 11:14pm): 別にいいんじゃね解除しなくても
+- **亀井涼介(本名)** (Jul 05, 2026 11:14pm): 別にいいんじゃね解除しなくても
 - **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (Jul 21, 2026 09:54pm): mala
 - **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (Jul 21, 2026 09:54pm): 邪魔だしねw
 
@@ -6348,13 +6348,13 @@ ID  **M2FKP2   貼っときます**
 ---
 
 ### 191. 予約電話に来てー
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
 #### Comments (2)
-- **どぬく🍑** (Jul 03, 2026 06:15am): 一番下にあるから
-- **どぬく🍑** (Jul 03, 2026 06:16am): 返信もして
+- **亀井涼介(本名)** (Jul 03, 2026 06:15am): 一番下にあるから
+- **亀井涼介(本名)** (Jul 03, 2026 06:16am): 返信もして
 
 #### Additional Information
 - **Post color:** Blue
@@ -6364,14 +6364,14 @@ ID  **M2FKP2   貼っときます**
 ---
 
 ### 192. 松井秀喜2失点w
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
 #### Comments (4)
 - **れいり** (Jul 03, 2026 04:10am): ガチで？
-- **どぬく🍑** (Jul 03, 2026 04:21am): えっとねドジャースが8パドレスが6かな
-- **どぬく🍑** (Jul 03, 2026 04:24am): 松井裕樹の方だった
+- **亀井涼介(本名)** (Jul 03, 2026 04:21am): えっとねドジャースが8パドレスが6かな
+- **亀井涼介(本名)** (Jul 03, 2026 04:24am): 松井裕樹の方だった
 - **れいり** (Jul 03, 2026 04:28am): なんか変だと思ったw
 
 #### Additional Information
@@ -6418,7 +6418,7 @@ ID  **M2FKP2   貼っときます**
 - **天才くん** (Jul 01, 2026 12:08pm): ああマジか
 - **天才くん** (Jul 01, 2026 12:08pm): https://akashi.tomolinks.net/top
 - **天才くん** (Jul 01, 2026 12:22pm): あとこれhttps://19ch.tv/s6/s6.html授業受けれる小6の復習僕は小6だからこれ使ってる
-- **どぬく🍑** (Jul 02, 2026 11:29pm): 手越祐也天然…
+- **亀井涼介(本名)** (Jul 02, 2026 11:29pm): 手越祐也天然…
 - **Blue Walker** (Jul 03, 2026 02:00am): 行ってQ？
 - **おうが** (Jul 03, 2026 02:13am): ドユコト？
 - **おうが** (Jul 05, 2026 10:20am): おけ
@@ -6509,7 +6509,7 @@ ID  **M2FKP2   貼っときます**
 ---
 
 ### 2. Post 2
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
@@ -6571,7 +6571,7 @@ ID  **M2FKP2   貼っときます**
 
 #### Comments (2)
 - **星霧　真冬** (Sep 03, 2026 03:25am): ねーねー教えてくださーい
-- **どぬく🍑** (Sep 07, 2026 11:24pm): 教えたよ俺の部屋で
+- **亀井涼介(本名)** (Sep 07, 2026 11:24pm): 教えたよ俺の部屋で
 
 #### Additional Information
 - **Post color:** Black
@@ -6588,7 +6588,7 @@ ID  **M2FKP2   貼っときます**
 [Attachment 1](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md)
 
 #### Comments (1)
-- **どぬく🍑** (Sep 02, 2026 02:34am): ブロ
+- **亀井涼介(本名)** (Sep 02, 2026 02:34am): ブロ
 
 #### Additional Information
 - **Post color:** Black
@@ -6723,7 +6723,7 @@ ID  **M2FKP2   貼っときます**
 - **Jr.** (Jul 12, 2026 08:29am): いいの？
 - **Jr.** (Jul 12, 2026 08:30am): 明日までにとても欲しいに80%入ってなかったら教えないよーーーーーーーだ
 - **Jr.** (Jul 12, 2026 08:30am): ごめんなさい
-- **どぬく🍑** (Jul 13, 2026 01:00am): いらねいらね
+- **亀井涼介(本名)** (Jul 13, 2026 01:00am): いらねいらね
 - **Jr.2号（Jr.）** (Jul 14, 2026 10:42am): 水の部屋とかゲームサイトとか強いゲームサイト共有場入ったらゲーム大量にあるみんな使って
 - **あんこ　食べ物帝国リーダー　　#10分で帰ってくるネッコのことを許すな集団会長** (Jul 15, 2026 06:36am): じゃぁURLくれ
 
@@ -6797,9 +6797,9 @@ ID  **M2FKP2   貼っときます**
 [Attachment 1](https://script.google.com/a/macros/g.edi.akashi.hyogo.jp/s/AKfycbyTR5aZD028qJv9rwEBKGFHceFoC2mSqFOg39SnpcyGyHSclQxP5BBZ-f_9scQx6ANW/exec)
 
 #### Comments (3)
-- **どぬく🍑** (Jul 08, 2026 07:32am): 知ってる
+- **亀井涼介(本名)** (Jul 08, 2026 07:32am): 知ってる
 - **スリ** (Jul 08, 2026 09:22am): 操作方法教えて
-- **どぬく🍑** (Jul 08, 2026 11:39am): 縦画面でプレイ
+- **亀井涼介(本名)** (Jul 08, 2026 11:39am): 縦画面でプレイ
 
 #### Additional Information
 - **Post color:** Black
@@ -6974,12 +6974,12 @@ ID  **M2FKP2   貼っときます**
 #### Comments (10)
 - **三角** (Jul 03, 2026 12:13pm): コメントまだ？  
 - **三角** (Jul 03, 2026 12:16pm): お願いないの？知らない？
-- **どぬく🍑** (Jul 03, 2026 10:49pm): 欲しい？
+- **亀井涼介(本名)** (Jul 03, 2026 10:49pm): 欲しい？
 - **か** (Jul 03, 2026 11:22pm): 欲しいバージョン古くても
 - **三角** (Jul 03, 2026 11:22pm): 欲しい
 - **ソラカゼ** (Jul 04, 2026 12:46am): コメントまだ？
-- **どぬく🍑** (Jul 04, 2026 01:46am): ごめん大会で返信できなかった
-- **どぬく🍑** (Jul 04, 2026 01:47am): https://www.autistici.org/eaglercraft/play/EaglercraftX_1.8/JavaScript/
+- **亀井涼介(本名)** (Jul 04, 2026 01:46am): ごめん大会で返信できなかった
+- **亀井涼介(本名)** (Jul 04, 2026 01:47am): https://www.autistici.org/eaglercraft/play/EaglercraftX_1.8/JavaScript/
 - **原石** (Jul 04, 2026 01:54am): ブロックされちゃった
 - **ソラカゼ** (Jul 04, 2026 01:55am): ブロックされたけどありがと
 
@@ -6991,7 +6991,7 @@ ID  **M2FKP2   貼っときます**
 ---
 
 ### 27. ゲームサイト知っている人全部教えてくれ
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 5.0 / 5 ⭐ (2)
 
@@ -7006,14 +7006,14 @@ ID  **M2FKP2   貼っときます**
 ---
 
 ### 28. クラスルームちょうだい
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
 #### Comments (3)
 - **おうが** (Jul 02, 2026 12:13pm): ごめーん持ってないわ
 - **時透無一郎** (Jul 03, 2026 08:30am): https://classroom.google.com/h
-- **どぬく🍑** (Jul 04, 2026 02:19am): ゲームサイトね…
+- **亀井涼介(本名)** (Jul 04, 2026 02:19am): ゲームサイトね…
 
 #### Additional Information
 - **Post color:** Red
@@ -7041,7 +7041,7 @@ ID  **M2FKP2   貼っときます**
 ---
 
 ### 30. 桃鉄のパスワード教えて
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
@@ -7198,11 +7198,11 @@ ID  **M2FKP2   貼っときます**
 - **神蚊** (Jul 02, 2026 12:55pm): 今います
 - **神蚊** (Jul 02, 2026 12:55pm): 放置してるかも
 - **削除済みユーザー** (Jul 02, 2026 09:10pm): ごめん、参加できませんでした本当にすみません
-- **どぬく🍑** (Jul 02, 2026 11:01pm): チース
+- **亀井涼介(本名)** (Jul 02, 2026 11:01pm): チース
 - **おうが** (Jul 02, 2026 11:03pm): チース！
-- **どぬく🍑** (Jul 03, 2026 02:58am): 今から行ける人おる？
-- **どぬく🍑** (Jul 03, 2026 03:00am): 行ける人は入って
-- **どぬく🍑** (Jul 03, 2026 03:56am): カラフルピーチどぬく推し があなたをミーティングに招待しました。ミーティングにご参加ください:https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィルターなんて怖くない 
+- **亀井涼介(本名)** (Jul 03, 2026 02:58am): 今から行ける人おる？
+- **亀井涼介(本名)** (Jul 03, 2026 03:00am): 行ける人は入って
+- **亀井涼介(本名)** (Jul 03, 2026 03:56am): カラフルピーチどぬく推し があなたをミーティングに招待しました。ミーティングにご参加ください:https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィルターなんて怖くない 
 - **時透無一郎** (Jul 03, 2026 08:28am): ブロ
 - **RYOICHI** (Jul 03, 2026 10:14am): ブロ
 - **オクラ** (Jul 04, 2026 11:54pm): https://meet.stuvus.uni-stuttgart.de/HandyPopularitiesStayActually%E5%85%A5%E3%81%A3%E3%81%A6
@@ -7272,7 +7272,7 @@ ID  **M2FKP2   貼っときます**
 ---
 
 ### 7. カラフルピーチどぬく推し があなたをミーティングに招待しました。
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 ミーティングにご参加ください:
 
@@ -7281,16 +7281,16 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 **星評価:** 0 / 5 ⭐
 
 #### Comments (11)
-- **どぬく🍑** (Jul 03, 2026 05:15am): 入ってよ〜🥺
+- **亀井涼介(本名)** (Jul 03, 2026 05:15am): 入ってよ〜🥺
 - **おうが** (Jul 03, 2026 05:16am): こっちきて
 - **おうが** (Jul 03, 2026 05:48am): ごめんもう入れん
 - **おうが** (Jul 03, 2026 05:48am): 学校終わったから
-- **どぬく🍑** (Jul 03, 2026 05:52am): まじ？家でできないの？
-- **どぬく🍑** (Jul 03, 2026 05:57am): 誰が使ってもいいよー
+- **亀井涼介(本名)** (Jul 03, 2026 05:52am): まじ？家でできないの？
+- **亀井涼介(本名)** (Jul 03, 2026 05:57am): 誰が使ってもいいよー
 - **時透無一郎** (Jul 04, 2026 07:16am): ブロ
 - **天才くん** (Jul 04, 2026 12:21pm): あ　　
 - **天才くん** (Jul 04, 2026 12:21pm): あ
-- **どぬく🍑** (Jul 05, 2026 11:36am): 誰かいるー？
+- **亀井涼介(本名)** (Jul 05, 2026 11:36am): 誰かいるー？
 - **天才くん** (Jul 09, 2026 07:35am): ↑天才くん誰
 
 #### Additional Information
@@ -7471,14 +7471,14 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 ## YouTube系
 
 ### 1. YouTubeいる？
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
 #### Comments (5)
 - **匿名** (Sep 07, 2026 11:35pm): いる
-- **どぬく🍑** (Sep 07, 2026 11:36pm): じゃあからぴちの部屋入って
-- **どぬく🍑** (Sep 07, 2026 11:36pm): 俺のへや
+- **亀井涼介(本名)** (Sep 07, 2026 11:36pm): じゃあからぴちの部屋入って
+- **亀井涼介(本名)** (Sep 07, 2026 11:36pm): 俺のへや
 - **ノノカゼ** (Sep 08, 2026 11:17am): 入ったよ
 - **ゆら** (Sep 08, 2026 11:45am): 欲しいです！！
 
@@ -7516,15 +7516,15 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 ---
 
 ### 3. 新しいの欲しい人ー
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 5.0 / 5 ⭐ (1)
 
 #### Comments (5)
-- **どぬく🍑** (Aug 31, 2026 11:25pm): 動画系最強
-- **どぬく🍑** (Aug 31, 2026 11:25pm): のやつ
-- **どぬく🍑** (Aug 31, 2026 11:25pm): 欲しい人俺の部屋くればあるよ
-- **どぬく🍑** (Aug 31, 2026 11:25pm): 広めないでね
+- **亀井涼介(本名)** (Aug 31, 2026 11:25pm): 動画系最強
+- **亀井涼介(本名)** (Aug 31, 2026 11:25pm): のやつ
+- **亀井涼介(本名)** (Aug 31, 2026 11:25pm): 欲しい人俺の部屋くればあるよ
+- **亀井涼介(本名)** (Aug 31, 2026 11:25pm): 広めないでね
 - **KASUE** (Sep 04, 2026 09:01am): どうやって入れますか？
 
 #### Additional Information
@@ -7535,14 +7535,14 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 ---
 
 ### 4. Post 4
-**Author:** どぬく🍑 (karafurupichidonukutuishi4)
+**Author:** 亀井涼介(本名) (karafurupichidonukutuishi4)
 
 **星評価:** 0 / 5 ⭐
 
 [Attachment 1](https://script.google.com/macros/s/AKfycbwW2uVr6_zt3AztFHqIbyrQAe_kAqrDPVjXmjCcpJuYhAAcu4ujy5u4y26B0-a7nKkX/exec)
 
 #### Comments (4)
-- **どぬく🍑** (Aug 31, 2026 12:48am): これはいけるっしょ
+- **亀井涼介(本名)** (Aug 31, 2026 12:48am): これはいけるっしょ
 - **ソラマイ** (Aug 31, 2026 12:48am): ありがとう！
 - **KASUE** (Aug 31, 2026 09:53am): ありがとうございます！！
 - **KASUE** (Aug 31, 2026 10:06am): なぜか使えなくなりました
@@ -7588,7 +7588,7 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 **星評価:** 0 / 5 ⭐
 
 #### Comments (6)
-- **どぬく🍑** (Aug 09, 2026 04:58am): 無理
+- **亀井涼介(本名)** (Aug 09, 2026 04:58am): 無理
 - **Blue Walker** (Aug 11, 2026 10:02am): ありがとう
 - **Blue Walker** (Aug 11, 2026 10:02am): ぜんぶいけた
 - **RONALDO（偽物）** (Aug 16, 2026 02:38am): できない😭
@@ -7704,8 +7704,8 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 - **匿名** (Jun 29, 2026 01:48am): 誰かいる？
 - **おうが** (Jun 29, 2026 01:57am): チョコのプラスはないかな
 - **フォートナイト廃課金者** (Jun 29, 2026 02:54am): 誰かさショート動画も流せるダウンローダーかYouTubeない？
-- **どぬく🍑** (Jun 29, 2026 03:32am): ヤッホー 
-- **どぬく🍑** (Jun 29, 2026 03:32am): だれかいる？
+- **亀井涼介(本名)** (Jun 29, 2026 03:32am): ヤッホー 
+- **亀井涼介(本名)** (Jun 29, 2026 03:32am): だれかいる？
 - **ますと** (Jun 29, 2026 07:06am): チョコほしいです
 - **ますと** (Jun 29, 2026 07:08am): 一応持ってるのだします👇Free YouTube Video Downloader | Save YouTube Videos in HD | PostSyncer Online Audio Downloader for Quick Music Saving on Any Site EaseUS オンライン ビデオ ダウンローダー (1,000 サイトをサポート) Free YouTube Downloader: Download YouTube Video Online 2026 YouTubeからMP4へ無料変換｜高画質動画を即時ダウンロード EaseUS オンライン ビデオ ダウンローダー (1,000 サイトをサポート) Free Social Media Downloader - Save Instagram, TikTok, Twitter, YouTube Videos & Photos | PostSyncer Descargar reels de Instagram en HD | Herramienta gratuita de Publer むりだったらごめん
 - **れいり** (Jun 29, 2026 09:51am): 無理だぁ
@@ -7713,7 +7713,7 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 - **おうが** (Jun 29, 2026 11:49pm): ダウンロードいけた！ありがとねー
 - **タニモリ** (Jun 30, 2026 12:57am): 全部できないぴえん
 - **ちょこ** (Jun 30, 2026 05:52am): 俺も無理や🥲
-- **どぬく🍑** (Jun 30, 2026 10:19am): タニモリ2人おらん？
+- **亀井涼介(本名)** (Jun 30, 2026 10:19am): タニモリ2人おらん？
 - **な** (Jul 01, 2026 03:09am): https://wkt-jajaja.onrender.com/loginパスワードwakame
 - **効率審査員** (Jul 02, 2026 08:44am): たぶんチョコプラスhttps://8z59xh-8000.csb.app/
 - **効率審査員** (Jul 02, 2026 08:44am): パスワード
@@ -7851,7 +7851,7 @@ https://meet.stuvus.uni-stuttgart.de/みんなで協力したらアイフィル�
 [Attachment 1](https://www.web.nhk/)
 
 #### Comments (5)
-- **どぬく🍑** (Jul 03, 2026 02:21am): ブロ
+- **亀井涼介(本名)** (Jul 03, 2026 02:21am): ブロ
 - **おうが** (Jul 03, 2026 02:34am): いけた
 - **天才くん** (Jul 03, 2026 03:08am): ないす
 - **naganegi1364 ﾌﾟﾘﾝﾀﾍﾞﾀｲ　＃初代mbappeの会員　#初代つばさ教** (Jul 12, 2026 04:30am): すげえ
