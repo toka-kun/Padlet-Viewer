@@ -1,4 +1,4 @@
-最終取得: 2026/09/14 16:09:21
+最終取得: 2026/09/14 19:25:06
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Nanachiki/padlet-4b9092979b4e6dlm
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
-- **Posts:** 87
+- **Posts:** 96
 - **Created At:** Aug 27, 2024 11:14am
-- **Updated At:** Sep 12, 2026 11:36pm
+- **Updated At:** Sep 14, 2026 07:58am
 
 ## 概要
 
@@ -1093,7 +1093,36 @@
 
 ---
 
-### 2. おもろいゲーム
+### 2. 飛行機のゲーム
+**Author:** はるとねこ (r0300131)
+
+ブロックされたら教えて
+
+やり方はstartおすメニューで選んだらほかのもできるで
+
+[Attachment 1](https://medv.io/bit-planes/)
+
+#### Comments (11)
+- **るい** (Oct 09, 2025 11:48am): Block
+- **はるとねこ** (Oct 09, 2025 11:55am): すまん
+- **るい** (Oct 09, 2025 11:55am): 全然大丈夫ー
+- **はるとねこ** (Oct 09, 2025 11:56am): うちのパソコンやと行けるんやけど
+- **はるとねこ** (Oct 09, 2025 11:56am): 😰
+- **Courageous Fly** (Nov 30, 2025 11:45pm): どうやって他のゲームするの？
+- **コロッケ** (Feb 07, 2026 06:14am): はるとねこ県とか規制の種類によって変わるよ
+- **shadoreku** (Feb 10, 2026 12:15pm): ブロ
+- **ブッコロ清水** (Mar 03, 2026 10:26pm): i filter できた
+- **薔薇便器** (Jul 04, 2026 11:16pm): おもしろいね
+- **村松駿** (Sep 14, 2026 07:55am): 誰かひこうきのげーむやろ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 09, 2025 11:41am
+- **Updated At:** Sep 14, 2026 07:58am
+
+---
+
+### 3. おもろいゲーム
 **Author:** かきくけこ☯ (eiugiachirom20)
 
 [Attachment 1](https://script.google.com/a/macros/g.musashino-city.ed.jp/s/AKfycbxlGaqSq19RpVAsMsy2chjiHTedCK0xIPnxiWWqoOaYorQYTJsa6aUty9KKgyWov4xr/exec)
@@ -1105,7 +1134,7 @@
 
 ---
 
-### 3. ブロスタらしい
+### 4. ブロスタらしい
 **Author:** ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛ (neon_ix)
 
 遊んでないから知らない、普通に入ろうとしたらブロです
@@ -1125,12 +1154,12 @@
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** RX034 (h3005990)
 
 テトリス自作したんで
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1789974588&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=W2HJfysp8YZd%2BGP9%2F1RoAwB8NyzlW1gKVylcoRT4Skl4tUZGYARE9rXrtnzxllC%2B%2Bm7vJhKLRrlkawK8uM2%2B%2FPiyquWSwIXeGP1RaoiMC3RpZxTD6WmfiYdKSIn4Gst7mxwS85T7aPspLDpJdLRJ6HieoNv5FjqS9%2FYG0bjYoejPjH6zXnbMEMZADBZVJc0rX5AXs9eBGmgAZDhh3giI74dSRFol%2FYdIYf33QAzvwSqrn%2F%2FbQeyGhV93137S17piO0B%2FPD9O40WgXMgdOyv4fOb5qTflafQPc%2BxgTaFoPOD8c27yiJ9TW1jDnpYOVPs04bzIyXmNuwtmlDQIB37vgA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1789986342&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JypNO6oW2O9WPlRijFZk%2FxSIu7Qa8fz5LXxREGXKoi2mYHJ26%2BPPJ8FLPuzSxdWDh%2FvyiDfoLeJ6YVs1kUuNLX1LbWUZPtJnT90ttr99bJ7T2CW5pT%2Bct8Al%2BhGaN%2BD1z%2BG9h30Fs6CWaHr%2BdzxkN%2F9%2BM49U%2FgxnURrWo%2FTVuvUOAep4KeBkBGdIBTMfsMuHgwRevFAW4cDUH9tVpKl%2FfK7Vkp%2Bnxm2Cf2OmVJAY6L17cTc5jgNFUYuma0CrqLDFbsB8Snt6rpOAFp1Xhtt3XNchpaDm0UCUVOC4ISjLHUQ5afOqpIPkvtMoI%2FCfjW8M%2FvJInW4wE0qqXyutmqiTKA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
 
 #### Comments (6)
 - **RX034** (Dec 02, 2025 08:28am): 良ければどうぞ！
@@ -1147,12 +1176,12 @@
 
 ---
 
-### 5. Post 5
+### 6. Post 6
 **Author:** REMON
 
 テトリスだよ
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1789974588&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dEFBQ6HeONCF1QwrV4dl6UHqgJCh8aoqJ%2FGvc8nOdns2fmRCk8ikM4qEdJ4pv13qNlR0Vl9iiAleH3pLkcHD2R2fMRhAU0fxvuD%2B%2F8iPt%2FZqrN7EncLJOCk1DQe2BDiJoPE6EvYeQpLjasF7sSKYXVv7eyWhsvNtrkEURLO63bXjqZsYghxY7Q4%2FSN%2FZi5qaKb56O1fISlgW%2BldUQrT8H6gRs4i71AhnmdVc5Go95yDp6ydwRGr3JwpftK5ApY%2BAQg94gYN6FOJ4Y3ad5zvRgmrz5Ez5aansDF7n4Zlex9aRTAloSmJTvHlRIkR9t1dOrg7ubDRSpN9Jj9wQwX0uwQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1789986342&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UzSkllV9P216zJoIkpK3MiLNw5q983s2sQgaXyvPG%2FxeIoPKso93%2FNUxAllJmIQ5dj%2B11nCEEhSvtEdmd5See13%2BgcQFaTyH0rjRWoE6HtsssnNhiPVY8La%2FzqdFPAq8ptaEPG2uPIRSSjF8TQGJTO3EhQ1f6xm4mUAFUavlWHKLJKk5SRmmm78TzNFtLPwmZUTtGovkeeJ5ObrWxjbCE96fEEU7VYBJYvct90rBymbh%2Btk7S225JUU3qpSEn4WeOXiebW4BnksI2rFnwWUvwgEy5rNRlhttX3cLk8gGM2%2B3T9bclW9wCfr8JnrAoXzrBGGwG37iltugrMKaiXJI5g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
 
 #### Comments (1)
 - **はるとねこ** (Nov 10, 2025 01:54am): なんか表示できねえ
@@ -1164,12 +1193,12 @@
 
 ---
 
-### 6. 趣味でAIとかやってるものですが...
+### 7. 趣味でAIとかやってるものですが...
 **Author:** REMON
 
 オセロゲーム作りましたレビューください
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1789974588&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VnKxSVQliBWTmDjDbeD%2B5BkJIDciMSGkUZVXGCFi%2B8tURz4NApjz5W0ZLYN%2FF2wEo4w2NGK1va9QPYlerG3gcMjsWCPvalZ37pNyIQx3rbVTxuh7R%2Fe%2Bq3hkqmYuU3%2BSQfbbIVzfZgMC3KvUL1349qdy77%2FyQxQ0FpkoSO9of7kyoZxG6LcZPSM8N%2BQfjayvaSTB%2FbwH3HnLiZBkUsW1nWiGsNlsGKK9G%2F22PJDjqmo6pWAdaHfcJ6UoddJwgoCjsqV7FC3zt%2FjSfR4CDTnqX30PzVjDAMEeILi4oy83nNAztlQ3iRYSZ%2FkGmYk0KdlHQeDUaKTOi%2BKFY7XR0UjKZQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1789986342&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4g2yG%2FhYE8NukflAqjoB2pWF3d1DeKw9SJNATcMBUO4qYoFF01RwSPTabW4x29CAz%2FXvPCbUu2t9QcRHbW7K8hn0J5ZhjVncdmVf4r%2BhcV1xa6fs2UxNvpeah2ZUuPa17k39D1wSaV3lGuDUkk4xBm3uhaLELD3goUEWZBdfVSp5Pl6bFu4SDscvv9gwBgJG58X9%2Bv0d3kd8BuAxghD1a4pVul8BRk7uFjz7SrZ8o%2BU0fYX%2FVBZsR29sXNGWfwdGrvsfL5xZi4j8jVDcXMSy9%2FXe1AuCc3YrDxj9nHErE%2BaKT8CCos9RONT3ZsPobi6WZoJxp9uDNqUR9Fq9OTJ0yQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
 
 #### Comments (3)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 08, 2025 04:36am): 思ったよりAIが強くて負けそう:(
@@ -1183,7 +1212,7 @@
 
 ---
 
-### 7. 謎解きRPG
+### 8. 謎解きRPG
 **Author:** Anonymous Hummingbird
 
 ちょー暇つぶし
@@ -1201,7 +1230,7 @@
 
 ---
 
-### 8. サバイバルゲームです
+### 9. サバイバルゲームです
 **Author:** ito (gs202952)
 
 [Attachment 1](https://edeal-soft.com/rpg-minute-quest/)
@@ -1216,12 +1245,12 @@
 
 ---
 
-### 9. UNDERTALE yellow
+### 10. UNDERTALE yellow
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 英語のみ対応です
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1789974588&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SguSfEvHRCinbiA7Ha%2FIneaXwX7XjlHa28yIp3oXHoKoe%2BAZ4GXb7PgTjm6xYls8fbvNgqcjp4mDKBcLFDNRchpQEd8btnqInuWpr5BW%2BcDfKmWQrQ8Dg%2B%2BwB1%2Bb8256tPI%2BFhS59Zcj6UyKzQDDbWh5u0Ud7Y6SmGQvUvFQqCP9MYI5NrtnS0roTvjU23%2FnIoEWH9CAJjPxuM8FzCNbeh8VHxzdF9Cm%2FY0JIzJdvD3rwstr00OlN%2FL1sfltL7RAeNoB7NGyMcx45BWzurXqCDHbAfFYjjQ8DHWChm1mP09RAywmCS%2FCI7%2FCEH1bJpZARlua6TLW3BpPgoNLuxXp0g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1789986342&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rJ1EbS1geMiNgUFwHl4uP6Tr9oFauebCus9DP%2BAt5e6z3j0uc2fq%2FQunYoiXcCe%2FdQQ2%2FfC%2FY%2BeAlnPBzA7FIN%2FyWWvjKfyazCZk2Mj3d0J6VCL2faqIvCMz6xIShyZUCxCaSSJafKNgruXc7D2QUoczRLiseWMHvcVhSsoPgD9faUd7OruoJNbiLhavMz82djv8t3K2qwqx2x1PLaLmIQsWhN7mundefGZ4RypI99OhjN0aFL0R4irIVBAsRKEU4MQQQVnR2BaYGweYF4%2BBKzaOQh3SDdJyxmDGPEahebhudYOA7AwZ4H5MmSWMmmcYyfQG97w5FZeyRSLK%2BjZvPg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
 
 #### Comments (3)
 - **カービィ** (Feb 28, 2026 02:14am): どうやって進むの？
@@ -1235,7 +1264,7 @@
 
 ---
 
-### 10. ポケモン（のパクリ）
+### 11. ポケモン（のパクリ）
 **Author:** All Japan Unblocking Association　(全日本ブロック解除協会) (nippii)
 
 [Attachment 1](https://archive.org/details/trainercreator)
@@ -1250,7 +1279,7 @@
 
 ---
 
-### 11. まるがめクエスト
+### 12. まるがめクエスト
 **Author:** はるとねこ (r0300131)
 
 [Attachment 1](https://www.love-marugame.jp/game/)
@@ -1262,7 +1291,7 @@
 
 ---
 
-### 12. 3Dブロック崩し
+### 13. 3Dブロック崩し
 **Author:** All Japan Unblocking Association　(全日本ブロック解除協会) (nippii)
 
 [Attachment 1](https://g-pc.jp/blo/3d/)
@@ -1277,7 +1306,7 @@
 
 ---
 
-### 13. ゲームといって良いのかわからんやつ
+### 14. ゲームといって良いのかわからんやつ
 **Author:** All Japan Unblocking Association　(全日本ブロック解除協会) (nippii)
 
 [Attachment 1](https://codecombat.com/play/)
@@ -1292,7 +1321,7 @@
 
 ---
 
-### 14. ホラゲをあげよう、、、
+### 15. ホラゲをあげよう、、、
 **Author:** All Japan Unblocking Association　(全日本ブロック解除協会) (nippii)
 
 - [https://www.cocobongo.tv/fallen\_angel\_10](https://www.cocobongo.tv/fallen_angel_10)
@@ -1310,7 +1339,7 @@
 
 ---
 
-### 15. テトリス風ゲーム
+### 16. テトリス風ゲーム
 **Author:** All Japan Unblocking Association　(全日本ブロック解除協会) (nippii)
 
 [Attachment 1](https://www.sun-inet.or.jp/usr/ko-kun/public_html/tetris.html)
@@ -1325,7 +1354,7 @@
 
 ---
 
-### 16. しょぼん
+### 17. しょぼん
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 (´・ω・｀)
@@ -1342,7 +1371,7 @@
 
 ---
 
-### 17. 暇つぶしゲーム🐒
+### 18. 暇つぶしゲーム🐒
 **Author:** Unusual Caribou
 
 まあまあ楽しい👌
@@ -1360,7 +1389,7 @@
 
 ---
 
-### 18. 弾幕シューティングゲームです。
+### 19. 弾幕シューティングゲームです。
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 東方みたいなやつです。
@@ -1389,7 +1418,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 19. だれかこのサイトのhtmlをおしえてくれませんか？
+### 20. だれかこのサイトのhtmlをおしえてくれませんか？
 **Author:** 笹本つむぎ　𝕤𝕒𝕤𝕒𝕞𝕠𝕥𝕠 𝕥𝕤𝕦𝕞𝕦𝕘𝕚　#元ナンジャモ (tsumugi_chan)
 
 お願いします。でき次第、html.cafeでつくろうと思ってます
@@ -1410,7 +1439,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 20. Post 20
+### 21. Post 21
 **Author:** 眞田悠希 (j250509g)
 
 [Attachment 1](https://mergecraft.gcdn.co/publish/html5/)
@@ -1428,7 +1457,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 21. いろいろ！
+### 22. いろいろ！
 **Author:** Kirby (s190489_4)
 
 - [https://www.jezng.com/open-syobon-action.js/](https://www.jezng.com/open-syobon-action.js/)
@@ -1446,7 +1475,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 22. 暇だったから作ったよ
+### 23. 暇だったから作ったよ
 **Author:** 仙人@suger (sennin_sugar)
 
 試験運用版仙人おせろ、オンライン対戦しかできないよ。
@@ -1462,7 +1491,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 23. 馬鹿げたトロッコ問題
+### 24. 馬鹿げたトロッコ問題
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [Attachment 1](https://neal.fun/absurd-trolley-problems/)
@@ -1474,7 +1503,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 24. これは傑作である
+### 25. これは傑作である
 **Author:** 伝説の男　目高功塁 (s181191_5)
 
 [Attachment 1](https://uchuzine.sakura.ne.jp/pico8/sp/#playing)
@@ -1493,7 +1522,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 25. 発狂するゲーム
+### 26. 発狂するゲーム
 **Author:** Shy Ostrich
 
 絶対叫ぶ😱
@@ -1511,7 +1540,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 26. ガチギレゲーム
+### 27. ガチギレゲーム
 **Author:** エル・プリモ
 
 [Attachment 1](https://hitoikigame.com/blog-entry-10834.html)
@@ -1526,7 +1555,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 27. Post 27
+### 28. Post 28
 **Author:** ユウトー
 
 [Attachment 1](https://katano-kanko.com/game_htmlb/)
@@ -1543,7 +1572,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 28. 立花孝志RPG
+### 29. 立花孝志RPG
 **Author:** Charismatic Shrimp
 
 サイコーにおもろい！
@@ -1562,7 +1591,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 29. Post 29
+### 30. Post 30
 **Author:** Playful Ferret
 
 [Attachment 1](https://typingerz.com/colosseum)
@@ -1578,7 +1607,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 30. 数字を食べてでかくなるゲーム
+### 31. 数字を食べてでかくなるゲーム
 **Author:** 伝説の男　目高功塁 (s181191_5)
 
 [Attachment 1](https://www.dailytoolz.com/cubes-2048/iframe.html)
@@ -1596,7 +1625,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 31. 一本の線を描いて男を助けるゲーム
+### 32. 一本の線を描いて男を助けるゲーム
 **Author:** 伝説の男　目高功塁 (s181191_5)
 
 [Attachment 1](https://games.greatergood.com/games/one-line)
@@ -1623,7 +1652,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 32. パソコンで弾けるピアノサイト
+### 33. パソコンで弾けるピアノサイト
 **Author:** ホワドラガール
 
 たまに人が引いてる時があります
@@ -1641,7 +1670,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 33. 1万4000枚のところに紙を挟む謎のゲーム
+### 34. 1万4000枚のところに紙を挟む謎のゲーム
 **Author:** ホワドラガール
 
 [Attachment 1](https://nishio.co.jp/games/aisispaaan2/)
@@ -1667,7 +1696,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 34. 白にするパズルゲーム
+### 35. 白にするパズルゲーム
 **Author:** ホワドラガール
 
 [Attachment 1](https://www.daiichi-g.co.jp/osusume/forfun/05_white/05.html)
@@ -1682,7 +1711,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 35. スライムをジャンプさせて上にどんどん進むゲーム
+### 36. スライムをジャンプさせて上にどんどん進むゲーム
 **Author:** 15歳
 
 [Attachment 1](https://sp.ten-sura.com/jump/game/index.html)
@@ -1697,7 +1726,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 36. 敵を倒し肉を集めて味方を増やすゲーム
+### 37. 敵を倒し肉を集めて味方を増やすゲーム
 **Author:** 15歳
 
 [Attachment 1](https://www.topheroes.com/en/landing.html?page_id=26&media=Google&campaign_id=22290980105&adgroup_id=6558112384&creative_id=&inventory=x&sub_inventory=&callback=Cj0KCQjwiLLABhCEARIsAJYS6unc6T5XhHBihX6ybDCuL2lz0nbvtLHpWtPDu5Wp2aEi0BeuwTa3pcEaAkbPEALw_wcB&device_type=c&device_model=&ad_sub1=&ad_sub2=&gad_source=2&gclid=Cj0KCQjwiLLABhCEARIsAJYS6unc6T5XhHBihX6ybDCuL2lz0nbvtLHpWtPDu5Wp2aEi0BeuwTa3pcEaAkbPEALw_wcB)
@@ -1709,7 +1738,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 37. Post 37
+### 38. Post 38
 **Author:** 匿名 (a5r1t8t)
 
 [Attachment 1](https://www.supremacy1914.com/)
@@ -1721,7 +1750,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 38. Post 38
+### 39. Post 39
 **Author:** ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛ (neon_ix)
 
 [Attachment 1](https://wondermerge.gcdn.co/publish/html5/)
@@ -1743,7 +1772,7 @@ web系の東方には珍しいみょんがいるよ
 
 ---
 
-### 39. Rider.io
+### 40. Rider.io
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
 [Attachment 1](https://html5.gamedistribution.com/571357d055374f078e471057d4fcdbea/)
@@ -1803,6 +1832,25 @@ web系の東方には珍しいみょんがいるよ
 ## LOLBeans.io
 
 ### 1. LOLBeans.io
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+**➥ 本家**
+
+- [lolbeans.io](https://lolbeans.io/)
+
+**➥ 回避リンク集**
+
+- [bean.lol](https://bean.lol/)
+- [obby.lol](https://obby.lol/)
+
+#### Additional Information
+- **Post color:** Red
+- **Created At:** Jul 23, 2025 02:31pm
+- **Updated At:** Sep 14, 2026 07:56am
+
+---
+
+### 2. LOLBeans.io
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 ★リンク
@@ -1825,7 +1873,30 @@ web系の東方には珍しいみょんがいるよ
 
 ## God Field
 
-### 1. God Field
+### 1. ゴッドフィールド
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+**➥ 本家**
+
+- [godfield.net](https://godfield.net/)
+
+**➥ **[**Scratch**](https://scratch.mit.edu/projects/1002535928/)
+
+- [TurboWarp](https://turbowarp.org/1002535928?hqpen&interpolate)
+- [ミラー版TurboWarp](https://mirror.turbowarp.xyz/embed?addons=pause&settings-button&hqpen&interpolate#1002535928)
+
+#### Comments (2)
+- **田中 太郎** (Oct 22, 2025 12:46pm): スクラッチ使えん
+- **🍞** (Feb 05, 2026 07:25am): ↑同じ
+
+#### Additional Information
+- **Post color:** Red
+- **Created At:** Aug 01, 2025 12:49pm
+- **Updated At:** Sep 14, 2026 07:57am
+
+---
+
+### 2. God Field
 **Author:** ᏁγᎶ » Nanachiki (Nanachiki)
 
 ★リンク
@@ -1904,6 +1975,209 @@ web系の東方には珍しいみょんがいるよ
 - **Post color:** White
 - **Created At:** Jan 19, 2026 12:35am
 - **Updated At:** Jun 29, 2026 06:49am
+
+---
+
+## 他の有名なブラウザゲーム
+
+### 1. Mechazilla.io
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+**➥ 本家**
+
+- [mechazilla.io](https://mechazilla.io/)
+
+**➥ **[**Scratch - Lunar Lander**](https://scratch.mit.edu/projects/72798680/)
+
+- [TurboWarp](https://turbowarp.org/72798680?fps=60&hqpen&interpolate)
+- [ミラー版TurboWarp](https://mirror.turbowarp.xyz/embed?addons=pause&settings-button&fps=60&hqpen&interpolate#72798680)
+
+**➥ **[**Scratch - SpaceX Falcon 9 Lander**](https://scratch.mit.edu/projects/76866912/)
+
+- [TurboWarp](https://turbowarp.org/76866912?fps=60&hqpen&interpolate)
+- [ミラー版TurboWarp](https://mirror.turbowarp.xyz/embed?addons=pause&settings-button&fps=60&hqpen&interpolate#76866912)
+
+**➥ **[**Scratch - Martian Lander**](https://scratch.mit.edu/projects/105776139/)
+
+- [TurboWarp](https://turbowarp.org/105776139?fps=60&hqpen&interpolate)
+- [ミラー版TurboWarp](https://mirror.turbowarp.xyz/embed?addons=pause&settings-button&fps=60&hqpen&interpolate#105776139)
+
+#### Comments (1)
+- **タニネ** (Sep 04, 2026 01:50am): レベル10の攻略法ってなんですか？
+
+#### Additional Information
+- **Post color:** Red
+- **Created At:** Oct 12, 2025 04:48am
+- **Updated At:** Sep 14, 2026 07:57am
+
+---
+
+### 2. Paper.io
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+[**わかめtube**](https://padlet.com/Toka_Kun_/breakout-room/ke9Kqzboj0OdqYQG-oAdpz24dgkRJv10R)**からでも遊べます。**
+
+**➥ 本家**
+
+- [https://games.voodoo.io/paperio2](https://games.voodoo.io/paperio2)
+
+**➥ **[**Scratch - nini2009ph版**](https://scratch.mit.edu/projects/549817033/)
+
+- [TurboWarp](https://turbowarp.org/549817033?hqpen&interpolate)
+- [ミラー版TurboWarp](https://mirror.turbowarp.xyz/embed?addons=pause&settings-button&hqpen&interpolate#549817033)
+
+**➥ **[**Scratch - KROKOBI版**](https://scratch.mit.edu/projects/888552440/)
+
+- [TurboWarp](https://turbowarp.org/888552440?clones=Infinity&offscreen&limitless&hqpen)
+- [ミラー版TurboWarp](https://mirror.turbowarp.xyz/embed?addons=pause&settings-button&clones=Infinity&offscreen&limitless&hqpen#888552440)
+- [forkphorus](https://forkphorus.github.io/?chost=wss://clouddata.turbowarp.org&webgl#888552440)
+
+#### Additional Information
+- **Post color:** Red
+- **Created At:** Oct 19, 2025 12:55am
+- **Updated At:** Sep 14, 2026 07:57am
+
+---
+
+### 3. Agar.io
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+**➥ 本家**
+
+- [agar.io](https://agar.io/)
+
+**➥ **[**Griffpatch版 Scratch**](https://scratch.mit.edu/projects/66146572/)
+
+- [TurboWarp](https://turbowarp.org/66146572?hqpen&interpolate)
+- [ミラー版TurboWarp](https://mirror.turbowarp.xyz/embed?addons=pause&settings-button&hqpen&interpolate#66146572)
+- [規制回避リンク](https://html.cafe/x22cf4d89)
+
+**➥ **[**Coltroc版 Scratch サーバー1**](https://scratch.mit.edu/projects/344536121/)
+
+- [TurboWarp](https://turbowarp.org/344536121?hqpen&interpolate)
+- [ミラー版TurboWarp](https://mirror.turbowarp.xyz/embed?addons=pause&settings-button&hqpen&interpolate#344536121)
+- [規制回避リンク](https://html.cafe/xc5acc556)
+
+**➥ **[**Coltroc版 Scratch サーバー2**](https://scratch.mit.edu/projects/346432020/)
+
+- [TurboWarp](https://turbowarp.org/346432020?hqpen&interpolate)
+- [ミラー版TurboWarp](https://mirror.turbowarp.xyz/embed?addons=pause&settings-button&hqpen&interpolate#346432020)
+- [規制回避リンク](https://html.cafe/x107c4192)
+
+#### Additional Information
+- **Post color:** Red
+- **Created At:** Aug 02, 2025 03:30am
+- **Updated At:** Sep 14, 2026 07:56am
+
+---
+
+### 4. diep.io
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+**➥ 本家**
+
+- [diep.io](https://diep.io/)
+
+**➥ **[**Scratch サーバー1**](https://scratch.mit.edu/projects/131270192/)
+
+- [TurboWarp](https://turbowarp.org/131270192?hqpen&interpolate)
+- [ミラー版TurboWarp](https://mirror.turbowarp.xyz/embed?addons=pause&settings-button&hqpen&interpolate#131270192)
+- [規制回避リンク](https://html.cafe/x62d1de7d)
+
+**➥ **[**Scratch サーバー2**](https://scratch.mit.edu/projects/127693420/)
+
+- [TurboWarp](https://turbowarp.org/127693420?hqpen&interpolate)
+- [ミラー版TurboWarp](https://mirror.turbowarp.xyz/embed?addons=pause&settings-button&hqpen&interpolate#127693420)
+- [規制回避リンク](https://html.cafe/x247a6e19)
+
+#### Additional Information
+- **Post color:** Red
+- **Created At:** Aug 02, 2025 03:41am
+- **Updated At:** Sep 14, 2026 07:56am
+
+---
+
+### 5. slither.io
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+**➥ 本家**
+
+- [slither.io](http://slither.io/)
+- [slither.com](http://slither.com/)
+
+**➥ **[**Scratch サーバー1**](https://scratch.mit.edu/projects/108566337/)
+
+- [TurboWarp](https://turbowarp.org/108566337?hqpen&interpolate)
+- [ミラー版TurboWarp](https://mirror.turbowarp.xyz/embed?addons=pause&settings-button&hqpen&interpolate#108566337)
+- [規制回避リンク](https://html.cafe/x2def91d3)
+
+**➥ **[**Scratch サーバー2**](https://scratch.mit.edu/projects/1211578513/)
+
+- [TurboWarp](https://turbowarp.org/1211578513?hqpen&interpolate)
+- [ミラー版TurboWarp](https://mirror.turbowarp.xyz/embed?addons=pause&settings-button&hqpen&interpolate#1211578513)
+- [規制回避リンク](https://html.cafe/x502ae0b2)
+
+#### Additional Information
+- **Post color:** Red
+- **Created At:** Jul 30, 2025 08:44am
+- **Updated At:** Sep 14, 2026 07:56am
+
+---
+
+### 6. Brosゲーム
+**Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
+
+**~~➥~~ レポジトリ**
+
+- [https://github.com/BlueWizardDigital/bros-unblocked](https://github.com/BlueWizardDigital/bros-unblocked)
+
+**~~➥~~ 規制下での稼働状況**
+
+- [https://sites.google.com/bluewizard.com/basket-bros-unblocked](https://sites.google.com/bluewizard.com/basket-bros-unblocked)
+
+**➥ 最終手段以外**
+
+- [avatarbasketball.com](https://avatarbasketball.com/)
+- [baller.monster](https://baller.monster/)
+- [baller.quest](https://baller.quest/)
+- [ballinthe.net](https://ballinthe.net/)
+- [baseballbros.io](https://baseballbros.io/)
+- [basketball.services](https://basketball.services/)
+- [basketballing.org](https://basketballing.org/)
+- [basketballtips.info](https://basketballtips.info/)
+- [basketbros.io](https://basketbros.io/)
+- [basketbros.net](https://basketbros.net/)
+- [berry.party](https://berry.party/)
+- [crispyclean.org](https://crispyclean.org/)
+- [driplife.net](https://driplife.net/)
+- [dunk.monster](https://dunk.monster/)
+- [dunkbros.com](https://dunkbros.com/)
+- [dunkbros.org](https://dunkbros.org/)
+- [durangobasketball.com](https://durangobasketball.com/)
+- [fasterbasketball.com](https://fasterbasketball.com/)
+- [footballbros.io](https://footballbros.io/)
+- [karatebros.io](https://karatebros.io/)
+- [kartbros.io](https://kartbros.io/)
+- [lookinthe.net](https://lookinthe.net/)
+- [mechbros.io](https://mechbros.io/)
+- [nbadebate.com](https://nbadebate.com/)
+- [quizape.com](https://quizape.com/)
+- [soccerbros.gg](https://soccerbros.gg/)
+- [vtune.net](https://vtune.net/)
+- [wizardsbasketball.com](https://wizardsbasketball.com/)
+- [wrestlebros.io](https://wrestlebros.io/)
+
+**➥ Chromebook専用の最終手段**
+
+- [history.surf](https://history.surf/)
+
+#### Comments (1)
+- **大森元貴（ミセスオタクです）** (Mar 06, 2026 12:28am): 全部だめや
+
+#### Additional Information
+- **Post color:** Red
+- **Created At:** Jul 12, 2025 01:47pm
+- **Updated At:** Sep 14, 2026 07:56am
 
 ---
 
