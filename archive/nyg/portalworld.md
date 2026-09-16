@@ -1,4 +1,4 @@
-最終取得: 2026/09/16 13:06:08
+最終取得: 2026/09/16 14:19:57
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 152
 - **Created At:** Aug 31, 2025 08:58am
-- **Updated At:** Sep 16, 2026 03:55am
+- **Updated At:** Sep 16, 2026 04:18am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -26,7 +26,7 @@
 - **何を書けば良いのか分からない場合は、サンプルを参考にして下さい。**
 
 #### Comments (2)
-- **ニカーー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Jun 19, 2026 11:54pm): わかりました！
+- **ゲスティー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Jun 19, 2026 11:54pm): わかりました！
 - **てれんちゃん** (Aug 27, 2026 09:03pm): いいね
 
 #### Reactions
@@ -1494,7 +1494,7 @@ BAN覚悟で
 ---
 
 ### 57. Proxy革命軍
-**Author:** ニカーー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子） (TOKYO874321Forsaken)
+**Author:** ゲスティー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子） (TOKYO874321Forsaken)
 
 たくさん人がいるよ！ゲームもProxyもユーチューブもたくさんあるよ！オーナーがすごい優しくてすぐ仲良くなれると思うよ！
 
@@ -1604,7 +1604,7 @@ BAN覚悟で
 
 #### Comments (2)
 - **hirafu** (Jul 11, 2026 09:53am): はいれない
-- **ニカーー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Jul 27, 2026 10:37pm): それな
+- **ゲスティー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Jul 27, 2026 10:37pm): それな
 
 #### Additional Information
 - **Post color:** White
@@ -3698,7 +3698,7 @@ a
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1790136398&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EOuZJ4tddrLkm5nt1nolhMKwSh76GXW8b8vELWUOdxAYbzrFfV7Mq65d6beuMGQLK14MWDE5pMGRiJaPyGUDwGBeWyvrujbqiepyO0ctaIEqkj6uMVeG0hDSvlgN4oBU%2BxsRKPqz7x0W15%2FoR8rp40T71ZVyIWO7t9K9qrtq4PhEmtMG8FMfb7Y0iRg5JXbVDWIpIzxYsNpb2AxDGzrFV9DdCaBSRmKuO1eKFT4zLW1mYccvTHGzNGNht8yfiGJbx0FqEy%2FM0C58MQy8oGJHoW5Q27Ye2wiMK6kYUiEGIbmviyC0tNq%2BnM1ChgzKXplB3O1pdi4TKzOve%2Fjm%2Fu3jDw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1790140827&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JErtQHAs7r8bWUSqM5YR2vYAuQn0RBDBE468S0NH7hWCBvqL7%2FT7yT3%2FKcgcWKux39fEnm9%2FQaTPobgylzzO3epdRLyHST9C2qNvfq4izax8Db8c8CXaORv9xxWGFtJ9luPa%2Ft3c0AwHZ%2Brk86f41fkgkQ7EDSttvAxWHf46kJqykrJ%2FfYu7e5a1ZgHlCxccU9EUaLtpuIrBlVBQ76WjOqNTBSZktihcZtRVtLNNZ4kJ6JWr9zcjNo59lI4Vr7BYu3nPl18AkUX1bTeNqPPFhO%2B%2B45E6eBBCdbMWSRlwpzUZsC7WH4oTHz8Bw7gyAwHHozQr%2FA8EYW6dex8CkhTXww%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (3)
