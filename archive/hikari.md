@@ -1,4 +1,4 @@
-最終取得: 2026/09/08 18:58:47
+最終取得: 2026/09/17 16:34:43
 
 # プロキシ本部
 
@@ -9,7 +9,7 @@
 - **Builder:** 光の忍者 (qwertyuiopasdfghjklzxcvbnm5671091)
 - **Posts:** 8
 - **Created At:** May 09, 2025 01:39am
-- **Updated At:** Sep 08, 2026 06:39am
+- **Updated At:** Sep 17, 2026 07:00am
 
 ## 現在の状況
 
@@ -86,9 +86,10 @@
 
 自分はTuffNetでやってるよー
 
-#### Comments (2)
+#### Comments (3)
 - **0b1001** (Sep 08, 2026 06:11am): wss://pcsmp.net
 - **0b1001** (Sep 08, 2026 06:11am): おすすめ
+- **光の忍者** (Sep 17, 2026 07:00am): ありがとう！
 
 #### Additional Information
 - **Created At:** Sep 07, 2026 10:26am
