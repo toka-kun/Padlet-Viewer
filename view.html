@@ -82,7 +82,7 @@
         .column-header {
             padding: 14px 18px;
             font-weight: 600;
-            font-size: 0.95rem;
+            font-size: 1rem;
             border-bottom: 1px solid #21262d;
             color: #e6edf3;
             background-color: #161b22;
@@ -107,7 +107,7 @@
             background-color: #0d1117;
             border: 1px solid #30363d;
             border-radius: 6px;
-            padding: 16px;
+            padding: 18px;
             display: flex; flex-direction: column;
             position: relative;
             box-shadow: 0 1px 2px rgba(0,0,0,0.1);
@@ -131,12 +131,13 @@
 
         /* タイトル・ヘッダー（作成者・日付） */
         .card-title {
-            font-size: 1rem; font-weight: 600; margin-bottom: 4px;
-            color: #e6edf3; line-height: 1.4;
+            font-size: 1.05rem; font-weight: 600; margin-bottom: 6px;
+            color: #e6edf3; line-height: 1.45;
         }
         .card-meta-header {
-            font-size: 0.75rem; color: #7d8590; margin-bottom: 12px;
+            font-size: 0.8125rem; color: #7d8590; margin-bottom: 14px;
             display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
+            line-height: 1.4;
         }
         
         /* 作成者表示スタイル（通常・リンク） */
@@ -179,12 +180,12 @@
         /* 共通ボタンスタイル */
         .action-link {
             display: inline-flex; align-items: center; gap: 6px;
-            padding: 6px 12px;
+            padding: 8px 14px;
             background-color: #21262d;
             border: 1px solid #30363d;
             border-radius: 6px;
             color: #58a6ff !important;
-            font-size: 0.8rem;
+            font-size: 0.85rem;
             text-decoration: none !important;
             transition: background 0.2s;
             font-weight: 600;
@@ -201,7 +202,7 @@
             display: inline-flex; align-items: center; gap: 10px;
             background-color: #161b22;
             border: 1px solid #30363d;
-            padding: 8px 12px;
+            padding: 10px 14px;
             border-radius: 6px;
             color: #c9d1d9;
             text-decoration: none;
@@ -226,13 +227,13 @@
             white-space: nowrap; 
             overflow: hidden; 
             text-overflow: ellipsis; 
-            font-size: 0.85rem;
+            font-size: 0.9rem;
         }
 
         /* 本文 */
         .card-content {
-            font-size: 0.85rem; line-height: 1.6; color: #c9d1d9;
-            margin-bottom: 12px; overflow-wrap: break-word;
+            font-size: 0.9375rem; line-height: 1.65; color: #c9d1d9;
+            margin-bottom: 14px; overflow-wrap: break-word;
         }
         .card-content img { 
             max-width: 100%; height: auto; 
@@ -246,19 +247,19 @@
         .custom-fields-area {
             background-color: rgba(110, 118, 129, 0.1);
             border-radius: 4px;
-            padding: 10px 12px;
-            margin-bottom: 12px;
-            font-size: 0.8rem;
+            padding: 12px 14px;
+            margin-bottom: 14px;
+            font-size: 0.875rem;
             color: #c9d1d9;
             border: 1px solid rgba(48, 54, 61, 0.5);
         }
         .custom-field-row {
             display: grid;
-            grid-template-columns: 110px 1fr;
+            grid-template-columns: 115px 1fr;
             gap: 8px;
             align-items: start;
-            margin-bottom: 6px;
-            line-height: 1.5;
+            margin-bottom: 8px;
+            line-height: 1.55;
         }
         .custom-field-row:last-child { margin-bottom: 0; }
         .custom-field-label {
@@ -281,50 +282,50 @@
         }
         .stars {
             background: rgba(227, 179, 65, 0.1); color: #e3b341;
-            padding: 2px 8px; border-radius: 10px; font-size: 0.8rem; font-weight: 600;
+            padding: 3px 9px; border-radius: 10px; font-size: 0.85rem; font-weight: 600;
         }
-        .stars-count { color: #8b949e; font-weight: normal; font-size: 0.75rem; margin-left: 4px; }
+        .stars-count { color: #8b949e; font-weight: normal; font-size: 0.8rem; margin-left: 4px; }
 
         /* 絵文字リアクション */
         .emoji-reactions {
-            display: flex; flex-wrap: wrap; gap: 4px; align-items: center;
+            display: flex; flex-wrap: wrap; gap: 6px; align-items: center;
         }
         .emoji-reaction {
-            display: inline-flex; align-items: center; gap: 3px;
+            display: inline-flex; align-items: center; gap: 4px;
             background: rgba(110, 118, 129, 0.1);
             border: 1px solid rgba(48, 54, 61, 0.5);
-            padding: 2px 7px; border-radius: 10px;
-            font-size: 0.85rem;
+            padding: 3px 8px; border-radius: 10px;
+            font-size: 0.9rem;
         }
         .emoji-reaction .emoji-count {
-            color: #8b949e; font-size: 0.75rem; font-weight: 600;
+            color: #8b949e; font-size: 0.8rem; font-weight: 600;
         }
 
         /* コメントエリア（一番下） */
         .comments-section {
             background-color: #161b22;
             border-radius: 6px;
-            padding: 8px 12px;
+            padding: 10px 14px;
             margin-top: 8px;
             border: 1px solid #30363d;
         }
         .comments-header {
-            font-size: 0.75rem; font-weight: 600; color: #7d8590;
-            margin-bottom: 8px; display: flex; justify-content: space-between;
+            font-size: 0.8125rem; font-weight: 600; color: #7d8590;
+            margin-bottom: 10px; display: flex; justify-content: space-between;
         }
         .comments-list {
-            max-height: 150px; overflow-y: auto;
-            display: flex; flex-direction: column; gap: 8px;
+            max-height: 160px; overflow-y: auto;
+            display: flex; flex-direction: column; gap: 10px;
             scrollbar-width: thin;
         }
         .comment-item {
-            font-size: 0.8rem; padding: 8px 0; border-bottom: 1px solid #21262d;
+            font-size: 0.875rem; padding: 8px 0; border-bottom: 1px solid #21262d;
         }
         .comment-item:last-child { border-bottom: none; }
-        .comment-top { display: flex; justify-content: space-between; margin-bottom: 2px; font-size: 0.75rem; }
+        .comment-top { display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.8rem; gap: 8px; }
         .comment-user { color: #e6edf3; font-weight: bold; }
-        .comment-date { color: #7d8590; }
-        .comment-msg { color: #c9d1d9; word-break: break-all; }
+        .comment-date { color: #7d8590; flex-shrink: 0; }
+        .comment-msg { color: #c9d1d9; word-break: break-word; overflow-wrap: break-word; line-height: 1.55; }
 
         /* ロード・エラー */
         #loading { width: 100%; height: 100%; display: flex; padding: 20px; gap: 20px; }
