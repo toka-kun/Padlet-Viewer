@@ -1,4 +1,4 @@
-最終取得: 2026/09/16 18:25:59
+最終取得: 2026/09/18 10:15:20
 
 # 荒らし対策室
 
@@ -244,7 +244,7 @@
 ## 保管倉庫②
 
 ### 1. a
-**Author:** おーかみ (Okami023)
+**Author:** おーかみ#いさとも (Okami023)
 
 #### Additional Information
 - **Post color:** White
@@ -276,7 +276,7 @@
 ---
 
 ### 4. あいす
-**Author:** おーかみ (Okami023)
+**Author:** おーかみ#いさとも (Okami023)
 
 #### Additional Information
 - **Post color:** White
