@@ -1,4 +1,4 @@
-最終取得: 2026/09/18 10:15:20
+最終取得: 2026/09/18 14:16:08
 
 # 荒らし対策室
 
@@ -7,7 +7,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 23
 - **Created At:** Jan 08, 2025 05:56am
-- **Updated At:** Aug 29, 2026 02:57am
+- **Updated At:** Sep 18, 2026 02:51am
 
 ## リンク集
 
@@ -245,6 +245,9 @@
 
 ### 1. a
 **Author:** おーかみ#いさとも (Okami023)
+
+#### Reactions
+- **Emojis:** 😆 (1)
 
 #### Additional Information
 - **Post color:** White
