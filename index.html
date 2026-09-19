@@ -78,9 +78,10 @@
         }
 
         .column-header {
+            margin: 0;
             padding: 14px 18px;
             font-weight: 600;
-            font-size: 0.95rem;
+            font-size: 1rem;
             border-bottom: 1px solid #21262d;
             color: #e6edf3;
             background-color: #161b22;
@@ -106,7 +107,7 @@
             border: 1px solid #30363d;
             border-left: 3px solid #8b949e; /* デフォルトカラー */
             border-radius: 6px;
-            padding: 16px;
+            padding: 18px;
             display: flex; flex-direction: column;
             position: relative;
             box-shadow: 0 1px 2px rgba(0,0,0,0.1);
@@ -121,12 +122,14 @@
 
         /* タイトル・ヘッダー */
         .card-title {
-            font-size: 1rem; font-weight: 600; margin-bottom: 4px;
-            color: #e6edf3; line-height: 1.4;
+            margin: 0 0 6px 0;
+            font-size: 1.05rem; font-weight: 600;
+            color: #e6edf3; line-height: 1.45;
         }
         .card-meta-header {
-            font-size: 0.75rem; color: #7d8590; margin-bottom: 12px;
+            font-size: 0.8125rem; color: #7d8590; margin-bottom: 14px;
             display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
+            line-height: 1.4;
         }
         
         .card-meta-header .author, 
@@ -152,12 +155,12 @@
 
         .action-link {
             display: inline-flex; align-items: center; gap: 6px;
-            padding: 6px 12px;
+            padding: 8px 14px;
             background-color: #21262d;
             border: 1px solid #30363d;
             border-radius: 6px;
             color: #58a6ff !important;
-            font-size: 0.8rem;
+            font-size: 0.85rem;
             text-decoration: none !important;
             transition: background 0.2s;
             font-weight: 600;
@@ -171,17 +174,17 @@
 
         /* 本文 */
         .card-content {
-            font-size: 0.85rem; line-height: 1.6; color: #c9d1d9;
-            margin-bottom: 12px; overflow-wrap: break-word;
+            font-size: 0.9375rem; line-height: 1.65; color: #c9d1d9;
+            margin-bottom: 14px; overflow-wrap: break-word;
         }
 
         /* カスタムフィールド表示エリア */
         .custom-fields-area {
             background-color: rgba(110, 118, 129, 0.1);
             border-radius: 4px;
-            padding: 10px 12px;
+            padding: 12px 14px;
             margin-bottom: 0; 
-            font-size: 0.8rem;
+            font-size: 0.875rem;
             color: #c9d1d9;
             border: 1px solid rgba(48, 54, 61, 0.5);
             margin-top: auto; 
@@ -191,8 +194,8 @@
             grid-template-columns: 80px 1fr;
             gap: 8px;
             align-items: start;
-            margin-bottom: 6px;
-            line-height: 1.5;
+            margin-bottom: 8px;
+            line-height: 1.55;
         }
         .custom-field-row:last-child { margin-bottom: 0; }
         .custom-field-label {
@@ -235,6 +238,18 @@
             header h1 { font-size: 0.9rem; max-width: 100%; width: 100%; }
             header .meta-info { margin-left: 0; width: 100%; justify-content: flex-start; font-size: 0.75rem; }
             .custom-field-row { grid-template-columns: 70px 1fr; }
+        }
+
+        /* OS側で「視差効果を減らす」設定が有効な場合は、ホバー時の浮き上がりや
+           ローディング中のシマー演出などの装飾的なアニメーションを止める */
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+                scroll-behavior: auto !important;
+            }
+            .card:hover { transform: none; }
         }
     </style>
 </head>
@@ -322,7 +337,7 @@
                     const colDiv = document.createElement('div');
                     colDiv.className = 'column';
                     colDiv.innerHTML = `
-                        <div class="column-header">${escapeHtml(secName)}</div>
+                        <h2 class="column-header">${escapeHtml(secName)}</h2>
                         <div class="column-body"></div>
                     `;
                     const colBody = colDiv.querySelector('.column-body');
@@ -385,7 +400,7 @@
 
             // HTMLの組み立て
             el.innerHTML = `
-                <div class="card-title">${escapeHtml(data.title || '(無題)')}</div>
+                <h3 class="card-title">${escapeHtml(data.title || '(無題)')}</h3>
                 
                 <div class="card-meta-header">
                     ${authorHtml}
