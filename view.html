@@ -80,6 +80,7 @@
         }
 
         .column-header {
+            margin: 0;
             padding: 14px 18px;
             font-weight: 600;
             font-size: 1rem;
@@ -131,7 +132,8 @@
 
         /* タイトル・ヘッダー（作成者・日付） */
         .card-title {
-            font-size: 1.05rem; font-weight: 600; margin-bottom: 6px;
+            margin: 0 0 6px 0;
+            font-size: 1.05rem; font-weight: 600;
             color: #e6edf3; line-height: 1.45;
         }
         .card-meta-header {
@@ -139,6 +141,22 @@
             display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
             line-height: 1.4;
         }
+
+        /* 投稿カラー：色だけでなく、色名テキストと丸印でも判別できるようにする */
+        .color-tag {
+            display: inline-flex; align-items: center; gap: 5px;
+            color: #c9d1d9;
+        }
+        .color-tag .color-dot {
+            width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0;
+            display: inline-block;
+        }
+        .color-red    .color-dot { background-color: #ff7b72; }
+        .color-yellow .color-dot { background-color: #d29922; }
+        .color-green  .color-dot { background-color: #3fb950; }
+        .color-blue   .color-dot { background-color: #58a6ff; }
+        .color-purple .color-dot { background-color: #bc8cff; }
+        .color-black  .color-dot { background-color: #6e7681; }
         
         /* 作成者表示スタイル（通常・リンク） */
         .card-meta-header .author, 
@@ -358,6 +376,18 @@
             header .meta-info { margin-left: 0; width: 100%; justify-content: flex-start; font-size: 0.75rem; }
             .custom-field-row { grid-template-columns: 92px 1fr; }
         }
+
+        /* OS側で「視差効果を減らす」設定が有効な場合は、ホバー時の浮き上がりや
+           ローディング中のシマー演出などの装飾的なアニメーションを止める */
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+                scroll-behavior: auto !important;
+            }
+            .card:hover { transform: none; }
+        }
     </style>
 </head>
 <body>
@@ -486,7 +516,7 @@
                 const colDiv = document.createElement('div');
                 colDiv.className = 'column';
                 colDiv.innerHTML = `
-                    <div class="column-header">${escapeHtml(colTitle)}</div>
+                    <h2 class="column-header">${escapeHtml(colTitle)}</h2>
                     <div class="column-body"></div>
                 `;
                 const colBody = colDiv.querySelector('.column-body');
@@ -775,14 +805,15 @@
             const el = document.createElement('div');
             
             let colorClass = 'color-white';
+            let colorLabel = '';
             if (data.color) {
                 const c = data.color.toLowerCase();
-                if (c.includes('red') || c.includes('レッド')) colorClass = 'color-red';
-                else if (c.includes('yellow') || c.includes('イエロー')) colorClass = 'color-yellow';
-                else if (c.includes('green') || c.includes('グリーン')) colorClass = 'color-green';
-                else if (c.includes('blue') || c.includes('ブルー')) colorClass = 'color-blue';
-                else if (c.includes('purple') || c.includes('パープル')) colorClass = 'color-purple';
-                else if (c.includes('black') || c.includes('ブラック') || c.includes('黒')) colorClass = 'color-black';
+                if (c.includes('red') || c.includes('レッド')) { colorClass = 'color-red'; colorLabel = 'レッド'; }
+                else if (c.includes('yellow') || c.includes('イエロー')) { colorClass = 'color-yellow'; colorLabel = 'イエロー'; }
+                else if (c.includes('green') || c.includes('グリーン')) { colorClass = 'color-green'; colorLabel = 'グリーン'; }
+                else if (c.includes('blue') || c.includes('ブルー')) { colorClass = 'color-blue'; colorLabel = 'ブルー'; }
+                else if (c.includes('purple') || c.includes('パープル')) { colorClass = 'color-purple'; colorLabel = 'パープル'; }
+                else if (c.includes('black') || c.includes('ブラック') || c.includes('黒')) { colorClass = 'color-black'; colorLabel = 'ブラック'; }
             }
             el.className = `card ${colorClass}`;
 
@@ -884,11 +915,12 @@
             }
 
             el.innerHTML = `
-                <div class="card-title">${escapeHtml(data.title)}</div>
+                <h3 class="card-title">${escapeHtml(data.title)}</h3>
                 
                 <div class="card-meta-header">
                     ${authorHtml}
                     ${data.createdDate ? `<span class="date"> • ${escapeHtml(data.createdDate)}</span>` : ''}
+                    ${colorLabel ? `<span class="color-tag ${colorClass}"><span class="color-dot" aria-hidden="true"></span>${colorLabel}</span>` : ''}
                 </div>
 
                 ${mediaHtml}
