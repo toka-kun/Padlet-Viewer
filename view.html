@@ -328,7 +328,11 @@
             max-height: 160px; overflow-y: auto;
             display: flex; flex-direction: column; gap: 10px;
             scrollbar-width: thin;
+            scrollbar-color: #30363d #161b22;
         }
+        .comments-list::-webkit-scrollbar { width: 8px; }
+        .comments-list::-webkit-scrollbar-track { background: #161b22; }
+        .comments-list::-webkit-scrollbar-thumb { background-color: #30363d; border-radius: 4px; }
         .comment-item {
             font-size: 0.875rem; padding: 8px 0; border-bottom: 1px solid #21262d;
         }
@@ -397,22 +401,24 @@
     </header>
 
     <main id="board-canvas">
-        <div id="loading">
-            <div class="skeleton-column">
+        <div id="loading" role="status" aria-live="polite" aria-busy="true">
+            <span class="sr-only">読み込み中...</span>
+            <div class="skeleton-column" aria-hidden="true">
                 <div class="skeleton-card" style="height:40px; margin-bottom:10px;"></div>
                 <div class="skeleton-card"></div>
                 <div class="skeleton-card"></div>
             </div>
-            <div class="skeleton-column">
+            <div class="skeleton-column" aria-hidden="true">
                 <div class="skeleton-card" style="height:40px; margin-bottom:10px;"></div>
                 <div class="skeleton-card"></div>
             </div>
         </div>
-        <div id="error-message"></div>
+        <div id="error-message" role="alert"></div>
     </main>
 
     <script>
-        const match = window.location.href.match(/[?&]board=([^&#]+)/);
+        // ?board=X（クエリ文字列）に加え、#board=X や #?board=X（ハッシュ経由）も同じ場所から拾えるようにする
+        const match = window.location.href.match(/[?&#]board=([^&#]+)/);
         const boardParam = match ? decodeURIComponent(match[1]) : 'nyg/main';
         const markdownUrl = `/archive/${boardParam}.md`;
 
@@ -827,19 +833,19 @@
                     data.attachments.forEach(att => {
                         if (att.type === 'image') {
                             mediaHtml += `<img src="${escapeHtml(att.url)}" alt="Attachment" class="attached-image">`;
-                            mediaHtml += `<a href="${escapeHtml(att.url)}" target="_blank" class="action-link">🔗 画像を開く</a>`;
+                            mediaHtml += `<a href="${escapeHtml(att.url)}" target="_blank" rel="noopener noreferrer" class="action-link">🔗 画像を開く</a>`;
                         } else if (att.type === 'video') {
                             mediaHtml += `<video src="${escapeHtml(att.url)}" class="attached-video" controls preload="metadata"></video>`;
-                            mediaHtml += `<a href="${escapeHtml(att.url)}" target="_blank" class="action-link">🔗 動画を開く</a>`;
+                            mediaHtml += `<a href="${escapeHtml(att.url)}" target="_blank" rel="noopener noreferrer" class="action-link">🔗 動画を開く</a>`;
                         } else if (att.type === 'audio') {
                             mediaHtml += `<audio src="${escapeHtml(att.url)}" class="attached-audio" controls preload="metadata"></audio>`;
-                            mediaHtml += `<a href="${escapeHtml(att.url)}" target="_blank" class="action-link">🔗 音声を開く</a>`;
+                            mediaHtml += `<a href="${escapeHtml(att.url)}" target="_blank" rel="noopener noreferrer" class="action-link">🔗 音声を開く</a>`;
                         } else {
                             const encodedUrl = encodeURIComponent(att.url);
                             const faviconUrl = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${encodedUrl}&size=64`;
                             
                             mediaHtml += `
-                                <a href="${escapeHtml(att.url)}" target="_blank" class="favicon-link">
+                                <a href="${escapeHtml(att.url)}" target="_blank" rel="noopener noreferrer" class="favicon-link">
                                     <img src="${faviconUrl}" alt="favicon">
                                     <span>${escapeHtml(att.url)}</span>
                                 </a>
@@ -849,7 +855,7 @@
                 }
 
                 if (data.linkUrl && (!data.attachments || !data.attachments.find(a => a.url === data.linkUrl))) {
-                     mediaHtml += `<a href="${escapeHtml(data.linkUrl)}" target="_blank" class="action-link">🔗 リンクを開く</a>`;
+                     mediaHtml += `<a href="${escapeHtml(data.linkUrl)}" target="_blank" rel="noopener noreferrer" class="action-link">🔗 リンクを開く</a>`;
                 }
                 
                 mediaHtml += '</div>';
@@ -902,7 +908,7 @@
 
             let authorHtml = '';
             if (data.authorUrl) {
-                authorHtml = `<a href="${escapeHtml(data.authorUrl)}" target="_blank" class="author-link">👤 ${escapeHtml(data.author)}</a>`;
+                authorHtml = `<a href="${escapeHtml(data.authorUrl)}" target="_blank" rel="noopener noreferrer" class="author-link">👤 ${escapeHtml(data.author)}</a>`;
             } else {
                 authorHtml = `<span class="author">👤 ${escapeHtml(data.author)}</span>`;
             }
