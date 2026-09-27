@@ -1,4 +1,4 @@
-最終取得: 2026/09/26 14:18:54
+最終取得: 2026/09/27 13:33:34
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
 - **Created At:** Jan 13, 2026 12:01pm
-- **Updated At:** Sep 20, 2026 12:51am
+- **Updated At:** Sep 27, 2026 03:24am
 
 ## 受付
 
@@ -18,7 +18,7 @@
 
 [Attachment 1](https://padlet.com/woolisbest/woolisbest-f46agi7nbsmz8boy)
 
-#### Comments (31)
+#### Comments (32)
 - **ピカマン＃さくらもちさまの永遠の従僕** (Apr 30, 2026 11:10am): んと、とりあえずピカ垢はなんかしらんけどメアドの認証が必要になったため、今度からは、こちらで活動させていただきます。
 - **ピカマン＃さくらもちさまの永遠の従僕** (Apr 30, 2026 11:11am): メアドpikaman001@outlook.com
 - **ピカマン＃さくらもちさまの永遠の従僕** (Apr 30, 2026 11:11am): (自作です。初めて自分で作った)
@@ -50,6 +50,7 @@
 - **青葉 #BC*** (Jul 13, 2026 10:24pm): おｋ
 - **白い故障** (Sep 20, 2026 12:51am): 5918@naha-okinawa.ed.jp
 - **白い故障** (Sep 20, 2026 12:51am): お願いします
+- **青葉 #BC*** (Sep 27, 2026 03:25am): 遅れてごめん！いれる！
 
 #### Additional Information
 - **Post color:** Purple
