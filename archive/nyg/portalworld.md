@@ -1,4 +1,4 @@
-最終取得: 2026/10/01 16:49:56
+最終取得: 2026/10/01 22:52:00
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 159
 - **Created At:** Aug 31, 2025 08:58am
-- **Updated At:** Oct 01, 2026 04:27am
+- **Updated At:** Oct 01, 2026 08:49am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -26,7 +26,7 @@
 - **何を書けば良いのか分からない場合は、サンプルを参考にして下さい。**
 
 #### Comments (2)
-- **ゲスティー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Jun 19, 2026 11:54pm): わかりました！
+- **にかー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Jun 19, 2026 11:54pm): わかりました！
 - **てれんちゃん** (Aug 27, 2026 09:03pm): いいね
 
 #### Reactions
@@ -121,7 +121,7 @@
 ---
 
 ### 2. iフィルター破壊協会
-**Author:** パドレットユーザー211540@iフィルター破壊協会 (gs211540)
+**Author:** パドレットユーザー211540@iフィルター破壊協会 (ifiruta0hakaikyoukai)
 
 プロキシ募集中〜〜〜
 
@@ -183,7 +183,7 @@
 ---
 
 ### 4. Proxy部屋
-**Author:** パドレットユーザー211540@iフィルター破壊協会 (gs211540)
+**Author:** パドレットユーザー211540@iフィルター破壊協会 (ifiruta0hakaikyoukai)
 
 Proxy入れって\~
 
@@ -1673,7 +1673,7 @@ BAN覚悟で
 ---
 
 ### 64. Proxy革命軍
-**Author:** ゲスティー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子） (Forsaken_God_tier_game)
+**Author:** にかー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子） (Forsaken_God_tier_game)
 
 たくさん人がいるよ！ゲームもProxyもユーチューブもたくさんあるよ！オーナーがすごい優しくてすぐ仲良くなれると思うよ！
 
@@ -1783,7 +1783,7 @@ BAN覚悟で
 
 #### Comments (2)
 - **hirafu** (Jul 11, 2026 09:53am): はいれない
-- **ゲスティー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Jul 27, 2026 10:37pm): それな
+- **にかー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Jul 27, 2026 10:37pm): それな
 
 #### Additional Information
 - **Post color:** White
@@ -3877,7 +3877,7 @@ a
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1791445844&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hr7b4NH205Zv6ApyLMvKPKTmjkxXlv6UuZmekes%2FETnPzf%2B3%2FQyIrdxhYHIxP%2BaT7RSBodc3tjQsv97ZMdXoCBAQGV2T3Pootnj67FTdZZwGcP9kaY65t9gfSp9gY6czCuNSU411QHIAqFEhwzclGwmoN%2FHuVdkW4YmhFT%2Ftocp8%2FwCpq5e%2F5lJwyt9yDeRX9G9MPOgiNqk4Exy%2Bjf%2B64Q1wFb91W7h2VX3UKY1DEg%2B6pjItPfCOE6pZWGli9ahHcLEHhkV84zvXM4xIKyEjFUKhS5RBCxxQN%2FmYjmN0reTQEYKBvlVhC%2FPa8olNbZS1Mn%2BHvY5XSCklGgRn3NXtWA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1791467554&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4VPx77diH77stXH6Uee%2Bryd3rvdq66KSEtvWOObKEoqJufBOn3P9yzkGlFsS7aeVCcEJ9mBFoe9F7rmAgTYYIn8Nj%2B7%2BhYANGLURkhqdKYGnQ7P13LlNxMpdj3haqxkdOsTdrQT%2BZVTpyL52sl120eV9a1IPELV%2FVcp9IYBMMsFvhLtS1vC%2BrdfkaWd4gGx3UuNPes%2BcjYcAU1vUhLxgRfh1jfeCEgu4nzX3WazUAI%2B2lFCC7dX1CN8CYKmB32BF%2Bhw38W55NF7yJtyawWUleD%2BX91sHHvbtVc94ASZ%2BkjIkdAdUxcJxWjRQ1WFRveo9F1M%2FeJJV6QLQMHqG4K1gNg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (3)
