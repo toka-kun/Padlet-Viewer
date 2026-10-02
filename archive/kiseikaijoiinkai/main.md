@@ -1,4 +1,4 @@
-最終取得: 2026/09/10 20:25:48
+最終取得: 2026/10/02 11:33:37
 
 # 規制解除解除委員会
 
@@ -128,7 +128,7 @@ No post
 ## 雑談(ライター用)
 
 ### 1. Post 1
-**Author:** 中居正広リア充になった。#鳥ちゃん大好き#最近体痛い (KURUIYAKITORI)
+**Author:** 中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい😭 (INMUKING1DAIME)
 
 s2000941@g.ueis.ed.jp
 
@@ -357,7 +357,7 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 ---
 
 ### 2. Post 2
-**Author:** 中居正広リア充になった。#鳥ちゃん大好き#最近体痛い (KURUIYAKITORI)
+**Author:** 中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい😭 (INMUKING1DAIME)
 
 [Attachment 1](https://publer.com/es/tools/photo-video-downloader)
 
@@ -431,7 +431,7 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 [Attachment 1](https://app.apponfly.com/trial)
 
 #### Comments (2)
-- **中居正広リア充になった。#鳥ちゃん大好き#最近体痛い** (Aug 23, 2026 01:36pm): ナイス
+- **中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい😭** (Aug 23, 2026 01:36pm): ナイス
 - **ホタル** (Sep 07, 2026 03:38am): 2026/09/0712:37使えんくなった確認プロキシ情報によりブロック
 
 #### Additional Information
