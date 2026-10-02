@@ -1,13 +1,13 @@
-最終取得: 2026/10/02 14:45:37
+最終取得: 2026/10/03 07:51:02
 
 # 規制解除解除委員会
 
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-g07iihoi22rh2q7l
 - **Builder:** とるっぷい (TORI_TORI2)
-- **Posts:** 17
+- **Posts:** 18
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Oct 02, 2026 02:56am
+- **Updated At:** Oct 02, 2026 10:23pm
 
 ## 受付
 
@@ -135,6 +135,23 @@ s2000941@g.ueis.ed.jp
 #### Additional Information
 - **Created At:** Jun 19, 2026 12:04am
 - **Updated At:** Jun 19, 2026 12:05am
+
+---
+
+## EduTube
+
+### 1. 規制解除委員会で独自でツール開発しますた
+**Author:** 根釧台地(元いときち) (Dopagaki_67)
+
+名前はEduTubeです。
+
+使い方はBuTubeとおんなじで、見たい動画のリンクをコピペしたら見れます。今後はPornhub版やTikTok版も作る予定です。
+
+[Attachment 1](https://edu-tube.netlify.app/)
+
+#### Additional Information
+- **Created At:** Oct 02, 2026 10:23pm
+- **Updated At:** Oct 02, 2026 10:23pm
 
 ---
 
@@ -390,8 +407,9 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 
 [Attachment 1](http://momon-ga.me/)
 
-#### Comments (1)
+#### Comments (2)
 - **とるっぷい** (Aug 30, 2026 08:11am): これ残しといて
+- **根釧台地(元いときち)** (Oct 02, 2026 10:20pm): 違法サイトやんwww
 
 #### Additional Information
 - **Created At:** Apr 27, 2026 09:17am
@@ -430,10 +448,11 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 
 [Attachment 1](https://app.apponfly.com/trial)
 
-#### Comments (3)
+#### Comments (4)
 - **中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい😭** (Aug 23, 2026 01:36pm): ナイス
 - **ホタル** (Sep 07, 2026 03:38am): 2026/09/0712:37使えんくなった確認プロキシ情報によりブロック
 - **けけ** (Oct 02, 2026 02:56am): 最悪
+- **根釧台地(元いときち)** (Oct 02, 2026 10:19pm): めんご地域学校によってはブロックされるかも
 
 #### Additional Information
 - **Created At:** Aug 22, 2026 08:15am
