@@ -1,4 +1,4 @@
-最終取得: 2026/10/03 22:10:11
+最終取得: 2026/10/03 23:56:28
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Nanachiki (Nanachiki)
 - **Posts:** 96
 - **Created At:** Aug 27, 2024 11:14am
-- **Updated At:** Oct 03, 2026 02:06am
+- **Updated At:** Oct 03, 2026 01:55pm
 
 ## 概要
 
@@ -207,7 +207,7 @@
 
 ゲームの募集は雑談セクションではなく、こちらにしてください。
 
-#### Comments (23)
+#### Comments (26)
 - **happyはまぐり???** (Mar 15, 2025 06:08am): スマブラで
 - **happyはまぐり???** (Mar 15, 2025 06:09am): 2LJVBの部屋を開いております良ければ来てください
 - **匿名** (Sep 26, 2025 11:29am): https://eaglecraft.pages.dev/
@@ -231,6 +231,9 @@
 - **sirosiro550** (Oct 01, 2026 05:28am): 一応マイクラですhttps://d3rsc7j663z58n.cloudfront.net/?utm_source=canva&utm_medium=iframely
 - **〜〜〜xルート** (Oct 01, 2026 02:00pm): それ使えんかった（ブロックではない）。使い方教えて欲しい。
 - **匿名** (Oct 03, 2026 02:01am): https://d3rsc7j663z58n.cloudfront.net/?utm_source=canva&utm_medium=iframelyは、iフィルターは、ブロックです。
+- **うずらのたまご** (Oct 03, 2026 01:53pm): https://dailyportalz.jp/backnumber/topic/5643
+- **うずらのたまご** (Oct 03, 2026 01:53pm): できないやつもある
+- **うずらのたまご** (Oct 03, 2026 01:55pm): https://killedbyapixel.github.io/SpaceHuggers/　　矢印キーで操作　Zが弾丸　Xが転がる　Cは時限爆弾　燃えるとラグくなるから気をつけて
 
 #### Reactions
 - **Emojis:** ❤️ (5)
@@ -1181,7 +1184,7 @@
 
 テトリス自作したんで
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1791637847&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1%2BRR57bT7HP%2Fm2MI2RSPSnCY78GNHhb1UPe6FVIso6TYQ7uUbBmnlZEQ%2F3QhwYAkmYbr9D%2FuOwUF%2FOfd6RH2RMLIpTez8f43LDTKkWvVCXYzeiwQ%2BDA%2BHGpyAYWSQfW2UW2bPAzAVy%2FvQvCtWC4nt%2B8ucQOpbIfK8eFhnmUpG7jpw1Ib8yCco7xD2Np%2By9s%2B%2Bg1xNa9C%2F%2BFuYmK%2BEj%2B6FnWsxY5M0DZFT4wIoreTfOCBvdtLukzFKiDAGyHc9RAhNfy87bpTg7UEf90mGDJBnI5VKnKCFbvV5I126IjzH%2FjAWcim%2BkPupQEhptN9wZWRiu7Ha92YkUfRv7IGZBDpTQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1791644225&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FE1q5d%2FaWtunB11Jl%2BMQmM386yiWnccWocvVylG%2FJ%2Btm4i8CsYwTYZ59QPLV7%2FmSmHghAxnoG4w316qBbbkgBMri7%2B732uNuIlpq1r%2Ff7wpn0Rxapzx70rESDmdLoMTMzhNcjEreKlHXrDRGX6bttSKigclEArKSBJKzJg7yVv7jcEC6ohGQJRGyXZuFdhZIxhtDUFRcpDGMZz5bOiT9ueJ5Ewy8eJIWUQmDNdTM9KbBNmJtTPEb6dti1yOds7QE%2B1yvyLGDChOAfWlklo6bBDYcMpkOd8M3d2LOiF7WD%2BCcp4oHpAGJ5w%2FcAYjLBGlPS4xwuAl%2FfXmpTQc9Fod2NQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
 
 #### Comments (6)
 - **RX034** (Dec 02, 2025 08:28am): 良ければどうぞ！
@@ -1203,7 +1206,7 @@
 
 テトリスだよ
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1791637847&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tS5zRQbuU9%2BiCoiPx73785bpiJdpvt4gKjQ9o%2BtVlrrAIlf9qivl8MxucL030DANifddhxYDSXiPvX1hG2LFP4D2diIKkf0u4AcmXSjJ7osTc%2Bzlmc%2F15TwbkQAhna9oU2iXLlJ1FH%2BTLg1Wyxhh5HyiJS597VHlGJqNNer6FmtNmFzS%2FYoJPNcmdBa3NcfoyueC0RI315kGkx1FKKJyQiRhtqM5VDLzZ0Kz4%2Bo0rT3nrccU3ruhwlSEIyEXtMnudIrXiOCohVOoje7wcxjLh3auX0NntKmnTNN%2FlvW%2BFk%2F2FYLKh01RJnJdPUcUbciq7t2%2FdyTO0mEsFeMHSHD1PA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1791644225&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lPv2afosVxayJR8W0OGY%2B363cxvgwR5RSQcq1YrTZWYW%2F3KKqP6AsliZC0qNkJm3gOVdZ8WI8NmKTkatMjYcO3hELYkGTJ%2FaynJxnOwcBE3PwViN9x0YpZNxuXTw2CfKdZZc5l%2FiDzc5ZJ394gEcAuekcvTM9EzJ3nzGmhznV23g5MTPYrXi94AwcS1IpvBjcC%2Fuga2xilqp%2BIMsYgFdKRTpNuCahjje%2FkC%2Bruty1KZXK0jtg36MC1Nkpen89upIEYRwhqzSi1lkXu6NlcgUxH5H0wu3zKfO1rU7MiWGura7W5hEfSKLYwqTgTceJ6S0o7VA%2Fcrm%2FuVHoNe7AzKGgg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
 
 #### Comments (1)
 - **はるとねこ** (Nov 10, 2025 01:54am): なんか表示できねえ
@@ -1220,7 +1223,7 @@
 
 オセロゲーム作りましたレビューください
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1791637847&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=AwGe3JkSu8lCBlVwUKEjEQVU59Zx5QfqIsuMpgVjvedFC7NaViA5vJgpAWbdvUmvkQaA818H5nixLMN3TZR2q3TRHb69TtDo9Y35zVyc%2BSQj8V5dPVHoHnRBAjbJlwejuiyDfUvQ69lh4qO9UojuA1QmlXQ10gL1zbzdiKnDYd6z%2BgbBJMJomQQ5umE9lGLWPj0dfTHCS5JixQ4jYJc0qykdxiRSei6sMUVG4wtDswTV%2B4oY7Avgl4ZmFbTuIluJ8gjwbX%2BMLd6p5GNneeve9LC1wfPqx7IEM0y8kOuYHacPWcI7%2FeZ7ZWR7X2TStd%2B%2BkY7%2FGUtqeNXnxr32yC7Z7w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1791644225&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pf7MRGxdfoRgK9eoxk1UchwCkMti8B6tmjZtlqdKuEIP0oOE1tGzehVObOuZzeU9X7dztURFw7Zyi2qVyz9LeGm0K87M2mOhyzN%2BmjbXS4zDv2F3oG0EDgjcsKOgvOXpxjMh68Rw9UZm%2BUztY1GJrr8bo05aP2bp1asgrDYOUh0f7RVqvQ6uOBP0baOGX0JTEjhax9I2D%2BniBdlSwQsXcGohrZvq4M0NKrcYtk6MzZm9uPtrQXMHVaGEqWt3pJn6PSKI%2FcMNKnS2P3Yoau3E9c8Fq%2FxANrlN7Jgxq6NkWWA8OxXrkqI1r0UoUcFQOxrX4n48V2f6ojYmbzWtNQHoYA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
 
 #### Comments (3)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 08, 2025 04:36am): 思ったよりAIが強くて負けそう:(
@@ -1272,7 +1275,7 @@
 
 英語のみ対応です
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1791637847&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YCbbTLX%2FTD2p9%2F1Q5JkXN4gJ%2F8MI0ePLnwpuecwretXvtKH%2Fgph7vj3p8HFT6hDLRJwFLMs9unSHN%2FuWNV5R%2F6dnV8GZvAT325qtnjJA1SWXkYMrVPuOl3sFDBUsEjEJQdLYccXu7pbR2DYsFyYU9fWlIIwWFSX063MopT9kpV0uXxQrRWDwPJmXm8cKg%2BhAvpcRd89GW57f5XmDdsxMUXxHFM%2BSrk%2F1FU9Gg7ZiucME0%2Fl1JqcadPUKvhlwWoa4AnDf7o3NurmozgmUBbb0hjIEeMKY1vtUzNxKTAdsZXDanFUZ2yRS6xuNqh6KE796d1LQjs8FxO7lXR5AxLl%2FmA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1791644226&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E2SG0sTi2%2BaBlgpp%2FuQbtQZUh7%2B2lIemkE16ulhoTWEuQYYZ9NLWw6B6yGr18G6is50jLBE2zJeMS85AjR1ilqSqn7shvEtndjXiW9%2B1RMRRBMO%2B571IHmPxWh7oWwncBUwoJUhjKR3FGpjqSrCw8On1Rbz1uy4yS9dsjhVQ%2BrmNLH1o2%2F3bfTk4c%2BV6qiseEf7Hid7Bu710G497IlYTSSfd3x9MBqAw0NNjomlRZe%2FoIJhrI9QVuzleiot2ZBzCN17payPUVwEzbNtAUCDdYSE9XNIssiS%2BW7p93DDbTGf7scavWOZvD6duc7bl8vPW%2F9FQizr3jlT%2Bq8B6q0VECg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
 
 #### Comments (3)
 - **カービィ** (Feb 28, 2026 02:14am): どうやって進むの？
@@ -1400,9 +1403,10 @@
 
 [https://ext.minijuegosgratis.com/monkey-mart/game.html](https://ext.minijuegosgratis.com/monkey-mart/game.html)
 
-#### Comments (2)
+#### Comments (3)
 - **るい** (Oct 09, 2025 11:54am): ブロック
 - **USSR** (Oct 09, 2025 11:57pm): いけた。
+- **うずらのたまご** (Oct 03, 2026 01:25pm): 無理
 
 #### Additional Information
 - **Post color:** White
@@ -1429,9 +1433,10 @@ web系の東方には珍しいみょんがいるよ
 
 [https://taisei-project.org/play](https://taisei-project.org/play)
 
-#### Comments (2)
+#### Comments (3)
 - **るい** (Oct 09, 2025 11:58am): ブロック
 - **学タブ民** (Jul 08, 2026 04:57am): ブロック
+- **うずらのたまご** (Oct 03, 2026 01:25pm): ブロック
 
 #### Additional Information
 - **Post color:** White
@@ -1486,9 +1491,10 @@ web系の東方には珍しいみょんがいるよ
 
 [https://www.jezng.com/open-syobon-action.js/](https://www.jezng.com/open-syobon-action.js/)
 
-#### Comments (2)
+#### Comments (3)
 - **ポップコーン** (Sep 05, 2025 09:59am): 👍 
 - **人間** (Sep 29, 2025 11:38am): いいね
+- **うずらのたまご** (Oct 03, 2026 01:26pm): ブロック
 
 #### Additional Information
 - **Post color:** White
@@ -1551,9 +1557,10 @@ web系の東方には珍しいみょんがいるよ
 
 [Attachment 1](https://ja.y8.com/games/mess_adventures_official)
 
-#### Comments (2)
+#### Comments (3)
 - **あめぇ↑!りかんどっく　＠くるみ教** (Aug 04, 2025 08:45am): ブロ
 - **コロッケ** (Sep 10, 2025 07:39am): ブロ
+- **うずらのたまご** (Oct 03, 2026 01:28pm): 無理だった
 
 #### Additional Information
 - **Post color:** White
