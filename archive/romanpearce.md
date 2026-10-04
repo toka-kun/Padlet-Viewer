@@ -1,4 +1,4 @@
-最終取得: 2026/10/04 14:05:52
+最終取得: 2026/10/04 14:59:11
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 9
+- **Posts:** 10
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 04, 2026 04:54am
+- **Updated At:** Oct 04, 2026 05:53am
 
 ## ライター受付
 
@@ -90,7 +90,23 @@ No post
 
 ## 雑談
 
-### 1. Post 1
+### 1. るいせいとかひよこ懐かしい
+**Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
+
+**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+#### Comments (2)
+- **だいまた** (Oct 04, 2026 05:52am): おれ潜入して荒らしたのもなつい
+- **ローマンピアースのスマホ垢本物** (Oct 04, 2026 05:53am): くさ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 04, 2026 05:16am
+- **Updated At:** Oct 04, 2026 05:16am
+
+---
+
+### 2. Post 2
 **Author:** 生きやがれ (ikiyagare)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -99,6 +115,13 @@ No post
 ![Attachment 2](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/3866745131/f3676fa574727505208b56acde484555/1000007636.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio3wVNlgSsJTKbxwWfY8p7S2m3CqNq9Xp7fepd6hCgNqKLfybwm0BV0rl78egbCb045Qnf3APPcmJXYkH4bw0pHhXCIx8-88lUjvfqn8TF2Afv9h9FQpUmzg1hNpLKuJ_9EX9bB_bBaAC3KHQPxIiCnU=)
 ![Attachment 3](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/3866745131/52956c638a11445e3d12c6d046ae79ea/1000007637.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio3wVNlgSsJTKbxwWfY8p7S0yrgUnHta5gE7lTJtFTIEl3--SKPbGBTVlprdjHp6WdPaOeVPh6dEwYBXm7oEkHO22XYSwUsySly4-K8yRGdsSCjPcp7pFHF3t9app21wkARtBzPguHn7KLY_cHEPYvk0=)
 
+#### Comments (5)
+- **だいまた** (Oct 04, 2026 05:14am): Uなんたらがやったってこと？
+- **だいまた** (Oct 04, 2026 05:15am): れいがやったの！？
+- **生きやがれ** (Oct 04, 2026 05:39am): レイがこのとき重い荒らしを作っていて、この部屋のリンク載せたあとに重い荒らしで荒らされたのでおそらくレイだと思います
+- **だいまた** (Oct 04, 2026 05:53am): もうかなしい🥲
+- **だいまた** (Oct 04, 2026 05:53am): 信じてたのに
+
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 03:55am
@@ -106,7 +129,7 @@ No post
 
 ---
 
-### 2. 必要最低限のセクションは作りました
+### 3. 必要最低限のセクションは作りました
 **Author:** 九粗チンパンジー食堂2号店 (uououo)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -122,12 +145,15 @@ No post
 
 ---
 
-### 3. 荒らされたので全部消えました
+### 4. 荒らされたので全部消えました
 **Author:** 九粗チンパンジー食堂2号店 (uououo)
 
 一応全消しで修復したから今は重くないけど
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+#### Comments (1)
+- **ハロー！** (Oct 04, 2026 05:53am): もうこの部屋は終わりただのゴミ
 
 #### Additional Information
 - **Post color:** White
