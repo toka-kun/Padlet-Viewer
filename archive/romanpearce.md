@@ -1,4 +1,4 @@
-最終取得: 2026/10/04 20:13:36
+最終取得: 2026/10/04 21:27:21
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 13
+- **Posts:** 14
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 04, 2026 11:05am
+- **Updated At:** Oct 04, 2026 12:25pm
 
 ## ライター受付
 
@@ -20,9 +20,10 @@
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-#### Comments (2)
+#### Comments (3)
 - **ポタリック** (Oct 03, 2026 10:18pm): ほしい
 - **S 1** (Oct 04, 2026 03:04am): ほしいです
+- **九粗チンパンジー食堂2号店** (Oct 04, 2026 11:45am): ↑二人OK
 
 #### Additional Information
 - **Post color:** Red
@@ -246,6 +247,10 @@ No post
 
 No post
 
+## 障害者
+
+No post
+
 ## 画像・プロキシ等
 
 No post
@@ -266,7 +271,7 @@ No post
 **どれ？:**
 - **学校のパソコン:** 1 vote
 - **自分のスマホ:** 0 votes
-- **自分のパソコン:** 0 votes
+- **自分のパソコン:** 1 vote
 - **その他:** 0 votes
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -274,7 +279,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 04, 2026 10:31am
+- **Updated At:** Oct 04, 2026 12:04pm
 
 ---
 
@@ -284,4 +289,14 @@ No post
 
 ## プロキシとか要望
 
-No post
+### 1. ここにコメントしてね
+**Author:** だいまた (daimatadao)
+
+**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+#### Additional Information
+- **Post color:** Yellow
+- **Created At:** Oct 04, 2026 12:24pm
+- **Updated At:** Oct 04, 2026 12:25pm
+
+---
