@@ -1,4 +1,4 @@
-最終取得: 2026/10/04 21:27:21
+最終取得: 2026/10/05 00:55:27
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -9,7 +9,7 @@
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
 - **Posts:** 14
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 04, 2026 12:25pm
+- **Updated At:** Oct 04, 2026 03:30pm
 
 ## ライター受付
 
@@ -58,7 +58,7 @@ No post
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-#### Comments (22)
+#### Comments (24)
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:24am): お前今サマラン行ってんの？
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:24am): 今日祭り行かね？
 - **だいまた** (Oct 04, 2026 03:24am): 今日じゃない
@@ -81,6 +81,8 @@ No post
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:28am): [Attachment](https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q/wish/PR3NWxq13n1yab0O) こういうことだろ
 - **だいまた** (Oct 04, 2026 03:29am): だれがあらしたの？
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:29am): しらん
+- **ポタリック** (Oct 04, 2026 02:13pm): 多分ねっこ？
+- **ポタリック** (Oct 04, 2026 02:14pm): 知らんけど😕
 
 #### Additional Information
 - **Post color:** White
@@ -95,6 +97,10 @@ No post
 **Author:** とりすけお (uyjyukfy)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+#### Comments (2)
+- **ポタリック** (Oct 04, 2026 02:09pm): 誰かが荒らしたから．．．
+- **ポタリック** (Oct 04, 2026 02:11pm): それで今これ
 
 #### Additional Information
 - **Post color:** White
@@ -161,10 +167,6 @@ No post
 **Author:** 九粗チンパンジー食堂2号店 (uououo)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
-
-#### Comments (2)
-- **ポタリック** (Oct 03, 2026 10:18pm): ？
-- **ポタリック** (Oct 03, 2026 10:18pm): え
 
 #### Additional Information
 - **Post color:** White
@@ -269,7 +271,7 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 1 vote
+- **学校のパソコン:** 2 votes
 - **自分のスマホ:** 0 votes
 - **自分のパソコン:** 1 vote
 - **その他:** 0 votes
@@ -279,7 +281,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 04, 2026 12:04pm
+- **Updated At:** Oct 04, 2026 01:39pm
 
 ---
 
@@ -293,6 +295,9 @@ No post
 **Author:** だいまた (daimatadao)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+#### Comments (1)
+- **ポタリック** (Oct 04, 2026 02:10pm): あ
 
 #### Additional Information
 - **Post color:** Yellow
