@@ -1,4 +1,4 @@
-最終取得: 2026/10/05 16:32:14
+最終取得: 2026/10/05 18:09:55
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 17
+- **Posts:** 20
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 05, 2026 07:31am
+- **Updated At:** Oct 05, 2026 07:58am
 
 ## ライター受付
 
@@ -53,7 +53,19 @@ No post
 
 ## 自己紹介
 
-### 1. だいまただよ
+### 1. よろー
+**Author:** しろちゃん (syunn925)
+
+**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 05, 2026 07:58am
+- **Updated At:** Oct 05, 2026 07:58am
+
+---
+
+### 2. だいまただよ
 **Author:** だいまた (daimatadao)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -93,7 +105,31 @@ No post
 
 ## 雑談
 
-### 1. どしたんはなしきこか
+### 1. 投稿全部消したん？
+**Author:** しろちゃん (syunn925)
+
+**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 05, 2026 07:58am
+- **Updated At:** Oct 05, 2026 07:58am
+
+---
+
+### 2. 久しぶりに来たけどなんか投稿少なくね？
+**Author:** ポケカの神（サブ垢） (pokekanokamisabu)
+
+**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 05, 2026 07:44am
+- **Updated At:** Oct 05, 2026 07:44am
+
+---
+
+### 3. どしたんはなしきこか
 **Author:** とりすけお (uyjyukfy)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -109,7 +145,7 @@ No post
 
 ---
 
-### 2. だいまたへんしんして
+### 4. だいまたへんしんして
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -124,7 +160,7 @@ No post
 
 ---
 
-### 3. るいせいとかひよこ懐かしい
+### 5. るいせいとかひよこ懐かしい
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -140,7 +176,7 @@ No post
 
 ---
 
-### 4. Post 4
+### 6. Post 6
 **Author:** 生きやがれ (ikiyagare)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -163,7 +199,7 @@ No post
 
 ---
 
-### 5. 必要最低限のセクションは作りました
+### 7. 必要最低限のセクションは作りました
 **Author:** 九粗チンパンジー食堂2号店 (uououo)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -175,7 +211,7 @@ No post
 
 ---
 
-### 6. 荒らされたので全部消えました
+### 8. 荒らされたので全部消えました
 **Author:** 九粗チンパンジー食堂2号店 (uououo)
 
 一応全消しで修復したから今は重くないけど
@@ -314,7 +350,7 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 10 votes
+- **学校のパソコン:** 11 votes
 - **自分のスマホ:** 0 votes
 - **自分のパソコン:** 2 votes
 - **その他:** 0 votes
@@ -324,7 +360,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 05, 2026 04:59am
+- **Updated At:** Oct 05, 2026 07:44am
 
 ---
 
