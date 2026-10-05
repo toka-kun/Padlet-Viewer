@@ -1,4 +1,4 @@
-最終取得: 2026/10/06 03:31:36
+最終取得: 2026/10/06 03:49:03
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -344,7 +344,7 @@ No post
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791829973&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=q2JoCzk2cmPt0vO6LCWRYneBblaJCbZ%2BmVuu0dLqU30Y7vNEpxNOXPTlwfFHmW8cSXbFDxy168DPHWDTzXaibs6Vtqm%2FiXbNpxS83KE7%2FRXA%2Be5KQ05jqo8DvQ25PE8Ignc3kB0M1CMRSLPqg%2B8XURF6HawqA%2BZdEk46iuVSwmIKQ3jbfncd32d5NZXQ%2B79sdyHORyxg8Z9Rpedc0Bs%2FkL9adCLNZVhoBGSdCdF0ne09MEMq75QWxoS%2BZgyuM9E2EqIuchcCMNxKlJxIiKFRLbZJB81ZiET59et%2BCCrDfnFhBNROKhnp00GK%2FOJbyK3Rbn2WD%2F8NFmOckg9HXhFjIg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791831010&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zY6Q6KGgt6YNEyK2BvjKeK5UwL5RlWICZtTwdX7SjWHdcRCRnOMf0pWw8eU4L%2FGO6OB%2FyGUdmDJCVbmMoWvcf5wLlVpKnHXPqNDFdE%2BkGytR4m8Aa%2Fo%2BWiTEqOTjmEBqxvKfrRZo4xX2%2BG0KowMpdMmwAOyvwZmLKBy2NMcqrN42pR%2FvDB4JJQZHXmvo5pRSrhLIzzVlkDx3qBkZkm%2FDdprxnBndrrKILgMSd66hxk1ldu1d53rkqNBSbpPn13OQYVWO%2F7qyXaQtmshFegSeSKIARo6UxQtUjDSvUIYR63Xdwh5T2VG30%2BlYNo%2BqSCWyz0dLLgliHsMzRU8ZTZJCrw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Additional Information
 - **Post color:** White
