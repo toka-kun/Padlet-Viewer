@@ -1,4 +1,4 @@
-最終取得: 2026/10/06 03:49:03
+最終取得: 2026/10/06 08:06:22
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 24
+- **Posts:** 25
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 05, 2026 01:00pm
+- **Updated At:** Oct 05, 2026 09:45pm
 
 ## ライター受付
 
@@ -344,7 +344,7 @@ No post
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791831010&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zY6Q6KGgt6YNEyK2BvjKeK5UwL5RlWICZtTwdX7SjWHdcRCRnOMf0pWw8eU4L%2FGO6OB%2FyGUdmDJCVbmMoWvcf5wLlVpKnHXPqNDFdE%2BkGytR4m8Aa%2Fo%2BWiTEqOTjmEBqxvKfrRZo4xX2%2BG0KowMpdMmwAOyvwZmLKBy2NMcqrN42pR%2FvDB4JJQZHXmvo5pRSrhLIzzVlkDx3qBkZkm%2FDdprxnBndrrKILgMSd66hxk1ldu1d53rkqNBSbpPn13OQYVWO%2F7qyXaQtmshFegSeSKIARo6UxQtUjDSvUIYR63Xdwh5T2VG30%2BlYNo%2BqSCWyz0dLLgliHsMzRU8ZTZJCrw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791846467&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=T8eSaVeUFo0lPB8fJpG2tyWNqPUNY0zMOZA5jxCvJek5qAaO5YO%2B1u7b1vbc%2FIQniF5NAx6LxeezHeg6MA785B%2BfARCLUz6Jgw%2BAFKXXr0Isjk6KFDHJUTwO5IALuYv5DiYrlLBB%2BZxibIKaol6AzE1jNMMnv3wgTfMCVW4t7zKakMAAT0oluRRi3uzOuMR%2FRdWo%2FlIRE9NBVYoXpjZYlC9rGPOqyvgvELKUazRVph8nW1CRlpyhQ%2FpYuTmACvPPn43p5gYZO67B3ZJUj%2F07U5YsPSunaL8rJ%2B0xwXfUirA7IRXdLTyla73aygQLkM2i2%2B8MreWadaeW4X8JU20J1Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Additional Information
 - **Post color:** White
@@ -385,7 +385,19 @@ No post
 
 ## 画像・プロキシ等
 
-No post
+### 1. Post 1
+**Author:** 村田総一郎 (r0502877)
+
+**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791846467&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kpO6fozMiA3hNNdn96arlENcv8ed0pl68s2uWn1sJETkADdiLDbvERUquSuHaX7aSac1q0vXk9znrMU8W%2FzVKAbbnF0eFIkKDgIK3E8Hv9tBE4Xr4gEVeLS0Zk%2BcJX5Bz%2Bpv7Xj816ehqHCw9ZZv1fF%2FN2JoetMtGzFlyKeyRbqW7l7gT154Fg51mK4MDIyH9mYjcQ%2F2FfWitE%2BKpJtOYBQTOQmygQt4%2FpnZzdVQX%2BKECPlbhIsze6U8w1DabAQ3CLx%2BI%2Bsu8dB3zZSCVreZZnixqcMy7YA7GtO7SDsVN6uiT2ui8BlFyIzDJKI8rtUZm8wDMLlPK73BxRljS50%2B2Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 05, 2026 09:45pm
+- **Updated At:** Oct 05, 2026 09:45pm
+
+---
 
 ## 宣伝
 
@@ -415,7 +427,7 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 14 votes
+- **学校のパソコン:** 16 votes
 - **自分のスマホ:** 2 votes
 - **自分のパソコン:** 2 votes
 - **その他:** 0 votes
@@ -429,7 +441,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 05, 2026 01:15pm
+- **Updated At:** Oct 05, 2026 10:33pm
 
 ---
 
