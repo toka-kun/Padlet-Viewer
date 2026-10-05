@@ -1,4 +1,4 @@
-最終取得: 2026/10/05 18:09:55
+最終取得: 2026/10/06 01:57:21
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 20
+- **Posts:** 24
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 05, 2026 07:58am
+- **Updated At:** Oct 05, 2026 01:00pm
 
 ## ライター受付
 
@@ -20,10 +20,11 @@
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-#### Comments (3)
+#### Comments (4)
 - **ポタリック** (Oct 03, 2026 10:18pm): ほしい
 - **S 1** (Oct 04, 2026 03:04am): ほしいです
 - **九粗チンパンジー食堂2号店** (Oct 04, 2026 11:45am): ↑二人OK
+- **True_043** (Oct 05, 2026 11:57am): ください
 
 #### Additional Information
 - **Post color:** Red
@@ -32,7 +33,23 @@
 
 ---
 
-### 2. 荒らし対策として受付制度に変えました
+### 2. ここよろしく！
+**Author:** True_043 (r0404449)
+
+[https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh](https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh)
+
+**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+[Attachment 1](https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 05, 2026 11:57am
+- **Updated At:** Oct 05, 2026 11:57am
+
+---
+
+### 3. 荒らし対策として受付制度に変えました
 **Author:** 九粗チンパンジー食堂2号店 (uououo)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -53,7 +70,19 @@ No post
 
 ## 自己紹介
 
-### 1. よろー
+### 1. ぬｎ
+**Author:** 影 (dopagakisine)
+
+**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 05, 2026 12:56pm
+- **Updated At:** Oct 05, 2026 12:56pm
+
+---
+
+### 2. よろー
 **Author:** しろちゃん (syunn925)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -65,7 +94,7 @@ No post
 
 ---
 
-### 2. だいまただよ
+### 3. だいまただよ
 **Author:** だいまた (daimatadao)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -233,14 +262,31 @@ No post
 
 ## 雑談
 
-### 1. だれかこれなんも無い理由わかる人いる？
+### 1. ここ生きやがれいるのまじか
+**Author:** 影 (dopagakisine)
+
+**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+#### Comments (1)
+- **影** (Oct 05, 2026 12:58pm): 最高やｎ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 05, 2026 12:57pm
+- **Updated At:** Oct 05, 2026 12:57pm
+
+---
+
+### 2. だれかこれなんも無い理由わかる人いる？
 **Author:** だいまた (daimatadao)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-#### Comments (2)
+#### Comments (4)
 - **生きやがれ** (Oct 04, 2026 06:39am): もし、ネッコさんがパソコンを使っていて、９時間以内にこの部屋にきたのなら、コントロール+z連打で消した投稿が戻ると思います（連打の際は間隔を開けて）
 - **だいまた** (Oct 04, 2026 07:32am): たぶんねっこがきてる時間が12時間前だからむりだ😭
+- **九粗チンパンジー食堂2号店** (Oct 05, 2026 10:34am): ごめんね
+- **だいまた** (Oct 05, 2026 11:16am): いいよ
 
 #### Additional Information
 - **Post color:** White
@@ -249,7 +295,7 @@ No post
 
 ---
 
-### 2. オワコンになったの悲しすぎる
+### 3. オワコンになったの悲しすぎる
 **Author:** Союз Советских Социалистических Республик (2014800_2)
 
 それな
@@ -274,10 +320,11 @@ No post
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-#### Comments (3)
+#### Comments (4)
 - **九条** (Oct 05, 2026 04:13am): あ
 - **九条** (Oct 05, 2026 04:13am): おおおああ  あああ  
 - **九条** (Oct 05, 2026 04:13am): やらゃ 
+- **だいまた** (Oct 05, 2026 11:16am): え、九条ってイケメン部屋の？
 
 #### Additional Information
 - **Post color:** White
@@ -288,7 +335,25 @@ No post
 
 ## 自由
 
-### 1. ↓クッキークリッカーのセーブデータです　後で自分で消しますが管理かもでの人消したかったら消してください
+### 1. Post 1
+**Author:** ホロライブオタク (horoota)
+
+最近描いた絵です
+
+直感でいいんで評価してください
+
+**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791824335&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ew56yIIH5RuUk1a098V4Nig34nWzcxwYmAU%2BciWUHrjAkZ3TFMi80%2B5UtPaIbZnsMMhl55i0LuKqvgt4nXt4nTmj4zZZM5W5U2mg%2BHzdAF55AaPEqgGq7YPSlEAaHw%2B%2BjDz3q3yLrWR%2F2qM0NJoJOrGbXaGljWdQcZeGhXrKlUpRd2pujMTw2ByJUyihsNNVEXVIasyosMv7EvSci9w7nUlW1OYtvX%2FsFeLDnRrIyIeeARSOAQMP25MzWTnYmFoydv%2FfNzAKpWL2ZirEMfAYVNUxU8EQd7Iey2eA3oBIeeSnKjRvSUVkvQNqXQ%2Bvh82J0SvLVffMXIY4ErKxIhl%2Bdg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 05, 2026 12:47pm
+- **Updated At:** Oct 05, 2026 12:47pm
+
+---
+
+### 2. ↓クッキークリッカーのセーブデータです　後で自分で消しますが管理かもでの人消したかったら消してください
 **Author:** とりすけお
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -300,7 +365,7 @@ No post
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** とりすけお (uyjyukfy)
 
 **Mi4wNDh8fDE3ODA5NzQ0NDI2MzY7MTc4MDk3NDQ0MjYzNjsxNzgxNDgzNjIyMDM1O+OBqOOCiuOBmeOBkeOBijtuc3N3Z3wxMTExMTExMTEwMDEwMTExMDExMTAxMTAwMDF8MTYxODgxMjY3MTcyMjY0OC41OzUyNzcwNzU0NjEwNDAxOTY7NDgxMzk7NTIzOzQ4MzEyMzU1ODI5MDQ2OC44OzY5NDswOzA7MDswOzA7MDswOzA7MDs1MjM7MDswOzA7MDswOzA7OzA7MDswOzA7MDswOzA7LTE7LTE7LTE7LTE7LTE7MDswOzA7MDsxMDA7MDswOzA7NjsxNzgxNDgzNTg0MDg5OzA7MDs7MDswOzA7MjQwNTYzODg2ODkuMjc5Mjk3OzUwO3wxNTAsMTUwLDgxOTY5NzE1MTY1MTQsMCwsMCwxNTA7MTUwLDE1MSw5NDc5MzUwODk5MjksMCwsMSwxNTA7MTIwLDEyMCw2MTE0ODMwMDI3NywyLCwwLDEyMDsxMDAsMTAwLDIwNzI4NDg2ODgzMCwwLCwxLDEwMDsxMDAsMTAwLDg2ODI4OTMxMzU1NCwwLCwxLDEwMDs3MCw3MCwxNjUxMTU1ODQ3MTI3LDEsMDoxOjE6ODU2LjE0NjQyMzk3MDA0Nzk6MTogMzM5NTo1Oi00NDoxNTU6MTMwOjA6MCE0NjQzOjE6NTM6MjMwOjA6MDowITk1MDoyOi0zNDo3MDU6MDowOjAhMTIxMToyOi0zMDo4OTg6MDowOjAhMzgwODo1OjQ1OjYyMjowOjA6MCEzNTgwOjI6LTU2OjUxMDowOjA6MCE2Mjk4OjU6LTEyOjQ4MDo0NzowOjAhNDk0MToyOi02MTozNDM6MDowOjAhOTkzMTo1Oi0yODo2NTE6MDowOjAhNzI4MjoyOi01Njo1MDM6MTE6MDowITg1MDQ6MjotNDE6OTA6MDowOjAhMjA3NDo0Oi0yMzc6MjMxOjA6MDowITEzNTA0OjE6Nzo2MzowOjE6MCExMzcyOTowOjQ6NDI5OjA6MTowITEzMDM2OjI6LTU0OjY3OTowOjE6MCExMjMzODoyOi03MDozMzM6MDoxOjAhIDEsMCw3MDs2Nyw2Nyw3NDUzNTUxNzY5Mjk2LDEsOC82LzcgMyAxNzgxMzA4MjE2MzM2IDAsMCw2Nzs2MSw2MiwxNzgzMTM1MDUyOTkwNCwxLDE3LjczODk0NDU1ODUwOTk2NyAxMjkgMTI5IDEsMCw2MTs0Nyw0NywzODAyMDQ2ODExNTQ1NSwwLCwxLDQ3OzM3LDM3LDczODk4MTgzNTE4NTUxLDAsLDEsMzc7MjUsMjUsODAwMjU2MjQ5MTc4NjYsMCwsMSwyNTsxMSwxMSwyNzM5MDA0MjY3OTAyMTcsMCwsMSwxMTsyLDIsMjA2NTMyOTg5NDY0ODUxLDAsLDEsMjsxLDEsMjg4ODY0MzIxMzMwMDEzLDAsLDEsMTswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwO3wxMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMDEwMTAxMDEwMTAwMDExMTExMTExMTExMTExMTExMTExMTExMTAwMTExMTExMTEwMDAwMDAwMDExMTExMTExMTExMTExMTExMTExMTAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTExMTExMTAwMTExMTAwMDAwMDAwMTEwMDExMTAxMDAwMTAwMDAwMDAwMDAwMDAxMDAwMDAwMDAwMTAxMDEwMTAxMDAwMTExMTExMTEwMDAwMDAwMDAwMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMDAxMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMTExMDAwMDExMTExMTExMDAwMDExMTExMTEwMDAwMDExMTExMTAwMDAwMDEwMTAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDB8MTExMTExMTExMTAwMDAwMDExMTExMTExMTEwMDAwMTExMTExMTEwMTExMTExMTExMTExMTEwMDEwMDEwMDEwMDAwMDExMTAxMTExMTExMDAwMTAwMDAwMTAwMDAwMDAwMDAwMDExMDAxMDAwMDAwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMTEwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMDAxMTEwMDAxMTAwMDExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAxMTAwMDAxMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMHx8%21END%21**
@@ -350,17 +415,21 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 11 votes
-- **自分のスマホ:** 0 votes
+- **学校のパソコン:** 14 votes
+- **自分のスマホ:** 2 votes
 - **自分のパソコン:** 2 votes
 - **その他:** 0 votes
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
+#### Comments (2)
+- **九粗チンパンジー食堂2号店** (Oct 05, 2026 10:34am): 学タブと自分のパソコンと携帯
+- **はまじちゃん** (Oct 05, 2026 01:00pm): 学タブブロックされてて使えない
+
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 05, 2026 07:44am
+- **Updated At:** Oct 05, 2026 01:15pm
 
 ---
 
@@ -375,8 +444,9 @@ No post
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-#### Comments (1)
+#### Comments (2)
 - **ポタリック** (Oct 04, 2026 02:10pm): あ
+- **ハネノハ** (Oct 05, 2026 12:10pm): プロキシサイト教えてね
 
 #### Additional Information
 - **Post color:** Yellow
