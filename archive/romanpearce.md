@@ -1,4 +1,4 @@
-最終取得: 2026/10/06 12:14:06
+最終取得: 2026/10/06 15:53:20
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 25
+- **Posts:** 26
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 05, 2026 09:45pm
+- **Updated At:** Oct 06, 2026 06:48am
 
 ## ライター受付
 
@@ -134,7 +134,26 @@ No post
 
 ## 雑談
 
-### 1. 投稿全部消したん？
+### 1. Post 1
+**Author:** れいちゃん (sw_gg)
+
+わ
+
+**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+#### Comments (3)
+- **れいちゃん** (Oct 06, 2026 04:57am): まあ可哀想
+- **れいちゃん** (Oct 06, 2026 04:57am): あれくらいなら全消し無しで行けるはずなのに。
+- **九粗チンパンジー食堂2号店** (Oct 06, 2026 06:48am): 全部、俺のパソコンのスペックが悪かったせい
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 06, 2026 04:55am
+- **Updated At:** Oct 06, 2026 04:55am
+
+---
+
+### 2. 投稿全部消したん？
 **Author:** しろちゃん (syunn925)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -146,7 +165,7 @@ No post
 
 ---
 
-### 2. 久しぶりに来たけどなんか投稿少なくね？
+### 3. 久しぶりに来たけどなんか投稿少なくね？
 **Author:** ポケカの神（サブ垢） (pokekanokamisabu)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -158,7 +177,7 @@ No post
 
 ---
 
-### 3. どしたんはなしきこか
+### 4. どしたんはなしきこか
 **Author:** とりすけお (uyjyukfy)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -174,7 +193,7 @@ No post
 
 ---
 
-### 4. だいまたへんしんして
+### 5. だいまたへんしんして
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -189,7 +208,7 @@ No post
 
 ---
 
-### 5. るいせいとかひよこ懐かしい
+### 6. るいせいとかひよこ懐かしい
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -205,7 +224,7 @@ No post
 
 ---
 
-### 6. Post 6
+### 7. Post 7
 **Author:** 生きやがれ (ikiyagare)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -214,12 +233,13 @@ No post
 ![Attachment 2](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/3866745131/f3676fa574727505208b56acde484555/1000007636.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio3wVNlgSsJTKbxwWfY8p7S2m3CqNq9Xp7fepd6hCgNqKLfybwm0BV0rl78egbCb045Qnf3APPcmJXYkH4bw0pHiVDDq5mnIuR1cNEdzNgqcHt8qzDeWZy4sP0AQm8fG9uay6rCOcoYNZ-Zxy9c1IASE=)
 ![Attachment 3](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/3866745131/52956c638a11445e3d12c6d046ae79ea/1000007637.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio3wVNlgSsJTKbxwWfY8p7S0yrgUnHta5gE7lTJtFTIEl3--SKPbGBTVlprdjHp6WdPaOeVPh6dEwYBXm7oEkHO0lH9-SinbMZ8qzBp8rxzomnBhPm_OTFwEEkzDAqQZ-LqmOMoO9wdC5uet12WTXHro=)
 
-#### Comments (5)
+#### Comments (6)
 - **だいまた** (Oct 04, 2026 05:14am): Uなんたらがやったってこと？
 - **だいまた** (Oct 04, 2026 05:15am): れいがやったの！？
 - **生きやがれ** (Oct 04, 2026 05:39am): レイがこのとき重い荒らしを作っていて、この部屋のリンク載せたあとに重い荒らしで荒らされたのでおそらくレイだと思います
 - **だいまた** (Oct 04, 2026 05:53am): もうかなしい🥲
 - **だいまた** (Oct 04, 2026 05:53am): 信じてたのに
+- **れいちゃん** (Oct 06, 2026 04:56am): まぁ
 
 #### Additional Information
 - **Post color:** White
@@ -228,7 +248,7 @@ No post
 
 ---
 
-### 7. 必要最低限のセクションは作りました
+### 8. 必要最低限のセクションは作りました
 **Author:** 九粗チンパンジー食堂2号店 (uououo)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -240,7 +260,7 @@ No post
 
 ---
 
-### 8. 荒らされたので全部消えました
+### 9. 荒らされたので全部消えました
 **Author:** 九粗チンパンジー食堂2号店 (uououo)
 
 一応全消しで修復したから今は重くないけど
@@ -267,8 +287,9 @@ No post
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-#### Comments (1)
+#### Comments (2)
 - **影** (Oct 05, 2026 12:58pm): 最高やｎ
+- **れいちゃん** (Oct 06, 2026 06:03am): ごみ
 
 #### Additional Information
 - **Post color:** White
@@ -344,7 +365,7 @@ No post
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791861341&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nH3mcuEfwufOrKWcVYJd38E5FdQ%2FGOWLn5wdDi%2BmltrcRzFWInDKGzJFV0lnpIPXDvZN3j7D%2FP8PN524fqRL32c%2BmxO36ISSHaiBsbkucpQgzajktvpngMWEiYSQZq5KEks20%2FSnFtJV0rU%2BaX14r5BTatT5Rzb%2BHEtjjqZWMLGImN5gI4hqxuWKDui7talbTdn6L8jG3jn8AcgpWZLg%2B3rIR7Pq3wmNCDEB2rIxboaAZgbcXh3WhYZcplYiArmdHpcTNLX0FVpkcqRbMW28eEPIDy42hCTwELZmBQ01nESfqpGJrfiiY0ZFRsqsRLNBTYrYO6HcBCl7yBOxzDJtpQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791874501&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VwZDL%2FyYQv6QlqsOtZwnQ%2Bjy1x%2FlVmuWhmsqpiazePD%2B4yGvneZ9Ii9t0O8dm7G02pZx81OpmsFLUiGujJCk%2B5iNbZh45meLxOrBok%2BzboL3K3vbJjI1SAU0G75QOrBU6s8JYR2EWcnOsFKTvDoIOm8Q0yJL3yrWJCFZqjmPW3k3ejiHIxvQ7lkoTEmGj1kbFBngWf5g8L4xyrF53Ie768YEKhi37Mp9rBGpzB7%2FQZluIT9T6BCjIs2LsgAn3w7%2BGtyAaFHZR8OLHWoUhfMoB0rGZbWXyx5LNkzHd5ymGeNOZEANw8K1NeBbU4jb7L01YWiWHnYaEM%2Fh%2B1FOe9lUPg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Additional Information
 - **Post color:** White
@@ -390,7 +411,7 @@ No post
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791861341&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0e44KipGIO78ySjhGRZDjy39omgQzI3WMCRfqHnM68N3pWur9rXS4YEHR5gZ%2Bp3Aa8bqVi2hGsV89xKNzTsuzEqNFN360YVz4%2FK5jKH0NB0OTNbGUWJp1yFOkwSm5CVnV7oOPeZ794rDKJXRFYO2iqMBVTf37F%2BK%2FFIk9pyhzLTmmtu%2FpzqrFWMB21OUX7scS%2Boi30mMGB8NveDaJ1cmRbBeO%2Bx%2FIs2QOaFLHQf0fVOXVk7wxzU2l6bm%2FkUaNqSsbkc2jfJlDDXyiXzfdzxGLrS9fEv8RoWfb1HdwYsUWJK%2Bs%2BCPY1OsVCEH%2FBVe3piNh1YKw%2Fj0bGkoiEz60JXtzA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791874501&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jT28QCWi37n2GTl6gtHoCXqVqD0FyO050eUdfJ%2By9vJAEVd4NNJ2I4Z4lP85FQI1OmLdRNwaKKyDfDxYfdm2abBdgJqDppjQu4w5Pj0P7t7Hy2SgIS8UB6TFYjaP%2B73k8jYhdqRohZj0L2e%2B9dv2TmkM555cjs1dqu6h%2FYo5MUnvZ2n5hZme%2BrfpGwal%2FNz2z6e0%2BZVlGkTzalzSvYLHd4eOpJOn6WxYPiUyjxsbam6ls7AmIR3ZS4fZEmpzaUQgpm3LcE%2B2RwZEJe1kVej%2F%2BbuVTwjyNhv8WWEa0IJQ6X%2F1LUqekWAYiW%2FZUdW%2BYNYf7JHJ8azB%2FlDUHgQer3XhjQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Additional Information
 - **Post color:** White
@@ -427,7 +448,7 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 17 votes
+- **学校のパソコン:** 19 votes
 - **自分のスマホ:** 2 votes
 - **自分のパソコン:** 2 votes
 - **その他:** 0 votes
@@ -441,7 +462,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 06, 2026 01:24am
+- **Updated At:** Oct 06, 2026 06:31am
 
 ---
 
