@@ -1,4 +1,4 @@
-最終取得: 2026/10/03 07:51:02
+最終取得: 2026/10/06 12:14:06
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 18
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Oct 02, 2026 10:23pm
+- **Updated At:** Oct 06, 2026 02:32am
 
 ## 受付
 
@@ -79,10 +79,11 @@
 
 (´༎ຶོρ༎ຶོ\`)
 
-#### Comments (3)
+#### Comments (4)
 - **ピカチュウかわいいか（matuiriki)** (May 14, 2026 05:43am): い
 - **ピカチュウかわいいか（matuiriki)** (May 14, 2026 10:58am): おーいーおーいーおいーおいいおー
 - **ｈ** (May 18, 2026 02:16am): 時間がないんだ
+- **Anonymous** (Oct 06, 2026 02:32am): かわいそう
 
 #### Additional Information
 - **Created At:** Apr 12, 2026 10:37am
