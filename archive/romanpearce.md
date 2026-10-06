@@ -1,4 +1,4 @@
-最終取得: 2026/10/06 19:40:12
+最終取得: 2026/10/06 23:14:07
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 29
+- **Posts:** 30
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 06, 2026 10:30am
+- **Updated At:** Oct 06, 2026 12:40pm
 
 ## ライター受付
 
@@ -18,14 +18,14 @@
 
 メアドいらんよ
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (6)
 - **ポタリック** (Oct 03, 2026 10:18pm): ほしい
 - **S 1** (Oct 04, 2026 03:04am): ほしいです
 - **九粗チンパンジー食堂2号店** (Oct 04, 2026 11:45am): ↑二人OK
 - **True_043** (Oct 05, 2026 11:57am): ください
-- **すまいる** (Oct 06, 2026 07:16am): ほしいです
+- **どりーむでした‼︎** (Oct 06, 2026 07:16am): ほしいです
 - **内藤内人** (Oct 06, 2026 10:22am): ください
 
 #### Additional Information
@@ -38,7 +38,7 @@
 ### 2. 荒らし対策として受付制度に変えました
 **Author:** 九粗チンパンジー食堂2号店 (uououo)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (1)
 - **ポタリック** (Oct 03, 2026 10:22pm): ナイス
@@ -56,10 +56,22 @@ No post
 
 ## 自己紹介
 
-### 1. よろろろろろろろろろろろ
+### 1. よろ
+**Author:** かわうそ　kaitoマイクラサーバー特殊部隊　隊長 (27200037)
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 06, 2026 11:34am
+- **Updated At:** Oct 06, 2026 11:34am
+
+---
+
+### 2. よろろろろろろろろろろろ
 **Author:** い
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Additional Information
 - **Post color:** White
@@ -68,10 +80,10 @@ No post
 
 ---
 
-### 2. ぬｎ
+### 3. ぬｎ
 **Author:** 影 (dopagakisine)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Additional Information
 - **Post color:** White
@@ -80,10 +92,10 @@ No post
 
 ---
 
-### 3. よろー
+### 4. よろー
 **Author:** しろちゃん (syunn925)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Additional Information
 - **Post color:** White
@@ -92,10 +104,10 @@ No post
 
 ---
 
-### 4. だいまただよ
+### 5. だいまただよ
 **Author:** だいまた (daimatadao)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (24)
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:24am): お前今サマラン行ってんの？
@@ -132,10 +144,35 @@ No post
 
 ## 雑談
 
-### 1. れい荒らさないなら管理あげる
+### 1. フィールド強化しました
+**Author:** れいちゃん (sw_gg)
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Comments (1)
+- **だいまた** (Oct 06, 2026 12:40pm): ありがとう😊
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 06, 2026 12:15pm
+- **Updated At:** Oct 06, 2026 12:15pm
+
+---
+
+### 2. れい荒らさないなら管理あげる
 **Author:** だいまた (daimatadao)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Comments (8)
+- **れいちゃん** (Oct 06, 2026 11:17am): うーんどうしよ。。
+- **れいちゃん** (Oct 06, 2026 11:17am): ちょい待ってね
+- **れいちゃん** (Oct 06, 2026 11:18am): おけ、荒らさんこれからは
+- **だいまた** (Oct 06, 2026 11:25am): おけ
+- **だいまた** (Oct 06, 2026 11:25am): おれは信じます
+- **れいちゃん** (Oct 06, 2026 11:27am): うん
+- **れいちゃん** (Oct 06, 2026 11:27am): 流石に契約は守るよ
+- **だいまた** (Oct 06, 2026 11:28am): ありがとう
 
 #### Additional Information
 - **Post color:** White
@@ -144,12 +181,12 @@ No post
 
 ---
 
-### 2. Post 2
+### 3. Post 3
 **Author:** れいちゃん (sw_gg)
 
 わ
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (4)
 - **れいちゃん** (Oct 06, 2026 04:57am): まあ可哀想
@@ -164,10 +201,10 @@ No post
 
 ---
 
-### 3. 投稿全部消したん？
+### 4. 投稿全部消したん？
 **Author:** しろちゃん (syunn925)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Additional Information
 - **Post color:** White
@@ -176,10 +213,10 @@ No post
 
 ---
 
-### 4. 久しぶりに来たけどなんか投稿少なくね？
+### 5. 久しぶりに来たけどなんか投稿少なくね？
 **Author:** ポケカの神（サブ垢） (pokekanokamisabu)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Additional Information
 - **Post color:** White
@@ -188,10 +225,10 @@ No post
 
 ---
 
-### 5. どしたんはなしきこか
+### 6. どしたんはなしきこか
 **Author:** とりすけお (uyjyukfy)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (2)
 - **ポタリック** (Oct 04, 2026 02:09pm): 誰かが荒らしたから．．．
@@ -204,10 +241,10 @@ No post
 
 ---
 
-### 6. だいまたへんしんして
+### 7. だいまたへんしんして
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (1)
 - **だいまた** (Oct 04, 2026 07:23am): なんだよ
@@ -219,10 +256,10 @@ No post
 
 ---
 
-### 7. るいせいとかひよこ懐かしい
+### 8. るいせいとかひよこ懐かしい
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (2)
 - **だいまた** (Oct 04, 2026 05:52am): おれ潜入して荒らしたのもなつい
@@ -235,10 +272,10 @@ No post
 
 ---
 
-### 8. Post 8
+### 9. Post 9
 **Author:** 生きやがれ (ikiyagare)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 ![Attachment 1](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/3866745131/28b48e2a0abeb35cf71c022894540c1f/Screenshot_20261004_125452.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio3wVNlgSsJTKbxwWfY8p7S2QAff5GR2dYWqcAJOsZ9CHBN2K8ZFw0CWB15AfgfUGtElz-zLk9r8uwhjTMgUGd4nVXtVB56JqytvfW9VVvCeOkphfsJrkoLA01ithPLWTQzFiUuuRCPI-XtvzCKPpMUTwx7h3ag77H5pfe2v5-SA7)
 ![Attachment 2](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/3866745131/f3676fa574727505208b56acde484555/1000007636.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio3wVNlgSsJTKbxwWfY8p7S2m3CqNq9Xp7fepd6hCgNqKLfybwm0BV0rl78egbCb045Qnf3APPcmJXYkH4bw0pHiVDDq5mnIuR1cNEdzNgqcHt8qzDeWZy4sP0AQm8fG9uay6rCOcoYNZ-Zxy9c1IASE=)
@@ -259,10 +296,10 @@ No post
 
 ---
 
-### 9. 必要最低限のセクションは作りました
+### 10. 必要最低限のセクションは作りました
 **Author:** 九粗チンパンジー食堂2号店 (uououo)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Additional Information
 - **Post color:** White
@@ -271,18 +308,19 @@ No post
 
 ---
 
-### 10. 荒らされたので全部消えました
+### 11. 荒らされたので全部消えました
 **Author:** 九粗チンパンジー食堂2号店 (uououo)
 
 一応全消しで修復したから今は重くないけど
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (4)
+#### Comments (5)
 - **ハロー！** (Oct 04, 2026 05:53am): もうこの部屋は終わりただのゴミ
 - **だいまた** (Oct 04, 2026 06:30am): うお
 - **九粗チンパンジー食堂2号店** (Oct 04, 2026 08:33am): うお🐟
 - **ポタリック** (Oct 04, 2026 10:29am): うお？
+- **れいちゃん** (Oct 06, 2026 11:19am): 冷笑すんなて
 
 #### Additional Information
 - **Post color:** White
@@ -296,7 +334,7 @@ No post
 ### 1. ここ生きやがれいるのまじか
 **Author:** 影 (dopagakisine)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (2)
 - **影** (Oct 05, 2026 12:58pm): 最高やｎ
@@ -312,7 +350,7 @@ No post
 ### 2. だれかこれなんも無い理由わかる人いる？
 **Author:** だいまた (daimatadao)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (4)
 - **生きやがれ** (Oct 04, 2026 06:39am): もし、ネッコさんがパソコンを使っていて、９時間以内にこの部屋にきたのなら、コントロール+z連打で消した投稿が戻ると思います（連打の際は間隔を開けて）
@@ -332,7 +370,7 @@ No post
 
 それな
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (2)
 - **そーりー** (Oct 04, 2026 02:15am): なんやここ
@@ -350,7 +388,7 @@ No post
 ### 1. コメントの人ここで話していいよ
 **Author:** だいまた (daimatadao)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (4)
 - **九条** (Oct 05, 2026 04:13am): あ
@@ -374,15 +412,16 @@ No post
 
 直感でいいんで評価してください
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791888111&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YhHDZYlkVd06Km144UVtsGo9L8W5ppofYgO0GIxTNS%2FPs8c0F91eYr2AF%2F8F4WBfMVsE%2BP9hpI%2BTNLrZg2yETKi61Y47Upxqubc6nJdWQoUmzXFeHfurXlsp%2BtMUkCWfAGSEnZHSJYHGGeUKF9ug6I1bSjBVzY7wxtpujMy4XA4KKA%2BkCnmFexYtT3Nf3XZUGmBVwTLZJ6E7JKzfd91bpEP83yP9dgXu4aELBuTdDUOxcN9G8S%2FZceDv1Nm%2FVq46hdz28lG1HD9jUkJo3WUGqFIWmNXVQqLStMUo8G9r6iGvQb8wtWHLqQVeNlj6h19%2BEYMnufbFMduUB4RpXiOhMg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791900943&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qsBlxBGTu2uhO3I%2BjKNoio%2BmNJ%2BhwDYidfoYp1F6WEuzCawfrd37OpfXnws5eF3lGn0l1Sh5lZ0oFgmUW6EBPqE6NHGm93%2FsSPGQPO7gXeh05YKK5swUM28L4DkodgqIKSIykJovMFW0Y%2B6Lirmrmx6xy5zHrc6ziEeE226riiDlFc6RriM0LATFnX2ctVWX%2FHXCHfWpZE%2BvEUtY%2Biyz7yXJnvkTTATJAqvyuxC%2BjRlYeewWgYiIp%2FQyLZwlFoxFZGxLKQSjD3rUcMhDjrKylgqaKvUzIU%2FoYKBuSX8Vpr1te%2FKlyI66lcz3eQj3QUdSGf3fqfaam%2FHpaKaChhJbvA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
-#### Comments (1)
+#### Comments (2)
 - **える** (Oct 06, 2026 10:28am): 素晴らしい
+- **かわうそ　kaitoマイクラサーバー特殊部隊　隊長** (Oct 06, 2026 11:34am): かっこいい
 
 #### Reactions
-- **Emojis:** 👍 (2)
+- **Emojis:** 👍 (4)
 
 #### Additional Information
 - **Post color:** White
@@ -394,29 +433,12 @@ No post
 ### 2. ↓クッキークリッカーのセーブデータです　後で自分で消しますが管理かもでの人消したかったら消してください
 **Author:** とりすけお
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 05, 2026 07:02am
 - **Updated At:** Oct 05, 2026 07:02am
-
----
-
-### 3. Post 3
-**Author:** とりすけお (uyjyukfy)
-
-**Mi4wNDh8fDE3ODA5NzQ0NDI2MzY7MTc4MDk3NDQ0MjYzNjsxNzgxNDgzNjIyMDM1O+OBqOOCiuOBmeOBkeOBijtuc3N3Z3wxMTExMTExMTEwMDEwMTExMDExMTAxMTAwMDF8MTYxODgxMjY3MTcyMjY0OC41OzUyNzcwNzU0NjEwNDAxOTY7NDgxMzk7NTIzOzQ4MzEyMzU1ODI5MDQ2OC44OzY5NDswOzA7MDswOzA7MDswOzA7MDs1MjM7MDswOzA7MDswOzA7OzA7MDswOzA7MDswOzA7LTE7LTE7LTE7LTE7LTE7MDswOzA7MDsxMDA7MDswOzA7NjsxNzgxNDgzNTg0MDg5OzA7MDs7MDswOzA7MjQwNTYzODg2ODkuMjc5Mjk3OzUwO3wxNTAsMTUwLDgxOTY5NzE1MTY1MTQsMCwsMCwxNTA7MTUwLDE1MSw5NDc5MzUwODk5MjksMCwsMSwxNTA7MTIwLDEyMCw2MTE0ODMwMDI3NywyLCwwLDEyMDsxMDAsMTAwLDIwNzI4NDg2ODgzMCwwLCwxLDEwMDsxMDAsMTAwLDg2ODI4OTMxMzU1NCwwLCwxLDEwMDs3MCw3MCwxNjUxMTU1ODQ3MTI3LDEsMDoxOjE6ODU2LjE0NjQyMzk3MDA0Nzk6MTogMzM5NTo1Oi00NDoxNTU6MTMwOjA6MCE0NjQzOjE6NTM6MjMwOjA6MDowITk1MDoyOi0zNDo3MDU6MDowOjAhMTIxMToyOi0zMDo4OTg6MDowOjAhMzgwODo1OjQ1OjYyMjowOjA6MCEzNTgwOjI6LTU2OjUxMDowOjA6MCE2Mjk4OjU6LTEyOjQ4MDo0NzowOjAhNDk0MToyOi02MTozNDM6MDowOjAhOTkzMTo1Oi0yODo2NTE6MDowOjAhNzI4MjoyOi01Njo1MDM6MTE6MDowITg1MDQ6MjotNDE6OTA6MDowOjAhMjA3NDo0Oi0yMzc6MjMxOjA6MDowITEzNTA0OjE6Nzo2MzowOjE6MCExMzcyOTowOjQ6NDI5OjA6MTowITEzMDM2OjI6LTU0OjY3OTowOjE6MCExMjMzODoyOi03MDozMzM6MDoxOjAhIDEsMCw3MDs2Nyw2Nyw3NDUzNTUxNzY5Mjk2LDEsOC82LzcgMyAxNzgxMzA4MjE2MzM2IDAsMCw2Nzs2MSw2MiwxNzgzMTM1MDUyOTkwNCwxLDE3LjczODk0NDU1ODUwOTk2NyAxMjkgMTI5IDEsMCw2MTs0Nyw0NywzODAyMDQ2ODExNTQ1NSwwLCwxLDQ3OzM3LDM3LDczODk4MTgzNTE4NTUxLDAsLDEsMzc7MjUsMjUsODAwMjU2MjQ5MTc4NjYsMCwsMSwyNTsxMSwxMSwyNzM5MDA0MjY3OTAyMTcsMCwsMSwxMTsyLDIsMjA2NTMyOTg5NDY0ODUxLDAsLDEsMjsxLDEsMjg4ODY0MzIxMzMwMDEzLDAsLDEsMTswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwO3wxMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMDEwMTAxMDEwMTAwMDExMTExMTExMTExMTExMTExMTExMTExMTAwMTExMTExMTEwMDAwMDAwMDExMTExMTExMTExMTExMTExMTExMTAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMTExMTExMTAwMTExMTAwMDAwMDAwMTEwMDExMTAxMDAwMTAwMDAwMDAwMDAwMDAxMDAwMDAwMDAwMTAxMDEwMTAxMDAwMTExMTExMTEwMDAwMDAwMDAwMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMDAxMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMTExMDAwMDExMTExMTExMDAwMDExMTExMTEwMDAwMDExMTExMTAwMDAwMDEwMTAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTExMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDExMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDB8MTExMTExMTExMTAwMDAwMDExMTExMTExMTEwMDAwMTExMTExMTEwMTExMTExMTExMTExMTEwMDEwMDEwMDEwMDAwMDExMTAxMTExMTExMDAwMTAwMDAwMTAwMDAwMDAwMDAwMDExMDAxMDAwMDAwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMTEwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMDAxMTEwMDAxMTAwMDExMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAxMTAwMDAxMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMHx8%21END%21**
-
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
-
-#### Comments (1)
-- **える** (Oct 06, 2026 10:29am): ？
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Oct 05, 2026 06:59am
-- **Updated At:** Oct 05, 2026 06:59am
 
 ---
 
@@ -429,9 +451,12 @@ No post
 ### 1. Post 1
 **Author:** 村田総一郎 (r0502877)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791888111&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NFEmzGL0HrZ6VtBG56r1Af65ScKBqysj16bc%2F9P6cJ16AIZIwyLBkmQlB3CCls%2FedeIVWu9uWrkEPt%2B%2BbtM3z3fjeIvtAkBrDgjPQMCabMWtEuMdmmBB4w2PdZBMXcVSyiYe8%2Bdz%2Bf9jpK4l8EC8N4lZEHY%2BLP%2BhAGrHzQ0rJeJm3b7A2VeBKzu0v3KbcPD%2F7ULWh0bCoH2i6Xx7ckUJao9y%2BF%2BUNY9A7yr401k9HtlV6%2FG1slg21DbveJdhQv02ZGXPXl05Yi7U9vXItMg2GuA4YC2Jl5WrpzSvwNonmgPbQUXP6fMriIwKuMWND9eRDGq0JkwvSI7PLkpMbj8kgg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791900943&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=vYH15Rr9l6tmUKJRXjrRP0hMXVk5yUiljp4oz1XjCTaWFv6vvrwxVrOlmaRI9Uexpc0BgCezKt4jeHr%2F8r%2FPADA2FKorb7ndBO2UqU%2BcW3lqjR6UtMWZarD0zjRXRc4LzXM5SfbIOqM5c5UvSHpnxIGaUq6MD2P1rlBl4ACfa1jmAAd6eirktbbrk61Z8bByU8erOrEeF884yXJ%2FTk8NtI0Wj5W%2F0cUr6BpebJy9HlsmPe8uJaeU6lisvUhVcRYTvonAxf6lbx8x0wWO14J0xq82guH4i%2FWgNt9smqb5hMLJEgqvYdV2a%2BhIJ46N%2Fos9irYsHxxWyegK6NHU%2FI%2Bhmg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+
+#### Comments (1)
+- **かわうそ　kaitoマイクラサーバー特殊部隊　隊長** (Oct 06, 2026 11:34am): ?
 
 #### Additional Information
 - **Post color:** White
@@ -445,7 +470,7 @@ No post
 ### 1. 来てい
 **Author:** える (8200216)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 [Attachment 1](https://padlet.com/8200216/padlet-rqv8ghqo2peiofhd)
 
@@ -461,7 +486,7 @@ No post
 
 [https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh](https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 [Attachment 1](https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh)
 
@@ -480,7 +505,7 @@ No post
 
 今なら古参
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 [Attachment 1](https://padlet.com/gs211545/padlet-s0243wvvhzcgg7ixsbji)
 
@@ -501,22 +526,22 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 20 votes
+- **学校のパソコン:** 21 votes
 - **自分のスマホ:** 2 votes
 - **自分のパソコン:** 3 votes
 - **その他:** 1 vote
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (3)
 - **九粗チンパンジー食堂2号店** (Oct 05, 2026 10:34am): 学タブと自分のパソコンと携帯
-- **はまじちゃん** (Oct 05, 2026 01:00pm): 学タブブロックされてて使えない
+- **はまじくん** (Oct 05, 2026 01:00pm): 学タブブロックされてて使えない
 - **い** (Oct 06, 2026 08:20am): 学タブ
 
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 06, 2026 10:29am
+- **Updated At:** Oct 06, 2026 11:33am
 
 ---
 
@@ -529,11 +554,12 @@ No post
 ### 1. ここにコメントしてね
 **Author:** だいまた (daimatadao)
 
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+**͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (2)
+#### Comments (3)
 - **ポタリック** (Oct 04, 2026 02:10pm): あ
 - **ハネノハ** (Oct 05, 2026 12:10pm): プロキシサイト教えてね
+- **だいまた** (Oct 06, 2026 11:29am): なにがいい？
 
 #### Additional Information
 - **Post color:** Yellow
