@@ -1,4 +1,4 @@
-最終取得: 2026/10/07 08:19:47
+最終取得: 2026/10/07 08:45:46
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -9,7 +9,7 @@
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
 - **Posts:** 30
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 06, 2026 12:40pm
+- **Updated At:** Oct 06, 2026 11:46pm
 
 ## ライター受付
 
@@ -149,8 +149,10 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (1)
+#### Comments (3)
 - **だいまた** (Oct 06, 2026 12:40pm): ありがとう😊
+- **れいちゃん** (Oct 06, 2026 11:46pm): うん
+- **れいちゃん** (Oct 06, 2026 11:46pm): 0幅にしないとね
 
 #### Additional Information
 - **Post color:** White
@@ -414,7 +416,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791933669&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QnxDcaw24MFWNKJ%2F9OdU%2FEqZKxhU5ug62Suyo428npTo44Y2NnYZxfkPeiAw1j25InjTqlgguj77FcaDYB7dnBlKa%2BfWN%2BkQkkgpgxRtxi5REimnmQoPA8PWyy7MrAR1oiqXNJQqWzzNn18TGgb39ggzOkdRLEZSr6H6Mw6f38cRQheLY9R%2FtDtqrsOe8DrJRd0Gvgqul4AlfceI3T0o65dPL69bEGBa6dQJUDLCqLqMfwtRCEAGHd%2F0zuMMMwus4GesU6FHwQoehu%2BiRXskTygRMskVCcrellMIgWt5E8LBiawKVb6rI1c32p9sy5%2FsX3ygfsc0uNUqPqwiq2vjXw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791935231&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4HNIQsvN8AOI9Fdb7KbEL1qDC5TvhQaJUG2eTBp3ljMvcnGLxQywzd6JH8LuyGjPCxHdcz6H3seZ1hAwRY4awmEWWa7Owz6EEBoFBjB4qT%2Bl%2Bv57FIMBD%2BsBC9aCUQRSTgyCqStOFBSG%2Fkt4V1Ur%2Bi9iXztJbbU0Rel8e9sCAMX6zpMfHpeAZahrgmawvXD1%2BLVK%2BVboWHKck8khDuptxVV%2BEd5IY6Ct1MvfE5FvCwVswEDUh0rBZQvC8OqTDs8jdpvxL9J8qC21NIe260ueZ4IZMM1bqudjynvcBdOIQ1XJGfFXKvt37saLHKA0U1wDT7E024VGlUyilpIGjLNrsg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Comments (2)
 - **える** (Oct 06, 2026 10:28am): 素晴らしい
@@ -453,7 +455,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791933669&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rHKCpR2hhRMD1ZDsTWMA4hCxDnkh2iDE1z58vnlrKQ3GBAc8NB%2FR3DRvt1jkKk%2BrYc%2BEFTssCgdTDovdr5oOI2ZYgexqq1mFPJcqHw01jNbGtGuECbtnkr2efeEuSaT9lax0Cvum3vSbqoAqcxe1vvkzALbyuQZ27FXmTOy71kMe6U5msnAfXClJoc3HGAIxVpC2R8Q54ZXRD1OdhERzUPCZUtN5Y3jq2wLbYQT1AzS7sOejjyihmurCoDPNfS8Qcb7C%2BDwn1aZtX2QIVrNVJk8GREVnAZTBWyOjgtW5UzjLeM5wfNwTCdxCAFXiaJJc8tnP6aqyNPS%2Fp6VonxeKgA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791935232&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4oHrUrtPI5AA6gcAkFu%2BoL4vbz4FFDQYOUDMBQ13nAzbu9BNB946tDTP333qI2vjcFiV3SMxh9dLSgc%2BOycD9Xjityg50o92g4q1rPgRj9flY7iUwEaiTmw2Sy3Cu5jo0UJJnNmExMU43OBb2%2FgM2A1IzNyuFi40xnX0eZ0ITESglBFvAf7ZNNzO4cw0d%2F3ap3F3IaoC48gI2%2FX%2BjV5nsWMjJbs7SJvV4L%2B8jSxOPiv7QwjW%2FOVcEj64qCz6zCd2gwgSBAie%2FTdSdey3M%2B610kwYvUVdoIQX6E6Kh7PkTtCHaG6sFjJrQ4PU%2BRE%2FsfeJfs202yA3CUKBXFzSMsrfWg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (1)
 - **かわうそ　kaitoマイクラサーバー特殊部隊　隊長** (Oct 06, 2026 11:34am): ?
