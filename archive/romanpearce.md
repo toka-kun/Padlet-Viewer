@@ -1,4 +1,4 @@
-最終取得: 2026/10/06 16:30:30
+最終取得: 2026/10/06 19:40:12
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 26
+- **Posts:** 29
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 06, 2026 07:16am
+- **Updated At:** Oct 06, 2026 10:30am
 
 ## ライター受付
 
@@ -20,12 +20,13 @@
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-#### Comments (5)
+#### Comments (6)
 - **ポタリック** (Oct 03, 2026 10:18pm): ほしい
 - **S 1** (Oct 04, 2026 03:04am): ほしいです
 - **九粗チンパンジー食堂2号店** (Oct 04, 2026 11:45am): ↑二人OK
 - **True_043** (Oct 05, 2026 11:57am): ください
 - **すまいる** (Oct 06, 2026 07:16am): ほしいです
+- **内藤内人** (Oct 06, 2026 10:22am): ください
 
 #### Additional Information
 - **Post color:** Red
@@ -34,23 +35,7 @@
 
 ---
 
-### 2. ここよろしく！
-**Author:** True_043 (r0404449)
-
-[https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh](https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh)
-
-**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
-
-[Attachment 1](https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Oct 05, 2026 11:57am
-- **Updated At:** Oct 05, 2026 11:57am
-
----
-
-### 3. 荒らし対策として受付制度に変えました
+### 2. 荒らし対策として受付制度に変えました
 **Author:** 九粗チンパンジー食堂2号店 (uououo)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -71,7 +56,19 @@ No post
 
 ## 自己紹介
 
-### 1. ぬｎ
+### 1. よろろろろろろろろろろろ
+**Author:** い
+
+**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 06, 2026 08:20am
+- **Updated At:** Oct 06, 2026 08:20am
+
+---
+
+### 2. ぬｎ
 **Author:** 影 (dopagakisine)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -83,7 +80,7 @@ No post
 
 ---
 
-### 2. よろー
+### 3. よろー
 **Author:** しろちゃん (syunn925)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -95,7 +92,7 @@ No post
 
 ---
 
-### 3. だいまただよ
+### 4. だいまただよ
 **Author:** だいまた (daimatadao)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -135,17 +132,30 @@ No post
 
 ## 雑談
 
-### 1. Post 1
+### 1. れい荒らさないなら管理あげる
+**Author:** だいまた (daimatadao)
+
+**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 06, 2026 10:14am
+- **Updated At:** Oct 06, 2026 10:14am
+
+---
+
+### 2. Post 2
 **Author:** れいちゃん (sw_gg)
 
 わ
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-#### Comments (3)
+#### Comments (4)
 - **れいちゃん** (Oct 06, 2026 04:57am): まあ可哀想
 - **れいちゃん** (Oct 06, 2026 04:57am): あれくらいなら全消し無しで行けるはずなのに。
 - **九粗チンパンジー食堂2号店** (Oct 06, 2026 06:48am): 全部、俺のパソコンのスペックが悪かったせい
+- **れいちゃん** (Oct 06, 2026 08:26am): まあ、しょうがない
 
 #### Additional Information
 - **Post color:** White
@@ -154,7 +164,7 @@ No post
 
 ---
 
-### 2. 投稿全部消したん？
+### 3. 投稿全部消したん？
 **Author:** しろちゃん (syunn925)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -166,7 +176,7 @@ No post
 
 ---
 
-### 3. 久しぶりに来たけどなんか投稿少なくね？
+### 4. 久しぶりに来たけどなんか投稿少なくね？
 **Author:** ポケカの神（サブ垢） (pokekanokamisabu)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -178,7 +188,7 @@ No post
 
 ---
 
-### 4. どしたんはなしきこか
+### 5. どしたんはなしきこか
 **Author:** とりすけお (uyjyukfy)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -194,7 +204,7 @@ No post
 
 ---
 
-### 5. だいまたへんしんして
+### 6. だいまたへんしんして
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -209,7 +219,7 @@ No post
 
 ---
 
-### 6. るいせいとかひよこ懐かしい
+### 7. るいせいとかひよこ懐かしい
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -225,7 +235,7 @@ No post
 
 ---
 
-### 7. Post 7
+### 8. Post 8
 **Author:** 生きやがれ (ikiyagare)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -249,7 +259,7 @@ No post
 
 ---
 
-### 8. 必要最低限のセクションは作りました
+### 9. 必要最低限のセクションは作りました
 **Author:** 九粗チンパンジー食堂2号店 (uououo)
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
@@ -261,7 +271,7 @@ No post
 
 ---
 
-### 9. 荒らされたので全部消えました
+### 10. 荒らされたので全部消えました
 **Author:** 九粗チンパンジー食堂2号店 (uououo)
 
 一応全消しで修復したから今は重くないけど
@@ -366,7 +376,13 @@ No post
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791876727&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ySXDRKdpH%2BnugYlSy2UwNmluaqQVnSjwhXnDTgAbn%2FdngoAmoIB8HIrLx9bZYzX2XqI8QbkC5j4Qy8G3rc706B1QMe92IbbD12mXRDHIMSxlatY1i30S6HTWifkk8ovNXoutxNDCdp3B2F9XoDY5qUaHBACTKM88L9Kbn3Fz%2FNgw2Y8V%2F%2FbsErGrzUg0h%2Fy4sXvat4WiJmRPxVhCFRS8Wvvqcp7dV1boZtV1imoaH8HQRpZMFNr5XqJ9wq0A2FKT9v7Wp40QNYIddP%2B5uYBrcE5ke3DT2XmcR%2B1%2FhaRRUcKHZC4%2BABCG7A54i3EzmJ%2FGfr4x46m7oPn2bvp0XYydFg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791888111&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YhHDZYlkVd06Km144UVtsGo9L8W5ppofYgO0GIxTNS%2FPs8c0F91eYr2AF%2F8F4WBfMVsE%2BP9hpI%2BTNLrZg2yETKi61Y47Upxqubc6nJdWQoUmzXFeHfurXlsp%2BtMUkCWfAGSEnZHSJYHGGeUKF9ug6I1bSjBVzY7wxtpujMy4XA4KKA%2BkCnmFexYtT3Nf3XZUGmBVwTLZJ6E7JKzfd91bpEP83yP9dgXu4aELBuTdDUOxcN9G8S%2FZceDv1Nm%2FVq46hdz28lG1HD9jUkJo3WUGqFIWmNXVQqLStMUo8G9r6iGvQb8wtWHLqQVeNlj6h19%2BEYMnufbFMduUB4RpXiOhMg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+
+#### Comments (1)
+- **える** (Oct 06, 2026 10:28am): 素晴らしい
+
+#### Reactions
+- **Emojis:** 👍 (2)
 
 #### Additional Information
 - **Post color:** White
@@ -394,6 +410,9 @@ No post
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
+#### Comments (1)
+- **える** (Oct 06, 2026 10:29am): ？
+
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 05, 2026 06:59am
@@ -412,7 +431,7 @@ No post
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791876727&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hJOi2S%2FxluenN0FXHR%2FC2TdcU540rC%2BET2N%2F9JQx8%2B0qQZjoXMCkWYig1q571qWyYlVxP%2FasC%2FK%2B2FA1H2eaC6hsl8DA%2FeFh%2FM0wr6d7r9PGA6PjeEvTw1PCqi9FWxxigrTIpoFFemUuGx6QMmJ%2FOUGSgJW%2FpgZeZ5Fe0KGzM%2FVcPhC4dOnfeRTzzJCOhg7f2aVsmtIs1LbolsbrZW%2BatTq%2Bp4RH6Jm1k4REkSf1vXxBuQCxt59YwaMrQrdHRvOyi3dVRq%2Fq29Q9SuXhJnftiKgrxJFJMjmzF7aaTO0kL%2BXyUTLbAnNl%2By38qtOi%2BBoRItlAfNnSIpXjnFuIdh0sBg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791888111&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NFEmzGL0HrZ6VtBG56r1Af65ScKBqysj16bc%2F9P6cJ16AIZIwyLBkmQlB3CCls%2FedeIVWu9uWrkEPt%2B%2BbtM3z3fjeIvtAkBrDgjPQMCabMWtEuMdmmBB4w2PdZBMXcVSyiYe8%2Bdz%2Bf9jpK4l8EC8N4lZEHY%2BLP%2BhAGrHzQ0rJeJm3b7A2VeBKzu0v3KbcPD%2F7ULWh0bCoH2i6Xx7ckUJao9y%2BF%2BUNY9A7yr401k9HtlV6%2FG1slg21DbveJdhQv02ZGXPXl05Yi7U9vXItMg2GuA4YC2Jl5WrpzSvwNonmgPbQUXP6fMriIwKuMWND9eRDGq0JkwvSI7PLkpMbj8kgg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Additional Information
 - **Post color:** White
@@ -423,7 +442,40 @@ No post
 
 ## 宣伝
 
-### 1. きてー
+### 1. 来てい
+**Author:** える (8200216)
+
+**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+[Attachment 1](https://padlet.com/8200216/padlet-rqv8ghqo2peiofhd)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 06, 2026 10:30am
+- **Updated At:** Oct 06, 2026 10:30am
+
+---
+
+### 2. ここよろしく！
+**Author:** True_043 (True_043)
+
+[https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh](https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh)
+
+**ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
+
+[Attachment 1](https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh)
+
+#### Comments (1)
+- **だいまた** (Oct 06, 2026 10:13am): はよしね
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 05, 2026 11:57am
+- **Updated At:** Oct 06, 2026 10:13am
+
+---
+
+### 3. きてー
 **Author:** ぼんじゅーるだどーもです (gs211545)
 
 今なら古参
@@ -449,21 +501,22 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 19 votes
+- **学校のパソコン:** 20 votes
 - **自分のスマホ:** 2 votes
-- **自分のパソコン:** 2 votes
-- **その他:** 0 votes
+- **自分のパソコン:** 3 votes
+- **その他:** 1 vote
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-#### Comments (2)
+#### Comments (3)
 - **九粗チンパンジー食堂2号店** (Oct 05, 2026 10:34am): 学タブと自分のパソコンと携帯
 - **はまじちゃん** (Oct 05, 2026 01:00pm): 学タブブロックされてて使えない
+- **い** (Oct 06, 2026 08:20am): 学タブ
 
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 06, 2026 06:31am
+- **Updated At:** Oct 06, 2026 10:29am
 
 ---
 
@@ -488,3 +541,7 @@ No post
 - **Updated At:** Oct 04, 2026 12:25pm
 
 ---
+
+## 過疎防止セクション
+
+No post
