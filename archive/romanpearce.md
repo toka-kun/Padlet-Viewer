@@ -1,4 +1,4 @@
-最終取得: 2026/10/06 15:53:20
+最終取得: 2026/10/06 16:30:30
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -9,7 +9,7 @@
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
 - **Posts:** 26
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 06, 2026 06:48am
+- **Updated At:** Oct 06, 2026 07:16am
 
 ## ライター受付
 
@@ -20,11 +20,12 @@
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-#### Comments (4)
+#### Comments (5)
 - **ポタリック** (Oct 03, 2026 10:18pm): ほしい
 - **S 1** (Oct 04, 2026 03:04am): ほしいです
 - **九粗チンパンジー食堂2号店** (Oct 04, 2026 11:45am): ↑二人OK
 - **True_043** (Oct 05, 2026 11:57am): ください
+- **すまいる** (Oct 06, 2026 07:16am): ほしいです
 
 #### Additional Information
 - **Post color:** Red
@@ -365,7 +366,7 @@ No post
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791874501&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VwZDL%2FyYQv6QlqsOtZwnQ%2Bjy1x%2FlVmuWhmsqpiazePD%2B4yGvneZ9Ii9t0O8dm7G02pZx81OpmsFLUiGujJCk%2B5iNbZh45meLxOrBok%2BzboL3K3vbJjI1SAU0G75QOrBU6s8JYR2EWcnOsFKTvDoIOm8Q0yJL3yrWJCFZqjmPW3k3ejiHIxvQ7lkoTEmGj1kbFBngWf5g8L4xyrF53Ie768YEKhi37Mp9rBGpzB7%2FQZluIT9T6BCjIs2LsgAn3w7%2BGtyAaFHZR8OLHWoUhfMoB0rGZbWXyx5LNkzHd5ymGeNOZEANw8K1NeBbU4jb7L01YWiWHnYaEM%2Fh%2B1FOe9lUPg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791876727&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ySXDRKdpH%2BnugYlSy2UwNmluaqQVnSjwhXnDTgAbn%2FdngoAmoIB8HIrLx9bZYzX2XqI8QbkC5j4Qy8G3rc706B1QMe92IbbD12mXRDHIMSxlatY1i30S6HTWifkk8ovNXoutxNDCdp3B2F9XoDY5qUaHBACTKM88L9Kbn3Fz%2FNgw2Y8V%2F%2FbsErGrzUg0h%2Fy4sXvat4WiJmRPxVhCFRS8Wvvqcp7dV1boZtV1imoaH8HQRpZMFNr5XqJ9wq0A2FKT9v7Wp40QNYIddP%2B5uYBrcE5ke3DT2XmcR%2B1%2FhaRRUcKHZC4%2BABCG7A54i3EzmJ%2FGfr4x46m7oPn2bvp0XYydFg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Additional Information
 - **Post color:** White
@@ -411,7 +412,7 @@ No post
 
 **ㅤㅤㅤㅤㅤ:** ㅤㅤㅤㅤㅤ
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791874501&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jT28QCWi37n2GTl6gtHoCXqVqD0FyO050eUdfJ%2By9vJAEVd4NNJ2I4Z4lP85FQI1OmLdRNwaKKyDfDxYfdm2abBdgJqDppjQu4w5Pj0P7t7Hy2SgIS8UB6TFYjaP%2B73k8jYhdqRohZj0L2e%2B9dv2TmkM555cjs1dqu6h%2FYo5MUnvZ2n5hZme%2BrfpGwal%2FNz2z6e0%2BZVlGkTzalzSvYLHd4eOpJOn6WxYPiUyjxsbam6ls7AmIR3ZS4fZEmpzaUQgpm3LcE%2B2RwZEJe1kVej%2F%2BbuVTwjyNhv8WWEa0IJQ6X%2F1LUqekWAYiW%2FZUdW%2BYNYf7JHJ8azB%2FlDUHgQer3XhjQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791876727&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hJOi2S%2FxluenN0FXHR%2FC2TdcU540rC%2BET2N%2F9JQx8%2B0qQZjoXMCkWYig1q571qWyYlVxP%2FasC%2FK%2B2FA1H2eaC6hsl8DA%2FeFh%2FM0wr6d7r9PGA6PjeEvTw1PCqi9FWxxigrTIpoFFemUuGx6QMmJ%2FOUGSgJW%2FpgZeZ5Fe0KGzM%2FVcPhC4dOnfeRTzzJCOhg7f2aVsmtIs1LbolsbrZW%2BatTq%2Bp4RH6Jm1k4REkSf1vXxBuQCxt59YwaMrQrdHRvOyi3dVRq%2Fq29Q9SuXhJnftiKgrxJFJMjmzF7aaTO0kL%2BXyUTLbAnNl%2By38qtOi%2BBoRItlAfNnSIpXjnFuIdh0sBg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Additional Information
 - **Post color:** White
