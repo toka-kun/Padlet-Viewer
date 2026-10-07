@@ -1,4 +1,4 @@
-最終取得: 2026/10/07 22:14:25
+最終取得: 2026/10/08 00:20:33
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -9,7 +9,7 @@
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
 - **Posts:** 35
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 07, 2026 12:31pm
+- **Updated At:** Oct 07, 2026 02:31pm
 
 ## ライター受付
 
@@ -57,7 +57,7 @@ No post
 ## 自己紹介
 
 ### 1. よろ
-**Author:** かわうそ　kaitoマイクラサーバー特殊部隊　隊長 (27200037)
+**Author:** かわうそkaitoプロキシー特殊探偵　初心者 (27200037)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -153,9 +153,13 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (2)
+#### Comments (6)
 - **影** (Oct 07, 2026 12:15pm): それはマジでそう
 - **影** (Oct 07, 2026 12:15pm): 一瞬で荒らされるからね
+- **れいちゃん** (Oct 07, 2026 01:23pm): 俺の部屋笑える
+- **だいまた** (Oct 07, 2026 01:33pm): ローマンがやったとおもう
+- **ローマンピアースのスマホ垢本物** (Oct 07, 2026 01:34pm): してないっすね
+- **れいちゃん** (Oct 07, 2026 02:31pm): くさ
 
 #### Additional Information
 - **Post color:** White
@@ -370,8 +374,10 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (1)
+#### Comments (3)
 - **おじゃる丸** (Oct 07, 2026 11:47am): あ、僕ね
+- **だいまた** (Oct 07, 2026 01:32pm): かんりもどしとく
+- **だいまた** (Oct 07, 2026 01:33pm): メアドください
 
 #### Additional Information
 - **Post color:** White
@@ -476,11 +482,11 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791983765&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=s2TAajqK86aCajQ0tCo4oqrvV%2BQ%2FZKFcSiGXvjOq0HZ4HbJIZU3D%2BApK3pHNGJxxeeorV2mkK6CoOifaSwoEvimQZveJbcag8EW0AwqB3dUHXiNW4%2FmN5fL5N4W76fxN9g%2FNkNJkVNZa81BeC8FC8VLRF05dKnPOZleY8IYfR8q0%2BK4paNZDQc7KEiA8K1WzXUX4PFBqRv9cnmtJSG1OXkwh9YZumq9N6lAjPETKuXvbHk7Uud26mepRqWEI4%2BL%2BypHF3A9VO1kfn%2Fr3DdPU4SpXWa57j%2BWbJAfgY6j1yeCwQ1EwKmbK1gMZpoTaxdoSBep3wtPouQ1iIB7oa5xMfA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791991331&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=y1XHGbvuYy1Sk3nQmfljVVRhqscTIunnB2n7t23vMzusa5T9OOWhCE4vkyrNo%2FPpudkxBeoCTVmX8RLa85FrJuajABzR9M2gfzCvWHycTr4CkGGCUKJiShmI2MMiAOhA1rpHyfF5gLVVrMnjoJvwI9cD5b0pAxyyl%2BOd5RmOcw3xvS9pSdxbjRCwcvCwwim8gwIrCY4jH%2FOsx8J4BGq73MizZBrpjJCFoQj%2B0JXe6NmHUfKVANq2ukG6tt57NRQeI3e%2B9dfqf8k10VMoU%2FH6ZZtEDLeKOo4kBpcie%2B1CCn7CbDSarl%2FlUc0A0v4XwNK87jPVELKeIL6euG1lkWNADg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Comments (2)
 - **える** (Oct 06, 2026 10:28am): 素晴らしい
-- **かわうそ　kaitoマイクラサーバー特殊部隊　隊長** (Oct 06, 2026 11:34am): かっこいい
+- **かわうそkaitoプロキシー特殊探偵　初心者** (Oct 06, 2026 11:34am): かっこいい
 
 #### Reactions
 - **Emojis:** 👍 (4)
@@ -515,10 +521,10 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791983765&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GMD6y5foE4fVbJb%2Bt5K5bGzcwQ5BB8jkDqBFrRjq4r%2B%2F8pTQrYCFnA%2F7XCZ6vvtwKg0aTihRyS%2FCEHyNslEhoFpOlRZpaxOSrvhueJDma7nmf2iS9o0zHDyWf9%2BV3M6BhkD08a4j5YQ46tmGMtXgNvAjPi3dx8Xdt2yfVLMlX7qUiF%2BqXNBvaUsUB3NCUyrrzmBSfHgxsHLibbxay2S5H8tfxx1oeJ4VI65gjSn52ytaac4WEH8YHWO3vfE4c5MUCvBIj7LNj6de5GA%2BEeoIm0oLZ%2FEk5xh20USSLpJt3hxxpTLoW4XXfBwNkEBVr8edv5NMfwxjA5pBTC%2BfGnEY2w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791991331&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TNy9SSxVZ%2BZq7xAHdx%2BxSds1jNFOY2sng20G1kczShOUgCKWFBk7XJrN97DZsmidLZwP4UM50um0ho2Z1GOYfq7zoSe22wX0voMGQw4mei8bQ3%2BUoQowMfmC41EyoD3JEQWH8YYBre31Q4xeKHN5uPViBwPjaGIceCRxMM1vFmczTTu8UR7OOZRFQljyauY3psHWtLA8mzRDrf0pCYNh%2BHEWlNNjgKpYuZGaeTWhiAvEztxonY0JNneffUAoJMajxqFizLuTnQdPDyCyEf31%2Foaw8u7VGIakvp4GTI7FarvujzO%2FVkmdhgJ6fe5%2Fg8DnnSe52A3BkXlaGBG5wFdk6g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (1)
-- **かわうそ　kaitoマイクラサーバー特殊部隊　隊長** (Oct 06, 2026 11:34am): ?
+- **かわうそkaitoプロキシー特殊探偵　初心者** (Oct 06, 2026 11:34am): ?
 
 #### Additional Information
 - **Post color:** White
@@ -588,7 +594,7 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 30 votes
+- **学校のパソコン:** 31 votes
 - **自分のスマホ:** 2 votes
 - **自分のパソコン:** 3 votes
 - **その他:** 1 vote
@@ -603,7 +609,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 07, 2026 11:46am
+- **Updated At:** Oct 07, 2026 01:51pm
 
 ---
 
