@@ -1,4 +1,4 @@
-最終取得: 2026/10/07 14:50:43
+最終取得: 2026/10/07 16:36:24
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -429,7 +429,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791957144&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rZveGBtyRcd%2BPDZjm%2FxCjDaRtcU%2BhUbEPYBLxgouTHid1CULt55Z%2BBRr5UkBzeNd6oh4nmjJGe1Ur5N1juonLkU90VkdGbQiedHJGpuE3z9vQsNzd3Z4UvODbfiSNUaxzDUH2rGQ91jJGfwm0Gn2OoeoAO9AqxtbWytg0kZNSaHWSCxC%2FytUxzXb9I1tKRLd4uLBRvOFk5%2Fj89lrokuJxLzxUwG1YXbW%2BzyGFK8K5wgP5u7ep8%2FgJc%2BDm5%2B%2FoiISgJke4MBxTVnElQLOiHOYiwjbs2O9m0fte%2BxLtU0sUBVfLOaGmbIz2ciWF9tuq7hpBW8RupYSxAtwxNguIV1Mxg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791963481&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wqzwqkJdP5f4FXdz3Bv6tSIwsfyZ8kDe92BWKy7StWJbwC%2BKCjm8nq27fWkah%2FLNpilpwcclm4wsXYshhqQCdy3OEE2FEYblaILoTgl9PHgrORlR4OQgCRijl17YBwqXBkCjjryLfixOsrZReBuWzGltT%2BHzmmKLooCoLLDM9Ve%2FXZv5Ttge2Oj40ztLMoix4n%2B8uYJPyeg7fqdI39vWqWMGazxFlgw8Sr1NpGMCtqo03Dhaj%2F%2BBMYrUd%2FtHtBKss3XeWBucixuAK1FhB%2FeqbQDJ6o7jiqUq%2FmbQwcULDIgf4cBjSqFNuxW9Lr2j920hsE9il1HZmJk9bD5XQLotmg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Comments (2)
 - **える** (Oct 06, 2026 10:28am): 素晴らしい
@@ -468,7 +468,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791957144&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qjLAheJ3Mt6ebjjF06fdRdhxZJ9wJvr85x78GbMetbvmct%2BDzmqPEZeGj2baEaiRtH6AHB3PWE74i7GIryqqwYPqzOqrLtltSWN%2ByQ9vX9SYZQeYsxA0T0JRWZ3dQ1ezacS3uYcvZW1Actxl8tzn8H2nkFKdKzv2rxRPbTYqypi1aYlIWP1JtYRv81Ouu%2BAhnD0QqrbDzmYVJiUv8KiEgRhIHmDPkorW%2BJyeHGVlCa3IuJ2UMqrAsts%2BOCB7pP65MVm8VZpte3X7kE%2F%2FfQZ%2B5p9YdTbsEHE%2BGwmaTRRevAgt%2BLKe6a7iANI%2FOlC2tPjXAAM%2BNGXpj1umMcxrvQDH7w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791963481&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6gThIKpcYKcvVbb5GM%2FyBEg4nmHKw%2Bf%2Brj%2BYnM7hqXnuWVkYgqaRvIGKLEdhiRdjHHMboTCKJYgY0n748N7pp%2F8R1YJ9veA%2B8GQo5WRxZbW5QcbJ1%2FAdGg88Q%2BDN3oh0d7YI%2F9S%2B3TR3ujM4H5usS%2FVINCIolnqDj6VGLbdzODJzQGNr1WXaI5x8Uy7OnkkU57CcTw7IPl4h5APslRDl2%2B2hXQXwDwxiIeDeq%2Bl7%2FqZ3qcNmQeWR3p9qaZQ%2F%2BzuwMAvDg0Ig3wTIiWSQa76TIKUth78Y406S%2BexrULvnx1M82TkUPnSh43xfGPMHjquLlnBVrYSVzmDRFxVuMrKDHQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (1)
 - **かわうそ　kaitoマイクラサーバー特殊部隊　隊長** (Oct 06, 2026 11:34am): ?
@@ -541,7 +541,7 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 25 votes
+- **学校のパソコン:** 26 votes
 - **自分のスマホ:** 2 votes
 - **自分のパソコン:** 3 votes
 - **その他:** 1 vote
@@ -556,7 +556,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 07, 2026 02:37am
+- **Updated At:** Oct 07, 2026 06:58am
 
 ---
 
