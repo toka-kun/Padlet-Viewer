@@ -1,4 +1,4 @@
-最終取得: 2026/10/07 08:45:46
+最終取得: 2026/10/07 10:16:38
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -9,7 +9,7 @@
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
 - **Posts:** 30
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 06, 2026 11:46pm
+- **Updated At:** Oct 07, 2026 12:12am
 
 ## ライター受付
 
@@ -109,7 +109,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (24)
+#### Comments (25)
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:24am): お前今サマラン行ってんの？
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:24am): 今日祭り行かね？
 - **だいまた** (Oct 04, 2026 03:24am): 今日じゃない
@@ -134,6 +134,7 @@ No post
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:29am): しらん
 - **ポタリック** (Oct 04, 2026 02:13pm): 多分ねっこ？
 - **ポタリック** (Oct 04, 2026 02:14pm): 知らんけど😕
+- **ひな** (Oct 07, 2026 12:12am): kahooとyoutubeのやつできなくなってたんですけど！！(-_-;)
 
 #### Additional Information
 - **Post color:** White
@@ -416,7 +417,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791935231&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4HNIQsvN8AOI9Fdb7KbEL1qDC5TvhQaJUG2eTBp3ljMvcnGLxQywzd6JH8LuyGjPCxHdcz6H3seZ1hAwRY4awmEWWa7Owz6EEBoFBjB4qT%2Bl%2Bv57FIMBD%2BsBC9aCUQRSTgyCqStOFBSG%2Fkt4V1Ur%2Bi9iXztJbbU0Rel8e9sCAMX6zpMfHpeAZahrgmawvXD1%2BLVK%2BVboWHKck8khDuptxVV%2BEd5IY6Ct1MvfE5FvCwVswEDUh0rBZQvC8OqTDs8jdpvxL9J8qC21NIe260ueZ4IZMM1bqudjynvcBdOIQ1XJGfFXKvt37saLHKA0U1wDT7E024VGlUyilpIGjLNrsg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791940691&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=eBdA%2FYcGc2OsfHDcO5wmeP5JWkERsdgzjdki3sbpA4Vl8tb6leQ7Nc1XTNDpkOV8uLVSOC43gw9EtL%2Fd%2FbxoaJQJHoMW0%2Bo3M6D4cye%2FRY0MHoEKeg2miRjpLyPgQq0fiQ7zhqaRFOa4m%2FhxvijVlkR5uH00OMQF9T65K9mAX3OOdl8zwihOdeC%2FsbqbBYIszvCoMMF6O2%2BgBIgGOYFk2pRPhFiLJwZMbt8%2ByjfrE%2FSy%2FkzUlzA1Uh4%2B0ed1CxANElRwUdxftSLlYznV2cB5fVzDjnYmioO58f%2FuQoMNlg80JXUmn0xfDnflvYdBUiKy4R7x3Ozg%2F0atEA9HimUBtg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Comments (2)
 - **える** (Oct 06, 2026 10:28am): 素晴らしい
@@ -455,7 +456,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791935232&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4oHrUrtPI5AA6gcAkFu%2BoL4vbz4FFDQYOUDMBQ13nAzbu9BNB946tDTP333qI2vjcFiV3SMxh9dLSgc%2BOycD9Xjityg50o92g4q1rPgRj9flY7iUwEaiTmw2Sy3Cu5jo0UJJnNmExMU43OBb2%2FgM2A1IzNyuFi40xnX0eZ0ITESglBFvAf7ZNNzO4cw0d%2F3ap3F3IaoC48gI2%2FX%2BjV5nsWMjJbs7SJvV4L%2B8jSxOPiv7QwjW%2FOVcEj64qCz6zCd2gwgSBAie%2FTdSdey3M%2B610kwYvUVdoIQX6E6Kh7PkTtCHaG6sFjJrQ4PU%2BRE%2FsfeJfs202yA3CUKBXFzSMsrfWg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791940691&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6p%2FohdIwaCe5clRMJ3sSlcsf682h6BynM3%2B3p6EEU0DRMjfoEDCQIcRYMKsmEZwvOShYvl4Rjdjn7xMOW7qWWaOkD6FQhuS7wCKO7QNDt1SM6yqM7vwb%2FDB6W8LHIeJPwPY1hpxsoMNFGYvjdk1BGjSrBjQclTdYGs1JUwHmcWye9OhxmxDxKMdQtkidFIvOEtj7ZTroH%2F71%2BabON2Z3zfkpqu0mNsywgKEUGFVmNRZq19v%2B%2F54VELam5OJwO9qFtJxDtAzXtYOR5Az7Ewb73MeK9kaLruHhmbdG14zjxNhTkA6QwmMe1QdD3unhtZtSnL6c57OnJh8vSh5amm0taw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (1)
 - **かわうそ　kaitoマイクラサーバー特殊部隊　隊長** (Oct 06, 2026 11:34am): ?
@@ -528,7 +529,7 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 21 votes
+- **学校のパソコン:** 24 votes
 - **自分のスマホ:** 2 votes
 - **自分のパソコン:** 3 votes
 - **その他:** 1 vote
@@ -543,7 +544,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 06, 2026 11:33am
+- **Updated At:** Oct 07, 2026 12:34am
 
 ---
 
