@@ -1,4 +1,4 @@
-最終取得: 2026/10/07 11:28:37
+最終取得: 2026/10/07 14:50:43
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 30
+- **Posts:** 31
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 07, 2026 12:12am
+- **Updated At:** Oct 07, 2026 03:11am
 
 ## ライター受付
 
@@ -334,7 +334,19 @@ No post
 
 ## 雑談
 
-### 1. ここ生きやがれいるのまじか
+### 1. Post 1
+**Author:** あっぷるのかみ (Apple_got)
+
+**͏‍⁠⁠:** あ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 07, 2026 03:11am
+- **Updated At:** Oct 07, 2026 03:11am
+
+---
+
+### 2. ここ生きやがれいるのまじか
 **Author:** 影 (dopagakisine)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -350,7 +362,7 @@ No post
 
 ---
 
-### 2. だれかこれなんも無い理由わかる人いる？
+### 3. だれかこれなんも無い理由わかる人いる？
 **Author:** だいまた (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -368,7 +380,7 @@ No post
 
 ---
 
-### 3. オワコンになったの悲しすぎる
+### 4. オワコンになったの悲しすぎる
 **Author:** Союз Советских Социалистических Республик (2014800_2)
 
 それな
@@ -417,7 +429,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791945016&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=eBuY3vwz0ha0YaZe7pmMErYEkUzDTa89PgJbQ%2FJZpk%2FlIvjJGWV%2FpsAB33XHuOHXewpT%2B4tl%2B%2F4lWB%2FImNbvnnsd6J3VBFCcdbvp0bJlqwvZSq9XPvfOKyHN6SXIxN28TRvHl%2FJqcJYhT3fSzHCNvl3ON%2BUNC4q%2FpAdHUJqDN%2FlhUIJ4PtOJzr%2Fm%2FYMgfOqEP6kVZw0SRDmsus06KvzcZQ5QasS0hkZa00s24ROYNfcg45bdMmIw48ZRUlL8lPrdp87vGgxRjjIzx2m%2F8ezvWo4u%2BnnF1mRRKjWt%2BLl%2FdMlq6jr8p6JpyixDbIH%2B7%2FZgOYaRxLrYQp2BcegH98qqSA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791957144&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rZveGBtyRcd%2BPDZjm%2FxCjDaRtcU%2BhUbEPYBLxgouTHid1CULt55Z%2BBRr5UkBzeNd6oh4nmjJGe1Ur5N1juonLkU90VkdGbQiedHJGpuE3z9vQsNzd3Z4UvODbfiSNUaxzDUH2rGQ91jJGfwm0Gn2OoeoAO9AqxtbWytg0kZNSaHWSCxC%2FytUxzXb9I1tKRLd4uLBRvOFk5%2Fj89lrokuJxLzxUwG1YXbW%2BzyGFK8K5wgP5u7ep8%2FgJc%2BDm5%2B%2FoiISgJke4MBxTVnElQLOiHOYiwjbs2O9m0fte%2BxLtU0sUBVfLOaGmbIz2ciWF9tuq7hpBW8RupYSxAtwxNguIV1Mxg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Comments (2)
 - **える** (Oct 06, 2026 10:28am): 素晴らしい
@@ -456,7 +468,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791945016&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=P6%2BUUyCANILoIR4p9pb1DrTFpmNMB8vrdmnjZQZKSMeiHNgV1piev1lchNcyEvYLsaAFSzgGfiRTdlx31n6AD665cbaJjx2j4simh8U9woT%2ByM8JHtc9NUUjlBSwonYaGPvfk6gfQ8XUQQ5WuV3y4%2BscL3qypVJUHM1qMW4HhGC8jfSJccINpdoztGAnAxeu8L%2F3bkNQjwGARZFpcRGZkWpcxI0xYXUEMHmhh5P2uJEU28hktANfwuy5GD60otd8SwfBCaUKIiCYiU99YxQGN4DD00L%2FRJT%2B2i9ixkFz5gRV7pZ52Tt%2Bl0VmlIa4ECcpQfdaJvPH5a2Z%2BUUg5RQ5%2BQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791957144&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qjLAheJ3Mt6ebjjF06fdRdhxZJ9wJvr85x78GbMetbvmct%2BDzmqPEZeGj2baEaiRtH6AHB3PWE74i7GIryqqwYPqzOqrLtltSWN%2ByQ9vX9SYZQeYsxA0T0JRWZ3dQ1ezacS3uYcvZW1Actxl8tzn8H2nkFKdKzv2rxRPbTYqypi1aYlIWP1JtYRv81Ouu%2BAhnD0QqrbDzmYVJiUv8KiEgRhIHmDPkorW%2BJyeHGVlCa3IuJ2UMqrAsts%2BOCB7pP65MVm8VZpte3X7kE%2F%2FfQZ%2B5p9YdTbsEHE%2BGwmaTRRevAgt%2BLKe6a7iANI%2FOlC2tPjXAAM%2BNGXpj1umMcxrvQDH7w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (1)
 - **かわうそ　kaitoマイクラサーバー特殊部隊　隊長** (Oct 06, 2026 11:34am): ?
@@ -529,7 +541,7 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 24 votes
+- **学校のパソコン:** 25 votes
 - **自分のスマホ:** 2 votes
 - **自分のパソコン:** 3 votes
 - **その他:** 1 vote
@@ -544,7 +556,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 07, 2026 12:34am
+- **Updated At:** Oct 07, 2026 02:37am
 
 ---
 
