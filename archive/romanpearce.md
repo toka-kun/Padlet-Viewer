@@ -1,4 +1,4 @@
-最終取得: 2026/10/08 07:01:48
+最終取得: 2026/10/08 08:47:37
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -9,7 +9,7 @@
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
 - **Posts:** 35
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 07, 2026 02:31pm
+- **Updated At:** Oct 07, 2026 11:10pm
 
 ## ライター受付
 
@@ -61,8 +61,10 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (1)
+#### Comments (3)
 - **ナミヅキ** (Oct 07, 2026 12:31pm): よろ
+- **ヤチヨ　推し** (Oct 07, 2026 10:25pm): やおよろ〜
+- **rosu67** (Oct 07, 2026 11:10pm): よろしく
 
 #### Additional Information
 - **Post color:** White
@@ -482,7 +484,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1792015401&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5oH1rF1EMjQ84EJR%2FsxcT8jerLcz52jiS46qL%2FHYCUrM6oAEpg6mmXdLwWYh50J9s6aVDUEGM1AAV5U3lrg4zrjazOa3u5Y2cXH%2Bo5kIsIharHmd7Rn%2FzPFrGaMVTNTuZvQ8JOsSOkoOoaubgOt08gy9qzlGQbzVZmOqhyo8w%2Bt%2BC3op%2BjsvIkF6vxFa4CjIW3tSFWttE1Y9FIiQQ5gqjnymeZtgxsMPwG%2BE3Cav7U2JDQ9hJcuKvZC1FZq%2Bq92%2BHyaKCjcN0fGSouzHXb5tE4UqW5MhDDpG2jHTiVfMvEkgu3gs1ojXxg%2FPkWAKSHWZgtHmZX7Mf7m%2BlNFT3Aw8%2BA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1792021756&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hg3%2Fl22WS1V5ITWhZZdq0SxQfrM5xuiBf6j7%2BX8GpXhTrXk%2Bhu%2F10NYWWUTJw3FK9GEu6xUt9Ijp7%2BowuMmIRTQK%2BhrJH4NFobPVDuz8vilCI8gJiBn4MwsaKAbQ7jUA31yGNoBAD%2Fcm2liwxy105S5mDob3qnmda0UQPE6TkAuu9HCuK0kyqBQ8T7Tg28hvkNoBIpFbKgvQWIm5T%2Bsq8%2F1tvaiAirahEWerPrxR4%2F3ZG9%2B3Ly4Mjgxia7YZ%2FS1369rFU3vbZotnQNZOFS1LfNUNSAq7EWJpYr1AqBhvH0UrXdLbTQvwf3%2FEMNb1NFbcVhGcOF3x%2BxWetFmml1y2LA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Comments (2)
 - **える** (Oct 06, 2026 10:28am): 素晴らしい
@@ -521,7 +523,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1792015401&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1S3dAmpPMHdsbu9nHY1bZubcSrbPaNHCOyH8LaE4PpHN%2FJm9qFt28iYPzBg%2BeAm4x8K9nYWlPguU9dH%2FaofE5DL8tc5SU3r8%2FfdjItq5OHshDXMigHzIS1QxgVPKg7%2FbGZBO2ZKJ5yYYuQ6WvcbXu66zK0SS5Ic8OOoLFJkKF3Q0kJDLZESITCd18iFrgunBxcdoQEBVZpW5hNVAanWRwF95k%2FAgKTu5XHm8QwqXBfRNmgNvDGn53uOieADDvaOzxj7GUQYx6MV6uebM4cOJHksSJrGt1n%2FFrbcOHP4I3IJfK2B2PUJhOMPX24KfL6S2q1ux9sZiL2NiU2F3RBK9uw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1792021756&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=X6%2FRZHnNYWySVx0Z9griYe5abTctiTjMdAd7RHs78N%2FQX1ibFAESsdTQA%2BTvBCRQjgw2mwMH4R1XgWb0MP3ajHTAF6CGhng7PFZT6SlEMNNq2IjezD%2Frs3ikMcEkC8IZgHzyF673glBXCS7sMO66T2YA4h%2BFOJlfudaTzllQc4mrbdh2HgE4rozJ4cG%2FqptTfPNbn1h7z%2Fasaf%2FFV5a%2F8VRXnU6%2BHRb%2BmL8gNQkhgvgBcBpJsPypTLlQns66ryDcPV2p%2FXN1TtXd142mMkG9toFl381sPOqEZVIreb0lb3KsJOY8CUIRXCnAh7%2BjxBaRcbRiBCcThgdJWQzI78sJwA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (1)
 - **かわうそkaitoプロキシー特殊探偵　初心者** (Oct 06, 2026 11:34am): ?
