@@ -1,4 +1,4 @@
-最終取得: 2026/10/07 18:21:27
+最終取得: 2026/10/07 22:14:25
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 32
+- **Posts:** 35
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 07, 2026 08:51am
+- **Updated At:** Oct 07, 2026 12:31pm
 
 ## ライター受付
 
@@ -60,6 +60,9 @@ No post
 **Author:** かわうそ　kaitoマイクラサーバー特殊部隊　隊長 (27200037)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Comments (1)
+- **ナミヅキ** (Oct 07, 2026 12:31pm): よろ
 
 #### Additional Information
 - **Post color:** White
@@ -145,7 +148,23 @@ No post
 
 ## 雑談
 
-### 1. やっほ
+### 1. 公開ライター危険だからやめとけよ
+**Author:** ネッコ (uououo)
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Comments (2)
+- **影** (Oct 07, 2026 12:15pm): それはマジでそう
+- **影** (Oct 07, 2026 12:15pm): 一瞬で荒らされるからね
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 07, 2026 12:12pm
+- **Updated At:** Oct 07, 2026 12:12pm
+
+---
+
+### 2. やっほ
 **Author:** しろちゃん (syunn925)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -157,7 +176,7 @@ No post
 
 ---
 
-### 2. フィールド強化しました
+### 3. フィールド強化しました
 **Author:** れいちゃん (sw_gg)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -174,7 +193,7 @@ No post
 
 ---
 
-### 3. れい荒らさないなら管理あげる
+### 4. れい荒らさないなら管理あげる
 **Author:** だいまた (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -196,7 +215,7 @@ No post
 
 ---
 
-### 4. Post 4
+### 5. Post 5
 **Author:** れいちゃん (sw_gg)
 
 わ
@@ -216,7 +235,7 @@ No post
 
 ---
 
-### 5. 投稿全部消したん？
+### 6. 投稿全部消したん？
 **Author:** しろちゃん (syunn925)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -228,7 +247,7 @@ No post
 
 ---
 
-### 6. 久しぶりに来たけどなんか投稿少なくね？
+### 7. 久しぶりに来たけどなんか投稿少なくね？
 **Author:** ポケカの神（サブ垢） (pokekanokamisabu)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -240,7 +259,7 @@ No post
 
 ---
 
-### 7. どしたんはなしきこか
+### 8. どしたんはなしきこか
 **Author:** とりすけお (uyjyukfy)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -256,7 +275,7 @@ No post
 
 ---
 
-### 8. だいまたへんしんして
+### 9. だいまたへんしんして
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -271,7 +290,7 @@ No post
 
 ---
 
-### 9. るいせいとかひよこ懐かしい
+### 10. るいせいとかひよこ懐かしい
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -287,7 +306,7 @@ No post
 
 ---
 
-### 10. Post 10
+### 11. Post 11
 **Author:** 生きやがれ (ikiyagare)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -311,7 +330,7 @@ No post
 
 ---
 
-### 11. 必要最低限のセクションは作りました
+### 12. 必要最低限のセクションは作りました
 **Author:** ネッコ (uououo)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -323,7 +342,7 @@ No post
 
 ---
 
-### 12. 荒らされたので全部消えました
+### 13. 荒らされたので全部消えました
 **Author:** ネッコ (uououo)
 
 一応全消しで修復したから今は重くないけど
@@ -346,7 +365,22 @@ No post
 
 ## 雑談
 
-### 1. Post 1
+### 1. またライターなっとるやん
+**Author:** おじゃる丸 (ojrmr)
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Comments (1)
+- **おじゃる丸** (Oct 07, 2026 11:47am): あ、僕ね
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 07, 2026 11:46am
+- **Updated At:** Oct 07, 2026 11:46am
+
+---
+
+### 2. Post 2
 **Author:** あっぷるのかみ (Apple_got)
 
 **͏‍⁠⁠:** あ
@@ -358,7 +392,7 @@ No post
 
 ---
 
-### 2. ここ生きやがれいるのまじか
+### 3. ここ生きやがれいるのまじか
 **Author:** 影 (dopagakisine)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -374,7 +408,7 @@ No post
 
 ---
 
-### 3. だれかこれなんも無い理由わかる人いる？
+### 4. だれかこれなんも無い理由わかる人いる？
 **Author:** だいまた (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -392,7 +426,7 @@ No post
 
 ---
 
-### 4. オワコンになったの悲しすぎる
+### 5. オワコンになったの悲しすぎる
 **Author:** Союз Советских Социалистических Республик (2014800_2)
 
 それな
@@ -417,11 +451,12 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (4)
+#### Comments (5)
 - **九条** (Oct 05, 2026 04:13am): あ
 - **九条** (Oct 05, 2026 04:13am): おおおああ  あああ  
 - **九条** (Oct 05, 2026 04:13am): やらゃ 
 - **だいまた** (Oct 05, 2026 11:16am): え、九条ってイケメン部屋の？
+- **おじゃる丸** (Oct 07, 2026 11:42am): おもた
 
 #### Additional Information
 - **Post color:** White
@@ -441,7 +476,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791969775&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lR9GCiX6NPtOFd7GQmvAbaTDZL8Kc7tjOoTR8AmH0JHyIInpswlTVzKDgPLS%2FtBRXlUvXgxzwz%2B9p7OAcSBpF49EYacEeWu%2BSc%2BNuwyfM0upn3NhAabeAti9PBm3InzSLozUGEcV3NEKjcqfbCZMoOZwWQnQkXU%2FnZosCdLqW7ktNsXQV6hZX1zLfDM6krW4wd9qle1rRQ2Kk1G2KOg7iVReYTqINZX32x8eI0sHs7RJWX63yRgztEpnVVz3GktfK7DUOjCFZe7fjDPTyRSOk0Q%2FcaIp7vUg%2FyzrDVINlwVPiQ5nHLzliNmEmP8KYvH%2B%2Bj2FdfBo5PzgqeIBx1%2BrZg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791983765&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=s2TAajqK86aCajQ0tCo4oqrvV%2BQ%2FZKFcSiGXvjOq0HZ4HbJIZU3D%2BApK3pHNGJxxeeorV2mkK6CoOifaSwoEvimQZveJbcag8EW0AwqB3dUHXiNW4%2FmN5fL5N4W76fxN9g%2FNkNJkVNZa81BeC8FC8VLRF05dKnPOZleY8IYfR8q0%2BK4paNZDQc7KEiA8K1WzXUX4PFBqRv9cnmtJSG1OXkwh9YZumq9N6lAjPETKuXvbHk7Uud26mepRqWEI4%2BL%2BypHF3A9VO1kfn%2Fr3DdPU4SpXWa57j%2BWbJAfgY6j1yeCwQ1EwKmbK1gMZpoTaxdoSBep3wtPouQ1iIB7oa5xMfA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Comments (2)
 - **える** (Oct 06, 2026 10:28am): 素晴らしい
@@ -480,7 +515,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791969775&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=iA%2BlHTnzI4v5zO6bZNh74Un9FeIGbyPWT%2F4hHcGjKEismJ7EHAUXwdfVTWsl4B5jgI%2FcBy5TLtY%2FilTBGTYw5Wsv%2BwloydUa3JijlbyfDigMY%2BiFzUqohyfATvcNvIGLtgLxqhwvuoq31yqXFt40I0bKhvJAgA7tKZE2G%2BBx%2BqMkg8fHXzI8cyd%2BPGtySukBgHBqEEcF1Ox%2FKMzqOeRnIaUyQ2Dnj96cVEtUSZruKdnlsabgirnglxyDRRk97RO%2F0fEzIZnGzRLFEIMWpQNwBUA6g324cTbUnk4dtAkB0uafYcMHpV2b1t36lqIfxGo9yb2rEXDpHhMQ39ddJeZJSQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791983765&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GMD6y5foE4fVbJb%2Bt5K5bGzcwQ5BB8jkDqBFrRjq4r%2B%2F8pTQrYCFnA%2F7XCZ6vvtwKg0aTihRyS%2FCEHyNslEhoFpOlRZpaxOSrvhueJDma7nmf2iS9o0zHDyWf9%2BV3M6BhkD08a4j5YQ46tmGMtXgNvAjPi3dx8Xdt2yfVLMlX7qUiF%2BqXNBvaUsUB3NCUyrrzmBSfHgxsHLibbxay2S5H8tfxx1oeJ4VI65gjSn52ytaac4WEH8YHWO3vfE4c5MUCvBIj7LNj6de5GA%2BEeoIm0oLZ%2FEk5xh20USSLpJt3hxxpTLoW4XXfBwNkEBVr8edv5NMfwxjA5pBTC%2BfGnEY2w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (1)
 - **かわうそ　kaitoマイクラサーバー特殊部隊　隊長** (Oct 06, 2026 11:34am): ?
@@ -553,7 +588,7 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 28 votes
+- **学校のパソコン:** 30 votes
 - **自分のスマホ:** 2 votes
 - **自分のパソコン:** 3 votes
 - **その他:** 1 vote
@@ -568,7 +603,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 07, 2026 09:20am
+- **Updated At:** Oct 07, 2026 11:46am
 
 ---
 
@@ -597,4 +632,14 @@ No post
 
 ## 過疎防止セクション
 
-No post
+### 1. Post 1
+**Author:** だいまた (daimatadao)
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 07, 2026 10:12am
+- **Updated At:** Oct 07, 2026 10:12am
+
+---
