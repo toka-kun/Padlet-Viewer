@@ -1,4 +1,4 @@
-最終取得: 2026/10/07 16:36:24
+最終取得: 2026/10/07 18:21:27
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -7,14 +7,14 @@
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 31
+- **Posts:** 32
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 07, 2026 03:11am
+- **Updated At:** Oct 07, 2026 08:51am
 
 ## ライター受付
 
 ### 1. ライター欲しい人はコメントして
-**Author:** 九粗チンパンジー食堂2号店 (uououo)
+**Author:** ネッコ (uououo)
 
 メアドいらんよ
 
@@ -23,7 +23,7 @@
 #### Comments (6)
 - **ポタリック** (Oct 03, 2026 10:18pm): ほしい
 - **S 1** (Oct 04, 2026 03:04am): ほしいです
-- **九粗チンパンジー食堂2号店** (Oct 04, 2026 11:45am): ↑二人OK
+- **ネッコ** (Oct 04, 2026 11:45am): ↑二人OK
 - **True_043** (Oct 05, 2026 11:57am): ください
 - **どりーむでした‼︎** (Oct 06, 2026 07:16am): ほしいです
 - **内藤内人** (Oct 06, 2026 10:22am): ください
@@ -36,7 +36,7 @@
 ---
 
 ### 2. 荒らし対策として受付制度に変えました
-**Author:** 九粗チンパンジー食堂2号店 (uououo)
+**Author:** ネッコ (uououo)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -145,7 +145,19 @@ No post
 
 ## 雑談
 
-### 1. フィールド強化しました
+### 1. やっほ
+**Author:** しろちゃん (syunn925)
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 07, 2026 08:51am
+- **Updated At:** Oct 07, 2026 08:51am
+
+---
+
+### 2. フィールド強化しました
 **Author:** れいちゃん (sw_gg)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -162,7 +174,7 @@ No post
 
 ---
 
-### 2. れい荒らさないなら管理あげる
+### 3. れい荒らさないなら管理あげる
 **Author:** だいまた (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -184,7 +196,7 @@ No post
 
 ---
 
-### 3. Post 3
+### 4. Post 4
 **Author:** れいちゃん (sw_gg)
 
 わ
@@ -194,7 +206,7 @@ No post
 #### Comments (4)
 - **れいちゃん** (Oct 06, 2026 04:57am): まあ可哀想
 - **れいちゃん** (Oct 06, 2026 04:57am): あれくらいなら全消し無しで行けるはずなのに。
-- **九粗チンパンジー食堂2号店** (Oct 06, 2026 06:48am): 全部、俺のパソコンのスペックが悪かったせい
+- **ネッコ** (Oct 06, 2026 06:48am): 全部、俺のパソコンのスペックが悪かったせい
 - **れいちゃん** (Oct 06, 2026 08:26am): まあ、しょうがない
 
 #### Additional Information
@@ -204,7 +216,7 @@ No post
 
 ---
 
-### 4. 投稿全部消したん？
+### 5. 投稿全部消したん？
 **Author:** しろちゃん (syunn925)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -216,7 +228,7 @@ No post
 
 ---
 
-### 5. 久しぶりに来たけどなんか投稿少なくね？
+### 6. 久しぶりに来たけどなんか投稿少なくね？
 **Author:** ポケカの神（サブ垢） (pokekanokamisabu)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -228,7 +240,7 @@ No post
 
 ---
 
-### 6. どしたんはなしきこか
+### 7. どしたんはなしきこか
 **Author:** とりすけお (uyjyukfy)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -244,7 +256,7 @@ No post
 
 ---
 
-### 7. だいまたへんしんして
+### 8. だいまたへんしんして
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -259,7 +271,7 @@ No post
 
 ---
 
-### 8. るいせいとかひよこ懐かしい
+### 9. るいせいとかひよこ懐かしい
 **Author:** ローマンピアースのスマホ垢本物 (rikuto10203)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -275,7 +287,7 @@ No post
 
 ---
 
-### 9. Post 9
+### 10. Post 10
 **Author:** 生きやがれ (ikiyagare)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -299,8 +311,8 @@ No post
 
 ---
 
-### 10. 必要最低限のセクションは作りました
-**Author:** 九粗チンパンジー食堂2号店 (uououo)
+### 11. 必要最低限のセクションは作りました
+**Author:** ネッコ (uououo)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -311,8 +323,8 @@ No post
 
 ---
 
-### 11. 荒らされたので全部消えました
-**Author:** 九粗チンパンジー食堂2号店 (uououo)
+### 12. 荒らされたので全部消えました
+**Author:** ネッコ (uououo)
 
 一応全消しで修復したから今は重くないけど
 
@@ -321,7 +333,7 @@ No post
 #### Comments (5)
 - **ハロー！** (Oct 04, 2026 05:53am): もうこの部屋は終わりただのゴミ
 - **だいまた** (Oct 04, 2026 06:30am): うお
-- **九粗チンパンジー食堂2号店** (Oct 04, 2026 08:33am): うお🐟
+- **ネッコ** (Oct 04, 2026 08:33am): うお🐟
 - **ポタリック** (Oct 04, 2026 10:29am): うお？
 - **れいちゃん** (Oct 06, 2026 11:19am): 冷笑すんなて
 
@@ -370,7 +382,7 @@ No post
 #### Comments (4)
 - **生きやがれ** (Oct 04, 2026 06:39am): もし、ネッコさんがパソコンを使っていて、９時間以内にこの部屋にきたのなら、コントロール+z連打で消した投稿が戻ると思います（連打の際は間隔を開けて）
 - **だいまた** (Oct 04, 2026 07:32am): たぶんねっこがきてる時間が12時間前だからむりだ😭
-- **九粗チンパンジー食堂2号店** (Oct 05, 2026 10:34am): ごめんね
+- **ネッコ** (Oct 05, 2026 10:34am): ごめんね
 - **だいまた** (Oct 05, 2026 11:16am): いいよ
 
 #### Additional Information
@@ -429,7 +441,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791963481&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wqzwqkJdP5f4FXdz3Bv6tSIwsfyZ8kDe92BWKy7StWJbwC%2BKCjm8nq27fWkah%2FLNpilpwcclm4wsXYshhqQCdy3OEE2FEYblaILoTgl9PHgrORlR4OQgCRijl17YBwqXBkCjjryLfixOsrZReBuWzGltT%2BHzmmKLooCoLLDM9Ve%2FXZv5Ttge2Oj40ztLMoix4n%2B8uYJPyeg7fqdI39vWqWMGazxFlgw8Sr1NpGMCtqo03Dhaj%2F%2BBMYrUd%2FtHtBKss3XeWBucixuAK1FhB%2FeqbQDJ6o7jiqUq%2FmbQwcULDIgf4cBjSqFNuxW9Lr2j920hsE9il1HZmJk9bD5XQLotmg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1791969775&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lR9GCiX6NPtOFd7GQmvAbaTDZL8Kc7tjOoTR8AmH0JHyIInpswlTVzKDgPLS%2FtBRXlUvXgxzwz%2B9p7OAcSBpF49EYacEeWu%2BSc%2BNuwyfM0upn3NhAabeAti9PBm3InzSLozUGEcV3NEKjcqfbCZMoOZwWQnQkXU%2FnZosCdLqW7ktNsXQV6hZX1zLfDM6krW4wd9qle1rRQ2Kk1G2KOg7iVReYTqINZX32x8eI0sHs7RJWX63yRgztEpnVVz3GktfK7DUOjCFZe7fjDPTyRSOk0Q%2FcaIp7vUg%2FyzrDVINlwVPiQ5nHLzliNmEmP8KYvH%2B%2Bj2FdfBo5PzgqeIBx1%2BrZg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Comments (2)
 - **える** (Oct 06, 2026 10:28am): 素晴らしい
@@ -468,7 +480,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791963481&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6gThIKpcYKcvVbb5GM%2FyBEg4nmHKw%2Bf%2Brj%2BYnM7hqXnuWVkYgqaRvIGKLEdhiRdjHHMboTCKJYgY0n748N7pp%2F8R1YJ9veA%2B8GQo5WRxZbW5QcbJ1%2FAdGg88Q%2BDN3oh0d7YI%2F9S%2B3TR3ujM4H5usS%2FVINCIolnqDj6VGLbdzODJzQGNr1WXaI5x8Uy7OnkkU57CcTw7IPl4h5APslRDl2%2B2hXQXwDwxiIeDeq%2Bl7%2FqZ3qcNmQeWR3p9qaZQ%2F%2BzuwMAvDg0Ig3wTIiWSQa76TIKUth78Y406S%2BexrULvnx1M82TkUPnSh43xfGPMHjquLlnBVrYSVzmDRFxVuMrKDHQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1791969775&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=iA%2BlHTnzI4v5zO6bZNh74Un9FeIGbyPWT%2F4hHcGjKEismJ7EHAUXwdfVTWsl4B5jgI%2FcBy5TLtY%2FilTBGTYw5Wsv%2BwloydUa3JijlbyfDigMY%2BiFzUqohyfATvcNvIGLtgLxqhwvuoq31yqXFt40I0bKhvJAgA7tKZE2G%2BBx%2BqMkg8fHXzI8cyd%2BPGtySukBgHBqEEcF1Ox%2FKMzqOeRnIaUyQ2Dnj96cVEtUSZruKdnlsabgirnglxyDRRk97RO%2F0fEzIZnGzRLFEIMWpQNwBUA6g324cTbUnk4dtAkB0uafYcMHpV2b1t36lqIfxGo9yb2rEXDpHhMQ39ddJeZJSQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (1)
 - **かわうそ　kaitoマイクラサーバー特殊部隊　隊長** (Oct 06, 2026 11:34am): ?
@@ -541,7 +553,7 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 26 votes
+- **学校のパソコン:** 28 votes
 - **自分のスマホ:** 2 votes
 - **自分のパソコン:** 3 votes
 - **その他:** 1 vote
@@ -549,14 +561,14 @@ No post
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (3)
-- **九粗チンパンジー食堂2号店** (Oct 05, 2026 10:34am): 学タブと自分のパソコンと携帯
+- **ネッコ** (Oct 05, 2026 10:34am): 学タブと自分のパソコンと携帯
 - **はまじくん** (Oct 05, 2026 01:00pm): 学タブブロックされてて使えない
 - **い** (Oct 06, 2026 08:20am): 学タブ
 
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 07, 2026 06:58am
+- **Updated At:** Oct 07, 2026 09:20am
 
 ---
 
