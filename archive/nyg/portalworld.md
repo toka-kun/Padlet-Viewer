@@ -1,4 +1,4 @@
-最終取得: 2026/10/08 16:08:16
+最終取得: 2026/10/08 18:03:39
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 174
 - **Created At:** Aug 31, 2025 08:58am
-- **Updated At:** Oct 08, 2026 03:10am
+- **Updated At:** Oct 08, 2026 08:35am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -1407,7 +1407,7 @@ ver1.8.8で遊んでます　
 ---
 
 ### 55. 部屋を大爆破（荒らしはすんな）
-**Author:** 独立行政法人国立特別支援教育総合研究所教育支援研究部特別支援学校教育支援担当上級総括研究員でもなんでもないただの人間 (steal_brainlot)
+**Author:** JOJO! (steal_brainlot)
 
 とりあえず入りなさい
 
@@ -1828,7 +1828,7 @@ ver1.8.8で遊んでます　
 
 #### Comments (5)
 - **村松駿** (Jul 27, 2026 07:53am): おれやりたい
-- **独立行政法人国立特別支援教育総合研究所教育支援研究部特別支援学校教育支援担当上級総括研究員でもなんでもないただの人間** (Jul 27, 2026 07:53am): パスワード教えて
+- **JOJO!** (Jul 27, 2026 07:53am): パスワード教えて
 - **とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON** (Jul 27, 2026 10:37pm): すまない
 - **とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON** (Jul 27, 2026 10:37pm): https://padlet.com/tori3proxyZtyper/toriproz-h3p7ovdl22rr3fmh
 - **とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON** (Jul 27, 2026 10:37pm): こっちで面接してからパスワ伝える
@@ -4224,7 +4224,7 @@ a
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1792048130&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BNOOBn87oXUFCeWyp%2FGa95Hw6PTiubBvBXz97o1klbkXmRgFYmNDa9a31H3dtaKPrmIerU8%2FPhvG2uN%2FQWRNBFvR9Pmqv5jHJVrZ0ID64O9jOAgxQD4K6CiKw7Io40HsKwrjca4pbeO8i%2BtTPgHRwGY9zEMQd7OEirlc74vauX5BlqILViV%2FIn5czZ%2Ba4gsmmsg3rVakIjkJppXKdbCDppWoB%2FxlflMbQ5HnKWW4NF1uUVgylsfDTlKOJ3NFUh9eWhbUDINk2TXRgfTHAH1xf0ve5X9IqMfnDcw3DRLVxs5WZDC0AJftWsuZ5W3Txz4LlLUhQ%2BI2suod296ilnOGTA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1792055052&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=vVuS2HjwQrUx3llp5F8WqeapHaYMDo6k6aefk7E4VXtKdKO0KNFhmCGXSJC%2FtLQzgIV7q0PqcJIb8pCmUBIqDVFXQnUIliHNElfM3jphaN%2Bu2lb6q%2F9y0A2VfXlpF%2Bg2v%2BjHxGB4NpvA7C6DgiIDjm2c6NMGtNNYyShltkwE4bpOR6tXPZLcLQMldDT9HwriBLoa2T%2Fs1tej7gcw3zHOwSwXmEQ2P7os1YMiv3Hv0Dtq7xREEZbIP5RDOjUOkzd4bFj5QLrRXdt4IGwQXf398cVnd2T9%2FXOkZhQAy9B2mR4L8hTUkKyMwchms2mN8wPxgBqe5bpw8qKOe6dOJnNB9Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (3)
