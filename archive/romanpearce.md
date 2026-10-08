@@ -1,4 +1,4 @@
-最終取得: 2026/10/08 08:47:37
+最終取得: 2026/10/08 09:50:07
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -9,7 +9,7 @@
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
 - **Posts:** 35
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 07, 2026 11:10pm
+- **Updated At:** Oct 08, 2026 12:25am
 
 ## ライター受付
 
@@ -61,10 +61,11 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (3)
+#### Comments (4)
 - **ナミヅキ** (Oct 07, 2026 12:31pm): よろ
 - **ヤチヨ　推し** (Oct 07, 2026 10:25pm): やおよろ〜
 - **rosu67** (Oct 07, 2026 11:10pm): よろしく
+- **最強💀☠️** (Oct 08, 2026 12:12am): よろしく！
 
 #### Additional Information
 - **Post color:** White
@@ -484,7 +485,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1792021756&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hg3%2Fl22WS1V5ITWhZZdq0SxQfrM5xuiBf6j7%2BX8GpXhTrXk%2Bhu%2F10NYWWUTJw3FK9GEu6xUt9Ijp7%2BowuMmIRTQK%2BhrJH4NFobPVDuz8vilCI8gJiBn4MwsaKAbQ7jUA31yGNoBAD%2Fcm2liwxy105S5mDob3qnmda0UQPE6TkAuu9HCuK0kyqBQ8T7Tg28hvkNoBIpFbKgvQWIm5T%2Bsq8%2F1tvaiAirahEWerPrxR4%2F3ZG9%2B3Ly4Mjgxia7YZ%2FS1369rFU3vbZotnQNZOFS1LfNUNSAq7EWJpYr1AqBhvH0UrXdLbTQvwf3%2FEMNb1NFbcVhGcOF3x%2BxWetFmml1y2LA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1792025522&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LlgCmZVi4ZXlA3cpoVxkSc8riidFObtvYzeG%2FXEiFzAdfzPlQ4iaPKzlI4Skh6B2ZPHaQE6qHba%2F4iN1IH5brMUQrF6TKVs7HmoQa%2F09t38awRvO28s0Q%2FDlocVFPx2WhqRXdo2N5WFXdUHkDKhEBiEktQyU5d0qy5RsW2z8K9Viw9D9uUOvSjoQa1y5bBrXLRnKmoxgFQxqCc7vOho51%2FUP9zXgiIHBO0ykKPSEV3ENLaSISyNf0p51lepzYZNFlhRMV8biAj1gCLt%2Fc%2FDCvkzKWcekS%2FLp6Y30oRrTn2lirL5dx5mxSs253kR8x0QP4Gnepv42Atmmrwulne7aOg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Comments (2)
 - **える** (Oct 06, 2026 10:28am): 素晴らしい
@@ -523,7 +524,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1792021756&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=X6%2FRZHnNYWySVx0Z9griYe5abTctiTjMdAd7RHs78N%2FQX1ibFAESsdTQA%2BTvBCRQjgw2mwMH4R1XgWb0MP3ajHTAF6CGhng7PFZT6SlEMNNq2IjezD%2Frs3ikMcEkC8IZgHzyF673glBXCS7sMO66T2YA4h%2BFOJlfudaTzllQc4mrbdh2HgE4rozJ4cG%2FqptTfPNbn1h7z%2Fasaf%2FFV5a%2F8VRXnU6%2BHRb%2BmL8gNQkhgvgBcBpJsPypTLlQns66ryDcPV2p%2FXN1TtXd142mMkG9toFl381sPOqEZVIreb0lb3KsJOY8CUIRXCnAh7%2BjxBaRcbRiBCcThgdJWQzI78sJwA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1792025522&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uOR3rb9717PMlYvpHxW5ERJXmu2DR1LqREIfWZw32mlbMHN89QPP7mV%2FyPcnqbY%2BnRQNH9bjX2LqhGCSRmYEIFM5vAnh%2F8KWhoTlws1HPqXY1SSPOgKd5qGk%2Fwr8YFP3IwvlWR35Vy7I23LpaO9PPcOkRd1tLLLL5%2BVv86xMb1A1h65YKlse1v9xHpSBwKwS5bZqZRBRN6KcQXf2vbIgz03QUDetwQn5sbERn724fi2npbNsGJsZLkl2Wj7wTB9lgfmbwI1VvLKrT0YEIYMCMW2mlfKa4YeSpOopTKFVx1kp%2Fza6dydCD8mni0IMYbC%2FSYyn9dyPQWL%2FW4dLgzgOoA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (1)
 - **かわうそkaitoプロキシー特殊探偵　初心者** (Oct 06, 2026 11:34am): ?
@@ -626,10 +627,11 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (3)
+#### Comments (4)
 - **ポタリック** (Oct 04, 2026 02:10pm): あ
 - **ハネノハ** (Oct 05, 2026 12:10pm): プロキシサイト教えてね
 - **だいまた** (Oct 06, 2026 11:29am): なにがいい？
+- **美獣後輩** (Oct 08, 2026 12:25am): アンブロックゲームやりたいけどどれかわからん 
 
 #### Additional Information
 - **Post color:** Yellow
