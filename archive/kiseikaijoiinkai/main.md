@@ -1,4 +1,4 @@
-最終取得: 2026/10/07 14:50:43
+最終取得: 2026/10/08 22:20:54
 
 # 規制解除解除委員会
 
@@ -129,7 +129,7 @@ No post
 ## 雑談(ライター用)
 
 ### 1. Post 1
-**Author:** イケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい😭 (INMUKING1DAIME)
+**Author:** 中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい😭リア友の部屋https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl　閲覧4万とか (INMUKING1DAIME)
 
 s2000941@g.ueis.ed.jp
 
@@ -375,7 +375,7 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 ---
 
 ### 2. Post 2
-**Author:** イケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい😭 (INMUKING1DAIME)
+**Author:** 中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい😭リア友の部屋https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl　閲覧4万とか (INMUKING1DAIME)
 
 [Attachment 1](https://publer.com/es/tools/photo-video-downloader)
 
@@ -450,7 +450,7 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 [Attachment 1](https://app.apponfly.com/trial)
 
 #### Comments (4)
-- **イケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい😭** (Aug 23, 2026 01:36pm): ナイス
+- **中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい😭リア友の部屋https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl　閲覧4万とか** (Aug 23, 2026 01:36pm): ナイス
 - **ホタル** (Sep 07, 2026 03:38am): 2026/09/0712:37使えんくなった確認プロキシ情報によりブロック
 - **けけ** (Oct 02, 2026 02:56am): 最悪
 - **根釧台地(元いときち)** (Oct 02, 2026 10:19pm): めんご地域学校によってはブロックされるかも
