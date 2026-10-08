@@ -1,4 +1,4 @@
-最終取得: 2026/10/08 22:20:54
+最終取得: 2026/10/08 23:47:56
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -9,7 +9,7 @@
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
 - **Posts:** 35
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 08, 2026 10:21am
+- **Updated At:** Oct 08, 2026 01:43pm
 
 ## ライター受付
 
@@ -491,7 +491,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1792070554&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5jlMdhCty5OX5EksYVP2Y1oKQnguSF%2FYBCbVltyPBiXP03tXwkn2zawSGeDGIsffOKCLbt3IuwihtQgkcZgVw2SwHmfTt2xAOJqN8BZbDAsp4kydZp0EWb%2FAn9HUuf34wuZosGdfSeCiazBBfO3Inkj9JDBVhov3WDNE4VLAMo5fU5ROeFZwY2%2B8RZOI7qEUcsAEBg0u%2BTfVyCizzpIbi4HHsOmOtzjzpK2j2VxAXIyDv7rVKPR27ZqgWxETcnBkAVsFFg5MQABelfCq5yt%2FxowrQ3BJk9yYTiv3kb%2Bp59BZpuELFmbqIaTNc1bHCxgAMB4fCW7bI63H6pYnbTUEdA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1792075745&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rT7ScDmBlJM1snyBgLHMzT2RnCterBORDaF7B3YeU4M3nUL5YYdtd219IopL5FdhCabW1TQr3z95WpurJVuBrBvoCyIreD5HJDdFz6yymHgeYc60bfsdsk%2FjLxhYf0MlikoSgbBUsMcXliNdVngiGCDBGyWJu3tiGkkaX2SKEHwhJhrUajsohEfRGZ84FDhp6tVUJGPlaRQt60kL1hSOEvtscHxGp1WojTmpa8uNXjDmdA9pa9zDxOeaeLp8Zdj%2Ba6BSCNtMVgL8QFtieLqebgzKpOUtstXH40F5mlPDyuypUaw8Upl0t3Nbbq1u%2FAajS%2FcTBlMlv8%2FjxHFJ3zT2fw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Comments (3)
 - **える** (Oct 06, 2026 10:28am): 素晴らしい
@@ -531,7 +531,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1792070554&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pdkqsNAzkFea7w92DIfGOmM%2F28%2F4R5nf7hlqovZdFHlnrZJVT39PN0kXTXXhzdXQM9OB41WutO%2FOZhAvMqgmGIapHD4ZvD6FfON3KOIh8NlY0tzDrPCw18Y8564Rk1AugNJzInSLjOnMM3K24YLYYnX%2Bhwm0D%2B%2B%2BuRQvLh%2BX1sHucdodG6c67X3nB%2FUlzYb2jUOwBsD4nzE76eYupG3hKdcPmzUbc4elW1FuoX1JeYOO2iGZHa7nstmnDRf9pPbGwDoUcI5oo%2Fegn3LmF6FjQoTxu2xfENh%2FbhdHduqrjCzaM4RuUxbk79EycJyISms9QF%2BsfspdH9n0zoAUpbLSiQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1792075745&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=IMjc%2BQwvtGqOd1bVAnZcSvdX6FSnHY7ov6zMYYkI0iItBu926pNdM9c5NW2StIN6%2FOiJ2A3lgSFPCRc7zum4N9LXMb7NqxmvTRvp9kRigBAjNzE2yqmzdrZ3noI9MnbWccN%2BVGR8vzcreW4rm%2FyhrTr%2F7EpRt1tK3CDa7pfsoFRB%2FWEzj79SmLteh8CWCXCCCtHIJpaF49EBk13dzfOpj49CrMVXaRIl7ovqJ0STU5ZzLVgsVi2sBYX%2Fc69XWhouXPZwFHaeM0ZMaW7e92yQtbwhicE1B1AYbOKku4kGQ2T4t%2Fm9RHqaaPlbCHgDHuZWkSaBADLxgMrO2cndZw%2FoMg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (1)
 - **かわうそkaitoプロキシー特殊探偵　初心者** (Oct 06, 2026 11:34am): ?
@@ -634,11 +634,12 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (4)
+#### Comments (5)
 - **ポタリック** (Oct 04, 2026 02:10pm): あ
 - **ハネノハ** (Oct 05, 2026 12:10pm): プロキシサイト教えてね
 - **だいまた** (Oct 06, 2026 11:29am): なにがいい？
 - **美獣後輩** (Oct 08, 2026 12:25am): アンブロックゲームやりたいけどどれかわからん 
+- **だいまた** (Oct 08, 2026 01:43pm): 例えばテトリスしたいとか言ってくれたらやるよ
 
 #### Additional Information
 - **Post color:** Yellow
