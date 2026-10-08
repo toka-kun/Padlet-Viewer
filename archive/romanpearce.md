@@ -1,4 +1,4 @@
-最終取得: 2026/10/08 09:50:07
+最終取得: 2026/10/08 10:59:47
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -9,7 +9,7 @@
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
 - **Posts:** 35
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 08, 2026 12:25am
+- **Updated At:** Oct 08, 2026 01:06am
 
 ## ライター受付
 
@@ -61,11 +61,12 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (4)
+#### Comments (5)
 - **ナミヅキ** (Oct 07, 2026 12:31pm): よろ
 - **ヤチヨ　推し** (Oct 07, 2026 10:25pm): やおよろ〜
 - **rosu67** (Oct 07, 2026 11:10pm): よろしく
 - **最強💀☠️** (Oct 08, 2026 12:12am): よろしく！
+- **匿名** (Oct 08, 2026 01:04am): よろしぇく
 
 #### Additional Information
 - **Post color:** White
@@ -485,11 +486,12 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1792025522&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LlgCmZVi4ZXlA3cpoVxkSc8riidFObtvYzeG%2FXEiFzAdfzPlQ4iaPKzlI4Skh6B2ZPHaQE6qHba%2F4iN1IH5brMUQrF6TKVs7HmoQa%2F09t38awRvO28s0Q%2FDlocVFPx2WhqRXdo2N5WFXdUHkDKhEBiEktQyU5d0qy5RsW2z8K9Viw9D9uUOvSjoQa1y5bBrXLRnKmoxgFQxqCc7vOho51%2FUP9zXgiIHBO0ykKPSEV3ENLaSISyNf0p51lepzYZNFlhRMV8biAj1gCLt%2Fc%2FDCvkzKWcekS%2FLp6Y30oRrTn2lirL5dx5mxSs253kR8x0QP4Gnepv42Atmmrwulne7aOg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1792029692&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GL19E7DU324Y5Xl4Ub%2FLoh1cZeU0nvUvLZ5ltkFRLt%2BDuVSSqeiC%2BW7m7DHV5tbZ8WQSox71Jb2G76xlVnCVu3Q7JTL7Htjg0TLcIS5gdoSdMicAbbwIfmR0qjiGNG46Yn0UaQt8HT%2F%2By2O4PXVQR3w7aQyBl2BfKjM1WL5xvRUlBQklYhUMyv9HG57ht%2Fh76nKftf8%2BiQ%2F2v6ivvsR6E4mQnP9iVz1%2Fbdt78ncTiyuzO2EZyveambGnuRYAJPRriqzpV2w93ppcaxgKAnk0fHzUc9bguCyAXsS5XGmOvZZiOBrySgGChnpmQoL7jO%2FvKia73RM%2Fwu%2Fg5sdCxxYSGw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
-#### Comments (2)
+#### Comments (3)
 - **える** (Oct 06, 2026 10:28am): 素晴らしい
 - **かわうそkaitoプロキシー特殊探偵　初心者** (Oct 06, 2026 11:34am): かっこいい
+- **匿名** (Oct 08, 2026 01:06am): 良すぎて滅
 
 #### Reactions
 - **Emojis:** 👍 (4)
@@ -524,7 +526,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1792025522&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uOR3rb9717PMlYvpHxW5ERJXmu2DR1LqREIfWZw32mlbMHN89QPP7mV%2FyPcnqbY%2BnRQNH9bjX2LqhGCSRmYEIFM5vAnh%2F8KWhoTlws1HPqXY1SSPOgKd5qGk%2Fwr8YFP3IwvlWR35Vy7I23LpaO9PPcOkRd1tLLLL5%2BVv86xMb1A1h65YKlse1v9xHpSBwKwS5bZqZRBRN6KcQXf2vbIgz03QUDetwQn5sbERn724fi2npbNsGJsZLkl2Wj7wTB9lgfmbwI1VvLKrT0YEIYMCMW2mlfKa4YeSpOopTKFVx1kp%2Fza6dydCD8mni0IMYbC%2FSYyn9dyPQWL%2FW4dLgzgOoA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1792029692&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VfBz3Vdvcf57kDd%2F7C%2B0snmmArrxG6R1zQe1ZyVFwNKQ1EUJGvU8I%2FWsH9VEy%2BkjBmQbSTEggZTraqh4qsBURmdSnXbL545CPsQq6ogVSxqv3XSIDRfmTUF438NmS%2FeFsgOl6QEefOvt%2BfYJOctZMYgZQsUlixO1mIRiBJCGUnkbnWnynFRGs1C5rTFv%2BK6%2FmMRWHkXZIaGHVFT%2BBf%2B2Ii5%2FTeFOB%2BE65rYNsKXmb9jaPwXzejWllI0pNrzFyw1XEM2BxM4Grk3DQ6z2Hpqh%2BusdaxNU1IAvoOk89hf6r%2FciPM7XCdxYintOaZntLu6xvRNkaxu5rMK9ecguEmTCFQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (1)
 - **かわうそkaitoプロキシー特殊探偵　初心者** (Oct 06, 2026 11:34am): ?
@@ -597,7 +599,7 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 31 votes
+- **学校のパソコン:** 33 votes
 - **自分のスマホ:** 2 votes
 - **自分のパソコン:** 3 votes
 - **その他:** 1 vote
@@ -612,7 +614,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 07, 2026 01:51pm
+- **Updated At:** Oct 08, 2026 01:17am
 
 ---
 
