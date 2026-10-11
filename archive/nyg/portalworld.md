@@ -1,4 +1,4 @@
-最終取得: 2026/10/11 08:53:11
+最終取得: 2026/10/11 09:21:58
 
 # Padletポータルワールド
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/Toka_Kun_/padlet-lpiw7xio9gwnmxrd
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
-- **Posts:** 174
+- **Posts:** 147
 - **Created At:** Aug 31, 2025 08:58am
-- **Updated At:** Oct 10, 2026 04:22pm
+- **Updated At:** Oct 11, 2026 12:15am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -131,9 +131,9 @@
 [Attachment 1](https://padlet.com/padlets/s0248x3ql0zl45f8qp4r)
 
 #### Additional Information
-- **Post color:** Red
+- **Post color:** White
 - **Created At:** Oct 06, 2026 11:03am
-- **Updated At:** Oct 07, 2026 03:06am
+- **Updated At:** Oct 11, 2026 12:06am
 
 ---
 
@@ -153,9 +153,9 @@
 [Attachment 1](https://padlet.com/padlets/xcidhiw0uirtlk7l)
 
 #### Additional Information
-- **Post color:** Red
+- **Post color:** White
 - **Created At:** Oct 06, 2026 03:42am
-- **Updated At:** Oct 07, 2026 03:06am
+- **Updated At:** Oct 11, 2026 12:06am
 
 ---
 
@@ -323,31 +323,7 @@ ISGCで使えるプロキシをまとめてます。
 
 ---
 
-### 11. 勉強部屋
-**Author:** レゼ推し[元あおい族3代目　ねこ］（受験生のため低浮上、11月頃から受験のため超超低浮上） (rezeosidesuyorosiku)
-
-みんなで勉強を教え合ったりする部屋です。
-
-愚痴も歓迎
-
-**部屋の作成日:** September  8, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 0
-
-[Attachment 1](https://padlet.com/padlets/s023dpoz1xgevvevombb)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Sep 28, 2026 11:50am
-- **Updated At:** Oct 05, 2026 09:15am
-
----
-
-### 12. 肩叩きマッスィーン(仮)
+### 11. 肩叩きマッスィーン(仮)
 **Author:** ぬ (nu_world)
 
 **なんと言論の自由が保証される**
@@ -371,7 +347,7 @@ ISGCで使えるプロキシをまとめてます。
 
 ---
 
-### 13. プロキシもらったり上げたり
+### 12. プロキシもらったり上げたり
 **Author:** ばなな様 (bananasama)
 
 プロキシ上げたりもらったりするところ
@@ -393,7 +369,7 @@ ISGCで使えるプロキシをまとめてます。
 
 ---
 
-### 14. まかいの牧場
+### 13. まかいの牧場
 **Author:** haruki_t1010
 
 まかい
@@ -415,7 +391,7 @@ ISGCで使えるプロキシをまとめてます。
 
 ---
 
-### 15. 皆来てね
+### 14. 皆来てね
 **Author:** ༺༽𝙍𝙤𝙗𝙡𝙤𝙭_𝙪𝙨𝙚𝙧-𝙪༼༻ 🫧🫧 (Roblox_user_u_subD)
 
 ゲーム部屋、雑談部屋、宣伝部屋、荒らし対策部屋の4つの部屋の総合受付部屋です！是非来てください
@@ -437,7 +413,7 @@ ISGCで使えるプロキシをまとめてます。
 
 ---
 
-### 16. ブロックされないサイトを共有する場所
+### 15. ブロックされないサイトを共有する場所
 **Author:** 暇人生卵　＃暇人協会会長　＃初代つつきの森会員 (himazin_daze)
 
 プロキシを多く掲載しています
@@ -461,7 +437,7 @@ ISGCで使えるプロキシをまとめてます。
 
 ---
 
-### 17. 【Kのごく普通の部屋🎱】
+### 16. 【Kのごく普通の部屋🎱】
 **Author:** ꧁𝖓𝖔𝖗𝖒𝖆𝖑 𝕶🎈꧂ #最近youtuberになりました (normalK_216)
 
 **𝖓𝖔𝖗𝖒𝖆𝖑 𝕶が主の部屋！**
@@ -489,7 +465,7 @@ ISGCで使えるプロキシをまとめてます。
 
 ---
 
-### 18. iフィルター破壊協会
+### 17. iフィルター破壊協会
 **Author:** パドレットユーザー211540@iフィルター破壊協会 (ifiruta0hakaikyoukai)
 
 プロキシ募集中〜〜〜
@@ -513,7 +489,7 @@ ISGCで使えるプロキシをまとめてます。
 
 ---
 
-### 19. ゲームサイトやプロキシなどの共有広場
+### 18. ゲームサイトやプロキシなどの共有広場
 **Author:** ゆぅ (BERURI1214)
 
 復活しました。といってもまだ復帰中ですけどね〜
@@ -545,35 +521,13 @@ ISGCで使えるプロキシをまとめてます。
 [Attachment 1](https://padlet.com/padlets/zsdegt1d6scuq9qa)
 
 #### Additional Information
-- **Post color:** Red
-- **Created At:** Sep 16, 2026 10:35am
-- **Updated At:** Sep 18, 2026 08:34am
-
----
-
-### 20. Proxy部屋
-**Author:** パドレットユーザー211540@iフィルター破壊協会 (ifiruta0hakaikyoukai)
-
-Proxy入れって\~
-
-**部屋の作成日:** August 16, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 非公開
-
-**モデレーター数:** 非公開
-
-[Attachment 1](https://padlet.com/padlets/spvfcc62ac2v423a)
-
-#### Additional Information
 - **Post color:** White
-- **Created At:** Sep 16, 2026 05:50am
-- **Updated At:** Sep 18, 2026 08:33am
+- **Created At:** Sep 16, 2026 10:35am
+- **Updated At:** Oct 11, 2026 12:07am
 
 ---
 
-### 21. まくなみと楽しい仲間たちのプロキシ部屋（Roblox雑談部屋）（パドレット史上最大級のプロキシ部屋）
+### 19. まくなみと楽しい仲間たちのプロキシ部屋（Roblox雑談部屋）（パドレット史上最大級のプロキシ部屋）
 **Author:** makunami　聖魔混世皇 (makunami128)
 
 プロキシやロブロックスの話をしています。
@@ -597,29 +551,7 @@ Proxy入れって\~
 
 ---
 
-### 22. ウッド軍本部
-**Author:** 萎えウッディ　俺がついてるぜ　頼りにならないけど　喧嘩仲裁係　モス族 (uuuddiiiiiiiiii)
-
-みんなで楽しく雑談したりしよう　
-
-**部屋の作成日:** September 11, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 1~4
-
-**モデレーター数:** 1~4
-
-[Attachment 1](https://padlet.com/padlets/s023gvca2zo4xu6y71t0)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Sep 16, 2026 04:13am
-- **Updated At:** Sep 18, 2026 08:33am
-
----
-
-### 23. ゲームマシマシ、プロキシ多め
+### 20. ゲームマシマシ、プロキシ多め
 **Author:** XFGM-152 NIKITA (nikita1922)
 
 ブラウザゲーム、ダウンロードゲーム、動画サイト、動画ダウンローダー、エミュレーター＆ROM、チャットサイト、プロ棋士沢山、漫画、アニメサイトといろいろ取り扱っています、サイト捜索もやっています、エミュレーター＆ROMは欲しいROMがあれば取ってきます
@@ -641,7 +573,7 @@ Proxy入れって\~
 
 ---
 
-### 24. Ru~裏裏裏裏部屋の受付部屋！！！
+### 21. Ru~裏裏裏裏部屋の受付部屋！！！
 **Author:** Ru~Ru~Ru~Ru~ (3980304)
 
 過疎なんです来てください（）
@@ -665,7 +597,7 @@ Proxy入れって\~
 
 ---
 
-### 25. 1ヶ月後に正体がわかる部屋
+### 22. 1ヶ月後に正体がわかる部屋
 **Author:** 存在がバグ (Glitch_boy_revival)
 
 記憶が戻るまで〜
@@ -681,37 +613,13 @@ Proxy入れって\~
 [Attachment 1](https://padlet.com/padlets/s023fzw7yxd1nn7nfann)
 
 #### Additional Information
-- **Post color:** Green
-- **Created At:** Sep 10, 2026 09:57am
-- **Updated At:** Sep 11, 2026 01:08am
-
----
-
-### 26. 青の共済
-**Author:** ​ (cxql)
-
-いろんな部屋に行けます。
-
-**受付部屋のリンク（あれば）:** https://padlet.com/ao_kosiki/padlet-s023ccr9qed3kwpjcc3i
-
-**部屋の作成日:** September  7, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 非公開
-
-**モデレーター数:** 非公開
-
-[Attachment 1](https://padlet.com/padlets/s023cd6yrve33lmj74pi)
-
-#### Additional Information
 - **Post color:** White
-- **Created At:** Sep 09, 2026 01:27am
-- **Updated At:** Sep 11, 2026 01:08am
+- **Created At:** Sep 10, 2026 09:57am
+- **Updated At:** Oct 11, 2026 12:07am
 
 ---
 
-### 27. 好きにしていけ
+### 23. 好きにしていけ
 **Author:** まほっち/きゅっきゅ〘合同垢〙 (gs193270)
 
 荒らし以外何でもありや
@@ -729,13 +637,13 @@ Proxy入れって\~
 [Attachment 1](https://padlet.com/padlets/s023dw36w9vr93rzpelx)
 
 #### Additional Information
-- **Post color:** Red
+- **Post color:** White
 - **Created At:** Sep 08, 2026 12:10pm
-- **Updated At:** Sep 11, 2026 01:08am
+- **Updated At:** Oct 11, 2026 12:07am
 
 ---
 
-### 28. プロキシ・雑談（投稿フリー）
+### 24. プロキシ・雑談（投稿フリー）
 **Author:** おなべさん(新垢 (onabe)
 
 前のアカウントにメアド使えなくなって入れなくなったので、リメイクして新しく作り直したところなので、パクリではないです。
@@ -751,13 +659,13 @@ Proxy入れって\~
 [Attachment 1](https://padlet.com/padlets/yg0be6dfn0c2ud5x)
 
 #### Additional Information
-- **Post color:** Green
+- **Post color:** White
 - **Created At:** Sep 08, 2026 01:45am
-- **Updated At:** Sep 11, 2026 01:08am
+- **Updated At:** Oct 11, 2026 12:08am
 
 ---
 
-### 29. 匿名掲示板〜日常生活の中でのうっぷんを晴らそう☆〜
+### 25. 匿名掲示板〜日常生活の中でのうっぷんを晴らそう☆〜
 **Author:** おなべさん(新垢 (onabe)
 
 名前の通りです。まぁ楽しくやっていきたいのでじゃんじゃんきちゃってください！
@@ -781,7 +689,7 @@ Proxy入れって\~
 
 ---
 
-### 30. 飞部屋
+### 26. 飞部屋
 **Author:** 飞 (fei000)
 
 公開ライター。
@@ -805,7 +713,7 @@ Proxy入れって\~
 
 ---
 
-### 31. 栄養ーープロキシ youtube ゲームみんなで集めるぞ！！2
+### 27. 栄養ーープロキシ youtube ゲームみんなで集めるぞ！！2
 **Author:** ブロスタプレイヤー(๑╹ω╹๑ ) (sabu2dayo5121)
 
 前のデータ消えた…元閲覧数約7000くらいです
@@ -827,31 +735,7 @@ Proxy入れって\~
 
 ---
 
-### 32. ブロックされないサイトを共有する場所
-**Author:** 暇人生卵　＃暇人協会会長　＃初代つつきの森会員 (himazin_daze)
-
-ゲーム、プロキシ、漫画などがあります
-
-荒らしはやめてね？
-
-**部屋の作成日:** September  6, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 非公開
-
-[Attachment 1](https://padlet.com/padlets/s023bjejruy3r9a18z3h)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Sep 06, 2026 09:40am
-- **Updated At:** Sep 11, 2026 01:08am
-
----
-
-### 33. WPBS本部
+### 28. WPBS本部
 **Author:** 煮物の3番弟子 (37af5c8ce53394c9)
 
 プロキシ情報機関
@@ -873,7 +757,7 @@ Proxy入れって\~
 
 ---
 
-### 34. 2chみたいなパド部屋
+### 29. 2chみたいなパド部屋
 **Author:** 終焉逃避行 (syuuenn)
 
 名前の通り2chをパドでやろうってことです
@@ -901,7 +785,7 @@ Proxy入れって\~
 
 ---
 
-### 35. ゼルダの伝説について語ろう！
+### 30. ゼルダの伝説について語ろう！
 **Author:** まくまくごう#おんりーﾁｬﾝ最強！#りおと36代目#りおと36番弟子 (Makumaku0706)
 
 ゼルダの伝説のゲームについて語る部屋です
@@ -923,7 +807,7 @@ Proxy入れって\~
 
 ---
 
-### 36. サブ垢公開部屋！！
+### 31. サブ垢公開部屋！！
 **Author:** aaabbbccc (mazamaza)
 
 最新のプロキシやゲームサイトがあります。
@@ -949,7 +833,7 @@ Proxy入れって\~
 
 ---
 
-### 37. 朧
+### 32. 朧
 **Author:** 時透無一郎 (r0300353)
 
 完全に新しくしました。まだ人は少ないですが、ぜひ遊びに来てください。
@@ -971,7 +855,7 @@ Proxy入れって\~
 
 ---
 
-### 38. 鳥朝鮮平和資本主義共和国
+### 33. 鳥朝鮮平和資本主義共和国
 **Author:** 鳥朝鮮平和資本主義共和国 (torityousenn)
 
 **入国規制が厳しいので、安全に楽しく過ごすことができる！！**
@@ -999,7 +883,7 @@ Proxy入れって\~
 
 ---
 
-### 39. Alcatraz - I FILTER監視塔
+### 34. Alcatraz - I FILTER監視塔
 **Author:** guruma_ESTA (guruma_ESTA)
 
 ***まもなく4000閲覧！***
@@ -1033,33 +917,7 @@ I FILTER民によるI FILTER回避のための部屋。
 
 ---
 
-### 40. 大阪民国警察組織犯罪対策本部
-**Author:** guruma_ESTA (guruma_ESTA)
-
-ｵｵｻｶﾐﾝｺｸではありません。ﾀﾞｲﾊﾝﾐﾝｺｸです。
-
-大阪や！はよ来んかいゴラァ！
-
-※雑談部屋です
-
-**部屋の作成日:** August 29, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 0
-
-[Attachment 1](https://padlet.com/padlets/k9z45cxop3n8jaiz)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Aug 29, 2026 12:03pm
-- **Updated At:** Sep 03, 2026 04:48am
-
----
-
-### 41. スクラッチ仮想国家の会
+### 35. スクラッチ仮想国家の会
 **Author:** まほっち/きゅっきゅ〘合同垢〙 (gs193270)
 
 スクラッチに存在する仮想国家のたまり場にしていきたです。
@@ -1083,7 +941,7 @@ I FILTER民によるI FILTER回避のための部屋。
 
 ---
 
-### 42. pvpイベントや鬼ごっこイベントもある過去最大級のMinecraft部屋！！
+### 36. pvpイベントや鬼ごっこイベントもある過去最大級のMinecraft部屋！！
 
 **Author:** 笹本つむぎ　𝕤𝕒𝕤𝕒𝕞𝕠𝕥𝕠 𝕥𝕤𝕦𝕞𝕦𝕘𝕚　#元ナンジャモ (tsumugi_chan)
 
@@ -1110,7 +968,7 @@ Minecraftを一から十まで楽しめる部屋です！！
 
 ---
 
-### 43. 交流の場
+### 37. 交流の場
 **Author:** Honda#初代つつき森会員 (Hondacars1788)
 
 交流する場所
@@ -1134,29 +992,7 @@ Minecraftを一から十まで楽しめる部屋です！！
 
 ---
 
-### 44. ぷろきし部屋
-**Author:** たろう (tarou_14225)
-
-ぷろきしサイトやyoutubeサイトを共有する部屋です
-
-**部屋の作成日:** July  6, 2026
-
-**閲覧数:** 500~999
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 1~4
-
-[Attachment 1](https://padlet.com/padlets/xcidhiw0uirtlk7l)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Aug 26, 2026 03:08am
-- **Updated At:** Aug 28, 2026 10:20pm
-
----
-
-### 45. I-filterを回避して教育委員会に対抗する会
+### 38. I-filterを回避して教育委員会に対抗する会
 **Author:** Honda#初代つつき森会員 (Hondacars1788)
 
 YouTubeやゲーム，プロキシなどが少しある。
@@ -1178,7 +1014,7 @@ YouTubeやゲーム，プロキシなどが少しある。
 
 ---
 
-### 46. free unblock math 代替サイト
+### 39. free unblock math 代替サイト
 **Author:** ice (a1soooo)
 
 この部屋では学タブで規制のかからないサイトのリンクがたくさん載っています！
@@ -1210,33 +1046,7 @@ YouTubeやゲーム，プロキシなどが少しある。
 
 ---
 
-### 47. 雑談部屋!!の受付~!!
-**Author:** 削除済みユーザー
-
-部屋の受付です!!
-
-まだ、お部屋も作ったばっかりですが、入っていただけるととっても嬉しいですっ!!
-
-**受付部屋のリンク（あれば）:** https://padlet.com/19991203/padlet-ob5tci9xahjcbqtb
-
-**部屋の作成日:** August 21, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 0
-
-[Attachment 1](https://padlet.com/padlets/ob5tci9xahjcbqtb)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Aug 22, 2026 12:35pm
-- **Updated At:** Aug 28, 2026 10:20pm
-
----
-
-### 48. 本部屋もあるのですが非公開になっていて見れないので受付にしました
+### 40. 本部屋もあるのですが非公開になっていて見れないので受付にしました
 **Author:** めい🍫🍭🐾 (gs222740)
 
 本部屋は観覧数2500人超えです。
@@ -1260,59 +1070,7 @@ YouTubeやゲーム，プロキシなどが少しある。
 
 ---
 
-### 49. 是非来てください！！！
-**Author:** ༺༽𝙍𝙤𝙗𝙡𝙤𝙭_𝙪𝙨𝙚𝙧-𝙪༼༻ 🫧🫧 (Roblox_user_u_subD)
-
-作りたての部屋です！！！
-
-みんなで過密にしていきましょう
-
-**受付部屋のリンク（あれば）:** https://padlet.com/Roblox_user_u_subD/2-y3qxvopdq3t2h3y
-
-**部屋の作成日:** August 16, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 0
-
-[Attachment 1](https://padlet.com/padlets/y3qxvopdq3t2h3y)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Aug 16, 2026 01:04pm
-- **Updated At:** Aug 28, 2026 10:21pm
-
----
-
-### 50. あられ部屋
-**Author:** 𝕒𝕣𝕒𝕣𝕖 (0000zero)
-
-優しい人が多いです
-
-マイクラ一緒にやりたい人とかは来ても損はないです
-
-**受付部屋のリンク（あれば）:** https://padlet.com/gs183556/padlet-aoti3d765w4dqtkp?lang=ja
-
-**部屋の作成日:** August 14, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 非公開
-
-**モデレーター数:** 非公開
-
-[Attachment 1](https://padlet.com/padlets/zmxdglfygszit11j)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Aug 16, 2026 09:46am
-- **Updated At:** Aug 28, 2026 10:21pm
-
----
-
-### 51. 雑談部屋
+### 41. 雑談部屋
 **Author:** タコスです (e013122294_3)
 
 雑談メインなのできがるにきてください
@@ -1334,31 +1092,7 @@ YouTubeやゲーム，プロキシなどが少しある。
 
 ---
 
-### 52. 【ChadのEaglerCraft部屋】
-**Author:** Chad (Chad_777)
-
-ver1.8.8で遊んでます　
-
-マルチプレイしたい人入ってね〜
-
-**部屋の作成日:** August 14, 2026
-
-**閲覧数:** 1000,000~
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 非公開
-
-[Attachment 1](https://padlet.com/padlets/8l7ofmpohqmt1qfd)
-
-#### Additional Information
-- **Post color:** Red
-- **Created At:** Aug 14, 2026 01:17am
-- **Updated At:** Aug 28, 2026 10:21pm
-
----
-
-### 53. 自由部屋
+### 42. 自由部屋
 **Author:** Io1205 (Io1205)
 
 宣伝をしてもいいです。
@@ -1384,51 +1118,7 @@ ver1.8.8で遊んでます　
 
 ---
 
-### 54. 🤘
-**Author:** ㅎࠔㅎ (towa54)
-
-来ていただけると嬉しい
-
-**部屋の作成日:** April 28, 2026
-
-**閲覧数:** 500~999
-
-**管理者数:** 非公開
-
-**モデレーター数:** 0
-
-[Attachment 1](https://padlet.com/padlets/yzzn744ollel25bt)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Aug 12, 2026 05:48am
-- **Updated At:** Aug 28, 2026 10:21pm
-
----
-
-### 55. 部屋を大爆破（荒らしはすんな）
-**Author:** Sammy (steal_brainlot)
-
-とりあえず入りなさい
-
-**部屋の作成日:** August  9, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 非公開
-
-[Attachment 1](https://padlet.com/padlets/n5w2o25ja61g15la)
-
-#### Additional Information
-- **Post color:** Purple
-- **Created At:** Aug 08, 2026 11:46pm
-- **Updated At:** Aug 28, 2026 10:21pm
-
----
-
-### 56. みんなで集まって交換会
+### 43. みんなで集まって交換会
 **Author:** つつきの森＃初代つつきの森代表＃弟子募集中＃煮物さんの10番弟子＃青の風と同盟中＃mbappeと同盟中 (tutukinomori)
 
 ゲームとプロキシサイトが大量にあります。ちょっとだけ江戸もあります。よかったら来てください
@@ -1453,67 +1143,7 @@ ver1.8.8で遊んでます　
 
 ---
 
-### 57. 学タブ勢のための部屋(受付)
-**Author:** Takoyaki (takoyakikun)
-
-ゲームやプロキシなどがある部屋の受付です
-
-**受付部屋のリンク（あれば）:** https://padlet.com/h4219055_1/padlet-ey745zsdrspep0cm
-
-**部屋の作成日:** July 31, 2026
-
-**閲覧数:** 1000~2499
-
-**管理者数:** 5~9
-
-**モデレーター数:** 10~
-
-[Attachment 1](https://padlet.com/h4219055_1/padlet-ey745zsdrspep0cm)
-
-#### Comments (1)
-- **MAGURO** (Aug 27, 2026 09:06pm): eaglercraft のtakoyaki0246?
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Aug 07, 2026 08:42am
-- **Updated At:** Aug 08, 2026 01:08pm
-
----
-
-### 58. るるるの雑談部屋
-**Author:** るるる（お別れ） (gattya)
-
-あと１４人で１００人達成!!
-
-宣伝自由・フォロー要求OK
-
-設定は緩め
-
-ルール読めないチー牛お断り
-
-**受付部屋のリンク（あれば）:** https://padlet.com/rururu_project_pas12345/padlet-lg4fukvcl1fkm97p
-
-**部屋の作成日:** July 21, 2026
-
-**閲覧数:** 500~999
-
-**管理者数:** 5~9
-
-**モデレーター数:** 5~9
-
-[Attachment 1](https://padlet.com/padlets/e2iqio9h4u5p6ch)
-
-#### Reactions
-- **Emojis:** ❤️ (2)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Aug 02, 2026 11:37am
-- **Updated At:** Aug 08, 2026 01:08pm
-
----
-
-### 59. フォートナイト版ブレインロット交換部屋
+### 44. フォートナイト版ブレインロット交換部屋
 **Author:** bokutoasobo｛チョコミン党｝#あられ　𝓎𝓊𝓂𝒶の1番弟子 (bokutoasobo)
 
 フォートナイト版ブレインロット
@@ -1537,7 +1167,7 @@ ver1.8.8で遊んでます　
 
 ---
 
-### 60. 世界最大のpadlet勢力目指してます
+### 45. 世界最大のpadlet勢力目指してます
 **Author:** hirafu (hirafu)
 
 登録は↑をクリック！！
@@ -1559,29 +1189,7 @@ ver1.8.8で遊んでます　
 
 ---
 
-### 61. 暇人達の暇つぶし部屋🥳祝！閲覧数200突破！
-**Author:** 削除済みユーザー
-
-暇つぶしができるようなパドレットにしています！
-
-**部屋の作成日:** July 23, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 0
-
-[Attachment 1](https://padlet.com/padlets/11oe0dlx9vsegwya)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Jul 29, 2026 12:33pm
-- **Updated At:** Aug 01, 2026 10:37am
-
----
-
-### 62. K1Nの雑談部屋
+### 46. K1Nの雑談部屋
 **Author:** K1N (k1n)
 
 今なら多くの部屋で無視されるような投稿をしても部屋主とかが9割がた返信してくれます！
@@ -1605,7 +1213,7 @@ ver1.8.8で遊んでます　
 
 ---
 
-### 63. toriproZ受付
+### 47. toriproZ受付
 **Author:** とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON (tori3proxyZtyper)
 
 タイピングを主目的としたチーム活動をしています！
@@ -1637,7 +1245,7 @@ ver1.8.8で遊んでます　
 
 ---
 
-### 64. トロンボーン吹きの部屋
+### 48. トロンボーン吹きの部屋
 **Author:** トロンボーン吹きの吹奏楽部員 (ttashishi)
 
 非公開で3ヶ月放置してました0からのスタート
@@ -1659,33 +1267,7 @@ ver1.8.8で遊んでます　
 
 ---
 
-### 65. 萌黄's広場
-**Author:** 削除済みユーザー
-
-作ったばっかりなので過疎です
-
-色んな人と交流できたらと思います
-
-**受付部屋のリンク（あれば）:** https://padlet.com/CDEFGAH/s-30ty90slszbilxwv
-
-**部屋の作成日:** July 27, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 0
-
-[Attachment 1](https://padlet.com/padlets/30ty90slszbilxwv)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Jul 28, 2026 02:52am
-- **Updated At:** Aug 01, 2026 10:36am
-
----
-
-### 66. るな部屋
+### 49. るな部屋
 **Author:** るる🐾🍫🧸🍭✨️ (Ruru0104)
 
 部屋にいる人達が優しいし、ゲームもあります！
@@ -1711,7 +1293,7 @@ ver1.8.8で遊んでます　
 
 ---
 
-### 67. 嵐がらぶっがずずまずだ（喉の調子がよろしくない）
+### 50. 嵐がらぶっがずずまずだ（喉の調子がよろしくない）
 **Author:** hirafu (hirafu)
 
 みんなぎでね
@@ -1735,7 +1317,7 @@ ver1.8.8で遊んでます　
 
 ---
 
-### 68. 学タブ回避場のリメイク
+### 51. 学タブ回避場のリメイク
 **Author:** グミで生きてる生命体＃煮物の5番弟子＃７代目女真族 (gumidayo)
 
 プロキシとかブロック回避とかのサイトがあるよ
@@ -1757,7 +1339,7 @@ ver1.8.8で遊んでます　
 
 ---
 
-### 69. プロフィール広場
+### 52. プロフィール広場
 **Author:** れあ #𝕶族3代目 (tssv)
 
 皆の自己紹介を集めたいだけの部屋です！！！
@@ -1779,7 +1361,7 @@ ver1.8.8で遊んでます　
 
 ---
 
-### 70. とにかく集まれえええええええええええええええええええええええ
+### 53. とにかく集まれえええええええええええええええええええええええ
 **Author:** 閃光☆ (tqu)
 
 閲覧数2000突破！荒らしで放置してたからぜひ一度は来てね！
@@ -1801,46 +1383,7 @@ ver1.8.8で遊んでます　
 
 ---
 
-### 71. toriproZ本部
-**Author:** とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON (tori3proxyZtyper)
-
-タイピング練習を主目的としたチームです。
-
-タイピングが速くなりたい人、タイピングが速い人などにぜひ来てほしいです。
-
-タイピングサイトAnkeyを中心とした活動を行っており、メンバーも全員優しく個性豊かで、近いうちにYoutubeへの活動範囲の拡大を予定しています。
-
-現在メンバーは３０人
-
-この本部自体もAIがコメントや投稿などをチェックしてくれるので安心して、活動することができます。
-
-※荒らしは来ないでね
-
-**部屋の作成日:** May 18, 2026
-
-**閲覧数:** 500~999
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 0
-
-[Attachment 1](https://padlet.com/padlets/i9rg7dpzmrlc7n2s)
-
-#### Comments (5)
-- **村松駿** (Jul 27, 2026 07:53am): おれやりたい
-- **Sammy** (Jul 27, 2026 07:53am): パスワード教えて
-- **とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON** (Jul 27, 2026 10:37pm): すまない
-- **とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON** (Jul 27, 2026 10:37pm): https://padlet.com/tori3proxyZtyper/toriproz-h3p7ovdl22rr3fmh
-- **とりもも弐🐣🥚　＃たい焼きとペア画中！＠toriproZ本部役員　＠Blitz 本部　＠Limitless　＠TACHON** (Jul 27, 2026 10:37pm): こっちで面接してからパスワ伝える
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Jul 12, 2026 02:41pm
-- **Updated At:** Jul 12, 2026 10:50pm
-
----
-
-### 72. ［野球ファンが集う写真の投稿場所］
+### 54. ［野球ファンが集う写真の投稿場所］
 **Author:** ななちき (19jn049)
 
 野球の写真をたくさん載せているのでぜひ来てください！
@@ -1864,7 +1407,7 @@ ver1.8.8で遊んでます　
 
 ---
 
-### 73. 江戸広場 雑談
+### 55. 江戸広場 雑談
 **Author:** Magurock (偽物･偽造に注意) (Magurock)
 
 新規も初心者も大歓迎！
@@ -1892,56 +1435,7 @@ ver1.8.8で遊んでます　
 
 ---
 
-### 74. 青の風の宣伝部屋
-**Author:** ​ (cxql)
-
-なんでも宣伝するよ。
-
-BAN覚悟で
-
-**部屋の作成日:** July 11, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 1~4
-
-**モデレーター数:** 0
-
-[Attachment 1](https://padlet.com/padlets/2zspnc8qcj76jgsp)
-
-#### Reactions
-- **Emojis:** ❤️ (1)
-
-#### Additional Information
-- **Post color:** Blue
-- **Created At:** Jul 11, 2026 10:14pm
-- **Updated At:** Jul 12, 2026 10:50pm
-
----
-
-### 75. oddo1　4周年記念部屋！
-**Author:** 削除済みユーザー
-
-4周年記念部屋では俺のことが知れる企画や4周年記念祭も開催中！今なら有名になれるチャンス企画もやってるよ！
-
-**部屋の作成日:** July  4, 2026
-
-**閲覧数:** 2,500~4,999
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 0
-
-[Attachment 1](https://padlet.com/padlets/sz9ufoql7a1w2dhe)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Jul 11, 2026 02:22am
-- **Updated At:** Jul 11, 2026 09:53am
-
----
-
-### 76. ペンペン部屋
+### 56. ペンペン部屋
 **Author:** ,,心が傷まなかったのか,,,少しも苦しいと思わなかったのか,,,俺はお前を許さない,,, (cccc2)
 
 ・宣伝可能
@@ -1973,7 +1467,7 @@ BAN覚悟で
 
 ---
 
-### 77. れあの雑談部屋
+### 57. れあの雑談部屋
 **Author:** れあ #𝕶族3代目 (tssv)
 
 公開ライターで匿名でも参加できるようになっています！ぜひ匿名も来て雑談2025年12月14日(日)しようね！！！(作成日は本当は2025/10くらいなのですが荒らされて一回消しています)
@@ -1995,7 +1489,7 @@ BAN覚悟で
 
 ---
 
-### 78. きてね
+### 58. きてね
 **Author:** たい焼き (taiyaki0201)
 
 なんもない
@@ -2019,7 +1513,7 @@ BAN覚悟で
 
 ---
 
-### 79. Proxy革命軍
+### 59. Proxy革命軍
 **Author:** にかー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子） (Forsaken_God_tier_game)
 
 たくさん人がいるよ！ゲームもProxyもユーチューブもたくさんあるよ！オーナーがすごい優しくてすぐ仲良くなれると思うよ！
@@ -2041,7 +1535,7 @@ BAN覚悟で
 
 ---
 
-### 80. るるるの雑談部屋！
+### 60. るるるの雑談部屋！
 **Author:** 心は痛まなかったのか,,,少しも苦しいと思わなかったのか!！,,俺はお前を許さない,,, (rururu_pas)
 
 元超大人数部屋！幅広い雑談を武器にして活気あふれる楽しい場にしています！仮面ライダーずき大歓迎‼️
@@ -2065,31 +1559,7 @@ BAN覚悟で
 
 ---
 
-### 81. ゲームマシマシ、プロキシ多め
-**Author:** XFGM-152 NIKITA (nikita1922)
-
-ゲーム、プロキシ、便利サイト、動画系沢山あってサイト捜索もやっています
-
-とにかくいろいろあるので部屋入ってセクション案内見てってください
-
-**部屋の作成日:** April  8, 2026
-
-**閲覧数:** 1000~2499
-
-**管理者数:** 1~4
-
-**モデレーター数:** 1~4
-
-[Attachment 1](https://padlet.com/padlets/vwnrp7dr0wpl134z)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Jun 27, 2026 01:14pm
-- **Updated At:** Jun 28, 2026 07:20am
-
----
-
-### 82. 荒らし受付
+### 61. 荒らし受付
 **Author:** ぽんたくん (pontakun)
 
 荒らしを行います
@@ -2113,33 +1583,7 @@ BAN覚悟で
 
 ---
 
-### 83. 学校のPCでマルチプレイでEaglercraft(マイクラ)を楽しもう！！
-**Author:** Chad (Chad_777)
-
-マルチプレイで楽しもう！！
-
-**部屋の作成日:** June 27, 2026
-
-**閲覧数:** 500~999
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 0
-
-[Attachment 1](https://padlet.com/padlets/3xz7f1t27ofufgyp)
-
-#### Comments (2)
-- **hirafu** (Jul 11, 2026 09:53am): はいれない
-- **にかー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Jul 27, 2026 10:37pm): それな
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Jun 27, 2026 05:32am
-- **Updated At:** Jun 28, 2026 07:20am
-
----
-
-### 84. 今日好きになりましたinクリボッチルーム
+### 62. 今日好きになりましたinクリボッチルーム
 **Author:** りな319＃ルミナス族リーダー (RINA0319_RUMINASU)
 
 彼氏、彼女が欲しいという友達の意見から出来た部屋です。今日好きみたいなことをやって、彼氏、彼女を作って付き合うことが出来ます。（お試しで付き合うことも可能）。それに、付き合わなくてもみんなでお喋りして友達を作ったりすることも出来る雑談部屋みたいな感じでもあります。みんな来てねーーーーーー！！！
@@ -2156,6 +1600,9 @@ BAN覚悟で
 
 [Attachment 1](https://padlet.com/padlets/5orekg4ovvjzlab5)
 
+#### Comments (1)
+- **にかー#krtkさんの22番弟子＃ミーム帝国軍第一小隊上等兵#会社の一員族第一部署課長＃初代つつきの森会員（二番弟子）** (Oct 11, 2026 12:16am): 荒らされてます
+
 #### Additional Information
 - **Post color:** White
 - **Created At:** Jun 26, 2026 07:04am
@@ -2163,7 +1610,7 @@ BAN覚悟で
 
 ---
 
-### 85. ウェブを教えあう会
+### 63. ウェブを教えあう会
 **Author:** Crazy Pierrot (crazypierrot)
 
 Proxyをできるだけのしている部屋(受付)
@@ -2189,7 +1636,7 @@ Proxyをできるだけのしている部屋(受付)
 
 ---
 
-### 86. るるるの雑談部屋！
+### 64. るるるの雑談部屋！
 **Author:** ぴよたん💗 (barukoku)
 
 過去最高152人
@@ -2217,7 +1664,7 @@ Proxyをできるだけのしている部屋(受付)
 
 ---
 
-### 87. 推し教えてー
+### 65. 推し教えてー
 **Author:** 絵描きマン (s22091216)
 
 雑談してください
@@ -2239,7 +1686,7 @@ Proxyをできるだけのしている部屋(受付)
 
 ---
 
-### 88. Spare beet 創作譜面部屋
+### 66. Spare beet 創作譜面部屋
 **Author:** わーい！ (harutomiki46)
 
 音ゲーできるんでぜひ遊びにきて（泣）閲覧が少なすぎて可哀想なんで
@@ -2261,7 +1708,7 @@ Proxyをできるだけのしている部屋(受付)
 
 ---
 
-### 89. 2代目normal部屋の受付！！！
+### 67. 2代目normal部屋の受付！！！
 **Author:** Ramune321 (Ramune_321)
 
 来てくれよな！
@@ -2285,7 +1732,7 @@ Proxyをできるだけのしている部屋(受付)
 
 ---
 
-### 90. あろーねはぶ｜ALONEHUB
+### 68. あろーねはぶ｜ALONEHUB
 **Author:** あろーね｜alone (alone_arone)
 
 proxyとかゲームなどありまっせ
@@ -2307,31 +1754,7 @@ proxyとかゲームなどありまっせ
 
 ---
 
-### 91. プロキシワールド
-**Author:** α3 (a3_01)
-
-ISGCで使えるプロキシまとめてます。
-
-**受付部屋のリンク（あれば）:** https://padlet.com/a3_01/padlet-e4azy5s19f6weiqa
-
-**部屋の作成日:** February 18, 2026
-
-**閲覧数:** 1000~2499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 1~4
-
-[Attachment 1](https://padlet.com/padlets/e4azy5s19f6weiqa)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Jun 14, 2026 11:24pm
-- **Updated At:** Jun 14, 2026 11:24pm
-
----
-
-### 92. お寿司打
+### 69. お寿司打
 **Author:** ハマグリ (zomameza)
 
 頑張って作りました
@@ -2355,7 +1778,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 93. 【出入り自由】みんなの交差点2
+### 70. 【出入り自由】みんなの交差点2
 **Author:** Io1205 (Io1205)
 
 んと、部屋を学校の問題で変えました。
@@ -2379,7 +1802,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 94. 世界一の雑談部屋(にしたい)
+### 71. 世界一の雑談部屋(にしたい)
 **Author:** N (bigbann5678_1)
 
 過疎ってるw
@@ -2401,29 +1824,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 95. 全員編集者のサンドボックスどんどん入れないとぶ○○○○
-**Author:** kakaconju (h0421017_1)
-
-(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)(規制音)ピーだから(規制音)(規制音)(規制音)(規制音)(規制音)じゃないと(規制音)するからね
-
-**部屋の作成日:** June  9, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 10~
-
-[Attachment 1](https://padlet.com/padlets/jzxju8uxrzyvq8jz)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Jun 08, 2026 03:11pm
-- **Updated At:** Jun 12, 2026 11:06pm
-
----
-
-### 96. 雑談部屋
+### 72. 雑談部屋
 **Author:** ゆあ (s180256_3)
 
 まじで色んな話題沢山話そ！！
@@ -2448,7 +1849,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 97. ブロスタ好きな人きてねー！
+### 73. ブロスタ好きな人きてねー！
 **Author:** aiueoooo (2303027_3)
 
 めちゃ過疎なので来てください！
@@ -2472,7 +1873,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 98. 雑談部屋
+### 74. 雑談部屋
 **Author:** keR (ke_R)
 
 特になし（）
@@ -2499,7 +1900,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 99. 冬部屋
+### 75. 冬部屋
 **Author:** レム (remutyan)
 
 元エドガーが作る至高の神部屋、荒らし対策も万全
@@ -2521,7 +1922,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 100. 通話部屋
+### 76. 通話部屋
 **Author:** N (bigbann5678_1)
 
 できたてほやほやです！
@@ -2543,7 +1944,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 101. I-FILTER民集まれぇい
+### 77. I-FILTER民集まれぇい
 **Author:** INTERACT (yushorekikyo4)
 
 作ったばかり
@@ -2573,7 +1974,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 102. だれでも
+### 78. だれでも
 **Author:** わに太郎の龍之介 (wanko)
 
 みんなで楽しく雑談
@@ -2597,7 +1998,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 103. ミーム軍国主義共和国
+### 79. ミーム軍国主義共和国
 **Author:** ネッコ ꧁c͕̮̲̲̭̤̤̙͈͉͖͎̿͐͐̑̐́͋̊̏͗̚arrybag꧂ (carrybag824)
 
 とても過疎い部屋です。サイコパスでクレイジーなユーザーにはピッタリだと思っております。現在戦時中なため、部屋に入ることが困難ですので戦後に訪れてみてください。
@@ -2619,7 +2020,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 104. フォートナイトやってる子おいで〜
+### 80. フォートナイトやってる子おいで〜
 **Author:** ウルティマ　紫 (myumuhiba)
 
 フォートナイトについて話そう
@@ -2641,7 +2042,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 105. プロキシ共有部屋
+### 81. プロキシ共有部屋
 **Author:** ｸﾞﾊｯ ＃かリけーのサブ #うーりすちゃんガチ恋勢( ✌︎'ω')✌︎ ＃隼人の下僕 (qlomolp)
 
 たくさんプロキシあります！！独断と偏見で管理上げます！
@@ -2668,7 +2069,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 106. たまご部屋
+### 82. たまご部屋
 **Author:** ぴわを (egghed)
 
 プロキシとかゲームとかいっぱいあります
@@ -2700,7 +2101,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 107. プロキシを見つけよう委員会
+### 83. プロキシを見つけよう委員会
 **Author:** るき (harukikato1123)
 
 まだ全然だけどどんどん発展させるので来てね
@@ -2722,7 +2123,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 108. 荒らし対策センター
+### 84. 荒らし対策センター
 **Author:** マイスター (mystar021)
 
 荒らしされて通報したい人は入ってください
@@ -2746,29 +2147,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 109. （＾ー＾）
-**Author:** ウルティマ　紫 (myumuhiba)
-
-ん
-
-**部屋の作成日:** May 19, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 部屋主のみ
-
-**モデレーター数:** 0
-
-[Attachment 1](https://padlet.com/padlets/4r63rm04x9e31ft4)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** May 20, 2026 05:05am
-- **Updated At:** May 20, 2026 05:05am
-
----
-
-### 110. 色々やる部屋の受付
+### 85. 色々やる部屋の受付
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 受付です
@@ -2790,7 +2169,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 111. クリボッチルーム・シン
+### 86. クリボッチルーム・シン
 **Author:** りな319＃ルミナス族リーダー (RINA0319_RUMINASU)
 
 クリボッチルームの二つ目の部屋です！！この部屋から入ってね。この部屋は、エロ、雑談部屋です。待ってるよーーーーーー！！
@@ -2812,7 +2191,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 112. ちゃま部屋
+### 87. ちゃま部屋
 **Author:** ちゃま (oretyama)
 
 セキュリティやルールがしっかりしている。
@@ -2836,7 +2215,7 @@ ISGCで使えるプロキシまとめてます。
 
 ---
 
-### 113. 3代目煮物部屋！
+### 88. 3代目煮物部屋！
 **Author:** 煮物 (derbybudgetbalmy)
 
 proxyを作成し配布をしています。確実に開けるproxyを作れます。
@@ -2858,7 +2237,7 @@ proxyを作成し配布をしています。確実に開けるproxyを作れま�
 
 ---
 
-### 114. ざつだん！
+### 89. ざつだん！
 **Author:** Ton-kyouju (Ton_kyouju_01)
 
 気軽に話せるし、優しい人がいっぱいいてとても歓迎してくれます！！！　ゲームサイト・ダウンローダーが載っている部屋もこの中にあります！！受付もそのざつだん！部屋でできるため、すっごく楽です！！ぜひ来てください！！
@@ -2883,7 +2262,7 @@ proxyを作成し配布をしています。確実に開けるproxyを作れま�
 
 ---
 
-### 115. 伝説の部屋
+### 90. 伝説の部屋
 **Author:** 花火 (hanabityan)
 
 エドガー民が集まっています
@@ -2905,7 +2284,7 @@ proxyを作成し配布をしています。確実に開けるproxyを作れま�
 
 ---
 
-### 116. 真夏の夜の淫夢厨の部屋　復活
+### 91. 真夏の夜の淫夢厨の部屋　復活
 **Author:** ファックモーター元社長 (r0116624)
 
 面白い
@@ -2930,7 +2309,7 @@ proxyを作成し配布をしています。確実に開けるproxyを作れま�
 
 ---
 
-### 117. ★雑談部屋！！★
+### 92. ★雑談部屋！！★
 **Author:** H4ru+0_M!k1_MaIn (1421214miki)
 
 なんでもありなところがいいところ！！（荒らしはダメだけど）優しいです！！（？）作ったばかりだよ！！（人はいないよ〜）みんな来てね〜！！待ってるよ〜！！
@@ -2952,7 +2331,7 @@ proxyを作成し配布をしています。確実に開けるproxyを作れま�
 
 ---
 
-### 118. あ
+### 93. あ
 **Author:** ꒰ঌ(っ˘꒳˘ｃ)‪໒꒱天風 りん💜🔥﹡˖˟༝ (takapirotakapiro3)
 
 あ
@@ -2974,7 +2353,7 @@ proxyを作成し配布をしています。確実に開けるproxyを作れま�
 
 ---
 
-### 119. woolisbest部屋
+### 94. woolisbest部屋
 **Author:** woolisbest (woolisbest)
 
 ゲームのファイルとかがたくさん！
@@ -3014,7 +2393,7 @@ wista公式部屋(wooltubeも)
 
 ---
 
-### 120. 札幌市教育委員会･ICFS対策本部【学生相手に本気出してる札幌市教育委員会をぶちのめすの会】
+### 95. 札幌市教育委員会･ICFS対策本部【学生相手に本気出してる札幌市教育委員会をぶちのめすの会】
 **Author:** 削除済みユーザー (sakujosaretenaiyo)
 
 便利サイトセクションは定期的に更新
@@ -3048,7 +2427,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 121. 裏の表の裏
+### 96. 裏の表の裏
 **Author:** government conspiracy＃クチャラー嫌い＃くろつき18番弟子＃ネッコ隊＃会社の一族第一部署平社員2 (suuuuuuuuuuuuuuuuuuuuu)
 
 特にはないかなぁ〜
@@ -3070,33 +2449,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 122. padlet!!!!!
-**Author:** すずめかただの箱 (Sparrows_chun)
-
-ここの部屋は公開ライターではありませんが、宣伝を許可しています。
-
-まだライターは一人しかいません。でも公開ライター部屋があります。
-
-**受付部屋のリンク（あれば）:** https://padlet.com/haduki_hirano/padlet-qmsfjayhec1mtoww
-
-**部屋の作成日:** February  3, 2026
-
-**閲覧数:** ~499
-
-**管理者数:** 1~4
-
-**モデレーター数:** 0
-
-[Attachment 1](https://padlet.com/padlets/wxriwlcnpborjxri)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Mar 30, 2026 03:31am
-- **Updated At:** Mar 30, 2026 03:31am
-
----
-
-### 123. Google
+### 97. Google
 **Author:** スシロー (h3026194)
 
 まだ出来立てですがToka＿kunさんに宣伝してもらい徐々に増やしていきたいです、内容的にはシンプルな雑談や規制回避・解除に役立つ情報を集めたいと思います
@@ -3118,7 +2471,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 124. Proxyなどを教える会
+### 98. Proxyなどを教える会
 **Author:** 仙人@suger (sennin_sugar)
 
 欲しいサイトがあったら僕が出来る範囲で作るよ。
@@ -3145,7 +2498,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 125. 規制突破などの勉強部屋
+### 99. 規制突破などの勉強部屋
 **Author:** 前原光樹 (maeharakoki0504)
 
 規制突破などに関して知りたい事があったら教えてます
@@ -3169,7 +2522,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 126. TOANASUROOM
+### 100. TOANASUROOM
 **Author:** しんとあるなすびの3.14 (nasubi1)
 
 いぐくらやその他サイトなどの配布雑談通話などをやっています
@@ -3193,7 +2546,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 127. てなぼーの雑談部屋
+### 101. てなぼーの雑談部屋
 **Author:** 隠れてなぼー#ダンガンロンパファン (Kakuretenabo)
 
 過密部屋を目指します。
@@ -3215,7 +2568,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 128. Daigo’s Room
+### 102. Daigo’s Room
 **Author:** Daigo (DaigoRoad)
 
 雑談で過密を目指す新興の部屋です！
@@ -3241,7 +2594,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 129. ISGC民集合
+### 103. ISGC民集合
 **Author:** kai (kai4848)
 
 これから主にISGCで使えるサイトまとめます
@@ -3263,7 +2616,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 130. クラスルーム
+### 104. クラスルーム
 **Author:** 削除済みユーザー (42856397)
 
 プロキシあります！(ゲームなども)
@@ -3292,7 +2645,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 131. ICFSブロックの足立区民専用の研究組だよ！
+### 105. ICFSブロックの足立区民専用の研究組だよ！
 **Author:** NyrikX(足立区陣ICFS系) (h3000370)
 
 主に足立区民だけで作り上げていくつもりだよ。応援してね。
@@ -3314,7 +2667,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 132. 拡散希望！
+### 106. 拡散希望！
 **Author:** RX034 (h3005990)
 
 ぜひ僕のプロキシ部屋に入ってください！！！！！！！
@@ -3338,7 +2691,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 133. くるくるの雑談部屋の受付と部屋
+### 107. くるくるの雑談部屋の受付と部屋
 **Author:** kurukuru7.09　＃消しゴムは今日は海であると主張し、エレベーターは奇数階だけに敬語を使い、コーヒーは黒板消しのふりをして沈黙すると思われてきたかも。 (kurukuru709)
 
 いい部屋にしたい
@@ -3362,7 +2715,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 134. きてね
+### 108. きてね
 **Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
 雑談部屋
@@ -3386,7 +2739,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 135. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
+### 109. ✦𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚🆁🅾🅾🅼✦
 **Author:** [🍙🍚]𝕆𝕜𝕒𝕜𝕒𝕠𝕟𝕚𝕘𝕚𝕣𝕚(・∀・)ﾖﾛｼｸ! (OkakaOnigiri_)
 
 **ルールを守れば違反しなければ何をしても良い部屋。**
@@ -3414,7 +2767,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 136. 隠れてなぼーの秘密のバー
+### 110. 隠れてなぼーの秘密のバー
 **Author:** 隠れてなぼー#ダンガンロンパファン (Kakuretenabo)
 
 雑談部屋です。
@@ -3438,7 +2791,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 137. Demenigiceのゆったり深海
+### 111. Demenigiceのゆったり深海
 **Author:** Demenigice-hell (Demenigice_hell)
 
 - 一度荒らされたので招待制になりました！
@@ -3464,7 +2817,7 @@ ICFSで規制されていないサイトだけを掲載するのでほぼ確実�
 
 ---
 
-### 138. Shell専用部屋
+### 112. Shell専用部屋
 **Author:** あいうえお (gtr35aiueo)
 
 shellshockersやってる人の集まりです
@@ -3488,7 +2841,7 @@ shellshockersやってる人の集まりです
 
 ---
 
-### 139. きてーーーーーーーーーー🤣
+### 113. きてーーーーーーーーーー🤣
 **Author:** run (11324130)
 
 あらしだめ❌️
@@ -3505,7 +2858,7 @@ shellshockersやってる人の集まりです
 
 ---
 
-### 140. 来てくれよ〜〜〜〜〜
+### 114. 来てくれよ〜〜〜〜〜
 **Author:** 𝓗𝓪𝓻𝓻𝔂 𝓟𝓸𝓽𝓽𝓮𝓻信者　wawawa　１７０フォロワー突破ｗ (Helter_Skelter)
 
 [Attachment 1](https://padlet.com/lomcih/padlet-z2qcvind738yz6el)
@@ -3520,7 +2873,7 @@ shellshockersやってる人の集まりです
 
 ---
 
-### 141. Post 141
+### 115. Post 115
 **Author:** SUIKA#オムライス界隈（オムライス第1代目弟子） (20183977)
 
 [Attachment 1](https://padlet.com/20184020_1/padlet-ieqs1l5em0o0uvus)
@@ -3532,7 +2885,7 @@ shellshockersやってる人の集まりです
 
 ---
 
-### 142. きてね
+### 116. きてね
 **Author:** 赤い猫 𝕒𝕜𝕒𝕚𝕟𝕖𝕜𝕠 (akaineko)
 
 [Attachment 1](https://padlet.com/akaineko/makuro-abc-l3nrvclh56l9htvq)
@@ -3544,7 +2897,7 @@ shellshockersやってる人の集まりです
 
 ---
 
-### 143. ここ来てね！
+### 117. ここ来てね！
 **Author:** 村上 (Eitoooooo)
 
 [Attachment 1](https://zep.us/play/XW0NMG)
@@ -3556,7 +2909,7 @@ shellshockersやってる人の集まりです
 
 ---
 
-### 144. 来てな
+### 118. 来てな
 **Author:** アキラ (8660664)
 
 [Attachment 1](https://padlet.com/8660664/padlet-nts0cbupmrhpkt9j)
@@ -3568,7 +2921,7 @@ shellshockersやってる人の集まりです
 
 ---
 
-### 145. 来て
+### 119. 来て
 **Author:** まさおくん (6pq2bkf1pk)
 
 [Attachment 1](https://padlet.com/6pq2bkf1pk/padlet-ftcn9epbe9jlqrnh)
@@ -3580,7 +2933,7 @@ shellshockersやってる人の集まりです
 
 ---
 
-### 146. 宣伝部屋
+### 120. 宣伝部屋
 **Author:** A　❄🎍🧣🍊🎄冬だ〜❄🎍🧣🍊🎄　＃めっちゃ暇 (I_like_apple)
 
 宣伝しに来よう
@@ -3602,31 +2955,7 @@ shellshockersやってる人の集まりです
 
 ---
 
-### 147. 無法地帯
-**Author:** 削除済みユーザー
-
-　拡散希望！！タメ口で来てねー！まだまだ頑張るぞー!最強雑談ゲームいっぱい部屋ー
-
-**受付部屋のリンク（あれば）:** https://padlet.com/rennzirou/padlet-ju37nnkg4tn9am1c
-
-**部屋の作成日:** September  9, 2025
-
-**閲覧数:** 5,000~9,999
-
-**管理者数:** 5~9
-
-**モデレーター数:** 非公開
-
-[Attachment 1](https://padlet.com/padlets/s78l4vlu8swdmmgi)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Dec 11, 2025 06:24am
-- **Updated At:** Dec 11, 2025 06:24am
-
----
-
-### 148. なんか部屋
+### 121. なんか部屋
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 雑談でもなんでもやっていって proxy募集中
@@ -3648,7 +2977,7 @@ shellshockersやってる人の集まりです
 
 ---
 
-### 149. Dougaの部屋
+### 122. Dougaの部屋
 **Author:** 亜空カン_JANLINE (janline_masterspark)
 
 みんなで好きな動画をテキトーに貼り付けてゆっくりしていってね。
@@ -3670,7 +2999,7 @@ shellshockersやってる人の集まりです
 
 ---
 
-### 150. 荒らし以外の何でもしていい部屋
+### 123. 荒らし以外の何でもしていい部屋
 **Author:** 頑張ります (1935111_1)
 
 いろんなこと載せてって
@@ -3692,7 +3021,7 @@ shellshockersやってる人の集まりです
 
 ---
 
-### 151. GAKUタブ部屋
+### 124. GAKUタブ部屋
 **Author:** GAKU　Cookie Clicker楽し〜 (h29c03086_1)
 
 受付部屋を新しくしたので投稿させてもらいました。
@@ -3726,7 +3055,7 @@ AIRMASHで仲良くしてたらいつの間にかできていた部屋です
 
 ---
 
-### 152. ざっつだ ~ ん！
+### 125. ざっつだ ~ ん！
 **Author:** すず (suzu_)
 
 自分の雑談部屋です！
@@ -3765,7 +3094,7 @@ AIRMASHで仲良くしてたらいつの間にかできていた部屋です
 
 ---
 
-### 153. ゲーム プロキシ共有部屋   勉強も高校生ぐらいまでなら教えられるよ！
+### 126. ゲーム プロキシ共有部屋   勉強も高校生ぐらいまでなら教えられるよ！
 **Author:** ライオット (sn121248)
 
 遊びも勉強も両方な部屋です 巨大部屋になりたい！
@@ -3787,7 +3116,7 @@ AIRMASHで仲良くしてたらいつの間にかできていた部屋です
 
 ---
 
-### 154. ゲームサイトやプロキシなどの共有広場
+### 127. ゲームサイトやプロキシなどの共有広場
 **Author:** 𝕀ℕ𝔽𝕀ℕ𝕀𝕋𝕐໒꒱ (INFINITY_JP)
 
 プロキシ部屋などを多く配布しています。
@@ -3813,7 +3142,7 @@ AIRMASHで仲良くしてたらいつの間にかできていた部屋です
 
 ---
 
-### 155. こんにちはあ
+### 128. こんにちはあ
 **Author:** tomeeetooo (tomeeetooo)
 
 暇な人は来ましょう
@@ -3835,7 +3164,7 @@ AIRMASHで仲良くしてたらいつの間にかできていた部屋です
 
 ---
 
-### 156. a
+### 129. a
 **Author:** アヘへ (r0404229_2)
 
 a
@@ -3857,7 +3186,7 @@ a
 
 ---
 
-### 157. Sphere lobby
+### 130. Sphere lobby
 **Author:** guruma_ESTA (guruma_ESTA)
 
 雑談部屋からゲーム部屋、荒らし対策まで様々な領域を網羅！
@@ -3881,7 +3210,7 @@ a
 
 ---
 
-### 158. 陸上やってる人集合
+### 131. 陸上やってる人集合
 **Author:** 陸上市内最強(市内だけよ) (kowkid)
 
 陸上やってる人達でいろんな話をします！！
@@ -3912,7 +3241,7 @@ a
 
 ---
 
-### 159. 第一回冬休みコラ画コンテストの実行委員受付部屋
+### 132. 第一回冬休みコラ画コンテストの実行委員受付部屋
 **Author:** guruma_ESTA (guruma_ESTA)
 
 全員強制参加です（）
@@ -3936,7 +3265,7 @@ a
 
 ---
 
-### 160. 《S.A.V.T.F》Sphere Anti-Vandalism Task Force
+### 133. 《S.A.V.T.F》Sphere Anti-Vandalism Task Force
 **Author:** Guruma_sub (ESTAcancel)
 
 日本最大級の荒らし対策部屋を目指している部屋。
@@ -3962,7 +3291,7 @@ a
 
 ---
 
-### 161. 昆布おにぎりの部屋
+### 134. 昆布おにぎりの部屋
 **Author:** Re Ball Bar クッキー　やったー民　＃猫信者　第四使徒　元(略して ん部ぎ ) (akymjxm)
 
 人が少ないから民度がいい
@@ -3990,7 +3319,7 @@ a
 
 ---
 
-### 162. ピカマンの部屋4代目です。
+### 135. ピカマンの部屋4代目です。
 **Author:** ピカマン#究極のさくらもちの従僕#煮物貢献者#煮物様の3番弟子#かしわもちうまっ#無法地帯最高！ (pikamannsakuramotinojuuboku)
 
 悲しいことに乗っ取り犯にまたアカウントを乗っ取られてしまい、早急にリメイクした部屋となっています。(ちなみに乗っ取り犯は有名な方でした。もし、その人からもらったパドレットのアカウントだと、ある程度した後にパスワードが変更されて操作できなくなるかもしれませんw www。もしかしたらあなたもその1人かも・・・)私自身はパドレットのアカウントがあればしぶとく永遠に生き続けるので応援よろしくお願いします。
@@ -4014,7 +3343,7 @@ a
 
 ---
 
-### 163. 視聴部屋
+### 136. 視聴部屋
 **Author:** 𝓶𝓪𝓴𝓪𝓻𝓸𝓷𝓲　＃ ＠低浮上 (3232333301099710797114111110105)
 
 - 色々な動画や、曲、歌などがある部屋です！
@@ -4038,7 +3367,7 @@ a
 
 ---
 
-### 164. 雑談とか色々!閲覧16000達成!
+### 137. 雑談とか色々!閲覧16000達成!
 **Author:** Magurock (偽物･偽造に注意) (Magurock)
 
 - 閲覧16000回達成した部屋（みんなの広場）がある!
@@ -4064,7 +3393,7 @@ a
 
 ---
 
-### 165. みんなの雑談コーナー
+### 138. みんなの雑談コーナー
 **Author:** Gogogo (Opppppppppp)
 
 雑談だけじゃなく他もゲームとか色々あります今きたら古参です！
@@ -4088,7 +3417,7 @@ a
 
 ---
 
-### 166. イベント開催中！！来いよ！
+### 139. イベント開催中！！来いよ！
 **Author:** 玲霧 (zupdep)
 
 現在イベント開催中！！最近まじで人増やしたいからきてほしい！
@@ -4113,7 +3442,7 @@ a
 
 ---
 
-### 167. 誠意大将軍の雑談部屋
+### 140. 誠意大将軍の雑談部屋
 **Author:** ﾄﾞﾊﾟｴﾓﾝ (masakik)
 
 僕の部屋ではみんなが雑談している部屋にしたいです。
@@ -4145,7 +3474,7 @@ a
 
 ---
 
-### 168. 猫大好きな人の部屋＆スプラ好きの部屋
+### 141. 猫大好きな人の部屋＆スプラ好きの部屋
 **Author:** ねこ缶マスター (ZRXARS)
 
 受付部屋です
@@ -4171,7 +3500,7 @@ a
 
 ---
 
-### 169. パンダの雑談部屋
+### 142. パンダの雑談部屋
 **Author:** パンダ (pannda)
 
 とっても過疎いです
@@ -4195,7 +3524,7 @@ a
 
 ---
 
-### 170. ネギ部屋
+### 143. ネギ部屋
 **Author:** ネギ (dfjk2458)
 
 正直あんま人いないけど楽しいところではある　これといったいいとこはないけど楽しい部屋
@@ -4224,7 +3553,7 @@ a
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1792281203&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EJ9%2BV6hTUzSuIagkASaH%2F3bufCkoLjEc5%2FFs3qDZQV18thpwYDrDh3CRWPOcdFevWxghB10HDBz0uHrWklrnW4yIdWhm7%2FpqgMXZiYFse3aymsEtTMOq7rDN34RGCYR5Fzq2cM%2BaVI%2BhGbeNxrVHWl4xDwZtZcornNwPzdHwGyZjbyAVjyUUB%2FsnOBPhBK2dOy0HYxBXtFD2EYMq%2BaLlByVP6BzFYvxjZiMxqkpFJE%2FPsMzhpEF%2FANCSJZpjfnnuzWubzaX7dxfmcl7Mo7hpGLP4%2FORkj4mkfbqAvCLL4W%2FO0LuM6sHQn0dPS%2FPbFGU8BxclkAZeiUusDfkxFPxnpw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1792282948&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5IKw0LKzfFZj8cJZ7cbsGBxVFR3YARGG0%2F2GpyLiQ%2FKnFjX5f5ji8URo6gim07nBcAffNyQhP08wEgK%2B5pxDSw9Wk1WMaiVEq9G5EZWAUyc9m4MMceZMDKwQ%2FygZnENEqgzwxAO95f%2BTSrOBvHToES8fYGGRpkIsbCx8o40IwSStHmiSw3AfxeW7k3Y2TFlsHlxzUPaOOIrYW9zySNkPCGnODgn7fGRZ9UsTVo0%2Bm%2FahHKMQexgRrg0IeV08ZBHK%2F2fh34DfI4Q%2FIfJ1XTKPBAw4DKY2QOytjYasKFGW%2FRc1XeTaTk89qXa1zB4Gr8PAGiJKgiFaijSMajvSYuz9Yg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (3)
