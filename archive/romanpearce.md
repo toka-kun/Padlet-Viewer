@@ -1,4 +1,4 @@
-最終取得: 2026/10/11 08:53:11
+最終取得: 2026/10/11 09:21:58
 
 # シーズン2「学校のパソコン規制回避」ローマン部屋
 
@@ -546,7 +546,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5209361250/ef56149b4637d8ba5e21bbf733449304/Screenshot_2026_10_10_21_16_37.png?Expires=1792281256&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=z5ukpdJoKMFnhM0vA4l9Eyc7TfXZRxN0qs7KwChc2r%2BHBip8ELDax7lVzCkRATFogFZoUdVy%2BlUJJ8BG2e0WgIXw%2FE9opZ2gEU%2BIXpEJaMZ5m1nYyCwjHrQCPshqoR1gMkOdsExFYZYZ7T31tlk3%2FcEkF73UZ9Toxe%2FC0ulMqSlXmjSUZhDnkkPN0ClsBWFxY9RUdYRjF4N5kRalu9%2Fr3wbNWZxAKDpllEriTThBiMz5fd6%2BK3E%2BKpm5sDx4VbkCEtten6Wkxkj7s8OqzyXfmcQNtfXSYU65HTUklp8xzaZGISOR8HaIIkYgBijrTOYWAS9Ru3CWxH%2BA8F0kqtxuGg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5209361250%2Fef56149b4637d8ba5e21bbf733449304%2FScreenshot_2026_10_10_21_16_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5209361250/ef56149b4637d8ba5e21bbf733449304/Screenshot_2026_10_10_21_16_37.png?Expires=1792283003&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LRhKLad4OSiWXXn4UOEBO1X1Gi1DBdVk5L1hWxSI2u8y9l2vVSKhdCTIylaHXsfrG%2FqRuVSTp8jwhbbmxF9PIhQa3qz0FEy0jgxB62ojRcn1%2F5rrk0jgElLGYxjMnCC3DALqvh7%2FJotWno8LE91kk5hMamuBpfdsPrH%2BjHs1zuevd6Vdbrbo%2F5mhwhBbZKO6u2Vv7NvqpDqPwBCUjql9P7epMsCUdI%2BoBJcZlTGP6LDeze090Mjcxn4zzrT2xMP9JYPG%2BspHFx%2B5YhvmWDJ12eSEDD6KdiLShm37al6w93AQHYsF5QyvMn3PU6cTI9ra6b3m9CHXRUfeXF3n%2FOahcQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5209361250%2Fef56149b4637d8ba5e21bbf733449304%2FScreenshot_2026_10_10_21_16_37.png)
 
 #### Additional Information
 - **Post color:** White
@@ -564,7 +564,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/ed2d5d1007606ac9a0b67aa488352550/canvas__10_.png?Expires=1792281256&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VmV34HqqLRobb8w1dpi7SsCQhDsw2wVdQBa0sq5HSiIAIBYGzD%2FJqg%2B231FDRR5YdflKn73UG20ZyDzmRlHoRMDz1OUMWGcra8U0NmfCmYUP0aRINZYYWLNDg7rTtQ%2BykCSH%2FP4HXZeFyFnzm5CNd2Ik8We319bxouKB2nZNBQJeH4VTd%2Fd1xB9Lhcm%2FNWJWjMEhiaQt5u4mUk%2FtAWA2WvCjGFAr2deg7jgVKZvYW5EHBC3BFSfPDhTeR0axONNZIEVM1kLXuBgD8V4kq4x08g64IMHcU8tj1q72YEayZHt%2BG9k%2B%2BSRL0fqYPMy7g7IP2oImYIKHDwSCBnOILxx8Gw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Fed2d5d1007606ac9a0b67aa488352550%2Fcanvas__10_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/ed2d5d1007606ac9a0b67aa488352550/canvas__10_.png?Expires=1792283003&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=3BwO2cQPsUkZsQsAPekvSZoqw2ITq91fw571On%2Fp%2BydxlLVZ8%2Fp9uTzT%2B58guztIT0TwuTkq4gz4VZJJEsa08t%2BI8%2FccnMWdolqkONyvRELDMcihf55NnwhCGkMjpgAwUQfVi0d3tgo7KF9qajaynMRcZOg7Eil5GHlCWUnY3gNH2QyMngApno6jIqrJFAlHNPE454QZvQ5kC%2BbagqmMtjQ5WQY83ud2PLaroqJbfEdr1R9KW1DDy41ZgrHIdvr2pjeK7CRADOxfXz0D1QgsmKM4HDW0SIAiQBriaRPQ5QIXuk1GmrpxJk4nhufcvndbE8RgaBikX%2F0pF5SQQ5a64Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Fed2d5d1007606ac9a0b67aa488352550%2Fcanvas__10_.png)
 
 #### Comments (1)
 - **だいまた** (Oct 09, 2026 04:22pm): うまいね
@@ -583,7 +583,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/7bc82b8bda300f99ad7a15685e7171f7/canvas__9_.png?Expires=1792281256&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lOGPAh9OnfWOYxF3UpSGR%2F7fY7zUkFpv4ZlR1epPjXr2ldbrfPFNrGomQ%2FsxKg%2FshPAev9YjVFz3HAkohNIXRp7pYIFDZn7RKsoJV6MRYzdAOfHb3zFg6NTDXM9f7xIYPzZ3AJekuXHI9x0r1ko15EBtHXxUG7jVwppaSKB37USeas0BA8d5YnsKfRB18ruXYfaOI0gLbQ7egJ89dpFKcAK3OMOZZPDTlatyb9rdNT034rh5SwBgr9pKrZjKHGkgO7%2BaUMZmhrJGOS6TqScEZwQV3k2dbgyILBpDZLPJX%2Ftvh5IjbJH0DayihbaoSzWO0NB2NgGdp28PeIzUb2ceeQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2F7bc82b8bda300f99ad7a15685e7171f7%2Fcanvas__9_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/7bc82b8bda300f99ad7a15685e7171f7/canvas__9_.png?Expires=1792283004&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DHau%2FhOUiWof%2BEhgZ3l0SNRcPcE43xyptaRvXG9ISKc6BoOuP9HYa%2FznlYubLLupG9FmYUwaBVtQEVFgR2UwpVfxdSsW5bHanC4Tl6tnLFt%2F5rM0DxDOPk3qHsELUtAp5ipQon5igzc3K1RHw%2FvhHuIAXI1%2FRehIxxGp5bfbKc1rxyGizJh2vrgYqDAeTzEJazTPa%2BVbZzy414K37QHvtziGu9waHyEviZXkstV48w4c93%2FglxQPmm%2FmLYpBalEscuZQVl5kWdyNhNJYCeOZ6yPy21EYYbKdCVVju653W%2Fo6HCCIbUEACnkpnrHpuxxC3Reg3vp6mhaNbBG7%2BK47aw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2F7bc82b8bda300f99ad7a15685e7171f7%2Fcanvas__9_.png)
 
 #### Comments (1)
 - **ホロライブオタク** (Oct 09, 2026 04:07am): 描いてみました
@@ -604,7 +604,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1792281256&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zti3olxNkkzM24Pq9fe7ZAmaTvphHEbpYKz8Sy3ZBOydhHRjDhK24S%2FZrXdf%2Fe%2FNTvsuP%2Fng1TOneJeA0i2LECO4XyuoMUcJiwiyB0NCocxMadgQfFeiin8Ad9uzgf5Om8vWG4j8PbQtwcJTFeSYo2KWo1tLWEfrIINPWmAb0wyVIz87PERfWvyQi%2BHF59hK3mmKF%2FS%2BfcC%2FDF1RAZoRPytiuxu%2FeMVULMdxvh6eWA5CZcpumMFFij7fOjs1qwTA1U6uXyDJcV3Q8WCrrj8%2B67mKWDXRlv4SmmCQivcm0fgOuN0NC6GbguUNMfkYM89MT%2FhqtdCwyDZvpju2czykmw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1792283004&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VQRm4bxYuPqq24zji6o1MQusnI7V%2B9%2BXKVZ4R7HsvMiQ7Ul4jUMjDFdThQ9AWvnW%2FjjSuxEiEX9oc%2BYJrmQDZCRbX7psrGhKpArKHuA%2FP3YqUUww%2FCXDiNBwoJD5ZFheR3NxHdFJ8nekI9uzjsN4PGOXxzH0Sp9W6oxj0tjvCxxRGXu2ahfO%2BO4jg9TgSmoDGQp2u3rhLLIoA2gYzO93JheGtC7Ty5x1zgK21j45YOFjA1O13ekv0HfxEm0KfJeV873%2F27kn3fTNIdKevDpIWbcACYmwIP389uMIhQk5iJuo3AXv9JkdUucKt%2FUvFbAwFmqJJ5arHmLZt1XoJNaRrQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Comments (3)
 - **える** (Oct 06, 2026 10:28am): 素晴らしい
@@ -644,7 +644,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1792281256&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=L8PP2XBrg%2BiNc54mfvikH1bRW%2BuYkb3GWDkmlotwj8I%2FdJKPQMuG3TPjWWyHben7kYA4fd9aKzgPuDFCleLI4sZjB3Hjib2UVSw7EF7jEWNDJckqRQohI2QJZkXbSd4bdr6lE7UUMAo818h%2BL6oG89yM8ZUH%2FS0dq5yhVDsAG03nfPtnWBbTPCMbkp%2BLCO4PMyMF1iEPUT%2BgjSbx3lXlwMx5tc05gawT7j6OqMgwLgbzuiQELeL%2FGiAsTb%2FsOC6y5wZxZnfPn0ulO2SwEPrzeNq8mQagz09cr9De5mRECEFqd9Plo4gI2grkSUsHBCHblmCmZQxF4iUxNZGyTQk9Ow%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1792283004&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zbJHEPXlbwrTwoAvIG7xq6sPPbs5EIxsKOaUq2GTaZvcmdU8x3e1zmkWeloJ0HctdqFKvZphtIyIr790mlrXJO7vV47WeC3XeeotjMIMXP76nwCQJJAFS%2BsqAovl9VdWH5fESVY4xPL%2Bw8o0xIsLgG2KXSFjk8a%2BkTWi1011JlaFgzXFng9bmVzMvZBqyOo1rbFsuQ8k8plvrmu11XIWCUK4mgF9vBlfDCf0sDLiZwvMY2BcELiisTi6APaPyqCdgAjvllxAum3Pd76o7NXOfjolY1hi1%2ByWkVWFODq76hcdEHjUT%2F%2B1zeAtcGjO8On0HoJDDH6jGPKQEMuOXa9oiA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (1)
 - **かわうそkaitoプロキシー特殊探偵　初心者** (Oct 06, 2026 11:34am): ?
@@ -731,7 +731,7 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 43 votes
+- **学校のパソコン:** 44 votes
 - **自分のスマホ:** 2 votes
 - **自分のパソコン:** 3 votes
 - **その他:** 2 votes
@@ -746,7 +746,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 10, 2026 01:38pm
+- **Updated At:** Oct 10, 2026 11:59pm
 
 ---
 
