@@ -1,4 +1,4 @@
-最終取得: 2026/10/12 00:36:21
+最終取得: 2026/10/12 03:07:03
 
 # シーズン2ローマン部屋
 
@@ -79,7 +79,7 @@ No post
 #### Comments (3)
 - **おじゃる丸** (Oct 11, 2026 11:54am): 轢き逃げ犯
 - **れいちゃん** (Oct 11, 2026 11:55am): くさ
-- **だいまた** (Oct 11, 2026 02:36pm): くさ
+- **だいまただよ！   ハロウィン！！** (Oct 11, 2026 02:36pm): くさ
 
 #### Additional Information
 - **Post color:** White
@@ -94,7 +94,7 @@ No post
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (2)
-- **だいまた** (Oct 11, 2026 03:44am): やほ
+- **だいまただよ！   ハロウィン！！** (Oct 11, 2026 03:44am): やほ
 - **ヤチヨ　推し** (Oct 11, 2026 05:05am): やおよろ〜
 
 #### Additional Information
@@ -216,32 +216,32 @@ No post
 ---
 
 ### 12. だいまただよ
-**Author:** だいまた (daimatadao)
+**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (26)
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:24am): お前今サマラン行ってんの？
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:24am): 今日祭り行かね？
-- **だいまた** (Oct 04, 2026 03:24am): 今日じゃない
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:24am): 今日じゃない
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:25am): あそうなん
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:25am): 遊ぶぞ
-- **だいまた** (Oct 04, 2026 03:25am): うん
-- **だいまた** (Oct 04, 2026 03:25am): むり
-- **だいまた** (Oct 04, 2026 03:25am): なんでこうなったの？
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:25am): うん
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:25am): むり
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:25am): なんでこうなったの？
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:25am): なんでやねん
-- **だいまた** (Oct 04, 2026 03:26am): なんでこうなったって聞いてんだよ😠
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:26am): なんでこうなったって聞いてんだよ😠
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:26am): どゆこと？
-- **だいまた** (Oct 04, 2026 03:27am): なんでなにもないの
-- **だいまた** (Oct 04, 2026 03:27am): これ
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:27am): なんでなにもないの
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:27am): これ
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:27am): しらねーよ
-- **だいまた** (Oct 04, 2026 03:27am): は？
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:27am): は？
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:27am): は？じゃねーよ
-- **だいまた** (Oct 04, 2026 03:27am): もういいわ
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:27am): もういいわ
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:27am): なにおまえ知らないから知らねーよって言ってんの
-- **だいまた** (Oct 04, 2026 03:28am): もうやだ
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:28am): もうやだ
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:28am): [Attachment](https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q/wish/PR3NWxq13n1yab0O) こういうことだろ
-- **だいまた** (Oct 04, 2026 03:29am): だれがあらしたの？
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:29am): だれがあらしたの？
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:29am): しらん
 - **ポタリック** (Oct 04, 2026 02:13pm): 多分ねっこ？
 - **ポタリック** (Oct 04, 2026 02:14pm): 知らんけど😕
@@ -266,7 +266,7 @@ No post
 - **影** (Oct 07, 2026 12:15pm): それはマジでそう
 - **影** (Oct 07, 2026 12:15pm): 一瞬で荒らされるからね
 - **れいちゃん** (Oct 07, 2026 01:23pm): 俺の部屋笑える
-- **だいまた** (Oct 07, 2026 01:33pm): ローマンがやったとおもう
+- **だいまただよ！   ハロウィン！！** (Oct 07, 2026 01:33pm): ローマンがやったとおもう
 - **ローマンピアースのスマホ垢本物** (Oct 07, 2026 01:34pm): してないっすね
 - **れいちゃん** (Oct 07, 2026 02:31pm): くさ
 
@@ -295,7 +295,7 @@ No post
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (3)
-- **だいまた** (Oct 06, 2026 12:40pm): ありがとう😊
+- **だいまただよ！   ハロウィン！！** (Oct 06, 2026 12:40pm): ありがとう😊
 - **れいちゃん** (Oct 06, 2026 11:46pm): うん
 - **れいちゃん** (Oct 06, 2026 11:46pm): 0幅にしないとね
 
@@ -307,7 +307,7 @@ No post
 ---
 
 ### 4. れい荒らさないなら管理あげる
-**Author:** だいまた (daimatadao)
+**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -315,11 +315,11 @@ No post
 - **れいちゃん** (Oct 06, 2026 11:17am): うーんどうしよ。。
 - **れいちゃん** (Oct 06, 2026 11:17am): ちょい待ってね
 - **れいちゃん** (Oct 06, 2026 11:18am): おけ、荒らさんこれからは
-- **だいまた** (Oct 06, 2026 11:25am): おけ
-- **だいまた** (Oct 06, 2026 11:25am): おれは信じます
+- **だいまただよ！   ハロウィン！！** (Oct 06, 2026 11:25am): おけ
+- **だいまただよ！   ハロウィン！！** (Oct 06, 2026 11:25am): おれは信じます
 - **れいちゃん** (Oct 06, 2026 11:27am): うん
 - **れいちゃん** (Oct 06, 2026 11:27am): 流石に契約は守るよ
-- **だいまた** (Oct 06, 2026 11:28am): ありがとう
+- **だいまただよ！   ハロウィン！！** (Oct 06, 2026 11:28am): ありがとう
 
 #### Additional Information
 - **Post color:** White
@@ -394,7 +394,7 @@ No post
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (1)
-- **だいまた** (Oct 04, 2026 07:23am): なんだよ
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 07:23am): なんだよ
 
 #### Additional Information
 - **Post color:** White
@@ -409,7 +409,7 @@ No post
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (2)
-- **だいまた** (Oct 04, 2026 05:52am): おれ潜入して荒らしたのもなつい
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 05:52am): おれ潜入して荒らしたのもなつい
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 05:53am): くさ
 
 #### Additional Information
@@ -429,11 +429,11 @@ No post
 ![Attachment 3](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/3866745131/52956c638a11445e3d12c6d046ae79ea/1000007637.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio3wVNlgSsJTKbxwWfY8p7S0yrgUnHta5gE7lTJtFTIEl3--SKPbGBTVlprdjHp6WdPaOeVPh6dEwYBXm7oEkHO0lH9-SinbMZ8qzBp8rxzomnBhPm_OTFwEEkzDAqQZ-LqmOMoO9wdC5uet12WTXHro=)
 
 #### Comments (6)
-- **だいまた** (Oct 04, 2026 05:14am): Uなんたらがやったってこと？
-- **だいまた** (Oct 04, 2026 05:15am): れいがやったの！？
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 05:14am): Uなんたらがやったってこと？
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 05:15am): れいがやったの！？
 - **生きやがれ** (Oct 04, 2026 05:39am): レイがこのとき重い荒らしを作っていて、この部屋のリンク載せたあとに重い荒らしで荒らされたのでおそらくレイだと思います
-- **だいまた** (Oct 04, 2026 05:53am): もうかなしい🥲
-- **だいまた** (Oct 04, 2026 05:53am): 信じてたのに
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 05:53am): もうかなしい🥲
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 05:53am): 信じてたのに
 - **れいちゃん** (Oct 06, 2026 04:56am): まぁ
 
 #### Additional Information
@@ -464,7 +464,7 @@ No post
 
 #### Comments (5)
 - **ハロー！** (Oct 04, 2026 05:53am): もうこの部屋は終わりただのゴミ
-- **だいまた** (Oct 04, 2026 06:30am): うお
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 06:30am): うお
 - **ネッコ** (Oct 04, 2026 08:33am): うお🐟
 - **ポタリック** (Oct 04, 2026 10:29am): うお？
 - **れいちゃん** (Oct 06, 2026 11:19am): 冷笑すんなて
@@ -485,8 +485,8 @@ No post
 
 #### Comments (4)
 - **おじゃる丸** (Oct 07, 2026 11:47am): あ、僕ね
-- **だいまた** (Oct 07, 2026 01:32pm): かんりもどしとく
-- **だいまた** (Oct 07, 2026 01:33pm): メアドください
+- **だいまただよ！   ハロウィン！！** (Oct 07, 2026 01:32pm): かんりもどしとく
+- **だいまただよ！   ハロウィン！！** (Oct 07, 2026 01:33pm): メアドください
 - **とりすけお** (Oct 08, 2026 10:22am): コメンターになったあと少しライターだったのにライターじゃなくなってるんだが
 
 #### Additional Information
@@ -529,15 +529,15 @@ No post
 ---
 
 ### 4. だれかこれなんも無い理由わかる人いる？
-**Author:** だいまた (daimatadao)
+**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (4)
 - **生きやがれ** (Oct 04, 2026 06:39am): もし、ネッコさんがパソコンを使っていて、９時間以内にこの部屋にきたのなら、コントロール+z連打で消した投稿が戻ると思います（連打の際は間隔を開けて）
-- **だいまた** (Oct 04, 2026 07:32am): たぶんねっこがきてる時間が12時間前だからむりだ😭
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 07:32am): たぶんねっこがきてる時間が12時間前だからむりだ😭
 - **ネッコ** (Oct 05, 2026 10:34am): ごめんね
-- **だいまた** (Oct 05, 2026 11:16am): いいよ
+- **だいまただよ！   ハロウィン！！** (Oct 05, 2026 11:16am): いいよ
 
 #### Additional Information
 - **Post color:** White
@@ -555,7 +555,7 @@ No post
 
 #### Comments (2)
 - **そーりー** (Oct 04, 2026 02:15am): なんやここ
-- **だいまた** (Oct 04, 2026 03:26am): だまっとけ
+- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:26am): だまっとけ
 
 #### Additional Information
 - **Post color:** White
@@ -567,7 +567,7 @@ No post
 ## 雑談
 
 ### 1. コメントの人ここで話していいよ
-**Author:** だいまた (daimatadao)
+**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -575,7 +575,7 @@ No post
 - **九条** (Oct 05, 2026 04:13am): あ
 - **九条** (Oct 05, 2026 04:13am): おおおああ  あああ  
 - **九条** (Oct 05, 2026 04:13am): やらゃ 
-- **だいまた** (Oct 05, 2026 11:16am): え、九条ってイケメン部屋の？
+- **だいまただよ！   ハロウィン！！** (Oct 05, 2026 11:16am): え、九条ってイケメン部屋の？
 - **おじゃる丸** (Oct 07, 2026 11:42am): おもた
 
 #### Additional Information
@@ -592,7 +592,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5209361250/ef56149b4637d8ba5e21bbf733449304/Screenshot_2026_10_10_21_16_37.png?Expires=1792337845&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YRlxImAHgCzeORekgRWOXo8YUNuMH9L%2FXagxw68T4UPSsrRv5PWySyLcmOweqaMx4qOq3sG32o3azxdMCdp3RMyjvzKALIHgpPMFVMHnVXBst0inDdOAckdYsxBnoe8tQr4vje1mU87OkVD2urRZIr4wfgmdowqmju%2BvqQHy6dYAkdO8CxjXk9py9z3Q%2FErIilDGauhtDjw%2FCjc7NebCMeyulV86eIIqIpXMP%2Fm6w5%2FtnoxX4rfCds00sB1I9P2VOZ3Mb%2FpxW4gHuqqJuZP%2BNtQvxDNrFNWh19Q4y%2B3iOT6F9XwM%2FyK%2Fjk2Bg6bUdGzOwOlCm1JmUFc114J%2Fe%2FaNlg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5209361250%2Fef56149b4637d8ba5e21bbf733449304%2FScreenshot_2026_10_10_21_16_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5209361250/ef56149b4637d8ba5e21bbf733449304/Screenshot_2026_10_10_21_16_37.png?Expires=1792346895&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=xrfa%2BAPnxxeXf%2BT%2BZk1ETdUhfr1vLMJ6IHxRPwl1ZZMCQdJ9gsVGBjzaOEtNcosxtDqC5v0HZ9eJQcSWoG6ChiVUyDa8aHCnMJ7PXPTeBx3RBg%2Fyu8cchfGwWNM195PSlSR2ez3zxnXhkP5b%2Ba1d9cguNyBDFTpgU3LuPHZZdWmzlHT1%2FRTshTYApwh3HjV%2FpwhiAMDQo7gi18MC8w3gaIL1hQMI2OL0uRaMJHm6aT6aM5YAdVu5ZJsCaK7TiMkCa6fT8H%2FW%2F6nqYJLvyS6X6u79EN7v43aR4SjcYHhezSIZzyOO0MTRVqoSnRH46OXBurTeQn58cpuuw9japO3Gsw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5209361250%2Fef56149b4637d8ba5e21bbf733449304%2FScreenshot_2026_10_10_21_16_37.png)
 
 #### Additional Information
 - **Post color:** White
@@ -610,10 +610,10 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/ed2d5d1007606ac9a0b67aa488352550/canvas__10_.png?Expires=1792337845&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PKVUFqT7ik7q2oBXR7dZaDzz4oZ%2FBiv3zZbOdYNavR8Xl%2F8y%2FbUc0aiQXhdT7uQ4g4AmoPlMkcZyjssHW%2BBMiBcciCIPr19nwcz093jWf5uwuvBj%2FNXomZ6DxXSQQA49IkjWPLDJ2SIXx5MH5b3XTrcwwSDeRhS6bQlb3s338b4Z3kXDSLL7OpYoyo%2FzWE09gJ%2FR%2F7jM6ylXmQfr1gzDuGg3gVPXBrRC0SAvwmM70pwnqQc7Lh0vrmpK%2BV9hhVmsR2n9e%2B1gJ4AqSQrwAoiRsVi8yCZtLARdiFyoGx664StLYggMATXaUYCIurzab2944dAy38jezjBwyEuVhwF7xQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Fed2d5d1007606ac9a0b67aa488352550%2Fcanvas__10_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/ed2d5d1007606ac9a0b67aa488352550/canvas__10_.png?Expires=1792346895&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=gJQzr%2FL630tUX0C75fYVQtGZf6hu7oLPtwCK62L7RHEVT%2FBdA4X%2Fdx7%2FRNg22ASqCyeQS%2FzEoMIeIDSmXTIG86Q0SJdLFcTKa6bnzEgTTLZ0%2F4u%2FiuklwADPP5iVIyXijMVzaRcKHXF2FNRztdhtgmypYAoO5kNs2M10RUJvZB1ekaKEYldtuFrN5G%2BQTZbxz5nXEDGjg2VJ5jWN0RnIEQ6s68nbBT8fzZz%2BcqX41i3gcTubxi6H7q%2FMgKAMxTATy3DpNRfd7FZSZiGbX2DCqUeCnJrNY37fw0vwrVWhi1ZbM%2FHn9SGC8LA8WmDWpN6s%2BIBswg46ril0xEFk2lismQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Fed2d5d1007606ac9a0b67aa488352550%2Fcanvas__10_.png)
 
 #### Comments (1)
-- **だいまた** (Oct 09, 2026 04:22pm): うまいね
+- **だいまただよ！   ハロウィン！！** (Oct 09, 2026 04:22pm): うまいね
 
 #### Additional Information
 - **Post color:** White
@@ -629,7 +629,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/7bc82b8bda300f99ad7a15685e7171f7/canvas__9_.png?Expires=1792337845&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=miZBov%2B%2Fy19TdRB4QAdnlVITUZr6xIOWPbipazNme7xtYZBqK5i%2BpfsG3KeTiSffAvEDq4k4HfADWhuSY2MRaPMcv6GbB%2FPHwKEU9t%2B1cgYuM23kPGTddplRYi9xEk8WiuwiWiNhIQN57%2FDxOiehK%2F51j9U%2Bf3OyRBobddFNTp2QLCzAHyznVMKK8BcOQt8A9%2BRi56JMuiM%2FC%2Fh5%2B3LBCaxJMxqjqw2MtfmxGltFKvVss89jY4URdxQ6VvsMpt0DJzWiqDkfo%2FDXDiyfM1sY2C%2BUwFwBqk3LTH53N86Ky3%2Bm%2BFdXe8Y5LconZXvY8XK8szXSs9cJdNq0d6G4hcyTRw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2F7bc82b8bda300f99ad7a15685e7171f7%2Fcanvas__9_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/7bc82b8bda300f99ad7a15685e7171f7/canvas__9_.png?Expires=1792346895&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=yRs0LIVHhTfQPocpg6dHZe5ZeDYdVLIQWfofxFT1EuRxVp6XLYxD7rg%2BIWqGML5GSn8Q5Jhn%2B1w21JZ59prZPT9Dqqlv84Hhj9mQTii4H5mPGSrI1YjqC8K545uP5C7N1P%2BnALT3u5%2BiDKEMmj36XkXWznafdN9pMo4NeU%2FVskFfkiWowApKV83OMNOM%2Bu2yhmFa3pSBg%2FAV6joeentkFyqdMH2WAQycKNfJSRY7um9nNk1fBHMR9TKkhmH%2BkMPLpE%2B9Rn5DVbHSE6tXE1lniOKNdNKGIGvOtzdP5fpZMzg6SIMIakQTOEmsA0xtaDFThVQ6YBLP0MbFmIYBL9a06w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2F7bc82b8bda300f99ad7a15685e7171f7%2Fcanvas__9_.png)
 
 #### Comments (1)
 - **ホロライブオタク** (Oct 09, 2026 04:07am): 描いてみました
@@ -650,7 +650,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1792337845&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WmSkZxKJ9OMwTKapFB%2B2IqqyvcyRBYZZ7NzpNvr488yQCz6s%2BnQ%2BSTh0ymz58ohcn53XOO899Wih7yy%2FHR%2FiBZGO4xSHOnpokURLQortda0uatZBdx5h1PX6VInTCYrKitQDV0MAEHeHAoGhh2t6X4GL8DPolEC1y2PI9AvNbIhQKVTScPeH6FiMPgDbuaBNQibocwS6iDaZ9JNq5Z3lh%2B9lytFkNGLWH%2F2omDrx%2FmDmHC12JDtMSvlSc1Ok%2FtQoC%2BWr1J83jzNq0gfNMtZQGTVEqpay6pXBSelRv7aT%2F18Z4x99hwMKAESYlEMShWGGq5tS97Bpaa7eMsY%2BjWcxRQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1792346895&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NtOOaHZBVrgGt9kR2xDizAjWGeSp9Ijnb8reyyPzYGjwDC%2FiVXMfFy6XOcoqqDnoGtSVgCz9uZCkK9v%2BhDi8nV3ruKgjtarjj6CRqywShlwfF%2BmUKd8Bk7T6xtEZ3JDVYolIzoDtX8WqB3FLmRykYSVjhVVsmQHiOPtcXEq%2Blk9V%2BBsIB3PraU1LlhvULTWaTPUOtu4c9jHGZRTMP9luG8AXhirfFgvm6cJXtybJ4F4tH5KXaSA1kDkrTBjW0J9Kv0y246SUgHNrJUwks%2BrnoxpsM%2Fix8OXH0RItQ538U3UYm3U8T0T2aRQeIANhdEGgIL3MAlkHbre84ufZjTv5Eg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Comments (3)
 - **える** (Oct 06, 2026 10:28am): 素晴らしい
@@ -690,7 +690,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1792337845&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Bw72iSrC%2BPjx1uCClTaXTVdMsBcR4CMUfQB8QjyDHAhJ59EmzVIKLKj1pCAP1MIa1Eb5IqYIhaaurP36YNiogr%2BxW3UyIFfJdmAgRu5vvMeJYBECQmkOq2cxbRDoNticat8nVeKpRUTbwC0QoPSFPUvAP7g8OQgMuwuExBmdzKHveMraT%2F%2FTT4WrgtUtKW9u4RhFr8fZlT8Kh1fO1rM0p2p34EUf%2BB2TymtcNxNub8O0jHBgUndst1idMw2Gzm5uhmxTlaSnn2FrO1jylLxOKh0%2BDJL4XoKCd8VjY4dDxiNSESLC7d7gnq9X5bOdyLdHrTSWQacGrpiLIyAiIumfRQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1792346895&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5bE4hWYHdMJWgqZT%2BcTmf9OqhTTHFuVhEJIhgNw2D0kAk%2FCoO2Qpms%2BMrsv%2BpHJIyjVok9k7BegF1sLL3WD2ACTiLT2FDfUFzC%2F0ZGiYU7zLlClnEpGHGnw%2FnGSN10q9%2FFFgHNRafF%2B6Nrh3aMSuFpaQHNEgbdy6Ut2Q3sBr3CIZx7%2FwD7bQj52%2FLtM%2BImy27K3VEqIT4MucoE10ytOvR3TyHDLQCBi6YcnwfOreXLj0Y6%2FvOVAngtBZhjf7t4ZNJDLl2s8B1Yc%2F%2FHR6gSOXRChQ9Rp5HJhY41wmcpidVGKCzFwkaQdts7vMotde3007RgnrtpDRs%2FTIt8zQa4biVg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (1)
 - **かわうそkaitoプロキシー特殊探偵** (Oct 06, 2026 11:34am): ?
@@ -742,7 +742,7 @@ No post
 [Attachment 1](https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh)
 
 #### Comments (1)
-- **だいまた** (Oct 06, 2026 10:13am): はよしね
+- **だいまただよ！   ハロウィン！！** (Oct 06, 2026 10:13am): はよしね
 
 #### Additional Information
 - **Post color:** White
@@ -803,16 +803,16 @@ No post
 ## プロキシとか要望
 
 ### 1. ここにコメントしてね
-**Author:** だいまた (daimatadao)
+**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (6)
 - **ポタリック** (Oct 04, 2026 02:10pm): あ
 - **ハネノハ** (Oct 05, 2026 12:10pm): プロキシサイト教えてね
-- **だいまた** (Oct 06, 2026 11:29am): なにがいい？
+- **だいまただよ！   ハロウィン！！** (Oct 06, 2026 11:29am): なにがいい？
 - **美獣後輩** (Oct 08, 2026 12:25am): アンブロックゲームやりたいけどどれかわからん 
-- **だいまた** (Oct 08, 2026 01:43pm): 例えばテトリスしたいとか言ってくれたらやるよ
+- **だいまただよ！   ハロウィン！！** (Oct 08, 2026 01:43pm): 例えばテトリスしたいとか言ってくれたらやるよ
 - **Anonymous** (Oct 10, 2026 08:22am): ちんこ
 
 #### Additional Information
@@ -837,7 +837,7 @@ No post
 ---
 
 ### 2. Post 2
-**Author:** だいまた (daimatadao)
+**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -849,7 +849,7 @@ No post
 ---
 
 ### 3. Post 3
-**Author:** だいまた (daimatadao)
+**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -861,7 +861,7 @@ No post
 ---
 
 ### 4. Post 4
-**Author:** だいまた (daimatadao)
+**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -873,7 +873,7 @@ No post
 ---
 
 ### 5. Post 5
-**Author:** だいまた (daimatadao)
+**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -885,7 +885,7 @@ No post
 ---
 
 ### 6. Post 6
-**Author:** だいまた (daimatadao)
+**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -897,7 +897,7 @@ No post
 ---
 
 ### 7. Post 7
-**Author:** だいまた (daimatadao)
+**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
