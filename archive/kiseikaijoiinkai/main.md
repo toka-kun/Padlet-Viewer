@@ -1,4 +1,4 @@
-最終取得: 2026/10/10 14:58:30
+最終取得: 2026/10/11 21:57:40
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 18
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Oct 10, 2026 03:17am
+- **Updated At:** Oct 11, 2026 08:59am
 
 ## 受付
 
@@ -149,6 +149,9 @@ s2000941@g.ueis.ed.jp
 使い方はBuTubeとおんなじで、見たい動画のリンクをコピペしたら見れます。今後はPornhub版やTikTok版も作る予定です。
 
 [Attachment 1](https://edu-tube.netlify.app/)
+
+#### Comments (1)
+- **とるっぷい** (Oct 11, 2026 08:59am): よき
 
 #### Additional Information
 - **Created At:** Oct 02, 2026 10:23pm
