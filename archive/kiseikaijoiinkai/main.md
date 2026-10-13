@@ -1,4 +1,4 @@
-最終取得: 2026/10/13 16:08:06
+最終取得: 2026/10/14 00:05:45
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 18
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Oct 13, 2026 03:23am
+- **Updated At:** Oct 13, 2026 09:47am
 
 ## 受付
 
@@ -53,6 +53,9 @@
 ・個人情報の投稿の投稿は禁止
 
 (投稿を確認したら即BAN&読者)
+
+#### Reactions
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Created At:** Mar 25, 2026 11:38am
@@ -399,10 +402,12 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 
 [Attachment 1](https://padlet.com/edodesu/padlet-m2mmlqn2oow93w4l)
 
-#### Comments (3)
+#### Comments (5)
 - **Anonymous** (May 22, 2026 12:34pm): https://padlet.com/68794935/classroom-ofm6dl04v990nsoe
 - **Honda#初代つつき森会員＃ネギ付き教徒** (Jul 16, 2026 02:15am): https://padlet.com/Hondacars1788/i-filter-pxpls5zlf5duyl8u
 - **ice** (Sep 03, 2026 12:38pm): 大量にブロックされていないゲームや、proxy、youtubeなどなど色々あるよ！https://padlet.com/a1soooo/free-unblock-math-rz97yb4g1fik8hr2
+- **りんご** (Oct 13, 2026 09:47am): https://padlet.com/51354895/padlet-s024gnpfjbxcyo3nt61r
+- **りんご** (Oct 13, 2026 09:47am): きてー
 
 #### Additional Information
 - **Created At:** Apr 12, 2026 11:24am

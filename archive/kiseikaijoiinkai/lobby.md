@@ -1,4 +1,4 @@
-最終取得: 2026/10/13 18:20:38
+最終取得: 2026/10/14 00:05:45
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 105
+- **Posts:** 98
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Oct 13, 2026 09:07am
+- **Updated At:** Oct 13, 2026 01:14pm
 
 ## ルール
 
@@ -34,7 +34,7 @@
 
 (投稿を確認したら即BAN&読者)
 
-#### Comments (21)
+#### Comments (28)
 - **ううううんこ💩** (Apr 20, 2026 03:32am): もともとライターだったもりもりもっこりはんです。名前変えましたライターください
 - **中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい😭リア友の部屋https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl　閲覧4万とか** (Apr 20, 2026 01:28pm): メアドをおくってくれ
 - **イナビカリ** (Apr 30, 2026 09:55am): うぇｒ
@@ -56,6 +56,13 @@
 - **ハイランド** (Sep 24, 2026 11:01pm): 教えてください
 - **ハイランド** (Sep 25, 2026 11:46am): お願いします
 - **コエノハ** (Oct 10, 2026 12:07pm): 俺も
+- **ツキカズラ** (Oct 13, 2026 09:40am): あ 
+- **ツキカズラ** (Oct 13, 2026 09:40am): あ
+- **ツキカズラ** (Oct 13, 2026 09:41am): 😝
+- **ツキカズラ** (Oct 13, 2026 09:41am): あ
+- **ツキカズラ** (Oct 13, 2026 09:41am): み
+- **ツキカズラ** (Oct 13, 2026 09:41am): こ
+- **ツキカズラ** (Oct 13, 2026 09:41am): わらわら
 
 #### Additional Information
 - **Post color:** Black
@@ -221,7 +228,7 @@
 
 うちの犬かわいいでしょ！！
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6405886148/55b4161238291b185048a71bd05ef9c8/images__3_.jpeg?Expires=1792488070&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=28rU2gJwFxdbmeAcS25cZldSSN5F5dDh7tSzftWVoUO6OWgCfRoEAv5RK6PXzJxPw6QgNxRJe4QSBo3sAlZqYXfc%2BvpCbjGpQLHQMUUFdLhS1kQ8otRqTCr5I0ydWyXz%2FExSBMDJVXYXDanZoiFwrcRT5Jv6erw2%2FiE6zg%2F26G2egT1O%2BDBZBacYLMBrmQOcZOl2Poc9%2BViYYGsGfdGc2ZE4H2N99ozyfcIiJ0hObBbkgN%2Fef04Q6tfxQw%2F0iaP%2FN0H3gF9QfG2n1YzTLEFsTxXLQQ%2FXR%2F19zWSrBp6M7um8nu7Gkl4El8xSxtUFqtgdiWPqXfuRBsobK%2B3cJsjK3A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6405886148%2F55b4161238291b185048a71bd05ef9c8%2Fimages__3_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6405886148/55b4161238291b185048a71bd05ef9c8/images__3_.jpeg?Expires=1792508778&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DLut%2Fgf7Zazq5SwNvKkJF%2FYiNaw0jc2vTEu4aPsD4QAqjxcgiq0tBxeg9eEDiEWvYoffA%2BGctJLRUE5p35kRVC%2Fn4ulSxUpdZYSDy67l%2FHilMa4T0quS16m2NRi%2FwOBOND6AjBQV7VfdcVfBVbWAiAxmvCsnv%2FWgkVGTqSk0oaiKl7M9UYSM7P8ZFXcqshv7Fngjvl%2B5tm%2FnpB9tXmETRvcongsC82RFvPwyplqN70gVI2gqqCH%2FFrJ50sEzRj3ilHTnwuI00MZDdSSr4dtnLnavhlglDQU28ieGSVvHzCGwFj4DdSFaat0mtwSZOkWM8gM8QvewG2vgo3XRaUsp%2Fw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6405886148%2F55b4161238291b185048a71bd05ef9c8%2Fimages__3_.jpeg)
 
 #### Comments (1)
 - **アメアオイ** (Oct 08, 2026 12:28am): お、おう
@@ -251,7 +258,7 @@
 
 えぐ
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6372588961/8106e0d450971f2b26cfec4f7ebe8ad7/photo.jpeg?Expires=1792488070&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=yilG5z%2FPs0brZmLZHLb%2FDjdkvzDSLujH1F9MimW2fA8ZEN7oQPtMHuhjYdWAcKiIJe6dvRssRT6MttkX06lsQVwJ8d6GuuQEgP8SIqtaLx0w0zJ3c4Ab9bIS%2F64baXxEyMmdAg7bU3OSKSnljz44EbDURQCUyludujVdPOPV1uR%2FYnjcVvretC3VVIx9AznQSo5PW5Al%2FIyfBV%2BrqyZb58wkZyb3aCTq9XEYyVysYA%2BACv4uGK7iqWAeu9m1RiLl1qvZH09QMFZ5dWXHl6Kr38fuCFZf2TKQkWQU3dH3pSv4WtE7XRzbkXcGegu8ydptcJD%2ByFNktv5OWFNABlF7Ag%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6372588961%2F8106e0d450971f2b26cfec4f7ebe8ad7%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6372588961/8106e0d450971f2b26cfec4f7ebe8ad7/photo.jpeg?Expires=1792508778&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FRYlWAy%2FQTxCMRJvX8Ro8Ac1ZBoHcbuDzPHVUHp%2FsqAcLbCmGcWLPmMV1s2IEJxZ9RcJ0QCMYZkK70FxRkJpR0qdlmocFJnj9815C1lWEQPmTkBriQi8wK%2FCCY6Rj8y%2B8yuKKtGHDlcohDq13QUXFOcp%2F5vgfNueL%2BlObTvm7k50BrBOilfHHalytS0LbsMNt4ulFAM%2FqI3kVAEFYHjLBe8J1yXCjUXqx%2BcFjcV7nbn05mRdGniI2u82w198WTx8nC6ST00IGEez9oRNuJZDVxeuKzrL2snGSxJSKikf%2Ba4g7cC68m2l8LElcCRAwHV%2FXEQGLdhFb8%2B7QK8a4g2bBg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6372588961%2F8106e0d450971f2b26cfec4f7ebe8ad7%2Fphoto.jpeg)
 
 #### Additional Information
 - **Post color:** Black
@@ -300,7 +307,7 @@ iPad自体に規制かかっててそれでも規制かかってなくて使え�
 
 Chrome bookで拡張機能のところがいじられなくなっています。どうにかこの拡張機能を消したいです。どうかご享受ください。
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6305668257/c7c69a2ddc7e26baa18b8d2bfb21fc51/image.png?Expires=1792488070&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=eRhfgjA2Gg6Vvkk5lElT%2FosT%2F3og8GyGOn9knoQZZ4UMA4CiBJo9cNzOPal2%2BK3T%2F1G6BzTkgWmZ9S39Y7a6MiYElskbc5ePS%2BkSyQuaZziGISnNhbkYJhrwb2Ct61Wfyg2L8WtiSemnnKhY4hU%2BKtMN6%2BxuTO6DkbJpJmQs2x4Yn6omuSMpophM3cxk6qfbDh4BPWTR8vqm7FRBmIiDLR%2BHh153gcTIe2xxfUvofYPKV6kKD2MjlPfKewcZtsme%2Bmzv16SqeNIGguB6ylVrFhqYT0zyXe%2Bz9KHKipR34j2Il%2FNwENxWuDeB4AhSJushK8dNmqI3zOOnzxv9yJou%2FQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6305668257%2Fc7c69a2ddc7e26baa18b8d2bfb21fc51%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6305668257/c7c69a2ddc7e26baa18b8d2bfb21fc51/image.png?Expires=1792508778&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7JpAqJq5%2Bfx%2BOsW4b4EzrlYfLJoMd0mN9Vv3CiGr7GBh7d%2Bn5ZF1MwPw3rMou1MtmZATpQrWLwRXRU9iNvZBQG1tasJo5pT1z%2FacuJaecKqfqSHDaE0BdffpxSLPrjlVU9mEINaj5WzHys%2F%2B68k3QHIzNLSnIKsFuzoBz%2FH1Z7vknvKNFgx1scrMOfJBuSaI%2FiN5PhFZiejJOZRpp1rPnZi%2FSKQdoiNp62g8b5ZJsKEZG4HhseGXeaxO4Rqw%2FldIW%2FHYNZx4bJ0sfj2Iabl4mrqLVP8J9u2UcZsizXY4azgdtNg2%2FFaw1hM%2F47W0G5NzQFtrxZv9hLGPt%2FtRYxK03A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6305668257%2Fc7c69a2ddc7e26baa18b8d2bfb21fc51%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -555,7 +562,7 @@ Chrome bookで拡張機能のところがいじられなくなっています。
 ### 27. 野砲
 **Author:** ガジェット超絶z
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6203129829/590fd1eba39a80dae4ad0a86696f9d94/videoplayback___2026_09_06T192233_571.mp4?Expires=1792488070&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=paUaeFoKRZfhKl0JmRJj7N7DEVHCF5e0x1cS1nDi%2FszCYW0A7JIXn%2F6uC%2B4KGxCHskdAT8PB79PjmoEWPVmhWotE8TSRnEChuufOS0WmA6OHwXiosUzeYMfvsqbUQHer2s28LI3cKG7e4d%2BMOPjUG64IVLeN98cxtiMFwydeMoWkkYaMTnKjEu6bTvCbaRAid0K9VMoQtqUF26fcihLnQo2Eat2m%2Ft%2FK9QINQXXjoHc6jMZLIQT3n8gSwVAg%2BkRl4X7uHgI8gmh5Wfy6zsYTF%2BZRZ%2BFL%2F8QmIhC1%2FUZTKk0Q8%2FqhseGtu0gbnJpNC9a1pM2sA1kDHq6OoNI14S1V8g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6203129829%2F590fd1eba39a80dae4ad0a86696f9d94%2Fvideoplayback___2026_09_06T192233_571.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6203129829/590fd1eba39a80dae4ad0a86696f9d94/videoplayback___2026_09_06T192233_571.mp4?Expires=1792508779&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=n5h4XpFdAybmd9TV8uID7qb%2F6euZQR769NP2LzUjA8NBRxHYCtoruaDDFNl%2BbmfCiWPUOtylXAO2UVQxAiEEj%2BWNk%2FXjtYjfjyjje3gfGjQkibeqQVoEtptxX02%2B8%2FBIuxlqEaCDaMSG71%2ByzCJtlhOiE4z%2BPp4lQV4B6AfMtFJXb%2B3wuGD%2BsRXaNKTHXSICK0%2FfCOHHLeqcBjc8iEE8dzMTZjv5S6pUM8LUz2Jp%2FfbPREEAA4FIOmUf%2FJypRRPJ6PfPnf6nt%2BqppCHlUpWYrict5cVdlurNfLrVlRM8xihcYBhLb0o7Otk8f5vUeHxrz2JnnCSVGrOVRU0g4%2FUR1w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6203129829%2F590fd1eba39a80dae4ad0a86696f9d94%2Fvideoplayback___2026_09_06T192233_571.mp4)
 
 #### Additional Information
 - **Post color:** Black
@@ -567,7 +574,7 @@ Chrome bookで拡張機能のところがいじられなくなっています。
 ### 28. これ見れる？
 **Author:** てらてら
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194730678/e0a90eb93b7136001fe8ecc31dd5ed79/videoplayback__45_.mp4?Expires=1792488070&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=yinGFYFGSnumySV%2FFybaIqUwfWuh5oZbadRiykIsZDznV8qFCIMFhm8286TgQLtMY6Hdw97Yq6umdUNuzP6%2BbhBeL2Dl8u7%2FY5VNoRFh39awOmHOZQELWO683jJdp6nmyF%2FoNxwZ4OsKox9zXvRHP019JRJCXlQnNtJ7kFNx7tA7coOa0mu7LNMLtQjM%2FPciiiPLgsFPiX5tNL4EP3tVTKYyzMCRVepI8f76u%2FAnAySaA17hAwxrYquZ7A5aTPQZXRS5%2BN4LiqjP43FAFNeMGYtiBTGLBctkIBI4hyRAY%2FjSyLureJy6hMeg1N5qIDl1dcs%2BuLAdAfMG3Yy1f1mv5g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194730678%2Fe0a90eb93b7136001fe8ecc31dd5ed79%2Fvideoplayback__45_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194730678/e0a90eb93b7136001fe8ecc31dd5ed79/videoplayback__45_.mp4?Expires=1792508779&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=s3KN90GuMVqNfUe40YYp%2BOUXFes2mi9pymGyp87g5Mv43Snx0bS96aqtAJVu4buwgigaQ3PYudOl022HuJh5zJYQrT4sJcU5vY3DE6YrvPpiZcIi03sIaDGBbgAzFXnh1FZrKDjYiGjmNnPPhHStugfWHER8xpPSDElDyvj84d3%2FoWJRNVEAAfQmLYgWJ2jWn%2BhOv4eiO1AXELRBbFaEuqSt6lveARTyLnRsR5NKxxX5m3EGTpIvQsPFjghzjrUlFn5gC2vjqdm8uZg65rXF1t40wTWuW1nRIe44KpBEyzTnibxtizNo1VoAiYtLKxlqK3j4WTyi3dqysdoxUUVg%2BQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194730678%2Fe0a90eb93b7136001fe8ecc31dd5ed79%2Fvideoplayback__45_.mp4)
 
 #### Additional Information
 - **Post color:** Black
@@ -581,7 +588,7 @@ Chrome bookで拡張機能のところがいじられなくなっています。
 
 解除してください
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194665627/8020d285b6b4d07cd736be52cb8a0091/photo.jpeg?Expires=1792488071&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=REBFkThPzDkLNlznYVSWtb7GDSPG2dD4WljDDJYpOT85bGAEjW%2Fhn7LOMJ8%2BrVpLr9WOXw9kjlXzhv%2BC89IA5%2Bs%2BmwYQOCOy6GZd%2BwPBKJFdd4%2Boaymjil77c8NrWt%2FG%2F2%2FHn9FJLvqeUtgrpu%2FdBTqq%2FjZduKGKIfP%2F7%2FLXwwOwfdBfY38CJUCDcbdV5TmDLnfT1FXMYTLuakSdZPpa93aiX0NhLeszq9%2FVRWydU6mHIKkXxxBxcWPZfDHu88WihwZj1t%2FLO%2BJAlgJy43MWLPvFDnXQCycaXTvpzmnt24kV9u2CGNsNB7vtDub5cHTvHQEZlpXzbbg8KB9rsAgcYg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194665627%2F8020d285b6b4d07cd736be52cb8a0091%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194665627/8020d285b6b4d07cd736be52cb8a0091/photo.jpeg?Expires=1792508779&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Ut2OAdimss%2B7VGP41iv9rxfwvoeDqTbrq%2BO4zv9AMnMYmpx5Pn1JIxD72aO%2FvNbTiivflIlp7eDxx%2FoEiEl4WBJRP8uSKrcsgto9atv%2FbOlQJujeEqEXyU%2B0Rm%2BJDBSJdWojTM2Sawk9F%2Fpt7vQH4J1v4NBmqIIRYDln3CcbQYdRG9CNdRVBZkqLGOpX9LMgjJO18e7h14Tm0ke6Sl3L8C5xSnjYvUKBW3EZUYza1j3HLjpSaj%2Bmcnqtzy0uQzjy0J4sakdK262AwOkZv5Z3I%2Bi2sCQk9H8OEBJizAtaRbFotKdt5iSbdBth1mYSL85R9%2FQTdMe%2FpP312QraDqrhng%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194665627%2F8020d285b6b4d07cd736be52cb8a0091%2Fphoto.jpeg)
 
 #### Comments (1)
 - **ささ** (Sep 04, 2026 11:50am): きｍ
@@ -656,7 +663,7 @@ Chrome bookで拡張機能のところがいじられなくなっています。
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1792488071&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4hzAxuQk0UTdvFAVQH9Qw6sKWghFTa6kLZHksH9lj5GjJbYTBCjok0kWl0N9j%2BZI7F9l111FvEdOyhdoNdBXFhPAqOHg8hooMpfMFPyM9yZQ1eLB%2FMy6F%2BZ8jJ6VS%2Bi%2FQdJxfmrgtcg9NN3Gm7I3J%2B7y5R%2FN43FvfpURr%2F4qY4RAq595VVfTwoJF48xPNq0RyXW8%2BFmhzkRTZC2%2BvMtwegwkEg98u18kipSUvvKl1UHntXVD0ftGzjYeHmEDrkn9a43XGp98lYuNhcqqlagiAU9dPQ8XklgNGJHu9ZtpdTwQpVOQP4bzys%2FLTNnJ13YCFXopJJJ8mMjkSaOhpD2VYg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1792508779&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=vH2DgwIGdn0PnXk1BmXhtPRQFSK82JaPivLoeSjuYo59PffdURwVCgzESK2jL%2F2rGjcewM%2BKgc30d7tAFpPyb0jlTKWkVvaHXDo94hd5LjTa8yZVZ%2BAdNTMdMjPXSiSvHnZzlRKYjDkSRtsWeWc7RTBm%2BopavQYOmplzKmFy1nDl99y4SyarLO2dDx9boixUD8n%2FhaFcmJORpbYqT7SxeoDmB8GWsO3Nd%2BssZ67OZSkXz2d3N9ebYCI8GSE3O9aZteRsjItFZuiLlNk5%2FpzaYLFsgbvzeyhucuMcULgJ06Fv4GLVQVno4sbv%2Fhl7DjsWwNwWGyukQLjWrdk7K8xabQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -986,6 +993,10 @@ Chrome bookで拡張機能のところがいじられなくなっています。
 
 [Attachment 1](https://reider71164.github.io/gxmesites.html)
 
+#### Comments (2)
+- **りんご** (Oct 13, 2026 09:49am): https://padlet.com/51354895/padlet-s024gnpfjbxcyo3nt61r
+- **りんご** (Oct 13, 2026 09:49am): きてー
+
 #### Additional Information
 - **Post color:** Black
 - **Created At:** Oct 06, 2026 01:59am
@@ -996,9 +1007,11 @@ Chrome bookで拡張機能のところがいじられなくなっています。
 ### 2. やほ
 **Author:** 🟦の🌪️ (uopag)
 
-#### Comments (2)
+#### Comments (4)
 - **🟦の🌪️** (Oct 03, 2026 11:31am): 青の風ですよろしくね
 - **うる** (Oct 06, 2026 12:55am): くんにちわ
+- **りんご** (Oct 13, 2026 09:48am): https://padlet.com/51354895/padlet-s024gnpfjbxcyo3nt61r
+- **りんご** (Oct 13, 2026 09:48am): 誰かきてー
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1166,7 +1179,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 ### 1. いつ入りゃいいんや
 **Author:** trtr
 
-#### Comments (53)
+#### Comments (54)
 - **らい** (Oct 09, 2026 08:30am): 10時半かな
 - **らい** (Oct 09, 2026 08:33am): もしかしたら俺はいれへんかも？
 - **らい** (Oct 09, 2026 08:33am): 仲良くならないでね
@@ -1220,6 +1233,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 - **匿名** (Oct 11, 2026 01:20pm): おｋ
 - **匿名** (Oct 11, 2026 01:20pm): あと言い訳のために３ｋつかったからしはらいよろしく
 - **trtr** (Oct 11, 2026 10:27pm): ok
+- **りんご** (Oct 13, 2026 09:51am): https://padlet.com/51354895/padlet-s024gnpfjbxcyo3nt61r誰かきてー
 
 #### Additional Information
 - **Post color:** Black
@@ -1249,12 +1263,13 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 サイトに入る人はコメントしてね
 
-#### Comments (5)
+#### Comments (6)
 - **うる** (Oct 06, 2026 12:58am): https://chocotube-plus-nana-001.up.railway.app/
 - **うる** (Oct 06, 2026 01:00am): https://dogeub.storage.googleapis.com/index.html#/search
 - **だ〜** (Oct 06, 2026 08:28am): あざす
 - **だ〜** (Oct 06, 2026 08:28am): でもブロックポイ感じで見れないです
 - **コエノハ** (Oct 10, 2026 10:37am): 入りたい
+- **カゼヨミ** (Oct 13, 2026 09:37am): 入りたい
 
 #### Additional Information
 - **Post color:** Black
@@ -1343,7 +1358,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 夜通話しよ
 
-#### Comments (94)
+#### Comments (97)
 - **彩** (Sep 28, 2026 09:52am): したいです！！
 - **らい** (Sep 28, 2026 01:25pm): しましょ！
 - **らい** (Sep 28, 2026 01:28pm): https://talk.ubports.com/join/tuuwa2026
@@ -1418,6 +1433,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 - **彩** (Oct 07, 2026 01:55pm): あれ
 - **彩** (Oct 07, 2026 01:55pm): できなそーですか？
 - **らい** (Oct 07, 2026 09:34pm): ごめんなさいWi-Fiの調子が悪くてできなさそうです
+- **らい** (Oct 13, 2026 01:15pm): 今日できたらやりたいです
 - **らい** (Oct 08, 2026 10:03am): 今日できたら１０時半にはいっときます
 - **らい** (Oct 08, 2026 10:04am): よかったら来てください
 - **彩** (Oct 08, 2026 12:19pm): はい！！
@@ -1438,6 +1454,8 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 - **らい** (Oct 13, 2026 09:07am): すみません
 - **らい** (Oct 13, 2026 09:07am): 充電なくなって落ちました
 - **らい** (Oct 13, 2026 09:08am): 今日しませんか
+- **彩** (Oct 13, 2026 12:30pm): するー！！！
+- **らい** (Oct 13, 2026 12:45pm): おけです
 
 #### Additional Information
 - **Post color:** Black
@@ -1471,43 +1489,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 11. しあtube見れん
-**Author:** らいらい
-
-良いサイト教えてーーーー
-
-#### Comments (1)
-- **といあめすいせん** (Sep 24, 2026 09:20am): いいよ
-
-#### Reactions
-- **Emojis:** 😭 (1)
-
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 18, 2026 11:04pm
-- **Updated At:** Sep 18, 2026 11:04pm
-
----
-
-### 12. ときあめ
-**Author:** ちくび好き（らい）
-
-ゲーム教えて！
-
-#### Comments (4)
-- **アサヒオカベ** (Sep 26, 2026 01:13pm): Ｙａｈｏｏ知恵袋にたくさん乗っているので底から見てみればどうでしょうかね？
-- **らい** (Sep 28, 2026 01:36pm): ヤフー知恵袋開けないっす
-- **ツムギグモ** (Sep 30, 2026 09:38am): じゃあ自分のスマホではどうでしょうか？
-- **ツムギグモ** (Sep 30, 2026 09:38am): 無理だった場合は僕に聞いてください
-
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 16, 2026 05:20am
-- **Updated At:** Sep 16, 2026 05:20am
-
----
-
-### 13. 通話サイト（ときあめが見つけた）
+### 11. 通話サイト（ときあめが見つけた）
 **Author:** てらてら
 
 [https://talk.ubports.com/customizeRoom](https://talk.ubports.com/customizeRoom)
@@ -1529,187 +1511,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 14. ときあめ？
-**Author:** てらてら
-
-
-
-#### Comments (3)
-- **ホトトギス** (Sep 15, 2026 08:38am): 通話やめた？
-- **てらてら** (Sep 15, 2026 08:45am): https://talk.ubports.com/join/%E3%81%93%E3%81%84%E3%82%88%E3%81%BD%E3%81%BE%E3%81%88%E3%82%89
-- **ゆーちぇー** (Sep 26, 2026 08:20am): 女子誰か通話しよ
-
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 15, 2026 08:36am
-- **Updated At:** Sep 15, 2026 08:36am
-
----
-
-### 15. ただいま
-**Author:** てらてら
-
-#### Comments (30)
-- **てらてら** (Sep 15, 2026 07:10am): ときあめしよ
-- **てらてら** (Sep 15, 2026 07:11am): eorv2
-- **ときあめすいせん** (Sep 15, 2026 07:16am): まて
-- **ときあめすいせん** (Sep 15, 2026 07:16am): https://talk.ubports.com/join?room=%E3%81%93%E3%81%84%E3%82%88%E3%81%BD%E3%81%BE%E3%81%88%E3%82%89&name=sigure+is+god&avatar=0&audio=1&video=0&screen=1&chat=1&hide=0&notify=0&duration=unlimitedhttps://talk.ubports.com/join?room=e102931d-2413-4d24-97ad-eb2129a55086&name=%E3%81%A8%E3%81%8D%E3%81%82%E3%82%81%E3%81%99%E3%81%84%E3%81%9B%E3%82%93&avatar=0&audio=1&video=0&screen=1&chat=1&hide=0&notify=0&duration=unlimited
-- **ときあめすいせん** (Sep 15, 2026 07:17am): あかんかったら
-- **ときあめすいせん** (Sep 15, 2026 07:17am): これ
-- **ときあめすいせん** (Sep 15, 2026 07:17am): https://talk.ubports.com/customizeRoom
-- **てらてら** (Sep 15, 2026 07:17am): e
-- **てらてら** (Sep 15, 2026 07:18am): ボイチャ？
-- **ときあめすいせん** (Sep 15, 2026 07:18am): たぶん
-- **てらてら** (Sep 15, 2026 07:18am): どうやるん
-- **てらてら** (Sep 15, 2026 07:19am): 2個目は行ける
-- **ときあめすいせん** (Sep 15, 2026 07:19am): ちょいまち
-- **てらてら** (Sep 15, 2026 07:19am): あーわかった
-- **てらてら** (Sep 15, 2026 07:20am): 部屋作ってそのコード打てば行けるんか
-- **ときあめすいせん** (Sep 15, 2026 07:20am): https://talk.ubports.com/join/%E3%81%93%E3%81%84%E3%82%88%E3%81%BD%E3%81%BE%E3%81%88%E3%82%89
-- **ときあめすいせん** (Sep 15, 2026 07:20am): これは
-- **ときあめすいせん** (Sep 15, 2026 07:20am): どう？
-- **てらてら** (Sep 15, 2026 07:20am): いけた
-- **ときあめすいせん** (Sep 15, 2026 07:21am): いまどんなかんじ
-- **てらてら** (Sep 15, 2026 07:21am): Eメールいるけい？
-- **てらてら** (Sep 15, 2026 07:21am): [Attachment](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl/wish/dMA1W8www2dvZ4OV) 
-- **てらてら** (Sep 15, 2026 07:22am): こうなってる
-- **ときあめすいせん** (Sep 15, 2026 07:22am): 名前売ってみて
-- **ときあめすいせん** (Sep 15, 2026 07:22am): 打つ
-- **てらてら** (Sep 15, 2026 07:23am): おけ
-- **てらてら** (Sep 15, 2026 07:23am): いけた？
-- **はるはる** (Sep 16, 2026 12:06pm): てらてらきて
-- **キリツユ** (Sep 19, 2026 11:40am): 今電話来れる人来て
-- **結翔** (Sep 20, 2026 02:46pm): なんの会話？
-
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 15, 2026 07:10am
-- **Updated At:** Sep 15, 2026 07:10am
-
----
-
-### 16. みんなもう帰ってきた？
-**Author:** てらてら
-
-#### Comments (41)
-- **てらてら** (Sep 15, 2026 06:13am): Eaglercraftしよ
-- **ときあめすいせん** (Sep 15, 2026 06:21am): iiyo
-- **てらてら** (Sep 15, 2026 06:21am): やるか
-- **てらてら** (Sep 15, 2026 06:22am): いまからワールドつくる
-- **てらてら** (Sep 15, 2026 06:23am): fvez8
-- **ときあめすいせん** (Sep 15, 2026 06:25am): なな
-- **てらてら** (Sep 15, 2026 06:25am): どした
-- **ときあめすいせん** (Sep 15, 2026 06:25am): おそろしい量のゲームみっけた
-- **てらてら** (Sep 15, 2026 06:25am): まじ？
-- **ときあめすいせん** (Sep 15, 2026 06:25am): 1000以上
-- **てらてら** (Sep 15, 2026 06:25am): URLおくって
-- **フユカ** (Sep 15, 2026 06:27am): すまん
-- **ときあめすいせん** (Sep 15, 2026 06:27am): これエグい
-- **てらてら** (Sep 15, 2026 06:28am): すげー
-- **てらてら** (Sep 15, 2026 06:28am): すまんMinecraftおちた
-- **ときあめすいせん** (Sep 15, 2026 06:29am): おｋ
-- **てらてら** (Sep 15, 2026 06:29am): エグいほどあるやん
-- **てらてら** (Sep 15, 2026 06:30am): aoemn
-- **ときあめすいせん** (Sep 15, 2026 06:30am): やろ
-- **てらてら** (Sep 15, 2026 06:31am): aoemn ではいれるはず
-- **ときあめすいせん** (Sep 15, 2026 06:31am): あと
-- **ときあめすいせん** (Sep 15, 2026 06:32am): あたらしい動画サイト
-- **ときあめすいせん** (Sep 15, 2026 06:33am): 誰これ
-- **ときあめすいせん** (Sep 15, 2026 06:42am): なにあいつ
-- **ときあめすいせん** (Sep 15, 2026 06:42am): キモいわ
-- **てらてら** (Sep 15, 2026 06:43am): 9w227
-- **てらてら** (Sep 15, 2026 06:58am): gomenn
-- **ときあめすいせん** (Sep 15, 2026 06:59am): おｋ
-- **てらてら** (Sep 15, 2026 06:59am): パソコン熱すぎて画面チカチカしてた
-- **てらてら** (Sep 15, 2026 06:59am): 再起動するわ
-- **ときあめすいせん** (Sep 15, 2026 06:59am): なるほど
-- **ときあめすいせん** (Sep 15, 2026 06:59am): おｋ
-- **てらてら** (Sep 15, 2026 07:00am): いえはいれた？
-- **てらてら** (Sep 15, 2026 07:01am): ちょパソコン冷ますから
-- **ときあめすいせん** (Sep 15, 2026 07:02am): おｋ
-- **てらてら** (Sep 15, 2026 07:02am): 10分後にしよ
-- **ときあめすいせん** (Sep 15, 2026 07:02am): まだ外
-- **てらてら** (Sep 15, 2026 07:02am): おｋ
-- **てらてら** (Sep 15, 2026 07:02am): ４じ10分なったら言う
-- **ときあめすいせん** (Sep 15, 2026 07:04am): おｋ
-- **ときあめすいせん** (Sep 15, 2026 07:11am): やってみて
-
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 15, 2026 06:12am
-- **Updated At:** Sep 15, 2026 06:12am
-
----
-
-### 17. 放課後
-**Author:** てらてら
-
-#### Comments (11)
-- **てらてら** (Sep 14, 2026 09:38am): あとでやる？
-- **ひろひろ** (Sep 14, 2026 10:42am): いいよ
-- **ユキホシ** (Sep 14, 2026 11:06am): やお
-- **ユキホシ** (Sep 14, 2026 11:06am): やろ
-- **てらてら** (Sep 14, 2026 11:07am): 日本語打つ方法わかった
-- **てらてら** (Sep 14, 2026 11:07am): チャット
-- **てらてら** (Sep 14, 2026 11:07am): JOIN CORD 教えて
-- **ひろひろ** (Sep 14, 2026 10:23pm): r8ulv
-- **むららい** (Sep 15, 2026 02:29am): あほがよ
-- **ときあめすいせん** (Sep 15, 2026 06:04am): やりましょう
-- **てらてら** (Sep 15, 2026 06:15am): ときあめしよ
-
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 14, 2026 09:38am
-- **Updated At:** Sep 14, 2026 09:38am
-
----
-
-### 18. 放課後
-**Author:** ひろひろ
-
-#### Comments (33)
-- **てらてら** (Sep 14, 2026 07:47am): やるよ
-- **てらてら** (Sep 14, 2026 07:48am): wss://relay.shhnowisnottheti.me/
-- **ひろひろ** (Sep 14, 2026 07:50am): できん
-- **てらてら** (Sep 14, 2026 07:51am): まじか
-- **ひろひろ** (Sep 14, 2026 07:51am): うん
-- **てらてら** (Sep 14, 2026 07:51am): ちょいまち
-- **てらてら** (Sep 14, 2026 07:54am): ダイレクト接続で
-- **てらてら** (Sep 14, 2026 07:54am): 下の方押して
-- **てらてら** (Sep 14, 2026 07:55am): 1w62tってうって
-- **ひろひろ** (Sep 14, 2026 07:56am): むり
-- **てらてら** (Sep 14, 2026 07:57am): じゃあマルチプレイのとこ開いて何分か待っといて
-- **てらてら** (Sep 14, 2026 07:58am): もうそれしか手段がない
-- **ひろひろ** (Sep 14, 2026 07:59am): おｋ
-- **てらてら** (Sep 14, 2026 08:03am): でてこん？
-- **てらてら** (Sep 14, 2026 08:05am): ひろかがワールド作れば行けるかな？
-- **ひろひろ** (Sep 14, 2026 08:06am): むり
-- **てらてら** (Sep 14, 2026 08:08am): ファイルでやってる？
-- **ひろひろ** (Sep 14, 2026 08:08am): うん
-- **てらてら** (Sep 14, 2026 08:10am): ひろかワールド開いて
-- **ひろひろ** (Sep 14, 2026 08:10am): おｋ
-- **てらてら** (Sep 14, 2026 08:11am): join code 教えて
-- **ひろひろ** (Sep 14, 2026 08:12am): zsj7n
-- **てらてら** (Sep 14, 2026 08:15am): https://makebead.com/ja/minecraft-skin-maker/
-- **てらてら** (Sep 14, 2026 08:17am): おちた
-- **てらてら** (Sep 14, 2026 08:18am): トイレ行く
-- **てらてら** (Sep 14, 2026 08:20am): ワールドひらいてる？
-- **ひろひろ** (Sep 14, 2026 08:25am): おちた
-- **てらてら** (Sep 14, 2026 08:28am): あね
-- **てらてら** (Sep 14, 2026 08:30am): ワールドひらいて
-- **ひろひろ** (Sep 14, 2026 08:33am): sknmb
-- **てらてら** (Sep 14, 2026 08:55am): おちた
-- **てらてら** (Sep 14, 2026 09:21am): おちたね
-- **ひろひろ** (Sep 14, 2026 10:22am): うん
-
-#### Additional Information
-- **Post color:** Black
-- **Created At:** Sep 14, 2026 07:40am
-- **Updated At:** Sep 14, 2026 07:40am
-
----
-
-### 19. 報告：Eaglercraft1.8.8　　　マルチプレイする方法を発見したヨ。
+### 12. 報告：Eaglercraft1.8.8　　　マルチプレイする方法を発見したヨ。
 **Author:** てらてら（陰キャ）
 
 **・方法 **
@@ -1752,7 +1554,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 20. はるはる（非リア充陰キャ）は今日をもってパドレッドを引退します。
+### 13. はるはる（非リア充陰キャ）は今日をもってパドレッドを引退します。
 **Author:** はるはる（非リア充陰キャ）
 
 理由としては、保健についてさらに深く、詳しく勉強するために引退します。
@@ -1783,7 +1585,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 21. てらてらは今日を持ってパドレットを引退します。
+### 14. てらてらは今日を持ってパドレットを引退します。
 **Author:** てらてら
 
 理由は異性との適切な関係を築くために性に関する勉強に専念するためです。
@@ -1799,7 +1601,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 22. スクランブルエッグ第三号クカ
+### 15. スクランブルエッグ第三号クカ
 **Author:** てらてら
 
 #### Comments (6)
@@ -1817,7 +1619,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 23. 二等辺三角形←う、うおｗ
+### 16. 二等辺三角形←う、うおｗ
 **Author:** てらてら
 
 #### Comments (6)
@@ -1835,7 +1637,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 24. 警報出たけど学校行ったの俺だけじゃないよな？
+### 17. 警報出たけど学校行ったの俺だけじゃないよな？
 **Author:** てらてら
 
 #### Comments (2)
@@ -1849,7 +1651,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 25. 長野県在住グリコです
+### 18. 長野県在住グリコです
 **Author:** グリコ
 
 長野県上田市上田原680番地17に住んでます。
@@ -1866,7 +1668,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 26. Post 26
+### 19. Post 19
 **Author:** 非リア充陰キャ
 
 非リア充陰キャです。お願いしますデュフデュフ
@@ -1881,7 +1683,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 27. ここ次付議
+### 20. ここ次付議
 **Author:** てらてら
 
 マイクロチップ
@@ -1893,12 +1695,12 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 28. eyooooo
+### 21. eyooooo
 **Author:** teratera
 
 niga
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6207871980/d6d2c30b72c67be47fad5ab87c305d37/videoplayback__38_.mp4?Expires=1792488071&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=oHkx1WHYAFXuWHP9csIH3qra%2FSHKyAYruMinpYhzySl5LUzE4mRS%2FY9h2S2bbESG0DgKAWKLuK31t8si%2B4%2BFpSNxzCe3YPITHSonD56rMgOg4sFmakPnMZfi66qET2zYjJQ8vLoPrIQVgtWHKBwDX%2Flnj00qRwFNRmRPcZdWzE9utif7PPg5%2Bm2AsPuOmm6FW%2F82jRCIa0iu0m59ESoIsTRkZSvRm%2Bxl2EI%2F6AMVEiasLZxcTRQyyzS0Lxnz4bnXNGBag%2BGBenhBUDKe%2BimLGjj6eN6Ns1dpymGUM6x7g8zREmLfEbXTIjDi%2BEu%2BNVr2X%2BlLDmCxGksqa290K03kEg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6207871980%2Fd6d2c30b72c67be47fad5ab87c305d37%2Fvideoplayback__38_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6207871980/d6d2c30b72c67be47fad5ab87c305d37/videoplayback__38_.mp4?Expires=1792508779&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JFmRkCP1I4Qz8tuIMPQfR%2BH5BZUPZjMa6jd3lOyAjzwsDaB7GyzVuWScjjwXktBh4mJ%2Fj3NGhx6G%2BhYV8nTaD8bqMnTgMWzWNn5MnyGNuMJ34XESrOJwqCM1BnivAzXAO%2Fz0x3snnpEKOebhMo%2FUUY3fxtJJWj9EcXNndM4Jx2EFvCgnbdEE66YVTUz4Zndwrm2zW8ZwTJcJcOlq51iLESXvSSsC%2BnQ3bE2GBsoOxEpXo8H%2BWFBV1Wrb6ovsiyFvWvyPKoIi5oUTXaDxseqxBXr3%2FEpRsz7FJilAIM01f3uL3JEJH71j%2FNOzVPtJ%2B1dWjQDMHtwubPmvWmgz4ayX1w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6207871980%2Fd6d2c30b72c67be47fad5ab87c305d37%2Fvideoplayback__38_.mp4)
 
 #### Additional Information
 - **Post color:** Black
@@ -1907,7 +1709,7 @@ niga
 
 ---
 
-### 29. あいうえお
+### 22. あいうえお
 **Author:** むららい
 
 #### Additional Information
@@ -1917,7 +1719,7 @@ niga
 
 ---
 
-### 30. てら！
+### 23. てら！
 **Author:** むららい
 
 #### Additional Information
@@ -1927,7 +1729,7 @@ niga
 
 ---
 
-### 31. おい！
+### 24. おい！
 **Author:** むららい
 
 #### Comments (1)
@@ -1940,7 +1742,7 @@ niga
 
 ---
 
-### 32. 東条チャット
+### 25. 東条チャット
 **Author:** てらてら
 
 #### Comments (7)
@@ -1959,7 +1761,7 @@ niga
 
 ---
 
-### 33. ここにならなにかいてもいいんですか？
+### 26. ここにならなにかいてもいいんですか？
 **Author:** みさ
 
 #### Comments (3)
@@ -1974,7 +1776,7 @@ niga
 
 ---
 
-### 34. 規制解除その二
+### 27. 規制解除その二
 **Author:** 根釧台地(元いときち) (Dopagaki_67)
 
 これ使えばスマホ用+タブレット用の規制されてるアプリほぼ全部開く。あと時間制限もない。神だから使ってみ。
@@ -1991,7 +1793,7 @@ niga
 
 ---
 
-### 35. 規制解除
+### 28. 規制解除
 **Author:** 根釧台地(元いときち) (Dopagaki_67)
 
 ChromeBookユーザーへ。
@@ -2011,7 +1813,7 @@ ChromeBookユーザーへ。
 
 ---
 
-### 36. Hなことしたいぃ❤❤❤❤
+### 29. Hなことしたいぃ❤❤❤❤
 **Author:** えろい写真ならたぁくさんとるよ？❤
 
 シコシコされてみたいぃぃ
@@ -2033,7 +1835,7 @@ ChromeBookユーザーへ。
 
 ---
 
-### 37. Post 37
+### 30. Post 30
 **Author:** えろい写真ならたぁくさんとるよ？❤
 
 ![Attachment 1](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/5b52c95bef1e316f24d02aff290588f2/image.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiKODDkaUHvSHRKVnUA3vW0A7Yaom2nXEVoIVvCrg2oui_doTIcIq4lKY0d2XFo9w9vkrPAaNvjIGlLfARaJBuaCJ9oUj3yGHsTXkLl_6ipNOg==)
@@ -2059,11 +1861,12 @@ ChromeBookユーザーへ。
 
 [Attachment 1](https://padlet.com/mo_i_zoo/padlet-wfx5clzffum44uj6)
 
-#### Comments (4)
+#### Comments (5)
 - **ホシツム** (Sep 27, 2026 11:30am): エロ大好き
 - **ホシツム** (Sep 27, 2026 11:30am): いくいくいくどっぴゅ
 - **クマノミ** (Oct 05, 2026 09:53am): あだな
 - **クマノミ** (Oct 05, 2026 09:55am): （おんなですｎ
+- **𰻞** (Oct 13, 2026 10:17am): 誰か通話しませんか
 
 #### Additional Information
 - **Post color:** Black
@@ -2076,6 +1879,9 @@ ChromeBookユーザーへ。
 
 ### 1. とるっぷい
 **Author:** 中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい😭リア友の部屋https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl　閲覧4万とか (INMUKING1DAIME)
+
+#### Comments (1)
+- **りんご** (Oct 13, 2026 09:51am): https://padlet.com/51354895/padlet-s024gnpfjbxcyo3nt61r誰かきてー
 
 #### Additional Information
 - **Post color:** Black
