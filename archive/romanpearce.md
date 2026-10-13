@@ -1,4 +1,4 @@
-最終取得: 2026/10/13 18:20:38
+最終取得: 2026/10/14 00:05:45
 
 # シーズン2ローマン部屋
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 60
+- **Posts:** 61
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Oct 13, 2026 07:41am
+- **Updated At:** Oct 13, 2026 01:41pm
 
 ## ライター受付
 
@@ -63,12 +63,29 @@ No post
 
 ## 自己紹介
 
-### 1. 学校
+### 1. wow
+**Author:** Anonymous
+
+i-フイルターのけし方おしえてください
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Oct 13, 2026 01:41pm
+- **Updated At:** Oct 13, 2026 01:41pm
+
+---
+
+### 2. 学校
 **Author:** 学校
 
 YouTubeの見方教えてください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Comments (1)
+- **てっつー** (Oct 13, 2026 09:43am): シアチューブてしらべて出てきたのを開けばショートがないyoutubeみれますよ
 
 #### Additional Information
 - **Post color:** White
@@ -77,7 +94,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 2. こんにちは
+### 3. こんにちは
 **Author:** むににと＿ヒロアカur
 
 始めましてです。
@@ -91,7 +108,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 3. 久しぶりっす。復帰勢です
+### 4. 久しぶりっす。復帰勢です
 **Author:** 霧夜　Mistgentle 🌫️💫　#進撃の〇〇族 総長 進撃のエレン　#チキンバナナの１番目の兄弟子　#会社の一員　代表取締役会長　#nekoちゃんぬ族10代 (07525071)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -106,7 +123,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 4. kawausoK ですよろーーーーーー
+### 5. kawausoK ですよろーーーーーー
 **Author:** かわうそkaitoプロキシー特殊探偵 (27200037)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -121,7 +138,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 5. がくたぶあか
+### 6. がくたぶあか
 **Author:** ローマン (s27260032)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -129,7 +146,7 @@ YouTubeの見方教えてください
 #### Comments (4)
 - **おじゃる丸** (Oct 11, 2026 11:54am): 轢き逃げ犯
 - **れいちゃん** (Oct 11, 2026 11:55am): くさ
-- **だいまただよ！   ハロウィン！！** (Oct 11, 2026 02:36pm): くさ
+- **だいまた   勉強本気でするからていふ** (Oct 11, 2026 02:36pm): くさ
 - **ヤチヨ　推し** (Oct 12, 2026 04:30am): ｗ
 
 #### Additional Information
@@ -139,13 +156,13 @@ YouTubeの見方教えてください
 
 ---
 
-### 6. こんにちは
+### 7. こんにちは
 **Author:** コヤギ
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (2)
-- **だいまただよ！   ハロウィン！！** (Oct 11, 2026 03:44am): やほ
+- **だいまた   勉強本気でするからていふ** (Oct 11, 2026 03:44am): やほ
 - **ヤチヨ　推し** (Oct 11, 2026 05:05am): やおよろ〜
 
 #### Additional Information
@@ -155,7 +172,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 7. こんにちは‼️新人です。お願いします🤲
+### 8. こんにちは‼️新人です。お願いします🤲
 **Author:** 最強💀☠️ (20210911_11)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -170,7 +187,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 8. 数学中
+### 9. 数学中
 **Author:** 85xo
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -182,7 +199,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 9. Post 9
+### 10. Post 10
 **Author:** জ্জ్జ్ఞా
 
 জ্জ్జ్ఞా
@@ -196,7 +213,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 10. こんちわ
+### 11. こんちわ
 **Author:** 卵かけご飯 (00221133)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -211,7 +228,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 11. よろ
+### 12. よろ
 **Author:** かわうそkaitoプロキシー特殊探偵 (27200037)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -230,7 +247,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 12. よろろろろろろろろろろろ
+### 13. よろろろろろろろろろろろ
 **Author:** い
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -242,7 +259,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 13. ぬｎ
+### 14. ぬｎ
 **Author:** 影 (dopagakisine)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -254,7 +271,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 14. よろー
+### 15. よろー
 **Author:** しろちゃん (syunn925)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -266,33 +283,33 @@ YouTubeの見方教えてください
 
 ---
 
-### 15. だいまただよ
-**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
+### 16. だいまただよ
+**Author:** だいまた   勉強本気でするからていふ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (26)
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:24am): お前今サマラン行ってんの？
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:24am): 今日祭り行かね？
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:24am): 今日じゃない
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 03:24am): 今日じゃない
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:25am): あそうなん
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:25am): 遊ぶぞ
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:25am): うん
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:25am): むり
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:25am): なんでこうなったの？
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 03:25am): うん
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 03:25am): むり
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 03:25am): なんでこうなったの？
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:25am): なんでやねん
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:26am): なんでこうなったって聞いてんだよ😠
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 03:26am): なんでこうなったって聞いてんだよ😠
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:26am): どゆこと？
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:27am): なんでなにもないの
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:27am): これ
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 03:27am): なんでなにもないの
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 03:27am): これ
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:27am): しらねーよ
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:27am): は？
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 03:27am): は？
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:27am): は？じゃねーよ
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:27am): もういいわ
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 03:27am): もういいわ
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:27am): なにおまえ知らないから知らねーよって言ってんの
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:28am): もうやだ
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 03:28am): もうやだ
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:28am): [Attachment](https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q/wish/PR3NWxq13n1yab0O) こういうことだろ
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:29am): だれがあらしたの？
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 03:29am): だれがあらしたの？
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 03:29am): しらん
 - **ポタリック** (Oct 04, 2026 02:13pm): 多分ねっこ？
 - **ポタリック** (Oct 04, 2026 02:14pm): 知らんけど😕
@@ -313,9 +330,12 @@ YouTubeの見方教えてください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (2)
+#### Comments (5)
 - **れいちゃん** (Oct 12, 2026 04:27am): オレ
 - **ネッコ　#たい焼きの後継者** (Oct 12, 2026 03:40pm): ん
+- **だいまた   勉強本気でするからていふ** (Oct 13, 2026 09:22am): おれ
+- **しろちゃん** (Oct 13, 2026 12:07pm): おれ
+- **しろちゃん** (Oct 13, 2026 12:08pm): ではない
 
 #### Additional Information
 - **Post color:** White
@@ -333,7 +353,7 @@ YouTubeの見方教えてください
 - **影** (Oct 07, 2026 12:15pm): それはマジでそう
 - **影** (Oct 07, 2026 12:15pm): 一瞬で荒らされるからね
 - **れいちゃん** (Oct 07, 2026 01:23pm): 俺の部屋笑える
-- **だいまただよ！   ハロウィン！！** (Oct 07, 2026 01:33pm): ローマンがやったとおもう
+- **だいまた   勉強本気でするからていふ** (Oct 07, 2026 01:33pm): ローマンがやったとおもう
 - **ローマンピアースのスマホ垢本物** (Oct 07, 2026 01:34pm): してないっすね
 - **れいちゃん** (Oct 07, 2026 02:31pm): くさ
 
@@ -362,7 +382,7 @@ YouTubeの見方教えてください
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (3)
-- **だいまただよ！   ハロウィン！！** (Oct 06, 2026 12:40pm): ありがとう😊
+- **だいまた   勉強本気でするからていふ** (Oct 06, 2026 12:40pm): ありがとう😊
 - **れいちゃん** (Oct 06, 2026 11:46pm): うん
 - **れいちゃん** (Oct 06, 2026 11:46pm): 0幅にしないとね
 
@@ -374,7 +394,7 @@ YouTubeの見方教えてください
 ---
 
 ### 5. れい荒らさないなら管理あげる
-**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
+**Author:** だいまた   勉強本気でするからていふ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -382,11 +402,11 @@ YouTubeの見方教えてください
 - **れいちゃん** (Oct 06, 2026 11:17am): うーんどうしよ。。
 - **れいちゃん** (Oct 06, 2026 11:17am): ちょい待ってね
 - **れいちゃん** (Oct 06, 2026 11:18am): おけ、荒らさんこれからは
-- **だいまただよ！   ハロウィン！！** (Oct 06, 2026 11:25am): おけ
-- **だいまただよ！   ハロウィン！！** (Oct 06, 2026 11:25am): おれは信じます
+- **だいまた   勉強本気でするからていふ** (Oct 06, 2026 11:25am): おけ
+- **だいまた   勉強本気でするからていふ** (Oct 06, 2026 11:25am): おれは信じます
 - **れいちゃん** (Oct 06, 2026 11:27am): うん
 - **れいちゃん** (Oct 06, 2026 11:27am): 流石に契約は守るよ
-- **だいまただよ！   ハロウィン！！** (Oct 06, 2026 11:28am): ありがとう
+- **だいまた   勉強本気でするからていふ** (Oct 06, 2026 11:28am): ありがとう
 
 #### Additional Information
 - **Post color:** White
@@ -461,7 +481,7 @@ YouTubeの見方教えてください
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (1)
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 07:23am): なんだよ
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 07:23am): なんだよ
 
 #### Additional Information
 - **Post color:** White
@@ -476,7 +496,7 @@ YouTubeの見方教えてください
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (2)
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 05:52am): おれ潜入して荒らしたのもなつい
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 05:52am): おれ潜入して荒らしたのもなつい
 - **ローマンピアースのスマホ垢本物** (Oct 04, 2026 05:53am): くさ
 
 #### Additional Information
@@ -496,11 +516,11 @@ YouTubeの見方教えてください
 ![Attachment 3](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/3866745131/52956c638a11445e3d12c6d046ae79ea/1000007637.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio3wVNlgSsJTKbxwWfY8p7S0yrgUnHta5gE7lTJtFTIEl3--SKPbGBTVlprdjHp6WdPaOeVPh6dEwYBXm7oEkHO0mA7zQQnIcoupzlZigCNTZtx1TKM8ILSRsXgDVuazV0y5oolY7MM_W1ckXha9ZkmQ=)
 
 #### Comments (7)
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 05:14am): Uなんたらがやったってこと？
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 05:15am): れいがやったの！？
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 05:14am): Uなんたらがやったってこと？
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 05:15am): れいがやったの！？
 - **生きやがれ** (Oct 04, 2026 05:39am): レイがこのとき重い荒らしを作っていて、この部屋のリンク載せたあとに重い荒らしで荒らされたのでおそらくレイだと思います
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 05:53am): もうかなしい🥲
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 05:53am): 信じてたのに
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 05:53am): もうかなしい🥲
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 05:53am): 信じてたのに
 - **れいちゃん** (Oct 06, 2026 04:56am): まぁ
 - **むににと_ヒロアカ** (Oct 13, 2026 07:41am): れいもう駄目だろ
 
@@ -532,7 +552,7 @@ YouTubeの見方教えてください
 
 #### Comments (5)
 - **ハロー！** (Oct 04, 2026 05:53am): もうこの部屋は終わりただのゴミ
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 06:30am): うお
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 06:30am): うお
 - **ネッコ　#たい焼きの後継者** (Oct 04, 2026 08:33am): うお🐟
 - **ポタリック** (Oct 04, 2026 10:29am): うお？
 - **れいちゃん** (Oct 06, 2026 11:19am): 冷笑すんなて
@@ -553,8 +573,8 @@ YouTubeの見方教えてください
 
 #### Comments (4)
 - **おじゃる丸** (Oct 07, 2026 11:47am): あ、僕ね
-- **だいまただよ！   ハロウィン！！** (Oct 07, 2026 01:32pm): かんりもどしとく
-- **だいまただよ！   ハロウィン！！** (Oct 07, 2026 01:33pm): メアドください
+- **だいまた   勉強本気でするからていふ** (Oct 07, 2026 01:32pm): かんりもどしとく
+- **だいまた   勉強本気でするからていふ** (Oct 07, 2026 01:33pm): メアドください
 - **とりすけお** (Oct 08, 2026 10:22am): コメンターになったあと少しライターだったのにライターじゃなくなってるんだが
 
 #### Additional Information
@@ -597,15 +617,15 @@ YouTubeの見方教えてください
 ---
 
 ### 4. だれかこれなんも無い理由わかる人いる？
-**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
+**Author:** だいまた   勉強本気でするからていふ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (4)
 - **生きやがれ** (Oct 04, 2026 06:39am): もし、ネッコさんがパソコンを使っていて、９時間以内にこの部屋にきたのなら、コントロール+z連打で消した投稿が戻ると思います（連打の際は間隔を開けて）
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 07:32am): たぶんねっこがきてる時間が12時間前だからむりだ😭
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 07:32am): たぶんねっこがきてる時間が12時間前だからむりだ😭
 - **ネッコ　#たい焼きの後継者** (Oct 05, 2026 10:34am): ごめんね
-- **だいまただよ！   ハロウィン！！** (Oct 05, 2026 11:16am): いいよ
+- **だいまた   勉強本気でするからていふ** (Oct 05, 2026 11:16am): いいよ
 
 #### Additional Information
 - **Post color:** White
@@ -623,7 +643,7 @@ YouTubeの見方教えてください
 
 #### Comments (2)
 - **そーりー** (Oct 04, 2026 02:15am): なんやここ
-- **だいまただよ！   ハロウィン！！** (Oct 04, 2026 03:26am): だまっとけ
+- **だいまた   勉強本気でするからていふ** (Oct 04, 2026 03:26am): だまっとけ
 
 #### Additional Information
 - **Post color:** White
@@ -635,7 +655,7 @@ YouTubeの見方教えてください
 ## 雑談
 
 ### 1. コメントの人ここで話していいよ
-**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
+**Author:** だいまた   勉強本気でするからていふ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -643,7 +663,7 @@ YouTubeの見方教えてください
 - **九条** (Oct 05, 2026 04:13am): あ
 - **九条** (Oct 05, 2026 04:13am): おおおああ  あああ  
 - **九条** (Oct 05, 2026 04:13am): やらゃ 
-- **だいまただよ！   ハロウィン！！** (Oct 05, 2026 11:16am): え、九条ってイケメン部屋の？
+- **だいまた   勉強本気でするからていふ** (Oct 05, 2026 11:16am): え、九条ってイケメン部屋の？
 - **おじゃる丸** (Oct 07, 2026 11:42am): おもた
 
 #### Additional Information
@@ -660,7 +680,7 @@ YouTubeの見方教えてください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5209361250/ef56149b4637d8ba5e21bbf733449304/Screenshot_2026_10_10_21_16_37.png?Expires=1792488103&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Rat8S16uZnmIC9%2BGreIurwyNKgpxtvYcllV36gqXpvbeE2zXLutUY1jtfCnl7r7tFmcOxuZWup%2B8exPtbzYNodQbRI2rPpuDQmK5op8niIi6Q3Ndg8VrhlGrtdYzWk9be%2BvEsCPiELSs3tfUk2p2fdRtgYMS%2Fo4IFT59ves9XeubBNE6ysb8n4cN%2BV8%2F%2B6xXxDCtzpCVtXKpcq06iF3e9zHFMu9hku6i3ly69ejAftaCWPbZzJK%2F6H7IGiJz2z2zsne5ugTXZeEvEpBTL9P3a3l22oLBcfQmDRkT8cIUli62pmmy8kjR1r5%2Fbq4dGJu%2FHqicUfWA8rS3RJTEivagDA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5209361250%2Fef56149b4637d8ba5e21bbf733449304%2FScreenshot_2026_10_10_21_16_37.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5209361250/ef56149b4637d8ba5e21bbf733449304/Screenshot_2026_10_10_21_16_37.png?Expires=1792508818&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Q3Y7YfVzcjBq5OFl5GPEyTCtYlR1UrxlZ5dZXPJykayi%2FJ8mkk6q7xFbHMiNTowc778sEpqD4t72SsiykPDJ8FDAnQP7FyMDYtwtVsav17UP03SlqsWm8QC9mwfPW%2Bu77JmiilidiT0QKLEt5%2BvjiMCXFcb3LdzXEg8HZWVlkcqhTskd2XmDBIwHXE6BVrnr4E3QUGOJ%2Bd0GGt7Fcp1wAhvsCVpNciRLtUL8W8Z8K95uxDvc57VUchCZPyBIak7OwubtAeUZ%2FT7ItXD6k%2F9sZSd0DymYYfb68RHcpzDYtsRpSO7m2uI%2Fuz6M%2FzzDfGbXCJ3B25TMExBX8S7bYh4lBQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5209361250%2Fef56149b4637d8ba5e21bbf733449304%2FScreenshot_2026_10_10_21_16_37.png)
 
 #### Additional Information
 - **Post color:** White
@@ -678,10 +698,10 @@ YouTubeの見方教えてください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/ed2d5d1007606ac9a0b67aa488352550/canvas__10_.png?Expires=1792488103&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KnpS4LBaGR28fY6lO18BSuNvXjwrN0pRyRMmTpvE4dhnclRMxwdH71hJZI%2FFPFtJnjkU9hycOFd2h5ECE8GNXjfv8W425jvl8QIKg0v7epz0gBTEdy9s0vO5nGSXDN7g9bTB9oCWJJcZ4IqO5qKB1iz5l%2FXSsgLktdY1wmk4I9QIgf75IpE4twvL9hFLx3Yoli0bQBjzWnVrvfDSJmk3vbvxHSpdxNOXmBUPfw0EAIVV2C9UkUZDx02bQ8bDlosrFHuMtoAY89y26qnIV1aacCAyiSoLgTDP2d67ChyLqJZLEqJo3MjZRKDbEUolBiLF485DAIw9t3oHoblGVxHeaQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Fed2d5d1007606ac9a0b67aa488352550%2Fcanvas__10_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/ed2d5d1007606ac9a0b67aa488352550/canvas__10_.png?Expires=1792508818&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Vr3XKzNb03MMXoysEMRqfDhm9simQZ3PFRdBfcP3918yMWQEQ7mJeqdvbI%2FcUuszIbVpLfXBzaOMlDqA7LSVWIciISCTBE%2BCBl2hcfYWOSYrgDylco7MI3TQ36BqTVyZjqJvkI0h9%2B3%2BAhqhlm2EjBTukVsiD2NnG%2FUyRqBr8WaDNFWTOCI3YfZWMJEQcOl2OgeFpHGqCDrGo7mt22khZ8iaucIh71RQ7cGiNrJnHS780NmZp3nX8tq7wDbI9CAbXShDKr0ykd9Fu9FzR9cmEAmgb1q6kz3PCvOgznWh%2Fk%2BkC9Sx%2F7cURw2SIq3g%2FNFWVEyr1boGJXeZtgKNT9Sepw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Fed2d5d1007606ac9a0b67aa488352550%2Fcanvas__10_.png)
 
 #### Comments (2)
-- **だいまただよ！   ハロウィン！！** (Oct 09, 2026 04:22pm): うまいね
+- **だいまた   勉強本気でするからていふ** (Oct 09, 2026 04:22pm): うまいね
 - **おじゃる丸** (Oct 12, 2026 08:01am): すごい
 
 #### Reactions
@@ -701,7 +721,7 @@ YouTubeの見方教えてください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/7bc82b8bda300f99ad7a15685e7171f7/canvas__9_.png?Expires=1792488103&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=E6SH58Tf%2BmkW1JyksUH1o0dV37C%2BjPkGxpUw54wgjyQtD0kGm2MG45UsbV252qvM%2BwRojBMBoEXyG%2BGx5nBUu8zCcRY8nNuf7fKeHYBhg%2BGLJBQ%2FJ3ii1LUNHIw8yLpjk%2BR9pRVdZRSd2PsGfLpxk62H484XDR10%2FZNhRBtetiea%2FjYsAb%2F1VWS3OoBtt2PbZMzfOOPWRukqEEy0mqTU3kFOkojZWoxL22h8P0zXbm9SJ16Hldl14T5QciuARvIoKLwYVUmqhBRwNRmdvOkWRly5qcVASqDqwtPHeJX7Q7RUAu0GK3PPsp0YqivylTv%2FLroGbz9YnZGrS14CkjjzZA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2F7bc82b8bda300f99ad7a15685e7171f7%2Fcanvas__9_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/7bc82b8bda300f99ad7a15685e7171f7/canvas__9_.png?Expires=1792508818&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5Gsa6KgXJiTVaFC9ssZ0jcBPl6JNw7naGuGFBemJGOBLrG6JTgNSSo661Wl1UTeAVUsniXvuuEu7zoqnUL%2Fv3Pqa3BTKLmMj8x0hwSj2d%2FErYgAc%2BBfeu%2BMYpz5PWOIBZ6c2e5%2BixTv5DDnGsPjAsiqrfqkuS%2BvCE8DGnKB2h%2FNrBOnuL5QLrUYbcjO9T5XcIblyPGNs3Hq3zfcfUplztuUuyddsY99oelOFMUpheKBKFK%2Ftq8wHPegBbR0q8X00xiyCdpzDdZacY9i08qXr4z9vFGW5b0DRYSlLTq1dz%2FGSg%2FCB9U%2BsGeAE0Wwl2DOhbi5G1H2%2BASMU2%2FnLVw1Xgg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2F7bc82b8bda300f99ad7a15685e7171f7%2Fcanvas__9_.png)
 
 #### Comments (1)
 - **ホロライブオタク** (Oct 09, 2026 04:07am): 描いてみました
@@ -722,7 +742,7 @@ YouTubeの見方教えてください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1792488103&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Co8GUhw%2B%2FnERl8zau5bjrC0GrbOKEItwmMIPjRQInHnA%2F98kQxlMP5B3oCP7o%2F3WvcEL5Z9wnhxstl5E1x3ykkYvShKoljfvocVou6H31mSu2lIGlldAzDTb1G%2B%2BTlMZXFVH1Z7jP6P0u6MwVWdk8Xsr66xNJMPqRvVIqK317dgKftG9aUodU4RrkkIQNDE8sHLiX4Aaejcffx7dShc4rAZY6PxuHCCVSTyOKwHKsnx%2BA%2Ff3PMycgc8YHlQuC26RHLldhhn%2F1FwbJwBiYhLOLhLUguZ9fuG0bQFcGDFAKa%2BDgnUm%2BbU4K3QORfb83W30bv2yi21VmB17IvPKVhlTZw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5732693813/f27d81f80aa8c0bef52b669990f78717/canvas__8_.png?Expires=1792508818&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=O8DcUETrmYb7j5VUul1wtN7VxnHiC5wXonkmuOW5Wd99vWOFzgM89mWsqHlfZROFH1w7AkK9k%2Fps4Mb6J%2FrmykiMUzlMiPsPiem4Q4DLc6WVQJgCIDogIo5762e6PIVsXJBWoqcPP5aMgdqrC6U%2FcIiWkl6Nx6tFO8DXrXkhMFOAocRSIw1qe4QG3Yg68KDasFW2NTMYW5mLafwiw1j0EuGE1lxheSOD8Lb9IwRcdBnPhL4kmNln8wcDKqiaOMXogMKHnyU77EZTS3iwyeR6gy02aMr9IpIB9axVeW2nzTtnlNu7v27xgGStdnwxhSKw2xR%2BJwDT%2FkmprzzZP5rWtQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5732693813%2Ff27d81f80aa8c0bef52b669990f78717%2Fcanvas__8_.png)
 
 #### Comments (3)
 - **える＃だいまた20番弟子** (Oct 06, 2026 10:28am): 素晴らしい
@@ -762,7 +782,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1792488103&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QgDJLmlmu%2B3l%2Bx7wXhLJqjPpAsGHW8auupKHp0bGckJJbq%2FDCQwwA6jmvm8daOsU0b3w3xrCliyV%2FNTvGle4PlTAewV10ZcQ%2BXfR1dHEdkeG%2FbD%2F1ToY%2BWO6SfGRBCvYvlPcPYdDLblYHfhVXaoZDE2lPwDYFEvF2mBWkQmroRA6PiX1ItH5HuGaFkh%2FPP5HKZDTdnzLRTsiQ5LMo0JtdXUw4hSRYXUhzkC1qKrCJ1AkQ0nD4tUNd0CE2LPoU1%2FAzvYrdR5jLWgVzvSGFs9iNDx2sdfoKsUL90qznmC2vw4GQwQd3ivMdb9Grr6T56LbbprvlLbhfNsrkoZKuuiJ4g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1792508818&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=X%2FniOzXdWrS3GDJo75rMSqcA4aU6i4dbcnuvVtwNX6YCzFWSs1b%2BeZ7R%2Bl1CJI27OhPRGn4cUrB%2BV33WiNhQCvDFM1pJXnTDZ8rFAPc36y%2FZz9Brh8ZfsvQ9ffGzx5B4gTQ9y5Bd1gpyEiuFgGu9wc2ezVqvKQ3gCa4UKfRfrJH8lBCIxxK8EyVreIcJdD8lnwdySYZjthtJ%2Fn9rawMm5O%2F5KNvmbtSenZgCTPvs8aDSYOAhkPQUIm%2B4cRpcjjY18sFZDn0%2F%2BK400EVa3iC9lpFkLqNbg6MIwR3D%2FSMSY05ivuiueC2RUmbHCDkutJi8ykHWiNjwkdEBKvLaljMfow%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (1)
 - **かわうそkaitoプロキシー特殊探偵** (Oct 06, 2026 11:34am): ?
@@ -856,7 +876,7 @@ No post
 [Attachment 1](https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh)
 
 #### Comments (1)
-- **だいまただよ！   ハロウィン！！** (Oct 06, 2026 10:13am): はよしね
+- **だいまた   勉強本気でするからていふ** (Oct 06, 2026 10:13am): はよしね
 
 #### Additional Information
 - **Post color:** White
@@ -892,7 +912,7 @@ No post
 
 **どれ？:**
 - **学校のパソコン:** 67 votes
-- **自分のスマホ:** 2 votes
+- **自分のスマホ:** 3 votes
 - **自分のパソコン:** 3 votes
 - **その他:** 3 votes
 
@@ -907,7 +927,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Oct 13, 2026 07:38am
+- **Updated At:** Oct 13, 2026 01:09pm
 
 ---
 
@@ -928,16 +948,16 @@ No post
 ## プロキシとか要望
 
 ### 1. ここにコメントしてね
-**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
+**Author:** だいまた   勉強本気でするからていふ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (8)
 - **ポタリック** (Oct 04, 2026 02:10pm): あ
 - **ハネノハ** (Oct 05, 2026 12:10pm): プロキシサイト教えてね
-- **だいまただよ！   ハロウィン！！** (Oct 06, 2026 11:29am): なにがいい？
+- **だいまた   勉強本気でするからていふ** (Oct 06, 2026 11:29am): なにがいい？
 - **美獣後輩** (Oct 08, 2026 12:25am): アンブロックゲームやりたいけどどれかわからん 
-- **だいまただよ！   ハロウィン！！** (Oct 08, 2026 01:43pm): 例えばテトリスしたいとか言ってくれたらやるよ
+- **だいまた   勉強本気でするからていふ** (Oct 08, 2026 01:43pm): 例えばテトリスしたいとか言ってくれたらやるよ
 - **Anonymous** (Oct 10, 2026 08:22am): ちんこ
 - **内藤内人** (Oct 12, 2026 03:46am): テトリスできますか？
 - **さと** (Oct 12, 2026 10:56am): インスタかライン開きたいんですけどどうすれば貴女できますか？
@@ -964,7 +984,7 @@ No post
 ---
 
 ### 2. Post 2
-**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
+**Author:** だいまた   勉強本気でするからていふ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -976,7 +996,7 @@ No post
 ---
 
 ### 3. Post 3
-**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
+**Author:** だいまた   勉強本気でするからていふ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -988,7 +1008,7 @@ No post
 ---
 
 ### 4. Post 4
-**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
+**Author:** だいまた   勉強本気でするからていふ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -1000,7 +1020,7 @@ No post
 ---
 
 ### 5. Post 5
-**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
+**Author:** だいまた   勉強本気でするからていふ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -1012,7 +1032,7 @@ No post
 ---
 
 ### 6. Post 6
-**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
+**Author:** だいまた   勉強本気でするからていふ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -1024,7 +1044,7 @@ No post
 ---
 
 ### 7. Post 7
-**Author:** だいまただよ！   ハロウィン！！ (daimatadao)
+**Author:** だいまた   勉強本気でするからていふ (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
