@@ -1,4 +1,4 @@
-最終取得: 2026/10/14 15:40:33
+最終取得: 2026/10/14 19:16:35
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 99
+- **Posts:** 100
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Oct 14, 2026 06:25am
+- **Updated At:** Oct 14, 2026 09:42am
 
 ## ルール
 
@@ -241,7 +241,7 @@
 
 うちの犬かわいいでしょ！！
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6405886148/55b4161238291b185048a71bd05ef9c8/images__3_.jpeg?Expires=1792564868&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Untt82%2FVNjne%2BjONb29V3kbRx2dsYi81eqiVdLSOEk4JUcWQpCoKQBY07QSZRb8MaEj1YTPiqjNEPw3szeorXuG6oUAPph5fe1Mf6gRxwqdWXSflFYjc%2BMKEvop3vlEPjIS90oM2xsKT8nmv9yHtXCPThkxY778AcWE4zKj%2FtzHxIjEQJjEVRbCzKBS7tEVGN3U4fdbK94AkeQ5jiugsGGOTd%2FS2bTvNBwrKxRyPHbWBv%2BlDiuPMVrlhfcuPyz5cPHdibP%2B4wXyB1nv2lQu68BDP18oNHUd9fhjC3GfheTfVCGzWk43QvbicTlcKoplG3cdmf%2FpY6aXA4GPL8Ab9nA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6405886148%2F55b4161238291b185048a71bd05ef9c8%2Fimages__3_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6405886148/55b4161238291b185048a71bd05ef9c8/images__3_.jpeg?Expires=1792577828&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jmtIBjJ1XnF%2B95T%2Fr0Efm9wjdBquVoQYNvvrRt61wGIGVkTzN%2BdGia1SviJpTALg%2FC9H8IRn2wFeXng9cRxePoc%2FG15VTjUIkjKq0EpXBk%2FqLbnZlN4HI2YQAiRODwbq%2BYvfyMAFLv3PRBPzFvq5u1kM6PJcc2lel1dGBoIFQqxlRTPiyK%2B1mkJhF491vmCu2KzBgoz6Bw%2B6DaLpBn1k%2BbvNF1Soh%2FxN4m2QohPe7ZkwCISNMOW6DFMkbf04ML3aXdZvGA4LNX%2Brdm6ksw2O%2FrupoyytJDl3CKiorYFEfVmWErlqW%2FaPl3Yl6rLjFdNfYmpZrb6IqVMrj%2BBFW%2FMt8g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6405886148%2F55b4161238291b185048a71bd05ef9c8%2Fimages__3_.jpeg)
 
 #### Comments (1)
 - **アメアオイ** (Oct 08, 2026 12:28am): お、おう
@@ -271,7 +271,7 @@
 
 えぐ
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6372588961/8106e0d450971f2b26cfec4f7ebe8ad7/photo.jpeg?Expires=1792564868&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5B3wr1gUeS3Io67jENRYNM6O4NgXYkE2N%2BQXHwhhxLLHxnw5K3dRZ5jq13G46VQHMFSSt7UlFKiGUycn66k2R8radGGVvbLzLzftyf%2Fxee1zZ0DnprHE4wJjYkLxjGvn80BdZPP6qv%2BveuuWzQ%2FEGcPZJQjFgGOVsvWiD7FehIUvn%2BMqp8%2BnB%2B455Va93Li%2BPAQS7QXexOc6gFZSPRvGwQqrnimTJ%2FkLzHVsWP4TbJoB%2BJfab3zcxWJGkbQFVoOlWB7u%2FZAOG1zFsPnB%2FZ5544RHx8CfL13zJwT1%2BQobzbcAJsunyV3%2FMOixP45b4%2FlrMVTGneB%2FucHaZp23AcioDg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6372588961%2F8106e0d450971f2b26cfec4f7ebe8ad7%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6372588961/8106e0d450971f2b26cfec4f7ebe8ad7/photo.jpeg?Expires=1792577828&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=w2CmKhIWiPY0%2FJ01vX2578yPyZwyjGudPuGRpQ7JUIxf8IgOt7eg0HpWzlr42UtrkUpAwxuGwVXO7AsiAaHgjhsjXqKqsn4654ApjQEYztLF%2BFuS%2F2DhdV9LsZsmTepAd%2B5waYy2liJHVVyyG%2BAmZjtTjtEEU5WQ0BxSZZcqWM4U4HzenbhdHzOuiQNyYKxF02tHcwtCZ0uXbINRaPF2qztdD6h1czqYGewlV%2BniMB%2Begdfu6Tt07CQMNyfiZY%2FB9Agjyc5QPN64s8VJ3KUDQNWIvvffmYoK6P6MnCka3pmTDied4aJsMB2Cai8I7DnxzBdGEmnAFSj3UYymMLxCew%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6372588961%2F8106e0d450971f2b26cfec4f7ebe8ad7%2Fphoto.jpeg)
 
 #### Additional Information
 - **Post color:** Black
@@ -320,7 +320,7 @@ iPad自体に規制かかっててそれでも規制かかってなくて使え�
 
 Chrome bookで拡張機能のところがいじられなくなっています。どうにかこの拡張機能を消したいです。どうかご享受ください。
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6305668257/c7c69a2ddc7e26baa18b8d2bfb21fc51/image.png?Expires=1792564868&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4KoRgdSv8PvAC0OrnIAY4sAi6EryBugCABlW1SIxcvnZY%2FY7cbUDGmjBaeN04f%2BxPcWTbF9Xqk57rrmVkBX2wgt4C6uHDYT%2BVLMbd5WJi0jqKK3SQacwg%2FvVUf1GLICHPmOiWtUjW0H2xTklwCkKFptSkeFKlid5f%2BuOqcYXfkCaKQbjcoO31Vv%2Fq7J2ZlRf1aE8RuQQUWy76gl%2FVcIfHqsKIRN%2FSXzV8g8p2S8e4HKOO5nJa3cX1YCCq8vc8Nr%2BbVjBaWUgQbGtq6mtm3%2Fm2xf7gUjd5EXuhG9kvh%2BhybiH5r%2Fqz5XK0tzt75YCz2ymWPIP%2BeFQuv12vMhg3wU7jw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6305668257%2Fc7c69a2ddc7e26baa18b8d2bfb21fc51%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6305668257/c7c69a2ddc7e26baa18b8d2bfb21fc51/image.png?Expires=1792577828&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Xu%2FF002jDHJpJn2xXT%2FzpiNeRbNQDFBxkvmlYWzNzNZUaG7dgl4gdf6%2FitMqiKOafBJi%2F1FuHnwXo%2FL615IIrRqo79v%2FQ%2FsdFQsTYBybC1MTWa8ym1cyLGdbFsm3D0a2t5IWPk2GocPVQdM5MZHILtKDZb%2B6FBGZC12fb40QfmLQmlDBliTd%2B8VCwIU9E09C7pQ%2Bp%2BVRtmS5AY5g%2BPEaQuySoiEQwJIPzWC2yU0BIUfVqLXjEQfdpDqKFHQ%2BK1zDFvf80noHm4rYvda5Gt%2B%2F97y%2B9SZPxbXFDYnZaWx8LFq%2BWqHnv8oYc5S2BH4liDpztQqIe2GrLdd9u5Fw4peLMA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6305668257%2Fc7c69a2ddc7e26baa18b8d2bfb21fc51%2Fimage.png)
 
 #### Additional Information
 - **Post color:** Black
@@ -575,7 +575,7 @@ Chrome bookで拡張機能のところがいじられなくなっています。
 ### 28. 野砲
 **Author:** ガジェット超絶z
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6203129829/590fd1eba39a80dae4ad0a86696f9d94/videoplayback___2026_09_06T192233_571.mp4?Expires=1792564868&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=8RLcYId47Z3yuIpgILDVbLPwQIghcxZPK7QFRDVH%2FdwYGKkNeJTuT4oK9RhC0WnZiu3GOI28NJ11F5HPQ9BX6Y69mKOEjzCPT7bN9vI5SnJBO9Nf%2Fa5YtMXWljvCSCe2lgNgSpULZuMKEVosGM9vmg3LzKJfYR4HyhjlktOm0Nm3fjmqqLyuaQKUdyXkbS7%2FgnhwJqHNQT9ufSprsH1uDXHBi%2FLdPOoib2FbUwYoECgx5OgCqqdDPCmxmkfpf2dDLYeKxJGLYdLOLQoXChSVbm6lsEb%2FCEcn7QffVT%2FaQ4vdQ1dg1M9zPyVJN11JAlngqquU7dKIivCmvF3kdIOy3g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6203129829%2F590fd1eba39a80dae4ad0a86696f9d94%2Fvideoplayback___2026_09_06T192233_571.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6203129829/590fd1eba39a80dae4ad0a86696f9d94/videoplayback___2026_09_06T192233_571.mp4?Expires=1792577828&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1hIjIwfaM%2FbRoX444dWIY88or%2B6oXq1xVaXj4IKy0bZgG1ylsks560hOtOHV29Z8eBVQSAa5LHhJ15OTarOZiN2%2FWkscO328RitGF9Qim%2BPKB99xwRX3yY%2F3daQCsEhI%2BGDzeCAz7031%2BFiwCCZlnA5iJVJlQmFQGH8U%2BrUyPbLJIfBqe6d8ly%2Fc53t17GFionaXIzv6UxaGMP5wz7%2FoZZ4VwrsnYk8Jtoa1sNDcv2z408O9PWnAhv4GqDdCCCO%2BdyvoAR7t4YTcMLgpx084TzIpX8Rd04M1X9vDGVQGJroZEJpdHTcTvQiQwytAPurYGzUvHBACeQ2O7TU98LFCTg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6203129829%2F590fd1eba39a80dae4ad0a86696f9d94%2Fvideoplayback___2026_09_06T192233_571.mp4)
 
 #### Additional Information
 - **Post color:** Black
@@ -587,7 +587,7 @@ Chrome bookで拡張機能のところがいじられなくなっています。
 ### 29. これ見れる？
 **Author:** てらてら
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194730678/e0a90eb93b7136001fe8ecc31dd5ed79/videoplayback__45_.mp4?Expires=1792564868&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=c2NmuCU9GTiS7yIk2Oq0XmnqmLSY0H4m04%2FGrZACea4VLKBshj16%2FnsylYZCX03pI3hvhFnulSnKG7WQuOpMnct%2BENIXlGmL7S6OZTCtE6Bn04kkPvBuns1f2WMOEzL3IRK9xMXx%2FaWzy7jCNTrvEWiHchJ5j3tyWNTyemY3sgcye58T6OOmHXn%2B%2F8vVPcVs9%2FeR7hhlA901b%2BAGr0Y9S08qxLE%2FF0pnr%2FWcId1n9yY091jetmtYs%2Bic%2FvJJzsIKT7zXD8TBIaLBeJsBrzQAbYk2iQn3hmz%2B1eUSHHz4OKrDXOKw4Pp20JWkiuxxb3x%2BZ8T%2BIjojUZKiph6Eb3nTAQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194730678%2Fe0a90eb93b7136001fe8ecc31dd5ed79%2Fvideoplayback__45_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194730678/e0a90eb93b7136001fe8ecc31dd5ed79/videoplayback__45_.mp4?Expires=1792577828&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LgobZ%2Fv2QLhoZQ7Y2Gdo9pdcuDlmem9E1VrMIy3Y6zQTLiONjjppgcruV5%2BzPTNB%2FSR6DPG53yepGdaXKWZkxp0CxY1q0zZtvLpu9xiyDLHdUc9hErMtJx%2FxMkZoE4uzo4%2BoA6z%2FV%2BXkZU%2BN536tXcId71JuS9%2FnVLVZSRk%2B4s%2BuLLy5NCmf6bEI8KnYru81cD46VKO4v0BBTtkN7yxN89%2B0Y%2F4AwVeHFFCSuRFCe3jm3HRJGwivHg6hRXT7ahXSoTuOx41I1k9y1%2Bxh9G569mbcpACnKDOf%2F5zMY%2F1IdEtqiDi3GStiu7YV8YBPGpNlyaAP9WHO8XJWWc663UE6LA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194730678%2Fe0a90eb93b7136001fe8ecc31dd5ed79%2Fvideoplayback__45_.mp4)
 
 #### Additional Information
 - **Post color:** Black
@@ -601,7 +601,7 @@ Chrome bookで拡張機能のところがいじられなくなっています。
 
 解除してください
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194665627/8020d285b6b4d07cd736be52cb8a0091/photo.jpeg?Expires=1792564868&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Mf%2FFqShSnjvPRK5mh22cWApWr6AvpiuiWUPey2YbG5yVFUYhiMoc8zuaZCCNZE0ANVB3Z8XCmT2J4Fjj98pgMCZkV4un%2BauG%2BClkufMtBneBLkMQBxCSjAGsqXqaV6f3qHOe3RH%2BTKVxOhLxrFZuK3g%2BRIchyo%2BTFyP2BTbOJdCDEd8WEObnCZwBjGkfa46715Op9jULoSaensMybP%2BhRWDtXGw6oazNcG83H9PsuC79O3zY70M4IhIE7RwzJf3AQrOW3gEN0srluqiFOq%2F%2BahLOfxYcg4Nj4vOZ%2FhgRACEMQ2lCdQsv11pP2%2B2T%2B4ZlBoC0%2BaG0CspKqp52Vz2k1A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194665627%2F8020d285b6b4d07cd736be52cb8a0091%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6194665627/8020d285b6b4d07cd736be52cb8a0091/photo.jpeg?Expires=1792577828&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dZazZOhVh0CODnXQ7%2BHyagvb8pnlzW7QsGOf%2FeYIK79pHU9oxzfZmUd0gdLE46bLAgj17BO%2FQA0Q8lsqNNhX8lUx5CR2QVQdtbAuaWPzTLaF5%2Ftp4KkEC7CvMAOEn%2FivW5NiN3XD6VTMOJg1j0v06UyecPiAW7M5S5GbhzrHU3iOlTgKHPgVJ9G4p%2BfrzPBXv9lC6pbAMLTKuR%2Fdry5tf1E1V7f1ySiPKAO%2BM42bskQ13wvXKJ%2F8wCeVu2E5P0uik4cnmGdq0qGn7P4P%2BpSu9LlGAGXK%2FImQ3QXVKI8ubuPzaQvyoxKNEbvwoMHvOSlXIRXawsUxNgHRV4bR0HttsA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6194665627%2F8020d285b6b4d07cd736be52cb8a0091%2Fphoto.jpeg)
 
 #### Comments (1)
 - **ささ** (Sep 04, 2026 11:50am): きｍ
@@ -676,7 +676,7 @@ Chrome bookで拡張機能のところがいじられなくなっています。
 
 
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1792564868&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=44n%2B3xXCqQO5liv7r2sTs5fnq4lqqNVQ3HPXfCAwKNAzPgQ%2ByXKO0e64X3ODPwEulaqOx7qZ5nkJvGlYFKPPPnO0lmjIysvU6InZKIyuOMdEYN1SKvkRTqPmNwFFnpy8xM1KazuYOzqpwBMT0x%2FH%2FVTnPQfAPs%2FE%2FUXozLLDEQDvFdehEAY395uendgG4PGWjQa0nhmvtCcoVkLr9BpPHOEImiRNlWNNAllQpKseW0w7wYx3oyVLEI1k7ZxGfRbkgyq%2BwFjbh%2F3dWHE6BDdyOuDZPQsH2FOEPzxHqAHfSBzAt%2B0SBzccfwGdazlV52yqzMQZk6166U%2FEIapRy1cKOw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5933465961/fb6db52876d5c9a1421ba120d5f17a5f/photo.jpeg?Expires=1792577828&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4OR19qy%2Bb3fu5mrmZ%2BTENjv%2FhnnoC1iTmwt8aL%2F0OpDLZUubOotdzXN4zs7ZkGDBVPx787a9M1y9uPjyz813Z3dhdbbSMYGbC05zCER7x9V43RjJ%2FvgkFqB1lV2Du64bSToeXSXbRpnc6bM%2BGpd8o5kHZxohiGf4nnWJLBS7Mspr2MJV5AkL%2Ffp4nTXOEkreYkrQ6cgGKD4xqQW2WXA4Br39CmN1CJPpPVzuE0Ws4FAMoorqi8SaoUdh3T8hkDdxcHqvOApu5Qz4CoH2oOeb5RTgLhoUZJ34LX8oI%2FO7yOkucP%2BHhSJnzVZcpKPMOZs%2BFP9CQMDJJTbFt5RVZDxhzg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5933465961%2Ffb6db52876d5c9a1421ba120d5f17a5f%2Fphoto.jpeg)
 
 #### Comments (1)
 - **金城幸之介** (Jul 14, 2026 09:01am): どんなしてんの？
@@ -1189,7 +1189,19 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ## 好きな事をしたまえ
 
-### 1. いつ入りゃいいんや
+### 1. Post 1
+**Author:** コケノイシ
+
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6475927658/ccc6f45211e192f0b0d1babd5db6051b/_____Cover________.mp3?Expires=1792577828&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ttb778T7xpMAnfRCby5HqrmX0ZS2aP1VEcxRkT9oJn3X5%2FNpRIpCkG58ISuoBynaohRF%2FCW6H04eaPLIYz2CdYpgBVQkDWKU%2BVzTlwzwbGXESJJXCBnYDgyysiIQkx83wjhCuIUcrrMmTSVNBchMC6RBPnENeHiMVF20CATL3UDJXnCg33TWbs4khvM9IGQHSaK4ICeGYE6Qn9H%2F64DawAKE8FaqKX7rcs3mIZkPyeMGEEj8d0wc5PKAF0Ry43tKL8ws6M8meDEZTFq4Z5z4Rd8XabIfImxmO4FnhRl6UVL2Y%2BqRLJ3M51Scvn0Z9IyEf5Iqz6PP%2FJDzMXBf%2BOJDUg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6475927658%2Fccc6f45211e192f0b0d1babd5db6051b%2F_____Cover________.mp3)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At:** Oct 14, 2026 09:39am
+- **Updated At:** Oct 14, 2026 09:39am
+
+---
+
+### 2. いつ入りゃいいんや
 **Author:** trtr
 
 #### Comments (54)
@@ -1255,7 +1267,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 2. そろそろ荒らされるかもしれないです。
+### 3. そろそろ荒らされるかもしれないです。
 **Author:** yu² (46yu2)
 
 #### Comments (4)
@@ -1271,7 +1283,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 3. これYouTubeサイト
+### 4. これYouTubeサイト
 **Author:** うる
 
 サイトに入る人はコメントしてね
@@ -1291,7 +1303,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 4. 誰か通話しよ
+### 5. 誰か通話しよ
 **Author:** 航
 
 #### Comments (8)
@@ -1314,7 +1326,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 5. ごめん
+### 6. ごめん
 **Author:** 根釧台地(元いときち) (Dopagaki_67)
 
 通話したい言ってた人、期限切れリンクが貼ってあるものは全部消させてもらったよ。これからも通話誘うのは遠慮なくやってね。
@@ -1330,7 +1342,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 6. ユーチューブ投稿してほしい人✋✋✋
+### 7. ユーチューブ投稿してほしい人✋✋✋
 **Author:** うる
 
 20人集まったら投稿します！
@@ -1351,7 +1363,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 7. プロキシ
+### 8. プロキシ
 **Author:** カエデミチ
 
 学校のiPad自体に規制かかってて規制がかかってないプロキシってありますか？
@@ -1366,12 +1378,12 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 8. だれかいますか？
+### 9. だれかいますか？
 **Author:** らい
 
 夜通話しよ
 
-#### Comments (98)
+#### Comments (101)
 - **彩** (Sep 28, 2026 09:52am): したいです！！
 - **らい** (Sep 28, 2026 01:25pm): しましょ！
 - **らい** (Sep 28, 2026 01:28pm): https://talk.ubports.com/join/tuuwa2026
@@ -1470,6 +1482,9 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 - **彩** (Oct 13, 2026 12:30pm): するー！！！
 - **らい** (Oct 13, 2026 12:45pm): おけです
 - **らい** (Oct 13, 2026 09:30pm): またしましょ
+- **らい** (Oct 14, 2026 06:54am): 今日しますか？
+- **彩** (Oct 14, 2026 09:04am): するー
+- **らい** (Oct 14, 2026 09:42am): おけです
 
 #### Additional Information
 - **Post color:** Black
@@ -1478,7 +1493,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 9. チャットできるサイトを教えてほしいです😖
+### 10. チャットできるサイトを教えてほしいです😖
 **Author:** 彩
 
 #### Comments (3)
@@ -1493,7 +1508,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 10. 将棋のサイト欲しい
+### 11. 将棋のサイト欲しい
 **Author:** アメフリ
 
 #### Additional Information
@@ -1503,7 +1518,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 11. 通話サイト（ときあめが見つけた）
+### 12. 通話サイト（ときあめが見つけた）
 **Author:** てらてら
 
 [https://talk.ubports.com/customizeRoom](https://talk.ubports.com/customizeRoom)
@@ -1525,7 +1540,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 12. 報告：Eaglercraft1.8.8　　　マルチプレイする方法を発見したヨ。
+### 13. 報告：Eaglercraft1.8.8　　　マルチプレイする方法を発見したヨ。
 **Author:** てらてら（陰キャ）
 
 **・方法 **
@@ -1568,7 +1583,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 13. はるはる（非リア充陰キャ）は今日をもってパドレッドを引退します。
+### 14. はるはる（非リア充陰キャ）は今日をもってパドレッドを引退します。
 **Author:** はるはる（非リア充陰キャ）
 
 理由としては、保健についてさらに深く、詳しく勉強するために引退します。
@@ -1599,7 +1614,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 14. てらてらは今日を持ってパドレットを引退します。
+### 15. てらてらは今日を持ってパドレットを引退します。
 **Author:** てらてら
 
 理由は異性との適切な関係を築くために性に関する勉強に専念するためです。
@@ -1615,7 +1630,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 15. スクランブルエッグ第三号クカ
+### 16. スクランブルエッグ第三号クカ
 **Author:** てらてら
 
 #### Comments (6)
@@ -1633,7 +1648,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 16. 二等辺三角形←う、うおｗ
+### 17. 二等辺三角形←う、うおｗ
 **Author:** てらてら
 
 #### Comments (6)
@@ -1651,7 +1666,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 17. 警報出たけど学校行ったの俺だけじゃないよな？
+### 18. 警報出たけど学校行ったの俺だけじゃないよな？
 **Author:** てらてら
 
 #### Comments (2)
@@ -1665,7 +1680,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 18. 長野県在住グリコです
+### 19. 長野県在住グリコです
 **Author:** グリコ
 
 長野県上田市上田原680番地17に住んでます。
@@ -1682,7 +1697,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 19. Post 19
+### 20. Post 20
 **Author:** 非リア充陰キャ
 
 非リア充陰キャです。お願いしますデュフデュフ
@@ -1697,7 +1712,7 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 20. ここ次付議
+### 21. ここ次付議
 **Author:** てらてら
 
 マイクロチップ
@@ -1709,12 +1724,12 @@ HTMLとかCSSは簡単だったけどJSがむずすぎて心が折れそう
 
 ---
 
-### 21. eyooooo
+### 22. eyooooo
 **Author:** teratera
 
 niga
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6207871980/d6d2c30b72c67be47fad5ab87c305d37/videoplayback__38_.mp4?Expires=1792564869&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=h8ZCa9ENhcs%2F62pZdy8UcmAj6aKXCsMXmtVkAxeC1%2FmBKUSeZqUG2GPd%2FyF4ANo27J6YKAfwUEJHAW9u2vW%2B8664z8EnQcOZkVIOlRDj6uHzCDMx2jsZc72YbCL1JVKjLWXSvkiadag6d6RQjBqSJOoTAyQil5U%2B71xaDzsz7XsR2rS7zbUVUatwx0FljIIb0tYsXl3YWspGlzAUeJZncZU7IA6wnWg4L040yj008PU2bqcwyLQvIa6MT2V%2BvKnG8q1eaVAXodFeOSvcLeWIw0pqqsgneXt55PsYjGp5Fd7Vs9uv%2F3HciqssrfXrSncCXDT3kSK7BuNlnV5VYrVCfg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6207871980%2Fd6d2c30b72c67be47fad5ab87c305d37%2Fvideoplayback__38_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6207871980/d6d2c30b72c67be47fad5ab87c305d37/videoplayback__38_.mp4?Expires=1792577828&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wvg04BWlInzip2XWFwvvHkoWrhSy8pV3FW%2BOqxff7HEVPjfFbn8WTAJqUWu3bO05B72mq7djDhJzA19DI8JPM4qDcnhDhv4wJrQRR8rwm7vM%2BtFj89i%2B1ePktjMyZyUZxRewNsqokQCiXJJwX0rlm%2FmdOamRB5giNdsRmdbPArMDgWSGUWe%2F8qHwdCi5w0%2Fc1OEsTMD7c8VJtgdhOmtC%2Fszs40PtDVI2u9r8fyMAOhGFEsqTvWOWdomjcrAmG%2FkmI20ASryAx1%2BOD9hOL4OlcmJDXhnoc0yXWmsnPJR8fcQlAn4k2IRK4WIgsaqHLTBqxe1sgyw3saayXbTqf4sbEA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6207871980%2Fd6d2c30b72c67be47fad5ab87c305d37%2Fvideoplayback__38_.mp4)
 
 #### Additional Information
 - **Post color:** Black
@@ -1723,7 +1738,7 @@ niga
 
 ---
 
-### 22. あいうえお
+### 23. あいうえお
 **Author:** むららい
 
 #### Additional Information
@@ -1733,7 +1748,7 @@ niga
 
 ---
 
-### 23. てら！
+### 24. てら！
 **Author:** むららい
 
 #### Additional Information
@@ -1743,7 +1758,7 @@ niga
 
 ---
 
-### 24. おい！
+### 25. おい！
 **Author:** むららい
 
 #### Comments (1)
@@ -1756,7 +1771,7 @@ niga
 
 ---
 
-### 25. 東条チャット
+### 26. 東条チャット
 **Author:** てらてら
 
 #### Comments (7)
@@ -1775,7 +1790,7 @@ niga
 
 ---
 
-### 26. ここにならなにかいてもいいんですか？
+### 27. ここにならなにかいてもいいんですか？
 **Author:** みさ
 
 #### Comments (3)
@@ -1790,7 +1805,7 @@ niga
 
 ---
 
-### 27. 規制解除その二
+### 28. 規制解除その二
 **Author:** 根釧台地(元いときち) (Dopagaki_67)
 
 これ使えばスマホ用+タブレット用の規制されてるアプリほぼ全部開く。あと時間制限もない。神だから使ってみ。
@@ -1807,7 +1822,7 @@ niga
 
 ---
 
-### 28. 規制解除
+### 29. 規制解除
 **Author:** 根釧台地(元いときち) (Dopagaki_67)
 
 ChromeBookユーザーへ。
@@ -1827,7 +1842,7 @@ ChromeBookユーザーへ。
 
 ---
 
-### 29. Hなことしたいぃ❤❤❤❤
+### 30. Hなことしたいぃ❤❤❤❤
 **Author:** えろい写真ならたぁくさんとるよ？❤
 
 シコシコされてみたいぃぃ
@@ -1849,7 +1864,7 @@ ChromeBookユーザーへ。
 
 ---
 
-### 30. Post 30
+### 31. Post 31
 **Author:** えろい写真ならたぁくさんとるよ？❤
 
 ![Attachment 1](https://u1.padletusercontent.com/uploads/padlet-uploads-usc1/5983466913/5b52c95bef1e316f24d02aff290588f2/image.png?expiry_token=5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio6f_c-QQVrA3126TS4_JyiKODDkaUHvSHRKVnUA3vW0A7Yaom2nXEVoIVvCrg2oui_doTIcIq4lKY0d2XFo9w9vkrPAaNvjIGlLfARaJBuaCJ9oUj3yGHsTXkLl_6ipNOg==)
