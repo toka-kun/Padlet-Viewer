@@ -1,4 +1,4 @@
-最終取得: 2026/10/17 06:46:36
+最終取得: 2026/10/18 08:22:58
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 7
 - **Created At:** Jan 13, 2026 12:01pm
-- **Updated At:** Oct 06, 2026 08:54am
+- **Updated At:** Oct 17, 2026 10:01pm
 
 ## 受付
 
@@ -286,7 +286,7 @@
 
 ※↑は今死んでます
 
-#### Comments (60)
+#### Comments (61)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **流転** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -347,6 +347,7 @@
 - **くろつき** (Jun 11, 2026 11:46am): KrtkSecoms@outlook.jp
 - **kuma　コネうさとペア画** (Jun 16, 2026 06:15am): したよ
 - **マメマメ** (Jul 11, 2026 01:40am): hairitai
+- **ヤクルト好き　#アホ4人組の1人** (Oct 17, 2026 10:01pm): 入れてくださいフォローしますたgs190721@nerima-edu.jp
 
 #### Additional Information
 - **Post color:** Red
