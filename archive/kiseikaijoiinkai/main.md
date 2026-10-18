@@ -1,4 +1,4 @@
-最終取得: 2026/10/14 00:05:45
+最終取得: 2026/10/18 12:48:22
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 18
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Oct 13, 2026 09:47am
+- **Updated At:** Oct 18, 2026 02:41am
 
 ## 受付
 
@@ -153,9 +153,10 @@ s2000941@g.ueis.ed.jp
 
 [Attachment 1](https://edu-tube.netlify.app/)
 
-#### Comments (2)
+#### Comments (3)
 - **とるっぷい** (Oct 11, 2026 08:59am): よき
 - **クモノス** (Oct 13, 2026 03:23am): できない
+- **りな** (Oct 18, 2026 02:41am): できなくね？
 
 #### Additional Information
 - **Created At:** Oct 02, 2026 10:23pm
