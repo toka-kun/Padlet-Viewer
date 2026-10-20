@@ -1,4 +1,4 @@
-最終取得: 2026/10/18 12:48:22
+最終取得: 2026/10/21 00:23:18
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 18
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Oct 18, 2026 02:41am
+- **Updated At:** Oct 20, 2026 03:09pm
 
 ## 受付
 
@@ -16,7 +16,7 @@
 
 [Attachment 1](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl)
 
-#### Comments (7)
+#### Comments (9)
 - **ゲーム教えて** (May 15, 2026 02:58am): 学タブでできるゲーム教えてください
 - **ｈ** (May 18, 2026 02:17am): 2048風ゲームとかテトリス風ゲームとか結構できるのはあるよ
 - **久保寺航希** (May 22, 2026 05:55am): リンクも欲しいです
@@ -24,6 +24,8 @@
 - **おおぬき** (Jul 08, 2026 06:46am): https://kids.lego.com/ja-jp/games
 - **おおぬき** (Jul 08, 2026 06:47am): https://windows93.net/
 - **Honda#初代つつき森会員＃ネギ付き教徒** (Jul 20, 2026 05:11am): https://padlet.com/Hondacars1788/i-filter-pxpls5zlf5duyl8uこの部屋ゲームとか多少ある
+- **ワタナベカズキ** (Oct 20, 2026 03:09pm): ホートナイトのできるサイト
+- **ワタナベカズキ** (Oct 20, 2026 03:09pm): ホートナイトのできるサイト
 
 #### Additional Information
 - **Created At:** Apr 12, 2026 10:39am
