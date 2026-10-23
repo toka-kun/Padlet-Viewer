@@ -1,4 +1,4 @@
-最終取得: 2026/10/23 21:46:33
+最終取得: 2026/10/24 00:00:13
 
 # Magurockのロビー部屋｜皆の宣伝所と僕の部屋の受付、あとアカウント無い人用
 
@@ -34,7 +34,7 @@
 
 **￷￳￳￴￰￳￰￸￷￵￵￲￲￳￸￰￸￶￳￴￲￶￳￰￴￳￸￸￷￵￸￳￴￸￸￶￶￰￱￳￶￴￴￲￱￶￰￳￲￷￲￷￲￳￵￱￲￶￵￱￱￶￰￲￸￷￵￱￴￳￸￱￸￷￲￷￷￸￵￱￲￵￲￸￲￳￰￱￴￶￸￳￴￲￶￸￰￸￰￸￸￲￲￳￱￸￸￱￶￷￷￶￳￳￱￷￳￶￱￶￷￳￳￴￶￰￵￶￶￸￷￲￴￲￲￳￸￳￱￲￳￵￱￶￳￷￴￰￴￲￶￰￷￴￰￱￲￵￰￶￵￰￱￴￱￸￴￱￴￷￷￲￴￴￱￴￳￴￱￸￰￲￱￸￸￷￷￵￵￳￴￵￱￵￳￴￰￳￷￸￰￷￵￳￰￴￷￸￸￶￶￴￷￵￰￶￴￱￰￸￳￳￴￳￱￷￳￸￲￳￴￸￱￵￶￷￱￱￵￷￵￳￷￳￲￴￷￵￴￵￱￴￶￴￶￶￵￸￰￶￵￵￵￴￴￸￵￱￱￲￰￸￸￱￱￳￵￰￷￱￸￰￳￴￸￸￶￰￴￶￳￰￷￱￴￲￶￴￴￰￱￲￰￴￸￶￸￴￲￱￲￱￷￳￷￷￷￶￳￲￶￸￵￳￳￳￷￷￰￱￳￲￰￶￳￰￱￸￳￷￲￷￴￵￰￲￰￴￵￷￱￰￴￷￳￴￷￵￵￷￶￱￶￷￱￷￲￲￲￵￶￴￴￷￶￶￳￴￱￲￰￶￰￱￱￶￱￵￴￷￰￲￱￰￲￴￵￴￸￶￳￱￴￶￲￶￸￵￱￸￲￴￵￰￰￷￰￷￴￷￴￷￴￷￶￱￴￱￵￶￳￶￳￸￲￱￵￳￷￷￳￷￵￳￳￷￰￴￱￱￱￳￶￵￸￵￷￱￳￵￰￸￷￷￰￷￰￵￷￸￱￸￷￶￷￶￰￸￳￱￸￸￴￳￴￸￱￵￰￷￱￸￰￲￲￸￰￳￱:** ￱￷￶￳￶￸￱￳￱￱￶￶￵￳￰￱￰￶￶￶￵￲￲￰￰￴￷￱￴￵￲￵￵￲￶￷￱￴￶￶￸￴￰￶￳￴￱￴￷￲￵￸￷￸￰￰￱￱￵￵￵￴￲￵￶￴￱￸￲￳￱￴￶￶￵￲￶￰￵￵￸￶￳￴￸￱￲￰￸￴￸￰￰￶￵￶￳￲￵
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/36fd0e1e48b9bb2eeaeaf3996e2d24fb/__Padlet__10_.png?Expires=1793364414&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YXGfmxzdihwCV96yfXgJZX4awxd0T96Pb0GgJERqLjjUSxT4LD3P%2F1s0joR76Dc7rB3zLyIiHEH4vu%2BaW4slgz2esKQ4bjYh8XAHQs7ZXJ0Zb0npdqqdw84uR2vkgnQC6tMfrDcQqhK33grdBkkh7d4WaM1jvz9s2LJEsLSzki4ZfA7EHVhuixrNqz2exyYJyIVsDZ8Y6ghwtX4TK7tWB4ylRQVF2TvRXuMfXxlyweweNY7Z0%2FD%2FYSJEUNYMkrCa1L9oNgYh0edz7lrBbpinpci%2BBxGKjU8F86t0xvHkvIvzU3N5s2P6iqp4IpBRFmcRMymbj1ONEthoml%2BzxsAlmw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F36fd0e1e48b9bb2eeaeaf3996e2d24fb%2F__Padlet__10_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/36fd0e1e48b9bb2eeaeaf3996e2d24fb/__Padlet__10_.png?Expires=1793372435&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=00saCV%2BrL%2B3fhNnDpVyeucUCXf1oOPoMvMr%2F5MtuZw9LYluH2kOFs6icZJ7OZVsqPp2kgNS061KklkId7kiomyJJoh%2F9nakKUaay%2BdsL4EzZQ5%2FKW6yYb%2BSWs3BgbKd2%2FXHOhUQIN0DjV2OYAVZMHrcahME9Y74Wa%2BjFv1qfIOxIZnPKsAq2DNrzuekUPG2BIEtKc7YQEZfGAbFsJTZjv%2FhWHIz9qcNJTPdrDnOPOHr2hJRL16RB7KtlzxYneDkob%2BVFckha5X%2FNbKv4bF1JWOSGaGu0USH7fLMzLBS%2FsViw5IluFoRrjCBX9poUyJpDwI1YvdksdoVAJlZQGfiGRg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F36fd0e1e48b9bb2eeaeaf3996e2d24fb%2F__Padlet__10_.png)
 
 #### Additional Information
 - **Post color:** White
@@ -58,7 +58,7 @@
 
 **￷￳￳￴￰￳￰￸￷￵￵￲￲￳￸￰￸￶￳￴￲￶￳￰￴￳￸￸￷￵￸￳￴￸￸￶￶￰￱￳￶￴￴￲￱￶￰￳￲￷￲￷￲￳￵￱￲￶￵￱￱￶￰￲￸￷￵￱￴￳￸￱￸￷￲￷￷￸￵￱￲￵￲￸￲￳￰￱￴￶￸￳￴￲￶￸￰￸￰￸￸￲￲￳￱￸￸￱￶￷￷￶￳￳￱￷￳￶￱￶￷￳￳￴￶￰￵￶￶￸￷￲￴￲￲￳￸￳￱￲￳￵￱￶￳￷￴￰￴￲￶￰￷￴￰￱￲￵￰￶￵￰￱￴￱￸￴￱￴￷￷￲￴￴￱￴￳￴￱￸￰￲￱￸￸￷￷￵￵￳￴￵￱￵￳￴￰￳￷￸￰￷￵￳￰￴￷￸￸￶￶￴￷￵￰￶￴￱￰￸￳￳￴￳￱￷￳￸￲￳￴￸￱￵￶￷￱￱￵￷￵￳￷￳￲￴￷￵￴￵￱￴￶￴￶￶￵￸￰￶￵￵￵￴￴￸￵￱￱￲￰￸￸￱￱￳￵￰￷￱￸￰￳￴￸￸￶￰￴￶￳￰￷￱￴￲￶￴￴￰￱￲￰￴￸￶￸￴￲￱￲￱￷￳￷￷￷￶￳￲￶￸￵￳￳￳￷￷￰￱￳￲￰￶￳￰￱￸￳￷￲￷￴￵￰￲￰￴￵￷￱￰￴￷￳￴￷￵￵￷￶￱￶￷￱￷￲￲￲￵￶￴￴￷￶￶￳￴￱￲￰￶￰￱￱￶￱￵￴￷￰￲￱￰￲￴￵￴￸￶￳￱￴￶￲￶￸￵￱￸￲￴￵￰￰￷￰￷￴￷￴￷￴￷￶￱￴￱￵￶￳￶￳￸￲￱￵￳￷￷￳￷￵￳￳￷￰￴￱￱￱￳￶￵￸￵￷￱￳￵￰￸￷￷￰￷￰￵￷￸￱￸￷￶￷￶￰￸￳￱￸￸￴￳￴￸￱￵￰￷￱￸￰￲￲￸￰￳￱:** ￱￷￶￳￶￸￱￳￱￱￶￶￵￳￰￱￰￶￶￶￵￲￲￰￰￴￷￱￴￵￲￵￵￲￶￷￱￴￶￶￸￴￰￶￳￴￱￴￷￲￵￸￷￸￰￰￱￱￵￵￵￴￲￵￶￴￱￸￲￳￱￴￶￶￵￲￶￰￵￵￸￶￳￴￸￱￲￰￸￴￸￰￰￶￵￶￳￲￵
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/8ea2dba807c8de10032d02ceb3edb556/_.png?Expires=1793364414&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dJOYo9vLcOCpxw0V8HS2xexGo8EfUTaipgYRixLrCoE2IdMNBlYsoFErOLZTyC2hjRSdr5QcKq68nLbzZWz2OU8Nx9c%2FseCJmD7Egm2HJUqxxSEBBA6efkwVdrxEWmTV2dFmFRYhkkHvxp5V4kBBQvMkGeD4GQRqa9%2BgnBgemceEvRV2hZYBwIr4gYBzEfwnCpN5pedA%2Fr0YYkTiLrBdmwaahsQymiSUo6xBuAJNrbZ8HESQKTWYSOE9pX2Uf3mme44q%2BOoBJFwInaHMPGAGY83kR4CZrpuffNNTR%2BbChWXoMtnjYVI5Jzz7FqK4M7AYAWJr%2BFVWiT05fPD6Z2PoWg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F8ea2dba807c8de10032d02ceb3edb556%2F_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/8ea2dba807c8de10032d02ceb3edb556/_.png?Expires=1793372435&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6cWkRPbxZRFcFwSIpvMeY%2BfrIFEKHrt8Pnf4EwlBIibVlenihFhi5MspIud3D%2F1tKQ8phq6TlBpdIzELrGtAq88Rbi8WtzI1wjPEifmkvrmsfJGNNtEdsyuoiJOzSZEsg4socm0FekVvWGG6M15OGad%2FbV6NxdXYYXD1XZfAhmj6VrbPBxuMjSCyc%2B%2B4%2FQpQwbV0kUaH8ZWqhAZ91y%2FI%2F6ZNGGLRot%2FcAbDIW%2Fk8MFIo7zyUTW16lfc0X88xun1KqhaXp06e2vUHSsvSolOt%2FwBjEADSiHm37x46NmHwPCtJv%2BGRgBTdHNi7unx1SShqwRHL7SqnHweyyZYeMTQEOA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F8ea2dba807c8de10032d02ceb3edb556%2F_.png)
 
 #### Additional Information
 - **Post color:** White
@@ -82,7 +82,7 @@
 
 #### Comments (4)
 - **Entity 303** (Feb 04, 2026 04:53am): ただいま
-- **開示だな** (Feb 19, 2026 06:53am): マグロックさん
+- **yusuke** (Feb 19, 2026 06:53am): マグロックさん
 - **何を四天王？** (Feb 19, 2026 11:36am): お久しぶりです。復帰しました
 - **まふゆ** (Oct 10, 2026 06:40am): ?
 
@@ -1423,7 +1423,7 @@ Padlet広めた人が運営してます
 
 **￷￳￳￴￰￳￰￸￷￵￵￲￲￳￸￰￸￶￳￴￲￶￳￰￴￳￸￸￷￵￸￳￴￸￸￶￶￰￱￳￶￴￴￲￱￶￰￳￲￷￲￷￲￳￵￱￲￶￵￱￱￶￰￲￸￷￵￱￴￳￸￱￸￷￲￷￷￸￵￱￲￵￲￸￲￳￰￱￴￶￸￳￴￲￶￸￰￸￰￸￸￲￲￳￱￸￸￱￶￷￷￶￳￳￱￷￳￶￱￶￷￳￳￴￶￰￵￶￶￸￷￲￴￲￲￳￸￳￱￲￳￵￱￶￳￷￴￰￴￲￶￰￷￴￰￱￲￵￰￶￵￰￱￴￱￸￴￱￴￷￷￲￴￴￱￴￳￴￱￸￰￲￱￸￸￷￷￵￵￳￴￵￱￵￳￴￰￳￷￸￰￷￵￳￰￴￷￸￸￶￶￴￷￵￰￶￴￱￰￸￳￳￴￳￱￷￳￸￲￳￴￸￱￵￶￷￱￱￵￷￵￳￷￳￲￴￷￵￴￵￱￴￶￴￶￶￵￸￰￶￵￵￵￴￴￸￵￱￱￲￰￸￸￱￱￳￵￰￷￱￸￰￳￴￸￸￶￰￴￶￳￰￷￱￴￲￶￴￴￰￱￲￰￴￸￶￸￴￲￱￲￱￷￳￷￷￷￶￳￲￶￸￵￳￳￳￷￷￰￱￳￲￰￶￳￰￱￸￳￷￲￷￴￵￰￲￰￴￵￷￱￰￴￷￳￴￷￵￵￷￶￱￶￷￱￷￲￲￲￵￶￴￴￷￶￶￳￴￱￲￰￶￰￱￱￶￱￵￴￷￰￲￱￰￲￴￵￴￸￶￳￱￴￶￲￶￸￵￱￸￲￴￵￰￰￷￰￷￴￷￴￷￴￷￶￱￴￱￵￶￳￶￳￸￲￱￵￳￷￷￳￷￵￳￳￷￰￴￱￱￱￳￶￵￸￵￷￱￳￵￰￸￷￷￰￷￰￵￷￸￱￸￷￶￷￶￰￸￳￱￸￸￴￳￴￸￱￵￰￷￱￸￰￲￲￸￰￳￱:** ￱￷￶￳￶￸￱￳￱￱￶￶￵￳￰￱￰￶￶￶￵￲￲￰￰￴￷￱￴￵￲￵￵￲￶￷￱￴￶￶￸￴￰￶￳￴￱￴￷￲￵￸￷￸￰￰￱￱￵￵￵￴￲￵￶￴￱￸￲￳￱￴￶￶￵￲￶￰￵￵￸￶￳￴￸￱￲￰￸￴￸￰￰￶￵￶￳￲￵
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/71222d8d909c40f868e87e16db002f96/_.png?Expires=1793364415&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=bMf%2FJPV2J2GIKULTwfGkZtlC5StTsC1MbNvQK%2By%2FmGQ%2B0WL9p27%2FFchHOZa0wV0zTgJENqYsxEmoq5lxiIC9P9SJBbqwW6My8eZBbh90d%2BtqS5Qa5RKLMjrx6B8BHuHbHCEMEwzDSy8zgGBt%2BrHfIpULjGMf6Kc24cWe6arWNvrkeRM3C%2FowHA6mzNtSfbFSA%2FXyVjWyAoz0YxmhXLJ0mukMuf4z%2FoRBQZPGFHiTFR7%2B27x005Jbo6%2FX0W9mtJtlzWyYOzCKXpLtrsbIpXcfmHyTBGnrq6tTtApRDKb4eZjVxCANqqnC2bxB%2F2%2F%2Bbmv9EbcxjuKjxbOEXj5LdU5aBg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F71222d8d909c40f868e87e16db002f96%2F_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3721586446/71222d8d909c40f868e87e16db002f96/_.png?Expires=1793372436&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=i1kQVJScAbTWewAzoqZ%2BTMNmdpxuPcsNV3A1rfCJIj7h3FDjoJDQEfagukBTwcKy5FywRDip9tezJXu8YBadsQFbYQQTS8fnUT25EhilDC4fSh75NzZaNSgiucN8nECzEvhfp4MCKcAs6d%2FFXSnB46yXCiTxMz2Dlp05AXN453I9j0SU7q%2FS69c%2FiqfACSnQmJT6IQnWYxSCf0afMIljjfnJYNYw0Cutb%2BW2YmVR7tbjjGa0l%2Ba55FRGEKtuR7GbQrrbyfsepSCZ%2F%2Bq5XwMTlL0MfPtdr9L57ibQAf70UbjWK%2Fhhi5Z18NhxQmhIZ0aChxgf6TkBYhaFwghhohYcqg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3721586446%2F71222d8d909c40f868e87e16db002f96%2F_.png)
 
 #### Comments (1)
 - **削除済みユーザー** (Dec 26, 2025 03:33am): この部屋に入りたいです
@@ -3743,7 +3743,7 @@ forow求
 
 **￷￳￳￴￰￳￰￸￷￵￵￲￲￳￸￰￸￶￳￴￲￶￳￰￴￳￸￸￷￵￸￳￴￸￸￶￶￰￱￳￶￴￴￲￱￶￰￳￲￷￲￷￲￳￵￱￲￶￵￱￱￶￰￲￸￷￵￱￴￳￸￱￸￷￲￷￷￸￵￱￲￵￲￸￲￳￰￱￴￶￸￳￴￲￶￸￰￸￰￸￸￲￲￳￱￸￸￱￶￷￷￶￳￳￱￷￳￶￱￶￷￳￳￴￶￰￵￶￶￸￷￲￴￲￲￳￸￳￱￲￳￵￱￶￳￷￴￰￴￲￶￰￷￴￰￱￲￵￰￶￵￰￱￴￱￸￴￱￴￷￷￲￴￴￱￴￳￴￱￸￰￲￱￸￸￷￷￵￵￳￴￵￱￵￳￴￰￳￷￸￰￷￵￳￰￴￷￸￸￶￶￴￷￵￰￶￴￱￰￸￳￳￴￳￱￷￳￸￲￳￴￸￱￵￶￷￱￱￵￷￵￳￷￳￲￴￷￵￴￵￱￴￶￴￶￶￵￸￰￶￵￵￵￴￴￸￵￱￱￲￰￸￸￱￱￳￵￰￷￱￸￰￳￴￸￸￶￰￴￶￳￰￷￱￴￲￶￴￴￰￱￲￰￴￸￶￸￴￲￱￲￱￷￳￷￷￷￶￳￲￶￸￵￳￳￳￷￷￰￱￳￲￰￶￳￰￱￸￳￷￲￷￴￵￰￲￰￴￵￷￱￰￴￷￳￴￷￵￵￷￶￱￶￷￱￷￲￲￲￵￶￴￴￷￶￶￳￴￱￲￰￶￰￱￱￶￱￵￴￷￰￲￱￰￲￴￵￴￸￶￳￱￴￶￲￶￸￵￱￸￲￴￵￰￰￷￰￷￴￷￴￷￴￷￶￱￴￱￵￶￳￶￳￸￲￱￵￳￷￷￳￷￵￳￳￷￰￴￱￱￱￳￶￵￸￵￷￱￳￵￰￸￷￷￰￷￰￵￷￸￱￸￷￶￷￶￰￸￳￱￸￸￴￳￴￸￱￵￰￷￱￸￰￲￲￸￰￳￱:** ￱￷￶￳￶￸￱￳￱￱￶￶￵￳￰￱￰￶￶￶￵￲￲￰￰￴￷￱￴￵￲￵￵￲￶￷￱￴￶￶￸￴￰￶￳￴￱￴￷￲￵￸￷￸￰￰￱￱￵￵￵￴￲￵￶￴￱￸￲￳￱￴￶￶￵￲￶￰￵￵￸￶￳￴￸￱￲￰￸￴￸￰￰￶￵￶￳￲￵
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2621724610/0ab62ec9999fdb20399a316047948bd7/IMG_6690.jpeg?Expires=1793364416&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=a8SW3338CdzVoOlDGOaPJ%2FB7oQWUeWyZ0Gf%2BoA6wqSq5Am1sdCnO12EuTr0JXOJJokOntd7tcnvs5wuiu9XhhODgjDvIkyDnOAPAX3L0wg%2FChHB5XEYze6m17hA3LtQIrqFc4N9uDsxN5j5RT6Yx11fU%2FMISXCMnZuMiIsWJj%2FDoMwrf1DtH2nUZ%2F2I7dfw18S55ykZYBmUoOM2sUtsz1WsE%2BKjer0BVr7cGm24ApqwqSuznQSn4dLxPz6FsckKNHeg%2BLxEDO9XnwPPG2UphPLo7UQBLg4PP8c4rzXPCgCz9YdzAjTtbYIpHVT31QPQTdgvURunhLfU%2FVV80X%2BEVTw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2621724610%2F0ab62ec9999fdb20399a316047948bd7%2FIMG_6690.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2621724610/0ab62ec9999fdb20399a316047948bd7/IMG_6690.jpeg?Expires=1793372436&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=N0qCVP3j3nxoaaT%2Bcfzt5hCJNMk7h3Ug5mxcR4BvUb8uXivYkHR90zNi4J%2B60SBy%2F6FN3QXk3Zi6NjRbUSTPwPjolVMDwnQ6Q5YDHpH%2FiGc%2FhlMlqq%2F8BVuDKHUMM48FwIcfnYYeAXT1NGweRbknXF2rfsMEu%2BWLo15dv5syaL0d9D%2BRXReQEDdLI6XiAhmYVIqzGgAnkZk%2B3gxuyjUlWpg9iHL26nMKAbFvkSvUyuwYkHtmWYAydsmdiph%2F7dBaIsS9Bep5Hd1MhZ3zQp4jF6GL1K7rQFj1ihS2cUiuydhpe7Nx3KKALRo3WeviutmodrLcFTNr4EPTjf%2Ff2OtkHA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2621724610%2F0ab62ec9999fdb20399a316047948bd7%2FIMG_6690.jpeg)
 
 #### Comments (1)
 - **ピカマン#さくらもちの弟子　#さくらもちの従僕　#さくらもちおいしい#さくらもち荒らし対策軍　三等兵#煮物貢献者#煮物様の弟子#かしわもちうまっ** (Aug 05, 2025 08:11am): CMhttps://padlet.com/s200552_12/padlet-nm70h6xe5azurhf
