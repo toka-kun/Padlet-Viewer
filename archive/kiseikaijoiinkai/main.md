@@ -1,4 +1,4 @@
-最終取得: 2026/10/21 00:23:18
+最終取得: 2026/10/26 08:12:00
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 18
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Oct 20, 2026 03:09pm
+- **Updated At:** Oct 25, 2026 11:07pm
 
 ## 受付
 
@@ -57,7 +57,7 @@
 (投稿を確認したら即BAN&読者)
 
 #### Reactions
-- **Emojis:** ❤️ (1)
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Created At:** Mar 25, 2026 11:38am
