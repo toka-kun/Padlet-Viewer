@@ -1,4 +1,4 @@
-最終取得: 2026/10/30 22:02:38
+最終取得: 2026/10/30 22:30:24
 
 # 受付と匿名用
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/woolisbest/padlet-99xq7bb7zjzcfzw0
 - **Builder:** woolisbest (woolisbest)
-- **Posts:** 7
+- **Posts:** 8
 - **Created At:** Jan 13, 2026 12:01pm
-- **Updated At:** Oct 30, 2026 12:47pm
+- **Updated At:** Oct 30, 2026 01:27pm
 
 ## 受付
 
@@ -287,7 +287,7 @@
 
 ※↑は今死んでます
 
-#### Comments (109)
+#### Comments (110)
 - **Yusho** (Jan 20, 2026 09:53am): フォローしやした
 - **流転** (Jan 22, 2026 04:11am): した
 - **woolisbest** (Jan 22, 2026 11:58am): おｋ
@@ -397,6 +397,7 @@
 - **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (Oct 30, 2026 11:44am): あれ、てかScratchで確認すればいいじゃん…
 - **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (Oct 30, 2026 11:44am): 僕バカだ……
 - **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (Oct 30, 2026 12:32pm): 疑って大変申し上げございませんでした
+- **青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族** (Oct 30, 2026 01:26pm): どこのですか？
 
 #### Additional Information
 - **Post color:** Red
@@ -462,7 +463,21 @@
 
 ## パートナーズ
 
-### 1. ホーム
+### 1. えっと
+**Author:** 青葉  @BC*隊員 #さくらもちの弟子#無法地帯最高 #かめ一族 (Aoba108)
+
+このさくらもちは偽物です
+
+だから下の部屋は一旦入らないで下さい
+
+#### Additional Information
+- **Post color:** Red
+- **Created At:** Oct 30, 2026 01:26pm
+- **Updated At:** Oct 30, 2026 01:28pm
+
+---
+
+### 2. ホーム
 **Author:** woolisbest (woolisbest)
 
 [Attachment 1](https://padlet.com/sakuramoti_modori/home)
