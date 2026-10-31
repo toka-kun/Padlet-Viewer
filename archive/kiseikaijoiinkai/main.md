@@ -1,4 +1,4 @@
-最終取得: 2026/10/26 15:25:39
+最終取得: 2026/10/31 14:19:29
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 18
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Oct 26, 2026 04:51am
+- **Updated At:** Oct 31, 2026 03:57am
 
 ## 受付
 
@@ -221,6 +221,9 @@ s2000941@g.ueis.ed.jp
 [https://wkt-ikisugi.onrender.com/wkt](https://wkt-ikisugi.onrender.com/wkt) [https://wkt-oigorala.onrender.com/wkt](https://wkt-oigorala.onrender.com/wkt)
 
 [https://wkt-yjsnpi.onrender.com/wkt](https://wkt-yjsnpi.onrender.com/wkt)
+
+#### Reactions
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Created At:** Apr 12, 2026 10:46am

@@ -1,4 +1,4 @@
-最終取得: 2026/10/31 00:12:41
+最終取得: 2026/10/31 14:19:29
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 8
 - **Created At:** Jan 13, 2026 12:01pm
-- **Updated At:** Oct 30, 2026 02:30pm
+- **Updated At:** Oct 31, 2026 04:36am
 
 ## 受付
 
