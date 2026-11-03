@@ -1,4 +1,4 @@
-最終取得: 2026/11/03 01:59:43
+最終取得: 2026/11/03 11:39:43
 
 # 受付と匿名用
 
@@ -9,7 +9,7 @@
 - **Builder:** woolisbest (woolisbest)
 - **Posts:** 8
 - **Created At:** Jan 13, 2026 12:01pm
-- **Updated At:** Nov 02, 2026 12:51pm
+- **Updated At:** Nov 03, 2026 01:45am
 
 ## 受付
 
@@ -474,6 +474,10 @@
 このさくらもちは偽物です
 
 だから下の部屋は一旦入らないで下さい
+
+#### Comments (2)
+- **さくらもち** (Nov 03, 2026 01:45am): 偽物というか乗っ取り
+- **さくらもち** (Nov 03, 2026 01:45am): まあつまり偽物
 
 #### Additional Information
 - **Post color:** Red
