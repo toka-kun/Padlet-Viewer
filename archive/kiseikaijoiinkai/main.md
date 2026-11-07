@@ -1,4 +1,4 @@
-最終取得: 2026/11/07 23:07:29
+最終取得: 2026/11/08 08:56:08
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 18
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Nov 07, 2026 01:41pm
+- **Updated At:** Nov 07, 2026 11:40pm
 
 ## 受付
 
@@ -140,6 +140,9 @@ No post
 **Author:** 中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい人😭#勉強してください (INMUKING1DAIME)
 
 s2000941@g.ueis.ed.jp
+
+#### Comments (1)
+- **復活** (Nov 07, 2026 11:40pm): この部屋はまだ生きている
 
 #### Additional Information
 - **Created At:** Jun 19, 2026 12:04am
