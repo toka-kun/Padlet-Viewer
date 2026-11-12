@@ -1,4 +1,4 @@
-最終取得: 2026/11/12 00:06:22
+最終取得: 2026/11/12 16:34:01
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 18
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Nov 11, 2026 12:48pm
+- **Updated At:** Nov 12, 2026 06:27am
 
 ## 受付
 
@@ -478,12 +478,13 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 
 [Attachment 1](https://app.apponfly.com/trial)
 
-#### Comments (5)
+#### Comments (6)
 - **中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい人😭#勉強してください** (Aug 23, 2026 01:36pm): ナイス
 - **ホタル** (Sep 07, 2026 03:38am): 2026/09/0712:37使えんくなった確認プロキシ情報によりブロック
 - **けけ** (Oct 02, 2026 02:56am): 最悪
 - **根釧台地(元いときち)** (Oct 02, 2026 10:19pm): めんご地域学校によってはブロックされるかも
 - **takagi** (Nov 11, 2026 01:20am): できないセキュリティ回避ってでる
+- **あ** (Nov 12, 2026 06:27am): あ
 
 #### Additional Information
 - **Created At:** Aug 22, 2026 08:15am
