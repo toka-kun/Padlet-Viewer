@@ -1,4 +1,4 @@
-最終取得: 2026/11/14 15:54:01
+最終取得: 2026/11/14 18:23:14
 
 # シーズン2ローマン部屋
 
@@ -9,7 +9,7 @@
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
 - **Posts:** 103
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Nov 14, 2026 06:48am
+- **Updated At:** Nov 14, 2026 08:09am
 
 ## ルール(守ってね)
 
@@ -26,7 +26,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5115963443/bbaa31411706b7b115b79c9af257d020/IMG_1995.jpeg?Expires=1795244106&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Eig%2FLsmn57NMRB1R3kFpkwa6tyTm%2BLqvbtBQvz6Iv2WSdaiQtDi8p676PZdoeNEQpwRaCRAKvlWFA%2F1tWtaTLg5Ls7uOGZGy%2BXu2T5PS2ZmgcI8TAyElZMoXivQPV%2BQrFJiCBNHQObcWo3NgrlPzyTjSaQ6%2Bg0Fb26efkglSOaL1m6dB4FjcEkIEhHJkVLhwxDr3meHrQ9ntdZupB%2FJPdVOp146KzS5eFt74mjgsHHeE8W45RAlkeD6QZ7bUcqmkmDjdFRX1P3LG%2FR0DYs4b217W5ALc0pYRQXeonWGqhStPsPly8KurBIDnml10KPq9NPa5CvhoNH2mPmb1UeIr5w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5115963443%2Fbbaa31411706b7b115b79c9af257d020%2FIMG_1995.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5115963443/bbaa31411706b7b115b79c9af257d020/IMG_1995.jpeg?Expires=1795253055&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=3hyW48eX7iUPq1BZPxGA2UWR0cXkLbBXsGbqzVuZSjcoGrq6S0fBa0HZ22cb8zl3IQ0leIW8NVR1umF2QiF7Lv1xw5dkOZVnAEz2y47VDVBl1Hvk0uH0c%2FoJpY%2FwPbZtnCUJMyljnFiTaRY0cbGUy7mIrqqB%2BL%2FzJ3VNcD%2BA4lgT7kU%2Bwwn2CXpRJ%2Fwb4XOASyxTQqDvgxLLA4vvVaR0HB0bRiuX6zIv6ixcvlz9H3FG8MTPzmXoiKf4r%2FOVBYYF%2B8AFws8Ny3F15sMl2onLkQByPLWQNLR2uuKQieEM66Uvd99MVe2uc93RwN7E5lGknsic%2FgXIMAyBucZiE2Db6A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5115963443%2Fbbaa31411706b7b115b79c9af257d020%2FIMG_1995.jpeg)
 
 #### Comments (4)
 - **味ぽん** (Nov 12, 2026 03:26am): ありがとう
@@ -157,7 +157,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6490383316/3e9e8cc7e3a2bad54d59e1a9f33e69f5/images__1_.jpeg?Expires=1795244106&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=l%2FuIZkaHyYIRSB8ueppONfihnaakHGVUMYwWoAUadmFd0IJ%2BDP8KyfZWzwJ52naV%2Bpd355HzJx5FznjFHV2Xue6zsEQxWhSJF17Mwun2z9M55nNQa6ueBO68qWKWdVo8XaHqMktyDvC04so%2F5RJTxZg%2FDCzBDjT672XCGorB6UhzerlZAYeVAbuBKLjHQJfadej%2F6KtNStVmEgIOFzJRoYJOCSGja%2BJb19lVp5MyXzwQYj%2BHCH7XkG6bDaotq8LArmHxo2cEtxoWMgWBXeQIRe6GnTZU5RpHcAJKgoqCTYKCp2SCpjxVEF1ktHeUJCjMet5idK45UMFSJY7jHV7%2B%2Bw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6490383316%2F3e9e8cc7e3a2bad54d59e1a9f33e69f5%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6490383316/3e9e8cc7e3a2bad54d59e1a9f33e69f5/images__1_.jpeg?Expires=1795253055&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=i30saNKOJwOpByk90zeWkJ1JRCPkZ1iILRJRw5LO3IWdadOhM2IVd6ZGx5E3J3%2BLHPLX%2FpKmVMcyW%2FfW9eH1xcz0%2B1RQq7ihEQAQvPKF3jijI82vzi70yxt5t0jMtPJnFIDi%2BVvGwicRQpDv9yJ0f9DL3IRZ07k%2FeYLLvoY9V2JFKzL0%2F7c%2BlLYvBEAnxow3gXNzSH5t3XBzaHSLY8EQgLkrGMNiKCCDmrwkGEigGiUfqFGGXlHcWymxbAd%2F1IbnByEiBD8T%2BD5nb6I2287TpfZNJzCN5goEgzNdCFHsK3TqtDHxUapZCqha7tyvcbb0eBRteDIV%2FESPUatXiMXisA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6490383316%2F3e9e8cc7e3a2bad54d59e1a9f33e69f5%2Fimages__1_.jpeg)
 
 #### Comments (7)
 - **ソ連** (Oct 16, 2026 08:14am): https://script.google.com/macros/s/AKfycbx4So5Xfxht1530h7XmDn1lfYthjw4_P-qjayflh8j8046FtFZfG91r-ZPl00yOKg-z/exec?img=cat=rvkcob.png北海道行きたいならみてー
@@ -191,7 +191,7 @@
 - **naganegi＿ねぎっち🧅🅢🅛🅘🅜🅔＿＃makunami族14代目　♯狂鳥族5代目** (Nov 12, 2026 11:22am): おね
 - **まふいん** (Nov 12, 2026 11:24am): くれ
 - **OSAKAHUMIN** (Nov 12, 2026 11:24am): あ
-- **たく 𝓽𝓪.𝓾𝓴✨️　＃鳥貴族　＃煮物の4番弟子！** (Nov 12, 2026 11:27am): いちよう
+- **たく 𝓽𝓪.𝓾𝓴✨️　＃鳥貴族　＃煮物の4番弟子！　＃だいまた店1号店店長** (Nov 12, 2026 11:27am): いちよう
 - **𝓜𝓫𝓪𝓹𝓹𝓮́ ♯₣ŘΔŇĆ€🇫🇷♯つつきの森1番弟子♯狂鳥族2代目♯初代つばさ教♯9代目女真族♯はーちーとペア画中♯だいまだの9番弟子♯ハムスターのおうち♯makunami族15代目♯だいまた店 副社長** (Nov 12, 2026 11:49am): あ
 - **狂鳥(くるいどり)♯いもちゃん♯鳥貴族♯キム族初代♯かきぴー族2代目♯りおとの20番弟子♯ネギネギファミリー5家族目♯りおと族20代目♯れいなの4646番弟子♯kurotsuki副隊長♯ makunami族7代目** (Nov 12, 2026 11:49am): 　
 - **˚₊‧꒰ა ✿M̞̰̝̍̂͂A̦̟̪͒̈G̦̓̍͑Ǔ̫̫̗R̠̭̪͂O̥̿✿ ໒꒱‧₊˚** (Nov 12, 2026 11:50am): あ
@@ -406,12 +406,16 @@ URL貼ってください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (5)
+#### Comments (9)
 - **ノックス ファントン** (Oct 29, 2026 10:39pm): 確かに教えて
 - **ノックス ファントン** (Oct 29, 2026 10:40pm): ゲームやりたい
 - **ちんすこう** (Oct 29, 2026 10:42pm): 黙っとけ
 - **ノックス ファントン** (Oct 29, 2026 11:17pm): w
 - **Anonymous** (Oct 30, 2026 10:38pm): ｗ
+- **野獣の子孫（？）** (Nov 14, 2026 08:06am): まじでお願いします
+- **野獣の子孫（？）** (Nov 14, 2026 08:06am): 具体的にどんなゲームをできるのですか？
+- **野獣の子孫（？）** (Nov 14, 2026 08:07am): https://toolpods.io/　←このゲームやりたいです
+- **野獣の子孫（？）** (Nov 14, 2026 08:08am): なんでやりたいかというと、学校側にこのゲームやっていることがバレてbanされてしまったのでお願いします🙇
 
 #### Additional Information
 - **Post color:** White
@@ -443,7 +447,7 @@ URL貼ってください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/4ba327df1ec231388e8b099ffbf6ffd4/photo.jpeg?Expires=1795244107&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0jtjFc237j4AWXj%2F5Q8U5TZtCVqzokQBjRVEEQFFA5ekjE5US%2BNUhvInFgvxIgobE7Abn7Dwlcy26PeQIiUHVVMGNG54ybRWN8tH2OUBIm9z9b8mjwAYKrOdDip0Nh0mWaTCZyUuCyqnVKKF44aUZyXC%2BN0UBivL0lmkT8YhOiz0uGGOPnxqTG%2FaUkih5sbHDfPS%2F%2F6Y6OaHLWtj1mpW7QNcHuHnD7iIkr5HaAbxXtvVTmhPf6fhYI2SA2SK5BiUlgcN5tQLVpJ1HQsgSqxtkNHKN9PIynUbkgxIi3krdnUwg%2BiePumCbDadysvsW0fjlqb0DSe2Tjoq5aJ2dntZPQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2F4ba327df1ec231388e8b099ffbf6ffd4%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/4ba327df1ec231388e8b099ffbf6ffd4/photo.jpeg?Expires=1795253055&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zrKZSKrhGoqvAEL78yKSBMJFz85%2FzIOGW8QnLxUKlRROoUsg5MW%2BTsJPUA9lUR3EpLSxYwCQR9rjJoXnuQEl9G6dQIU9QEiZTJFJqhGAtdkjjCS1AxWgwSCbKsm%2FXT8j7NGdndjoeRSNnDyYiLnzYyRvO8W1LAilroJuTFIXex0WCX62uSLuFMwxUs5OztCAJeo1I7z4cwY111HiciGv4ndo%2F2MOHa0CFY8SYkk4M%2BdMSvk5iIdd%2BpGUVNlOBRZT%2BSFArP6rr54%2FDqvzNYRAvhZ506YI%2BBvRqHxezkt4xp4JGaOvt%2BHbpZD85LQNOdeurKwlm6VS3bTTs4NsiP6C5A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2F4ba327df1ec231388e8b099ffbf6ffd4%2Fphoto.jpeg)
 
 #### Comments (3)
 - **カオスケ** (Oct 28, 2026 01:51pm): ヤチヨ推しの人どこ行った
@@ -468,8 +472,9 @@ aa\_\_san1214
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (1)
+#### Comments (2)
 - **草化ー** (Oct 30, 2026 04:23am): いいけど
+- **野獣の子孫（？）** (Nov 14, 2026 08:09am): あーさんはなぜ最初に女です、、とかを言っているのですか？
 
 #### Additional Information
 - **Post color:** Blue
@@ -1437,7 +1442,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1795244107&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MgxCKV51K42Z3Y37sQd2Y0Qbc5IhTUXb6hsLQvuQe6jH9mmf5Fkjmns3GdaNKWO8VFuJEPpUqxmVEJEC7O4EJ3%2BovSEu%2BVnj1RaEgHvvI%2FLHm0HXTtdkeakGcMqi5ol315QtB8hLpk5ugUKGExuxpjHP9%2BCL7RYkIPwpRnAgHUylfae%2FoPuwfD%2Bf47YiJxHV9d6G4QiGOU4H3zXo%2F2MkCOLg%2FzCFAANDk7fJuyoZP7sgj9H47r%2FSxOSAy1197Ksc64sPpXVqs5zGXJdymPYTbuKgwa2%2F8I%2B9y%2Bu0h%2BhoKvANml%2BaCYZ5Voq1fiAw6OzMAxnYNgA%2BfUGmCBuvSD5vFQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1795253056&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Mvnu9FcW%2FNm3aR4b%2BHCcHNxwlZheX4f7b897n5Nw1uNWN0mgoV2CbWiIlWoRqW2AWMVgzkmTuUyCKZHgZ4S2QJiAB%2FSrEOO6R5QKlf%2BynW2vwUsNaBMRn%2FDIN4tHsUAKdd2WumsRenRn%2B2pn3GXlcNVAhTSYcWSwcrKbDBMN7nJpxjPQ%2B7TRziIt7GX2NEKrmzHsO960qRD2ZEjRcjpBrkj2lUwCbrnPUph0SAIiv5o5W%2B2iUjmkoDnnCt9qs6lRGxXfWSIC1z6LoMfFG3ECelsYe%2B0fLHQF6hLmwBgUEMUuv9i2czS1w6qMSLYX1eKGpMVuIVwnQs3cjdWuyPSMsw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (3)
 - **とりっぴぴ** (Oct 06, 2026 11:34am): ?
@@ -1812,7 +1817,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 210 votes
+- **学校のパソコン:** 211 votes
 - **自分のスマホ:** 6 votes
 - **自分のパソコン:** 10 votes
 - **その他:** 17 votes
@@ -1842,7 +1847,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Nov 13, 2026 02:38pm
+- **Updated At:** Nov 14, 2026 08:04am
 
 ---
 
