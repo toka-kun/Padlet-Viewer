@@ -1,4 +1,4 @@
-最終取得: 2026/11/15 01:08:36
+最終取得: 2026/11/15 04:02:58
 
 # シーズン2ローマン部屋
 
@@ -26,7 +26,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5115963443/bbaa31411706b7b115b79c9af257d020/IMG_1995.jpeg?Expires=1795277366&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I8RkTz53eqI700EghRVKPEQ9doa9faRpGydDEu2rJhbOTiI%2FHyjkm3uIhlc7CLnruHhBeCB%2BlWuEMY4sDQjAxyRPC26d2tViky7G7doJhzK%2FPbhMB2LjtCV7G4jZydpE3oTSB%2F3aq7LRGh3FQ%2BGVW0EpgdgajD6Ew82fjkHM%2BAg%2FrX0ZhjBUnblCviwgrxjgiCLiKJt%2BP9KuxHtodAQcYbH0MClDHc%2FS6MOhUXs7b0oQkBI7fX1P2TlRbKLEEQlWSAfXjxvf3aQyyPuLFdF94SAU%2FlCl34B7JjXbaoTZvBWurXTvWpD0qpscyl8AfQjBfRPkYE9qT8IMyuZiNXsjzg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5115963443%2Fbbaa31411706b7b115b79c9af257d020%2FIMG_1995.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5115963443/bbaa31411706b7b115b79c9af257d020/IMG_1995.jpeg?Expires=1795287831&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=59QPOzmla1oqIn0BxQkrO4WRPwTPOCStVfgdBlSDxr6TLaBe8OzeUdeV95VPR54dpKhNtoHrc6YtiVa3TTQ%2BxMgYdQ%2FLqAVqM2cYRmyAsi5NkVIh5d%2FiqZU%2BTLh4M8C%2B6azvp80qLz9AQkFp80dD7mzoa3JL3B1kbQewG6u0Da1sHB14tdMLjar%2FxEVoNDmwJ%2BvS7Bui39JMWYQ26GDNIGNM%2Fw6zuKm3FeoPu6h%2BpllptCvXRHpP9JZJ5K6yWHzvVHycb3Pfsem%2B5mO2eKEztR5Uf44XBKc6w4RQ949gM7czWtpMTqeDJR2mO9LwVj%2BsC3ccJjLs7lIyKPauley%2BhQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5115963443%2Fbbaa31411706b7b115b79c9af257d020%2FIMG_1995.jpeg)
 
 #### Comments (4)
 - **味ぽん** (Nov 12, 2026 03:26am): ありがとう
@@ -42,7 +42,7 @@
 ---
 
 ### 2. ルールに付け足し
-**Author:** ぷろいせん😼 (shindetamaruka)
+**Author:** ぷろいせん😼 (shindetamarukayokusogei)
 
 権限欲求禁止
 
@@ -157,7 +157,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6490383316/3e9e8cc7e3a2bad54d59e1a9f33e69f5/images__1_.jpeg?Expires=1795277366&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0qKUJLv7LZQ5V%2FCyd5HId1mTkF5Pwke3V4lXs8aLlqyefkLhArjfvFTzSzj8iH1EOg%2BJn7DGRL2bsfQUMCFxNcszlwVH81Kj4RIS4%2FwUzS407hbHGIjZDP7oNa5og7JguZXSMijMiKXuZ5Q0nezxh%2BTciUrEjmK%2FY99HqBHC3I16GeSxtoocR4Ez%2BbQRVrZYank08vsvfL%2FLS2S8qn15moKJ3c6FJgUXabA6n9r0Et6wkKIByvv%2FNKcEjgcavWBbWdxzMK41%2FUDzHxdunk%2FaO77RPw%2BQ%2BbZnI6qI%2FMiqO6k8cmeiOE0jLMz7ePgK2HtIfItsBdmB5jB7o%2B8%2BQwj6VA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6490383316%2F3e9e8cc7e3a2bad54d59e1a9f33e69f5%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6490383316/3e9e8cc7e3a2bad54d59e1a9f33e69f5/images__1_.jpeg?Expires=1795287831&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=z2b0NHKGj0hnFcpxDZ6wQaE95LhJ9tm15MBJAhZkIYwj%2BlTPlM9pgyemQHG9Z4Kf5cK4W7EBg2oD2dPSmXY%2FCkNVuruqH5ETUfzUkTcmBOyXL%2BT3ajU4iyXnXejny4Q7cq%2BRzRiZD%2Fsw%2BpIoXY40xXkBj%2B4h9ZsgN81U7IpLtirTBfFHHXvbP50QR5uOfddBFYw9sAbX43v6KCEYgBfPTaKYteSCD%2F%2FKh3g7YgMqhOqOdE8mX4mt9lwdHEy19GxvlNyw12wXaqKtRpMDGUMAUe%2BRmXgZ6qF4RnKuQqTutS05slbcYukn1TRk1xhMZS5AxG9IgHZtja8Kzl18NUBKxg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6490383316%2F3e9e8cc7e3a2bad54d59e1a9f33e69f5%2Fimages__1_.jpeg)
 
 #### Comments (7)
 - **ソ連** (Oct 16, 2026 08:14am): https://script.google.com/macros/s/AKfycbx4So5Xfxht1530h7XmDn1lfYthjw4_P-qjayflh8j8046FtFZfG91r-ZPl00yOKg-z/exec?img=cat=rvkcob.png北海道行きたいならみてー
@@ -250,7 +250,7 @@
 ---
 
 ### 4. 荒らし対策として受付制度に変えました
-**Author:** ぷろいせん😼 (shindetamaruka)
+**Author:** ぷろいせん😼 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -407,7 +407,7 @@
 ---
 
 ### 9. ねむい
-**Author:** ぷろいせん😼 (shindetamaruka)
+**Author:** ぷろいせん😼 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -486,7 +486,7 @@ URL貼ってください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/4ba327df1ec231388e8b099ffbf6ffd4/photo.jpeg?Expires=1795277366&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pvuryBEcoHqPFYm2LF2ljvPq%2BRleiqioozeXF77Iw3OY%2BEy4qsd6BamGjP5cxvqtu5pgrPR9fVT4Fil8qPe3NncGIAm02%2F53Oc3TheupruENObdGSsDYK%2B2ZLvcdPSKkSoG2gPb8cOa1WEylkrlKamdTwOGdHaYvEawYlJNCPSUtWcuHMxc5bVQgyU%2FY8zJCbJ%2B2bVPVkXQkCfxcQ6E8NfpxKJtmZlXA0NlwmxmMpZn7J%2FJ2ErA23v0hUwv8%2F1lGNCcV%2BxKB0lpmme0q9uUZKH3P4V170DYx%2BaTThkeBP8Yhcnp6RNcs8cgD5LPOEdv7qEO9Q6TQCQP60462YtwERQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2F4ba327df1ec231388e8b099ffbf6ffd4%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/4ba327df1ec231388e8b099ffbf6ffd4/photo.jpeg?Expires=1795287831&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=werSQYOpeSUApC7riHtbQhUbUkb%2FKWqRrmHWxLAlaC300XTIBXQtZO%2BkJ8gxuyGMz0MDSVrvtgdPmnHNE0PqNqolo8qu9Y6EIgk1TWAwvghAo%2FPxkS%2BUm%2FpKmoN2%2B7RkHNKhKu1ZybQbwfJrTVc%2FF2c78T0m1bq03FhM3XRf8Fk%2B5x4RMHPeHKhs177ikw3r%2FYqbFTkCR45atqyHhWs74Y2%2BAjxIQQCbKWUYYHixf8Qve8tKKOdQfK71gdl381P9YRnj9hOKZbwxnAgiePR37dGry1coFwNY6vgXfbz5CPRwtJ9Ik1Osp5d9iNMVO2BuyDjzH%2Bq%2FFSWM%2BbZ1JRAKzg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2F4ba327df1ec231388e8b099ffbf6ffd4%2Fphoto.jpeg)
 
 #### Comments (3)
 - **カオスケ** (Oct 28, 2026 01:51pm): ヤチヨ推しの人どこ行った
@@ -661,7 +661,7 @@ aa\_\_san1214
 ---
 
 ### 23. ざこいね。
-**Author:** ぷろいせん😼 (shindetamaruka)
+**Author:** ぷろいせん😼 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -1118,7 +1118,7 @@ YouTubeの見方教えてください
 ---
 
 ### 2. 貫通ってそんな簡単に誰でも作れるもんなん
-**Author:** ぷろいせん😼 (shindetamaruka)
+**Author:** ぷろいせん😼 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -1168,7 +1168,7 @@ YouTubeの見方教えてください
 ---
 
 ### 5. ぬほって確か引退したよね
-**Author:** ぷろいせん😼 (shindetamaruka)
+**Author:** ぷろいせん😼 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -1258,7 +1258,7 @@ YouTubeの見方教えてください
 ---
 
 ### 6. ぷりんがリンチされてる光景がとてもおいしい🤤
-**Author:** ぷろいせん😼 (shindetamaruka)
+**Author:** ぷろいせん😼 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -1273,7 +1273,7 @@ YouTubeの見方教えてください
 ---
 
 ### 7. 泣いた
-**Author:** ぷろいせん😼 (shindetamaruka)
+**Author:** ぷろいせん😼 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -1487,7 +1487,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1795277366&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1IOnv9HpANZkaoul49v4fqC938pwO4vc85Ty9MoFjtL4YABwwZVUckKJHy0cQ1%2Ba07EtaPMQkc7LtU9itpcmx1qL4G8Q8CKd9SxtN8zuKPKylI8gF3gIWoaogmtiM5tYtuN4N32MY9cddN0G4cmPMVqsSHqCMlRMUK5D8nVUg1%2F4ESl7K7VTIvf88mBIAhup2WY3Nzr9n0QCRiW9M%2Bda8aSSeI%2FWunqQMJMv9cZXcxkJsEqxCKVmU1Gxw8RHCNboHQq5p3h7Afuq4LBKNWgHQLhsDo%2BbpzSh%2FRBkf76C%2FoAAkz6w43pAr52pp4Kmb%2Bb9hIIw5dxV1YHWNbtOIhLtpA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1795287832&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mpWlK%2F1YxH4cEcvRnT5tktAy2c7lrEHfMMyV3O%2B2zYV99WRYdXdJrhOf2TzgzjNS4FVvd%2FK9GckUCo%2ByA0WQvVKTPiuK8DP8BFk%2BCNfKulINwg96dco7GPbF0P80qV14l1TZ2Q%2FWUQvIiiywMWY%2BLfPnyUKUNZaaHI%2FdL9PaYKcN0L3TdG6P4ah3gP3lV3GDJhRyAnwipAw2vt3qPS0QGhISZDMS46CfQJv5oTLFIUnSJfhjb5IYMQb04LVZgr4tNMYvFHjY1gvAkqkwG14dUijG%2FcrCbg0HsqoLj4uZey2o7reuDZSXs5JWVHXiq7R4vniN9E8eELBZx9MTOl%2FUhA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (3)
 - **とりっぴぴ** (Oct 06, 2026 11:34am): ?
