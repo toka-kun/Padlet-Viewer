@@ -1,4 +1,4 @@
-最終取得: 2026/11/15 05:45:43
+最終取得: 2026/11/15 08:15:54
 
 # シーズン2ローマン部屋
 
@@ -26,7 +26,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5115963443/bbaa31411706b7b115b79c9af257d020/IMG_1995.jpeg?Expires=1795293992&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lrCXDSgVt%2FqIwAgFZh4impq6vF0fDsPOthW534KUUaoHOMjVEOrO%2BvLXdvqOy00fw7Gmq4VvIDtsoDMcKTxfT%2BKgZ%2FUwFyg%2FCmBsk01P%2BNxpPyEabXwYAt5K6Ygh0uEHD7%2BH90l7Q4NgNNsNc5u6%2Fm1Yoh5LlreCB0%2BDrh9WHCY8MkKbpM8xNFOPJZVoNSfeAQ7twcNXt8xH5v%2FR47eUjWi1dGEGU1PVdYh6nPLdbL7zdLFfmlVczBAOQj%2BjuW0NITByOQzJGxFgNvebd6IMIYaN63yuL8lAGNr9mMrfq2GUB1TN6pLug4%2FoM7wsimDKOZdVD6q2gD%2B6Bcg7xHCTGg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5115963443%2Fbbaa31411706b7b115b79c9af257d020%2FIMG_1995.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5115963443/bbaa31411706b7b115b79c9af257d020/IMG_1995.jpeg?Expires=1795303005&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fh%2BxwzsDoWz8IFUpTlsR51zkjJkg0yBbuFwrlHUQKSMfErWzByEaAXzD0pC%2BYmRVKSR6zNlDD5u1hx2VSAR3XIwe6A57sRI75LOhm5fudAcgFEl7loE6D41DyKECNJiProhiaHG4b9gG%2FCfqLIKzQdYN3GIckJ4jD9ce7D7OPCxMMBW9TZW7IlzFOBS5yDR3crl%2BP1rqTZ8rLJO2E2kcBQ1ZCe37I6g3BDMTZ4oEVT7OGJeOdCgg6BYAlOMbSgZlzDuANR4wjOT%2FI1F029EpRW6YzlmbNUmBw%2FhehtX5PSstIQEOFEGtpvnIWQAYUh%2BsXk6zHhdSCIt9k5usMxuLdQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5115963443%2Fbbaa31411706b7b115b79c9af257d020%2FIMG_1995.jpeg)
 
 #### Comments (4)
 - **味ぽん** (Nov 12, 2026 03:26am): ありがとう
@@ -157,7 +157,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6490383316/3e9e8cc7e3a2bad54d59e1a9f33e69f5/images__1_.jpeg?Expires=1795293992&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0qQFHVRtECFMIONmm6UGrilyVUfP5BMs2HBl2WGIK8fkMJUjmIOxXrRsyM8iMQGU2i7bqeJmprNVkBbkZR9SgAnmxmSbRwAsxuXreq%2BYHvBiAedciVuVjTBat4vjUN5698RAdxiO7dUJz1W4Ds7B49OpgXnqQ6tNsTulFytixC0td93RTWToCIq5zBU9E7YGCaTeoLNkNEtb5x6PWfqv3BF72ON2tluB%2F1QDucEZqHHAaUTwDxgeaXLKkr1XkaOUn%2FM1HtTPF1QJgiH6tU7B3GkoasgaLp%2BITdqaFuR7XQF7Kj7dRuK85yribTts1%2FlX7pVCyKXNhgpspa60ooRPXA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6490383316%2F3e9e8cc7e3a2bad54d59e1a9f33e69f5%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6490383316/3e9e8cc7e3a2bad54d59e1a9f33e69f5/images__1_.jpeg?Expires=1795303005&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KayQmh7Ki8T5lw8GMBn2M3H9nk5FfRjMAJLAhaz6z6HlDrpp5%2BaMf4UBN8a7sWlML%2FMW2D5sF03zvwepXXGX9Tb7vg1mMfXuJKwg%2FRaJnSaN3w8f1RFzvrv94F09dA8OALOU3kYD%2FwYpIAdVVtTf09JDnRjHLkJ7NXIE2m98SOS0Y0y2RUa%2Fq48m8ZN5LLxsJbk5W%2FR4xCzzZABhygpadZULFqLTXlnPpHTVhTOr%2BmBYwyNQBjjZqVvjexLYQIKqJR4ShWsXHAgTn5V4hc24xg3XcZjRrzwWWsQaBpZUGMW2oh1qwBxJiZf%2BsoOIIaFSCjp2zVoZZLDMLN7wMPe%2BUg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6490383316%2F3e9e8cc7e3a2bad54d59e1a9f33e69f5%2Fimages__1_.jpeg)
 
 #### Comments (7)
 - **ソ連** (Oct 16, 2026 08:14am): https://script.google.com/macros/s/AKfycbx4So5Xfxht1530h7XmDn1lfYthjw4_P-qjayflh8j8046FtFZfG91r-ZPl00yOKg-z/exec?img=cat=rvkcob.png北海道行きたいならみてー
@@ -305,7 +305,7 @@
 ---
 
 ### 3. 青の風
-**Author:** 青の風【学タブ垢】 (Aono_kaze_10250)
+**Author:** あおくゆ (Aono_kaze_10250)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -486,7 +486,7 @@ URL貼ってください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/4ba327df1ec231388e8b099ffbf6ffd4/photo.jpeg?Expires=1795293992&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NZyQ6ys4LNbwTpgP048vIx92FdUUAXw1P%2FYISXWbeEWXXinzad5AjubI0BR1wI4u8eCZS%2B1uX7iQVZw2JXlZk9HzJL%2BUq4x4LNReAambpnfWMrHtNfXNsMC6kMYOxOOuwRNLNY39HsLAAe9rXzSBGioyHSR7Pwq9o2Qd1nhDcjz0KnU8BSiqxQerCWsRqYhFW2gKFxbHO43CtyOiPdlK%2BdtHBtyWCb7wcOWbqhwxSvyC5XNRvQuPUnlm1kmLj6qRQkWbLK7sXwptDup6lPiSqQ6wqWupzULpV0YI1TGTEXJOpgUShK2ADVzcMHlxng%2BVD30S8AQpIUzTYhcyD5POUQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2F4ba327df1ec231388e8b099ffbf6ffd4%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/4ba327df1ec231388e8b099ffbf6ffd4/photo.jpeg?Expires=1795303006&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WLXKiIg1ISyB0%2BBdq2QBI2rZtzRvBUzkdvRwu0%2BQGn2%2FTzQoA3jHismsKpm6ZpBRQBJxZhqmkmZDpIw1oIzl4JdXw72pZ%2FDDsaLKQ4CLuuZLCDzFXe933Di%2Bvj6ji61a1raPveKnfiJ4ii4Eorcez6bSWZPKhmByPphSIaeyfM6KJVG1XtGszapDP4q5NNFu5HdUSc5%2FfUxFN5pwZ5uh5NSwCcIn2FC7HTUyGekc%2BAViln4Fik8k2lsz9gEcaickvAbTTGrl1Eesy3xAEUs%2BkvXilJeqxn14K%2BsXEuIygK%2BDbc3bkQ%2B72NrAGTPXaBXw2NukcX9TZ0gZOWfcpASwmQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2F4ba327df1ec231388e8b099ffbf6ffd4%2Fphoto.jpeg)
 
 #### Comments (3)
 - **カオスケ** (Oct 28, 2026 01:51pm): ヤチヨ推しの人どこ行った
@@ -1487,7 +1487,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1795293993&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mHPEpOuKiadUX76yw9EbV%2FgKvAgoraH3BCBjinquDkAd3abi59nsVvX05fBdxtlu%2FB6B6%2BsK0lsrTT%2BfG65ENyeV4mW5u4tV6CQMWNnU03aY7iJrv%2BunhYMOo7eovX%2FJ407cYaiJudJSUCynxIT7SQoADQp8cozztVfEpCviWNCGlvX%2BulOj67RG83O7Gnf6BfqQHL2dOTCDEfBy%2BuEQZUZvcR%2FSa64hf%2BVuXrNTP2Na87lVOJyDMdwBCOjrHJhyu89JkDNQNuns6xCoJV0dVhY%2FVJaLlrv1%2BTqfYnNgq7qnO%2BLSyFqEwzp010bG3s3S5rm1z%2FJrEM7CNI2nqByz4g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1795303006&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RcrLKp%2Bnj9hSdvxKavionNtgSyTbRqSdWQzYag2YjgAeelhsppLkgT%2Fpz46%2Fzktx%2Br%2FGwf8IHR06flOuCDhi3I2HbXn5WByyzEqK2H2hCS1BkSIxVFXlEE%2BxgRP7RnLDgYLVcYTZlM8FDqKZE76S9FE91VoaLnE4rpZdwFFNaWc7BIC3CG%2FZCPfhTSYI1gBGJKXm7zext54dbqa7lZAp25BJUXhrA4wedi8NmbZw35PfapB%2FIYC5s3jWa1a9emP3%2F50fhvEArGuHQ0m5ws3TO3X1OeO%2FhbyxXPMIzERbwWGpaV%2BPUZF4o4VJkY3XqxKLAoCpGWLWrltm82tvg84rFQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (3)
 - **とりっぴぴ** (Oct 06, 2026 11:34am): ?
@@ -1523,7 +1523,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 ---
 
 ### 2. きてね
-**Author:** 青の風【学タブ垢】 (Aono_kaze_10250)
+**Author:** あおくゆ (Aono_kaze_10250)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
