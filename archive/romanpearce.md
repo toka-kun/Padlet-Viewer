@@ -1,4 +1,4 @@
-最終取得: 2026/11/15 16:47:44
+最終取得: 2026/11/15 19:40:28
 
 # シーズン2ローマン部屋
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 104
+- **Posts:** 110
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Nov 15, 2026 06:53am
+- **Updated At:** Nov 15, 2026 10:35am
 
 ## ルール(守ってね)
 
@@ -26,7 +26,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5115963443/bbaa31411706b7b115b79c9af257d020/IMG_1995.jpeg?Expires=1795333729&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Z4M%2BOscHwGRKSe9Z%2Fl3Dk6rmsoGrfT244XjdvVrwJJSMrANwOuSDend9ANTPH2gzFSQBrmu76n79czdmq2OQc9RyXiA0rkHw814gn09%2BzBO%2BC1y9j5wEiHlPtB%2FbocEdj7uTpbmQUP0vM54NOlcQKHcp09Nh08y9eg%2FNU5YNaRl43PQA2oQY3RvWyDFTahWIJAQp%2BX6sUe5OEX2mVCXgIbNW9O66KrQB5Pm%2BeSuYIlxsxKnUypN990gbXXMuQotQErRYM6ebUp1N5HAySNkOafEoKt2ZS7pJ9DJzICNYTuKu1ch8F3y3Moniib2l9gHRMcBMH8PGXaGi6pw%2FGj7yKg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5115963443%2Fbbaa31411706b7b115b79c9af257d020%2FIMG_1995.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5115963443/bbaa31411706b7b115b79c9af257d020/IMG_1995.jpeg?Expires=1795344088&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QQd3aiaQqRsNmZLOeUH5LHZyiwHlxWaWaI3afetIW1HPFuvhrKuxr2lMQOEun%2FIi5jiX4YP2H5t1TcxqLZ%2FFWNI6aK8Eoz26C2IbMEnHSWiBv%2FEGeTqtZ%2FOEmm9tOe82Vp8KqLT5WF8LoWxdEYgnMsi132Ts9I%2FcpTWVLsCTA6EjfTuhjKio3yJEX%2Fci6zi4fIT3IW8Hbnl8ONdNyO3y22RFM3u48WOn01aHPxTLTWL6F9%2BfZmy%2B3xvtBvDxYXL82KBqMtQa2fmGv6mXn6336lWedYuePMS8RhepNl5iNrwgfVpjrYOfmEGdIZ0ijQ4a4rDv8ocSoguG9Ao43LB7zg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5115963443%2Fbbaa31411706b7b115b79c9af257d020%2FIMG_1995.jpeg)
 
 #### Comments (4)
 - **味ぽん** (Nov 12, 2026 03:26am): ありがとう
@@ -42,7 +42,7 @@
 ---
 
 ### 2. ルールに付け足し
-**Author:** ぷろいせん😼 (shindetamarukayokusogei)
+**Author:** ぷろいせん😏 (shindetamarukayokusogei)
 
 権限欲求禁止
 
@@ -50,8 +50,8 @@
 
 #### Comments (4)
 - **肉紙** (Oct 31, 2026 10:32am): eroinotukutte
-- **ぷろいせん😼** (Oct 31, 2026 01:18pm): えぇ
-- **ぷろいせん😼** (Oct 31, 2026 01:18pm): まあいいけど
+- **ぷろいせん😏** (Oct 31, 2026 01:18pm): えぇ
+- **ぷろいせん😏** (Oct 31, 2026 01:18pm): まあいいけど
 - **緒方森羅** (Nov 04, 2026 01:39am): これ権限あれば結構できんのにね
 
 #### Additional Information
@@ -157,7 +157,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6490383316/3e9e8cc7e3a2bad54d59e1a9f33e69f5/images__1_.jpeg?Expires=1795333729&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=I%2BbJQbi718YwRIJ0fJrRANhadNn0cnGBFaYn%2Fd%2BMrmxLWueab7ndv8UgknP%2Fn5kRcgMENrFefKlp6i3sI2BTlIYyFNiU%2BmN8fkT%2F3hNd2wyZICzDMlyzX4qZUW6ey3N3W5V5IvlZYV%2FVduSvYdlcHebz3AvRg%2B3Jt0Z%2BAcjd%2FDVAgnQNmC2CEIlTf6IByeQYSKqDugUpYRWjORiYuOBk3kkZFM%2FDfyXsDXCZ6m5mGZzMsVbz5rb4jE855ZoWrEwUNpsnSU0iyDNU5pVrkxtpj22P%2FQ4Nq1Cp%2FGPxuPjHNDVCUeluLbNfPXODYKErwd0%2FAueLmq%2BGLg5GvjUVX4qlgQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6490383316%2F3e9e8cc7e3a2bad54d59e1a9f33e69f5%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6490383316/3e9e8cc7e3a2bad54d59e1a9f33e69f5/images__1_.jpeg?Expires=1795344088&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2%2F6pZMIYm31K5TZRUX6kkKbqGOqtdzlDPivMXZPuu2MAEP%2FGhIoqgSIi0GUE9QjDY4MDK9NZ3h5dmmpprIYElZ4Ecm9slgP9%2FuiOnA5w%2ByDbm1WNXrgYZOqvjonbW61j8afX79VUvIgjRhCVApL6zGAK7stt%2Fw%2FW3oqARHj1XLRrqAub0zMyoGQ4K5vkITEraeOSV3CLRWKJBIhJiNQdqSfPCs8A%2Fan91AdBE85PWkSBBzBhUc3paONU0shN3EaTgaEbrYldGiNKfwvpAyc3KXgeENM197EAKpTBv3pOW8nf2%2BXEp7TnRpjovo6K7pj3mRFRcwumosV%2FZN3eJTzLbg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6490383316%2F3e9e8cc7e3a2bad54d59e1a9f33e69f5%2Fimages__1_.jpeg)
 
 #### Comments (7)
 - **ソ連** (Oct 16, 2026 08:14am): https://script.google.com/macros/s/AKfycbx4So5Xfxht1530h7XmDn1lfYthjw4_P-qjayflh8j8046FtFZfG91r-ZPl00yOKg-z/exec?img=cat=rvkcob.png北海道行きたいならみてー
@@ -214,7 +214,19 @@
 
 ---
 
-### 2. 学校のタブレットで開けるYoutubeおしえてsiatube以外の奴
+### 2. 皆さんが使ってる便利サイト教えてください！
+**Author:** たむ。
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 15, 2026 09:55am
+- **Updated At:** Nov 15, 2026 09:55am
+
+---
+
+### 3. 学校のタブレットで開けるYoutubeおしえてsiatube以外の奴
 **Author:** Youtube
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -230,7 +242,7 @@
 
 ---
 
-### 3. 誰かフォトナタブレットでできるやり方知ってる猛者いない？
+### 4. 誰かフォトナタブレットでできるやり方知ってる猛者いない？
 **Author:** ナイアガラの滝
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -250,8 +262,8 @@
 
 ---
 
-### 4. 荒らし対策として受付制度に変えました
-**Author:** ぷろいせん😼 (shindetamarukayokusogei)
+### 5. 荒らし対策として受付制度に変えました
+**Author:** ぷろいせん😏 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -268,7 +280,42 @@
 
 ## 自己紹介
 
-### 1. いい子
+### 1. Post 1
+**Author:** 福島県 (hukushimamania)
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5812279039/b1b55ed01413ded92931e0dc73f416bb/IMG_2723.jpeg?Expires=1795344088&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Al0L80lFiPEKS3I0cpRfjTjumHXydm82JActPk0LlDPVb2kdD8xs1mC%2FB46693VEeVseYW%2BMc1q1uKXmb5bm8AD40xE%2BSzxK8E0Utj46DOL%2FMgQvZS04jsSuorI1IUCI0XZS0GdQXYfdHcLjFPRArFt8guZ7cJmlO%2Fxl%2Bklv1a1rT1N1rpP4n19FGM3XfkOn5Dyrd%2FlUhfexwJ6jqgRxXGWlBmIXL44iIqtPX2X3jCuAYHW%2B57Au3kbVZ1%2F5wnzD3etaDsRD56g1FNLn9bTrm4Uk6Aov2a5gg4PlNrDUra6%2Bjsob%2FXS44gZsYsMUhADjMs0NjLt3te2SH7c87n5E3A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5812279039%2Fb1b55ed01413ded92931e0dc73f416bb%2FIMG_2723.jpeg)
+
+#### Comments (2)
+- **福島県** (Nov 15, 2026 09:40am): こんにちは
+- **たむ。** (Nov 15, 2026 09:53am): こんにち
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 15, 2026 09:39am
+- **Updated At:** Nov 15, 2026 09:39am
+
+---
+
+### 2. Post 2
+**Author:** 吉田駿輝 (s20232619)
+
+今日からよろしくお願いします
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Comments (1)
+- **たむ。** (Nov 15, 2026 09:53am): お願いします！
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 15, 2026 09:20am
+- **Updated At:** Nov 15, 2026 09:20am
+
+---
+
+### 3. いい子
 **Author:** れい (rei14)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -285,7 +332,7 @@
 
 ---
 
-### 2. 管理者くれないとぶっ壊します
+### 4. 管理者くれないとぶっ壊します
 **Author:** れい (rei14)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -304,7 +351,7 @@
 
 ---
 
-### 3. 青の風
+### 5. 青の風
 **Author:** あおくゆ (Aono_kaze_10250)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -323,7 +370,7 @@
 
 ---
 
-### 4. こんにちは
+### 6. こんにちは
 **Author:** 緒方森羅 (r0303476)
 
 初めて来ました
@@ -350,7 +397,7 @@
 
 ---
 
-### 5. こんにちはさーもんです。
+### 7. こんにちはさーもんです。
 **Author:** Samon (goodtanaka)
 
 パドレットでの荒らしボット
@@ -370,7 +417,7 @@
 
 ---
 
-### 6. やあ
+### 8. やあ
 **Author:** Bu23 (bu23sab)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -382,7 +429,7 @@
 
 ---
 
-### 7. よろしく！
+### 9. よろしく！
 **Author:** 7c7f65d1#はーちー✨️🍫☕😈🍨とペア画中 (7c7f65d1)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -394,7 +441,7 @@
 
 ---
 
-### 8. よろしくtuve
+### 10. よろしくtuve
 **Author:** ˚꧁☯︎ 𝖅̵̳̳͈̟͔͉͊̄̚̕𝕰̷̶̴̴͉͉͓̟͒̃͐̌̚𝕽̵̵̵̵͎͉̪̟́́̂̃̈́𝕺̴̵̴̷͉̟͓̟̓̈́́̃̈́ ☯︎꧂˚ (ZERO375648)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -406,16 +453,16 @@
 
 ---
 
-### 9. ねむい
-**Author:** ぷろいせん😼 (shindetamarukayokusogei)
+### 11. ねむい
+**Author:** ぷろいせん😏 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (6)
 - **まふ** (Oct 31, 2026 12:34pm): なんかコメンターにされた
 - **まふ** (Oct 31, 2026 12:35pm): おいくそねっこ直せ
-- **ぷろいせん😼** (Oct 31, 2026 01:18pm): そんなこといわないで🙊
-- **ぷろいせん😼** (Oct 31, 2026 01:18pm): おれのこときらいなの
+- **ぷろいせん😏** (Oct 31, 2026 01:18pm): そんなこといわないで🙊
+- **ぷろいせん😏** (Oct 31, 2026 01:18pm): おれのこときらいなの
 - **k²** (Nov 01, 2026 01:05am): おれも直して
 - **おじゃる丸** (Nov 01, 2026 08:52pm): 僕も
 
@@ -426,7 +473,7 @@
 
 ---
 
-### 10. プロキシサイト教えてください
+### 12. プロキシサイト教えてください
 **Author:** ヨルカゼ
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -438,7 +485,7 @@
 
 ---
 
-### 11. ゲーム教えてください
+### 13. ゲーム教えてください
 **Author:** マツナガダイチ (e52023061)
 
 URL貼ってください
@@ -463,7 +510,7 @@ URL貼ってください
 
 ---
 
-### 12. ありがとう
+### 14. ありがとう
 **Author:** ノックス ファントン (s202213)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -479,14 +526,14 @@ URL貼ってください
 
 ---
 
-### 13. おひさ
+### 15. おひさ
 **Author:** カオスケ (kaguyasama59)
 
 クソ男です　おなしゃーす
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/4ba327df1ec231388e8b099ffbf6ffd4/photo.jpeg?Expires=1795333729&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=msiN46YCm6FhYVEiKT1UnX7tgzt1d3Tj0vayhlzh5RuE%2BXzitvPYeYjl0OlRS%2B9geHEZ6RX3t95XLDj0gfhev0GcdHjkQH%2FI0U94ehVZpTR0DHR3I4Kbc%2Be9HY6Rq0LsaSFndTva4TQC7IxW6f6ERD6utm%2BrtsGsvAUD1A0dbQAP%2Bv7Ok7oT%2FGmUSX18rTsGpDByhn3fzYARRV5Aczxny1y2mCu6fs9EcAhE7MmN75t9xStu2HG0heh9VpQM4Q0twMZENstAEZbUcXFdVhZ%2FHoYTaYUmdB55cRCaUgpbdh1sLlTWktLs4r02mW2OzQdpwPrF74G%2B8NA1zRZXyj%2BhhQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2F4ba327df1ec231388e8b099ffbf6ffd4%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/4ba327df1ec231388e8b099ffbf6ffd4/photo.jpeg?Expires=1795344088&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=czKx3Mk7ULWVOszYZfkzTEtBldZ6gDGT%2FZFDR0%2BSmOxg1uaqiHuHeWm5ftSW40eBfs%2FAN1dK1Ov3RnOwFC0MWrh8p7mrcpi%2FvOt2ZC4HfRn8huPbJfKstVEQa%2B719qMCde%2F48q16%2BI3adnkmE7y6R6gZ2mUQ8%2FWTi4XIbVrqZ5l87%2F8bNuaPjHRO4z78X%2BnWTu%2F8fSpEPBEM4tv%2BF2krUcgyEBoMgOADHCFqVmxmzMPlLt%2FwEOZ81dA5uasHtipu3pOCB5vsF4pgqF5AAax9SH%2Fifp%2B5rONPLImWZZJVfuV8UYWFoPjGPCudpJdLWWmEmE0P%2FM%2F4hTyXXRTGNNynZQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2F4ba327df1ec231388e8b099ffbf6ffd4%2Fphoto.jpeg)
 
 #### Comments (3)
 - **カオスケ** (Oct 28, 2026 01:51pm): ヤチヨ推しの人どこ行った
@@ -500,7 +547,7 @@ URL貼ってください
 
 ---
 
-### 14. 誰かインスタ繋ご
+### 16. 誰かインスタ繋ご
 **Author:** あーさん
 
 女です
@@ -522,7 +569,7 @@ aa\_\_san1214
 
 ---
 
-### 15. 横長じゃなくなってる
+### 17. 横長じゃなくなってる
 **Author:** きのこ　＃ヰさ共(最近低浮上 (s_12318084)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -537,7 +584,7 @@ aa\_\_san1214
 
 ---
 
-### 16. ローマン
+### 18. ローマン
 **Author:** きのこ　＃ヰさ共(最近低浮上 (s_12318084)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -552,7 +599,7 @@ aa\_\_san1214
 
 ---
 
-### 17. あれ？投稿消すためにモデにしてくれたのに、まだモデなんだけど
+### 19. あれ？投稿消すためにモデにしてくれたのに、まだモデなんだけど
 **Author:** きのこ　＃ヰさ共(最近低浮上 (s_12318084)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -567,7 +614,7 @@ aa\_\_san1214
 
 ---
 
-### 18. ちょっと時間かかったけど消しといたよ
+### 20. ちょっと時間かかったけど消しといたよ
 **Author:** きのこ　＃ヰさ共(最近低浮上 (s_12318084)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -583,7 +630,7 @@ aa\_\_san1214
 
 ---
 
-### 19. ローマンおひさ
+### 21. ローマンおひさ
 **Author:** きのこ　＃ヰさ共(最近低浮上 (s_12318084)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -609,7 +656,7 @@ aa\_\_san1214
 
 ---
 
-### 20. KBです、知ってる人は知ってるかな？
+### 22. KBです、知ってる人は知ってるかな？
 **Author:** KB
 
 [https://padlet.com/secondarykb/KB\_Revive](https://padlet.com/secondarykb/KB_Revive)
@@ -626,7 +673,7 @@ aa\_\_san1214
 
 ---
 
-### 21. Post 21
+### 23. Post 23
 **Author:** れい (rei_13)
 
 管理よこせ
@@ -644,7 +691,7 @@ aa\_\_san1214
 
 ---
 
-### 22. 学校のタブレットでできる誰も知らないようなブロック解除の裏技を教えてください！！
+### 24. 学校のタブレットでできる誰も知らないようなブロック解除の裏技を教えてください！！
 **Author:** もち (h2519017)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -660,13 +707,13 @@ aa\_\_san1214
 
 ---
 
-### 23. ざこいね。
-**Author:** ぷろいせん😼 (shindetamarukayokusogei)
+### 25. ざこいね。
+**Author:** ぷろいせん😏 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (9)
-- **ぷろいせん😼** (Oct 20, 2026 04:54am): 権限持ってるけど軽すぎて直す必要性を感じられない
+- **ぷろいせん😏** (Oct 20, 2026 04:54am): 権限持ってるけど軽すぎて直す必要性を感じられない
 - **わらびもち** (Oct 20, 2026 05:34am): ほんとだ
 - **わらびもち** (Oct 20, 2026 05:34am): 軽い
 - **わらびもち** (Oct 20, 2026 05:34am): でも見てたら目が痛い
@@ -683,7 +730,7 @@ aa\_\_san1214
 
 ---
 
-### 24. あらされてるぞだれかなおして
+### 26. あらされてるぞだれかなおして
 **Author:** ツバメイロ
 
 そーり一さんがんばってください。
@@ -700,7 +747,7 @@ aa\_\_san1214
 
 ---
 
-### 25. Post 25
+### 27. Post 27
 **Author:** １１４５１４
 
 だいたいみんな学校のパソコンでやってるよね？
@@ -719,7 +766,7 @@ aa\_\_san1214
 
 ---
 
-### 26. Post 26
+### 28. Post 28
 **Author:** スエダゆうせい
 
 てかINMUkINGかわいスギ
@@ -738,7 +785,7 @@ aa\_\_san1214
 
 ---
 
-### 27. 初めてです、よろしくお願いします。
+### 29. 初めてです、よろしくお願いします。
 **Author:** やぁ (1911913_1)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -754,7 +801,7 @@ aa\_\_san1214
 
 ---
 
-### 28. こんにちわ
+### 30. こんにちわ
 **Author:** ﾔﾏｻﾞｷﾖｳﾀ(復活)
 
 私のこと覚えてる人いるかな？
@@ -777,7 +824,7 @@ aa\_\_san1214
 
 ---
 
-### 29. あああああああ
+### 31. あああああああ
 **Author:** Anonymous
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -789,7 +836,7 @@ aa\_\_san1214
 
 ---
 
-### 30. ハロー
+### 32. ハロー
 **Author:** はま寿司 (pikurusuoisii)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -801,7 +848,7 @@ aa\_\_san1214
 
 ---
 
-### 31. Post 31
+### 33. Post 33
 **Author:** Anonymous
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -813,7 +860,7 @@ aa\_\_san1214
 
 ---
 
-### 32. こんちゃ
+### 34. こんちゃ
 **Author:** naganegi＿ねぎっち🧅🅢🅛🅘🅜🅔＿＃makunami族14代目　♯狂鳥族5代目 (manasusieru)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -829,7 +876,7 @@ aa\_\_san1214
 
 ---
 
-### 33. wow
+### 35. wow
 **Author:** Anonymous
 
 i-フイルターのけし方おしえてください
@@ -843,7 +890,7 @@ i-フイルターのけし方おしえてください
 
 ---
 
-### 34. 学校
+### 36. 学校
 **Author:** 学校
 
 YouTubeの見方教えてください
@@ -862,7 +909,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 35. こんにちは
+### 37. こんにちは
 **Author:** むににと＿ヒロアカur
 
 始めましてです。
@@ -879,7 +926,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 36. 久しぶりっす。復帰勢です
+### 38. 久しぶりっす。復帰勢です
 **Author:** 霧夜　Mistgentle 🌫️💫　#進撃の〇〇族 総長 進撃のエレン　#チキンバナナの１番目の兄弟子　#会社の一員　代表取締役会長　#nekoちゃんぬ族10代 (07525071)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -894,7 +941,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 37. kawausoK ですよろーーーーーー
+### 39. kawausoK ですよろーーーーーー
 **Author:** とりっぴぴ (27200037)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -909,7 +956,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 38. がくたぶあか
+### 40. がくたぶあか
 **Author:** ローマン (s27260032)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -927,7 +974,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 39. こんにちは
+### 41. こんにちは
 **Author:** コヤギ
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -943,7 +990,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 40. こんにちは‼️新人です。お願いします🤲
+### 42. こんにちは‼️新人です。お願いします🤲
 **Author:** 最強💀☠️ (20210911_11)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -961,7 +1008,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 41. 数学中
+### 43. 数学中
 **Author:** 85xo
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -973,7 +1020,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 42. Post 42
+### 44. Post 44
 **Author:** জ্জ్జ్ఞా
 
 জ্জ్జ్ఞా
@@ -987,7 +1034,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 43. こんちわ
+### 45. こんちわ
 **Author:** カマキリ (00221133)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1002,7 +1049,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 44. よろ
+### 46. よろ
 **Author:** とりっぴぴ (27200037)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1021,7 +1068,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 45. よろろろろろろろろろろろ
+### 47. よろろろろろろろろろろろ
 **Author:** い
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1033,7 +1080,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 46. ぬｎ
+### 48. ぬｎ
 **Author:** 影 (dopagakisine)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1045,7 +1092,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 47. よろー
+### 49. よろー
 **Author:** しろちゃん (syunn925)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1057,7 +1104,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 48. だいまただよ
+### 50. だいまただよ
 **Author:** だいまた (daimatadao)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1100,6 +1147,60 @@ YouTubeの見方教えてください
 ## 雑談
 
 ### 1. Post 1
+**Author:** 福島県 (hukushimamania)
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5812279039/ded4b9fd1bcc77cc1a968cb3df0f081b/_____.mp4?Expires=1795344088&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=O5ZvMLG7m7%2B9nwe%2BTOt22%2BG0vcW8rq%2FZtc%2Fm%2FeMVTeL7N%2FT33yP5wudzaUgwCJbIEXxFfVnliAJKjdZFT5OqFkutS0xL%2FYDbuSNvsZXiN7sBIybqDAGuygYWzw5ny3YLn4ClTxCQjWbo1yUopO2sogtc6SFat8961WXdsW%2BHobHYoHw56SJhHkj7%2BYg8CYkmZ8WA5keIP9%2BFPGSjSAYseCmQk2OKTWND3X6vDSVOMhU%2BV%2BqXGtwZupZCE11Lq6Oihl5yuWL9oHLNreg0sLIY3ZFIJUpFwkXmpKUTr%2BnN1ikirdc51kf1XFo0aBLwssAr%2FR1j1VNwuo8XgoB%2BiZz1Lg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5812279039%2Fded4b9fd1bcc77cc1a968cb3df0f081b%2F_____.mp4)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 15, 2026 10:35am
+- **Updated At:** Nov 15, 2026 10:35am
+
+---
+
+### 2. Post 2
+**Author:** たそ (kana57)
+
+twitter
+
+tenga 公式
+
+フォローしてないやるは人権ないです
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Comments (1)
+- **福島県** (Nov 15, 2026 10:27am): ヒカマーですかヒカマーでしたらフォローします（twitter）
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 15, 2026 10:10am
+- **Updated At:** Nov 15, 2026 10:10am
+
+---
+
+### 3. Post 3
+**Author:** 福島県 (hukushimamania)
+
+うちの先生
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5812279039/41b7ba6b04090c621b73827f901af7e7/HR19YNFa4AAVW8A.jpg?Expires=1795344088&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mU2NPKsSGX8r7SIdduOHmYD2MHsMEzQTT2WhnPVELFqXUrTEHBjMiUV6bSjHwg%2Fb8CUDlOPhe9shWCVtS7xUTLnZ4BgzEZ%2BB1oziBFUiPN2uE0bxV83HtCZuUHtkzJ6Q3KmdHvQxhcbJr0ebKiPuEdW9cblcCUj%2FjGu7dhmevIOk3UWqMXQz0GBwiNmUUU5xjB3E%2FQbOypkjJ6nyTp7RS8RXpkJFM2hx1xoLldifSyUiKbBYEZCrl5%2F1Vbhg7h033lTnpFLvDZEXvVPhm86BqcDuTgn%2Fh7pLLKD49PmQ4L2c%2FWoBaaIRffdwFJs5UZRgRXIAGumBTmin3YJIZRbVJw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5812279039%2F41b7ba6b04090c621b73827f901af7e7%2FHR19YNFa4AAVW8A.jpg)
+
+#### Comments (1)
+- **たむ。** (Nov 15, 2026 09:53am): ｗｗｗｗｗｗｗｗｗｗｗ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 15, 2026 09:42am
+- **Updated At:** Nov 15, 2026 09:42am
+
+---
+
+### 4. Post 4
 **Author:** しろちゃん (syunn925)
 
 レスバおわった？
@@ -1113,7 +1214,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 2. Post 2
+### 5. Post 5
 **Author:** Emilia._.Cl@lis (0000000000000000000000000000000000000000)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1125,7 +1226,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 3. かきくけこにあいたい
+### 6. かきくけこにあいたい
 **Author:** ローマン・ピアース　 (oretensai)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1141,12 +1242,12 @@ YouTubeの見方教えてください
 
 ---
 
-### 4. ガチで懐かしい
+### 7. ガチで懐かしい
 **Author:** ローマン・ピアース　 (oretensai)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2454764338/81bfab706eea5aad9f1625abcc937b49/Screenshot_2026_11_14_22_21_01.png?Expires=1795333729&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QrX1kdtBLlQcgOf6i%2BqVY4lPskpNY%2BpIIeJ64%2FjrpPBu2PDwjO1zO3%2Fpgsp2UGncFAj773HIzAsMxv1hQ%2FqgvSj2hUCEcKs8OJhOGvCdfcwV5QNa7ERqyAFQeetkrvMhioNAVR%2FjGxwbmPT%2Bi70ZkJJbpzwJw7L7WDxSyBcJ3yqLkUDM0X4aQanRRmIGYOPvHP1kGTgyClg0EDBhed5LXTMXly7a%2Bq1F0Jxn%2FyoxsQENsW9Z5uy7F3Y5szArM6O3aQ5rpb64ObpGzDrc%2Bhry7%2BTvZ6BcubDkvlE3kEb8AMj9zTbM3VmgOPOrWokk%2BYwBqdV81IX%2BCzAq8pGyFOhx1Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2454764338%2F81bfab706eea5aad9f1625abcc937b49%2FScreenshot_2026_11_14_22_21_01.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2454764338/81bfab706eea5aad9f1625abcc937b49/Screenshot_2026_11_14_22_21_01.png?Expires=1795344088&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zChk3bxPG%2B%2BvNuYS7GZeStLLRHv6L%2FYKWbqZ2HyubUFGspvqgT7syXQYe87bo7GEIv48vHn2ZAvPHFuWOPwZb5rHAJzm0QMI2NnN2lq9NAkuEAJVP8An5ENKilkEJPS%2B2ovOIXneOms2PySAAe3E9I5eqmC2o9mv7x22mRcZh8IpO9yKdrrb7zMacq6642lshSFjtb%2BiKRelOQJvGkAaKRY8Gbaa3czQ1rYcYmXU6NTssNseVgEKK%2F1JbAyImKtlBpJots8p49z8Qc7dl0lDo7BsaTI8CZBBK1iHZ4zp302bz8d%2B2T5%2BZEo1fu6Wv8vEPWEqD3cHIqqps0bt%2BH8UXw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2454764338%2F81bfab706eea5aad9f1625abcc937b49%2FScreenshot_2026_11_14_22_21_01.png)
 
 #### Additional Information
 - **Post color:** White
@@ -1155,18 +1256,19 @@ YouTubeの見方教えてください
 
 ---
 
-### 5. ひさしぶりに学タブ開いたら意外とおもろい
+### 8. ひさしぶりに学タブ開いたら意外とおもろい
 **Author:** ローマン・ピアース　 (oretensai)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (6)
+#### Comments (7)
 - **こうき** (Nov 14, 2026 03:28am): わら
 - **𝓜𝓫𝓪𝓹𝓹𝓮́ ♯₣ŘΔŇĆ€🇫🇷♯つつきの森1番弟子♯狂鳥族2代目♯初代つばさ教♯9代目女真族♯はーちーとペア画中♯だいまだの9番弟子♯ハムスターのおうち♯makunami族15代目♯だいまた店 副社長** (Nov 14, 2026 12:33pm): https://padlet.com/mythoughtsarespinning/3-s024wbai4sro4kxgn4c2
 - **𝓜𝓫𝓪𝓹𝓹𝓮́ ♯₣ŘΔŇĆ€🇫🇷♯つつきの森1番弟子♯狂鳥族2代目♯初代つばさ教♯9代目女真族♯はーちーとペア画中♯だいまだの9番弟子♯ハムスターのおうち♯makunami族15代目♯だいまた店 副社長** (Nov 14, 2026 12:33pm): こい
 - **ぼんじゅーるだどーもです** (Nov 14, 2026 12:42pm): ⇑セクション守れ
 - **だいまた** (Nov 15, 2026 03:30am): はやくしね
 - **Samon** (Nov 15, 2026 03:55am): https://padlet.com/mythoughtsarespinning/3-s024wbai4sro4kxgn4c2 ここ荒らしていいんだよね？拡散してるし...
+- **ローマン・ピアース　** (Nov 15, 2026 09:00am): だいまたどした
 
 #### Additional Information
 - **Post color:** White
@@ -1175,8 +1277,8 @@ YouTubeの見方教えてください
 
 ---
 
-### 6. 貫通ってそんな簡単に誰でも作れるもんなん
-**Author:** ぷろいせん😼 (shindetamarukayokusogei)
+### 9. 貫通ってそんな簡単に誰でも作れるもんなん
+**Author:** ぷろいせん😏 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -1191,7 +1293,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 7. Post 7
+### 10. Post 10
 **Author:** たそ (kana57)
 
 貫通の仕組み簡単だよ❣
@@ -1200,7 +1302,7 @@ YouTubeの見方教えてください
 
 #### Comments (2)
 - **たそ** (Nov 13, 2026 02:10pm): 気づかないと一生ムリあれは
-- **ぷろいせん😼** (Nov 13, 2026 08:17pm): 😦
+- **ぷろいせん😏** (Nov 13, 2026 08:17pm): 😦
 
 #### Additional Information
 - **Post color:** White
@@ -1209,7 +1311,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 8. かそ
+### 11. かそ
 **Author:** しろちゃん (syunn925)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1226,62 +1328,62 @@ YouTubeの見方教えてください
 
 ---
 
-### 9. ぬほって確か引退したよね
-**Author:** ぷろいせん😼 (shindetamarukayokusogei)
+### 12. ぬほって確か引退したよね
+**Author:** ぷろいせん😏 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (76)
 - **ぷりん** (Nov 12, 2026 02:37pm): なりすましてきたけどな
-- **ぷろいせん😼** (Nov 12, 2026 02:37pm): そうなの
+- **ぷろいせん😏** (Nov 12, 2026 02:37pm): そうなの
 - **ぷりん** (Nov 12, 2026 02:38pm): 途中見てみいや
 - **ぷりん** (Nov 12, 2026 02:38pm): 俺二人いるから
 - **グミで生きてる生命体＃煮物の5番弟子＃７代目女真族** (Nov 12, 2026 02:38pm): ねっこだ
-- **ぷろいせん😼** (Nov 12, 2026 02:38pm): あーね
-- **ぷろいせん😼** (Nov 12, 2026 02:38pm): 2人いるわ
+- **ぷろいせん😏** (Nov 12, 2026 02:38pm): あーね
+- **ぷろいせん😏** (Nov 12, 2026 02:38pm): 2人いるわ
 - **グミで生きてる生命体＃煮物の5番弟子＃７代目女真族** (Nov 12, 2026 02:38pm): おひさ
-- **ぷろいせん😼** (Nov 12, 2026 02:38pm): おひさ
+- **ぷろいせん😏** (Nov 12, 2026 02:38pm): おひさ
 - **ぷりん** (Nov 12, 2026 02:38pm): 流石にあの人数は無理がある
-- **ぷろいせん😼** (Nov 12, 2026 02:39pm): 今度一対一でやってみたら
-- **ぷろいせん😼** (Nov 12, 2026 02:39pm): 多分いい勝負になるんじゃないかな
+- **ぷろいせん😏** (Nov 12, 2026 02:39pm): 今度一対一でやってみたら
+- **ぷろいせん😏** (Nov 12, 2026 02:39pm): 多分いい勝負になるんじゃないかな
 - **ぷりん** (Nov 12, 2026 02:39pm): やろうとしても取り巻き絶対来るから無理やと思うで
-- **ぷろいせん😼** (Nov 12, 2026 02:39pm): 個チャに呼べばいけるくね？
+- **ぷろいせん😏** (Nov 12, 2026 02:39pm): 個チャに呼べばいけるくね？
 - **ぷりん** (Nov 12, 2026 02:39pm): まああんま偉そうにしたら部屋荒らされるかもだし
-- **ぷろいせん😼** (Nov 12, 2026 02:40pm): いや
+- **ぷろいせん😏** (Nov 12, 2026 02:40pm): いや
 - **グミで生きてる生命体＃煮物の5番弟子＃７代目女真族** (Nov 12, 2026 02:40pm): くろつきは貫通使えないよ
 - **ぷりん** (Nov 12, 2026 02:40pm): そうなんや
 - **グミで生きてる生命体＃煮物の5番弟子＃７代目女真族** (Nov 12, 2026 02:40pm): たしか
-- **ぷろいせん😼** (Nov 12, 2026 02:40pm): 俺も騙してトークン抜き取る貫通しか持ってない
-- **ぷろいせん😼** (Nov 12, 2026 02:41pm): てか貫通持ってるのって隼人とか煮物とかドラグーンらへんだけ
+- **ぷろいせん😏** (Nov 12, 2026 02:40pm): 俺も騙してトークン抜き取る貫通しか持ってない
+- **ぷろいせん😏** (Nov 12, 2026 02:41pm): てか貫通持ってるのって隼人とか煮物とかドラグーンらへんだけ
 - **グミで生きてる生命体＃煮物の5番弟子＃７代目女真族** (Nov 12, 2026 02:41pm): よね
 - **ぷりん** (Nov 12, 2026 02:41pm): 貫通持ち少ないんか
-- **ぷろいせん😼** (Nov 12, 2026 02:41pm): うn
+- **ぷろいせん😏** (Nov 12, 2026 02:41pm): うn
 - **グミで生きてる生命体＃煮物の5番弟子＃７代目女真族** (Nov 12, 2026 02:42pm): そんないたらパド崩壊してる
 - **ぷりん** (Nov 12, 2026 02:42pm): まあ確かに
 - **ぷりん** (Nov 12, 2026 02:42pm): てか貫通作る技術がすごいわ
-- **ぷろいせん😼** (Nov 12, 2026 02:42pm): 相手のトークン騙し取って貫通するやつなら普及してる
+- **ぷろいせん😏** (Nov 12, 2026 02:42pm): 相手のトークン騙し取って貫通するやつなら普及してる
 - **グミで生きてる生命体＃煮物の5番弟子＃７代目女真族** (Nov 12, 2026 02:43pm): みぃレスバするんだ
 - **ぷりん** (Nov 12, 2026 02:43pm): 俺最近ブロック解除するプログラム作ったからいつでもゲームできる
-- **ぷろいせん😼** (Nov 12, 2026 02:43pm): 草
+- **ぷろいせん😏** (Nov 12, 2026 02:43pm): 草
 - **ぷりん** (Nov 12, 2026 02:44pm): でもスクリプトとか使えないから致命傷すぎる
-- **ぷろいせん😼** (Nov 12, 2026 02:44pm): AIに作らせればいけるよ
+- **ぷろいせん😏** (Nov 12, 2026 02:44pm): AIに作らせればいけるよ
 - **ぷりん** (Nov 12, 2026 02:45pm): [Attachment](https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q/wish/LNV1Q7KqDMJDQmq3) いや根本的に無理
 - **ぷりん** (Nov 12, 2026 02:45pm): こういうこと
-- **ぷろいせん😼** (Nov 12, 2026 02:45pm): あー
+- **ぷろいせん😏** (Nov 12, 2026 02:45pm): あー
 - **ぷりん** (Nov 12, 2026 02:45pm): まずこれ使えない時点で終わり
-- **ぷろいせん😼** (Nov 12, 2026 02:45pm): それはパソコン買えば解決
+- **ぷろいせん😏** (Nov 12, 2026 02:45pm): それはパソコン買えば解決
 - **グミで生きてる生命体＃煮物の5番弟子＃７代目女真族** (Nov 12, 2026 02:46pm): ｗ
 - **ぷりん** (Nov 12, 2026 02:46pm): 買えてたら今頃いろんな部屋荒らしてると思うよ笑
-- **ぷろいせん😼** (Nov 12, 2026 02:46pm): まぁ今荒らせないよ
+- **ぷろいせん😏** (Nov 12, 2026 02:46pm): まぁ今荒らせないよ
 - **ぷりん** (Nov 12, 2026 02:47pm): そうなん？
-- **ぷろいせん😼** (Nov 12, 2026 02:47pm): 文字数制限とツールにおけるレート制限が付いたからね
+- **ぷろいせん😏** (Nov 12, 2026 02:47pm): 文字数制限とツールにおけるレート制限が付いたからね
 - **グミで生きてる生命体＃煮物の5番弟子＃７代目女真族** (Nov 12, 2026 02:47pm): 俺さっきリア友の部屋荒らしたよ
-- **ぷろいせん😼** (Nov 12, 2026 02:47pm): なに使った？
+- **ぷろいせん😏** (Nov 12, 2026 02:47pm): なに使った？
 - **ぷりん** (Nov 12, 2026 02:47pm): あー荒らしてたな
 - **グミで生きてる生命体＃煮物の5番弟子＃７代目女真族** (Nov 12, 2026 02:47pm): セクション
 - **ぷりん** (Nov 12, 2026 02:47pm): セクション増えすぎて一瞬で落ちた
-- **ぷろいせん😼** (Nov 12, 2026 02:48pm): セクションは増やしても全消しツールとかで掃除される
-- **ぷろいせん😼** (Nov 12, 2026 02:49pm): ツールが普及してないところでは使えるけどね
+- **ぷろいせん😏** (Nov 12, 2026 02:48pm): セクションは増やしても全消しツールとかで掃除される
+- **ぷろいせん😏** (Nov 12, 2026 02:49pm): ツールが普及してないところでは使えるけどね
 - **ぷりん** (Nov 12, 2026 02:49pm): なんか技術が進化してるなー
 - **グミで生きてる生命体＃煮物の5番弟子＃７代目女真族** (Nov 12, 2026 02:49pm): そいつツール使えないから勝ち
 - **ぷりん** (Nov 12, 2026 02:50pm): スクリプト使えそうなサイト探してるけどない
@@ -1316,13 +1418,13 @@ YouTubeの見方教えてください
 
 ---
 
-### 10. ぷりんがリンチされてる光景がとてもおいしい🤤
-**Author:** ぷろいせん😼 (shindetamarukayokusogei)
+### 13. ぷりんがリンチされてる光景がとてもおいしい🤤
+**Author:** ぷろいせん😏 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (1)
-- **ぷろいせん😼** (Nov 12, 2026 02:36pm): こねうさのちんぽの方が確実に美味いけどね
+- **ぷろいせん😏** (Nov 12, 2026 02:36pm): こねうさのちんぽの方が確実に美味いけどね
 
 #### Additional Information
 - **Post color:** White
@@ -1331,13 +1433,13 @@ YouTubeの見方教えてください
 
 ---
 
-### 11. 泣いた
-**Author:** ぷろいせん😼 (shindetamarukayokusogei)
+### 14. 泣いた
+**Author:** ぷろいせん😏 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (1)
-- **ぷろいせん😼** (Nov 12, 2026 02:33pm): レスバできんかった😢
+- **ぷろいせん😏** (Nov 12, 2026 02:33pm): レスバできんかった😢
 
 #### Additional Information
 - **Post color:** White
@@ -1346,7 +1448,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 12. ぷりん負けを認めたか徐々にこっち側に来ようとしてて草
+### 15. ぷりん負けを認めたか徐々にこっち側に来ようとしてて草
 **Author:** しろちゃん (syunn925)
 
 あーレスバしたかったなー
@@ -1373,7 +1475,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 13. 塾だるいな
+### 16. 塾だるいな
 **Author:** きのこ　＃ヰさ共(最近低浮上 (s_12318084)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1390,7 +1492,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 14. やあ
+### 17. やあ
 **Author:** きのこ　＃ヰさ共(最近低浮上 (s_12318084)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1513,7 +1615,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1795333729&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=M%2FWbB4rsQkIrDDxmhjkHEd9HCpXBIjnMM0Dsd8eVcdDFjRqesdztdEgALngUXq%2BPYtQzk8iQhSFlVEnQAqGXjjlw6eI01W4HOAPiNbaVmzKZgM0esYo2qPJzJey%2FssXxN35g46eMHjlxML3%2BzlYNEMB%2BMoxlG9iXIERqjpJnBGexhs%2BTnSZAl2s0xRCd%2B0xlrP3gFyQRen%2FLmnga0PwDveiZv%2Be0MAItHx0aqKKNjlFhXdNhdR2PT7FKOjcvwoQpKtDnPB9LfUgFteW738fozi%2BVQrhvZZhnD5oFIW8DshAEMC4oFeRX6DIvg4FZKE2al8tBfgBm5y0ayvHsJCC6IA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1795344089&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1Q0bl818TEmxRqF%2Bv1aPdCrJQtiQQQ3xhxuK4DUNEb9ETX0TtMm4P7SvwAtcYhXazFa8KM0bk1Y50qfqdDlS9onsuZgRCNhJVgPFF436Ua3QC4yqCZs1vPqYq4gUSND7dSJNN0vJM5oNPB5jW4OTT%2Fp8bzqXzzbmVi%2FDqda1%2F27udH033lwSKgthtJUa9sRgwY0wdupbcC%2BNg%2FSC7Pms4UQdaAVLuDKtXA8w4wTqDJMlOC%2B1Qg9U0PVerOm1cQK4P8xwEE1Pk5D8M6wczdzB8PYgphj7K7oyMbeR0%2FTrCSt8h2R3d4MnZLZxwJjEVAOwO7NT8jtOTAEUMBmhlBZubA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (3)
 - **とりっぴぴ** (Oct 06, 2026 11:34am): ?
@@ -1894,14 +1996,14 @@ No post
 
 **どれ？:**
 - **学校のパソコン:** 213 votes
-- **自分のスマホ:** 6 votes
+- **自分のスマホ:** 7 votes
 - **自分のパソコン:** 11 votes
-- **その他:** 17 votes
+- **その他:** 18 votes
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (18)
-- **ぷろいせん😼** (Oct 05, 2026 10:34am): 学タブと自分のパソコンと携帯
+- **ぷろいせん😏** (Oct 05, 2026 10:34am): 学タブと自分のパソコンと携帯
 - **超低浮上** (Oct 05, 2026 01:00pm): 学タブブロックされてて使えない
 - **い** (Oct 06, 2026 08:20am): 学タブ
 - **むににと_ヒロアカ** (Oct 13, 2026 07:39am): 最近この神サイトを見つけたけどもうすぐ学タブだからブロックされちゃう。
@@ -1923,7 +2025,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Nov 15, 2026 04:10am
+- **Updated At:** Nov 15, 2026 09:47am
 
 ---
 
