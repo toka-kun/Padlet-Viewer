@@ -1,4 +1,4 @@
-最終取得: 2026/11/15 11:58:15
+最終取得: 2026/11/15 16:14:20
 
 # シーズン2ローマン部屋
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 106
+- **Posts:** 104
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Nov 15, 2026 01:52am
+- **Updated At:** Nov 15, 2026 06:53am
 
 ## ルール(守ってね)
 
@@ -26,7 +26,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5115963443/bbaa31411706b7b115b79c9af257d020/IMG_1995.jpeg?Expires=1795316354&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=J5IvnevL4nIXUVkCen3wYf1iwAsWlVJH8Hfwhm6OY59WDQH%2BpJdmLUHurABU77MhfBKgqeYqK%2BemitgSe0su6BAdT7Jvz96a9LwRo64HpS%2F0M13RCyY3%2BlY5LbAKC5oRR8JNiTs1uaFDPYTZO0jFth1Mev3tYKz1tq2gcIpM%2BuV9LZXtP0OscZBwRo8oZt8eo%2F%2FZjLmcxeu4wU%2F8PrCWKCUKonJXQjj7l8J7S5OJpiYu4TkbX6et8VgrU3IEJQjBvP3%2F2GYYX75WKdvFnez%2FCAZK%2F2oYMry5SItLGCUZ4yqT5VcZJg3NLBvQYdBKbfzd2nSwm54DGaAhAPGKR4C8Wg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5115963443%2Fbbaa31411706b7b115b79c9af257d020%2FIMG_1995.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5115963443/bbaa31411706b7b115b79c9af257d020/IMG_1995.jpeg?Expires=1795331728&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=y8nY7YP6GbaGx0azvoDwcJ6MnRyC642KzA%2FT7Ml0969HfmubBrf4Bq46iNxAAUjXTOcegCh7mLfIS2wR%2B%2FuEq7YUcDJ4Owr6AgdvjNg4j8QA4QJeOBCBrc4lfRq6OT8uK00ZfvMyc3qq%2FwgFJHMXwdzU1DcXElN7eIas665WXo2uzoWgqyQdd603KD2l0O%2BJZgxy%2BAc45TQ23Pg7bijIi75hy%2BohWOKyx7ZmWZOoZ4MvIf3dXU1gUEzclf6QElBNBNmnpLdkQRdP5HHr9q%2Fktu34kdgmNqy%2BKFYdIe3iSkoZAxg7%2BaviuHqlNsYDgS%2F8zgx5KXlEDDMterb2AXqXgg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5115963443%2Fbbaa31411706b7b115b79c9af257d020%2FIMG_1995.jpeg)
 
 #### Comments (4)
 - **味ぽん** (Nov 12, 2026 03:26am): ありがとう
@@ -157,7 +157,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6490383316/3e9e8cc7e3a2bad54d59e1a9f33e69f5/images__1_.jpeg?Expires=1795316354&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qLOIsETg2%2FBgYz%2FtAt4JhgIepsMhm5EoCtUc4eX%2Fql8G89qXQsNZcco%2By0BVTkZsFutcqggHvq8cuUNmL4xvLK1ZDj09bX%2FqYd%2FNFxYb5jvM6Amku0ActWad3X31F%2FAJwZK%2FmNF0XnaoZAbsqUByde1fSMt6e3Ij42VRTf5iCZHuPTo51EJmVuL0yZmTF94hqIsu4gbVl6dUHCpZ4W4thxT%2Fi1ACXcc6Y%2BRXwp9Q5QjAjgV5UztF8dG%2FCs5oR4puI3vZDVjmliX64ajed6D3nhzlwme%2FjYaiPmjSC8%2Bx23Nrf%2FAKEmVT2i%2BEfP3sRBrc%2BlCYnsGrie3CqO4ack1w7g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6490383316%2F3e9e8cc7e3a2bad54d59e1a9f33e69f5%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6490383316/3e9e8cc7e3a2bad54d59e1a9f33e69f5/images__1_.jpeg?Expires=1795331728&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1GMJVS31Zgfbh72tyXcxKmzdEVpCJaQLI%2FKvAQ5cWJEEXy3x%2BL48QTRW9UYuV6bx%2FM5QLmgBb1L5X7z5OaXUaqbUrdwCTH2CbWikuGIAzd8lTMOEs8gLsOxt2xSvsCC81eDmTXGiK1xoHJ%2FInGOOiWtYvSlFqMSUOAqEgKOKKBVA7sseMZylHx9F0xHjfPqEaOKzZnLgDGAwit10bVmnX%2FV9TzcnxImozr6bbu6Qsjs%2B8Q8OixJI%2Bg25z24nhhSQnmSQTmUZQS04be0qlgF05kCImMynj6nWEj6wBArCn6fk6EvLCEWnMNlgtd%2Fz%2Bmy95f3HRg4Mi4CGl1ORh6ugNw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6490383316%2F3e9e8cc7e3a2bad54d59e1a9f33e69f5%2Fimages__1_.jpeg)
 
 #### Comments (7)
 - **ソ連** (Oct 16, 2026 08:14am): https://script.google.com/macros/s/AKfycbx4So5Xfxht1530h7XmDn1lfYthjw4_P-qjayflh8j8046FtFZfG91r-ZPl00yOKg-z/exec?img=cat=rvkcob.png北海道行きたいならみてー
@@ -186,7 +186,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (18)
+#### Comments (19)
 - **馬と鹿ベリティは天才肌！** (Nov 12, 2026 11:21am): 　
 - **naganegi＿ねぎっち🧅🅢🅛🅘🅜🅔＿＃makunami族14代目　♯狂鳥族5代目** (Nov 12, 2026 11:22am): おね
 - **まふいん** (Nov 12, 2026 11:24am): くれ
@@ -205,6 +205,7 @@
 - **𝓜𝓫𝓪𝓹𝓹𝓮́ ♯₣ŘΔŇĆ€🇫🇷♯つつきの森1番弟子♯狂鳥族2代目♯初代つばさ教♯9代目女真族♯はーちーとペア画中♯だいまだの9番弟子♯ハムスターのおうち♯makunami族15代目♯だいまた店 副社長** (Nov 14, 2026 12:33pm): 　
 - **ぼんじゅーるだどーもです** (Nov 14, 2026 12:42pm):  
 - **ホロライブオタク＃初代つつきの森会員** (Nov 14, 2026 01:21pm): ライター欲しいです
+- **たむ。** (Nov 15, 2026 05:14am): こんにちは
 
 #### Additional Information
 - **Post color:** Red
@@ -272,10 +273,9 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (4)
+#### Comments (3)
 - **れい** (Nov 14, 2026 12:24pm): 同担許可❣
 - **Emilia._.Cl@lis** (Nov 14, 2026 12:26pm): 😘
-- **𝓜𝓫𝓪𝓹𝓹𝓮́ ♯₣ŘΔŇĆ€🇫🇷♯つつきの森1番弟子♯狂鳥族2代目♯初代つばさ教♯9代目女真族♯はーちーとペア画中♯だいまだの9番弟子♯ハムスターのおうち♯makunami族15代目♯だいまた店 副社長** (Nov 14, 2026 12:33pm): https://padlet.com/mythoughtsarespinning/3-s024wbai4sro4kxgn4c2
 - **𝓜𝓫𝓪𝓹𝓹𝓮́ ♯₣ŘΔŇĆ€🇫🇷♯つつきの森1番弟子♯狂鳥族2代目♯初代つばさ教♯9代目女真族♯はーちーとペア画中♯だいまだの9番弟子♯ハムスターのおうち♯makunami族15代目♯だいまた店 副社長** (Nov 14, 2026 12:33pm): おすすめ
 
 #### Additional Information
@@ -486,7 +486,7 @@ URL貼ってください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/4ba327df1ec231388e8b099ffbf6ffd4/photo.jpeg?Expires=1795316355&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=skdMZ%2Fe%2BKmxpIFhyl4XZETZSya6qixP02EJm0KKDige7GZq0xwewrNiH7X%2Fojtjpzrx3xQ7irg5ppgeDTFCs46oW%2BHWhXGNyeXXgEqVr1940WYMzC36KLODPk%2Bt4CdcjeaLXt0PNGjKJCOhb%2B88PN%2BmrzdR6NI9ijV%2BHSg7oLZY29s%2BeJEz5tn2vudzTZ%2F5088ZWLPOIDMIIM25iahlb%2FtyVnL8F7UddFRx03IPVRKQ8hNbU4EIdWReFfoE0E8yJiQBqPIXNoy1neK%2Bz1lCRi%2BfmB5x98HV6I2JJIrESSdS9EdaOGg%2B2NdcnAa8IIPE0sP9esUmgJo3LWALcQpNMQg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2F4ba327df1ec231388e8b099ffbf6ffd4%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/4ba327df1ec231388e8b099ffbf6ffd4/photo.jpeg?Expires=1795331728&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=teZJEdLIAVwwCiZZ673PoFVNtQ0W0wrZaC5IFPHKB3Dkw4KPOWsGTKrMifpTBpDTGrftekkeK%2BKxdqVSTNDPjHUzZkH4aqYehyiyJUeH3ALypR6B5qLttkHz4DPE%2BiJV%2F%2F7WEQiE2gtl3L9%2Bt14k14DdynRJcKezexrGehL3Zh3%2BPdsGah3L%2FjfcJmycjF2lZz3AVNEvH6810jxeTMmUX2a6knAuwVZFQGFgu21YcltH9Ti3csIxoaDXIf5dRTAEPoV5%2Fy0ee6gYa4DgnGPYzA%2BMJrIwdlGYoaQryfrGt1KJTrkVaw8bqarePSPLK1PzcaSwIPMW%2Bdx%2FSVGj%2FPq5qg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2F4ba327df1ec231388e8b099ffbf6ffd4%2Fphoto.jpeg)
 
 #### Comments (3)
 - **カオスケ** (Oct 28, 2026 01:51pm): ヤチヨ推しの人どこ行った
@@ -1099,12 +1099,54 @@ YouTubeの見方教えてください
 
 ## 雑談
 
-### 1. ガチで懐かしい
+### 1. Post 1
+**Author:** しろちゃん (syunn925)
+
+レスバおわった？
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 15, 2026 06:51am
+- **Updated At:** Nov 15, 2026 06:53am
+
+---
+
+### 2. Post 2
+**Author:** Emilia._.Cl@lis (0000000000000000000000000000000000000000)
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 15, 2026 04:11am
+- **Updated At:** Nov 15, 2026 04:11am
+
+---
+
+### 3. かきくけこにあいたい
 **Author:** ローマン・ピアース　 (oretensai)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2454764338/81bfab706eea5aad9f1625abcc937b49/Screenshot_2026_11_14_22_21_01.png?Expires=1795316355&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=HHXCZYdKcypPiX8oRIzaKWhaMSclBpptfYRSdPB53boKCgbItQnG%2BaLP%2BUDPWOhB4M9sKmSFsNiD6KNUG7Uqu2uqkOv9bs4teZhdXmrCd8ZHl0xto44a1NRP7t8CGmL1Q2U4OhYG38Cl9TUodcOZAXQTy6qw%2F9s%2F0rtBEJTLXTDxz08Wgc44v58Mx%2B2lEN0Td0bQFCopYFn3UT8ytKreUqiHTLkBsIMkS0u362B6A%2BJzqkmLvDxCbeHSUa7L59WRAWOzrvKdcms9%2FZd35FumdxYt%2FM24BEd4VIAwLxB8ro%2BsoAM3XwWbSe%2F04YrpDMKY1zlE6tGgCMuZw0Q2gdHm6A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2454764338%2F81bfab706eea5aad9f1625abcc937b49%2FScreenshot_2026_11_14_22_21_01.png)
+#### Comments (2)
+- **Suikacat10** (Nov 15, 2026 03:52am): リアルで？あれ、でも結構近くなかったっけ？
+- **Suikacat10** (Nov 15, 2026 03:53am): ローマン復活おめでとう
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 15, 2026 03:31am
+- **Updated At:** Nov 15, 2026 03:31am
+
+---
+
+### 4. ガチで懐かしい
+**Author:** ローマン・ピアース　 (oretensai)
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2454764338/81bfab706eea5aad9f1625abcc937b49/Screenshot_2026_11_14_22_21_01.png?Expires=1795331728&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RP9jP3q%2BzxACARWgA4iwyCRdbmktNdcUh9hbEEDv2v7EtYMrmSLUu%2BeyoQoGLjC9Vb%2FAHommo9xnXr2lrqrFiibOoOQ96qgS74wyWEyjj7GHODPciNb7kHDYqd5vxMCCGCqLR502N76xXCSKqQCWLMsAAlXfn8wvIo43MQPB58p6L9MwFAAfhvgR1HLpEjKU8HMsiOpsUW54VuyCh5LVb4el%2FfzbJimQibH0kGnguwzDPcda9D98BETgCWaoqwh2umxy5fiD59%2B0zHbQzuxFj45bI8NMxAaYJpu95y5mkjjszMga5ZYYkD6EaC9DmeMcJ94qbyh7rSJjWJ7ylUJobw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2454764338%2F81bfab706eea5aad9f1625abcc937b49%2FScreenshot_2026_11_14_22_21_01.png)
 
 #### Additional Information
 - **Post color:** White
@@ -1113,16 +1155,18 @@ YouTubeの見方教えてください
 
 ---
 
-### 2. ひさしぶりに学タブ開いたら意外とおもろい
+### 5. ひさしぶりに学タブ開いたら意外とおもろい
 **Author:** ローマン・ピアース　 (oretensai)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (4)
+#### Comments (6)
 - **こうき** (Nov 14, 2026 03:28am): わら
 - **𝓜𝓫𝓪𝓹𝓹𝓮́ ♯₣ŘΔŇĆ€🇫🇷♯つつきの森1番弟子♯狂鳥族2代目♯初代つばさ教♯9代目女真族♯はーちーとペア画中♯だいまだの9番弟子♯ハムスターのおうち♯makunami族15代目♯だいまた店 副社長** (Nov 14, 2026 12:33pm): https://padlet.com/mythoughtsarespinning/3-s024wbai4sro4kxgn4c2
 - **𝓜𝓫𝓪𝓹𝓹𝓮́ ♯₣ŘΔŇĆ€🇫🇷♯つつきの森1番弟子♯狂鳥族2代目♯初代つばさ教♯9代目女真族♯はーちーとペア画中♯だいまだの9番弟子♯ハムスターのおうち♯makunami族15代目♯だいまた店 副社長** (Nov 14, 2026 12:33pm): こい
 - **ぼんじゅーるだどーもです** (Nov 14, 2026 12:42pm): ⇑セクション守れ
+- **だいまた** (Nov 15, 2026 03:30am): はやくしね
+- **Samon** (Nov 15, 2026 03:55am): https://padlet.com/mythoughtsarespinning/3-s024wbai4sro4kxgn4c2 ここ荒らしていいんだよね？拡散してるし...
 
 #### Additional Information
 - **Post color:** White
@@ -1131,7 +1175,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 3. 貫通ってそんな簡単に誰でも作れるもんなん
+### 6. 貫通ってそんな簡単に誰でも作れるもんなん
 **Author:** ぷろいせん😼 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1147,7 +1191,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 4. Post 4
+### 7. Post 7
 **Author:** たそ (kana57)
 
 貫通の仕組み簡単だよ❣
@@ -1165,14 +1209,15 @@ YouTubeの見方教えてください
 
 ---
 
-### 5. かそ
+### 8. かそ
 **Author:** しろちゃん (syunn925)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (2)
+#### Comments (3)
 - **𝓜𝓫𝓪𝓹𝓹𝓮́ ♯₣ŘΔŇĆ€🇫🇷♯つつきの森1番弟子♯狂鳥族2代目♯初代つばさ教♯9代目女真族♯はーちーとペア画中♯だいまだの9番弟子♯ハムスターのおうち♯makunami族15代目♯だいまた店 副社長** (Nov 13, 2026 11:28am): おすすめ
 - **だいまた** (Nov 13, 2026 01:26pm): しね
+- **しろちゃん** (Nov 15, 2026 06:52am): むりです
 
 #### Additional Information
 - **Post color:** White
@@ -1181,7 +1226,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 6. ぬほって確か引退したよね
+### 9. ぬほって確か引退したよね
 **Author:** ぷろいせん😼 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1271,7 +1316,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 7. ぷりんがリンチされてる光景がとてもおいしい🤤
+### 10. ぷりんがリンチされてる光景がとてもおいしい🤤
 **Author:** ぷろいせん😼 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1286,7 +1331,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 8. 泣いた
+### 11. 泣いた
 **Author:** ぷろいせん😼 (shindetamarukayokusogei)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1301,7 +1346,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 9. ぷりん負けを認めたか徐々にこっち側に来ようとしてて草
+### 12. ぷりん負けを認めたか徐々にこっち側に来ようとしてて草
 **Author:** しろちゃん (syunn925)
 
 あーレスバしたかったなー
@@ -1328,7 +1373,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 10. 塾だるいな
+### 13. 塾だるいな
 **Author:** きのこ　＃ヰさ共(最近低浮上 (s_12318084)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1345,7 +1390,7 @@ YouTubeの見方教えてください
 
 ---
 
-### 11. やあ
+### 14. やあ
 **Author:** きのこ　＃ヰさ共(最近低浮上 (s_12318084)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1360,86 +1405,53 @@ YouTubeの見方教えてください
 
 ---
 
-## 雑談
+## ダウンローダー
 
-### 1. コメントの人ここで話していいよ
-**Author:** だいまた (daimatadao)
+### 1. Post 1
+**Author:** なななああああ
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (10)
-- **九条** (Oct 05, 2026 04:13am): あ
-- **九条** (Oct 05, 2026 04:13am): おおおああ  あああ  
-- **九条** (Oct 05, 2026 04:13am): やらゃ 
-- **だいまた** (Oct 05, 2026 11:16am): え、九条ってイケメン部屋の？
-- **おじゃる丸** (Oct 07, 2026 11:42am): おもた
-- **ホロライブオタク＃初代つつきの森会員** (Nov 10, 2026 01:37am): ライターが無いなってコメントしかできん
-- **削除済みユーザー** (Nov 11, 2026 09:55am): 誰かいる？
-- **かいと** (Nov 12, 2026 05:04am): 権限ください
-- **𝓜𝓫𝓪𝓹𝓹𝓮́ ♯₣ŘΔŇĆ€🇫🇷♯つつきの森1番弟子♯狂鳥族2代目♯初代つばさ教♯9代目女真族♯はーちーとペア画中♯だいまだの9番弟子♯ハムスターのおうち♯makunami族15代目♯だいまた店 副社長** (Nov 14, 2026 12:34pm): https://padlet.com/mythoughtsarespinning/3-s024wbai4sro4kxgn4c2
-- **𝓜𝓫𝓪𝓹𝓹𝓮́ ♯₣ŘΔŇĆ€🇫🇷♯つつきの森1番弟子♯狂鳥族2代目♯初代つばさ教♯9代目女真族♯はーちーとペア画中♯だいまだの9番弟子♯ハムスターのおうち♯makunami族15代目♯だいまた店 副社長** (Nov 14, 2026 12:34pm): きてね
+[Attachment 1](https://aiseo.ai/ja/tools/video-downloader?task_id=d98d95da-8575-4d18-bdb6-958280a035f2)
 
 #### Additional Information
 - **Post color:** White
-- **Created At:** Oct 04, 2026 03:24am
-- **Updated At:** Nov 09, 2026 03:37am
+- **Created At:** Nov 15, 2026 06:15am
+- **Updated At:** Nov 15, 2026 06:15am
 
 ---
 
-## 自由
+## ようつべ
 
 No post
 
-## 障害者
+## ゲーム
 
-### 1. PHのむちむちぱいぱんまんこせっくすエロ動画欲しい人いる？
-**Author:** 4545
+### 1. Post 1
+**Author:** なななああああ
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (22)
-- **きのこ　＃ヰさ共(最近低浮上** (Oct 26, 2026 12:18pm): はい！
-- **Clever Hedgehog** (Oct 27, 2026 10:34pm): 肺！
-- **あ** (Oct 27, 2026 10:34pm): ほしい！
-- **ｇｈｊｋｌ** (Oct 27, 2026 10:35pm): ちょうだい
-- **体育館に挟まったボール** (Oct 28, 2026 12:26pm): ほしいほしい！
-- **クモバシリ** (Oct 29, 2026 06:49am): ほしい
-- **ちんすこう** (Oct 29, 2026 10:45pm): きもしね
-- **ポタリック** (Oct 30, 2026 05:11am): 😰
-- **わらびもち** (Oct 30, 2026 01:27pm): す、すごいね😅
-- **カワトリ** (Nov 01, 2026 10:41pm): 👎
-- **うんこ** (Nov 01, 2026 10:42pm): ほしいな～
-- **˚꧁☯︎ 𝖅̵̳̳͈̟͔͉͊̄̚̕𝕰̷̶̴̴͉͉͓̟͒̃͐̌̚𝕽̵̵̵̵͎͉̪̟́́̂̃̈́𝕺̴̵̴̷͉̟͓̟̓̈́́̃̈́ ☯︎꧂˚** (Nov 02, 2026 06:48am): 😎
-- **˚꧁☯︎ 𝖅̵̳̳͈̟͔͉͊̄̚̕𝕰̷̶̴̴͉͉͓̟͒̃͐̌̚𝕽̵̵̵̵͎͉̪̟́́̂̃̈́𝕺̴̵̴̷͉̟͓̟̓̈́́̃̈́ ☯︎꧂˚** (Nov 02, 2026 06:48am): 👎👍
-- **お、おう** (Nov 02, 2026 10:13am): がちでください
-- **お、おう** (Nov 02, 2026 10:13am): マジで暑いぞ
-- **ポンパポ** (Nov 02, 2026 12:23pm): いらねー 
-- **味ぽん** (Nov 05, 2026 12:16pm): 気持ち悪いまあ仕方ないか障害者の部類だから
-- **Emilia._.Cl@lis** (Nov 05, 2026 12:17pm): わろた
-- **Bu23** (Nov 06, 2026 09:01am): 🤮
-- **ぷろいせん😼** (Nov 11, 2026 10:11am): うお
-- **ヤクルト好き　#アホ4人組の1人** (Nov 12, 2026 10:18pm): 匿名でしか言えないのダサいなぁ....まぁそもそも皆が使うサイトで言うのもどうかとは思うが....
-- **わらびもち** (Nov 13, 2026 04:45am): 正論すぎる
-
-#### Reactions
-- **Emojis:** 😰 (5) 🎉 (3) 🏳🌈 (1) 🪦 (1) 🤪 (1)
+[Attachment 1](https://ozh.github.io/cookieclicker/)
 
 #### Additional Information
 - **Post color:** White
-- **Created At:** Oct 26, 2026 04:29am
-- **Updated At:** Oct 26, 2026 04:29am
+- **Created At:** Nov 15, 2026 06:16am
+- **Updated At:** Nov 15, 2026 06:16am
 
 ---
 
 ### 2. Post 2
-**Author:** きのこ　＃ヰさ共(最近低浮上 (s_12318084)
+**Author:** なななああああ
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
+[Attachment 1](https://revolution641.github.io/GBA/)
+
 #### Additional Information
 - **Post color:** White
-- **Created At:** Oct 24, 2026 03:00am
-- **Updated At:** Oct 24, 2026 03:00am
+- **Created At:** Nov 15, 2026 06:15am
+- **Updated At:** Nov 15, 2026 06:15am
 
 ---
 
@@ -1501,7 +1513,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1795316355&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jHyESSy5Bge%2F1%2BCATN0bAdtcZc3htqw5OkLaZa3uuWgPPReqVKXUQBCMy6QyOfn6tJ490uWN0fe0CQ%2B5CQvB%2FYXgwbrEONR1uS1k85F5whRLDCUixihAaZB%2F%2FO80JiWlHzAVLAVIgvWq%2BeSUwDL%2B0A9rDCkIvr%2FArBbyIjvhdwnrQKiEs6d8CqrVIUM1N0HcTDw1sc6Kp6xHy8YG0WJqG3isO2rjN8WzPkTIaOqCLhhNq8KynnzSh%2F47BnK%2BjT7ZaCCgzj39BZXM7lWFj80zb%2FSjqAn4llaDx88aSuzKiTyelRaNB9DiO5KXTTjmjs9JSVGM3BMbA8UUt%2F9yqZtJGg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1795331728&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=OftfmICEZhHTAVEuhy7x9FOcLLtoAqWDff6mUqcluEKg8nz4m%2BfIPkyaJxKMiKOU1BRVLc832I%2BHvULhi8FYU1mCaT%2BKmRamX6GCbXL7lC8HnlzBVa6Ces%2BXoAbPmQ6Af8vNxARsNayvihdbAJjZ7eDo8Jn23mjKzbmNnPZLlMZses2N%2FyHJ3YJoMVn6PMHTEVzFExJc%2BSX0zQUnvHa5SPigV3dY%2Bl8nvJBj9U3p7%2BzBdSdBSrr6RFImLmecp%2F5QDPw4nxX9ZD8qgl2CCO7gr85cVh0dDkA5hEej8QdkBf%2FzhV4n2ll56DkKeEiP4gUE657U1kdSPmGa%2B8dnFEf9fQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (3)
 - **とりっぴぴ** (Oct 06, 2026 11:34am): ?
@@ -1514,6 +1526,10 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 - **Updated At:** Oct 05, 2026 09:45pm
 
 ---
+
+## ミート、チャット
+
+No post
 
 ## 宣伝
 
@@ -1879,7 +1895,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 **どれ？:**
 - **学校のパソコン:** 213 votes
 - **自分のスマホ:** 6 votes
-- **自分のパソコン:** 10 votes
+- **自分のパソコン:** 11 votes
 - **その他:** 17 votes
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1907,7 +1923,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Nov 15, 2026 02:14am
+- **Updated At:** Nov 15, 2026 04:10am
 
 ---
 
@@ -1928,103 +1944,6 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 - **Post color:** White
 - **Created At:** Oct 12, 2026 12:40pm
 - **Updated At:** Oct 12, 2026 12:40pm
-
----
-
-## プロキシとか要望
-
-### 1. ここにコメントしてね
-**Author:** だいまた (daimatadao)
-
-**͏‍⁠⁠:** ‌‌‌‪‫​
-
-#### Comments (19)
-- **ポタリック** (Oct 04, 2026 02:10pm): あ
-- **ハネノハ** (Oct 05, 2026 12:10pm): プロキシサイト教えてね
-- **だいまた** (Oct 06, 2026 11:29am): なにがいい？
-- **美獣後輩** (Oct 08, 2026 12:25am): アンブロックゲームやりたいけどどれかわからん 
-- **だいまた** (Oct 08, 2026 01:43pm): 例えばテトリスしたいとか言ってくれたらやるよ
-- **Anonymous** (Oct 10, 2026 08:22am): ちんこ
-- **そらね** (Oct 12, 2026 03:46am): テトリスできますか？
-- **さと** (Oct 12, 2026 10:56am): インスタかライン開きたいんですけどどうすれば貴女できますか？
-- **スイレン** (Oct 14, 2026 06:01am): Google scriptのカジノサイト煮物を探してます。持ってる方下さい。お願いします
-- **ヨシストロー** (Oct 20, 2026 05:04am): テトリスとかたくさんのゲームあるやつ欲しい
-- **そらね** (Oct 20, 2026 08:56am): 規制されてるのを突破してurl打てば開けるサイトとかあったら欲しいです
-- **猫** (Oct 22, 2026 05:51am): https://script.google.com/a/macros/inagi.ed.jp/s/AKfycbxC9ESmFcLQkCgRKHbIOYo9wbREToSXVnRxc9mDssDcPlYvIFslB2V_tU40hFUWTqdjSA/exec?ref=gakkounoeiyuu
-- **K-** (Oct 28, 2026 01:28am): どうやってやんの？
-- **体育館に挟まったボール** (Oct 28, 2026 12:27pm): YouTube欲しいです
-- **ネコヤナ** (Oct 29, 2026 12:51am): https://script.google.com/a/macros/arakawa-city.ed.jp/s/AKfycbxm0tNsWUp7nhFboWBgldo4diYLQIHKCB1YaCa2OI6gwe50HxuEbRb5wHh53rjaaWwArw/execこれを使いなさい
-- **ポタリック** (Oct 30, 2026 10:30am): クロームブックじゃないの？
-- **ポタリック** (Nov 08, 2026 10:56pm): えええええええええええええ
-- **ポタリック** (Nov 08, 2026 10:56pm): 何でも見れる!?
-- **ポタリック** (Nov 08, 2026 10:57pm): YOUTUBEは何でも見れないのに．．．
-
-#### Additional Information
-- **Post color:** Yellow
-- **Created At:** Oct 04, 2026 12:24pm
-- **Updated At:** Oct 04, 2026 12:25pm
-
----
-
-### 2. おもろいよ
-**Author:** 九条 (j1124010)
-
-[https://revolution641.github.io/GBA/](https://revolution641.github.io/GBA/)
-
-**͏‍⁠⁠:** ‌‌‌‪‫​
-
-[Attachment 1](https://revolution641.github.io/GBA/)
-
-#### Comments (1)
-- **T** (Nov 03, 2026 09:27am): お、おう　す、すーごいｗ
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Nov 02, 2026 03:08am
-- **Updated At:** Nov 02, 2026 03:08am
-
----
-
-### 3. Post 3
-**Author:** 九条 (j1124010)
-
-**͏‍⁠⁠:** ‌‌‌‪‫​
-
-[Attachment 1](https://revolution641.github.io/GBA/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Nov 02, 2026 03:07am
-- **Updated At:** Nov 02, 2026 03:07am
-
----
-
-### 4. Post 4
-**Author:** 九条 (j1124010)
-
-**͏‍⁠⁠:** ‌‌‌‪‫​
-
-[Attachment 1](https://revolution641.github.io/GBA/)
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Nov 02, 2026 03:07am
-- **Updated At:** Nov 02, 2026 03:07am
-
----
-
-### 5. プロキシサイト教えてください
-**Author:** ヨルカゼ
-
-**͏‍⁠⁠:** ‌‌‌‪‫​
-
-#### Comments (1)
-- **T** (Nov 03, 2026 09:29am): 自分はCroxyProxyじゃね？https://www.a707e8b6c1a3.site/
-
-#### Additional Information
-- **Post color:** White
-- **Created At:** Oct 30, 2026 12:59pm
-- **Updated At:** Oct 30, 2026 12:59pm
 
 ---
 
