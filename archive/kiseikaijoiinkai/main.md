@@ -1,4 +1,4 @@
-最終取得: 2026/11/13 10:29:29
+最終取得: 2026/11/16 08:58:51
 
 # 規制解除解除委員会
 
@@ -7,7 +7,7 @@
 - **Builder:** とるっぷい (TORI_TORI2)
 - **Posts:** 18
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Nov 13, 2026 01:00am
+- **Updated At:** Nov 15, 2026 11:44pm
 
 ## 受付
 
@@ -104,13 +104,14 @@
 ### 1. 現在しあtubeがサーバダウンしています。
 **Author:** とるっぷい (TORI_TORI2)
 
-#### Comments (6)
+#### Comments (7)
 - **さかな** (Apr 30, 2026 02:03am): 開けるようになったらゆってください
 - **マイスター** (May 05, 2026 10:41pm): いまつかえるとおもうよ
 - **タビネコ** (Nov 06, 2026 11:01am): まだ無理だ
 - **えびぃぃぃぃぃ** (Nov 10, 2026 12:20am): まじかよ
 - **ハネモリ** (Nov 11, 2026 01:01am): あああああああー
 - **ユラビ** (Nov 11, 2026 12:48pm): え、見れるけども、、、
+- **緒方森羅** (Nov 15, 2026 11:37pm): シアチューブプラスは
 
 #### Reactions
 - **Emojis:** 😆 (3)
@@ -463,6 +464,9 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 **Author:** とるっぷい (TORI_TORI2)
 
 [Attachment 1](https://mangakoma.com/home)
+
+#### Comments (1)
+- **緒方森羅** (Nov 15, 2026 11:44pm): なんか反社会行為って出たwww
 
 #### Additional Information
 - **Created At:** Apr 27, 2026 10:23am
