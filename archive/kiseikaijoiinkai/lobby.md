@@ -1,4 +1,4 @@
-最終取得: 2026/11/17 21:54:22
+最終取得: 2026/11/18 02:54:45
 
 # 規制解除委員会(ライター受付)
 
@@ -7,9 +7,9 @@
 ## Summary
 - **Link:** https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl
 - **Builder:** いときち (HONDA_Believer)
-- **Posts:** 28
+- **Posts:** 29
 - **Created At:** Jan 30, 2024 08:52am
-- **Updated At:** Nov 17, 2026 12:22pm
+- **Updated At:** Nov 17, 2026 01:25pm
 
 ## 規制解除委員会
 
@@ -154,7 +154,7 @@
 ### 1. Post 1
 **Author:** song MAD
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6594847222/0df574b14cf534d1d0636b4de24433e3/IOrbP1OqNsg.mp4?Expires=1795524930&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=12LANN63Iyb4G4VfyuFf%2BxHUMZjF1icDSj5nBG4EwLKw9HBSPSVXMnAWFD48FrPkNSg3IvJmSyZWlRwXnCDOI3iBUhDAGZAkd5B6tx8u7%2F9t%2BThsiMwCqpSijWlmnYyFu0oFf9K8VYLaOu4l15Dv6kP7X2WudWa7ccC5WaoNTu3rcVaRzyWw7Yqlph%2FT8BxGO1qxUmgsxGnhhshllbP9uMXLcYPTZDp6GthTCOHccXtf54XmDRAuM49c0yCAWjIO92f9MF6woCf%2Fcv8acMOjpe%2FTP1jhCJPqLTweu5ibunPICDJhRnbgr1sxvQqeSO2jdC2YZoLmNobl1yXLCWpZ6A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6594847222%2F0df574b14cf534d1d0636b4de24433e3%2FIOrbP1OqNsg.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6594847222/0df574b14cf534d1d0636b4de24433e3/IOrbP1OqNsg.mp4?Expires=1795542958&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=j50%2BCQPYFNNTTkTGPJ%2FueVSjK7kkhChrmfhxD%2Falua3fC918mAaLARujc09C9C8GqIiIxe9cmtcPtv0Cu9Yo3xUCv01nEPXXjKCTP1po6oZIqe0c7Bo%2FJAWmqFudgTXPfWwxSZB9wwLJo2E%2FnefdJ63Qm2CrA2j18r1UGKoQl4rTd6RKHzxBZ8Zj28pa6sJ42he7LckBLxO9l2%2FMvrvWnXpyPly7ovJ2T2skBiNKFH3u61bOepwbg8u54O9C7Ibu3WLyBGw0cjStcdFEVUNyDfvObpzY3JJdQYzVWrGLoc0WdiJMwDfS6kpxRlCe7vJdubHssMUscUzCPHyTpyonAw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6594847222%2F0df574b14cf534d1d0636b4de24433e3%2FIOrbP1OqNsg.mp4)
 
 #### Comments (12)
 - **song MAD** (Oct 31, 2026 10:58am): サビ 0:28 1:16
@@ -180,7 +180,7 @@
 ### 2. Post 2
 **Author:** song MAD
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6594847222/101bb0b57d61b05c416ddfdd202b3a58/7wtfhZwyrcc.mp4?Expires=1795524930&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=n5wXzbA0bTLB5MCilgef7kAgLlu4X5qtr7GnvflEYeFMF8yNInGYnrDskqE13zg4hkAU%2FW%2B1%2F9GwNLU3jYV%2BAEhpSHMSIMKC1L1nnMcnHhVIWVJpx2H9d6LTw%2Ff3feSPp2iutlFebbrIuvNB4O3F1vFp%2BL9b3ZeduLsr%2F0dDTXptlVl8U%2Bymj2MRY6UjHd%2FDAn7CHYScYzIyjFSQwqK79nMEq9y4Ki6ybLgO9WUY%2Fmfi9B7pAvUw6lVDPTqGaE42dXuDV41weLT4xAU0hqHYDpUkMjXXVm4Jbj34Mbmv%2BUGJgaKOj6VVz8OJpmgCgVv6cXqWAWx26uCNDYosuntHCA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6594847222%2F101bb0b57d61b05c416ddfdd202b3a58%2F7wtfhZwyrcc.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6594847222/101bb0b57d61b05c416ddfdd202b3a58/7wtfhZwyrcc.mp4?Expires=1795542958&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=We1tInrhARdkFUu%2Bh%2F3UUycakIqqQ%2Fi1awbXz8GiRQtOePfUbB7o8afVRk8udl0E7XwqLNIYvqwedFo9DsmqTtj5vNaz2RzGdu0%2B354P3ECfoeLgcnIKDBWwcuPRE78F2wg1Lw7THNejcVgV8mWxLIoGGyZ0OQYVrMSG%2BhX44xB5t97O%2FyZAjn8%2FoBchD2AspE5An1Z5MnE2ONvD5eeBCPbSIDFOS6yeR5JwWbdChLwKFjiy2Zih6iW1ecPk9OXFUAlNu%2BvVUpYWJjZnxV1CoNNGyFRLlX9h20piyajnfSkUG9UAtepXghjo7zjcSJZpAjs50lqP%2F29u3EGwp8TTHg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6594847222%2F101bb0b57d61b05c416ddfdd202b3a58%2F7wtfhZwyrcc.mp4)
 
 #### Comments (1)
 - **らいき** (Nov 10, 2026 04:52am): https://jp.piliapp.com/game/reversi/online/
@@ -195,7 +195,7 @@
 ### 3. Post 3
 **Author:** ミチシオ
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6582365695/6f002c2767e53cbc347ef45176bbb5d8/___________________OFFICIAL_MUSIC_VIDEO_.mp3?Expires=1795524930&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=HvxI0Kq8MgsUXCnMpzBrLJKhAYJi2NPKtpdopGDrv74Oq3E9dZTS6J3eXMrmu77A%2BXSHf8QgWPOUFsHyJcfonMQQWNgbK8H1JXmuFYt364pyJiu%2FPJJVZHeegOdh0gZqEMrWWeG9wZGBuBdLMnSzdwt7Jja2LCAmX7Uh7Zn16OLXEZ4JQ1zSn01amOEbCFCc9AS6Zz42AmxwCDAy6PEtmEIqrlRkt4sEl8JyUX1EHMt5p6EupdxYG483%2F2nMVATUrZK3ifSVx4u2bTJn21sysbRRmkX2O37pnb%2F06LYf3wuY2mUFRNvSa6sozb5yxkGyS%2Fzc2xUPgQS%2F6P6NSUHugA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6582365695%2F6f002c2767e53cbc347ef45176bbb5d8%2F___________________OFFICIAL_MUSIC_VIDEO_.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6582365695/6f002c2767e53cbc347ef45176bbb5d8/___________________OFFICIAL_MUSIC_VIDEO_.mp3?Expires=1795542958&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LaHiplc426fbFL4TFFrRJXOSzGYXHRKj%2FcZz%2BoziqsjAD2PIw1qptO1iglVmAEJy3%2BVOilYZtPVbgriH1L2p%2BpdLt756LkWRPBiucFzwgiDoBv5BXwlt2HzKmrP7I%2BdLY4aA0HaTp7QcGYfgFEt3eRQKTZy1yD6gqt9Vy%2FJ%2B1k4JypsDVx%2BpqU7lc54sik9BXUnj2oIrsUvW%2B1y9619g4X5nWSftA4IPZArTg38Au9YJNf4nuQBqwcohWRSVim7XkxwFEGc6bqgpzOZq5aNmaRnZ7E9zdIuNIfP3NLv0V9NcB3q6gfvCJQFCrHl6sw%2FwyC1CEHuj2vHYETRakW%2BYUg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6582365695%2F6f002c2767e53cbc347ef45176bbb5d8%2F___________________OFFICIAL_MUSIC_VIDEO_.mp3)
 
 #### Additional Information
 - **Post color:** Black
@@ -207,7 +207,7 @@
 ### 4. Post 4
 **Author:** ミチシオ
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6582365695/c7eac410006cfbc65ad151c8f41cfbb1/______.mp3?Expires=1795524930&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lXcMOMXB3XqPR2qQ%2BQF0YWoAKTNoUCKd9HetyT5J%2FTfyUN0AEYvzHpIIfLgtMVCdwE%2F%2BUbww5nrfbkxOoXhsASdwwuv%2FNwQRJ03ICrcxqLc1xWYMYkAN61kzy9ugm%2B6%2B8PeWQYNSBtbp27YWZUrYc12E0U1KzOrfCfXHeFd%2FVPr4Ps8y3UGhDmtz3g1CdcQaJO9pnyJy%2BgI3XxT%2FHKkueHOpnXip3PdSaVyWNip4QcpdIgjNEmQJYan7n3lhuZa5nQyJB5ooKHcpjVIRMdH6gNMDSl59VJ%2BDPo4JGVnJMu%2FtKQl9JuRRWOlPjfsOzPZP5lONa2YvvaIaNYQaZ0YrpQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6582365695%2Fc7eac410006cfbc65ad151c8f41cfbb1%2F______.mp3)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6582365695/c7eac410006cfbc65ad151c8f41cfbb1/______.mp3?Expires=1795542958&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EAtDfNX6y4R2C0akUyIMGLBcg1S0ImgeGZSza1kl7NWzrxMNNe%2B2sFGvDaglr%2Bb14J2x95yM0CDTiNhoIGnhv%2FHH7kYxxfEgX%2FOdLDTxATr81Be4iuEHZlczQavIskKiy%2FjQakqOCxDJEPN55PhGcMfoHapIcwY%2FdRGWVOGNaHu51LZH6gc144SRY0zsc9AXE9UCOAalVq0lxPTpO17lnYshx%2F2aWoP%2FfPi0gSh6dPYBx%2FsA%2BSLN5qjSu%2B1Zujx7q2WFvGo2lwOawLYl37z4Qw7r9hIjNc1zwLPlT2rDRo3uurIXwX%2FoOTm6rqCJsSueMUgKJpET7maLhmBu7ZGLEQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6582365695%2Fc7eac410006cfbc65ad151c8f41cfbb1%2F______.mp3)
 
 #### Additional Information
 - **Post color:** Black
@@ -237,7 +237,7 @@
 ### 6. Post 6
 **Author:** ツユハレ
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6549034888/0a454fef9ef94e3aa1024b2d2526fb78/Ayumu_Imazu_______Lyric_Video_.mp4?Expires=1795524930&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=epRZsamPm0lwjnx3VlUJHN%2BGzHnAVs93EA9DSe67ivsS75XYUbJBHo1MnCfHqekKnolc67HxHNs1iNC1MQzLJfjRKzpKVPv8zZ5tXQ7WNZuYmMdJy2NxBScCi2315FZHhIW4gH47rIGqycTjZ4fqCgmT5lWISqEsZ6tug%2BlF12DSJ0K9zmjqE%2Bw44onDwRsTA4tIw0soygA%2BUUv40VB2hf54STIo7qR%2B9XlP2FmjE5yq45TRVYMieVg6uq652UtnJcPFkP8zYZcozBsl5GpYHRE1u0gGwoMJZYolCP9lK8tp%2BHFw8U6K5OljpLBOeExmEua9UEWXjb4f6NAGi%2F2t4Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6549034888%2F0a454fef9ef94e3aa1024b2d2526fb78%2FAyumu_Imazu_______Lyric_Video_.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6549034888/0a454fef9ef94e3aa1024b2d2526fb78/Ayumu_Imazu_______Lyric_Video_.mp4?Expires=1795542958&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Yq6SN1W8jzUHsmENG5ctbHbdZL%2FGE26ktS1MWy9SdK0yMFJPy3sJsHtT7Ux5Zzp%2BPJovYVILJ68f%2BXIp0l1VbuDOyR1HvDsnDJtHuRhZQvTS5wlk4pRkMH3iO1BbokmJ9yNktjI%2BLKvf7dZLT44cFwWpZZE320xNnb32w%2B53j0Qaxgl6UYUTurXc93hEgri6u61oB8r4VichqxGOi4xRPhX7tdz4IQlK%2Bku%2BkhzZ7QpHM0LVC1nmPYyafcD%2FPGiFKUigzdL3gJZ1SbHpXtet7Jg5uguIB1RLD%2BboA7Ioahf1i4f6vHoOf0G7f3Kan5vHHuMgHxn%2BQ3PZEsQ72DlRVw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6549034888%2F0a454fef9ef94e3aa1024b2d2526fb78%2FAyumu_Imazu_______Lyric_Video_.mp4)
 
 #### Comments (2)
 - **ミナトノ** (Nov 07, 2026 02:15pm): 最高
@@ -253,7 +253,7 @@
 ### 7. GON
 **Author:** ツユハレ
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6549034888/7dbaf31c82f22870d15011617acf8629/Trust_Me.mp4?Expires=1795524930&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=TOi3HmuMg9Rg0GfTsD6jv%2F9FLHdHOZJ1HVprLBi7%2FROl8%2BbRrERRXSUR%2BWne9PD%2FAt4RRI7VgOfbsJ0n2d9puGhFyaZCtNx%2FufYGb%2FQfsc4RwER9UvzGi7zNrcq5FKUT0EVuPqn5nec9raZAZS%2FLKImINHjeKDaoEvCqO51uaS7Qf%2B5PB9zBgACeHkGHdzbs%2Fah8ebA5j%2FGG4cNyZLp9EQu%2BdYtbwjVrlfAFuiCZSjGWxfIftP3s9TZsnbuhN8GuVkSaBzk5lRPbnj2%2BLGG04dJVFJnczG9bSKT1aJpH4KFuuxUvs6bvLkl65eB4H6zcned4CM3iP1BBKK3vysuWHQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6549034888%2F7dbaf31c82f22870d15011617acf8629%2FTrust_Me.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6549034888/7dbaf31c82f22870d15011617acf8629/Trust_Me.mp4?Expires=1795542958&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=q%2FTKJIOE1%2B7lVB9w5bWPrepOy5Mx%2FsyoSLmfY1O%2FMfueFW2%2FZ6a8Vgx3FI5FGI39Mv1l6w%2BIi3VxvC3GeXdvL1LLyXq0pZT6UVd%2BqWGOGI6ZLZM5FJlSSlO0bpSVlsMziUwdYuLzf21YIq5xpfoGj77CVyGd%2F1XqVWIG26kHOOVIcxKY1paFV59fXT9eNhR1V1Gpg4OOr52GY1Gp3rJ%2BCPtXzW9Utww4pvbZRj1j%2FM63FWnfg%2B2Jqbbelcq3TElFR0zTDMvUclwr%2FQyrkW%2BwZee6HfmOzA8PLSgovgzGAFUPuHNatQr4n6tC%2Fmwt6x%2BWmiX4ueRyn8foKwFBgECl2g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6549034888%2F7dbaf31c82f22870d15011617acf8629%2FTrust_Me.mp4)
 
 #### Additional Information
 - **Post color:** Black
@@ -352,7 +352,7 @@
 ### 12. Post 12
 **Author:** コケノイシ
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6475927658/babd869015db2f69c23ef3f10b81758d/MONTAGEM_INMU_KING.mp4?Expires=1795524930&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7VT9AGa%2FyeQY5zSV8sc5unnOJodo0XP7kCIzHoZsl8uy7QcFduQpUtuFscpqoGGkhxjYWX8RHp0kQDi58I5bmNt%2BiIPMazOpZDNxBLPHpO3ip72AHCOnl7Kd1e%2BFRg7qTQSqifX816WhJGq9ExmB0cuU6dK5L%2BiwGUsXiUOuQ5lbTCxvGCTkcse%2FVxkOQ1wmZz0LEvrbwfoQVxmLaquzTifHwMR9Ai%2FwD29CZNIvDb%2BUnvkhl%2FVXAxUaQJjBIOG80ZonfP4QDC0FyS1BatzIgG6mDUbJj8MnqDmAJp7e5gaLZIA2icBC9ngJ7xSzdD8L%2BkY64ICFgf4U34nkTeN1Hw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6475927658%2Fbabd869015db2f69c23ef3f10b81758d%2FMONTAGEM_INMU_KING.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6475927658/babd869015db2f69c23ef3f10b81758d/MONTAGEM_INMU_KING.mp4?Expires=1795542958&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uFUDrBGVKKPflbRpHLS7A5BPxf3o1TY0TRwFDOcu2yWF%2BMdDprqyw6nqSArqdpAKFf3ffX7xnMRQ6CfDtpOqydIpEm%2Bub9F%2FnHRy43F5Kxzm9Ksc5prj%2FDzXR5%2FO65jkzVJflJnlnCrgTHM5vr5M1oRNuVslhxDXv9mVq03m%2FeYoc29NLQUiqSmM3SbkMcnqr%2FrTYecNT9N4jhJ8yRY0Iu97U1uS7nkl9R5ZfuO45NrtlZg%2FPui65lB7S%2FngdUKnEA05MaIF4%2BDR6oCSLPvkyRP00nvhCOBOZvn8VeEJAyLJR6S6bGPdxO%2Fzh9ATa7dJsbZaodtDdqQq5EX4ZXPEQA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6475927658%2Fbabd869015db2f69c23ef3f10b81758d%2FMONTAGEM_INMU_KING.mp4)
 
 #### Comments (7)
 - **陽** (Oct 17, 2026 05:07am): あざます
@@ -579,4 +579,12 @@ ChromeBookユーザーへ。
 
 ## 雑談2
 
-No post
+### 1. 話してどうぞ
+**Author:** 中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい人😭#勉強してください (INMUKING1DAIME)
+
+#### Additional Information
+- **Post color:** Black
+- **Created At:** Nov 17, 2026 01:25pm
+- **Updated At:** Nov 17, 2026 01:25pm
+
+---
