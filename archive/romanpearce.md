@@ -1,4 +1,4 @@
-最終取得: 2026/11/17 10:03:10
+最終取得: 2026/11/17 12:31:19
 
 # シーズン2ローマン部屋
 
@@ -7,14 +7,14 @@
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/2-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 131
+- **Posts:** 133
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Nov 17, 2026 01:02am
+- **Updated At:** Nov 17, 2026 03:31am
 
 ## ルール(守ってね)
 
 ### 1. ルール
-**Author:** 에밀리아 #진과_커플_프사 (454545454545454545454545454545454545454545)
+**Author:** 彡 (454545454545454545454545454545454545454545)
 
 公序良俗に反する行為❌
 
@@ -26,13 +26,13 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5115963443/bbaa31411706b7b115b79c9af257d020/IMG_1995.jpeg?Expires=1795482281&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qH9NR962a%2B3Zc%2FMm8cuvrHYdgEOIWf8hKIvTt%2BeAi9lu%2BmgMRRKxzbLKEntIOCMR8yRB6TvnlpygtAcQAQzeudtxnxmyxI%2FmWVu933j%2FSesSq0zasqWGPrhQlj753NhEMYKaDlezzLOE90hsCcQ%2BBCMCY%2F1Dkm%2FVKhQH8rHwZdz6rHBKdue5ZqR3%2FDFzdWTUAPnVkgHYuIX4Fd8m4BZNPpi%2FnqJk6erlZ%2BkCsDBF0ngYrvJXo7jpl%2FFXY6ltElfVdDXfVLHKb5PHgA1t0%2FBhUS9e4WK9zzJ671HNA%2FPfGG6PGWDAcRAMDCBVykT%2F472h3x8WHrqF0DyNopskaz8eRg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5115963443%2Fbbaa31411706b7b115b79c9af257d020%2FIMG_1995.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5115963443/bbaa31411706b7b115b79c9af257d020/IMG_1995.jpeg?Expires=1795491169&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=vxpkbKuORdM3DOy1d4NnkwUr%2FOLkqzkCghapsFOKJqMMsAGh3i0DL1kkMBMi%2Fnh9inmmHIHbE0QriVmD5PydMswpUbuW7riIcUMGeE3eepFwXkzJqJrhVkGbU%2BmOHny5OIQdwLycOZ01BxYJdoMJpktQnYIqPVDFo%2Bm4Rv8xtZVtQX1b9N2xwWCHR%2FDLU0YOFWQOfuLEQJnaLUoL48GB0B7WV1pbjRhHrsLChLv7IOrdXHpLU0vQdXKxyvgKzdz5KXhTTFFaCBTERve%2FHLhKOcor2VJ4oZPCjKZC%2BkRoD%2FyFD5%2F6V7tBIk4YiYvqxqYVdl%2FY%2F8pPKvx%2FCjmubOe7Tg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5115963443%2Fbbaa31411706b7b115b79c9af257d020%2FIMG_1995.jpeg)
 
 #### Comments (4)
 - **味ぽん** (Nov 12, 2026 03:26am): ありがとう
-- **에밀리아 #진과_커플_프사** (Nov 12, 2026 03:26am): ？
+- **彡** (Nov 12, 2026 03:26am): ？
 - **味ぽん** (Nov 12, 2026 03:27am): わかりやすいルールw
-- **에밀리아 #진과_커플_프사** (Nov 12, 2026 03:43am): あーね
+- **彡** (Nov 12, 2026 03:43am): あーね
 
 #### Additional Information
 - **Post color:** Purple
@@ -175,7 +175,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6490383316/3e9e8cc7e3a2bad54d59e1a9f33e69f5/images__1_.jpeg?Expires=1795482281&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kuOh7CscTdzxUzm0dwOCJz4BKhJEAYUaMYMhn%2F4s3AoIVLQIDO9ePRXbQPyZM3k5VoHyH3qInl%2FftoScjdvhc%2BURIOAh6ZYH%2BhqZpZbcGpdiTA1CXz4s60QivvkWbDKnJhc9xojkTZ1xlsVVI9EiwxVeEY2xuSVxZkHWrt0H%2BUsG64tRM9lbQ8jgTlgcF3JNZCQsqhL6fTydX2bI3zRwJfpqzcR0t%2BAQLAnXeOp6iM57S6P%2FfqejjFQbuLHmBTe86Yxpwx8HM%2FSEdiZGYh9tXb1jiC0IJRkKEgSeBEPb%2BvYc2vK1jQeL4FAxdFmR%2BlrLYRvs7GRUeQbTS3i7eyGrPg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6490383316%2F3e9e8cc7e3a2bad54d59e1a9f33e69f5%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6490383316/3e9e8cc7e3a2bad54d59e1a9f33e69f5/images__1_.jpeg?Expires=1795491169&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6lKigqdToSlaDF2MCep7XXjlDrlyCiPs3iQUuYy9aMr76H0doowQo2G87guQud%2FSrdJT8e1fwV3agz%2B3SpjCrnwY0JJgsMd9lXosUeZlWUrZNB1QZ4h2usXnQWoux4T2JN5ArPx7%2FyvMGiNTvP13OZzJdTuQp728bn1HB%2BfGrwecaw055iRD3QV3%2B0Q2jOegLevuramH19OuLYVyxIndvHqme9gcmTYXWR1S6v4zArphphCdiGJP8jldgBdRNb3xcC55ir8%2F8U1n0nIJRrVqhQrpYd3BK6UdNZOJnSdyoLVx%2Bmkcl8atITnxZxLBwaQsdipz%2F3dY1gag5w%2BUMDGlAQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6490383316%2F3e9e8cc7e3a2bad54d59e1a9f33e69f5%2Fimages__1_.jpeg)
 
 #### Comments (7)
 - **ソ連** (Oct 16, 2026 08:14am): https://script.google.com/macros/s/AKfycbx4So5Xfxht1530h7XmDn1lfYthjw4_P-qjayflh8j8046FtFZfG91r-ZPl00yOKg-z/exec?img=cat=rvkcob.png北海道行きたいならみてー
@@ -196,7 +196,7 @@
 ## ライター受付
 
 ### 1. ライター欲しい人はコメント
-**Author:** 에밀리아 #진과_커플_프사 (454545454545454545454545454545454545454545)
+**Author:** 彡 (454545454545454545454545454545454545454545)
 
 メアドいらんよ
 
@@ -302,7 +302,10 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6695908806/64b74d77fea0b9c2b23799943fbf257d/IMG_20261116_131047.jpg?Expires=1795482281&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KSYbL6MrTyT6ubEoe29zCvG01X%2FDYbX0W3hrFncVGhrhMrwqyxUuQUqeaXd1x2z272SWtLTqKClaLjRqmVpvLnHxFpdbUir0RjFxKDrin0OqLJ53bw6F0mMtsFBr0s%2BEUjMv5nmskGIp7747DgH3G5s9u6pOUcdrXx7Rhd2%2Fhbb%2Fv%2Frh8WB490Vman7Sn94ZXLtImZEoI1a1f7njIbVnpZnf5SfvM7DwXILZt6Yh%2BnOVH6ikxTxKTW3OANTTqlD%2F30JmEUQKIhNBgw0t0DNY5fnfAPx1A6tIQAIh%2BpDb4tRNXYhyHLAKTfWeO5VbjDTMAizNFTR8ibWaMVz1ugu2Bw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6695908806%2F64b74d77fea0b9c2b23799943fbf257d%2FIMG_20261116_131047.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6695908806/64b74d77fea0b9c2b23799943fbf257d/IMG_20261116_131047.jpg?Expires=1795491170&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GWxZ82AW3JhtsdsYqPXSflRXgnsfxsGd6XOLCgH12qYPOZgy%2Btz2PQgRFMAoRdG1MQI0jVUxZO8rccbPIdQHzyELiRxkIUnmBZ5onuP%2F5qrjLoyfAlHqtEIDd8tXzYILee%2FwnGMsOjDZRm27DcTsexMUX0FACp1LVCYnxBNI%2FymYK%2F7eL%2FN7i7bMKfQ%2B27Eilb82U1PQQy6mBd3R2rqXvKibxoiI7bFnufWPoFXLILgCmL85ni9WshX2UtMyMzSBhBUsj7lH%2FEnvUm7U3h7EIUJU4aUniPOaOrd1jf20PoXtZi7SjSYzYNZP%2FsMkbIjc93G57EBu5Fr1zA6fKE6wJQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6695908806%2F64b74d77fea0b9c2b23799943fbf257d%2FIMG_20261116_131047.jpg)
+
+#### Comments (1)
+- **Manjiruブシャー** (Nov 17, 2026 03:28am): 自分で探せや普通にプロキシ貼ってるやついるだろ
 
 #### Additional Information
 - **Post color:** White
@@ -381,7 +384,7 @@
 ---
 
 ### 7. くろつきだにょ
-**Author:** 에밀리아 #진과_커플_프사 (454545454545454545454545454545454545454545)
+**Author:** 彡 (454545454545454545454545454545454545454545)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -400,7 +403,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5812279039/b1b55ed01413ded92931e0dc73f416bb/IMG_2723.jpeg?Expires=1795482281&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uq3MiI5vjG5NKEiGSxllK%2BKtd6ih38G2hnvSc630%2FORbJf32oCs%2FKefZsQX93zq%2Fc0C6czAL09CgpPDlwMJJbI49GOqILxDc%2FzWGwOusyIDxt%2B8CpNpmgeqdjhwnKJqmROaWs%2BkpVFXUVjtQHXWqofPp0076srnum70NIVxakvlvR0i9FA%2FewC7UedKmwfPzbW32L9MpnYrtZU%2FgkQ%2F1kuiuCJ5Tl4%2BB3Uan8Md2%2BbBlfzJDvFl8P%2BkaXO3L6d5wpDWLeEyxpZyliOs3%2FRYzXhzbssxvSiN7FLOWGAXjV7xGdp8ELjQ4rNqQUIr3zVu%2FB5%2FaG9qid29BlJNyjt%2Bf6Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5812279039%2Fb1b55ed01413ded92931e0dc73f416bb%2FIMG_2723.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5812279039/b1b55ed01413ded92931e0dc73f416bb/IMG_2723.jpeg?Expires=1795491170&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=8A8vJCfu0c93i5O4hojV4UrHQocCOmTaf2PN2ynpwrzKw3hw7u6n6hWmxj8t7xm9b28QVSt2HBRt5CqVRR6YPolhVBHh0l9tR9dfussz4CK0llJBt0AEhywabFuT3G6ALhhiJddy7E8t4Ix1NTTM7o74U2x2aD%2BxZSUbEkO%2BsKYMx8UPDgK8smbF%2B6603Z%2BKReYVh7ShN66XJWYDOm6eX9tWdYR2cnvg2hbUkfwW6sFp6d58Cy%2Fjtkb7fU2s2GQfzz0xkt%2FRQT%2Bo7eg47Mc6el6ZONX0xH8mmZOHn1yGq1nxeOOqicWZpY5I3P5xkj%2FbgY5YX7cM2XUO0cfM8SdY%2Bg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5812279039%2Fb1b55ed01413ded92931e0dc73f416bb%2FIMG_2723.jpeg)
 
 #### Comments (3)
 - **福島県** (Nov 15, 2026 09:40am): こんにちは
@@ -440,7 +443,7 @@
 
 #### Comments (3)
 - **れい** (Nov 14, 2026 12:24pm): 同担許可❣
-- **에밀리아 #진과_커플_프사** (Nov 14, 2026 12:26pm): 😘
+- **彡** (Nov 14, 2026 12:26pm): 😘
 - **𝓜𝓫𝓪𝓹𝓹𝓮́ ♯₣ŘΔŇĆ€🇫🇷♯つつきの森1番弟子♯狂鳥族2代目♯初代つばさ教♯9代目女真族♯はーちーとペア画中♯だいまだの9番弟子♯ハムスターのおうち♯makunami族15代目♯だいまた店 副社長** (Nov 14, 2026 12:33pm): おすすめ
 
 #### Additional Information
@@ -457,10 +460,10 @@
 
 #### Comments (6)
 - **わらびもち** (Nov 14, 2026 11:31am): こういう危険因子はコメンターにしたほうがいいんじゃない？
-- **에밀리아 #진과_커플_프사** (Nov 14, 2026 11:31am): れいちゃん有能だよ
+- **彡** (Nov 14, 2026 11:31am): れいちゃん有能だよ
 - **わらびもち** (Nov 14, 2026 11:55am): そうなんだ
 - **わらびもち** (Nov 14, 2026 11:56am): ぼくの部屋荒らして台無しにしたけど
-- **에밀리아 #진과_커플_프사** (Nov 14, 2026 12:03pm): 草
+- **彡** (Nov 14, 2026 12:03pm): 草
 - **ヤチヨ　推し** (Nov 15, 2026 12:25pm): それはそれは
 
 #### Additional Information
@@ -501,7 +504,7 @@
 - **わらびもち** (Nov 04, 2026 02:17am): こんちは
 - **T** (Nov 04, 2026 07:22am): こんにちわああああ
 - **ポンパポ** (Nov 05, 2026 12:24pm): こんにちは😃 
-- **에밀리아 #진과_커플_프사** (Nov 05, 2026 12:25pm): やあ
+- **彡** (Nov 05, 2026 12:25pm): やあ
 - **そらね** (Nov 05, 2026 12:46pm): こんにちは
 - **ねこかみ** (Nov 12, 2026 03:05am): こん
 - **ねこかみ** (Nov 12, 2026 03:05am): ローマンの
@@ -652,7 +655,7 @@ URL貼ってください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/4ba327df1ec231388e8b099ffbf6ffd4/photo.jpeg?Expires=1795482282&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=AbE%2FR4yk5lIKNVPYN%2FZpFXE7nMDkKBdgei8SckQkMbyWhD96q6Ki2ArZZgP%2BIVPiqrFifgL4rQZouu7xc1tj5X1I3HmaVVYWEQcMCxrxduJnyU3IZcgEsB%2FQmApBmS2NGI9QgfD2rFbFbyKa3t%2BiNOJ%2FsnZqM8LBhN%2BG63WLRXrdlXH6yHM2z4d6uicpxWKPnQPU7ZCaqWP4lG2VDApZmn8tJl0%2FNVoH%2FOIRsu0j%2FmgVAPykIguWhyD2wc5TzFrawz3S95aUd4mmWUjjkZFuk93aUHHi%2FQYkk2InczguqA7wTQH44MMhEn3HPzdpPbt7aOJZT8w5rTN4T5SwJIN05Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2F4ba327df1ec231388e8b099ffbf6ffd4%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/4ba327df1ec231388e8b099ffbf6ffd4/photo.jpeg?Expires=1795491170&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=oS9flcncewJWMdDSP1b8cjkvl7S1uc%2BG3q4Da84u%2FAk7OWZBp36y%2Bc%2FC6AiP9i9%2BqbrioG%2B8Wb7F8XAkK4BcFOHXEWbk8CQgsySEon%2BwIw94XdHst0OKU0mzELZ8qNOhpV7QpQmbooschwXmj10bxuyYKXB6riIXpHxUH9IetNE11dUd5QKR3Z23NW4F%2FZV4G8kC31ab1P6%2F%2BpzpEPSHEpVh7%2FOaa7mVBcbsCrYR32%2Fc7xP8BIFt84lEFfjRpoIWVwzEGyHb6vbgMFxqIqNYOl3it5PFu8U2nsQskg02a%2BuldRX%2FOArleY%2FfuhUkDPEPsyEcvEijHn5OY7XWY96mIg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2F4ba327df1ec231388e8b099ffbf6ffd4%2Fphoto.jpeg)
 
 #### Comments (3)
 - **カオスケ** (Oct 28, 2026 01:51pm): ヤチヨ推しの人どこ行った
@@ -1270,10 +1273,11 @@ YouTubeの見方教えてください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5246836365/e0848ed67f19cc95bc43412465fd6bc0/image.png?Expires=1795482282&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KWiVQ1J0mfHOWlaHWPf8dHQPTDNRVR0kZlTgLloCIYTrVOXKs6o90a2uywBBTKfjgKa%2BT%2FH4q7LVEro8Q%2ByR697o%2FtQpUhDi8ZWmZMeG%2FN4nNNv4TiZpVjgvK3cb9NZY7cWM6zR9PoPSC5PNIR3tG9rbC0UslBViOOs29b2a7ysJy0UR878VWMCiv3AZnnTcporQ6Aeqs5xf8CkpUe8pWhLlCTfpxZhtZMlqaTZM0LVa47wxSlWluvmlU6qBKbcbtBA6GuudTrbJDvystbrXk8wK5meTVf7J4Ht1oPeZhs6QJbpTIY0Xlip8LRa7ps1TAJmXoofrZNNie3v%2Fspae9w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5246836365%2Fe0848ed67f19cc95bc43412465fd6bc0%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5246836365/e0848ed67f19cc95bc43412465fd6bc0/image.png?Expires=1795491170&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YOH9Btkke2R7BHcRcF%2F9IS6wQ24iRuRI0huLBVNJ2ZGJOuL0cB2Z37AImcqAM5hBVsjZBhrhPbUz%2FiMykiWLno3ZBJZvBpMD8FNfrXmbuw3kb30TZek1s02pD7RRbqkLT%2BVR6FrSwc6yr6SrIGzjxlYfDd%2FIqzA7sfmOhDnqLGKvgWOG2F5ESQHxon1Wy8c9F3%2FOLozJvK0i41zmE5Drkq%2BajwaqBLLyBEeFvYKDovlH50ouWMfqd7rUKOv1lyQboY7%2FfCCOAg2jZOMtqXF1Cm59JkKl3kKjuBlb2KHGSS7Q7DwtdCsZs5kQ07dfuA7Nn%2F9R6ydiF4MUkVjQ1Qnd3Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5246836365%2Fe0848ed67f19cc95bc43412465fd6bc0%2Fimage.png)
 
-#### Comments (1)
+#### Comments (2)
 - **Samon** (Nov 16, 2026 11:30am): そういうお年頃だから仕方ない
+- **ぷりん** (Nov 17, 2026 02:31am): クセと言うよりセンスじゃね
 
 #### Additional Information
 - **Post color:** White
@@ -1287,9 +1291,10 @@ YouTubeの見方教えてください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-#### Comments (2)
+#### Comments (3)
 - **わらびもち** (Nov 16, 2026 04:40am): しらん
-- **에밀리아 #진과_커플_프사** (Nov 16, 2026 05:52am): 戻ってるけど↓みたいなの横行したらコメンターに戻すかも
+- **彡** (Nov 16, 2026 05:52am): 戻ってるけど↓みたいなの横行したらコメンターに戻すかも
+- **ぷりん** (Nov 17, 2026 02:32am): 公害すぎるな
 
 #### Additional Information
 - **Post color:** White
@@ -1299,7 +1304,7 @@ YouTubeの見方教えてください
 ---
 
 ### 3. ふ
-**Author:** 에밀리아 #진과_커플_프사 (454545454545454545454545454545454545454545)
+**Author:** 彡 (454545454545454545454545454545454545454545)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -1327,7 +1332,7 @@ YouTubeの見方教えてください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5812279039/ded4b9fd1bcc77cc1a968cb3df0f081b/_____.mp4?Expires=1795482282&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mVCRNp299l0ic4I47qTvAo%2FW%2FL7Z%2FVooTLEixSVIGfVoPr4s%2Fkrav1VvFbBfmxIk5v1gsds%2B4RGXAcHpT2FiX6pO9GhVGz6BPBZnf8x%2BwaA0PTvKtkAb2NHS8vpEkYxym5Rn%2FYWcz5AaURS%2B7ax8oBO1F2ucSHWpsWeHl%2FbdoVgVOCWzW0vgIEXfssWTZg5HwaAJChLwqAV3t5JMdHs0%2B2R8miOdET7ZnmdmYE9rQfJOGX%2B%2FPAqCZqHkGrV6ydFfA7%2FqlRXuNIFXeSPCCBf%2B%2B6qdyEz3KysQADyoUoTnSGr40Ng2cTGPvbTTG8gb9fMOjRJ55j3RAeY%2BDkFgz5YiCg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5812279039%2Fded4b9fd1bcc77cc1a968cb3df0f081b%2F_____.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5812279039/ded4b9fd1bcc77cc1a968cb3df0f081b/_____.mp4?Expires=1795491170&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nvfQfzd7VGPqcSQrzcTYWesJWJ0TPmKRFl0urO55%2BmgFR4Ql2EAoZfJgaQu81xjji0OEhgV%2B7cCQ4F0uOmpBXC9fAu5mtuJA0E1QButBIgbodKOBlsd7AI3Y83iZm42mNUsgKBJQHr94l0DJDcsboKwwHAHKJPZH%2BVNcxdT7PaNt%2FL9GIvZRIa6nICFyibuYAuxyO%2Fp0kyg3o%2FlNsbiJFM8rZ3wj3gFx%2FU1dN%2FswpgZgatwPdP32UmTzA6pMIMnPl63kfxW%2Fm2qEwFFe68g9p%2BsY3N2pyVkBWPx4aAatFNQqZwcBae%2FQ82JOJixK85azsH%2FMAFYrvygPIx372tp%2BIw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5812279039%2Fded4b9fd1bcc77cc1a968cb3df0f081b%2F_____.mp4)
 
 #### Comments (2)
 - **ヤチヨ　推し** (Nov 15, 2026 12:25pm): クソ
@@ -1368,7 +1373,7 @@ tenga 公式
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5812279039/41b7ba6b04090c621b73827f901af7e7/HR19YNFa4AAVW8A.jpg?Expires=1795482282&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=haMaF3Y58N9SbnL7CvNhMaapjuiivu4cwYVcv18OGApu3tpkduKuDFsJPh%2FgSy5HAV%2B5Q3DYgv4G9WuWzjQ%2FXk5oxoAZ8%2BxEphLVy%2BBegjSFUXOdrPUTiVTwxv%2BH2AQAvQDRDVTlLXujx6PNljjFjpB4DIjLgyhe%2BO7faPvCjeG8amqrc6VuZq%2Bed7gHCpBv%2Fkh3sZRvMjgk7o1fSTNkP0IyQY21Yf3kKeI05O7%2ByhoBfWUD3s5PXDQgverGhc3heFOGhuI9HhJyNmu73g6QNsnFLp7j9Lew35yxPrGrbJxv8ZDJvtRqlunXzF64o%2BSfXWbaPnCWZ2267R5dFHXzog%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5812279039%2F41b7ba6b04090c621b73827f901af7e7%2FHR19YNFa4AAVW8A.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5812279039/41b7ba6b04090c621b73827f901af7e7/HR19YNFa4AAVW8A.jpg?Expires=1795491170&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pLxUSpasPIMARjS21jEUSu04wlyaThkE2%2BpR3tEpUi2vzF%2Fin9IjZQMFOorBZNuX68SUbmVM0rS%2Fi%2F2H%2FYKSLMAfpAOiqtw2SY3jJun%2FIWQcAEfBQrqcN%2BrcigmsFslVEOC5SaOUdaI08iD08le2gjmdFtoau15lQVSLb%2F2QM0oU5T%2FEFCLgtBV9F0j%2FP%2B2r8V9uVGgZK3O45QdNjGMJv02%2FvcI8RLAabSDQ5UJDn0C7AhAqa%2Bgj2DM1okQWiKTXy%2FIAzemeiwNmqI2zsAyXmk70c%2BPEp0CSv7kspCrY8JCB7mV4Ej24LcB8mZ1UK7XNwGApBlbsl3O%2BTQpWDZYn5g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5812279039%2F41b7ba6b04090c621b73827f901af7e7%2FHR19YNFa4AAVW8A.jpg)
 
 #### Comments (1)
 - **たむ。** (Nov 15, 2026 09:53am): ｗｗｗｗｗｗｗｗｗｗｗ
@@ -1395,7 +1400,7 @@ tenga 公式
 ---
 
 ### 9. Post 9
-**Author:** 에밀리아 #진과_커플_프사 (454545454545454545454545454545454545454545)
+**Author:** 彡 (454545454545454545454545454545454545454545)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -1427,7 +1432,7 @@ tenga 公式
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2454764338/81bfab706eea5aad9f1625abcc937b49/Screenshot_2026_11_14_22_21_01.png?Expires=1795482282&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=PmDXnPOvgFgPMSxQN2WjrSoFA9Ilk%2FfQjOlH2NK5RZLTrGj0l7QOXUd%2B9KtqWonYJjTSLrvEFeDrQqiiWt78VkGZwC8NS%2Fw8N2LBkGcf%2BvaWlZ%2FrH1RdrJC16Yuee7VSjNsvj1RpPQH308cFAHrDwBaXMLeZG3GVDi8yqAkVZ9%2FIv4l1p3gznyhtTJ817U4UTtuKzaD7NvXhicHL78eICeRcNQDlE%2BUG3jP6VIroAv5I8FVXLch%2BU%2FVP4V11EEyd%2B3msZkmVA%2FFqrqYjFJHi5LjFufp7olsifKKmxYjtXdWyz%2B%2BUJxeY7kqV%2FUeQLClUIgVT3bN7C6BHnmZRFaNxXA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2454764338%2F81bfab706eea5aad9f1625abcc937b49%2FScreenshot_2026_11_14_22_21_01.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2454764338/81bfab706eea5aad9f1625abcc937b49/Screenshot_2026_11_14_22_21_01.png?Expires=1795491170&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QW8kSCzcRIS%2FNm8CqYhwl0OKtPWjf%2BlgMyIPBRKTazKzKHtIcUiUuiyLm%2Fw%2BIVE1IaKqzjQJ147rdvxQnthutHy3ebWpva3JmE96frehtnOqVRsArz0roU%2FmHnR3zsf57Ci62p8Fny6n4%2FGiT6C0CXyZoU%2Bo7TCn%2F9yWp5nc5AcdBW0cAf263oIg%2B43UkVv97YUbalcIDuR7aMdynQZ7F%2FaUpYf1%2BAOY4vjImdBYy7jaAvaqNct2ZGCnHL8pXhXgKqXG7u0cmGmsJ77F1iQTjrmczne%2Fag2eU9Di9bzPuWKn1FV%2F0RxMFN5NNEfon3pPKrxMxNCrFeQlg8XpRQrvjg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2454764338%2F81bfab706eea5aad9f1625abcc937b49%2FScreenshot_2026_11_14_22_21_01.png)
 
 #### Additional Information
 - **Post color:** White
@@ -1502,7 +1507,7 @@ tenga 公式
 - **だいまた** (Nov 13, 2026 01:26pm): しね
 - **しろちゃん** (Nov 15, 2026 06:52am): むりです
 - **だいまた** (Nov 15, 2026 11:56am): おまえだれやねんはいってくんなしね
-- **에밀리아 #진과_커플_프사** (Nov 15, 2026 12:07pm): 草
+- **彡** (Nov 15, 2026 12:07pm): 草
 - **ぷりん** (Nov 16, 2026 01:15am): だいまた過激になったな
 - **しろちゃん** (Nov 16, 2026 08:26am): もともといたんで
 - **しろちゃん** (Nov 16, 2026 08:27am): あと死にません😅
@@ -1667,7 +1672,7 @@ tenga 公式
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (3)
-- **에밀리아 #진과_커플_프사** (Nov 12, 2026 10:28am): あら
+- **彡** (Nov 12, 2026 10:28am): あら
 - **しろちゃん** (Nov 12, 2026 10:32am): がんば
 - **𝓜𝓫𝓪𝓹𝓹𝓮́ ♯₣ŘΔŇĆ€🇫🇷♯つつきの森1番弟子♯狂鳥族2代目♯初代つばさ教♯9代目女真族♯はーちーとペア画中♯だいまだの9番弟子♯ハムスターのおうち♯makunami族15代目♯だいまた店 副社長** (Nov 12, 2026 11:50am): がんばれ
 
@@ -1734,7 +1739,25 @@ No post
 
 ## 画像・プロキシ等
 
-### 1. 学校のパソコンでアプリ入れる方法知ってる人いませんか「機種はクロームブックです」
+### 1. tigyutube持ってます(proxy)
+**Author:** Manjiruブシャー
+
+tigyutubeはsiatubeなどと違ってショートも見れるし動画のサムネイルもきっちり表示されます。ですが一つ注意tigyutubeはVtuberやアニメやゲームなどがサムネイルに多く表示されます。
+
+URL([https://tigyutube.tigyu](https://muratube.hospitaldelninodif.gob.mx/)beefbowlisgross[.god.tx/](https://muratube.hospitaldelninodif.gob.mx/))
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6703808461/ae35825fcd643ac7534d1b588865d333/IMG_0078.jpeg?Expires=1795491171&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=IjHQRFdxBLv4%2Fv8rw7QuFptD3knyW5w5Jyq1GSuWrOjS6nxlyC5WY30WsiTXbEniucZAKWNQxg9GDMyEZ%2BTyd0EGZlEbNccudXxVXpq3O5wZewwb3qdTCMvERwS9mjJ6wYJPnrs6moJR39n76ahJGbuAxSRAoq8PNRYC9%2FTxchP%2BMdUZFvYAVE1TNOU7rtKuwU%2FgS%2F98DDzz%2BkHbf5y%2F0f7TK1kGrV9PpApX0LwnYGu3JQbXOX%2BgYdyKDKz%2FPzTY6L23rfJHSly39ZvnB2jYN6T0aUO%2B0BrO%2F0f7os30B0aHtiNpVMQVX1rKUvAHp46kc0P6JcRs%2BDtHGgSLko%2Bwfg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6703808461%2Fae35825fcd643ac7534d1b588865d333%2FIMG_0078.jpeg)
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 17, 2026 03:20am
+- **Updated At:** Nov 17, 2026 03:31am
+
+---
+
+### 2. 学校のパソコンでアプリ入れる方法知ってる人いませんか「機種はクロームブックです」
 **Author:** あｓｄｆｇｈｊｋｌ；：」
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1746,7 +1769,7 @@ No post
 
 ---
 
-### 2. プロキシ教えるからプロキシ教えて
+### 3. プロキシ教えるからプロキシ教えて
 **Author:** うんう
 
 頼む
@@ -1760,12 +1783,12 @@ No post
 
 ---
 
-### 3. プロキシ
+### 4. プロキシ
 **Author:** あーーｓ
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6695908806/71d8b56a056c730db604a0829c690460/IMG_20261116_131047.jpg?Expires=1795482282&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WrIfuskkNLj7QbC5YYH9GKnwJ1lGomqXLKKJcyujNdTBkzAxuIJwI%2BLIP2wfkiOffhtvRfL%2FUTvD0%2BPl552KDp5wiyRDLeaG%2BYvf63C4EmKIKeBNCV4QB5MUnqHoz8%2BOAy%2F6gJ6rcSWawdJG63jE406MYBQfMl6kCy5VzQNYdKjrlxswuSa%2FAGa8Vhxle6%2Fc9aoOodIIvqxMD5L0itmqBheFqpk7KzYO%2BD7vyoik4%2F9ssgUGl6aevXANSXqPCpTPiwnm4uYl9W8bKYNH57Pbimsjm%2BHnmtXX0WC4b6C3nug4MY%2BANgNFIjHNUPqPovVEzPSDkVWUd9Pue6Hl0ADHmQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6695908806%2F71d8b56a056c730db604a0829c690460%2FIMG_20261116_131047.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6695908806/71d8b56a056c730db604a0829c690460/IMG_20261116_131047.jpg?Expires=1795491171&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=awEC0Ygg5I36sVhYCpeK9Ok%2BZT6UsFr%2BMD6ULMTowL4ATWlSZm5kBIclOJQo%2FZEOLJcwxeZ4aLg6KzwzhhfxJsxyAeMsfpaG%2FlJc2x9asVA5WmLTI3LaNJucim9xQVoHxH8ZArfDcQkSrMXPQm2uhIuu0rEJZPPkCoUgJwhWVv3Zmn%2BH4kHFblM1JE3KvbRj0sGg753NQ6J9fpYN49uITruCbX6HHG8nFKeDSae6Ut%2FZbZ70UmHJabEdRvW%2Bl8x%2BiM9DGvd0AQsTSrwpAX48US5PyqFrGFTn%2BIAKZek2Ne9GNmTDu%2FgbvWcPPhC3cpsGs6XKXXe7PeF%2BZnIvQWdcvQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6695908806%2F71d8b56a056c730db604a0829c690460%2FIMG_20261116_131047.jpg)
 
 #### Additional Information
 - **Post color:** White
@@ -1774,14 +1797,14 @@ No post
 
 ---
 
-### 4. 領域展開無量空処
+### 5. 領域展開無量空処
 **Author:** わらびもち (tensai_1000)
 
 渋谷のやつ
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6223814809/ea28e55df8509c97f02e6c414065359d/canvas__1_.png?Expires=1795482282&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=K9wkQlNEmje47c8TctFAX0GnT%2Bo7sMSbJ7d9mMZn8SnCYoZvkGiADT2vwjgudmbeh17jttUj7wEkSQp3qQH6hfpViBraCDTvIEmO2ifMxIsZ0crFJZiOWqPAdVI8GY1KyiMdMOWbv1cMQhbSVSnBJchQw54RIRcmsrGkcjCYmt%2FvNTyb7L9GKcR3BRLSIrsIdoSkY%2BJIK8UllMCfMtcpx0mlt%2BIuq%2F5yNUuZaTsBS%2BW3pLiJccK573VQCuKg4RI2FBCvbFDqAdIqUbosHe3nTDuOlsP5f%2FM9BnOKoCD41jRwGysdxOrB0EbouFV82l%2BQ%2FHYTX4d%2BS%2Bg6CYPbNS9H1A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6223814809%2Fea28e55df8509c97f02e6c414065359d%2Fcanvas__1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6223814809/ea28e55df8509c97f02e6c414065359d/canvas__1_.png?Expires=1795491171&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zCQKpSvzf4A%2BwMC0C8PW4qq46ZxIoRjGL8JrDM9yxqOMmERoF7B8F3CBY0VVPjdnaSxxuAz%2FkA4zUyRG%2FM4LPWS%2Fuqkb2ayzyPplh3XW%2Bq0Uld8oFUNTPH9YI2Rc8NjMNTofBRAuHxCTqPIUMtAIUjEXe%2B5er2Sy6MV%2BNjmhwFK5xNzHS5QxzNbsV1uIeUaf7guro7gfKYdAr52BoLo%2BsyQSPsi2mENtkpULRiBXcIuaCXkBRt0mGe30pDyMFdaJ5ohnmG3H1Iit7EWzYBy3Wwm2g23%2Fbgs7Ka4SvR1jsgefuiOUeKJ6MX1BZfqCTX8WvsULP9tSCq5tpw9QquZiow%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6223814809%2Fea28e55df8509c97f02e6c414065359d%2Fcanvas__1_.png)
 
 #### Comments (2)
 - **エノキ** (Nov 17, 2026 12:56am): うま
@@ -1794,12 +1817,12 @@ No post
 
 ---
 
-### 5. ProxyくださいICFSクロームです。
+### 6. ProxyくださいICFSクロームです。
 **Author:** 平田 (2227017068)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4448356536/87a322d74fe9ba44985add3f7b25c19f/Screen_recording_2026_11_13_5_43_55_PM.webm?Expires=1795482282&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kjvMNAjl2le30Us9iX30r7Tcgv%2BxLy6A3Eh8KncQvgtZYwD8v6swaJ%2F98dW3kgk7bJdmhTrhbqQB9v%2FwIZedCRSwWhJ%2FRCtRIPqm%2FPYPCw3OrqYQAdAbI7vrEfB2CkdYBBdvEyvcmSC3doytLACwW5QHA55YGIX9eWNDT7n71E6ljRBFsS4lieSnCEqnrRB%2By5OmBGHG%2Bd%2BtkjGpUIHRCLpjw56E7JrFkHnN2qZ2CsxmFH%2BXz8NUwxWfTFuc406mo6bIY%2F8ptg28uDm8ZGy%2FjsxZZYuN%2FQVxkyuTWmasT9tsMldwyAw%2F%2B%2BSfWitLrFNO0YTVhUJ6sM2Npz6WGJPQwQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4448356536%2F87a322d74fe9ba44985add3f7b25c19f%2FScreen_recording_2026_11_13_5_43_55_PM.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4448356536/87a322d74fe9ba44985add3f7b25c19f/Screen_recording_2026_11_13_5_43_55_PM.webm?Expires=1795491171&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WxRtsvDnBKttQgpB4%2FbEkAN5VdGmMdqIKOAFvsyq6MUu%2BAZ561vdjrKGdk%2FJYgaVyCrNMk25sC5791w%2B9eWdQ1mUGCaTXjuXhdk%2B8TKHxXbGnd8Hwd5%2Fo2Zgkc7TMW3J3OPZcLU45Cl%2BMLThHTKlUEBV8aoG5A0q2khMwnWnhjI%2BL%2Fa6oDfQegyNFWGa6Y6hvetzWmDj8I66X8UicfHaeQc%2FE6stMTgC16zIAA0lQUNEMpmW1dTGf2ITeyFwEH3fQznIEkSh%2FTSJJ%2BdcUpWI%2BT9dmik4liZvjP4zZ4mXY64phw6V1bQQSZj2m5enBYQTBgulIudqUOjZ8ISUY4AX5w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4448356536%2F87a322d74fe9ba44985add3f7b25c19f%2FScreen_recording_2026_11_13_5_43_55_PM.webm)
 
 #### Reactions
 - **Emojis:** 😭 (1) 😱 (1)
@@ -1811,7 +1834,7 @@ No post
 
 ---
 
-### 6. ディスコ行けるサイトはないですか
+### 7. ディスコ行けるサイトはないですか
 **Author:** あつあげ (aaaatsuageeee)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1823,7 +1846,7 @@ No post
 
 ---
 
-### 7. Google chroomの学タブの人プロキシ交換しよ
+### 8. Google chroomの学タブの人プロキシ交換しよ
 **Author:** 苦 (bananasaikou652_1)
 
 youtube２個とゲームサイト１個漫画見れるサイト１個持ってる
@@ -1859,7 +1882,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 
 ---
 
-### 8. ISGCのyutubeほしい
+### 9. ISGCのyutubeほしい
 **Author:** ポーランド分割
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -1874,12 +1897,12 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 
 ---
 
-### 9. Post 9
+### 10. Post 10
 **Author:** 村田総一郎 (r0502877)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1795482282&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wtdJuqijvSwhrbuNs6JTDEF1WjqS%2BWEf4Hs4qANga%2FOCb%2BI%2FuRAt307qUmuRwuUPH5uoHmjFFq0w6TH6i0C%2BOi4Z28x2sirr4o%2FBWXmKZwBLQBijUYCdXoWUTY05gAcvZdNLVWFzc4a0l8%2FVUZ2xPAK6jnxx0v27zvbvE0t6U%2FREX8ctf61jD6SVgzo8VzDdXz%2Fs3rgoan%2BGwwOUCjJaFBgJbdqNJP3rD23MZqPQv9hYAM%2FdhRUFDlbui%2F4R%2BD3qifhO7dU4%2FfF%2FnEaOH6RHrKPaAWj2cEQcI%2FRc9wKQYWE6qh3bFqPzhaUjhhGbIM7gwL2yWAM2cgXqJNW%2BdKPtwg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1795491171&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UTliFQYNKKMOkHFEIxpCJjewpjc3WkSsdUV8wr7aDPrPtv08uiRDTIOl6leohc4VGVqqDtzjt7M2e2L4Bul40vRgGnjmPQ4c%2ByPELUcoqWqBi4OPcefWhAdtR8IgZq0%2FzOoWGjXl22EM3OHQhXoO81sAQUlQbS5F4wFVGvEjbfmNMgwAuuBz%2FUc3qIYKl3cYP84zTZ2M8u%2FHM2rbMKmVDNcIV2d2jaLFJS%2FtOfh6wfDAQgwlhC6Ijs3F32MmBpRczVthYnMWuyDDHPA1tD2NIdrk53DpK1%2FHHPWfU0KctGOBPAAYVXKKvBHOkGXyOkai3RyRVq8pknLME0EQjw5BVw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (3)
 - **とりっぴぴ** (Oct 06, 2026 11:34am): ?
@@ -1978,7 +2001,7 @@ No post
 ---
 
 ### 6. Post 6
-**Author:** 에밀리아 #진과_커플_프사 (454545454545454545454545454545454545454545)
+**Author:** 彡 (454545454545454545454545454545454545454545)
 
 **・閲覧数****20000超え！**
 
@@ -2003,7 +2026,29 @@ No post
 
 ---
 
-### 7. 来てね
+### 7. Post 7
+**Author:** 彡 (454545454545454545454545454545454545454545)
+
+**・閲覧数****20000超え！**
+
+**・****人気****の****大手部屋！**
+
+**・****喋りやすい雰囲気****で****新規勢にも大歓迎！**
+
+**☆まずは見るだけでもいいので是非来てください！**
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+[Attachment 1](https://padlet.com/Torikku/padlet-63jnhgp03uzm33g0)
+
+#### Additional Information
+- **Post color:** Blue
+- **Created At:** Nov 17, 2026 01:57am
+- **Updated At:** Nov 17, 2026 01:57am
+
+---
+
+### 8. 来てね
 **Author:** 7c7f65d1#はーちー✨️🍫☕😈🍨とペア画中 (7c7f65d1)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -2017,7 +2062,7 @@ No post
 
 ---
 
-### 8. 身近な好きを、追求する
+### 9. 身近な好きを、追求する
 **Author:** カオスケ (kaguyasama59)
 
 ユーチューバーに憧れたことはないかい？なりたくてもできない？そんなときのmy tube自分が出した動画でイイネをもらいコメントを貰い時にアンチコメントをもらってチャンネル登録者数１００人目指そうぜ！
@@ -2033,7 +2078,7 @@ No post
 
 ---
 
-### 9. 来てくれ〜
+### 10. 来てくれ〜
 **Author:** わらびもち (tensai_1000)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -2051,7 +2096,7 @@ No post
 
 ---
 
-### 10. 本部屋１００人超えたらブロック解除方法発表します
+### 11. 本部屋１００人超えたらブロック解除方法発表します
 **Author:** ぷりん (purinndayoa)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -2068,7 +2113,7 @@ No post
 
 ---
 
-### 11. 入ってくれー（宣伝おｋ❓️）
+### 12. 入ってくれー（宣伝おｋ❓️）
 **Author:** パドレット作ったからきて (gs214706)
 
 [https://padlet.com/gs214706/padlet-s024ivz1s08f0bavfqqv](https://padlet.com/gs214706/padlet-s024ivz1s08f0bavfqqv)
@@ -2087,7 +2132,7 @@ No post
 
 ---
 
-### 12. 入ってくれー
+### 13. 入ってくれー
 **Author:** パドレット作ったからきて (gs214706)
 
 [https://padlet.com/gs214706/padlet-s024ivz1s08f0bavfqqv](https://padlet.com/gs214706/padlet-s024ivz1s08f0bavfqqv)
@@ -2106,7 +2151,7 @@ No post
 
 ---
 
-### 13. 新たに作った
+### 14. 新たに作った
 **Author:** KB
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -2120,7 +2165,7 @@ No post
 
 ---
 
-### 14. 日本一のパドレっとにしたい！
+### 15. 日本一のパドレっとにしたい！
 **Author:** 龍聖 (tokumei_kibou)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -2134,7 +2179,7 @@ No post
 
 ---
 
-### 15. プロキシ部屋
+### 16. プロキシ部屋
 **Author:** りんご (51354895)
 
 こいーー
@@ -2153,7 +2198,7 @@ No post
 
 ---
 
-### 16. 江戸
+### 17. 江戸
 **Author:** タケノコッチ (7103150)
 
 今日つくりました。
@@ -2174,7 +2219,7 @@ No post
 
 ---
 
-### 17. まいくらー
+### 18. まいくらー
 **Author:** ichidayo (ichidayo)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -2193,7 +2238,7 @@ No post
 
 ---
 
-### 18. Post 18
+### 19. Post 19
 **Author:** 霧夜　Mistgentle 🌫️💫　#進撃の〇〇族 総長 進撃のエレン　#チキンバナナの１番目の兄弟子　#会社の一員　代表取締役会長　#nekoちゃんぬ族10代 (07525071)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -2207,7 +2252,7 @@ No post
 
 ---
 
-### 19. 以外っと色んな人いるよ
+### 20. 以外っと色んな人いるよ
 **Author:** 霧夜　Mistgentle 🌫️💫　#進撃の〇〇族 総長 進撃のエレン　#チキンバナナの１番目の兄弟子　#会社の一員　代表取締役会長　#nekoちゃんぬ族10代 (07525071)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -2221,7 +2266,7 @@ No post
 
 ---
 
-### 20. Post 20
+### 21. Post 21
 **Author:** れいちゃん (sw_gg)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -2235,7 +2280,7 @@ No post
 
 ---
 
-### 21. 来てい
+### 22. 来てい
 **Author:** 🪽⊹₊ ˚.⋆える＃だ҉い҉ま҉た҉2҉0҉番҉弟҉子҉𓂃𓈒 𓂂𓏸໒꒱＃ばちくそ高浮上 (8200216)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -2249,7 +2294,7 @@ No post
 
 ---
 
-### 22. ここよろしく！
+### 23. ここよろしく！
 **Author:** True_043 (True_043)
 
 [https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh](https://padlet.com/r0102923/google-s0240lrj3mektv6xp8dh)
@@ -2268,7 +2313,7 @@ No post
 
 ---
 
-### 23. きてー
+### 24. きてー
 **Author:** ぼんじゅーるだどーもです (gs211545)
 
 今なら古参
@@ -2304,7 +2349,7 @@ No post
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 223 votes
+- **学校のパソコン:** 226 votes
 - **自分のスマホ:** 7 votes
 - **自分のパソコン:** 11 votes
 - **その他:** 21 votes
@@ -2334,7 +2379,7 @@ No post
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Nov 16, 2026 11:28pm
+- **Updated At:** Nov 17, 2026 03:16am
 
 ---
 
