@@ -420,7 +420,7 @@
         // ?board=X（クエリ文字列）に加え、#board=X や #?board=X（ハッシュ経由）も同じ場所から拾えるようにする
         const match = window.location.href.match(/[?&#]board=([^&#]+)/);
         const boardParam = match ? decodeURIComponent(match[1]) : 'nyg/main';
-        const markdownUrl = `/archive/${boardParam}.md`;
+        const markdownUrl = `/archive/${boardParam}/README.md`;
 
         const renderer = new marked.Renderer();
         // marked v5以降、renderer.linkは (href, title, text) ではなく
