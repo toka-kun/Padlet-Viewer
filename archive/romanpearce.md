@@ -1,4 +1,4 @@
-最終取得: 2026/11/18 10:17:06
+最終取得: 2026/11/18 12:26:54
 
 # シーズン2ローマン部屋
 
@@ -14,7 +14,7 @@
 ## ルール(守ってね)
 
 ### 1. ルール
-**Author:** 彡 (454545454545454545454545454545454545454545)
+**Author:** 에밀리아 #진과_커플_프사 (00000000000000000000000000000000000000000000000000000000000)
 
 公序良俗に反する行為❌
 
@@ -26,13 +26,13 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5115963443/bbaa31411706b7b115b79c9af257d020/IMG_1995.jpeg?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kloHNZkyDawGymDDq9sOH4H6JxCxhX6MSmQgk3WLUQ6pcwNzJyRVlwpVh%2FiMOGyXHZMkkbFFmojBpQVqdjHseQNKVv%2FJfj8HL382E5DBCiJ83Uke49fiP8PX4Tro5eqZQ96G6A89mhjpXZt56Wjngb2e0%2FyN%2F70%2FwuNnVE0SNtmXmw%2FYd%2B1tZh%2B30%2FQoz0CgV5Mk3MxGI7ua0YpnV0GlDj9ZACHfPRHHtlOkWmGmeS0PAj503geqs0rv8WzH%2F7Xtp8GeQ7VsUembgrtP4rzKmFf6j2JxBXF9CTb5xN8gxNEhm1SAMa0b6rXcB%2Fv1WIGXH7b9nyBJVxGYeMVYEIxiCw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5115963443%2Fbbaa31411706b7b115b79c9af257d020%2FIMG_1995.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5115963443/bbaa31411706b7b115b79c9af257d020/IMG_1995.jpeg?Expires=1795577302&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UT%2BQMuvGILOsv8yJWt7enwxG1J8M8au54QBWxb%2BYTpbRqwxINIayYfx2RRKsAapq3PZLa9%2BtEe5WjXLBib9MaIPXEXRN8eioshky7mi9THcr8uNCvXJlRlmXmVnJYptlUew6vnbXqnZjaaKj0TeZuaaDcLtSCtJ8bM49BEYtizY%2Fp0Tai3n%2FQ6jSQyDUgLM9CzsRnwqv7vn8Gcsa%2FZGM6wg1RHXdMx4OroJsb9SNmqtXZoIRxqbF7WAnLPM1Xrli45HT2MzqSTZGBfKMsJ92BnL%2BVe2qJIiXPnECDi5ciGKH821WpfpGK5sn9VOE2S0aLxCaRY5nLYbGjs7iaewlig%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5115963443%2Fbbaa31411706b7b115b79c9af257d020%2FIMG_1995.jpeg)
 
 #### Comments (5)
 - **Aiji和侍** (Nov 12, 2026 03:26am): ありがとう
-- **彡** (Nov 12, 2026 03:26am): ？
+- **에밀리아 #진과_커플_프사** (Nov 12, 2026 03:26am): ？
 - **Aiji和侍** (Nov 12, 2026 03:27am): わかりやすいルールw
-- **彡** (Nov 12, 2026 03:43am): あーね
+- **에밀리아 #진과_커플_프사** (Nov 12, 2026 03:43am): あーね
 - **mell** (Nov 17, 2026 04:58am): おけ
 
 #### Additional Information
@@ -190,7 +190,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6490383316/3e9e8cc7e3a2bad54d59e1a9f33e69f5/images__1_.jpeg?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WbHLdvfO%2FyO7l2L0doqUgxCQOQKl5HHdOjluz9HjwjobW9Rit9hoe4MQ%2BkQ5Fxwk7dTB5CFbvFwVRwMxRgqE2IM8Zao7hjvBTFUcKXoTcXUBu2OvcM4AxO77Gn2mBHNqF9wCz%2FHiUSW0KL1cwSHNVsZns6xKlT8YTHjup2dqWFMTOgqsEgGY92EZ8QwdGfNPx3fb4unzCypWKoq1VtEpZujz7n9LeH2mm7S8T8YjgkXE%2F50OGio%2FqH8Usympvo%2BfSO3qwCrwWRaaujiem8qEKDcgdSdVmUPDVBHZe3uDIiQtPkOcnlOjv0ZE1md9%2BeL%2B4iPHwxCJZHum4PrQXabFog%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6490383316%2F3e9e8cc7e3a2bad54d59e1a9f33e69f5%2Fimages__1_.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6490383316/3e9e8cc7e3a2bad54d59e1a9f33e69f5/images__1_.jpeg?Expires=1795577302&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uqykUfTND%2Fg99uavVoxYUQASDW5dVD2aYQ8BxMEzTQTj1b5gBIdBi5KcRGQEr8o000gV7Pir8UvgMCZen8lQ7iNPNwxdDtWMT63%2FoU5DJYVY%2BbsA8eM4X2ND9ie%2BbSLWZhv8IxZp3z4phGg6Uci5drtrq7WYAZCEKwuP2v7lxnKvdju6DqJaOZ2n6EiFyM2PbtBEKD82R6WI47suK4QLX%2F70%2FoIxso6%2FosLYHel3dfbkLeGEfJy0WduNdL0aBFv5bTmLUy9EmBUzsHwuDXKpr1NOR402hzgpKh6PiY%2FWXSD7uRfTGWrYsP8BXmZ8qEA4mDXDfbR8X8rCghuWsRBAxA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6490383316%2F3e9e8cc7e3a2bad54d59e1a9f33e69f5%2Fimages__1_.jpeg)
 
 #### Comments (7)
 - **ソ連** (Oct 16, 2026 08:14am): https://script.google.com/macros/s/AKfycbx4So5Xfxht1530h7XmDn1lfYthjw4_P-qjayflh8j8046FtFZfG91r-ZPl00yOKg-z/exec?img=cat=rvkcob.png北海道行きたいならみてー
@@ -211,7 +211,7 @@
 ## ライター受付
 
 ### 1. ライター欲しい人はコメント
-**Author:** 彡 (454545454545454545454545454545454545454545)
+**Author:** 에밀리아 #진과_커플_프사 (00000000000000000000000000000000000000000000000000000000000)
 
 メアドいらんよ
 
@@ -368,7 +368,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6555618238/fcef7c4eaa9afa115448b6bc80d7b387/IMG_0081.jpeg?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rbclm5BqNBmpcefkHb5yfZfW4ktCv9iZYIT%2BLtXIansOBYSk9GR8xzndCiAjimd5urV1agocaFQnhlflDhLVDpaqWvLiGHasdotd58iLpaxbcwUo%2FMxey5J7sZHsWE2JUY4XyB8j4sjyZOpH%2BM%2BY0lfj2IaODibqQyFK%2F6h13l7oJmlYIYymZyoIrlwVFOfMOosqRe6qjgRSMZ9ScZjp0kTjkuqJnOpne5hGhlBlbTg%2F59hefie4T%2F6bqddI7iu%2FRi44%2FovMjdWeQ1s1EVVWxFdziwjmJRDNadd6FUNHTrPKibDHHWpFkFaVF%2Fs6uQA4cYXvxe9rLweKDjg8mNkgfQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6555618238%2Ffcef7c4eaa9afa115448b6bc80d7b387%2FIMG_0081.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6555618238/fcef7c4eaa9afa115448b6bc80d7b387/IMG_0081.jpeg?Expires=1795577302&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=unD3f9Ivsp%2FDVlMbXikM0zDElP0jEn2PTjsRnswwFh3qg2YuiEudVMsOApI2ThuxjvzZwgKxU0nOkIeJOCVFFF8apaUtW0CVbQ%2FDJYBFvLetmHCFGAX4Ryn4H4lxCsGfX17pkCAmayEGXZJOQ%2BsY7dLkuPCTV0BLxrSUKbZmKOMZk1ZTaCwlP6etDiErUO3tlm%2BlR9c27BzMC9IStsrue%2FHcYtODAdvqbSqkES0Bq9QNF4kPGM3yPViFgs92pzRjZptkl1Xb6oFcSbKx3Vn5pkiKeL7BKJJqpggX9UddPxRA8Hl5344x%2FitRcm7nRyATOcYZM%2FwcdoKaNDiL%2Bz4%2BFg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6555618238%2Ffcef7c4eaa9afa115448b6bc80d7b387%2FIMG_0081.jpeg)
 
 #### Comments (2)
 - **福島県** (Nov 17, 2026 07:22am): おお
@@ -388,7 +388,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6695908806/64b74d77fea0b9c2b23799943fbf257d/IMG_20261116_131047.jpg?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KplkueCgFkWBwoYG6UlgRzjvRDar%2BYwSglyI%2BbwPvuXJEmHc0xuCvMjIafZIxqLUHmAf84HOffDzgTtKaksHkS8jkDxC8sAgS4sOzg3Pp0kT5wpEyNtIH7skos46enGpzfs38bn9uqVHGY3rIkb6N9fwFNrBs5afO6kfa5WiuQjR6vus9Szqt6F%2F4pw38NWm%2Fd0KwiNU1m%2FEeUuYvNrmFOIqeakB3uqdTazpfmwV%2B3QY%2BwJFj220SvtsdqbIydybQWfRUyrO2dMi8h4yoRkPeiD%2FBZpHTnwYV%2BrpOO3f4RcgBIyRR8BtvupEOsX3nDaagRrlMwWH6MEUfPoxO7XQeQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6695908806%2F64b74d77fea0b9c2b23799943fbf257d%2FIMG_20261116_131047.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6695908806/64b74d77fea0b9c2b23799943fbf257d/IMG_20261116_131047.jpg?Expires=1795577302&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=o5gXe%2BOMPEZoQ9qpNq4ukFdIM4WIoj3X6aHehduDhYRorcLnhvopOTkXsI3ZqxiCTz6sFdAIxVg0qXlpsW1CjkUF2o3RqYWzJTynlp0MGmXeDqtAbBtrWHHlCYpTC1sW0Jk8HCAi3X1N7thA2RILp4gZyFcO9CzCYwhPp2O1TTtJ3BR2yFqybDv%2FbQD2fZraXjYKArWlzqIrbpP0%2BGyXT%2F19eTw9yZCbNA784X5zEMqXIH1hfWx4%2BISL%2Bg9SXPLHL7gyhbnZxLj4Xg%2BnVQ%2F5tOcqUp5SVwftJfM838vTvliyYfcNg1xjBUMOuq5p6sRmvs72Mk6oHyQlXqWOUx9R%2BQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6695908806%2F64b74d77fea0b9c2b23799943fbf257d%2FIMG_20261116_131047.jpg)
 
 #### Comments (2)
 - **Manjiruブシャー** (Nov 17, 2026 03:28am): 自分で探せや普通にプロキシ貼ってるやついるだろ
@@ -471,7 +471,7 @@
 ---
 
 ### 11. くろつきだにょ
-**Author:** 彡 (454545454545454545454545454545454545454545)
+**Author:** 에밀리아 #진과_커플_프사 (00000000000000000000000000000000000000000000000000000000000)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -490,7 +490,7 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5812279039/b1b55ed01413ded92931e0dc73f416bb/IMG_2723.jpeg?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jkcKpRkpqwEQwgW19s0B6QQKgu3GSmJ8UI22YDs076o8JS1Y%2Fa6WowpgFmhz42BsR0%2FWJUlDzWOth4l8D2GrfOoitgf3uJQNGRJeSF%2F%2FZNHnzlfNXPnUtkO%2FZMKwSiGf2JJWsrJ0U%2FUYf4Skkd8jSmcy0j7f9EtRqWnMVjO5JbVeE8wV3FZjdhqrlm1Z5PiNRexZrJjY45KnXjB9ZwSeygP4qobR9owyX%2BkHPLkWlfigl9iQAbQZJVNh%2BhKYf6jgqAl3nP3XOXlcnhJay76bgzExnvpupD%2BZ1m0ONi4WFnH%2FqKB0sY0otPIIqdFHBx0ME4hiPdr1TbwRJdbyOJWhMQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5812279039%2Fb1b55ed01413ded92931e0dc73f416bb%2FIMG_2723.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5812279039/b1b55ed01413ded92931e0dc73f416bb/IMG_2723.jpeg?Expires=1795577302&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QlwthRdQ01OUHExF%2BinH1FqN03FdCAjzOa9ZapnimAQgIhPqNhPPwA7kl%2BxpP0XQ%2BsRmGdqe4lJ59JL5%2BbMPueVisPc99CITn7zzfG5l1CZbNOX4xbHehs8UdSglyllsukWekhmHfZDRlrmvOLRjvF8u7E0CAHlEwx1TLrk1Oxy35JG5zDtRjJ44vt%2FoV3FWXZi8FAa9ByRvptIZ7n%2Fk4V3zHH8PZew3Xw%2BMxBJfVyjIMOk3PEFKZDdfBXhWKQx7XU9nXCsDUA1E19vt7Gk6Smb4yAiC6sDhA%2BZhGVR5gSRxicpVypJPu10WA%2BTx6b37Wx%2FkaGPa3CsNBpKF8dzU6A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5812279039%2Fb1b55ed01413ded92931e0dc73f416bb%2FIMG_2723.jpeg)
 
 #### Comments (3)
 - **福島県** (Nov 15, 2026 09:40am): こんにちは
@@ -530,7 +530,7 @@
 
 #### Comments (3)
 - **れい** (Nov 14, 2026 12:24pm): 同担許可❣
-- **彡** (Nov 14, 2026 12:26pm): 😘
+- **에밀리아 #진과_커플_프사** (Nov 14, 2026 12:26pm): 😘
 - **𝓜𝓫𝓪𝓹𝓹𝓮́ ♯₣ŘΔŇĆ€🇫🇷♯つつきの森1番弟子♯狂鳥族2代目♯初代つばさ教♯9代目女真族♯はーちーとペア画中♯だいまだの9番弟子♯ハムスターのおうち♯makunami族15代目♯だいまた店 副社長** (Nov 14, 2026 12:33pm): おすすめ
 
 #### Additional Information
@@ -547,10 +547,10 @@
 
 #### Comments (6)
 - **わらびもち** (Nov 14, 2026 11:31am): こういう危険因子はコメンターにしたほうがいいんじゃない？
-- **彡** (Nov 14, 2026 11:31am): れいちゃん有能だよ
+- **에밀리아 #진과_커플_프사** (Nov 14, 2026 11:31am): れいちゃん有能だよ
 - **わらびもち** (Nov 14, 2026 11:55am): そうなんだ
 - **わらびもち** (Nov 14, 2026 11:56am): ぼくの部屋荒らして台無しにしたけど
-- **彡** (Nov 14, 2026 12:03pm): 草
+- **에밀리아 #진과_커플_프사** (Nov 14, 2026 12:03pm): 草
 - **ヤチヨ　推し** (Nov 15, 2026 12:25pm): それはそれは
 
 #### Additional Information
@@ -591,7 +591,7 @@
 - **わらびもち** (Nov 04, 2026 02:17am): こんちは
 - **T** (Nov 04, 2026 07:22am): こんにちわああああ
 - **ポンパポ** (Nov 05, 2026 12:24pm): こんにちは😃 
-- **彡** (Nov 05, 2026 12:25pm): やあ
+- **에밀리아 #진과_커플_프사** (Nov 05, 2026 12:25pm): やあ
 - **そらね** (Nov 05, 2026 12:46pm): こんにちは
 - **ねこかみ** (Nov 12, 2026 03:05am): こん
 - **ねこかみ** (Nov 12, 2026 03:05am): ローマンの
@@ -742,7 +742,7 @@ URL貼ってください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/4ba327df1ec231388e8b099ffbf6ffd4/photo.jpeg?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KU6oArvlRTBGPSjGLRYHL2JHB2VOnQ1yVvVWENcv74Zy98sEylKxVFkfk%2FYj3r%2FcVF9uMe8vxu77EJsDoQ4gUqTl2nnMxbilJmQ1uPN6%2FZ47zVNLPobegA2L6GEwwrNrk68lvkHCQ1da3RoC%2FmID7MqaIGVLrhdan6uT7w8vrT7wKFcTP3c6wsTGPNyNDFYmPeV%2BBXm4eIni0fYte%2BpvrtspBfF7SmbbScrOH3wgH%2BXOQVVl3AJQqkIZSYZsGafe5wanu2fQA%2Fu%2BdUhff2uBT0ka9Fn6RnVT%2FjBqAZZXYzu15SHjXedz9DlCP9C8Yox%2FnOC8X%2Bro%2Frd8RAh3uhwcLA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2F4ba327df1ec231388e8b099ffbf6ffd4%2Fphoto.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/4ba327df1ec231388e8b099ffbf6ffd4/photo.jpeg?Expires=1795577302&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=aw8rgf9kRAPMvktBZGZ9kW20wj3ph1FpX225k3l9iCjfmXjtWn%2Fxocl%2FvFO6rK4QJufu8Nvfd0CPAaUt2o6vPzlwNuu4B8nvlEs6f9%2FQAOOREcDOCewL6wHawV595Xm0fs8qC3xNuHMXlcoBASOR8RIJU43HNAcyNd5UiIuD5lByU7ATGU60YMc%2FgHX1TTVzk8pM5SkWT%2BmoJ9t541l68xsFAP1i6%2FJbdnwqZ3Ek%2B895zLvAhobRa8sQ8fSOULKk%2BDgb%2B0k4H5pxkVavbdp55%2Bx9QRewJW53qiz78zq9%2FVOf0AILH7VbYLSwBPV81qZNrPRvvEyrebXvB0nXk03kZw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2F4ba327df1ec231388e8b099ffbf6ffd4%2Fphoto.jpeg)
 
 #### Comments (3)
 - **カオスケ** (Oct 28, 2026 01:51pm): ヤチヨ推しの人どこ行った
@@ -1362,7 +1362,7 @@ YouTubeの見方教えてください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5801846804/12a1c3111c9b9a7e5d9bfaf913cbc303/Screenshot_2026_11_18_08_55_54.png?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=SDWMNn0TA6bv4IwAymEnWg9FTME72sDwGiCIO%2FBPofo%2FAuP0Mx1ucNNo%2BBbFP77dh1Lbcrgw%2Bt7M4Y4vbg0Ktenz0dPBvPXA8rc079GqWbFGbtMptO96bv%2BjepEmnGvD8nf9tuaixyLb4PHISJbcHGUItCZLxrcAqO4pQeBtNnopfY%2BP%2FwNWuephPzmcUwnea3U9iAX65XwktCIAK8RRFwknmGZIIGf0ORi5fnHK%2Bjw8AuoM1mIur78JloPHozKNb8yBP%2FwQYcGm6uSgnmko1zTJHLGHNLAUqvxXZRXORw43BJckMMRykNLa1Q37Ipm91Qotrhtm6bIJKwuV%2Fw8dUQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5801846804%2F12a1c3111c9b9a7e5d9bfaf913cbc303%2FScreenshot_2026_11_18_08_55_54.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5801846804/12a1c3111c9b9a7e5d9bfaf913cbc303/Screenshot_2026_11_18_08_55_54.png?Expires=1795577303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=IyV1b%2BH2d6n8FyMHa5aZYEeCPnVbPsSZJnS6iqYPFUaHSZjVXg6VzvjtrUbaRniJdyIusxbxX8WoHv8sSvGeXCNFH8H7AfQhYd7cKy72VlwXS1uK%2FkpNXMHoLojlzR0NZohHw8wwkrX7uyZi99STjCF%2BBvACP%2F41vnkBm2BI4c%2BmlE6pN4xWFtFcOrsZ3qtRapyy%2F4GHt7i%2F%2BNe0vzl6ZQdwZWnLA%2BPo%2FE95Mz7d4Igtp8jjjY2NHwXwY1A3Gmp8rcTk9bXrejAsKJU3bNzNY8FjlcCl7OaAuHeSKFwr5usRYCuqlbd21fxyQjru46pt0yh8GJgh8BEl6gMMDvVumA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5801846804%2F12a1c3111c9b9a7e5d9bfaf913cbc303%2FScreenshot_2026_11_18_08_55_54.png)
 
 #### Additional Information
 - **Post color:** White
@@ -1392,7 +1392,7 @@ YouTubeの見方教えてください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5246836365/e0848ed67f19cc95bc43412465fd6bc0/image.png?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YWd2NoVfPU2m9gwM9%2FwuB%2BaBo%2FD5FJOYRwMleloq5m405sDOzs9JnhYmIUkW8DyVAswYY8RiII8KVbtdLOjimyQJOR51xHJDGNWEiAiio62rzhVxF2pyldieOwSEn0Ie%2BfZCY3aMXSRc0814EKkAdZtQptDJW0A0s9kasSbWaLsp0sakqsxoGPufnAopl%2Bfi2xUthanyv72lnfB6tQpxTO36ccpYq4HzKiKH54JElxMLlbczQmTJvUBp%2B486Nr1CsV7qf0Gre8DYyu5d4ML%2B04e8IBUHvoibYr5QkjugHYWP14Jd2VQUpHOf6bUsgwfx5qjOpEecYwzp3IVtki0Nrw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5246836365%2Fe0848ed67f19cc95bc43412465fd6bc0%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5246836365/e0848ed67f19cc95bc43412465fd6bc0/image.png?Expires=1795577303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5ir0KzkxwxYMp9yIjIAm2nMuxE2XplKmUtm1ntgcudogq3OsNiNpXzkQU8GeOhGX72dZQmoF5lL8428r0CXmQXrki1lzxWIWi2KGDfrm2t37wnhY7dfVWllxoQfay0kly%2BmPooJywo5UAjk0PjU8IWO8LgZ7NzM8hFCHO8tCSSvIPb6ADHxcE8TRpD%2BmtaRGT%2BE%2BZm%2FGIuQmcSPvAs8iQ5Xy57izlduSjatksL%2FK1HZPfIzOysQ8T3HCZdhSJky4bDmDchswChJuJfDV9cpXxiRS3qmFbziBC%2BGuIOMW4omUW988b2GxssxILC0yv%2Fz8SCxgNG0eq98mTbIUDRvupw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5246836365%2Fe0848ed67f19cc95bc43412465fd6bc0%2Fimage.png)
 
 #### Comments (5)
 - **Samon** (Nov 16, 2026 11:30am): そういうお年頃だから仕方ない
@@ -1415,7 +1415,7 @@ YouTubeの見方教えてください
 
 #### Comments (3)
 - **わらびもち** (Nov 16, 2026 04:40am): しらん
-- **彡** (Nov 16, 2026 05:52am): 戻ってるけど↓みたいなの横行したらコメンターに戻すかも
+- **에밀리아 #진과_커플_프사** (Nov 16, 2026 05:52am): 戻ってるけど↓みたいなの横行したらコメンターに戻すかも
 - **ぷりん** (Nov 17, 2026 02:32am): 公害すぎるな
 
 #### Additional Information
@@ -1426,7 +1426,7 @@ YouTubeの見方教えてください
 ---
 
 ### 5. ふ
-**Author:** 彡 (454545454545454545454545454545454545454545)
+**Author:** 에밀리아 #진과_커플_프사 (00000000000000000000000000000000000000000000000000000000000)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -1454,7 +1454,7 @@ YouTubeの見方教えてください
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5812279039/ded4b9fd1bcc77cc1a968cb3df0f081b/_____.mp4?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=t%2Bd%2F5IC7lB86qm1LuwV9ZBWKEPjsIPFiclAdxZNFEq2udjgqRL8pmF3dYzpaGRsuHiK%2BTIV0YrSjm2u5RUPCmHFg86ROb3auHXRmSCIwyZKMynXE%2FFvfThi5%2BYxWs8XN3T%2Fnqac8%2B4tIwqTxiG%2FbQybHeIsapN8EhXBoquqgRB0wULMhTnmRsZkjUwdYDPQypbD2%2B0Z8Bl%2FfbBgwKoCjZUniwKume7p7vkhQALZCXHu61ZDQxQlGxCdRcL9GqBmPGpe13N8Ve9Zz8esbQYjzKYbD5mlUTJPNF67BJq8NQL%2FOScIkdbeXMW9%2FDXD3hNCFQBACE1NuG3UVVjPLokBRpg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5812279039%2Fded4b9fd1bcc77cc1a968cb3df0f081b%2F_____.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5812279039/ded4b9fd1bcc77cc1a968cb3df0f081b/_____.mp4?Expires=1795577303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LmG7bwLx0zFcDuq2sM7cnJzxjtCwR59C6Dcwq9CG5znwsYXLkIKrvspsaZh0upy4HI9bwftfbB2K%2FmFvCGYWz9EOva%2BfLbkLOXxO7oqAM1ELTWAmARjdvGo7cf8S36PTmvwkLXucA8f1wRggx8OBtp6rlexEhHcg26N6QBC9GDQlPjK8xiQhdoa2vl210nmbcGydskcg7I071UvYIOxU3ZneVtfcAFuE0PxMJd4OcMDFeSwPjJd5AtdJLW40r6xQ%2BUECDp%2F9%2BnMFE8kwtTlm%2FbmqL%2BXBZOjswjlhO3j5OSvHaSdGwkm8XvZGJBaGVxhJF%2BCtBXTW%2BmxRTMO1Y0IiqQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5812279039%2Fded4b9fd1bcc77cc1a968cb3df0f081b%2F_____.mp4)
 
 #### Comments (2)
 - **ヤチヨ　推し** (Nov 15, 2026 12:25pm): クソ
@@ -1495,7 +1495,7 @@ tenga 公式
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5812279039/41b7ba6b04090c621b73827f901af7e7/HR19YNFa4AAVW8A.jpg?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=CrN5C3jguHdUUjccgrYfb1mVcO15s5IkBZmwFtQSiuju%2Bc%2Fv5DKL4l7B5PvZ3ftpA9ocloaL3%2BItLqw96ACyCvjQsmBPv1NWhxtLlyfW7G44Z10p5dnU9lKSoorcKZut1FYP4dAgrCBItwV%2F5ut2I9ZjxewAa%2B15xCStbFPy0xY1A6JfKPSGNnw7zJf2SnWY6zq59Yu0yTLRYsJUH5WaolDQfEA7vs1W7JowDlN1gkyeQx5V49PaUDRSZWn6My%2FOhsHguIZYnBGTrDlma9N8KUhRzpDdgSXZy37qO0OmULYCsajqrAW4AYEcUIDoQPqyePMHLXB9UoBQVsoWNOFpqg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5812279039%2F41b7ba6b04090c621b73827f901af7e7%2FHR19YNFa4AAVW8A.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/5812279039/41b7ba6b04090c621b73827f901af7e7/HR19YNFa4AAVW8A.jpg?Expires=1795577303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dFcwWVcGJD1Hox%2F6gm2wh1d2b43o7OVi33LCbRowooSX1dQzfiheXLUsoIiHT9JAO2%2Bh0etFwvnbLHWZgPtmyyFoBv5frb4cqmbM7tLZhV8b2H3LhzIIxQzB9usPdT%2BsJQOBG2iChc2x%2B%2F0sJwgRZDrAjn%2FdDfLKqcEOGl6O01NV9azzF4wwmD6gc3uOd5YY7HPpz9r%2BLjXAKA46TRnfF4%2BMq9Olf6BMBEu711okClSKTNjZS%2BlEPI5A9ISH1wrKeiGhzm9Ky7GxO%2BKzap%2FFI%2FSkeEtAC2R%2FAlZRthwpaBr99i58XqePjZm%2BuQLTq9hi%2FAHH1DVVoP9i%2FEuGWm8AxA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F5812279039%2F41b7ba6b04090c621b73827f901af7e7%2FHR19YNFa4AAVW8A.jpg)
 
 #### Comments (1)
 - **たむ。** (Nov 15, 2026 09:53am): ｗｗｗｗｗｗｗｗｗｗｗ
@@ -1522,7 +1522,7 @@ tenga 公式
 ---
 
 ### 11. Post 11
-**Author:** 彡 (454545454545454545454545454545454545454545)
+**Author:** 에밀리아 #진과_커플_프사 (00000000000000000000000000000000000000000000000000000000000)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
@@ -1554,7 +1554,7 @@ tenga 公式
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2454764338/81bfab706eea5aad9f1625abcc937b49/Screenshot_2026_11_14_22_21_01.png?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6xOu%2BJfFav6B45LCNpbpZmbLIPCGIu9ixvkw2ornuuGHAirGpVNbpuKHCcRO4eGNUHbjG9CFbowYN%2Fu%2Bov80%2FdGvvv11CJmXiB%2FVnY%2FdridE1fkl2WOXVuqhXV5worhXKkmMOKtFSagxRednDos5tWjxGnjw5esvBznjUBHhH5cl7klr1HOn%2BYoEGJo%2BWtAnAf0J4b9bxbMghl2R22Zh3xEkEvf1kQ1t9qYmsrZHq%2BBWNKzpNwm0FRLe41CHzmoiRDY42YbD1xDyhmQClG7ig%2Fy3JDOCZFv9%2BhR3X%2FqEnjwLEFCDQrddwmd51v4TlnCbxvppLE8lqJDxJs2MTR0xcQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2454764338%2F81bfab706eea5aad9f1625abcc937b49%2FScreenshot_2026_11_14_22_21_01.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2454764338/81bfab706eea5aad9f1625abcc937b49/Screenshot_2026_11_14_22_21_01.png?Expires=1795577303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UYU3eOXVbjkFTVsWG1yIlPZVsg50OTwCxNiU8EtQT8QoRW9F4P2c5w95vaNcG4CBnAbnTHhjPIPUZl8ZDq%2FCq9czGhRtoU4LaNTZVlhst5WutW9C76zSvpfTwGUwViOl%2FbDaOzUy%2FxErfz%2Fyd%2FAlDsNDv7Sh9FuZ5idaMvnCWU7qnXq5sWJANuCcXe1vdmV2IePpygfcWe3MfPuwPU%2Bqdy0rWLqyi%2B%2BRZCeRXbbjiY8dK7LtnXJ7iRWjwP23lh7uMO%2FBDnP66mT8tbrlDySBwG3O1VhxVRa1iDX85G4519xvW7HQwbeTUoNtmpsudWk%2Bsu%2BpRQBb0S4skuWAiIIW7A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2454764338%2F81bfab706eea5aad9f1625abcc937b49%2FScreenshot_2026_11_14_22_21_01.png)
 
 #### Additional Information
 - **Post color:** White
@@ -1629,7 +1629,7 @@ tenga 公式
 - **だいまた** (Nov 13, 2026 01:26pm): しね
 - **しろちゃん** (Nov 15, 2026 06:52am): むりです
 - **だいまた** (Nov 15, 2026 11:56am): おまえだれやねんはいってくんなしね
-- **彡** (Nov 15, 2026 12:07pm): 草
+- **에밀리아 #진과_커플_프사** (Nov 15, 2026 12:07pm): 草
 - **ぷりん** (Nov 16, 2026 01:15am): だいまた過激になったな
 - **しろちゃん** (Nov 16, 2026 08:26am): もともといたんで
 - **しろちゃん** (Nov 16, 2026 08:27am): あと死にません😅
@@ -1794,7 +1794,7 @@ tenga 公式
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (3)
-- **彡** (Nov 12, 2026 10:28am): あら
+- **에밀리아 #진과_커플_프사** (Nov 12, 2026 10:28am): あら
 - **しろちゃん** (Nov 12, 2026 10:32am): がんば
 - **𝓜𝓫𝓪𝓹𝓹𝓮́ ♯₣ŘΔŇĆ€🇫🇷♯つつきの森1番弟子♯狂鳥族2代目♯初代つばさ教♯9代目女真族♯はーちーとペア画中♯だいまだの9番弟子♯ハムスターのおうち♯makunami族15代目♯だいまた店 副社長** (Nov 12, 2026 11:50am): がんばれ
 
@@ -1951,7 +1951,7 @@ URL([https://tigyutube.tigyu](https://muratube.hospitaldelninodif.gob.mx/)beefbo
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6703808461/ae35825fcd643ac7534d1b588865d333/IMG_0078.jpeg?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tnGsmcSUnQHrPyoIFrQgoeGCI0aKqsQ1z8vFPeBrDyvAbfwL85NMUBtrYo3Fi2uBUBGeBlXF3SbXM%2BWaIT3ipn20T9ZeLJ32HRrSG3qNUtLj%2B4MDqeSgTmqY4zNPw%2B3TWqBMyfSlc%2FMK8DCCBRg0LY41Aoa0NZ1Vk6etCtZyIdfUHvmxb24VwjWTGmjQfW8SIc5jtJMkyCxRHd39de7z1vOOyBLikmyYIqT01M7m1f1sP4oLoHATphxJ8cZFsrIWIyXl70Zvru8MVhKvYf4HzSTcSp0FIIl25NgmTxqRa2Fw0jGA2nruUZKKobl1499vIDw1orrfnCm0AYq9PVRn%2BQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6703808461%2Fae35825fcd643ac7534d1b588865d333%2FIMG_0078.jpeg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6703808461/ae35825fcd643ac7534d1b588865d333/IMG_0078.jpeg?Expires=1795577303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=yo7JZnNJb7zGQutcTyHKL8Mj8ORH81Do4%2BZGemzBu9oMHEYlNvvitWt%2FIk9X%2BJzi0%2BabxBF7ItA9zAqKpItWFZZ5CaSHs3suPofPpmhUWyX7OAW6gVoBsRV57w7HTeJns7F%2FCLul8DBAdYe1l5Y78K6DbLvYGaZfzVWeRFyDF0n7TGkmn7g68uBPBQHbE664pJe06thfYpL07cMkLoTKLZaX5ItMbU0rsD%2B0pTUc64f0S5mNpwwC5luZ80E11IKLft6CUR9kVpdJbEYE7UV3RazRe7EDml39Cp%2FAepThRcsvNGNzcAtqzkvApVUb64F2gdMJGd2iQb1kzTz9z9s%2BvA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6703808461%2Fae35825fcd643ac7534d1b588865d333%2FIMG_0078.jpeg)
 
 #### Additional Information
 - **Post color:** White
@@ -1991,7 +1991,7 @@ URL([https://tigyutube.tigyu](https://muratube.hospitaldelninodif.gob.mx/)beefbo
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6695908806/71d8b56a056c730db604a0829c690460/IMG_20261116_131047.jpg?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=LvGJcNTQLWD2PGtyy8cRzBN%2Bqnrdwvov8FLMcTrjTYj%2BU80IpUoIj%2F7xhsCNS3%2BK7IqEwYPCoUdRx7OflgA70Rks5MbVtPMbMXpz8E3uc9oL3vFrjVv7EoSo4P49M%2B2YnDuzjtrADJcrV%2Bkm04E8NVz99B8OE9N399oYTKBzeZdD2yLT138vkBjR9VvkY34n47f6r9n%2FoVfx2f2oT5A6WKbjZ6j%2FfNWqmLQfCiM6ShdxGKdt9INw9u2RrM9QdgihF2gQvkHvPBZDVPbxAawMOwoCjxaGda2pNzXbg8zcOt2fIWFlyzLNqdyFPEdZBXk9k9%2F%2FBche06QkVa0Se03HdQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6695908806%2F71d8b56a056c730db604a0829c690460%2FIMG_20261116_131047.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6695908806/71d8b56a056c730db604a0829c690460/IMG_20261116_131047.jpg?Expires=1795577303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5XrknhhzlozL0g8ITAhOuRzso5YNWjQldvtUg79Y4zbC3gufjutI7MRm0jBLRmTgbuwjA%2BV0%2FH%2BgGGZNrXXCiz33mMh0ipK3p9Rho9TWhzrU6Azq31CaikDFv%2BwO3uLgQ%2BtXebq6FTHwAdubtIJn77m0FSVAkjF19jEHxD0xghPBu%2FKgDcAktXVpSrY2%2BKlbakgjTeRDt7tHN0pGHaYThtu7u6X3pQEKQreYq8oyvU6Rg31LPn5fdHT20iTB0H84RdgGnlXh4APBl3RX%2FA47NjTx5z7wzgme2Ln8avWOamhuJRQFODoKmxl4h%2B3glCsx4xWqj0Dv%2BvKU5yjqv88sjg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6695908806%2F71d8b56a056c730db604a0829c690460%2FIMG_20261116_131047.jpg)
 
 #### Additional Information
 - **Post color:** White
@@ -2007,7 +2007,7 @@ URL([https://tigyutube.tigyu](https://muratube.hospitaldelninodif.gob.mx/)beefbo
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6223814809/ea28e55df8509c97f02e6c414065359d/canvas__1_.png?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=6OLS%2BkAjHj0axp3PJgETiwWnJmQdthbix7i584Naf1C3lUxaVekziAtEpVeEbguRC%2BARAyzx5sPNX%2FCRYSMHlySUMM%2BA9MU6at5b%2Bipe1pSvQQI55j7AMyc7R9%2FcVCt%2F3KTaH2Q6ypbyPSvqb75QA3E6bIoRnQ%2FReWzO8Q2xpAzOCtyNSz4%2FWER08p5kz36uffSRhY93a1N27i%2B45Q3zZLSyAE6Euahov2RP4HUE1NwnKu2egwPfGPTwE%2BCQ7SQX1iPgCtYWzjFp1OpWi4%2FFw9hndGM2eLhXdQU7MgHvl0kuEwZDRdgNLAFgPCYiUCXo1NDINLU%2Fls0rnL8QWK8L7g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6223814809%2Fea28e55df8509c97f02e6c414065359d%2Fcanvas__1_.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/6223814809/ea28e55df8509c97f02e6c414065359d/canvas__1_.png?Expires=1795577303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=krKu38u0M8DmWQ7mA8mm1qZn7Vg5if477gOUb4MNWDctG%2FWR4yPUq5z%2BfkENeiaAcVu4I1ILzv%2FcBpJJcwP%2FB7LMnx10nr6vE%2FsSPyQolqVby%2B47Nb3Z%2FftoxN4y4VtlL%2FvYXeMnTVEUmFffzg%2F06LLRTTAZB2pJkE3GnTHSIKTeVWw9jK5gABbA9Le6K9GPKrAupVBKyxIMSFL60aiLx4njfLDmShbs3ydf9j0N%2BrmJA5XnJp4pJoYPWouHfweoMcKWSIa6Rr8ixxbgtlHe6HpMZ0MmeGCu%2FwjIJAf3WzTqT%2BCQ9PaLWrMDvbccr52pvVZBeQ%2FfHt4d9LXtQTWl2w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F6223814809%2Fea28e55df8509c97f02e6c414065359d%2Fcanvas__1_.png)
 
 #### Comments (2)
 - **エノキ** (Nov 17, 2026 12:56am): うま
@@ -2025,7 +2025,7 @@ URL([https://tigyutube.tigyu](https://muratube.hospitaldelninodif.gob.mx/)beefbo
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4448356536/87a322d74fe9ba44985add3f7b25c19f/Screen_recording_2026_11_13_5_43_55_PM.webm?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hZyQggSTU%2BbdSuu4IZF%2B3JZFNa2LheSjwVPaSb2ziq8oWYgFcXkzLRIrAAvwC4XKIk9BoQgmZ8jcm6IZa0JbDuANTbgoPfVk4sF%2F5V%2BLWGa4U15FoVgT4fH06Z8GV8nivGGzz7SMtvy%2Fql%2BMHU%2Fl6UuGcTSBdguynA2XLTbkS2BMD056fNH4Ss78egxoMWTtgDRhR4jjeN9UiFCdQaHwL4ahngbD%2BM5NEU6Uu%2BTnuhlCopOefXspGecrJzLBaUi6t9e6BibX0H%2Bz3ruxBR2hlslmKmFhWFxwbxIEWCgq1S7hvD1IeOYyzx%2FRLPoHBkW1DNAvxuszlP6yKeP0GWH4NQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4448356536%2F87a322d74fe9ba44985add3f7b25c19f%2FScreen_recording_2026_11_13_5_43_55_PM.webm)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4448356536/87a322d74fe9ba44985add3f7b25c19f/Screen_recording_2026_11_13_5_43_55_PM.webm?Expires=1795577303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hVV8bF%2Fj9N82FaXYIsG7NICuvWg%2Fvk1I60h%2BdLje0IH19IxEPak9C8HJGiilg3%2BDd11XHq2p3TkJbi2PUV2%2FRE4CWGSexvSu0l0TLgXBJ3xFlZka%2F1iChDfFfobdGrc5R%2B1xr6HhhOh%2Fc3T4z2Ub52VlU0eJ%2FjgwIzOA79LW9psheqP0WO259WYFfv6f7%2F%2B1HsTRwxNiSHIwlg4sjI2zqlDCO32UNiKXoNoL%2FTS%2BwhQlHBdWhM4NsBPWbmVmooKnskYXVa3ZfKlPpiOtGtLz2m5UNkKUcnNsY7ZTOjiW7FyPJK3qU4xGI5OOQLx7hwMreJ4zCa5LuZ7AQuLW5Q0n%2FQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4448356536%2F87a322d74fe9ba44985add3f7b25c19f%2FScreen_recording_2026_11_13_5_43_55_PM.webm)
 
 #### Reactions
 - **Emojis:** 😭 (1) 😱 (1)
@@ -2105,7 +2105,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1795569488&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uxw107W850sdptj6DMehRIWIjOgqd4Ulv1rND1MAp3JN87HXyOPq2SJpV33vJVyYpcJg1B1Ohx64s9K8JswO6%2FSTNPCkIRUXEp8sHHp5LD%2Bz3VsQV9r5zYHNfYxh17TNMA%2F6uMyfUnUdKtiq1QLWVB5%2BHv0hhIJW62kes%2FHBSVD4D3fmpJ5eeng3TWVC9PshKQ0sR8kTXeh58rNON1YltoPOhjsAOK3sNOScw2e1ITvW6joqdmmFqQa0R8fpLnL1PX2%2FlymCvpV8fZKbTEl7%2BvkNI9IXQtnB6vo%2B6Cmw9nPAj2fApLHWrw%2BrLQS8ZPNykR%2B25iyGwaDmH80rH1Y8Lw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2500855734/08c709806873704a75efd33ddd627fbb/____411344.crdownload?Expires=1795577303&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=A4Rc5G4IeAOyc7wAxfeGedKzeRu4IvCnGnDeoYN7QewQdZb%2BDuerD9%2BSWz4Qnh5m8NiaQ5lvhTIvSaj9ZwePvX%2BO7yo6QWjwnC%2FXj2GtnAbCKTX2SNP1tfxmFY3iMoibvJnFMxEt5bvIgmxpHpYDIEtsWZOASYPRflEA7azmiShpB0pHTb7aDb7j7Ya%2FLYOIWkrSuB3XSOqFBJ%2FVC6HHCyunx5KCYJGwMo0vsdGXSqjURRQ6hS8sZZBau4VMTNCMODY0qfiEZUU7NtI%2FnobGy%2F%2FYGtOssW70hXzl2jNqe%2Fbd6qMStCw1JoL5CpTE%2B0%2Bxz5Z2BD8uBb0LZU3mJpu%2Blw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2500855734%2F08c709806873704a75efd33ddd627fbb%2F____411344.crdownload)
 
 #### Comments (3)
 - **とりっぴぴ** (Oct 06, 2026 11:34am): ?
@@ -2287,7 +2287,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 ---
 
 ### 7. Post 7
-**Author:** 彡 (454545454545454545454545454545454545454545)
+**Author:** 에밀리아 #진과_커플_프사 (00000000000000000000000000000000000000000000000000000000000)
 
 **・閲覧数****20000超え！**
 
@@ -2313,7 +2313,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 ---
 
 ### 8. Post 8
-**Author:** 彡 (454545454545454545454545454545454545454545)
+**Author:** 에밀리아 #진과_커플_프사 (00000000000000000000000000000000000000000000000000000000000)
 
 **・閲覧数****20000超え！**
 
@@ -2636,7 +2636,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 **Author:** ポタリック (s20212822)
 
 **どれ？:**
-- **学校のパソコン:** 232 votes
+- **学校のパソコン:** 233 votes
 - **自分のスマホ:** 7 votes
 - **自分のパソコン:** 12 votes
 - **その他:** 21 votes
@@ -2668,7 +2668,7 @@ youtube２個とゲームサイト１個漫画見れるサイト１個持って�
 #### Additional Information
 - **Post color:** White
 - **Created At:** Oct 04, 2026 10:30am
-- **Updated At:** Nov 17, 2026 11:02pm
+- **Updated At:** Nov 18, 2026 01:58am
 
 ---
 
