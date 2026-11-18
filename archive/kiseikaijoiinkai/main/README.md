@@ -1,13 +1,13 @@
-最終取得: 2026/11/17 17:31:28
+最終取得: 2026/11/19 01:44:04
 
 # 規制解除解除委員会
 
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-g07iihoi22rh2q7l
 - **Builder:** とるっぷい (TORI_TORI2)
-- **Posts:** 18
+- **Posts:** 19
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Nov 17, 2026 04:57am
+- **Updated At:** Nov 18, 2026 01:10pm
 
 ## 受付
 
@@ -140,7 +140,18 @@
 
 ## 雑談(コメンター用)
 
-No post
+### 1. なんでもいいよー
+**Author:** 中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい人😭#勉強してください (INMUKING1DAIME)
+
+#### Comments (2)
+- **にものだお！** (Nov 18, 2026 01:10pm): 煮物tubeを追加しようｗ
+- **にものだお！** (Nov 18, 2026 01:10pm): nimonosite.sitaci.comnimonosite.luhu.jpnimonosite.hospitaldelninodif.gob.mxwww.nimonosite.sitenimonosite.sitenimonosite.b-cdn.net
+
+#### Additional Information
+- **Created At:** Nov 18, 2026 11:27am
+- **Updated At:** Nov 18, 2026 11:27am
+
+---
 
 ## 雑談(ライター用)
 
