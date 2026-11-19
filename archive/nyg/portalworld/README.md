@@ -1,4 +1,4 @@
-最終取得: 2026/11/19 15:55:37
+最終取得: 2026/11/19 22:08:56
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 159
 - **Created At:** Aug 31, 2025 08:58am
-- **Updated At:** Nov 19, 2026 12:13am
+- **Updated At:** Nov 19, 2026 12:17pm
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -81,7 +81,7 @@
 - **Anonymous** (Sep 03, 2026 04:46am): ありがとうございます
 
 #### Reactions
-- **Emojis:** ❤️ (14)
+- **Emojis:** ❤️ (15)
 
 #### Additional Information
 - **Post color:** Red
@@ -289,7 +289,7 @@ youtubeサイトやプロキシチャットサイトGoogleで作った系のサ�
 ---
 
 ### 9. 東京淫夢大学通信制学校
-**Author:** 匿名 (gs214706)
+**Author:** とめかた (gs214706)
 
 [https://padlet.com/gs214706/padlet-s024ivz1s08f0bavfqqv](https://padlet.com/gs214706/padlet-s024ivz1s08f0bavfqqv)通信制学校はこの時代の流行りです作成日は大体ですすいません
 
@@ -3850,7 +3850,7 @@ a
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1795676176&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=igwfOn9pUxt2s3%2BugK2L3%2F166IyqHowLj4OzNpGO2LoCblaSU7ddnTLw%2BXjYDBJYWYnlzCO2bx9eElDgbOd3uCiQDS2GK%2B9lxZkKHbc8UHr0%2FikcGV3JF3F5kQB2HmpfZ9o5u1cea1ryD7xYUACDsYdsuU0X9K%2B6cv%2BTi4xyqUBB3jvvsRtBfetnrSYnscr%2Fe4zIFUue8miuSQiG%2BdbDK%2B%2Btxwy4wU6p%2F0hkMisLKL%2Fa1B8msLo9N4OGjPvtFAfCWf3UX47GL7lgRSu7oMYKkJ%2FIkn%2F0IYcRONnnz8qZKCApbAXrkS17R5jXxWHRljo5rGHgmpbi0TmiKfwQ9RWW7Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1795698581&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=m59CdLDlRg3ARIkK8W3nVKFNFXWJD1i1ByWmfBupXOT%2BThs7oOpmX%2BbtD1ImI%2F0C%2FrNqaHs%2Bqfa873C17S4lEjoTGBv0xikVL3QC1OT4UkSd4Gyl3hTAgHTu2kdyBpX2zOtfJE6HgKgOSll%2Bt2PEpoM19G9RTHlRvDY0YCBAIIlXsUw6N%2BqdITLhsK%2B8Olagm7nNef3wT8ggE9Hu9KlsSe%2B91vkjgw6sN%2FyGJPXYMKslta%2FUowDNbf%2F278b7eCKftQU9Xxr9V1ITe4oTvG8PhzrhfAeNK7YWY5u%2FX2tnis4dvnyldV850lVy6E2BT9uQoDgE%2B5P47llO7YwYsXH%2BrQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (4)
