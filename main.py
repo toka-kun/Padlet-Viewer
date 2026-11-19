@@ -11,9 +11,11 @@ now_jst_dt = None
 # 設定
 # ==========================================
 ANALYTICS_MODE = os.environ.get('ANALYTICS', '1') != '0'   # ANALYTICS=0 で統計取得を止める
+POSTS_MODE = os.environ.get('POSTS', '1') != '0'           # POSTS=0 で投稿数のカウントを止める
 CSV_DIR = "archive"
 RE_HASHID = re.compile(r'wall_hashid=(board_[A-Za-z0-9]+)')
 RE_WALLID = re.compile(r'"wallId":\s*"?(\d+)')
+RESOLVE_CACHE = {}          # board_id -> (hashid, wall_id)  1実行中は使い回す
 
 # ==========================================
 # ボードID一覧（ここだけ編集すればOK）
@@ -72,6 +74,20 @@ def convert_time(time_str):
     return time_str
 
 
+def convert_iso_time(iso_str):
+    """APIのISO8601（UTC, 例 2026-11-19T00:38:21.335Z）を JST の 'YYYY/MM/DD HH:MM:SS' に直す"""
+    if not iso_str or not isinstance(iso_str, str):
+        return ""
+    s = iso_str.strip().replace("Z", "+00:00")
+    try:
+        dt = datetime.fromisoformat(s)
+    except ValueError:
+        return iso_str
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone(timedelta(hours=9))).strftime("%Y/%m/%d %H:%M:%S")
+
+
 def fetch_markdown(url):
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     try:
@@ -106,8 +122,10 @@ def resolve_ids(board_id):
     """ボードID -> (hashid, wall_id)
     /padlets/{id} は301で正規URL(/{ns}/padlet-{id})へ飛ぶので、そのHTMLから抜く。
       - board_xxxx   : <link rel="preload" id="wishes-preload" href="...wall_hashid=board_xxx...">
-      - wallId       : "wallId":"123456789"
+      - wallId       : "wallId":"213015220"
     """
+    if board_id in RESOLVE_CACHE:
+        return RESOLVE_CACHE[board_id]
     html, err = fetch_text(f"https://padlet.com/padlets/{board_id}")
     if not html:
         return None, None
@@ -115,7 +133,45 @@ def resolve_ids(board_id):
     hashid = m.group(1) if m else None
     w = RE_WALLID.search(html)
     wall_id = int(w.group(1)) if w else None
+    RESOLVE_CACHE[board_id] = (hashid, wall_id)
     return hashid, wall_id
+
+
+def fetch_wall_info(hashid):
+    """ボード属性を /api/9/walls/{hashid} から取得する（mdより詳細・形式が安定）
+    失敗時は None を返す。"""
+    for attempt in range(1, 4):
+        js, err = fetch_text(f"https://padlet.com/api/9/walls/{hashid}")
+        if js:
+            try:
+                return json.loads(js)['data']
+            except Exception:
+                pass
+        time.sleep(2 * attempt)
+    return None
+
+
+def count_posts(hashid, max_pages=60):
+    """投稿数をAPIで数える（1ページ100件 / 331投稿で 4ページ・約3秒）"""
+    if not POSTS_MODE:
+        return None
+    cur = ""
+    n = 0
+    for _ in range(max_pages):
+        js, err = fetch_text(f"https://padlet.com/api/10/wishes?wall_hashid={hashid}&page_start={cur}")
+        if not js:
+            break
+        try:
+            d = json.loads(js)
+        except Exception:
+            break
+        n += len(d.get("data", []))
+        nxt = (d.get("meta") or {}).get("next")
+        if not nxt:
+            break
+        cur = nxt
+        time.sleep(0.15)
+    return n or None
 
 
 def fetch_analytics(board_id, cache):
@@ -156,7 +212,9 @@ def fetch_analytics(board_id, cache):
 def update_csv(csv_path, ts_str, row):
     """秒単位の統計をCSVへ1行追記する（同じ秒なら上書き）。古い順に並べる。"""
     os.makedirs(os.path.dirname(csv_path), exist_ok=True)
-    header = ["datetime", "year_month", "pageviews", "visitors", "engagementTimeMin", "posts", "title"]
+    header = ["datetime", "year_month", "pageviews", "visitors", "engagementTimeMin",
+              "posts", "viz", "is_commentable", "is_reactable", "is_remakeable",
+              "is_premium", "created", "updated", "builder", "title", "source"]
     rows = []
     if os.path.exists(csv_path):
         with open(csv_path, 'r', encoding='utf-8', newline='') as f:
@@ -195,28 +253,22 @@ def update_csv(csv_path, ts_str, row):
 
 
 def parse_md_info(md_path):
-    """保存済みのREADME.mdからタイトル・説明・リンク等を読み取る。
-    mdが無い場合は空の値を返す（info.jsonに入れないボードでもタイトルは使う）。"""
+    """mdから読む（APIが使えないときのフォールバック専用）"""
     empty = {"title": "", "desc": "", "link": "", "builder": "",
              "posts": 0, "created": "", "updated": "", "fetched": ""}
     if not os.path.exists(md_path):
         return empty
-
     with open(md_path, 'r', encoding='utf-8') as f:
         saved_lines = [line.strip() for line in f.read().split('\n')]
-
     fetched = saved_lines[0].replace("最終取得: ", "").strip() if saved_lines and saved_lines[0].startswith("最終取得: ") else ""
     content_lines = saved_lines[2:] if len(saved_lines) > 2 else []
-
     title = content_lines[0][2:] if content_lines and content_lines[0].startswith('# ') else ""
     desc, link, builder, posts, created, updated = "", "", "", "0", "", ""
-
     for line in content_lines[1:10]:
         if line == "": continue
         if line.startswith('## '): break
         desc = line
         break
-
     summary_start = None
     summary_end = len(content_lines)
     for i, line in enumerate(content_lines):
@@ -227,31 +279,85 @@ def parse_md_info(md_path):
         if line.startswith('## '):
             summary_end = i
             break
-    summary_lines = content_lines[summary_start:summary_end] if summary_start is not None else []
-
-    for line in summary_lines:
-        m_link = re.search(r'\*\*(?:Link|リンク):\*\*\s*(.*)', line)
-        if m_link: link = m_link.group(1)
-
-        m_builder = re.search(r'\*\*(?:Builder|所有者):\*\*\s*(.*)', line)
-        if m_builder: builder = m_builder.group(1)
-
-        m_posts = re.search(r'\*\*(?:Posts|投稿):\*\*\s*(.*)', line)
-        if m_posts: posts = m_posts.group(1)
-
-        m_created = re.search(r'\*\*(?:Created At|作成日)(?:\s*[\(（]UTC[\)）])?:\*\*\s*(.*)', line)
-        if m_created: created = convert_time(m_created.group(1))
-
-        m_updated = re.search(r'\*\*(?:Updated At|更新日)(?:\s*[\(（]UTC[\)）])?:\*\*\s*(.*)', line)
-        if m_updated: updated = convert_time(m_updated.group(1))
-
+    for line in (content_lines[summary_start:summary_end] if summary_start is not None else []):
+        m = re.search(r'\*\*(?:Link|リンク):\*\*\s*(.*)', line)
+        if m: link = m.group(1)
+        m = re.search(r'\*\*(?:Builder|所有者):\*\*\s*(.*)', line)
+        if m: builder = m.group(1)
+        m = re.search(r'\*\*(?:Posts|投稿):\*\*\s*(.*)', line)
+        if m: posts = m.group(1)
+        m = re.search(r'\*\*(?:Created At|作成日)(?:\s*[\(（]UTC[\)）])?:\*\*\s*(.*)', line)
+        if m: created = convert_time(m.group(1))
+        m = re.search(r'\*\*(?:Updated At|更新日)(?:\s*[\(（]UTC[\)）])?:\*\*\s*(.*)', line)
+        if m: updated = convert_time(m.group(1))
     try:
         posts = int(posts)
     except ValueError:
         pass
-
     return {"title": title, "desc": desc, "link": link, "builder": builder,
             "posts": posts, "created": created, "updated": updated, "fetched": fetched}
+
+
+def build_meta(board_id, md_path):
+    """ボード情報を組み立てる。**API (/api/9/walls/{hashid}) を優先**し、
+    失敗したときだけ md にフォールバックする。"""
+    md = parse_md_info(md_path)                     # フォールバック用
+    hashid = resolve_ids(board_id)[0]
+
+    if not hashid:
+        return md, None
+
+    data = fetch_wall_info(hashid)
+    if not data:
+        return md, hashid
+
+    a = data.get("attributes", {}) or {}
+    b = ((a.get("builder") or {}).get("data") or {}).get("attributes") or {}
+    links = data.get("links") or {}
+
+    # 作成者名: display_name があれば「表示名 (username)」形式
+    bname = b.get("display_name") or b.get("name") or ""
+    if bname and b.get("username"):
+        builder = f"{bname} ({b['username']})"
+    else:
+        builder = bname or md["builder"]
+
+    meta = {
+        "title": a.get("title") or a.get("name") or md["title"],
+        "desc": a.get("description") or "",
+        "link": links.get("show") or md["link"] or build_fallback_url(board_id),
+        "builder": builder,
+        "posts": count_posts(hashid),                # 属性に無いのでAPIで数える（POSTS=0 で省略）
+        "created": convert_iso_time(a.get("created_at")),
+        "updated": convert_iso_time(a.get("updated_at")),
+        "fetched": md["fetched"] or now_jst,
+        # --- APIにしか無い項目 ---
+        "name": a.get("name", md.get("name")),
+        "address": a.get("address", md.get("address")),
+        "namespace": a.get("namespace", md.get("namespace")),
+        "public_key": a.get("public_key", md.get("public_key")),
+        "hashid": a.get("hashid", md.get("hashid")),
+        "viz": a.get("viz", md.get("viz")),
+        "is_commentable": a.get("is_commentable", md.get("is_commentable")),
+        "is_reactable": a.get("is_reactable", md.get("is_reactable")),
+        "is_remakeable": a.get("is_remakeable", md.get("is_remakeable")),
+        "is_moderated": a.get("is_moderated", md.get("is_moderated")),
+        "color_scheme": a.get("color_scheme", md.get("color_scheme")),
+        "theme_id": a.get("theme_id", md.get("theme_id")),
+        "font_id": a.get("font_id", md.get("font_id")),
+        "upload_limit": a.get("upload_limit", md.get("upload_limit")),
+        "video_length_limit": a.get("video_length_limit", md.get("video_length_limit")),
+        "audio_length_limit": a.get("audio_length_limit", md.get("audio_length_limit")),
+        "show_author": a.get("show_author", md.get("show_author")),
+        "filter_profanity": a.get("filter_profanity", md.get("filter_profanity")),
+        "is_premium": a.get("is_premium", md.get("is_premium")),
+        "archived_at": a.get("archived_at", md.get("archived_at")),
+        "builder_id": b.get("id"),
+        "builder_username": b.get("username"),
+        "builder_paying": b.get("paying"),
+        "source": "api",                            # どこから取ったか（API失敗時は md）
+    }
+    return meta, hashid
 
 
 def process_padlet(board_id, name, is_info, ana_cache):
@@ -314,14 +420,11 @@ def process_padlet(board_id, name, is_info, ana_cache):
             else:
                 print(f"🔄 更新完了(info除外): {md_path} ({now_jst})")
 
-    # 3. mdからメタ情報を読み取る（info.jsonに入れないボードでも使う）
-    meta = parse_md_info(md_path)
+    # 3. ボード情報の取得（API優先／失敗時のみmdへフォールバック）
+    meta, hashid = build_meta(board_id, md_path)
 
     # 4. 統計値の取得とCSV保存（is_info に関係なく必ず実行）
     ana = fetch_analytics(board_id, ana_cache)
-
-    if not valid_fetch and not meta["link"]:
-        meta["link"] = build_fallback_url(board_id)
 
     if ana.get("pageviews") is not None:
         csv_path = os.path.join(CSV_DIR, name,
@@ -329,11 +432,22 @@ def process_padlet(board_id, name, is_info, ana_cache):
                                 now_jst_dt.strftime("%m") + ".csv")
         ts_str = now_jst_dt.strftime("%Y-%m-%d %H:%M:%S")
         n = update_csv(csv_path, ts_str, {
+            # 統計値
             "pageviews": ana.get("pageviews"),
             "visitors": ana.get("visitors"),
             "engagementTimeMin": ana.get("engagementTimeMin"),
-            "posts": meta["posts"],
-            "title": meta["title"],
+            # ボード属性（API由来）
+            "posts": meta.get("posts") or "",
+            "viz": meta.get("viz", ""),
+            "is_commentable": meta.get("is_commentable", ""),
+            "is_reactable": meta.get("is_reactable", ""),
+            "is_remakeable": meta.get("is_remakeable", ""),
+            "is_premium": meta.get("is_premium", ""),
+            "created": meta.get("created", ""),
+            "updated": meta.get("updated", ""),
+            "builder": meta.get("builder", ""),
+            "title": meta.get("title", ""),
+            "source": meta.get("source", "md"),
         })
         tag = "" if is_info else "(info除外)"
         print(f"📊 {name}{tag}: PV={ana['pageviews']:,} / UU={ana['visitors']:,} / "
@@ -346,22 +460,15 @@ def process_padlet(board_id, name, is_info, ana_cache):
         time.sleep(sleep_time)
         return
 
-    if os.path.exists(md_path):
-        info_data[key] = {
-            "title": meta["title"],
-            "desc": meta["desc"],
-            "link": meta["link"],
-            "builder": meta["builder"],
-            "posts": meta["posts"],
-            "created": meta["created"],
-            "updated": meta["updated"],
-            "fetched": meta["fetched"],
+    if os.path.exists(md_path) or meta.get("source") == "api":
+        info_data[key] = dict(meta)
+        info_data[key].update({
+            "board_id": board_id,
+            "hashid": ana.get("hashid") or meta.get("hashid"),
             "pageviews": ana.get("pageviews"),
             "visitors": ana.get("visitors"),
             "engagementTimeMin": ana.get("engagementTimeMin"),
-            "board_id": board_id,
-            "hashid": ana.get("hashid"),
-        }
+        })
     else:
         # mdが一度も取れていない場合も、info.jsonにURLだけは載せる
         info_data[key] = {
