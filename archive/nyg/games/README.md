@@ -1,4 +1,4 @@
-最終取得: 2026/11/21 11:10:42
+最終取得: 2026/11/21 16:44:56
 
 # おすすめゲーム紹介、ゲームの募集所
 
@@ -714,7 +714,7 @@
 - **るい** (Oct 10, 2025 07:58am): 規制
 - **Massa_games216** (Oct 12, 2025 01:22pm): ISGCいけた
 - **はるとねこ** (Oct 15, 2025 06:07am): しゃああ
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Oct 17, 2025 03:09am): 1v1lolできるの熱
+- **ᴎᴇᴏᴎ❤️‍🔥** (Oct 17, 2025 03:09am): 1v1lolできるの熱
 - **ふりふりポテト** (Oct 21, 2025 09:46pm): はるとねこさんありがとうございます😊
 - **かかし** (Oct 25, 2025 06:55am): Googleサイトがブロックされてます
 - **学タブ民** (Jul 01, 2026 03:22am): 無理
@@ -1180,12 +1180,12 @@
 - **あき** (Jun 08, 2026 05:31am): https://script.google.com/macros/s/AKfycbyTR5aZD028qJv9rwEBKGFHceFoC2mSqFOg39SnpcyGyHSclQxP5BBZ-f_9scQx6ANW/execブロスタっぽいいける？
 - **あき** (Jun 08, 2026 08:29am): いける？ 
 - **ドラとも** (Jun 09, 2026 03:50am): ガチのブロスタください
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Jun 09, 2026 10:28am): ブロスタ対応機種調べてから言おうか
+- **ᴎᴇᴏᴎ❤️‍🔥** (Jun 09, 2026 10:28am): ブロスタ対応機種調べてから言おうか
 - **ドラとも** (Jun 13, 2026 03:26am): 何ですかそれ
 - **ドラとも** (Jun 13, 2026 03:27am): あと、野球ゲーム欲しいです
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Jun 15, 2026 03:17am): https://web.cloudmoonapp.com/ja/game/com.supercell.brawlstars/ 規制なら何か通していける
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Jun 15, 2026 03:26am): [Attachment](https://padlet.com/Nanachiki/padlet-4b9092979b4e6dlm/wish/zV61Q6b06gv1QO98) 入った感じはこれ
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Jun 15, 2026 03:27am): 仮想マシン通して遊べるようになってるらしい
+- **ᴎᴇᴏᴎ❤️‍🔥** (Jun 15, 2026 03:17am): https://web.cloudmoonapp.com/ja/game/com.supercell.brawlstars/ 規制なら何か通していける
+- **ᴎᴇᴏᴎ❤️‍🔥** (Jun 15, 2026 03:26am): [Attachment](https://padlet.com/Nanachiki/padlet-4b9092979b4e6dlm/wish/zV61Q6b06gv1QO98) 入った感じはこれ
+- **ᴎᴇᴏᴎ❤️‍🔥** (Jun 15, 2026 03:27am): 仮想マシン通して遊べるようになってるらしい
 - **NyrikX(足立区陣ICFS系)** (Jun 22, 2026 07:52am): 前からそれ知ってたけど、初めてやる時だと必ずgoogleで登録しないといけないし、学校のアカウントしかいけないけど登録ブロックになるから、結局学校のchromebookで遊べないということになる。
 - **Akadayo sab** (Jun 23, 2026 12:09am): 遊べるかなhttps://taiko-weeeeeeb-1028608754151.us-west1.run.app/
 - **ヤマバナ** (Jun 24, 2026 11:38pm): https://script.google.com/a/macros/izo-ed.jp/s/AKfycbw_Joicm3JqUAdiG_opxPnoEAO7tPJwaUCs8Ve6dPlQoZssRhoCf16yZWBMndEo8Dbu/exec
@@ -1244,15 +1244,15 @@
 ---
 
 ### 4. ブロスタらしい
-**Author:** ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛ (neon_ix)
+**Author:** ᴎᴇᴏᴎ❤️‍🔥 (neon_ix)
 
 遊んでないから知らない、普通に入ろうとしたらブロです
 
 [Attachment 1](https://web.cloudmoonapp.com/ja/game/com.supercell.brawlstars/)
 
 #### Comments (4)
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Jun 15, 2026 03:31am): ログインが必要らしいけど、geforcenowとかxboxcloudgamingと同じ感じなので一応安全です
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Jun 15, 2026 11:33am): 日本語弱者
+- **ᴎᴇᴏᴎ❤️‍🔥** (Jun 15, 2026 03:31am): ログインが必要らしいけど、geforcenowとかxboxcloudgamingと同じ感じなので一応安全です
+- **ᴎᴇᴏᴎ❤️‍🔥** (Jun 15, 2026 11:33am): 日本語弱者
 - **NyrikX(足立区陣ICFS系)** (Jun 22, 2026 07:53am): アカウント登録がブロック。しかもアカウント登録しか最初は通用しないみたいです。
 - **ヤマバナ** (Jun 24, 2026 11:38pm): https://script.google.com/a/macros/izo-ed.jp/s/AKfycbw_Joicm3JqUAdiG_opxPnoEAO7tPJwaUCs8Ve6dPlQoZssRhoCf16yZWBMndEo8Dbu/exec
 
@@ -1268,7 +1268,7 @@
 
 テトリス自作したんで
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1795831893&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2HjuzMUV%2Bjt8dny%2BRlHk8huGLAIDkRxY7So%2BVZZxUWpY8icTQZqjTe4pY88TPDzcLsq%2BD2CaBDTv4g9EZpsRMp056FVHPPXwGoVqjqMe%2FJlTN6qqK8xo46kGsmLD5xSwa%2FUmy75XfNhNZKMIvv6WIDJvPW6b0B6KwLwOA2RxRSL3kTHhOXf8TSD30hHHKO6rr3nTiRK7SC5T1V2iYwCuYbjVa9RNL%2BwwmTgmBnW0qtcdpYLKtsqcGLYeYqLFwhjr6npINY%2B%2B26VifjvqkqWNxjxYSfWz4HOQ6b4GlA3Emw%2F1VBF82hP7BkYwf%2F5Xf6DPRJtplYYTt99zgPBDM0HSmA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4552378599/7218e8d6477daea0e2e53dbd22476c5d/html_tetoris.html?Expires=1795851943&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Bij9B7u6t7vXpmaqVQdgs7VQ8gFtyuLJ5C5dbvtyknu5p0mldChzcEyh3RO4Aq1fWRPux8jigKZv0%2BqwkDiuy58s%2Fa4HpzlLduFIokjA71goF50GGV4LEBjPgK9VdUogx8BNnk5IzucrjDdg37Zt9tWRstR7Yg0U%2Fg0Bp1vAb58QAss5rn1jDJxuYIYBGX%2FRGfEWV5xNhgxg0EVxbXXVmawgt3jSzEq9xrg75M8zOL8J2bhctZ2d5nOCBuTMH373ekR8mHFo3rIqy%2BNKdQteBYggtWtN1GSp5b7qY2pNZEZn7Qnhnd8UPMR0CTyRAxFpNj7E%2Bw%2FnoUuzCdBV7v6r0w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4552378599%2F7218e8d6477daea0e2e53dbd22476c5d%2Fhtml_tetoris.html)
 
 #### Comments (6)
 - **RX034** (Dec 02, 2025 08:28am): 良ければどうぞ！
@@ -1290,7 +1290,7 @@
 
 テトリスだよ
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1795831893&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=lJQ7u4xfiPuxUfMUvmmf65M2BCkNyTOVcfAj7GkGVJm6c7w2J7Jcw3CVbzz05LmZGhe01fj5lJqXnbOExnQaOosXt3e12iwGG5B6Wh%2FQ8xQEr%2Fa0z%2FIlBe%2FOADSJtCal0t%2Fu5Zc8r%2BgsB9z2TeN0sDyphceYlvthOEyhGmDhTNwyEhRuAkqxD6oufloEaMAerhgAIp6bREwrZEbT67tlymtZ8etIIIVyM0BTB%2BoppqN2Aob9s%2FjqMmGkeSzVT3m52wlvI41C0GQnUmkYx9vd7EH0zRNNjYCWAOU%2BOrUIKJ%2FGA%2FOzgL1M%2F0qV4IwW3LUvuftRDWzmYfGL%2BE9ZlF%2B%2B8g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/02bac80070622c66f55b1477e3e5a311/____.html?Expires=1795851943&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=A2Qlz26q994uZyNY52npVijOBG0GPt54MJcuBCHBwXGaoNW6soovcMBRZ9qQZhpyAtJEomrF8D65sYSbJLjgXmfgjz%2Br8y6rFXLgOWQFjzoiLsJbUwGT%2BgwfI1Q0j4p6Ecyp9fHPi%2FtfqGIQtxVW2o8Sw4BlkTOo2VWRnVWcmR9nopRHFiKh13Asiwlgo8jVVOaYmi88tuwqu6DpMlEVjvccyDnNqZG1c6xdWQDYOfX7Cyj4RI018opBNjywolemcfHGrz%2FNz9XUSZP9ZKOY9CjhFWS7nVlgd3Z6b5dnADf%2BEZGUAIAhlCZ8EbCdLBNnchvzPxZ1VbA%2BBK%2Br5OadMw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F02bac80070622c66f55b1477e3e5a311%2F____.html)
 
 #### Comments (1)
 - **はるとねこ** (Nov 10, 2025 01:54am): なんか表示できねえ
@@ -1307,7 +1307,7 @@
 
 オセロゲーム作りましたレビューください
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1795831893&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=pX27c5%2FaRVOeQVAcjxuC8J%2F%2FcAZl6UsXlVDdWgW0tGV%2FJIL6%2FQXZAsXbGgeaelP6J3UdAl%2BxxxBnW2DQDsEZM7LmBxm9G%2BKFfV1coT8larjCeQwJMlSf9FJE11ahJZg8BdPJxqtEXjCfzH9L4y0HbgW%2FVsbGBnlv%2B38Zu7PxPOD%2FtUFgLHrclaRwD%2BhtFUI3mGyi5g5rIBqgdeG0K5cvpHJIkIJUEk0zYHJya4j5S4ArVEpRHNygpLdnfDIj8IcWvvnI%2FA1gcgCv4rRbffoIb2dOi3LJTgw4ZklV%2FUahECi%2BT9LeFBemDROqSORVsAroY6H45eK3KaO7iDuuYyv0EQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/4701935869/7229a3a1a6acd7092a5f2f0140051479/___.html?Expires=1795851943&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=2Gc5vhlARQ9t%2FLZxk3jR2pmWGWHnakunQDzy8HlWdowHwVhtmkB4fl0vtICXcJpnT6ikiLsTyppeV%2BGABbGyRYqEs42drdYo8reN2Niveg4ARNWWc4Ndnd73cfA8HbRkHR2hBstdPviQUNz2u8PmdRrwtOP9PsA8ZOS8x74dpH9dZsGhb4pUNCBrvPDrIVD%2FLJ3UlZgSzlm%2FkPDsWL1FcrCwnPH6iucMcvtPvRJQG90AyyIK3X0hjZPghiLVX3%2B51WLDuJvKEyDB3nrQIgMl6vAPwW2IIFIP%2B3LUy2uKNftmY2g%2FBqWPM9NmRSG25gIzvgAgbt3%2FqiBwQ4LKStekvw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F4701935869%2F7229a3a1a6acd7092a5f2f0140051479%2F___.html)
 
 #### Comments (3)
 - **そこらへんのおでん　#煮物33番弟子#りおと44番弟子#kurotuki族中佐** (Nov 08, 2025 04:36am): 思ったよりAIが強くて負けそう:(
@@ -1359,7 +1359,7 @@
 
 英語のみ対応です
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1795831893&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QBEWdk18U8ZCCKIIQ2W72LC0Dc8ZkriEwtqSsAlZLIbsE3yTk%2FpLCkj3bP%2FJ84nLkGiNCO9Zx7O7RPWnPDXsp6CdIxOLPMO9ToTFepiF4x0%2FTtXRZZJ99nks%2Bxg7whnlQ%2BnQKAbhsbcnp7tHp%2FY3nEOEhi1uZ33QP7kNj%2Fyfa%2F1SSaTU%2FEhFc%2ButOvCLoiG0KMasU6EKvpuJiJkBn22oROnq0E4TvumXQ5c8mgYI1%2F%2FtQrYs0GUtxC0hsYjfOdOAi59aTlCelaiSaxyc2pG0W%2BOYSkSL678pNe0vGQYPwB9TAWaYaYiqkORApRb6lxEl%2BXHpz1%2F%2BpGWD27yx%2FJHpMw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3251858734/062fcdd485e28adb0bfad72298cec2a0/Undertaleyellow.html?Expires=1795851943&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=z7FxD2VImaZZnVriOcmDh%2FSYn6Xe8B7Q%2F7X5OmF90Foqa3P4%2BEOW369NWqmvllHbSWTaMicKb%2BCt6xlYl59f8hWL8hEY3HJXcXx6tA8Vodu8bqiqCgH7G852XvUFY6U6OF9oyloJ2%2FMg1wU2ffzJdkuYSf6Ds3dZE90bsunCFzLaqB1N0Z%2B%2BAvEk2uMoB%2FJSLloJe9wR080CqlXz%2B0n5Sz0pMIJvrzf4yr9mYJJhQgmOJWfxPbhOJwjgngl24QEu9AzCk%2FRi78prNO%2BMhRQ5W3q2MKYBKXvcxQQAmWb8I2RO6RnOCHrTAuitg7pDaaznypqgYOfMxqezVocX6zTUeg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3251858734%2F062fcdd485e28adb0bfad72298cec2a0%2FUndertaleyellow.html)
 
 #### Comments (3)
 - **カービィ** (Feb 28, 2026 02:14am): どうやって進むの？
@@ -1864,7 +1864,7 @@ web系の東方には珍しいみょんがいるよ
 ---
 
 ### 39. Post 39
-**Author:** ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛ (neon_ix)
+**Author:** ᴎᴇᴏᴎ❤️‍🔥 (neon_ix)
 
 [Attachment 1](https://wondermerge.gcdn.co/publish/html5/)
 
@@ -1872,10 +1872,10 @@ web系の東方には珍しいみょんがいるよ
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (May 27, 2025 10:26am): Omoroi
 - **Calm Magpie** (May 27, 2025 11:16am): dekitakedoragui
 - **ZENTA＃𝐓𝔄𝐊𝐔Y𝔄族5代目＃oddo教福教祖 # りおと10番弟子** (May 27, 2025 11:35am): Orenobaaikarui
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (May 28, 2025 01:58am): yatta-
+- **ᴎᴇᴏᴎ❤️‍🔥** (May 28, 2025 01:58am): yatta-
 - **Kranakusi  X** (Jun 03, 2025 10:01pm): これ面白い
 - **伝説の男　目高功塁** (Jun 23, 2025 02:30am): 出来るけどなんかすぐバグる
-- **ᴎᴇᴏᴎӝ ❤️‍🔥 -.- ͛** (Jun 24, 2025 03:17am): どういうふうにバグる
+- **ᴎᴇᴏᴎ❤️‍🔥** (Jun 24, 2025 03:17am): どういうふうにバグる
 - **眞田悠希** (Jul 05, 2025 01:13pm): 序盤おもろいけどデータ保存できないかrやり直し天国
 
 #### Additional Information
