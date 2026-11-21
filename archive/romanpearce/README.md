@@ -1,13 +1,13 @@
-最終取得: 2026/11/21 16:44:56
+最終取得: 2026/11/21 19:13:21
 
 # ローマン部屋
 
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/padlet-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 2
+- **Posts:** 3
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Nov 21, 2026 07:40am
+- **Updated At:** Nov 21, 2026 08:37am
 
 ## セクション1
 
@@ -24,7 +24,16 @@
 
 ## セクション2
 
-No post
+### 1. 全削除❓
+**Author:** さみ (sami_14)
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Additional Information
+- **Created At:** Nov 21, 2026 08:37am
+- **Updated At:** Nov 21, 2026 08:37am
+
+---
 
 ## セクション3
 
@@ -36,6 +45,9 @@ No post
 **Author:** Anonymous
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Reactions
+- **Emojis:** 🥑 (1)
 
 #### Additional Information
 - **Created At:** Nov 21, 2026 07:40am
