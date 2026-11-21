@@ -1,13 +1,13 @@
-最終取得: 2026/11/21 19:13:21
+最終取得: 2026/11/22 00:37:58
 
 # ローマン部屋
 
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/padlet-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 3
+- **Posts:** 4
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Nov 21, 2026 08:37am
+- **Updated At:** Nov 21, 2026 03:09pm
 
 ## セクション1
 
@@ -37,7 +37,19 @@
 
 ## セクション3
 
-No post
+### 1. え？
+**Author:** ぷりん (purinndayoa)
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Comments (1)
+- **ぷりん** (Nov 21, 2026 03:10pm): なぜ消えてるん？
+
+#### Additional Information
+- **Created At:** Nov 21, 2026 03:09pm
+- **Updated At:** Nov 21, 2026 03:09pm
+
+---
 
 ## セクション4
 
