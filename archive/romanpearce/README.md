@@ -1,13 +1,13 @@
-最終取得: 2026/11/22 08:10:04
+最終取得: 2026/11/22 10:20:27
 
 # ローマン部屋
 
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/padlet-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 4
+- **Posts:** 5
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Nov 21, 2026 10:47pm
+- **Updated At:** Nov 22, 2026 12:39am
 
 ## るーる
 
@@ -53,7 +53,20 @@
 
 ## 雑談
 
-### 1. Post 1
+### 1. すまん権限返して
+**Author:** Orivia (ProbablyP)
+
+〇
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Additional Information
+- **Created At:** Nov 22, 2026 12:36am
+- **Updated At:** Nov 22, 2026 12:39am
+
+---
+
+### 2. Post 2
 **Author:** Anonymous
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
