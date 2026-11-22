@@ -1,4 +1,4 @@
-最終取得: 2026/11/22 12:13:47
+最終取得: 2026/11/22 17:31:18
 
 # Padletポータルワールド
 
@@ -9,7 +9,7 @@
 - **Builder:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 - **Posts:** 159
 - **Created At:** Aug 31, 2025 08:58am
-- **Updated At:** Nov 21, 2026 05:21am
+- **Updated At:** Nov 22, 2026 06:34am
 
 ## 部屋はこの下のセクションに投稿されます。
 
@@ -114,7 +114,7 @@
 [Attachment 1](https://padlet.com/padlets/s0243wvvhzcgg7ixsbji)
 
 #### Reactions
-- **Emojis:** ❤️ (3)
+- **Emojis:** ❤️ (4)
 
 #### Additional Information
 - **Post color:** White
@@ -165,7 +165,7 @@
 [Attachment 1](https://padlet.com/padlets/s023zx0yvu8eadhhmg9j)
 
 #### Reactions
-- **Emojis:** ❤️ (1)
+- **Emojis:** ❤️ (2)
 
 #### Additional Information
 - **Post color:** White
@@ -175,7 +175,7 @@
 ---
 
 ### 4. 反教育委員会
-**Author:** 𝓝𝓪𝓰𝓪𝓷𝓮𝓰𝓲＿ねぎっち🟩🧅🅢🅛🅘🅜🅔＿＃makunami族14代目　♯狂鳥族5代目 (manasusieru)
+**Author:** 𝓝𝓪𝓰𝓪𝓷𝓮𝓰𝓲＿ねぎっち🟩🧅🅢🅛🅘🅜🅔＿＃makunami族14代目　♯狂鳥族5代目　＃初代つばさ教 (manasusieru)
 
 あ
 
@@ -190,6 +190,9 @@
 **モデレーター数:** 5~9
 
 [Attachment 1](https://padlet.com/padlets/s024tlah8nn558cxt3qg)
+
+#### Reactions
+- **Emojis:** ❤️ (1)
 
 #### Additional Information
 - **Post color:** White
@@ -3850,7 +3853,7 @@ a
 ### 1. Post 1
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1795922072&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dONlGYVPPeDf2lXsTY%2BSBSKCim0gkJdSAvJ0fyRMX0%2BFfcIFQ%2FdgjHjgtWX2pmP0sz4rZ6ejS9bsTEDhP%2BKuAwMqpNvnFSm0B8WLkuZ%2FHSuX9wmEeJOgx72iTV5%2BC1AaihH7nAF%2FStz1nicFWfqgGBOLoHaikL4rP2iwWl7uud86HKYRa%2FfGHncHg3BvLQqNVL8kv1Wr3Op4XaMpWayWZ1XQovmjuCtgszI%2FHf%2ByJDvr6IF5BJ7KBtbHswU7luOsrAnye8tpzBWzHA8F%2Fle0rRVeQBOQL9BC3RHRns%2FOEAvieQeSvrK2SUW%2BzMW0ddGU6AXJman1isU5vYK1VzHoPQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7fe65f50e8d99dc4fcbb26cd145f7593/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png?Expires=1795941119&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=H%2B7qvw695yDonD%2BtjEAgTE6dQEb54PCjkrSTB%2FNL1XsjWaDo9vGuipUOI%2BVmg%2FYG%2BapHlND4Pzx3cdEBHa4MJfh9V0tCBVKqNs5NmhrIxzzK%2FUq4QiLMkfBY0oxNyeja91kk4ahskfJNwtdcYuzS2bAZm6AdD3XDfO8TFNm%2Fhky7C%2FOYaDfvZT8kswhzaK%2BF0iSDL4U3llf4mjLDn0UbiJl%2Fg7fQGoTxw8ksPgsnjTqCXlFERGb9Ym8d9G6W%2BwxqlouuIsa4hypE7cfNU1H9W3u3hBAKlj8LLZ1tadhP68BKxhKkrn9loilDFlvMAEEmVdJp%2BUOZ8AGiuqA4Cf4wrA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7fe65f50e8d99dc4fcbb26cd145f7593%2F68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f7061646c65742d75706c6f6164732d757363312f323330393239393132312f66613739346235323131653832353837313039623864316263363163326532392f5f5f5f5f5f5f5f5f315f2e706e673f457870697265733d3137.png)
 
 #### Reactions
 - **Emojis:** ❤️ (4)
