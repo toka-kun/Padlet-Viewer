@@ -1,4 +1,4 @@
-最終取得: 2026/11/23 04:31:56
+最終取得: 2026/11/23 07:14:49
 
 # ローマン部屋
 
@@ -135,7 +135,7 @@ Suixaっていいます。
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/c3f44a4122ec451b521d8cfa3e113a5b/image.png?Expires=1795980831&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=nrbPaK6RZZuqESfoY166cpqittISffOU4MRNPkQo%2BN9rUuKcT%2BFThwW%2BoqfTEpsd%2FzLrGqT2RhA4sqJfU%2FhWJbERvOBZUHE33VxaubDFoqdNnMAn0DjstGuNuU8m%2F6lfT5tNJ4XmgrPt3xC61blqGKkFWxSTrD8PZzA8Lwa24ePlzbdNVpv0UVBXkEA0oik6q3n3I%2BTB76AV69CkRRqYyE53qVcf2sprMojZO9Euxh%2BGP9YxkIUELLTKuF%2FHEubRex9k%2FI9b0ocPBk5JPBiuQQrkFenrpPKXt6W1d02%2B81ZF11io%2B0%2B%2BNkZUE9UEL7x83kuuvTf4rGFx1zL%2FL02gcg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fc3f44a4122ec451b521d8cfa3e113a5b%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/c3f44a4122ec451b521d8cfa3e113a5b/image.png?Expires=1795990618&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=XEwxdKG35wZSfBcO10kXhFno2VsxeZAh9fVqrj3k5XAdNNw1V4IN0RNb9iRV9Dw6Xlt1tmuFWrwBt95%2FscQhDL0xJV8%2BFmrg9mocBsUhVXQ%2BFwYEQz%2Bv6wejvn%2BJD7luFLjOmqQYddIgFqGqWduQkJz%2Fz90TLjiq2EtjAmLTGG6IXQRnAue1lTvzvLN6UmR9%2BiAA%2BMQj2qt8Fb8%2FBCIWAZYib8cGqBQQwDwv6uUItlzomoK26iHnM8bjS1MiIu%2F5ztF8nkAC9vqV3%2BhMikywK%2Be78bv39RU%2FhRxGo1XRwfrW7HCRk6vDnsNI2HUfJeiI5ZImbcZcpnHB1URoLkZFQw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fc3f44a4122ec451b521d8cfa3e113a5b%2Fimage.png)
 
 #### Additional Information
 - **Created At:** Nov 22, 2026 05:52am
@@ -183,7 +183,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/b2a860c47328da59d01c1135b0305026/image.png?Expires=1795980831&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=s5%2B%2BGdBEMSjqbhWHuNYl%2B%2F41CjlFk128Y%2Fje4dw9mi8iQC0YzwEEPBT2oFkzQniwaho2u2QVkjNxh%2FSd%2FDVLtan9jcRjPNJAsmT4Qw1P4Q%2FqEPxi5zoYPVkuY%2Bo5ffa%2BR9Fon7b6w%2FGm2VTDJ7X61mmcYqFlkHrOLDwKAu9oLPH34yEm2WxzEx06yyp4o%2FMxG0tJ%2B21TS3t9WeDYS%2FOQn%2B8YXNi3PTIdm1ewniVjSp8hMvuHTS%2FjYdXJl%2Fk0EGbhVW7BjAifu30Tcbzma2c7SpFHtWctMgZyAM1uF62QZGtq0hoKIsrizJKXdBbJ1giMeivLuKfBjKLeHWqHNXzX9Q%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fb2a860c47328da59d01c1135b0305026%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/b2a860c47328da59d01c1135b0305026/image.png?Expires=1795990618&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YFjb7mpo6UdVK3maS1MVZbj3bJJtBY0p2u2iZKwH1B8ECQ6F5sepd%2BPL1%2FWdr5%2FVABpeJZH1leEpA31xwcAXGfba7PYs5l0tnMpH9rBHsmPbUnO91no0IqNXHnT0zyNyagkZ1CJUz0LYBpoknE71zk%2BhuBQ06NgBqoTHtzQZbyeVxidpl7HVrw%2Fj1iFRqdLvM2EzonUtgPWH8PdcG6Ps03f6M8yIpah1KYjuV3OEfa8ALEdHsE7XjDZvIfpiVCnqbej9s8v83n%2BW8EcOGzemT5IBIQDpNzAXr9yK1ystxtnkNiIyQbM2H2v2VFabMAeNlRAo3%2Fkli8PEubOS0cwpiw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fb2a860c47328da59d01c1135b0305026%2Fimage.png)
 
 #### Additional Information
 - **Created At:** Nov 22, 2026 11:14am
