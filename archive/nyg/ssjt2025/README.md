@@ -1,4 +1,4 @@
-最終取得: 2026/11/23 21:42:50
+最終取得: 2026/11/24 05:32:55
 
 # Shell Shockers Japan Tournament 2025
 
@@ -448,7 +448,7 @@ NYG **3 - 1** 帝国
 
 GMB **5 - 0** NYG帝国連合
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/cc94558a9580c9eafe8507fb6e4140db/stats_0.jpg?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0j0zogirTFPOWEgHeM04zMswHuWz4cvEMRKZKtvT272Dq6oRmUeG%2F9Xmm3ka7Uz1tHSxFXP6PGXQNN8%2FKd2bSGEwaZwybP1v7BNCB25Geum2BA5JqPFxl7FocULccxbX7HBjfSnzMUOHFXK5ivNtVmsnX1cLRXc7QorKTnUdZR0HvusPJn7ezmLTP7VcqhT0Jn5TJTo637YXPwSkqxRgtXOGdg5bYmSaxOwXLqlUUVZaAl2f7Zyty03iNc9Pl6XR0KRndlXOFma6059g8f1lmGhc1xGaXveYvtOsP1SzzAj%2FWCys3oaHV18dQ%2FX2quYDZzVN2ne2rpevfulj4haUrQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fcc94558a9580c9eafe8507fb6e4140db%2Fstats_0.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/cc94558a9580c9eafe8507fb6e4140db/stats_0.jpg?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=QngcvI%2F43GOzmn7UEuO4MgF73jmVr5344lolWQ2KV1GLahryhug1nht4qPBZTPgjSf5%2B%2Bm67RQLALeXCTV1tEVHmdnz7YyIWd4sWQBDG6bKaO0cqPKdiXIOiRN5d7FQ4DKinGW%2Fxg%2BncS5A6GVnJ7zCz77ruQWwLIdhea7ov12Wt8tWPVRebkfm4Do5AODUsN6JpvID1MzY3P67FgCF3ozkGxIDgdbOXW2722GKCXXN2AzPz1X%2BvnbJo%2Bs1ZENPipNUoqtLZjiGSoxF7nSiTKPJ156%2FxBX2ajH%2BxuNnkACAvqVMcq2zoH93P6vcTpBLzck12DC10tQd1OA7pMAfDsw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fcc94558a9580c9eafe8507fb6e4140db%2Fstats_0.jpg)
 
 #### Comments (2)
 - **꧁最弱だよ〜꧂** (Jan 04, 2025 01:21pm): 連合ボロ負け？
@@ -467,7 +467,7 @@ GMB **5 - 0** NYG帝国連合
 ### 2. 整理したStats
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/4903f669bfc9245aaede857cea878562/Screenshot_2025_07_12_23_53_05.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=w%2BucfclYUo9Pq8cFfJmx5Bv%2BfI4DxqriBw7pNPPXl17rNt9x%2BRY6UINgCSxbe%2F1x7WnxYecpbEIvLQS24uItoIyFh7qmEvLYKpvOKe9TX17l3CBa%2FwSSWiR1tK%2BpSoboy%2BVkGrs5U3%2FSZmOPTPphn1InVsz3YxDC3fMv1GF7HTLOdaVDLlIoxqEmMskyHj6Jr2HdgZyIJYc3cZdrmrvmRe1izMSnP0B9FkScMwAFjguDC1Y06LgLJWeRPU%2BQXGrGXi6YQo%2FVCGCbvgfiiworTbukcRfCUNreizhLbGULCR5U2GoaBTHCBTKzC3bi%2FZngSVaLLPYd1NbeJHezV20DZw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F4903f669bfc9245aaede857cea878562%2FScreenshot_2025_07_12_23_53_05.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/4903f669bfc9245aaede857cea878562/Screenshot_2025_07_12_23_53_05.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mkNBeodSk8pqaBCmmpfDBsBabk%2BJMjgl0wKqvqKn%2B9mBIQ8ortTUo4AKT9KxCLBHZRmbOO8pC3CjAXzdgCMHJaCebuA%2F26dJFGhwymvAOqLEHTMax4Fk%2BdcRbA2yTW8Gn9xRRoEzre41%2Fv7MnUs6wF9RyMJ1lXJ8p3qC4OYBhBlGSylv4LaZf8eRPZBYZ6DBlkzP2kSDUFA4Ee2CukYkZtzGJuS4EMf%2FxxukwD5etOdGxe7JV9JpDRMBaVj05p6KNNa%2FUnnuaoqXF%2FEcv8wuUNQ%2FhN19IRwhqMyLpxnjs0L7PLMwc2pyPoPdWeqIYHUVpwMFJjYqPUk3eTpLV229gA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F4903f669bfc9245aaede857cea878562%2FScreenshot_2025_07_12_23_53_05.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -511,7 +511,7 @@ GMB **5 - 0** NYG帝国連合
 
 GMB **5 - 1** NYG帝国連合
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/4ded6219c9a32441c1c6ef675ca2f4c6/stats_1.jpg?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=YVVb12RXZcQzSlpgtUO5Qgxq036jj5sOQNJdeA%2Fn7qDEeHonEfvWFvTv2FcQTQPt4dXQa5My0nlvAREqlXJZ96rsFHbUif3jdhz6hbKbPz7wYa8JqJA30y42H3YyFZw%2FaJen2ueExG8TtfkoK1d%2Fx%2F6TuWYLcK21tdNKRajiSTX%2BAHRn7oKnPFlXrYBl2IQX%2BoOIu8NBwe6UyUQL9Rtg1kp0YVUf6bSHJCa%2FXBY4L39wLFwXVKnEpujr5iu6zIxjE1a1RfOv6y09mJ%2Bdjovs2wWxg2n%2BBm7kcZhW92SfjYat4r%2BFlp20S1Q0nv0X0vsCL988zRNvlG9UTBrBrMWzpg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F4ded6219c9a32441c1c6ef675ca2f4c6%2Fstats_1.jpg)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/4ded6219c9a32441c1c6ef675ca2f4c6/stats_1.jpg?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=A6KB5YSBURDZj3nYOA6iZf4J9be0e7Kb35P8q1LS5gCqYYT7CYWqjzJiW5KwTDcUqlrt4HXyRtX1ccUhGn%2F4T9xYWECYyq4AJ6qCUKg3EQumeVgylc3PyO6uzjN98009cFKmSH4Vyt3V297ZauBU82uhYSytI%2BBS5G7cEaM4fzCydBYhj05lF7EpjCY52bp617b6S%2B9faHdTxgK2dMO6jj695mzkORQkfTpaXKmbk76uATra0Kc%2B%2FSShRoCvApNJDd0ii2%2Ffu4Nprz5peU7xJltergiCpoNzmQgICp2H8WmOvetyZn5JGi7DbXRXs4i6C9K0BlLsBRYtWywaSDRuvQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F4ded6219c9a32441c1c6ef675ca2f4c6%2Fstats_1.jpg)
 
 #### Reactions
 - **Emojis:** 👍 (3)
@@ -526,7 +526,7 @@ GMB **5 - 1** NYG帝国連合
 ### 2. 整理したStats
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/f613a26bfc72448b2cf55e4576f9c59d/Screenshot_2025_07_12_23_54_48.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=dKyQunDrBhK9XC0wcr9onXoxy8w%2B3fVM%2Bt2VUnN9MoDdj%2Bt8DDVa%2BX1ZJHJT9LfSMf536n0Y9FGDfpEkcgVBf8l8yBGPgvulaws8GIPODdvsDhxAcJ6HztyhopL0Hb%2FQUaU%2B8QyMsJmqFP%2FdIKElIejTpmQUHouxYQwY0YR9PRYC2XmCZ45UpmQspZ4ABmAi7%2BuXEs2ivUCawnrp1jJy7Ema6a%2FnMrrbQOd%2BQdYeEzClVcXP4qviZKr8UZQEgaXeCclkXwwKSu1epdQ0IuD3JjCTnBVid6iTzCsp1Ma62mLb%2B%2FpIyNgjlATyrspsngIRcTOPhjNQywuhW00BMxMXnA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ff613a26bfc72448b2cf55e4576f9c59d%2FScreenshot_2025_07_12_23_54_48.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/f613a26bfc72448b2cf55e4576f9c59d/Screenshot_2025_07_12_23_54_48.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=vy0YSmu2%2BDx8vh0u6mhE7a59zdwfkm%2FfBp8fe8ZrDiIxxFaDhCVsZTrqU1S%2F%2Frj%2FF4NWiEH2RTd5usGbbJdcteb2mHpAGrbe%2FDt6Rk4EBPW3cV2ns25c%2Bbw%2FLDL3w%2BXichgeUVJkSKdZhOFnvYqJ5cviSvLsDRj2MuIxm0kHkfMpC8a0fcPq7iJ%2BSzLfIpXLsjvDSc3zN3ua4UP2lOouAwJYuHwGLd%2Bb4RbPfI6%2FN3Yvru4YPWMr4A08FYdi49AW5c3Ly01AVSVCKD75HUsZrMfw4xZk8EwlK3M0pGiZVe6o6XGUk4WG5bIaHtWkz70S3up34FiCnYcrnUV0Q1C1ig%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Ff613a26bfc72448b2cf55e4576f9c59d%2FScreenshot_2025_07_12_23_54_48.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -570,7 +570,7 @@ GMB **5 - 1** NYG帝国連合
 
 GMB **5 - 2** NYG帝国連合
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/5d7fbe456d48225036d7d153756081b0/7f5ae43a0ffcca70c14b182dd648e799.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=MlpfM8Gfbx1vVz%2BysSsRTchLRxuPQAkIhE0Mz2ultziy2yxXJq2a22gTv9zzVKdd%2B7mQms7%2FvK%2B8eM9Xo8TLx6FXnTEAZ3lGttrRyCqn8awUkk0jIWupctr7yV5a03%2BuvVjCSJ0SyBTwOM3ERhpE%2BgkWMMSU5XEoHXxkONfJwCzbB7S8rzUTzm1Wp4Nm4Q7%2BnC0RKh3I4DLSirY2qM8fJEMOVlyPO96MLkKXeN30pjFgFst0lPfZIhq8zh3ekuCnvri%2FdHUdCn9jRhpvCwndobdIsZ4mnJnT%2BCBia2Z8NdwjDZuD6S7Q%2BKmZexfoS8pzS6PfTkq0ZFmk2CpgmkS8cA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F5d7fbe456d48225036d7d153756081b0%2F7f5ae43a0ffcca70c14b182dd648e799.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/5d7fbe456d48225036d7d153756081b0/7f5ae43a0ffcca70c14b182dd648e799.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jCZLU%2B%2FTCra0VJiNGlAfVplawFMfiH8c1aD2VzZ6sfHB2y0hCcVCq%2BAfgW%2FFKZVyOn2RcUb6zgSo1BxEGC22B%2FDbZA0hrOhqeTPOLxWTdxobDqHSNUweYdh9qS7qznXzX3SAE%2FSumpU8eLfwMQfCBx143LlcZ3MWYGdvxSWRqMxO5W50N21XmmSDrkFQucT%2FDgJEwPvAAzQaxFg%2FAACv57BECGGemoAWSM9lJVAWEvzBx0AnX4UdHxGix0aHOW2N%2Fy0J%2BGM%2BhRDLjVfSrzNnSWrQAMExuh3rk1lnhDAeTWmTCslFAuVZPS9ECSqVtrFTbxETWeDj494hMLUDtfkMPA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F5d7fbe456d48225036d7d153756081b0%2F7f5ae43a0ffcca70c14b182dd648e799.png)
 
 #### Reactions
 - **Emojis:** 👍 (4)
@@ -618,7 +618,7 @@ GMB **4 - 5** NYG帝国連合
 
 [https://d.kuku.lu/3nnh5gn6a](https://d.kuku.lu/3nnh5gn6a)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/c6b29e0382824cc390ed4094e9a5f64f/20250330_2040_bc6ce5239661434a6931e527844428b2.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=S05JiEu4PQ2MfG6EIV%2BOMXqKjSmyoaoHGSitbI%2Fpfi9kVu3O3p5rudGkyFpu%2BqMlrGtPtkwQrn8JJtyUj8QEEYwzo%2B0rOD9CiT0K3oJBWpysk%2FywbKUbivzd8BnTeWzmPcD%2FecKX68yUq67axwW0N%2BCYboIJSG9%2Fj8lIiVP3OBKQkSmUwAY2GjDtrlLLN95YLI8qwYxpPL7VkURtTJ02TZ9dgIZWYGBfK19hJnNAczpMg7huntyrCvG1bI4QegCHepdWRslFSy6gPdHzgNZlNSQi%2BdFV37Occ9WqmMQt%2FeJVyPOlNWoVsoGn%2BeKf%2FjjMwLG390b8dKPbc7us5y8xVg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fc6b29e0382824cc390ed4094e9a5f64f%2F20250330_2040_bc6ce5239661434a6931e527844428b2.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/c6b29e0382824cc390ed4094e9a5f64f/20250330_2040_bc6ce5239661434a6931e527844428b2.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KYHw0mLmIVVrrHKoz9rae1ab%2FBkexkmIzVVIerDMGsa0M7182wiBs5qxDaSlcK%2BHz8OzXo9pJAxEDBMerqQEKr6EAT70lo3KkhO1%2BfGfVD19IrOvO5LuP3HwtZKcjmTWZxhwU5XS%2Fu9Z0hrNJ0UiEFMmHUfbXOnuxvfx8ORQONnuta9XuwOCg4%2FYLyz1UEoUrVUKayIHZQprKC60D2z17doh%2BofmPt47l%2F1R86Y9B5YiRBjjoh7xYbcM2olHQ0qJaapWiMMAaA4uNnQheFmAUBVN2gSYfEuRHVcHItwMoBcs9Gy8PdHAsMcuCFbtUpDJhdWiNXndndsewKCuP%2FK%2BLg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fc6b29e0382824cc390ed4094e9a5f64f%2F20250330_2040_bc6ce5239661434a6931e527844428b2.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -637,7 +637,7 @@ GMB **4 - 5** NYG帝国連合
 
 GMB **5 - 0** NYG帝国連合
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/175eade38eb9a1ac91b348f50e3e19f9/ca5bd20227a7a18e54641ce9f17376c0.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=arvP1MKQrlPj4ICXJZYE67Y8N5c4HYOpdEaka%2Fm1qQSVnqq%2F91vkaerPH0tsDvOYVNJPDl%2FaKOIC%2Bzv2z6mP1T85OGVjCHFiNNowZORO0vMKYzAJIRwX4lNULt%2FXzmc3zJ%2B8f8owGXaNoECeZOOYr4a%2FVgk3DfJCS%2FAGE7ZORH3QJBHGuIaBd4koNxAnaKZxEtoTRFm1FpOwBovNg20iuHYyC1xbk%2F5c91tp1frX9ufVWvWiA1iEbtMViI46JtH3gWjaCkbPsofGueskNFOcbyjBYReciqRrZVx5GatsU41tbyOY7XDlmSuk3Qhay5v3z9bcswQb%2FKfZW0WtpbQq2A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F175eade38eb9a1ac91b348f50e3e19f9%2Fca5bd20227a7a18e54641ce9f17376c0.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/175eade38eb9a1ac91b348f50e3e19f9/ca5bd20227a7a18e54641ce9f17376c0.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=WsUHpyNLnj3Y6fi%2FJE2qYeiEOIwi0NR6CoGmc0SCJHkciffhzyR2s2xAkINTfMUljNBgTh6qVT2gOudAvNOdTYn6d38WSP2%2FpXBwxxqrTwyULm8srm3tFU93MhRbbuyImwOnmaZNqhnhLsr3RqnK55Zk79PclnIMs4BhMn00XA%2BPcza6haTRGfqQVlTLXfWKOMHlNkvSYiCJLMOlbwvOur5%2BEBOHlvZG5Ygo3kf4BOLXtA31uGRMOTpdfXzumnQFE0i6C4vteS9AxLehLnR4KbJqk56lO%2F%2Fdt6a9y4KxGo9EuosUt8EGyIqZLq8iYAWUSEhKhFc%2BlswIsuMV%2F7D1Hg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F175eade38eb9a1ac91b348f50e3e19f9%2Fca5bd20227a7a18e54641ce9f17376c0.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -769,7 +769,7 @@ No post
 
 [https://d.kuku.lu/zac2dazrg](https://d.kuku.lu/zac2dazrg)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/9d4db61a8c4370b5cdcdaa802cae25b2/20250113_1631_90cb3b280e4aa52c2147d3a897610ab7.webp?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cSwk3L7USQBA4NzsPG4z3amjxQoLMm2qaa6dnZ1yWdm98iBBHUyjzRwfbir8SxSwfm%2FT0H4dflMYK3klYYX3hICv5Qmvi%2BPHhH2fLyHGTivHD6HooRCxxUuEQxNqGkuxqc9t5QwNLB111c6n900kMF7y8Z6Mf9wggxa1K4Imq8hpoVS8k4%2BKrYOvmui9GqMhA6C0M6TJmTOs9CiEkrqAO0hH1wT7kV%2F2mpBfifCI4KuGE8EGgg%2BCQTvuWbDMIYztqjwQYAXAXLl4Y2AJGBklnLIgn97ViHnST02k1zR096RsVzdntDu4rXPcmU8%2B6sXWMojTkldSozLvCFs7qlS1Dw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F9d4db61a8c4370b5cdcdaa802cae25b2%2F20250113_1631_90cb3b280e4aa52c2147d3a897610ab7.webp)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/9d4db61a8c4370b5cdcdaa802cae25b2/20250113_1631_90cb3b280e4aa52c2147d3a897610ab7.webp?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=fr5OvmeyDBPheChD2HODl82JumAh%2B%2FJ7h8SFS95MtnuECoc9uB9kGcqqDs%2FbZn2HONs7qw6Kq3Or7oEIR8Zu%2BvnmoQsXEpRUnYigskJ8L%2FSzUfgxjOJLVDFEYfBeTyHE0SKJnsi7TNKc5RQ%2B2lUO7YIYUm03jnUJNU%2B2t5vxILQv7KzJQqOS8UiiL3rn0%2FtEGws8h0o9GV9Ezs%2BtWHhVyU%2BXfiWZfc3U4%2BpRXTzXnDHcqn9jEIpVLKVSp3kMStrBXzkZ8rf3NjCGoqe4UWrrnvivaLcstQnV%2FBXshL%2Fqba73vQIhD%2BY6VM8YrFag5P0SkNCH618ro%2BUo2WTsKhQ1ig%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F9d4db61a8c4370b5cdcdaa802cae25b2%2F20250113_1631_90cb3b280e4aa52c2147d3a897610ab7.webp)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -784,7 +784,7 @@ No post
 ### 2. AI高画質版Stats
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/10f06c832a890f30f0b52a6a4c02a1cd/20250113_1631_90cb3b280e4aa52c2147d3a897610ab7.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=P5AdqJZRRPQzwK72Q0Jz52LlEVI3P72v4sDvyMU3OT%2FXjacAdEx%2BUFPTplU7rDkb7fkB3f8dh4HwrOpJDCrJp6SKyc56SYqrrpG5SOzVGRRaw8DTJBZZtW0bh3JMCzaeUDtCCm2pgV1EMA4oDbwyfBEwpCVdCB8cFxE2nu%2FVrSzST62ty39QeYd7GSOm2DT88mutjhrSLJ32pCcDd3MOi6vaXgTSosScMrkif%2B3kIUO3KEr0Ez6uAUPdL%2BWYU8m2rZDRbdC55p1EwsgUL2c3hbSLlx1cN142614eks%2FCdYLpk4oGIAS75S5aIYMUQyEBng5UAiHYGGX568yFphTa3g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F10f06c832a890f30f0b52a6a4c02a1cd%2F20250113_1631_90cb3b280e4aa52c2147d3a897610ab7.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/10f06c832a890f30f0b52a6a4c02a1cd/20250113_1631_90cb3b280e4aa52c2147d3a897610ab7.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=tvGBSVwYkXFYQtAefcokgJdtvA1DNUF%2BcrUYTpuYjYImJI566dMv0rxVBE1XtCikoCHr2zc5pYoVbbqfDCcwnyvgiwySPNRT43q6Jt5J9LVvJOwki41q4JvgvGvD2fN8xjfOtJkRMzJeIVCiFktvzyx1L1XliRJXaKa7WiT2mOG3tZgcOclwvUQou6SzrodPV3FsiWE%2BUP9OTTxceubAmoeztlGVHrboZ0hAbkAlYl6d9Dhf2Sm72A%2B%2FbrfF%2FP0VbaosTBDoB8HL%2FGHDYwzH%2Fhzczh3x4%2Bu%2BiG1sekR81Irv%2BxT7AiExHEvZine0z%2FdmkWhu9IU7jllD4zkUh8518A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F10f06c832a890f30f0b52a6a4c02a1cd%2F20250113_1631_90cb3b280e4aa52c2147d3a897610ab7.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -812,7 +812,7 @@ GMB **5 - 0** NYG帝国連合
 - [ファイルなう](https://d.kuku.lu/6sf3xy4bz)
 - [Kick](https://kick.com/nesutosama/videos/d4343a85-a0d0-4a30-9915-d094c60ae394?t=392)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/aa291fc917681307e572c7b1ef3db8a0/fb6aa746c3e3dbeff1272f4409135750.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GI4gTqrXsPy8fAdT5RuH2hFMdDK0%2Fe%2BaM5saxOBQGqSdhAZxkvL8%2B28%2B4TEIcJ19K8fRPuNYtk8Rdy%2F6voMwZsgq08NWq1Swi5cIrqZ7J0T67EW79Wpf5R3XdpABC%2BSwFVm3l%2BcXfaEew1i8fT4jiGnk%2Fv0QBaAS8d9Y7xop%2BXUeNR2zAKAeOKBqIlTCObA%2FSu%2BaeGQHdk7gjjwVFj9Tkk5gpHi%2FWUUs6Mk2cb3xYm1RN2%2BnSCN152ptgyRIYFLdsg6T5Q4QPli89BmQfht2pSPKQGYn0Roaxi0ONoGe4vTC5U3PmDC61SN2RBS8ImKaOsw9gBj6lIuTvZu7X%2B2zeA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Faa291fc917681307e572c7b1ef3db8a0%2Ffb6aa746c3e3dbeff1272f4409135750.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/aa291fc917681307e572c7b1ef3db8a0/fb6aa746c3e3dbeff1272f4409135750.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=o3PCbJ7bp%2FmU%2BZmwRrqE3PnCL4PCDZaIKOf%2BlWe5KGX%2BYLCxNYYMhw9vLEbWHiw5210D9yJbmbVELvateAPlQFXnUVlRCdgYtoZN2YqvjsjmBPcaoS5F2LJ4KhMrIgXjHYibklVAF0aQc5ibOfOAhoVtLpqnzY71jI7Y3WwpsouFHIPNpU6VrcQdwqUQs6p0bMUepdqgJtusEUSRVXSAPJtsIdgUuFFEM9emvXMZ9HUluddLpNH%2FA6E0EoxGiq%2F0ppgFAZ9KFNDDwJfM9Hhc74sk7YdJAkXn6AizhWrCNW98R0EX5qdaUA014bjGs4WR2XbKc2nLYfy8Y6HjjQnmsg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Faa291fc917681307e572c7b1ef3db8a0%2Ffb6aa746c3e3dbeff1272f4409135750.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -834,7 +834,7 @@ GMB **5 - 1** NYG帝国連合
 - [ファイルなう](https://d.kuku.lu/thd8h4kpp)
 - [Kick](https://kick.com/nesutosama/videos/1a2bdde9-304f-4d7d-8bfa-5b95cd4246f1?t=287)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/b0be79dfb45f10e801a3d5040983a6ea/819506757b927d8dfa71a7cc4573e861.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=wTdSUdrjslEQv862VOhoNpk74WyoJoq8tGPNKIsXN1ssZ0EBGjB89gkmYUH1BiqmR%2BoYyYnZULPhofcVn4PDKw%2FZbhI7m22bQ6dwFBrZypTg4w0itV%2Bmy%2BJOKH5zttDz7175I78CRGt8e4rZx7n7UFn1opP6oBS1t0AO4o8xdJ1XiKUE2iDXy9bDcnkrkbR11NxyFu%2BEOqGndt81E0ZF0PPzisvP0XZBJc8h%2BgebPLiayWNBs8EjbXRudEkwAIn1Lh3JbhJ7v%2F%2F7VXH0cRvhUUzd%2FTBq%2BVUy6Lusn%2FcAmeIHuvwBa3Yj51JN%2F0IyFD7wabqNdBe9nAcMzWcSVG0ESw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fb0be79dfb45f10e801a3d5040983a6ea%2F819506757b927d8dfa71a7cc4573e861.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/b0be79dfb45f10e801a3d5040983a6ea/819506757b927d8dfa71a7cc4573e861.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=izwMFGu8%2B%2F215Twp6U4TGoEHtwDdG7t%2B5SY2eiTRucTyz1ANWlShlg2ZtTSGfzVA12SNWhptNEYSfrPvVPfLp781DICZgkdgq8OyZTar0tdU2rAd1oMjuaSnEEyydkaJ%2BbhouXjuaVWUsH7yuJN%2BesIqgpdMqPSQY3Xjr%2FF8gd36%2BJu6ikY4OlbPVNSK755QHmY2w7ADaXXdlkEt3Sw6PRHjV6Ma5gM9zZlZ%2FdkpV8TYCQwgbi8z1vmfj5oXlTy7Yl9uOvegT%2Bb8yowLZz8Ssw6Ch8Jf3QTnqyy1Qgu%2FMJ8VX0%2BA0xkd7TZptkK1cmD3Lh%2BQO4nDO5%2BaFJ8MYiH45A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fb0be79dfb45f10e801a3d5040983a6ea%2F819506757b927d8dfa71a7cc4573e861.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -855,7 +855,7 @@ GMB **5 - 0** NYG帝国連合
 
 - [ファイルなう](https://d.kuku.lu/8hnzjpucp)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/be197082308d4fefbbcdf9f7166154d3/e20d4612451c4d7b521aa427bdccdb83.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FWk7qNtexTtVg8kUfnPTe2feb1cU3OaUhuaw9kuDC1kfbq4dxoDcOTicTP4vbpPA%2Bw%2BeYL5G7CG09HOMuoeuRRMVwZBC%2BtGGNa8l0hkTiL1XKqylkNwm2j4faJZ7Ozs5vIyW9Rz2cQa3SRVWvd1VpwnyAwWcECBrtName6dfj3xYqTQ9FtUEU9fT8VCPwFa48eVwxxhy1RS6KyOdcNPnLX%2FdkAL2FC7lL1LEsYfbA1ChHaQofJG9ESyFd7pjynvUcZA8CEz7%2Fzv1TV%2Bf9Y6GYyh16BtK7HlSwqfpAjv6V%2Fnfh563oscdlE1ARy5Fk87KsKslzBfDIkq4seIPLwiJYw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fbe197082308d4fefbbcdf9f7166154d3%2Fe20d4612451c4d7b521aa427bdccdb83.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/be197082308d4fefbbcdf9f7166154d3/e20d4612451c4d7b521aa427bdccdb83.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=3dev3benyIeDyiYG6dtKzmekZ0hHtj%2FqQeKtEFJIqseeK%2FkoP5RsJqiPuvirh%2B8rO0EFL9SfREPOWLkHY8ZljKMVdLRmdhFkwgZH3IwzZSMk23e4hMsrnD4%2BvfFfA1cdQvCaOjKkRr5Pwz0pRkyRjs7ANzinjeNC9op4bNbYzxwM%2BmX7bG8c%2FZT92UThXeNn%2BULtIgBjRTOUYqjJuYjMSDfKiA71eyqCvVX3GpqJqt4LK29U0HfFDDwskjkzAjnz9AN2BQcPIgsFk7qJtXLxHw%2B1w6YQ7A0N%2FoMymEZLCCXBMIBJHZnXWb6lTjRyiqbEKYysPLU9K5gNQ4E1DOxLlg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fbe197082308d4fefbbcdf9f7166154d3%2Fe20d4612451c4d7b521aa427bdccdb83.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -876,7 +876,7 @@ GMB **5 - 0** NYG帝国連合
 
 - [ファイルなう](https://d.kuku.lu/8hnzjpucp)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/d6337331f5b8e4c58794230058c1a53c/99a9a30d08b22001807a6992a766be2c.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=jjW9zzh7F5j9KespAOhtJV5VaDsCTORnPgjW5ymhkVOe7w7bO9XBES09YBOuXUy7hyi0q%2BqtP%2B5t4GAGFkXr8BZzSHrucKYCcr7frKOnKVz1LBqsLDXED7S4Zw473XcABpzdX%2FhkpEEHJDxpZ%2BTy4p89IP%2F23eb%2F5dY2sIWXjyvI1oTcPxbpZaMN9U52CEm5sQ06%2FJKZBsSL76rc2%2FfIjvSd2hNFUT4VHliXTMo99ZNb42ODPjygqN%2FTBtyV5G7jqaUE5DJ6MbyS4NM5b3cFtw9qCPnEH12ea%2B2K97r0Wnt%2BPfXktGGlomgpKYYaSSpDB16Ri7%2F013NhjxbFfXJGcg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fd6337331f5b8e4c58794230058c1a53c%2F99a9a30d08b22001807a6992a766be2c.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/d6337331f5b8e4c58794230058c1a53c/99a9a30d08b22001807a6992a766be2c.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=e4owx0QLlpInxnA%2FE4%2FAbIebeE9%2BEoOLl6Jabco%2BtKSZT%2Foxamd09gHFE2M7Xzcq4GZwuIQfomgnqRLTxaPGgdh%2FNfvOwsZ1rMxvxIymoHR5BUe92plyNZ1pyWB2OAjkDI0EWo665PlLujK1cziwZoxEbf4AdVg1T2jUl1NqjFrAJqyndttxIpTDaprcxOD%2FcKNJKTcZrbVSNe6B4HqmHspmtGA9h5OotxQwmi5WN%2BvoBbT%2BPB3aEUqm4vOOmmldbw6VT5DRjpTI8VYoIxJjSfogsHfKeq8wtQ98NWUUXlpMSWWszcI7bYx8J%2BCW99QMMszqQteMV6Ox20Q3Iix5jQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fd6337331f5b8e4c58794230058c1a53c%2F99a9a30d08b22001807a6992a766be2c.png)
 
 #### Comments (3)
 - **yottyan** (Jan 27, 2025 02:05am): 40killできたーー
@@ -896,7 +896,7 @@ GMB **5 - 0** NYG帝国連合
 ### 5. 整理したStats
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/aaafee93029502f14dffc259097f8af8/Screenshot_2025_07_13_01_32_23.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=o9%2BPY1OAmN4MVSPzuUft5OJTKp7PXM0EkwUtUvUWZu9jrJUPJ5w8MvRXBdx9yhj5WoGiEC0ilxjacc3a08WLSUiLV2QmetVZ07RXRrp9%2BQIfiFBNlY3A%2FQiFYqJ5LP17DTP0hju6GIbx%2Bn9wsIswaVtXmmqyYbE7gUqoEHqfbGU4kWyorYRSuIjh%2FGG37RgM7loO52qB3seVDZfyo%2BkB%2FFsSYbdIff8haPFdi0cYQ86BfxUMQLGkB496eJn92%2BpSWvStJ57EaR0W%2BeOfom%2FKXdN4I0ojjbH5NB7kOgYO0pkjqUdyEe4qQHrI0VdnSPOqA5JeZlEAjJKytk5GK2H8eA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Faaafee93029502f14dffc259097f8af8%2FScreenshot_2025_07_13_01_32_23.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/aaafee93029502f14dffc259097f8af8/Screenshot_2025_07_13_01_32_23.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=JAOErMFhHXaQuarSMdvCUPvM0FSmGTBqzA2tCmyfyZO2o%2FEbdzrmAogykhwLQyp6L9W0xFveg7wEYYNH3m1DYORn2MIOElJkq8AhFG12ImfnGIeDajFiKPo1upxmZtZAZpbRos70zNnCtnInuxwiKazYlGyFH3sq1j7eDeo6AEXr86Byipt0b4IeRi0eNGMuquSi5i%2F5omXg09vVpKAZZkL7mmLt2rIG0XX%2FvuoSAK6SD9NaVmjOI0tJw1kyhvKUzKo8yu1bNBkPP0HtA7Hf5sb07KqOnUoLRZNfXv2E%2FZqa3uUCDDhNBnL9ifJqQVVEHKBa%2BMQfN9Jm1Kow8Eg5Sw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Faaafee93029502f14dffc259097f8af8%2FScreenshot_2025_07_13_01_32_23.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -915,7 +915,7 @@ GMB **5 - 0** NYG帝国連合
 
 GMB **5 - 1** NYG帝国連合
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/80147c81dfb398f6a2eed82843d895f3/f6bdbe16fd54869e801b4a4157e2ee54.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Mz%2FASZEeY7eZ3bTVifLtUaLf5XSURLxOJKTlEHMe8YNQl%2F52iHVzwRP2qYSd8QmUILXhwR0MVLL4GkO96HohzsPBtjUM95qz7fbnLJO6%2B4LU1rwsH6eFJ%2Bz%2FNwDWEofzjUeaUR2Put%2BA8j%2BbxQ67LMZXvY3sVAzQpGOJjekGeEUiJmJ9cLK2jxlH1A7VWy8mGcixgSN%2BelOCAgb808lzs4%2B7Gji39po00ZV2AIvFDsJJsEGY5m7DhfKgpAKoInY3BQLX%2FN3lpmArrPY%2FBoWRhgf%2BTzQeeoEX1rgrMMkhSW%2FDnZuTYjTJhB3N30YMWo6JCTLlN5m7iRaL8uvSSTMqRQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F80147c81dfb398f6a2eed82843d895f3%2Ff6bdbe16fd54869e801b4a4157e2ee54.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/80147c81dfb398f6a2eed82843d895f3/f6bdbe16fd54869e801b4a4157e2ee54.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=a6YmPowFMZ0GfmbbuTxSvpigVKe8wo26x9EASsRnQ4%2FBcamNa5d07ZlM7AXHMJSZuvD0grm0xhIegIkv%2Fkr78qAhne4qQ1iqEnuCrXnENUb9pXvV9ebY176jvZ6aHmx0Brwt7kZmoFt44O5V9cqP8dFlzRV%2FtX%2BnyVJNsI2Cq6faHHth%2BIN9f0hiP09et8seCoQlUuCWLTGJ8h7dJ0Vrn2hgKJAv20i7yGw9On3POyfoeExG2etMqk%2FB%2FjOxABJbnb39sSH5EzAdZpKum4vFbM0lFu%2BHewTxXemvK%2B94xuUN67%2BhCIyycV1i1eVmMCuEXyFjIO6yiuzgLeFHaT8QPw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F80147c81dfb398f6a2eed82843d895f3%2Ff6bdbe16fd54869e801b4a4157e2ee54.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -936,7 +936,7 @@ GMB **5 - 1** NYG帝国連合
 
 - [ファイルなう](https://d.kuku.lu/vchtka5kz)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/38c23ed0ef54912993cd96eabc644369/9395fccbd1bbb844e1e46ffcac0b1c4f.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=M0rNU19SGv%2BImSP9oFK28RGvj992UTxki7hdih1bNkEjyd6%2FReeR5KUJjxZDiELdy8hKq%2F7%2BPBzGVfoo%2F14s8EG6DUpRj2ao3WV7xcdiCQdnnPUzjGUoLW9EHQF%2B47%2BbX%2BFIdXdc%2FIUGlypoKPqerhRSd5G6hi7TCEsRW%2B4wjihKemUMW9pMPXnvAzS%2BIgsDbygl9hnPbhWKAq3CANNO2nIcpRJwc7SX5BEyXqiVICVjBNOsExPUDAlscTZEtfxhwZU4CukbsLJPZF0IGCu6EHKCErIFGXolBJdWpTYiJ9RG2CwXNOTyxI%2B0yFY4r0LBYOVdBQSR1gexSe%2Bg3yvu5A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F38c23ed0ef54912993cd96eabc644369%2F9395fccbd1bbb844e1e46ffcac0b1c4f.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/38c23ed0ef54912993cd96eabc644369/9395fccbd1bbb844e1e46ffcac0b1c4f.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7YYZcbpBBbVwe%2BqKuaa7bZZ%2BbZqePtrRgZ%2BgGRL2zKbfTMrREjwFNIk%2FT04JOcm8oiJljZR9iQtujwAeV%2F8MOhHRumFSLvRSNO%2FQblhY0Q2tNbo7IEzQxeivhYdOJhZHFJC0%2F0REXJCVoXtO%2F7A%2BbcST0lDPiu0SdPLLzyeQmZXDORglANNkz8Qb6bDVdS9cbX2I1KehQiJjOeKy0T7f59gSUYOSETSyBT9iHiMJT6Iz4f1TLPbhI%2FdpOBdMzsfaoq9tDj44dICAM%2BgH1NxBsrDVHFXaxpujov8DlkyRAovi0VZcaHBg2%2BzscA%2FEEAuon7depndQbB%2Fv6RC81B9hPQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F38c23ed0ef54912993cd96eabc644369%2F9395fccbd1bbb844e1e46ffcac0b1c4f.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -969,7 +969,7 @@ GMB **5 - 1** NYG帝国連合
 ### 4. 整理したStats
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/26665ac78d58a4de1d82046eceb1e583/Screenshot_2025_07_13_01_36_42.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Utlh0NtRU7vKigvj3dsP6IzYCFN7CzhcYyRuNMtyUs%2Fv5fyTZVxrbj97AF4AveXqqfSmmb3WnJtycJIgOTJdOE7N%2B3HV%2BDMm4vWt%2FRpnqKAEPoC5rzLrE858I4P1ctf5rgcA99zqeJEEo9HM7j%2FVqLIJAB4PnDMq3WsUSWzw7EOAfTbjQl0nPCnNk0qq6vLwZOhS9zF05iduK2bQ%2Bb1GmPIZNceQy9SHzrhbMzNPq%2Bm9pQbatYJNagInspLPrP8mbUBgrPASrEN9TDHEOhLTiyYXtayyyhAvQXX2WncmMAgxVBjl5LP2fHVBMJ8rfXortSaUDrvv7KxfHgNGM2Gzxg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F26665ac78d58a4de1d82046eceb1e583%2FScreenshot_2025_07_13_01_36_42.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/26665ac78d58a4de1d82046eceb1e583/Screenshot_2025_07_13_01_36_42.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=CscV4J3qasxRpcXvfu1cb9HYPItzoXlUNvGGdzviFVWmZdBEO%2FRKlZFOz60iW8q%2BbhCAvFJx1dcfHrc%2BB2DLSWqVkhIRqSEF3p57CjdErv%2BBIikhieepNur%2BExzwfZYUYEJRK7Z0Y6CvoF0QPgnjGeX4C5d5UQxP2qLKE2DhhehjTgkHXOBs23JBjdPwx3VSmntFuAJ%2FC0gyo4%2BGjtK7Xl9DbSEd4g6jw5MGoP5UGQssfbIA0D1kooDfvbQPnVSpIbRStutmO29bKYRbCuWxJKnDeALSZC%2Fza96fM8OMF%2Btq%2FxPiBfp11wQWI6GP8%2BRuoBuEn6UPYuX4D3VimHZkCw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F26665ac78d58a4de1d82046eceb1e583%2FScreenshot_2025_07_13_01_36_42.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1044,7 +1044,7 @@ vs
 
 **T2** rido tk 顔 ゆみこ nesuto とまたまご
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/6d33b2606d467ffe3c6ff25894099ad3/56fdeab0bc0b7b44c96e1c9630883e3f.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=hQsqpFVmzuykGcS%2FyE0EadEGQDtb3zyQB2RakuR7oedYKBjzFgSRHHr5H7%2F3LQXoEtMFVEkQSr0%2Fv0RLKUCCrMeTFoN4ZKNzXSwJzg0gXSJCYyBSaXEkQgQhoOjoFUIDdz3dhB0%2FwO28twCHLxABGnENxrcYJoWkGgdjSkjv2P7ZX5bZgtdpL0%2BiNvpLPwVOqnn9wpPRkzwoF0GYx%2BjFfuRUxy%2F8mlWWCcZHEaFqlGvKt5rwtDndmvJYT%2F5KFawCmxf8Sxy6b2FiEujPetu4oQkXYv3k8pziMzO4tV3FyBtKYBHOba7IjnvlDqal1LAeafVT7b7rqh0qlEHjCIuE6g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F6d33b2606d467ffe3c6ff25894099ad3%2F56fdeab0bc0b7b44c96e1c9630883e3f.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/6d33b2606d467ffe3c6ff25894099ad3/56fdeab0bc0b7b44c96e1c9630883e3f.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=AUhm2rGhHEIS%2FxwSPVpNcMt9bwYsHDg%2B444S5xpQ%2B8Gdh3ok%2B2sEK9vTNJ6qur1WDWC9ckh84WqpOBgq5L0GXhIy1fYamZ%2FDTJNAknH0rhQC9TVeXjmDTgZ9xdWNUqY8esT7j2CxmpNOnuNnoJjofpOB5BJxG%2FVLN3JESfmYQa2mjbizs7NNB7tjYDXHIdvHanZTvLgEXOBKdkGTOQC4YIQx7fNLB7n1%2FlMHwQ9xlxV238dembmqztx7jsqhszOctV33SscF8JkLfhagS%2BGjagLIu%2FqgA8%2Fh0Eq9vypwrRltA70K2faVwVk88CoZ%2FFHYUxeGj6sbip88znTwYLTFFQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F6d33b2606d467ffe3c6ff25894099ad3%2F56fdeab0bc0b7b44c96e1c9630883e3f.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1097,7 +1097,7 @@ vs
 
 **T2** yanyan tk ゆみこ yottyan nesuto
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/af44cb0d9e9595c6f8dd05388f5ff3e0/3b28b6434b783eaaf255223f4ca684e5.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=sUNq7YyP1ysPexDf%2FjTHmLu7BNN3imD8C5Pl3lDrHrqkZVN2MntwNollHe9BLguOqLYuJ1lqWnmRM%2BUo0lJ%2FxYdNS0RZPq3tBnHefVbRLyt0h8soDPCmLDAoI3arIuuoiLSz3Rk0r%2FeoPHnVuJgevlA92THs64YKMopY5MJaK462nZiOhgOnBSz23ILnREpwkT0GU8I8w3TB0hGhACvCbl0rObp8UnT6RhRl6z6AQiJNTiJOIxxOCEXcLMFaCykdXuVJ5wE7cK0qwS%2FFpOmLPU59fB2DkZnEUSDfxPnX8tDedZTkas1Oq2N%2B0D16rcVPyf6uVHz7b444EqWEAtUhog%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Faf44cb0d9e9595c6f8dd05388f5ff3e0%2F3b28b6434b783eaaf255223f4ca684e5.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/af44cb0d9e9595c6f8dd05388f5ff3e0/3b28b6434b783eaaf255223f4ca684e5.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=gCQVE7YCX9XaCn948olMgs9LmwaZDFbtkC3vc32j8M37QXPjm7eg2mEok8L5doCYICKsRhn9LFrXsdT70DQK%2FDJUFY2yWbNuXRyoTHVOpeFLVfVrbvYGvNlTOaWQekq94GZaWpv7hfNP%2F8VPhOEbe1k5nC7c4CiukmQ813VdZ7aSL9fX1CpHb5eJiwzpGoXKWhpMiz7pMbLfrZCmkpRP5XcQaICDD8YwHX0zbIwsU3nwnJE%2FkXBLPmfiThhxHeMdRVnP%2B4a7MdLilWK36aQa3YnZOECm1OoFYtRUS1VjxZsFDQn6ep8oBlMjED1%2FvLtY0dIKK%2B1%2B0dYEPWyu6XbwKA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Faf44cb0d9e9595c6f8dd05388f5ff3e0%2F3b28b6434b783eaaf255223f4ca684e5.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1117,7 +1117,7 @@ vs
 vs
 **T2** yanyan gattyan nesuto 見た目プロ こんにゃく
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/4fb6276b93186fd89800ae9e33bde3f1/f9cc081656b2485a67d2d86f14ce4d87.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uE%2FnQ3bxN8r93BvIX8v3FIg2y2pPVC6Iq%2F5jAxQutw6kqRKU%2FTgFZNT0Q20yWZ%2FR4c1h3ajbtXnjvB74DWQoQ%2BWe6Q%2FJWxuYATpLGyxcY5NMUlzeXx1WdRMXRsiH0CJ7taR5fpjGr6%2B8mfcRsnKyw0hZmX4FStJPdMPhIYUZNJmCRZgLGJ1mnTRjh7FeMj7yaUjFawPJXsDxGQXa5adodWgLu2bMZIMJCmL0dktGFgIDANy9RtqF8izIPaoweAmlNl8Zlqd7N6Ct1s%2BuMX1%2FAzq%2FGlkSe1YTvnvjA%2FodX1Nye0rw0KqZY0XPYTPTYqceVkx6ke%2B2nlmuZZs9fLMgeQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F4fb6276b93186fd89800ae9e33bde3f1%2Ff9cc081656b2485a67d2d86f14ce4d87.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/4fb6276b93186fd89800ae9e33bde3f1/f9cc081656b2485a67d2d86f14ce4d87.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=qwbhyTtpAOhATdvu%2BTMj3oMNQY4%2BqAMwqeUr08t%2F3zpuEJTsY8whJxdqQ5YRsSr5rjgh%2FGBrG%2FPfxIvSs3wsC4fF1NQTFTmRut8OKBHrhAeyz0MtOx9iw7zK4brYicl0%2Fmbz99bvwept5KTUF7Tmx5QsgQrCVdi9yefIVCDldHwbCgRUeOMRcZLnddc5dWTlYLkVQ6OABowQTIKbFdoaf0c2hnik%2FNu4oUYcmzE0LthD%2BjYHv6XYAlUVs6pwdz5l7il19sPAlA5GWoMX2axU9lO4LvRlCiZmeXe2hfLXBzlgsEY1bF1KsSxJn1MPxdt8XL3XgLyVZK7wJzp18HgymQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F4fb6276b93186fd89800ae9e33bde3f1%2Ff9cc081656b2485a67d2d86f14ce4d87.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1157,7 +1157,7 @@ vs
 
 GMB **5 - 0** NYG帝国連合
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/b04e96ea2976281b2c1aa107f6200df1/87406a1667f32a343e1577e4271ae142.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=mUOqaM9%2FE%2FgN2GcLZA%2BPUZKNbxPpEqWcGIwqDdtdejdFveb%2BTLoQp1fx3d5g7nlIzy0ogCTcpPotx9kUvLdWXYgQXorZSlftdG4FfUQOLh13xH26gt6IN5K%2BzW3UMMMBYaRj5zNQ0yhUgGBWdi0m5K586PsNIYrmkiTqW30xjxCP7TnGTdm6mLGrvO9SmMGMrVaMNqsIfayBzTtDGRJZKW9qXU42cQgamVQ9HMxRTrDzrso5eeB6ml1u1iomN3I7q9kcN8nebNFkgdAuErlfM2wjPtUQqOqayRSsDpMmziEWjh6%2Bs8g%2FvP9YhfOaidYlutqWbTEvjEydXReBVbFEQg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fb04e96ea2976281b2c1aa107f6200df1%2F87406a1667f32a343e1577e4271ae142.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/b04e96ea2976281b2c1aa107f6200df1/87406a1667f32a343e1577e4271ae142.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=IlLrESKSd0rDrem0qomyLSFXG3kjQ1FdCQSCflTLL1XWqa8pCbGVmGB%2FMZf12f70ycnMYZWLVDpn%2BF5ve7nSWFGgDCriWwUgi89Vw6acSEVvzLXG6iefvwD%2F8L8lzNfIp1K03G16VRUctYWXAlVbliv3OekIepgz9gRxskEjA54iTJ2TrlQDtOCgTsKI6%2B0kGdqyh28Odrlq5vHMrtNUKVEtlqq9Ha%2BpIoEs6qR7vtF3sloKYqtAyvYfu1zk8D0B0bLAK9i%2B5PSSjtc6oQ3mLJKUHD6gjOPhMLoQPNzWBKYkJdS4VedNNbGHPC7lXXXjXvcfUngZmY%2FHFQa6e6CioA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fb04e96ea2976281b2c1aa107f6200df1%2F87406a1667f32a343e1577e4271ae142.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1183,7 +1183,7 @@ vs
 - [ファイルなう](https://d.kuku.lu/8hrxkamh8)
 - [Kick](https://kick.com/nesutosama/videos/c12a68cd-750d-4b63-a842-910b97e55ac3?t=10)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/32a0bd7903c8fba26960a17d38d813b6/bce6846de9e3c17fa76810c4241b44ad.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=g1pRrS4yBe6aFtfQbXqVg5xIUC%2BrG%2F9sFf9hRMlX7WFoOmKwEVsDQW%2BA6RUZsjA7f3f7Qq%2FCpSa9f4e5jXPeI%2BfMPiznDW5uZkaXGd7UqHQ7xJjKoRdrGnzZFRhVwVftcq3hgc1QsQSueU2t4LnTSPhbHuE5uwskEEs51aM50qEGt%2FqgzaQ1lEBTMcs2uJ3qaS8OlplQVpx6Ug0zD7I3EG4ITKpDzUCUsrmTcXcHIfAi5npM17eb7LzFcwYZN7VuGr2IJWd7zGuE5qn%2Fvolco5btb9ZW8JgTbYD8LW0wCMa%2BIwoTijb1I4VchFSLYV1rXSAePJtC2BAqDd4Ylcv%2FXA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F32a0bd7903c8fba26960a17d38d813b6%2Fbce6846de9e3c17fa76810c4241b44ad.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/32a0bd7903c8fba26960a17d38d813b6/bce6846de9e3c17fa76810c4241b44ad.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=v6eY4yFmvpDBZfxzqXNNCxdYyaWjJLDQvn2DWK7D%2FzRf2LJH0XB%2FqsQ30rsXeuFw%2BrTB87%2FGL%2BsMBKMh7Ur4cRg2c%2BKbbDQ1GMdiOPBxCrFDDlp7RwTFTcujcEBdt5VWhLk2fZ8INHdI%2F3ERWlhBXNDUeEmKUv3oYW7UZw3CWDn8oOLtTLCqLhlu6VyyF%2FayryHjYb%2FmknM%2FBukgfyVB0fxUWqv0dZ5RfwnyHdCsN4qx7DuWOuKoQzu1ifoNrfJrHJNfVjplDFkJLwYtQhgW7olRXnj3%2F%2FkT2FdXHo9bnAa1oHJCNZXTsrjiFXN7oMAwD4Aufi0SlHc2a5UNHSOxkQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F32a0bd7903c8fba26960a17d38d813b6%2Fbce6846de9e3c17fa76810c4241b44ad.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1208,7 +1208,7 @@ vs
 
 - [ファイルなう](https://d.kuku.lu/zej7xfyvy)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7df1a40f643ad613c9b85b1779764f80/a838ad812504a56bdde6a3fdd34b7605.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=n4DltR6U3csCzWllHPS61HN%2BoicgIzuhMq63GP7Tr44lZPYTYMVI2SF2hxqylIhB5BwWb5qOxFLrtNxjB4eBWvTV%2F1QZRiMt%2FMZaMQaQIBtRFJXGa83ftynAWJQMi0%2BKS037zrJGcFRKKFckDZL7nNVBYjTdB2ycpxABAbMAjjijFelhaaCHaQypwUvrYB4FuD56QdlDP2Q3T7Ft1uuPQLycMET5l1sBmn33CaelScNFoVTNOFEpnvOwl7pKPG1lvvmymv%2BI0DM6Eb4GFBZSSpAmi3YA%2BbOCoehxI%2BxpRoTRRyfS9cN1nUa8QN7eTUBzhitvWiGFLctfLPM0%2B6%2Bq3w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7df1a40f643ad613c9b85b1779764f80%2Fa838ad812504a56bdde6a3fdd34b7605.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/7df1a40f643ad613c9b85b1779764f80/a838ad812504a56bdde6a3fdd34b7605.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=v6rr2SHcDl7Y0NJMTOjdZFkK22ET%2B%2Bv3p0adSJ4TD%2BKHP4PdSXBtD4e%2FSFa3DJJ%2BPJwPOWof%2BHMivk1cDHO0%2FO37s5SqrEV12GzWS%2Bslu%2Bkq%2B8s8hz2u2%2BBvZ%2BgYFC%2FHRtLebSveOtGEWSMXUuadEKmmP6Hsow0vP73Sg9%2F2cmSYgdUnzVIkpePEAzSAc57n4dl9Ln4JnLbNp%2Feowzy7xLgdumjZgY%2FZweQVxukfjfZTq2jBDGurgm0HFQTyw4OiohNGptMdI82zb39R4tAGiNgWhU1Je50u2XVmIOetEfP4t1VCBm%2Bzl%2BFPJt5JjrlnOwJwl96kGdpietUwjf7tZw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F7df1a40f643ad613c9b85b1779764f80%2Fa838ad812504a56bdde6a3fdd34b7605.png)
 
 #### Reactions
 - **Emojis:** 👍 (2)
@@ -1227,7 +1227,7 @@ vs
 
 青チーム **5 - 2** 赤チーム
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/283ec746c25029f6219436cd69316f8c/fc50926f1f6221f6d202c87032afcf66.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=GpJ0alG4yuzvImEaFRPtuReY2%2BZOooAmFad%2B6GXEn1CmU02m3XOinx6BIlOUoivh%2B%2F%2FWqqYivkIhy0t2DCh4Glm5rbIogeTk1YH0ECCOv3mZj9hVOWOYX5xsaSTbKhyYwQFnpSzHFNYmAUV80ZT8ppVbMvqtpqtKuykcjgwq3R6ESQmllIwxYbMKHstNeVdljfNwjBlFiKPneWnxoENdyDvp8Dowflq9v8QhDXXRV2wtA25MSH9ghAW6YUjk0%2Buv5Ac%2BJRZzYI3DUBLlAgeTRHcpG89NkvV9bDsPk7XDNMZ%2BYk%2BGPfgPXJxu0j1PQdIvraL%2Bj9QutSw1ODwhi8OVsA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F283ec746c25029f6219436cd69316f8c%2Ffc50926f1f6221f6d202c87032afcf66.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/283ec746c25029f6219436cd69316f8c/fc50926f1f6221f6d202c87032afcf66.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=zPVRZMCYMIqojiG6D4Jqgf8vuj3zexJHWRUWpUP6vv884Kf%2FeTuKBwKRp71%2FKS8m7jxbxLF%2BlsJjjR%2FlIahLzEF3lKv6v%2FQFkDaYCphvt0D23UgJ57UAVt4%2B6QXtgPG4KD2L%2B8fV%2Bel5TsYcyEo4%2FZnszQVdj%2FSeA%2BsmvZN27hEx0EvSNVm%2FAZHiw9EnECA%2BmRpnHql4A9sAGD%2BD8GPc0n13H9y1q2dDjVWMxXcfEVc6Q30UZPsEKFo5InoOEsj0ELR9bN4J1EmddrlqPfd8tUp5rGOCOVGlfrkAIU01eEtYQQwHNZp8olTVMs0c%2B5UM9Fszte8tq%2FyI%2BgSyMevYcA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F283ec746c25029f6219436cd69316f8c%2Ffc50926f1f6221f6d202c87032afcf66.png)
 
 #### Reactions
 - **Emojis:** 👍 (3)
@@ -1244,7 +1244,7 @@ vs
 
 GMB **4 - 5** NYG帝国連合
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/44ede5bf2dc7bd7931a6a236b63b4fb7/b67f756eee7933e12faee6f47a373da0.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=NkPj2%2FGHdjpCXV%2BX4cv29a%2BBsYgDfdAxhNhKBmnZT1TrV2cqbaHCftU0aJe2fflw3uRjpTdH3cIy8H%2Bvv%2Bitb%2Fzc4vx9GbJKlFNCihURym1b4Zr6yYAokwui%2F6kRpbvHC3dHS5Nm0Y4abEqj50WAnowVR%2BjdO%2B%2FxWTD2xodAGuI6WAdEss4pmpCEKCNAA1FZ13UYDX1Sin2RNhPGlHJ8vqczxSa49jS7pdQthQddKp%2FjeX8Xxc5zIIMvotVQPGSA2ts%2FiCiU%2FxTZESd%2BEh%2FHDA%2FcRUjiBvjjLKnTUkftiaGRn8ynhNkrcEcJCaWrgwPIUyr8S81h0GMbo1vQDKSSaw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F44ede5bf2dc7bd7931a6a236b63b4fb7%2Fb67f756eee7933e12faee6f47a373da0.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/44ede5bf2dc7bd7931a6a236b63b4fb7/b67f756eee7933e12faee6f47a373da0.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Ws1FtkvGmLYcwGQKGQTTKBWDFXNyOd0RWdY3zNT3xmnZau4tNAaIfBldgFd797LPoZ%2BYzRgWtjfHELG2CuR8V1Juo9AJrvXAkpctTZBUD6hUC%2BG2grDOt5Noj2rPDFCx%2BOb%2FYWJ1cFwMbdGsXa%2BCjnJy3%2BVFq%2FEjyHd2F3MuKQXBaxhf3hvambi6JOl3h%2BZg%2B7vSx7wRvA7KRARvyTsYPESZrXoPoy4w%2BkiPl%2B2CwEZZebVYxWOeyClWa2us2frrQaXNAs6a3HVqG5Ksp1Bc5RzG2lhmqbSSe3QN%2FIJy7k42Y6d3hAzeh1L3MoorCdq06nkMiAd2%2Fmfjg0226U0U3w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F44ede5bf2dc7bd7931a6a236b63b4fb7%2Fb67f756eee7933e12faee6f47a373da0.png)
 
 #### Reactions
 - **Emojis:** 👍 (2)
@@ -1261,7 +1261,7 @@ GMB **4 - 5** NYG帝国連合
 
 整理したStatsは[こちら](https://d.kuku.lu/m2xxdakpy)。
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/96fa9a0b1a1e906c9ae14926bae4fae4/1eba7029544476cdcb02a12fc4fa620c.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1V2KzCgLA%2B1pG1UMJTvIZiL170lMZy4%2B1RT%2FJeP83hgtL6dfAx%2FaVZmfRNb%2B0sOFXE18CE4lXkx%2FH468G6q5uuo0orUiJs4s8778ufUOnuA3mu7wGTSa1EIU7FScESC6WwrnQQ3ofXOw4qjm6Gy%2BR7Cr0dOW66UhezvPM8xanivrzlU2QNpJbRma8YToYY9D6BDH8TKMdwMMwW6y38ucnoTpERZEGSdMgBKA3jeYnKS0JCImSQxMTgEr%2F5s0ZXJtj2qyKkBQO0r%2FDfDolbx9jjnn1KZo3Wdb9b7wctDOxCZTKZRiOAUn0HVEJzPlDMSzWP2z0e%2FKeFH7NKMqRUNlvw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F96fa9a0b1a1e906c9ae14926bae4fae4%2F1eba7029544476cdcb02a12fc4fa620c.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/96fa9a0b1a1e906c9ae14926bae4fae4/1eba7029544476cdcb02a12fc4fa620c.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=N22%2BiYvZKra7ZtOBoEuE99SMkNw2t9SkeHRboXPH5ml%2B27UT2r9jmLj%2FJ8aO7RRSUY8jSqJxKmPi1p9OpfwgwwkWg3ONL%2FVWl%2FygdhoUTVCuBT1btgRuZFCu9rX3lsA6e2BHydc0IRE0xga38QH7DzSXAWBppqy4h26wkBdaqJqtORPw0p%2BFgAc3JwkwoKBhAHbw3saKSWjgRQmvaN56P8JDMsyiwaXtvNzz1g2XflDDMHDkB8PWBHqnfV3Rx7kTr72OXl6pNOUP9Ae464GI9Upixwjvjz%2FbePz07P6Y5GZRPTQ%2FhLVkCmsrpQw0ahQMXt0y0vHweYOdoMRCwa6cRw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F96fa9a0b1a1e906c9ae14926bae4fae4%2F1eba7029544476cdcb02a12fc4fa620c.png)
 
 #### Reactions
 - **Emojis:** 👍 (2)
@@ -1276,7 +1276,7 @@ GMB **4 - 5** NYG帝国連合
 ### 4. 整理したStats (第３試合)
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/0f40f7536bdcae36407021ff3f213b8e/Screenshot_2025_07_13_01_39_38.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=UmDGd3GL9DkHnlr%2FJKg57P6M0EPE5vrK555Vw9DW3BP1%2BX%2B%2BfokmcDQY0oVGgDkghRfoOrmRtYYMPIWZFRXMz4Ukb1pegRTTtQWVyySOKY4Lnb%2BhPS%2BwLoWZ2mClFurdC3GVt8n0zkrnvv2Z%2BADceyIWt7wm0z6lScr%2BKBU%2BaOQG%2F9HPq9w0u3ZsNWt8%2BlBJMFIMif5tv3zB9grUVQboviDHtKfIpTNGDayfQI41V8t8gpdZxuQeFHEEzX%2FOyXzhV0%2BvaFHyQtYPOSnCxn2x5p0GPS2mBtF7PzXzp%2FUWljpnPHslrIOgqf%2FdkMkFFNvv8jJXWXTLGHfmMBw7kMKArQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F0f40f7536bdcae36407021ff3f213b8e%2FScreenshot_2025_07_13_01_39_38.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/0f40f7536bdcae36407021ff3f213b8e/Screenshot_2025_07_13_01_39_38.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=s1%2B8V9x4dIL8Ds5n2yQkOE2Nxq6S%2Fow8RoEsuj1ivF4v1DYymKWTXHQvZYv4VlbvdjigJGFmL4IO7MHUa%2BRDiexKKZcerQqii3XQEZYLyp63v9vaxdKh4bHOVK1R2%2FoUPf9nogUFF93TYE8zo1a5u7H%2FSBFRMOiuLxzsQr0b%2FbPaNG1yMiwGVuck9TMWHCF7q9%2FClhMHq6gYFFLDhP3Inlzsp5h5RF2mV0y6yFNpPZtFRfOy%2BtOyDIc46%2FiDaI1pRtHi%2FbXoJ9CVbZ7nkweU3I3eDDimwugPjIRB9vsYjNyR0SHvxTQSoTSPhHPCtFZw0bp9Tt76v2MPFeHXNQbsqQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F0f40f7536bdcae36407021ff3f213b8e%2FScreenshot_2025_07_13_01_39_38.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1303,7 +1303,7 @@ vs
 
 - [ファイルなう](https://d.kuku.lu/gtat5hsxj)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/ee86f308b906c25bf208798154451a4e/f67cdd9f0a18d53901f8e232c058dc5e.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=cLxySoBFEB0K9FIZ2N%2BmViYUoT3EU9sCpyEuPCs%2BRKstr24x1hoN8lI6Clw%2BW9l1oi%2Bd18I4UJ%2F1gCjyRgtxmYIdS41JdbbacrM0Hwik224u08fcX46dVLs1is0D3cmIywE7N2WNnsSjvJ%2FRm8tL%2F7pNjq8ZrM1sxwNO4AaRBbzwbmJ6WtUt10Uck43oEsDYrQlfDr32tbn0TxVdxpHf1wN45Xs8qkPYUnnpjCLvgD0Hlm2L7bPYXHFAcjz8Wl8uuHdQJ0rJaBVYkmD9tx9K6vCxZisip2T3JYi9%2BS3PutBHt%2FQsq0MgDQGqIOs5R2QDdrpFj4MmSF3V01dj%2BOwk3w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fee86f308b906c25bf208798154451a4e%2Ff67cdd9f0a18d53901f8e232c058dc5e.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/ee86f308b906c25bf208798154451a4e/f67cdd9f0a18d53901f8e232c058dc5e.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=1pZApuceFCO3aNwraIGV2ifCYohJBtbOKNhTn%2F%2F8Zue1R6shXOVtDe%2Bz7rdisdbzA85MOE%2B227bCvmW1qycmqQk02ftx%2BXZwFkl%2FwvUxoMdwPwo796q1Kq3v9wIbdbOC9Bk9MjUZ2SRbf3P6TPC9SlTz%2BZ2Ug9QfCdOahQao1Flld5egMBFNYPBXIOINAWgLsZT77eyBOtMiXWlUJqrzHz%2BBHazGh0%2BrZMlyBCMkV7y5kbVeKR%2BMatgGgC04GHApUK1aTHn7mhcR7AAl%2B8yhJZr%2FJaXd%2FhoQgAOQwtw0tVJAySiWKpJb4ysjerxazYgRuJvXoVIoPQ0LzL19IDO9Sw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fee86f308b906c25bf208798154451a4e%2Ff67cdd9f0a18d53901f8e232c058dc5e.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1342,7 +1342,7 @@ vs
 ### 2. 整理したStats
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/60386263dd6adc9771a56d2ee2b61357/Screenshot_2025_07_13_01_41_21.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=RGeLeZZPkruLnvFQhI9ANSrCh2twoU1tR0tOTQt9dyMw0qWFNqjaWln0kzGYP0LiedTIyWKtFwQbF9LnLS5JSDYly2pAU%2F4VMENnHFVepzF9KrpJMvbG4MGwF808ea5LAmvHcAUcpHP%2FEj1yQxIaxyji%2B10gpAo%2BURD4Dw6YTL1G1EyTyORiaBnZn94ZHlpV45NW6gGPNeBx0Emif2DC8Df3yhGVBg9PkWE9F8Y4ue1RO5oOtbmj8dA4Phk8H4VwFvxf6JdoYTEwCzM660t1714oOAvTNnB%2FOpeutZ7vBq5CvPaKKpU7h8WijP4fI%2BOa%2Bt54n6SBgfzdOgZRPS977g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F60386263dd6adc9771a56d2ee2b61357%2FScreenshot_2025_07_13_01_41_21.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/60386263dd6adc9771a56d2ee2b61357/Screenshot_2025_07_13_01_41_21.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=aG0Rrk%2BdBn2I1%2F%2B7VF5DeCq%2BAgNiN6X%2BL8nWB3MyMC9zgvCHKmDxy%2B649hj%2B1iH3n%2FxvmkUVytA6SyXmC5F4swFjY3GIp648TkpWWfK67gxLLyiL93NWYCRiR2%2F3iRZOeI%2FXNkTMTfhjZ4oRkGba0Ul4mEwbDwwboOUAzMPi9x%2BjjOOoxO%2BKaFpTwlXK0xsBR0%2FaoNYv5WQGlCIHdBuPS8dtOL0Z%2BW8mVuQBkNHLf3jHi17wRn7Hu2xQO9QxDQaeboJT0kltXB1flDyOFSpQP5tYnjX45AIraKHibKWk%2FeDnRwxTKUgpgtV93LnKEFBSZl6aF%2FPUtjBCeXOXEnGTmw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F60386263dd6adc9771a56d2ee2b61357%2FScreenshot_2025_07_13_01_41_21.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1359,7 +1359,7 @@ vs
 ### 1. 第１試合
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/afcc1b9ed39e7353a98c42f9221f26fb/171d2798fa9b09e7303c47d120adb5c6.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=uNSdZqXdqAKRWiacsCOtBPNHzl2W1LTsc1Z0R3jVWGmTeoFRZxtviaUkvUShaP7Ar8NG7w%2Fi0%2BuXukA9oTUlQUKQ3aeUdli1MscafVJ%2BWtSODhmsf8z0%2FjCxfUukuOk%2FD7aOo1f4nWteqfXOpe14cDzy7vQMQjYLwFSmbfaTccIdVXwYepkejGjt3oKLGlWHVcQZOF0NCWxqAnnYpvOdVF0A8WYBvdjSCE3ne3TnEwPgsLXIj0Mef0HVe6D08ZZwkpBMXCuVmyR8a96TVIutkAqsVE7ThW5Rv2qXFK7e4%2BWZEFyzfeaAorz5Ux9Y%2BIOm%2FiMybXu1G9FspJh7Z%2FOupA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fafcc1b9ed39e7353a98c42f9221f26fb%2F171d2798fa9b09e7303c47d120adb5c6.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/afcc1b9ed39e7353a98c42f9221f26fb/171d2798fa9b09e7303c47d120adb5c6.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kqHrPfBy2dl6jLhtgGLXmBFddxVK%2Bm35dbpCtrEkrex3PrAbLHlY%2BMbyEBD4s4PWYXVIbl9DYneSYsQ%2B3JJX34RgAMbAMbPfVsBP6K9%2F24DDusZZCXTrF%2B4BBlFXqfL9eT1i2ixL%2FpM1GmMoko9amHGA6hqXW6EEwFKQWKh6llTQox196vcVvxBIDg43X0sOar59iSWpsBuAjD3GTvpiDUsCgIQia8Hp1%2FXE9SyUPFjpxqjV9At4B1uq2U8PKBOR%2BC5DjE2Vicx%2BhBDCu44EQ4H9Qq7ktM4KnVC%2FcBik4Zu4IG9OAlwwoXKn54dEflsWD7ZY2iz%2Bh23wyE0kGd%2BGLA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fafcc1b9ed39e7353a98c42f9221f26fb%2F171d2798fa9b09e7303c47d120adb5c6.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1389,7 +1389,7 @@ Stats無し
 ### 3. 第３試合
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/a1550aac8d1ce31ca82f6586531b7a15/471105a68cc873f09a19c1e788347d08.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=y2lPG81fpFEBBrVE69m6JNRn%2Fhd93%2F55g%2BSvxgeolaFe2Fyzn8lCyq8sALCEO9OwqTTe0Yrm8MnsmxVAvAjnARoQHFHbUiucxNOT%2F65v4NhddU%2FgcuAcy%2FGAW5OFIDBqo6FPVhBLIoaj%2FqADyTiQ988JbMTkcZi7uEEj5ohc63efGQQL2nEXq9cgRekU7wkeuk2MnTWr3DXlNX4Dl72Ztzr8q%2BHtNfJzi%2FzaCMCffsQuclffKoZxR605xUFTr5H7Sq92c37LgKcoKwbh0jbDSht6CQX1e4MbpqE6Xs4S0SxwjjDM%2FaB3RvRLrhiM9jSEF7W27Qix%2BQwswdxIo6einQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fa1550aac8d1ce31ca82f6586531b7a15%2F471105a68cc873f09a19c1e788347d08.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/a1550aac8d1ce31ca82f6586531b7a15/471105a68cc873f09a19c1e788347d08.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=caNyeQghF00olvDBetG4d1L1i4O3KoypUSJm9qfwmqVw4qQTnr6lxN38wTqKAD3fFBUWoFjeUFKKk3U4rrVEc0h9oL6AsU8QCr%2BLfXEbXegrE3Brj%2FQA5%2BuO7noixPvumXRQBqOx9ilGes6uy5cNzK3QHHyHDn3pb0rseHct0LgFDqd8%2FGdaXkU43Na4EPg4xm7JVSGZnaep%2Bud81HY4Gtlth8V8NOERUtoweQFXW2KuVk0viy4gN5WQaPxwAQquJSVWBlkM9SxVMYAG41gKDXqE%2B4ekGAsIlUxbpbdZcvNE6cfGmGTHUTx6TkiP31dbVKMtpzwqWjYq%2FmxeVsrfyQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fa1550aac8d1ce31ca82f6586531b7a15%2F471105a68cc873f09a19c1e788347d08.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1406,7 +1406,7 @@ Stats無し
 ### 1. 第１試合
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/c44fd5266c91ecacf3c65041ec7dece9/ef47a9a1a81fb07e1ef23b819d2d98c8.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=IU07qf6f6GsUFKud05Uke53yNMt%2BGRpd8idPAYawKd3qOGvkTkx0EI25CNI0F8rdlY8YRqbIJExa%2BcGi1Fs0YmHbvsFpCCb1N5QomFPSeXaRiuwbLriyvN4Gge8A8W5rIGZFWJtKgAnr2Ucds9WS8goINgrvI4zmpqh4o0JOHYSWRAQS%2F1ycBQxMQXJWGyk%2F3pkNhYHyYErswaD6qFRGMh87p0EMb31eSLhRBcny1PjLQ38Ww3aBkyFqLCZVw9W4%2B7zOtiBulBNDB1ai%2B0z2cqJRMVUopTdkBRSyUBb%2B%2FakGNxUZnSRYTkbg0yjzg4Ub9szvkEnZoEFaUwRFYkC0FA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fc44fd5266c91ecacf3c65041ec7dece9%2Fef47a9a1a81fb07e1ef23b819d2d98c8.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/c44fd5266c91ecacf3c65041ec7dece9/ef47a9a1a81fb07e1ef23b819d2d98c8.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=AZoFbps5CBUBUMRQkulVPJFfYBtpwFyvMvgU3QvHypaEQWcei2bxLGGFZKJ%2BS5nOGU0pAs%2FIfVgNZnV1QuvSBf4lEkkUAZ2nIC7L00pHfRLFR5GWDyAOS7eKX%2FUegOypJKyK3JbfewYd1Jq5m3Op9KYkXN8tFLnlKNdYnci25hAdcM90XnNKQUNeIdACC3PXDephntoCXcUYduO%2Fzr%2B0u1JskI03fUnrXeTOMlbWx2NzbzR44%2FDd8hpDRIotumYpUdQ0WtjWDLW4WxPPBErUYn5hehX8JWPV0r9EGln1u14vbk7X%2BN%2F1gRflPOqVC%2BJt41OMkot8XGuzUc88M5wZRQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fc44fd5266c91ecacf3c65041ec7dece9%2Fef47a9a1a81fb07e1ef23b819d2d98c8.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1421,7 +1421,7 @@ Stats無し
 ### 2. 第２試合
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/903d95b0698dcc7695c1a428e9ef0887/0227d222fb6a673b10841ffb1440e940.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=J9KunHdjIx5am%2FcWCD3pMMNWABYN3Zd5xm9%2FB%2B1eVbcVrmxKdIX709m5SXudoToH4%2FZK2qVPRkjdtIik%2FS%2FrjuBQ4ZIafHxrSl3rJ%2BY5A%2FKEKwHjZA0BGXc0A5z9PCX%2Bq1g%2Bl4hKVsy3fSklmBikVsCtfxJHpcz8nxQzV72wLDxsRUAZ%2F81f19iKj%2FIp4sMY%2BcI2hFNGOsMu5vciRXiBygfDdJbe3ilZYxnU4JHGAPY3wvlRWyaj8z6f7zZlnNiYkAXBLeSqMsxIms5PApkxqAfdoIGDDopeTOrY6a8%2B7iy%2BCCLMsxzxNSxMDmWJSDq3oGBzvcOamsRAzrZSaZG8FQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F903d95b0698dcc7695c1a428e9ef0887%2F0227d222fb6a673b10841ffb1440e940.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/903d95b0698dcc7695c1a428e9ef0887/0227d222fb6a673b10841ffb1440e940.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=AopgUZ3jsSZXg5ygd1%2F%2Bi3PWYEKs3%2Fbe7OniBh0e%2F25YZSzA12ZOMs0HX840XZ1dCEmjnkoKLnX9a0gpqhnVfy1m6zNLPDRsO166Zl4SfP3X%2BuqiKz7Tj5EqP4ECjPGe9Lovo4zPRRmIGgsSkBmjyW%2B0U44qzv6HhxtJ%2Bo4PLSEvwxY9zqB9uq9M%2BQX8awAd%2BYVQMZ1ZXK9aYO9ic2dLxWeQ9ls41xLQnzwOPhTA5So1RR9jm%2FRrJVnLY1uOuLe7d3DmXL5Rc0ZDr%2Fp4sEdwuUBGF3%2BwSDwVLn0zCgjQsCYPDK%2Bn%2BgD4s4IGJ%2FLwc9J06KQVt%2F3BB8T%2Fn0hJhU1Bzg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F903d95b0698dcc7695c1a428e9ef0887%2F0227d222fb6a673b10841ffb1440e940.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1436,7 +1436,7 @@ Stats無し
 ### 3. 第３試合
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/accae65d10c66f20caba584b1d76f138/a221da394bc40ebf35875488ef90de21.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=VIrhu5UGNExfznuaAR8GgnH13vKf%2Bgmsc6O9VQdCTGG3FaJT1ncWVDS6pTegQ3H8PV5VJe6jTA1cbjlHrXHUah38BzgE0ToH2Al86IzQn1Dlz74co4US2YFN5v7E5do2sxGVdKL2mSKzMnbmFIAn5I4si3yu1ETg5%2BQ8AkjkhnKSbcLd3kgfwHQh8A4NG3TiqO%2BjJywC32WRQlNhQ31Rv9B8yvv45jqPmwiMCeXAoH35sDYE5cY8AQnnch5beHUFtUhQI1aZ2nFK68oY5awpRdeW3ETOJJcqeqTxMG1ugH3yhBnZvsVAHweOFE%2F6YirCvMuJiq1RWaAoJZZhjrLPVA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Faccae65d10c66f20caba584b1d76f138%2Fa221da394bc40ebf35875488ef90de21.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/accae65d10c66f20caba584b1d76f138/a221da394bc40ebf35875488ef90de21.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=ssQh%2BGzTbZQK3DcHnwEua67W0B34veR6jY2J0gm7ZE05J78Hs5YW%2FU06TdUMlREBVGGkhVlZLV%2FYC8WrjH8o4U0Kq58zuFPLoaKFyWfrQQtgngJSBg%2FHB9Nr%2FQYPZ9OPjDqB8uobWf2yzlHyRMlAHAGDAQBlHP8fzS7CpG9V9mS9kkpRBce7h%2FDNfdL7GFPcmt%2BCthx8VW82hwbaF9lFxC0gVNJMt%2Fod1QMPRvup8t41BHRKni9Vc%2B9wLvmN%2Fe2D43UB3lSjBKXSZqtn%2F%2FVAfywiXndb4WvcL75vCZf0r%2BFc2PIGY1UreLMG24M4h6jwM6PrBOj3yA9v2X4MOIMblQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Faccae65d10c66f20caba584b1d76f138%2Fa221da394bc40ebf35875488ef90de21.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1453,7 +1453,7 @@ Stats無し
 ### 1. 第１試合
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/3c0c19454c1126ff77d2a37a17e31d69/47252fa432935c2a8cdd756fd1084592.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DFG8KtAR%2F5peCqt5illDgAFPGUULgjipPzKh7TUmLflNOovZ5tm3UA86wOA4g%2BUzGts1iBDcFo5zBPAo6Gui0Z9YElS%2BqlP0gzH3nl0QAax%2BBsHgzICKXT8msn5UXeQtiUZ1RFk1mQrBaUijpe6X77KP0%2BZTq8Y2%2FTdy5kFv1HQo2vi%2B8eq%2FjHHHDPB%2Bitk6quRNgFfjYF5RwswlIcNA6Du5mQ3BhRefQmbOiKv2FlL7WcAfaVDV0SOqCcIfxmCujtonWrDrNqL%2BDoUjR3k11svD%2BjpAkJWzANP4fgSan4UwkszKsgFFM37ZkWwVeV4UaOIpQq%2F2KAsLjOcMWGk7Eg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F3c0c19454c1126ff77d2a37a17e31d69%2F47252fa432935c2a8cdd756fd1084592.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/3c0c19454c1126ff77d2a37a17e31d69/47252fa432935c2a8cdd756fd1084592.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=c%2B0RlcMLfFAiuDRYYvWlx0nIIH66LIoafOh9sIjkqu3WDEiW02WweUNKngUiEQsS6qQ7%2B9pr%2FGU5FEE7uJ7ZDYyHcYmZNunBAd41sf1fht7CRXlFkjfZyuhPY8qdjL37YE5oqHSce54uD23quttikbdY7XqbITxMS7zITPAp6bpUgY9j6Y64huXC0qM3TpSZ8sh8T%2FEbC30Ddk7oGw%2BBwByNfcsFz%2B0k5V0tAFQFIn97zigjLn2rBAF5bc6Rlv5H0PK541hkRyUUQuv1Jzt%2Bis2FjjqyHJRPJbhGhWzeTtkpFFjRMhIPRwrNNh97FY4YaVVOyw7%2BnpxDuJyLNqrCLw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2F3c0c19454c1126ff77d2a37a17e31d69%2F47252fa432935c2a8cdd756fd1084592.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1468,7 +1468,7 @@ Stats無し
 ### 2. 第２試合
 **Author:** ᏁγᎶ » Tøka_Kuŋ_ (Toka_Kun_)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/b0a23eb76eea787b1670841b37f0165c/3d590ccba9dc00d7811115e8ffdafdf6.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=FgSoGOb0QGs0sBerLTJecgq4vbEs07u4Bn0eEei%2FX22eDp24eVWCO4vj77xp8drt%2FBhcKKIHCxD1IfRMaycFzWz%2BTK1tyHgLw7JmDJv7YZhfDpAvH3qtptCY9MAQkZjnQMtydZZ9YWNA5pnstaXRoP8m4zlTZSus%2FblQaiL%2B0p4jXuljauz8hh2hSZ0p7RDKvwsx8Odqu5fcJfKq%2F%2FEukebDy%2FcUKcftnng4iarM7CmJO6KUrRDzjo8sBCFw1dIxMSAsrdwQ0iYYNajzyI0FhikKX0BDMNZPqhjEU1MLHq8O2vMb9wVHAnNM6nyZkrkjQQr%2BG69FqqQBeHEKnKvnIA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fb0a23eb76eea787b1670841b37f0165c%2F3d590ccba9dc00d7811115e8ffdafdf6.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2309299121/b0a23eb76eea787b1670841b37f0165c/3d590ccba9dc00d7811115e8ffdafdf6.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=7pnU4UWuOJxsyc919lM5c6NUyPT%2FnqCvVcvsVP449%2FvjwQZWcV%2ByLgeAtJDe7g9ZXo4nzDcPt%2FYm8rrKYTtHw%2FFA8Z8%2FRu6he1PwHjtw28DG4Q2xabVNJdnNv6GNgnYX17y1j6s7Zi1lY16t%2BzlxX6ahA2zapU2W%2BPHqZVzLU2CbVXa32Ti1mHFCQ3psV2EZRxiC9KWwahSQkac4Kd7aqH1gXV3%2BmX2Jn8D9MlZ3nElUT5ahmO2LlO%2BGlO1vduwG%2BXxMR9iE4xRQWHgFS%2BnycN94d4hOm1KIrjo%2B8Crklt2LrzjKaWeIJMb%2FBhkuHRmz%2Bg8Z84cIzK09c3ozVUrlBQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2309299121%2Fb0a23eb76eea787b1670841b37f0165c%2F3d590ccba9dc00d7811115e8ffdafdf6.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1544,7 +1544,7 @@ Stats無し
 
 - [ファイルなう](https://d.kuku.lu/evej4kbaj)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/3001b04494bc87fd22b2e111e84c3b5c/20250316_2145_993987e31461fb2bc41b58fd9d31808e.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=DPL2m8zjGy5n1K%2FkuqVENKJWx2AsuGxrUFY%2BTwkxSp%2BnZnA51VyezR3wfK5dgnyYpYp2cHv8gwPs8cPq8oJVkEjz5EpeoSrrKVwjfLSDkqmLCNBschuib%2Fyf3HKiCEBToIxdszqmk05Sq5GzvJzYaclkXXZU1v0QBqwzwwMv%2FqGKZQxlfVyL3vN%2BXWmhu7wZ75Rt5ZNFT8k%2BwNEa35nmm0if3tM06nhtltngGgTP7sMaCgnrYwYbaBYqD7gPYRfClViZ8wvq82ZdhEmPm8xHqv%2FqH37HAalhHqhKJaOSL9FntbeEo%2BbOQUs8p8NoG2%2BspAt1hvkRNL6xMEqOVn3Ojw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F3001b04494bc87fd22b2e111e84c3b5c%2F20250316_2145_993987e31461fb2bc41b58fd9d31808e.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/3001b04494bc87fd22b2e111e84c3b5c/20250316_2145_993987e31461fb2bc41b58fd9d31808e.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=kXlIZg525uNbbH5U365NQGOrcnZC1IlDlrdwMc6ZsyIdaJcq1lXaCVJwCPUIZayhfJu2Bn3uXzXCATLxWnKPry4Ods5%2BAMFsvA6enKhYQ73om8GawstvEg9%2B6M5o%2BGy2wxQnawj3rYanMJ%2Fnyw6I1xsSPPtS%2FhYol9arva32AGRn0m8ma8oeEx5zqCGIiK2j4IhwXe7X3uuIqiIWDV3i2Ivctl8OXMumJrkQgHFtSUaBsjZvmaoR94Im1caRU5AwEdK%2FFDIBXorHPa2p2jvKTEesUTkfm72s%2FV7deKMsuonJ9lho47%2FvTvQn%2F16%2FDOA2ctXAlAz%2FQUNb7Z%2BfF%2BdkWw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F3001b04494bc87fd22b2e111e84c3b5c%2F20250316_2145_993987e31461fb2bc41b58fd9d31808e.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1565,7 +1565,7 @@ Stats無し
 
 - [ファイルなう](https://d.kuku.lu/muxeeb8dv)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/74e6bfc4204fe93aaf801e50dc9b4faa/20250317_2138_db93214f207e958ca5635bfaf4050bba.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EdBII5gR4OMIvdKdoWyahBZDWbO6TlnP%2BqnCaOyZlDdiJvk4ZlkEZtI3O89DI8XAELqQH9U5RPCclm%2Bmyw3SjStLSvQyHkjQL6XhBDkWHYzrdYlvY%2B5FqqgcCRgn0W26TdFKpOwCEZakvabhsuTYSgIsWCZIvqI7TN6TgTS%2Bub919nElx02r77BlCmuqV0H5elcvd95gUP1O5BtOhb1nkle9ZNl1z9cyhFQ3MFS5xIdFwiIJe%2BRH6xovjq3c4XnHy5sbBLIVk7ISkTAdnafslj1kNFKY%2BtlWiM5S%2BUlLdNES9n2yKILJcv6pAUVdpNmw9lgdOqM%2FjkPELIhxq%2BVb2w%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F74e6bfc4204fe93aaf801e50dc9b4faa%2F20250317_2138_db93214f207e958ca5635bfaf4050bba.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/74e6bfc4204fe93aaf801e50dc9b4faa/20250317_2138_db93214f207e958ca5635bfaf4050bba.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=aNfnnmDT7%2BIwa3h2MwRQ4cXe2Jr0qIG35p6zCSI4vz0YgGqZb9utlzXROExZdRLgAe%2BFk3MRB19yOx%2B3B%2F0pakpehetITC72B8Wh8TnWIQOEtVbEt2VcgkUQ08X7hU5x2k0tlOMeFseJFi1G1IKG7oEeC9FYRRU%2Fy2EBWcA5lPhmrvn58FAFpnWErXdgMDJ32FB%2F0y3HWmriY93aibwajIzYIuePilD5LNZ1Nlrd7%2FFksFF1Cs5KrLNgFqDwXXj0EX0NGmT2Zq%2F%2FZGVHRZxqluIIXd4%2B0XYlKq8AHaFMXrdv42fb5jif%2FCtJAeFUpAGn3TctzWGSGl4G%2FgKQRylrFA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2F74e6bfc4204fe93aaf801e50dc9b4faa%2F20250317_2138_db93214f207e958ca5635bfaf4050bba.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
@@ -1586,7 +1586,7 @@ Stats無し
 
 - [ファイルなう](https://d.kuku.lu/suz8ae3ks)
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/d244ba5be4fbacde86192ae8a73518a6/20250318_2100_7f07066f586fdd58a793024c9a9afeae.png?Expires=1796042630&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=0wPEL33Um3HhXA4jzj%2B43QELvm61xM31cn7wFMciNGNhC30oS0W1hATVyzjNim0baQQ%2FRF%2F6y1RRAd0xnNLV58jf0WRwAg7%2FLlj1i2n4NFh8vVylBhNEdUaSXVLcLAYaMj%2FKlu3%2FMYccQiZ0wakHDVtk7N2%2B%2BzHCpJ%2BQrRw10JNZkYiD4hL4vt9AMew6rcU%2FgJhR7AQkk0Zs6nmS4y55Yy4B%2BtqME8wc6VgiPB10bqkD%2F2H8DXieVo0ekytnz61en1SgeBC9vSJBYd3WCO6%2FueC7wLPha%2BCvi6RMyA0Rf0DJ3c0t6mXcru%2FMsSzKaIJThX3LbI3PD3gOypZBpDeT4A%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fd244ba5be4fbacde86192ae8a73518a6%2F20250318_2100_7f07066f586fdd58a793024c9a9afeae.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads/2309299121/d244ba5be4fbacde86192ae8a73518a6/20250318_2100_7f07066f586fdd58a793024c9a9afeae.png?Expires=1796070842&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=5Le%2FrK3Z8tB8RX5HSxSD%2Fl8aL3UXSj%2B0RAgIvpROh0dfW%2F8KI2Kni0Gu56H7uvqIH6M299kuYmMCuIUw2zvm%2Fh1L9b9iAW7cNZAQynF07SBFUdS1B79F%2BGsJJlxfz%2BDY0X6PIXvLF4it62icGVPRmzhM%2BC3ta7p%2FVunuhNbq%2F2MxiiH%2Bm7yXzNTZ5HrhLW38kGWG5%2B3kCmG%2BHAnEbTWwnEmrP7Z4ubUifcTmIdQSqBhrToP%2FC%2B7TNj22rd%2Ffpvtj6Vh75JqM8VEdw03sGeVqA%2FkGuwC4Akz5lBaBe1QJdSSvKrVtEDJ0l2%2BRVd233%2BYBbuYlBjDRD2qZ%2FoAQVtaKrw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F2309299121%2Fd244ba5be4fbacde86192ae8a73518a6%2F20250318_2100_7f07066f586fdd58a793024c9a9afeae.png)
 
 #### Reactions
 - **Emojis:** 👍 (1)
