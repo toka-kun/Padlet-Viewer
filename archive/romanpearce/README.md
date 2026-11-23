@@ -1,4 +1,4 @@
-最終取得: 2026/11/23 07:28:23
+最終取得: 2026/11/23 09:28:27
 
 # ローマン部屋
 
@@ -7,7 +7,7 @@
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
 - **Posts:** 15
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Nov 22, 2026 12:38pm
+- **Updated At:** Nov 23, 2026 12:01am
 
 ## 受付
 
@@ -111,13 +111,13 @@ Suixaっていいます。
 ## 雑談
 
 ### 1. どうもこんにちは。☺️
-**Author:** 𝓝𝓪𝓰𝓪𝓷𝓮𝓰𝓲＿ねぎっち🟩🧅🅢🅛🅘🅜🅔＿＃makunami族14代目　♯狂鳥族5代目　＃初代つばさ教 (manasusieru)
+**Author:** 𝓝𝓪𝓰𝓪𝓷𝓮𝓰𝓲＿ねぎっち🟩🧅🅢🅛🅘🅜🅔＿＃makunami族14代目　♯狂鳥族5代目　＃𝓜𝓫𝓪𝓹𝓹𝓮́の1番弟子　＃初代つばさ教 (manasusieru)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
 #### Comments (3)
 - **Suixa** (Nov 22, 2026 08:35am): こんにちは！
-- **𝓝𝓪𝓰𝓪𝓷𝓮𝓰𝓲＿ねぎっち🟩🧅🅢🅛🅘🅜🅔＿＃makunami族14代目　♯狂鳥族5代目　＃初代つばさ教** (Nov 22, 2026 10:58am): ( ｀・∀・´)ﾉﾖﾛｼｸ
+- **𝓝𝓪𝓰𝓪𝓷𝓮𝓰𝓲＿ねぎっち🟩🧅🅢🅛🅘🅜🅔＿＃makunami族14代目　♯狂鳥族5代目　＃𝓜𝓫𝓪𝓹𝓹𝓮́の1番弟子　＃初代つばさ教** (Nov 22, 2026 10:58am): ( ｀・∀・´)ﾉﾖﾛｼｸ
 - **𝓜𝓫𝓪𝓹𝓹𝓮́ 🟩♯つつきの森1番弟子♯狂鳥族2代目♯9代目女真族♯だいまだの9番弟子♯makunami族15代目♯りおとの4番弟子** (Nov 22, 2026 11:59am): よぉ
 
 #### Additional Information
@@ -135,7 +135,7 @@ Suixaっていいます。
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/c3f44a4122ec451b521d8cfa3e113a5b/image.png?Expires=1795991426&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=rfsUE2CuLBbgfn6RWii27%2FGdhDrFcozZu7HfeT0BmHxBSYvgEO3NH8MFmW9i8fAKFm8BXeWTctPM8m2zI0y%2BAbIJf%2Fd1HlAU82QMzP6wnXXA%2Bkmb3J6bjn3NrwbBRT2LBQ%2BVhBPUsP%2FFm%2FbRg3Wm0DJg5CftIUaFPxkzHM1OLslOruyRCqI8K8o4UDOBS%2BHc8m3y4esfL1FlZ%2FRSibSKtMqwByfgL6ADz1b71GH2%2B%2FUgY8KwRK7La1NmbdE%2Bfm4hgM8lWVHZDTFwk6raEypoI2pmlJ8thR0cFqozfLCKvERYotci%2BkaocEZawmnoNkEGc%2F10q2V8qx1wrthDYpXyqA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fc3f44a4122ec451b521d8cfa3e113a5b%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/c3f44a4122ec451b521d8cfa3e113a5b/image.png?Expires=1795998656&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=sBXUuOtU21sg3QPD2RccC3BlVUcJgCea4hTRgRWFJgH%2F%2FCZNaDWaPyjO32eYufjWvRe7zlFvttENGn5MtkAbLdWETRShjLT3491e7rJkNIoWpZEFkQuw4aUu1iztib6RW0bYe5bmM94Yoste6Fz028yi6AxZEeQD9KuLn3J4jxWJ6c4D8L2G9Bv%2FNaXY%2FSfC0DHl8zABQ4UVWsb0REAyd2Bc2BLo8LEgJADx8%2F4b%2BJIrUmhAJtO4ZO8t84FsduY5QeWhPyrwYu1DkzxAR1dk%2FzS%2Fa4U6ZtwVFAUEnoAWM7eFrBK7VUbCqi6ldAMGpMLfbzkso%2FArMZ8ZiYRR4hesDQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fc3f44a4122ec451b521d8cfa3e113a5b%2Fimage.png)
 
 #### Additional Information
 - **Created At:** Nov 22, 2026 05:52am
@@ -183,7 +183,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/b2a860c47328da59d01c1135b0305026/image.png?Expires=1795991426&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=KlP%2Be35fsow5R%2FY%2BtIrO7k8PvPp%2Bpy8QRpnYtM1dUrJd3ykKChjEcNjMr5TFayzfRmmPz5BpmcKZAPu8BA17RtOOWZrCEUbBeMwAoe4zWMQdm%2FtLUbuEIX%2F74W%2BG6eyo1LXhazt1VbuISGgITaQB5ECRJOtIToTWJuAbJYeCJ1yBO2bHx9ev%2B6bnxXqgFJRhyoMjujT2QL%2FSt2nPQbdkvXYtIB9YXDkEL4s1Og8ciY2s05CN8aUttSjWFidE%2BzbHPT1hMVl4ZLyt7%2F9MnlTalbbxnd6vlAuKp5a4jz4M6vKRFwmAs4yRM8BbZpTsp%2F1j9pK%2FnO%2BdmQkLX6%2BLMXrZ5g%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fb2a860c47328da59d01c1135b0305026%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/b2a860c47328da59d01c1135b0305026/image.png?Expires=1795998656&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EuZkC12De1ix23hxNGn5ItcvNd31OjHK6V780jTbrEvnk3%2B8wIq2tEEeJnpPD%2FJnMMeueyd9TbSMN%2Fl4XdAIe%2BLVSdr5dbpABC84%2F%2FSB2eeBCGt54Iq7pgooSe4k8UzozFR8wF0Lb8H5J%2BF9prmU8vvFy5UgzIEelG9x2dwNp4NTfOhc6abaUF%2Bk6lyJ7660GggW8%2FvPZSKiaMt1Bn4u4f2J6bOEZWNdtlYZgAbQSkuI3QKV5Fe2XJThx0Dp9HHGgJOD6Wcq6e9aRdjCvGYgw0qEGWUGtF3fsWctwg6ZjRYuSkl9azTxi4H5Qaevt1Ps%2F1dx9DQTBnsl9c43fLHhKA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fb2a860c47328da59d01c1135b0305026%2Fimage.png)
 
 #### Additional Information
 - **Created At:** Nov 22, 2026 11:14am
