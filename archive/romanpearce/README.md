@@ -1,4 +1,4 @@
-最終取得: 2026/11/23 09:28:27
+最終取得: 2026/11/23 11:55:46
 
 # ローマン部屋
 
@@ -7,7 +7,7 @@
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
 - **Posts:** 15
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Nov 23, 2026 12:01am
+- **Updated At:** Nov 23, 2026 02:37am
 
 ## 受付
 
@@ -62,6 +62,9 @@ Suixaっていいます。
 よろしくお願いします。
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Comments (1)
+- **たむ。** (Nov 23, 2026 02:38am): よろしくお願いします
 
 #### Additional Information
 - **Created At:** Nov 22, 2026 04:52am
@@ -135,7 +138,7 @@ Suixaっていいます。
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/c3f44a4122ec451b521d8cfa3e113a5b/image.png?Expires=1795998656&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=sBXUuOtU21sg3QPD2RccC3BlVUcJgCea4hTRgRWFJgH%2F%2FCZNaDWaPyjO32eYufjWvRe7zlFvttENGn5MtkAbLdWETRShjLT3491e7rJkNIoWpZEFkQuw4aUu1iztib6RW0bYe5bmM94Yoste6Fz028yi6AxZEeQD9KuLn3J4jxWJ6c4D8L2G9Bv%2FNaXY%2FSfC0DHl8zABQ4UVWsb0REAyd2Bc2BLo8LEgJADx8%2F4b%2BJIrUmhAJtO4ZO8t84FsduY5QeWhPyrwYu1DkzxAR1dk%2FzS%2Fa4U6ZtwVFAUEnoAWM7eFrBK7VUbCqi6ldAMGpMLfbzkso%2FArMZ8ZiYRR4hesDQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fc3f44a4122ec451b521d8cfa3e113a5b%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/c3f44a4122ec451b521d8cfa3e113a5b/image.png?Expires=1796007498&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BG80jmptibu7VDiYRlOaP4eeDS0HzWKSpksGY99cfOyOR6je8ZgyiXGmsmK5lk9sHMu5hJao3b7eAsXmiLFRMMzLwLvp6kV2YR%2BwmxuR2nYARl4xQ7l6hQXNSRIptWPygqkJLIOKHmOt7stj3qPLrS2QNksFzgGlnavUMDfiVduO2ZCMQsCySkXUS0DFI%2FKiZSQGuvZGfDdoB7Qxb6FiJZ5kYqkxHezYb3bmQypebpqyqym0mNimPGf0a9lkJCNTTLX4bmIPxU3FiXq4cjawI1nJhk4PECs45dTvwwflUq9Vjug5y%2BT%2BhRmXb4qWDj2mP4%2BFk5qsMZx82DKH29k6Mg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fc3f44a4122ec451b521d8cfa3e113a5b%2Fimage.png)
 
 #### Additional Information
 - **Created At:** Nov 22, 2026 05:52am
@@ -183,7 +186,11 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/b2a860c47328da59d01c1135b0305026/image.png?Expires=1795998656&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=EuZkC12De1ix23hxNGn5ItcvNd31OjHK6V780jTbrEvnk3%2B8wIq2tEEeJnpPD%2FJnMMeueyd9TbSMN%2Fl4XdAIe%2BLVSdr5dbpABC84%2F%2FSB2eeBCGt54Iq7pgooSe4k8UzozFR8wF0Lb8H5J%2BF9prmU8vvFy5UgzIEelG9x2dwNp4NTfOhc6abaUF%2Bk6lyJ7660GggW8%2FvPZSKiaMt1Bn4u4f2J6bOEZWNdtlYZgAbQSkuI3QKV5Fe2XJThx0Dp9HHGgJOD6Wcq6e9aRdjCvGYgw0qEGWUGtF3fsWctwg6ZjRYuSkl9azTxi4H5Qaevt1Ps%2F1dx9DQTBnsl9c43fLHhKA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fb2a860c47328da59d01c1135b0305026%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/b2a860c47328da59d01c1135b0305026/image.png?Expires=1796007498&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=liuZ5AaSuJEZyim3RW%2B507UHb1wx0H2RbLl3r1aw6eID6%2FK0fBWBLFVDUKRrMkPrYBdNj9urVT53FLHG%2BsBOoJfUVP26Owc58GLkhu1QC0LUW0EdJDlJHQzOyP1r1FEAmtVIjQS8dkbHiofHk139uEPg%2FThhXpI6ZuWBMJF1rXYZSNl3y5524vgk6WC8wLxmWAdpanuD3ccoG4xSbJsUrxdjAbBS92UShOVt8cjCSPyMtQu8IO7TUnu4ql9BifQrlWv7pxRGYv8%2BPE4sewEF4m1i1Dr4%2BVgppkkcRvOZ9YtjXFUyx1zwLTtD7O4qkMpgR7WFBEkV6pDWfyvVZ9tObw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fb2a860c47328da59d01c1135b0305026%2Fimage.png)
+
+#### Comments (2)
+- **たむ。** (Nov 23, 2026 02:37am): suixaさーん
+- **たむ。** (Nov 23, 2026 02:38am): シブリバ共栄圏入れなくなりました：
 
 #### Additional Information
 - **Created At:** Nov 22, 2026 11:14am
