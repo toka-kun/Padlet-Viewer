@@ -1,4 +1,4 @@
-最終取得: 2026/11/23 11:55:46
+最終取得: 2026/11/23 12:09:32
 
 # ローマン部屋
 
@@ -138,7 +138,7 @@ Suixaっていいます。
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/c3f44a4122ec451b521d8cfa3e113a5b/image.png?Expires=1796007498&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=BG80jmptibu7VDiYRlOaP4eeDS0HzWKSpksGY99cfOyOR6je8ZgyiXGmsmK5lk9sHMu5hJao3b7eAsXmiLFRMMzLwLvp6kV2YR%2BwmxuR2nYARl4xQ7l6hQXNSRIptWPygqkJLIOKHmOt7stj3qPLrS2QNksFzgGlnavUMDfiVduO2ZCMQsCySkXUS0DFI%2FKiZSQGuvZGfDdoB7Qxb6FiJZ5kYqkxHezYb3bmQypebpqyqym0mNimPGf0a9lkJCNTTLX4bmIPxU3FiXq4cjawI1nJhk4PECs45dTvwwflUq9Vjug5y%2BT%2BhRmXb4qWDj2mP4%2BFk5qsMZx82DKH29k6Mg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fc3f44a4122ec451b521d8cfa3e113a5b%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/c3f44a4122ec451b521d8cfa3e113a5b/image.png?Expires=1796008285&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=Qjz1rT%2FAoBkZR27FMHOxjxVDarVnKRyatFbHSHoLijbgaE3PYdPKfuyLa5nlGrG6XVOUfRZjIgQRyGBz7R19a6%2F0C9VwBeBHH2UYjlVrSMA49kanGLaDzMFrls5FExYxYCQM%2BQGhoLmSEAQgLaZrSsOPpMgbyaj%2FZp2T27FEjhg2ZZ0u9bsH5FIpaJVwx%2BGuUSK%2BnrAW7FrGS4zPXgp9ZbAZUyu6o0rL1dZ%2B3%2FQJwrTe6WoAbv1RZcP89aJRRHP2V0wh8s7348gTH0wcdDD74L1ROS4Gkum8gOY%2Bsd0O5QT5cZ0k9w6CncFwfXROYajtLon4Xft5Ps4ijwtu9ajWtQ%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fc3f44a4122ec451b521d8cfa3e113a5b%2Fimage.png)
 
 #### Additional Information
 - **Created At:** Nov 22, 2026 05:52am
@@ -186,7 +186,7 @@ No post
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/b2a860c47328da59d01c1135b0305026/image.png?Expires=1796007498&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=liuZ5AaSuJEZyim3RW%2B507UHb1wx0H2RbLl3r1aw6eID6%2FK0fBWBLFVDUKRrMkPrYBdNj9urVT53FLHG%2BsBOoJfUVP26Owc58GLkhu1QC0LUW0EdJDlJHQzOyP1r1FEAmtVIjQS8dkbHiofHk139uEPg%2FThhXpI6ZuWBMJF1rXYZSNl3y5524vgk6WC8wLxmWAdpanuD3ccoG4xSbJsUrxdjAbBS92UShOVt8cjCSPyMtQu8IO7TUnu4ql9BifQrlWv7pxRGYv8%2BPE4sewEF4m1i1Dr4%2BVgppkkcRvOZ9YtjXFUyx1zwLTtD7O4qkMpgR7WFBEkV6pDWfyvVZ9tObw%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fb2a860c47328da59d01c1135b0305026%2Fimage.png)
+![Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/3005630620/b2a860c47328da59d01c1135b0305026/image.png?Expires=1796008285&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=4vBB8fn7gugY97ng9Bv7BlUJoK3t6Byttzw5XhAXdKYECgMD9K3ChEHbfWWSkL4D3XXi67OT1IyUiQc1BpCohvZKQ6bLMvfmV48pEmrZQVS5LUEjOXK9hfZI%2BvmUSwkcH%2FW3pQm4m6rpIRqoiteIQh0blrYTVy6szd%2FByzgOPoT%2FnHSM9y2LpFtkcPpEvuEQ4RHcwLG79MYbI%2FKGuUxOWFRx2Z57lJupwuW0%2Bz%2FmzKQ%2BnlL0lWrTcbrFe8iNXaUbPb%2BCKXDEHLF%2FFIp4pNhN68UO1vFbawtQMTCS3D2oABhpyhEhq%2BBQbEcqmIDvOhdrKvBUNDuKXugyyM97%2BCgYcg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F3005630620%2Fb2a860c47328da59d01c1135b0305026%2Fimage.png)
 
 #### Comments (2)
 - **たむ。** (Nov 23, 2026 02:37am): suixaさーん
