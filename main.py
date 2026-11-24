@@ -38,7 +38,6 @@ BOARDS = [
     ("afg5jcs1w4yyk2h1", "hikari"),
     ("kulz2hpe9vtrxep4", "itrsa"),
     ("34b6kq9lghbe3rtm", "kabotya"),
-    ("5ggicyna1yjvquxr", "obungu"),
     ("236elh6xnvi2nw9q", "romanpearce"),
     ("fj7pwrjfd44519fq", "bonjour"),
 ]
