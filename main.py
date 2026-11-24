@@ -34,12 +34,15 @@ BOARDS = [
     ("e9n4zhdx6ucfbaa4", "magurock/lobby"),
     ("v7eblregk0t2eq0k", "magurock/main"),
     ("n0g1c0jl2ak3grc5", "sennin"),
-    ("zsdegt1d6scuq9qa", "beruri"),
-    ("afg5jcs1w4yyk2h1", "hikari"),
-    ("kulz2hpe9vtrxep4", "itrsa"),
     ("34b6kq9lghbe3rtm", "kabotya"),
     ("236elh6xnvi2nw9q", "romanpearce"),
+    ("lvqryclymsry6or3", "makunami"),
+    ("1tycqnl33538fc6f", "melon"),
+    ("wmnd3onvlmt8azdm", "dakgalbi"),
+    ("zsdegt1d6scuq9qa", "beruri"),
+    ("afg5jcs1w4yyk2h1", "hikari"),
     ("fj7pwrjfd44519fq", "bonjour"),
+    ("kulz2hpe9vtrxep4", "itrsa"),
 ]
 
 # info.json には入れないボード（md と 統計CSV は保存する）
