@@ -1,13 +1,13 @@
-最終取得: 2026/11/24 15:59:51
+最終取得: 2026/11/24 17:38:02
 
 # ローマン部屋
 
 ## Summary
 - **Link:** https://padlet.com/rikuto10203/padlet-236elh6xnvi2nw9q
 - **Builder:** ローマンピアースのスマホ垢本物 (rikuto10203)
-- **Posts:** 4
+- **Posts:** 5
 - **Created At:** Oct 03, 2025 11:17pm
-- **Updated At:** Nov 24, 2026 07:00am
+- **Updated At:** Nov 24, 2026 08:05am
 
 ## 受付
 
@@ -34,7 +34,18 @@
 
 ## セクション2
 
-### 1. また？
+### 1. やば
+**Author:** 𝓜𝓫𝓪𝓹𝓹𝓮́ 🟩♯つつきの森1番弟子♯狂鳥族2代目♯9代目女真族♯だいまだの9番弟子♯makunami族15代目♯りおとの4番弟子 (mythoughtsarespinning)
+
+**͏‍⁠⁠:** ‌‌‌‪‫​
+
+#### Additional Information
+- **Created At:** Nov 24, 2026 07:25am
+- **Updated At:** Nov 24, 2026 07:25am
+
+---
+
+### 2. また？
 **Author:** ハロー！ (s16260060)
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
@@ -76,12 +87,14 @@
 
 **͏‍⁠⁠:** ‌‌‌‪‫​
 
-[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/d7018fe04f98438816dbacf518042097/video.mp4?Expires=1796108537&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=R9zpUyRpJeioYT%2B3IDH1%2BGBQI5LSO41Q2nh%2BlPpue5Bn64ZiKRgHKkENIv%2FQ%2BO1Yqc1CI8Y%2FvOngwmk9xBZVr9nN%2BbWf8p2qlSa%2BBUR4Lv9nRiRnpTarE3OEMzJaRclnM8jbj81z4xDcvmucgVfklWFaYRnUcz%2FMlRXhvQ%2B5jdN5XCUHofIiN1gUmmwPNzncX2MGynSnOQqRTPvIKD8I34CF2FMSbbA%2FiE1ooNi7QNUXCtrQdoZZGSVsgiVNSyZZ655jk%2FK5c7MwQDu54hfGsXu9lJo47ooDSrlo3FZJ25TnBhUO8gzZpFa6frdLOTQBsJCh6D805HXreQXz%2F7bbhg%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2Fd7018fe04f98438816dbacf518042097%2Fvideo.mp4)
+[Attachment 1](https://storage.googleapis.com/padlet-uploads-usc1/2439797811/d7018fe04f98438816dbacf518042097/video.mp4?Expires=1796114387&GoogleAccessId=gcs-url-signer-june2026%40logical-handler-867.iam.gserviceaccount.com&Signature=HGm6otj2%2BRyK%2BEPflFSSKunhM7rJfWQqHz%2BeXYm1o5Akgu9AFFqsTXy4IPkJkTZyeLSGMN%2FMlfr9dtg1e05R%2BecxNZ7REERHEwlNIT7510OSZOOLrlNnGOimwcplijFmTIXf%2FH0BIVzadUj1SW1TJ3hxXAu94KLDFl4xSmefIAgJrjVkgHCJX%2BIn4dYECfV3NtctMLKG8F9E5q5IuwAyQW1iZSW6zXPkFi%2B5kHMlUAP%2BdK4NgdQl3olL17d1rD%2FuX4N%2BwfSjqC41VtBhdQMzM9q0z68TvmcsSiWYR98YfaBqosE11YVjZWt3C9uh1VCpwutruQvyZfrvoldUy7GKjA%3D%3D&original-url=https%3A%2F%2Fpadlet-uploads-usc1.storage.googleapis.com%2F2439797811%2Fd7018fe04f98438816dbacf518042097%2Fvideo.mp4)
 
-#### Comments (3)
+#### Comments (5)
 - **たむ。** (Nov 24, 2026 05:47am): どゆこと？
 - **たむ。** (Nov 24, 2026 05:47am): これ素の声？
 - **8101000π** (Nov 24, 2026 05:52am): どんまい
+- **かいと** (Nov 24, 2026 07:35am): いて😅
+- **カオスケ** (Nov 24, 2026 08:05am): 先生にバレて消されたってことあと地声です
 
 #### Additional Information
 - **Created At:** Nov 24, 2026 05:15am
