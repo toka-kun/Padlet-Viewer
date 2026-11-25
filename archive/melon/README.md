@@ -1,13 +1,13 @@
-最終取得: 2026/11/25 23:23:48
+最終取得: 2026/11/26 08:20:53
 
 # 学タブ規制回避共有掲示板
 
 ## Summary
 - **Link:** https://padlet.com/20174373/padlet-1tycqnl33538fc6f
 - **Builder:** メロン (20174373)
-- **Posts:** 1463
+- **Posts:** 1464
 - **Created At:** Oct 22, 2025 08:22am
-- **Updated At:** Nov 25, 2026 02:18pm
+- **Updated At:** Nov 25, 2026 10:59pm
 
 ### 1. Post 1
 **Author:** ばなな (20190011_28)
@@ -29662,7 +29662,7 @@ yes
 
 まだいる人いる？(；ω；)喋りたいボッチw
 
-#### Comments (84)
+#### Comments (85)
 - **かおる** (Nov 24, 2026 12:02pm): いる！
 - **かおる** (Nov 24, 2026 12:03pm): ひまー
 - **かおる** (Nov 24, 2026 12:03pm): 君もひまじんかい？
@@ -29747,6 +29747,7 @@ yes
 - **かおる** (Nov 25, 2026 01:53pm): ．生きてる！
 - **かおる** (Nov 25, 2026 01:58pm): 寝ないといけない時こそ起きるのはなぜ？
 - **かおる** (Nov 25, 2026 02:10pm): おきてしまった
+- **かおる** (Nov 25, 2026 10:59pm): おきたー
 
 #### Additional Information
 - **Post color:** White
@@ -30044,5 +30045,17 @@ yes
 - **Post color:** White
 - **Created At:** Nov 25, 2026 02:09pm
 - **Updated At:** Nov 25, 2026 02:09pm
+
+---
+
+### 1464. Post 1464
+**Author:** シカ (gs213204)
+
+あ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 25, 2026 10:50pm
+- **Updated At:** Nov 25, 2026 10:50pm
 
 ---
