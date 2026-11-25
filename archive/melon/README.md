@@ -1,13 +1,13 @@
-最終取得: 2026/11/25 11:51:21
+最終取得: 2026/11/25 13:12:54
 
 # 学タブ規制回避共有掲示板
 
 ## Summary
 - **Link:** https://padlet.com/20174373/padlet-1tycqnl33538fc6f
 - **Builder:** メロン (20174373)
-- **Posts:** 1451
+- **Posts:** 1452
 - **Created At:** Oct 22, 2025 08:22am
-- **Updated At:** Nov 25, 2026 02:08am
+- **Updated At:** Nov 25, 2026 03:57am
 
 ### 1. Post 1
 **Author:** ばなな (20190011_28)
@@ -29812,5 +29812,17 @@ yes
 - **Post color:** White
 - **Created At:** Nov 25, 2026 02:06am
 - **Updated At:** Nov 25, 2026 02:06am
+
+---
+
+### 1452. Post 1452
+**Author:** かおる
+
+暇な中1です
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 25, 2026 03:57am
+- **Updated At:** Nov 25, 2026 03:57am
 
 ---
