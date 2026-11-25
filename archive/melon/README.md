@@ -1,13 +1,13 @@
-最終取得: 2026/11/25 20:53:34
+最終取得: 2026/11/25 23:23:48
 
 # 学タブ規制回避共有掲示板
 
 ## Summary
 - **Link:** https://padlet.com/20174373/padlet-1tycqnl33538fc6f
 - **Builder:** メロン (20174373)
-- **Posts:** 1456
+- **Posts:** 1463
 - **Created At:** Oct 22, 2025 08:22am
-- **Updated At:** Nov 25, 2026 11:55am
+- **Updated At:** Nov 25, 2026 02:18pm
 
 ### 1. Post 1
 **Author:** ばなな (20190011_28)
@@ -62,8 +62,8 @@
 - **笑えない鶴** (Oct 06, 2026 09:47am): 入ろうとしてもゴミ箱に入っていますとか出たで
 - **フユアカリ** (Oct 12, 2026 03:22am): まじか
 - **ワニャーさん(テラビット民)** (Oct 22, 2026 07:23am): 見たいのに見れない
-- **とめかた** (Oct 25, 2026 08:59am): https://padlet.com/gs214706/padlet-s024ivz1s08f0bavfqqv
-- **とめかた** (Oct 25, 2026 08:59am): https://padlet.com/gs214706/padlet-s024ivz1s08f0bavfqqv
+- **淫夢王** (Oct 25, 2026 08:59am): https://padlet.com/gs214706/padlet-s024ivz1s08f0bavfqqv
+- **淫夢王** (Oct 25, 2026 08:59am): https://padlet.com/gs214706/padlet-s024ivz1s08f0bavfqqv
 - **フエフキ** (Oct 29, 2026 10:24pm): わお
 - **森岡晄** (Nov 04, 2026 01:08am): みんな触らせて
 - **ナギコ** (Nov 06, 2026 04:42am): https://petezah.nana.inbucort.com
@@ -21501,8 +21501,8 @@ k
 うおwどわー
 
 #### Comments (2)
-- **とめかた** (Oct 25, 2026 08:58am): https://padlet.com/gs214706/padlet-s024ivz1s08f0bavfqqv
-- **とめかた** (Oct 25, 2026 08:59am): https://padlet.com/gs214706/padlet-s024ivz1s08f0bavfqqv
+- **淫夢王** (Oct 25, 2026 08:58am): https://padlet.com/gs214706/padlet-s024ivz1s08f0bavfqqv
+- **淫夢王** (Oct 25, 2026 08:59am): https://padlet.com/gs214706/padlet-s024ivz1s08f0bavfqqv
 
 #### Additional Information
 - **Post color:** White
@@ -27803,7 +27803,7 @@ YouTube見せてください
 
 なう2026、7時半夜11月18日
 
-#### Comments (506)
+#### Comments (508)
 - **春巻き** (Nov 18, 2026 10:32am): やるぞ
 - **ツキヨコ** (Nov 18, 2026 10:42am): いいよ
 - **ツキヨコ** (Nov 18, 2026 11:43am): うい？
@@ -28310,6 +28310,8 @@ YouTube見せてください
 - **マガド様** (Nov 24, 2026 09:04am): 俺はいったz
 - **マガド様** (Nov 25, 2026 04:34am): みんなー
 - **焼きそば2986** (Nov 25, 2026 08:17am): 初コメです
+- **マガド様** (Nov 25, 2026 12:33pm): 誰？
+- **いぬ大好きマン** (Nov 25, 2026 12:47pm): 俺も思ったんやけど誰
 
 #### Additional Information
 - **Post color:** Green
@@ -29580,7 +29582,7 @@ yes
 
 月横宗教
 
-#### Comments (20)
+#### Comments (22)
 - **マガド様** (Nov 24, 2026 09:03am): オッケーやって行くか
 - **マガド様** (Nov 24, 2026 09:03am): [Attachment](https://padlet.com/20174373/padlet-1tycqnl33538fc6f/wish/j40PQD7w3wGVavXB) 
 - **春巻き** (Nov 24, 2026 09:03am): うん直人明日にしこと一緒にやろ俺飯食う
@@ -29601,6 +29603,8 @@ yes
 - **春巻き** (Nov 24, 2026 12:22pm): いけへん
 - **春巻き** (Nov 24, 2026 12:24pm): 見つけた？送ったろっか？
 - **春巻き** (Nov 24, 2026 12:33pm): https://prakashnewxy1.github.io/macvg/projects/bloxors/
+- **マガド様** (Nov 25, 2026 12:35pm): 👁️👄👁️
+- **かおる** (Nov 25, 2026 02:11pm): こんー
 
 #### Additional Information
 - **Post color:** Blue
@@ -29658,7 +29662,7 @@ yes
 
 まだいる人いる？(；ω；)喋りたいボッチw
 
-#### Comments (45)
+#### Comments (84)
 - **かおる** (Nov 24, 2026 12:02pm): いる！
 - **かおる** (Nov 24, 2026 12:03pm): ひまー
 - **かおる** (Nov 24, 2026 12:03pm): 君もひまじんかい？
@@ -29704,6 +29708,45 @@ yes
 - **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 24, 2026 12:32pm): ありがとうﾍﾟｺﾘ
 - **かおる** (Nov 24, 2026 12:33pm): かおるの雑談でまた会えるかもねー 
 - **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 11:55am): かおるさんいますか？喋るたい…
+- **かおる** (Nov 25, 2026 12:23pm): いる！
+- **かおる** (Nov 25, 2026 12:27pm): ヒマ⭐️ 
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 12:27pm): うれぴ  
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 12:28pm): 暇な6年来た
+- **かおる** (Nov 25, 2026 12:32pm): おかえり！ 
+- **かおる** (Nov 25, 2026 12:32pm): このサイトラグいよねー 
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 12:33pm): それな重い
+- **かおる** (Nov 25, 2026 12:35pm): 昨日のサイト来る？
+- **かおる** (Nov 25, 2026 12:35pm): 私またかおるでおるよー
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 12:37pm): 行くぜよくやり方はわからんが
+- **かおる** (Nov 25, 2026 12:37pm): 2人で学タブ回避のチャットサイト探さない？ 
+- **かおる** (Nov 25, 2026 12:39pm): 昨日のやつよんだらはいれるよー
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 12:40pm): どう探せば良いだろう？
+- **かおる** (Nov 25, 2026 12:40pm): ？
+- **かおる** (Nov 25, 2026 12:41pm): あっちのサイトは入れた？
+- **かおる** (Nov 25, 2026 12:42pm): あっちでコメントした？
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 12:42pm): うん
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 12:43pm): したけどバグってなんか連投しちゃった
+- **かおる** (Nov 25, 2026 12:43pm): 見たwww  
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 12:44pm): ごめん
+- **かおる** (Nov 25, 2026 12:44pm): いいよ！
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 12:44pm): ありがとうﾍﾟｺﾘ
+- **かおる** (Nov 25, 2026 12:44pm): またコメントしてみて！
+- **かおる** (Nov 25, 2026 12:47pm): 一回抜けるー10時ごろまだやってたらスレきてー
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 12:48pm): バイバイまた来る
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 12:48pm): 喋ろうね
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 01:05pm): やってるか？
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 01:07pm): 面白そうなの見つけたリンク↓
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 01:07pm): https://7buddy.com/anyone/mental-problems-and-chats/14610/
+- **かおる** (Nov 25, 2026 01:22pm): きた
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 01:23pm): これもよさそうw
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 01:23pm): https://padlet.com/gakutabusaikyo/toto-bznzu9nfqtuzw6u0
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 01:24pm): 23時までです!
+- **かおる** (Nov 25, 2026 01:25pm): ごめん明日もテストだから寝るー
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 01:29pm): がんば!おやすみ💤
+- **かおる** (Nov 25, 2026 01:30pm): また昨日のスレ掲示板いるかも
+- **かおる** (Nov 25, 2026 01:53pm): ．生きてる！
+- **かおる** (Nov 25, 2026 01:58pm): 寝ないといけない時こそ起きるのはなぜ？
+- **かおる** (Nov 25, 2026 02:10pm): おきてしまった
 
 #### Additional Information
 - **Post color:** White
@@ -29756,12 +29799,14 @@ yes
 
 イラスト見せて(みんなが描いたの)
 
-#### Comments (5)
+#### Comments (7)
 - **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 24, 2026 01:47pm): みんなが載せてくれたら主の下手なイラスト見せるわ  
 - **^^** (Nov 24, 2026 11:38pm): [Attachment](https://padlet.com/20174373/padlet-1tycqnl33538fc6f/wish/dMA1W8KpVLLjZ4OV) ちゃちゃっと描いた落書き
 - **カケルビ** (Nov 25, 2026 02:08am): [Attachment](https://padlet.com/20174373/padlet-1tycqnl33538fc6f/wish/dMA1W8KpVLLjZ4OV) ヒヨコ書いたよ
 - **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 11:53am): 今来てみんなうますぎて失神するわw
 - **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 11:54am): これって上げた方がいいの？
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 11:57am): 😵‍💫
+- **かおる** (Nov 25, 2026 02:14pm): 描くの上手い！なんのアプリ？
 
 #### Additional Information
 - **Post color:** White
@@ -29825,9 +29870,10 @@ yes
 
 暇な中1です
 
-#### Comments (2)
+#### Comments (3)
 - **キムテス** (Nov 25, 2026 08:20am): こんにちは、中1さん私は5年生です。
 - **キムテス** (Nov 25, 2026 08:20am): 😎 
+- **かおる** (Nov 25, 2026 02:13pm): キムテス草
 
 #### Additional Information
 - **Post color:** White
@@ -29872,9 +29918,11 @@ yes
 
 初投稿です。youtubeのみかた教えてくれたらありがたいです
 
-#### Comments (2)
+#### Comments (4)
 - **キムテス** (Nov 25, 2026 08:59am): ゲーム情報↓
 - **キムテス** (Nov 25, 2026 09:01am): https://amix-design.com/tools
+- **かおる** (Nov 25, 2026 12:22pm): 本物かと思った、、、キムテスさん好きなの？
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 12:28pm): それなwまじ本物だと思ったw
 
 #### Additional Information
 - **Post color:** White
@@ -29892,5 +29940,109 @@ yes
 - **Post color:** White
 - **Created At:** Nov 25, 2026 09:06am
 - **Updated At:** Nov 25, 2026 09:06am
+
+---
+
+### 1457. Post 1457
+**Author:** かおる
+
+こんー
+
+#### Comments (1)
+- **かおる** (Nov 25, 2026 12:21pm): 暇な中1帰ってきた 
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 25, 2026 12:19pm
+- **Updated At:** Nov 25, 2026 12:19pm
+
+---
+
+### 1458. Post 1458
+**Author:** かおる
+
+暇⭐️
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 25, 2026 12:26pm
+- **Updated At:** Nov 25, 2026 12:26pm
+
+---
+
+### 1459. Post 1459
+**Author:** かおる
+
+おかえり！
+
+#### Comments (1)
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 12:32pm): (((o(*ﾟ▽ﾟ*)o)))、
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 25, 2026 12:31pm
+- **Updated At:** Nov 25, 2026 12:31pm
+
+---
+
+### 1460. Post 1460
+**Author:** かおる
+
+帰ってきた
+
+#### Comments (1)
+- **かおる** (Nov 25, 2026 02:18pm): にゃーーーーーーーーーーーーーーーーーーー
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 25, 2026 01:21pm
+- **Updated At:** Nov 25, 2026 01:21pm
+
+---
+
+### 1461. Post 1461
+**Author:** かおる
+
+下まで行けない、、、
+
+#### Comments (1)
+- **かおる** (Nov 25, 2026 02:18pm): 誰かスレかもんぬ
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 25, 2026 01:22pm
+- **Updated At:** Nov 25, 2026 01:22pm
+
+---
+
+### 1462. Post 1462
+**Author:** やっほ〜(((o(*ﾟ▽ﾟ*)o))) (w21618)
+
+おめめmぇぇぇ
+
+#### Comments (2)
+- **かおる** (Nov 25, 2026 02:09pm): おきてる？
+- **かおる** (Nov 25, 2026 02:16pm): ヤッホーさん寂しい、、、、、、、
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 25, 2026 01:48pm
+- **Updated At:** Nov 25, 2026 01:48pm
+
+---
+
+### 1463. Post 1463
+**Author:** かおる
+
+暇誰か雑談
+
+#### Comments (2)
+- **かおる** (Nov 25, 2026 02:12pm): おきてー暇ーだれかー
+- **かおる** (Nov 25, 2026 02:13pm): だれかーーーーーーー
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 25, 2026 02:09pm
+- **Updated At:** Nov 25, 2026 02:09pm
 
 ---
