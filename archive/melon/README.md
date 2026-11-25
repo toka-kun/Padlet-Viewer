@@ -1,4 +1,4 @@
-最終取得: 2026/11/25 18:13:13
+最終取得: 2026/11/25 20:53:34
 
 # 学タブ規制回避共有掲示板
 
@@ -7,7 +7,7 @@
 - **Builder:** メロン (20174373)
 - **Posts:** 1456
 - **Created At:** Oct 22, 2025 08:22am
-- **Updated At:** Nov 25, 2026 09:06am
+- **Updated At:** Nov 25, 2026 11:55am
 
 ### 1. Post 1
 **Author:** ばなな (20190011_28)
@@ -29658,7 +29658,7 @@ yes
 
 まだいる人いる？(；ω；)喋りたいボッチw
 
-#### Comments (44)
+#### Comments (45)
 - **かおる** (Nov 24, 2026 12:02pm): いる！
 - **かおる** (Nov 24, 2026 12:03pm): ひまー
 - **かおる** (Nov 24, 2026 12:03pm): 君もひまじんかい？
@@ -29703,6 +29703,7 @@ yes
 - **かおる** (Nov 24, 2026 12:32pm): https://hsp.tv/play/pforum.php
 - **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 24, 2026 12:32pm): ありがとうﾍﾟｺﾘ
 - **かおる** (Nov 24, 2026 12:33pm): かおるの雑談でまた会えるかもねー 
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 11:55am): かおるさんいますか？喋るたい…
 
 #### Additional Information
 - **Post color:** White
@@ -29755,10 +29756,12 @@ yes
 
 イラスト見せて(みんなが描いたの)
 
-#### Comments (3)
+#### Comments (5)
 - **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 24, 2026 01:47pm): みんなが載せてくれたら主の下手なイラスト見せるわ  
 - **^^** (Nov 24, 2026 11:38pm): [Attachment](https://padlet.com/20174373/padlet-1tycqnl33538fc6f/wish/dMA1W8KpVLLjZ4OV) ちゃちゃっと描いた落書き
 - **カケルビ** (Nov 25, 2026 02:08am): [Attachment](https://padlet.com/20174373/padlet-1tycqnl33538fc6f/wish/dMA1W8KpVLLjZ4OV) ヒヨコ書いたよ
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 11:53am): 今来てみんなうますぎて失神するわw
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 11:54am): これって上げた方がいいの？
 
 #### Additional Information
 - **Post color:** White
@@ -29823,8 +29826,8 @@ yes
 暇な中1です
 
 #### Comments (2)
-- **アニオタ** (Nov 25, 2026 08:20am): こんにちは、中1さん私は5年生です。
-- **アニオタ** (Nov 25, 2026 08:20am): 😎 
+- **キムテス** (Nov 25, 2026 08:20am): こんにちは、中1さん私は5年生です。
+- **キムテス** (Nov 25, 2026 08:20am): 😎 
 
 #### Additional Information
 - **Post color:** White
@@ -29865,13 +29868,13 @@ yes
 ---
 
 ### 1455. Post 1455
-**Author:** アニオタ (2202077_5)
+**Author:** キムテス (2202077_5)
 
 初投稿です。youtubeのみかた教えてくれたらありがたいです
 
 #### Comments (2)
-- **アニオタ** (Nov 25, 2026 08:59am): ゲーム情報↓
-- **アニオタ** (Nov 25, 2026 09:01am): https://amix-design.com/tools
+- **キムテス** (Nov 25, 2026 08:59am): ゲーム情報↓
+- **キムテス** (Nov 25, 2026 09:01am): https://amix-design.com/tools
 
 #### Additional Information
 - **Post color:** White
