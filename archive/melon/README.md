@@ -1,13 +1,13 @@
-最終取得: 2026/11/26 08:20:53
+最終取得: 2026/11/26 11:27:25
 
 # 学タブ規制回避共有掲示板
 
 ## Summary
 - **Link:** https://padlet.com/20174373/padlet-1tycqnl33538fc6f
 - **Builder:** メロン (20174373)
-- **Posts:** 1464
+- **Posts:** 1466
 - **Created At:** Oct 22, 2025 08:22am
-- **Updated At:** Nov 25, 2026 10:59pm
+- **Updated At:** Nov 26, 2026 02:27am
 
 ### 1. Post 1
 **Author:** ばなな (20190011_28)
@@ -13262,13 +13262,14 @@ appleisbacks.ovie.gob.mxってうってたぶんユーチューブ見れると�
 
 リア友に聞いてみましょうか？
 
-#### Comments (6)
+#### Comments (7)
 - **🫧海音　らむね✨** (Aug 27, 2026 10:12am): ちなみに両親警察です✨️
 - **🫧海音　らむね✨** (Aug 27, 2026 10:14am): 脅し？そんなの通じませんよ
 - **🫧海音　らむね✨** (Aug 27, 2026 11:03am): あ。Ｖtuberです。みすりました
 - **初夏** (Aug 27, 2026 12:17pm): ごめんね
 - **初夏** (Aug 27, 2026 12:18pm): グーグル調べて誰やねんってなったｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
 - **初夏** (Aug 27, 2026 01:39pm): 9月30日の告白頑張ってね
+- **リア充撲滅委員会** (Nov 26, 2026 12:26am): 初夏〆殺Oぞ
 
 #### Additional Information
 - **Post color:** White
@@ -16341,8 +16342,9 @@ lk
 
 お前√3136す
 
-#### Comments (1)
+#### Comments (2)
 - **初夏** (Sep 16, 2026 08:23am): これGoogleで調べてみ真実がわかる
+- **リア充撲滅委員会** (Nov 26, 2026 12:21am): ゲイ爆誕
 
 #### Additional Information
 - **Post color:** White
@@ -18029,7 +18031,7 @@ fdymader
 
 教えて下さい。
 
-#### Comments (12)
+#### Comments (13)
 - **ホシノオト** (Oct 01, 2026 03:41pm): 可哀想だけど解除は分からんなごめんー 
 - **アメヒカリ** (Nov 06, 2026 08:21am): 俺知っているよ😍
 - **アメヒカリ** (Nov 06, 2026 08:21am): 教えてもいいよ
@@ -18042,6 +18044,7 @@ fdymader
 - **アメヒカリ** (Nov 11, 2026 10:16am): お兄ちゃん読んでくる
 - **アメヒカリ** (Nov 11, 2026 10:16am): ごめん・教えてあげます
 - **アメヒカリ** (Nov 11, 2026 10:17am): ららさん教えます
+- **リア充撲滅委員会** (Nov 26, 2026 12:16am): プロキシ使えよ
 
 #### Additional Information
 - **Post color:** White
@@ -30057,5 +30060,29 @@ yes
 - **Post color:** White
 - **Created At:** Nov 25, 2026 10:50pm
 - **Updated At:** Nov 25, 2026 10:50pm
+
+---
+
+### 1465. Post 1465
+**Author:** ヒカリマル
+
+やっぱ学タブ規制強い
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 26, 2026 02:22am
+- **Updated At:** Nov 26, 2026 02:22am
+
+---
+
+### 1466. Post 1466
+**Author:** ヒカリマル
+
+シアチューブどうやってみるの？
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 26, 2026 02:27am
+- **Updated At:** Nov 26, 2026 02:27am
 
 ---
