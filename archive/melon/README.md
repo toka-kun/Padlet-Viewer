@@ -1,13 +1,13 @@
-最終取得: 2026/11/26 12:17:53
+最終取得: 2026/11/26 14:28:56
 
 # 学タブ規制回避共有掲示板
 
 ## Summary
 - **Link:** https://padlet.com/20174373/padlet-1tycqnl33538fc6f
 - **Builder:** メロン (20174373)
-- **Posts:** 1466
+- **Posts:** 1468
 - **Created At:** Oct 22, 2025 08:22am
-- **Updated At:** Nov 26, 2026 02:40am
+- **Updated At:** Nov 26, 2026 04:56am
 
 ### 1. Post 1
 **Author:** ばなな (20190011_28)
@@ -29923,11 +29923,15 @@ yes
 
 初投稿です。youtubeのみかた教えてくれたらありがたいです
 
-#### Comments (4)
+#### Comments (8)
 - **キムテス** (Nov 25, 2026 08:59am): ゲーム情報↓
 - **キムテス** (Nov 25, 2026 09:01am): https://amix-design.com/tools
 - **かおる** (Nov 25, 2026 12:22pm): 本物かと思った、、、キムテスさん好きなの？
 - **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 12:28pm): それなwまじ本物だと思ったw
+- **キムテス** (Nov 26, 2026 04:35am): [Attachment](https://padlet.com/20174373/padlet-1tycqnl33538fc6f/wish/Ae2Rav7yj5gOQnz4) 
+- **キムテス** (Nov 26, 2026 04:35am): 出したー
+- **キムテス** (Nov 26, 2026 04:56am): [Attachment](https://padlet.com/20174373/padlet-1tycqnl33538fc6f/wish/Ae2Rav7yj5gOQnz4) でっで出たー
+- **キムテス** (Nov 26, 2026 04:57am): フォトナやっている人なら凄さわかる
 
 #### Additional Information
 - **Post color:** White
@@ -30085,5 +30089,29 @@ yes
 - **Post color:** White
 - **Created At:** Nov 26, 2026 02:27am
 - **Updated At:** Nov 26, 2026 02:27am
+
+---
+
+### 1467. Post 1467
+**Author:** 杉田玄白
+
+解体新書読んでる?
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 26, 2026 04:15am
+- **Updated At:** Nov 26, 2026 04:15am
+
+---
+
+### 1468. Post 1468
+**Author:** 杉田玄白
+
+解体新書読んでる?
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 26, 2026 04:16am
+- **Updated At:** Nov 26, 2026 04:16am
 
 ---
