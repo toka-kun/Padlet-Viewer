@@ -36,7 +36,6 @@ BOARDS = [
     ("n0g1c0jl2ak3grc5", "sennin"),
     ("34b6kq9lghbe3rtm", "kabotya"),
     ("236elh6xnvi2nw9q", "romanpearce"),
-    ("lvqryclymsry6or3", "makunami"),
     ("1tycqnl33538fc6f", "melon"),
     ("wmnd3onvlmt8azdm", "dakgalbi"),
     ("zsdegt1d6scuq9qa", "beruri"),
@@ -50,6 +49,7 @@ BOARDS_NO_INFO = [
     ("5db70e80bto7rnxl", "kiseikaijoiinkai/lobby"),
     ("g07iihoi22rh2q7l", "kiseikaijoiinkai/main"),
     ("okjy1jmzjzdbb5jm", "ouga"),
+    ("lvqryclymsry6or3", "makunami"),
 ]
 
 
