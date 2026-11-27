@@ -1,13 +1,13 @@
-最終取得: 2026/11/27 17:35:15
+最終取得: 2026/11/27 22:06:49
 
 # 学タブ規制回避共有掲示板
 
 ## Summary
 - **Link:** https://padlet.com/20174373/padlet-1tycqnl33538fc6f
 - **Builder:** メロン (20174373)
-- **Posts:** 1501
+- **Posts:** 1502
 - **Created At:** Oct 22, 2025 08:22am
-- **Updated At:** Nov 27, 2026 07:56am
+- **Updated At:** Nov 27, 2026 12:48pm
 
 ### 1. Post 1
 **Author:** ばなな (20190011_28)
@@ -2858,8 +2858,9 @@ Spotifyログインして、ビデオにすれば、動画みれるよーログ�
 
 ログインしたー
 
-#### Comments (1)
+#### Comments (2)
 - **匿名[B139]** (Oct 30, 2026 02:13am): だから何？どうでもよ
+- **ざのらかまぼ** (Nov 27, 2026 11:06am): どしたん。生理？
 
 #### Additional Information
 - **Post color:** White
@@ -3045,9 +3046,10 @@ Spotifyログインして、ビデオにすれば、動画みれるよーログ�
 
 あ
 
-#### Comments (2)
+#### Comments (3)
 - **ぱんぱかぱん** (Jun 25, 2026 02:58am): ああ
 - **もやし** (Sep 08, 2026 07:30am): あああ
+- **ざのらかまぼ** (Nov 27, 2026 11:07am): ああああ
 
 #### Additional Information
 - **Post color:** White
@@ -3406,11 +3408,12 @@ Spotifyログインして、ビデオにすれば、動画みれるよーログ�
 
 どうも！小6女子です！仲良くしましょー！
 
-#### Comments (4)
+#### Comments (5)
 - **はんぺん食べるから** (Jun 20, 2026 04:00pm): 同一人物です
 - **ぱんぱかぱん** (Jun 25, 2026 06:52am): やっほー
 - **はんぺん食べるから** (Jun 26, 2026 01:12am): こんにちは！
 - **さんぽ** (Sep 18, 2026 10:33am): 中1です！仲良くしよ〜
+- **ざのらかまぼ** (Nov 27, 2026 10:55am): 一緒！！よろ〜！
 
 #### Additional Information
 - **Post color:** White
@@ -3776,10 +3779,11 @@ Googleアース学校のタブレットでする方法ない？
 
 １９１９
 
-#### Comments (3)
+#### Comments (4)
 - **余暇人** (Jul 09, 2026 12:18am): 4545
 - **削除済みユーザー** (Aug 12, 2026 05:22am): ０７２
 - **Anonymous** (Aug 25, 2026 06:26am): 野獣
+- **ざのらかまぼ** (Nov 27, 2026 10:56am): 810
 
 #### Additional Information
 - **Post color:** White
@@ -3793,12 +3797,13 @@ Googleアース学校のタブレットでする方法ない？
 
 １９１９
 
-#### Comments (5)
+#### Comments (6)
 - **P** (Jun 25, 2026 11:21pm): １９１９って何？
 - **unk** (Jun 26, 2026 04:16am): いくいく
 - **誰ですか誰ですか** (Jul 01, 2026 02:18am): 114514
 - **ブロスタ　56000トロ** (Jul 02, 2026 01:19am): 良い世来いよ
 - **誰ですか誰ですか** (Jul 02, 2026 03:30am): やりますねぇ
+- **ざのらかまぼ** (Nov 27, 2026 10:57am): あははは
 
 #### Additional Information
 - **Post color:** White
@@ -4616,13 +4621,14 @@ pixiv開く方法教えてクレメンス
 
 誰かしりとりしよ
 
-#### Comments (6)
+#### Comments (7)
 - **瑠衣菜** (Jul 01, 2026 12:45am): いいよ
 - **ぱんぱかぱん** (Jul 01, 2026 01:08am): りんご
 - **削除済みユーザー** (Aug 14, 2026 10:54am): ごりら
 - **Anonymous** (Aug 25, 2026 06:29am): 来年
 - **削除済みユーザー** (Aug 26, 2026 06:21am): ンジャメナ
 - **暇人** (Aug 31, 2026 10:05am): 夏休み
+- **ざのらかまぼ** (Nov 27, 2026 11:00am): ミンミンゼミ
 
 #### Additional Information
 - **Post color:** White
@@ -27809,7 +27815,7 @@ YouTube見せてください
 
 なう2026、7時半夜11月18日
 
-#### Comments (523)
+#### Comments (526)
 - **春巻き** (Nov 18, 2026 10:32am): やるぞ
 - **ツキヨコ** (Nov 18, 2026 10:42am): いいよ
 - **ツキヨコ** (Nov 18, 2026 11:43am): うい？
@@ -28333,6 +28339,9 @@ YouTube見せてください
 - **にしこ** (Nov 27, 2026 02:04am): トンテンカンテンヤロ
 - **にしこ** (Nov 27, 2026 02:06am): https://amix-design.com/tl/tool-g-tonten/?room=GGX3N
 - **マガド様** (Nov 27, 2026 02:22am): [Attachment](https://padlet.com/20174373/padlet-1tycqnl33538fc6f/wish/goElQy5P6gemQ3yY) 謙五かっこ良すぎる
+- **マガド様** (Nov 27, 2026 08:48am): [Attachment](https://padlet.com/20174373/padlet-1tycqnl33538fc6f/wish/goElQy5P6gemQ3yY) 
+- **マガド様** (Nov 27, 2026 08:48am): これ可愛いし
+- **マガド様** (Nov 27, 2026 08:49am): [Attachment](https://padlet.com/20174373/padlet-1tycqnl33538fc6f/wish/goElQy5P6gemQ3yY) こっちも可愛い
 
 #### Additional Information
 - **Post color:** Green
@@ -29807,7 +29816,7 @@ yes
 
 イラスト見せて(みんなが描いたの)
 
-#### Comments (7)
+#### Comments (8)
 - **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 24, 2026 01:47pm): みんなが載せてくれたら主の下手なイラスト見せるわ  
 - **^^** (Nov 24, 2026 11:38pm): [Attachment](https://padlet.com/20174373/padlet-1tycqnl33538fc6f/wish/dMA1W8KpVLLjZ4OV) ちゃちゃっと描いた落書き
 - **カケルビ** (Nov 25, 2026 02:08am): [Attachment](https://padlet.com/20174373/padlet-1tycqnl33538fc6f/wish/dMA1W8KpVLLjZ4OV) ヒヨコ書いたよ
@@ -29815,6 +29824,7 @@ yes
 - **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 11:54am): これって上げた方がいいの？
 - **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 25, 2026 11:57am): 😵‍💫
 - **かおる** (Nov 25, 2026 02:14pm): 描くの上手い！なんのアプリ？
+- **やっほ〜(((o(*ﾟ▽ﾟ*)o)))** (Nov 27, 2026 12:48pm): [Attachment](https://padlet.com/20174373/padlet-1tycqnl33538fc6f/wish/dMA1W8KpVLLjZ4OV) あげます、すいません本当に下手です
 
 #### Additional Information
 - **Post color:** White
@@ -30578,5 +30588,17 @@ K
 - **Post color:** White
 - **Created At:** Nov 27, 2026 07:56am
 - **Updated At:** Nov 27, 2026 07:56am
+
+---
+
+### 1502. Post 1502
+**Author:** ホワイトタイガー
+
+YouTubeおーしーえーてー
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 27, 2026 08:48am
+- **Updated At:** Nov 27, 2026 08:48am
 
 ---
