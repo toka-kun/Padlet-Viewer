@@ -1,13 +1,13 @@
-最終取得: 2026/11/27 09:04:05
+最終取得: 2026/11/27 12:16:14
 
 # 学タブ規制回避共有掲示板
 
 ## Summary
 - **Link:** https://padlet.com/20174373/padlet-1tycqnl33538fc6f
 - **Builder:** メロン (20174373)
-- **Posts:** 1494
+- **Posts:** 1497
 - **Created At:** Oct 22, 2025 08:22am
-- **Updated At:** Nov 27, 2026 12:04am
+- **Updated At:** Nov 27, 2026 02:57am
 
 ### 1. Post 1
 **Author:** ばなな (20190011_28)
@@ -27809,7 +27809,7 @@ YouTube見せてください
 
 なう2026、7時半夜11月18日
 
-#### Comments (516)
+#### Comments (523)
 - **春巻き** (Nov 18, 2026 10:32am): やるぞ
 - **ツキヨコ** (Nov 18, 2026 10:42am): いいよ
 - **ツキヨコ** (Nov 18, 2026 11:43am): うい？
@@ -28326,6 +28326,13 @@ YouTube見せてください
 - **春巻** (Nov 26, 2026 11:58pm): こんこん
 - **マガド様** (Nov 26, 2026 11:59pm): あられやコンコン
 - **マガド様** (Nov 27, 2026 12:00am): ふってもふっても
+- **にしこ** (Nov 27, 2026 01:59am): まがどー
+- **マガド様** (Nov 27, 2026 02:00am): なんやねん
+- **春巻** (Nov 27, 2026 02:03am): Edare?毒名？
+- **にしこ** (Nov 27, 2026 02:03am): Ebuttobasuyo?
+- **にしこ** (Nov 27, 2026 02:04am): トンテンカンテンヤロ
+- **にしこ** (Nov 27, 2026 02:06am): https://amix-design.com/tl/tool-g-tonten/?room=GGX3N
+- **マガド様** (Nov 27, 2026 02:22am): [Attachment](https://padlet.com/20174373/padlet-1tycqnl33538fc6f/wish/goElQy5P6gemQ3yY) 謙五かっこ良すぎる
 
 #### Additional Information
 - **Post color:** Green
@@ -29573,7 +29580,7 @@ yes
 
 月横宗教
 
-#### Comments (22)
+#### Comments (23)
 - **マガド様** (Nov 24, 2026 09:03am): オッケーやって行くか
 - **マガド様** (Nov 24, 2026 09:03am): [Attachment](https://padlet.com/20174373/padlet-1tycqnl33538fc6f/wish/j40PQD7w3wGVavXB) 
 - **春巻き** (Nov 24, 2026 09:03am): うん直人明日にしこと一緒にやろ俺飯食う
@@ -29596,6 +29603,7 @@ yes
 - **春巻き** (Nov 24, 2026 12:33pm): https://prakashnewxy1.github.io/macvg/projects/bloxors/
 - **マガド様** (Nov 25, 2026 12:35pm): 👁️👄👁️
 - **かおる** (Nov 25, 2026 02:11pm): こんー
+- **春巻** (Nov 27, 2026 02:02am): Konn-
 
 #### Additional Information
 - **Post color:** Blue
@@ -30122,8 +30130,9 @@ yes
 
 [https://canva.link/xxbebxybwi09m9o](https://canva.link/xxbebxybwi09m9o)
 
-#### Comments (1)
+#### Comments (2)
 - **かおる** (Nov 26, 2026 06:14am): こんー
+- **匿名　別班** (Nov 27, 2026 02:46am): 入れるようにした
 
 #### Additional Information
 - **Post color:** White
@@ -30477,5 +30486,46 @@ K
 - **Post color:** White
 - **Created At:** Nov 27, 2026 12:04am
 - **Updated At:** Nov 27, 2026 12:04am
+
+---
+
+### 1495. Post 1495
+**Author:** ミズアオ
+
+初投稿いきます。
+
+調布市の規制を回避してYouTubeを見る方法を教えてください。
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 27, 2026 12:45am
+- **Updated At:** Nov 27, 2026 12:45am
+
+---
+
+### 1496. Post 1496
+**Author:** こんにちわ
+
+ゲーム教えてくれませんか？
+
+#### Comments (1)
+- **こんにちわ** (Nov 27, 2026 01:33am): お願いします
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 27, 2026 01:32am
+- **Updated At:** Nov 27, 2026 01:32am
+
+---
+
+### 1497. Post 1497
+**Author:** モリノユキ
+
+ら
+
+#### Additional Information
+- **Post color:** White
+- **Created At:** Nov 27, 2026 02:57am
+- **Updated At:** Nov 27, 2026 02:57am
 
 ---

@@ -1,13 +1,13 @@
-最終取得: 2026/11/25 13:12:54
+最終取得: 2026/11/27 12:16:14
 
 # 規制解除解除委員会
 
 ## Summary
 - **Link:** https://padlet.com/TORI_TORI2/padlet-g07iihoi22rh2q7l
 - **Builder:** とるっぷい (TORI_TORI2)
-- **Posts:** 19
+- **Posts:** 20
 - **Created At:** Apr 12, 2026 10:30am
-- **Updated At:** Nov 25, 2026 03:01am
+- **Updated At:** Nov 27, 2026 01:25am
 
 ## 受付
 
@@ -16,7 +16,7 @@
 
 [Attachment 1](https://padlet.com/HONDA_Believer/padlet-5db70e80bto7rnxl)
 
-#### Comments (14)
+#### Comments (16)
 - **ゲーム教えて** (May 15, 2026 02:58am): 学タブでできるゲーム教えてください
 - **ｈ** (May 18, 2026 02:17am): 2048風ゲームとかテトリス風ゲームとか結構できるのはあるよ
 - **久保寺航希** (May 22, 2026 05:55am): リンクも欲しいです
@@ -31,6 +31,8 @@
 - **小笠原優子** (Nov 13, 2026 01:00am): うん
 - **土肥竜馬** (Nov 17, 2026 04:57am): ロブロックスしたいです
 - **土肥竜馬** (Nov 17, 2026 04:57am): ブロック解除したいですやり方教えてください
+- **中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい人😭#勉強してください** (Nov 27, 2026 01:24am): https://unpkg.com/classroomduck@1.0.29/index.html#/class/gun-spin
+- **中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい人😭#勉強してください** (Nov 27, 2026 01:25am): https://sites.google.com/classroom.center/view-1/
 
 #### Additional Information
 - **Created At:** Apr 12, 2026 10:39am
@@ -144,10 +146,6 @@
 ### 1. なんでもいいよー
 **Author:** 中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい人😭#勉強してください (INMUKING1DAIME)
 
-#### Comments (2)
-- **にものだお！** (Nov 18, 2026 01:10pm): 煮物tubeを追加しようｗ
-- **にものだお！** (Nov 18, 2026 01:10pm): nimonosite.sitaci.comnimonosite.luhu.jpnimonosite.hospitaldelninodif.gob.mxwww.nimonosite.sitenimonosite.sitenimonosite.b-cdn.net
-
 #### Additional Information
 - **Created At:** Nov 18, 2026 11:27am
 - **Updated At:** Nov 18, 2026 11:27am
@@ -161,9 +159,8 @@
 
 s2000941@g.ueis.ed.jp
 
-#### Comments (2)
+#### Comments (1)
 - **復活** (Nov 07, 2026 11:40pm): この部屋はまだ生きている
-- **dvegs fyuew gfu hf** (Nov 10, 2026 04:40am): お。おう
 
 #### Additional Information
 - **Created At:** Jun 19, 2026 12:04am
@@ -491,7 +488,18 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 
 ## その他
 
-### 1. ChromeBook用
+### 1. Post 1
+**Author:** 中居正広はイケメン。#鳥肉(ｸﾙｲﾄﾞﾘ)大好き#最近体がいたい人😭#勉強してください (INMUKING1DAIME)
+
+[Attachment 1](https://script.google.com/a/macros/mitaka.ed.jp/s/AKfycby9LEZGBGrpIG4IQkAIQVzUV66T1o44sMfAsYbQWDUeP61ttPflcZa5hAxO6Q9My2c81Q/exec)
+
+#### Additional Information
+- **Created At:** Nov 27, 2026 01:23am
+- **Updated At:** Nov 27, 2026 01:23am
+
+---
+
+### 2. ChromeBook用
 **Author:** 根釧台地(元いときち) (Dopagaki_67)
 
 これ使えばPornhubもXvideosもYouTubeもTikTokもXも、全部一発
@@ -511,3 +519,7 @@ https[://utopia.iei---trumpet-0006.dinprima.ro/](https://utopia.iei---trumpet-00
 - **Updated At:** Aug 22, 2026 08:16am
 
 ---
+
+## セクション15
+
+No post
